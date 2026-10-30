@@ -201,11 +201,6 @@ export const creditiCopertine: Record<string, CreditoImmagine> = {
     licenza: 'CC BY-SA 3.0',
     fonteUrl: 'https://commons.wikimedia.org/wiki/File:Tromsø_panorama.jpg',
   },
-  'lofoten-estate-2025': {
-    autore: 'Cappo80',
-    licenza: 'CC BY-SA 4.0',
-    fonteUrl: 'https://commons.wikimedia.org/wiki/File:Campo_da_calcio_di_Henningsvaer.JPG',
-  },
   'islanda-2024': {
     autore: 'Fabrizio Lecce',
     licenza: 'CC BY 4.0',

@@ -32,7 +32,7 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
   },
   'lofoten-estate-2025': {
     immagine: '/images/copertine/lofoten-estate-2025.jpg',
-    imageAlt: 'Il campo da calcio di Henningsvær incastonato tra il mare e le montagne, visto dalla collina rocciosa sopra il villaggio, Lofoten',
+    imageAlt: 'Reine dall\'alto: il fiordo blu, le pareti di roccia delle Lofoten e il villaggio di pescatori sparso tra gli isolotti collegati dai ponti',
   },
   'islanda-2024': {
     immagine: '/images/copertine/islanda-2024.jpg',
