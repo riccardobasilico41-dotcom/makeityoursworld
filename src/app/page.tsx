@@ -4,6 +4,7 @@ import { MeravigliaCard } from '@/components/MeravigliaCard'
 import { Reveal, RevealGroup, RevealItem } from '@/components/Reveal'
 import { CinematicHero } from '@/components/signature/CinematicHero'
 import { VoltoDelProgetto } from '@/components/signature/VoltoDelProgetto'
+import { GloboDestinazioniSezione } from '@/components/GloboDestinazioniSezione'
 import { GeographyIndex } from '@/components/signature/GeographyIndex'
 import { FeaturedJourney } from '@/components/signature/FeaturedJourney'
 import { VisualArchive } from '@/components/signature/VisualArchive'
@@ -93,6 +94,8 @@ export default function HomePage() {
       />
 
       <VoltoDelProgetto />
+
+      <GloboDestinazioniSezione />
 
       <GeographyIndex
         gruppi={gruppiPaesi}
