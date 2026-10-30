@@ -2,7 +2,17 @@ import type { Metadata } from 'next'
 import { FirmaAutore, FirmaBreve } from '@/components/FirmaAutore'
 import { OrganizzaViaggio } from '@/components/OrganizzaViaggio'
 import { listaPerViaggio } from '@/content/attrezzatura'
-import { notFound } from 'next/navigation'
+import { notFound, permanentRedirect } from 'next/navigation'
+
+/** Vecchi indirizzi con «-360» (titoli rinominati il 30/10/2026): redirect permanente al nuovo. */
+const VECCHI_SLUG: Record<string, string> = {
+  'giordania-360': 'giordania-itinerario',
+  'marocco-360': 'marocco-itinerario',
+  'new-york-360': 'new-york-itinerario',
+  'florida-360': 'florida-road-trip',
+  'costa-rica-360': 'costa-rica-itinerario',
+  'giappone-360': 'giappone-itinerario',
+}
 import { Prose } from '@/components/Prose'
 import { ScrollProgress } from '@/components/motion-primitives/scroll-progress'
 import { TripSummary } from '@/components/TripSummary'
@@ -58,6 +68,7 @@ const CAMPI_VIAGGIO_IN_BREVE: { key: keyof ViaggioInBreve; label: string }[] = [
 
 export default async function ViaggioPage({ params }: PageProps<'/viaggi/[slug]'>) {
   const { slug } = await params
+  if (VECCHI_SLUG[slug]) permanentRedirect(`/viaggi/${VECCHI_SLUG[slug]}`)
   const viaggio = getViaggioBySlug(slug)
   if (!viaggio) notFound()
 

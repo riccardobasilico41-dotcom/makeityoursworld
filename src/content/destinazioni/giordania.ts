@@ -35,7 +35,7 @@ export const destinazioniGiordania: Destinazione[] = [
     miaEsperienza:
       'La Cittadella, con vista su tutta la città vecchia, è stata una tappa carina per chiudere il viaggio prima del volo di rientro, senza essere il punto più memorabile della Giordania.',
     esperienzeSlugs: ['cittadella-amman'],
-    tripSlugs: ['giordania-360'],
+    tripSlugs: ['giordania-itinerario'],
     imageAlt: 'Le colonne del Tempio di Ercole sulla Cittadella di Amman, Giordania',
     immagine: '/images/giordania/amman-stock.jpg',
   },
@@ -61,7 +61,7 @@ export const destinazioniGiordania: Destinazione[] = [
     miaEsperienza:
       'Jerash è stata una sorpresa molto piacevole: una delle città romane meglio conservate che abbia visto, con il cardo colonnato che si estende a perdita d\'occhio. Molto bella, decisamente più di una semplice tappa di passaggio.',
     esperienzeSlugs: [],
-    tripSlugs: ['giordania-360'],
+    tripSlugs: ['giordania-itinerario'],
     imageAlt: 'Il cardo colonnato del sito archeologico romano di Jerash, Giordania',
     immagine: '/images/giordania/jerash-stock.jpg',
   },
@@ -93,7 +93,7 @@ export const destinazioniGiordania: Destinazione[] = [
     miaEsperienza:
       'Galleggiare a pelo d\'acqua guardando il sole calare dietro le colline della Cisgiordania è stata un\'esperienza a sé, soprattutto vissuta al tramonto: probabilmente il momento in cui il Mar Morto rende più di quanto ci si aspetti.',
     esperienzeSlugs: ['bagno-mar-morto'],
-    tripSlugs: ['giordania-360'],
+    tripSlugs: ['giordania-itinerario'],
     imageAlt: 'Galleggiamento nelle acque del Mar Morto al tramonto, Giordania',
     immagine: '/images/giordania/mar-morto-stock.jpg',
   },
@@ -119,7 +119,7 @@ export const destinazioniGiordania: Destinazione[] = [
     miaEsperienza:
       'Karak Castle è una fortezza imponente e vale la visita. Il Monte Nebo, sinceramente, mi ha lasciato indifferente: il valore è più simbolico (il luogo da cui la tradizione vuole che Mosè abbia visto la Terra Promessa) che scenico, e nella giornata è stata la tappa che ricordo meno.',
     esperienzeSlugs: [],
-    tripSlugs: ['giordania-360'],
+    tripSlugs: ['giordania-itinerario'],
     imageAlt: 'Le mura in pietra della fortezza crociata di Karak Castle, Giordania',
     immagine: '/images/giordania/karak-stock.jpg',
   },
@@ -158,7 +158,7 @@ export const destinazioniGiordania: Destinazione[] = [
     miaEsperienza:
       'Vedere il Tesoro emergere dal Siq senza le folle abituali davanti è un momento che da solo vale il viaggio. La salita al Monastero ripaga ogni singolo gradino con una vista ancora più imponente del Tesoro stesso. Anche Little Petra, il giorno prima, è stata bellissima: meno affollata e già capace di dare la prima scarica di entusiasmo. Insieme a Wadi Rum, il vero must di tutto il viaggio.',
     esperienzeSlugs: ['salita-monastero-petra', 'hammam-wadi-musa'],
-    tripSlugs: ['giordania-360'],
+    tripSlugs: ['giordania-itinerario'],
     imageAlt: 'Il Tesoro (Al-Khazneh) scavato nella roccia arenaria rosa a Petra, Giordania',
     immagine: '/images/copertine/giordania-360.jpg',
   },
@@ -200,7 +200,7 @@ export const destinazioniGiordania: Destinazione[] = [
     miaEsperienza:
       'Il jeep safari tra canyon e dune rosse, il sandboarding, il tramonto sulle dune all\'arrivo al campo e infine la festa di Capodanno sotto uno dei cieli stellati più belli visti in vita mia: difficile immaginare un modo più assurdo di salutare l\'anno vecchio. Insieme a Petra, il vero must di tutto il viaggio in Giordania.',
     esperienzeSlugs: ['jeep-safari-wadi-rum', 'capodanno-deserto'],
-    tripSlugs: ['giordania-360'],
+    tripSlugs: ['giordania-itinerario'],
     imageAlt: 'Jeep 4x4 tra le dune rosse e le formazioni di arenaria di Wadi Rum, Giordania',
     immagine: '/images/giordania/wadi-rum-stock.jpg',
   },
@@ -233,7 +233,7 @@ export const destinazioniGiordania: Destinazione[] = [
     miaEsperienza:
       'Abbiamo fatto anche diving ad Aqaba: carino e piacevole, ma niente di memorabile rispetto ad altri punti del Mar Rosso più rinomati per le immersioni (l\'Egitto su tutti). Resta comunque una bella giornata di decompressione dopo il deserto, tra snorkeling e sport d\'acqua.',
     esperienzeSlugs: ['diving-aqaba'],
-    tripSlugs: ['giordania-360'],
+    tripSlugs: ['giordania-itinerario'],
     imageAlt: 'La costa di Aqaba sul Mar Rosso, Giordania',
     immagine: '/images/giordania/aqaba-stock.jpg',
   },

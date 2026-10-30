@@ -6,7 +6,7 @@ import type { TripMeta } from '@/lib/types'
 // del file markdown.
 
 export const giappone360Meta: TripMeta = {
-  tripSlug: 'giappone-360',
+  tripSlug: 'giappone-itinerario',
   paeseSlug: 'giappone',
   ritmo: 'Molto denso — un anello classico Tokyo-Kyoto-Hiroshima-Osaka-Nara-Tokyo in poco più di una settimana e mezzo',
   trasporti: 'JR Pass attivato dal quarto giorno (Shinkansen e linee locali), carta PASMO/IC per metro e bus, treno diretto per il Monte Fuji',

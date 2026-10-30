@@ -50,7 +50,7 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     immagine: '/images/copertine/tromso.jpg',
     imageAlt: 'Vista panoramica di Tromsø dal Fjellheisen, con il ponte cittadino, la Cattedrale Artica e le montagne innevate sullo sfondo',
   },
-  'giordania-360': {
+  'giordania-itinerario': {
     immagine: '/images/copertine/giordania-360.jpg',
     imageAlt: 'La facciata del Tesoro (Al-Khazneh) scavata nella roccia a Petra, Giordania',
   },
@@ -58,7 +58,7 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     immagine: '/images/copertine/sri-lanka-2023.jpg',
     imageAlt: 'La rocca fortezza di Sigiriya che emerge dalla giungla, Sri Lanka',
   },
-  'giappone-360': {
+  'giappone-itinerario': {
     immagine: '/images/copertine/giappone-360.jpg',
     imageAlt: 'Il Monte Fuji visto con la vegetazione in primo piano, Giappone',
   },
@@ -66,15 +66,15 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     immagine: '/images/copertine/thailandia.jpg',
     imageAlt: 'Barca a coda lunga in una baia turchese tra i faraglioni calcarei del sud della Thailandia',
   },
-  'marocco-360': {
+  'marocco-itinerario': {
     immagine: '/images/copertine/marocco-360.jpg',
     imageAlt: 'Dune dorate del Sahara vicino a Merzouga, Marocco',
   },
-  'new-york-360': {
+  'new-york-itinerario': {
     immagine: '/images/copertine/new-york-360.jpg',
     imageAlt: 'Lo skyline di Manhattan, New York',
   },
-  'florida-360': {
+  'florida-road-trip': {
     immagine: '/images/copertine/florida-360.jpg',
     imageAlt: 'Acqua turchese e palme lungo la costa della Florida',
   },
@@ -86,7 +86,7 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     immagine: '/images/copertine/bulgaria-bansko-rila.jpg',
     imageAlt: 'Le arcate a righe colorate del cortile del Monastero di Rila, Bulgaria',
   },
-  'costa-rica-360': {
+  'costa-rica-itinerario': {
     immagine: '/images/copertine/costa-rica-360.jpg',
     imageAlt: 'Il vulcano Arenal circondato dalla foresta pluviale, Costa Rica',
   },

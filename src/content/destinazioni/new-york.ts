@@ -37,7 +37,7 @@ export const destinazioniNewYork: Destinazione[] = [
     miaEsperienza:
       'Times Square di notte, la prima sera, è stato l\'impatto scenico più forte del viaggio — luci e cartelloni che, per quanto già visti in mille foto, colpiscono comunque dal vivo.',
     esperienzeSlugs: ['musical-broadway'],
-    tripSlugs: ['new-york-360'],
+    tripSlugs: ['new-york-itinerario'],
     imageAlt: 'Le luci e i cartelloni pubblicitari di Times Square di notte, New York',
     immagine: '/images/new-york/times-square-stock.jpg',
   },
@@ -67,7 +67,7 @@ export const destinazioniNewYork: Destinazione[] = [
     miaEsperienza:
       'La messa gospel di domenica mattina è stata un\'esperienza di quartiere autentica, molto diversa da un tour organizzato — nessun obbligo di offerta, ci si può alzare e uscire quando si vuole, ma vale la pena restare fino alla fine.',
     esperienzeSlugs: ['messa-gospel-harlem'],
-    tripSlugs: ['new-york-360'],
+    tripSlugs: ['new-york-itinerario'],
     imageAlt: 'La facciata storica dell\'Apollo Theater ad Harlem, New York',
     immagine: '/images/new-york/harlem-stock.jpg',
   },
@@ -98,7 +98,7 @@ export const destinazioniNewYork: Destinazione[] = [
     miaEsperienza:
       'La passeggiata sulla High Line fino a The Vessel (circa un miglio e mezzo, 1h30-2h in totale) è stata uno dei momenti più piacevoli e meno frenetici del viaggio — un buon contrappunto al ritmo serrato delle altre giornate.',
     esperienzeSlugs: ['high-line-vessel'],
-    tripSlugs: ['new-york-360'],
+    tripSlugs: ['new-york-itinerario'],
     imageAlt: 'La passeggiata pensile della High Line tra i grattacieli di Manhattan, New York',
     immagine: '/images/new-york/high-line-stock.jpg',
   },
@@ -134,7 +134,7 @@ export const destinazioniNewYork: Destinazione[] = [
     miaEsperienza:
       'Il museo dell\'immigrazione a Ellis Island racconta una parte di storia americana che si sente ancora molto presente camminando per la città — una delle tappe più dense di significato di tutto il viaggio.',
     esperienzeSlugs: ['statua-liberta-ellis-island'],
-    tripSlugs: ['new-york-360'],
+    tripSlugs: ['new-york-itinerario'],
     imageAlt: 'La Statua della Libertà su Liberty Island, New York',
     immagine: '/images/new-york/statua-liberta-stock.jpg',
   },
@@ -170,7 +170,7 @@ export const destinazioniNewYork: Destinazione[] = [
     miaEsperienza:
       'DUMBO, con il ponte di Manhattan che si allinea perfettamente tra i palazzi di Water Street e Washington Street, è lo scorcio più fotografato di Brooklyn per un motivo — e il tramonto al Top of the Rock la sera stessa ha chiuso una delle giornate più belle del viaggio.',
     esperienzeSlugs: ['dumbo-brooklyn-bridge', 'top-of-the-rock'],
-    tripSlugs: ['new-york-360'],
+    tripSlugs: ['new-york-itinerario'],
     imageAlt: 'Il ponte di Manhattan visto dall\'incrocio di Water Street a DUMBO, Brooklyn, New York',
     immagine: '/images/new-york/dumbo-stock.jpg',
   },

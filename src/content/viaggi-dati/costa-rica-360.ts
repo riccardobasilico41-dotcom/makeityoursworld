@@ -6,7 +6,7 @@ import type { TripMeta } from '@/lib/types'
 // del file markdown, altrimenti il merge in DayTimeline non trova la corrispondenza.
 
 export const costaRica360Meta: TripMeta = {
-  tripSlug: 'costa-rica-360',
+  tripSlug: 'costa-rica-itinerario',
   paeseSlug: 'costa-rica',
   ritmo: 'Molto denso — probabilmente il viaggio più intenso tra quelli raccontati qui, 13 giorni da una costa all\'altra del paese',
   trasporti: 'Van privato con autista per tutti i trasferimenti principali, più barche per Tortuguero e alcune escursioni',

@@ -36,5 +36,5 @@ export const giordania: Paese = {
   stileViaggio: ['deserto', 'storia', 'capodanno', 'medio oriente'],
   heroImageAlt: 'La facciata del Tesoro (Al-Khazneh) scavata nella roccia a Petra, Giordania',
   heroImage: '/images/copertine/giordania-360.jpg',
-  tripPrincipaleSlug: 'giordania-360',
+  tripPrincipaleSlug: 'giordania-itinerario',
 }

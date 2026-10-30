@@ -39,7 +39,7 @@ export const destinazioniMarocco: Destinazione[] = [
     miaEsperienza:
       'Il tour guidato è stato un ottimo modo per orientarsi nella medina, ma è Jemaa El-Fna — vista di nuovo dopo il tour, di sera, tra incantatori di serpenti, musicisti e bancarelle di ogni tipo — a restare il ricordo più forte di Marrakech.',
     esperienzeSlugs: ['tour-marrakech', 'jardin-majorelle'],
-    tripSlugs: ['marocco-360'],
+    tripSlugs: ['marocco-itinerario'],
     imageAlt: 'La piazza Jemaa El-Fna animata di sera a Marrakech, Marocco',
     immagine: '/images/marocco/marrakech-stock.jpg',
   },
@@ -66,7 +66,7 @@ export const destinazioniMarocco: Destinazione[] = [
     miaEsperienza:
       'Il contrasto tra l\'esterno in terra battuta ormai in parte crollato della Kasbah di Telouet e i suoi interni riccamente decorati è stata una sorpresa, e il ksar di Aït Benhaddou dal vivo è ancora più suggestivo di quanto lasci intuire nei film che lo hanno reso famoso.',
     esperienzeSlugs: [],
-    tripSlugs: ['marocco-360'],
+    tripSlugs: ['marocco-itinerario'],
     imageAlt: 'Il ksar fortificato di Aït Benhaddou, Patrimonio UNESCO, Marocco',
     immagine: '/images/marocco/ait-benhaddou-stock.jpg',
   },
@@ -98,7 +98,7 @@ export const destinazioniMarocco: Destinazione[] = [
     miaEsperienza:
       'Nella notte, il cielo stellato senza pari, lontano da ogni luce artificiale, è stato uno dei momenti più belli di tutto il viaggio. Il giro in cammello all\'alba, con le dune che cambiano colore con la luce del sole nascente, è stata la degna chiusura di quella notte.',
     esperienzeSlugs: ['notte-deserto-erg-chebbi', 'gole-todra', 'quad-deserto-merzouga'],
-    tripSlugs: ['marocco-360'],
+    tripSlugs: ['marocco-itinerario'],
     imageAlt: 'Cielo stellato sopra il campo tendato nel deserto di Erg Chebbi, Marocco',
     immagine: '/images/copertine/marocco-360.jpg',
   },
@@ -125,7 +125,7 @@ export const destinazioniMarocco: Destinazione[] = [
     miaEsperienza:
       'Dopo l\'intensità del deserto, Agdz è stata una tappa di decompressione ben piazzata, con la Kasbah di Tamnougalt a ricordare quanto valga la pena uscire dagli itinerari più battuti.',
     esperienzeSlugs: [],
-    tripSlugs: ['marocco-360'],
+    tripSlugs: ['marocco-itinerario'],
     imageAlt: 'La Kasbah di Tamnougalt nella valle del Draa, Marocco',
     immagine: '/images/marocco/agdz-stock.jpg',
   },
@@ -157,7 +157,7 @@ export const destinazioniMarocco: Destinazione[] = [
     miaEsperienza:
       'Una mattinata diversa da tutto il resto del viaggio: dopo giorni di deserto e kasbah, il surf a Taghazout è stato un tuffo (letterale) in un registro completamente diverso.',
     esperienzeSlugs: ['surf-taghazout'],
-    tripSlugs: ['marocco-360'],
+    tripSlugs: ['marocco-itinerario'],
     imageAlt: 'Lezione di surf sulle onde di Taghazout, Marocco',
     immagine: '/images/marocco/agadir-stock.jpg',
   },
@@ -188,7 +188,7 @@ export const destinazioniMarocco: Destinazione[] = [
     miaEsperienza:
       'Dopo giorni di van, deserto e visite, l\'ora passata all\'hammam da Kenza è stato uno dei momenti di puro relax di tutto il viaggio, e la medina bianca e blu di Essaouira resta una delle atmosfere più suggestive di tutto il Marocco.',
     esperienzeSlugs: ['hammam-essaouira'],
-    tripSlugs: ['marocco-360'],
+    tripSlugs: ['marocco-itinerario'],
     imageAlt: 'La medina bianca e blu della città portuale di Essaouira, Marocco',
     immagine: '/images/marocco/essaouira-stock.jpg',
   },

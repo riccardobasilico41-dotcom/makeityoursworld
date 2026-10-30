@@ -21,7 +21,7 @@ export const creditiHeroVideo: Record<string, CreditoVideo> = {
     licenza: 'Mixkit Stock Video Free License',
     fonteUrl: 'https://mixkit.co/free-stock-video/glacier-lake-in-iceland-8025/',
   },
-  'giappone-360': {
+  'giappone-itinerario': {
     autore: 'Mixkit',
     licenza: 'Mixkit Stock Video Free License',
     fonteUrl: 'https://mixkit.co/free-stock-video/time-lapse-of-a-street-and-mount-fuji-30148/',
@@ -31,17 +31,17 @@ export const creditiHeroVideo: Record<string, CreditoVideo> = {
     licenza: 'Pexels License',
     fonteUrl: 'https://www.pexels.com/video/drone-video-of-dense-vegetation-and-rock-formations-18028963/',
   },
-  'giordania-360': {
+  'giordania-itinerario': {
     autore: 'Irshad Ahmad (Pexels)',
     licenza: 'Pexels License',
     fonteUrl: 'https://www.pexels.com/video/wadi-rum-desert-aerial-view-with-mountain-38605571/',
   },
-  'costa-rica-360': {
+  'costa-rica-itinerario': {
     autore: 'Mixkit',
     licenza: 'Mixkit Stock Video Free License',
     fonteUrl: 'https://mixkit.co/free-stock-video/man-hikes-up-path-towards-jungle-waterfall-49337/',
   },
-  'marocco-360': {
+  'marocco-itinerario': {
     autore: 'Mixkit',
     licenza: 'Mixkit Stock Video Free License',
     fonteUrl: 'https://mixkit.co/free-stock-video/dunes-in-the-sahara-desert-4149/',
@@ -81,12 +81,12 @@ export const creditiHeroVideo: Record<string, CreditoVideo> = {
     licenza: 'Mixkit Stock Video Free License',
     fonteUrl: 'https://mixkit.co/free-stock-video/gold-sunset-landscape-at-phuket-beach-6872/',
   },
-  'new-york-360': {
+  'new-york-itinerario': {
     autore: 'Mixkit',
     licenza: 'Mixkit Stock Video Free License',
     fonteUrl: 'https://mixkit.co/free-stock-video/many-skyscrapers-next-to-central-park-30544/',
   },
-  'florida-360': {
+  'florida-road-trip': {
     autore: 'Mixkit',
     licenza: 'Mixkit Stock Video Free License',
     fonteUrl: 'https://mixkit.co/free-stock-video/sunset-over-the-coast-of-florida-24550/',

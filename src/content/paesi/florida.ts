@@ -37,5 +37,5 @@ export const florida: Paese = {
   stileViaggio: ['on the road', 'road trip', 'mare', 'famiglia'],
   heroImageAlt: 'Acqua turchese e palme lungo la costa della Florida',
   heroImage: '/images/copertine/florida-360.jpg',
-  tripPrincipaleSlug: 'florida-360',
+  tripPrincipaleSlug: 'florida-road-trip',
 }

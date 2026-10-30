@@ -6,7 +6,7 @@ import type { TripMeta } from '@/lib/types'
 // del file markdown, altrimenti il merge in DayTimeline non trova la corrispondenza.
 
 export const marocco360Meta: TripMeta = {
-  tripSlug: 'marocco-360',
+  tripSlug: 'marocco-itinerario',
   paeseSlug: 'marocco',
   ritmo: 'Intenso — tratte anche lunghe (fino a 4 ore) quasi ogni giorno, con soste e visite lungo il percorso',
   trasporti: 'Van privato con guida locale per tutte le tratte',

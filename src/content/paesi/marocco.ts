@@ -40,5 +40,5 @@ export const marocco: Paese = {
   stileViaggio: ['deserto', 'kasbah', 'on the road'],
   heroImageAlt: 'Dune dorate del Sahara vicino a Merzouga, Marocco',
   heroImage: '/images/copertine/marocco-360.jpg',
-  tripPrincipaleSlug: 'marocco-360',
+  tripPrincipaleSlug: 'marocco-itinerario',
 }

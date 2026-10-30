@@ -31,7 +31,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     miaEsperienza:
       'San José in sé ha poco da offrire dal punto di vista turistico, ma la cena al Jardín de Lolita, tra diversi food truck e tutto il gruppo seduto insieme, è stato un ottimo modo per socializzare fin dalla prima sera.',
     esperienzeSlugs: [],
-    tripSlugs: ['costa-rica-360'],
+    tripSlugs: ['costa-rica-itinerario'],
     imageAlt: 'Il centro di San José, capitale della Costa Rica',
     immagine: '/images/costa-rica/san-jose-stock.jpg',
   },
@@ -64,7 +64,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     miaEsperienza:
       'Pedalare lungo la costa fino a Punta Uva, con le scimmie urlatrici che si sentono dagli alberi sopra la testa, è stato uno dei modi più genuini di scoprire il Caribe costaricano.',
     esperienzeSlugs: ['tour-cahuita'],
-    tripSlugs: ['costa-rica-360'],
+    tripSlugs: ['costa-rica-itinerario'],
     imageAlt: 'La spiaggia caraibica di Punta Uva vicino a Puerto Viejo, Costa Rica',
     immagine: '/images/costa-rica/puerto-viejo-stock.jpg',
   },
@@ -96,7 +96,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     miaEsperienza:
       'Il tragitto in barca da Moín a Tortuguero, tra canali di giungla con coccodrilli e scimmie sulle rive, è stato uno dei trasferimenti più belli di tutto il viaggio: non una semplice tappa di passaggio, ma un\'esperienza a sé.',
     esperienzeSlugs: ['barca-tortuguero', 'kayak-tortuguero'],
-    tripSlugs: ['costa-rica-360'],
+    tripSlugs: ['costa-rica-itinerario'],
     imageAlt: 'Un canale di giungla verso il villaggio di Tortuguero, Costa Rica',
     immagine: '/images/costa-rica/tortuguero-stock.jpg',
   },
@@ -127,7 +127,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     miaEsperienza:
       'La cooking class al lodge, con le empanadas preparate a mano diventate poi la cena della serata, è stato un momento conviviale diverso dal resto del viaggio, molto più lento e genuino.',
     esperienzeSlugs: ['rafting-sarapiqui'],
-    tripSlugs: ['costa-rica-360'],
+    tripSlugs: ['costa-rica-itinerario'],
     imageAlt: 'La foresta pluviale intorno a un lodge a Sarapiquí, Costa Rica',
     immagine: '/images/costa-rica/sarapiqui-stock.jpg',
   },
@@ -161,7 +161,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     miaEsperienza:
       'Le sorgenti termali gratuite di El Choyin, nel tratto di fiume naturale, sono state molto più autentiche e suggestive delle terme a pagamento della zona: uno dei momenti più genuini di tutto il viaggio.',
     esperienzeSlugs: ['cascata-fortuna-termales'],
-    tripSlugs: ['costa-rica-360'],
+    tripSlugs: ['costa-rica-itinerario'],
     imageAlt: 'Il vulcano Arenal visto da La Fortuna, Costa Rica',
     immagine: '/images/copertine/costa-rica-360.jpg',
   },
@@ -193,7 +193,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     miaEsperienza:
       'La camminata notturna nella foresta nebulosa, con la fauna che si muove solo dopo il tramonto, è stata una delle esperienze più suggestive del viaggio, anche se la durata (1h30) può risultare lunga per alcuni.',
     esperienzeSlugs: ['camminata-notturna-monteverde', 'zipline-monteverde'],
-    tripSlugs: ['costa-rica-360'],
+    tripSlugs: ['costa-rica-itinerario'],
     imageAlt: 'La foresta nebulosa di Monteverde, Costa Rica',
     immagine: '/images/costa-rica/monteverde-stock.jpg',
   },
@@ -225,7 +225,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     miaEsperienza:
       'La Cola de la Ballena, il banco di sabbia a forma di coda di balena visibile con la bassa marea, resta uno dei paesaggi più belli di tutto il viaggio, a prescindere da quante balene si riescano effettivamente ad avvistare in mare.',
     esperienzeSlugs: ['whale-watching-uvita'],
-    tripSlugs: ['costa-rica-360'],
+    tripSlugs: ['costa-rica-itinerario'],
     imageAlt: 'Il banco di sabbia della Cola de la Ballena a Uvita, Costa Rica',
     immagine: '/images/costa-rica/uvita-stock.jpg',
   },
@@ -251,7 +251,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     miaEsperienza:
       'La guida ha reso Manuel Antonio una delle tappe più dense di avvistamenti di tutto il viaggio: bradipi, scimmie e iguane visti a distanza ravvicinata lungo sentieri che da soli sarebbero stati molto più difficili da decifrare.',
     esperienzeSlugs: ['parco-manuel-antonio'],
-    tripSlugs: ['costa-rica-360'],
+    tripSlugs: ['costa-rica-itinerario'],
     imageAlt: 'Un bradipo tra gli alberi del Parco Nazionale Manuel Antonio, Costa Rica',
     immagine: '/images/costa-rica/manuel-antonio-stock.jpg',
   },

@@ -37,5 +37,5 @@ export const newYork: Paese = {
   stileViaggio: ['città', 'sport', 'cultura'],
   heroImageAlt: 'Lo skyline di Manhattan, New York',
   heroImage: '/images/copertine/new-york-360.jpg',
-  tripPrincipaleSlug: 'new-york-360',
+  tripPrincipaleSlug: 'new-york-itinerario',
 }

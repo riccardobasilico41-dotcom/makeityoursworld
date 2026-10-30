@@ -44,11 +44,11 @@ const ROTTA_DECORATIVA = [
 const VIAGGI_HOME_SLUGS = [
   'lofoten-estate-2025', // Lofoten
   'islanda-2024', // Islanda in tenda / Ring Road
-  'giappone-360', // Giappone
+  'giappone-itinerario', // Giappone
   'cina-paesaggi', // "L'altra Cina" — Zhangjiajie, Sichuan, Yunnan, Yangshuo
-  'giordania-360', // Giordania
-  'costa-rica-360', // Costa Rica
-  'marocco-360', // Marocco / Sahara
+  'giordania-itinerario', // Giordania
+  'costa-rica-itinerario', // Costa Rica
+  'marocco-itinerario', // Marocco / Sahara
   'sicilia-itinerario', // Sicilia orientale
 ]
 

@@ -44,7 +44,7 @@ export const destinazioniGiappone: Destinazione[] = [
     miaEsperienza:
       'Siamo arrivati per la fioritura dei sakura ma con qualche giorno di scarto rispetto al picco: a inizio aprile i ciliegi di Tokyo erano già verso la fine, tra petali che cadevano come neve rosa (lo hanafubuki) e i rami più spogli. Un modo diverso, ma altrettanto bello, di vivere la fioritura.',
     esperienzeSlugs: ['sakura-chasing-tokyo', 'shibuya-crossing'],
-    tripSlugs: ['giappone-360'],
+    tripSlugs: ['giappone-itinerario'],
     imageAlt: 'Shibuya Crossing illuminato di sera a Tokyo, Giappone',
     immagine: '/images/giappone/tokyo-stock.jpg',
   },
@@ -81,7 +81,7 @@ export const destinazioniGiappone: Destinazione[] = [
     miaEsperienza:
       'Pochi sanno che a Kamakura si è letteralmente a due passi dal mare: la sosta alla spiaggia di Shichirigahama dopo una mattinata di templi è stata una sorpresa piacevole, un lato meno noto di questa gita.',
     esperienzeSlugs: [],
-    tripSlugs: ['giappone-360'],
+    tripSlugs: ['giappone-itinerario'],
     imageAlt: 'Il Grande Buddha del tempio Kotoku-in a Kamakura, Giappone',
     immagine: '/images/giappone/kamakura-stock.jpg',
   },
@@ -153,7 +153,7 @@ export const destinazioniGiappone: Destinazione[] = [
     miaEsperienza:
       'Il primo tratto di Fushimi Inari, quello fotografato da tutti, è spettacolare anche senza arrivare fino in vetta. La foresta di bambù di Arashiyama vista verso il tramonto, quando la folla diurna si dirada, resta una delle immagini più belle di tutto il viaggio.',
     esperienzeSlugs: ['fushimi-inari', 'kinkaku-ji'],
-    tripSlugs: ['giappone-360'],
+    tripSlugs: ['giappone-itinerario'],
     imageAlt: 'I torii vermigli del santuario di Fushimi Inari, Kyoto, Giappone',
     immagine: '/images/giappone/kyoto-stock.jpg',
   },
@@ -188,7 +188,7 @@ export const destinazioniGiappone: Destinazione[] = [
     miaEsperienza:
       'Il Memoriale della Pace è una tappa intensa che vale la pena affrontare con calma. Vedere il torii "galleggiante" di Miyajima nel pomeriggio, dopo la visita al Museo, ha dato alla giornata un equilibrio raro tra riflessione e meraviglia.',
     esperienzeSlugs: ['torii-miyajima'],
-    tripSlugs: ['giappone-360'],
+    tripSlugs: ['giappone-itinerario'],
     imageAlt: 'Il torii galleggiante del Santuario Itsukushima a Miyajima, Giappone',
     immagine: '/images/giappone/miyajima-stock.jpg',
   },
@@ -214,7 +214,7 @@ export const destinazioniGiappone: Destinazione[] = [
     miaEsperienza:
       'Il Castello di Himeji è probabilmente il più fotogenico di tutto il viaggio, e la sosta per il manzo di Kobe nelle vicinanze è stata un bel modo per chiudere la mattinata prima di ripartire per Osaka.',
     esperienzeSlugs: [],
-    tripSlugs: ['giappone-360'],
+    tripSlugs: ['giappone-itinerario'],
     imageAlt: 'Il Castello di Himeji, il più bello e meglio conservato del Giappone',
     immagine: '/images/giappone/himeji-stock.jpg',
   },
@@ -248,7 +248,7 @@ export const destinazioniGiappone: Destinazione[] = [
     miaEsperienza:
       'Osaka è stata la sorpresa gastronomica del viaggio: tra kushikatsu, okonomiyaki e takoyaki nella zona di Shinsekai, il cibo di strada qui ha un\'energia diversa da quella più composta di Tokyo e Kyoto.',
     esperienzeSlugs: [],
-    tripSlugs: ['giappone-360'],
+    tripSlugs: ['giappone-itinerario'],
     imageAlt: 'Il quartiere di Dotonbori illuminato di sera a Osaka, Giappone',
     immagine: '/images/giappone/osaka-stock.jpg',
   },
@@ -282,7 +282,7 @@ export const destinazioniGiappone: Destinazione[] = [
     miaEsperienza:
       'Vedere i cervi sacri passeggiare liberi tra i templi, avvicinandosi senza timore ai visitatori, è stata una delle esperienze più surreali e piacevoli di tutto il viaggio.',
     esperienzeSlugs: ['cervi-nara'],
-    tripSlugs: ['giappone-360'],
+    tripSlugs: ['giappone-itinerario'],
     imageAlt: 'Cervi sacri semi-liberi tra i templi del Parco di Nara, Giappone',
     immagine: '/images/giappone/nara-stock.jpg',
   },

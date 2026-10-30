@@ -6,7 +6,7 @@ import type { TripMeta } from '@/lib/types'
 // del file markdown, altrimenti il merge in DayTimeline non trova la corrispondenza.
 
 export const giordania360Meta: TripMeta = {
-  tripSlug: 'giordania-360',
+  tripSlug: 'giordania-itinerario',
   paeseSlug: 'giordania',
   ritmo: 'Intenso — transfer anche lunghi (fino a 4h30 tra Aqaba e Amman) quasi ogni giorno',
   trasporti: 'Transfer organizzati (minivan/auto) su tutto il percorso, tramite un DMC locale',

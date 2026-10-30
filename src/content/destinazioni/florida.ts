@@ -38,7 +38,7 @@ export const destinazioniFlorida: Destinazione[] = [
     miaEsperienza:
       'Little Havana, con gli anziani cubani che giocano a domino nel Domino Park ogni giorno, è stata la chicca meno turistica di tutta Miami: un pezzo di quotidianità lontano dai circuiti più battuti.',
     esperienzeSlugs: ['speedboat-thriller-miami', 'salsa-night-miami'],
-    tripSlugs: ['florida-360'],
+    tripSlugs: ['florida-road-trip'],
     imageAlt: 'Gli edifici Art Deco colorati di Ocean Drive, Miami Beach, Florida',
     immagine: '/images/florida/miami-stock.jpg',
   },
@@ -75,7 +75,7 @@ export const destinazioniFlorida: Destinazione[] = [
     miaEsperienza:
       'La strada che diventa via via più spettacolare avvicinandosi alle isole, con l\'attraversamento della Seven Mile Bridge sospesi tra due sfumature di azzurro, è uno dei momenti di guida più belli di tutto il viaggio.',
     esperienzeSlugs: ['hemingway-home', 'snorkeling-bahia-honda'],
-    tripSlugs: ['florida-360'],
+    tripSlugs: ['florida-road-trip'],
     imageAlt: 'La Seven Mile Bridge che attraversa il turchese delle Florida Keys',
     immagine: '/images/florida/key-west-stock.jpg',
   },
@@ -107,7 +107,7 @@ export const destinazioniFlorida: Destinazione[] = [
     miaEsperienza:
       'Le Everglades sono un\'enorme palude primordiale, molto diversa da qualunque altro paesaggio del viaggio: il contrasto con l\'eleganza di Naples poche ore dopo è uno dei salti di atmosfera più netti di tutto il tour.',
     esperienzeSlugs: ['everglades-airboat'],
-    tripSlugs: ['florida-360'],
+    tripSlugs: ['florida-road-trip'],
     imageAlt: 'Un airboat tra le paludi delle Everglades, Florida',
     immagine: '/images/florida/everglades-stock.jpg',
   },
@@ -136,7 +136,7 @@ export const destinazioniFlorida: Destinazione[] = [
     costi: 'Universal 130-210$ a seconda dei parchi; Disney World da 250€ per minimo 2 giorni; parcheggio 26$/auto a Universal Studios.',
     erroriDaEvitare: ['Scaricare l\'app ufficiale del parco per i tempi di attesa in tempo reale', 'Portare uno zaino piccolo: quelli grandi non entrano nei lockers'],
     esperienzeSlugs: ['parco-tema-orlando'],
-    tripSlugs: ['florida-360'],
+    tripSlugs: ['florida-road-trip'],
     imageAlt: 'Le luci serali di un parco a tema a Orlando, Florida',
     immagine: '/images/florida/orlando-stock.jpg',
   },
@@ -171,7 +171,7 @@ export const destinazioniFlorida: Destinazione[] = [
     miaEsperienza:
       'La ricostruzione della control room che lancia il razzo Saturn V, seguita dal razzo vero in tutta la sua enormità, è uno dei momenti più impressionanti di tutto il viaggio in Florida.',
     esperienzeSlugs: ['kennedy-space-center'],
-    tripSlugs: ['florida-360'],
+    tripSlugs: ['florida-road-trip'],
     imageAlt: 'Il razzo Saturn V esposto al Kennedy Space Center, Cape Canaveral, Florida',
     immagine: '/images/florida/cape-canaveral-stock.jpg',
   },

@@ -31,7 +31,7 @@ export const heroVideoViaggi: Record<string, HeroVideo> = {
     src: '/videos/trips/islanda-2024.mp4',
     poster: '/videos/trips/islanda-2024-poster.jpg',
   },
-  'giappone-360': {
+  'giappone-itinerario': {
     src: '/videos/trips/giappone-360.mp4',
     poster: '/videos/trips/giappone-360-poster.jpg',
   },
@@ -39,15 +39,15 @@ export const heroVideoViaggi: Record<string, HeroVideo> = {
     src: '/videos/trips/cina-paesaggi.mp4',
     poster: '/videos/trips/cina-paesaggi-poster.jpg',
   },
-  'giordania-360': {
+  'giordania-itinerario': {
     src: '/videos/trips/giordania-360.mp4',
     poster: '/videos/trips/giordania-360-poster.jpg',
   },
-  'costa-rica-360': {
+  'costa-rica-itinerario': {
     src: '/videos/trips/costa-rica-360.mp4',
     poster: '/videos/trips/costa-rica-360-poster.jpg',
   },
-  'marocco-360': {
+  'marocco-itinerario': {
     src: '/videos/trips/marocco-360.mp4',
     poster: '/videos/trips/marocco-360-poster.jpg',
   },
@@ -79,11 +79,11 @@ export const heroVideoViaggi: Record<string, HeroVideo> = {
     src: '/videos/trips/thailandia.mp4',
     poster: '/videos/trips/thailandia-poster.jpg',
   },
-  'new-york-360': {
+  'new-york-itinerario': {
     src: '/videos/trips/new-york-360.mp4',
     poster: '/videos/trips/new-york-360-poster.jpg',
   },
-  'florida-360': {
+  'florida-road-trip': {
     src: '/videos/trips/florida-360.mp4',
     poster: '/videos/trips/florida-360-poster.jpg',
   },

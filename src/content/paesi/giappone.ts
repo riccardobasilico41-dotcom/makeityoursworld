@@ -40,5 +40,5 @@ export const giappone: Paese = {
   stileViaggio: ['on the road', 'cultura', 'cibo', 'sakura'],
   heroImageAlt: 'Il Monte Fuji visto con la vegetazione in primo piano, Giappone',
   heroImage: '/images/copertine/giappone-360.jpg',
-  tripPrincipaleSlug: 'giappone-360',
+  tripPrincipaleSlug: 'giappone-itinerario',
 }

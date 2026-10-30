@@ -79,7 +79,7 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
       "Alle due di notte, davanti al relitto dell'aereo di Sólheimasandur, c'era ancora luce: a fine luglio il buio non arriva.",
     editorialHookType: 'hidden-side',
   },
-  'giordania-360': {
+  'giordania-itinerario': {
     seoTitle: "Giordania in 8 giorni: Petra, Wadi Rum e il Mar Morto",
     seoDescription:
       "Otto giorni da Amman ad Aqaba: Jerash, il Mar Morto, Petra quasi vuota e il Capodanno nel Wadi Rum. Tappe, cene, transfer e come usare il Jordan Pass.",
@@ -97,7 +97,7 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
       "All'Adam's Peak si sale di notte: 2.243 metri su una scalinata illuminata, in fila con centinaia di pellegrini.",
     editorialHookType: 'hidden-side',
   },
-  'giappone-360': {
+  'giappone-itinerario': {
     seoTitle: "Giappone in 12 giorni: itinerario con Fuji, Kyoto e sakura",
     seoDescription:
       "Tokyo, il Monte Fuji, Kyoto, Hiroshima, Miyajima, Osaka e Nara in 12 giorni ad aprile, con il JR Pass, gli onsen e cosa sapere su izakaya e conti.",
@@ -115,7 +115,7 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
       "Per lo street food stellato Michelin di Jay Fai, a Bangkok, la coda comincia alle sette del mattino.",
     editorialHookType: 'secret',
   },
-  'marocco-360': {
+  'marocco-itinerario': {
     seoTitle: "Marocco in 9 giorni: Marrakech, Sahara e 6 errori da evitare",
     seoDescription:
       "Nove giorni in van con guida locale: Telouet, Aït Benhaddou, le Gole di Todra, una notte a Erg Chebbi, la valle del Draa ed Essaouira, con 6 errori.",
@@ -124,7 +124,7 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
       "Ai campi tendati del deserto non ci sono prese elettriche: i power bank vanno caricati prima della notte a Erg Chebbi.",
     editorialHookType: 'before-you-go',
   },
-  'new-york-360': {
+  'new-york-itinerario': {
     seoTitle: "New York in 6 giorni: itinerario e 5 errori da evitare",
     seoDescription:
       "Sei giorni a piedi, 15-20 km al giorno: Times Square, il Top of the Rock al tramonto, la Statua della Libertà, Broadway, DUMBO e una partita dal vivo.",
@@ -133,7 +133,7 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
       "Top of the Rock e musical di Broadway vanno prenotati prima: in alta stagione i biglietti migliori finiscono subito.",
     editorialHookType: 'mistakes',
   },
-  'florida-360': {
+  'florida-road-trip': {
     seoTitle: "Florida on the road in 10 giorni: itinerario e 7 errori",
     seoDescription:
       "Quasi 1.800 km dalle Keys a Orlando: Key West, le Everglades, i parchi a tema, Cape Canaveral e Miami Beach. Con la cassa comune da 270€ e cosa evitare.",
@@ -160,7 +160,7 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
       "Non mi aspettavo grandi cose dallo sci in Bulgaria, ed è quello che ho trovato. Il motivo per andarci è un altro.",
     editorialHookType: 'worth-it',
   },
-  'costa-rica-360': {
+  'costa-rica-itinerario': {
     seoTitle: "Costa Rica in 13 giorni: itinerario dal Caribe al Pacifico",
     seoDescription:
       "Tredici giorni in van tra Caraibi e Pacifico: bradipi, vulcani, Monteverde e le balene. Con la cassa comune da 350€, le attività da prenotare e 7 errori.",

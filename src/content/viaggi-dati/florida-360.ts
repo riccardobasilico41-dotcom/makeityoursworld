@@ -6,7 +6,7 @@ import type { TripMeta } from '@/lib/types'
 // del file markdown, altrimenti il merge in DayTimeline non trova la corrispondenza.
 
 export const florida360Meta: TripMeta = {
-  tripSlug: 'florida-360',
+  tripSlug: 'florida-road-trip',
   paeseSlug: 'florida',
   ritmo: 'Molto intenso — quasi 1.800 km al volante in 10 giorni, con un giorno (Naples-Orlando) di 5h di guida',
   trasporti: 'Auto a noleggio self-drive (Sixt) per quasi tutto il tour, Uber/Lyft per gli spostamenti serali in città',

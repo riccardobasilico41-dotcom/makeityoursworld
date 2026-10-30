@@ -900,7 +900,7 @@ export const listeAttrezzatura: ListaAttrezzatura[] = [
       "indonesia-itinerario",
       "malesia-singapore",
       "borneo-itinerario",
-      "costa-rica-360",
+      "costa-rica-itinerario",
       "centro-america-itinerario",
     ],
   },

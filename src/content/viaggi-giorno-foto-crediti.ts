@@ -548,7 +548,7 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Seiser_Alm_01.jpg',
     },
   },
-  'new-york-360': {
+  'new-york-itinerario': {
     'Giorno 1 (07.09) — Arrivo, Times Square': {
       autore: 'Rafi B. (Wikimedia Commons)',
       licenza: 'CC BY 2.0',
@@ -582,7 +582,7 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Lower_Manhattan_Skyline_from_Brooklyn_Heights.jpg',
     },
   },
-  'florida-360': {
+  'florida-road-trip': {
     'Giorno 1 — Arrivo a Miami': {
       autore: 'Phillip Pessar (Wikimedia Commons)',
       licenza: 'CC BY 4.0',
@@ -1002,7 +1002,7 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:2018.08.27_%E5%B9%BF%E8%A5%BF%E6%A1%82%E6%9E%97_%E8%B1%A1%E9%BC%BB%E5%B1%B1.jpg',
     },
   },
-  'giappone-360': {
+  'giappone-itinerario': {
     'Giorno 1 (06.04) — Tokyo, Asakusa e la caccia ai sakura': {
       autore: 'Gorgo / Stephan (Wikimedia Commons)',
       licenza: 'Public Domain',
@@ -1118,7 +1118,7 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Aeroporto_di_catania,_veduta_etna.jpg',
     },
   },
-  'costa-rica-360': {
+  'costa-rica-itinerario': {
     'Giorno 1 — San José': {
       autore: 'Mariordo / Mario Roberto Durán Ortiz (Wikimedia Commons)',
       licenza: 'CC BY-SA 4.0',
@@ -1185,7 +1185,7 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Juan_Santamaria_Aeropuerto_San_Jose_Costa_Rica.jpg',
     },
   },
-  'giordania-360': {
+  'giordania-itinerario': {
     'Giorno 1 — Arrivo ad Amman': {
       autore: 'peuplier (Wikimedia Commons)',
       licenza: 'CC BY 2.0',
@@ -1228,7 +1228,7 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Queen_Alia_International_Airport_Terminal_Interior.jpg',
     },
   },
-  'marocco-360': {
+  'marocco-itinerario': {
     'Giorno 1 — Marrakech': {
       autore: 'Jean-Pierre Dalbéra (Wikimedia Commons)',
       licenza: 'CC BY 2.0',
