@@ -7,6 +7,7 @@ import * as THREE from 'three'
 import { Canvas, useFrame, useLoader, useThree } from '@react-three/fiber'
 import { FontLoader } from 'three/addons/loaders/FontLoader.js'
 import { TextGeometry } from 'three/addons/geometries/TextGeometry.js'
+import { mergeGeometries } from 'three/addons/utils/BufferGeometryUtils.js'
 import type { PinGlobo } from './GloboDestinazioniSvg'
 
 /*
@@ -161,8 +162,9 @@ function Scena({
     camera.updateProjectionMatrix()
   }, [camera, size])
 
-  // lettere: una geometria per carattere, disposte sull'anello e girate verso l'esterno
-  const lettere = useMemo(() => {
+  // lettere: una geometria per carattere, disposte sull'anello e girate verso l'esterno, poi fuse
+  // in due sole geometrie (lettere e punti), così l'anello costa 4 chiamate di disegno invece di ~80
+  const anello = useMemo(() => {
     const geo = new Map<string, TextGeometry>()
     const ris = font.data.resolution
     const n = TESTO.length
@@ -188,9 +190,64 @@ function Scena({
       }
       items.push({ ch, angolo: (i / n) * Math.PI * 2, geo: g })
     }
-    return { items, geo }
+    const m = new THREE.Matrix4()
+    const q = new THREE.Quaternion()
+    const asse = new THREE.Vector3(0, 1, 0)
+    const uno = new THREE.Vector3(1, 1, 1)
+    const piazza = (l: (typeof items)[number]) =>
+      l.geo
+        .clone()
+        .applyMatrix4(
+          m.compose(
+            new THREE.Vector3(R_ANELLO * Math.sin(l.angolo), 0, R_ANELLO * Math.cos(l.angolo)),
+            q.setFromAxisAngle(asse, l.angolo),
+            uno,
+          ),
+        )
+    // TextGeometry non è indicizzata e ha due gruppi (0 facce, 1 fianchi): si separano per gruppo e
+    // si rifondono in un'unica geometria con gli stessi due gruppi, uno per materiale
+    const perGruppo = (g: THREE.BufferGeometry, indice: number) => {
+      const fuori = new THREE.BufferGeometry()
+      const gruppi = g.groups.filter((gr) => gr.materialIndex === indice)
+      for (const nome of Object.keys(g.attributes)) {
+        const attr = g.getAttribute(nome) as THREE.BufferAttribute
+        const k = attr.itemSize
+        const dati = new Float32Array(gruppi.reduce((t, gr) => t + gr.count, 0) * k)
+        let o = 0
+        for (const gr of gruppi) {
+          dati.set((attr.array as Float32Array).subarray(gr.start * k, (gr.start + gr.count) * k), o)
+          o += gr.count * k
+        }
+        fuori.setAttribute(nome, new THREE.BufferAttribute(dati, k))
+      }
+      return fuori
+    }
+    const fondi = (scelte: typeof items) => {
+      if (scelte.length === 0) return null
+      const parti = scelte.map(piazza)
+      const strati = [0, 1].map((i) => {
+        const pezzi = parti.map((g) => perGruppo(g, i))
+        const unito = mergeGeometries(pezzi, false)
+        pezzi.forEach((g) => g.dispose())
+        return unito
+      })
+      parti.forEach((g) => g.dispose())
+      const g = mergeGeometries(strati, true)
+      strati.forEach((x) => x.dispose())
+      return g
+    }
+    const testo = fondi(items.filter((l) => l.ch !== '.'))
+    const punti = fondi(items.filter((l) => l.ch === '.'))
+    geo.forEach((g) => g.dispose())
+    return { testo, punti }
   }, [font])
-  useEffect(() => () => lettere.geo.forEach((g) => g.dispose()), [lettere])
+  useEffect(
+    () => () => {
+      anello.testo?.dispose()
+      anello.punti?.dispose()
+    },
+    [anello],
+  )
 
   const materiali = useMemo(
     () => ({
@@ -311,7 +368,8 @@ function Scena({
       }
     }
 
-    // se va sotto i 24 fps (saltati i primi fotogrammi di compilazione) torna l'SVG
+    // misura i fps (saltati i primi fotogrammi di compilazione): sotto i 50 si scende a
+    // risoluzione 1x e si rimisura; se anche a 1x resta sotto i 24 torna l'SVG
     const m = s.misura
     if (!m.fatto) {
       if (dt > 0.5) m.frame = m.tempo = 0
@@ -319,9 +377,16 @@ function Scena({
       else {
         m.frame++
         m.tempo += dt
-        if (m.frame >= 150) {
-          m.fatto = true
-          if (m.frame / m.tempo < 24) onLento()
+        if (m.frame >= 90) {
+          const fps = m.frame / m.tempo
+          if (fps < 50 && state.viewport.dpr > 1) {
+            state.setDpr(1)
+            m.saltati = 20
+            m.frame = m.tempo = 0
+          } else {
+            m.fatto = true
+            if (fps < 24) onLento()
+          }
         }
       }
     }
@@ -377,15 +442,8 @@ function Scena({
       {/* anello del marchio: inclinato, il davanti scende sulla metà bassa della Terra */}
       <group rotation={[0.17, 0, -0.11]}>
         <group ref={anelloRef}>
-          {lettere.items.map((l, i) => (
-            <mesh
-              key={i}
-              geometry={l.geo}
-              material={l.ch === '.' ? materiali.punto : materiali.lettera}
-              position={[R_ANELLO * Math.sin(l.angolo), 0, R_ANELLO * Math.cos(l.angolo)]}
-              rotation={[0, l.angolo, 0]}
-            />
-          ))}
+          {anello.testo && <mesh geometry={anello.testo} material={materiali.lettera} />}
+          {anello.punti && <mesh geometry={anello.punti} material={materiali.punto} />}
         </group>
       </group>
     </>
@@ -515,7 +573,7 @@ export default function Globo3D({
         <Canvas
           aria-hidden
           frameloop={inVista && tabVisibile ? 'always' : 'never'}
-          dpr={[1, 2]}
+          dpr={[1, 1.75]}
           flat
           camera={{ fov: FOV, near: 0.1, far: 60, position: [0, 0.3, 8] }}
           gl={{ antialias: true, alpha: true, powerPreference: 'high-performance' }}

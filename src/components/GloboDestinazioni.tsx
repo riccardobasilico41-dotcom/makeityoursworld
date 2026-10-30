@@ -1,7 +1,7 @@
 'use client'
 
 import dynamic from 'next/dynamic'
-import { Component, useEffect, useRef, useState, type ReactNode } from 'react'
+import { Component, useCallback, useEffect, useRef, useState, type ReactNode } from 'react'
 import { GloboDestinazioniSvg, type PaeseGlobo, type PinGlobo } from './GloboDestinazioniSvg'
 
 export type { PaeseGlobo, PinGlobo }
@@ -84,11 +84,13 @@ export function GloboDestinazioni({ paesi, pins }: { paesi: PaeseGlobo[]; pins: 
   }, [pronto, modo])
 
   const usa3d = modo === '3d' && carica
-  const ripiega = () => {
+  // stabili: Globo3D li usa come dipendenze degli effetti
+  const segnaPronto = useCallback(() => setPronto(true), [])
+  const ripiega = useCallback(() => {
     setPronto(false)
     setSvgVia(false)
     setModo('svg')
-  }
+  }, [])
 
   return (
     <div
@@ -112,7 +114,7 @@ export function GloboDestinazioni({ paesi, pins }: { paesi: PaeseGlobo[]; pins: 
       {usa3d && (
         <Paracadute onErrore={ripiega}>
           <div className="absolute inset-0 transition-opacity duration-700" style={{ opacity: pronto ? 1 : 0 }}>
-            <Globo3D pins={pins} onPronto={() => setPronto(true)} onLento={ripiega} />
+            <Globo3D pins={pins} onPronto={segnaPronto} onLento={ripiega} />
           </div>
         </Paracadute>
       )}

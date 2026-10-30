@@ -4,7 +4,7 @@ import Link from 'next/link'
 import { useCallback, useEffect, useMemo, useRef, useState, type KeyboardEvent } from 'react'
 import { ArrowRight } from 'lucide-react'
 
-export type DatiMappa = { viewBox: string; w: number; h: number; path: string }
+export type DatiMappa = { viewBox: string; w: number; h: number; path: string; graticola?: string }
 
 export type PuntoMappa = {
   id: string
@@ -28,6 +28,14 @@ type VB = [number, number, number, number]
 
 const ease = (t: number) => (t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2)
 const LARGH_CAR = 6.6 // px per carattere delle etichette (12px, semibold): stima per le collisioni
+const DX_ETICHETTA = 17 // distanza dell'etichetta dal centro del pin, in pixel schermo
+
+// il Paese ritagliato su un fondo grigio-azzurro (mare o Paesi vicini: i contorni non li distinguono),
+// con una riga sottile che ripete il contorno a qualche pixel di distanza
+const FONDO = '#e2e7e6'
+const RIGA = '#c2cccc'
+const GRIGLIA = '#cbd4d4'
+const DISTANZA_RIGA = 14 // larghezza del tratto: la riga cade a metà, ~7 px dal contorno
 
 /**
  * Mappa interattiva del Paese, sul modello di quella di Wale Adventure: contorno SVG,
@@ -49,6 +57,12 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
     () => [...punti].sort((a, b) => (a.tipo === b.tipo ? 0 : a.tipo === 'esperienza' ? -1 : 1)),
     [punti],
   )
+  // le destinazioni sono numerate nell'ordine dell'elenco: stesso numero sul pin e a fianco
+  const numero = useMemo(() => {
+    const m = new Map<string, number>()
+    punti.filter((p) => p.tipo === 'destinazione').forEach((p, i) => m.set(p.id, i + 1))
+    return m
+  }, [punti])
   const nD = punti.filter((p) => p.tipo === 'destinazione').length
   const nE = punti.length - nD
 
@@ -69,15 +83,16 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
       const x = +g.dataset.x! + +g.dataset.dx! * k
       const y = +g.dataset.y! + +g.dataset.dy! * k
       g.setAttribute('transform', `translate(${x.toFixed(2)} ${y.toFixed(2)}) scale(${k.toFixed(4)})`)
-      const t = g.querySelector('text')
+      const t = g.querySelector<SVGTextElement>('[data-etichetta]')
       if (!t) continue
       const sx = (x - vb[0]) / k, sy = (y - vb[1]) / k // pixel schermo
       const lw = t.textContent!.length * LARGH_CAR
-      const aSinistra = sx + 14 + lw > r.width - 4 && sx - 14 - lw >= 4
-      const nonCi = sx + 14 + lw > r.width - 4 && !aSinistra // né a destra né a sinistra: niente etichetta
-      t.setAttribute('x', aSinistra ? '-14' : '14')
+      const D = DX_ETICHETTA
+      const aSinistra = sx + D + lw > r.width - 4 && sx - D - lw >= 4
+      const nonCi = sx + D + lw > r.width - 4 && !aSinistra // né a destra né a sinistra: niente etichetta
+      t.setAttribute('x', String(aSinistra ? -D : D))
       t.setAttribute('text-anchor', aSinistra ? 'end' : 'start')
-      const box: [number, number, number, number] = aSinistra ? [sx - 14 - lw, sy - 9, sx - 10, sy + 9] : [sx + 10, sy - 9, sx + 14 + lw, sy + 9]
+      const box: [number, number, number, number] = aSinistra ? [sx - D - lw, sy - 9, sx - D + 4, sy + 9] : [sx + D - 4, sy - 9, sx + D + lw, sy + 9]
       const dentro = sx > -20 && sx < r.width + 20 && sy > -20 && sy < r.height + 20
       const libero = presi.every(([a, b, c, d]) => box[2] < a || box[0] > c || box[3] < b || box[1] > d)
       const mostra = g.dataset.off !== '1' && dentro && !nonCi && (g.dataset.sel === '1' || libero)
@@ -200,7 +215,7 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
 
       <div className="mt-6 grid items-start gap-6 lg:grid-cols-[7fr_5fr] lg:gap-10">
         <div>
-          <div className="relative overflow-hidden border-2 border-ink bg-cream" style={{ touchAction: 'pan-y' }}>
+          <div className="relative overflow-hidden border-2 border-ink" style={{ touchAction: 'pan-y', backgroundColor: FONDO }}>
             <svg
               ref={svgRef}
               viewBox={mappa.viewBox}
@@ -209,9 +224,17 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
               aria-label={`Mappa di ${nomePaese} con destinazioni ed esperienze`}
               onKeyDown={(e) => e.key === 'Escape' && azzera()}
             >
+              {mappa.graticola && (
+                <path d={mappa.graticola} fill="none" stroke={GRIGLIA} strokeWidth={1} strokeDasharray="2 5" vectorEffect="non-scaling-stroke" />
+              )}
+              {/* riga di contorno: tratto largo coperto da uno un po' più stretto color fondo */}
+              <g fill="none" strokeLinejoin="round">
+                <path d={mappa.path} stroke={RIGA} strokeWidth={DISTANZA_RIGA} vectorEffect="non-scaling-stroke" />
+                <path d={mappa.path} stroke={FONDO} strokeWidth={DISTANZA_RIGA - 2.5} vectorEffect="non-scaling-stroke" />
+              </g>
               {/* due passate: tratto spesso sotto, riempimento sopra → si vede solo la costa, non i confini interni */}
               <path d={mappa.path} fill="none" stroke="var(--color-ink)" strokeWidth={2.4} strokeLinejoin="round" vectorEffect="non-scaling-stroke" />
-              <path d={mappa.path} fill="var(--color-cream-dark)" />
+              <path d={mappa.path} fill="var(--color-cream)" />
               {ordinati.map((p) => {
                 const on = visibile(p)
                 const isSel = p.id === selId
@@ -240,7 +263,7 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
                     <circle r={18} fill="transparent" />
                     {isSel && (
                       <circle
-                        r={dest ? 13 : 10}
+                        r={dest ? 15 : 10}
                         fill="none"
                         stroke="var(--color-rosso)"
                         strokeWidth={2}
@@ -248,25 +271,37 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
                       />
                     )}
                     {dest ? (
-                      <circle
-                        r={isSel ? 9 : 7}
-                        fill={isSel ? 'var(--color-ink)' : 'var(--color-rosso)'}
-                        stroke={isSel ? 'var(--color-rosso)' : 'var(--color-ink)'}
-                        strokeWidth={2}
-                        className="group-focus-visible:stroke-[4px]"
-                      />
+                      <g className="origin-center transition-transform duration-200 [transform-box:fill-box] group-hover:scale-110">
+                        {/* ombra piena spostata, come i box del sito */}
+                        <circle cx={1.8} cy={1.8} r={10} fill="var(--color-ink)" />
+                        <circle
+                          r={10}
+                          fill={isSel ? 'var(--color-ink)' : 'var(--color-rosso)'}
+                          stroke="var(--color-cream)"
+                          strokeWidth={1.8}
+                          className="group-focus-visible:stroke-[4px]"
+                        />
+                        <text
+                          y={3.9}
+                          textAnchor="middle"
+                          className="pointer-events-none fill-cream font-sans text-[11px] font-bold tabular-nums"
+                        >
+                          {numero.get(p.id)}
+                        </text>
+                      </g>
                     ) : (
                       <circle
                         r={isSel ? 6.5 : evid ? 5.5 : 4.5}
                         fill={isSel ? 'var(--color-rosso)' : 'var(--color-ink)'}
                         stroke="var(--color-cream)"
-                        strokeWidth={1.5}
+                        strokeWidth={2}
                         className="group-focus-visible:stroke-rosso group-focus-visible:stroke-[3px]"
                       />
                     )}
                     {(dest || isSel) && (
                       <text
-                        x={14}
+                        data-etichetta=""
+                        x={DX_ETICHETTA}
                         y={4.5}
                         className="pointer-events-none fill-ink font-sans text-[12px] font-semibold"
                         style={{ paintOrder: 'stroke', stroke: 'var(--color-cream)', strokeWidth: 4, strokeLinejoin: 'round' }}
@@ -279,6 +314,13 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
               })}
             </svg>
 
+            <div className="pointer-events-none absolute left-3 top-3 flex flex-col items-center text-ink" aria-hidden>
+              <svg width="18" height="26" viewBox="0 0 18 26">
+                <path d="M9 1 L16 24 L9 19 L2 24 Z" fill="var(--color-cream)" stroke="var(--color-ink)" strokeWidth="1.5" strokeLinejoin="round" />
+                <path d="M9 1 L9 19 L2 24 Z" fill="var(--color-ink)" />
+              </svg>
+              <span className="mt-0.5 font-display text-[11px] font-bold leading-none">N</span>
+            </div>
             <div className="absolute right-2 top-2 flex gap-2">
               {zoomato && (
                 <button
@@ -292,7 +334,10 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
             </div>
             <div className="pointer-events-none absolute bottom-2 left-2 flex flex-wrap gap-x-3 gap-y-1 bg-cream/85 px-2 py-1 text-[11px] text-stone">
               <span className="inline-flex items-center gap-1.5">
-                <span className="inline-block size-2.5 rounded-full border-2 border-ink bg-rosso" aria-hidden /> Destinazione
+                <span className="inline-flex size-4 items-center justify-center rounded-full bg-rosso text-[9px] font-bold text-cream shadow-[1px_1px_0_var(--color-ink)]" aria-hidden>
+                  1
+                </span>{' '}
+                Destinazione
               </span>
               {nE > 0 && (
                 <span className="inline-flex items-center gap-1.5">
@@ -370,10 +415,16 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
                         onClick={() => scegli(p)}
                         className="flex w-full items-center gap-3 py-2.5 text-left text-sm font-medium text-ink hover:text-rosso"
                       >
-                        <span
-                          aria-hidden
-                          className={p.tipo === 'destinazione' ? 'size-2.5 shrink-0 rounded-full border-2 border-ink bg-rosso' : 'size-2 shrink-0 rounded-full bg-ink'}
-                        />
+                        {p.tipo === 'destinazione' ? (
+                          <span
+                            aria-hidden
+                            className="inline-flex size-5 shrink-0 items-center justify-center rounded-full bg-rosso text-[10px] font-bold tabular-nums text-cream shadow-[1px_1px_0_var(--color-ink)]"
+                          >
+                            {numero.get(p.id)}
+                          </span>
+                        ) : (
+                          <span aria-hidden className="mx-1.5 size-2 shrink-0 rounded-full bg-ink" />
+                        )}
                         <span className="min-w-0 flex-1">{p.nome}</span>
                       </button>
                     </li>

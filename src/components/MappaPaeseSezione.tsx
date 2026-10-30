@@ -23,6 +23,26 @@ function leggiMappa(paeseSlug: string): FileMappa | null {
 }
 
 const mercY = (lat: number) => (Math.log(Math.tan(Math.PI / 4 + (lat * Math.PI) / 360)) * 180) / Math.PI
+const mercLat = (y: number) => (Math.atan(Math.exp((y * Math.PI) / 180)) * 360) / Math.PI - 90
+
+/** Meridiani e paralleli (in Mercatore sono rette) con un passo che ne mette 4–8 sulla mappa. */
+function graticola(file: FileMappa): string {
+  const { lng0, y0, s, ox, oy } = file.proiezione
+  const lngA = lng0 - ox / s, lngB = lng0 + (file.w - ox) / s
+  const latA = mercLat(y0 - (file.h - oy) / s), latB = mercLat(y0 + oy / s)
+  const passo = (span: number) => [0.5, 1, 2, 5, 10, 15, 30].find((p) => span / p <= 8) ?? 30
+  const p = passo(Math.max(lngB - lngA, latB - latA))
+  let d = ''
+  for (let lng = Math.ceil(lngA / p) * p; lng <= lngB; lng += p) {
+    const x = (ox + (lng - lng0) * s).toFixed(1)
+    d += `M${x} 0V${file.h}`
+  }
+  for (let lat = Math.ceil(latA / p) * p; lat <= latB; lat += p) {
+    const y = (oy + (y0 - mercY(lat)) * s).toFixed(1)
+    d += `M0 ${y}H${file.w}`
+  }
+  return d
+}
 
 /** Prima frase (o ~170 caratteri tagliati su una parola), senza markdown. */
 function unaRiga(testo: string, max = 170): string {
@@ -123,7 +143,7 @@ export function MappaPaeseSezione({
     })
   }
 
-  const dati: DatiMappa = { viewBox: file.viewBox, w: file.w, h: file.h, path: file.path }
+  const dati: DatiMappa = { viewBox: file.viewBox, w: file.w, h: file.h, path: file.path, graticola: graticola(file) }
   const nd = punti.filter((p) => p.tipo === 'destinazione').length
   const ne = punti.length - nd
 
