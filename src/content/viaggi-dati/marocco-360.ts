@@ -68,8 +68,8 @@ export const marocco360Meta: TripMeta = {
       statoPernottamento: 'provato',
       intensita: 'intenso',
       destinazioneSlug: 'merzouga',
-      immagine: '/images/viaggi/marocco-360/giorno-3-erg-chebbi.jpg',
-      imageAlt: 'Le dune dorate di Erg Chebbi al tramonto, con le creste di sabbia disegnate dal vento',
+      immagine: '/images/marocco/merzouga-guida-dromedario-riccardo.jpg',
+      imageAlt: 'Una guida con il turbante conduce un dromedario sulla sabbia arancione delle dune di Merzouga',
     },
     {
       titoloGiorno: 'Giorno 4 — Merzouga-Agdz',

@@ -14,7 +14,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     giorniConsigliati: '2-3 giorni',
     visitataPersonalmente: false,
     introduzione: 'La città delle colline, delle case vittoriane e del Golden Gate, sulla baia più famosa della West Coast.',
-    percheAndarci: 'Per il Golden Gate, Alcatraz, i quartieri di Mission, Castro e Chinatown, le funicolari e la vicinanza alle sequoie di Muir Woods.',
+    percheAndarci: 'Per il Golden Gate, Alcatraz, i quartieri di Mission, Castro e Chinatown e le funicolari. Le sequoie di Muir Woods sono vicine.',
     cosaVedere: [
       'Il Golden Gate Bridge dal Presidio, da Battery Spencer o in bicicletta',
       'Alcatraz',
@@ -29,10 +29,10 @@ export const destinazioniCalifornia: Destinazione[] = [
       'Il Ferry Building Marketplace il sabato mattina',
     ],
     doveDormire:
-      'Union Square per comodità (ma attenzione alle zone vicine del Tenderloin), North Beach, Marina e Nob Hill per la tranquillità. Economiche: ostelli e motel di Lombard Street · fascia media: hotel boutique di Union Square e Nob Hill · lusso: Fairmont, hotel di Nob Hill.',
+      'Union Square è comoda (ma attenzione alle vicine zone del Tenderloin); North Beach, Marina e Nob Hill sono più tranquille. Economiche: ostelli e motel di Lombard Street. Fascia media: hotel boutique di Union Square e Nob Hill. Lusso: Fairmont, hotel di Nob Hill.',
     doveMangiare: 'Il burrito di Mission, il dim sum di Chinatown, il chowder nella pagnotta di pane acido a Fisherman\'s Wharf, il Ferry Building per i produttori locali.',
-    comeArrivare: 'Aeroporto di San Francisco (SFO), collegato al centro dalla metro BART in 30 minuti.',
-    comeSpostarsi: 'A piedi, funicolari, tram e bus Muni con la carta Clipper o l\'app; Uber e Lyft. L\'auto si ritira il giorno della partenza.',
+    comeArrivare: 'Dall\'aeroporto di San Francisco (SFO) la metro BART porta in centro in 30 minuti.',
+    comeSpostarsi: 'A piedi, in funicolare, tram e bus Muni con la carta Clipper o l\'app, oppure con Uber e Lyft. L\'auto conviene ritirarla il giorno della partenza.',
     periodoMigliore: 'settembre-ottobre, i mesi più caldi e meno nebbiosi; d\'estate nebbia e vento freddo',
     costi:
       'Alcatraz indicativamente 45-50 $ con traghetto, da prenotare settimane prima; funicolare 8 $ a corsa; parcheggio in hotel 50-80 $ a notte (indicativi).',
@@ -55,7 +55,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     giorniConsigliati: '2-3 giorni',
     visitataPersonalmente: false,
     introduzione:
-      'Una valle glaciale chiusa da pareti di granito come El Capitan e l\'Half Dome, con cascate che a primavera sono tra le più alte del Nord America.',
+      'Una valle glaciale chiusa da pareti di granito come El Capitan e l\'Half Dome. In primavera le sue cascate sono tra le più alte del Nord America.',
     percheAndarci: 'Per la Yosemite Valley, Glacier Point, le sequoie di Mariposa Grove e i sentieri verso le cascate Vernal e Nevada.',
     cosaVedere: [
       'Tunnel View all\'ingresso della valle',
@@ -69,14 +69,14 @@ export const destinazioniCalifornia: Destinazione[] = [
     doveDormire:
       'Dentro il parco: lodge, camere e tende nella valle (Yosemite Valley Lodge, Curry Village, The Ahwahnee), da prenotare con molti mesi di anticipo; campeggi su recreation.gov. Fuori: Mariposa, Oakhurst, El Portal e Groveland, a 30-60 minuti.',
     comeArrivare: 'Da San Francisco 3,5-4 ore in auto.',
-    comeSpostarsi: 'In auto e con le navette gratuite della valle; parcheggio difficile in estate dopo le 9.',
+    comeSpostarsi: 'In auto e con le navette gratuite della valle; d\'estate, dopo le 9, trovare parcheggio è difficile.',
     periodoMigliore: 'maggio-giugno per le cascate, settembre-ottobre per la calma; Tioga Road aperta di solito da fine maggio o giugno a novembre',
     costi:
-      'Ingresso 35 $ per auto per 7 giorni; dal 2026 supplemento di 100 $ a persona per i non residenti dai 16 anni, oppure pass annuale per non residenti America the Beautiful a 250 $ (indicativi, verificare su nps.gov).',
+      'Ingresso 35 $ per auto per 7 giorni; dal 2026 supplemento di 100 $ a persona per i non residenti dai 16 anni, oppure pass annuale per non residenti America the Beautiful a 250 $ (prezzi indicativi: conviene controllarli su nps.gov).',
     erroriDaEvitare: [
       'Arrivare in valle a metà mattina d\'estate: parcheggi pieni e code agli ingressi',
-      'Lasciare cibo o profumi in auto: gli orsi rompono i finestrini, e c\'è l\'obbligo dei contenitori antiorso',
-      'Pianificare la Tioga Road fuori stagione senza verificare che sia aperta',
+      'Lasciare cibo o profumi in auto: gli orsi rompono i finestrini, e i contenitori antiorso sono obbligatori',
+      'Mettere in programma la Tioga Road fuori stagione senza controllare che sia aperta',
     ],
     esperienzeSlugs: [],
     tripSlugs: ['california-road-trip'],
@@ -104,7 +104,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     cosaFare: ['Passeggiate nella Giant Forest', 'Il tramonto a Moro Rock'],
     doveDormire: 'Wuksachi Lodge e John Muir Lodge dentro i parchi; Three Rivers fuori dall\'ingresso sud.',
     comeArrivare: 'Da Yosemite circa 3,5-4 ore passando per Fresno; da Los Angeles 4 ore.',
-    comeSpostarsi: 'In auto sulla Generals Highway, stretta e con molti tornanti; navette in estate nella Giant Forest.',
+    comeSpostarsi: 'In auto sulla Generals Highway, stretta e piena di tornanti; d\'estate nella Giant Forest ci sono le navette.',
     periodoMigliore: 'da maggio a ottobre; d\'inverno catene obbligatorie e chiusure frequenti',
     costi:
       'Ingresso 35 $ per auto per 7 giorni; dal 2026 supplemento di 100 $ a persona per i non residenti, oppure pass annuale per non residenti a 250 $ (indicativi).',
@@ -126,7 +126,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     giorniConsigliati: '1-2 giorni',
     visitataPersonalmente: false,
     introduzione:
-      'Il parco più grande degli Stati Uniti continentali, con il punto più basso del Nord America e i record di temperatura del pianeta.',
+      'Il parco più grande degli Stati Uniti continentali. Qui c\'è il punto più basso del Nord America e qui si sono registrati i record di temperatura del pianeta.',
     percheAndarci: 'Per Zabriskie Point all\'alba, le saline di Badwater, le dune di Mesquite e i colori dell\'Artist\'s Palette.',
     cosaVedere: [
       'Zabriskie Point all\'alba',
@@ -136,10 +136,10 @@ export const destinazioniCalifornia: Destinazione[] = [
       'Dante\'s View',
       'Il Golden Canyon',
     ],
-    cosaFare: ['Camminata nel Golden Canyon', 'Osservazione delle stelle, è un parco a cielo scuro'],
+    cosaFare: ['Camminata nel Golden Canyon', 'Osservare le stelle: è un parco a cielo scuro'],
     doveDormire: 'The Oasis at Death Valley a Furnace Creek, Stovepipe Wells, Panamint Springs; fuori parco Beatty o Lone Pine.',
     comeArrivare: 'Da Sequoia circa 5-6 ore; da Las Vegas 2 ore; d\'estate da Yosemite attraverso la Tioga Road e Lone Pine.',
-    comeSpostarsi: 'Solo in auto, con il pieno fatto prima di entrare: i distributori nel parco sono pochi e cari.',
+    comeSpostarsi: 'Solo in auto, facendo il pieno prima di entrare: nel parco i distributori sono pochi e cari.',
     periodoMigliore: 'da novembre a marzo; aprile e ottobre ancora possibili; da maggio a settembre caldo estremo, oltre i 45-50 °C',
     costi: 'Ingresso 30 $ per auto per 7 giorni, coperto dal pass annuale (indicativo).',
     erroriDaEvitare: [
@@ -161,8 +161,8 @@ export const destinazioniCalifornia: Destinazione[] = [
     giorniConsigliati: '1-2 giorni',
     visitataPersonalmente: false,
     introduzione:
-      'L\'incontro tra il deserto del Mojave e quello del Colorado, con i Joshua tree, ammassi di rocce granitiche e un cielo notturno tra i più scuri della California del sud; a mezz\'ora c\'è Palm Springs.',
-    percheAndarci: 'Per le rocce di Hidden Valley, il Cholla Cactus Garden, Keys View e le stelle; per l\'architettura modernista di Palm Springs.',
+      'Qui il deserto del Mojave incontra quello del Colorado: Joshua tree, ammassi di rocce granitiche e un cielo notturno tra i più scuri della California del sud. A mezz\'ora c\'è Palm Springs.',
+    percheAndarci: 'Per le rocce di Hidden Valley, il Cholla Cactus Garden, Keys View e le stelle. E per l\'architettura modernista di Palm Springs.',
     cosaVedere: [
       'Hidden Valley e Skull Rock',
       'Il Cholla Cactus Garden',
@@ -171,12 +171,12 @@ export const destinazioniCalifornia: Destinazione[] = [
       'Le case moderniste di Palm Springs e la funivia sul monte San Jacinto',
     ],
     cosaFare: ['Arrampicata e bouldering', 'Osservazione delle stelle', 'Escursione al Ryan Mountain'],
-    doveDormire: 'Twentynine Palms, Joshua Tree e Yucca Valley, con motel e case nel deserto; Palm Springs per hotel con piscina.',
+    doveDormire: 'A Twentynine Palms, Joshua Tree e Yucca Valley ci sono motel e case nel deserto; a Palm Springs gli hotel con piscina.',
     comeArrivare: 'Da Death Valley circa 4-5 ore, passando per Baker o per la Route 66 ad Amboy; da Los Angeles 2,5 ore.',
     comeSpostarsi: 'In auto.',
     periodoMigliore: 'da ottobre ad aprile; d\'estate oltre i 40 °C',
     costi: 'Ingresso 30 $ per auto per 7 giorni; funivia di Palm Springs indicativamente 30-35 $ (indicativi).',
-    erroriDaEvitare: ['Uscire dai sentieri tra i massi senza acqua e senza segnale', 'Toccare i cholla: le spine si staccano e si attaccano alla pelle'],
+    erroriDaEvitare: ['Lasciare i sentieri tra i massi senza acqua e senza segnale', 'Toccare i cholla: le spine si staccano e restano attaccate alla pelle'],
     esperienzeSlugs: [],
     tripSlugs: ['california-road-trip'],
     imageAlt: 'Un albero di Giosuè e i massi di granito nel Joshua Tree National Park',
@@ -201,10 +201,10 @@ export const destinazioniCalifornia: Destinazione[] = [
       'Malibu e El Matador Beach',
     ],
     cosaFare: ['Il tour degli studi Warner Bros. o Universal', 'Bicicletta lungo la spiaggia da Santa Monica a Venice'],
-    doveDormire: 'Santa Monica per il mare, West Hollywood per la posizione centrale, Pasadena per la calma. Fascia media: motel e hotel di West Hollywood · lusso: hotel di Santa Monica e Beverly Hills.',
+    doveDormire: 'Santa Monica per il mare, West Hollywood per la posizione centrale, Pasadena per la calma. Fascia media: motel e hotel di West Hollywood. Lusso: hotel di Santa Monica e Beverly Hills.',
     doveMangiare: 'Tacos dei food truck, cucina coreana a Koreatown, il Grand Central Market a Downtown, pesce a Malibu.',
     comeArrivare: 'Da Joshua Tree o Palm Springs 2-2,5 ore; aeroporto LAX.',
-    comeSpostarsi: 'In auto, con traffico pesante tra le 7 e le 10 e tra le 15 e le 19; Uber e Lyft; metro per alcune tratte.',
+    comeSpostarsi: 'In auto, con traffico pesante tra le 7 e le 10 e tra le 15 e le 19; poi Uber e Lyft, e la metro per alcune tratte.',
     periodoMigliore: 'tutto l\'anno; maggio-giugno con il cielo grigio del mattino («June Gloom»)',
     costi: 'Getty Center gratuito con parcheggio a pagamento (25 $ circa); Griffith Observatory gratuito; tour degli studi 70-80 $ (indicativi).',
     erroriDaEvitare: ['Pianificare troppe zone in un giorno: i tempi in auto sono lunghi', 'Lasciare oggetti in vista nell\'auto parcheggiata'],
@@ -223,7 +223,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     visitataPersonalmente: false,
     introduzione:
       'La Pacific Coast Highway tra Santa Barbara e Monterey: missioni spagnole, elefanti marini, scogliere a picco sull\'oceano e foreste di sequoie costiere.',
-    percheAndarci: 'Per la guida lungo Big Sur, il ponte di Bixby Creek, la cascata di McWay, la colonia di elefanti marini di Piedras Blancas e l\'acquario di Monterey.',
+    percheAndarci: 'Per la strada lungo Big Sur, il ponte di Bixby Creek, la cascata di McWay, la colonia di elefanti marini di Piedras Blancas e l\'acquario di Monterey.',
     cosaVedere: [
       'Santa Barbara e la sua missione',
       'Hearst Castle a San Simeon',
@@ -234,7 +234,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       'Il Monterey Bay Aquarium',
     ],
     cosaFare: ['Sosta nei belvedere lungo la strada', 'Passeggiata a Point Lobos', 'Degustazioni nelle cantine della Santa Ynez Valley'],
-    doveDormire: 'Santa Barbara, Cambria o San Simeon, Monterey o Carmel; a Big Sur pochi lodge e campeggi, cari e da prenotare con anticipo.',
+    doveDormire: 'Santa Barbara, Cambria o San Simeon, Monterey o Carmel. A Big Sur ci sono pochi lodge e campeggi, cari e da prenotare con anticipo.',
     comeArrivare: 'Da Los Angeles a Santa Barbara 1,5-2 ore; da Santa Barbara a Monterey lungo la costa circa 5-6 ore senza soste.',
     comeSpostarsi: 'In auto, guidando verso nord con l\'oceano sulla sinistra (o verso sud per avere i belvedere dal lato giusto).',
     periodoMigliore: 'aprile-maggio e settembre-ottobre; d\'estate nebbia al mattino, d\'inverno frane e chiusure',

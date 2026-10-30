@@ -20,7 +20,7 @@ export const destinazioniPeru: Destinazione[] = [
     introduzione:
       'L\'antica capitale dell\'impero inca a 3.400 metri, dove le fondamenta in pietra incastrata a secco reggono ancora le chiese coloniali costruite sopra. È la base logistica di quasi tutto ciò che si fa in Perù: da qui partono treni, trek e voli per l\'Amazzonia.',
     percheAndarci:
-      'Perché è il punto di partenza obbligato e perché merita di suo: la muratura inca di Sacsayhuamán e di Qorikancha è il miglior modo per capire cosa si andrà a vedere a Machu Picchu.',
+      'Perché è il punto di partenza obbligato e perché merita anche da sola: la muratura inca di Sacsayhuamán e di Qorikancha è il modo migliore per capire cosa si andrà a vedere a Machu Picchu.',
     cosaVedere: [
       'Qorikancha, il tempio del sole inca su cui i conquistadores costruirono il convento di Santo Domingo',
       'Sacsayhuamán, la fortezza con i blocchi megalitici incastrati senza malta, sopra la città',
@@ -29,10 +29,10 @@ export const destinazioniPeru: Destinazione[] = [
       'La Piedra de los Doce Ángulos, in Calle Hatun Rumiyoc',
     ],
     cosaFare: [
-      'Prendersela comoda i primi due giorni: l\'acclimatamento non è un consiglio, è la condizione per riuscire a fare tutto il resto',
+      'Prendersela comoda i primi due giorni: senza acclimatamento il resto del viaggio non si riesce a fare',
       'Mercato di San Pedro per il primo assaggio della cucina andina',
       'Corso di cucina peruviana o degustazione di ceviche e pisco sour',
-      'Giornata a Rainbow Mountain (Vinicunca) o alla laguna Humantay — entrambe sopra i 4.600 metri, da fare solo dopo essersi acclimatati',
+      'Giornata a Rainbow Mountain (Vinicunca) o alla laguna Humantay, entrambe sopra i 4.600 metri, da fare solo dopo essersi acclimatati',
     ],
     doveDormire:
       'Il centro storico e San Blas sono le zone più comode e piacevoli; San Blas è però tutto in salita, cosa che nei primi giorni in quota si sente parecchio.',
@@ -48,11 +48,11 @@ export const destinazioniPeru: Destinazione[] = [
       'Salire a Rainbow Mountain nei primi giorni, quando l\'organismo non ha ancora reagito alla quota',
     ],
     miaEsperienza:
-      'Il primo giorno qui è un giorno perso, e va messo in conto come tale: si arriva convinti di essere in forma e basta una rampa di scale per scoprire che a 3.400 metri il fiato non è questione di allenamento. Camminare piano tra San Blas e la Plaza de Armas, con il tè di coca in mano come fanno tutti, è esattamente quello che serve, e il resto del viaggio ne guadagna. La sorpresa è la città in sé: sembra solo il campo base per Machu Picchu, invece la muratura inca sotto le chiese coloniali racconta la conquista meglio di qualsiasi museo.',
+      'Il primo giorno qui è un giorno perso, e va messo in conto: sono arrivato convinto di essere in forma ed è bastata una rampa di scale per scoprire che a 3.400 metri il fiato non è questione di allenamento. Camminare piano tra San Blas e la Plaza de Armas, con il tè di coca in mano come fanno tutti, è quello che serve, e il resto del viaggio ne guadagna. La sorpresa è stata la città in sé: sembra solo il campo base per Machu Picchu, invece la muratura inca sotto le chiese coloniali racconta la conquista meglio di qualsiasi museo.',
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario'],
-    imageAlt: 'Plaza de Armas di Cusco con i giardini fioriti e la cattedrale, Perù',
-    immagine: '/images/peru/cusco.jpg',
+    imageAlt: 'Una venditrice con il cappello solleva un vassoio di pannocchie davanti alla cattedrale di Cusco, in Plaza de Armas',
+    immagine: '/images/peru/cusco-plaza-de-armas-venditrice-riccardo.jpg',
   },
   {
     slug: 'valle-sacra',
@@ -65,7 +65,7 @@ export const destinazioniPeru: Destinazione[] = [
     introduzione:
       'La valle del fiume Urubamba tra Cusco e Machu Picchu: terrazzamenti, saline ancora in uso dai tempi degli Inca, villaggi di tessitori e la fortezza di Ollantaytambo, da cui partono i treni.',
     percheAndarci:
-      'Sta 500-600 metri più in basso di Cusco, quindi è il posto giusto dove acclimatarsi dormendo meglio, ed è ricchissima di siti che quasi nessuno visita con calma perché tutti corrono a Machu Picchu.',
+      'Sta 500-600 metri più in basso di Cusco, quindi è il posto giusto dove acclimatarsi dormendo meglio, ed è piena di siti che quasi nessuno visita con calma perché tutti corrono a Machu Picchu.',
     cosaVedere: [
       'Ollantaytambo, l\'unico insediamento inca ancora abitato secondo l\'impianto originale, con la fortezza a terrazze sopra il paese',
       'Le saline di Maras, migliaia di vasche bianche scavate nel fianco della montagna',
@@ -92,11 +92,11 @@ export const destinazioniPeru: Destinazione[] = [
       'Dormire a Cusco la sera prima del treno delle 5 o 6 del mattino da Ollantaytambo',
     ],
     miaEsperienza:
-      'È la tappa da allungare se si ha un giorno in più, ed è quella che quasi tutti sacrificano per correre a Machu Picchu. Sta cinquecento metri più in basso di Cusco e si dorme molto meglio: sembra un dettaglio da poco finché non si passa una notte a respirare male in città. Maras colpisce più di Moray — le vasche di sale scavate nella montagna sono ancora in uso dalle stesse famiglie da generazioni, e vederle in funzione è un\'altra cosa rispetto a guardare un sito archeologico. Ollantaytambo dà il meglio la sera, quando i pullman dei tour sono ripartiti e il paese torna ai suoi abitanti.',
+      'È la tappa da allungare se si ha un giorno in più, ed è quella che quasi tutti sacrificano per correre a Machu Picchu. Sta cinquecento metri più in basso di Cusco e si dorme molto meglio: sembra un dettaglio da poco finché non si passa una notte a respirare male in città. A me Maras ha colpito più di Moray. Le vasche di sale scavate nella montagna sono ancora in uso dalle stesse famiglie da generazioni, e vederle in funzione è un\'altra cosa rispetto a guardare un sito archeologico. Ollantaytambo dà il meglio la sera, quando i pullman dei tour sono ripartiti e il paese torna ai suoi abitanti.',
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario'],
-    imageAlt: 'Le vasche bianche delle saline di Maras, Valle Sacra, Perù',
-    immagine: '/images/peru/valle-sacra.jpg',
+    imageAlt: 'Migliaia di vasche di sale di Maras che scendono a gradoni lungo il fianco della Valle Sacra',
+    immagine: '/images/peru/saline-maras-riccardo.jpg',
   },
   {
     slug: 'machu-picchu',
@@ -107,14 +107,14 @@ export const destinazioniPeru: Destinazione[] = [
     giorniConsigliati: '2 giorni (una notte ad Aguas Calientes) per entrare all\'apertura senza corse',
     visitataPersonalmente: true,
     introduzione:
-      'La cittadella inca del XV secolo sospesa tra le montagne, e la meta con il sistema di accesso più regolamentato di tutto il Sud America: quote giornaliere, fasce orarie fisse, circuiti obbligati e biglietti extra a numero chiusissimo per le vette.',
+      'La cittadella inca del XV secolo sospesa tra le montagne, e la meta con il sistema di accesso più regolamentato di tutto il Sud America: quote giornaliere, fasce orarie fisse, circuiti obbligati e biglietti extra a numero molto chiuso per le vette.',
     percheAndarci:
-      'Perché è ciò che promette di essere, e perché il modo in cui ci si arriva cambia completamente il viaggio: arrivarci in treno o dopo quattro giorni di cammino attraverso la Porta del Sole sono due esperienze diverse.',
+      'Perché è ciò che promette di essere, e perché il modo in cui ci si arriva cambia tutto il viaggio: arrivarci in treno o dopo quattro giorni di cammino attraverso la Porta del Sole sono due esperienze diverse.',
     cosaVedere: [
       'L\'Intihuatana, la pietra rituale legata all\'osservazione solare, uno dei pochi sopravvissuti alla distruzione coloniale',
       'Il Tempio del Sole e il Recinto Reale, dove la muratura inca raggiunge il massimo livello',
       'I terrazzamenti agricoli, con le prospettive fotografiche classiche',
-      'Huayna Picchu, la vetta che fa da sfondo alle foto — salita ripida con biglietto separato',
+      'Huayna Picchu, la vetta che fa da sfondo alle foto: salita ripida con biglietto separato',
       'Intipunku, la Porta del Sole, punto d\'arrivo del Cammino Inca',
     ],
     cosaFare: [
@@ -234,7 +234,7 @@ export const destinazioniPeru: Destinazione[] = [
           },
         ],
         raccomandazione:
-          'Con date fisse e poco tempo, treno da Ollantaytambo con notte ad Aguas Calientes: si entra al primo turno e si evita la corsa. Con 4-5 giorni e voglia di camminare, il Salkantay dà più paesaggio per meno soldi e senza l\'ansia dei permessi. Il Cammino Inca classico vale la pena solo se si può decidere — e prenotare — con almeno cinque o sei mesi di anticipo.',
+          'Con date fisse e poco tempo, treno da Ollantaytambo con notte ad Aguas Calientes: si entra al primo turno e si evita la corsa. Con 4-5 giorni e voglia di camminare, il Salkantay dà più paesaggio per meno soldi e senza l\'ansia dei permessi. Il Cammino Inca classico vale la pena solo se si può decidere (e prenotare) con almeno cinque o sei mesi di anticipo.',
       },
     ],
     doveDormire:
@@ -255,11 +255,11 @@ export const destinazioniPeru: Destinazione[] = [
       'Arrivare a Cusco e salire a Machu Picchu il giorno dopo, senza acclimatamento',
     ],
     miaEsperienza:
-      'È uno di quei posti di cui si sono viste talmente tante foto da temere la delusione, e invece regge — ma regge nella prima ora, quando la nebbia si alza a strappi e il sito compare a pezzi. Dopo, con i gruppi in fila lungo il circuito assegnato, diventa un\'altra cosa: bellissima, ma gestita. Il consiglio che vale più di tutti è dormire ad Aguas Calientes ed entrare al primo turno, non per la luce ma per quei quaranta minuti in cui il posto è ancora silenzioso. E conviene sapere prima che non si gira liberamente: il circuito scelto al momento della prenotazione decide cosa si vedrà e cosa no.',
+      'Ne avevo viste talmente tante foto da temere la delusione, e invece regge. Regge soprattutto nella prima ora, quando la nebbia si alza a strappi e il sito compare a pezzi. Dopo, con i gruppi in fila lungo il circuito assegnato, diventa un\'altra cosa: bellissima, ma gestita. Il consiglio che vale più di tutti è dormire ad Aguas Calientes ed entrare al primo turno, più che per la luce per quei quaranta minuti in cui il posto è ancora silenzioso. E conviene sapere prima che non si gira liberamente: il circuito scelto al momento della prenotazione decide cosa si vedrà e cosa no.',
     esperienzeSlugs: ['huayna-picchu', 'cammino-inca'],
     tripSlugs: ['peru-itinerario'],
-    imageAlt: 'La cittadella inca di Machu Picchu tra le nuvole, con il Huayna Picchu sullo sfondo',
-    immagine: '/images/peru/machu-picchu.jpg',
+    imageAlt: 'Un lama solitario pascola sui terrazzamenti inca di Machu Picchu avvolti nella nebbia del mattino',
+    immagine: '/images/peru/machu-picchu-lama-terrazze-riccardo.jpg',
   },
   {
     slug: 'choquequirao',
@@ -272,7 +272,7 @@ export const destinazioniPeru: Destinazione[] = [
     introduzione:
       'La "sorella di Machu Picchu": una cittadella inca di dimensioni paragonabili, scavata solo per circa un terzo, appollaiata sopra il canyon dell\'Apurímac. Ci arrivano meno di diecimila persone all\'anno, contro il milione e mezzo di Machu Picchu, e il motivo è semplice: non c\'è altro modo che camminare per due giorni.',
     percheAndarci:
-      'È il posto dove si può stare davanti a rovine inca di quella scala praticamente da soli — un\'esperienza che a Machu Picchu non esiste più da decenni. Ed è una finestra che si sta chiudendo: da anni si parla di una teleferica che ridurrebbe l\'accesso da due giorni di cammino a venti minuti.',
+      'È il posto dove si può stare davanti a rovine inca di quella scala quasi da soli, cosa che a Machu Picchu non succede più da decenni. Ed è una finestra che si sta chiudendo: da anni si parla di una teleferica che ridurrebbe l\'accesso da due giorni di cammino a venti minuti.',
     cosaVedere: [
       'La piazza cerimoniale e il settore degli usnu, la parte centrale della cittadella',
       'Le terrazze delle llamas, decorate con figure di lama in pietra bianca incastonata',
@@ -280,7 +280,7 @@ export const destinazioniPeru: Destinazione[] = [
       'Il canyon dell\'Apurímac, uno dei più profondi del continente, che si attraversa scendendo e risalendo circa 1.500 metri per lato',
     ],
     cosaFare: [
-      'Il trek classico di 4-5 giorni da Cachora, andata e ritorno per la stessa via — vedi la scheda esperienza dedicata',
+      'Il trek classico di 4-5 giorni da Cachora, andata e ritorno per la stessa via (vedi la scheda esperienza dedicata)',
       'La traversata lunga Choquequirao-Machu Picchu, 8-9 giorni, uno dei trek più duri e belli del Perù',
       'Fermarsi due notti al sito invece di una, per avere una giornata piena tra le rovine senza la stanchezza della salita',
     ],
@@ -297,7 +297,7 @@ export const destinazioniPeru: Destinazione[] = [
       {
         titolo: 'Andarci ora o aspettare la teleferica?',
         introduzione:
-          'Il progetto di una teleferica per Choquequirao esiste dal 2011 e da allora è stato rinviato più volte per ragioni tecniche, legali, ambientali e sociali. Nel 2026 è ancora in fase di gara, con il modello della partnership pubblico-privata, e senza una data di costruzione confermata. Cambierebbe radicalmente il posto.',
+          'Il progetto di una teleferica per Choquequirao esiste dal 2011 e da allora è stato rinviato più volte per ragioni tecniche, legali, ambientali e sociali. Nel 2026 è ancora in fase di gara, con il modello della partnership pubblico-privata, e senza una data di costruzione confermata. Cambierebbe del tutto il posto.',
         opzioni: [
           {
             nome: 'Andarci adesso, a piedi',
@@ -305,7 +305,7 @@ export const destinazioniPeru: Destinazione[] = [
             durata: '4-5 giorni',
             costo: '400-700$ con agenzia, molto meno in autonomia',
             pro: [
-              'Rovine di scala monumentale praticamente deserte: oggi ci vanno circa 10.000 persone l\'anno',
+              'Rovine di scala monumentale quasi deserte: oggi ci vanno circa 10.000 persone l\'anno',
               'Il percorso in sé è considerato più duro del Cammino Inca e del Salkantay ed è parte dell\'esperienza',
               'Nessuna infrastruttura turistica: il posto è ancora com\'era',
             ],
@@ -332,17 +332,17 @@ export const destinazioniPeru: Destinazione[] = [
           },
         ],
         raccomandazione:
-          'Se si è in grado di camminare, andarci adesso. Il valore di Choquequirao oggi non sta solo nelle rovine, ma nel fatto che ci si arriva a fatica e ci si sta quasi da soli: è esattamente la cosa che la teleferica eliminerebbe.',
+          'Se si è in grado di camminare, andarci adesso. Oggi il valore di Choquequirao sta nelle rovine e anche nel fatto che ci si arriva a fatica e ci si sta quasi da soli: proprio quello che la teleferica eliminerebbe.',
       },
     ],
     erroriDaEvitare: [
       'Sottovalutarlo perché "è meno famoso di Machu Picchu": le guide di Cusco lo considerano più duro sia del Cammino Inca sia del Salkantay',
-      'Portare troppo peso: il dislivello si sente enormemente, i muli per i bagagli valgono ogni sol speso',
+      'Portare troppo peso: il dislivello si sente moltissimo, i muli per i bagagli valgono ogni sol speso',
       'Andarci nella stagione delle piogge, quando il sentiero sul fianco del canyon diventa pericoloso',
       'Programmare una sola notte al sito: si arriva stanchi e si riparte subito, perdendo il senso del posto',
     ],
     miaEsperienza:
-      'La cosa più dura del Perù, e quella che vale di più. La discesa nel canyon dell\'Apurímac inganna: si scende per ore con le gambe fresche pensando che stia andando bene, e solo dopo ci si ricorda che tutto quel dislivello va risalito dall\'altra parte, col sole addosso e senza un filo d\'ombra. Ma arrivare lassù e trovarsi davanti terrazzamenti di quella scala senza nessun altro intorno è qualcosa che a Machu Picchu non esiste più. Chi ci sta pensando lo faccia adesso: se la teleferica verrà costruita davvero, questo posto smetterà di essere quello che è.',
+      'La cosa più dura del Perù, e quella che vale di più. La discesa nel canyon dell\'Apurímac inganna: si scende per ore con le gambe fresche pensando che stia andando bene, e solo dopo ci si ricorda che tutto quel dislivello va risalito dall\'altra parte, col sole addosso e senza un filo d\'ombra. Però arrivare lassù e trovarsi davanti terrazzamenti di quella scala senza nessun altro intorno è qualcosa che a Machu Picchu non esiste più. Chi ci sta pensando lo faccia adesso: se la teleferica verrà costruita, questo posto cambierà.',
     esperienzeSlugs: ['trek-choquequirao'],
     tripSlugs: [],
     imageAlt: 'I terrazzamenti inca di Choquequirao sopra il canyon dell\'Apurímac, Perù',
@@ -356,9 +356,9 @@ export const destinazioniPeru: Destinazione[] = [
     giorniConsigliati: '3-4 giorni da Puerto Maldonado, 5-7 da Iquitos, 6-8 per il Manu',
     visitataPersonalmente: true,
     introduzione:
-      'Oltre metà del territorio peruviano è foresta amazzonica, e la domanda vera non è "andarci o no" ma "da quale porta entrare": Puerto Maldonado, Iquitos e il Manu offrono tre esperienze molto diverse per costo, difficoltà e tipo di fauna.',
+      'Oltre metà del territorio peruviano è foresta amazzonica, e la domanda vera è "da quale porta entrare": Puerto Maldonado, Iquitos e il Manu offrono tre esperienze molto diverse per costo, difficoltà e tipo di fauna.',
     percheAndarci:
-      'Perché è il contrappeso perfetto alle Ande e perché il Perù ha alcune delle aree protette più biodiverse del pianeta — la Riserva di Tambopata, il Parco Nazionale del Manu e la riserva Pacaya-Samiria.',
+      'Perché è il contrappeso giusto alle Ande e perché il Perù ha alcune delle aree protette più biodiverse del pianeta: la Riserva di Tambopata, il Parco Nazionale del Manu e la riserva Pacaya-Samiria.',
     cosaVedere: [
       'Le collpas, le pareti di argilla dove centinaia di pappagalli e ara si radunano all\'alba per integrare i minerali',
       'Le lontre giganti dei laghi a ferro di cavallo, come il Lago Sandoval',
@@ -376,7 +376,7 @@ export const destinazioniPeru: Destinazione[] = [
       {
         titolo: 'Le tre porte dell\'Amazzonia peruviana a confronto',
         introduzione:
-          'Puerto Maldonado, Iquitos e il Manu non sono varianti della stessa cosa: cambiano il tempo necessario, il costo, la difficoltà d\'accesso e persino gli animali che si vedono. Sceglierne una senza sapere cosa offrono le altre è il modo più comune di restare delusi da un lodge amazzonico.',
+          'Puerto Maldonado, Iquitos e il Manu sono tre cose diverse: cambiano il tempo necessario, il costo, la difficoltà d\'accesso e persino gli animali che si vedono. Sceglierne una senza sapere cosa offrono le altre è il modo più comune di restare delusi da un lodge amazzonico.',
         opzioni: [
           {
             nome: 'Puerto Maldonado (Tambopata)',
@@ -385,7 +385,7 @@ export const destinazioniPeru: Destinazione[] = [
             costo: 'indicativamente 300-600$ per 3 notti in lodge, tutto incluso; volo da Cusco poco più di un\'ora',
             durata: '3-4 giorni, il formato ideale',
             pro: [
-              'Accesso rapidissimo: si può innestare in un itinerario Cusco-Machu Picchu senza stravolgerlo',
+              'Accesso molto rapido: si può innestare in un itinerario Cusco-Machu Picchu senza stravolgerlo',
               'Ottimo per lontre giganti, ara alle collpas e fauna delle chiome',
               'Ampia scelta di lodge per tutte le fasce di prezzo',
             ],
@@ -402,7 +402,7 @@ export const destinazioniPeru: Destinazione[] = [
             costo: 'da 400-800$ per un lodge di qualche notte fino a diverse migliaia per le crociere fluviali',
             durata: '5-7 giorni per avere senso',
             pro: [
-              'L\'esperienza fluviale più profonda: si naviga davvero, non si fa base in un lodge',
+              'L\'esperienza fluviale più completa: si naviga sul serio invece di fare base in un lodge',
               'I delfini rosa si avvistano con più facilità che altrove',
               'La città stessa è un pezzo di storia del boom del caucciù, con un carattere che Puerto Maldonado non ha',
             ],
@@ -420,8 +420,8 @@ export const destinazioniPeru: Destinazione[] = [
             costo: 'indicativamente 800-1.500$ per una spedizione di 6-8 giorni',
             durata: '6-8 giorni, non meno',
             pro: [
-              'La biodiversità più alta delle tre: è il posto dove si vede di più, in assoluto',
-              'La discesa dalle Ande alla foresta attraversa fasce di vegetazione completamente diverse, gallo delle rocce compreso',
+              'La biodiversità più alta delle tre: è il posto dove si vede di più',
+              'La discesa dalle Ande alla foresta attraversa fasce di vegetazione del tutto diverse, gallo delle rocce compreso',
               'Poco battuto: si incontrano pochissimi altri gruppi',
             ],
             contro: [
@@ -433,26 +433,26 @@ export const destinazioniPeru: Destinazione[] = [
           },
         ],
         raccomandazione:
-          'In un viaggio classico di due settimane in Perù, Puerto Maldonado è la scelta sensata: costa poco in termini di tempo e restituisce comunque un\'Amazzonia autentica, purché si scelga un lodge abbastanza lontano dalla città. Iquitos ha senso solo se si dedica una settimana al fiume. Il Manu è per chi torna in Perù una seconda volta, o per chi viene apposta per la fauna.',
+          'In un viaggio classico di due settimane in Perù, Puerto Maldonado è la scelta sensata: costa poco in termini di tempo e dà comunque un\'Amazzonia vera, purché si scelga un lodge abbastanza lontano dalla città. Iquitos ha senso solo se si dedica una settimana al fiume. Il Manu è per chi torna in Perù una seconda volta, o per chi viene apposta per la fauna.',
       },
     ],
     doveDormire:
-      'Lodge nella foresta, quasi sempre venduti a pacchetto con trasferimenti, pasti ed escursioni incluse. La variabile che conta di più non è il lusso della struttura ma la distanza dalla città: più si risale il fiume, più fauna si vede.',
+      'Lodge nella foresta, quasi sempre venduti a pacchetto con trasferimenti, pasti ed escursioni incluse. Conta più la distanza dalla città che il lusso della struttura: più si risale il fiume, più fauna si vede.',
     doveMangiare: 'Pasti inclusi nei pacchetti dei lodge.',
     comeArrivare:
-      'Puerto Maldonado: volo da Cusco (poco più di un\'ora) o da Lima. Iquitos: volo da Lima, oppure risalendo il fiume — non esistono strade. Manu: da Cusco via terra e poi in barca, con due giorni di trasferimento.',
+      'Puerto Maldonado: volo da Cusco (poco più di un\'ora) o da Lima. Iquitos: volo da Lima, oppure risalendo il fiume: non esistono strade. Manu: da Cusco via terra e poi in barca, con due giorni di trasferimento.',
     comeSpostarsi: 'Solo in barca lungo i fiumi e a piedi lungo i sentieri, sempre accompagnati da una guida del lodge.',
     periodoMigliore:
       'Da maggio a ottobre (acque basse) i sentieri sono più praticabili e la fauna si concentra lungo i corsi d\'acqua; da dicembre a maggio (acque alte) si naviga più in profondità nella foresta allagata. Non esiste una stagione senza pioggia.',
     costi: 'La voce principale è il pacchetto del lodge; il volo interno da Cusco a Puerto Maldonado costa poco se prenotato per tempo.',
     erroriDaEvitare: [
       'Scegliere il lodge più vicino alla città perché costa meno: è la ragione numero uno per cui la gente torna dicendo "non abbiamo visto niente"',
-      'Andare in Amazzonia per due notti: la prima e l\'ultima giornata se ne vanno quasi interamente in trasferimenti',
+      'Andare in Amazzonia per due notti: la prima e l\'ultima giornata se ne vanno quasi tutte in trasferimenti',
       'Dimenticare il certificato di vaccinazione contro la febbre gialla, richiesto da alcuni lodge',
       'Sottovalutare il repellente, la torcia frontale e i sacchetti impermeabili per l\'elettronica',
     ],
     miaEsperienza:
-      'Non è il documentario che ci si aspetta: nella foresta densa si sente molto più di quanto si veda, e le prime ore possono deludere chi arriva con l\'idea di trovare animali a ogni albero. Il momento che ribalta tutto è l\'alba alla collpa, quando centinaia di ara arrivano insieme sulla parete d\'argilla e per venti minuti non si riesce a guardare altro. L\'altra cosa che conta più di quanto sembri è la distanza dalla città: i lodge vicini sono comodi e non si vede quasi niente, quelli a qualche ora di barca in più cambiano completamente l\'esperienza. Al caldo umido, invece, non ci si abitua.',
+      'Non è il documentario che ci si aspetta: nella foresta densa si sente molto più di quanto si veda, e le prime ore possono deludere chi arriva con l\'idea di trovare animali a ogni albero. Il momento che ha ribaltato tutto è stato l\'alba alla collpa, quando centinaia di ara sono arrivate insieme sulla parete d\'argilla e per venti minuti non siamo riusciti a guardare altro. L\'altra cosa che conta più di quanto sembri è la distanza dalla città: dai lodge vicini, comodi, non si vede quasi niente, mentre qualche ora di barca in più cambia tutto. Al caldo umido, invece, non mi sono abituato.',
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario'],
     imageAlt: 'La foresta pluviale che scende fino alle acque del fiume Madre de Dios, nell\'Amazzonia peruviana',
@@ -494,7 +494,7 @@ export const destinazioniPeru: Destinazione[] = [
             durata: '2-3 giorni',
             pro: [
               'Non serve attraversare frontiere, tutto si incastra facilmente con Cusco o Arequipa',
-              'L\'homestay ad Amantaní è l\'esperienza più autentica del lago',
+              'L\'homestay ad Amantaní è l\'esperienza più vera del lago',
             ],
             contro: [
               'Gli Uros sono il punto più turistico e organizzato di tutto il lago',
@@ -515,13 +515,13 @@ export const destinazioniPeru: Destinazione[] = [
             ],
             contro: [
               'Va messa in conto la logistica di frontiera, con i timbri di uscita e ingresso da fare a piedi',
-              'Sull\'Isla del Sol le tensioni tra comunità hanno a tratti limitato l\'accesso alla parte nord: da verificare sul posto',
+              'Sull\'Isla del Sol le tensioni tra comunità hanno a tratti limitato l\'accesso alla parte nord: conviene chiedere sul posto',
             ],
             perChi: 'Chi sta facendo un giro sudamericano più ampio o vuole entrare in Bolivia via terra.',
           },
         ],
         raccomandazione:
-          'Se la Bolivia è già in programma, il Titicaca è il modo migliore per entrarci: si passa da Puno a Copacabana in mezza giornata e si arriva a La Paz il giorno dopo. Se invece il viaggio resta peruviano, due giorni a Puno con la notte ad Amantaní bastano e avanzano.',
+          'Se la Bolivia è già in programma, il Titicaca è il modo migliore per entrarci: si passa da Puno a Copacabana in mezza giornata e si arriva a La Paz il giorno dopo. Se invece il viaggio resta peruviano, due giorni a Puno con la notte ad Amantaní bastano.',
       },
     ],
     doveDormire: 'Puno per la logistica; Amantaní per l\'homestay, che è la ragione principale per venire fin qui.',
@@ -538,11 +538,11 @@ export const destinazioniPeru: Destinazione[] = [
       'Sottovalutare il freddo notturno nelle case di Amantaní, dove non c\'è riscaldamento',
     ],
     miaEsperienza:
-      'Gli Uros, va detto, sono una messa in scena: si arriva, si assiste alla spiegazione su come si costruisce l\'isola di totora, si compra qualcosa e si riparte. Mezz\'ora interessante, non di più. Il Titicaca diventa un\'altra cosa il giorno dopo ad Amantaní, dove si dorme in casa di una famiglia senza riscaldamento né acqua calda, si cena con loro e si sale al tempio per il tramonto. Non è comodo — a 3.800 metri la notte si gela davvero — ma è l\'unico momento in cui si esce dal circuito. Dovendo scegliere una sola cosa sul lago, è quella.',
+      'Gli Uros, va detto, sono una messa in scena: si arriva, si ascolta la spiegazione su come si costruisce l\'isola di totora, si compra qualcosa e si riparte. Mezz\'ora interessante, non di più. Il Titicaca è diventato un\'altra cosa ad Amantaní, dove abbiamo dormito in casa di una famiglia senza riscaldamento né acqua calda, abbiamo cenato con loro e siamo saliti al tempio per il tramonto. Non è comodo (a 3.800 metri la notte si gela), ma è l\'unico momento in cui si esce dal circuito. Dovendo scegliere una sola cosa sul lago, sceglierei quella.',
     esperienzeSlugs: ['homestay-amantani'],
     tripSlugs: ['peru-itinerario'],
-    imageAlt: 'Isole galleggianti di totora degli Uros con capanne e barche di giunco sul lago Titicaca, Perù',
-    immagine: '/images/peru/lago-titicaca.jpg',
+    imageAlt: 'Una donna uros sorridente con il cappello di paglia mostra un arazzo ricamato sul lago Titicaca',
+    immagine: '/images/peru/titicaca-uros-arazzo-riccardo.jpg',
   },
   {
     slug: 'lima',
@@ -577,10 +577,10 @@ export const destinazioniPeru: Destinazione[] = [
     costi: 'nella media; l\'alta cucina ha prezzi internazionali, il resto no',
     erroriDaEvitare: [
       'Prendere taxi non autorizzati all\'uscita dell\'aeroporto: è uno dei punti dove i furti a turisti sono più frequenti',
-      'Saltarla del tutto: molti ci passano solo in transito, ma due giorni qui raccontano un Perù che sulle Ande non si vede',
+      'Saltarla del tutto: molti ci passano solo in transito, ma in due giorni qui si vede un Perù che sulle Ande non c\'è',
     ],
     miaEsperienza:
-      'La descrivono come una città da attraversare in fretta, e invece è quella che lascia la voglia di tornare. Non per i monumenti, il centro coloniale si vede in mezza giornata: per il cibo. Un ceviche mangiato a pranzo in una cevichería di quartiere, col pesce arrivato la mattina, rovina tutti i ceviche successivi. La garúa, quella foschia grigia che copre la città per mesi, rende tutto un po\' malinconico, e il traffico è pesante — ma Barranco al tramonto, con l\'oceano sotto la scogliera, vale la sosta.',
+      'La descrivono come una città da attraversare in fretta, e invece è quella che mi ha lasciato la voglia di tornare. Per il cibo, più che per i monumenti: il centro coloniale si vede in mezza giornata. Un ceviche mangiato a pranzo in una cevichería di quartiere, col pesce arrivato la mattina, rovina tutti i ceviche successivi. La garúa, la foschia grigia che copre la città per mesi, rende tutto un po\' malinconico, e il traffico è pesante. Barranco al tramonto però, con l\'oceano sotto la scogliera, vale la sosta.',
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario'],
     imageAlt: 'Vista dall\'alto del quartiere di Miraflores a Lima, con palazzi e un parco alberato, Perù',
@@ -595,9 +595,9 @@ export const destinazioniPeru: Destinazione[] = [
     giorniConsigliati: '3-4 giorni, di cui due per il canyon',
     visitataPersonalmente: true,
     introduzione:
-      'La "città bianca", costruita in sillar, la pietra vulcanica chiara, ai piedi del vulcano Misti — e a poche ore il Canyon del Colca, uno dei più profondi al mondo, dove i condor si alzano in volo la mattina presto.',
+      'La "città bianca", costruita in sillar, la pietra vulcanica chiara, ai piedi del vulcano Misti. A poche ore c\'è il Canyon del Colca, uno dei più profondi al mondo, dove i condor si alzano in volo la mattina presto.',
     percheAndarci:
-      'Arequipa sta a 2.300 metri ed è la tappa perfetta per acclimatarsi gradualmente prima di salire a Cusco o Puno, invece di arrivare in quota di colpo.',
+      'Arequipa sta a 2.300 metri ed è la tappa giusta per acclimatarsi per gradi prima di salire a Cusco o Puno, invece di arrivare in quota di colpo.',
     cosaVedere: [
       'Il Monastero di Santa Catalina, una città nella città con vicoli e cortili colorati',
       'La Plaza de Armas e la cattedrale in sillar bianco',
@@ -623,11 +623,11 @@ export const destinazioniPeru: Destinazione[] = [
       'Sottovalutare la risalita dall\'oasi di Sangalle: circa 1.100 metri di dislivello, da fare prima che il sole picchi',
     ],
     miaEsperienza:
-      'È la città dove finalmente si dorme: a 2.300 metri il corpo recupera, e dopo giorni passati in quota si sente. Il Monastero di Santa Catalina è il posto che resta più impresso — non ci si aspetta che sia così grande, è letteralmente una piccola città murata con i vicoli dipinti di blu e arancione. Alla Cruz del Cóndor invece bisogna arrivare con le aspettative giuste: i condor si alzano con le correnti del mattino e quando succede è impressionante, ma non è garantito e la piazzola è piena di gente. Vale comunque la sveglia all\'alba.',
+      'È la città dove finalmente ho dormito bene: a 2.300 metri il corpo recupera, e dopo giorni passati in quota si sente. Il Monastero di Santa Catalina è il posto che mi è rimasto più impresso. Non mi aspettavo che fosse così grande: è una piccola città murata con i vicoli dipinti di blu e arancione. Alla Cruz del Cóndor invece bisogna arrivare con le aspettative giuste: i condor si alzano con le correnti del mattino e quando succede è impressionante, ma non è garantito e la piazzola è piena di gente. Vale comunque la sveglia all\'alba.',
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario'],
-    imageAlt: 'Cortile con fontana e muri rossi e bianchi nel Monastero di Santa Catalina ad Arequipa, Perù',
-    immagine: '/images/peru/arequipa-colca.jpg',
+    imageAlt: 'La facciata illuminata della cattedrale di Arequipa di notte, con il campanile dorato sul cielo nero',
+    immagine: '/images/peru/arequipa-cattedrale-notte-riccardo.jpg',
   },
   {
     slug: 'huaraz-cordillera-blanca',
@@ -638,11 +638,11 @@ export const destinazioniPeru: Destinazione[] = [
     giorniConsigliati: '4-7 giorni, secondo i trek scelti',
     visitataPersonalmente: true,
     introduzione:
-      'La catena tropicale più alta del mondo, con oltre trenta cime sopra i 6.000 metri e laghi glaciali dai colori irreali. È il Perù dell\'alta montagna, quasi ignorato da chi viene solo per Machu Picchu.',
+      'La catena tropicale più alta del mondo, con oltre trenta cime sopra i 6.000 metri e laghi glaciali dai colori quasi finti. È il Perù dell\'alta montagna, quasi ignorato da chi viene solo per Machu Picchu.',
     percheAndarci:
-      'Perché è il miglior terreno di trekking del paese e perché la Laguna 69 e il circuito di Santa Cruz reggono il confronto con qualsiasi trek andino, a una frazione del costo e della folla del circuito di Cusco.',
+      'Perché è la zona di trekking migliore del paese e perché la Laguna 69 e il circuito di Santa Cruz reggono il confronto con qualsiasi trek andino, a una frazione del costo e della folla del circuito di Cusco.',
     cosaVedere: [
-      'La Laguna 69, a 4.600 metri, dal colore turchese quasi artificiale',
+      'La Laguna 69, a 4.600 metri, di un turchese che sembra artificiale',
       'Il Nevado Huascarán, la montagna più alta del Perù (6.768 m)',
       'La Laguna Parón, la più grande della Cordillera Blanca',
       'Il sito archeologico di Chavín de Huántar, Patrimonio UNESCO',
@@ -655,7 +655,7 @@ export const destinazioniPeru: Destinazione[] = [
     ],
     doveDormire: 'Huaraz è la base di tutto: ostelli e piccoli hotel, con agenzie di trekking a ogni angolo.',
     doveMangiare:
-      'Huaraz è una città di montagna e si mangia di conseguenza: zuppe calde a ogni pasto, trucha (trota) degli allevamenti in quota, cuy e il pachamanca, la carne cotta sotto terra con pietre roventi, che si trova soprattutto nei fine settimana. Il mercato centrale al mattino serve caldo de gallina e gli infusi di erbe d\'altura che aiutano davvero nei primi giorni. Per le giornate di trekking, il pranzo al sacco lo preparano le agenzie o lo si compra al mercato: sui sentieri non c\'è nulla.',
+      'Huaraz è una città di montagna e si mangia di conseguenza: zuppe calde a ogni pasto, trucha (trota) degli allevamenti in quota, cuy e il pachamanca, la carne cotta sotto terra con pietre roventi, che si trova soprattutto nei fine settimana. Il mercato centrale al mattino serve caldo de gallina e gli infusi di erbe d\'altura che nei primi giorni aiutano. Per le giornate di trekking, il pranzo al sacco lo preparano le agenzie o lo si compra al mercato: sui sentieri non c\'è nulla.',
     comeArrivare: 'Bus notturno da Lima, circa 8 ore. Non ci sono voli regolari comodi: la strada è la via normale.',
     comeSpostarsi: 'Collettivi e tour giornalieri dalle agenzie di Huaraz per tutti i punti di partenza dei trek.',
     periodoMigliore: 'da maggio a settembre, la stagione secca: nel resto dell\'anno i sentieri in quota diventano impraticabili',
@@ -665,7 +665,7 @@ export const destinazioniPeru: Destinazione[] = [
       'Affidarsi alle agenzie più economiche senza verificare guide e attrezzatura, soprattutto per i trek multi-giorno',
     ],
     miaEsperienza:
-      'È la parte di Perù che quasi nessuno fa, ed è un peccato: la Cordillera Blanca regge il confronto con qualsiasi cosa si veda intorno a Cusco, a una frazione del prezzo e senza code. La Laguna 69 è la sintesi di tutto: gli ultimi quaranta minuti sopra i 4.500 metri sono una lotta col fiato, venti passi e una sosta, e poi ci si trova davanti a quel turchese che sembra ritoccato e non lo è. Il paese in sé non è bello, è una base di appoggio piena di agenzie — ma è esattamente quello che serve.',
+      'È la parte di Perù che quasi nessuno fa, ed è un peccato: la Cordillera Blanca regge il confronto con qualsiasi cosa si veda intorno a Cusco, a una frazione del prezzo e senza code. La Laguna 69 riassume tutto: gli ultimi quaranta minuti sopra i 4.500 metri sono stati una lotta col fiato, venti passi e una sosta, e poi ci siamo trovati davanti a quel turchese che sembra ritoccato e non lo è. Il paese in sé non è bello, è una base di appoggio piena di agenzie, ma è quello che serve.',
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario'],
     imageAlt: 'La Laguna 69 dal colore turchese ai piedi dei ghiacciai della Cordillera Blanca, Perù',

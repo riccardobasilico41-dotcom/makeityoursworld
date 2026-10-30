@@ -13,7 +13,7 @@ export const esperienzePeru: Esperienza[] = [
     nome: 'Salita al Huayna Picchu',
     localita: 'Machu Picchu, Cusco',
     cosE:
-      'La montagna che fa da sfondo alle foto classiche di Machu Picchu. Il sentiero sale ripidissimo lungo gradini inca scavati nella roccia, con tratti esposti assicurati da cavi, fino a una piattaforma da cui si guarda la cittadella dall\'alto. Richiede un biglietto specifico, con quota giornaliera separata e molto più ristretta di quella generale.',
+      'La montagna che fa da sfondo alle foto classiche di Machu Picchu. Il sentiero sale molto ripido lungo gradini inca scavati nella roccia, con tratti esposti assicurati da cavi, fino a una piattaforma da cui si guarda la cittadella dall\'alto. Richiede un biglietto specifico, con quota giornaliera separata e molto più ristretta di quella generale.',
     percheFarla: 'È l\'unico modo per vedere Machu Picchu dall\'alto e capirne l\'impianto: dalla cittadella non si percepisce la forma dell\'insieme.',
     durata: 'circa 2-3 ore andata e ritorno, oltre alla visita del sito',
     periodo: 'tutto l\'anno, con fasce orarie assegnate; nella stagione delle piogge i gradini diventano scivolosi',
@@ -39,7 +39,7 @@ export const esperienzePeru: Esperienza[] = [
     localita: 'Da km 82 a Machu Picchu, regione di Cusco',
     cosE:
       'Quattro giorni lungo la via lastricata originale costruita dagli Inca, con tre notti in campo, il valico di Warmiwañusca a 4.215 metri e l\'arrivo a Machu Picchu all\'alba dell\'ultimo giorno attraverso Intipunku, la Porta del Sole. Si può percorrere solo con un\'agenzia autorizzata, mai in autonomia.',
-    percheFarla: 'Perché è il percorso per cui la cittadella era stata pensata: l\'arrivo dall\'alto, dalla Porta del Sole, è una cosa che chi arriva in treno non vede.',
+    percheFarla: 'Perché è il percorso per cui la cittadella era stata pensata: chi arriva in treno non vede l\'arrivo dall\'alto, dalla Porta del Sole.',
     durata: '4 giorni, 3 notti',
     periodo:
       'da marzo a gennaio; il sentiero chiude tutto febbraio per manutenzione. La stagione migliore, da maggio a settembre, è anche quella in cui i permessi si esauriscono prima',
@@ -66,13 +66,13 @@ export const esperienzePeru: Esperienza[] = [
     cosE:
       'Quattro o cinque giorni di cammino andata e ritorno da Cachora, con la discesa di circa 1.500 metri nel canyon dell\'Apurímac e la risalita sull\'altro versante fino alla cittadella inca di Choquequirao, scavata solo in parte e quasi sempre deserta.',
     percheFarla:
-      'Perché è l\'unico sito inca di scala monumentale che si può ancora vedere in solitudine: meno di diecimila visitatori l\'anno, contro il milione e mezzo di Machu Picchu. E perché il progetto di teleferica, se mai partirà, cambierà tutto.',
+      'Perché è l\'unico sito inca di scala monumentale che si può ancora vedere in solitudine: meno di diecimila visitatori l\'anno, contro il milione e mezzo di Machu Picchu. E perché il progetto di teleferica, se mai partirà, cambierà le cose.',
     durata: '4-5 giorni andata e ritorno; 8-9 giorni per la traversata fino a Machu Picchu',
     periodo: 'da aprile a ottobre; nella stagione delle piogge il sentiero sul fianco del canyon è pericoloso per le frane',
     costo: 'trek organizzato indicativamente 400-700$ a persona per 4-5 giorni con guida, muli e pasti; molto meno in autonomia, più l\'ingresso al sito (attorno ai 60 soles)',
     comePrenotare: 'Tramite agenzie di Cusco; non servono permessi contingentati come per il Cammino Inca, quindi si può organizzare anche con pochi giorni di anticipo.',
     cosaPortare:
-      'Scarpe da trekking solide, protezione solare seria (il fondovalle è caldissimo e senza ombra), almeno 3 litri d\'acqua al giorno, sacco a pelo. I muli per i bagagli valgono ogni sol speso.',
+      'Scarpe da trekking solide, protezione solare alta (il fondovalle è caldissimo e senza ombra), almeno 3 litri d\'acqua al giorno, sacco a pelo. I muli per i bagagli valgono ogni sol speso.',
     perChiEAdatta:
       'Camminatori allenati: le guide di Cusco lo considerano più duro sia del Cammino Inca sia del Salkantay, perché il dislivello è concentrato e il caldo nel canyon pesa.',
     giudizio: 'da-verificare',
@@ -88,16 +88,16 @@ export const esperienzePeru: Esperienza[] = [
     localita: 'Isola di Amantaní, lago Titicaca',
     cosE:
       'Il tour classico di due giorni sul Titicaca prevede la notte a casa di una famiglia dell\'isola di Amantaní: si cena con loro, si sale al tempio di Pachatata per il tramonto e si partecipa alla festa serale del villaggio con gli abiti tradizionali prestati dagli ospiti.',
-    percheFarla: 'Perché è l\'unico momento del giro sul lago in cui si esce dal circuito turistico degli Uros e si entra davvero in contatto con chi ci vive.',
+    percheFarla: 'Perché è l\'unico momento del giro sul lago in cui si esce dal circuito turistico degli Uros e si sta con chi ci vive.',
     durata: '2 giorni, 1 notte, partendo dal porto di Puno',
     periodo: 'tutto l\'anno; da maggio a settembre le giornate sono più soleggiate ma le notti gelide',
     costo: 'indicativamente 30-60$ a persona per il tour di due giorni, tra i migliori rapporti qualità-prezzo del Perù',
     comePrenotare: 'Tramite le agenzie di Puno, anche il giorno prima; conviene sceglierne una che lavori direttamente con le famiglie dell\'isola.',
     cosaPortare:
-      'Vestiti pesanti per la notte (a 3.800 metri non c\'è riscaldamento nelle case), torcia, contanti in piccoli tagli e, se si vuole, un piccolo dono utile per la famiglia ospitante — generi alimentari più che souvenir.',
+      'Vestiti pesanti per la notte (a 3.800 metri non c\'è riscaldamento nelle case), torcia, contanti in piccoli tagli e, se si vuole, un piccolo dono utile per la famiglia ospitante: generi alimentari più che souvenir.',
     perChiEAdatta: 'Chiunque accetti sistemazioni essenziali: bagno condiviso, niente acqua calda garantita, niente elettricità continua.',
     giudizio: 'da-verificare',
-    alternative: ['Notte a Taquile, meno organizzata per l\'ospitalità ma altrettanto autentica'],
+    alternative: ['Notte a Taquile, meno organizzata per l\'ospitalità ma con lo stesso tipo di esperienza'],
     tripSlugs: ['peru-itinerario'],
     imageAlt: 'Una barca a remi sul lago Titicaca con l\'isola di Amantaní sullo sfondo, Perù',
     immagine: '/images/peru/homestay-amantani.jpg',

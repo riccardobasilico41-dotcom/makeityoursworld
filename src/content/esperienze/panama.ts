@@ -14,7 +14,7 @@ export const esperienzePanama: Esperienza[] = [
     cosE:
       'Il centro visitatori affacciato sulle chiuse di Miraflores, con terrazza panoramica, museo su quattro piani e proiezione sulla storia del canale. Dalla terrazza si assiste al passaggio delle navi, che vengono sollevate o abbassate di diversi metri in pochi minuti.',
     percheFarla:
-      'Vedere una portacontainer da centinaia di metri entrare in una vasca con pochi centimetri di margine per lato è il modo più diretto per capire cosa significhi davvero il canale — un\'opera che ha ridisegnato il commercio mondiale.',
+      'Vedere una portacontainer da centinaia di metri entrare in una vasca con pochi centimetri di margine per lato è il modo più diretto per capire cosa sia il canale, un\'opera che ha ridisegnato il commercio mondiale.',
     durata: '2-3 ore, includendo museo e attesa del transito',
     periodo: 'tutto l\'anno; le fasce orarie con più transiti sono in genere la mattina presto e il tardo pomeriggio',
     costo: 'ingresso per stranieri indicativamente 20 USD, con museo e terrazza inclusi',
@@ -24,7 +24,7 @@ export const esperienzePanama: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: [
       'Chiuse di Agua Clara, sul lato caraibico, più recenti e meno affollate',
-      'Transito parziale del canale in barca (mezza giornata o giornata intera), per attraversare davvero una chiusa',
+      'Transito parziale del canale in barca (mezza giornata o giornata intera), per attraversare una chiusa dall\'interno',
     ],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Una camera delle chiuse di Miraflores sul Canale di Panama, con le porte e il bacino d\'acqua',
@@ -39,7 +39,7 @@ export const esperienzePanama: Esperienza[] = [
     cosE:
       'Un pacchetto di una o più notti su una delle isole dell\'arcipelago, gestito dalle famiglie Guna: trasferimento in 4x4 da Panama City fino al porto di Cartí, barca verso l\'isola, alloggio in cabaña essenziale, tutti i pasti e i giri in barca tra gli isolotti inclusi.',
     percheFarla:
-      'È il modo per vivere le isole senza la fretta della gita in giornata, e per farlo dentro un territorio indigeno autogovernato, dove il turismo è regolato dalla comunità e non da operatori esterni.',
+      'È il modo per vivere le isole senza la fretta della gita in giornata, e per farlo dentro un territorio indigeno autogovernato, dove il turismo lo regola la comunità invece degli operatori esterni.',
     durata: 'da 1 a 3 notti; il solo trasferimento richiede circa 3 ore per tratta più la barca',
     periodo: 'tutto l\'anno, mare più calmo nella stagione secca (dicembre-aprile)',
     costo:
@@ -64,15 +64,15 @@ export const esperienzePanama: Esperienza[] = [
     nome: 'Alba sui due oceani dal Volcán Barú',
     localita: 'Parco Nazionale Volcán Barú, Chiriquí',
     cosE:
-      'La salita notturna al punto più alto di Panama (3.475 m), partendo attorno a mezzanotte per arrivare in vetta prima dell\'alba: nelle giornate limpide si vedono contemporaneamente l\'Oceano Pacifico e il Mar dei Caraibi. Si sale a piedi lungo una pista sterrata di circa 13-14 km per lato, oppure in 4x4 nella parte iniziale.',
+      'La salita notturna al punto più alto di Panama (3.475 m), partendo attorno a mezzanotte per arrivare in vetta prima dell\'alba: nelle giornate limpide si vedono insieme l\'Oceano Pacifico e il Mar dei Caraibi. Si sale a piedi lungo una pista sterrata di circa 13-14 km per lato, oppure in 4x4 nella parte iniziale.',
     percheFarla:
-      'È uno dei pochissimi punti al mondo da cui si possono vedere due oceani nello stesso sguardo — e comunque, anche senza cielo perfetto, una salita notturna in quota con vista sulle valli illuminate.',
+      'È uno dei pochissimi punti al mondo da cui si vedono due oceani con un solo sguardo. Anche senza cielo perfetto resta una salita notturna in quota con vista sulle valli illuminate.',
     durata: 'circa 10-12 ore andata e ritorno a piedi; meno con il trasporto in 4x4 per una parte del percorso',
     periodo: 'stagione secca (dicembre-aprile) per le maggiori probabilità di cielo limpido in vetta',
     costo: 'ingresso al parco pochi dollari; salita guidata indicativamente 50-90 USD a persona, tour in 4x4 su richiesta',
-    comePrenotare: 'Tramite le agenzie di Boquete, con un giorno o due di anticipo; la guida non è obbligatoria ma è fortemente consigliata per la partenza notturna.',
+    comePrenotare: 'Tramite le agenzie di Boquete, con un giorno o due di anticipo; la guida non è obbligatoria, ma per la partenza notturna è molto consigliata.',
     cosaPortare:
-      'Abbigliamento invernale vero: in vetta prima dell\'alba si sta vicino allo zero con vento. Torcia frontale, guanti, acqua e snack, scarpe da trekking.',
+      'Abbigliamento invernale serio: in vetta prima dell\'alba si sta vicino allo zero con vento. Torcia frontale, guanti, acqua e snack, scarpe da trekking.',
     perChiEAdatta:
       'Richiede buona resistenza: sono molte ore di cammino continuo in salita, di notte e in quota. Chi non se la sente può salire in 4x4 nella parte bassa.',
     giudizio: 'da-verificare',

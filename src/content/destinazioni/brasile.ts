@@ -55,7 +55,7 @@ export const destinazioniBrasile: Destinazione[] = [
     giorniConsigliati: '4 giorni',
     visitataPersonalmente: false,
     introduzione:
-      'La Costa Verde tra Rio e São Paulo unisce la città coloniale di Paraty, porto dell\'oro nel Settecento, e Ilha Grande, isola senza auto coperta di foresta atlantica. Dal 2019 sono patrimonio UNESCO insieme alla Serra da Bocaina.',
+      'La Costa Verde tra Rio e São Paulo comprende la città coloniale di Paraty, porto dell\'oro nel Settecento, e Ilha Grande, isola senza auto coperta di foresta atlantica. Dal 2019 sono patrimonio UNESCO insieme alla Serra da Bocaina.',
     percheAndarci: 'Per la baia di Paraty in barca, le cascate dell\'entroterra e spiagge come Lopes Mendes.',
     cosaVedere: [
       'Il centro storico di Paraty',
@@ -142,7 +142,7 @@ export const destinazioniBrasile: Destinazione[] = [
     periodoMigliore: 'settembre-marzo; piogge più forti tra aprile e giugno.',
     erroriDaEvitare: [
       'Allontanarsi dalle vie principali del Pelourinho la sera',
-      'Accettare i nastri del Bonfim "regalati" per strada',
+      'Accettare i nastri del Bonfim «regalati» per strada',
     ],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
@@ -200,7 +200,7 @@ export const destinazioniBrasile: Destinazione[] = [
     comeArrivare: 'Volo per São Luís, poi van per Barreirinhas (circa 4 ore).',
     comeSpostarsi: 'Solo 4x4 con autisti autorizzati dentro il parco; barche sul fiume.',
     periodoMigliore: 'giugno-settembre, con il massimo d\'acqua in luglio-agosto.',
-    costi: 'Jardineira 100-150 R$ a persona per circuito; ingresso al parco da verificare (in piano di concessione).',
+    costi: 'Jardineira 100-150 R$ a persona per circuito; per l\'ingresso al parco conviene informarsi prima di partire, perché è in corso un piano di concessione.',
     erroriDaEvitare: [
       'Andare fuori stagione, quando le lagune sono vuote',
       'Entrare nel parco nelle ore centrali senza acqua e cappello',
@@ -219,7 +219,7 @@ export const destinazioniBrasile: Destinazione[] = [
     giorniConsigliati: '4-6 giorni',
     visitataPersonalmente: false,
     introduzione:
-      'La più grande zona umida tropicale del mondo. Nel Pantanal nord, lungo la strada sterrata della Transpantaneira fino a Porto Jofre, nella stagione secca i giaguari si vedono sulle rive dei fiumi con una regolarità unica.',
+      'La più grande zona umida tropicale del mondo. Nel Pantanal nord, lungo la strada sterrata della Transpantaneira fino a Porto Jofre, nella stagione secca i giaguari si vedono sulle rive dei fiumi con una regolarità che non ha confronti.',
     percheAndarci: 'Per i giaguari, le lontre giganti, i caimani e gli uccelli della zona umida.',
     cosaVedere: ['La Transpantaneira e i suoi ponti di legno', 'I fiumi Cuiabá, Três Irmãos e Piquiri intorno a Porto Jofre'],
     cosaFare: ['Uscite in barca all\'alba e nel pomeriggio per i giaguari', 'Safari in auto, a cavallo o a piedi dalle pousadas'],

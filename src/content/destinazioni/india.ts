@@ -97,8 +97,8 @@ export const destinazioniIndia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-10-giorni', 'india-rajasthan-varanasi', 'india-sud-taj-mahal'],
-    imageAlt: 'Il Taj Mahal all\'alba riflesso nella vasca centrale dei giardini',
-    immagine: '/images/india/agra.jpg',
+    imageAlt: 'Il Taj Mahal simmetrico all\'alba, con la vasca d\'acqua e i cipressi del giardino, Agra',
+    immagine: '/images/india/agra-taj-mahal-alba-riccardo.jpg',
   },
   {
     slug: 'jaipur',
@@ -139,8 +139,8 @@ export const destinazioniIndia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-10-giorni', 'india-rajasthan-varanasi'],
-    imageAlt: 'La facciata rosa a nido d\'ape dell\'Hawa Mahal a Jaipur',
-    immagine: '/images/viaggi/india-rajasthan-10-giorni/giorno-06-jaipur.jpg',
+    imageAlt: 'La facciata rosa dell\'Hawa Mahal di Jaipur, con le finestre a grata e le persiane verdi',
+    immagine: '/images/india/jaipur-hawa-mahal-facciata-riccardo.jpg',
   },
   {
     slug: 'pushkar',
@@ -306,8 +306,8 @@ export const destinazioniIndia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-varanasi'],
-    imageAlt: 'Le barche sul Gange davanti ai ghat di Varanasi nella luce del mattino',
-    immagine: '/images/viaggi/india-rajasthan-varanasi/giorno-03-varanasi.jpg',
+    imageAlt: 'Una barca a remi rossa scivola sul Gange davanti ai ghat e ai palazzi di Varanasi',
+    immagine: '/images/india/varanasi-barca-rossa-gange-riccardo.jpg',
   },
 
   // --- SUD ---

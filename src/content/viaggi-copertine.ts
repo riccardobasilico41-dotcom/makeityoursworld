@@ -51,28 +51,28 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     imageAlt: 'Vista panoramica di Tromsø dal Fjellheisen, con il ponte cittadino, la Cattedrale Artica e le montagne innevate sullo sfondo',
   },
   'giordania-itinerario': {
-    immagine: '/images/copertine/giordania-360.jpg',
-    imageAlt: 'La facciata del Tesoro (Al-Khazneh) scavata nella roccia a Petra, Giordania',
+    immagine: '/images/giordania/petra-tesoro-cammello-riccardo.jpg',
+    imageAlt: 'Primo piano di un cammello bardato davanti alle colonne del Tesoro di Petra, Giordania',
   },
   'sri-lanka-2023': {
-    immagine: '/images/copertine/sri-lanka-2023.jpg',
-    imageAlt: 'La rocca fortezza di Sigiriya che emerge dalla giungla, Sri Lanka',
+    immagine: '/images/sri-lanka/sigiriya-crepuscolo-riccardo.jpg',
+    imageAlt: 'La rocca di Sigiriya che emerge blu dalla giungla al crepuscolo, vista da Pidurangala, Sri Lanka',
   },
   'giappone-itinerario': {
-    immagine: '/images/copertine/giappone-360.jpg',
-    imageAlt: 'Il Monte Fuji visto con la vegetazione in primo piano, Giappone',
+    immagine: '/images/giappone/miyajima-torii-tramonto-riccardo.jpg',
+    imageAlt: 'Il torii di Miyajima in controluce al tramonto, con le montagne e le nuvole dorate, Giappone',
   },
   thailandia: {
     immagine: '/images/copertine/thailandia.jpg',
     imageAlt: 'Barca a coda lunga in una baia turchese tra i faraglioni calcarei del sud della Thailandia',
   },
   'marocco-itinerario': {
-    immagine: '/images/copertine/marocco-360.jpg',
-    imageAlt: 'Dune dorate del Sahara vicino a Merzouga, Marocco',
+    immagine: '/images/marocco/merzouga-carovana-dune-riccardo.jpg',
+    imageAlt: 'Una carovana di dromedari a riposo ai piedi di una grande duna nel deserto di Merzouga, Marocco',
   },
   'new-york-itinerario': {
-    immagine: '/images/copertine/new-york-360.jpg',
-    imageAlt: 'Lo skyline di Manhattan, New York',
+    immagine: '/images/new-york/lower-manhattan-skyline-riccardo.jpg',
+    imageAlt: 'Lo skyline di Lower Manhattan con il One World Trade Center visto dall\'acqua, New York',
   },
   'florida-road-trip': {
     immagine: '/images/copertine/florida-360.jpg',
@@ -231,8 +231,8 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     imageAlt: 'L\'arco di Santa Catalina ad Antigua Guatemala, con la torre dell\'orologio incorniciata tra le facciate coloniali del centro storico',
   },
   'peru-itinerario': {
-    immagine: '/images/copertine/peru-itinerario.jpg',
-    imageAlt: 'La cittadella di Machu Picchu vista dal punto panoramico classico, con il Huayna Picchu alle spalle delle terrazze inca',
+    immagine: '/images/peru/machu-picchu-lama-terrazze-riccardo.jpg',
+    imageAlt: 'Un lama solitario pascola sui terrazzamenti inca di Machu Picchu avvolti nella nebbia del mattino, Perù',
   },
   'svizzera-alpi-van': {
     immagine: '/images/copertine/svizzera-alpi-van.jpg',
@@ -283,12 +283,12 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     imageAlt: 'I Roques de García e il vulcano Teide sullo sfondo, nel Parco Nazionale del Teide a Tenerife',
   },
   'india-rajasthan-10-giorni': {
-    immagine: '/images/copertine/india-rajasthan-10-giorni.jpg',
-    imageAlt: 'La facciata rosa a nido d\'ape dell\'Hawa Mahal di Jaipur, con le sue centinaia di finestrelle contro il cielo',
+    immagine: '/images/india/jaipur-hawa-mahal-facciata-riccardo.jpg',
+    imageAlt: 'La facciata rosa dell\'Hawa Mahal di Jaipur, con le finestre a grata e le persiane verdi',
   },
   'india-rajasthan-varanasi': {
-    immagine: '/images/copertine/india-rajasthan-varanasi.jpg',
-    imageAlt: 'I ghat di Varanasi al crepuscolo, con le luci dei palazzi accese e le barche sul Gange',
+    immagine: '/images/india/varanasi-barca-rossa-gange-riccardo.jpg',
+    imageAlt: 'Una barca a remi rossa scivola sul Gange davanti ai ghat e ai palazzi di Varanasi',
   },
   'india-sud-taj-mahal': {
     immagine: '/images/copertine/india-sud-taj-mahal.jpg',
@@ -337,5 +337,9 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
   'montenegro-itinerario': {
     immagine: '/images/copertine/montenegro-itinerario.jpg',
     imageAlt: 'Il faro e la chiesa della Madonna dello Scarpello sull\'isolotto davanti a Perast, nelle Bocche di Cattaro',
+  },
+  'canada-itinerario': {
+    immagine: '/images/copertine/canada-itinerario.jpg',
+    imageAlt: 'Le Horseshoe Falls del Niagara viste dal lato canadese, con la nebbia d\'acqua che sale dal salto',
   },
 }

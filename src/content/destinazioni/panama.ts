@@ -18,7 +18,7 @@ export const destinazioniPanama: Destinazione[] = [
     introduzione:
       'Una capitale con due facce opposte a pochi chilometri di distanza: lo skyline di grattacieli sulla baia e il Casco Viejo, il centro storico coloniale Patrimonio UNESCO, con le sue piazze e i suoi rooftop.',
     percheAndarci:
-      'È l\'hub aereo di tutta l\'America Latina e la porta d\'ingresso obbligata del paese — e, a differenza di molte capitali della regione, merita davvero un paio di giorni.',
+      'È l\'hub aereo di tutta l\'America Latina e la porta d\'ingresso obbligata del paese, e a differenza di molte capitali della regione merita un paio di giorni.',
     cosaVedere: [
       'Il Casco Viejo, con Plaza de la Independencia e le chiese coloniali',
       'Le chiuse di Miraflores sul Canale di Panama, con il centro visitatori e la terrazza panoramica',
@@ -27,14 +27,14 @@ export const destinazioniPanama: Destinazione[] = [
       'Il Parque Natural Metropolitano, foresta tropicale dentro i confini della città',
     ],
     cosaFare: [
-      'Visita alle chiuse del canale, meglio negli orari di transito delle navi — vedi la scheda esperienza dedicata',
+      'Visita alle chiuse del canale, meglio negli orari di transito delle navi (c\'è una scheda esperienza dedicata)',
       'Aperitivo su uno dei rooftop del Casco Viejo al tramonto',
       'Gita in giornata alle isole Perlas o a Isla Taboga in traghetto',
       'Escursione a Portobelo e alla costa caraibica, a circa 2 ore dalla capitale',
     ],
-    doveDormire: 'Casco Viejo per l\'atmosfera e la vita serale; zona Marbella/Obarrio per hotel più moderni e prezzi spesso più bassi.',
+    doveDormire: 'Casco Viejo per l\'atmosfera e la vita serale; zona Marbella e Obarrio per hotel più moderni e prezzi spesso più bassi.',
     doveMangiare:
-      'Il posto da non saltare è il Mercado de Mariscos sulla baia: al piano di sotto si compra il pesce, al piano di sopra lo cucinano, e un ceviche in bicchiere di plastica costa un paio di dollari. Il Casco Viejo ha i rooftop e i ristoranti d\'autore, con prezzi da capitale internazionale; le fonde di quartiere servono il sancocho, la zuppa di pollo con la ñame che è il piatto nazionale, e il ropa vieja. Da provare come strada: le carimañolas e le empanadas fritte a colazione.',
+      'Il posto da non saltare è il Mercado de Mariscos sulla baia: al piano di sotto si compra il pesce, al piano di sopra lo cucinano, e un ceviche in bicchiere di plastica costa un paio di dollari. Il Casco Viejo ha i rooftop e i ristoranti d\'autore, con prezzi da capitale internazionale; le fonde di quartiere servono il sancocho, la zuppa di pollo con la ñame che è il piatto nazionale, e il ropa vieja. Come cibo di strada, da provare le carimañolas e le empanadas fritte a colazione.',
     comeArrivare: 'Volo internazionale su Panama City-Tocumen (PTY), uno degli hub principali delle Americhe; dall\'aeroporto al centro 30-45 minuti in taxi o Uber.',
     comeSpostarsi: 'Metro (due linee, economica e funzionale), Uber diffuso e conveniente, taxi da contrattare sempre prima di salire.',
     periodoMigliore: 'metà dicembre-metà aprile, stagione secca; nel resto dell\'anno piove soprattutto nel pomeriggio',
@@ -44,7 +44,7 @@ export const destinazioniPanama: Destinazione[] = [
       'Girare di notte fuori dalle zone turistiche del Casco Viejo, che confina con quartieri da evitare',
     ],
     miaEsperienza:
-      'Panama City spiazza perché non somiglia al resto della regione: dal Casco Viejo si guarda uno skyline di grattacieli che sembra Miami, e in mezzo ci sono duecento metri di quartieri in cui non si entra la sera. Il Casco è stato ristrutturato in fretta e in modo disomogeneo, con palazzi rifatti accanto a facciate ancora puntellate, e questo contrasto è la cosa più interessante da guardare. Sulle chiuse di Miraflores serve una raccomandazione pratica più che un giudizio: senza una nave in transito si guarda una vasca di cemento vuota, quindi gli orari di passaggio vanno controllati prima di partire da casa. Quando invece una portacontainer entra nella camera con pochi centimetri per lato, il senso si capisce subito.',
+      'Panama City spiazza perché non somiglia al resto della regione: dal Casco Viejo si guarda uno skyline di grattacieli che sembra Miami, e in mezzo ci sono duecento metri di quartieri in cui non si entra la sera. Il Casco è stato ristrutturato in fretta e in modo disomogeneo, con palazzi rifatti accanto a facciate ancora puntellate, e questo contrasto è la cosa più interessante da guardare. Sulle chiuse di Miraflores serve un consiglio pratico più che un giudizio: senza una nave in transito si guarda una vasca di cemento vuota, quindi gli orari di passaggio vanno controllati prima di partire da casa. Quando invece una portacontainer entra nella camera con pochi centimetri per lato, il senso si capisce subito.',
     esperienzeSlugs: ['chiuse-miraflores'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Lo skyline dei grattacieli di Panama City visto da una terrazza del Casco Viejo',
@@ -59,9 +59,9 @@ export const destinazioniPanama: Destinazione[] = [
     giorniConsigliati: '2-4 giorni',
     visitataPersonalmente: true,
     introduzione:
-      'Un arcipelago di oltre 300 isole caraibiche amministrato in autonomia dal popolo Guna: palme, sabbia bianca, acqua bassa turchese e sistemazioni volutamente essenziali, spesso senza elettricità continua.',
+      'Un arcipelago di oltre 300 isole caraibiche amministrato in autonomia dal popolo Guna: palme, sabbia bianca, acqua bassa turchese e sistemazioni essenziali per scelta, spesso senza elettricità continua.',
     percheAndarci:
-      'È il mare più iconico di Panama e uno dei pochi territori indigeni autogovernati del continente: le regole d\'accesso, i trasporti e le strutture sono gestiti dalla comunità Guna, non da catene turistiche.',
+      'È il mare più famoso di Panama e uno dei pochi territori indigeni autogovernati del continente: le regole d\'accesso, i trasporti e le strutture li gestisce la comunità Guna, senza catene turistiche.',
     cosaVedere: [
       'Le isole più note per le gite in giornata: Isla Perro (con un relitto da snorkeling), Isla Aguja, Cayos Holandeses',
       'Le piscine naturali di acqua bassa in mezzo al mare',
@@ -72,21 +72,21 @@ export const destinazioniPanama: Destinazione[] = [
       'Snorkeling sui relitti e sulle secche coralline',
       'Traversata a vela verso la Colombia (3-5 giorni), alternativa classica al Darién Gap',
     ],
-    doveDormire: 'Solo cabañas gestite dalle famiglie Guna, dal livello molto basico a qualche opzione con bagno privato: si prenota a pacchetto, con trasporto e pasti inclusi.',
+    doveDormire: 'Solo cabañas gestite dalle famiglie Guna, da quelle molto spartane a qualche opzione con bagno privato: si prenota a pacchetto, con trasporto e pasti inclusi.',
     doveMangiare: 'I pasti sono quasi sempre inclusi nel pacchetto: pesce, aragosta in stagione, riso e platano.',
     comeArrivare:
       'Trasferimento in 4x4 da Panama City fino al porto di Cartí (circa 2h30-3h su strada di montagna molto ripida), poi barca verso le isole. Partenze molto presto al mattino.',
     comeSpostarsi: 'Solo in barca, con i trasferimenti organizzati dalla struttura che ospita.',
     periodoMigliore: 'stagione secca (dicembre-aprile) per mare più calmo; la traversata in barca può essere impegnativa con vento',
     costi:
-      'ingresso al territorio Guna e tasse per le isole da pagare in contanti; transfer 4x4 + barca 40-60 USD a tratta; pacchetti con cabaña e pasti 60-150 USD a persona per notte',
+      'ingresso al territorio Guna e tasse per le isole da pagare in contanti; transfer 4x4 più barca 40-60 USD a tratta; pacchetti con cabaña e pasti 60-150 USD a persona per notte',
     erroriDaEvitare: [
       'Arrivare senza contanti: sulle isole non ci sono bancomat né pagamenti con carta',
-      'Aspettarsi comfort da resort: elettricità limitata, acqua dolce razionata, wifi quasi assente — fa parte dell\'esperienza',
+      'Aspettarsi comfort da resort: elettricità limitata, acqua dolce razionata e wifi quasi assente fanno parte dell\'esperienza',
       'Prenotare con intermediari non autorizzati: le strutture e i trasporti sono gestiti dalla comunità Guna, che regola gli accessi',
     ],
     miaEsperienza:
-      'Il viaggio per arrivarci mette alla prova: sveglia alle cinque, tre ore di 4x4 su una strada di montagna con pendenze che sembrano sbagliate, e poi una barca aperta che nelle giornate ventose prende onda in pieno. Poi si arriva, e le isole sono esattamente quelle delle fotografie — palme, sabbia, acqua bassa e nient\'altro. Vale la pena sapere in cosa si sta entrando: Guna Yala è un territorio autogoverno, le regole le fanno i Guna, il turismo lo gestiscono loro e l\'ingresso si paga in contanti a loro. Le cabañas sono spartane per scelta, non per trascuratezza: luce a orario, acqua dolce razionata, niente wifi. Chi ci va aspettandosi un resort passa due giorni a lamentarsi; chi accetta il patto trova il posto più bello dei Caraibi panamensi.',
+      'Il viaggio per arrivarci mette alla prova: sveglia alle cinque, tre ore di 4x4 su una strada di montagna con pendenze che sembrano sbagliate, e poi una barca aperta che nelle giornate ventose prende onda in pieno. Poi si arriva, e le isole sono proprio quelle delle fotografie: palme, sabbia, acqua bassa e nient\'altro. Conviene sapere in cosa si sta entrando. Guna Yala è un territorio autogovernato: le regole le fanno i Guna, il turismo lo gestiscono loro e l\'ingresso si paga a loro, in contanti. Le cabañas sono spartane per scelta, senza trascuratezza: luce a orario, acqua dolce razionata, niente wifi. Chi ci va aspettandosi un resort passa due giorni a lamentarsi; chi accetta il patto trova il posto più bello dei Caraibi panamensi.',
     esperienzeSlugs: ['notte-isola-san-blas'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Isolotto di sabbia bianca con palme e capanne nell\'arcipelago di San Blas, Panama',
@@ -101,7 +101,7 @@ export const destinazioniPanama: Destinazione[] = [
     giorniConsigliati: '3-5 giorni',
     visitataPersonalmente: true,
     introduzione:
-      'Arcipelago caraibico al confine con la Costa Rica, con case su palafitte, surf, snorkeling e una vita notturna che non ha eguali nel resto del paese.',
+      'Arcipelago caraibico al confine con la Costa Rica, con case su palafitte, surf, snorkeling e la vita notturna più vivace del paese.',
     percheAndarci:
       'È il posto dove Panama diventa caraibica anche nell\'atmosfera: più vivace e meno essenziale di San Blas, con isole molto diverse tra loro a pochi minuti di barca.',
     cosaVedere: [
@@ -119,19 +119,19 @@ export const destinazioniPanama: Destinazione[] = [
     ],
     doveDormire: 'Bocas Town su Isla Colón per servizi e vita notturna; Bastimentos o Carenero per la tranquillità e gli alloggi sull\'acqua.',
     doveMangiare:
-      'Bocas è il posto di Panama dove si mangia caraibico: pesce e pollo in salsa di cocco, rice and beans cucinati col latte di cocco invece che con l\'acqua, patacones ovunque. Il patrimonio afro-caraibico dell\'arcipelago si sente in cucina più che altrove nel paese. A Bocas Town i ristoranti sull\'acqua costano il doppio dei chioschi a due strade di distanza, dove si mangia lo stesso pesce; il mercato del mattino è l\'opzione più economica. La birra locale ghiacciata è praticamente la bevanda ufficiale dell\'isola.',
+      'Bocas è il posto di Panama dove si mangia caraibico: pesce e pollo in salsa di cocco, rice and beans cucinati col latte di cocco invece che con l\'acqua, patacones ovunque. Il patrimonio afro-caraibico dell\'arcipelago si sente in cucina più che altrove nel paese. A Bocas Town i ristoranti sull\'acqua costano il doppio dei chioschi a due strade di distanza, dove si mangia lo stesso pesce; il mercato del mattino è l\'opzione più economica. La birra locale ghiacciata è quasi la bevanda ufficiale dell\'isola.',
     comeArrivare:
       'Volo interno da Panama City a Bocas del Toro (circa 1 ora) oppure bus notturno fino ad Almirante e water taxi (circa 30 minuti). Molti arrivano anche via terra dalla Costa Rica, dal confine di Sixaola.',
     comeSpostarsi: 'Water taxi tra le isole (pochi dollari a tratta), biciclette e taxi su Isla Colón.',
     periodoMigliore:
-      'ha un microclima diverso dal resto del paese: settembre-ottobre e febbraio-marzo sono spesso i periodi più soleggiati, mentre la "stagione secca" panamense non coincide necessariamente qui',
+      'ha un microclima diverso dal resto del paese: settembre-ottobre e febbraio-marzo sono spesso i periodi più soleggiati, mentre qui la «stagione secca» panamense non sempre coincide',
     costi: 'tour in barca di giornata 25-40 USD a persona più le tasse del parco nazionale; volo interno 100-150 USD a tratta',
     erroriDaEvitare: [
       'Dare per scontata la stagione secca nazionale: qui il meteo segue un ciclo diverso dal resto di Panama',
       'Programmare il tour in barca senza tenere conto del mare mosso, che può cancellare le uscite verso i cayos più esterni',
     ],
     miaEsperienza:
-      'Bocas è l\'opposto esatto di San Blas: rumorosa, sociale, piena di ostelli e di gente che resta più del previsto. Le case su palafitte di Bocas Town sono belle in fotografia e un po\' meno da vicino, ma il giro in barca tra gli isolotti compensa: Cayo Zapatilla è la cosa più bella dell\'arcipelago e Starfish Beach mantiene la promessa del nome, con le stelle marine visibili in acqua alta un metro. Due avvertenze pratiche che valgono più di qualsiasi consiglio estetico. La prima: qui il meteo non segue la stagione secca panamense, e ci si può trovare sotto la pioggia in pieno febbraio mentre nella capitale c\'è il sole. La seconda: le sabbie sono infestate dai chitre, moscerini che pungono senza che ci si accorga e lasciano segni per giorni.',
+      'Bocas è l\'opposto di San Blas: rumorosa, sociale, piena di ostelli e di gente che resta più del previsto. Le case su palafitte di Bocas Town sono belle in fotografia e un po\' meno da vicino, ma il giro in barca tra gli isolotti compensa: Cayo Zapatilla è la cosa più bella dell\'arcipelago e Starfish Beach mantiene la promessa del nome, con le stelle marine visibili in acqua alta un metro. Più di qualsiasi consiglio estetico valgono due avvertenze pratiche. La prima: qui il meteo non segue la stagione secca panamense, e ci si può trovare sotto la pioggia in pieno febbraio mentre nella capitale c\'è il sole. La seconda: le sabbie sono infestate dai chitre, moscerini che pungono senza che ci si accorga e lasciano segni per giorni.',
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Casette colorate su palafitte e pontile di legno sull\'acqua a Bocas del Toro, Panama',
@@ -148,7 +148,7 @@ export const destinazioniPanama: Destinazione[] = [
     introduzione:
       'Il Panama d\'altura, nella provincia di Chiriquí: clima fresco, piantagioni di caffè tra i migliori al mondo, foreste nuvolose e il Volcán Barú, il punto più alto del paese.',
     percheAndarci:
-      'È l\'unico posto al mondo da cui, con la giornata giusta, si vedono contemporaneamente l\'Oceano Pacifico e il Mar dei Caraibi — e il contraltare fresco alle isole caraibiche.',
+      'È l\'unico posto al mondo da cui, con la giornata giusta, si vedono insieme l\'Oceano Pacifico e il Mar dei Caraibi. Ed è il contrappeso fresco alle isole caraibiche.',
     cosaVedere: [
       'Il Volcán Barú (3.475 m), con la salita notturna per l\'alba sui due oceani',
       'Il Sendero Los Quetzales, tra i migliori posti al mondo per avvistare il quetzal',
@@ -156,14 +156,14 @@ export const destinazioniPanama: Destinazione[] = [
       'Le cascate di Lost Waterfalls e il Caldera Hot Springs',
     ],
     cosaFare: [
-      'Salita notturna al Volcán Barú per l\'alba — vedi la scheda esperienza dedicata',
+      'Salita notturna al Volcán Barú per l\'alba (c\'è una scheda esperienza dedicata)',
       'Tour di una finca di caffè con degustazione',
       'Birdwatching sul Sendero Los Quetzales, meglio con guida locale',
       'Rafting sul Rio Chiriquí Viejo',
     ],
     doveDormire: 'Boquete paese per i servizi; i lodge sulle colline circostanti per il verde e le viste sulla valle.',
     doveMangiare:
-      'Boquete è il posto dove si beve il caffè migliore del viaggio, e non è un modo di dire: la zona produce il Geisha, che alle aste batte record mondiali di prezzo, e nelle caffetterie del paese si assaggia a una frazione di quello che costa altrove. Sul cibo l\'offerta è sorprendentemente internazionale per un paese di montagna, per via della comunità di pensionati nordamericani che ci vive; per mangiare panamense servono le fonde locali, con il sancocho e la carne guisada. Al mercato dell\'agricoltore si trovano fragole e verdura d\'altura, rare nel resto del paese.',
+      'A Boquete si beve il caffè migliore del viaggio: la zona produce il Geisha, che alle aste batte record mondiali di prezzo, e nelle caffetterie del paese si assaggia a una frazione di quello che costa altrove. Per un paese di montagna l\'offerta di cibo è a sorpresa internazionale, per via della comunità di pensionati nordamericani che ci vive; per mangiare panamense servono le fonde locali, con il sancocho e la carne guisada. Al mercato dell\'agricoltore si trovano fragole e verdura d\'altura, rare nel resto del paese.',
     comeArrivare:
       'Volo interno da Panama City a David (circa 1 ora), poi 40 minuti di auto o bus fino a Boquete; in alternativa bus notturno dalla capitale (6-7 ore).',
     comeSpostarsi: 'Bus locali frequenti tra David e Boquete; auto a noleggio comoda per le finche e i sentieri fuori paese.',
@@ -175,7 +175,7 @@ export const destinazioniPanama: Destinazione[] = [
       'Aspettarsi la vista sui due oceani garantita: capita solo con cielo limpido, tipicamente nei mesi secchi',
     ],
     miaEsperienza:
-      'Dopo il caldo umido delle isole, Boquete è un sollievo fisico: si dorme con la finestra aperta e senza ventilatore, cosa che a Panama non capita quasi mai. La salita notturna al Barú è dura più per il modo in cui è fatta che per la pendenza — tredici chilometri di pista sconnessa partendo attorno a mezzanotte, al buio, col freddo che aumenta man mano, per arrivare in vetta intorno ai 3.475 metri prima dell\'alba. E qui va detta la verità scomoda: la famosa vista sui due oceani insieme si ottiene solo con cielo perfettamente limpido, che nella pratica significa pochi giorni buoni anche in stagione secca. Chi non vuole rischiare la notte in bianco ha alternative valide: il Sendero Los Quetzales e un tour serio in una finca di caffè valgono da soli la deviazione in montagna.',
+      'Dopo il caldo umido delle isole, Boquete è un sollievo fisico: si dorme con la finestra aperta e senza ventilatore, cosa che a Panama non capita quasi mai. La salita notturna al Barú è dura più per il modo in cui è fatta che per la pendenza: tredici chilometri di pista sconnessa partendo attorno a mezzanotte, al buio, col freddo che aumenta man mano, per arrivare in vetta intorno ai 3.475 metri prima dell\'alba. E c\'è una verità scomoda: la famosa vista sui due oceani insieme si ha solo con il cielo del tutto limpido, cioè pochi giorni buoni anche in stagione secca. Chi non vuole rischiare la notte in bianco ha alternative valide: il Sendero Los Quetzales e un tour serio in una finca di caffè valgono da soli la deviazione in montagna.',
     esperienzeSlugs: ['alba-volcan-baru'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Arcobaleno sulle colline verdi attorno a Boquete, negli altopiani di Chiriquí, Panama',

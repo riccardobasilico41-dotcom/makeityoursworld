@@ -21,41 +21,41 @@ export const destinazioniDanimarca: Destinazione[] = [
     giorniConsigliati: '3 giorni, la prima tappa dell\'itinerario "Capitali nordiche"',
     visitataPersonalmente: false,
     introduzione:
-      'La capitale danese, spesso citata come la città più a misura di bicicletta del mondo: oltre la metà degli abitanti si sposta ogni giorno in bici su una rete di oltre 450 km di piste dedicate. Un centro compatto che mette insieme i canali colorati di Nyhavn, i giardini storici di Tivoli, il lungomare della Sirenetta e Christiania, la comunità autogestita che dal 1971 vive secondo regole proprie nel cuore della città.',
+      'La capitale danese, spesso citata come la città più a misura di bicicletta del mondo: oltre metà degli abitanti si sposta ogni giorno in bici su oltre 450 km di piste. In un centro raccolto ci sono i canali colorati di Nyhavn, i giardini storici di Tivoli, il lungomare della Sirenetta e Christiania, la comunità autogestita che dal 1971 vive con regole proprie nel cuore della città.',
     percheAndarci:
-      'Perché concentra in un\'area percorribile a piedi e in bici alcune delle immagini più riconoscibili del nord Europa — le case a graticcio di Nyhavn, i tetti in rame verde del centro storico, il design scandinavo dentro e fuori i musei — e perché è la porta d\'ingresso più naturale a un giro di capitali nordiche: da qui, treno o volo verso Stoccolma in poche ore.',
+      'In un\'area che si gira a piedi o in bici ci sono alcune delle immagini più riconoscibili del nord Europa: le case a graticcio di Nyhavn, i tetti di rame verde del centro storico, il design scandinavo dentro e fuori i musei. Ed è la porta d\'ingresso più comoda per un giro delle capitali nordiche: da qui Stoccolma è a poche ore di treno o di volo.',
     cosaVedere: [
-      'Nyhavn, il canale del XVII secolo con le facciate colorate delle case dei mercanti, oggi fila ininterrotta di caffè e ristoranti sul molo — il punto più fotografato della città, e non a caso',
-      'Tivoli Gardens, aperto nel 1843 e tra i parchi divertimento più antichi al mondo ancora in funzione: giardini curati, montagne russe storiche in legno e un\'illuminazione serale che lo rende suggestivo anche solo da attraversare senza salire su nulla — aperto solo a stagioni (primavera-estate, Halloween, mercatini di Natale), chiuso per alcuni mesi invernali',
-      'La Sirenetta (Den Lille Havfrue), la scultura in bronzo del 1913 ispirata alla fiaba di Hans Christian Andersen, sul lungomare di Langelinie: piccola, spesso circondata da folla e gruppi turistici, uno dei casi più citati di attrazione più famosa per fama che per l\'impatto visivo effettivo — vale comunque la passeggiata sul lungomare intorno',
-      'Christiania, la "città libera" fondata nel 1971 in un\'ex area militare a Christianshavn: case autocostruite, murales, un\'atmosfera che non somiglia a nient\'altro in città. La storica Pusher Street, dove per decenni si vendeva hashish a vista, è stata chiusa dalle autorità danesi nel 2024 dopo un episodio di violenza — la vendita di stupefacenti resta comunque illegale in tutta la Danimarca',
-      'Il centro storico intorno a Strøget, una delle vie pedonali commerciali più lunghe d\'Europa, con Stroget che collega Rådhuspladsen (piazza del municipio) alla vecchia piazza del mercato di Kongens Nytorv',
-      'Il quartiere di Christianshavn, con i suoi canali minori, le case galleggianti e la chiesa di Vor Frelsers Kirke, con la celebre scala esterna a spirale che sale intorno alla guglia dorata',
+      'Nyhavn, il canale del XVII secolo con le facciate colorate delle case dei mercanti, oggi una fila continua di caffè e ristoranti sul molo: il punto più fotografato della città, e a ragione',
+      'Tivoli Gardens, aperto nel 1843, uno dei parchi divertimento più antichi al mondo ancora in funzione: giardini curati, montagne russe storiche in legno e luci serali che valgono la visita anche senza salire su nessuna giostra. È aperto solo in alcune stagioni (primavera-estate, Halloween, mercatini di Natale) e chiude per alcuni mesi d\'inverno',
+      'La Sirenetta (Den Lille Havfrue), la scultura in bronzo del 1913 ispirata alla fiaba di Hans Christian Andersen, sul lungomare di Langelinie. È piccola e spesso circondata da folla e gruppi, uno dei casi più citati di attrazione che vale più per la fama che per quello che si vede; la passeggiata sul lungomare intorno merita comunque',
+      'Christiania, la «città libera» nata nel 1971 in un\'ex area militare a Christianshavn: case autocostruite, murales e un\'atmosfera diversa da tutto il resto della città. La storica Pusher Street, dove per decenni si è venduto hashish alla luce del sole, è stata chiusa dalle autorità danesi nel 2024 dopo un episodio di violenza; la vendita di stupefacenti è comunque illegale in tutta la Danimarca',
+      'Il centro storico intorno a Strøget, una delle vie pedonali commerciali più lunghe d\'Europa, che collega Rådhuspladsen (la piazza del municipio) alla vecchia piazza del mercato di Kongens Nytorv',
+      'Il quartiere di Christianshavn, con i canali minori, le case galleggianti e la chiesa di Vor Frelsers Kirke, famosa per la scala esterna a spirale che sale intorno alla guglia dorata',
     ],
     cosaFare: [
-      'Un giro in bicicletta a noleggio lungo il lungomare e i canali — il modo in cui la città stessa si muove ogni giorno, non un\'attività "da turisti" — vedi la scheda esperienza dedicata',
-      'Un giro in barca sui canali, da Nyhavn o Christianshavn, per vedere il centro storico dall\'acqua — vedi la scheda esperienza dedicata',
+      'Un giro in bici a noleggio lungo il lungomare e i canali, come si muovono ogni giorno gli abitanti (vedi la scheda esperienza dedicata)',
+      'Un giro in barca sui canali, da Nyhavn o da Christianshavn, per vedere il centro storico dall\'acqua (vedi la scheda esperienza dedicata)',
       'Una serata a Tivoli, tra giostre storiche e giardini illuminati, quando è in stagione',
-      'Una visita a Christiania con le regole della comunità in mente: niente foto sull\'ex Pusher Street, rispetto per i residenti — vedi la scheda esperienza dedicata',
-      'Un tour o una sosta gastronomica dedicata allo smørrebrød, il panino aperto danese, a Torvehallerne (mercato coperto) o in una delle rosticcerie storiche del centro — vedi la scheda esperienza dedicata',
+      'Una visita a Christiania tenendo a mente le regole della comunità: niente foto sull\'ex Pusher Street e rispetto per i residenti (vedi la scheda esperienza dedicata)',
+      'Un tour o una sosta per lo smørrebrød, il panino aperto danese, a Torvehallerne (il mercato coperto) o in una delle rosticcerie storiche del centro (vedi la scheda esperienza dedicata)',
     ],
     doveDormire:
-      'Il centro storico (Indre By) è la scelta più comoda per chi vuole tutto a piedi, ma è anche la zona più cara. Vesterbro, ex quartiere a luci rosse oggi tra i più vivaci della città per bar e ristoranti, offre un buon compromesso tra prezzo e posizione, a pochi minuti a piedi o in metro dal centro. Nørrebro, multiculturale e meno turistico, è l\'opzione più economica con una vita locale autentica, un po\' più lontana dalle attrazioni principali.',
+      'Il centro storico (Indre By) è il più comodo per chi vuole tutto a piedi, ma è anche la zona più cara. Vesterbro, ex quartiere a luci rosse e oggi fra i più vivaci per bar e ristoranti, è un buon compromesso fra prezzo e posizione, a pochi minuti a piedi o in metro dal centro. Nørrebro, multiculturale e meno turistico, è la scelta più economica, con una vita di quartiere vera, ma è un po\' più lontano dalle attrazioni principali.',
     doveMangiare:
-      'Torvehallerne, il mercato coperto vicino a Nørreport, per smørrebrød, pesce e prodotti locali in formato street food di qualità. Nyhavn è scenografico ma con prezzi da location: meglio scegliere con attenzione o limitarsi a un caffè guardando il canale. Reffen, l\'area street food sul lungomare (stagionale, aperta da primavera ad autunno), per un\'alternativa più informale e internazionale.',
+      'Torvehallerne, il mercato coperto vicino a Nørreport, per smørrebrød, pesce e prodotti locali in versione street food di qualità. Nyhavn è scenografico, ma i prezzi sono quelli della vista: meglio scegliere con attenzione o fermarsi per un caffè guardando il canale. Per qualcosa di più informale e internazionale c\'è Reffen, l\'area street food sul lungomare (aperta da primavera ad autunno).',
     comeArrivare:
-      'Aeroporto di Copenaghen-Kastrup (CPH), tra gli hub meglio collegati del nord Europa, a circa 20 minuti dal centro in metro. Volo diretto dall\'Italia disponibile dalle principali città. In treno dall\'Italia non esiste un collegamento diretto pratico: si arriva in aereo, o via Germania con più cambi per chi preferisce non volare.',
+      'Aeroporto di Copenaghen-Kastrup (CPH), fra gli scali meglio collegati del nord Europa, a circa 20 minuti dal centro in metro. Ci sono voli diretti dalle principali città italiane. In treno dall\'Italia non c\'è un collegamento diretto comodo: chi preferisce non volare passa dalla Germania con più cambi.',
     comeSpostarsi:
-      'Bicicletta a noleggio, l\'opzione più coerente con lo spirito della città, oltre a metro, S-tog (treni suburbani) e bus con biglietto integrato a zone. Il centro storico si copre comodamente anche a piedi.',
+      'La bici a noleggio, la scelta più in linea con la città, poi metro, S-tog (treni suburbani) e bus con biglietto integrato a zone. Il centro storico si gira bene anche a piedi.',
     periodoMigliore:
-      'maggio-settembre per clima e giornate lunghe; giugno-agosto è alta stagione, con Tivoli negli orari estivi pieni; dicembre per i mercatini di Natale, in un\'atmosfera molto diversa e altrettanto suggestiva.',
+      'maggio-settembre per il clima e le giornate lunghe; giugno-agosto è alta stagione, con Tivoli negli orari estivi. Dicembre per i mercatini di Natale, con un\'atmosfera molto diversa e altrettanto bella.',
     costi:
       'Tivoli: ingresso giardini da circa 20€, biglietto combinato giardini più giostre illimitate fino a circa 66€. Giro in barca sui canali: circa 15-20€ a persona per un\'ora. Pasto economico 7-20€, pranzo in caffè 17-27€, cena di fascia media 40-75€ per due.',
     erroriDaEvitare: [
-      'Camminare o sostare su una pista ciclabile senza guardare: sono trafficate quanto le strade e i ciclisti non rallentano per i turisti distratti',
-      'Fotografare a Christiania nelle zone segnalate (l\'ex Pusher Street in particolare) o i residenti senza permesso: le regole sono affisse e rispettate rigorosamente',
-      'Aspettarsi Tivoli aperto tutto l\'anno: chiude per alcuni mesi invernali fuori dalla finestra natalizia, verificare il calendario stagionale prima di programmare la serata',
-      'Sottovalutare l\'effetto sorpresa (in negativo) della Sirenetta: è una statua piccola, spesso circondata da folla — va goduta come parte di una passeggiata sul lungomare, non come destinazione a sé',
+      'Camminare o fermarsi su una pista ciclabile senza guardare: sono trafficate quanto le strade e i ciclisti non rallentano per i turisti distratti',
+      'Fotografare a Christiania nelle zone segnalate (l\'ex Pusher Street in particolare) o i residenti senza permesso: le regole sono affisse e vengono fatte rispettare',
+      'Dare per scontato che Tivoli sia aperto tutto l\'anno: fuori dal periodo di Natale chiude per alcuni mesi d\'inverno, quindi conviene controllare il calendario prima di programmare la serata',
+      'Sottovalutare la delusione possibile della Sirenetta: è una statua piccola, spesso circondata da folla, da vedere durante una passeggiata sul lungomare più che come meta a sé',
       'Dare per scontato che si paghi in euro: la Danimarca non è nell\'eurozona, si paga in corone danesi (DKK)',
     ],
     esperienzeSlugs: ['nyhavn-giro-in-barca', 'copenaghen-tour-in-bicicletta', 'christiania-visita', 'smorrebrod-tour-torvehallerne'],

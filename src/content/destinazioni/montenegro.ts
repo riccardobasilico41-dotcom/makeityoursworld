@@ -24,7 +24,7 @@ export const destinazioniMontenegro: Destinazione[] = [
       'I mosaici romani di Risan',
       'Dobrota e Prčanj con i palazzi dei capitani',
     ],
-    cosaFare: ['Salire alle mura all\'alba', 'Prendere la barca per la Madonna dello Scarpello', 'Il giro della baia con il traghetto di Kamenari'],
+    cosaFare: ['Salire alle mura all\'alba', 'Prendere la barca per la Madonna dello Scarpello', 'Girare la baia passando dal traghetto di Kamenari'],
     doveDormire: 'Città vecchia di Kotor per l\'atmosfera; Dobrota, Muo e Prčanj per tranquillità e parcheggio; Perast per una notte in un palazzo.',
     doveMangiare: 'Konobe sul mare con pesce alla griglia, cozze alla buzara e risotto nero.',
     comeArrivare: 'Aeroporto di Tivat a 15 minuti; Dubrovnik a circa un\'ora e mezza con la frontiera; Podgorica a 1 ora e mezza.',
@@ -127,7 +127,7 @@ export const destinazioniMontenegro: Destinazione[] = [
     visitataPersonalmente: false,
     introduzione:
       'Il monastero ortodosso più venerato del Montenegro, bianco e incastrato in una parete verticale a circa 900 metri, con le reliquie di San Basilio di Ostrog.',
-    percheAndarci: 'Per la posizione nella roccia e per l\'atmosfera di un pellegrinaggio che attira fedeli di tutte le confessioni.',
+    percheAndarci: 'Per la posizione nella roccia e per il pellegrinaggio, che attira fedeli di tutte le confessioni.',
     cosaVedere: ['Il monastero superiore e la cappella-grotta con le reliquie', 'Il monastero inferiore'],
     cosaFare: ['Salire l\'ultimo tratto a piedi dal parcheggio'],
     comeArrivare: 'In auto da Podgorica o Nikšić, con l\'ultimo tratto su una strada stretta e ripida.',

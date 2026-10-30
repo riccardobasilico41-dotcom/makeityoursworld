@@ -24,9 +24,9 @@ export const destinazioniSpagna: Destinazione[] = [
     giorniConsigliati: '2-3 giorni',
     visitataPersonalmente: false,
     introduzione:
-      'La capitale dell\'Andalusia sul fiume Guadalquivir, dove otto secoli di dominio moresco convivono con la Siviglia barocca e con il quartiere gitano di Triana, dall\'altra parte del fiume, dove il flamenco è nato come espressione di strada prima che diventasse spettacolo.',
+      'La capitale dell\'Andalusia, sul Guadalquivir. Qui otto secoli di dominio moresco convivono con la Siviglia barocca e, sull\'altra riva, con il quartiere gitano di Triana, dove il flamenco è nato per strada prima di diventare spettacolo.',
     percheAndarci:
-      'Perché concentra in un centro percorribile a piedi la cattedrale gotica più grande del mondo, il palazzo moresco-cristiano più bello di Spagna dopo l\'Alhambra e il quartiere dove il flamenco si vive ancora come tradizione viva, non solo come tablao per turisti.',
+      'In un centro che si gira a piedi ci sono la cattedrale gotica più grande del mondo, il palazzo moresco-cristiano più bello di Spagna dopo l\'Alhambra e il quartiere dove il flamenco è ancora una tradizione di casa, oltre che tablao per turisti.',
     cosaVedere: [
       'La Cattedrale di Siviglia, la più grande chiesa gotica del mondo, costruita sopra l\'antica moschea almohade: dentro, la tomba di Cristoforo Colombo',
       'La Giralda, l\'antico minareto della moschea trasformato in campanile, con la rampa (non scale) che sale fino in cima',
@@ -38,20 +38,20 @@ export const destinazioniSpagna: Destinazione[] = [
     cosaFare: [
       'Salire sulla Giralda al mattino presto, prima del caldo e della folla',
       'Un giro nei patii di Triana e sul Mercado de Triana, il mercato coperto sul lungofiume',
-      'Assistere a uno spettacolo di flamenco in un tablao acustico e senza amplificazione, non in uno dei grandi locali per gruppi turistici',
-      'Passeggiata serale lungo il Guadalquivir, quando il caldo estivo finalmente cala',
+      'Assistere a uno spettacolo di flamenco in un tablao acustico, senza amplificazione, invece che in uno dei grandi locali per gruppi turistici',
+      'Passeggiata serale lungo il Guadalquivir, quando il caldo estivo cala',
     ],
-    doveDormire: 'Il Barrio de Santa Cruz è il più centrale e turistico; Triana è più autentico e leggermente più economico, a pochi minuti a piedi dal centro attraverso il Puente de Triana.',
+    doveDormire: 'Il Barrio de Santa Cruz è il quartiere più centrale e turistico; Triana è più di quartiere e costa un po\' meno, a pochi minuti a piedi dal centro attraverso il Puente de Triana.',
     doveMangiare:
-      'Il tapeo (giro di tapas tra più bar) è l\'istituzione locale: salmorejo (crema fredda di pomodoro, più densa del gazpacho), espinacas con garbanzos, il pescaíto frito (fritto misto di pesce) e il jamón ibérico. A Triana, i bar sul mercato coperto sono il modo più economico e genuino di iniziare la serata.',
+      'Il tapeo (giro di tapas tra più bar) è l\'istituzione locale: salmorejo (crema fredda di pomodoro, più densa del gazpacho), espinacas con garbanzos, il pescaíto frito (fritto misto di pesce) e il jamón ibérico. A Triana i bar del mercato coperto sono il modo più economico per iniziare la serata.',
     comeArrivare: 'Aeroporto di San Pablo, a circa 10 km dal centro (bus EA o taxi). Treno AVE ad alta velocità da Madrid in circa 2h30.',
     comeSpostarsi: 'Il centro storico si gira quasi interamente a piedi; per le distanze maggiori, bus urbani e il tram (linea T1) lungo l\'asse centrale.',
     periodoMigliore:
-      'marzo-maggio e ottobre-inizio novembre, con temperature gradevoli. Da evitare luglio-agosto: Siviglia è tra le città più calde di Spagna, con medie che superano regolarmente i 36°C e picchi ben oltre. La Settimana Santa e la Feria de Abril (due settimane dopo Pasqua) portano grande folla e prezzi alti, ma sono anche i momenti di massima intensità culturale della città.',
+      'marzo-maggio e ottobre-inizio novembre, con temperature gradevoli. Da evitare luglio-agosto: Siviglia è fra le città più calde di Spagna, con medie spesso sopra i 36°C e picchi ben oltre. La Settimana Santa e la Feria de Abril (due settimane dopo Pasqua) portano folla e prezzi alti, ma sono anche i giorni in cui la città vive le sue tradizioni più sentite.',
     costi: 'Cattedrale e Giralda circa 15€; Real Alcázar circa 15,50€ (Appartamenti Reali +5,50€, gratuito la sera con prenotazione in una fascia oraria dedicata); un tablao di flamenco medio 35-45€ a persona.',
     erroriDaEvitare: [
       'Sottovalutare il caldo estivo: da giugno a settembre le ore centrali della giornata vanno evitate per qualsiasi attività all\'aperto',
-      'Scegliere il primo tablao pubblicizzato in centro senza verificarne la reputazione: i locali più turistici tendono a spettacoli standardizzati e amplificati, lontani dal flamenco che si vive nei quartieri',
+      'Scegliere il primo tablao pubblicizzato in centro senza controllarne la reputazione: i locali più turistici fanno spettacoli standard e amplificati, lontani dal flamenco dei quartieri',
       'Salire sulla Giralda a metà giornata in alta stagione: le code sotto il sole possono essere lunghe',
     ],
     esperienzeSlugs: ['flamenco-triana', 'tapeo-siviglia'],
@@ -68,9 +68,9 @@ export const destinazioniSpagna: Destinazione[] = [
     giorniConsigliati: '2-3 giorni',
     visitataPersonalmente: false,
     introduzione:
-      'L\'ultima capitale del regno moresco d\'Al-Andalus, caduta nel 1492, dominata dall\'Alhambra sulla collina e circondata dalle vette innevate della Sierra Nevada — l\'unico posto in Europa dove, in certi periodi dell\'anno, si può sciare al mattino e stare in spiaggia il pomeriggio.',
+      'L\'ultima capitale del regno moresco di al-Andalus, caduta nel 1492. L\'Alhambra la domina dalla collina e intorno ci sono le vette innevate della Sierra Nevada: in certi periodi dell\'anno è l\'unico posto in Europa dove si può sciare al mattino e stare in spiaggia il pomeriggio.',
     percheAndarci:
-      'Per l\'Alhambra, uno dei monumenti più visitati al mondo e probabilmente il motivo singolo più forte per cui un viaggio in Andalusia diventa un viaggio in Spagna e basta — ma anche per l\'Albaicín, il quartiere moresco che le sta di fronte, e per una vita studentesca che rende Granada più economica e più giovane delle altre città andaluse.',
+      'Per l\'Alhambra, uno dei monumenti più visitati al mondo e per molti il motivo principale di un viaggio in Andalusia. Poi c\'è l\'Albaicín, il quartiere moresco che le sta di fronte, e una vita studentesca che rende Granada più economica e più giovane delle altre città andaluse.',
     cosaVedere: [
       'L\'Alhambra: i Palazzi Nazridi (Palacio de Comares e Palacio de los Leones, con il celebre Patio de los Leones), l\'Alcazaba, la fortezza più antica, e il Generalife, i giardini estivi dei sultani',
       'L\'Albaicín, il quartiere moresco patrimonio UNESCO con l\'antico impianto arabo di vicoli e carmens (case con giardino recintato)',
@@ -79,7 +79,7 @@ export const destinazioniSpagna: Destinazione[] = [
       'Il Sacromonte, il quartiere delle case-grotta abitate storicamente dalla comunità gitana, cuore di una tradizione di flamenco propria (la zambra)',
     ],
     cosaFare: [
-      'Prenotare i biglietti dell\'Alhambra con largo anticipo (vedi la scheda esperienza dedicata): è il singolo errore di pianificazione più comune di chi visita Granada',
+      'Prenotare i biglietti dell\'Alhambra con largo anticipo (vedi la scheda esperienza dedicata): dimenticarsene è l\'errore più comune di chi visita Granada',
       'Passeggiare per l\'Albaicín senza meta fissa, tra i carmens e le piccole moschee',
       'Salire al Mirador de San Nicolás al tramonto per la vista classica sull\'Alhambra',
       'Una zambra di flamenco in una delle case-grotta del Sacromonte',
@@ -111,15 +111,15 @@ export const destinazioniSpagna: Destinazione[] = [
     giorniConsigliati: '1-2 giorni',
     visitataPersonalmente: false,
     introduzione:
-      'Nel X secolo, sotto il Califfato omayyade, Córdoba era la città più popolosa e più colta d\'Europa occidentale, un centro di convivenza tra cultura islamica, ebraica e cristiana. Ne resta il monumento più spiazzante d\'Andalusia: la Mezquita, una foresta di oltre ottocento colonne di marmo e onice con una cattedrale rinascimentale costruita, letteralmente, nel suo centro.',
+      'Nel X secolo, sotto il Califfato omayyade, Córdoba era la città più popolosa e più colta dell\'Europa occidentale, dove convivevano cultura islamica, ebraica e cristiana. Ne resta il monumento più spiazzante d\'Andalusia: la Mezquita, una foresta di oltre ottocento colonne di marmo e onice con una cattedrale rinascimentale costruita proprio nel mezzo.',
     percheAndarci:
-      'Perché la Mezquita-Catedral è un\'esperienza spaziale che nessuna foto rende: entrarci significa attraversare la foresta di colonne e archi a doppio livello bicolore e trovarsi, al centro, davanti a una navata gotica innestata di forza in mezzo alla moschea. È la tappa più compatta e più facile da vedere in un solo giorno delle quattro città andaluse.',
+      'Per la Mezquita-Catedral, uno spazio che le foto non rendono: si attraversa la foresta di colonne e di archi bicolori a doppio livello e al centro ci si trova davanti a una navata gotica innestata di forza nella moschea. Delle quattro città andaluse è la più compatta, la più facile da vedere in un giorno.',
     cosaVedere: [
       'La Mezquita-Catedral, con il Mihrab (la nicchia di preghiera più preziosa dell\'arte islamica occidentale) e la Capilla Mayor rinascimentale al centro della sala a colonne',
-      'Il Alcázar de los Reyes Cristianos, la fortezza-palazzo dei Re Cattolici con i suoi giardini a terrazze',
+      'L\'Alcázar de los Reyes Cristianos, la fortezza-palazzo dei Re Cattolici con i giardini a terrazze',
       'La Judería, l\'antico quartiere ebraico, con la Sinagoga medievale (una delle tre rimaste in Spagna) e le vie strette intorno a Calleja de las Flores',
       'Il Ponte Romano sul Guadalquivir, con la Torre della Calahorra all\'estremità opposta',
-      'I Patios de Córdoba, i cortili interni fioriti tipici della città, protagonisti del celebre Festival dei Patios a maggio (patrimonio culturale immateriale UNESCO)',
+      'I Patios de Córdoba, i cortili interni fioriti tipici della città, protagonisti del Festival dei Patios a maggio (patrimonio culturale immateriale UNESCO)',
     ],
     cosaFare: [
       'Visitare la Mezquita presto al mattino, quando è gratuita per i residenti dalle 8:30 alle 9:30 e comunque meno affollata',
@@ -130,9 +130,9 @@ export const destinazioniSpagna: Destinazione[] = [
     doveDormire: 'La Judería per la vicinanza alla Mezquita; il centro moderno intorno a Plaza de las Tendillas per prezzi più contenuti.',
     doveMangiare: 'Il salmorejo è nato qui, più denso del gazpacho sivigliano; il rabo de toro (coda di toro brasata) e il flamenquín (involtino di prosciutto e formaggio fritto) sono i piatti simbolo della cucina cordovana.',
     comeArrivare: 'Treno AVE da Madrid in circa 1h40-2h, da Siviglia in circa 45 minuti, da Málaga in circa 1h: è uno degli snodi meglio collegati dell\'alta velocità andalusa.',
-    comeSpostarsi: 'Il centro storico, compattissimo, si gira interamente a piedi.',
+    comeSpostarsi: 'Il centro storico è piccolo e si gira tutto a piedi.',
     periodoMigliore:
-      'marzo-maggio (con il picco del Festival dei Patios a maggio) e ottobre. Córdoba è, insieme a Siviglia, la città più calda di Spagna: da metà luglio a fine agosto molte attrazioni turistiche riducono gli orari proprio per il caldo estremo, che qui ha toccato il record assoluto spagnolo di 47,6°C nell\'agosto 2021.',
+      'marzo-maggio (col Festival dei Patios a maggio) e ottobre. Córdoba è, con Siviglia, la città più calda di Spagna: da metà luglio a fine agosto molte attrazioni riducono gli orari per il caldo, che qui ha toccato il record spagnolo di 47,6°C nell\'agosto 2021.',
     costi: 'Mezquita-Catedral circa 15€ (visita notturna 18€; gratuita nei giorni feriani 8:30-9:30); Alcázar de los Reyes Cristianos circa 7€.',
     erroriDaEvitare: [
       'Programmare una visita a mezzogiorno in piena estate: tra metà luglio e fine agosto va evitato ogni spostamento nelle ore centrali',
@@ -153,9 +153,9 @@ export const destinazioniSpagna: Destinazione[] = [
     giorniConsigliati: '1-2 giorni',
     visitataPersonalmente: false,
     introduzione:
-      'Ronda è la più spettacolare dei "pueblos blancos", i borghi bianchi dell\'entroterra andaluso: costruita sui due lati di una gola profonda oltre 100 metri, il Tajo, collegati dal Puente Nuevo del XVIII secolo. È il contrappunto di montagna alle città moresche della pianura, e la culla della tauromachia moderna.',
+      'Ronda è il più scenografico dei «pueblos blancos», i borghi bianchi dell\'entroterra andaluso. Sta sui due lati del Tajo, una gola profonda oltre 100 metri, uniti dal Puente Nuevo del XVIII secolo. È la montagna dopo le città moresche della pianura, ed è la culla della tauromachia moderna.',
     percheAndarci:
-      'Perché è la vista più fotografata d\'Andalusia dopo l\'Alhambra, ma soprattutto perché rallenta il ritmo di un itinerario fatto di grandi città: qui si cammina sull\'orlo di un canyon, si visita la corrida più antica di Spagna ancora in uso e ci si ferma nelle cantine di vino della zona.',
+      'È la vista più fotografata d\'Andalusia dopo l\'Alhambra, e rallenta un itinerario fatto di grandi città: si cammina sull\'orlo di un canyon, si visita l\'arena più antica di Spagna ancora in uso e ci si ferma nelle cantine della zona.',
     cosaVedere: [
       'Il Puente Nuevo, il ponte in pietra che scavalca la gola del Tajo a oltre 100 metri di altezza',
       'La Plaza de Toros de Ronda, tra le arene più antiche di Spagna (1785), con il museo della tauromachia',
@@ -165,10 +165,10 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     cosaFare: [
       'Camminare sul Puente Nuevo e scendere nel sentiero del Mirador de Aldehuela per la prospettiva dal fondo della gola',
-      'Un giro di degustazione nelle cantine della zona vinicola di Ronda, meno note del resto dell\'Andalusia ma in crescita qualitativa',
+      'Un giro di degustazione nelle cantine della zona vinicola di Ronda, meno nota di altre in Andalusia ma con una qualità in crescita',
       'Estendere la visita a uno o due pueblos blancos vicini come Setenil de las Bodegas (case scavate sotto gli speroni di roccia) o Grazalema, nel parco naturale omonimo',
     ],
-    doveDormire: 'Il centro storico di Ronda, vicino al Puente Nuevo, per la vista e la comodità; in alternativa un agriturismo o una masía nella campagna circostante per chi vuole rallentare ancora di più.',
+    doveDormire: 'Il centro storico di Ronda, vicino al Puente Nuevo, per la vista e la comodità; in alternativa un agriturismo o una masía nella campagna intorno, per chi vuole rallentare ancora.',
     doveMangiare: 'La cucina di montagna andalusa: rabo de toro, cordero (agnello) alla brace e formaggi di capra locali, spesso accompagnati dai vini della denominazione Sierras de Málaga.',
     comeArrivare: 'In auto da Siviglia (circa 2h) o da Málaga (circa 1h30) attraverso la Serranía de Ronda; treno regionale da Málaga (circa 2h, panoramico) o da Algeciras.',
     comeSpostarsi: 'Il centro si gira a piedi; per i pueblos blancos vicini serve un\'auto, i collegamenti bus tra borghi sono scarsi e lenti.',
@@ -177,7 +177,7 @@ export const destinazioniSpagna: Destinazione[] = [
     erroriDaEvitare: [
       'Farla in giornata da Siviglia senza pernottare: il tragitto (circa 2h a tratta) rende la visita frettolosa se non ci si ferma almeno una notte',
       'Guidare tra i pueblos blancos senza mettere in conto strade di montagna strette e tornanti',
-      'Sottovalutare il vento sul Puente Nuevo: la gola crea correnti che possono essere forti, soprattutto in inverno',
+      'Sottovalutare il vento sul Puente Nuevo: nella gola le correnti possono essere forti, soprattutto in inverno',
     ],
     esperienzeSlugs: [],
     tripSlugs: ['andalusia-itinerario'],
@@ -195,12 +195,12 @@ export const destinazioniSpagna: Destinazione[] = [
     giorniConsigliati: '2-3 giorni',
     visitataPersonalmente: false,
     introduzione:
-      'La città basca affacciata sulla baia a conchiglia della Concha, con più stelle Michelin per abitante di qualsiasi altra città al mondo e, soprattutto, la cultura del pintxo (lo spuntino da bar basco) più densa e più viva di Spagna. È il contrario esatto dell\'Andalusia: clima fresco, atmosfera raccolta, identità linguistica e culturale basca ben distinta dal resto del paese.',
+      'La città basca sulla baia a conchiglia della Concha, con più stelle Michelin per abitante di qualsiasi altra città al mondo e la cultura del pintxo (lo spuntino da bar basco) più fitta di Spagna. È l\'opposto dell\'Andalusia: clima fresco, atmosfera raccolta e un\'identità basca, di lingua e di cultura, ben distinta dal resto del paese.',
     percheAndarci:
-      'Per il modo di mangiare: qui il pasto serio si fa girando da bar a bar della Parte Vieja, un pintxo e un bicchiere per locale, in quello che i baschi chiamano txikiteo — un\'istituzione sociale prima ancora che gastronomica, ed è la ragione singola più forte per venire in questa città.',
+      'Per il modo di mangiare. Qui il pasto vero si fa girando i bar della Parte Vieja, un pintxo e un bicchiere per locale: i baschi lo chiamano txikiteo ed è un rito sociale prima che gastronomico. È il motivo principale per venire in città.',
     cosaVedere: [
       'La Parte Vieja, il centro storico con la più alta densità di bar da pintxos della città',
-      'La Playa de la Concha, la spiaggia urbana a forma di conchiglia considerata tra le più belle d\'Europa',
+      'La Playa de la Concha, la spiaggia urbana a forma di conchiglia considerata fra le più belle d\'Europa',
       'Il Monte Igueldo, raggiungibile con una funicolare storica, per la vista sulla baia',
       'L\'Isla de Santa Clara, al centro della baia, raggiungibile in barca in estate',
       'Il Peine del Viento (Pettine del Vento), la scultura di Eduardo Chillida incastonata nelle rocce a fine Concha',
@@ -211,18 +211,18 @@ export const destinazioniSpagna: Destinazione[] = [
       'Nuotata alla Playa de la Concha nei mesi estivi',
       'Estensione di mezza giornata a Getaria o Zarautz, i paesi costieri poco fuori città noti per il pesce alla brace e il surf',
     ],
-    doveDormire: 'La Parte Vieja per essere nel cuore della vita da pintxos, molto rumorosa la sera; Gros, oltre il fiume Urumea, più tranquillo e vicino alla spiaggia di Zurriola, con il surf.',
+    doveDormire: 'La Parte Vieja per stare in mezzo ai bar da pintxos, ma la sera è rumorosa; Gros, oltre il fiume Urumea, è più tranquillo e vicino alla spiaggia di Zurriola, quella del surf.',
     doveMangiare:
       'Il txikiteo nella Parte Vieja è l\'esperienza in sé (vedi la scheda esperienza dedicata): un bar, una specialità, un bicchiere di txakoli (vino bianco basco leggermente frizzante) o sidra, poi si passa al bar successivo. Regola non scritta: si mangia in piedi al bancone, si prende il pintxo con le mani, si paga a fine giro dichiarando all\'oste cosa si è consumato.',
     comeArrivare: 'Aeroporto di San Sebastián (piccolo, pochi voli) o, più spesso, aeroporto di Bilbao (circa 1h20 in bus). Treno da Madrid (circa 5h) o Barcellona; in auto, circa 20 minuti dal confine francese.',
     comeSpostarsi: 'Il centro si gira a piedi; bus urbani per le zone periferiche e le spiagge più lontane.',
     periodoMigliore:
-      'giugno-settembre, la finestra più asciutta e con le temperature più alte dell\'anno (comunque miti, raramente sopra i 25-27°C): è l\'esatto opposto dell\'Andalusia, dove la stessa stagione va evitata per il caldo.',
+      'giugno-settembre, il periodo più asciutto e più caldo dell\'anno (comunque mite, di rado sopra i 25-27°C). In Andalusia è la stagione da evitare per il caldo.',
     costi: 'un giro di 4-5 pintxos con altrettanti bicchieri costa indicativamente 25-35€ a persona; i bar più semplici hanno pintxos da 2-4€ ciascuno.',
     erroriDaEvitare: [
       'Chiedere un piatto e caricarlo di pintxos come a un buffet: è considerato poco locale, meglio uno o due pezzi per bar prima di cambiare locale',
       'Fermarsi in un solo bar per tutta la serata: il senso del txikiteo è muoversi',
-      'Sottovalutare il meteo atlantico anche d\'estate: piove più spesso che in qualsiasi altra delle quattro regioni spagnole raccontate qui, conviene sempre avere con sé una giacca leggera',
+      'Sottovalutare il meteo atlantico anche d\'estate: piove più spesso che nelle altre tre regioni spagnole di questa guida, quindi conviene avere sempre con sé una giacca leggera',
     ],
     esperienzeSlugs: ['pintxos-crawl-donostia'],
     tripSlugs: ['spagna-nord-itinerario'],
@@ -238,18 +238,18 @@ export const destinazioniSpagna: Destinazione[] = [
     giorniConsigliati: '1-2 giorni',
     visitataPersonalmente: false,
     introduzione:
-      'La ex capitale industriale basca che nel 1997, con l\'apertura del Museo Guggenheim di Frank Gehry, ha inventato il termine "effetto Bilbao" per descrivere una città intera rigenerata da un solo edificio. Oggi è una delle capitali culturali più dinamiche del Nord della Spagna, con un centro storico (il Casco Viejo) rimasto quasi immutato accanto ai grattacieli sull\'estuario del Nervión.',
+      'L\'ex capitale industriale basca. Nel 1997 ha aperto il Museo Guggenheim di Frank Gehry ed è nato il termine «effetto Bilbao», per una città intera rigenerata da un solo edificio. Oggi è una delle capitali culturali più vivaci del Nord della Spagna, con un centro storico (il Casco Viejo) rimasto quasi com\'era accanto ai grattacieli sull\'estuario del Nervión.',
     percheAndarci:
-      'Perché il Guggenheim, da solo, vale il viaggio — sia per l\'edificio in titanio che riflette la luce in modi diversi ogni ora, sia per le collezioni d\'arte contemporanea al suo interno — ma anche perché il Casco Viejo, con le sue "Siete Calles" medievali, offre una scena di pintxos altrettanto seria di quella di San Sebastián, con meno turismo.',
+      'Il Guggenheim da solo vale il viaggio, per l\'edificio in titanio che riflette la luce in modo diverso a ogni ora e per le collezioni d\'arte contemporanea. Il Casco Viejo, con le sue «Siete Calles» medievali, ha poi una scena di pintxos seria quanto quella di San Sebastián, con meno turisti.',
     cosaVedere: [
-      'Il Museo Guggenheim Bilbao, l\'edificio di Frank Gehry in titanio sull\'estuario del Nervión, con il "Puppy" di Jeff Koons e il "Maman" di Louise Bourgeois all\'esterno',
-      'Il Casco Viejo, le "Siete Calles" del centro storico medievale, con la Cattedrale di Santiago',
+      'Il Museo Guggenheim Bilbao, l\'edificio in titanio di Frank Gehry sull\'estuario del Nervión, con «Puppy» di Jeff Koons e «Maman» di Louise Bourgeois all\'esterno',
+      'Il Casco Viejo, le «Siete Calles» del centro storico medievale, con la Cattedrale di Santiago',
       'Il Mercado de la Ribera, uno dei mercati coperti più grandi d\'Europa sul lungofiume',
       'Il Puente de Vizcaya (a Portugalete, poco fuori città), il ponte trasbordatore più antico del mondo, patrimonio UNESCO',
       'Il quartiere dell\'Ensanche, il Bilbao ottocentesco borghese, con negozi e architettura liberty',
     ],
     cosaFare: [
-      'Visitare il Guggenheim al mattino presto, quando la luce sul titanio è più suggestiva e le code più corte',
+      'Visitare il Guggenheim al mattino presto, quando la luce sul titanio è più bella e le code più corte',
       'Un giro di pintxos nel Casco Viejo, meno turistico e più economico di quello di San Sebastián',
       'Attraversare il Puente de Vizcaya sulla navicella sospesa, o salire sulla passerella panoramica',
       'Passeggiata lungo il Nervión dal Guggenheim fino al Casco Viejo',
@@ -259,10 +259,10 @@ export const destinazioniSpagna: Destinazione[] = [
     comeArrivare: 'Aeroporto di Bilbao (Loiu), circa 12 km dal centro (bus Bizkaibus A3247). Treno o bus da Madrid (circa 4h30-5h) o da San Sebastián (circa 1h20 in bus).',
     comeSpostarsi: 'Metro (linea Euskotren/Metro Bilbao) efficiente per raggiungere il Guggenheim e le zone periferiche; il centro storico si gira a piedi.',
     periodoMigliore: 'giugno-settembre, come il resto del Nord: clima fresco e piovoso tutto l\'anno, con l\'estate come finestra più stabile.',
-    costi: 'Guggenheim: 18€ da metà giugno a metà settembre, 15€ nel resto dell\'anno (ridotto 9€/7,50€); gratuito per i minori di 18 anni; gratuito l\'ultima domenica del mese in bassa stagione (da verificare sul sito ufficiale).',
+    costi: 'Guggenheim: 18€ da metà giugno a metà settembre, 15€ nel resto dell\'anno (ridotto 9€/7,50€); gratuito per i minori di 18 anni e, in bassa stagione, l\'ultima domenica del mese (conviene controllare sul sito ufficiale prima di andare).',
     erroriDaEvitare: [
       'Visitare il Guggenheim di lunedì senza controllare prima: il museo chiude quasi tutti i lunedì, tranne un\'estensione stagionale estiva',
-      'Trattare Bilbao come una tappa mordi-e-fuggi tra San Sebastián e la Cantabria: il Casco Viejo merita almeno una serata intera',
+      'Trattare Bilbao come una tappa mordi e fuggi fra San Sebastián e la Cantabria: il Casco Viejo merita almeno una serata intera',
       'Sottovalutare la pioggia: portarsi sempre un impermeabile leggero, indipendentemente dalla stagione',
     ],
     esperienzeSlugs: ['guggenheim-bilbao'],
@@ -279,31 +279,31 @@ export const destinazioniSpagna: Destinazione[] = [
     giorniConsigliati: '2-3 giorni per Santiago, più il tempo scelto per il tratto di Cammino',
     visitataPersonalmente: false,
     introduzione:
-      'La meta finale di tutti i Cammini di Santiago, con la Cattedrale che custodisce (secondo la tradizione) le reliquie dell\'apostolo Giacomo. Il Camino del Norte, la variante costiera che attraversa Paesi Baschi, Cantabria, Asturie e Galizia per circa 825-865 km da Irún, è meno battuto del Cammino Francese ma attraversa il paesaggio più vario di tutta la Spagna del Nord: scogliere atlantiche, spiagge, montagne e infine la Galizia verde e piovosa.',
+      'La meta finale di tutti i Cammini di Santiago: la Cattedrale custodisce, secondo la tradizione, le reliquie dell\'apostolo Giacomo. Il Camino del Norte è la variante costiera che da Irún attraversa Paesi Baschi, Cantabria, Asturie e Galizia per circa 825-865 km. È meno battuto del Cammino Francese e passa per i paesaggi più vari della Spagna del Nord: scogliere atlantiche, spiagge, montagne e alla fine la Galizia verde e piovosa.',
     percheAndarci:
-      'Perché anche solo un tratto di pochi giorni del Camino del Norte — per esempio lungo la costa cantabrica o asturiana — restituisce il paesaggio più autentico del Nord spagnolo, ben lontano dal caldo e dalla folla del sud, e Santiago de Compostela, alla fine, ha un\'atmosfera di arrivo che nessun\'altra città spagnola replica.',
+      'Anche pochi giorni sul Camino del Norte, per esempio lungo la costa cantabrica o asturiana, mostrano il Nord spagnolo vero, lontano dal caldo e dalla folla del sud. E Santiago de Compostela, alla fine, ha un\'atmosfera d\'arrivo che nessun\'altra città spagnola ha.',
     cosaVedere: [
-      'La Cattedrale di Santiago de Compostela, con il Pórtico da Gloria romanico e il celebre botafumeiro, l\'enorme turibolo che oscilla lungo la navata nelle messe principali',
+      'La Cattedrale di Santiago de Compostela, con il Pórtico da Gloria romanico e il botafumeiro, l\'enorme turibolo che oscilla lungo la navata nelle messe principali',
       'La Praza do Obradoiro, la piazza davanti alla facciata barocca della Cattedrale, punto d\'arrivo simbolico di tutti i Cammini',
-      'Il centro storico di Santiago, patrimonio UNESCO, con l\'università tra le più antiche di Spagna',
+      'Il centro storico di Santiago, patrimonio UNESCO, con una delle università più antiche di Spagna',
       'Lungo il Camino del Norte: San Sebastián e Bilbao (vedi le schede dedicate), Santander e Santillana del Mar in Cantabria, la Costa Verde asturiana intorno a Llanes e Gijón',
       'Il Museo delle Peregrinazioni a Santiago, per contestualizzare la storia del Cammino prima o dopo la visita alla Cattedrale',
     ],
     cosaFare: [
-      'Camminare un tratto del Camino del Norte, anche solo di pochi giorni: la costa tra San Sebastián e Bilbao o quella asturiana intorno a Llanes sono tra i tratti più scenici',
+      'Camminare un tratto del Camino del Norte, anche di pochi giorni: la costa fra San Sebastián e Bilbao e quella asturiana intorno a Llanes sono fra i tratti più belli',
       'Assistere a una messa del pellegrino a mezzogiorno nella Cattedrale di Santiago, quando in certe occasioni oscilla il botafumeiro',
       'Ritirare la Compostela, il certificato di pellegrinaggio, all\'Ufficio del Pellegrino, se si sono percorsi almeno gli ultimi 100 km a piedi (o 200 in bici)',
     ],
     doveDormire:
-      'A Santiago, il centro storico intorno alla Cattedrale. Lungo il Cammino: gli albergues (ostelli per pellegrini, spesso con letto a castello e prezzi molto bassi) sono l\'opzione più tradizionale; pensiones e piccoli hotel nei paesi costieri per chi preferisce più comfort.',
-    doveMangiare: 'In Galizia, il pulpo á feira (polpo bollito con paprika e olio, servito su piatto di legno) e i frutti di mare sono l\'istituzione gastronomica; lungo la costa cantabrica e asturiana, il pescato del giorno e la fabada asturiana (stufato di fagioli, chorizo e morcilla).',
+      'A Santiago, il centro storico intorno alla Cattedrale. Lungo il Cammino la scelta tradizionale sono gli albergues (ostelli per pellegrini, spesso con letti a castello e prezzi molto bassi); chi vuole più comodità trova pensiones e piccoli hotel nei paesi della costa.',
+    doveMangiare: 'In Galizia si mangiano il pulpo á feira (polpo bollito con paprika e olio, servito su un piatto di legno) e i frutti di mare; lungo la costa cantabrica e asturiana, il pescato del giorno e la fabada asturiana (stufato di fagioli, chorizo e morcilla).',
     comeArrivare: 'Aeroporto di Santiago-Rosalía de Castro, ben collegato con l\'Europa. Per iniziare un tratto del Camino del Norte: Irún (confine francese) o una qualsiasi delle tappe intermedie, raggiungibili in treno o bus dalle rispettive città (San Sebastián, Bilbao, Santander).',
     comeSpostarsi: 'A piedi lungo il Cammino, seguendo le frecce gialle e le conchiglie che segnano il percorso; a Santiago, il centro storico è interamente pedonale.',
     periodoMigliore:
-      'maggio-settembre per camminare, con giugno-luglio-inizio settembre come finestra più asciutta; il Cammino resta percorribile tutto l\'anno ma inverno e tarda autunno portano piogge frequenti e giornate corte.',
-    costi: 'Cattedrale e complesso museale variabile secondo le sezioni (alcune aree gratuite); un albergue lungo il Cammino tra 10 e 20€ a notte.',
+      'maggio-settembre per camminare; il periodo più asciutto va da giugno a inizio settembre. Il Cammino si può fare tutto l\'anno, ma in inverno e a fine autunno piove spesso e le giornate sono corte.',
+    costi: 'Cattedrale e complesso museale: il prezzo cambia secondo le sezioni (alcune aree sono gratuite); un albergue lungo il Cammino costa fra 10 e 20€ a notte.',
     erroriDaEvitare: [
-      'Sottovalutare il dislivello e il fondo del Camino del Norte: più impegnativo e meno infrastrutturato del Cammino Francese, con tratti di sentiero costiero esposti',
+      'Sottovalutare dislivello e fondo del Camino del Norte: è più impegnativo e meno attrezzato del Cammino Francese, con tratti di sentiero costiero esposti',
       'Non prenotare l\'albergue nei mesi di punta (giugno-settembre) lungo i tratti più popolari: i posti letto, soprattutto nei paesi piccoli, si esauriscono',
       'Arrivare a Santiago senza le credenziali del pellegrino timbrate lungo il percorso, se si vuole ottenere la Compostela',
     ],
@@ -323,9 +323,9 @@ export const destinazioniSpagna: Destinazione[] = [
     giorniConsigliati: '3-4 giorni',
     visitataPersonalmente: false,
     introduzione:
-      'La più grande e la più completa delle Baleari: Palma, una capitale vera con una cattedrale gotica sul mare, e la Serra de Tramuntana, la catena montuosa patrimonio UNESCO che corre per 90 km lungo la costa nord-occidentale — l\'anima "verde" dell\'isola che il turismo da spiaggia spesso ignora del tutto.',
+      'La più grande e la più completa delle Baleari. Ha Palma, una capitale vera con una cattedrale gotica sul mare, e la Serra de Tramuntana, la catena montuosa patrimonio UNESCO che corre per 90 km lungo la costa nord-occidentale: la parte verde dell\'isola, che chi viene per le spiagge spesso non vede.',
     percheAndarci:
-      'Perché offre, da sola, sia la vita da capitale mediterranea di Palma sia un paesaggio di montagna terrazzata che non ci si aspetterebbe alle Baleari: la Serra de Tramuntana è un paesaggio agricolo modellato dall\'uomo per secoli, dichiarato patrimonio culturale UNESCO nel 2011, non solo un\'attrazione naturale.',
+      'Sulla stessa isola ci sono la vita da capitale mediterranea di Palma e una montagna terrazzata che alle Baleari non ci si aspetta. La Serra de Tramuntana è un paesaggio agricolo modellato dall\'uomo per secoli, e per questo nel 2011 l\'UNESCO l\'ha dichiarata patrimonio culturale.',
     cosaVedere: [
       'La Cattedrale di Palma (La Seu), gotica, direttamente sul mare, con gli interventi di Antoni Gaudí all\'interno',
       'Il centro storico di Palma, con il Palazzo dell\'Almudaina e i vicoli del Barrio Gótico',
@@ -335,22 +335,22 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     cosaFare: [
       'Il trenino storico Palma-Sóller (in funzione dal 1912) attraverso la Serra de Tramuntana',
-      'Un tratto del GR221, il "Sentiero della Pietra a Secco" che attraversa la Serra: anche solo una tappa di poche ore rende l\'idea del paesaggio terrazzato',
+      'Un tratto del GR221, il «Sentiero della Pietra a Secco» che attraversa la Serra: basta una tappa di poche ore per capire il paesaggio terrazzato',
       'Perdersi nel centro storico di Palma la sera, quando il caldo cala e i vicoli si animano',
     ],
     confronti: [
       {
         titolo: 'Quale isola delle Baleari scegliere (o come dividerle tra più giorni)',
         introduzione:
-          'Mallorca, Ibiza e Minorca non sono varianti della stessa vacanza balearica: hanno carattere, ritmo e infrastrutture molto diversi tra loro. Prima di prenotare conviene sapere cosa distingue davvero le tre isole.',
+          'Mallorca, Ibiza e Minorca hanno carattere, ritmo e servizi molto diversi. Prima di prenotare conviene sapere cosa le distingue.',
         opzioni: [
           {
             nome: 'Mallorca',
             sintesi: 'La più grande e la più completa: una vera capitale (Palma), montagna (Serra de Tramuntana) e più tipi di costa diversi sulla stessa isola.',
             pro: [
-              'Offre di tutto: città, montagna, spiagge di più tipi, senza bisogno di spostarsi altrove',
+              'Ha città, montagna e spiagge di più tipi, senza bisogno di spostarsi altrove',
               'La rete di trasporti interna (treni, bus) è la più sviluppata delle tre isole',
-              'Meno legata all\'immagine da sola vita notturna rispetto a Ibiza',
+              'Meno legata di Ibiza all\'immagine della vita notturna',
             ],
             contro: [
               'La costa più turistica (Playa de Palma, Magaluf) è sovraffollata e poco rappresentativa del resto dell\'isola',
@@ -362,33 +362,33 @@ export const destinazioniSpagna: Destinazione[] = [
             nome: 'Ibiza',
             sintesi: 'Famosa per la vita notturna del sud (Ibiza Town, Playa d\'en Bossa, San Antonio), ma con un nord rurale e tranquillo (Sant Joan, Santa Gertrudis) completamente diverso.',
             pro: [
-              'La vita notturna resta la più famosa e varia d\'Europa, per chi la cerca',
-              'Il nord dell\'isola offre calette isolate, mercati artigianali e un\'atmosfera bohémien che pochi associano a Ibiza',
-              'Dalt Vila, la città vecchia fortificata, è patrimonio UNESCO ed è bellissima anche senza toccare la vita notturna',
+              'Per chi la cerca, la vita notturna resta la più famosa e varia d\'Europa',
+              'Il nord dell\'isola ha calette isolate, mercati artigianali e un\'aria bohémien che pochi associano a Ibiza',
+              'Dalt Vila, la città vecchia fortificata, è patrimonio UNESCO e merita anche a chi non cerca la vita notturna',
             ],
             contro: [
-              'La fama monotematica da clubbing scoraggia chi cerca altro, anche se ingiustamente',
+              'La fama di isola dei club scoraggia, a torto, chi cerca altro',
               'Prezzi tra i più alti delle tre isole in alta stagione, soprattutto nel sud',
             ],
             perChi: 'Chi vuole sia la vita notturna sia, volendo, un\'isola rurale e quasi silenziosa a pochi km di distanza.',
           },
           {
             nome: 'Minorca',
-            sintesi: 'La più piccola e la più tranquilla delle tre: bassa densità edilizia, spiagge meno affollate, ritmo volutamente più lento.',
+            sintesi: 'La più piccola e la più tranquilla delle tre: poco costruita, con spiagge meno affollate e un ritmo più lento per scelta.',
             pro: [
-              'Sviluppo turistico molto più contenuto di Mallorca e Ibiza: gran parte dell\'isola è riserva della biosfera UNESCO',
+              'Molto meno sviluppata di Mallorca e Ibiza: gran parte dell\'isola è riserva della biosfera UNESCO',
               'Le calette (per esempio Cala Macarelleta) restano tra le meno affollate delle Baleari',
-              'Il Camí de Cavalls, l\'antico sentiero costiero che circonda l\'isola, è perfetto per chi cerca escursioni tranquille',
+              'Il Camí de Cavalls, l\'antico sentiero costiero che gira intorno all\'isola, è adatto a chi cerca escursioni tranquille',
             ],
             contro: [
               'Vita notturna quasi assente, per chi la cerca',
               'Meno collegamenti diretti e più cara da raggiungere fuori stagione',
             ],
-            perChi: 'Chi vuole il contrario esatto di Ibiza: mare, natura e silenzio, senza rinunciare al comfort.',
+            perChi: 'Chi vuole l\'opposto di Ibiza: mare, natura e silenzio, senza rinunciare alle comodità.',
           },
         ],
         raccomandazione:
-          'Con una sola settimana, conviene sceglierne una sola invece di comprimerle tutte: Mallorca se si vuole un\'isola completa, Ibiza se interessano sia la vita notturna sia il nord rurale, Minorca se si cerca la versione più quieta delle Baleari. Con più tempo, i traghetti frequenti tra Mallorca e le altre due rendono facile combinarne due.',
+          'Con una settimana conviene sceglierne una invece di comprimerle tutte: Mallorca per un\'isola completa, Ibiza se interessano la vita notturna e il nord rurale, Minorca per le Baleari più quiete. Con più tempo, i traghetti frequenti fra Mallorca e le altre due rendono facile combinarne due.',
       },
     ],
     doveDormire: 'Palma per la vita cittadina; Sóller o Port de Sóller per la base ideale nella Serra de Tramuntana.',
@@ -396,9 +396,9 @@ export const destinazioniSpagna: Destinazione[] = [
     comeArrivare: 'Aeroporto di Palma di Son Sant Joan, uno dei più trafficati di Spagna in estate, con voli diretti da tutte le principali città italiane. Traghetto da Barcellona o Valencia (7-8 ore, o 4 ore con i traghetti veloci).',
     comeSpostarsi: 'Auto a noleggio consigliata per la Serra de Tramuntana; a Palma i mezzi pubblici bastano; il trenino storico per Sóller è un\'attrazione in sé oltre che un mezzo di trasporto.',
     periodoMigliore: 'maggio-giugno e settembre, con temperature gradevoli e meno folla di luglio-agosto, quando prezzi e afflusso turistico raggiungono il picco.',
-    costi: 'Cattedrale di Palma circa 10€; trenino storico per Sóller circa 32€ andata e ritorno; il noleggio auto in alta stagione può essere significativamente più caro che nel resto dell\'anno.',
+    costi: 'Cattedrale di Palma circa 10€; trenino storico per Sóller circa 32€ andata e ritorno; in alta stagione il noleggio auto può costare molto di più che nel resto dell\'anno.',
     erroriDaEvitare: [
-      'Limitarsi alla costa turistica di Palma (Playa de Palma, S\'Arenal) e non vedere mai la Serra de Tramuntana: è come andare a Roma senza vedere altro che l\'aeroporto',
+      'Limitarsi alla costa turistica di Palma (Playa de Palma, S\'Arenal) senza mai vedere la Serra de Tramuntana: è come andare a Roma e vedere solo l\'aeroporto',
       'Guidare sulle strade a tornanti della Serra senza mettere in conto tempi più lunghi del previsto',
       'Prenotare voli e traghetti per luglio-agosto senza anticipo: è il periodo di massima domanda e i prezzi salgono di conseguenza',
     ],
@@ -416,15 +416,15 @@ export const destinazioniSpagna: Destinazione[] = [
     giorniConsigliati: '3-4 giorni',
     visitataPersonalmente: false,
     introduzione:
-      'Ibiza è due isole in una, e trattarla solo come la capitale mondiale della vita notturna è la semplificazione più comune e più ingiusta che si possa fare: il sud (Ibiza Town, Playa d\'en Bossa, San Antonio) è davvero il centro di una scena clubbing che non ha pari in Europa, ma il nord (Sant Joan de Labritja, Santa Gertrudis) è rurale, tranquillo e quasi hippie, con calette isolate e mercati artigianali.',
+      'Ibiza sono due isole in una, e ridurla a capitale mondiale della vita notturna è la semplificazione più comune. Il sud (Ibiza Town, Playa d\'en Bossa, San Antonio) è il centro di una scena clubbing senza pari in Europa; il nord (Sant Joan de Labritja, Santa Gertrudis) è rurale, tranquillo e quasi hippie, con calette isolate e mercati artigianali.',
     percheAndarci:
-      'Perché, a seconda di dove ci si ferma, si può avere l\'Ibiza da club fino all\'alba o l\'Ibiza da caletta silenziosa e mercato biologico la domenica mattina — e la parte spesso trascurata dalle guide (il nord) è quella che restituisce il carattere più autentico dell\'isola.',
+      'A seconda di dove ci si ferma, si ha l\'Ibiza dei club fino all\'alba o quella delle calette silenziose e del mercato biologico la domenica mattina. Il nord, che le guide spesso trascurano, è la parte che mostra meglio il carattere dell\'isola.',
     cosaVedere: [
       'Dalt Vila, la città alta fortificata di Ibiza Town, patrimonio UNESCO, con le mura rinascimentali e vicoli medievali',
       'Le grandi discoteche del sud (Pacha, Amnesia, Ushuaïa), simbolo mondiale della cultura clubbing dagli anni \'80-\'90 a oggi',
       'Il nord rurale intorno a Sant Joan de Labritja: calette come Cala Xarraca e Cala Sant Vicent, e Benirràs, famosa per i tamburi al tramonto della domenica',
       'Santa Gertrudis de Fruitera, il paese al centro dell\'isola con caffè, gallerie d\'arte e un\'atmosfera rilassata',
-      'Il mercato hippie di Las Dalias (a Sant Carles) e il mercato del sabato di Sant Joan, tra i più autentici e meno commerciali dell\'isola',
+      'Il mercato hippie di Las Dalias (a Sant Carles) e il mercato del sabato di Sant Joan, fra i meno commerciali dell\'isola',
     ],
     cosaFare: [
       'Un giro tra le calette del nord (Cala Xarraca, Cala Sant Vicent) come contrappunto silenzioso alla scena del sud',
@@ -433,14 +433,14 @@ export const destinazioniSpagna: Destinazione[] = [
       'Per chi cerca la vita notturna, una serata in uno dei club storici, prenotando con largo anticipo in alta stagione',
     ],
     doveDormire: 'Ibiza Town/Dalt Vila per la vita cittadina e la vicinanza ai club del sud; Santa Gertrudis o Sant Joan per la versione tranquilla dell\'isola, con spostamenti in auto per raggiungere le spiagge.',
-    doveMangiare: 'Il bullit de peix (zuppa di pesce con riso a parte) è il piatto tradizionale dell\'isola; nel nord, i piccoli ristoranti di campagna intorno a Santa Gertrudis e San Juan offrono una cucina più genuina e meno cara di quella del porto.',
+    doveMangiare: 'Il bullit de peix (zuppa di pesce con riso a parte) è il piatto tradizionale dell\'isola; nel nord, i piccoli ristoranti di campagna intorno a Santa Gertrudis e San Juan hanno una cucina più semplice e meno cara di quella del porto.',
     comeArrivare: 'Aeroporto di Ibiza, con voli diretti stagionali dall\'Italia in alta stagione; traghetto da Mallorca (Palma-Ibiza, circa 2h15-5h secondo il tipo di nave) o da Barcellona/Valencia.',
     comeSpostarsi: 'Auto o scooter a noleggio quasi indispensabili per raggiungere il nord dell\'isola e le calette più isolate; bus locali collegano i centri principali ma con frequenze limitate fuori stagione.',
     periodoMigliore:
-      'giugno e settembre per un buon compromesso tra clima e affollamento; luglio-agosto è il picco assoluto per prezzi e vita notturna, con il sud molto affollato; il nord resta relativamente tranquillo anche in alta stagione.',
+      'giugno e settembre, il compromesso migliore fra clima e folla. Luglio-agosto è il picco di prezzi e vita notturna, con il sud pieno; il nord resta abbastanza tranquillo anche in alta stagione.',
     costi: 'Molto variabile: un ingresso ai grandi club può superare i 60-100€ in alta stagione, mentre una giornata nel nord tra spiagge libere e un pranzo semplice costa una frazione di quella cifra.',
     erroriDaEvitare: [
-      'Ridurre Ibiza alla sola vita notturna e non vedere mai il nord dell\'isola: è la parte che più sorprende chi arriva con l\'idea preconfezionata dell\'isola dei club',
+      'Ridurre Ibiza alla vita notturna senza mai vedere il nord: è la parte che sorprende di più chi arriva con l\'idea dell\'isola dei club',
       'Prenotare gli ingressi ai grandi club last minute in alta stagione: i migliori eventi si esauriscono con giorni o settimane di anticipo',
       'Muoversi solo a piedi o affidarsi solo ai bus: senza un mezzo proprio buona parte del nord e delle calette più belle resta fuori portata',
     ],
@@ -458,15 +458,15 @@ export const destinazioniSpagna: Destinazione[] = [
     giorniConsigliati: '2-3 giorni',
     visitataPersonalmente: false,
     introduzione:
-      'La più piccola e, dichiaratamente, la più tranquilla delle tre isole maggiori delle Baleari: gran parte del territorio è Riserva della Biosfera UNESCO, lo sviluppo edilizio è rimasto contenuto per scelta politica fin dagli anni \'80, e le calette restano tra le meno affollate di tutto l\'arcipelago.',
+      'La più piccola e la più tranquilla delle tre isole maggiori delle Baleari. Gran parte del territorio è Riserva della Biosfera UNESCO, dagli anni \'80 si costruisce poco per scelta politica e le calette restano fra le meno affollate dell\'arcipelago.',
     percheAndarci:
-      'Perché è la Baleari giusta per chi ha già sentito parlare di Mallorca e Ibiza e cerca, deliberatamente, il contrario: niente grandi resort, niente club, un\'isola dove il Camí de Cavalls, l\'antico sentiero costiero che la circonda per intero, resta il modo più onesto di conoscerla.',
+      'È l\'isola giusta per chi conosce la fama di Mallorca e Ibiza e cerca il contrario: niente grandi resort né club. Il modo migliore per conoscerla resta il Camí de Cavalls, l\'antico sentiero costiero che le gira tutto intorno.',
     cosaVedere: [
       'Ciutadella, l\'ex capitale, con il porto vecchio e la Cattedrale gotica dentro le mura',
       'Mahón (Maó), la capitale attuale, con uno dei porti naturali più profondi del Mediterraneo',
       'Il Camí de Cavalls, il sentiero costiero di circa 185 km che circonda l\'intera isola, percorribile a tappe',
       'Cala Macarelleta e Cala Turqueta, tra le calette più fotografate e meno sviluppate delle Baleari',
-      'I siti megalitici talayotici (taulas e navetas), testimonianza di una civiltà preistorica unica dell\'isola, patrimonio UNESCO dal 2023',
+      'I siti megalitici talayotici (taulas e navetas), lasciati da una civiltà preistorica propria dell\'isola, patrimonio UNESCO dal 2023',
     ],
     cosaFare: [
       'Percorrere una o più tappe del Camí de Cavalls, dalle più semplici vicino a Ciutadella a quelle più selvagge della costa nord',
@@ -476,11 +476,11 @@ export const destinazioniSpagna: Destinazione[] = [
     doveDormire: 'Ciutadella per l\'atmosfera storica e il porto vecchio; Mahón per la capitale e i collegamenti; le zone costiere sud per chi punta soprattutto sulle calette.',
     doveMangiare: 'La caldereta de langosta (zuppa di aragosta, piatto simbolo dell\'isola, non economico) e il formaggio Mahón-Menorca DOP, tra i più noti di Spagna.',
     comeArrivare: 'Aeroporto di Mahón, con voli stagionali diretti dall\'Italia in alta stagione. Traghetto da Mallorca: Alcúdia-Ciutadella (1-2h30) o Palma-Mahón (circa 6h).',
-    comeSpostarsi: 'Auto a noleggio quasi indispensabile: i bus collegano i centri principali ma non le calette più isolate, che restano il vero motivo per venire qui.',
+    comeSpostarsi: 'L\'auto a noleggio è quasi indispensabile: i bus collegano i centri principali ma non le calette più isolate, che sono il motivo per venire qui.',
     periodoMigliore: 'giugno e settembre, con temperature piacevoli e meno folla; l\'isola resta più tranquilla di Mallorca e Ibiza anche in piena estate, grazie al minor sviluppo turistico.',
-    costi: 'In generale leggermente meno cara di Ibiza in alta stagione; il noleggio auto e i traghetti restano le voci principali del budget.',
+    costi: 'In alta stagione costa in genere un po\' meno di Ibiza; noleggio auto e traghetti sono le voci principali del budget.',
     erroriDaEvitare: [
-      'Aspettarsi la vita notturna o l\'infrastruttura turistica di Ibiza o Mallorca: Minorca è deliberatamente un\'altra cosa',
+      'Aspettarsi la vita notturna o i servizi turistici di Ibiza o Mallorca: Minorca ha scelto un\'altra strada',
       'Provare a vedere tutta l\'isola in un solo giorno: le calette migliori richiedono spostamenti su strade secondarie, spesso non asfaltate negli ultimi tratti',
       'Andarci senza auto, contando solo sui bus: gran parte del fascino dell\'isola sta nelle calette raggiungibili solo su strada propria o a piedi',
     ],
@@ -500,27 +500,27 @@ export const destinazioniSpagna: Destinazione[] = [
     giorniConsigliati: '3-4 giorni',
     visitataPersonalmente: false,
     introduzione:
-      'La più grande delle Canarie e sede del Teide, il vulcano più alto di Spagna (3.715 metri) e la terza struttura vulcanica più alta del mondo dalla sua base sul fondale oceanico. Il Parco Nazionale del Teide, patrimonio UNESCO, è un paesaggio lunare di colate laviche e formazioni rocciose uniche al mondo, mentre il Parco Rurale di Anaga, all\'estremo nord, è una foresta laurifoglia relitto dell\'era terziaria, dichiarata riserva della biosfera nel 2015.',
+      'La più grande delle Canarie. Qui c\'è il Teide, il vulcano più alto di Spagna (3.715 metri) e, misurato dalla base sul fondale oceanico, la terza struttura vulcanica più alta del mondo. Il Parco Nazionale del Teide, patrimonio UNESCO, è un paesaggio lunare di colate di lava e formazioni rocciose che non si trovano altrove. All\'estremo nord il Parco Rurale di Anaga è una foresta laurifoglia sopravvissuta dall\'era terziaria, riserva della biosfera dal 2015.',
     percheAndarci:
-      'Per il Teide, punto più alto della Spagna e osservatorio tra i migliori al mondo per l\'astronomia grazie al cielo limpido dell\'altitudine, ma anche per il contrasto totale con Anaga, a poche decine di km, dove la nebbia degli alisei crea una foresta primordiale coperta di muschio e licheni.',
+      'Per il Teide, il punto più alto della Spagna e, grazie al cielo limpido in quota, uno dei migliori osservatori astronomici al mondo. E per il contrasto con Anaga, a poche decine di km, dove la nebbia degli alisei alimenta una foresta primordiale coperta di muschio e licheni.',
     cosaVedere: [
       'Il Parco Nazionale del Teide, con la funivia che sale fino a 3.555 metri e il paesaggio lunare di Las Cañadas, la grande caldera che lo circonda',
       'Il Parco Rurale di Anaga, riserva della biosfera UNESCO, con sentieri tra la foresta laurifoglia e villaggi isolati come Taganana',
       'La Laguna, l\'antica capitale dell\'isola, patrimonio UNESCO per il suo impianto urbanistico rinascimentale non fortificato',
       'Puerto de la Cruz e i suoi giardini botanici sulla costa nord, più verde e meno sviluppata turisticamente della costa sud',
-      'Los Gigantes, le imponenti falesie a picco sull\'Atlantico sulla costa ovest',
+      'Los Gigantes, le alte falesie a picco sull\'Atlantico, sulla costa ovest',
     ],
     cosaFare: [
       'Prenotare per tempo il biglietto della funivia del Teide e, separatamente, il permesso gratuito per l\'ultimo tratto a piedi fino alla vetta (vedi la scheda esperienza dedicata)',
       'Un\'escursione nel Parco Rurale di Anaga, per esempio da Cruz del Carmen a Taganana',
-      'Osservazione delle stelle: Tenerife è uno dei migliori punti al mondo per lo stargazing grazie alla Legge del Cielo che protegge l\'isola dall\'inquinamento luminoso',
+      'Osservare le stelle: Tenerife è uno dei posti migliori al mondo, grazie alla Legge del Cielo che protegge l\'isola dall\'inquinamento luminoso',
     ],
-    doveDormire: 'Puerto de la Cruz per la costa nord, più verde e autentica; Costa Adeje o Los Cristianos per la costa sud, più soleggiata e turistica, comoda per chi punta soprattutto sul mare.',
+    doveDormire: 'Puerto de la Cruz per la costa nord, più verde e meno turistica; Costa Adeje o Los Cristianos per la costa sud, più soleggiata e turistica, comoda per chi punta sul mare.',
     doveMangiare: 'Le papas arrugadas (patate piccole bollite in acqua molto salata) con mojo rojo e mojo verde (salse piccanti, l\'una a base di peperone, l\'altra di coriandolo o prezzemolo) sono il piatto simbolo di tutte le Canarie; il gofio, farina tostata di cereali di origine guanche, compare in mille varianti.',
     comeArrivare: 'Due aeroporti: Tenerife Sur (TFS), il principale per i voli internazionali e la costa turistica sud, e Tenerife Norte (TNO), più vicino a Santa Cruz e La Laguna.',
     comeSpostarsi: 'Auto a noleggio consigliata per raggiungere il Teide e Anaga; tram tra Santa Cruz e La Laguna; bus (guaguas) capillari ma con tempi lunghi verso le zone di montagna.',
     periodoMigliore:
-      'tutto l\'anno, grazie al clima mite costante (16-21°C anche a gennaio): è la ragione pratica per cui le Canarie sono la meta spagnola giusta proprio in inverno, quando il resto d\'Europa è freddo. In quota, al Teide, le temperature restano più basse e la neve non è rara in inverno.',
+      'tutto l\'anno, col clima mite e costante (16-21°C anche a gennaio): per questo le Canarie sono la meta spagnola giusta in inverno, quando il resto d\'Europa è al freddo. In quota, al Teide, fa più freddo e d\'inverno la neve non è rara.',
     costi: 'Funivia del Teide circa 40€ andata e ritorno; il permesso per la vetta è gratuito ma a numero chiuso (200 persone al giorno, prenotabile fino a 56 giorni prima).',
     erroriDaEvitare: [
       'Salire al Teide senza aver prenotato il permesso per la vetta con largo anticipo: la funivia da sola non dà accesso all\'ultimo tratto, regolamentato a parte',
@@ -541,13 +541,13 @@ export const destinazioniSpagna: Destinazione[] = [
     giorniConsigliati: '2-3 giorni',
     visitataPersonalmente: false,
     introduzione:
-      'Chiamata "un continente in miniatura" per la varietà di microclimi e paesaggi che racchiude in appena 1.560 km²: le dune di sabbia di Maspalomas a sud, quasi sahariane, e il centro montuoso intorno al Roque Nublo, a oltre 1.800 metri, dove il clima è quello di una media montagna europea.',
+      'La chiamano «un continente in miniatura» per i tanti microclimi e paesaggi chiusi in appena 1.560 km². A sud ci sono le dune quasi sahariane di Maspalomas; al centro le montagne intorno al Roque Nublo, a oltre 1.800 metri, con il clima di una media montagna europea.',
     percheAndarci:
-      'Perché in una sola isola, e in un\'unica giornata di spostamenti, si passa dalle dune desertiche del sud ai pini canari delle montagne centrali, in un contrasto di paesaggi che nessun\'altra delle Canarie racchiude in uno spazio così piccolo.',
+      'In una sola giornata di strada si passa dalle dune desertiche del sud ai pini canari delle montagne centrali: nessun\'altra isola delle Canarie ha paesaggi così diversi in così poco spazio.',
     cosaVedere: [
       'Le Dune di Maspalomas, riserva naturale di dune di sabbia mobile sulla costa sud, con la vicina spiaggia di Playa del Inglés',
       'Las Palmas de Gran Canaria, la capitale, con il centro storico di Vegueta e la casa-museo di Cristoforo Colombo',
-      'Il Roque Nublo, la formazione rocciosa vulcanica simbolo dell\'isola, raggiungibile con un\'escursione di poche ore dal Centro dell\'isola',
+      'Il Roque Nublo, la roccia vulcanica simbolo dell\'isola, raggiungibile con un\'escursione di poche ore dal centro dell\'isola',
       'Il Barranco de Guayadeque, un canyon abitato fin dai tempi preispanici, con case-grotta ancora abitate',
       'Puerto de Mogán, il paese-porto sud-occidentale con i canali navigabili che gli valgono il soprannome di "piccola Venezia"',
     ],
@@ -560,10 +560,10 @@ export const destinazioniSpagna: Destinazione[] = [
     doveMangiare: 'Come nel resto delle Canarie, papas arrugadas con mojo e gofio; a Las Palmas, il Mercado de Vegueta è il posto giusto per un primo assaggio della cucina locale tra i banchi.',
     comeArrivare: 'Aeroporto di Gran Canaria (LPA), a circa 30 km da Las Palmas e vicino alla costa sud turistica. Volo interno da Tenerife in circa 30-40 minuti, oppure traghetto (circa 1h30-2h30 secondo la tratta).',
     comeSpostarsi: 'Auto a noleggio per raggiungere il centro montuoso; bus efficienti lungo la costa tra Las Palmas e Maspalomas.',
-    periodoMigliore: 'tutto l\'anno, con lo stesso clima mite costante del resto delle Canarie; il centro montuoso, più fresco, è più godibile nei mesi più caldi dell\'anno sulla costa.',
+    periodoMigliore: 'tutto l\'anno, con lo stesso clima mite del resto delle Canarie; le montagne del centro, più fresche, sono piacevoli nei mesi in cui la costa è più calda.',
     costi: 'Nel complesso simile al resto delle Canarie, con Las Palmas leggermente più economica delle zone turistiche del sud.',
     erroriDaEvitare: [
-      'Restare solo sulla costa sud e non salire mai verso il centro montuoso: è la parte che rende l\'isola davvero "un continente in miniatura"',
+      'Restare sulla costa sud senza mai salire verso le montagne del centro: è la parte che fa dell\'isola «un continente in miniatura»',
       'Sottovalutare il sole sulle dune di Maspalomas: poca ombra, conviene evitare le ore centrali della giornata',
     ],
     esperienzeSlugs: [],
@@ -580,9 +580,9 @@ export const destinazioniSpagna: Destinazione[] = [
     giorniConsigliati: '2-3 giorni',
     visitataPersonalmente: false,
     introduzione:
-      'L\'isola più vulcanica e più unica delle Canarie: eruzioni tra il 1730 e il 1736 hanno ricoperto un quarto della sua superficie di lava, creando il paesaggio di Timanfaya. Dal 1993 l\'intera isola — non solo un\'area — è Riserva della Biosfera UNESCO, prima Canaria a ottenere questo riconoscimento su tutto il territorio. È anche l\'isola dove l\'architettura e l\'urbanistica portano il segno indelebile di un solo artista, César Manrique.',
+      'L\'isola più vulcanica delle Canarie: fra il 1730 e il 1736 le eruzioni hanno coperto di lava un quarto della superficie e creato il paesaggio di Timanfaya. Dal 1993 tutta l\'isola è Riserva della Biosfera UNESCO, la prima delle Canarie ad averla su tutto il territorio. Architettura e urbanistica portano il segno di un solo artista, César Manrique.',
     percheAndarci:
-      'Per Timanfaya, un paesaggio lunare che si visita solo in pullman guidato (non si può camminare liberamente sulla lava) con dimostrazioni geotermiche dal vivo, e per capire come un\'intera isola possa essere plasmata dalla visione di un solo architetto-artista, che impose il divieto di cartelloni pubblicitari e di edifici più alti delle palme, un\'eredità che regge ancora oggi.',
+      'Per Timanfaya, un paesaggio lunare che si visita solo in pullman guidato (sulla lava non si cammina liberamente), con dimostrazioni geotermiche dal vivo. E per vedere come un\'isola intera sia stata modellata da un solo architetto-artista, che vietò i cartelloni pubblicitari e gli edifici più alti delle palme: regole che valgono ancora oggi.',
     cosaVedere: [
       'Il Parco Nazionale di Timanfaya, con la Ruta de los Volcanes in pullman guidato e le dimostrazioni geotermiche all\'Islote del Hilario',
       'I Jameos del Agua, un tubo di lava trasformato da César Manrique in un centro artistico con laghetto naturale e un piccolo crostaceo cieco endemico',
@@ -593,20 +593,20 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     cosaFare: [
       'La Ruta de los Volcanes a Timanfaya, restando sempre a bordo del pullman per motivi di sicurezza e tutela del suolo ancora caldo pochi metri sotto la superficie',
-      'Un giro tra le opere di César Manrique (Jameos del Agua, Mirador del Río, Jardín de Cactus), che da sole raccontano l\'identità visiva dell\'isola',
+      'Un giro fra le opere di César Manrique (Jameos del Agua, Mirador del Río, Jardín de Cactus), che da sole spiegano l\'aspetto dell\'isola',
       'Degustazione di vino nella Geria, tra le vigne scavate nella cenere vulcanica',
       'Traghetto per una gita in giornata a La Graciosa, l\'isolotto disabitato di auto a nord di Lanzarote',
     ],
     doveDormire: 'Arrecife, la capitale, per i collegamenti; Playa Blanca a sud o Puerto del Carmen per chi punta sul mare, entrambe con edifici bassi per via delle regole urbanistiche volute da Manrique.',
-    doveMangiare: 'Come nel resto delle Canarie, papas arrugadas e mojo; i vini della Geria, in particolare il malvasía volcánico, sono un\'esperienza a sé, coltivati in un paesaggio che non ha equivalenti altrove.',
+    doveMangiare: 'Come nel resto delle Canarie, papas arrugadas e mojo. I vini della Geria, in particolare il malvasía volcánico, vengono da vigne che non hanno equivalenti altrove e meritano un assaggio a parte.',
     comeArrivare: 'Aeroporto di Lanzarote (ACE), vicino ad Arrecife. Volo interno dalle altre Canarie o traghetto da Gran Canaria/Fuerteventura.',
-    comeSpostarsi: 'Auto a noleggio quasi indispensabile: le distanze tra i punti di interesse sono maggiori che sulle altre isole minori e i bus, pur presenti, hanno frequenze limitate.',
+    comeSpostarsi: 'L\'auto a noleggio è quasi indispensabile: le distanze fra i luoghi da vedere sono maggiori che sulle altre isole minori e i bus ci sono, ma passano di rado.',
     periodoMigliore: 'tutto l\'anno, con lo stesso clima mite delle altre Canarie; Timanfaya, esposta al sole su terreno scuro, è più comoda da visitare nelle ore più fresche della giornata.',
     costi: 'Timanfaya circa 12-18€ con bus incluso; Jameos del Agua e Cueva de los Verdes circa 10-12€ ciascuno; un biglietto combinato per più siti di Manrique conviene quasi sempre a chi li vede tutti.',
     erroriDaEvitare: [
       'Scendere dal pullman o allontanarsi dai percorsi segnati a Timanfaya: è vietato per sicurezza (il suolo resta caldo a pochi metri di profondità) e per tutela ambientale',
       'Sottovalutare le distanze tra un sito e l\'altro: Lanzarote è più estesa di quanto sembri sulla carta e le strade, per quanto buone, richiedono tempo',
-      'Visitare i siti di Manrique come semplici attrazioni isolate, senza coglierne il filo comune: sono pensati come un unico discorso sull\'integrazione tra architettura e paesaggio vulcanico',
+      'Visitare i siti di Manrique come attrazioni separate, senza coglierne il filo comune: sono pensati come un unico progetto che unisce architettura e paesaggio vulcanico',
     ],
     esperienzeSlugs: ['timanfaya-ruta-volcanes'],
     tripSlugs: ['canarie-itinerario'],

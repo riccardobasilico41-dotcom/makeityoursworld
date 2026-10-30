@@ -85,8 +85,8 @@ export const cinaClassicaMeta: TripMeta = {
       intensita: 'medio',
       costiNoti: 'Tempio del Cielo e Palazzo d\'Estate 30-60 yuan con biglietto combinato',
       destinazioneSlug: 'pechino',
-      immagine: '/images/viaggi/cina-classica/giorno-4-tempio-del-cielo.jpg',
-      imageAlt: 'La Sala della Preghiera per il Buon Raccolto nel Tempio del Cielo, con il suo tetto circolare a tre livelli',
+      immagine: '/images/cina/pechino-tempio-del-cielo-riccardo.jpg',
+      imageAlt: 'I tetti circolari blu e oro della Sala della Preghiera per il Buon Raccolto, nel Tempio del Cielo di Pechino, contro il cielo azzurro',
     },
     {
       titoloGiorno: 'Giorno 5 — Treno per Xi\'an e mura in bicicletta',

@@ -20,21 +20,10 @@ export const creditiMeraviglie: Record<string, CreditoImmagine> = {
     licenza: 'CC BY-SA 4.0',
     fonteUrl: 'https://commons.wikimedia.org/wiki/File:The_Mutianyu_section_of_the_Great_Wall_of_China.jpg',
   },
-  petra: {
-    autore: 'Carole Raddato',
-    licenza: 'CC BY-SA 2.0',
-    fonteUrl:
-      "https://commons.wikimedia.org/wiki/File:The_first_glimpse_of_Petra%27s_Treasury_(Al-Khazneh)_upon_exiting_the_Siq,_Petra,_Jordan_(34364806926).jpg",
-  },
   'cristo-redentore': {
     autore: 'Gustavo Facci',
     licenza: 'CC BY-SA 2.0',
     fonteUrl: 'https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Statue_of_Christ_the_Redeemer.jpg',
-  },
-  'machu-picchu': {
-    autore: 'Diego Delso',
-    licenza: 'CC BY-SA 4.0',
-    fonteUrl: 'https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Per%C3%BA,_2015-07-30,_DD_47.JPG',
   },
   'chichen-itza': {
     autore: 'Fcb981 (Eric Baetscher)',
@@ -45,10 +34,5 @@ export const creditiMeraviglie: Record<string, CreditoImmagine> = {
     autore: 'Christoph Strässler',
     licenza: 'CC BY-SA 2.0',
     fonteUrl: 'https://commons.wikimedia.org/wiki/File:Colosseum,_Rome,_Italy.jpg',
-  },
-  'taj-mahal': {
-    autore: 'Aiwok',
-    licenza: 'CC BY-SA 3.0 / 2.5 / 2.0 / 1.0 / GFDL 1.2+',
-    fonteUrl: 'https://commons.wikimedia.org/wiki/File:Taj_Mahal_Spiegel.JPG',
   },
 }

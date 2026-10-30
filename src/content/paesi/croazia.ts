@@ -26,7 +26,7 @@ export const croazia: Paese = {
     valuta: 'Euro dal 1° gennaio 2023.',
     pagamenti:
       'Carte e contactless accettati quasi ovunque. Contanti utili per piccoli bar sulle isole, mercati e affittacamere. Evitare i bancomat indipendenti con commissioni alte e rifiutare la conversione nella valuta di casa.',
-    connettivita: 'Roaming "come a casa" dell\'Unione Europea con le SIM italiane. Copertura buona sulla costa e sulle isole principali.',
+    connettivita: 'Roaming «come a casa» dell\'Unione Europea con le SIM italiane. Copertura buona sulla costa e sulle isole principali.',
     salute:
       'Tessera sanitaria europea (TEAM) valida nelle strutture pubbliche. Nessuna vaccinazione richiesta. Attenzione a caldo e sole d\'estate e ai ricci di mare sugli scogli.',
     sicurezza:

@@ -24,7 +24,7 @@ export const destinazioniBolivia: Destinazione[] = [
     introduzione:
       'La sede del governo più alta del mondo, incastrata in un canyon a 3.600 metri con El Alto che la sovrasta a oltre 4.000. Ci si muove con una rete di teleferiche urbane che è insieme trasporto pubblico e miglior punto panoramico della città.',
     percheAndarci:
-      'Perché è la base per la Carretera de la Muerte e per il Titicaca, e perché la città stessa — mercati di strada, quartieri verticali, il contrasto tra il centro e El Alto — è una delle più particolari del continente.',
+      'Perché è la base per la Carretera de la Muerte e per il Titicaca, e perché la città stessa, con i mercati di strada, i quartieri verticali e il contrasto tra il centro e El Alto, è una delle più particolari del continente.',
     cosaVedere: [
       'Mi Teleférico, la rete di funivie urbane: la linea rossa e quella gialla danno la vista migliore sulla conca',
       'Il Mercado de las Brujas, il mercato delle streghe, con i rimedi tradizionali aymara',
@@ -33,14 +33,14 @@ export const destinazioniBolivia: Destinazione[] = [
       'Il Nevado Illimani che chiude l\'orizzonte a 6.438 metri',
     ],
     cosaFare: [
-      'Scendere la Carretera de la Muerte in mountain bike — vedi la scheda esperienza dedicata',
+      'Scendere la Carretera de la Muerte in mountain bike (vedi la scheda esperienza dedicata)',
       'Salire in teleferica all\'ora del tramonto, quando la conca si illumina',
       'Assistere a un incontro di cholitas luchadoras, il wrestling delle donne aymara a El Alto',
       'Escursione al Chacaltaya, l\'ex stazione sciistica più alta del mondo, oggi senza ghiacciaio',
     ],
     doveDormire: 'Sopocachi per i ristoranti e la vita serale, zona San Pedro e centro per i prezzi bassi e la comodità alle agenzie.',
     doveMangiare:
-      'A La Paz si mangia per strada meglio che al ristorante: salteñas a metà mattina (è un\'abitudine locale, non una colazione), api con pastel, e le zuppe dei mercati coperti. Nella zona di Sopocachi c\'è l\'offerta più curata della città.',
+      'A La Paz si mangia per strada meglio che al ristorante: salteñas a metà mattina (è un\'abitudine locale: a colazione non si mangiano), api con pastel, e le zuppe dei mercati coperti. Nella zona di Sopocachi c\'è l\'offerta più curata della città.',
     comeArrivare:
       'Volo internazionale su El Alto (LPB), uno degli aeroporti più alti del mondo a oltre 4.000 metri: si passa dal livello del mare alla quota massima in poche ore, con effetti che si sentono subito. Via terra, bus da Copacabana (circa 4 ore) o da Cusco passando dal Titicaca.',
     comeSpostarsi: 'Mi Teleférico per gli spostamenti lunghi, taxi radio per il resto. Evitare i taxi non ufficiali, soprattutto la sera.',
@@ -52,7 +52,7 @@ export const destinazioniBolivia: Destinazione[] = [
       'Girare con oggetti di valore in vista nei mercati affollati',
     ],
     miaEsperienza:
-      'Atterrare a El Alto è uno shock fisico che quasi nessuno mette in conto: si scende dall\'aereo a più di quattromila metri e il corpo se ne accorge prima ancora di uscire dal terminal. La Paz è poi la città più strana del continente, costruita dentro una conca con i quartieri poveri in alto e quelli ricchi in basso — l\'opposto di ogni altra città al mondo, e per una ragione precisa: più si scende, più si respira. Le teleferiche urbane sono la cosa da consigliare a chiunque, costano pochi centesimi e danno la vista migliore sulla conca. Il problema vero della Bolivia, però, sono i blocchi stradali: vanno messi in conto nell\'itinerario, non trattati come eventualità remota.',
+      'Atterrare a El Alto è uno shock fisico che quasi nessuno mette in conto: siamo scesi dall\'aereo a più di quattromila metri e il corpo se n\'è accorto prima ancora di uscire dal terminal. La Paz è la città più strana del continente, costruita dentro una conca con i quartieri poveri in alto e quelli ricchi in basso. È l\'opposto di ogni altra città al mondo, e per una ragione precisa: più si scende, più si respira. Le teleferiche urbane le consiglio a chiunque: costano pochi centesimi e danno la vista migliore sulla conca. Il problema vero della Bolivia sono i blocchi stradali, da mettere in conto nell\'itinerario come un rischio concreto.',
     esperienzeSlugs: ['carretera-de-la-muerte'],
     tripSlugs: ['bolivia-itinerario'],
     imageAlt: 'Il Nevado Illimani innevato che domina la conca di La Paz al tramonto, Bolivia',
@@ -69,7 +69,7 @@ export const destinazioniBolivia: Destinazione[] = [
     introduzione:
       'La distesa di sale più grande del mondo, oltre 10.000 km quadrati a 3.650 metri di quota, e il suo naturale prolungamento verso sud: le lagune colorate, i geyser e i deserti d\'alta quota del Sud Lípez, fino al confine cileno.',
     percheAndarci:
-      'Perché non somiglia a nient\'altro, e perché il tour di tre giorni in 4x4 attraversa in sequenza salar, lagune rosse e verdi, geyser a 5.000 metri e terme all\'aperto: una concentrazione di paesaggi che raramente si trova in così poco spazio.',
+      'Perché non somiglia a nient\'altro, e perché il tour di tre giorni in 4x4 attraversa in sequenza salar, lagune rosse e verdi, geyser a 5.000 metri e terme all\'aperto: difficile trovare tanti paesaggi diversi in così poco spazio.',
     cosaVedere: [
       'Il salar vero e proprio, con i poligoni di sale a perdita d\'occhio',
       'Isla Incahuasi, l\'isola di roccia coperta di cactus giganti in mezzo alla distesa bianca',
@@ -91,7 +91,7 @@ export const destinazioniBolivia: Destinazione[] = [
       'Volo da La Paz a Uyuni (circa un\'ora, la soluzione più comoda) oppure bus notturno da La Paz, Sucre o Potosí. Molti arrivano anche da San Pedro de Atacama, in Cile, facendo il tour in senso inverso.',
     comeSpostarsi: 'Solo in 4x4 con autista, nell\'ambito del tour organizzato: non è una zona da girare in autonomia.',
     periodoMigliore:
-      'Due stagioni, due esperienze diverse. Da maggio a ottobre il salar è asciutto e completamente percorribile, con cieli limpidi e notti gelide. Da gennaio a marzo un velo d\'acqua lo trasforma nello specchio gigante delle fotografie più famose, ma alcune zone — Isla Incahuasi compresa — possono diventare inaccessibili.',
+      'Due stagioni, due esperienze diverse. Da maggio a ottobre il salar è asciutto e percorribile per intero, con cieli limpidi e notti gelide. Da gennaio a marzo un velo d\'acqua lo trasforma nello specchio gigante delle fotografie più famose, ma alcune zone, Isla Incahuasi compresa, possono diventare inaccessibili.',
     costi: 'tour di 3 giorni indicativamente 150-250$ a persona secondo l\'operatore, con ingresso al parco Eduardo Avaroa a parte',
     erroriDaEvitare: [
       'Scegliere l\'operatore solo sul prezzo: i mezzi e la manutenzione fanno una differenza reale su piste isolate a 4.500 metri, dove un guasto è un problema serio',
@@ -100,7 +100,7 @@ export const destinazioniBolivia: Destinazione[] = [
       'Arrivare a Uyuni senza essersi acclimatati: il tour sale fino a quasi 5.000 metri il secondo giorno',
     ],
     miaEsperienza:
-      'È l\'unico posto in cui si perde davvero il senso della distanza: senza riferimenti non si capisce se una montagna è a cinque chilometri o a cinquanta, ed è per questo che funzionano le foto prospettiche. Ma la parte che resta non è il primo giorno sul sale, è il secondo, nel Sud Lípez: lagune rosse piene di fenicotteri oltre i quattromila metri, geyser che sbuffano all\'alba con venti gradi sotto zero, alloggi dove si dorme vestiti perché non c\'è riscaldamento. È un tour molto più duro di quanto le fotografie lascino immaginare, e l\'unica voce su cui non conviene risparmiare è l\'operatore: lì in mezzo un 4x4 che si rompe è un problema serio.',
+      'È l\'unico posto in cui ho perso del tutto il senso della distanza: senza riferimenti non si capisce se una montagna è a cinque chilometri o a cinquanta, ed è per questo che funzionano le foto prospettiche. La parte che mi è rimasta però è il secondo giorno, nel Sud Lípez, più del primo sul sale: lagune rosse piene di fenicotteri oltre i quattromila metri, geyser che sbuffano all\'alba con venti gradi sotto zero, alloggi dove abbiamo dormito vestiti perché non c\'era riscaldamento. È un tour molto più duro di quanto le fotografie lascino immaginare, e l\'unica voce su cui non conviene risparmiare è l\'operatore: lì in mezzo un 4x4 che si rompe è un problema serio.',
     esperienzeSlugs: ['tour-uyuni-sud-lipez'],
     tripSlugs: ['bolivia-itinerario'],
     imageAlt: 'Fuoristrada sulla distesa bianca del Salar de Uyuni sotto un cielo blu, Bolivia',
@@ -131,19 +131,19 @@ export const destinazioniBolivia: Destinazione[] = [
       'Attraversare il confine da Puno via Kasani/Yunguyo, con i timbri di uscita e ingresso da fare a piedi',
     ],
     doveDormire: 'Copacabana per la comodità dei collegamenti; l\'Isla del Sol per la notte più suggestiva, in strutture semplici e senza riscaldamento.',
-    doveMangiare: 'Trucha (trota del lago) praticamente ovunque, sul lungolago di Copacabana.',
+    doveMangiare: 'Trucha (trota del lago) quasi ovunque, sul lungolago di Copacabana.',
     comeArrivare:
       'Bus da Puno (Perù) con passaggio alla frontiera di Kasani, circa 3-4 ore in totale; da La Paz circa 4 ore, con la traversata dello stretto di Tiquina su chiatta.',
-    comeSpostarsi: 'Barche collettive da Copacabana per l\'Isla del Sol; sull\'isola non esistono veicoli, si cammina e basta, sempre in salita.',
+    comeSpostarsi: 'Barche collettive da Copacabana per l\'Isla del Sol; sull\'isola non ci sono veicoli: si cammina, sempre in salita.',
     periodoMigliore: 'maggio-ottobre per il sole; a 3.800 metri le notti sono fredde tutto l\'anno',
     costi: 'molto economico: barca per l\'isola pochi dollari, più piccole tasse d\'ingresso riscosse dalle comunità locali',
     erroriDaEvitare: [
       'Programmare l\'Isla del Sol in giornata da Copacabana: gli orari delle barche lasciano poche ore utili e si perde la parte migliore',
-      'Dare per scontato l\'accesso a tutta l\'isola: tensioni tra le comunità hanno a tratti limitato il passaggio verso la parte nord, da verificare sul posto',
+      'Dare per scontato l\'accesso a tutta l\'isola: tensioni tra le comunità hanno a tratti limitato il passaggio verso la parte nord, quindi conviene chiedere sul posto',
       'Sottovalutare la quota: si cammina in salita a quasi 4.000 metri',
     ],
     miaEsperienza:
-      'Il lato boliviano del lago è più bello di quello peruviano, e non di poco. Copacabana è un paese di pellegrinaggio un po\' scalcinato ma con un\'anima, e l\'Isla del Sol batte le isole di Puno senza discussione: terrazzamenti, sentieri in pietra, nessuna macchina e nessuna organizzazione turistica pesante. Dormirci una notte cambia tutto, perché le barche in giornata arrivano e ripartono tutte insieme e appena se ne vanno l\'isola torna silenziosa. Va solo messo in conto che si cammina sempre in salita a quasi quattromila metri, con lo zaino: non è una passeggiata.',
+      'Il lato boliviano del lago è parecchio più bello di quello peruviano. Copacabana è un paese di pellegrinaggio un po\' scalcinato ma con un\'anima, e l\'Isla del Sol per me batte le isole di Puno: terrazzamenti, sentieri in pietra, nessuna macchina e nessuna organizzazione turistica pesante. Dormirci una notte cambia tutto, perché le barche in giornata arrivano e ripartono tutte insieme, e appena se ne vanno l\'isola torna silenziosa. Va solo messo in conto che si cammina sempre in salita a quasi quattromila metri, con lo zaino, e fa fatica.',
     esperienzeSlugs: [],
     tripSlugs: ['bolivia-itinerario'],
     imageAlt: 'Terrazzamenti e sentieri dell\'Isla del Sol con pecore al pascolo sul lago Titicaca, Bolivia',
@@ -158,7 +158,7 @@ export const destinazioniBolivia: Destinazione[] = [
     giorniConsigliati: '3-4 giorni per entrambe',
     visitataPersonalmente: true,
     introduzione:
-      'Sucre è la capitale costituzionale, città coloniale bianca Patrimonio UNESCO a 2.800 metri — la quota più gentile della Bolivia. Potosí, a 4.000 metri, è la città che con l\'argento del suo Cerro Rico ha finanziato per secoli l\'impero spagnolo, al costo di un numero enorme di vite.',
+      'Sucre è la capitale costituzionale, città coloniale bianca Patrimonio UNESCO a 2.800 metri, la quota più gentile della Bolivia. Potosí, a 4.000 metri, è la città che con l\'argento del suo Cerro Rico ha finanziato per secoli l\'impero spagnolo, al costo di un numero enorme di vite.',
     percheAndarci:
       'Per il contrasto: Sucre è la Bolivia più dolce, con il clima migliore e le migliori scuole di spagnolo del paese; Potosí è la sua storia più dura, ancora visibile ogni giorno nelle gallerie in attività.',
     cosaVedere: [
@@ -170,12 +170,12 @@ export const destinazioniBolivia: Destinazione[] = [
     ],
     cosaFare: [
       'Corso di spagnolo a Sucre, tra i più economici e apprezzati del Sud America',
-      'Visita alle miniere cooperative del Cerro Rico — un\'esperienza forte e discussa, vedi la scheda esperienza dedicata',
+      'Visita alle miniere cooperative del Cerro Rico, un\'esperienza forte e discussa (vedi la scheda esperienza dedicata)',
       'Mercato di Tarabuco la domenica, per i tessuti yampara',
     ],
     doveDormire: 'Centro storico di Sucre, la città più piacevole in cui fermarsi qualche giorno in tutta la Bolivia.',
     doveMangiare:
-      'Sucre ha la migliore qualità della vita del paese e si mangia bene e a pochissimo nei mercati coperti, dove il banco dei succhi di frutta è un\'istituzione. A Potosí l\'offerta è più essenziale: zuppe sostanziose, adatte ai quattromila metri.',
+      'Sucre ha la migliore qualità della vita del paese e nei mercati coperti si mangia bene spendendo pochissimo, dove il banco dei succhi di frutta è un\'istituzione. A Potosí l\'offerta è più essenziale: zuppe sostanziose, adatte ai quattromila metri.',
     comeArrivare: 'Volo da La Paz a Sucre (circa un\'ora) o bus notturno; tra Sucre e Potosí circa 3 ore di strada.',
     comeSpostarsi: 'Entrambe le città si girano a piedi; bus frequenti tra le due.',
     periodoMigliore: 'maggio-ottobre; Sucre ha il clima più mite del paese grazie alla quota più bassa',
@@ -185,7 +185,7 @@ export const destinazioniBolivia: Destinazione[] = [
       'Trattare la visita alle miniere come un\'attrazione turistica qualunque: è un luogo di lavoro reale, con condizioni durissime',
     ],
     miaEsperienza:
-      'Sucre è il posto dove viene voglia di fermarsi più a lungo: duemilaottocento metri invece di quattromila, clima mite, una città bianca e ordinata dove finalmente si respira e si dorme. Potosí è l\'opposto, e non solo per la quota. Entrare nelle gallerie del Cerro Rico è l\'esperienza più pesante di tutto il viaggio — non pericolosa in sé, ma difficile da digerire: si cammina piegati in cunicoli caldi e polverosi accanto a uomini che ci passano dieci ore al giorno con strumenti di un altro secolo. Non è un\'attrazione e non andrebbe trattata come tale. Se ne esce zitti, e forse è giusto così.',
+      'Sucre è il posto dove mi è venuta voglia di fermarmi più a lungo: duemilaottocento metri invece di quattromila, clima mite, una città bianca e ordinata dove finalmente si respira e si dorme. Potosí è l\'opposto, e non solo per la quota. Entrare nelle gallerie del Cerro Rico è stata l\'esperienza più pesante di tutto il viaggio, pericolosa in sé no, ma difficile da digerire: abbiamo camminato piegati in cunicoli caldi e polverosi accanto a uomini che ci passano dieci ore al giorno con strumenti di un altro secolo. Va trattata con il rispetto che si deve a un luogo di lavoro. Ne siamo usciti zitti, e forse è giusto così.',
     esperienzeSlugs: ['miniere-cerro-rico'],
     tripSlugs: ['bolivia-itinerario'],
     imageAlt: 'Il Cerro Rico che domina i tetti di tegole rosse di Potosí, Bolivia',
@@ -200,9 +200,9 @@ export const destinazioniBolivia: Destinazione[] = [
     giorniConsigliati: '4-5 giorni, per fare sia pampas sia giungla',
     visitataPersonalmente: true,
     introduzione:
-      'L\'Amazzonia boliviana, molto meno battuta e molto più economica di quella peruviana o brasiliana. Da Rurrenabaque si parte in due direzioni opposte: le pampas del Yacuma, praterie allagate dove la fauna si vede facilmente, o la foresta primaria del Parco Nazionale Madidi.',
+      'L\'Amazzonia boliviana, molto meno battuta e parecchio più economica di quella peruviana o brasiliana. Da Rurrenabaque si parte in due direzioni opposte: le pampas del Yacuma, praterie allagate dove la fauna si vede facilmente, o la foresta primaria del Parco Nazionale Madidi.',
     percheAndarci:
-      'Perché è probabilmente il modo più economico al mondo di entrare in Amazzonia, e perché il Madidi è una delle aree protette con la maggiore biodiversità del pianeta.',
+      'Perché è forse il modo più economico al mondo di entrare in Amazzonia, e perché il Madidi è una delle aree protette con la maggiore biodiversità del pianeta.',
     cosaVedere: [
       'I caimani, i capibara e le scimmie lungo il Rio Yacuma, nelle pampas',
       'I delfini rosa di fiume, che nelle pampas si avvicinano alle barche',
@@ -218,7 +218,7 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         titolo: 'Pampas o giungla? Le due Amazzonie di Rurrenabaque',
         introduzione:
-          'Da Rurrenabaque si sceglie tra due ambienti completamente diversi, e chi ha tempo per uno solo spesso sbaglia scelta. Non è questione di qualità ma di cosa si vuole vedere.',
+          'Da Rurrenabaque si sceglie tra due ambienti del tutto diversi, e chi ha tempo per uno solo spesso sbaglia scelta. La qualità c\'entra poco: conta cosa si vuole vedere.',
         opzioni: [
           {
             nome: 'Pampas del Yacuma',
@@ -256,7 +256,7 @@ export const destinazioniBolivia: Destinazione[] = [
           },
         ],
         raccomandazione:
-          'Con quattro o cinque giorni si fanno entrambe, ed è la soluzione migliore: pampas per la fauna, Madidi per la foresta. Dovendo scegliere, chi viene in Amazzonia per gli animali prenda le pampas, chi ci viene per l\'ambiente scelga il Madidi — e in entrambi i casi verifichi che l\'operatore non maneggi la fauna per intrattenere i clienti.',
+          'Con quattro o cinque giorni si fanno entrambe, ed è la soluzione migliore: pampas per la fauna, Madidi per la foresta. Dovendo scegliere, chi viene in Amazzonia per gli animali prenda le pampas, chi ci viene per l\'ambiente scelga il Madidi. In entrambi i casi conviene controllare che l\'operatore non maneggi la fauna per intrattenere i clienti.',
       },
     ],
     doveDormire: 'Rurrenabaque come base; durante i tour si dorme in lodge lungo il fiume, essenziali ma con zanzariere.',
@@ -272,7 +272,7 @@ export const destinazioniBolivia: Destinazione[] = [
       'Andarci senza repellente serio e senza vaccinazione contro la febbre gialla',
     ],
     miaEsperienza:
-      'Le pampas sono il posto dove si vedono più animali con meno sforzo di qualsiasi altro: si sta in barca e sfilano caimani, capibara, scimmie e centinaia di uccelli, con i delfini rosa che ogni tanto emergono accanto allo scafo. È anche il posto dove si vedono le pratiche più discutibili: certe guide tirano fuori i caimani dall\'acqua o vanno a cercare le anaconda per farle toccare ai clienti, e non è una cosa da assecondare — basta dire di no e chiedere di restare a guardare. Le zanzare, poi, sono di un altro livello: quello che serve non è un repellente, è una corazza.',
+      'Nelle pampas ho visto più animali con meno sforzo che in qualsiasi altro posto: si sta in barca e sfilano caimani, capibara, scimmie e centinaia di uccelli, con i delfini rosa che ogni tanto emergono accanto allo scafo. Lì si vedono anche le pratiche più discutibili: certe guide tirano fuori i caimani dall\'acqua o vanno a cercare le anaconda per farle toccare ai clienti. Non va assecondato: basta dire di no e chiedere di restare a guardare. Le zanzare poi sono di un altro livello, più che un repellente servirebbe una corazza.',
     esperienzeSlugs: [],
     tripSlugs: ['bolivia-itinerario'],
     imageAlt: 'Barche ormeggiate sul fiume Beni a Rurrenabaque, ai piedi delle colline coperte di foresta, Bolivia',

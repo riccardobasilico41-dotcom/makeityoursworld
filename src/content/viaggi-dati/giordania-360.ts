@@ -59,8 +59,8 @@ export const giordania360Meta: TripMeta = {
       statoPernottamento: 'provato',
       intensita: 'medio',
       destinazioneSlug: 'mar-morto',
-      immagine: '/images/viaggi/giordania-360/giorno-2-jerash.jpg',
-      imageAlt: 'Il colonnato della Piazza Ovale nelle rovine romane di Jerash',
+      immagine: '/images/giordania/jerash-piazza-ovale-riccardo.jpg',
+      imageAlt: 'Il colonnato curvo della Piazza Ovale di Jerash sotto un cielo grigio',
     },
     {
       titoloGiorno: 'Giorno 3 — Karak, Monte Nebo e Little Petra',
@@ -79,8 +79,8 @@ export const giordania360Meta: TripMeta = {
       statoPernottamento: 'da-confermare',
       intensita: 'intenso',
       destinazioneSlug: 'petra',
-      immagine: '/images/viaggi/giordania-360/giorno-4-petra-treasury.jpg',
-      imageAlt: 'La facciata del Tesoro (Al-Khazneh) scavata nella roccia rosa di Petra, con alcuni cammelli in primo piano',
+      immagine: '/images/giordania/petra-siq-riccardo.jpg',
+      imageAlt: 'Due piccole figure camminano nel Siq di Petra tra pareti di roccia altissime',
     },
     {
       titoloGiorno: 'Giorno 5 — Wadi Rum: cammelli, jeep safari e Capodanno nel deserto',
@@ -90,8 +90,8 @@ export const giordania360Meta: TripMeta = {
       intensita: 'intenso',
       costiNoti: 'Cammellata 20 JOD; pranzo al sacco 10 JOD',
       destinazioneSlug: 'wadi-rum',
-      immagine: '/images/viaggi/giordania-360/giorno-5-wadi-rum-cammelli.jpg',
-      imageAlt: 'Cammelli seduti sulla sabbia rossa di Wadi Rum, con le montagne rocciose sullo sfondo',
+      immagine: '/images/giordania/wadi-rum-fuoco-tramonto-riccardo.jpg',
+      imageAlt: 'Un beduino in controluce accende un fuoco di sterpi nel deserto di Wadi Rum al tramonto',
     },
     {
       titoloGiorno: 'Giorno 6 — Alba nel deserto e mare ad Aqaba',

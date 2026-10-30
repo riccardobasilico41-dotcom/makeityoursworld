@@ -11,7 +11,7 @@ export const egitto: Paese = {
   continente: 'Africa',
   titolo: 'Egitto: piramidi, Nilo e Mar Rosso',
   descrizione:
-    'Il Cairo e le piramidi di Giza, Saqqara e Dahshur, i templi di Luxor e Assuan lungo il Nilo, Abu Simbel ai margini del deserto nubiano, l\'oasi di Siwa e la barriera corallina del Mar Rosso: un Paese che si gira in dieci giorni o in tre settimane, e che chiede di essere organizzato bene per evitare caldo, code e truffe.',
+    'Il Cairo e le piramidi di Giza, Saqqara e Dahshur, i templi di Luxor e Assuan lungo il Nilo, Abu Simbel ai margini del deserto nubiano, l\'oasi di Siwa e la barriera corallina del Mar Rosso: un Paese che si gira in dieci giorni o in tre settimane e che va organizzato bene, per evitare caldo, code e truffe.',
   periodoMigliore: 'da ottobre ad aprile per i siti archeologici; da maggio a novembre per il mare più caldo',
   durataConsigliata: '10-12 giorni per Cairo, Luxor e mare; 18-21 giorni per il giro completo',
   budgetIndicativo:
@@ -26,9 +26,9 @@ export const egitto: Paese = {
     connettivita:
       'SIM di Vodafone, Orange, Etisalat (e&) e WE acquistabili in aeroporto al Cairo col passaporto, a prezzi bassi. Copertura buona in città e lungo il Nilo, debole nel deserto occidentale e in mezzo al mare. Diffuse anche le eSIM turistiche.',
     salute:
-      'Nessuna vaccinazione obbligatoria arrivando dall\'Italia. Acqua solo in bottiglia, anche per lavare i denti nei posti più spartani; la diarrea del viaggiatore è il disturbo più frequente. Caldo estremo da maggio a settembre nell\'Alto Egitto (Luxor e Assuan superano spesso i 40 °C): visite all\'alba, acqua e copricapo. Assicurazione sanitaria con rimpatrio consigliata, e obbligatoria di fatto per chi fa immersioni (serve una copertura specifica).',
+      'Nessuna vaccinazione obbligatoria arrivando dall\'Italia. Acqua solo in bottiglia, anche per lavare i denti nei posti più spartani; la diarrea del viaggiatore è il disturbo più frequente. Caldo estremo da maggio a settembre nell\'Alto Egitto (Luxor e Assuan superano spesso i 40 °C): visite all\'alba, acqua e copricapo. Assicurazione sanitaria con rimpatrio consigliata, e in pratica obbligatoria per chi fa immersioni (serve una copertura specifica).',
     sicurezza:
-      'Le mete turistiche principali (Cairo, Giza, Luxor, Assuan, Abu Simbel, i resort del Mar Rosso e il Sinai meridionale) si visitano con normale prudenza e una presenza di polizia turistica molto visibile. Il Sinai settentrionale è vietato e le zone di confine con Libia e Sudan sono sconsigliate; il deserto occidentale (Siwa, Bahariya, Deserto Bianco) si visita con agenzie autorizzate e permessi. Il rischio concreto per il turista sono le truffe e l\'insistenza dei procacciatori, non la criminalità violenta. Prima di partire va controllata la scheda aggiornata su viaggiaresicuri.it e conviene registrarsi su Dove siamo nel mondo.',
+      'Le mete turistiche principali (Cairo, Giza, Luxor, Assuan, Abu Simbel, i resort del Mar Rosso e il Sinai meridionale) si visitano con normale prudenza e una presenza di polizia turistica molto visibile. Il Sinai settentrionale è vietato e le zone di confine con Libia e Sudan sono sconsigliate; il deserto occidentale (Siwa, Bahariya, Deserto Bianco) si visita con agenzie autorizzate e permessi. Per il turista il rischio concreto sono le truffe e l\'insistenza dei procacciatori, più che la criminalità violenta. Prima di partire va controllata la scheda aggiornata su viaggiaresicuri.it e conviene registrarsi su Dove siamo nel mondo.',
     trasportiInterni:
       'Voli interni EgyptAir (Cairo-Luxor circa 1 ora, Cairo-Assuan 1h25, Assuan-Abu Simbel 45 minuti) e voli low cost di Air Cairo e Nile Air verso il Mar Rosso. Treni tra Cairo, Luxor e Assuan, compreso il treno notte con cabine letto. Bus Go Bus e Blue Bus per Hurghada, Marsa Alam e Sharm; minivan con autista per i tragitti Luxor-mare. In città Uber e Careem sono il modo più semplice per evitare trattative con i taxi.',
     costoVita:

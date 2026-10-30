@@ -16,7 +16,7 @@ export const destinazioniSingapore: Destinazione[] = [
     introduzione:
       'La baia costruita su terra strappata al mare, dove sta tutto quello che rende Singapore riconoscibile: l\'hotel con la nave sul tetto, i Supertree alti cinquanta metri, le serre climatizzate e il museo a forma di fiore di loto. È la città come vuole essere vista, e funziona.',
     percheAndarci:
-      'Perché è uno degli esperimenti urbanistici più riusciti degli ultimi trent\'anni: un\'intera baia progettata da zero che sarebbe potuta venire fuori come un centro commerciale a cielo aperto e invece regge, soprattutto dopo il tramonto.',
+      'Perché è uno degli esperimenti urbanistici più riusciti degli ultimi trent\'anni: un\'intera baia progettata da zero che rischiava di diventare un centro commerciale a cielo aperto. Invece regge, soprattutto dopo il tramonto.',
     cosaVedere: [
       'I Supertree Grove di Gardens by the Bay, con lo spettacolo di luci serale gratuito',
       'Le serre Flower Dome e Cloud Forest, con la cascata coperta più alta del mondo',
@@ -26,7 +26,7 @@ export const destinazioniSingapore: Destinazione[] = [
       'Il lungobaia illuminato, che si percorre a piedi tutto attorno',
     ],
     cosaFare: [
-      'Spettacolo di luci ai Supertree dopo il tramonto — vedi la scheda esperienza dedicata',
+      'Spettacolo di luci ai Supertree dopo il tramonto (vedi la scheda esperienza dedicata)',
       'Camminata completa attorno alla baia, circa 3,5 km, meglio all\'ora blu',
       'Salita a un rooftop bar invece della piattaforma panoramica: si paga un cocktail e si ha la stessa vista',
       'Serate al Marina Barrage, la diga con il prato sul tetto dove i singaporiani fanno volare gli aquiloni',
@@ -34,12 +34,12 @@ export const destinazioniSingapore: Destinazione[] = [
     doveDormire:
       'La zona è la più cara della città. Chi ci dorme lo fa per la vista; chi vuole spendere meno sta a Chinatown, Bugis o Geylang e arriva qui in metropolitana in dieci minuti, che è la scelta ragionevole.',
     doveMangiare:
-      'È la parte della città dove si mangia peggio in rapporto al prezzo: i ristoranti attorno alla baia sono pensati per chi non si sposta. Il consiglio è mangiare altrove e venire qui dopo cena — oppure fermarsi al Satay by the Bay, il centro hawker all\'interno dei Gardens, che è l\'unica opzione a prezzi normali della zona.',
+      'È la parte della città dove si mangia peggio in rapporto al prezzo: i ristoranti attorno alla baia sono pensati per chi non si sposta. Il consiglio è mangiare altrove e venire qui dopo cena, oppure fermarsi al Satay by the Bay, il centro hawker all\'interno dei Gardens, che è l\'unica opzione a prezzi normali della zona.',
     comeArrivare: 'Metropolitana: le fermate Bayfront, Marina Bay e Promenade servono tutta l\'area. Dall\'aeroporto sono circa 30 minuti in MRT.',
     comeSpostarsi:
       'Tutto a piedi, ma con un\'avvertenza: il caldo è serio e l\'ombra è poca. I passaggi sotterranei climatizzati che collegano i centri commerciali sono la vera rete pedonale della città e vale la pena usarli.',
     periodoMigliore:
-      'tutto l\'anno, con la sera come momento giusto — non solo per le luci, ma perché di giorno l\'umidità sulla baia è pesante e l\'asfalto rimanda il calore.',
+      'tutto l\'anno, meglio di sera: ci sono le luci, e di giorno l\'umidità sulla baia è pesante e l\'asfalto rimanda il calore.',
     costi:
       'la baia, i Supertree e lo spettacolo di luci sono gratuiti; le serre costano attorno ai 30-50 SGD, la piattaforma del Marina Bay Sands circa 30. Quasi tutto il resto si vede senza pagare nulla.',
     erroriDaEvitare: [
@@ -49,7 +49,7 @@ export const destinazioniSingapore: Destinazione[] = [
       'Cenare attorno alla baia: si paga il doppio per mangiare peggio che in qualsiasi centro hawker',
     ],
     miaEsperienza:
-      'Marina Bay è il tipo di posto che uno si aspetta di trovare artificiale e che invece funziona, e vale la pena capire perché: non è solo scenografia, è una baia chiusa da una diga che ha trasformato l\'acqua di mare in un bacino d\'acqua dolce e risolto metà del problema idrico del paese. Sapendolo, i Supertree smettono di essere alberi finti e diventano quello che sono — torri di raccolta dell\'acqua piovana e di ventilazione per le serre, con i pannelli solari in cima. Lo spettacolo di luci serale è gratuito, dura una quindicina di minuti, e ci si sdraia sul prato sotto le torri insieme a centinaia di persone: è la cosa più bella della città e non costa niente. La Cloud Forest, con la cascata di trenta metri dentro una cupola di vetro climatizzata, è l\'altra sorpresa. La regola d\'oro di tutta la zona: non pagare per la vista dall\'alto, ordinare un cocktail al bar dello stesso grattacielo.',
+      'Mi aspettavo un posto artificiale, e invece Marina Bay funziona. Vale la pena capire perché: la baia è chiusa da una diga che ha trasformato l\'acqua di mare in un bacino d\'acqua dolce e risolto metà del problema idrico del paese. Sapendolo, i Supertree smettono di essere alberi finti e diventano quello che sono: torri di raccolta dell\'acqua piovana e di ventilazione per le serre, con i pannelli solari in cima. Lo spettacolo di luci serale è gratuito e dura una quindicina di minuti. Ci siamo sdraiati sul prato sotto le torri insieme a centinaia di persone: è la cosa più bella della città e non costa niente. La Cloud Forest, con la cascata di trenta metri dentro una cupola di vetro climatizzata, è l\'altra sorpresa. La regola di tutta la zona: non pagare per la vista dall\'alto e ordinare un cocktail al bar dello stesso grattacielo.',
     esperienzeSlugs: ['gardens-by-the-bay'],
     tripSlugs: ['malesia-singapore'],
     imageAlt: 'Le tre torri del Marina Bay Sands affacciate sull\'acqua della baia, Singapore',
@@ -64,7 +64,7 @@ export const destinazioniSingapore: Destinazione[] = [
     giorniConsigliati: '1-2 giorni',
     visitataPersonalmente: true,
     introduzione:
-      'I tre quartieri storici delle comunità che hanno fatto Singapore, ognuno con il proprio tempio o moschea, la propria cucina e il proprio ritmo. Sono anche il posto dove la città smette di sembrare un progetto e torna a essere una città.',
+      'I tre quartieri storici delle comunità che hanno fatto Singapore, ognuno con il proprio tempio o moschea, la propria cucina e il proprio ritmo. Qui la città smette di sembrare un progetto.',
     percheAndarci:
       'Perché sono la parte che resta quando si toglie lo skyline: shophouse a due piani, botteghe, templi in funzione, e i centri hawker dove si mangia per tre euro una cucina che altrove sarebbe da ristorante.',
     cosaVedere: [
@@ -76,7 +76,7 @@ export const destinazioniSingapore: Destinazione[] = [
       'Il quartiere di Tiong Bahru, con l\'architettura razionalista degli anni Trenta e il suo mercato',
     ],
     cosaFare: [
-      'Pranzo o cena in un centro hawker, che è il modo giusto di mangiare in questa città — vedi la scheda esperienza dedicata',
+      'Pranzo o cena in un centro hawker, il modo giusto di mangiare in questa città (vedi la scheda esperienza dedicata)',
       'Camminare i tre quartieri in sequenza, che sono a poche fermate di metropolitana uno dall\'altro',
       'Colazione con kaya toast e uovo alla coque, che è il rito mattutino locale',
       'Una sera a Haji Lane, tra murales e locali piccoli, che è la zona meno istituzionale della città',
@@ -90,7 +90,7 @@ export const destinazioniSingapore: Destinazione[] = [
     periodoMigliore:
       'tutto l\'anno. I momenti speciali sono il Capodanno cinese a Chinatown, il Deepavali a Little India e l\'Hari Raya a Kampong Glam, quando i rispettivi quartieri si illuminano. Nel Capodanno cinese, però, molti banchi hawker a gestione familiare chiudono per giorni.',
     costi:
-      'praticamente nulli: i quartieri si camminano, i templi sono gratuiti o quasi, e un pasto completo in un centro hawker sta tra i 3 e i 6 euro. È la Singapore che si può fare con pochi soldi.',
+      'quasi nulli: i quartieri si camminano, i templi sono gratuiti o quasi, e un pasto completo in un centro hawker sta tra i 3 e i 6 euro. È la Singapore che si può fare con pochi soldi.',
     erroriDaEvitare: [
       'Mangiare nei ristoranti con aria condizionata e menu illustrato quando a cinquanta metri c\'è un centro hawker: si paga il triplo per un piatto peggiore',
       'Andare a Chinatown solo per la via dei souvenir, che è la parte meno interessante del quartiere',
@@ -98,7 +98,7 @@ export const destinazioniSingapore: Destinazione[] = [
       'Girare a mezzogiorno: tra le undici e le tre il caldo è pesante, ed è anche l\'ora di punta ai centri hawker',
     ],
     miaEsperienza:
-      'Questa è la Singapore che convince chi arriva convinto che sia solo una città di grattacieli e regole. I centri hawker sono l\'invenzione civile più riuscita del paese: negli anni Settanta il governo tolse i venditori ambulanti dalla strada per ragioni igieniche e invece di eliminarli li mise tutti sotto tettoie con acqua corrente e licenze, e il risultato è che oggi si mangia una cucina straordinaria per tre euro, seduti a tavoli condivisi, in un posto dove chiunque può permettersi di andare. Il sistema per orientarsi è banale e funziona: si guarda quale banco ha la coda e ci si mette in fila. L\'altra cosa che colpisce, camminando tra Chinatown, Little India e Kampong Glam nello stesso pomeriggio, è quanto poco si somiglino: cambiano gli odori, la musica, la lingua che si sente per strada, e sono a due fermate di metropolitana di distanza. Il dettaglio locale da conoscere: sui tavoli si trovano pacchetti di fazzoletti appoggiati da soli — è il "chope", il modo di prenotare il posto, e non si sposta.',
+      'Questa è la Singapore che fa cambiare idea a chi la crede solo una città di grattacieli e regole. I centri hawker sono l\'invenzione civile più riuscita del paese: negli anni Settanta il governo tolse i venditori ambulanti dalla strada per ragioni igieniche. Invece di eliminarli li mise tutti sotto tettoie con acqua corrente e licenze, e oggi si mangia una cucina straordinaria per tre euro, seduti a tavoli condivisi, in un posto che chiunque può permettersi. Per orientarsi il sistema è banale e funziona: abbiamo sempre guardato quale banco aveva la coda e ci siamo messi in fila. Camminando tra Chinatown, Little India e Kampong Glam nello stesso pomeriggio, mi ha colpito quanto poco si somiglino: cambiano gli odori, la musica, la lingua che si sente per strada, e sono a due fermate di metropolitana di distanza. Il dettaglio locale da conoscere: sui tavoli si trovano pacchetti di fazzoletti appoggiati da soli. È il "chope", il modo di prenotare il posto, e non si sposta.',
     esperienzeSlugs: ['hawker-centre'],
     tripSlugs: ['malesia-singapore'],
     imageAlt: 'Trengganu Street a Chinatown, con le shophouse e le lanterne rosse, Singapore',
@@ -115,7 +115,7 @@ export const destinazioniSingapore: Destinazione[] = [
     introduzione:
       'La parte che quasi nessuno mette in programma: un giardino botanico patrimonio UNESCO, una riserva di foresta primaria in mezzo all\'isola, sentieri sopraelevati tra le chiome e un\'isola senza auto dove si gira in bicicletta tra le case di legno.',
     percheAndarci:
-      'Perché smonta l\'idea che Singapore sia solo cemento: quasi la metà del territorio è coperta da verde, il piano urbanistico si chiama esplicitamente "città dentro un giardino", e a venti minuti di metropolitana dal centro finanziario ci sono scimmie e varani.',
+      'Perché smonta l\'idea che Singapore sia solo cemento: quasi la metà del territorio è coperta da verde, il piano urbanistico si chiama proprio "città dentro un giardino", e a venti minuti di metropolitana dal centro finanziario ci sono scimmie e varani.',
     cosaVedere: [
       'I Singapore Botanic Gardens, patrimonio UNESCO, con il National Orchid Garden',
       'La Bukit Timah Nature Reserve, foresta pluviale primaria attorno alla collina più alta dell\'isola',
@@ -145,7 +145,7 @@ export const destinazioniSingapore: Destinazione[] = [
       'Considerare Pulau Ubin una gita opzionale: è il posto dove si vede come era Singapore prima del 1965, e non esiste più altrove',
     ],
     miaEsperienza:
-      'È la parte di Singapore che ribalta l\'idea che uno si è fatto prima di arrivare. A venti minuti di metropolitana dalla baia dei grattacieli c\'è una foresta pluviale vera, con i macachi sui sentieri e i varani che attraversano davanti, e il TreeTop Walk di MacRitchie è una passerella sospesa sopra le chiome che nessuno associa a questa città. I Botanic Gardens al mattino presto sono la scena più bella e meno turistica di tutte: gente del posto che corre, gruppi di anziani che fanno tai chi sotto gli alberi, famiglie sui prati — un parco usato, non visitato. Ma il posto che vale più di tutti è Pulau Ubin: dieci minuti di barca di legno che parte solo quando ha dodici passeggeri, e si sbarca in un\'isola senza auto, con le case di legno su palafitte, i sentieri sterrati e le biciclette a noleggio. È come era Singapore prima del 1965, ed è rimasta solo lì. Vale come contrappeso a tutto il resto, e costa quanto il traghetto.',
+      'È la parte di Singapore che ribalta l\'idea che ci si fa prima di arrivare. A venti minuti di metropolitana dalla baia dei grattacieli c\'è una foresta pluviale vera, con i macachi sui sentieri e i varani che attraversano davanti, e il TreeTop Walk di MacRitchie è una passerella sospesa sopra le chiome che nessuno associa a questa città. I Botanic Gardens al mattino presto sono la scena più bella e meno turistica di tutte: gente del posto che corre, gruppi di anziani che fanno tai chi sotto gli alberi, famiglie sui prati. Un parco usato, più che visitato. Il posto che vale più di tutti però è Pulau Ubin: dieci minuti su una barca di legno che parte solo quando ha dodici passeggeri, e si sbarca in un\'isola senza auto, con le case di legno su palafitte, i sentieri sterrati e le biciclette a noleggio. È come era Singapore prima del 1965, ed è rimasta solo lì. Vale come contrappeso a tutto il resto, e costa quanto il traghetto.',
     esperienzeSlugs: [],
     tripSlugs: ['malesia-singapore'],
     imageAlt: 'Un sentiero tra piante tropicali e palme nei Singapore Botanic Gardens',
@@ -160,7 +160,7 @@ export const destinazioniSingapore: Destinazione[] = [
     giorniConsigliati: 'mezza giornata o un giorno intero con i parchi',
     visitataPersonalmente: true,
     introduzione:
-      'L\'isola a sud, collegata da un ponte, una monorotaia e una funivia: spiagge artificiali, parchi a tema, acquario e il punto più meridionale dell\'Asia continentale — una passerella pedonale su un isolotto, con tanto di cartello.',
+      'L\'isola a sud, collegata da un ponte, una monorotaia e una funivia: spiagge artificiali, parchi a tema, acquario e il punto più meridionale dell\'Asia continentale, una passerella pedonale su un isolotto, con tanto di cartello.',
     percheAndarci:
       'Per i parchi, se si viaggia con bambini, e per la funivia sopra il porto, che è il modo migliore di vedere quanto sia grande il traffico marittimo che passa da qui: Singapore è uno dei porti più trafficati del pianeta e da lassù si contano le navi in rada a decine.',
     cosaVedere: [
@@ -174,17 +174,17 @@ export const destinazioniSingapore: Destinazione[] = [
       'Funivia da Mount Faber, che è il modo giusto di arrivare',
       'Giornata ai parchi, se ci sono bambini o se piove',
       'Camminare il Southern Ridges fino a Mount Faber e poi scendere a Sentosa in funivia',
-      'Fort Siloso, che è gratuito e racconta la parte di storia che l\'isola solitamente non mostra',
+      'Fort Siloso, che è gratuito e racconta la parte di storia che l\'isola di solito non mostra',
     ],
     doveDormire: 'Gli hotel di Sentosa sono cari e isolati dal resto della città: ha senso solo per chi passa più giorni nei parchi con dei bambini.',
     doveMangiare:
-      'L\'offerta sull\'isola è tutta a prezzi da parco a tema. Il consiglio è mangiare prima o dopo, a VivoCity — il centro commerciale da cui parte la monorotaia — che ha un food court normale al piano alto.',
+      'L\'offerta sull\'isola è tutta a prezzi da parco a tema. Il consiglio è mangiare prima o dopo, a VivoCity, il centro commerciale da cui parte la monorotaia, che ha un food court normale al piano alto.',
     comeArrivare:
       'Monorotaia da VivoCity (fermata MRT HarbourFront), funivia da Mount Faber o a piedi sul ponte pedonale, che è gratuito e dura dieci minuti.',
     comeSpostarsi: 'Navette interne gratuite, monorotaia e molte camminate: l\'isola è lunga e i punti d\'interesse sono distanti tra loro.',
     periodoMigliore: 'tutto l\'anno. Nei fine settimana e nelle vacanze scolastiche l\'isola è molto affollata di residenti.',
     costi:
-      'l\'accesso all\'isola a piedi è gratuito, la monorotaia costa pochi dollari; i parchi sono la voce vera — Universal Studios e l\'acquario hanno prezzi da parco internazionale.',
+      'l\'accesso all\'isola a piedi è gratuito, la monorotaia costa pochi dollari; la spesa vera sono i parchi: Universal Studios e l\'acquario hanno prezzi da parco internazionale.',
     erroriDaEvitare: [
       'Aspettarsi spiagge: sono artificiali, con sabbia importata, e davanti c\'è la rada delle petroliere. Vanno prese per quello che sono',
       'Pagare la monorotaia all\'andata: il ponte pedonale è gratuito, coperto e ci si mette dieci minuti',
@@ -192,7 +192,7 @@ export const destinazioniSingapore: Destinazione[] = [
       'Andarci nel fine settimana, quando metà Singapore è lì',
     ],
     miaEsperienza:
-      'Sentosa è la tappa su cui vale la pena essere onesti: è un\'isola di intrattenimento, con spiagge artificiali di sabbia importata che guardano una rada piena di petroliere in attesa. Chi ci va cercando il mare torna indietro perplesso. Con dei bambini, o in una giornata di pioggia, i parchi e l\'acquario sono ottimi e giustificano tutto. Per tutti gli altri, le due cose che rendono il viaggio sono altre: la funivia da Mount Faber, che passa sopra il porto e permette di vedere quante navi ci sono in rada — Singapore è uno dei porti più trafficati del mondo e dall\'alto si capisce cosa significhi — e il Fort Siloso, gratuito, con i cannoni puntati verso il mare e la storia di come la città cadde in mano giapponese nel 1942, da terra, mentre l\'artiglieria guardava dalla parte sbagliata. Quella è la mezza giornata che vale.',
+      'Sentosa è la tappa su cui vale la pena essere onesti: è un\'isola di intrattenimento, con spiagge artificiali di sabbia importata che guardano una rada piena di petroliere in attesa. Chi ci va cercando il mare torna indietro perplesso. Con dei bambini, o in una giornata di pioggia, i parchi e l\'acquario sono ottimi e giustificano tutto. Per tutti gli altri, le due cose che rendono il viaggio sono altre: la funivia da Mount Faber, che passa sopra il porto e permette di vedere quante navi ci sono in rada (Singapore è uno dei porti più trafficati del mondo e dall\'alto si capisce cosa significhi), e il Fort Siloso, gratuito, con i cannoni puntati verso il mare e la storia di come la città cadde in mano giapponese nel 1942, da terra, mentre l\'artiglieria guardava dalla parte sbagliata. Per quelle due cose la mezza giornata vale.',
     esperienzeSlugs: [],
     tripSlugs: ['malesia-singapore'],
     imageAlt: 'Una cabina della funivia di Sentosa sopra la foresta dell\'isola, con il porto sullo sfondo',

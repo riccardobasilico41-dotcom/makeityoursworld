@@ -12,25 +12,25 @@ export const esperienzeArabiaSaudita: Esperienza[] = [
     nome: 'Hegra, la Petra senza fila',
     localita: 'AlUla, provincia di Medina',
     cosE:
-      'Il sito nabateo più importante dopo Petra: centoundici tombe monumentali scavate nell\'arenaria tra il I secolo a.C. e il I d.C., con facciate elaborate, iscrizioni ancora leggibili e la Qasr al-Farid, la tomba isolata rimasta incompiuta. Primo sito saudita iscritto nel patrimonio UNESCO, nel 2008.',
+      'Il sito nabateo più importante dopo Petra: centoundici tombe monumentali scavate nell\'arenaria tra il I secolo a.C. e il I d.C., con facciate elaborate, iscrizioni ancora leggibili e la Qasr al-Farid, la tomba isolata rimasta incompiuta. Nel 2008 è stato il primo sito saudita iscritto nel patrimonio UNESCO.',
     percheFarla:
-      'Perché è l\'altra capitale del regno nabateo — la stessa civiltà di Petra, la stessa tecnica, la stessa epoca — conservata meglio perché l\'arenaria qui è più resistente, e con una differenza che cambia tutto: non c\'è quasi nessuno.',
+      'È l\'altra capitale del regno nabateo: stessa civiltà di Petra, stessa tecnica, stessa epoca, ma conservata meglio, perché qui l\'arenaria è più resistente. E c\'è una differenza che cambia tutto: non c\'è quasi nessuno.',
     durata: 'mezza giornata per la visita guidata standard',
     periodo:
-      'da ottobre a marzo, con dicembre e febbraio come mesi migliori. In estate si superano i 40 gradi e il sito, che è tutto all\'aperto e senza ombra, diventa impraticabile.',
-    costo: 'biglietto con visita guidata, contingentato, da prenotare online; esistono formule combinate con gli altri siti dell\'area',
+      'da ottobre a marzo; i mesi migliori sono dicembre e febbraio. D\'estate si superano i 40 gradi e il sito, tutto all\'aperto e senza ombra, diventa impraticabile.',
+    costo: 'biglietto con visita guidata, a numero chiuso, da prenotare online; ci sono formule combinate con gli altri siti della zona',
     comePrenotare:
-      'Online, in anticipo, sul portale ufficiale di AlUla. **L\'accesso è solo con visita guidata e con numeri contingentati**: non si entra in autonomia né con il proprio mezzo, si sale sui bus del sito con una guida (i rawi, i narratori, che sono in gran parte gente del posto). Nei mesi di punta gli slot si esauriscono.',
+      'Online e in anticipo, sul portale ufficiale di AlUla. **Si entra solo con visita guidata e a numero chiuso**: niente visita da soli né con il proprio mezzo. Si sale sui bus del sito con una guida, i rawi, i narratori, quasi tutti gente del posto. Nei mesi di punta i posti finiscono.',
     cosaPortare:
-      'Cappello, crema solare e acqua: non c\'è un metro d\'ombra tra una tomba e l\'altra. Scarpe comode, e abbigliamento rispettoso delle norme del paese — braccia e gambe coperte.',
+      'Cappello, crema solare e acqua: tra una tomba e l\'altra non c\'è un metro d\'ombra. Scarpe comode e vestiti rispettosi delle regole del paese, con braccia e gambe coperte.',
     perChiEAdatta:
-      'A tutti: si viaggia in bus tra i gruppi di tombe e si cammina poco e in piano. È una delle visite archeologiche più accessibili che esistano.',
+      'Per tutti: tra i gruppi di tombe ci si sposta in bus e si cammina poco, in piano. È una delle visite archeologiche più accessibili che ci siano.',
     miaEsperienza:
-      'Chi arriva pensando "Petra senza turisti" trova una cosa diversa e vale la pena saperlo prima: qui le tombe sono centoundici contro le centinaia di Petra, non c\'è un Siq che costruisca l\'effetto sorpresa, e non c\'è un Tesoro. Ma quello che c\'è non esiste più da nessun\'altra parte. Si sta davanti a una facciata nabatea scolpita duemila anni fa, alta dieci metri, con l\'iscrizione sull\'architrave ancora leggibile — nome del proprietario, anno, avvertimento a chi violi la tomba — e intorno non c\'è nessuno: nessun venditore, nessun cammello agghindato, nessun gruppo con la bandierina. La Qasr al-Farid è il pezzo che spiega meglio come lavoravano: è rimasta incompiuta, quindi la parte alta è finita e quella bassa è ancora roccia grezza, e si vede che scolpivano dall\'alto verso il basso. La cosa pratica da sapere è che non si gira liberamente: si entra solo con visita guidata e con prenotazione, si viaggia in bus tra i gruppi di tombe, e la sosta a ciascuno è cronometrata. È il prezzo di un sito che si sta aprendo adesso e che ha scelto di contingentare prima di rovinarsi.',
+      'Chi arriva pensando a "Petra senza turisti" trova un\'altra cosa, e conviene saperlo prima. Qui le tombe sono centoundici contro le centinaia di Petra, non c\'è un Siq che prepari la sorpresa e non c\'è un Tesoro. Però c\'è quello che altrove non esiste più. Siamo saliti con un rawi, come si fa per forza, e ci siamo trovati davanti a una facciata nabatea scolpita duemila anni fa, alta dieci metri, con l\'iscrizione sull\'architrave ancora leggibile (nome del proprietario, anno, avvertimento a chi violasse la tomba). Intorno non c\'era nessuno: niente venditori, niente cammelli agghindati, niente gruppi con la bandierina. La Qasr al-Farid spiega meglio di tutto come lavoravano: è rimasta incompiuta, la parte alta è finita e quella bassa è ancora roccia grezza, e si vede che scolpivano dall\'alto verso il basso. Sul piano pratico bisogna sapere che non si gira liberamente: si entra solo con la guida e con la prenotazione, ci si sposta in bus tra i gruppi di tombe e ogni sosta ha il suo tempo. È il prezzo di un sito che si sta aprendo adesso e che ha scelto di limitare gli ingressi prima di rovinarsi.',
     giudizio: 'imperdibile',
     alternative: [
       'Jabal Ikmah, la "biblioteca a cielo aperto" con centinaia di iscrizioni in quattro alfabeti antichi, poco lontano',
-      'Dadan, la capitale dei regni precedenti ai nabatei, compresa nella stessa area',
+      'Dadan, la capitale dei regni precedenti ai nabatei, nella stessa zona',
       'Petra in Giordania, per il confronto: più grande e più spettacolare, ma con la folla che qui non c\'è',
     ],
     tripSlugs: ['arabia-saudita-itinerario'],
@@ -44,24 +44,24 @@ export const esperienzeArabiaSaudita: Esperienza[] = [
     nome: 'Al-Balad al tramonto',
     localita: 'Centro storico di Jeddah',
     cosE:
-      'Il centro storico di Jeddah, patrimonio UNESCO dal 2014: case-torre alte fino a cinque piani costruite in pietra corallina estratta dal Mar Rosso, con i rawashin — le facciate di legno di teak intagliato che coprono le finestre, costruite per far circolare l\'aria e permettere di guardare fuori senza essere visti.',
+      'Il centro storico di Jeddah, patrimonio UNESCO dal 2014: case-torre alte fino a cinque piani, costruite in pietra corallina del Mar Rosso, con i rawashin, le facciate di legno di teak intagliato che coprono le finestre per far circolare l\'aria e guardare fuori senza essere visti.',
     percheFarla:
-      'Perché è l\'unico centro storico camminabile dell\'Arabia Saudita e perché quell\'architettura non esiste altrove: il legno arrivava dall\'India e dal sud-est asiatico sulle stesse navi che portavano i pellegrini, e la pietra viene dal reef davanti alla città.',
+      'È l\'unico centro storico dell\'Arabia Saudita da girare a piedi, e quell\'architettura non esiste altrove. Il legno arrivava dall\'India e dal sud-est asiatico sulle stesse navi che portavano i pellegrini, e la pietra viene dal reef davanti alla città.',
     durata: '2-3 ore, nel tardo pomeriggio',
     periodo:
-      'da novembre a marzo. Jeddah è umida tutto l\'anno e in estate camminare in Al-Balad a qualsiasi ora è faticoso. Il momento giusto è comunque sempre l\'ultima ora di luce.',
-    costo: 'il quartiere si cammina gratuitamente; le case-museo hanno biglietti contenuti',
+      'da novembre a marzo. Jeddah è umida tutto l\'anno, e d\'estate camminare in Al-Balad è faticoso a qualsiasi ora. Il momento giusto resta sempre l\'ultima ora di luce.',
+    costo: 'girare il quartiere non costa niente; le case-museo hanno biglietti contenuti',
     comePrenotare:
-      'Niente da prenotare per il quartiere. Alcune case restaurate e i musei interni hanno orari propri e vanno controllati. Esistono visite guidate organizzate, utili perché molte case sono chiuse e senza contesto si guardano solo facciate.',
+      'Per il quartiere non c\'è niente da prenotare. Alcune case restaurate e i musei interni hanno orari propri, da controllare. Ci sono visite guidate organizzate, utili perché molte case sono chiuse e senza qualcuno che le racconti si vedono solo le facciate.',
     cosaPortare:
-      'Abbigliamento coperto, secondo le norme del paese. E la disponibilità a non fotografare le persone senza chiedere: qui è un tema più sensibile che altrove nella regione.',
-    perChiEAdatta: 'A tutti: è un quartiere pianeggiante che si gira a piedi. Attenzione ai cantieri: molte case sono puntellate e alcune strade sono chiuse per il restauro in corso.',
+      'Vestiti coprenti, come chiedono le regole del paese. E l\'abitudine di non fotografare le persone senza chiedere: qui è un tema più delicato che altrove nella regione.',
+    perChiEAdatta: 'Per tutti: è un quartiere in piano che si gira a piedi. Attenzione ai cantieri, perché molte case sono puntellate e alcune strade sono chiuse per il restauro.',
     miaEsperienza:
-      'Al-Balad è la ragione per cui Jeddah vale due giorni e non mezza giornata, ma va visto nell\'ora giusta. Di giorno è un quartiere polveroso pieno di impalcature, con case puntellate e strade chiuse: il restauro è in corso e non è uniforme. Poi la luce si abbassa e prende i rawashin — quelle facciate di legno di teak intagliato, alcune alte quattro piani, con i pannelli scorrevoli e i motivi geometrici — e il quartiere diventa un\'altra cosa. Il legno arrivava dall\'India sulle navi dei pellegrini e la pietra dai reef del Mar Rosso a poche centinaia di metri: una città costruita letteralmente con quello che passava dal porto. Vale la pena sapere che Al-Balad si sta vedendo a metà strada: molte case sono crollate negli anni in cui nessuno se ne occupava, il restauro è partito da poco e sta cambiando il quartiere in fretta. Chi ci va adesso lo vede in una fase che tra dieci anni non ci sarà più — né in meglio né in peggio, semplicemente diversa.',
+      'Al-Balad è il motivo per cui Jeddah vale due giorni e non mezza giornata, ma va visto all\'ora giusta. Di giorno è un quartiere polveroso pieno di impalcature, con case puntellate e strade chiuse: il restauro va avanti a macchia. Noi ci siamo andati il pomeriggio, e quando la luce si è abbassata ha preso i rawashin, le facciate di legno di teak intagliato, alcune alte quattro piani, con i pannelli scorrevoli e i motivi geometrici. Il quartiere è cambiato. Il legno arrivava dall\'India sulle navi dei pellegrini e la pietra dai reef del Mar Rosso a poche centinaia di metri: una città costruita con quello che passava dal porto. Bisogna sapere che oggi Al-Balad si vede a metà strada. Molte case sono crollate negli anni in cui nessuno se ne occupava, il restauro è cominciato da poco e sta cambiando il quartiere in fretta. Chi ci va adesso lo vede in una fase che tra dieci anni non ci sarà più, né in meglio né in peggio: semplicemente diversa.',
     giudizio: 'imperdibile',
     alternative: [
-      'La Corniche di Jeddah il giovedì sera, per la parte sociale invece che architettonica',
-      'Diriyah a Riyadh, l\'altro grande centro storico restaurato del paese, costruito in fango invece che in corallo',
+      'La Corniche di Jeddah il giovedì sera, per il lato sociale più che per l\'architettura',
+      'Diriyah a Riyadh, l\'altro grande centro storico restaurato del paese, in fango invece che in corallo',
     ],
     tripSlugs: ['arabia-saudita-itinerario'],
     imageAlt: 'Le case storiche di Al-Balad con i balconi a graticcio in legno, Jeddah',
@@ -74,23 +74,23 @@ export const esperienzeArabiaSaudita: Esperienza[] = [
     nome: 'Diriyah e il quartiere di At-Turaif',
     localita: 'Alla periferia di Riyadh',
     cosE:
-      'La capitale originale della dinastia Saud, fondata nel XV secolo lungo il wadi Hanifa e costruita interamente in mattoni di fango: palazzi a più piani, moschee e mura, distrutti dagli ottomani nel 1818 e restaurati negli ultimi anni. Il quartiere di At-Turaif è patrimonio UNESCO dal 2010.',
+      'La prima capitale della dinastia Saud, fondata nel XV secolo lungo il wadi Hanifa e costruita tutta in mattoni di fango: palazzi a più piani, moschee e mura, distrutti dagli ottomani nel 1818 e restaurati negli ultimi anni. Il quartiere di At-Turaif è patrimonio UNESCO dal 2010.',
     percheFarla:
-      'Perché è il luogo di nascita dello stato saudita e perché l\'architettura najdi in fango — con i motivi triangolari sulle facciate e le travi di palma a vista — è completamente diversa da tutto il resto della penisola.',
+      'È il luogo dove è nato lo stato saudita, e l\'architettura najdi in fango, con i motivi triangolari sulle facciate e le travi di palma a vista, è diversa da tutto il resto della penisola.',
     durata: '2-3 ore, nel tardo pomeriggio',
     periodo:
-      'da novembre a marzo. L\'interno saudita in estate supera i 45 gradi e il sito è in gran parte all\'aperto.',
-    costo: 'biglietto d\'ingresso per At-Turaif, con i musei interni compresi',
+      'da novembre a marzo. D\'estate nell\'interno si superano i 45 gradi, e il sito è quasi tutto all\'aperto.',
+    costo: 'biglietto d\'ingresso per At-Turaif, musei interni compresi',
     comePrenotare:
-      'Online o all\'ingresso; nei periodi di punta e nei fine settimana conviene in anticipo. Gli orari serali sono quelli più belli e anche i più richiesti.',
-    cosaPortare: 'Abbigliamento coperto secondo le norme del paese; scarpe comode per i vicoli in terra battuta.',
-    perChiEAdatta: 'A tutti: percorsi in piano e ben tenuti, con parti accessibili.',
+      'Online o all\'ingresso; nei periodi di punta e nei fine settimana conviene farlo prima. Gli orari serali sono i più belli e anche i più richiesti.',
+    cosaPortare: 'Vestiti coprenti, come chiedono le regole del paese; scarpe comode per i vicoli in terra battuta.',
+    perChiEAdatta: 'Per tutti: percorsi in piano e ben tenuti, con tratti accessibili.',
     miaEsperienza:
-      'Diriyah è il posto in cui l\'Arabia Saudita racconta se stessa, e l\'ha restaurata di conseguenza: il complesso è curatissimo, con illuminazione studiata, musei interni e una parte commerciale attorno che sta crescendo in fretta. Detto questo, funziona. I palazzi di At-Turaif sono costruiti in mattoni di fango e paglia, con le travi di palma a vista e le facciate decorate da motivi triangolari che servono a far circolare l\'aria, e nell\'ultima ora di luce il colore passa dall\'ocra all\'arancione bruciato — è il momento per cui vale la pena arrivare tardi invece che a mezzogiorno, quando il fango riverbera e le fotografie vengono piatte. La cosa che colpisce, guardando dal bordo del wadi, è quanto sia recente tutta questa storia: da qui, nel 1744, partì l\'alleanza che ha prodotto lo stato saudita; nel 1818 gli ottomani rasero al suolo la città; e a poco più di venti chilometri c\'è oggi una capitale di sette milioni di abitanti con i grattacieli. Duecento anni scarsi.',
+      'A Diriyah l\'Arabia Saudita racconta se stessa, e l\'ha restaurata di conseguenza: il complesso è curatissimo, con un\'illuminazione studiata, musei interni e una zona commerciale intorno che cresce in fretta. Detto questo, funziona. I palazzi di At-Turaif sono in mattoni di fango e paglia, con le travi di palma a vista e le facciate decorate da motivi triangolari che fanno circolare l\'aria. Ci siamo andati nel tardo pomeriggio, e nell\'ultima ora di luce il colore è passato dall\'ocra all\'arancione bruciato: è il motivo per arrivare tardi e non a mezzogiorno, quando il fango riverbera e le foto vengono piatte. Guardando dal bordo del wadi colpisce quanto sia recente tutta questa storia. Da qui nel 1744 partì l\'alleanza da cui è nato lo stato saudita; nel 1818 gli ottomani rasero al suolo la città; oggi, a poco più di venti chilometri, c\'è una capitale di sette milioni di abitanti con i grattacieli. Duecento anni scarsi.',
     giudizio: 'imperdibile',
     alternative: [
-      'Il Museo Nazionale Saudita a Riyadh, per il contesto storico completo della penisola',
-      'Masmak Fort, la fortezza di fango da cui nel 1902 iniziò la riconquista, in pieno centro',
+      'Il Museo Nazionale Saudita a Riyadh, per il quadro storico completo della penisola',
+      'Masmak Fort, in pieno centro, la fortezza di fango da cui nel 1902 cominciò la riconquista',
     ],
     tripSlugs: ['arabia-saudita-itinerario'],
     imageAlt: 'Le rovine in mattoni crudi del quartiere di At-Turaif tra le palme, Diriyah',
@@ -103,24 +103,24 @@ export const esperienzeArabiaSaudita: Esperienza[] = [
     nome: 'L\'Edge of the World',
     localita: 'Jebel Fihrayn, scarpata del Tuwaiq, a circa 90 km da Riyadh',
     cosE:
-      'Il punto in cui l\'altopiano del Najd si interrompe di colpo: una scarpata di roccia calcarea che scende per trecento metri su una pianura desertica che continua fino all\'orizzonte, senza recinzioni, senza biglietti e senza costruzioni. Faceva parte di una via carovaniera antica.',
+      'Il punto in cui l\'altopiano del Najd finisce di colpo: una scarpata di roccia calcarea che scende per trecento metri su una pianura desertica fino all\'orizzonte, senza recinzioni, biglietti o costruzioni. Era parte di un\'antica via carovaniera.',
     percheFarla:
-      'Perché è una delle viste più spettacolari della penisola arabica e sta a un\'ora e mezza dalla capitale, e perché è l\'esatto opposto di tutto quello che il Golfo mostra di solito: nessuna infrastruttura, nessuna gestione, nessuno spettacolo di luci.',
-    durata: 'mezza giornata, meglio nel pomeriggio per restare al tramonto',
+      'È una delle viste più spettacolari della penisola arabica, a un\'ora e mezza dalla capitale. Ed è l\'opposto di quello che il Golfo di solito mostra: niente strutture, nessuna gestione, nessuno spettacolo di luci.',
+    durata: 'mezza giornata, meglio di pomeriggio per restare fino al tramonto',
     periodo:
-      'da novembre a marzo. In estate è pericoloso per il caldo e le escursioni vengono sospese. Dopo le piogge la pista può diventare impraticabile.',
-    costo: 'gratuito il sito; l\'escursione con 4x4 e autista costa indicativamente 300-600 riyal a persona',
+      'da novembre a marzo. D\'estate il caldo lo rende pericoloso e le escursioni vengono sospese. Dopo le piogge la pista può diventare impraticabile.',
+    costo: 'il sito è gratuito; l\'escursione con 4x4 e autista costa sui 300-600 riyal a persona',
     comePrenotare:
-      'Con un operatore che fornisce 4x4 e autista, prenotando con qualche giorno di anticipo nei weekend invernali. **Andarci in autonomia con un\'auto normale è una cattiva idea**: l\'ultimo tratto è pista, non c\'è segnaletica, il campo telefonico va e viene e ogni anno qualcuno resta bloccato.',
+      'Con un operatore che fornisce 4x4 e autista, prenotando qualche giorno prima nei weekend d\'inverno. **Andarci da soli con un\'auto normale è una pessima idea**: l\'ultimo tratto è pista, non c\'è segnaletica, il telefono prende a tratti e ogni anno qualcuno resta bloccato.',
     cosaPortare:
-      'Acqua in quantità, scarpe con buona presa — il bordo è roccia friabile — e qualcosa di caldo per il tramonto, perché nel deserto la temperatura crolla appena il sole scende.',
+      'Molta acqua, scarpe con una buona presa (il bordo è roccia friabile) e qualcosa di caldo per il tramonto, perché nel deserto la temperatura crolla appena scende il sole.',
     perChiEAdatta:
-      'A chi non ha problemi con l\'esposizione: **non ci sono parapetti di nessun tipo**, il bordo è netto e la roccia sbriciola. È una cosa che va detta chiaramente, perché la fotografia classica si scatta a pochi centimetri dal vuoto.',
+      'Per chi non soffre il vuoto: **non c\'è nessun parapetto**, il bordo è netto e la roccia si sbriciola. Va detto chiaramente, perché la foto classica si scatta a pochi centimetri dal vuoto.',
     miaEsperienza:
-      'Il nome sembra una trovata di marketing e invece è la descrizione più economica possibile di quello che si vede. Dopo un\'ora e mezza, di cui l\'ultima mezz\'ora su pista, si arriva in cima a una scarpata e davanti non c\'è più niente: trecento metri di parete verticale e poi una pianura piatta che continua fino a perdersi nella foschia. Non c\'è un parapetto, non c\'è una biglietteria, non c\'è un chiosco — e in inverno ci si trovano poche decine di persone in tutto. È la cosa più bella vista in Arabia Saudita insieme a Hegra, e le due sono agli antipodi: quella gestita e contingentata, questa completamente libera. Proprio per questo serve una precisazione seria: il bordo è friabile, non c\'è nessuna protezione, e la foto che tutti fanno seduti sul ciglio si scatta a pochi centimetri da un salto di trecento metri. Vale la pena andarci nel pomeriggio e restare al tramonto, quando la roccia diventa rossa — ma il rientro poi si fa al buio su pista, e questa è un\'altra ragione per non guidare da soli.',
+      'Il nome sembra una trovata di marketing, invece descrive con il minimo delle parole quello che si vede. Dopo un\'ora e mezza di strada, l\'ultima mezz\'ora su pista, siamo arrivati in cima a una scarpata e davanti non c\'era più niente: trecento metri di parete verticale e poi una pianura piatta che si perde nella foschia. Nessun parapetto, nessuna biglietteria, nessun chiosco, e d\'inverno qualche decina di persone in tutto. Insieme a Hegra è la cosa più bella che ho visto in Arabia Saudita, e le due sono agli antipodi: là tutto è gestito e a numero chiuso, qui è tutto libero. Proprio per questo serve una precisazione seria. Il bordo è friabile e non ha nessuna protezione, e la foto che tutti fanno seduti sul ciglio si scatta a pochi centimetri da un salto di trecento metri. Conviene andarci di pomeriggio e restare al tramonto, quando la roccia diventa rossa; poi però si rientra al buio su pista, ed è un altro motivo per non guidare da soli.',
     giudizio: 'imperdibile',
     alternative: [
-      'Le formazioni di arenaria attorno ad AlUla, per un paesaggio desertico diverso e più accessibile',
+      'Le formazioni di arenaria intorno ad AlUla, per un paesaggio desertico diverso e più accessibile',
       'Il wadi Hanifa, alle porte di Riyadh, per una gita più semplice e senza 4x4',
     ],
     tripSlugs: ['arabia-saudita-itinerario'],

@@ -6,25 +6,25 @@ export const norvegia: Paese = {
   continente: 'Europa',
   titolo: 'Norvegia: le Lofoten in 7 giorni, tra fiordi e sole di mezzanotte',
   descrizione:
-    'Sette giorni on the road tra Oslo, Bodø e l\'arcipelago delle Lofoten: trekking iconici, un\'escursione in gommone tra le aquile di mare del Trollfjord, spiagge polari raggiungibili solo in traghetto e villaggi di pescatori sospesi nel tempo. Un itinerario vissuto davvero, con i sentieri che vale la pena fare e quelli da saltare.',
-  periodoMigliore: 'estate polare (giugno-agosto), per luce lunghissima e clima meno rigido — comunque freddo e ventoso anche a luglio',
+    'Sette giorni on the road tra Oslo, Bodø e l\'arcipelago delle Lofoten: trekking iconici, un\'escursione in gommone tra le aquile di mare del Trollfjord, spiagge polari raggiungibili solo in traghetto e villaggi di pescatori rimasti come un tempo. È un itinerario che ho fatto io, con i sentieri che vale la pena fare e quelli da saltare.',
+  periodoMigliore: 'estate polare (giugno-agosto), per luce lunghissima e clima meno rigido, anche se a luglio fa comunque freddo e c\'è vento',
   durataConsigliata: '7-9 giorni per coprire Oslo, Bodø e le Lofoten senza correre troppo',
-  budgetIndicativo: '500-600€ a testa solo per i pasti (dato dal viaggio provato); da aggiungere voli, noleggio auto, traghetti e alloggi',
+  budgetIndicativo: '500-600€ a testa solo per i pasti (è quanto abbiamo speso noi); da aggiungere voli, noleggio auto, traghetti e alloggi',
   scheda: {
     documenti:
       'La Norvegia è in area Schengen pur non essendo nell\'Unione Europea: per i cittadini italiani basta la carta d\'identità valida per l\'espatrio. Patente italiana valida.',
-    valuta: 'Corona norvegese (NOK). Il paese è largamente cashless, ma qualche corona in contanti torna utile nei piccoli esercizi lungo la strada.',
+    valuta: 'Corona norvegese (NOK). Il paese è quasi del tutto cashless, ma qualche corona in contanti torna utile nei piccoli esercizi lungo la strada.',
     pagamenti:
-      'Si paga con carta praticamente ovunque, traghetti compresi. Attenzione ai locali più piccoli e isolati, che a volte accettano solo contanti o le app di pagamento norvegesi: capita, per esempio, nei caffè lungo la strada verso le Lofoten. Gli alcolici sopra una certa gradazione si comprano solo nei negozi statali Vinmonopolet; i supermercati vendono solo birra, con orari limitati.',
+      'Si paga con carta quasi ovunque, traghetti compresi. Attenzione ai locali più piccoli e isolati, che a volte accettano solo contanti o le app di pagamento norvegesi: capita, per esempio, nei caffè lungo la strada verso le Lofoten. Gli alcolici sopra una certa gradazione si comprano solo nei negozi statali Vinmonopolet; i supermercati vendono solo birra, con orari limitati.',
     connettivita:
       'La Norvegia è nello Spazio economico europeo: il roaming italiano funziona senza costi aggiuntivi, non serve una SIM locale. Copertura buona anche nelle isole, meno nei fiordi più stretti.',
     salute: 'Tessera europea di assicurazione malattia (TEAM) valida. Standard sanitari altissimi, acqua del rubinetto ottima ovunque.',
     sicurezza:
       'Tra i paesi più sicuri al mondo. I rischi sono legati alla natura: sentieri esposti come il Reinebringen e il Festvågtind, vento fortissimo su spiagge e crinali, meteo che cambia in poche ore. I trekking più famosi vanno affrontati solo con cielo sereno, altrimenti si fa fatica per nulla.',
     trasportiInterni:
-      'Volo interno da Oslo verso il nord (Bodø, Tromsø) per coprire le distanze, poi auto a noleggio e traghetti locali. Regola pratica che vale davvero: presentarsi ai traghetti con 30-40 minuti di anticipo anche avendo il posto prenotato.',
+      'Volo interno da Oslo verso il nord (Bodø, Tromsø) per coprire le distanze, poi auto a noleggio e traghetti locali. Una regola pratica che funziona: presentarsi ai traghetti con 30-40 minuti di anticipo anche avendo il posto prenotato.',
     costoVita:
-      'Tra i paesi più cari al mondo: per una settimana si possono spendere 500-600€ a testa di soli pasti, senza contare voli, noleggio auto, traghetti e alloggi. Cucinare in appartamento o in rorbu abbatte molto il conto.',
+      'Tra i paesi più cari al mondo: per una settimana si possono spendere 500-600€ a testa di soli pasti, senza contare voli, noleggio auto, traghetti e alloggi. Cucinare in appartamento o in rorbu fa scendere molto il conto.',
     lingua: 'Norvegese; l\'inglese è parlato da tutti, con ottima padronanza.',
     elettricita: '230V, 50Hz, prese di tipo C e F: identiche a quelle italiane.',
     fusoOrario: 'Stessa ora dell\'Italia tutto l\'anno.',

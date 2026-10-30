@@ -18,6 +18,8 @@ export const MAPPE = {
   brasile: { fonte: 'world', nomi: ['Brazil'], cc: 'br' },
   bulgaria: { fonte: 'world', nomi: ['Bulgaria'], cc: 'bg' },
   california: { fonte: 'us', nomi: ['California'], cc: 'us' },
+  // senza l'arcipelago artico: le tappe sono tutte a sud (Ontario, Québec) più Churchill sulla baia di Hudson
+  canada: { fonte: 'world', nomi: ['Canada'], clip: [-142, 41, -52, 66], cc: 'ca' },
   cina: { fonte: 'world', nomi: ['China', 'Hong Kong', 'Macao'], cc: 'cn,hk,mo' },
   'corea-del-sud': { fonte: 'world', nomi: ['South Korea'], cc: 'kr' },
   'costa-rica': { fonte: 'world', nomi: ['Costa Rica'], clip: [-86.5, 7.5, -82, 11.5], cc: 'cr' },

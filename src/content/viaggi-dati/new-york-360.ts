@@ -77,8 +77,8 @@ export const newYork360Meta: TripMeta = {
       statoPernottamento: 'provato',
       intensita: 'intenso',
       destinazioneSlug: 'statua-liberta-wall-street',
-      immagine: '/images/viaggi/new-york-360/giorno-4-statua-liberta.jpg',
-      imageAlt: 'La Statua della Libertà vista dal basso, con la torcia sollevata contro il cielo blu',
+      immagine: '/images/new-york/statua-liberta-riccardo.jpg',
+      imageAlt: 'La Statua della Libertà vista dal basso con la torcia alzata contro il cielo blu',
     },
     {
       titoloGiorno: 'Giorno 5 (11.09) — Ground Zero, DUMBO, Top of the Rock',
@@ -87,8 +87,8 @@ export const newYork360Meta: TripMeta = {
       statoPernottamento: 'provato',
       intensita: 'intenso',
       destinazioneSlug: 'ground-zero-dumbo',
-      immagine: '/images/viaggi/new-york-360/giorno-5-dumbo.jpg',
-      imageAlt: 'Il Manhattan Bridge incorniciato tra i palazzi in mattoni di Washington Street, DUMBO, con l\'Empire State Building sullo sfondo',
+      immagine: '/images/new-york/dumbo-manhattan-bridge-riccardo.jpg',
+      imageAlt: 'Il Manhattan Bridge incorniciato dai palazzi di mattoni rossi di DUMBO, a Brooklyn',
     },
     {
       titoloGiorno: 'Giorno 6 (12.09) — Rientro',
@@ -97,8 +97,8 @@ export const newYork360Meta: TripMeta = {
       statoPernottamento: 'provato',
       intensita: 'leggero',
       destinazioneSlug: 'times-square-midtown',
-      immagine: '/images/viaggi/new-york-360/giorno-6-skyline-rientro.jpg',
-      imageAlt: "Un ultimo sguardo allo skyline di Lower Manhattan dalla Brooklyn Heights Promenade, prima del rientro",
+      immagine: '/images/new-york/lower-manhattan-skyline-riccardo.jpg',
+      imageAlt: 'Lo skyline di Lower Manhattan con il One World Trade Center visto dall\'acqua',
     },
   ],
   budget: [

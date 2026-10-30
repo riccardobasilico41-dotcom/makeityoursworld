@@ -70,60 +70,25 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       licenza: 'CC BY-SA 2.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Plaza_de_Armas,_Lima,_Peru.jpg',
     },
-    'Giorno 3 — Volo a Cusco e primo giorno di acclimatamento': {
-      autore: 'Diego Delso (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Plaza_de_Armas,_Cusco,_Per%C3%BA,_2015-07-31,_DD_53-56_PAN.jpg',
-    },
-    'Giorno 4 — Cusco: Qorikancha, Sacsayhuamán e San Blas': {
-      autore: 'Diego Delso (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Sacsayhuam%C3%A1n,_Cusco,_Per%C3%BA,_2015-07-31,_DD_28-30_PAN.JPG',
-    },
     'Giorno 5 — Rainbow Mountain o la laguna Humantay': {
       autore: 'Yifan Wang (Wikimedia Commons)',
       licenza: 'CC BY 2.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Vinicunca,_Rainbow_Mountain.jpg',
-    },
-    'Giorno 6 — Verso la Valle Sacra: Pisac e Ollantaytambo': {
-      autore: 'Marvin The Paranoid (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:The_Inca_fortress_at_Ollantaytambo.jpg',
-    },
-    'Giorno 7 — Le saline di Maras, Moray e Chinchero': {
-      autore: 'F Delventhal (Wikimedia Commons)',
-      licenza: 'CC BY 2.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:View_of_Inca_terraces_of_Moray,_2018.jpg',
     },
     'Giorno 8 — In treno verso Machu Picchu': {
       autore: 'Sashimi-b (Wikimedia Commons)',
       licenza: 'CC BY-SA 4.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Peru_Rail_above_Urubamba_River.jpg',
     },
-    'Giorno 9 — Machu Picchu all\'apertura': {
-      autore: 'Tomas Sobek (Wikimedia Commons)',
-      licenza: 'CC0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Ruins_of_Machu_Picchu_(Unsplash).jpg',
-    },
     'Giorno 10 — Da Cusco a Puno sull\'altopiano': {
       autore: 'Ellywa (Wikimedia Commons)',
       licenza: 'CC BY-SA 4.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Raqchi_Peru,_Temple_of_Wiracocha.jpg',
     },
-    'Giorno 11 — Titicaca: le isole Uros e Taquile, notte ad Amantaní': {
-      autore: 'Diego Delso (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Islas_flotantes_de_los_Uros,_Lago_Titicaca,_Per%C3%BA,_2015-08-01,_DD_17.JPG',
-    },
     'Giorno 12 — Amantaní all\'alba e ritorno a Puno': {
       autore: 'H.dav.are (Wikimedia Commons)',
       licenza: 'CC BY-SA 4.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Landscape_of_Amantan%C3%AD_Island_from_Pachatata_temple.jpg',
-    },
-    'Giorno 13 — Da Puno ad Arequipa': {
-      autore: 'Draceane (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Arequipa,_Plaza_de_Armas,_2023_(10).jpg',
     },
     'Giorno 14 — Arequipa, la città bianca': {
       autore: 'Josep M. Gracia (Wikimedia Commons)',
@@ -247,11 +212,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       licenza: 'CC BY 4.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Batavia_City_Hall_(Jakarta_History_Museum)_Fatahillah_Square_(2025)_-_img_17.jpg',
     },
-    'Giorno 7 — Alba a Borobudur, tramonto a Prambanan': {
-      autore: 'Justine Hong (Wikimedia Commons)',
-      licenza: 'CC BY 2.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Borobudur_Sunrise_2012-01-05.jpg',
-    },
     'Giorno 8 — Yogyakarta: kraton, batik e Malioboro': {
       autore: 'CEphoto / Uwe Aranas (Wikimedia Commons)',
       licenza: 'CC BY-SA 3.0',
@@ -261,12 +221,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       autore: 'Hugo van den Bos (Wikimedia Commons)',
       licenza: 'CC BY 2.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Cemoro_Lawang_from_Mount_Penanjakan.jpg',
-    },
-    'Giorno 10 — Alba al Gunung Bromo e la cascata di Madakaripura': {
-      autore: 'Thomas Hirsch (Wikimedia Commons)',
-      licenza: 'CC BY-SA 3.0',
-      fonteUrl:
-        'https://commons.wikimedia.org/wiki/File:Mount_Bromo_at_sunrise,_showing_its_volcanoes_and_Mount_Semeru_(background).jpg',
     },
     'Giorno 11 — Il fuoco blu del Kawah Ijen': {
       autore: 'Jakub Hałun (Wikimedia Commons)',
@@ -564,22 +518,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       autore: 'Wikimedia Commons',
       licenza: 'CC BY 4.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:The_Vessel_June_2024.jpg',
-    },
-    'Giorno 4 (10.09) — Statua della Libertà, Wall Street, Chinatown, Broadway': {
-      autore: 'Daniel Schwen (Wikimedia Commons)',
-      licenza: 'CC BY-SA',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Statue_of_Liberty_frontal_2_crop.JPG',
-    },
-    'Giorno 5 (11.09) — Ground Zero, DUMBO, Top of the Rock': {
-      autore: 'Wikimedia Commons',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl:
-        'https://commons.wikimedia.org/wiki/File:Manhattan_Bridge_view_from_Washington_Street_DUMBO_Brooklyn_Morning_2022.jpg',
-    },
-    'Giorno 6 (12.09) — Rientro': {
-      autore: 'Kidfly182 (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Lower_Manhattan_Skyline_from_Brooklyn_Heights.jpg',
     },
   },
   'florida-road-trip': {
@@ -1008,11 +946,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       licenza: 'Public Domain',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Sensoji0349.jpg',
     },
-    "Giorno 2 (07.04) — Kamakura, l'antica capitale sul mare": {
-      autore: 'DXR (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Great_Buddha_at_K%C5%8Dtoku-in_20190421_1.jpg',
-    },
     'Giorno 3 (08.04) — Monte Fuji e Pagoda Chureito': {
       autore: 'Stjepko Krehula (Wikimedia Commons)',
       licenza: 'CC BY 4.0',
@@ -1022,32 +955,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       autore: 'John Gillespie (Wikimedia Commons)',
       licenza: 'CC BY-SA 2.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Shinkansen_N700_at_Kyoto_Station_2015-10-18_01.jpg',
-    },
-    'Giorno 5 (10.04) — Kyoto: Arashiyama, la foresta di bambù e Gion': {
-      autore: 'Basile Morin (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Bamboo_Forest,_Arashiyama,_Kyoto,_Japan.jpg',
-    },
-    'Giorno 6 (11.04) — Kyoto: Fushimi Inari, Nijo Castle, Kinkaku-ji': {
-      autore: 'Hyppolyte de Saint-Rambert (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Fushimi_Inari_Taisha_tunnel.jpg',
-    },
-    'Giorno 7 (12.04) — Kyoto-Hiroshima-Miyajima': {
-      autore: 'Jakub Hałun (Wikimedia Commons)',
-      licenza: 'CC BY 4.0',
-      fonteUrl:
-        'https://commons.wikimedia.org/wiki/File:Itsukushima-jinja_torii_at_sunset,_Miyajima,_Japan,_20240816_1812_4144.jpg',
-    },
-    'Giorno 8 (13.04) — Hiroshima-Himeji-Osaka (o Kobe)': {
-      autore: 'Gilles Desjardins (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Himeji_Castle_Japan.jpg',
-    },
-    'Giorno 9 (14.04) — Osaka e Nara': {
-      autore: 'Sun jess (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:A_pair_of_deer_in_Nara_Park,_Japan.jpg',
     },
     'Giorno 10 (15.04) — Osaka-Tokyo: Harajuku e Shibuya': {
       autore: 'Benh LIEU SONG (Wikimedia Commons)',
@@ -1191,26 +1098,11 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       licenza: 'CC BY 2.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Jordanie_Amman_th%C3%A9%C3%A2tre_vu_de_la_citadelle_(3572940445).jpg',
     },
-    'Giorno 2 — Jerash e Mar Morto': {
-      autore: 'Dennis G. Jarvis (Wikimedia Commons)',
-      licenza: 'CC BY-SA 2.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Oval_plaza_in_Jerash.jpg',
-    },
     'Giorno 3 — Karak, Monte Nebo e Little Petra': {
       autore: 'Petar Milošević (Wikimedia Commons)',
       licenza: 'CC BY-SA 4.0',
       fonteUrl:
         'https://commons.wikimedia.org/wiki/File:Karak_Castle,_Jordan_(%D9%82%D9%84%D8%B9%D8%A9_%D8%A7%D9%84%D9%83%D8%B1%D9%83).jpg',
-    },
-    'Giorno 4 — Petra, giornata intera': {
-      autore: 'Graham Racher (Wikimedia Commons)',
-      licenza: 'CC BY-SA 2.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Al_Khazneh_Petra_edit_2.jpg',
-    },
-    'Giorno 5 — Wadi Rum: cammelli, jeep safari e Capodanno nel deserto': {
-      autore: 'Melissamarzo (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Camels_in_Wadi_Rum_-_Jordan,_2023.jpg',
     },
     'Giorno 6 — Alba nel deserto e mare ad Aqaba': {
       autore: 'Adeeb Atwan (Wikimedia Commons)',
@@ -1239,11 +1131,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       licenza: 'CC BY 2.0',
       fonteUrl:
         'https://commons.wikimedia.org/wiki/File:2010-11-04_%E2%80%94_Old_kasbah_in_the_Sahara_desert_%E2%80%93_A%C3%AFt_Benhaddou.jpg',
-    },
-    "Giorno 3 — Merzouga, l'ingresso nel Sahara": {
-      autore: 'Thomas Fuhrmann (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Erg_Chebbi_sunset.jpg',
     },
     'Giorno 4 — Merzouga-Agdz': {
       autore: 'Nawfal Kharbach (Wikimedia Commons)',
@@ -1381,12 +1268,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       autore: 'Vincent Ndaku (Wikimedia Commons)',
       licenza: 'CC BY-SA 3.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:The_Great_Wall_of_China_at_Jinshanling.jpg',
-    },
-    "Giorno 4 — Tempio del Cielo, hutong e Palazzo d'Estate": {
-      autore: 'Xiquinho Silva (Wikimedia Commons)',
-      licenza: 'CC BY 2.0',
-      fonteUrl:
-        'https://commons.wikimedia.org/wiki/File:Temple_of_Heaven_-_Hall_of_Prayer_for_Good_Harvests_01.jpg',
     },
     "Giorno 5 — Treno per Xi'an e mura in bicicletta": {
       autore: 'AcidBomber (Wikimedia Commons)',
@@ -1554,26 +1435,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       licenza: 'CC0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Fibreglass_fishing_boat_on_Negombo_Beach.JPG',
     },
-    'Giorno 2 — Negombo-Anuradhapura': {
-      autore: 'A.Savin (Wikimedia Commons)',
-      licenza: 'Free Art License',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:SL_Anuradhapura_asv2020-01_img11_Ruwanwelisaya_Stupa.jpg',
-    },
-    'Giorno 3 — Anuradhapura-Dambulla: Mihintale e safari': {
-      autore: 'Shankar S. (Wikimedia Commons)',
-      licenza: 'CC BY 2.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Elephant_herd_(7568539214).jpg',
-    },
-    'Giorno 4 — Dambulla-Polonnaruwa-Dambulla': {
-      autore: 'Michael Gunther (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Polonnaruwa_0355.jpg',
-    },
-    'Giorno 5 — Dambulla-Kandy': {
-      autore: 'A.Savin (Wikimedia Commons)',
-      licenza: 'Free Art License',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:SL_Kandy_asv2020-01_img34_Sacred_Tooth_Temple.jpg',
-    },
     'Giorno 6 — Kandy-Nallathanniya: rafting a Kitulgala': {
       autore: 'Pavithra Packiyanathan (Wikimedia Commons)',
       licenza: 'CC BY-SA 4.0',
@@ -1588,16 +1449,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       autore: 'Curved.kiwix (Wikimedia Commons)',
       licenza: 'CC BY-SA 4.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Tea_picker_in_the_highland_region_of_Nuwara_Eliya.jpg',
-    },
-    'Giorno 8 — Nuwara Eliya-Ella: il treno panoramico': {
-      autore: 'A.Savin (Wikimedia Commons)',
-      licenza: 'Free Art License',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:SL_Demodara_near_Ella_asv2020-01_img02.jpg',
-    },
-    'Giorno 9 — Ella-Yala-Hikkaduwa: safari e prima spiaggia': {
-      autore: 'Byrdyak / Volodymyr Burdiak (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Leopard_on_stone_in_Yala_National_Park.jpg',
     },
     'Giorno 10 — Hikkaduwa: giornata di mare': {
       autore: 'Dinusha Chathuranga (Wikimedia Commons)',
@@ -3363,25 +3214,10 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-6DaMJCZX-cM',
     },
-    'Giorno 3 — In treno ad Agra: il Forte e il Taj al tramonto da Mehtab Bagh': {
-      autore: 'Julian Yu (Unsplash)',
-      licenza: 'Unsplash License',
-      fonteUrl: 'https://unsplash.com/photos/dome-building-near-body-of-water-taken-during-daytime-5UGGT7lBF50',
-    },
-    'Giorno 4 — Il Taj Mahal all\'alba, Fatehpur Sikri e la strada per Jaipur': {
-      autore: 'Shan Elahi (Unsplash)',
-      licenza: 'Unsplash License',
-      fonteUrl: 'https://unsplash.com/photos/reflections-of-white-mosque-on-water-DDiLYt_F88w',
-    },
     'Giorno 5 — Jaipur: il Forte di Amber e Nahargarh al tramonto': {
       autore: 'Meriç Dağlı (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/birds-flying-over-river-during-daytime-uADXI1v10us',
-    },
-    'Giorno 6 — Jaipur: City Palace, Jantar Mantar, Hawa Mahal e i bazar': {
-      autore: 'Prateek Katyal (Unsplash)',
-      licenza: 'Unsplash License',
-      fonteUrl: 'https://unsplash.com/photos/brown-concrete-building-under-white-sky-during-daytime-To6i1FNfsOc',
     },
     'Giorno 7 — In treno a Jodhpur, la città blu': {
       autore: 'Abhinav Tripathi (Unsplash)',
@@ -3415,35 +3251,10 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/qutub-minar-stands-tall-under-a-bright-cloudy-sky-7hmAhQww2oE',
     },
-    'Giorno 3 — Varanasi: i ghat all\'alba e l\'aarti a Dashashwamedh': {
-      autore: 'Martijn Vonk (Unsplash)',
-      licenza: 'Unsplash License',
-      fonteUrl: 'https://unsplash.com/photos/a-group-of-boats-floating-on-top-of-a-river-wloNuC7qKf8',
-    },
-    'Giorno 4 — Varanasi: Manikarnika, il Kashi Vishwanath e i vicoli della città vecchia': {
-      autore: 'Kishor Kumar C K (Unsplash)',
-      licenza: 'Unsplash License',
-      fonteUrl: 'https://unsplash.com/photos/a-group-of-boats-sitting-on-top-of-a-river-nXQ3vq4gAY4',
-    },
     'Giorno 5 — Sarnath e il treno notturno per Agra': {
       autore: 'Rohit Dey (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/ancient-brick-ruins-with-a-large-stupa-in-background-hBR4rerbBQs',
-    },
-    'Giorno 6 — Agra: il Forte, il «piccolo Taj» e il tramonto da Mehtab Bagh': {
-      autore: 'Shreshth Gupta (Unsplash)',
-      licenza: 'Unsplash License',
-      fonteUrl: 'https://unsplash.com/photos/white-and-brown-concrete-building-under-blue-sky-during-daytime-7-RDFPniALI',
-    },
-    'Giorno 7 — Il Taj Mahal all\'alba e la strada per Jaipur': {
-      autore: 'Dmitry Voronov (Unsplash)',
-      licenza: 'Unsplash License',
-      fonteUrl: 'https://unsplash.com/photos/a-large-white-building-sitting-in-the-middle-of-a-field-rB9pzEM-93g',
-    },
-    'Giorno 8 — Jaipur, la città rosa': {
-      autore: 'Martijn Vonk (Unsplash)',
-      licenza: 'Unsplash License',
-      fonteUrl: 'https://unsplash.com/photos/a-view-of-a-castle-from-a-distance-8oCgUgo_hBU',
     },
     'Giorno 9 — Jaipur: i bazar e la strada per Pushkar': {
       autore: 'Vivek (Unsplash)',
@@ -3561,16 +3372,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       autore: 'Aravind Shivkumar (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/a-group-of-stone-structures-sitting-on-top-of-a-dirt-field-jDMCUnvD5lY',
-    },
-    'Giorno 15 — Da Bangalore ad Agra': {
-      autore: 'Arun Geetha Viswanathan (Unsplash)',
-      licenza: 'Unsplash License',
-      fonteUrl: 'https://unsplash.com/photos/people-walking-near-brown-concrete-building-during-daytime-8goGYCLzrLs',
-    },
-    'Giorno 16 — Il Taj Mahal all\'alba e il Forte di Agra': {
-      autore: 'Rowan Heuvel (Unsplash)',
-      licenza: 'Unsplash License',
-      fonteUrl: 'https://unsplash.com/photos/taj-mahal-in-agra-at-sunset-sAB4BWrQ4Y4',
     },
     'Giorno 17 — Delhi e partenza': {
       autore: 'Shubham Sharma (Unsplash)',
@@ -4443,6 +4244,88 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       autore: 'Rakoon (Wikimedia Commons)',
       licenza: 'CC0 1.0 (pubblico dominio)',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:DSC_0123_podgorica_july_2017.jpg',
+    },
+  },
+  'canada-itinerario': {
+    'Giorno 1 — Arrivo a Toronto': {
+      autore: 'TheWxResearcher (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Toronto_Skyline_viewed_from_Centre_Island.jpg',
+    },
+    'Giorno 2 — Toronto: la CN Tower, il lago e i mercati': {
+      autore: 'Bernard Spragg (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:CN_Tower_Toronto._(48938595411).jpg',
+    },
+    'Giorno 3 — Le cascate del Niagara dal battello': {
+      autore: 'Matthew Henry (Unsplash, via Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Sightseeing_on_a_boat_(Unsplash).jpg',
+    },
+    'Giorno 4 — Il Niagara in elicottero e Niagara-on-the-Lake': {
+      autore: 'Salwa Farwaneh (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Niagara_Falls_Ontario_Canada_aerial_view.jpg',
+    },
+    'Giorno 5 — Le Mille Isole': {
+      autore: 'Salwa Farwaneh Dameh (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:One_Thousand_Islands_Ontario.jpg',
+    },
+    'Giorno 6 — Kingston e l\'arrivo a Ottawa': {
+      autore: 'DJLeamen (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Parliament_Hill_2_(Ottawa,_ON,_12-17-24).jpg',
+    },
+    'Giorno 7 — Ottawa: il Parlamento, il canale Rideau e i musei': {
+      autore: 'DJLeamen (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Parliament_Hill_4_(Ottawa,_ON,_12-17-24).jpg',
+    },
+    'Giorno 8 — Mont-Tremblant e le Laurentides': {
+      autore: 'Anaïs Kowalczyk (Unsplash, via Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Autumn_hills_in_Mont-Tremblant_(Unsplash).jpg',
+    },
+    'Giorno 9 — Montréal: la città vecchia e la basilica di Notre-Dame': {
+      autore: 'Wilfredor (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Montr%C3%A9al_Basilica_0033.jpg',
+    },
+    'Giorno 10 — Montréal: Mont Royal, il Plateau e i mercati': {
+      autore: 'Pixel.la Free Stock Photos (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Skyline_of_Montreal,_view_from_Mont_Royal_(24244189891).jpg',
+    },
+    'Giorno 11 — Da Montréal a Québec: la città vecchia': {
+      autore: 'Wilfredor (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Chateau_Frontenac_at_dusk_in_Quebec_City.jpg',
+    },
+    'Giorno 12 — Le cascate di Montmorency e l\'Île d\'Orléans': {
+      autore: 'Wilfredor (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Parc_de_la_Chute-Montmorency_001.jpg',
+    },
+    'Giorno 13 — Charlevoix: Baie-Saint-Paul e la strada sul fiume': {
+      autore: 'Jp Valery (Unsplash, via Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Quebec_Wilderness_from_the_Sky_(Unsplash).jpg',
+    },
+    'Giorno 14 — Tadoussac e le balene del San Lorenzo': {
+      autore: 'Thomsonmg2000 (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Saguenay_River_in_2012_01.JPG',
+    },
+    'Giorno 15 — Rientro a Montréal': {
+      autore: 'CanadianPhotographer (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Montreal_Skyline.jpg',
+    },
+    'Giorno 16 — Partenza da Montréal': {
+      autore: 'Wilfredor (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Kondiaronk_Belvedere,_Montreal_city,_Canada.jpg',
     },
   },
 }

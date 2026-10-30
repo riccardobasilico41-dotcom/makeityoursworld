@@ -35,7 +35,7 @@ export const destinazioniFilippine: Destinazione[] = [
     comeSpostarsi: 'Tricycle e scooter a noleggio; barche dei tour dal porto e da Corong-Corong.',
     periodoMigliore: 'da gennaio ad aprile; tra luglio e ottobre molti tour vengono annullati per il mare',
     costi:
-      'Tassa ambientale (ETDF) 400 PHP valida 10 giorni; tour di island hopping indicativamente 1.400-1.900 PHP a persona con pranzo, più gli ingressi dei siti (Big Lagoon a numero chiuso, 200-300 PHP); kayak a parte (indicativi).',
+      'Tassa ambientale (ETDF) 400 PHP valida 10 giorni; tour di island hopping indicativamente 1.400-1.900 PHP a persona con pranzo, più gli ingressi dei siti (Big Lagoon a numero chiuso, 200-300 PHP); kayak a parte (prezzi indicativi).',
     erroriDaEvitare: [
       'Prenotare il Tour A all\'ultimo in alta stagione: gli ingressi alla Big Lagoon sono a fasce orarie limitate',
       'Arrivare senza contanti: gli ATM sono pochi e spesso vuoti',
@@ -73,7 +73,7 @@ export const destinazioniFilippine: Destinazione[] = [
     comeSpostarsi: 'Tricycle in paese, barche dei tour dal porto.',
     periodoMigliore: 'da dicembre a maggio',
     costi:
-      'Tour di island hopping indicativamente 1.500-2.500 PHP a persona con pranzo, più gli ingressi di ciascun sito (Kayangan intorno ai 300-400 PHP); due immersioni sui relitti indicativamente 4.000-5.500 PHP (indicativi).',
+      'Tour di island hopping indicativamente 1.500-2.500 PHP a persona con pranzo, più gli ingressi di ciascun sito (Kayangan intorno ai 300-400 PHP); due immersioni sui relitti indicativamente 4.000-5.500 PHP (prezzi indicativi).',
     erroriDaEvitare: [
       'Andare al Kayangan a metà mattina, quando arrivano tutte le barche insieme',
       'Fare immersioni nei relitti interni senza brevetto e formazione adeguati',
@@ -94,7 +94,7 @@ export const destinazioniFilippine: Destinazione[] = [
     introduzione:
       'La costa sud-occidentale dell\'isola di Cebu, con la barriera di Panagsama Beach a Moalboal, le cascate di Kawasan a Badian e la città di Cebu come snodo dei voli.',
     percheAndarci:
-      'Per nuotare in mezzo al banco di milioni di sardine a pochi metri dalla riva, le tartarughe marine e il canyoning nelle gole di Kawasan.',
+      'Per nuotare in mezzo a un banco di milioni di sardine a pochi metri dalla riva, per le tartarughe marine e per il canyoning nelle gole di Kawasan.',
     cosaVedere: [
       'Il banco di sardine di Panagsama Beach',
       'Pescador Island, in barca',
@@ -110,9 +110,9 @@ export const destinazioniFilippine: Destinazione[] = [
     comeArrivare: 'Aeroporto di Mactan-Cebu, poi 3 ore in auto privata o 4 in bus Ceres dal South Bus Terminal.',
     comeSpostarsi: 'Tricycle e scooter; barche per Pescador.',
     periodoMigliore: 'da dicembre a maggio',
-    costi: 'Canyoning a Kawasan indicativamente 1.500-2.500 PHP con guida; snorkeling dalla riva gratuito o con piccola tassa; immersione 1.500-2.000 PHP (indicativi).',
+    costi: 'Canyoning a Kawasan indicativamente 1.500-2.500 PHP con guida; snorkeling dalla riva gratuito o con piccola tassa; immersione 1.500-2.000 PHP (prezzi indicativi).',
     erroriDaEvitare: [
-      'Andare a Oslob a nuotare con gli squali balena: gli animali vengono nutriti per tenerli sul posto, una pratica criticata dai biologi marini',
+      'Andare a Oslob a nuotare con gli squali balena: gli animali vengono nutriti per tenerli sul posto, e i biologi marini criticano questa pratica',
       'Toccare le tartarughe o inseguirle in acqua',
     ],
     esperienzeSlugs: [],
@@ -144,9 +144,9 @@ export const destinazioniFilippine: Destinazione[] = [
     comeSpostarsi: 'Scooter, tricycle o auto con autista per la giornata.',
     periodoMigliore: 'da dicembre a maggio',
     costi:
-      'Chocolate Hills e santuario dei tarsi indicativamente 100-200 PHP ciascuno; auto con autista per il giro dell\'isola 2.500-3.500 PHP; uscita a Balicasag 1.500-2.500 PHP a barca (indicativi).',
+      'Chocolate Hills e santuario dei tarsi indicativamente 100-200 PHP ciascuno; auto con autista per il giro dell\'isola 2.500-3.500 PHP; uscita a Balicasag 1.500-2.500 PHP a barca (prezzi indicativi).',
     erroriDaEvitare: [
-      'Visitare i tarsi nei finti «santuari» lungo la strada: sono animali notturni e stressati dalle visite; il centro di Corella è quello gestito dalla fondazione',
+      'Visitare i tarsi nei finti «santuari» lungo la strada: sono animali notturni e le visite li stressano; il centro di Corella è quello gestito dalla fondazione',
       'Usare il flash con i tarsi',
     ],
     esperienzeSlugs: [],
@@ -164,7 +164,7 @@ export const destinazioniFilippine: Destinazione[] = [
     visitataPersonalmente: false,
     introduzione:
       'Un\'isola a forma di lacrima affacciata sull\'oceano Pacifico, al largo di Mindanao nord-orientale: palmeti, lagune, isolotti di sabbia e l\'onda di Cloud 9.',
-    percheAndarci: 'Per il surf, l\'island hopping su Naked, Daku e Guyam, la laguna di Sugba e un\'atmosfera rilassata da isola di surfisti.',
+    percheAndarci: 'Per il surf, l\'island hopping tra Naked, Daku e Guyam, la laguna di Sugba e l\'aria rilassata da isola di surfisti.',
     cosaVedere: [
       'La passerella di Cloud 9 a General Luna',
       'Le isole di Naked, Daku e Guyam',
@@ -179,9 +179,9 @@ export const destinazioniFilippine: Destinazione[] = [
     comeSpostarsi: 'Scooter a noleggio o habal-habal (moto-taxi); van condivisi per l\'aeroporto.',
     periodoMigliore: 'da marzo a ottobre per il mare calmo; surf con onde grosse da settembre a novembre; da dicembre a febbraio vento e pioggia',
     costi:
-      'Island hopping indicativamente 1.500-2.000 PHP a persona; lezione di surf 500-1.000 PHP con istruttore e tavola; scooter 350-500 PHP al giorno (indicativi).',
+      'Island hopping indicativamente 1.500-2.000 PHP a persona; lezione di surf 500-1.000 PHP con istruttore e tavola; scooter 350-500 PHP al giorno (prezzi indicativi).',
     erroriDaEvitare: [
-      'Guidare lo scooter senza esperienza e di notte: gli incidenti sono la prima causa di problemi per i turisti',
+      'Guidare lo scooter senza esperienza, o di notte: gli incidenti sono il primo problema dei turisti sull\'isola',
       'Andare a Magpupungko con l\'alta marea, quando le piscine non si vedono',
     ],
     esperienzeSlugs: [],

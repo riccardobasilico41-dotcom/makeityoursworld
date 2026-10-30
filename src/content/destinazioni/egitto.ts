@@ -29,7 +29,7 @@ export const destinazioniEgitto: Destinazione[] = [
     cosaFare: [
       'Passeggiare la sera nel bazar del Khan el-Khalili e bere un tè al caffè El Fishawy',
       'Un tramonto in feluca sul Nilo dalla Corniche',
-      'Lo spettacolo di danza sufi Tannoura al Wekalet El Ghouri (verificare i giorni)',
+      'Lo spettacolo di danza sufi Tannoura al Wekalet El Ghouri (conviene controllare prima i giorni)',
     ],
     doveDormire:
       'Per chi ha poco tempo conviene dormire a Giza, vicino alle piramidi e al GEM. Per chi resta di più, Zamalek (isola sul Nilo, tranquilla e piena di locali) o Downtown. Economiche: guesthouse con vista piramidi a Nazlet el-Semman · fascia media: hotel di Zamalek e Garden City · lusso: Marriott Mena House a Giza, i grandi hotel sul Nilo.',
@@ -188,7 +188,7 @@ export const destinazioniEgitto: Destinazione[] = [
     introduzione:
       'Un\'oasi di palme e laghi salati a 50 km dal confine libico, abitata da una comunità di lingua berbera, ai margini del Grande Mare di Sabbia.',
     percheAndarci:
-      'Per un Egitto completamente diverso da quello dei templi: case di fango salato, sorgenti in cui fare il bagno, le dune del Grande Mare di Sabbia e il tempio dell\'Oracolo dove Alessandro Magno venne proclamato figlio di Amon.',
+      'Per un Egitto del tutto diverso da quello dei templi: case di fango salato, sorgenti in cui fare il bagno, le dune del Grande Mare di Sabbia e il tempio dell\'Oracolo dove Alessandro Magno venne proclamato figlio di Amon.',
     cosaVedere: [
       'La fortezza di Shali, il vecchio centro in kershef (fango e sale)',
       'Il tempio dell\'Oracolo di Amon ad Aghurmi',

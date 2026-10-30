@@ -21,9 +21,9 @@ export const destinazioniIndonesia: Destinazione[] = [
     giorniConsigliati: '7-10 giorni per coprire il nord (Bukit Lawang, Lago Toba, Berastagi)',
     visitataPersonalmente: true,
     introduzione:
-      'La porta d\'accesso più selvaggia dell\'arcipelago: giungla del Gunung Leuser con gli ultimi oranghi selvatici del pianeta, il più grande lago vulcanico al mondo e la cultura Batak sull\'isola di Samosir.',
+      'La porta d\'accesso più selvaggia dell\'arcipelago: la giungla del Gunung Leuser con gli ultimi oranghi selvatici del pianeta, il più grande lago vulcanico al mondo e la cultura Batak sull\'isola di Samosir.',
     percheAndarci:
-      'È l\'isola dove il trekking nella giungla è più autentico e meno battuto rispetto ad altre mete del sud-est asiatico, con l\'incontro con gli oranghi come momento clou.',
+      'Qui il trekking nella giungla è meno battuto che in altre mete del sud-est asiatico, e il momento più forte è l\'incontro con gli oranghi.',
     cosaVedere: [
       'Il Parco Nazionale del Gunung Leuser a Bukit Lawang, uno degli ultimi habitat degli oranghi di Sumatra',
       'Il Lago Toba, il più grande lago vulcanico al mondo, con l\'isola di Samosir al centro',
@@ -39,7 +39,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     doveDormire:
       'Guesthouse lungo il fiume Bohorok a Bukit Lawang, comode per partire presto per il trekking; homestay sull\'isola di Samosir per il Lago Toba.',
     doveMangiare:
-      'Si mangia semplice e quasi ovunque bene: nasi padang — vetrinette con dieci o quindici piatti già pronti, si indica quello che si vuole e si paga solo ciò che si tocca — è l\'istituzione locale ed è nato proprio qui, a Sumatra occidentale. Nella zona del Lago Toba compare il maiale, raro nel resto dell\'Indonesia musulmana, perché i Batak sono cristiani. Il caffè di Sumatra, bevuto nei warung sulla strada per Berastagi, è tra i migliori del paese e costa pochi centesimi.',
+      'Si mangia semplice e quasi ovunque bene: il nasi padang (vetrinette con dieci o quindici piatti già pronti: si indica quello che si vuole e si paga solo ciò che si tocca) è l\'istituzione locale ed è nato proprio qui, a Sumatra occidentale. Nella zona del Lago Toba compare il maiale, raro nel resto dell\'Indonesia musulmana, perché i Batak sono cristiani. Il caffè di Sumatra, bevuto nei warung sulla strada per Berastagi, è tra i migliori del paese e costa pochi centesimi.',
     comeArrivare: 'Volo su Medan (Kualanamu International, KNO) da Giacarta o da Kuala Lumpur/Singapore.',
     comeSpostarsi: 'Auto privata o bus tra Medan, Bukit Lawang, Berastagi e Lago Toba; traghetto per l\'isola di Samosir.',
     periodoMigliore: 'giugno-settembre, stagione più secca per il trekking',
@@ -52,7 +52,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       {
         titolo: 'Oranghi a Sumatra o in Borneo?',
         introduzione:
-          'Gli oranghi selvatici esistono solo su queste due isole, e sono specie diverse: quello di Sumatra (in pericolo critico, poche migliaia di individui) e quello del Borneo. Chi ha fatto Bukit Lawang e pensa al Borneo — o viceversa — si sta ponendo la domanda giusta, perché non è la stessa esperienza.',
+          'Gli oranghi selvatici esistono solo su queste due isole, e sono specie diverse: quello di Sumatra (in pericolo critico, poche migliaia di individui) e quello del Borneo. Chi ha fatto Bukit Lawang e pensa al Borneo, o viceversa, fa bene a chiederselo, perché le due esperienze sono diverse.',
         opzioni: [
           {
             nome: 'Bukit Lawang, Sumatra',
@@ -60,13 +60,13 @@ export const destinazioniIndonesia: Destinazione[] = [
             costo: 'il più economico di tutti: trekking guidati di 1-3 giorni per poche decine di euro, alloggi semplici sul fiume',
             durata: '2-3 giorni',
             pro: [
-              'Si cammina dentro la foresta: è un incontro attivo, non una piattaforma o una barca',
+              'Si cammina dentro la foresta: l\'incontro è attivo, senza piattaforme né barche',
               'Probabilità alte, perché nella zona vivono ex individui riabilitati ormai selvatici',
               'Costi bassissimi, un quarto o meno di qualsiasi opzione del Borneo',
               'Il Leuser è l\'ultimo ecosistema al mondo dove oranghi, tigri, rinoceronti ed elefanti convivono',
             ],
             contro: [
-              'Il nodo etico è reale: alcune guide attirano gli animali con il cibo per garantire l\'avvistamento, e va rifiutato esplicitamente in fase di prenotazione',
+              'C\'è un nodo etico: alcune guide attirano gli animali con il cibo per garantire l\'avvistamento, e va rifiutato in modo esplicito quando si prenota',
               'Fisicamente impegnativo: fango, radici, caldo e umidità alti',
               'Regolamentazione meno rigida che in Malesia: la qualità dipende molto dalla guida',
               'Oltre agli oranghi, la zona offre meno varietà di fauna visibile',
@@ -93,11 +93,11 @@ export const destinazioniIndonesia: Destinazione[] = [
           },
         ],
         raccomandazione:
-          'Per il solo incontro con gli oranghi, Sumatra dà più per molto meno: si cammina, si cerca, e costa una frazione. Il Borneo si sceglie quando la lista è più lunga — nasiche, elefanti pigmei, foresta primaria, Sipadan — e gli oranghi sono uno dei motivi, non l\'unico. Chi ha già fatto Bukit Lawang non attraversi mezzo sud-est asiatico per rivederli: vada in Borneo per tutto il resto, e li rivedrà comunque.',
+          'Per il solo incontro con gli oranghi, Sumatra dà più per molto meno: si cammina, si cerca, e costa una frazione. Il Borneo si sceglie quando la lista è più lunga (nasiche, elefanti pigmei, foresta primaria, Sipadan) e gli oranghi sono solo uno dei motivi. Chi ha già fatto Bukit Lawang non attraversi mezzo sud-est asiatico per rivederli: vada in Borneo per tutto il resto, e li rivedrà comunque.',
       },
     ],
     miaEsperienza:
-      'È l\'isola che quasi nessuno mette in itinerario, e sbaglia. Il trekking a Bukit Lawang non è una passeggiata nel verde: si sale nel fango aggrappandosi alle radici, fa un caldo che toglie il respiro, e dopo tre ore senza vedere niente viene il dubbio di aver buttato una giornata. Poi un orango scende su un ramo a pochi metri, guarda per qualche secondo e riprende a mangiare, e quel dubbio sparisce. Va detta anche la parte scomoda: qualche guida attira gli animali col cibo per garantire l\'avvistamento, ed è una pratica da rifiutare esplicitamente al momento della prenotazione. Il Lago Toba, dopo, funziona come decompressione — grande come una provincia, silenzioso, con un ritmo che rallenta da solo.',
+      'È l\'isola che quasi nessuno mette in itinerario, e sbaglia. A Bukit Lawang siamo saliti nel fango aggrappandoci alle radici, con un caldo che toglieva il respiro, e dopo tre ore senza vedere niente mi è venuto il dubbio di aver buttato una giornata. Poi un orango è sceso su un ramo a pochi metri, è rimasto a guardare per qualche secondo e ha ripreso a mangiare, e il dubbio è sparito. C\'è anche una parte scomoda: qualche guida attira gli animali col cibo per garantire l\'avvistamento, e va rifiutato in modo esplicito quando si prenota. Il Lago Toba, dopo, è stato la decompressione: grande come una provincia, silenzioso, con un ritmo che rallenta da solo.',
     esperienzeSlugs: ['trekking-oranghi-bukit-lawang'],
     tripSlugs: ['indonesia-itinerario'],
     imageAlt: 'Il lago Toba visto dall\'alto tra colline verdi e foresta, Sumatra',
@@ -114,11 +114,11 @@ export const destinazioniIndonesia: Destinazione[] = [
     introduzione:
       'L\'isola più popolosa dell\'Indonesia, cuore culturale del paese con i templi buddisti e induisti più imponenti del sud-est asiatico e due dei vulcani più spettacolari da vedere all\'alba.',
     percheAndarci:
-      'Concentra in poche centinaia di chilometri i templi di Borobudur e Prambanan, l\'alba sul cratere del Bromo e il fuoco blu dell\'Ijen — tre esperienze molto diverse tra loro.',
+      'Concentra in poche centinaia di chilometri i templi di Borobudur e Prambanan, l\'alba sul cratere del Bromo e il fuoco blu dell\'Ijen, esperienze molto diverse tra loro.',
     cosaVedere: [
       'Borobudur, il tempio buddista più grande del mondo, all\'alba',
       'Prambanan, il complesso di templi induisti più grande dell\'Indonesia',
-      'Il Gunung Bromo con il suo cratere fumante circondato dal Mare di Sabbia',
+      'Il Gunung Bromo, con il cratere fumante circondato dal Mare di Sabbia',
       'Il Kawah Ijen, con il lago di acido solforico turchese e le fiamme blu notturne',
     ],
     cosaFare: [
@@ -130,7 +130,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     doveDormire:
       'Yogyakarta come base per Borobudur e Prambanan, con la zona di Prawirotaman più tranquilla di Malioboro; per Bromo si dorme a Cemoro Lawang, sul bordo del cratere, e per l\'Ijen a Banyuwangi o nelle guesthouse di Licin.',
     doveMangiare:
-      'Yogyakarta è il posto dove provare il gudeg, lo stufato dolce di jackfruit che è il piatto identitario della città e divide chi lo assaggia. Per il resto la strada batte i ristoranti: nasi goreng e mie goreng dai carretti serali, sate ayam, e il tempeh — inventato proprio a Giava — fritto e mangiato come spuntino. Attorno a Bromo e all\'Ijen l\'offerta è minima e i pasti si fanno in guesthouse: non è il momento del viaggio in cui si mangia bene.',
+      'Yogyakarta è il posto dove provare il gudeg, lo stufato dolce di jackfruit che è il piatto identitario della città e divide chi lo assaggia. Per il resto la strada batte i ristoranti: nasi goreng e mie goreng dai carretti serali, sate ayam e il tempeh (inventato proprio a Giava), fritto e mangiato come spuntino. Attorno a Bromo e all\'Ijen l\'offerta è minima e i pasti si fanno in guesthouse: non è il momento del viaggio in cui si mangia bene.',
     comeArrivare:
       'Volo su Giacarta (CGK), hub internazionale del paese, oppure direttamente su Yogyakarta o Surabaya (punto di partenza per Bromo/Ijen).',
     comeSpostarsi:
@@ -138,15 +138,15 @@ export const destinazioniIndonesia: Destinazione[] = [
     periodoMigliore: 'maggio-settembre, cieli più tersi per l\'alba al Bromo',
     costi: 'nella media dell\'arcipelago; i tour organizzati per Bromo/Ijen hanno un costo fisso indipendente dalla stagione',
     erroriDaEvitare: [
-      'Salire al Kawah Ijen senza maschera antigas: i fumi di zolfo sono realmente pericolosi',
+      'Salire al Kawah Ijen senza maschera antigas: i fumi di zolfo sono pericolosi',
       'Sottovalutare il traffico di Giacarta nella pianificazione degli spostamenti',
     ],
     miaEsperienza:
-      'Giava è la parte di Indonesia che fa meno vacanza e lascia il ricordo più netto. L\'Ijen soprattutto: si parte all\'una di notte, si sale al buio con la maschera antigas addosso, e quando si scende nel cratere le fiamme blu sono più piccole di come appaiono nelle foto — è tutto il resto a essere enorme. Perché accanto passano i minatori con ceste di zolfo da ottanta chili sulle spalle, scalzi o quasi, e il turismo lì dentro assume un peso diverso. Al Bromo succede l\'opposto: l\'alba dal Penanjakan è spettacolare ma è anche un parcheggio con centinaia di jeep e file di persone col telefono alzato. Vale comunque, a patto di saperlo prima. Borobudur all\'alba è una delle poche cose che regge il proprio mito, ma il biglietto per salire sulla struttura è a numero chiuso e si esaurisce con largo anticipo.',
+      'Giava è la parte di Indonesia che fa meno vacanza e lascia il ricordo più netto. L\'Ijen soprattutto: siamo partiti all\'una di notte e siamo saliti al buio con la maschera antigas addosso. Scesi nel cratere, le fiamme blu erano più piccole di come appaiono nelle foto; enorme era tutto il resto. Accanto passavano i minatori con ceste di zolfo da ottanta chili sulle spalle, scalzi o quasi, e lì dentro il turismo assume un peso diverso. Al Bromo è successo l\'opposto: l\'alba dal Penanjakan è spettacolare, ma è anche un parcheggio con centinaia di jeep e file di persone col telefono alzato. Vale comunque, a patto di saperlo prima. Borobudur all\'alba è una delle poche cose che regge il proprio mito, ma il biglietto per salire sulla struttura è a numero chiuso e si esaurisce con largo anticipo.',
     esperienzeSlugs: ['alba-bromo-jeep'],
     tripSlugs: ['indonesia-itinerario'],
-    imageAlt: 'Il tempio buddista di Borobudur visto da nord-ovest, Giava centrale',
-    immagine: '/images/indonesia/giava.jpg',
+    imageAlt: 'Una testa di Buddha in pietra di Borobudur, di spalle, davanti alla valle avvolta nella nebbia dell\'alba, Giava',
+    immagine: '/images/indonesia/borobudur-buddha-nebbia-riccardo.jpg',
   },
   {
     slug: 'bali',
@@ -157,18 +157,18 @@ export const destinazioniIndonesia: Destinazione[] = [
     giorniConsigliati: '7-10 giorni per coprire Ubud, il sud e almeno una delle isole vicine',
     visitataPersonalmente: true,
     introduzione:
-      'L\'isola più conosciuta dell\'arcipelago: risaie a terrazza, templi a picco sul mare, spiagge da surf e una scena nightlife/wellness tra le più sviluppate del sud-est asiatico.',
+      'L\'isola più conosciuta dell\'arcipelago: risaie a terrazza, templi a picco sul mare, spiagge da surf e una scena di vita notturna e benessere tra le più sviluppate del sud-est asiatico.',
     percheAndarci:
-      'Concentra in poco spazio anime molto diverse — la calma culturale di Ubud, il surf e la vita notturna del sud, i panorami vertiginosi di Uluwatu e Nusa Penida a poche ore di barca.',
+      'In poco spazio ci sono anime molto diverse: la calma culturale di Ubud, il surf e la vita notturna del sud, le scogliere di Uluwatu e Nusa Penida a poche ore di barca.',
     cosaVedere: [
       'Le risaie a terrazza di Tegalalang e la foresta delle scimmie a Ubud',
-      'Il tempio di Uluwatu, a picco su una scogliera a strapiombo sul mare',
+      'Il tempio di Uluwatu, su una scogliera a strapiombo sul mare',
       'Tanah Lot, il tempio su uno scoglio circondato dalla marea',
       'Kelingking Beach e Angel\'s Billabong a Nusa Penida',
     ],
     cosaFare: [
       'Sunrise trekking sul vulcano Gunung Batur',
-      'Giornata (o più) alle isole Nusa Penida per Kelingking Beach e i punti snorkeling con le manta — vedi la scheda esperienza dedicata',
+      'Giornata (o più) alle isole Nusa Penida per Kelingking Beach e i punti snorkeling con le manta (c\'è una scheda esperienza dedicata)',
       'Surf a Canggu o Uluwatu, per tutti i livelli',
       'Danza Kecak al tramonto al tempio di Uluwatu',
       'Giro in scooter tra le risaie dell\'entroterra di Ubud',
@@ -176,19 +176,19 @@ export const destinazioniIndonesia: Destinazione[] = [
     doveDormire:
       'Ubud per la parte culturale e le risaie, Canggu per il surf e la vita serale, Uluwatu per le scogliere e la calma relativa, Sanur o Nusa Dua per un ritmo più tranquillo e familiare. Dormire una notte a Nusa Penida evita la traversata doppia in giornata.',
     doveMangiare:
-      'L\'errore è mangiare solo nei caffè per stranieri, che sono ovunque e ottimi ma raccontano poco. Il babi guling — maialino da latte allo spiedo — è il piatto balinese per eccellenza e si trova nei locali specializzati che aprono a pranzo e chiudono quando finiscono; il bebek betutu, l\'anatra cotta per ore nelle spezie, va spesso ordinato il giorno prima. Nei warung di quartiere si mangia con pochi euro, e la qualità non c\'entra niente col prezzo.',
+      'L\'errore è mangiare solo nei caffè per stranieri, che sono ovunque e ottimi ma raccontano poco. Il babi guling, il maialino da latte allo spiedo, è il piatto balinese per eccellenza e si trova nei locali specializzati che aprono a pranzo e chiudono quando finiscono; il bebek betutu, l\'anatra cotta per ore nelle spezie, va spesso ordinato il giorno prima. Nei warung di quartiere si mangia con pochi euro, e la qualità non c\'entra niente col prezzo.',
     comeArrivare: 'Volo su Denpasar (DPS), il principale scalo internazionale dell\'isola.',
     comeSpostarsi:
       'Scooter a noleggio (patente internazionale consigliata, controlli frequenti) o autista privato/Grab per gli spostamenti più lunghi.',
     periodoMigliore: 'aprile-ottobre, stagione secca',
-    costi: 'molto variabile: tra le mete indonesiane con più offerta sia economica sia di fascia alta',
+    costi: 'variano molto: è tra le mete indonesiane con più offerta, sia economica sia di fascia alta',
     erroriDaEvitare: [
       'Noleggiare uno scooter senza patente internazionale: i controlli sono frequenti e le multe salate',
       'Sottovalutare il traffico tra Canggu e Seminyak nelle ore di punta',
       'Non prenotare in anticipo la barca per Nusa Penida in alta stagione',
     ],
     miaEsperienza:
-      'Bali è due isole diverse a seconda di dove si dorme, ed è il motivo per cui riceve giudizi opposti. Il sud tra Canggu e Seminyak è cemento, traffico e locali pensati per chi arriva da fuori: ci si può divertire, ma non è l\'Indonesia. Bastano venti chilometri verso l\'interno e le offerte di fiori davanti alle case ricompaiono ogni mattina, i templi sono in uso e non in mostra, e l\'isola torna quella che si veniva a cercare. La cosa che resta più impressa non è una risaia né una spiaggia: è la danza Kecak a Uluwatu al tramonto, settanta uomini seduti in cerchio che fanno tutta la musica con la voce. Nusa Penida invece è ormai vittima del proprio successo — Kelingking a metà giornata è una coda di persone su un sentiero ripido — e conviene essere sulla prima barca del mattino.',
+      'Bali è due isole diverse a seconda di dove si dorme, ed è il motivo per cui riceve giudizi opposti. Il sud tra Canggu e Seminyak è fatto di cemento, traffico e locali pensati per chi arriva da fuori: ci si può divertire, ma l\'Indonesia è altrove. Bastano venti chilometri verso l\'interno e ricompaiono le offerte di fiori davanti alle case, rinnovate ogni mattina, e i templi in uso invece che in mostra: l\'isola torna quella che si veniva a cercare. Più di qualsiasi risaia o spiaggia mi è rimasta impressa la danza Kecak a Uluwatu al tramonto, con settanta uomini seduti in cerchio che fanno tutta la musica con la voce. Nusa Penida invece è ormai vittima del proprio successo (Kelingking a metà giornata è una coda di persone su un sentiero ripido) e conviene essere sulla prima barca del mattino.',
     esperienzeSlugs: ['giornata-nusa-penida'],
     tripSlugs: ['indonesia-itinerario'],
     imageAlt: 'Le risaie a terrazze con le palme all\'ingresso del tempio di Gunung Kawi a Tampaksiring, Bali',
@@ -203,9 +203,9 @@ export const destinazioniIndonesia: Destinazione[] = [
     giorniConsigliati: '7-9 giorni tra Tana Toraja e Bunaken',
     visitataPersonalmente: true,
     introduzione:
-      'Un\'isola dalla forma unica, divisa tra le tradizioni funerarie e i villaggi di montagna di Tana Toraja e i reef ricchissimi del Bunaken National Park, all\'estremo nord.',
+      'Un\'isola dalla forma unica, divisa tra le tradizioni funerarie e i villaggi di montagna di Tana Toraja e i reef del Bunaken National Park, all\'estremo nord.',
     percheAndarci:
-      'Offre due esperienze quasi opposte: l\'immersione in una cultura che tratta la morte come un evento sociale e non un tabù, e uno dei parchi marini più belli del sud-est asiatico.',
+      'Offre due esperienze quasi opposte: una cultura che tratta la morte come un evento sociale invece che come un tabù, e uno dei parchi marini più belli del sud-est asiatico.',
     cosaVedere: [
       'I villaggi tongkonan di Tana Toraja, con le case dal tetto a barca',
       'Le tombe scavate nella roccia e le "tau tau", le effigi lignee dei defunti',
@@ -215,7 +215,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     cosaFare: [
       'Assistere, con una guida locale che spieghi l\'etichetta, a una cerimonia funebre Toraja se capita nel periodo giusto',
       'Trekking tra i villaggi di montagna intorno a Rantepao',
-      'Diving o snorkeling nel Bunaken National Park — vedi la scheda esperienza dedicata',
+      'Diving o snorkeling nel Bunaken National Park (c\'è una scheda esperienza dedicata)',
     ],
     doveDormire:
       'Rantepao è la base naturale per tutta Tana Toraja, con guesthouse semplici in centro; per Bunaken si sceglie tra i dive resort sull\'isola stessa, più comodi per le immersioni all\'alba, e Manado sulla terraferma, più economica ma con un\'ora di barca ogni giorno.',
@@ -230,7 +230,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       'Partecipare a cerimonie funebri senza una guida che spieghi l\'etichetta: sono eventi privati, aperti ai visitatori solo con certe regole di rispetto',
     ],
     miaEsperienza:
-      'Tana Toraja è la cosa più diversa vista in Indonesia, e non è un posto da cartolina. Un funerale toraja dura giorni, ospita centinaia di persone, prevede il sacrificio di bufali davanti a tutti e non ha niente della sobrietà cui siamo abituati: è una festa, costosissima, per cui le famiglie risparmiano anni. Assistervi da estranei è possibile — si porta un regalo, di solito zucchero o sigarette, e si sta dove indica la guida — ma richiede la disponibilità a vedere cose che colpiscono. Bunaken poi è l\'altra faccia: pareti coralline che scendono a picco per centinaia di metri, dove ci si gira sulla schiena e sotto non c\'è più fondo. Tra le due, quella che ha cambiato qualcosa è Toraja.',
+      'Tana Toraja è la cosa più diversa che ho visto in Indonesia, e non è un posto da cartolina. Un funerale toraja dura giorni, raduna centinaia di persone e prevede il sacrificio di bufali davanti a tutti. Della sobrietà cui siamo abituati non ha niente: è una festa costosissima, per cui le famiglie risparmiano per anni. Da estranei si può assistere (si porta un regalo, di solito zucchero o sigarette, e si sta dove indica la guida), ma bisogna essere pronti a vedere cose che colpiscono. Bunaken è l\'altra faccia: pareti coralline che scendono a picco per centinaia di metri, dove ci si gira sulla schiena e sotto non c\'è più fondo. Tra le due, quella che ha cambiato qualcosa in me è Toraja.',
     esperienzeSlugs: ['diving-bunaken-national-park'],
     tripSlugs: ['indonesia-itinerario'],
     imageAlt: 'Un tongkonan dal tetto a prua di nave in un villaggio toraja vicino a Rantepao, Sulawesi',
@@ -247,7 +247,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     introduzione:
       'La vicina meno affollata di Bali: le tre isole Gili senza veicoli a motore, il vulcano Rinjani (il secondo più alto dell\'Indonesia) e spiagge del sud ancora poco battute.',
     percheAndarci:
-      'Un ritmo più lento rispetto a Bali, con il trekking al Rinjani come sfida fisica principale e le Gili come contraltare rilassato via mare.',
+      'Il ritmo è più lento che a Bali: il trekking al Rinjani è la sfida fisica, le Gili il contrappeso rilassato sul mare.',
     cosaVedere: [
       'Le tre isole Gili (Trawangan, Meno, Air), senza auto né scooter',
       'Il Gunung Rinjani, con il lago craterico Segara Anak',
@@ -255,13 +255,13 @@ export const destinazioniIndonesia: Destinazione[] = [
     ],
     cosaFare: [
       'Snorkeling con le tartarughe marine alle Gili',
-      'Trekking di 2-3 giorni al Rinjani fino al lago craterico — vedi la scheda esperienza dedicata',
+      'Trekking di 2-3 giorni al Rinjani fino al lago craterico (c\'è una scheda esperienza dedicata)',
       'Surf a Kuta Lombok o, per livelli avanzati, a Desert Point',
     ],
     doveDormire:
-      'Gili Trawangan per la vita serale, Gili Air per l\'equilibrio tra servizi e calma, Gili Meno per il silenzio vero; a Lombok, Kuta è la base del sud per surf e spiagge, Senaru e Sembalun sono i due villaggi da cui partono i trek al Rinjani.',
+      'Gili Trawangan per la vita serale, Gili Air per l\'equilibrio tra servizi e calma, Gili Meno per il silenzio; a Lombok, Kuta è la base del sud per surf e spiagge, Senaru e Sembalun sono i due villaggi da cui partono i trek al Rinjani.',
     doveMangiare:
-      'Il piatto di Lombok è l\'ayam taliwang, pollo grigliato in una salsa di peperoncino che non fa sconti — il nome dell\'isola in sasak significa proprio peperoncino, e non è un caso. Alle Gili il mercato serale di Trawangan è il posto migliore e più economico: pesce esposto sul ghiaccio, si sceglie e si aspetta che venga grigliato. Nei ristoranti sul mare si paga la vista, non il piatto.',
+      'Il piatto di Lombok è l\'ayam taliwang, pollo grigliato in una salsa di peperoncino che non fa sconti: in sasak il nome dell\'isola significa proprio peperoncino. Alle Gili il mercato serale di Trawangan è il posto migliore e più economico: il pesce è esposto sul ghiaccio, lo si sceglie e si aspetta che venga grigliato. Nei ristoranti sul mare si paga soprattutto la vista.',
     comeArrivare:
       'Volo su Lombok International Airport (LOP), oppure traghetto veloce da Bali (Padang Bai o Sanur verso le Gili).',
     comeSpostarsi: 'Solo cidomo (calessi trainati da cavalli) o bicicletta alle Gili, dove veicoli a motore sono vietati; auto o scooter sul resto di Lombok.',
@@ -273,7 +273,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       'Tentare il trekking senza guida: è obbligatoria per legge',
     ],
     miaEsperienza:
-      'Il Rinjani è il trekking più duro fatto in Indonesia e il paragone con gli altri non regge. La salita al bordo del cratere è lunga, esposta e finisce su sabbia vulcanica dove a ogni tre passi se ne perde uno; il campo si monta sul ciglio col vento, e la notte si dorme poco e male. Ma svegliarsi sopra il lago Segara Anak con le nuvole sotto ripaga tutto. Le Gili funzionano bene esattamente dopo: nessuna auto, nessuno scooter, si gira a piedi in un\'ora e le tartarughe si vedono partendo dalla spiaggia senza barca né guida. Trawangan la sera è più festaiola di quanto qualcuno si aspetti, Meno è l\'opposto esatto — meglio saperlo prima di prenotare.',
+      'Il Rinjani è il trekking più duro che ho fatto in Indonesia, e il paragone con gli altri non regge. La salita al bordo del cratere è lunga ed esposta, e finisce su sabbia vulcanica dove ogni tre passi se ne perde uno. Il campo l\'abbiamo montato sul ciglio, col vento, e la notte si dorme poco e male. Svegliarsi sopra il lago Segara Anak con le nuvole sotto, però, ripaga tutto. Le Gili sono perfette subito dopo: niente auto né scooter, si gira a piedi in un\'ora e le tartarughe si vedono partendo dalla spiaggia, senza barca né guida. Trawangan la sera è più festaiola di quanto qualcuno si aspetti, Meno è l\'opposto: meglio saperlo prima di prenotare.',
     esperienzeSlugs: ['trekking-gunung-rinjani'],
     tripSlugs: ['indonesia-itinerario'],
     imageAlt: 'Il massiccio del Rinjani di Lombok visto dalla spiaggia di Gili Trawangan, con Gili Meno in primo piano',
@@ -288,7 +288,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     giorniConsigliati: '3-4 giorni, spesso in tour in barca da Labuan Bajo',
     visitataPersonalmente: true,
     introduzione:
-      'Il parco nazionale che dà il nome all\'ultimo grande predatore terrestre rimasto sulla Terra, il drago di Komodo, in un arcipelago di isole spettacolari sopra e sotto il livello del mare.',
+      'Il parco nazionale che dà il nome all\'ultimo grande predatore terrestre rimasto sulla Terra, il drago di Komodo, in un arcipelago di isole belle sopra e sotto il livello del mare.',
     percheAndarci:
       'È probabilmente l\'unico posto al mondo dove vedere i draghi di Komodo nel loro habitat naturale, con in più alcuni dei panorami e dei fondali più fotografati dell\'Indonesia.',
     cosaVedere: [
@@ -298,15 +298,15 @@ export const destinazioniIndonesia: Destinazione[] = [
       'I punti snorkeling di Kanawa e Kelor',
     ],
     cosaFare: [
-      'Trekking guidato per vedere i draghi di Komodo — vedi la scheda esperienza dedicata',
+      'Trekking guidato per vedere i draghi di Komodo (c\'è una scheda esperienza dedicata)',
       'Salita a Padar Island all\'alba per il panorama iconico',
       'Snorkeling o diving nel parco marino',
       'Tour in barca (liveaboard di 2-4 giorni) da Labuan Bajo tra le isole del parco',
     ],
     doveDormire:
-      'Labuan Bajo è il punto di appoggio di tutti, con una scelta larghissima tra ostelli e resort sul porto; in alternativa si dorme direttamente a bordo, nei tour in barca di due o più notti, che è anche l\'unico modo per essere a Padar all\'alba.',
+      'Labuan Bajo è il punto di appoggio di tutti, con un\'ampia scelta tra ostelli e resort sul porto. In alternativa si dorme a bordo, nei tour in barca di due o più notti, che sono anche l\'unico modo per essere a Padar all\'alba.',
     doveMangiare:
-      'A Labuan Bajo si mangia pesce, e si mangia bene: il mercato serale sul lungomare espone il pescato del giorno e lo griglia al momento, a prezzi lontanissimi da quelli dei ristoranti con vista sul porto poco più in là. A bordo delle barche il cibo lo prepara l\'equipaggio ed è semplice — riso, pesce, verdure — ma sorprendentemente buono.',
+      'A Labuan Bajo si mangia pesce, e bene: il mercato serale sul lungomare espone il pescato del giorno e lo griglia al momento, a prezzi molto più bassi dei ristoranti con vista sul porto poco più in là. A bordo cucina l\'equipaggio: piatti semplici di riso, pesce e verdure, ma buoni.',
     comeArrivare: 'Volo su Labuan Bajo (Flores), punto di partenza di tutti i tour verso il parco.',
     comeSpostarsi: 'Solo in barca: tour organizzati di uno o più giorni, o liveaboard.',
     periodoMigliore: 'aprile-dicembre, stagione secca con mare più calmo',
@@ -316,7 +316,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       'Sottovalutare il mare mosso e le correnti forti tra le isole',
     ],
     miaEsperienza:
-      'I draghi, va detto subito, stanno quasi sempre fermi. Sono animali enormi che passano la giornata all\'ombra e si muovono poco, e chi arriva aspettandosi una scena da documentario resta spiazzato: l\'impressione la fanno le dimensioni e il fatto che il ranger tenga in mano solo un bastone biforcuto. Rinca è più selvaggia e meno affollata dell\'isola di Komodo, e conviene chiederla esplicitamente. La cosa che regge davvero è Padar all\'alba: una salita breve e ripida su una cresta, e tre baie con tre sabbie diverse tutte insieme sotto. Va fatta prestissimo, perché dalle otto la fila sul sentiero è continua e il caldo diventa serio.',
+      'I draghi stanno quasi sempre fermi. Sono animali enormi che passano la giornata all\'ombra e si muovono poco, e chi si aspetta una scena da documentario resta spiazzato: a impressionare sono le dimensioni e il fatto che il ranger abbia in mano solo un bastone biforcuto. Rinca è più selvaggia e meno affollata dell\'isola di Komodo, e conviene chiederla espressamente. Il momento migliore è Padar all\'alba: una salita breve e ripida su una cresta, e sotto tre baie con tre sabbie diverse tutte insieme. Va fatta prestissimo, perché dalle otto la fila sul sentiero è continua e il caldo si fa sentire.',
     esperienzeSlugs: ['trekking-draghi-komodo'],
     tripSlugs: ['indonesia-itinerario'],
     imageAlt: 'Le colline e le baie dell\'isola di Padar viste dal punto panoramico, Parco nazionale di Komodo',
@@ -333,7 +333,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     introduzione:
       'L\'isola più selvaggia e meno sviluppata tra quelle toccate dal viaggio, famosa per i tre laghi vulcanici che cambiano colore del Kelimutu e per i villaggi tradizionali sospesi tra le montagne.',
     percheAndarci:
-      'Un lato dell\'Indonesia molto più rurale e meno turistico, con paesaggi vulcanici spettacolari e una cultura dei villaggi ancora molto viva.',
+      'È un lato dell\'Indonesia più rurale e meno turistico, con paesaggi vulcanici e una cultura dei villaggi ancora viva.',
     cosaVedere: [
       'Il Kelimutu, con i tre laghi craterici dai colori diversi',
       'Il villaggio tradizionale di Bena, ai piedi del vulcano Inerie',
@@ -341,14 +341,14 @@ export const destinazioniIndonesia: Destinazione[] = [
       'Riung, punto di partenza per il tour delle 17 isole',
     ],
     cosaFare: [
-      'Alba al Kelimutu per vedere i laghi nella luce migliore — vedi la scheda esperienza dedicata',
+      'Alba al Kelimutu per vedere i laghi nella luce migliore (c\'è una scheda esperienza dedicata)',
       'Trekking di 1-2 giorni fino al villaggio di Wae Rebo',
       'Giro dei villaggi tradizionali intorno a Bajawa, tra cui Bena',
     ],
     doveDormire:
       'Moni è il paese da cui si parte di notte per il Kelimutu, con guesthouse essenziali; Bajawa serve come base per i villaggi tradizionali, Labuan Bajo per l\'ovest e i tour a Komodo. A Wae Rebo si dorme nella casa comune del villaggio, tutti insieme sul pavimento: non è un albergo e non va trattato come tale.',
     doveMangiare:
-      'L\'offerta è minima e questo fa parte del viaggio: fuori da Labuan Bajo si mangia nei warung di paese, quasi sempre riso, pesce o pollo e verdure saltate, con poche alternative. Vale la pena provare il se\'i, la carne affumicata tipica delle isole orientali, e ovunque si trova il caffè di Flores, tostato in casa e servito senza filtro. Nelle guesthouse di Moni la cena si ordina nel pomeriggio, perché la cucinano apposta.',
+      'L\'offerta è minima, e fa parte del viaggio: fuori da Labuan Bajo si mangia nei warung di paese, quasi sempre riso, pesce o pollo e verdure saltate, con poche alternative. Vale la pena provare il se\'i, la carne affumicata tipica delle isole orientali, e ovunque si trova il caffè di Flores, tostato in casa e servito senza filtro. Nelle guesthouse di Moni la cena si ordina nel pomeriggio, perché la cucinano apposta.',
     comeArrivare:
       'Volo su Labuan Bajo per l\'ovest dell\'isola (e per proseguire verso Komodo), oppure su Ende o Maumere per l\'est.',
     comeSpostarsi:
@@ -359,7 +359,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       'Sottovalutare i tempi di percorrenza sulla Trans-Flores: le distanze in linea d\'aria ingannano',
     ],
     miaEsperienza:
-      'Flores è la parte di Indonesia rimasta indietro, ed è esattamente questo che la rende la più interessante di tutte. La Trans-Flores è una strada che sulla mappa sembra corta e nella realtà è una successione infinita di curve: duecento chilometri sono una giornata intera, e chi ha poco tempo farebbe meglio a rinunciare. Il Kelimutu all\'alba merita comunque la sveglia alle tre, con l\'avvertenza che i colori dei tre laghi cambiano davvero nel tempo e non c\'è modo di sapere prima cosa si troverà: non è un difetto, è il senso del posto. Wae Rebo è la cosa più forte dell\'isola — tre ore di salita nella foresta, poi sette case coniche in una radura tra le montagne e nient\'altro — ma è un villaggio abitato, non un\'attrazione, e si sta alle loro regole.',
+      'Flores è la parte di Indonesia rimasta indietro, ed è proprio questo che per me la rende la più interessante. La Trans-Flores sulla mappa sembra corta, in realtà è una successione infinita di curve: duecento chilometri sono una giornata intera, e chi ha poco tempo farebbe meglio a rinunciare. Il Kelimutu all\'alba merita comunque la sveglia alle tre. I colori dei tre laghi cambiano nel tempo e non c\'è modo di sapere prima cosa si troverà, ed è questo il senso del posto. Wae Rebo è la cosa più forte dell\'isola: tre ore di salita nella foresta, poi sette case coniche in una radura tra le montagne e nient\'altro. È un villaggio abitato, e si sta alle sue regole.',
     esperienzeSlugs: ['alba-kelimutu'],
     tripSlugs: ['indonesia-itinerario'],
     imageAlt: 'Le case coniche mbaru niang del villaggio di Wae Rebo tra le montagne di Flores',
@@ -374,28 +374,28 @@ export const destinazioniIndonesia: Destinazione[] = [
     giorniConsigliati: '5-7 giorni, meglio se in liveaboard o su più isole diverse',
     visitataPersonalmente: true,
     introduzione:
-      'L\'arcipelago più remoto e incontaminato del viaggio, nella Papua occidentale: reef considerati tra i più biodiversi al mondo e isole a fungo che spuntano da un mare color smeraldo.',
+      'L\'arcipelago più remoto del viaggio, nella Papua occidentale: reef considerati tra i più biodiversi al mondo e isole a fungo che spuntano da un mare color smeraldo.',
     percheAndarci:
-      'Per chi fa diving o snorkeling è una delle destinazioni più ambite al mondo; anche senza immersioni, i belvedere sulle isole a fungo bastano da soli a giustificare il viaggio.',
+      'Per chi fa diving o snorkeling è una delle destinazioni più ambite al mondo; anche senza immersioni, i belvedere sulle isole a fungo bastano a giustificare il viaggio.',
     cosaVedere: [
       'Piaynemo e Wayag, i belvedere iconici sulle isole calcaree a forma di fungo',
       'Arborek, villaggio su palafitte con un reef accessibile direttamente dalla spiaggia',
       'I punti manta ray e i reef vergini del parco marino',
     ],
     cosaFare: [
-      'Diving o snorkeling in liveaboard tra i reef del parco marino — vedi la scheda esperienza dedicata',
+      'Diving o snorkeling in liveaboard tra i reef del parco marino (c\'è una scheda esperienza dedicata)',
       'Salita ai belvedere di Piaynemo e Wayag',
       'Giornata a Arborek per lo snorkeling dal villaggio',
     ],
     doveDormire:
-      'Tre opzioni molto diverse per budget e comfort — homestay, dive resort o liveaboard — vedi il confronto dedicato più sotto.',
+      'Tre opzioni molto diverse per budget e comfort (homestay, dive resort o liveaboard): il confronto è più sotto.',
     doveMangiare:
-      'Non c\'è scelta e non c\'è bisogno che ce ne sia: negli homestay si mangia quello che cucina la famiglia, tre volte al giorno, pesce appena pescato con riso e verdure. È buono e monotono. Fuori dagli alloggi non esistono ristoranti, quindi l\'ultima occasione per comprare snack, acqua e contanti è Sorong o Waisai: sulle isole non ci sono bancomat.',
+      'Non c\'è scelta, e non serve: negli homestay si mangia quello che cucina la famiglia, tre volte al giorno, pesce appena pescato con riso e verdure. È buono e monotono. Fuori dagli alloggi non esistono ristoranti, quindi l\'ultima occasione per comprare snack, acqua e contanti è Sorong o Waisai: sulle isole non ci sono bancomat.',
     comeArrivare:
       'Volo su Sorong (via Giacarta o Makassar), poi traghetto veloce o barca privata per Waisai o i resort/liveaboard.',
     comeSpostarsi: 'Solo via mare: barca pubblica, barca privata o liveaboard.',
     periodoMigliore:
-      'non esiste una vera stagione sbagliata, ma due esperienze diverse. Da ottobre ad aprile — con il picco tra dicembre e febbraio — le correnti portano una risalita di acque ricche di plancton che richiama mante e gli altri grandi pelagici, il mare è più calmo e i liveaboard operano a pieno regime: è la finestra più sicura e con più fauna. Da maggio a settembre soffiano i venti da sud-est, più forti ad agosto, che alzano il mare soprattutto nello stretto di Dampier e negli attraversamenti verso Misool: gli spostamenti tra isole possono allungarsi e le uscite nelle zone più esposte possono saltare, e molti liveaboard in questo periodo si spostano altrove. In cambio l\'estate ha molta meno gente. Sulla pioggia invece non c\'è una vera regola stagionale da aspettarsi: qui piove tutto l\'anno, a rovesci brevi e imprevedibili, e non è il fattore che decide quando andare — a decidere sono il vento e cosa si vuole vedere sott\'acqua.',
+      'non esiste una vera stagione sbagliata: ci sono due esperienze diverse. Da ottobre ad aprile, con il picco tra dicembre e febbraio, le correnti portano una risalita di acque ricche di plancton che richiama mante e gli altri grandi pelagici, il mare è più calmo e i liveaboard operano a pieno regime: è la finestra più sicura e con più fauna. Da maggio a settembre soffiano i venti da sud-est, più forti ad agosto, che alzano il mare soprattutto nello stretto di Dampier e negli attraversamenti verso Misool: gli spostamenti tra isole possono allungarsi e le uscite nelle zone più esposte possono saltare, e molti liveaboard in questo periodo si spostano altrove. In cambio l\'estate ha molta meno gente. Per la pioggia non c\'è una regola stagionale: qui piove tutto l\'anno, a rovesci brevi e imprevedibili. A decidere quando andare sono il vento e quello che si vuole vedere sott\'acqua.',
     costi:
       'tra le mete più costose dell\'Indonesia per via della logistica e del permesso obbligatorio del parco marino (PIN Raja Ampat)',
     erroriDaEvitare: [
@@ -425,7 +425,7 @@ export const destinazioniIndonesia: Destinazione[] = [
               'Nessun ristorante fuori dall\'alloggio: si mangia quello che cucina la famiglia',
               'Per i punti più lontani (Wayag, Misool) serve comunque organizzare barche a parte',
             ],
-            perChi: 'Chi vuole il modo più autentico ed economico di stare a Raja Ampat, e si accontenta di esplorare l\'area intorno alla propria isola.',
+            perChi: 'Chi vuole il modo più economico e più vicino alla vita locale di stare a Raja Ampat, e si accontenta di esplorare l\'area intorno alla propria isola.',
           },
           {
             nome: 'Dive resort',
@@ -433,7 +433,7 @@ export const destinazioniIndonesia: Destinazione[] = [
             costo: 'da circa 150 a oltre 400€ a notte, spesso con pacchetti che includono le immersioni',
             durata: 'da pochi giorni a una settimana, con uscite giornaliere in barca verso i siti vicini',
             pro: [
-              'Comfort molto superiore all\'homestay: acqua calda, elettricità continua, ristorante proprio',
+              'Comfort molto più alto dell\'homestay: acqua calda, elettricità continua, ristorante proprio',
               'Staff dedicato e barche più veloci e attrezzate per le uscite di immersione',
               'Buona base fissa per chi vuole più comodità senza rinunciare al diving quotidiano',
             ],
@@ -454,19 +454,19 @@ export const destinazioniIndonesia: Destinazione[] = [
               'Immersioni e pasti organizzati dall\'equipaggio, il comfort più alto delle tre opzioni',
             ],
             contro: [
-              'Il costo è nettamente il più alto delle tre opzioni, spesso il doppio o il triplo di una settimana in homestay',
+              'Il costo è di gran lunga il più alto delle tre opzioni, spesso il doppio o il triplo di una settimana in homestay',
               'Il meno legato alle comunità locali: i soldi restano quasi tutti all\'operatore',
               'Nella stagione dei venti (maggio-settembre) molti liveaboard si spostano altrove, per evitare le zone più esposte',
             ],
-            perChi: 'Chi ha il budget per farlo e vuole vedere il massimo dell\'arcipelago — inclusi i punti più remoti — in un\'unica settimana organizzata.',
+            perChi: 'Chi ha il budget e vuole vedere il massimo dell\'arcipelago, punti più remoti compresi, in un\'unica settimana organizzata.',
           },
         ],
         raccomandazione:
-          'Per un primo viaggio con budget contenuto, l\'homestay su un\'isola come Kri o Arborek dà già moltissimo. Il liveaboard si giustifica quando l\'obiettivo è vedere tutto l\'arcipelago, Wayag compreso, in un\'unica settimana intensa — ed è lì che il suo costo, il più alto delle tre opzioni, trova il senso.',
+          'Per un primo viaggio con budget contenuto, l\'homestay su un\'isola come Kri o Arborek dà già moltissimo. Il liveaboard si giustifica quando l\'obiettivo è vedere tutto l\'arcipelago, Wayag compreso, in un\'unica settimana intensa: è lì che il suo costo, il più alto delle tre opzioni, ha senso.',
       },
     ],
     miaEsperienza:
-      'È il posto più bello visto sott\'acqua, e anche il più faticoso da raggiungere: due voli, un traghetto e una barca, con costi che non somigliano al resto dell\'Indonesia. Ma la differenza si vede al primo snorkeling — la densità di pesce sul reef di Arborek, a venti metri dalla riva, è qualcosa che altrove semplicemente non c\'è più. Le correnti sono forti e vanno rispettate: certi punti si fanno solo negli orari giusti, e non è una raccomandazione formale. Dormire negli homestay invece che nei resort è la scelta che vale la pena fare, non per il prezzo ma perché quel modello è ciò che tiene in piedi la protezione del parco. Piaynemo al tramonto, con le scale di legno e la piattaforma affollata, è l\'unico momento in cui si incontra qualcun altro. Ci siamo stati ad agosto, che su tutte le guide è segnato come la stagione sbagliata — e in parte lo è, ma non come ci si aspetta: il mare è stato clamoroso lo stesso, dieci giorni senza vedere una goccia di pioggia. Il vento invece sì, si è fatto sentire: ha allungato un paio di trasferimenti tra le isole e ci ha fatto saltare un\'uscita in una zona più esposta. L\'altro conto da fare è sui grandi pelagici: mante e squali d\'estate sono molto più rari, perché la risalita di acque ricche di plancton che li richiama è soprattutto un fenomeno invernale. Tra i reef pieni di pesce comunque e pochissimi altri turisti in giro, non è stato un compromesso di cui pentirsi.',
+      'È il posto più bello che ho visto sott\'acqua, e anche il più faticoso da raggiungere: due voli, un traghetto e una barca, con costi che non somigliano al resto dell\'Indonesia. La differenza però si vede al primo snorkeling: una densità di pesce come quella del reef di Arborek, a venti metri dalla riva, altrove non c\'è più. Le correnti sono forti e vanno rispettate sul serio: certi punti si fanno solo negli orari giusti. Dormire negli homestay invece che nei resort è la scelta che vale la pena fare, perché quel modello, più ancora del prezzo, è ciò che tiene in piedi la protezione del parco. Piaynemo al tramonto, con le scale di legno e la piattaforma affollata, è l\'unico momento in cui si incontra qualcun altro. Ci siamo stati ad agosto, che su tutte le guide è segnato come la stagione sbagliata. In parte lo è, ma in modo diverso da come ci si aspetta: il mare è stato clamoroso lo stesso, dieci giorni senza vedere una goccia di pioggia. Il vento invece si è fatto sentire: ha allungato un paio di trasferimenti tra le isole e ci ha fatto saltare un\'uscita in una zona più esposta. L\'altro conto da fare è sui grandi pelagici: mante e squali d\'estate sono molto più rari, perché la risalita di acque ricche di plancton che li richiama è soprattutto un fenomeno invernale. Con i reef pieni di pesce comunque e pochissimi altri turisti in giro, è stato un compromesso di cui non mi pento.',
     esperienzeSlugs: ['diving-liveaboard-raja-ampat'],
     tripSlugs: [],
     imageAlt: 'Gli isolotti calcarei coperti di foresta nella laguna turchese di Piaynemo, Raja Ampat',

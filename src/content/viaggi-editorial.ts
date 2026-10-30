@@ -85,7 +85,7 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
       "Otto giorni da Amman ad Aqaba: Jerash, il Mar Morto, Petra quasi vuota e il Capodanno nel Wadi Rum. Tappe, cene, transfer e come usare il Jordan Pass.",
     socialTitle: "Petra quasi deserta a Capodanno: la Giordania in 8 giorni, tappa per tappa",
     editorialHook:
-      "Il Jordan Pass include il visto e gli ingressi a Petra, Jerash e Wadi Rum, ma il visto è gratis solo se si restano almeno 2 notti consecutive.",
+      "Il Jordan Pass include visto e ingressi a Petra, Jerash e Wadi Rum, ma il visto è gratis solo restando almeno 2 notti consecutive.",
     editorialHookType: 'before-you-go',
   },
   'sri-lanka-2023': {
@@ -784,6 +784,15 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
     socialTitle: "Maldive senza resort: quanto costano davvero le isole locali, e 10 errori da evitare",
     editorialHook:
       "Dal 2009 alle Maldive si può dormire nelle guesthouse delle isole abitate: è un altro viaggio, a un altro prezzo.",
+    editorialHookType: 'comparison',
+  },
+  'canada-itinerario': {
+    seoTitle: "Canada orientale on the road: itinerario di 16 giorni",
+    seoDescription:
+      "Toronto, Niagara, Ottawa, Montréal, Québec e Tadoussac in pick-up a noleggio: eTA, pedaggi, prezzi 2026 e l'estensione di Churchill per gli orsi polari.",
+    socialTitle: "Niagara in elicottero o in battello? 16 giorni on the road nel Canada orientale",
+    editorialHook:
+      "L'elicottero sul Niagara è scenografico, ma da sotto, col battello, le cascate rendono di più.",
     editorialHookType: 'comparison',
   },
 }

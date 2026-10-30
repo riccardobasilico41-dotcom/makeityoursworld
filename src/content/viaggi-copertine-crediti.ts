@@ -221,11 +221,6 @@ export const creditiCopertine: Record<string, CreditoImmagine> = {
     licenza: 'CC BY-SA 2.0',
     fonteUrl: 'https://commons.wikimedia.org/wiki/File:Santa_Catalina_Arch_-_Antigua_Guatemala_Feb_2020.jpg',
   },
-  'peru-itinerario': {
-    autore: 'Steve FUNG',
-    licenza: 'CC BY-SA 4.0',
-    fonteUrl: 'https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Overlook_1.jpg',
-  },
   'svizzera-alpi-van': {
     autore: 'Bob Tan',
     licenza: 'CC BY-SA 4.0',
@@ -286,16 +281,6 @@ export const creditiCopertine: Record<string, CreditoImmagine> = {
     licenza: 'CC BY-SA 4.0',
     fonteUrl: 'https://commons.wikimedia.org/wiki/File:Teide_Roques_de_Garcia.jpg',
   },
-  'india-rajasthan-10-giorni': {
-    autore: 'Nikunj Mundra (Unsplash)',
-    licenza: 'Unsplash License',
-    fonteUrl: 'https://unsplash.com/photos/hawa-mahal-palace-facade-in-jaipur-W3qWtMNwRf0',
-  },
-  'india-rajasthan-varanasi': {
-    autore: 'Martijn Vonk (Unsplash)',
-    licenza: 'Unsplash License',
-    fonteUrl: 'https://unsplash.com/photos/a-group-of-boats-floating-on-top-of-a-river-1lxEATYIn6k',
-  },
   'india-sud-taj-mahal': {
     autore: 'Abhishek Prasad (Unsplash)',
     licenza: 'Unsplash License',
@@ -355,5 +340,10 @@ export const creditiCopertine: Record<string, CreditoImmagine> = {
     autore: 'Tumi-1983 (Wikimedia Commons)',
     licenza: 'CC0 1.0 (pubblico dominio)',
     fonteUrl: 'https://commons.wikimedia.org/wiki/File:R.K.C._Gospa_od_Škrpjela,_Perast,_Montenegro.jpg',
+  },
+  'canada-itinerario': {
+    autore: 'EddaBeck (Wikimedia Commons)',
+    licenza: 'CC0 1.0 (pubblico dominio)',
+    fonteUrl: 'https://commons.wikimedia.org/wiki/File:Niagara_Falls_from_the_Canadian_side.jpg',
   },
 }

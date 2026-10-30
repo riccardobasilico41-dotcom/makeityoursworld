@@ -56,6 +56,12 @@ export const seoPaesi: Record<string, SeoPagina> = {
     seoDescription:
       "Un anello in auto tra San Francisco, Yosemite, le sequoie, Death Valley, Joshua Tree, Los Angeles e Big Sur: stagioni, strade chiuse, parchi e costi.",
   },
+  canada: {
+    seoTitle: "Viaggio in Canada orientale: cosa vedere in auto",
+    seoDescription:
+      "Ontario e Québec in auto: Toronto, il Niagara, Ottawa, Montréal, Québec e le balene di Tadoussac. eTA, patente, pedaggi e gli orsi polari di Churchill.",
+    socialTitle: "Canada orientale in auto: cosa sapere su eTA, patente e pedaggi prima di partire",
+  },
   cina: {
     seoTitle: "Viaggio in Cina: cosa sistemare prima di partire",
     seoDescription:

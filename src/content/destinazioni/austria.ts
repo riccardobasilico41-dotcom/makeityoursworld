@@ -20,9 +20,9 @@ export const destinazioniAustria: Destinazione[] = [
     giorniConsigliati: '3-4 giorni per l\'Innere Stadt, Schönbrunn, il Belvedere e il Prater',
     visitataPersonalmente: false,
     introduzione:
-      'La capitale austriaca, per secoli cuore dell\'Impero asburgico e oggi una delle città con la miglior qualità della vita al mondo secondo diverse classifiche internazionali: un centro storico compatto — l\'Innere Stadt, Patrimonio UNESCO — circondato dal Ring, il viale che ha sostituito le antiche mura cittadine nell\'Ottocento, con la reggia di Schönbrunn, il palazzo del Belvedere e il grande parco del Prater appena fuori dal nucleo più centrale.',
+      'La capitale austriaca, per secoli cuore dell\'Impero asburgico e oggi una delle città con la miglior qualità della vita al mondo secondo diverse classifiche internazionali. Il centro storico è compatto: l\'Innere Stadt, Patrimonio UNESCO, circondata dal Ring, il viale che nell\'Ottocento ha preso il posto delle antiche mura. La reggia di Schönbrunn, il palazzo del Belvedere e il grande parco del Prater stanno appena fuori dal nucleo più centrale.',
     percheAndarci:
-      'Perché concentra in un\'area percorribile a piedi (o in pochi minuti di U-Bahn) secoli di storia imperiale, una delle collezioni d\'arte più importanti d\'Europa centrale con "Il Bacio" di Klimt al Belvedere, e una cultura del caffè riconosciuta dall\'UNESCO come patrimonio immateriale — il tutto nell\'eurozona, senza le complicazioni di cambio valuta di Praga o Cracovia.',
+      'Perché concentra in un\'area percorribile a piedi (o in pochi minuti di U-Bahn) secoli di storia imperiale, una delle collezioni d\'arte più importanti d\'Europa centrale con "Il Bacio" di Klimt al Belvedere, e una cultura del caffè riconosciuta dall\'UNESCO come patrimonio immateriale. E si paga in euro, senza le complicazioni di cambio valuta di Praga o Cracovia.',
     cosaVedere: [
       'La Cattedrale di Santo Stefano (Stephansdom), gotica, simbolo della città, con il tetto in 230.000 tegole colorate e la torre sud (Steffl) alta 136 metri, salibile con 343 gradini fino a un belvedere panoramico; sotto la cattedrale, le catacombe con gli organi interni degli imperatori asburgici',
       'La Hofburg, la reggia invernale degli Asburgo per oltre sei secoli, oggi sede del Museo Sisi, degli Appartamenti Imperiali e della Scuola Spagnola di Equitazione con i suoi cavalli Lipizzani',
@@ -32,7 +32,7 @@ export const destinazioniAustria: Destinazione[] = [
       'Il Prater, il grande parco pubblico dal 1766, con il Wiener Riesenrad, la ruota panoramica costruita nel 1897 per il giubileo dell\'imperatore Francesco Giuseppe e per decenni la più alta al mondo',
     ],
     cosaFare: [
-      'Sedersi almeno una volta in un caffè storico — Café Central, Café Sacher o Landtmann tra i più noti — per capire dal vivo la Kaffeehauskultur, la cultura del caffè viennese riconosciuta dall\'UNESCO come patrimonio culturale immateriale dal 2011',
+      'Sedersi almeno una volta in un caffè storico (Café Central, Café Sacher o Landtmann tra i più noti) per capire dal vivo la Kaffeehauskultur, la cultura del caffè viennese riconosciuta dall\'UNESCO come patrimonio culturale immateriale dal 2011',
       'Salire sulla torre sud della Cattedrale di Santo Stefano per una vista dall\'alto sui tetti del centro storico',
       'Assistere a uno spettacolo all\'Opera di Stato con un biglietto in piedi (Stehplatz), a partire da circa 13€, uno dei modi più economici al mondo per vedere un\'opera di alto livello',
       'Un giro sul Wiener Riesenrad al Prater, soprattutto al tramonto',
@@ -49,10 +49,10 @@ export const destinazioniAustria: Destinazione[] = [
     costi: 'nella media europea: musei principali 20-25€, pasto normale 15-25€ a testa, biglietti in piedi dell\'Opera a partire da 13€, trasporti pubblici economici',
     erroriDaEvitare: [
       'Presentarsi a Schönbrunn o al Belvedere in alta stagione senza biglietto prenotato online: le code in loco possono superare l\'ora',
-      'Sottovalutare la Kaffeehauskultur come una semplice pausa caffè: nei caffè storici il tavolo è "affittato" per tutto il tempo che si vuole, un\'usanza culturale precisa, non un\'attrazione da consumare in fretta',
+      'Sottovalutare la Kaffeehauskultur come una semplice pausa caffè: nei caffè storici il tavolo è "affittato" per tutto il tempo che si vuole: è un\'usanza culturale precisa, da prendere con calma',
       'Programmare acquisti o commissioni di domenica: quasi tutti i negozi, supermercati compresi, sono chiusi per legge, con le sole eccezioni di stazioni, aeroporto e farmacie di turno',
       'Abbassare la guardia sulla linea U3 della metropolitana nelle ore di punta: è la linea più segnalata per i borseggi in città',
-      'Sottovalutare le dimensioni di Schönbrunn: il solo giro del palazzo e dei giardini principali richiede mezza giornata buona',
+      'Sottovalutare le dimensioni di Schönbrunn: il solo giro del palazzo e dei giardini principali richiede una buona mezza giornata',
     ],
     esperienzeSlugs: ['vienna-schonbrunn-biglietto', 'vienna-opera-stehplatz', 'vienna-giro-caffe-storici'],
     tripSlugs: ['vienna-weekend'],

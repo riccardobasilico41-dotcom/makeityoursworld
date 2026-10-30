@@ -14,11 +14,11 @@ export const destinazioniTurchia: Destinazione[] = [
     giorniConsigliati: '3-4 giorni',
     visitataPersonalmente: false,
     introduzione:
-      'L\'antica Bisanzio e Costantinopoli, divisa dal Bosforo tra Europa e Asia: la penisola storica di Sultanahmet, i quartieri di Beyoğlu e Karaköy, il lato asiatico di Kadıköy.',
+      'L\'antica Bisanzio, poi Costantinopoli, divisa dal Bosforo fra Europa e Asia: la penisola storica di Sultanahmet, i quartieri di Beyoğlu e Karaköy, Kadıköy sul lato asiatico.',
     percheAndarci:
       'Per Santa Sofia, il Topkapı e la Süleymaniye, per i bazar, per i traghetti sul Bosforo e per una delle cucine di strada più ricche del Mediterraneo.',
     cosaVedere: [
-      'Santa Sofia, con la visita delle gallerie superiori per i turisti',
+      'Santa Sofia, dove i turisti visitano le gallerie superiori',
       'La Moschea Blu e l\'Ippodromo',
       'La Cisterna Basilica',
       'Il palazzo Topkapı con l\'harem',
@@ -28,7 +28,7 @@ export const destinazioniTurchia: Destinazione[] = [
     ],
     cosaFare: [
       'Il traghetto pubblico sul Bosforo fino ad Anadolu Kavağı',
-      'Attraversare in traghetto da Eminönü a Kadıköy per il mercato del lato asiatico',
+      'Passare in traghetto da Eminönü a Kadıköy per il mercato del lato asiatico',
       'Un hammam storico',
       'Il tramonto dalla torre di Galata o da una terrazza di Karaköy',
     ],
@@ -38,13 +38,13 @@ export const destinazioniTurchia: Destinazione[] = [
       'Balık ekmek (panino di pesce) a Eminönü, kebab di Adana e lahmacun nelle lokanta, meze e rakı nelle meyhane di Beyoğlu, colazione turca a Kadıköy, baklava da Karaköy Güllüoğlu.',
     comeArrivare: 'Aeroporto di Istanbul (IST), collegato dalla metro M11 e dagli autobus Havaist; aeroporto Sabiha Gökçen (SAW) sul lato asiatico.',
     comeSpostarsi:
-      'Istanbulkart ricaricabile per metro, tram T1, funicolari e traghetti; taxi con app BiTaksi o Uber, che a Istanbul chiama i taxi gialli.',
+      'Istanbulkart ricaricabile per metro, tram T1, funicolari e traghetti; taxi con le app BiTaksi o Uber, che a Istanbul chiama i taxi gialli.',
     periodoMigliore: 'aprile-giugno e settembre-novembre',
     costi:
-      'Santa Sofia 25 € per i turisti; Topkapı con harem intorno ai 50 €; Museum Pass Istanbul intorno ai 105 € per 5 giorni (indicativi, quotati in euro).',
+      'Santa Sofia 25 € per i turisti; Topkapı con harem intorno ai 50 €; Museum Pass Istanbul intorno ai 105 € per 5 giorni (prezzi indicativi, in euro).',
     erroriDaEvitare: [
       'Accettare l\'invito di uno sconosciuto a bere qualcosa in un locale: è la truffa del conto gonfiato, frequente a Taksim e Sultanahmet',
-      'Raccogliere la spazzola del lustrascarpe caduta davanti a voi: è il pretesto per una lucidatura a pagamento',
+      'Raccogliere la spazzola che un lustrascarpe lascia cadere davanti a voi: è il pretesto per una lucidatura a pagamento',
       'Mangiare nei ristoranti di Sultanahmet senza prezzi esposti',
     ],
     esperienzeSlugs: [],
@@ -61,7 +61,7 @@ export const destinazioniTurchia: Destinazione[] = [
     giorniConsigliati: '3 giorni',
     visitataPersonalmente: false,
     introduzione:
-      'Un altopiano di tufo vulcanico scolpito dall\'erosione in camini delle fate, valli e pinnacoli, con chiese rupestri bizantine e città sotterranee.',
+      'Un altopiano di tufo vulcanico che l\'erosione ha scolpito in camini delle fate, valli e pinnacoli, con chiese rupestri bizantine e città sotterranee.',
     percheAndarci:
       'Per le mongolfiere all\'alba, le chiese affrescate del museo all\'aperto di Göreme, le passeggiate nelle valli e le notti in un hotel scavato nella roccia.',
     cosaVedere: [
@@ -83,12 +83,12 @@ export const destinazioniTurchia: Destinazione[] = [
       'Testi kebab cotto nel vaso di terracotta, mantı (ravioli con yogurt), pide, i vini di Ürgüp e Uçhisar.',
     comeArrivare: 'Voli da Istanbul su Kayseri (ASR, 1 ora di transfer) o Nevşehir (NAV, 40 minuti); bus notturni da Istanbul (circa 10-11 ore).',
     comeSpostarsi: 'Auto a noleggio o tour giornalieri (Red Tour, Green Tour); i dolmuş collegano Göreme, Uçhisar, Avanos e Ürgüp.',
-    periodoMigliore: 'aprile-giugno e settembre-ottobre; d\'inverno neve e paesaggi bellissimi, ma più voli in mongolfiera annullati',
+    periodoMigliore: 'aprile-giugno e settembre-ottobre; d\'inverno c\'è la neve e il paesaggio è bellissimo, ma più voli in mongolfiera vengono annullati',
     costi:
       'Mongolfiera indicativamente 180-350 € a persona secondo stagione; museo all\'aperto di Göreme intorno ai 20-25 €; Derinkuyu intorno ai 15-20 €; Museum Pass Cappadocia intorno ai 45-50 € (indicativi).',
     erroriDaEvitare: [
-      'Prenotare la mongolfiera per l\'ultima mattina: i voli si annullano per vento e conviene avere almeno un giorno di riserva',
-      'Scegliere l\'operatore solo sul prezzo: conta la licenza e il numero di passeggeri per cesta',
+      'Prenotare la mongolfiera per l\'ultima mattina: col vento i voli si annullano, e conviene avere almeno un giorno di riserva',
+      'Scegliere l\'operatore solo in base al prezzo: contano la licenza e il numero di passeggeri per cesta',
       'Visitare il museo all\'aperto a mezzogiorno, quando arrivano tutti i gruppi',
     ],
     esperienzeSlugs: [],
@@ -105,9 +105,9 @@ export const destinazioniTurchia: Destinazione[] = [
     giorniConsigliati: '1 giorno',
     visitataPersonalmente: false,
     introduzione:
-      'Una collina di terrazze di travertino bianco formate da sorgenti calde, sopra le quali sorgono le rovine della città romana di Hierapolis.',
+      'Una collina di terrazze di travertino bianco formate da sorgenti calde, con in cima le rovine della città romana di Hierapolis.',
     percheAndarci:
-      'Per camminare a piedi nudi nelle vasche calcaree, il teatro romano di Hierapolis e la piscina antica di Cleopatra, con colonne sommerse.',
+      'Per camminare a piedi nudi nelle vasche calcaree, per il teatro romano di Hierapolis e per la piscina antica di Cleopatra, con le colonne sommerse.',
     cosaVedere: [
       'Le terrazze di travertino',
       'Il teatro e la necropoli di Hierapolis',
@@ -122,7 +122,7 @@ export const destinazioniTurchia: Destinazione[] = [
     costi: 'Ingresso Pamukkale-Hierapolis intorno ai 30 €; piscina antica a parte, intorno ai 10-15 € (indicativi).',
     erroriDaEvitare: [
       'Salire a mezzogiorno d\'estate: il riflesso del bianco è accecante',
-      'Aspettarsi tutte le vasche piene: molte sono asciutte a rotazione per preservare il travertino',
+      'Aspettarsi tutte le vasche piene: molte vengono lasciate asciutte a rotazione per preservare il travertino',
     ],
     esperienzeSlugs: [],
     tripSlugs: ['turchia-itinerario'],
@@ -140,7 +140,7 @@ export const destinazioniTurchia: Destinazione[] = [
     introduzione:
       'La città romana meglio conservata del Mediterraneo orientale, con la biblioteca di Celso e il grande teatro, a pochi chilometri dalla cittadina di Selçuk e dal villaggio collinare di Şirince.',
     percheAndarci:
-      'Per percorrere la via dei Cureti fino alla biblioteca di Celso, vedere gli affreschi e i mosaici delle case a terrazza e passare una sera tra le case greche di Şirince.',
+      'Per percorrere la via dei Cureti fino alla biblioteca di Celso, vedere gli affreschi e i mosaici delle case a terrazza e passare una sera fra le case greche di Şirince.',
     cosaVedere: [
       'La biblioteca di Celso e il grande teatro di Efeso',
       'Le case a terrazza, con biglietto a parte',
@@ -173,9 +173,9 @@ export const destinazioniTurchia: Destinazione[] = [
     giorniConsigliati: '4-5 giorni',
     visitataPersonalmente: false,
     introduzione:
-      'Il tratto di costa tra Fethiye e Antalya, con calette di acqua turchese, tombe licie scavate nella roccia, il sentiero della Via Licia e le rovine sommerse di Kekova.',
+      'Il tratto di costa fra Fethiye e Antalya, con calette di acqua turchese, tombe licie scavate nella roccia, il sentiero della Via Licia e le rovine sommerse di Kekova.',
     percheAndarci:
-      'Per il mare più bello della Turchia, le spiagge di Ölüdeniz e Kaputaş, la sabbia di Patara, la gola di Saklıkent e le uscite in barca tra le isole.',
+      'Per il mare più bello della Turchia, le spiagge di Ölüdeniz e Kaputaş, la sabbia di Patara, la gola di Saklıkent e le uscite in barca fra le isole.',
     cosaVedere: [
       'La laguna di Ölüdeniz e la Valle delle Farfalle',
       'Il villaggio abbandonato di Kayaköy',
@@ -195,11 +195,11 @@ export const destinazioniTurchia: Destinazione[] = [
     doveMangiare: 'Pesce scelto al mercato di Fethiye e cucinato nei ristoranti intorno, gözleme nei villaggi, meze nelle taverne di Kaş.',
     comeArrivare: 'Aeroporti di Dalaman (per Fethiye) e Antalya (per Kaş e Kekova).',
     comeSpostarsi: 'Auto a noleggio; dolmuş tra le località principali; barche dal porto per le isole.',
-    periodoMigliore: 'maggio-giugno e settembre-ottobre; luglio-agosto caldissimo e affollato',
+    periodoMigliore: 'maggio-giugno e settembre-ottobre; luglio-agosto sono molto caldi e affollati',
     costi:
       'Gita in barca con pranzo indicativamente 25-45 €; parapendio intorno ai 100-150 €; Patara e Saklıkent intorno ai 5-15 € ciascuno (indicativi).',
     erroriDaEvitare: [
-      'Fare la costa senza auto: tra un posto e l\'altro i dolmuş ci sono, ma le calette migliori restano fuori',
+      'Girare la costa senza auto: fra un paese e l\'altro i dolmuş ci sono, ma le calette migliori restano fuori',
       'Andarci ad agosto senza prenotare: Kaş e Ölüdeniz si riempiono',
     ],
     esperienzeSlugs: [],
@@ -217,7 +217,7 @@ export const destinazioniTurchia: Destinazione[] = [
     visitataPersonalmente: false,
     introduzione:
       'La grande città della costa mediterranea, con il centro storico di Kaleiçi intorno al porto romano e un museo archeologico tra i migliori del Paese.',
-    percheAndarci: 'Per chiudere il viaggio vicino all\'aeroporto, con Kaleiçi, il museo e le cascate di Düden; dintorni con Perge, Aspendos e Termessos.',
+    percheAndarci: 'Per chiudere il viaggio vicino all\'aeroporto, con Kaleiçi, il museo e le cascate di Düden; nei dintorni ci sono Perge, Aspendos e Termessos.',
     cosaVedere: ['Kaleiçi e la porta di Adriano', 'Il Museo archeologico di Antalya', 'Le cascate di Düden', 'Il teatro di Aspendos e Perge'],
     cosaFare: ['Un bagno a Konyaaltı', 'La sera al porto vecchio'],
     doveDormire: 'Nelle case ottomane restaurate di Kaleiçi.',
@@ -225,7 +225,7 @@ export const destinazioniTurchia: Destinazione[] = [
     comeSpostarsi: 'Tram e taxi in città; auto per i siti dei dintorni.',
     periodoMigliore: 'da aprile a novembre',
     costi: 'Museo archeologico e Aspendos intorno ai 15-20 € ciascuno (indicativi).',
-    erroriDaEvitare: ['Restituire l\'auto a noleggio in un\'altra città senza aver verificato la tassa di sola andata'],
+    erroriDaEvitare: ['Restituire l\'auto a noleggio in un\'altra città senza aver controllato la tassa di sola andata'],
     esperienzeSlugs: [],
     tripSlugs: ['turchia-itinerario'],
     imageAlt: 'Vista di Kaleiçi, il centro storico di Antalya affacciato sul mare',

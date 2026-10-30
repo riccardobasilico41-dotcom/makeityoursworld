@@ -132,8 +132,8 @@ export const meraviglie: Meraviglia[] = [
     ],
     miaEsperienza:
       'Petra non è un monumento, è una città, e il primo errore è comprare il biglietto da un giorno. Il Siq da solo è più di un chilometro di gola stretta e altissima che continua a girare senza mai mostrare cosa c\'è dopo, e quando il Tesoro compare nello spiraglio finale l\'effetto funziona anche sapendolo in anticipo. Ma il Tesoro è l\'inizio: il Monastero sta in cima a ottocento gradini, un\'ora abbondante di salita col sole a picco, ed è più grande di quello che quasi tutti vengono a vedere. Chi ha una sola giornata parta all\'apertura ed eviti la fascia centrale, quando arrivano i pullman dal Mar Morto e la temperatura tra le rocce diventa seria. Sui muli e i cammelli offerti lungo il percorso vale la pena essere netti: le condizioni degli animali sono spesso pessime, e rifiutare è la scelta giusta.',
-    heroImageAlt: 'Il Tesoro di Petra (Al-Khazneh) visto all\'uscita del Siq, Giordania',
-    heroImage: '/images/meraviglie/petra.jpg',
+    heroImageAlt: 'Le colonne rosate del Tesoro di Petra (Al-Khazneh) scolpite nella roccia, Giordania',
+    heroImage: '/images/giordania/petra-tesoro-colonne-riccardo.jpg',
   },
   {
     slug: 'cristo-redentore',
@@ -246,8 +246,8 @@ export const meraviglie: Meraviglia[] = [
     ],
     miaEsperienza:
       'È uno di quei posti di cui si sono viste talmente tante foto da temere la delusione, e invece regge — ma regge nella prima ora, quando la nebbia si alza a strappi e il sito compare a pezzi. Dopo, con i gruppi in fila lungo il circuito assegnato, diventa un\'altra cosa: bellissima, ma gestita. Conviene sapere prima che non si gira liberamente: dal 2024 il circuito scelto al momento della prenotazione decide cosa si vedrà e cosa no, e la fotografia classica dall\'alto non è compresa in tutti. L\'altra cosa da mettere in conto è che i biglietti per i periodi buoni si esauriscono con mesi di anticipo, Huayna Picchu per primo. Dormire ad Aguas Calientes ed entrare al primo turno non serve per la luce: serve per quei quaranta minuti in cui il posto è ancora silenzioso.',
-    heroImageAlt: 'La cittadella inca di Machu Picchu tra le montagne della Valle Sacra, Perù',
-    heroImage: '/images/meraviglie/machu-picchu.jpg',
+    heroImageAlt: 'Un lama pascola sui terrazzamenti inca di Machu Picchu avvolti nella nebbia del mattino, Perù',
+    heroImage: '/images/peru/machu-picchu-lama-terrazze-riccardo.jpg',
   },
   {
     slug: 'chichen-itza',
@@ -421,7 +421,7 @@ export const meraviglie: Meraviglia[] = [
     ],
     miaEsperienza:
       'Il Taj è l\'unico monumento che regge davvero la propria fama, e lo fa per un motivo difficile da spiegare a parole: il marmo cambia colore durante il giorno, rosato all\'alba, bianco accecante a mezzogiorno, ambrato al tramonto, e non è un modo di dire. Va visto all\'apertura, con il biglietto comprato online la sera prima, perché entro le nove i cortili sono pieni e la panchina delle fotografie ha una fila costante. La cosa che colpisce da vicino, e che nessuna foto mostra, è l\'intarsio: fiori composti con decine di pietre dure incastrate nel marmo, che si vedono solo appoggiandosi al muro. Ad Agra però bisogna essere preparati a tutto il resto: il livello di insistenza di guide non autorizzate, autisti e venditori attorno agli ingressi è tra i più alti dell\'India, e l\'unico modo di gestirlo è non avviare la conversazione. Chiude il venerdì, ed è l\'errore più comune di chi organizza all\'ultimo.',
-    heroImageAlt: 'Il Taj Mahal riflesso nella vasca dei giardini Charbagh, Agra, India',
-    heroImage: '/images/meraviglie/taj-mahal.jpg',
+    heroImageAlt: 'Il Taj Mahal simmetrico all\'alba con la vasca d\'acqua e i cipressi dei giardini Charbagh, Agra, India',
+    heroImage: '/images/india/agra-taj-mahal-alba-riccardo.jpg',
   },
 ]

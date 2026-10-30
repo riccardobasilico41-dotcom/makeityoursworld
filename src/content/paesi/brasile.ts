@@ -26,11 +26,11 @@ export const brasile: Paese = {
     valuta:
       'Real brasiliano (BRL, R$), indicativamente 1 € = 6-6,5 R$ nel 2026. Conviene prelevare in reais da sportelli dentro banche o centri commerciali invece di cambiare euro in contanti.',
     pagamenti:
-      'Carte e contactless accettati quasi ovunque, anche in molti chioschi di spiaggia. Il Pix, il pagamento istantaneo locale, è diffusissimo ma richiede un conto brasiliano. Contanti utili per barche, mercati, paesi piccoli e mance.',
+      'Carte e contactless accettati quasi ovunque, anche in molti chioschi di spiaggia. Il Pix, il pagamento istantaneo locale, è diffusissimo, ma richiede un conto brasiliano. Contanti utili per barche, mercati, paesi piccoli e mance.',
     connettivita:
       'SIM di Claro, Vivo o TIM acquistabili con passaporto nei negozi degli operatori, oppure eSIM attivata prima della partenza. Copertura buona in città e sulla costa, scarsa o assente nei parchi (Lençóis Maranhenses, Chapada, Pantanal) e nei lodge amazzonici.',
     salute:
-      'Vaccinazione contro la febbre gialla raccomandata per molte zone (Iguazú, Chapada Diamantina, Pantanal, Amazzonia), da fare almeno 10 giorni prima; il certificato può essere richiesto entrando in Colombia o Perù dalla frontiera amazzonica. Dengue diffusa: repellente e maniche lunghe al tramonto. Acqua in bottiglia, crema solare alta. Assicurazione sanitaria con rimpatrio fortemente consigliata.',
+      'Vaccinazione contro la febbre gialla raccomandata per molte zone (Iguazú, Chapada Diamantina, Pantanal, Amazzonia), da fare almeno 10 giorni prima; il certificato può essere richiesto entrando in Colombia o Perù dalla frontiera amazzonica. Dengue diffusa: repellente e maniche lunghe al tramonto. Acqua in bottiglia, crema solare alta. Assicurazione sanitaria con rimpatrio molto consigliata.',
     sicurezza:
       'Nelle grandi città (Rio, Salvador, São Paulo) il rischio concreto è la criminalità di strada: furti di telefoni, scippi anche da moto o bicicletta, rapine nelle zone deserte la sera. Prudenza costante: telefono in tasca, niente gioielli, poco contante, app invece di camminare di notte, nessuna visita alle favelas senza guide della comunità. Le zone naturali e i piccoli centri turistici sono in genere tranquilli. Leggere la scheda aggiornata di Viaggiare Sicuri prima di partire.',
     trasportiInterni:

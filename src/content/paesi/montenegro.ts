@@ -20,14 +20,14 @@ export const montenegro: Paese = {
     '50-70 € al giorno a persona in fascia economica, 90-140 € in fascia media, da 200 € nei resort; voli esclusi',
   scheda: {
     documenti:
-      'Per i cittadini italiani basta la carta d\'identità valida per l\'espatrio o il passaporto, per soggiorni turistici fino a 90 giorni. Il Montenegro non è nell\'Unione europea né nell\'area Schengen: alla frontiera con la Croazia si passa il controllo biometrico EES. Le strutture ricettive registrano gli ospiti presso le autorità. Controllare la scheda Montenegro di Viaggiare Sicuri.',
+      'Per i cittadini italiani basta la carta d\'identità valida per l\'espatrio o il passaporto, per soggiorni turistici fino a 90 giorni. Il Montenegro non è nell\'Unione europea né nell\'area Schengen: alla frontiera con la Croazia si passa il controllo biometrico EES. Le strutture ricettive registrano gli ospiti presso le autorità. Prima di partire conviene controllare la scheda Montenegro di Viaggiare Sicuri.',
     valuta: 'Euro, adottato unilateralmente pur non facendo parte dell\'eurozona.',
     pagamenti:
       'Carte accettate in hotel, ristoranti e supermercati delle città; contanti per parcheggi, mura di Kotor, barche, parchi nazionali e trattorie di montagna. Tassa di soggiorno di circa 1-1,5 € a persona a notte.',
     connettivita:
       'Il roaming europeo a tariffa nazionale non si applica: con le SIM italiane i dati possono costare molto. SIM turistiche One, Crnogorski Telekom e m:tel in aeroporto e nei chioschi, o eSIM. Copertura buona sulla costa e nelle città, scarsa in alcune zone del Durmitor e nel canyon del Tara.',
     salute:
-      'Nessuna vaccinazione richiesta. La tessera sanitaria europea non è valida; esiste una convenzione sanitaria bilaterale con l\'Italia, ma un\'assicurazione di viaggio è consigliata. Zecche nei prati di montagna; sole forte d\'estate.',
+      'Nessuna vaccinazione richiesta. La tessera sanitaria europea non è valida; esiste una convenzione sanitaria bilaterale con l\'Italia, ma conviene comunque un\'assicurazione di viaggio. Zecche nei prati di montagna; sole forte d\'estate.',
     sicurezza:
       'Paese sicuro per i turisti. Piccoli furti nelle località affollate della costa in estate; il rischio principale è la guida su strade di montagna strette, con sorpassi azzardati e velocità alte dei locali.',
     trasportiInterni:
@@ -41,7 +41,7 @@ export const montenegro: Paese = {
     clima:
       'Mediterraneo sulla costa, con estati calde e secche e inverni miti ma molto piovosi; continentale e di montagna all\'interno, con estati fresche al Durmitor e neve da novembre ad aprile. Podgorica in luglio e agosto supera spesso i 35-40 °C.',
     festivita:
-      'Festa dell\'indipendenza il 21-22 maggio e festa della statualità il 13 luglio. Pasqua e Natale ortodossi (il Natale si festeggia il 7 gennaio). Il pellegrinaggio a Ostrog è particolarmente affollato a metà maggio, per la festa di San Basilio.',
+      'Festa dell\'indipendenza il 21-22 maggio e festa della statualità il 13 luglio. Pasqua e Natale ortodossi (il Natale si festeggia il 7 gennaio). Il pellegrinaggio a Ostrog è molto affollato a metà maggio, per la festa di San Basilio.',
     emergenze:
       'Polizia 122, ambulanza 124, vigili del fuoco 123, numero unico europeo 112. Ambasciata d\'Italia a Podgorica.',
     aggiornatoAl: 'ottobre 2026',

@@ -24,13 +24,13 @@ export const destinazioniMaldive: Destinazione[] = [
       'La Moschea del Venerdì (Hukuru Miskiy), in pietra di corallo del Seicento',
       'La spiaggia di Hulhumalé',
     ],
-    cosaFare: ['Gli short eats in un caffè locale', 'Una passeggiata serale sul lungomare di Hulhumalé'],
+    cosaFare: ['Assaggiare gli short eats in un caffè locale', 'Una passeggiata serale sul lungomare di Hulhumalé'],
     doveDormire: 'Hulhumalé, a 10-15 minuti dall\'aeroporto, con hotel e guesthouse da 60 a 150 $.',
     doveMangiare: 'Caffè locali per gli short eats, ristoranti sul lungomare di Hulhumalé.',
     comeArrivare: 'Dall\'aeroporto Velana in traghetto per Malé (10 minuti, 1-2 $) o in bus e taxi per Hulhumalé e Malé sul ponte.',
     comeSpostarsi: 'A piedi e in taxi.',
     periodoMigliore: 'tutto l\'anno.',
-    erroriDaEvitare: ['Visitare le moschee durante la preghiera o senza abiti coperti', 'Cercare alcol: Malé e Hulhumalé sono isole abitate e vale il divieto'],
+    erroriDaEvitare: ['Visitare le moschee durante la preghiera o senza abiti coperti', 'Cercare alcol: Malé e Hulhumalé sono isole abitate, e lì vale il divieto'],
     esperienzeSlugs: [],
     tripSlugs: ['maldive-guida'],
     imageAlt: 'Malé vista dall\'alto, con il porto pieno di barche e gli edifici colorati della capitale',
@@ -59,7 +59,7 @@ export const destinazioniMaldive: Destinazione[] = [
     comeArrivare: 'Speedboat da Malé in 30-90 minuti (25-40 $), o traghetto MTCC economico con poche partenze.',
     comeSpostarsi: 'Escursioni in barca organizzate dalle guesthouse.',
     periodoMigliore: 'dicembre-aprile per il mare calmo; da maggio a novembre speedboat più mossi.',
-    erroriDaEvitare: ['Aspettarsi un villaggio tranquillo a Maafushi: è costruita e affollata', 'Contare sui traghetti di venerdì'],
+    erroriDaEvitare: ['Aspettarsi un villaggio tranquillo a Maafushi: è molto costruita e affollata', 'Contare sui traghetti di venerdì'],
     esperienzeSlugs: [],
     tripSlugs: ['maldive-guida'],
     imageAlt: 'Una strada di sabbia tra le palme e le case basse di un\'isola locale delle Maldive',
@@ -74,7 +74,7 @@ export const destinazioniMaldive: Destinazione[] = [
     giorniConsigliati: '3-4 giorni',
     visitataPersonalmente: false,
     introduzione:
-      'Un piccolo atollo all\'estremità nord-est di Ari, con l\'isola locale di Rasdhoo, e le vicine Ukulhas e Thoddoo. Il lato esterno dell\'atollo scende nel blu profondo.',
+      'Un piccolo atollo all\'estremità nord-est di Ari, con l\'isola locale di Rasdhoo, e le vicine Ukulhas e Thoddoo. Il lato esterno dell\'atollo precipita nel blu profondo.',
     percheAndarci:
       'Per gli squali martello che salgono dalle profondità all\'alba, da dicembre a maggio, e per un\'isola locale con buoni centri diving.',
     cosaVedere: ['Il sito degli squali martello all\'alba (Hammerhead Point)', 'Le barriere con mante e tartarughe', 'La spiaggia e i giardini di Ukulhas e Thoddoo'],
@@ -136,7 +136,7 @@ export const destinazioniMaldive: Destinazione[] = [
     introduzione:
       'Un atollo riserva della biosfera UNESCO, con la piccola baia di Hanifaru dove tra giugno e novembre si radunano decine, a volte oltre cento, mante a nutrirsi del plancton.',
     percheAndarci:
-      'Per una delle più grandi aggregazioni di mante al mondo, osservabile in snorkeling, con il picco tra agosto e ottobre.',
+      'Per una delle più grandi aggregazioni di mante al mondo, che si osserva in snorkeling, con il picco tra agosto e ottobre.',
     cosaVedere: ['Le mante e gli squali balena occasionali a Hanifaru', 'Le barriere e i thila dell\'atollo'],
     cosaFare: ['Snorkeling a Hanifaru con guida autorizzata', 'Immersioni nei siti dell\'atollo fuori dalla baia'],
     doveDormire: 'Guesthouse a Dharavandhoo e Thulhaadhoo; resort sulle isole dell\'atollo.',
@@ -147,7 +147,7 @@ export const destinazioniMaldive: Destinazione[] = [
     costi: 'Tassa d\'ingresso alla baia indicativamente 20-50 $ a persona, escursione a parte.',
     erroriDaEvitare: [
       'Aspettarsi di immergersi con le bombole: a Hanifaru è consentito solo lo snorkeling',
-      'Prenotare all\'ultimo minuto in agosto-ottobre: ingressi contingentati',
+      'Prenotare all\'ultimo minuto in agosto-ottobre: gli ingressi sono contingentati',
     ],
     esperienzeSlugs: [],
     tripSlugs: ['maldive-guida'],
