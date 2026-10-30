@@ -13,7 +13,7 @@ Questo è il viaggio che si fa la seconda volta, quando la Muraglia e l'Esercito
 
 ## Scheda pratica
 - **Quando andare:** aprile-maggio o settembre-ottobre. Restano da evitare la Settimana d'oro (1-7 ottobre) e il Capodanno cinese, e qui la ragione è ancora più concreta che sull'asse classico: a Zhangjiajie, in quei giorni, le code alle funivie superano le tre ore. Da giugno ad agosto le piogge chiudono tratti della Gola del Salto della Tigre, e Chongqing diventa una delle «città forno» del paese, con settimane sopra i 40 gradi.
-- **Documenti, pagamenti, connettività, treni:** valgono le stesse regole dell'itinerario classico: esenzione visto 30 giorni fino a fine 2026, Alipay o WeChat Pay configurati **prima** di partire, eSIM estera o VPN installata **prima**, biglietti dei treni in vendita 15 giorni prima alle 8 ora di Pechino. Qui però il problema si aggrava: fuori dalle grandi città l'inglese scompare del tutto, e il traduttore con fotocamera passa da comodità a necessità.
+- **Documenti, pagamenti, connettività, treni:** valgono le stesse regole dell'itinerario classico: esenzione visto 30 giorni fino a fine 2026, Alipay o WeChat Pay configurati **prima** di partire, eSIM estera o VPN installata **prima**, biglietti dei treni in vendita 15 giorni prima, a un orario che varia da stazione a stazione. Qui però il problema si aggrava: fuori dalle grandi città l'inglese scompare del tutto, e il traduttore con fotocamera passa da comodità a necessità.
 - **Voli interni:** su questo itinerario sono inevitabili e vanno messi nel budget. Zhangjiajie-Chengdu, Chengdu-Lijiang e Lijiang-Guilin in treno costerebbero una giornata intera ciascuna. I voli interni cinesi sono economici e frequenti, ma i ritardi sono comuni: meglio non programmare coincidenze strette.
 - **Quota:** è il fattore che questo itinerario aggiunge rispetto all'altro. Lijiang sta a 2.400 metri, Shangri-La supera i 3.200, l'anfiteatro di Impression Lijiang è a 3.100 e la funivia dello Yulong Xueshan arriva a 4.506. Le bombole di ossigeno in vendita all'ingresso del parco non sono un souvenir. Chi arriva in aereo dal livello del mare deve dormire almeno una notte a Lijiang prima di salire in quota.
 - **Ingressi ai parchi, la vera voce di spesa:** il parco nazionale di Zhangjiajie costa circa 239 yuan (valido 4 giorni, navette interne incluse), ma ascensore e funivie si pagano a parte; Tianmen Shan è un biglietto separato sui 250-280 yuan; per lo Yulong Xueshan servono ingresso, navetta e funivia; Impression Lijiang costa 190-280 yuan. Sommate, queste voci superano tutto il resto del viaggio.
@@ -64,12 +64,12 @@ Il consiglio che vale la giornata: camminare fino alle piattaforme più lontane.
 *Sulla nebbia conviene ribaltare il ragionamento: è ciò che fa sembrare i pilastri sospesi nel vuoto. Con il cielo terso sembrano montagne normali.*
 
 ### Giorno 6 — Tianzi Shan e il fondovalle
-Seconda giornata nel parco, con il biglietto già in mano. **Tianzi Shan** al mattino, per il panorama più ampio sull'intero massiccio, e nel pomeriggio la discesa lungo il **sentiero del Ditastro d'Oro**, in fondo alla valle.
+Seconda giornata nel parco, con il biglietto già in mano. **Tianzi Shan** al mattino, per il panorama più ampio sull'intero massiccio, e nel pomeriggio la discesa lungo il **sentiero del torrente della Frusta d'Oro (Jinbian Xi)**, in fondo alla valle.
 
 È la parte che quasi nessuno fa e vale mezza giornata: guardare quei pilastri dal basso, con il collo all'insù e il ruscello di fianco, impressiona più che vederli dall'alto. E in fondovalle i pullman non arrivano.
 
 ### Giorno 7 — Tianmen Shan e volo per Chengdu
-Ci siamo trasferiti in città per una giornata a **Tianmen Shan**, con la fascia oraria della funivia prenotata in anticipo. La funivia è la più lunga del mondo: parte dal centro città, dura quasi mezz'ora e verso la fine sorvola la strada dei 99 tornanti.
+Ci siamo trasferiti in città per una giornata a **Tianmen Shan**, con la fascia oraria della funivia prenotata in anticipo. La funivia, lunga quasi sette chilometri e mezzo, è tra le più lunghe del mondo: parte dal centro città, dura quasi mezz'ora e verso la fine sorvola la strada dei 99 tornanti.
 
 In cima c'è la **Porta del Cielo**, una grotta naturale passante alta 131 metri, a cui si arriva salendo 999 gradini (o con le scale mobili dentro la montagna, per chi non se la sente), e ci sono le **passerelle a strapiombo con il fondo di vetro**: sicure e larghe, ma chi soffre di vertigini si ferma dopo tre passi.
 
@@ -85,7 +85,7 @@ Il pomeriggio al **Monastero di Wenshu** e poi nel **parco del Popolo**, alla ca
 La sera, **hot pot sichuanese** con il brodo diviso. Il pepe di Sichuan non brucia, addormenta la lingua, e la prima volta la sensazione è quasi allarmante, prima di diventare una dipendenza.
 
 ### Giorno 9 — Leshan, poi volo per Lijiang
-Gita in giornata al **Grande Buddha di Leshan**, 71 metri scolpiti nella roccia alla confluenza di tre fiumi, a due ore di treno. In alternativa **Dujiangyan**, il sistema di irrigazione in funzione ininterrotta dal III secolo a.C., ma sono in direzioni opposte e in un giorno solo se ne fa uno.
+Gita in giornata al **Grande Buddha di Leshan**, 71 metri scolpiti nella roccia alla confluenza di tre fiumi, a circa un'ora di alta velocità. In alternativa **Dujiangyan**, il sistema di irrigazione in funzione ininterrotta dal III secolo a.C., ma sono in direzioni opposte e in un giorno solo se ne fa uno.
 
 **Volo serale Chengdu-Lijiang.** Si arriva a 2.400 metri, ed è per questo che la quota vera si affronta solo dal giorno dopo.
 
@@ -106,7 +106,7 @@ Nel pomeriggio la **funivia del ghiacciaio a 4.506 metri**, ma solo se il cielo 
 *Se il cielo è coperto, l'alternativa sensata è la funivia del Prato degli Abeti a 3.200 metri, che costa la metà e ha molta meno coda.*
 
 ### Giorno 12 — Gola del Salto della Tigre, primo giorno
-Ci siamo trasferiti a **Qiaotou** (circa due ore da Lijiang) e siamo partiti a piedi lungo il **sentiero alto**, sul versante ovest della gola. I bagagli grossi restano in deposito a Lijiang o vengono portati alla guesthouse d'arrivo.
+Ci siamo trasferiti a **Qiaotou** (circa due ore da Lijiang) e siamo partiti a piedi lungo il **sentiero alto**, sul versante nord della gola, quello dell'Haba Xueshan. I bagagli grossi restano in deposito a Lijiang o vengono portati alla guesthouse d'arrivo.
 
 Il tratto duro è la salita delle **28 curve**, un'ora abbondante di tornanti con il fiato corto (si è già sopra i 2.500 metri). Poi il sentiero si distende in traverso e la gola si apre: lo Yangtze si sente prima di vederlo, un rumore costante che sale da quasi tremila metri più in basso.
 
@@ -150,7 +150,7 @@ Trasferimento a **Guilin** e partenza. Chi ha il volo nel pomeriggio può dedica
 
 ## Cosa vedere / cosa fare
 - **Essere all'ingresso di Zhangjiajie all'apertura.** È la decisione che cambia di più la qualità della giornata.
-- **Il sentiero del Ditastro d'Oro in fondovalle**, che quasi nessuno fa.
+- **Il sentiero della Frusta d'Oro in fondovalle**, che quasi nessuno fa.
 - **Furong Zhen dopo le sei di sera**, quando i pullman sono ripartiti.
 - **Hongya Dong dalla riva opposta**, mai da dentro.
 - **La base dei panda alle 7:30**, mai alle 11.
@@ -172,7 +172,7 @@ Trasferimento a **Guilin** e partenza. Chi ha il volo nel pomeriggio può dedica
 - **Yangshuo:** in campagna lungo la Yulong River, o a Xingping, non sulla West Street.
 
 ## Dove abbiamo mangiato
-- **Chongqing:** hot pot originale, xiaomian a colazione seduti in strada, pollo alla Laziji sepolto sotto una montagna di peperoncini secchi, da cui va pescato.
+- **Chongqing:** hot pot originale, xiaomian a colazione seduti in strada, laziji, il pollo fritto sepolto sotto una montagna di peperoncini secchi, da cui va pescato.
 - **Furong Zhen e Hunan:** cucina Tujia, cioè pesce di fiume in umido, maiale affumicato sopra il fuoco, tofu piccante. La cucina dell'Hunan brucia senza intorpidire: è diversa da quella del Sichuan, e più diretta.
 - **Chengdu:** mapo tofu, pollo gongbao (che non ha niente a che vedere con la versione servita in Europa), dan dan noodles, coniglio. E l'hot pot con il brodo diviso, senza fare gli eroi.
 - **Lijiang e Yunnan:** i noodles che attraversano il ponte, il formaggio di capra grigliato dei Bai, i funghi saltati in stagione, il maiale affumicato Naxi. Dentro la città vecchia i prezzi sono da turista: bastano due vicoli fuori per dimezzarli.

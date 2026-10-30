@@ -63,6 +63,7 @@ export const destinazioniGermania: Destinazione[] = [
     ],
     esperienzeSlugs: ['reichstag-cupola', 'museumsinsel-pergamon', 'east-side-gallery', 'berlino-clubbing'],
     tripSlugs: ['berlino-weekend'],
-    imageAlt: 'La cupola di vetro del Reichstag a Berlino, con la vista sul quartiere del governo attraverso lo specchio centrale',
+    imageAlt: 'Il palazzo del Reichstag a Berlino con la cupola di vetro e la bandiera tedesca, visto dal prato antistante',
+    immagine: '/images/germania/berlino.jpg',
   },
 ]

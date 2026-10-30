@@ -79,7 +79,7 @@ Quello che mi resta è quanto le tre isole smentiscano l'idea di "arcipelago uni
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati tramite ricerca e aggiornati a settembre 2026. Orari e frequenze dei traghetti, prezzi degli ingressi e regole di prenotazione cambiano spesso e vanno riverificati sui canali ufficiali prima di partire.
 
-**Cosa manca ancora:** un vero soggiorno da cui partire, date ed eventuali riscontri su alloggi e ristoranti specifici, aneddoti reali al posto della ricerca.
+**Cosa manca ancora:** date del viaggio, alloggi e ristoranti usati davvero, aneddoti e ricordi personali dal diario.
 
 ## Foto/media
 - [ ] foto della Cattedrale di Palma sul mare

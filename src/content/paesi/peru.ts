@@ -44,6 +44,7 @@ export const peru: Paese = {
     emergenze: 'Polizia 105, emergenze 911, polizia turistica dedicata nelle città principali. L\'Ambasciata d\'Italia si trova a Lima.',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'La cittadella inca di Machu Picchu con il Huayna Picchu sullo sfondo, Perù',
+  heroImageAlt: 'La cittadella inca di Machu Picchu con il Huayna Picchu sullo sfondo e un lama al pascolo in primo piano, Perù',
+  heroImage: '/images/peru/peru-paese.jpg',
   tripPrincipaleSlug: 'peru-itinerario',
 }

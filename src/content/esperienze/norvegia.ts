@@ -29,7 +29,8 @@ export const esperienzeNorvegia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['lofoten-estate-2025'],
-    imageAlt: 'Gommone veloce che naviga nel Trollfjord tra le montagne, Lofoten',
+    imageAlt: 'Le pareti di roccia a picco che si stringono sull\'acqua scura del Trollfjord, Lofoten',
+    immagine: '/images/norvegia/trollfjord-rib.jpg',
   },
   {
     slug: 'reinebringen',
@@ -139,7 +140,8 @@ export const esperienzeNorvegia: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: [],
     tripSlugs: ['lofoten-estate-2025'],
-    imageAlt: 'Casette rosse tradizionali dei pescatori al Museo dei Pescatori di Å, Lofoten',
+    imageAlt: 'Le casette rosse dei pescatori su palafitte nel porticciolo di Å, con le barche ormeggiate e le montagne delle Lofoten sullo sfondo',
+    immagine: '/images/norvegia/museo-dei-pescatori.jpg',
   },
   {
     slug: 'nesland-nusfjord',
@@ -227,7 +229,8 @@ export const esperienzeNorvegia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['tromso'],
-    imageAlt: 'Renne al pascolo nella neve vicino a una tenda sami tradizionale (lavvu) al tramonto',
+    imageAlt: 'Una mandria di renne che attraversa un torrente nella valle verde ai piedi del Tromsdalstind, vicino a Tromsø',
+    immagine: '/images/norvegia/sami-renne-lavvu-tromso.jpg',
   },
   {
     slug: 'whale-watching-tromso',
@@ -267,7 +270,8 @@ export const esperienzeNorvegia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: [],
     tripSlugs: [],
-    imageAlt: 'Igloo di vetro innevato con aurora boreale visibile attraverso il soffitto trasparente',
+    imageAlt: 'Un vecchio capanno di legno rosso sulla riva del Lyngenfjord, con le cime innevate delle Alpi di Lyngen sullo sfondo',
+    immagine: '/images/norvegia/glass-igloo-lyngen.jpg',
   },
   {
     slug: 'vigeland-park-oslo',
@@ -288,7 +292,8 @@ export const esperienzeNorvegia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: [],
     tripSlugs: ['capitali-nordiche'],
-    imageAlt: 'Il Monolitto di granito scolpito con figure umane intrecciate nel Vigeland Park di Oslo',
+    imageAlt: 'Il Monolito del Vigeland Park di Oslo, una colonna di granito scolpita con figure umane intrecciate, contro il cielo azzurro',
+    immagine: '/images/norvegia/vigeland-park-oslo.jpg',
   },
   {
     slug: 'bygdoy-musei-fram-kontiki',

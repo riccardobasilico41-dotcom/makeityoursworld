@@ -86,7 +86,7 @@ Quello che mi resta è quanto le tre isole scelte si completino: Tenerife per il
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati tramite ricerca e aggiornati a settembre 2026. Le regole di prenotazione del permesso per il Teide, i prezzi di funivia e Timanfaya e gli orari dei voli interni cambiano spesso e vanno riverificati sui canali ufficiali prima di partire.
 
-**Cosa manca ancora:** un vero soggiorno da cui partire, date ed eventuali riscontri su alloggi e ristoranti specifici, aneddoti reali al posto della ricerca.
+**Cosa manca ancora:** date del viaggio, alloggi e ristoranti usati davvero, aneddoti e ricordi personali dal diario.
 
 ## Foto/media
 - [ ] foto del cratere sommitale del Teide sopra il mare di nubi

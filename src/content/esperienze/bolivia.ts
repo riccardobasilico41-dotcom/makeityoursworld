@@ -74,7 +74,8 @@ export const esperienzeBolivia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Percorrere la strada in auto o in moto con autista, per chi vuole vedere il paesaggio senza pedalare'],
     tripSlugs: ['bolivia-itinerario'],
-    imageAlt: 'Ciclisti sulla pista sterrata della Carretera de la Muerte con strapiombo sulla valle degli Yungas, Bolivia',
+    imageAlt: 'La pista sterrata della Carretera de la Muerte scavata nel fianco delle montagne degli Yungas, Bolivia',
+    immagine: '/images/bolivia/carretera-de-la-muerte.jpg',
   },
   {
     slug: 'tour-uyuni-sud-lipez',
@@ -100,7 +101,8 @@ export const esperienzeBolivia: Esperienza[] = [
       'Percorso inverso partendo da San Pedro de Atacama, in Cile',
     ],
     tripSlugs: ['bolivia-itinerario'],
-    imageAlt: 'Fenicotteri sulla Laguna Colorada nel Sud Lípez, Bolivia',
+    imageAlt: 'Un fenicottero in una laguna salata d\'alta quota tra le colline dell\'altopiano boliviano',
+    immagine: '/images/bolivia/tour-uyuni-sud-lipez.jpg',
   },
   {
     slug: 'miniere-cerro-rico',
@@ -123,6 +125,7 @@ export const esperienzeBolivia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Casa Nacional de la Moneda, l\'antica zecca coloniale, per capire la storia del Cerro Rico senza entrare in miniera'],
     tripSlugs: ['bolivia-itinerario'],
-    imageAlt: 'Ingresso di una galleria mineraria sul Cerro Rico di Potosí, Bolivia',
+    imageAlt: 'La montagna del Cerro Rico di Potosí, crivellata dalle miniere d\'argento, sopra i tetti della città, Bolivia',
+    immagine: '/images/bolivia/miniere-cerro-rico.jpg',
   },
 ]

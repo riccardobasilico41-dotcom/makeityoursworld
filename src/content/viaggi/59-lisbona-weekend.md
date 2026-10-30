@@ -90,7 +90,7 @@ Quello che mi resta è il contrasto tra il ritmo lento delle salite e dei mirado
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati tramite ricerca e aggiornati a settembre 2026. Prezzi, orari e regole di prenotazione — soprattutto quelli di Sintra — cambiano spesso e vanno riverificati sui canali ufficiali prima di partire.
 
-**Cosa manca ancora:** un vero soggiorno da cui partire, date ed eventuali riscontri su alloggi e ristoranti specifici, aneddoti reali al posto della ricerca.
+**Cosa manca ancora:** date del viaggio, alloggi e ristoranti usati davvero, aneddoti e ricordi personali dal diario.
 
 ## Foto/media
 - [ ] foto dell'Alfama vista da un miradouro

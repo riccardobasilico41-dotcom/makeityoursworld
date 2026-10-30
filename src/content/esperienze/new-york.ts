@@ -25,7 +25,8 @@ export const esperienzeNewYork: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['new-york-360'],
-    imageAlt: 'Le insegne luminose dei teatri di Broadway a New York',
+    imageAlt: 'Le insegne luminose e i maxischermi di Times Square nel Theater District di Manhattan, New York',
+    immagine: '/images/new-york/musical-broadway.jpg',
   },
   {
     slug: 'messa-gospel-harlem',
@@ -46,7 +47,8 @@ export const esperienzeNewYork: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['Canaan Baptist Church, in alternativa alla Bethel Gospel Assembly'],
     tripSlugs: ['new-york-360'],
-    imageAlt: 'Coro gospel durante una funzione domenicale ad Harlem, New York',
+    imageAlt: 'La facciata della Greater Emmanuel Baptist Church sulla 118ª strada ad Harlem, New York',
+    immagine: '/images/new-york/messa-gospel-harlem.jpg',
   },
   {
     slug: 'high-line-vessel',
@@ -67,7 +69,8 @@ export const esperienzeNewYork: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['new-york-360'],
-    imageAlt: 'La passeggiata pensile della High Line tra i grattacieli di Manhattan, New York',
+    imageAlt: 'Passanti a passeggio sulla High Line, la passeggiata sopraelevata tra gli edifici di Chelsea, New York',
+    immagine: '/images/new-york/high-line-vessel.jpg',
   },
   {
     slug: 'statua-liberta-ellis-island',
@@ -88,7 +91,8 @@ export const esperienzeNewYork: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['new-york-360'],
-    imageAlt: 'La Statua della Libertà su Liberty Island, New York',
+    imageAlt: 'Liberty Island con la Statua della Libertà vista dall\'alto, con lo skyline di Manhattan sullo sfondo, New York',
+    immagine: '/images/new-york/statua-liberta-ellis-island.jpg',
   },
   {
     slug: 'dumbo-brooklyn-bridge',
@@ -109,7 +113,8 @@ export const esperienzeNewYork: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['new-york-360'],
-    imageAlt: 'Il ponte di Manhattan visto dall\'incrocio di Water Street a DUMBO, Brooklyn, New York',
+    imageAlt: 'Il ponte di Manhattan incorniciato dai palazzi in mattoni rossi di una strada di DUMBO, Brooklyn, New York',
+    immagine: '/images/new-york/dumbo-brooklyn-bridge.jpg',
   },
   {
     slug: 'top-of-the-rock',
@@ -130,7 +135,8 @@ export const esperienzeNewYork: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['Empire State Building, se si preferisce averlo come soggetto principale della foto invece che nel panorama'],
     tripSlugs: ['new-york-360'],
-    imageAlt: 'Il tramonto su Manhattan visto dal Top of the Rock, New York',
+    imageAlt: 'Manhattan illuminata al tramonto con l\'Empire State Building, vista dal Top of the Rock, New York',
+    immagine: '/images/new-york/top-of-the-rock.jpg',
   },
   {
     slug: 'partita-sportiva-live',
@@ -149,6 +155,7 @@ export const esperienzeNewYork: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['New York Liberty (WNBA) al Barclays Center, alternativa al baseball se si preferisce il basket in questo periodo dell\'anno'],
     tripSlugs: [],
-    imageAlt: 'Stadio gremito durante una partita sportiva serale a New York',
+    imageAlt: 'Le tribune gremite e il campo da baseball illuminato durante una partita serale allo Yankee Stadium, New York',
+    immagine: '/images/new-york/partita-sportiva-live.jpg',
   },
 ]

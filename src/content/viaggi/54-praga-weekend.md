@@ -94,7 +94,7 @@ Quello che mi resta è il contrasto tra i due volti della città: la piazza medi
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati tramite ricerca e aggiornati a settembre 2026. Prezzi dei biglietti, orari stagionali e regole di prenotazione (soprattutto quelle di Josefov) cambiano spesso e vanno riverificati sui canali ufficiali prima di partire.
 
-**Cosa manca ancora:** un vero soggiorno da cui partire, date ed eventuali riscontri su alloggi e ristoranti specifici, aneddoti reali al posto della ricerca.
+**Cosa manca ancora:** date del viaggio, alloggi e ristoranti usati davvero, aneddoti e ricordi personali dal diario.
 
 ## Foto/media
 - [ ] foto della Piazza della Città Vecchia con l'Orologio Astronomico e la Chiesa di Tyn

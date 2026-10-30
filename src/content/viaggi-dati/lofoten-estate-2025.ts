@@ -108,7 +108,7 @@ export const lofotenEstate2025Meta: TripMeta = {
       imageAlt: 'Le case tradizionali del villaggio di Å i Lofoten ai piedi di una montagna, alla fine della strada',
     },
     {
-      titoloGiorno: 'Giorno 7 — Bødø e rientro a Oslo',
+      titoloGiorno: 'Giorno 7 — Bodø e rientro a Oslo',
       tratta: 'Moskenes → traghetto → Bodø → Misten/Kjerringøy → Bodø → volo → Oslo',
       pernottamento: 'nessun pernottamento (rientro in giornata)',
       statoPernottamento: 'da-confermare',

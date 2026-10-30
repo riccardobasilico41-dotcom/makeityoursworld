@@ -27,7 +27,8 @@ export const esperienzePanama: Esperienza[] = [
       'Transito parziale del canale in barca (mezza giornata o giornata intera), per attraversare davvero una chiusa',
     ],
     tripSlugs: ['centro-america-itinerario'],
-    imageAlt: 'Nave che attraversa le chiuse di Miraflores sul Canale di Panama',
+    imageAlt: 'Una camera delle chiuse di Miraflores sul Canale di Panama, con le porte e il bacino d\'acqua',
+    immagine: '/images/panama/chiuse-miraflores.jpg',
   },
   {
     slug: 'notte-isola-san-blas',
@@ -77,6 +78,7 @@ export const esperienzePanama: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Sendero Los Quetzales, molto più leggero, per la foresta nuvolosa e il birdwatching'],
     tripSlugs: ['centro-america-itinerario'],
-    imageAlt: 'Vista dall\'alto del Volcán Barú all\'alba, con le nuvole sotto la vetta, Panama',
+    imageAlt: 'Il Volcán Barú con la vetta avvolta dalle nuvole, visto dalla valle di Boquete, Panama',
+    immagine: '/images/panama/alba-volcan-baru.jpg',
   },
 ]

@@ -29,32 +29,32 @@ Tre o quattro giorni bastano per fare bene tutto: il lato Buda, il lato Pest, un
 ## Itinerario giorno per giorno
 
 ### Giorno 1 — Il colle di Buda e il Bastione dei Pescatori
-Si comincia dal lato collinare della città: il **Castello di Buda**, per secoli sede del potere reale ungherese e oggi dei musei, con la vista sul Danubio e su Pest dalla terrazza panoramica. Pochi passi più a nord c'è il **Bastione dei Pescatori** (Halászbástya), costruito nel 1902 come punto panoramico e non come fortificazione. Le sette torrette bianche rappresentano le sette tribù magiare fondatrici dell'Ungheria, ed è una delle viste più fotografate della città, soprattutto al tramonto.
+Abbiamo cominciato dal lato collinare della città: il **Castello di Buda**, per secoli sede del potere reale ungherese e oggi dei musei, con la vista sul Danubio e su Pest dalla terrazza panoramica. Pochi passi più a nord siamo saliti al **Bastione dei Pescatori** (Halászbástya), costruito nel 1902 come punto panoramico e non come fortificazione. Le sette torrette bianche rappresentano le sette tribù magiare fondatrici dell'Ungheria, ed è una delle viste più fotografate della città, soprattutto al tramonto.
 
 Accanto c'è la **Chiesa di Mattia** (Mátyás-templom), con il tetto di tegole maiolicate policrome: qui si sono svolte incoronazioni reali, e durante l'occupazione ottomana del Cinquecento e Seicento fu trasformata in moschea.
 
-Nel pomeriggio si scende verso il **Ponte delle Catene** (Széchenyi lánchíd), il primo ponte permanente tra Buda e Pest, aperto nel 1849. Attraversarlo a piedi, con il Parlamento da un lato e il castello dall'altro, è il modo più semplice per passare sulla sponda di Pest.
+Nel pomeriggio siamo scesi verso il **Ponte delle Catene** (Széchenyi lánchíd), il primo ponte permanente tra Buda e Pest, aperto nel 1849. Lo abbiamo attraversato a piedi, con il Parlamento da un lato e il castello dall'altro: è il modo più semplice per passare sulla sponda di Pest.
 
-La sera si cammina nel centro di Pest, per prendere le misure della città prima dei giorni successivi.
+La sera abbiamo camminato nel centro di Pest, per prendere le misure della città prima dei giorni successivi.
 
 ### Giorno 2 — Il Parlamento e il quartiere ebraico
-La mattina è per il **Parlamento ungherese** (Országház), completato nel 1904, tra gli edifici parlamentari più grandi al mondo. Il tour guidato (da prenotare con anticipo) porta nelle sale principali e fino alla Sacra Corona di Santo Stefano, custodita sotto la cupola centrale.
+La mattina l'abbiamo dedicata al **Parlamento ungherese** (Országház), completato nel 1904, tra gli edifici parlamentari più grandi al mondo. Il tour guidato (da prenotare con anticipo) porta nelle sale principali e fino alla Sacra Corona di Santo Stefano, custodita sotto la cupola centrale.
 
-Nel primo pomeriggio, la **Grande Sinagoga di Via Dohány**, in stile moresco, la più grande d'Europa e la seconda al mondo dopo quella di New York. Nel giardino memoriale c'è l'**Albero della Vita** di Imre Varga, una scultura in metallo a forma di salice piangente dedicata alle vittime ungheresi della Shoah: uno dei luoghi più sobri e importanti della città.
+Nel primo pomeriggio siamo andati alla **Grande Sinagoga di Via Dohány**, in stile moresco, la più grande d'Europa e la seconda al mondo dopo quella di New York. Nel giardino memoriale c'è l'**Albero della Vita** di Imre Varga, una scultura in metallo a forma di salice piangente dedicata alle vittime ungheresi della Shoah: uno dei luoghi più sobri e importanti della città.
 
-Nel tardo pomeriggio si entra nel **quartiere ebraico** (Erzsébetváros), oggi il centro dei ruin bar, per una prima esplorazione a piedi tra le vie prima di tornarci la sera per il giro dei locali (vedi la scheda esperienza dedicata).
+Nel tardo pomeriggio siamo entrati nel **quartiere ebraico** (Erzsébetváros), oggi il centro dei ruin bar, per una prima esplorazione a piedi tra le vie, prima di tornarci la sera per il giro dei locali (vedi la scheda esperienza dedicata).
 
 ### Giorno 3 — Le terme: Széchenyi o Gellért
-Una giornata a parte, dedicata all'esperienza più caratteristica di Budapest: le **terme**. Le **Terme di Széchenyi**, nel Parco cittadino, sono il complesso più grande d'Europa, con tre vasche esterne calde tutto l'anno; d'inverno il vapore che sale dall'acqua tra la neve è probabilmente l'immagine più famosa della città. Le **Terme di Gellért**, ai piedi del colle omonimo sul lato Buda, sono l'alternativa in stile Art Nouveau, più raccolte ed eleganti, con mosaici e vetrate colorate intorno alla vasca principale.
+Abbiamo tenuto una giornata a parte per l'esperienza più caratteristica di Budapest: le **terme**. Le **Terme di Széchenyi**, nel Parco cittadino, sono il complesso più grande d'Europa, con tre vasche esterne calde tutto l'anno; d'inverno il vapore che sale dall'acqua tra la neve è probabilmente l'immagine più famosa della città. Le **Terme di Gellért**, ai piedi del colle omonimo sul lato Buda, sono l'alternativa in stile Art Nouveau, più raccolte ed eleganti, con mosaici e vetrate colorate intorno alla vasca principale.
 
 Tra spogliatoio, code per gli armadietti e tempo nelle vasche, conviene mettere in conto **almeno due ore e mezza-tre**: non è una tappa da un'ora tra due musei.
 
 Nel pomeriggio, chi ha scelto Széchenyi ha intorno il **Parco cittadino** (Városliget), con il Castello di Vajdahunyad e Piazza degli Eroi; chi ha scelto Gellért può salire sul **colle Gellért** e alla Cittadella, per un altro panorama sulla città e sul Danubio.
 
 ### Giorno 4 — Danubio, Isola Margherita e l'ultimo giro
-La mattina è all'**Isola Margherita** (Margitsziget), il parco senza traffico in mezzo al Danubio, con la fontana musicale e le sue terme minori: un ritmo più lento dopo tre giorni di città.
+La mattina siamo andati all'**Isola Margherita** (Margitsziget), il parco senza traffico in mezzo al Danubio, con la fontana musicale e le sue terme minori: un ritmo più lento dopo tre giorni di città.
 
-Nel primo pomeriggio si torna verso il centro per l'ultimo giro: la salita alla **Cupola della Basilica di Santo Stefano**, con il panorama sui tetti di Pest, e una sosta al **Mercato Centrale** per gli ultimi acquisti tra spezie, paprika e souvenir.
+Nel primo pomeriggio siamo tornati verso il centro per l'ultimo giro: la salita alla **Cupola della Basilica di Santo Stefano**, con il panorama sui tetti di Pest, e una sosta al **Mercato Centrale** per gli ultimi acquisti tra spezie, paprika e souvenir.
 
 In serata, il modo più semplice per chiudere il weekend è una **crociera o una passeggiata lungo il Danubio**, per vedere dall'acqua il Parlamento e il Castello di Buda illuminati.
 
@@ -93,7 +93,7 @@ Quello che mi resta è il contrasto tra le due sponde del Danubio: la collina di
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati tramite ricerca e aggiornati a settembre 2026. Prezzi e orari delle terme, del tour del Parlamento e dei trasporti cambiano spesso e vanno riverificati sui canali ufficiali prima di partire.
 
-**Cosa manca ancora:** un vero soggiorno da cui partire, date ed eventuali riscontri su alloggi e ristoranti specifici, aneddoti reali al posto della ricerca.
+**Cosa manca ancora:** date del viaggio, alloggi e ristoranti usati davvero, aneddoti e ricordi personali dal diario.
 
 ## Foto/media
 - [ ] foto del Bastione dei Pescatori e della Chiesa di Mattia dal colle di Buda

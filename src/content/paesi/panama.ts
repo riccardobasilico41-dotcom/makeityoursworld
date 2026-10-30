@@ -46,6 +46,7 @@ export const panama: Paese = {
     aggiornatoAl: 'settembre 2026',
   },
   stileViaggio: ['mare', 'isole', 'natura', 'città'],
-  heroImageAlt: 'Isole di sabbia bianca e palme dell\'arcipelago di San Blas, Panama',
+  heroImageAlt: 'Isolotto ricoperto di palme circondato dal mare turchese nell\'arcipelago di San Blas, Panama',
+  heroImage: '/images/panama/panama-paese.jpg',
   tripPrincipaleSlug: 'centro-america-itinerario',
 }

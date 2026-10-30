@@ -48,6 +48,7 @@ export const guatemala: Paese = {
     aggiornatoAl: 'settembre 2026',
   },
   stileViaggio: ['vulcani', 'cultura maya', 'natura', 'on the road'],
-  heroImageAlt: 'L\'arco di Santa Catalina ad Antigua Guatemala con il vulcano Agua sullo sfondo',
+  heroImageAlt: 'Tramonto sul lago Atitlán con i vulcani all\'orizzonte visto da San Marcos, Guatemala',
+  heroImage: '/images/guatemala/guatemala-paese.jpg',
   tripPrincipaleSlug: 'centro-america-itinerario',
 }

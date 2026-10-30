@@ -39,7 +39,7 @@ Poi tre ore e un quarto di guida fino a Bognes, con due soste che valgono la pen
 A Bognes abbiamo preso il traghetto per Lødingen (meglio essere al molo 40 minuti prima), poi un'ora e quaranta d'auto fino a Svolvær, dove siamo arrivati in serata. Cena da **Bacalo**, nella media.
 
 ### Giorno 3 — Svolvær → Henningsvær
-Colazione da **Kringala**, una panetteria ottima vicino agli appartamenti. Poi la prima vera emozione delle Lofoten: il gommone di **Lofoten Explorer** verso il **Trollfjord**, due ore con le tute termiche fornite dall'equipaggio, guide simpatiche e le aquile di mare a pochi metri dalla barca. È una delle cose più belle del viaggio. *Consiglio: guanti, sottoguanti e cappellino.*
+Colazione da **Kringla**, una panetteria ottima vicino agli appartamenti. Poi la prima vera emozione delle Lofoten: il gommone di **Lofoten Explorer** verso il **Trollfjord**, due ore con le tute termiche fornite dall'equipaggio, guide simpatiche e le aquile di mare a pochi metri dalla barca. È una delle cose più belle del viaggio. *Consiglio: guanti, sottoguanti e cappellino.*
 
 In tarda mattinata siamo tornati a Svolvær e in mezz'ora d'auto siamo arrivati a **Henningsvær**. Abbiamo pranzato da **Fiskekrogen**, sul canale del villaggio: cibo ottimo. Meglio prenotare e chiedere un tavolo alla finestra, perché l'effetto «piccola Venezia» è vero. Dopo pranzo il famoso campo da calcio, perfetto per foto e drone, e un giro tra bakery, artigianato e boutique vintage di un paese piccolo ma vivace.
 
@@ -64,7 +64,7 @@ Cinquanta minuti d'auto e siamo arrivati ad **Å**, il paese dal nome più corto
 
 Nel pomeriggio, appena il cielo si è aperto, abbiamo camminato da **Nesland verso Nusfjord**: circa 11 km andata e ritorno lungo il fiordo, tra bosco e tratti di roccia, senza difficoltà tecniche. Dopo i trekking dei giorni prima era la giornata giusta per qualcosa di più leggero. Cena nella rorbu con quello che restava della grigliata: pasta con panna e salmone.
 
-### Giorno 7 — Bødø e rientro a Oslo
+### Giorno 7 — Bodø e rientro a Oslo
 Sveglia prima dell'alba per il traghetto del mattino da **Moskenes** a Bodø, tre ore e mezza di navigazione (al porto 40 minuti prima). A Bodø abbiamo fatto colazione da Melkebaren, dove il servizio è lento. Poi la spiaggia di **Mjelle**, piacevole ma anonima dopo quello che avevamo visto nei giorni precedenti, e il traghetto di dieci minuti per **Misten e Kjerringøy**, restando in auto (al molo mezz'ora prima). Kjerringøy non mi ha entusiasmato, ma riempie onestamente qualche ora. *Nota: se il Bodø/Glimt gioca in casa, può valere la pena andare allo stadio.*
 
 Siamo rientrati col traghetto del primo pomeriggio, ci siamo concessi un po' di spiaggia tra i campeggi Bobil Plats e Nils Fredrik, poi pieno, riconsegna dell'auto e volo per Oslo, con atterraggio in serata. L'ultima cena è stata da **Café Sara**, un locale semplice aperto fino a tardi, perfetto dopo un volo (nel weekend conviene prenotare).

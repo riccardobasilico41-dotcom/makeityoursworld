@@ -27,7 +27,8 @@ export const esperienzeGuatemala: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Vulcano Pacaya in mezza giornata, molto più semplice ma senza eruzioni dal vivo garantite'],
     tripSlugs: ['centro-america-itinerario'],
-    imageAlt: 'Il vulcano Fuego in eruzione visto di notte dal campo sull\'Acatenango, Guatemala',
+    imageAlt: 'Il vulcano Fuego in eruzione di notte, con la lava incandescente sopra il cratere, Guatemala',
+    immagine: '/images/guatemala/trekking-acatenango.jpg',
   },
   {
     slug: 'lance-villaggi-atitlan',
@@ -48,7 +49,8 @@ export const esperienzeGuatemala: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Tour organizzato in barca privata con guida, più caro ma con orari garantiti'],
     tripSlugs: ['centro-america-itinerario'],
-    imageAlt: 'Lancha pubblica in navigazione sul lago Atitlán con i vulcani sullo sfondo, Guatemala',
+    imageAlt: 'Il lago Atitlán al crepuscolo con le luci dei villaggi lungo le rive, visto da San Pedro La Laguna, Guatemala',
+    immagine: '/images/guatemala/lance-villaggi-atitlan.jpg',
   },
   {
     slug: 'alba-tikal',
@@ -69,6 +71,7 @@ export const esperienzeGuatemala: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Tramonto a Yaxhá, sito vicino molto meno affollato, spesso preferito proprio per la luce serale'],
     tripSlugs: ['centro-america-itinerario'],
-    imageAlt: 'Le cime dei templi di Tikal che emergono dalla giungla nella luce dell\'alba, Guatemala',
+    imageAlt: 'Le sagome dei templi di Tikal che emergono dalla giungla controluce, Guatemala',
+    immagine: '/images/guatemala/alba-tikal.jpg',
   },
 ]

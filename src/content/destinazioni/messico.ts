@@ -43,7 +43,8 @@ export const destinazioniMessico: Destinazione[] = [
       'Cancún l\'ho vissuta soprattutto come base pratica: primo assaggio del Messico con lo street food di Parque las Palapas, e ultima giornata libera in spiaggia prima del volo di rientro. Non è la tappa più memorabile del viaggio, ma funziona bene su entrambi i lati dell\'itinerario.',
     esperienzeSlugs: [],
     tripSlugs: ['messico-beach-life'],
-    imageAlt: 'Spiaggia bianca e mare turchese della zona hotelera di Cancún',
+    imageAlt: 'Spiaggia bianca e onde turchesi con gli hotel della zona hotelera di Cancún sullo sfondo',
+    immagine: '/images/messico/cancun.jpg',
   },
   {
     slug: 'valladolid',
@@ -73,7 +74,8 @@ export const destinazioniMessico: Destinazione[] = [
       'Valladolid è stata una sosta breve ma piacevole: città molto tranquilla, ottima per una passeggiata serale dopo una giornata intensa tra Río Lagartos, Ek Balam e il cenote Xcanché.',
     esperienzeSlugs: ['rio-lagartos', 'ek-balam-cenote-xcanche'],
     tripSlugs: ['messico-beach-life'],
-    imageAlt: 'Facciata colorata in stile coloniale nel centro di Valladolid, Yucatán',
+    imageAlt: 'Portici e facciata gialla in stile coloniale nel centro di Valladolid, Yucatán',
+    immagine: '/images/messico/valladolid.jpg',
   },
   {
     slug: 'merida',
@@ -110,7 +112,8 @@ export const destinazioniMessico: Destinazione[] = [
       'Mérida è stata la pausa giusta a metà viaggio: una giornata senza transfer, tra Playa Progreso e il pig beach, più una serata di vita notturna vera nel centro storico.',
     esperienzeSlugs: [],
     tripSlugs: ['messico-beach-life'],
-    imageAlt: 'Piazza coloniale nel centro storico di Mérida, Yucatán',
+    imageAlt: 'I portici del Palacio Municipal sulla piazza principale del centro storico di Mérida, Yucatán',
+    immagine: '/images/messico/merida.jpg',
   },
   {
     slug: 'campeche',
@@ -140,7 +143,8 @@ export const destinazioniMessico: Destinazione[] = [
       'Una tappa breve ma piacevole: la Piazza della Cattedrale è curatissima, con i tipici lustrascarpe, e la passeggiata fino al lungomare attraverso la Puerta del Mar è un bel modo per sgranchirsi dopo ore di van.',
     esperienzeSlugs: [],
     tripSlugs: ['messico-beach-life'],
-    imageAlt: 'Mura coloniali colorate del centro storico di Campeche',
+    imageAlt: 'Una porta delle antiche mura del centro storico di Campeche con una casa coloniale colorata sullo sfondo',
+    immagine: '/images/messico/campeche.jpg',
   },
   {
     slug: 'mahahual',
@@ -168,7 +172,8 @@ export const destinazioniMessico: Destinazione[] = [
       'Sono arrivato a Mahahual in serata dopo il transfer più lungo del viaggio. Il giorno dopo è stato tra i più densi di tutto l\'itinerario, tra Bacalar, lo snorkeling con le tartarughe e il Temazcal — vedi la pagina del viaggio per il dettaglio.',
     esperienzeSlugs: ['snorkeling-tartarughe-mahahual', 'temazcal'],
     tripSlugs: ['messico-beach-life'],
-    imageAlt: 'Lungomare tranquillo di Mahahual sul Mar dei Caraibi',
+    imageAlt: 'Spiaggia di Mahahual con palme, tavolini e barche sul Mar dei Caraibi',
+    immagine: '/images/messico/mahahual.jpg',
   },
   {
     slug: 'bacalar',
@@ -196,7 +201,8 @@ export const destinazioniMessico: Destinazione[] = [
       'L\'ho vista solo in giornata, con un tour in barca di 2 ore e un\'ora di kayak — bellissima, ma il tempo stretto si è sentito. Una delle tappe che ripenserei con più calma in un prossimo giro.',
     esperienzeSlugs: ['tour-barca-bacalar'],
     tripSlugs: ['messico-beach-life'],
-    imageAlt: 'Acque turchesi e blu della laguna di Bacalar dall\'alto',
+    imageAlt: 'Acque turchesi e trasparenti della laguna di Bacalar con un pontile di legno tra la vegetazione',
+    immagine: '/images/messico/bacalar.jpg',
   },
   {
     slug: 'tulum',
@@ -267,7 +273,8 @@ export const destinazioniMessico: Destinazione[] = [
       'L\'ho vissuta solo di sera, con una tappa al Clandestino — non abbastanza per farmi un\'idea completa della città, che meriterebbe più tempo (magari con l\'escursione a Cozumel, che nel mio viaggio non abbiamo fatto).',
     esperienzeSlugs: [],
     tripSlugs: ['messico-beach-life'],
-    imageAlt: '5ta Avenida illuminata di sera a Playa del Carmen',
+    imageAlt: 'La spiaggia e il lungomare di Playa del Carmen visti dal mare, con barche e palme',
+    immagine: '/images/messico/playa-del-carmen.jpg',
   },
   {
     slug: 'holbox',

@@ -93,7 +93,7 @@ Quello che mi resta di questo viaggio è quanto le tre capitali riescano a esser
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati tramite ricerca e aggiornati a settembre 2026. Orari dei bus Lux Express, prezzi di musei e castelli, e le regole di accesso cambiano nel tempo e vanno riverificati sui canali ufficiali prima di partire.
 
-**Cosa manca ancora:** un vero soggiorno da cui partire, date ed eventuali riscontri su alloggi e ristoranti specifici, aneddoti reali al posto della ricerca, e una verifica più vicina alla partenza degli orari aggiornati dei bus tra le tre capitali.
+**Cosa manca ancora:** date del viaggio, alloggi e ristoranti usati davvero, aneddoti e ricordi personali dal diario, e una verifica più vicina alla partenza degli orari aggiornati dei bus tra le tre capitali.
 
 ## Foto/media
 - [ ] foto della Torre di Gediminas e del centro storico barocco di Vilnius

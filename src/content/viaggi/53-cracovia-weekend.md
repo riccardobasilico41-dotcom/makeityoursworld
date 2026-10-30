@@ -100,7 +100,7 @@ Quello che mi resta è il contrasto tra le due metà del weekend: la piazza medi
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati tramite ricerca e aggiornati a settembre 2026. Le regole di prenotazione di Auschwitz-Birkenau (fasce orarie, anticipo richiesto, modalità), i prezzi di Wieliczka e le tariffe dei trasporti cambiano spesso e vanno riverificati sui canali ufficiali prima di partire.
 
-**Cosa manca ancora:** un vero soggiorno da cui partire, date ed eventuali riscontri su alloggi e ristoranti specifici, aneddoti reali al posto della ricerca.
+**Cosa manca ancora:** date del viaggio, alloggi e ristoranti usati davvero, aneddoti e ricordi personali dal diario.
 
 ## Foto/media
 - [ ] foto di Rynek Główny con la Sukiennice e le torri di Santa Maria

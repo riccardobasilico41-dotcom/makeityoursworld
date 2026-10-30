@@ -92,7 +92,7 @@ Quello che mi resta è il contrasto tra tre città che si somigliano abbastanza 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche sono verificati tramite ricerca e aggiornati a settembre 2026. Prezzi, orari e collegamenti (soprattutto le frequenze dei treni SJ tra le tre capitali, il calendario di Tivoli Gardens e la data di riapertura del Viking Ship Museum di Oslo) vanno riverificati sui canali ufficiali prima di partire.
 
-**Cosa manca ancora:** un vero soggiorno da cui partire, date ed eventuali riscontri su alloggi e ristoranti specifici, aneddoti reali al posto della ricerca.
+**Cosa manca ancora:** date del viaggio, alloggi e ristoranti usati davvero, aneddoti e ricordi personali dal diario.
 
 ## Foto/media
 - [ ] foto di Nyhavn con le case colorate e le barche ormeggiate

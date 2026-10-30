@@ -137,7 +137,7 @@ Poi il rientro da Napoli.
 - **Napoli:** pizza, ragù che cuoce per ore, genovese, sfogliatella riccia calda del mattino e il caffè in piedi. E la pizza a portafoglio da strada, due euro.
 
 ## Consigli pratici / errori da non ripetere
-- **Non andare tra giugno e agosto.**
+- **Non andare tra luglio e agosto.**
 - **Non presentarsi senza prenotazione** a Colosseo, Uffizi, cupola, Borghese, Cenacolo e Pompei: in tutti questi casi non si entra.
 - **Portare il documento originale** dove il biglietto è nominativo: Colosseo e Pompei lo controllano, e una copia non basta.
 - **Non comprare biglietti da rivenditori per strada.**

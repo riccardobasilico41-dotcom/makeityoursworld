@@ -95,7 +95,7 @@ export const cinaPaesaggiMeta: TripMeta = {
       pernottamento: 'Wulingyuan',
       statoPernottamento: 'da-confermare',
       intensita: 'intenso',
-      costiNoti: 'ingresso al parco circa 239 yuan (valido 4 giorni), ascensore di Bailong ~72 a corsa',
+      costiNoti: 'ingresso al parco circa 239 yuan (valido 4 giorni), ascensore di Bailong ~65 a corsa',
       destinazioneSlug: 'zhangjiajie',
       immagine: '/images/viaggi/cina-paesaggi/giorno-5-bailong.jpg',
       imageAlt: 'Le guglie di arenaria di Yuanjiajie, le "montagne di Avatar", viste dalla base dell\'ascensore di Bailong',
@@ -119,7 +119,7 @@ export const cinaPaesaggiMeta: TripMeta = {
       costiNoti: 'Tianmen Shan 250-280 yuan con funivia, fascia oraria da prenotare',
       destinazioneSlug: 'zhangjiajie',
       immagine: '/images/viaggi/cina-paesaggi/giorno-7-tianmenshan.jpg',
-      imageAlt: 'L\'arco naturale della Porta del Paradiso sul Tianmen Shan, con la strada tortuosa e la passerella scavate nella parete rocciosa',
+      imageAlt: 'L\'arco naturale della Porta del Cielo sul Tianmen Shan, con la strada tortuosa e la passerella scavate nella parete rocciosa',
     },
     {
       titoloGiorno: 'Giorno 8 — Chengdu: panda, tè e hot pot',

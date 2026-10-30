@@ -48,6 +48,7 @@ export const bolivia: Paese = {
     emergenze: 'Polizia 110, polizia turistica 800 140081, ambulanza 118. L\'Ambasciata d\'Italia si trova a La Paz.',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'Il Salar de Uyuni allagato che riflette il cielo come uno specchio, Bolivia',
+  heroImageAlt: 'Il Salar de Uyuni coperto da un velo d\'acqua che riflette il cielo e le nuvole come uno specchio, Bolivia',
+  heroImage: '/images/bolivia/bolivia-paese.jpg',
   tripPrincipaleSlug: 'bolivia-itinerario',
 }

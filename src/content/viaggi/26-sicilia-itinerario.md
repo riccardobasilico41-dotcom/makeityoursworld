@@ -39,7 +39,7 @@ Siamo saliti con funivia e fuoristrada fino alla zona sommitale, con la guida ob
 
 Nel pomeriggio, i **crateri Silvestri** a quota bassa (gratuiti, raggiungibili in auto) o una **cantina dell'Etna** su appuntamento: qui le viti sono spesso **a piede franco**, perché su questo suolo lavico la fillossera non è mai arrivata, e ci sono ceppi di oltre cento anni.
 
-### Giorno 3 — Taormina e i Gole dell'Alcantara
+### Giorno 3 — Taormina e le Gole dell'Alcantara
 Siamo stati a **Taormina** al mattino presto, prima dei pullman: il teatro greco-romano affacciato sull'Etna e sul mare è una delle scenografie più spettacolari del Mediterraneo. In alta stagione il paese è saturo e ha prezzi da altra regione.
 
 Nel pomeriggio siamo andati alle **Gole dell'Alcantara**, il canyon di basalto colonnare scavato dal fiume in una colata lavica: si scende e si cammina nell'acqua, gelida anche ad agosto.

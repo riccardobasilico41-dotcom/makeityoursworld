@@ -12,7 +12,7 @@ export const esperienzeCina: Esperienza[] = [
     nome: 'Grande Muraglia a Jinshanling',
     localita: 'Contea di Luanping, circa 130 km a nord-est di Pechino',
     cosE:
-      'Il tratto di Muraglia non restaurato più accessibile da Pechino: una decina di chilometri di cinta lungo un crinale, con una trentina di torri di guardia, erba tra le pietre e lunghi tratti in cui non si incontra nessuno. Si percorre normalmente da est verso ovest, con funivia disponibile sul lato d\'ingresso.',
+      'Il tratto di Muraglia solo in parte restaurato più accessibile da Pechino: una decina di chilometri di cinta lungo un crinale, con una sessantina di torri di guardia, erba tra le pietre e lunghi tratti in cui non si incontra nessuno. Si percorre normalmente da est verso ovest, con funivia disponibile sul lato d\'ingresso.',
     percheFarla:
       'Perché è l\'unico modo, in giornata da Pechino, di camminare sulla Muraglia come si immagina prima di partire: rovinata, ripida, deserta. A Badaling e Mutianyu si vede un monumento restaurato, qui si vede la cosa.',
     durata: 'giornata intera: 2h30 di trasferimento per lato e 3-4 ore di cammino',
@@ -26,7 +26,7 @@ export const esperienzeCina: Esperienza[] = [
     perChiEAdatta:
       'Serve un minimo di allenamento: non è un trekking tecnico ma è un saliscendi continuo di gradini, per tre o quattro ore. Chi ha problemi di ginocchia soffre più in discesa che in salita.',
     miaEsperienza:
-      'La differenza con gli altri tratti si sente dopo mezz\'ora di cammino, quando ci si volta indietro e non c\'è nessuno. Jinshanling non è restaurato e questo cambia tutto: i gradini hanno altezze diverse, alcuni sono sbriciolati, l\'erba cresce tra le pietre, e la Muraglia sale e scende seguendo il crinale invece di essere spianata per i visitatori. È anche molto più faticosa di quanto le fotografie lascino immaginare — non è una passeggiata panoramica, è una salita continua con il sole addosso. Ma dalle torri in cima si vede la cinta che continua per chilometri in entrambe le direzioni, e quella è l\'immagine per cui si viene fin qui.',
+      'La differenza con gli altri tratti si sente dopo mezz\'ora di cammino, quando ci si volta indietro e non c\'è nessuno. Jinshanling è restaurato solo in parte, e nei tratti originali questo cambia tutto: i gradini hanno altezze diverse, alcuni sono sbriciolati, l\'erba cresce tra le pietre, e la Muraglia sale e scende seguendo il crinale invece di essere spianata per i visitatori. È anche molto più faticosa di quanto le fotografie lascino immaginare — non è una passeggiata panoramica, è una salita continua con il sole addosso. Ma dalle torri in cima si vede la cinta che continua per chilometri in entrambe le direzioni, e quella è l\'immagine per cui si viene fin qui.',
     giudizio: 'imperdibile',
     alternative: [
       'Mutianyu, restaurato ma bello, con seggiovia e slittino: la scelta giusta con mezza giornata o con compagnia mista',
@@ -136,7 +136,7 @@ export const esperienzeCina: Esperienza[] = [
     nome: 'I giardini classici di Suzhou',
     localita: 'Suzhou, 25 minuti di alta velocità da Shanghai',
     cosE:
-      'Una decina di giardini privati costruiti tra il XVI e il XVIII secolo dai funzionari e dai letterati in pensione, oggi patrimonio UNESCO. Non sono parchi: sono composizioni chiuse di rocce, acqua, padiglioni e finestre, progettate perché nessuna inquadratura si ripeta.',
+      'Una decina di giardini privati costruiti tra l\'XI e il XIX secolo, in gran parte in epoca Ming e Qing, dai funzionari e dai letterati in pensione, oggi patrimonio UNESCO. Non sono parchi: sono composizioni chiuse di rocce, acqua, padiglioni e finestre, progettate perché nessuna inquadratura si ripeta.',
     percheFarla:
       'Perché sono l\'esatto opposto della Cina monumentale vista a Pechino e a Xi\'an: piccoli, privati, pensati per una persona sola che cammina lentamente. Ed è l\'unico posto dove si capisce cosa intendessero i cinesi con "paesaggio".',
     durata: 'una giornata per due o tre giardini, incluso il viaggio da Shanghai',
@@ -169,7 +169,7 @@ export const esperienzeCina: Esperienza[] = [
     cosE:
       'Il lungofiume storico di Shanghai, con la fila di palazzi coloniali degli anni Venti su un lato e, dall\'altro lato del fiume, i grattacieli di Pudong che si accendono al buio. Si guarda dal camminamento del Bund, da un rooftop, o dal battello che attraversa il fiume.',
     percheFarla:
-      'Perché è il contrasto che racconta la Cina degli ultimi trent\'anni in una sola inquadratura: banche coloniali da una parte, il secondo grattacielo più alto del mondo dall\'altra, costruito su quello che nel 1990 era campagna.',
+      'Perché è il contrasto che racconta la Cina degli ultimi trent\'anni in una sola inquadratura: banche coloniali da una parte, il terzo grattacielo più alto del mondo dall\'altra, costruito su quello che nel 1990 era campagna.',
     durata: '1-2 ore, meglio a cavallo del tramonto',
     periodo:
       'tutto l\'anno; l\'autunno ha l\'aria più limpida. Le luci di Pudong si accendono dopo il tramonto e in alcune sere feriali vengono spente prima di mezzanotte.',
@@ -196,10 +196,10 @@ export const esperienzeCina: Esperienza[] = [
     nome: 'Star Ferry e Victoria Peak',
     localita: 'Porto di Victoria e Isola di Hong Kong',
     cosE:
-      'Le due viste classiche di Hong Kong: la traversata del porto sullo Star Ferry, in servizio dal 1888, e la salita a Victoria Peak con il tram a cremagliera che arriva quasi in verticale a 396 metri sopra la città.',
+      'Le due viste classiche di Hong Kong: la traversata del porto sullo Star Ferry, in servizio dal 1888, e la salita a Victoria Peak con il Peak Tram, la funicolare che arriva quasi in verticale a 396 metri sopra la città.',
     percheFarla:
       'Perché sono i due punti da cui la città si capisce: dall\'acqua, con i grattacieli che incombono da entrambe le rive, e dall\'alto, dove si vede quanto poco spazio piano ci sia in realtà tra la montagna e il mare.',
-    durata: '10 minuti la traversata, mezza giornata per il Peak con la salita a piedi in discesa',
+    durata: '10 minuti la traversata, mezza giornata per il Peak con la discesa a piedi',
     periodo:
       'ottobre-dicembre, quando l\'aria è secca e la visibilità massima. In primavera la foschia cancella completamente la vista dal Peak: con il cielo bianco, non vale il biglietto.',
     costo: 'Star Ferry pochi dollari di Hong Kong, meno di mezzo euro; Peak Tram con piattaforma panoramica attorno ai 100-150 HKD',
@@ -232,7 +232,7 @@ export const esperienzeCina: Esperienza[] = [
     durata: '3-4 ore contando le code, mezza giornata con calma',
     periodo:
       'aprile-maggio e settembre-ottobre. La nebbia non è un problema ma il motivo per cui il posto è famoso: la giornata da evitare è quella di pioggia forte, quando ascensore e funivie chiudono.',
-    costo: 'incluso nell\'ingresso al parco (circa 239 yuan, valido 4 giorni) tranne l\'ascensore, che costa a parte attorno ai 72 yuan a corsa',
+    costo: 'incluso nell\'ingresso al parco (circa 239 yuan, valido 4 giorni) tranne l\'ascensore, che costa a parte attorno ai 65 yuan a corsa',
     comePrenotare:
       'L\'ingresso al parco si prenota online con passaporto. L\'ascensore si paga sul posto e non si prenota: è proprio qui che si formano le code peggiori, che nei periodi di punta superano l\'ora e mezza.',
     cosaPortare:
@@ -244,7 +244,7 @@ export const esperienzeCina: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [
       'Tianzi Shan, raggiungibile con un\'altra funivia, con un panorama più ampio e meno gente',
-      'Il sentiero del Ditastro d\'Oro in fondovalle, che mostra i pilastri dal basso invece che dall\'alto',
+      'Il sentiero della Frusta d\'Oro (Jinbian Xi) in fondovalle, che mostra i pilastri dal basso invece che dall\'alto',
     ],
     tripSlugs: ['cina-paesaggi'],
     imageAlt: 'Il Pilastro dell\'Alleluia e i pilastri di quarzite di Yuanjiajie nella nebbia, Zhangjiajie',
@@ -256,7 +256,7 @@ export const esperienzeCina: Esperienza[] = [
     nome: 'Tianmen Shan e la Porta del Cielo',
     localita: 'Città di Zhangjiajie, Hunan',
     cosE:
-      'La montagna che sovrasta la città, con una grotta naturale passante alta 131 metri — la "Porta del Cielo" — raggiungibile salendo 999 gradini. Ci si arriva con la funivia più lunga del mondo, che parte dal centro città, oppure con una navetta lungo una strada di 99 tornanti. In cima corrono passerelle a strapiombo, alcune con il fondo di vetro.',
+      'La montagna che sovrasta la città, con una grotta naturale passante alta 131 metri — la "Porta del Cielo" — raggiungibile salendo 999 gradini. Ci si arriva con una delle funivie più lunghe del mondo, quasi sette chilometri e mezzo, che parte dal centro città, oppure con una navetta lungo una strada di 99 tornanti. In cima corrono passerelle a strapiombo, alcune con il fondo di vetro.',
     percheFarla:
       'Perché mette insieme in una sola giornata tre cose che altrove sono esperienze separate: una funivia da record che parte dalla città, una scalinata che finisce dentro una montagna forata, e camminamenti sospesi nel vuoto.',
     durata: 'una giornata intera',
@@ -408,7 +408,7 @@ export const esperienzeCina: Esperienza[] = [
     nome: 'Trek della Gola del Salto della Tigre',
     localita: 'Tra Qiaotou e Walnut Garden, Yunnan settentrionale',
     cosE:
-      'Due giorni di cammino lungo il sentiero alto che corre sul versante ovest di una delle gole più profonde del mondo, con lo Yangtze incassato quasi tremila metri più in basso tra lo Yulong Xueshan e l\'Haba Xueshan. Si dorme in guesthouse lungo il percorso e si scende a valle il secondo giorno.',
+      'Due giorni di cammino lungo il sentiero alto che corre sul versante nord, quello dell\'Haba Xueshan, di una delle gole più profonde del mondo, con lo Yangtze incassato quasi tremila metri più in basso tra lo Yulong Xueshan e l\'Haba Xueshan. Si dorme in guesthouse lungo il percorso e si scende a valle il secondo giorno.',
     percheFarla:
       'Perché è il trek più bello della Cina accessibile senza permessi, guide obbligate o attrezzatura tecnica, e perché il sentiero alto è quasi deserto mentre a fondovalle passano i pullman.',
     durata: '2 giorni, 1 notte: circa 5-6 ore il primo giorno, 3-4 il secondo',

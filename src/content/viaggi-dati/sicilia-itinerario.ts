@@ -68,7 +68,7 @@ export const siciliaItinerarioMeta: TripMeta = {
       imageAlt: "I crateri sommitali dell'Etna vicino al Rifugio Sapienza, con escursionisti sul sentiero",
     },
     {
-      titoloGiorno: 'Giorno 3 — Taormina e i Gole dell\'Alcantara',
+      titoloGiorno: 'Giorno 3 — Taormina e le Gole dell\'Alcantara',
       tratta: 'Taormina e Gole dell\'Alcantara',
       pernottamento: 'Catania o versante etneo',
       statoPernottamento: 'da-confermare',

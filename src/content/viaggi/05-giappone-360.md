@@ -2,30 +2,19 @@
 
 **Stato bozza:** 🟡 in lavorazione (itinerario completo, senza orari fissi, con cibo e logistica,
 e aneddoti di apertura/chiusura — scritti come bozza da rileggere e personalizzare)
-**Periodo del viaggio:** 6-17 aprile *(anno da confermare — la versione originale
-del programma copriva 11 giorni fino al 16.04; qui aggiungo una giornata per
-il Monte Fuji, che nella realtà non ho fatto ma che vale la pena includere
-come "capitolo ideale" del viaggio — vedi nota sotto)*
-**Durata:** 12 giorni, 11 notti *(11 reali + 1 aggiunta per il Monte Fuji)*
+**Periodo del viaggio:** 6-17 aprile *(anno da confermare)*
+**Durata:** 12 giorni, 11 notti
 **Compagni di viaggio:** JR Pass per i grandi spostamenti in treno, attivato
 dal quarto giorno in poi
 **Categoria:** Asia · Giappone · sakura · cultura · cibo · on the road
 
 ---
 
-## Nota su questa bozza: perché aggiungere una giornata che non avete fatto
-Il programma originale comprime undici giorni densissimi in un anello
-Tokyo→Kamakura→Kyoto→Arashiyama→Hiroshima→Himeji→Osaka→Nara→Tokyo — praticamente
-un giro del Giappone "classico" in una sola settimana e mezza. **Tokyo da sola
-meriterebbe un capitolo a parte**: qui la vivete solo a spizzichi, nel giorno di
-arrivo e negli ultimi due giorni prima del rientro, con Kamakura a spezzare la
-prima parte. Trattandolo come se aveste avuto due settimane invece di undici
-giorni, ho aggiunto la tappa che nella realtà non c'era: una giornata al
-**Monte Fuji e alla Pagoda Chureito**, inserita come Giorno 3, subito dopo
-Kamakura — così il "capitolo Tokyo e dintorni" resta compatto all'inizio del
-viaggio invece di essere spezzato in tre tronconi. Se doveste rifare il
-viaggio con più tempo a disposizione, vale la pena spalmare Tokyo su 4-5
-giorni pieni invece dei 3 giorni e mezzo effettivi che avete avuto voi.
+## Nota su questa bozza
+La giornata al **Monte Fuji e alla Pagoda Chureito** (Giorno 3) mancava nel
+programma scritto all'inizio: l'ho rimessa al suo posto, subito dopo Kamakura.
+Tokyo resta vissuta a spizzichi (arrivo e ultimi due giorni): con più tempo
+meriterebbe 4-5 giorni pieni.
 
 ## Apertura personale
 Sono arrivato a Tokyo per la fioritura dei sakura, ma con qualche giorno di scarto rispetto al picco: i ciliegi di inizio aprile erano già verso la fine, tra petali che cadevano come neve rosa (lo hanafubuki) e rami sempre più spogli. Ho passato il primo pomeriggio a caccia dei ciliegi migliori in giro per la città, sapendo che il tempismo perfetto è quasi impossibile da centrare in un paese dove la stagione dura pochi giorni. È stato comunque uno spettacolo, anche in versione calante, ed è il modo giusto per aprire un viaggio che mi ha portato da Tokyo al Monte Fuji, fino a Kyoto, Hiroshima e Osaka.
@@ -45,7 +34,7 @@ Sono arrivato a Tokyo per la fioritura dei sakura, ma con qualche giorno di scar
 - **Budget:** intorno ai 600-750€ per l'intero soggiorno sul
   posto (esclusi voli e mezzi pubblici), molto variabile secondo i
   ristoranti scelti.
-- **Trasporti:** JR Pass attivato dal terzo giorno (copre i principali
+- **Trasporti:** JR Pass attivato dal quarto giorno (copre i principali
   Shinkansen, Hikari e Sakura sì, Nozomi e Mizuho no, più molte linee
   locali), integrato con una carta PASMO/IC ricaricabile per metro, bus e
   konbini. Per attivare il JRP serve il passaporto, ed è un'operazione da
@@ -71,11 +60,11 @@ Abbiamo pranzato camminando lungo **Komachi Dori**, la via dei ristorantini e de
 Nel tardo pomeriggio siamo rientrati a Tokyo. Il tempo libero si può spendere a caccia di kimono da noleggiare per le foto: Sakaeya a Harajuku, il più caro, Tansuya ad Asakusa da 5.000 yen, il thrift shop Miyoshiya a Nakano da 1.100 yen. In serata lo **Shibuya Crossing** visto dall'alto: gratis dall'ottavo piano del Centro per il Turismo, aperto fino a sera, o dal camminamento di Shibuya Mark City; a pagamento, 1.500 yen con un drink, dal rooftop **Mag8**. Poi la cena, e di nuovo all'Agora Place Asakusa.
 
 ### Giorno 3 (08.04) — Monte Fuji e Pagoda Chureito
-Si parte presto da Shinjuku verso **Kawaguchiko**. Il modo più comodo è il treno diretto **Fuji Excursion**: circa due ore e 4.130 yen; con il JR Pass si copre fino a Otsuki e si paga solo il supplemento Fujikyu, circa 1.770 yen. In alternativa ci sono i bus diretti da Shinjuku, Shibuya o Tokyo Station, due ore e 2.000-2.500 yen, da prenotare con anticipo. Per la pagoda si può scendere prima, alla fermata **Chureito/Shimoyoshida**.
+Siamo partiti presto da Shinjuku verso **Kawaguchiko** con il treno diretto **Fuji Excursion**: circa due ore e 4.130 yen (chi ha già attivato il JR Pass copre il tratto fino a Otsuki e paga solo il supplemento Fujikyu, circa 1.770 yen). In alternativa ci sono i bus diretti da Shinjuku, Shibuya o Tokyo Station, due ore e 2.000-2.500 yen, da prenotare con anticipo. Per la pagoda siamo scesi prima, alla fermata **Chureito/Shimoyoshida**.
 
-Alla **Pagoda Chureito**, nel parco Arakurayama Sengen, si salgono 398 gradini fino al belvedere più famoso del Giappone: la pagoda rossa a cinque piani davanti, il Fuji dietro. Qui la fioritura arriva circa una settimana dopo Tokyo, e a metà aprile i ciliegi sono spesso ancora pieni: è il posto giusto per recuperare i sakura persi in città. *Consiglio: arrivare il prima possibile, per evitare la folla e avere la luce migliore.*
+Alla **Pagoda Chureito**, nel parco Arakurayama Sengen, abbiamo salito i 398 gradini fino al belvedere più famoso del Giappone: la pagoda rossa a cinque piani davanti, il Fuji dietro. Qui la fioritura arriva circa una settimana dopo Tokyo, e i ciliegi erano ancora pieni: il posto giusto per recuperare i sakura persi in città. *Consiglio: arrivare il prima possibile, per evitare la folla e avere la luce migliore.*
 
-Poi il **lago Kawaguchiko**, da girare a piedi o in barca per guardare il Fuji da un'altra parte; la funivia del monte Tenjo aggiunge un'altra vista dall'alto. E prima di tornare, un **onsen con vista sul Fuji**: la zona dei Cinque Laghi è piena di sorgenti calde, e un bagno con la montagna innevata davanti è tra le cose più giapponesi che si possano fare in un giorno. All'Hotel Mifujien, ryokan storico aperto di giorno anche a chi non dorme lì, l'ingresso è di circa 1.200 yen. In serata si rientra a Tokyo da Shinjuku, e si dorme ancora all'Agora Place Asakusa o comunque in città.
+Poi il **lago Kawaguchiko**, che abbiamo girato per guardare il Fuji da un'altra parte; la funivia del monte Tenjo aggiunge un'altra vista dall'alto. E prima di tornare, un **onsen con vista sul Fuji**: la zona dei Cinque Laghi è piena di sorgenti calde, e un bagno con la montagna innevata davanti è tra le cose più giapponesi che si possano fare in un giorno. All'Hotel Mifujien, ryokan storico aperto di giorno anche a chi non dorme lì, l'ingresso è di circa 1.200 yen. In serata siamo rientrati a Tokyo da Shinjuku e abbiamo dormito ancora all'Agora Place Asakusa.
 
 ### Giorno 4 (09.04) — Tokyo-Kyoto
 Presto in stazione a Tokyo, abbiamo preso lo Shinkansen Hikari per Kyoto, due ore e quaranta. Siamo arrivati a metà mattina, abbiamo lasciato i bagagli e siamo andati al **Nishiki Market**, il grande mercato coperto, da girare assaggiando un po' di tutto: un paio d'ore tra cibo e negozi, e in fondo al mercato si apre una galleria che va dai vestiti all'elettronica.
@@ -295,10 +284,9 @@ Fonti caricate:
 3. **Hotel_Giappone_360.pdf** — elenco ufficiale degli hotel per notte.
 4. **VadeMecum_Giappone.pdf** — informazioni pratiche generali (clima,
    documenti, bagaglio, cassa comune, assicurazione).
-5. **Aggiunta editoriale**: la giornata al Monte Fuji/Chureito (Giorno 3) non
-   è presente in nessuna delle fonti originali — è stata costruita da zero
-   con dati reali su orari dei treni, prezzi e logistica, per completare il
-   "capitolo Tokyo" del viaggio come richiesto. Le sezioni su cibo/izakaya e
+5. **Giorno 3 (Monte Fuji/Chureito)**: mancava nelle fonti originali ed è
+   stato aggiunto il 30/10/2026 su indicazione di Rick (giornata fatta,
+   omessa nel programma scritto); orari e prezzi da fonti ufficiali. Le sezioni su cibo/izakaya e
    onsen sono state ampliate rispetto alle fonti con ricerche aggiuntive.
 
 **Cosa manca ancora per chiudere la bozza:**

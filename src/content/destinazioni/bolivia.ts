@@ -55,7 +55,8 @@ export const destinazioniBolivia: Destinazione[] = [
       'Atterrare a El Alto è uno shock fisico che quasi nessuno mette in conto: si scende dall\'aereo a più di quattromila metri e il corpo se ne accorge prima ancora di uscire dal terminal. La Paz è poi la città più strana del continente, costruita dentro una conca con i quartieri poveri in alto e quelli ricchi in basso — l\'opposto di ogni altra città al mondo, e per una ragione precisa: più si scende, più si respira. Le teleferiche urbane sono la cosa da consigliare a chiunque, costano pochi centesimi e danno la vista migliore sulla conca. Il problema vero della Bolivia, però, sono i blocchi stradali: vanno messi in conto nell\'itinerario, non trattati come eventualità remota.',
     esperienzeSlugs: ['carretera-de-la-muerte'],
     tripSlugs: ['bolivia-itinerario'],
-    imageAlt: 'La conca di La Paz vista dall\'alto con il Nevado Illimani sullo sfondo, Bolivia',
+    imageAlt: 'Il Nevado Illimani innevato che domina la conca di La Paz al tramonto, Bolivia',
+    immagine: '/images/bolivia/la-paz.jpg',
   },
   {
     slug: 'salar-de-uyuni',
@@ -102,7 +103,8 @@ export const destinazioniBolivia: Destinazione[] = [
       'È l\'unico posto in cui si perde davvero il senso della distanza: senza riferimenti non si capisce se una montagna è a cinque chilometri o a cinquanta, ed è per questo che funzionano le foto prospettiche. Ma la parte che resta non è il primo giorno sul sale, è il secondo, nel Sud Lípez: lagune rosse piene di fenicotteri oltre i quattromila metri, geyser che sbuffano all\'alba con venti gradi sotto zero, alloggi dove si dorme vestiti perché non c\'è riscaldamento. È un tour molto più duro di quanto le fotografie lascino immaginare, e l\'unica voce su cui non conviene risparmiare è l\'operatore: lì in mezzo un 4x4 che si rompe è un problema serio.',
     esperienzeSlugs: ['tour-uyuni-sud-lipez'],
     tripSlugs: ['bolivia-itinerario'],
-    imageAlt: 'Distesa di sale del Salar de Uyuni con i poligoni bianchi a perdita d\'occhio, Bolivia',
+    imageAlt: 'Fuoristrada sulla distesa bianca del Salar de Uyuni sotto un cielo blu, Bolivia',
+    immagine: '/images/bolivia/salar-de-uyuni.jpg',
   },
   {
     slug: 'titicaca-boliviano',
@@ -144,7 +146,8 @@ export const destinazioniBolivia: Destinazione[] = [
       'Il lato boliviano del lago è più bello di quello peruviano, e non di poco. Copacabana è un paese di pellegrinaggio un po\' scalcinato ma con un\'anima, e l\'Isla del Sol batte le isole di Puno senza discussione: terrazzamenti, sentieri in pietra, nessuna macchina e nessuna organizzazione turistica pesante. Dormirci una notte cambia tutto, perché le barche in giornata arrivano e ripartono tutte insieme e appena se ne vanno l\'isola torna silenziosa. Va solo messo in conto che si cammina sempre in salita a quasi quattromila metri, con lo zaino: non è una passeggiata.',
     esperienzeSlugs: [],
     tripSlugs: ['bolivia-itinerario'],
-    imageAlt: 'Terrazzamenti e sentieri dell\'Isla del Sol sul lago Titicaca, Bolivia',
+    imageAlt: 'Terrazzamenti e sentieri dell\'Isla del Sol con pecore al pascolo sul lago Titicaca, Bolivia',
+    immagine: '/images/bolivia/titicaca-boliviano.jpg',
   },
   {
     slug: 'sucre-potosi',
@@ -185,7 +188,8 @@ export const destinazioniBolivia: Destinazione[] = [
       'Sucre è il posto dove viene voglia di fermarsi più a lungo: duemilaottocento metri invece di quattromila, clima mite, una città bianca e ordinata dove finalmente si respira e si dorme. Potosí è l\'opposto, e non solo per la quota. Entrare nelle gallerie del Cerro Rico è l\'esperienza più pesante di tutto il viaggio — non pericolosa in sé, ma difficile da digerire: si cammina piegati in cunicoli caldi e polverosi accanto a uomini che ci passano dieci ore al giorno con strumenti di un altro secolo. Non è un\'attrazione e non andrebbe trattata come tale. Se ne esce zitti, e forse è giusto così.',
     esperienzeSlugs: ['miniere-cerro-rico'],
     tripSlugs: ['bolivia-itinerario'],
-    imageAlt: 'Il centro coloniale bianco di Sucre con la cattedrale, Bolivia',
+    imageAlt: 'Il Cerro Rico che domina i tetti di tegole rosse di Potosí, Bolivia',
+    immagine: '/images/bolivia/sucre-potosi.jpg',
   },
   {
     slug: 'rurrenabaque-madidi',
@@ -271,6 +275,7 @@ export const destinazioniBolivia: Destinazione[] = [
       'Le pampas sono il posto dove si vedono più animali con meno sforzo di qualsiasi altro: si sta in barca e sfilano caimani, capibara, scimmie e centinaia di uccelli, con i delfini rosa che ogni tanto emergono accanto allo scafo. È anche il posto dove si vedono le pratiche più discutibili: certe guide tirano fuori i caimani dall\'acqua o vanno a cercare le anaconda per farle toccare ai clienti, e non è una cosa da assecondare — basta dire di no e chiedere di restare a guardare. Le zanzare, poi, sono di un altro livello: quello che serve non è un repellente, è una corazza.',
     esperienzeSlugs: [],
     tripSlugs: ['bolivia-itinerario'],
-    imageAlt: 'Barca sul Rio Yacuma tra le praterie allagate delle pampas boliviane al tramonto',
+    imageAlt: 'Barche ormeggiate sul fiume Beni a Rurrenabaque, ai piedi delle colline coperte di foresta, Bolivia',
+    immagine: '/images/bolivia/rurrenabaque-madidi.jpg',
   },
 ]

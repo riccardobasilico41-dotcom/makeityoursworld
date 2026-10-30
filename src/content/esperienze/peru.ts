@@ -28,7 +28,8 @@ export const esperienzePeru: Esperienza[] = [
       'Porta del Sole (Intipunku): raggiungibile senza biglietto extra, con vista panoramica sulla cittadella',
     ],
     tripSlugs: ['peru-itinerario'],
-    imageAlt: 'Vista di Machu Picchu dall\'alto del Huayna Picchu, Perù',
+    imageAlt: 'La vetta del Huayna Picchu tra le nuvole sopra le rovine di Machu Picchu, Perù',
+    immagine: '/images/peru/huayna-picchu.jpg',
   },
   {
     slug: 'cammino-inca',
@@ -53,7 +54,8 @@ export const esperienzePeru: Esperienza[] = [
       'Trek del Salkantay, senza permessi contingentati e più economico',
     ],
     tripSlugs: [],
-    imageAlt: 'Sentiero lastricato del Cammino Inca tra le montagne verso Machu Picchu, Perù',
+    imageAlt: 'Sentiero lastricato in pietra del Cammino Inca tra la vegetazione e la nebbia verso Machu Picchu, Perù',
+    immagine: '/images/peru/cammino-inca.jpg',
   },
   {
     slug: 'trek-choquequirao',
@@ -97,6 +99,7 @@ export const esperienzePeru: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Notte a Taquile, meno organizzata per l\'ospitalità ma altrettanto autentica'],
     tripSlugs: ['peru-itinerario'],
-    imageAlt: 'Case in pietra e terrazzamenti sull\'isola di Amantaní, lago Titicaca, Perù',
+    imageAlt: 'Una barca a remi sul lago Titicaca con l\'isola di Amantaní sullo sfondo, Perù',
+    immagine: '/images/peru/homestay-amantani.jpg',
   },
 ]

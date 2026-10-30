@@ -27,7 +27,7 @@ export const destinazioniCina: Destinazione[] = [
       'La Grande Muraglia: Mutianyu, Jinshanling o Simatai a seconda di quanto si è disposti a camminare',
     ],
     cosaFare: [
-      'Camminare un tratto di Muraglia non restaurato — vedi la scheda esperienza dedicata',
+      'Camminare un tratto di Muraglia non restaurato a Jinshanling — vedi la scheda esperienza dedicata',
       'Visitare la Città Proibita all\'apertura, con la prenotazione fatta giorni prima',
       'Anatra laccata in un ristorante specializzato: a Pechino è un piatto da ordinare intero, tagliato al tavolo',
       'Giro in bicicletta o in risciò tra gli hutong al tramonto',
@@ -77,7 +77,7 @@ export const destinazioniCina: Destinazione[] = [
           },
           {
             nome: 'Jinshanling',
-            sintesi: 'Due ore e mezza da Pechino, torri non restaurate, erba tra le pietre e lunghi tratti senza nessuno in vista.',
+            sintesi: 'Due ore e mezza da Pechino, restaurato solo in parte, con torri mezze crollate, erba tra le pietre e lunghi tratti senza nessuno in vista.',
             costo: 'ingresso circa 65 yuan, funivia a parte',
             durata: 'giornata intera, con 3-4 ore di cammino',
             pro: ['È la Muraglia che si immagina prima di partire: rovinata, verticale, deserta', 'Il tratto fotograficamente più bello nei pressi di Pechino', 'Si cammina per ore incrociando pochissime persone'],
@@ -114,7 +114,7 @@ export const destinazioniCina: Destinazione[] = [
     giorniConsigliati: '2 giorni pieni, arrivando la sera prima',
     visitataPersonalmente: true,
     introduzione:
-      'Il capolinea orientale della Via della Seta e capitale di tredici dinastie. Oggi è una città di nove milioni di abitanti con una cinta muraria Ming interamente conservata, un quartiere musulmano che profuma di cumino e, a un\'ora dal centro, l\'esercito di terracotta.',
+      'Il capolinea orientale della Via della Seta e capitale di tredici dinastie. Oggi è una città di tredici milioni di abitanti con una cinta muraria Ming interamente conservata, un quartiere musulmano che profuma di cumino e, a un\'ora dal centro, l\'esercito di terracotta.',
     percheAndarci:
       'Per l\'Esercito di Terracotta, che da solo giustifica la deviazione, ma anche perché è la città dove si capisce che la Cina non è solo Han: il quartiere Hui, musulmano da più di mille anni, con la sua moschea costruita come un tempio cinese, è una cosa che altrove non si vede.',
     cosaVedere: [
@@ -160,7 +160,7 @@ export const destinazioniCina: Destinazione[] = [
             costo: 'indicativamente 40-90€ in seconda classe secondo la distanza',
             durata: 'Pechino-Xi\'an 4h30, Pechino-Shanghai 4h30, Shanghai-Suzhou 25 minuti',
             pro: ['Stazioni in città: si risparmia più tempo di quello che sembra', 'Puntualità assoluta e partenze ogni mezz\'ora sulle tratte forti', 'Bagaglio con sé, niente stiva né limiti di peso', 'Si vede il paese scorrere, che non è un dettaglio da poco'],
-            contro: ['Biglietti in vendita solo 15 giorni prima, alle 8 ora di Pechino, e sulle tratte forti si esauriscono in poche ore', 'Serve un account 12306 verificato col passaporto, da preparare prima di partire', 'In stazione servono 30-40 minuti di margine per i controlli, e i gate chiudono prima della partenza'],
+            contro: ['Biglietti in vendita solo 15 giorni prima, a un orario che varia da stazione a stazione, e sulle tratte forti si esauriscono in poche ore', 'Serve un account 12306 verificato col passaporto, da preparare prima di partire', 'In stazione servono 30-40 minuti di margine per i controlli, e i gate chiudono prima della partenza'],
             perChi: 'Chiunque si muova nell\'est e nel centro del paese: su queste distanze il treno vince quasi sempre.',
           },
           {
@@ -200,7 +200,7 @@ export const destinazioniCina: Destinazione[] = [
       'Il Bund al tramonto e poi di nuovo di notte, quando Pudong si accende dall\'altra parte del fiume',
       'Il quartiere delle ex Concessioni Francesi, con i platani e le case in mattoni',
       'Il Giardino Yuyuan e il bazar attorno, nella città vecchia',
-      'La Shanghai Tower, secondo grattacielo più alto del mondo, con l\'ascensore più veloce del pianeta',
+      'La Shanghai Tower, terzo grattacielo più alto del mondo, con ascensori tra i più veloci del pianeta',
       'I giardini classici di Suzhou: l\'Umile Amministratore, il Giardino del Maestro delle Reti, il Padiglione delle Onde Blu',
       'Un villaggio d\'acqua: Zhujiajiao, Wuzhen, Tongli o Nanxun, tutti raggiungibili in giornata',
     ],
@@ -296,18 +296,18 @@ export const destinazioniCina: Destinazione[] = [
     percheAndarci:
       'Perché non esiste un paesaggio simile da nessun\'altra parte, e perché è la dimostrazione che la Cina più spettacolare non è quella dei monumenti imperiali ma quella dei parchi che quasi nessun viaggiatore straniero mette in itinerario.',
     cosaVedere: [
-      'Yuanjiajie, con il Pilastro dell\'Alleluia — la colonna che ha ispirato Avatar — e il Ponte del Primo Ponte sotto il Cielo',
+      'Yuanjiajie, con il Pilastro dell\'Alleluia — la colonna che ha ispirato Avatar — e il Primo Ponte sotto il Cielo',
       'L\'ascensore di Bailong, 326 metri di corsa verticale attaccati alla parete di roccia, il più alto ascensore panoramico esterno del mondo',
       'Tianzi Shan, il punto panoramico più ampio sull\'intero massiccio',
-      'Il sentiero lungo il ruscello del Ditastro d\'Oro, l\'unico modo di vedere i pilastri dal basso invece che dall\'alto',
-      'Tianmen Shan, la montagna della "porta del cielo", con la scalinata dei 999 gradini e la funivia più lunga del mondo',
+      'Il sentiero lungo il torrente della Frusta d\'Oro (Jinbian Xi), l\'unico modo di vedere i pilastri dal basso invece che dall\'alto',
+      'Tianmen Shan, la montagna della "porta del cielo", con la scalinata dei 999 gradini e una delle funivie più lunghe del mondo',
       'Il sentiero con il fondo di vetro sospeso sulla parete di Tianmen',
     ],
     cosaFare: [
       'Salire a Yuanjiajie con l\'ascensore di Bailong e scendere a piedi — vedi la scheda esperienza dedicata',
       'Giornata completa a Tianmen Shan, con funivia, strada dei 99 tornanti e scalinata finale',
-      'Camminare il sentiero del Ditastro d\'Oro in fondo alla valle, dove non arrivano i pullman',
-      'Grande Canyon di Zhangjiajie con il ponte di vetro, il più lungo e alto del mondo nella sua categoria',
+      'Camminare il sentiero della Frusta d\'Oro (Jinbian Xi) in fondo alla valle, dove non arrivano i pullman',
+      'Grande Canyon di Zhangjiajie con il ponte di vetro, che all\'apertura nel 2016 era il più lungo e alto del mondo nella sua categoria',
     ],
     doveDormire:
       'Due scelte con logiche opposte. Il villaggio di Wulingyuan, appena fuori dall\'ingresso principale del parco, è la base giusta per due giorni dentro il parco: si entra all\'apertura evitando le code peggiori. La città di Zhangjiajie serve invece per Tianmen Shan, la cui funivia parte dal centro città. Fare tutto da una sola base significa perdere ore in trasferimenti.',
@@ -320,7 +320,7 @@ export const destinazioniCina: Destinazione[] = [
     periodoMigliore:
       'aprile-maggio e settembre-ottobre. Sulla nebbia conviene ribaltare il ragionamento: è ciò che fa sembrare i pilastri sospesi nel vuoto, quindi una giornata di foschia non è una giornata persa — quella persa è quella di pioggia battente, quando le funivie chiudono.',
     costi:
-      'Ingresso al parco nazionale attorno ai 239 yuan, valido quattro giorni e comprensivo delle navette interne; ascensore di Bailong e funivie si pagano a parte, indicativamente 70-100 yuan a corsa; Tianmen Shan è un biglietto separato, sui 250-280 yuan con funivia inclusa. Il totale sale in fretta oltre i 60-70€ a persona.',
+      'Ingresso al parco nazionale attorno ai 239 yuan, valido quattro giorni e comprensivo delle navette interne; ascensore di Bailong e funivie si pagano a parte, indicativamente 65-100 yuan a corsa; Tianmen Shan è un biglietto separato, sui 250-280 yuan con funivia inclusa. Il totale sale in fretta oltre i 60-70€ a persona.',
     erroriDaEvitare: [
       'Programmare un giorno solo: il parco è enorme e le code a funivie e ascensore possono valere più di un\'ora per tratta',
       'Andarci durante le settimane di festa nazionale (1-7 ottobre, inizio maggio): i tempi di attesa diventano di tre o quattro ore',
@@ -357,7 +357,7 @@ export const destinazioniCina: Destinazione[] = [
       },
     ],
     miaEsperienza:
-      'Zhangjiajie è il posto che più di ogni altro in Cina va organizzato invece che improvvisato, e il motivo è banale: è enorme e ci vanno tutti. Le code all\'ascensore di Bailong nel pieno della giornata sono la cosa peggiore del viaggio, e l\'unico modo di evitarle è essere all\'ingresso all\'apertura e salire subito, lasciando i punti panoramici famosi per il tardo pomeriggio quando i gruppi se ne sono andati. Detto questo, il paesaggio regge qualsiasi aspettativa. La cosa che colpisce non è il singolo pilastro ma il fatto che siano migliaia, uno dietro l\'altro fino all\'orizzonte, e che entrino ed escano dalla nebbia mentre li si guarda. Chi ci viene sperando in una giornata limpida sta sperando nella cosa sbagliata: con il cielo terso sembrano delle montagne normali, con la foschia sembrano sospese. E il consiglio meno ovvio è di scendere in fondovalle almeno mezza giornata, lungo il ruscello del Ditastro d\'Oro: guardare quei pilastri dal basso, con il collo all\'insù, è più impressionante che vederli dall\'alto.',
+      'Zhangjiajie è il posto che più di ogni altro in Cina va organizzato invece che improvvisato, e il motivo è banale: è enorme e ci vanno tutti. Le code all\'ascensore di Bailong nel pieno della giornata sono la cosa peggiore del viaggio, e l\'unico modo di evitarle è essere all\'ingresso all\'apertura e salire subito, lasciando i punti panoramici famosi per il tardo pomeriggio quando i gruppi se ne sono andati. Detto questo, il paesaggio regge qualsiasi aspettativa. La cosa che colpisce non è il singolo pilastro ma il fatto che siano migliaia, uno dietro l\'altro fino all\'orizzonte, e che entrino ed escano dalla nebbia mentre li si guarda. Chi ci viene sperando in una giornata limpida sta sperando nella cosa sbagliata: con il cielo terso sembrano delle montagne normali, con la foschia sembrano sospese. E il consiglio meno ovvio è di scendere in fondovalle almeno mezza giornata, lungo il torrente della Frusta d\'Oro (Jinbian Xi): guardare quei pilastri dal basso, con il collo all\'insù, è più impressionante che vederli dall\'alto.',
     esperienzeSlugs: ['avatar-yuanjiajie', 'tianmen-shan'],
     tripSlugs: ['cina-paesaggi'],
     imageAlt: 'I pinnacoli di arenaria coperti di vegetazione nel parco nazionale di Zhangjiajie, Hunan',
@@ -425,7 +425,7 @@ export const destinazioniCina: Destinazione[] = [
       'Il quartiere di Kuanzhai Xiangzi, i vicoli larghi e stretti restaurati',
       'Il parco del Popolo, con la casa da tè Heming dove si fa pulizia delle orecchie in mezzo alla gente',
       'Il sistema di irrigazione di Dujiangyan, in funzione ininterrotta dal III secolo a.C., patrimonio UNESCO',
-      'Il Grande Buddha di Leshan, 71 metri scolpiti nella roccia, a due ore di treno',
+      'Il Grande Buddha di Leshan, 71 metri scolpiti nella roccia, a circa un\'ora di alta velocità',
     ],
     cosaFare: [
       'Base dei panda all\'apertura, quando gli animali sono attivi — vedi la scheda esperienza dedicata',
@@ -439,7 +439,7 @@ export const destinazioniCina: Destinazione[] = [
     doveMangiare:
       'Chengdu è probabilmente la città dove si mangia meglio in Cina, e va affrontata sapendo che il piccante sichuanese è di un tipo particolare: il pepe di Sichuan non brucia, intorpidisce la lingua, e la sensazione — il famoso "málà" — spiazza al primo assaggio. I piatti obbligatori sono il mapo tofu, il pollo gongbao (che non ha niente a che vedere con la versione servita in Europa), i dan dan noodles e il coniglio, che qui è cucina quotidiana. L\'hot pot va fatto almeno una volta con il brodo diviso: metà piccante, metà chiaro, così ognuno sceglie. E il cibo di strada dei vicoli è ottimo e costa pochissimo.',
     comeArrivare:
-      'Volo su Chengdu Tianfu (TFU) o Shuangliu (SHA), oppure alta velocità: da Chongqing sono poco più di un\'ora, da Xi\'an circa 4 ore.',
+      'Volo su Chengdu Tianfu (TFU) o Shuangliu (CTU), oppure alta velocità: da Chongqing sono poco più di un\'ora, da Xi\'an circa 4 ore.',
     comeSpostarsi: 'Metropolitana estesa ed economica, più DiDi per le tratte non coperte. Il centro si cammina bene.',
     periodoMigliore:
       'marzo-giugno e settembre-novembre. Il Sichuan vive sotto una cappa di grigio per gran parte dell\'anno — la battuta locale è che i cani abbaiano quando vedono il sole — e l\'estate è calda e umida.',
@@ -452,7 +452,7 @@ export const destinazioniCina: Destinazione[] = [
       'Fare Leshan e Dujiangyan nello stesso giorno: sono in direzioni opposte',
     ],
     miaEsperienza:
-      'Chengdu è la città in cui viene voglia di restare più a lungo di quanto prevedesse il programma, e non per quello che c\'è da vedere — che è poco — ma per come si sta. Nel parco del Popolo, un pomeriggio qualsiasi, ci sono centinaia di persone sedute a bere tè da sole o a giocare a carte, e nessuno ha fretta: è l\'unica città cinese in cui il tempo sembra abbondante. Sui panda va gestita l\'aspettativa: alle otto e mezza del mattino sono svegli, mangiano bambù e si arrampicano, e per un\'ora sono esattamente quello che si sperava; due ore dopo dormono e la visita perde tutto. L\'hot pot invece è la cosa che spiazza di più: il pepe di Sichuan non è piccante come lo intendiamo noi, addormenta la bocca, e la prima volta la sensazione è quasi allarmante prima di diventare una dipendenza. Il consiglio è chiedere il brodo diviso e non fare gli eroi.',
+      'Chengdu è la città in cui viene voglia di restare più a lungo di quanto prevedesse il programma, e non per quello che c\'è da vedere — che è poco — ma per come si sta. Nel parco del Popolo, un pomeriggio qualsiasi, ci sono centinaia di persone sedute a bere tè da sole o a giocare a carte, e nessuno ha fretta: è l\'unica città cinese in cui il tempo sembra abbondante. Sui panda va gestita l\'aspettativa: alle sette e mezza del mattino sono svegli, mangiano bambù e si arrampicano, e per un\'ora sono esattamente quello che si sperava; due ore dopo dormono e la visita perde tutto. L\'hot pot invece è la cosa che spiazza di più: il pepe di Sichuan non è piccante come lo intendiamo noi, addormenta la bocca, e la prima volta la sensazione è quasi allarmante prima di diventare una dipendenza. Il consiglio è chiedere il brodo diviso e non fare gli eroi.',
     esperienzeSlugs: ['panda-chengdu', 'hot-pot-sichuan'],
     tripSlugs: ['cina-paesaggi'],
     imageAlt: 'La Grande Sala del monastero di Wenshu tra gli alberi del cortile, Chengdu',
@@ -487,7 +487,7 @@ export const destinazioniCina: Destinazione[] = [
     doveDormire:
       'La penisola di Yuzhong, il centro storico-finanziario, è la base più comoda: Hongya Dong, Liziba e i moli sono raggiungibili a piedi o con poche fermate di metropolitana. Vale la pena spendere qualcosa in più per una camera con vista sul fiume: qui la vista è la città.',
     doveMangiare:
-      'L\'hot pot di Chongqing è l\'originale e non fa concessioni: brodo rosso di grasso di manzo e peperoncino, senza la versione addolcita. I locali storici hanno ancora i tavoli con la pentola a scomparti condivisa. Fuori dall\'hot pot, la specialità sono i xiaomian, i noodles piccanti del mattino, che qui si mangiano a colazione seduti su sgabelli di plastica in strada. Da provare anche il pollo alla Laziji, sepolto sotto una montagna di peperoncini secchi da cui va pescato.',
+      'L\'hot pot di Chongqing è l\'originale e non fa concessioni: brodo rosso di grasso di manzo e peperoncino, senza la versione addolcita. I locali storici hanno ancora i tavoli con la pentola a scomparti condivisa. Fuori dall\'hot pot, la specialità sono i xiaomian, i noodles piccanti del mattino, che qui si mangiano a colazione seduti su sgabelli di plastica in strada. Da provare anche il laziji, il pollo fritto sepolto sotto una montagna di peperoncini secchi da cui va pescato.',
     comeArrivare:
       'Volo su Chongqing Jiangbei (CKG) oppure alta velocità: Chengdu è a poco più di un\'ora, Zhangjiajie e Furong Zhen sono sulla stessa linea verso est.',
     comeSpostarsi:
@@ -522,7 +522,7 @@ export const destinazioniCina: Destinazione[] = [
     percheAndarci:
       'Perché è la base logistica per tutto il nord dello Yunnan — Yulong Xueshan, Gola del Salto della Tigre, Shangri-La — e perché la cultura Naxi, con la sua scrittura pittografica ancora in uso, è una delle più particolari del paese.',
     cosaVedere: [
-      'La città vecchia (Dayan), con la piazza dello Sifang e i canali che la attraversano',
+      'La città vecchia (Dayan), con la piazza Sifang e i canali che la attraversano',
       'La collina del Leone e la Pagoda Wangu, per la vista sui tetti grigi dall\'alto',
       'Il villaggio di Baisha, a nord, molto meno turistico e con gli affreschi Ming',
       'Shuhe, la città vecchia minore, più tranquilla di Dayan',
@@ -566,7 +566,7 @@ export const destinazioniCina: Destinazione[] = [
     giorniConsigliati: '3-4 giorni partendo da Lijiang',
     visitataPersonalmente: true,
     introduzione:
-      'Le montagne dello Yunnan settentrionale: il massiccio del Drago di Giada (Yulong Xueshan), che sfiora i 5.600 metri e non è mai stato scalato, l\'anfiteatro a 3.100 metri dove va in scena lo spettacolo diretto da Zhang Yimou, una delle gole più profonde del mondo e, alla fine della strada, l\'altopiano tibetano di Shangri-La.',
+      'Le montagne dello Yunnan settentrionale: il massiccio del Drago di Giada (Yulong Xueshan), che sfiora i 5.600 metri ed è stato scalato una sola volta, nel 1987, l\'anfiteatro a 3.100 metri dove va in scena lo spettacolo diretto da Zhang Yimou, una delle gole più profonde del mondo e, alla fine della strada, l\'altopiano tibetano di Shangri-La.',
     percheAndarci:
       'Perché in tre giorni si passa da un teatro all\'aperto sotto un ghiacciaio a un trek lungo una gola scavata per 3.000 metri, fino a un monastero tibetano a 3.200 metri di quota: è la sequenza di paesaggi più forte di tutta la Cina.',
     cosaVedere: [
@@ -584,7 +584,7 @@ export const destinazioniCina: Destinazione[] = [
       'Giornata a Shangri-La tra monastero, città vecchia e altopiano',
     ],
     doveDormire:
-      'Lijiang come base per Yulong Xueshan e per lo spettacolo. Per la Gola del Salto della Tigre si dorme nelle guesthouse lungo il sentiero alto, a Walnut Garden o alla Tea Horse, che sono il motivo per cui il trek va fatto in due giorni invece che in uno. A Shangri-La, la città vecchia di Dukezong.',
+      'Lijiang come base per Yulong Xueshan e per lo spettacolo. Per la Gola del Salto della Tigre si dorme nelle guesthouse lungo il sentiero alto, a Walnut Garden o alla Tea Horse Guesthouse, che sono il motivo per cui il trek va fatto in due giorni invece che in uno. A Shangri-La, la città vecchia di Dukezong.',
     doveMangiare:
       'Sull\'altopiano la cucina cambia e diventa tibetana: tè al burro di yak (che spiazza al primo sorso), carne di yak essiccata, momo al vapore e zuppe dense. Lungo la Gola del Salto della Tigre si mangia nelle guesthouse, con menu fissi semplici e sorprendentemente buoni. Attorno allo Yulong Xueshan l\'offerta è minima e cara: conviene portarsi pranzo e acqua da Lijiang.',
     comeArrivare:
@@ -598,7 +598,7 @@ export const destinazioniCina: Destinazione[] = [
     erroriDaEvitare: [
       'Salire al ghiacciaio a 4.506 metri il giorno dopo essere arrivati in aereo dal livello del mare: la quota si sente, la bombola di ossigeno venduta all\'ingresso non è un souvenir',
       'Non prenotare in anticipo la funivia grande: le quote giornaliere sono contingentate e si esauriscono presto in alta stagione',
-      'Fare la Gola del Salto della Tigre lungo la strada asfaltata di fondovalle pensando di averla vista: il percorso vero è il sentiero alto, sull\'altro versante',
+      'Fare la Gola del Salto della Tigre lungo la strada asfaltata di fondovalle pensando di averla vista: il percorso vero è il sentiero alto, molto più in quota',
       'Programmare il trek nella stagione delle piogge, quando le frane chiudono tratti di sentiero',
       'Sottovalutare Shangri-La: a 3.200 metri le notti sono fredde in ogni stagione e il fiato manca anche salendo una rampa di scale',
     ],
@@ -679,7 +679,7 @@ export const destinazioniCina: Destinazione[] = [
     doveMangiare:
       'Il piatto locale è il pesce birra, cotto in padella con birra, peperoni e pomodoro, e va mangiato lungo il fiume. Da provare anche le lumache di fiume ripiene e i noodles di riso di Guilin, che qui si mangiano a colazione con sottaceti e arachidi a un paio di euro. La West Street è la via dei ristoranti per stranieri, con prezzi e cucina addomesticati: basta uscirne per mangiare meglio e spendere metà.',
     comeArrivare:
-      'Alta velocità fino a Guilin o direttamente alla stazione di Yangshuo (che è però a 30 minuti dal centro): da Canton sono circa 3 ore, da Shanghai 8-9. Volo su Guilin Liangjiang (KWL), poi un\'ora di bus.',
+      'Alta velocità fino a Guilin o direttamente alla stazione di Yangshuo (che è però a 30 minuti dal centro): da Canton sono circa 2-3 ore, da Shanghai 8-9. Volo su Guilin Liangjiang (KWL), poi un\'ora di bus.',
     comeSpostarsi:
       'Bicicletta e scooter elettrico sono il mezzo giusto e si noleggiano ovunque per pochi yuan. Per il fiume Li si usano battello o zattera di bambù; per Longji serve un bus o un\'auto.',
     periodoMigliore:
@@ -712,10 +712,10 @@ export const destinazioniCina: Destinazione[] = [
     percheAndarci:
       'Perché la densità verticale di Hong Kong non esiste altrove, e perché a venti minuti dai grattacieli ci sono sentieri di montagna, spiagge e villaggi di pescatori: nessuna altra città al mondo passa così in fretta da un estremo all\'altro.',
     cosaVedere: [
-      'Victoria Peak, con il tram a cremagliera che sale quasi in verticale',
+      'Victoria Peak, con il Peak Tram, la funicolare che sale quasi in verticale',
       'Il porto di Victoria dal lungomare di Tsim Sha Tsui, con lo spettacolo di luci Symphony of Lights la sera',
       'La Star Ferry, il traghetto storico che attraversa il porto per pochi centesimi',
-      'Il quartiere di Sheung Wan e le sue scale mobili all\'aperto, le più lunghe del mondo',
+      'Il quartiere di Sheung Wan e, accanto, le scale mobili all\'aperto di Central-Mid-Levels, le più lunghe del mondo',
       'Il Grande Buddha di Ngong Ping sull\'isola di Lantau, con la funivia panoramica',
       'Il villaggio di pescatori di Tai O, con le case su palafitte',
       'I mercati di Mong Kok, tra quello degli uccelli, quello dei fiori e quello notturno di Temple Street',
@@ -746,7 +746,7 @@ export const destinazioniCina: Destinazione[] = [
       'Considerarla una città solo di grattacieli e saltare Lantau, le isole e i sentieri: è metà della sua identità',
     ],
     miaEsperienza:
-      'Hong Kong spiazza chi ci arriva dopo tre settimane di Cina continentale, perché tutto torna a funzionare come ci si aspetta: cartelli in inglese, Google che si apre senza VPN, code ordinate. La cosa che rimane però non è la skyline — bellissima e vista mille volte — ma il fatto che a mezz\'ora di metropolitana dal centro finanziario si cammini su un crinale con il mare sotto e nessun palazzo in vista. Il Dragon\'s Back è una passeggiata facile che nessuno mette in programma e che vale quanto il Peak. Sulla salita al Victoria Peak conviene invece essere pratici: si va solo con il cielo pulito, e la coda per il tram a fine pomeriggio può superare l\'ora, mentre l\'autobus che sale dalla stessa parte non ha coda. E la cosa più bella costa meno di mezzo euro: attraversare il porto in Star Ferry all\'ora blu, sul ponte inferiore, con i palazzi che si accendono da entrambe le parti.',
+      'Hong Kong spiazza chi ci arriva dopo dieci giorni di Cina continentale, perché tutto torna a funzionare come ci si aspetta: cartelli in inglese, Google che si apre senza VPN, code ordinate. La cosa che rimane però non è la skyline — bellissima e vista mille volte — ma il fatto che a mezz\'ora tra metropolitana e autobus dal centro finanziario si cammini su un crinale con il mare sotto e nessun palazzo in vista. Il Dragon\'s Back è una passeggiata facile che nessuno mette in programma e che vale quanto il Peak. Sulla salita al Victoria Peak conviene invece essere pratici: si va solo con il cielo pulito, e la coda per il tram a fine pomeriggio può superare l\'ora, mentre l\'autobus che sale dalla stessa parte non ha coda. E la cosa più bella costa meno di mezzo euro: attraversare il porto in Star Ferry all\'ora blu, sul ponte inferiore, con i palazzi che si accendono da entrambe le parti.',
     esperienzeSlugs: ['star-ferry-victoria-peak'],
     tripSlugs: ['cina-classica'],
     imageAlt: 'Lo skyline dell\'isola di Hong Kong al tramonto visto da Victoria Harbour',
@@ -761,12 +761,12 @@ export const destinazioniCina: Destinazione[] = [
     giorniConsigliati: '1-2 giorni, spesso in giornata da Hong Kong',
     visitataPersonalmente: true,
     introduzione:
-      'Quattro secoli e mezzo di Portogallo incastrati in trenta chilometri quadrati alla foce del fiume delle Perle: chiese barocche, piazze con il calçada portoghese a onde, cucina macanese, e a duecento metri i casinò più redditizi del mondo, che fatturano più di Las Vegas.',
+      'Quattro secoli e mezzo di Portogallo incastrati in trenta chilometri quadrati alla foce del fiume delle Perle: chiese barocche, piazze con la calçada portoghese a onde, cucina macanese, e a duecento metri i casinò più redditizi del mondo, che fatturano più di Las Vegas.',
     percheAndarci:
       'Perché il centro storico è patrimonio UNESCO e non somiglia a nient\'altro in Asia, e perché il contrasto tra i vicoli coloniali e la striscia dei casinò del Cotai è una delle cose più assurde e memorabili del viaggio.',
     cosaVedere: [
       'Le rovine di San Paolo, la facciata della chiesa gesuita rimasta in piedi da sola dopo l\'incendio del 1835',
-      'Il Senado Square, con la pavimentazione portoghese a onde e le facciate pastello',
+      'Il Largo do Senado, con la pavimentazione portoghese a onde e le facciate pastello',
       'La Fortaleza do Monte e il Museo di Macao',
       'Il quartiere di Taipa Village, con le case-museo color pastello lungo la Rua do Cunha',
       'Il tempio di A-Ma, il più antico della città, da cui deriva il nome Macao',

@@ -22,7 +22,8 @@ export const esperienzeFlorida: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: [],
     tripSlugs: ['florida-360'],
-    imageAlt: 'Il giardino della Hemingway Home a Key West, Florida',
+    imageAlt: 'La casa coloniale di Ernest Hemingway con le verande in ferro battuto tra le palme del giardino, Key West, Florida',
+    immagine: '/images/florida/hemingway-home.jpg',
   },
   {
     slug: 'snorkeling-bahia-honda',
@@ -43,7 +44,8 @@ export const esperienzeFlorida: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: ['Kayak a noleggio (18$/ora doppio, 12$/ora singolo)', 'Diving con Captain Hook Diving a Marathon (80-90$ + attrezzatura)'],
     tripSlugs: ['florida-360'],
-    imageAlt: 'La spiaggia di Bahia Honda State Park con vista sulla Seven Mile Bridge, Florida Keys',
+    imageAlt: 'Vista aerea di Bahia Honda State Park con il vecchio ponte ferroviario interrotto e il mare turchese, Florida Keys',
+    immagine: '/images/florida/snorkeling-bahia-honda.jpg',
   },
   {
     slug: 'everglades-airboat',
@@ -64,7 +66,8 @@ export const esperienzeFlorida: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['Shark Valley in bici o tram, su una strada chiusa alle auto'],
     tripSlugs: ['florida-360'],
-    imageAlt: 'Un airboat che attraversa le paludi delle Everglades, Florida',
+    imageAlt: 'Un airboat carico di turisti che naviga in un canale tra le mangrovie delle Everglades, Florida',
+    immagine: '/images/florida/everglades-airboat.jpg',
   },
   {
     slug: 'parco-tema-orlando',
@@ -83,7 +86,8 @@ export const esperienzeFlorida: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Il complesso alternativo a quello scelto (Universal se si sceglie Disney, o viceversa)'],
     tripSlugs: [],
-    imageAlt: 'Attrazioni illuminate di un parco a tema a Orlando, Florida',
+    imageAlt: 'Il castello di Cenerentola del Magic Kingdom oltre un laghetto e un ponte fiorito, Walt Disney World, Orlando',
+    immagine: '/images/florida/parco-tema-orlando.jpg',
   },
   {
     slug: 'kennedy-space-center',
@@ -104,7 +108,8 @@ export const esperienzeFlorida: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['florida-360'],
-    imageAlt: 'Il razzo Saturn V esposto al Kennedy Space Center, Cape Canaveral, Florida',
+    imageAlt: 'Il razzo Saturn V esposto orizzontalmente nell\'Apollo/Saturn V Center del Kennedy Space Center, Florida',
+    immagine: '/images/florida/kennedy-space-center.jpg',
   },
   {
     slug: 'speedboat-thriller-miami',

@@ -3,8 +3,7 @@ import type { TripMeta } from '@/lib/types'
 // Overlay di metadati strutturati per il viaggio "Giappone in 12 giorni". Il
 // testo narrativo resta nel markdown (src/content/viaggi/05-giappone-360.md).
 // `titoloGiorno` deve combaciare esattamente con le intestazioni "### Giorno N (DD.MM) — ..."
-// del file markdown. Il Giorno 3 (Monte Fuji/Chureito) è una giornata aggiunta
-// editorialmente, non vissuta realmente: statoPernottamento riflette questo.
+// del file markdown.
 
 export const giappone360Meta: TripMeta = {
   tripSlug: 'giappone-360',
@@ -21,7 +20,6 @@ export const giappone360Meta: TripMeta = {
   criticita: [
     'Tokyo viene vissuta solo a spizzichi (arrivo e ultimi due giorni): con più tempo meriterebbe 4-5 giorni pieni',
     'Il ritmo è molto denso, quasi ogni giorno con cambio di città o tappa lunga',
-    'La giornata del Monte Fuji (Giorno 3) è stata aggiunta editorialmente per completare il capitolo Tokyo: non è stata vissuta realmente durante il viaggio',
   ],
   budgetTotale: 'circa 600-750€ per l\'intero soggiorno sul posto, esclusi voli e JR Pass',
   viaggioInBreve: {
@@ -68,8 +66,8 @@ export const giappone360Meta: TripMeta = {
     {
       titoloGiorno: 'Giorno 3 (08.04) — Monte Fuji e Pagoda Chureito',
       tratta: 'Tokyo → Kawaguchiko → Tokyo',
-      pernottamento: 'Agora Place Asakusa (giornata aggiunta editorialmente, non vissuta realmente)',
-      statoPernottamento: 'da-confermare',
+      pernottamento: 'Agora Place Asakusa',
+      statoPernottamento: 'provato',
       intensita: 'intenso',
       costiNoti: 'Treno Fuji Excursion ~4.130 yen (o supplemento Fujikyu ~1.770 yen con JR Pass); onsen ~1.200 yen',
       destinazioneSlug: 'monte-fuji-chureito',

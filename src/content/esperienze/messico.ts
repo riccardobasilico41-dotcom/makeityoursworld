@@ -23,7 +23,8 @@ export const esperienzeMessico: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['messico-beach-life'],
-    imageAlt: 'Squalo balena visto da sott\'acqua al largo di Holbox',
+    imageAlt: 'Uno squalo balena che affiora in superficie nelle acque del Caribe occidentale',
+    immagine: '/images/messico/squalo-balena-holbox.jpg',
   },
   {
     slug: 'bioluminescenza-holbox',
@@ -134,7 +135,8 @@ export const esperienzeMessico: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: [],
     tripSlugs: ['messico-beach-life'],
-    imageAlt: 'Rovine maya di Ek Balam circondate dalla giungla dello Yucatán',
+    imageAlt: 'Un\'iguana nera sulle antiche mura di Ek Balam, con l\'arco maya in pietra sullo sfondo',
+    immagine: '/images/messico/ek-balam-cenote-xcanche.jpg',
   },
   {
     slug: 'tour-barca-bacalar',
@@ -156,7 +158,8 @@ export const esperienzeMessico: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: [],
     tripSlugs: ['messico-beach-life'],
-    imageAlt: 'Barca sulla laguna dai sette colori di Bacalar',
+    imageAlt: 'Le acque turchesi e bianche della laguna di Bacalar a Xul-Ha, dove passano i tour in barca e in kayak',
+    immagine: '/images/messico/tour-barca-bacalar.jpg',
   },
   {
     slug: 'snorkeling-tartarughe-mahahual',
@@ -176,7 +179,8 @@ export const esperienzeMessico: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: [],
     tripSlugs: ['messico-beach-life'],
-    imageAlt: 'Tartaruga marina che nuota in acque turchesi vicino a Mahahual',
+    imageAlt: 'La costa di Mahahual vista dall\'alto, con la barriera corallina e il mare turchese dove si fa snorkeling',
+    immagine: '/images/messico/snorkeling-tartarughe-mahahual.jpg',
   },
   {
     slug: 'rio-lagartos',
@@ -220,7 +224,8 @@ export const esperienzeMessico: Esperienza[] = [
     giudizio: 'bella-non-essenziale',
     alternative: ['Cabo Catoche, per chi cerca più snorkeling e meno "giro turistico"'],
     tripSlugs: ['messico-beach-life'],
-    imageAlt: 'Barca turistica tra le mangrovie durante il tour delle 3 Islas a Holbox',
+    imageAlt: 'Il molo di Holbox con le lance ormeggiate e le palapas sul lungomare, punto di partenza dei tour in barca',
+    immagine: '/images/messico/tour-3-islas-holbox.jpg',
   },
   {
     slug: 'cabo-catoche',

@@ -17,7 +17,7 @@ La Cina classica è il viaggio che tutti immaginano quando pensano alla Cina: la
 - **Moneta:** renminbi/yuan (CNY). A Hong Kong si usa il dollaro di Hong Kong, a Macao la pataca (ma i dollari di Hong Kong sono accettati alla pari).
 - **Pagamenti, il punto critico numero uno:** la Cina continentale vive quasi del tutto senza contanti. **Alipay e WeChat Pay vanno installati, verificati e collegati a una carta Visa o Mastercard prima di partire**, con una connessione stabile e il passaporto a portata di mano: farlo una volta atterrati è molto più difficile. Le carte fisiche si usano solo negli hotel di fascia alta. Per legge i contanti non si possono rifiutare, ma molti piccoli esercenti non hanno il resto: vanno tenuti come riserva, non come metodo. Gli ATM che accettano carte estere esistono (i più affidabili sono Bank of China e ICBC), ma non sono tutti. **Il VPN va spento al momento del pagamento**, altrimenti l'antifrode blocca la transazione.
 - **Connettività, il punto critico numero due:** il Great Firewall blocca Google in ogni sua forma, WhatsApp, Instagram, Facebook, YouTube e gran parte dei siti di informazione. La soluzione più semplice è una **eSIM estera in roaming**, che instrada il traffico fuori dalla Cina e aggira il problema senza bisogno di altro. Una SIM locale costa meno ma passa dal firewall e richiede un VPN, da installare e provare **prima** di partire, perché in Cina gli app store non lo offrono. Da scaricare comunque prima: mappe offline, un traduttore con fotocamera e, per navigare come i locali, Amap.
-- **Treni, il punto critico numero tre:** i biglietti si aprono **esattamente 15 giorni prima della partenza, alle 8 del mattino ora di Pechino**, e sulle tratte più richieste finiscono in poche ore. L'app ufficiale 12306 ha una versione inglese che accetta la registrazione col passaporto e il pagamento con carta estera, ma la verifica dell'account richiede tempo e va fatta con anticipo. In alternativa Trip.com accetta prenotazioni fino a due mesi prima e le converte appena si apre la vendita, con una commissione. Il biglietto è elettronico e legato al passaporto, che diventa il titolo di viaggio: lo si appoggia al lettore del tornello e si passa. In stazione servono 30-40 minuti di margine e i gate chiudono qualche minuto prima della partenza, senza eccezioni.
+- **Treni, il punto critico numero tre:** i biglietti si aprono **15 giorni prima della partenza**, a un orario che cambia da stazione a stazione (lo indica l'app 12306), e sulle tratte più richieste finiscono in poche ore. L'app ufficiale 12306 ha una versione inglese che accetta la registrazione col passaporto e il pagamento con carta estera, ma la verifica dell'account richiede tempo e va fatta con anticipo. In alternativa Trip.com accetta prenotazioni fino a due mesi prima e le converte appena si apre la vendita, con una commissione. Il biglietto è elettronico e legato al passaporto, che diventa il titolo di viaggio: lo si appoggia al lettore del tornello e si passa. In stazione servono 30-40 minuti di margine e i gate chiudono qualche minuto prima della partenza, senza eccezioni.
 - **Prenotazioni obbligatorie:** Città Proibita ed Esercito di Terracotta hanno ingresso nominale legato al passaporto e **biglietterie fisiche chiuse**: senza prenotazione online non si entra. La Città Proibita si esaurisce con giorni di anticipo; l'Esercito di Terracotta apre la vendita appena 7 giorni prima. Il Museo di Storia dello Shaanxi è gratuito, ma le quote giornaliere finiscono in pochi minuti.
 - **Budget indicativo:** fino a Shanghai molto più basso di quanto ci si aspetti: treni 40-90€ a tratta, hotel di buon livello 40-70€, pasti 4-10€. Hong Kong ribalta il conto: è la città più cara del viaggio, soprattutto per gli alloggi.
 - **Lingua:** fuori dagli hotel di fascia alta l'inglese quasi non esiste, molto meno che in Giappone o in Thailandia. Il traduttore con fotocamera è lo strumento che rende autonomi, e l'indirizzo dell'hotel salvato in caratteri cinesi risolve il problema dei taxi.
@@ -34,12 +34,12 @@ La prima giornata l'abbiamo tenuta leggera apposta, perché il fuso si fa sentir
 ### Giorno 2 — Città Proibita, Tiananmen e Jingshan
 Siamo entrati nella **Città Proibita** all'apertura, con la prenotazione fatta da settimane e il passaporto in mano: senza, non si entra. Il percorso è a senso unico da sud a nord. Conviene lasciare presto l'asse centrale, dove cammina il novanta per cento dei visitatori, e infilarsi nei cortili laterali a est, dove le sale sono piccole e quasi vuote.
 
-Usciti dal cancello nord, abbiamo attraversato la strada e salito i gradini della **collina di Jingshan**: dieci minuti di salita e si ha tutto il complesso sotto, con i tetti dorati allineati fino a Tiananmen. Quasi nessuno abbina questo passaggio alla visita, eppure senza l'impianto del palazzo resta incomprensibile.
+Usciti dal cancello nord, abbiamo attraversato la strada e salito i gradini della **collina di Jingshan**: dieci minuti di salita e si ha tutto il complesso sotto, con i tetti dorati allineati fino a Tiananmen. Quasi nessuno abbina questo passaggio alla visita, eppure senza questa vista l'impianto del palazzo resta incomprensibile.
 
 Il pomeriggio a **Piazza Tiananmen** (controlli di sicurezza all'ingresso, serve il passaporto) e, la sera, anatra laccata in un locale che la fa per mestiere.
 
 ### Giorno 3 — La Grande Muraglia a Jinshanling
-Giornata intera: partenza al mattino presto e circa 2h30 di trasferimento. **Jinshanling** è il tratto non restaurato più accessibile da Pechino, una decina di chilometri di cinta lungo un crinale, con torri di guardia mezze crollate ed erba tra le pietre.
+Giornata intera: partenza al mattino presto e circa 2h30 di trasferimento. **Jinshanling** è il tratto solo in parte restaurato più accessibile da Pechino, una decina di chilometri di cinta lungo un crinale, con torri di guardia mezze crollate ed erba tra le pietre.
 
 Si cammina 3-4 ore su gradini irregolari, senza un metro d'ombra e senza punti di ristoro: acqua, cappello e scarpe con una buona suola sono obbligatori. In cambio, dopo mezz'ora di cammino ci si volta e non c'è nessuno.
 
@@ -105,7 +105,7 @@ A un certo punto della giornata, poi, la traversata del porto sullo **Star Ferry
 ### Giorno 13 — Macao in giornata
 Per arrivare c'è il **traghetto veloce da Hong Kong (circa un'ora)** o l'autobus attraverso il ponte Hong Kong-Zhuhai-Macao, il ponte marittimo più lungo del mondo. Nuovo controllo passaporti in entrambe le direzioni.
 
-La mattina nel **centro storico UNESCO**: le rovine di San Paolo, il Senado Square con la pavimentazione portoghese a onde, la Fortaleza do Monte, il tempio di A-Ma. Si fa tutto a piedi in mezza giornata, ed è più piccolo di quanto ci si aspetti.
+La mattina nel **centro storico UNESCO**: le rovine di San Paolo, il Largo do Senado con la pavimentazione portoghese a onde, la Fortaleza do Monte, il tempio di A-Ma. Si fa tutto a piedi in mezza giornata, ed è più piccolo di quanto ci si aspetti.
 
 Pranzo **macanese**, la cucina di fusione più antica del mondo (galinha à africana, minchi, pastéis de nata), meglio a **Taipa Village**, lungo la Rua do Cunha.
 
@@ -116,7 +116,7 @@ La sera siamo rientrati a Hong Kong.
 ### Giorno 14 — Lantau e la Hong Kong che non ci si aspetta
 La mattina sull'isola di **Lantau**: funivia panoramica di Ngong Ping, Grande Buddha e il villaggio di pescatori su palafitte di **Tai O**.
 
-In alternativa, per chi preferisce camminare, c'è il **Dragon's Back**: un sentiero panoramico sopra la costa sud, a mezz'ora di metropolitana dal centro finanziario, con il mare sotto e nessun palazzo in vista. È la metà di Hong Kong che nessuno mette in programma.
+In alternativa, per chi preferisce camminare, c'è il **Dragon's Back**: un sentiero panoramico sopra la costa sud, a mezz'ora tra metropolitana e autobus dal centro finanziario, con il mare sotto e nessun palazzo in vista. È la metà di Hong Kong che nessuno mette in programma.
 
 Ultima cena con l'**oca arrosto** cantonese, tra le cose migliori mangiate in tutto il viaggio.
 
@@ -153,7 +153,7 @@ Airport Express da Hong Kong Central all'aeroporto in 24 minuti. Chi ha il volo 
 ## Consigli pratici / errori da non ripetere
 - **Fare tutte le configurazioni da casa.** Alipay o WeChat Pay verificati e collegati a una carta, eSIM o VPN installato e provato, account 12306 attivo, mappe offline e traduttore scaricati. È la differenza tra cominciare a viaggiare il primo giorno o il quarto.
 - **Prenotare Città Proibita ed Esercito di Terracotta come si prenota un volo.** Biglietterie fisiche chiuse, ingresso nominale legato al passaporto, quote giornaliere che si esauriscono. Sul posto non c'è un piano B.
-- **Mettere in agenda l'apertura dei biglietti dei treni:** 15 giorni prima, alle 8 ora di Pechino. Chi non vuole pensarci usi Trip.com e paghi la commissione.
+- **Mettere in agenda l'apertura dei biglietti dei treni:** 15 giorni prima, all'orario di apertura della stazione di partenza indicato su 12306. Chi non vuole pensarci usi Trip.com e paghi la commissione.
 - **Spegnere il VPN prima di pagare**, o l'antifrode blocca la transazione e a volte l'account.
 - **Non seguire mai in un locale chi ti ferma per strada.** La cerimonia del tè e la mostra dello "studente d'arte" sono ancora le truffe più efficaci del paese.
 - **Non concentrare Città Proibita, Tempio del Cielo e Palazzo d'Estate nello stesso giorno.** Pechino è enorme e le distanze sulla mappa ingannano.

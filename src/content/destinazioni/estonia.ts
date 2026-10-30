@@ -56,6 +56,7 @@ export const destinazioniEstonia: Destinazione[] = [
     ],
     esperienzeSlugs: ['tallinn-kadriorg-kumu', 'tallinn-telliskivi-creative-city'],
     tripSlugs: ['capitali-baltiche'],
-    imageAlt: 'La Piazza del Municipio di Tallinn con il Municipio medievale e le guglie della Città Vecchia sullo sfondo',
+    imageAlt: 'Le case medievali color pastello con i tetti a punta sul lato est della Piazza del Municipio di Tallinn, con i tavolini dei caffè all\'aperto',
+    immagine: '/images/estonia/tallinn.jpg',
   },
 ]

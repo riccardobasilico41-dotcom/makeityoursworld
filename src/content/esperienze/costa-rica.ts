@@ -22,7 +22,8 @@ export const esperienzeCostaRica: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['costa-rica-360'],
-    imageAlt: 'Il Parco Nazionale di Cahuita sulla costa caraibica della Costa Rica',
+    imageAlt: 'Spiaggia e acque trasparenti sulla barriera corallina del Parco Nazionale di Cahuita, costa caraibica della Costa Rica',
+    immagine: '/images/costa-rica/tour-cahuita.jpg',
   },
   {
     slug: 'barca-tortuguero',
@@ -43,7 +44,8 @@ export const esperienzeCostaRica: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['costa-rica-360'],
-    imageAlt: 'Una barca che naviga tra i canali di giungla verso Tortuguero, Costa Rica',
+    imageAlt: 'Una barca che naviga in un canale tra la giungla del Parco Nazionale di Tortuguero, Costa Rica',
+    immagine: '/images/costa-rica/barca-tortuguero.jpg',
   },
   {
     slug: 'kayak-tortuguero',
@@ -106,7 +108,8 @@ export const esperienzeCostaRica: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['Termalitas de Arenal, a pagamento ma con servizi extra come il barbecue'],
     tripSlugs: ['costa-rica-360'],
-    imageAlt: 'Le sorgenti termali naturali di El Choyin vicino ad Arenal, Costa Rica',
+    imageAlt: 'La Cascada de La Fortuna che precipita nella foresta pluviale vicino ad Arenal, Costa Rica',
+    immagine: '/images/costa-rica/cascata-fortuna-termales.jpg',
   },
   {
     slug: 'camminata-notturna-monteverde',
@@ -148,7 +151,8 @@ export const esperienzeCostaRica: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: [],
     tripSlugs: ['costa-rica-360'],
-    imageAlt: 'Una linea di zipline sopra la foresta nebulosa di Monteverde, Costa Rica',
+    imageAlt: 'Un ponte sospeso sopra la foresta nebulosa nel parco avventura Sky Monteverde, Costa Rica',
+    immagine: '/images/costa-rica/zipline-monteverde.jpg',
   },
   {
     slug: 'whale-watching-uvita',
@@ -169,7 +173,8 @@ export const esperienzeCostaRica: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: [],
     tripSlugs: ['costa-rica-360'],
-    imageAlt: 'Una barca per il whale watching al largo della costa di Uvita, Costa Rica',
+    imageAlt: 'La spiaggia del Parque Nacional Marino Ballena a Uvita con le montagne della costa pacifica, Costa Rica',
+    immagine: '/images/costa-rica/whale-watching-uvita.jpg',
   },
   {
     slug: 'parco-manuel-antonio',
@@ -190,6 +195,7 @@ export const esperienzeCostaRica: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['costa-rica-360'],
-    imageAlt: 'Un bradipo tra gli alberi del Parco Nazionale Manuel Antonio, Costa Rica',
+    imageAlt: 'Una spiaggia tra gli scogli e la foresta nel Parco Nazionale Manuel Antonio, Costa Rica',
+    immagine: '/images/costa-rica/parco-manuel-antonio.jpg',
   },
 ]

@@ -87,7 +87,8 @@ export const destinazioniLituania: Destinazione[] = [
     ],
     esperienzeSlugs: ['uzupis-repubblica-passeggiata'],
     tripSlugs: ['capitali-baltiche'],
-    imageAlt: 'Il centro storico barocco di Vilnius visto dalla Torre di Gediminas, con i campanili delle chiese tra i tetti rossi',
+    imageAlt: 'Il centro storico di Vilnius tra il verde, con le cupole e i tetti delle chiese e la collina della Torre di Gediminas sullo sfondo',
+    immagine: '/images/lituania/vilnius.jpg',
   },
   {
     slug: 'trakai',

@@ -855,7 +855,7 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       licenza: 'CC BY-SA 4.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:%C3%85_i_Lofoten,_Northeast_view_20150608_1.jpg',
     },
-    'Giorno 7 — Bødø e rientro a Oslo': {
+    'Giorno 7 — Bodø e rientro a Oslo': {
       autore: 'Frankemann (Wikimedia Commons)',
       licenza: 'CC BY-SA 4.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Apparent_whirlpools_of_Saltstraumen_seen_from_the_air.jpg',
@@ -1076,7 +1076,7 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       licenza: 'CC BY-SA 4.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Etna_craters_near_Sapienza.jpg',
     },
-    "Giorno 3 — Taormina e i Gole dell'Alcantara": {
+    "Giorno 3 — Taormina e le Gole dell'Alcantara": {
       autore: 'Grey48 (Wikimedia Commons)',
       licenza: 'CC0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Sicily_Taormina_Teatro_Greco_Etna.jpg',

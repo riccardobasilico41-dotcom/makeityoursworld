@@ -19,14 +19,14 @@ export const cinaClassicaMeta: TripMeta = {
     'chi è disposto a organizzare prenotazioni e pagamenti prima di partire',
   ],
   puntiForti: [
-    'La Grande Muraglia a Jinshanling, non restaurata e quasi deserta',
+    'La Grande Muraglia a Jinshanling, restaurata solo in parte e quasi deserta',
     'I giardini classici di Suzhou in un giorno feriale, a 25 minuti di treno da Shanghai',
     'La chiusura su Hong Kong e Macao, che sono Cina solo sulla carta',
   ],
   criticita: [
     'Tutta la preparazione è concentrata prima della partenza: pagamenti, connettività, account per i treni e prenotazioni dei musei vanno sistemati da casa, o si perdono i primi giorni',
     'Città Proibita ed Esercito di Terracotta hanno biglietterie fisiche chiuse e quote giornaliere: senza prenotazione non esiste un piano B in loco',
-    'I biglietti dei treni si aprono 15 giorni prima alle 8 ora di Pechino e sulle tratte forti si esauriscono in poche ore',
+    'I biglietti dei treni si aprono 15 giorni prima, a un orario diverso per ogni stazione, e sulle tratte forti si esauriscono in poche ore',
     'Hong Kong ribalta il budget: è di gran lunga la tappa più cara, soprattutto sugli alloggi',
   ],
   budgetTotale: undefined,

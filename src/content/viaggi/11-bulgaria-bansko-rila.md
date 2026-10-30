@@ -37,7 +37,7 @@ Siamo arrivati in hotel nel tardo pomeriggio e abbiamo fatto un primo giro nel c
 Cena di benvenuto in una **mehana** tipica: **kapama** (stufato di carne e verdure cotto a lungo in una pentola di coccio), **banitsa** (sfoglia ripiena di formaggio), **shopska salata** (pomodori, cetrioli, cipolla e formaggio grattugiato, l'insalata nazionale) e la **rakia**, il distillato di frutta che non manca a nessun pasto.
 
 ### Giorno 2-4 — Sci sulle piste di Bansko
-Abbiamo passato tre giornate piene sulle piste di **Bansko Ski Zone**: circa 70-75 km di piste distribuite su tre stazioni (Bunderishka Polyana, Chalin Valog e Shiligarnika), collegate da una gondola a 8 posti che sale da 990 a 1.660 metri, fino a un'altitudine massima di 2.560 metri sul Todorka Peak.
+Abbiamo passato tre giornate piene sulle piste di **Bansko Ski Zone**: circa 70-75 km di piste distribuite su tre stazioni (Banderishka Polyana, Chalin Valog e Shiligarnika), collegate da una gondola a 8 posti che sale da 990 a 1.660 metri, fino a un'altitudine massima di 2.560 metri sul Todorka Peak.
 
 Ci sono piste per tutti i livelli: blu per principianti (zona scuola sci a Banderishka Polyana), diverse rosse e due nere, tra cui la pista del Todorka, la più impegnativa del comprensorio, con vista sui Pirin. La lunga pista a valle (circa 7,5 km) che scende fino al centro di Bansko, illuminata una volta a settimana per lo sci notturno, è rimasta il momento più bello delle giornate sulla neve.
 

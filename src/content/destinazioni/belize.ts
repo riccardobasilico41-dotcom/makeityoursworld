@@ -46,7 +46,8 @@ export const destinazioniBelize: Destinazione[] = [
       'Il "Go Slow" scritto ovunque non è uno slogan per cartoline: sull\'isola non ci sono auto, si cammina su sabbia e in due giorni il ritmo cala da solo. La delusione possibile, ed è bene saperla prima, è la spiaggia: non ce n\'è quasi, la costa è mangrovia e pontili e in acqua si entra dai moli o al Split. Chi arriva con in testa i Caraibi da cartolina resta spiazzato per mezza giornata, poi capisce che il mare qui si fa al largo. E al largo c\'è la seconda barriera del mondo: mezz\'ora di barca e a Shark Ray Alley si sta in acqua con gli squali nutrice che passano a mezzo metro senza dare il minimo peso a chi guarda. Il Belize costa quasi il doppio del Guatemala vicino, e questa è l\'unica vera controindicazione.',
     esperienzeSlugs: ['hol-chan-shark-ray-alley'],
     tripSlugs: ['centro-america-itinerario'],
-    imageAlt: 'Pontile di legno e acqua turchese a Caye Caulker, Belize',
+    imageAlt: 'Riva con palme, pontili di legno e acqua bassa a Caye Caulker, Belize',
+    immagine: '/images/belize/caye-caulker.jpg',
   },
   {
     slug: 'ambergris-caye',
@@ -86,7 +87,8 @@ export const destinazioniBelize: Destinazione[] = [
       'Ambergris è la versione comoda di Caye Caulker: più ristoranti, più diving center, più carretti da golf che passano di continuo, e prezzi che ricordano la Florida più dei Caraibi. Ha senso come base se le immersioni sono il motivo del viaggio, meno se si cerca l\'atmosfera. Sul Blue Hole va detta una cosa impopolare: costa parecchio, richiede una giornata lunga in mare aperto e sott\'acqua è un muro blu con qualche stalattite e poco pesce — chi ci va aspettandosi il reef migliore del viaggio sbaglia meta. La foto famosa, quella del cerchio perfetto, è dall\'aereo: il volo panoramico costa molto meno ed è più fedele a quello che ci si immaginava.',
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],
-    imageAlt: 'Carretti da golf e case colorate lungo il fronte mare di San Pedro, Ambergris Caye, Belize',
+    imageAlt: 'Un caffè in una casa gialla con portici lungo una strada di San Pedro, Ambergris Caye, Belize',
+    immagine: '/images/belize/ambergris-caye.jpg',
   },
   {
     slug: 'san-ignacio-cayo',
@@ -128,7 +130,8 @@ export const destinazioniBelize: Destinazione[] = [
       'La grotta ATM è la cosa più impressionante fatta in Centro America e non è per tutti. Si entra a nuoto in un fiume sotterraneo, si prosegue per ore in acqua fredda, tra passaggi in cui bisogna girarsi di lato, e alla fine si tolgono le scarpe per camminare in calzini nella camera superiore. Lì dentro ci sono ceramiche intatte e resti umani lasciati esattamente dove i maya li avevano deposti più di mille anni fa, la Cristallina compresa. Nessuna fotografia — sono vietate da quando una macchina caduta ha danneggiato un cranio — ed è la ragione per cui il posto funziona così bene: si guarda e basta. Chi ha problemi con spazi stretti o acqua fredda scelga Xunantunich, che è bello e sta all\'aperto.',
     esperienzeSlugs: ['grotta-atm'],
     tripSlugs: ['centro-america-itinerario'],
-    imageAlt: 'Ingresso della giungla verso la grotta di Actun Tunichil Muknal nel distretto del Cayo, Belize',
+    imageAlt: 'La piramide El Castillo del sito maya di Xunantunich, vicino a San Ignacio nel distretto del Cayo, Belize',
+    immagine: '/images/belize/san-ignacio-cayo.jpg',
   },
   {
     slug: 'placencia-hopkins',
@@ -168,6 +171,7 @@ export const destinazioniBelize: Destinazione[] = [
       'È la parte di Belize dove finalmente c\'è la sabbia che sulle isole manca: Placencia ha chilometri di spiaggia vera e un camminamento pedonale che attraversa tutto il villaggio, e in bassa stagione ci si trova quasi soli. Ma la cosa che distingue questo tratto di costa è Hopkins, ed è culturale più che balneare: i garifuna discendono da africani mai stati schiavi, deportati qui dai Caraibi orientali, e hanno lingua, cucina e percussioni proprie, riconosciute dall\'UNESCO. Una lezione di tamburo con un maestro del villaggio dice più di qualsiasi museo. Sugli squali balena a Gladden Spit meglio essere onesti: dipendono dalle lune piene tra marzo e giugno, e costruirci sopra l\'itinerario è il modo migliore per restare delusi.',
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],
-    imageAlt: 'Palme e sabbia bianca sulla penisola di Placencia, Belize',
+    imageAlt: 'Palme, sabbia bianca e mare turchese sulla spiaggia di Placencia, Belize',
+    immagine: '/images/belize/placencia-hopkins.jpg',
   },
 ]

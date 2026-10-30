@@ -48,6 +48,7 @@ export const belize: Paese = {
     aggiornatoAl: 'settembre 2026',
   },
   stileViaggio: ['mare', 'diving', 'grotte', 'cultura maya'],
-  heroImageAlt: 'Il Great Blue Hole visto dall\'alto, al largo della costa del Belize',
+  heroImageAlt: 'Pontile di legno con una barca e una goletta a vela sul mare dei Caraibi a Caye Caulker, Belize',
+  heroImage: '/images/belize/belize-paese.jpg',
   tripPrincipaleSlug: 'centro-america-itinerario',
 }
