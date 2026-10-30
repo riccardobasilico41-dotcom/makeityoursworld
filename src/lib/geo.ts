@@ -194,11 +194,44 @@ import { spagnaNordItinerarioMeta } from '@/content/viaggi-dati/spagna-nord-itin
 import { baleariItinerarioMeta } from '@/content/viaggi-dati/baleari-itinerario'
 import { canarieItinerarioMeta } from '@/content/viaggi-dati/canarie-itinerario'
 import { getViaggioBySlug, type Viaggio } from './viaggi'
+import { egitto } from '@/content/paesi/egitto'
+import { turchia } from '@/content/paesi/turchia'
+import { filippine } from '@/content/paesi/filippine'
+import { california } from '@/content/paesi/california'
+import { brasile } from '@/content/paesi/brasile'
+import { croazia } from '@/content/paesi/croazia'
+import { india } from '@/content/paesi/india'
+import { maldive } from '@/content/paesi/maldive'
+import { montenegro } from '@/content/paesi/montenegro'
+import { destinazioniEgitto } from '@/content/destinazioni/egitto'
+import { destinazioniTurchia } from '@/content/destinazioni/turchia'
+import { destinazioniFilippine } from '@/content/destinazioni/filippine'
+import { destinazioniCalifornia } from '@/content/destinazioni/california'
+import { destinazioniBrasile } from '@/content/destinazioni/brasile'
+import { destinazioniCroazia } from '@/content/destinazioni/croazia'
+import { destinazioniIndia } from '@/content/destinazioni/india'
+import { destinazioniMaldive } from '@/content/destinazioni/maldive'
+import { destinazioniMontenegro } from '@/content/destinazioni/montenegro'
+import { destinazioniMessicoCentroBaja } from '@/content/destinazioni/messico-centro-baja'
+import { messicoDiaDeLosMuertosMeta } from '@/content/viaggi-dati/messico-dia-de-los-muertos'
+import { messicoCdmxBajaCaliforniaMeta } from '@/content/viaggi-dati/messico-cdmx-baja-california'
+import { brasileItinerarioMeta } from '@/content/viaggi-dati/brasile-itinerario'
+import { croaziaItinerarioMeta } from '@/content/viaggi-dati/croazia-itinerario'
+import { montenegroItinerarioMeta } from '@/content/viaggi-dati/montenegro-itinerario'
+import { egittoMareLuxorCairoMeta } from '@/content/viaggi-dati/egitto-mare-luxor-cairo'
+import { egittoCompletoMeta } from '@/content/viaggi-dati/egitto-completo'
+import { turchiaItinerarioMeta } from '@/content/viaggi-dati/turchia-itinerario'
+import { filippineItinerarioMeta } from '@/content/viaggi-dati/filippine-itinerario'
+import { californiaRoadTripMeta } from '@/content/viaggi-dati/california-road-trip'
+import { indiaRajasthan10GiorniMeta } from '@/content/viaggi-dati/india-rajasthan-10-giorni'
+import { indiaRajasthanVaranasiMeta } from '@/content/viaggi-dati/india-rajasthan-varanasi'
+import { indiaSudTajMahalMeta } from '@/content/viaggi-dati/india-sud-taj-mahal'
+import { maldiveGuidaMeta } from '@/content/viaggi-dati/maldive-guida'
 
 // Registro dei Paesi disponibili. Aggiungere un nuovo Paese = aggiungere una
 // riga qui più i relativi file in src/content/{paesi,destinazioni,esperienze}.
-const PAESI: Paese[] = [italia, messico, norvegia, islanda, svezia, giordania, sriLanka, giappone, thailandia, marocco, newYork, florida, transilvania, bulgaria, costaRica, indonesia, guatemala, belize, panama, peru, bolivia, cina, coreaDelSud, malesia, borneo, singapore, emiratiArabiUniti, qatar, arabiaSaudita, francia, polonia, svizzera, paesiBassi, portogallo, repubblicaCeca, austria, ungheria, germania, lituania, lettonia, estonia, danimarca, spagna]
-const DESTINAZIONI: Destinazione[] = [...destinazioniMessico, ...destinazioniNorvegia, ...destinazioniIslanda, ...destinazioniSvezia, ...destinazioniGiordania, ...destinazioniSriLanka, ...destinazioniGiappone, ...destinazioniThailandia, ...destinazioniMarocco, ...destinazioniNewYork, ...destinazioniFlorida, ...destinazioniTransilvania, ...destinazioniBulgaria, ...destinazioniCostaRica, ...destinazioniIndonesia, ...destinazioniGuatemala, ...destinazioniBelize, ...destinazioniPanama, ...destinazioniPeru, ...destinazioniBolivia, ...destinazioniCina, ...destinazioniCoreaDelSud, ...destinazioniMalesia, ...destinazioniBorneo, ...destinazioniSingapore, ...destinazioniEmiratiArabiUniti, ...destinazioniQatar, ...destinazioniArabiaSaudita, ...destinazioniItalia, ...destinazioniFrancia, ...destinazioniPolonia, ...destinazioniSvizzera, ...destinazioniPaesiBassi, ...destinazioniPortogallo, ...destinazioniRepubblicaCeca, ...destinazioniAustria, ...destinazioniUngheria, ...destinazioniGermania, ...destinazioniLituania, ...destinazioniLettonia, ...destinazioniEstonia, ...destinazioniDanimarca, ...destinazioniSpagna]
+const PAESI: Paese[] = [italia, messico, norvegia, islanda, svezia, giordania, sriLanka, giappone, thailandia, marocco, newYork, florida, transilvania, bulgaria, costaRica, indonesia, guatemala, belize, panama, peru, bolivia, cina, coreaDelSud, malesia, borneo, singapore, emiratiArabiUniti, qatar, arabiaSaudita, francia, polonia, svizzera, paesiBassi, portogallo, repubblicaCeca, austria, ungheria, germania, lituania, lettonia, estonia, danimarca, spagna, egitto, turchia, filippine, california, brasile, croazia, india, maldive, montenegro]
+const DESTINAZIONI: Destinazione[] = [...destinazioniMessico, ...destinazioniNorvegia, ...destinazioniIslanda, ...destinazioniSvezia, ...destinazioniGiordania, ...destinazioniSriLanka, ...destinazioniGiappone, ...destinazioniThailandia, ...destinazioniMarocco, ...destinazioniNewYork, ...destinazioniFlorida, ...destinazioniTransilvania, ...destinazioniBulgaria, ...destinazioniCostaRica, ...destinazioniIndonesia, ...destinazioniGuatemala, ...destinazioniBelize, ...destinazioniPanama, ...destinazioniPeru, ...destinazioniBolivia, ...destinazioniCina, ...destinazioniCoreaDelSud, ...destinazioniMalesia, ...destinazioniBorneo, ...destinazioniSingapore, ...destinazioniEmiratiArabiUniti, ...destinazioniQatar, ...destinazioniArabiaSaudita, ...destinazioniItalia, ...destinazioniFrancia, ...destinazioniPolonia, ...destinazioniSvizzera, ...destinazioniPaesiBassi, ...destinazioniPortogallo, ...destinazioniRepubblicaCeca, ...destinazioniAustria, ...destinazioniUngheria, ...destinazioniGermania, ...destinazioniLituania, ...destinazioniLettonia, ...destinazioniEstonia, ...destinazioniDanimarca, ...destinazioniSpagna, ...destinazioniEgitto, ...destinazioniTurchia, ...destinazioniFilippine, ...destinazioniCalifornia, ...destinazioniBrasile, ...destinazioniCroazia, ...destinazioniIndia, ...destinazioniMaldive, ...destinazioniMontenegro, ...destinazioniMessicoCentroBaja]
 const ESPERIENZE: Esperienza[] = [...esperienzeMessico, ...esperienzeNorvegia, ...esperienzeIslanda, ...esperienzeSvezia, ...esperienzeGiordania, ...esperienzeSriLanka, ...esperienzeGiappone, ...esperienzeThailandia, ...esperienzeMarocco, ...esperienzeNewYork, ...esperienzeFlorida, ...esperienzeTransilvania, ...esperienzeBulgaria, ...esperienzeCostaRica, ...esperienzeIndonesia, ...esperienzeGuatemala, ...esperienzeBelize, ...esperienzePanama, ...esperienzePeru, ...esperienzeBolivia, ...esperienzeCina, ...esperienzeCoreaDelSud, ...esperienzeMalesia, ...esperienzeBorneo, ...esperienzeSingapore, ...esperienzeEmiratiArabiUniti, ...esperienzeQatar, ...esperienzeArabiaSaudita, ...esperienzeItalia, ...esperienzeFrancia, ...esperienzePolonia, ...esperienzeSvizzera, ...esperienzePaesiBassi, ...esperienzePortogallo, ...esperienzeRepubblicaCeca, ...esperienzeAustria, ...esperienzeUngheria, ...esperienzeGermania, ...esperienzeLituania, ...esperienzeLettonia, ...esperienzeEstonia, ...esperienzeDanimarca, ...esperienzeSpagna]
 
 const TRIP_META: TripMeta[] = [
@@ -267,6 +300,20 @@ const TRIP_META: TripMeta[] = [
   spagnaNordItinerarioMeta,
   baleariItinerarioMeta,
   canarieItinerarioMeta,
+  messicoDiaDeLosMuertosMeta,
+  messicoCdmxBajaCaliforniaMeta,
+  brasileItinerarioMeta,
+  croaziaItinerarioMeta,
+  montenegroItinerarioMeta,
+  egittoMareLuxorCairoMeta,
+  egittoCompletoMeta,
+  turchiaItinerarioMeta,
+  filippineItinerarioMeta,
+  californiaRoadTripMeta,
+  indiaRajasthan10GiorniMeta,
+  indiaRajasthanVaranasiMeta,
+  indiaSudTajMahalMeta,
+  maldiveGuidaMeta,
 ]
 
 export function getAllPaesi(): Paese[] {
