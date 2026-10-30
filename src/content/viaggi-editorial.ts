@@ -85,7 +85,7 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
       "Otto giorni da Amman ad Aqaba: Jerash, il Mar Morto, Petra quasi vuota e il Capodanno nel Wadi Rum. Tappe, cene, transfer e come usare il Jordan Pass.",
     socialTitle: "Petra quasi deserta a Capodanno: la Giordania in 8 giorni, tappa per tappa",
     editorialHook:
-      "Il Jordan Pass include il visto e gli ingressi a Petra, Jerash e Wadi Rum, ma vale solo se si resta almeno 3 notti.",
+      "Il Jordan Pass include il visto e gli ingressi a Petra, Jerash e Wadi Rum, ma il visto è gratis solo se si restano almeno 2 notti consecutive.",
     editorialHookType: 'before-you-go',
   },
   'sri-lanka-2023': {

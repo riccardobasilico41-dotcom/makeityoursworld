@@ -94,7 +94,7 @@ export const meraviglie: Meraviglia[] = [
     comeSpostarsi:
       'All\'interno del sito si cammina molto (fino a 8 km andata e ritorno per il Monastero). Sono disponibili a pagamento carrozza fino all\'inizio del Siq, cavallo per il primo tratto del Siq (incluso nel biglietto solo per un breve tratto), asino o cammello per tratti più lunghi — tutti opzionali e spesso oggetto di richieste di mance oltre l\'accordo iniziale.',
     prenotazione:
-      'Il Jordan Pass (acquistabile online prima del viaggio) copre il visto d\'ingresso in Giordania e l\'accesso a Petra ed è conveniente per chi resta almeno 3 notti nel paese. In alternativa si acquista il biglietto direttamente in loco (1, 2 o 3 giorni), senza necessità di prenotazione anticipata per l\'ingresso diurno.',
+      'Il Jordan Pass (acquistabile online prima del viaggio) copre il visto d\'ingresso in Giordania e l\'accesso a Petra ed è conveniente per chi resta almeno 2 notti consecutive nel paese. In alternativa si acquista il biglietto direttamente in loco (1, 2 o 3 giorni), senza necessità di prenotazione anticipata per l\'ingresso diurno.',
     prezzi:
       'Con Jordan Pass, l\'ingresso è incluso (il pass stesso costa circa 70 JOD per la versione 1 giorno, 75 JOD per 2 giorni, 80 JOD per 3 giorni, indicativo, soggetto a revisione periodica). Senza pass: circa 50 JOD per 1 giorno, 55 JOD per 2 giorni, 60 JOD per 3 giorni (tariffe più alte per chi non pernotta in Giordania). "Petra by Night" è un biglietto separato, circa 30 JOD (prezzo salito negli ultimi anni, indicativo).',
     tourOAutonomo:

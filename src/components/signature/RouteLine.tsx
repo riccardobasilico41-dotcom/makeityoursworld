@@ -84,7 +84,7 @@ export function RouteLine({
         />
         {punti.map((p, i) => (
           <motion.circle
-            key={p.nome}
+            key={`${p.nome}-${i}`}
             cx={p.x}
             cy={p.y}
             r={0.9}
@@ -100,7 +100,7 @@ export function RouteLine({
       </svg>
 
       <ul className="mt-3 flex flex-wrap gap-x-6 gap-y-2">
-        {punti.map((p) => {
+        {punti.map((p, i) => {
           const contenuto = (
             <>
               <span className={`font-display text-sm font-medium ${labelClassName}`}>{p.nome}</span>
@@ -112,7 +112,7 @@ export function RouteLine({
             </>
           )
           return (
-            <li key={p.nome}>
+            <li key={`${p.nome}-${i}`}>
               {p.destinazioneSlug && paeseSlug ? (
                 <Link
                   href={`/destinazioni/${paeseSlug}/${p.destinazioneSlug}`}

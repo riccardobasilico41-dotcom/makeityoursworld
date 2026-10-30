@@ -12,7 +12,7 @@ export const giordania: Paese = {
   budgetIndicativo: 'attività ed extra gestiti tramite un DMC locale, alcolici da acquistare prima delle zone conservatrici o del deserto',
   scheda: {
     documenti:
-      'Passaporto con almeno 6 mesi di validità. Il visto si può ottenere all\'arrivo in aeroporto, ma la scelta sensata per quasi tutti è il Jordan Pass, da acquistare online prima di partire: costa tra 70 e 80 JOD (90-100€ circa) secondo la formula, include il visto d\'ingresso e l\'accesso a oltre quaranta siti tra cui Petra, Jerash e Wadi Rum. Conviene a patto di restare almeno 3 notti nel paese.',
+      'Passaporto con almeno 6 mesi di validità. Il visto si può ottenere all\'arrivo in aeroporto, ma la scelta sensata per quasi tutti è il Jordan Pass, da acquistare online prima di partire: costa tra 70 e 80 JOD (90-100€ circa) secondo la formula, include il visto d\'ingresso e l\'accesso a oltre quaranta siti tra cui Petra, Jerash e Wadi Rum. Conviene a patto di restare almeno 2 notti consecutive nel paese.',
     valuta: 'Dinaro giordano (JOD), agganciato al dollaro: 1 JOD vale indicativamente 1,20-1,30€. È una delle valute più forti della regione, quindi le cifre ingannano — sembrano piccole ma non lo sono.',
     pagamenti:
       'Carte accettate in hotel, ristoranti e negozi delle città. Servono contanti per i campi tendati di Wadi Rum, i beduini, le mance e i piccoli acquisti. Gli alcolici si comprano solo in negozi specializzati: conviene fare scorta prima di spostarsi verso il deserto o le zone più conservatrici.',

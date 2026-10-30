@@ -25,7 +25,7 @@ Petra è uno dei siti più visitati al mondo, ma quel Capodanno l'ho attraversat
   Nebo, Petra): per le sere in tenda servono strati pesanti.
 - **Documenti/visto:** Jordan Pass, molto consigliato. Include il visto
   d'ingresso e gli ingressi ai principali siti (Petra, Jerash, Karak, Wadi
-  Rum), a patto di restare in Giordania almeno 3 notti.
+  Rum), a patto di restare in Giordania almeno 2 notti consecutive.
 - **Periodo particolare:** viaggio fatto subito dopo l'inizio del conflitto tra
   Israele e Palestina (ottobre 2023). Il turismo verso la Giordania era
   crollato per paura della vicinanza geografica, anche se il paese non era
@@ -161,7 +161,7 @@ Check-out, saluti e poi in Uber o in taxi verso l'aeroporto. Se il volo lo perme
 
 ## Consigli pratici / cosa mettere in valigia
 - **Jordan Pass**: da comprare in anticipo. Copre visto e ingressi ai
-  principali siti, ma conviene solo se si resta almeno 3 notti in Giordania.
+  principali siti, ma conviene solo se si restano almeno 2 notti consecutive in Giordania.
 - **Strati pesanti per la sera**: le notti nel deserto di Wadi Rum e in quota
   (Monte Nebo, Petra) sono fredde anche se le giornate sono miti.
 - **Alcolici**: vanno comprati nei negozi specializzati (Soho, Hangover a

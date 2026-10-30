@@ -11,6 +11,7 @@ import { DestinationCard } from '@/components/DestinationCard'
 import { ExperienceCard } from '@/components/ExperienceCard'
 import { PracticalInfo } from '@/components/ui/PracticalInfo'
 import { CountrySheet } from '@/components/CountrySheet'
+import { MappaPaeseSezione } from '@/components/MappaPaeseSezione'
 import { JsonLd } from '@/components/JsonLd'
 import { breadcrumbJsonLd } from '@/lib/structured-data'
 import { getAllPaesi, getPaese, getDestinazioniByPaese, getEsperienzeByPaese, getTripMeta } from '@/lib/geo'
@@ -145,6 +146,14 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
           </Container>
         </section>
       )}
+
+      {/* Mappa: destinazioni ed esperienze sul contorno vero del Paese */}
+      <MappaPaeseSezione
+        paeseSlug={paeseSlug}
+        nomePaese={paese.nome}
+        destinazioni={destinazioni}
+        esperienze={esperienze}
+      />
 
       {/* Destinazioni */}
       <section id="destinazioni" className="scroll-mt-24 border-t border-alpine/10 py-20 sm:py-28">
