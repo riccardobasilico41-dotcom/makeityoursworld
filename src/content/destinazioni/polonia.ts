@@ -58,7 +58,8 @@ export const destinazioniPolonia: Destinazione[] = [
     ],
     esperienzeSlugs: ['wieliczka-miniera-di-sale', 'kazimierz-food-vodka-tour'],
     tripSlugs: ['cracovia-weekend'],
-    imageAlt: 'La piazza Rynek Główny di Cracovia con la Sukiennice al centro e le torri della Basilica di Santa Maria',
+    imageAlt: 'La Sukiennice illuminata di sera sulla piazza del Mercato di Cracovia, con la torre gotica della Basilica di Santa Maria a sinistra',
+    immagine: '/images/polonia/cracovia.jpg',
   },
   {
     slug: 'auschwitz-birkenau',
@@ -99,6 +100,7 @@ export const destinazioniPolonia: Destinazione[] = [
     ],
     esperienzeSlugs: ['auschwitz-birkenau-visita-guidata'],
     tripSlugs: ['cracovia-weekend'],
-    imageAlt: 'Il cancello d\'ingresso in mattoni e la torre di guardia di Auschwitz II-Birkenau, con i binari ferroviari che vi entrano',
+    imageAlt: 'Il corpo di guardia in mattoni di Auschwitz II-Birkenau con la torre centrale e i binari che portano all\'ingresso, in bianco e nero',
+    immagine: '/images/polonia/auschwitz-birkenau.jpg',
   },
 ]

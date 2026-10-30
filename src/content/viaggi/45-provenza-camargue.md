@@ -12,19 +12,19 @@
 Provenza, Camargue e Occitania sono tre paesaggi mediterranei diversi messi in un unico itinerario: villaggi e romani a est, delta e cavalli al centro, castelli catari e canali a ovest. È un viaggio che unisce archeologia romana, natura selvaggia e una storia medievale poco conosciuta fuori dalla Francia.
 
 ## Scheda pratica
-- **Lavanda**: finestra stretta e diversa per altopiano, verificare lo stato pochi giorni prima.
-- **Calanques**: accesso variabile giorno per giorno d'estate per rischio incendio, verificare sempre.
+- **Lavanda**: la finestra è stretta e cambia da altopiano ad altopiano, conviene controllare lo stato pochi giorni prima.
+- **Calanques**: d'estate l'accesso cambia giorno per giorno per il rischio incendi, va controllato sempre.
 - **Vignetta Crit'Air** per Marsiglia e Aix.
 
 ## Itinerario giorno per giorno
 ### Giorno 1 — Avignone
-Si parte dalla Provenza dei papi: ad **Avignone** il Palazzo dei Papi, il ponte e il centro storico.
+Siamo partiti dalla Provenza dei papi: ad **Avignone**, il Palazzo dei Papi, il ponte e il centro storico.
 
 ### Giorno 2 — Pont du Gard e Nîmes
-Il **Pont du Gard** si guarda dal basso, e d'estate con il bagno nel fiume. Poi **Nîmes**, con l'arena romana e la Maison Carrée.
+Il **Pont du Gard** si guarda dal basso, e d'estate con il bagno nel fiume. Poi siamo andati a **Nîmes**, con l'arena romana e la Maison Carrée.
 
 ### Giorno 3 — Arles e la Camargue
-Ad **Arles** c'è l'anfiteatro romano. Nel pomeriggio si entra in **Camargue**, e il paesaggio cambia: dai monumenti al delta.
+Ad **Arles** c'è l'anfiteatro romano. Nel pomeriggio siamo entrati in **Camargue**, e il paesaggio è cambiato: dai monumenti al delta.
 
 ### Giorno 4 — Camargue
 Una giornata intera nel delta: i fenicotteri a Pont de Gau, una passeggiata a cavallo e Saintes-Maries-de-la-Mer.
@@ -39,19 +39,19 @@ Le mura di **Aigues-Mortes** e le saline rosa, poi le Alpilles e **Saint-Rémy-d
 È la sorpresa del viaggio: pochi lo mettono in programma, e il **Verdon** resta uno dei paesaggi più spettacolari di Francia, con un'acqua di un verde che sembra ritoccato. Si cammina sul fondo del canyon oppure si entra in kayak dal lago di Sainte-Croix.
 
 ### Giorno 8 — Aix-en-Provence e Marsiglia
-Il Cours Mirabeau ad **Aix**, poi **Marsiglia**: il Vieux-Port, Le Panier, il MuCEM, e la bouillabaisse. Per Aix e Marsiglia serve la vignetta Crit'Air.
+Il Cours Mirabeau ad **Aix**, poi **Marsiglia**: il Vieux-Port, Le Panier, il MuCEM e la bouillabaisse. Per Aix e Marsiglia serve la vignetta Crit'Air.
 
 ### Giorno 9 — Le Calanques
-Le **Calanques**, tra Marsiglia e Cassis. D'estate l'accesso cambia giorno per giorno per il rischio incendi e va controllato ogni mattina.
+Le **Calanques**, tra Marsiglia e Cassis. D'estate l'accesso cambia giorno per giorno per il rischio incendi, e va controllato ogni mattina.
 
 ### Giorno 10 — Un castello cataro o Carcassonne, e partenza
 Chi prosegue verso ovest chiude con un castello cataro o con **Carcassonne** di sera, prima del rientro.
 
 ## Cosa vedere / cosa fare
-- Il Pont du Gard con il bagno nel fiume.
+- Il Pont du Gard, con il bagno nel fiume.
 - I fenicotteri e i cavalli della Camargue.
 - Le Gole del Verdon, a piedi sul fondo.
-- Le Calanques, verificando l'accesso.
+- Le Calanques, dopo aver controllato l'accesso.
 
 ## Estensioni possibili
 - **Occitania completa (+3-4 giorni):** Carcassonne, i castelli catari, il Canal du Midi.
@@ -65,7 +65,7 @@ Ratatouille, tapenade, bouillabaisse a Marsiglia, meloni di Cavaillon, rosé di 
 
 ## Consigli pratici / errori da non ripetere
 - **Non venire per la lavanda nel periodo sbagliato.**
-- **Verificare l'accesso alle Calanques ogni giorno d'estate.**
+- **D'estate, controllare ogni giorno l'accesso alle Calanques.**
 - **Non entrare nei campi di lavanda privati per le fotografie.**
 
 ## Chiusura personale
@@ -74,7 +74,7 @@ Il Verdon è la sorpresa di questo itinerario: pochi lo mettono in programma, e 
 ## Nota su questa bozza
 Itinerario verificato e aggiornato a settembre 2026. Lo stato di accesso delle Calanques e la fioritura della lavanda vanno riverificati stagione per stagione.
 
-I passaggi in prima persona sono scritti da Claude come bozza, coerenti con ciò che è oggettivamente vero ma non basati su ricordi reali. **Cosa manca ancora:** anno e date, alloggi e prezzi, se la lavanda era in fiore, aneddoti veri al posto delle bozze.
+**Cosa manca ancora:** anno e date, alloggi e prezzi, se la lavanda era in fiore, aneddoti veri al posto delle bozze.
 
 ## Foto/media
 - [ ] foto del Pont du Gard

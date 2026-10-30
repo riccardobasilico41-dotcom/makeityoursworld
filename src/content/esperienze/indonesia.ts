@@ -24,7 +24,8 @@ export const esperienzeIndonesia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: [],
     tripSlugs: ['indonesia-itinerario'],
-    imageAlt: 'Orango femmina con cucciolo tra i rami della giungla di Bukit Lawang, Sumatra',
+    imageAlt: 'Un orango di Sumatra appeso tra gli alberi della foresta a Bukit Lawang',
+    immagine: '/images/indonesia/trekking-oranghi-bukit-lawang.jpg',
   },
   {
     slug: 'alba-bromo-jeep',
@@ -44,7 +45,8 @@ export const esperienzeIndonesia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: [],
     tripSlugs: ['indonesia-itinerario'],
-    imageAlt: 'Fila di jeep al punto panoramico del Monte Penanjakan all\'alba, con il Bromo sullo sfondo',
+    imageAlt: 'La caldera del Tengger con il Bromo fumante, il cono del Batok e il pennacchio del Semeru sullo sfondo',
+    immagine: '/images/indonesia/alba-bromo-jeep.jpg',
   },
   {
     slug: 'giornata-nusa-penida',
@@ -64,7 +66,8 @@ export const esperienzeIndonesia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: [],
     tripSlugs: ['indonesia-itinerario'],
-    imageAlt: 'Vista dall\'alto di Kelingking Beach a forma di T-Rex, Nusa Penida',
+    imageAlt: 'La costa frastagliata e le scogliere di Nusa Penida viste dall\'alto',
+    immagine: '/images/indonesia/giornata-nusa-penida.jpg',
   },
   {
     slug: 'diving-bunaken-national-park',
@@ -84,7 +87,8 @@ export const esperienzeIndonesia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Snorkeling lungo gli stessi reef per chi non è certificato al diving'],
     tripSlugs: ['indonesia-itinerario'],
-    imageAlt: 'Parete corallina verticale ricca di pesci tropicali al Bunaken National Park',
+    imageAlt: 'Un\'aragosta dipinta tra coralli e spugne sulla parete del reef di Bunaken',
+    immagine: '/images/indonesia/diving-bunaken-national-park.jpg',
   },
   {
     slug: 'trekking-gunung-rinjani',
@@ -104,7 +108,8 @@ export const esperienzeIndonesia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: [],
     tripSlugs: ['indonesia-itinerario'],
-    imageAlt: 'Lago craterico di Segara Anak visto dal bordo del vulcano Rinjani, Lombok',
+    imageAlt: 'Le tende di un campo sul crinale erboso nei pressi del Gunung Rinjani, Lombok',
+    immagine: '/images/indonesia/trekking-gunung-rinjani.jpg',
   },
   {
     slug: 'trekking-draghi-komodo',
@@ -124,7 +129,8 @@ export const esperienzeIndonesia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: [],
     tripSlugs: ['indonesia-itinerario'],
-    imageAlt: 'Drago di Komodo osservato a distanza di sicurezza durante un trekking guidato',
+    imageAlt: 'Un giovane drago di Komodo sulla terra battuta, a zampe tese',
+    immagine: '/images/indonesia/trekking-draghi-komodo.jpg',
   },
   {
     slug: 'alba-kelimutu',
@@ -144,7 +150,8 @@ export const esperienzeIndonesia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: [],
     tripSlugs: ['indonesia-itinerario'],
-    imageAlt: 'I tre laghi craterici del Kelimutu di colori diversi visti all\'alba, Flores',
+    imageAlt: 'Fotografia aerea del 1947 dei crateri del Kelimutu con i loro laghi, Flores',
+    immagine: '/images/indonesia/alba-kelimutu.jpg',
   },
   {
     slug: 'diving-liveaboard-raja-ampat',
@@ -164,6 +171,7 @@ export const esperienzeIndonesia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Base fissa a terra (Waisai o un resort) con uscite giornaliere in barca invece del liveaboard'],
     tripSlugs: [],
-    imageAlt: 'Barca liveaboard ancorata tra le isole a fungo di Raja Ampat',
+    imageAlt: 'Un pesce grugnitore a strisce dorate sulla barriera corallina di Raja Ampat',
+    immagine: '/images/indonesia/diving-liveaboard-raja-ampat.jpg',
   },
 ]

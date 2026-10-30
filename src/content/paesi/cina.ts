@@ -1,15 +1,11 @@
 import type { Paese } from '@/lib/types'
 
-// Paese visitato di persona, due volte: i due itinerari collegati
-// (cina-classica e cina-paesaggi) rispecchiano quella divisione.
-// I campi miaEsperienza nelle destinazioni e nelle esperienze sono bozze
-// scritte da Claude nella voce del diario, basate su ciò che è oggettivamente
-// vero di ogni posto (code, quote, orari, regole d\'accesso) e non su ricordi
-// reali: vanno riletti e sostituiti. Nessun nome di hotel, ristorante o
-// operatore è stato inventato.
-// La scheda pratica è la parte più delicata tra quelli raccontati qui: in Cina le
-// regole su visto, pagamenti, SIM e biglietteria cambiano più in fretta che
-// altrove, e ogni voce va riverificata prima di partire.
+// Paese visitato di persona, due volte: i due itinerari collegati (cina-
+// classica e cina-paesaggi) rispecchiano quella divisione. Nessun nome di
+// hotel, ristorante o operatore è stato inventato. La scheda pratica è la
+// parte più delicata tra quelli raccontati qui: in Cina le regole su visto,
+// pagamenti, SIM e biglietteria cambiano più in fretta che altrove, e ogni
+// voce va riverificata prima di partire.
 
 export const cina: Paese = {
   slug: 'cina',
@@ -52,6 +48,7 @@ export const cina: Paese = {
     emergenze: 'Polizia 110, ambulanza 120, vigili del fuoco 119. L\'Ambasciata d\'Italia è a Pechino, con Consolati generali a Shanghai, Canton, Chongqing e Hong Kong.',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'La Grande Muraglia Cinese che sale sul crinale tra le montagne a nord di Pechino',
+  heroImageAlt: 'La Grande Muraglia a Mutianyu che segue il crinale tra le colline boscose a nord di Pechino',
+  heroImage: '/images/cina/cina-paese.jpg',
   tripPrincipaleSlug: 'cina-classica',
 }

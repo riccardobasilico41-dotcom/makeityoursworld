@@ -1,12 +1,8 @@
 import type { Esperienza } from '@/lib/types'
 
-// I campi miaEsperienza e i giudizi sono bozze scritte da Claude nella voce
-// del diario, coerenti con ciò che è oggettivamente vero di ogni esperienza
-// (regole d\'accesso, stagione, contingentamenti) ma non basate su ricordi
-// reali: vanno riletti e confermati o corretti. Nessun operatore, hotel o
-// ristorante è stato inventato.
-// Regole di accesso e prezzi in Arabia Saudita cambiano in fretta: vanno
-// riverificati sui canali ufficiali prima di partire.
+// Nessun operatore, hotel o ristorante è stato inventato. Regole di accesso e
+// prezzi in Arabia Saudita cambiano in fretta: vanno riverificati sui canali
+// ufficiali prima di partire.
 
 export const esperienzeArabiaSaudita: Esperienza[] = [
   {
@@ -38,7 +34,8 @@ export const esperienzeArabiaSaudita: Esperienza[] = [
       'Petra in Giordania, per il confronto: più grande e più spettacolare, ma con la folla che qui non c\'è',
     ],
     tripSlugs: ['arabia-saudita-itinerario'],
-    imageAlt: 'Facciata nabatea scolpita nell\'arenaria a Hegra, AlUla, Arabia Saudita',
+    imageAlt: 'Le facciate delle tombe nabatee scavate nella roccia a Hegra (Mada\'in Salih), AlUla',
+    immagine: '/images/arabia-saudita/hegra-alula.jpg',
   },
   {
     slug: 'al-balad-jeddah',
@@ -67,7 +64,8 @@ export const esperienzeArabiaSaudita: Esperienza[] = [
       'Diriyah a Riyadh, l\'altro grande centro storico restaurato del paese, costruito in fango invece che in corallo',
     ],
     tripSlugs: ['arabia-saudita-itinerario'],
-    imageAlt: 'Le facciate di legno intagliato di una casa-torre di Al-Balad a Jeddah',
+    imageAlt: 'Le case storiche di Al-Balad con i balconi a graticcio in legno, Jeddah',
+    immagine: '/images/arabia-saudita/al-balad-jeddah.jpg',
   },
   {
     slug: 'diriyah',
@@ -95,7 +93,8 @@ export const esperienzeArabiaSaudita: Esperienza[] = [
       'Masmak Fort, la fortezza di fango da cui nel 1902 iniziò la riconquista, in pieno centro',
     ],
     tripSlugs: ['arabia-saudita-itinerario'],
-    imageAlt: 'I palazzi in mattoni di fango del quartiere di At-Turaif a Diriyah al tramonto',
+    imageAlt: 'Le rovine in mattoni crudi del quartiere di At-Turaif tra le palme, Diriyah',
+    immagine: '/images/arabia-saudita/diriyah.jpg',
   },
   {
     slug: 'edge-of-the-world',
@@ -125,6 +124,7 @@ export const esperienzeArabiaSaudita: Esperienza[] = [
       'Il wadi Hanifa, alle porte di Riyadh, per una gita più semplice e senza 4x4',
     ],
     tripSlugs: ['arabia-saudita-itinerario'],
-    imageAlt: 'La scarpata del Tuwaiq che scende sulla pianura desertica all\'Edge of the World, Riyadh',
+    imageAlt: 'Le falesie della scarpata del Tuwaiq nel deserto a sud-ovest di Riyadh',
+    immagine: '/images/arabia-saudita/edge-of-the-world.jpg',
   },
 ]

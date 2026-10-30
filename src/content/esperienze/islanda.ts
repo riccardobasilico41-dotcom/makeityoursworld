@@ -26,7 +26,8 @@ export const esperienzeIslanda: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: ['Percorso identico ma in hotel/guesthouse ad ogni tappa, molto più caro ma senza pensieri di logistica campeggio'],
     tripSlugs: ['islanda-2024'],
-    imageAlt: 'Tenda da campeggio islandese con vista su un paesaggio vulcanico al tramonto',
+    imageAlt: 'Una tenda verde piantata sul terreno di muschio e pietre di un pendio islandese, con un fiordo e le nuvole basse sullo sfondo',
+    immagine: '/images/islanda/campeggio-in-islanda.jpg',
   },
   {
     slug: 'vulcano-reykjanes',
@@ -114,7 +115,8 @@ export const esperienzeIslanda: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['islanda-2024'],
-    imageAlt: 'Relitto di un aereo DC-3 abbandonato sulla sabbia nera di Sólheimasandur al crepuscolo, Islanda',
+    imageAlt: 'Il relitto del Douglas DC-3 abbandonato sulla sabbia nera di Sólheimasandur sotto un cielo nuvoloso, Islanda',
+    immagine: '/images/islanda/relitto-aereo-solheimasandur.jpg',
   },
   {
     slug: 'golden-circle',
@@ -136,7 +138,8 @@ export const esperienzeIslanda: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: [],
     tripSlugs: ['islanda-2024'],
-    imageAlt: 'Eruzione del geyser attivo nell\'area geotermica di Geysir, Islanda',
+    imageAlt: 'Il geyser Strokkur in eruzione con una colonna di vapore e acqua nell\'area geotermica di Geysir, Islanda',
+    immagine: '/images/islanda/golden-circle.jpg',
   },
   {
     slug: 'whale-watching-husavik',
@@ -157,7 +160,8 @@ export const esperienzeIslanda: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: [],
     tripSlugs: ['islanda-2024'],
-    imageAlt: 'Megattera che emerge dall\'acqua durante un tour di whale watching a Húsavík, Islanda',
+    imageAlt: 'La coda di una balena che si immerge nella baia di Skjálfandi, vista dalla barca durante un\'uscita di whale watching da Húsavík, Islanda',
+    immagine: '/images/islanda/whale-watching-husavik.jpg',
   },
   {
     slug: 'zona-geotermale-myvatn',
@@ -178,7 +182,8 @@ export const esperienzeIslanda: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: [],
     tripSlugs: ['islanda-2024'],
-    imageAlt: 'Fumarole e terreno colorato di zolfo nella zona geotermica di Hverir, lago Mývatn, Islanda',
+    imageAlt: 'Una fumarola che sbuffa vapore tra il terreno ocra della zona geotermica di Hverir, ai piedi del Námafjall, Islanda',
+    immagine: '/images/islanda/zona-geotermale-myvatn.jpg',
   },
   {
     slug: 'terme-naturali-islanda',

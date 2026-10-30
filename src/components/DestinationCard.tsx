@@ -2,7 +2,6 @@ import Link from 'next/link'
 import Image from 'next/image'
 import { Waves, Trees, Landmark, Music, Tent, Compass } from 'lucide-react'
 import type { Destinazione } from '@/lib/types'
-import { ContentStatusBadge } from './ui/ContentStatusBadge'
 import { plain } from '@/components/ui/Rich'
 
 const TIPOLOGIA_ICON: Record<string, typeof Waves> = {
@@ -53,9 +52,6 @@ export function DestinationCard({ destinazione, paeseSlug }: { destinazione: Des
         )}
         {destinazione.immagine && (
           <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/60 via-black/5 to-transparent" />
-        )}
-        {destinazione.visitataPersonalmente && (
-          <ContentStatusBadge stato="provato" className="absolute right-4 top-4 z-10" />
         )}
         <p className="relative z-10 text-xs font-semibold uppercase tracking-[0.18em] text-cream/70">
           {destinazione.tipologia.join(' · ')}

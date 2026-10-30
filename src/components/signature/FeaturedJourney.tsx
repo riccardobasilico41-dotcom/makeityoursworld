@@ -2,6 +2,7 @@
 
 import { useRef, useEffect, useState } from 'react'
 import Link from 'next/link'
+import Image from 'next/image'
 import { gsap } from 'gsap'
 import { ScrollTrigger } from 'gsap/ScrollTrigger'
 import { ArrowRight } from 'lucide-react'
@@ -37,12 +38,15 @@ export function FeaturedJourney({
   tappe,
   paeseSlug,
   battute,
+  copertina,
 }: {
   titolo: string
   href: string
   tappe: PuntoTappa[]
   paeseSlug?: string
   battute: [BeatViaggio, BeatViaggio, BeatViaggio]
+  /** Foto di copertina del viaggio, sopra il percorso. */
+  copertina?: { immagine: string; imageAlt: string }
 }) {
   const wrapperRef = useRef<HTMLDivElement>(null)
   const beatRefs = useRef<(HTMLDivElement | null)[]>([])
@@ -120,6 +124,17 @@ export function FeaturedJourney({
               </div>
 
               <div className="text-stone">
+                {copertina && (
+                  <div className="relative mb-6 aspect-[4/3] w-full overflow-hidden border-2 border-ink">
+                    <Image
+                      src={copertina.immagine}
+                      alt={copertina.imageAlt}
+                      fill
+                      sizes="(min-width: 1024px) 40vw, 100vw"
+                      className="object-cover"
+                    />
+                  </div>
+                )}
                 <RouteLine
                   tappe={tappe}
                   paeseSlug={paeseSlug}

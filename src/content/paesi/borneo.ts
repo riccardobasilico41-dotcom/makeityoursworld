@@ -3,11 +3,7 @@ import type { Paese } from '@/lib/types'
 // Il Borneo malese (Sabah e Sarawak) è tenuto separato dalla Malesia
 // peninsulare di proposito: logistica, costi, tempi e ragioni di viaggio sono
 // completamente diversi, e trattarlo come un\'appendice della penisola è il
-// modo più rapido per sottodimensionarlo in itinerario.
-// I campi miaEsperienza nelle destinazioni e nelle esperienze sono bozze
-// scritte da Claude nella voce del diario, basate su ciò che è oggettivamente
-// vero di ogni posto (stagione, quote, probabilità di avvistamento, fatica) e
-// non su ricordi reali: vanno riletti e sostituiti. Nessun nome di lodge,
+// modo più rapido per sottodimensionarlo in itinerario. Nessun nome di lodge,
 // resort o operatore è stato inventato.
 
 export const borneo: Paese = {
@@ -50,6 +46,7 @@ export const borneo: Paese = {
     emergenze: 'Polizia e ambulanza 999. Il Consolato italiano più vicino è a Kuala Lumpur: dal Borneo, in caso di emergenza, si passa comunque da lì.',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'Un orango selvatico su un albero nella foresta pluviale del Borneo malese',
+  heroImageAlt: 'Le guglie di granito di Donkey Ears e del Tunku Abdul Rahman sulla vetta del Monte Kinabalu, Sabah',
+  heroImage: '/images/borneo/borneo-paese.jpg',
   tripPrincipaleSlug: 'borneo-itinerario',
 }

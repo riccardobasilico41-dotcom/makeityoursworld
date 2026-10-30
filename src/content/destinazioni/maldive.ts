@@ -88,7 +88,8 @@ export const destinazioniMaldive: Destinazione[] = [
     erroriDaEvitare: ['Tentare l\'immersione degli squali martello senza esperienza in blu e in profondità'],
     esperienzeSlugs: [],
     tripSlugs: ['maldive-guida'],
-    imageAlt: 'Uno squalo martello che nuota nel blu profondo al largo dell\'atollo di Rasdhoo',
+    imageAlt: 'La spiaggia bianca sul lato della laguna di Kuramathi, nell\'atollo di Rasdhoo',
+    immagine: '/images/maldive/rasdhoo.jpg',
   },
   {
     slug: 'ari-sud',

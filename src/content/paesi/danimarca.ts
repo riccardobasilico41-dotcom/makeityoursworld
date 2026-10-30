@@ -53,6 +53,7 @@ export const danimarca: Paese = {
     emergenze: 'Numero unico europeo 112. L\'Ambasciata d\'Italia si trova a Copenaghen.',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'Le case colorate del XVII secolo lungo il canale di Nyhavn a Copenaghen, con le barche ormeggiate al molo',
+  heroImageAlt: 'Le case colorate del canale di Nyhavn a Copenaghen, con i velieri storici ormeggiati lungo il molo',
+  heroImage: '/images/danimarca/danimarca-paese.jpg',
   tripPrincipaleSlug: 'capitali-nordiche',
 }

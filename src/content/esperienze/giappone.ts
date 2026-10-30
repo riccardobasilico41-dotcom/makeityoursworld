@@ -24,7 +24,8 @@ export const esperienzeGiappone: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['giappone-360'],
-    imageAlt: 'Ciliegi in fiore lungo il canale del Meguro River a Tokyo, Giappone',
+    imageAlt: 'I ciliegi in fiore illuminati di notte lungo il fossato di Chidorigafuchi, con le barche a remi ormeggiate, Tokyo',
+    immagine: '/images/giappone/sakura-chasing-tokyo.jpg',
   },
   {
     slug: 'shibuya-crossing',
@@ -45,7 +46,8 @@ export const esperienzeGiappone: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['Shibuya Scramble Square (14° piano, poi Sky Observatory), visto in un\'altra giornata del viaggio'],
     tripSlugs: ['giappone-360'],
-    imageAlt: 'Shibuya Crossing illuminato di sera, visto dall\'alto, Tokyo, Giappone',
+    imageAlt: 'L\'incrocio di Shibuya visto dall\'alto, con la folla che attraversa e le insegne dei palazzi, Tokyo',
+    immagine: '/images/giappone/shibuya-crossing.jpg',
   },
   {
     slug: 'chureito-monte-fuji',
@@ -64,7 +66,8 @@ export const esperienzeGiappone: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: [],
     tripSlugs: [],
-    imageAlt: 'La Pagoda Chureito con il Monte Fuji sullo sfondo, Giappone',
+    imageAlt: 'La pagoda Chureito tra gli aceri rossi d\'autunno con il Monte Fuji innevato sullo sfondo',
+    immagine: '/images/giappone/chureito-monte-fuji.jpg',
   },
   {
     slug: 'fushimi-inari',
@@ -85,7 +88,8 @@ export const esperienzeGiappone: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['giappone-360'],
-    imageAlt: 'La galleria di torii vermigli di Fushimi Inari, Kyoto, Giappone',
+    imageAlt: 'Il sentiero sotto i torii arancioni nel bosco del santuario di Fushimi Inari, Kyoto',
+    immagine: '/images/giappone/fushimi-inari.jpg',
   },
   {
     slug: 'kinkaku-ji',
@@ -106,7 +110,8 @@ export const esperienzeGiappone: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['giappone-360'],
-    imageAlt: 'Il padiglione dorato del Kinkaku-ji riflesso nello stagno, Kyoto, Giappone',
+    imageAlt: 'Il Padiglione d\'Oro del Kinkaku-ji riflesso nello stagno tra i pini, Kyoto',
+    immagine: '/images/giappone/kinkaku-ji.jpg',
   },
   {
     slug: 'torii-miyajima',
@@ -127,7 +132,8 @@ export const esperienzeGiappone: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['giappone-360'],
-    imageAlt: 'Il torii galleggiante del Santuario Itsukushima a Miyajima, Giappone',
+    imageAlt: 'Il grande torii del santuario di Itsukushima nell\'acqua con l\'alta marea, Miyajima',
+    immagine: '/images/giappone/torii-miyajima.jpg',
   },
   {
     slug: 'cervi-nara',
@@ -148,6 +154,7 @@ export const esperienzeGiappone: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['giappone-360'],
-    imageAlt: 'Un cervo sacro semi-libero nel Parco di Nara, Giappone',
+    imageAlt: 'Cervi sika liberi lungo una staccionata di legno nel parco di Nara',
+    immagine: '/images/giappone/cervi-nara.jpg',
   },
 ]

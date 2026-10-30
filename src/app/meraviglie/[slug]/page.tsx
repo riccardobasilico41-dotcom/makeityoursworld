@@ -1,11 +1,12 @@
 import type { Metadata } from 'next'
+import { FirmaAutore } from '@/components/FirmaAutore'
 import { notFound } from 'next/navigation'
 import { ArrowUpRight, AlertTriangle } from 'lucide-react'
 import { Container } from '@/components/ui/Container'
-import { ContentStatusBadge } from '@/components/ui/ContentStatusBadge'
 import { PracticalInfo } from '@/components/ui/PracticalInfo'
 import { getAllMeraviglie, getMeraviglia } from '@/lib/meraviglie'
 import { pageMetadata } from '@/lib/seo'
+import { seoMeraviglie } from '@/content/seo-pagine'
 import { JsonLd } from '@/components/JsonLd'
 import { breadcrumbJsonLd } from '@/lib/structured-data'
 import { getHeroVideoMeraviglia } from '@/content/meraviglie-hero-video'
@@ -25,9 +26,11 @@ export async function generateMetadata({
   const { slug } = await params
   const meraviglia = getMeraviglia(slug)
   if (!meraviglia) return {}
+  const seo = seoMeraviglie[slug]
   return pageMetadata({
-    title: meraviglia.titolo,
-    description: meraviglia.descrizione,
+    title: seo?.seoTitle ?? meraviglia.titolo,
+    description: seo?.seoDescription ?? meraviglia.descrizione,
+    socialTitle: seo?.socialTitle,
     path: `/meraviglie/${slug}`,
     type: 'article',
   })
@@ -70,7 +73,6 @@ export default async function MeravigliaPage({ params }: { params: Promise<{ slu
           { label: meraviglia.nome },
         ]}
         eyebrow={`${meraviglia.paese} · ${meraviglia.citta}`}
-        badge={meraviglia.visitataPersonalmente ? <ContentStatusBadge stato="provato" /> : undefined}
         title={meraviglia.nome}
         titleNote={meraviglia.nomeLocale}
         lead={<p>{meraviglia.descrizione}</p>}
@@ -158,18 +160,15 @@ export default async function MeravigliaPage({ params }: { params: Promise<{ slu
               </div>
             )}
 
-            {meraviglia.miaEsperienza ? (
+            {meraviglia.miaEsperienza && (
               <div>
                 <h2 className="font-display text-2xl text-alpine">La mia esperienza</h2>
                 <p className="mt-3 font-display text-xl italic leading-relaxed text-alpine">
                   {meraviglia.miaEsperienza}
                 </p>
               </div>
-            ) : (
-              <div className="rounded-none border border-dashed border-alpine/20 p-5 text-sm text-stone/70">
-                Ricordo personale da aggiungere.
-              </div>
             )}
+            <FirmaAutore />
           </div>
 
           <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">

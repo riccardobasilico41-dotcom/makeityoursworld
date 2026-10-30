@@ -1,8 +1,5 @@
 import type { Esperienza } from '@/lib/types'
 
-// I campi miaEsperienza e i giudizi sono bozze scritte da Claude nella voce
-// del diario, coerenti con ciò che è oggettivamente vero di ogni esperienza
-// ma non basate su ricordi reali: vanno riletti e confermati o corretti.
 // I centri hawker e i siti pubblici citati sono luoghi, non esercizi: nessun
 // ristorante o hotel è stato inventato.
 
@@ -35,7 +32,8 @@ export const esperienzeSingapore: Esperienza[] = [
       'Il mercato di Tiong Bahru, più tranquillo e frequentato quasi solo da residenti',
     ],
     tripSlugs: ['malesia-singapore'],
-    imageAlt: 'Banchi e tavoli condivisi in un centro hawker di Singapore all\'ora di pranzo',
+    imageAlt: 'Il padiglione ottagonale di Lau Pa Sat illuminato di sera tra i grattacieli, Singapore',
+    immagine: '/images/singapore/hawker-centre.jpg',
   },
   {
     slug: 'gardens-by-the-bay',
@@ -63,6 +61,7 @@ export const esperienzeSingapore: Esperienza[] = [
       'La camminata completa attorno alla baia all\'ora blu, gratuita e con le viste migliori',
     ],
     tripSlugs: ['malesia-singapore'],
-    imageAlt: 'Lo spettacolo di luci serale tra i Supertree di Gardens by the Bay, Singapore',
+    imageAlt: 'I Supertree di Gardens by the Bay illuminati di notte, Singapore',
+    immagine: '/images/singapore/gardens-by-the-bay.jpg',
   },
 ]

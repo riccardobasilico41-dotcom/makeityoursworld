@@ -33,7 +33,13 @@ export function Footer() {
       </Container>
 
       <Container className="border-t border-cream/10 py-6 text-center text-xs text-cream/50">
-        <p>© {new Date().getFullYear()} {siteConfig.shortName}. Appunti di viaggio personali.</p>
+        <p>
+          © {new Date().getFullYear()} {siteConfig.shortName}. Appunti di viaggio personali.
+          <span className="mx-2 text-cream/30">·</span>
+          <Link href="/crediti-fotografici" className="underline decoration-cream/30 underline-offset-4 hover:text-cream">
+            Crediti fotografici
+          </Link>
+        </p>
       </Container>
     </footer>
   )

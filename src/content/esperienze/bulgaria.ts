@@ -64,6 +64,7 @@ export const esperienzeBulgaria: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['bulgaria-bansko-rila'],
-    imageAlt: 'Gli affreschi colorati della Chiesa della Natività della Vergine al Monastero di Rila, Bulgaria',
+    imageAlt: 'La Chiesa della Natività della Vergine al Monastero di Rila, con le arcate a strisce bianche e nere e le cupole, tra i monti boscosi, Bulgaria',
+    immagine: '/images/bulgaria/visita-monastero-rila.jpg',
   },
 ]

@@ -87,7 +87,7 @@ L'Egitto turistico è sicuro rispetto alla criminalità violenta; il problema re
 ## Itinerario giorno per giorno
 
 ### Giorno 1 — Arrivo al Cairo
-Si atterra al Cairo, si compra il visto allo sportello prima dei controlli se non si ha l'e-visa, e si va in Uber a **Giza**, dove conviene dormire per i primi tre giorni: si è a pochi minuti dalle piramidi, dal Grand Egyptian Museum e dalla strada per Saqqara. La sera c'è lo spettacolo di suoni e luci davanti alla Sfinge, che si vede anche da molte terrazze degli hotel.
+Siamo atterrati al Cairo, abbiamo comprato il visto allo sportello prima dei controlli (serve se non si ha l'e-visa) e siamo andati in Uber a **Giza**, dove conviene dormire per i primi tre giorni: si è a pochi minuti dalle piramidi, dal Grand Egyptian Museum e dalla strada per Saqqara. La sera c'è lo spettacolo di suoni e luci davanti alla Sfinge, che si vede anche da molte terrazze degli hotel.
 
 **In pratica**
 - Visto all'arrivo 30 $, contanti o carta
@@ -95,9 +95,9 @@ Si atterra al Cairo, si compra il visto allo sportello prima dei controlli se no
 - SIM o eSIM negli arrivi, col passaporto
 
 ### Giorno 2 — Giza e il Grand Egyptian Museum
-L'altopiano apre alle 7 ed è l'unico momento della giornata senza gruppi e senza caldo. Con il **bus elettrico** interno si fanno la Grande Piramide (l'interno è a pagamento a parte e vale per il corridoio e la Grande Galleria, non per le camere), il punto panoramico delle nove piramidi e la **Sfinge** con il tempio a valle di Chefren.
+L'altopiano apre alle 7 ed è l'unico momento della giornata senza gruppi e senza caldo. Con il **bus elettrico** interno abbiamo fatto la Grande Piramide (l'interno è a pagamento a parte e vale per il corridoio e la Grande Galleria, non per le camere), il punto panoramico delle nove piramidi e la **Sfinge** con il tempio a valle di Chefren.
 
-Il pomeriggio va al **Grand Egyptian Museum**, il museo archeologico più grande del mondo dedicato a una sola civiltà. Le gallerie di **Tutankhamon** espongono per la prima volta l'intero corredo della tomba; la scalinata monumentale, con decine di statue colossali, è da percorrere con calma. Servono almeno quattro ore, e il biglietto a fascia oraria va comprato online prima della partenza.
+Il pomeriggio l'abbiamo passato al **Grand Egyptian Museum**, il museo archeologico più grande del mondo dedicato a una sola civiltà. Le gallerie di **Tutankhamon** espongono per la prima volta l'intero corredo della tomba; la scalinata monumentale, con decine di statue colossali, è da percorrere con calma. Servono almeno quattro ore, e il biglietto a fascia oraria va comprato online prima della partenza.
 
 **In pratica**
 - Giza 700 EGP, interno di Cheope circa 1.500 EGP
@@ -105,9 +105,9 @@ Il pomeriggio va al **Grand Egyptian Museum**, il museo archeologico più grande
 - Nessuna ombra sull'altopiano: acqua, cappello, crema
 
 ### Giorno 3 — Saqqara, Dahshur e Menfi
-Giornata con autista verso sud. A **Saqqara** la **piramide a gradoni di Djoser**, la prima grande costruzione in pietra della storia, e intorno le mastabe dei funzionari dell'Antico Regno, con scene di caccia, pesca e mercati scolpite nel calcare. Il **Serapeum**, con i sarcofagi di granito dei tori sacri, è una delle visite più impressionanti del Cairo.
+Abbiamo passato la giornata con un autista verso sud. A **Saqqara** c'è la **piramide a gradoni di Djoser**, la prima grande costruzione in pietra della storia, e intorno le mastabe dei funzionari dell'Antico Regno, con scene di caccia, pesca e mercati scolpite nel calcare. Il **Serapeum**, con i sarcofagi di granito dei tori sacri, è una delle visite più impressionanti del Cairo.
 
-A **Dahshur**, quasi deserta, la **piramide Romboidale** con il cambio di pendenza a metà e la **piramide Rossa**, in cui si scende per un corridoio di sessanta metri. Al ritorno una breve sosta a **Menfi**, l'antica capitale, con il colosso sdraiato di Ramses II.
+A **Dahshur**, quasi deserta, ci sono la **piramide Romboidale** con il cambio di pendenza a metà e la **piramide Rossa**, in cui si scende per un corridoio di sessanta metri. Al ritorno ci siamo fermati poco a **Menfi**, l'antica capitale, con il colosso sdraiato di Ramses II.
 
 **In pratica**
 - Autista per la giornata: indicativamente 30-50 $ a veicolo
@@ -115,9 +115,9 @@ A **Dahshur**, quasi deserta, la **piramide Romboidale** con il cambio di penden
 - Si pranza in uno dei ristoranti di campagna sulla strada per Saqqara
 
 ### Giorno 4 — Il Cairo islamico, il Cairo copto e il Museo Egizio
-Si cambia base e si dorme a **Zamalek** o in centro. La mattina è per il **Cairo islamico**: la **Cittadella** con la moschea di Muhammad Ali, la **moschea di Ibn Tulun**, la più antica intatta della città, il complesso del **sultano Hassan** e la via **al-Muizz** fino al Khan el-Khalili. Chi preferisce va al **Cairo copto**, in metropolitana fino a Mar Girgis.
+Qui si cambia base: si dorme a **Zamalek** o in centro. La mattina siamo stati nel **Cairo islamico**: la **Cittadella** con la moschea di Muhammad Ali, la **moschea di Ibn Tulun**, la più antica intatta della città, il complesso del **sultano Hassan** e la via **al-Muizz** fino al Khan el-Khalili. Chi preferisce va al **Cairo copto**, in metropolitana fino a Mar Girgis.
 
-Il pomeriggio è per il **Museo Egizio di piazza Tahrir**, che anche dopo il trasloco di Tutankhamon al GEM resta pieno di capolavori, in un allestimento d'inizio Novecento. La sera, tè al caffè El Fishawy nel bazar. Spalle e ginocchia coperte per tutta la giornata, foulard per le donne nelle moschee.
+Il pomeriggio siamo andati al **Museo Egizio di piazza Tahrir**, che anche dopo il trasloco di Tutankhamon al GEM resta pieno di capolavori, in un allestimento d'inizio Novecento. La sera abbiamo preso il tè al caffè El Fishawy, nel bazar. Spalle e ginocchia coperte per tutta la giornata, foulard per le donne nelle moschee.
 
 **In pratica**
 - Cittadella 550 EGP, Museo Egizio 550 EGP
@@ -125,7 +125,7 @@ Il pomeriggio è per il **Museo Egizio di piazza Tahrir**, che anche dopo il tra
 - Domani si parte all'alba: valigia pronta
 
 ### Giorno 5 — Da Cairo a Marsa Matruh passando per Alessandria
-Primo tratto verso Siwa, in auto con autista. **Alessandria**, a tre ore dal Cairo, merita una sosta di mezza giornata: la nuova **Bibliotheca Alexandrina**, le catacombe di **Kom el-Shoqafa** e la cittadella di **Qaitbay** sul luogo del Faro. Poi la strada costiera passa per **El Alamein**, con i sacrari militari e il museo della battaglia, e arriva a **Marsa Matruh** in serata.
+Abbiamo fatto il primo tratto verso Siwa in auto con autista. **Alessandria**, a tre ore dal Cairo, merita una sosta di mezza giornata: la nuova **Bibliotheca Alexandrina**, le catacombe di **Kom el-Shoqafa** e la cittadella di **Qaitbay** sul luogo del Faro. Poi la strada costiera passa per **El Alamein**, con i sacrari militari e il museo della battaglia, e siamo arrivati a **Marsa Matruh** in serata.
 
 È una giornata lunga, intorno alle otto ore di guida con le soste. Il bus notturno diretto per Siwa farebbe risparmiare un giorno, ma viaggia col buio, che Viaggiare Sicuri sconsiglia: meglio spezzare il viaggio e guidare solo di giorno.
 
@@ -135,7 +135,7 @@ Primo tratto verso Siwa, in auto con autista. **Alessandria**, a tre ore dal Cai
 - Sacrario militare italiano di El Alamein: ingresso libero
 
 ### Giorno 6 — Da Marsa Matruh a Siwa
-Altre quattro ore verso sud-ovest, attraverso un deserto piatto e vuoto, con un paio di posti di blocco militari dove si consegnano i passaporti. Si arriva a **Siwa** per pranzo. Il pomeriggio è per ambientarsi in bicicletta tra i palmeti e salire al tramonto sulla **fortezza di Shali**, il vecchio centro costruito in kershef, un impasto di fango e sale che le piogge del 1926 hanno in parte sciolto.
+Altre quattro ore verso sud-ovest, attraverso un deserto piatto e vuoto, con un paio di posti di blocco militari dove si consegnano i passaporti. Siamo arrivati a **Siwa** per pranzo. Il pomeriggio ci siamo ambientati in bicicletta tra i palmeti e al tramonto siamo saliti sulla **fortezza di Shali**, il vecchio centro costruito in kershef, un impasto di fango e sale che le piogge del 1926 hanno in parte sciolto.
 
 La sera si consegna il passaporto all'operatore per il permesso del deserto di domani o del giorno dopo.
 
@@ -145,9 +145,9 @@ La sera si consegna il passaporto all'operatore per il permesso del deserto di d
 - Contanti per tutto il soggiorno, gli ATM sono pochi e a volte vuoti
 
 ### Giorno 7 — Siwa: l'Oracolo, la montagna dei morti e la sorgente di Cleopatra
-Giornata nell'oasi. Al mattino il **tempio dell'Oracolo di Amon** ad **Aghurmi**, dove nel 331 a.C. Alessandro Magno fu riconosciuto figlio del dio; poco lontano i resti del tempio di Umm Ubayda. Poi **Gebel al-Mawta**, la montagna dei morti, con tombe tolemaiche e romane, alcune ancora dipinte.
+La giornata l'abbiamo passata nell'oasi. Al mattino siamo stati al **tempio dell'Oracolo di Amon** ad **Aghurmi**, dove nel 331 a.C. Alessandro Magno fu riconosciuto figlio del dio; poco lontano i resti del tempio di Umm Ubayda. Poi **Gebel al-Mawta**, la montagna dei morti, con tombe tolemaiche e romane, alcune ancora dipinte.
 
-Nel pomeriggio un bagno nella **sorgente di Cleopatra**, una vasca di acqua tiepida in mezzo ai palmeti, e al tramonto i **laghi salati**, dove si galleggia come nel Mar Morto. Siwa è una comunità conservatrice: anche alle sorgenti ci si bagna coperti, con maglietta e pantaloncini.
+Nel pomeriggio abbiamo fatto il bagno nella **sorgente di Cleopatra**, una vasca di acqua tiepida in mezzo ai palmeti, e al tramonto siamo andati ai **laghi salati**, dove si galleggia come nel Mar Morto. Siwa è una comunità conservatrice: anche alle sorgenti ci si bagna coperti, con maglietta e pantaloncini.
 
 **In pratica**
 - Tuk-tuk o carretto per la giornata: da concordare, pochi euro
@@ -155,7 +155,7 @@ Nel pomeriggio un bagno nella **sorgente di Cleopatra**, una vasca di acqua tiep
 - Alle sorgenti: costume coperto da maglietta, le donne a maggior ragione
 
 ### Giorno 8 — Il Grande Mare di Sabbia
-L'uscita in fuoristrada nel **Grande Mare di Sabbia** è il motivo per cui si viene fin qui. Si parte nel primo pomeriggio con un operatore autorizzato, si attraversano dune alte decine di metri, ci si ferma alle sorgenti calde e fredde in mezzo alla sabbia, si fa **sandboarding** e si guarda il tramonto dalla cresta di una duna. Chi vuole dorme in un campo tendato nel deserto, con cena e fuoco.
+L'uscita in fuoristrada nel **Grande Mare di Sabbia** è il motivo per cui si viene fin qui. Siamo partiti nel primo pomeriggio con un operatore autorizzato, abbiamo attraversato dune alte decine di metri, ci siamo fermati alle sorgenti calde e fredde in mezzo alla sabbia, abbiamo fatto **sandboarding** e guardato il tramonto dalla cresta di una duna. Chi vuole dorme in un campo tendato nel deserto, con cena e fuoco.
 
 **In pratica**
 - Escursione di mezza giornata: indicativamente 20-35 $ a persona, permesso incluso
@@ -163,7 +163,7 @@ L'uscita in fuoristrada nel **Grande Mare di Sabbia** è il motivo per cui si vi
 - D'inverno le notti si avvicinano a 0 °C: giacca pesante
 
 ### Giorno 9 — Rientro al Cairo
-Giornata di trasferimento, otto-dieci ore di strada fino al Cairo, passando di nuovo per Marsa Matruh o per la strada interna più diretta, secondo l'autista. Si dorme vicino all'aeroporto o a Heliopolis, per essere comodi con il volo di domattina. Conviene partire presto, per arrivare al Cairo prima che faccia buio.
+È stata una giornata di trasferimento, otto-dieci ore di strada fino al Cairo, passando di nuovo per Marsa Matruh o per la strada interna più diretta, secondo l'autista. Si dorme vicino all'aeroporto o a Heliopolis, per essere comodi con il volo di domattina. Conviene partire presto, per arrivare al Cairo prima che faccia buio.
 
 **In pratica**
 - Auto: 8-10 ore con le soste
@@ -171,7 +171,7 @@ Giornata di trasferimento, otto-dieci ore di strada fino al Cairo, passando di n
 - Hotel vicino all'aeroporto per il volo di domani
 
 ### Giorno 10 — Volo per Assuan e feluca al tramonto
-Volo mattutino per **Assuan**, un'ora e venticinque. Chi ha un giorno in più, o vuole risparmiare una notte d'hotel, può prendere il **treno notte** da Giza la sera del rientro da Siwa, se arriva in tempo, e svegliarsi ad Assuan. Assuan è la città più tranquilla dell'Alto Egitto, con il Nilo stretto tra isole di granito e dune. Pomeriggio al **Museo nubiano** e, verso le 16, una **feluca** intorno all'isola Elefantina e all'isola Kitchener, con il giardino botanico, fino al tramonto sulle tombe dei nobili.
+Abbiamo preso il volo del mattino per **Assuan**, un'ora e venticinque. Chi ha un giorno in più, o vuole risparmiare una notte d'hotel, può prendere il **treno notte** da Giza la sera del rientro da Siwa, se arriva in tempo, e svegliarsi ad Assuan. Assuan è la città più tranquilla dell'Alto Egitto, con il Nilo stretto tra isole di granito e dune. Il pomeriggio siamo stati al **Museo nubiano** e, verso le 16, abbiamo preso una **feluca** intorno all'isola Elefantina e all'isola Kitchener, con il giardino botanico, fino al tramonto sulle tombe dei nobili.
 
 **In pratica**
 - Volo Cairo-Assuan: indicativamente 70-140 €
@@ -181,7 +181,7 @@ Volo mattutino per **Assuan**, un'ora e venticinque. Chi ha un giorno in più, o
 ### Giorno 11 — Abu Simbel all'alba
 Sveglia alle 3, minivan alle 4 e tre ore e mezza di deserto nubiano fino ad **Abu Simbel**. I due templi, quello grande di **Ramses II** con le quattro statue colossali e quello di **Nefertari**, furono tagliati in blocchi e ricostruiti 65 metri più in alto tra il 1964 e il 1968, quando la diga di Assuan creò il lago Nasser. Arrivare presto vuol dire vederli con la luce del mattino e prima dei gruppi delle 9.
 
-Si rientra ad Assuan per il primo pomeriggio. Chi non vuole fare sette ore di strada in un giorno prende il volo EgyptAir di 45 minuti, o dorme ad Abu Simbel e vede lo spettacolo di suoni e luci.
+Siamo rientrati ad Assuan entro il primo pomeriggio. Chi non vuole fare sette ore di strada in un giorno prende il volo EgyptAir di 45 minuti, o dorme ad Abu Simbel e vede lo spettacolo di suoni e luci.
 
 **In pratica**
 - Minivan condiviso: indicativamente 20-35 $ a persona; privato 100-150 $ a veicolo
@@ -189,9 +189,9 @@ Si rientra ad Assuan per il primo pomeriggio. Chi non vuole fare sette ore di st
 - Colazione al sacco dall'hotel: lungo la strada c'è un solo punto di sosta
 
 ### Giorno 12 — Philae e l'imbarco sulla crociera del Nilo
-Mattina al **tempio di Philae**, dedicato a Iside, anche questo spostato su un'isola più alta per salvarlo dalle acque; si raggiunge in barca dal molo di Shellal. Sulla strada si vedono la **diga alta** e l'**obelisco incompiuto**, rimasto nella cava perché si era crepato durante il taglio.
+La mattina siamo stati al **tempio di Philae**, dedicato a Iside, anche questo spostato su un'isola più alta per salvarlo dalle acque; si raggiunge in barca dal molo di Shellal. Sulla strada si vedono la **diga alta** e l'**obelisco incompiuto**, rimasto nella cava perché si era crepato durante il taglio.
 
-Nel primo pomeriggio ci si imbarca sulla nave da crociera, ormeggiata lungo la Corniche. La prima notte la nave resta ferma ad Assuan; la sera molti pacchetti includono una visita a un **villaggio nubiano** sulla riva ovest.
+Nel primo pomeriggio ci siamo imbarcati sulla nave da crociera, ormeggiata lungo la Corniche. La prima notte la nave resta ferma ad Assuan; la sera molti pacchetti includono una visita a un **villaggio nubiano** sulla riva ovest.
 
 **In pratica**
 - Philae 550 EGP, barca indicativamente 300-500 EGP a barca
@@ -199,7 +199,7 @@ Nel primo pomeriggio ci si imbarca sulla nave da crociera, ormeggiata lungo la C
 - Controllare cosa è incluso: ingressi, guida, bevande, mance
 
 ### Giorno 13 — Crociera: Kom Ombo ed Edfu
-La nave salpa all'alba verso nord. A metà mattina si attracca a **Kom Ombo**, l'unico tempio doppio d'Egitto, dedicato a Sobek, il dio coccodrillo, e a Horus; accanto c'è il piccolo museo con le mummie di coccodrillo. Nel pomeriggio si arriva a **Edfu**, il tempio di Horus, il meglio conservato del Paese: tetto, pilone, sala ipostila e santuario quasi integri.
+La nave è salpata all'alba verso nord. A metà mattina abbiamo attraccato a **Kom Ombo**, l'unico tempio doppio d'Egitto, dedicato a Sobek, il dio coccodrillo, e a Horus; accanto c'è il piccolo museo con le mummie di coccodrillo. Nel pomeriggio siamo arrivati a **Edfu**, il tempio di Horus, il meglio conservato del Paese: tetto, pilone, sala ipostila e santuario quasi integri.
 
 Le navi attraccano tutte alla stessa ora, e i templi si riempiono. Chi può scendere per primo o visitare Edfu al mattino seguente trova molta meno gente.
 
@@ -209,7 +209,7 @@ Le navi attraccano tutte alla stessa ora, e i templi si riempiono. Chi può scen
 - Sul ponte la sera fa fresco anche a ottobre
 
 ### Giorno 14 — Esna e l'arrivo a Luxor: Karnak e il tempio di Luxor
-La nave passa la **chiusa di Esna**, dove a volte i venditori lanciano tovaglie e galabeye dalle barche fino al ponte. Si arriva a **Luxor** a fine mattinata. Il pomeriggio è dedicato alla riva est: il complesso di **Karnak**, con la sala ipostila di 134 colonne e il lago sacro, e al tramonto il **tempio di Luxor**, collegato a Karnak dal viale delle sfingi riaperto nel 2021.
+La nave è passata per la **chiusa di Esna**, dove a volte i venditori lanciano tovaglie e galabeye dalle barche fino al ponte. Siamo arrivati a **Luxor** a fine mattinata. Il pomeriggio l'abbiamo dedicato alla riva est: il complesso di **Karnak**, con la sala ipostila di 134 colonne e il lago sacro, e al tramonto il **tempio di Luxor**, collegato a Karnak dal viale delle sfingi riaperto nel 2021.
 
 **In pratica**
 - Karnak 600 EGP, tempio di Luxor 500 EGP
@@ -217,7 +217,7 @@ La nave passa la **chiusa di Esna**, dove a volte i venditori lanciano tovaglie 
 - Ultima notte a bordo
 
 ### Giorno 15 — Luxor, riva ovest: Valle dei Re, Hatshepsut e Nefertari
-Sbarco e riva ovest all'alba. La **Valle dei Re** con il biglietto base di tre tombe, più **Tutankhamon** o **Seti I** per chi vuole spendere; il **tempio di Hatshepsut** a terrazze sotto la montagna; e la **tomba di Nefertari** nella Valle delle Regine, la più bella d'Egitto, con un tempo di visita limitato e un biglietto molto caro. Si dorme sulla riva ovest, tra i campi di canna da zucchero.
+Siamo sbarcati e all'alba eravamo già sulla riva ovest. La **Valle dei Re** con il biglietto base di tre tombe, più **Tutankhamon** o **Seti I** per chi vuole spendere; il **tempio di Hatshepsut** a terrazze sotto la montagna; e la **tomba di Nefertari** nella Valle delle Regine, la più bella d'Egitto, con un tempo di visita limitato e un biglietto molto caro. Abbiamo dormito sulla riva ovest, tra i campi di canna da zucchero.
 
 **In pratica**
 - Valle dei Re 750 EGP, Tutankhamon circa 700, Seti I circa 2.000
@@ -225,7 +225,7 @@ Sbarco e riva ovest all'alba. La **Valle dei Re** con il biglietto base di tre t
 - Auto con autista per la riva ovest: 25-40 $
 
 ### Giorno 16 — Mongolfiera, Medinet Habu e Deir el-Medina
-All'alba il **volo in mongolfiera** sulla riva ovest, una quarantina di minuti sopra templi e villaggi. Poi i siti meno affollati della necropoli tebana: **Medinet Habu**, il tempio di Ramses III, con rilievi che conservano ancora rossi e blu; **Deir el-Medina**, il villaggio degli operai che scavavano le tombe reali, con le loro piccole tombe dipinte; il **Ramesseum** e le **tombe dei nobili**. Pomeriggio libero in piscina.
+All'alba abbiamo fatto il **volo in mongolfiera** sulla riva ovest, una quarantina di minuti sopra templi e villaggi. Poi abbiamo visto i siti meno affollati della necropoli tebana: **Medinet Habu**, il tempio di Ramses III, con rilievi che conservano ancora rossi e blu; **Deir el-Medina**, il villaggio degli operai che scavavano le tombe reali, con le loro piccole tombe dipinte; il **Ramesseum** e le **tombe dei nobili**. Pomeriggio libero in piscina.
 
 **In pratica**
 - Mongolfiera indicativamente 50-100 $ a persona
@@ -233,7 +233,7 @@ All'alba il **volo in mongolfiera** sulla riva ovest, una quarantina di minuti s
 - Con vento forte i voli in mongolfiera vengono annullati: meglio prenotarla per il primo giorno utile
 
 ### Giorno 17 — Gita a Dendera o ad Abydos
-Ultimo giorno a Luxor, con una gita a nord. **Dendera**, a un'ora e mezza, ha il tempio di Hathor con il soffitto astronomico ripulito e coloratissimo e le cripte decorate. **Abydos**, a tre ore, ha il tempio di **Seti I**, i rilievi più raffinati del Nuovo Regno e la lista dei re. Chi ha l'intera giornata le fa entrambe con un autista. Rientro a Luxor per la sera.
+Ultimo giorno a Luxor, con una gita a nord. **Dendera**, a un'ora e mezza, ha il tempio di Hathor con il soffitto astronomico ripulito e coloratissimo e le cripte decorate. **Abydos**, a tre ore, ha il tempio di **Seti I**, i rilievi più raffinati del Nuovo Regno e la lista dei re. Chi ha l'intera giornata le fa entrambe con un autista. La sera siamo rientrati a Luxor.
 
 **In pratica**
 - Dendera 300 EGP, Abydos 260 EGP
@@ -241,7 +241,7 @@ Ultimo giorno a Luxor, con una gita a nord. **Dendera**, a un'ora e mezza, ha il
 - La strada passa per posti di blocco: passaporto con sé
 
 ### Giorno 18 — Da Luxor a Marsa Alam
-Trasferimento al Mar Rosso: quattro ore e mezza di strada, prima lungo il Nilo fino a **Edfu**, poi attraverso il deserto orientale. Si arriva a **Marsa Alam** nel primo pomeriggio, si fa il check-in al centro diving con brevetti, logbook e assicurazione, e c'è tempo per un'immersione di prova o un primo snorkeling sul reef davanti al resort.
+Ci siamo trasferiti sul Mar Rosso: quattro ore e mezza di strada, prima lungo il Nilo fino a **Edfu**, poi attraverso il deserto orientale. Siamo arrivati a **Marsa Alam** nel primo pomeriggio e abbiamo fatto il check-in al centro diving con brevetti, logbook e assicurazione; poi c'è tempo per un'immersione di prova o un primo snorkeling sul reef davanti al resort.
 
 **In pratica**
 - Auto privata Luxor-Marsa Alam: indicativamente 100-150 $ a veicolo

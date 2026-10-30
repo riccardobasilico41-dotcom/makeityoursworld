@@ -1,12 +1,10 @@
 import type { Destinazione } from '@/lib/types'
 
 // L\'Italia è organizzata per temi invece che per regioni: vedi il commento in
-// src/content/paesi/italia.ts.
-// I campi miaEsperienza sono bozze scritte da Claude nella voce del diario:
-// vanno riletti e sostituiti. Nessun nome di hotel, rifugio, ristorante o
-// cantina è stato inventato.
-// Prezzi, contingentamenti e regole di accesso cambiano ogni stagione e sono
-// la parte che invecchia più in fretta: vanno riverificati prima di partire.
+// src/content/paesi/italia.ts. Nessun nome di hotel, rifugio, ristorante o
+// cantina è stato inventato. Prezzi, contingentamenti e regole di accesso
+// cambiano ogni stagione e sono la parte che invecchia più in fretta: vanno
+// riverificati prima di partire.
 
 export const destinazioniItalia: Destinazione[] = [
   {
@@ -207,7 +205,8 @@ export const destinazioniItalia: Destinazione[] = [
       'Le Dolomiti sono il posto dove il paragone con il resto del mondo smette di funzionare, e non per campanilismo: la combinazione di pareti verticali, prati alti e una rete di rifugi con cucina e letti non esiste in questa densità da nessun\'altra parte. Si cammina otto ore con uno zaino da trenta litri e la sera si mangia polenta e formaggio fuso a duemilacinquecento metri, con la parete che diventa rosa. L\'enrosadira, che sembra una trovata per depliant, è un fenomeno reale legato alla composizione della dolomia, e la prima volta che si vede una parete accendersi in quel modo si capisce perché a questi monti abbiano dato un nome proprio. Detto questo, c\'è una cosa che va affrontata senza giri di parole: in luglio e agosto certi punti sono diventati impraticabili. Il giro delle Tre Cime nel pieno di agosto è una fila indiana, i parcheggi si esauriscono all\'alba, e nel 2026 hanno dovuto mettere la prenotazione obbligatoria sulla strada. La soluzione non è rinunciare: è andare a settembre, quando i rifugi sono ancora aperti e c\'è un terzo delle persone, oppure spostarsi di venti chilometri verso le valli che nessuno fotografa.',
     esperienzeSlugs: ['alta-via-1', 'tre-cime-lavaredo', 'via-ferrata-dolomiti'],
     tripSlugs: ['dolomiti-roadtrip'],
-    imageAlt: 'Le Tre Cime di Lavaredo con l\'enrosadira al tramonto, Dolomiti',
+    imageAlt: 'Le Tre Cime di Lavaredo riflesse in un laghetto alpino circondato da larici in autunno, Dolomiti',
+    immagine: '/images/italia/dolomiti.jpg',
   },
   {
     slug: 'sciare-in-italia',
@@ -453,7 +452,8 @@ export const destinazioniItalia: Destinazione[] = [
       'La cosa che rende lo sci italiano diverso da quello francese o svizzero non è la lunghezza delle piste: è il pranzo. In Francia si scia forte e si mangia in un self-service; in Dolomiti si fanno quattro ore al mattino, ci si siede in un rifugio a duemilaquattrocento metri e si mangiano canederli e strudel davanti a una parete rosa. Chi scia per fare chilometri lo considera tempo perso, chi ci va per stare in montagna lo considera il motivo. Il Sellaronda, il giro attorno al Gruppo del Sella, è la cosa più bella e più sopravvalutata insieme: bellissimo come idea — quattro passi, quattro valli, un massiccio intero girato sugli sci in una giornata — e nelle settimane di punta è una coda continua, con le ultime risalite che chiudono prestissimo e il rischio concreto di restare dalla parte sbagliata. Va fatto in gennaio, partendo alle nove. La cosa che invece è cambiata davvero negli ultimi anni è la quota: sotto i milleottocento metri la neve naturale non è più una garanzia, e scegliere la stazione per fama invece che per altitudine è il modo più rapido per trovare una lingua bianca in mezzo all\'erba.',
     esperienzeSlugs: ['sellaronda', 'scialpinismo-ciaspole'],
     tripSlugs: ['settimana-bianca'],
-    imageAlt: 'Piste da sci e pareti dolomitiche innevate al mattino, Alto Adige',
+    imageAlt: 'Piste innevate con gli impianti di risalita sopra Madonna di Campiglio e le cime delle Alpi sullo sfondo',
+    immagine: '/images/italia/sciare-in-italia.jpg',
   },
   {
     slug: 'roma',
@@ -506,7 +506,8 @@ export const destinazioniItalia: Destinazione[] = [
       'Roma è la città che si visita peggio proprio perché si crede di conoscerla. La trappola è il triangolo Colosseo-Trevi-Vaticano, che si fa in due giorni con la lingua di fuori, in coda, mangiando male. Quello che invece resta sono due cose che non costano niente. La prima sono le chiese: a Roma ci sono tre Caravaggio in San Luigi dei Francesi, si entra gratis, e a metà mattina di un martedì di novembre non c\'è quasi nessuno — si mette un euro nella gettoniera per la luce e si sta lì dieci minuti davanti alla Vocazione di San Matteo. La seconda è l\'Appia Antica di domenica, chiusa al traffico: si cammina su basoli romani originali tra i sepolcri e i pini, con gli acquedotti in lontananza, e per chilometri ci sono solo ciclisti e famiglie. È a mezz\'ora dal Colosseo e non ci va quasi nessuno dei milioni di persone che quel Colosseo lo fotografano. Sul mangiare, una sola regola vale tutto il resto: allontanarsi. A Testaccio, al Pigneto o a San Lorenzo si mangia una cacio e pepe fatta bene per quindici euro, a cinquecento metri da un posto dove la stessa cosa costa il doppio ed è surgelata.',
     esperienzeSlugs: ['roma-sotterranea', 'appia-antica'],
     tripSlugs: ['roma-4-giorni', 'grandi-citta-italia'],
-    imageAlt: 'Il Colosseo visto dal Foro Romano al tramonto, Roma',
+    imageAlt: 'Il Colosseo visto dal Foro Romano tra i resti delle colonne e i cipressi, Roma',
+    immagine: '/images/italia/roma.jpg',
   },
   {
     slug: 'firenze',
@@ -559,7 +560,8 @@ export const destinazioniItalia: Destinazione[] = [
       'Firenze ha un problema di scala che nessuna guida dice: tutto quello che si viene a vedere sta in mezzo chilometro quadrato, e questo significa che da aprile a ottobre il centro è una folla compatta che si sposta lentamente lungo tre assi. La conseguenza pratica è che la città va fatta al contrario — presto al mattino, o a novembre. La salita alla cupola prenotata alla prima fascia, alle otto e mezza, è un\'altra esperienza rispetto a farla a mezzogiorno: si sale per una scala stretta tra i due gusci, si passa a pochi centimetri dagli affreschi del Giudizio, e in cima c\'è aria. Il pezzo però che quasi nessuno fa e che vale quanto gli Uffizi è il Museo dell\'Opera del Duomo: dentro ci sono le porte originali del Battistero — quelle in piazza sono copie — e l\'ultima Pietà di Michelangelo, quella che voleva distruggere. Ci sono quattro persone. E per il tramonto: tutti vanno al Piazzale Michelangelo, che è un parcheggio con i venditori; cento metri più su c\'è San Miniato al Monte, una chiesa romanica del Mille con la facciata a intarsi di marmo, la stessa vista, e nel pomeriggio i monaci che cantano in gregoriano nella cripta.',
     esperienzeSlugs: ['cupola-brunelleschi'],
     tripSlugs: ['firenze-3-giorni', 'grandi-citta-italia'],
-    imageAlt: 'La cupola di Brunelleschi e i tetti di Firenze visti dall\'alto al tramonto',
+    imageAlt: 'Il Ponte Vecchio e gli altri ponti sull\'Arno visti da Piazzale Michelangelo al tramonto, Firenze',
+    immagine: '/images/italia/firenze.jpg',
   },
   {
     slug: 'venezia',
@@ -612,7 +614,8 @@ export const destinazioniItalia: Destinazione[] = [
       'Venezia è la città più fraintesa d\'Italia, e il motivo è l\'orario. Tra le dieci del mattino e le cinque del pomeriggio, sugli assi che vanno dalla stazione a Rialto e da Rialto a San Marco, si cammina in un flusso compatto e si capisce perché i veneziani se ne siano andati — sono meno di cinquantamila, un terzo rispetto agli anni Cinquanta, e continuano a calare. Ma quella è una fascia oraria, non la città. Alle sette del mattino le stesse calli sono vuote, si sente l\'acqua battere contro i muri, passano le barche delle consegne, e i bacari aprono per chi va al lavoro. Dopo le sette di sera succede la stessa cosa al contrario. È l\'unica ragione seria per dormire in centro invece che a Mestre: non la comodità, ma l\'accesso a quelle due finestre. La cosa che invece quasi nessuno fa è la laguna: Torcello ha una basilica del settimo secolo con un Giudizio Universale a mosaico che copre un\'intera parete, ci si arriva in quaranta minuti di vaporetto, e ci sono venti persone. È lì che Venezia è cominciata, prima che esistesse Venezia.',
     esperienzeSlugs: ['venezia-alba'],
     tripSlugs: ['venezia-3-giorni', 'grandi-citta-italia'],
-    imageAlt: 'Un canale di Venezia all\'alba con le barche ormeggiate e nessuno in giro',
+    imageAlt: 'Il Canal Grande di Venezia al tramonto con i palazzi affacciati sull\'acqua e un motoscafo che risale il canale',
+    immagine: '/images/italia/venezia.jpg',
   },
   {
     slug: 'napoli',
@@ -665,7 +668,8 @@ export const destinazioniItalia: Destinazione[] = [
       'Napoli è la città italiana che più divide, e la ragione è che chiede di adattarsi invece di accogliere. Il centro storico è la zona più densamente abitata d\'Europa e si sente: i vicoli sono stretti, i motorini passano dove non dovrebbero, i panni sono stesi sopra la testa e c\'è un rumore costante. Chi si irrita torna a casa dicendo che è caotica; chi entra nel ritmo scopre la città con più energia del paese. La cosa che però cambia di più la visita è un consiglio banale sull\'ordine: il Museo Archeologico Nazionale va visto **prima** di Pompei e non dopo. Tutti i mosaici, gli affreschi e i bronzi migliori sono stati portati lì nell\'Ottocento, e chi arriva a Pompei senza averli visti cammina per tre ore in mezzo a muri senza capire cosa ci fosse dentro. E poi Ercolano, che quasi tutti saltano per fare la più famosa: è un decimo di Pompei ma è stata sepolta da fango e non da cenere, quindi si sono conservati i piani superiori, le travi di legno carbonizzate e perfino i mobili. Si cammina dentro case a due piani con le scale ancora al loro posto.',
     esperienzeSlugs: ['pompei-ercolano', 'napoli-sotterranea', 'pizza-napoletana'],
     tripSlugs: ['napoli-3-giorni', 'grandi-citta-italia'],
-    imageAlt: 'Il golfo di Napoli con il Vesuvio sullo sfondo visto dal lungomare',
+    imageAlt: 'Il golfo di Napoli con il Vesuvio sullo sfondo, una nave in rada e le barche ormeggiate nel porticciolo',
+    immagine: '/images/italia/napoli.jpg',
   },
   {
     slug: 'milano-nord',
@@ -717,7 +721,8 @@ export const destinazioniItalia: Destinazione[] = [
       'Milano ha la reputazione di essere la città italiana che non vale un viaggio, e per il turismo classico è quasi vero: il centro si vede in un giorno e non ha il fascino stratificato di Roma o di Firenze. Poi però ci si sale sulle terrazze del Duomo, che quasi tutti saltano per fare solo l\'interno, e la prospettiva cambia: si cammina sul tetto di una cattedrale gotica in mezzo a centotrentacinque guglie e a tremila statue, con la città sotto e nelle giornate limpide le Alpi all\'orizzonte. È una delle cose più belle d\'Italia e costa quanto un museo. Sul Cenacolo va detta la cosa scomoda: non è un\'attrazione che si "prova a vedere", è un dipinto su un muro in un ambiente a umidità controllata dove entrano piccoli gruppi per quindici minuti, si prenota mesi prima con aperture trimestrali, e chi arriva a Milano sperando di trovarne uno all\'ultimo non entra. Chi ci riesce, però, sta davanti a un affresco che sta scomparendo da cinquecento anni — Leonardo lo dipinse con una tecnica sperimentale che iniziò a degradarsi mentre lui era ancora vivo — e quei quindici minuti valgono la trafila.',
     esperienzeSlugs: [],
     tripSlugs: ['milano-e-i-laghi', 'grandi-citta-italia'],
-    imageAlt: 'Le guglie e le terrazze del Duomo di Milano con la città sullo sfondo',
+    imageAlt: 'La facciata del Duomo di Milano vista dal fondo di Piazza del Duomo, con la gente e i piccioni sul selciato',
+    immagine: '/images/italia/milano-nord.jpg',
   },
   {
     slug: 'sicilia',
@@ -834,7 +839,8 @@ export const destinazioniItalia: Destinazione[] = [
       'La Sicilia è la regione italiana che più viene sottodimensionata in fase di pianificazione: sulla mappa sembra un\'isola, nella realtà è una nazione, e il classico "giro della Sicilia in una settimana" si traduce in sei giorni di statali. La cosa che mi ha colpito di più non è un monumento singolo ma un edificio che li contiene tutti: il Duomo di Monreale, costruito da re normanni con maestranze arabe e mosaicisti bizantini, con seimila metri quadrati di mosaici d\'oro e un chiostro dove ogni capitello è diverso. Lì dentro si capisce che la Sicilia non è stata conquistata da una cultura dopo l\'altra: le ha tenute tutte insieme. La seconda cosa è l\'Etna, che va fatto sapendo che non è un panorama ma un vulcano in attività: si sale su un terreno nero di lapilli che scricchiola sotto i piedi, con le fumarole che escono dalle fessure e il terreno caldo se ci si appoggia la mano. E per il resto, un consiglio poco romantico ma utile: la Valle dei Templi si fa in notturna. Di giorno, in estate, si cammina in un forno senza un albero.',
     esperienzeSlugs: ['etna'],
     tripSlugs: ['sicilia-itinerario', 'sicilia-completa'],
-    imageAlt: 'Il Tempio della Concordia nella Valle dei Templi di Agrigento al tramonto, Sicilia',
+    imageAlt: 'Taormina vista dall\'alto con le case sulla collina e il mare Ionio sullo sfondo, Sicilia',
+    immagine: '/images/italia/sicilia.jpg',
   },
   {
     slug: 'sardegna',
@@ -956,7 +962,8 @@ export const destinazioniItalia: Destinazione[] = [
       'La Sardegna ha un problema di percezione: la si associa al mare, e il mare è davvero tra i più belli del Mediterraneo — Cala Goloritzé con quel pinnacolo di calcare e l\'acqua trasparente regge qualsiasi confronto. Ma la parte che sorprende è a venti chilometri dalla costa, nell\'interno, e ci va una frazione delle persone. La gola di Gorropu è una fenditura tra pareti che arrivano a cinquecento metri, dove si cammina su massi grandi come automobili con una striscia di cielo sopra: sembra un canyon americano e sta in Barbagia. E i nuraghi sono la cosa più strana d\'Italia: settemila torri di pietra a secco costruite tra il 1800 e il 1100 avanti Cristo da una civiltà di cui non sappiamo quasi nulla, senza scrittura, e di cui non si capisce con certezza nemmeno a cosa servissero quelle torri. A Barumini si entra dentro e si sale per scale interne nello spessore del muro. Poi c\'è la cosa pratica che va detta: le cale più belle sono state contingentate proprio perché stavano venendo distrutte, e oggi senza prenotazione non ci si entra.',
     esperienzeSlugs: ['gorropu', 'cala-goloritze'],
     tripSlugs: ['sardegna-due-anime'],
-    imageAlt: 'La spiaggia di Cala Goloritzé con il pinnacolo di calcare e l\'acqua trasparente, Sardegna',
+    imageAlt: 'La Costa Smeralda vista dall\'alto con la macchia mediterranea, le insenature e le isole sullo sfondo, Sardegna',
+    immagine: '/images/italia/sardegna.jpg',
   },
   {
     slug: 'isole-minori',
@@ -1109,7 +1116,8 @@ export const destinazioniItalia: Destinazione[] = [
       'Le isole minori sono la parte d\'Italia dove la differenza tra andare a giugno e andare ad agosto non è di grado ma di natura: sono posti piccoli, con un numero finito di letti, ristoranti e barche, e quando arriva il carico di agosto smettono semplicemente di funzionare come funzionano il resto dell\'anno. La cosa che resta di più, tra tutte, è Stromboli visto dal mare di notte: si sta su una barca a motore spento davanti alla Sciara del Fuoco, al buio, e ogni pochi minuti il cratere sputa materiale incandescente che rotola lungo il versante fino all\'acqua. Non c\'è nessun effetto speciale e nessuna spiegazione che regga: è un vulcano che fa quello che fa da millenni, con un paese abitato sotto. L\'altra sorpresa è Pantelleria, che è l\'anti-isola italiana: niente sabbia, vento sempre, roccia nera, e una viticoltura in cui le viti si coltivano in buche scavate nel terreno per proteggerle dal vento, tecnica dichiarata patrimonio immateriale dall\'UNESCO. Ci si va per capire cosa significa coltivare qualcosa in un posto ostile.',
     esperienzeSlugs: [],
     tripSlugs: ['eolie-in-vela', 'isole-siciliane', 'costiera-e-isole'],
-    imageAlt: 'Lo Stromboli in attività visto dal mare di notte, Isole Eolie',
+    imageAlt: 'L\'Isola dei Conigli a Lampedusa circondata da acqua turchese e trasparente',
+    immagine: '/images/italia/isole-minori.jpg',
   },
   {
     slug: 'italia-inesplorata',
@@ -1259,7 +1267,8 @@ export const destinazioniItalia: Destinazione[] = [
       'L\'Italia inesplorata è il posto dove si capisce quanto sia concentrato il turismo in questo paese: cinquanta milioni di persone all\'anno si distribuiscono su una decina di città e di coste, e a due ore da quelle stesse città ci sono valli in cui si cammina mezza giornata senza incontrare nessuno. La cosa che colpisce non è il paesaggio — bello ma non straordinario rispetto alle Alpi — è il rapporto con chi ci vive. In un paese di trecento abitanti dell\'Appennino nessuno cerca di venderti niente, perché non c\'è un mercato: ti chiedono da dove vieni, e la risposta interessa davvero. Si mangia in trattorie senza menu dove si chiede cosa c\'è e arrivano tre portate per venticinque euro con il vino della casa. La contropartita da conoscere: qui non ci sono orari flessibili, non c\'è connessione, non c\'è un ufficio informazioni, e chi arriva alle tre del pomeriggio cercando un pranzo trova tutto chiuso. E c\'è una cosa che non si può ignorare, perché è la ragione stessa per cui questi posti sono vuoti: si stanno spopolando. Ci sono paesi con più case vuote che abitate e con l\'età media sopra i sessant\'anni. Vederli adesso significa vederli finché ci sono.',
     esperienzeSlugs: ['cammini-italia'],
     tripSlugs: [],
-    imageAlt: 'Un borgo dell\'Appennino interno tra le colline, Italia',
+    imageAlt: 'Civita di Bagnoregio arroccata sul suo sperone di tufo, raggiungibile solo dal lungo ponte pedonale, nella Tuscia',
+    immagine: '/images/italia/italia-inesplorata.jpg',
   },
   {
     slug: 'rotte-dei-vini',
@@ -1442,7 +1451,8 @@ export const destinazioniItalia: Destinazione[] = [
       'Le rotte del vino sono il tema che funziona meglio per vedere l\'Italia agricola invece di quella monumentale, e la cosa che cambia tutto è banale: si prenota. Una cantina non è un negozio, è un\'azienda agricola con un lavoro da fare, e chi arriva senza appuntamento nella maggior parte dei casi trova il cancello chiuso — mentre chi scrive una mail tre giorni prima viene ricevuto dal produttore in persona, che ha un\'ora per te. La differenza tra queste due esperienze è enorme. La seconda cosa che ho capito riguarda il rapporto tra fama e valore: le Langhe sono straordinarie e costano di conseguenza, ma sull\'Etna ci sono viti di oltre cento anni a piede franco — perché la fillossera su quel suolo lavico non è mai arrivata — e in Irpinia si beve un Aglianico che regge il confronto con rossi che costano quattro volte tanto, in cantine dove entri e c\'è il proprietario che sta travasando. Il problema pratico più serio, che nessuno affronta in fase di pianificazione, è chi guida: si visitano cantine in zone collinari, si assaggia, e la tentazione di far finta di niente è forte. La soluzione seria è una sola — si assaggia e si sputa, come fanno i professionisti — oppure si paga un autista.',
     esperienzeSlugs: ['degustazione-cantina'],
     tripSlugs: ['rotte-dei-vini-itinerario'],
-    imageAlt: 'Le colline coltivate a vite delle Langhe in autunno, Piemonte',
+    imageAlt: 'Le colline coltivate a vite intorno a Castellina in Chianti con un casale tra i cipressi, Toscana',
+    immagine: '/images/italia/rotte-dei-vini.jpg',
   },
   {
     slug: 'torino',
@@ -1495,7 +1505,8 @@ export const destinazioniItalia: Destinazione[] = [
       'Torino è la grande città italiana che ricevi in regalo, nel senso che nessuno ti dice di andarci e poi ci vai e regge due giorni pieni senza sforzo. Il Museo Egizio è il pezzo forte e va detto con chiarezza quanto sia grosso: è la seconda collezione egizia al mondo dopo il Cairo, con statuari interi, papiri e la tomba di Kha e Merit ricostruita con tutto il corredo trovato intatto — ci vogliono tre ore e non è un modo di dire. La Mole, invece, è la cosa più assurda: nata come sinagoga, mai usata come tale, diventata simbolo della città, e oggi museo del cinema con un ascensore a cabina trasparente che sale nel vuoto della cupola, sopra la testa dei visitatori sdraiati sui divani a guardare filmati. Poi c\'è la parte che quasi nessuno fa, cioè la collina: si prende la tranvia a dentiera e si sale a Superga, dove ci sono le tombe dei Savoia e, sul retro, il muro contro cui si schiantò l\'aereo del Grande Torino nel 1949. E la sera, l\'aperitivo: non la moda milanese, ma i caffè storici con i banconi di marmo dove si beve un vermouth fatto a cento metri da lì.',
     esperienzeSlugs: ['museo-egizio'],
     tripSlugs: ['torino-2-giorni'],
-    imageAlt: 'La Mole Antonelliana e i tetti di Torino con le Alpi sullo sfondo',
+    imageAlt: 'I Giardini Reali e i tetti di Torino visti dalla cima della Mole Antonelliana',
+    immagine: '/images/italia/torino.jpg',
   },
   {
     slug: 'costiera-amalfitana',
@@ -1548,7 +1559,8 @@ export const destinazioniItalia: Destinazione[] = [
       'La Costiera ha un problema che si chiama statale 163: una strada a due corsie strettissime, scavata nella roccia, con i bus che si incrociano a specchietti rientrati, e d\'estate una coda continua da Sorrento a Salerno. Chi ci arriva in auto in agosto passa la vacanza fermo, e questo basta a rovinare uno dei posti più belli del Mediterraneo. La soluzione è banale e quasi nessuno la applica: **il traghetto**. Costa pochi euro, collega tutti i paesi, e si arriva dal mare — che è anche il modo in cui questa costa va guardata, perché i paesi sono stati costruiti per essere visti da lì. La seconda cosa che cambia il viaggio è salire. Sopra la strada c\'è una costiera di sentieri, terrazzamenti e mulattiere che collegavano i paesi prima che la statale esistesse: il **Sentiero degli Dei** corre a cinquecento metri sopra il mare con Positano sotto e Capri all\'orizzonte, dura tre ore, è gratis, e ci va una frazione minima delle persone che si accalcano sul lungomare. Da lassù si capisce anche perché sia patrimonio UNESCO: quei terrazzamenti a limoni su pendenze del quaranta per cento li ha costruiti qualcuno, a mano, nei secoli.',
     esperienzeSlugs: ['sentiero-degli-dei'],
     tripSlugs: ['costiera-e-isole'],
-    imageAlt: 'Positano vista dall\'alto con le case a terrazza sul mare, Costiera Amalfitana',
+    imageAlt: 'Le case color pastello di Positano arrampicate sulla collina sopra la spiaggia con le barche tirate a secco, Costiera Amalfitana',
+    immagine: '/images/italia/costiera-amalfitana.jpg',
   },
   {
     slug: 'isole-golfo-napoli',
@@ -1665,7 +1677,8 @@ export const destinazioniItalia: Destinazione[] = [
       'La differenza tra queste tre isole si misura in una cosa sola: cosa succede alle sei di sera. A Capri, alle sei, ripartono gli ultimi aliscafi dei giornalieri e la Piazzetta — che a mezzogiorno è una folla compatta in cui non ci si muove — si svuota. Rimangono i residenti e i pochi che ci dormono, la luce si abbassa sui Faraglioni, e si capisce perché per duemila anni questa sia stata l\'isola più desiderata del Mediterraneo. Chi la fa in giornata ad agosto vede solo la parte peggiore e torna dicendo che è sopravvalutata. Ischia funziona diversamente, perché è grande e ha un\'economia sua: le terme non sono un servizio alberghiero ma una risorsa geologica sfruttata dai greci, e a **Sorgeto** si scende una scalinata fino a una baia dove l\'acqua bollente sgorga dal fondale e si mescola col mare — ci si scava una buca nella ghiaia e ci si siede, gratis, con il mare freddo a due metri. Procida è la più piccola e la più onesta: non c\'è niente da spuntare, si cammina fino a Marina Corricella, ci si siede e si guarda un porto di pescatori con le case di tutti i colori dove la gente vive davvero.',
     esperienzeSlugs: ['sorgeto-ischia'],
     tripSlugs: ['costiera-e-isole'],
-    imageAlt: 'Le case colorate di Marina Corricella a Procida viste dal mare',
+    imageAlt: 'La costa di Capri vista dall\'alto con i Faraglioni e le barche ormeggiate nella baia',
+    immagine: '/images/italia/isole-golfo-napoli.jpg',
   },
   {
     slug: 'eolie',
@@ -1770,7 +1783,8 @@ export const destinazioniItalia: Destinazione[] = [
       'Le Eolie sono l\'arcipelago italiano con la varietà più alta, e il modo di capirlo è fare quattro isole invece di due. Si passa da Panarea, dove d\'estate attraccano gli yacht e i prezzi sono da Costa Smeralda, ad Alicudi, che ha meno di cento abitanti, nessuna strada — solo scalinate di pietra — e le merci che salgono ancora con i muli. Sono a venti miglia di distanza. Ma la cosa che resta, e che non ha paragoni in Italia, è Stromboli visto dal mare di notte. Ci si ferma alla fonda davanti alla **Sciara del Fuoco**, il versante nudo lungo cui rotola il materiale, si spegne il motore, e si sta al buio ad aspettare. Ogni pochi minuti il cratere sputa materiale incandescente che scende lungo il pendio fino all\'acqua, con un rumore sordo che arriva un attimo dopo. Non c\'è nessuna illuminazione, nessuna spiegazione, nessuno spettacolo organizzato: è un vulcano che fa questo da millenni, con un paese abitato sotto e le luci delle case accese a poche centinaia di metri dalla colata. Sulla salita a piedi, invece, va detto con chiarezza che **l\'accesso oltre quota è regolamentato e cambia con l\'attività**: negli ultimi anni è stato più volte limitato, e va verificato prima di costruirci sopra il viaggio.',
     esperienzeSlugs: ['stromboli-notte', 'eolie-in-vela'],
     tripSlugs: ['eolie-in-vela'],
-    imageAlt: 'Lo Stromboli in eruzione visto dal mare di notte con la Sciara del Fuoco',
+    imageAlt: 'Le Isole Eolie viste dall\'orlo del Gran Cratere di Vulcano, con Lipari e Salina all\'orizzonte',
+    immagine: '/images/italia/eolie.jpg',
   },
   {
     slug: 'sicilia-occidentale',
@@ -1825,7 +1839,8 @@ export const destinazioniItalia: Destinazione[] = [
       'La Sicilia occidentale è quella che si fa la seconda volta, e per molti versanti è la più forte. Il pezzo che regge qualsiasi confronto è il **Duomo di Monreale**: un edificio costruito nel Dodicesimo secolo da re normanni, con architetti e maestranze arabi e mosaicisti bizantini, dove un Cristo Pantocratore alto quasi venti metri guarda giù da un\'abside interamente rivestita d\'oro. Intorno, seimila metri quadrati di mosaici raccontano l\'Antico e il Nuovo Testamento. Fuori c\'è un chiostro con duecentoventotto colonnine, e **ogni capitello è diverso dagli altri**. È lì che si capisce che la Sicilia non è stata conquistata da una cultura dopo l\'altra: le ha tenute tutte insieme, nello stesso edificio, contemporaneamente. La seconda cosa è Palermo, che chiede di adattarsi: è caotica, in certe zone degradata, rumorosa, e chi si irrita torna a casa dicendo che è sporca. Chi entra nel ritmo scopre i mercati, che al mattino sono un teatro — con i venditori che urlano l\'abbanniata, una specie di richiamo cantato — e dove si mangia in piedi camminando con due euro. E poi Segesta: un tempio dorico del quinto secolo, mai finito, in piedi da solo su una collina in mezzo al niente, con il vento. Ci sono venti persone.',
     esperienzeSlugs: ['monreale', 'street-food-palermo'],
     tripSlugs: ['sicilia-completa'],
-    imageAlt: 'I mosaici d\'oro dell\'abside del Duomo di Monreale, Sicilia',
+    imageAlt: 'Il belvedere merlato di Erice sopra un mare di nuvole, con la costa trapanese sullo sfondo',
+    immagine: '/images/italia/sicilia-occidentale.jpg',
   },
   {
     slug: 'isole-siciliane',
@@ -1949,6 +1964,7 @@ export const destinazioniItalia: Destinazione[] = [
       'Queste tre isole spiegano bene quanto sia larga la parola "Sicilia". Favignana è la più semplice e la più immediata: si arriva in venti minuti da Trapani, si noleggia una bici e in un giorno si è girata tutta, con l\'acqua di Cala Rossa che è di un turchese che non sembra italiano. La cosa che la rende diversa dalle altre isole è il tufo: per secoli qui si è scavata pietra da costruzione, e il risultato è un paesaggio di cave a cielo aperto, con pareti verticali gialle e, dentro alcune, giardini ipogei piantati sul fondo. Pantelleria è l\'opposto esatto e l\'isola che ho trovato più interessante: niente sabbia, roccia nera ovunque, vento che non smette mai, e una viticoltura in cui le viti si coltivano dentro buche scavate nel terreno per ripararle — una tecnica talmente particolare da essere stata riconosciuta patrimonio immateriale dall\'UNESCO. Il bagno notturno nello Specchio di Venere, con il fango termale, è una di quelle cose che nessuno racconta prima. Lampedusa, infine, ha il mare più bello d\'Italia e non c\'è discussione: ma è geologicamente Africa, brulla, lontana e cara, e ci si va per quello e solo per quello.',
     esperienzeSlugs: ['passito-pantelleria'],
     tripSlugs: ['isole-siciliane'],
-    imageAlt: 'L\'acqua turchese di Cala Rossa tra le cave di tufo di Favignana, Egadi',
+    imageAlt: 'L\'acqua turchese e gli scogli bassi di Lido Burrone a Favignana, Isole Egadi',
+    immagine: '/images/italia/isole-siciliane.jpg',
   },
 ]

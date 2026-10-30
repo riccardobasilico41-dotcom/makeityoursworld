@@ -1,6 +1,7 @@
 'use client'
 
 import { useMemo, useState } from 'react'
+import { SlidersHorizontal } from 'lucide-react'
 import { TripCard } from './TripCard'
 import { RevealGroup, RevealItem } from './Reveal'
 import type { Viaggio } from '@/lib/viaggi'
@@ -69,6 +70,7 @@ export function TripFilters({ viaggi }: { viaggi: Viaggio[] }) {
   const [paese, setPaese] = useState<string>('tutti')
   const [stiliAttivi, setStiliAttivi] = useState<string[]>([])
   const [durata, setDurata] = useState<string>('tutte')
+  const [filtriAperti, setFiltriAperti] = useState(false)
 
   const continenti = useMemo(
     () => Array.from(new Set(viaggi.map((v) => getContinente(v.categorie)))).sort(),
@@ -100,8 +102,24 @@ export function TripFilters({ viaggi }: { viaggi: Viaggio[] }) {
     setStiliAttivi((prev) => (prev.includes(stile) ? prev.filter((s) => s !== stile) : [...prev, stile]))
   }
 
+  const filtriAttivi =
+    (continente !== 'tutti' ? 1 : 0) + (paese !== 'tutti' ? 1 : 0) + (durata !== 'tutte' ? 1 : 0) + stiliAttivi.length
+
   return (
     <div>
+      {/* Sul telefono i filtri stanno chiusi dietro un pulsante: i viaggi compaiono subito. */}
+      <button
+        type="button"
+        aria-expanded={filtriAperti}
+        aria-controls="filtri-viaggi"
+        onClick={() => setFiltriAperti((a) => !a)}
+        className="inline-flex min-h-11 items-center gap-2 border-2 border-ink bg-white px-4 text-sm font-semibold text-ink md:hidden"
+      >
+        <SlidersHorizontal size={16} aria-hidden="true" />
+        Filtri{filtriAttivi > 0 ? ` (${filtriAttivi})` : ''}
+      </button>
+
+      <div id="filtri-viaggi" className={`${filtriAperti ? 'mt-4 block' : 'hidden'} md:mt-0 md:block`}>
       <div className="flex flex-wrap items-center gap-3">
         <label className="flex items-center gap-2 text-sm text-stone">
           Continente
@@ -189,6 +207,7 @@ export function TripFilters({ viaggi }: { viaggi: Viaggio[] }) {
             )
           })}
         </div>
+      </div>
       </div>
 
       <p className="mt-4 text-sm text-stone/70">

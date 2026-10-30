@@ -22,7 +22,8 @@ export const esperienzeMarocco: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['marocco-360'],
-    imageAlt: 'Cielo stellato sopra il campo tendato nel deserto di Erg Chebbi, Marocco',
+    imageAlt: 'Le dune di Erg Chebbi increspate dal vento alla luce dell\'alba',
+    immagine: '/images/marocco/notte-deserto-erg-chebbi.jpg',
   },
   {
     slug: 'gole-todra',
@@ -43,7 +44,8 @@ export const esperienzeMarocco: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['marocco-360'],
-    imageAlt: 'Le pareti a strapiombo delle Gole di Todra, Marocco',
+    imageAlt: 'Il palmeto e i campi della valle del Todra a Tinghir, ai piedi delle pareti rocciose che portano alle gole',
+    immagine: '/images/marocco/gole-todra.jpg',
   },
   {
     slug: 'quad-deserto-merzouga',
@@ -64,7 +66,8 @@ export const esperienzeMarocco: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: ['Moto nel deserto, per chi ha la patente e prenota con anticipo'],
     tripSlugs: ['marocco-360'],
-    imageAlt: 'Quad che attraversa le dune del deserto vicino a Merzouga, Marocco',
+    imageAlt: 'Il crinale di una grande duna di sabbia arancione all\'alba a Merzouga',
+    immagine: '/images/marocco/quad-deserto-merzouga.jpg',
   },
   {
     slug: 'surf-taghazout',
@@ -85,7 +88,8 @@ export const esperienzeMarocco: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: [],
     tripSlugs: ['marocco-360'],
-    imageAlt: 'Lezione di surf sulle onde di Taghazout, Marocco',
+    imageAlt: 'Un\'onda dell\'oceano Atlantico in formazione al largo di Taghazout',
+    immagine: '/images/marocco/surf-taghazout.jpg',
   },
   {
     slug: 'hammam-essaouira',
@@ -106,7 +110,8 @@ export const esperienzeMarocco: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['marocco-360'],
-    imageAlt: 'Interni di un hammam tradizionale a Essaouira, Marocco',
+    imageAlt: 'La Sqala, il bastione settecentesco in pietra sul porto di Essaouira',
+    immagine: '/images/marocco/hammam-essaouira.jpg',
   },
   {
     slug: 'tour-marrakech',
@@ -127,7 +132,8 @@ export const esperienzeMarocco: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['marocco-360'],
-    imageAlt: 'La Medersa Ali Ben Youssef con i suoi intricati intagli decorativi, Marrakech, Marocco',
+    imageAlt: 'Il minareto della moschea Koutoubia con una palma in primo piano, Marrakech',
+    immagine: '/images/marocco/tour-marrakech.jpg',
   },
   {
     slug: 'jardin-majorelle',
@@ -148,6 +154,7 @@ export const esperienzeMarocco: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['marocco-360'],
-    imageAlt: 'Architetture blu cobalto tra le piante esotiche del Jardin Majorelle, Marrakech, Marocco',
+    imageAlt: 'La villa blu Majorelle tra cactus e piante del giardino, Marrakech',
+    immagine: '/images/marocco/jardin-majorelle.jpg',
   },
 ]

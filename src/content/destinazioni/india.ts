@@ -331,7 +331,8 @@ export const destinazioniIndia: Destinazione[] = [
     erroriDaEvitare: ['Fare il bagno a Marina Beach: correnti pericolose e niente bagnini', 'Programmare la visita tra ottobre e dicembre senza considerare i cicloni'],
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
-    imageAlt: 'Le torri colorate del tempio di Kapaleeshwarar nel quartiere di Mylapore a Chennai',
+    imageAlt: 'Le onde sulla sabbia di Marina Beach al crepuscolo, Chennai',
+    immagine: '/images/india/chennai.jpg',
   },
   {
     slug: 'mamallapuram',

@@ -54,6 +54,7 @@ export const ungheria: Paese = {
     emergenze: 'Numero unico europeo 112. L\'Ambasciata d\'Italia è a Budapest.',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'Il Parlamento ungherese illuminato sulla riva del Danubio, visto dal lato di Buda',
+  heroImageAlt: 'Il Parlamento ungherese illuminato all\'ora blu, riflesso nel Danubio visto dalla riva di Buda',
+  heroImage: '/images/ungheria/ungheria-paese.jpg',
   tripPrincipaleSlug: 'budapest-weekend',
 }

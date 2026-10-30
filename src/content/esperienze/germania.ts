@@ -29,7 +29,8 @@ export const esperienzeGermania: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['La terrazza panoramica della Basilica di Santo Stefano-equivalente locale non esiste a Berlino: altri punti panoramici alternativi sono la Fernsehturm (Torre della TV) di Alexanderplatz, a pagamento ma senza necessità di prenotazione con largo anticipo'],
     tripSlugs: ['berlino-weekend'],
-    imageAlt: 'La rampa a spirale interna della cupola di vetro del Reichstag, con lo specchio centrale e la vista su Berlino',
+    imageAlt: 'La bandiera tedesca e i tetti di Berlino visti attraverso la struttura in acciaio e vetro della cupola del Reichstag',
+    immagine: '/images/germania/reichstag-cupola.jpg',
   },
   {
     slug: 'museumsinsel-pergamon',
@@ -52,7 +53,8 @@ export const esperienzeGermania: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Concentrarsi su Neues Museum e Altes Museum, entrambi interamente aperti, se l\'obiettivo principale era proprio la sala del Pergamonmuseum ora chiusa'],
     tripSlugs: ['berlino-weekend'],
-    imageAlt: 'La Porta di Ishtar in ceramica blu e oro ricostruita all\'interno del Pergamonmuseum di Berlino',
+    imageAlt: 'La Porta di Ishtar in mattoni smaltati blu con leoni, tori e draghi in rilievo, ricostruita all\'interno del Pergamonmuseum di Berlino',
+    immagine: '/images/germania/museumsinsel-pergamon.jpg',
   },
   {
     slug: 'east-side-gallery',
@@ -73,7 +75,8 @@ export const esperienzeGermania: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['La Gedenkstätte Berliner Mauer lungo Bernauer Straße, più istituzionale e documentaria, per chi cerca il lato storico-informativo del Muro invece di quello artistico'],
     tripSlugs: ['berlino-weekend'],
-    imageAlt: 'Il murale del "Bacio fraterno" tra Brežnev e Honecker sull\'East Side Gallery di Berlino',
+    imageAlt: 'Il murale del Bacio fraterno tra Brežnev e Honecker lungo l\'East Side Gallery di Berlino, con i visitatori che passeggiano accanto al muro',
+    immagine: '/images/germania/east-side-gallery.jpg',
   },
   {
     slug: 'berlino-clubbing',

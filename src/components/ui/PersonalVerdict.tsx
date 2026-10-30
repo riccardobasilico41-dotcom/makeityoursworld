@@ -15,6 +15,8 @@ export function PersonalVerdict({
   giudizio: GiudizioEsperienza
   className?: string
 }) {
+  // «Da verificare» è uno stato di lavoro: al lettore non si mostra.
+  if (giudizio === 'da-verificare') return null
   const { classes, icon: Icon } = STYLE[giudizio]
   return (
     <span

@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import Image from 'next/image'
-import { ArrowUpRight, Compass, Mountain, TreePalm, Landmark, Sun, Waves } from 'lucide-react'
+import { ArrowUpRight, Compass, Mountain, TreePalm, Landmark, Sun, Waves, type LucideProps } from 'lucide-react'
 import type { Viaggio } from '@/lib/viaggi'
 import { getContinente } from '@/lib/utils'
 import { FeaturedBorderTrail } from './FeaturedBorderTrail'
@@ -28,13 +28,14 @@ function gradientFor(continente: string) {
   return GRADIENTS[continente] ?? 'from-alpine to-alpine-dark'
 }
 
-function iconFor(continente: string) {
-  return ICONS[continente] ?? Compass
+/** Icona del riquadro senza foto: un componente lucide per continente. */
+function IconaContinente({ continente, ...props }: { continente: string } & LucideProps) {
+  const Icona = ICONS[continente] ?? Compass
+  return <Icona {...props} />
 }
 
 export function TripCard({ viaggio, featured = false }: { viaggio: Viaggio; featured?: boolean }) {
   const continente = getContinente(viaggio.categorie)
-  const Icon = iconFor(continente)
   const copertina = copertineViaggi[viaggio.slug]
 
   return (
@@ -60,7 +61,8 @@ export function TripCard({ viaggio, featured = false }: { viaggio: Viaggio; feat
             <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/60 via-black/5 to-transparent" />
           </>
         ) : (
-          <Icon
+          <IconaContinente
+            continente={continente}
             size={featured ? 140 : 96}
             strokeWidth={1}
             className="pointer-events-none absolute -right-4 -top-4 text-cream/10 transition-transform duration-700 group-hover:scale-110"
@@ -69,11 +71,6 @@ export function TripCard({ viaggio, featured = false }: { viaggio: Viaggio; feat
         <p className="relative z-10 text-xs font-semibold uppercase tracking-[0.18em] text-cream/70">
           {continente}
         </p>
-        {viaggio.inLavorazione && (
-          <span className="absolute right-4 top-4 z-10 rounded-none bg-cream/15 px-2.5 py-1 text-[0.65rem] font-semibold uppercase tracking-wider text-cream/80 backdrop-blur">
-            Racconto in arrivo
-          </span>
-        )}
       </div>
       <div className="flex flex-1 flex-col gap-3 p-6">
         <h3

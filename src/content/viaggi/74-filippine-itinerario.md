@@ -17,7 +17,7 @@ Le Filippine sono un Paese di isole, e il viaggio si costruisce intorno agli spo
 
 ### Quando andare, mese per mese, e i tifoni
 - **Dicembre-febbraio:** stagione secca a Palawan e nelle Visayas, temperature gradevoli, mare a volte mosso per il vento del nord-est. Siargao, esposta al Pacifico, è nel periodo più piovoso e ventoso. Natale e Capodanno sono il periodo più caro e pieno dell'anno.
-- **Marzo-maggio:** il periodo ideale per questo itinerario: secco ovunque, mare calmo, ottima visibilità per le immersioni. Aprile e maggio sono i mesi più caldi (33-35 °C). La Settimana Santa riempie tutto: va prenotata con mesi di anticipo.
+- **Marzo-maggio:** il periodo migliore per questo itinerario, secco ovunque, mare calmo, ottima visibilità per le immersioni. Aprile e maggio sono i mesi più caldi (33-35 °C). La Settimana Santa riempie tutto: per quei giorni si prenota con mesi di anticipo.
 - **Giugno-luglio:** comincia la stagione delle piogge (habagat), con acquazzoni pomeridiani e i primi tifoni. Prezzi più bassi; Siargao è ancora buona.
 - **Agosto-ottobre:** il cuore della stagione dei tifoni. Le Filippine ne vedono in media una ventina all'anno, la maggior parte tra agosto e ottobre, con impatto più forte a Luzon e nelle Visayas orientali. Barche e traghetti si fermano spesso, i voli vengono cancellati. Siargao ha l'onda migliore per i surfisti esperti da settembre a novembre.
 - **Novembre:** stagione di transizione, ancora a rischio di tifoni, con alcuni dei più violenti degli ultimi anni arrivati proprio tra novembre e dicembre.
@@ -27,12 +27,12 @@ Le Filippine sono un Paese di isole, e il viaggio si costruisce intorno agli spo
 - **Documenti:** passaporto con almeno 6 mesi di validità residua. Ingresso senza visto per turismo fino a 30 giorni, con **biglietto di uscita** dal Paese che le compagnie aeree controllano all'imbarco in Italia.
 - **eTravel:** registrazione obbligatoria e **gratuita** sul portale ufficiale etravel.gov.ph entro le 72 ore prima dell'arrivo, con un QR code da mostrare in aeroporto. Molti siti la fanno pagare decine di euro: non serve.
 - **Valuta:** peso filippino (PHP), indicativamente 70-72 pesos per un euro (ottobre 2026).
-- **Pagamenti:** carte nelle città, negli hotel e nei ristoranti turistici. Contanti per barche, tricycle, tasse ambientali e quasi tutto il resto sulle isole. A El Nido, Coron e Siargao gli ATM sono pochi, a volte vuoti nei weekend, e chiedono 250-500 PHP di commissione: si preleva a Manila o a Cebu prima di partire.
+- **Pagamenti:** carte nelle città, negli hotel e nei ristoranti turistici. Contanti per barche, tricycle, tasse ambientali e quasi tutto il resto sulle isole. A El Nido, Coron e Siargao gli ATM sono pochi, a volte vuoti nei weekend, e chiedono 250-500 PHP di commissione: conviene prelevare a Manila o a Cebu prima di partire.
 
 ### Come muoversi tra le isole
-- **Voli interni:** Cebu Pacific e Philippine Airlines collegano Manila e Cebu con tutte le isole. Biglietti indicativamente 40-120 € a tratta, bagaglio in stiva spesso a parte. Le compagnie low cost cambiano orari di frequente: si controlla la mail il giorno prima. AirSwift vola su El Nido da Manila, comodo ma più caro.
+- **Voli interni:** Cebu Pacific e Philippine Airlines collegano Manila e Cebu con tutte le isole. Biglietti indicativamente 40-120 € a tratta, bagaglio in stiva spesso a parte. Le compagnie low cost cambiano spesso gli orari: conviene controllare la mail il giorno prima. AirSwift vola su El Nido da Manila, comodo ma più caro.
 - **Manila-El Nido:** volo su **Puerto Princesa** (1h20) e poi van condiviso fino a El Nido, 5-6 ore, indicativamente 600-800 PHP. In alternativa il volo diretto AirSwift.
-- **El Nido-Coron:** traghetto veloce (Montenegro Lines, Phimal e altre compagnie), 3,5-4 ore, indicativamente 1.800-3.500 PHP a persona secondo compagnia e classe. I traghetti lenti impiegano 7-9 ore. Partenze al mattino, annullate con mare mosso. Oppure la **spedizione in barca di 3-5 giorni** tra le isole, con notti in campi sulla spiaggia (vedi le varianti).
+- **El Nido-Coron:** traghetto veloce (Montenegro Lines, Phimal e altre compagnie), 3,5-4 ore, indicativamente 1.800-3.500 PHP a persona secondo compagnia e classe. I traghetti lenti impiegano 7-9 ore. Partono al mattino e vengono annullati con mare mosso. Oppure la **spedizione in barca di 3-5 giorni** tra le isole, con notti in campi sulla spiaggia (vedi le varianti).
 - **Coron-Cebu:** volo diretto da Busuanga su Cebu, circa 1h15; senza diretto, via Manila.
 - **Cebu-Moalboal:** auto privata (3 ore, indicativamente 3.000-4.000 PHP) o bus Ceres dal South Bus Terminal (4 ore, meno di 250 PHP).
 - **Cebu-Bohol:** traghetto veloce OceanJet da Cebu a Tagbilaran, 2 ore, indicativamente 900-1.000 PHP in classe turistica e 1.400-1.550 PHP in business; nel 2026 le tariffe sono cambiate più volte per il supplemento carburante.
@@ -41,18 +41,18 @@ Le Filippine sono un Paese di isole, e il viaggio si costruisce intorno agli spo
 
 ### Sicurezza e truffe comuni
 - **Viaggiare Sicuri** sconsiglia le zone occidentali e centrali di Mindanao e l'arcipelago di Sulu. Per Mindanao raccomanda la massima attenzione in tutta la regione, con l'eccezione di Siargao, che al momento non presenta criticità. Indica come zone di particolare cautela anche la parte meridionale delle Visayas e il nord-est di Luzon. Conviene controllare la scheda aggiornata prima di partire.
-- **Taxi all'aeroporto di Manila:** i taxi bianchi senza tassametro chiedono cifre fuori mercato. Grab, o i taxi gialli ufficiali con tassametro.
+- **Taxi all'aeroporto di Manila:** i taxi bianchi senza tassametro chiedono cifre fuori mercato. Meglio Grab, o i taxi gialli ufficiali con tassametro.
 - **eTravel a pagamento:** il modulo è gratuito, solo sul sito ufficiale.
 - **Cambio:** cambiavalute di strada con trucchi sul conteggio; meglio ATM delle banche o uffici di cambio nei centri commerciali.
-- **Tour in barca:** il prezzo esposto non include sempre le tasse ambientali e gli ingressi dei siti. Si chiede cosa è compreso prima di pagare.
+- **Tour in barca:** il prezzo esposto non include sempre le tasse ambientali e gli ingressi dei siti. Prima di pagare conviene chiedere cosa è compreso.
 - **Squali balena di Oslob:** gli animali vengono nutriti per tenerli vicino alla riva, una pratica criticata dai biologi marini. Questo itinerario non la include.
 - **Scooter:** la causa più comune di incidenti tra i turisti, soprattutto a Siargao e Bohol. Casco, nessuna guida di notte, assicurazione che copra la moto.
-- **Mare:** il pericolo reale. Correnti forti, barche sovraccariche, partenze con meteo in peggioramento. Si sale su barche con giubbotti di salvataggio a bordo e si rinuncia quando la guardia costiera sospende le uscite.
+- **Mare:** è il pericolo vero. Correnti forti, barche sovraccariche, partenze con meteo in peggioramento. Si sale su barche con giubbotti di salvataggio a bordo e si rinuncia quando la guardia costiera sospende le uscite.
 
 ## Itinerario giorno per giorno
 
 ### Giorno 1 — Arrivo a Manila
-Si atterra all'aeroporto **Ninoy Aquino** di Manila. Con un volo intercontinentale che arriva la sera, conviene dormire vicino all'aeroporto o a **Makati**, e ripartire il giorno dopo con il primo volo interno. Manila ha una storia coloniale interessante nel quartiere fortificato di **Intramuros**, ma in un viaggio di mare di diciotto giorni è un transito: chi arriva al mattino può dedicarle qualche ora.
+Siamo atterrati all'aeroporto **Ninoy Aquino** di Manila. Con un volo intercontinentale che arriva la sera conviene dormire vicino all'aeroporto o a **Makati** e ripartire il giorno dopo con il primo volo interno. Manila ha una storia coloniale interessante nel quartiere fortificato di **Intramuros**, ma in un viaggio di mare di diciotto giorni è un transito: chi arriva al mattino può dedicarle qualche ora.
 
 **In pratica**
 - eTravel compilato entro 72 ore prima dell'arrivo
@@ -60,7 +60,7 @@ Si atterra all'aeroporto **Ninoy Aquino** di Manila. Con un volo intercontinenta
 - SIM o eSIM in aeroporto, con registrazione del passaporto
 
 ### Giorno 2 — Volo per Puerto Princesa e van per El Nido
-Volo mattutino per **Puerto Princesa**, la capitale di Palawan, e van condiviso verso nord: cinque-sei ore di strada tra risaie e montagne, con una sosta per il pranzo. Si arriva a **El Nido** nel tardo pomeriggio, in tempo per il tramonto sulla baia di Bacuit da Corong-Corong. In paese si paga la tassa ambientale e si prenotano i tour dei giorni seguenti.
+Con il volo del mattino siamo arrivati a **Puerto Princesa**, la capitale di Palawan, e da lì in van condiviso verso nord: cinque-sei ore di strada tra risaie e montagne, con una sosta per il pranzo. Siamo arrivati a **El Nido** nel tardo pomeriggio, in tempo per il tramonto sulla baia di Bacuit da Corong-Corong. In paese si paga la tassa ambientale e si prenotano i tour dei giorni seguenti.
 
 **In pratica**
 - Volo Manila-Puerto Princesa: indicativamente 40-90 €
@@ -68,7 +68,7 @@ Volo mattutino per **Puerto Princesa**, la capitale di Palawan, e van condiviso 
 - Tassa ambientale (ETDF) 400 PHP, valida 10 giorni
 
 ### Giorno 3 — El Nido: le lagune del Tour A
-Il **Tour A** è quello delle lagune. Si parte in bangka, la barca con i bilancieri, verso l'isola di **Miniloc**: la **Big Lagoon**, che si attraversa in kayak tra pareti di calcare, la **Small Lagoon**, in cui si entra nuotando da una fessura nella roccia, la **Secret Lagoon** e le spiagge di Shimizu e 7 Commando per il pranzo. La Big Lagoon ha ingressi a fasce orarie per limitare le barche: si prenota il giorno prima.
+Il **Tour A** è quello delle lagune. Siamo partiti in bangka, la barca con i bilancieri, verso l'isola di **Miniloc**: la **Big Lagoon**, che si attraversa in kayak tra pareti di calcare, la **Small Lagoon**, in cui si entra nuotando da una fessura nella roccia, la **Secret Lagoon** e le spiagge di Shimizu e 7 Commando per il pranzo. La Big Lagoon ha ingressi a fasce orarie per limitare le barche: si prenota il giorno prima.
 
 **In pratica**
 - Tour A indicativamente 1.200-1.800 PHP a persona con pranzo
@@ -76,7 +76,7 @@ Il **Tour A** è quello delle lagune. Si parte in bangka, la barca con i bilanci
 - Scarpe da scoglio, maschera propria, sacca impermeabile
 
 ### Giorno 4 — El Nido: il Tour C e la spiaggia di Nacpan
-Mattina in barca con il **Tour C**, quello delle spiagge nascoste: **Hidden Beach**, **Secret Beach** e il santuario di **Matinloc**, con snorkeling sui reef intorno a Helicopter Island. Il pomeriggio in tricycle o scooter fino a **Nacpan**, una spiaggia di quattro chilometri di sabbia chiara e palme, a quaranta minuti dal paese, per l'ultimo tramonto di El Nido.
+La mattina siamo usciti in barca con il **Tour C**, quello delle spiagge nascoste: **Hidden Beach**, **Secret Beach** e il santuario di **Matinloc**, con snorkeling sui reef intorno a Helicopter Island. Il pomeriggio siamo andati in tricycle o scooter fino a **Nacpan**, una spiaggia di quattro chilometri di sabbia chiara e palme, a quaranta minuti dal paese, per l'ultimo tramonto di El Nido.
 
 **In pratica**
 - Tour C indicativamente 1.400-1.800 PHP a persona con pranzo
@@ -84,7 +84,7 @@ Mattina in barca con il **Tour C**, quello delle spiagge nascoste: **Hidden Beac
 - I tour B e D sono un'alternativa con meno barche
 
 ### Giorno 5 — Traghetto per Coron
-Traghetto veloce di tre ore e mezza verso **Coron**, tra le isole del nord di Palawan. Le partenze sono al mattino e vengono annullate con mare mosso, più frequente tra luglio e ottobre e nei giorni di vento del nord-est: per questo conviene avere un giorno di margine nel resto del viaggio. A Coron il pomeriggio è per salire sul **monte Tapyas**, settecento gradini per il tramonto sulla baia, e scendere alle **sorgenti calde di Maquinit**, acqua salata a 40 °C in mezzo alle mangrovie.
+Con il traghetto veloce, in tre ore e mezza, siamo arrivati a **Coron**, tra le isole del nord di Palawan. Le partenze sono al mattino e vengono annullate con il mare mosso, più frequente tra luglio e ottobre e nei giorni di vento del nord-est: per questo conviene avere un giorno di margine nel resto del viaggio. A Coron il pomeriggio siamo saliti sul **monte Tapyas**, settecento gradini per il tramonto sulla baia, e poi siamo scesi alle **sorgenti calde di Maquinit**, acqua salata a 40 °C in mezzo alle mangrovie.
 
 **In pratica**
 - Traghetto El Nido-Coron: indicativamente 1.800-3.500 PHP, 3,5-4 ore
@@ -92,7 +92,7 @@ Traghetto veloce di tre ore e mezza verso **Coron**, tra le isole del nord di Pa
 - Pillole contro il mal di mare per il traghetto
 
 ### Giorno 6 — Coron: il lago Kayangan, il Barracuda e le Twin Lagoon
-L'escursione classica di Coron. Il **lago Kayangan**, tra i più puliti delle Filippine, si raggiunge con una breve salita di gradini, con il belvedere sulla baia che è l'immagine simbolo di Coron. Il **lago Barracuda** è uno strato di acqua dolce sopra uno di acqua salata, con temperature che cambiano in profondità. Le **Twin Lagoon** si attraversano nuotando sotto una roccia o passando su una scaletta. Si parte presto per arrivare al Kayangan prima delle barche.
+Abbiamo fatto l'escursione classica di Coron. Il **lago Kayangan**, tra i più puliti delle Filippine, si raggiunge con una breve salita di gradini; il belvedere sulla baia è l'immagine simbolo di Coron. Il **lago Barracuda** è uno strato di acqua dolce sopra uno di acqua salata, con temperature che cambiano in profondità. Le **Twin Lagoon** si attraversano nuotando sotto una roccia o passando su una scaletta. Siamo partiti presto per arrivare al Kayangan prima delle barche.
 
 **In pratica**
 - Tour indicativamente 1.500-2.500 PHP a persona con pranzo
@@ -108,7 +108,7 @@ La baia di Coron nasconde una decina di **navi giapponesi** affondate dagli aere
 - Per i relitti profondi serve almeno il brevetto Advanced
 
 ### Giorno 8 — Volo per Cebu e trasferimento a Moalboal
-Volo dall'aeroporto di **Busuanga** su **Cebu**, la grande città delle Visayas, e auto o bus verso sud-ovest fino a **Moalboal**, sulla costa dell'isola. Si arriva a **Panagsama Beach** nel pomeriggio: il reef comincia letteralmente sotto i ristoranti sul mare, e il primo snorkeling si fa entrando dalla scaletta.
+Dall'aeroporto di **Busuanga** abbiamo volato su **Cebu**, la grande città delle Visayas, e poi in auto o in bus verso sud-ovest fino a **Moalboal**, sulla costa dell'isola. Siamo arrivati a **Panagsama Beach** nel pomeriggio: il reef comincia proprio sotto i ristoranti sul mare, e il primo snorkeling lo abbiamo fatto entrando dalla scaletta.
 
 **In pratica**
 - Volo Busuanga-Cebu: indicativamente 50-110 €
@@ -116,7 +116,7 @@ Volo dall'aeroporto di **Busuanga** su **Cebu**, la grande città delle Visayas,
 - Bus Ceres dal South Bus Terminal: 4 ore, meno di 250 PHP
 
 ### Giorno 9 — Moalboal: le sardine e le tartarughe
-A pochi metri dalla riva di Panagsama vive un banco di **milioni di sardine**, che si muove come un'unica nube a pochi metri di profondità. Si nuota in mezzo con maschera e pinne, senza barca, al mattino presto con la luce migliore. Lungo lo stesso reef si incontrano spesso **tartarughe marine**. Il pomeriggio in barca a **Pescador Island**, un isolotto con un muro di corallo dove si fa snorkeling e immersione.
+A pochi metri dalla riva di Panagsama vive un banco di **milioni di sardine**, che si muove come un'unica nube a pochi metri di profondità. Ci abbiamo nuotato in mezzo con maschera e pinne, senza barca, al mattino presto, con la luce migliore. Lungo lo stesso reef si incontrano spesso **tartarughe marine**. Il pomeriggio siamo andati in barca a **Pescador Island**, un isolotto con un muro di corallo dove si fa snorkeling e immersione.
 
 **In pratica**
 - Snorkeling con le sardine dalla riva: gratuito o con una piccola tassa
@@ -124,7 +124,7 @@ A pochi metri dalla riva di Panagsama vive un banco di **milioni di sardine**, c
 - Non toccare né inseguire le tartarughe
 
 ### Giorno 10 — Il canyoning di Kawasan
-La giornata più attiva del viaggio. Il **canyoning** di Kawasan scende lungo il fiume Matutinao per alcune ore, con salti dalle rocce da 3 a 10 metri (quelli alti sono facoltativi), scivoli naturali e tratti a nuoto in un'acqua color turchese, fino alle **cascate di Kawasan**. Si fa con guida, casco e giubbotto, partendo al mattino presto per evitare la folla.
+È la giornata più attiva del viaggio. Il **canyoning** di Kawasan scende lungo il fiume Matutinao per alcune ore, con salti dalle rocce da 3 a 10 metri (quelli alti sono facoltativi), scivoli naturali e tratti a nuoto in un'acqua color turchese, fino alle **cascate di Kawasan**. Si fa con guida, casco e giubbotto; noi siamo partiti al mattino presto per evitare la folla.
 
 **In pratica**
 - Canyoning con guida: indicativamente 1.500-2.500 PHP con transfer
@@ -132,7 +132,7 @@ La giornata più attiva del viaggio. Il **canyoning** di Kawasan scende lungo il
 - Il pomeriggio libero a White Beach
 
 ### Giorno 11 — Da Moalboal a Bohol
-Si torna a **Cebu** in auto o in bus e si prende il traghetto veloce **OceanJet** per **Tagbilaran**, sull'isola di **Bohol**: due ore di mare. Da Tagbilaran mezz'ora fino a **Panglao**, l'isola collegata da un ponte dove si dorme. Chi vuole evitare la città di Cebu può prendere il traghetto da Argao, più a sud, oppure scendere in auto fino a Oslob (2-2,5 ore) e prendere la bangka che attraversa fino a Panglao in circa un'ora e mezza: da Moalboal non partono barche dirette per Bohol.
+Si torna a **Cebu** in auto o in bus e si prende il traghetto veloce **OceanJet** per **Tagbilaran**, sull'isola di **Bohol**: due ore di mare. Da Tagbilaran c'è mezz'ora fino a **Panglao**, l'isola collegata da un ponte, dove abbiamo dormito. Chi vuole evitare la città di Cebu può prendere il traghetto da Argao, più a sud, oppure scendere in auto fino a Oslob (2-2,5 ore) e prendere la bangka che attraversa fino a Panglao in circa un'ora e mezza: da Moalboal non partono barche dirette per Bohol.
 
 **In pratica**
 - Moalboal-Cebu: 3-4 ore
@@ -141,7 +141,7 @@ Si torna a **Cebu** in auto o in bus e si prende il traghetto veloce **OceanJet*
 - Base a Panglao, ad Alona Beach o nelle baie più tranquille
 
 ### Giorno 12 — Bohol: Chocolate Hills, tarsi e il fiume Loboc
-Il giro dell'interno di Bohol con un autista. Le **Chocolate Hills** sono oltre mille colline coniche di calcare che diventano marroni nella stagione secca; si guardano dal belvedere di Carmen. Il **tarsio** delle Filippine, uno dei primati più piccoli del mondo, si vede al **Philippine Tarsier Sanctuary** di Corella, gestito da una fondazione, in silenzio e senza flash. Poi il **fiume Loboc** in barca tra le palme e le **chiese coloniali** di Baclayon e Loboc.
+Abbiamo fatto il giro dell'interno di Bohol con un autista. Le **Chocolate Hills** sono oltre mille colline coniche di calcare che diventano marroni nella stagione secca; si guardano dal belvedere di Carmen. Il **tarsio** delle Filippine, uno dei primati più piccoli del mondo, si vede al **Philippine Tarsier Sanctuary** di Corella, gestito da una fondazione, in silenzio e senza flash. Poi il **fiume Loboc** in barca, tra le palme, e le **chiese coloniali** di Baclayon e Loboc.
 
 **In pratica**
 - Auto con autista per la giornata: indicativamente 2.500-3.500 PHP
@@ -149,7 +149,7 @@ Il giro dell'interno di Bohol con un autista. Le **Chocolate Hills** sono oltre 
 - Evitare i «santuari» lungo la strada con tarsi in gabbia
 
 ### Giorno 13 — Panglao: Balicasag e Virgin Island
-Uscita in barca da Panglao all'alba: si vedono spesso i **delfini** nel canale, poi si arriva a **Balicasag**, un piccolo santuario marino con un muro di corallo e molte tartarughe, ottimo per snorkeling e immersioni. Al ritorno la lingua di sabbia di **Virgin Island**, che con la bassa marea emerge in mezzo al mare. Il pomeriggio in spiaggia.
+Siamo usciti in barca da Panglao all'alba: nel canale si vedono spesso i **delfini**, poi si arriva a **Balicasag**, un piccolo santuario marino con un muro di corallo e molte tartarughe, ottimo per snorkeling e immersioni. Al ritorno la lingua di sabbia di **Virgin Island**, che con la bassa marea emerge in mezzo al mare. Il pomeriggio in spiaggia.
 
 **In pratica**
 - Barca per Balicasag e Virgin Island: indicativamente 1.500-2.500 PHP a barca, più tasse dei siti
@@ -157,7 +157,7 @@ Uscita in barca da Panglao all'alba: si vedono spesso i **delfini** nel canale, 
 - Partenze all'alba per i delfini
 
 ### Giorno 14 — Volo per Siargao
-Volo da **Bohol** (o da Cebu, a seconda degli orari) su **Siargao**, con scalo a Cebu: da Panglao non ci sono voli diretti. Dall'aeroporto di Sayak si arriva a **General Luna**, il paese dei surfisti, in tre quarti d'ora. La sera si noleggia lo scooter e si fa un primo giro fino alla passerella di **Cloud 9**, l'onda che ha reso famosa l'isola.
+Volo da **Bohol** (o da Cebu, a seconda degli orari) su **Siargao**, con scalo a Cebu: da Panglao non ci sono voli diretti. Dall'aeroporto di Sayak a **General Luna**, il paese dei surfisti, ci vogliono tre quarti d'ora. La sera abbiamo noleggiato lo scooter e fatto un primo giro fino alla passerella di **Cloud 9**, l'onda che ha reso famosa l'isola.
 
 **In pratica**
 - Volo Cebu-Siargao: circa un'ora, indicativamente 50-120 €
@@ -165,7 +165,7 @@ Volo da **Bohol** (o da Cebu, a seconda degli orari) su **Siargao**, con scalo a
 - Scooter: 350-500 PHP al giorno, casco obbligatorio
 
 ### Giorno 15 — Siargao: Naked, Daku e Guyam
-L'**island hopping** di Siargao tocca tre isole molto diverse a mezz'ora da General Luna: **Naked Island**, una lingua di sabbia senza un albero; **Daku**, la più grande, con il villaggio di pescatori e il pranzo di pesce alla griglia; **Guyam**, un isolotto rotondo con le palme. Il ritmo è lento e il mare calmo nella stagione giusta.
+L'**island hopping** di Siargao tocca tre isole molto diverse a mezz'ora da General Luna: **Naked Island**, una lingua di sabbia senza un albero; **Daku**, la più grande, con il villaggio di pescatori e il pranzo di pesce alla griglia; **Guyam**, un isolotto rotondo con le palme. Il ritmo è lento, e nella stagione giusta il mare è calmo.
 
 **In pratica**
 - Island hopping indicativamente 1.500-2.000 PHP a persona con pranzo
@@ -173,7 +173,7 @@ L'**island hopping** di Siargao tocca tre isole molto diverse a mezz'ora da Gene
 - Crema solare e cappello: su Naked Island non c'è ombra
 
 ### Giorno 16 — Siargao: la laguna di Sugba e Magpupungko
-Gita a nord-ovest, verso **Del Carmen**, dove si prende la barca tra le mangrovie fino alla **laguna di Sugba**, un bacino turchese chiuso dalle rocce, con una piattaforma da cui tuffarsi e paddle board a noleggio. Al ritorno, con la **bassa marea**, le piscine di roccia di **Magpupungko**, che si riempiono d'acqua trasparente tra gli scogli. Va controllata la tabella delle maree: con l'alta marea le piscine scompaiono.
+Siamo andati a nord-ovest, verso **Del Carmen**, dove si prende la barca tra le mangrovie fino alla **laguna di Sugba**, un bacino turchese chiuso dalle rocce, con una piattaforma da cui tuffarsi e paddle board a noleggio. Al ritorno, con la **bassa marea**, le piscine di roccia di **Magpupungko**, che si riempiono d'acqua trasparente tra gli scogli. Bisogna controllare la tabella delle maree: con l'alta marea le piscine scompaiono.
 
 **In pratica**
 - Laguna di Sugba con barca: indicativamente 1.600-2.500 PHP a barca, più l'ingresso
@@ -181,7 +181,7 @@ Gita a nord-ovest, verso **Del Carmen**, dove si prende la barca tra le mangrovi
 - Il giro in scooter è lungo: partenza presto, rientro prima del buio
 
 ### Giorno 17 — Siargao: surf e ultimo giorno di mare
-Ultimo giorno pieno. Chi non ha mai fatto surf prende una **lezione** su un'onda per principianti, spesso a Jacking Horse o al Pacifico secondo le condizioni, con istruttore e tavola. Chi preferisce stare fermo gira la **Coconut Road**, la strada tra i palmeti verso Pacifico, o resta in spiaggia. La sera, a General Luna.
+È l'ultimo giorno pieno. Chi non ha mai fatto surf prende una **lezione** su un'onda per principianti, spesso a Jacking Horse o al Pacifico secondo le condizioni, con istruttore e tavola. Chi preferisce stare fermo gira la **Coconut Road**, la strada tra i palmeti verso Pacifico, o resta in spiaggia. La sera, General Luna.
 
 **In pratica**
 - Lezione di surf con istruttore e tavola: indicativamente 500-1.000 PHP l'ora
@@ -189,7 +189,7 @@ Ultimo giorno pieno. Chi non ha mai fatto surf prende una **lezione** su un'onda
 - Ultima sera: bagaglio pronto per il volo del mattino
 
 ### Giorno 18 — Rientro da Siargao
-Volo mattutino da Siargao su **Manila** o **Cebu** e coincidenza con il volo internazionale. Con i voli interni filippini conviene lasciare almeno quattro-cinque ore tra l'arrivo del volo da Siargao e la partenza del volo per l'Europa, e ancora meglio dormire una notte a Manila o a Cebu se il biglietto lo consente.
+Volo mattutino da Siargao su **Manila** o **Cebu** e coincidenza con il volo internazionale. Con i voli interni filippini conviene lasciare almeno quattro-cinque ore tra l'arrivo del volo da Siargao e la partenza del volo per l'Europa, e, se il biglietto lo consente, è ancora meglio dormire una notte a Manila o a Cebu.
 
 **In pratica**
 - Volo Siargao-Manila o Cebu: indicativamente 50-120 €

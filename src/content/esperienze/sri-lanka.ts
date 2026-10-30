@@ -43,7 +43,8 @@ export const esperienzeSriLanka: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['sri-lanka-2023'],
-    imageAlt: 'La Rocca del Leone di Sigiriya con le rovine del palazzo reale in cima, Sri Lanka',
+    imageAlt: 'La rocca di Sigiriya che emerge dalla foresta, vista da lontano',
+    immagine: '/images/sri-lanka/trekking-sigiriya.jpg',
   },
   {
     slug: 'tempio-del-dente',
@@ -64,7 +65,8 @@ export const esperienzeSriLanka: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['sri-lanka-2023'],
-    imageAlt: 'Il Tempio del Dente illuminato durante la cerimonia serale, Kandy, Sri Lanka',
+    imageAlt: 'Il padiglione ottagonale bianco del Tempio del Dente con il muro merlato, Kandy',
+    immagine: '/images/sri-lanka/tempio-del-dente.jpg',
   },
   {
     slug: 'rafting-kitulgala',
@@ -148,6 +150,7 @@ export const esperienzeSriLanka: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: [],
     tripSlugs: ['sri-lanka-2023'],
-    imageAlt: 'Jeep da safari nel Parco Nazionale di Yala, Sri Lanka',
+    imageAlt: 'L\'ingresso del parco nazionale di Yala con il cartello in tre lingue e un fuoristrada da safari',
+    immagine: '/images/sri-lanka/safari-yala.jpg',
   },
 ]

@@ -1,12 +1,9 @@
 import type { Paese } from '@/lib/types'
 
 // Città-stato trattata come Paese a sé, come già New York e Florida in questo
-// archivio: le destinazioni qui sotto sono quartieri e aree, non città.
-// I campi miaEsperienza sono bozze scritte da Claude nella voce del diario,
-// basate su ciò che è oggettivamente vero di ogni posto e non su ricordi
-// reali: vanno riletti e sostituiti. Nessun nome di hotel o ristorante è
-// stato inventato, con l\'eccezione dei centri hawker e dei siti pubblici,
-// che sono luoghi e non esercizi.
+// archivio: le destinazioni qui sotto sono quartieri e aree, non città. Nessun
+// nome di hotel o ristorante è stato inventato, con l\'eccezione dei centri
+// hawker e dei siti pubblici, che sono luoghi e non esercizi.
 
 export const singapore: Paese = {
   slug: 'singapore',
@@ -48,6 +45,7 @@ export const singapore: Paese = {
     emergenze: 'Polizia 999, ambulanza e vigili del fuoco 995. L\'Ambasciata d\'Italia è a Singapore.',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'I Supertree di Gardens by the Bay illuminati di sera con lo skyline di Marina Bay alle spalle, Singapore',
+  heroImageAlt: 'Lo skyline del Central Business District di Singapore che si specchia nelle acque di Marina Bay al tramonto',
+  heroImage: '/images/singapore/singapore-paese.jpg',
   tripPrincipaleSlug: 'malesia-singapore',
 }

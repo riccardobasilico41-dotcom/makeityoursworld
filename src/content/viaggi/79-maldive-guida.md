@@ -32,34 +32,34 @@ Il motivo per venire resta il mare: 26 atolli, circa 1.200 isole, barriere coral
 Le Maldive hanno due monsoni. L'**Iruvai**, il monsone di nord-est (dicembre-aprile), porta tempo secco, mare calmo e acqua limpida. L'**Hulhangu**, il monsone di sud-ovest (maggio-novembre), porta più vento, onde e piogge a scrosci, alternate a giornate di sole. Non esiste un mese «sbagliato» per tutto: cambiano visibilità, lato degli atolli dove si concentrano le mante e prezzi.
 
 - **Gennaio-marzo:** stagione secca, sole quasi ogni giorno, mare calmo, visibilità ottima. Le correnti entrano negli atolli da est: i canali sul lato orientale sono i migliori per gli squali, le mante si spostano sul lato occidentale. Alta stagione con prezzi massimi, soprattutto a Natale, Capodanno e Pasqua.
-- **Aprile:** il mese più caldo, mare spesso piatto, visibilità ancora eccellente. Fine dell'alta stagione.
+- **Aprile:** il mese più caldo, mare spesso piatto, visibilità ancora ottima. Finisce l'alta stagione.
 - **Maggio:** transizione verso il monsone di sud-ovest, primi temporali, prezzi in calo. A fine mese a Hanifaru possono arrivare le prime mante.
 - **Giugno-luglio:** i mesi più piovosi e ventosi, con mare mosso nei trasferimenti in speedboat e qualche giornata grigia. Stagione del surf nelle Maldive centrali. Prezzi bassi, mante sul lato orientale degli atolli, inizio della stagione di Hanifaru.
 - **Agosto-ottobre:** il periodo migliore per la **baia di Hanifaru** nell'atollo di Baa, con il picco delle aggregazioni di mante nelle settimane intorno a luna nuova e luna piena. Tempo variabile, giornate di sole lunghe alternate a temporali.
 - **Novembre:** transizione verso la stagione secca, mare in calma, fine della stagione di Hanifaru, prezzi ancora medi. Ottimo rapporto qualità-prezzo.
 - **Dicembre:** inizio della stagione secca e dell'alta stagione, con il picco dei prezzi dal 20 dicembre.
 
-**Squali balena:** nell'atollo di Ari Sud ci sono tutto l'anno, con la finestra più citata da dicembre ad aprile per mare e visibilità e un secondo periodo buono tra agosto e novembre, secondo gli operatori. **Squali martello:** Rasdhoo, all'alba, più frequenti da dicembre a maggio. **Squali tigre:** Fuvahmulah, tutto l'anno.
+**Squali balena:** nell'atollo di Ari Sud ci sono tutto l'anno. Secondo gli operatori la finestra più citata va da dicembre ad aprile, per mare e visibilità, e un secondo periodo buono cade tra agosto e novembre. **Squali martello:** Rasdhoo, all'alba, più frequenti da dicembre a maggio. **Squali tigre:** Fuvahmulah, tutto l'anno.
 
 **Ramadan:** nel 2027 indicativamente dall'8 febbraio all'8 marzo, con la festa di fine digiuno il 9 marzo; la data esatta la fissa il comitato maldiviano per l'avvistamento della luna e può spostarsi di un giorno. Sulle isole locali molti caffè e ristoranti restano chiusi di giorno e la vita si sposta alla sera; le guesthouse servono comunque i pasti agli ospiti. Mangiare, bere o fumare in pubblico di giorno è scortese. Nei resort non cambia quasi nulla.
 
 ## Quale atollo scegliere e perché
-La scelta dell'atollo pesa più di quella della singola isola. Distanza da Malé, mezzi per arrivarci, vita marina e tipo di isole cambiano molto.
+Conta più l'atollo della singola isola: da un atollo all'altro cambiano molto la distanza da Malé, i mezzi per arrivarci, la vita marina e il tipo di isole.
 
-- **Malé Nord e Malé Sud (Kaafu):** i più vicini all'aeroporto, raggiungibili in speedboat in 20-90 minuti. Hanno moltissimi resort, le isole locali più sviluppate (**Maafushi**, la più turistica, poi **Guraidhoo**, **Gulhi**, **Huraa**, **Himmafushi**, **Thulusdhoo** per il surf) e siti d'immersione con squali e tartarughe. Per chi ha pochi giorni o vuole spendere poco nei trasferimenti. Maafushi è comoda e piena di servizi, ma affollata e costruita: chi cerca un villaggio vero sceglie isole più piccole.
-- **Vaavu:** a sud di Malé Sud, poco turistico, con **Fulidhoo** e Thinadhoo come isole locali. Canali con squali grigi e la celebre immersione notturna di **Alimatha** con decine di squali nutrice. Raggiungibile in speedboat o in ferry.
-- **Ari Nord (Alifu Alifu):** **Rasdhoo** con gli squali martello all'alba, **Ukulhas** con la sua spiaggia e l'impegno sui rifiuti, **Thoddoo** con le piantagioni di frutta. Speedboat in 1-1 ora e mezza da Malé.
-- **Ari Sud (Alifu Dhaalu):** la zona degli **squali balena**, lungo la barriera esterna tra Maamigili e Dhigurah, area marina protetta. **Dhigurah** e **Dhangethi** sono le isole locali più adatte, con lunghe spiagge e bikini beach. Mante nelle stazioni di pulizia di Rangali e dintorni. Speedboat in 1 ora e mezza-2 ore da Malé.
-- **Baa:** riserva della biosfera UNESCO, con la **baia di Hanifaru** e le sue aggregazioni di mante tra giugno e novembre. Idrovolante (circa 35-45 minuti) o volo interno a Dharavandhoo più barca; isole locali come Dharavandhoo e Thulhaadhoo. Per chi viaggia nella stagione delle mante.
-- **Lhaviyani e Raa:** resort e qualche isola locale, canali con squali e mante, meno affollati. Idrovolante o speedboat lunghi.
-- **Fuvahmulah:** un atollo formato da una sola isola nel sud, sull'equatore, senza laguna, con l'oceano profondo a pochi metri dalla riva. Si va per gli **squali tigre**, presenti tutto l'anno, e per gli squali volpe e i mola mola in alcune stagioni. Volo interno di circa 1 ora e 20 minuti da Malé. Per subacquei con esperienza.
+- **Malé Nord e Malé Sud (Kaafu):** i più vicini all'aeroporto, a 20-90 minuti di speedboat. Hanno moltissimi resort, le isole locali più sviluppate (**Maafushi**, la più turistica, poi **Guraidhoo**, **Gulhi**, **Huraa**, **Himmafushi**, **Thulusdhoo** per il surf) e siti d'immersione con squali e tartarughe. Vanno bene per chi ha pochi giorni o vuole spendere poco nei trasferimenti. Maafushi è comoda e piena di servizi, però affollata e costruita: per un villaggio vero servono isole più piccole.
+- **Vaavu:** a sud di Malé Sud, poco turistico, con **Fulidhoo** e Thinadhoo come isole locali. Ha canali con squali grigi e l'immersione notturna di **Alimatha**, nota per le decine di squali nutrice. Ci si arriva in speedboat o in ferry.
+- **Ari Nord (Alifu Alifu):** **Rasdhoo** con gli squali martello all'alba, **Ukulhas** con la sua spiaggia e l'impegno sui rifiuti, **Thoddoo** con le piantagioni di frutta. Da Malé servono da 1 a 1 ora e mezza di speedboat.
+- **Ari Sud (Alifu Dhaalu):** la zona degli **squali balena**, lungo la barriera esterna tra Maamigili e Dhigurah, area marina protetta. **Dhigurah** e **Dhangethi** sono le isole locali più adatte, con lunghe spiagge e bikini beach. Le mante frequentano le stazioni di pulizia di Rangali e dintorni. Da Malé, da 1 ora e mezza a 2 ore di speedboat.
+- **Baa:** riserva della biosfera UNESCO, con la **baia di Hanifaru** e le sue aggregazioni di mante tra giugno e novembre. Si arriva in idrovolante (circa 35-45 minuti) o con un volo interno a Dharavandhoo e poi in barca; tra le isole locali, Dharavandhoo e Thulhaadhoo. È l'atollo per chi viaggia nella stagione delle mante.
+- **Lhaviyani e Raa:** resort e qualche isola locale, canali con squali e mante, meno folla. Si arriva in idrovolante o con lunghi tragitti in speedboat.
+- **Fuvahmulah:** un atollo formato da una sola isola nel sud, sull'equatore, senza laguna, con l'oceano profondo a pochi metri dalla riva. Si va per gli **squali tigre**, presenti tutto l'anno, e per gli squali volpe e i mola mola in alcune stagioni. Da Malé è circa 1 ora e 20 minuti di volo interno. Adatto a subacquei con esperienza.
 - **Atolli del Sud (Laamu, Huvadhoo, Addu):** lontani, raggiungibili in volo interno, con meno turismo, surf a Laamu, mante e il relitto della British Loyalty ad Addu. Per un secondo viaggio o per un liveaboard.
 
 **In breve:** prima volta con budget contenuto e snorkeling, Ari Sud; prima volta con pochi giorni, Malé Sud o Vaavu; mante di agosto-ottobre, Baa; squali e immersioni impegnative, Rasdhoo, Vaavu e Fuvahmulah; viaggio di nozze in resort, qualunque atollo, scegliendo il resort per la house reef.
 
 ## Resort e isole locali: due viaggi diversi
-- **Resort:** un'isola, un albergo. Si arriva con il transfer del resort, si mangia nei suoi ristoranti, si fanno escursioni con il suo centro diving. Alcol, bikini e coppie che si tengono per mano sono normali. Costano da 300-400 $ a notte per un resort semplice a cifre molto alte, più trasferimento (speedboat o idrovolante) e pasti, spesso cari se non inclusi. La qualità della **house reef**, la barriera raggiungibile a nuoto dalla spiaggia, è il dato da controllare prima di prenotare.
-- **Isole locali:** isole abitate da maldiviani, con moschea, scuola, porto, campo da calcio e guesthouse. Si dorme spendendo 60-150 $ a notte per una doppia con colazione, si mangia in caffè locali o in guesthouse, si fanno escursioni con piccoli operatori a prezzi molto più bassi. Le regole sono quelle di un villaggio musulmano conservatore.
+- **Resort:** un'isola, un albergo. Si arriva con il transfer del resort, si mangia nei suoi ristoranti, si fanno escursioni con il suo centro diving. Alcol, bikini e coppie che si tengono per mano sono normali. Un resort semplice costa 300-400 $ a notte e da lì i prezzi salgono a cifre molto alte; a parte si pagano il trasferimento (speedboat o idrovolante) e i pasti, spesso cari se non inclusi. Prima di prenotare va controllata la **house reef**, la barriera raggiungibile a nuoto dalla spiaggia.
+- **Isole locali:** isole abitate da maldiviani, con moschea, scuola, porto, campo da calcio e guesthouse. Una doppia con colazione costa 60-150 $ a notte, si mangia in caffè locali o in guesthouse, si fanno escursioni con piccoli operatori a prezzi molto più bassi. Le regole sono quelle di un villaggio musulmano conservatore.
 
 **Le regole delle isole locali:**
 - **Niente alcol.** Non si vende, non si porta, non si beve. Alcune isole, come Maafushi, hanno barche-bar ancorate fuori dalla laguna e organizzano escursioni ai resort vicini per una giornata con alcol.
@@ -75,15 +75,15 @@ La scelta dell'atollo pesa più di quella della singola isola. Distanza da Malé
 - **Arrivo:** l'aeroporto internazionale Velana è su un'isola davanti a Malé. Da qui partono speedboat, idrovolanti e voli interni; Malé si raggiunge in traghetto (circa 10 minuti, 1-2 $) o in bus sul ponte; Hulhumalé, l'isola artificiale accanto, in bus o taxi.
 - **Speedboat condivisi:** il mezzo più usato per le isole locali vicine. Indicativamente 25-40 $ a persona a tratta per Malé Sud, 40-70 $ per Ari e Rasdhoo. Partono a orari fissi, una o più volte al giorno; si prenotano tramite la guesthouse, che spesso organizza anche il ritiro all'arrivo.
 - **Traghetti pubblici MTCC:** lenti ed economici (2-6 $ a tratta), partono soprattutto dal terminal di Villingili a Malé, una o poche volte a settimana per le tratte lunghe, e non viaggiano il venerdì. I biglietti si comprano in contanti al terminal il giorno stesso. Orari sul sito di MTCC (rtl.mv). Adatti a chi ha tempo e bagaglio leggero.
-- **Idrovolanti:** li usano i resort lontani, con Trans Maldivian Airways. Volano solo di giorno: chi atterra di sera dorme a Malé o Hulhumalé. Costano indicativamente 500-1.200 $ a persona andata e ritorno, inclusi nel prezzo del resort o da aggiungere, con limiti di bagaglio stretti (spesso 20-25 kg in tutto). Il volo sopra gli atolli è un'esperienza in sé.
+- **Idrovolanti:** li usano i resort lontani, con Trans Maldivian Airways. Volano solo di giorno: chi atterra di sera dorme a Malé o Hulhumalé. Costano indicativamente 500-1.200 $ a persona andata e ritorno, inclusi nel prezzo del resort o da aggiungere, con limiti di bagaglio stretti (spesso 20-25 kg in tutto). Il volo sopra gli atolli vale già come escursione.
 - **Voli interni:** Maldivian e Manta Air collegano Malé con Dharavandhoo (Baa), Maamigili (Ari Sud), Kooddoo, Kadhdhoo (Laamu), Fuvahmulah e Gan (Addu), in 30 minuti-1 ora e mezza, seguiti da una barca per molte isole.
 - **Escursioni dalle isole locali:** le organizzano guesthouse e centri diving: snorkeling con lo squalo balena o le mante (60-120 $), sandbank con picnic (40-80 $), pesca al tramonto in dhoni (30-50 $), giornata in un resort vicino (100-200 $ con pranzo e a volte alcol), snorkeling con tartarughe e squali nutrice. Prezzi indicativi a persona.
-- **Consiglio pratico:** l'ultima notte prima del volo di ritorno si passa a Hulhumalé o su un'isola vicina all'aeroporto, se il volo parte presto: il mare mosso può far saltare una barca.
+- **Consiglio pratico:** se il volo di ritorno parte presto, l'ultima notte conviene passarla a Hulhumalé o su un'isola vicina all'aeroporto, perché con il mare mosso una barca può saltare.
 
 ## Snorkeling e immersioni
-Le Maldive sono tra i posti migliori al mondo per vedere grandi animali in acqua anche solo con maschera e pinne. Le **house reef** dei resort e le barriere vicino alle isole locali ospitano tartarughe, squali pinna nera, razze, pesci napoleone e migliaia di pesci di barriera. Con le escursioni si nuota con squali balena, mante e squali nutrice.
+Le Maldive sono tra i posti migliori al mondo per vedere grandi animali in acqua anche solo con maschera e pinne. Sulle **house reef** dei resort e sulle barriere vicino alle isole locali vivono tartarughe, squali pinna nera, razze, pesci napoleone e migliaia di pesci di barriera. Con le escursioni si nuota con squali balena, mante e squali nutrice.
 
-Le immersioni si dividono tra **thila** (pinnacoli sommersi dentro gli atolli o nei canali), **giri** (pinnacoli che arrivano vicino alla superficie), **kandu** (i canali tra un atollo e l'oceano) e **pareti** esterne. Nei canali la corrente porta squali grigi, aquile di mare e banchi di carangidi, ma richiede esperienza. Regole maldiviane: profondità massima 30 metri per le immersioni ricreative, computer obbligatorio, boa di superficie consigliata; la pesca subacquea è vietata. Prezzi indicativi 2026: 50-80 $ a immersione dai centri delle isole locali, 100-150 $ nei resort; corso Open Water 500-800 $.
+Le immersioni si dividono tra **thila** (pinnacoli sommersi dentro gli atolli o nei canali), **giri** (pinnacoli che arrivano vicino alla superficie), **kandu** (i canali tra un atollo e l'oceano) e **pareti** esterne. Nei canali la corrente porta squali grigi, aquile di mare e banchi di carangidi, ma servono esperienza e mestiere. Regole maldiviane: profondità massima 30 metri per le immersioni ricreative, computer obbligatorio, boa di superficie consigliata; la pesca subacquea è vietata. Prezzi indicativi 2026: 50-80 $ a immersione dai centri delle isole locali, 100-150 $ nei resort; corso Open Water 500-800 $.
 
 **Siti e periodi per i grandi animali:**
 - **Mante:** **baia di Hanifaru** (Baa) da giugno a novembre, picco agosto-ottobre, solo snorkeling (immersioni vietate), accesso regolato con biglietto di 20 $ a persona al giorno per il fondo di conservazione dell'atollo, di solito già incluso nell'escursione; stazioni di pulizia di **Lankan** e altre in Malé Nord, **Rangali Madivaru** e dintorni in Ari Sud nella stagione secca, **Fesdu** e Moofushi in Ari, **Addu** tutto l'anno.
@@ -113,7 +113,7 @@ Le immersioni si dividono tra **thila** (pinnacoli sommersi dentro gli atolli o 
 - **Le Maldive sono un santuario degli squali dal 2010:** la pesca e il commercio di squali sono vietati. Anche le tartarughe sono protette.
 
 ## Il liveaboard: le Maldive dalla barca
-Un liveaboard, o «safari boat», è una crociera subacquea di solito di una settimana: si dorme su una barca con cabine, si mangia a bordo e si fanno tre immersioni al giorno da un dhoni d'appoggio che porta l'attrezzatura e il compressore. È il modo migliore per vedere molti atolli e i siti più lontani senza pagare un resort per ogni zona.
+Un liveaboard, o «safari boat», è una crociera subacquea di solito di una settimana: si dorme su una barca con cabine, si mangia a bordo e si fanno tre immersioni al giorno da un dhoni d'appoggio, che porta l'attrezzatura e il compressore. È il modo migliore per vedere molti atolli e i siti più lontani senza pagare un resort per ogni zona.
 
 **Rotte principali:**
 - **Centrale** (Malé, Ari, Vaavu, a volte Rasdhoo): la rotta classica per la prima volta, con mante, squali balena, squali grigi e la notturna con gli squali nutrice. Tutto l'anno, meglio nella stagione secca.
@@ -122,7 +122,7 @@ Un liveaboard, o «safari boat», è una crociera subacquea di solito di una set
 
 **Costi indicativi 2026:** da 1.500 a 3.500 $ a persona per una settimana in cabina doppia, secondo barca e rotta, a cui aggiungere la green tax (12 $ al giorno), le tasse dei parchi marini, il nitrox, il noleggio dell'attrezzatura, le mance all'equipaggio e i voli interni per le rotte del Sud.
 
-**Per chi è:** per sub certificati che vogliono immergersi molto. Per i canali e le rotte del Sud servono un brevetto avanzato e un buon numero di immersioni (spesso almeno 50). Esistono anche crociere di snorkeling per chi non si immerge, e per chi viaggia con un sub è una buona soluzione per vedere molti atolli. Non è adatto a chi soffre il mare: i trasferimenti tra atolli possono essere mossi, soprattutto da maggio a novembre. Da controllare nella scelta: età e manutenzione della barca, dhoni d'appoggio separato, ossigeno e attrezzatura di emergenza a bordo, numero massimo di sub per guida.
+**Per chi è:** per sub certificati che vogliono immergersi molto. Per i canali e le rotte del Sud servono un brevetto avanzato e un buon numero di immersioni (spesso almeno 50). Esistono anche crociere di snorkeling per chi non si immerge, una buona soluzione per vedere molti atolli quando si viaggia con un sub. Non è adatto a chi soffre il mare: i trasferimenti tra atolli possono essere mossi, soprattutto da maggio a novembre. Da controllare nella scelta: età e manutenzione della barca, dhoni d'appoggio separato, ossigeno e attrezzatura di emergenza a bordo, numero massimo di sub per guida.
 
 ## L'itinerario d'esempio in breve
 Un esempio di dieci giorni pensato per una prima volta: quattro notti su un'isola locale di Ari Sud per gli squali balena, le mante e la vita del villaggio, tre notti in un resort per la house reef, una notte di margine vicino all'aeroporto. Le isole e il resort sono da scegliere secondo budget e stagione: lo schema funziona anche con Malé Sud o Vaavu al posto di Ari, o con Baa in agosto-ottobre.
@@ -130,52 +130,52 @@ Un esempio di dieci giorni pensato per una prima volta: quattro notti su un'isol
 ## Itinerario giorno per giorno
 
 ### Giorno 1 — Arrivo a Malé e speedboat per Dhigurah
-I voli dall'Italia arrivano a Velana con uno scalo, spesso al mattino. Dopo i controlli si cerca al banco degli arrivi l'operatore dello speedboat prenotato dalla guesthouse: per **Dhigurah**, nell'atollo di Ari Sud, servono un'ora e mezza-due ore di mare aperto. Si arriva per pranzo, con il tempo di sistemarsi, fare una prima nuotata sulla **bikini beach**, una lunga lingua di sabbia bianca sulla punta dell'isola, e guardare il tramonto sul lato ovest.
+I voli dall'Italia arrivano a Velana con uno scalo, spesso al mattino. Dopo i controlli ho cercato al banco degli arrivi l'operatore dello speedboat prenotato dalla guesthouse. Per **Dhigurah**, nell'atollo di Ari Sud, ci vogliono da un'ora e mezza a due ore di mare aperto. Siamo arrivati per pranzo, con il tempo di sistemarci, fare una prima nuotata sulla **bikini beach** (una lunga lingua di sabbia bianca sulla punta dell'isola) e guardare il tramonto sul lato ovest.
 
 **In pratica:** speedboat condiviso Malé-Dhigurah indicativamente 50-70 $ a persona a tratta, in genere due partenze dall'aeroporto (verso le 10:45-11 e le 16) e orari diversi il venerdì · chi atterra di sera dorme a Hulhumalé e parte il mattino dopo · IMUGA compilata nelle 96 ore prima del volo.
 
 ### Giorno 2 — Dhigurah: lo squalo balena sulla barriera di Ari Sud
-La giornata per cui si viene ad Ari Sud. La barca esce in mattinata lungo la barriera esterna tra Dhigurah e Maamigili, un'area marina protetta dove gli squali balena giovani si avvicinano alla superficie a cercare il plancton. Le guide li cercano dalla barca e il gruppo entra in acqua solo quando uno è vicino. Si nuota a qualche metro di distanza, seguendolo finché lo permette. *L'avvistamento è probabile ma non garantito: molti operatori offrono una seconda uscita scontata o gratuita se il primo giorno va a vuoto.* Il pomeriggio è libero, sulla spiaggia o sulla barriera davanti all'isola.
+Lo squalo balena è il motivo per cui si viene ad Ari Sud. Siamo usciti in barca in mattinata lungo la barriera esterna tra Dhigurah e Maamigili, un'area marina protetta dove gli squali balena giovani si avvicinano alla superficie a cercare il plancton. Le guide li cercano dalla barca e il gruppo entra in acqua solo quando uno è vicino: si nuota a qualche metro di distanza e lo si segue finché lo permette. *L'avvistamento è probabile ma non garantito: molti operatori offrono una seconda uscita scontata o gratuita se il primo giorno va a vuoto.* Il pomeriggio ce lo siamo tenuti libero, tra la spiaggia e la barriera davanti all'isola.
 
 **In pratica:** escursione indicativamente 60-120 $ a persona · distanza minima 3 metri, niente flash e niente tocco · lycra e crema minerale, perché si resta molto in superficie.
 
 ### Giorno 3 — Snorkeling con le mante e una sandbank
-Nella stagione secca le mante frequentano le stazioni di pulizia dell'atollo, dove piccoli pesci puliscono la pelle e le branchie. La barca porta il gruppo in uno di questi punti, come quelli intorno a Rangali, per osservare dall'alto le mante che girano lente. La seconda parte della giornata è su una **sandbank**, un banco di sabbia emerso in mezzo alla laguna, con pranzo al sacco e snorkeling sulla barriera vicina.
+Nella stagione secca le mante frequentano le stazioni di pulizia dell'atollo, dove piccoli pesci puliscono la pelle e le branchie. La barca ci ha portati in uno di questi punti, come quelli intorno a Rangali, per osservare dall'alto le mante che girano lente. La seconda parte della giornata l'abbiamo passata su una **sandbank**, un banco di sabbia emerso in mezzo alla laguna, con pranzo al sacco e snorkeling sulla barriera vicina.
 
-**In pratica:** escursione combinata mante e sandbank indicativamente 70-130 $ a persona · da maggio a novembre le mante si spostano sul lato orientale degli atolli e l'escursione cambia sito · chi si immerge prenota con il centro diving dell'isola.
+**In pratica:** escursione combinata mante e sandbank circa 70-130 $ a persona · da maggio a novembre le mante si spostano sul lato orientale degli atolli e l'escursione cambia sito · chi si immerge prenota con il centro diving dell'isola.
 
 ### Giorno 4 — La vita del villaggio e la pesca al tramonto
-Una giornata più lenta. Al mattino si cammina per l'isola, che si attraversa in mezz'ora: le strade di sabbia, le case basse con i giardini, la moschea, il porto dove si scarica il tonno, il caffè dove i pescatori prendono il tè con gli short eats. Si fa snorkeling sulla barriera vicino alla spiaggia o si prende un kayak. Al tramonto si esce su un **dhoni**, la barca tradizionale, per la pesca a lenza come la fanno i maldiviani, e il pescato si cucina la sera in guesthouse.
+Giornata più lenta. Al mattino abbiamo girato a piedi l'isola, che si attraversa in mezz'ora: le strade di sabbia, le case basse con i giardini, la moschea, il porto dove si scarica il tonno, il caffè dove i pescatori prendono il tè con gli short eats. Si fa snorkeling sulla barriera vicino alla spiaggia o si prende un kayak. Al tramonto siamo usciti su un **dhoni**, la barca tradizionale, per la pesca a lenza come la fanno i maldiviani; il pescato ce l'hanno cucinato la sera in guesthouse.
 
-**In pratica:** pesca al tramonto indicativamente 30-50 $ a persona · *se il giorno cade di venerdì, negozi e caffè chiudono intorno a mezzogiorno per la preghiera e le uscite in barca possono essere ridotte* · abbigliamento coperto fuori dalla bikini beach.
+**In pratica:** pesca al tramonto circa 30-50 $ a persona · *se il giorno cade di venerdì, negozi e caffè chiudono intorno a mezzogiorno per la preghiera e le uscite in barca possono essere ridotte* · abbigliamento coperto fuori dalla bikini beach.
 
 ### Giorno 5 — Ultima mattina ad Ari e un'immersione
-Ultima mattina sull'isola locale. Chi è brevettato fa un'immersione su un thila dell'atollo, con squali pinna bianca, tartarughe e banchi di fucilieri; chi non si immerge fa un ultimo giro di snorkeling o prova una sessione di prova con il centro diving. Il pomeriggio si prepara il bagaglio e si passa sulla spiaggia: domani si cambia isola.
+Chi è brevettato fa un'immersione su un thila dell'atollo, con squali pinna bianca, tartarughe e banchi di fucilieri; chi non si immerge fa un ultimo giro di snorkeling o una prova con il centro diving. Il pomeriggio abbiamo preparato il bagaglio e siamo rimasti in spiaggia: il giorno dopo si cambiava isola.
 
 **In pratica:** immersione singola 50-80 $ dai centri delle isole locali · prova subacquea per principianti 100-150 $ · lasciare 24 ore tra l'ultima immersione e un volo in idrovolante.
 
 ### Giorno 6 — Dall'isola locale al resort
-Trasferimento verso il **resort**. Molti resort di Ari Sud organizzano il ritiro in speedboat direttamente dalle isole vicine; per quelli lontani si torna a Malé e si prende l'idrovolante, che vola solo di giorno. All'arrivo al resort cambiano le regole: alcol, bikini ovunque, cene sulla spiaggia. Il pomeriggio si esplora la **house reef** dopo aver chiesto i punti di entrata e uscita sicuri.
+Il sesto giorno ci siamo spostati al **resort**. Molti resort di Ari Sud mandano lo speedboat a prendere gli ospiti sulle isole vicine; per quelli lontani si torna a Malé e si prende l'idrovolante, che vola solo di giorno. All'arrivo al resort cambiano le regole: alcol, bikini ovunque, cene sulla spiaggia. Nel pomeriggio, chiesti i punti di entrata e uscita sicuri, abbiamo esplorato la **house reef**.
 
 **In pratica:** transfer in speedboat dal resort da concordare · idrovolante 500-1.200 $ a persona andata e ritorno se non incluso · controllare limiti di bagaglio dell'idrovolante.
 
 ### Giorno 7 — Resort: la house reef e un'escursione
-Giornata in acqua. La house reef si gira al mattino presto, quando la luce è bassa e i pesci più attivi, e nel tardo pomeriggio, quando le tartarughe salgono a respirare. Il centro diving del resort organizza uscite in barca di snorkeling o immersioni nei canali vicini, con squali grigi, aquile di mare e, nella stagione giusta, mante.
+Giornata in acqua. Ho girato la house reef al mattino presto, quando la luce è bassa e i pesci sono più attivi, e nel tardo pomeriggio, quando le tartarughe salgono a respirare. Il centro diving del resort organizza uscite in barca di snorkeling o immersioni nei canali vicini, con squali grigi, aquile di mare e, nella stagione giusta, mante.
 
 **In pratica:** escursioni dai resort più care che dalle isole locali (snorkeling in barca 80-150 $, immersioni 100-150 $) · boa colorata per la house reef se il resort la fornisce.
 
 ### Giorno 8 — Resort: una giornata di riposo
-Una giornata senza programmi. Spiaggia, lettura, kayak nella laguna, una cena al tramonto. Chi vuole ancora acqua prova lo snorkeling notturno guidato sulla house reef, con squali nutrice, aragoste e il plancton bioluminescente che a volte si accende nelle notti senza luna sulla battigia.
+Giornata senza programmi, tra spiaggia, lettura, kayak nella laguna e una cena al tramonto. Chi vuole ancora acqua prova lo snorkeling notturno guidato sulla house reef: squali nutrice, aragoste e, nelle notti senza luna, a volte il plancton bioluminescente che si accende sulla battigia.
 
 **In pratica:** snorkeling o immersione notturna solo con guida · le spa dei resort sono care: chiedere i pacchetti all'arrivo.
 
 ### Giorno 9 — Resort e trasferimento a Hulhumalé
-Ultima mattina in acqua, poi il trasferimento verso **Hulhumalé**, l'isola artificiale accanto all'aeroporto, con il tempo di vedere la spiaggia cittadina e cenare in uno dei ristoranti sul lungomare. Dormire qui l'ultima notte evita di dipendere da una barca o da un idrovolante la mattina del volo.
+Ultima mattina in acqua, poi ci siamo trasferiti a **Hulhumalé**, l'isola artificiale accanto all'aeroporto, con il tempo di vedere la spiaggia cittadina e cenare in uno dei ristoranti sul lungomare. Dormendo qui l'ultima notte, la mattina del volo non si dipende da una barca o da un idrovolante.
 
 **In pratica:** idrovolanti solo di giorno, speedboat condizionati dal mare · hotel di Hulhumalé a 10-15 minuti dall'aeroporto · a Hulhumalé, isola abitata, valgono le regole locali: niente alcol.
 
 ### Giorno 10 — Malé e partenza
-Chi ha un volo pomeridiano fa un giro a **Malé**, la capitale più densa del mondo: il mercato del pesce, dove arrivano i tonni al mattino, il mercato della frutta, la Moschea del Venerdì in pietra di corallo del Seicento (visitabile fuori dagli orari di preghiera con abiti coperti). Poi il traghetto o il bus per l'aeroporto e il volo di rientro.
+Chi ha un volo pomeridiano fa un giro a **Malé**, la capitale più densa del mondo: il mercato del pesce, dove arrivano i tonni al mattino, il mercato della frutta, la Moschea del Venerdì in pietra di corallo del Seicento (visitabile fuori dagli orari di preghiera con abiti coperti). Poi si prende il traghetto o il bus per l'aeroporto.
 
 **In pratica:** traghetto Malé-aeroporto 10 minuti, 1-2 $ · Moschea del Venerdì visitabile con abiti coperti, non durante la preghiera · tassa di partenza di solito già inclusa nel biglietto.
 

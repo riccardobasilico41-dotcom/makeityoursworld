@@ -1,8 +1,5 @@
 import type { Esperienza } from '@/lib/types'
 
-// I campi miaEsperienza e i giudizi sono bozze scritte da Claude nella voce
-// del diario, coerenti con ciò che è oggettivamente vero di ogni esperienza
-// ma non basate su ricordi reali: vanno riletti e confermati o corretti.
 // Nessun operatore, hotel o ristorante è stato inventato.
 
 export const esperienzeEmiratiArabiUniti: Esperienza[] = [
@@ -32,7 +29,8 @@ export const esperienzeEmiratiArabiUniti: Esperienza[] = [
       'Alserkal Avenue, il quartiere delle gallerie ricavato dai magazzini industriali, per la Dubai contemporanea non commerciale',
     ],
     tripSlugs: ['stopover-golfo'],
-    imageAlt: 'Un\'abra di legno attraversa il Dubai Creek con i dhow ormeggiati sullo sfondo',
+    imageAlt: 'Un\'abra che attraversa il Dubai Creek tra Bur Dubai e Deira',
+    immagine: '/images/emirati-arabi-uniti/creek-souq-dubai.jpg',
   },
   {
     slug: 'deserto-emirati',
@@ -62,7 +60,8 @@ export const esperienzeEmiratiArabiUniti: Esperienza[] = [
       'L\'oasi di Al Ain, patrimonio UNESCO, per la versione agricola e storica dell\'interno',
     ],
     tripSlugs: ['stopover-golfo'],
-    imageAlt: 'Fuoristrada e dune al tramonto nel deserto degli Emirati Arabi Uniti',
+    imageAlt: 'I fuoristrada di un desert safari sulle dune di sabbia nel deserto attorno a Dubai',
+    immagine: '/images/emirati-arabi-uniti/deserto-emirati.jpg',
   },
   {
     slug: 'moschea-sheikh-zayed',
@@ -117,6 +116,7 @@ export const esperienzeEmiratiArabiUniti: Esperienza[] = [
       'Qasr Al Hosn, il forte più antico di Abu Dhabi, per la storia locale prima del petrolio',
     ],
     tripSlugs: ['stopover-golfo'],
-    imageAlt: 'La luce filtra attraverso la cupola forata del Louvre Abu Dhabi',
+    imageAlt: 'Un visitatore cammina sotto la cupola traforata del Louvre Abu Dhabi',
+    immagine: '/images/emirati-arabi-uniti/louvre-abu-dhabi.jpg',
   },
 ]

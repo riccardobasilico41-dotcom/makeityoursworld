@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-È il road trip americano più completo che si possa fare in tre settimane senza uscire da uno Stato. Un anello che parte e torna a **San Francisco**, sale nella Sierra Nevada per **Yosemite** e le sequoie giganti di **Sequoia**, scende nel deserto più caldo del pianeta in **Death Valley**, attraversa il Mojave fino a **Joshua Tree**, arriva a **Los Angeles** e risale la costa sulla **Highway 1** tra Santa Barbara, Big Sur e Monterey. Cambiano tutto in pochi giorni: quota, temperature, paesaggio, ritmo.
+È il road trip americano più completo che si possa fare in tre settimane senza uscire da uno Stato. Un anello che parte e torna a **San Francisco**, sale nella Sierra Nevada per **Yosemite** e le sequoie giganti di **Sequoia**, scende nel deserto più caldo del pianeta in **Death Valley**, attraversa il Mojave fino a **Joshua Tree**, arriva a **Los Angeles** e risale la costa sulla **Highway 1** tra Santa Barbara, Big Sur e Monterey. In pochi giorni cambia tutto: quota, temperature, paesaggio, ritmo.
 
 La California però va organizzata. I parchi più famosi dal 2026 fanno pagare ai turisti stranieri un supplemento, gli alloggi dentro i parchi si prenotano mesi prima, la Tioga Road di Yosemite è aperta solo d'estate, la Death Valley d'estate è pericolosa e la Highway 1 a Big Sur chiude a tratti per frane. Questa guida parte da qui: prima le regole e le stagioni, poi i giorni.
 
@@ -20,7 +20,7 @@ La California però va organizzata. I parchi più famosi dal 2026 fanno pagare a
 ### Quando andare, mese per mese, e le strade chiuse
 - **Novembre-marzo:** il periodo migliore per Death Valley e Joshua Tree, ma Yosemite e Sequoia sono innevati: la **Tioga Road** (CA-120 est), la strada di Glacier Point oltre Badger Pass e la strada del Kings Canyon chiudono, e sulle strade di montagna possono essere obbligatorie le catene anche per le auto a noleggio. Piogge sulla costa e frane a Big Sur.
 - **Aprile-maggio:** cascate di Yosemite al massimo, deserto ancora vivibile (30-38 °C a maggio in Death Valley), fioriture. La Tioga Road apre di solito tra fine maggio e giugno, secondo la neve.
-- **Giugno:** tutto aperto; il deserto comincia a essere estremo. Sulla costa il cielo grigio del mattino (June Gloom).
+- **Giugno:** tutto aperto; il deserto comincia a essere estremo. Sulla costa c'è il cielo grigio del mattino (June Gloom).
 - **Luglio-agosto:** alta stagione nei parchi di montagna, con code agli ingressi e parcheggi pieni dalle 9; Death Valley oltre i 45-50 °C, da fare solo all'alba o da saltare; nebbia e freddo a San Francisco e Big Sur. Inizia la stagione degli **incendi**, che può chiudere strade e parchi.
 - **Settembre-metà ottobre:** probabilmente il periodo migliore per l'anello completo: meno folla, San Francisco al suo meglio, deserto in calo di temperatura, Tioga Road ancora aperta fino alle prime nevicate (di solito novembre). Rischio incendi ancora alto.
 - **Da controllare sempre:** lo stato delle strade su **Caltrans QuickMap** (soprattutto Highway 1 a Big Sur, riaperta per intero il 14 gennaio 2026 dopo quasi due anni di chiusura al Regent's Slide, ma soggetta a chiusure temporanee dopo ogni maltempo) e le pagine «Current conditions» di ogni parco su nps.gov.
@@ -29,13 +29,13 @@ La California però va organizzata. I parchi più famosi dal 2026 fanno pagare a
 - **Passaporto** elettronico (con microchip), valido almeno fino alla data del rientro; 6 mesi di margine evitano problemi con le compagnie aeree.
 - **ESTA:** solo sul sito ufficiale esta.cbp.dhs.gov, almeno 72 ore prima della partenza; dal 16 ottobre 2026 costa **40,62 $** (circa 35 €) e vale 2 anni, o fino alla scadenza del passaporto. I siti che la offrono a 80-100 $ sono intermediari. Chi è stato a Cuba dal 12 gennaio 2021, o in Iran, Iraq, Libia, Siria, Somalia, Sudan, Yemen o Corea del Nord dal 1° marzo 2011, deve chiedere un visto.
 - **Patente:** quella italiana è valida per guidare da turisti; il **permesso internazionale** è consigliato e alcuni noleggiatori lo chiedono.
-- **Assicurazione sanitaria** con massimale alto, obbligatoria nei fatti: un ricovero negli Stati Uniti costa decine di migliaia di dollari.
+- **Assicurazione sanitaria** con massimale alto, di fatto obbligatoria: un ricovero negli Stati Uniti costa decine di migliaia di dollari.
 
 ### Parchi nazionali: biglietti, supplemento 2026 e prenotazioni
 - **Ingressi per auto, 7 giorni:** Yosemite 35 $, Sequoia e Kings Canyon 35 $, Death Valley 30 $, Joshua Tree 30 $ (circa 26-30 €). A Yosemite agli ingressi si paga solo con carta, niente contanti.
 - **Supplemento per i non residenti dal 1° gennaio 2026:** in undici parchi nazionali tra i più visitati, tra cui **Yosemite** e **Sequoia e Kings Canyon**, i visitatori stranieri dai 16 anni pagano **100 $ a persona** (circa 86 €) in più rispetto al biglietto normale. Gli altri sono Acadia, Bryce Canyon, Everglades, Glacier, Grand Canyon, Grand Teton, Rocky Mountain, Yellowstone e Zion. Death Valley e Joshua Tree non sono nella lista.
 - **Pass annuale per non residenti America the Beautiful:** **250 $** (circa 215 €; era 80 $ fino al 2025). Copre per un anno ingressi e supplementi nei parchi federali per il titolare e tutti i passeggeri della stessa auto privata; nei siti che fanno pagare a persona, come Muir Woods, vale per il titolare e altri tre adulti. Per due persone che visitano Yosemite e Sequoia conviene sempre: senza pass si spenderebbero 470 $ tra ingressi e supplementi, con il pass 250 $.
-- **Prenotazioni di ingresso:** Yosemite **non richiede prenotazioni d'ingresso per tutto il 2026**, estate e Firefall compresi: si entra senza, ma con code lunghe nei giorni di punta, e il parco devia il traffico quando i parcheggi sono pieni. Il parco consiglia di entrare prima delle 9 o dopo le 17. Per il 2027 non è ancora stato deciso nulla: va controllato su nps.gov/yose prima di partire. **Muir Woods**, vicino a San Francisco, richiede invece la prenotazione del parcheggio o della navetta.
+- **Prenotazioni di ingresso:** Yosemite **non richiede prenotazioni d'ingresso per tutto il 2026**, estate e Firefall compresi: si entra senza, ma con code lunghe nei giorni di punta, e il parco devia il traffico quando i parcheggi sono pieni. Il parco consiglia di entrare prima delle 9 o dopo le 17. Per il 2027 non è ancora stato deciso nulla: conviene controllare su nps.gov/yose prima di partire. **Muir Woods**, vicino a San Francisco, richiede invece la prenotazione del parcheggio o della navetta.
 - **Alloggi nei parchi:** i lodge di Yosemite Valley e i campeggi su recreation.gov si esauriscono il giorno stesso dell'apertura delle prenotazioni (fino a 13 mesi prima per i lodge, 5 mesi per i campeggi). Senza, si dorme fuori parco, a 30-60 minuti.
 
 ### Il noleggio auto
@@ -43,9 +43,9 @@ La California però va organizzata. I parchi più famosi dal 2026 fanno pagare a
 - **Prenotare dall'Italia** con assicurazione completa (copertura danni senza franchigia e responsabilità civile aggiuntiva, spesso chiamata SLI o LIS): le tariffe al banco sono molto più care.
 - **Carta di credito** intestata al conducente per il deposito; supplementi per guidatori sotto i 25 anni e per il secondo conducente.
 - **Pedaggi:** il Golden Gate Bridge si paga solo elettronicamente in uscita da Marin verso la città, e il noleggiatore addebita il pedaggio con una commissione. Poche altre strade a pagamento lungo questo itinerario.
-- **Catene da neve:** in Sierra Nevada, da ottobre ad aprile, possono essere obbligatorie; molti contratti ne vietano l'uso, quindi si evita di salire nei giorni di neve.
+- **Catene da neve:** in Sierra Nevada, da ottobre ad aprile, possono essere obbligatorie; molti contratti ne vietano l'uso, quindi nei giorni di neve meglio non salire.
 - **Carburante:** indicativamente 4,8-5,8 $ al gallone (3,8 litri), più caro dentro i parchi e lungo Big Sur. Si fa il pieno prima di Death Valley e prima di Big Sur.
-- **Guida:** limiti di velocità rispettati e controllati, svolta a destra con il rosso consentita dopo lo stop salvo cartello contrario, scuolabus fermi da non sorpassare.
+- **Guida:** limiti di velocità da rispettare, e i controlli ci sono; svolta a destra con il rosso consentita dopo lo stop salvo cartello contrario, scuolabus fermi da non sorpassare.
 
 ### Budget: le voci che sorprendono
 - **Tasse e mance:** ai prezzi si aggiungono circa il 7-10 % di tasse sulle vendite e, al ristorante, il 18-20 % di mancia. Negli hotel spesso una tassa di soggiorno o una «resort fee» a notte.
@@ -62,7 +62,7 @@ La California però va organizzata. I parchi più famosi dal 2026 fanno pagare a
 ## Itinerario giorno per giorno
 
 ### Giorno 1 — Arrivo a San Francisco
-Si atterra a **SFO** e si va in centro con la metro **BART**, in mezz'ora. L'auto non serve nei primi tre giorni: costa solo in parcheggi e rischio furti, e si ritira il giorno della partenza per Yosemite. La sera, per il primo contatto con la città, una cena a **North Beach**, il quartiere italiano, o a **Chinatown**, la più antica del Nord America.
+Siamo atterrati a **SFO** e siamo andati in centro con la metro **BART**, in mezz'ora. Nei primi tre giorni l'auto non serve: costa solo in parcheggi e rischio furti, e si ritira il giorno della partenza per Yosemite. La sera, per il primo contatto con la città, abbiamo cenato a **North Beach**, il quartiere italiano, o a **Chinatown**, la più antica del Nord America.
 
 **In pratica**
 - BART aeroporto-centro: circa 10-12 $, 30 minuti
@@ -70,9 +70,9 @@ Si atterra a **SFO** e si va in centro con la metro **BART**, in mezz'ora. L'aut
 - Fuso orario: 9 ore indietro rispetto all'Italia, meglio restare svegli fino a sera
 
 ### Giorno 2 — San Francisco: il Golden Gate, il Presidio e Alcatraz
-La mattina si attraversa il **Golden Gate Bridge** a piedi o in bicicletta a noleggio, partendo dal **Presidio**, fino a **Sausalito** dall'altra parte, con il ritorno in traghetto. Le viste migliori sul ponte sono da **Battery Spencer**, sul lato di Marin, e dalla spiaggia di **Baker Beach**. La nebbia può coprirlo tutto la mattina d'estate: le ore migliori sono quelle centrali.
+La mattina abbiamo attraversato il **Golden Gate Bridge** a piedi o in bicicletta a noleggio, partendo dal **Presidio**, fino a **Sausalito** dall'altra parte, con il ritorno in traghetto. Le viste migliori sul ponte sono da **Battery Spencer**, sul lato di Marin, e dalla spiaggia di **Baker Beach**. D'estate la mattina la nebbia può coprirlo tutto: le ore migliori sono quelle centrali.
 
-Il pomeriggio il traghetto per **Alcatraz**, il carcere sull'isola, con l'audioguida raccontata dagli ex detenuti e dalle guardie. I biglietti si esauriscono settimane prima e si comprano solo sul sito dell'operatore ufficiale.
+Il pomeriggio abbiamo preso il traghetto per **Alcatraz**, il carcere sull'isola, con l'audioguida raccontata dagli ex detenuti e dalle guardie. I biglietti si esauriscono settimane prima e si comprano solo sul sito dell'operatore ufficiale.
 
 **In pratica**
 - Bicicletta a noleggio: indicativamente 30-50 $ al giorno
@@ -88,7 +88,7 @@ Mattina a **Muir Woods**, la foresta di sequoie costiere a mezz'ora a nord del p
 - Ritiro dell'auto la sera o domattina presto
 
 ### Giorno 4 — Da San Francisco a Yosemite
-Si ritira l'auto e si parte verso est: tre ore e mezza-quattro fino all'ingresso di **Big Oak Flat** di Yosemite, attraversando la Central Valley. L'arrivo nella valle passa da **Tunnel View**, il belvedere con El Capitan a sinistra, la cascata di **Bridalveil Fall** a destra e l'**Half Dome** in fondo: si arriva lì nel pomeriggio, con la luce migliore. Il pass annuale si compra all'ingresso o online prima di partire.
+Abbiamo ritirato l'auto e siamo partiti verso est: tre ore e mezza-quattro fino all'ingresso di **Big Oak Flat** di Yosemite, attraversando la Central Valley. L'arrivo nella valle passa da **Tunnel View**, il belvedere con El Capitan a sinistra, la cascata di **Bridalveil Fall** a destra e l'**Half Dome** in fondo: ci siamo arrivati nel pomeriggio, con la luce migliore. Il pass annuale si compra all'ingresso o online prima di partire.
 
 **In pratica**
 - San Francisco-Yosemite Valley: 3,5-4 ore, traffico pesante in uscita dalla baia il venerdì
@@ -96,9 +96,9 @@ Si ritira l'auto e si parte verso est: tre ore e mezza-quattro fino all'ingresso
 - Spesa al supermercato prima di entrare: dentro il parco costa molto di più
 
 ### Giorno 5 — Yosemite Valley: il Mist Trail e le cascate
-Si parte presto, prima delle 8, per trovare parcheggio. Il **Mist Trail** sale lungo il fiume Merced fino alla **cascata Vernal** e, per chi ha gambe, alla **cascata Nevada**: tra maggio e giugno il sentiero è letteralmente sotto la nebulizzazione dell'acqua, e servono giacca impermeabile e scarpe che tengano sulla roccia bagnata. Sono circa 5 km andata e ritorno per la Vernal, 11 per la Nevada, con 600 metri di dislivello.
+Siamo partiti presto, prima delle 8, per trovare parcheggio. Il **Mist Trail** sale lungo il fiume Merced fino alla **cascata Vernal** e, per chi ha gambe, alla **cascata Nevada**: tra maggio e giugno il sentiero passa proprio sotto la nebulizzazione dell'acqua, e servono giacca impermeabile e scarpe che tengano sulla roccia bagnata. Sono circa 5 km andata e ritorno per la Vernal, 11 per la Nevada, con 600 metri di dislivello.
 
-Il pomeriggio si fanno a piedi o in bicicletta i prati della valle, con le **Yosemite Falls** e El Capitan, dove con il binocolo si vedono gli arrampicatori sulle pareti. Al tramonto, di nuovo a Tunnel View o al **Valley View**.
+Il pomeriggio abbiamo girato a piedi o in bicicletta i prati della valle, con le **Yosemite Falls** e El Capitan, dove con il binocolo si vedono gli arrampicatori sulle pareti. Al tramonto siamo tornati a Tunnel View o al **Valley View**.
 
 **In pratica**
 - Mist Trail: 3-6 ore secondo la meta, acqua e strati
@@ -106,7 +106,7 @@ Il pomeriggio si fanno a piedi o in bicicletta i prati della valle, con le **Yos
 - Cibo nei contenitori antiorso, mai in auto la notte
 
 ### Giorno 6 — Yosemite: Glacier Point e Mariposa Grove
-La strada per **Glacier Point**, aperta indicativamente da fine maggio a novembre, sale a 2.200 metri sopra la valle con la vista frontale sull'Half Dome e le cascate. Si scende poi verso sud fino a **Mariposa Grove**, il bosco di sequoie giganti all'ingresso meridionale, con il **Grizzly Giant** e una passeggiata di un paio d'ore. Si esce dal parco da sud e si dorme a **Oakhurst** o a **Fish Camp**, già sulla strada per Sequoia.
+La strada per **Glacier Point**, aperta indicativamente da fine maggio a novembre, sale a 2.200 metri sopra la valle con la vista frontale sull'Half Dome e le cascate. Siamo scesi poi verso sud fino a **Mariposa Grove**, il bosco di sequoie giganti all'ingresso meridionale, con il **Grizzly Giant** e una passeggiata di un paio d'ore. Si esce dal parco da sud e si dorme a **Oakhurst** o a **Fish Camp**, già sulla strada per Sequoia.
 
 Chi viaggia in estate con la **Tioga Road** aperta può valutare il percorso alternativo verso est, descritto nelle varianti, che porta a Mono Lake e Death Valley lasciando Sequoia fuori.
 
@@ -116,7 +116,7 @@ Chi viaggia in estate con la **Tioga Road** aperta può valutare il percorso alt
 - Oakhurst ha supermercati e distributori più economici
 
 ### Giorno 7 — Da Yosemite a Sequoia
-Tre ore e mezza-quattro di strada verso sud, passando per **Fresno**, fino all'ingresso del **Kings Canyon**. Si comincia dal **General Grant Grove**, con il secondo albero più grande del mondo, e, se la stagione lo consente, si scende lungo la **Kings Canyon Scenic Byway** in una gola glaciale profonda quanto Yosemite e molto meno frequentata. La notte nel **Wuksachi Lodge** o in un lodge della zona.
+Tre ore e mezza-quattro di strada verso sud, passando per **Fresno**, fino all'ingresso del **Kings Canyon**. Abbiamo cominciato dal **General Grant Grove**, con il secondo albero più grande del mondo, e, se la stagione lo consente, si scende lungo la **Kings Canyon Scenic Byway** in una gola glaciale profonda quanto Yosemite e molto meno frequentata. La notte nel **Wuksachi Lodge** o in un lodge della zona.
 
 **In pratica**
 - Oakhurst-Grant Grove: circa 2,5-3 ore
@@ -124,7 +124,7 @@ Tre ore e mezza-quattro di strada verso sud, passando per **Fresno**, fino all'i
 - Pieno a Fresno: nei parchi il carburante è quasi assente
 
 ### Giorno 8 — Sequoia: il General Sherman e Moro Rock
-Giornata nella **Giant Forest**. Il **General Sherman**, la sequoia più voluminosa della Terra, con oltre 2.000 anni, si raggiunge con un sentiero breve dal parcheggio; da lì il **Congress Trail** gira tra decine di sequoie giganti in un'ora e mezza. Poi **Moro Rock**, una cupola di granito con 350 gradini scavati fino alla cima e la vista sulla Sierra e sulla valle. Il pomeriggio si scende dalla **Generals Highway**, molto tortuosa, fino all'uscita sud di **Three Rivers**.
+Abbiamo passato la giornata nella **Giant Forest**. Il **General Sherman**, la sequoia più voluminosa della Terra, con oltre 2.000 anni, si raggiunge con un sentiero breve dal parcheggio; da lì il **Congress Trail** gira tra decine di sequoie giganti in un'ora e mezza. Poi **Moro Rock**, una cupola di granito con 350 gradini scavati fino alla cima e la vista sulla Sierra e sulla valle. Il pomeriggio siamo scesi dalla **Generals Highway**, molto tortuosa, fino all'uscita sud di **Three Rivers**.
 
 **In pratica**
 - Congress Trail: circa 5 km ad anello, facile
@@ -132,7 +132,7 @@ Giornata nella **Giant Forest**. Il **General Sherman**, la sequoia più volumin
 - Generals Highway: circa 1,5 ore dalla Giant Forest a Three Rivers, tornanti stretti
 
 ### Giorno 9 — Verso la Death Valley
-Giornata di strada, cinque-sei ore, dalla Sierra al deserto: si aggira la catena da sud passando per **Lake Isabella** e **Ridgecrest**, fino all'ingresso ovest della Death Valley a **Panamint Springs**. Il paesaggio cambia del tutto nell'ultima ora. Si arriva a **Stovepipe Wells** per il tramonto sulle **dune di Mesquite Flat**, con la luce radente che ne disegna le creste.
+Giornata di strada, cinque-sei ore, dalla Sierra al deserto: abbiamo aggirato la catena da sud passando per **Lake Isabella** e **Ridgecrest**, fino all'ingresso ovest della Death Valley a **Panamint Springs**. Il paesaggio cambia del tutto nell'ultima ora. Siamo arrivati a **Stovepipe Wells** per il tramonto sulle **dune di Mesquite Flat**, con la luce radente che ne disegna le creste.
 
 **In pratica**
 - Three Rivers-Stovepipe Wells: circa 5-6 ore
@@ -140,7 +140,7 @@ Giornata di strada, cinque-sei ore, dalla Sierra al deserto: si aggira la catena
 - Ingresso Death Valley: 30 $ per auto, coperto dal pass annuale
 
 ### Giorno 10 — Death Valley: Badwater, Artists Drive e Zabriskie Point
-L'alba a **Zabriskie Point**, quando le colline di argilla gialla e bruna si accendono. Poi verso sud: il **Golden Canyon** a piedi nelle ore fresche, l'**Artists Drive** con le pareti colorate dai minerali, e **Badwater Basin**, la distesa di sale a 86 metri sotto il livello del mare, il punto più basso del Nord America. Nelle ore calde ci si ferma a **Furnace Creek**, al visitor center. Il tramonto si vede da **Dante's View**, 1.700 metri più in alto di Badwater.
+L'alba l'abbiamo vista a **Zabriskie Point**, quando le colline di argilla gialla e bruna si accendono. Poi verso sud: il **Golden Canyon** a piedi nelle ore fresche, l'**Artists Drive** con le pareti colorate dai minerali, e **Badwater Basin**, la distesa di sale a 86 metri sotto il livello del mare, il punto più basso del Nord America. Nelle ore calde ci siamo fermati a **Furnace Creek**, al visitor center. Il tramonto si vede da **Dante's View**, 1.700 metri più in alto di Badwater.
 
 **In pratica**
 - Da maggio a settembre niente camminate dopo le 10
@@ -148,7 +148,7 @@ L'alba a **Zabriskie Point**, quando le colline di argilla gialla e bruna si acc
 - Di notte il parco è uno dei cieli più scuri degli Stati Uniti
 
 ### Giorno 11 — Dalla Death Valley a Joshua Tree
-Si attraversa il **deserto del Mojave** verso sud-est, quattro-cinque ore. Chi ha tempo esce dalla Death Valley verso **Shoshone** e **Baker**, poi prende un tratto della storica **Route 66** tra **Amboy**, con il suo vecchio motel e la stazione di servizio, e **Twentynine Palms**, alle porte di Joshua Tree. È una giornata di strade dritte e paesi quasi vuoti, la parte di California che i film hanno reso famosa.
+Abbiamo attraversato il **deserto del Mojave** verso sud-est, quattro-cinque ore. Chi ha tempo esce dalla Death Valley verso **Shoshone** e **Baker**, poi prende un tratto della storica **Route 66** tra **Amboy**, con il suo vecchio motel e la stazione di servizio, e **Twentynine Palms**, alle porte di Joshua Tree. È una giornata di strade dritte e paesi quasi vuoti, la parte di California che i film hanno reso famosa.
 
 **In pratica**
 - Furnace Creek-Twentynine Palms via Amboy: circa 4,5-5 ore
@@ -156,7 +156,7 @@ Si attraversa il **deserto del Mojave** verso sud-est, quattro-cinque ore. Chi h
 - Base a Twentynine Palms, Joshua Tree o Yucca Valley
 
 ### Giorno 12 — Joshua Tree
-Il parco si fa da nord a sud in auto, con molte soste brevi. **Hidden Valley**, un anello tra massi di granito dove si arrampica e si fa bouldering; **Skull Rock**; **Keys View**, sulla valle di Coachella e la faglia di Sant'Andrea; il **Cholla Cactus Garden**, un campo di cactus che al tramonto sembra illuminato. La notte è per le stelle: Joshua Tree è un parco a cielo scuro.
+Il parco l'abbiamo fatto da nord a sud in auto, con molte soste brevi. **Hidden Valley**, un anello tra massi di granito dove si arrampica e si fa bouldering; **Skull Rock**; **Keys View**, sulla valle di Coachella e la faglia di Sant'Andrea; il **Cholla Cactus Garden**, un campo di cactus che al tramonto sembra illuminato. La notte è per le stelle: Joshua Tree è un parco a cielo scuro.
 
 **In pratica**
 - Ingresso: 30 $ per auto, coperto dal pass annuale
@@ -164,7 +164,7 @@ Il parco si fa da nord a sud in auto, con molte soste brevi. **Hidden Valley**, 
 - Ai cholla non ci si avvicina: le spine si staccano al minimo contatto
 
 ### Giorno 13 — Palm Springs e l'arrivo a Los Angeles
-Mezz'ora per scendere a **Palm Springs**, la città delle case moderniste di metà Novecento, con la **funivia** che sale in dieci minuti dal deserto ai 2.600 metri del monte San Jacinto, tra i pini. Nel pomeriggio due ore e mezza di autostrada fino a **Los Angeles**, dove si dorme a **Santa Monica** o a **West Hollywood**.
+In mezz'ora siamo scesi a **Palm Springs**, la città delle case moderniste di metà Novecento, con la **funivia** che sale in dieci minuti dal deserto ai 2.600 metri del monte San Jacinto, tra i pini. Nel pomeriggio, due ore e mezza di autostrada fino a **Los Angeles**, dove si dorme a **Santa Monica** o a **West Hollywood**.
 
 **In pratica**
 - Funivia di Palm Springs: indicativamente 35-40 $
@@ -172,7 +172,7 @@ Mezz'ora per scendere a **Palm Springs**, la città delle case moderniste di met
 - Parcheggio dell'hotel: 35-60 $ a notte
 
 ### Giorno 14 — Los Angeles: il Getty, Hollywood e il Griffith Observatory
-Mattina al **Getty Center**, il museo sulla collina di Brentwood con la collezione d'arte europea, i giardini e la vista sulla città: ingresso gratuito, parcheggio a pagamento. Poi **Hollywood**, con la Walk of Fame e il Dolby Theatre, un tour degli studi **Warner Bros.** per chi ama il cinema, e al tramonto il **Griffith Observatory**, con la scritta Hollywood sulla collina e la città che si accende.
+La mattina siamo stati al **Getty Center**, il museo sulla collina di Brentwood con la collezione d'arte europea, i giardini e la vista sulla città: ingresso gratuito, parcheggio a pagamento. Poi **Hollywood**, con la Walk of Fame e il Dolby Theatre, un tour degli studi **Warner Bros.** per chi ama il cinema, e al tramonto il **Griffith Observatory**, con la scritta Hollywood sulla collina e la città che si accende.
 
 **In pratica**
 - Getty Center gratuito, parcheggio intorno ai 25 $
@@ -180,7 +180,7 @@ Mattina al **Getty Center**, il museo sulla collina di Brentwood con la collezio
 - Griffith Observatory gratuito, parcheggio a pagamento e spesso pieno al tramonto
 
 ### Giorno 15 — Los Angeles: Santa Monica, Venice e Malibu
-Giornata sul mare. Si comincia dal **Santa Monica Pier** e si prosegue in bicicletta sulla pista lungo la spiaggia fino a **Venice**, con il boardwalk, la palestra all'aperto di Muscle Beach e i canali. Il pomeriggio verso nord sulla **Pacific Coast Highway** fino a **Malibu**, con una sosta a **El Matador Beach**, tra gli scogli, e al tramonto una cena di pesce sul mare.
+Giornata sul mare. Abbiamo cominciato dal **Santa Monica Pier** e proseguito in bicicletta sulla pista lungo la spiaggia fino a **Venice**, con il boardwalk, la palestra all'aperto di Muscle Beach e i canali. Il pomeriggio siamo saliti verso nord sulla **Pacific Coast Highway** fino a **Malibu**, con una sosta a **El Matador Beach**, tra gli scogli, e al tramonto una cena di pesce sul mare.
 
 **In pratica**
 - Bicicletta a noleggio a Santa Monica: indicativamente 15-25 $ per qualche ora
@@ -188,7 +188,7 @@ Giornata sul mare. Si comincia dal **Santa Monica Pier** e si prosegue in bicicl
 - Niente in vista in auto nei parcheggi delle spiagge
 
 ### Giorno 16 — Santa Barbara e la costa fino a Cambria
-Si lascia Los Angeles verso nord. **Santa Barbara**, a un'ora e mezza-due, è una cittadina bianca con i tetti rossi, la **missione** spagnola del Settecento e la passeggiata sul molo di Stearns Wharf. Si prosegue per la **Highway 101** e la **Highway 1** fino a **San Simeon** e **Cambria**, con le visite all'**Hearst Castle**, la residenza dell'editore William Randolph Hearst, e la colonia di **elefanti marini** di Piedras Blancas, visibile gratis da una passerella sulla spiaggia.
+Abbiamo lasciato Los Angeles verso nord. **Santa Barbara**, a un'ora e mezza-due, è una cittadina bianca con i tetti rossi, la **missione** spagnola del Settecento e la passeggiata sul molo di Stearns Wharf. Abbiamo proseguito per la **Highway 101** e la **Highway 1** fino a **San Simeon** e **Cambria**, con le visite all'**Hearst Castle**, la residenza dell'editore William Randolph Hearst, e la colonia di **elefanti marini** di Piedras Blancas, visibile gratis da una passerella sulla spiaggia.
 
 **In pratica**
 - Los Angeles-Santa Barbara: 1,5-2 ore, Santa Barbara-Cambria circa 2,5 ore
@@ -196,7 +196,7 @@ Si lascia Los Angeles verso nord. **Santa Barbara**, a un'ora e mezza-due, è un
 - Elefanti marini: presenti tutto l'anno, più numerosi in inverno e in primavera
 
 ### Giorno 17 — Big Sur sulla Highway 1
-La giornata più famosa del viaggio, circa 150 km di strada a picco sull'oceano da Cambria a Carmel, da fare con calma, almeno sei-sette ore con le soste. Le tappe: **Ragged Point**, la cascata di **McWay Falls** che cade sulla spiaggia nel **Julia Pfeiffer Burns State Park**, la **Pfeiffer Beach** con la sabbia viola, il ponte di **Bixby Creek** e **Point Lobos**, una riserva con foche, lontre e cipressi. Prima di partire si controlla lo stato della strada su Caltrans QuickMap.
+È la giornata più famosa del viaggio: circa 150 km di strada a picco sull'oceano da Cambria a Carmel, da fare con calma, almeno sei-sette ore con le soste. Le tappe: **Ragged Point**, la cascata di **McWay Falls** che cade sulla spiaggia nel **Julia Pfeiffer Burns State Park**, la **Pfeiffer Beach** con la sabbia viola, il ponte di **Bixby Creek** e **Point Lobos**, una riserva con foche, lontre e cipressi. Prima di partire conviene controllare lo stato della strada su Caltrans QuickMap.
 
 **In pratica**
 - Pieno a Cambria: lungo Big Sur i distributori sono pochi e cari
@@ -204,7 +204,7 @@ La giornata più famosa del viaggio, circa 150 km di strada a picco sull'oceano 
 - Point Lobos: 10 $ per auto, arrivare presto nei weekend
 
 ### Giorno 18 — Monterey, Carmel e il rientro a San Francisco
-Mattina a **Monterey**, con il **Monterey Bay Aquarium**, uno dei migliori acquari del mondo, con la foresta di kelp e le lontre marine. Poi **Carmel-by-the-Sea**, il paese delle case da fiaba, e la **17-Mile Drive** tra campi da golf e cipressi sull'oceano. Nel pomeriggio due ore abbondanti fino a **San Francisco**, dove si riconsegna l'auto in aeroporto e si dorme vicino a SFO.
+La mattina siamo stati a **Monterey**, al **Monterey Bay Aquarium**, uno dei migliori acquari del mondo, con la foresta di kelp e le lontre marine. Poi **Carmel-by-the-Sea**, il paese delle case da fiaba, e la **17-Mile Drive** tra campi da golf e cipressi sull'oceano. Nel pomeriggio, due ore abbondanti fino a **San Francisco**: abbiamo riconsegnato l'auto in aeroporto e dormito vicino a SFO.
 
 **In pratica**
 - Monterey Bay Aquarium: intorno ai 65 $
@@ -250,7 +250,7 @@ Ordine di grandezza: **3.200-5.400 € a persona** in due, voli internazionali e
 ## Varianti per durata
 - **14 giorni, senza deserto:** San Francisco (3), Yosemite (2), Sequoia (2), Los Angeles (2), costa fino a Monterey (3), rientro a San Francisco. Da Sequoia a Los Angeles circa 4 ore.
 - **Estate, con la Tioga Road:** da Yosemite si esce verso est sulla **Tioga Road** (aperta indicativamente da giugno a novembre) e si scende a **Mono Lake**, **Mammoth Lakes** e lungo la Highway 395 fino a **Lone Pine** e alle **Alabama Hills**, poi Death Valley all'alba. Si salta Sequoia o la si recupera alla fine, risalendo da Los Angeles. È la variante più scenografica ma fa il deserto nel mese più caldo.
-- **Inverno (novembre-marzo):** la Tioga Road è chiusa e Yosemite si raggiunge solo da ovest; si dedica più tempo al deserto (Death Valley, Joshua Tree, Anza-Borrego) e alla costa, verificando lo stato della Highway 1 dopo le piogge.
+- **Inverno (novembre-marzo):** la Tioga Road è chiusa e Yosemite si raggiunge solo da ovest; si dedica più tempo al deserto (Death Valley, Joshua Tree, Anza-Borrego) e alla costa, controllando lo stato della Highway 1 dopo le piogge.
 - **Con Las Vegas e i parchi dello Utah:** da Death Valley a Las Vegas in 2 ore, poi Zion e Grand Canyon prima di tornare in California per Joshua Tree. Serve una settimana in più, e Zion e Grand Canyon rientrano nel supplemento per i non residenti, già coperto dal pass annuale.
 - **Solo costa:** San Francisco-Los Angeles in 7-8 giorni lungo la Highway 1 con auto a noleggio di sola andata.
 

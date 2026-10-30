@@ -52,6 +52,7 @@ export const repubblicaCeca: Paese = {
     emergenze: 'Numero unico europeo 112. L\'Ambasciata d\'Italia è a Praga.',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'La Piazza della Città Vecchia di Praga con la torre dell\'Orologio Astronomico e le guglie della Chiesa di Tyn sullo sfondo',
+  heroImageAlt: 'La Piazza della Città Vecchia di Praga con le due guglie gotiche della Chiesa di Santa Maria di Týn e il Palazzo Kinský in una giornata di sole',
+  heroImage: '/images/repubblica-ceca/repubblica-ceca-paese.jpg',
   tripPrincipaleSlug: 'praga-weekend',
 }

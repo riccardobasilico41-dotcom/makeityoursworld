@@ -2,9 +2,8 @@ import type { Paese } from '@/lib/types'
 
 // Come per gli Emirati, il Qatar è trattato soprattutto come destinazione da
 // stopover: il confronto tra i programmi delle compagnie del Golfo sta nella
-// scheda Dubai, quello sulla durata della sosta nella scheda Doha.
-// I campi miaEsperienza sono bozze scritte da Claude nella voce del diario:
-// vanno riletti e sostituiti. Nessun nome di hotel o ristorante è inventato.
+// scheda Dubai, quello sulla durata della sosta nella scheda Doha. Nessun nome
+// di hotel o ristorante è inventato.
 
 export const qatar: Paese = {
   slug: 'qatar',
@@ -44,6 +43,7 @@ export const qatar: Paese = {
     emergenze: 'Numero unico per le emergenze 999. L\'Ambasciata d\'Italia è a Doha.',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'Lo skyline di Doha visto dalla Corniche al tramonto, Qatar',
+  heroImageAlt: 'Lo skyline di Doha e una barca a vela sulla Corniche al tramonto, Qatar',
+  heroImage: '/images/qatar/qatar-paese.jpg',
   tripPrincipaleSlug: 'stopover-golfo',
 }

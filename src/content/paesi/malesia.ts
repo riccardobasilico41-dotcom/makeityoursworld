@@ -2,12 +2,9 @@ import type { Paese } from '@/lib/types'
 
 // La Malesia peninsulare e il Borneo malese sono tenuti separati di proposito:
 // hanno logistica, tempi e ragioni di viaggio completamente diversi, e mettere
-// tutto sotto un\'unica scheda è il modo più rapido per costruire un itinerario
-// sbagliato. Vedi src/content/paesi/borneo.ts.
-// I campi miaEsperienza nelle destinazioni e nelle esperienze sono bozze
-// scritte da Claude nella voce del diario, basate su ciò che è oggettivamente
-// vero di ogni posto e non su ricordi reali: vanno riletti e sostituiti.
-// Nessun nome di hotel, ristorante o operatore è stato inventato.
+// tutto sotto un\'unica scheda è il modo più rapido per costruire un
+// itinerario sbagliato. Vedi src/content/paesi/borneo.ts. Nessun nome di
+// hotel, ristorante o operatore è stato inventato.
 
 export const malesia: Paese = {
   slug: 'malesia',
@@ -49,6 +46,7 @@ export const malesia: Paese = {
     emergenze: 'Polizia e ambulanza 999. L\'Ambasciata d\'Italia è a Kuala Lumpur.',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'Le Petronas Twin Towers illuminate al tramonto sullo skyline di Kuala Lumpur',
+  heroImageAlt: 'Le Petronas Twin Towers illuminate di notte con il ponte sospeso tra le due torri, Kuala Lumpur',
+  heroImage: '/images/malesia/malesia-paese.jpg',
   tripPrincipaleSlug: 'malesia-singapore',
 }

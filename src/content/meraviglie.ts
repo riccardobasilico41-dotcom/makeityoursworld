@@ -2,19 +2,15 @@ import type { Meraviglia } from '@/lib/types'
 
 // Le Sette Meraviglie del Mondo Moderno (New7Wonders, 2007). Contenuto guida
 // puramente pratico e verificabile (storia, prenotazione, prezzi, come
-// arrivare, truffe comuni) — non un itinerario di viaggio personale.
-// I campi miaEsperienza sono bozze scritte da Claude nella voce del diario,
-// basate su ciò che è oggettivamente vero di ogni monumento (affollamento,
-// orari, fatica, regole di accesso) e non su ricordi reali: vanno riletti e
-// sostituiti con i tuoi. Restano assenti sul Cristo Redentore, l'unica delle
-// sette non ancora vista. Prezzi, orari e regole di prenotazione cambiano
-// spesso: vanno sempre riverificati sui siti ufficiali prima di partire.
-//
-// Ultimo passaggio di verifica prezzi/prenotazioni/orari: 28 settembre 2026
-// (fonti: siti ufficiali e guide di viaggio affidabili consultate quel
-// giorno). Le cifre corrette in quel passaggio riportano l'indicazione
-// "indicativo, soggetto a revisione periodica" — vanno comunque riverificate
-// prima di ogni partenza, come da nota sopra.
+// arrivare, truffe comuni) — non un itinerario di viaggio personale. Restano
+// assenti sul Cristo Redentore, l'unica delle sette non ancora vista. Prezzi,
+// orari e regole di prenotazione cambiano spesso: vanno sempre riverificati
+// sui siti ufficiali prima di partire. Ultimo passaggio di verifica
+// prezzi/prenotazioni/orari: 28 settembre 2026 (fonti: siti ufficiali e guide
+// di viaggio affidabili consultate quel giorno). Le cifre corrette in quel
+// passaggio riportano l'indicazione "indicativo, soggetto a revisione
+// periodica" — vanno comunque riverificate prima di ogni partenza, come da
+// nota sopra.
 
 export const meraviglie: Meraviglia[] = [
   {

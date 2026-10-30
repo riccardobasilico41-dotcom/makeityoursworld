@@ -13,7 +13,7 @@ export const siteConfig = {
   // Project Settings → Environment Variables), così si cambia dominio senza
   // toccare il codice. Il dominio scelto è makeityoursworld.com (non ancora
   // comprato): finché non è attivo il fallback resta l'indirizzo Vercel.
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? 'https://viaggi-360.vercel.app',
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? 'https://makeityoursworld.vercel.app',
 
   flags: {
     showInstagram: false,

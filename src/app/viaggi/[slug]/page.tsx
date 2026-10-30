@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import { FirmaAutore, FirmaBreve } from '@/components/FirmaAutore'
 import { notFound } from 'next/navigation'
 import { Prose } from '@/components/Prose'
 import { ScrollProgress } from '@/components/motion-primitives/scroll-progress'
@@ -68,7 +69,8 @@ export default async function ViaggioPage({ params }: PageProps<'/viaggi/[slug]'
   const altreSezioni = viaggio.sezioni.filter((s) => s !== cosaVedereSezione && s !== consigliSezione)
 
   const toc: TocItem[] = []
-  if (meta) toc.push({ href: '#il-viaggio-in-breve', label: 'Il viaggio in breve' })
+  if (meta && CAMPI_VIAGGIO_IN_BREVE.some(({ key }) => meta.viaggioInBreve[key]))
+    toc.push({ href: '#il-viaggio-in-breve', label: 'Il viaggio in breve' })
   if (meta && meta.tappeMappa.length > 0) toc.push({ href: '#mappa', label: 'Mappa' })
   if (viaggio.giorni.length > 0)
     toc.push({
@@ -152,15 +154,13 @@ function SignatureViaggioContent({
       <PageHeader
         crumbs={[{ label: 'Home', href: '/' }, { label: 'Viaggi', href: '/viaggi' }, { label: viaggio.titolo }]}
         eyebrow={getContinente(viaggio.categorie)}
-        badge={
-          viaggio.inLavorazione ? (
-            <span className="border border-ink/20 px-2.5 py-1 text-[0.65rem] font-semibold uppercase tracking-wider text-stone">
-              Racconto in arrivo
-            </span>
-          ) : undefined
-        }
         title={editorial.editorialHeadline ?? viaggio.titolo}
-        lead={editorial.editorialHook ? <p>{editorial.editorialHook}</p> : undefined}
+        lead={
+          <>
+            {editorial.editorialHook && <p>{editorial.editorialHook}</p>}
+            <FirmaBreve />
+          </>
+        }
         meta={
           <HeaderFacts
             items={[
@@ -184,29 +184,26 @@ function SignatureViaggioContent({
         <Container className="grid gap-14 lg:grid-cols-[1.6fr_1fr]">
           <div className="space-y-16">
             {viaggio.apertura && (
-              <p className="font-display text-2xl italic leading-relaxed text-alpine sm:text-3xl">
+              <p className="font-display text-xl italic leading-relaxed text-alpine sm:text-2xl lg:text-3xl">
                 {viaggio.apertura}
               </p>
             )}
 
             <div className="space-y-8">
               <TripSummary viaggio={viaggio} meta={meta} />
-              <div id="il-viaggio-in-breve" className="scroll-mt-24">
-                <h2 className="font-display text-xl text-alpine">Il viaggio in breve</h2>
-                <dl className="mt-4 grid gap-4 sm:grid-cols-2">
-                  {CAMPI_VIAGGIO_IN_BREVE.map(({ key, label }) => {
-                    const valore = meta.viaggioInBreve[key]
-                    return (
-                      <div key={key} className="rounded-none border border-dashed border-alpine/20 p-4">
+              {CAMPI_VIAGGIO_IN_BREVE.some(({ key }) => meta.viaggioInBreve[key]) && (
+                <div id="il-viaggio-in-breve" className="scroll-mt-24">
+                  <h2 className="font-display text-xl text-alpine">Il viaggio in breve</h2>
+                  <dl className="mt-4 grid gap-4 sm:grid-cols-2">
+                    {CAMPI_VIAGGIO_IN_BREVE.filter(({ key }) => meta.viaggioInBreve[key]).map(({ key, label }) => (
+                      <div key={key} className="rounded-none border border-alpine/10 p-4">
                         <dt className="text-xs font-semibold uppercase tracking-wider text-stone/70">{label}</dt>
-                        <dd className={`mt-1.5 text-sm leading-relaxed ${valore ? 'text-ink' : 'italic text-stone/60'}`}>
-                          {valore ?? 'Ricordo personale da aggiungere'}
-                        </dd>
+                        <dd className="mt-1.5 text-sm leading-relaxed text-ink">{meta.viaggioInBreve[key]}</dd>
                       </div>
-                    )
-                  })}
-                </dl>
-              </div>
+                    ))}
+                  </dl>
+                </div>
+              )}
             </div>
 
             {meta.tappeMappa.length > 0 && (
@@ -289,7 +286,7 @@ function SignatureViaggioContent({
             )}
 
             {viaggio.chiusura && (
-              <p className="border-t border-alpine/10 pt-10 font-display text-xl italic leading-relaxed text-stone">
+              <p className="border-t border-alpine/10 pt-10 font-display text-lg italic leading-relaxed text-stone sm:text-xl">
                 {viaggio.chiusura}
               </p>
             )}
@@ -303,6 +300,7 @@ function SignatureViaggioContent({
                 ))}
               </div>
             )}
+            <FirmaAutore />
           </div>
 
           <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">

@@ -1,10 +1,7 @@
 import type { Destinazione } from '@/lib/types'
 
-// I campi miaEsperienza sono bozze scritte da Claude nella voce del diario,
-// basate su ciò che è oggettivamente vero di ogni posto (stagione, monsoni,
-// affollamento, orari) e non su ricordi reali: vanno riletti e sostituiti.
-// Nessun nome di hotel, ristorante o operatore è stato inventato.
-// Il Borneo malese sta in una scheda separata: src/content/destinazioni/borneo.ts
+// Nessun nome di hotel, ristorante o operatore è stato inventato. Il Borneo
+// malese sta in una scheda separata: src/content/destinazioni/borneo.ts
 
 export const destinazioniMalesia: Destinazione[] = [
   {
@@ -55,7 +52,8 @@ export const destinazioniMalesia: Destinazione[] = [
       'Kuala Lumpur è una città che quasi tutti usano come scalo e che invece regge due giorni pieni, a patto di girarla a quartieri e non a monumenti. Le Petronas si guardano dal basso all\'ora blu e va bene così: la salita allo skybridge costa e restituisce meno di quanto promette. Le Batu Caves, invece, vanno fatte alle sette del mattino, quando i gradini colorati sono ancora in ombra e i fedeli salgono per pregare: due ore dopo è una scalinata rovente con centinaia di persone e le scimmie che strappano le bottiglie di mano. Ma la cosa che resta è un\'altra ed è banale: la sera a Jalan Alor, seduti su sgabelli di plastica in mezzo alla strada, con una cucina cinese a destra, una malese a sinistra e un banco indiano di fronte. È lì che si capisce di che paese si sta parlando.',
     esperienzeSlugs: ['batu-caves'],
     tripSlugs: ['malesia-singapore'],
-    imageAlt: 'I 272 gradini colorati e la statua dorata di Murugan alle Batu Caves, Kuala Lumpur',
+    imageAlt: 'Lo skyline di Kuala Lumpur al crepuscolo con le Petronas Twin Towers illuminate',
+    immagine: '/images/malesia/kuala-lumpur.jpg',
   },
   {
     slug: 'penang',
@@ -145,7 +143,8 @@ export const destinazioniMalesia: Destinazione[] = [
       'A Penang si va a mangiare, e chi dice il contrario non c\'è stato. Il centro storico di George Town è bello — shophouse scrostate, insegne cinesi, i Clan Jetties su palafitte dove vive ancora gente — ma la cosa che lo rende diverso da qualsiasi altra città malese è che ogni comunità ha portato qui la propria cucina e nessuna l\'ha annacquata. L\'assam laksa, con quel brodo acido di pesce e tamarindo che al primo cucchiaio spiazza, è il piatto per cui vale la deviazione. Va detto anche come funziona: i banchi migliori non hanno insegne in inglese, aprono a orari propri e chiudono quando finiscono, e capita di presentarsi e trovare la serranda abbassata alle due del pomeriggio. Sulla parte artistica conviene essere onesti: i murales sono simpatici e ormai ci sono code per fotografarsi davanti ai più famosi, ma non sono il motivo per cui questa città è patrimonio UNESCO.',
     esperienzeSlugs: ['street-food-penang'],
     tripSlugs: ['malesia-singapore'],
-    imageAlt: 'Shophouse coloniali e murales nel centro storico UNESCO di George Town, Penang',
+    imageAlt: 'I tetti di George Town, Weld Quay e i Clan Jetties visti dall\'alto, con lo stretto e Butterworth sullo sfondo',
+    immagine: '/images/malesia/penang.jpg',
   },
   {
     slug: 'malacca',
@@ -191,7 +190,8 @@ export const destinazioniMalesia: Destinazione[] = [
       'Malacca è una tappa breve che rende molto più di quanto prometta, a una condizione: dormirci. Di giorno, soprattutto nel fine settimana, il centro è un flusso continuo di visitatori in giornata da Kuala Lumpur e Singapore, con i trishaw decorati a luci LED che passano sparando musica a tutto volume — un livello di kitsch che alla seconda volta diventa divertente. La sera, quando i pullman se ne vanno, restano i vicoli di Chinatown, le case peranakan con le porte aperte e il fiume illuminato. La collina di St. Paul, con la chiesa portoghese senza tetto e le lapidi olandesi appoggiate ai muri, è il posto dove la stratificazione di questa città diventa evidente in due minuti. E la cucina nyonya, che nasce dall\'incontro tra mercanti cinesi e donne malesi, è una delle cose più interessanti mangiate in tutto il paese.',
     esperienzeSlugs: [],
     tripSlugs: ['malesia-singapore'],
-    imageAlt: 'La Christ Church e lo Stadthuys olandese nella piazza rossa di Malacca',
+    imageAlt: 'Il fiume di Malacca tra le case colorate del centro storico, con un battello turistico',
+    immagine: '/images/malesia/malacca.jpg',
   },
   {
     slug: 'cameron-highlands',
@@ -239,7 +239,8 @@ export const destinazioniMalesia: Destinazione[] = [
       'Le Cameron Highlands funzionano soprattutto per contrasto: si arriva dopo giorni di caldo umido e la sera si dorme sotto una coperta, che a quel punto sembra un lusso. Le piantagioni di tè sono davvero belle, con le terrazze verdi che scendono a onde, e la sala da tè affacciata sulle colline è una di quelle cose coloniali che qui non risultano fuori luogo. La mossy forest è la parte che sorprende di più — un bosco nano a 2.000 metri completamente coperto di muschio, con la nebbia tra i rami — e insieme quella su cui conviene essere pratici: ci sono due mossy forest, quella vera e la passerella turistica accanto al parcheggio della torre, e i tour più economici portano solo alla seconda. Va detto anche il rovescio della medaglia: l\'altopiano è agricolo e in certi tratti le serre di plastica coprono interi versanti. Non è un parco nazionale, è una zona coltivata con dei bei pezzi dentro.',
     esperienzeSlugs: ['piantagioni-te-cameron'],
     tripSlugs: ['malesia-singapore'],
-    imageAlt: 'Le terrazze verdi di una piantagione di tè nelle Cameron Highlands, Malesia',
+    imageAlt: 'Le colline coperte di foresta delle Cameron Highlands viste da un punto panoramico',
+    immagine: '/images/malesia/cameron-highlands.jpg',
   },
   {
     slug: 'taman-negara',
@@ -286,7 +287,8 @@ export const destinazioniMalesia: Destinazione[] = [
       'Taman Negara va affrontata con l\'aspettativa giusta, perché è la tappa che delude chi arriva pensando a un documentario. La foresta pluviale è densissima e la visibilità laterale è di pochi metri: si sentono cicale, gibboni lontani, uccelli, ma di grande non si vede quasi niente. Quello che la rende memorabile è un\'altra cosa — la traversata in barca lunga per arrivarci, due ore e mezza controcorrente tra due muri di verde, e la canopy walkway, che è il solo modo di guardare la foresta dall\'alto e capirne la struttura a strati. Va fatta all\'apertura, perché più tardi si passa uno per volta con la coda dietro. La night walk è la parte che quasi tutti saltano ed è quella che vale: con la torcia si vedono ragni, serpenti, occhi che riflettono nel buio, e la foresta di giorno silenziosa diventa rumorosissima. Ultima cosa pratica, non trascurabile: le sanguisughe ci sono e salgono dai piedi, e le calze apposite non sono un eccesso di zelo.',
     esperienzeSlugs: ['canopy-walkway-taman-negara'],
     tripSlugs: ['malesia-singapore'],
-    imageAlt: 'La passerella sospesa tra le chiome della foresta pluviale di Taman Negara, Malesia',
+    imageAlt: 'La foresta pluviale di Taman Negara vista dalla collina di Teresek, con le montagne all\'orizzonte',
+    immagine: '/images/malesia/taman-negara.jpg',
   },
   {
     slug: 'langkawi',
@@ -334,7 +336,8 @@ export const destinazioniMalesia: Destinazione[] = [
       'Langkawi è l\'isola comoda della Malesia e va presa per quello: si arriva in volo, si noleggia uno scooter, si gira liberamente. Sul mare bisogna abbassare le aspettative — l\'acqua è spesso verdastra e torbida, siamo nello stretto e i fiumi ci scaricano dentro, quindi chi cerca il turchese delle cartoline sta guardando la costa sbagliata della Malesia. Quello che invece rende la sosta, ed è inaspettato, è la parte non balneare: il giro tra le mangrovie di Kilim, con le pareti calcaree che si chiudono sopra la barca, le grotte dei pipistrelli e i granchi sui fanghi, è più interessante di qualsiasi spiaggia dell\'isola. Lo Sky Bridge merita la salita a patto di farla presto: verso mezzogiorno la foschia si mangia tutto e resta la coda. E poi c\'è il dettaglio pratico che nessuno anticipa: Langkawi è porto franco, quindi l\'alcol costa un terzo che nel resto del paese, e si nota subito in che modo cambia l\'atmosfera serale rispetto al resto della Malesia.',
     esperienzeSlugs: [],
     tripSlugs: ['malesia-singapore'],
-    imageAlt: 'Il ponte sospeso curvo dello Sky Bridge sopra la foresta di Langkawi, Malesia',
+    imageAlt: 'Lo Sky Bridge di Langkawi sospeso tra le montagne coperte di foresta',
+    immagine: '/images/malesia/langkawi.jpg',
   },
   {
     slug: 'perhentian',
@@ -381,6 +384,7 @@ export const destinazioniMalesia: Destinazione[] = [
       'Le Perhentian sono la ragione per cui vale la pena riorganizzare un itinerario in Malesia: questa è l\'unica costa dove il mare è davvero quello delle fotografie, turchese e trasparente, e basta entrare in acqua dalla spiaggia per incrociare una tartaruga che bruca sul fondo senza farsi nessun problema. È anche un posto volutamente indietro: chalet di legno, ventilatore invece dell\'aria condizionata, elettricità a fasce, niente bancomat funzionante e cene che dopo tre giorni si ripetono. Chi lo sa in anticipo se lo gode, chi si aspetta un resort no. La cosa da mettere in agenda prima di qualsiasi altra è il calendario: da novembre a febbraio il monsone di nord-est chiude le isole, i traghetti si fermano e le strutture serrano. Non è bassa stagione, è proprio chiuso — ed è l\'errore che fa saltare più itinerari malesi di qualsiasi altro.',
     esperienzeSlugs: [],
     tripSlugs: ['malesia-singapore'],
-    imageAlt: 'Acqua turchese e barche sulla spiaggia delle isole Perhentian, costa est della Malesia',
+    imageAlt: 'Una spiaggia di sabbia bianca e mare turchese ai piedi della giungla a Perhentian Kecil',
+    immagine: '/images/malesia/perhentian.jpg',
   },
 ]

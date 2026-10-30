@@ -6,7 +6,6 @@ import Image from 'next/image'
 import { Route, BedDouble, Coins, Gauge, ArrowUpRight } from 'lucide-react'
 import { Prose } from '@/components/Prose'
 import { Reveal } from '@/components/Reveal'
-import { ContentStatusBadge } from '@/components/ui/ContentStatusBadge'
 import { FieldDossier } from './FieldDossier'
 import type { ViaggioGiorno } from '@/lib/viaggi'
 import type { GiornoMeta, IntensitaGiorno } from '@/lib/types'
@@ -110,7 +109,6 @@ export const DayTimelineSignature = forwardRef<
                             <dt className="text-xs text-stone/60">Pernottamento</dt>
                             <dd className="flex flex-wrap items-center gap-1.5 text-ink">
                               {info.pernottamento}
-                              {info.statoPernottamento && <ContentStatusBadge stato={info.statoPernottamento} />}
                             </dd>
                           </div>
                         </div>

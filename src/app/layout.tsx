@@ -3,6 +3,7 @@ import localFont from "next/font/local";
 import "./globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
+import { AUTORE } from "@/lib/structured-data";
 import { siteConfig } from "@/lib/site-config";
 
 // Stile A "Ghat": grotesk espressivo per i titoli, grotesk sobrio per il testo.
@@ -60,14 +61,23 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     description: siteConfig.description,
     url: siteConfig.url,
     inLanguage: "it-IT",
+    author: AUTORE,
   };
 
   return (
     <html
       lang="it"
+      suppressHydrationWarning
       className={`${bricolage.variable} ${schibsted.variable} ${courierPrime.variable} h-full antialiased`}
     >
       <body className="flex min-h-full flex-col bg-cream font-sans text-ink">
+        {/* Il marchio si batte a macchina solo alla prima pagina della visita: dalle successive è già scritto. */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html:
+              "try{if(sessionStorage.getItem('marchio'))document.documentElement.dataset.marchio='visto';else sessionStorage.setItem('marchio','1')}catch(e){}",
+          }}
+        />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}

@@ -122,7 +122,8 @@ export const esperienzeSvezia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: [],
     tripSlugs: [],
-    imageAlt: 'Galleria sotterranea illuminata della miniera di ferro LKAB a Kiruna',
+    imageAlt: 'Gli impianti industriali della miniera di ferro LKAB ai piedi del monte Kiirunavaara, a Kiruna',
+    immagine: '/images/svezia/miniera-lkab-kiruna.jpg',
   },
   {
     slug: 'vasamuseet-stoccolma',
@@ -143,7 +144,8 @@ export const esperienzeSvezia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Il biglietto combinato con il Vrak Museum of Wrecks, dedicato ad altri relitti del Mar Baltico, valido 72 ore'],
     tripSlugs: ['capitali-nordiche'],
-    imageAlt: 'La prua scolpita della nave da guerra Vasa del XVII secolo esposta al Vasamuseet di Stoccolma',
+    imageAlt: 'La poppa scolpita della nave da guerra Vasa del XVII secolo esposta all\'interno del Vasamuseet di Stoccolma',
+    immagine: '/images/svezia/vasamuseet-stoccolma.jpg',
   },
   {
     slug: 'gamla-stan-passeggiata',
@@ -164,7 +166,8 @@ export const esperienzeSvezia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: [],
     tripSlugs: ['capitali-nordiche'],
-    imageAlt: 'Vicolo acciottolato con case color pastello nel centro storico di Gamla Stan, Stoccolma',
+    imageAlt: 'Un vicolo acciottolato di Gamla Stan di sera, stretto tra le facciate antiche e illuminato dai lampioni, Stoccolma',
+    immagine: '/images/svezia/gamla-stan-passeggiata.jpg',
   },
   {
     slug: 'abba-museum-stoccolma',
@@ -185,7 +188,8 @@ export const esperienzeSvezia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: [],
     tripSlugs: ['capitali-nordiche'],
-    imageAlt: 'Costumi di scena originali degli ABBA esposti all\'ABBA The Museum di Stoccolma',
+    imageAlt: 'Quattro costumi di scena originali degli ABBA esposti su manichini all\'ABBA The Museum di Stoccolma',
+    immagine: '/images/svezia/abba-museum-stoccolma.jpg',
   },
   {
     slug: 'arcipelago-stoccolma-in-barca',

@@ -28,7 +28,6 @@ export function TripOpener({
   durataBreve,
   compagniBreve,
   tappe,
-  inLavorazione,
   copertina,
   video,
 }: {
@@ -119,11 +118,6 @@ export function TripOpener({
           <span className="font-mono text-xs uppercase tracking-[0.2em] text-cream/50">
             {codicePaese(paeseSlug)}
           </span>
-          {inLavorazione && (
-            <span className="rounded-none bg-cream/10 px-2.5 py-1 text-[0.65rem] font-semibold uppercase tracking-wider text-cream/70">
-              Racconto in arrivo
-            </span>
-          )}
         </div>
 
         <motion.h1

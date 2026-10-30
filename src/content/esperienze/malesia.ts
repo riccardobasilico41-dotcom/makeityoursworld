@@ -1,8 +1,5 @@
 import type { Esperienza } from '@/lib/types'
 
-// I campi miaEsperienza e i giudizi sono bozze scritte da Claude nella voce
-// del diario, coerenti con ciò che è oggettivamente vero di ogni esperienza
-// ma non basate su ricordi reali: vanno riletti e confermati o corretti.
 // Nessun operatore, hotel o ristorante è stato inventato.
 
 export const esperienzeMalesia: Esperienza[] = [
@@ -33,7 +30,8 @@ export const esperienzeMalesia: Esperienza[] = [
       'Il parco forestale di Bukit Nanas con la canopy walkway, per una mattinata diversa a pochi minuti dal centro',
     ],
     tripSlugs: ['malesia-singapore'],
-    imageAlt: 'La scalinata colorata e la statua dorata di Murugan alle Batu Caves al mattino presto',
+    imageAlt: 'Le pareti di roccia carsica e la vegetazione all\'interno delle Batu Caves',
+    immagine: '/images/malesia/batu-caves.jpg',
   },
   {
     slug: 'street-food-penang',
@@ -62,7 +60,8 @@ export const esperienzeMalesia: Esperienza[] = [
       'I centri hawker di Singapore, lo stesso principio organizzato in modo istituzionale',
     ],
     tripSlugs: ['malesia-singapore'],
-    imageAlt: 'Banchi di cucina di strada e tavoli condivisi in un coffee shop di George Town, Penang',
+    imageAlt: 'Un venditore ambulante con il suo carretto lungo Beach Street, George Town',
+    immagine: '/images/malesia/street-food-penang.jpg',
   },
   {
     slug: 'piantagioni-te-cameron',
@@ -90,7 +89,8 @@ export const esperienzeMalesia: Esperienza[] = [
       'Il Gunung Brinchang raggiunto a piedi invece che in jeep, per chi ha mezza giornata e gambe',
     ],
     tripSlugs: ['malesia-singapore'],
-    imageAlt: 'Le terrazze verdi di una piantagione di tè nelle Cameron Highlands con la nebbia sulle colline',
+    imageAlt: 'Le file di arbusti di tè che coprono le colline delle Cameron Highlands',
+    immagine: '/images/malesia/piantagioni-te-cameron.jpg',
   },
   {
     slug: 'canopy-walkway-taman-negara',

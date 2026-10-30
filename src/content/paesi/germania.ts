@@ -58,6 +58,7 @@ export const germania: Paese = {
     emergenze: 'Numero unico europeo 112. L\'Ambasciata d\'Italia è a Berlino.',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'La Porta di Brandeburgo illuminata di sera, con la Quadriga sulla sommità',
+  heroImageAlt: 'La Porta di Brandeburgo illuminata di notte vista da Pariser Platz, con la Quadriga sulla sommità',
+  heroImage: '/images/germania/germania-paese.jpg',
   tripPrincipaleSlug: 'berlino-weekend',
 }

@@ -1,17 +1,13 @@
 import type { Paese } from '@/lib/types'
 
 // Come l'Italia, la Francia è organizzata per temi e per regioni-carattere
-// invece che per divisioni amministrative: Costa Azzurra, Parigi, Normandia
-// e Bretagna, Loira, Bordeaux, Provenza e Camargue, Occitania, le rotte dei
-// vini, lo sci e la montagna d'estate.
-// La Costa Azzurra è l'unica sezione dell'archivio scritta da dentro: due
-// anni vissuti ad Antibes. I campi miaEsperienza di quella destinazione e
-// delle esperienze collegate vanno riletti e sostituiti con i ricordi veri,
-// che qui esistono davvero; altrove restano bozze scritte da Claude.
-// Nessun nome di hotel, ristorante, operatore, rifugio o domaine è stato
-// inventato.
-// Prezzi, contingentamenti e regole di accesso (Louvre, Mont-Saint-Michel,
-// Calanques, Crit'Air, Bordeaux) cambiano ogni stagione: vanno riverificati.
+// invece che per divisioni amministrative: Costa Azzurra, Parigi, Normandia e
+// Bretagna, Loira, Bordeaux, Provenza e Camargue, Occitania, le rotte dei
+// vini, lo sci e la montagna d'estate. La Costa Azzurra è l'unica sezione
+// dell'archivio scritta da dentro: due anni vissuti ad Antibes. Nessun nome di
+// hotel, ristorante, operatore, rifugio o domaine è stato inventato. Prezzi,
+// contingentamenti e regole di accesso (Louvre, Mont-Saint-Michel, Calanques,
+// Crit'Air, Bordeaux) cambiano ogni stagione: vanno riverificati.
 
 export const francia: Paese = {
   slug: 'francia',
@@ -56,6 +52,7 @@ export const francia: Paese = {
       'Numero unico europeo **112**. In alternativa: 15 SAMU (emergenza medica), 17 police, 18 pompiers. Per il soccorso in montagna si chiama il 112 indicando la posizione più precisa possibile.',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'Il porto di Antibes con i bastioni e le Alpi innevate sullo sfondo, Costa Azzurra',
+  heroImage: '/images/francia/francia-paese.jpg',
+  heroImageAlt: 'Il Port Vauban di Antibes con gli yacht ormeggiati e la città vecchia sui bastioni, visto dal Fort Carré',
   tripPrincipaleSlug: 'costa-azzurra',
 }

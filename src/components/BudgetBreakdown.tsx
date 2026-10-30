@@ -5,7 +5,7 @@ export function BudgetBreakdown({ voci }: { voci: VoceBudget[] }) {
     <div className="overflow-hidden rounded-none border border-alpine/10 bg-white">
       <table className="w-full text-sm">
         <tbody>
-          {voci.map((voce, i) => {
+          {voci.filter((voce) => voce.valore).map((voce, i) => {
             const isTotale = voce.etichetta.toLowerCase() === 'totale'
             return (
               <tr
@@ -20,7 +20,7 @@ export function BudgetBreakdown({ voci }: { voci: VoceBudget[] }) {
                     voce.valore ? 'text-ink' : 'italic text-stone/60'
                   } ${isTotale ? 'font-semibold text-alpine' : ''}`}
                 >
-                  {voce.valore ?? 'da aggiungere'}
+                  {voce.valore}
                 </td>
               </tr>
             )

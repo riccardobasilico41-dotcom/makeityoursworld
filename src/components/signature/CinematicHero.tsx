@@ -18,7 +18,6 @@ export const HERO_VIDEO = {
   label: 'Runaway: montaggio video dei nostri viaggi in giro per il mondo',
   /** Secondi dell'apertura del video con il titolo «WORLD. make it yours». */
   introFino: 17,
-  didascalia: 'Runaway, i nostri viaggi in un solo montaggio. Riprese di Riccardo Basilico.',
 }
 
 /** Divide la tagline: le ultime tre parole vanno in evidenza. */
@@ -81,7 +80,6 @@ export function CinematicHero({
             Sfoglia per Paese
           </Link>
         </div>
-        <p className="mt-8 text-xs text-cream/60">{HERO_VIDEO.didascalia}</p>
       </div>
     </section>
   )

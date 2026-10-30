@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import { FirmaAutore } from '@/components/FirmaAutore'
 import { notFound } from 'next/navigation'
 import { ArrowUpRight } from 'lucide-react'
 import { Container } from '@/components/ui/Container'
@@ -9,7 +10,7 @@ import { PracticalInfo } from '@/components/ui/PracticalInfo'
 import { RelatedContent } from '@/components/RelatedContent'
 import { ComparisonBlock } from '@/components/ComparisonBlock'
 import { JsonLd } from '@/components/JsonLd'
-import { breadcrumbJsonLd } from '@/lib/structured-data'
+import { breadcrumbJsonLd, faqJsonLd } from '@/lib/structured-data'
 import {
   getAllEsperienze,
   getEsperienza,
@@ -17,7 +18,7 @@ import {
   getDestinazioniByEsperienzaSlug,
   getViaggiByEsperienza,
 } from '@/lib/geo'
-import { pageMetadata } from '@/lib/seo'
+import { pageMetadata, primoTitoloCheSta } from '@/lib/seo'
 import { richNodes } from '@/components/ui/Rich'
 
 export async function generateStaticParams() {
@@ -32,8 +33,16 @@ export async function generateMetadata({
   const { paese: paeseSlug, slug } = await params
   const esperienza = getEsperienza(paeseSlug, slug)
   if (!esperienza) return {}
+  const nome = esperienza.nome
   return pageMetadata({
-    title: esperienza.nome,
+    // La domanda che si fa chi la sta valutando: «vale la pena?».
+    title: primoTitoloCheSta([
+      esperienza.costo && `${nome}: vale la pena? Costi, durata e consigli`,
+      esperienza.costo && `${nome}: vale la pena? Costi e consigli`,
+      `${nome}: vale la pena? Consigli pratici`,
+      `${nome}: vale la pena?`,
+      nome,
+    ]),
     description: esperienza.cosE,
     path: `/esperienze/${paeseSlug}/${slug}`,
     type: 'article',
@@ -71,7 +80,15 @@ export default async function EsperienzaPage({
             { nome: paese.nome, percorso: `/destinazioni/${paeseSlug}` },
             { nome: esperienza.nome, percorso: `/esperienze/${paeseSlug}/${esperienza.slug}` },
           ]),
-        ]}
+          faqJsonLd([
+            { domanda: `Quanto costa ${esperienza.nome}?`, risposta: esperienza.costo },
+            { domanda: `Quanto dura ${esperienza.nome}?`, risposta: esperienza.durata },
+            { domanda: `Qual è il periodo migliore per ${esperienza.nome}?`, risposta: esperienza.periodo },
+            { domanda: `Come si prenota ${esperienza.nome}?`, risposta: esperienza.comePrenotare },
+            { domanda: `Cosa portare per ${esperienza.nome}?`, risposta: esperienza.cosaPortare },
+            { domanda: `Per chi è adatta ${esperienza.nome}?`, risposta: esperienza.perChiEAdatta },
+          ]),
+        ].filter((d) => d !== null)}
       />
       <PageHeader
         crumbs={[
@@ -95,16 +112,12 @@ export default async function EsperienzaPage({
               <p className="mt-3 text-base leading-relaxed text-stone">{richNodes(esperienza.percheFarla)}</p>
             </div>
 
-            {esperienza.miaEsperienza ? (
+            {esperienza.miaEsperienza && (
               <div>
                 <h2 className="font-display text-2xl text-alpine">La mia esperienza</h2>
                 <p className="mt-3 font-display text-xl italic leading-relaxed text-alpine">
                   {richNodes(esperienza.miaEsperienza)}
                 </p>
-              </div>
-            ) : (
-              <div className="rounded-none border border-dashed border-alpine/20 p-5 text-sm text-stone/70">
-                Ricordo personale da aggiungere.
               </div>
             )}
 
@@ -142,6 +155,7 @@ export default async function EsperienzaPage({
                 sottotitolo: v.durataBreve,
               }))}
             />
+            <FirmaAutore />
           </div>
 
           <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">
@@ -153,10 +167,10 @@ export default async function EsperienzaPage({
                   { label: 'Dove si trova', value: esperienza.localita },
                   { label: 'Durata', value: esperienza.durata },
                   { label: 'Periodo', value: esperienza.periodo },
-                  { label: 'Costo', value: esperienza.costo ?? 'da completare' },
-                  { label: 'Come prenotare', value: esperienza.comePrenotare ?? 'da completare' },
-                  { label: 'Cosa portare', value: esperienza.cosaPortare ?? 'da completare' },
-                  { label: 'Per chi è adatta', value: esperienza.perChiEAdatta ?? 'da completare' },
+                  { label: 'Costo', value: esperienza.costo },
+                  { label: 'Come prenotare', value: esperienza.comePrenotare },
+                  { label: 'Cosa portare', value: esperienza.cosaPortare },
+                  { label: 'Per chi è adatta', value: esperienza.perChiEAdatta },
                 ]}
               />
             </div>

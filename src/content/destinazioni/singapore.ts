@@ -1,11 +1,8 @@
 import type { Destinazione } from '@/lib/types'
 
 // Città-stato: le "destinazioni" qui sotto sono aree e quartieri, non città.
-// I campi miaEsperienza sono bozze scritte da Claude nella voce del diario,
-// basate su ciò che è oggettivamente vero di ogni posto e non su ricordi
-// reali: vanno riletti e sostituiti. Non sono stati inventati nomi di hotel o
-// ristoranti; i centri hawker e i siti pubblici citati sono luoghi, non
-// esercizi commerciali.
+// Non sono stati inventati nomi di hotel o ristoranti; i centri hawker e i
+// siti pubblici citati sono luoghi, non esercizi commerciali.
 
 export const destinazioniSingapore: Destinazione[] = [
   {
@@ -55,7 +52,8 @@ export const destinazioniSingapore: Destinazione[] = [
       'Marina Bay è il tipo di posto che uno si aspetta di trovare artificiale e che invece funziona, e vale la pena capire perché: non è solo scenografia, è una baia chiusa da una diga che ha trasformato l\'acqua di mare in un bacino d\'acqua dolce e risolto metà del problema idrico del paese. Sapendolo, i Supertree smettono di essere alberi finti e diventano quello che sono — torri di raccolta dell\'acqua piovana e di ventilazione per le serre, con i pannelli solari in cima. Lo spettacolo di luci serale è gratuito, dura una quindicina di minuti, e ci si sdraia sul prato sotto le torri insieme a centinaia di persone: è la cosa più bella della città e non costa niente. La Cloud Forest, con la cascata di trenta metri dentro una cupola di vetro climatizzata, è l\'altra sorpresa. La regola d\'oro di tutta la zona: non pagare per la vista dall\'alto, ordinare un cocktail al bar dello stesso grattacielo.',
     esperienzeSlugs: ['gardens-by-the-bay'],
     tripSlugs: ['malesia-singapore'],
-    imageAlt: 'I Supertree di Gardens by the Bay illuminati con il Marina Bay Sands sullo sfondo, Singapore',
+    imageAlt: 'Le tre torri del Marina Bay Sands affacciate sull\'acqua della baia, Singapore',
+    immagine: '/images/singapore/marina-bay.jpg',
   },
   {
     slug: 'quartieri-etnici',
@@ -103,7 +101,8 @@ export const destinazioniSingapore: Destinazione[] = [
       'Questa è la Singapore che convince chi arriva convinto che sia solo una città di grattacieli e regole. I centri hawker sono l\'invenzione civile più riuscita del paese: negli anni Settanta il governo tolse i venditori ambulanti dalla strada per ragioni igieniche e invece di eliminarli li mise tutti sotto tettoie con acqua corrente e licenze, e il risultato è che oggi si mangia una cucina straordinaria per tre euro, seduti a tavoli condivisi, in un posto dove chiunque può permettersi di andare. Il sistema per orientarsi è banale e funziona: si guarda quale banco ha la coda e ci si mette in fila. L\'altra cosa che colpisce, camminando tra Chinatown, Little India e Kampong Glam nello stesso pomeriggio, è quanto poco si somiglino: cambiano gli odori, la musica, la lingua che si sente per strada, e sono a due fermate di metropolitana di distanza. Il dettaglio locale da conoscere: sui tavoli si trovano pacchetti di fazzoletti appoggiati da soli — è il "chope", il modo di prenotare il posto, e non si sposta.',
     esperienzeSlugs: ['hawker-centre'],
     tripSlugs: ['malesia-singapore'],
-    imageAlt: 'Le shophouse colorate e la moschea Sultan nel quartiere di Kampong Glam, Singapore',
+    imageAlt: 'Trengganu Street a Chinatown, con le shophouse e le lanterne rosse, Singapore',
+    immagine: '/images/singapore/quartieri-etnici.jpg',
   },
   {
     slug: 'natura-singapore',
@@ -149,7 +148,8 @@ export const destinazioniSingapore: Destinazione[] = [
       'È la parte di Singapore che ribalta l\'idea che uno si è fatto prima di arrivare. A venti minuti di metropolitana dalla baia dei grattacieli c\'è una foresta pluviale vera, con i macachi sui sentieri e i varani che attraversano davanti, e il TreeTop Walk di MacRitchie è una passerella sospesa sopra le chiome che nessuno associa a questa città. I Botanic Gardens al mattino presto sono la scena più bella e meno turistica di tutte: gente del posto che corre, gruppi di anziani che fanno tai chi sotto gli alberi, famiglie sui prati — un parco usato, non visitato. Ma il posto che vale più di tutti è Pulau Ubin: dieci minuti di barca di legno che parte solo quando ha dodici passeggeri, e si sbarca in un\'isola senza auto, con le case di legno su palafitte, i sentieri sterrati e le biciclette a noleggio. È come era Singapore prima del 1965, ed è rimasta solo lì. Vale come contrappeso a tutto il resto, e costa quanto il traghetto.',
     esperienzeSlugs: [],
     tripSlugs: ['malesia-singapore'],
-    imageAlt: 'La passerella sospesa del TreeTop Walk sopra la foresta di MacRitchie, Singapore',
+    imageAlt: 'Un sentiero tra piante tropicali e palme nei Singapore Botanic Gardens',
+    immagine: '/images/singapore/natura-singapore.jpg',
   },
   {
     slug: 'sentosa',
@@ -195,6 +195,7 @@ export const destinazioniSingapore: Destinazione[] = [
       'Sentosa è la tappa su cui vale la pena essere onesti: è un\'isola di intrattenimento, con spiagge artificiali di sabbia importata che guardano una rada piena di petroliere in attesa. Chi ci va cercando il mare torna indietro perplesso. Con dei bambini, o in una giornata di pioggia, i parchi e l\'acquario sono ottimi e giustificano tutto. Per tutti gli altri, le due cose che rendono il viaggio sono altre: la funivia da Mount Faber, che passa sopra il porto e permette di vedere quante navi ci sono in rada — Singapore è uno dei porti più trafficati del mondo e dall\'alto si capisce cosa significhi — e il Fort Siloso, gratuito, con i cannoni puntati verso il mare e la storia di come la città cadde in mano giapponese nel 1942, da terra, mentre l\'artiglieria guardava dalla parte sbagliata. Quella è la mezza giornata che vale.',
     esperienzeSlugs: [],
     tripSlugs: ['malesia-singapore'],
-    imageAlt: 'La funivia sopra il porto verso l\'isola di Sentosa, Singapore',
+    imageAlt: 'Una cabina della funivia di Sentosa sopra la foresta dell\'isola, con il porto sullo sfondo',
+    immagine: '/images/singapore/sentosa.jpg',
   },
 ]

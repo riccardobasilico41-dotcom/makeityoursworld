@@ -22,7 +22,8 @@ export const esperienzeTransilvania: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['transilvania-express'],
-    imageAlt: 'Il Palazzo del Parlamento di Bucarest, Romania',
+    imageAlt: 'Un salone del Palazzo del Parlamento di Bucarest con il soffitto a vetrate, i colonnati in marmo e i lampadari di cristallo',
+    immagine: '/images/transilvania/palazzo-parlamento.jpg',
   },
   {
     slug: 'castello-peles',
@@ -43,7 +44,8 @@ export const esperienzeTransilvania: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['transilvania-express'],
-    imageAlt: 'Il Castello di Peleș in stile neorinascimentale a Sinaia, Romania',
+    imageAlt: 'Il Castello di Peleș con le sue torri neorinascimentali tra i boschi e il prato verde di Sinaia, Romania',
+    immagine: '/images/transilvania/castello-peles.jpg',
   },
   {
     slug: 'castello-bran',
@@ -64,7 +66,8 @@ export const esperienzeTransilvania: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: [],
     tripSlugs: ['transilvania-express'],
-    imageAlt: 'Il Castello di Bran, il "Castello di Dracula", in Romania',
+    imageAlt: 'Il Castello di Bran arroccato sulla sua rupe tra gli alberi, in Romania',
+    immagine: '/images/transilvania/castello-bran.jpg',
   },
   {
     slug: 'fortezza-rasnov',
@@ -85,7 +88,8 @@ export const esperienzeTransilvania: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['Salita a piedi invece che in cabinovia, per chi vuole risparmiare'],
     tripSlugs: ['transilvania-express'],
-    imageAlt: 'La Fortezza di Râșnov su una rocca vicino a Brașov, Romania',
+    imageAlt: 'La Fortezza di Râșnov in cima alla collina boscosa, con la grande scritta RASNOV sotto le mura, vicino a Brașov',
+    immagine: '/images/transilvania/fortezza-rasnov.jpg',
   },
   {
     slug: 'salina-turda',
@@ -106,7 +110,8 @@ export const esperienzeTransilvania: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['transilvania-express'],
-    imageAlt: 'Il laghetto sotterraneo illuminato nelle saline di Salina Turda, Romania',
+    imageAlt: 'La grande camera sotterranea della Salina Turda vista dall\'alto, con le passerelle, le luci sospese e la ruota panoramica sul fondo, Romania',
+    immagine: '/images/transilvania/salina-turda.jpg',
   },
   {
     slug: 'transfagarasan',
@@ -127,7 +132,8 @@ export const esperienzeTransilvania: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['Salita al Lago Bâlea in funivia, nei periodi in cui la strada è chiusa'],
     tripSlugs: ['transilvania-express'],
-    imageAlt: 'I tornanti della Transfăgărășan tra le montagne della Romania',
+    imageAlt: 'I tornanti della Transfăgărășan che risalgono la valle verde dei Monti Făgăraș, Romania',
+    immagine: '/images/transilvania/transfagarasan.jpg',
   },
   {
     slug: 'terme-bucarest',

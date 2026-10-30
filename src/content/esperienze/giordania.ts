@@ -23,7 +23,8 @@ export const esperienzeGiordania: Esperienza[] = [
     giudizio: 'bella-non-essenziale',
     alternative: [],
     tripSlugs: ['giordania-360'],
-    imageAlt: 'Le colonne del Tempio di Ercole sulla Cittadella di Amman, Giordania',
+    imageAlt: 'Il palazzo omayyade con la cupola ricostruita sulla Cittadella di Amman',
+    immagine: '/images/giordania/cittadella-amman.jpg',
   },
   {
     slug: 'bagno-mar-morto',
@@ -44,7 +45,8 @@ export const esperienzeGiordania: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['giordania-360'],
-    imageAlt: 'Galleggiamento nelle acque del Mar Morto al tramonto, Giordania',
+    imageAlt: 'Il sole che tramonta sul Mar Morto visto dalla riva giordana, con gli ombrelloni sulla spiaggia',
+    immagine: '/images/giordania/bagno-mar-morto.jpg',
   },
   {
     slug: 'salita-monastero-petra',
@@ -65,7 +67,8 @@ export const esperienzeGiordania: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['giordania-360'],
-    imageAlt: 'Il Monastero (Ad-Deir) scolpito nella roccia in cima alla salita di Petra, Giordania',
+    imageAlt: 'La facciata del Monastero (Ad-Deir) scavata nell\'arenaria in cima alla salita, Petra',
+    immagine: '/images/giordania/salita-monastero-petra.jpg',
   },
   {
     slug: 'hammam-wadi-musa',
@@ -86,7 +89,8 @@ export const esperienzeGiordania: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: [],
     tripSlugs: ['giordania-360'],
-    imageAlt: 'Interni di un hammam tradizionale a Wadi Musa, Giordania',
+    imageAlt: 'Un cartello di stop bilingue a Wadi Musa, con le bandiere giordane e le case del paese sulla collina',
+    immagine: '/images/giordania/hammam-wadi-musa.jpg',
   },
   {
     slug: 'jeep-safari-wadi-rum',
@@ -107,7 +111,8 @@ export const esperienzeGiordania: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['giordania-360'],
-    imageAlt: 'Jeep 4x4 tra le dune rosse di Wadi Rum, Giordania',
+    imageAlt: 'Un pick-up 4x4 con i turisti sul cassone che attraversa la sabbia rossa di Wadi Rum',
+    immagine: '/images/giordania/jeep-safari-wadi-rum.jpg',
   },
   {
     slug: 'capodanno-deserto',
@@ -128,7 +133,8 @@ export const esperienzeGiordania: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['giordania-360'],
-    imageAlt: 'Cielo stellato sopra il campo tendato nel deserto di Wadi Rum, Giordania',
+    imageAlt: 'La sabbia rossa e le montagne di arenaria dell\'area protetta di Wadi Rum',
+    immagine: '/images/giordania/capodanno-deserto.jpg',
   },
   {
     slug: 'diving-aqaba',
@@ -149,6 +155,7 @@ export const esperienzeGiordania: Esperienza[] = [
     giudizio: 'bella-non-essenziale',
     alternative: ['Snorkeling sulle barriere coralline, più semplice e ugualmente scenografico'],
     tripSlugs: ['giordania-360'],
-    imageAlt: 'Barriera corallina del Mar Rosso vista durante un\'immersione ad Aqaba, Giordania',
+    imageAlt: 'Un pesce pagliaccio del Mar Rosso tra anemoni e coralli molli nel golfo di Aqaba',
+    immagine: '/images/giordania/diving-aqaba.jpg',
   },
 ]

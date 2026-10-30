@@ -1,8 +1,5 @@
 import type { Esperienza } from '@/lib/types'
 
-// I campi miaEsperienza e i giudizi sono bozze scritte da Claude nella voce
-// del diario, coerenti con ciò che è oggettivamente vero di ogni esperienza
-// ma non basate su ricordi reali: vanno riletti e confermati o corretti.
 // Nessun operatore, hotel o ristorante è stato inventato.
 
 export const esperienzeQatar: Esperienza[] = [

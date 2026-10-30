@@ -3,16 +3,18 @@ import { Container } from '@/components/ui/Container'
 import { MeravigliaCard } from '@/components/MeravigliaCard'
 import { Reveal, RevealGroup, RevealItem } from '@/components/Reveal'
 import { CinematicHero } from '@/components/signature/CinematicHero'
-import { Manifesto } from '@/components/signature/Manifesto'
+import { VoltoDelProgetto } from '@/components/signature/VoltoDelProgetto'
 import { GeographyIndex } from '@/components/signature/GeographyIndex'
 import { FeaturedJourney } from '@/components/signature/FeaturedJourney'
 import { VisualArchive } from '@/components/signature/VisualArchive'
 import { getAllViaggi, type Viaggio } from '@/lib/viaggi'
 import { getAllMeraviglie } from '@/lib/meraviglie'
-import { getAllPaesi, getAllDestinazioni, getAllEsperienze, getDestinazioniByPaese, getTripMeta } from '@/lib/geo'
+import { getAllPaesi, getDestinazioniByPaese, getTripMeta } from '@/lib/geo'
 import { raggruppaPerContinente } from '@/lib/utils'
 import { siteConfig } from '@/lib/site-config'
 import { copertineViaggi } from '@/content/viaggi-copertine'
+import { JsonLd } from '@/components/JsonLd'
+import { autoreJsonLd } from '@/lib/structured-data'
 import Link from 'next/link'
 import { ArrowRight } from 'lucide-react'
 
@@ -36,7 +38,7 @@ const ROTTA_DECORATIVA = [
 
 // Selezione editoriale per l'archivio visivo della Home: 8 viaggi scelti a
 // mano (non i 47 al completo, che restano su /viaggi) per varietà geografica
-// e narrativa. Bansko resta il "viaggio in evidenza" (vedi `primo` sotto) e
+// e narrativa. Il "viaggio in evidenza" ruota tra questi (vedi `viaggioDelGiorno`)
 // non è duplicato qui. Aggiornare questa lista è una decisione editoriale,
 // non un criterio automatico (durata, data, ecc.).
 const VIAGGI_HOME_SLUGS = [
@@ -50,6 +52,19 @@ const VIAGGI_HOME_SLUGS = [
   'sicilia-itinerario', // Sicilia orientale
 ]
 
+// La Home si rigenera una volta al giorno: il viaggio in evidenza cambia ogni giorno.
+export const revalidate = 86400
+
+/** Il viaggio in evidenza ruota tra le scelte della Home, uno al giorno, in ordine. */
+function viaggioDelGiorno(viaggi: Viaggio[]): Viaggio | undefined {
+  const candidati = VIAGGI_HOME_SLUGS.map((slug) => viaggi.find((v) => v.slug === slug)).filter(
+    (v): v is Viaggio => v !== undefined && (getTripMeta(v.slug)?.tappeMappa.length ?? 0) > 1
+  )
+  if (candidati.length === 0) return viaggi[0]
+  const giorno = Math.floor(Date.now() / 86_400_000)
+  return candidati[giorno % candidati.length]
+}
+
 /* Signature Editorial · macrostructure: Field Archive
  * Sostituisce l'homepage fotografica singola (Hallmark, 08 Photographic) con
  * una sequenza a più registri: apertura tipografica su campo scuro, manifesto
@@ -59,36 +74,25 @@ const VIAGGI_HOME_SLUGS = [
  * "VIAGGI 360 — SIGNATURE EDITORIAL" per il razionale sezione per sezione. */
 export default function HomePage() {
   const viaggi = getAllViaggi()
-  const pronto = viaggi.find((v) => !v.inLavorazione)
-  const primo = pronto ?? viaggi[0]
+  const primo = viaggioDelGiorno(viaggi)
   const selezioneHome = VIAGGI_HOME_SLUGS.map((slug) => viaggi.find((v) => v.slug === slug)).filter(
     (v): v is Viaggio => v !== undefined && v.slug !== primo?.slug
   )
   const meraviglie = getAllMeraviglie()
   const paesi = getAllPaesi()
-  const destinazioni = getAllDestinazioni()
-  const esperienze = getAllEsperienze()
   const gruppiPaesi = raggruppaPerContinente(paesi, (p) => p.continente)
   const primoMeta = primo ? getTripMeta(primo.slug) : undefined
 
   return (
     <>
+      <JsonLd data={autoreJsonLd()} />
       <CinematicHero
         tagline={siteConfig.tagline}
         subtext="Diario di viaggio con itinerari giorno per giorno, verificati e riverificati, non copiati da altre guide."
         routeTappe={ROTTA_DECORATIVA}
       />
 
-      <Manifesto
-        paragrafoPrincipale={siteConfig.description}
-        paragrafoSecondario="Non è una guida copiata da altre guide: ogni itinerario è stato percorso davvero, e quello che trovi qui — prezzi pagati, errori fatti, tappe che non valevano la sosta — è scritto perché serva a chi quel viaggio lo deve ancora organizzare."
-        statistiche={[
-          { valore: viaggi.length, etichetta: 'itinerari raccontati' },
-          { valore: paesi.length, etichetta: 'Paesi in archivio' },
-          { valore: destinazioni.length, etichetta: 'destinazioni' },
-          { valore: esperienze.length, etichetta: 'esperienze provate' },
-        ]}
-      />
+      <VoltoDelProgetto />
 
       <GeographyIndex
         gruppi={gruppiPaesi}
@@ -101,11 +105,12 @@ export default function HomePage() {
           href={`/viaggi/${primo.slug}`}
           tappe={primoMeta.tappeMappa}
           paeseSlug={primoMeta.paeseSlug}
+          copertina={copertineViaggi[primo.slug]}
           battute={[
             {
               eyebrow: 'Apertura',
               contenuto: (
-                <p className="font-display text-2xl italic leading-relaxed text-alpine sm:text-3xl">
+                <p className="font-display text-xl italic leading-relaxed text-alpine sm:text-2xl lg:text-3xl">
                   {primo.apertura ?? primo.descrizione}
                 </p>
               ),

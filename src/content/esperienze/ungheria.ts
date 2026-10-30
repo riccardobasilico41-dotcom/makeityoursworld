@@ -49,7 +49,8 @@ export const esperienzeUngheria: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Le Terme di Széchenyi, più grandi e con vasche esterne aperte tutto l\'anno — vedi la scheda dedicata'],
     tripSlugs: ['budapest-weekend'],
-    imageAlt: 'L\'interno Art Nouveau delle Terme di Gellért, con colonne, mosaici e vetrate colorate sopra la vasca termale',
+    imageAlt: 'La facciata Art Nouveau dell\'edificio delle Terme di Gellért a Budapest, con le cupole verdi e l\'ingresso monumentale',
+    immagine: '/images/ungheria/terme-gellert.jpg',
   },
   {
     slug: 'crociera-danubio',
@@ -71,7 +72,8 @@ export const esperienzeUngheria: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['La stessa vista, gratuita, camminando o attraversando a piedi il Ponte delle Catene al tramonto'],
     tripSlugs: ['budapest-weekend'],
-    imageAlt: 'Il Parlamento ungherese illuminato visto da un battello sul Danubio al tramonto',
+    imageAlt: 'Il Parlamento ungherese illuminato di notte, con le luci dorate riflesse nell\'acqua del Danubio',
+    immagine: '/images/ungheria/crociera-danubio.jpg',
   },
   {
     slug: 'ruin-bar-tour',
@@ -93,6 +95,7 @@ export const esperienzeUngheria: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Un giro guidato con operatore certificato, per chi preferisce non doversi orientare da solo tra decine di locali senza insegna'],
     tripSlugs: ['budapest-weekend'],
-    imageAlt: 'Il cortile pieno di luci e mobili di recupero di un ruin bar nel quartiere ebraico di Budapest',
+    imageAlt: 'Il cortile dello Szimpla Kert a Budapest di sera, con luci colorate, piante rampicanti e arredi di recupero',
+    immagine: '/images/ungheria/ruin-bar-tour.jpg',
   },
 ]

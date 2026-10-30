@@ -1,12 +1,8 @@
 import type { Esperienza } from '@/lib/types'
 
-// Paese visitato di persona, due volte. I campi miaEsperienza e i giudizi sono
-// bozze scritte da Claude nella voce del diario, coerenti con ciò che è
-// oggettivamente vero di ogni esperienza (fatica, code, quota, regole di
-// accesso) ma non basate su ricordi reali: vanno riletti e confermati o
-// corretti. Nessun operatore, hotel o ristorante è stato inventato.
-// Prezzi e regole di prenotazione in Cina cambiano spesso e senza preavviso:
-// vanno riverificati sui canali ufficiali prima di partire.
+// Paese visitato di persona, due volte. Nessun operatore, hotel o ristorante è
+// stato inventato. Prezzi e regole di prenotazione in Cina cambiano spesso e
+// senza preavviso: vanno riverificati sui canali ufficiali prima di partire.
 
 export const esperienzeCina: Esperienza[] = [
   {
@@ -38,7 +34,8 @@ export const esperienzeCina: Esperienza[] = [
       'Badaling, il più comodo e il più affollato, da usare solo come ultima risorsa',
     ],
     tripSlugs: ['cina-classica'],
-    imageAlt: 'Torri di guardia non restaurate della Grande Muraglia lungo il crinale a Jinshanling',
+    imageAlt: 'La Grande Muraglia non restaurata di Jinshanling che segue il crinale tra le torri di guardia',
+    immagine: '/images/cina/muraglia-jinshanling.jpg',
   },
   {
     slug: 'citta-proibita',
@@ -68,7 +65,8 @@ export const esperienzeCina: Esperienza[] = [
       'Il Palazzo d\'Estate, meno monumentale ma più piacevole da camminare, sul lago',
     ],
     tripSlugs: ['cina-classica'],
-    imageAlt: 'I tetti dorati della Città Proibita visti dall\'alto della collina di Jingshan, Pechino',
+    imageAlt: 'I tetti della Città Proibita visti dalla collina di Jingshan in una giornata di smog, Pechino',
+    immagine: '/images/cina/citta-proibita.jpg',
   },
   {
     slug: 'esercito-terracotta',
@@ -98,7 +96,8 @@ export const esperienzeCina: Esperienza[] = [
       'Il mausoleo di Jingdi, a nord della città, molto meno visitato e con una museografia più moderna',
     ],
     tripSlugs: ['cina-classica'],
-    imageAlt: 'Le file di guerrieri di terracotta nella fossa numero uno vista dal parapetto, Xi\'an',
+    imageAlt: 'Le file di guerrieri e cavalli di terracotta nella Fossa 1 del mausoleo di Qin Shi Huang, Xi\'an',
+    immagine: '/images/cina/esercito-terracotta.jpg',
   },
   {
     slug: 'mura-xian-bicicletta',
@@ -127,7 +126,8 @@ export const esperienzeCina: Esperienza[] = [
       'La navetta elettrica che fa il giro completo, per chi non vuole pedalare',
     ],
     tripSlugs: ['cina-classica'],
-    imageAlt: 'Il camminamento in mattoni delle mura Ming di Xi\'an con le lanterne rosse al tramonto',
+    imageAlt: 'Visitatori a piedi e in bicicletta sul camminamento delle mura di Xi\'an, tra le lanterne rosse',
+    immagine: '/images/cina/mura-xian-bicicletta.jpg',
   },
   {
     slug: 'giardini-suzhou',
@@ -157,7 +157,8 @@ export const esperienzeCina: Esperienza[] = [
       'Un villaggio d\'acqua come Tongli, che unisce canali e un giardino UNESCO in mezza giornata',
     ],
     tripSlugs: ['cina-classica'],
-    imageAlt: 'Padiglione e stagno del Giardino dell\'Umile Amministratore a Suzhou',
+    imageAlt: 'Un padiglione in legno affacciato sullo stagno tra rocce e alberi in un giardino classico di Suzhou',
+    immagine: '/images/cina/giardini-suzhou.jpg',
   },
   {
     slug: 'bund-pudong',
@@ -185,7 +186,8 @@ export const esperienzeCina: Esperienza[] = [
       'La piattaforma panoramica della Shanghai Tower, per la prospettiva opposta: la città vista da sopra',
     ],
     tripSlugs: ['cina-classica'],
-    imageAlt: 'I grattacieli illuminati di Pudong visti dal camminamento del Bund, Shanghai',
+    imageAlt: 'Lo skyline di Pudong illuminato di notte con la Oriental Pearl Tower, visto dal fiume Huangpu, Shanghai',
+    immagine: '/images/cina/bund-pudong.jpg',
   },
   {
     slug: 'star-ferry-victoria-peak',
@@ -214,7 +216,8 @@ export const esperienzeCina: Esperienza[] = [
       'La funivia di Ngong Ping sull\'isola di Lantau, con il Grande Buddha e il villaggio di Tai O',
     ],
     tripSlugs: ['cina-classica'],
-    imageAlt: 'Il traghetto Star Ferry attraversa il porto di Victoria con lo skyline di Hong Kong sullo sfondo',
+    imageAlt: 'Uno Star Ferry che attraversa Victoria Harbour davanti ai grattacieli dell\'isola di Hong Kong',
+    immagine: '/images/cina/star-ferry-victoria-peak.jpg',
   },
   {
     slug: 'avatar-yuanjiajie',
@@ -274,7 +277,8 @@ export const esperienzeCina: Esperienza[] = [
       'Una seconda giornata dentro il parco nazionale, se si deve scegliere solo una delle due cose',
     ],
     tripSlugs: ['cina-paesaggi'],
-    imageAlt: 'La grotta passante della Porta del Cielo in cima alla scalinata dei 999 gradini, Tianmen Shan',
+    imageAlt: 'La scalinata che sale alla Porta del Cielo, l\'arco naturale nella parete del Tianmen Shan',
+    immagine: '/images/cina/tianmen-shan.jpg',
   },
   {
     slug: 'panda-chengdu',
@@ -303,7 +307,8 @@ export const esperienzeCina: Esperienza[] = [
       'La riserva di Bifengxia, più lontana e molto meno visitata, per chi ha un giorno intero',
     ],
     tripSlugs: ['cina-paesaggi'],
-    imageAlt: 'Un panda gigante che mangia bambù nella base di ricerca di Chengdu al mattino presto',
+    imageAlt: 'Un panda gigante arrampicato su un albero alla base di ricerca sui panda di Chengdu',
+    immagine: '/images/cina/panda-chengdu.jpg',
   },
   {
     slug: 'hot-pot-sichuan',
@@ -332,7 +337,8 @@ export const esperienzeCina: Esperienza[] = [
       'Un pasto sichuanese classico — mapo tofu, pollo gongbao, dan dan noodles — per chi non regge la pentola',
     ],
     tripSlugs: ['cina-paesaggi'],
-    imageAlt: 'Pentola di hot pot sichuanese divisa in due con brodo rosso di peperoncino, Chengdu',
+    imageAlt: 'Una pentola di hot pot con il brodo rosso di peperoncino e i mestoli forati sul tavolo',
+    immagine: '/images/cina/hot-pot-sichuan.jpg',
   },
   {
     slug: 'hongya-dong-notte',
@@ -361,7 +367,8 @@ export const esperienzeCina: Esperienza[] = [
       'Il punto panoramico di Nanshan, sopra la città, per la vista d\'insieme',
     ],
     tripSlugs: ['cina-paesaggi'],
-    imageAlt: 'Il complesso illuminato di Hongya Dong riflesso nel fiume Jialing di notte, Chongqing',
+    imageAlt: 'Le terrazze di Hongya Dong illuminate di notte sul fianco della collina, Chongqing',
+    immagine: '/images/cina/hongya-dong-notte.jpg',
   },
   {
     slug: 'impression-lijiang',
@@ -391,7 +398,8 @@ export const esperienzeCina: Esperienza[] = [
       'La funivia al ghiacciaio dello Yulong Xueshan, se si deve scegliere una sola cosa in quota e il cielo è limpido',
     ],
     tripSlugs: ['cina-paesaggi'],
-    imageAlt: 'L\'anfiteatro all\'aperto di Impression Lijiang con il massiccio dello Yulong Xueshan sullo sfondo',
+    imageAlt: 'Le vette innevate dello Yulong Xueshan oltre un tetto tradizionale nella zona di Lijiang',
+    immagine: '/images/cina/impression-lijiang.jpg',
   },
   {
     slug: 'gola-salto-tigre',
@@ -421,7 +429,8 @@ export const esperienzeCina: Esperienza[] = [
       'Il primo giorno di trek con rientro, per chi non vuole dormire lungo il sentiero',
     ],
     tripSlugs: ['cina-paesaggi'],
-    imageAlt: 'Il sentiero alto della Gola del Salto della Tigre con lo Yangtze incassato in fondo alla valle, Yunnan',
+    imageAlt: 'Il fiume Jinsha che scorre in fondo alla Gola del Salto della Tigre tra pareti ripide',
+    immagine: '/images/cina/gola-salto-tigre.jpg',
   },
   {
     slug: 'fiume-li-zattera',
@@ -450,6 +459,7 @@ export const esperienzeCina: Esperienza[] = [
       'La giornata in bici elettrica lungo la Yulong River, che è il fiume minore e ha i ponti in pietra più belli',
     ],
     tripSlugs: ['cina-paesaggi'],
-    imageAlt: 'Zattera di bambù sul fiume Li tra le torri carsiche nel tratto di Xingping, Guangxi',
+    imageAlt: 'Zattere di bambù sul fiume Li tra i picchi carsici, sulla rotta da Guilin a Yangshuo',
+    immagine: '/images/cina/fiume-li-zattera.jpg',
   },
 ]

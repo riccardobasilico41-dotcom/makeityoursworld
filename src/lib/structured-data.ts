@@ -10,6 +10,23 @@ function url(percorso: string): string {
   return `${siteConfig.url}${percorso}`
 }
 
+/** Chi scrive il sito: stessa persona della sezione «The face behind the project» in Home. */
+export const AUTORE = {
+  '@type': 'Person',
+  '@id': `${siteConfig.url}/#riccardo-basilico`,
+  name: 'Riccardo Basilico',
+  alternateName: 'Rick',
+  jobTitle: 'Osteopata',
+  image: `${siteConfig.url}/images/chi-sono/riccardo-basilico-taj-mahal.jpg`,
+  url: `${siteConfig.url}/#chi-sono`,
+  knowsAbout: ['Viaggi', 'Itinerari di viaggio', 'Trekking', 'Osteopatia'],
+}
+
+/** Autore, per la Home (il WebSite è già nel layout): dice a Google e ai motori AI chi c'è dietro il diario. */
+export function autoreJsonLd() {
+  return { '@context': 'https://schema.org', ...AUTORE }
+}
+
 export type VoceBreadcrumb = { nome: string; percorso: string }
 
 /** Traccia il percorso di navigazione: aiuta Google a mostrare le briciole nei risultati. */
@@ -46,6 +63,8 @@ export function articoloViaggioJsonLd({
     url: url(percorso),
     image: url(`${percorso}/opengraph-image`),
     inLanguage: 'it-IT',
+    author: AUTORE,
+    publisher: AUTORE,
     isPartOf: {
       '@type': 'Blog',
       name: siteConfig.brandName,
@@ -84,5 +103,28 @@ export function raccoltaJsonLd({
         url: url(elemento.percorso),
       })),
     },
+  }
+}
+
+export type DomandaRisposta = { domanda: string; risposta?: string }
+
+/**
+ * Domande frequenti costruite sulle informazioni pratiche già visibili nella
+ * pagina (costo, durata, periodo…): per i motori di risposta AI e per Google.
+ * Le voci senza risposta si saltano; sotto due domande non si emette nulla.
+ */
+export function faqJsonLd(voci: DomandaRisposta[]) {
+  const piene = voci
+    .filter((v): v is Required<DomandaRisposta> => Boolean(v.risposta?.trim()))
+    .map((v) => ({ ...v, risposta: v.risposta.replace(/\*\*|__|\[([^\]]+)\]\([^)]*\)/g, '$1').trim() }))
+  if (piene.length < 2) return null
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: piene.map((v) => ({
+      '@type': 'Question',
+      name: v.domanda,
+      acceptedAnswer: { '@type': 'Answer', text: v.risposta },
+    })),
   }
 }

@@ -66,7 +66,7 @@ Il rischio concreto non è la criminalità ma l'insistenza commerciale, che a Gi
 ## Itinerario giorno per giorno
 
 ### Giorno 1 — Arrivo al Cairo
-Il primo giorno serve solo ad arrivare. Si atterra al Cairo, si compra il visto allo sportello delle banche prima dei controlli se non si ha già l'e-visa, e si cerca un Uber o il transfer dell'hotel. Per un itinerario così corto conviene dormire a **Giza**, a dieci minuti dalle piramidi e dal Grand Egyptian Museum: si risparmiano due tragitti nel traffico, che al Cairo è la variabile che decide le giornate.
+Il primo giorno è servito solo ad arrivare. Siamo atterrati al Cairo: chi non ha già l'e-visa compra il visto allo sportello delle banche prima dei controlli, poi si cerca un Uber o il transfer dell'hotel. Per un itinerario così corto conviene dormire a **Giza**, a dieci minuti dalle piramidi e dal Grand Egyptian Museum: si risparmiano due tragitti nel traffico, che al Cairo è la variabile che decide le giornate.
 
 Se l'arrivo è nel pomeriggio, molti hotel di Giza hanno una terrazza con vista sull'altopiano, e la sera c'è lo spettacolo di suoni e luci alla Sfinge. Non serve altro: domani la sveglia è presto.
 
@@ -76,9 +76,9 @@ Se l'arrivo è nel pomeriggio, molti hotel di Giza hanno una terrazza con vista 
 - Prima SIM o eSIM: banchi Vodafone e Orange negli arrivi
 
 ### Giorno 2 — Le piramidi di Giza e il Grand Egyptian Museum
-L'altopiano apre alle 7, ed è l'ora giusta: la luce è bassa, i pullman arrivano dopo le 9 e l'aria è ancora fresca. Conviene entrare dall'ingresso principale e prendere il **bus elettrico interno** che collega le piramidi, il punto panoramico e la Sfinge, così si evitano gli intermediari di cammelli e cavalli. Chi vuole entrare nella **Grande Piramide** compra il biglietto a parte: il corridoio stretto e la Grande Galleria sono l'esperienza, le camere sono spoglie.
+L'altopiano apre alle 7, ed è l'ora giusta: la luce è bassa, i pullman arrivano dopo le 9 e l'aria è ancora fresca. Siamo entrati dall'ingresso principale e abbiamo preso il **bus elettrico interno** che collega le piramidi, il punto panoramico e la Sfinge, così si evitano gli intermediari di cammelli e cavalli. Chi vuole entrare nella **Grande Piramide** compra il biglietto a parte: il corridoio stretto e la Grande Galleria sono l'esperienza, le camere sono spoglie.
 
-Dopo pranzo si passa al **Grand Egyptian Museum**, a due chilometri. Il museo è enorme: la scalinata monumentale con le statue dei faraoni porta alle gallerie principali, e le sale di **Tutankhamon** espongono per la prima volta tutto il corredo della tomba insieme. Servono almeno tre o quattro ore. La fascia oraria va prenotata online prima di partire.
+Dopo pranzo siamo passati al **Grand Egyptian Museum**, a due chilometri. Il museo è enorme: la scalinata monumentale con le statue dei faraoni porta alle gallerie principali, e le sale di **Tutankhamon** espongono per la prima volta tutto il corredo della tomba insieme. Servono almeno tre o quattro ore. La fascia oraria va prenotata online prima di partire.
 
 **In pratica**
 - Altopiano di Giza 700 EGP, interno di Cheope circa 1.500 EGP
@@ -88,7 +88,7 @@ Dopo pranzo si passa al **Grand Egyptian Museum**, a due chilometri. Il museo è
 ### Giorno 3 — Saqqara, Dahshur e la sera al Khan el-Khalili
 È la giornata che molti saltano e che spiega meglio le piramidi. A **Saqqara** c'è la piramide a gradoni di **Djoser**, la prima costruita in pietra, e intorno le mastabe dei funzionari con rilievi di vita quotidiana ancora nitidissimi. A **Dahshur**, mezz'ora più a sud, la **piramide Romboidale** mostra l'errore di calcolo sull'inclinazione e la **piramide Rossa** è la prima piramide «vera»: ci si scende dentro con pochissima gente intorno.
 
-Serve un'auto con autista per la giornata, da prenotare tramite l'hotel. Tornati in città, la sera è per il **Khan el-Khalili**, il bazar del Cairo medievale, con un tè al caffè El Fishawy e il koshari per cena.
+Serve un'auto con autista per la giornata, da prenotare tramite l'hotel. Tornati in città, la sera siamo andati al **Khan el-Khalili**, il bazar del Cairo medievale, con un tè al caffè El Fishawy e il koshari per cena.
 
 **In pratica**
 - Autista per Saqqara e Dahshur: indicativamente 30-50 $ per l'auto
@@ -96,9 +96,9 @@ Serve un'auto con autista per la giornata, da prenotare tramite l'hotel. Tornati
 - Khan el-Khalili: si tratta sempre, partendo da un terzo del prezzo chiesto
 
 ### Giorno 4 — Il Cairo islamico e copto, volo per Luxor
-Mattina dedicata a un altro Cairo. La **Cittadella** di Saladino con la moschea di Muhammad Ali dà la vista più ampia sulla città; sotto, la **moschea del sultano Hassan** e la via **al-Muizz** sono il cuore del Cairo mamelucco. Chi preferisce il Cairo copto va a Mar Girgis in metropolitana, per la Chiesa Sospesa e la sinagoga Ben Ezra. Le donne tengono un foulard in borsa per le moschee, e tutti spalle e ginocchia coperte.
+La mattina l'abbiamo dedicata a un altro Cairo. La **Cittadella** di Saladino con la moschea di Muhammad Ali dà la vista più ampia sulla città; sotto, la **moschea del sultano Hassan** e la via **al-Muizz** sono il cuore del Cairo mamelucco. Chi preferisce il Cairo copto va a Mar Girgis in metropolitana, per la Chiesa Sospesa e la sinagoga Ben Ezra. Le donne tengono un foulard in borsa per le moschee, e tutti spalle e ginocchia coperte.
 
-Nel pomeriggio volo per **Luxor**, un'ora. Si atterra in tempo per il tempio di Luxor al tramonto, a pochi minuti a piedi dagli hotel della riva est, quando si accende l'illuminazione.
+Nel pomeriggio abbiamo preso il volo per **Luxor**, un'ora. Siamo atterrati in tempo per il tempio di Luxor al tramonto, a pochi minuti a piedi dagli hotel della riva est, quando si accende l'illuminazione.
 
 **In pratica**
 - Cittadella 550 EGP
@@ -106,9 +106,9 @@ Nel pomeriggio volo per **Luxor**, un'ora. Si atterra in tempo per il tempio di 
 - Tempio di Luxor 500 EGP, aperto fino a sera
 
 ### Giorno 5 — Luxor, riva ovest: Valle dei Re e tempio di Hatshepsut
-La riva ovest si fa all'alba, per il caldo e per la folla. Si comincia dalla **Valle dei Re**: il biglietto base include tre tombe a scelta tra quelle aperte quel giorno, la tomba di **Tutankhamon** è piccola ma si paga a parte, quella di **Seti I** è la più grande e decorata e costa molto di più. Una guida locale abilitata aiuta a scegliere le tombe aperte e meno affollate.
+La riva ovest si fa all'alba, per il caldo e per la folla. Abbiamo cominciato dalla **Valle dei Re**: il biglietto base include tre tombe a scelta tra quelle aperte quel giorno, la tomba di **Tutankhamon** è piccola ma si paga a parte, quella di **Seti I** è la più grande e decorata e costa molto di più. Una guida locale abilitata aiuta a scegliere le tombe aperte e meno affollate.
 
-Poi il **tempio di Hatshepsut** a Deir el-Bahari, sulle terrazze ai piedi della montagna, e i **Colossi di Memnone** sulla via del ritorno. Chi ha ancora energia aggiunge **Medinet Habu**, il tempio di Ramses III con i colori meglio conservati e pochi visitatori. Il pomeriggio è per riposare: si riprende il traghetto pubblico per la riva est all'ora del tramonto.
+Poi siamo passati al **tempio di Hatshepsut** a Deir el-Bahari, sulle terrazze ai piedi della montagna, e ai **Colossi di Memnone** sulla via del ritorno. Chi ha ancora energia aggiunge **Medinet Habu**, il tempio di Ramses III con i colori meglio conservati e pochi visitatori. Il pomeriggio è per riposare; all'ora del tramonto abbiamo ripreso il traghetto pubblico per la riva est.
 
 **In pratica**
 - Auto con autista per la riva ovest: 25-40 $
@@ -116,9 +116,9 @@ Poi il **tempio di Hatshepsut** a Deir el-Bahari, sulle terrazze ai piedi della 
 - Hatshepsut 440 EGP, Medinet Habu 220 EGP
 
 ### Giorno 6 — Mongolfiera all'alba, Karnak e il tempio di Luxor
-La sveglia è alle 4 per la **mongolfiera**: il volo parte dalla riva ovest al sorgere del sole e dura 40-60 minuti sopra templi, campi di canna da zucchero e villaggi. Si prenota con una compagnia seria e non sul prezzo più basso; con vento forte i voli vengono annullati e rimborsati.
+Ci siamo svegliati alle 4 per la **mongolfiera**: il volo parte dalla riva ovest al sorgere del sole e dura 40-60 minuti sopra templi, campi di canna da zucchero e villaggi. Si prenota con una compagnia seria e non sul prezzo più basso; con vento forte i voli vengono annullati e rimborsati.
 
-Rientrati in hotel, si va a **Karnak**, il complesso religioso più grande dell'antichità, con la sala ipostila di 134 colonne. Servono due o tre ore e la mattina presto è meglio. Il pomeriggio è libero: un giro in **feluca** sul Nilo, oppure il **museo di Luxor**, piccolo e ben allestito.
+Rientrati in hotel, siamo andati a **Karnak**, il complesso religioso più grande dell'antichità, con la sala ipostila di 134 colonne. Servono due o tre ore e la mattina presto è meglio. Il pomeriggio è libero: un giro in **feluca** sul Nilo, oppure il **museo di Luxor**, piccolo e ben allestito.
 
 **In pratica**
 - Mongolfiera: indicativamente 50-100 $ a persona, transfer compreso
@@ -126,9 +126,9 @@ Rientrati in hotel, si va a **Karnak**, il complesso religioso più grande dell'
 - Feluca al tramonto: prezzo a barca, da concordare prima
 
 ### Giorno 7 — Da Luxor al Mar Rosso
-Partenza in mattinata con l'autista. La strada per **Marsa Alam** passa per **Edfu**, dove c'è il tempio di Horus meglio conservato d'Egitto: una sosta di un'ora che spezza bene le quattro ore e mezza di viaggio. Poi la strada attraversa il deserto orientale e arriva al mare nel primo pomeriggio. Chi ha scelto **Hurghada** va per la strada di Qena, quattro ore circa senza soste di rilievo.
+Siamo partiti in mattinata con l'autista. La strada per **Marsa Alam** passa per **Edfu**, dove c'è il tempio di Horus meglio conservato d'Egitto: una sosta di un'ora che spezza bene le quattro ore e mezza di viaggio. Poi la strada attraversa il deserto orientale e arriva al mare nel primo pomeriggio. Chi ha scelto **Hurghada** va per la strada di Qena, quattro ore circa senza soste di rilievo.
 
-Il resto della giornata è in spiaggia. Dopo sei giorni di siti e sveglie presto, il primo bagno sul reef è il cambio di ritmo che questo itinerario cerca.
+Il resto della giornata l'abbiamo passato in spiaggia. Dopo sei giorni di siti e sveglie presto, il primo bagno sul reef è il cambio di ritmo che questo itinerario cerca.
 
 **In pratica**
 - Auto privata Luxor-Marsa Alam: indicativamente 100-150 $ a veicolo
@@ -214,7 +214,7 @@ Ordine di grandezza: **1.100-1.700 € a persona** in due, voli esclusi; i pacch
 - **Lasciare a casa il drone:** senza permesso viene sequestrato all'arrivo.
 
 ## Chiusura personale
-Il senso di questo giro sta nel passaggio tra le piramidi e il reef: un viaggio in cui la parte più faticosa arriva per prima e quella più rilassante per ultima. In undici giorni si vedono i tre luoghi più famosi del Paese senza correre, si resta abbastanza al mare per goderselo e si torna a casa con un volo diretto. Chi si accorge di volere di più, Assuan, Abu Simbel, il Nilo in crociera e le immersioni lontane dalla costa, ha già una base per il secondo viaggio.
+Il senso di questo giro sta nel passaggio tra le piramidi e il reef: un viaggio in cui la parte più faticosa arriva per prima e quella più rilassante per ultima. In undici giorni si vedono i tre luoghi più famosi del Paese senza correre, si resta abbastanza al mare per goderselo e si torna a casa con un volo diretto. Chi si accorge di volere di più (Assuan, Abu Simbel, il Nilo in crociera e le immersioni lontane dalla costa) ha già una base per il secondo viaggio.
 
 ## Nota su questa bozza
 Guida costruita su ricerca documentale: scheda Viaggiare Sicuri, portale ufficiale dei siti archeologici egiziani, comunicati del Grand Egyptian Museum sui prezzi dal 1° novembre 2026, siti di vettori e guide recenti. **Non contiene esperienze dirette.** I prezzi dei biglietti in Egitto sono cambiati più volte dal 2024: tutte le cifre sono indicative e vanno ricontrollate prima della partenza, così come gli orari dei voli interni e le stagioni dei charter sul Mar Rosso.

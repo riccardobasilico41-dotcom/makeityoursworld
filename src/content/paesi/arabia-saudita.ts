@@ -2,15 +2,11 @@ import type { Paese } from '@/lib/types'
 
 // A differenza di Emirati e Qatar, trattati soprattutto come stopover,
 // l\'Arabia Saudita ha un itinerario completo: è un paese che si apre al
-// turismo dal 2019 e che richiede giorni, non ore.
-// I campi miaEsperienza sono bozze scritte da Claude nella voce del diario,
-// basate su ciò che è oggettivamente vero di ogni posto e non su ricordi
-// reali: vanno riletti e sostituiti. Nessun nome di hotel, ristorante o
-// operatore è stato inventato.
-// Le regole di ingresso e di comportamento in Arabia Saudita sono cambiate
-// molto e in fretta negli ultimi anni: vanno riverificate sui canali
-// ufficiali prima di partire, comprese quelle sull\'abbigliamento e sulle
-// aree vietate ai non musulmani.
+// turismo dal 2019 e che richiede giorni, non ore. Nessun nome di hotel,
+// ristorante o operatore è stato inventato. Le regole di ingresso e di
+// comportamento in Arabia Saudita sono cambiate molto e in fretta negli ultimi
+// anni: vanno riverificate sui canali ufficiali prima di partire, comprese
+// quelle sull\'abbigliamento e sulle aree vietate ai non musulmani.
 
 export const arabiaSaudita: Paese = {
   slug: 'arabia-saudita',
@@ -53,6 +49,7 @@ export const arabiaSaudita: Paese = {
     emergenze: 'Polizia 999, ambulanza 997, vigili del fuoco 998; numero unico 911 attivo nelle principali città. L\'Ambasciata d\'Italia è a Riyadh, con Consolato generale a Jeddah.',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'Le tombe nabatee scavate nella roccia di Hegra ad AlUla, Arabia Saudita',
+  heroImageAlt: 'Le case storiche in pietra corallina con le finestre a graticcio in legno nel quartiere di Al-Balad, Jeddah',
+  heroImage: '/images/arabia-saudita/arabia-saudita-paese.jpg',
   tripPrincipaleSlug: 'arabia-saudita-itinerario',
 }

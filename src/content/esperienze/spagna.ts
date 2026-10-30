@@ -29,7 +29,8 @@ export const esperienzeSpagna: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Tour guidato con ingresso incluso, per chi non riesce a trovare posto sul sito ufficiale o preferisce una spiegazione storica strutturata'],
     tripSlugs: ['andalusia-itinerario'],
-    imageAlt: 'Il Patio de los Leones nei Palazzi Nazridi dell\'Alhambra, con la fontana centrale e i portici a colonne sottili',
+    imageAlt: 'La fontana dei dodici leoni al centro del Patio de los Leones nei Palazzi Nazridi dell\'Alhambra',
+    immagine: '/images/spagna/alhambra-visita.jpg',
   },
   {
     slug: 'flamenco-triana',
@@ -69,7 +70,8 @@ export const esperienzeSpagna: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Un tour gastronomico guidato tra tapas bar, per chi preferisce una selezione già fatta da un locale esperto'],
     tripSlugs: ['andalusia-itinerario'],
-    imageAlt: 'Un bancone di bar affollato a Siviglia con piattini di tapas e bicchieri di vino sul marmo',
+    imageAlt: 'Le case colorate di Calle Betis lungo il Guadalquivir, il fronte fiume del quartiere di Triana a Siviglia',
+    immagine: '/images/spagna/tapeo-siviglia.jpg',
   },
   {
     slug: 'zambra-sacromonte',
@@ -90,7 +92,8 @@ export const esperienzeSpagna: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Un tablao in centro a Granada, più comodo da raggiungere ma meno legato alla tradizione specifica del quartiere'],
     tripSlugs: ['andalusia-itinerario'],
-    imageAlt: 'L\'interno di una casa-grotta del Sacromonte allestita per uno spettacolo di flamenco, con sedie e pareti bianche di roccia',
+    imageAlt: 'La facciata bianca della Venta El Gallo, una cueva flamenca scavata nella collina del Sacromonte a Granada',
+    immagine: '/images/spagna/zambra-sacromonte.jpg',
   },
 
   // --- Nord ---
@@ -113,7 +116,8 @@ export const esperienzeSpagna: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Un tour guidato con un locale esperto, utile per chi arriva senza sapere quali bar scegliere tra le decine della Parte Vieja'],
     tripSlugs: ['spagna-nord-itinerario'],
-    imageAlt: 'Un bancone di bar nella Parte Vieja di San Sebastián coperto di pintxos su stuzzicadenti colorati',
+    imageAlt: 'Il bancone di un bar della Parte Vieja di San Sebastián coperto di piattini di pintxos, con i prosciutti appesi alle spalle',
+    immagine: '/images/spagna/pintxos-crawl-donostia.jpg',
   },
   {
     slug: 'guggenheim-bilbao',
@@ -133,7 +137,8 @@ export const esperienzeSpagna: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Passeggiata gratuita intorno all\'edificio e alle sculture esterne (il "Puppy" di Jeff Koons, il "Maman" di Louise Bourgeois), per chi vuole solo l\'esperienza architettonica'],
     tripSlugs: ['spagna-nord-itinerario'],
-    imageAlt: 'La facciata in titanio del Museo Guggenheim Bilbao che riflette la luce del tardo pomeriggio sul fiume Nervión',
+    imageAlt: 'Le curve di titanio e pietra del Museo Guggenheim Bilbao viste dall\'altra riva, con le colline verdi alle spalle',
+    immagine: '/images/spagna/guggenheim-bilbao.jpg',
   },
 
   // --- Baleari ---
@@ -156,7 +161,8 @@ export const esperienzeSpagna: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Il trenino storico Palma-Sóller, per vedere la Serra dal basso senza camminare'],
     tripSlugs: ['baleari-itinerario'],
-    imageAlt: 'Un sentiero di pietra a secco tra terrazzamenti di ulivi nella Serra de Tramuntana, Mallorca',
+    imageAlt: 'Il sentiero lastricato della GR 221 tra le rocce calcaree della Serra de Tramuntana, nella tappa da Valldemossa a Deià',
+    immagine: '/images/spagna/serra-tramuntana-trekking.jpg',
   },
   {
     slug: 'ibiza-nord-calette',
@@ -177,7 +183,8 @@ export const esperienzeSpagna: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Un tour organizzato in jeep o minivan tra le calette del nord, per chi non vuole guidare su strade secondarie'],
     tripSlugs: ['baleari-itinerario'],
-    imageAlt: 'La caletta isolata di Cala Xarraca sulla costa nord di Ibiza, con acqua turchese e scogliere basse',
+    imageAlt: 'Un cormorano su uno scoglio nell\'acqua limpida di Cala Xarraca, con le rocce della caletta sullo sfondo, nord di Ibiza',
+    immagine: '/images/spagna/ibiza-nord-calette.jpg',
   },
 
   // --- Canarie ---
@@ -201,7 +208,8 @@ export const esperienzeSpagna: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Solo funivia, senza permesso per la vetta: la stazione superiore offre già un ampio panorama sulla caldera, sufficiente per chi non vuole gestire la prenotazione del permesso'],
     tripSlugs: ['canarie-itinerario'],
-    imageAlt: 'Il cratere sommitale del Teide visto dal sentiero Telesforo Bravo, sopra un mare di nubi',
+    imageAlt: 'La vetta del Pico del Teide con le colate di lava scura e i depositi di pomice chiara sotto il cielo azzurro, Tenerife',
+    immagine: '/images/spagna/teide-vetta-permesso.jpg',
   },
   {
     slug: 'timanfaya-ruta-volcanes',
@@ -222,6 +230,7 @@ export const esperienzeSpagna: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Il sentiero guidato a piedi (su prenotazione separata e a numero più limitato) per chi vuole un\'esperienza più ravvicinata del paesaggio, sempre accompagnato da una guida del parco'],
     tripSlugs: ['canarie-itinerario'],
-    imageAlt: 'Un pullman panoramico percorre la Ruta de los Volcanes tra le colate laviche nere di Timanfaya, Lanzarote',
+    imageAlt: 'Crateri e colate di lava solidificata lungo il percorso della Ruta de los Volcanes, nel Parco di Timanfaya a Lanzarote',
+    immagine: '/images/spagna/timanfaya-ruta-volcanes.jpg',
   },
 ]

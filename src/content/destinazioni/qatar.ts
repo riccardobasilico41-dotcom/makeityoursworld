@@ -1,9 +1,8 @@
 import type { Destinazione } from '@/lib/types'
 
-// I campi miaEsperienza sono bozze scritte da Claude nella voce del diario:
-// vanno riletti e sostituiti. Nessun nome di hotel, ristorante o operatore è
-// stato inventato. Prezzi e condizioni del programma stopover di Qatar
-// Airways cambiano spesso: vanno riverificati sul portale ufficiale.
+// Nessun nome di hotel, ristorante o operatore è stato inventato. Prezzi e
+// condizioni del programma stopover di Qatar Airways cambiano spesso: vanno
+// riverificati sul portale ufficiale.
 
 export const destinazioniQatar: Destinazione[] = [
   {
@@ -101,7 +100,8 @@ export const destinazioniQatar: Destinazione[] = [
       'Doha è la città del Golfo che rende di più in rapporto al tempo che le si dedica, e il motivo è quasi banale: è piccola, la metropolitana funziona, e le due cose che vale la pena vedere sono vicine. Il Museo di Arte Islamica è la migliore: Pei lo progettò a novant\'anni dopo aver girato il mondo musulmano per capire cosa fosse l\'architettura islamica, e il risultato è un edificio di pietra calcarea su un\'isola artificiale in cui la luce entra dall\'alto attraverso una cupola nascosta. Dalla scalinata esterna, al tramonto, si guarda lo skyline di West Bay dall\'altra parte dell\'acqua ed è la cartolina della città. Il Souq Waqif è l\'altra sorpresa, perché è una ricostruzione che però funziona: ci si compra ancora tessuti, spezie e falchi da caccia, e c\'è perfino un ospedale per falchi visitabile, dove gli uccelli aspettano la visita appollaiati con il cappuccio in testa. È il posto più strano e più qatariota della città. Con il programma stopover, tutto questo costa quanto una pizza.',
     esperienzeSlugs: ['souq-waqif', 'khor-al-adaid'],
     tripSlugs: ['stopover-golfo'],
-    imageAlt: 'Il Museo di Arte Islamica di Doha con lo skyline di West Bay sullo sfondo al tramonto',
+    imageAlt: 'I grattacieli di West Bay visti dall\'acqua sotto un cielo limpido, Doha',
+    immagine: '/images/qatar/doha.jpg',
   },
   {
     slug: 'qatar-deserto-nord',

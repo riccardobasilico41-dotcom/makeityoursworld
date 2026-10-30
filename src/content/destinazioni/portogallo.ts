@@ -84,7 +84,8 @@ export const destinazioniPortogallo: Destinazione[] = [
     ],
     esperienzeSlugs: ['tram-28-alfama', 'pasteis-de-belem'],
     tripSlugs: ['lisbona-weekend'],
-    imageAlt: 'Il tram 28 giallo che sale per le stradine strette e in pendenza dell\'Alfama a Lisbona',
+    imageAlt: 'Il tram 28 giallo illuminato di sera in una strada stretta di Lisbona, con la facciata bianca di una chiesa in fondo alla via',
+    immagine: '/images/portogallo/lisbona.jpg',
   },
   {
     slug: 'sintra',
@@ -127,6 +128,7 @@ export const destinazioniPortogallo: Destinazione[] = [
     ],
     esperienzeSlugs: ['sintra-giornata-da-lisbona'],
     tripSlugs: ['lisbona-weekend'],
-    imageAlt: 'Il Palácio Nacional da Pena di Sintra, con le sue torri dai colori giallo e rosso arroccate sulla collina boscosa',
+    imageAlt: 'Il Palácio Nacional da Pena di Sintra con le torri gialle e rosse che emergono dal bosco sotto un cielo azzurro',
+    immagine: '/images/portogallo/sintra.jpg',
   },
 ]

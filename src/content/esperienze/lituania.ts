@@ -26,7 +26,8 @@ export const esperienzeLituania: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Un tour guidato a piedi con focus sulla storia artistica del quartiere, per chi vuole più contesto rispetto al giro autonomo'],
     tripSlugs: ['capitali-baltiche'],
-    imageAlt: 'Il Muro della Costituzione di Užupis a Vilnius, con targhe multilingue incise sui suoi 41 articoli',
+    imageAlt: 'La statua dell\'Angelo di Užupis che suona la tromba in cima alla colonna, tra le facciate della piazza principale di Užupis a Vilnius',
+    immagine: '/images/lituania/uzupis-repubblica-passeggiata.jpg',
   },
   {
     slug: 'trakai-castello-lago-galve',

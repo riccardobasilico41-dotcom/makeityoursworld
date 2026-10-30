@@ -12,11 +12,12 @@ export type PracticalInfoItem = {
  * Blocco informazioni pratiche riutilizzabile: se un item ha `href` diventa un
  * link (usato in "Organizza il viaggio"), altrimenti mostra solo il valore
  * (usato nelle schede destinazione/esperienza per come arrivare, periodo, costi...).
+ * Le voci senza valore non si mostrano: niente «da completare» davanti al lettore.
  */
 export function PracticalInfo({ items, className = '' }: { items: PracticalInfoItem[]; className?: string }) {
   return (
     <dl className={`grid gap-4 sm:grid-cols-2 ${className}`}>
-      {items.map((item) => (
+      {items.filter((item) => item.href || item.value).map((item) => (
         <div
           key={item.label}
           className="rounded-none border border-alpine/10 bg-white p-4"
@@ -31,7 +32,7 @@ export function PracticalInfo({ items, className = '' }: { items: PracticalInfoI
               <ArrowRight size={13} />
             </Link>
           ) : (
-            <dd className="mt-1.5 text-sm leading-relaxed text-ink">{item.value ? richNodes(item.value) : 'da completare'}</dd>
+            <dd className="mt-1.5 text-sm leading-relaxed text-ink">{richNodes(item.value ?? '')}</dd>
           )}
         </div>
       ))}

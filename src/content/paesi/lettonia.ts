@@ -49,6 +49,7 @@ export const lettonia: Paese = {
     emergenze: 'Numero unico europeo 112. L\'Ambasciata d\'Italia è a Riga.',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'Facciata Art Nouveau decorata di un edificio su Alberta iela a Riga, con maschere scolpite e balconi ornati',
+  heroImageAlt: 'La facciata Art Nouveau di un palazzo di Riga, con volti scolpiti, lesene colorate e decorazioni sotto il cornicione',
+  heroImage: '/images/lettonia/lettonia-paese.jpg',
   tripPrincipaleSlug: 'capitali-baltiche',
 }

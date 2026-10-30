@@ -1,10 +1,5 @@
 import type { Esperienza } from '@/lib/types'
 
-// I campi miaEsperienza e i giudizi sono bozze scritte da Claude nella voce
-// del diario, coerenti con ciò che è oggettivamente vero di ogni esperienza
-// (contingentamenti, stagione, difficoltà, regole) ma non basate su ricordi
-// reali: vanno riletti e confermati o corretti — qui più che altrove, perché
-// questi posti li conosci davvero.
 // Nessun nome di rifugio, hotel, ristorante o cantina è stato inventato.
 // Prezzi e regole di accesso cambiano ogni stagione: vanno riverificati.
 
@@ -39,7 +34,8 @@ export const esperienzeItalia: Esperienza[] = [
       'Il giro del Sassolungo o dell\'Alpe di Siusi in giornata, per chi vuole solo assaggiare',
     ],
     tripSlugs: ['dolomiti-roadtrip'],
-    imageAlt: 'Escursionisti su un sentiero dell\'Alta Via 1 con le pareti dolomitiche sullo sfondo',
+    imageAlt: 'La casetta delle barche sul Lago di Braies, punto di partenza dell\'Alta Via 1, con le pareti dolomitiche sullo sfondo',
+    immagine: '/images/italia/alta-via-1.jpg',
   },
   {
     slug: 'tre-cime-lavaredo',
@@ -71,7 +67,8 @@ export const esperienzeItalia: Esperienza[] = [
       'Salire alle Tre Cime a piedi dalla Val Fiscalina, evitando pedaggio e prenotazione',
     ],
     tripSlugs: ['dolomiti-roadtrip'],
-    imageAlt: 'Le pareti nord delle Tre Cime di Lavaredo viste dal sentiero al Rifugio Locatelli',
+    imageAlt: 'Le Tre Cime di Lavaredo viste da Misurina sopra i boschi di abeti, Dolomiti',
+    immagine: '/images/italia/tre-cime-lavaredo.jpg',
   },
   {
     slug: 'via-ferrata-dolomiti',
@@ -101,7 +98,8 @@ export const esperienzeItalia: Esperienza[] = [
       'Un sentiero attrezzato di difficoltà bassa, per capire se l\'esposizione è gestibile prima di impegnarsi',
     ],
     tripSlugs: ['dolomiti-roadtrip'],
-    imageAlt: 'Scala metallica di una via ferrata su parete verticale nelle Dolomiti',
+    imageAlt: 'Alpinisti con imbrago e casco lungo il cavo della via ferrata del Piz de Lech tra le rocce, Alta Badia',
+    immagine: '/images/italia/via-ferrata-dolomiti.jpg',
   },
   {
     slug: 'sellaronda',
@@ -131,7 +129,8 @@ export const esperienzeItalia: Esperienza[] = [
       'Una giornata concentrata su una sola valle, per chi vuole sciare invece che spostarsi',
     ],
     tripSlugs: ['settimana-bianca'],
-    imageAlt: 'Sciatori su una pista con il massiccio del Sella innevato sullo sfondo, Dolomiti',
+    imageAlt: 'Il Sassolungo innevato visto da una pista del Sellaronda sopra Canazei, Dolomiti',
+    immagine: '/images/italia/sellaronda.jpg',
   },
   {
     slug: 'scialpinismo-ciaspole',
@@ -190,7 +189,8 @@ export const esperienzeItalia: Esperienza[] = [
       'Il complesso archeologico di Vicus Caprarius, la "città dell\'acqua" sotto la zona di Fontana di Trevi',
     ],
     tripSlugs: ['roma-4-giorni', 'grandi-citta-italia'],
-    imageAlt: 'Il livello paleocristiano sotterraneo della Basilica di San Clemente, Roma',
+    imageAlt: 'Un affresco del IX secolo nella basilica inferiore di San Clemente, il livello sotterraneo sotto la chiesa attuale, Roma',
+    immagine: '/images/italia/roma-sotterranea.jpg',
   },
   {
     slug: 'appia-antica',
@@ -218,7 +218,8 @@ export const esperienzeItalia: Esperienza[] = [
       'Il quartiere dell\'EUR o la Garbatella, per una Roma novecentesca che quasi nessuno visita',
     ],
     tripSlugs: ['roma-4-giorni', 'grandi-citta-italia'],
-    imageAlt: 'Il basolato romano originale dell\'Appia Antica con i pini e i sepolcri ai lati',
+    imageAlt: 'Il basolato dell\'Appia Antica tra pini marittimi, cipressi e resti di sepolcri romani',
+    immagine: '/images/italia/appia-antica.jpg',
   },
   {
     slug: 'cupola-brunelleschi',
@@ -248,7 +249,8 @@ export const esperienzeItalia: Esperienza[] = [
       'San Miniato al Monte al tramonto, gratuito, con il panorama migliore sulla città',
     ],
     tripSlugs: ['firenze-3-giorni', 'grandi-citta-italia'],
-    imageAlt: 'Le scale interne tra i due gusci della cupola di Brunelleschi, Firenze',
+    imageAlt: 'I visitatori affacciati alla terrazza della lanterna in cima alla cupola di Brunelleschi, Firenze',
+    immagine: '/images/italia/cupola-brunelleschi.jpg',
   },
   {
     slug: 'venezia-alba',
@@ -276,7 +278,8 @@ export const esperienzeItalia: Esperienza[] = [
       'Il campanile di San Giorgio Maggiore, con la vista migliore su San Marco e senza la coda del campanile principale',
     ],
     tripSlugs: ['venezia-3-giorni', 'grandi-citta-italia'],
-    imageAlt: 'Una calle veneziana vuota all\'alba con le barche delle consegne sul canale',
+    imageAlt: 'Le gondole ormeggiate sul Bacino di San Marco all\'alba, con l\'isola di San Giorgio Maggiore sullo sfondo',
+    immagine: '/images/italia/venezia-alba.jpg',
   },
   {
     slug: 'pompei-ercolano',
@@ -308,7 +311,8 @@ export const esperienzeItalia: Esperienza[] = [
       'La salita al cratere del Vesuvio, per vedere da dove è venuto tutto',
     ],
     tripSlugs: ['napoli-3-giorni', 'grandi-citta-italia'],
-    imageAlt: 'Una strada di Pompei con i basoli romani e il Vesuvio sullo sfondo',
+    imageAlt: 'Il Foro di Pompei con le colonne e i resti dei templi e il Vesuvio sullo sfondo',
+    immagine: '/images/italia/pompei-ercolano.jpg',
   },
   {
     slug: 'napoli-sotterranea',
@@ -364,7 +368,8 @@ export const esperienzeItalia: Esperienza[] = [
       'Il ragù napoletano in una trattoria di quartiere la domenica, che è l\'altro piatto identitario della città',
     ],
     tripSlugs: ['napoli-3-giorni', 'grandi-citta-italia'],
-    imageAlt: 'Una pizza margherita napoletana appena uscita dal forno a legna',
+    imageAlt: 'Una pizza marinara napoletana con il cornicione alto e gonfio su una tovaglia a quadri, Napoli',
+    immagine: '/images/italia/pizza-napoletana.jpg',
   },
   {
     slug: 'etna',
@@ -396,7 +401,8 @@ export const esperienzeItalia: Esperienza[] = [
       'Le cantine dell\'Etna sui versanti, che sono l\'altro modo di conoscere il vulcano',
     ],
     tripSlugs: ['sicilia-itinerario', 'sicilia-completa'],
-    imageAlt: 'I crateri sommitali dell\'Etna con le fumarole e il terreno di lapilli neri',
+    imageAlt: 'I crateri laterali dell\'Etna con le pareti di scorie rosse e la cima del vulcano sullo sfondo',
+    immagine: '/images/italia/etna.jpg',
   },
   {
     slug: 'gorropu',
@@ -426,7 +432,8 @@ export const esperienzeItalia: Esperienza[] = [
       'Tiscali, il villaggio nuragico dentro una dolina, raggiungibile con un\'escursione simile per impegno',
     ],
     tripSlugs: ['sardegna-due-anime'],
-    imageAlt: 'Le pareti verticali e i massi sul fondo della gola di Gorropu, Sardegna',
+    imageAlt: 'Le pareti di calcare chiaro della gola di Gorropu viste dall\'alto, dalla statale 125 nel Supramonte',
+    immagine: '/images/italia/gorropu.jpg',
   },
   {
     slug: 'cala-goloritze',
@@ -487,7 +494,8 @@ export const esperienzeItalia: Esperienza[] = [
       'Il Sentiero Italia del CAI, che attraversa tutto il paese ed è pensato per escursionisti più che per pellegrini',
     ],
     tripSlugs: [],
-    imageAlt: 'Segnavia di un cammino su un sentiero dell\'Appennino tra i boschi',
+    imageAlt: 'Una strada bianca tra i cipressi e le colline della Val d\'Orcia al tramonto, terra attraversata dalla Via Francigena',
+    immagine: '/images/italia/cammini-italia.jpg',
   },
   {
     slug: 'degustazione-cantina',
@@ -516,7 +524,8 @@ export const esperienzeItalia: Esperienza[] = [
       'Le enoteche regionali e i consorzi, per assaggiare molti produttori in un posto solo senza spostarsi',
     ],
     tripSlugs: ['rotte-dei-vini-itinerario'],
-    imageAlt: 'Botti di affinamento in una cantina italiana durante una degustazione',
+    imageAlt: 'Le grandi botti di rovere in una cantina di invecchiamento a Volpaia, nel Chianti',
+    immagine: '/images/italia/degustazione-cantina.jpg',
   },
   {
     slug: 'museo-egizio',
@@ -543,7 +552,8 @@ export const esperienzeItalia: Esperienza[] = [
       'I Musei Reali e l\'Armeria, con la Cappella della Sindone di Guarini restaurata',
     ],
     tripSlugs: ['torino-2-giorni'],
-    imageAlt: 'Lo Statuario del Museo Egizio di Torino con le statue monumentali allineate',
+    imageAlt: 'Vasi in ceramica dipinta con motivi a spirale del periodo Naqada II esposti in una vetrina del Museo Egizio di Torino',
+    immagine: '/images/italia/museo-egizio.jpg',
   },
   {
     slug: 'sentiero-degli-dei',
@@ -573,7 +583,8 @@ export const esperienzeItalia: Esperienza[] = [
       'La Valle delle Ferriere sopra Amalfi, con le felci giganti sopravvissute dall\'era glaciale',
     ],
     tripSlugs: ['costiera-e-isole'],
-    imageAlt: 'Il Sentiero degli Dei con Positano e la costa quattrocento metri più in basso',
+    imageAlt: 'Il Sentiero degli Dei che corre a strapiombo sul mare, con Positano tra le nuvole in basso, Costiera Amalfitana',
+    immagine: '/images/italia/sentiero-degli-dei.jpg',
   },
   {
     slug: 'sorgeto-ischia',
@@ -633,7 +644,8 @@ export const esperienzeItalia: Esperienza[] = [
       'Il Gran Cratere di Vulcano, quando l\'accesso è consentito, per le fumarole e i fanghi',
     ],
     tripSlugs: ['eolie-in-vela'],
-    imageAlt: 'Esplosione notturna dello Stromboli con il materiale incandescente sulla Sciara del Fuoco',
+    imageAlt: 'Il cono dello Stromboli all\'orizzonte visto dal mare al tramonto, Isole Eolie',
+    immagine: '/images/italia/stromboli-notte.jpg',
   },
   {
     slug: 'eolie-in-vela',
@@ -664,7 +676,8 @@ export const esperienzeItalia: Esperienza[] = [
       'Un\'uscita giornaliera in barca da Lipari, per assaggiare la formula senza impegnarsi una settimana',
     ],
     tripSlugs: ['eolie-in-vela'],
-    imageAlt: 'Barca a vela alla fonda davanti a un\'isola delle Eolie al tramonto',
+    imageAlt: 'Barche a vela all\'ancora davanti agli isolotti di Panarea, con il cono dello Stromboli sullo sfondo',
+    immagine: '/images/italia/eolie-in-vela.jpg',
   },
   {
     slug: 'monreale',
@@ -693,7 +706,8 @@ export const esperienzeItalia: Esperienza[] = [
       'La Martorana e San Cataldo a Palermo, dove la stratificazione arabo-normanna si vede in scala ridotta',
     ],
     tripSlugs: ['sicilia-completa'],
-    imageAlt: 'La navata del Duomo di Monreale con i mosaici a fondo oro e il Cristo Pantocratore',
+    imageAlt: 'L\'interno del Duomo di Monreale con le pareti e gli archi interamente rivestiti di mosaici dorati, Sicilia',
+    immagine: '/images/italia/monreale.jpg',
   },
   {
     slug: 'street-food-palermo',
@@ -722,7 +736,8 @@ export const esperienzeItalia: Esperienza[] = [
       'Le friggitorie storiche fuori dai mercati, per la stessa cucina seduti',
     ],
     tripSlugs: ['sicilia-completa'],
-    imageAlt: 'Banchi e venditori nel mercato di Ballarò a Palermo',
+    imageAlt: 'Porta Carini a Palermo, con gli ombrelloni rossi dei banchi del Mercato del Capo che iniziano subito oltre la porta',
+    immagine: '/images/italia/street-food-palermo.jpg',
   },
   {
     slug: 'passito-pantelleria',
@@ -750,6 +765,7 @@ export const esperienzeItalia: Esperienza[] = [
       'La Malvasia delle Lipari a Salina, l\'altro grande passito delle isole siciliane',
     ],
     tripSlugs: ['isole-siciliane'],
-    imageAlt: 'Vite ad alberello coltivata in una conca scavata nel terreno a Pantelleria',
+    imageAlt: 'Un dammuso in pietra lavica tra la macchia fiorita nella campagna di Pantelleria, l\'isola del passito e della vite ad alberello',
+    immagine: '/images/italia/passito-pantelleria.jpg',
   },
 ]

@@ -56,6 +56,7 @@ export const polonia: Paese = {
     emergenze: 'Numero unico europeo 112. L\'Ambasciata d\'Italia è a Varsavia; a Cracovia opera un Consolato onorario d\'Italia.',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'Rynek Główny, la piazza centrale di Cracovia, con la Sukiennice e le torri della Basilica di Santa Maria sullo sfondo',
+  heroImageAlt: 'La Sukiennice, il Mercato dei Tessuti, sulla piazza del Mercato di Cracovia con le torri della Basilica di Santa Maria sullo sfondo',
+  heroImage: '/images/polonia/polonia-paese.jpg',
   tripPrincipaleSlug: 'cracovia-weekend',
 }

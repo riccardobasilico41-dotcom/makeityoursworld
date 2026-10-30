@@ -49,6 +49,7 @@ export const indonesia: Paese = {
     aggiornatoAl: 'settembre 2026',
   },
   stileViaggio: ['natura', 'avventura', 'isole', 'diving'],
-  heroImageAlt: 'Isole calcaree ricoperte di giungla che emergono dal mare turchese dell\'arcipelago indonesiano',
+  heroImageAlt: 'Il cratere fumante del Bromo e il cono del Batok con il Semeru sullo sfondo, Giava est, Indonesia',
+  heroImage: '/images/indonesia/indonesia-paese.jpg',
   tripPrincipaleSlug: 'indonesia-itinerario',
 }

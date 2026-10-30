@@ -1,11 +1,7 @@
 import type { Destinazione } from '@/lib/types'
 
-// I campi miaEsperienza sono bozze scritte da Claude nella voce del diario,
-// basate su ciò che è oggettivamente vero di ogni posto (stagione, quote,
-// probabilità di avvistamento, fatica, costi) e non su ricordi reali: vanno
-// riletti e sostituiti. Nessun nome di lodge, resort o operatore è stato
-// inventato.
-// Quote dei permessi (Kinabalu, Sipadan) e orari delle poppate ai centri di
+// Nessun nome di lodge, resort o operatore è stato inventato. Quote dei
+// permessi (Kinabalu, Sipadan) e orari delle poppate ai centri di
 // riabilitazione cambiano: vanno riverificati sui canali ufficiali.
 
 export const destinazioniBorneo: Destinazione[] = [
@@ -57,7 +53,8 @@ export const destinazioniBorneo: Destinazione[] = [
       'Kota Kinabalu in sé è una città funzionale più che bella, ricostruita dopo i bombardamenti della seconda guerra mondiale, e si capisce in mezza giornata. Quello per cui vale è alle spalle. Il Kinabalu si sale in due giorni: il primo è una scalinata infinita nella foresta pluviale, sei chilometri di gradini irregolari con l\'umidità addosso, fino al rifugio di Laban Rata a 3.270 metri; il secondo comincia alle due di notte, al buio, sulla roccia granitica nuda, tenendosi a una corda fissa, con la quota che si fa sentire davvero — si parte da meno di duemila metri e in poco più di un giorno si arriva sopra i quattromila, senza nessun acclimatamento, e il mal di testa è la regola più che l\'eccezione. Poi il sole sorge sulla piattaforma di granito e sotto c\'è tutto il Borneo con le nuvole sotto i piedi. La cosa pratica che conta più di ogni altra: i permessi sono poco più di centosessanta al giorno e vanno prenotati mesi prima, non settimane.',
     esperienzeSlugs: ['monte-kinabalu'],
     tripSlugs: ['borneo-itinerario'],
-    imageAlt: 'La piattaforma di granito della vetta del Monte Kinabalu all\'alba, Sabah, Borneo',
+    imageAlt: 'La cupola e i minareti della moschea cittadina di Kota Kinabalu sotto un cielo temporalesco',
+    immagine: '/images/borneo/kota-kinabalu.jpg',
   },
   {
     slug: 'sepilok-sandakan',
@@ -297,7 +294,8 @@ export const destinazioniBorneo: Destinazione[] = [
       'Non ci sono ancora stato, e per onestà la scheda si ferma alle informazioni verificabili invece di raccontare una giornata inventata. Le ragioni per cui resta in lista sono due, e sono precise. La prima è che la foresta primaria non è un dettaglio da naturalisti: gli alberi emergenti oltre gli ottanta metri e la struttura a strati completa non esistono più quasi da nessuna parte nel sud-est asiatico, e la Danum è uno dei pochissimi posti dove si possono ancora vedere. La seconda è il rovescio esatto del Kinabatangan — lì gli animali si vedono facilmente perché sono compressi in una striscia di verde tra le palme da olio, qui si vedono poco proprio perché hanno ancora quarantatremila ettari in cui stare. Costa parecchio e va messa in conto per tre notti minime: chi ci va per una resta praticamente solo nei trasferimenti.',
     esperienzeSlugs: [],
     tripSlugs: [],
-    imageAlt: 'La canopy walkway sospesa tra gli alberi della foresta primaria della Danum Valley, Sabah',
+    imageAlt: 'Un fiume che scorre nella foresta pluviale di pianura della Danum Valley, Sabah',
+    immagine: '/images/borneo/danum-valley.jpg',
   },
   {
     slug: 'semporna-sipadan',
@@ -394,7 +392,8 @@ export const destinazioniBorneo: Destinazione[] = [
       'Kuching è la sorpresa del Borneo: una città di fiume tranquilla, con il lungofiume pedonale, le case cinesi basse e un livello di vivibilità che nessun\'altra città malese di queste dimensioni ha. Il Sarawak laksa a colazione, in una di quelle sale con i ventilatori al soffitto, è una delle cose migliori mangiate in tutta la Malesia. Bako è il parco che rende: ci si arriva solo in barca, con gli orari dettati dalla marea, e nel giro di un\'ora di sentiero si incontrano le nasiche, quelle scimmie dal naso enorme che esistono solo su quest\'isola e che si guardano da pochi metri mentre mangiano foglie senza dare peso a chi passa. Su Semenggoh, invece, conviene essere chiari: gli oranghi sono liberi e tornano alle piattaforme solo quando la foresta offre poco, quindi tra novembre e marzo può non presentarsi nessuno — e la riserva lo scrive apertamente all\'ingresso. Chi ha già fatto Sepilok non deve venire nel Sarawak per questo: ci venga per Bako, per le longhouse e per la città.',
     esperienzeSlugs: ['bako-nasiche'],
     tripSlugs: [],
-    imageAlt: 'Una nasica sul ramo di un albero nel parco nazionale di Bako, Sarawak, Borneo',
+    imageAlt: 'Il monte Santubong nella foschia oltre il fiume Sarawak, vicino a Kuching',
+    immagine: '/images/borneo/kuching-bako.jpg',
   },
   {
     slug: 'gunung-mulu',

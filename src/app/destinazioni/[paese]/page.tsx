@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
-import { ArrowRight, ArrowUpRight } from 'lucide-react'
+import { ArrowRight } from 'lucide-react'
 import { Container } from '@/components/ui/Container'
 import { SectionHeading } from '@/components/ui/SectionHeading'
 import { Reveal, RevealGroup, RevealItem } from '@/components/Reveal'
@@ -16,6 +16,7 @@ import { breadcrumbJsonLd } from '@/lib/structured-data'
 import { getAllPaesi, getPaese, getDestinazioniByPaese, getEsperienzeByPaese, getTripMeta } from '@/lib/geo'
 import { getViaggioBySlug } from '@/lib/viaggi'
 import { pageMetadata } from '@/lib/seo'
+import { seoPaesi } from '@/content/seo-pagine'
 import { richNodes } from '@/components/ui/Rich'
 
 export async function generateStaticParams() {
@@ -30,9 +31,11 @@ export async function generateMetadata({
   const { paese: paeseSlug } = await params
   const paese = getPaese(paeseSlug)
   if (!paese) return {}
+  const seo = seoPaesi[paeseSlug]
   return pageMetadata({
-    title: paese.titolo,
-    description: paese.descrizione,
+    title: seo?.seoTitle ?? paese.titolo,
+    description: seo?.seoDescription ?? paese.descrizione,
+    socialTitle: seo?.socialTitle,
     path: `/destinazioni/${paeseSlug}`,
   })
 }
@@ -207,10 +210,6 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
                   { label: 'Errori da evitare', href: `/viaggi/${paese.tripPrincipaleSlug}#errori-da-evitare`, value: 'Cosa non rifare' },
                 ]}
               />
-              <p className="mt-6 flex items-center gap-1.5 text-xs text-stone/60">
-                <ArrowUpRight size={12} />
-                Scheda pratica completa in arrivo anche per questo Paese: per ora ogni voce rimanda alla sezione corrispondente della scheda del viaggio.
-              </p>
             </>
           )}
         </Container>

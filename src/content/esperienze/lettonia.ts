@@ -26,7 +26,8 @@ export const esperienzeLettonia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Il Museo dell\'Art Nouveau di Alberta iela 12, che ricostruisce un appartamento borghese d\'epoca dentro uno degli edifici più decorati della via, per chi vuole vedere anche gli interni'],
     tripSlugs: ['capitali-baltiche'],
-    imageAlt: 'Una facciata Art Nouveau decorata su Alberta iela a Riga, con maschere scolpite e motivi floreali intorno alle finestre',
+    imageAlt: 'Una facciata Art Nouveau color crema a Riga, con finestre ad arco decorate da stucchi e un balcone in ferro battuto',
+    immagine: '/images/lettonia/riga-art-nouveau-passeggiata.jpg',
   },
   {
     slug: 'riga-mercato-centrale-tour',
@@ -47,7 +48,8 @@ export const esperienzeLettonia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Un giro rapido dei soli esterni e del padiglione principale, per chi vuole vedere l\'architettura senza dedicare tempo agli assaggi'],
     tripSlugs: ['capitali-baltiche'],
-    imageAlt: 'L\'interno di uno dei padiglioni del Mercato Centrale di Riga, con banchi di frutta e verdura sotto la struttura in ferro dell\'ex hangar per dirigibili',
+    imageAlt: 'L\'interno di un padiglione del Mercato Centrale di Riga, con i banchi di frutta e verdura sotto la volta ad arco degli ex hangar',
+    immagine: '/images/lettonia/riga-mercato-centrale-tour.jpg',
   },
   {
     slug: 'jurmala-spiaggia-ville-liberty',
@@ -68,6 +70,7 @@ export const esperienzeLettonia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Un giro incentrato solo sulle ville Art Nouveau, per chi visita fuori stagione o non è interessato al bagno'],
     tripSlugs: ['capitali-baltiche'],
-    imageAlt: 'La spiaggia di sabbia bianca di Jūrmala con le dune erbose e le cabine in legno sul bordo della spiaggia',
+    imageAlt: 'La spiaggia di sabbia chiara di Jūrmala con le cabine colorate in fila e il Baltic Beach Hotel tra i pini',
+    immagine: '/images/lettonia/jurmala-spiaggia-ville-liberty.jpg',
   },
 ]

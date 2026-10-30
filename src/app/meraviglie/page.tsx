@@ -17,7 +17,6 @@ export const metadata: Metadata = pageMetadata({
 
 export default function MeraviglieIndexPage() {
   const meraviglie = getAllMeraviglie()
-  const visitate = meraviglie.filter((m) => m.visitataPersonalmente).length
 
   return (
     <>
@@ -31,7 +30,7 @@ export default function MeraviglieIndexPage() {
       />
       <PageHeader
         crumbs={[{ label: 'Home', href: '/' }, { label: 'Meraviglie del mondo' }]}
-        eyebrow={`${visitate} su ${meraviglie.length} viste di persona`}
+        eyebrow="Le sette meraviglie del mondo moderno"
         title="Le sette meraviglie del mondo"
         lead={
           <p>

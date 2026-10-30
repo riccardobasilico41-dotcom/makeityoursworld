@@ -52,6 +52,7 @@ export const svizzera: Paese = {
       'Numero unico europeo **112**. In alternativa: 117 polizia, 118 vigili del fuoco, 144 ambulanza, **1414 Rega** (soccorso aereo in montagna).',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'La valle di Lauterbrunnen con le cascate e le pareti verticali della Jungfrau Region, Alpi Bernesi',
+  heroImageAlt: 'La valle di Lauterbrunnen in estate, con le pareti di roccia verticali, i boschi e il villaggio sul fondovalle, Alpi Bernesi',
+  heroImage: '/images/svizzera/svizzera-paese.jpg',
   tripPrincipaleSlug: 'svizzera-alpi-van',
 }

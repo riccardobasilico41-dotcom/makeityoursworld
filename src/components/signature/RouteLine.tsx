@@ -31,13 +31,13 @@ export function RouteLine({
   labelClassName?: string
 }) {
   const reduceMotion = useReducedMotion()
-  const { punti, schematico } = proiettaPercorso(tappe)
+  const { punti } = proiettaPercorso(tappe)
   if (punti.length === 0) return null
   const d = costruisciPath(punti)
 
   // `className` fissa l'altezza dell'area grafica (SVG), mai del componente
-  // intero: in modalità non decorativa segue l'elenco delle tappe e, a volte,
-  // la nota "percorso schematico" — altezza variabile che non deve mai finire
+  // intero: in modalità non decorativa segue l'elenco delle tappe —
+  // altezza variabile che non deve mai finire
   // dentro un contenitore ad altezza fissa, o trabocca invece di spingere in
   // basso il contenuto successivo (bug reale trovato in fase di verifica).
   // Solo in modalità decorativa (nessun contenuto sotto la SVG) l'altezza va
@@ -128,7 +128,6 @@ export function RouteLine({
         })}
       </ul>
 
-      {schematico && <p className="mt-2 text-xs italic text-current/50">Percorso schematico, non in scala.</p>}
     </div>
   )
 }

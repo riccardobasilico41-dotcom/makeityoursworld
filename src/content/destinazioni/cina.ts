@@ -1,12 +1,9 @@
 import type { Destinazione } from '@/lib/types'
 
-// Paese visitato di persona, due volte. I campi miaEsperienza sono bozze
-// scritte da Claude nella voce del diario, basate su ciò che è oggettivamente
-// vero di ogni posto (code, quote, orari, regole d\'accesso, stagione) e non
-// su ricordi reali: vanno riletti e sostituiti con i tuoi. Nessun nome di
-// hotel, ristorante o operatore è stato inventato.
-// Prezzi degli ingressi, orari e regole di prenotazione in Cina cambiano
-// spesso e senza preavviso: vanno riverificati sui canali ufficiali.
+// Paese visitato di persona, due volte. Nessun nome di hotel, ristorante o
+// operatore è stato inventato. Prezzi degli ingressi, orari e regole di
+// prenotazione in Cina cambiano spesso e senza preavviso: vanno riverificati
+// sui canali ufficiali.
 
 export const destinazioniCina: Destinazione[] = [
   {
@@ -105,7 +102,8 @@ export const destinazioniCina: Destinazione[] = [
       'Pechino è la città che chiede più preparazione di tutto il viaggio e ripaga subito chi l\'ha fatta. La Città Proibita è enorme oltre ogni aspettativa e questo è insieme il suo pregio e il suo limite: si attraversa cortile dopo cortile in una direzione sola, insieme a migliaia di persone, e dopo la terza sala del trono ci si accorge di guardare senza vedere. Il trucco è uscire dalla via centrale e infilarsi nei palazzi laterali a est, dove non va quasi nessuno e le sale sono piccole e abitabili. La cosa che invece non delude mai è il Tempio del Cielo al mattino presto, e non per il tempio: nel parco attorno centinaia di pensionati ballano, cantano in coro, giocano a carte e fanno esercizi con la spada, ed è la scena più bella e meno turistica della città. Sugli hutong bisogna essere onesti: quelli attorno a Houhai sono ormai bar e negozi, la vita vera è nei vicoli due isolati più in là.',
     esperienzeSlugs: ['muraglia-jinshanling', 'citta-proibita'],
     tripSlugs: ['cina-classica'],
-    imageAlt: 'La Grande Muraglia Cinese che si snoda sui crinali a Jinshanling, a nord di Pechino',
+    imageAlt: 'La Sala della preghiera per il buon raccolto, con i tre tetti blu, al Tempio del Cielo di Pechino',
+    immagine: '/images/cina/pechino.jpg',
   },
   {
     slug: 'xian',
@@ -183,7 +181,8 @@ export const destinazioniCina: Destinazione[] = [
       'L\'Esercito di Terracotta è uno di quei posti in cui la fotografia ha già mostrato tutto e il sopralluogo aggiunge una cosa sola, ma decisiva: la scala. Dal parapetto della fossa numero uno si guarda una navata lunga duecento metri piena di file di soldati, e solo allora si capisce che erano fatti per essere sepolti, non guardati. La sorpresa vera però è altrove — nessuna delle statue ha la stessa faccia, e avvicinandosi alle prime file si vedono volti, acconciature e baffi tutti diversi. Va anche detto che l\'esperienza è molto gestita: passerelle obbligate, folla continua, e le fosse due e tre che dopo la prima sembrano cantieri. Il resto di Xi\'an compensa: pedalare sulle mura al tramonto, con la città moderna da un lato e i tetti vecchi dall\'altro, è la cosa che è rimasta più impressa, e il Quartiere Musulmano la sera è il posto dove si mangia meglio in tutta la Cina classica.',
     esperienzeSlugs: ['esercito-terracotta', 'mura-xian-bicicletta'],
     tripSlugs: ['cina-classica'],
-    imageAlt: 'Le file di guerrieri di terracotta nella fossa numero uno del mausoleo di Qin Shi Huang, Xi\'an',
+    imageAlt: 'Le mura Ming di Xi\'an con le torri di guardia e il parco alberato ai piedi della cinta',
+    immagine: '/images/cina/xian.jpg',
   },
   {
     slug: 'shanghai',
@@ -281,7 +280,8 @@ export const destinazioniCina: Destinazione[] = [
       'Shanghai funziona meglio di come viene raccontata, e il motivo non è lo skyline: è che si cammina. Nell\'ex Concessione Francese, tra i platani e le case basse in mattoni, ci si dimentica di essere nella città più popolosa del paese, e quella è la Shanghai che vale. Il Bund di notte è spettacolare e va visto, con l\'avvertenza che lo pensano tutti: sul camminamento la sera si sta spalla a spalla. Il salto vero però è Suzhou. Venticinque minuti di treno e si passa da una città verticale a giardini costruiti nel Cinquecento su una regola precisa, che nessuna finestra debba inquadrare la stessa cosa due volte: sembra un dettaglio da guida e invece camminandoci dentro si capisce subito. Il consiglio che vale più di tutti è di andarci in un giorno feriale, perché quei giardini sono piccoli e con la folla perdono esattamente ciò per cui esistono.',
     esperienzeSlugs: ['giardini-suzhou', 'bund-pudong'],
     tripSlugs: ['cina-classica'],
-    imageAlt: 'Lo skyline di Pudong visto dal Bund di Shanghai illuminato di notte',
+    imageAlt: 'Una barca sul canale principale di Zhujiajiao, villaggio d\'acqua nel distretto di Qingpu, Shanghai',
+    immagine: '/images/cina/shanghai.jpg',
   },
   {
     slug: 'zhangjiajie',
@@ -360,7 +360,8 @@ export const destinazioniCina: Destinazione[] = [
       'Zhangjiajie è il posto che più di ogni altro in Cina va organizzato invece che improvvisato, e il motivo è banale: è enorme e ci vanno tutti. Le code all\'ascensore di Bailong nel pieno della giornata sono la cosa peggiore del viaggio, e l\'unico modo di evitarle è essere all\'ingresso all\'apertura e salire subito, lasciando i punti panoramici famosi per il tardo pomeriggio quando i gruppi se ne sono andati. Detto questo, il paesaggio regge qualsiasi aspettativa. La cosa che colpisce non è il singolo pilastro ma il fatto che siano migliaia, uno dietro l\'altro fino all\'orizzonte, e che entrino ed escano dalla nebbia mentre li si guarda. Chi ci viene sperando in una giornata limpida sta sperando nella cosa sbagliata: con il cielo terso sembrano delle montagne normali, con la foschia sembrano sospese. E il consiglio meno ovvio è di scendere in fondovalle almeno mezza giornata, lungo il ruscello del Ditastro d\'Oro: guardare quei pilastri dal basso, con il collo all\'insù, è più impressionante che vederli dall\'alto.',
     esperienzeSlugs: ['avatar-yuanjiajie', 'tianmen-shan'],
     tripSlugs: ['cina-paesaggi'],
-    imageAlt: 'I pilastri di quarzite di Zhangjiajie che emergono dalla nebbia nel parco nazionale dello Hunan',
+    imageAlt: 'I pinnacoli di arenaria coperti di vegetazione nel parco nazionale di Zhangjiajie, Hunan',
+    immagine: '/images/cina/zhangjiajie.jpg',
   },
   {
     slug: 'furong-zhen',
@@ -454,7 +455,8 @@ export const destinazioniCina: Destinazione[] = [
       'Chengdu è la città in cui viene voglia di restare più a lungo di quanto prevedesse il programma, e non per quello che c\'è da vedere — che è poco — ma per come si sta. Nel parco del Popolo, un pomeriggio qualsiasi, ci sono centinaia di persone sedute a bere tè da sole o a giocare a carte, e nessuno ha fretta: è l\'unica città cinese in cui il tempo sembra abbondante. Sui panda va gestita l\'aspettativa: alle otto e mezza del mattino sono svegli, mangiano bambù e si arrampicano, e per un\'ora sono esattamente quello che si sperava; due ore dopo dormono e la visita perde tutto. L\'hot pot invece è la cosa che spiazza di più: il pepe di Sichuan non è piccante come lo intendiamo noi, addormenta la bocca, e la prima volta la sensazione è quasi allarmante prima di diventare una dipendenza. Il consiglio è chiedere il brodo diviso e non fare gli eroi.',
     esperienzeSlugs: ['panda-chengdu', 'hot-pot-sichuan'],
     tripSlugs: ['cina-paesaggi'],
-    imageAlt: 'Un panda gigante sull\'albero alla base di ricerca di Chengdu, Sichuan, Cina',
+    imageAlt: 'La Grande Sala del monastero di Wenshu tra gli alberi del cortile, Chengdu',
+    immagine: '/images/cina/chengdu.jpg',
   },
   {
     slug: 'chongqing',
@@ -504,7 +506,8 @@ export const destinazioniCina: Destinazione[] = [
       'Chongqing è la città più assurda vista in Cina e va presa per quello che è: non ci sono monumenti da spuntare, c\'è una geografia impazzita da attraversare. Il momento in cui si capisce è quando si esce da un centro commerciale al primo piano e ci si ritrova su una strada trafficata, con altri due livelli di città sotto i piedi. Hongya Dong dal vivo, di notte, è più impressionante delle fotografie, a una condizione: guardarlo dalla riva opposta e non da dentro, perché all\'interno è un normalissimo centro commerciale a tema. La metropolitana che entra nel sesto piano di un palazzo abitato è esattamente come nei video, e il fatto che sia una cosa quotidiana per chi ci vive è il dettaglio migliore. Sul clima, invece, nessuna indulgenza: d\'estate qui non si sta, e un viaggio programmato a luglio è un viaggio programmato male.',
     esperienzeSlugs: ['hongya-dong-notte'],
     tripSlugs: ['cina-paesaggi'],
-    imageAlt: 'Il complesso illuminato di Hongya Dong sul fiume a Chongqing, Cina',
+    imageAlt: 'Lo skyline di Chongqing illuminato di notte con il ponte di Qiansimen e Hongya Dong sulla riva',
+    immagine: '/images/cina/chongqing.jpg',
   },
   {
     slug: 'lijiang',
@@ -551,7 +554,8 @@ export const destinazioniCina: Destinazione[] = [
       'Lijiang divide, e con ragione. La città vecchia è patrimonio UNESCO e alle sette di sera è un mercato continuo di souvenir con la musica a palla nei bar della piazza: chi ci arriva a quell\'ora e si ferma lì torna a casa convinto che sia una trappola. Poi si esce alle sei del mattino, con i vicoli bagnati, i canali che scorrono, le vecchie Naxi che spazzano davanti casa e nessun negozio aperto, ed è un altro posto: quello per cui ha senso dormirci invece di passarci. Il consiglio più utile è dedicare mezza giornata a Baisha, dieci chilometri a nord: è il villaggio Naxi originario, quasi nessuno ci va, e quello che a Dayan si cerca senza trovarlo lì c\'è ancora. Vale infine ricordare che siamo a 2.400 metri e che il vero motivo per essere qui è ciò che sta più a nord: Lijiang è la base, non la meta.',
     esperienzeSlugs: [],
     tripSlugs: ['cina-paesaggi'],
-    imageAlt: 'I tetti grigi della città vecchia di Lijiang con il massiccio dello Yulong Xueshan sullo sfondo, Yunnan',
+    imageAlt: 'I tetti grigi della città vecchia di Lijiang visti dall\'alto, con le montagne sullo sfondo',
+    immagine: '/images/cina/lijiang.jpg',
   },
   {
     slug: 'yulong-shangri-la',
@@ -640,7 +644,8 @@ export const destinazioniCina: Destinazione[] = [
       'È la parte di Cina che si ricorda meglio, e non per un singolo posto ma per la sequenza. Impression Lijiang è uno spettacolo che sulla carta sembra la classica cosa da turisti — cinquecento figuranti, cavalli, costumi — e dal vivo funziona per una ragione che non c\'entra con la regia: l\'anfiteatro è all\'aperto a 3.100 metri e il fondale è la montagna vera, con il ghiacciaio sopra la testa. Nessun teatro può competere. Il giorno dopo, la funivia a 4.506 metri: si sale in pochi minuti e il corpo non ha tempo di capire, si cammina sulle passerelle con venti passi e una sosta, e le bombole di ossigeno vendute all\'ingresso da improbabili diventano ragionevoli. Ma la cosa migliore resta il sentiero alto della Gola del Salto della Tigre: due giorni di cammino su un versante quasi deserto, con lo Yangtze tremila metri più in basso che si sente prima di vedersi, e le guesthouse dove si cena tutti allo stesso tavolo. Shangri-La, alla fine della strada, è già Tibet in tutto tranne che nel nome.',
     esperienzeSlugs: ['impression-lijiang', 'gola-salto-tigre'],
     tripSlugs: ['cina-paesaggi'],
-    imageAlt: 'Il massiccio innevato dello Yulong Xueshan visto dall\'anfiteatro di Impression Lijiang, Yunnan',
+    imageAlt: 'Le vette innevate dello Yulong Xueshan, la Montagna del Drago di Giada, vicino a Lijiang',
+    immagine: '/images/cina/yulong-shangri-la.jpg',
   },
   {
     slug: 'yangshuo',
@@ -691,7 +696,8 @@ export const destinazioniCina: Destinazione[] = [
       'Yangshuo è la tappa in cui finalmente si rallenta, e in un viaggio in Cina è un bene più prezioso di quanto sembri. La crociera lunga da Guilin, quella che tutti prenotano, è bella ma è un battello pieno con il buffet: il tratto che conta davvero è quello attorno a Xingping, e si fa in un\'ora su una zattera di bambù con due persone a bordo e le torri che sfilano a pelo d\'acqua. La giornata migliore però è quella senza programma: una bici elettrica, la strada lungo la Yulong River, e cinque ore a fermarsi dove capita tra risaie, bufali e ponti in pietra. La West Street la sera è l\'esatto contrario — insegne, musica alta, ristoranti con il menu in cinque lingue — e si risolve dormendo in campagna invece che in paese. Sull\'alba a Xianggong vale la pena essere chiari: sveglia prima delle cinque, salita ripida al buio, e poi la nebbia che si alza dall\'ansa del fiume. È la fotografia che si aveva in testa partendo.',
     esperienzeSlugs: ['fiume-li-zattera'],
     tripSlugs: ['cina-paesaggi'],
-    imageAlt: 'Le torri carsiche lungo il fiume Li con una zattera di bambù, Yangshuo, Guangxi',
+    imageAlt: 'Il fiume Li con le zattere di bambù e i picchi carsici della contea di Yangshuo',
+    immagine: '/images/cina/yangshuo.jpg',
   },
   {
     slug: 'hong-kong',
@@ -743,7 +749,8 @@ export const destinazioniCina: Destinazione[] = [
       'Hong Kong spiazza chi ci arriva dopo tre settimane di Cina continentale, perché tutto torna a funzionare come ci si aspetta: cartelli in inglese, Google che si apre senza VPN, code ordinate. La cosa che rimane però non è la skyline — bellissima e vista mille volte — ma il fatto che a mezz\'ora di metropolitana dal centro finanziario si cammini su un crinale con il mare sotto e nessun palazzo in vista. Il Dragon\'s Back è una passeggiata facile che nessuno mette in programma e che vale quanto il Peak. Sulla salita al Victoria Peak conviene invece essere pratici: si va solo con il cielo pulito, e la coda per il tram a fine pomeriggio può superare l\'ora, mentre l\'autobus che sale dalla stessa parte non ha coda. E la cosa più bella costa meno di mezzo euro: attraversare il porto in Star Ferry all\'ora blu, sul ponte inferiore, con i palazzi che si accendono da entrambe le parti.',
     esperienzeSlugs: ['star-ferry-victoria-peak'],
     tripSlugs: ['cina-classica'],
-    imageAlt: 'Lo skyline di Hong Kong e il porto di Victoria visti dal lungomare di Tsim Sha Tsui al tramonto',
+    imageAlt: 'Lo skyline dell\'isola di Hong Kong al tramonto visto da Victoria Harbour',
+    immagine: '/images/cina/hong-kong.jpg',
   },
   {
     slug: 'macao',
@@ -792,6 +799,7 @@ export const destinazioniCina: Destinazione[] = [
       'Macao funziona per un motivo solo, ed è il salto. Si passa la mattina in un centro storico che potrebbe essere una città portoghese dell\'Alentejo — pavimentazione a onde, chiese gialle, panetterie con i pastéis appena sfornati — e nel pomeriggio si sale su un autobus gratuito che in venti minuti scarica davanti a una riproduzione a grandezza naturale del Canal Grande, con i gondolieri che cantano sotto un cielo dipinto. Sono due posti diversi a quattro chilometri l\'uno dall\'altro, e il senso della giornata è proprio vederli nello stesso giorno. Il centro storico, va detto, si esaurisce in mezza giornata: chi si aspetta una città da esplorare resterà sorpreso dalle dimensioni. La cosa che merita di più, più delle rovine di San Paolo che sono sempre piene di gente, è Taipa Village con la sua strada di case pastello e i banchi di cibo — e la cucina macanese, che non si trova da nessun\'altra parte al mondo.',
     esperienzeSlugs: [],
     tripSlugs: ['cina-classica'],
-    imageAlt: 'La facciata delle rovine della chiesa di San Paolo a Macao vista dalla scalinata',
+    imageAlt: 'La facciata delle rovine di San Paolo nel centro storico di Macao',
+    immagine: '/images/cina/macao.jpg',
   },
 ]

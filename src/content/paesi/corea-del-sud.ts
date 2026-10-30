@@ -1,13 +1,9 @@
 import type { Paese } from '@/lib/types'
 
-// I campi miaEsperienza nelle destinazioni e nelle esperienze sono bozze
-// scritte da Claude nella voce del diario, basate su ciò che è oggettivamente
-// vero di ogni posto (orari, regole d\'accesso, stagione, affollamento) e non
-// su ricordi reali: vanno riletti e sostituiti. Nessun nome di hotel,
-// ristorante o operatore è stato inventato.
-// Le due sezioni con più peso — la DMZ e le haenyeo di Jeju — sono costruite
-// su fonti storiche e su dati verificabili (numeri, date, status UNESCO), non
-// su ricostruzioni: le cifre vanno però riverificate, perché cambiano.
+// Nessun nome di hotel, ristorante o operatore è stato inventato. Le due
+// sezioni con più peso — la DMZ e le haenyeo di Jeju — sono costruite su fonti
+// storiche e su dati verificabili (numeri, date, status UNESCO), non su
+// ricostruzioni: le cifre vanno però riverificate, perché cambiano.
 
 export const coreaDelSud: Paese = {
   slug: 'corea-del-sud',
@@ -50,6 +46,7 @@ export const coreaDelSud: Paese = {
     emergenze: 'Polizia 112, emergenze mediche e vigili del fuoco 119. Esiste anche la Korea Travel Hotline, il numero 1330, attivo 24 ore su 24 e multilingue: è uno dei servizi turistici migliori al mondo e risolve dai problemi di trasporto alle traduzioni al telefono. L\'Ambasciata d\'Italia è a Seoul.',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'Il padiglione Gyeonghoeru del palazzo Gyeongbokgung riflesso nello stagno, Seoul',
+  heroImageAlt: 'Il cortile e i padiglioni del palazzo Gyeongbokgung con il monte Bugaksan alle spalle, Seoul',
+  heroImage: '/images/corea-del-sud/corea-del-sud-paese.jpg',
   tripPrincipaleSlug: 'corea-del-sud-itinerario',
 }

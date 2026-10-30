@@ -1,13 +1,9 @@
 import type { Esperienza } from '@/lib/types'
 
-// I campi miaEsperienza e i giudizi sono bozze scritte da Claude nella voce
-// del diario, coerenti con ciò che è oggettivamente vero di ogni esperienza
-// (regole d\'accesso, fatica, stagione, affollamento) ma non basate su ricordi
-// reali: vanno riletti e confermati o corretti. Nessun operatore, hotel o
-// ristorante è stato inventato.
-// Le due schede storiche — DMZ/JSA e haenyeo — poggiano su date, cifre e
-// status UNESCO verificabili. L\'accesso alla JSA di Panmunjom è però sospeso
-// e riaperto a fasi alterne dal 2023: va verificato poco prima di partire.
+// Nessun operatore, hotel o ristorante è stato inventato. Le due schede
+// storiche — DMZ/JSA e haenyeo — poggiano su date, cifre e status UNESCO
+// verificabili. L\'accesso alla JSA di Panmunjom è però sospeso e riaperto a
+// fasi alterne dal 2023: va verificato poco prima di partire.
 
 export const esperienzeCoreaDelSud: Esperienza[] = [
   {
@@ -39,7 +35,8 @@ export const esperienzeCoreaDelSud: Esperienza[] = [
       'L\'Osservatorio dell\'Unificazione di Goseong, sulla costa orientale, molto meno battuto',
     ],
     tripSlugs: ['corea-del-sud-itinerario'],
-    imageAlt: 'L\'ingresso del Terzo Tunnel d\'Infiltrazione nella DMZ coreana con i caschetti per i visitatori',
+    imageAlt: 'Il binario del trenino che scende nel Terzo Tunnel d\'Infiltrazione, nella DMZ',
+    immagine: '/images/corea-del-sud/tour-dmz-terzo-tunnel.jpg',
   },
   {
     slug: 'jsa-panmunjom',
@@ -69,7 +66,8 @@ export const esperienzeCoreaDelSud: Esperienza[] = [
       'Il Memoriale della Guerra di Corea a Seoul, per il contesto storico completo',
     ],
     tripSlugs: ['corea-del-sud-itinerario'],
-    imageAlt: 'Le baracche azzurre della Joint Security Area di Panmunjom a cavallo della linea di demarcazione',
+    imageAlt: 'Un militare osserva la Joint Security Area di Panmunjom, con le baracche blu sulla linea di demarcazione',
+    immagine: '/images/corea-del-sud/jsa-panmunjom.jpg',
   },
   {
     slug: 'haenyeo-jeju',
@@ -99,7 +97,8 @@ export const esperienzeCoreaDelSud: Esperienza[] = [
       'Il Parco della Pace 4·3 a Jeju, per l\'altra grande pagina di storia dell\'isola',
     ],
     tripSlugs: ['corea-del-sud-itinerario'],
-    imageAlt: 'Una haenyeo di Jeju riemerge accanto al tewak arancione lungo la costa rocciosa dell\'isola',
+    imageAlt: 'La statua di una haenyeo con la retina e il galleggiante sul lungomare di Jeju',
+    immagine: '/images/corea-del-sud/haenyeo-jeju.jpg',
   },
   {
     slug: 'seongsan-ilchulbong',
@@ -126,7 +125,8 @@ export const esperienzeCoreaDelSud: Esperienza[] = [
       'L\'isola di Udo, a dieci minuti di traghetto, con altre haenyeo e nessuna coda',
     ],
     tripSlugs: ['corea-del-sud-itinerario'],
-    imageAlt: 'Il cono vulcanico di Seongsan Ilchulbong che esce dal mare all\'alba, Jeju',
+    imageAlt: 'Il cono di tufo del Seongsan Ilchulbong sopra i prati della costa orientale di Jeju',
+    immagine: '/images/corea-del-sud/seongsan-ilchulbong.jpg',
   },
   {
     slug: 'hallasan',
@@ -156,7 +156,8 @@ export const esperienzeCoreaDelSud: Esperienza[] = [
       'La salita a uno degli oreum, i coni vulcanici minori che punteggiano Jeju, in un\'ora invece che in dieci',
     ],
     tripSlugs: ['corea-del-sud-itinerario'],
-    imageAlt: 'Il sentiero verso la vetta dell\'Hallasan sopra il limite degli alberi, Jeju',
+    imageAlt: 'Il cratere del Baengnokdam con il piccolo lago sulla cima dell\'Hallasan, Jeju',
+    immagine: '/images/corea-del-sud/hallasan.jpg',
   },
   {
     slug: 'gyeongbokgung-hanbok',
@@ -184,7 +185,8 @@ export const esperienzeCoreaDelSud: Esperienza[] = [
       'Deoksugung dopo il tramonto, illuminato e quasi vuoto',
     ],
     tripSlugs: ['corea-del-sud-itinerario'],
-    imageAlt: 'Visitatori in hanbok nel cortile del palazzo Gyeongbokgung a Seoul',
+    imageAlt: 'Visitatori in hanbok nel cortile del palazzo Gyeongbokgung davanti al padiglione del trono, Seoul',
+    immagine: '/images/corea-del-sud/gyeongbokgung-hanbok.jpg',
   },
   {
     slug: 'gwangjang-cibo-strada',
@@ -211,7 +213,8 @@ export const esperienzeCoreaDelSud: Esperienza[] = [
       'La zona di Euljiro dopo il tramonto, con i tavolini in strada, per una versione meno turistica',
     ],
     tripSlugs: ['corea-del-sud-itinerario'],
-    imageAlt: 'Banchi di cucina di strada affollati al mercato di Gwangjang, Seoul',
+    imageAlt: 'Vassoi di jeon, le frittelle coreane, in esposizione a un banco del mercato di Gwangjang, Seoul',
+    immagine: '/images/corea-del-sud/gwangjang-cibo-strada.jpg',
   },
   {
     slug: 'jjimjilbang',
@@ -239,7 +242,8 @@ export const esperienzeCoreaDelSud: Esperienza[] = [
       'Una sauna di quartiere più piccola invece dei grandi complessi, dove non c\'è quasi nessun visitatore straniero',
     ],
     tripSlugs: ['corea-del-sud-itinerario'],
-    imageAlt: 'La sala comune di un jjimjilbang coreano con le stuoie per dormire e i pigiami forniti',
+    imageAlt: 'Il corridoio interno di un jjimjilbang coreano con l\'ingresso alla sala calda',
+    immagine: '/images/corea-del-sud/jjimjilbang.jpg',
   },
   {
     slug: 'bulguksa-seokguram',
@@ -266,7 +270,8 @@ export const esperienzeCoreaDelSud: Esperienza[] = [
       'Lo stagno di Anapji dopo il tramonto, che è il momento più bello della giornata a Gyeongju',
     ],
     tripSlugs: ['corea-del-sud-itinerario'],
-    imageAlt: 'Le terrazze di pietra e le pagode del tempio di Bulguksa a Gyeongju',
+    imageAlt: 'Le scalinate in pietra e i padiglioni del tempio di Bulguksa, Gyeongju',
+    immagine: '/images/corea-del-sud/bulguksa-seokguram.jpg',
   },
   {
     slug: 'templestay',
@@ -296,7 +301,8 @@ export const esperienzeCoreaDelSud: Esperienza[] = [
       'Una visita in giornata a un tempio di montagna, per chi non vuole impegnare una notte',
     ],
     tripSlugs: ['corea-del-sud-itinerario'],
-    imageAlt: 'Il cortile di un monastero buddista coreano di montagna all\'alba, con le lanterne colorate',
+    imageAlt: 'Il cortile e le sale del monastero buddista di Haeinsa tra le montagne',
+    immagine: '/images/corea-del-sud/templestay.jpg',
   },
   {
     slug: 'gamcheon-busan',
@@ -324,6 +330,7 @@ export const esperienzeCoreaDelSud: Esperienza[] = [
       'Il sentiero costiero di Igidae, con la vista frontale sullo skyline di Haeundae',
     ],
     tripSlugs: ['corea-del-sud-itinerario'],
-    imageAlt: 'I vicoli e le case colorate a gradoni del villaggio di Gamcheon, Busan',
+    imageAlt: 'Le case colorate del villaggio di Gamcheon arrampicate sulla collina, Busan',
+    immagine: '/images/corea-del-sud/gamcheon-busan.jpg',
   },
 ]

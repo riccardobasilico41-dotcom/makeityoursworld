@@ -309,7 +309,8 @@ export const esperienzeNorvegia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Il Norsk Folkemuseum, il museo a cielo aperto della vita tradizionale norvegese, sulla stessa penisola di Bygdøy'],
     tripSlugs: ['capitali-nordiche'],
-    imageAlt: 'La nave polare Fram esposta all\'interno del Fram Museum sulla penisola di Bygdøy, Oslo',
+    imageAlt: 'La prua in legno della nave polare Fram con l\'ancora, esposta all\'interno del Fram Museum sulla penisola di Bygdøy, Oslo',
+    immagine: '/images/norvegia/bygdoy-musei-fram-kontiki.jpg',
   },
   {
     slug: 'oslofjord-crociera',

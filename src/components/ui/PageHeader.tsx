@@ -10,7 +10,7 @@ export type Credito = { autore: string; licenza: string; fonteUrl: string }
  * Apertura unica di tutte le pagine interne, Stile A "Ghat" (stessa grammatica
  * dell'hero della Home): briciole di pane, etichetta rossa, titolo grotesk a
  * scala fissa, sottotitolo, dati e azioni a sinistra; a destra la foto o il
- * video vero, con il credito sotto. Senza media diventa una testata tipografica
+ * video vero, senza didascalie (crediti in /crediti-fotografici). Senza media diventa una testata tipografica
  * a colonna unica, allineata al contenitore della pagina.
  * Sempre chiusa da una riga spessa (border-b-2), mai fondi scuri o sfumature.
  */
@@ -24,8 +24,6 @@ export function PageHeader({
   meta,
   actions,
   media,
-  credito,
-  luogo,
 }: {
   crumbs?: Crumb[]
   eyebrow?: ReactNode
@@ -37,8 +35,8 @@ export function PageHeader({
   meta?: ReactNode
   actions?: ReactNode
   media?: Media
+  /** Non più mostrato sotto la foto: i crediti sono raccolti in /crediti-fotografici. */
   credito?: Credito
-  /** Didascalia del luogo prima del credito. */
   luogo?: string
 }) {
   const testo = (
@@ -53,7 +51,7 @@ export function PageHeader({
                   {c.label}
                 </Link>
               ) : (
-                <span aria-current="page" className="text-ink">
+                <span aria-current="page" className="inline-block max-w-[22ch] truncate align-bottom text-ink sm:max-w-[48ch]" title={c.label}>
                   {c.label}
                 </span>
               )}
@@ -94,26 +92,6 @@ export function PageHeader({
         <div className="relative aspect-[4/3] w-full overflow-hidden bg-cream-dark lg:aspect-auto lg:flex-1">
           <HeaderMedia media={media} />
         </div>
-        {(credito || luogo) && (
-          <figcaption className="px-4 py-3 text-xs text-stone sm:px-8 lg:px-4">
-            {luogo}
-            {luogo && credito && '. '}
-            {credito && (
-              <>
-                {media.tipo === 'video' ? 'Video' : 'Foto'}:{' '}
-                <a
-                  href={credito.fonteUrl}
-                  className="underline underline-offset-2 hover:text-rosso"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  {credito.autore}
-                </a>
-                , {credito.licenza}
-              </>
-            )}
-          </figcaption>
-        )}
       </figure>
     </section>
   )

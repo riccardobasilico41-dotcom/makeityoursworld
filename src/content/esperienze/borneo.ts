@@ -1,11 +1,7 @@
 import type { Esperienza } from '@/lib/types'
 
-// I campi miaEsperienza e i giudizi sono bozze scritte da Claude nella voce
-// del diario, coerenti con ciò che è oggettivamente vero di ogni esperienza
-// (quote, permessi, stagione, probabilità di avvistamento) ma non basate su
-// ricordi reali: vanno riletti e confermati o corretti. Nessun operatore,
-// lodge o resort è stato inventato.
-// Le quote dei permessi (Kinabalu, Sipadan) cambiano: vanno riverificate.
+// Nessun operatore, lodge o resort è stato inventato. Le quote dei permessi
+// (Kinabalu, Sipadan) cambiano: vanno riverificate.
 
 export const esperienzeBorneo: Esperienza[] = [
   {
@@ -37,7 +33,8 @@ export const esperienzeBorneo: Esperienza[] = [
       'La via ferrata sommitale, la più alta del mondo, per chi ha già il permesso di salita e vuole aggiungere una giornata',
     ],
     tripSlugs: ['borneo-itinerario'],
-    imageAlt: 'Escursionisti sulla piattaforma di granito della vetta del Monte Kinabalu all\'alba, Sabah',
+    imageAlt: 'Escursionisti sulle placche di granito della vetta del Monte Kinabalu, sopra il mare di nuvole',
+    immagine: '/images/borneo/monte-kinabalu.jpg',
   },
   {
     slug: 'sepilok-oranghi',
@@ -127,7 +124,8 @@ export const esperienzeBorneo: Esperienza[] = [
       'Le isole del parco marino di Tunku Abdul Rahman a Kota Kinabalu, per snorkeling facile e senza permessi',
     ],
     tripSlugs: ['borneo-itinerario'],
-    imageAlt: 'Tartaruga marina e parete corallina a picco nel sito di immersione di Sipadan, Sabah',
+    imageAlt: 'Un banco di pesci sopra la barriera corallina nelle acque di Sipadan',
+    immagine: '/images/borneo/diving-sipadan.jpg',
   },
   {
     slug: 'bako-nasiche',
@@ -156,6 +154,7 @@ export const esperienzeBorneo: Esperienza[] = [
       'Una notte in longhouse iban lungo il Batang Ai, per la parte culturale del Sarawak',
     ],
     tripSlugs: [],
-    imageAlt: 'Un maschio di nasica su un ramo nel parco nazionale di Bako, Sarawak',
+    imageAlt: 'Una nasica seduta su un ramo nel parco nazionale di Bako, Sarawak',
+    immagine: '/images/borneo/bako-nasiche.jpg',
   },
 ]

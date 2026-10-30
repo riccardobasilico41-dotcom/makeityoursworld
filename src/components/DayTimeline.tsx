@@ -2,7 +2,6 @@ import Link from 'next/link'
 import { Route, BedDouble, Coins, Gauge, ArrowUpRight } from 'lucide-react'
 import { Prose } from './Prose'
 import { Reveal } from './Reveal'
-import { ContentStatusBadge } from './ui/ContentStatusBadge'
 import type { ViaggioGiorno } from '@/lib/viaggi'
 import type { GiornoMeta, IntensitaGiorno } from '@/lib/types'
 
@@ -78,7 +77,6 @@ export function DayTimeline({
                         <dt className="text-xs text-stone/60">Pernottamento</dt>
                         <dd className="flex flex-wrap items-center gap-1.5 text-ink">
                           {info.pernottamento}
-                          {info.statoPernottamento && <ContentStatusBadge stato={info.statoPernottamento} />}
                         </dd>
                       </div>
                     </div>

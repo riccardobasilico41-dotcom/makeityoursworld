@@ -2,13 +2,10 @@ import type { Paese } from '@/lib/types'
 
 // Paese trattato soprattutto come destinazione da stopover lungo, che è il
 // modo in cui quasi tutti ci arrivano: il confronto tra i programmi stopover
-// delle compagnie del Golfo sta nella scheda Dubai.
-// I campi miaEsperienza sono bozze scritte da Claude nella voce del diario,
-// basate su ciò che è oggettivamente vero di ogni posto e non su ricordi
-// reali: vanno riletti e sostituiti. Nessun nome di hotel, ristorante o
-// operatore è stato inventato.
-// Regole d\'ingresso e condizioni dei programmi stopover cambiano spesso:
-// vanno riverificate sui siti ufficiali delle compagnie prima di prenotare.
+// delle compagnie del Golfo sta nella scheda Dubai. Nessun nome di hotel,
+// ristorante o operatore è stato inventato. Regole d\'ingresso e condizioni
+// dei programmi stopover cambiano spesso: vanno riverificate sui siti
+// ufficiali delle compagnie prima di prenotare.
 
 export const emiratiArabiUniti: Paese = {
   slug: 'emirati-arabi-uniti',
@@ -50,6 +47,7 @@ export const emiratiArabiUniti: Paese = {
     emergenze: 'Polizia 999, ambulanza 998, vigili del fuoco 997. L\'Ambasciata d\'Italia è ad Abu Dhabi, con Consolato generale a Dubai.',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'Lo skyline di Dubai con il Burj Khalifa al tramonto',
+  heroImageAlt: 'Lo skyline di Dubai con il Burj Khalifa illuminato di notte e riflesso nell\'acqua',
+  heroImage: '/images/emirati-arabi-uniti/emirati-arabi-uniti-paese.jpg',
   tripPrincipaleSlug: 'stopover-golfo',
 }

@@ -61,6 +61,7 @@ export const lituania: Paese = {
     emergenze: 'Numero unico europeo 112. L\'Ambasciata d\'Italia è a Vilnius.',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'La Cattedrale di Vilnius e la Torre di Gediminas sulla collina, con il centro storico barocco sullo sfondo',
+  heroImageAlt: 'Piazza della Cattedrale a Vilnius con la Cattedrale neoclassica, il campanile e la statua di Gediminas',
+  heroImage: '/images/lituania/lituania-paese.jpg',
   tripPrincipaleSlug: 'capitali-baltiche',
 }

@@ -2,7 +2,6 @@ import Link from 'next/link'
 import Image from 'next/image'
 import { Landmark } from 'lucide-react'
 import type { Meraviglia } from '@/lib/types'
-import { ContentStatusBadge } from './ui/ContentStatusBadge'
 
 export function MeravigliaCard({ meraviglia }: { meraviglia: Meraviglia }) {
   return (
@@ -32,9 +31,6 @@ export function MeravigliaCard({ meraviglia }: { meraviglia: Meraviglia }) {
         )}
         {meraviglia.heroImage && (
           <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/60 via-black/5 to-transparent" />
-        )}
-        {meraviglia.visitataPersonalmente && (
-          <ContentStatusBadge stato="provato" className="absolute right-4 top-4 z-10" />
         )}
         <p className="relative z-10 text-xs font-semibold uppercase tracking-[0.18em] text-cream/70">
           {meraviglia.paese}

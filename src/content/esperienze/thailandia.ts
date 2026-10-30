@@ -45,7 +45,8 @@ export const esperienzeThailandia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['thailandia'],
-    imageAlt: 'Crociera al tramonto tra le torri calcaree del lago Cheow Lan, Thailandia',
+    imageAlt: 'Le acque calme e le montagne del parco nazionale di Khao Sok sotto un cielo nuvoloso, viste da un kayak',
+    immagine: '/images/thailandia/crociera-cheow-lan.jpg',
   },
   {
     slug: 'bond-island-canoa',
@@ -66,7 +67,8 @@ export const esperienzeThailandia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['thailandia'],
-    imageAlt: 'Koh Ta Poo (Bond Island) nella baia di Phang Nga, Thailandia',
+    imageAlt: 'Il pinnacolo calcareo di Ko Tapu davanti alle falesie di Khao Phing Kan nella baia di Phang Nga',
+    immagine: '/images/thailandia/bond-island-canoa.jpg',
   },
   {
     slug: 'elephant-nature-park',
@@ -87,7 +89,8 @@ export const esperienzeThailandia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['Altri centri etici della zona, verificando sempre che non prevedano di cavalcare gli animali'],
     tripSlugs: ['thailandia'],
-    imageAlt: 'Elefanti che fanno il bagno nel fiume all\'Elephant Nature Park, Chiang Mai, Thailandia',
+    imageAlt: 'Visitatori che lavano un elefante nel fiume all\'Elephant Nature Park, con altri elefanti sulla riva',
+    immagine: '/images/thailandia/elephant-nature-park.jpg',
   },
   {
     slug: 'snorkeling-similan',
@@ -108,7 +111,8 @@ export const esperienzeThailandia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['thailandia'],
-    imageAlt: 'Snorkeling nelle acque cristalline delle Isole Similan, Thailandia',
+    imageAlt: 'Un isolotto coperto di foresta nel mare turchese delle isole Similan, con una barca all\'ancora',
+    immagine: '/images/thailandia/snorkeling-similan.jpg',
   },
   {
     slug: 'full-moon-party',
@@ -127,6 +131,7 @@ export const esperienzeThailandia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Il lato nord di Koh Phangan (Thong Nai Pan), molto più tranquillo fuori dalle notti di luna piena'],
     tripSlugs: [],
-    imageAlt: 'La spiaggia di Haad Rin durante la Full Moon Party, Koh Phangan, Thailandia',
+    imageAlt: 'La baia di Haad Rin Nok a Koh Phangan, la spiaggia del Full Moon Party, vista di giorno dalla collina',
+    immagine: '/images/thailandia/full-moon-party.jpg',
   },
 ]

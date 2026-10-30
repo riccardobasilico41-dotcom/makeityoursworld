@@ -48,7 +48,8 @@ export const esperienzeDanimarca: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Il bike-sharing cittadino Bycyklen, self-service e senza guida, per chi preferisce muoversi in autonomia senza prenotare un tour'],
     tripSlugs: ['capitali-nordiche'],
-    imageAlt: 'Ciclisti su una pista ciclabile separata nel centro di Copenaghen, con biciclette parcheggiate lungo la strada',
+    imageAlt: 'Ciclisti su un\'ampia pista ciclabile separata dalla strada nel centro di Copenaghen, tra palazzi storici',
+    immagine: '/images/danimarca/copenaghen-tour-in-bicicletta.jpg',
   },
   {
     slug: 'christiania-visita',
@@ -69,7 +70,8 @@ export const esperienzeDanimarca: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: [],
     tripSlugs: ['capitali-nordiche'],
-    imageAlt: 'Murales colorati su una casa autocostruita a Christiania, Copenaghen',
+    imageAlt: 'Un edificio in mattoni decorato con murales colorati e una foglia di cannabis dipinta, con biciclette parcheggiate davanti, a Christiania, Copenaghen',
+    immagine: '/images/danimarca/christiania-visita.jpg',
   },
   {
     slug: 'smorrebrod-tour-torvehallerne',

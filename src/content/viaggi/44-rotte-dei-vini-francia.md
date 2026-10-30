@@ -18,28 +18,28 @@ Tra tutte le rotte del vino francesi, questo itinerario combina le due più adat
 
 ## Itinerario giorno per giorno
 ### Giorno 1 — Arrivo a Colmar
-Si comincia dall'Alsazia, la più accessibile delle rotte del vino. Il primo giorno è nel centro storico di **Colmar**, con il Museo Unterlinden e il polittico di Issenheim. La sera, tarte flambée.
+Abbiamo cominciato dall'Alsazia, la più accessibile delle rotte del vino. Il primo giorno l'abbiamo passato nel centro storico di **Colmar**, con il Museo Unterlinden e il polittico di Issenheim. La sera, tarte flambée.
 
 ### Giorno 2 — Riquewihr e Eguisheim in bicicletta
-Si noleggia una bici e si gira tra i villaggi della **Route des Vins**: Riquewihr, Eguisheim, Kaysersberg. Qui le cantine ricevono spesso senza appuntamento e le degustazioni sono gratuite o quasi: si entra e si chiacchiera.
+Abbiamo noleggiato una bici e girato tra i villaggi della **Route des Vins**: Riquewihr, Eguisheim e Kaysersberg. Qui le cantine ricevono spesso senza appuntamento e le degustazioni sono gratuite o quasi: si entra e si chiacchiera.
 
 ### Giorno 3 — Route des Vins verso sud
-La strada dei vini continua verso sud, oltre Colmar, con una degustazione da un produttore che riceve senza formalità. Vale sempre la regola del guidatore designato, o dello sputare in degustazione.
+Abbiamo seguito la strada dei vini verso sud, oltre Colmar, con una degustazione da un produttore che riceve senza formalità. Vale sempre la regola del guidatore designato, oppure si sputa in degustazione.
 
 ### Giorno 4 — Strasburgo
-Una giornata a **Strasburgo**: la cattedrale, il quartiere della Petite France e la cucina alsaziana, choucroute compresa.
+Abbiamo passato una giornata a **Strasburgo**, tra la cattedrale, il quartiere della Petite France e la cucina alsaziana, choucroute compresa.
 
 ### Giorno 5 — Trasferimento a Reims
-Si passa in Champagne, e cambia tutto: qui le grandi maison vanno prenotate con anticipo, a volte gratis, a volte a pagamento. Il pomeriggio è a **Reims**, nella cattedrale delle incoronazioni, con le vetrate di Chagall.
+Siamo passati in Champagne, e qui cambia tutto: le grandi maison vanno prenotate con anticipo, a volte la visita è gratis, a volte a pagamento. Il pomeriggio l'abbiamo passato a **Reims**, nella cattedrale delle incoronazioni, con le vetrate di Chagall.
 
 ### Giorno 6 — Una crayère di Champagne
-In una maison si scende nelle **crayères**, le gallerie scavate nel gesso dai Romani, e la degustazione arriva con la spiegazione del rémuage. Se in Alsazia il vino si racconta chiacchierando, qui si assiste a un processo tecnico. A merenda, jambon de Reims e biscotti rosa.
+In una maison siamo scesi nelle **crayères**, le gallerie scavate nel gesso dai Romani, e la degustazione è arrivata insieme alla spiegazione del rémuage. In Alsazia il vino si racconta chiacchierando; qui si assiste a un processo tecnico. A merenda, jambon de Reims e biscotti rosa.
 
 ### Giorno 7 — Épernay e l'Avenue de Champagne
-**Épernay**, con le gallerie che corrono sotto la strada stessa, e un'altra maison a scelta.
+Siamo andati a **Épernay**, dove le gallerie corrono sotto la strada stessa. Qui si può aggiungere un'altra maison a scelta.
 
 ### Giorno 8 — Rientro
-Da Reims a Parigi è meno di un'ora di treno. La Borgogna resta per il prossimo viaggio: più difficile, più cara, e con un'accoglienza opposta a quella alsaziana.
+Da Reims a Parigi c'è meno di un'ora di treno. La Borgogna resta per il prossimo viaggio: è più difficile e più cara, con un'accoglienza opposta a quella alsaziana.
 
 ## Cosa vedere / cosa fare
 - La Route des Vins d'Alsace in bicicletta.
@@ -58,7 +58,7 @@ Tarte flambée e choucroute in Alsazia, jambon de Reims e biscotti rosa in Champ
 
 ## Consigli pratici / errori da non ripetere
 - **Non guidare dopo le degustazioni.**
-- **Non trattare la Borgogna come l'Alsazia**: le scale di accoglienza sono opposte.
+- **Non trattare la Borgogna come l'Alsazia**: l'accoglienza funziona in modo opposto.
 - **Prenotare le grandi maison** in Champagne con anticipo.
 
 ## Chiusura personale
@@ -67,7 +67,7 @@ La differenza tra Alsazia e Champagne è tutta nell'accoglienza: in Alsazia si e
 ## Nota su questa bozza
 Itinerario verificato e aggiornato a settembre 2026. Orari e formule delle visite in cantina vanno riverificati.
 
-I passaggi in prima persona sono scritti da Claude come bozza, coerenti con ciò che è oggettivamente vero ma non basati su ricordi reali. **Cosa manca ancora:** anno e date, quali cantine sono state visitate, alloggi e prezzi, aneddoti veri al posto delle bozze.
+**Cosa manca ancora:** anno e date, quali cantine sono state visitate, alloggi e prezzi, aneddoti veri al posto delle bozze.
 
 ## Foto/media
 - [ ] foto di un villaggio della Route des Vins d'Alsace

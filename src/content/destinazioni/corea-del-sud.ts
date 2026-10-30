@@ -1,14 +1,10 @@
 import type { Destinazione } from '@/lib/types'
 
-// I campi miaEsperienza sono bozze scritte da Claude nella voce del diario,
-// basate su ciò che è oggettivamente vero di ogni posto (orari, regole
-// d\'accesso, stagione, affollamento) e non su ricordi reali: vanno riletti e
-// sostituiti con i tuoi. Nessun nome di hotel, ristorante o operatore è stato
-// inventato.
-// Le parti storiche — la DMZ e la cultura delle haenyeo a Jeju — sono scritte
-// su fonti verificabili (date, cifre, status UNESCO) e non ricostruite: i
-// numeri vanno però riverificati, perché cambiano di anno in anno. Lo stesso
-// vale per l\'accesso alla JSA di Panmunjom, sospeso e riaperto più volte.
+// Nessun nome di hotel, ristorante o operatore è stato inventato. Le parti
+// storiche — la DMZ e la cultura delle haenyeo a Jeju — sono scritte su fonti
+// verificabili (date, cifre, status UNESCO) e non ricostruite: i numeri vanno
+// però riverificati, perché cambiano di anno in anno. Lo stesso vale per
+// l\'accesso alla JSA di Panmunjom, sospeso e riaperto più volte.
 
 export const destinazioniCoreaDelSud: Destinazione[] = [
   {
@@ -99,7 +95,8 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       'Seoul spiazza perché non somiglia a nessuna delle altre capitali asiatiche: è ordinata, silenziosa per le sue dimensioni, e si cammina. La cosa che colpisce di più non sono i palazzi, che sono belli ma in larga parte ricostruiti, è il fatto che tutto quello che si guarda ha meno di settant\'anni — nel 1953 la città era in macerie e quasi nessuno degli edifici che si vedono oggi esisteva. Il Memoriale della Guerra è il posto dove questa cosa diventa concreta, ed è il motivo per cui va visto prima della DMZ e non dopo: senza, il confine resta una gita fotografica. Sul cibo non ci sono avvertenze da fare, solo una constatazione: il meccanismo dei banchan, con dieci contorni che arrivano gratis e vengono rimpiazzati senza chiedere niente, è la cosa che più fa venire voglia di tornare. E il jjimjilbang, la sauna aperta 24 ore dove intere famiglie dormono per terra su stuoie, è l\'istituzione più coreana che ci sia.',
     esperienzeSlugs: ['gyeongbokgung-hanbok', 'gwangjang-cibo-strada', 'jjimjilbang'],
     tripSlugs: ['corea-del-sud-itinerario'],
-    imageAlt: 'Il palazzo Gyeongbokgung con i grattacieli di Seoul e le montagne sullo sfondo',
+    imageAlt: 'Un vicolo di case tradizionali hanok nel villaggio di Bukchon, con i grattacieli di Seoul sullo sfondo',
+    immagine: '/images/corea-del-sud/seoul.jpg',
   },
   {
     slug: 'dmz',
@@ -196,7 +193,8 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       'La DMZ è la tappa che più di ogni altra va preparata leggendo, perché il paesaggio da solo non dice quasi niente: sono colline, filo spinato, un parcheggio e un pullman. Quello che la rende una delle giornate più forti di tutto il viaggio è sapere cosa si sta guardando. Il Terzo Tunnel è il punto in cui diventa fisico: si scende per centinaia di metri lungo una galleria di servizio ripidissima, poi si prosegue curvi dentro un cunicolo scavato nella roccia con il caschetto che batte contro il soffitto, e a un certo punto c\'è una barriera di cemento oltre la quale il tunnel continua verso nord. Fu scoperto nel 1978, è largo poco più di un metro e mezzo, e attraverso di esso sarebbero potuti passare trentamila uomini all\'ora a quaranta chilometri da Seoul. Dall\'Osservatorio di Dora, con il binocolo, si vedono i campi coltivati del Nord e il villaggio di Kijong-dong, costruito perché lo si guardasse: file di case con le finestre senza vetri e le luci accese a orario. Ma la cosa che resta più a lungo è la stazione di Dorasan, tirata a lucido, con i tabelloni delle partenze, i tornelli e il personale in servizio, che aspetta dal 2002 un treno per Pyongyang. Il cartello dice: non l\'ultima stazione del Sud, la prima verso il Nord.',
     esperienzeSlugs: ['tour-dmz-terzo-tunnel', 'jsa-panmunjom'],
     tripSlugs: ['corea-del-sud-itinerario'],
-    imageAlt: 'Il filo spinato e la recinzione lungo il confine della Zona Demilitarizzata coreana con il fiume Imjin',
+    imageAlt: 'La zona demilitarizzata tra le due Coree vista da un posto di osservazione, con le colline del Nord all\'orizzonte',
+    immagine: '/images/corea-del-sud/dmz.jpg',
   },
   {
     slug: 'sokcho-seoraksan',
@@ -242,7 +240,8 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       'Il Seoraksan è bello ma il vero motivo per venire fin qui, almeno per come è andata, sta a valle. Sokcho è una città di mare ordinaria fino a quando non si scopre cos\'è il quartiere di Abai: fu costruito dai profughi arrivati dal Nord durante la guerra, convinti di fermarsi qualche mese, e rimasti per sempre. Ci si arriva attraversando un canale su una chiatta a fune che i passeggeri tirano a mano, tutti insieme, con dei ganci: costa pochi centesimi, dura due minuti e vale più di molte attrazioni. Sul monte, la salita a Ulsanbawi è dura nel tratto finale — ottocento gradini metallici su una parete di granito, con il vuoto sotto — ma la vista dalla cima sulla costa e sul mare vale la fatica. E va detto che chi ci arriva in un fine settimana di ottobre trova una fila di persone sui gradini e un\'attesa che toglie il senso alla giornata: qui più che altrove il giorno feriale non è un consiglio, è la condizione.',
     esperienzeSlugs: [],
     tripSlugs: ['corea-del-sud-itinerario'],
-    imageAlt: 'Le creste di granito del parco nazionale del Seoraksan con il foliage autunnale, Corea del Sud',
+    imageAlt: 'Una cabina della funivia del Seoraksan sopra le foreste del parco nazionale',
+    immagine: '/images/corea-del-sud/sokcho-seoraksan.jpg',
   },
   {
     slug: 'andong',
@@ -287,7 +286,8 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       'Hahoe è una delle tappe che quasi nessun itinerario straniero include e che invece spiega più cose di molti musei. Non è un villaggio ricostruito: ci vivono ancora i discendenti della stessa famiglia, le case sono abitate, e nei cortili ci sono panni stesi e attrezzi agricoli. La cosa che colpisce è l\'urbanistica sociale — le case dei nobili con i tetti di tegole stanno in alto e al centro, quelle dei contadini con i tetti di paglia attorno, e la gerarchia si legge camminando. La danza delle maschere è l\'altra faccia della stessa medaglia: una volta l\'anno i contadini mettevano in scena uno spettacolo in cui il monaco è corrotto e il nobile è un idiota, e i nobili assistevano. Dormirci è quello che cambia la visita: alle cinque i pullman se ne vanno tutti insieme e restano il fiume, i cani e qualche vecchio seduto fuori.',
     esperienzeSlugs: [],
     tripSlugs: ['corea-del-sud-itinerario'],
-    imageAlt: 'Le case tradizionali dal tetto di paglia del villaggio di Hahoe nell\'ansa del fiume, Andong',
+    imageAlt: 'Il villaggio di Hahoe nell\'ansa del fiume Nakdong, con le montagne alle spalle, Andong',
+    immagine: '/images/corea-del-sud/andong.jpg',
   },
   {
     slug: 'gyeongju',
@@ -335,7 +335,8 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       'Gyeongju è la tappa che si sottovaluta sulla carta e che poi si rivela la più riposante e forse la più bella del viaggio. La particolarità è che i tumuli reali non sono stati recintati in un parco archeologico: stanno in mezzo alla città, sono colline erbose alte venti metri accanto a un incrocio, e ci si gira attorno in bicicletta come se niente fosse. Uno di essi è aperto e si entra dentro, con la corona d\'oro esposta nel punto esatto in cui fu trovata. Bulguksa è bellissimo e molto affollato, mentre Seokguram, lassù sul monte, è la cosa che lascia il segno: una grotta artificiale costruita nell\'VIII secolo con blocchi di granito incastrati senza malta, con un Buddha seduto che guarda verso il mare d\'Oriente. Va detto che si osserva da dietro un vetro, dall\'anticamera, e che chi non lo sa in anticipo resta deluso. Il momento migliore resta però Anapji dopo il buio, con i padiglioni riflessi nello stagno: dura mezz\'ora e vale la giornata.',
     esperienzeSlugs: ['bulguksa-seokguram', 'templestay'],
     tripSlugs: ['corea-del-sud-itinerario'],
-    imageAlt: 'I tumuli funerari erbosi del parco di Daereungwon a Gyeongju al tramonto',
+    imageAlt: 'I padiglioni del palazzo di Donggung illuminati e riflessi nello stagno di Wolji al crepuscolo, Gyeongju',
+    immagine: '/images/corea-del-sud/gyeongju.jpg',
   },
   {
     slug: 'busan',
@@ -384,7 +385,8 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       'Busan si prende bene proprio perché non è Seoul: è più disordinata, più rumorosa, la gente parla più forte e il dialetto si sente anche senza conoscere il coreano. Gamcheon è il posto di cui tutti mostrano le foto e su cui vale la pena essere precisi: quelle case colorate sulla collina non sono un quartiere artistico, sono nate come baraccopoli per i profughi di guerra, e la vernice è arrivata solo negli anni Duemila con un progetto di riqualificazione. Sapendolo, camminarci dentro è una cosa diversa dal fotografarlo. La tappa che invece nessuno mette in programma e che resta di più è il cimitero delle Nazioni Unite: file di lapidi di ragazzi di ventidue paesi diversi, molti di vent\'anni, in un giardino silenzioso in mezzo alla città. Dopo la DMZ, che è tutta geopolitica, lì la guerra torna a essere fatta di nomi. Sul cibo, invece, un solo consiglio: il dwaeji gukbap sembra una zuppa qualsiasi e invece è nato dalla fame di questa città nel 1951, e mangiarlo in uno dei locali storici vicino al porto è la cosa più busanese che si possa fare.',
     esperienzeSlugs: ['gamcheon-busan'],
     tripSlugs: ['corea-del-sud-itinerario'],
-    imageAlt: 'Le case colorate del villaggio di Gamcheon aggrappate alla collina, Busan',
+    imageAlt: 'La spiaggia di Haeundae di notte con le torri dell\'LCT illuminate, Busan',
+    immagine: '/images/corea-del-sud/busan.jpg',
   },
   {
     slug: 'jeonju',
@@ -428,7 +430,8 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       'Jeonju è una tappa che si giustifica per una ragione sola, ed è sufficiente: si viene qui a mangiare. Il bibimbap servito nella ciotola di ottone, con il riso cotto nel brodo invece che nell\'acqua, è un\'altra cosa rispetto a quello che si mangia altrove — più ricco, più profondo, e va mescolato con energia fino a rendere tutto omogeneo, che è l\'opposto di come lo tratta chi vuole conservare la disposizione per la fotografia. Il villaggio di hanok, va detto onestamente, è molto turistico: la via principale è una fila continua di banchi di street food e di negozi che noleggiano hanbok, e nel fine settimana ci si muove a fatica. Ma bastano due traverse per trovare cortili silenziosi e case ancora abitate, e dormire in una hanok con il pavimento caldo sotto la schiena è una di quelle cose che si ricordano meglio di molte attrazioni.',
     esperienzeSlugs: [],
     tripSlugs: ['corea-del-sud-itinerario'],
-    imageAlt: 'I tetti curvi delle case hanok del villaggio tradizionale di Jeonju visti dall\'alto',
+    imageAlt: 'I tetti in tegole del villaggio hanok di Jeonju visti dall\'alto, con la città moderna alle spalle',
+    immagine: '/images/corea-del-sud/jeonju.jpg',
   },
   {
     slug: 'jeju',
@@ -553,6 +556,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       'Jeju viene venduta come isola di vacanza e questa è la lettura sbagliata: il mare è freddo, il vento non smette mai, e quello che vale è la terra e soprattutto chi ci lavora. Le haenyeo sono il motivo per cui vale la pena arrivare fin qui, e conviene sapere in cosa si sta entrando prima di cercarle. Scendono in apnea fino a dieci metri, senza bombole, con la sola muta, per raccogliere molluschi e alghe; stanno sotto un paio di minuti e riemergono con un fischio acutissimo — il sumbisori — che serve a buttare fuori l\'anidride carbonica in un colpo solo, e che dal molo si sente prima di vedere qualsiasi cosa. Riconoscono le proprie compagne da quel suono. La cosa che spiazza davvero però non è tecnica: sono le età. La donna che esce dall\'acqua con la rete piena ha settantacinque anni, e non è un\'eccezione — oltre il sessanta per cento di loro ha superato i settanta, e da poco più di quattromila sono scese attorno alle duemilaseicento in poco più di dieci anni. Il museo di Gujwa spiega il resto, compresa la parte che nessun tour racconta: qui le donne hanno portato il reddito in casa per secoli, con un\'autonomia economica che nel resto della Corea confuciana non esisteva, e nel 1932 furono loro a guidare una delle più grandi proteste contro il dominio giapponese. Vederle oggi significa vedere la fine di qualcosa, e questa è la ragione per cui va fatto adesso.',
     esperienzeSlugs: ['haenyeo-jeju', 'seongsan-ilchulbong', 'hallasan'],
     tripSlugs: ['corea-del-sud-itinerario'],
-    imageAlt: 'Una haenyeo di Jeju riemerge con il tewak, il galleggiante arancione, lungo la costa dell\'isola',
+    imageAlt: 'La costa di Yongmeori e il mare vista dal monte Sanbangsan, isola di Jeju',
+    immagine: '/images/corea-del-sud/jeju.jpg',
   },
 ]

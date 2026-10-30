@@ -66,6 +66,7 @@ export const spagna: Paese = {
     emergenze: 'Numero unico europeo 112, attivo su tutto il territorio incluse le isole. Ambasciata d\'Italia a Madrid; Consolati a Barcellona, e consolati onorari in diverse città, Canarie e Baleari comprese.',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'Collage ideale delle quattro Spagne: i patii dell\'Alhambra di Granada, le dune vulcaniche di Timanfaya a Lanzarote, le calette di Minorca e i tetti di Bilbao sotto la Ria del Nervión',
+  heroImage: '/images/spagna/spagna-paese.jpg',
+  heroImageAlt: 'La Plaza de España di Siviglia con il canale, i ponti e il palazzo a emiciclo in mattoni',
   tripPrincipaleSlug: 'andalusia-itinerario',
 }

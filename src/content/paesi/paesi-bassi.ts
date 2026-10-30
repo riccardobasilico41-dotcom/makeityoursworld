@@ -54,6 +54,7 @@ export const paesiBassi: Paese = {
     emergenze: 'Numero unico europeo 112. L\'Ambasciata d\'Italia è all\'Aia; a Amsterdam opera un Consolato Generale d\'Italia.',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'Case a schiera lungo un canale del centro storico di Amsterdam, con biciclette parcheggiate sul ponte in primo piano',
+  heroImageAlt: 'Case a schiera con i frontoni a gradino lungo un canale di Amsterdam, con le case galleggianti ormeggiate in primo piano',
+  heroImage: '/images/paesi-bassi/paesi-bassi-paese.jpg',
   tripPrincipaleSlug: 'amsterdam-weekend',
 }

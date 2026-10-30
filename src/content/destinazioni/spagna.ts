@@ -56,7 +56,8 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     esperienzeSlugs: ['flamenco-triana', 'tapeo-siviglia'],
     tripSlugs: ['andalusia-itinerario'],
-    imageAlt: 'La Giralda e la Cattedrale di Siviglia viste dai giardini circostanti al tramonto',
+    imageAlt: 'La Giralda e le guglie della Cattedrale di Siviglia accanto a una torre delle mura del Real Alcázar',
+    immagine: '/images/spagna/siviglia.jpg',
   },
   {
     slug: 'granada',
@@ -98,7 +99,8 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     esperienzeSlugs: ['alhambra-visita', 'zambra-sacromonte'],
     tripSlugs: ['andalusia-itinerario'],
-    imageAlt: 'I Palazzi Nazridi dell\'Alhambra di Granada con la Sierra Nevada innevata sullo sfondo',
+    imageAlt: 'L\'Alhambra di Granada con il Palazzo di Carlo V e le torri nazarí illuminate dalla luce dell\'alba, con la Sierra Nevada sullo sfondo',
+    immagine: '/images/spagna/granada.jpg',
   },
   {
     slug: 'cordoba',
@@ -139,7 +141,8 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['andalusia-itinerario'],
-    imageAlt: 'La foresta di colonne e archi bicolori a doppio livello dentro la Mezquita di Córdoba',
+    imageAlt: 'La foresta di colonne e archi bicolori rossi e bianchi dentro la Mezquita di Córdoba',
+    immagine: '/images/spagna/cordoba.jpg',
   },
   {
     slug: 'ronda-pueblos-blancos',
@@ -178,7 +181,8 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['andalusia-itinerario'],
-    imageAlt: 'Il Puente Nuevo di Ronda che attraversa la profonda gola del Tajo tra le case bianche della città',
+    imageAlt: 'Il Puente Nuevo di Ronda sopra la gola del Tajo, con le case bianche affacciate sul bordo della rupe',
+    immagine: '/images/spagna/ronda-pueblos-blancos.jpg',
   },
 
   // --- NORD (Paesi Baschi, Cantabria, Asturie, Galizia) ---
@@ -222,7 +226,8 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     esperienzeSlugs: ['pintxos-crawl-donostia'],
     tripSlugs: ['spagna-nord-itinerario'],
-    imageAlt: 'La baia a conchiglia della Concha a San Sebastián vista dal Monte Igueldo al tramonto',
+    imageAlt: 'La spiaggia della Concha a San Sebastián con l\'isola di Santa Clara e il Monte Igueldo sullo sfondo',
+    immagine: '/images/spagna/san-sebastian.jpg',
   },
   {
     slug: 'bilbao',
@@ -262,7 +267,8 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     esperienzeSlugs: ['guggenheim-bilbao'],
     tripSlugs: ['spagna-nord-itinerario'],
-    imageAlt: 'Il Museo Guggenheim Bilbao in titanio di Frank Gehry riflesso nell\'estuario del Nervión',
+    imageAlt: 'Il Museo Guggenheim di Bilbao in titanio lungo la passeggiata sul Nervión, con il ponte rosso de La Salve sullo sfondo',
+    immagine: '/images/spagna/bilbao.jpg',
   },
   {
     slug: 'santiago-compostela-camino-del-norte',
@@ -303,7 +309,8 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['spagna-nord-itinerario'],
-    imageAlt: 'La facciata barocca della Cattedrale di Santiago de Compostela sulla Praza do Obradoiro',
+    imageAlt: 'La facciata barocca della Cattedrale di Santiago de Compostela sulla Praza do Obradoiro nella luce del pomeriggio',
+    immagine: '/images/spagna/santiago-compostela-camino-del-norte.jpg',
   },
 
   // --- BALEARI ---
@@ -397,7 +404,8 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     esperienzeSlugs: ['serra-tramuntana-trekking'],
     tripSlugs: ['baleari-itinerario'],
-    imageAlt: 'Il paese di pietra di Valldemossa tra gli ulivi terrazzati della Serra de Tramuntana, Mallorca',
+    imageAlt: 'Le case di pietra di Valldemossa e il campanile di Sant Bartomeu tra le montagne boscose della Serra de Tramuntana, Mallorca',
+    immagine: '/images/spagna/mallorca.jpg',
   },
   {
     slug: 'ibiza',
@@ -438,7 +446,8 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     esperienzeSlugs: ['ibiza-nord-calette'],
     tripSlugs: ['baleari-itinerario'],
-    imageAlt: 'Le mura rinascimentali di Dalt Vila a Ibiza Town illuminate al tramonto',
+    imageAlt: 'Le mura e la cattedrale di Dalt Vila sopra le case bianche del porto di Ibiza Town',
+    immagine: '/images/spagna/ibiza.jpg',
   },
   {
     slug: 'minorca',
@@ -477,7 +486,8 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['baleari-itinerario'],
-    imageAlt: 'Le acque turchesi di Cala Macarelleta circondata da pinete, Minorca',
+    imageAlt: 'La spiaggia di sabbia bianca e l\'acqua turchese di Cala Macarelleta tra le pinete, Minorca',
+    immagine: '/images/spagna/minorca.jpg',
   },
 
   // --- CANARIE ---
@@ -519,7 +529,8 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     esperienzeSlugs: ['teide-vetta-permesso'],
     tripSlugs: ['canarie-itinerario'],
-    imageAlt: 'Il paesaggio lunare di Las Cañadas ai piedi del vulcano Teide, Tenerife',
+    imageAlt: 'Il vulcano Teide visto dalla piana di Ucanca, nella caldera di Las Cañadas, Tenerife',
+    immagine: '/images/spagna/tenerife.jpg',
   },
   {
     slug: 'gran-canaria',
@@ -557,7 +568,8 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['canarie-itinerario'],
-    imageAlt: 'Le dune di sabbia di Maspalomas al tramonto, sulla costa sud di Gran Canaria',
+    imageAlt: 'Le dune di sabbia di Maspalomas nella luce radente del tramonto, con l\'oceano sullo sfondo, Gran Canaria',
+    immagine: '/images/spagna/gran-canaria.jpg',
   },
   {
     slug: 'lanzarote',
@@ -598,6 +610,7 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     esperienzeSlugs: ['timanfaya-ruta-volcanes'],
     tripSlugs: ['canarie-itinerario'],
-    imageAlt: 'Il paesaggio vulcanico multicolore del Parco Nazionale di Timanfaya, Lanzarote',
+    imageAlt: 'I coni vulcanici e le distese di cenere scura del Parco Nazionale di Timanfaya, Lanzarote',
+    immagine: '/images/spagna/lanzarote.jpg',
   },
 ]

@@ -27,7 +27,8 @@ export const esperienzePortogallo: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Percorrere lo stesso itinerario a piedi, più lento ma senza code né rischio di borseggio, fermandosi liberamente ai miradouros lungo la salita'],
     tripSlugs: ['lisbona-weekend'],
-    imageAlt: 'Il tram 28 giallo che percorre una curva stretta tra le case dell\'Alfama a Lisbona',
+    imageAlt: 'Un tram giallo della linea 28 diretto a Martim Moniz tra i palazzi del centro di Lisbona',
+    immagine: '/images/portogallo/tram-28-alfama.jpg',
   },
   {
     slug: 'pasteis-de-belem',
@@ -48,7 +49,8 @@ export const esperienzePortogallo: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Una qualunque pasticceria di quartiere in centro: il pastel de nata "generico" è comunque ottimo quasi ovunque a Lisbona, senza fila'],
     tripSlugs: ['lisbona-weekend'],
-    imageAlt: 'Un vassoio di pastéis de nata appena sfornati, con la superficie caramellata a chiazze scure, tipici della Pastéis de Belém',
+    imageAlt: 'Un pastel de nata con la crema caramellata a chiazze scure e la sfoglia croccante, servito in un caffè storico di Lisbona',
+    immagine: '/images/portogallo/pasteis-de-belem.jpg',
   },
   {
     slug: 'sintra-giornata-da-lisbona',
@@ -71,6 +73,7 @@ export const esperienzePortogallo: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Un tour organizzato da Lisbona con transfer in minivan e ingresso prioritario incluso — vedi il confronto nella scheda della destinazione Lisbona'],
     tripSlugs: ['lisbona-weekend'],
-    imageAlt: 'Il Palácio Nacional da Pena di Sintra visto dal basso, con le torri colorate che emergono dalla vegetazione della collina',
+    imageAlt: 'Le mura merlate e la torre gialla dell\'orologio del Palácio da Pena a Sintra, tra le rocce e la vegetazione',
+    immagine: '/images/portogallo/sintra-giornata-da-lisbona.jpg',
   },
 ]

@@ -20,10 +20,13 @@ export function NavPrincipale({ gruppi }: { gruppi: GruppoMenu[] }) {
   const pathname = usePathname()
   const ref = useRef<HTMLDivElement>(null)
 
-  useEffect(() => {
+  // Cambio pagina: menu chiusi (reset durante il render, non in un effetto).
+  const [percorso, setPercorso] = useState(pathname)
+  if (percorso !== pathname) {
+    setPercorso(pathname)
     setAperto(null)
     setMobile(false)
-  }, [pathname])
+  }
 
   useEffect(() => {
     function fuori(e: MouseEvent) {

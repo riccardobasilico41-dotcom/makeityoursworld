@@ -51,7 +51,8 @@ export const esperienzePaesiBassi: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Un tour guidato in bici con una guida locale, per chi preferisce muoversi in gruppo e con qualcuno che segnala le regole sul momento invece di impararle da soli'],
     tripSlugs: ['amsterdam-weekend'],
-    imageAlt: 'Una fila di biciclette a noleggio parcheggiate lungo un canale nel centro di Amsterdam',
+    imageAlt: 'Biciclette parcheggiate alla ringhiera di un ponte sul canale Binnenkant ad Amsterdam, con le case storiche sull\'altra riva',
+    immagine: '/images/paesi-bassi/amsterdam-in-bicicletta.jpg',
   },
   {
     slug: 'crociera-sui-canali-amsterdam',

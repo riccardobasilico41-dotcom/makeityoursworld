@@ -30,7 +30,8 @@ export const esperienzePolonia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Tour organizzato da Cracovia con transfer, guida e biglietto inclusi, per chi preferisce non gestire da sé prenotazione e trasporto'],
     tripSlugs: ['cracovia-weekend'],
-    imageAlt: 'I binari ferroviari che attraversano il cancello d\'ingresso di Auschwitz II-Birkenau',
+    imageAlt: 'I binari ferroviari che conducono al cancello d\'ingresso e alla torre di guardia di Auschwitz II-Birkenau sotto un cielo nuvoloso',
+    immagine: '/images/polonia/auschwitz-birkenau-visita-guidata.jpg',
   },
   {
     slug: 'wieliczka-miniera-di-sale',

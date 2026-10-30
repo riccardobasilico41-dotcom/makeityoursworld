@@ -9,49 +9,49 @@
 ---
 
 ## Apertura personale
-Parigi è la città in cui si sbaglia più spesso il programma per un motivo preciso: la metropolitana comprime le distanze in modo ingannevole, e mettere tre grandi musei in un giorno sembra ragionevole finché non si prova. Cinque giorni bastano per fare le cose grandi con calma — un grande museo al giorno, mai due — lasciando il terzo giorno vero per i quartieri che non stanno sulle cartoline.
+Parigi è la città in cui si sbaglia più spesso il programma per un motivo preciso: la metropolitana comprime le distanze in modo ingannevole, e mettere tre grandi musei in un giorno sembra ragionevole finché non si prova. Cinque giorni bastano per fare le cose grandi con calma (un grande museo al giorno, mai due) lasciando il terzo giorno vero per i quartieri che non stanno sulle cartoline.
 
 ## Scheda pratica
-- **Quando andare:** aprile-giugno e settembre-ottobre. Agosto: molti ristoranti e negozi di quartiere chiudono per settimane.
+- **Quando andare:** aprile-giugno e settembre-ottobre. Ad agosto molti ristoranti e negozi di quartiere chiudono per settimane.
 - **Musei da prenotare:** **Louvre** (fascia oraria di fatto obbligatoria, chiuso il martedì), **Orsay** (chiuso il lunedì), **Versailles** (fascia oraria obbligatoria, chiuso il lunedì).
-- **Trasporti:** metropolitana con tariffa unica semplificata dal 2025 (**importi da verificare**); da Orly la linea 14 della metro è oggi il modo più semplice di arrivare in centro.
+- **Trasporti:** metropolitana con tariffa unica semplificata dal 2025 (**gli importi cambiano: conviene controllarli prima di partire**); da Orly la linea 14 della metro è oggi il modo più semplice di arrivare in centro.
 - **Alloggio:** Marais, quartiere latino, Canal Saint-Martin/Repubblica per il miglior rapporto prezzo-posizione.
-- **Cibo:** menù di mezzogiorno sempre più conveniente della sera; caffè al banco costa la metà che al tavolo.
+- **Cibo:** il menù di mezzogiorno è sempre più conveniente di quello della sera; il caffè al banco costa la metà che al tavolo.
 
 ## Itinerario giorno per giorno
 
 ### Giorno 1 — Île de la Cité e il centro storico
-Mattina alla **Sainte-Chapelle** (solo se c'è il sole: altrimenti si sposta), poi Notre-Dame dall'esterno e, se aperta, la visita interna. Pranzo nel quartiere latino.
+La mattina siamo andati alla **Sainte-Chapelle** (solo se c'è il sole: altrimenti conviene spostarla), poi abbiamo visto Notre-Dame dall'esterno; se è aperta, si fa anche la visita interna. Abbiamo pranzato nel quartiere latino.
 
-Pomeriggio nel **Marais**: Place des Vosges, il Musée Picasso nell'Hôtel Salé, le vie strette del 3° e 4° arrondissement.
+Il pomeriggio l'abbiamo passato nel **Marais**: Place des Vosges, il Musée Picasso nell'Hôtel Salé e le vie strette del 3° e 4° arrondissement.
 
-Sera a Saint-Germain o nel Marais.
+Per la sera, Saint-Germain o di nuovo il Marais.
 
 ### Giorno 2 — Il Louvre
-Giornata dedicata al Louvre, con una strategia decisa la sera prima: due o tre ali, dieci opere, non di più. La Vittoria di Samotracia sullo scalone Daru, le antichità egizie e mesopotamiche, i sotterranei con le fondazioni del castello medievale.
+Abbiamo dedicato la giornata al Louvre, con una strategia decisa la sera prima: due o tre ali e dieci opere, non di più. La Vittoria di Samotracia sullo scalone Daru, le antichità egizie e mesopotamiche, i sotterranei con le fondazioni del castello medievale.
 
-Pomeriggio libero nei giardini delle Tuileries o al Jeu de Paume.
+Il pomeriggio resta libero, nei giardini delle Tuileries o al Jeu de Paume.
 
 ### Giorno 3 — Orsay, Orangerie e Torre Eiffel
-Mattina al **Musée d'Orsay**, con la collezione impressionista all'ultimo piano. Pranzo vicino, poi **l'Orangerie** con le due sale ovali delle Ninfee.
+La mattina siamo stati al **Musée d'Orsay**, con la collezione impressionista all'ultimo piano. Abbiamo pranzato lì vicino, poi siamo passati all'**Orangerie**, con le due sale ovali delle Ninfee.
 
-Pomeriggio verso la **Tour Eiffel**: si guarda da Trocadéro o dal Champ de Mars, non necessariamente si sale — dall'alto della torre manca la torre stessa dal panorama.
+Nel pomeriggio siamo andati verso la **Tour Eiffel**. Si guarda da Trocadéro o dal Champ de Mars, e salire non è indispensabile: dall'alto, al panorama manca proprio la torre.
 
 ### Giorno 4 — Montmartre all'alba e Versailles
-Alba a **Montmartre**: Sacré-Cœur alle sette del mattino, poi le vie laterali lontano da Place du Tertre — Rue de l'Abreuvoir, il Clos Montmartre.
+L'alba l'abbiamo vista a **Montmartre**: il Sacré-Cœur alle sette del mattino, poi le vie laterali lontano da Place du Tertre, come Rue de l'Abreuvoir e il Clos Montmartre.
 
-Nel primo pomeriggio, treno per **Versailles**: appartamenti reali e Galleria degli Specchi, poi il Domaine de Marie-Antoinette con l'Hameau de la Reine, che è la parte meno visitata e la più sorprendente.
+Nel primo pomeriggio abbiamo preso il treno per **Versailles**: appartamenti reali e Galleria degli Specchi, poi il Domaine de Marie-Antoinette con l'Hameau de la Reine, che è la parte meno visitata e la più sorprendente.
 
 ### Giorno 5 — Quartieri e chiusura
-Mattina al **Père-Lachaise**, con mappa in mano: le tombe famose e soprattutto il parco stesso, con il Mur des Fédérés.
+La mattina siamo andati al **Père-Lachaise** con la mappa in mano: le tombe famose e soprattutto il parco, con il Mur des Fédérés.
 
-Pomeriggio a scelta tra **Canal Saint-Martin**, **Belleville** o le **Catacombe** (con prenotazione con fascia oraria). Ultima sera in un bistrot di quartiere lontano dai monumenti.
+Per il pomeriggio si sceglie tra **Canal Saint-Martin**, **Belleville** o le **Catacombe** (con prenotazione a fascia oraria). L'ultima sera l'abbiamo passata in un bistrot di quartiere lontano dai monumenti.
 
 ## La versione da tre giorni
 - **Giorno 1:** Sainte-Chapelle, Marais, Louvre nel pomeriggio (strategia ridotta a un'ala).
 - **Giorno 2:** Orsay al mattino, Orangerie, Montmartre all'alba del giorno dopo o al tramonto.
 - **Giorno 3:** Versailles per l'intera giornata.
-- **Si rinuncia a:** Père-Lachaise, quartieri "non da cartolina", Catacombe. È la rinuncia giusta: su tre giorni, i grandi musei e Versailles esauriscono il tempo utile.
+- **Si rinuncia a:** Père-Lachaise, quartieri «non da cartolina», Catacombe. È la rinuncia giusta: su tre giorni, i grandi musei e Versailles esauriscono il tempo utile.
 
 ## Cosa vedere / cosa fare
 - **La Sainte-Chapelle in una giornata di sole.**
@@ -69,21 +69,21 @@ Pomeriggio a scelta tra **Canal Saint-Martin**, **Belleville** o le **Catacombe*
 Marais o Canal Saint-Martin/Repubblica per il miglior equilibrio tra prezzo, vita di quartiere e collegamenti.
 
 ## Dove abbiamo mangiato
-Menù di mezzogiorno nei bistrot di quartiere, i bouillon per la cucina classica a prezzi bassi, steak-frites, confit de canard, una baguette de tradition appena sfornata.
+Il menù di mezzogiorno nei bistrot di quartiere, i bouillon per la cucina classica a prezzi bassi, steak-frites, confit de canard, una baguette de tradition appena sfornata.
 
 ## Consigli pratici / errori da non ripetere
-- **Non prenotare Louvre e Versailles significa non entrare** nei periodi di punta.
+- **Senza prenotare Louvre e Versailles non si entra** nei periodi di punta.
 - **Controllare i giorni di chiusura** prima di costruire il programma.
 - **Non salire sulla Tour Eiffel** aspettandosi il panorama migliore: manca la torre stessa.
 - **Un grande museo al giorno**, mai due.
 
 ## Chiusura personale
-La cosa che resta di Parigi non sono i primi due giorni nei posti già conosciuti prima di partire: è il terzo, quando si esce da un museo stanchi e si prende una direzione a caso invece che verso il monumento successivo, e si finisce in un quartiere senza niente da vedere sulla lista — dove la gente è seduta sui bordi del canale e nessuno fotografa niente.
+La cosa che resta di Parigi non sono i primi due giorni nei posti già conosciuti prima di partire: è il terzo, quando si esce da un museo stanchi e si prende una direzione a caso invece che verso il monumento successivo, e si finisce in un quartiere senza niente da vedere sulla lista, dove la gente è seduta sui bordi del canale e nessuno fotografa niente.
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche verificati e aggiornati a settembre 2026. Le tariffe della metropolitana, gli orari di Notre-Dame e le formule dei biglietti Louvre/Versailles cambiano: vanno riverificati.
 
-I passaggi in prima persona sono scritti da Claude come bozza, coerenti con ciò che è oggettivamente vero ma non basati su ricordi reali. **Cosa manca ancora:** anno e date, alloggi e prezzi, quali musei sono stati fatti davvero, aneddoti veri al posto delle bozze.
+**Cosa manca ancora:** anno e date, alloggi e prezzi, quali musei sono stati fatti davvero, aneddoti veri al posto delle bozze.
 
 ## Foto/media
 - [ ] foto della Vittoria di Samotracia sullo scalone Daru

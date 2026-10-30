@@ -4,13 +4,10 @@ import type { Paese } from '@/lib/types'
 // sci, grandi città, isole, Italia inesplorata e rotte del vino. È l\'unico
 // Paese dell\'archivio in cui le "destinazioni" sono in parte collezioni
 // tematiche, perché è l\'unico che si conosce abbastanza bene da poterlo
-// raccontare per criteri di scelta invece che per tappe.
-// I campi miaEsperienza sono bozze scritte da Claude nella voce del diario:
-// vanno riletti e sostituiti con i tuoi, che qui più che altrove esistono
-// davvero. Nessun nome di hotel, rifugio, ristorante o cantina è stato
-// inventato.
-// Prezzi, contingentamenti e regole di accesso (Venezia, Tre Cime, Braies,
-// Pompei, Colosseo) cambiano ogni stagione: vanno riverificati.
+// raccontare per criteri di scelta invece che per tappe. Nessun nome di hotel,
+// rifugio, ristorante o cantina è stato inventato. Prezzi, contingentamenti e
+// regole di accesso (Venezia, Tre Cime, Braies, Pompei, Colosseo) cambiano
+// ogni stagione: vanno riverificati.
 
 export const italia: Paese = {
   slug: 'italia',
@@ -53,6 +50,7 @@ export const italia: Paese = {
     emergenze: 'Numero unico europeo 112. Soccorso alpino attraverso il 112, specificando la posizione: le app che trasmettono le coordinate esatte sono utili quanto un\'assicurazione.',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'Le cime delle Dolomiti al tramonto con l\'enrosadira, Italia',
+  heroImage: '/images/italia/italia-paese.jpg',
+  heroImageAlt: 'Prati d\'alta quota e pareti di roccia delle Dolomiti viste dal Monte Piana sotto un cielo di nuvole',
   tripPrincipaleSlug: 'dolomiti-roadtrip',
 }

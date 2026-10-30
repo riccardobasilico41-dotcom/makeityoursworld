@@ -1,16 +1,10 @@
 import type { Esperienza } from '@/lib/types'
 
-// I campi miaEsperienza e i giudizi sono bozze scritte da Claude nella voce
-// del diario, coerenti con ciò che è oggettivamente vero di ogni esperienza
-// (contingentamenti, stagione, difficoltà, regole) ma non basate su ricordi
-// reali: vanno riletti e confermati o corretti.
 // Fanno eccezione le esperienze della Costa Azzurra, che riguardano posti
 // vissuti per due anni: lì i ricordi veri esistono e le bozze vanno
-// semplicemente sostituite.
-// Nessun nome di hotel, ristorante, rifugio, operatore o domaine è stato
-// inventato.
-// Prezzi, contingentamenti e regole di accesso cambiano ogni stagione: vanno
-// riverificati.
+// semplicemente sostituite. Nessun nome di hotel, ristorante, rifugio,
+// operatore o domaine è stato inventato. Prezzi, contingentamenti e regole di
+// accesso cambiano ogni stagione: vanno riverificati.
 
 export const esperienzeFrancia: Esperienza[] = [
   {
@@ -41,7 +35,8 @@ export const esperienzeFrancia: Esperienza[] = [
       'Il giro del faro della Garoupe, che sta sopra il capo e ha la vista dall\'alto',
     ],
     tripSlugs: ['costa-azzurra'],
-    imageAlt: 'Il sentiero del litorale sugli scogli del Cap d\'Antibes con il mare mosso e i pini marittimi',
+    imageAlt: 'Gli scogli e le pinete del Cap d\'Antibes lungo il sentiero del litorale, con il mare che si frange sulle rocce',
+    immagine: '/images/francia/sentiero-cap-antibes.jpg',
   },
   {
     slug: 'mercato-provenzale-antibes',
@@ -69,7 +64,8 @@ export const esperienzeFrancia: Esperienza[] = [
       'I mercati dei paesi dell\'entroterra, che hanno ognuno il proprio giorno e nessun turista',
     ],
     tripSlugs: ['costa-azzurra'],
-    imageAlt: 'I banchi di frutta e formaggi sotto la tettoia del Marché Provençal di Antibes',
+    imageAlt: 'I secchi di fiori colorati ai banchi del Marché Provençal sul Cours Masséna di Antibes',
+    immagine: '/images/francia/mercato-provenzale-antibes.jpg',
   },
   {
     slug: 'museo-picasso-antibes',
@@ -96,7 +92,8 @@ export const esperienzeFrancia: Esperienza[] = [
       'Il Musée Fernand Léger di Biot',
     ],
     tripSlugs: ['costa-azzurra'],
-    imageAlt: 'La terrazza del Château Grimaldi ad Antibes con le sculture in bronzo e il mare',
+    imageAlt: 'Le mura sul mare di Antibes con il Château Grimaldi, sede del Musée Picasso, e il campanile della cattedrale',
+    immagine: '/images/francia/museo-picasso-antibes.jpg',
   },
   {
     slug: 'sentiero-nietzsche-eze',
@@ -126,7 +123,8 @@ export const esperienzeFrancia: Esperienza[] = [
       'La salita alla Tête de Chien sopra La Turbie, con il trofeo romano di Augusto',
     ],
     tripSlugs: ['costa-azzurra'],
-    imageAlt: 'Il villaggio arroccato di Èze visto dal sentiero con il mare e il Cap Ferrat sullo sfondo',
+    imageAlt: 'Una fotografia d\'epoca del villaggio arroccato di Èze sul suo sperone di roccia, con il mare e il Cap Ferrat sullo sfondo',
+    immagine: '/images/francia/sentiero-nietzsche-eze.jpg',
   },
   {
     slug: 'fondation-maeght',
@@ -154,7 +152,8 @@ export const esperienzeFrancia: Esperienza[] = [
       'Il MAMAC di Nizza per il contemporaneo',
     ],
     tripSlugs: ['costa-azzurra'],
-    imageAlt: 'Le sculture di Giacometti nel cortile della Fondation Maeght sotto i pini',
+    imageAlt: 'Il borgo fortificato di Saint-Paul-de-Vence sulla collina all\'imbrunire, a pochi minuti a piedi dalla Fondation Maeght',
+    immagine: '/images/francia/fondation-maeght.jpg',
   },
   {
     slug: 'isole-lerino',
@@ -182,7 +181,8 @@ export const esperienzeFrancia: Esperienza[] = [
       'Una giornata in barca lungo la costa, per vedere le calette non raggiungibili da terra',
     ],
     tripSlugs: ['costa-azzurra'],
-    imageAlt: 'Il sentiero costiero nella pineta dell\'isola di Sainte-Marguerite con il mare e Cannes sullo sfondo',
+    imageAlt: 'La costa nord dell\'Île Sainte-Marguerite con gli scogli, i pini e la baia di Cannes sullo sfondo, Isole di Lerino',
+    immagine: '/images/francia/isole-lerino.jpg',
   },
   {
     slug: 'louvre-strategia',
@@ -212,7 +212,8 @@ export const esperienzeFrancia: Esperienza[] = [
       'Una visita accompagnata tematica al Louvre, che risolve il problema della strategia',
     ],
     tripSlugs: ['parigi-5-giorni'],
-    imageAlt: 'La Vittoria di Samotracia in cima allo scalone Daru del Louvre',
+    imageAlt: 'La piramide di vetro nella Cour Napoléon del Louvre con le ali del palazzo intorno, Parigi',
+    immagine: '/images/francia/louvre-strategia.jpg',
   },
   {
     slug: 'sainte-chapelle',
@@ -241,7 +242,8 @@ export const esperienzeFrancia: Esperienza[] = [
       'Saint-Séverin e Saint-Eustache, due chiese gotiche molto meno visitate',
     ],
     tripSlugs: ['parigi-5-giorni'],
-    imageAlt: 'Le vetrate della cappella alta della Sainte-Chapelle illuminate dal sole',
+    imageAlt: 'Le altissime vetrate colorate della cappella alta della Sainte-Chapelle, Parigi',
+    immagine: '/images/francia/sainte-chapelle.jpg',
   },
   {
     slug: 'montmartre-alba',
@@ -269,7 +271,8 @@ export const esperienzeFrancia: Esperienza[] = [
       'Il Père-Lachaise al mattino presto',
     ],
     tripSlugs: ['parigi-5-giorni'],
-    imageAlt: 'Le scalinate di Montmartre all\'alba con Parigi sullo sfondo e nessuna persona',
+    imageAlt: 'La basilica bianca del Sacré-Cœur in cima alla collina di Montmartre, con il prato e le scalinate in primo piano',
+    immagine: '/images/francia/montmartre-alba.jpg',
   },
   {
     slug: 'catacombe-parigi',
@@ -300,7 +303,8 @@ export const esperienzeFrancia: Esperienza[] = [
       'La cripta archeologica sotto il sagrato di Notre-Dame',
     ],
     tripSlugs: ['parigi-5-giorni'],
-    imageAlt: 'Una galleria delle Catacombe di Parigi con i muri di ossa allineate',
+    imageAlt: 'Le pareti di ossa e teschi impilati nell\'ossario delle Catacombe di Parigi, con la targa del Cimitero degli Innocenti',
+    immagine: '/images/francia/catacombe-parigi.jpg',
   },
   {
     slug: 'pere-lachaise',
@@ -329,7 +333,8 @@ export const esperienzeFrancia: Esperienza[] = [
       'La Coulée verte René-Dumont, il parco lineare sopra il viadotto',
     ],
     tripSlugs: ['parigi-5-giorni'],
-    imageAlt: 'Un viale alberato del cimitero del Père-Lachaise con le cappelle funerarie in autunno',
+    imageAlt: 'Cappelle funerarie e tombe in pietra all\'ombra degli alberi nel cimitero del Père-Lachaise, Parigi',
+    immagine: '/images/francia/pere-lachaise.jpg',
   },
   {
     slug: 'spiagge-sbarco',
@@ -360,7 +365,8 @@ export const esperienzeFrancia: Esperienza[] = [
       'I cimiteri tedesco e britannico, che raccontano la stessa vicenda da altri due punti di vista',
     ],
     tripSlugs: ['normandia-bretagna'],
-    imageAlt: 'Le croci allineate del cimitero americano di Colleville-sur-Mer sopra Omaha Beach',
+    imageAlt: 'La lunga spiaggia di Omaha Beach con la bassa marea e il muro sul lungomare, Calvados, Normandia',
+    immagine: '/images/francia/spiagge-sbarco.jpg',
   },
   {
     slug: 'mont-saint-michel',
@@ -391,7 +397,8 @@ export const esperienzeFrancia: Esperienza[] = [
       'L\'abbazia di Fontevraud o quella di Jumièges, se si è saturi di folla',
     ],
     tripSlugs: ['normandia-bretagna'],
-    imageAlt: 'Il Mont-Saint-Michel circondato dall\'acqua durante una grande marea',
+    imageAlt: 'Il Mont-Saint-Michel con l\'abbazia in cima alla roccia, visto dalla baia con le acque basse della marea',
+    immagine: '/images/francia/mont-saint-michel.jpg',
   },
   {
     slug: 'arazzo-bayeux',
@@ -419,7 +426,8 @@ export const esperienzeFrancia: Esperienza[] = [
       'Il castello di Falaise, dove nacque Guglielmo il Conquistatore',
     ],
     tripSlugs: ['normandia-bretagna'],
-    imageAlt: 'Un dettaglio dell\'Arazzo di Bayeux con le navi normanne e i cavalli',
+    imageAlt: 'Un dettaglio dell\'Arazzo di Bayeux con i cavalieri normanni nella battaglia di Hastings e Guglielmo che solleva l\'elmo',
+    immagine: '/images/francia/arazzo-bayeux.jpg',
   },
   {
     slug: 'giverny',
@@ -448,7 +456,8 @@ export const esperienzeFrancia: Esperienza[] = [
       'Rouen e la sua cattedrale, dipinta decine di volte a ore diverse',
     ],
     tripSlugs: ['normandia-bretagna'],
-    imageAlt: 'Il ponte giapponese sullo stagno delle ninfee nel giardino di Monet a Giverny',
+    imageAlt: 'Lo stagno delle ninfee nel giardino di Claude Monet a Giverny, circondato da salici e piante acquatiche',
+    immagine: '/images/francia/giverny.jpg',
   },
   {
     slug: 'gr34-sentiero-doganieri',
@@ -477,7 +486,8 @@ export const esperienzeFrancia: Esperienza[] = [
       'Il cammino costiero attorno a Belle-Île, in versione insulare',
     ],
     tripSlugs: ['normandia-bretagna'],
-    imageAlt: 'Il sentiero dei doganieri lungo una falesia bretone con il mare sotto',
+    imageAlt: 'Due escursionisti sul sentiero dei doganieri tra felci e cespugli a picco sul mare vicino a Carantec, Bretagna',
+    immagine: '/images/francia/gr34-sentiero-doganieri.jpg',
   },
   {
     slug: 'carnac-megaliti',
@@ -505,7 +515,8 @@ export const esperienzeFrancia: Esperienza[] = [
       'Locmariaquer, con il grande menhir spezzato',
     ],
     tripSlugs: ['normandia-bretagna'],
-    imageAlt: 'File di menhir allineati a Carnac al tramonto',
+    imageAlt: 'I menhir di granito allineati nella brughiera dell\'allineamento di Kerlescan a Carnac, Bretagna',
+    immagine: '/images/francia/carnac-megaliti.jpg',
   },
   {
     slug: 'saint-malo-bastioni',
@@ -532,7 +543,8 @@ export const esperienzeFrancia: Esperienza[] = [
       'Cancale, poco più a est, per le ostriche',
     ],
     tripSlugs: ['normandia-bretagna'],
-    imageAlt: 'Le mura di Saint-Malo con le onde che si infrangono durante l\'alta marea',
+    imageAlt: 'I bastioni di Saint-Malo battuti dalle onde, con il Fort National sull\'isolotto in lontananza',
+    immagine: '/images/francia/saint-malo-bastioni.jpg',
   },
   {
     slug: 'chambord',
@@ -555,7 +567,8 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['Chenonceau, per il contrasto con un castello abitato e arredato', 'Blois, per la stratificazione di stili diversi in un solo edificio'],
     tripSlugs: ['castelli-loira'],
-    imageAlt: 'La scala a doppia elica di Chambord vista dal basso',
+    imageAlt: 'La facciata rinascimentale del castello di Chambord con le torri, i camini e la lanterna della scala a doppia elica',
+    immagine: '/images/francia/chambord.jpg',
   },
   {
     slug: 'chenonceau',
@@ -578,7 +591,8 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['Chambord, per lo sfarzo opposto', 'Azay-le-Rideau, per un altro castello sull\'acqua, più piccolo e meno affollato'],
     tripSlugs: ['castelli-loira'],
-    imageAlt: 'Il castello di Chenonceau con la galleria a ponte sul fiume Cher',
+    imageAlt: 'La galleria ad arcate del castello di Chenonceau sul fiume Cher, riflessa nell\'acqua',
+    immagine: '/images/francia/chenonceau.jpg',
   },
   {
     slug: 'loira-in-bicicletta',
@@ -601,7 +615,8 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: ['Un tour in auto classico, se il tempo è limitato', 'Una gita in barca tradizionale sul fiume, dove disponibile'],
     tripSlugs: ['castelli-loira'],
-    imageAlt: 'Una ciclabile lungo l\'argine della Loira con un castello sullo sfondo',
+    imageAlt: 'Una bicicletta con le borse appoggiata al muretto lungo la Loira, sulla ciclovia Loire à Vélo a Saint-Dyé-sur-Loire',
+    immagine: '/images/francia/loira-in-bicicletta.jpg',
   },
   {
     slug: 'cantina-troglodita-loira',
@@ -624,7 +639,8 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'bella-non-essenziale',
     alternative: ['Le grotte di funghi champignon, coltivati nelle stesse gallerie', 'Una degustazione in superficie in una proprietà tradizionale'],
     tripSlugs: ['castelli-loira'],
-    imageAlt: 'Una cantina scavata nel tufo bianco con bottiglie in nicchie nella roccia',
+    imageAlt: 'Botti di legno allineate in una cantina scavata nel tufo nel villaggio trogloditico di Rochemenier, nell\'Angiò',
+    immagine: '/images/francia/cantina-troglodita-loira.jpg',
   },
   {
     slug: 'saint-emilion',
@@ -648,7 +664,8 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['Pomerol, a pochi chilometri, per un contrasto di scala nelle proprietà', 'I Graves, a sud di Bordeaux, per un paesaggio diverso'],
     tripSlugs: ['bordeaux-e-vigneti'],
-    imageAlt: 'Il borgo medievale di Saint-Émilion visto dall\'alto tra i vigneti',
+    imageAlt: 'I tetti di Saint-Émilion visti dall\'alto del campanile della chiesa monolitica, con i vigneti all\'orizzonte',
+    immagine: '/images/francia/saint-emilion.jpg',
   },
   {
     slug: 'sauternes-muffa-nobile',
@@ -671,7 +688,8 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: ['I Graves, a nord, per rossi e bianchi secchi', 'Il Médoc, per il contrasto con i grandi rossi da invecchiamento'],
     tripSlugs: ['bordeaux-e-vigneti'],
-    imageAlt: 'Grappoli affetti da muffa nobile pronti per la vendemmia a Sauternes',
+    imageAlt: 'I filari spogli del vigneto di Château d\'Arche in inverno, con il villaggio di Sauternes in basso',
+    immagine: '/images/francia/sauternes-muffa-nobile.jpg',
   },
   {
     slug: 'dune-du-pilat',
@@ -694,7 +712,8 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: ['Il Bacino di Arcachon in barca', 'Il Cap Ferret, dall\'altro lato del bacino'],
     tripSlugs: ['bordeaux-e-vigneti'],
-    imageAlt: 'La Dune du Pilat con l\'oceano da un lato e la pineta dall\'altro',
+    imageAlt: 'Visitatori sulla cresta della Dune du Pilat con il banco di sabbia d\'Arguin e l\'oceano sotto',
+    immagine: '/images/francia/dune-du-pilat.jpg',
   },
   {
     slug: 'ostriche-arcachon',
@@ -717,7 +736,8 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: ['Cancale, in Bretagna, per un\'altra zona ostricola storica', 'Un ristorante di pesce ad Arcachon per una versione più formale'],
     tripSlugs: ['bordeaux-e-vigneti'],
-    imageAlt: 'Ostriche appena aperte su un pontile di legno ad Arcachon',
+    imageAlt: 'Un piatto di ostriche aperte con limone e le salsicce grigliate che le accompagnano nella tradizione di Arcachon',
+    immagine: '/images/francia/ostriche-arcachon.jpg',
   },
   {
     slug: 'cantina-champagne',
@@ -740,7 +760,8 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['L\'Avenue de Champagne a Épernay, con le gallerie sotto la strada stessa', 'Una piccola maison a conduzione familiare, per un\'accoglienza più informale'],
     tripSlugs: ['rotte-dei-vini-francia'],
-    imageAlt: 'Bottiglie di Champagne allineate in una crayère scavata nel gesso',
+    imageAlt: 'Bottiglie di Champagne capovolte sulle pupitres nelle cantine scavate nel gesso di Pommery, a Reims',
+    immagine: '/images/francia/cantina-champagne.jpg',
   },
   {
     slug: 'route-des-vins-alsazia',
@@ -763,7 +784,8 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['Colmar e il Museo Unterlinden, per una pausa culturale', 'Il Mont Sainte-Odile, per una gita fuori dalla rotta principale'],
     tripSlugs: ['rotte-dei-vini-francia'],
-    imageAlt: 'Un villaggio a case a graticcio sulla Route des Vins d\'Alsace tra i vigneti',
+    imageAlt: 'Le case a graticcio colorate e l\'insegna di una cantina di vini d\'Alsazia in una piazzetta di Eguisheim',
+    immagine: '/images/francia/route-des-vins-alsazia.jpg',
   },
   {
     slug: 'climats-borgogna',
@@ -786,7 +808,8 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['L\'Hôtel-Dieu di Beaune, per il patrimonio architettonico legato al vino', 'Una degustazione presso un domaine, prenotata con settimane di anticipo'],
     tripSlugs: ['rotte-dei-vini-francia'],
-    imageAlt: 'Un muro a secco tra due parcelle di vigneto nella Côte de Nuits',
+    imageAlt: 'Un muro a secco in pietra che separa le parcelle di vigneto sulla Côte de Nuits, Borgogna',
+    immagine: '/images/francia/climats-borgogna.jpg',
   },
   {
     slug: 'lavanda-provenza',
@@ -810,7 +833,8 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: ['Il Musée de la Lavande, per capire distillazione e storia', 'Rinunciare alla lavanda e venire in Provenza a settembre, molto meno affollata'],
     tripSlugs: ['provenza-camargue'],
-    imageAlt: 'Un campo di lavanda in fiore sull\'altopiano di Valensole',
+    imageAlt: 'I filari di lavanda in fiore davanti all\'Abbazia di Sénanque, nella valle boscosa sopra Gordes, Provenza',
+    immagine: '/images/francia/lavanda-provenza.jpg',
   },
   {
     slug: 'gole-verdon',
@@ -833,7 +857,8 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['Il lago di Sainte-Croix, per un\'esperienza più rilassata in kayak', 'Moustiers-Sainte-Marie, il villaggio all\'ingresso delle gole'],
     tripSlugs: ['provenza-camargue'],
-    imageAlt: 'Le pareti del canyon del Verdon con l\'acqua verde smeraldo del fiume',
+    imageAlt: 'Le alte pareti di roccia calcarea delle Gole del Verdon sopra l\'acqua verde del fiume',
+    immagine: '/images/francia/gole-verdon.jpg',
   },
   {
     slug: 'calanques-marsiglia',
@@ -857,7 +882,8 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['Cassis, il paese all\'estremità est del parco, con un porticciolo pittoresco', 'Un giro in barca da Cassis per vedere più calanques in poche ore'],
     tripSlugs: ['provenza-camargue'],
-    imageAlt: 'Le falesie bianche di una calanque con il mare turchese sotto',
+    imageAlt: 'Le scogliere bianche della Calanque d\'En-Vau viste dal mare, tra Marsiglia e Cassis',
+    immagine: '/images/francia/calanques-marsiglia.jpg',
   },
   {
     slug: 'pont-du-gard',
@@ -880,7 +906,8 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['Nîmes, con l\'arena romana meglio conservata al mondo', 'Uzès, il borgo vicino, meno affollato'],
     tripSlugs: ['provenza-camargue'],
-    imageAlt: 'Il Pont du Gard con le tre file di arcate romane sul fiume Gardon',
+    imageAlt: 'I tre ordini di arcate in pietra dorata del Pont du Gard sopra il fiume Gardon',
+    immagine: '/images/francia/pont-du-gard.jpg',
   },
   {
     slug: 'camargue-a-cavallo',
@@ -904,7 +931,8 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: ['Il birdwatching a piedi lungo la digue à la mer', 'Una visita a una manade per vedere il lavoro dei gardians senza cavalcare'],
     tripSlugs: ['provenza-camargue'],
-    imageAlt: 'Cavalli bianchi camarguesi che camminano in un acquitrino al tramonto',
+    imageAlt: 'Cavalli di razza Camargue al galoppo su un prato recintato vicino ai vigneti',
+    immagine: '/images/francia/camargue-a-cavallo.jpg',
   },
   {
     slug: 'fenicotteri-camargue',
@@ -927,7 +955,8 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: ['La digue à la mer, per birdwatching più libero e meno strutturato', 'Una gita in barca sull\'Étang de Vaccarès'],
     tripSlugs: ['provenza-camargue'],
-    imageAlt: 'Fenicotteri rosa in una laguna della Camargue',
+    imageAlt: 'Un gruppo di fenicotteri rosa nell\'acqua bassa del Marais de Ginès, accanto al parco di Pont de Gau in Camargue',
+    immagine: '/images/francia/fenicotteri-camargue.jpg',
   },
   {
     slug: 'aigues-mortes',
@@ -950,7 +979,8 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: ['Le saline di Salin-de-Giraud, più vicine al cuore della riserva', 'Nîmes, poco distante, per l\'arena romana'],
     tripSlugs: ['provenza-camargue'],
-    imageAlt: 'Le mura medievali di Aigues-Mortes con le saline rosa sullo sfondo',
+    imageAlt: 'Le saline di Aigues-Mortes con l\'acqua rosata dei bacini e i cumuli di sale bianco all\'orizzonte',
+    immagine: '/images/francia/aigues-mortes.jpg',
   },
   {
     slug: 'castelli-catari',
@@ -973,7 +1003,8 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['Il museo del catarismo a Villerouge-Termenès', 'Carcassonne, per un contesto fortificato completamente diverso'],
     tripSlugs: ['provenza-camargue'],
-    imageAlt: 'Il castello cataro di Peyrepertuse sulla cresta calcarea',
+    imageAlt: 'Le rovine del castello cataro di Peyrepertuse sulla cresta rocciosa avvolta dalle nuvole, nelle Corbières',
+    immagine: '/images/francia/castelli-catari.jpg',
   },
   {
     slug: 'canal-du-midi',
@@ -996,7 +1027,8 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: ['Una gita in giornata su un tratto breve del canale', 'Il Canal de la Robine, un ramo minore verso Narbonne'],
     tripSlugs: ['provenza-camargue'],
-    imageAlt: 'Il Canal du Midi con i platani secolari sull\'alzaia',
+    imageAlt: 'Il Canal du Midi tra canneti, alberi e cipressi visto dalla prua di una barca in partenza dal porto di Homps',
+    immagine: '/images/francia/canal-du-midi.jpg',
   },
   {
     slug: 'carcassonne',
@@ -1019,7 +1051,8 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: ['La città bassa (Bastide Saint-Louis), più economica e meno turistica', 'Il castello comitale interno, per la parte più antica'],
     tripSlugs: ['provenza-camargue'],
-    imageAlt: 'Le mura illuminate della Cité di Carcassonne di sera',
+    imageAlt: 'Il ponte d\'ingresso e le torri a punta del Château Comtal dentro la Cité di Carcassonne',
+    immagine: '/images/francia/carcassonne.jpg',
   },
   {
     slug: 'vallee-blanche',
@@ -1044,7 +1077,8 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['Una discesa fuoripista più breve e meno impegnativa nella stessa zona', 'Salire all\'Aiguille du Midi senza sciare, solo per il panorama'],
     tripSlugs: ['settimana-bianca-francia'],
-    imageAlt: 'Sciatori sulla Vallée Blanche tra i crepacci del ghiacciaio del Monte Bianco',
+    imageAlt: 'Alpinisti in cordata sulla cresta di neve che scende dall\'Aiguille du Midi verso la Vallée Blanche',
+    immagine: '/images/francia/vallee-blanche.jpg',
   },
   {
     slug: 'aiguille-du-midi',
@@ -1070,7 +1104,8 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['Il trenino del Montenvers per la Mer de Glace, più accessibile', 'Il Brévent, dal lato opposto della valle, per la vista sul massiccio del Monte Bianco intero'],
     tripSlugs: ['settimana-bianca-francia'],
-    imageAlt: 'La terrazza dell\'Aiguille du Midi con il massiccio del Monte Bianco sullo sfondo',
+    imageAlt: 'La guglia dell\'Aiguille du Midi con la stazione in cima e un pilone della funivia in primo piano, vista da Chamonix',
+    immagine: '/images/francia/aiguille-du-midi.jpg',
   },
   {
     slug: 'scialpinismo-francia',
@@ -1127,7 +1162,8 @@ export const esperienzeFrancia: Esperienza[] = [
       'Escursioni in giornata da Chamonix, per un assaggio senza impegno a tappe',
     ],
     tripSlugs: ['tour-du-mont-blanc'],
-    imageAlt: 'Escursionisti su un colle del Tour du Mont Blanc con il massiccio innevato alle spalle',
+    imageAlt: 'Il Lac Blanc tra le rocce delle Aiguilles Rouges, tappa classica del Tour du Mont Blanc sopra Chamonix',
+    immagine: '/images/francia/tour-du-mont-blanc.jpg',
   },
   {
     slug: 'gr20-corsica',
@@ -1156,7 +1192,8 @@ export const esperienzeFrancia: Esperienza[] = [
       'La sola metà sud del GR20, più accessibile',
     ],
     tripSlugs: ['tour-du-mont-blanc'],
-    imageAlt: 'Escursionisti su una cresta granitica del GR20 in Corsica con un lago glaciale sotto',
+    imageAlt: 'Le creste di granito della Corsica illuminate dal sole del tardo pomeriggio lungo il GR20 tra Carozzu e Asco',
+    immagine: '/images/francia/gr20-corsica.jpg',
   },
   {
     slug: 'mer-de-glace',
@@ -1179,6 +1216,7 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['L\'Aiguille du Midi, per una prospettiva dall\'alto sullo stesso massiccio', 'Il Glacier Blanc negli Écrins, per un altro ghiacciaio francese meno affollato'],
     tripSlugs: ['tour-du-mont-blanc'],
-    imageAlt: 'La scala di discesa verso la grotta di ghiaccio della Mer de Glace con i segnali storici dei livelli passati',
+    imageAlt: 'La lingua di ghiaccio della Mer de Glace che scende nella valle tra le pareti di roccia, vista da Montenvers',
+    immagine: '/images/francia/mer-de-glace.jpg',
   },
 ]

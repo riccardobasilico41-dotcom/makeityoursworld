@@ -93,6 +93,10 @@ body {
   0%, 55% { opacity: 1; }
   56%, 100% { opacity: 0.08; }
 }
+html[data-marchio='visto'] .marchio-lettera {
+  opacity: 1;
+  animation: none;
+}
 @media (prefers-reduced-motion: reduce) {
   .marchio-lettera { opacity: 1; animation: none; }
   .marchio-punto { animation: none; }

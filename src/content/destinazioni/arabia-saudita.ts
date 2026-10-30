@@ -1,12 +1,9 @@
 import type { Destinazione } from '@/lib/types'
 
-// I campi miaEsperienza sono bozze scritte da Claude nella voce del diario,
-// basate su ciò che è oggettivamente vero di ogni posto (stagione, quote,
-// regole d\'accesso, distanze) e non su ricordi reali: vanno riletti e
-// sostituiti. Nessun nome di hotel, ristorante o operatore è stato inventato.
-// L\'Arabia Saudita è il paese di questo archivio che cambia più in fretta:
-// regole d\'ingresso, accessi ai siti e norme di comportamento vanno
-// riverificati sui canali ufficiali prima di partire.
+// Nessun nome di hotel, ristorante o operatore è stato inventato. L\'Arabia
+// Saudita è il paese di questo archivio che cambia più in fretta: regole
+// d\'ingresso, accessi ai siti e norme di comportamento vanno riverificati sui
+// canali ufficiali prima di partire.
 
 export const destinazioniArabiaSaudita: Destinazione[] = [
   {
@@ -99,7 +96,8 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       'Jeddah spiazza chi arriva con l\'idea che l\'Arabia Saudita sia tutta uguale: è una città di mare, mediterranea nei modi più di quanto ci si aspetti, e la differenza con Riyadh si sente nel giro di mezza giornata. Al-Balad è il motivo principale per esserci, e va visto nell\'ora giusta: di giorno è un quartiere polveroso in restauro, mentre nel tardo pomeriggio la luce bassa prende i rawashin — quelle facciate di legno intagliato, alcune alte quattro piani, costruite per far circolare l\'aria e permettere alle donne di guardare fuori senza essere viste — e il quartiere diventa un\'altra cosa. Molte case sono puntellate e diverse sono crollate: il restauro è in corso ma non uniforme, e vedere Al-Balad adesso significa vederlo a metà strada. L\'altra cosa che resta è sociale più che monumentale: la Corniche il giovedì sera, con le famiglie che stendono i tappeti sul prato, i barbecue accesi e i bambini che giocano fino a mezzanotte. È il momento in cui si capisce meglio che paese sia questo, molto più che in qualsiasi museo.',
     esperienzeSlugs: ['al-balad-jeddah'],
     tripSlugs: ['arabia-saudita-itinerario'],
-    imageAlt: 'Le facciate di legno intagliato delle case-torre di Al-Balad a Jeddah al tramonto',
+    imageAlt: 'La porta in pietra con due torri all\'ingresso del quartiere storico di Al-Balad, Jeddah',
+    immagine: '/images/arabia-saudita/jeddah.jpg',
   },
   {
     slug: 'alula',
@@ -199,7 +197,8 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       'Riyadh è la città che spiega il paese meglio di ogni altra, ma non per quello che mostra: per la velocità con cui è cambiata. Il Masmak Fort, la fortezza di fango da cui nel 1902 partì la riconquista di Ibn Saud, sta incastrato tra i grattacieli, e in mezzo ci sono poco più di cento anni. La cosa che resta però è Diriyah, mezz\'ora fuori: la capitale originale dei Saud, costruita interamente in mattoni di fango, distrutta dagli ottomani nel 1818 e restaurata negli ultimi anni. Al tramonto i muri passano dall\'ocra all\'arancione e il quartiere di At-Turaif, con i suoi palazzi a più piani e i motivi triangolari sulle facciate, sembra una cosa sola con la terra da cui è fatto. L\'altra tappa è l\'Edge of the World, e il nome per una volta non esagera: dopo un\'ora e mezza di pista si arriva sul bordo di una scarpata che scende per trecento metri su una pianura che si perde all\'orizzonte, senza una recinzione, senza un biglietto e con pochissime persone intorno. Serve un 4x4 e serve una guida, perché lì non c\'è segnaletica e il telefono non prende.',
     esperienzeSlugs: ['diriyah', 'edge-of-the-world'],
     tripSlugs: ['arabia-saudita-itinerario'],
-    imageAlt: 'I muri di fango del quartiere di At-Turaif a Diriyah al tramonto, Riyadh',
+    imageAlt: 'Le mura in mattoni crudi e la torre d\'angolo della fortezza di Masmak, Riyadh',
+    immagine: '/images/arabia-saudita/riyadh-diriyah.jpg',
   },
   {
     slug: 'abha-asir',
@@ -246,7 +245,8 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       'Non ci sono ancora stato, e la scheda resta sui fatti. Resta in lista perché è la parte del paese che smonta l\'immagine che tutti abbiamo dell\'Arabia Saudita: sopra i duemila metri, nel sud-ovest, ci sono montagne verdi, piogge estive, terrazzamenti coltivati e villaggi costruiti in verticale sulle pareti di roccia. Rijal Almaa è un paese di case a più piani in pietra e quarzo, con le facciate che luccicano al sole, ed è candidato al patrimonio UNESCO. Le donne dell\'Asir dipingono da generazioni gli interni delle case con motivi geometrici colorati — il qatt asiri, riconosciuto patrimonio immateriale UNESCO — che non hanno niente in comune con l\'austerità del Najd. E c\'è un dettaglio che ribalta la pianificazione: qui la stagione buona è l\'estate, quando il resto del Regno è invivibile e i sauditi salgono in massa a prendere il fresco.',
     esperienzeSlugs: [],
     tripSlugs: ['arabia-saudita-itinerario'],
-    imageAlt: 'Il villaggio di pietra di Rijal Almaa sulle montagne dell\'Asir, Arabia Saudita',
+    imageAlt: 'Le case di Abha tra il verde, viste dall\'alto nella foschia delle montagne dell\'Asir',
+    immagine: '/images/arabia-saudita/abha-asir.jpg',
   },
   {
     slug: 'umluj-mar-rosso',

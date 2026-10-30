@@ -52,6 +52,7 @@ export const portogallo: Paese = {
     emergenze: 'Numero unico europeo 112. L\'Ambasciata d\'Italia è a Lisbona stessa.',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'Vista dell\'Alfama a Lisbona dall\'alto, con i tetti rossi digradanti verso il fiume Tago e un tram storico giallo in primo piano',
+  heroImage: '/images/portogallo/portogallo-paese.jpg',
+  heroImageAlt: 'Il Miradouro de Santa Luzia a Lisbona con le azulejos, i tetti dell\'Alfama e il fiume Tago sullo sfondo',
   tripPrincipaleSlug: 'lisbona-weekend',
 }

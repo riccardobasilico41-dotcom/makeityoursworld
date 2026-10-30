@@ -50,6 +50,7 @@ export const austria: Paese = {
     emergenze: 'Numero unico europeo 112. In alternativa: 133 polizia, 122 vigili del fuoco, 144 ambulanza. L\'Ambasciata d\'Italia è a Vienna.',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'La facciata barocca del Palazzo del Belvedere a Vienna con i giardini e le fontane in primo piano',
+  heroImageAlt: 'Il Palazzo del Belvedere Superiore a Vienna con i giardini all\'italiana e le siepi potate in primo piano',
+  heroImage: '/images/austria/austria-paese.jpg',
   tripPrincipaleSlug: 'vienna-weekend',
 }

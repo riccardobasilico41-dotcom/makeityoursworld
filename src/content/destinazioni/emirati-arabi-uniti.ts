@@ -1,12 +1,9 @@
 import type { Destinazione } from '@/lib/types'
 
-// I campi miaEsperienza sono bozze scritte da Claude nella voce del diario,
-// basate su ciò che è oggettivamente vero di ogni posto (stagione, orari,
-// regole, affollamento) e non su ricordi reali: vanno riletti e sostituiti.
-// Nessun nome di hotel, ristorante o operatore è stato inventato.
-// Il confronto tra i programmi stopover delle compagnie del Golfo sta nella
-// scheda Dubai: condizioni e prezzi cambiano spesso e vanno riverificati sui
-// siti ufficiali delle compagnie prima di prenotare.
+// Nessun nome di hotel, ristorante o operatore è stato inventato. Il confronto
+// tra i programmi stopover delle compagnie del Golfo sta nella scheda Dubai:
+// condizioni e prezzi cambiano spesso e vanno riverificati sui siti ufficiali
+// delle compagnie prima di prenotare.
 
 export const destinazioniEmiratiArabiUniti: Destinazione[] = [
   {
@@ -150,7 +147,8 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       'Dubai è la città più facile del mondo da liquidare e questo, dopo due giorni, sembra un giudizio pigro. Lo skyline e i centri commerciali sono esattamente come li si immagina — il Burj Khalifa è impressionante per i numeri e un po\' meno per l\'esperienza, che è una fila, un ascensore e una vetrata — ma a venti minuti di metropolitana c\'è un\'altra città che nessuno cerca. Il creek è ancora un porto commerciale vero, con le barche di legno cariche fino all\'orlo di elettrodomestici dirette in Iran e in India, e l\'abra che lo attraversa costa un dirham: si sale, si sta seduti in mezzo a gente che va al lavoro, e si sbarca dall\'altra parte nel souq delle spezie. Al Fahidi, con le torri del vento e i vicoli di gesso, mostra com\'era questo posto quando le perle erano l\'unica economia. E poi c\'è il dato che spiega la città meglio di ogni grattacielo: gli emiratini sono poco più del dieci per cento di chi ci vive, e la sera nei ristoranti pakistani di Karama si mangia benissimo con otto euro in mezzo a operai, autisti e famiglie. Quella, più del Burj, è Dubai.',
     esperienzeSlugs: ['creek-souq-dubai', 'deserto-emirati'],
     tripSlugs: ['stopover-golfo'],
-    imageAlt: 'Barche di legno sul Dubai Creek con lo skyline di Deira alle spalle',
+    imageAlt: 'Lo skyline di Dubai con il Burj Khalifa al tramonto, visto da lontano oltre l\'acqua',
+    immagine: '/images/emirati-arabi-uniti/dubai.jpg',
   },
   {
     slug: 'abu-dhabi',
@@ -199,7 +197,8 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       'Abu Dhabi è la sorpresa degli Emirati, e lo è soprattutto per chi ci arriva dopo Dubai: più bassa, più lenta, con lo spazio tra un edificio e l\'altro. La Grande Moschea è uno di quei posti in cui il superlativo — il tappeto annodato a mano più grande del mondo, i lampadari con i cristalli Swarovski, ottantadue cupole — rischia di far pensare a un eccesso, e invece funziona: le colonne bianche intarsiate con motivi floreali in madreperla sono di una delicatezza che le cifre non lasciano immaginare, e il momento giusto è il tardo pomeriggio, quando il marmo passa dal bianco al rosa e poi al blu con l\'illuminazione notturna. Il Louvre è l\'altro pezzo forte e vale quanto la collezione: sotto quella cupola forata da quasi ottomila stelle metalliche sovrapposte cade una luce che si muove e si scompone tutto il giorno, e Nouvel la chiama pioggia di luce. Ci si siede sotto e si sta lì. Due giorni bastano, e con lo stopover Etihad l\'hotel non si paga.',
     esperienzeSlugs: ['moschea-sheikh-zayed', 'louvre-abu-dhabi'],
     tripSlugs: ['stopover-golfo'],
-    imageAlt: 'Le cupole bianche e il cortile della Grande Moschea Sheikh Zayed ad Abu Dhabi',
+    imageAlt: 'I grattacieli del lungomare di Abu Dhabi visti dal mare, con una barca a vela',
+    immagine: '/images/emirati-arabi-uniti/abu-dhabi.jpg',
   },
   {
     slug: 'liwa-al-ain',
@@ -246,6 +245,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       'Non ci sono ancora stato, e la scheda resta sui fatti invece di raccontare una giornata che non c\'è stata. Resta in lista per una ragione precisa: quello che a Dubai e ad Abu Dhabi viene venduto come "safari nel deserto" si svolge su dune modeste a mezz\'ora dalla città, con i quad, la cena in campo tendato e il rientro in serata. Il Rub\' al-Khali è un\'altra cosa — il più grande deserto di sabbia continuo del mondo, con dune oltre i duecento metri a Moreeb — e sta a due ore da Abu Dhabi, cioè dentro la portata di un\'estensione di due giorni. L\'altra metà della deviazione è Al Ain, che è l\'esatto opposto: un\'oasi patrimonio UNESCO con centoquarantasettemila palme irrigate da canali scavati duemila anni fa e ancora in funzione, dove si cammina all\'ombra e si sente l\'acqua scorrere. Insieme spiegano com\'era questo paese prima che ci trovassero il petrolio, ed è la cosa che manca completamente a uno stopover di sole città.',
     esperienzeSlugs: [],
     tripSlugs: [],
-    imageAlt: 'Le dune del Rub\' al-Khali nella regione di Liwa, Emirati Arabi Uniti',
+    imageAlt: 'La pianura desertica attorno ad Al Ain vista dalle pendici del Jebel Hafeet, nella foschia',
+    immagine: '/images/emirati-arabi-uniti/liwa-al-ain.jpg',
   },
 ]

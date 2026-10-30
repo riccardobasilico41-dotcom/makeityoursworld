@@ -58,6 +58,7 @@ export const destinazioniPaesiBassi: Destinazione[] = [
     ],
     esperienzeSlugs: ['amsterdam-in-bicicletta', 'crociera-sui-canali-amsterdam', 'casa-di-anna-frank'],
     tripSlugs: ['amsterdam-weekend'],
-    imageAlt: 'Case a schiera colorate lungo uno dei canali del Grachtengordel ad Amsterdam, con biciclette parcheggiate lungo l\'argine',
+    imageAlt: 'Un vecchio ponte ad arco in mattoni sul canale Reguliersgracht ad Amsterdam, con le case a schiera e gli alberi spogli lungo le rive',
+    immagine: '/images/paesi-bassi/amsterdam.jpg',
   },
 ]

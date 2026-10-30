@@ -25,7 +25,7 @@ La Turchia è un Paese grande, e il primo viaggio rischia di diventare una corsa
 ### Documenti, valuta e pagamenti
 - **Documenti:** nessun visto per gli italiani fino a 90 giorni. Passaporto oppure carta d'identità elettronica (CIE) valida per l'espatrio, integra e con almeno 5 mesi di validità residua, per chi arriva in aereo o in nave. Il passaporto deve avere una pagina libera per i timbri. Le carte d'identità rinnovate con timbro o certificato di proroga rischiano il rifiuto: meglio il passaporto.
 - **Valuta:** lira turca (TRY), con inflazione molto alta: a ottobre 2026 circa 55-56 lire per un euro, e i prezzi locali cambiano di mese in mese. Musei statali, mongolfiere, molti hotel e tour sono quotati in euro.
-- **Pagamenti:** carte ovunque, anche sui mezzi pubblici di Istanbul con l'Istanbulkart. Al POS si sceglie sempre di pagare in lire e non in euro. Contanti per mercati, dolmuş, mance e bagni pubblici, che costano pochi lire.
+- **Pagamenti:** carte ovunque, anche sui mezzi pubblici di Istanbul con l'Istanbulkart. Al POS si sceglie sempre di pagare in lire e non in euro. Contanti per mercati, dolmuş, mance e bagni pubblici, che costano poche lire.
 - **Mance:** 5-10 % al ristorante se il servizio non è incluso, qualche decina di lire per facchini e hammam, una mancia alla guida e all'autista nei tour.
 
 ### Prezzi dei musei e delle attività, indicativi ottobre 2026
@@ -33,8 +33,8 @@ I musei statali sono quotati in euro e i prezzi salgono ogni anno: le cifre sono
 - **Santa Sofia:** 25 € per i turisti stranieri, con un percorso dedicato alle gallerie superiori; il piano principale è riservato alla preghiera.
 - **Topkapı con harem:** biglietto combinato con Sant'Irene a 2.750 lire, circa 50 € al cambio; chiuso il martedì.
 - **Cisterna Basilica:** prezzo in lire, non coperta dal Museum Pass: circa 1.950-2.250 lire di giorno (9-18.30, 35-40 € al cambio) e 3.000 lire per la sessione serale delle 19.30-22 (circa 55 €). Nel 2026 la gestione è passata dal comune alle Fondazioni (Vakıflar), con ricorsi in tribunale e qualche giorno di chiusura a giugno.
-- **Museum Pass Istanbul:** intorno ai 6.500 lire (circa 115-120 €) per 5 giorni dal primo ingresso, include Topkapı con harem, i musei archeologici, il museo di Santa Sofia «storia ed esperienza», Chora e il museo dei mosaici. Non valgono Santa Sofia, la Cisterna Basilica e la torre di Galata. Conviene se si visitano almeno Topkapı e due o tre musei.
-- **Mongolfiera in Cappadocia:** indicativamente 150-350 € a persona secondo stagione e operatore (meno in inverno, quando però gli annullamenti sono più frequenti); non esiste un prezzo ufficiale.
+- **Museum Pass Istanbul:** intorno alle 6.500 lire (circa 115-120 €) per 5 giorni dal primo ingresso, include Topkapı con harem, i musei archeologici, il museo di Santa Sofia «storia ed esperienza», Chora e il museo dei mosaici. Non sono compresi Santa Sofia, la Cisterna Basilica e la torre di Galata. Conviene se si visitano almeno Topkapı e due o tre musei.
+- **Mongolfiera in Cappadocia:** di massima 150-350 € a persona secondo stagione e operatore (meno in inverno, quando però gli annullamenti sono più frequenti); non esiste un prezzo ufficiale.
 - **Museo all'aperto di Göreme:** 20 €; **Derinkuyu o Kaymaklı:** 13 €. **Museum Pass Cappadocia:** intorno ai 65 € per 3 giorni.
 - **Pamukkale-Hierapolis:** 30 €, piscina antica a parte (in lire, indicativamente 6-13 €).
 - **Efeso:** 40 €, **case a terrazza** 15 € a parte; **Afrodisia** 12 €.
@@ -49,7 +49,7 @@ I musei statali sono quotati in euro e i prezzi salgono ogni anno: le cifre sono
 
 ### Sicurezza e truffe comuni
 - **«Andiamo a bere qualcosa»:** a Taksim e Sultanahmet uno sconosciuto simpatico invita in un locale dove arrivano ragazze, bottiglie non richieste e un conto da centinaia di euro, con buttafuori alla porta. Non si accetta.
-- **Lustrascarpe:** la spazzola cade davanti a voi, la raccogliete, e il ringraziamento è una lucidatura «gratuita» seguita da una richiesta di soldi.
+- **Lustrascarpe:** la spazzola cade davanti a voi, la raccogliete, e per ringraziarvi vi fa una lucidatura «gratuita», seguita da una richiesta di soldi.
 - **Taxi:** tassametro spento, giro lungo, scambio di banconote (da 200 a 20 lire) al momento di pagare. App BiTaksi o Uber, e banconote contate ad alta voce.
 - **Negozi di tappeti:** l'«amico» che accompagna verso la moschea finisce sempre in un negozio. Si può bere il tè e uscire.
 - **Ristoranti senza prezzi** nelle zone turistiche: si chiede il menu con i prezzi prima di ordinare, soprattutto per il pesce a peso.
@@ -59,9 +59,9 @@ I musei statali sono quotati in euro e i prezzi salgono ogni anno: le cifre sono
 ## Itinerario giorno per giorno
 
 ### Giorno 1 — Arrivo a Istanbul
-Si atterra all'aeroporto di Istanbul, a quaranta chilometri dalla città, e si va con l'Havaist o la metro fino a **Sultanahmet**, la penisola storica dove conviene dormire per i primi giorni. Prima cosa da fare, l'**Istanbulkart** in uno dei distributori della metro o del tram.
+Siamo atterrati all'aeroporto di Istanbul, a quaranta chilometri dalla città, e con l'Havaist o la metro si arriva fino a **Sultanahmet**, la penisola storica dove conviene dormire per i primi giorni. La prima cosa da fare è comprare l'**Istanbulkart** a uno dei distributori della metro o del tram.
 
-La sera è per una prima passeggiata tra **Santa Sofia** e la **Moschea Blu** illuminate, separate dal giardino di Sultanahmet, e per cena in una lokanta lontana dalla piazza principale, dove i prezzi si abbassano di metà.
+La sera abbiamo fatto una prima passeggiata tra **Santa Sofia** e la **Moschea Blu** illuminate, separate dal giardino di Sultanahmet, e abbiamo cenato in una lokanta lontana dalla piazza principale, dove i prezzi si dimezzano.
 
 **In pratica**
 - Havaist o metro: circa 1-1,5 ore fino al centro
@@ -69,9 +69,9 @@ La sera è per una prima passeggiata tra **Santa Sofia** e la **Moschea Blu** il
 - eSIM o SIM in aeroporto, col passaporto
 
 ### Giorno 2 — Sultanahmet: Santa Sofia, la Moschea Blu e la Cisterna
-Si entra a **Santa Sofia** all'apertura. Dal 2024 i turisti stranieri seguono un percorso separato con biglietto, che sale alle gallerie superiori con i mosaici bizantini, mentre il piano principale è riservato alla preghiera. La **Moschea Blu**, di fronte, è gratuita e chiude ai turisti durante le cinque preghiere: si entra a piedi scalzi, con spalle e gambe coperte e il foulard per le donne.
+Siamo entrati a **Santa Sofia** all'apertura. Dal 2024 i turisti stranieri seguono un percorso separato con biglietto, che sale alle gallerie superiori con i mosaici bizantini, mentre il piano principale è riservato alla preghiera. La **Moschea Blu**, di fronte, è gratuita e chiude ai turisti durante le cinque preghiere: si entra a piedi scalzi, con spalle e gambe coperte e il foulard per le donne.
 
-Il pomeriggio scende sotto terra, nella **Cisterna Basilica**, con le sue 336 colonne e le due teste di Medusa, e poi all'**Ippodromo** con l'obelisco egizio. Chi ha il Museum Pass aggiunge il museo dei mosaici del Gran Palazzo.
+Il pomeriggio siamo scesi sotto terra, nella **Cisterna Basilica**, con le sue 336 colonne e le due teste di Medusa, e poi siamo passati all'**Ippodromo** con l'obelisco egizio. Chi ha il Museum Pass aggiunge il museo dei mosaici del Gran Palazzo.
 
 **In pratica**
 - Santa Sofia 25 €, Moschea Blu gratuita
@@ -79,9 +79,9 @@ Il pomeriggio scende sotto terra, nella **Cisterna Basilica**, con le sue 336 co
 - Moschee chiuse ai turisti durante le preghiere, specie il venerdì a mezzogiorno
 
 ### Giorno 3 — Topkapı, il Gran Bazar e la Süleymaniye
-Il **palazzo Topkapı**, residenza dei sultani per quasi quattro secoli, chiede almeno tre ore: le corti, il tesoro, le reliquie e soprattutto l'**harem**, con il biglietto combinato. Si entra all'apertura, e il martedì è chiuso.
+Il **palazzo Topkapı**, residenza dei sultani per quasi quattro secoli, chiede almeno tre ore: le corti, il tesoro, le reliquie e soprattutto l'**harem**, con il biglietto combinato. Conviene entrare all'apertura; il martedì è chiuso.
 
-Poi il **Gran Bazar**, con le sue sessanta vie coperte, e a piedi fino alla **moschea di Süleymaniye**, il capolavoro dell'architetto Sinan, dalla cui terrazza si vede il Corno d'Oro. Si scende al **Bazar delle Spezie** e si cena con il **balık ekmek**, il panino di pesce delle barche di Eminönü.
+Poi il **Gran Bazar**, con le sue sessanta vie coperte, e a piedi fino alla **moschea di Süleymaniye**, il capolavoro dell'architetto Sinan, dalla cui terrazza si vede il Corno d'Oro. Siamo scesi al **Bazar delle Spezie** e abbiamo cenato con il **balık ekmek**, il panino di pesce delle barche di Eminönü.
 
 **In pratica**
 - Topkapı con harem 2.750 lire (circa 50 €), chiuso il martedì
@@ -99,7 +99,7 @@ La sera a **Beyoğlu**: la torre di Galata al tramonto, viale İstiklal, e una c
 - Torre di Galata intorno ai 30 €, spesso con coda
 
 ### Giorno 5 — Volo per la Cappadocia
-Volo mattutino su **Kayseri** o **Nevşehir** e transfer a **Göreme**, il paese al centro delle valli. Si dorme in un **cave hotel**, una camera scavata nel tufo. Il pomeriggio è per ambientarsi: una passeggiata nella **Valle dell'Amore** con i suoi pinnacoli e il tramonto dalla collina sopra Göreme, quando le mongolfiere del giorno dopo vengono già prenotate in ogni pensione.
+Volo del mattino su **Kayseri** o **Nevşehir** e transfer a **Göreme**, il paese al centro delle valli. Si dorme in un **cave hotel**, una camera scavata nel tufo. Il pomeriggio è servito ad ambientarci: una passeggiata nella **Valle dell'Amore** con i suoi pinnacoli e il tramonto dalla collina sopra Göreme, quando in ogni pensione si prenotano già le mongolfiere del giorno dopo.
 
 **In pratica**
 - Volo Istanbul-Kayseri o Nevşehir: indicativamente 40-90 €
@@ -107,9 +107,9 @@ Volo mattutino su **Kayseri** o **Nevşehir** e transfer a **Göreme**, il paese
 - Mongolfiera da prenotare per il primo giorno utile, con l'altro come riserva
 
 ### Giorno 6 — Mongolfiera all'alba e il museo all'aperto di Göreme
-Sveglia alle 4. Il pulmino passa a prendere in hotel, e intorno all'alba un centinaio di **mongolfiere** si alzano sopra le valli per circa un'ora. I voli dipendono dal vento e vengono annullati con preavviso di poche ore: per questo si prenota per la prima mattina e si tiene la seconda come riserva. Chi non vola le guarda partire dalla collina sopra Göreme, gratis.
+Sveglia alle 4. Il pulmino passa a prendere in hotel, e intorno all'alba un centinaio di **mongolfiere** si alza sopra le valli per circa un'ora. I voli dipendono dal vento e vengono annullati con preavviso di poche ore: per questo si prenota per la prima mattina e si tiene la seconda come riserva. Chi non vola le guarda partire dalla collina sopra Göreme, gratis.
 
-In mattinata il **museo all'aperto di Göreme**, un complesso monastico con chiese scavate nella roccia e affreschi bizantini; la **Chiesa Oscura**, con biglietto a parte, è quella con i colori meglio conservati. Il pomeriggio si cammina fino a **Paşabağ**, la valle dei camini delle fate con i doppi cappelli.
+In mattinata siamo andati al **museo all'aperto di Göreme**, un complesso monastico con chiese scavate nella roccia e affreschi bizantini; la **Chiesa Oscura**, con biglietto a parte, è quella con i colori meglio conservati. Il pomeriggio abbiamo camminato fino a **Paşabağ**, la valle dei camini delle fate con i doppi cappelli.
 
 **In pratica**
 - Mongolfiera indicativamente 150-350 € con transfer e colazione
@@ -117,9 +117,9 @@ In mattinata il **museo all'aperto di Göreme**, un complesso monastico con chie
 - Entrare al museo all'apertura, prima dei gruppi
 
 ### Giorno 7 — Valle Rossa, Uçhisar e la città sotterranea
-La mattina scende sotto terra nella **città sotterranea di Derinkuyu** o in quella di **Kaymaklı**: otto livelli scavati nel tufo, con stalle, cantine e cappelle, usati per secoli come rifugio. Chi soffre di spazi stretti tiene il percorso più corto.
+La mattina si scende sotto terra nella **città sotterranea di Derinkuyu** o in quella di **Kaymaklı**: otto livelli scavati nel tufo, con stalle, cantine e cappelle, usati per secoli come rifugio. Chi soffre di spazi stretti tiene il percorso più corto.
 
-Il pomeriggio è per la **cittadella di Uçhisar**, la rupe più alta della zona, e per il sentiero della **Valle Rossa** e della **Valle Rosa**, da fare nelle ultime ore di luce, quando le pareti prendono il colore che dà il nome alle valli. La sera si prende il **bus notturno** per Pamukkale, che parte da Göreme o da Nevşehir.
+Il pomeriggio è per la **cittadella di Uçhisar**, la rupe più alta della zona, e per il sentiero della **Valle Rossa** e della **Valle Rosa**, da fare nelle ultime ore di luce, quando le pareti prendono il colore che dà il nome alle valli. La sera abbiamo preso il **bus notturno** per Pamukkale, che parte da Göreme o da Nevşehir.
 
 **In pratica**
 - Derinkuyu o Kaymaklı 13 €
@@ -127,9 +127,9 @@ Il pomeriggio è per la **cittadella di Uçhisar**, la rupe più alta della zona
 - Bus notturno per Denizli/Pamukkale: circa 9-10 ore, indicativamente 20-35 €
 
 ### Giorno 8 — Pamukkale e Hierapolis
-Si arriva a **Pamukkale** la mattina presto. Le **terrazze di travertino**, la collina bianca formata dalle sorgenti calde, si salgono a piedi nudi dall'ingresso basso; in cima ci sono le rovine di **Hierapolis**, con il teatro romano e la necropoli, e la **piscina antica**, dove si nuota tra colonne cadute. Molte vasche sono tenute asciutte a rotazione per preservare il calcare.
+Siamo arrivati a **Pamukkale** la mattina presto. Le **terrazze di travertino**, la collina bianca formata dalle sorgenti calde, si salgono a piedi nudi dall'ingresso basso; in cima ci sono le rovine di **Hierapolis**, con il teatro romano e la necropoli, e la **piscina antica**, dove si nuota tra colonne cadute. Molte vasche sono tenute asciutte a rotazione per preservare il calcare.
 
-Il pomeriggio è per riposare in pensione, e il tramonto si guarda dalle terrazze, quando la luce rende il bianco rosa.
+Il pomeriggio l'abbiamo passato a riposare in pensione, e il tramonto l'abbiamo guardato dalle terrazze, quando la luce fa diventare rosa il bianco.
 
 **In pratica**
 - Pamukkale-Hierapolis 30 €, piscina antica indicativamente 6-13 € in lire
@@ -137,9 +137,9 @@ Il pomeriggio è per riposare in pensione, e il tramonto si guarda dalle terrazz
 - Sulle terrazze si cammina scalzi: borsa per le scarpe
 
 ### Giorno 9 — Afrodisia e l'arrivo a Selçuk
-Si parte in auto verso ovest. **Afrodisia**, a un'ora e mezza da Pamukkale, è uno dei siti più belli e meno visitati della Turchia: uno stadio romano quasi intatto per trentamila persone, il tetrapylon e un museo pieno di statue, perché qui c'era una scuola di scultori. Si visita in due ore, spesso quasi da soli.
+Siamo partiti in auto verso ovest. **Afrodisia**, a un'ora e mezza da Pamukkale, è uno dei siti più belli e meno visitati della Turchia: uno stadio romano quasi intatto per trentamila persone, il tetrapylon e un museo pieno di statue, perché qui c'era una scuola di scultori. Si visita in due ore, spesso quasi da soli.
 
-Si prosegue fino a **Selçuk**, la cittadina accanto a Efeso, per la sera: la **basilica di San Giovanni** al tramonto e cena in centro.
+Abbiamo proseguito fino a **Selçuk**, la cittadina accanto a Efeso, per la sera: la **basilica di San Giovanni** al tramonto e la cena in centro.
 
 **In pratica**
 - Afrodisia 12 €
@@ -157,7 +157,7 @@ Nel pomeriggio il **museo di Efeso** a Selçuk e poi **Şirince**, un villaggio 
 - La casa della Madonna (Meryem Ana Evi) è a 15 minuti dalla porta alta
 
 ### Giorno 11 — Verso la costa licia: Fethiye
-Giornata di trasferimento, tre ore e mezza-quattro ore verso sud-est, fino a **Fethiye**. Il pomeriggio è per le **tombe licie** scavate nella roccia sopra la città, il **mercato del pesce**, dove si sceglie il pesce al banco e lo si fa cucinare nei ristoranti intorno, e il tramonto dal porto.
+Giornata di trasferimento, tre ore e mezza o quattro verso sud-est, fino a **Fethiye**. Il pomeriggio è per le **tombe licie** scavate nella roccia sopra la città, il **mercato del pesce**, dove si sceglie il pesce al banco e lo si fa cucinare nei ristoranti intorno, e il tramonto dal porto.
 
 **In pratica**
 - Selçuk-Fethiye: circa 3,5-4 ore, con pedaggi HGS sul primo tratto
@@ -165,7 +165,7 @@ Giornata di trasferimento, tre ore e mezza-quattro ore verso sud-est, fino a **F
 - Base a Fethiye o a Ölüdeniz per due notti
 
 ### Giorno 12 — Ölüdeniz, Kayaköy e la Via Licia
-Mattina al mare a **Ölüdeniz**, la laguna turchese protetta, con la spiaggia di Belcekız davanti. Chi vuole vola in **parapendio** dal Babadağ, a quasi duemila metri, e atterra direttamente sulla spiaggia; chi preferisce prende la barca per la **Valle delle Farfalle**, una caletta chiusa tra pareti di roccia.
+La mattina siamo stati al mare a **Ölüdeniz**, la laguna turchese protetta, con la spiaggia di Belcekız davanti. Chi vuole vola in **parapendio** dal Babadağ, a quasi duemila metri, e atterra direttamente sulla spiaggia; chi preferisce prende la barca per la **Valle delle Farfalle**, una caletta chiusa tra pareti di roccia.
 
 Il pomeriggio a **Kayaköy**, il villaggio greco abbandonato dopo lo scambio di popolazioni del 1923, e una breve tappa della **Via Licia**, il sentiero di 540 km che parte proprio da qui, tra Ölüdeniz e Faralya.
 
@@ -175,9 +175,9 @@ Il pomeriggio a **Kayaköy**, il villaggio greco abbandonato dopo lo scambio di 
 - Kayaköy intorno ai 5-10 €
 
 ### Giorno 13 — Da Fethiye a Kaş: Saklıkent e Patara
-Si scende verso **Kaş** con due soste. La **gola di Saklıkent**, un canyon di 18 chilometri di cui si percorre il primo tratto a piedi nell'acqua gelida del torrente, con scarpe da scoglio. Poi **Patara**, con le rovine dell'antica capitale licia e una spiaggia di sabbia lunga 18 chilometri, protetta perché ci nidificano le tartarughe marine.
+Siamo scesi verso **Kaş** con due soste. La prima è la **gola di Saklıkent**, un canyon di 18 chilometri di cui si percorre il primo tratto a piedi nell'acqua gelida del torrente, con scarpe da scoglio. Poi **Patara**, con le rovine dell'antica capitale licia e una spiaggia di sabbia lunga 18 chilometri, protetta perché ci nidificano le tartarughe marine.
 
-Si arriva a **Kaş** per la sera, dopo la spiaggia di **Kaputaş** vista dall'alto della strada costiera, una delle più fotografate del Paese.
+Siamo arrivati a **Kaş** per la sera, dopo aver visto dall'alto della strada costiera la spiaggia di **Kaputaş**, una delle più fotografate del Paese.
 
 **In pratica**
 - Saklıkent intorno ai 5-10 €, Patara 15 €
@@ -197,7 +197,7 @@ Ultima tratta lungo la costa, tre ore e mezza fino ad **Antalya**, con una sosta
 
 **In pratica**
 - Myra 13 €, chiesa di San Nicola 17 €
-- Chimera: la visita è più suggestiva al buio, con una torcia
+- Chimera: la visita rende di più al buio, con una torcia
 - Riconsegna auto: controllare il pieno e l'addebito HGS
 
 ### Giorno 16 — Antalya e rientro

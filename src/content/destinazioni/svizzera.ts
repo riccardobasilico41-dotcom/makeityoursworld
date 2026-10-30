@@ -50,7 +50,8 @@ export const destinazioniSvizzera: Destinazione[] = [
     ],
     esperienzeSlugs: ['giro-battello-laghi-thun-brienz'],
     tripSlugs: ['svizzera-alpi-van'],
-    imageAlt: 'Il lungolago di Interlaken con la Jungfrau innevata sullo sfondo, tra i laghi di Thun e Brienz',
+    imageAlt: 'Interlaken vista dall\'alto, con il fiume Aare color smeraldo che attraversa la cittadina tra le montagne, nella piana tra i laghi di Thun e Brienz',
+    immagine: '/images/svizzera/interlaken.jpg',
   },
   {
     slug: 'lauterbrunnen',

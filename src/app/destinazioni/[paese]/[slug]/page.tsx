@@ -1,15 +1,15 @@
 import type { Metadata } from 'next'
+import { FirmaAutore } from '@/components/FirmaAutore'
 import { notFound } from 'next/navigation'
 import { ArrowUpRight } from 'lucide-react'
 import { Container } from '@/components/ui/Container'
 import { PageHeader } from '@/components/ui/PageHeader'
 import { Rich } from '@/components/ui/Rich'
-import { ContentStatusBadge } from '@/components/ui/ContentStatusBadge'
 import { PracticalInfo } from '@/components/ui/PracticalInfo'
 import { ExperienceCard } from '@/components/ExperienceCard'
 import { ComparisonBlock } from '@/components/ComparisonBlock'
 import { JsonLd } from '@/components/JsonLd'
-import { breadcrumbJsonLd } from '@/lib/structured-data'
+import { breadcrumbJsonLd, faqJsonLd } from '@/lib/structured-data'
 import { RelatedContent } from '@/components/RelatedContent'
 import {
   getAllDestinazioni,
@@ -18,7 +18,7 @@ import {
   getEsperienzeDiDestinazione,
   getViaggiByDestinazione,
 } from '@/lib/geo'
-import { pageMetadata } from '@/lib/seo'
+import { pageMetadata, primoTitoloCheSta } from '@/lib/seo'
 import { richNodes } from '@/components/ui/Rich'
 
 // "Torna a..." con l'articolo corretto per ciascun Paese (il Messico, la Norvegia,
@@ -35,8 +35,25 @@ export async function generateMetadata({
   const { paese: paeseSlug, slug } = await params
   const destinazione = getDestinazione(paeseSlug, slug)
   if (!destinazione) return {}
+  const nome = destinazione.nome
+  // «3-4 giorni», «1 giorno»: solo se è una durata vera, non «modulare» o una frase.
+  const giorni = /^\d[\d\s–-]*giorn[oi]$/i.test(destinazione.giorniConsigliati.trim())
+    ? destinazione.giorniConsigliati.trim()
+    : undefined
+  const errori = destinazione.erroriDaEvitare.length
+  const paese = getPaese(paeseSlug)?.nome
   return pageMetadata({
-    title: destinazione.nome,
+    // Formula delle ricerche vere («cosa vedere», «quanti giorni»), dalla più ricca alla più corta che sta in 60 caratteri.
+    title: primoTitoloCheSta([
+      giorni && errori > 1 && `${nome}: cosa vedere in ${giorni} e ${errori} errori da evitare`,
+      giorni && `${nome}: cosa vedere in ${giorni} e come organizzarsi`,
+      giorni && `${nome}: cosa vedere in ${giorni}`,
+      errori > 1 && `${nome}: cosa vedere e ${errori} errori da evitare`,
+      paese && `${nome} (${paese}): cosa vedere e consigli pratici`,
+      `${nome}: cosa vedere e consigli pratici`,
+      `${nome}: cosa vedere`,
+      nome,
+    ]),
     description: destinazione.introduzione,
     path: `/destinazioni/${paeseSlug}/${slug}`,
     type: 'article',
@@ -74,7 +91,14 @@ export default async function DestinazionePage({
             { nome: paese.nome, percorso: `/destinazioni/${paeseSlug}` },
             { nome: destinazione.nome, percorso: `/destinazioni/${paeseSlug}/${destinazione.slug}` },
           ]),
-        ]}
+          faqJsonLd([
+            { domanda: `Quanti giorni servono per ${destinazione.nome}?`, risposta: destinazione.giorniConsigliati },
+            { domanda: `Qual è il periodo migliore per ${destinazione.nome}?`, risposta: destinazione.periodoMigliore },
+            { domanda: `Come arrivare a ${destinazione.nome}?`, risposta: destinazione.comeArrivare },
+            { domanda: `Come spostarsi a ${destinazione.nome}?`, risposta: destinazione.comeSpostarsi },
+            { domanda: `Quanto costa ${destinazione.nome}?`, risposta: destinazione.costi },
+          ]),
+        ].filter((d) => d !== null)}
       />
       <PageHeader
         crumbs={[
@@ -84,7 +108,6 @@ export default async function DestinazionePage({
           { label: destinazione.nome },
         ]}
         eyebrow={destinazione.tipologia.join(' · ')}
-        badge={destinazione.visitataPersonalmente ? <ContentStatusBadge stato="provato" /> : undefined}
         title={destinazione.nome}
         lead={<Rich text={destinazione.introduzione} as="p" />}
         media={destinazione.immagine ? { tipo: 'foto', src: destinazione.immagine, alt: destinazione.imageAlt } : undefined}
@@ -145,16 +168,12 @@ export default async function DestinazionePage({
               </div>
             )}
 
-            {destinazione.miaEsperienza ? (
+            {destinazione.miaEsperienza && (
               <div>
                 <h2 className="font-display text-2xl text-alpine">La mia esperienza</h2>
                 <p className="mt-3 font-display text-xl italic leading-relaxed text-alpine">
                   {richNodes(destinazione.miaEsperienza)}
                 </p>
-              </div>
-            ) : (
-              <div className="rounded-none border border-dashed border-alpine/20 p-5 text-sm text-stone/70">
-                Ricordo personale da aggiungere.
               </div>
             )}
 
@@ -189,6 +208,7 @@ export default async function DestinazionePage({
                 sottotitolo: v.durataBreve,
               }))}
             />
+            <FirmaAutore />
           </div>
 
           <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">
@@ -198,10 +218,10 @@ export default async function DestinazionePage({
                 className="mt-4"
                 items={[
                   { label: 'Giorni consigliati', value: destinazione.giorniConsigliati },
-                  { label: 'Periodo migliore', value: destinazione.periodoMigliore ?? 'da confermare' },
-                  { label: 'Come arrivare', value: destinazione.comeArrivare ?? 'da completare' },
-                  { label: 'Come spostarsi', value: destinazione.comeSpostarsi ?? 'da completare' },
-                  { label: 'Costi', value: destinazione.costi ?? 'da completare' },
+                  { label: 'Periodo migliore', value: destinazione.periodoMigliore },
+                  { label: 'Come arrivare', value: destinazione.comeArrivare },
+                  { label: 'Come spostarsi', value: destinazione.comeSpostarsi },
+                  { label: 'Costi', value: destinazione.costi },
                 ]}
               />
             </div>

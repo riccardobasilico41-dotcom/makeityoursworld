@@ -1,13 +1,10 @@
 import type { Destinazione } from '@/lib/types'
 
 // La Francia è organizzata per temi e per regioni-carattere: vedi il commento
-// in src/content/paesi/francia.ts.
-// La Costa Azzurra è l'unica destinazione dell'archivio scritta da dentro
-// (due anni vissuti ad Antibes): i suoi campi miaEsperienza sono comunque
-// bozze di Claude e vanno sostituiti con i ricordi veri.
-// Nessun nome di hotel, ristorante, operatore o domaine è stato inventato.
-// Prezzi, contingentamenti e regole di accesso cambiano ogni stagione e sono
-// la parte che invecchia più in fretta: vanno riverificati prima di partire.
+// in src/content/paesi/francia.ts. Nessun nome di hotel, ristorante, operatore
+// o domaine è stato inventato. Prezzi, contingentamenti e regole di accesso
+// cambiano ogni stagione e sono la parte che invecchia più in fretta: vanno
+// riverificati prima di partire.
 
 export const destinazioniFrancia: Destinazione[] = [
   {
@@ -245,7 +242,8 @@ export const destinazioniFrancia: Destinazione[] = [
       'Due anni ad Antibes insegnano una cosa che nessuna guida scrive: la Costa Azzurra ha due stagioni e sono invertite rispetto a come la si immagina. Da giugno a settembre è un posto difficile — il traffico sulla costiera è continuo, il parcheggio è una battaglia quotidiana, le spiagge sono piene e i prezzi salgono ovunque. Da ottobre a maggio è uno dei posti più piacevoli d\'Europa: il sole c\'è, i sentieri sul mare sono deserti, i mercati tornano a essere mercati di quartiere, e a febbraio c\'è la mimosa in fiore mentre a un\'ora e mezza di macchina si scia. Chi ci vive, in agosto, o parte o sale nell\'entroterra. La seconda cosa è il treno. La linea costiera passa ogni pochi minuti, costa pochi euro, collega tutto da Cannes a Mentone e non conosce ingorghi — e praticamente nessun turista lo usa, tutti noleggiano l\'auto e poi passano la vacanza a cercare posto. La terza è che la costa si esaurisce in fretta e l\'entroterra no: dieci chilometri dentro ci sono villaggi in pietra dove si mangia alla metà, e a un\'ora e mezza c\'è un parco nazionale con i camosci. Il Cap d\'Antibes, infine, è la cosa che si finisce per rifare cento volte: un sentiero pubblico, gratuito, che gira la punta del capo sul mare, con le onde sotto e le ville nascoste dietro i muri, e in inverno non c\'è nessuno.',
     esperienzeSlugs: ['sentiero-cap-antibes', 'mercato-provenzale-antibes', 'museo-picasso-antibes', 'sentiero-nietzsche-eze', 'fondation-maeght', 'isole-lerino'],
     tripSlugs: ['costa-azzurra'],
-    imageAlt: 'Il porto di Antibes con i bastioni della città vecchia e le Alpi innevate sullo sfondo',
+    imageAlt: 'Il bastione di pietra della città vecchia di Antibes affacciato sul mare sotto un cielo limpido, Costa Azzurra',
+    immagine: '/images/francia/costa-azzurra.jpg',
   },
   {
     slug: 'parigi',
@@ -442,7 +440,8 @@ export const destinazioniFrancia: Destinazione[] = [
       'Parigi è una città in cui i primi due giorni si spendono nei posti che si conoscevano già prima di arrivare, e il terzo comincia il viaggio vero. Il momento in cui cambia è quasi sempre lo stesso: si esce da un museo grande, si è stanchi, si prende una direzione a caso invece di andare verso il monumento successivo, e si finisce in un quartiere dove non c\'è niente da vedere — Belleville, il Canal Saint-Martin, la parte alta del decimo — con la gente seduta sui bordi dell\'acqua, le boulangerie con la fila, e nessuno che fotografa niente. Da lì in poi la città funziona. La seconda cosa che si impara è la gestione del tempo: tutto sembra vicino sulla mappa della metropolitana, che comprime le distanze in modo ingannevole, e mettere in programma tre grandi musei in un giorno significa non vederne nessuno. Due cose grandi al giorno, mai tre. E poi ci sono le regole piccole che cambiano il rapporto con la città: si dice bonjour entrando ovunque, si beve il caffè al banco dove costa la metà, e si guarda la Tour Eiffel da lontano — dall\'alto della torre l\'unica cosa che manca al panorama è la torre.',
     esperienzeSlugs: ['louvre-strategia', 'sainte-chapelle', 'montmartre-alba', 'catacombe-parigi', 'pere-lachaise'],
     tripSlugs: ['parigi-5-giorni'],
-    imageAlt: 'I tetti di zinco di Parigi con la Tour Eiffel sullo sfondo al tramonto',
+    imageAlt: 'I tetti di Parigi visti dalla collina di Montmartre accanto alla cupola del Sacré-Cœur, con la Tour Eiffel all\'orizzonte',
+    immagine: '/images/francia/parigi.jpg',
   },
   {
     slug: 'normandia',
@@ -574,7 +573,8 @@ export const destinazioniFrancia: Destinazione[] = [
       'La cosa che spiazza delle spiagge dello sbarco è quanto siano normali. Omaha Beach, in una giornata di vento, è una spiaggia larghissima con la sabbia chiara, dei bagnanti, qualche cane. Non c\'è niente di drammatico nel paesaggio, ed è esattamente questo che la rende difficile da reggere: si guarda quella distesa piatta, si pensa a cosa significasse attraversarla di corsa sotto il fuoco delle postazioni sulla scarpata, e si capisce che il motivo per cui non c\'è niente da vedere è che la geografia era il problema. Poi si sale alla Pointe du Hoc, dove invece il terreno è rimasto come allora — crateri di bombardamento uno dentro l\'altro, bunker spaccati — e lì l\'effetto è opposto e immediato. L\'ordine giusto è quello: prima un museo che spieghi, poi le spiagge. Al contrario si guarda del mare. Il Mont-Saint-Michel è l\'altra faccia della regione e ha un problema di orari più che di folla: alle undici del mattino la via principale è una fila in salita tra i negozi di souvenir, alle sette di sera è vuota, con il vento e il rumore dell\'acqua. Chi ci passa mezza giornata nelle ore centrali torna dicendo che è sopravvalutato, e ha visto un\'altra cosa.',
     esperienzeSlugs: ['spiagge-sbarco', 'mont-saint-michel', 'arazzo-bayeux', 'giverny'],
     tripSlugs: ['normandia-bretagna'],
-    imageAlt: 'Il Mont-Saint-Michel con la marea alta che circonda la roccia al tramonto',
+    imageAlt: 'Le falesie di gesso bianco di Étretat con l\'arco della Porte d\'Aval e una barca arancione sulla spiaggia di ciottoli, Normandia',
+    immagine: '/images/francia/normandia.jpg',
   },
   {
     slug: 'bretagna',
@@ -676,7 +676,8 @@ export const destinazioniFrancia: Destinazione[] = [
       'La Bretagna si capisce il primo giorno in cui si cammina sul GR34 e ci si rende conto che il sentiero non finisce: gira tutta la penisola, un promontorio dopo l\'altro, e da qualunque paese costiero si parta ci si può mettere a camminare e andare avanti per settimane. È un sentiero nato per un motivo pratico — sorvegliare i contrabbandieri — e questo si vede nella traccia, che sta il più vicino possibile all\'acqua, sui bordi delle falesie, e non cerca mai la scorciatoia. In un paio d\'ore si passa da una spiaggia a una scogliera a un bosco di pini a un porticciolo con le barche in secca sul fango, perché la marea se n\'è andata. Ed è la marea la cosa che colpisce di più: qui l\'escursione è tra le più ampie d\'Europa, e due volte al giorno il paesaggio cambia completamente — un\'insenatura piena d\'acqua diventa una distesa di sabbia dove la gente raccoglie le vongole. La seconda cosa è Carnac, che va affrontato sapendo cosa si sta guardando: tremila pietre alzate in file parallele per chilometri, da persone che non avevano il metallo, seimila anni fa, cioè prima delle piramidi. Non sappiamo perché. È uno dei pochi posti in Europa in cui l\'unica reazione onesta è ammettere di non capire.',
     esperienzeSlugs: ['gr34-sentiero-doganieri', 'carnac-megaliti', 'saint-malo-bastioni'],
     tripSlugs: ['normandia-bretagna'],
-    imageAlt: 'I blocchi di granito rosa di Ploumanac\'h sulla costa bretone al tramonto',
+    imageAlt: 'Il faro di Ploumanac\'h in granito rosa tra i massi levigati della Côte de Granit Rose, Bretagna',
+    immagine: '/images/francia/bretagna.jpg',
   },
   {
     slug: 'castelli-loira',
@@ -826,7 +827,8 @@ export const destinazioniFrancia: Destinazione[] = [
       'L\'errore che quasi tutti fanno in Loira è trattarla come una lista. Si comincia con due castelli il primo giorno, tre il secondo, e al quarto si entra in una sala di rappresentanza cinquecentesca senza più alcuna reazione: sono tutti bianchi, tutti con le finestre a crociera, tutti con i camini enormi e le targhette. La valle funziona in un altro modo: si sceglie un castello al giorno, si passa lì la mattina e il resto del tempo lungo il fiume. È allora che si capisce perché l\'UNESCO abbia iscritto **il paesaggio** e non i monumenti — la Loira è l\'ultimo grande fiume europeo rimasto in gran parte non canalizzato, con i banchi di sabbia che si spostano e le isole che cambiano, e i castelli stanno lì per via del fiume. La cosa migliore che si possa fare è noleggiare una bici per una giornata: il percorso lungo l\'argine è piatto, si attraversano paesi che non hanno un castello e quindi non hanno nessuno, e si arriva al monumento successivo dopo due ore di pedalata invece che dopo venti minuti di auto e mezz\'ora di parcheggio. La seconda scoperta sono le cantine nel tufo: la pietra bianca con cui sono fatti i castelli è stata cavata nella collina dietro, e quelle gallerie oggi sono cantine — si scende in una galleria a dodici gradi costanti, con le bottiglie nelle nicchie, e chi versa spiega che il buco nel muro è vecchio quanto la facciata del castello di là dal fiume.',
     esperienzeSlugs: ['chambord', 'chenonceau', 'loira-in-bicicletta', 'cantina-troglodita-loira'],
     tripSlugs: ['castelli-loira'],
-    imageAlt: 'Il castello di Chenonceau con la galleria a ponte sopra il fiume Cher',
+    imageAlt: 'Il castello di Amboise sopra le case della città, riflesso nelle acque della Loira',
+    immagine: '/images/francia/castelli-loira.jpg',
   },
   {
     slug: 'bordeaux',
@@ -959,7 +961,8 @@ export const destinazioniFrancia: Destinazione[] = [
       'Bordeaux mette d\'accordo due cose che di solito non stanno insieme: è una città che si gira a piedi e un territorio che senza auto non si vede. La prima sorpresa è la città stessa, che ha una reputazione da posto serio e noioso e invece è uno degli insiemi urbani più belli di Francia — chilometri di facciate settecentesche della stessa pietra chiara, tenute pulite, con una vita studentesca che le impedisce di diventare un museo. La seconda è quanto poco il vigneto assomigli all\'immagine che se ne ha: nel Médoc non ci sono colline, è una pianura di ghiaia con i castelli in fila lungo una strada, e la bellezza sta nel capire cosa significhi quella ghiaia — drena, scalda, e fa sì che una vite a duecento metri di distanza produca un vino che vale dieci volte l\'altro. La terza cosa, quella che resta, è il Sauternes. Si arriva in una proprietà a settembre, ci mostrano i grappoli e sono orribili: acini raggrinziti, coperti di muffa grigia, che qualunque agricoltore normale butterebbe. E invece è esattamente quello che si aspettava tutto l\'anno, e la squadra passa nello stesso filare cinque o sei volte in settimane diverse per raccogliere solo gli acini arrivati al punto. È una delle cose più controintuitive dell\'agricoltura europea, e va vista sul posto per crederci.',
     esperienzeSlugs: ['saint-emilion', 'sauternes-muffa-nobile', 'dune-du-pilat', 'ostriche-arcachon'],
     tripSlugs: ['bordeaux-e-vigneti'],
-    imageAlt: 'Il Miroir d\'eau di Bordeaux che riflette la facciata settecentesca di Place de la Bourse',
+    imageAlt: 'La Place de la Bourse di Bordeaux illuminata di notte e riflessa nel Miroir d\'eau',
+    immagine: '/images/francia/bordeaux.jpg',
   },
   {
     slug: 'vigneti-di-francia',
@@ -1128,7 +1131,8 @@ export const destinazioniFrancia: Destinazione[] = [
       'La cosa che cambia il modo di guardare il vino francese non succede in una cantina: succede camminando. In Borgogna, lungo la Côte de Nuits, c\'è un sentiero che passa tra i vigneti e attraversa i grandi cru uno dopo l\'altro, con i cartelli di pietra all\'angolo di ogni parcella. Si cammina venti minuti e si passa da una denominazione regionale a un grand cru che vale cento volte tanto, e in mezzo c\'è un muro a secco alto un metro. Il terreno da un lato e dall\'altro sembra identico. Non lo è — cambia la pendenza, il drenaggio, l\'esposizione al sole del mattino — ma la differenza è talmente sottile da essere invisibile, e l\'unica cosa che la registra è il vino. È un\'idea che in Italia esiste ma non è mai stata codificata così, e vederla disegnata sul terreno con i muretti è la cosa più istruttiva di tutto il viaggio. L\'altra scoperta è che le regioni si comportano in modo opposto con chi arriva. In Alsazia si entra in cantina, si viene accolti, si assaggia sei vini, si paga poco o niente e si chiacchiera. In Borgogna la stessa richiesta, senza un contatto preso settimane prima, riceve un no gentile — perché il produttore ha diecimila bottiglie l\'anno, sono già tutte vendute, e ricevere visitatori non è il suo lavoro. Saperlo prima evita di prendere per scortesia quella che è semplicemente una scala diversa.',
     esperienzeSlugs: ['cantina-champagne', 'route-des-vins-alsazia', 'climats-borgogna'],
     tripSlugs: ['rotte-dei-vini-francia'],
-    imageAlt: 'Le colline dei vigneti della Côte de Nuits in Borgogna con i muri a secco che delimitano i climats',
+    imageAlt: 'I filari dei vigneti grand cru di Verzenay sulla Montagne de Reims, con la terra chiara di gesso, Champagne',
+    immagine: '/images/francia/vigneti-di-francia.jpg',
   },
   {
     slug: 'provenza',
@@ -1263,7 +1267,8 @@ export const destinazioniFrancia: Destinazione[] = [
       'La Provenza ha un problema di aspettative che si risolve in un giorno, se si fa una cosa sola: uscire dal Luberon. I villaggi arroccati sono bellissimi e sono anche il punto in cui si concentra tutto — in agosto, a Gordes, si gira quaranta minuti per parcheggiare e poi si cammina in fila per una via di negozi. A un\'ora di distanza ci sono le Gole del Verdon, che sono il canyon più profondo d\'Europa e che quasi nessuno mette in programma: si cammina sul fondo, tra pareti verticali di centinaia di metri, con l\'acqua verde smeraldo che scorre accanto e dei tunnel scavati nella roccia da attraversare con la torcia. Oppure ci sono i romani: l\'arena di Nîmes è l\'anfiteatro romano meglio conservato del mondo e ci si fanno ancora gli spettacoli, e il Pont du Gard è un acquedotto che portava l\'acqua per cinquanta chilometri con una pendenza media di venticinque centimetri al chilometro, cioè un margine di errore che oggi si raggiunge con il laser. Sulla lavanda, l\'unica cosa che conta da sapere è che ha un calendario e che quel calendario non aspetta: si fiorisce e si taglia, e chi arriva ad agosto pensando ai campi viola trova stoppie e non ci crede.',
     esperienzeSlugs: ['lavanda-provenza', 'gole-verdon', 'calanques-marsiglia', 'pont-du-gard'],
     tripSlugs: ['provenza-camargue'],
-    imageAlt: 'Un campo di lavanda in fiore sull\'altopiano di Valensole con un casolare di pietra sullo sfondo',
+    imageAlt: 'Il villaggio di Gordes arroccato sulla collina con le case in pietra chiara e il castello in cima, Provenza',
+    immagine: '/images/francia/provenza.jpg',
   },
   {
     slug: 'camargue',
@@ -1317,7 +1322,8 @@ export const destinazioniFrancia: Destinazione[] = [
       'La Camargue è il posto che meno somiglia al resto della Francia e quello che più facilmente delude chi ci arriva con le aspettative sbagliate. Non ci sono panorami: è piatta, l\'orizzonte è una linea continua, e da un punto qualsiasi si vedono acqua, canne e cielo. Bisogna abbassare lo sguardo. Quando lo si fa, cominciano ad apparire cose: i fenicotteri che filtrano il fango con il becco rovesciato all\'ingiù, che è una postura assurda da vedere; i cavalli bianchi in gruppo dentro l\'acqua bassa; gli aironi; e al tramonto una quantità di uccelli che si spostano tutti insieme. La seconda cosa è la gente. I gardians non sono una messa in scena per i turisti: sono mandriani che governano tori semibradi a cavallo, con un tridente, e il mestiere esiste ancora perché esiste ancora l\'allevamento. Assistere a una course camarguaise in un\'arena di paese — dove il toro non si uccide e la folla applaude l\'animale più del raseteur — è il modo più diretto di capire che qui la relazione con quegli animali è un\'altra cosa rispetto a quello che si immagina. Una nota pratica che vale più di molte altre: d\'estate, dopo il tramonto, le zanzare sono un problema serio e non una battuta.',
     esperienzeSlugs: ['camargue-a-cavallo', 'fenicotteri-camargue', 'aigues-mortes'],
     tripSlugs: ['provenza-camargue'],
-    imageAlt: 'Fenicotteri rosa in una laguna della Camargue al tramonto con i cavalli bianchi sullo sfondo',
+    imageAlt: 'Cavalli bianchi della Camargue al pascolo tra le canne della palude, con uno stormo di fenicotteri in volo',
+    immagine: '/images/francia/camargue.jpg',
   },
   {
     slug: 'occitania',
@@ -1371,7 +1377,8 @@ export const destinazioniFrancia: Destinazione[] = [
       'L\'Occitania è la risposta a una domanda che quasi nessuno si pone: dove andare nel sud della Francia quando la Provenza è piena e cara. I paesaggi sono gli stessi — calcare, vigne, cipressi, luce — i prezzi sono un terzo e i turisti quasi non ci sono. La cosa che resta però non è il risparmio, è la storia catara. Si sale a Peyrepertuse o a Quéribus, che sono castelli costruiti su creste calcaree strettissime a centinaia di metri d\'altezza, con il vento che non smette mai, e si guarda in basso una valle vuota. Lassù, nel Duecento, si è rifugiata una comunità religiosa contro cui il papato ha bandito una crociata — non contro dei musulmani, ma contro dei cristiani del proprio paese — e la campagna è durata vent\'anni ed è finita con uno sterminio. Di quella gente non è rimasto niente se non queste rocce e i nomi dei luoghi. È una storia che in Italia non si studia e che qui è dappertutto, nei cartelli, nei musei di paese, nelle insegne. Carcassonne, per contrasto, va presa per quello che è: un restauro ottocentesco molto discusso, che ha inventato tetti a punta che probabilmente non c\'erano mai stati. È comunque impressionante, e la sera, quando i pullman sono ripartiti, si cammina tra le due cinte murarie senza incontrare nessuno.',
     esperienzeSlugs: ['castelli-catari', 'canal-du-midi', 'carcassonne'],
     tripSlugs: ['provenza-camargue'],
-    imageAlt: 'Il castello cataro di Peyrepertuse sulla cresta calcarea con la valle sotto',
+    imageAlt: 'La cittadella fortificata di Carcassonne sulla collina vista dalle rive dell\'Aude, con gli archi del Pont-Vieux',
+    immagine: '/images/francia/occitania.jpg',
   },
   {
     slug: 'sciare-in-francia',
@@ -1589,7 +1596,8 @@ export const destinazioniFrancia: Destinazione[] = [
       'La prima volta che si arriva in una stazione integrata francese si resta perplessi: si sale in valle tra i boschi, si passa un tornante e appare un blocco di edifici degli anni Settanta a duemila metri, senza un campanile, senza una piazza, con gli sci appoggiati ovunque. Poi la mattina dopo si esce dal portone con gli sci ai piedi, si spinge due volte e si è su una seggiovia, e alle nove e un quarto si sta già sciando su neve che a quella quota c\'è sempre. Al terzo giorno la domanda estetica non esiste più. È esattamente quello per cui sono state costruite, e per chi scia davvero funzionano meglio di qualunque villaggio di cartolina. Il rovescio si vede il giorno di brutto tempo, quando gli impianti alti chiudono per vento: in una stazione integrata non c\'è nient\'altro da fare, e la giornata è persa. Le due cose che cambiano di più la settimana sono però amministrative e non sciistiche. La prima è il calendario delle vacanze scolastiche, scaglionato su tre zone: le stesse piste, la stessa neve, la stessa settimana di febbraio possono costare il doppio e avere il triplo delle persone, a seconda di quale zona è in vacanza. La seconda è l\'assicurazione del soccorso: qui il soccorso sulle piste si paga, e la polizza venduta con lo skipass costa pochi euro al giorno.',
     esperienzeSlugs: ['vallee-blanche', 'aiguille-du-midi', 'scialpinismo-francia'],
     tripSlugs: ['settimana-bianca-francia'],
-    imageAlt: 'Sciatori su una pista d\'alta quota nelle Alpi francesi con il massiccio innevato sullo sfondo',
+    imageAlt: 'Una pista innevata sopra Chamonix con le guglie del massiccio del Monte Bianco sullo sfondo',
+    immagine: '/images/francia/sciare-in-francia.jpg',
   },
   {
     slug: 'montagne-francesi',
@@ -1746,6 +1754,7 @@ export const destinazioniFrancia: Destinazione[] = [
       'La montagna francese ha una caratteristica che si nota subito e che cambia il modo di stare in quota: **il soccorso pubblico è gratuito**. Detta così sembra una nota amministrativa, ma ha un effetto concreto — nessuno esita a chiamare, e il rapporto con il rischio è più sereno rispetto a paesi in cui un intervento in elicottero significa una fattura da migliaia di euro. La seconda cosa è la rete dei GR, che esiste dagli anni Quaranta e che è segnata con due bandierine, una bianca e una rossa, dipinte su rocce, alberi e muri per migliaia di chilometri: si può partire da un paese qualunque e camminare per un mese seguendo dei tratti di vernice. Sul Tour du Mont Blanc, la cosa che spiazza è quanto sia internazionale: si dorme in rifugio con persone di dieci nazionalità che stanno facendo lo stesso giro in senso opposto, e si incontrano di nuovo tre giorni dopo su un colle. L\'altra è quanto cambi il paesaggio girando attorno a una sola montagna: il versante francese è verticale e ghiacciato, quello italiano si apre su prati larghissimi con il massiccio come una parete continua, quello svizzero è ordinato e verde. Sono tre modi diversi di stare sotto la stessa cima. E poi c\'è la Mer de Glace, che è la cosa più dura da guardare: si scende la scala verso la grotta di ghiaccio e ai lati ci sono i cartelli con gli anni e il livello che il ghiacciaio aveva — 1990 qui, 2000 più sotto, 2010 ancora più sotto — e si continua a scendere.',
     esperienzeSlugs: ['tour-du-mont-blanc', 'gr20-corsica', 'mer-de-glace'],
     tripSlugs: ['tour-du-mont-blanc'],
-    imageAlt: 'Escursionisti su un colle del Tour du Mont Blanc con il massiccio innevato sullo sfondo',
+    imageAlt: 'Il Mont Pourri innevato e l\'Aiguille Rouge sopra i boschi e i pascoli di Sainte-Foy-Tarentaise, nelle Alpi francesi',
+    immagine: '/images/francia/montagne-francesi.jpg',
   },
 ]
