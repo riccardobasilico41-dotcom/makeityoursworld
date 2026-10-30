@@ -29,6 +29,14 @@ export function Footer() {
           <Link href="/destinazioni" className="underline decoration-cream/30 underline-offset-4 hover:text-cream hover:decoration-cream">
             Tutte le destinazioni
           </Link>
+          <span className="mx-3 text-cream/30">·</span>
+          <Link href="/attrezzatura" className="underline decoration-cream/30 underline-offset-4 hover:text-cream hover:decoration-cream">
+            Cosa portare
+          </Link>
+          <span className="mx-3 text-cream/30">·</span>
+          <Link href="/lavoriamo-insieme" className="underline decoration-cream/30 underline-offset-4 hover:text-cream hover:decoration-cream">
+            Lavoriamo insieme
+          </Link>
         </p>
       </Container>
 
@@ -38,6 +46,18 @@ export function Footer() {
           <span className="mx-2 text-cream/30">·</span>
           <Link href="/crediti-fotografici" className="underline decoration-cream/30 underline-offset-4 hover:text-cream">
             Crediti fotografici
+          </Link>
+          <span className="mx-2 text-cream/30">·</span>
+          <Link href="/trasparenza" className="underline decoration-cream/30 underline-offset-4 hover:text-cream">
+            Trasparenza
+          </Link>
+          <span className="mx-2 text-cream/30">·</span>
+          <Link href="/privacy" className="underline decoration-cream/30 underline-offset-4 hover:text-cream">
+            Privacy
+          </Link>
+          <span className="mx-2 text-cream/30">·</span>
+          <Link href="/cookie" className="underline decoration-cream/30 underline-offset-4 hover:text-cream">
+            Cookie
           </Link>
         </p>
       </Container>

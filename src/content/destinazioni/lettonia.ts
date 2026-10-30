@@ -55,7 +55,8 @@ export const destinazioniLettonia: Destinazione[] = [
     ],
     esperienzeSlugs: ['riga-art-nouveau-passeggiata', 'riga-mercato-centrale-tour'],
     tripSlugs: ['capitali-baltiche'],
-    imageAlt: 'La Piazza del Duomo di Riga con la Cattedrale e le guglie della Città Vecchia al tramonto',
+    imageAlt: 'Lo skyline della Città Vecchia di Riga visto dalla Daugava, con le guglie di San Pietro e della Cattedrale sopra il lungofiume',
+    immagine: '/images/lettonia/riga.jpg',
   },
   {
     slug: 'jurmala',
@@ -93,6 +94,7 @@ export const destinazioniLettonia: Destinazione[] = [
     ],
     esperienzeSlugs: ['jurmala-spiaggia-ville-liberty'],
     tripSlugs: ['capitali-baltiche'],
-    imageAlt: 'Una villa di legno in stile Art Nouveau tra i pini di Jūrmala, con decorazioni intagliate e una veranda vetrata',
+    imageAlt: 'Una villa di legno con verande vetrate e decorazioni intagliate tra gli alberi di Jūrmala',
+    immagine: '/images/lettonia/jurmala.jpg',
   },
 ]

@@ -1,5 +1,7 @@
 import type { Metadata } from 'next'
 import { FirmaAutore } from '@/components/FirmaAutore'
+import { PrenotaQui } from '@/components/OrganizzaViaggio'
+import { link } from '@/lib/affiliazioni'
 import { notFound } from 'next/navigation'
 import { ArrowUpRight } from 'lucide-react'
 import { Container } from '@/components/ui/Container'
@@ -154,6 +156,12 @@ export default async function EsperienzaPage({
                 titolo: v.titolo,
                 sottotitolo: v.durataBreve,
               }))}
+            />
+            <PrenotaQui
+              voci={[
+                { etichetta: esperienza.nome, href: link.getyourguide(`${esperienza.nome} ${esperienza.localita}`), nota: 'GetYourGuide' },
+                { etichetta: esperienza.nome, href: link.viator(`${esperienza.nome} ${esperienza.localita}`), nota: 'Viator' },
+              ]}
             />
             <FirmaAutore />
           </div>

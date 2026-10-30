@@ -27,7 +27,8 @@ export const esperienzeSvizzera: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Schilthorn (più economico, panorama a 360° invece del ghiacciaio)', 'First con il Bachalpsee (molto più economico, richiede una camminata)'],
     tripSlugs: ['svizzera-alpi-van'],
-    imageAlt: 'Il treno a cremagliera del Jungfraujoch che emerge dalla galleria scavata nella roccia dell\'Eiger',
+    imageAlt: 'Un treno a cremagliera rosso e giallo della Jungfraubahn fermo in stazione, sotto le pareti innevate dell\'Eiger',
+    immagine: '/images/svizzera/jungfraujoch-top-of-europe.jpg',
   },
   {
     slug: 'via-ferrata-muerren-gimmelwald',
@@ -48,7 +49,8 @@ export const esperienzeSvizzera: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Sentiero normale Mürren-Gimmelwald a piedi, senza attrezzatura da ferrata'],
     tripSlugs: ['svizzera-alpi-van'],
-    imageAlt: 'Il ponte sospeso di 90 metri sopra la cascata del Mürrenbach lungo la via ferrata Mürren-Gimmelwald',
+    imageAlt: 'Le pareti a strapiombo e le cime dell\'Oberland bernese tra le nuvole, viste dal bordo della rupe di Mürren',
+    immagine: '/images/svizzera/via-ferrata-muerren-gimmelwald.jpg',
   },
   {
     slug: 'giro-battello-laghi-thun-brienz',
@@ -69,7 +71,8 @@ export const esperienzeSvizzera: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Passeggiata a piedi lungo l\'Höheweg di Interlaken, gratuita ma senza la prospettiva dal lago'],
     tripSlugs: ['svizzera-alpi-van'],
-    imageAlt: 'Un battello storico a vapore sul Lago di Brienz con le montagne della Jungfrau Region sullo sfondo',
+    imageAlt: 'Un battello di linea che naviga sulle acque turchesi del Lago di Brienz, con le montagne innevate sullo sfondo',
+    immagine: '/images/svizzera/giro-battello-laghi-thun-brienz.jpg',
   },
   {
     slug: 'trummelbachfalle',
@@ -90,6 +93,7 @@ export const esperienzeSvizzera: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['La cascata Staubbach, visibile gratuitamente dal centro di Lauterbrunnen, ma senza l\'accesso dentro la montagna'],
     tripSlugs: ['svizzera-alpi-van'],
-    imageAlt: 'Le gallerie scavate nella roccia alle Trümmelbachfälle con l\'acqua glaciale che precipita tra le pareti',
+    imageAlt: 'L\'acqua glaciale delle Trümmelbachfälle che scorre in una gola scavata nella roccia, vista da una galleria illuminata, Lauterbrunnen',
+    immagine: '/images/svizzera/trummelbachfalle.jpg',
   },
 ]

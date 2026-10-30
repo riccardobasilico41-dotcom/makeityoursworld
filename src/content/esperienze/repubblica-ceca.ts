@@ -27,7 +27,8 @@ export const esperienzeRepubblicaCeca: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Visitare solo i cortili esterni e la navata della Cattedrale, gratuiti, per chi ha poco tempo o budget limitato'],
     tripSlugs: ['praga-weekend'],
-    imageAlt: 'La facciata gotica della Cattedrale di San Vito vista dal cortile del Castello di Praga',
+    imageAlt: 'La navata gotica della Cattedrale di San Vito al Castello di Praga, con le volte a costoloni e le vetrate colorate in fondo al coro',
+    immagine: '/images/repubblica-ceca/praga-castello-biglietto.jpg',
   },
   {
     slug: 'praga-josefov-jewish-town',
@@ -48,7 +49,8 @@ export const esperienzeRepubblicaCeca: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Un tour guidato a piedi del quartiere ebraico, con biglietti d\'ingresso inclusi, per chi preferisce un racconto guidato invece della sola visita autonoma'],
     tripSlugs: ['praga-weekend'],
-    imageAlt: 'Le lapidi fitte e sovrapposte dell\'Antico Cimitero Ebraico di Josefov, Praga',
+    imageAlt: 'Le lapidi antiche e fitte, coperte di muschio, dell\'Antico Cimitero Ebraico di Josefov a Praga, con la tomba di Mordechai Maisel',
+    immagine: '/images/repubblica-ceca/praga-josefov-jewish-town.jpg',
   },
   {
     slug: 'praga-degustazione-birra',

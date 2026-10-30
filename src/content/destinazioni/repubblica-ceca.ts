@@ -56,6 +56,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
     ],
     esperienzeSlugs: ['praga-castello-biglietto', 'praga-josefov-jewish-town', 'praga-degustazione-birra'],
     tripSlugs: ['praga-weekend'],
-    imageAlt: 'Il Ponte Carlo a Praga visto dalla Città Vecchia, con le torri del Castello e la Cattedrale di San Vito sullo sfondo',
+    imageAlt: 'Il Castello di Praga e la Cattedrale di San Vito illuminati all\'ora blu, con il Ponte Carlo e la Moldava in primo piano',
+    immagine: '/images/repubblica-ceca/praga.jpg',
   },
 ]

@@ -89,7 +89,8 @@ export const destinazioniSvizzera: Destinazione[] = [
     ],
     esperienzeSlugs: ['trummelbachfalle'],
     tripSlugs: ['svizzera-alpi-van'],
-    imageAlt: 'La cascata Staubbach che precipita per 300 metri nella valle di Lauterbrunnen',
+    imageAlt: 'La cascata Staubbach che precipita dalla parete di roccia sopra gli chalet di Lauterbrunnen, tra le nuvole basse, in toni quasi monocromi',
+    immagine: '/images/svizzera/lauterbrunnen.jpg',
   },
   {
     slug: 'grindelwald',
@@ -125,7 +126,8 @@ export const destinazioniSvizzera: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['svizzera-alpi-van'],
-    imageAlt: 'Il First Cliff Walk sospeso sulla parete rocciosa con l\'Eiger sullo sfondo, Grindelwald',
+    imageAlt: 'La parete nord dell\'Eiger innevata che domina il villaggio di Grindelwald, con chalet e prati verdi ai suoi piedi',
+    immagine: '/images/svizzera/grindelwald.jpg',
   },
   {
     slug: 'jungfraujoch',
@@ -162,7 +164,8 @@ export const destinazioniSvizzera: Destinazione[] = [
     ],
     esperienzeSlugs: ['jungfraujoch-top-of-europe'],
     tripSlugs: ['svizzera-alpi-van'],
-    imageAlt: 'Il ghiacciaio dell\'Aletsch visto dalle terrazze panoramiche del Jungfraujoch',
+    imageAlt: 'Il ghiacciaio dell\'Aletsch e lo Jungfraufirn visti dalla terrazza panoramica della Sphinx al Jungfraujoch',
+    immagine: '/images/svizzera/jungfraujoch.jpg',
   },
   {
     slug: 'muerren-schilthorn',
@@ -227,7 +230,8 @@ export const destinazioniSvizzera: Destinazione[] = [
     ],
     esperienzeSlugs: ['via-ferrata-muerren-gimmelwald'],
     tripSlugs: ['svizzera-alpi-van'],
-    imageAlt: 'Il ristorante girevole Piz Gloria in cima allo Schilthorn con vista sulle Alpi Bernesi',
+    imageAlt: 'Una cabina della funivia dello Schilthorn sospesa tra Mürren e Birg, sopra le pareti rocciose della valle di Lauterbrunnen',
+    immagine: '/images/svizzera/muerren-schilthorn.jpg',
   },
   {
     slug: 'grimsel-furka',
@@ -262,7 +266,8 @@ export const destinazioniSvizzera: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['svizzera-alpi-van'],
-    imageAlt: 'La strada del Grimselpass che sale tra i laghi artificiali color smeraldo e la roccia grigia',
+    imageAlt: 'La valle del Grimselpass con i laghi artificiali tra le rocce granitiche e le cime ancora innevate',
+    immagine: '/images/svizzera/grimsel-furka.jpg',
   },
   {
     slug: 'zermatt',
@@ -299,6 +304,7 @@ export const destinazioniSvizzera: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['svizzera-alpi-van'],
-    imageAlt: 'Il Cervino visto dal centro di Zermatt, con i tradizionali fienili di legno in primo piano',
+    imageAlt: 'Il Cervino al tramonto riflesso in un laghetto alpino sopra Zermatt, con un escursionista di spalle in primo piano',
+    immagine: '/images/svizzera/zermatt.jpg',
   },
 ]

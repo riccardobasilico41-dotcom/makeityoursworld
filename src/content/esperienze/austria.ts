@@ -27,7 +27,8 @@ export const esperienzeAustria: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Visitare solo il parco e la Gloriette, gratuiti (a parte il biglietto per salire sulla Gloriette), per chi ha poco tempo o budget limitato'],
     tripSlugs: ['vienna-weekend'],
-    imageAlt: 'La facciata gialla della Reggia di Schönbrunn a Vienna vista dai giardini con la Gloriette sullo sfondo',
+    imageAlt: 'La facciata gialla della Reggia di Schönbrunn a Vienna vista dai giardini, con le aiuole fiorite in primo piano',
+    immagine: '/images/austria/vienna-schonbrunn-biglietto.jpg',
   },
   {
     slug: 'vienna-opera-stehplatz',
@@ -48,7 +49,8 @@ export const esperienzeAustria: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Un biglietto a sedere nelle categorie più economiche, prenotabile in anticipo online, per chi preferisce la certezza del posto assegnato'],
     tripSlugs: ['vienna-weekend'],
-    imageAlt: 'L\'interno dorato e rosso della sala principale della Wiener Staatsoper, l\'Opera di Stato di Vienna',
+    imageAlt: 'L\'edificio della Wiener Staatsoper illuminato di sera, con le scie luminose del traffico sul Ring in primo piano',
+    immagine: '/images/austria/vienna-opera-stehplatz.jpg',
   },
   {
     slug: 'vienna-giro-caffe-storici',
@@ -69,6 +71,7 @@ export const esperienzeAustria: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Un caffè di quartiere fuori dal centro più turistico, più economico e altrettanto autentico per chi vuole evitare i prezzi delle insegne più famose'],
     tripSlugs: ['vienna-weekend'],
-    imageAlt: 'L\'interno del Café Central a Vienna, con i tavolini di marmo, le sedie Thonet e i soffitti a volta decorati',
+    imageAlt: 'Le volte a crociera decorate e i lampadari a globo del Café Central di Vienna, con le colonne in stile neogotico',
+    immagine: '/images/austria/vienna-giro-caffe-storici.jpg',
   },
 ]

@@ -22,7 +22,8 @@ export const esperienzeBulgaria: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: [],
     tripSlugs: ['bulgaria-bansko-rila'],
-    imageAlt: 'Sciatori sulle piste innevate di Bansko, Bulgaria',
+    imageAlt: 'Le cime innevate del Pirin sopra Bansko che emergono da un mare di nuvole sotto il cielo blu, Bulgaria',
+    immagine: '/images/bulgaria/sci-bansko.jpg',
   },
   {
     slug: 'discesa-notturna-bansko',

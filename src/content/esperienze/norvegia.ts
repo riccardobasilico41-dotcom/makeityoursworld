@@ -52,7 +52,8 @@ export const esperienzeNorvegia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['Festvågtind trail, più tecnico e meno affollato'],
     tripSlugs: ['lofoten-estate-2025'],
-    imageAlt: 'Vista dall\'alto del Reinebringen sul villaggio di Reine e i fiordi, Lofoten',
+    imageAlt: 'Il villaggio di Reine affacciato sul fiordo, con le casette rosse e le cime aguzze che lo circondano, Lofoten',
+    immagine: '/images/norvegia/reinebringen.jpg',
   },
   {
     slug: 'festvagtind-trail',
@@ -74,7 +75,8 @@ export const esperienzeNorvegia: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: ['Reinebringen, più semplice tecnicamente ma più affollato'],
     tripSlugs: ['lofoten-estate-2025'],
-    imageAlt: 'Sentiero roccioso del Festvågtind trail con vista sul mare, Lofoten',
+    imageAlt: 'Il porticciolo di Henningsvær con le case colorate e le montagne frastagliate dell\'Austvågøy sullo sfondo, Lofoten',
+    immagine: '/images/norvegia/festvagtind-trail.jpg',
   },
   {
     slug: 'spiaggia-di-bunes',
@@ -163,7 +165,8 @@ export const esperienzeNorvegia: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: [],
     tripSlugs: ['lofoten-estate-2025'],
-    imageAlt: 'Sentiero panoramico lungo il fiordo tra Nesland e Nusfjord, Lofoten',
+    imageAlt: 'Le case rosse e gialle dei pescatori di Nusfjord affacciate sul piccolo porto, sotto una parete di granito, Lofoten',
+    immagine: '/images/norvegia/nesland-nusfjord.jpg',
   },
   {
     slug: 'aurora-chase-minibus-tromso',
@@ -185,7 +188,8 @@ export const esperienzeNorvegia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['tromso'],
-    imageAlt: 'Minibus fermo su una strada innevata con aurora boreale visibile in cielo vicino a Tromsø',
+    imageAlt: 'L\'aurora boreale verde che si alza sopra una montagna innevata nei dintorni di Tromsø, in una notte stellata',
+    immagine: '/images/norvegia/aurora-chase-minibus-tromso.jpg',
   },
   {
     slug: 'husky-sledding-tromso',
@@ -336,6 +340,7 @@ export const esperienzeNorvegia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['I traghetti pubblici locali verso le isole del fiordo (Hovedøya, Gressholmen), più economici e senza guida'],
     tripSlugs: ['capitali-nordiche'],
-    imageAlt: 'Barca a vela in legno che naviga sull\'Oslofjord con lo skyline di Oslo sullo sfondo',
+    imageAlt: 'Il lungomare di Oslo con il Municipio in mattoni rossi visto da un traghetto sull\'Oslofjord',
+    immagine: '/images/norvegia/oslofjord-crociera.jpg',
   },
 ]

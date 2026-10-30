@@ -21,6 +21,13 @@ export const siteConfig = {
 
   contact: {
     instagram: '',
+    /** Email pubblica per contatti, consulenze e collaborazioni: DA INSERIRE. */
+    email: '',
+  },
+  /** Titolare del sito per privacy e note legali. Indirizzo DA INSERIRE. */
+  titolare: {
+    nome: 'Riccardo Basilico',
+    indirizzo: '',
   },
 } as const
 

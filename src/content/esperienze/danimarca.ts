@@ -27,7 +27,8 @@ export const esperienzeDanimarca: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Attraversare gli stessi canali in kayak a noleggio, più lento ma più attivo, per chi preferisce un\'esperienza meno passiva'],
     tripSlugs: ['capitali-nordiche'],
-    imageAlt: 'Battello turistico che naviga lungo il canale di Nyhavn tra le case colorate del XVII secolo',
+    imageAlt: 'Un motoscafo turistico che naviga nel canale di Nyhavn tra velieri ormeggiati e le case colorate, Copenaghen',
+    immagine: '/images/danimarca/nyhavn-giro-in-barca.jpg',
   },
   {
     slug: 'copenaghen-tour-in-bicicletta',
@@ -92,6 +93,7 @@ export const esperienzeDanimarca: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Un ristorante storico di smørrebrød nel centro, più formale e più caro, per chi vuole l\'esperienza al tavolo invece che al banco'],
     tripSlugs: ['capitali-nordiche'],
-    imageAlt: 'Vassoio di smørrebrød danese con diverse farciture su pane di segale scuro, in un banco di Torvehallerne',
+    imageAlt: 'I banchi gastronomici allineati sotto la copertura in vetro e acciaio del mercato coperto di Torvehallerne a Copenaghen',
+    immagine: '/images/danimarca/smorrebrod-tour-torvehallerne.jpg',
   },
 ]

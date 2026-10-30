@@ -58,6 +58,7 @@ export const destinazioniUngheria: Destinazione[] = [
     ],
     esperienzeSlugs: ['terme-szechenyi', 'terme-gellert', 'crociera-danubio', 'ruin-bar-tour'],
     tripSlugs: ['budapest-weekend'],
-    imageAlt: 'Il Bastione dei Pescatori e la Chiesa di Mattia sul colle di Buda, con Pest e il Danubio sullo sfondo',
+    imageAlt: 'Le torri bianche a cono del Bastione dei Pescatori sul colle di Buda, sotto un cielo azzurro',
+    immagine: '/images/ungheria/budapest.jpg',
   },
 ]

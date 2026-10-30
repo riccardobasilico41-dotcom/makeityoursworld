@@ -29,7 +29,8 @@ export const esperienzePaesiBassi: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Nessuna vera alternativa equivalente: chi non trova biglietti può comunque vedere l\'esterno dell\'edificio sul Prinsengracht e visitare il centro di documentazione adiacente'],
     tripSlugs: ['amsterdam-weekend'],
-    imageAlt: 'La facciata del Prinsengracht 263 ad Amsterdam, l\'edificio che ospita il museo della Casa di Anna Frank',
+    imageAlt: 'Il cortile interno in mattoni tra la casa principale e il retro, visto dall\'alto da una finestra della Casa di Anna Frank ad Amsterdam',
+    immagine: '/images/paesi-bassi/casa-di-anna-frank.jpg',
   },
   {
     slug: 'amsterdam-in-bicicletta',
@@ -73,6 +74,7 @@ export const esperienzePaesiBassi: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Un tour in barca elettrica autonoma senza skipper, senza patente nautica richiesta, per chi vuole più libertà di percorso e meno commento storico'],
     tripSlugs: ['amsterdam-weekend'],
-    imageAlt: 'Una barca turistica che naviga lungo uno dei canali del Grachtengordel ad Amsterdam, tra case a schiera del Seicento',
+    imageAlt: 'Fotografia d\'epoca in bianco e nero di un battello turistico carico di passeggeri su un canale di Amsterdam, con la torre della Zuiderkerk sullo sfondo',
+    immagine: '/images/paesi-bassi/crociera-sui-canali-amsterdam.jpg',
   },
 ]

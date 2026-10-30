@@ -26,7 +26,8 @@ export const esperienzeEstonia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Il solo giro nel parco e nei giardini, per chi preferisce restare all\'aperto senza una visita museale'],
     tripSlugs: ['capitali-baltiche'],
-    imageAlt: 'Il Palazzo barocco di Kadriorg a Tallinn con i giardini geometrici in primo piano',
+    imageAlt: 'Il Palazzo barocco di Kadriorg a Tallinn con il giardino all\'italiana e la fontana in primo piano',
+    immagine: '/images/estonia/tallinn-kadriorg-kumu.jpg',
   },
   {
     slug: 'tallinn-telliskivi-creative-city',
@@ -47,6 +48,7 @@ export const esperienzeEstonia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Un giro più mirato ai soli mercati del weekend, quando il quartiere è più animato e i banchi gastronomici temporanei aprono tra i capannoni'],
     tripSlugs: ['capitali-baltiche'],
-    imageAlt: 'Un murale colorato su un vecchio capannone industriale nel quartiere creativo di Telliskivi, a Tallinn',
+    imageAlt: 'L\'ex fabbrica in mattoni del quartiere di Telliskivi a Tallinn, con i graffiti colorati lungo la base della facciata',
+    immagine: '/images/estonia/tallinn-telliskivi-creative-city.jpg',
   },
 ]

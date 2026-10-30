@@ -87,7 +87,7 @@ export const destinazioniLituania: Destinazione[] = [
     ],
     esperienzeSlugs: ['uzupis-repubblica-passeggiata'],
     tripSlugs: ['capitali-baltiche'],
-    imageAlt: 'Il centro storico di Vilnius tra il verde, con le cupole e i tetti delle chiese e la collina della Torre di Gediminas sullo sfondo',
+    imageAlt: 'Il centro storico di Vilnius tra il verde, con le cupole e i tetti delle chiese e le colline boscose sullo sfondo',
     immagine: '/images/lituania/vilnius.jpg',
   },
   {
@@ -128,6 +128,7 @@ export const destinazioniLituania: Destinazione[] = [
     ],
     esperienzeSlugs: ['trakai-castello-lago-galve'],
     tripSlugs: ['capitali-baltiche'],
-    imageAlt: 'Il Castello dell\'Isola di Trakai, in mattoni rossi gotici, riflesso nelle acque del lago Galvė con il ponte pedonale in legno',
+    imageAlt: 'Il Castello dell\'Isola di Trakai in mattoni rossi riflesso nelle acque calme del lago Galvė, tra gli alberi',
+    immagine: '/images/lituania/trakai.jpg',
   },
 ]

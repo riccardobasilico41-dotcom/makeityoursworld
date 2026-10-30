@@ -52,7 +52,8 @@ export const esperienzePolonia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Il Percorso dei Minatori, più fisico ed esperienziale, per chi vuole qualcosa di più del percorso standard'],
     tripSlugs: ['cracovia-weekend'],
-    imageAlt: 'La Cappella di Santa Kinga nella Miniera di sale di Wieliczka, con lampadari e bassorilievi scolpiti interamente nel sale',
+    imageAlt: 'Una galleria sotterranea rivestita di travi di legno lungo il percorso turistico della Miniera di sale di Wieliczka',
+    immagine: '/images/polonia/wieliczka-miniera-di-sale.jpg',
   },
   {
     slug: 'kazimierz-food-vodka-tour',
@@ -73,6 +74,7 @@ export const esperienzePolonia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Girare da soli i bary mleczne e i locali di Plac Nowy, più lento ma più economico e senza vincoli di orario'],
     tripSlugs: ['cracovia-weekend'],
-    imageAlt: 'Un banco di pierogi appena fatti in un bar mleczny di Cracovia, con diverse varietà servite su un piatto',
+    imageAlt: 'La Sinagoga Tempel e il Centro della Comunità Ebraica in una strada innevata di Kazimierz, il quartiere ebraico di Cracovia',
+    immagine: '/images/polonia/kazimierz-food-vodka-tour.jpg',
   },
 ]

@@ -28,7 +28,8 @@ export const esperienzeUngheria: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Le Terme di Gellért, più piccole e in stile Art Nouveau, per un\'atmosfera diversa — vedi la scheda dedicata'],
     tripSlugs: ['budapest-weekend'],
-    imageAlt: 'Le vasche esterne color giallo ocra delle Terme di Széchenyi a Budapest, con il vapore che sale dall\'acqua calda',
+    imageAlt: 'La grande piscina esterna delle Terme di Széchenyi a Budapest, circondata dagli edifici neobarocchi color giallo',
+    immagine: '/images/ungheria/terme-szechenyi.jpg',
   },
   {
     slug: 'terme-gellert',

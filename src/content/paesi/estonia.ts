@@ -46,6 +46,7 @@ export const estonia: Paese = {
     emergenze: 'Numero unico europeo 112. L\'Ambasciata d\'Italia è a Tallinn.',
     aggiornatoAl: 'settembre 2026',
   },
-  heroImageAlt: 'I tetti rossi e le torri medievali della Città Vecchia di Tallinn viste dalla piattaforma panoramica di Kohtuotsa',
+  heroImageAlt: 'Panorama della Città Vecchia di Tallinn tra il verde, con le torri medievali, i tetti rossi e la guglia di Sant\'Olaf, e il mare sullo sfondo',
+  heroImage: '/images/estonia/estonia-paese.jpg',
   tripPrincipaleSlug: 'capitali-baltiche',
 }

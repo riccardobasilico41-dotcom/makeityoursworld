@@ -1,5 +1,7 @@
 import type { Metadata } from 'next'
 import { FirmaAutore } from '@/components/FirmaAutore'
+import { PrenotaQui } from '@/components/OrganizzaViaggio'
+import { link } from '@/lib/affiliazioni'
 import { notFound } from 'next/navigation'
 import { ArrowUpRight } from 'lucide-react'
 import { Container } from '@/components/ui/Container'
@@ -207,6 +209,15 @@ export default async function DestinazionePage({
                 titolo: v.titolo,
                 sottotitolo: v.durataBreve,
               }))}
+            />
+            <PrenotaQui
+              voci={[
+                { etichetta: `Hotel: ${destinazione.nome}`, href: link.booking(`${destinazione.nome}, ${paese.nome}`), nota: 'Booking' },
+                ...(paese.continente === 'Asia'
+                  ? [{ etichetta: `Hotel: ${destinazione.nome}`, href: link.tripcomHotel(destinazione.nome), nota: 'Trip.com' }]
+                  : []),
+                { etichetta: `Attività: ${destinazione.nome}`, href: link.getyourguide(destinazione.nome), nota: 'GetYourGuide' },
+              ]}
             />
             <FirmaAutore />
           </div>

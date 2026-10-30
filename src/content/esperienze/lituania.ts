@@ -48,6 +48,7 @@ export const esperienzeLituania: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Solo la visita al castello, per chi ha meno tempo o preferisce non affrontare il lago in barca'],
     tripSlugs: ['capitali-baltiche'],
-    imageAlt: 'Una barca a remi sul lago Galvė con il Castello dell\'Isola di Trakai sullo sfondo',
+    imageAlt: 'La lunga passerella di legno che attraversa il lago Galvė verso il Castello dell\'Isola di Trakai',
+    immagine: '/images/lituania/trakai-castello-lago-galve.jpg',
   },
 ]

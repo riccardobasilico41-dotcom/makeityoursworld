@@ -3,6 +3,7 @@ import { siteConfig } from '@/lib/site-config'
 import { getAllViaggi } from '@/lib/viaggi'
 import { getAllPaesi, getDestinazioniByPaese, getEsperienzeByPaese } from '@/lib/geo'
 import { getAllMeraviglie } from '@/lib/meraviglie'
+import { listeAttrezzatura } from '@/content/attrezzatura'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const paesi = getAllPaesi()
@@ -12,9 +13,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { path: '/viaggi', priority: 0.9, changeFrequency: 'weekly' as const },
     { path: '/destinazioni', priority: 0.9, changeFrequency: 'weekly' as const },
     { path: '/meraviglie', priority: 0.9, changeFrequency: 'weekly' as const },
+    { path: '/trasparenza', priority: 0.3, changeFrequency: 'yearly' as const },
+    { path: '/lavoriamo-insieme', priority: 0.5, changeFrequency: 'monthly' as const },
     ...getAllMeraviglie().map((m) => ({
       path: `/meraviglie/${m.slug}`,
       priority: 0.8,
+      changeFrequency: 'monthly' as const,
+    })),
+    { path: '/attrezzatura', priority: 0.7, changeFrequency: 'monthly' as const },
+    ...listeAttrezzatura.map((l) => ({
+      path: `/attrezzatura/${l.slug}`,
+      priority: 0.6,
       changeFrequency: 'monthly' as const,
     })),
     ...getAllViaggi().map((v) => ({

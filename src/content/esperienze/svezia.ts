@@ -35,7 +35,8 @@ export const esperienzeSvezia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['lapponia-svedese-abisko'],
-    imageAlt: 'Stazione panoramica Aurora Sky Station illuminata sul monte Nuolja con aurora boreale sullo sfondo',
+    imageAlt: 'Il villaggio di Abisko e il lago Torneträsk visti dal monte Nuolja, dove si trova l\'Aurora Sky Station, in una giornata estiva',
+    immagine: '/images/svezia/aurora-sky-station.jpg',
   },
   {
     slug: 'motoslitta-lago-ghiacciato',
@@ -58,7 +59,8 @@ export const esperienzeSvezia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['lapponia-svedese-abisko'],
-    imageAlt: 'Motoslitta che attraversa un lago ghiacciato circondato da montagne innevate in Lapponia',
+    imageAlt: 'Il paesaggio innevato del Parco nazionale di Abisko con una piccola sauna di legno e le montagne della Lapponia sullo sfondo',
+    immagine: '/images/svezia/motoslitta-lago-ghiacciato.jpg',
   },
   {
     slug: 'husky-sledding-caccia-aurora',
@@ -81,7 +83,8 @@ export const esperienzeSvezia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['lapponia-svedese-abisko'],
-    imageAlt: 'Slitta trainata da husky sulla neve al crepuscolo con aurora boreale visibile in cielo',
+    imageAlt: 'Betulle spoglie e una distesa di neve nel Parco nazionale di Abisko, con le montagne della Lapponia all\'orizzonte',
+    immagine: '/images/svezia/husky-sledding-caccia-aurora.jpg',
   },
   {
     slug: 'icehotel-jukkasjarvi',
@@ -210,6 +213,7 @@ export const esperienzeSvezia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['I traghetti pubblici Waxholmsbolaget, più economici e più liberi nei tempi ma senza guida'],
     tripSlugs: ['capitali-nordiche'],
-    imageAlt: 'Isolotto con case di legno rosse tradizionali nell\'arcipelago di Stoccolma, circondato da acqua calma',
+    imageAlt: 'Il battello di linea dell\'arcipelago ormeggiato al pontile di Arholma accanto a una casa gialla sul mare, nell\'arcipelago di Stoccolma',
+    immagine: '/images/svezia/arcipelago-stoccolma-in-barca.jpg',
   },
 ]

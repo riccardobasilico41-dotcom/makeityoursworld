@@ -56,6 +56,7 @@ export const destinazioniAustria: Destinazione[] = [
     ],
     esperienzeSlugs: ['vienna-schonbrunn-biglietto', 'vienna-opera-stehplatz', 'vienna-giro-caffe-storici'],
     tripSlugs: ['vienna-weekend'],
-    imageAlt: 'La Cattedrale di Santo Stefano a Vienna con il tetto in tegole colorate visto dall\'alto della torre sud',
+    imageAlt: 'Il tetto in tegole smaltate a zig-zag colorate della Cattedrale di Santo Stefano a Vienna, tra le guglie gotiche',
+    immagine: '/images/austria/vienna.jpg',
   },
 ]

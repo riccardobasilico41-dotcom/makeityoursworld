@@ -49,7 +49,8 @@ export const esperienzeIslanda: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['islanda-2024'],
-    imageAlt: 'Colata di lava incandescente durante un\'eruzione vulcanica sulla penisola di Reykjanes, Islanda',
+    imageAlt: 'La fessura eruttiva e le colate di lava incandescente nella notte durante l\'eruzione del dicembre 2023 sulla penisola di Reykjanes, Islanda',
+    immagine: '/images/islanda/vulcano-reykjanes.jpg',
   },
   {
     slug: 'trekking-ghiacciaio-vatnajokull',
@@ -71,7 +72,8 @@ export const esperienzeIslanda: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['islanda-2024'],
-    imageAlt: 'Escursionisti con ramponi che camminano sul ghiacciaio Vatnajökull, Islanda',
+    imageAlt: 'La lingua glaciale dello Skaftafellsjökull, propaggine del Vatnajökull, che scende tra le montagne del Parco di Skaftafell, Islanda',
+    immagine: '/images/islanda/trekking-ghiacciaio-vatnajokull.jpg',
   },
   {
     slug: 'kayak-jokulsarlon',
@@ -93,7 +95,8 @@ export const esperienzeIslanda: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['Punto panoramico gratuito sulla riva della laguna, senza kayak'],
     tripSlugs: ['islanda-2024'],
-    imageAlt: 'Kayak tra gli iceberg nella laguna glaciale di Jökulsárlón, Islanda',
+    imageAlt: 'Iceberg azzurri che galleggiano nella laguna glaciale di Jökulsárlón e si riflettono nell\'acqua calma, con le montagne innevate sullo sfondo, Islanda',
+    immagine: '/images/islanda/kayak-jokulsarlon.jpg',
   },
   {
     slug: 'relitto-aereo-solheimasandur',

@@ -60,6 +60,7 @@ export const destinazioniDanimarca: Destinazione[] = [
     ],
     esperienzeSlugs: ['nyhavn-giro-in-barca', 'copenaghen-tour-in-bicicletta', 'christiania-visita', 'smorrebrod-tour-torvehallerne'],
     tripSlugs: ['capitali-nordiche'],
-    imageAlt: 'Le case colorate del XVII secolo lungo il canale di Nyhavn a Copenaghen, con le barche ormeggiate al molo',
+    imageAlt: 'Il centro di Copenaghen illuminato di notte visto dall\'alto, con la piazza del Municipio e le strade piene di luci',
+    immagine: '/images/danimarca/copenaghen.jpg',
   },
 ]

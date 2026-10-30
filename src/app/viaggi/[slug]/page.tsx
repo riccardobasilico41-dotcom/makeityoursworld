@@ -1,5 +1,7 @@
 import type { Metadata } from 'next'
 import { FirmaAutore, FirmaBreve } from '@/components/FirmaAutore'
+import { OrganizzaViaggio } from '@/components/OrganizzaViaggio'
+import { listaPerViaggio } from '@/content/attrezzatura'
 import { notFound } from 'next/navigation'
 import { Prose } from '@/components/Prose'
 import { ScrollProgress } from '@/components/motion-primitives/scroll-progress'
@@ -85,6 +87,7 @@ export default async function ViaggioPage({ params }: PageProps<'/viaggi/[slug]'
     toc.push({ href: `#${slugify(consigliSezione.titolo)}`, label: 'Consigli pratici' })
     toc.push({ href: `#${slugify(consigliSezione.titolo)}`, label: 'Errori da evitare' })
   }
+  if (meta) toc.push({ href: '#organizza', label: 'Organizza il viaggio' })
 
   return (
     <>
@@ -300,6 +303,13 @@ function SignatureViaggioContent({
                 ))}
               </div>
             )}
+            <OrganizzaViaggio
+              tappe={meta.tappeMappa.map((t) => t.nome.replace(/^(Rientro|Ritorno|Arrivo) (a|ad|in) /i, ''))}
+              paese={viaggio.categorie[1] ?? getContinente(viaggio.categorie)}
+              asia={getContinente(viaggio.categorie) === 'Asia'}
+              cina={viaggio.categorie.includes('Cina')}
+              lista={listaPerViaggio(viaggio.slug)}
+            />
             <FirmaAutore />
           </div>
 
