@@ -1,6 +1,6 @@
 import type { Esperienza } from '@/lib/types'
 
-// Contenuto ricostruito dal viaggio "New York 360°" (src/content/viaggi/08-new-york-360.md).
+// Contenuto ricostruito dal viaggio "New York" (src/content/viaggi/08-new-york-360.md).
 // partita-sportiva-live è collegata a Times Square/Midtown come base logistica,
 // dato che nessuna delle 5 zone del sito copre direttamente gli stadi di
 // Bronx/Queens/Brooklyn dove si giocano le partite.

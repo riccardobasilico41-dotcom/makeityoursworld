@@ -1,4 +1,4 @@
-# New York 360°: grattacieli, quartieri e una partita a testa tra baseball e basket
+# New York: grattacieli, quartieri e una partita a testa tra baseball e basket
 
 **Stato bozza:** 🟡 in lavorazione (itinerario, info pratiche e aneddoti pronti — scritti come bozza da rileggere e personalizzare; mancano le foto)
 **Periodo del viaggio:** 7-12 settembre

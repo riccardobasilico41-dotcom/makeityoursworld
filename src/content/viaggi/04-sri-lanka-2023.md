@@ -291,7 +291,7 @@ Di un viaggio così denso e vario è difficile scegliere cosa portarsi a casa pe
 Fonti caricate:
 1. **Service Confirmation Voucher (WanderlustAsia)** — conferma ufficiale di
    hotel, date (11-22 novembre 2023), transfer e attività incluse.
-2. **Sri Lanka 360 - Itinerario 11/11-22/11 (WeRoad)** — programma giorno per
+2. **Sri Lanka - Itinerario 11/11-22/11 (WeRoad)** — programma giorno per
    giorno con orari, indirizzi e contatti.
 3. **Versione con appunti a penna** — la fonte più preziosa: contiene i tempi
    e i prezzi *realmente* verificati sul posto (spesso diversi da quelli

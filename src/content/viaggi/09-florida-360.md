@@ -1,4 +1,4 @@
-# Florida 360° in 10 giorni: dalle Keys a Orlando, on the road tra alligatori, spiagge e razzi
+# Florida in 10 giorni: dalle Keys a Orlando, on the road tra alligatori, spiagge e razzi
 
 **Stato bozza:** 🟡 in lavorazione (itinerario, info pratiche e aneddoti pronti grazie al Travel Diary e al Vade Mecum ufficiali — aneddoti scritti come bozza da rileggere e personalizzare; manca la conferma di ristoranti/attività effettivamente scelti)
 **Periodo del viaggio:** [da confermare — anno/mese esatto]

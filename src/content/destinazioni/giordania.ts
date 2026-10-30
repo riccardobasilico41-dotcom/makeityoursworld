@@ -1,6 +1,6 @@
 import type { Destinazione } from '@/lib/types'
 
-// Contenuto ricostruito dal viaggio "Giordania 360°" (src/content/viaggi/03-giordania-360.md),
+// Contenuto ricostruito dal viaggio "Giordania" (src/content/viaggi/03-giordania-360.md),
 // arricchito con il feedback diretto dell'autore su Jerash, Monte Nebo, Mar Morto,
 // Petra/Wadi Rum e il diving ad Aqaba.
 

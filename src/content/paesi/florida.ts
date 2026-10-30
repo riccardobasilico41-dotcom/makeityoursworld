@@ -4,7 +4,7 @@ export const florida: Paese = {
   slug: 'florida',
   nome: 'Florida',
   continente: 'Nord America',
-  titolo: 'Florida 360° in 10 giorni: dalle Keys a Orlando, on the road tra alligatori, spiagge e razzi',
+  titolo: 'Florida in 10 giorni: dalle Keys a Orlando, on the road tra alligatori, spiagge e razzi',
   descrizione:
     'Dieci giorni e quasi 1.800 km al volante tra il turchese delle Keys, il verde primordiale delle Everglades, il kitsch dorato di Orlando e il countdown della NASA a Cape Canaveral, chiusi dalle spiagge e dalla vita notturna di Miami Beach.',
   periodoMigliore: 'clima caldo-umido tutto l\'anno, con estati molto piovose e rischio uragani in stagione',

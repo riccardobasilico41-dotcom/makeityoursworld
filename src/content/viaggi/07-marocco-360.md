@@ -1,4 +1,4 @@
-# Marocco 360°: da Marrakech al Sahara
+# Marocco: da Marrakech al Sahara
 
 **Stato bozza:** 🟡 in lavorazione (itinerario, info pratiche e aneddoti pronti — scritti come bozza da rileggere e personalizzare; mancano le foto)
 **Periodo del viaggio:** 3-11 maggio

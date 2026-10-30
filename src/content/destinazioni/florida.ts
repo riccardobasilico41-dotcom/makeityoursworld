@@ -1,6 +1,6 @@
 import type { Destinazione } from '@/lib/types'
 
-// Contenuto ricostruito dal viaggio "Florida 360° in 10 giorni" (src/content/viaggi/09-florida-360.md).
+// Contenuto ricostruito dal viaggio "Florida in 10 giorni" (src/content/viaggi/09-florida-360.md).
 
 export const destinazioniFlorida: Destinazione[] = [
   {

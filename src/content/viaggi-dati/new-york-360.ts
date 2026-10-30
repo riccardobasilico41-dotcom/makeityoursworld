@@ -1,6 +1,6 @@
 import type { TripMeta } from '@/lib/types'
 
-// Overlay di metadati strutturati per il viaggio "New York 360°". Il testo
+// Overlay di metadati strutturati per il viaggio "New York". Il testo
 // narrativo resta nel markdown (src/content/viaggi/08-new-york-360.md).
 // `titoloGiorno` deve combaciare esattamente con le intestazioni
 // "### Giorno N (DD.MM) — ..." del file markdown.

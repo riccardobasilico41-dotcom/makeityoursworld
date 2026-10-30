@@ -1,6 +1,6 @@
 import type { TripMeta } from '@/lib/types'
 
-// Overlay di metadati strutturati per il viaggio "Costa Rica 360° in 13 giorni". Il testo
+// Overlay di metadati strutturati per il viaggio "Costa Rica in 13 giorni". Il testo
 // narrativo resta nel markdown (src/content/viaggi/12-costa-rica-360.md).
 // `titoloGiorno` deve combaciare esattamente con le intestazioni "### Giorno N — ..."
 // del file markdown, altrimenti il merge in DayTimeline non trova la corrispondenza.

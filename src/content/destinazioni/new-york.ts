@@ -1,6 +1,6 @@
 import type { Destinazione } from '@/lib/types'
 
-// Contenuto ricostruito dal viaggio "New York 360°" (src/content/viaggi/08-new-york-360.md).
+// Contenuto ricostruito dal viaggio "New York" (src/content/viaggi/08-new-york-360.md).
 // A differenza degli altri Paesi del sito, qui le "destinazioni" sono zone di
 // un'unica città (New York), non città diverse. Dove un dato non è nel diario
 // originale resta con una nota esplicita "da confermare/da completare".

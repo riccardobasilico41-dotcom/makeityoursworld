@@ -1,6 +1,6 @@
 import type { Esperienza } from '@/lib/types'
 
-// Contenuto ricostruito dal viaggio "Marocco 360°" (src/content/viaggi/07-marocco-360.md).
+// Contenuto ricostruito dal viaggio "Marocco" (src/content/viaggi/07-marocco-360.md).
 
 export const esperienzeMarocco: Esperienza[] = [
   {

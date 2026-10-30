@@ -1,4 +1,4 @@
-# Costa Rica 360° in 13 giorni: dal Caribe al Pacifico, tra bradipi, vulcani e balene
+# Costa Rica in 13 giorni: dal Caribe al Pacifico, tra bradipi, vulcani e balene
 
 **Stato bozza:** 🟡 in lavorazione (itinerario, info pratiche e aneddoti pronti grazie a Travel Diary, diario giorno per giorno e Vade Mecum ufficiali — con tanto di orari reali, contatti dei local supplier e prezzi effettivamente pagati; aneddoti scritti come bozza da rileggere e personalizzare; manca la conferma di quali attività opzionali sono state fatte davvero)
 **Periodo del viaggio:** metà-fine novembre [anno da confermare], 16-28 novembre circa

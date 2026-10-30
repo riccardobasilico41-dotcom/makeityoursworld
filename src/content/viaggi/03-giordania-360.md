@@ -1,4 +1,4 @@
-# Giordania 360°: Capodanno tra Petra, Wadi Rum e il Mar Morto
+# Giordania: Capodanno tra Petra, Wadi Rum e il Mar Morto
 
 **Stato bozza:** 🟡 in lavorazione (struttura, info pratiche e aneddoti pronti —
 Petra e Wadi Rum arricchiti con dettagli reali del posto; aneddoti scritti come

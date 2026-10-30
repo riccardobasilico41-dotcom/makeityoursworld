@@ -1,6 +1,6 @@
 import type { Destinazione } from '@/lib/types'
 
-// Contenuto ricostruito dal viaggio "Costa Rica 360° in 13 giorni" (src/content/viaggi/12-costa-rica-360.md).
+// Contenuto ricostruito dal viaggio "Costa Rica in 13 giorni" (src/content/viaggi/12-costa-rica-360.md).
 
 export const destinazioniCostaRica: Destinazione[] = [
   {
