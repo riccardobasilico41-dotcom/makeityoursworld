@@ -44,10 +44,6 @@ export function Footer() {
         <p>
           © {new Date().getFullYear()} {siteConfig.shortName}. Appunti di viaggio personali.
           <span className="mx-2 text-cream/30">·</span>
-          <Link href="/crediti-fotografici" className="underline decoration-cream/30 underline-offset-4 hover:text-cream">
-            Crediti fotografici
-          </Link>
-          <span className="mx-2 text-cream/30">·</span>
           <Link href="/trasparenza" className="underline decoration-cream/30 underline-offset-4 hover:text-cream">
             Trasparenza
           </Link>

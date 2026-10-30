@@ -118,6 +118,11 @@ export default function TrasparenzaPage() {
               Cosa succede ai tuoi dati quando clicchi uno di questi link è spiegato nell&apos;
               <Link href="/privacy">informativa privacy</Link> e nella <Link href="/cookie">cookie policy</Link>.
             </p>
+            <h2>Licenze delle immagini</h2>
+            <p>
+              Autori e licenze delle immagini usate su concessione sono elencati nei{' '}
+              <Link href="/crediti-fotografici">crediti</Link>.
+            </p>
           </div>
         </Container>
       </section>
