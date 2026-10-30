@@ -1,23 +1,19 @@
-import Image from 'next/image'
 import Link from 'next/link'
 import { ArrowRight } from 'lucide-react'
 import type { PuntoTappa } from './geo'
-import { BenHero } from '@/components/ben/BenHero'
+import { HeroVideo } from './HeroVideo'
 
 /**
  * Apertura della Home, Stile A "Ghat": hero diviso. A sinistra un titolo
  * grotesk pesante (le ultime parole in rosso), sottotitolo e una sola azione
- * piena; a destra una fotografia vera a tutta altezza, con il credito sotto.
- * Niente video in loop né linea di rotta decorativa: la foto fa il lavoro.
- * Statico, quindi nessun problema con `prefers-reduced-motion`.
+ * piena; a destra il montaggio «Runaway» dei nostri viaggi, che parte da solo
+ * all'apertura (muto, in loop, fermo con `prefers-reduced-motion`).
  */
-export const HERO_FOTO = {
-  src: '/images/copertine/lofoten-estate-2025.jpg',
-  alt: 'Il campo da calcio di Henningsvær, alle Lofoten, tra il mare e le montagne',
-  luogo: 'Henningsvær, Lofoten',
-  autore: 'Cappo80',
-  licenza: 'CC BY-SA 4.0',
-  fonteUrl: 'https://commons.wikimedia.org/wiki/File:Campo_da_calcio_di_Henningsvaer.JPG',
+export const HERO_VIDEO = {
+  src: '/videos/runaway-hero.mp4',
+  poster: '/videos/runaway-hero-poster.jpg',
+  label: 'Runaway: montaggio video dei nostri viaggi in giro per il mondo',
+  didascalia: 'Runaway, i nostri viaggi in un solo montaggio. Riprese di Riccardo Basilico.',
 }
 
 /** Divide la tagline: le ultime tre parole vanno in rosso. */
@@ -63,22 +59,10 @@ export function CinematicHero({
 
       <figure className="relative m-0 flex flex-col">
         <div className="relative aspect-[4/5] w-full overflow-hidden lg:aspect-auto lg:flex-1">
-          <Image
-            src={HERO_FOTO.src}
-            alt={HERO_FOTO.alt}
-            fill
-            priority
-            sizes="(min-width: 1024px) 42vw, 100vw"
-            className="object-cover"
-          />
-          <BenHero />
+          <HeroVideo src={HERO_VIDEO.src} poster={HERO_VIDEO.poster} label={HERO_VIDEO.label} />
         </div>
         <figcaption className="px-4 py-3 text-xs text-stone sm:px-8 lg:px-4">
-          {HERO_FOTO.luogo}. Foto:{' '}
-          <a href={HERO_FOTO.fonteUrl} className="underline underline-offset-2 hover:text-rosso" rel="noopener noreferrer" target="_blank">
-            {HERO_FOTO.autore}
-          </a>
-          , {HERO_FOTO.licenza}
+          {HERO_VIDEO.didascalia}
         </figcaption>
       </figure>
     </section>
