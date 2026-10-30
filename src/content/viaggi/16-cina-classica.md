@@ -22,7 +22,7 @@ La Cina classica è il viaggio che tutti immaginano quando pensano alla Cina: la
 - **Budget indicativo:** fino a Shanghai molto più basso di quanto ci si aspetti: treni 40-90€ a tratta, hotel di buon livello 40-70€, pasti 4-10€. Hong Kong ribalta il conto: è la città più cara del viaggio, soprattutto per gli alloggi.
 - **Lingua:** fuori dagli hotel di fascia alta l'inglese quasi non esiste, molto meno che in Giappone o in Thailandia. Il traduttore con fotocamera è lo strumento che rende autonomi, e l'indirizzo dell'hotel salvato in caratteri cinesi risolve il problema dei taxi.
 - **Truffe:** la cerimonia del tè e lo "studente d'arte" sono le due costanti di Pechino, Xi'an e della Nanjing Road a Shanghai. Funzionano da vent'anni e funzionano ancora. La regola è una sola: non seguire in un locale chi ti ha fermato per strada.
-- **Elettricità:** 220V, prese di tipo A e I. Le spine italiane a due poli tondi non entrano: l'adattatore serve.
+- **Elettricità:** 220V, prese di tipo A e I, spesso combinate. La spina italiana piccola a due poli entra in molte prese ma non in tutte, la Schuko e la tripolare no: conviene portare un adattatore universale.
 
 ## Itinerario giorno per giorno
 

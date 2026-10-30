@@ -320,7 +320,7 @@ export const destinazioniCina: Destinazione[] = [
     periodoMigliore:
       'aprile-maggio e settembre-ottobre. Sulla nebbia conviene ribaltare il ragionamento: è ciò che fa sembrare i pilastri sospesi nel vuoto, quindi una giornata di foschia non è una giornata persa — quella persa è quella di pioggia battente, quando le funivie chiudono.',
     costi:
-      'Ingresso al parco nazionale attorno ai 239 yuan, valido quattro giorni e comprensivo delle navette interne; ascensore di Bailong e funivie si pagano a parte, indicativamente 65-100 yuan a corsa; Tianmen Shan è un biglietto separato, sui 250-280 yuan con funivia inclusa. Il totale sale in fretta oltre i 60-70€ a persona.',
+      'Ingresso al parco nazionale attorno ai 236 yuan, valido quattro giorni e comprensivo delle navette interne; ascensore di Bailong e funivie si pagano a parte, indicativamente 65-100 yuan a corsa; Tianmen Shan è un biglietto separato, sui 250-280 yuan con funivia inclusa. Il totale sale in fretta oltre i 60-70€ a persona.',
     erroriDaEvitare: [
       'Programmare un giorno solo: il parco è enorme e le code a funivie e ascensore possono valere più di un\'ora per tratta',
       'Andarci durante le settimane di festa nazionale (1-7 ottobre, inizio maggio): i tempi di attesa diventano di tre o quattro ore',
@@ -336,7 +336,7 @@ export const destinazioniCina: Destinazione[] = [
           {
             nome: 'Zhangjiajie National Forest Park (Wulingyuan)',
             sintesi: 'I pilastri di quarzite, Yuanjiajie, l\'ascensore di Bailong: le montagne di Avatar.',
-            costo: 'circa 239 yuan per quattro giorni, più funivie e ascensore',
+            costo: 'circa 236 yuan per quattro giorni, più funivie e ascensore',
             durata: 'minimo due giorni per farlo bene',
             pro: ['È il paesaggio per cui si viene fin qui, e non ha eguali', 'Il biglietto vale quattro giorni: si entra e si esce senza ricomprare', 'Molti sentieri, anche in fondovalle, dove la folla si dirada'],
             contro: ['Enorme: senza un piano si passano ore in navetta e in coda', 'Code lunghissime ad ascensore e funivie nei periodi di punta', 'Va abbinato a un alloggio a Wulingyuan, non in città'],
@@ -391,7 +391,7 @@ export const destinazioniCina: Destinazione[] = [
     doveMangiare:
       'Cucina Tujia, quindi Hunan nella sua versione di montagna: pesce di fiume in umido, maiale affumicato appeso sopra il fuoco (la conservazione tradizionale della zona), tofu piccante e verdure sottaceto. Si mangia nelle case che affacciano sulla via principale, quasi tutte con la stessa carta e senza menu in inglese.',
     comeArrivare:
-      'Circa 2 ore di auto o bus da Zhangjiajie, 1 ora e mezza da Fenghuang. La stazione ad alta velocità di Furong Zhen sulla linea Chongqing-Changsha ha reso la tappa molto più semplice di un tempo: da Chongqing sono poco più di due ore.',
+      'Circa 2 ore di auto o bus da Zhangjiajie, 1 ora e mezza da Fenghuang. La stazione ad alta velocità di Furong Zhen ha reso la tappa molto più semplice di un tempo: da Chongqing servono circa 3 ore e mezza-4 ore e mezza, con un cambio a Zhangjiajie Ovest (l\'ultimo tratto dura una ventina di minuti). Gli orari aggiornati sono sull\'app 12306.',
     comeSpostarsi: 'Tutto a piedi, su gradini: il borgo è costruito su un pendio e non esiste un percorso pianeggiante.',
     periodoMigliore:
       'Dopo le piogge, tra aprile e ottobre, quando la cascata ha portata piena: in stagione secca si riduce parecchio e il borgo perde il suo elemento principale.',
@@ -489,7 +489,7 @@ export const destinazioniCina: Destinazione[] = [
     doveMangiare:
       'L\'hot pot di Chongqing è l\'originale e non fa concessioni: brodo rosso di grasso di manzo e peperoncino, senza la versione addolcita. I locali storici hanno ancora i tavoli con la pentola a scomparti condivisa. Fuori dall\'hot pot, la specialità sono i xiaomian, i noodles piccanti del mattino, che qui si mangiano a colazione seduti su sgabelli di plastica in strada. Da provare anche il laziji, il pollo fritto sepolto sotto una montagna di peperoncini secchi da cui va pescato.',
     comeArrivare:
-      'Volo su Chongqing Jiangbei (CKG) oppure alta velocità: Chengdu è a poco più di un\'ora, Zhangjiajie e Furong Zhen sono sulla stessa linea verso est.',
+      'Volo su Chongqing Jiangbei (CKG) oppure alta velocità: Chengdu è a poco più di un\'ora, Zhangjiajie è a 2-2 ore e mezza di alta velocità, Furong Zhen si raggiunge con un cambio a Zhangjiajie Ovest.',
     comeSpostarsi:
       'Metropolitana e monorotaia, che qui sono uno spettacolo di per sé. I taxi hanno un problema strutturale: la navigazione satellitare impazzisce su una città a più livelli, e capita che l\'autista arrivi alla giusta coordinata ma sul piano sbagliato. Camminare è faticoso, si sale e si scende di continuo.',
     periodoMigliore:

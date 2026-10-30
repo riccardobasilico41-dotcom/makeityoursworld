@@ -232,7 +232,7 @@ export const esperienzeCina: Esperienza[] = [
     durata: '3-4 ore contando le code, mezza giornata con calma',
     periodo:
       'aprile-maggio e settembre-ottobre. La nebbia non è un problema ma il motivo per cui il posto è famoso: la giornata da evitare è quella di pioggia forte, quando ascensore e funivie chiudono.',
-    costo: 'incluso nell\'ingresso al parco (circa 239 yuan, valido 4 giorni) tranne l\'ascensore, che costa a parte attorno ai 65 yuan a corsa',
+    costo: 'incluso nell\'ingresso al parco (circa 236 yuan, valido 4 giorni) tranne l\'ascensore, che costa a parte attorno ai 65 yuan a corsa',
     comePrenotare:
       'L\'ingresso al parco si prenota online con passaporto. L\'ascensore si paga sul posto e non si prenota: è proprio qui che si formano le code peggiori, che nei periodi di punta superano l\'ora e mezza.',
     cosaPortare:
