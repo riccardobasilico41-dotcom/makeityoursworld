@@ -11,11 +11,6 @@ export type CreditoVideo = {
 }
 
 export const creditiHeroVideo: Record<string, CreditoVideo> = {
-  'lofoten-estate-2025': {
-    autore: 'Mixkit',
-    licenza: 'Mixkit Stock Video Free License',
-    fonteUrl: 'https://mixkit.co/free-stock-video/sunset-drone-flyover-of-rocky-norway-sea-coast-8657/',
-  },
   'islanda-2024': {
     autore: 'Mixkit',
     licenza: 'Mixkit Stock Video Free License',
