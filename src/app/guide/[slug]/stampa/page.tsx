@@ -13,8 +13,14 @@ import { stileStampa } from './stile'
 
 export const dynamicParams = false
 
+/**
+ * Le guide sono un prodotto a pagamento: questa pagina serve solo in locale
+ * (dev server) per generare il PDF. In produzione non esiste.
+ */
+const SOLO_LOCALE = process.env.NODE_ENV === 'production'
+
 export function generateStaticParams() {
-  return Object.keys(guide).map((slug) => ({ slug }))
+  return SOLO_LOCALE ? [] : Object.keys(guide).map((slug) => ({ slug }))
 }
 
 export async function generateMetadata({ params }: PageProps<'/guide/[slug]/stampa'>): Promise<Metadata> {
@@ -166,6 +172,7 @@ function Mappa({ tappe }: { tappe: TappaMappa[] }) {
 /* ---------- Pagina ---------- */
 
 export default async function GuidaStampa({ params, searchParams }: PageProps<'/guide/[slug]/stampa'>) {
+  if (SOLO_LOCALE) notFound()
   const { slug } = await params
   const { parte: p } = await searchParams
   const parte = typeof p === 'string' ? p : undefined
