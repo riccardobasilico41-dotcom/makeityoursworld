@@ -43,6 +43,7 @@ export const filippine: Paese = {
     aggiornatoAl: 'ottobre 2026',
   },
   stileViaggio: ['mare', 'island hopping', 'immersioni', 'snorkeling', 'surf'],
-  heroImageAlt: 'Lagune di acqua turchese tra falesie calcaree a El Nido, Palawan',
+  heroImageAlt: 'Isole calcaree e acqua turchese nell\'arcipelago delle Calamian, attorno a Coron',
+  heroImage: '/images/copertine/filippine-itinerario.jpg',
   tripPrincipaleSlug: 'filippine-itinerario',
 }

@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import { Container } from './ui/Container'
 import { siteConfig } from '@/lib/site-config'
+import { Marchio } from './Marchio'
 
 /* Hallmark · footer: Ft1 Mast-headed — wordmark + tagline anchor a single
  * quiet band, a couple of real links beside, colophon below. Replaces the
@@ -14,7 +15,9 @@ export function Footer() {
   return (
     <footer className="mt-24 border-t border-alpine/10 bg-alpine text-cream/90">
       <Container className="flex flex-col items-center gap-3 py-16 text-center">
-        <p className="font-display text-2xl text-cream">{siteConfig.brandName}</p>
+        <p className="text-2xl text-cream">
+          <Marchio battuta={false} />
+        </p>
         <p className="max-w-md text-sm leading-relaxed text-cream/70">
           {siteConfig.tagline} — con tappe giorno per giorno, consigli pratici e ricordi da rileggere.
         </p>

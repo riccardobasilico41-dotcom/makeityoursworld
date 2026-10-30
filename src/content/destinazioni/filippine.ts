@@ -42,7 +42,8 @@ export const destinazioniFilippine: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['filippine-itinerario'],
-    imageAlt: 'Barche tradizionali bangka ancorate davanti alle falesie calcaree di El Nido',
+    imageAlt: 'Falesie calcaree e acqua turchese nell\'arcipelago di Bacuit, El Nido',
+    immagine: '/images/viaggi/filippine-itinerario/giorno-03-el-nido.jpg',
   },
   {
     slug: 'coron',
@@ -79,7 +80,8 @@ export const destinazioniFilippine: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['filippine-itinerario'],
-    imageAlt: 'Il belvedere del lago Kayangan a Coron, con le rocce calcaree e l\'acqua turchese',
+    imageAlt: 'Le scogliere calcaree dell\'isola di Coron che scendono nell\'acqua turchese',
+    immagine: '/images/viaggi/filippine-itinerario/giorno-06-coron.jpg',
   },
   {
     slug: 'cebu-moalboal',
@@ -115,7 +117,8 @@ export const destinazioniFilippine: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['filippine-itinerario'],
-    imageAlt: 'Un banco di sardine sotto la superficie davanti a Moalboal',
+    imageAlt: 'L\'isolotto di Pescador davanti a Moalboal, circondato dal reef',
+    immagine: '/images/viaggi/filippine-itinerario/giorno-08-cebu-moalboal.jpg',
   },
   {
     slug: 'bohol',
@@ -148,7 +151,8 @@ export const destinazioniFilippine: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['filippine-itinerario'],
-    imageAlt: 'Le Chocolate Hills di Bohol nella stagione secca, con le colline color marrone',
+    imageAlt: 'Le Chocolate Hills di Bohol, colline coniche coperte d\'erba',
+    immagine: '/images/viaggi/filippine-itinerario/giorno-11-bohol.jpg',
   },
   {
     slug: 'siargao',
@@ -182,6 +186,7 @@ export const destinazioniFilippine: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['filippine-itinerario'],
-    imageAlt: 'La passerella di legno di Cloud 9 a Siargao con un surfista sull\'onda',
+    imageAlt: 'La passerella e la torre di legno sul reef di Cloud 9, lo spot di surf di Siargao',
+    immagine: '/images/viaggi/filippine-itinerario/giorno-17-siargao.jpg',
   },
 ]

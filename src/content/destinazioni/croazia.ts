@@ -32,6 +32,7 @@ export const destinazioniCroazia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['croazia-itinerario'],
     imageAlt: 'La chiesa di San Marco con il tetto a piastrelle colorate a Zagabria',
+    immagine: '/images/viaggi/croazia-itinerario/giorno-01-zagabria.jpg',
   },
   {
     slug: 'plitvice',
@@ -58,7 +59,8 @@ export const destinazioniCroazia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['croazia-itinerario'],
-    imageAlt: 'Le passerelle di legno tra i laghi turchesi di Plitvice',
+    imageAlt: 'Una passerella di legno accanto a una cascata e all\'acqua turchese dei laghi di Plitvice',
+    immagine: '/images/viaggi/croazia-itinerario/giorno-03-plitvice.jpg',
   },
   {
     slug: 'zara-krka-sebenico',
@@ -86,6 +88,7 @@ export const destinazioniCroazia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['croazia-itinerario'],
     imageAlt: 'Lo Skradinski buk nel Parco Nazionale del Krka',
+    immagine: '/images/viaggi/croazia-itinerario/giorno-05-zara-krka-sebenico.jpg',
   },
   {
     slug: 'spalato',
@@ -113,7 +116,8 @@ export const destinazioniCroazia: Destinazione[] = [
     erroriDaEvitare: ['Girare in costume nel centro storico: si prende la multa'],
     esperienzeSlugs: [],
     tripSlugs: ['croazia-itinerario'],
-    imageAlt: 'Il Peristilio del palazzo di Diocleziano a Spalato',
+    imageAlt: 'Le colonne e gli archi del Peristilio del palazzo di Diocleziano a Spalato',
+    immagine: '/images/viaggi/croazia-itinerario/giorno-07-spalato.jpg',
   },
   {
     slug: 'hvar',
@@ -136,6 +140,7 @@ export const destinazioniCroazia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['croazia-itinerario'],
     imageAlt: 'La baia di Hvar e le isole Pakleni dalla fortezza spagnola',
+    immagine: '/images/viaggi/croazia-itinerario/giorno-08-hvar.jpg',
   },
   {
     slug: 'curzola',
@@ -157,6 +162,7 @@ export const destinazioniCroazia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['croazia-itinerario'],
     imageAlt: 'La città vecchia di Curzola sulla penisola fortificata',
+    immagine: '/images/viaggi/croazia-itinerario/giorno-10-curzola.jpg',
   },
   {
     slug: 'dubrovnik',
@@ -189,6 +195,7 @@ export const destinazioniCroazia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['croazia-itinerario'],
-    imageAlt: 'Le mura e i tetti rossi di Dubrovnik sul mare',
+    imageAlt: 'Le mura e il porto vecchio di Dubrovnik sul mare',
+    immagine: '/images/viaggi/croazia-itinerario/giorno-11-dubrovnik.jpg',
   },
 ]

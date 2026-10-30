@@ -35,6 +35,7 @@
   --color-ink: var(--color-ink);
   --font-display: var(--font-bricolage);
   --font-sans: var(--font-schibsted);
+  --font-typewriter: "American Typewriter", var(--font-courier-prime), "Courier New", monospace;
 }
 
 html,
@@ -74,4 +75,25 @@ body {
 
 .animate-slow-zoom {
   animation: slow-zoom 18s ease-out forwards;
+}
+
+/* Marchio «make it yours.world»: lettere battute una alla volta, poi il punto
+ * rosso lampeggia come nel titolo del video. Fermo con reduced-motion. */
+.marchio-lettera {
+  opacity: 0;
+  animation: marchio-battuta 1ms linear forwards;
+}
+.marchio-punto {
+  animation: marchio-lampeggio 1.1s steps(1, end) infinite;
+}
+@keyframes marchio-battuta {
+  to { opacity: 1; }
+}
+@keyframes marchio-lampeggio {
+  0%, 55% { opacity: 1; }
+  56%, 100% { opacity: 0.08; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .marchio-lettera { opacity: 1; animation: none; }
+  .marchio-punto { animation: none; }
 }

@@ -15,10 +15,11 @@ La scelta delle tappe è il punto su cui si sbaglia di più. Dieci giorni non ba
 
 ## Scheda pratica
 - **Quando andare:** da ottobre a marzo. Novembre-febbraio è il periodo più gradevole, con giornate tiepide e notti fredde (a Jodhpur e Udaipur si scende vicino ai 5-8 °C a gennaio). Dicembre e gennaio portano nebbia al mattino tra Delhi e Agra: il Taj all'alba può restare invisibile per un paio d'ore e i treni accumulano ritardi. Da aprile a giugno il Rajasthan supera spesso i 40-45 °C; il monsone (luglio-settembre) rende verde Udaipur ma porta caldo umido e piogge a scrosci.
-- **Documenti:** passaporto con 6 mesi di validità ed e-Tourist Visa richiesto sul portale ufficiale indianvisaonline.gov.in (25 $ per 30 giorni, 40 $ per un anno, tariffe 2026 indicative). Dal 1° aprile 2026 serve anche la e-Arrival Card online, gratuita, nelle 72 ore prima dell'arrivo.
+- **Documenti:** passaporto con almeno 6 mesi di validità dalla data della domanda di visto e due pagine libere. e-Tourist Visa sul portale ufficiale indianvisaonline.gov.in, da chiedere almeno 4 giorni prima dell'arrivo (25 $ per 30 giorni, 40 $ per un anno, più una commissione bancaria del 2,5-3%; tariffe invariate nel 2026). Dal 1° aprile 2026 serve anche la e-Arrival Card online, gratuita, da compilare nelle 72 ore prima dell'arrivo. All'ingresso possono chiedere il biglietto di ritorno.
+- **Divieti all'ingresso:** vietati telefoni satellitari e GPS satellitari (si rischia l'arresto), droni senza autorizzazione e sigarette elettroniche, anche per uso personale.
 - **Valuta e pagamenti:** rupia indiana (INR), circa 95-105 per un euro. Carte negli hotel, nei ristoranti di livello e per i biglietti online dei monumenti; contanti per tuk-tuk, mercati, mance e piccoli ingressi. Gli ATM delle grandi banche funzionano con le carte italiane.
-- **Ingressi:** gli stranieri pagano tariffe molto più alte degli indiani. I biglietti dei siti ASI (Taj Mahal, Forte Rosso, Humayun, Qutub Minar, Forte di Agra, Fatehpur Sikri) si comprano online sul portale ASI, con un piccolo sconto rispetto alla cassa e senza code. Il Taj Mahal è **chiuso il venerdì**.
-- **Salute:** acqua solo in bottiglia, niente ghiaccio di origine incerta, street food solo cotto davanti a te e dove c'è ricambio. Consigliate epatite A e tifo. A Delhi tra novembre e gennaio l'aria è spesso pessima.
+- **Ingressi:** gli stranieri pagano tariffe molto più alte degli indiani, e dal 1° gennaio 2026 il Rajasthan ha raddoppiato o triplicato quelle dei suoi monumenti (Amber 1.000 rupie, Hawa Mahal, Jantar Mantar, Nahargarh e Albert Hall 600 ciascuno). I biglietti dei siti ASI (Taj Mahal, Forte Rosso, Humayun, Qutub Minar, Forte di Agra, Fatehpur Sikri) si comprano online sul portale ASI, con un piccolo sconto rispetto alla cassa e senza code. Il Taj Mahal è **chiuso il venerdì**.
+- **Salute:** acqua solo in bottiglia, niente ghiaccio di origine incerta, street food solo cotto davanti a te e dove c'è ricambio. Consigliate epatite A e B e tifo, antitetanica aggiornata; la profilassi antimalarica serve solo per lunghi soggiorni rurali nella stagione dei monsoni. A Delhi tra novembre e gennaio l'aria è spesso pessima: Viaggiare Sicuri consiglia mascherine antismog.
 - **Abbigliamento:** spalle e ginocchia coperte in templi, moschee e palazzi; scarpe che si tolgono in fretta e calze per i pavimenti di marmo bollenti o gelati. Alle donne una sciarpa leggera è utile ovunque.
 - **Connettività:** SIM Airtel o Jio in aeroporto a Delhi (passaporto, visto, una foto) o eSIM internazionale. Copertura buona su tutto il percorso.
 - **Elettricità:** 230V, prese C, D e M. Adattatore universale consigliato.
@@ -60,14 +61,14 @@ Jaipur, la città rosa, è la capitale del Rajasthan e la tappa più densa del v
 
 Sulla via del ritorno una sosta al **Jal Mahal**, il palazzo che sembra galleggiare sul lago Man Sagar e si guarda solo dalla riva. Nel pomeriggio il **pozzo a gradini di Panna Meena** vicino ad Amber, più piccolo di Chand Baori ma vicinissimo. Il tramonto si guarda dal **Forte di Nahargarh**, sul crinale sopra la città, quando la luce scende su tutta Jaipur e le luci si accendono una dopo l'altra.
 
-**In pratica:** Forte di Amber circa 500 rupie per gli stranieri, apertura alle 8 · il biglietto composito di Jaipur copre Amber, Nahargarh, Hawa Mahal, Albert Hall e Jantar Mantar per due giorni ed è conveniente se si vede tutto · tuk-tuk o autista: Amber è a 11 km dal centro.
+**In pratica:** Forte di Amber 1.000 rupie per gli stranieri dal 2026, Nahargarh 600, apertura alle 8 · il biglietto composito ora vale 10 giorni per tutti i monumenti statali del Rajasthan e costa 5.500 rupie: per Jaipur conviene pagare i singoli ingressi · tuk-tuk o autista: Amber è a 11 km dal centro.
 
 ### Giorno 6 — Jaipur: City Palace, Jantar Mantar, Hawa Mahal e i bazar
 Il cuore della città vecchia si gira a piedi o in tuk-tuk. La mattina inizia all'**Hawa Mahal**, il Palazzo dei venti, con la sua facciata a nido d'ape costruita perché le donne di corte potessero guardare la strada senza essere viste: la foto migliore è dal caffè sui tetti di fronte, la visita interna è breve. Poi il **City Palace**, ancora in parte residenza della famiglia reale, con i cortili delle quattro porte dipinte, e accanto il **Jantar Mantar**, l'osservatorio astronomico del Settecento con la meridiana più grande del mondo.
 
 Il pomeriggio è per i bazar: Johari Bazar per i gioielli e i tessuti, Bapu Bazar per le juttis (le scarpe ricamate), le botteghe di stampa a blocchi dei tessuti. *Qui si incontra la truffa più nota di Jaipur: qualcuno ti propone di comprare gemme da rivendere in Italia con guadagno sicuro. Non esiste, e i soldi non si rivedono.* La sera, lassi e kachori da Rawat Mishtan Bhandar o un thali rajasthano in uno dei ristoranti sui tetti.
 
-**In pratica:** City Palace circa 700 rupie per gli stranieri, non incluso nel biglietto composito · Jantar Mantar e Hawa Mahal inclusi nel composito · gli autisti e le guide prendono commissioni sui negozi in cui portano: si può dire di no.
+**In pratica:** City Palace circa 700 rupie per gli stranieri, privato e non incluso nel biglietto composito · Jantar Mantar e Hawa Mahal 600 rupie ciascuno · gli autisti e le guide prendono commissioni sui negozi in cui portano: si può dire di no.
 
 ### Giorno 7 — In treno a Jodhpur, la città blu
 Il treno diurno da Jaipur a **Jodhpur** attraversa in cinque ore circa la campagna secca del Rajasthan centrale, con fermate in stazioni di paese dove passano i venditori di chai. È il tratto più rilassante del viaggio e permette di lasciare l'autista libero per un giorno. In alternativa la strada è più o meno equivalente in tempo.
@@ -95,7 +96,7 @@ L'ultimo giorno è per Udaipur, la città più romantica del Rajasthan. Il **Cit
 
 Nel pomeriggio il giro in barca sul **lago Pichola**, con sosta allo Jag Mandir, il palazzo sull'isola. Per il tramonto si sale al giardino di **Sajjangarh**, il Palazzo dei monsoni, o si resta su una terrazza ad Ambrai Ghat. Volo serale da Udaipur a Delhi e coincidenza notturna per l'Europa, oppure una notte in più a Udaipur, che non è mai sprecata.
 
-**In pratica:** City Palace circa 400 rupie, più per la fotocamera e il museo dei cristalli · barca sul Pichola dal molo del City Palace o di Lal Ghat, al tramonto costa di più · aeroporto di Udaipur a circa 30 minuti dal centro, volo per Delhi circa 1 ora e mezza.
+**In pratica:** City Palace dalle 400 rupie (solo museo) a circa 600-700 per gli stranieri, più per la fotocamera e il museo dei cristalli · barca sul Pichola dal molo del City Palace o di Lal Ghat, al tramonto costa di più · aeroporto di Udaipur a circa 30 minuti dal centro, volo per Delhi circa 1 ora e mezza.
 
 ## Dove dormire
 - **Delhi:** Paharganj è economica e vicina alla stazione di New Delhi, ma caotica e piena di procacciatori; meglio **Karol Bagh** o **Connaught Place** in fascia media, **South Delhi** (Hauz Khas, Defence Colony) o le zone diplomatiche per chi vuole tranquillità. Fascia economica 1.500-3.000 rupie, media 5.000-9.000, lusso dai grandi hotel storici in su.
@@ -132,7 +133,7 @@ Prezzi a persona in camera doppia, voli intercontinentali esclusi (dall'Italia a
 - **Fascia economica (40-60 € al giorno):** guesthouse e haveli semplici, treni in CC e 3A, tuk-tuk e autista solo per i trasferimenti, pasti nei ristoranti locali.
 - **Fascia media (90-140 € al giorno):** hotel heritage, autista per i giorni di trasferimento, guida autorizzata per Taj e forti, ristoranti con terrazza.
 - **Fascia alta (da 250 € al giorno):** palazzi-hotel, autista per tutto il viaggio, guide private.
-- **Ingressi principali per stranieri:** Taj Mahal circa 1.300 rupie con il mausoleo, Forte di Agra circa 650, Fatehpur Sikri circa 600, Humayun e Qutub Minar circa 600 ciascuno, Amber circa 500, City Palace di Jaipur circa 700, Mehrangarh circa 600, City Palace di Udaipur circa 400. In tutto, contare 7.000-9.000 rupie a testa per gli ingressi del viaggio (prezzi indicativi, da verificare).
+- **Ingressi principali per stranieri:** Taj Mahal circa 1.300 rupie con il mausoleo, Forte di Agra circa 650, Fatehpur Sikri circa 600, Humayun e Qutub Minar circa 600 ciascuno, Amber 1.000, Hawa Mahal, Jantar Mantar e Nahargarh 600 ciascuno, City Palace di Jaipur circa 700, Mehrangarh circa 600, City Palace di Udaipur 400-700. In tutto, contare 9.000-11.000 rupie a testa (circa 90-110 €) per gli ingressi del viaggio (tariffe stranieri 2026, indicative).
 
 ## Truffe comuni e sicurezza
 - **«Il tuo hotel è chiuso»:** tassisti e tuk-tuk dicono che l'hotel è pieno, chiuso o bruciato per portarti in un altro su commissione. Si risponde chiamando l'hotel, o si usa il transfer dell'hotel stesso.
@@ -143,6 +144,7 @@ Prezzi a persona in camera doppia, voli intercontinentali esclusi (dall'Italia a
 - **Finte guide al Taj Mahal** e «fotografi ufficiali»: le guide autorizzate hanno un tesserino, e il prezzo si fissa prima.
 - **Donne in viaggio:** il Rajasthan è uno degli stati più frequentati dalle viaggiatrici sole, ma sguardi insistenti, richieste di selfie e qualche molestia nei luoghi affollati sono frequenti. Aiuta vestirsi coprendo spalle e gambe, usare la carrozza femminile della metro e le code separate per le donne ai controlli, prenotare gli arrivi notturni con transfer, rispondere in modo deciso e senza sorrisi a chi insiste.
 - **Strada:** è il rischio vero. Niente guida in proprio, niente trasferimenti notturni in auto se evitabili, cintura sempre, anche dietro.
+- **Allerta terrorismo:** Viaggiare Sicuri segnala vigilanza alta a Delhi e in Rajasthan nei luoghi affollati (mercati, stazioni, templi): attenzione normale, niente panico, e registrazione su Dovesiamonelmondo prima di partire.
 
 ## Varianti
 - **Con Pushkar (+1 giorno):** tra Jaipur e Jodhpur, Pushkar è una piccola città santa attorno a un lago con 52 ghat, l'unico tempio di Brahma dell'India e un'atmosfera da viaggiatori lunghi. Si arriva da Jaipur in circa 3 ore di auto o in treno fino ad Ajmer; niente carne né alcol in città.
@@ -169,7 +171,7 @@ Dieci giorni in Rajasthan non bastano a capire l'India, ma bastano a capire se s
 Itinerario e informazioni pratiche costruiti con ricerca documentale (portali ufficiali del visto e delle ferrovie indiane, siti dei monumenti, Viaggiare Sicuri, guide e blog recenti), aggiornati a ottobre 2026. Prezzi di ingressi, treni e alloggi cambiano spesso e sono indicativi: vanno riverificati prima di partire. Nessuna esperienza personale compare nel testo: apertura e chiusura sono scritte in voce di guida, in attesa dei ricordi dell'autore.
 
 ## Materiale grezzo (appunti, non ancora editato)
-**Note di redazione (ottobre 2026):** Ricordi personali da aggiungere dal diario. Da integrare: alloggi effettivamente usati e prezzi pagati; eventuale autista o agenzia usata; conferma del prezzo del biglietto composito di Jaipur e degli ingressi stranieri (le fonti 2026 non concordano: Taj 1.100 + 200 rupie, Amber 500 rupie); verificare l'eventuale nuova tassa ADA di 200 rupie per la cupola del Taj, proposta nel 2026. Foto dei giorni da recuperare.
+**Note di redazione (ottobre 2026):** Prezzi verificati il 30/10/2026. Ricordi personali da aggiungere dal diario. Da integrare: alloggi effettivamente usati e prezzi pagati; eventuale autista o agenzia usata. Ancora aperti: non è chiaro se il vecchio composito di Jaipur da due giorni (1.000 rupie) sia ancora in vendita accanto al nuovo pass statale da 10 giorni (5.500 rupie), perché le fonti di gennaio 2026 citano solo il secondo; City Palace di Udaipur, prezzo stranieri discordante tra le fonti (400-700 rupie, manca il listino ufficiale Eternal Mewar). Risolti: Taj 1.100 + 200 rupie confermati; la tassa ADA di 200 rupie per la cupola era una proposta del 2021 mai applicata. Foto dei giorni da recuperare.
 
 ## Tag
 `#india` `#rajasthan` `#delhi` `#agra` `#tajmahal` `#jaipur` `#jodhpur` `#udaipur` `#ranakpur` `#triangolodoro` `#asia` `#treniindiani`

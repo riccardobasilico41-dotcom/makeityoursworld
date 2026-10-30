@@ -1,43 +1,45 @@
 import Link from 'next/link'
-import { siteConfig } from '@/lib/site-config'
-import { getAllViaggi } from '@/lib/viaggi'
+import { getAllPaesi } from '@/lib/geo'
+import { getAllMeraviglie } from '@/lib/meraviglie'
+import { Marchio } from './Marchio'
+import { NavPrincipale, type GruppoMenu } from './NavPrincipale'
 
-const navLinks = [
-  { href: '/viaggi', label: 'Viaggi' },
-  { href: '/destinazioni', label: 'Destinazioni' },
-  { href: '/meraviglie', label: 'Meraviglie del mondo' },
+/** Macro-aree del menu: ogni area raccoglie uno o più `continente` dei Paesi. */
+const AREE: { nome: string; continenti: string[] }[] = [
+  { nome: 'Asia', continenti: ['Asia'] },
+  { nome: 'Europa', continenti: ['Europa'] },
+  { nome: 'Africa e Medio Oriente', continenti: ['Africa', 'Medio Oriente'] },
+  { nome: 'Nord e Centro America', continenti: ['Nord America', 'America Centrale'] },
+  { nome: 'Sud America', continenti: ['Sud America'] },
 ]
 
-/* Stile A "Ghat" · nav: testata a una riga. Marchio grotesk pesante a
- * sinistra, conteggio degli itinerari accanto (dato reale, non decorazione),
- * voci a destra, filo nero sotto. Non sticky: StickyTableOfContents porta
- * l'orientamento nelle pagine lunghe. Vedi design.md. */
+/* Testata: marchio a macchina da scrivere a sinistra, menu per area a destra
+ * (ogni area apre l'elenco dei suoi Paesi), filo nero sotto. Non sticky:
+ * StickyTableOfContents porta l'orientamento nelle pagine lunghe. */
 export function Header() {
-  const itinerari = getAllViaggi().length
+  const paesi = getAllPaesi()
+  const gruppi: GruppoMenu[] = AREE.map((a) => ({
+    nome: a.nome,
+    voci: paesi
+      .filter((p) => a.continenti.includes(p.continente))
+      .sort((x, y) => x.nome.localeCompare(y.nome, 'it'))
+      .map((p) => ({ nome: p.nome, href: `/destinazioni/${p.slug}` })),
+    tutti: { nome: 'Tutti i Paesi', href: '/destinazioni' },
+  })).filter((g) => g.voci.length > 0)
+
+  gruppi.push({
+    nome: 'Meraviglie',
+    voci: getAllMeraviglie().map((m) => ({ nome: m.nome, href: `/meraviglie/${m.slug}` })),
+    tutti: { nome: 'Le sette meraviglie', href: '/meraviglie' },
+  })
 
   return (
-    <header className="border-b border-ink/15 bg-cream">
-      <div className="flex flex-wrap items-center justify-between gap-x-8 gap-y-2 px-4 py-4 sm:px-8 lg:px-12">
-        <div className="flex items-baseline gap-4">
-          <Link href="/" className="font-display text-2xl font-extrabold text-ink sm:text-[1.7rem]">
-            {siteConfig.brandName}
-          </Link>
-          <span className="hidden text-sm text-stone md:inline">{itinerari} itinerari raccontati</span>
-        </div>
-        <nav aria-label="Primary">
-          <ul className="flex flex-wrap items-center gap-x-6 gap-y-1">
-            {navLinks.map((link) => (
-              <li key={link.href}>
-                <Link
-                  href={link.href}
-                  className="inline-flex min-h-11 items-center text-[0.95rem] font-medium text-ink decoration-rosso decoration-2 underline-offset-[6px] transition-colors duration-150 hover:text-rosso hover:underline"
-                >
-                  {link.label}
-                </Link>
-              </li>
-            ))}
-          </ul>
-        </nav>
+    <header className="relative z-40 border-b border-ink/15 bg-cream">
+      <div className="flex items-center justify-between gap-x-8 px-4 py-4 sm:px-8 lg:px-12">
+        <Link href="/" className="text-[1.35rem] text-ink sm:text-[1.6rem]">
+          <Marchio />
+        </Link>
+        <NavPrincipale gruppi={gruppi} />
       </div>
     </header>
   )

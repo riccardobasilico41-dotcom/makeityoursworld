@@ -44,5 +44,6 @@ export const california: Paese = {
   },
   stileViaggio: ['road trip', 'parchi nazionali', 'trekking', 'città', 'costa'],
   heroImageAlt: 'La Highway 1 lungo le scogliere di Big Sur con il ponte di Bixby Creek',
+  heroImage: '/images/copertine/california-road-trip.jpg',
   tripPrincipaleSlug: 'california-road-trip',
 }

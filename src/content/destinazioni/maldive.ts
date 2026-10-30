@@ -33,7 +33,8 @@ export const destinazioniMaldive: Destinazione[] = [
     erroriDaEvitare: ['Visitare le moschee durante la preghiera o senza abiti coperti', 'Cercare alcol: Malé e Hulhumalé sono isole abitate e vale il divieto'],
     esperienzeSlugs: [],
     tripSlugs: ['maldive-guida'],
-    imageAlt: 'Le barche dhoni nel porto di Malé con gli edifici colorati della capitale',
+    imageAlt: 'Malé vista dall\'alto, con il porto pieno di barche e gli edifici colorati della capitale',
+    immagine: '/images/maldive/male-hulhumale.jpg',
   },
   {
     slug: 'male-sud-vaavu',
@@ -61,7 +62,8 @@ export const destinazioniMaldive: Destinazione[] = [
     erroriDaEvitare: ['Aspettarsi un villaggio tranquillo a Maafushi: è costruita e affollata', 'Contare sui traghetti di venerdì'],
     esperienzeSlugs: [],
     tripSlugs: ['maldive-guida'],
-    imageAlt: 'La spiaggia bianca e la laguna turchese di un\'isola locale nell\'atollo di Vaavu',
+    imageAlt: 'Una strada di sabbia tra le palme e le case basse di un\'isola locale delle Maldive',
+    immagine: '/images/maldive/male-sud-vaavu.jpg',
   },
   {
     slug: 'rasdhoo',
@@ -119,7 +121,8 @@ export const destinazioniMaldive: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['maldive-guida'],
-    imageAlt: 'Uno squalo balena che nuota appena sotto la superficie nell\'atollo di Ari Sud',
+    imageAlt: 'Uno squalo balena che nuota appena sotto la superficie, l\'incontro per cui si va ad Ari Sud',
+    immagine: '/images/maldive/ari-sud.jpg',
   },
   {
     slug: 'baa-hanifaru',
@@ -147,7 +150,8 @@ export const destinazioniMaldive: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['maldive-guida'],
-    imageAlt: 'Decine di mante che si nutrono di plancton vicino alla superficie nella baia di Hanifaru',
+    imageAlt: 'Un gruppo di mante viste dall\'alto mentre nuotano nell\'acqua turchese',
+    immagine: '/images/maldive/baa-hanifaru.jpg',
   },
   {
     slug: 'fuvahmulah',
@@ -171,6 +175,7 @@ export const destinazioniMaldive: Destinazione[] = [
     erroriDaEvitare: ['Andarci senza esperienza: correnti e condizioni oceaniche richiedono brevetto avanzato e un buon numero di immersioni'],
     esperienzeSlugs: [],
     tripSlugs: ['maldive-guida'],
-    imageAlt: 'Uno squalo tigre che nuota sul fondale sabbioso al largo di Fuvahmulah',
+    imageAlt: 'Uno squalo tigre che nuota sul fondale sabbioso',
+    immagine: '/images/maldive/fuvahmulah.jpg',
   },
 ]

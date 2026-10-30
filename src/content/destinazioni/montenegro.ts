@@ -38,7 +38,8 @@ export const destinazioniMontenegro: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['montenegro-itinerario'],
-    imageAlt: 'Le Bocche di Cattaro viste dalle mura di Kotor, con la città vecchia e la baia tra le montagne',
+    imageAlt: 'I tetti di tegole rosse della città vecchia di Kotor e le cupole della chiesa di San Nicola',
+    immagine: '/images/viaggi/montenegro-itinerario/giorno-02-bocche-di-cattaro.jpg',
   },
   {
     slug: 'lovcen-cetinje',
@@ -63,7 +64,8 @@ export const destinazioniMontenegro: Destinazione[] = [
     erroriDaEvitare: ['Affrontare le serpentine con un camper grande o di notte', 'Salire con le nuvole basse: la vista sparisce'],
     esperienzeSlugs: [],
     tripSlugs: ['montenegro-itinerario'],
-    imageAlt: 'La strada a tornanti che sale da Kotor verso il Lovćen, con le Bocche di Cattaro sullo sfondo',
+    imageAlt: 'Prati e alberi sull\'altopiano del parco nazionale del Lovćen',
+    immagine: '/images/viaggi/montenegro-itinerario/giorno-04-lovcen-cetinje.jpg',
   },
   {
     slug: 'budva-riviera',
@@ -87,7 +89,8 @@ export const destinazioniMontenegro: Destinazione[] = [
     erroriDaEvitare: ['Aspettarsi una Budva tranquilla in agosto', 'Contare sulla visita dell\'isola di Sveti Stefan: è riservata agli ospiti del resort'],
     esperienzeSlugs: [],
     tripSlugs: ['montenegro-itinerario'],
-    imageAlt: 'L\'isolotto di Sveti Stefan collegato alla costa da un istmo di sabbia',
+    imageAlt: 'La riviera di Budva vista dall\'alto, con l\'isola di San Nicola e la città vecchia',
+    immagine: '/images/viaggi/montenegro-itinerario/giorno-05-budva-riviera.jpg',
   },
   {
     slug: 'lago-di-scutari',
@@ -111,7 +114,8 @@ export const destinazioniMontenegro: Destinazione[] = [
     erroriDaEvitare: ['Salire su barche senza licenza del parco', 'Percorrere la strada del lago di sera: è stretta e senza illuminazione'],
     esperienzeSlugs: [],
     tripSlugs: ['montenegro-itinerario'],
-    imageAlt: 'La curva del fiume Crnojević vista dal belvedere di Pavlova Strana sul lago di Scutari',
+    imageAlt: 'Il vecchio ponte in pietra di Rijeka Crnojevića sul fiume che scende al lago di Scutari',
+    immagine: '/images/viaggi/montenegro-itinerario/giorno-06-lago-di-scutari.jpg',
   },
   {
     slug: 'ostrog',
@@ -133,7 +137,8 @@ export const destinazioniMontenegro: Destinazione[] = [
     erroriDaEvitare: ['Arrivare con spalle o gambe scoperte', 'Fotografare all\'interno delle cappelle'],
     esperienzeSlugs: [],
     tripSlugs: ['montenegro-itinerario'],
-    imageAlt: 'Il monastero bianco di Ostrog incastrato nella parete di roccia',
+    imageAlt: 'Il monastero di Ostrog incastonato nella parete di roccia',
+    immagine: '/images/viaggi/montenegro-itinerario/giorno-07-ostrog.jpg',
   },
   {
     slug: 'durmitor-tara',
@@ -161,6 +166,7 @@ export const destinazioniMontenegro: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['montenegro-itinerario'],
-    imageAlt: 'Il Lago Nero del Durmitor circondato da boschi di abeti, con le vette sullo sfondo',
+    imageAlt: 'L\'altopiano di Žabljak visto dall\'alto, con le montagne del Durmitor all\'orizzonte',
+    immagine: '/images/viaggi/montenegro-itinerario/giorno-08-durmitor-tara.jpg',
   },
 ]

@@ -48,7 +48,8 @@ export const destinazioniEgitto: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['egitto-mare-luxor-cairo', 'egitto-completo'],
-    imageAlt: 'Minareti del Cairo islamico al tramonto visti dalla Cittadella',
+    imageAlt: 'La moschea-madrasa del sultano Hassan e la moschea di al-Rifa\'i con i loro minareti, nel Cairo islamico',
+    immagine: '/images/viaggi/egitto-mare-luxor-cairo/giorno-04-cairo.jpg',
   },
   {
     slug: 'piramidi',
@@ -87,7 +88,8 @@ export const destinazioniEgitto: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['egitto-mare-luxor-cairo', 'egitto-completo'],
-    imageAlt: 'Le piramidi di Giza con la Sfinge in primo piano',
+    imageAlt: 'Le piramidi di Giza che si stagliano sul deserto in una giornata limpida',
+    immagine: '/images/viaggi/egitto-mare-luxor-cairo/giorno-02-piramidi.jpg',
   },
   {
     slug: 'luxor',
@@ -131,7 +133,8 @@ export const destinazioniEgitto: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['egitto-mare-luxor-cairo', 'egitto-completo'],
-    imageAlt: 'Le colonne della sala ipostila del tempio di Karnak a Luxor',
+    imageAlt: 'Le colonne papiriformi della grande sala ipostila del tempio di Karnak, viste dal basso',
+    immagine: '/images/viaggi/egitto-completo/giorno-14-luxor.jpg',
   },
   {
     slug: 'assuan-abu-simbel',
@@ -171,7 +174,8 @@ export const destinazioniEgitto: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['egitto-completo'],
-    imageAlt: 'Le quattro statue colossali di Ramses II sulla facciata del tempio grande di Abu Simbel',
+    imageAlt: 'I templi di Abu Simbel con le statue colossali di Ramses II scolpite nella roccia',
+    immagine: '/images/viaggi/egitto-completo/giorno-11-assuan-abu-simbel.jpg',
   },
   {
     slug: 'siwa',
@@ -211,7 +215,8 @@ export const destinazioniEgitto: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['egitto-completo'],
-    imageAlt: 'Le rovine della fortezza di Shali a Siwa con i palmeti sullo sfondo',
+    imageAlt: 'Palme da dattero riflesse in una sorgente dell\'oasi di Siwa',
+    immagine: '/images/viaggi/egitto-completo/giorno-07-siwa.jpg',
   },
   {
     slug: 'mar-rosso',
@@ -252,6 +257,7 @@ export const destinazioniEgitto: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['egitto-mare-luxor-cairo', 'egitto-completo'],
-    imageAlt: 'Barriera corallina del Mar Rosso con pesci tropicali vista dall\'alto, acqua turchese',
+    imageAlt: 'Coralli a tavola e acqua turchese su una barriera corallina del Mar Rosso',
+    immagine: '/images/viaggi/egitto-mare-luxor-cairo/giorno-09-mar-rosso.jpg',
   },
 ]

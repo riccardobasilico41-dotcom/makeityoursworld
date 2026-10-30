@@ -49,7 +49,8 @@ export const destinazioniTurchia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['turchia-itinerario'],
-    imageAlt: 'Santa Sofia e la Moschea Blu viste dal Bosforo al tramonto, Istanbul',
+    imageAlt: 'Santa Sofia vista da nord-ovest, con la grande cupola e i quattro minareti',
+    immagine: '/images/viaggi/turchia-itinerario/giorno-02-istanbul.jpg',
   },
   {
     slug: 'cappadocia',
@@ -92,7 +93,8 @@ export const destinazioniTurchia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['turchia-itinerario'],
-    imageAlt: 'Mongolfiere colorate sopra le valli della Cappadocia all\'alba',
+    imageAlt: 'Mongolfiere sopra le valli di tufo del parco nazionale di Göreme, in Cappadocia',
+    immagine: '/images/viaggi/turchia-itinerario/giorno-06-cappadocia.jpg',
   },
   {
     slug: 'pamukkale',
@@ -124,7 +126,8 @@ export const destinazioniTurchia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['turchia-itinerario'],
-    imageAlt: 'Le terrazze bianche di travertino di Pamukkale con l\'acqua azzurra nelle vasche',
+    imageAlt: 'Le vasche di travertino bianco di Pamukkale piene d\'acqua azzurra',
+    immagine: '/images/viaggi/turchia-itinerario/giorno-08-pamukkale.jpg',
   },
   {
     slug: 'efeso',
@@ -158,7 +161,8 @@ export const destinazioniTurchia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['turchia-itinerario'],
-    imageAlt: 'La facciata della biblioteca di Celso a Efeso',
+    imageAlt: 'Le gradinate in pietra dell\'antico stadio di Efeso',
+    immagine: '/images/viaggi/turchia-itinerario/giorno-10-efeso.jpg',
   },
   {
     slug: 'costa-licia',
@@ -200,7 +204,8 @@ export const destinazioniTurchia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['turchia-itinerario'],
-    imageAlt: 'La laguna turchese di Ölüdeniz vista dall\'alto, costa licia',
+    imageAlt: 'Panorama di Kaş con il porto, le case bianche e il mare della costa licia',
+    immagine: '/images/viaggi/turchia-itinerario/giorno-13-costa-licia.jpg',
   },
   {
     slug: 'antalya',
@@ -223,6 +228,7 @@ export const destinazioniTurchia: Destinazione[] = [
     erroriDaEvitare: ['Restituire l\'auto a noleggio in un\'altra città senza aver verificato la tassa di sola andata'],
     esperienzeSlugs: [],
     tripSlugs: ['turchia-itinerario'],
-    imageAlt: 'Il porto antico di Kaleiçi ad Antalya con le scogliere sullo sfondo',
+    imageAlt: 'Vista di Kaleiçi, il centro storico di Antalya affacciato sul mare',
+    immagine: '/images/viaggi/turchia-itinerario/giorno-15-antalya.jpg',
   },
 ]

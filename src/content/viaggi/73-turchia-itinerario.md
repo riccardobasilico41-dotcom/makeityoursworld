@@ -23,21 +23,21 @@ La Turchia è un Paese grande, e il primo viaggio rischia di diventare una corsa
 - **Novembre-marzo:** Istanbul e la Cappadocia innevata hanno un fascino diverso e prezzi bassi; ma molti voli in mongolfiera vengono annullati e la costa è spenta. Il Ramadan 2027 cade indicativamente tra l'8 febbraio e il 9 marzo; le feste del Bayram riempiono bus e voli interni.
 
 ### Documenti, valuta e pagamenti
-- **Documenti:** nessun visto per gli italiani fino a 90 giorni. Passaporto oppure carta d'identità valida per l'espatrio, con almeno 150 giorni di validità residua dall'ingresso. Le carte cartacee con timbro di proroga possono essere rifiutate.
-- **Valuta:** lira turca (TRY), con inflazione molto alta: a fine 2026 indicativamente oltre 50 lire per un euro, e i prezzi locali cambiano di mese in mese. Musei statali, mongolfiere, molti hotel e tour sono quotati in euro.
+- **Documenti:** nessun visto per gli italiani fino a 90 giorni. Passaporto oppure carta d'identità elettronica (CIE) valida per l'espatrio, integra e con almeno 5 mesi di validità residua, per chi arriva in aereo o in nave. Il passaporto deve avere una pagina libera per i timbri. Le carte d'identità rinnovate con timbro o certificato di proroga rischiano il rifiuto: meglio il passaporto.
+- **Valuta:** lira turca (TRY), con inflazione molto alta: a ottobre 2026 circa 55-56 lire per un euro, e i prezzi locali cambiano di mese in mese. Musei statali, mongolfiere, molti hotel e tour sono quotati in euro.
 - **Pagamenti:** carte ovunque, anche sui mezzi pubblici di Istanbul con l'Istanbulkart. Al POS si sceglie sempre di pagare in lire e non in euro. Contanti per mercati, dolmuş, mance e bagni pubblici, che costano pochi lire.
 - **Mance:** 5-10 % al ristorante se il servizio non è incluso, qualche decina di lire per facchini e hammam, una mancia alla guida e all'autista nei tour.
 
 ### Prezzi dei musei e delle attività, indicativi ottobre 2026
 I musei statali sono quotati in euro e i prezzi salgono ogni anno: le cifre sono indicative e vanno ricontrollate sul sito ufficiale muze.gov.tr.
 - **Santa Sofia:** 25 € per i turisti stranieri, con un percorso dedicato alle gallerie superiori; il piano principale è riservato alla preghiera.
-- **Topkapı con harem:** intorno ai 50 €.
-- **Cisterna Basilica:** gestita dal comune, prezzo in lire, indicativamente 25-35 € al cambio.
-- **Museum Pass Istanbul:** intorno ai 105 € per 5 giorni, include Topkapı con harem, i musei archeologici, il museo di Santa Sofia «storia ed esperienza», Chora e altri. Conviene se si visitano almeno Topkapı e due o tre musei.
-- **Mongolfiera in Cappadocia:** indicativamente 180-350 € a persona secondo stagione e operatore.
-- **Museo all'aperto di Göreme:** intorno ai 20-25 €; **Derinkuyu o Kaymaklı:** intorno ai 15-20 €. **Museum Pass Cappadocia:** intorno ai 45-50 €.
-- **Pamukkale-Hierapolis:** intorno ai 30 €, piscina antica a parte.
-- **Efeso:** intorno ai 40 €, **case a terrazza** intorno ai 15 €; **Afrodisia** intorno ai 15-20 €.
+- **Topkapı con harem:** biglietto combinato con Sant'Irene a 2.750 lire, circa 50 € al cambio; chiuso il martedì.
+- **Cisterna Basilica:** prezzo in lire, non coperta dal Museum Pass: circa 1.950-2.250 lire di giorno (9-18.30, 35-40 € al cambio) e 3.000 lire per la sessione serale delle 19.30-22 (circa 55 €). Nel 2026 la gestione è passata dal comune alle Fondazioni (Vakıflar), con ricorsi in tribunale e qualche giorno di chiusura a giugno.
+- **Museum Pass Istanbul:** intorno ai 6.500 lire (circa 115-120 €) per 5 giorni dal primo ingresso, include Topkapı con harem, i musei archeologici, il museo di Santa Sofia «storia ed esperienza», Chora e il museo dei mosaici. Non valgono Santa Sofia, la Cisterna Basilica e la torre di Galata. Conviene se si visitano almeno Topkapı e due o tre musei.
+- **Mongolfiera in Cappadocia:** indicativamente 150-350 € a persona secondo stagione e operatore (meno in inverno, quando però gli annullamenti sono più frequenti); non esiste un prezzo ufficiale.
+- **Museo all'aperto di Göreme:** 20 €; **Derinkuyu o Kaymaklı:** 13 €. **Museum Pass Cappadocia:** intorno ai 65 € per 3 giorni.
+- **Pamukkale-Hierapolis:** 30 €, piscina antica a parte (in lire, indicativamente 6-13 €).
+- **Efeso:** 40 €, **case a terrazza** 15 € a parte; **Afrodisia** 12 €.
 
 ### Come muoversi
 - **Aeroporto di Istanbul-centro:** metro M11 fino a Gayrettepe e poi M2, oppure gli autobus **Havaist** fino a Sultanahmet o Taksim (circa 1-1,5 ore). Taxi intorno ai 40-60 € al cambio.
@@ -54,7 +54,7 @@ I musei statali sono quotati in euro e i prezzi salgono ogni anno: le cifre sono
 - **Negozi di tappeti:** l'«amico» che accompagna verso la moschea finisce sempre in un negozio. Si può bere il tè e uscire.
 - **Ristoranti senza prezzi** nelle zone turistiche: si chiede il menu con i prezzi prima di ordinare, soprattutto per il pesce a peso.
 - **Mongolfiere:** procacciatori in strada vendono voli di operatori senza licenza o cambiano compagnia all'ultimo. Si prenota con l'hotel o direttamente con l'operatore.
-- **Sicurezza generale:** zone turistiche tranquille con normale prudenza; Viaggiare Sicuri sconsiglia le aree vicine al confine siriano e invita a evitare manifestazioni e luoghi molto affollati per il rischio terrorismo. Il traffico sulle strade della costa è la variabile più seria: niente guida notturna sulle strade di montagna.
+- **Sicurezza generale:** zone turistiche tranquille con normale prudenza; Viaggiare Sicuri sconsiglia le aree al confine con Siria, Iraq e Iran e le province del sud-est, e invita alla cautela nei luoghi affollati e a evitare manifestazioni per il rischio terrorismo. Tutto il Paese è a rischio sismico, e d'estate sulle coste egea e mediterranea sono frequenti gli incendi. L'acqua del rubinetto non è potabile; meglio stare lontani dai cani randagi. Il traffico sulle strade della costa è la variabile più seria: niente guida notturna sulle strade di montagna.
 
 ## Itinerario giorno per giorno
 
@@ -75,7 +75,7 @@ Il pomeriggio scende sotto terra, nella **Cisterna Basilica**, con le sue 336 co
 
 **In pratica**
 - Santa Sofia 25 €, Moschea Blu gratuita
-- Cisterna Basilica: indicativamente 25-35 € al cambio
+- Cisterna Basilica: circa 1.950-2.250 lire di giorno (35-40 €), 3.000 lire la sera
 - Moschee chiuse ai turisti durante le preghiere, specie il venerdì a mezzogiorno
 
 ### Giorno 3 — Topkapı, il Gran Bazar e la Süleymaniye
@@ -84,7 +84,7 @@ Il **palazzo Topkapı**, residenza dei sultani per quasi quattro secoli, chiede 
 Poi il **Gran Bazar**, con le sue sessanta vie coperte, e a piedi fino alla **moschea di Süleymaniye**, il capolavoro dell'architetto Sinan, dalla cui terrazza si vede il Corno d'Oro. Si scende al **Bazar delle Spezie** e si cena con il **balık ekmek**, il panino di pesce delle barche di Eminönü.
 
 **In pratica**
-- Topkapı con harem intorno ai 50 €, chiuso il martedì
+- Topkapı con harem 2.750 lire (circa 50 €), chiuso il martedì
 - Gran Bazar chiuso la domenica
 - Al bazar si tratta, partendo dalla metà del prezzo chiesto
 
@@ -94,7 +94,7 @@ Una giornata sull'acqua. Il **traghetto pubblico** del Bosforo da Eminönü risa
 La sera a **Beyoğlu**: la torre di Galata al tramonto, viale İstiklal, e una cena di meze in una meyhane.
 
 **In pratica**
-- Traghetto pubblico lungo del Bosforo: pochi euro, partenza al mattino da Eminönü (verificare gli orari stagionali)
+- Traghetto pubblico lungo del Bosforo (Şehir Hatları): partenza tutti i giorni alle 10.35 da Eminönü, ritorno da Anadolu Kavağı alle 15, circa 320 lire andata e ritorno (circa 6 €)
 - Traghetto Eminönü-Kadıköy: 20 minuti, con l'Istanbulkart
 - Torre di Galata intorno ai 30 €, spesso con coda
 
@@ -112,8 +112,8 @@ Sveglia alle 4. Il pulmino passa a prendere in hotel, e intorno all'alba un cent
 In mattinata il **museo all'aperto di Göreme**, un complesso monastico con chiese scavate nella roccia e affreschi bizantini; la **Chiesa Oscura**, con biglietto a parte, è quella con i colori meglio conservati. Il pomeriggio si cammina fino a **Paşabağ**, la valle dei camini delle fate con i doppi cappelli.
 
 **In pratica**
-- Mongolfiera indicativamente 180-350 € con transfer e colazione
-- Museo all'aperto di Göreme intorno ai 20-25 €, Chiesa Oscura a parte
+- Mongolfiera indicativamente 150-350 € con transfer e colazione
+- Museo all'aperto di Göreme 20 €, Chiesa Oscura a parte
 - Entrare al museo all'apertura, prima dei gruppi
 
 ### Giorno 7 — Valle Rossa, Uçhisar e la città sotterranea
@@ -122,7 +122,7 @@ La mattina scende sotto terra nella **città sotterranea di Derinkuyu** o in que
 Il pomeriggio è per la **cittadella di Uçhisar**, la rupe più alta della zona, e per il sentiero della **Valle Rossa** e della **Valle Rosa**, da fare nelle ultime ore di luce, quando le pareti prendono il colore che dà il nome alle valli. La sera si prende il **bus notturno** per Pamukkale, che parte da Göreme o da Nevşehir.
 
 **In pratica**
-- Derinkuyu o Kaymaklı intorno ai 15-20 €
+- Derinkuyu o Kaymaklı 13 €
 - Il Green Tour giornaliero (Derinkuyu, Ihlara, Selime) è l'alternativa a un'auto
 - Bus notturno per Denizli/Pamukkale: circa 9-10 ore, indicativamente 20-35 €
 
@@ -132,7 +132,7 @@ Si arriva a **Pamukkale** la mattina presto. Le **terrazze di travertino**, la c
 Il pomeriggio è per riposare in pensione, e il tramonto si guarda dalle terrazze, quando la luce rende il bianco rosa.
 
 **In pratica**
-- Pamukkale-Hierapolis intorno ai 30 €, piscina antica intorno ai 10-15 €
+- Pamukkale-Hierapolis 30 €, piscina antica indicativamente 6-13 € in lire
 - Ritiro dell'auto a noleggio a Denizli, oggi o domattina
 - Sulle terrazze si cammina scalzi: borsa per le scarpe
 
@@ -142,9 +142,9 @@ Si parte in auto verso ovest. **Afrodisia**, a un'ora e mezza da Pamukkale, è u
 Si prosegue fino a **Selçuk**, la cittadina accanto a Efeso, per la sera: la **basilica di San Giovanni** al tramonto e cena in centro.
 
 **In pratica**
-- Afrodisia intorno ai 15-20 €
+- Afrodisia 12 €
 - Pamukkale-Afrodisia-Selçuk: circa 3,5 ore di guida
-- Basilica di San Giovanni intorno ai 5-10 €
+- Basilica di San Giovanni 6 €
 
 ### Giorno 10 — Efeso e Şirince
 **Efeso** apre presto, ed è il caso di essere lì all'apertura: dalle 10 arrivano i passeggeri delle navi da crociera di Kuşadası. Conviene entrare dalla **porta alta** (in taxi) e scendere lungo la **via dei Cureti** fino alla **biblioteca di Celso** e al **grande teatro**. Le **case a terrazza**, con biglietto a parte e una copertura che le protegge, conservano affreschi e mosaici delle case dei ricchi romani: sono la parte più bella del sito.
@@ -152,7 +152,7 @@ Si prosegue fino a **Selçuk**, la cittadina accanto a Efeso, per la sera: la **
 Nel pomeriggio il **museo di Efeso** a Selçuk e poi **Şirince**, un villaggio greco sulle colline a dieci minuti, con le case bianche e i vini di frutta.
 
 **In pratica**
-- Efeso intorno ai 40 €, case a terrazza intorno ai 15 €
+- Efeso 40 €, case a terrazza 15 € a parte
 - Taxi da Selçuk alla porta alta: pochi euro
 - La casa della Madonna (Meryem Ana Evi) è a 15 minuti dalla porta alta
 
@@ -180,7 +180,7 @@ Si scende verso **Kaş** con due soste. La **gola di Saklıkent**, un canyon di 
 Si arriva a **Kaş** per la sera, dopo la spiaggia di **Kaputaş** vista dall'alto della strada costiera, una delle più fotografate del Paese.
 
 **In pratica**
-- Saklıkent e Patara: intorno ai 5-15 € ciascuno
+- Saklıkent intorno ai 5-10 €, Patara 15 €
 - Scarpe da scoglio per il torrente di Saklıkent, si noleggiano sul posto
 - A Patara la spiaggia chiude al tramonto per le tartarughe
 
@@ -196,15 +196,15 @@ Giornata in barca da Kaş o da Üçağız verso **Kekova**: si naviga sopra le r
 Ultima tratta lungo la costa, tre ore e mezza fino ad **Antalya**, con una sosta a **Myra** per le tombe rupestri e la chiesa di **San Nicola** a Demre, o a **Olympos** per le rovine nel bosco e le fiamme della Chimera, che bruciano naturalmente dal sottosuolo. Riconsegna dell'auto all'aeroporto o in città, poi la sera a **Kaleiçi**, il centro storico intorno al porto romano.
 
 **In pratica**
-- Myra e chiesa di San Nicola: intorno ai 10-15 € ciascuna
+- Myra 13 €, chiesa di San Nicola 17 €
 - Chimera: la visita è più suggestiva al buio, con una torcia
 - Riconsegna auto: controllare il pieno e l'addebito HGS
 
 ### Giorno 16 — Antalya e rientro
-Mattina al **Museo archeologico di Antalya**, tra i migliori del Paese, con le statue di Perge, oppure una passeggiata alle **cascate di Düden** che cadono in mare. Poi l'aeroporto, con voli diretti per l'Italia in stagione o via Istanbul.
+Il **Museo archeologico di Antalya**, tra i migliori del Paese, con le statue di Perge, è chiuso dal luglio 2025 per la ricostruzione, con riapertura annunciata non prima di fine 2026. La mattina è quindi per una passeggiata alle **cascate di Düden** che cadono in mare, o per il museo, se nel frattempo ha riaperto. Poi l'aeroporto, con voli diretti per l'Italia in stagione o via Istanbul.
 
 **In pratica**
-- Museo archeologico intorno ai 15-20 €
+- Museo archeologico chiuso per ricostruzione (prima della chiusura 15 €): controllare se ha riaperto
 - Aeroporto di Antalya a 20-30 minuti dal centro
 - In alta stagione l'aeroporto è affollato: arrivare con 2,5-3 ore di anticipo
 
@@ -225,8 +225,8 @@ Mattina al **Museo archeologico di Antalya**, tra i migliori del Paese, con le s
 
 ## Budget indicativo
 A persona, in fascia media e in due, per 16 giorni, voli internazionali esclusi (indicativi, ottobre 2026):
-- **Musei e siti:** 230-320 € (Museum Pass Istanbul, Santa Sofia, Cisterna, Göreme, Derinkuyu, Pamukkale, Afrodisia, Efeso con case a terrazza, siti della costa).
-- **Mongolfiera:** 180-350 €.
+- **Musei e siti:** 280-380 € (Museum Pass Istanbul, Santa Sofia, Cisterna, Göreme, Derinkuyu, Pamukkale, Afrodisia, Efeso con case a terrazza, siti della costa).
+- **Mongolfiera:** 150-350 €.
 - **Volo interno e bus notturno:** 60-125 €.
 - **Auto a noleggio per 8 giorni con sola andata, carburante e pedaggi:** 200-350 € a testa in due.
 - **Alloggi:** 70-150 € a notte a camera.
@@ -263,8 +263,15 @@ Guida costruita su ricerca documentale: scheda Viaggiare Sicuri, sito ufficiale 
 ## Materiale grezzo (appunti, non ancora editato)
 **Note di redazione:**
 - Ricordi personali da aggiungere dal diario.
-- Prezzi di Cisterna Basilica, Efeso, Pamukkale, Afrodisia e mongolfiera con fonti discordanti: riverificare su muze.gov.tr e presso gli operatori.
-- Orari stagionali del traghetto lungo del Bosforo da verificare.
+- Prezzi verificati il 30/10/2026 (Santa Sofia, Topkapı e torre di Galata sul sito ufficiale muze.gen.tr; Cisterna Basilica su yerebatan.com e guide 2026; siti statali su elenchi 2026 allineati a DÖSİMM; Viaggiare Sicuri, scheda Turchia del 21/10/2026). Cambio usato: 55-56 lire per un euro.
+- Cisterna Basilica: gestione contesa tra comune e Vakıflar dopo il passaggio del 2 giugno 2026; i prezzi in lire (1.950-2.250 di giorno, 3.000 la sera) vengono da fonti non ufficiali concordi, il sito ufficiale non era raggiungibile.
+- Museum Pass Istanbul (6.500 lire, aprile 2026) e Museum Pass Cappadocia (65 €) da guide recenti, non dal sito ufficiale: ricontrollare.
+- Chiesa Oscura di Göreme: non è chiaro se nel 2026 abbia ancora un biglietto a parte (un elenco 2026 non lo riporta).
+- Piscina antica di Pamukkale: prezzo in lire non trovato su fonte ufficiale (6-13 € secondo le guide).
+- Traghetto lungo del Bosforo: orario 10.35 da Eminönü e ritorno alle 15 confermati da fonti secondarie; il sito di Şehir Hatları è dietro verifica anti-bot. Prezzo (circa 320 lire A/R, giugno 2026) da ricontrollare, così come l'eventuale seconda corsa estiva.
+- Mongolfiera: nessun prezzo ufficiale, forbice 150-350 € dalle guide e dagli operatori 2026.
+- Museo archeologico di Antalya: chiuso per ricostruzione, riapertura annunciata entro fine 2026 senza data.
+- Benzina, taxi dall'aeroporto, bus notturno, voli interni e noleggio: non riverificati, cifre in euro lasciate come stima.
 - Foto dei giorni da recuperare (campo immagine vuoto nell'overlay).
 
 ## Tag

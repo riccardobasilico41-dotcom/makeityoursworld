@@ -16,13 +16,13 @@ Il motivo per venire resta il mare: 26 atolli, circa 1.200 isole, barriere coral
 È una guida per chi ama il mare più del lusso, per chi fa snorkeling o immersioni e per chi vuole vedere com'è la vita sulle isole oltre il resort.
 
 ## Scheda pratica
-- **Documenti:** passaporto con almeno 6 mesi di validità. Visto turistico gratuito di 30 giorni all'arrivo, con biglietto di ritorno o di proseguimento, prenotazione dell'alloggio e mezzi sufficienti. Entro 96 ore dall'arrivo va compilata online la dichiarazione **IMUGA** (Traveller Declaration), obbligatoria anche per la partenza. Controllare la scheda Maldive di Viaggiare Sicuri.
-- **Divieti doganali:** è vietato importare alcol, carne di maiale, droghe, materiale pornografico e oggetti di culto non islamici destinati a essere esposti. L'alcol trovato in valigia viene sequestrato in aeroporto. Le pene per droga sono molto severe.
+- **Documenti:** passaporto elettronico (con chip), obbligatorio dal 2016; le autorità chiedono 30 giorni di validità oltre il rientro, Viaggiare Sicuri consiglia 6 mesi per gli scali. Visto turistico gratuito di 30 giorni all'arrivo, prorogabile fino a 90, con biglietto di ritorno o di proseguimento, prenotazione confermata dell'alloggio e mezzi sufficienti. Nelle 96 ore prima dell'arrivo va compilata online, gratis, la dichiarazione **IMUGA** (Traveller Declaration) su imuga.immigration.gov.mv; per la partenza non serve più dal 15 agosto 2024.
+- **Divieti doganali:** è vietato importare alcol, carne di maiale, droghe, materiale pornografico e oggetti di culto non islamici destinati a essere esposti. Dal 12 novembre 2024 sono vietate anche le sigarette elettroniche, importazione e uso compresi; il tabacco è ammesso fino a 200 sigarette, 25 sigari o 250 grammi. L'alcol trovato in valigia viene sequestrato in aeroporto. Le pene per droga arrivano all'ergastolo anche per piccole quantità.
 - **Valuta:** rufiyaa maldiviana (MVR), circa 15,4 per un dollaro. Il dollaro USA è accettato ovunque nel circuito turistico, ma solo banconote in buono stato e stampate dal 2013 in poi; sulle isole locali conviene avere anche rufiyaa per ferry, caffè e negozi.
 - **Pagamenti:** carte nei resort, negli hotel di Malé e Hulhumalé e in molte guesthouse (spesso con un 3-5% di commissione). Contanti per ferry, escursioni con piccoli operatori, mance e negozi delle isole. ATM a Malé, Hulhumalé, Maafushi e nelle isole più grandi; nelle piccole spesso nessuno.
-- **Tasse sul soggiorno:** su ogni notte si pagano la green tax (6 $ a persona nelle guesthouse sotto i 50 posti letto, 12 $ nei resort, negli hotel grandi e sulle barche safari), la TGST del 17% e di solito un 10% di servizio. La tassa di partenza (50 $ in economy per gli stranieri, più un diritto aeroportuale) è quasi sempre già nel biglietto aereo.
+- **Tasse sul soggiorno:** su ogni notte si pagano la green tax (6 $ a persona nelle guesthouse delle isole abitate con al massimo 50 camere, 12 $ nei resort, negli hotel grandi e sulle barche safari; esenti i bambini sotto i 2 anni), la TGST del 17% (in vigore dal 1° luglio 2025) e di solito un 10% di servizio. Dal dicembre 2024 la tassa di partenza per gli stranieri in economy è di 50 $, a cui si aggiunge un diritto di sviluppo aeroportuale di altri 50 $: 100 $ in tutto, quasi sempre già nel biglietto aereo.
 - **Connettività:** Dhiraagu e Ooredoo, SIM turistiche al banco dell'aeroporto. Segnale 4G buono su quasi tutte le isole abitate e nei resort.
-- **Salute:** nessuna vaccinazione obbligatoria, salvo la febbre gialla per chi arriva da un paese a rischio. Dengue presente: repellente sulle isole locali. Il pericolo più frequente è il sole, con l'acqua che riflette e inganna: crema solare minerale, lycra e cappello. Assicurazione sanitaria con copertura per le immersioni (le camere iperbariche sono poche e i trasferimenti d'urgenza costosi).
+- **Salute:** nessuna vaccinazione obbligatoria, salvo la febbre gialla per chi arriva da un paese a rischio o ha fatto uno scalo di oltre 12 ore in uno di questi. Dengue presente: repellente sulle isole locali. Il pericolo più frequente è il sole, con l'acqua che riflette e inganna: crema solare minerale, lycra e cappello. Assicurazione sanitaria con copertura per le immersioni (le camere iperbariche sono poche e i trasferimenti d'urgenza costosi).
 - **Lingua:** dhivehi; l'inglese si parla ovunque nel turismo.
 - **Elettricità:** 230V, 50Hz, prese G (britanniche) e a volte D. Serve un adattatore.
 - **Fuso orario:** UTC+5, 3 ore avanti rispetto all'Italia con l'ora legale, 4 in inverno. Alcuni resort usano un'«ora dell'isola» spostata di un'ora: va chiesto all'arrivo.
@@ -41,7 +41,7 @@ Le Maldive hanno due monsoni. L'**Iruvai**, il monsone di nord-est (dicembre-apr
 
 **Squali balena:** nell'atollo di Ari Sud ci sono tutto l'anno, con la finestra più citata da dicembre ad aprile per mare e visibilità e un secondo periodo buono tra agosto e novembre, secondo gli operatori. **Squali martello:** Rasdhoo, all'alba, più frequenti da dicembre a maggio. **Squali tigre:** Fuvahmulah, tutto l'anno.
 
-**Ramadan:** nel 2027 indicativamente dall'8 febbraio al 9 marzo (le date seguono la luna). Sulle isole locali molti caffè e ristoranti restano chiusi di giorno e la vita si sposta alla sera; le guesthouse servono comunque i pasti agli ospiti. Mangiare, bere o fumare in pubblico di giorno è scortese. Nei resort non cambia quasi nulla.
+**Ramadan:** nel 2027 indicativamente dall'8 febbraio all'8 marzo, con la festa di fine digiuno il 9 marzo; la data esatta la fissa il comitato maldiviano per l'avvistamento della luna e può spostarsi di un giorno. Sulle isole locali molti caffè e ristoranti restano chiusi di giorno e la vita si sposta alla sera; le guesthouse servono comunque i pasti agli ospiti. Mangiare, bere o fumare in pubblico di giorno è scortese. Nei resort non cambia quasi nulla.
 
 ## Quale atollo scegliere e perché
 La scelta dell'atollo pesa più di quella della singola isola. Distanza da Malé, mezzi per arrivarci, vita marina e tipo di isole cambiano molto.
@@ -83,10 +83,10 @@ La scelta dell'atollo pesa più di quella della singola isola. Distanza da Malé
 ## Snorkeling e immersioni
 Le Maldive sono tra i posti migliori al mondo per vedere grandi animali in acqua anche solo con maschera e pinne. Le **house reef** dei resort e le barriere vicino alle isole locali ospitano tartarughe, squali pinna nera, razze, pesci napoleone e migliaia di pesci di barriera. Con le escursioni si nuota con squali balena, mante e squali nutrice.
 
-Le immersioni si dividono tra **thila** (pinnacoli sommersi dentro gli atolli o nei canali), **giri** (pinnacoli che arrivano vicino alla superficie), **kandu** (i canali tra un atollo e l'oceano) e **pareti** esterne. Nei canali la corrente porta squali grigi, aquile di mare e banchi di carangidi, ma richiede esperienza. Regole maldiviane: profondità massima 30 metri per le immersioni ricreative, computer obbligatorio, boa di superficie consigliata. Prezzi indicativi 2026: 50-80 $ a immersione dai centri delle isole locali, 100-150 $ nei resort; corso Open Water 500-800 $.
+Le immersioni si dividono tra **thila** (pinnacoli sommersi dentro gli atolli o nei canali), **giri** (pinnacoli che arrivano vicino alla superficie), **kandu** (i canali tra un atollo e l'oceano) e **pareti** esterne. Nei canali la corrente porta squali grigi, aquile di mare e banchi di carangidi, ma richiede esperienza. Regole maldiviane: profondità massima 30 metri per le immersioni ricreative, computer obbligatorio, boa di superficie consigliata; la pesca subacquea è vietata. Prezzi indicativi 2026: 50-80 $ a immersione dai centri delle isole locali, 100-150 $ nei resort; corso Open Water 500-800 $.
 
 **Siti e periodi per i grandi animali:**
-- **Mante:** **baia di Hanifaru** (Baa) da giugno a novembre, picco agosto-ottobre, solo snorkeling, accesso regolato e a pagamento; stazioni di pulizia di **Lankan** e altre in Malé Nord, **Rangali Madivaru** e dintorni in Ari Sud nella stagione secca, **Fesdu** e Moofushi in Ari, **Addu** tutto l'anno.
+- **Mante:** **baia di Hanifaru** (Baa) da giugno a novembre, picco agosto-ottobre, solo snorkeling (immersioni vietate), accesso regolato con biglietto di 20 $ a persona al giorno per il fondo di conservazione dell'atollo, di solito già incluso nell'escursione; stazioni di pulizia di **Lankan** e altre in Malé Nord, **Rangali Madivaru** e dintorni in Ari Sud nella stagione secca, **Fesdu** e Moofushi in Ari, **Addu** tutto l'anno.
 - **Squali balena:** barriera esterna di **Ari Sud** tra Dhigurah e Maamigili (SAMPA, area marina protetta), tutto l'anno; in snorkeling.
 - **Squali martello:** **Rasdhoo**, alba sul lato esterno dell'atollo, da dicembre a maggio; immersione profonda in blu per subacquei esperti.
 - **Squali tigre:** **Fuvahmulah**, tutto l'anno, con squali volpe in alcune stagioni; immersioni per subacquei certificati con esperienza.
@@ -132,7 +132,7 @@ Un esempio di dieci giorni pensato per una prima volta: quattro notti su un'isol
 ### Giorno 1 — Arrivo a Malé e speedboat per Dhigurah
 I voli dall'Italia arrivano a Velana con uno scalo, spesso al mattino. Dopo i controlli si cerca al banco degli arrivi l'operatore dello speedboat prenotato dalla guesthouse: per **Dhigurah**, nell'atollo di Ari Sud, servono un'ora e mezza-due ore di mare aperto. Si arriva per pranzo, con il tempo di sistemarsi, fare una prima nuotata sulla **bikini beach**, una lunga lingua di sabbia bianca sulla punta dell'isola, e guardare il tramonto sul lato ovest.
 
-**In pratica:** speedboat condiviso Malé-Dhigurah indicativamente 50-70 $ a persona a tratta, orari fissi · chi atterra di sera dorme a Hulhumalé e parte il mattino dopo · IMUGA compilata prima del volo.
+**In pratica:** speedboat condiviso Malé-Dhigurah indicativamente 50-70 $ a persona a tratta, in genere due partenze dall'aeroporto (verso le 10:45-11 e le 16) e orari diversi il venerdì · chi atterra di sera dorme a Hulhumalé e parte il mattino dopo · IMUGA compilata nelle 96 ore prima del volo.
 
 ### Giorno 2 — Dhigurah: lo squalo balena sulla barriera di Ari Sud
 La giornata per cui si viene ad Ari Sud. La barca esce in mattinata lungo la barriera esterna tra Dhigurah e Maamigili, un'area marina protetta dove gli squali balena giovani si avvicinano alla superficie a cercare il plancton. Le guide li cercano dalla barca e il gruppo entra in acqua solo quando uno è vicino. Si nuota a qualche metro di distanza, seguendolo finché lo permette. *L'avvistamento è probabile ma non garantito: molti operatori offrono una seconda uscita scontata o gratuita se il primo giorno va a vuoto.* Il pomeriggio è libero, sulla spiaggia o sulla barriera davanti all'isola.
@@ -185,7 +185,7 @@ Chi ha un volo pomeridiano fa un giro a **Malé**, la capitale più densa del mo
 - **Resort, fascia media (300-600 $ a notte):** resort semplici in speedboat da Malé, spesso con pensione completa o all inclusive conveniente.
 - **Resort, fascia alta (da 700 $ in su):** resort lontani in idrovolante, ville sull'acqua, ristoranti multipli. Scegliere per la qualità della house reef, che conta più delle ville.
 - **Hulhumalé:** hotel e guesthouse per la prima o l'ultima notte, 60-150 $.
-- **Tasse:** ai prezzi vanno aggiunte la TGST del 17%, il 10% di servizio e la green tax (6 $ a persona a notte nelle guesthouse, 12 $ nei resort).
+- **Tasse:** ai prezzi vanno aggiunte la TGST del 17%, il 10% di servizio e la green tax (6 $ a persona a notte nelle guesthouse fino a 50 camere, 12 $ nei resort).
 
 ## Dove mangiare
 - **Sulle isole locali:** il **mas huni** a colazione (tonno, cocco grattugiato, cipolla e peperoncino con la roshi, una piadina), il **garudhiya** (brodo di tonno con riso, lime e peperoncino), il curry di tonno e di pesce, il pesce alla griglia pescato in giornata, i **short eats** del pomeriggio (gulha, bajiya, kavaabu), il tè dolce. Niente maiale e niente alcol.
@@ -209,8 +209,8 @@ Prezzi a persona in camera doppia, voli intercontinentali esclusi (Italia-Malé 
 - **Solo isole locali:** due isole diverse (Ari Sud e Rasdhoo, o Malé Sud e Vaavu), cinque notti ciascuna, con una giornata in un resort vicino.
 
 ## Consigli pratici / errori da non ripetere
-- **Compilare IMUGA** nelle 96 ore prima dell'arrivo e conservare la ricevuta.
-- **Non portare alcol in valigia:** viene sequestrato all'arrivo.
+- **Compilare IMUGA** nelle 96 ore prima dell'arrivo (non prima, o va rifatta) e conservare il QR code. È gratuita: i siti che chiedono soldi non sono ufficiali.
+- **Non portare alcol né sigarette elettroniche in valigia:** vengono sequestrati all'arrivo.
 - **Portare dollari recenti e in buono stato**, insieme a qualche rufiyaa per i ferry e le isole.
 - **Scegliere l'atollo in base alla stagione e agli animali**, non solo alla foto del bungalow.
 - **Chiedere della house reef** prima di prenotare un resort: c'è, è raggiungibile a nuoto, com'è il corallo?
@@ -227,7 +227,7 @@ Le Maldive possono essere un viaggio di lusso o uno dei viaggi di mare più acce
 Guida costruita con ricerca documentale (ente del turismo delle Maldive, MTCC, autorità fiscale MIRA, Viaggiare Sicuri, centri diving e blog recenti), aggiornata a ottobre 2026. Prezzi di speedboat, escursioni, alloggi e tasse cambiano spesso e sono indicativi; orari dei traghetti e stagioni degli animali variano: vanno riverificati prima di partire. Nessuna esperienza personale compare nel testo: apertura e chiusura sono scritte in voce di guida, in attesa dei ricordi dell'autore.
 
 ## Materiale grezzo (appunti, non ancora editato)
-**Note di redazione (ottobre 2026):** Ricordi personali da aggiungere dal diario. Da integrare: isole locali e resort effettivamente usati, operatori di escursioni e diving, prezzi pagati, eventuali avvistamenti. Da verificare: prezzo dello speedboat Malé-Dhigurah 2026; tariffa d'ingresso a Hanifaru (le fonti indicano 20 $ o 30-50 $); date esatte del Ramadan 2027; nome dei siti di pulizia delle mante in Ari Sud più usati dagli operatori. Foto da recuperare.
+**Note di redazione (ottobre 2026):** Prezzi verificati il 30/10/2026. Ricordi personali da aggiungere dal diario. Da integrare: isole locali e resort effettivamente usati, operatori di escursioni e diving, prezzi pagati, eventuali avvistamenti. Ancora aperti: nome dei siti di pulizia delle mante in Ari Sud più usati dagli operatori (serve il riscontro di un diving locale); data esatta del Ramadan 2027, che dipende dall'avvistamento della luna (stima 8 febbraio-8 marzo); prezzo dello speedboat per Dhigurah solo da fonti secondarie (50-70 $, nessun listino ufficiale degli operatori). Risolti: Hanifaru 20 $ a persona al giorno; IMUGA non più richiesta in partenza; tassa di partenza 50 $ + 50 $ di diritto aeroportuale; green tax 6/12 $ e TGST 17% confermate. Foto da recuperare.
 
 ## Tag
 `#maldive` `#oceanoindiano` `#isolelocali` `#resort` `#snorkeling` `#immersioni` `#squalobalena` `#mante` `#hanifaru` `#ari` `#rasdhoo` `#fuvahmulah` `#liveaboard` `#asia`

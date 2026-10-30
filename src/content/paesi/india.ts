@@ -55,6 +55,7 @@ export const india: Paese = {
     aggiornatoAl: 'ottobre 2026',
   },
   stileViaggio: ['cultura', 'treni', 'on the road', 'spiritualità', 'cibo di strada'],
+  heroImage: '/images/viaggi/india-rajasthan-10-giorni/giorno-04-agra.jpg',
   heroImageAlt: 'Il Taj Mahal all\'alba visto dal giardino, con la vasca centrale che riflette il mausoleo di marmo bianco',
   tripPrincipaleSlug: 'india-rajasthan-10-giorni',
 }

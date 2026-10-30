@@ -48,6 +48,7 @@ export const maldive: Paese = {
     aggiornatoAl: 'ottobre 2026',
   },
   stileViaggio: ['mare', 'snorkeling', 'immersioni', 'isole locali', 'resort'],
+  heroImage: '/images/maldive/hero-atollo.jpg',
   heroImageAlt: 'Un\'isola corallina delle Maldive vista dall\'alto, con la laguna turchese e la barriera che scende nel blu',
   tripPrincipaleSlug: 'maldive-guida',
 }

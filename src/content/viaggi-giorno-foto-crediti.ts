@@ -3352,4 +3352,1097 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Ornamental_pool_in_Jameos_del_Agua.jpg',
     },
   },
+  'india-rajasthan-10-giorni': {
+    'Giorno 1 — Arrivo a Delhi e la Vecchia Delhi': {
+      autore: 'Dewang Gupta (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/architectural-photography-brown-monument-yidTose1F2E',
+    },
+    'Giorno 2 — Delhi: Humayun, Qutub Minar e la Nuova Delhi': {
+      autore: 'Aqib Ahmed (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-6DaMJCZX-cM',
+    },
+    'Giorno 3 — In treno ad Agra: il Forte e il Taj al tramonto da Mehtab Bagh': {
+      autore: 'Julian Yu (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/dome-building-near-body-of-water-taken-during-daytime-5UGGT7lBF50',
+    },
+    'Giorno 4 — Il Taj Mahal all\'alba, Fatehpur Sikri e la strada per Jaipur': {
+      autore: 'Shan Elahi (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/reflections-of-white-mosque-on-water-DDiLYt_F88w',
+    },
+    'Giorno 5 — Jaipur: il Forte di Amber e Nahargarh al tramonto': {
+      autore: 'Meriç Dağlı (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/birds-flying-over-river-during-daytime-uADXI1v10us',
+    },
+    'Giorno 6 — Jaipur: City Palace, Jantar Mantar, Hawa Mahal e i bazar': {
+      autore: 'Prateek Katyal (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/brown-concrete-building-under-white-sky-during-daytime-To6i1FNfsOc',
+    },
+    'Giorno 7 — In treno a Jodhpur, la città blu': {
+      autore: 'Abhinav Tripathi (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/a-large-group-of-blue-buildings-in-a-city-3FeeAbwIO2o',
+    },
+    'Giorno 8 — Jodhpur: il forte di Mehrangarh e i vicoli blu': {
+      autore: 'Yash Raut (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/a-very-tall-castle-sitting-on-top-of-a-hill-gaBGuYY0xKg',
+    },
+    'Giorno 9 — Da Jodhpur a Udaipur passando per il tempio di Ranakpur': {
+      autore: 'Surendra Raika (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/a-large-white-building-with-many-spires-on-top-of-it-4D2ezQmc3kw',
+    },
+    'Giorno 10 — Udaipur: City Palace, lago Pichola e rientro': {
+      autore: 'Vikram Chouhan Udaipur Web Designer (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/a-body-of-water-with-buildings-around-it--GuW3TXBpro',
+    },
+  },
+  'india-rajasthan-varanasi': {
+    'Giorno 1 — Arrivo a Delhi e la Vecchia Delhi': {
+      autore: 'Aquib Akhter (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/group-of-people-on-concrete-road-between-buildings-oBCc0Hw6LrQ',
+    },
+    'Giorno 2 — Delhi: Humayun, Qutub Minar e volo per Varanasi': {
+      autore: 'Aamir Ahmad (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/qutub-minar-stands-tall-under-a-bright-cloudy-sky-7hmAhQww2oE',
+    },
+    'Giorno 3 — Varanasi: i ghat all\'alba e l\'aarti a Dashashwamedh': {
+      autore: 'Martijn Vonk (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/a-group-of-boats-floating-on-top-of-a-river-wloNuC7qKf8',
+    },
+    'Giorno 4 — Varanasi: Manikarnika, il Kashi Vishwanath e i vicoli della città vecchia': {
+      autore: 'Kishor Kumar C K (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/a-group-of-boats-sitting-on-top-of-a-river-nXQ3vq4gAY4',
+    },
+    'Giorno 5 — Sarnath e il treno notturno per Agra': {
+      autore: 'Rohit Dey (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/ancient-brick-ruins-with-a-large-stupa-in-background-hBR4rerbBQs',
+    },
+    'Giorno 6 — Agra: il Forte, il «piccolo Taj» e il tramonto da Mehtab Bagh': {
+      autore: 'Shreshth Gupta (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/white-and-brown-concrete-building-under-blue-sky-during-daytime-7-RDFPniALI',
+    },
+    'Giorno 7 — Il Taj Mahal all\'alba e la strada per Jaipur': {
+      autore: 'Dmitry Voronov (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/a-large-white-building-sitting-in-the-middle-of-a-field-rB9pzEM-93g',
+    },
+    'Giorno 8 — Jaipur, la città rosa': {
+      autore: 'Martijn Vonk (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/a-view-of-a-castle-from-a-distance-8oCgUgo_hBU',
+    },
+    'Giorno 9 — Jaipur: i bazar e la strada per Pushkar': {
+      autore: 'Vivek (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/aerial-view-of-city-near-body-of-water-during-daytime-8R-LJY4fcd8',
+    },
+    'Giorno 10 — Pushkar all\'alba e la strada per Jodhpur': {
+      autore: 'Anuj Bansal (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/a-body-of-water-with-buildings-along-it-WlM-gMrLlTg',
+    },
+    'Giorno 11 — Jodhpur: Mehrangarh e la città blu': {
+      autore: 'Vishal Gehlot (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/a-city-with-a-large-rock-cliff-U2Ji6d9CEGM',
+    },
+    'Giorno 12 — Verso Jaisalmer e la notte nel deserto del Thar': {
+      autore: 'Sumit Kr Sau (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/a-person-riding-a-camel-in-the-desert-at-sunset-DmK8oBcHLck',
+    },
+    'Giorno 13 — Jaisalmer, la città d\'oro': {
+      autore: 'jacopo marello (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/flock-of-birds-flying-over-ancient-golden-fort-bOti4ZCWD7A',
+    },
+    'Giorno 14 — Da Jaisalmer a Jodhpur': {
+      autore: 'Gaurav Mishra (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/view-of-a-blue-city-through-an-ornate-arched-window-iDZYORYicps',
+    },
+    'Giorno 15 — Ranakpur e l\'arrivo a Udaipur': {
+      autore: 'Shravan Suthar (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/people-walking-near-brown-concrete-building-during-daytime-m9V16z4s70Y',
+    },
+    'Giorno 16 — Udaipur, la città dei laghi': {
+      autore: 'Subhashis Das (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/a-large-white-building-sitting-on-top-of-a-lake-Jmfy_ec20bk',
+    },
+    'Giorno 17 — Volo da Udaipur a Delhi e partenza': {
+      autore: 'Yashowardhan Singh (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/a-large-building-sitting-on-top-of-a-large-body-of-water-elw0OH-JRaE',
+    },
+  },
+  'india-sud-taj-mahal': {
+    'Giorno 1 — Arrivo a Chennai e trasferimento a Mamallapuram': {
+      autore: 'Mari Ganesh Kumar (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/a-stone-carving-of-elephants-and-other-animals-3OWW1ya-CEY',
+    },
+    'Giorno 2 — Mamallapuram: il tempio sul mare e i Cinque Ratha': {
+      autore: 'Brijender Dua (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/a-group-of-people-walking-around-a-stone-structure-LHKIQC-S5pI',
+    },
+    'Giorno 3 — Puducherry, la città francese': {
+      autore: 'maniraj (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/aerial-view-of-city-buildings-near-body-of-water-during-daytime-mJ9jvm9OkYA',
+    },
+    'Giorno 4 — Verso Thanjavur e il tempio di Brihadeeswarar': {
+      autore: 'mariyan rajesh (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/a-very-tall-building-with-birds-flying-around-it-gq5WGKFwK4o',
+    },
+    'Giorno 5 — Da Thanjavur a Madurai e la cerimonia della sera al Meenakshi': {
+      autore: 'Priya Singh (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/a-tall-tower-with-a-statue-on-top-of-it-euPcmfnuOe8',
+    },
+    'Giorno 6 — Madurai, la città del tempio': {
+      autore: 'Melissa Kumaresan (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/brown-concrete-building-with-waters-between-kFsWnzm-psY',
+    },
+    'Giorno 7 — Dalle pianure alle colline di Munnar': {
+      autore: 'Omkar Shedsale (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/winding-road-through-green-tea-plantations-under-cloudy-sky-3x0Q5OBorNM',
+    },
+    'Giorno 8 — Munnar: le piantagioni di tè e il parco di Eravikulam': {
+      autore: 'Vivek Kumar (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/tea-gardens-on-munnar-hills-JS_ohjocm00',
+    },
+    'Giorno 9 — Le backwaters: una notte in houseboat ad Alleppey': {
+      autore: 'Abhishek Prasad (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/houseboat-on-alappuzha-backwaters-ii0oWs5abCo',
+    },
+    'Giorno 10 — Dalle backwaters a Fort Kochi': {
+      autore: 'Gurth Bramall (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/large-chinese-fishing-nets-stand-over-the-ocean-5_KaEisx5AA',
+    },
+    'Giorno 11 — Fort Kochi e Mattancherry': {
+      autore: 'Sai Sumith (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/a-building-with-a-mural-on-the-side-of-it-KhpZJF-TofM',
+    },
+    'Giorno 12 — Volo per Bangalore e treno notturno per Hampi': {
+      autore: 'Adhirej J R Nair (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/red-and-white-train-on-rail-1mXWRoDIZIM',
+    },
+    'Giorno 13 — Hampi: il bazar, il tempio di Virupaksha e il tramonto su Matanga': {
+      autore: 'Adarsh Sudheesan (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/an-aerial-view-of-a-city-with-a-river-running-through-it-yADr4J5jzOM',
+    },
+    'Giorno 14 — Hampi: il Centro reale, il tempio di Vittala e il treno notturno': {
+      autore: 'Aravind Shivkumar (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/a-group-of-stone-structures-sitting-on-top-of-a-dirt-field-jDMCUnvD5lY',
+    },
+    'Giorno 15 — Da Bangalore ad Agra': {
+      autore: 'Arun Geetha Viswanathan (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/people-walking-near-brown-concrete-building-during-daytime-8goGYCLzrLs',
+    },
+    'Giorno 16 — Il Taj Mahal all\'alba e il Forte di Agra': {
+      autore: 'Rowan Heuvel (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/taj-mahal-in-agra-at-sunset-sAB4BWrQ4Y4',
+    },
+    'Giorno 17 — Delhi e partenza': {
+      autore: 'Shubham Sharma (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/a-large-building-with-a-fountain-in-front-of-it-pwPSbwExzcY',
+    },
+  },
+  'maldive-guida': {
+    'Giorno 1 — Arrivo a Malé e speedboat per Dhigurah': {
+      autore: 'Shifaaz shamoon (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/aerial-shot-of-body-of-water-during-daytime-AAFH_AADpRg',
+    },
+    'Giorno 2 — Dhigurah: lo squalo balena sulla barriera di Ari Sud': {
+      autore: 'Sebastian Pena Lambarri (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/whale-shark-swimming-in-blue-ocean-Abj_zUko6Mg',
+    },
+    'Giorno 3 — Snorkeling con le mante e una sandbank': {
+      autore: 'Sebastian Pena Lambarri (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/grey-and-black-stingray-in-underwater-photography-F54xLcv9wQ0',
+    },
+    'Giorno 4 — La vita del villaggio e la pesca al tramonto': {
+      autore: 'Ishan @seefromthesky (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/boat-on-calm-water-at-low-sun-2d7n2sfYjHY',
+    },
+    'Giorno 5 — Ultima mattina ad Ari e un\'immersione': {
+      autore: 'Rayyu Maldives (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/a-turtle-swimming-in-the-ocean-cDsfRDTqg_8',
+    },
+    'Giorno 6 — Dall\'isola locale al resort': {
+      autore: 'Rayyu Maldives (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/boat-approaching-tropical-island-resort-maldives-4F4OtnNjpmc',
+    },
+    'Giorno 7 — Resort: la house reef e un\'escursione': {
+      autore: 'Mike Swigunski (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/brown-wooden-cottage-on-blue-body-of-water-during-daytime-k9Zeq6EH_bk',
+    },
+    'Giorno 8 — Resort: una giornata di riposo': {
+      autore: 'Moosa Haleem (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/green-palm-tree-on-white-sand-beach-during-daytime-758Km8MAcyI',
+    },
+    'Giorno 9 — Resort e trasferimento a Hulhumalé': {
+      autore: 'Ibrahim Mushan (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/aerial-view-of-city-buildings-near-body-of-water-during-daytime-adYea_dbcdg',
+    },
+    'Giorno 10 — Malé e partenza': {
+      autore: 'Abdulla Faiz (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://unsplash.com/photos/city-buildings-near-ocean-during-daytime-RQQT6z3vceI',
+    },
+  },
+  'messico-dia-de-los-muertos': {
+    'Giorno 1 — Arrivo a Città del Messico': {
+      autore: 'Primal Felines (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1622944732771-98ea30434259',
+    },
+    'Giorno 2 — Il Centro Histórico e la Mega Procesión de Catrinas': {
+      autore: 'Sofía Olmedo (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1772049214534-8d3e8ae7d025',
+    },
+    'Giorno 3 — Teotihuacán all\'alba': {
+      autore: 'Juliana Barquero (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1643177571935-5204362103fa',
+    },
+    'Giorno 4 — Museo di Antropologia, Chapultepec e Coyoacán': {
+      autore: 'Chris Luengas (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1699654415302-aac79f3c8ac4',
+    },
+    'Giorno 5 — Puebla, la città della talavera': {
+      autore: 'Anil Wasif (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1653661279002-692227e35f0f',
+    },
+    'Giorno 6 — Cholula, la chiesa sulla piramide e il Popocatépetl': {
+      autore: 'Pedro Lastra (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1473726867722-6b8a5e529d76',
+    },
+    'Giorno 7 — Verso Oaxaca: mercati e prime comparsas': {
+      autore: 'Angel Maldonado (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1764649841644-391fc8965f4f',
+    },
+    'Giorno 8 — 31 ottobre: Monte Albán e la notte di Xoxocotlán': {
+      autore: 'Isai Matus (Pexels)',
+      licenza: 'Pexels License',
+      fonteUrl: 'https://www.pexels.com/photo/14288032/',
+    },
+    'Giorno 9 — 1° novembre: Teotitlán del Valle e la muerteada di San Agustín Etla': {
+      autore: 'analuisa gamboa (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1562869929-bda0650edb1f',
+    },
+    'Giorno 10 — 2 novembre: il Panteón General di Oaxaca': {
+      autore: 'Daniel Olivares (Pexels)',
+      licenza: 'Pexels License',
+      fonteUrl: 'https://www.pexels.com/photo/12334225/',
+    },
+    'Giorno 11 — La strada del mezcal: Santiago Matatlán, Mitla e Hierve el Agua': {
+      autore: 'Lan Yao (Pexels)',
+      licenza: 'Pexels License',
+      fonteUrl: 'https://www.pexels.com/photo/6750618/',
+    },
+    'Giorno 12 — Da Oaxaca a Puerto Escondido': {
+      autore: 'Zeltzin Tuxtla (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1641246092711-e0c85ffc5c0f',
+    },
+    'Giorno 13 — Puerto Escondido: surf, spiagge e tartarughe': {
+      autore: 'sander traa (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1777903675818-bcf8ac313732',
+    },
+    'Giorno 15 — Mazunte, Zipolite e Punta Cometa': {
+      autore: 'Amau Mexia (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1591853082864-dc81bfbdeb92',
+    },
+    'Giorno 16 — Rientro via Città del Messico': {
+      autore: 'LARAM (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1787581078174-8df3b2487f19',
+    },
+  },
+  'messico-cdmx-baja-california': {
+    'Giorno 1 — Arrivo a Città del Messico': {
+      autore: 'Carlos Aguilar (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1547686669-9a8cb1a22d91',
+    },
+    'Giorno 2 — Il Centro Histórico': {
+      autore: 'Julio Lopez (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1657772990151-b0b9a2b77f83',
+    },
+    'Giorno 3 — Teotihuacán': {
+      autore: 'Maciej Cisowski (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1645022175328-38e88b6f9dd6',
+    },
+    'Giorno 4 — Chapultepec e il Museo Nacional de Antropología': {
+      autore: 'Obed Hernández (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1693925369183-a815a771f7d5',
+    },
+    'Giorno 5 — Coyoacán e Xochimilco': {
+      autore: 'Gabriel Suazo (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1721707408664-8a31b92994a5',
+    },
+    'Giorno 6 — Volo per La Paz e il Malecón': {
+      autore: 'Federico Mata (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1705204868268-79654d36a508',
+    },
+    'Giorno 7 — Lo squalo balena e Playa Balandra': {
+      autore: 'Josh Withers (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1668403783639-0351085c110c',
+    },
+    'Giorno 8 — Isla Espíritu Santo e i leoni marini di Los Islotes': {
+      autore: 'Alix Greenman (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1612643171289-3f12054961e5',
+    },
+    'Giorno 9 — Verso Bahía Magdalena: le balene grigie': {
+      autore: 'Carlos Reyes (Pexels)',
+      licenza: 'Pexels License',
+      fonteUrl: 'https://www.pexels.com/photo/16159288/',
+    },
+    'Giorno 10 — Seconda uscita in laguna e strada per Loreto': {
+      autore: 'Nico Marin (Pexels)',
+      licenza: 'Pexels License',
+      fonteUrl: 'https://www.pexels.com/photo/35964149/',
+    },
+    'Giorno 11 — Loreto: balenottera azzurra e Isla Coronado': {
+      autore: 'Emilio Borraz Ortega (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1604880226021-095181c89edd',
+    },
+    'Giorno 12 — Da Loreto a Todos Santos': {
+      autore: 'Josh Withers (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1667945861347-b35eba4abbc3',
+    },
+    'Giorno 13 — Todos Santos, Playa Cerritos e le tartarughe': {
+      autore: 'Josh Withers (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1678210111235-085bee4772ff',
+    },
+    'Giorno 14 — Cabo San Lucas: El Arco e le megattere': {
+      autore: 'Shahrzad Kosari (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1712886020934-b464c69445e0',
+    },
+    'Giorno 15 — San José del Cabo e Cabo Pulmo': {
+      autore: 'Pascal van de Vendel (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1519327567471-ae47752b8089',
+    },
+    'Giorno 16 — Rientro da San José del Cabo': {
+      autore: 'Victoria Bragg (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1580846629083-02669741360a',
+    },
+  },
+  'brasile-itinerario': {
+    'Giorno 1 — Arrivo a Rio de Janeiro': {
+      autore: 'Daniel de Paola (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1705937463947-8f6f62e8953c',
+    },
+    'Giorno 2 — Cristo Redentor e Santa Teresa': {
+      autore: 'gustavo nacht (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1700677866571-43199bcbc593',
+    },
+    'Giorno 3 — Pão de Açúcar, Copacabana e Ipanema': {
+      autore: 'Diego Costa (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1758358042850-b5422ce2b661',
+    },
+    'Giorno 4 — Il centro storico e la notte di Lapa': {
+      autore: 'Bruno Scramgnon (Pexels)',
+      licenza: 'Pexels License',
+      fonteUrl: 'https://www.pexels.com/photo/13185516/',
+    },
+    'Giorno 5 — Verso Paraty sulla Costa Verde': {
+      autore: 'Guilherme Gabrielli (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1607029257863-8b2e746453f7',
+    },
+    'Giorno 6 — Paraty: la baia in barca e le cascate': {
+      autore: 'Felipe Vieira (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1576191486028-72b35cf62b70',
+    },
+    'Giorno 7 — Ilha Grande: arrivo ad Abraão': {
+      autore: 'Tutz Dias (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1660252473218-8f676f973969',
+    },
+    'Giorno 8 — Ilha Grande: Lopes Mendes': {
+      autore: 'Gabriel Fontes de Sousa (Pexels)',
+      licenza: 'Pexels License',
+      fonteUrl: 'https://www.pexels.com/photo/4717002/',
+    },
+    'Giorno 9 — Da Ilha Grande a Foz do Iguaçu': {
+      autore: 'Rafael Peier (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1781041004838-0cb4c592b1ad',
+    },
+    'Giorno 10 — Iguazú, il lato brasiliano e il Parque das Aves': {
+      autore: 'Christhian Gruhn (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1590246185449-e9e2ddd683bb',
+    },
+    'Giorno 11 — Iguazú, il lato argentino e la Garganta del Diablo': {
+      autore: 'Nicolás Gutiérrez Cervetto (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1710955677086-b6ce5af4f2d4',
+    },
+    'Giorno 12 — Volo per Salvador de Bahia': {
+      autore: 'Edson Junior (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1646494835208-ba788b9a3ed5',
+    },
+    'Giorno 13 — Salvador: Pelourinho e Cidade Baixa': {
+      autore: 'José Maldonado (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1787156154351-70adc350fcac',
+    },
+    'Giorno 14 — Salvador: Bonfim, Rio Vermelho e la cucina bahiana': {
+      autore: 'Gabriella Ally (Pexels)',
+      licenza: 'Pexels License',
+      fonteUrl: 'https://www.pexels.com/photo/33400935/',
+    },
+    'Giorno 15 — Verso la Chapada Diamantina': {
+      autore: 'Matheus Seiji Goto (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1591232635364-707e5827d09f',
+    },
+    'Giorno 16 — Chapada: Morro do Pai Inácio e le grotte': {
+      autore: 'Luiza Braun (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1724710089387-c9aa4cf9c28b',
+    },
+    'Giorno 17 — Chapada: la Cachoeira da Fumaça o il Poço Azul': {
+      autore: 'SALEM. (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1728232875709-a471152b4413',
+    },
+    'Giorno 18 — Da Lençóis a São Luís': {
+      autore: 'r4f4soares (Pexels)',
+      licenza: 'Pexels License',
+      fonteUrl: 'https://www.pexels.com/photo/18518321/',
+    },
+    'Giorno 19 — Barreirinhas e il circuito della Lagoa Azul': {
+      autore: 'Renato Nascimento (Pexels)',
+      licenza: 'Pexels License',
+      fonteUrl: 'https://www.pexels.com/photo/27688572/',
+    },
+    'Giorno 20 — Lagoa Bonita e le dune all\'alba': {
+      autore: 'Marian Sol Miranda (Pexels)',
+      licenza: 'Pexels License',
+      fonteUrl: 'https://www.pexels.com/photo/9571511/',
+    },
+    'Giorno 21 — Il Rio Preguiças, Caburé e Atins': {
+      autore: 'Bangalo (Pexels)',
+      licenza: 'Pexels License',
+      fonteUrl: 'https://www.pexels.com/photo/33163328/',
+    },
+    'Giorno 22 — Rientro da São Luís': {
+      autore: 'Seiji Seiji (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1602587557627-1281a7b5a9a2',
+    },
+  },
+  'croazia-itinerario': {
+    'Giorno 1 — Arrivo a Zagabria': {
+      autore: 'martin bennie (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1663086480502-47e1156bb594',
+    },
+    'Giorno 2 — Verso Plitvice: i laghi inferiori': {
+      autore: 'Mike Swigunski (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1589312133722-eab40c686ebb',
+    },
+    'Giorno 3 — Plitvice all\'apertura e strada per Zara': {
+      autore: 'Ilse (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1595171250522-ae1c060c288d',
+    },
+    'Giorno 4 — Zara: l\'Organo marino e il Saluto al Sole': {
+      autore: 'Karl Paul Baldacchino (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1661178434473-6daf1940d913',
+    },
+    'Giorno 5 — Le cascate del Krka e Sebenico': {
+      autore: 'Fabian Kühne (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1628271775551-22f7c9da320a',
+    },
+    'Giorno 6 — Trogir e arrivo a Spalato': {
+      autore: 'Piotr Musioł (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1654690678364-f353444cd302',
+    },
+    'Giorno 7 — Spalato: il palazzo di Diocleziano e il Marjan': {
+      autore: 'Timo Wielink (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1663673799938-e5795f59983d',
+    },
+    'Giorno 8 — In catamarano a Hvar': {
+      autore: 'Aleksandra Krasinska (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1605703296515-515167084932',
+    },
+    'Giorno 9 — Hvar: le isole Pakleni': {
+      autore: 'Ian Mackey (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1759764401172-c74feece43e7',
+    },
+    'Giorno 10 — Curzola, la città di Marco Polo': {
+      autore: 'Joanna (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1725378158001-7d9bcb6528f5',
+    },
+    'Giorno 11 — Da Curzola a Dubrovnik e le mura': {
+      autore: 'Ivan Ivankovic (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1414862625453-d87604a607e4',
+    },
+    'Giorno 12 — Dubrovnik: Stradun, Lokrum e la funivia': {
+      autore: 'BGBennett (Pexels)',
+      licenza: 'Pexels License',
+      fonteUrl: 'https://www.pexels.com/photo/19884886/',
+    },
+    'Giorno 13 — Ston e la penisola di Sabbioncello': {
+      autore: 'Kokorevas (Pexels)',
+      licenza: 'Pexels License',
+      fonteUrl: 'https://www.pexels.com/photo/10364100/',
+    },
+    'Giorno 14 — Rientro da Dubrovnik': {
+      autore: 'Xiaoqian Shen (Unsplash)',
+      licenza: 'Unsplash License',
+      fonteUrl: 'https://images.unsplash.com/photo-1777924985962-907aa0d2fe15',
+    },
+  },
+  'egitto-mare-luxor-cairo': {
+    'Giorno 1 — Arrivo al Cairo': {
+      autore: 'Robster1983 at English Wikipedia (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Giza-pyramids.JPG',
+    },
+    'Giorno 2 — Le piramidi di Giza e il Grand Egyptian Museum': {
+      autore: 'Warren LeMay from Chicago, IL, United States (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Pyramids_of_Giza,_Giza,_GG,_EGY_(47902719631).jpg',
+    },
+    'Giorno 3 — Saqqara, Dahshur e la sera al Khan el-Khalili': {
+      autore: 'Gary Todd from Xinzheng, China (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Saqqara_Pyramid_and_Temple_of_Zoser_(Djoser)_(9794271904).jpg',
+    },
+    'Giorno 4 — Il Cairo islamico e copto, volo per Luxor': {
+      autore: 'shadyshaker (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Cairo_Mosque_Egypt_Islam_Architecture.jpg',
+    },
+    'Giorno 5 — Luxor, riva ovest: Valle dei Re e tempio di Hatshepsut': {
+      autore: 'Warren LeMay from Covington, KY, United States (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Mortuary_Temple_of_Hatshepsut,_Luxor,_LG,_EGY_-_Flickr_-_w_lemay.jpg',
+    },
+    'Giorno 6 — Mongolfiera all\'alba, Karnak e il tempio di Luxor': {
+      autore: 'Mustang Joe (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Hot_air_balloons_over_the_Valley_of_the_Kings_-_Flickr_-_Mustang_Joe.jpg',
+    },
+    'Giorno 7 — Da Luxor al Mar Rosso': {
+      autore: 'Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center (Wikimedia Commons)',
+      licenza: 'Pubblico dominio',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:ISS006-E-10805_-_View_of_Egypt.jpg',
+    },
+    'Giorno 8 — Mare: la barriera corallina dalla riva': {
+      autore: 'no rights reserved (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Chlorurus_sordidus,_Marsa_Shagra,_Marsa_Alam,_Red_Sea_Governorate,_Egypt_imported_from_iNaturalist_photo_348227348.jpg',
+    },
+    'Giorno 9 — In barca alle isole o immersioni': {
+      autore: 'Mahmoud Habeeb (Wikimedia Commons)',
+      licenza: 'Pubblico dominio',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Coral_Reef_in_the_Red_Sea.JPG',
+    },
+    'Giorno 11 — Rientro': {
+      autore: 'Mahmoud Habeeb (Wikimedia Commons)',
+      licenza: 'Pubblico dominio',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Coral_Reef_in_the_Red_Sea.JPG',
+    },
+  },
+  'egitto-completo': {
+    'Giorno 1 — Arrivo al Cairo': {
+      autore: 'Gary Todd from Xinzheng, China (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Mosque-Madrassa_of_Sultan_Hassan,_Cairo,_Egypt_(9797501896).jpg',
+    },
+    'Giorno 2 — Giza e il Grand Egyptian Museum': {
+      autore: 'Warren LeMay from Chicago, IL, United States (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Pyramids_of_Giza,_Giza,_GG,_EGY_(47850611872).jpg',
+    },
+    'Giorno 3 — Saqqara, Dahshur e Menfi': {
+      autore: 'LisethHatta17 (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Saqqara_Necropolis.jpg',
+    },
+    'Giorno 4 — Il Cairo islamico, il Cairo copto e il Museo Egizio': {
+      autore: 'Gary Todd from Xinzheng, China (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Mosque_of_Muhammad_Ali,_Selah-Al-Din_(Saladin)_Citadel,_Cairo_(9797492034).jpg',
+    },
+    'Giorno 5 — Da Cairo a Marsa Matruh passando per Alessandria': {
+      autore: 'ديفيد عادل وهبة خليل 2 (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:كورنيش_مرسى_مطروح_4.jpg',
+    },
+    'Giorno 6 — Da Marsa Matruh a Siwa': {
+      autore: 'Mohamed shokry algarnosy (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:جزيرة_فطناس_محمد_شكري_الجرنوسي_82.jpg',
+    },
+    'Giorno 7 — Siwa: l\'Oracolo, la montagna dei morti e la sorgente di Cleopatra': {
+      autore: 'Mohamed shokry algarnosy (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:جزيرة_فطناس_محمد_شكري_الجرنوسي_51.jpg',
+    },
+    'Giorno 8 — Il Grande Mare di Sabbia': {
+      autore: 'NASA (Wikimedia Commons)',
+      licenza: 'Pubblico dominio',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:ISS-31_Linear_dunes_in_the_Great_Sand_Sea_in_southwest_Egypt.jpg',
+    },
+    'Giorno 9 — Rientro al Cairo': {
+      autore: 'Warren LeMay from Cincinnati, OH, United States (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Khan_el-Khalili,_Old_Cairo,_al-Qāhirah,_CG,_EGY_(47122173924).jpg',
+    },
+    'Giorno 10 — Volo per Assuan e feluca al tramonto': {
+      autore: 'Warren LeMay from Cullowhee, NC, United States (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Aswan_from_the_Nile_River,_Aswan,_AG,_EGY_(48025382026).jpg',
+    },
+    'Giorno 11 — Abu Simbel all\'alba': {
+      autore: 'Warren LeMay from Cullowhee, NC, United States (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Abu_Simbel_Temples,_Abu_Simbel,_AG,_EGY_(48017152218).jpg',
+    },
+    'Giorno 12 — Philae e l\'imbarco sulla crociera del Nilo': {
+      autore: 'RndmCrs (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Temple_of_Philae_as_seen_from_a_boat.jpg',
+    },
+    'Giorno 13 — Crociera: Kom Ombo ed Edfu': {
+      autore: 'Warren LeMay from Cullowhee, NC, United States (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Temple_of_Horus_at_Edfu,_Edfu,_AG,_EGY_(48022552433).jpg',
+    },
+    'Giorno 14 — Esna e l\'arrivo a Luxor: Karnak e il tempio di Luxor': {
+      autore: 'Warren LeMay from Chicago, IL, United States (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Great_Hypostyle_Hall,_Karnak_Temple,_Luxor,_LG,_EGY_(48009633832).jpg',
+    },
+    'Giorno 15 — Luxor, riva ovest: Valle dei Re, Hatshepsut e Nefertari': {
+      autore: 'Mustang Joe (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Tomb_of_Rameses_IV,_Valley_of_the_Kings,_Egypt_(53956208628).jpg',
+    },
+    'Giorno 16 — Mongolfiera, Medinet Habu e Deir el-Medina': {
+      autore: 'Mustang Joe (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Sunrise_Balloon_Ride,_Valley_of_the_Kings_(53379322967).jpg',
+    },
+    'Giorno 17 — Gita a Dendera o ad Abydos': {
+      autore: 'A. Parrot (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Barques_of_Amun,_Mut,_and_Khonsu,_Temple_of_Seti_I_at_Abydos.jpg',
+    },
+    'Giorno 18 — Da Luxor a Marsa Alam': {
+      autore: 'Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center (Wikimedia Commons)',
+      licenza: 'Pubblico dominio',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:ISS006-E-10805_-_View_of_Egypt.jpg',
+    },
+    'Giorno 19 — Immersioni: Abu Dabbab e i reef di Marsa Alam': {
+      autore: 'no rights reserved (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Chlorurus_sordidus,_Marsa_Shagra,_Marsa_Alam,_Red_Sea_Governorate,_Egypt_imported_from_iNaturalist_photo_348227348.jpg',
+    },
+    'Giorno 20 — Immersioni a Elphinstone o snorkeling a Dolphin House': {
+      autore: 'no rights reserved (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Slingjaw_Wrasse,_Fort_Arabesque,_Hurghada,_Red_Sea_Governorate,_Egypt_imported_from_iNaturalist_photo_404796817.jpg',
+    },
+    'Giorno 21 — Rientro': {
+      autore: 'Mahmoud Habeeb (Wikimedia Commons)',
+      licenza: 'Pubblico dominio',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Coral_Reef_in_the_Red_Sea.JPG',
+    },
+  },
+  'turchia-itinerario': {
+    'Giorno 1 — Arrivo a Istanbul': {
+      autore: 'Hamdigumus (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Günbatımı,_Sultanahmet_2015.jpg',
+    },
+    'Giorno 2 — Sultanahmet: Santa Sofia, la Moschea Blu e la Cisterna': {
+      autore: 'Julian Lupyan (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Hagia_Sophia_from_Northwest,_2024.jpg',
+    },
+    'Giorno 3 — Topkapı, il Gran Bazar e la Süleymaniye': {
+      autore: 'Julian Lupyan (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Sultan\'s_Throne,_Imperial_Hall,_Topkapı_Palace_Harem.jpg',
+    },
+    'Giorno 4 — Il Bosforo, Beyoğlu e Kadıköy': {
+      autore: 'xxoktayxx (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Galata_tower_view.jpg',
+    },
+    'Giorno 5 — Volo per la Cappadocia': {
+      autore: 'Feridun F. Alkaya (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:CAPPADOCIA_Göreme_National_Park_and_the_Rock_Sites._World_Heritage_List._Turkey_-_43735381830.jpg',
+    },
+    'Giorno 6 — Mongolfiera all\'alba e il museo all\'aperto di Göreme': {
+      autore: 'Feridun F. Alkaya (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:CAPPADOCIA_Göreme_National_Park_and_the_Rock_Sites._World_Heritage_List._Turkey._Hot_Air_Ballooning_Cappadocia.jpg',
+    },
+    'Giorno 7 — Valle Rossa, Uçhisar e la città sotterranea': {
+      autore: 'Wokege (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:View_of_geological_strata_in_Capadocia.jpg',
+    },
+    'Giorno 8 — Pamukkale e Hierapolis': {
+      autore: 'LoggaWiggler (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Pamukkale_Travertenlerinden_bir_fotoğraf.jpg',
+    },
+    'Giorno 9 — Afrodisia e l\'arrivo a Selçuk': {
+      autore: 'Feridun F. Alkaya (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:APHRODISIAS_Ancient_City_-_The_monumental_gateway_or_tetrapylon.jpg',
+    },
+    'Giorno 10 — Efeso e Şirince': {
+      autore: 'Olos88 (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Ancient_stadium_in_Ephesus,_April_2024_(12).jpg',
+    },
+    'Giorno 11 — Verso la costa licia: Fethiye': {
+      autore: 'Luc Coekaerts (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Fethiye_-_49217311762.jpg',
+    },
+    'Giorno 12 — Ölüdeniz, Kayaköy e la Via Licia': {
+      autore: 'Hocu (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Kayaköy_hillside_01.jpg',
+    },
+    'Giorno 13 — Da Fethiye a Kaş: Saklıkent e Patara': {
+      autore: 'Cobija (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Kaş_görünümü.jpg',
+    },
+    'Giorno 14 — Kekova in barca': {
+      autore: 'Luc Coekaerts (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:View_Kas.jpg',
+    },
+    'Giorno 15 — Da Kaş ad Antalya': {
+      autore: 'Cobija (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Kaleiçi_görünümü.JPG',
+    },
+    'Giorno 16 — Antalya e rientro': {
+      autore: 'Cobija (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Kaleiçi_görünümü_(2).JPG',
+    },
+  },
+  'filippine-itinerario': {
+    'Giorno 1 — Arrivo a Manila': {
+      autore: 'lumoplank (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Intramuros,_Manila-_Part_1_-_Forts_-_Intramuros1975.jpg',
+    },
+    'Giorno 2 — Volo per Puerto Princesa e van per El Nido': {
+      autore: 'lumoplank (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:El_Nido_town_-_ElNido2132.jpg',
+    },
+    'Giorno 3 — El Nido: le lagune del Tour A': {
+      autore: 'MC Guisona macoreine (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:El_Nido_(Unsplash).jpg',
+    },
+    'Giorno 4 — El Nido: il Tour C e la spiaggia di Nacpan': {
+      autore: 'P.A.V. Mahusay (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:El_Nido,_Palawan_(1).jpg',
+    },
+    'Giorno 5 — Traghetto per Coron': {
+      autore: 'lumoplank (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Mount_Tapyas_-_Tapyas1700.jpg',
+    },
+    'Giorno 6 — Coron: il lago Kayangan, il Barracuda e le Twin Lagoon': {
+      autore: 'lumoplank (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Coron_and_Calamian_Islands_-_Coron1713.jpg',
+    },
+    'Giorno 7 — Coron: relitti e isole di sabbia': {
+      autore: 'lumoplank (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Coron_and_Calamian_Islands_-_Coron1734.jpg',
+    },
+    'Giorno 8 — Volo per Cebu e trasferimento a Moalboal': {
+      autore: 'Ken Suarez kensuarez (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Pescador_Island_(Unsplash).jpg',
+    },
+    'Giorno 9 — Moalboal: le sardine e le tartarughe': {
+      autore: 'Ken Suarez kensuarez (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:A_view_from_the_top_of_Pescador_Island_(Unsplash).jpg',
+    },
+    'Giorno 11 — Da Moalboal a Bohol': {
+      autore: 'rogel tura (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:The_Chocolate_Hills_in_Bohol.jpg',
+    },
+    'Giorno 12 — Bohol: Chocolate Hills, tarsi e il fiume Loboc': {
+      autore: 'lumoplank (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Tarsiers_of_Bohol_-_Bohol1892.jpg',
+    },
+    'Giorno 13 — Panglao: Balicasag e Virgin Island': {
+      autore: 'Deepak-nsk (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Doljo_Beach_in_Panglao.jpg',
+    },
+    'Giorno 14 — Volo per Siargao': {
+      autore: 'theinstantmatrix (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Magpupungko_beach_area_spherical_360-degree_08-23-2017.jpg',
+    },
+    'Giorno 16 — Siargao: la laguna di Sugba e Magpupungko': {
+      autore: 'theinstantmatrix (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Magpupungko_beach_area_02_spherical_360-degree_08-23-2017.jpg',
+    },
+    'Giorno 17 — Siargao: surf e ultimo giorno di mare': {
+      autore: 'Surigao del Norte Provincial Government (Wikimedia Commons)',
+      licenza: 'Pubblico dominio',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Cloud_9_October_2026.jpg',
+    },
+    'Giorno 18 — Rientro da Siargao': {
+      autore: 'Surigao del Norte Provincial Government (Wikimedia Commons)',
+      licenza: 'Pubblico dominio',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Cloud_9_October_2026.jpg',
+    },
+  },
+  'california-road-trip': {
+    'Giorno 1 — Arrivo a San Francisco': {
+      autore: 'Umer Sayyam (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_at_Purple_sunset.jpg',
+    },
+    'Giorno 2 — San Francisco: il Golden Gate, il Presidio e Alcatraz': {
+      autore: 'CaryXz5 (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Fort_Point_View_of_Golden_Gate_Bridge.jpg',
+    },
+    'Giorno 3 — San Francisco: i quartieri e Muir Woods': {
+      autore: 'Autore sconosciuto (Wikimedia Commons)',
+      licenza: 'Pubblico dominio',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:MUWO4188.jpg',
+    },
+    'Giorno 4 — Da San Francisco a Yosemite': {
+      autore: 'Sebastien Gabriel (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Yosemite_National_Park_Unsplash.jpg',
+    },
+    'Giorno 5 — Yosemite Valley: il Mist Trail e le cascate': {
+      autore: 'Cam Adams camadams (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Vernal_Fall,_Yosemite_Valley,_United_States_(Unsplash).jpg',
+    },
+    'Giorno 6 — Yosemite: Glacier Point e Mariposa Grove': {
+      autore: 'Cam DiCecca camdicecca (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Glacier_Point_Through_The_Fog_(Unsplash).jpg',
+    },
+    'Giorno 7 — Da Yosemite a Sequoia': {
+      autore: 'Susan Yin syinq (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Trees_in_Sequoia_National_Park_(Unsplash).jpg',
+    },
+    'Giorno 8 — Sequoia: il General Sherman e Moro Rock': {
+      autore: 'Dsdugan (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:17_23_321_moro.jpg',
+    },
+    'Giorno 9 — Verso la Death Valley': {
+      autore: 'NPS (Wikimedia Commons)',
+      licenza: 'Pubblico dominio',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Thimble_Peak_and_the_Cottonwood_Mountains_rise_above_Mesquite_Flat_Sand_Dunes._(105bfe72-28d2-427f-8605-1c77628ed87b).JPG',
+    },
+    'Giorno 10 — Death Valley: Badwater, Artists Drive e Zabriskie Point': {
+      autore: 'NPS (Wikimedia Commons)',
+      licenza: 'Pubblico dominio',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Telescope_Peak_is_reflected_in_a_shallow_pool_in_Badwater_Basin_following_rains._(198717b7-3110-474a-a060-1a19606d47a4).jpg',
+    },
+    'Giorno 11 — Dalla Death Valley a Joshua Tree': {
+      autore: 'Joshua Tree National Park (Wikimedia Commons)',
+      licenza: 'Pubblico dominio',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Sunset_at_Joshua_Tree_National_Park_(21123226221).jpg',
+    },
+    'Giorno 12 — Joshua Tree': {
+      autore: 'StephenGA (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Joshua_Tree_National_Park_-_51758583325.jpg',
+    },
+    'Giorno 13 — Palm Springs e l\'arrivo a Los Angeles': {
+      autore: 'Visviva (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Agua_Caliente_Band_signage_downtown_Palm_Springs.jpg',
+    },
+    'Giorno 14 — Los Angeles: il Getty, Hollywood e il Griffith Observatory': {
+      autore: 'The Fun Chronicles (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Griffith_Observatory_with_Downtown_Los_Angeles_In_The_Background_-_54084315490.jpg',
+    },
+    'Giorno 15 — Los Angeles: Santa Monica, Venice e Malibu': {
+      autore: 'Bernard Spragg. NZ from Christchurch, New Zealand (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Santa_Monica_Pier._(48943413288).jpg',
+    },
+    'Giorno 16 — Santa Barbara e la costa fino a Cambria': {
+      autore: 'Mx. Granger (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:West_Beach_3.jpg',
+    },
+    'Giorno 17 — Big Sur sulla Highway 1': {
+      autore: 'Joe Pascavage pascavage (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Sand_beach_bay_among_rocks_(Unsplash).jpg',
+    },
+    'Giorno 18 — Monterey, Carmel e il rientro a San Francisco': {
+      autore: 'U.S. Fish and Wildlife Service Headquarters (Wikimedia Commons)',
+      licenza: 'Pubblico dominio',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Monterey_Bay_Coast_(7161010684).jpg',
+    },
+    'Giorno 19 — Partenza da San Francisco': {
+      autore: 'Bernard Spragg. NZ from Christchurch, New Zealand (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Painted_ladies_(16)_(8654118574).jpg',
+    },
+  },
+  'montenegro-itinerario': {
+    'Giorno 1 — Arrivo a Tivat e Kotor al tramonto': {
+      autore: 'photo-nic.co.uk nic chiro (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Kotor,_Montenegro_(Unsplash).jpg',
+    },
+    'Giorno 2 — Kotor: la città vecchia e le mura fino alla fortezza': {
+      autore: 'Tumi-1983 (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Cityscape_to_Kotor.jpg',
+    },
+    'Giorno 3 — Perast, la Madonna dello Scarpello e il giro delle Bocche': {
+      autore: 'Tumi-1983 (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Perast_from_bay_of_Kotor.jpg',
+    },
+    'Giorno 4 — Le serpentine del Lovćen, Njeguši e Cetinje': {
+      autore: 'Qasinka (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:2023_Lovćen_national_park_1.jpg',
+    },
+    'Giorno 5 — Budva, la costa e Sveti Stefan': {
+      autore: 'Dirgela (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Budva_Riviera.jpg',
+    },
+    'Giorno 6 — Il lago di Scutari: Virpazar e Rijeka Crnojevića': {
+      autore: 'Fabizor (Wikimedia Commons)',
+      licenza: 'Pubblico dominio',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Rijeka_Crnojevića_(Stari_most).JPG',
+    },
+    'Giorno 7 — Il monastero di Ostrog e la strada per Žabljak': {
+      autore: 'William Hall (Wikimedia Commons)',
+      licenza: 'Pubblico dominio',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Gornji_manasti_sa_konakom_-_panorama_2008.jpg',
+    },
+    'Giorno 8 — Durmitor: il Lago Nero, la strada panoramica e il Bobotov Kuk': {
+      autore: 'Rybioko (Wikimedia Commons)',
+      licenza: 'Pubblico dominio',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Zabljak.jpg',
+    },
+    'Giorno 9 — Il ponte sul Tara, il rafting e la discesa verso sud': {
+      autore: 'Bojana Smiljanić; Original uploader was Zrno at sr.wikipedia (Wikimedia Commons)',
+      licenza: 'Pubblico dominio',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Kanjon_Tare_(2006).jpg',
+    },
+    'Giorno 10 — Podgorica e partenza': {
+      autore: 'Rakoon (Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:DSC_0123_podgorica_july_2017.jpg',
+    },
+  },
 }

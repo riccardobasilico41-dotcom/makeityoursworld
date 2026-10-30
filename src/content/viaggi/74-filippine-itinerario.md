@@ -26,21 +26,21 @@ Le Filippine sono un Paese di isole, e il viaggio si costruisce intorno agli spo
 ### Documenti, valuta e pagamenti
 - **Documenti:** passaporto con almeno 6 mesi di validità residua. Ingresso senza visto per turismo fino a 30 giorni, con **biglietto di uscita** dal Paese che le compagnie aeree controllano all'imbarco in Italia.
 - **eTravel:** registrazione obbligatoria e **gratuita** sul portale ufficiale etravel.gov.ph entro le 72 ore prima dell'arrivo, con un QR code da mostrare in aeroporto. Molti siti la fanno pagare decine di euro: non serve.
-- **Valuta:** peso filippino (PHP), indicativamente 63-67 pesos per un euro.
+- **Valuta:** peso filippino (PHP), indicativamente 70-72 pesos per un euro (ottobre 2026).
 - **Pagamenti:** carte nelle città, negli hotel e nei ristoranti turistici. Contanti per barche, tricycle, tasse ambientali e quasi tutto il resto sulle isole. A El Nido, Coron e Siargao gli ATM sono pochi, a volte vuoti nei weekend, e chiedono 250-500 PHP di commissione: si preleva a Manila o a Cebu prima di partire.
 
 ### Come muoversi tra le isole
 - **Voli interni:** Cebu Pacific e Philippine Airlines collegano Manila e Cebu con tutte le isole. Biglietti indicativamente 40-120 € a tratta, bagaglio in stiva spesso a parte. Le compagnie low cost cambiano orari di frequente: si controlla la mail il giorno prima. AirSwift vola su El Nido da Manila, comodo ma più caro.
 - **Manila-El Nido:** volo su **Puerto Princesa** (1h20) e poi van condiviso fino a El Nido, 5-6 ore, indicativamente 600-800 PHP. In alternativa il volo diretto AirSwift.
-- **El Nido-Coron:** traghetto veloce, 3,5-4 ore, indicativamente 1.800-2.800 PHP a persona secondo la compagnia. Partenze al mattino, annullate con mare mosso. Oppure la **spedizione in barca di 3-5 giorni** tra le isole, con notti in campi sulla spiaggia (vedi le varianti).
+- **El Nido-Coron:** traghetto veloce (Montenegro Lines, Phimal e altre compagnie), 3,5-4 ore, indicativamente 1.800-3.500 PHP a persona secondo compagnia e classe. I traghetti lenti impiegano 7-9 ore. Partenze al mattino, annullate con mare mosso. Oppure la **spedizione in barca di 3-5 giorni** tra le isole, con notti in campi sulla spiaggia (vedi le varianti).
 - **Coron-Cebu:** volo diretto da Busuanga su Cebu, circa 1h15; senza diretto, via Manila.
 - **Cebu-Moalboal:** auto privata (3 ore, indicativamente 3.000-4.000 PHP) o bus Ceres dal South Bus Terminal (4 ore, meno di 250 PHP).
-- **Cebu-Bohol:** traghetto veloce OceanJet da Cebu a Tagbilaran, 2 ore, indicativamente 800-1.200 PHP.
-- **Bohol-Siargao:** volo su Siargao, quasi sempre con scalo a Cebu.
+- **Cebu-Bohol:** traghetto veloce OceanJet da Cebu a Tagbilaran, 2 ore, indicativamente 900-1.000 PHP in classe turistica e 1.400-1.550 PHP in business; nel 2026 le tariffe sono cambiate più volte per il supplemento carburante.
+- **Bohol-Siargao:** nel 2026 non ci sono voli diretti da Panglao: si vola via Cebu, da dove Cebu Pacific, PAL Express e Sunlight Air arrivano a Siargao in circa un'ora. In alternativa si va a Cebu in traghetto e si vola da lì.
 - **Sulle isole:** tricycle (prezzo da concordare), scooter a noleggio (350-500 PHP al giorno), barche dei tour. A Manila e Cebu c'è Grab.
 
 ### Sicurezza e truffe comuni
-- **Viaggiare Sicuri** sconsiglia le zone occidentali e centrali di Mindanao e l'arcipelago di Sulu. Siargao, nel nord-est di Mindanao, è una meta turistica frequentata e non rientra tra le aree sconsigliate, ma conviene controllare la scheda aggiornata prima di partire.
+- **Viaggiare Sicuri** sconsiglia le zone occidentali e centrali di Mindanao e l'arcipelago di Sulu. Per Mindanao raccomanda la massima attenzione in tutta la regione, con l'eccezione di Siargao, che al momento non presenta criticità. Indica come zone di particolare cautela anche la parte meridionale delle Visayas e il nord-est di Luzon. Conviene controllare la scheda aggiornata prima di partire.
 - **Taxi all'aeroporto di Manila:** i taxi bianchi senza tassametro chiedono cifre fuori mercato. Grab, o i taxi gialli ufficiali con tassametro.
 - **eTravel a pagamento:** il modulo è gratuito, solo sul sito ufficiale.
 - **Cambio:** cambiavalute di strada con trucchi sul conteggio; meglio ATM delle banche o uffici di cambio nei centri commerciali.
@@ -71,15 +71,15 @@ Volo mattutino per **Puerto Princesa**, la capitale di Palawan, e van condiviso 
 Il **Tour A** è quello delle lagune. Si parte in bangka, la barca con i bilancieri, verso l'isola di **Miniloc**: la **Big Lagoon**, che si attraversa in kayak tra pareti di calcare, la **Small Lagoon**, in cui si entra nuotando da una fessura nella roccia, la **Secret Lagoon** e le spiagge di Shimizu e 7 Commando per il pranzo. La Big Lagoon ha ingressi a fasce orarie per limitare le barche: si prenota il giorno prima.
 
 **In pratica**
-- Tour A indicativamente 1.400-1.900 PHP a persona con pranzo
-- Ingressi dei siti e kayak a parte (200-300 PHP ciascuno)
+- Tour A indicativamente 1.200-1.800 PHP a persona con pranzo
+- Ingresso alla Big Lagoon circa 200 PHP e kayak 150-200 PHP, a parte
 - Scarpe da scoglio, maschera propria, sacca impermeabile
 
 ### Giorno 4 — El Nido: il Tour C e la spiaggia di Nacpan
 Mattina in barca con il **Tour C**, quello delle spiagge nascoste: **Hidden Beach**, **Secret Beach** e il santuario di **Matinloc**, con snorkeling sui reef intorno a Helicopter Island. Il pomeriggio in tricycle o scooter fino a **Nacpan**, una spiaggia di quattro chilometri di sabbia chiara e palme, a quaranta minuti dal paese, per l'ultimo tramonto di El Nido.
 
 **In pratica**
-- Tour C indicativamente 1.600-2.000 PHP a persona con pranzo
+- Tour C indicativamente 1.400-1.800 PHP a persona con pranzo
 - Tricycle per Nacpan andata e ritorno: da concordare, 1.000-1.500 PHP
 - I tour B e D sono un'alternativa con meno barche
 
@@ -87,8 +87,8 @@ Mattina in barca con il **Tour C**, quello delle spiagge nascoste: **Hidden Beac
 Traghetto veloce di tre ore e mezza verso **Coron**, tra le isole del nord di Palawan. Le partenze sono al mattino e vengono annullate con mare mosso, più frequente tra luglio e ottobre e nei giorni di vento del nord-est: per questo conviene avere un giorno di margine nel resto del viaggio. A Coron il pomeriggio è per salire sul **monte Tapyas**, settecento gradini per il tramonto sulla baia, e scendere alle **sorgenti calde di Maquinit**, acqua salata a 40 °C in mezzo alle mangrovie.
 
 **In pratica**
-- Traghetto El Nido-Coron: indicativamente 1.800-2.800 PHP, 3,5-4 ore
-- Monte Tapyas gratuito, Maquinit intorno ai 200 PHP
+- Traghetto El Nido-Coron: indicativamente 1.800-3.500 PHP, 3,5-4 ore
+- Monte Tapyas gratuito, Maquinit circa 300 PHP
 - Pillole contro il mal di mare per il traghetto
 
 ### Giorno 6 — Coron: il lago Kayangan, il Barracuda e le Twin Lagoon
@@ -96,7 +96,7 @@ L'escursione classica di Coron. Il **lago Kayangan**, tra i più puliti delle Fi
 
 **In pratica**
 - Tour indicativamente 1.500-2.500 PHP a persona con pranzo
-- Ingressi a parte: Kayangan intorno ai 300-400 PHP, gli altri 100-300 PHP
+- Ingressi a parte: Kayangan circa 300 PHP, Twin Lagoon circa 200 PHP, Barracuda 150-250 PHP
 - Al Kayangan si nuota con il giubbotto in alcune zone, per regolamento
 
 ### Giorno 7 — Coron: relitti e isole di sabbia
@@ -132,11 +132,12 @@ La giornata più attiva del viaggio. Il **canyoning** di Kawasan scende lungo il
 - Il pomeriggio libero a White Beach
 
 ### Giorno 11 — Da Moalboal a Bohol
-Si torna a **Cebu** in auto o in bus e si prende il traghetto veloce **OceanJet** per **Tagbilaran**, sull'isola di **Bohol**: due ore di mare. Da Tagbilaran mezz'ora fino a **Panglao**, l'isola collegata da un ponte dove si dorme. Chi vuole evitare la città di Cebu può prendere il traghetto da Argao, più a sud, o cercare una barca da Moalboal per Bohol nei giorni in cui esiste il servizio.
+Si torna a **Cebu** in auto o in bus e si prende il traghetto veloce **OceanJet** per **Tagbilaran**, sull'isola di **Bohol**: due ore di mare. Da Tagbilaran mezz'ora fino a **Panglao**, l'isola collegata da un ponte dove si dorme. Chi vuole evitare la città di Cebu può prendere il traghetto da Argao, più a sud, oppure scendere in auto fino a Oslob (2-2,5 ore) e prendere la bangka che attraversa fino a Panglao in circa un'ora e mezza: da Moalboal non partono barche dirette per Bohol.
 
 **In pratica**
 - Moalboal-Cebu: 3-4 ore
-- OceanJet Cebu-Tagbilaran: indicativamente 800-1.200 PHP, 2 ore
+- OceanJet Cebu-Tagbilaran: indicativamente 900-1.000 PHP in classe turistica, 2 ore
+- Bangka Oslob-Panglao: circa 1.000 PHP, una partenza in tarda mattinata
 - Base a Panglao, ad Alona Beach o nelle baie più tranquille
 
 ### Giorno 12 — Bohol: Chocolate Hills, tarsi e il fiume Loboc
@@ -156,10 +157,10 @@ Uscita in barca da Panglao all'alba: si vedono spesso i **delfini** nel canale, 
 - Partenze all'alba per i delfini
 
 ### Giorno 14 — Volo per Siargao
-Volo da **Bohol** (o da Cebu, a seconda degli orari) su **Siargao**, quasi sempre con scalo a Cebu. Dall'aeroporto di Sayak si arriva a **General Luna**, il paese dei surfisti, in tre quarti d'ora. La sera si noleggia lo scooter e si fa un primo giro fino alla passerella di **Cloud 9**, l'onda che ha reso famosa l'isola.
+Volo da **Bohol** (o da Cebu, a seconda degli orari) su **Siargao**, con scalo a Cebu: da Panglao non ci sono voli diretti. Dall'aeroporto di Sayak si arriva a **General Luna**, il paese dei surfisti, in tre quarti d'ora. La sera si noleggia lo scooter e si fa un primo giro fino alla passerella di **Cloud 9**, l'onda che ha reso famosa l'isola.
 
 **In pratica**
-- Volo Bohol o Cebu-Siargao: indicativamente 50-120 €
+- Volo Cebu-Siargao: circa un'ora, indicativamente 50-120 €
 - Van condiviso dall'aeroporto: indicativamente 300-400 PHP
 - Scooter: 350-500 PHP al giorno, casco obbligatorio
 
@@ -251,8 +252,9 @@ Guida costruita su ricerca documentale: scheda Viaggiare Sicuri, portale ufficia
 ## Materiale grezzo (appunti, non ancora editato)
 **Note di redazione:**
 - Ricordi personali da aggiungere dal diario.
-- Prezzi del traghetto El Nido-Coron, dei tour A e C e degli ingressi di Coron con fonti discordanti: riverificare presso gli uffici turistici municipali.
-- Verificare l'esistenza attuale di una barca diretta Moalboal-Bohol e del volo diretto Bohol-Siargao.
+- Prezzi verificati il 30/10/2026 (Viaggiare Sicuri, scheda aggiornata al 24/03/2026; OceanJet; guide e aggregatori di traghetti 2026).
+- Risolto: non esiste una barca diretta Moalboal-Bohol (si passa da Cebu, da Argao o dalla bangka Oslob-Panglao) e non c'è un volo diretto Panglao-Siargao (si vola via Cebu).
+- Ancora aperti: tassa ETDF di El Nido (400 PHP per 10 giorni secondo la maggior parte delle fonti, ma il sito del comune riporta ancora 200 PHP); prezzi e orari del traghetto El Nido-Coron, diversi da compagnia a compagnia e senza un listino ufficiale online; ingressi di Coron fissati dal comune e dal consiglio dei Tagbanua, riportati solo da operatori e blog; orario della bangka Oslob-Panglao, da riconfermare. Da riverificare presso gli uffici turistici municipali.
 - Foto dei giorni da recuperare (campo immagine vuoto nell'overlay).
 
 ## Tag

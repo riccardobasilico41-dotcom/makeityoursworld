@@ -43,7 +43,8 @@ export const destinazioniCalifornia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['california-road-trip'],
-    imageAlt: 'Il Golden Gate Bridge che emerge dalla nebbia sopra la baia di San Francisco',
+    imageAlt: 'Il Golden Gate Bridge al tramonto con il cielo viola sopra la baia di San Francisco',
+    immagine: '/images/viaggi/california-road-trip/giorno-01-san-francisco.jpg',
   },
   {
     slug: 'yosemite',
@@ -79,7 +80,8 @@ export const destinazioniCalifornia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['california-road-trip'],
-    imageAlt: 'La Yosemite Valley da Tunnel View, con El Capitan, il Bridalveil Fall e l\'Half Dome',
+    imageAlt: 'La Yosemite Valley con El Capitan e le pareti di granito',
+    immagine: '/images/viaggi/california-road-trip/giorno-04-yosemite.jpg',
   },
   {
     slug: 'sequoia',
@@ -112,7 +114,8 @@ export const destinazioniCalifornia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['california-road-trip'],
-    imageAlt: 'Il tronco del General Sherman nella Giant Forest, Sequoia National Park',
+    imageAlt: 'Tronchi rossi di sequoie giganti nel Sequoia National Park',
+    immagine: '/images/viaggi/california-road-trip/giorno-07-sequoia.jpg',
   },
   {
     slug: 'death-valley',
@@ -146,7 +149,8 @@ export const destinazioniCalifornia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['california-road-trip'],
-    imageAlt: 'Le colline ondulate di Zabriskie Point all\'alba, Death Valley',
+    imageAlt: 'Il Telescope Peak innevato riflesso in una pozza d\'acqua sul sale di Badwater Basin',
+    immagine: '/images/viaggi/california-road-trip/giorno-10-death-valley.jpg',
   },
   {
     slug: 'joshua-tree',
@@ -175,7 +179,8 @@ export const destinazioniCalifornia: Destinazione[] = [
     erroriDaEvitare: ['Uscire dai sentieri tra i massi senza acqua e senza segnale', 'Toccare i cholla: le spine si staccano e si attaccano alla pelle'],
     esperienzeSlugs: [],
     tripSlugs: ['california-road-trip'],
-    imageAlt: 'Joshua tree e massi di granito al tramonto nel Joshua Tree National Park',
+    imageAlt: 'Un albero di Giosuè e i massi di granito nel Joshua Tree National Park',
+    immagine: '/images/viaggi/california-road-trip/giorno-12-joshua-tree.jpg',
   },
   {
     slug: 'los-angeles',
@@ -205,7 +210,8 @@ export const destinazioniCalifornia: Destinazione[] = [
     erroriDaEvitare: ['Pianificare troppe zone in un giorno: i tempi in auto sono lunghi', 'Lasciare oggetti in vista nell\'auto parcheggiata'],
     esperienzeSlugs: [],
     tripSlugs: ['california-road-trip'],
-    imageAlt: 'Il Griffith Observatory al tramonto con le colline di Hollywood e Los Angeles sullo sfondo',
+    imageAlt: 'Il Griffith Observatory sulla collina con i grattacieli di Downtown Los Angeles sullo sfondo',
+    immagine: '/images/viaggi/california-road-trip/giorno-14-los-angeles.jpg',
   },
   {
     slug: 'big-sur',
@@ -240,6 +246,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['california-road-trip'],
-    imageAlt: 'Il ponte di Bixby Creek sulla Highway 1 a Big Sur, con l\'oceano Pacifico',
+    imageAlt: 'La cala di sabbia e l\'acqua turchese di McWay Falls lungo la costa di Big Sur',
+    immagine: '/images/viaggi/california-road-trip/giorno-17-big-sur.jpg',
   },
 ]

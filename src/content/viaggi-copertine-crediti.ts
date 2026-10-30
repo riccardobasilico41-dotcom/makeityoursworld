@@ -291,4 +291,74 @@ export const creditiCopertine: Record<string, CreditoImmagine> = {
     licenza: 'CC BY-SA 4.0',
     fonteUrl: 'https://commons.wikimedia.org/wiki/File:Teide_Roques_de_Garcia.jpg',
   },
+  'india-rajasthan-10-giorni': {
+    autore: 'Nikunj Mundra (Unsplash)',
+    licenza: 'Unsplash License',
+    fonteUrl: 'https://unsplash.com/photos/hawa-mahal-palace-facade-in-jaipur-W3qWtMNwRf0',
+  },
+  'india-rajasthan-varanasi': {
+    autore: 'Martijn Vonk (Unsplash)',
+    licenza: 'Unsplash License',
+    fonteUrl: 'https://unsplash.com/photos/a-group-of-boats-floating-on-top-of-a-river-1lxEATYIn6k',
+  },
+  'india-sud-taj-mahal': {
+    autore: 'Abhishek Prasad (Unsplash)',
+    licenza: 'Unsplash License',
+    fonteUrl: 'https://unsplash.com/photos/brown-wooden-boat-on-body-of-water-near-green-palm-trees-during-daytime-ayFW56Rz5Cs',
+  },
+  'maldive-guida': {
+    autore: 'Ishan @seefromthesky (Unsplash)',
+    licenza: 'Unsplash License',
+    fonteUrl: 'https://unsplash.com/photos/an-island-in-the-middle-of-the-ocean-TVq_QL0YE-I',
+  },
+  'messico-dia-de-los-muertos': {
+    autore: 'Roger Ce (Unsplash)',
+    licenza: 'Unsplash License',
+    fonteUrl: 'https://images.unsplash.com/photo-1667598335682-fd98c95fc80f',
+  },
+  'messico-cdmx-baja-california': {
+    autore: 'Alejandro De Casso (Unsplash)',
+    licenza: 'Unsplash License',
+    fonteUrl: 'https://images.unsplash.com/photo-1650336534265-c2345016e42e',
+  },
+  'brasile-itinerario': {
+    autore: 'Renato Nascimento (Pexels)',
+    licenza: 'Pexels License',
+    fonteUrl: 'https://www.pexels.com/photo/27688583/',
+  },
+  'croazia-itinerario': {
+    autore: 'László Tóth (Unsplash)',
+    licenza: 'Unsplash License',
+    fonteUrl: 'https://images.unsplash.com/photo-1589472501747-1660aeed4d80',
+  },
+  'egitto-mare-luxor-cairo': {
+    autore: 'Mustang Joe (Wikimedia Commons)',
+    licenza: 'CC0 1.0 (pubblico dominio)',
+    fonteUrl: 'https://commons.wikimedia.org/wiki/File:Floating_over_the_Valley_of_the_Kings,_Luxor,_Egypt_(54480104477).jpg',
+  },
+  'egitto-completo': {
+    autore: 'Gary Todd from Xinzheng, China (Wikimedia Commons)',
+    licenza: 'CC0 1.0 (pubblico dominio)',
+    fonteUrl: 'https://commons.wikimedia.org/wiki/File:Abu_Simbel_Temple_of_Ramesses_II_(9794542314).jpg',
+  },
+  'turchia-itinerario': {
+    autore: 'Netha Hussain (Wikimedia Commons)',
+    licenza: 'CC0 1.0 (pubblico dominio)',
+    fonteUrl: 'https://commons.wikimedia.org/wiki/File:Aerial_view_of_Cappadocia_from_hot_air_balloon_68.jpg',
+  },
+  'filippine-itinerario': {
+    autore: 'lumoplank (Wikimedia Commons)',
+    licenza: 'CC0 1.0 (pubblico dominio)',
+    fonteUrl: 'https://commons.wikimedia.org/wiki/File:Coron_and_Calamian_Islands_-_Coron1729.jpg',
+  },
+  'california-road-trip': {
+    autore: 'adrian aows (Wikimedia Commons)',
+    licenza: 'CC0 1.0 (pubblico dominio)',
+    fonteUrl: 'https://commons.wikimedia.org/wiki/File:Icons_(Unsplash).jpg',
+  },
+  'montenegro-itinerario': {
+    autore: 'Tumi-1983 (Wikimedia Commons)',
+    licenza: 'CC0 1.0 (pubblico dominio)',
+    fonteUrl: 'https://commons.wikimedia.org/wiki/File:R.K.C._Gospa_od_Škrpjela,_Perast,_Montenegro.jpg',
+  },
 }

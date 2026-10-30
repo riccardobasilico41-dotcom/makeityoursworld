@@ -31,8 +31,8 @@ export const messicoDiaDeLosMuertosMeta: TripMeta = {
   ],
   criticita: [
     'Alloggi a Oaxaca esauriti e cari tra il 30 ottobre e il 2 novembre: vanno prenotati per primi',
-    'Janitzio (Michoacán) resta fuori dall\'itinerario principale: lo stato è al livello 4 negli avvisi USA e sconsigliato dalla Svizzera, e la sua notte coincide con quella di Etla',
-    'Hierve el Agua è stato chiuso a lungo per dispute tra comunità: va verificato la settimana prima',
+    'Janitzio (Michoacán) resta fuori dall\'itinerario principale: la Farnesina raccomanda di evitare i viaggi non indispensabili nello stato, e la sua notte coincide con quella di Etla',
+    'Hierve el Agua ha avuto chiusure improvvise per dispute tra comunità: va verificato la settimana prima',
     'Bloqueos stradali frequenti nello stato di Oaxaca, che possono fermare bus e chiudere siti per ore',
     'A Zicatela correnti di risacca pericolose: non è una spiaggia da nuoto',
   ],
@@ -57,7 +57,8 @@ export const messicoDiaDeLosMuertosMeta: TripMeta = {
       statoPernottamento: 'consigliato',
       intensita: 'leggero',
       destinazioneSlug: 'citta-del-messico',
-      imageAlt: 'Viale alberato del quartiere Condesa a Città del Messico',
+      imageAlt: 'La fontana e la torre dell\'orologio tra gli alberi di un parco del quartiere Condesa, a Città del Messico',
+      immagine: '/images/viaggi/messico-dia-de-los-muertos/giorno-01-citta-del-messico.jpg',
     },
     {
       titoloGiorno: 'Giorno 2 — Il Centro Histórico e la Mega Procesión de Catrinas',
@@ -66,7 +67,8 @@ export const messicoDiaDeLosMuertosMeta: TripMeta = {
       intensita: 'medio',
       costiNoti: 'processione gratuita; trucco da Catrina in strada poche centinaia di pesos',
       destinazioneSlug: 'citta-del-messico',
-      imageAlt: 'Persone truccate da Catrina lungo il Paseo de la Reforma durante la processione',
+      imageAlt: 'Il campanile della Cattedrale Metropolitana visto dal Balcón del Zócalo, nel Centro Histórico di Città del Messico',
+      immagine: '/images/viaggi/messico-dia-de-los-muertos/giorno-02-citta-del-messico.jpg',
     },
     {
       titoloGiorno: 'Giorno 3 — Teotihuacán all\'alba',
@@ -76,7 +78,8 @@ export const messicoDiaDeLosMuertosMeta: TripMeta = {
       intensita: 'medio',
       costiNoti: 'ingresso stranieri circa 210 MXN dal 2026; mongolfiera 2.500-4.000 MXN',
       destinazioneSlug: 'citta-del-messico',
-      imageAlt: 'La Piramide del Sole e la Calzada de los Muertos a Teotihuacán',
+      imageAlt: 'Mongolfiere all\'alba sopra la Piramide del Sole di Teotihuacán',
+      immagine: '/images/viaggi/messico-dia-de-los-muertos/giorno-03-citta-del-messico.jpg',
     },
     {
       titoloGiorno: 'Giorno 4 — Museo di Antropologia, Chapultepec e Coyoacán',
@@ -85,7 +88,8 @@ export const messicoDiaDeLosMuertosMeta: TripMeta = {
       intensita: 'medio',
       costiNoti: 'Museo Nacional de Antropología circa 210 MXN per stranieri, chiuso il lunedì; Casa Azul su prenotazione',
       destinazioneSlug: 'citta-del-messico',
-      imageAlt: 'Il grande cortile con la fontana-ombrello del Museo Nacional de Antropología',
+      imageAlt: 'Un edificio coloniale rosa affacciato su una piazza alberata di Coyoacán',
+      immagine: '/images/viaggi/messico-dia-de-los-muertos/giorno-04-citta-del-messico.jpg',
     },
     {
       titoloGiorno: 'Giorno 5 — Puebla, la città della talavera',
@@ -95,7 +99,8 @@ export const messicoDiaDeLosMuertosMeta: TripMeta = {
       intensita: 'leggero',
       costiNoti: 'bus 200-300 MXN',
       destinazioneSlug: 'puebla-cholula',
-      imageAlt: 'Facciate coloniali rivestite di talavera nel centro storico di Puebla',
+      imageAlt: 'Una via del centro storico di Puebla con le facciate coloniali rosse, blu e bianche',
+      immagine: '/images/viaggi/messico-dia-de-los-muertos/giorno-05-puebla-cholula.jpg',
     },
     {
       titoloGiorno: 'Giorno 6 — Cholula, la chiesa sulla piramide e il Popocatépetl',
@@ -104,7 +109,8 @@ export const messicoDiaDeLosMuertosMeta: TripMeta = {
       statoPernottamento: 'consigliato',
       intensita: 'medio',
       destinazioneSlug: 'puebla-cholula',
-      imageAlt: 'Il Santuario de la Virgen de los Remedios in cima alla piramide di Cholula, con il Popocatépetl fumante sullo sfondo',
+      imageAlt: 'Il Santuario de la Virgen de los Remedios in cima alla piramide di Cholula, con il vulcano innevato alle spalle',
+      immagine: '/images/viaggi/messico-dia-de-los-muertos/giorno-06-puebla-cholula.jpg',
     },
     {
       titoloGiorno: 'Giorno 7 — Verso Oaxaca: mercati e prime comparsas',
@@ -114,7 +120,8 @@ export const messicoDiaDeLosMuertosMeta: TripMeta = {
       intensita: 'medio',
       costiNoti: 'bus 450-800 MXN secondo la classe',
       destinazioneSlug: 'oaxaca',
-      imageAlt: 'Banco di pan de muerto e fiori di cempasúchil al mercato di Oaxaca',
+      imageAlt: 'Fiori di cempasúchil e zucche in vendita in un mercato per il Día de Muertos',
+      immagine: '/images/viaggi/messico-dia-de-los-muertos/giorno-07-oaxaca.jpg',
     },
     {
       titoloGiorno: 'Giorno 8 — 31 ottobre: Monte Albán e la notte di Xoxocotlán',
@@ -124,7 +131,8 @@ export const messicoDiaDeLosMuertosMeta: TripMeta = {
       intensita: 'intenso',
       costiNoti: 'tour serale ai cimiteri 600-1.200 MXN; ingresso ai panteones libero',
       destinazioneSlug: 'oaxaca',
-      imageAlt: 'Tombe coperte di candele e fiori arancioni nel Panteón Viejo di Xoxocotlán la notte del 31 ottobre',
+      imageAlt: 'Un altare di cempasúchil illuminato dalle candele nella notte dei morti a Oaxaca',
+      immagine: '/images/viaggi/messico-dia-de-los-muertos/giorno-08-oaxaca.jpg',
     },
     {
       titoloGiorno: 'Giorno 9 — 1° novembre: Teotitlán del Valle e la muerteada di San Agustín Etla',
@@ -133,7 +141,8 @@ export const messicoDiaDeLosMuertosMeta: TripMeta = {
       statoPernottamento: 'consigliato',
       intensita: 'intenso',
       destinazioneSlug: 'valles-centrales-oaxaca',
-      imageAlt: 'Comparsa notturna in maschera con banda di ottoni durante la muerteada di San Agustín Etla',
+      imageAlt: 'Tessuti e tappeti di lana dai disegni geometrici colorati, della tradizione tessile zapoteca',
+      immagine: '/images/viaggi/messico-dia-de-los-muertos/giorno-09-valles-centrales-oaxaca.jpg',
     },
     {
       titoloGiorno: 'Giorno 10 — 2 novembre: il Panteón General di Oaxaca',
@@ -141,7 +150,8 @@ export const messicoDiaDeLosMuertosMeta: TripMeta = {
       statoPernottamento: 'consigliato',
       intensita: 'leggero',
       destinazioneSlug: 'oaxaca',
-      imageAlt: 'Il Templo de Santo Domingo a Oaxaca decorato per il Día de los Muertos',
+      imageAlt: 'Una cappella funeraria sotto la Via Lattea in un cimitero di Oaxaca',
+      immagine: '/images/viaggi/messico-dia-de-los-muertos/giorno-10-oaxaca.jpg',
     },
     {
       titoloGiorno: 'Giorno 11 — La strada del mezcal: Santiago Matatlán, Mitla e Hierve el Agua',
@@ -151,7 +161,8 @@ export const messicoDiaDeLosMuertosMeta: TripMeta = {
       intensita: 'medio',
       costiNoti: 'tour 600-900 MXN ingressi esclusi; Hierve el Agua 50-100 MXN in contanti, quando aperto',
       destinazioneSlug: 'valles-centrales-oaxaca',
-      imageAlt: 'Le cascate pietrificate di Hierve el Agua con la piscina naturale affacciata sulla valle',
+      imageAlt: 'Le cascate pietrificate di Hierve el Agua sul fianco della valle',
+      immagine: '/images/viaggi/messico-dia-de-los-muertos/giorno-11-valles-centrales-oaxaca.jpg',
     },
     {
       titoloGiorno: 'Giorno 12 — Da Oaxaca a Puerto Escondido',
@@ -161,7 +172,8 @@ export const messicoDiaDeLosMuertosMeta: TripMeta = {
       intensita: 'leggero',
       costiNoti: 'bus o van 300-500 MXN',
       destinazioneSlug: 'puerto-escondido',
-      imageAlt: 'La baia di Carrizalillo a Puerto Escondido al tramonto',
+      imageAlt: 'La baia di Puerto Escondido vista dall\'alto tra i cactus, con la spiaggia e il paese',
+      immagine: '/images/viaggi/messico-dia-de-los-muertos/giorno-12-puerto-escondido.jpg',
     },
     {
       titoloGiorno: 'Giorno 13 — Puerto Escondido: surf, spiagge e tartarughe',
@@ -170,7 +182,8 @@ export const messicoDiaDeLosMuertosMeta: TripMeta = {
       intensita: 'leggero',
       costiNoti: 'lezione di surf di gruppo 600-900 MXN; liberazione tartarughe a offerta',
       destinazioneSlug: 'puerto-escondido',
-      imageAlt: 'Surfisti sull\'onda di Playa Zicatela a Puerto Escondido',
+      imageAlt: 'Un surfista sull\'onda al tramonto sulla costa di Puerto Escondido',
+      immagine: '/images/viaggi/messico-dia-de-los-muertos/giorno-13-puerto-escondido.jpg',
     },
     {
       titoloGiorno: 'Giorno 14 — Laguna di Manialtepec e la bioluminescenza',
@@ -189,7 +202,8 @@ export const messicoDiaDeLosMuertosMeta: TripMeta = {
       statoPernottamento: 'consigliato',
       intensita: 'leggero',
       destinazioneSlug: 'puerto-escondido',
-      imageAlt: 'Tramonto sull\'oceano da Punta Cometa, sopra Mazunte',
+      imageAlt: 'Tramonto sull\'oceano e sul promontorio della costa di Mazunte',
+      immagine: '/images/viaggi/messico-dia-de-los-muertos/giorno-15-puerto-escondido.jpg',
     },
     {
       titoloGiorno: 'Giorno 16 — Rientro via Città del Messico',
@@ -197,6 +211,8 @@ export const messicoDiaDeLosMuertosMeta: TripMeta = {
       intensita: 'leggero',
       costiNoti: 'volo interno indicativamente 1.200-3.000 MXN prenotato in anticipo',
       destinazioneSlug: 'citta-del-messico',
+      imageAlt: 'L\'Ángel de la Independencia sul Paseo de la Reforma al tramonto, a Città del Messico',
+      immagine: '/images/viaggi/messico-dia-de-los-muertos/giorno-16-citta-del-messico.jpg',
     },
   ],
   budget: [

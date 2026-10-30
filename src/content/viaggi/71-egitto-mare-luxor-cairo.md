@@ -29,24 +29,24 @@ La scelta del mare è la domanda che arriva per prima, ed è spiegata per esteso
 - **Maggio-settembre:** mare caldissimo e resort scontati, ma Luxor supera spesso i 40 °C e d'estate arriva a 45. Si fa, con visite tra le 6 e le 10 e il pomeriggio in hotel; non è il periodo ideale per una prima volta.
 
 ### Documenti, valuta e pagamenti
-- **Documenti:** passaporto con almeno 6 mesi di validità residua, oppure carta d'identità valida per l'espatrio con 6 mesi residui e due fototessere. Il passaporto evita discussioni al check-in.
-- **Visto:** 25 $ all'arrivo al Cairo, allo sportello prima dei controlli, oppure e-visa sul portale ufficiale visa2egypt.gov.eg. Attenzione ai siti che imitano quello ufficiale e chiedono il doppio.
-- **Valuta:** lira egiziana (EGP), indicativamente 55-60 EGP per un euro. Tanti prezzi turistici sono in dollari.
-- **Pagamenti:** carta nei resort, negli hotel e nelle biglietterie dei siti (molte non accettano più contanti). Contanti in tagli piccoli per taxi, mance, bagni, acqua e mercati.
+- **Documenti:** passaporto con almeno 6 mesi di validità residua all'arrivo, oppure, solo per turismo, carta d'identità elettronica valida per l'espatrio con più di 6 mesi residui e due fototessere (senza foto il visto non viene rilasciato). La carta prorogata con il cedolino cartaceo non è accettata. Il passaporto evita discussioni al check-in.
+- **Visto:** 30 $ all'arrivo al Cairo (aumentato dal 1° marzo 2026, Viaggiare Sicuri riporta ancora 25 $), allo sportello prima dei controlli, oppure e-visa sul portale ufficiale visa2egypt.gov.eg. Attenzione ai siti che imitano quello ufficiale e chiedono il doppio.
+- **Valuta:** lira egiziana (EGP), indicativamente 58-62 EGP per un euro a ottobre 2026. Tanti prezzi turistici sono in dollari.
+- **Pagamenti:** carta nei resort, negli hotel e nelle biglietterie dei siti statali, che accettano solo carte; i biglietti si comprano anche online su egymonuments.com. Contanti in tagli piccoli per taxi, mance, bagni, acqua e mercati.
 - **Mance (baksheesh):** fanno parte del sistema. Indicativamente 10-20 EGP per bagni e piccoli servizi, 50-100 EGP al giorno per l'autista, 100-200 EGP al giorno per una guida, a persona. Vanno date per un servizio reale, non a chiunque tenda la mano.
 
 ### Biglietti dei siti, prezzi indicativi ottobre 2026
-I prezzi per i turisti stranieri sono aumentati più volte dal 2024 e cambiano senza molto preavviso: le cifre qui sotto sono indicative e vanno ricontrollate sul portale ufficiale egymonuments.gov.eg.
-- **Grand Egyptian Museum:** circa 1.830 EGP (35 $) dal 1° novembre 2026, prima 1.570 EGP. Ingresso a fascia oraria, da prenotare online.
-- **Altopiano di Giza:** circa 700 EGP; interno della Grande Piramide circa 1.500 EGP a parte.
-- **Saqqara:** circa 450-600 EGP; **Dahshur:** intorno ai 150-200 EGP.
-- **Karnak:** circa 600 EGP; **tempio di Luxor:** circa 500 EGP.
-- **Valle dei Re:** circa 750 EGP con tre tombe; **Tutankhamon** circa 700 EGP; **Seti I** intorno ai 2.000 EGP.
-- **Tempio di Hatshepsut:** circa 440 EGP; **Medinet Habu** circa 300 EGP.
+I prezzi per i turisti stranieri sono aumentati più volte dal 2024 e cambiano senza molto preavviso. Le cifre qui sotto sono quelle della biglietteria online ufficiale egymonuments.com al 30 ottobre 2026 (adulto straniero; studenti metà prezzo); vanno ricontrollate prima di partire. A 60 EGP per euro, 600 EGP sono circa 10 €.
+- **Grand Egyptian Museum:** 1.830 EGP (circa 35 $) dal 1° novembre 2026, prima 1.570 EGP. Ingresso a fascia oraria, da prenotare online.
+- **Altopiano di Giza:** 700 EGP; interno della Grande Piramide circa 1.500 EGP a parte.
+- **Saqqara:** 600 EGP; **Dahshur:** 200 EGP.
+- **Karnak:** 600 EGP; **tempio di Luxor:** 500 EGP.
+- **Valle dei Re:** 750 EGP con tre tombe; **Tutankhamon** circa 700 EGP; **Seti I** circa 2.000 EGP, biglietti a parte venduti all'ingresso della valle.
+- **Tempio di Hatshepsut:** 440 EGP; **Medinet Habu** 220 EGP; **tempio di Edfu** 550 EGP.
 
 ### Come muoversi
 - **Aeroporto del Cairo-centro:** Uber o Careem dal parcheggio delle partenze, 30-60 minuti e indicativamente 300-500 EGP fino a Giza. Taxi solo a prezzo concordato o prenotato dall'hotel.
-- **Cairo-Luxor:** volo EgyptAir di un'ora, indicativamente 60-120 € se prenotato per tempo. In alternativa il treno notte con cabine letto (circa 9-10 ore, prezzi in dollari, indicativamente 100-140 $ a persona in cabina doppia con cena e colazione).
+- **Cairo-Luxor:** volo EgyptAir di un'ora, indicativamente 60-120 € se prenotato per tempo. In alternativa il treno notte con cabine letto di Abela Trains (abelatrains.com), dalle stazioni Cairo Upper Egypt (Bashtil) o Giza: circa 10-11 ore, 110-125 $ a persona in cabina doppia condivisa, 150-170 $ da soli, cena e colazione comprese.
 - **Luxor-Marsa Alam:** auto con autista privato, 4-4,5 ore, indicativamente 100-150 $ a veicolo; per Hurghada 4 ore e 70-120 $. Esistono anche i bus Go Bus per Hurghada, più economici ma meno flessibili.
 - **Dentro Luxor:** a piedi e in Uber sulla riva est, auto con autista per la giornata sulla riva ovest (25-40 $).
 - **Rientro:** volo diretto da Marsa Alam o da Hurghada verso l'Italia, oppure volo interno sul Cairo per chi ha un biglietto andata e ritorno.
@@ -61,6 +61,7 @@ Il rischio concreto non è la criminalità ma l'insistenza commerciale, che a Gi
 - **Guardiani nelle tombe:** offrono di far fare una foto vietata o di mostrare un angolo chiuso, poi chiedono la mancia, a volte minacciando la multa.
 - **Taxi senza tassametro e calessi a Luxor:** prezzo concordato prima, in sterline egiziane, per tutto il gruppo. Uber risolve il problema in città.
 - **Droni:** vietati senza autorizzazione, vengono sequestrati alla dogana all'arrivo.
+- **Strade di notte:** Viaggiare Sicuri raccomanda di non viaggiare in auto o in pullman di notte e di usare solo autisti e operatori autorizzati; chiede anche di non fotografare militari, polizia e installazioni di sicurezza e di non avvicinarsi a manifestazioni.
 
 ## Itinerario giorno per giorno
 
@@ -70,7 +71,7 @@ Il primo giorno serve solo ad arrivare. Si atterra al Cairo, si compra il visto 
 Se l'arrivo è nel pomeriggio, molti hotel di Giza hanno una terrazza con vista sull'altopiano, e la sera c'è lo spettacolo di suoni e luci alla Sfinge. Non serve altro: domani la sveglia è presto.
 
 **In pratica**
-- Visto all'arrivo: 25 $, contanti o carta
+- Visto all'arrivo: 30 $, contanti o carta
 - Uber dall'aeroporto a Giza: 45-75 minuti secondo il traffico
 - Prima SIM o eSIM: banchi Vodafone e Orange negli arrivi
 
@@ -80,8 +81,8 @@ L'altopiano apre alle 7, ed è l'ora giusta: la luce è bassa, i pullman arrivan
 Dopo pranzo si passa al **Grand Egyptian Museum**, a due chilometri. Il museo è enorme: la scalinata monumentale con le statue dei faraoni porta alle gallerie principali, e le sale di **Tutankhamon** espongono per la prima volta tutto il corredo della tomba insieme. Servono almeno tre o quattro ore. La fascia oraria va prenotata online prima di partire.
 
 **In pratica**
-- Altopiano di Giza circa 700 EGP, interno di Cheope circa 1.500 EGP
-- Grand Egyptian Museum circa 1.830 EGP, solo con prenotazione online
+- Altopiano di Giza 700 EGP, interno di Cheope circa 1.500 EGP
+- Grand Egyptian Museum 1.830 EGP (circa 35 $), solo con prenotazione online
 - Scarpe comode e cappello: sull'altopiano non c'è ombra
 
 ### Giorno 3 — Saqqara, Dahshur e la sera al Khan el-Khalili
@@ -91,7 +92,7 @@ Serve un'auto con autista per la giornata, da prenotare tramite l'hotel. Tornati
 
 **In pratica**
 - Autista per Saqqara e Dahshur: indicativamente 30-50 $ per l'auto
-- Saqqara circa 450-600 EGP, Dahshur intorno ai 150-200 EGP
+- Saqqara 600 EGP, Dahshur 200 EGP
 - Khan el-Khalili: si tratta sempre, partendo da un terzo del prezzo chiesto
 
 ### Giorno 4 — Il Cairo islamico e copto, volo per Luxor
@@ -100,9 +101,9 @@ Mattina dedicata a un altro Cairo. La **Cittadella** di Saladino con la moschea 
 Nel pomeriggio volo per **Luxor**, un'ora. Si atterra in tempo per il tempio di Luxor al tramonto, a pochi minuti a piedi dagli hotel della riva est, quando si accende l'illuminazione.
 
 **In pratica**
-- Cittadella circa 550 EGP
+- Cittadella 550 EGP
 - Volo Cairo-Luxor: indicativamente 60-120 €
-- Tempio di Luxor circa 500 EGP, aperto fino a sera
+- Tempio di Luxor 500 EGP, aperto fino a sera
 
 ### Giorno 5 — Luxor, riva ovest: Valle dei Re e tempio di Hatshepsut
 La riva ovest si fa all'alba, per il caldo e per la folla. Si comincia dalla **Valle dei Re**: il biglietto base include tre tombe a scelta tra quelle aperte quel giorno, la tomba di **Tutankhamon** è piccola ma si paga a parte, quella di **Seti I** è la più grande e decorata e costa molto di più. Una guida locale abilitata aiuta a scegliere le tombe aperte e meno affollate.
@@ -111,8 +112,8 @@ Poi il **tempio di Hatshepsut** a Deir el-Bahari, sulle terrazze ai piedi della 
 
 **In pratica**
 - Auto con autista per la riva ovest: 25-40 $
-- Valle dei Re circa 750 EGP (3 tombe), Tutankhamon circa 700, Seti I intorno ai 2.000
-- Hatshepsut circa 440 EGP, Medinet Habu circa 300 EGP
+- Valle dei Re 750 EGP (3 tombe), Tutankhamon circa 700, Seti I circa 2.000
+- Hatshepsut 440 EGP, Medinet Habu 220 EGP
 
 ### Giorno 6 — Mongolfiera all'alba, Karnak e il tempio di Luxor
 La sveglia è alle 4 per la **mongolfiera**: il volo parte dalla riva ovest al sorgere del sole e dura 40-60 minuti sopra templi, campi di canna da zucchero e villaggi. Si prenota con una compagnia seria e non sul prezzo più basso; con vento forte i voli vengono annullati e rimborsati.
@@ -121,7 +122,7 @@ Rientrati in hotel, si va a **Karnak**, il complesso religioso più grande dell'
 
 **In pratica**
 - Mongolfiera: indicativamente 50-100 $ a persona, transfer compreso
-- Karnak circa 600 EGP
+- Karnak 600 EGP
 - Feluca al tramonto: prezzo a barca, da concordare prima
 
 ### Giorno 7 — Da Luxor al Mar Rosso
@@ -131,7 +132,7 @@ Il resto della giornata è in spiaggia. Dopo sei giorni di siti e sveglie presto
 
 **In pratica**
 - Auto privata Luxor-Marsa Alam: indicativamente 100-150 $ a veicolo
-- Tempio di Edfu: circa 450-550 EGP
+- Tempio di Edfu: 550 EGP
 - Lungo la strada ci sono posti di blocco: passaporto a portata di mano
 
 ### Giorno 8 — Mare: la barriera corallina dalla riva
@@ -183,8 +184,8 @@ Transfer all'aeroporto di **Marsa Alam** (o di Hurghada) e volo diretto per l'It
 
 ## Budget indicativo
 Prezzi a persona, in fascia media, per 11 giorni, esclusi i voli internazionali (indicativi, ottobre 2026):
-- **Visto:** 25 $.
-- **Biglietti dei siti:** 150-220 € con GEM, Giza, Saqqara, Dahshur, Valle dei Re con Tutankhamon, Karnak, tempio di Luxor, Hatshepsut ed Edfu; 40-50 € in più con Seti I e l'interno di Cheope.
+- **Visto:** 30 $.
+- **Biglietti dei siti:** 120-160 € con GEM, Giza, Saqqara, Dahshur, Valle dei Re con Tutankhamon, Karnak, tempio di Luxor, Hatshepsut ed Edfu; 55-60 € in più con Seti I e l'interno di Cheope.
 - **Volo interno Cairo-Luxor:** 60-120 €.
 - **Trasferimenti e autisti:** 60-100 € a testa in due persone (Saqqara-Dahshur, riva ovest, Luxor-mare).
 - **Alloggi:** 50-90 € a notte a camera al Cairo e a Luxor, 70-130 € all-inclusive al mare.
@@ -203,7 +204,7 @@ Ordine di grandezza: **1.100-1.700 € a persona** in due, voli esclusi; i pacch
 ## Consigli pratici / errori da non ripetere
 - **Prenotare il Grand Egyptian Museum online prima di partire:** gli ingressi sono a fascia oraria.
 - **Fare i siti all'apertura**, anche d'inverno: a mezzogiorno arrivano i gruppi e la luce è piatta.
-- **Comprare l'e-visa solo sul portale ufficiale** visa2egypt.gov.eg, o pagare i 25 $ allo sportello all'arrivo.
+- **Comprare l'e-visa solo sul portale ufficiale** visa2egypt.gov.eg, o pagare i 30 $ allo sportello all'arrivo.
 - **Dire subito no alle visite ai negozi** quando si prenota un autista o una guida.
 - **Concordare ogni prezzo prima** (cammelli, calessi, feluche, taxi), chiarendo valuta, durata e se è a persona o a barca.
 - **Tenere banconote piccole** per mance e bagni: il resto spesso «non c'è».
@@ -221,7 +222,8 @@ Guida costruita su ricerca documentale: scheda Viaggiare Sicuri, portale ufficia
 ## Materiale grezzo (appunti, non ancora editato)
 **Note di redazione:**
 - Ricordi personali da aggiungere dal diario.
-- Prezzi di Saqqara, Dahshur, Abu Dabbab e Seti I con fonti discordanti: da riverificare su egymonuments.gov.eg prima della pubblicazione.
+- Prezzi verificati il 30/10/2026: biglietti dei siti sulla biglietteria online ufficiale egymonuments.com (Giza 700, Saqqara 600, Dahshur 200, Valle dei Re 750, Karnak 600, Luxor 500, Hatshepsut 440, Medinet Habu 220, Edfu 550, Cittadella 550 EGP); GEM 1.830 EGP dal 1/11/2026 (Egypt Independent, Egypt Today); visto all'arrivo 30 $ dal 1/3/2026 (VisasNews); treno notte Abela Trains (seat61.com); documenti e sicurezza dalla scheda Viaggiare Sicuri del 21/07/2026.
+- Ancora aperti: Seti I (2.000 EGP), Tutankhamon (700 EGP) e interno di Cheope (1.500 EGP) non compaiono sulla biglietteria online, cifre da guide 2026 concordi; e-visa singolo 25 o 30 $ (fonti discordanti, portale ufficiale non raggiungibile); Viaggiare Sicuri riporta ancora il visto a 25 $; ingresso ad Abu Dabbab per i non ospiti senza fonte ufficiale, resta indicativo.
 - Foto dei giorni da recuperare (campo immagine vuoto nell'overlay).
 
 ## Tag

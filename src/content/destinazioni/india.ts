@@ -57,6 +57,7 @@ export const destinazioniIndia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-10-giorni', 'india-rajasthan-varanasi', 'india-sud-taj-mahal'],
     imageAlt: 'La Tomba di Humayun a Delhi, in arenaria rossa e marmo bianco, al centro dei giardini moghul',
+    immagine: '/images/india/delhi.jpg',
   },
   {
     slug: 'agra',
@@ -97,6 +98,7 @@ export const destinazioniIndia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-10-giorni', 'india-rajasthan-varanasi', 'india-sud-taj-mahal'],
     imageAlt: 'Il Taj Mahal all\'alba riflesso nella vasca centrale dei giardini',
+    immagine: '/images/india/agra.jpg',
   },
   {
     slug: 'jaipur',
@@ -138,6 +140,7 @@ export const destinazioniIndia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-10-giorni', 'india-rajasthan-varanasi'],
     imageAlt: 'La facciata rosa a nido d\'ape dell\'Hawa Mahal a Jaipur',
+    immagine: '/images/viaggi/india-rajasthan-10-giorni/giorno-06-jaipur.jpg',
   },
   {
     slug: 'pushkar',
@@ -164,7 +167,8 @@ export const destinazioniIndia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-varanasi'],
-    imageAlt: 'I ghat bianchi intorno al lago sacro di Pushkar al tramonto',
+    imageAlt: 'I ghat e le case bianche affacciati sul lago sacro di Pushkar, riflessi nell\'acqua nella luce del pomeriggio',
+    immagine: '/images/viaggi/india-rajasthan-varanasi/giorno-10-pushkar.jpg',
   },
   {
     slug: 'jodhpur',
@@ -195,7 +199,8 @@ export const destinazioniIndia: Destinazione[] = [
     erroriDaEvitare: ['Arrivare con trolley pesanti nei vicoli a scalinata', 'Visitare il forte nelle ore centrali'],
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-10-giorni', 'india-rajasthan-varanasi'],
-    imageAlt: 'Le case blu della città vecchia di Jodhpur sotto le mura del Forte di Mehrangarh',
+    imageAlt: 'Il Forte di Mehrangarh sulla sua rupe sopra la città vecchia di Jodhpur',
+    immagine: '/images/viaggi/india-rajasthan-varanasi/giorno-11-jodhpur.jpg',
   },
   {
     slug: 'jaisalmer',
@@ -222,7 +227,8 @@ export const destinazioniIndia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-varanasi'],
-    imageAlt: 'Le mura dorate del Forte di Jaisalmer al tramonto nel deserto del Thar',
+    imageAlt: 'Le mura e i bastioni in arenaria dorata del Forte di Jaisalmer',
+    immagine: '/images/viaggi/india-rajasthan-varanasi/giorno-13-jaisalmer.jpg',
   },
   {
     slug: 'udaipur',
@@ -254,6 +260,7 @@ export const destinazioniIndia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-10-giorni', 'india-rajasthan-varanasi'],
     imageAlt: 'Il City Palace di Udaipur sulla riva del lago Pichola',
+    immagine: '/images/viaggi/india-rajasthan-10-giorni/giorno-10-udaipur.jpg',
   },
   {
     slug: 'varanasi',
@@ -299,7 +306,8 @@ export const destinazioniIndia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-varanasi'],
-    imageAlt: 'Le barche a remi davanti ai ghat di Varanasi all\'alba, con i pellegrini che scendono verso il Gange',
+    imageAlt: 'Le barche sul Gange davanti ai ghat di Varanasi nella luce del mattino',
+    immagine: '/images/viaggi/india-rajasthan-varanasi/giorno-03-varanasi.jpg',
   },
 
   // --- SUD ---
@@ -354,6 +362,7 @@ export const destinazioniIndia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
     imageAlt: 'Lo Shore Temple di Mamallapuram sulla spiaggia, in granito eroso dal vento',
+    immagine: '/images/india/mamallapuram.jpg',
   },
   {
     slug: 'madurai',
@@ -386,6 +395,7 @@ export const destinazioniIndia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
     imageAlt: 'Una delle torri dipinte del tempio di Meenakshi a Madurai, coperta di statue colorate',
+    immagine: '/images/viaggi/india-sud-taj-mahal/giorno-05-madurai.jpg',
   },
   {
     slug: 'munnar',
@@ -416,6 +426,7 @@ export const destinazioniIndia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
     imageAlt: 'Le colline di Munnar coperte di piantagioni di tè, con file ordinate di cespugli verdi',
+    immagine: '/images/india/munnar.jpg',
   },
   {
     slug: 'backwaters-alleppey',
@@ -445,6 +456,7 @@ export const destinazioniIndia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
     imageAlt: 'Una houseboat di legno e bambù su un canale delle backwaters del Kerala tra le palme da cocco',
+    immagine: '/images/viaggi/india-sud-taj-mahal/giorno-09-backwaters-alleppey.jpg',
   },
   {
     slug: 'fort-kochi',
@@ -479,6 +491,7 @@ export const destinazioniIndia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
     imageAlt: 'Le reti da pesca cinesi sul lungomare di Fort Kochi al tramonto',
+    immagine: '/images/india/fort-kochi.jpg',
   },
   {
     slug: 'hampi',
@@ -510,5 +523,6 @@ export const destinazioniIndia: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
     imageAlt: 'Il carro di pietra del tempio di Vittala a Hampi, tra colonne scolpite e massi di granito',
+    immagine: '/images/india/hampi.jpg',
   },
 ]

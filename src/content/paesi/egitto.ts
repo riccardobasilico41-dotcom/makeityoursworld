@@ -47,6 +47,7 @@ export const egitto: Paese = {
     aggiornatoAl: 'ottobre 2026',
   },
   stileViaggio: ['archeologia', 'mare', 'immersioni', 'deserto', 'crociera sul Nilo'],
-  heroImageAlt: 'Le piramidi di Giza nella luce del tardo pomeriggio, con il deserto in primo piano',
+  heroImageAlt: 'Le piramidi di Giza nel deserto, viste dalla piana sabbiosa a sud',
+  heroImage: '/images/viaggi/egitto-completo/giorno-02-piramidi.jpg',
   tripPrincipaleSlug: 'egitto-completo',
 }

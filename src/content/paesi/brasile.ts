@@ -50,5 +50,6 @@ export const brasile: Paese = {
     aggiornatoAl: 'ottobre 2026',
   },
   heroImageAlt: 'Le lagune d\'acqua piovana tra le dune bianche dei Lençóis Maranhenses',
+  heroImage: '/images/copertine/brasile-itinerario.jpg',
   tripPrincipaleSlug: 'brasile-itinerario',
 }

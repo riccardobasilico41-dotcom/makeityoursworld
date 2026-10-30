@@ -21,6 +21,15 @@ const schibsted = localFont({
   display: "swap",
 });
 
+// Macchina da scrivere solo per il marchio, come il titolo del video «Runaway».
+// Su Mac e iPhone si usa American Typewriter (lo stesso del video), altrove Courier Prime.
+const courierPrime = localFont({
+  src: "./fonts/CourierPrime-700-latin.woff2",
+  variable: "--font-courier-prime",
+  weight: "700",
+  display: "swap",
+});
+
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
   title: {
@@ -56,7 +65,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
       lang="it"
-      className={`${bricolage.variable} ${schibsted.variable} h-full antialiased`}
+      className={`${bricolage.variable} ${schibsted.variable} ${courierPrime.variable} h-full antialiased`}
     >
       <body className="flex min-h-full flex-col bg-cream font-sans text-ink">
         <script

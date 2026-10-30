@@ -57,6 +57,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos', 'messico-cdmx-baja-california'],
     imageAlt: 'Il Palacio de Bellas Artes nel centro storico di Città del Messico',
+    immagine: '/images/viaggi/messico-cdmx-baja-california/giorno-01-citta-del-messico.jpg',
   },
   {
     slug: 'puebla-cholula',
@@ -93,7 +94,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos'],
-    imageAlt: 'Il Santuario de la Virgen de los Remedios sulla piramide di Cholula con il Popocatépetl alle spalle',
+    imageAlt: 'Il Santuario de la Virgen de los Remedios sulla piramide di Cholula con il vulcano innevato alle spalle',
+    immagine: '/images/viaggi/messico-dia-de-los-muertos/giorno-06-puebla-cholula.jpg',
   },
   {
     slug: 'oaxaca',
@@ -135,7 +137,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos'],
-    imageAlt: 'Tombe coperte di candele e cempasúchil nel cimitero di Xoxocotlán',
+    imageAlt: 'Un altare di cempasúchil illuminato dalle candele nella notte dei morti a Oaxaca',
+    immagine: '/images/viaggi/messico-dia-de-los-muertos/giorno-08-oaxaca.jpg',
   },
   {
     slug: 'valles-centrales-oaxaca',
@@ -174,6 +177,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos'],
     imageAlt: 'Le cascate pietrificate di Hierve el Agua sopra la valle',
+    immagine: '/images/viaggi/messico-dia-de-los-muertos/giorno-11-valles-centrales-oaxaca.jpg',
   },
   {
     slug: 'puerto-escondido',
@@ -211,7 +215,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos'],
-    imageAlt: 'La baia di Carrizalillo a Puerto Escondido',
+    imageAlt: 'La baia di Puerto Escondido vista dall\'alto tra i cactus',
+    immagine: '/images/viaggi/messico-dia-de-los-muertos/giorno-12-puerto-escondido.jpg',
   },
   {
     slug: 'patzcuaro-janitzio',
@@ -245,7 +250,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos'],
-    imageAlt: 'L\'isola di Janitzio nel lago di Pátzcuaro con il monumento a Morelos in cima',
+    imageAlt: 'L\'isola di Janitzio nel lago di Pátzcuaro con il monumento a Morelos in cima, vista dall\'alto',
+    immagine: '/images/messico/janitzio-stock.jpg',
   },
   {
     slug: 'la-paz-baja',
@@ -281,7 +287,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
-    imageAlt: 'Playa Balandra con l\'acqua bassa turchese e le colline rosse, vicino a La Paz',
+    imageAlt: 'Playa Balandra dall\'alto con l\'acqua bassa turchese, vicino a La Paz',
+    immagine: '/images/viaggi/messico-cdmx-baja-california/giorno-07-la-paz-baja.jpg',
   },
   {
     slug: 'bahia-magdalena',
@@ -311,7 +318,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
-    imageAlt: 'Una balena grigia con il suo piccolo accanto a una panga a Bahía Magdalena',
+    imageAlt: 'Una balena grigia che emerge in verticale dall\'acqua al largo della Baja California Sur',
+    immagine: '/images/viaggi/messico-cdmx-baja-california/giorno-09-bahia-magdalena.jpg',
   },
   {
     slug: 'loreto',
@@ -344,7 +352,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
-    imageAlt: 'La Misión de Nuestra Señora de Loreto in pietra nel centro del paese',
+    imageAlt: 'La Misión de Nuestra Señora de Loreto in pietra tra le palme, nel centro del paese',
+    immagine: '/images/messico/loreto-mision-stock.jpg',
   },
   {
     slug: 'todos-santos',
@@ -365,7 +374,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     erroriDaEvitare: ['Nuotare sulle spiagge aperte del Pacifico fuori da Cerritos: correnti forti'],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
-    imageAlt: 'Una via del centro coloniale di Todos Santos',
+    imageAlt: 'La lunga spiaggia oceanica di Todos Santos vista dall\'alto',
+    immagine: '/images/viaggi/messico-cdmx-baja-california/giorno-13-todos-santos.jpg',
   },
   {
     slug: 'los-cabos',
@@ -394,6 +404,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
-    imageAlt: 'El Arco di Cabo San Lucas con le barche davanti',
+    imageAlt: 'El Arco di Cabo San Lucas con una barca davanti alle rocce',
+    immagine: '/images/viaggi/messico-cdmx-baja-california/giorno-14-los-cabos.jpg',
   },
 ]

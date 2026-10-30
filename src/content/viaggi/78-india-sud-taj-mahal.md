@@ -17,10 +17,10 @@ Hampi è la tappa che si può togliere. Sta fuori dalla linea del viaggio, chied
 
 ## Scheda pratica
 - **Quando andare:** da dicembre a marzo. Il Kerala riceve il monsone di sud-ovest da giugno ad agosto, con piogge forti e mare agitato; la costa del Tamil Nadu (Chennai, Mamallapuram, Puducherry) prende il monsone di nord-est tra ottobre e dicembre, con rischio di cicloni. Hampi è gradevole da ottobre a febbraio e torrida da aprile. Ad Agra dicembre e gennaio portano nebbia all'alba.
-- **Documenti:** passaporto con 6 mesi di validità, e-Tourist Visa richiesto sul portale ufficiale indianvisaonline.gov.in (25 $ per 30 giorni, 40 $ per un anno, tariffe 2026 indicative) ed e-Arrival Card online, gratuita, nelle 72 ore prima dell'arrivo.
+- **Documenti:** passaporto con almeno 6 mesi di validità dalla data della domanda di visto e due pagine libere, e-Tourist Visa sul portale ufficiale indianvisaonline.gov.in, da chiedere almeno 4 giorni prima (25 $ per 30 giorni, 40 $ per un anno, più il 2,5-3% di commissione bancaria; tariffe invariate nel 2026) ed e-Arrival Card online, gratuita, nelle 72 ore prima dell'arrivo. Vietati all'ingresso telefoni satellitari, droni senza permesso e sigarette elettroniche.
 - **Valuta e pagamenti:** rupia indiana, circa 95-105 per un euro. Carte negli hotel e nei ristoranti di livello; contanti per houseboat (spesso anche il saldo), tuk-tuk, templi, mercati e mance.
-- **Templi:** in Tamil Nadu dal settembre 2026 i telefoni sono vietati nei grandi templi, compreso il Meenakshi di Madurai: si lasciano al deposito all'ingresso (pochi rupie). I santuari interni di molti templi sono riservati agli induisti. In Kerala in diversi templi gli uomini devono togliere la camicia, e alcuni (come il Padmanabhaswamy di Thiruvananthapuram) non ammettono i non induisti.
-- **Salute:** acqua in bottiglia, cibo cotto, repellente contro le zanzare nelle backwaters e a Hampi (dengue). Consigliate epatite A e tifo.
+- **Templi:** in 52 grandi templi del Tamil Nadu, compreso il Meenakshi di Madurai, dal 1° settembre 2026 i telefoni erano vietati; da metà ottobre 2026 si possono portare dentro purché spenti, oppure si lasciano al deposito per 5 rupie. Restano vietati foto, video e selfie. I santuari interni di molti templi sono riservati agli induisti. In Kerala in diversi templi gli uomini devono togliere la camicia, e alcuni (come il Padmanabhaswamy di Thiruvananthapuram) non ammettono i non induisti.
+- **Salute:** acqua in bottiglia, cibo cotto, repellente contro le zanzare nelle backwaters e a Hampi: malaria, dengue e chikungunya sono più diffuse al Sud e dopo i monsoni. Consigliate epatite A e B e tifo, antitetanica aggiornata.
 - **Abbigliamento:** spalle e ginocchia coperte nei templi; i dhoti e le sciarpe si comprano per pochi rupie sul posto. Sulle spiagge di villaggio niente bikini fuori dalle zone turistiche.
 - **Connettività:** SIM Airtel o Jio all'arrivo a Chennai; copertura buona, debole in alcune vallate di Munnar.
 - **Elettricità:** 230V, prese C, D e M. Adattatore universale consigliato.
@@ -50,14 +50,14 @@ Chi vuole fa un salto ad **Auroville**, la comunità internazionale fondata negl
 ### Giorno 4 — Verso Thanjavur e il tempio di Brihadeeswarar
 Giornata di strada verso l'interno, tra risaie e palme da cocco, con due soste che valgono il viaggio: il tempio di **Nataraja a Chidambaram**, dedicato a Shiva danzante, e il tempio reale di **Gangaikonda Cholapuram**, quasi sempre deserto. Arrivo a **Thanjavur** nel pomeriggio per il **Brihadeeswarar**, il Grande Tempio dei re Chola, patrimonio UNESCO, costruito intorno all'anno Mille. La torre è alta circa sessanta metri, la cupola in cima pesa decine di tonnellate, e la luce del tardo pomeriggio colora di arancione tutto il granito.
 
-**In pratica:** Puducherry-Thanjavur circa 4-5 ore con le soste · Brihadeeswarar ingresso libero, scarpe al deposito, telefoni da lasciare all'ingresso se applicato il divieto statale · il Palazzo dei Maratha e la biblioteca Saraswathi Mahal, in città, sono a pagamento.
+**In pratica:** Puducherry-Thanjavur circa 4-5 ore con le soste · Brihadeeswarar ingresso libero, scarpe al deposito, telefoni spenti o al deposito se il tempio applica la regola statale · il Palazzo dei Maratha e la biblioteca Saraswathi Mahal, in città, sono a pagamento.
 
 ### Giorno 5 — Da Thanjavur a Madurai e la cerimonia della sera al Meenakshi
 Mattina tranquilla a Thanjavur, con il **Palazzo dei Maratha** e la galleria dei bronzi Chola, tra le più belle collezioni di sculture dell'India. Poi tre ore di strada fino a **Madurai**, una delle città abitate più antiche del Sud, costruita intorno al **tempio di Meenakshi Amman**. La sera si torna al tempio per la cerimonia della notte, quando la statua di Shiva viene portata in processione nella camera della dea, tra tamburi, fiori e lampade.
 
-*Il tempio è vivo a ogni ora, e la cosa migliore da fare è stare fermi da una parte a guardare.* Si entra senza telefono, scarpe e borse grandi; per le foto dall'esterno si sale su una delle terrazze dei negozi intorno, dove i proprietari mostrano le torri e poi provano a venderti tessuti.
+*Il tempio è vivo a ogni ora, e la cosa migliore da fare è stare fermi da una parte a guardare.* Si entra senza scarpe e borse grandi, con il telefono spento o lasciato al deposito; per le foto dall'esterno si sale su una delle terrazze dei negozi intorno, dove i proprietari mostrano le torri e poi provano a venderti tessuti.
 
-**In pratica:** Thanjavur-Madurai circa 3 ore · Meenakshi aperto la mattina presto e dalla fine del pomeriggio a sera, pausa nelle ore centrali · ingresso libero, deposito telefoni a pagamento; il santuario interno è riservato agli induisti.
+**In pratica:** Thanjavur-Madurai circa 3 ore · Meenakshi aperto la mattina presto e dalla fine del pomeriggio a sera, pausa nelle ore centrali · ingresso libero, telefono spento o al deposito (5 rupie), niente foto all'interno; il santuario interno è riservato agli induisti.
 
 ### Giorno 6 — Madurai, la città del tempio
 Il **tempio di Meenakshi** si visita con calma la mattina: le quattordici torri (gopuram) coperte di migliaia di divinità dipinte, il corridoio delle mille colonne, la vasca del loto d'oro, i musicisti e gli elefanti che benedicono i fedeli. Poi il palazzo **Thirumalai Nayak**, del Seicento, con un cortile di colonne enormi, e il mercato dei fiori di **Mattuthavani**, dove arrivano all'alba tonnellate di gelsomini.
@@ -76,7 +76,7 @@ Munnar è stata il ritiro estivo degli inglesi, e oggi è un mare di piantagioni
 
 Chi vuole qualcosa di più si alza alle 4 per l'alba a **Kolukkumalai**, una delle piantagioni più alte del mondo, raggiungibile solo in jeep su una pista dissestata. *Le nuvole che riempiono le valli sotto i crinali al sorgere del sole sono la ragione per cui si sale.*
 
-**In pratica:** Eravikulam chiuso tra febbraio e marzo per la stagione delle nascite dei tahr, biglietto per gli stranieri intorno a 500 rupie · museo del tè chiuso il lunedì · jeep per Kolukkumalai prenotata tramite l'hotel.
+**In pratica:** Eravikulam chiuso dal 1° febbraio al 31 marzo circa per le nascite dei tahr (nel 2026 ha riaperto il 1° aprile), aperto dalle 8 alle 16, biglietto per gli stranieri intorno a 500 rupie, meglio prenotato online · museo del tè chiuso il lunedì · jeep per Kolukkumalai prenotata tramite l'hotel.
 
 ### Giorno 9 — Le backwaters: una notte in houseboat ad Alleppey
 Si scende in quattro-cinque ore verso la costa, fino ad **Alappuzha** (Alleppey), la porta delle **backwaters**: una rete di canali, lagune e laghi che corre parallela al mare tra risaie sotto il livello dell'acqua e villaggi su strisce di terra. Ci si imbarca a mezzogiorno su un **kettuvallam**, una houseboat di legno e bambù con cabina, bagno, cuoco ed equipaggio. Il pomeriggio è un lento scivolare tra palme, chiese, scuole e donne che lavano i panni sulle rive. La sera la barca si ancora: le houseboat non possono navigare di notte.
@@ -100,7 +100,7 @@ Il pomeriggio è libero: un corso di cucina keralese, un caffè in una delle gal
 ### Giorno 12 — Volo per Bangalore e treno notturno per Hampi
 Giornata di trasferimento verso il Karnataka. Volo da Kochi a **Bangalore** (Bengaluru), circa un'ora, e pomeriggio libero in città: il **Lalbagh**, il giardino botanico, il palazzo di Tipu Sultan, il quartiere dei caffè intorno a Church Street. In serata si prende il **treno notturno per Hosapete** (Hospet), la stazione di Hampi, con cuccetta in 2A o 3A e arrivo all'alba.
 
-**In pratica:** volo Kochi-Bangalore 3.000-6.000 rupie se prenotato presto · treno notturno Bangalore-Hosapete circa 9 ore, da prenotare su IRCTC con qualche settimana di anticipo · in alternativa volo per l'aeroporto di Vidyanagar (Jindal), a circa un'ora da Hampi, con poche frequenze.
+**In pratica:** volo Kochi-Bangalore 3.000-6.000 rupie se prenotato presto · Hampi Express (16592), da Bangalore City verso le 21:50 con arrivo a Hosapete verso le 7, circa 9 ore, ogni giorno, da prenotare su IRCTC con qualche settimana di anticipo · in alternativa volo per l'aeroporto di Vidyanagar (Jindal), a circa un'ora da Hampi, con poche frequenze.
 
 ### Giorno 13 — Hampi: il bazar, il tempio di Virupaksha e il tramonto su Matanga
 Dall'alba a Hosapete sono venti minuti di tuk-tuk fino a **Hampi**. Il paesaggio è quello di un altro pianeta: colline fatte di enormi massi di granito arrotondati, in equilibrio uno sull'altro, tra risaie, bananeti e il fiume Tungabhadra. Tra questi massi sorgeva **Vijayanagara**, la capitale di uno dei più grandi imperi dell'India, distrutta nel 1565: oggi è un sito UNESCO di oltre mille monumenti.
@@ -112,12 +112,12 @@ Il primo giorno è per il **Centro sacro**: il **tempio di Virupaksha**, ancora 
 ### Giorno 14 — Hampi: il Centro reale, il tempio di Vittala e il treno notturno
 Il **Centro reale** conserva le tracce della corte: il **recinto delle regine** con il Lotus Mahal, le **stalle degli elefanti** a cupole, la vasca a gradini, la piattaforma Mahanavami. Poi il **tempio di Vittala**, il più famoso di Hampi, con il **carro di pietra** che compare sulla banconota da 50 rupie e le colonne «musicali» che, un tempo, risuonavano quando venivano percosse. *Si arriva presto o nel tardo pomeriggio: a mezzogiorno il granito restituisce un calore difficile da reggere.*
 
-Nel pomeriggio un giro in **coracle**, le barche rotonde di vimini, sul Tungabhadra. In serata treno notturno da Hosapete a **Bangalore**.
+Nel pomeriggio un giro in **coracle**, le barche rotonde di vimini, sul Tungabhadra. In serata treno notturno da Hosapete a **Bangalore**, l'Hampi Express (16591) delle 21:10 circa.
 
 **In pratica:** il biglietto di Vittala per gli stranieri (circa 600 rupie) vale nello stesso giorno anche per il recinto delle regine e le stalle degli elefanti · coracle 300-500 rupie a persona · la traversata del fiume verso Virupapur Gaddi dipende dal livello dell'acqua.
 
 ### Giorno 15 — Da Bangalore ad Agra
-Arrivo a Bangalore al mattino e volo verso il Nord. Ci sono voli diretti per **Agra** su alcune giornate; in alternativa si vola a **Delhi** (circa 2 ore e mezza) e si prende un treno veloce del pomeriggio per Agra, un'ora e quaranta minuti. Il cambio di clima è netto: da dicembre a febbraio ad Agra la sera fa freddo. Al tramonto, se si arriva in tempo, il giardino di **Mehtab Bagh** sulla riva opposta della Yamuna mostra il Taj Mahal di fronte, con la luce della sera.
+Arrivo a Bangalore al mattino e volo verso il Nord. IndiGo vola diretto ad **Agra** cinque-otto volte a settimana, in circa 2 ore e 40 minuti; negli altri giorni si vola a **Delhi** (circa 2 ore e mezza) e si prende un treno veloce del pomeriggio per Agra, un'ora e quaranta minuti. Il cambio di clima è netto: da dicembre a febbraio ad Agra la sera fa freddo. Al tramonto, se si arriva in tempo, il giardino di **Mehtab Bagh** sulla riva opposta della Yamuna mostra il Taj Mahal di fronte, con la luce della sera.
 
 **In pratica:** volo Bangalore-Delhi 4.000-8.000 rupie se prenotato presto · treno Delhi-Agra (Gatimaan Express o Vande Bharat) 800-1.600 rupie · dormire a Taj Ganj, vicino all'ingresso est · controllare che domani non sia venerdì, giorno di chiusura del Taj.
 
@@ -151,8 +151,8 @@ L'ultimo giorno dipende dall'orario del volo. Con qualche ora a disposizione si 
 
 ## Come muoversi
 - **Auto con autista in Tamil Nadu e Kerala:** è la scelta più comoda per la parte Chennai-Madurai-Munnar-Alleppey-Kochi, con tante tappe intermedie e pochi treni comodi. Indicativamente 3.000-4.500 rupie al giorno, pedaggi, parcheggi, permessi interstatali (il passaggio dal Tamil Nadu al Kerala ha una tassa per i veicoli turistici) e vitto dell'autista da chiarire nel contratto.
-- **Voli interni:** Kochi-Bangalore (circa 1 ora) e Bangalore-Delhi (circa 2 ore e mezza) o Bangalore-Agra, con IndiGo e Air India; 3.000-8.000 rupie se prenotati presto.
-- **Treni:** il notturno Bangalore-Hosapete e ritorno (circa 9 ore, 2A o 3A) e il treno veloce Delhi-Agra (Gatimaan Express o Vande Bharat). Prenotazioni su irctc.co.in con account per stranieri.
+- **Voli interni:** Kochi-Bangalore (circa 1 ora) e Bangalore-Delhi (circa 2 ore e mezza) con IndiGo e Air India, o Bangalore-Agra diretto con IndiGo (5-8 voli a settimana); 3.000-8.000 rupie se prenotati presto.
+- **Treni:** il notturno Bangalore-Hosapete e ritorno, l'Hampi Express (16592 all'andata, 16591 al ritorno, circa 9 ore, 2A o 3A, ogni giorno), e il treno veloce Delhi-Agra (Gatimaan Express o Vande Bharat). Prenotazioni su irctc.co.in con account per stranieri.
 - **A Hampi:** motorino o bicicletta a noleggio, o tuk-tuk a giornata (1.200-1.800 rupie). Le distanze tra i gruppi di monumenti sono di qualche chilometro.
 - **In città:** Uber e Ola a Chennai, Bangalore, Kochi e Delhi; tuk-tuk ovunque con prezzo fissato prima.
 
@@ -160,7 +160,7 @@ L'ultimo giorno dipende dall'orario del volo. Con qualche ora a disposizione si 
 - **Ottobre-novembre:** monsone di nord-est sulla costa del Tamil Nadu, con piogge forti e rischio di cicloni; il Kerala è verde e in genere asciutto da metà ottobre.
 - **Dicembre:** inizia l'alta stagione al Sud. Prezzi alti tra Natale e Capodanno, houseboat da prenotare presto.
 - **Gennaio:** il mese migliore insieme a febbraio. Pongal, la festa del raccolto in Tamil Nadu, intorno al 14-17 gennaio. Nebbia all'alba ad Agra.
-- **Febbraio:** clima ideale, ma a Munnar il parco di Eravikulam chiude per le nascite dei tahr (indicativamente febbraio-marzo).
+- **Febbraio:** clima ideale, ma a Munnar il parco di Eravikulam chiude per le nascite dei tahr (dal 1° febbraio, riapre il 1° aprile).
 - **Marzo:** caldo in aumento a Madurai e Hampi (35 °C e più), ancora buono in Kerala e a Munnar. Fine della stagione della Biennale di Kochi negli anni in cui si tiene.
 - **Aprile-maggio:** caldo pesante in pianura (Hampi supera i 40 °C), Munnar resta fresca. Pre-monsone in Kerala.
 - **Giugno-settembre:** monsone di sud-ovest in Kerala, con piogge intense e mare chiuso; paesaggi verdissimi e prezzi bassi per chi accetta la pioggia. Onam, la grande festa del Kerala, cade tra agosto e settembre.
@@ -191,8 +191,8 @@ Prezzi a persona in camera doppia, voli intercontinentali esclusi (Italia-Chenna
 
 ## Consigli pratici / errori da non ripetere
 - **Prenotare l'houseboat con anticipo** per dicembre-gennaio, e scegliere una barca con una sola camera per la tranquillità.
-- **Lasciare il telefono in hotel o al deposito** nei grandi templi del Tamil Nadu: il divieto è applicato.
-- **Controllare i giorni di chiusura:** Taj Mahal il venerdì, Palazzo olandese e sinagoga di Kochi il venerdì, la sinagoga anche il sabato, museo del tè di Munnar il lunedì, Eravikulam chiuso a febbraio-marzo.
+- **Tenere il telefono spento o lasciarlo al deposito** nei grandi templi del Tamil Nadu: foto e video all'interno sono vietati e la regola è applicata.
+- **Controllare i giorni di chiusura:** Taj Mahal il venerdì, Palazzo olandese e sinagoga di Kochi il venerdì, la sinagoga anche il sabato, museo del tè di Munnar il lunedì, Eravikulam chiuso dal 1° febbraio al 31 marzo.
 - **Visitare Hampi all'alba e al tramonto**, non a mezzogiorno.
 - **Tenere margine nei voli:** nessun volo intercontinentale il giorno di un volo interno senza almeno 4-5 ore di margine.
 - **Prevedere vestiti per tre climi:** caldo umido sulla costa, fresco a Munnar, freddo la mattina ad Agra in inverno.
@@ -206,7 +206,7 @@ L'India del Sud si ricorda per il colore. Il verde delle risaie e delle colline 
 Itinerario e informazioni pratiche costruiti con ricerca documentale (portali ufficiali del visto e delle ferrovie indiane, siti dei monumenti, enti del turismo di Kerala e Tamil Nadu, Viaggiare Sicuri, guide e blog recenti), aggiornati a ottobre 2026. Orari dei treni, prezzi di houseboat, ingressi e alloggi cambiano spesso e sono indicativi: vanno riverificati prima di partire. Nessuna esperienza personale compare nel testo: apertura e chiusura sono scritte in voce di guida, in attesa dei ricordi dell'autore.
 
 ## Materiale grezzo (appunti, non ancora editato)
-**Note di redazione (ottobre 2026):** Ricordi personali da aggiungere dal diario. Da integrare: alloggi usati e prezzi pagati, operatore della houseboat, autista o agenzia per il Sud. Da verificare: prezzo stranieri di Vittala (le fonti 2026 indicano 500 o 600 rupie) e di Eravikulam; esistenza e frequenza dei voli diretti Bangalore-Agra nella stagione del viaggio; nome e orari del notturno Bangalore-Hosapete (noto come Hampi Express); applicazione concreta del divieto di telefoni nei templi del Tamil Nadu introdotto a settembre 2026. Foto dei giorni da recuperare.
+**Note di redazione (ottobre 2026):** Prezzi verificati il 30/10/2026. Ricordi personali da aggiungere dal diario. Da integrare: alloggi usati e prezzi pagati, operatore della houseboat, autista o agenzia per il Sud. Ancora aperti: biglietto stranieri di Eravikulam (500 rupie è il dato 2025, nessun listino 2026 trovato); elenco ufficiale dei 52 templi del Tamil Nadu soggetti alla regola sui telefoni (non chiaro se ci sia il Brihadeeswarar di Thanjavur, che è anche sito ASI); orari dell'Hampi Express da ricontrollare su NTES vicino alla partenza (le fonti non concordano al quarto d'ora). Risolti: Vittala 600 rupie per gli stranieri (guide 2026; il 500 è il vecchio prezzo); voli diretti Bangalore-Agra esistono, solo IndiGo; il notturno è l'Hampi Express 16591/16592; divieto telefoni nei templi entrato in vigore il 1° settembre 2026 e attenuato a metà ottobre (telefono spento ammesso). Foto dei giorni da recuperare.
 
 ## Tag
 `#india` `#indiadelsud` `#tamilnadu` `#kerala` `#karnataka` `#mamallapuram` `#puducherry` `#madurai` `#munnar` `#backwaters` `#fortkochi` `#hampi` `#tajmahal` `#asia`

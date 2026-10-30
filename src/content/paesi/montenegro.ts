@@ -47,6 +47,7 @@ export const montenegro: Paese = {
     aggiornatoAl: 'ottobre 2026',
   },
   stileViaggio: ['roadtrip', 'mare', 'montagna', 'trekking'],
-  heroImageAlt: 'Le Bocche di Cattaro viste dall\'alto della fortezza di San Giovanni, con i tetti di Kotor e le montagne che scendono sull\'acqua',
+  heroImageAlt: 'Il faro e la chiesa della Madonna dello Scarpello sull\'isolotto davanti a Perast, nelle Bocche di Cattaro',
+  heroImage: '/images/copertine/montenegro-itinerario.jpg',
   tripPrincipaleSlug: 'montenegro-itinerario',
 }

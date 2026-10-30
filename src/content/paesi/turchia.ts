@@ -43,6 +43,7 @@ export const turchia: Paese = {
     aggiornatoAl: 'ottobre 2026',
   },
   stileViaggio: ['città', 'cultura', 'archeologia', 'mare', 'road trip'],
-  heroImageAlt: 'Mongolfiere sopra i camini delle fate della Cappadocia all\'alba',
+  heroImageAlt: 'Le valli di tufo della Cappadocia viste dall\'alto da una mongolfiera',
+  heroImage: '/images/copertine/turchia-itinerario.jpg',
   tripPrincipaleSlug: 'turchia-itinerario',
 }

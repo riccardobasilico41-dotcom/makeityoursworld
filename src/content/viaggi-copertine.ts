@@ -282,4 +282,60 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     immagine: '/images/copertine/canarie-itinerario.jpg',
     imageAlt: 'I Roques de García e il vulcano Teide sullo sfondo, nel Parco Nazionale del Teide a Tenerife',
   },
+  'india-rajasthan-10-giorni': {
+    immagine: '/images/copertine/india-rajasthan-10-giorni.jpg',
+    imageAlt: 'La facciata rosa a nido d\'ape dell\'Hawa Mahal di Jaipur, con le sue centinaia di finestrelle contro il cielo',
+  },
+  'india-rajasthan-varanasi': {
+    immagine: '/images/copertine/india-rajasthan-varanasi.jpg',
+    imageAlt: 'I ghat di Varanasi al crepuscolo, con le luci dei palazzi accese e le barche sul Gange',
+  },
+  'india-sud-taj-mahal': {
+    immagine: '/images/copertine/india-sud-taj-mahal.jpg',
+    imageAlt: 'Una houseboat di legno e paglia intrecciata sulle backwaters del Kerala, tra le palme da cocco',
+  },
+  'maldive-guida': {
+    immagine: '/images/copertine/maldive-guida.jpg',
+    imageAlt: 'Una fila di isole coralline delle Maldive viste dall\'alto, circondate dalle lagune nel blu dell\'oceano',
+  },
+  'messico-dia-de-los-muertos': {
+    immagine: '/images/copertine/messico-dia-de-los-muertos.jpg',
+    imageAlt: 'Un altare del Día de Muertos con cempasúchil, papel picado, candele e fotografie dei defunti',
+  },
+  'messico-cdmx-baja-california': {
+    immagine: '/images/copertine/messico-cdmx-baja-california.jpg',
+    imageAlt: 'La baia di Balandra vicino a La Paz vista dalla collina, con le montagne del deserto e l\'acqua bassa del Mar di Cortés',
+  },
+  'brasile-itinerario': {
+    immagine: '/images/copertine/brasile-itinerario.jpg',
+    imageAlt: 'Le dune bianche e le lagune turchesi dei Lençóis Maranhenses',
+  },
+  'croazia-itinerario': {
+    immagine: '/images/copertine/croazia-itinerario.jpg',
+    imageAlt: 'La città vecchia di Dubrovnik vista dall\'alto, con le mura, il porto e i tetti rossi sul mare',
+  },
+  'egitto-mare-luxor-cairo': {
+    immagine: '/images/copertine/egitto-mare-luxor-cairo.jpg',
+    imageAlt: 'Una mongolfiera sopra la Valle dei Re all\'alba, sulla riva ovest di Luxor',
+  },
+  'egitto-completo': {
+    immagine: '/images/copertine/egitto-completo.jpg',
+    imageAlt: 'Le statue osiriache di Ramses II nella sala interna del tempio grande di Abu Simbel',
+  },
+  'turchia-itinerario': {
+    immagine: '/images/copertine/turchia-itinerario.jpg',
+    imageAlt: 'Le valli di tufo della Cappadocia viste dall\'alto da una mongolfiera',
+  },
+  'filippine-itinerario': {
+    immagine: '/images/copertine/filippine-itinerario.jpg',
+    imageAlt: 'Isole calcaree e acqua turchese nell\'arcipelago delle Calamian, attorno a Coron',
+  },
+  'california-road-trip': {
+    immagine: '/images/copertine/california-road-trip.jpg',
+    imageAlt: 'La Highway 1 che scende verso il ponte di Bixby Creek lungo la costa di Big Sur',
+  },
+  'montenegro-itinerario': {
+    immagine: '/images/copertine/montenegro-itinerario.jpg',
+    imageAlt: 'Il faro e la chiesa della Madonna dello Scarpello sull\'isolotto davanti a Perast, nelle Bocche di Cattaro',
+  },
 }

@@ -43,7 +43,8 @@ export const destinazioniBrasile: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
-    imageAlt: 'Il Cristo Redentor sul Corcovado sopra la baia di Rio de Janeiro',
+    imageAlt: 'Il Cristo Redentor sul Corcovado sopra la baia di Rio de Janeiro, con il Pão de Açúcar',
+    immagine: '/images/viaggi/brasile-itinerario/giorno-02-rio-de-janeiro.jpg',
   },
   {
     slug: 'costa-verde',
@@ -77,7 +78,8 @@ export const destinazioniBrasile: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
-    imageAlt: 'La spiaggia di Lopes Mendes a Ilha Grande',
+    imageAlt: 'Le case coloniali bianche dalle porte colorate nel centro storico di Paraty',
+    immagine: '/images/viaggi/brasile-itinerario/giorno-05-costa-verde.jpg',
   },
   {
     slug: 'foz-do-iguacu',
@@ -108,7 +110,8 @@ export const destinazioniBrasile: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
-    imageAlt: 'Il fronte delle cascate di Iguazú dalla passerella brasiliana',
+    imageAlt: 'Le passerelle del lato brasiliano davanti alle cascate di Iguazú',
+    immagine: '/images/viaggi/brasile-itinerario/giorno-10-foz-do-iguacu.jpg',
   },
   {
     slug: 'salvador-de-bahia',
@@ -143,7 +146,8 @@ export const destinazioniBrasile: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
-    imageAlt: 'Le case coloniali color pastello del Pelourinho a Salvador',
+    imageAlt: 'La piazza in salita del Pelourinho a Salvador con le case coloniali e la chiesa del Rosário dos Pretos',
+    immagine: '/images/viaggi/brasile-itinerario/giorno-13-salvador-de-bahia.jpg',
   },
   {
     slug: 'chapada-diamantina',
@@ -171,7 +175,8 @@ export const destinazioniBrasile: Destinazione[] = [
     erroriDaEvitare: ['Fare i sentieri lunghi senza guida', 'Sottovalutare la salita iniziale della Fumaça'],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
-    imageAlt: 'Le mesas della Chapada Diamantina viste dal Morro do Pai Inácio',
+    imageAlt: 'Le mesas della Chapada Diamantina viste dall\'alto',
+    immagine: '/images/viaggi/brasile-itinerario/giorno-16-chapada-diamantina.jpg',
   },
   {
     slug: 'lencois-maranhenses',
@@ -203,6 +208,7 @@ export const destinazioniBrasile: Destinazione[] = [
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
     imageAlt: 'Lagune turchesi tra le dune bianche dei Lençóis Maranhenses',
+    immagine: '/images/viaggi/brasile-itinerario/giorno-19-lencois-maranhenses.jpg',
   },
   {
     slug: 'pantanal',
@@ -229,7 +235,8 @@ export const destinazioniBrasile: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
-    imageAlt: 'Un giaguaro sulla riva di un fiume nel Pantanal nord',
+    imageAlt: 'Un giaguaro nascosto tra la vegetazione sulla riva del fiume a Porto Jofre, nel Pantanal nord',
+    immagine: '/images/brasile/pantanal-stock.jpg',
   },
   {
     slug: 'amazzonia-manaus',
@@ -264,6 +271,7 @@ export const destinazioniBrasile: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
-    imageAlt: 'L\'Incontro delle Acque tra il Rio Negro scuro e il Solimões color fango vicino a Manaus',
+    imageAlt: 'Barche fluviali ormeggiate sul Rio Negro a Manaus',
+    immagine: '/images/brasile/manaus-stock.jpg',
   },
 ]

@@ -15,12 +15,12 @@ Questo itinerario tiene insieme le due anime del paese. La costa, con le **Bocch
 
 ## Scheda pratica
 - **Quando andare:** da fine maggio a fine giugno e a settembre, con mare già caldo, montagna aperta e meno folla. Luglio e agosto sono i mesi del caldo (oltre 35 °C sulla costa e a Podgorica), del traffico sulla strada costiera, delle code alle frontiere e delle navi da crociera a Kotor. Il Durmitor è innevato da novembre ad aprile e diventa una meta da sci.
-- **Documenti:** il Montenegro non fa parte dell'Unione europea né dell'area Schengen, ma per i cittadini italiani basta la **carta d'identità valida per l'espatrio** o il passaporto, per soggiorni turistici fino a 90 giorni. Alle frontiere con la Croazia, che è Schengen, si passa il controllo biometrico europeo EES. Controllare la scheda Montenegro di Viaggiare Sicuri prima di partire.
+- **Documenti:** il Montenegro non fa parte dell'Unione europea né dell'area Schengen, ma per i cittadini italiani basta il **passaporto**, per soggiorni turistici fino a 90 giorni, o la **carta d'identità elettronica valida per l'espatrio**, che però vale solo fino a 30 giorni. Viaggiare Sicuri segnala problemi in frontiera con le carte cartacee rinnovate con il timbro e con le elettroniche prorogate con un certificato del Comune: meglio il passaporto. Alle frontiere con la Croazia, che è Schengen, si passa il controllo biometrico europeo EES. Controllare la scheda Montenegro di Viaggiare Sicuri prima di partire.
 - **Valuta:** si usa l'**euro**, adottato unilateralmente: niente cambio e niente commissioni sui prelievi in euro (alcuni ATM locali applicano comunque una tariffa).
 - **Pagamenti:** carte accettate in hotel, ristoranti e supermercati delle città; contanti per i parcheggi, le mura di Kotor, le barche di Perast, i parchi nazionali e le konobe di montagna.
-- **Tassa di soggiorno:** circa 1-1,5 € a persona a notte, aggiunta dalla struttura, che registra anche gli ospiti presso le autorità. Chi dorme da privati senza registrazione può avere problemi ai controlli.
+- **Tassa di soggiorno:** circa 1 € a persona a notte, con importi che cambiano da comune a comune; i bambini fino a 12 anni non pagano, dai 12 ai 18 anni si paga metà. La aggiunge la struttura, che registra anche gli ospiti presso le autorità. Chi dorme da privati senza registrazione può avere problemi ai controlli.
 - **Connettività:** il Montenegro non è nell'Unione europea, quindi il roaming «come a casa» **non vale**: con molti operatori italiani i dati costano molto. SIM turistiche One, Crnogorski Telekom e m:tel nei chioschi e in aeroporto, o eSIM.
-- **Salute:** tessera sanitaria europea non valida; esiste una convenzione bilaterale con l'Italia, ma un'assicurazione di viaggio è consigliata. Zecche nei prati del Durmitor e del Lovćen.
+- **Salute:** tessera sanitaria europea non valida. Viaggiare Sicuri raccomanda una polizza con spese mediche e rimpatrio sanitario: le strutture pubbliche sono povere di attrezzature e le prestazioni si pagano spesso in contanti. Chi prende farmaci abituali se li porta da casa. Acqua del rubinetto in genere potabile. Zecche nei prati del Durmitor e del Lovćen.
 - **Elettricità:** 230V, prese di tipo C e F, come in Italia.
 - **Fuso orario:** lo stesso dell'Italia, con l'ora legale.
 - **Lingua:** montenegrino (molto vicino a serbo, croato e bosniaco), scritto in alfabeto latino e cirillico. L'inglese si parla nel turismo; l'italiano capita spesso sulla costa.
@@ -51,7 +51,7 @@ La strada che sale da Kotor verso il **Lovćen** è una delle più spettacolari 
 
 Si scende a **Cetinje**, la vecchia capitale reale, una cittadina tranquilla di ambasciate dell'Ottocento trasformate in musei, il palazzo del re Nicola e il monastero di Cetinje, ancora attivo. Si dorme qui o si scende verso la costa.
 
-**In pratica:** strada delle serpentine stretta, con incroci difficili con bus e camper: guidare con calma e suonare nelle curve cieche · ingresso al parco nazionale e al mausoleo pochi euro ciascuno · Kotor-Njeguši circa 1 ora, Njeguši-Cetinje mezz'ora.
+**In pratica:** strada delle serpentine stretta, con incroci difficili con bus e camper: guidare con calma e suonare nelle curve cieche · ingresso al parco nazionale 3 €, mausoleo circa 8 € a parte · Kotor-Njeguši circa 1 ora, Njeguši-Cetinje mezz'ora.
 
 ### Giorno 5 — Budva, la costa e Sveti Stefan
 Da Cetinje si scende in quaranta minuti a **Budva**, la capitale balneare del paese. La città vecchia, su una penisola fortificata, è piccola e piacevole al mattino; il resto della città è un lungomare di grandi hotel, discoteche e spiagge affollate. La parte più bella della costa è più a sud: **Sveti Stefan**, l'isolotto-villaggio di pescatori trasformato in resort, si guarda dal belvedere sulla strada o dalla spiaggia pubblica accanto. Il pomeriggio è per il mare in una delle baie tra Budva e Petrovac, come **Drobni pijesak** o la spiaggia di Petrovac con il suo lungomare tranquillo.
@@ -106,15 +106,15 @@ L'ultimo giorno è di rientro. **Podgorica** è una capitale giovane e poco monu
 - **Ovunque:** burek al mattino, ćevapi, pljeskavica e la rakija offerta a fine pasto. Le porzioni sono enormi: si ordina meno del solito.
 
 ## Come muoversi
-- **Auto a noleggio:** la soluzione migliore. Si ritira a Tivat o Podgorica, indicativamente 30-60 € al giorno in estate, meno in bassa stagione. Per uscire dal paese (Croazia, Bosnia, Albania) serve l'autorizzazione scritta del noleggiatore e la **carta verde**, con un supplemento di 40-100 € a noleggio secondo la compagnia. Alcuni noleggiatori locali non permettono l'Albania.
-- **Regole di guida:** fari accesi anche di giorno tutto l'anno, limite di alcol 0,3 g/l, cintura obbligatoria, telefono vietato alla guida. Limiti di velocità bassi e controlli frequenti, con multe da pagare sul posto o in banca.
+- **Auto a noleggio:** la soluzione migliore. Si ritira a Tivat o Podgorica, indicativamente 30-60 € al giorno in estate, meno in bassa stagione. Per uscire dal paese (Croazia, Bosnia, Albania) serve l'autorizzazione scritta del noleggiatore e la **carta verde**, con un supplemento indicativo di 30-60 € a noleggio, fino a 100 € con alcune compagnie per l'Albania. Alcuni noleggiatori locali non permettono l'Albania. In auto serve il libretto di circolazione in originale, anche per le auto a noleggio: con la fotocopia si viene respinti.
+- **Regole di guida:** fari accesi anche di giorno tutto l'anno, limite di alcol 0,3 g/l (zero per i neopatentati), cintura obbligatoria, telefono vietato alla guida. A bordo triangolo, kit di pronto soccorso, giubbotto catarifrangente e lampadine di ricambio; dal 15 novembre al 31 marzo catene o gomme da neve. Limiti di velocità bassi e controlli frequenti, con multe da pagare sul posto o in banca.
 - **Strade:** la costiera tra Herceg Novi e Ulcinj è lenta e trafficata d'estate. Il tunnel Sozina (tra Virpazar e Bar) e il tratto autostradale Smokovac-Mateševo, verso nord, sono a pedaggio, pochi euro. Le strade di montagna sono strette, con tornanti e pochi guardrail: si viaggia solo di giorno.
 - **Traghetto di Kamenari-Lepetane:** attraversa il punto più stretto delle Bocche in cinque minuti, circa 5 € per un'auto, giorno e notte. Evita il giro della baia per chi arriva da Herceg Novi o dalla Croazia e va verso Tivat e Budva.
 - **Senza auto:** bus frequenti tra Kotor, Budva, Podgorica e Herceg Novi; bus e un treno per Podgorica-Bar e per il nord (Kolašin). Per Durmitor, Ostrog e il lago servono tour organizzati o un autista.
-- **Dall'Italia via mare:** traghetti notturni **Bari-Bar** in circa 9-11 ore, comodi per chi viaggia con la propria auto.
+- **Dall'Italia via mare:** il traghetto notturno **Bari-Bar** negli ultimi anni ha navigato solo d'estate, e secondo Viaggiare Sicuri nell'estate 2026 non ci sono collegamenti diretti tra Italia e Montenegro. Chi viaggia con la propria auto passa da Durazzo, in Albania, o dalla Croazia.
 
 ## Frontiere e varianti combinate
-- **Croazia (Dubrovnik):** valico di **Debeli Brijeg** tra Herceg Novi e Dubrovnik, a circa un'ora di strada da Kotor. La Croazia è nell'area Schengen: controllo documenti e registrazione biometrica EES. In estate code di una-tre ore, peggiori il sabato e nel pomeriggio. Dubrovnik ha voli dall'Italia e permette un itinerario «aperto».
+- **Croazia (Dubrovnik):** valico di **Debeli Brijeg** tra Herceg Novi e Dubrovnik, a circa un'ora di strada da Kotor. La Croazia è nell'area Schengen: controllo documenti e registrazione biometrica EES. In estate code di una-tre ore, peggiori il sabato e nel pomeriggio; Viaggiare Sicuri segnala attese di 4 ore e, nei casi estremi, fino a 7: acqua e cibo in macchina. Dubrovnik ha voli dall'Italia e permette un itinerario «aperto».
 - **Bosnia ed Erzegovina (Trebinje, Mostar):** **Trebinje** è a mezz'ora da Herceg Novi o da Dubrovnik, con il suo ponte ottomano e i vigneti. **Mostar** e il suo Ponte Vecchio sono a 3 ore da Kotor via Trebinje. Il valico di Šćepan Polje, vicino al rafting sul Tara, collega anche il Durmitor con Foča e Sarajevo, su una strada di montagna stretta.
 - **Albania (Scutari, Theth):** valico di **Hani i Hotit** dopo Podgorica o di **Sukobin** dopo Ulcinj. **Scutari** (Shkodër) è a un'ora e mezza da Podgorica; da lì si sale alle valli delle **Alpi albanesi** (Theth, Valbona), con strade di montagna. Controllare che il noleggio permetta l'ingresso in Albania.
 
@@ -138,10 +138,10 @@ Prezzi a persona in camera doppia, voli esclusi (dall'Italia a Tivat o Podgorica
 - **Fascia economica (50-70 € al giorno):** guesthouse e appartamenti, cucina locale, auto in condivisione.
 - **Fascia media (90-140 € al giorno):** piccoli hotel sul mare e in montagna, cene in konoba, escursioni in barca e rafting.
 - **Fascia alta (da 200 € al giorno):** resort di Luštica e Porto Montenegro, hotel di design a Kotor e Budva.
-- **Voci principali:** auto 30-60 € al giorno; mura di Kotor circa 15 €; traghetto di Kamenari circa 5 € per l'auto; parchi nazionali circa 5 € ciascuno; barca per la Madonna dello Scarpello pochi euro; giro in barca sul lago 15-30 €; rafting 50-80 €; un pasto in konoba 15-30 €.
+- **Voci principali:** auto 30-60 € al giorno; mura di Kotor circa 15 €; traghetto di Kamenari circa 5 € per l'auto; parchi nazionali 3-5 € ciascuno, mausoleo di Njegoš circa 8 €; barca per la Madonna dello Scarpello pochi euro; giro in barca sul lago 15-30 €; rafting 50-80 €; un pasto in konoba 15-30 €.
 
 ## Truffe comuni e sicurezza
-- **Il paese è sicuro** per i turisti. I problemi più comuni sono piccoli furti nelle località affollate della costa in estate, e auto aperte lasciate con oggetti in vista.
+- **Il paese è sicuro** per i turisti, secondo Viaggiare Sicuri, nonostante la presenza di gruppi criminali locali che si regolano i conti tra loro. I problemi più comuni sono scippi e piccoli furti nelle località affollate della costa in estate, soprattutto in spiaggia, e auto aperte lasciate con oggetti in vista. Il paese è a rischio sismico e d'estate ci sono incendi.
 - **Taxi senza tassametro** a Kotor e Budva: prezzo da chiedere prima, o app locali.
 - **Pesce al chilo:** in alcune konobe turistiche il conto sorprende; chiedere il peso e il prezzo prima di ordinare.
 - **Parcheggi abusivi:** a volte si offrono «parcheggiatori» in zone libere; si parcheggia solo nelle aree segnalate, pagando con i parcometri o via SMS.
@@ -166,7 +166,11 @@ Il Montenegro è un viaggio di contrasti a distanza ravvicinata: le pietre venez
 Itinerario e informazioni pratiche costruiti con ricerca documentale (ente nazionale del turismo, parchi nazionali del Montenegro, Viaggiare Sicuri, noleggiatori, guide e blog recenti), aggiornati a ottobre 2026. Prezzi di mura, parchi, traghetti, noleggi e alloggi cambiano spesso e sono indicativi: vanno riverificati prima di partire. Nessuna esperienza personale compare nel testo: apertura e chiusura sono scritte in voce di guida, in attesa dei ricordi dell'autore.
 
 ## Materiale grezzo (appunti, non ancora editato)
-**Note di redazione (ottobre 2026):** Ricordi personali da aggiungere dal diario. Da integrare: alloggi usati e prezzi pagati, noleggiatore, operatore di rafting. Da verificare: prezzo 2026 delle mura di Kotor (le fonti indicano 15 €, alcune 8 €), tariffa auto del traghetto di Kamenari (5 € secondo le fonti, non confermata su sito ufficiale), biglietto del mausoleo di Njegoš e importo della tassa di soggiorno per comune, supplementi per l'uscita dal paese dei principali noleggiatori. Foto dei giorni da recuperare.
+**Note di redazione (ottobre 2026):** Ricordi personali da aggiungere dal diario. Da integrare: alloggi usati e prezzi pagati, noleggiatore, operatore di rafting. Foto dei giorni da recuperare.
+
+Prezzi verificati il 30/10/2026: parchi nazionali dal listino ufficiale nparkovi.me (Lovćen 3 €, Durmitor 5 €, Skadar 5 € al giorno a persona); documenti, tassa di soggiorno, salute, guida, frontiere e traghetti dalla scheda Viaggiare Sicuri del 21/08/2026 (CIE solo fino a 30 giorni; nessun traghetto diretto Italia-Montenegro nell'estate 2026: corretta la voce Bari-Bar); mura di Kotor 15 € confermati dalle guide 2026 (gli 8 € erano un dato vecchio o di bassa stagione).
+
+Ancora aperti: tariffa auto del traghetto di Kamenari (circa 5 €, il sito dell'operatore non risponde e non c'è un listino ufficiale online); mausoleo di Njegoš circa 8 € solo da guide, non dal Museo nazionale; tassa di soggiorno per comune (circa 1 € a Kotor, Budva e Tivat da fonti non ufficiali, nessuna delibera 2026 trovata); supplementi per l'uscita dal paese dei noleggiatori (30-60 € da blog e da una pagina Enterprise, cambiano da compagnia a compagnia); convenzione sanitaria Italia-Montenegro (ex Jugoslavia) non confermata sul sito del Ministero della Salute, che blocca le letture automatiche: tolta dal testo finché non si verifica con la propria ASL o con la guida «Se parto per…»; prezzo delle mura in bassa stagione (alcune fonti dicono ridotto o gratis d'inverno).
 
 ## Tag
 `#montenegro` `#balcani` `#bocchedicattaro` `#kotor` `#perast` `#budva` `#lovcen` `#cetinje` `#scutari` `#ostrog` `#durmitor` `#tara` `#roadtrip` `#europa`

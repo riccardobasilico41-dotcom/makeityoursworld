@@ -46,5 +46,6 @@ export const croazia: Paese = {
     aggiornatoAl: 'ottobre 2026',
   },
   heroImageAlt: 'Le mura di Dubrovnik e i tetti rossi della città vecchia sul mare',
+  heroImage: '/images/copertine/croazia-itinerario.jpg',
   tripPrincipaleSlug: 'croazia-itinerario',
 }
