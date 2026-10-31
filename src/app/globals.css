@@ -9,8 +9,8 @@
 :root {
   --color-alpine: oklch(21.5% 0.006 60);      /* #1E1B18 nero caldo: titoli, fondi scuri */
   --color-alpine-dark: oklch(16.5% 0.005 60); /* #121110 */
-  --color-cream: oklch(96.9% 0.005 95);       /* #F6F5F1 bianco calce */
-  --color-cream-dark: oklch(93.5% 0.008 95);  /* #ECEAE3 */
+  --color-cream: oklch(95.2% 0.017 80);       /* #F4EEE3 panna */
+  --color-cream-dark: oklch(91.5% 0.022 78);  /* #E9E0CF */
   --color-rosso: oklch(50.5% 0.18 27);        /* #B3261E sindoor */
   --color-rosso-dark: oklch(42% 0.15 27);     /* #8E1D17 */
   --color-stone: oklch(39.5% 0.012 70);       /* #4A4640 */

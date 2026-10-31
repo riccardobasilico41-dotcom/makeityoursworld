@@ -3,6 +3,8 @@ import { getAllPaesi } from '@/lib/geo'
 import { getAllMeraviglie } from '@/lib/meraviglie'
 import { Marchio } from './Marchio'
 import { NavPrincipale, type GruppoMenu } from './NavPrincipale'
+import { Ricerca } from './Ricerca'
+import { SalvatiContatore } from './SalvatiContatore'
 
 /** Macro-aree del menu: ogni area raccoglie uno o più `continente` dei Paesi. */
 const AREE: { nome: string; continenti: string[] }[] = [
@@ -14,7 +16,8 @@ const AREE: { nome: string; continenti: string[] }[] = [
 ]
 
 /* Testata: marchio a macchina da scrivere a sinistra, menu per area a destra
- * (ogni area apre l'elenco dei suoi Paesi), filo nero sotto. Non sticky:
+ * (ogni area apre l'elenco dei suoi Paesi), poi «Cerca» e il cuore dei salvati,
+ * filo nero sotto. Non sticky:
  * StickyTableOfContents porta l'orientamento nelle pagine lunghe. */
 export function Header() {
   const paesi = getAllPaesi()
@@ -39,7 +42,11 @@ export function Header() {
         <Link href="/" className="text-[1.35rem] text-ink sm:text-[1.6rem]">
           <Marchio />
         </Link>
-        <NavPrincipale gruppi={gruppi} />
+        <div className="flex items-center gap-x-3 sm:gap-x-5">
+          <NavPrincipale gruppi={gruppi} />
+          <Ricerca />
+          <SalvatiContatore />
+        </div>
       </div>
     </header>
   )

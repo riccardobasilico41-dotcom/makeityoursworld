@@ -159,8 +159,8 @@ export const destinazioniGiordania: Destinazione[] = [
       'Vedere il Tesoro spuntare dal Siq senza la solita folla davanti vale da solo il viaggio. La salita al Monastero ripaga ogni gradino con una vista ancora più imponente del Tesoro. Anche Little Petra, il giorno prima, è stata bellissima: meno affollata, ci ha dato la prima scarica di entusiasmo. Con Wadi Rum, è la cosa da non perdere di tutto il viaggio.',
     esperienzeSlugs: ['salita-monastero-petra', 'hammam-wadi-musa'],
     tripSlugs: ['giordania-itinerario'],
-    imageAlt: 'Le colonne rosate del Tesoro di Petra scolpite nella roccia, Giordania',
-    immagine: '/images/giordania/petra-tesoro-colonne-riccardo.jpg',
+    imageAlt: 'La facciata intera del Tesoro di Petra, con il frontone e i due ordini di colonne scolpiti nella roccia rosa, Giordania',
+    immagine: '/images/meraviglie/petra-tesoro-facciata-riccardo.jpg',
   },
   {
     slug: 'wadi-rum',

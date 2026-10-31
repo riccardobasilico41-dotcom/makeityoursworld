@@ -1,31 +1,17 @@
 import { CheckCircle2, AlertTriangle } from 'lucide-react'
-import type { Viaggio } from '@/lib/viaggi'
 import type { TripMeta } from '@/lib/types'
 
-export function TripSummary({ viaggio, meta }: { viaggio: Viaggio; meta: TripMeta }) {
-  const righe: { label: string; value?: string }[] = [
-    { label: 'Durata', value: viaggio.durata },
-    { label: 'Ritmo', value: meta.ritmo },
-    { label: 'Trasporti', value: meta.trasporti },
-    { label: 'Stile', value: meta.stile.join(' · ') },
-    { label: 'Budget', value: meta.budgetTotale },
-    { label: 'Periodo del viaggio', value: viaggio.periodo },
-    { label: 'Adatto a', value: meta.adattoA.join(' · ') },
-  ]
-
+/**
+ * Punti forti e criticità del viaggio. I dati brevi (durata, ritmo, trasporti,
+ * budget, periodo, adatto a) sono passati nel riepilogo sotto l'intestazione
+ * (`RiepilogoViaggio`): qui non si ripetono.
+ */
+export function TripSummary({ meta }: { meta: TripMeta }) {
+  if (meta.puntiForti.length === 0 && meta.criticita.length === 0) return null
   return (
-    <div id="scheda-riassuntiva" className="rounded-none border border-alpine/10 bg-cream-dark/50 p-6 sm:p-8">
-      <h2 className="font-display text-xl text-alpine">Scheda riassuntiva</h2>
-      <dl className="mt-5 grid gap-x-6 gap-y-4 sm:grid-cols-2">
-        {righe.filter((r) => r.value).map((r) => (
-          <div key={r.label}>
-            <dt className="text-xs font-semibold uppercase tracking-wider text-stone/70">{r.label}</dt>
-            <dd className="mt-1 text-sm leading-relaxed text-ink">{r.value}</dd>
-          </div>
-        ))}
-      </dl>
-
-      <div className="mt-6 grid gap-6 border-t border-alpine/10 pt-6 sm:grid-cols-2">
+    <div className="rounded-none border border-alpine/10 bg-cream-dark/50 p-6 sm:p-8">
+      <h2 className="font-display text-xl text-alpine">Punti forti e criticità</h2>
+      <div className="mt-5 grid gap-6 sm:grid-cols-2">
         <div>
           <p className="inline-flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wider text-alpine">
             <CheckCircle2 size={14} /> Punti forti

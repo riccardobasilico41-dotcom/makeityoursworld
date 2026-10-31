@@ -1,12 +1,14 @@
 import type { Metadata } from 'next'
+import { SalvaBottone } from '@/components/SalvaBottone'
 import { FirmaAutore } from '@/components/FirmaAutore'
 import { PrenotaQui } from '@/components/OrganizzaViaggio'
 import { link } from '@/lib/affiliazioni'
 import { notFound } from 'next/navigation'
-import { BedDouble, Bus, CalendarDays, Clock, Compass, Eye, Footprints, MapPin, Moon, Plane, Sparkles, Utensils, Wallet } from 'lucide-react'
+import { Camera, BedDouble, Bus, CalendarDays, Clock, Compass, Eye, Footprints, MapPin, Moon, Plane, Sparkles, Utensils, Wallet } from 'lucide-react'
 import { Container } from '@/components/ui/Container'
 import { PageHeader } from '@/components/ui/PageHeader'
 import { Rich } from '@/components/ui/Rich'
+import { Galleria, type FotoGalleria } from '@/components/scheda/Galleria'
 import { ElencoNumerato, ErroriDaEvitare, InfoPratiche, Ricordo, SchedaTesto, TitoloSezione } from '@/components/scheda/Blocchi'
 import { ExperienceCard } from '@/components/ExperienceCard'
 import { ComparisonBlock } from '@/components/ComparisonBlock'
@@ -19,6 +21,7 @@ import {
   getPaese,
   getEsperienzeDiDestinazione,
   getViaggiByDestinazione,
+  getTripMeta,
 } from '@/lib/geo'
 import { pageMetadata, primoTitoloCheSta } from '@/lib/seo'
 import { richNodes } from '@/components/ui/Rich'
@@ -75,6 +78,22 @@ export default async function DestinazionePage({
   const esperienze = getEsperienzeDiDestinazione(destinazione)
   const viaggi = getViaggiByDestinazione(destinazione)
 
+  // Galleria: le foto dei giorni dei viaggi passati da qui e quelle delle esperienze, le proprie prima
+  const viste = new Set([destinazione.immagine])
+  const foto: FotoGalleria[] = []
+  const aggiungi = (src?: string, alt?: string) => {
+    if (!src || viste.has(src)) return
+    viste.add(src)
+    foto.push({ src, alt: alt || destinazione.nome })
+  }
+  for (const v of viaggi) {
+    for (const g of getTripMeta(v.slug)?.giorni ?? []) {
+      if (g.destinazioneSlug === destinazione.slug) aggiungi(g.immagine, g.imageAlt)
+    }
+  }
+  for (const e of esperienze) aggiungi(e.immagine, e.imageAlt)
+  foto.sort((a, b) => Number(b.src.includes('-riccardo')) - Number(a.src.includes('-riccardo')))
+
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'TouristDestination',
@@ -113,6 +132,12 @@ export default async function DestinazionePage({
         title={destinazione.nome}
         lead={<Rich text={destinazione.introduzione} as="p" />}
         media={destinazione.immagine ? { tipo: 'foto', src: destinazione.immagine, alt: destinazione.imageAlt } : undefined}
+        pieno
+        actions={
+          <SalvaBottone
+            elemento={{ tipo: 'destinazione', id: `${paeseSlug}/${destinazione.slug}`, titolo: destinazione.nome, href: `/destinazioni/${paeseSlug}/${destinazione.slug}`, immagine: destinazione.immagine, sottotitolo: paese.nome }}
+          />
+        }
       />
 
       <InfoPratiche
@@ -135,6 +160,13 @@ export default async function DestinazionePage({
           {destinazione.miaEsperienza && (
             <div className="max-w-3xl">
               <Ricordo testo={destinazione.miaEsperienza} />
+            </div>
+          )}
+
+          {foto.length >= 2 && (
+            <div>
+              <TitoloSezione icona={Camera}>Le foto</TitoloSezione>
+              <Galleria foto={foto.slice(0, 9)} />
             </div>
           )}
 

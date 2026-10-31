@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import { SalvaBottone } from '@/components/SalvaBottone'
 import { FirmaAutore, FirmaBreve } from '@/components/FirmaAutore'
 import { OrganizzaViaggio } from '@/components/OrganizzaViaggio'
 import { listaPerViaggio } from '@/content/attrezzatura'
@@ -16,9 +17,12 @@ const VECCHI_SLUG: Record<string, string> = {
 import { Prose } from '@/components/Prose'
 import { ScrollProgress } from '@/components/motion-primitives/scroll-progress'
 import { TripSummary } from '@/components/TripSummary'
+import { RiepilogoViaggio } from '@/components/RiepilogoViaggio'
+import { minutiDiLettura } from '@/lib/riepilogo-viaggio'
+import { Clock } from 'lucide-react'
 import { BudgetBreakdown } from '@/components/BudgetBreakdown'
 import { StickyTableOfContents, type TocItem } from '@/components/StickyTableOfContents'
-import { HeaderFacts, PageHeader } from '@/components/ui/PageHeader'
+import { PageHeader } from '@/components/ui/PageHeader'
 import { creditiCopertine } from '@/content/viaggi-copertine-crediti'
 import { creditiHeroVideo } from '@/content/viaggi-hero-video-crediti'
 import { DaySectionSignature } from '@/components/signature/DaySectionSignature'
@@ -176,13 +180,12 @@ function SignatureViaggioContent({
           </>
         }
         meta={
-          <HeaderFacts
-            items={[
-              { label: 'Periodo', value: viaggio.periodoBreve },
-              { label: 'Durata', value: viaggio.durataBreve },
-              { label: 'Con chi', value: viaggio.compagniBreve },
-            ]}
-          />
+          <p className="inline-flex items-center gap-2 text-sm text-stone">
+            <Clock size={16} aria-hidden className="text-rosso" />
+            <span>
+              <span className="font-semibold text-ink">{minutiDiLettura(viaggio)} min</span> di lettura
+            </span>
+          </p>
         }
         media={
           video
@@ -192,7 +195,16 @@ function SignatureViaggioContent({
               : undefined
         }
         credito={video ? creditiHeroVideo[viaggio.slug] : copertina ? creditiCopertine[viaggio.slug] : undefined}
+        actions={
+          <SalvaBottone
+            elemento={{ tipo: 'viaggio', id: viaggio.slug, titolo: viaggio.titolo, href: `/viaggi/${viaggio.slug}`, immagine: copertina?.immagine, sottotitolo: viaggio.durataBreve }}
+          />
+        }
       />
+
+      {/* Durata, periodo, budget, ritmo, spostamenti, tappe, con chi: prima erano sparsi tra
+          la riga sotto il titolo e la «Scheda riassuntiva», ora stanno solo qui. */}
+      <RiepilogoViaggio viaggio={viaggio} meta={meta} />
 
       <section className="py-16 sm:py-20">
         <Container className="grid gap-14 lg:grid-cols-[1.6fr_1fr]">
@@ -204,7 +216,7 @@ function SignatureViaggioContent({
             )}
 
             <div className="space-y-8">
-              <TripSummary viaggio={viaggio} meta={meta} />
+              <TripSummary meta={meta} />
               {CAMPI_VIAGGIO_IN_BREVE.some(({ key }) => meta.viaggioInBreve[key]) && (
                 <div id="il-viaggio-in-breve" className="scroll-mt-24">
                   <h2 className="font-display text-xl text-alpine">Il viaggio in breve</h2>

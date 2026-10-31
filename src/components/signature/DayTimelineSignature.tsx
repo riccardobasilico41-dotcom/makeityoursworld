@@ -7,6 +7,7 @@ import { Route, BedDouble, Coins, Gauge, ArrowUpRight } from 'lucide-react'
 import { Prose } from '@/components/Prose'
 import { Reveal } from '@/components/Reveal'
 import { FieldDossier } from './FieldDossier'
+import { idGiorno, numeroGiorno } from './giorni-ancore'
 import type { ViaggioGiorno } from '@/lib/viaggi'
 import type { GiornoMeta, IntensitaGiorno } from '@/lib/types'
 
@@ -38,12 +39,12 @@ export const DayTimelineSignature = forwardRef<
     <ol ref={ref} className="space-y-16 sm:space-y-24">
       {giorni.map((giorno, i) => {
         const info = meta.find((m) => m.titoloGiorno === giorno.titolo)
-        const numero = giorno.titolo.match(/Giorno\s+(\d+)/i)?.[1] ?? String(i + 1)
+        const numero = numeroGiorno(giorno.titolo, i)
         const sottotitolo = giorno.titolo.replace(/^Giorno\s+\d+\s*[—-]\s*/i, '')
 
         return (
           <Reveal key={giorno.titolo}>
-            <li className="grid gap-6 sm:grid-cols-[7rem_1fr] sm:gap-10">
+            <li id={idGiorno(i)} className="grid scroll-mt-20 gap-6 sm:grid-cols-[7rem_1fr] sm:gap-10 lg:scroll-mt-24">
               <div className="flex sm:block">
                 <span className="font-display text-6xl font-medium leading-none text-alpine/20 sm:text-7xl">
                   {numero.padStart(2, '0')}

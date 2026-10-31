@@ -37,7 +37,7 @@ export const sriLanka: Paese = {
     aggiornatoAl: 'settembre 2026',
   },
   stileViaggio: ['on the road', 'natura', 'cultura', 'mare'],
-  heroImageAlt: 'La rocca di Sigiriya che emerge blu dalla giungla al crepuscolo, vista da Pidurangala, Sri Lanka',
-  heroImage: '/images/sri-lanka/sigiriya-crepuscolo-riccardo.jpg',
+  heroImageAlt: 'Il treno blu degli altipiani corre tra le colline verdi e la nebbia, con un ragazzo sporto dal finestrino, Sri Lanka',
+  heroImage: '/images/sri-lanka/treno-colline-riccardo.jpg',
   tripPrincipaleSlug: 'sri-lanka-2023',
 }

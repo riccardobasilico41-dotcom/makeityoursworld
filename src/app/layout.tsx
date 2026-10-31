@@ -3,6 +3,7 @@ import localFont from "next/font/local";
 import "./globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
+import { TornaSu } from "@/components/TornaSu";
 import { AUTORE } from "@/lib/structured-data";
 import { siteConfig } from "@/lib/site-config";
 
@@ -85,6 +86,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />
+        <TornaSu />
       </body>
     </html>
   );

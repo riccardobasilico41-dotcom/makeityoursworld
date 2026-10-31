@@ -1,4 +1,5 @@
-import { ArrowRight } from 'lucide-react'
+import { ArrowRight, CalendarDays, Clock, Compass, Wallet } from 'lucide-react'
+import { InfoPratiche } from './scheda/Blocchi'
 import { HeaderAction, HeaderFacts, PageHeader } from './ui/PageHeader'
 import type { Media } from './ui/HeaderMedia'
 import { copertineViaggi } from '@/content/viaggi-copertine'
@@ -27,35 +28,46 @@ export function CountryHero({
       : undefined
   const credito = !paese.heroImage && copertina ? creditiCopertine[paese.tripPrincipaleSlug] : undefined
 
+  const facts = [
+    { label: 'Periodo migliore', value: paese.periodoMigliore, icona: CalendarDays },
+    { label: 'Durata consigliata', value: paese.durataConsigliata, icona: Clock },
+    { label: 'Budget indicativo', value: paese.budgetIndicativo, icona: Wallet },
+    { label: 'Stile di viaggio', value: paese.stileViaggio.join(' · '), icona: Compass },
+  ]
+
   return (
-    <PageHeader
-      crumbs={[{ label: 'Home', href: '/' }, { label: 'Destinazioni', href: '/destinazioni' }, { label: paese.nome }]}
-      eyebrow={paese.continente}
-      title={paese.nome}
-      lead={<p>{paese.descrizione}</p>}
-      meta={
-        <HeaderFacts
-          items={[
-            { label: 'Periodo migliore', value: paese.periodoMigliore },
-            { label: 'Durata consigliata', value: paese.durataConsigliata },
-            { label: 'Budget indicativo', value: paese.budgetIndicativo },
-            { label: 'Stile di viaggio', value: paese.stileViaggio.join(' · ') },
-          ]}
-        />
-      }
-      actions={
-        <>
-          <HeaderAction href={tripHref}>
-            Scopri il mio itinerario
-            <ArrowRight size={16} aria-hidden="true" />
-          </HeaderAction>
-          <HeaderAction href={destinazioniHref} secondary>
-            Esplora le destinazioni
-          </HeaderAction>
-        </>
-      }
-      media={media}
-      credito={credito}
-    />
+    <>
+      <PageHeader
+        crumbs={[{ label: 'Home', href: '/' }, { label: 'Destinazioni', href: '/destinazioni' }, { label: paese.nome }]}
+        eyebrow={paese.continente}
+        title={paese.nome}
+        lead={<p>{paese.descrizione}</p>}
+        meta={media ? undefined : <HeaderFacts items={facts} />}
+        actions={
+          <>
+            <HeaderAction href={tripHref}>
+              Scopri il mio itinerario
+              <ArrowRight size={16} aria-hidden="true" />
+            </HeaderAction>
+            {media ? (
+              <a
+                href={destinazioniHref}
+                className="text-[0.95rem] font-semibold text-cream underline decoration-rosso decoration-2 underline-offset-[6px] hover:text-cream/80"
+              >
+                Esplora le destinazioni
+              </a>
+            ) : (
+              <HeaderAction href={destinazioniHref} secondary>
+                Esplora le destinazioni
+              </HeaderAction>
+            )}
+          </>
+        }
+        media={media}
+        pieno
+        credito={credito}
+      />
+      {media && <InfoPratiche titolo="In breve" voci={facts} />}
+    </>
   )
 }

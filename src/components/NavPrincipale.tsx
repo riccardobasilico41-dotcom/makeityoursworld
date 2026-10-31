@@ -69,7 +69,7 @@ export function NavPrincipale({ gruppi }: { gruppi: GruppoMenu[] }) {
                   aria-expanded={isOpen}
                   aria-controls={id}
                   onClick={() => setAperto(isOpen ? null : g.nome)}
-                  className="inline-flex min-h-11 items-center gap-1 text-[0.95rem] font-medium text-ink transition-colors duration-150 hover:text-rosso aria-expanded:text-rosso"
+                  className="inline-flex min-h-11 items-center gap-1 whitespace-nowrap text-[0.95rem] font-medium text-ink transition-colors duration-150 hover:text-rosso aria-expanded:text-rosso"
                 >
                   {g.nome}
                   <ChevronDown size={14} aria-hidden="true" className={`transition-transform duration-150 ${isOpen ? 'rotate-180' : ''}`} />
@@ -107,7 +107,7 @@ export function NavPrincipale({ gruppi }: { gruppi: GruppoMenu[] }) {
           aria-expanded={mobile}
           aria-controls="menu-mobile"
           onClick={() => setMobile((m) => !m)}
-          className="inline-flex min-h-11 items-center gap-2 text-[0.95rem] font-semibold text-ink"
+          className="inline-flex min-h-11 items-center gap-2 whitespace-nowrap text-[0.95rem] font-semibold text-ink"
         >
           {mobile ? <X size={20} aria-hidden="true" /> : <Menu size={20} aria-hidden="true" />}
           Menu

@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import { SalvaBottone } from '@/components/SalvaBottone'
 import { FirmaAutore } from '@/components/FirmaAutore'
 import { PrenotaQui } from '@/components/OrganizzaViaggio'
 import { link } from '@/lib/affiliazioni'
@@ -104,6 +105,12 @@ export default async function EsperienzaPage({
         title={esperienza.nome}
         lead={<Rich text={esperienza.cosE} as="p" />}
         media={esperienza.immagine ? { tipo: 'foto', src: esperienza.immagine, alt: esperienza.imageAlt } : undefined}
+        pieno
+        actions={
+          <SalvaBottone
+            elemento={{ tipo: 'esperienza', id: `${paeseSlug}/${esperienza.slug}`, titolo: esperienza.nome, href: `/esperienze/${paeseSlug}/${esperienza.slug}`, immagine: esperienza.immagine, sottotitolo: paese.nome }}
+          />
+        }
       />
 
       <InfoPratiche

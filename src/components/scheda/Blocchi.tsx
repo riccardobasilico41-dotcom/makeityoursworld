@@ -14,26 +14,26 @@ import { Container } from '@/components/ui/Container'
 export type VoceInfo = { label: string; value?: string; icona: LucideIcon }
 
 /** Le informazioni pratiche in griglia, sotto l'intestazione. Le voci vuote non compaiono. */
-export function InfoPratiche({ voci }: { voci: VoceInfo[] }) {
+export function InfoPratiche({ voci, titolo = 'Informazioni pratiche' }: { voci: VoceInfo[]; titolo?: string }) {
   const piene = voci.filter((v) => v.value && v.value.trim())
   if (piene.length === 0) return null
   return (
     <section aria-labelledby="info-pratiche" className="border-b border-alpine/10 bg-cream-dark/50 py-10 sm:py-12">
       <Container>
         <h2 id="info-pratiche" className="text-xs font-semibold uppercase tracking-[0.2em] text-rosso">
-          Informazioni pratiche
+          {titolo}
         </h2>
-        <dl className="mt-5 grid gap-px overflow-hidden border-2 border-ink bg-ink sm:grid-cols-2 lg:grid-cols-3">
+        <dl className="mt-5 grid grid-cols-2 gap-px overflow-hidden border-2 border-ink bg-ink lg:grid-cols-3">
           {piene.map(({ label, value, icona: Icona }, i) => {
             // l'ultima casella allarga fino in fondo alla riga, così la griglia non resta con buchi neri
             const ultima = i === piene.length - 1
             const lg = { 0: 'lg:col-span-1', 1: 'lg:col-span-3', 2: 'lg:col-span-2' }[piene.length % 3]
-            const larga = ultima ? `${piene.length % 2 === 1 ? 'sm:col-span-2' : ''} ${lg}` : ''
+            const larga = ultima ? `${piene.length % 2 === 1 ? 'col-span-2' : ''} ${lg}` : ''
             return (
-            <div key={label} className={`flex gap-3 bg-cream p-5 ${larga}`}>
-              <Icona size={20} aria-hidden className="mt-0.5 shrink-0 text-rosso" />
+            <div key={label} className={`flex gap-2.5 bg-cream p-3.5 sm:gap-3 sm:p-5 ${larga}`}>
+              <Icona size={20} aria-hidden className="mt-0.5 hidden shrink-0 text-rosso min-[400px]:block" />
               <div className="min-w-0">
-                <dt className="text-xs font-semibold uppercase tracking-wider text-stone/70">{label}</dt>
+                <dt className="text-[11px] font-semibold uppercase tracking-wider text-stone/70 sm:text-xs">{label}</dt>
                 <dd className="mt-1 text-sm leading-relaxed text-ink">{richNodes(value!)}</dd>
               </div>
             </div>

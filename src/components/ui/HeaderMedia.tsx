@@ -11,7 +11,7 @@ export type Media =
  * Riempie il riquadro destro di `PageHeader`: foto vera oppure video muto in loop.
  * `prefers-reduced-motion`: niente autoplay, resta il fotogramma fermo (`poster`).
  */
-export function HeaderMedia({ media }: { media: Media }) {
+export function HeaderMedia({ media, sizes = '(min-width: 1024px) 42vw, 100vw' }: { media: Media; sizes?: string }) {
   const reduceMotion = useReducedMotion()
 
   if (media.tipo === 'foto') {
@@ -21,7 +21,7 @@ export function HeaderMedia({ media }: { media: Media }) {
         alt={media.alt}
         fill
         priority
-        sizes="(min-width: 1024px) 42vw, 100vw"
+        sizes={sizes}
         className="object-cover"
       />
     )

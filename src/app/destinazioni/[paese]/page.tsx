@@ -76,6 +76,14 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
         destinazioniHref="#destinazioni"
       />
 
+      {/* Mappa: destinazioni ed esperienze sul contorno vero del Paese */}
+      <MappaPaeseSezione
+        paeseSlug={paeseSlug}
+        nomePaese={paese.nome}
+        destinazioni={destinazioni}
+        esperienze={esperienze}
+      />
+
       {/* Il viaggio che ho fatto io */}
       {tripPrincipale && (
         <section className="py-20 sm:py-28">
@@ -146,14 +154,6 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
           </Container>
         </section>
       )}
-
-      {/* Mappa: destinazioni ed esperienze sul contorno vero del Paese */}
-      <MappaPaeseSezione
-        paeseSlug={paeseSlug}
-        nomePaese={paese.nome}
-        destinazioni={destinazioni}
-        esperienze={esperienze}
-      />
 
       {/* Destinazioni */}
       <section id="destinazioni" className="scroll-mt-24 border-t border-alpine/10 py-20 sm:py-28">
