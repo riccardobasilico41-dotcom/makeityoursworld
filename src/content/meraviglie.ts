@@ -72,7 +72,7 @@ export const meraviglie: Meraviglia[] = [
     ],
     miaEsperienza:
       'Il consiglio che conta più di tutti riguarda quale tratto scegliere, perché fa la differenza tra una gita in mezzo alla folla e una giornata memorabile. Badaling è vicino, comodo e restaurato al punto da sembrare un parco a tema: nei giorni di festa ci si muove in fila indiana. Mutianyu è il compromesso giusto, con la seggiovia per salire e la slitta per scendere, che sembra una trovata turistica e invece è uno dei modi più divertenti di finire la giornata. Ma il tratto che resta davvero è Jinshanling: due ore da Pechino, torri non restaurate, erba tra le pietre e per lunghi tratti nessun altro in vista. Va anche detta la fatica, che le foto non trasmettono: non è una passeggiata in piano ma un continuo su e giù su gradini di altezza diversa, alcuni altissimi, e dopo tre ore le gambe se ne accorgono.',
-    heroImageAlt: 'La Grande Muraglia Cinese che si snoda tra le colline a Mutianyu, vicino Pechino',
+    heroImageAlt: 'La Grande Muraglia Cinese che serpeggia sulle colline verdi di Mutianyu fino a una torre di guardia, sotto un cielo azzurro con nuvole bianche',
     heroImage: '/images/meraviglie/grande-muraglia-cinese.jpg',
   },
   {
@@ -132,8 +132,8 @@ export const meraviglie: Meraviglia[] = [
     ],
     miaEsperienza:
       'Petra non è un monumento, è una città, e il primo errore è comprare il biglietto da un giorno. Il Siq da solo è più di un chilometro di gola stretta e altissima che continua a girare senza mai mostrare cosa c\'è dopo, e quando il Tesoro compare nello spiraglio finale l\'effetto funziona anche sapendolo in anticipo. Ma il Tesoro è l\'inizio: il Monastero sta in cima a ottocento gradini, un\'ora abbondante di salita col sole a picco, ed è più grande di quello che quasi tutti vengono a vedere. Chi ha una sola giornata parta all\'apertura ed eviti la fascia centrale, quando arrivano i pullman dal Mar Morto e la temperatura tra le rocce diventa seria. Sui muli e i cammelli offerti lungo il percorso vale la pena essere netti: le condizioni degli animali sono spesso pessime, e rifiutare è la scelta giusta.',
-    heroImageAlt: 'Le colonne rosate del Tesoro di Petra (Al-Khazneh) scolpite nella roccia, Giordania',
-    heroImage: '/images/giordania/petra-tesoro-colonne-riccardo.jpg',
+    heroImageAlt: 'La facciata rosa del Tesoro di Petra (Al-Khazneh), con il colonnato e il frontone scolpiti nella parete di arenaria, Giordania',
+    heroImage: '/images/meraviglie/petra-tesoro-facciata-riccardo.jpg',
   },
   {
     slug: 'cristo-redentore',
@@ -182,7 +182,7 @@ export const meraviglie: Meraviglia[] = [
       'Non controllare le previsioni meteo: la statua è spesso avvolta dalle nuvole, meglio tenere flessibilità sulle date se possibile',
       'Portare con sé oggetti di valore vistosi nelle zone più affollate',
     ],
-    heroImageAlt: 'Il Cristo Redentore sulla cima del Corcovado con Rio de Janeiro e il Pan di Zucchero sullo sfondo',
+    heroImageAlt: 'Il Cristo Redentore in controluce sulla terrazza del Corcovado al tramonto, con il cielo di Rio de Janeiro striato di rosa e azzurro',
     heroImage: '/images/meraviglie/cristo-redentore.jpg',
   },
   {
@@ -305,7 +305,7 @@ export const meraviglie: Meraviglia[] = [
     ],
     miaEsperienza:
       'È la meraviglia che più delude chi arriva impreparato, e la ragione non è il sito ma il modo in cui lo si visita. Dalle dieci in poi arrivano i pullman da Cancún e da Playa del Carmen, i viali si riempiono e soprattutto si riempiono di venditori: bancarelle una accanto all\'altra lungo quasi tutti i percorsi, con i fischietti a forma di giaguaro che suonano di continuo. Entrare all\'apertura cambia completamente l\'esperienza. Il Castillo non si sale più da anni, quindi va guardato da sotto, ed è lì che si capisce il gioco: battendo le mani davanti alla scalinata l\'eco torna indietro come il verso del quetzal, e non è una coincidenza. Chi cerca la sensazione di scoperta la trova più a Uxmal o a Cobá; qui si viene per la precisione astronomica, che è un\'altra cosa e vale comunque.',
-    heroImageAlt: 'La piramide di El Castillo a Chichén Itzá, Yucatán, Messico',
+    heroImageAlt: 'La piramide di El Castillo a Chichén Itzá vista di fronte, con la scalinata centrale, il prato verde e il cielo azzurro, Yucatán, Messico',
     heroImage: '/images/meraviglie/chichen-itza.jpg',
   },
   {
@@ -362,7 +362,7 @@ export const meraviglie: Meraviglia[] = [
     ],
     miaEsperienza:
       'Il Colosseo ha un problema che nessuna delle altre meraviglie ha: ci si passa davanti in mezzo al traffico, e questo toglie qualcosa. Il modo per recuperarlo è scendere negli ipogei, i sotterranei dove stavano gabbie, montacarichi e chi lavorava agli spettacoli: sono a ingresso separato, a numero chiuso, si esauriscono presto, e sono di gran lunga la parte più interessante del monumento. L\'errore più comune resta comprare il biglietto sul posto: la fila si conta in ore, e online sul sito ufficiale costa meno. Attenzione anche a chi propone "salta fila" davanti all\'ingresso, spesso a prezzi tripli per lo stesso biglietto. Il consiglio pratico è visitarlo la mattina presto o nell\'ultima fascia del pomeriggio, e tenersi il Palatino per dopo: è compreso nello stesso biglietto e quasi tutti lo saltano per stanchezza.',
-    heroImageAlt: 'Il Colosseo di Roma visto dall\'esterno in una giornata di sole',
+    heroImageAlt: 'Il Colosseo di Roma visto dal Foro Romano nella luce calda del pomeriggio, tra cipressi, ulivi e colonne antiche',
     heroImage: '/images/meraviglie/colosseo.jpg',
   },
   {

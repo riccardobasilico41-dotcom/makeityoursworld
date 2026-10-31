@@ -14,25 +14,4 @@
 
 import type { CreditoImmagine } from './viaggi-copertine-crediti'
 
-export const creditiMeraviglie: Record<string, CreditoImmagine> = {
-  'grande-muraglia-cinese': {
-    autore: 'Lloyd Tudor (BLloydT)',
-    licenza: 'CC BY-SA 4.0',
-    fonteUrl: 'https://commons.wikimedia.org/wiki/File:The_Mutianyu_section_of_the_Great_Wall_of_China.jpg',
-  },
-  'cristo-redentore': {
-    autore: 'Gustavo Facci',
-    licenza: 'CC BY-SA 2.0',
-    fonteUrl: 'https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Statue_of_Christ_the_Redeemer.jpg',
-  },
-  'chichen-itza': {
-    autore: 'Fcb981 (Eric Baetscher)',
-    licenza: 'CC BY-SA 3.0 / GFDL 1.2+',
-    fonteUrl: 'https://commons.wikimedia.org/wiki/File:El_Castillo_Stitch_2008_Edit_2.jpg',
-  },
-  colosseo: {
-    autore: 'Christoph Strässler',
-    licenza: 'CC BY-SA 2.0',
-    fonteUrl: 'https://commons.wikimedia.org/wiki/File:Colosseum,_Rome,_Italy.jpg',
-  },
-}
+export const creditiMeraviglie: Record<string, CreditoImmagine> = {}
