@@ -56,7 +56,7 @@ export function GiorniBarraMobile({
   return (
     <nav
       aria-label={`Vai a un ${unitaLabel.toLowerCase()} dell'itinerario`}
-      className="sticky top-0 z-30 -mx-6 mb-8 border-y-2 border-ink bg-cream sm:-mx-8 lg:hidden"
+      className="sticky top-0 z-30 -mx-6 mb-8 border-y-2 border-ink bg-cream sm:-mx-8 lg:col-span-2 lg:mx-0"
     >
       <ul
         ref={barraRef}

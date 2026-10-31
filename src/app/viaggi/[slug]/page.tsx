@@ -21,7 +21,7 @@ import { RiepilogoViaggio } from '@/components/RiepilogoViaggio'
 import { minutiDiLettura } from '@/lib/riepilogo-viaggio'
 import { Clock } from 'lucide-react'
 import { BudgetBreakdown } from '@/components/BudgetBreakdown'
-import { StickyTableOfContents, type TocItem } from '@/components/StickyTableOfContents'
+import type { TocItem } from '@/components/StickyTableOfContents'
 import { PageHeader } from '@/components/ui/PageHeader'
 import { creditiCopertine } from '@/content/viaggi-copertine-crediti'
 import { creditiHeroVideo } from '@/content/viaggi-hero-video-crediti'
@@ -207,8 +207,24 @@ function SignatureViaggioContent({
       <RiepilogoViaggio viaggio={viaggio} meta={meta} />
 
       <section className="py-16 sm:py-20">
-        <Container className="grid gap-12 lg:grid-cols-[minmax(0,1fr)_18rem]">
+        <Container>
           <div className="space-y-16">
+            {toc.length > 0 && (
+              <nav aria-label="In questa pagina" className="-mt-6 flex flex-wrap items-center gap-2 text-sm">
+                <span className="mr-1 text-xs font-semibold uppercase tracking-[0.18em] text-stone/70">In questa pagina</span>
+                {[...(viaggio.schedaPratica ? [{ href: '#scheda-pratica', label: 'Scheda pratica' }] : []), ...toc]
+                  .filter((v, i, a) => a.findIndex((x) => x.href === v.href) === i)
+                  .map((v) => (
+                    <a
+                      key={v.href + v.label}
+                      href={v.href}
+                      className="inline-flex min-h-9 items-center border border-ink/25 bg-cream px-3 font-medium text-ink transition-colors hover:border-ink hover:bg-ink hover:text-cream"
+                    >
+                      {v.label}
+                    </a>
+                  ))}
+              </nav>
+            )}
             {viaggio.apertura && (
               <p className="font-display text-xl italic leading-relaxed text-alpine sm:text-2xl lg:text-3xl">
                 {viaggio.apertura}
@@ -232,6 +248,37 @@ function SignatureViaggioContent({
               )}
             </div>
 
+            {viaggio.schedaPratica && (
+              <div id="scheda-pratica" className="scroll-mt-24 border-2 border-ink bg-cream-dark/50 p-6 sm:p-8">
+                <h2 className="font-display text-2xl text-alpine">Scheda pratica</h2>
+                {viaggio.periodo && viaggio.periodo !== viaggio.periodoBreve && (
+                  <p className="mt-4 text-sm leading-relaxed text-stone">
+                    <span className="font-semibold text-ink">Periodo: </span>
+                    {viaggio.periodo}
+                  </p>
+                )}
+                {viaggio.durata && viaggio.durata !== viaggio.durataBreve && (
+                  <p className="mt-4 text-sm leading-relaxed text-stone">
+                    <span className="font-semibold text-ink">Durata: </span>
+                    {viaggio.durata}
+                  </p>
+                )}
+                {viaggio.compagni && (
+                  <p className="mt-4 text-sm leading-relaxed text-stone">
+                    <span className="font-semibold text-ink">Compagni di viaggio: </span>
+                    {viaggio.compagni}
+                  </p>
+                )}
+                <Prose className="mt-4 max-w-none text-sm prose-ul:my-0 prose-li:my-1.5 lg:columns-2 lg:gap-10 [&_li]:break-inside-avoid">{viaggio.schedaPratica}</Prose>
+              </div>
+            )}
+
+            <p className="text-xs leading-relaxed text-stone/60">
+              {viaggio.periodo ? `Viaggio effettuato nel periodo: ${viaggio.periodo} · ` : ''}Pagina aggiornata il{' '}
+              {new Date().toLocaleDateString('it-IT', { year: 'numeric', month: 'long', day: 'numeric' })}.
+              <br />
+              Prezzi, orari, documenti e traghetti vanno sempre verificati prima della partenza.
+            </p>
             {meta.tappeMappa.length > 0 && (
               <div id="mappa" className="scroll-mt-24">
                 <h2 className="font-display text-2xl text-alpine">La rotta</h2>
@@ -336,42 +383,6 @@ function SignatureViaggioContent({
             <FirmaAutore />
           </div>
 
-          {/* La colonna scorre con la pagina: resta attaccato in alto solo l'indice, in fondo alla colonna */}
-          <aside className="flex flex-col gap-6">
-
-            {viaggio.schedaPratica && (
-              <div className="rounded-none border border-alpine/10 bg-cream-dark/50 p-6">
-                <h2 className="font-display text-lg text-alpine">Scheda pratica</h2>
-                {viaggio.periodo && viaggio.periodo !== viaggio.periodoBreve && (
-                  <p className="mt-4 text-sm leading-relaxed text-stone">
-                    <span className="font-semibold text-ink">Periodo: </span>
-                    {viaggio.periodo}
-                  </p>
-                )}
-                {viaggio.durata && viaggio.durata !== viaggio.durataBreve && (
-                  <p className="mt-4 text-sm leading-relaxed text-stone">
-                    <span className="font-semibold text-ink">Durata: </span>
-                    {viaggio.durata}
-                  </p>
-                )}
-                {viaggio.compagni && (
-                  <p className="mt-4 text-sm leading-relaxed text-stone">
-                    <span className="font-semibold text-ink">Compagni di viaggio: </span>
-                    {viaggio.compagni}
-                  </p>
-                )}
-                <Prose className="mt-4 text-sm prose-ul:my-0 prose-li:my-1.5">{viaggio.schedaPratica}</Prose>
-              </div>
-            )}
-
-            <p className="text-xs leading-relaxed text-stone/60">
-              {viaggio.periodo ? `Viaggio effettuato nel periodo: ${viaggio.periodo} · ` : ''}Pagina aggiornata il{' '}
-              {new Date().toLocaleDateString('it-IT', { year: 'numeric', month: 'long', day: 'numeric' })}.
-              <br />
-              Prezzi, orari, documenti e traghetti vanno sempre verificati prima della partenza.
-            </p>
-            {toc.length > 0 && <StickyTableOfContents items={toc} />}
-          </aside>
         </Container>
       </section>
     </>
