@@ -21,7 +21,7 @@ Guida nuova: `src/content/viaggi/80-canada-itinerario.md` (slug `canada-itinerar
 - [ ] **Date del viaggio**: quando è stato fatto (mese e anno) e quanti giorni è durato. Oggi nell'intestazione c'è un periodo consigliato, non quello reale.
 - [ ] **Tappe fatte davvero**: Toronto, Niagara, Mille Isole, Kingston, Ottawa, Mont-Tremblant, Montréal, Québec (con Montmorency e Île d'Orléans), Charlevoix, Tadoussac. Quali sì, quali no, e in che ordine? Le destinazioni non confermate restano «non visitate» sul sito.
 - [ ] **Noleggio**: dove è stato ritirato e riconsegnato il pick-up (Toronto, Montréal, altro) e se c'era un supplemento di sola andata.
-- [ ] **Prezzo dell'elicottero**: Rick ha detto «sui 250-300 dollari»; le tariffe 2026 trovate partono da circa 171 CAD più HST a persona (circa 193 CAD con le tasse). Era il prezzo per due persone, di un volo più lungo, di un pacchetto, oppure in dollari canadesi tasse comprese?
+- [x] **Prezzo dell'elicottero**: chiarito il 31/10, Rick ricorda «a spanne sui 200 dollari»; coerente con le tariffe 2026 (da circa 171 CAD più HST).
 - [ ] **Battello**: confermare di aver fatto anche il Voyage to the Falls (il testo lo dà per fatto, perché Rick lo confronta con l'elicottero).
 - [ ] **Aneddoti, hotel e ristoranti** dal diario, da aggiungere nelle sezioni «Apertura personale», giorni e «Dove dormire».
 - [ ] **Churchill**: resta un'estensione non fatta, con il disclaimer degli amici. Va bene il testo del disclaimer?

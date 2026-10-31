@@ -71,7 +71,7 @@ Il battello è il modo di vederle che a noi è piaciuto di più: **Voyage to the
 - Parcheggi vicino alle cascate a pagamento e cari: meglio lasciare l'auto in hotel e usare le navette WEGO
 
 ### Giorno 4 — Il Niagara in elicottero e Niagara-on-the-Lake
-La mattina è per l'elicottero. **Niagara Helicopters** vola tutti i giorni dalle 9 al tramonto, tempo permettendo, e non serve prenotare: si arriva alla base e si aspetta il turno. Il volo dura circa 9 minuti, 12 con l'imbarco, e passa sopra le gole del fiume e i due fronti delle cascate. Per noi è stato molto bello e scenografico, ma rende un po' meno che vedere le cascate da sotto, col battello. È la scelta giusta per chi non vuole bagnarsi. Noi abbiamo speso sui 250-300 dollari; le tariffe 2026 dei rivenditori partono da circa 171 dollari canadesi a persona più HST per il volo base, e il prezzo esatto si chiede alla base.
+La mattina è per l'elicottero. **Niagara Helicopters** vola tutti i giorni dalle 9 al tramonto, tempo permettendo, e non serve prenotare: si arriva alla base e si aspetta il turno. Il volo dura circa 9 minuti, 12 con l'imbarco, e passa sopra le gole del fiume e i due fronti delle cascate. Per noi è stato molto bello e scenografico, ma rende un po' meno che vedere le cascate da sotto, col battello. È la scelta giusta per chi non vuole bagnarsi. Quanto l'abbiamo pagato di preciso non me lo ricordo, a spanne sui 200 dollari a testa; le tariffe 2026 dei rivenditori partono da circa 171 dollari canadesi più HST per il volo base, e il prezzo esatto si chiede alla base.
 
 Il pomeriggio si risale la **Niagara Parkway**, la strada panoramica lungo il fiume, fino a **Niagara-on-the-Lake**, cittadina ottocentesca alla foce sul lago Ontario. Intorno ci sono le cantine della penisola del Niagara, famose per l'**icewine**, il vino dolce da uve vendemmiate ghiacciate.
 
@@ -208,7 +208,7 @@ Volo di rientro dall'aeroporto **Montréal-Trudeau (YUL)**, a una ventina di chi
 Prezzi verificati a ottobre 2026, a persona; le tasse si aggiungono quasi sempre al prezzo esposto:
 - **eTA:** 7 CAD.
 - **Battello Voyage to the Falls:** 47,95 CAD più HST.
-- **Volo in elicottero sul Niagara:** noi sui 250-300 dollari; nei listini 2026 il volo base parte da circa 171 CAD più HST a persona.
+- **Volo in elicottero sul Niagara:** a spanne sui 200 dollari a testa (non ricordo il prezzo preciso); nei listini 2026 il volo base parte da circa 171 CAD più HST a persona.
 - **Journey Behind the Falls:** intorno ai 30 CAD più HST.
 - **CN Tower:** intorno ai 43 CAD.
 - **Crociera delle balene a Tadoussac (3 ore):** da 134,99 CAD più tasse.
@@ -235,7 +235,7 @@ Viaggio fatto da Rick. Dal suo racconto vengono il noleggio del pick-up, il giud
 ## Materiale grezzo (appunti, non ancora editato)
 **Note di redazione:**
 - Ricordi personali, aneddoti e date del viaggio da aggiungere dal diario di Rick.
-- Rick ha indicato il giro in elicottero «sui 250-300 dollari»: le tariffe 2026 trovate partono da circa 171 CAD più HST a persona (circa 193 CAD tasse incluse). Da chiarire se la sua cifra era per due persone, per un volo più lungo o in un pacchetto.
+- Elicottero: Rick ricorda «a spanne sui 200 dollari», senza il prezzo preciso; le tariffe 2026 trovate partono da circa 171 CAD più HST a persona (circa 193 CAD con le tasse), quindi tornano.
 - Da confermare con Rick quali tappe ha fatto davvero (Mille Isole, Kingston, Mont-Tremblant, Charlevoix, Tadoussac) e se ha riconsegnato il pick-up a Montréal o a Toronto.
 - Prezzi verificati il 30/10/2026: eTA (canada.ca), 407 ETR (tariffe 2026), Croisières AML (stagione e prezzo 2026). Presi da guide e rivenditori, non da pagine ufficiali: Voyage to the Falls (47,95 CAD), Niagara Helicopters (171 CAD più HST), Journey Behind the Falls (circa 30 CAD), CN Tower (circa 43 CAD), voli Calm Air (700-1.400 CAD). Frontiers North: prezzo 2026 delle uscite d'autunno non pubblicato al momento della verifica.
 - Data di chiusura stagionale 2026 del battello del Niagara non confermata dall'operatore.
