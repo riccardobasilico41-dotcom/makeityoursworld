@@ -30,17 +30,18 @@ export function InfoPratiche({ voci, titolo = 'Informazioni pratiche' }: { voci:
             const lg = { 0: 'lg:col-span-1', 1: 'lg:col-span-3', 2: 'lg:col-span-2' }[piene.length % 3]
             const larga = ultima ? `${piene.length % 2 === 1 ? 'col-span-2' : ''} ${lg}` : ''
             return (
-            <div key={label} className={`flex gap-2.5 bg-cream p-3.5 sm:gap-3 sm:p-5 ${larga}`}>
-              <Icona size={20} aria-hidden className="mt-0.5 hidden shrink-0 text-rosso min-[400px]:block" />
-              <div className="min-w-0">
-                <dt className="text-[11px] font-semibold uppercase tracking-wider text-stone/70 sm:text-xs">{label}</dt>
-                <dd className="mt-1 text-sm leading-relaxed text-ink">{richNodes(value!)}</dd>
-              </div>
+            // dt e dd figli diretti del div (HTML valido per <dl>); l'icona sta nel dt, in posizione assoluta
+            <div key={label} className={`relative min-w-0 bg-cream p-3.5 min-[400px]:pl-11 sm:p-5 sm:pl-13 ${larga}`}>
+              <dt className="text-[11px] font-semibold uppercase tracking-wider text-stone/85 sm:text-xs">
+                <Icona size={20} aria-hidden className="absolute left-3.5 top-4 hidden text-rosso min-[400px]:block sm:left-5 sm:top-[1.375rem]" />
+                {label}
+              </dt>
+              <dd className="mt-1 text-sm leading-relaxed text-ink">{richNodes(value!)}</dd>
             </div>
             )
           })}
         </dl>
-        <p className="mt-3 flex items-center gap-1.5 text-xs text-stone/70">
+        <p className="mt-3 flex items-center gap-1.5 text-xs text-stone/85">
           <ArrowUpRight size={12} aria-hidden />
           Prezzi, orari e disponibilità cambiano: conviene ricontrollarli prima di partire.
         </p>

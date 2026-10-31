@@ -2,9 +2,8 @@
 
 import { useMemo, useState } from 'react'
 import { SlidersHorizontal } from 'lucide-react'
-import { TripCard } from './TripCard'
+import { TripCard, type ViaggioScheda } from './TripCard'
 import { RevealGroup, RevealItem } from './Reveal'
-import type { Viaggio } from '@/lib/viaggi'
 import { getContinente, raggruppaPerContinente } from '@/lib/utils'
 
 // Tipologia/attività: derivati da categoria e tag già presenti in ogni file
@@ -29,7 +28,7 @@ function escapeRegExp(s: string): string {
   return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
 }
 
-function stiliDelViaggio(viaggio: Viaggio): string[] {
+function stiliDelViaggio(viaggio: ViaggioScheda): string[] {
   const testo = [...viaggio.categorie, ...viaggio.tags].join(' ').toLowerCase()
   // Confini di parola: un match per substring semplice ("sci" dentro
   // "rinascimento") è un falso positivo reale, trovato testando il filtro —
@@ -55,7 +54,7 @@ const FASCE_DURATA: FasciaDurata[] = [
 ]
 
 /** Legge il numero di giorni dall'inizio del campo "Durata" del markdown (es. "12 giorni, 11 notti" → 12). */
-function giorniDelViaggio(viaggio: Viaggio): number | null {
+function giorniDelViaggio(viaggio: ViaggioScheda): number | null {
   const match = viaggio.durata.match(/^(\d+)/)
   return match ? Number(match[1]) : null
 }
@@ -65,7 +64,7 @@ function giorniDelViaggio(viaggio: Viaggio): number | null {
  * da campi già presenti in ogni file .md, nessun dato nuovo da mantenere),
  * con i risultati sempre divisi per macro-regione.
  */
-export function TripFilters({ viaggi }: { viaggi: Viaggio[] }) {
+export function TripFilters({ viaggi }: { viaggi: ViaggioScheda[] }) {
   const [continente, setContinente] = useState<string>('tutti')
   const [paese, setPaese] = useState<string>('tutti')
   const [stiliAttivi, setStiliAttivi] = useState<string[]>([])
@@ -186,7 +185,7 @@ export function TripFilters({ viaggi }: { viaggi: Viaggio[] }) {
       </div>
 
       <div className="mt-3">
-        <p className="text-xs font-semibold uppercase tracking-wider text-stone/60">Tipologia / attività</p>
+        <p className="text-xs font-semibold uppercase tracking-wider text-stone/85">Tipologia / attività</p>
         <div className="mt-2 flex flex-wrap gap-2">
           {STILI_NOTI.map((stile) => {
             const attivo = stiliAttivi.includes(stile)
@@ -210,7 +209,7 @@ export function TripFilters({ viaggi }: { viaggi: Viaggio[] }) {
       </div>
       </div>
 
-      <p className="mt-4 text-sm text-stone/70">
+      <p className="mt-4 text-sm text-stone/85">
         {filtrati.length} {filtrati.length === 1 ? 'viaggio trovato' : 'viaggi trovati'}
       </p>
 
@@ -221,7 +220,7 @@ export function TripFilters({ viaggi }: { viaggi: Viaggio[] }) {
               <div key={continente}>
                 <div className="flex items-baseline gap-4 border-b border-alpine/15 pb-3">
                   <h2 className="font-display text-[clamp(1.6rem,2.4vw,2.1rem)] text-alpine">{continente}</h2>
-                  <span className="text-xs font-semibold uppercase tracking-[0.18em] text-stone/60">
+                  <span className="text-xs font-semibold uppercase tracking-[0.18em] text-stone/85">
                     {items.length} {items.length === 1 ? 'viaggio' : 'viaggi'}
                   </span>
                 </div>

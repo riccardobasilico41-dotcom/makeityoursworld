@@ -17,7 +17,7 @@ export function BudgetBreakdown({ voci }: { voci: VoceBudget[] }) {
                 </td>
                 <td
                   className={`px-5 py-3 text-right ${
-                    voce.valore ? 'text-ink' : 'italic text-stone/60'
+                    voce.valore ? 'text-ink' : 'italic text-stone/85'
                   } ${isTotale ? 'font-semibold text-alpine' : ''}`}
                 >
                   {voce.valore}

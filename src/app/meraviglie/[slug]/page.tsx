@@ -184,7 +184,7 @@ export default async function MeravigliaPage({ params }: { params: Promise<{ slu
                 ]}
               />
             </div>
-            <p className="flex items-center gap-1.5 text-xs text-stone/60">
+            <p className="flex items-center gap-1.5 text-xs text-stone/85">
               <ArrowUpRight size={12} />
               Prezzi, orari e regole di prenotazione cambiano spesso: verificare sempre sui canali ufficiali prima di partire.
             </p>

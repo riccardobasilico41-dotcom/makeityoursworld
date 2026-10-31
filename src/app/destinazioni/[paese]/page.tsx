@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import { Filigrana } from '@/components/Filigrana'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { ArrowRight } from 'lucide-react'
@@ -60,6 +61,7 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
 
   return (
     <>
+      <Filigrana paese={paeseSlug} />
       <JsonLd
         data={[
           jsonLd,
@@ -106,21 +108,21 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
                   )}
                   <dl className="mt-6 flex flex-wrap gap-x-8 gap-y-3 text-sm">
                     <div>
-                      <dt className="text-xs font-semibold uppercase tracking-wider text-stone/60">Durata</dt>
+                      <dt className="text-xs font-semibold uppercase tracking-wider text-stone/85">Durata</dt>
                       <dd className="text-ink">{tripPrincipale.durataBreve || '13 giorni'}</dd>
                     </div>
                     {tripMeta && (
                       <>
                         <div>
-                          <dt className="text-xs font-semibold uppercase tracking-wider text-stone/60">Trasporti</dt>
+                          <dt className="text-xs font-semibold uppercase tracking-wider text-stone/85">Trasporti</dt>
                           <dd className="text-ink">{richNodes(tripMeta.trasporti)}</dd>
                         </div>
                         <div>
-                          <dt className="text-xs font-semibold uppercase tracking-wider text-stone/60">Stile</dt>
+                          <dt className="text-xs font-semibold uppercase tracking-wider text-stone/85">Stile</dt>
                           <dd className="text-ink">{tripMeta.stile.join(' · ')}</dd>
                         </div>
                         <div>
-                          <dt className="text-xs font-semibold uppercase tracking-wider text-stone/60">Ritmo</dt>
+                          <dt className="text-xs font-semibold uppercase tracking-wider text-stone/85">Ritmo</dt>
                           <dd className="text-ink">{richNodes(tripMeta.ritmo)}</dd>
                         </div>
                       </>
@@ -145,7 +147,7 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
 
                 {tripMeta && (
                   <div>
-                    <p className="text-xs font-semibold uppercase tracking-wider text-stone/60">Principali tappe</p>
+                    <p className="text-xs font-semibold uppercase tracking-wider text-stone/85">Principali tappe</p>
                     <RouteTimeline tappe={tripMeta.tappeMappa} paeseSlug={paeseSlug} />
                   </div>
                 )}

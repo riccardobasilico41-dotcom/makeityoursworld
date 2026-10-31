@@ -69,7 +69,8 @@ export function GiorniBarraMobile({
               <a
                 href={`#${g.id}`}
                 onClick={() => setAttivo(i)}
-                aria-label={`${unitaLabel} ${g.numero}`}
+                // il nome accessibile comincia con il testo visibile (es. «G1»), poi lo spiega
+                aria-label={`${sigla}${g.numero}, ${unitaLabel.toLowerCase()} ${g.numero}`}
                 aria-current={corrente ? 'step' : undefined}
                 className={`flex h-11 min-w-11 items-center justify-center border-2 px-2.5 text-sm font-semibold tabular-nums transition-colors duration-150 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-rosso focus-visible:ring-offset-1 motion-reduce:transition-none ${
                   corrente ? 'border-rosso bg-rosso text-cream' : 'border-ink/20 bg-white text-ink hover:border-ink'

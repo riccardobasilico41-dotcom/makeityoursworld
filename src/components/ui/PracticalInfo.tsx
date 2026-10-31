@@ -22,7 +22,7 @@ export function PracticalInfo({ items, className = '' }: { items: PracticalInfoI
           key={item.label}
           className="rounded-none border border-alpine/10 bg-white p-4"
         >
-          <dt className="text-xs font-semibold uppercase tracking-wider text-stone/70">{item.label}</dt>
+          <dt className="text-xs font-semibold uppercase tracking-wider text-stone/85">{item.label}</dt>
           {item.href ? (
             <Link
               href={item.href}

@@ -64,7 +64,7 @@ export function CountrySheet({ scheda }: { scheda: SchedaPaese }) {
         )
       })}
 
-      <p className="flex items-start gap-1.5 text-xs text-stone/60">
+      <p className="flex items-start gap-1.5 text-xs text-stone/85">
         <ArrowUpRight size={12} className="mt-0.5 shrink-0" />
         Scheda verificata a {scheda.aggiornatoAl}. Regole d&apos;ingresso, prezzi e livelli di sicurezza cambiano:
         controlla sempre le fonti ufficiali del tuo paese prima di partire.

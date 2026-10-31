@@ -62,32 +62,32 @@ export function DayTimeline({
               {info && (
                 <dl className="mt-4 grid gap-3 border-b border-alpine/10 pb-4 text-sm sm:grid-cols-3">
                   {info.tratta && (
-                    <div className="flex items-start gap-2">
-                      <Route size={15} className="mt-0.5 shrink-0 text-stone/60" />
-                      <div>
-                        <dt className="text-xs text-stone/60">Tratta</dt>
-                        <dd className="text-ink">{info.tratta}</dd>
-                      </div>
+                    <div className="relative pl-[23px]">
+                      <dt className="text-xs text-stone/85">
+                        <Route size={15} aria-hidden="true" className="absolute left-0 top-0.5 text-stone/60" />
+                        Tratta
+                      </dt>
+                      <dd className="text-ink">{info.tratta}</dd>
                     </div>
                   )}
                   {info.pernottamento && (
-                    <div className="flex items-start gap-2">
-                      <BedDouble size={15} className="mt-0.5 shrink-0 text-stone/60" />
-                      <div>
-                        <dt className="text-xs text-stone/60">Pernottamento</dt>
-                        <dd className="flex flex-wrap items-center gap-1.5 text-ink">
-                          {info.pernottamento}
-                        </dd>
-                      </div>
+                    <div className="relative pl-[23px]">
+                      <dt className="text-xs text-stone/85">
+                        <BedDouble size={15} aria-hidden="true" className="absolute left-0 top-0.5 text-stone/60" />
+                        Pernottamento
+                      </dt>
+                      <dd className="flex flex-wrap items-center gap-1.5 text-ink">
+                        {info.pernottamento}
+                      </dd>
                     </div>
                   )}
                   {info.costiNoti && (
-                    <div className="flex items-start gap-2">
-                      <Coins size={15} className="mt-0.5 shrink-0 text-stone/60" />
-                      <div>
-                        <dt className="text-xs text-stone/60">Costi noti</dt>
-                        <dd className="text-ink">{info.costiNoti}</dd>
-                      </div>
+                    <div className="relative pl-[23px]">
+                      <dt className="text-xs text-stone/85">
+                        <Coins size={15} aria-hidden="true" className="absolute left-0 top-0.5 text-stone/60" />
+                        Costi noti
+                      </dt>
+                      <dd className="text-ink">{info.costiNoti}</dd>
                     </div>
                   )}
                 </dl>

@@ -255,7 +255,8 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
                     tabIndex={on ? 0 : -1}
                     aria-hidden={on ? undefined : true}
                     aria-pressed={isSel}
-                    aria-label={`${dest ? 'Destinazione' : 'Esperienza'}: ${p.nome}`}
+                    // il numero visibile sul pin fa parte del nome accessibile (chi usa la voce lo pronuncia)
+                    aria-label={dest ? `Destinazione ${numero.get(p.id)}: ${p.nome}` : `Esperienza: ${p.nome}`}
                     onClick={() => on && scegli(p)}
                     onKeyDown={(e) => tasto(e, p)}
                     className={`group cursor-pointer outline-none transition-opacity duration-300 ${on ? '' : 'pointer-events-none opacity-15'}`}
@@ -346,7 +347,7 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
               )}
             </div>
           </div>
-          <p className="mt-2 text-[11px] leading-snug text-stone/70">
+          <p className="mt-2 text-[11px] leading-snug text-stone/85">
             Contorni: Natural Earth. Luoghi:{' '}
             <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer" className="underline underline-offset-2 hover:text-rosso">
               © OpenStreetMap
@@ -370,7 +371,7 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
               </Link>
               {legati.length > 0 && (
                 <div className="mt-8">
-                  <p className="text-xs font-semibold uppercase tracking-wider text-stone/60">
+                  <p className="text-xs font-semibold uppercase tracking-wider text-stone/85">
                     {sel.tipo === 'destinazione' ? 'Da fare qui' : 'Dove si trova'}
                   </p>
                   <ul className="mt-2 divide-y divide-alpine/10 border-y border-alpine/10">
@@ -431,7 +432,7 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
                   ))}
               </ul>
               {punti.filter((p) => visibile(p)).length > 12 && (
-                <p className="mt-2 text-xs text-stone/70">E altri {punti.filter((p) => visibile(p)).length - 12} punti sulla mappa.</p>
+                <p className="mt-2 text-xs text-stone/85">E altri {punti.filter((p) => visibile(p)).length - 12} punti sulla mappa.</p>
               )}
             </div>
           )}

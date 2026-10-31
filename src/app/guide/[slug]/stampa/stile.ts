@@ -99,7 +99,7 @@ main { display: block; }
 
 /* Mappa */
 .mappa-griglia { display: block; }
-.mappa { display: block; height: 160mm; width: auto; margin: 0 auto 2mm; }
+.mappa { display: block; width: 100%; height: auto; max-height: 160mm; margin: 0 auto 2mm; }
 .m-nome { font: 700 9.5px var(--font-schibsted), Arial, sans-serif; fill: #161412; }
 .m-giorno { font: 400 8px var(--font-schibsted), Arial, sans-serif; fill: #B3261E; }
 .m-acqua { font: italic 400 8px var(--font-schibsted), Arial, sans-serif; fill: #5b7a86; }
@@ -145,6 +145,14 @@ main { display: block; }
 .casella { flex: none; width: 3mm; height: 3mm; border: .8px solid #161412; margin-top: .4mm; }
 .frasi td { padding: .9mm 1mm .9mm 0; }
 .frasi .ar { font-weight: 700; font-style: italic; }
+.frasi .scritto { font-style: normal; font-weight: 400; color: #4A4640; font-family: "Hiragino Sans", "Sinhala Sangam MN", "Noto Sans Sinhala", sans-serif; }
+.giorno-fino { font-size: 22pt; }
+.giorno-titolo { flex: 1; min-width: 0; }
+.giorno-sito { flex: none; text-align: center; }
+.giorno-sito p { margin: .5mm 0 0; font-size: 5.6pt; color: #8a847b; text-transform: uppercase; letter-spacing: .06em; }
+.qr-griglia { display: grid; grid-template-columns: 1fr 1fr; gap: 4mm 5mm; margin-top: 3mm; }
+.qr-voce { break-inside: avoid; font-size: 7.4pt; }
+.qr-voce p { margin: 1mm 0 0; }
 
 /* Fonti */
 .elenco-fonti { font-size: 6.4pt; padding-left: 5mm; margin: 0; columns: 1; }

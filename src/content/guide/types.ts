@@ -18,7 +18,8 @@ export type LuogoGuida = {
   indirizzo?: string
   orari?: string
   biglietto?: string
-  jordanPass?: 'incluso' | 'non incluso'
+  /** Se il sito è compreso nel pass del paese (Jordan Pass, Boleto Turístico…): il nome sta in `Guida.pass.nome`. */
+  pass?: 'incluso' | 'non incluso'
   telefono?: string
   web?: string
   gps?: Gps
@@ -45,16 +46,24 @@ export type TrattaGuida = {
   a: string
   km: number
   minuti: number
+  /** Mezzo, se non è l'auto: «Shinkansen Hikari», «bus notturno», «volo»… */
+  mezzo?: string
   /** Tempo annotato nel viaggio, se diverso dalla stima stradale. */
   nelMioViaggio?: string
 }
 
 export type GiornoGuida = {
   numero: number
+  /** Ultimo giorno, se la scheda copre più giorni (es. un trek di 4 giorni). */
+  fino?: number
   titolo: string
+  /** Pagina del sito collegata (es. '/destinazioni/giappone/kyoto'): diventa un QR nella scheda. */
+  paginaSito?: string
   /** Riassunto in prima persona, dal diario del viaggio. */
   racconto: string
   tratte: TrattaGuida[]
+  /** Testo al posto della tabella quando il giorno non ha spostamenti. */
+  senzaStrada?: string
   luoghi: LuogoGuida[]
   mangiare: ContattoGuida[]
   dormire: string
@@ -78,7 +87,8 @@ export type SezioneTesto = {
   righe: RigaTabella[]
 }
 
-export type FraseGuida = { it: string; ar: string; nota?: string }
+/** `loc` = pronuncia traslitterata nella lingua locale; `scritto` = grafia originale (kana, singalese…), facoltativa. */
+export type FraseGuida = { it: string; loc: string; scritto?: string; nota?: string }
 
 export type RigaBudget = { voce: string; costo?: string; nota?: string }
 
@@ -94,10 +104,33 @@ export type Guida = {
   cosaInPiu: string[]
   tappe: TappaMappa[]
   giorni: GiornoGuida[]
-  jordanPass?: {
+  mappa: {
+    /** Nomi (inizio del nome) delle tappe nell'ordine del percorso: linea piena. */
+    percorso: string[]
+    /** Tratto di rientro, tratteggiato. */
+    ritorno?: string[]
+    /** Laghi, mari, golfi da disegnare (poligoni in [lat, lng]). */
+    acque?: { nome: string; punti: Gps[]; etichetta: Gps; allinea?: 'start' | 'end' }[]
+    legenda: string
+    /** Nota sotto la tabella delle tratte (come sono stati calcolati i tempi). */
+    notaTempi: string
+    notaTempiFonti?: string[]
+    /** Lunghezza della barra di scala. */
+    scalaKm?: number
+  }
+  /** Pass o biglietto cumulativo del paese (Jordan Pass, JR Pass, Boleto Turístico…). */
+  pass?: {
+    nome: string
+    /** Titolo della pagina, es. «Jordan Pass: conviene?» */
+    titolo: string
+    occhiello?: string
     regola: string
     scenari: { situazione: string; scelta: string }[]
-    calcolo: { voce: string; senzaPass: number; conPass: number }[]
+    calcolo?: { voce: string; senzaPass: number; conPass: number }[]
+    /** Intestazione della tabella di calcolo, es. «Il conto su questo itinerario (JOD)». */
+    calcoloTitolo?: string
+    /** Riquadro nero di chiusura. */
+    esito?: string
     fonti: string[]
   }
   primaDiPartire: SezioneTesto[]
@@ -106,11 +139,21 @@ export type Guida = {
     ambasciata: ContattoGuida[]
     ospedali: ContattoGuida[]
   }
-  contatti: { gruppo: string; nota?: string; voci: ContattoGuida[] }[]
-  budget: { righe: RigaBudget[]; nota: string }
+  contatti: { gruppo: string; nota?: string; notaFonti?: string[]; voci: ContattoGuida[] }[]
+  budget: { righe: RigaBudget[]; nota: string; cambio?: string; cambioFonti?: string[] }
   valigia: { gruppo: string; voci: string[] }[]
+  lingua: {
+    /** Occhiello della pagina, es. «Arabo giordano, traslitterato». */
+    nome: string
+    /** Come si legge la trascrizione. */
+    pronuncia: string
+  }
   frasario: { gruppo: string; frasi: FraseGuida[] }[]
   numeri: FraseGuida[]
+  /** Pagine del sito da aprire con il QR (percorso relativo, es. '/viaggi/giappone-itinerario'). */
+  pagineSito?: { titolo: string; path: string }[]
   nonVerificato: string[]
+  /** Frase sulla data di consultazione delle fonti. */
+  consultate: string
   fonti: FonteGuida[]
 }

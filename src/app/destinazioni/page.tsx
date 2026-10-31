@@ -51,7 +51,7 @@ export default function DestinazioniIndexPage() {
             <div key={continente}>
               <div className="flex items-baseline gap-4 border-b border-alpine/15 pb-3">
                 <h2 className="font-display text-[clamp(1.6rem,2.4vw,2.1rem)] text-alpine">{continente}</h2>
-                <span className="text-xs font-semibold uppercase tracking-[0.18em] text-stone/60">
+                <span className="text-xs font-semibold uppercase tracking-[0.18em] text-stone/85">
                   {items.length} {items.length === 1 ? 'Paese' : 'Paesi'}
                 </span>
               </div>

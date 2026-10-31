@@ -76,7 +76,7 @@ export function TripOpener({
             src={copertina.immagine}
             alt={copertina.imageAlt}
             fill
-            priority
+            preload
             sizes="100vw"
             className="object-cover"
           />

@@ -8,7 +8,6 @@ export const alt = `${siteConfig.brandName} — ${siteConfig.tagline}`
 export default function Image() {
   return ogImage({
     eyebrow: 'Diario di viaggio',
-    titolo: siteConfig.brandName,
-    sottotitolo: 'Itinerari giorno per giorno, schede pratiche e consigli, un continente alla volta',
+    titolo: 'Itinerari giorno per giorno, un continente alla volta',
   })
 }

@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import { Filigrana } from '@/components/Filigrana'
 import { SalvaBottone } from '@/components/SalvaBottone'
 import { FirmaAutore, FirmaBreve } from '@/components/FirmaAutore'
 import { OrganizzaViaggio } from '@/components/OrganizzaViaggio'
@@ -169,6 +170,7 @@ function SignatureViaggioContent({
 }) {
   return (
     <>
+      <Filigrana paese={meta.paeseSlug} />
       <PageHeader
         crumbs={[{ label: 'Home', href: '/' }, { label: 'Viaggi', href: '/viaggi' }, { label: viaggio.titolo }]}
         eyebrow={getContinente(viaggio.categorie)}
@@ -211,7 +213,7 @@ function SignatureViaggioContent({
           <div className="space-y-16">
             {toc.length > 0 && (
               <nav aria-label="In questa pagina" className="-mt-6 flex flex-wrap items-center gap-2 text-sm">
-                <span className="mr-1 text-xs font-semibold uppercase tracking-[0.18em] text-stone/70">In questa pagina</span>
+                <span className="mr-1 text-xs font-semibold uppercase tracking-[0.18em] text-stone/85">In questa pagina</span>
                 {[...(viaggio.schedaPratica ? [{ href: '#scheda-pratica', label: 'Scheda pratica' }] : []), ...toc]
                   .filter((v, i, a) => a.findIndex((x) => x.href === v.href) === i)
                   .map((v) => (
@@ -239,7 +241,7 @@ function SignatureViaggioContent({
                   <dl className="mt-4 grid gap-4 sm:grid-cols-2">
                     {CAMPI_VIAGGIO_IN_BREVE.filter(({ key }) => meta.viaggioInBreve[key]).map(({ key, label }) => (
                       <div key={key} className="rounded-none border border-alpine/10 p-4">
-                        <dt className="text-xs font-semibold uppercase tracking-wider text-stone/70">{label}</dt>
+                        <dt className="text-xs font-semibold uppercase tracking-wider text-stone/85">{label}</dt>
                         <dd className="mt-1.5 text-sm leading-relaxed text-ink">{meta.viaggioInBreve[key]}</dd>
                       </div>
                     ))}
@@ -273,7 +275,7 @@ function SignatureViaggioContent({
               </div>
             )}
 
-            <p className="text-xs leading-relaxed text-stone/60">
+            <p className="text-xs leading-relaxed text-stone/85">
               {viaggio.periodo ? `Viaggio effettuato nel periodo: ${viaggio.periodo} · ` : ''}Pagina aggiornata il{' '}
               {new Date().toLocaleDateString('it-IT', { year: 'numeric', month: 'long', day: 'numeric' })}.
               <br />

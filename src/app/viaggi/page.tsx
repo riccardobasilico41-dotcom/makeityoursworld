@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import { Container } from '@/components/ui/Container'
 import { PageHeader } from '@/components/ui/PageHeader'
 import { TripFilters } from '@/components/TripFilters'
+import { riduciPerScheda } from '@/components/TripCard'
 import { getAllViaggi } from '@/lib/viaggi'
 import { siteConfig } from '@/lib/site-config'
 import { pageMetadata } from '@/lib/seo'
@@ -40,7 +41,7 @@ export default function ViaggiIndexPage() {
       />
       <section className="py-14 sm:py-20">
         <Container>
-          <TripFilters viaggi={viaggi} />
+          <TripFilters viaggi={viaggi.map(riduciPerScheda)} />
         </Container>
       </section>
     </>

@@ -1,6 +1,7 @@
 'use client'
 
 import { useEffect, useLayoutEffect, useRef, useState } from 'react'
+import { preload } from 'react-dom'
 import { Pause, Play } from 'lucide-react'
 
 /**
@@ -27,6 +28,8 @@ export function HeroVideo({
 }) {
   const ref = useRef<HTMLVideoElement>(null)
   const [inPausa, setInPausa] = useState(true)
+  // Il fotogramma d'apertura è l'elemento LCP: si chiede subito, dal <head>, con priorità alta.
+  preload(poster, { as: 'image', fetchPriority: 'high' })
 
   // Prima del primo disegno: niente lampo del titolo sopra «WORLD.».
   useLayoutEffect(() => {

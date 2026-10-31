@@ -42,7 +42,7 @@ export function MeravigliaHeroMedia({
   }
 
   if (image) {
-    return <Image src={image} alt={imageAlt} fill priority sizes="100vw" className="object-cover" />
+    return <Image src={image} alt={imageAlt} fill preload sizes="100vw" className="object-cover" />
   }
 
   return null

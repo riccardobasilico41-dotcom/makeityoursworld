@@ -3,14 +3,14 @@
 import { useRef, useEffect, useState } from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
-import { gsap } from 'gsap'
-import { ScrollTrigger } from 'gsap/ScrollTrigger'
 import { ArrowRight } from 'lucide-react'
 import { Container } from '@/components/ui/Container'
 import { RouteLine } from './RouteLine'
 import type { PuntoTappa } from './geo'
 
-gsap.registerPlugin(ScrollTrigger)
+// gsap si scarica solo dove serve il pin (schermi larghi, senza riduzione del movimento):
+// sul telefono non arriva mai, e non pesa sulle altre pagine che precaricano la Home.
+const QUERY_PIN = '(min-width: 1024px) and (prefers-reduced-motion: no-preference)'
 
 export type BeatViaggio = {
   eyebrow: string
@@ -55,44 +55,64 @@ export function FeaturedJourney({
   useEffect(() => {
     if (!wrapperRef.current) return
 
-    const mm = gsap.matchMedia()
+    const mq = window.matchMedia(QUERY_PIN)
+    let annullato = false
+    let caricato = false
+    let revert: (() => void) | undefined
 
-    mm.add(
-      { pinnable: '(min-width: 1024px) and (prefers-reduced-motion: no-preference)' },
-      (context) => {
-        const { pinnable } = context.conditions as { pinnable: boolean }
-        if (!pinnable) {
-          setPinAttivo(false)
-          return
+    async function avvia() {
+      if (caricato || !mq.matches) return
+      caricato = true
+      const [{ gsap }, { ScrollTrigger }] = await Promise.all([import('gsap'), import('gsap/ScrollTrigger')])
+      if (annullato) return
+      gsap.registerPlugin(ScrollTrigger)
+
+      const mm = gsap.matchMedia()
+      revert = () => mm.revert()
+
+      mm.add(
+        { pinnable: QUERY_PIN },
+        (context) => {
+          const { pinnable } = context.conditions as { pinnable: boolean }
+          if (!pinnable) {
+            setPinAttivo(false)
+            return
+          }
+          setPinAttivo(true)
+
+          const ctx = gsap.context(() => {
+            const beats = beatRefs.current.filter((b): b is HTMLDivElement => b !== null)
+            gsap.set(beats.slice(1), { autoAlpha: 0, y: 24 })
+
+            const tl = gsap.timeline({
+              scrollTrigger: {
+                trigger: wrapperRef.current,
+                start: 'top top',
+                end: `+=${beats.length * 90}%`,
+                pin: true,
+                scrub: 0.6,
+              },
+            })
+
+            beats.forEach((beat, i) => {
+              if (i === 0) return
+              tl.to(beats[i - 1], { autoAlpha: 0, y: -24, duration: 0.4 }, i - 0.5)
+              tl.to(beat, { autoAlpha: 1, y: 0, duration: 0.4 }, i - 0.5)
+            })
+          }, wrapperRef)
+
+          return () => ctx.revert()
         }
-        setPinAttivo(true)
+      )
+    }
 
-        const ctx = gsap.context(() => {
-          const beats = beatRefs.current.filter((b): b is HTMLDivElement => b !== null)
-          gsap.set(beats.slice(1), { autoAlpha: 0, y: 24 })
-
-          const tl = gsap.timeline({
-            scrollTrigger: {
-              trigger: wrapperRef.current,
-              start: 'top top',
-              end: `+=${beats.length * 90}%`,
-              pin: true,
-              scrub: 0.6,
-            },
-          })
-
-          beats.forEach((beat, i) => {
-            if (i === 0) return
-            tl.to(beats[i - 1], { autoAlpha: 0, y: -24, duration: 0.4 }, i - 0.5)
-            tl.to(beat, { autoAlpha: 1, y: 0, duration: 0.4 }, i - 0.5)
-          })
-        }, wrapperRef)
-
-        return () => ctx.revert()
-      }
-    )
-
-    return () => mm.revert()
+    avvia()
+    mq.addEventListener('change', avvia)
+    return () => {
+      annullato = true
+      mq.removeEventListener('change', avvia)
+      revert?.()
+    }
   }, [])
 
   return (
@@ -117,7 +137,7 @@ export function FeaturedJourney({
                     }}
                     className={pinAttivo && i > 0 ? 'absolute inset-x-0 top-0' : ''}
                   >
-                    <p className="font-mono text-xs uppercase tracking-[0.2em] text-stone/50">{beat.eyebrow}</p>
+                    <p className="font-mono text-xs uppercase tracking-[0.2em] text-stone/85">{beat.eyebrow}</p>
                     <div className="mt-4">{beat.contenuto}</div>
                   </div>
                 ))}

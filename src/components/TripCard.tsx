@@ -34,7 +34,26 @@ function IconaContinente({ continente, ...props }: { continente: string } & Luci
   return <Icona {...props} />
 }
 
-export function TripCard({ viaggio, featured = false }: { viaggio: Viaggio; featured?: boolean }) {
+/** Solo i campi che servono alla scheda: l'elenco /viaggi passa questi al client, non il testo intero dei viaggi. */
+export type ViaggioScheda = Pick<
+  Viaggio,
+  'slug' | 'titolo' | 'descrizione' | 'categorie' | 'tags' | 'durata' | 'durataBreve' | 'periodoBreve'
+>
+
+export function riduciPerScheda(v: Viaggio): ViaggioScheda {
+  return {
+    slug: v.slug,
+    titolo: v.titolo,
+    descrizione: v.descrizione,
+    categorie: v.categorie,
+    tags: v.tags,
+    durata: v.durata,
+    durataBreve: v.durataBreve,
+    periodoBreve: v.periodoBreve,
+  }
+}
+
+export function TripCard({ viaggio, featured = false }: { viaggio: ViaggioScheda; featured?: boolean }) {
   const continente = getContinente(viaggio.categorie)
   const copertina = copertineViaggi[viaggio.slug]
 
@@ -55,7 +74,7 @@ export function TripCard({ viaggio, featured = false }: { viaggio: Viaggio; feat
               src={copertina.immagine}
               alt={copertina.imageAlt}
               fill
-              sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
+              sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, calc(100vw - 3rem)"
               className="object-cover transition-transform duration-700 group-hover:scale-105"
             />
             <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/60 via-black/5 to-transparent" />
@@ -81,7 +100,7 @@ export function TripCard({ viaggio, featured = false }: { viaggio: Viaggio; feat
           {viaggio.titolo}
         </h3>
         <p className="text-sm leading-relaxed text-stone">{viaggio.descrizione}</p>
-        <div className="mt-auto flex flex-wrap items-center gap-x-4 gap-y-1 pt-2 text-xs text-stone/70">
+        <div className="mt-auto flex flex-wrap items-center gap-x-4 gap-y-1 pt-2 text-xs text-stone/85">
           {viaggio.periodoBreve && <span>{viaggio.periodoBreve}</span>}
           {viaggio.durataBreve && <span>· {viaggio.durataBreve}</span>}
         </div>

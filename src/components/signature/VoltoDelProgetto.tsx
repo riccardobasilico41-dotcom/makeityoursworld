@@ -36,7 +36,7 @@ export function VoltoDelProgetto() {
                 alt="Riccardo Basilico sorride con la macchina fotografica in spalla davanti al Taj Mahal di Agra"
                 width={920}
                 height={1150}
-                sizes="(min-width: 1024px) 28rem, 90vw"
+                sizes="(min-width: 1024px) 28rem, calc(100vw - 3rem)"
                 className="relative block h-auto w-full border-2 border-ink"
               />
             </div>

@@ -1,8 +1,8 @@
 /* eslint-disable @next/next/no-img-element -- pagina solo per la stampa in PDF: servono <img> semplici, caricati subito */
 import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
-import { guide } from '@/content/guide/giordania-itinerario'
-import type { ContattoGuida, Gps, Guida, LuogoGuida, TappaMappa } from '@/content/guide/types'
+import { guide } from '@/content/guide'
+import type { ContattoGuida, GiornoGuida, Gps, Guida, LuogoGuida } from '@/content/guide/types'
 import { copertineViaggi } from '@/content/viaggi-copertine'
 import { creditiCopertine } from '@/content/viaggi-copertine-crediti'
 import { creditiGiornoFoto } from '@/content/viaggi-giorno-foto-crediti'
@@ -88,7 +88,7 @@ function Contatto({ c, indice }: { c: ContattoGuida; indice: Map<string, number>
   )
 }
 
-function Luogo({ l, indice }: { l: LuogoGuida; indice: Map<string, number> }) {
+function Luogo({ l, indice, nomePass }: { l: LuogoGuida; indice: Map<string, number>; nomePass?: string }) {
   return (
     <div className="luogo">
       <div className="luogo-testo">
@@ -100,7 +100,7 @@ function Luogo({ l, indice }: { l: LuogoGuida; indice: Map<string, number> }) {
           {l.indirizzo && (<><dt>Dove</dt><dd>{l.indirizzo}</dd></>)}
           {l.orari && (<><dt>Orari</dt><dd>{l.orari}</dd></>)}
           {l.biglietto && (<><dt>Biglietto</dt><dd>{l.biglietto}</dd></>)}
-          {l.jordanPass && (<><dt>Jordan Pass</dt><dd>{l.jordanPass}</dd></>)}
+          {l.pass && (<><dt>{nomePass ?? 'Pass'}</dt><dd>{l.pass}</dd></>)}
           {l.telefono && (<><dt>Contatti</dt><dd>{l.telefono}{l.web ? ` · ${l.web}` : ''}</dd></>)}
           {!l.telefono && l.web && (<><dt>Sito</dt><dd>{l.web}</dd></>)}
           {l.gps && (<><dt>GPS</dt><dd>{l.gps[0]}, {l.gps[1]} <span className="url">{mapsCorto(l.gps)}</span></dd></>)}
@@ -114,33 +114,46 @@ function Luogo({ l, indice }: { l: LuogoGuida; indice: Map<string, number> }) {
 
 /* ---------- Mappa del percorso (SVG schematico, proiezione equirettangolare) ---------- */
 
-const LNG0 = 34.72
-const LAT1 = 32.42
-const S = 178
-const COS = Math.cos((31 * Math.PI) / 180)
-const px = ([lat, lng]: Gps): [number, number] => [(lng - LNG0) * COS * S + 30, (LAT1 - lat) * S + 20]
+type Proiezione = { px: (g: Gps) => [number, number]; w: number; h: number; kmPx: number }
 
-const MAR_MORTO: Gps[] = [
-  [31.77, 35.555], [31.72, 35.59], [31.6, 35.585], [31.45, 35.585], [31.3, 35.56], [31.2, 35.53], [31.1, 35.5],
-  [31.05, 35.44], [31.12, 35.4], [31.3, 35.42], [31.5, 35.46], [31.65, 35.48], [31.75, 35.52],
-]
-const GOLFO: Gps[] = [[29.555, 34.975], [29.5, 34.99], [29.38, 34.96], [29.3, 34.93], [29.3, 34.84], [29.45, 34.88], [29.54, 34.93]]
+/** Adatta tappe e acque in un riquadro di larghezza fissa, con margini per le etichette. */
+function proiezione(punti: Gps[]): Proiezione {
+  const lats = punti.map((p) => p[0])
+  const lngs = punti.map((p) => p[1])
+  const [la0, la1, ln0, ln1] = [Math.min(...lats), Math.max(...lats), Math.min(...lngs), Math.max(...lngs)]
+  const cos = Math.cos((((la0 + la1) / 2) * Math.PI) / 180)
+  const larg = Math.max((ln1 - ln0) * cos, 0.01)
+  const alt = Math.max(la1 - la0, 0.01)
+  const W = 460
+  const M = { l: 105, r: 115, t: 50, b: 50 }
+  const H = Math.min(700, Math.max(300, ((W - M.l - M.r) * alt) / larg + M.t + M.b))
+  const s = Math.min((W - M.l - M.r) / larg, (H - M.t - M.b) / alt)
+  const ox = M.l + (W - M.l - M.r - larg * s) / 2
+  const oy = M.t + (H - M.t - M.b - alt * s) / 2
+  return { px: ([lat, lng]) => [ox + (lng - ln0) * cos * s, oy + (la1 - lat) * s], w: W, h: H, kmPx: s / 111 }
+}
 
-function Mappa({ tappe }: { tappe: TappaMappa[] }) {
-  const p = (nome: string) => px(tappe.find((t) => t.nome.startsWith(nome))!.gps)
-  const percorso = ['Aeroporto', 'Amman', 'Jerash', 'Mar Morto', 'Monte Nebo', 'Madaba', 'Karak', 'Petra', 'Little Petra', 'Petra', 'Wadi Rum', 'Aqaba']
-  const linea = percorso.map((n) => p(n).join(',')).join(' ')
-  const ritorno = [p('Aqaba'), p('Amman'), p('Aeroporto')].map((q) => q.join(',')).join(' ')
-  const poly = (pts: Gps[]) => pts.map((g) => px(g).join(',')).join(' ')
-  const km50 = (50 / 111) * S
+function Mappa({ g }: { g: Guida }) {
+  const { tappe, mappa } = g
+  const acque = mappa.acque ?? []
+  const { px, w, h, kmPx } = proiezione([...tappe.map((t) => t.gps), ...acque.flatMap((a) => a.punti)])
+  const p = (nome: string) => {
+    const t = tappe.find((t) => t.nome.startsWith(nome))
+    return t ? px(t.gps) : undefined
+  }
+  const linea = (nomi: string[]) => nomi.map(p).filter((q): q is [number, number] => Boolean(q)).map((q) => q.join(',')).join(' ')
+  const poly = (pts: Gps[]) => pts.map((q) => px(q).join(',')).join(' ')
+  const km = mappa.scalaKm ?? 50
+  const kmLen = km * kmPx
   return (
-    <svg viewBox="40 22 330 560" className="mappa" role="img" aria-label="Mappa schematica del percorso">
-      <polygon points={poly(MAR_MORTO)} fill="#cfdde3" />
-      <polygon points={poly(GOLFO)} fill="#cfdde3" />
-      <text x={px([31.4, 35.3])[0]} y={px([31.4, 35.3])[1]} className="m-acqua" textAnchor="end">Mar Morto</text>
-      <text x={px([29.36, 34.99])[0]} y={px([29.36, 34.99])[1]} className="m-acqua">Golfo di Aqaba</text>
-      <polyline points={ritorno} fill="none" stroke="#B3261E" strokeWidth="1.6" strokeDasharray="4 3" />
-      <polyline points={linea} fill="none" stroke="#B3261E" strokeWidth="2.4" strokeLinejoin="round" />
+    <svg viewBox={`0 0 ${w} ${h}`} className="mappa" role="img" aria-label="Mappa schematica del percorso">
+      {acque.map((a) => (<polygon key={a.nome} points={poly(a.punti)} fill="#cfdde3" />))}
+      {acque.map((a) => {
+        const [x, y] = px(a.etichetta)
+        return <text key={a.nome + 't'} x={x} y={y} className="m-acqua" textAnchor={a.allinea ?? 'start'}>{a.nome}</text>
+      })}
+      {mappa.ritorno && <polyline points={linea(mappa.ritorno)} fill="none" stroke="#B3261E" strokeWidth="1.6" strokeDasharray="4 3" />}
+      <polyline points={linea(mappa.percorso)} fill="none" stroke="#B3261E" strokeWidth="2.4" strokeLinejoin="round" />
       {tappe.map((t) => {
         const [x, y] = px(t.gps)
         const pos = t.etichetta ?? 'destra'
@@ -155,19 +168,21 @@ function Mappa({ tappe }: { tappe: TappaMappa[] }) {
           </g>
         )
       })}
-      <g transform="translate(260 520)">
-        <line x1="0" y1="0" x2={km50} y2="0" stroke="#161412" strokeWidth="1.5" />
+      <g transform={`translate(${w - 20 - kmLen} ${h - 22})`}>
+        <line x1="0" y1="0" x2={kmLen} y2="0" stroke="#161412" strokeWidth="1.5" />
         <line x1="0" y1="-4" x2="0" y2="4" stroke="#161412" />
-        <line x1={km50} y1="-4" x2={km50} y2="4" stroke="#161412" />
-        <text x={km50 / 2} y="14" textAnchor="middle" className="m-giorno">50 km</text>
+        <line x1={kmLen} y1="-4" x2={kmLen} y2="4" stroke="#161412" />
+        <text x={kmLen / 2} y="14" textAnchor="middle" className="m-giorno">{km} km</text>
       </g>
-      <g transform="translate(350 60)">
+      <g transform={`translate(${w - 20} 30)`}>
         <path d="M0 -16 L6 4 L0 0 L-6 4 Z" fill="#161412" />
         <text x="0" y="16" textAnchor="middle" className="m-nome">N</text>
       </g>
     </svg>
   )
 }
+
+const etichettaGiorno = (d: GiornoGuida) => (d.fino ? `Giorni ${d.numero}-${d.fino}` : `Giorno ${d.numero}`)
 
 /* ---------- Pagina ---------- */
 
@@ -184,7 +199,7 @@ export default async function GuidaStampa({ params, searchParams }: PageProps<'/
   const creditoCopertina = creditiCopertine[g.tripSlug]
   const meta = getTripMeta(g.tripSlug)
   const crediti = creditiGiornoFoto[g.tripSlug] ?? {}
-  const totali = g.jordanPass?.calcolo.reduce(
+  const totali = g.pass?.calcolo?.reduce(
     (a, r) => ({ senza: a.senza + r.senzaPass, con: a.con + r.conPass }),
     { senza: 0, con: 0 },
   )
@@ -223,14 +238,15 @@ export default async function GuidaStampa({ params, searchParams }: PageProps<'/
         <h3 className="a-capo">Indice</h3>
         <ol className="indice">
           <li>Il percorso in una pagina</li>
-          <li>Jordan Pass: conviene?</li>
+          {g.pass && <li>{g.pass.titolo}</li>}
           <li>Prima di partire</li>
-          {g.giorni.map((d) => (<li key={d.numero}>Giorno {d.numero} · {d.titolo}</li>))}
+          {g.giorni.map((d) => (<li key={d.numero}>{etichettaGiorno(d)} · {d.titolo}</li>))}
           <li>Emergenze</li>
           <li>Contatti utili</li>
           <li>Budget</li>
           <li>Valigia</li>
           <li>Frasario</li>
+          {g.pagineSito && <li>Sul sito</li>}
           <li>Fonti e crediti</li>
         </ol>
         <h3>Come leggere le schede</h3>
@@ -246,17 +262,17 @@ export default async function GuidaStampa({ params, searchParams }: PageProps<'/
         <p className="occhiello rosso">Mappa offline</p>
         <h2>Il percorso in una pagina</h2>
         <div className="mappa-griglia">
-          <Mappa tappe={g.tappe} />
+          <Mappa g={g} />
           <div className="mappa-legenda">
-            <p className="piccolo">Linea piena: andata verso sud. Tratteggio: rientro sulla Desert Highway. Schema non in scala per le coste.</p>
+            <p className="piccolo">{g.mappa.legenda}</p>
             <table className="tabella stretta">
-              <thead><tr><th>G</th><th>Tratta</th><th>km</th><th>guida</th></tr></thead>
+              <thead><tr><th>G</th><th>Tratta</th><th>km</th><th>tempo</th></tr></thead>
               <tbody>
                 {g.giorni.flatMap((d) =>
                   d.tratte.map((t, i) => (
                     <tr key={`${d.numero}-${i}`}>
                       <td>{i === 0 ? d.numero : ''}</td>
-                      <td>{t.da} → {t.a}</td>
+                      <td>{t.da} → {t.a}{t.mezzo && <span className="piccolo"> · {t.mezzo}</span>}</td>
                       <td className="num">{t.km}</td>
                       <td className="num">{ore(t.minuti)}</td>
                     </tr>
@@ -265,32 +281,34 @@ export default async function GuidaStampa({ params, searchParams }: PageProps<'/
                 <tr className="totale"><td></td><td>Totale su strada</td><td className="num">{kmTotali}</td><td></td></tr>
               </tbody>
             </table>
-            <p className="piccolo">Tempi stimati senza traffico (OSRM su OpenStreetMap)<Fonti ids={['osrm']} indice={indice} />: aggiungi un 15-25% per traffico e soste.</p>
+            <p className="piccolo">{g.mappa.notaTempi}{g.mappa.notaTempiFonti && <Fonti ids={g.mappa.notaTempiFonti} indice={indice} />}</p>
           </div>
         </div>
       </section>
 
-      {/* Jordan Pass */}
-      {g.jordanPass && totali && (
+      {/* Pass o decisione principale */}
+      {g.pass && (
         <section className="pagina">
-          <p className="occhiello rosso">La prima decisione</p>
-          <h2>Jordan Pass: conviene?</h2>
-          <p className="testo">{g.jordanPass.regola}<Fonti ids={g.jordanPass.fonti} indice={indice} /></p>
+          <p className="occhiello rosso">{g.pass.occhiello ?? 'La prima decisione'}</p>
+          <h2>{g.pass.titolo}</h2>
+          <p className="testo">{g.pass.regola}<Fonti ids={g.pass.fonti} indice={indice} /></p>
           <table className="tabella">
             <thead><tr><th>Se…</th><th>allora</th></tr></thead>
             <tbody>
-              {g.jordanPass.scenari.map((s) => (<tr key={s.situazione}><td>{s.situazione}</td><td className="forte">{s.scelta}</td></tr>))}
+              {g.pass.scenari.map((s) => (<tr key={s.situazione}><td>{s.situazione}</td><td className="forte">{s.scelta}</td></tr>))}
             </tbody>
           </table>
-          <h3>Il conto su questo itinerario (JOD)</h3>
-          <table className="tabella">
-            <thead><tr><th>Voce</th><th className="num">senza pass</th><th className="num">con pass</th></tr></thead>
-            <tbody>
-              {g.jordanPass.calcolo.map((r) => (<tr key={r.voce}><td>{r.voce}</td><td className="num">{r.senzaPass || '—'}</td><td className="num">{r.conPass || '—'}</td></tr>))}
-              <tr className="totale"><td>Totale</td><td className="num">{totali.senza}</td><td className="num">{totali.con}</td></tr>
-            </tbody>
-          </table>
-          <p className="esito">Con il Wanderer risparmi {totali.senza - totali.con} JOD, circa {Math.round((totali.senza - totali.con) * 1.23)} € al cambio di ottobre 2026. Visto e Petra da soli costano più del pass.</p>
+          {g.pass.calcolo && totali && (<>
+            <h3>{g.pass.calcoloTitolo ?? 'Il conto su questo itinerario'}</h3>
+            <table className="tabella">
+              <thead><tr><th>Voce</th><th className="num">senza pass</th><th className="num">con pass</th></tr></thead>
+              <tbody>
+                {g.pass.calcolo.map((r) => (<tr key={r.voce}><td>{r.voce}</td><td className="num">{r.senzaPass ? r.senzaPass.toLocaleString('it-IT') : '—'}</td><td className="num">{r.conPass ? r.conPass.toLocaleString('it-IT') : '—'}</td></tr>))}
+                <tr className="totale"><td>Totale</td><td className="num">{totali.senza.toLocaleString('it-IT')}</td><td className="num">{totali.con.toLocaleString('it-IT')}</td></tr>
+              </tbody>
+            </table>
+          </>)}
+          {g.pass.esito && <p className="esito">{g.pass.esito}</p>}
         </section>
       )}
 
@@ -319,11 +337,17 @@ export default async function GuidaStampa({ params, searchParams }: PageProps<'/
         return (
           <section key={d.numero} className="pagina giorno">
             <div className="giorno-testa">
-              <span className="giorno-num">{d.numero}</span>
-              <div>
-                <p className="occhiello rosso">Giorno {d.numero}</p>
+              <span className="giorno-num">{d.numero}{d.fino ? <span className="giorno-fino">-{d.fino}</span> : null}</span>
+              <div className="giorno-titolo">
+                <p className="occhiello rosso">{etichettaGiorno(d)}</p>
                 <h2>{d.titolo}</h2>
               </div>
+              {d.paginaSito && (
+                <div className="giorno-sito">
+                  <Qr testo={siteConfig.url + d.paginaSito} mm={12} />
+                  <p>sul sito</p>
+                </div>
+              )}
             </div>
             {gm?.immagine && (
               <figure className="giorno-foto">
@@ -333,7 +357,7 @@ export default async function GuidaStampa({ params, searchParams }: PageProps<'/
             )}
             <p className="testo racconto">{d.racconto}</p>
             <h3>La strada</h3>
-            {d.tratte.length === 0 && <p className="testo">{"Niente auto: dall'hotel di Wadi Musa all'ingresso di Petra sono pochi minuti a piedi o in navetta, poi si cammina tutto il giorno."}</p>}
+            {d.tratte.length === 0 && <p className="testo">{d.senzaStrada ?? 'Nessuno spostamento lungo in questa giornata.'}</p>}
             {d.tratte.length > 0 && <table className="tabella stretta">
               <tbody>
                 {d.tratte.map((t) => (
@@ -341,13 +365,13 @@ export default async function GuidaStampa({ params, searchParams }: PageProps<'/
                     <td>{t.da} → {t.a}</td>
                     <td className="num">{t.km} km</td>
                     <td className="num">{ore(t.minuti)}</td>
-                    <td className="piccolo">{t.nelMioViaggio ? `io: ${t.nelMioViaggio}` : ''}</td>
+                    <td className="piccolo">{[t.mezzo, t.nelMioViaggio ? `io: ${t.nelMioViaggio}` : ''].filter(Boolean).join(' · ')}</td>
                   </tr>
                 ))}
               </tbody>
             </table>}
             {d.luoghi.length > 0 && <h3>I posti</h3>}
-            {d.luoghi.map((l) => (<Luogo key={l.nome} l={l} indice={indice} />))}
+            {d.luoghi.map((l) => (<Luogo key={l.nome} l={l} indice={indice} nomePass={g.pass?.nome} />))}
             {d.mangiare.length > 0 && <h3>Mangiare e bere</h3>}
             {d.mangiare.map((c) => (<Contatto key={c.nome} c={c} indice={indice} />))}
             <div className="riquadri">
@@ -400,7 +424,7 @@ export default async function GuidaStampa({ params, searchParams }: PageProps<'/
         {g.contatti.map((gr) => (
           <div key={gr.gruppo} className="blocco">
             <h3>{gr.gruppo}</h3>
-            {gr.nota && <p className="piccolo">{gr.nota}<Fonti ids={['jitoa', 'aseza-campi']} indice={indice} /></p>}
+            {gr.nota && <p className="piccolo">{gr.nota}{gr.notaFonti && <Fonti ids={gr.notaFonti} indice={indice} />}</p>}
             {gr.voci.map((c) => (<Contatto key={c.nome} c={c} indice={indice} />))}
           </div>
         ))}
@@ -425,7 +449,7 @@ export default async function GuidaStampa({ params, searchParams }: PageProps<'/
             <tr className="totale"><td>Totale</td><td></td><td className="vuoto"></td><td className="vuoto"></td></tr>
           </tbody>
         </table>
-        <p className="piccolo">Cambio di riferimento: 1 JOD ≈ 1,23 € (estate 2026)<Fonti ids={['eur-jod']} indice={indice} />. Per 10 JOD conta 12-13 €.</p>
+        {g.budget.cambio && <p className="piccolo">{g.budget.cambio}{g.budget.cambioFonti && <Fonti ids={g.budget.cambioFonti} indice={indice} />}</p>}
       </section>
 
       {/* Valigia */}
@@ -446,9 +470,9 @@ export default async function GuidaStampa({ params, searchParams }: PageProps<'/
 
       {/* Frasario */}
       <section className="pagina">
-        <p className="occhiello rosso">Arabo giordano, traslitterato</p>
+        <p className="occhiello rosso">{g.lingua.nome}</p>
         <h2>Frasario</h2>
-        <p className="piccolo">Trascrizione semplificata dell&apos;arabo parlato in Giordania. «kh» come la jota spagnola, «ʿ» è un suono di gola, «ʾ» una breve pausa.</p>
+        <p className="piccolo">{g.lingua.pronuncia}</p>
         <div className="colonne">
           {g.frasario.map((gr) => (
             <div key={gr.gruppo} className="blocco">
@@ -456,7 +480,7 @@ export default async function GuidaStampa({ params, searchParams }: PageProps<'/
               <table className="tabella frasi">
                 <tbody>
                   {gr.frasi.map((f) => (
-                    <tr key={f.it}><td>{f.it}</td><td className="ar">{f.ar}{f.nota && <span className="piccolo"><br />{f.nota}</span>}</td></tr>
+                    <tr key={f.it}><td>{f.it}</td><td className="ar">{f.loc}{f.scritto && <span className="scritto"><br />{f.scritto}</span>}{f.nota && <span className="piccolo"><br />{f.nota}</span>}</td></tr>
                   ))}
                 </tbody>
               </table>
@@ -466,18 +490,36 @@ export default async function GuidaStampa({ params, searchParams }: PageProps<'/
             <h3>Numeri</h3>
             <table className="tabella frasi">
               <tbody>
-                {g.numeri.map((f) => (<tr key={f.it}><td className="num">{f.it}</td><td className="ar">{f.ar}</td></tr>))}
+                {g.numeri.map((f) => (<tr key={f.it}><td className="num">{f.it}</td><td className="ar">{f.loc}{f.scritto && <span className="scritto"> {f.scritto}</span>}</td></tr>))}
               </tbody>
             </table>
           </div>
         </div>
       </section>
 
+      {/* Pagine del sito */}
+      {g.pagineSito && (
+        <section className="pagina">
+          <p className="occhiello rosso">Per approfondire</p>
+          <h2>Sul sito</h2>
+          <p className="piccolo">Inquadra il QR: apre la pagina del sito con foto, racconto completo e aggiornamenti.</p>
+          <div className="qr-griglia">
+            {g.pagineSito.map((ps) => (
+              <div key={ps.path} className="qr-voce">
+                <Qr testo={siteConfig.url + ps.path} mm={20} />
+                <p className="forte">{ps.titolo}</p>
+                <p className="url">{siteConfig.url.replace(/^https?:\/\//, '')}{ps.path}</p>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
       {/* Fonti */}
       <section className="pagina fonti-pagina">
         <p className="occhiello rosso">Appendice</p>
         <h2>Fonti e crediti</h2>
-        <p className="piccolo">Consultate tra il 27 e il 30 ottobre 2026. Prezzi e orari cambiano: prima di pagare, guarda sempre la fonte ufficiale.</p>
+        <p className="piccolo">{g.consultate}</p>
         <ol className="elenco-fonti">
           {g.fonti.map((f) => (<li key={f.id}>{f.titolo} · <span className="url">{f.url.replace(/^https?:\/\/(www\.)?/, '')}</span></li>))}
         </ol>

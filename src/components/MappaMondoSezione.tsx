@@ -132,7 +132,7 @@ export function MappaMondoSezione() {
           graticola={graticola()}
           pins={pins}
         />
-        <p className="mt-2 text-[11px] leading-snug text-stone/70">
+        <p className="mt-2 text-[11px] leading-snug text-stone/85">
           Terre: Natural Earth. Luoghi:{' '}
           <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer" className="underline underline-offset-2 hover:text-rosso">
             © OpenStreetMap

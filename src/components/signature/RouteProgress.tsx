@@ -40,7 +40,7 @@ export function RouteProgress({
           style={{ top: markerY }}
         />
       </div>
-      <div className="pt-0.5 font-mono text-xs tabular-nums text-stone/60">
+      <div className="pt-0.5 font-mono text-xs tabular-nums text-stone/85">
         <p>{label}</p>
         <motion.p className="font-display text-lg text-alpine">{giornoCorrente}</motion.p>
         <p>di {totaleGiorni}</p>

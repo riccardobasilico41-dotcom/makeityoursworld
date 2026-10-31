@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import { Filigrana } from '@/components/Filigrana'
 import { SalvaBottone } from '@/components/SalvaBottone'
 import { FirmaAutore } from '@/components/FirmaAutore'
 import { PrenotaQui } from '@/components/OrganizzaViaggio'
@@ -103,6 +104,7 @@ export default async function DestinazionePage({
 
   return (
     <>
+      <Filigrana paese={paeseSlug} />
       <JsonLd
         data={[
           jsonLd,

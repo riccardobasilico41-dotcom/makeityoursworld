@@ -17,7 +17,7 @@ export function ExperienceCard({ esperienza, paeseSlug }: { esperienza: Esperien
             src={esperienza.immagine}
             alt={esperienza.imageAlt}
             fill
-            sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
+            sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, calc(100vw - 3rem)"
             className="object-cover transition-transform duration-700 group-hover:scale-105"
           />
         </div>
@@ -27,7 +27,7 @@ export function ExperienceCard({ esperienza, paeseSlug }: { esperienza: Esperien
           <h3 className="font-display text-lg font-medium leading-tight text-alpine">{esperienza.nome}</h3>
           <PersonalVerdict giudizio={esperienza.giudizio} className="shrink-0" />
         </div>
-        <div className="flex flex-wrap gap-x-4 gap-y-1 text-xs text-stone/70">
+        <div className="flex flex-wrap gap-x-4 gap-y-1 text-xs text-stone/85">
           <span className="inline-flex items-center gap-1.5">
             <MapPin size={13} /> {plain(esperienza.localita)}
           </span>

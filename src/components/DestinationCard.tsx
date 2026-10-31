@@ -40,7 +40,7 @@ export function DestinationCard({ destinazione, paeseSlug }: { destinazione: Des
             src={destinazione.immagine}
             alt={destinazione.imageAlt}
             fill
-            sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
+            sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, calc(100vw - 3rem)"
             className="object-cover transition-transform duration-700 group-hover:scale-105"
           />
         ) : (
@@ -61,7 +61,7 @@ export function DestinationCard({ destinazione, paeseSlug }: { destinazione: Des
         <h3 className="font-display text-lg font-medium leading-tight text-alpine">{destinazione.nome}</h3>
         <p className="text-sm leading-relaxed text-stone">{plain(destinazione.introduzione)}</p>
         <div className="mt-auto flex items-center justify-between pt-2">
-          <span className="text-xs text-stone/70">{destinazione.giorniConsigliati}</span>
+          <span className="text-xs text-stone/85">{destinazione.giorniConsigliati}</span>
           <span className="text-sm font-medium text-rosso">Scopri la destinazione</span>
         </div>
       </div>

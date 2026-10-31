@@ -25,13 +25,13 @@ export function ComparisonBlock({ confronto }: { confronto: Confronto }) {
                 <dl className="mt-4 flex flex-wrap gap-x-6 gap-y-2 border-y border-alpine/10 py-3 text-sm">
                   {opzione.durata && (
                     <div>
-                      <dt className="text-xs font-semibold uppercase tracking-wider text-stone/60">Durata</dt>
+                      <dt className="text-xs font-semibold uppercase tracking-wider text-stone/85">Durata</dt>
                       <dd className="mt-0.5 text-ink">{richNodes(opzione.durata)}</dd>
                     </div>
                   )}
                   {opzione.costo && (
                     <div className="min-w-0 flex-1">
-                      <dt className="text-xs font-semibold uppercase tracking-wider text-stone/60">Costo</dt>
+                      <dt className="text-xs font-semibold uppercase tracking-wider text-stone/85">Costo</dt>
                       <dd className="mt-0.5 text-ink">{richNodes(opzione.costo)}</dd>
                     </div>
                   )}

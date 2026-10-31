@@ -43,8 +43,9 @@ export const DayTimelineSignature = forwardRef<
         const sottotitolo = giorno.titolo.replace(/^Giorno\s+\d+\s*[—-]\s*/i, '')
 
         return (
-          <Reveal key={giorno.titolo}>
-            <li id={idGiorno(i)} className="grid scroll-mt-20 gap-6 sm:grid-cols-[7rem_1fr] sm:gap-10 lg:scroll-mt-24">
+          // <li> figlio diretto di <ol> (HTML valido); l'animazione sta dentro, sul contenuto
+          <li key={giorno.titolo} id={idGiorno(i)} className="scroll-mt-20 lg:scroll-mt-24">
+            <Reveal className="grid gap-6 sm:grid-cols-[7rem_1fr] sm:gap-10">
               <div className="flex sm:block">
                 <span className="font-display text-6xl font-medium leading-none text-alpine/20 sm:text-7xl">
                   {numero.padStart(2, '0')}
@@ -95,32 +96,32 @@ export const DayTimelineSignature = forwardRef<
                   {info && (
                     <dl className="grid gap-3 border-b border-alpine/10 pb-5 text-sm sm:grid-cols-3">
                       {info.tratta && (
-                        <div className="flex items-start gap-2">
-                          <Route size={15} className="mt-0.5 shrink-0 text-stone/60" />
-                          <div>
-                            <dt className="text-xs text-stone/60">Tratta</dt>
-                            <dd className="text-ink">{info.tratta}</dd>
-                          </div>
+                        <div className="relative pl-[23px]">
+                          <dt className="text-xs text-stone/85">
+                            <Route size={15} aria-hidden="true" className="absolute left-0 top-0.5 text-stone/60" />
+                            Tratta
+                          </dt>
+                          <dd className="text-ink">{info.tratta}</dd>
                         </div>
                       )}
                       {info.pernottamento && (
-                        <div className="flex items-start gap-2">
-                          <BedDouble size={15} className="mt-0.5 shrink-0 text-stone/60" />
-                          <div>
-                            <dt className="text-xs text-stone/60">Pernottamento</dt>
-                            <dd className="flex flex-wrap items-center gap-1.5 text-ink">
-                              {info.pernottamento}
-                            </dd>
-                          </div>
+                        <div className="relative pl-[23px]">
+                          <dt className="text-xs text-stone/85">
+                            <BedDouble size={15} aria-hidden="true" className="absolute left-0 top-0.5 text-stone/60" />
+                            Pernottamento
+                          </dt>
+                          <dd className="flex flex-wrap items-center gap-1.5 text-ink">
+                            {info.pernottamento}
+                          </dd>
                         </div>
                       )}
                       {info.costiNoti && (
-                        <div className="flex items-start gap-2">
-                          <Coins size={15} className="mt-0.5 shrink-0 text-stone/60" />
-                          <div>
-                            <dt className="text-xs text-stone/60">Costi noti</dt>
-                            <dd className="text-ink">{info.costiNoti}</dd>
-                          </div>
+                        <div className="relative pl-[23px]">
+                          <dt className="text-xs text-stone/85">
+                            <Coins size={15} aria-hidden="true" className="absolute left-0 top-0.5 text-stone/60" />
+                            Costi noti
+                          </dt>
+                          <dd className="text-ink">{info.costiNoti}</dd>
                         </div>
                       )}
                     </dl>
@@ -139,8 +140,8 @@ export const DayTimelineSignature = forwardRef<
                   )}
                 </div>
               </div>
-            </li>
-          </Reveal>
+            </Reveal>
+          </li>
         )
       })}
     </ol>

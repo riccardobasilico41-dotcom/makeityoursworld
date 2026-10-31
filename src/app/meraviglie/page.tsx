@@ -41,10 +41,11 @@ export default function MeraviglieIndexPage() {
       />
       <section className="py-14 sm:py-20">
         <Container>
+          <h2 className="sr-only">Le sette schede</h2>
           <RevealGroup className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3" stagger={0.05}>
-            {meraviglie.map((meraviglia) => (
+            {meraviglie.map((meraviglia, i) => (
               <RevealItem key={meraviglia.slug}>
-                <MeravigliaCard meraviglia={meraviglia} />
+                <MeravigliaCard meraviglia={meraviglia} subito={i === 0} />
               </RevealItem>
             ))}
           </RevealGroup>

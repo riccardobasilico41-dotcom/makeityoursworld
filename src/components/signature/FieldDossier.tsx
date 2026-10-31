@@ -30,7 +30,7 @@ export function FieldDossier({
     tone === 'dark'
       ? 'border-cream/15 bg-alpine-dark text-cream'
       : 'border-alpine/15 bg-cream-dark/50 text-ink'
-  const mutedClasses = tone === 'dark' ? 'text-cream/50' : 'text-stone/60'
+  const mutedClasses = tone === 'dark' ? 'text-cream/50' : 'text-stone/85'
   const titleSize = { sm: 'text-xl sm:text-2xl', md: 'text-2xl sm:text-3xl', lg: 'text-4xl sm:text-5xl' }[size]
 
   return (

@@ -3,7 +3,8 @@ import Image from 'next/image'
 import { Landmark } from 'lucide-react'
 import type { Meraviglia } from '@/lib/types'
 
-export function MeravigliaCard({ meraviglia }: { meraviglia: Meraviglia }) {
+/** `subito`: la prima scheda in alto nella pagina (elemento LCP sul telefono) si carica senza lazy-loading. */
+export function MeravigliaCard({ meraviglia, subito = false }: { meraviglia: Meraviglia; subito?: boolean }) {
   return (
     <Link
       href={`/meraviglie/${meraviglia.slug}`}
@@ -20,6 +21,8 @@ export function MeravigliaCard({ meraviglia }: { meraviglia: Meraviglia }) {
             alt={meraviglia.heroImageAlt}
             fill
             sizes="(min-width: 1024px) 400px, (min-width: 640px) 46vw, 82vw"
+            loading={subito ? 'eager' : undefined}
+            fetchPriority={subito ? 'high' : undefined}
             className="object-cover transition-transform duration-700 group-hover:scale-105"
           />
         ) : (
@@ -41,7 +44,7 @@ export function MeravigliaCard({ meraviglia }: { meraviglia: Meraviglia }) {
         <h3 className="font-display text-xl font-medium leading-tight text-alpine">{meraviglia.nome}</h3>
         <p className="text-sm leading-relaxed text-stone line-clamp-3">{meraviglia.descrizione}</p>
         <div className="mt-auto flex items-center justify-between pt-2">
-          <span className="text-xs text-stone/70">{meraviglia.citta}</span>
+          <span className="text-xs text-stone/85">{meraviglia.citta}</span>
           <span className="text-sm font-medium text-rosso">Guida completa</span>
         </div>
       </div>
