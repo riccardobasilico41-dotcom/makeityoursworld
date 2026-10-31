@@ -163,7 +163,7 @@ export const esperienzeIndonesia: Esperienza[] = [
       'Un tour in barca (liveaboard) di più giorni tra i reef di Raja Ampat, considerati tra i più biodiversi al mondo, con soste per diving e snorkeling e per i belvedere sulle isole a fungo di Piaynemo e Wayag.',
     percheFarla: 'È il modo più completo per esplorare un arcipelago dove le distanze via terra non esistono e i punti migliori sono sparsi su una vasta area di mare.',
     durata: 'liveaboard da 4 a 10 giorni, a seconda dell\'itinerario scelto',
-    periodo: 'ottobre-aprile, quando il mare è più calmo e la visibilità migliore. Noi ci siamo andati ad agosto, che si può fare, mettendo in conto il vento da sud-est e i liveaboard che in quei mesi in parte si spostano altrove',
+    periodo: 'ottobre-aprile, quando il mare è più calmo e la visibilità migliore. Noi ci siamo andati ad agosto, che si può fare, ma è periodo di venti: i trasferimenti tra le isole possono essere turbolenti e a volte saltano per il mare grosso, e in quei mesi parte dei liveaboard si sposta altrove',
     costo: 'tra le esperienze più costose del viaggio: i liveaboard partono indicativamente da 150-250€ al giorno a persona, più il permesso obbligatorio del parco marino (PIN Raja Ampat)',
     comePrenotare: 'Tramite operatori specializzati in liveaboard, con prenotazione con largo anticipo per la stagione alta (i posti sono limitati).',
     cosaPortare: 'Certificazione diving per le immersioni; attrezzatura da snorkeling propria se non inclusa a bordo.',
