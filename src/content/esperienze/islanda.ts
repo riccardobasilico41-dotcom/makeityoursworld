@@ -190,6 +190,7 @@ export const esperienzeIslanda: Esperienza[] = [
   },
   {
     slug: 'terme-naturali-islanda',
+    immagine: '/images/islanda/terme-naturali-islanda.jpg',
     paeseSlug: 'islanda',
     destinazioneSlug: 'egilsstadir',
     nome: 'Terme naturali islandesi',
@@ -208,6 +209,6 @@ export const esperienzeIslanda: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: ['Blue Lagoon, molto più turistica e cara, vicino a Keflavík'],
     tripSlugs: ['islanda-2024'],
-    imageAlt: 'Vasca termale galleggiante dei Vök Baths sul lago Urriðavatn, Islanda',
+    imageAlt: 'Snorralaug a Reykholt, nel West Iceland: una vasca rotonda di pietra alimentata da una sorgente calda, tra prati verdi',
   },
 ]

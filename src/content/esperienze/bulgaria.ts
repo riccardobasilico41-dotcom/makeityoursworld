@@ -27,6 +27,7 @@ export const esperienzeBulgaria: Esperienza[] = [
   },
   {
     slug: 'discesa-notturna-bansko',
+    immagine: '/images/bulgaria/bansko-stock.jpg',
     paeseSlug: 'bulgaria',
     destinazioneSlug: 'bansko',
     nome: 'Discesa illuminata per lo sci notturno',
@@ -44,7 +45,7 @@ export const esperienzeBulgaria: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['bulgaria-bansko-rila'],
-    imageAlt: 'La pista illuminata per lo sci notturno che scende verso il centro di Bansko, Bulgaria',
+    imageAlt: 'Sciatori sulla pista innevata di Bansko, tra i boschi di conifere dei monti Pirin, in una giornata di sole',
   },
   {
     slug: 'visita-monastero-rila',

@@ -88,6 +88,7 @@ export const esperienzeSvezia: Esperienza[] = [
   },
   {
     slug: 'icehotel-jukkasjarvi',
+    immagine: '/images/svezia/kiruna-stock.jpg',
     paeseSlug: 'svezia',
     destinazioneSlug: 'kiruna',
     nome: 'ICEHOTEL di Jukkasjärvi',
@@ -105,7 +106,7 @@ export const esperienzeSvezia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: [],
     tripSlugs: [],
-    imageAlt: 'Camera scolpita nel ghiaccio con letto di ghiaccio illuminato all\'ICEHOTEL di Jukkasjärvi',
+    imageAlt: 'Chiesa di legno rossa di Kiruna sotto un cielo invernale svedese',
   },
   {
     slug: 'miniera-lkab-kiruna',

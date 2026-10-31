@@ -105,6 +105,7 @@ export const destinazioniQatar: Destinazione[] = [
   },
   {
     slug: 'qatar-deserto-nord',
+    immagine: '/images/qatar/qatar-deserto-nord.jpg',
     paeseSlug: 'qatar',
     ordine: 2,
     nome: 'Il deserto e il nord del Qatar',
@@ -148,6 +149,6 @@ export const destinazioniQatar: Destinazione[] = [
       'Fuori Doha il Qatar è quasi vuoto, ed è proprio per questo che conviene uscire dalla capitale. Khor Al Adaid è quello che mi è rimasto. Ci siamo arrivati in 4x4 dopo una mezz\'ora di sabbia, con l\'autista che ha sgonfiato le gomme all\'inizio della pista; si scollina un\'ultima duna e sotto c\'è il mare, un braccio di Golfo che entra nel deserto, con le dune che scendono dritte in acqua e l\'Arabia Saudita sull\'altra sponda. Pochi posti al mondo sono fatti così, e che sia a un\'ora e mezza da un aeroporto internazionale è quasi assurdo. Il nord è un\'altra storia, ed è la parte che quasi nessuno fa. Le quattro lastre d\'acciaio di Richard Serra, alte quattordici metri e allineate su un chilometro in mezzo al niente, si raggiungono su una pista e non c\'è nessuno: niente parcheggio, niente biglietto, niente cartelli. Ci arrivi, cammini tra una lastra e l\'altra sentendo solo il vento, e torni indietro. È l\'opposto di tutto il resto del Golfo.',
     esperienzeSlugs: [],
     tripSlugs: ['stopover-golfo'],
-    imageAlt: 'Le dune che scendono nel mare dell\'inland sea di Khor Al Adaid, Qatar',
+    imageAlt: 'Il forte di Al Zubarah, con le torri merlate e la bandiera del Qatar, sulla pianura sassosa del nord',
   },
 ]

@@ -365,6 +365,7 @@ export const destinazioniCina: Destinazione[] = [
   },
   {
     slug: 'furong-zhen',
+    immagine: '/images/viaggi/cina-paesaggi/giorno-3-furong-zhen.jpg',
     paeseSlug: 'cina',
     ordine: 5,
     nome: 'Furong Zhen',
@@ -405,7 +406,7 @@ export const destinazioniCina: Destinazione[] = [
       'È la tappa che nessuno mette in itinerario, e invece resta. Di giorno Furong Zhen è quello che ci si aspetta: pullman, bancarelle, la stessa merce di ogni borgo cinese ricostruito. Verso le sei di sera però i gruppi ripartono tutti insieme, le luci si accendono sulla cascata e il paese torna a essere quattro strade di pietra bagnata, con qualche famiglia che cena sull\'uscio. Il ricordo più forte è il camminamento dietro il salto d\'acqua: si cammina in un corridoio scavato nella roccia, con il rumore dell\'acqua a un metro, e si esce fradici di spruzzi. Come borgo storico è in gran parte rimesso a nuovo, quindi chi cerca architettura autentica resterà deluso. Qui contano la posizione, che è unica, e l\'ora del giorno in cui lo si guarda.',
     esperienzeSlugs: [],
     tripSlugs: ['cina-paesaggi'],
-    imageAlt: 'Il borgo di Furong Zhen con le case di legno sopra la cascata, Hunan, Cina',
+    imageAlt: 'Il villaggio di Furong Zhen sulla rupe sopra il fiume, con le case tradizionali e la cascata',
   },
   {
     slug: 'chengdu',

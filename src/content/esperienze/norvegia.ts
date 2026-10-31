@@ -80,6 +80,7 @@ export const esperienzeNorvegia: Esperienza[] = [
   },
   {
     slug: 'spiaggia-di-bunes',
+    immagine: '/images/viaggi/lofoten-estate-2025/giorno-5-bunes-beach.jpg',
     paeseSlug: 'norvegia',
     destinazioneSlug: 'reine',
     nome: 'Spiaggia di Bunes',
@@ -98,10 +99,11 @@ export const esperienzeNorvegia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['lofoten-estate-2025'],
-    imageAlt: 'Spiaggia di Bunes incastonata tra le montagne, raggiungibile solo in traghetto, Lofoten',
+    imageAlt: 'La spiaggia di sabbia chiara di Bunes chiusa da una grande parete di roccia, Lofoten',
   },
   {
     slug: 'viking-museum-borg',
+    immagine: '/images/norvegia/viking-museum-borg.jpg',
     paeseSlug: 'norvegia',
     destinazioneSlug: 'reine',
     nome: 'Viking Museum di Borg',
@@ -120,7 +122,7 @@ export const esperienzeNorvegia: Esperienza[] = [
     giudizio: 'bella-non-essenziale',
     alternative: [],
     tripSlugs: ['lofoten-estate-2025'],
-    imageAlt: 'Ricostruzione di una longhouse vichinga al Viking Museum di Borg, Lofoten',
+    imageAlt: 'La lunga casa del capo vichingo ricostruita a Borg, sulla collina erbosa sotto le montagne delle Lofoten',
   },
   {
     slug: 'museo-dei-pescatori',
@@ -193,6 +195,7 @@ export const esperienzeNorvegia: Esperienza[] = [
   },
   {
     slug: 'husky-sledding-tromso',
+    immagine: '/images/norvegia/husky-sledding-tromso.jpg',
     paeseSlug: 'norvegia',
     destinazioneSlug: 'tromso',
     nome: 'Husky sledding',
@@ -211,7 +214,7 @@ export const esperienzeNorvegia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['tromso'],
-    imageAlt: 'Slitta trainata da husky su un sentiero innevato vicino a Tromsø',
+    imageAlt: 'Una fila di slitte trainate da husky sulla neve tra le betulle nei dintorni di Tromsø',
   },
   {
     slug: 'sami-renne-lavvu-tromso',
@@ -238,6 +241,7 @@ export const esperienzeNorvegia: Esperienza[] = [
   },
   {
     slug: 'whale-watching-tromso',
+    immagine: '/images/norvegia/whale-watching-tromso.jpg',
     paeseSlug: 'norvegia',
     destinazioneSlug: 'tromso',
     nome: 'Whale watching invernale',
@@ -254,7 +258,7 @@ export const esperienzeNorvegia: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: [],
     tripSlugs: [],
-    imageAlt: 'Pinna di orca che emerge dall\'acqua di un fiordo norvegese in inverno',
+    imageAlt: 'Un maschio e una femmina di orca che affiorano nel mare grigio del nord della Norvegia',
   },
   {
     slug: 'glass-igloo-lyngen',

@@ -1109,6 +1109,7 @@ export const esperienzeFrancia: Esperienza[] = [
   },
   {
     slug: 'scialpinismo-francia',
+    immagine: '/images/francia/scialpinismo-francia.jpg',
     paeseSlug: 'francia',
     destinazioneSlug: 'sciare-in-francia',
     nome: 'Scialpinismo nelle valli laterali',
@@ -1130,7 +1131,7 @@ export const esperienzeFrancia: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: ['Le ciaspole, per un\'esperienza simile senza il rischio tecnico dello scialpinismo', 'Un corso base di sicurezza in valanga prima di iniziare'],
     tripSlugs: ['settimana-bianca-francia'],
-    imageAlt: 'Uno scialpinista in salita con le pelli su un pendio innevato lontano dagli impianti',
+    imageAlt: 'Scialpinisti in fila risalgono una cresta innevata nel Queyras, nelle Alpi francesi, in bianco e nero',
   },
   {
     slug: 'tour-du-mont-blanc',

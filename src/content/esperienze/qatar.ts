@@ -5,6 +5,7 @@ import type { Esperienza } from '@/lib/types'
 export const esperienzeQatar: Esperienza[] = [
   {
     slug: 'souq-waqif',
+    immagine: '/images/qatar/souq-waqif.jpg',
     paeseSlug: 'qatar',
     destinazioneSlug: 'doha',
     nome: 'Il Souq Waqif e il mercato dei falchi',
@@ -29,10 +30,11 @@ export const esperienzeQatar: Esperienza[] = [
       'Il Katara Cultural Village, per l\'offerta culturale serale in un contesto meno mercantile',
     ],
     tripSlugs: ['stopover-golfo'],
-    imageAlt: 'Falchi da caccia incappucciati sui trespoli al mercato del Souq Waqif, Doha',
+    imageAlt: 'I caffè all\'aperto e le case color sabbia del Souq Waqif di sera, Doha',
   },
   {
     slug: 'khor-al-adaid',
+    immagine: '/images/qatar/khor-al-adaid.jpg',
     paeseSlug: 'qatar',
     destinazioneSlug: 'qatar-deserto-nord',
     nome: 'L\'inland sea di Khor Al Adaid',
@@ -59,6 +61,6 @@ export const esperienzeQatar: Esperienza[] = [
       'Le dune di Sealine, più vicine a Doha e molto più frequentate, per chi ha poche ore',
     ],
     tripSlugs: ['stopover-golfo'],
-    imageAlt: 'Le dune che scendono direttamente nell\'acqua dell\'inland sea di Khor Al Adaid, Qatar',
+    imageAlt: 'Il sole che sorge sull\'Inland Sea di Khor Al Adaid, riflesso nelle pozze di acqua bassa sulla sabbia',
   },
 ]

@@ -7,6 +7,7 @@ import type { Esperienza } from '@/lib/types'
 export const esperienzeBelize: Esperienza[] = [
   {
     slug: 'hol-chan-shark-ray-alley',
+    immagine: '/images/belize/hol-chan-shark-ray-alley.jpg',
     paeseSlug: 'belize',
     destinazioneSlug: 'caye-caulker',
     nome: 'Snorkeling a Hol Chan e Shark Ray Alley',
@@ -24,10 +25,11 @@ export const esperienzeBelize: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Immersione con bombole sugli stessi siti per chi è brevettato'],
     tripSlugs: ['centro-america-itinerario'],
-    imageAlt: 'Squali nutrice e razze in acqua bassa a Shark Ray Alley, Belize',
+    imageAlt: 'Uno squalo nutrice nuota sopra il reef di coralli e gorgonie al largo di Ambergris Caye',
   },
   {
     slug: 'grotta-atm',
+    immagine: '/images/viaggi/centro-america-itinerario/giorno-14-atm-cave.jpg',
     paeseSlug: 'belize',
     destinazioneSlug: 'san-ignacio-cayo',
     nome: 'Grotta ATM (Actun Tunichil Muknal)',
@@ -48,6 +50,6 @@ export const esperienzeBelize: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Cave tubing lungo il fiume Caves Branch, molto più leggero e senza componente archeologica'],
     tripSlugs: ['centro-america-itinerario'],
-    imageAlt: 'Ingresso allagato della grotta di Actun Tunichil Muknal nella giungla del Belize',
+    imageAlt: 'Formazioni calcaree e stalagmiti riflesse nell\'acqua della grotta Actun Tunichil Muknal',
   },
 ]

@@ -34,6 +34,7 @@ export const esperienzeSpagna: Esperienza[] = [
   },
   {
     slug: 'flamenco-triana',
+    immagine: '/images/spagna/siviglia.jpg',
     paeseSlug: 'spagna',
     destinazioneSlug: 'siviglia',
     nome: 'Spettacolo di flamenco in un tablao acustico a Triana o Santa Cruz',
@@ -50,7 +51,7 @@ export const esperienzeSpagna: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Assistere a una sessione informale in una peña flamenca (club non a scopo di lucro frequentato da appassionati locali), meno turistica ma con orari e disponibilità più incerti'],
     tripSlugs: ['andalusia-itinerario'],
-    imageAlt: 'Una ballerina di flamenco in movimento su un piccolo palco acustico, illuminata da luce calda',
+    imageAlt: 'La Giralda e le guglie della Cattedrale di Siviglia accanto a una torre delle mura del Real Alcázar',
   },
   {
     slug: 'tapeo-siviglia',

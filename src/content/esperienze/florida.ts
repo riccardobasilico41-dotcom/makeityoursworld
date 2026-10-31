@@ -113,6 +113,7 @@ export const esperienzeFlorida: Esperienza[] = [
   },
   {
     slug: 'speedboat-thriller-miami',
+    immagine: '/images/florida/speedboat-thriller-miami.jpg',
     paeseSlug: 'florida',
     destinazioneSlug: 'miami',
     nome: 'Speed Boat Tour «Thriller Miami»',
@@ -128,10 +129,11 @@ export const esperienzeFlorida: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: [],
     tripSlugs: [],
-    imageAlt: 'Un motoscafo veloce nella baia di Miami, Florida',
+    imageAlt: 'Cartolina d\'epoca colorata a mano: due motoscafi sollevano spruzzi davanti al Flamingo Hotel di Miami Beach',
   },
   {
     slug: 'salsa-night-miami',
+    immagine: '/images/florida/miami-stock.jpg',
     paeseSlug: 'florida',
     destinazioneSlug: 'miami',
     nome: 'Salsa Night: lezioni, mojito e balli',
@@ -147,6 +149,6 @@ export const esperienzeFlorida: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: [],
     tripSlugs: [],
-    imageAlt: 'Coppie che ballano salsa in un locale di Miami',
+    imageAlt: 'Gli hotel art déco di Ocean Drive a Miami Beach, con palme e auto parcheggiate',
   },
 ]

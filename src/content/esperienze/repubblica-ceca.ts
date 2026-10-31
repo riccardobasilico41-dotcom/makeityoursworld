@@ -54,6 +54,7 @@ export const esperienzeRepubblicaCeca: Esperienza[] = [
   },
   {
     slug: 'praga-degustazione-birra',
+    immagine: '/images/repubblica-ceca/praga-degustazione-birra.jpg',
     paeseSlug: 'repubblica-ceca',
     destinazioneSlug: 'praga',
     nome: 'Degustazione di birra ceca in un hospoda tradizionale',
@@ -71,6 +72,6 @@ export const esperienzeRepubblicaCeca: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Un birrificio artigianale con visita e degustazione, per chi cerca qualcosa di più strutturato di una semplice serata al pub'],
     tripSlugs: ['praga-weekend'],
-    imageAlt: 'Boccali di birra ceca alla spina su un tavolo di legno in un hospoda tradizionale di Praga',
+    imageAlt: 'Un bicchiere di birra scura alla spina sul bancone di legno della birreria U Medvídků a Praga',
   },
 ]

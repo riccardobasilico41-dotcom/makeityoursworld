@@ -71,6 +71,7 @@ export const esperienzeSriLanka: Esperienza[] = [
   },
   {
     slug: 'rafting-kitulgala',
+    immagine: '/images/viaggi/sri-lanka-2023/giorno-6-kitulgala.jpg',
     paeseSlug: 'sri-lanka',
     destinazioneSlug: 'nallathanniya',
     nome: 'Rafting sul fiume Kelani a Kitulgala',
@@ -88,10 +89,11 @@ export const esperienzeSriLanka: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: ['Canyoning e camminata nella giungla, da concordare con l\'operatore'],
     tripSlugs: ['sri-lanka-2023'],
-    imageAlt: 'Gommone da rafting sul fiume Kelani a Kitulgala, Sri Lanka',
+    imageAlt: 'Il fiume Kelani che scorre tra la giungla fitta a Kitulgala, dove si fa rafting',
   },
   {
     slug: 'scalata-adams-peak',
+    immagine: '/images/sri-lanka/adams-peak-scalinata-alba-riccardo.jpg',
     paeseSlug: 'sri-lanka',
     destinazioneSlug: 'nallathanniya',
     nome: 'Scalata notturna dell\'Adam\'s Peak',
@@ -109,7 +111,7 @@ export const esperienzeSriLanka: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['sri-lanka-2023'],
-    imageAlt: 'La scalinata di pellegrinaggio illuminata verso la cima dell\'Adam\'s Peak, Sri Lanka',
+    imageAlt: 'L\'ultimo tratto della scalinata dell\'Adam\'s Peak all\'alba, con le montagne e le nuvole sotto',
   },
   {
     slug: 'treno-panoramico-ella',

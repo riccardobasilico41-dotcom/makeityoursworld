@@ -65,6 +65,7 @@ export const esperienzeEmiratiArabiUniti: Esperienza[] = [
   },
   {
     slug: 'moschea-sheikh-zayed',
+    immagine: '/images/emirati-arabi-uniti/moschea-sheikh-zayed.jpg',
     paeseSlug: 'emirati-arabi-uniti',
     destinazioneSlug: 'abu-dhabi',
     nome: 'La Grande Moschea Sheikh Zayed',
@@ -90,7 +91,7 @@ export const esperienzeEmiratiArabiUniti: Esperienza[] = [
       'Qasr Al Watan, il palazzo presidenziale aperto al pubblico, per l\'architettura civile invece di quella religiosa',
     ],
     tripSlugs: ['stopover-golfo'],
-    imageAlt: 'Le colonne bianche intarsiate del portico della Grande Moschea Sheikh Zayed, Abu Dhabi',
+    imageAlt: 'Il porticato della Grande Moschea Sheikh Zayed: colonne di marmo bianco con fiori intarsiati e capitelli a foglie di palma dorate',
   },
   {
     slug: 'louvre-abu-dhabi',

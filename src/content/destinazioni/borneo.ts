@@ -58,6 +58,7 @@ export const destinazioniBorneo: Destinazione[] = [
   },
   {
     slug: 'sepilok-sandakan',
+    immagine: '/images/viaggi/borneo-itinerario/giorno-5-sepilok-orangutan.jpg',
     paeseSlug: 'borneo',
     ordine: 2,
     nome: 'Sepilok e Sandakan',
@@ -200,10 +201,11 @@ export const destinazioniBorneo: Destinazione[] = [
       'A Sepilok gli oranghi si vedono con più sicurezza che altrove, e conviene dire subito cosa significa. Sono animali orfani o confiscati al commercio illegale, in riabilitazione e abituati alle persone, e le piattaforme servono a integrare il cibo che non sanno ancora trovarsi da soli. Non è natura, e il centro non finge che lo sia. Detto questo, vedere un orango attraversare una corda tesa sopra la testa, a tre metri, con quel modo di muoversi lentissimo e all\'apparenza ragionato, basta a giustificare un viaggio. Il consiglio più utile è andare a entrambe le poppate, perché in certe stagioni la foresta dà abbastanza frutta e non arriva quasi nessuno. Poi c\'è quello che quasi tutti saltano: il centro dei sun bear a duecento metri, con gli orsi più piccoli del mondo salvati dal commercio di animali domestici, e il Sandakan Memorial Park, dove abbiamo passato una mattina, sul sito del campo di prigionia da cui partirono le marce della morte del 1945. Su duemilaquattrocento prigionieri alleati ne sopravvissero sei.',
     esperienzeSlugs: ['sepilok-oranghi'],
     tripSlugs: ['borneo-itinerario'],
-    imageAlt: 'Un orango sulla piattaforma di alimentazione del centro di riabilitazione di Sepilok, Sabah',
+    imageAlt: 'Due oranghi al Sepilok Orangutan Rehabilitation Centre, ripresi da vicino mentre si nutrono',
   },
   {
     slug: 'kinabatangan',
+    immagine: '/images/borneo/kinabatangan.jpg',
     paeseSlug: 'borneo',
     ordine: 3,
     nome: 'Fiume Kinabatangan',
@@ -248,7 +250,7 @@ export const destinazioniBorneo: Destinazione[] = [
       'Sul Kinabatangan il Borneo mantiene tutte le promesse, e allo stesso tempo si capisce cosa è successo a quest\'isola. Siamo arrivati nel pomeriggio, e la prima uscita al tramonto l\'abbiamo fatta la sera stessa. Si esce in barca all\'alba, si risale il fiume con il motore al minimo e in due ore si vedono nasiche che saltano tra gli alberi, buceri che passano in coppia, macachi e, con un po\' di fortuna, un orango selvatico che si muove lentissimo su un ramo. Poi la barca svolta in un affluente, la fascia di foresta si assottiglia e dietro compaiono le file ordinate delle palme da olio, a perdita d\'occhio. Lì si capisce perché gli animali sono tutti concentrati in una striscia larga poche centinaia di metri. Non è una riserva ben riuscita, è quello che è rimasto. Due cose pratiche contano più delle altre. Restare almeno due notti, perché ogni uscita è una lotteria e quattro biglietti valgono più di due. E portare un binocolo: si guarda quasi sempre a venti metri, e senza si perde metà di quello che la guida indica.',
     esperienzeSlugs: ['crociera-kinabatangan'],
     tripSlugs: ['borneo-itinerario'],
-    imageAlt: 'Una nasica su un albero lungo il fiume Kinabatangan al tramonto, Sabah, Borneo',
+    imageAlt: 'Barche di legno colorate ormeggiate sulla riva fangosa del fiume Kinabatangan, con la foresta pluviale sull\'altra sponda',
   },
   {
     slug: 'danum-valley',
@@ -299,6 +301,7 @@ export const destinazioniBorneo: Destinazione[] = [
   },
   {
     slug: 'semporna-sipadan',
+    immagine: '/images/borneo/diving-sipadan.jpg',
     paeseSlug: 'borneo',
     ordine: 5,
     nome: 'Semporna e Sipadan',
@@ -343,7 +346,7 @@ export const destinazioniBorneo: Destinazione[] = [
       'Sipadan regge la sua fama, cosa rara per un posto così celebrato. Si scende lungo una parete che continua nel blu senza un fondo visibile, e dopo pochi minuti passa un banco di barracuda che si avvita in una spirale larga come una casa; le tartarughe sono così tante che dopo la quinta si smette di fotografarle. Prima di prenotare, però, bisogna capire che il permesso decide tutto. Sono poco più di duecentocinquanta al giorno, non si comprano da privati: li assegna Sabah Parks agli operatori, che poi li distribuiscono tra gli ospiti a rotazione, e la rotazione premia chi resta più a lungo. Prenotare due notti e sperare è il modo più sicuro per non immergersi affatto. La sorpresa, comunque, è stata un\'altra: Mabul, che tutti trattano come una base d\'appoggio, è uno dei posti migliori al mondo per il muck diving, e cercare su una gorgonia un cavalluccio pigmeo grande come un\'unghia è divertente quanto un banco di barracuda. Un\'ultima cosa, che turistica non è: intorno alle palafitte vivono i Bajau Laut, spesso senza la cittadinanza di nessuno stato, e il contrasto con i resort a cinquanta metri merita che ci si fermi a pensare.',
     esperienzeSlugs: ['diving-sipadan'],
     tripSlugs: ['borneo-itinerario'],
-    imageAlt: 'Banco di barracuda in spirale lungo la parete di Sipadan, Sabah, Borneo',
+    imageAlt: 'Un banco di pesci e il reef corallino nelle acque di Sipadan, illuminati dai raggi del sole',
   },
   {
     slug: 'kuching-bako',

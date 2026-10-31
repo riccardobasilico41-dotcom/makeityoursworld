@@ -80,6 +80,7 @@ export const esperienzeGermania: Esperienza[] = [
   },
   {
     slug: 'berlino-clubbing',
+    immagine: '/images/germania/berlino-clubbing.jpg',
     paeseSlug: 'germania',
     destinazioneSlug: 'berlino',
     nome: 'Techno e vita notturna a Berlino',
@@ -98,6 +99,6 @@ export const esperienzeGermania: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Bar e locali più informali di Kreuzberg e Friedrichshain, con ingresso libero e atmosfera meno selettiva'],
     tripSlugs: ['berlino-weekend'],
-    imageAlt: 'L\'esterno in mattoni dell\'ex centrale elettrica che ospita un noto club techno di Berlino, di sera',
+    imageAlt: 'L\'ingresso del Tresor, storico club techno di Berlino, con l\'insegna sulla facciata e i manifesti della Loveparade 2003',
   },
 ]

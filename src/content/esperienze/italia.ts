@@ -134,6 +134,7 @@ export const esperienzeItalia: Esperienza[] = [
   },
   {
     slug: 'scialpinismo-ciaspole',
+    immagine: '/images/italia/scialpinismo-ciaspole.jpg',
     paeseSlug: 'italia',
     destinazioneSlug: 'sciare-in-italia',
     nome: 'Scialpinismo e ciaspole',
@@ -160,7 +161,7 @@ export const esperienzeItalia: Esperienza[] = [
       'Lo sci di fondo, su anelli battuti, per chi cerca la fatica senza l\'esposizione',
     ],
     tripSlugs: ['settimana-bianca'],
-    imageAlt: 'Scialpinista in salita con le pelli su un pendio innevato all\'alba, Alpi',
+    imageAlt: 'Scialpinisti in fila che salgono con le pelli lungo una cresta innevata, in bianco e nero',
   },
   {
     slug: 'roma-sotterranea',
@@ -316,6 +317,7 @@ export const esperienzeItalia: Esperienza[] = [
   },
   {
     slug: 'napoli-sotterranea',
+    immagine: '/images/italia/napoli.jpg',
     paeseSlug: 'italia',
     destinazioneSlug: 'napoli',
     nome: 'Napoli sotterranea',
@@ -341,7 +343,7 @@ export const esperienzeItalia: Esperienza[] = [
       'Il Museo Archeologico Nazionale, per la Napoli di sopra e di duemila anni fa',
     ],
     tripSlugs: ['napoli-3-giorni', 'grandi-citta-italia'],
-    imageAlt: 'Cisterna sotterranea scavata nel tufo sotto il centro storico di Napoli',
+    imageAlt: 'Il golfo di Napoli con il Vesuvio sullo sfondo, una nave in rada e le barche ormeggiate nel porticciolo',
   },
   {
     slug: 'pizza-napoletana',
@@ -437,6 +439,7 @@ export const esperienzeItalia: Esperienza[] = [
   },
   {
     slug: 'cala-goloritze',
+    immagine: '/images/viaggi/sardegna-due-anime/giorno-5-cala-goloritze.jpg',
     paeseSlug: 'italia',
     destinazioneSlug: 'sardegna',
     nome: 'Scendere a Cala Goloritzé',
@@ -463,7 +466,7 @@ export const esperienzeItalia: Esperienza[] = [
       'Il giro in gommone del Golfo di Orosei, che permette di vedere più cale in una giornata senza camminare',
     ],
     tripSlugs: ['sardegna-due-anime'],
-    imageAlt: 'Cala Goloritzé con il pinnacolo di calcare e l\'acqua turchese, Sardegna',
+    imageAlt: 'L\'Aguglia di Cala Goloritzé, la guglia di calcare sopra la cala, vista dal mare',
   },
   {
     slug: 'cammini-italia',
@@ -588,6 +591,7 @@ export const esperienzeItalia: Esperienza[] = [
   },
   {
     slug: 'sorgeto-ischia',
+    immagine: '/images/viaggi/costiera-e-isole/giorno-8-sorgeto.jpg',
     paeseSlug: 'italia',
     destinazioneSlug: 'isole-golfo-napoli',
     nome: 'Le terme naturali di Sorgeto',
@@ -614,7 +618,7 @@ export const esperienzeItalia: Esperienza[] = [
       'Le terme di Cavascura, scavate nella roccia della gola, raggiungibili a piedi da Maronti',
     ],
     tripSlugs: ['costiera-e-isole'],
-    imageAlt: 'La baia di Sorgeto a Ischia con le pozze termali naturali sul bagnasciuga',
+    imageAlt: 'La baia di Sorgeto a Ischia vista dall\'alto, con le persone nelle pozze termali tra gli scogli',
   },
   {
     slug: 'stromboli-notte',

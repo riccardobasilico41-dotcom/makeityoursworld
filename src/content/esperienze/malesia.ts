@@ -94,6 +94,7 @@ export const esperienzeMalesia: Esperienza[] = [
   },
   {
     slug: 'canopy-walkway-taman-negara',
+    immagine: '/images/viaggi/malesia-singapore/giorno-4-canopy-walkway.jpg',
     paeseSlug: 'malesia',
     destinazioneSlug: 'taman-negara',
     nome: 'La canopy walkway di Taman Negara',
@@ -120,6 +121,6 @@ export const esperienzeMalesia: Esperienza[] = [
       'La risalita in barca fino alle rapide di Lata Berkoh, per vedere il fiume invece della foresta',
     ],
     tripSlugs: ['malesia-singapore'],
-    imageAlt: 'La passerella sospesa tra le chiome degli alberi a Taman Negara, Malesia',
+    imageAlt: 'Un escursionista sul ponte sospeso di corde e assi tra gli alberi del canopy walkway di Taman Negara',
   },
 ]

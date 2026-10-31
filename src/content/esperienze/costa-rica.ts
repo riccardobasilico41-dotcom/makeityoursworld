@@ -49,6 +49,7 @@ export const esperienzeCostaRica: Esperienza[] = [
   },
   {
     slug: 'kayak-tortuguero',
+    immagine: '/images/costa-rica/kayak-tortuguero.jpg',
     paeseSlug: 'costa-rica',
     destinazioneSlug: 'tortuguero',
     nome: 'Kayak tra le mangrovie all\'alba',
@@ -66,10 +67,11 @@ export const esperienzeCostaRica: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['costa-rica-itinerario'],
-    imageAlt: 'Kayak tra le mangrovie dei canali di Tortuguero all\'alba, Costa Rica',
+    imageAlt: 'Il canale di Tortuguero visto dal pelo dell\'acqua, con le case colorate del villaggio e la foresta sulla riva',
   },
   {
     slug: 'rafting-sarapiqui',
+    immagine: '/images/viaggi/costa-rica-360/giorno-6-rafting-sarapiqui.jpg',
     paeseSlug: 'costa-rica',
     destinazioneSlug: 'sarapiqui',
     nome: 'Rafting sul fiume Sarapiquí',
@@ -87,7 +89,7 @@ export const esperienzeCostaRica: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: ['Pacuaré rafting, più estremo, da organizzare separatamente con una settimana d\'anticipo'],
     tripSlugs: ['costa-rica-itinerario'],
-    imageAlt: 'Un gommone da rafting sul fiume Sarapiquí, Costa Rica',
+    imageAlt: 'Un gommone con sei persone in caschi rossi affronta le rapide del fiume Sarapiquí',
   },
   {
     slug: 'cascata-fortuna-termales',
@@ -113,6 +115,7 @@ export const esperienzeCostaRica: Esperienza[] = [
   },
   {
     slug: 'camminata-notturna-monteverde',
+    immagine: '/images/costa-rica/monteverde-stock.jpg',
     paeseSlug: 'costa-rica',
     destinazioneSlug: 'monteverde',
     nome: 'Camminata notturna nella foresta nebulosa',
@@ -130,7 +133,7 @@ export const esperienzeCostaRica: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: [],
     tripSlugs: ['costa-rica-itinerario'],
-    imageAlt: 'La foresta nebulosa di Monteverde illuminata di notte, Costa Rica',
+    imageAlt: 'Il sottobosco fitto della foresta nebulosa di Monteverde, con foglie larghe e luce filtrata dalla nebbia',
   },
   {
     slug: 'zipline-monteverde',

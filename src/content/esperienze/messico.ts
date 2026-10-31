@@ -28,6 +28,7 @@ export const esperienzeMessico: Esperienza[] = [
   },
   {
     slug: 'bioluminescenza-holbox',
+    immagine: '/images/messico/holbox-barche.jpg',
     paeseSlug: 'messico',
     destinazioneSlug: 'holbox',
     nome: 'Bioluminescenza a Punta Mosquito',
@@ -45,10 +46,11 @@ export const esperienzeMessico: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['messico-beach-life'],
-    imageAlt: 'Acqua che si illumina di blu bioluminescente di notte a Punta Mosquito',
+    imageAlt: 'Spiaggia bianca e acqua bassa turchese dell\'isola di Holbox',
   },
   {
     slug: 'temazcal',
+    immagine: '/images/messico/mahahual.jpg',
     paeseSlug: 'messico',
     destinazioneSlug: 'mahahual',
     nome: 'Temazcal',
@@ -68,7 +70,7 @@ export const esperienzeMessico: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: [],
     tripSlugs: ['messico-beach-life'],
-    imageAlt: 'Capanna tradizionale per il rito del Temazcal nella selva dello Yucatán',
+    imageAlt: 'Spiaggia di Mahahual con palme, tavolini e barche sul Mar dei Caraibi',
   },
   {
     slug: 'cenote-yucatan',
@@ -184,6 +186,7 @@ export const esperienzeMessico: Esperienza[] = [
   },
   {
     slug: 'rio-lagartos',
+    immagine: '/images/messico/rio-lagartos.jpg',
     paeseSlug: 'messico',
     destinazioneSlug: 'valladolid',
     nome: 'Río Lagartos',
@@ -202,7 +205,7 @@ export const esperienzeMessico: Esperienza[] = [
     giudizio: 'bella-non-essenziale',
     alternative: [],
     tripSlugs: ['messico-beach-life'],
-    imageAlt: 'Barche di pescatori sulla laguna di Río Lagartos, Yucatán',
+    imageAlt: 'Fenicotteri rosa che camminano nell\'acqua bassa di una laguna tra le mangrovie della costa nord dello Yucatán',
   },
   {
     slug: 'tour-3-islas-holbox',
@@ -229,6 +232,7 @@ export const esperienzeMessico: Esperienza[] = [
   },
   {
     slug: 'cabo-catoche',
+    immagine: '/images/messico/holbox-barche.jpg',
     paeseSlug: 'messico',
     destinazioneSlug: 'holbox',
     nome: 'Cabo Catoche',
@@ -245,6 +249,6 @@ export const esperienzeMessico: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Tour delle 3 Islas, più breve e con meno snorkeling ma più vario (fenicotteri, mangrovie, cenote)'],
     tripSlugs: ['messico-beach-life'],
-    imageAlt: 'Barriera corallina bassa e trasparente al largo di Cabo Catoche, Holbox',
+    imageAlt: 'Spiaggia bianca e acqua bassa turchese dell\'isola di Holbox',
   },
 ]

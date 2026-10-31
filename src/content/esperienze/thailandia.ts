@@ -7,6 +7,7 @@ import type { Esperienza } from '@/lib/types'
 export const esperienzeThailandia: Esperienza[] = [
   {
     slug: 'jay-fai-bangkok',
+    immagine: '/images/thailandia/bangkok-stock.jpg',
     paeseSlug: 'thailandia',
     destinazioneSlug: 'bangkok',
     nome: 'Jay Fai, la bancarella stellata Michelin',
@@ -24,7 +25,7 @@ export const esperienzeThailandia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['Thipsamai, per il pad thai più famoso di Bangkok, con meno attesa'],
     tripSlugs: ['thailandia'],
-    imageAlt: 'La bancarella di street food Jay Fai a Bangkok, Thailandia',
+    imageAlt: 'Il Wat Arun, il Tempio dell\'Alba, sul fiume Chao Phraya a Bangkok, Thailandia',
   },
   {
     slug: 'crociera-cheow-lan',

@@ -137,6 +137,7 @@ export const esperienzeTransilvania: Esperienza[] = [
   },
   {
     slug: 'terme-bucarest',
+    immagine: '/images/viaggi/transilvania-express/giorno-5-therme-bucuresti.jpg',
     paeseSlug: 'transilvania',
     destinazioneSlug: 'bucarest',
     nome: 'Terme di Bucarest',
@@ -154,6 +155,6 @@ export const esperienzeTransilvania: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: [],
     tripSlugs: ['transilvania-express'],
-    imageAlt: 'Le piscine termali di un parco acquatico a Bucarest, Romania',
+    imageAlt: 'La facciata di vetro e acciaio a forma di vela del complesso Therme București',
   },
 ]

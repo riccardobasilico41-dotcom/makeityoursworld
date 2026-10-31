@@ -101,6 +101,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
   },
   {
     slug: 'alula',
+    immagine: '/images/arabia-saudita/alula.jpg',
     paeseSlug: 'arabia-saudita',
     ordine: 2,
     nome: 'AlUla e Hegra',
@@ -149,7 +150,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       'Hegra è il motivo per cui si prende l\'aereo per l\'Arabia Saudita, e mantiene quello che promette, a patto di aggiustare le aspettative. Chi arriva pensando a "Petra senza la folla" trova un\'altra cosa: le tombe sono centoundici contro le centinaia di Petra, non c\'è un Siq che prepari la sorpresa e non c\'è un Tesoro. In compenso c\'è quello che altrove non c\'è più. Si sta davanti a una facciata nabatea scolpita duemila anni fa, alta dieci metri, con le iscrizioni ancora leggibili sull\'architrave, e intorno non c\'è nessuno: niente venditori, niente cammelli, niente gruppi. La Qasr al-Farid, la tomba solitaria rimasta incompiuta, sta da sola in mezzo al deserto e mostra come lavoravano: scolpivano dall\'alto verso il basso, e lei si vede a metà. Il resto della zona vale quanto Hegra. Jabal Ikmah è una parete di roccia coperta di iscrizioni in quattro alfabeti, lasciate da chi passava di qui duemilacinquecento anni fa: una specie di registro pubblico scolpito nella pietra. Sul piano pratico conta una cosa: si entra solo con la guida e con la prenotazione, e ad AlUla gli alloggi sono pochi e cari.',
     esperienzeSlugs: ['hegra-alula'],
     tripSlugs: ['arabia-saudita-itinerario'],
-    imageAlt: 'La tomba nabatea Qasr al-Farid isolata nel deserto di Hegra, AlUla, Arabia Saudita',
+    imageAlt: 'Un dromedario in primo piano sulla sabbia di AlUla, con un pinnacolo di arenaria e le rocce del deserto sullo sfondo',
   },
   {
     slug: 'riyadh-diriyah',
@@ -250,6 +251,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
   },
   {
     slug: 'umluj-mar-rosso',
+    immagine: '/images/arabia-saudita/umluj-mar-rosso.jpg',
     paeseSlug: 'arabia-saudita',
     ordine: 5,
     nome: 'Umluj e il Mar Rosso',
@@ -290,6 +292,6 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       'Non ci sono ancora stato, e la scheda si ferma ai fatti invece di raccontare una giornata inventata. È in lista per un motivo che ha una scadenza. Questi reef sono tra i meno danneggiati del Mar Rosso perché fino al 2019 quasi nessun turista poteva arrivarci, e adesso su questa costa stanno nascendo alcuni dei più grandi progetti turistici mai avviati al mondo. Il periodo in cui Umluj resta un porto di pescatori con un centinaio di isole bianche davanti e nessuna struttura sarà, con ogni probabilità, breve. Va anche detto con onestà cosa comporta: niente servizi, pochi operatori, nessuno standard garantito, e le regole del paese valgono anche in spiaggia, dove sulle spiagge pubbliche si entra in acqua vestiti. Non è una meta balneare come la intendiamo noi: è una costa che si sta aprendo adesso.',
     esperienzeSlugs: [],
     tripSlugs: [],
-    imageAlt: 'Isole di sabbia bianca e acqua turchese nell\'arcipelago di Umluj, Mar Rosso, Arabia Saudita',
+    imageAlt: 'Le case basse e bianche di Umluj viste dall\'alto, con il Mar Rosso blu all\'orizzonte',
   },
 ]

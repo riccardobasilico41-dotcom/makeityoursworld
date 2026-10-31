@@ -32,6 +32,7 @@ export const esperienzePanama: Esperienza[] = [
   },
   {
     slug: 'notte-isola-san-blas',
+    immagine: '/images/panama/san-blas.jpg',
     paeseSlug: 'panama',
     destinazioneSlug: 'san-blas',
     nome: 'Notte in cabaña a San Blas',
@@ -55,7 +56,7 @@ export const esperienzePanama: Esperienza[] = [
       'Traversata a vela San Blas-Cartagena (3-5 giorni), per chi prosegue verso la Colombia',
     ],
     tripSlugs: ['centro-america-itinerario'],
-    imageAlt: 'Cabaña con tetto di palma su un isolotto di sabbia bianca a San Blas, Panama',
+    imageAlt: 'Un isolotto di sabbia bianca con palme da cocco e due capanne dal tetto di palma nel mare basso di San Blas',
   },
   {
     slug: 'alba-volcan-baru',

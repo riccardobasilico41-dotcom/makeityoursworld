@@ -38,6 +38,7 @@ export const esperienzeBorneo: Esperienza[] = [
   },
   {
     slug: 'sepilok-oranghi',
+    immagine: '/images/viaggi/borneo-itinerario/giorno-5-sepilok-orangutan.jpg',
     paeseSlug: 'borneo',
     destinazioneSlug: 'sepilok-sandakan',
     nome: 'Le poppate degli oranghi a Sepilok',
@@ -64,10 +65,11 @@ export const esperienzeBorneo: Esperienza[] = [
       'Bukit Lawang a Sumatra, dove gli oranghi si cercano a piedi nella giungla invece di aspettarli',
     ],
     tripSlugs: ['borneo-itinerario'],
-    imageAlt: 'Un orango si sposta lungo una corda sopra la passerella del centro di Sepilok, Sabah',
+    imageAlt: 'Due oranghi al Sepilok Orangutan Rehabilitation Centre, ripresi da vicino mentre si nutrono',
   },
   {
     slug: 'crociera-kinabatangan',
+    immagine: '/images/borneo/kinabatangan.jpg',
     paeseSlug: 'borneo',
     destinazioneSlug: 'kinabatangan',
     nome: 'Crociere sul fiume Kinabatangan',
@@ -93,7 +95,7 @@ export const esperienzeBorneo: Esperienza[] = [
       'Le Gomantong Caves, poco lontano, con l\'uscita serale di milioni di pipistrelli',
     ],
     tripSlugs: ['borneo-itinerario'],
-    imageAlt: 'Barca in avvicinamento alla riva del fiume Kinabatangan all\'alba con la foresta sullo sfondo',
+    imageAlt: 'Barche di legno colorate ormeggiate sulla riva del fiume Kinabatangan, pronte a partire verso la foresta',
   },
   {
     slug: 'diving-sipadan',

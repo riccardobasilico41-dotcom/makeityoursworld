@@ -221,6 +221,7 @@ export const esperienzeCina: Esperienza[] = [
   },
   {
     slug: 'avatar-yuanjiajie',
+    immagine: '/images/cina/zhangjiajie.jpg',
     paeseSlug: 'cina',
     destinazioneSlug: 'zhangjiajie',
     nome: 'Yuanjiajie e l\'ascensore di Bailong',
@@ -247,7 +248,7 @@ export const esperienzeCina: Esperienza[] = [
       'Il sentiero della Frusta d\'Oro (Jinbian Xi) in fondovalle, che mostra i pilastri dal basso invece che dall\'alto',
     ],
     tripSlugs: ['cina-paesaggi'],
-    imageAlt: 'Il Pilastro dell\'Alleluia e i pilastri di quarzite di Yuanjiajie nella nebbia, Zhangjiajie',
+    imageAlt: 'I pilastri di arenaria del parco nazionale di Zhangjiajie, ricoperti di alberi, sotto un cielo azzurro',
   },
   {
     slug: 'tianmen-shan',
