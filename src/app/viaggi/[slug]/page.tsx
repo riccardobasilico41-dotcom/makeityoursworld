@@ -207,7 +207,7 @@ function SignatureViaggioContent({
       <RiepilogoViaggio viaggio={viaggio} meta={meta} />
 
       <section className="py-16 sm:py-20">
-        <Container className="grid gap-14 lg:grid-cols-[1.6fr_1fr]">
+        <Container className="grid gap-12 lg:grid-cols-[minmax(0,1fr)_18rem]">
           <div className="space-y-16">
             {viaggio.apertura && (
               <p className="font-display text-xl italic leading-relaxed text-alpine sm:text-2xl lg:text-3xl">
@@ -336,8 +336,8 @@ function SignatureViaggioContent({
             <FirmaAutore />
           </div>
 
-          <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">
-            {toc.length > 0 && <StickyTableOfContents items={toc} />}
+          {/* La colonna scorre con la pagina: resta attaccato in alto solo l'indice, in fondo alla colonna */}
+          <aside className="flex flex-col gap-6">
 
             {viaggio.schedaPratica && (
               <div className="rounded-none border border-alpine/10 bg-cream-dark/50 p-6">
@@ -370,6 +370,7 @@ function SignatureViaggioContent({
               <br />
               Prezzi, orari, documenti e traghetti vanno sempre verificati prima della partenza.
             </p>
+            {toc.length > 0 && <StickyTableOfContents items={toc} />}
           </aside>
         </Container>
       </section>

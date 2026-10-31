@@ -13,7 +13,7 @@ export type TocItem = {
  */
 export function StickyTableOfContents({ items, className = '' }: { items: TocItem[]; className?: string }) {
   return (
-    <nav aria-label="Indice della pagina" className={`lg:sticky lg:top-24 lg:self-start ${className}`}>
+    <nav aria-label="Indice della pagina" className={`lg:sticky lg:top-24 lg:max-h-[calc(100dvh-7rem)] lg:overflow-y-auto lg:overscroll-contain ${className}`}>
       <details className="group rounded-none border border-alpine/10 bg-white">
         <summary className="flex cursor-pointer list-none items-center gap-2 px-5 py-4 text-sm font-semibold text-alpine marker:content-none">
           <List size={16} />
