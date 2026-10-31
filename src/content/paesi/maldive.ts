@@ -2,8 +2,8 @@ import type { Paese } from '@/lib/types'
 
 // Le Maldive entrano nell'archivio con una guida modulare (maldive-guida):
 // stagioni, atolli, isole locali e resort, escursioni, siti dei grandi animali
-// e liveaboard, con un itinerario d'esempio di 10 giorni. Nessuna esperienza
-// vissuta in questa fase: i ricordi dell'autore si aggiungono dal diario.
+// e liveaboard, con l'itinerario di 10 giorni fatto dall'autore (Ari Sud,
+// un resort, Hulhumalé).
 // Fatti verificati a ottobre 2026, da riverificare prima della partenza.
 
 export const maldive: Paese = {

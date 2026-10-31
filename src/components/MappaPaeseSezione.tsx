@@ -45,7 +45,7 @@ function graticola(file: FileMappa): string {
 }
 
 /** Prima frase (o ~170 caratteri tagliati su una parola), senza markdown. */
-function unaRiga(testo: string, max = 170): string {
+export function unaRiga(testo: string, max = 170): string {
   const t = plain(testo).replace(/\s+/g, ' ').trim()
   const frase = t.match(/^.{20,}?[.!?](?=\s|$)/)?.[0]
   if (frase && frase.length <= max + 30) return frase

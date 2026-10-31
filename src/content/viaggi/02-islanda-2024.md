@@ -243,7 +243,7 @@ Fonti caricate:
 4. **Correzione personale confermata**: il relitto dell'aereo a Sólheimasandur
    non è stato visitato la mattina del Giorno 3 come da programma originale,
    ma **a piedi, a mezzanotte**, dopo cena del Giorno 2 — grazie al sole di
-   mezzanotte ancora presente a inizio luglio. Spostato nel file di conseguenza.
+   mezzanotte ancora presente a fine luglio. Spostato nel file di conseguenza.
 5. **Traccia di riferimento con orari** — i Giorni 3 (pomeriggio) → 9 sono stati
    ricostruiti con lo stesso livello di dettaglio dei Giorni 1-3, incrociando
    l'ordine dei luoghi del vademecum con un itinerario di riferimento dello

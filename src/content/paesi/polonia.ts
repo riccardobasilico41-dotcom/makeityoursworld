@@ -6,15 +6,9 @@ import type { Paese } from '@/lib/types'
 // manca di proposito Varsavia, che meriterebbe un itinerario a sé e non va
 // compressa dentro un weekend breve.
 //
-// Nessuno ha ancora messo piede in Polonia per conto di questo sito: la
-// destinazione di Cracovia e quella di Auschwitz-Birkenau restano entrambe
-// visitataPersonalmente: false e senza il campo miaEsperienza, che nel tipo
-// Destinazione è facoltativo apposta — se assente, la UI mostra un
-// placeholder editoriale invece di un ricordo inventato (vedi il commento sul
-// tipo in src/lib/types.ts, e lo stesso trattamento usato in
-// src/content/meraviglie.ts per i monumenti non visitati). Questa è quindi
-// scheda di ricerca, non un diario: fatti verificabili, senza episodi in
-// prima persona.
+// È un viaggio fatto da Rick (articolo cracovia-weekend): Cracovia e Auschwitz-Birkenau sono
+// entrambe visitataPersonalmente: true. Il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore (vedi il commento sul
+// tipo in src/lib/types.ts).
 
 export const polonia: Paese = {
   slug: 'polonia',

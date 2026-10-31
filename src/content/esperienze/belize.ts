@@ -1,8 +1,8 @@
 import type { Esperienza } from '@/lib/types'
 
-// Paese non ancora visitato: miaEsperienza assente e giudizio 'da-verificare'
-// ovunque. Prezzi e modalità sono indicativi, da riverificare prima di
-// prenotare.
+// Esperienze fatte nel viaggio del Centro America (prima parte dell'articolo
+// centro-america-itinerario). miaEsperienza assente, giudizio lasciato com'è.
+// Prezzi e modalità sono indicativi, da riverificare prima di prenotare.
 
 export const esperienzeBelize: Esperienza[] = [
   {
@@ -37,7 +37,7 @@ export const esperienzeBelize: Esperienza[] = [
     cosE:
       'Un\'escursione di una giornata in una grotta che i maya usavano per i riti. Ci si arriva con una camminata nella giungla e tre guadi, si entra a nuoto e si va avanti per ore fra passaggi stretti e camere allagate, fino alle sale dove ceramiche e resti umani sono rimasti dove furono lasciati oltre mille anni fa, compresa la famosa «Crystal Maiden».',
     percheFarla:
-      'È una delle poche grotte archeologiche al mondo dove si vedono i reperti ancora in situ, senza vetrine né ricostruzioni. È archeologia e fatica insieme, e molti la ricordano come il momento più forte del viaggio in Belize.',
+      'È una delle poche grotte archeologiche al mondo dove si vedono i reperti ancora in situ, senza vetrine né ricostruzioni. È archeologia e fatica insieme, e per me è stata la cosa più impressionante di tutto il Belize.',
     durata: 'giornata intera, circa 7-8 ore incluso il trasporto',
     periodo: 'tutto l\'anno, con possibili chiusure dopo piogge intense per il livello dell\'acqua nella grotta',
     costo: 'indicativamente 100-140 USD a persona, con trasporto, guida, ingresso e pranzo inclusi',

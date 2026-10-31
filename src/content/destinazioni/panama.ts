@@ -1,10 +1,9 @@
 import type { Destinazione } from '@/lib/types'
 
-// Paese visitato di persona. I campi miaEsperienza sono bozze scritte da
-// Claude nella voce del diario, basate su ciò che è oggettivamente vero di
-// ogni posto (fatica, stagione, affollamento, logistica) e non su ricordi
-// reali: vanno riletti e sostituiti con i tuoi. Nessun nome di hotel,
-// ristorante o operatore è stato inventato.
+// Paese visitato di persona (seconda parte dell'articolo centro-america-itinerario,
+// raggiunta in volo dal Belize). I campi miaEsperienza sono in prima persona e
+// tengono solo i fatti raccontati nell'articolo. Nessun nome di hotel,
+// ristorante o operatore.
 
 export const destinazioniPanama: Destinazione[] = [
   {
@@ -44,7 +43,7 @@ export const destinazioniPanama: Destinazione[] = [
       'Girare di notte fuori dalle zone turistiche del Casco Viejo, che confina con quartieri da evitare',
     ],
     miaEsperienza:
-      'Panama City spiazza perché non somiglia al resto della regione: dal Casco Viejo si guarda uno skyline di grattacieli che sembra Miami, e in mezzo ci sono duecento metri di quartieri in cui non si entra la sera. Il Casco è stato ristrutturato in fretta e in modo disomogeneo, con palazzi rifatti accanto a facciate ancora puntellate, e questo contrasto è la cosa più interessante da guardare. Sulle chiuse di Miraflores serve un consiglio pratico più che un giudizio: senza una nave in transito si guarda una vasca di cemento vuota, quindi gli orari di passaggio vanno controllati prima di partire da casa. Quando invece una portacontainer entra nella camera con pochi centimetri per lato, il senso si capisce subito.',
+      'Dall\'aeroporto siamo andati dritti al Casco Viejo, e il primo impatto è stato uno skyline di grattacieli che non somigliava a niente di quello visto nelle tre settimane prima. Il giorno dopo, al mattino, le chiuse di Miraflores: gli orari di transito delle navi vanno controllati prima, perché senza una nave in manovra si guarda una vasca di cemento vuota, mentre una portacontainer che entra con pochi centimetri di margine per lato vale da sola la deviazione. Nel pomeriggio le rovine di Panamá Viejo e una passeggiata nel Casco Viejo, dove la cosa più interessante da guardare è il contrasto fra palazzi ristrutturati e facciate ancora puntellate. Abbiamo pranzato al Mercado de Mariscos con un ceviche in bicchiere di plastica da un paio di dollari. Fuori dalle zone turistiche del Casco, dopo il tramonto, meglio non girare a piedi.',
     esperienzeSlugs: ['chiuse-miraflores'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Lo skyline dei grattacieli di Panama City visto da una terrazza del Casco Viejo',
@@ -86,7 +85,7 @@ export const destinazioniPanama: Destinazione[] = [
       'Prenotare con intermediari non autorizzati: le strutture e i trasporti sono gestiti dalla comunità Guna, che regola gli accessi',
     ],
     miaEsperienza:
-      'Il viaggio per arrivarci mette alla prova: sveglia alle cinque, tre ore di 4x4 su una strada di montagna con pendenze che sembrano sbagliate, e poi una barca aperta che nelle giornate ventose prende onda in pieno. Poi si arriva, e le isole sono proprio quelle delle fotografie: palme, sabbia, acqua bassa e nient\'altro. Conviene sapere in cosa si sta entrando. Guna Yala è un territorio autogovernato: le regole le fanno i Guna, il turismo lo gestiscono loro e l\'ingresso si paga a loro, in contanti. Le cabañas sono spartane per scelta, senza trascuratezza: luce a orario, acqua dolce razionata, niente wifi. Chi ci va aspettandosi un resort passa due giorni a lamentarsi; chi accetta il patto trova il posto più bello dei Caraibi panamensi.',
+      'Arrivarci è stato il trasferimento più impegnativo della seconda parte: sveglia verso le cinque, quasi tre ore di 4x4 su una strada di montagna dalle pendenze ripide fino al porto di Cartí, poi la barca verso le isole. Conviene sapere in cosa si entra. Guna Yala è un territorio autogovernato: il turismo lo gestiscono i Guna e la tassa d\'ingresso si paga a loro, solo in contanti, perché sulle isole non ci sono bancomat né carte. La nostra cabaña era essenziale per scelta, gestita da una famiglia Guna: luce a orario, acqua dolce razionata, wifi quasi assente, pasti inclusi. Il giorno pieno l\'abbiamo passato in barca fra Isla Perro, col relitto da fare in snorkeling, Isla Aguja, i Cayos Holandeses e le piscine naturali in mezzo al mare. Le regole sono della comunità: si chiede il permesso prima di fotografare persone e case, dalle isole non si porta via niente e le immersioni con bombole sono vietate.',
     esperienzeSlugs: ['notte-isola-san-blas'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Isolotto di sabbia bianca con palme e capanne nell\'arcipelago di San Blas, Panama',
@@ -131,7 +130,7 @@ export const destinazioniPanama: Destinazione[] = [
       'Programmare il tour in barca senza tenere conto del mare mosso, che può cancellare le uscite verso i cayos più esterni',
     ],
     miaEsperienza:
-      'Bocas è l\'opposto di San Blas: rumorosa, sociale, piena di ostelli e di gente che resta più del previsto. Le case su palafitte di Bocas Town sono belle in fotografia e un po\' meno da vicino, ma il giro in barca tra gli isolotti compensa: Cayo Zapatilla è la cosa più bella dell\'arcipelago e Starfish Beach mantiene la promessa del nome, con le stelle marine visibili in acqua alta un metro. Più di qualsiasi consiglio estetico valgono due avvertenze pratiche. La prima: qui il meteo non segue la stagione secca panamense, e ci si può trovare sotto la pioggia in pieno febbraio mentre nella capitale c\'è il sole. La seconda: le sabbie sono infestate dai chitre, moscerini che pungono senza che ci si accorga e lasciano segni per giorni.',
+      'Da Boquete siamo arrivati a Bocas via terra fino ad Almirante e poi in water taxi, ed è stato l\'opposto di San Blas: case su palafitte, un\'atmosfera molto più sociale e rumorosa, ostelli e gente che quasi sempre resta più del previsto. Il giorno dopo abbiamo fatto il giro in barca fra gli isolotti: Cayo Zapatilla, spesso il punto più bello di tutto il giro, e Starfish Beach, che mantiene la promessa del nome con le stelle marine in acqua alta poco più di un metro, più una sosta di snorkeling a Cayo Coral. Le uscite verso i cayos più esterni saltano col mare mosso, ed è un\'eventualità da mettere in conto. Due avvertenze pratiche: qui il meteo segue un microclima proprio e non la stagione secca del resto di Panama, e le sabbie sono infestate dai chitre, moscerini che pungono senza farsi sentire e lasciano segni per giorni. La sera, a Bocas Town, musica dal vivo e feste che spesso si spostano in barca sulle isole vicine.',
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Casette colorate su palafitte e pontile di legno sull\'acqua a Bocas del Toro, Panama',
@@ -175,7 +174,7 @@ export const destinazioniPanama: Destinazione[] = [
       'Aspettarsi la vista sui due oceani garantita: capita solo con cielo limpido, tipicamente nei mesi secchi',
     ],
     miaEsperienza:
-      'Dopo il caldo umido delle isole, Boquete è un sollievo fisico: si dorme con la finestra aperta e senza ventilatore, cosa che a Panama non capita quasi mai. La salita notturna al Barú è dura più per il modo in cui è fatta che per la pendenza: tredici chilometri di pista sconnessa partendo attorno a mezzanotte, al buio, col freddo che aumenta man mano, per arrivare in vetta intorno ai 3.475 metri prima dell\'alba. E c\'è una verità scomoda: la famosa vista sui due oceani insieme si ha solo con il cielo del tutto limpido, cioè pochi giorni buoni anche in stagione secca. Chi non vuole rischiare la notte in bianco ha alternative valide: il Sendero Los Quetzales e un tour serio in una finca di caffè valgono da soli la deviazione in montagna.',
+      'Ci siamo arrivati da San Blas passando per Panama City e il volo per David, e dopo il caldo umido delle isole Boquete è stato un sollievo fisico: si dorme con la finestra aperta e senza ventilatore, cosa che nel resto del viaggio non capita quasi mai. Abbiamo fatto il tour di una finca di caffè con degustazione, ed è qui che si assaggia il Geisha a una frazione di quello che costa altrove. La notte dopo siamo partiti attorno a mezzanotte per il Barú: tredici chilometri di pista sterrata per lato, al buio, col freddo che aumenta, per arrivare in vetta ai 3.475 metri prima dell\'alba. La vista sui due oceani insieme si ha solo con il cielo del tutto limpido, cioè in pochi giorni buoni anche in stagione secca; anche senza quella fortuna, la salita notturna con le valli illuminate sotto vale la fatica. In tarda mattinata eravamo di nuovo a Boquete.',
     esperienzeSlugs: ['alba-volcan-baru'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Arcobaleno sulle colline verdi attorno a Boquete, negli altopiani di Chiriquí, Panama',

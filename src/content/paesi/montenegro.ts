@@ -3,8 +3,7 @@ import type { Paese } from '@/lib/types'
 // Il Montenegro entra nell'archivio con un roadtrip di 10 giorni
 // (montenegro-itinerario) tra Bocche di Cattaro, costa, lago di Scutari,
 // Ostrog, Durmitor e Tara, con varianti combinate con Croazia, Bosnia e
-// Albania. Nessuna esperienza vissuta in questa fase: i ricordi dell'autore si
-// aggiungono dal diario. Fatti verificati a ottobre 2026.
+// Albania. È un viaggio fatto da Rick; il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore. Fatti verificati a ottobre 2026.
 
 export const montenegro: Paese = {
   slug: 'montenegro',

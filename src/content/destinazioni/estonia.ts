@@ -2,12 +2,12 @@ import type { Destinazione } from '@/lib/types'
 
 // Terza e ultima tappa dell'itinerario "Capitali baltiche in 9 giorni"
 // (src/content/viaggi/61-capitali-baltiche.md, dati in
-// src/content/viaggi-dati/capitali-baltiche.ts). Stesso trattamento delle
-// destinazioni lituane e lettoni: visitataPersonalmente false, nessun
-// miaEsperienza. A differenza di Vilnius e Riga, qui non c'è una seconda
-// destinazione satellite paragonabile a Trakai o Jūrmala: Toompea, Kadriorg e
-// Telliskivi sono quartieri di Tallinn stessa, non luoghi separati, e restano
-// dentro il cosaVedere/cosaFare dell'unica destinazione estone.
+// src/content/viaggi-dati/capitali-baltiche.ts), viaggio fatto da Rick. Stesso trattamento
+// delle destinazioni lituane e lettoni: visitataPersonalmente true, miaEsperienza resta assente finché non arriva un ricordo dell'autore.
+// A differenza di Vilnius e Riga, qui non c'è una seconda destinazione
+// satellite paragonabile a Trakai o Jūrmala: Toompea, Kadriorg e Telliskivi
+// sono quartieri di Tallinn stessa, non luoghi separati, e restano dentro il
+// cosaVedere/cosaFare dell'unica destinazione estone.
 
 export const destinazioniEstonia: Destinazione[] = [
   {
@@ -17,7 +17,7 @@ export const destinazioniEstonia: Destinazione[] = [
     nome: 'Tallinn',
     tipologia: ['città', 'storia', 'architettura'],
     giorniConsigliati: '3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La capitale dell\'Estonia è la più settentrionale delle tre capitali baltiche e si affaccia sul Golfo di Finlandia. La Città Vecchia, patrimonio UNESCO dal 1997, è uno dei centri medievali meglio conservati del nord Europa: in alto la Toompea, la collina fortificata dove risiedeva il potere, in basso la città dei mercanti anseatici. Fuori dalle mura, il parco barocco di Kadriorg e l\'ex complesso industriale di Telliskivi raccontano due Estonie diverse, quella zarista e quella più recente, digitale e creativa.',
     percheAndarci:

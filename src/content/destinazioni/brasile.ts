@@ -1,8 +1,9 @@
 import type { Destinazione } from '@/lib/types'
 
 // Tappe di "Brasile in 22 giorni" (src/content/viaggi/68-brasile-itinerario.md)
-// e delle sue due estensioni (Pantanal, Amazzonia). Guida non vissuta: tutte
-// hanno visitataPersonalmente: false e nessun miaEsperienza. Nessun nome di
+// e delle sue due estensioni (Pantanal, Amazzonia). Le tappe del viaggio fatto
+// dall'autore hanno visitataPersonalmente: true; le due estensioni, solo
+// proposte nell'articolo, restano false. Nessun miaEsperienza. Nessun nome di
 // hotel, ristorante o operatore inventato. Prezzi indicativi 2026.
 
 export const destinazioniBrasile: Destinazione[] = [
@@ -13,7 +14,7 @@ export const destinazioniBrasile: Destinazione[] = [
     nome: 'Rio de Janeiro',
     tipologia: ['città', 'mare', 'panorami'],
     giorniConsigliati: '4 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Una metropoli stretta tra montagne di granito, foresta atlantica e oceano, con le spiagge di Copacabana e Ipanema, il Cristo Redentor sul Corcovado e il Pão de Açúcar all\'ingresso della baia di Guanabara.',
     percheAndarci: 'Per i panorami dall\'alto, le spiagge in città, il samba di Lapa e la cucina dei botecos.',
@@ -53,7 +54,7 @@ export const destinazioniBrasile: Destinazione[] = [
     nome: 'Paraty e Ilha Grande',
     tipologia: ['mare', 'città coloniale', 'isole', 'foresta'],
     giorniConsigliati: '4 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La Costa Verde tra Rio e São Paulo comprende la città coloniale di Paraty, porto dell\'oro nel Settecento, e Ilha Grande, isola senza auto coperta di foresta atlantica. Dal 2019 sono patrimonio UNESCO insieme alla Serra da Bocaina.',
     percheAndarci: 'Per la baia di Paraty in barca, le cascate dell\'entroterra e spiagge come Lopes Mendes.',
@@ -88,7 +89,7 @@ export const destinazioniBrasile: Destinazione[] = [
     nome: 'Cascate di Iguazú (Foz do Iguaçu)',
     tipologia: ['cascate', 'parco nazionale', 'natura'],
     giorniConsigliati: '2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Circa 275 salti lungo quasi tre chilometri sul confine tra Brasile e Argentina, dentro due parchi nazionali patrimonio UNESCO. Il lato brasiliano offre la vista d\'insieme, quello argentino le passerelle sopra la Garganta del Diablo.',
     percheAndarci: 'Per uno dei sistemi di cascate più grandi del mondo, da vedere da due paesi.',
@@ -120,7 +121,7 @@ export const destinazioniBrasile: Destinazione[] = [
     nome: 'Salvador de Bahia',
     tipologia: ['città coloniale', 'cultura afro-brasiliana', 'mare'],
     giorniConsigliati: '3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Prima capitale del Brasile (1549-1763) e principale porto di arrivo degli africani ridotti in schiavitù, Salvador ha una cultura profondamente afro-brasiliana: candomblé, capoeira, tamburi, cucina con l\'olio di dendê. Il centro storico del Pelourinho è patrimonio UNESCO.',
     percheAndarci: 'Per il Pelourinho, la musica, la capoeira e la cucina bahiana.',
@@ -156,7 +157,7 @@ export const destinazioniBrasile: Destinazione[] = [
     nome: 'Chapada Diamantina',
     tipologia: ['trekking', 'cascate', 'grotte', 'parco nazionale'],
     giorniConsigliati: '3-5 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Un altopiano di mesas, canyon, grotte allagate e cascate nell\'interno di Bahia, con il paese di Lençóis, nato con la corsa ai diamanti dell\'Ottocento, come base.',
     percheAndarci: 'Per i trekking, le cascate come la Fumaça e le grotte d\'acqua blu del Poço Azul e del Poço Encantado.',
@@ -185,7 +186,7 @@ export const destinazioniBrasile: Destinazione[] = [
     nome: 'Lençóis Maranhenses',
     tipologia: ['dune', 'lagune', 'parco nazionale'],
     giorniConsigliati: '3-4 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Un parco nazionale di dune bianche sulla costa del Maranhão dove, dopo le piogge, si formano migliaia di lagune d\'acqua dolce trasparente. Barreirinhas, sul Rio Preguiças, è la porta d\'ingresso; Atins il villaggio all\'estremità del parco.',
     percheAndarci: 'Per fare il bagno nelle lagune tra le dune, tra giugno e settembre.',

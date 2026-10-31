@@ -9,7 +9,7 @@ import { raggruppaPerContinente } from '@/lib/utils'
 import { siteConfig } from '@/lib/site-config'
 import { pageMetadata } from '@/lib/seo'
 import { JsonLd } from '@/components/JsonLd'
-import { GloboDestinazioniSezione } from '@/components/GloboDestinazioniSezione'
+import { MappaMondoSezione } from '@/components/MappaMondoSezione'
 import { raccoltaJsonLd } from '@/lib/structured-data'
 
 export const metadata: Metadata = pageMetadata({
@@ -43,7 +43,7 @@ export default function DestinazioniIndexPage() {
           </p>
         }
       />
-      <GloboDestinazioniSezione />
+      <MappaMondoSezione />
       <section className="py-14 sm:py-20">
       <Container>
         <div className="space-y-16">

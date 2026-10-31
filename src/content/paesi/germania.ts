@@ -6,16 +6,11 @@ import type { Paese } from '@/lib/types'
 // città e della densità di cose da vedere). Non è una guida al paese intero:
 // fuori Berlino la Germania non è coperta.
 //
-// Nessuno ha ancora messo piede in Germania per conto di questo sito: la
-// destinazione di Berlino resta visitataPersonalmente: false e senza il
-// campo miaEsperienza, che nel tipo Destinazione è facoltativo apposta — se
-// assente, la UI mostra un placeholder editoriale invece di un ricordo
-// inventato (vedi il commento sul tipo in src/lib/types.ts, e lo stesso
-// trattamento usato in src/content/paesi/polonia.ts). Questa è quindi scheda
-// di ricerca, non un diario: fatti verificabili, senza episodi in prima
-// persona. I luoghi legati alla Seconda guerra mondiale e alla Guerra Fredda
-// sono scritti nello stesso registro sobrio e informativo usato per
-// Auschwitz-Birkenau in src/content/destinazioni/polonia.ts: mai come
+// È un viaggio fatto da Rick (articolo berlino-weekend): la destinazione di Berlino è
+// visitataPersonalmente: true. Il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore (vedi il commento sul tipo in
+// src/lib/types.ts). I luoghi legati alla Seconda guerra mondiale e alla
+// Guerra Fredda sono scritti nello stesso registro sobrio e informativo usato
+// per Auschwitz-Birkenau in src/content/destinazioni/polonia.ts: mai come
 // "attrazioni".
 
 export const germania: Paese = {

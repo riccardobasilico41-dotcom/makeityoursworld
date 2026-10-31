@@ -1,12 +1,13 @@
 import type { Destinazione } from '@/lib/types'
 
 // Destinazioni del Messico centrale, di Oaxaca e della Baja California Sur
-// collegate a due guide non vissute:
+// collegate a due viaggi fatti dall'autore:
 // - "Messico, Día de los Muertos" (src/content/viaggi/66-messico-dia-de-los-muertos.md)
 // - "Città del Messico e Baja California Sur" (src/content/viaggi/67-messico-cdmx-baja-california.md)
 // Tenute in un file separato da destinazioni/messico.ts (che raccoglie le
-// tappe vissute di "Messico Beach Life") per non mescolare contenuti provati
-// e ricerca. Tutte hanno visitataPersonalmente: false e nessun miaEsperienza.
+// tappe di "Messico Beach Life"). Le tappe dei due viaggi hanno
+// visitataPersonalmente: true; Pátzcuaro e Janitzio, solo variante nel
+// markdown, resta false. Nessun miaEsperienza.
 // Nessun nome di hotel, ristorante o operatore inventato. Prezzi indicativi
 // 2026, da riverificare. Lo slug della Paz è 'la-paz-baja' perché 'la-paz'
 // esiste già in destinazioni/bolivia.ts. Ordine da 10 in poi, dopo le nove
@@ -20,7 +21,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     nome: 'Città del Messico',
     tipologia: ['città', 'cultura', 'archeologia', 'gastronomia'],
     giorniConsigliati: '4-5 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La capitale sta a 2.240 metri sul fondo di un lago prosciugato, sopra le rovine di Tenochtitlán. Venti milioni di abitanti, un centro storico patrimonio UNESCO, il museo archeologico più importante delle Americhe e una cucina di strada tra le più ricche del mondo.',
     percheAndarci:
@@ -66,7 +67,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     nome: 'Puebla e Cholula',
     tipologia: ['città coloniale', 'archeologia', 'gastronomia', 'vulcani'],
     giorniConsigliati: '2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Puebla è una città coloniale patrimonio UNESCO, con le facciate rivestite di talavera e una delle cucine più importanti del paese. A mezz\'ora c\'è Cholula, con la piramide più grande del mondo per volume e, in cima, il santuario della Virgen de los Remedios con il Popocatépetl sullo sfondo.',
     percheAndarci:
@@ -104,7 +105,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     nome: 'Oaxaca',
     tipologia: ['città coloniale', 'Día de los Muertos', 'gastronomia', 'archeologia'],
     giorniConsigliati: '4-5 giorni, di più nei giorni della festa',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Capitale dello stato più indigeno del Messico, a 1.550 metri, con un centro coloniale di pietra verde patrimonio UNESCO, mercati enormi e la cucina dei sette moli. Tra il 31 ottobre e il 2 novembre è il luogo dove il Día de los Muertos è più vivo e più vario.',
     percheAndarci:
@@ -147,7 +148,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     nome: 'Valles Centrales: Teotitlán, Matatlán, Mitla e Hierve el Agua',
     tipologia: ['villaggi', 'mezcal', 'archeologia', 'natura'],
     giorniConsigliati: '1-2 giorni da Oaxaca',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La valle di Tlacolula, a est di Oaxaca, mette in fila lungo la carretera 190 il cipresso del Tule, il paese tessitore di Teotitlán del Valle, i palenques di mezcal di Santiago Matatlán, i mosaici di pietra di Mitla e le cascate pietrificate di Hierve el Agua.',
     percheAndarci:
@@ -186,7 +187,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     nome: 'Puerto Escondido e la costa di Oaxaca',
     tipologia: ['mare', 'surf', 'natura'],
     giorniConsigliati: '3-5 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Una città di surf sul Pacifico, con l\'onda di Zicatela tra le più potenti del mondo, calette tranquille, lagune con la bioluminescenza e, verso est, i villaggi di Mazunte e Zipolite. Dal 2024 la nuova autostrada l\'ha portata a circa tre ore da Oaxaca.',
     percheAndarci: 'Per chiudere un viaggio culturale con oceano, surf, tramonti e natura costiera.',
@@ -260,7 +261,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     nome: 'La Paz ed Espíritu Santo',
     tipologia: ['mare', 'fauna marina', 'isole'],
     giorniConsigliati: '3-4 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La capitale della Baja California Sur ha i ritmi di una città di provincia, un lungomare di cinque chilometri sul Mar di Cortez e, davanti, l\'arcipelago disabitato di Espíritu Santo, patrimonio UNESCO. D\'inverno nella baia si nutre lo squalo balena.',
     percheAndarci: 'Per nuotare con lo squalo balena e con i leoni marini di Los Islotes, e per Playa Balandra.',
@@ -297,7 +298,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     nome: 'Bahía Magdalena',
     tipologia: ['balene', 'laguna', 'villaggi di pescatori'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Una grande baia del Pacifico protetta da isole di sabbia, a circa tre ore da La Paz, con i villaggi di pescatori di Puerto Adolfo López Mateos e Puerto San Carlos. Da gennaio ad aprile le balene grigie vi partoriscono e allattano i piccoli.',
     percheAndarci: 'Per vedere da vicino le madri di balena grigia con i piccoli, dalle pangas delle cooperative locali.',
@@ -328,7 +329,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     nome: 'Loreto',
     tipologia: ['Pueblo Mágico', 'balene', 'parco marino'],
     giorniConsigliati: '2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Un Pueblo Mágico sul Mar di Cortez fondato nel 1697 dai gesuiti, con la prima missione delle Californie e un parco nazionale marino dove d\'inverno passa la balenottera azzurra.',
     percheAndarci: 'Per la balenottera azzurra (metà gennaio-fine marzo), per le isole del parco e per la tranquillità del paese.',
@@ -362,7 +363,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     nome: 'Todos Santos',
     tipologia: ['Pueblo Mágico', 'surf', 'arte'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Un Pueblo Mágico sul Pacifico proprio sul Tropico del Cancro, con case coloniali, gallerie e caffè, e spiagge di surf come Playa Cerritos. Più tranquillo e meno caro di Los Cabos, a un\'ora di strada.',
     percheAndarci: 'Per una sosta lenta tra La Paz e Cabo, surf a Cerritos e le liberazioni di tartarughe in stagione.',
@@ -384,7 +385,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     nome: 'Los Cabos',
     tipologia: ['mare', 'balene', 'resort'],
     giorniConsigliati: '2-3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La punta della penisola, con due città molto diverse: Cabo San Lucas, turistica e notturna, con El Arco dove il Mar di Cortez incontra il Pacifico, e San José del Cabo, coloniale e tranquilla. A nord-est, Cabo Pulmo ha l\'unica barriera corallina dura del Golfo di California.',
     percheAndarci: 'Per le megattere (dicembre-aprile), El Arco e Cabo Pulmo, e per l\'aeroporto di rientro.',

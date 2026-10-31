@@ -2,8 +2,8 @@ import type { Paese } from '@/lib/types'
 
 // Scheda Paese costruita su ricerca documentale (Viaggiare Sicuri, Ministero
 // del Turismo e delle Antichità egiziano, siti ufficiali di musei e trasporti,
-// guide recenti). Nessuna esperienza diretta: i viaggi collegati sono guide
-// in lavorazione (egitto-mare-luxor-cairo, egitto-completo).
+// guide recenti). L'autore ha fatto entrambi i viaggi collegati
+// (egitto-mare-luxor-cairo, egitto-completo).
 
 export const egitto: Paese = {
   slug: 'egitto',

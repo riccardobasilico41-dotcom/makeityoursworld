@@ -1,8 +1,8 @@
 import type { Esperienza } from '@/lib/types'
 
 // Contenuto ricostruito dal viaggio "Giappone in 12 giorni" (src/content/viaggi/05-giappone-360.md).
-// chureito-monte-fuji è collegata a una giornata aggiunta editorialmente (non
-// vissuta realmente): giudizio 'da-verificare', nessuna miaEsperienza, tripSlugs vuoto.
+// chureito-monte-fuji è collegata alla giornata al Fuji, rimessa nel markdown e vissuta:
+// giudizio ancora 'da-verificare', nessuna miaEsperienza, tripSlugs vuoto.
 
 export const esperienzeGiappone: Esperienza[] = [
   {

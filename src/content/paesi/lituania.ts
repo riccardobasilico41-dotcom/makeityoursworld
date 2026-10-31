@@ -2,13 +2,8 @@ import type { Paese } from '@/lib/types'
 
 // Prima uscita lituana dell'archivio, collegata al viaggio combinato
 // "Capitali baltiche in 9 giorni: Vilnius, Riga e Tallinn"
-// (src/content/viaggi/61-capitali-baltiche.md). Nessuno ha ancora messo
-// piede in nessuno dei tre paesi baltici per conto di questo sito:
-// visitataPersonalmente resta false su ogni destinazione ed esperienza, e il
-// campo miaEsperienza è assente di proposito ovunque — niente ricordo
-// inventato, solo fatti verificati con ricerca (stesso trattamento usato per
-// la Polonia in src/content/paesi/polonia.ts e per i monumenti non visitati
-// in src/content/meraviglie.ts).
+// (src/content/viaggi/61-capitali-baltiche.md), viaggio fatto da Rick: visitataPersonalmente
+// è true su ogni destinazione dei tre paesi baltici, e il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore.
 //
 // tripPrincipaleSlug punta all'itinerario combinato ed è impostato allo
 // stesso modo su lituania.ts, lettonia.ts ed estonia.ts, seguendo lo stesso

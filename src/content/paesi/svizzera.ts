@@ -1,12 +1,11 @@
 import type { Paese } from '@/lib/types'
 
-// Nessuna esperienza diretta del sito dietro questa scheda: la Svizzera non è
-// mai stata visitata dall'autore di questo archivio, a differenza della
-// maggior parte degli altri paesi. Tutte le destinazioni collegate hanno
-// visitataPersonalmente: false e nessuna ha il campo miaEsperienza — vedi
-// il commento in src/content/destinazioni/svizzera.ts. Prezzi, vignetta,
-// regole di campeggio in van e aperture stagionali dei passi cambiano ogni
-// stagione e da un cantone all'altro: vanno riverificati prima di partire.
+// La Svizzera è un viaggio fatto da Rick, raccontato in "Svizzera in van"
+// (svizzera-alpi-van): tutte le destinazioni collegate hanno
+// visitataPersonalmente: true. Il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore (vedi il commento in
+// src/content/destinazioni/svizzera.ts). Prezzi, vignetta, regole di campeggio
+// in van e aperture stagionali dei passi cambiano ogni stagione e da un
+// cantone all'altro: vanno riverificati prima di partire.
 
 export const svizzera: Paese = {
   slug: 'svizzera',

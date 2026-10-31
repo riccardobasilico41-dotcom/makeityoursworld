@@ -1,11 +1,10 @@
 import type { Paese } from '@/lib/types'
 
 // Terza e ultima tappa dell'itinerario combinato "Capitali baltiche in 9
-// giorni" (src/content/viaggi/61-capitali-baltiche.md). Stesso trattamento
-// delle altre due schede baltiche: nessuna destinazione o esperienza è stata
-// vissuta di persona, visitataPersonalmente resta false e miaEsperienza è
-// assente di proposito. tripPrincipaleSlug punta all'itinerario combinato,
-// come su lituania.ts e lettonia.ts.
+// giorni" (src/content/viaggi/61-capitali-baltiche.md), viaggio fatto da Rick. Stesso
+// trattamento delle altre due schede baltiche: visitataPersonalmente è true e
+// miaEsperienza resta assente finché non arriva un ricordo dell'autore. tripPrincipaleSlug punta all'itinerario combinato, come su lituania.ts
+// e lettonia.ts.
 
 export const estonia: Paese = {
   slug: 'estonia',

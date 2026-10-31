@@ -1,10 +1,9 @@
 import type { Destinazione } from '@/lib/types'
 
 // Destinazioni indiane dei tre itinerari: india-rajasthan-10-giorni,
-// india-rajasthan-varanasi e india-sud-taj-mahal. Nessuna è raccontata da
-// un viaggio vissuto in questa fase: visitataPersonalmente resta false e il
-// campo miaEsperienza è assente di proposito (la UI mostra un placeholder
-// editoriale). I ricordi dell'autore si aggiungono dal diario.
+// india-rajasthan-varanasi e india-sud-taj-mahal. L'autore le ha visitate
+// tutte (visitataPersonalmente: true); il campo miaEsperienza è assente
+// finché non si scrivono i ricordi (la UI mostra un placeholder editoriale).
 // Prezzi e orari verificati a ottobre 2026, indicativi.
 //
 // Ordine: Nord (1-8: Delhi, Agra, Jaipur, Pushkar, Jodhpur, Jaisalmer,
@@ -20,7 +19,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Delhi',
     tipologia: ['città', 'storia moghul', 'arrivo'],
     giorniConsigliati: '2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La capitale è due città in una: la Vecchia Delhi moghul di Shah Jahan, con la Jama Masjid, il Forte Rosso e i vicoli di Chandni Chowk, e la Nuova Delhi britannica dei grandi viali, dei giardini e dei mausolei.',
     percheAndarci:
@@ -66,7 +65,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Agra e il Taj Mahal',
     tipologia: ['storia moghul', 'patrimonio UNESCO'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La città del Taj Mahal, il mausoleo di marmo bianco che Shah Jahan fece costruire per la moglie Mumtaz Mahal, e del Forte di Agra, la cittadella moghul in arenaria rossa lungo il fiume Yamuna.',
     percheAndarci:
@@ -107,7 +106,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Jaipur',
     tipologia: ['città', 'forti e palazzi', 'bazar'],
     giorniConsigliati: '2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La capitale del Rajasthan, la «città rosa» fondata nel Settecento dal maharaja Jai Singh II con una pianta a griglia, mura color terracotta, bazar e alcuni dei palazzi più fotografati dell\'India.',
     percheAndarci:
@@ -149,7 +148,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Pushkar',
     tipologia: ['città santa', 'lago', 'atmosfera'],
     giorniConsigliati: '1 giorno',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Una piccola città santa attorno a un lago con 52 ghat, dove si trova uno dei pochissimi templi dedicati a Brahma in India. Vegetariana per tradizione: niente carne, niente uova e niente alcol.',
     percheAndarci:
@@ -177,7 +176,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Jodhpur',
     tipologia: ['città', 'forti e palazzi'],
     giorniConsigliati: '2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La città blu, ai margini del deserto del Thar, dominata dal Forte di Mehrangarh su uno sperone di roccia alto 120 metri.',
     percheAndarci:
@@ -209,7 +208,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Jaisalmer e il deserto del Thar',
     tipologia: ['deserto', 'forti e palazzi'],
     giorniConsigliati: '2-3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La città d\'oro, costruita in arenaria gialla nel deserto del Thar a un centinaio di chilometri dal confine pakistano, con uno dei pochi forti ancora abitati al mondo.',
     percheAndarci:
@@ -237,7 +236,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Udaipur',
     tipologia: ['città', 'laghi', 'palazzi'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La città dei laghi, nelle colline dell\'Aravalli, con il City Palace sulla riva del lago Pichola e i palazzi bianchi sulle isole.',
     percheAndarci:
@@ -269,7 +268,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Varanasi e Sarnath',
     tipologia: ['città santa', 'fiume', 'spiritualità'],
     giorniConsigliati: '3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La città santa dell\'induismo sulla riva occidentale del Gange, con 84 ghat, le scalinate dove si prega, ci si bagna e si cremano i morti. A mezz\'ora c\'è Sarnath, dove il Buddha tenne il primo sermone.',
     percheAndarci:
@@ -318,7 +317,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Chennai',
     tipologia: ['città', 'arrivo'],
     giorniConsigliati: 'di passaggio',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La capitale del Tamil Nadu, ex Madras, porta d\'ingresso aereo al Sud-est dell\'India. Una città grande e calda, con il lungomare di Marina Beach e il quartiere di Mylapore attorno al tempio di Kapaleeshwarar.',
     percheAndarci:
@@ -341,7 +340,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Mamallapuram',
     tipologia: ['patrimonio UNESCO', 'mare', 'templi'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'L\'antico porto dei re Pallava sulla costa del Coromandel, dove tra VII e VIII secolo gli scultori hanno inventato l\'architettura dei templi del Sud: templi scolpiti nella roccia, bassorilievi e il tempio sul mare.',
     percheAndarci:
@@ -372,7 +371,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Madurai',
     tipologia: ['città', 'templi'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Una delle città abitate più antiche del Sud, cresciuta per cerchi concentrici intorno al tempio di Meenakshi Amman, con le sue quattordici torri coperte di divinità dipinte.',
     percheAndarci:
@@ -405,7 +404,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Munnar',
     tipologia: ['montagna', 'piantagioni di tè', 'natura'],
     giorniConsigliati: '2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Una stazione di montagna a circa 1.600 metri sui Ghati Occidentali del Kerala, circondata da piantagioni di tè che coprono le colline a perdita d\'occhio.',
     percheAndarci:
@@ -436,7 +435,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Backwaters di Alleppey',
     tipologia: ['lagune', 'natura', 'houseboat'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La rete di canali, lagune e laghi del Kerala che corre parallela al mare tra Alappuzha (Alleppey), Kumarakom e Kollam, con risaie sotto il livello dell\'acqua e villaggi su strisce di terra.',
     percheAndarci:
@@ -466,7 +465,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Fort Kochi',
     tipologia: ['città coloniale', 'cultura', 'mare'],
     giorniConsigliati: '2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Il quartiere storico di Kochi, porto delle spezie per secoli, segnato da portoghesi, olandesi e inglesi, con le reti da pesca cinesi sul lungomare e il quartiere ebraico di Mattancherry.',
     percheAndarci:
@@ -501,7 +500,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Hampi',
     tipologia: ['patrimonio UNESCO', 'rovine', 'paesaggio'],
     giorniConsigliati: '2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Le rovine di Vijayanagara, capitale di uno dei più grandi imperi dell\'India, distrutta nel 1565, in un paesaggio di massi di granito, risaie e bananeti lungo il fiume Tungabhadra.',
     percheAndarci:

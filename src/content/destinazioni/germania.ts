@@ -2,17 +2,14 @@ import type { Destinazione } from '@/lib/types'
 
 // Prima uscita tedesca dell'archivio, collegata al viaggio "Berlino in
 // quattro giorni" (src/content/viaggi/57-berlino-weekend.md, dati in
-// src/content/viaggi-dati/berlino-weekend.ts). Un'unica destinazione,
+// src/content/viaggi-dati/berlino-weekend.ts), viaggio fatto da Rick. Un'unica destinazione,
 // Berlino: a differenza di Cracovia con Auschwitz-Birkenau, qui i luoghi
 // della memoria (Muro, Topografia del Terrore) sono dentro la città stessa e
-// non richiedono una scheda-destinazione separata. visitataPersonalmente
-// resta false e il campo miaEsperienza, facoltativo nel tipo, è assente di
-// proposito — niente ricordo inventato, solo fatti verificati con ricerca
-// (stesso trattamento usato in src/content/destinazioni/polonia.ts). I
-// paragrafi legati al nazismo e alla Guerra Fredda restano in un registro
-// sobrio e informativo, mai da "attrazione". Nessun nome di hotel,
-// ristorante o operatore è stato inventato. Orari e prezzi vanno riverificati
-// sui canali ufficiali prima di partire.
+// non richiedono una scheda-destinazione separata. visitataPersonalmente è
+// true; il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore. I paragrafi legati al nazismo e alla Guerra Fredda
+// restano in un registro sobrio e informativo, mai da "attrazione". Nessun
+// nome di hotel, ristorante o operatore è stato inventato. Orari e prezzi
+// vanno riverificati sui canali ufficiali prima di partire.
 
 export const destinazioniGermania: Destinazione[] = [
   {
@@ -22,7 +19,7 @@ export const destinazioniGermania: Destinazione[] = [
     nome: 'Berlino',
     tipologia: ['città', 'storia', 'memoria', 'arte'],
     giorniConsigliati: '4 giorni, uno in più rispetto ad altre capitali, per via delle dimensioni della città',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La capitale tedesca, capitale del Reich fino al 1945, divisa dal 1961 al 1989 in Berlino Ovest e Berlino Est dal Muro che l\'ha resa il simbolo fisico della Guerra Fredda, e riunificata con la Germania nel 1990. È molto più estesa e meno densa di altre capitali europee, con quartieri di carattere molto diverso: il centro storico e il quartiere del governo, l\'Isola dei Musei patrimonio UNESCO, e i quartieri a est come Kreuzberg e Friedrichshain, cresciuti sulla scia della riunificazione fino a diventare tra i più vivi d\'Europa.',
     percheAndarci:

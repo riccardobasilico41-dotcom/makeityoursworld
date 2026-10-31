@@ -1,11 +1,9 @@
 import type { Esperienza } from '@/lib/types'
 
-// Esperienze collegate a "Svizzera in van" (src/content/viaggi/52-svizzera-alpi-van.md).
-// Nessuna di queste è stata provata realmente: tutte hanno
-// giudizio: 'da-verificare' e nessuna ha il campo miaEsperienza, lo stesso
-// pattern usato per monte-fuji-chureito in src/content/esperienze/giappone.ts
-// per una giornata aggiunta editorialmente e non vissuta. Prezzi e orari
-// stagionali vanno riverificati prima di partire.
+// Esperienze collegate a "Svizzera in van" (src/content/viaggi/52-svizzera-alpi-van.md),
+// viaggio fatto da Rick. giudizio resta 'da-verificare' finché non arriva la sua valutazione
+// e il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore. Prezzi e orari stagionali vanno riverificati prima di
+// partire.
 
 export const esperienzeSvizzera: Esperienza[] = [
   {

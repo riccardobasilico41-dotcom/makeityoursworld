@@ -2,16 +2,13 @@ import type { Destinazione } from '@/lib/types'
 
 // Prima uscita polacca dell'archivio, collegata al viaggio "Cracovia in un
 // weekend lungo" (src/content/viaggi/53-cracovia-weekend.md, dati in
-// src/content/viaggi-dati/cracovia-weekend.ts). Nessuna delle due
-// destinazioni qui sotto è stata visitata di persona: visitataPersonalmente
-// resta false su entrambe e il campo miaEsperienza, facoltativo nel tipo, è
-// assente di proposito — niente ricordo inventato, solo fatti verificati con
-// ricerca (stesso trattamento usato in src/content/meraviglie.ts per i
-// monumenti non visitati). Auschwitz-Birkenau è scritta in un registro
-// deliberatamente sobrio: informativo, mai da "attrazione". Nessun nome di
-// hotel, ristorante o operatore è stato inventato. Prezzi e regole di
-// prenotazione (soprattutto quelle di Auschwitz-Birkenau) cambiano spesso e
-// vanno riverificati sui canali ufficiali prima di partire.
+// src/content/viaggi-dati/cracovia-weekend.ts), viaggio fatto da Rick: visitataPersonalmente è
+// true su entrambe le destinazioni e il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore. Auschwitz-Birkenau è
+// scritta in un registro deliberatamente sobrio: informativo, mai da
+// "attrazione". Nessun nome di hotel, ristorante o operatore è stato
+// inventato. Prezzi e regole di prenotazione (soprattutto quelle di
+// Auschwitz-Birkenau) cambiano spesso e vanno riverificati sui canali
+// ufficiali prima di partire.
 
 export const destinazioniPolonia: Destinazione[] = [
   {
@@ -21,7 +18,7 @@ export const destinazioniPolonia: Destinazione[] = [
     nome: 'Cracovia',
     tipologia: ['città', 'storia', 'arte'],
     giorniConsigliati: '3-4 giorni, comprese le gite fuori porta ad Auschwitz-Birkenau e alla Miniera di sale di Wieliczka',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La capitale polacca fino al 1596 e l\'unica grande città del paese uscita quasi intatta dalla Seconda guerra mondiale: il centro storico, patrimonio UNESCO dal 1978 (nella prima lista mai compilata), conserva la struttura medievale con Rynek Główny, una delle piazze del mercato più grandi d\'Europa, il colle del castello di Wawel e, poco più a sud, Kazimierz, l\'ex quartiere ebraico oggi tra i più vivi della città.',
     percheAndarci:
@@ -68,7 +65,7 @@ export const destinazioniPolonia: Destinazione[] = [
     nome: 'Auschwitz-Birkenau',
     tipologia: ['memoria', 'storia'],
     giorniConsigliati: 'mezza giornata, come gita da Cracovia',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'L\'ex campo di concentramento e sterminio nazista tedesco, in funzione dal 1940 al 1945 nei pressi della città polacca di Oświęcim, circa 66 km a ovest di Cracovia. È composto da due siti distinti collegati da un servizio navetta: Auschwitz I, il campo originario e oggi sede del museo principale, e Auschwitz II-Birkenau, il campo di sterminio più esteso costruito a partire dal 1941 a circa 3 km di distanza. Dal 1947 il sito è un museo statale polacco, dal 1979 Patrimonio dell\'Umanità UNESCO.',
     percheAndarci:

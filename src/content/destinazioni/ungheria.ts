@@ -2,14 +2,12 @@ import type { Destinazione } from '@/lib/types'
 
 // Prima uscita ungherese dell'archivio, collegata al viaggio "Budapest in un
 // weekend lungo" (src/content/viaggi/56-budapest-weekend.md, dati in
-// src/content/viaggi-dati/budapest-weekend.ts). Un'unica destinazione,
+// src/content/viaggi-dati/budapest-weekend.ts), viaggio fatto da Rick. Un'unica destinazione,
 // Budapest: a differenza di Cracovia non c'è qui una gita fuori porta che
-// meriti una scheda propria. visitataPersonalmente resta false e il campo
-// miaEsperienza, facoltativo nel tipo, è assente di proposito — niente
-// ricordo inventato, solo fatti verificati con ricerca (stesso trattamento
-// usato in src/content/destinazioni/polonia.ts). Nessun nome di hotel,
-// ristorante o operatore è stato inventato. Prezzi e orari delle terme
-// cambiano spesso e vanno riverificati sui canali ufficiali prima di partire.
+// meriti una scheda propria. visitataPersonalmente è true; il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore.
+// Nessun nome di hotel, ristorante o operatore è stato inventato. Prezzi e
+// orari delle terme cambiano spesso e vanno riverificati sui canali ufficiali
+// prima di partire.
 
 export const destinazioniUngheria: Destinazione[] = [
   {
@@ -19,7 +17,7 @@ export const destinazioniUngheria: Destinazione[] = [
     nome: 'Budapest',
     tipologia: ['città', 'terme', 'storia'],
     giorniConsigliati: '3-4 giorni, con una giornata dedicata alle terme',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La capitale ungherese, nata nel 1873 dalla fusione di tre città distinte: Buda e Óbuda sulla riva collinare a ovest del Danubio, Pest su quella pianeggiante a est. Il centro storico di Buda, patrimonio UNESCO dal 1987, conserva il castello reale e il quartiere medievale intorno alla Chiesa di Mattia; Pest concentra il Parlamento, i grandi viali ottocenteschi e il quartiere ebraico con i suoi ruin bar. Sotto la città ci sono oltre un centinaio di sorgenti termali, e Budapest è ufficialmente conosciuta come "la città delle terme".',
     percheAndarci:

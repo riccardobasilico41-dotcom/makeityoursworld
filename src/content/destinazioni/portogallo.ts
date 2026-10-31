@@ -2,15 +2,12 @@ import type { Destinazione } from '@/lib/types'
 
 // Prima uscita portoghese dell'archivio, collegata al viaggio "Lisbona in un
 // weekend lungo" (src/content/viaggi/59-lisbona-weekend.md, dati in
-// src/content/viaggi-dati/lisbona-weekend.ts). Due destinazioni distinte,
-// come da indicazione: Lisbona e Sintra, la seconda come gita di un giorno
-// dalla prima. Nessuna delle due è stata visitata di persona:
-// visitataPersonalmente resta false su entrambe e il campo miaEsperienza,
-// facoltativo nel tipo, è assente di proposito — niente ricordo inventato,
-// solo fatti verificati con ricerca (stesso trattamento usato in
-// src/content/paesi/polonia.ts). Nessun nome di hotel, ristorante o
-// operatore è stato inventato. Prezzi e orari (soprattutto quelli di Sintra)
-// cambiano spesso e vanno riverificati sui canali ufficiali prima di partire.
+// src/content/viaggi-dati/lisbona-weekend.ts), viaggio fatto da Rick. Due destinazioni
+// distinte: Lisbona e Sintra, la seconda come gita di un giorno dalla prima.
+// visitataPersonalmente è true su entrambe e il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore. Nessun nome di
+// hotel, ristorante o operatore è stato inventato. Prezzi e orari
+// (soprattutto quelli di Sintra) cambiano spesso e vanno riverificati sui
+// canali ufficiali prima di partire.
 
 export const destinazioniPortogallo: Destinazione[] = [
   {
@@ -20,7 +17,7 @@ export const destinazioniPortogallo: Destinazione[] = [
     nome: 'Lisbona',
     tipologia: ['città', 'storia', 'mare'],
     giorniConsigliati: '3-4 giorni, compresa la gita fuori porta a Sintra',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La capitale del Portogallo sta su sette colline affacciate sull\'estuario del Tago. In gran parte è stata ricostruita dopo il terremoto del 1755, che diede forma alla Baixa: il quartiere basso dal disegno regolare illuminista che oggi separa dal fiume i quartieri più antichi e collinari, Alfama e Bairro Alto.',
     percheAndarci:
@@ -94,7 +91,7 @@ export const destinazioniPortogallo: Destinazione[] = [
     nome: 'Sintra',
     tipologia: ['storia', 'natura', 'arte'],
     giorniConsigliati: 'una giornata intera, come gita da Lisbona',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Una cittadina fra colline boscose, circa 30 km a nord-ovest di Lisbona, patrimonio UNESCO dal 1995 come "Paesaggio culturale di Sintra". Per secoli ci hanno passato l\'estate la nobiltà e la famiglia reale portoghese, che vi hanno costruito palazzi e ville romantiche in una concentrazione unica in Europa, in un microclima più fresco e umido di quello di Lisbona.',
     percheAndarci:

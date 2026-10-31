@@ -208,7 +208,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     nome: 'Abha e le montagne dell\'Asir',
     tipologia: ['montagna', 'natura', 'cultura'],
     giorniConsigliati: '2-3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Il sud-ovest del paese, sopra i 2.000 metri: montagne verdi, nebbie, terrazze coltivate e villaggi di pietra aggrappati alle pareti. È la parte dell\'Arabia Saudita che smentisce ogni aspettativa, e l\'unica dove d\'estate si sta al fresco mentre il resto del Regno supera i 45 gradi.',
     percheAndarci:
@@ -243,7 +243,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       'Avvicinarsi alla zona di confine con lo Yemen, sconsigliata dagli avvisi ufficiali',
     ],
     miaEsperienza:
-      'Non ci sono ancora stato, quindi la scheda si ferma ai fatti. È in lista perché è la parte del paese che smonta l\'immagine che tutti abbiamo dell\'Arabia Saudita: nel sud-ovest, sopra i duemila metri, ci sono montagne verdi, piogge estive, terrazze coltivate e villaggi costruiti in verticale sulle pareti di roccia. Rijal Almaa è un paese di case a più piani in pietra e quarzo, con le facciate che luccicano al sole, candidato al patrimonio UNESCO. Le donne dell\'Asir dipingono da generazioni gli interni delle case con motivi geometrici colorati, il qatt asiri, riconosciuto patrimonio immateriale UNESCO, che non hanno niente in comune con l\'austerità del Najd. E c\'è un dettaglio che rovescia la pianificazione: qui la stagione buona è l\'estate, quando il resto del Regno è invivibile e i sauditi salgono in massa a prendere il fresco.',
+      'Ci siamo arrivati con il volo interno su Abha, e lassù è cambiato tutto: montagne verdi, nebbie, terrazzamenti coltivati. Il primo pomeriggio l\'abbiamo passato ad Abha, tra le case dipinte e il mercato. Il qatt asiri, i motivi geometrici colorati che le donne dipingono sugli interni delle case, è patrimonio immateriale UNESCO e non ha niente in comune con l\'austerità del Najd. Il giorno dopo l\'ho dedicato a Rijal Almaa, il villaggio di pietra e quarzo su più piani con le facciate che luccicano al sole, e nel pomeriggio abbiamo fatto il giro dei villaggi di montagna in auto, tra terrazzamenti e nebbia, fino a Habala, sulla scarpata. L\'ultima giornata è stata la più lenta: la funivia, i sentieri sul Jebel Sawda e il mercato del bestiame e dei fiori, dove i venditori portano le ghirlande sul capo. Da sapere: qui la stagione buona è l\'estate, quando il resto del Regno è invivibile e i sauditi salgono in massa a prendere il fresco.',
     esperienzeSlugs: [],
     tripSlugs: ['arabia-saudita-itinerario'],
     imageAlt: 'Le case di Abha tra il verde, viste dall\'alto nella foschia delle montagne dell\'Asir',

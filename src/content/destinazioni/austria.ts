@@ -2,13 +2,10 @@ import type { Destinazione } from '@/lib/types'
 
 // Prima uscita austriaca dell'archivio, collegata al viaggio "Vienna in un
 // weekend lungo" (src/content/viaggi/55-vienna-weekend.md, dati in
-// src/content/viaggi-dati/vienna-weekend.ts). Vienna non è stata visitata di
-// persona: visitataPersonalmente resta false e il campo miaEsperienza,
-// facoltativo nel tipo, è assente di proposito — niente ricordo inventato,
-// solo fatti verificati con ricerca (stesso trattamento usato in
-// src/content/destinazioni/repubblica-ceca.ts per Praga). Nessun nome di
-// hotel, ristorante o operatore è stato inventato. Prezzi e orari cambiano
-// spesso e vanno riverificati sui canali ufficiali prima di partire.
+// src/content/viaggi-dati/vienna-weekend.ts), viaggio fatto da Rick: visitataPersonalmente è
+// true. Il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore. Nessun nome di hotel, ristorante o operatore è stato
+// inventato. Prezzi e orari cambiano spesso e vanno riverificati sui canali
+// ufficiali prima di partire.
 
 export const destinazioniAustria: Destinazione[] = [
   {
@@ -18,7 +15,7 @@ export const destinazioniAustria: Destinazione[] = [
     nome: 'Vienna',
     tipologia: ['città', 'arte', 'musica'],
     giorniConsigliati: '3-4 giorni per l\'Innere Stadt, Schönbrunn, il Belvedere e il Prater',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La capitale austriaca, per secoli cuore dell\'Impero asburgico e oggi una delle città con la miglior qualità della vita al mondo secondo diverse classifiche internazionali. Il centro storico è compatto: l\'Innere Stadt, Patrimonio UNESCO, circondata dal Ring, il viale che nell\'Ottocento ha preso il posto delle antiche mura. La reggia di Schönbrunn, il palazzo del Belvedere e il grande parco del Prater stanno appena fuori dal nucleo più centrale.',
     percheAndarci:

@@ -2,13 +2,10 @@ import type { Destinazione } from '@/lib/types'
 
 // Prima uscita ceca dell'archivio, collegata al viaggio "Praga in un weekend
 // lungo" (src/content/viaggi/54-praga-weekend.md, dati in
-// src/content/viaggi-dati/praga-weekend.ts). Praga non è stata visitata di
-// persona: visitataPersonalmente resta false e il campo miaEsperienza,
-// facoltativo nel tipo, è assente di proposito — niente ricordo inventato,
-// solo fatti verificati con ricerca (stesso trattamento usato in
-// src/content/destinazioni/polonia.ts per Cracovia). Nessun nome di hotel,
-// ristorante o operatore è stato inventato. Prezzi e orari cambiano spesso e
-// vanno riverificati sui canali ufficiali prima di partire.
+// src/content/viaggi-dati/praga-weekend.ts), viaggio fatto da Rick: visitataPersonalmente è
+// true. Il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore. Nessun nome di hotel, ristorante o operatore è stato
+// inventato. Prezzi e orari cambiano spesso e vanno riverificati sui canali
+// ufficiali prima di partire.
 
 export const destinazioniRepubblicaCeca: Destinazione[] = [
   {
@@ -18,7 +15,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
     nome: 'Praga',
     tipologia: ['città', 'storia', 'architettura'],
     giorniConsigliati: '3-4 giorni per il centro storico, il Castello e Vyšehrad',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La "città dalle cento torri", capitale ceca sulle due rive della Moldava, con uno dei centri storici medievali e barocchi meglio conservati d\'Europa. È uscita quasi indenne dai bombardamenti della Seconda guerra mondiale, e oggi è un insieme compatto di cinque nuclei storici, tutti percorribili a piedi in pochi giorni: Staré Město (Città Vecchia), Malá Strana (Città Piccola), Hradčany (il colle del Castello), Josefov (il quartiere ebraico) e la Nové Město (Città Nuova) ottocentesca.',
     percheAndarci:

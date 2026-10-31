@@ -1,7 +1,7 @@
 import type { Destinazione } from '@/lib/types'
 
-// Destinazioni della Turchia per la guida "turchia-itinerario" (73), costruite su
-// ricerca documentale. Nessuna visita diretta: miaEsperienza resta assente.
+// Destinazioni della Turchia per la guida "turchia-itinerario" (73), viaggio fatto da Rick:
+// visitataPersonalmente è true; miaEsperienza resta assente finché non arriva un ricordo dell'autore.
 // Prezzi indicativi a ottobre 2026; i musei statali sono quotati in euro.
 
 export const destinazioniTurchia: Destinazione[] = [
@@ -12,7 +12,7 @@ export const destinazioniTurchia: Destinazione[] = [
     nome: 'Istanbul',
     tipologia: ['città', 'storia', 'cibo'],
     giorniConsigliati: '3-4 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'L\'antica Bisanzio, poi Costantinopoli, divisa dal Bosforo fra Europa e Asia: la penisola storica di Sultanahmet, i quartieri di Beyoğlu e Karaköy, Kadıköy sul lato asiatico.',
     percheAndarci:
@@ -59,7 +59,7 @@ export const destinazioniTurchia: Destinazione[] = [
     nome: 'Cappadocia',
     tipologia: ['paesaggio', 'trekking', 'storia'],
     giorniConsigliati: '3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Un altopiano di tufo vulcanico che l\'erosione ha scolpito in camini delle fate, valli e pinnacoli, con chiese rupestri bizantine e città sotterranee.',
     percheAndarci:
@@ -103,7 +103,7 @@ export const destinazioniTurchia: Destinazione[] = [
     nome: 'Pamukkale e Hierapolis',
     tipologia: ['paesaggio', 'archeologia', 'terme'],
     giorniConsigliati: '1 giorno',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Una collina di terrazze di travertino bianco formate da sorgenti calde, con in cima le rovine della città romana di Hierapolis.',
     percheAndarci:
@@ -136,7 +136,7 @@ export const destinazioniTurchia: Destinazione[] = [
     nome: 'Efeso, Selçuk e Şirince',
     tipologia: ['archeologia', 'borghi'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La città romana meglio conservata del Mediterraneo orientale, con la biblioteca di Celso e il grande teatro, a pochi chilometri dalla cittadina di Selçuk e dal villaggio collinare di Şirince.',
     percheAndarci:
@@ -171,7 +171,7 @@ export const destinazioniTurchia: Destinazione[] = [
     nome: 'Costa licia: Fethiye, Ölüdeniz, Kaş e Kekova',
     tipologia: ['mare', 'trekking', 'road trip'],
     giorniConsigliati: '4-5 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Il tratto di costa fra Fethiye e Antalya, con calette di acqua turchese, tombe licie scavate nella roccia, il sentiero della Via Licia e le rovine sommerse di Kekova.',
     percheAndarci:
@@ -214,7 +214,7 @@ export const destinazioniTurchia: Destinazione[] = [
     nome: 'Antalya',
     tipologia: ['città', 'mare', 'archeologia'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La grande città della costa mediterranea, con il centro storico di Kaleiçi intorno al porto romano e un museo archeologico tra i migliori del Paese.',
     percheAndarci: 'Per chiudere il viaggio vicino all\'aeroporto, con Kaleiçi, il museo e le cascate di Düden; nei dintorni ci sono Perge, Aspendos e Termessos.',

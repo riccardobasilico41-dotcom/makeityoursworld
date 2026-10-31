@@ -6,13 +6,8 @@ import type { Paese } from '@/lib/types'
 // intero: Rotterdam, L'Aia e il resto dei Paesi Bassi restano fuori di
 // proposito.
 //
-// Nessuno ha ancora messo piede ad Amsterdam per conto di questo sito: la
-// destinazione resta visitataPersonalmente: false e senza il campo
-// miaEsperienza, facoltativo nel tipo Destinazione apposta per questo caso
-// (la UI mostra un placeholder editoriale invece di un ricordo inventato,
-// vedi src/lib/types.ts e lo stesso trattamento in src/content/paesi/polonia.ts).
-// Scheda di ricerca, non un diario: fatti verificabili, senza episodi in
-// prima persona.
+// È un viaggio fatto da Rick (articolo amsterdam-weekend): la destinazione è
+// visitataPersonalmente: true. Il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore (vedi src/lib/types.ts).
 
 export const paesiBassi: Paese = {
   slug: 'paesi-bassi',

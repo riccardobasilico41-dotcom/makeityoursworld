@@ -3,12 +3,12 @@ import { FirmaAutore } from '@/components/FirmaAutore'
 import { PrenotaQui } from '@/components/OrganizzaViaggio'
 import { link } from '@/lib/affiliazioni'
 import { notFound } from 'next/navigation'
-import { ArrowUpRight } from 'lucide-react'
+import { Backpack, CalendarDays, Clock, Compass, MapPin, Shuffle, Ticket, Users, Wallet } from 'lucide-react'
 import { Container } from '@/components/ui/Container'
 import { PageHeader } from '@/components/ui/PageHeader'
 import { Rich } from '@/components/ui/Rich'
 import { PersonalVerdict } from '@/components/ui/PersonalVerdict'
-import { PracticalInfo } from '@/components/ui/PracticalInfo'
+import { ElencoNumerato, InfoPratiche, Ricordo, TitoloSezione } from '@/components/scheda/Blocchi'
 import { RelatedContent } from '@/components/RelatedContent'
 import { ComparisonBlock } from '@/components/ComparisonBlock'
 import { JsonLd } from '@/components/JsonLd'
@@ -106,87 +106,73 @@ export default async function EsperienzaPage({
         media={esperienza.immagine ? { tipo: 'foto', src: esperienza.immagine, alt: esperienza.imageAlt } : undefined}
       />
 
-      <section className="py-16 sm:py-20">
-        <Container className="grid gap-14 lg:grid-cols-[1.6fr_1fr]">
-          <div className="space-y-12">
-            <div>
-              <h2 className="font-display text-2xl text-alpine">Perché farla</h2>
-              <p className="mt-3 text-base leading-relaxed text-stone">{richNodes(esperienza.percheFarla)}</p>
+      <InfoPratiche
+        voci={[
+          { label: 'Dove si trova', value: esperienza.localita, icona: MapPin },
+          { label: 'Durata', value: esperienza.durata, icona: Clock },
+          { label: 'Periodo', value: esperienza.periodo, icona: CalendarDays },
+          { label: 'Costo', value: esperienza.costo, icona: Wallet },
+          { label: 'Come prenotare', value: esperienza.comePrenotare, icona: Ticket },
+          { label: 'Cosa portare', value: esperienza.cosaPortare, icona: Backpack },
+          { label: 'Per chi è adatta', value: esperienza.perChiEAdatta, icona: Users },
+        ]}
+      />
+
+      <section className="py-14 sm:py-20">
+        <Container className="space-y-14">
+          <div className="max-w-3xl">
+            <TitoloSezione icona={Compass}>Perché farla</TitoloSezione>
+            <p className="mt-4 text-lg leading-relaxed text-stone">{richNodes(esperienza.percheFarla)}</p>
+          </div>
+
+          {esperienza.miaEsperienza && (
+            <div className="max-w-3xl">
+              <Ricordo testo={esperienza.miaEsperienza} />
             </div>
+          )}
 
-            {esperienza.miaEsperienza && (
-              <div>
-                <h2 className="font-display text-2xl text-alpine">La mia esperienza</h2>
-                <p className="mt-3 font-display text-xl italic leading-relaxed text-alpine">
-                  {richNodes(esperienza.miaEsperienza)}
-                </p>
-              </div>
-            )}
+          {esperienza.confronti?.map((confronto) => (
+            <div key={confronto.titolo} className="max-w-4xl">
+              <ComparisonBlock confronto={confronto} />
+            </div>
+          ))}
 
-            {esperienza.confronti?.map((confronto) => (
-              <ComparisonBlock key={confronto.titolo} confronto={confronto} />
-            ))}
+          {esperienza.alternative.length > 0 && (
+            <div>
+              <TitoloSezione icona={Shuffle}>Alternative</TitoloSezione>
+              <ElencoNumerato voci={esperienza.alternative} />
+            </div>
+          )}
 
-            {esperienza.alternative.length > 0 && (
-              <div>
-                <h2 className="font-display text-2xl text-alpine">Alternative</h2>
-                <ul className="mt-3 space-y-1.5 text-base leading-relaxed text-stone">
-                  {esperienza.alternative.map((a) => (
-                    <li key={a}>· {a}</li>
-                  ))}
-                </ul>
-              </div>
-            )}
-
-            <RelatedContent
-              titolo="Destinazione collegata"
-              items={destinazioni.map((d) => ({
-                href: `/destinazioni/${paeseSlug}/${d.slug}`,
-                eyebrow: 'Destinazione',
-                titolo: d.nome,
-                sottotitolo: d.giorniConsigliati,
-              }))}
-            />
-
-            <RelatedContent
-              titolo="Itinerari che la includono"
-              items={viaggi.map((v) => ({
-                href: `/viaggi/${v.slug}`,
-                eyebrow: 'Itinerario completo',
-                titolo: v.titolo,
-                sottotitolo: v.durataBreve,
-              }))}
-            />
+          <div className="grid items-start gap-10 lg:grid-cols-2">
+            <div className="space-y-10">
+              <RelatedContent
+                titolo="Destinazione collegata"
+                items={destinazioni.map((d) => ({
+                  href: `/destinazioni/${paeseSlug}/${d.slug}`,
+                  eyebrow: 'Destinazione',
+                  titolo: d.nome,
+                  sottotitolo: d.giorniConsigliati,
+                }))}
+              />
+              <RelatedContent
+                titolo="Itinerari che la includono"
+                items={viaggi.map((v) => ({
+                  href: `/viaggi/${v.slug}`,
+                  eyebrow: 'Itinerario completo',
+                  titolo: v.titolo,
+                  sottotitolo: v.durataBreve,
+                }))}
+              />
+            </div>
             <PrenotaQui
               voci={[
                 { etichetta: esperienza.nome, href: link.getyourguide(`${esperienza.nome} ${esperienza.localita}`), nota: 'GetYourGuide' },
                 { etichetta: esperienza.nome, href: link.viator(`${esperienza.nome} ${esperienza.localita}`), nota: 'Viator' },
               ]}
             />
-            <FirmaAutore />
           </div>
-
-          <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">
-            <div>
-              <h2 className="font-display text-lg text-alpine">Informazioni pratiche</h2>
-              <PracticalInfo
-                className="mt-4"
-                items={[
-                  { label: 'Dove si trova', value: esperienza.localita },
-                  { label: 'Durata', value: esperienza.durata },
-                  { label: 'Periodo', value: esperienza.periodo },
-                  { label: 'Costo', value: esperienza.costo },
-                  { label: 'Come prenotare', value: esperienza.comePrenotare },
-                  { label: 'Cosa portare', value: esperienza.cosaPortare },
-                  { label: 'Per chi è adatta', value: esperienza.perChiEAdatta },
-                ]}
-              />
-            </div>
-            <p className="flex items-center gap-1.5 text-xs text-stone/60">
-              <ArrowUpRight size={12} />
-              Prezzi, orari e disponibilità vanno sempre verificati prima della partenza.
-            </p>
-          </aside>
+          <FirmaAutore className="max-w-3xl" />
         </Container>
       </section>
     </>

@@ -3,11 +3,11 @@ import { FirmaAutore } from '@/components/FirmaAutore'
 import { PrenotaQui } from '@/components/OrganizzaViaggio'
 import { link } from '@/lib/affiliazioni'
 import { notFound } from 'next/navigation'
-import { ArrowUpRight } from 'lucide-react'
+import { BedDouble, Bus, CalendarDays, Clock, Compass, Eye, Footprints, MapPin, Moon, Plane, Sparkles, Utensils, Wallet } from 'lucide-react'
 import { Container } from '@/components/ui/Container'
 import { PageHeader } from '@/components/ui/PageHeader'
 import { Rich } from '@/components/ui/Rich'
-import { PracticalInfo } from '@/components/ui/PracticalInfo'
+import { ElencoNumerato, ErroriDaEvitare, InfoPratiche, Ricordo, SchedaTesto, TitoloSezione } from '@/components/scheda/Blocchi'
 import { ExperienceCard } from '@/components/ExperienceCard'
 import { ComparisonBlock } from '@/components/ComparisonBlock'
 import { JsonLd } from '@/components/JsonLd'
@@ -115,92 +115,78 @@ export default async function DestinazionePage({
         media={destinazione.immagine ? { tipo: 'foto', src: destinazione.immagine, alt: destinazione.imageAlt } : undefined}
       />
 
-      <section className="py-16 sm:py-20">
-        <Container className="grid gap-14 lg:grid-cols-[1.6fr_1fr]">
-          <div className="space-y-12">
-            <div>
-              <h2 className="font-display text-2xl text-alpine">Perché andarci</h2>
-              <p className="mt-3 text-base leading-relaxed text-stone">{richNodes(destinazione.percheAndarci)}</p>
+      <InfoPratiche
+        voci={[
+          { label: 'Giorni consigliati', value: destinazione.giorniConsigliati, icona: Clock },
+          { label: 'Periodo migliore', value: destinazione.periodoMigliore, icona: CalendarDays },
+          { label: 'Costi', value: destinazione.costi, icona: Wallet },
+          { label: 'Come arrivare', value: destinazione.comeArrivare, icona: Plane },
+          { label: 'Come spostarsi', value: destinazione.comeSpostarsi, icona: Bus },
+        ]}
+      />
+
+      <section className="py-14 sm:py-20">
+        <Container className="space-y-14">
+          <div className="max-w-3xl">
+            <TitoloSezione icona={Compass}>Perché andarci</TitoloSezione>
+            <p className="mt-4 text-lg leading-relaxed text-stone">{richNodes(destinazione.percheAndarci)}</p>
+          </div>
+
+          {destinazione.miaEsperienza && (
+            <div className="max-w-3xl">
+              <Ricordo testo={destinazione.miaEsperienza} />
             </div>
+          )}
 
-            {destinazione.cosaVedere.length > 0 && (
-              <div>
-                <h2 className="font-display text-2xl text-alpine">Cosa vedere</h2>
-                <ul className="mt-3 space-y-1.5 text-base leading-relaxed text-stone">
-                  {destinazione.cosaVedere.map((v) => (
-                    <li key={v}>· {richNodes(v)}</li>
-                  ))}
-                </ul>
+          {destinazione.cosaVedere.length > 0 && (
+            <div>
+              <TitoloSezione icona={Eye}>Cosa vedere</TitoloSezione>
+              <ElencoNumerato voci={destinazione.cosaVedere} />
+            </div>
+          )}
+
+          {destinazione.cosaFare.length > 0 && (
+            <div>
+              <TitoloSezione icona={Footprints}>Cosa fare</TitoloSezione>
+              <ElencoNumerato voci={destinazione.cosaFare} />
+            </div>
+          )}
+
+          {esperienze.length > 0 && (
+            <div>
+              <TitoloSezione icona={Sparkles}>Le esperienze da fare qui</TitoloSezione>
+              <div className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+                {esperienze.map((e) => (
+                  <ExperienceCard key={e.slug} esperienza={e} paeseSlug={paeseSlug} />
+                ))}
               </div>
-            )}
+            </div>
+          )}
 
-            {destinazione.cosaFare.length > 0 && (
-              <div>
-                <h2 className="font-display text-2xl text-alpine">Cosa fare</h2>
-                <ul className="mt-3 space-y-1.5 text-base leading-relaxed text-stone">
-                  {destinazione.cosaFare.map((v) => (
-                    <li key={v}>· {richNodes(v)}</li>
-                  ))}
-                </ul>
+          {destinazione.confronti?.map((confronto) => (
+            <div key={confronto.titolo} className="max-w-4xl">
+              <ComparisonBlock confronto={confronto} />
+            </div>
+          ))}
+
+          {(destinazione.doveMangiare || destinazione.doveDormire || destinazione.usciteSerali) && (
+            <div>
+              <TitoloSezione icona={MapPin}>Mangiare, dormire, uscire</TitoloSezione>
+              <div className="mt-5 grid gap-4 lg:grid-cols-2">
+                {destinazione.doveDormire && <SchedaTesto icona={BedDouble} titolo="Dove dormire" testo={destinazione.doveDormire} />}
+                {destinazione.doveMangiare && <SchedaTesto icona={Utensils} titolo="Dove mangiare" testo={destinazione.doveMangiare} />}
+                {destinazione.usciteSerali && <SchedaTesto icona={Moon} titolo="Dopo cena" testo={destinazione.usciteSerali} />}
               </div>
-            )}
+            </div>
+          )}
 
-            {destinazione.confronti?.map((confronto) => (
-              <ComparisonBlock key={confronto.titolo} confronto={confronto} />
-            ))}
+          {destinazione.erroriDaEvitare.length > 0 && (
+            <div className="max-w-4xl">
+              <ErroriDaEvitare voci={destinazione.erroriDaEvitare} />
+            </div>
+          )}
 
-            {destinazione.doveMangiare && (
-              <div>
-                <h2 className="font-display text-2xl text-alpine">Dove mangiare</h2>
-                <p className="mt-3 text-base leading-relaxed text-stone">{richNodes(destinazione.doveMangiare)}</p>
-              </div>
-            )}
-
-            {destinazione.usciteSerali && (
-              <div>
-                <h2 className="font-display text-2xl text-alpine">Dove andare dopo cena</h2>
-                <p className="mt-3 text-base leading-relaxed text-stone">{richNodes(destinazione.usciteSerali)}</p>
-              </div>
-            )}
-
-            {destinazione.doveDormire && (
-              <div>
-                <h2 className="font-display text-2xl text-alpine">Dove dormire</h2>
-                <p className="mt-3 text-base leading-relaxed text-stone">{richNodes(destinazione.doveDormire)}</p>
-              </div>
-            )}
-
-            {destinazione.miaEsperienza && (
-              <div>
-                <h2 className="font-display text-2xl text-alpine">La mia esperienza</h2>
-                <p className="mt-3 font-display text-xl italic leading-relaxed text-alpine">
-                  {richNodes(destinazione.miaEsperienza)}
-                </p>
-              </div>
-            )}
-
-            {destinazione.erroriDaEvitare.length > 0 && (
-              <div>
-                <h2 className="font-display text-2xl text-alpine">Errori da evitare</h2>
-                <ul className="mt-3 space-y-1.5 text-base leading-relaxed text-stone">
-                  {destinazione.erroriDaEvitare.map((v) => (
-                    <li key={v}>· {richNodes(v)}</li>
-                  ))}
-                </ul>
-              </div>
-            )}
-
-            {esperienze.length > 0 && (
-              <div>
-                <h2 className="font-display text-2xl text-alpine">Esperienze collegate</h2>
-                <div className="mt-4 grid gap-4 sm:grid-cols-2">
-                  {esperienze.map((e) => (
-                    <ExperienceCard key={e.slug} esperienza={e} paeseSlug={paeseSlug} />
-                  ))}
-                </div>
-              </div>
-            )}
-
+          <div className="grid items-start gap-10 lg:grid-cols-2">
             <RelatedContent
               titolo="Itinerari che includono questa destinazione"
               items={viaggi.map((v) => ({
@@ -219,28 +205,8 @@ export default async function DestinazionePage({
                 { etichetta: `Attività: ${destinazione.nome}`, href: link.getyourguide(destinazione.nome), nota: 'GetYourGuide' },
               ]}
             />
-            <FirmaAutore />
           </div>
-
-          <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">
-            <div>
-              <h2 className="font-display text-lg text-alpine">Informazioni pratiche</h2>
-              <PracticalInfo
-                className="mt-4"
-                items={[
-                  { label: 'Giorni consigliati', value: destinazione.giorniConsigliati },
-                  { label: 'Periodo migliore', value: destinazione.periodoMigliore },
-                  { label: 'Come arrivare', value: destinazione.comeArrivare },
-                  { label: 'Come spostarsi', value: destinazione.comeSpostarsi },
-                  { label: 'Costi', value: destinazione.costi },
-                ]}
-              />
-            </div>
-            <p className="flex items-center gap-1.5 text-xs text-stone/60">
-              <ArrowUpRight size={12} />
-              Prezzi, orari e disponibilità vanno sempre verificati prima della partenza.
-            </p>
-          </aside>
+          <FirmaAutore className="max-w-3xl" />
         </Container>
       </section>
     </>

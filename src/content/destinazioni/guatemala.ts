@@ -1,10 +1,8 @@
 import type { Destinazione } from '@/lib/types'
 
-// Paese visitato di persona. I campi miaEsperienza sono bozze scritte da
-// Claude nella voce del diario, basate su ciò che è oggettivamente vero di
-// ogni posto (fatica, stagione, affollamento, logistica) e non su ricordi
-// reali: vanno riletti e sostituiti con i tuoi. Nessun nome di hotel,
-// ristorante o operatore è stato inventato.
+// Paese visitato di persona (prima parte dell'articolo centro-america-itinerario).
+// I campi miaEsperienza sono in prima persona e tengono solo i fatti
+// raccontati nell'articolo. Nessun nome di hotel, ristorante o operatore.
 
 export const destinazioniGuatemala: Destinazione[] = [
   {
@@ -44,7 +42,7 @@ export const destinazioniGuatemala: Destinazione[] = [
       'Sottovalutare il freddo notturno al campo dell\'Acatenango (quasi 4.000 m): servono strati veri, non solo una felpa',
     ],
     miaEsperienza:
-      'È la tappa più comoda del Guatemala e la meno rappresentativa: Antigua è bellissima, ordinata, piena di stranieri e non somiglia al resto del paese. Va presa per quello che è, una base piacevole dove tutto si organizza in dieci minuti, con qualche chiesa in rovina che vale la sosta. Quello che resta è l\'Acatenango. Sei ore di salita con gli zaini pesanti: si parte fra i campi di mais e si arriva sopra i quattromila metri, con un freddo che ai tropici nessuno si aspetta, e a metà notte il Fuego comincia a eruttare a un paio di chilometri. È faticoso al limite del divertente, ma la lista delle cose da fare in America Centrale comincia da lì.',
+      'Siamo arrivati ad Antigua nel primo pomeriggio e la prima passeggiata fra le strade acciottolate l\'abbiamo fatta con i vulcani Agua, Fuego e Acatenango in fondo a ogni via. Il giorno dopo abbiamo girato il centro storico, dall\'Arco di Santa Catalina alle chiese in rovina, e siamo saliti al Cerro de la Cruz per il panorama. Quello che mi resta è l\'Acatenango: cinque-sei ore di salita fra i campi di mais e la pineta, sulla sabbia vulcanica che cede sotto i piedi, il tratto più faticoso di tutto il viaggio. Il campo era sopra le nuvole, il Fuego ha cominciato a eruttare prima del tramonto e di notte lo vedevamo buttare lava a un paio di chilometri senza uscire dal sacco a pelo, con un freddo vicino allo zero. La mattina siamo scesi scivolando sulla sabbia più che camminando. La lista delle cose fatte in Centro America comincia da lì.',
     esperienzeSlugs: ['trekking-acatenango'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Strada acciottolata di Antigua Guatemala con case coloniali e il vulcano Agua sullo sfondo',
@@ -89,7 +87,7 @@ export const destinazioniGuatemala: Destinazione[] = [
       'Salire all\'Indian Nose senza guida al buio',
     ],
     miaEsperienza:
-      'L\'errore che fanno quasi tutti è fermarsi a Panajachel, che è un nodo di trasporti con una via di negozi e basta. Il lago comincia quando si sale su una lancia e si cambia sponda: dieci minuti di barca e dallo yoga e dai caffè vegani di San Marcos si passa alla vita tradizionale di Santiago, dove le donne portano ancora il tocoyal avvolto in testa e nessuno fa caso a chi arriva. Da sapere prima: nel pomeriggio si alza lo Xocomil, un vento che rende le traversate scomode e a volte le fa sospendere, e chi deve prendere un bus il giorno dopo deve tenerne conto. L\'alba dall\'Indian Nose vale la sveglia alle quattro solo col cielo sereno: nella stagione delle piogge si sale al buio per guardare una nuvola.',
+      'Panajachel è il nodo dei trasporti, con la Calle Santander piena di artigianato, ma fermarsi solo lì è l\'errore più comune: il lago comincia quando si sale su una lancha. In una giornata abbiamo toccato San Juan la Laguna, con le cooperative tessili e i murales, San Marcos, il paese dello yoga, e San Pedro, e ogni dieci minuti di barca cambiava l\'atmosfera. Il giorno dopo ci siamo svegliati alle quattro per l\'Indian Nose e poi abbiamo preso la lancha per Santiago Atitlán, dove le donne portano ancora il tocoyal avvolto in testa. Abbiamo imparato in fretta a muoverci al mattino, perché dal primo pomeriggio si alza lo Xocomil e le traversate diventano mosse. L\'alba dall\'Indian Nose vale la sveglia solo col cielo sereno: nella stagione delle piogge si sale al buio per guardare una nuvola.',
     esperienzeSlugs: ['lance-villaggi-atitlan'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Le acque blu del lago Atitlán con i vulcani sullo sfondo, visti da San Marcos La Laguna, Guatemala',
@@ -134,7 +132,7 @@ export const destinazioniGuatemala: Destinazione[] = [
       'Programmare Tikal come gita in giornata da Antigua: la distanza richiede volo o bus notturno',
     ],
     miaEsperienza:
-      'Tikal batte gli altri siti maya per una ragione che le foto non rendono: la foresta è rimasta. Si cammina per chilometri sotto gli alberi sentendo le scimmie urlatrici, un verso che la prima volta sembra di un animale molto più grande, e i templi compaiono uno alla volta invece di stare tutti in fila in una spianata. Il biglietto per l\'alba va comprato sapendo cosa si compra: nella stagione secca la foschia sopra la giungla è frequente e dal Tempio IV si vede il bianco. Anche con la nebbia, però, essere lassù prima dei pullman è l\'unico modo di sentire il posto. Flores è un\'isoletta carina per una sera e niente di più: è una base, non una meta.',
+      'Siamo partiti da Flores verso le tre del mattino e abbiamo camminato al buio fino al Tempio IV con la guida. L\'alba, nella stagione secca, è spesso velata dalla foschia; quello che vale la sveglia è il sonoro, il coro di scimmie urlatrici e uccelli che si sveglia col primo chiarore, prima che arrivino i pullman. Il resto della giornata l\'abbiamo passato fra la Gran Plaza, i Templi I e II e il Mundo Perdido, camminando per chilometri sotto la volta della foresta: è questo che distingue Tikal dagli altri siti maya. Flores, dove eravamo arrivati la sera prima, è un\'isola di case colorate con un lungolago tranquillo, che vive quasi solo del turismo verso Tikal.',
     esperienzeSlugs: ['alba-tikal'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Piramide a gradoni del Mundo Perdido tra gli alberi del sito maya di Tikal, Guatemala',
@@ -176,7 +174,7 @@ export const destinazioniGuatemala: Destinazione[] = [
       'Andarci subito dopo giorni di pioggia intensa, quando le piscine perdono il colore turchese',
     ],
     miaEsperienza:
-      'Il viaggio per arrivarci è metà del racconto: otto-dieci ore di shuttle, le ultime su una sterrata che scende nella valle a passo d\'uomo, con lo zaino che rimbalza e la sensazione di essersi allontanati parecchio da tutto. Poi si arriva, e le piscine sono proprio quelle delle fotografie. La salita al Mirador è ripida e in mezz\'ora si è fradici di sudore, ma senza la vista dall\'alto non si capisce come funziona il posto: il fiume sparisce sotto il ponte di roccia e riemerge trecento metri più in là. Le grotte di K\'anba, con una candela in mano e tratti da fare a nuoto al buio, sono la cosa meno turistica della zona e quella che si ricorda di più. Chi soffre di claustrofobia le salti senza rimpianti.',
+      'Arrivarci è metà del racconto: da Panajachel a Lanquín è stata la giornata di trasferimento più lunga del viaggio, con l\'ultimo tratto su una sterrata che scende lenta nella valle. Il giorno dopo abbiamo risalito le piscine dal basso verso l\'alto e poi siamo saliti al Mirador: la salita è ripida, ma senza la vista dall\'alto non si capisce come funziona il posto, con il fiume che sparisce sotto il ponte di roccia e riemerge trecento metri più in là. Nel pomeriggio siamo entrati nelle grotte di K\'anba, con una candela in mano e alcuni tratti da fare a nuoto al buio: la cosa meno turistica della zona e quella che ricordo di più. Chi soffre di claustrofobia le salti senza rimpianti.',
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Le piscine naturali turchesi a gradoni di Semuc Champey viste dall\'alto tra la giungla, Guatemala',
@@ -215,7 +213,7 @@ export const destinazioniGuatemala: Destinazione[] = [
       'Fotografare persone o riti senza chiedere il permesso: qui è una questione di rispetto',
     ],
     miaEsperienza:
-      'Il mercato è enorme e nelle prime due ore è ancora di chi ci lavora. Verso metà mattina arrivano gli shuttle e la parte artigianale diventa un mercato per stranieri, con gli stessi tessuti banco dopo banco. Merita la parte alimentare nelle vie laterali, dove si compra e si vende sul serio. Quello che resta, però, è la scalinata di Santo Tomás: sui gradini di una chiesa cattolica si bruciano copale e offerte secondo riti k\'iche\', e il fumo copre tutto. È un rito vero e non va fotografato come uno spettacolo: si guarda da un lato, e si capisce più che in qualsiasi museo. Basta mezza giornata, ma solo il giovedì o la domenica.',
+      'Ci siamo arrivati da Antigua, tre ore di shuttle, in uno dei due giorni di mercato: fuori dal giovedì e dalla domenica il paese è tranquillo e poco interessante. Abbiamo girato fra le bancarelle di tessuti, maschere e ceramiche e mangiato in piedi ai banchi della parte alimentare, nelle vie laterali. Quello che mi è rimasto, però, è la scalinata di Santo Tomás: sui gradini di una chiesa cattolica si bruciano ancora copale e offerte secondo riti k\'iche\'. È un rito vero e si guarda con rispetto, senza fotografare le persone senza permesso. Nel tardo pomeriggio abbiamo proseguito verso il lago Atitlán.',
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'L\'arco decorato a mosaico colorato su una strada acciottolata di Chichicastenango, Guatemala',

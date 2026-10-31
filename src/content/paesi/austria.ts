@@ -2,13 +2,10 @@ import type { Paese } from '@/lib/types'
 
 // L'Austria entra nell'archivio con un solo itinerario: un weekend lungo a
 // Vienna (3-4 giorni), nello stesso filone "weekend lunghi in Europa" già
-// usato per Roma, Firenze, Venezia, Parigi, Cracovia e Praga. Nessuno ha
-// ancora messo piede a Vienna per conto di questo sito: la destinazione di
-// Vienna resta visitataPersonalmente: false e senza il campo miaEsperienza,
-// che nel tipo Destinazione è facoltativo apposta — se assente, la UI mostra
-// un placeholder editoriale invece di un ricordo inventato (vedi il commento
-// sul tipo in src/lib/types.ts). Questa è quindi scheda di ricerca, non un
-// diario: fatti verificabili, senza episodi in prima persona.
+// usato per Roma, Firenze, Venezia, Parigi, Cracovia e Praga. È un viaggio fatto da Rick
+// (articolo vienna-weekend): la destinazione di Vienna è
+// visitataPersonalmente: true. Il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore (vedi il commento sul tipo in
+// src/lib/types.ts).
 
 export const austria: Paese = {
   slug: 'austria',

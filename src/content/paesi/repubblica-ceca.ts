@@ -2,14 +2,9 @@ import type { Paese } from '@/lib/types'
 
 // La Repubblica Ceca entra nell'archivio con un solo itinerario: un weekend
 // lungo a Praga (3-4 giorni), nello stesso filone "weekend lunghi in Europa"
-// già usato per Roma, Firenze, Venezia, Parigi e Cracovia. Nessuno ha ancora
-// messo piede a Praga per conto di questo sito: la destinazione di Praga
-// resta visitataPersonalmente: false e senza il campo miaEsperienza, che nel
-// tipo Destinazione è facoltativo apposta — se assente, la UI mostra un
-// placeholder editoriale invece di un ricordo inventato (vedi il commento sul
-// tipo in src/lib/types.ts, e lo stesso trattamento usato in
-// src/content/paesi/polonia.ts per Cracovia). Questa è quindi scheda di
-// ricerca, non un diario: fatti verificabili, senza episodi in prima persona.
+// già usato per Roma, Firenze, Venezia, Parigi e Cracovia. È un viaggio fatto da Rick
+// (articolo praga-weekend): la destinazione di Praga è visitataPersonalmente:
+// true. Il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore (vedi il commento sul tipo in src/lib/types.ts).
 
 export const repubblicaCeca: Paese = {
   slug: 'repubblica-ceca',

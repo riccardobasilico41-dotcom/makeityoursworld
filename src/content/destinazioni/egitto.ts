@@ -1,8 +1,8 @@
 import type { Destinazione } from '@/lib/types'
 
 // Destinazioni dell'Egitto, costruite su ricerca documentale per le guide
-// "egitto-mare-luxor-cairo" (71) ed "egitto-completo" (72). Nessuna visita
-// diretta: miaEsperienza resta assente e la UI mostra il placeholder.
+// "egitto-mare-luxor-cairo" (71) ed "egitto-completo" (72), entrambi fatti
+// dall'autore. miaEsperienza è assente e la UI mostra il placeholder.
 // Prezzi indicativi a ottobre 2026, in lire egiziane (EGP) per turisti stranieri.
 
 export const destinazioniEgitto: Destinazione[] = [
@@ -13,7 +13,7 @@ export const destinazioniEgitto: Destinazione[] = [
     nome: 'Il Cairo',
     tipologia: ['città', 'musei', 'cultura islamica'],
     giorniConsigliati: '2-3 giorni, piramidi escluse',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Venti milioni di abitanti, traffico continuo e mille anni di architettura islamica: il Cairo è la porta d\'ingresso del Paese e la città dove si trovano i due grandi musei egizi.',
     percheAndarci:
@@ -58,7 +58,7 @@ export const destinazioniEgitto: Destinazione[] = [
     nome: 'Piramidi: Giza, Saqqara e Dahshur',
     tipologia: ['archeologia', 'deserto'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Le tre necropoli reali dell\'Antico Regno a sud-ovest del Cairo: Giza con Cheope, Chefren, Micerino e la Sfinge; Saqqara con la piramide a gradoni di Djoser; Dahshur con la piramide Romboidale e la piramide Rossa.',
     percheAndarci:
@@ -98,7 +98,7 @@ export const destinazioniEgitto: Destinazione[] = [
     nome: 'Luxor',
     tipologia: ['archeologia', 'Nilo'],
     giorniConsigliati: '2-3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'L\'antica Tebe, divisa dal Nilo in due: sulla riva est i templi dei vivi, Karnak e Luxor; sulla riva ovest la città dei morti, con la Valle dei Re, la Valle delle Regine e il tempio di Hatshepsut.',
     percheAndarci:
@@ -143,7 +143,7 @@ export const destinazioniEgitto: Destinazione[] = [
     nome: 'Assuan e Abu Simbel',
     tipologia: ['archeologia', 'Nilo', 'cultura nubiana'],
     giorniConsigliati: '2-3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La città più meridionale del circuito, dove il Nilo si stringe tra isole di granito e dune, con i villaggi nubiani colorati sulla riva ovest. Da qui si parte per i templi di Ramses II e Nefertari ad Abu Simbel.',
     percheAndarci:
@@ -184,7 +184,7 @@ export const destinazioniEgitto: Destinazione[] = [
     nome: 'Oasi di Siwa',
     tipologia: ['deserto', 'oasi', 'cultura berbera'],
     giorniConsigliati: '3 giorni più due di viaggio',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Un\'oasi di palme e laghi salati a 50 km dal confine libico, abitata da una comunità di lingua berbera, ai margini del Grande Mare di Sabbia.',
     percheAndarci:
@@ -225,7 +225,7 @@ export const destinazioniEgitto: Destinazione[] = [
     nome: 'Mar Rosso: Hurghada, Marsa Alam e Sharm el-Sheikh',
     tipologia: ['mare', 'immersioni', 'snorkeling'],
     giorniConsigliati: '3-5 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La costa egiziana del Mar Rosso e la punta del Sinai: barriera corallina vicinissima alla riva, relitti, squali pelagici al largo e un\'acqua che non scende sotto i 21-22 °C nemmeno d\'inverno.',
     percheAndarci:

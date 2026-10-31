@@ -1,8 +1,8 @@
 import type { Esperienza } from '@/lib/types'
 
-// Paese visitato di persona: miaEsperienza e giudizio restano però da
-// compilare con i ricordi e le opinioni reali — il giudizio 'da-verificare' è
-// un segnaposto, non una valutazione. Prezzi e regole di prenotazione in Perù
+// Paese visitato di persona: Huayna Picchu e Amantaní sono nell'articolo
+// peru-itinerario; Cammino Inca classico e Choquequirao no (tripSlugs vuoti).
+// miaEsperienza assente, giudizio lasciato com'è. Prezzi e regole di prenotazione in Perù
 // cambiano spesso, vanno riverificati prima di prenotare.
 
 export const esperienzePeru: Esperienza[] = [
@@ -14,7 +14,7 @@ export const esperienzePeru: Esperienza[] = [
     localita: 'Machu Picchu, Cusco',
     cosE:
       'La montagna che fa da sfondo alle foto classiche di Machu Picchu. Il sentiero sale molto ripido lungo gradini inca scavati nella roccia, con tratti esposti assicurati da cavi, fino a una piattaforma da cui si guarda la cittadella dall\'alto. Richiede un biglietto specifico, con quota giornaliera separata e molto più ristretta di quella generale.',
-    percheFarla: 'È l\'unico modo per vedere Machu Picchu dall\'alto e capirne l\'impianto: dalla cittadella non si percepisce la forma dell\'insieme.',
+    percheFarla: 'È l\'unico modo per vedere Machu Picchu dall\'alto e capirne l\'impianto: dalla cittadella non si percepisce la forma dell\'insieme. Io l\'ho fatto ed è bellissimo, ma va prenotato per tempo.',
     durata: 'circa 2-3 ore andata e ritorno, oltre alla visita del sito',
     periodo: 'tutto l\'anno, con fasce orarie assegnate; nella stagione delle piogge i gradini diventano scivolosi',
     costo: 'il circuito che include Huayna Picchu o la Montaña Machu Picchu costa circa 200 soles (54$ circa), contro i circa 152 soles del circuito base',
@@ -88,7 +88,7 @@ export const esperienzePeru: Esperienza[] = [
     localita: 'Isola di Amantaní, lago Titicaca',
     cosE:
       'Il tour classico di due giorni sul Titicaca prevede la notte a casa di una famiglia dell\'isola di Amantaní: si cena con loro, si sale al tempio di Pachatata per il tramonto e si partecipa alla festa serale del villaggio con gli abiti tradizionali prestati dagli ospiti.',
-    percheFarla: 'Perché è l\'unico momento del giro sul lago in cui si esce dal circuito turistico degli Uros e si sta con chi ci vive.',
+    percheFarla: 'Perché è l\'unico momento del giro sul lago in cui si esce dal circuito turistico degli Uros e si sta con chi ci vive: per me è il ricordo del lago rimasto più impresso.',
     durata: '2 giorni, 1 notte, partendo dal porto di Puno',
     periodo: 'tutto l\'anno; da maggio a settembre le giornate sono più soleggiate ma le notti gelide',
     costo: 'indicativamente 30-60$ a persona per il tour di due giorni, tra i migliori rapporti qualità-prezzo del Perù',

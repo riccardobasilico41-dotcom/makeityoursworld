@@ -2,13 +2,9 @@ import type { Paese } from '@/lib/types'
 
 // La Danimarca entra nell'archivio come prima tappa di "Capitali nordiche",
 // l'itinerario che unisce Copenaghen, Stoccolma e Oslo (src/content/viaggi/
-// 60-capitali-nordiche.md). Nessuno ha ancora messo piede in Danimarca per
-// conto di questo sito: la destinazione di Copenaghen resta visitataPersonalmente:
-// false e senza il campo miaEsperienza, facoltativo apposta nel tipo Destinazione
-// (vedi il commento sul tipo in src/lib/types.ts) — stesso trattamento già usato
-// per la Polonia (src/content/paesi/polonia.ts) e per il Centro America
-// (src/content/viaggi-dati/centro-america-itinerario.ts). Scheda di ricerca,
-// non un diario: fatti verificabili, senza episodi in prima persona.
+// 60-capitali-nordiche.md), viaggio fatto da Rick: la destinazione di Copenaghen è
+// visitataPersonalmente: true. Il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore (vedi il commento sul tipo in
+// src/lib/types.ts).
 //
 // tripPrincipaleSlug punta a 'capitali-nordiche': a differenza di Svezia e
 // Norvegia, che restano ancorate ai loro viaggi natura già pubblicati

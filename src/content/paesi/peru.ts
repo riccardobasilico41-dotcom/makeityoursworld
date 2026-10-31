@@ -1,7 +1,7 @@
 import type { Paese } from '@/lib/types'
 
-// Paese visitato di persona, ma senza ancora un racconto scritto: miaEsperienza
-// resta assente nelle destinazioni collegate, in attesa dei ricordi reali.
+// Paese visitato di persona (tre viaggi): i ricordi stanno nelle destinazioni,
+// tratti dall'articolo peru-itinerario.
 // tripPrincipaleSlug punta a peru-itinerario (src/content/viaggi/50-peru-itinerario.md
 // + src/content/viaggi-dati/peru-itinerario.ts), ora pubblicato.
 

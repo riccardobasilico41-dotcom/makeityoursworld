@@ -1,8 +1,8 @@
 import type { Paese } from '@/lib/types'
 
-// Scheda Paese costruita su ricerca documentale (Viaggiare Sicuri, Ministero della
-// Cultura e del Turismo turco, siti di musei e trasporti, guide recenti). Nessuna
-// esperienza diretta: il viaggio collegato è una guida in lavorazione.
+// Scheda Paese del viaggio turchia-itinerario, viaggio fatto da Rick. I dati pratici vengono
+// da Viaggiare Sicuri, dal Ministero della Cultura e del Turismo turco, dai
+// siti di musei e trasporti e da guide recenti.
 
 export const turchia: Paese = {
   slug: 'turchia',

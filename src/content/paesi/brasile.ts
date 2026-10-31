@@ -1,9 +1,9 @@
 import type { Paese } from '@/lib/types'
 
-// Scheda Paese costruita con ricerca documentale (ottobre 2026), senza un
-// viaggio dell'autore alle spalle: tutte le destinazioni collegate hanno
-// visitataPersonalmente: false e nessuna ha il campo miaEsperienza (vedi
-// src/content/destinazioni/brasile.ts). Prezzi, regole dei parchi e
+// Scheda Paese costruita con ricerca documentale (ottobre 2026) sul viaggio
+// fatto dall'autore: le tappe dell'itinerario hanno visitataPersonalmente: true,
+// le due estensioni (Pantanal, Amazzonia) no, e nessuna ha il campo
+// miaEsperienza (vedi src/content/destinazioni/brasile.ts). Prezzi, regole dei parchi e
 // requisiti sanitari vanno riverificati prima di partire.
 
 export const brasile: Paese = {

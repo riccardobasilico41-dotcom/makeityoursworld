@@ -1,10 +1,10 @@
 import type { Paese } from '@/lib/types'
 
-// Scheda Paese costruita con ricerca documentale (ottobre 2026), senza un
-// viaggio dell'autore alle spalle: tutte le destinazioni collegate hanno
-// visitataPersonalmente: false e nessuna ha il campo miaEsperienza (vedi
-// src/content/destinazioni/croazia.ts). Prezzi di parchi e traghetti e
-// regole dei centri storici vanno riverificati prima di partire.
+// Scheda Paese del viaggio croazia-itinerario, viaggio fatto da Rick: tutte le destinazioni
+// collegate hanno visitataPersonalmente: true e il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore (vedi
+// src/content/destinazioni/croazia.ts). Dati pratici verificati a ottobre
+// 2026; prezzi di parchi e traghetti e regole dei centri storici vanno
+// riverificati prima di partire.
 
 export const croazia: Paese = {
   slug: 'croazia',

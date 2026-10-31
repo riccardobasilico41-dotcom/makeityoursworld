@@ -2,14 +2,11 @@ import type { Destinazione } from '@/lib/types'
 
 // Prima uscita olandese dell'archivio, collegata al viaggio "Amsterdam in un
 // weekend lungo" (src/content/viaggi/58-amsterdam-weekend.md, dati in
-// src/content/viaggi-dati/amsterdam-weekend.ts). Un'unica destinazione:
-// Amsterdam stessa. Non è stata visitata di persona: visitataPersonalmente
-// resta false e il campo miaEsperienza, facoltativo nel tipo, è assente di
-// proposito — niente ricordo inventato, solo fatti verificati con ricerca
-// (stesso trattamento usato in src/content/paesi/polonia.ts). Nessun nome di
-// hotel, ristorante o operatore è stato inventato. Prezzi e orari (soprattutto
-// quelli della Casa di Anna Frank) cambiano spesso e vanno riverificati sui
-// canali ufficiali prima di partire.
+// src/content/viaggi-dati/amsterdam-weekend.ts), viaggio fatto da Rick. Un'unica
+// destinazione: Amsterdam stessa, visitataPersonalmente true; il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore.
+// Nessun nome di hotel, ristorante o operatore è stato inventato. Prezzi e
+// orari (soprattutto quelli della Casa di Anna Frank) cambiano spesso e vanno
+// riverificati sui canali ufficiali prima di partire.
 
 export const destinazioniPaesiBassi: Destinazione[] = [
   {
@@ -19,7 +16,7 @@ export const destinazioniPaesiBassi: Destinazione[] = [
     nome: 'Amsterdam',
     tipologia: ['città', 'arte', 'storia'],
     giorniConsigliati: '3-4 giorni per il centro storico, l\'anello dei canali e i musei principali',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La capitale dei Paesi Bassi, costruita su una rete di canali concentrici scavati a partire dal Seicento, nell\'età dell\'oro olandese. Il Grachtengordel (l\'anello dei canali), con le tipiche case a schiera strette e alte affacciate sull\'acqua, è Patrimonio UNESCO dal 2010. È una città compatta, quasi piatta, da girare a piedi o, più spesso, in bicicletta.',
     percheAndarci:

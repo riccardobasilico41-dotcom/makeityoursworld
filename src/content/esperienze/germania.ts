@@ -1,11 +1,11 @@
 import type { Esperienza } from '@/lib/types'
 
-// Prima uscita tedesca dell'archivio: nessuna di queste esperienze è stata
-// provata di persona, quindi giudizio resta 'da-verificare' su tutte e
-// miaEsperienza è assente di proposito (vedi il commento in
-// src/content/destinazioni/germania.ts). Prezzi, orari e regole di
-// prenotazione cambiano spesso — in particolare quelle del Reichstag e i
-// lavori di ristrutturazione del Pergamonmuseum — e vanno riverificati sui
+// Prima uscita tedesca dell'archivio: è un viaggio fatto da Rick. giudizio
+// resta 'da-verificare' finché non arriva la sua valutazione e il campo
+// miaEsperienza resta assente finché non arriva un ricordo dell'autore (vedi
+// il commento in src/content/destinazioni/germania.ts). Prezzi, orari e regole
+// di prenotazione cambiano spesso, in particolare quelle del Reichstag e i
+// lavori di ristrutturazione del Pergamonmuseum, e vanno riverificati sui
 // canali ufficiali prima di prenotare.
 
 export const esperienzeGermania: Esperienza[] = [

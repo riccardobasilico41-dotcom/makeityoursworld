@@ -2,10 +2,10 @@ import type { Destinazione } from '@/lib/types'
 
 // Seconda tappa dell'itinerario "Capitali baltiche in 9 giorni"
 // (src/content/viaggi/61-capitali-baltiche.md, dati in
-// src/content/viaggi-dati/capitali-baltiche.ts). Stesso trattamento delle
-// destinazioni lituane ed estoni: visitataPersonalmente false ovunque,
-// nessun miaEsperienza. Jūrmala è trattata come destinazione a sé (non
-// ripiegata nel cosaFare di Riga), sullo stesso criterio usato per Trakai in
+// src/content/viaggi-dati/capitali-baltiche.ts), viaggio fatto da Rick. Stesso trattamento
+// delle destinazioni lituane ed estoni: visitataPersonalmente true ovunque,
+// miaEsperienza resta assente finché non arriva un ricordo dell'autore. Jūrmala è trattata come destinazione a sé (non ripiegata nel
+// cosaFare di Riga), sullo stesso criterio usato per Trakai in
 // src/content/destinazioni/lituania.ts: un luogo fisicamente separato con un
 // proprio cosaVedere denso, non solo una riga nel cosaFare della capitale.
 
@@ -17,7 +17,7 @@ export const destinazioniLettonia: Destinazione[] = [
     nome: 'Riga',
     tipologia: ['città', 'architettura', 'gastronomia'],
     giorniConsigliati: '3 giorni, compresa la gita a Jūrmala',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'È la capitale della Lettonia e la più grande delle tre capitali baltiche. Il centro storico medievale, patrimonio UNESCO dal 1997, si affaccia sul fiume Daugava con le guglie delle chiese anseatiche e la Casa delle Teste Nere. Appena fuori dalle mura, il quartiere costruito tra Otto e Novecento ha una delle densità di architettura Art Nouveau più alte al mondo. Poco più in là il Mercato Centrale, ricavato da cinque ex hangar per dirigibili, è ancora il più grande bazar coperto d\'Europa.',
     percheAndarci:
@@ -65,7 +65,7 @@ export const destinazioniLettonia: Destinazione[] = [
     nome: 'Jūrmala',
     tipologia: ['mare', 'architettura', 'relax'],
     giorniConsigliati: 'mezza giornata, come gita da Riga',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La città balneare storica della Lettonia: circa 32 km di sabbia bianca finissima sul Golfo di Riga, a 20 km e mezz\'ora di treno dalla capitale. Dagli anni degli zar fino all\'epoca sovietica, quando ci andava in villeggiatura l\'élite dell\'URSS, a Jūrmala sono sorte centinaia di ville di legno Art Nouveau e Art Déco. Molte oggi sono restaurate e fanno da case private, hotel o piccoli musei.',
     percheAndarci:

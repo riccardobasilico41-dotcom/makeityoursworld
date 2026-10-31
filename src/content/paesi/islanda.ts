@@ -7,7 +7,7 @@ export const islanda: Paese = {
   titolo: 'Islanda: 9 giorni in tenda lungo la Ring Road',
   descrizione:
     'Nove giorni ad anello attorno all\'isola del ghiaccio e del fuoco, con sei notti su otto in tenda. Cascate una dopo l\'altra, un ghiacciaio camminato con i ramponi, una laguna glaciale girata in kayak, un\'eruzione vulcanica vista da vicino e un relitto d\'aereo raggiunto a piedi a mezzanotte. È un itinerario on the road pensato per il campeggio, con due sole notti in hotel.',
-  periodoMigliore: 'estate (giugno-agosto), per il sole di mezzanotte e le strade sterrate più praticabili; il clima resta variabile e freddo anche in stagione',
+  periodoMigliore: 'estate (giugno-agosto), per le notti sempre chiare e le strade sterrate più praticabili; il clima resta variabile e freddo anche in stagione',
   durataConsigliata: '9-10 giorni per fare l\'anello completo (Ring Road) senza correre',
   budgetIndicativo: 'un totale non l\'ho calcolato, ma l\'isola è cara, soprattutto alcolici, caffè e pasti fuori dal campeggio',
   scheda: {
@@ -30,7 +30,7 @@ export const islanda: Paese = {
     elettricita: '230V, 50Hz, prese di tipo C e F: identiche a quelle italiane, nessun adattatore necessario.',
     fusoOrario: 'UTC+0 tutto l\'anno, senza ora legale: 2 ore indietro rispetto all\'Italia in ora legale, 1 in inverno.',
     clima:
-      'Estate mite per gli standard locali (10-15°C), con il sole di mezzanotte: a giugno-luglio non fa mai buio del tutto. Vento e pioggia possono arrivare in qualsiasi momento dell\'anno. L\'aurora boreale si vede da ottobre a marzo, quando però molte strade interne sono chiuse.',
+      'Estate mite per gli standard locali (10-15°C), con notti chiare: a giugno-luglio non fa mai buio del tutto. Vento e pioggia possono arrivare in qualsiasi momento dell\'anno. L\'aurora boreale si vede da ottobre a marzo, quando però molte strade interne sono chiuse.',
     emergenze:
       'Numero unico 112 e app SafeTravel per allerte e piani di viaggio. In Islanda non c\'è un\'ambasciata d\'Italia residente: l\'assistenza consolare fa capo alla sede accreditata, con un consolato onorario a Reykjavík. Prima di partire conviene controllare i riferimenti aggiornati su Viaggiare Sicuri.',
     aggiornatoAl: 'settembre 2026',

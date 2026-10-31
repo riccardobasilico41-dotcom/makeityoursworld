@@ -1,9 +1,9 @@
 import type { Destinazione } from '@/lib/types'
 
 // Destinazioni della guida maldive-guida: gli atolli e le isole citati
-// nell'itinerario d'esempio e nella scelta dell'atollo. Nessuna è raccontata
-// da un viaggio vissuto in questa fase: visitataPersonalmente false, niente
-// miaEsperienza. Prezzi e stagioni verificati a ottobre 2026, indicativi.
+// nell'itinerario e nella scelta dell'atollo. Il viaggio dell'autore tocca
+// Malé e Hulhumalé e Ari Sud (visitataPersonalmente: true); gli altri atolli
+// sono solo alternative nella guida e restano false. Niente miaEsperienza. Prezzi e stagioni verificati a ottobre 2026, indicativi.
 
 export const destinazioniMaldive: Destinazione[] = [
   {
@@ -13,7 +13,7 @@ export const destinazioniMaldive: Destinazione[] = [
     nome: 'Malé e Hulhumalé',
     tipologia: ['città', 'arrivo'],
     giorniConsigliati: 'mezza giornata o una notte di transito',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La capitale, una delle città più densamente abitate al mondo, e Hulhumalé, l\'isola artificiale accanto all\'aeroporto Velana, con spiaggia cittadina, hotel e ristoranti.',
     percheAndarci:
@@ -98,7 +98,7 @@ export const destinazioniMaldive: Destinazione[] = [
     nome: 'Ari Sud (Dhigurah e Dhangethi)',
     tipologia: ['isole locali', 'snorkeling', 'squali balena', 'mante'],
     giorniConsigliati: '4-5 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La parte meridionale dell\'atollo di Ari, con l\'area marina protetta tra Maamigili e Dhigurah dove gli squali balena giovani si nutrono lungo la barriera esterna tutto l\'anno.',
     percheAndarci:

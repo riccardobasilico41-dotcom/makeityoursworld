@@ -23,7 +23,7 @@ export const destinazioniIslanda: Destinazione[] = [
     cosaVedere: ['Il centro di Keflavík', 'La penisola di Reykjanes'],
     cosaFare: [
       'Cena da Kaffi Duus e giro serale in centro',
-      'Escursione al vulcano in eruzione sulla penisola di Reykjanes (vedi la scheda esperienza dedicata; il giorno esatto e la logistica non me li sono segnati)',
+      'Escursione al vulcano in eruzione sulla penisola di Reykjanes (vedi la scheda esperienza dedicata; ci sono andato in autonomia, senza tour, e il giorno esatto non me lo sono segnato)',
     ],
     doveDormire:
       'Ho dormito al Konvin Hotel, uno degli hotel più grandi della zona aeroporto: comodo per la navetta, con una colazione abbondante. Le recensioni online (circa 3/5 su quasi 940 recensioni Tripadvisor) lo danno nella media per uno scalo di una notte: chi lo sceglie per la vicinanza all\'aeroporto lo trova pratico e il personale gentile, altri segnalano stanze fredde o bagni non impeccabili. Niente di speciale, ma per la prima notte funziona.\n\nAlternative a Keflavík/Reykjanesbær. Economiche: guesthouse e piccoli B&B della zona · fascia media (qui rientra il Konvin Hotel): altri hotel vicino all\'aeroporto con navetta inclusa · più curate: hotel boutique in centro a Reykjavík (~45 min di auto), per chi alla prima o all\'ultima notte rinuncia volentieri alla comodità dell\'aeroporto.',
@@ -34,7 +34,7 @@ export const destinazioniIslanda: Destinazione[] = [
     costi: 'Bus 55: 4€ a persona a tratta.',
     erroriDaEvitare: ['L\'ultima corsa del bus 55 parte poco dopo le 23: da non perdere per rientrare in hotel'],
     miaEsperienza:
-      'Keflavík è stata una tappa breve, ma è legata a uno dei ricordi più forti dell\'Islanda: durante il viaggio, sulla penisola di Reykjanes, a pochi minuti da qui, ho visto da vicino un vulcano in eruzione. Il giorno esatto non me lo sono segnato.',
+      'Keflavík è stata una tappa breve, ma è legata a uno dei ricordi più forti dell\'Islanda: durante il viaggio, sulla penisola di Reykjanes, a pochi minuti da qui, ho visto da vicino un vulcano in eruzione, andandoci in autonomia, senza tour. Il giorno esatto non me lo sono segnato.',
     esperienzeSlugs: ['vulcano-reykjanes'],
     tripSlugs: ['islanda-2024'],
     imageAlt: 'Colata di lava incandescente durante un\'eruzione notturna sulla penisola di Reykjanes, vicino Keflavík',
@@ -49,7 +49,7 @@ export const destinazioniIslanda: Destinazione[] = [
     giorniConsigliati: '1 notte, dopo una giornata piena di cascate',
     visitataPersonalmente: true,
     introduzione: 'La prima notte in tenda del viaggio, dopo una giornata passata fra il Golden Circle e le cascate più fotografate del sud dell\'Islanda.',
-    percheAndarci: 'È la base per una delle notti che ricordo meglio del viaggio: il relitto dell\'aereo di Sólheimasandur, raggiunto a piedi a mezzanotte, con il sole che a inizio luglio non tramonta mai del tutto.',
+    percheAndarci: 'È la base per una delle notti che ricordo meglio del viaggio: il relitto dell\'aereo di Sólheimasandur, raggiunto a piedi a mezzanotte, con la luce di fine luglio, che a mezzanotte non cala mai del tutto.',
     cosaVedere: ['Geysir e Gullfoss (Golden Circle)', 'Seljalandsfoss e Gljúfrabúi', 'Skógafoss', 'Relitto dell\'aereo DC-3 a Sólheimasandur'],
     cosaFare: [
       'Golden Circle: Geysir (eruzioni ogni 6-7 minuti) e Gullfoss, la «cascata dorata» a due salti',
@@ -62,14 +62,14 @@ export const destinazioniIslanda: Destinazione[] = [
     doveMangiare: 'Pranzo al sacco o nei dintorni delle cascate; cena al campeggio.',
     comeArrivare: 'Da Keflavík, con soste al Golden Circle e alle cascate del sud lungo il tragitto.',
     comeSpostarsi: 'Auto a noleggio (ritirata la mattina a Keflavík insieme alla tenda).',
-    periodoMigliore: 'inizio luglio, per il sole di mezzanotte che rende possibile l\'escursione notturna al relitto',
+    periodoMigliore: 'fine luglio, per la luce che a mezzanotte non cala mai del tutto e rende possibile l\'escursione notturna al relitto',
     costi: 'Campeggio 1.950 ISK + doccia 300 ISK; parcheggio a Seljalandsfoss 700 ISK.',
     erroriDaEvitare: [
       'Dopo una giornata già piena il relitto dell\'aereo è una bella sfacchinata: meglio valutare le energie prima di partire a mezzanotte',
       'Portare torcia o power bank per il telefono: quattro chilometri di sabbia nera piatta e senza punti di riferimento',
     ],
     miaEsperienza:
-      'A inizio luglio c\'era ancora il sole di mezzanotte, così dopo cena ho deciso all\'ultimo di non andare a dormire e di raggiungere il relitto a piedi. Dopo una giornata già piena è stata una sfacchinata, ma è probabilmente il momento più assurdo del viaggio, e quello che ricordo meglio.',
+      'A fine luglio a mezzanotte c\'era ancora luce, così dopo cena ho deciso all\'ultimo di non andare a dormire e di raggiungere il relitto a piedi. Dopo una giornata già piena è stata una sfacchinata, ma è probabilmente il momento più assurdo del viaggio, e quello che ricordo meglio.',
     esperienzeSlugs: ['relitto-aereo-solheimasandur', 'golden-circle'],
     tripSlugs: ['islanda-2024'],
     imageAlt: 'Relitto dell\'aereo DC-3 abbandonato sulla sabbia nera di Sólheimasandur, Islanda',
@@ -105,7 +105,7 @@ export const destinazioniIslanda: Destinazione[] = [
     costi: 'i prezzi del trekking sul ghiacciaio e del kayak non me li sono segnati: conviene controllarli sui siti degli operatori al momento di prenotare',
     erroriDaEvitare: ['A Reynisfjara seguire sempre le indicazioni di sicurezza: le onde sono imprevedibili'],
     miaEsperienza:
-      'Il trekking sul ghiacciaio e il kayak tra gli iceberg sono state due delle esperienze più intense del viaggio. Operatore, durata e prezzi esatti non li ho annotati.',
+      'Il trekking sul ghiacciaio e il kayak tra gli iceberg sono state due delle esperienze più intense del viaggio. Il trekking l\'ho fatto con Troll Expeditions; l\'operatore del kayak, le durate e i prezzi esatti non li ho annotati.',
     esperienzeSlugs: ['trekking-ghiacciaio-vatnajokull', 'kayak-jokulsarlon'],
     tripSlugs: ['islanda-2024'],
     imageAlt: 'Iceberg blu che galleggiano nella laguna glaciale di Jökulsárlón, Islanda',
@@ -153,12 +153,12 @@ export const destinazioniIslanda: Destinazione[] = [
       'Vök Baths, piscina termale galleggiante sul lago Urriðavatn (vedi la scheda esperienza dedicata)',
     ],
     doveDormire:
-      'Ho dormito al Camp Egilsstaðir, ben recensito (4/5 su Tripadvisor): bagni puliti, lavatrici e asciugatrici, cucine al chiuso, elettricità, per circa 2.000-2.400 ISK a notte.\n\nAlternative a Egilsstaðir. Economiche: Hafaldan HI Hostel (edificio Harbour) · fascia media: Við Lónið Guesthouse · più curate: Gistihúsið Lake Hotel Egilsstaðir, Hotel Valaskjálf.',
+      'Ho dormito al Camp Egilsstaðir, ben recensito (4/5 su Tripadvisor): bagni puliti, lavatrici e asciugatrici, cucine al chiuso, elettricità, per circa 2.000 ISK a persona.\n\nAlternative a Egilsstaðir. Economiche: Hafaldan HI Hostel (edificio Harbour) · fascia media: Við Lónið Guesthouse · più curate: Gistihúsið Lake Hotel Egilsstaðir, Hotel Valaskjálf.',
     doveMangiare: 'Cena in campeggio o in uno dei locali di Egilsstaðir.',
     comeArrivare: 'Da Höfn, lungo i fiordi dell\'Est (Route 1).',
     comeSpostarsi: 'Auto a noleggio.',
     periodoMigliore: 'quello di tutto il giro: l\'estate, se si gira l\'isola in tenda',
-    costi: 'Campeggio circa 2.000-2.400 ISK/notte.',
+    costi: 'Campeggio circa 2.000 ISK a persona.',
     erroriDaEvitare: [],
     miaEsperienza: 'I Vök Baths sono arrivati al momento giusto: dopo due giorni tra trekking e vento, è stato il primo vero bagno caldo del viaggio.',
     esperienzeSlugs: ['terme-naturali-islanda'],

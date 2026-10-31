@@ -1,7 +1,7 @@
 import type { Paese } from '@/lib/types'
 
-// Paese non ancora visitato di persona: contenuto guida verificabile
-// (cosa vedere, come muoversi, costi indicativi), nessun ricordo personale.
+// Paese visitato di persona: i ricordi stanno nelle destinazioni, qui solo
+// informazioni pratiche (documenti, costi, trasporti).
 // tripPrincipaleSlug punta all'itinerario combinato del Centro America
 // (src/content/viaggi/51-centro-america-itinerario.md), che copre Panama
 // nella Parte 2, raggiunta in volo dal Belize.

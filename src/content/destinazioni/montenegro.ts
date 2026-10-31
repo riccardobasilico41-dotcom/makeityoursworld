@@ -1,8 +1,8 @@
 import type { Destinazione } from '@/lib/types'
 
-// Destinazioni del viaggio montenegro-itinerario. Nessuna è raccontata da un
-// viaggio vissuto in questa fase: visitataPersonalmente false, niente
-// miaEsperienza. Prezzi e orari verificati a ottobre 2026, indicativi.
+// Destinazioni del viaggio montenegro-itinerario, viaggio fatto da Rick:
+// visitataPersonalmente true; il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore. Prezzi e orari verificati a
+// ottobre 2026, indicativi.
 
 export const destinazioniMontenegro: Destinazione[] = [
   {
@@ -12,7 +12,7 @@ export const destinazioniMontenegro: Destinazione[] = [
     nome: 'Bocche di Cattaro: Kotor e Perast',
     tipologia: ['patrimonio UNESCO', 'mare', 'città storica'],
     giorniConsigliati: '2-3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Una baia profonda e ramificata, chiusa tra montagne che scendono a picco sull\'acqua, con le città venete di Kotor e Perast, palazzi di capitani di nave e isolotti con chiese e monasteri.',
     percheAndarci:
@@ -48,7 +48,7 @@ export const destinazioniMontenegro: Destinazione[] = [
     nome: 'Lovćen e Cetinje',
     tipologia: ['montagna', 'parco nazionale', 'storia'],
     giorniConsigliati: '1 giorno',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La montagna simbolo del Montenegro, sopra le Bocche, con il mausoleo del principe-vescovo e poeta Njegoš in vetta, e la vecchia capitale reale di Cetinje ai suoi piedi.',
     percheAndarci:
@@ -74,7 +74,7 @@ export const destinazioniMontenegro: Destinazione[] = [
     nome: 'Budva e la riviera',
     tipologia: ['mare', 'spiagge', 'vita notturna'],
     giorniConsigliati: '1-3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La costa centrale del Montenegro, con la città vecchia fortificata di Budva, l\'isolotto-resort di Sveti Stefan e le baie fino a Petrovac.',
     percheAndarci: 'Per qualche giorno di mare, scegliendo le baie più tranquille a sud di Budva.',
@@ -99,7 +99,7 @@ export const destinazioniMontenegro: Destinazione[] = [
     nome: 'Lago di Scutari',
     tipologia: ['lago', 'parco nazionale', 'natura', 'vino'],
     giorniConsigliati: '1 giorno',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Il più grande lago dei Balcani, condiviso con l\'Albania, parco nazionale con oltre 280 specie di uccelli, canali di ninfee, monasteri sugli isolotti e i vigneti di Crmnica.',
     percheAndarci: 'Per un giro in barca tra canali e villaggi di pescatori, il belvedere di Pavlova Strana e i vini del lago.',
@@ -124,7 +124,7 @@ export const destinazioniMontenegro: Destinazione[] = [
     nome: 'Monastero di Ostrog',
     tipologia: ['monastero', 'pellegrinaggio'],
     giorniConsigliati: 'mezza giornata',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Il monastero ortodosso più venerato del Montenegro, bianco e incastrato in una parete verticale a circa 900 metri, con le reliquie di San Basilio di Ostrog.',
     percheAndarci: 'Per la posizione nella roccia e per il pellegrinaggio, che attira fedeli di tutte le confessioni.',
@@ -147,7 +147,7 @@ export const destinazioniMontenegro: Destinazione[] = [
     nome: 'Durmitor e canyon del Tara',
     tipologia: ['patrimonio UNESCO', 'montagna', 'trekking', 'rafting'],
     giorniConsigliati: '2-3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Un massiccio calcareo con 48 vette sopra i 2.000 metri e diciotto laghi glaciali intorno a Žabljak, e il canyon del Tara, profondo fino a 1.300 metri, tra i più profondi d\'Europa.',
     percheAndarci: 'Per il Lago Nero, la strada panoramica del Durmitor, la salita al Bobotov Kuk e il rafting sul Tara.',

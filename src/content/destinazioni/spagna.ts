@@ -1,12 +1,10 @@
 import type { Destinazione } from '@/lib/types'
 
-// Prima uscita spagnola dell'archivio. Nessuna di queste tredici destinazioni
-// è stata visitata di persona: visitataPersonalmente resta false su tutte e
-// il campo miaEsperienza, facoltativo nel tipo, è assente di proposito — niente
-// ricordo inventato, solo fatti verificati con ricerca (stesso trattamento
-// usato in polonia.ts e in meraviglie.ts per i luoghi non visitati). Nessun
-// nome di hotel o ristorante specifico è stato inventato. Prezzi, orari e
-// regole di prenotazione (Alhambra, Teide, Guggenheim) cambiano spesso e vanno
+// Prima uscita spagnola dell'archivio. Tutte e tredici le destinazioni sono
+// tappe dei quattro viaggi fatti da Rick (Andalusia, Nord, Baleari, Canarie):
+// visitataPersonalmente è true su tutte. Il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore. Nessun nome di hotel
+// o ristorante specifico è stato inventato. Prezzi, orari e regole di
+// prenotazione (Alhambra, Teide, Guggenheim) cambiano spesso e vanno
 // riverificati sui canali ufficiali prima di partire.
 //
 // Ordine: Andalusia (1-4, la regione del trip principale), Nord (5-7),
@@ -22,7 +20,7 @@ export const destinazioniSpagna: Destinazione[] = [
     nome: 'Siviglia',
     tipologia: ['città', 'cultura moresca', 'flamenco'],
     giorniConsigliati: '2-3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La capitale dell\'Andalusia, sul Guadalquivir. Qui otto secoli di dominio moresco convivono con la Siviglia barocca e, sull\'altra riva, con il quartiere gitano di Triana, dove il flamenco è nato per strada prima di diventare spettacolo.',
     percheAndarci:
@@ -66,7 +64,7 @@ export const destinazioniSpagna: Destinazione[] = [
     nome: 'Granada',
     tipologia: ['città', 'cultura moresca', 'montagna'],
     giorniConsigliati: '2-3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'L\'ultima capitale del regno moresco di al-Andalus, caduta nel 1492. L\'Alhambra la domina dalla collina e intorno ci sono le vette innevate della Sierra Nevada: in certi periodi dell\'anno è l\'unico posto in Europa dove si può sciare al mattino e stare in spiaggia il pomeriggio.',
     percheAndarci:
@@ -109,7 +107,7 @@ export const destinazioniSpagna: Destinazione[] = [
     nome: 'Córdoba',
     tipologia: ['città', 'cultura moresca'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Nel X secolo, sotto il Califfato omayyade, Córdoba era la città più popolosa e più colta dell\'Europa occidentale, dove convivevano cultura islamica, ebraica e cristiana. Ne resta il monumento più spiazzante d\'Andalusia: la Mezquita, una foresta di oltre ottocento colonne di marmo e onice con una cattedrale rinascimentale costruita proprio nel mezzo.',
     percheAndarci:
@@ -151,7 +149,7 @@ export const destinazioniSpagna: Destinazione[] = [
     nome: 'Ronda e i pueblos blancos',
     tipologia: ['montagna', 'borghi', 'natura'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Ronda è il più scenografico dei «pueblos blancos», i borghi bianchi dell\'entroterra andaluso. Sta sui due lati del Tajo, una gola profonda oltre 100 metri, uniti dal Puente Nuevo del XVIII secolo. È la montagna dopo le città moresche della pianura, ed è la culla della tauromachia moderna.',
     percheAndarci:
@@ -193,7 +191,7 @@ export const destinazioniSpagna: Destinazione[] = [
     nome: 'San Sebastián (Donostia)',
     tipologia: ['città', 'gastronomia', 'mare'],
     giorniConsigliati: '2-3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La città basca sulla baia a conchiglia della Concha, con più stelle Michelin per abitante di qualsiasi altra città al mondo e la cultura del pintxo (lo spuntino da bar basco) più fitta di Spagna. È l\'opposto dell\'Andalusia: clima fresco, atmosfera raccolta e un\'identità basca, di lingua e di cultura, ben distinta dal resto del paese.',
     percheAndarci:
@@ -236,7 +234,7 @@ export const destinazioniSpagna: Destinazione[] = [
     nome: 'Bilbao',
     tipologia: ['città', 'arte', 'architettura'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'L\'ex capitale industriale basca. Nel 1997 ha aperto il Museo Guggenheim di Frank Gehry ed è nato il termine «effetto Bilbao», per una città intera rigenerata da un solo edificio. Oggi è una delle capitali culturali più vivaci del Nord della Spagna, con un centro storico (il Casco Viejo) rimasto quasi com\'era accanto ai grattacieli sull\'estuario del Nervión.',
     percheAndarci:
@@ -277,7 +275,7 @@ export const destinazioniSpagna: Destinazione[] = [
     nome: 'Santiago de Compostela e il Camino del Norte',
     tipologia: ['cammino', 'cultura', 'natura'],
     giorniConsigliati: '2-3 giorni per Santiago, più il tempo scelto per il tratto di Cammino',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La meta finale di tutti i Cammini di Santiago: la Cattedrale custodisce, secondo la tradizione, le reliquie dell\'apostolo Giacomo. Il Camino del Norte è la variante costiera che da Irún attraversa Paesi Baschi, Cantabria, Asturie e Galizia per circa 825-865 km. È meno battuto del Cammino Francese e passa per i paesaggi più vari della Spagna del Nord: scogliere atlantiche, spiagge, montagne e alla fine la Galizia verde e piovosa.',
     percheAndarci:
@@ -321,7 +319,7 @@ export const destinazioniSpagna: Destinazione[] = [
     nome: 'Mallorca',
     tipologia: ['isola', 'mare', 'montagna'],
     giorniConsigliati: '3-4 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La più grande e la più completa delle Baleari. Ha Palma, una capitale vera con una cattedrale gotica sul mare, e la Serra de Tramuntana, la catena montuosa patrimonio UNESCO che corre per 90 km lungo la costa nord-occidentale: la parte verde dell\'isola, che chi viene per le spiagge spesso non vede.',
     percheAndarci:
@@ -414,7 +412,7 @@ export const destinazioniSpagna: Destinazione[] = [
     nome: 'Ibiza',
     tipologia: ['isola', 'mare', 'vita notturna'],
     giorniConsigliati: '3-4 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Ibiza sono due isole in una, e ridurla a capitale mondiale della vita notturna è la semplificazione più comune. Il sud (Ibiza Town, Playa d\'en Bossa, San Antonio) è il centro di una scena clubbing senza pari in Europa; il nord (Sant Joan de Labritja, Santa Gertrudis) è rurale, tranquillo e quasi hippie, con calette isolate e mercati artigianali.',
     percheAndarci:
@@ -456,7 +454,7 @@ export const destinazioniSpagna: Destinazione[] = [
     nome: 'Minorca',
     tipologia: ['isola', 'mare', 'natura'],
     giorniConsigliati: '2-3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La più piccola e la più tranquilla delle tre isole maggiori delle Baleari. Gran parte del territorio è Riserva della Biosfera UNESCO, dagli anni \'80 si costruisce poco per scelta politica e le calette restano fra le meno affollate dell\'arcipelago.',
     percheAndarci:
@@ -498,7 +496,7 @@ export const destinazioniSpagna: Destinazione[] = [
     nome: 'Tenerife',
     tipologia: ['isola', 'vulcano', 'natura'],
     giorniConsigliati: '3-4 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La più grande delle Canarie. Qui c\'è il Teide, il vulcano più alto di Spagna (3.715 metri) e, misurato dalla base sul fondale oceanico, la terza struttura vulcanica più alta del mondo. Il Parco Nazionale del Teide, patrimonio UNESCO, è un paesaggio lunare di colate di lava e formazioni rocciose che non si trovano altrove. All\'estremo nord il Parco Rurale di Anaga è una foresta laurifoglia sopravvissuta dall\'era terziaria, riserva della biosfera dal 2015.',
     percheAndarci:
@@ -539,7 +537,7 @@ export const destinazioniSpagna: Destinazione[] = [
     nome: 'Gran Canaria',
     tipologia: ['isola', 'natura', 'mare'],
     giorniConsigliati: '2-3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La chiamano «un continente in miniatura» per i tanti microclimi e paesaggi chiusi in appena 1.560 km². A sud ci sono le dune quasi sahariane di Maspalomas; al centro le montagne intorno al Roque Nublo, a oltre 1.800 metri, con il clima di una media montagna europea.',
     percheAndarci:
@@ -578,7 +576,7 @@ export const destinazioniSpagna: Destinazione[] = [
     nome: 'Lanzarote',
     tipologia: ['isola', 'vulcano', 'architettura'],
     giorniConsigliati: '2-3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'L\'isola più vulcanica delle Canarie: fra il 1730 e il 1736 le eruzioni hanno coperto di lava un quarto della superficie e creato il paesaggio di Timanfaya. Dal 1993 tutta l\'isola è Riserva della Biosfera UNESCO, la prima delle Canarie ad averla su tutto il territorio. Architettura e urbanistica portano il segno di un solo artista, César Manrique.',
     percheAndarci:

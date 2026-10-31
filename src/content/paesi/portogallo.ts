@@ -5,12 +5,9 @@ import type { Paese } from '@/lib/types'
 // filone "weekend lunghi in Europa" di Cracovia, Parigi, Amsterdam. Porto e
 // il resto del paese restano fuori di proposito: meritano un itinerario a sé.
 //
-// Nessuno ha ancora messo piede a Lisbona per conto di questo sito: le
-// destinazioni (Lisbona e Sintra, voci separate) restano entrambe
-// visitataPersonalmente: false e senza il campo miaEsperienza, facoltativo
-// nel tipo Destinazione apposta per questo caso (vedi src/lib/types.ts e lo
-// stesso trattamento in src/content/paesi/polonia.ts). Scheda di ricerca,
-// non un diario: fatti verificabili, senza episodi in prima persona.
+// È un viaggio fatto da Rick (articolo lisbona-weekend): le destinazioni Lisbona e Sintra,
+// voci separate, sono entrambe visitataPersonalmente: true. Il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore
+// (vedi src/lib/types.ts).
 
 export const portogallo: Paese = {
   slug: 'portogallo',

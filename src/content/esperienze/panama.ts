@@ -1,8 +1,8 @@
 import type { Esperienza } from '@/lib/types'
 
-// Paese non ancora visitato: miaEsperienza assente e giudizio 'da-verificare'
-// ovunque. Prezzi e modalità sono indicativi, da riverificare prima di
-// prenotare.
+// Esperienze fatte nel viaggio del Centro America (seconda parte dell'articolo
+// centro-america-itinerario). miaEsperienza assente, giudizio lasciato com'è.
+// Prezzi e modalità sono indicativi, da riverificare prima di prenotare.
 
 export const esperienzePanama: Esperienza[] = [
   {
@@ -40,7 +40,7 @@ export const esperienzePanama: Esperienza[] = [
     cosE:
       'Un pacchetto di una o più notti su una delle isole dell\'arcipelago, gestito dalle famiglie Guna: trasferimento in 4x4 da Panama City fino al porto di Cartí, barca verso l\'isola, alloggio in cabaña essenziale, tutti i pasti e i giri in barca tra gli isolotti inclusi.',
     percheFarla:
-      'È il modo per vivere le isole senza la fretta della gita in giornata, e per farlo dentro un territorio indigeno autogovernato, dove il turismo lo regola la comunità invece degli operatori esterni.',
+      'Noi ci siamo fermati due notti: è il modo per vivere le isole senza la fretta della gita in giornata, e per farlo dentro un territorio indigeno autogovernato, dove il turismo lo regola la comunità invece degli operatori esterni.',
     durata: 'da 1 a 3 notti; il solo trasferimento richiede circa 3 ore per tratta più la barca',
     periodo: 'tutto l\'anno, mare più calmo nella stagione secca (dicembre-aprile)',
     costo:

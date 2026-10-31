@@ -2,7 +2,7 @@ import type { Paese } from '@/lib/types'
 
 // Scheda Paese costruita su ricerca documentale (Viaggiare Sicuri, Bureau of
 // Immigration, Department of Tourism, compagnie aeree e di traghetti, guide recenti).
-// Nessuna esperienza diretta: il viaggio collegato è una guida in lavorazione.
+// Il viaggio collegato (filippine-itinerario) l'ha fatto l'autore.
 
 export const filippine: Paese = {
   slug: 'filippine',

@@ -1,8 +1,8 @@
 import type { Esperienza } from '@/lib/types'
 
-// Paese non ancora visitato: miaEsperienza assente e giudizio 'da-verificare'
-// ovunque. Prezzi e modalità sono indicativi, da riverificare prima di
-// prenotare.
+// Esperienze fatte nel viaggio del Centro America (prima parte dell'articolo centro-america-itinerario).
+// miaEsperienza assente, giudizio lasciato com'è. Prezzi e modalità sono
+// indicativi, da riverificare prima di prenotare.
 
 export const esperienzeGuatemala: Esperienza[] = [
   {
@@ -14,7 +14,7 @@ export const esperienzeGuatemala: Esperienza[] = [
     cosE:
       'Un trekking di due giorni con la notte in campo sul fianco del vulcano Acatenango (3.976 m), da cui si vede il vicino Fuego, uno dei vulcani più attivi al mondo, eruttare a intervalli regolari, spesso più volte in una notte. Si sale in 5-6 ore con 1.500 metri di dislivello, si dorme in tenda o in rifugio e si scende la mattina dopo.',
     percheFarla:
-      'È l\'esperienza simbolo del Guatemala: capita di rado di guardare dall\'alto, a distanza di sicurezza, un vulcano che erutta lava per tutta la notte.',
+      'È l\'esperienza simbolo del Guatemala e la notte che mi è rimasta più impressa del viaggio: capita di rado di guardare dall\'alto, a distanza di sicurezza, un vulcano che erutta lava per tutta la notte.',
     durata: '2 giorni, 1 notte',
     periodo: 'tutto l\'anno, ma molto meglio nella stagione secca (novembre-aprile) per i sentieri e per la visibilità di notte',
     costo:

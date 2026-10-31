@@ -1,9 +1,8 @@
 import type { Destinazione } from '@/lib/types'
 
-// Tappe di "Croazia in 14 giorni" (src/content/viaggi/69-croazia-itinerario.md).
-// Guida non vissuta: tutte hanno visitataPersonalmente: false e nessun
-// miaEsperienza. Nessun nome di hotel, ristorante o operatore inventato.
-// Prezzi indicativi 2026.
+// Tappe di "Croazia in 14 giorni" (src/content/viaggi/69-croazia-itinerario.md),
+// viaggio fatto da Rick: tutte hanno visitataPersonalmente: true e il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore. Nessun nome
+// di hotel, ristorante o operatore inventato. Prezzi indicativi 2026.
 
 export const destinazioniCroazia: Destinazione[] = [
   {
@@ -13,7 +12,7 @@ export const destinazioniCroazia: Destinazione[] = [
     nome: 'Zagabria',
     tipologia: ['città', 'cultura'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La capitale, divisa tra la Città Alta medievale e la Città Bassa austroungarica, con caffè, musei e il mercato di Dolac. È il punto di partenza naturale per Plitvice.',
     percheAndarci: 'Per una Croazia continentale e mitteleuropea, diversa dalla costa.',
@@ -41,7 +40,7 @@ export const destinazioniCroazia: Destinazione[] = [
     nome: 'Laghi di Plitvice',
     tipologia: ['parco nazionale', 'laghi', 'cascate'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Sedici laghi a terrazze collegati da cascate e barriere di travertino, attraversati da passerelle di legno, nel parco nazionale più antico della Croazia, patrimonio UNESCO dal 1979.',
     percheAndarci: 'Per le cascate e i colori dei laghi, da vedere all\'apertura.',
@@ -69,7 +68,7 @@ export const destinazioniCroazia: Destinazione[] = [
     nome: 'Zara, Krka e Sebenico',
     tipologia: ['città storiche', 'parco nazionale', 'mare'],
     giorniConsigliati: '2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La Dalmazia settentrionale: Zara con il centro romano e veneziano e le installazioni sul lungomare, le cascate di travertino del Parco Nazionale del Krka e Sebenico con la cattedrale di San Giacomo.',
     percheAndarci: 'Per il tramonto all\'Organo marino, le cascate del Krka e due città storiche meno affollate di Spalato e Dubrovnik.',
@@ -97,7 +96,7 @@ export const destinazioniCroazia: Destinazione[] = [
     nome: 'Spalato e Traù',
     tipologia: ['città romana', 'mare', 'porto'],
     giorniConsigliati: '2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Spalato vive dentro il palazzo che l\'imperatore Diocleziano si fece costruire intorno al 300 d.C. A mezz\'ora c\'è Traù, isoletta medievale patrimonio UNESCO. Il porto è lo snodo dei traghetti per le isole.',
     percheAndarci: 'Per il palazzo di Diocleziano, la Riva, il Marjan e i collegamenti con Hvar, Brač e Vis.',
@@ -126,7 +125,7 @@ export const destinazioniCroazia: Destinazione[] = [
     nome: 'Hvar',
     tipologia: ['isola', 'mare', 'vita notturna'],
     giorniConsigliati: '2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'L\'isola più soleggiata dell\'Adriatico, con una cittadina veneziana sulla baia, le isole Pakleni davanti al porto, campi di lavanda nell\'interno e la piana di Stari Grad, patrimonio UNESCO.',
     percheAndarci: 'Per le calette delle Pakleni, il tramonto dalla fortezza e, per chi la cerca, la vita notturna.',
@@ -149,7 +148,7 @@ export const destinazioniCroazia: Destinazione[] = [
     nome: 'Curzola',
     tipologia: ['isola', 'città storica', 'vino'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Una città vecchia fortificata su una penisola, con le vie a lisca di pesce, la cattedrale di San Marco e la casa dedicata a Marco Polo; sull\'isola si produce il vino bianco grk.',
     percheAndarci: 'Per una città storica più tranquilla di Hvar e Dubrovnik e per la danza della moreška.',
@@ -171,7 +170,7 @@ export const destinazioniCroazia: Destinazione[] = [
     nome: 'Dubrovnik e Ston',
     tipologia: ['città fortificata', 'mare', 'isole'],
     giorniConsigliati: '3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'L\'antica repubblica di Ragusa, chiusa da due chilometri di mura sopra il mare, con lo Stradun, i palazzi e i monasteri. Davanti c\'è l\'isola di Lokrum; a nord, Ston con le sue mura lunghe oltre cinque chilometri e le ostriche di Mali Ston.',
     percheAndarci: 'Per il giro delle mura, la città vecchia, Lokrum e le gite verso Ston, le Elafiti e le Bocche di Cattaro.',

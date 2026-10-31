@@ -1,10 +1,10 @@
 import type { Esperienza } from '@/lib/types'
 
-// Prima uscita polacca dell'archivio: nessuna di queste esperienze è stata
-// provata di persona, quindi giudizio resta 'da-verificare' su tutte e
-// miaEsperienza è assente di proposito (vedi il commento in
-// src/content/destinazioni/polonia.ts). Prezzi, orari e regole di
-// prenotazione — soprattutto quelli di Auschwitz-Birkenau — cambiano spesso e
+// Prima uscita polacca dell'archivio: è un viaggio fatto da Rick. giudizio
+// resta 'da-verificare' finché non arriva la sua valutazione e il campo
+// miaEsperienza resta assente finché non arriva un ricordo dell'autore (vedi
+// il commento in src/content/destinazioni/polonia.ts). Prezzi, orari e regole
+// di prenotazione, soprattutto quelli di Auschwitz-Birkenau, cambiano spesso e
 // vanno riverificati sui canali ufficiali prima di prenotare.
 
 export const esperienzePolonia: Esperienza[] = [

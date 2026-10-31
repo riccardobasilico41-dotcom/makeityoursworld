@@ -1,10 +1,11 @@
 import type { Esperienza } from '@/lib/types'
 
-// Prima uscita lituana dell'archivio: nessuna di queste esperienze è stata
-// provata di persona, quindi giudizio resta 'da-verificare' su tutte e
-// miaEsperienza è assente di proposito (vedi il commento in
-// src/content/destinazioni/lituania.ts). Prezzi e orari cambiano nel tempo e
-// vanno riverificati sui canali ufficiali prima di partire.
+// Prima uscita lituana dell'archivio: è un viaggio fatto da Rick. giudizio
+// resta 'da-verificare' finché non arriva la sua valutazione e il campo
+// miaEsperienza resta assente finché non arriva un ricordo dell'autore (vedi
+// il commento in src/content/destinazioni/lituania.ts). Prezzi e orari
+// cambiano nel tempo e vanno riverificati sui canali ufficiali prima di
+// partire.
 
 export const esperienzeLituania: Esperienza[] = [
   {

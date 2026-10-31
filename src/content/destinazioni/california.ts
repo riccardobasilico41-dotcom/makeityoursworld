@@ -2,7 +2,7 @@ import type { Destinazione } from '@/lib/types'
 
 // Destinazioni della California per la guida "california-road-trip" (75), costruite
 // su ricerca documentale (National Park Service, Caltrans, uffici turistici).
-// Nessuna visita diretta: miaEsperienza resta assente. Prezzi indicativi a ottobre 2026.
+// Tutte visitate dall'autore; miaEsperienza resta assente. Prezzi indicativi a ottobre 2026.
 
 export const destinazioniCalifornia: Destinazione[] = [
   {
@@ -12,7 +12,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     nome: 'San Francisco',
     tipologia: ['città', 'cultura', 'cibo'],
     giorniConsigliati: '2-3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione: 'La città delle colline, delle case vittoriane e del Golden Gate, sulla baia più famosa della West Coast.',
     percheAndarci: 'Per il Golden Gate, Alcatraz, i quartieri di Mission, Castro e Chinatown e le funicolari. Le sequoie di Muir Woods sono vicine.',
     cosaVedere: [
@@ -53,7 +53,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     nome: 'Yosemite',
     tipologia: ['parco nazionale', 'trekking', 'montagna'],
     giorniConsigliati: '2-3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Una valle glaciale chiusa da pareti di granito come El Capitan e l\'Half Dome. In primavera le sue cascate sono tra le più alte del Nord America.',
     percheAndarci: 'Per la Yosemite Valley, Glacier Point, le sequoie di Mariposa Grove e i sentieri verso le cascate Vernal e Nevada.',
@@ -90,7 +90,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     nome: 'Sequoia e Kings Canyon',
     tipologia: ['parco nazionale', 'foresta', 'trekking'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Due parchi confinanti sul versante occidentale della Sierra Nevada, con le sequoie giganti più grandi del mondo e il canyon glaciale del Kings River.',
     percheAndarci: 'Per il General Sherman, l\'albero più voluminoso della Terra, la Giant Forest, Moro Rock e la strada nel Kings Canyon.',
@@ -124,7 +124,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     nome: 'Death Valley',
     tipologia: ['parco nazionale', 'deserto'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Il parco più grande degli Stati Uniti continentali. Qui c\'è il punto più basso del Nord America e qui si sono registrati i record di temperatura del pianeta.',
     percheAndarci: 'Per Zabriskie Point all\'alba, le saline di Badwater, le dune di Mesquite e i colori dell\'Artist\'s Palette.',
@@ -159,7 +159,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     nome: 'Joshua Tree e Palm Springs',
     tipologia: ['parco nazionale', 'deserto', 'arrampicata'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Qui il deserto del Mojave incontra quello del Colorado: Joshua tree, ammassi di rocce granitiche e un cielo notturno tra i più scuri della California del sud. A mezz\'ora c\'è Palm Springs.',
     percheAndarci: 'Per le rocce di Hidden Valley, il Cholla Cactus Garden, Keys View e le stelle. E per l\'architettura modernista di Palm Springs.',
@@ -189,7 +189,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     nome: 'Los Angeles',
     tipologia: ['città', 'spiagge', 'musei'],
     giorniConsigliati: '2-3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione: 'Una metropoli estesa come una regione, tra colline di Hollywood, musei d\'arte e spiagge dell\'oceano da Malibu a Venice.',
     percheAndarci: 'Per il Griffith Observatory, il Getty Center, Santa Monica e Venice, gli studi cinematografici e una scena gastronomica molto varia.',
     cosaVedere: [
@@ -220,7 +220,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     nome: 'Highway 1: Santa Barbara, Big Sur e Monterey',
     tipologia: ['costa', 'road trip', 'natura'],
     giorniConsigliati: '3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La Pacific Coast Highway tra Santa Barbara e Monterey: missioni spagnole, elefanti marini, scogliere a picco sull\'oceano e foreste di sequoie costiere.',
     percheAndarci: 'Per la strada lungo Big Sur, il ponte di Bixby Creek, la cascata di McWay, la colonia di elefanti marini di Piedras Blancas e l\'acquario di Monterey.',

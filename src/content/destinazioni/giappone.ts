@@ -1,9 +1,9 @@
 import type { Destinazione } from '@/lib/types'
 
 // Contenuto ricostruito dal viaggio "Giappone in 12 giorni" (src/content/viaggi/05-giappone-360.md).
-// Il Monte Fuji/Chureito (Giorno 3) è una giornata aggiunta editorialmente,
-// non vissuta realmente: per questo resta con visitataPersonalmente: false
-// e senza miaEsperienza, come dichiarato esplicitamente dal markdown sorgente.
+// Il Monte Fuji/Chureito (Giorno 3) mancava nel primo programma scritto ed è
+// stato rimesso al suo posto nel markdown, raccontato in prima persona: è
+// visitato (visitataPersonalmente: true), ancora senza miaEsperienza.
 
 export const destinazioniGiappone: Destinazione[] = [
   {
@@ -92,7 +92,7 @@ export const destinazioniGiappone: Destinazione[] = [
     nome: 'Monte Fuji e Pagoda Chureito',
     tipologia: ['natura', 'sakura'],
     giorniConsigliati: '1 giorno',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione: 'Il punto panoramico più famoso del Giappone: la pagoda rossa a cinque piani in primo piano, il Monte Fuji sullo sfondo.',
     percheAndarci: 'Per l\'immagine simbolo del Giappone e per recuperare i sakura mancati a Tokyo: la fioritura a Chureito arriva circa una settimana dopo quella della capitale.',
     cosaVedere: ['La Pagoda Chureito nel Parco Arakurayama Sengen, con il Monte Fuji sullo sfondo', 'Il Lago Kawaguchiko'],
@@ -102,7 +102,7 @@ export const destinazioniGiappone: Destinazione[] = [
       'Salita in funivia al monte Tenjo',
       'Onsen con vista Fuji, ad esempio all\'Hotel Mifujien',
     ],
-    doveDormire: 'Nessun pernottamento: è una gita di un giorno da Tokyo (con base all\'Agora Place Asakusa).',
+    doveDormire: 'Nessun pernottamento: l\'abbiamo fatta in giornata da Tokyo, e la sera abbiamo dormito ancora all\'Agora Place Asakusa.',
     doveMangiare:
       'La specialità della zona dei Cinque Laghi è l\'hoto: tagliatelle larghe di grano saraceno in una zuppa densa di miso e verdure, servita nel pentolone di ghisa: è proprio quello che ci vuole dopo la salita alla pagoda. Si trova nei ristoranti attorno alla stazione di Kawaguchiko e lungo la riva del lago. Per il resto l\'offerta è quella tipica di una zona turistica giapponese: konbini per il pranzo veloce e ristoranti con vista sul Fuji che costano più del dovuto.',
     comeArrivare: 'Treno Fuji Excursion da Shinjuku a Kawaguchiko (circa 2h, ~4.130 yen; con JR Pass si copre la tratta fino a Otsuki e si paga solo il supplemento Fujikyu, circa 1.770 yen).',

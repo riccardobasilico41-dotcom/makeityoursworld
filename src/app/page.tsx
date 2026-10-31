@@ -1,10 +1,11 @@
 import type { Metadata } from 'next'
 import { Container } from '@/components/ui/Container'
 import { MeravigliaCard } from '@/components/MeravigliaCard'
-import { Reveal, RevealGroup, RevealItem } from '@/components/Reveal'
+import { Scorrimento } from '@/components/MeraviglieScorrimento'
+import { Reveal } from '@/components/Reveal'
 import { CinematicHero } from '@/components/signature/CinematicHero'
 import { VoltoDelProgetto } from '@/components/signature/VoltoDelProgetto'
-import { GloboDestinazioniSezione } from '@/components/GloboDestinazioniSezione'
+import { MappaMondoSezione } from '@/components/MappaMondoSezione'
 import { GeographyIndex } from '@/components/signature/GeographyIndex'
 import { FeaturedJourney } from '@/components/signature/FeaturedJourney'
 import { VisualArchive } from '@/components/signature/VisualArchive'
@@ -95,7 +96,7 @@ export default function HomePage() {
 
       <VoltoDelProgetto />
 
-      <GloboDestinazioniSezione />
+      <MappaMondoSezione />
 
       <GeographyIndex
         gruppi={gruppiPaesi}
@@ -175,13 +176,15 @@ export default function HomePage() {
               <ArrowRight size={15} className="transition-transform group-hover:translate-x-1" />
             </Link>
           </div>
-          <RevealGroup className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-3" stagger={0.05}>
-            {meraviglie.slice(0, 3).map((m) => (
-              <RevealItem key={m.slug}>
-                <MeravigliaCard meraviglia={m} />
-              </RevealItem>
-            ))}
-          </RevealGroup>
+          <div className="mt-10">
+            <Scorrimento etichetta="Le meraviglie, una per scheda">
+              {meraviglie.map((m) => (
+                <li key={m.slug} className="flex w-[82%] shrink-0 snap-start sm:w-[46%] lg:w-[31.5%]">
+                  <MeravigliaCard meraviglia={m} />
+                </li>
+              ))}
+            </Scorrimento>
+          </div>
         </Container>
       </section>
 

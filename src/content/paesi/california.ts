@@ -3,7 +3,7 @@ import type { Paese } from '@/lib/types'
 // Scheda "Paese" per la California, con la stessa convenzione di florida.ts e
 // new-york.ts (uno Stato USA trattato come Paese). Costruita su ricerca documentale:
 // Viaggiare Sicuri, sito ESTA del Dipartimento della Sicurezza Interna, National
-// Park Service, Caltrans, guide recenti. Nessuna esperienza diretta.
+// Park Service, Caltrans, guide recenti. Il road trip collegato l'ha fatto l'autore.
 
 export const california: Paese = {
   slug: 'california',

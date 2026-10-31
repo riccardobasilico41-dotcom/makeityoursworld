@@ -1,10 +1,9 @@
 import type { Destinazione } from '@/lib/types'
 
-// Paese visitato di persona. I campi miaEsperienza sono bozze scritte da
-// Claude nella voce del diario, basate su ciò che è oggettivamente vero di
-// ogni posto (quota, fatica, affollamento, stagione) e non su ricordi reali:
-// vanno riletti e sostituiti con i tuoi. Nessun nome di hotel o ristorante è
-// stato inventato. Prezzi, quote di ingresso e regole di prenotazione in Perù
+// Paese visitato di persona (articolo peru-itinerario, tre viaggi riuniti).
+// I campi miaEsperienza sono in prima persona e tengono solo i fatti
+// raccontati nell'articolo. Choquequirao resta non vissuta: l'articolo dice che
+// il trek è rimasto fuori dal viaggio. Nessun nome di hotel o ristorante. Prezzi, quote di ingresso e regole di prenotazione in Perù
 // cambiano spesso: vanno riverificati sui canali ufficiali prima di partire
 // (biglietti Machu Picchu solo su tuboleto.cultura.pe).
 
@@ -48,7 +47,7 @@ export const destinazioniPeru: Destinazione[] = [
       'Salire a Rainbow Mountain nei primi giorni, quando l\'organismo non ha ancora reagito alla quota',
     ],
     miaEsperienza:
-      'Il primo giorno qui è un giorno perso, e va messo in conto: sono arrivato convinto di essere in forma ed è bastata una rampa di scale per scoprire che a 3.400 metri il fiato non è questione di allenamento. Camminare piano tra San Blas e la Plaza de Armas, con il tè di coca in mano come fanno tutti, è quello che serve, e il resto del viaggio ne guadagna. La sorpresa è stata la città in sé: sembra solo il campo base per Machu Picchu, invece la muratura inca sotto le chiese coloniali racconta la conquista meglio di qualsiasi museo.',
+      'Il primo giorno qui è un giorno perso, e va messo in conto: siamo atterrati a 3.400 metri e abbiamo solo camminato piano fra la Plaza de Armas e San Blas, col tè di coca in mano come fanno tutti. È quello che serve, e il resto del viaggio ne guadagna. Il secondo giorno Qorikancha e Sacsayhuamán, il modo migliore per capire prima cosa si vedrà a Machu Picchu, e il pranzo al mercato di San Pedro fra succhi al banco e zuppe a pochi soles. Per i souvenir, a Cusco io vado da Assunta. Da qui ho fatto sia Rainbow Mountain sia la laguna Humantay, più un\'altra montagna colorata e un paio di lagune di cui non ricordo il nome.',
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario'],
     imageAlt: 'Una venditrice con il cappello solleva un vassoio di pannocchie davanti alla cattedrale di Cusco, in Plaza de Armas',
@@ -92,7 +91,7 @@ export const destinazioniPeru: Destinazione[] = [
       'Dormire a Cusco la sera prima del treno delle 5 o 6 del mattino da Ollantaytambo',
     ],
     miaEsperienza:
-      'È la tappa da allungare se si ha un giorno in più, ed è quella che quasi tutti sacrificano per correre a Machu Picchu. Sta cinquecento metri più in basso di Cusco e si dorme molto meglio: sembra un dettaglio da poco finché non si passa una notte a respirare male in città. A me Maras ha colpito più di Moray. Le vasche di sale scavate nella montagna sono ancora in uso dalle stesse famiglie da generazioni, e vederle in funzione è un\'altra cosa rispetto a guardare un sito archeologico. Ollantaytambo dà il meglio la sera, quando i pullman dei tour sono ripartiti e il paese torna ai suoi abitanti.',
+      'Sta cinquecento metri più in basso di Cusco, e da qui in poi si dorme meglio. Il primo giorno Pisac, col mercato e il sito sulla collina, poi Ollantaytambo, dove abbiamo dormito per essere pronti al treno del mattino per Machu Picchu. Il paese dà il meglio la sera, quando i pullman dei tour sono ripartiti e torna ai suoi abitanti. Il giorno dopo il resto della valle: le saline di Maras, vasche scavate nella montagna e usate da generazioni dalle stesse famiglie, i terrazzamenti circolari di Moray e Chinchero, per la tessitura. È la tappa da allungare se si ha un giorno in più, ed è quella che quasi tutti sacrificano per correre a Machu Picchu.',
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario'],
     imageAlt: 'Migliaia di vasche di sale di Maras che scendono a gradoni lungo il fianco della Valle Sacra',
@@ -255,7 +254,7 @@ export const destinazioniPeru: Destinazione[] = [
       'Arrivare a Cusco e salire a Machu Picchu il giorno dopo, senza acclimatamento',
     ],
     miaEsperienza:
-      'Ne avevo viste talmente tante foto da temere la delusione, e invece regge. Regge soprattutto nella prima ora, quando la nebbia si alza a strappi e il sito compare a pezzi. Dopo, con i gruppi in fila lungo il circuito assegnato, diventa un\'altra cosa: bellissima, ma gestita. Il consiglio che vale più di tutti è dormire ad Aguas Calientes ed entrare al primo turno, più che per la luce per quei quaranta minuti in cui il posto è ancora silenzioso. E conviene sapere prima che non si gira liberamente: il circuito scelto al momento della prenotazione decide cosa si vedrà e cosa no.',
+      'Il momento che mi porto dietro dal Perù è Machu Picchu all\'alba. Entrare tra i primi, quando la cittadella è ancora quasi vuota, ripaga la sveglia nel buio e la strada per arrivarci: il consiglio che vale più di tutti è dormire ad Aguas Calientes ed entrare al primo turno, più che per la luce per quei quaranta minuti in cui il posto è ancora silenzioso. Ci sono arrivato in più modi: con un trekking di cinque giorni, col pulmino fino a Hidroeléctrica e poi a piedi, e in treno, nella classe economica. Ho fatto anche il Huayna Picchu: è bellissimo, ma va prenotato per tempo e chi soffre di vertigini deve pensarci bene. Conviene sapere prima che non si gira liberamente: il circuito scelto al momento della prenotazione decide cosa si vedrà e cosa no.',
     esperienzeSlugs: ['huayna-picchu', 'cammino-inca'],
     tripSlugs: ['peru-itinerario'],
     imageAlt: 'Un lama solitario pascola sui terrazzamenti inca di Machu Picchu avvolti nella nebbia del mattino',
@@ -268,7 +267,7 @@ export const destinazioniPeru: Destinazione[] = [
     nome: 'Choquequirao',
     tipologia: ['trekking', 'cultura', 'avventura'],
     giorniConsigliati: '4-5 giorni per l\'andata e ritorno classico',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione:
       'La "sorella di Machu Picchu": una cittadella inca di dimensioni paragonabili, scavata solo per circa un terzo, appollaiata sopra il canyon dell\'Apurímac. Ci arrivano meno di diecimila persone all\'anno, contro il milione e mezzo di Machu Picchu, e il motivo è semplice: non c\'è altro modo che camminare per due giorni.',
     percheAndarci:
@@ -342,7 +341,7 @@ export const destinazioniPeru: Destinazione[] = [
       'Programmare una sola notte al sito: si arriva stanchi e si riparte subito, perdendo il senso del posto',
     ],
     miaEsperienza:
-      'La cosa più dura del Perù, e quella che vale di più. La discesa nel canyon dell\'Apurímac inganna: si scende per ore con le gambe fresche pensando che stia andando bene, e solo dopo ci si ricorda che tutto quel dislivello va risalito dall\'altra parte, col sole addosso e senza un filo d\'ombra. Però arrivare lassù e trovarsi davanti terrazzamenti di quella scala senza nessun altro intorno è qualcosa che a Machu Picchu non esiste più. Chi ci sta pensando lo faccia adesso: se la teleferica verrà costruita, questo posto cambierà.',
+      '',
     esperienzeSlugs: ['trek-choquequirao'],
     tripSlugs: [],
     imageAlt: 'I terrazzamenti inca di Choquequirao sopra il canyon dell\'Apurímac, Perù',
@@ -376,12 +375,12 @@ export const destinazioniPeru: Destinazione[] = [
       {
         titolo: 'Le tre porte dell\'Amazzonia peruviana a confronto',
         introduzione:
-          'Puerto Maldonado, Iquitos e il Manu sono tre cose diverse: cambiano il tempo necessario, il costo, la difficoltà d\'accesso e persino gli animali che si vedono. Sceglierne una senza sapere cosa offrono le altre è il modo più comune di restare delusi da un lodge amazzonico.',
+          'Puerto Maldonado, Iquitos e il Manu sono tre cose diverse: cambiano il tempo necessario, il costo, la difficoltà d\'accesso e persino gli animali che si vedono. Sceglierne una senza sapere cosa offrono le altre è il modo più comune di restare delusi da un lodge amazzonico. Noi siamo entrati da Puerto Maldonado, verso la riserva di Tambopata; Iquitos e il Manu restano qui come alternative per chi ha più giorni.',
         opzioni: [
           {
             nome: 'Puerto Maldonado (Tambopata)',
             sintesi:
-              'La porta più semplice: voli diretti da Cusco e da Lima, e lodge raggiungibili con brevi trasferimenti in barca lungo i fiumi Madre de Dios e Tambopata.',
+              'La porta da cui siamo entrati noi, e la più semplice: voli diretti da Cusco e da Lima, e lodge raggiungibili con brevi trasferimenti in barca lungo i fiumi Madre de Dios e Tambopata.',
             costo: 'indicativamente 300-600$ per 3 notti in lodge, tutto incluso; volo da Cusco poco più di un\'ora',
             durata: '3-4 giorni, il formato ideale',
             pro: [
@@ -433,7 +432,7 @@ export const destinazioniPeru: Destinazione[] = [
           },
         ],
         raccomandazione:
-          'In un viaggio classico di due settimane in Perù, Puerto Maldonado è la scelta sensata: costa poco in termini di tempo e dà comunque un\'Amazzonia vera, purché si scelga un lodge abbastanza lontano dalla città. Iquitos ha senso solo se si dedica una settimana al fiume. Il Manu è per chi torna in Perù una seconda volta, o per chi viene apposta per la fauna.',
+          'In un viaggio classico di due settimane in Perù, Puerto Maldonado è la scelta sensata, ed è quella che abbiamo fatto noi: costa poco in termini di tempo e dà comunque un\'Amazzonia vera, purché si scelga un lodge abbastanza lontano dalla città. Iquitos ha senso solo se si dedica una settimana al fiume. Il Manu è per chi torna in Perù una seconda volta, o per chi viene apposta per la fauna.',
       },
     ],
     doveDormire:
@@ -452,7 +451,7 @@ export const destinazioniPeru: Destinazione[] = [
       'Sottovalutare il repellente, la torcia frontale e i sacchetti impermeabili per l\'elettronica',
     ],
     miaEsperienza:
-      'Non è il documentario che ci si aspetta: nella foresta densa si sente molto più di quanto si veda, e le prime ore possono deludere chi arriva con l\'idea di trovare animali a ogni albero. Il momento che ha ribaltato tutto è stato l\'alba alla collpa, quando centinaia di ara sono arrivate insieme sulla parete d\'argilla e per venti minuti non siamo riusciti a guardare altro. L\'altra cosa che conta più di quanto sembri è la distanza dalla città: dai lodge vicini, comodi, non si vede quasi niente, mentre qualche ora di barca in più cambia tutto. Al caldo umido, invece, non mi sono abituato.',
+      'Siamo entrati in Amazzonia da Puerto Maldonado, col volo da Lima e poi la barca lungo il fiume fino a un lodge nella riserva di Tambopata. Non è il documentario che ci si aspetta: nella foresta fitta si sente molto più di quanto si veda. Abbiamo fatto la canopy walkway fra le chiome degli alberi e la navigazione fino al lago Sandoval, quello delle lontre giganti. Il momento che ha ribaltato tutto è stato l\'alba alla collpa, quando centinaia di pappagalli e ara sono arrivati insieme sulla parete d\'argilla e per venti minuti non siamo riusciti a guardare altro. L\'altra cosa che conta più di quanto sembri è la distanza dalla città: dai lodge vicini, comodi, si vede pochissimo, mentre qualche ora di barca in più cambia l\'esperienza. Al caldo umido non mi sono mai abituato del tutto, ma se si riesce, all\'Amazzonia va dedicato tempo: è incredibile.',
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario'],
     imageAlt: 'La foresta pluviale che scende fino alle acque del fiume Madre de Dios, nell\'Amazzonia peruviana',
@@ -526,7 +525,7 @@ export const destinazioniPeru: Destinazione[] = [
     ],
     doveDormire: 'Puno per la logistica; Amantaní per l\'homestay, che è la ragione principale per venire fin qui.',
     doveMangiare:
-      'Lima è il motivo gastronomico del viaggio: ceviche a pranzo in una cevichería di quartiere (la sera è considerato fuori orario e il pesce non è più quello del mattino), poi tiradito, causa, lomo saltado e anticuchos dai carretti la sera. L\'alta cucina per cui la città è famosa va prenotata con settimane di anticipo.',
+      'Sul lago il pasto che conta è la cena ad Amantaní, preparata dalla famiglia che ospita e mangiata insieme a loro: semplice e genuina. Nel giro in barca da Puno il pranzo si fa a Taquile, con la vista sulla parte boliviana del lago.',
     comeArrivare:
       'Da Cusco, bus turistico di circa 7-8 ore con soste ai siti lungo la strada (la formula migliore), treno panoramico Andean Explorer, oppure volo su Juliaca. Da Arequipa circa 6 ore di bus.',
     comeSpostarsi: 'Barche collettive e tour organizzati dal porto di Puno; a Taquile e Amantaní ci si muove solo a piedi, in salita.',
@@ -538,7 +537,7 @@ export const destinazioniPeru: Destinazione[] = [
       'Sottovalutare il freddo notturno nelle case di Amantaní, dove non c\'è riscaldamento',
     ],
     miaEsperienza:
-      'Gli Uros, va detto, sono una messa in scena: si arriva, si ascolta la spiegazione su come si costruisce l\'isola di totora, si compra qualcosa e si riparte. Mezz\'ora interessante, non di più. Il Titicaca è diventato un\'altra cosa ad Amantaní, dove abbiamo dormito in casa di una famiglia senza riscaldamento né acqua calda, abbiamo cenato con loro e siamo saliti al tempio per il tramonto. Non è comodo (a 3.800 metri la notte si gela), ma è l\'unico momento in cui si esce dal circuito. Dovendo scegliere una sola cosa sul lago, sceglierei quella.',
+      'Gli Uros, va detto, sono una messa in scena turistica: mezz\'ora interessante di spiegazione su come si costruisce l\'isola di totora, e poco più. Poi Taquile, col pranzo e la vista sulla parte boliviana del lago. Il Titicaca è diventato un\'altra cosa ad Amantaní, dove abbiamo dormito in casa di una famiglia, abbiamo cenato con loro e siamo saliti al tempio di Pachatata per il tramonto. Non è comodo: bagno condiviso, acqua calda non garantita e, a 3.800 metri senza riscaldamento, la notte si gela. Ma è l\'unico punto del giro in cui si esce dal circuito turistico, ed è il momento del lago che mi è rimasto più impresso.',
     esperienzeSlugs: ['homestay-amantani'],
     tripSlugs: ['peru-itinerario'],
     imageAlt: 'Una donna uros sorridente con il cappello di paglia mostra un arazzo ricamato sul lago Titicaca',
@@ -570,7 +569,7 @@ export const destinazioniPeru: Destinazione[] = [
     ],
     doveDormire: 'Miraflores per comodità e sicurezza, Barranco per l\'atmosfera; entrambi lontani dal centro storico ma ben collegati.',
     doveMangiare:
-      'La cucina arequipeña è diversa da quella del resto del Perù e vale la pena assaggiarla nelle picanterías tradizionali: rocoto relleno, adobo la domenica mattina e chupe de camarones. Nel canyon l\'offerta si riduce ai menù fissi dei piccoli ristoranti dei villaggi.',
+      'Lima è il motivo gastronomico del viaggio: ceviche a pranzo in una cevichería di quartiere (la sera è considerato fuori orario e il pesce non è più quello del mattino), poi tiradito, causa, lomo saltado e anticuchos dai carretti la sera. L\'alta cucina per cui la città è famosa va prenotata con settimane di anticipo.',
     comeArrivare: 'Aeroporto Jorge Chávez, l\'unico scalo intercontinentale del paese. Dall\'aeroporto al centro, taxi autorizzati o app: mai i tassisti abusivi all\'uscita.',
     comeSpostarsi: 'Taxi tramite app, Metropolitano per gli assi principali; il traffico è pesante, i tempi vanno sempre maggiorati.',
     periodoMigliore: 'dicembre-aprile per il sole; da giugno a novembre la garúa, una foschia umida costante, copre la città',
@@ -580,7 +579,7 @@ export const destinazioniPeru: Destinazione[] = [
       'Saltarla del tutto: molti ci passano solo in transito, ma in due giorni qui si vede un Perù che sulle Ande non c\'è',
     ],
     miaEsperienza:
-      'La descrivono come una città da attraversare in fretta, e invece è quella che mi ha lasciato la voglia di tornare. Per il cibo, più che per i monumenti: il centro coloniale si vede in mezza giornata. Un ceviche mangiato a pranzo in una cevichería di quartiere, col pesce arrivato la mattina, rovina tutti i ceviche successivi. La garúa, la foschia grigia che copre la città per mesi, rende tutto un po\' malinconico, e il traffico è pesante. Barranco al tramonto però, con l\'oceano sotto la scogliera, vale la sosta.',
+      'Molti la attraversano solo in transito e si perdono il motivo migliore per restarci, il cibo. La cucina peruviana è una delle cose che ricordo di più di questi viaggi, e Lima è il posto dove l\'ho trovata migliore. Il primo ceviche l\'abbiamo mangiato a pranzo, come si usa qui, in una cevichería di quartiere col pesce arrivato la mattina. Poi il centro storico fra la Plaza Mayor e San Francisco, il Malecón di Miraflores fino a Huaca Pucllana e l\'aperitivo al tramonto a Barranco, sul Puente de los Suspiros. La città però è pericolosa: va girata con attenzione, soprattutto fuori da Miraflores e Barranco.',
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario'],
     imageAlt: 'Vista dall\'alto del quartiere di Miraflores a Lima, con palazzi e un parco alberato, Perù',
@@ -613,7 +612,7 @@ export const destinazioniPeru: Destinazione[] = [
     ],
     doveDormire: 'Centro storico di Arequipa; Chivay o Cabanaconde come basi per il canyon.',
     doveMangiare:
-      'A Huaraz si mangia semplice e abbondante, come in una base di montagna: zuppe calde, trucha e menú del día a prezzi molto bassi. Per i trek conviene fare scorta al mercato centrale, molto più economico dei negozi per turisti.',
+      'La cucina arequipeña è diversa da quella del resto del Perù e vale la pena assaggiarla nelle picanterías tradizionali: rocoto relleno, adobo la domenica mattina e chupe de camarones. Nel canyon l\'offerta si riduce ai menù fissi dei piccoli ristoranti dei villaggi.',
     comeArrivare: 'Volo da Lima (circa 1h30) o bus notturno; da Puno circa 6 ore di bus.',
     comeSpostarsi: 'Arequipa si gira a piedi; per il Colca tour organizzati di due giorni o bus di linea fino a Chivay e Cabanaconde.',
     periodoMigliore: 'maggio-settembre; i condor si avvistano tutto l\'anno ma con più probabilità nelle prime ore del mattino',

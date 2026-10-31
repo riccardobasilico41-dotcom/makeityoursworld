@@ -17,12 +17,10 @@ import type { Paese } from '@/lib/types'
 // per giorno di viaggio, quindi il viaggio-bandiera più naturale da mettere in
 // vetrina nella pagina Paese — non perché sia "la Spagna vera" più delle altre tre.
 //
-// Nessuno ha ancora messo piede in nessuna delle quattro regioni per conto di
-// questo sito: ogni destinazione ed esperienza spagnola resta
-// visitataPersonalmente: false, senza il campo miaEsperienza (facoltativo nel
-// tipo Destinazione/Esperienza — se assente la UI mostra un placeholder
-// editoriale invece di un ricordo inventato, come già in polonia.ts). Fatti
-// verificabili tramite ricerca, non un diario.
+// Rick ha fatto tutti e quattro i viaggi raccontati negli articoli
+// (andalusia-itinerario, spagna-nord-itinerario, baleari-itinerario,
+// canarie-itinerario): ogni destinazione spagnola è visitataPersonalmente:
+// true. Il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore.
 
 export const spagna: Paese = {
   slug: 'spagna',

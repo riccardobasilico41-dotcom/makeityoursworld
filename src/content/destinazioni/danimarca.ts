@@ -2,14 +2,11 @@ import type { Destinazione } from '@/lib/types'
 
 // Prima uscita danese dell'archivio, collegata all'itinerario "Capitali
 // nordiche" (src/content/viaggi/60-capitali-nordiche.md, dati in
-// src/content/viaggi-dati/capitali-nordiche.ts). Nessuno ha ancora messo
-// piede a Copenaghen per conto di questo sito: visitataPersonalmente resta
-// false e il campo miaEsperienza, facoltativo nel tipo, è assente di
-// proposito — stesso trattamento usato per la Polonia
-// (src/content/destinazioni/polonia.ts) e per il Centro America. Nessun nome
-// di hotel o ristorante specifico è stato inventato: solo zone e categorie di
-// prezzo verificabili con ricerca. Prezzi e orari (Tivoli è aperto solo a
-// stagioni alterne, non tutto l'anno) vanno riverificati prima di partire.
+// src/content/viaggi-dati/capitali-nordiche.ts), viaggio fatto da Rick: visitataPersonalmente
+// è true. Il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore. Nessun nome di hotel o ristorante specifico è stato
+// inventato: solo zone e categorie di prezzo verificabili. Prezzi e orari
+// (Tivoli è aperto solo a stagioni alterne, non tutto l'anno) vanno
+// riverificati prima di partire.
 
 export const destinazioniDanimarca: Destinazione[] = [
   {
@@ -19,7 +16,7 @@ export const destinazioniDanimarca: Destinazione[] = [
     nome: 'Copenaghen',
     tipologia: ['città', 'design', 'gastronomia'],
     giorniConsigliati: '3 giorni, la prima tappa dell\'itinerario "Capitali nordiche"',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La capitale danese, spesso citata come la città più a misura di bicicletta del mondo: oltre metà degli abitanti si sposta ogni giorno in bici su oltre 450 km di piste. In un centro raccolto ci sono i canali colorati di Nyhavn, i giardini storici di Tivoli, il lungomare della Sirenetta e Christiania, la comunità autogestita che dal 1971 vive con regole proprie nel cuore della città.',
     percheAndarci:

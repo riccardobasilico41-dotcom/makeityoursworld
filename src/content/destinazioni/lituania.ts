@@ -2,17 +2,12 @@ import type { Destinazione } from '@/lib/types'
 
 // Prima uscita lituana dell'archivio, collegata al viaggio "Capitali
 // baltiche in 9 giorni" (src/content/viaggi/61-capitali-baltiche.md, dati in
-// src/content/viaggi-dati/capitali-baltiche.ts). Nessuna delle due
-// destinazioni qui sotto è stata visitata di persona: visitataPersonalmente
-// resta false su entrambe e il campo miaEsperienza, facoltativo nel tipo, è
-// assente di proposito — niente ricordo inventato, solo fatti verificati con
-// ricerca (stesso trattamento usato in src/content/destinazioni/polonia.ts e
-// in src/content/meraviglie.ts per i monumenti non visitati). Trakai è
-// trattata come destinazione a sé, non ripiegata dentro il cosaFare di
-// Vilnius, sullo stesso modello con cui Auschwitz-Birkenau è una destinazione
-// a sé rispetto a Cracovia: è un luogo fisicamente separato, con una propria
-// storia e un proprio cosaVedere denso, non solo una tappa nel cosaFare della
-// capitale.
+// src/content/viaggi-dati/capitali-baltiche.ts), viaggio fatto da Rick: visitataPersonalmente
+// è true su entrambe le destinazioni e il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore. Trakai è trattata come
+// destinazione a sé, non ripiegata dentro il cosaFare di Vilnius, sullo
+// stesso modello con cui Auschwitz-Birkenau è una destinazione a sé rispetto
+// a Cracovia: è un luogo fisicamente separato, con una propria storia e un
+// proprio cosaVedere denso, non solo una tappa nel cosaFare della capitale.
 
 export const destinazioniLituania: Destinazione[] = [
   {
@@ -22,7 +17,7 @@ export const destinazioniLituania: Destinazione[] = [
     nome: 'Vilnius',
     tipologia: ['città', 'storia', 'arte'],
     giorniConsigliati: '3 giorni, compresa la gita a Trakai',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'È la capitale della Lituania e la più popolosa delle tre capitali baltiche. Il centro storico, patrimonio UNESCO dal 1994, è uno dei centri barocchi più estesi dell\'Europa centro-orientale: oltre 1.500 edifici storici fra chiese barocche, cortili rinascimentali e vicoli medievali. Sull\'altra sponda del fiume Vilnia, dentro lo stesso centro storico, il quartiere di Užupis si è proclamato repubblica indipendente nel 1997, con costituzione, bandiera e presidente onorari.',
     percheAndarci:
@@ -97,7 +92,7 @@ export const destinazioniLituania: Destinazione[] = [
     nome: 'Trakai',
     tipologia: ['castello', 'natura', 'storia'],
     giorniConsigliati: 'mezza giornata, come gita da Vilnius',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Prima di Vilnius era la capitale del Granducato di Lituania, e sta circa 28 km a ovest della capitale attuale. Il castello gotico in mattoni rossi sorge su un\'isola del lago Galvė, collegato alla terraferma da un ponte pedonale in legno, in mezzo a laghi tra i più belli del paese: nei dintorni di Trakai sono oltre duecento. Qui vive da secoli la comunità caraima (Karaim), che il Granduca Vytautas portò nel Trecento come guardia personale e che ha ancora una lingua, una religione e una cucina proprie.',
     percheAndarci:

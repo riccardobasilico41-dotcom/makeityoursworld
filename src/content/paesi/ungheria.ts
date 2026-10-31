@@ -5,14 +5,9 @@ import type { Paese } from '@/lib/types'
 // Roma, Firenze, Venezia, Parigi e Cracovia. Non è una guida al paese intero:
 // fuori Budapest l'Ungheria non è coperta.
 //
-// Nessuno ha ancora messo piede in Ungheria per conto di questo sito: la
-// destinazione di Budapest resta visitataPersonalmente: false e senza il
-// campo miaEsperienza, che nel tipo Destinazione è facoltativo apposta — se
-// assente, la UI mostra un placeholder editoriale invece di un ricordo
-// inventato (vedi il commento sul tipo in src/lib/types.ts, e lo stesso
-// trattamento usato in src/content/paesi/polonia.ts). Questa è quindi scheda
-// di ricerca, non un diario: fatti verificabili, senza episodi in prima
-// persona.
+// È un viaggio fatto da Rick (articolo budapest-weekend): la destinazione di Budapest è
+// visitataPersonalmente: true. Il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore (vedi il commento sul tipo in
+// src/lib/types.ts).
 
 export const ungheria: Paese = {
   slug: 'ungheria',

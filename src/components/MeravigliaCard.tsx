@@ -7,19 +7,19 @@ export function MeravigliaCard({ meraviglia }: { meraviglia: Meraviglia }) {
   return (
     <Link
       href={`/meraviglie/${meraviglia.slug}`}
-      className="group flex flex-col overflow-hidden rounded-none border border-alpine/10 bg-white transition-[border-color,transform] duration-150 ease-out hover:border-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-alpine focus-visible:ring-offset-2 active:scale-[0.99] motion-reduce:active:scale-100"
+      className="group flex w-full flex-col overflow-hidden rounded-none border border-alpine/10 bg-white transition-[border-color,transform] duration-150 ease-out hover:border-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-alpine focus-visible:ring-offset-2 active:scale-[0.99] motion-reduce:active:scale-100"
     >
       <div
         role={meraviglia.heroImage ? undefined : 'img'}
         aria-label={meraviglia.heroImage ? undefined : meraviglia.heroImageAlt}
-        className="relative flex min-h-[10rem] items-end overflow-hidden bg-gradient-to-br from-alpine to-alpine-dark p-5 text-cream"
+        className="relative flex aspect-[4/3] items-end overflow-hidden bg-gradient-to-br from-alpine to-alpine-dark p-5 text-cream"
       >
         {meraviglia.heroImage ? (
           <Image
             src={meraviglia.heroImage}
             alt={meraviglia.heroImageAlt}
             fill
-            sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
+            sizes="(min-width: 1024px) 400px, (min-width: 640px) 46vw, 82vw"
             className="object-cover transition-transform duration-700 group-hover:scale-105"
           />
         ) : (

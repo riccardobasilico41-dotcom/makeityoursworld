@@ -1,12 +1,9 @@
 import type { Destinazione } from '@/lib/types'
 
 // Le sette zone della Jungfrau Region trattate in "Svizzera in van"
-// (src/content/viaggi/52-svizzera-alpi-van.md). Nessuna di queste
-// destinazioni è stata visitata realmente: tutte hanno
-// visitataPersonalmente: false e nessuna ha il campo miaEsperienza, per
-// onestà verso chi legge (vedi il commento del tipo Destinazione in
-// src/lib/types.ts: "Se assente, la UI mostra un placeholder editoriale
-// invece di inventare un ricordo"). Nessun nome di hotel, ristorante o
+// (src/content/viaggi/52-svizzera-alpi-van.md), viaggio fatto da Rick: tutte hanno
+// visitataPersonalmente: true. Il campo miaEsperienza resta assente finché non arriva un ricordo dell'autore (vedi il commento del tipo
+// Destinazione in src/lib/types.ts). Nessun nome di hotel, ristorante o
 // operatore è stato inventato. Prezzi, orari stagionali di passi e funivie
 // e regole di campeggio in van cambiano ogni stagione e da un cantone
 // all'altro: vanno riverificati prima di partire.
@@ -19,7 +16,7 @@ export const destinazioniSvizzera: Destinazione[] = [
     nome: 'Interlaken e i laghi di Thun e Brienz',
     tipologia: ['laghi', 'base logistica', 'montagna'],
     giorniConsigliati: '1-2 giorni come base, tutto il resto del giro vi ruota intorno',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Interlaken significa «fra i laghi»: sta su una lingua di terra fra il Lago di Thun a ovest e il Lago di Brienz a est, tutti e due di un turchese lattiginoso per i sedimenti glaciali in sospensione. È lo snodo logistico della regione, con diversi campeggi nel giro di pochi chilometri.',
     percheAndarci:
@@ -60,7 +57,7 @@ export const destinazioniSvizzera: Destinazione[] = [
     nome: 'Lauterbrunnen e la valle delle cascate',
     tipologia: ['natura', 'trekking', 'montagna'],
     giorniConsigliati: '1 giorno pieno',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Una gola glaciale a pareti verticali, con settantadue cascate censite nei suoi dodici chilometri. La più famosa è la Staubbach, 300 metri di salto quasi in centro al paese: ha ispirato Goethe e, secondo la tradizione locale, la valle di Rivendell nel «Signore degli Anelli».',
     percheAndarci:
@@ -99,7 +96,7 @@ export const destinazioniSvizzera: Destinazione[] = [
     nome: 'Grindelwald e il First',
     tipologia: ['montagna', 'panorama', 'famiglia'],
     giorniConsigliati: '1 giorno',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Ai piedi della parete nord dell\'Eiger, Grindelwald è il villaggio più «da cartolina» della regione. Da qui parte la funivia per il First, dove il Cliff Walk regala uno dei panorami più fotografati delle Alpi Bernesi senza nessuna camminata impegnativa.',
     percheAndarci:
@@ -136,7 +133,7 @@ export const destinazioniSvizzera: Destinazione[] = [
     nome: 'Jungfraujoch, il Top of Europe',
     tipologia: ['ghiacciaio', 'panorama', 'esperienza unica'],
     giorniConsigliati: '1 giorno intero',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La stazione ferroviaria più alta d\'Europa, a 3.454 metri. Ci arriva una cremagliera scavata quasi tutta nella roccia dell\'Eiger e del Mönch fra il 1896 e il 1912. In cima c\'è il ghiacciaio dell\'Aletsch, il più lungo delle Alpi.',
     percheAndarci:
@@ -174,7 +171,7 @@ export const destinazioniSvizzera: Destinazione[] = [
     nome: 'Mürren e lo Schilthorn',
     tipologia: ['montagna', 'panorama', 'trekking'],
     giorniConsigliati: '1 giorno, più mezza giornata per chi fa la via ferrata',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Mürren è uno dei villaggi senza auto della valle di Lauterbrunnen, con una delle viste più aperte della regione su Eiger, Mönch e Jungfrau. Sopra il paese la funivia sale allo Schilthorn, dove il ristorante girevole Piz Gloria, reso famoso da un film di James Bond, guarda a 360 gradi su oltre duecento vette.',
     percheAndarci:
@@ -240,7 +237,7 @@ export const destinazioniSvizzera: Destinazione[] = [
     nome: 'Grimselpass e Furkapass',
     tipologia: ['roadtrip', 'panorama', 'passi alpini'],
     giorniConsigliati: '1 giorno di trasferimento',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La strada che porta dalle Alpi Bernesi al Vallese attraverso due dei passi più scenografici della Svizzera: il Grimselpass (2.164 m), fra laghi artificiali color smeraldo, e il Furkapass (2.429 m), famoso per l\'inseguimento in Aston Martin di «Goldfinger» e affacciato sulla lingua terminale del ghiacciaio del Rodano.',
     percheAndarci:
@@ -276,7 +273,7 @@ export const destinazioniSvizzera: Destinazione[] = [
     nome: 'Zermatt e il Cervino',
     tipologia: ['montagna', 'panorama', 'iconico'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Il punto più a sud di questa guida, e l\'unico dove il van non entra: Zermatt è chiusa al traffico privato dal 1961. In cambio c\'è il Cervino (Matterhorn), 4.478 metri di piramide di roccia quasi perfetta, visibile dal centro del paese.',
     percheAndarci:

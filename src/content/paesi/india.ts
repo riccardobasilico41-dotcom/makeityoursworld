@@ -1,16 +1,15 @@
 import type { Paese } from '@/lib/types'
 
-// L'India entra nell'archivio con tre itinerari scritti come guide, non come
-// diari: Rajasthan in 10 giorni (india-rajasthan-10-giorni), Rajasthan con
+// L'India entra nell'archivio con tre itinerari, tutti fatti dall'autore:
+// Rajasthan in 10 giorni (india-rajasthan-10-giorni), Rajasthan con
 // Varanasi (india-rajasthan-varanasi) e il Sud con il salto ad Agra
 // (india-sud-taj-mahal). Una sola scheda Paese per tutti e tre: visto,
 // stagioni, treni e truffe valgono ovunque, cambia solo il clima tra Nord e Sud.
 //
 // tripPrincipaleSlug punta al Rajasthan in 10 giorni: è il primo viaggio in
 // India più richiesto da un pubblico italiano (Taj Mahal, forti, palazzi) e il
-// più facile da organizzare in autonomia. I ricordi dell'autore si aggiungono
-// dal diario: qui nessuna esperienza vissuta, solo fatti verificati
-// (ottobre 2026) da riverificare prima della partenza.
+// più facile da organizzare in autonomia. I fatti pratici sono verificati
+// (ottobre 2026) e vanno riverificati prima della partenza.
 
 export const india: Paese = {
   slug: 'india',
