@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { Filigrana } from '@/components/Filigrana'
 import { SalvaBottone } from '@/components/SalvaBottone'
+import { ScaricaGuida } from '@/components/ScaricaGuida'
 import { FirmaAutore, FirmaBreve } from '@/components/FirmaAutore'
 import { OrganizzaViaggio } from '@/components/OrganizzaViaggio'
 import { listaPerViaggio } from '@/content/attrezzatura'
@@ -198,9 +199,12 @@ function SignatureViaggioContent({
         }
         credito={video ? creditiHeroVideo[viaggio.slug] : copertina ? creditiCopertine[viaggio.slug] : undefined}
         actions={
-          <SalvaBottone
-            elemento={{ tipo: 'viaggio', id: viaggio.slug, titolo: viaggio.titolo, href: `/viaggi/${viaggio.slug}`, immagine: copertina?.immagine, sottotitolo: viaggio.durataBreve }}
-          />
+          <>
+            <SalvaBottone
+              elemento={{ tipo: 'viaggio', id: viaggio.slug, titolo: viaggio.titolo, href: `/viaggi/${viaggio.slug}`, immagine: copertina?.immagine, sottotitolo: viaggio.durataBreve }}
+            />
+            <ScaricaGuida slug={viaggio.slug} />
+          </>
         }
       />
 

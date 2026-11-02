@@ -1,0 +1,452 @@
+import type { Guida } from './types'
+
+/**
+ * Guida PDF «California in 19 giorni». Il racconto viene da
+ * src/content/viaggi/75-california-road-trip.md; tariffe dei parchi, stato
+ * delle strade, orari e contatti sono stati verificati sul web il 2/11/2026
+ * (nps.gov, Caltrans, siti dei musei) e rimandano alle fonti in fondo.
+ *
+ * Le schede raggruppano più giorni nello stesso posto (campo `fino`).
+ * Distanze e tempi: OSRM su dati OpenStreetMap, traffico libero.
+ * Coordinate: OpenStreetMap (Nominatim).
+ */
+
+export const guidaCalifornia: Guida = {
+  slug: 'california-road-trip',
+  tripSlug: 'california-road-trip',
+  paese: 'Stati Uniti',
+  titolo: 'California',
+  sottotitolo: 'Diciannove giorni in auto ad anello da San Francisco: Yosemite, Sequoia, Death Valley, Joshua Tree, Los Angeles e Big Sur. Strade, parchi, biglietti e numeri utili.',
+  autore: 'Rick',
+  verificatoAl: 'novembre 2026',
+  intro: [
+    'È un anello di circa 2.900 km che parte e torna a San Francisco: la Sierra Nevada con Yosemite e le sequoie, il deserto di Death Valley e Joshua Tree, Los Angeles e la costa sulla Highway 1. Lo abbiamo fatto con amici, con un\'auto presa a San Francisco il quarto giorno.',
+    'In questa guida ci sono le tratte con chilometri e tempi, le tariffe dei parchi (cambiate parecchio nel 2026 per chi non vive negli Stati Uniti), lo stato delle strade, gli orari dei musei e i numeri da avere con sé.',
+    'Ho ricontrollato tutto a novembre 2026. Le strade di montagna e la Highway 1 cambiano di settimana in settimana: prima di ogni tappa guarda nps.gov e Caltrans QuickMap.',
+  ],
+  cosaInPiu: [
+    'Ogni tratta con chilometri e tempi di guida, ogni luogo con orari, biglietto e QR per Google Maps',
+    'Il conto del pass annuale per non residenti, con il supplemento di 100 $ introdotto nel 2026',
+    'Stato di Tioga Road, Glacier Point, Generals Highway e Highway 1 a inizio novembre 2026',
+    'Consolati d\'Italia di San Francisco e Los Angeles con i numeri di emergenza, ospedali lungo il percorso',
+    'Budget, valigia per montagna e deserto, frasario inglese per la strada',
+  ],
+  tappe: [
+    { nome: 'San Francisco', gps: [37.78794, -122.40752], giorno: 'G1-3 · G18-19', etichetta: 'sinistra' },
+    { nome: 'Yosemite Valley', gps: [37.74326, -119.59842], giorno: 'G4-6', etichetta: 'destra' },
+    { nome: 'Oakhurst', gps: [37.33318, -119.65724], giorno: 'G6', etichetta: 'sinistra' },
+    { nome: 'Sequoia (Giant Forest)', gps: [36.58165, -118.75144], giorno: 'G7-8', etichetta: 'sopra' },
+    { nome: 'Death Valley', gps: [36.46138, -116.86704], giorno: 'G9-10', etichetta: 'sotto' },
+    { nome: 'Joshua Tree', gps: [34.13569, -116.05435], giorno: 'G11-12', etichetta: 'destra' },
+    { nome: 'Palm Springs', gps: [33.82507, -116.62624], giorno: 'G13', etichetta: 'sotto' },
+    { nome: 'Los Angeles', gps: [34.0089, -118.4974], giorno: 'G13-15', etichetta: 'sinistra' },
+    { nome: 'Santa Barbara', gps: [34.40995, -119.6858], giorno: 'G16', etichetta: 'sinistra' },
+    { nome: 'Cambria', gps: [35.55136, -121.08729], giorno: 'G16', etichetta: 'sinistra' },
+    { nome: 'Big Sur', gps: [36.15782, -121.6724], giorno: 'G17', etichetta: 'sinistra' },
+    { nome: 'Monterey', gps: [36.61809, -121.90167], giorno: 'G17-18', etichetta: 'sinistra' },
+  ],
+  giorni: [
+    {
+      numero: 1,
+      fino: 3,
+      titolo: 'San Francisco senza auto',
+      paginaSito: '/destinazioni/california/san-francisco',
+      racconto:
+        'Dall\'aeroporto in centro con la BART, in mezz\'ora. Il secondo giorno il Golden Gate a piedi o in bici dal Presidio a Sausalito, ritorno in traghetto, e nel pomeriggio Alcatraz. Il terzo Muir Woods, poi Mission, Alamo Square, Castro, la funicolare Powell-Hyde e il tramonto a Lands End. L\'auto l\'abbiamo presa solo il giorno della partenza per Yosemite.',
+      tratte: [{ da: 'Aeroporto SFO', a: 'Union Square', km: 23, minuti: 21, mezzo: 'BART', nelMioViaggio: 'circa 30 minuti, 10-12 $' }],
+      luoghi: [
+        { nome: 'Golden Gate Bridge', gps: [37.81829, -122.47838], nota: 'A piedi e in bici è gratis. In auto il pedaggio si paga solo entrando in città, cioè verso sud: dal 1/7/2026 10,25 $ con FasTrak, 10,50 $ con il conto legato alla targa, 11,25 $ con la fattura. Le auto a noleggio lo addebitano dopo.', fonti: ['gg-pedaggio', 'osm'] },
+        { nome: 'Alcatraz City Cruises, Pier 33', indirizzo: 'Pier 33, The Embarcadero', web: 'alcatrazcitycruises.com', gps: [37.8079, -122.40459], nota: 'Unico operatore autorizzato. I biglietti finiscono settimane prima; rimborso con disdetta almeno 72 ore prima. Prezzo da verificare nella prenotazione.', fonti: ['alcatraz', 'osm'] },
+        { nome: 'Muir Woods National Monument', indirizzo: 'Mill Valley, Marin County', biglietto: '15 $ dai 16 anni (coperto dal pass annuale), più la prenotazione obbligatoria di parcheggio o navetta su gomuirwoods.com', web: 'nps.gov/muwo', gps: [37.89639, -122.58022], fonti: ['muir', 'osm'] },
+        { nome: 'Muni, funicolari e bus', biglietto: 'Funicolare 9 $ a corsa; bus 2,85 $ con Clipper, 3 $ in contanti; pass giornaliero 5,70 $', web: 'sfmta.com', fonti: ['muni'] },
+      ],
+      mangiare: [],
+      dormire: 'San Francisco, zona Union Square, Nob Hill o North Beach. Nei miei documenti il nome dell\'hotel non c\'è.',
+      nota: 'Viaggiare Sicuri segnala i furti nelle auto parcheggiate soprattutto a San Francisco: niente in vista, mai.',
+    },
+    {
+      numero: 4,
+      fino: 6,
+      titolo: 'Yosemite',
+      paginaSito: '/destinazioni/california/yosemite',
+      racconto:
+        'Ritirata l\'auto, tre ore e mezza-quattro verso est fino a Big Oak Flat e l\'arrivo dal belvedere di Tunnel View. Il giorno dopo il Mist Trail fino alla cascata Vernal, partendo prima delle 8 per il parcheggio, e il pomeriggio tra i prati della valle. Il sesto giorno Glacier Point, se la strada è aperta, e le sequoie di Mariposa Grove, poi fuori dal parco a sud, a Oakhurst.',
+      tratte: [
+        { da: 'San Francisco', a: 'Yosemite Valley', km: 300, minuti: 270, nelMioViaggio: '3,5-4 ore, venerdì traffico pesante in uscita' },
+        { da: 'Yosemite Valley', a: 'Mariposa Grove', km: 58, minuti: 71 },
+        { da: 'Mariposa Grove', a: 'Oakhurst', km: 30, minuti: 32 },
+      ],
+      luoghi: [
+        { nome: 'Yosemite National Park', biglietto: '35 $ ad auto per 7 giorni; più 100 $ a persona per i non residenti dai 16 anni, salvo pass annuale. Solo carta', telefono: 'Informazioni +1 209 372 0200', web: 'nps.gov/yose', nota: 'Nel 2026 il parco non usa più le prenotazioni a orario per entrare.', fonti: ['yose-fee', 'yose-res', 'yose-cond'] },
+        { nome: 'Yosemite Valley Lodge', indirizzo: '9004 Yosemite Lodge Dr', telefono: 'Prenotazioni Travel Yosemite +1 888 413 8869', web: 'travelyosemite.com', gps: [37.74326, -119.59842], nota: 'Anche Curry Village e The Ahwahnee. Il Wawona Hotel risulta chiuso.', fonti: ['yose-lodge', 'osm'] },
+        { nome: 'Glacier Point', gps: [37.73067, -119.57367], nota: 'Strada aperta di solito da fine maggio a novembre. Al 30 ottobre 2026 era già chiusa per neve, come la Tioga Road.', fonti: ['yose-cond', 'osm'] },
+        { nome: 'Mariposa Grove', gps: [37.50902, -119.60185], nota: 'Strada riservata ai disabili con contrassegno; per gli altri navetta gratuita dalla Welcome Plaza (circa da fine aprile a novembre).', fonti: ['yose-cond', 'osm'] },
+      ],
+      mangiare: [],
+      dormire: 'Due notti in valle o appena fuori (Mariposa, El Portal, Groveland), poi Oakhurst o Fish Camp. Prenota con mesi di anticipo.',
+      nota: 'Cibo e cosmetici nei contenitori antiorso, mai lasciati in auto la notte. La spesa si fa fuori dal parco.',
+    },
+    {
+      numero: 7,
+      fino: 8,
+      titolo: 'Kings Canyon e Sequoia',
+      paginaSito: '/destinazioni/california/sequoia',
+      racconto:
+        'Verso sud passando per Fresno, dove si fa il pieno, fino al General Grant Grove. L\'ottavo giorno nella Giant Forest: il General Sherman, il Congress Trail tra decine di sequoie giganti, i 350 gradini di Moro Rock. Nel pomeriggio giù per la Generals Highway, tutta tornanti, fino a Three Rivers.',
+      tratte: [
+        { da: 'Oakhurst', a: 'General Grant Grove', km: 161, minuti: 142 },
+        { da: 'Grant Grove', a: 'General Sherman (Giant Forest)', km: 47, minuti: 55 },
+        { da: 'Giant Forest', a: 'Three Rivers (Generals Highway)', km: 49, minuti: 94, nelMioViaggio: 'circa un\'ora e mezza di tornanti' },
+      ],
+      luoghi: [
+        { nome: 'Sequoia & Kings Canyon National Parks', biglietto: '35 $ ad auto per 7 giorni; più 100 $ a persona per i non residenti dai 16 anni', telefono: 'Informazioni +1 559 565 3341', web: 'nps.gov/seki', nota: 'Ingressi di Ash Mountain e Big Stump solo carta. La strada per Cedar Grove chiude per l\'inverno il 13 novembre 2026. Lavori sulla Generals Highway con attese fino a 30 minuti.', fonti: ['seki-fee', 'seki-cond'] },
+        { nome: 'General Grant Tree', gps: [36.74806, -118.97111], fonti: ['osm'] },
+        { nome: 'General Sherman Tree', gps: [36.58165, -118.75144], fonti: ['osm'] },
+        { nome: 'Wuksachi Lodge · John Muir Lodge', telefono: 'Prenotazioni +1 866 807 3598', web: 'visitsequoia.com', nota: 'I lodge dentro i parchi.', fonti: ['seki-lodge'] },
+      ],
+      mangiare: [],
+      dormire: 'Una notte nei lodge del parco (Wuksachi o John Muir), una a Three Rivers.',
+    },
+    {
+      numero: 9,
+      fino: 10,
+      titolo: 'Death Valley',
+      paginaSito: '/destinazioni/california/death-valley',
+      racconto:
+        'Cinque-sei ore aggirando la Sierra da sud, per Lake Isabella e Ridgecrest, fino a Stovepipe Wells per il tramonto sulle dune di Mesquite Flat. Il giorno dopo l\'alba a Zabriskie Point, il Golden Canyon nelle ore fresche, Artists Drive, Badwater a 86 metri sotto il mare, e il tramonto da Dante\'s View.',
+      tratte: [
+        { da: 'Three Rivers', a: 'Stovepipe Wells', km: 439, minuti: 390, nelMioViaggio: '5-6 ore' },
+        { da: 'Stovepipe Wells', a: 'Furnace Creek', km: 39, minuti: 34 },
+      ],
+      luoghi: [
+        { nome: 'Death Valley National Park', biglietto: '30 $ ad auto per 7 giorni, nessun supplemento per i non residenti. Senza contanti: online su recreation.gov, al visitor center o alle macchinette', telefono: '+1 760 786 3200', web: 'nps.gov/deva', nota: 'Al 1° novembre 2026 erano chiuse Darwin Falls Road e Beatty Cutoff; aperte Badwater, Artists Drive, Dante\'s View, Zabriskie e la CA-190.', fonti: ['deva-fee', 'deva-cond'] },
+        { nome: 'Furnace Creek Visitor Center', gps: [36.46138, -116.86704], fonti: ['osm'] },
+        { nome: 'Badwater Basin', gps: [36.22969, -116.76792], fonti: ['osm'] },
+        { nome: 'The Inn e The Ranch at Death Valley', indirizzo: 'Furnace Creek, Death Valley CA 92328', telefono: '+1 800 236 7916', web: 'oasisatdeathvalley.com', fonti: ['oasis'] },
+      ],
+      mangiare: [],
+      dormire: 'Stovepipe Wells o Furnace Creek, due notti.',
+      nota: 'Pieno a Ridgecrest e 4 litri d\'acqua a testa in auto. Da maggio a settembre nessuna camminata dopo le 10.',
+    },
+    {
+      numero: 11,
+      fino: 12,
+      titolo: 'Route 66 e Joshua Tree',
+      paginaSito: '/destinazioni/california/joshua-tree',
+      racconto:
+        'Il Mojave verso sud-est: Shoshone, Baker, un tratto della Route 66 con il vecchio motel di Amboy, poi Twentynine Palms. Il dodicesimo giorno il parco da nord a sud: Hidden Valley, Skull Rock, Keys View sulla valle di Coachella, il Cholla Cactus Garden al tramonto, e la notte le stelle.',
+      tratte: [{ da: 'Furnace Creek', a: 'Twentynine Palms', km: 382, minuti: 340, nelMioViaggio: '4,5-5 ore via Amboy' }],
+      luoghi: [
+        { nome: 'Joshua Tree National Park', biglietto: '30 $ ad auto per 7 giorni, nessun supplemento per i non residenti', web: 'nps.gov/jotr', nota: 'Ingressi Nord e Ovest solo carta. Stampa o salva il pass prima: nel parco il telefono non prende.', fonti: ['jotr-fee'] },
+        { nome: 'Keys View', gps: [33.9264, -116.18723], fonti: ['osm'] },
+      ],
+      mangiare: [],
+      dormire: 'Due notti a Twentynine Palms, Joshua Tree o Yucca Valley.',
+      nota: 'Sulla Route 66 i distributori sono pochissimi: pieno a Baker. Ai cholla non ci si avvicina, le spine si staccano al minimo contatto.',
+    },
+    {
+      numero: 13,
+      fino: 15,
+      titolo: 'Palm Springs e Los Angeles',
+      paginaSito: '/destinazioni/california/los-angeles',
+      racconto:
+        'La funivia di Palm Springs sale dal deserto ai pini del San Jacinto in dieci minuti; poi l\'autostrada fino a Los Angeles. Il quattordicesimo giorno il Getty Center, Hollywood e il tramonto al Griffith Observatory. Il quindicesimo al mare: Santa Monica, in bici fino a Venice, poi la Pacific Coast Highway fino a Malibu ed El Matador Beach.',
+      tratte: [
+        { da: 'Twentynine Palms', a: 'Palm Springs Aerial Tramway', km: 82, minuti: 81 },
+        { da: 'Palm Springs', a: 'Santa Monica', km: 201, minuti: 153, nelMioViaggio: '2-3 ore, evita il pomeriggio' },
+      ],
+      luoghi: [
+        { nome: 'Palm Springs Aerial Tramway', indirizzo: '1 Tram Way, Palm Springs 92262', biglietto: 'Adulti 36,95 $, bambini 3-10 anni 20,95 $, over 65 33,95 $ (con 2 $ di commissione online)', telefono: '+1 888 515 8726', web: 'pstramway.com', gps: [33.82507, -116.62624], fonti: ['tram-ps', 'osm'] },
+        { nome: 'Getty Center', indirizzo: '1200 Getty Center Dr, Los Angeles 90049', orari: 'Mar-ven e dom 10:00-18:30, sab 10:00-21:00, chiuso il lunedì', biglietto: 'Gratis con prenotazione a orario obbligatoria; parcheggio 25 $ (15 $ dopo le 15, 10 $ dopo le 18), solo carta', telefono: '+1 310 440 7300', web: 'getty.edu', gps: [34.07702, -118.47401], fonti: ['getty', 'osm'] },
+        { nome: 'Griffith Observatory', indirizzo: '2800 E Observatory Rd, Los Angeles 90027', orari: 'Mar-ven 12:00-22:00, sab-dom 10:00-22:00, chiuso il lunedì', biglietto: 'Gratis; parcheggio a pagamento, spesso pieno al tramonto', telefono: '+1 213 473 0800', gps: [34.11822, -118.30029], fonti: ['griffith', 'osm'] },
+        { nome: 'Getty Villa', indirizzo: '17985 Pacific Coast Hwy, Pacific Palisades', orari: '10:00-17:00, chiusa il martedì', biglietto: 'Gratis con prenotazione a orario; parcheggio 25 $', fonti: ['getty-villa'] },
+        { nome: 'Warner Bros. Studio Tour', indirizzo: '3400 Warner Blvd, Burbank 91505', telefono: '+1 818 977 8687', web: 'wbstudiotour.com', nota: 'Prezzo non verificato.', fonti: ['wb'] },
+        { nome: 'Santa Monica Pier', gps: [34.0089, -118.4974], fonti: ['osm'] },
+      ],
+      mangiare: [
+        { nome: 'Grand Central Market', cosa: 'Mercato coperto a Downtown, tanti banchi', indirizzo: '317 S Broadway, Los Angeles 90013', web: 'grandcentralmarket.com', stato: 'non-provato', avviso: 'Aperto 08:00-21:00; ogni banco ha i suoi orari.', fonti: ['gcm'] },
+      ],
+      dormire: 'Tre notti tra Santa Monica e West Hollywood. Parcheggio dell\'hotel 35-60 $ a notte.',
+      nota: 'Nei parcheggi delle spiagge non lasciare nulla in vista.',
+    },
+    {
+      numero: 16,
+      titolo: 'Santa Barbara e la costa fino a Cambria',
+      racconto:
+        'Santa Barbara, bianca con i tetti rossi: la missione spagnola e il molo di Stearns Wharf. Poi Highway 101 e Highway 1 fino a San Simeon, con l\'Hearst Castle e la colonia di elefanti marini di Piedras Blancas, che si guarda gratis da una passerella.',
+      tratte: [
+        { da: 'Santa Monica', a: 'Santa Barbara', km: 150, minuti: 114 },
+        { da: 'Santa Barbara', a: 'Hearst Castle (San Simeon)', km: 228, minuti: 211 },
+        { da: 'Hearst Castle', a: 'Cambria', km: 24, minuti: 47 },
+      ],
+      luoghi: [
+        { nome: 'Stearns Wharf', gps: [34.40995, -119.6858], fonti: ['osm'] },
+        { nome: 'Hearst Castle', indirizzo: '750 Hearst Castle Rd, San Simeon CA 93452', telefono: 'Prenotazioni +1 800 444 4445 (ReserveCalifornia)', web: 'hearstcastle.org', gps: [35.68493, -121.16987], nota: 'Grand Rooms Tour da prenotare; prezzo da verificare.', fonti: ['hearst', 'osm'] },
+      ],
+      mangiare: [],
+      dormire: 'Cambria o San Simeon.',
+    },
+    {
+      numero: 17,
+      titolo: 'Big Sur sulla Highway 1',
+      paginaSito: '/destinazioni/california/big-sur',
+      racconto:
+        'Circa 150 km a picco sull\'oceano da fare con calma, sei-sette ore con le soste: Ragged Point, McWay Falls nel Julia Pfeiffer Burns, la sabbia viola di Pfeiffer Beach, il ponte di Bixby Creek e Point Lobos con foche e lontre.',
+      tratte: [
+        { da: 'Cambria', a: 'Point Lobos', km: 157, minuti: 147, nelMioViaggio: '6-7 ore con le soste' },
+        { da: 'Point Lobos', a: 'Monterey', km: 15, minuti: 22 },
+      ],
+      luoghi: [
+        { nome: 'Highway 1, stato della strada', nota: 'Al 2 novembre 2026 nessuna chiusura totale, ma sensi unici alternati a Mud Creek (feriali 06:30-12:00, fino al 13/11), tra Point Sur e Big Sur (24 ore, fino al 31/12) e al Rocky Creek Bridge (24 ore, fino al 30/11). Controlla Caltrans QuickMap la mattina.', fonti: ['hwy1'] },
+        { nome: 'McWay Falls', gps: [36.15782, -121.6724], fonti: ['osm'] },
+        { nome: 'Bixby Creek Bridge', gps: [36.37159, -121.90193], nota: 'Soste solo nelle piazzole segnalate, mai in curva.', fonti: ['osm'] },
+        { nome: 'Point Lobos State Natural Reserve', indirizzo: 'Route 1, 3 miglia a sud di Carmel', orari: '08:00-19:00, ultimo ingresso 18:30', biglietto: '10 $ ad auto', telefono: '+1 831 624 4909', gps: [36.51473, -121.94279], fonti: ['lobos', 'osm'] },
+      ],
+      mangiare: [],
+      dormire: 'Monterey o Carmel. A Big Sur i pochi lodge superano i 300-400 $.',
+      nota: 'Pieno a Cambria: lungo Big Sur i distributori sono pochi e cari.',
+    },
+    {
+      numero: 18,
+      fino: 19,
+      titolo: 'Monterey, Carmel e rientro',
+      racconto:
+        'La mattina al Monterey Bay Aquarium, con la foresta di kelp e le lontre. Poi Carmel-by-the-Sea e la 17-Mile Drive. Nel pomeriggio due ore abbondanti fino a San Francisco: auto riconsegnata in aeroporto e notte vicino a SFO. Il giorno dopo il volo.',
+      tratte: [{ da: 'Monterey', a: 'Aeroporto SFO', km: 165, minuti: 129 }],
+      luoghi: [
+        { nome: 'Monterey Bay Aquarium', indirizzo: '886 Cannery Row, Monterey', biglietto: 'Adulti 18-69 anni 65 $, 5-17 anni 50 $, sotto i 5 gratis', telefono: '+1 831 648 4800', web: 'montereybayaquarium.org', gps: [36.61809, -121.90167], fonti: ['aquarium', 'osm'] },
+        { nome: '17-Mile Drive', nota: 'Pedaggio ad auto (12,50 $ nel mio viaggio, non riverificato).', fonti: [] },
+      ],
+      mangiare: [],
+      dormire: 'Vicino all\'aeroporto SFO l\'ultima notte.',
+      nota: 'Pieno prima della riconsegna e controllo dei pedaggi addebitati. Per i voli internazionali in aeroporto tre ore prima.',
+    },
+  ],
+  mappa: {
+    percorso: ['San Francisco', 'Yosemite', 'Oakhurst', 'Sequoia', 'Death Valley', 'Joshua Tree', 'Palm Springs', 'Los Angeles', 'Santa Barbara', 'Cambria', 'Big Sur', 'Monterey'],
+    ritorno: ['Monterey', 'San Francisco'],
+    legenda: 'Linea piena: l\'anello in senso orario. Tratteggio: rientro a San Francisco.',
+    notaTempi: 'Tempi stimati senza traffico (OSRM su OpenStreetMap). In montagna, sulla Highway 1 e intorno a Los Angeles aggiungi un 25-30% e le soste.',
+    notaTempiFonti: ['osrm'],
+    scalaKm: 100,
+  },
+  pass: {
+    nome: 'America the Beautiful',
+    titolo: 'Pass annuale: conviene?',
+    occhiello: 'La prima decisione',
+    calcoloTitolo: 'Il conto per un\'auto con due adulti stranieri ($)',
+    esito: 'Con due adulti il pass costa 250 $ contro 560 $ di biglietti singoli: si ripaga già con Yosemite e Sequoia.',
+    regola:
+      'Dal 2026 Yosemite e Sequoia-Kings Canyon fanno pagare 100 $ in più a ogni visitatore non residente dai 16 anni, oltre all\'ingresso dell\'auto. Il pass annuale America the Beautiful per non residenti costa 250 $ e cancella il supplemento; quello per residenti costa 80 $. Death Valley e Joshua Tree non hanno supplemento. Muir Woods (15 $) è coperto dal pass.',
+    scenari: [
+      { situazione: 'Visiti Yosemite e Sequoia', scelta: 'Pass annuale: bastano questi due per ripagarlo' },
+      { situazione: 'Salti la Sierra e fai solo deserto e costa', scelta: 'Biglietti singoli: Death Valley e Joshua Tree costano 30 $ ad auto' },
+      { situazione: 'Aggiungi Zion o Grand Canyon', scelta: 'Pass annuale, a maggior ragione' },
+    ],
+    calcolo: [
+      { voce: 'Yosemite, auto', senzaPass: 35, conPass: 0 },
+      { voce: 'Yosemite, supplemento 2 persone', senzaPass: 200, conPass: 0 },
+      { voce: 'Sequoia, auto', senzaPass: 35, conPass: 0 },
+      { voce: 'Sequoia, supplemento 2 persone', senzaPass: 200, conPass: 0 },
+      { voce: 'Death Valley', senzaPass: 30, conPass: 0 },
+      { voce: 'Joshua Tree', senzaPass: 30, conPass: 0 },
+      { voce: 'Muir Woods, 2 persone', senzaPass: 30, conPass: 0 },
+      { voce: 'Pass non residenti', senzaPass: 0, conPass: 250 },
+    ],
+    fonti: ['yose-fee', 'seki-fee', 'deva-fee', 'jotr-fee', 'muir'],
+  },
+  primaDiPartire: [
+    {
+      titolo: 'Documenti e auto',
+      righe: [
+        { voce: 'ESTA', valore: 'Obbligatorio. 40,62 $ dal 16 ottobre 2026, vale 2 anni o fino alla scadenza del passaporto. Solo su esta.cbp.dhs.gov.', fonti: ['esta'] },
+        { voce: 'Auto', valore: 'Ritirala solo quando lasci San Francisco: in città costa in parcheggi e rischio furti. Assicurazione completa e carta di credito del guidatore.' },
+        { voce: 'Assicurazione sanitaria', valore: 'Indispensabile: sanità ottima ma molto cara.', fonti: ['vs'] },
+        { voce: 'Strade', valore: 'Prima di ogni tappa: nps.gov per i parchi, Caltrans QuickMap per Highway 1, Tioga e passi di montagna.', fonti: ['hwy1', 'tioga'] },
+      ],
+    },
+    {
+      titolo: 'Soldi',
+      righe: [
+        { voce: 'Valuta', valore: 'Dollaro. A fine ottobre 2026 1 € ≈ 1,12 $.', fonti: ['bce'] },
+        { voce: 'Senza contanti', valore: 'Gli ingressi dei parchi accettano quasi solo carte e pagamenti da telefono.', fonti: ['yose-fee', 'deva-fee'] },
+        { voce: 'Tasse e mance', valore: 'Metti in conto un 25-30% in più su quasi ogni conto.' },
+      ],
+    },
+    {
+      titolo: 'Telefono, corrente, ora',
+      righe: [
+        { voce: 'Copertura', valore: 'Assente in molti tratti di Sierra, deserto e Big Sur: mappe offline e pass dei parchi salvati prima.' },
+        { voce: 'Corrente', valore: '120 V, prese A e B: serve un adattatore.', fonti: ['prese'] },
+        { voce: 'Fuso', valore: 'Nove ore indietro rispetto all\'Italia.', fonti: ['vs'] },
+      ],
+    },
+    {
+      titolo: 'Sicurezza e natura',
+      righe: [
+        { voce: 'Furti in auto', valore: 'Frequenti, soprattutto a San Francisco e nei parcheggi dei belvedere.', fonti: ['vs'] },
+        { voce: 'Incendi', valore: 'Da agosto a novembre sulla costa ovest: possono chiudere strade e parchi.', fonti: ['vs'] },
+        { voce: 'Orsi', valore: 'A Yosemite e Sequoia il cibo va nei contenitori antiorso.' },
+        { voce: 'Caldo', valore: 'In Death Valley acqua in auto e camminate solo all\'alba.' },
+      ],
+    },
+  ],
+  emergenze: {
+    numeri: [
+      { voce: 'Emergenze (polizia, ambulanza, pompieri)', valore: '911', fonti: ['vs'] },
+      { voce: 'Yosemite, informazioni', valore: '+1 209 372 0200', fonti: ['yose-cond'] },
+      { voce: 'Sequoia & Kings Canyon, informazioni', valore: '+1 559 565 3341', fonti: ['seki-cond'] },
+      { voce: 'Death Valley, informazioni', valore: '+1 760 786 3200', fonti: ['deva-fee'] },
+    ],
+    ambasciata: [
+      { nome: 'Consolato Generale d\'Italia a San Francisco', cosa: 'Nord della California (San Francisco, Yosemite)', indirizzo: '2590 Webster St, San Francisco CA 94115', telefono: '+1 415 292 9200 · it.sanfrancisco@esteri.it', stato: 'ufficiale', fonti: ['cg-sf'] },
+      { nome: 'Consolato di San Francisco, emergenze', cosa: 'Solo emergenze gravi', telefono: '+1 415 999 0094', stato: 'ufficiale', fonti: ['cg-sf'] },
+      { nome: 'Consolato Generale d\'Italia a Los Angeles', cosa: 'Sud della California', indirizzo: '12424 Wilshire Blvd, Suite 1400, Los Angeles CA 90025', telefono: '+1 310 820 0622 · emergenze +1 310 433 5422 · consolato.losangeles@esteri.it', stato: 'ufficiale', fonti: ['vs'] },
+    ],
+    ospedali: [
+      { nome: 'Zuckerberg San Francisco General Hospital', cosa: 'San Francisco, trauma center', indirizzo: '1001 Potrero Ave, San Francisco CA 94110', telefono: '+1 628 206 8000', stato: 'ufficiale', fonti: ['zsfg'] },
+      { nome: 'Kaweah Health Medical Center', cosa: 'Visalia, il più vicino a Sequoia', telefono: '+1 559 624 2000', stato: 'ufficiale', avviso: 'Indirizzo non verificato.', fonti: ['kaweah'] },
+      { nome: 'Southern Inyo Hospital', cosa: 'Lone Pine, lato ovest della Death Valley; pronto soccorso 24 ore', indirizzo: '501 E Locust St, Lone Pine CA 93545', telefono: '+1 760 876 5501', stato: 'ufficiale', fonti: ['sihd'] },
+      { nome: 'Desert Regional Medical Center', cosa: 'Palm Springs, trauma center', indirizzo: '1150 N Indian Canyon Dr, Palm Springs', stato: 'ufficiale', avviso: 'Telefono non verificato.', fonti: ['desert'] },
+      { nome: 'Cedars-Sinai Medical Center', cosa: 'Los Angeles, trauma center', indirizzo: '8700 Beverly Blvd, Los Angeles', stato: 'ufficiale', avviso: 'Telefono non verificato.', fonti: ['cedars'] },
+      { nome: 'Community Hospital of the Monterey Peninsula', cosa: 'Monterey', indirizzo: '23625 Holman Hwy, Monterey', stato: 'ufficiale', avviso: 'Telefono non verificato.', fonti: ['chomp'] },
+    ],
+  },
+  contatti: [
+    {
+      gruppo: 'Parchi e strade',
+      voci: [
+        { nome: 'National Park Service', cosa: 'Tariffe, condizioni, chiusure di tutti i parchi', web: 'nps.gov', stato: 'ufficiale', fonti: ['yose-fee'] },
+        { nome: 'Caltrans QuickMap', cosa: 'Stato delle strade statali (Highway 1, 120, 190)', web: 'quickmap.dot.ca.gov · roads.dot.ca.gov', stato: 'ufficiale', fonti: ['hwy1', 'tioga'] },
+        { nome: 'Recreation.gov', cosa: 'Pass digitali e campeggi', web: 'recreation.gov', stato: 'ufficiale', fonti: ['deva-fee'] },
+        { nome: 'Travel Yosemite (Aramark)', cosa: 'Alloggi dentro Yosemite', telefono: '+1 888 413 8869', web: 'travelyosemite.com', stato: 'ufficiale', fonti: ['yose-lodge'] },
+      ],
+    },
+  ],
+  budget: {
+    righe: [
+      { voce: 'Volo Italia-San Francisco' },
+      { voce: 'ESTA', costo: '40,62 $' },
+      { voce: 'Auto 16 giorni con assicurazione', costo: '450-750 $', nota: 'a testa in due' },
+      { voce: 'Carburante, circa 2.900 km', costo: '200-280 $', nota: 'a testa in due' },
+      { voce: 'Pass annuale non residenti', costo: '250 $', nota: 'per l\'auto' },
+      { voce: 'Alloggi', costo: '160-300 $', nota: 'a notte a camera' },
+      { voce: 'Pasti', costo: '60-100 $', nota: 'al giorno a testa' },
+      { voce: 'Funivia di Palm Springs', costo: '36,95 $' },
+      { voce: 'Monterey Bay Aquarium', costo: '65 $' },
+      { voce: 'Point Lobos', costo: '10 $', nota: 'ad auto' },
+      { voce: 'Parcheggio Getty', costo: '25 $' },
+      { voce: 'Alcatraz, Hearst Castle, Warner Bros.' },
+      { voce: 'Parcheggi in città', costo: '100-200 $', nota: 'a testa' },
+    ],
+    nota: 'Ordine di grandezza del viaggio: 3.200-5.400 € a persona in due, voli esclusi. Le tariffe sono quelle ufficiali di novembre 2026.',
+    cambio: 'Cambio di riferimento: 1 € ≈ 1,12 $ (BCE, 30/10/2026).',
+    cambioFonti: ['bce'],
+  },
+  valigia: [
+    { gruppo: 'Documenti', voci: ['Passaporto e ricevuta ESTA', 'Patente italiana', 'Carta di credito del guidatore', 'Pass dei parchi stampato o salvato', 'Polizza sanitaria', 'Questa guida'] },
+    { gruppo: 'Vestiti', voci: ['Strati: si passa da zero gradi in quota a oltre trenta nel deserto', 'Giacca impermeabile per il Mist Trail', 'Scarpe da trekking con buona suola', 'Cappello a tesa larga', 'Felpa per la nebbia della costa'] },
+    { gruppo: 'In auto', voci: ['4 litri d\'acqua a testa per il deserto', 'Borsa frigo per la spesa', 'Mappe offline di tutto il percorso', 'Cavo e supporto per il telefono', 'Binocolo per arrampicatori e lontre'] },
+    { gruppo: 'Tecnica e salute', voci: ['Adattatore per prese A/B', 'Crema solare e burrocacao', 'Frontale per le stelle a Joshua Tree', 'Farmaci personali'] },
+  ],
+  lingua: {
+    nome: 'Inglese americano, per la strada',
+    pronuncia: 'Frasi in inglese per le situazioni pratiche.',
+  },
+  frasario: [
+    {
+      gruppo: 'In auto e nei parchi',
+      frasi: [
+        { it: 'La strada è aperta?', loc: 'Is the road open?' },
+        { it: 'Dove posso fare benzina?', loc: 'Where\'s the nearest gas station?' },
+        { it: 'Il pieno, per favore', loc: 'Fill it up, please' },
+        { it: 'Ho il pass annuale', loc: 'I have the annual pass' },
+        { it: 'Il sentiero è difficile?', loc: 'Is the trail hard?' },
+        { it: 'Dove sono i contenitori antiorso?', loc: 'Where are the bear lockers?' },
+      ],
+    },
+    {
+      gruppo: 'Alloggio e tavola',
+      frasi: [
+        { it: 'Ho una prenotazione', loc: 'I have a reservation' },
+        { it: 'Il parcheggio è compreso?', loc: 'Is parking included?' },
+        { it: 'Il conto, per favore', loc: 'The check, please' },
+        { it: 'Il servizio è incluso?', loc: 'Is the tip included?' },
+      ],
+    },
+    {
+      gruppo: 'Emergenze',
+      frasi: [
+        { it: 'Aiuto!', loc: 'Help!' },
+        { it: 'Chiamate un\'ambulanza', loc: 'Call an ambulance, please' },
+        { it: 'Mi hanno rotto il finestrino', loc: 'Someone broke into my car' },
+        { it: 'Mi sono perso sul sentiero', loc: 'I\'m lost on the trail' },
+      ],
+    },
+  ],
+  numeri: [
+    { it: '1', loc: 'one' },
+    { it: '2', loc: 'two' },
+    { it: '5', loc: 'five' },
+    { it: '10', loc: 'ten' },
+    { it: '20', loc: 'twenty' },
+    { it: '50', loc: 'fifty' },
+    { it: '100', loc: 'one hundred' },
+  ],
+  pagineSito: [
+    { titolo: 'Il viaggio: California in 19 giorni', path: '/viaggi/california-road-trip' },
+    { titolo: 'California, la scheda', path: '/destinazioni/california' },
+    { titolo: 'Yosemite', path: '/destinazioni/california/yosemite' },
+    { titolo: 'Death Valley', path: '/destinazioni/california/death-valley' },
+    { titolo: 'Big Sur', path: '/destinazioni/california/big-sur' },
+  ],
+  consultate: 'Consultate il 2 novembre 2026. Strade di montagna e Highway 1 cambiano da un giorno all\'altro: guarda nps.gov e Caltrans prima di partire.',
+  nonVerificato: [
+    'Prezzi di Alcatraz, Hearst Castle (Grand Rooms Tour), Warner Bros. Studio Tour e 17-Mile Drive',
+    'Orari dei visitor center dei parchi',
+    'Ospedali di Mariposa e Pahrump; telefoni di Desert Regional, Cedars-Sinai e Community Hospital di Monterey; indirizzo di Kaweah',
+    'Tariffa del parcheggio del Griffith Observatory e della prenotazione di Muir Woods',
+    'Nomi degli hotel: nei miei documenti non ci sono',
+  ],
+  fonti: [
+    { id: 'esta', titolo: 'CBP, ESTA', url: 'https://esta.cbp.dhs.gov/' },
+    { id: 'vs', titolo: 'Viaggiare Sicuri, scheda Stati Uniti', url: 'https://www.viaggiaresicuri.it/find-country/country/USA' },
+    { id: 'cg-sf', titolo: 'Consolato Generale d\'Italia a San Francisco, emergenze', url: 'https://conssanfrancisco.esteri.it/en/chi-siamo/numeri-di-emergenza/' },
+    { id: 'bce', titolo: 'BCE, cambi di riferimento EUR/USD', url: 'https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.en.html' },
+    { id: 'prese', titolo: 'Remitly, prese elettriche', url: 'https://www.remitly.com/blog/technology/electrical-outlets-in-italy/' },
+    { id: 'yose-fee', titolo: 'NPS, Yosemite, tariffe', url: 'https://www.nps.gov/yose/planyourvisit/fees.htm' },
+    { id: 'yose-res', titolo: 'NPS, Yosemite, prenotazioni 2026', url: 'https://www.nps.gov/yose/planyourvisit/reservations.htm' },
+    { id: 'yose-cond', titolo: 'NPS, Yosemite, condizioni delle strade', url: 'https://www.nps.gov/yose/planyourvisit/conditions.htm' },
+    { id: 'yose-lodge', titolo: 'Travel Yosemite, alloggi', url: 'https://www.travelyosemite.com/lodging/' },
+    { id: 'tioga', titolo: 'Caltrans, Highway 120', url: 'https://roads.dot.ca.gov/roadscell.php?roadnumber=120' },
+    { id: 'seki-fee', titolo: 'NPS, Sequoia & Kings Canyon, tariffe', url: 'https://www.nps.gov/seki/planyourvisit/fees.htm' },
+    { id: 'seki-cond', titolo: 'NPS, Sequoia & Kings Canyon, condizioni', url: 'https://www.nps.gov/seki/planyourvisit/conditions.htm' },
+    { id: 'seki-lodge', titolo: 'Visit Sequoia, lodge', url: 'https://www.visitsequoia.com/' },
+    { id: 'deva-fee', titolo: 'NPS, Death Valley, tariffe', url: 'https://www.nps.gov/deva/planyourvisit/fees.htm' },
+    { id: 'deva-cond', titolo: 'NPS, Death Valley, condizioni', url: 'https://www.nps.gov/deva/planyourvisit/conditions.htm' },
+    { id: 'jotr-fee', titolo: 'NPS, Joshua Tree, tariffe', url: 'https://www.nps.gov/jotr/planyourvisit/fees.htm' },
+    { id: 'muir', titolo: 'NPS, Muir Woods, tariffe', url: 'https://www.nps.gov/muwo/planyourvisit/fees.htm' },
+    { id: 'gg-pedaggio', titolo: 'Golden Gate Bridge, pedaggi dal 1/7/2026', url: 'https://www.goldengate.org/golden-gate-bridge-toll-rates-increase-july-1-2026/' },
+    { id: 'muni', titolo: 'SFMTA, tariffe Muni', url: 'https://www.sfmta.com/getting-around/muni/fares' },
+    { id: 'alcatraz', titolo: 'Alcatraz City Cruises', url: 'https://alcatrazcitycruises.com/tickets/' },
+    { id: 'tram-ps', titolo: 'Palm Springs Aerial Tramway, biglietti', url: 'https://pstramway.com/tickets/' },
+    { id: 'getty', titolo: 'Getty Center, visita', url: 'https://www.getty.edu/visit/center/' },
+    { id: 'getty-villa', titolo: 'Getty Villa, visita', url: 'https://www.getty.edu/visit/villa/' },
+    { id: 'griffith', titolo: 'Griffith Observatory, visita', url: 'https://griffithobservatory.lacity.gov/visit/' },
+    { id: 'wb', titolo: 'Warner Bros. Studio Tour Hollywood', url: 'https://www.wbstudiotour.com/' },
+    { id: 'gcm', titolo: 'Grand Central Market', url: 'https://www.grandcentralmarket.com/' },
+    { id: 'hearst', titolo: 'Hearst Castle, Grand Rooms Tour', url: 'https://hearstcastle.org/tours/grand-rooms-tour/' },
+    { id: 'hwy1', titolo: 'Caltrans, Highway 1', url: 'https://roads.dot.ca.gov/roadscell.php?roadnumber=1' },
+    { id: 'lobos', titolo: 'California State Parks, Point Lobos', url: 'https://www.parks.ca.gov/?page_id=571' },
+    { id: 'aquarium', titolo: 'Monterey Bay Aquarium, visita', url: 'https://www.montereybayaquarium.org/visit' },
+    { id: 'oasis', titolo: 'The Oasis at Death Valley', url: 'https://www.oasisatdeathvalley.com/' },
+    { id: 'zsfg', titolo: 'Zuckerberg San Francisco General', url: 'https://zuckerbergsanfranciscogeneral.org/' },
+    { id: 'kaweah', titolo: 'Kaweah Health', url: 'https://www.kaweahhealth.org/' },
+    { id: 'sihd', titolo: 'Southern Inyo Healthcare District', url: 'https://www.sihd.org/' },
+    { id: 'desert', titolo: 'Wikipedia, Desert Regional Medical Center', url: 'https://en.wikipedia.org/wiki/Desert_Regional_Medical_Center' },
+    { id: 'cedars', titolo: 'Wikipedia, Cedars-Sinai Medical Center', url: 'https://en.wikipedia.org/wiki/Cedars-Sinai_Medical_Center' },
+    { id: 'chomp', titolo: 'Wikipedia, Community Hospital of the Monterey Peninsula', url: 'https://en.wikipedia.org/wiki/Community_Hospital_of_the_Monterey_Peninsula' },
+    { id: 'osm', titolo: 'OpenStreetMap / Nominatim (coordinate)', url: 'https://nominatim.openstreetmap.org' },
+    { id: 'osrm', titolo: 'OSRM su dati OpenStreetMap', url: 'https://router.project-osrm.org' },
+  ],
+}

@@ -75,29 +75,42 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
     const r = svg.getBoundingClientRect()
     if (!r.width) return
     const k = Math.max(vb[2] / r.width, vb[3] / r.height) // unità mappa per pixel schermo
-    const presi: [number, number, number, number][] = []
+    type Box = [number, number, number, number]
+    const sovrapposti = (p: Box, q: Box) => !(p[2] < q[0] || p[0] > q[2] || p[3] < q[1] || p[1] > q[3])
     const pins = Array.from(svg.querySelectorAll<SVGGElement>('[data-pin]'))
-    // prima il selezionato, poi le destinazioni in ordine: le etichette che non ci stanno spariscono
-    pins.sort((a, b) => Number(b.dataset.sel === '1') - Number(a.dataset.sel === '1'))
-    for (const g of pins) {
+    // prima passata: posizione dei pin e il loro ingombro sullo schermo, così le etichette non li coprono
+    const punti = pins.map((g) => {
       const x = +g.dataset.x! + +g.dataset.dx! * k
       const y = +g.dataset.y! + +g.dataset.dy! * k
       g.setAttribute('transform', `translate(${x.toFixed(2)} ${y.toFixed(2)}) scale(${k.toFixed(4)})`)
+      const sx = (x - vb[0]) / k, sy = (y - vb[1]) / k // pixel schermo
+      const raggio = g.dataset.off === '1' ? 0 : 11
+      return { g, sx, sy, box: [sx - raggio, sy - raggio, sx + raggio, sy + raggio] as Box }
+    })
+    const presi: Box[] = []
+    // poi le etichette: prima il selezionato, poi le destinazioni in ordine; a destra se c'è posto,
+    // altrimenti a sinistra; se non ci stanno da nessuna parte spariscono
+    const ordine = [...punti].sort((a, b) => Number(b.g.dataset.sel === '1') - Number(a.g.dataset.sel === '1'))
+    for (const { g, sx, sy } of ordine) {
       const t = g.querySelector<SVGTextElement>('[data-etichetta]')
       if (!t) continue
-      const sx = (x - vb[0]) / k, sy = (y - vb[1]) / k // pixel schermo
       const lw = t.textContent!.length * LARGH_CAR
       const D = DX_ETICHETTA
-      const aSinistra = sx + D + lw > r.width - 4 && sx - D - lw >= 4
-      const nonCi = sx + D + lw > r.width - 4 && !aSinistra // né a destra né a sinistra: niente etichetta
-      t.setAttribute('x', String(aSinistra ? -D : D))
-      t.setAttribute('text-anchor', aSinistra ? 'end' : 'start')
-      const box: [number, number, number, number] = aSinistra ? [sx - D - lw, sy - 9, sx - D + 4, sy + 9] : [sx + D - 4, sy - 9, sx + D + lw, sy + 9]
+      const destra: Box = [sx + D - 4, sy - 9, sx + D + lw, sy + 9]
+      const sinistra: Box = [sx - D - lw, sy - 9, sx - D + 4, sy + 9]
+      const libera = (box: Box) =>
+        box[0] >= 4 && box[2] <= r.width - 4 &&
+        presi.every((q) => !sovrapposti(box, q)) &&
+        punti.every((p) => p.g === g || !sovrapposti(box, p.box))
+      const sel = g.dataset.sel === '1'
+      const lato = libera(destra) ? 'destra' : libera(sinistra) ? 'sinistra' : sel ? (sx + D + lw <= r.width - 4 ? 'destra' : 'sinistra') : null
       const dentro = sx > -20 && sx < r.width + 20 && sy > -20 && sy < r.height + 20
-      const libero = presi.every(([a, b, c, d]) => box[2] < a || box[0] > c || box[3] < b || box[1] > d)
-      const mostra = g.dataset.off !== '1' && dentro && !nonCi && (g.dataset.sel === '1' || libero)
+      const mostra = g.dataset.off !== '1' && dentro && lato !== null
       t.style.display = mostra ? '' : 'none'
-      if (mostra) presi.push(box)
+      if (!mostra) continue
+      t.setAttribute('x', String(lato === 'sinistra' ? -D : D))
+      t.setAttribute('text-anchor', lato === 'sinistra' ? 'end' : 'start')
+      presi.push(lato === 'sinistra' ? sinistra : destra)
     }
   }, [])
 

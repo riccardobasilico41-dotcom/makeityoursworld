@@ -1,0 +1,675 @@
+import type { Guida } from './types'
+
+/**
+ * Guida PDF «Egitto completo in 21 giorni». Il racconto e i prezzi vengono da
+ * src/content/viaggi/72-egitto-completo.md, che li ha verificati il 30/10/2026 sulla
+ * biglietteria ufficiale egymonuments.com (GEM: comunicati sul prezzo dal 1/11/2026).
+ * Le parti di Paese (ingresso, emergenze, ambasciata, consolati, ospedali, frasario)
+ * sono copiate dalla guida egitto-mare-luxor-cairo: Viaggiare Sicuri (21/07/2026) e
+ * Foreign Office britannico, consultati il 2/11/2026.
+ *
+ * Distanze e tempi: router OSRM su dati OpenStreetMap, traffico libero.
+ * Coordinate: OpenStreetMap (geocoder Photon).
+ */
+
+export const guidaEgittoCompleto: Guida = {
+  slug: 'egitto-completo',
+  tripSlug: 'egitto-completo',
+  paese: 'Egitto',
+  titolo: 'Egitto completo in 21 giorni',
+  sottotitolo: 'Le tre necropoli delle piramidi, l\'oasi di Siwa, Abu Simbel, tre notti di crociera sul Nilo, Luxor e le immersioni a Marsa Alam. Giorno per giorno, con prezzi dei siti e contatti utili.',
+  autore: 'Rick',
+  verificatoAl: 'novembre 2026',
+  intro: [
+    'Questo è il giro lungo, fatto con amici in autonomia: autisti privati, un fuoristrada con operatore autorizzato a Siwa, un volo interno, tre notti di crociera da Assuan a Luxor e un centro diving sul Mar Rosso. L\'ordine limita i ritorni: prima il Cairo, poi il deserto occidentale fino a Siwa e ritorno, quindi l\'Alto Egitto scendendo il Nilo, e alla fine il mare, da cui si rientra in Italia.',
+    'Qui trovi per ogni giorno strade e chilometri, i biglietti dei siti al prezzo della biglietteria ufficiale, le coordinate, poi visto, permessi per il deserto, soldi, truffe comuni, regole per le immersioni, numeri di emergenza, Ambasciata al Cairo e consolati onorari.',
+    'I prezzi per i turisti stranieri in Egitto sono cambiati più volte dal 2024. Quelli che trovi sono di fine ottobre 2026: prima di partire ricontrollali su egymonuments.com.',
+  ],
+  cosaInPiu: [
+    'Una scheda per giorno con chilometri, tempi di guida, biglietti e coordinate GPS',
+    'I prezzi dei siti dalla biglietteria ufficiale, Siwa e Abu Simbel compresi',
+    'Come funzionano i posti di blocco e il permesso per il Grande Mare di Sabbia',
+    'Crociera classica o dahabiya, e i brevetti che servono per i siti di immersione',
+    'Le truffe più comuni a Giza e a Luxor e come evitarle',
+    'Numeri di emergenza, Ambasciata al Cairo, consolati onorari, Ospedale Italiano',
+    'Lista per la valigia e frasario in arabo egiziano',
+  ],
+  tappe: [
+    { nome: 'Cairo · Giza', gps: [29.97916, 31.13421], giorno: 'G1-G4, G9', etichetta: 'destra' },
+    { nome: 'Alessandria', gps: [31.20866, 29.90893], giorno: 'G5', etichetta: 'sopra' },
+    { nome: 'Marsa Matruh', gps: [31.35286, 27.23953], giorno: 'G5', etichetta: 'sopra' },
+    { nome: 'Siwa', gps: [29.20347, 25.51923], giorno: 'G6-G8', etichetta: 'destra' },
+    { nome: 'Assuan', gps: [24.09107, 32.89731], giorno: 'G10-G12', etichetta: 'destra' },
+    { nome: 'Abu Simbel', gps: [22.33712, 31.6258], giorno: 'G11', etichetta: 'sinistra' },
+    { nome: 'Kom Ombo', gps: [24.45207, 32.92841], giorno: 'G13', etichetta: 'destra' },
+    { nome: 'Edfu', gps: [24.97722, 32.87249], giorno: 'G13', etichetta: 'destra' },
+    { nome: 'Luxor', gps: [25.69953, 32.63907], giorno: 'G14-G17', etichetta: 'sinistra' },
+    { nome: 'Marsa Alam', gps: [25.06999, 34.89382], giorno: 'G18-G21', etichetta: 'destra' },
+  ],
+  giorni: [
+    {
+      numero: 1,
+      titolo: 'Arrivo al Cairo, notte a Giza',
+      paginaSito: '/destinazioni/egitto/cairo',
+      racconto:
+        'Siamo atterrati al Cairo, abbiamo comprato il visto allo sportello prima dei controlli (chi ha l\'e-visa salta questo passaggio) e siamo andati in Uber a Giza, dove conviene dormire le prime tre notti: si è a pochi minuti dalle piramidi, dal Grand Egyptian Museum e dalla strada per Saqqara. La sera c\'è lo spettacolo di suoni e luci davanti alla Sfinge, visibile anche da molte terrazze.',
+      tratte: [{ da: 'Aeroporto del Cairo (CAI)', a: 'Giza, piramidi', km: 42, minuti: 46, mezzo: 'Uber o transfer', nelMioViaggio: '45-75 minuti secondo il traffico' }],
+      luoghi: [
+        {
+          nome: 'Aeroporto internazionale del Cairo (CAI)',
+          gps: [30.11405, 31.42455],
+          nota: 'Visto all\'arrivo allo sportello prima dei controlli. SIM o eSIM negli arrivi, con il passaporto.',
+          fonti: ['osm', 'articolo'],
+        },
+      ],
+      mangiare: [],
+      dormire: 'Giza, notti 1-3. Fascia indicativa del mio articolo: guesthouse con terrazza sulle piramidi 30-50 €, boutique hotel vicino al GEM 70-120 €, Marriott Mena House per il lusso.',
+      costiNoti: ['Visto all\'arrivo: 30 $'],
+    },
+    {
+      numero: 2,
+      titolo: 'Giza e il Grand Egyptian Museum',
+      paginaSito: '/destinazioni/egitto/piramidi',
+      racconto:
+        'L\'altopiano apre alle 7 ed è l\'unico momento senza gruppi e senza caldo. Con il bus elettrico interno abbiamo fatto la Grande Piramide, il punto panoramico delle nove piramidi e la Sfinge con il tempio a valle di Chefren. L\'interno di Cheope si paga a parte e vale per il corridoio e la Grande Galleria. Il pomeriggio al Grand Egyptian Museum, con l\'intero corredo di Tutankhamon e la scalinata delle statue colossali: servono almeno quattro ore.',
+      tratte: [{ da: 'Piramidi di Giza', a: 'Grand Egyptian Museum', km: 6, minuti: 9 }],
+      luoghi: [
+        {
+          nome: 'Altopiano di Giza',
+          orari: 'Apertura alle 07:00',
+          biglietto: '700 EGP; interno della Grande Piramide circa 1.500 EGP a parte',
+          web: 'egymonuments.com',
+          gps: [29.97916, 31.13421],
+          nota: 'Sull\'altopiano non c\'è ombra: acqua, cappello e crema. Per cammelli e cavalli concorda prima prezzo totale, durata e percorso, o usa il bus interno.',
+          fonti: ['egymon', 'osm'],
+        },
+        {
+          nome: 'Grand Egyptian Museum (GEM)',
+          biglietto: '1.830 EGP (circa 35 $) dal 1° novembre 2026, solo con prenotazione online a fascia oraria',
+          gps: [29.99458, 31.11907],
+          fonti: ['articolo', 'osm'],
+        },
+      ],
+      mangiare: [],
+      dormire: 'Giza.',
+      costiNoti: ['Giza: 700 EGP', 'Grande Piramide: circa 1.500 EGP', 'GEM: 1.830 EGP'],
+    },
+    {
+      numero: 3,
+      titolo: 'Saqqara, Dahshur e Menfi',
+      paginaSito: '/destinazioni/egitto/piramidi',
+      racconto:
+        'Giornata con un autista verso sud. A Saqqara la piramide a gradoni di Djoser, la prima grande costruzione in pietra, e le mastabe dell\'Antico Regno con scene di caccia, pesca e mercati; il Serapeum con i sarcofagi dei tori sacri. A Dahshur, quasi deserta, la Romboidale con il cambio di pendenza e la Rossa, dove si scende per un corridoio di sessanta metri. Al ritorno una sosta breve a Menfi, con il colosso sdraiato di Ramses II.',
+      tratte: [
+        { da: 'Giza', a: 'Saqqara (Djoser)', km: 20, minuti: 30 },
+        { da: 'Saqqara', a: 'Dahshur (piramide Rossa)', km: 11, minuti: 23 },
+        { da: 'Dahshur', a: 'Menfi (Mit Rahina)', km: 10, minuti: 19 },
+        { da: 'Menfi', a: 'Giza', km: 22, minuti: 29 },
+      ],
+      luoghi: [
+        { nome: 'Saqqara, piramide di Djoser', biglietto: '600 EGP', gps: [29.8712, 31.21657], fonti: ['egymon', 'osm'] },
+        { nome: 'Dahshur, piramide Rossa e Romboidale', biglietto: '200 EGP', gps: [29.80855, 31.20624], fonti: ['egymon', 'osm'] },
+        { nome: 'Menfi, colosso di Ramses II', biglietto: '200 EGP', gps: [29.84943, 31.25435], fonti: ['egymon', 'osm'] },
+      ],
+      mangiare: [],
+      dormire: 'Giza.',
+      costiNoti: ['Autista per la giornata: 30-50 $ a veicolo'],
+      nota: 'Si pranza in uno dei ristoranti di campagna sulla strada per Saqqara.',
+    },
+    {
+      numero: 4,
+      titolo: 'Cairo islamico e Museo Egizio',
+      paginaSito: '/destinazioni/egitto/cairo',
+      racconto:
+        'Qui abbiamo cambiato base, a Zamalek o in centro. La mattina il Cairo islamico: la Cittadella con la moschea di Muhammad Ali, la moschea di Ibn Tulun, la più antica intatta della città, il complesso del sultano Hassan e la via al-Muizz fino al Khan el-Khalili. Chi preferisce il Cairo copto va in metro fino a Mar Girgis. Il pomeriggio al Museo Egizio di piazza Tahrir, ancora pieno di capolavori dopo il trasloco di Tutankhamon. La sera tè al caffè El Fishawy.',
+      tratte: [
+        { da: 'Giza', a: 'Cittadella', km: 17, minuti: 24 },
+        { da: 'Cittadella', a: 'Museo Egizio (Tahrir)', km: 5, minuti: 8 },
+      ],
+      luoghi: [
+        { nome: 'Cittadella di Saladino', biglietto: '550 EGP', gps: [30.0293, 31.26158], nota: 'Spalle e ginocchia coperte, foulard per le donne nelle moschee. Scarpe tolte all\'ingresso, mancia al custode delle scarpe.', fonti: ['egymon', 'osm'] },
+        { nome: 'Moschea di Ibn Tulun', gps: [30.02871, 31.25025], fonti: ['osm'] },
+        { nome: 'Moschea-madrasa del sultano Hassan', gps: [30.03241, 31.25624], fonti: ['osm'] },
+        { nome: 'Chiesa Sospesa (Cairo copto)', gps: [30.00526, 31.23003], nota: 'Metro fino a Mar Girgis.', fonti: ['osm', 'articolo'] },
+        { nome: 'Museo Egizio di piazza Tahrir', biglietto: '550 EGP', gps: [30.04797, 31.23361], fonti: ['egymon', 'osm'] },
+        { nome: 'Khan el-Khalili', gps: [30.04774, 31.26151], nota: 'Si tratta sempre.', fonti: ['osm'] },
+      ],
+      mangiare: [],
+      dormire: 'Cairo: Downtown 30-50 €, Zamalek 70-120 €, grandi hotel sul Nilo a Garden City per il lusso.',
+      costiNoti: ['Cittadella: 550 EGP', 'Museo Egizio: 550 EGP'],
+      nota: 'Domani si parte all\'alba: valigia pronta la sera.',
+    },
+    {
+      numero: 5,
+      titolo: 'Verso ovest: Alessandria ed El Alamein',
+      racconto:
+        'Primo tratto verso Siwa in auto con autista. Ad Alessandria mezza giornata: la Bibliotheca Alexandrina, le catacombe di Kom el-Shoqafa e la cittadella di Qaitbay sul luogo del Faro. Poi la strada costiera per El Alamein, con i sacrari militari e il museo della battaglia, e Marsa Matruh in serata. Sono circa otto ore con le soste. Il bus notturno diretto per Siwa farebbe risparmiare un giorno, ma viaggia col buio.',
+      tratte: [
+        { da: 'Cairo', a: 'Alessandria', km: 220, minuti: 145, nelMioViaggio: 'tre ore' },
+        { da: 'Alessandria', a: 'El Alamein', km: 114, minuti: 95 },
+        { da: 'El Alamein', a: 'Marsa Matruh', km: 183, minuti: 147, nelMioViaggio: 'in tutto circa 8 ore con le soste' },
+      ],
+      luoghi: [
+        { nome: 'Bibliotheca Alexandrina', biglietto: 'Circa 200 EGP (non sulla biglietteria online)', gps: [31.20866, 29.90893], fonti: ['articolo', 'osm'] },
+        { nome: 'Catacombe di Kom el-Shoqafa', biglietto: '200 EGP', gps: [31.17839, 29.89305], fonti: ['egymon', 'osm'] },
+        { nome: 'Cittadella di Qaitbay', gps: [31.21368, 29.88541], fonti: ['osm'] },
+        { nome: 'El Alamein, museo militare', gps: [30.84159, 28.94296], nota: 'Il sacrario militare italiano è a ingresso libero.', fonti: ['osm', 'articolo'] },
+      ],
+      mangiare: [],
+      dormire: 'Marsa Matruh, hotel sul lungomare (40-80 € nella fascia del mio articolo).',
+      costiNoti: ['Auto con autista Cairo-Siwa e ritorno: 250-400 $ in tutto'],
+      nota: 'Viaggiare Sicuri raccomanda di non muoversi su strada di notte: per questo il viaggio è spezzato in due giorni, sempre con la luce.',
+    },
+    {
+      numero: 6,
+      titolo: 'Da Marsa Matruh a Siwa',
+      paginaSito: '/destinazioni/egitto/siwa',
+      racconto:
+        'Altre quattro ore verso sud-ovest, in un deserto piatto e vuoto, con un paio di posti di blocco militari dove si consegnano i passaporti. Siamo arrivati a Siwa per pranzo. Il pomeriggio in bicicletta tra i palmeti e al tramonto sulla fortezza di Shali, il vecchio centro in kershef, un impasto di fango e sale che le piogge del 1926 hanno in parte sciolto. La sera abbiamo dato il passaporto all\'operatore per il permesso del deserto.',
+      tratte: [{ da: 'Marsa Matruh', a: 'Siwa', km: 308, minuti: 226, nelMioViaggio: 'circa 4 ore con i posti di blocco' }],
+      luoghi: [
+        { nome: 'Fortezza di Shali', biglietto: 'Economico, senza prezzo sulla biglietteria online', gps: [29.20107, 25.51838], fonti: ['articolo', 'osm'] },
+      ],
+      mangiare: [],
+      dormire: 'Siwa, notti 6-8: piccoli hotel in centro 20-40 €, eco-lodge in stile siwano 60-120 €, Adrère Amellal per il lusso, senza elettricità.',
+      costiNoti: ['Biciclette a noleggio: pochi euro al giorno'],
+      nota: 'Arriva con i contanti per tutto il soggiorno: a Siwa poche strutture accettano carte e gli ATM sono pochi, a volte vuoti.',
+    },
+    {
+      numero: 7,
+      titolo: 'Siwa: l\'Oracolo, la montagna dei morti, le sorgenti',
+      paginaSito: '/destinazioni/egitto/siwa',
+      racconto:
+        'Giornata nell\'oasi. Al mattino il tempio dell\'Oracolo di Amon ad Aghurmi, dove nel 331 a.C. Alessandro Magno fu riconosciuto figlio del dio, e poco lontano i resti di Umm Ubayda. Poi Gebel al-Mawta, con tombe tolemaiche e romane, alcune ancora dipinte. Il pomeriggio il bagno nella sorgente di Cleopatra e al tramonto i laghi salati, dove si galleggia come nel Mar Morto.',
+      tratte: [],
+      senzaStrada: 'Tutto entro pochi chilometri dal centro: tuk-tuk o carretto per la giornata, prezzo da concordare.',
+      luoghi: [
+        { nome: 'Tempio dell\'Oracolo, Aghurmi', biglietto: '120 EGP', gps: [29.20484, 25.54239], nota: 'Coordinate del villaggio di Aghurmi: il tempio è sulla rupe del villaggio.', fonti: ['egymon', 'osm'] },
+        { nome: 'Gebel al-Mawta', biglietto: '120 EGP', gps: [29.21144, 25.52513], fonti: ['egymon', 'osm'] },
+        { nome: 'Sorgente di Cleopatra', gps: [29.19699, 25.5502], nota: 'Siwa è conservatrice: ci si bagna con maglietta e pantaloncini sopra il costume.', fonti: ['osm', 'articolo'] },
+      ],
+      mangiare: [],
+      dormire: 'Siwa.',
+    },
+    {
+      numero: 8,
+      titolo: 'Il Grande Mare di Sabbia',
+      paginaSito: '/destinazioni/egitto/siwa',
+      racconto:
+        'L\'uscita in fuoristrada è il motivo per cui si viene fin qui. Siamo partiti nel primo pomeriggio con un operatore autorizzato, tra dune alte decine di metri, con soste alle sorgenti calde e fredde in mezzo alla sabbia, sandboarding e tramonto dalla cresta di una duna. Chi vuole dorme in un campo tendato, con cena e fuoco.',
+      tratte: [],
+      senzaStrada: 'Fuoristrada dell\'operatore, con il permesso ottenuto la sera prima.',
+      luoghi: [],
+      mangiare: [],
+      dormire: 'Siwa o campo tendato nel deserto.',
+      costiNoti: ['Mezza giornata: 20-35 $ a persona, permesso incluso', 'Notte nel deserto: 50-90 $ a persona con cena e colazione'],
+      nota: 'Viaggiare Sicuri sconsiglia le escursioni fuori dalle zone turistiche e le aree vicine al confine libico: nel deserto solo con operatori autorizzati e di giorno. D\'inverno di notte si va vicino a 0 °C.',
+    },
+    {
+      numero: 9,
+      titolo: 'Rientro al Cairo',
+      paginaSito: '/destinazioni/egitto/cairo',
+      racconto:
+        'Giornata di trasferimento, otto-dieci ore di strada fino al Cairo, di nuovo per Marsa Matruh o per la strada interna più diretta, secondo l\'autista. Siamo partiti presto per arrivare prima del buio e abbiamo dormito vicino all\'aeroporto, comodi per il volo del mattino.',
+      tratte: [
+        { da: 'Siwa', a: 'Marsa Matruh', km: 309, minuti: 227 },
+        { da: 'Marsa Matruh', a: 'Aeroporto del Cairo', km: 477, minuti: 328, nelMioViaggio: 'in tutto 8-10 ore con le soste' },
+      ],
+      luoghi: [],
+      mangiare: [],
+      dormire: 'Cairo, Heliopolis o vicino all\'aeroporto (50-90 € nella fascia del mio articolo).',
+    },
+    {
+      numero: 10,
+      titolo: 'Volo per Assuan, feluca al tramonto',
+      paginaSito: '/destinazioni/egitto/assuan-abu-simbel',
+      racconto:
+        'Volo del mattino per Assuan, un\'ora e venticinque. Assuan è la città più tranquilla dell\'Alto Egitto, con il Nilo stretto tra isole di granito e dune. Il pomeriggio al Museo nubiano e verso le 16 in feluca intorno all\'isola Elefantina e all\'isola Kitchener, con il giardino botanico, fino al tramonto sulle tombe dei nobili.',
+      tratte: [
+        { da: 'Cairo (CAI)', a: 'Assuan (ASW)', km: 680, minuti: 85, mezzo: 'volo EgyptAir', nelMioViaggio: '1 ora e 25' },
+        { da: 'Aeroporto di Assuan', a: 'Museo nubiano', km: 20, minuti: 23 },
+      ],
+      luoghi: [
+        { nome: 'Museo nubiano', biglietto: '400 EGP', gps: [24.07949, 32.88915], fonti: ['egymon', 'osm'] },
+      ],
+      mangiare: [],
+      dormire: 'Assuan, notti 10-11: guesthouse nubiane sull\'isola Elefantina 25-45 €, hotel sulla Corniche 60-110 €, Old Cataract per il lusso.',
+      costiNoti: ['Volo Cairo-Assuan: 70-140 €', 'Feluca: 300-600 EGP l\'ora a barca, da concordare prima'],
+      nota: 'Alternativa al volo: treno notte con cabine letto di Abela Trains da Giza o da Cairo Upper Egypt (Bashtil), 13-14 ore, 110-125 $ a persona in doppia, cena e colazione comprese (abelatrains.com).',
+    },
+    {
+      numero: 11,
+      titolo: 'Abu Simbel all\'alba',
+      paginaSito: '/destinazioni/egitto/assuan-abu-simbel',
+      racconto:
+        'Sveglia alle 3, minivan alle 4 e tre ore e mezza di deserto nubiano. I due templi, quello grande di Ramses II con le quattro statue colossali e quello di Nefertari, furono tagliati in blocchi e ricostruiti 65 metri più in alto tra il 1964 e il 1968, quando la diga creò il lago Nasser. Arrivare presto vuol dire luce del mattino e niente gruppi delle 9. Rientro ad Assuan nel primo pomeriggio.',
+      tratte: [{ da: 'Assuan', a: 'Abu Simbel', km: 281, minuti: 203, mezzo: 'minivan', nelMioViaggio: '3-3,5 ore per tratta' }],
+      luoghi: [
+        { nome: 'Templi di Abu Simbel', biglietto: '822 EGP; 1.272 EGP il 22 febbraio e il 22 ottobre, giorni del fenomeno solare', gps: [22.33712, 31.6258], fonti: ['egymon', 'osm'] },
+      ],
+      mangiare: [],
+      dormire: 'Assuan.',
+      costiNoti: ['Minivan condiviso: 20-35 $ a persona', 'Auto privata: 100-150 $ a veicolo'],
+      nota: 'Colazione al sacco dall\'hotel: lungo la strada c\'è un solo punto di sosta. Chi non vuole sette ore di strada prende il volo EgyptAir di 45 minuti.',
+    },
+    {
+      numero: 12,
+      titolo: 'Philae e l\'imbarco sulla crociera',
+      paginaSito: '/destinazioni/egitto/assuan-abu-simbel',
+      racconto:
+        'La mattina il tempio di Philae, dedicato a Iside e anche lui spostato su un\'isola più alta; si arriva in barca dal molo di Shellal. Lungo la strada la diga alta e l\'obelisco incompiuto, rimasto nella cava perché si era crepato. Nel primo pomeriggio ci siamo imbarcati sulla nave, ormeggiata lungo la Corniche: la prima notte resta ferma ad Assuan.',
+      tratte: [{ da: 'Obelisco incompiuto', a: 'Molo per Philae', km: 7, minuti: 9 }],
+      luoghi: [
+        { nome: 'Tempio di Philae', biglietto: '550 EGP più la barca (300-500 EGP a barca)', gps: [24.02525, 32.88419], nota: 'Biglietteria e imbarco al molo.', fonti: ['egymon', 'articolo', 'osm'] },
+        { nome: 'Obelisco incompiuto', gps: [24.07691, 32.89541], fonti: ['osm'] },
+        { nome: 'Diga alta di Assuan', gps: [23.97041, 32.8749], fonti: ['osm'] },
+      ],
+      mangiare: [],
+      dormire: 'Nave da crociera, ormeggiata ad Assuan.',
+      costiNoti: ['Crociera Assuan-Luxor 3 notti: 400-1.000 $ a persona secondo la nave'],
+      nota: 'Prima di prenotare chiedi cosa è incluso: ingressi, guida, bevande, mance. Le offerte last minute dei procacciatori al porto spesso nascondono navi vecchie o ingressi esclusi.',
+    },
+    {
+      numero: 13,
+      titolo: 'Crociera: Kom Ombo ed Edfu',
+      racconto:
+        'La nave è salpata all\'alba verso nord. A metà mattina Kom Ombo, l\'unico tempio doppio d\'Egitto, per Sobek, il dio coccodrillo, e per Horus, con il piccolo museo delle mummie di coccodrillo. Nel pomeriggio Edfu, il tempio di Horus, il meglio conservato del Paese. Le navi attraccano tutte alla stessa ora: chi scende per primo trova meno gente.',
+      tratte: [],
+      senzaStrada: 'In nave sul Nilo: Assuan-Kom Ombo-Edfu, circa 115 km (la stessa tratta su strada è di 114 km, 1 ora e mezza).',
+      luoghi: [
+        { nome: 'Tempio di Kom Ombo', biglietto: '450 EGP, spesso incluso nel pacchetto', gps: [24.45207, 32.92841], fonti: ['egymon', 'osm'] },
+        { nome: 'Tempio di Horus a Edfu', biglietto: '550 EGP, spesso incluso nel pacchetto', gps: [24.97722, 32.87249], nota: 'Al tempio si va in calesse: prezzo fissato dalla nave, mancia a parte.', fonti: ['egymon', 'osm'] },
+      ],
+      mangiare: [],
+      dormire: 'Nave da crociera.',
+      nota: 'Sul ponte la sera fa fresco anche a ottobre.',
+    },
+    {
+      numero: 14,
+      titolo: 'Esna, Karnak e il tempio di Luxor',
+      paginaSito: '/destinazioni/egitto/luxor',
+      racconto:
+        'La nave è passata per la chiusa di Esna, dove a volte i venditori lanciano tovaglie e galabeye dalle barche fino al ponte. Siamo arrivati a Luxor a fine mattinata. Il pomeriggio Karnak, con la sala ipostila di 134 colonne e il lago sacro, e al tramonto il tempio di Luxor, collegato a Karnak dal viale delle sfingi riaperto nel 2021.',
+      tratte: [],
+      senzaStrada: 'In nave: Edfu-Esna-Luxor, circa 125 km (su strada 126 km, 1 ora e tre quarti). A Luxor si va a piedi o in Uber.',
+      luoghi: [
+        { nome: 'Karnak', biglietto: '600 EGP', gps: [25.71969, 32.65273], fonti: ['egymon', 'osm'] },
+        { nome: 'Tempio di Luxor', orari: 'Aperto fino a sera, più bello illuminato', biglietto: '500 EGP', gps: [25.69953, 32.63907], fonti: ['egymon', 'osm'] },
+      ],
+      mangiare: [],
+      dormire: 'Nave da crociera, ormeggiata a Luxor: ultima notte a bordo.',
+      costiNoti: ['Karnak: 600 EGP', 'Tempio di Luxor: 500 EGP'],
+    },
+    {
+      numero: 15,
+      titolo: 'Riva ovest: Valle dei Re, Hatshepsut, Valle delle Regine',
+      paginaSito: '/destinazioni/egitto/luxor',
+      racconto:
+        'Sbarcati, all\'alba eravamo già sulla riva ovest. La Valle dei Re con il biglietto base di tre tombe, più Tutankhamon o Seti I per chi vuole spendere; il tempio a terrazze di Hatshepsut sotto la montagna; e la Valle delle Regine, dove la tomba di Nefertari ha un biglietto a parte ma nel 2026 risulta spesso chiusa. Abbiamo dormito sulla riva ovest, tra i campi di canna da zucchero.',
+      tratte: [{ da: 'Tempio di Luxor (riva est)', a: 'Valle dei Re', km: 17, minuti: 25, mezzo: 'auto con autista' }],
+      luoghi: [
+        { nome: 'Valle dei Re', biglietto: '750 EGP con 3 tombe; Tutankhamon circa 700 EGP, Seti I circa 2.000 EGP', gps: [25.74049, 32.60176], nota: 'I biglietti di Tutankhamon e Seti I si comprano all\'ingresso della valle. Una guida abilitata sa quali tombe sono aperte quel giorno.', fonti: ['egymon', 'articolo', 'osm'] },
+        { nome: 'Tempio di Hatshepsut (Deir el-Bahari)', biglietto: '440 EGP', gps: [25.73784, 32.60767], fonti: ['egymon', 'osm'] },
+        { nome: 'Valle delle Regine', biglietto: '220 EGP; Nefertari a parte, se aperta', gps: [25.72772, 32.59276], nota: 'Verifica sul posto o con un\'agenzia di Luxor se la tomba di Nefertari è aperta.', fonti: ['egymon', 'osm'] },
+      ],
+      mangiare: [],
+      dormire: 'Luxor, riva ovest, notti 15-17: guesthouse tra i campi 25-40 €, piccoli hotel con piscina 50-90 €, Al Moudira per il lusso.',
+      costiNoti: ['Auto con autista per la riva ovest: 25-40 $'],
+    },
+    {
+      numero: 16,
+      titolo: 'Mongolfiera, Medinet Habu, Deir el-Medina',
+      paginaSito: '/destinazioni/egitto/luxor',
+      racconto:
+        'All\'alba il volo in mongolfiera, una quarantina di minuti sopra templi e villaggi. Poi i siti meno affollati della necropoli tebana: Medinet Habu, il tempio di Ramses III con rilievi ancora rossi e blu; Deir el-Medina, il villaggio degli operai delle tombe reali, con le loro piccole tombe dipinte; il Ramesseum e le tombe dei nobili. Pomeriggio libero in piscina.',
+      tratte: [],
+      senzaStrada: 'Tutto sulla riva ovest, a pochi chilometri dall\'alloggio: auto con autista o bicicletta.',
+      luoghi: [
+        { nome: 'Medinet Habu', biglietto: '220 EGP', gps: [25.71768, 32.60224], fonti: ['egymon', 'osm'] },
+        { nome: 'Deir el-Medina', biglietto: 'Circa 200-300 EGP (non sulla biglietteria online)', gps: [25.72838, 32.60104], fonti: ['articolo', 'osm'] },
+        { nome: 'Ramesseum', gps: [25.72805, 32.61], fonti: ['osm'] },
+      ],
+      mangiare: [],
+      dormire: 'Luxor, riva ovest.',
+      costiNoti: ['Mongolfiera: 50-100 $ a persona'],
+      nota: 'Con vento forte i voli in mongolfiera si annullano: prenotala per il primo giorno utile. Scegli una compagnia seria, non la più economica.',
+    },
+    {
+      numero: 17,
+      titolo: 'Gita a Dendera e Abydos',
+      paginaSito: '/destinazioni/egitto/luxor',
+      racconto:
+        'Ultimo giorno a Luxor, con una gita a nord. Dendera, a un\'ora e mezza, ha il tempio di Hathor con il soffitto astronomico ripulito e coloratissimo e le cripte decorate. Abydos ha il tempio di Seti I, con i rilievi più raffinati del Nuovo Regno e la lista dei re. Con l\'intera giornata e un autista si fanno entrambe; la sera siamo rientrati a Luxor.',
+      tratte: [
+        { da: 'Luxor', a: 'Dendera', km: 75, minuti: 58, nelMioViaggio: 'un\'ora e mezza' },
+        { da: 'Dendera', a: 'Abydos', km: 103, minuti: 87 },
+        { da: 'Abydos', a: 'Luxor', km: 169, minuti: 131, nelMioViaggio: 'tre ore' },
+      ],
+      luoghi: [
+        { nome: 'Tempio di Hathor a Dendera', biglietto: '300 EGP', gps: [26.14194, 32.67023], fonti: ['egymon', 'osm'] },
+        { nome: 'Tempio di Seti I ad Abydos', biglietto: '260 EGP', gps: [26.18484, 31.91942], fonti: ['egymon', 'osm'] },
+      ],
+      mangiare: [],
+      dormire: 'Luxor, riva ovest.',
+      costiNoti: ['Auto con autista per entrambe: 80-120 $'],
+      nota: 'La strada passa per posti di blocco: passaporto con sé.',
+    },
+    {
+      numero: 18,
+      titolo: 'Da Luxor a Marsa Alam',
+      paginaSito: '/destinazioni/egitto/mar-rosso',
+      racconto:
+        'Trasferimento sul Mar Rosso: prima lungo il Nilo fino a Edfu, poi il deserto orientale. Siamo arrivati a Marsa Alam nel primo pomeriggio e abbiamo fatto il check-in al centro diving con brevetti, logbook e assicurazione; c\'era ancora tempo per un\'immersione di prova o un primo snorkeling sul reef davanti al resort.',
+      tratte: [
+        { da: 'Luxor', a: 'Edfu', km: 111, minuti: 82 },
+        { da: 'Edfu', a: 'Marsa Alam', km: 225, minuti: 247, nelMioViaggio: 'in tutto 4-4,5 ore' },
+      ],
+      luoghi: [],
+      mangiare: [],
+      dormire: 'Marsa Alam, notti 18-20: resort con reef e diving interno 70-130 €; per i sub, eco-lodge come Wadi Lahami.',
+      costiNoti: ['Auto privata Luxor-Marsa Alam: 100-150 $ a veicolo'],
+      nota: 'Al diving porta brevetto, logbook, assicurazione subacquea e certificato medico se richiesto. I pacchetti da 6-10 immersioni costano meno delle singole.',
+    },
+    {
+      numero: 19,
+      titolo: 'Immersioni: Abu Dabbab e i reef della costa',
+      paginaSito: '/destinazioni/egitto/mar-rosso',
+      racconto:
+        'Due o tre immersioni sui reef della costa. Abu Dabbab è una baia sabbiosa con tartarughe verdi e, con fortuna, il dugongo sulle praterie; si fa anche da riva ed è adatta a ogni livello. Le uscite in barca vanno sui reef intorno a Marsa Alam e Port Ghalib, con pareti di corallo duro, napoleoni e murene. Con l\'Open Water si resta entro i 18 metri, e qui non si perde quasi nulla.',
+      tratte: [{ da: 'Marsa Alam', a: 'Abu Dabbab', km: 36, minuti: 29 }],
+      luoghi: [
+        { nome: 'Baia di Abu Dabbab', gps: [25.34314, 34.79354], fonti: ['osm'] },
+      ],
+      mangiare: [],
+      dormire: 'Marsa Alam.',
+      costiNoti: ['Immersione singola: 35-55 $', 'Pacchetto da 10 immersioni: 300-400 $', 'Attrezzatura completa: 20-30 $ al giorno', 'Nitrox: supplemento a immersione'],
+    },
+    {
+      numero: 20,
+      titolo: 'Elphinstone o Dolphin House',
+      paginaSito: '/destinazioni/egitto/mar-rosso',
+      racconto:
+        'Per i sub con brevetto Advanced ed esperienza, Elphinstone: un reef lungo e stretto in mare aperto, con correnti, pareti verticali e da ottobre a dicembre gli squali longimano. Per chi non si immerge, o vuole rispettare la pausa prima del volo, Dolphin House (Samadai), il reef a ferro di cavallo dei delfini spinner, a numero chiuso. Le ultime immersioni vanno fatte entro la mattina.',
+      tratte: [],
+      senzaStrada: 'Uscita in barca dal porto o dal pontile del centro diving.',
+      luoghi: [],
+      mangiare: [],
+      dormire: 'Marsa Alam.',
+      costiNoti: ['Dolphin House con pranzo: 40-60 $'],
+      nota: 'Tra l\'ultima immersione e il volo servono almeno 18-24 ore. Prima di immergerti chiedi al centro diving dov\'è la camera iperbarica più vicina: Viaggiare Sicuri lo raccomanda.',
+    },
+    {
+      numero: 21,
+      titolo: 'Rientro',
+      racconto: 'Transfer all\'aeroporto di Marsa Alam (o di Hurghada) e volo per l\'Italia.',
+      tratte: [{ da: 'Marsa Alam', a: 'Aeroporto di Marsa Alam (RMF)', km: 68, minuti: 52 }],
+      luoghi: [{ nome: 'Aeroporto di Marsa Alam (RMF)', gps: [25.55673, 34.58622], fonti: ['osm'] }],
+      mangiare: [],
+      dormire: 'Nessun pernottamento.',
+      nota: 'Arriva 3 ore prima: controlli all\'ingresso e al gate. Coralli, conchiglie e sabbia vengono sequestrati, le antichità vere sono vietate all\'esportazione. Spendi le ultime sterline.',
+    },
+  ],
+  mappa: {
+    percorso: ['Cairo', 'Alessandria', 'Marsa Matruh', 'Siwa'],
+    ritorno: ['Siwa', 'Cairo', 'Assuan', 'Abu Simbel', 'Assuan', 'Kom Ombo', 'Edfu', 'Luxor', 'Marsa Alam'],
+    legenda: 'Linea piena: andata nel deserto occidentale fino a Siwa. Tratteggio: rientro al Cairo, volo per Assuan, Abu Simbel, il Nilo in nave fino a Luxor e la strada per Marsa Alam. Coste e Nilo non disegnati.',
+    notaTempi: 'Tempi su strada stimati senza traffico (OSRM su OpenStreetMap). Al Cairo il traffico può raddoppiarli; nel deserto contano i posti di blocco.',
+    notaTempiFonti: ['osrm'],
+    scalaKm: 200,
+  },
+  primaDiPartire: [
+    {
+      titolo: 'Documenti, ingresso e permessi',
+      righe: [
+        { voce: 'Documento', valore: 'Passaporto con almeno 6 mesi di validità all\'arrivo. Per turismo vale anche la carta d\'identità elettronica valida per l\'espatrio, con più di 6 mesi residui e due fototessere, ma con posti di blocco, Siwa e crociera il passaporto è molto più pratico. Non valgono la CIE prorogata con il cedolino né il modello ATe.', fonti: ['vs', 'articolo'] },
+        { voce: 'Visto', valore: 'All\'arrivo in aeroporto, 30 $ dal 1° marzo 2026 (Viaggiare Sicuri riporta ancora 25 $), oppure e-visa sul portale ufficiale visa2egypt.gov.eg. Attento ai siti che lo imitano.', fonti: ['vs', 'articolo'] },
+        { voce: 'Posti di blocco', valore: 'Sulla strada per Siwa, per Abu Simbel e nell\'Alto Egitto ci sono posti di blocco che registrano i passaporti: tienilo sempre a portata di mano.', fonti: ['articolo'] },
+        { voce: 'Grande Mare di Sabbia', valore: 'Per uscire nelle dune e nelle zone verso il confine libico serve un permesso, che si ottiene tramite un operatore locale autorizzato, di solito in 24 ore: il passaporto va dato la sera prima.', fonti: ['articolo', 'vs'] },
+        { voce: 'Dogana', valore: 'Al massimo 1 bottiglia di alcolici e 1 stecca di sigarette (altre 3 si comprano entro 24 ore nei duty free autorizzati). Valuta straniera libera sotto i 10.000 $; al massimo 5.000 EGP.', fonti: ['vs'] },
+        { voce: 'Droni', valore: 'Solo con autorizzazione del Ministero della Difesa: senza, vengono sequestrati.', fonti: ['vs'] },
+        { voce: 'Assicurazione', valore: 'Raccomandata con spese mediche e rimpatrio; per i sub serve in più un\'assicurazione subacquea specifica (tipo DAN).', fonti: ['vs', 'articolo'] },
+      ],
+    },
+    {
+      titolo: 'Soldi e biglietti',
+      righe: [
+        { voce: 'Valuta', valore: 'Lira egiziana (EGP), circa 58-62 EGP per un euro a ottobre 2026: 600 EGP sono circa 10 €. Crociere, autisti e diving spesso in dollari o euro.', fonti: ['articolo'] },
+        { voce: 'Biglietti', valore: 'Le biglietterie dei siti statali accettano solo carte; i biglietti si comprano anche su egymonuments.com. Gli studenti con tessera ISIC pagano la metà.', fonti: ['articolo', 'egymon'] },
+        { voce: 'Luxor Pass', valore: 'Standard circa 130 $ (senza Seti I e Nefertari), premium circa 250 $ (con le due tombe). Si compra solo al Cairo o a Luxor, con passaporto e due foto, in contanti in dollari o euro. Conviene solo a chi resta molti giorni a Luxor e vuole le tombe a pagamento.', fonti: ['articolo'] },
+        { voce: 'Contanti', valore: 'Tagli piccoli per taxi, mance, bagni e mercati: il resto spesso «non c\'è». A Siwa servono contanti per tutto il soggiorno.', fonti: ['articolo'] },
+        { voce: 'Mance', valore: 'Indicativamente 10-20 EGP per bagni e piccoli servizi, 50-100 EGP al giorno all\'autista, 100-200 EGP al giorno a una guida, 15-25 $ a persona per l\'equipaggio della crociera (busta in reception alla fine), 5-10 % del costo per il diving.', fonti: ['articolo'] },
+      ],
+    },
+    {
+      titolo: 'Quando andare',
+      righe: [
+        { voce: 'Ottobre-novembre', valore: 'Il periodo migliore per tutto il giro: Alto Egitto a 30-35 °C, Siwa piacevole, mare a 25-28 °C, squali longimano a Elphinstone. Il 22 ottobre Abu Simbel è pieno e costa di più.', fonti: ['articolo'] },
+        { voce: 'Dicembre-febbraio', valore: 'Siti al fresco ma notti vicine a 0 °C a Siwa; mare a 22-23 °C con vento, serve una muta da 5-7 mm. Natale e Capodanno sono il periodo più caro.', fonti: ['articolo'] },
+        { voce: 'Marzo-aprile', valore: 'Buon compromesso, con il rischio di vento sabbioso (khamsin). Ramadan 2027 indicativamente dall\'8 febbraio al 9 marzo.', fonti: ['articolo'] },
+        { voce: 'Maggio-settembre', valore: 'Assuan, Luxor e Abu Simbel spesso oltre i 40-45 °C; Siwa d\'estate è sconsigliata.', fonti: ['articolo'] },
+      ],
+    },
+    {
+      titolo: 'Crociera e immersioni',
+      righe: [
+        { voce: 'Nave o dahabiya', valore: 'La nave classica (60-150 cabine, guida di gruppo spesso inclusa) è la più facile da incastrare. La dahabiya a vela (6-12 cabine, 4-5 notti) attracca dove le navi non si fermano, ma costa circa il doppio: 250-500 $ a persona a notte.', fonti: ['articolo'] },
+        { voce: 'Brevetti', valore: 'Con l\'Open Water (18 metri) si fanno Abu Dabbab, i reef dalla riva e molte uscite in barca. Per Elphinstone e le crociere del sud serve di norma l\'Advanced; per Brothers e Daedalus anche almeno 50 immersioni registrate.', fonti: ['articolo'] },
+        { voce: 'Regole dei parchi marini', valore: 'Guanti vietati, vietato toccare il corallo e dare da mangiare ai pesci; in alcuni siti limiti orari e niente notturne.', fonti: ['articolo'] },
+        { voce: 'Prima del volo', valore: 'Almeno 18-24 ore tra l\'ultima immersione e il volo: l\'itinerario lascia l\'ultimo pomeriggio libero.', fonti: ['articolo'] },
+      ],
+    },
+    {
+      titolo: 'Truffe comuni',
+      righe: [
+        { voce: 'Cammelli a Giza', valore: 'Prezzo basso per salire, molto più alto per tornare all\'ingresso: concorda prima totale, valuta, durata e percorso, e paga alla fine.' },
+        { voce: '«È chiuso»', valore: 'Chi ferma il taxi prima dell\'ingresso dicendo che da lì non si entra vuole portarti altrove. Gli ingressi ufficiali sono quelli segnalati.' },
+        { voce: 'Finte guide', valore: 'Le guide vere hanno il tesserino del Ministero: meglio prenotarle tramite hotel o agenzie con recensioni.' },
+        { voce: 'Negozi', valore: 'Papiri, profumi, alabastro e tappeti: dì all\'inizio della giornata che non vuoi entrare in nessun negozio.' },
+        { voce: 'Feluche e calessi', valore: 'Il prezzo «a persona» diventa «a persona all\'ora»: chiarisci tutto prima.' },
+        { voce: 'Resto', valore: 'Banconote di altri Paesi o «non ho il resto»: conta i soldi al momento e tieni tagli piccoli.' },
+      ],
+    },
+    {
+      titolo: 'Sicurezza e salute',
+      righe: [
+        { voce: 'Quadro', valore: 'Situazione stabile e poca microcriminalità nelle zone turistiche, ma vigilanza alta. Niente manifestazioni, niente dichiarazioni politiche, anche sui social.', fonti: ['vs'] },
+        { voce: 'Foto', valore: 'Vietato fotografare militari, polizia e installazioni di sicurezza.', fonti: ['vs'] },
+        { voce: 'Strada', valore: 'Non viaggiare in auto o in pullman di notte; solo autisti e operatori autorizzati. Cintura anche dietro.', fonti: ['vs', 'articolo'] },
+        { voce: 'Zone da evitare', valore: 'Sinai fuori dai resort di Sharm e da Santa Caterina, confini con Libia, Sudan e Gaza, deserto fuori dai percorsi turistici.', fonti: ['vs'] },
+        { voce: 'Salute', valore: 'Epatite A e B, tetano e tifo dopo il parere del medico. Solo acqua in bottiglia, niente ghiaccio. Dengue segnalata nell\'Alto Egitto e sulla costa sud del Mar Rosso: repellente.', fonti: ['vs'] },
+        { voce: 'Abbigliamento', valore: 'Spalle e ginocchia coperte fuori dai resort, foulard per le donne nelle moschee; a Siwa coperti anche alle sorgenti.', fonti: ['articolo'] },
+        { voce: 'Fuso orario', valore: 'Un\'ora avanti all\'Italia d\'inverno; Viaggiare Sicuri indica la stessa ora quando in Italia c\'è l\'ora legale.', fonti: ['vs'] },
+      ],
+    },
+  ],
+  emergenze: {
+    numeri: [
+      { voce: 'Polizia', valore: '122', fonti: ['vs', 'uk'] },
+      { voce: 'Ambulanza', valore: '123', fonti: ['uk'] },
+      { voce: 'Polizia turistica', valore: '126', fonti: ['uk'] },
+      { voce: 'Vigili del fuoco', valore: '180', fonti: ['uk'] },
+      { voce: 'EgyptAir, call center dall\'Egitto', valore: '1717 da cellulare egiziano', fonti: ['vs'] },
+    ],
+    ambasciata: [
+      {
+        nome: 'Ambasciata d\'Italia al Cairo',
+        cosa: 'Centralino attivo 24 ore',
+        indirizzo: 'Nile City Towers, Torre Nord, 21° piano, 2005 Corniche El Nil, Boulaq, Cairo',
+        telefono: '+20 2 2794 3194 · +20 2 2794 3195 · ambasciata.cairo@esteri.it',
+        web: 'ambilcairo.esteri.it',
+        stato: 'ufficiale',
+        fonti: ['vs'],
+      },
+      {
+        nome: 'Cancelleria consolare',
+        cosa: 'Passaporti e documenti',
+        indirizzo: 'Nile City Towers, Torre Sud, 7° piano, Cairo',
+        telefono: '+20 2 2461 9680 · emergenze +20 100 669 0079 · consolare.cairo@esteri.it',
+        stato: 'ufficiale',
+        fonti: ['vs'],
+      },
+      {
+        nome: 'Consolato onorario a Hurghada',
+        cosa: 'Competente per la costa africana del Mar Rosso, Marsa Alam compresa',
+        indirizzo: 'Intercontinental area n. 11, Paradise Village, Hurghada',
+        telefono: '+20 65 346508 · emergenze +20 111 080 6166 · hurgada.onorario@esteri.it',
+        stato: 'ufficiale',
+        fonti: ['vs'],
+      },
+      {
+        nome: 'Corrispondente consolare a Luxor',
+        cosa: 'Francis Amin, per emergenze',
+        telefono: '+20 122 340 3381',
+        stato: 'ufficiale',
+        fonti: ['vs'],
+      },
+    ],
+    ospedali: [
+      { nome: 'Ospedale Italiano Umberto I', cosa: 'Cairo', indirizzo: '17 El Sarayat Street, Abbassia, Cairo', telefono: '+20 2 2674 0088', stato: 'ufficiale', fonti: ['vs'] },
+      { nome: 'Abbassia Fever Hospital', cosa: 'Cairo, pubblico, malattie infettive', indirizzo: 'El-Abaseya, Emtedad Ramses, Cairo', telefono: '+20 2 2342 4025', stato: 'ufficiale', fonti: ['vs'] },
+      { nome: 'Siwa, Assuan, Luxor e Marsa Alam', cosa: 'Nessun ospedale con numero verificato', stato: 'ufficiale', avviso: 'Chiedi all\'hotel o chiama il 123. Per i sub: verifica in anticipo la camera iperbarica più vicina.', fonti: ['vs'] },
+    ],
+  },
+  contatti: [
+    {
+      gruppo: 'Biglietti, visti, trasporti',
+      voci: [
+        { nome: 'Egypt Monuments', cosa: 'Biglietteria online ufficiale dei siti', web: 'egymonuments.com', stato: 'ufficiale', fonti: ['egymon'] },
+        { nome: 'Visa2Egypt', cosa: 'Portale ufficiale dell\'e-visa', web: 'visa2egypt.gov.eg', stato: 'ufficiale', fonti: ['articolo'] },
+        { nome: 'EgyptAir', cosa: 'Voli interni Cairo-Assuan e Assuan-Abu Simbel. Ufficio del Cairo', telefono: '+20 2 2393 0381 · +20 2 2393 2836', stato: 'ufficiale', fonti: ['vs'] },
+        { nome: 'Abela Trains', cosa: 'Treno notte con cabine letto da Giza e Cairo Upper Egypt (Bashtil)', web: 'abelatrains.com', stato: 'non-provato', fonti: ['articolo'] },
+        { nome: 'Uber · Careem', cosa: 'Taxi via app al Cairo e a Luxor', stato: 'usato', fonti: ['articolo'] },
+      ],
+    },
+    {
+      gruppo: 'Da prenotare prima',
+      nota: 'Nomi di operatori a Siwa, navi da crociera e centri diving non annotati nel viaggio: conviene sceglierli con recensioni recenti e chiedere per iscritto cosa è incluso.',
+      voci: [
+        { nome: 'Grand Egyptian Museum', cosa: 'Biglietto a fascia oraria, solo online', stato: 'ufficiale', fonti: ['articolo'] },
+        { nome: 'Operatore autorizzato a Siwa', cosa: 'Fuoristrada e permesso per il Grande Mare di Sabbia', stato: 'usato', avviso: 'Nome non annotato: tempi e costi del permesso da chiedere all\'operatore.', fonti: ['articolo'] },
+        { nome: 'Crociera Assuan-Luxor', cosa: 'Tre notti, nave classica; con mesi di anticipo per ottobre-novembre e Natale', stato: 'usato', fonti: ['articolo'] },
+        { nome: 'Centro diving a Marsa Alam', cosa: 'Pacchetto da 6-10 immersioni, Elphinstone solo con Advanced', stato: 'usato', fonti: ['articolo'] },
+      ],
+    },
+  ],
+  budget: {
+    righe: [
+      { voce: 'Voli internazionali' },
+      { voce: 'Visto', costo: '30 $' },
+      { voce: 'Biglietti dei siti', costo: '180-240 €', nota: 'più 55-60 € con Seti I e l\'interno di Cheope; Nefertari a parte, se aperta' },
+      { voce: 'Volo Cairo-Assuan', costo: '70-140 €' },
+      { voce: 'Autisti e trasferimenti', costo: '300-450 €', nota: 'a testa, in due' },
+      { voce: 'Crociera Assuan-Luxor, 3 notti', costo: '400-1.000 $' },
+      { voce: 'Siwa ed escursione nel deserto', costo: '60-150 €' },
+      { voce: 'Alloggi fuori dalla crociera', costo: '40-100 €', nota: 'a notte a camera' },
+      { voce: 'Immersioni', costo: '300-450 €', nota: '6-8 immersioni con attrezzatura' },
+      { voce: 'Pasti', costo: '10-25 €', nota: 'al giorno, fuori da crociera e resort' },
+      { voce: 'Mance', costo: '80-130 €', nota: 'tutto il viaggio' },
+      { voce: 'SIM o eSIM' },
+    ],
+    nota: 'Cifre indicative di ottobre 2026 dal mio articolo. In totale, 2.300-3.500 € a persona in due, voli internazionali esclusi.',
+    cambio: 'Cambio di riferimento: 1 € ≈ 60 EGP (ottobre 2026).',
+    cambioFonti: ['articolo'],
+  },
+  valigia: [
+    {
+      gruppo: 'Documenti e soldi',
+      voci: ['Passaporto con 6 mesi di validità', '30 $ in contanti per il visto', 'Biglietto GEM prenotato', 'Fotocopia del passaporto', 'Assicurazione sanitaria e subacquea', 'Brevetto e logbook', 'Carta di credito', 'Contanti per Siwa e banconote piccole'],
+    },
+    {
+      gruppo: 'Vestiti',
+      voci: ['Pantaloni lunghi e maglie con le maniche', 'Foulard per le moschee', 'Cappello e occhiali da sole', 'Scarpe comode chiuse', 'Giacca pesante per le notti nel deserto', 'Felpa per la mongolfiera e il ponte della nave', 'Costume, maglietta e pantaloncini per le sorgenti di Siwa', 'Muta corta, o da 5-7 mm tra dicembre e marzo'],
+    },
+    {
+      gruppo: 'Salute e tecnica',
+      voci: ['Repellente per zanzare', 'Crema solare reef safe', 'Antidiarroico e reidratanti', 'Maschera e pinne', 'Torcia frontale', 'Power bank', 'Niente drone'],
+    },
+  ],
+  lingua: {
+    nome: 'Arabo egiziano, traslitterato',
+    pronuncia: 'Nell\'egiziano la «g» è dura (gamal, cammello), la «q» spesso diventa una pausa. «kh» come la jota spagnola. Nei luoghi turistici si parla inglese; a Siwa si parla anche il siwi, una lingua berbera.',
+  },
+  frasario: [
+    {
+      gruppo: 'Saluti e cortesia',
+      frasi: [
+        { it: 'Salve', loc: 'as-salāmu ʿalaykum' },
+        { it: 'Benvenuto', loc: 'ahlan wa sahlan' },
+        { it: 'Grazie', loc: 'shukran' },
+        { it: 'Per favore', loc: 'min faḍlak' },
+        { it: 'Sì · No', loc: 'aywa · laʾ' },
+        { it: 'Va bene', loc: 'māshi' },
+        { it: 'Se Dio vuole', loc: 'inshallah' },
+      ],
+    },
+    {
+      gruppo: 'Muoversi e comprare',
+      frasi: [
+        { it: 'Quanto costa?', loc: 'bikam?' },
+        { it: 'Troppo caro', loc: 'ghāli awi' },
+        { it: 'No grazie', loc: 'laʾ shukran', nota: 'da ripetere con calma' },
+        { it: 'Basta così', loc: 'khalāṣ' },
+        { it: 'Dov\'è…?', loc: 'fēn…?' },
+        { it: 'Piano piano', loc: 'shwaya shwaya' },
+      ],
+    },
+    {
+      gruppo: 'A tavola',
+      frasi: [
+        { it: 'Acqua', loc: 'mayya' },
+        { it: 'Tè', loc: 'shāy' },
+        { it: 'Il conto', loc: 'il-ḥisāb' },
+      ],
+    },
+    {
+      gruppo: 'Emergenze',
+      frasi: [
+        { it: 'Aiuto!', loc: 'ilḥaʾūni!' },
+        { it: 'Medico', loc: 'doktōr' },
+        { it: 'Ospedale', loc: 'mustashfa' },
+        { it: 'Polizia', loc: 'bulīs' },
+      ],
+    },
+  ],
+  numeri: [
+    { it: '1', loc: 'wāḥid' },
+    { it: '2', loc: 'itnēn' },
+    { it: '3', loc: 'talāta' },
+    { it: '4', loc: 'arbaʿa' },
+    { it: '5', loc: 'khamsa' },
+    { it: '10', loc: 'ʿashara' },
+    { it: '20', loc: 'ʿishrīn' },
+    { it: '100', loc: 'miyya' },
+  ],
+  pagineSito: [
+    { titolo: 'Il viaggio completo', path: '/viaggi/egitto-completo' },
+    { titolo: 'Egitto, la scheda paese', path: '/destinazioni/egitto' },
+    { titolo: 'Il Cairo', path: '/destinazioni/egitto/cairo' },
+    { titolo: 'Le piramidi', path: '/destinazioni/egitto/piramidi' },
+    { titolo: 'Siwa', path: '/destinazioni/egitto/siwa' },
+    { titolo: 'Assuan e Abu Simbel', path: '/destinazioni/egitto/assuan-abu-simbel' },
+    { titolo: 'Luxor', path: '/destinazioni/egitto/luxor' },
+    { titolo: 'Il Mar Rosso', path: '/destinazioni/egitto/mar-rosso' },
+  ],
+  consultate: 'Prezzi dei siti consultati il 30 ottobre 2026; emergenze e regole d\'ingresso il 2 novembre 2026. Prima di pagare, guarda sempre la fonte ufficiale.',
+  nonVerificato: [
+    'Prezzi di Tutankhamon, Seti I e dell\'interno di Cheope: non sono sulla biglietteria online, cifre da guide 2026',
+    'Tomba di Nefertari: aperta o chiusa nel 2026 secondo le fonti, nessun prezzo ufficiale',
+    'Luxor Pass: prezzi da guide, non da fonte ministeriale',
+    'Costo dell\'e-visa (25 o 30 $, fonti discordanti)',
+    'Prezzi di Bibliotheca Alexandrina, Deir el-Medina e Shali: non sulla biglietteria online',
+    'Tempi e costi del permesso per il Grande Mare di Sabbia',
+    'Orari dei siti oltre all\'apertura di Giza',
+    'Ospedali con telefono fuori dal Cairo; posizione delle camere iperbariche',
+    'Prezzi di autisti, crociere, mongolfiere e diving: indicativi',
+    'Nomi di hotel, nave, operatore di Siwa e centro diving: non annotati',
+  ],
+  fonti: [
+    { id: 'vs', titolo: 'Viaggiare Sicuri, scheda Egitto (agg. 21/07/2026)', url: 'https://www.viaggiaresicuri.it/schede_paese/EGY.json' },
+    { id: 'uk', titolo: 'UK Foreign Office, Egypt: getting help', url: 'https://www.gov.uk/foreign-travel-advice/egypt/getting-help' },
+    { id: 'egymon', titolo: 'Egypt Monuments, biglietteria ufficiale (prezzi al 30/10/2026)', url: 'https://egymonuments.com' },
+    { id: 'articolo', titolo: 'Make It Yours World, Egitto completo in 21 giorni (verifiche del 30/10/2026: GEM, visto, Abela Trains, Luxor Pass)', url: 'https://makeityoursworld.vercel.app/viaggi/egitto-completo' },
+    { id: 'osm', titolo: 'OpenStreetMap (coordinate, geocoder Photon)', url: 'https://photon.komoot.io' },
+    { id: 'osrm', titolo: 'OSRM su dati OpenStreetMap (distanze e tempi, traffico libero)', url: 'https://router.project-osrm.org' },
+  ],
+}

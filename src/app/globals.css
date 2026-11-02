@@ -101,3 +101,9 @@ html[data-marchio='visto'] .marchio-lettera {
   .marchio-lettera { opacity: 1; animation: none; }
   .marchio-punto { animation: none; }
 }
+
+/* barra della pagina di caricamento (src/app/loading.tsx) */
+@keyframes scorri {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(300%); }
+}

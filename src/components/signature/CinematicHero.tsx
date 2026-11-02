@@ -13,7 +13,7 @@ import { HeroVideo } from './HeroVideo'
  */
 export const HERO_VIDEO = {
   src: '/videos/runaway-hero-1600.mp4',
-  srcMobile: '/videos/runaway-hero-mobile.mp4',
+  srcMobile: '/videos/runaway-hero-mobile-40s.mp4',
   poster: '/videos/runaway-hero-poster.jpg',
   label: 'Runaway: montaggio video dei nostri viaggi in giro per il mondo',
   /** Secondi dell'apertura del video con il titolo «WORLD. make it yours». */
