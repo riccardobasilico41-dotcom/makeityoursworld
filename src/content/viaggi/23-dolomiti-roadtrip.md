@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (zone, dislivelli e informazioni pratiche verificate e aggiornate; mancano ricordi ed esperienze dirette da aggiungere alle singole zone)
 **Periodo del viaggio:** estate da giugno a settembre, inverno da dicembre a marzo
 **Durata:** modulare — da un weekend su una zona sola a un giro completo di due settimane. Tre proposte pronte più sotto.
-**Compagni di viaggio:** in autonomia, in auto
+**Compagni di viaggio:** con amici, in autonomia, in auto
 **Categoria:** Europa · Italia · Dolomiti · roadtrip · trekking · sci · montagna
 
 ---

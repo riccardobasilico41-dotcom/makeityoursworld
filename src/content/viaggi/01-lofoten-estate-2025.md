@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (struttura, info pratiche e aneddoti pronti — mancano solo le foto; apertura e chiusura scritte dai ricordi dell'autore)
 **Periodo del viaggio:** 6-13 luglio 2025
 **Durata:** 7 giorni pieni + rientro
-**Compagni di viaggio:** auto a noleggio condivisa per gli spostamenti sulle isole
+**Compagni di viaggio:** con amici, auto a noleggio condivisa per gli spostamenti sulle isole
 **Categoria:** Europa · Norvegia · on the road · estate polare
 
 ---

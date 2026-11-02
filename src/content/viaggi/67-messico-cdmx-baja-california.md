@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (viaggio fatto da Rick; itinerario e informazioni pratiche verificati, mancano aneddoti e ricordi personali da aggiungere dal diario)
 **Periodo del viaggio:** da metà febbraio a metà marzo, l'unica finestra in cui si incrociano balene grigie nelle lagune, squalo balena a La Paz, balenottera azzurra a Loreto e megattere a Los Cabos
 **Durata:** 16 giorni, 15 notti
-**Compagni di viaggio:** in autonomia, con metro e app a Città del Messico, volo interno per La Paz e auto a noleggio in Baja California Sur
+**Compagni di viaggio:** con amici, in autonomia, con metro e app a Città del Messico, volo interno per La Paz e auto a noleggio in Baja California Sur
 **Categoria:** Nord America · Messico · Città del Messico · Baja California · balene · mare · natura · roadtrip
 
 ---

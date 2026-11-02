@@ -3,7 +3,7 @@
 **Stato bozza:** 🟢 pronta per il sito
 **Periodo del viaggio:** stagione sciistica, dicembre-aprile
 **Durata:** 5-6 giorni
-**Compagni di viaggio:** auto a noleggio da Sofia, guidata fino a Bansko
+**Compagni di viaggio:** con amici, auto a noleggio da Sofia, guidata fino a Bansko
 **Categoria:** Europa · Bulgaria · sci · montagna · Balcani
 
 ---

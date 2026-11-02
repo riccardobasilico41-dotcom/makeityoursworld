@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
 **Periodo del viaggio:** **gennaio-marzo, verificando il calendario delle vacanze scolastiche francesi**
 **Durata:** 7 giorni, 6 notti — la settimana classica da sabato a sabato
-**Compagni di viaggio:** in autonomia, appartamento in residence
+**Compagni di viaggio:** con amici, in autonomia, appartamento in residence
 **Categoria:** Europa · Francia · sci · montagna
 
 ---

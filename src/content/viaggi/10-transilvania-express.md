@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (itinerario, info pratiche e aneddoti pronti grazie a diario di viaggio, foglio giorno-per-giorno e Vade Mecum ufficiali — apertura e chiusura scritte dai ricordi dell'autore)
 **Periodo del viaggio:** ponte di Halloween, 31 ottobre - 4 novembre 2024
 **Durata:** 5 giorni, 4 notti
-**Compagni di viaggio:** on the road con auto a noleggio self-drive per tutto il percorso
+**Compagni di viaggio:** con amici, on the road con auto a noleggio self-drive per tutto il percorso
 **Categoria:** Europa · Romania · Transilvania · on the road · castelli
 
 ---

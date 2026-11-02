@@ -5,7 +5,7 @@ indicative e logistica di dettaglio; apertura e chiusura scritte dai ricordi del
 Giorni 3-8)
 **Periodo del viaggio:** fine luglio 2024
 **Durata:** 9 giorni, 8 notti (6 in tenda, 2 in hotel)
-**Compagni di viaggio:** auto a noleggio condivisa, cassa comune per i pasti durante il percorso
+**Compagni di viaggio:** con amici, auto a noleggio condivisa, cassa comune per i pasti durante il percorso
 **Categoria:** Europa · Islanda · on the road · campeggio · Ring Road
 
 ---

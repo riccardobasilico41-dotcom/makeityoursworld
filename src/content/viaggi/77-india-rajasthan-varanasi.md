@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche completi e verificati a ottobre 2026; ricordi personali, alloggi usati e prezzi pagati da aggiungere dal diario)
 **Periodo del viaggio:** pensato per ottobre-marzo, con novembre e febbraio come mesi migliori
 **Durata:** 17 giorni, 16 notti
-**Compagni di viaggio:** in autonomia, con un volo interno Delhi-Varanasi, un treno notturno Varanasi-Agra, treni diurni in Rajasthan, auto con autista per le tappe senza ferrovia e un volo di rientro da Udaipur
+**Compagni di viaggio:** con amici, in autonomia, con un volo interno Delhi-Varanasi, un treno notturno Varanasi-Agra, treni diurni in Rajasthan, auto con autista per le tappe senza ferrovia e un volo di rientro da Udaipur
 **Categoria:** Asia · India · Varanasi · Gange · Rajasthan · deserto del Thar · treni notturni · spiritualità
 
 ---

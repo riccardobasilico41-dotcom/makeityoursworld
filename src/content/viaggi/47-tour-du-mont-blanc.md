@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
 **Periodo del viaggio:** **da metà giugno a metà settembre, con settembre come mese migliore**
 **Durata:** 9 giorni, 8 notti a tappe
-**Compagni di viaggio:** in autonomia, con pernottamento in rifugio ogni notte
+**Compagni di viaggio:** con amici, in autonomia, con pernottamento in rifugio ogni notte
 **Categoria:** Europa · Francia · montagna · trekking
 
 ---

@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (stagioni, regole, trasporti e siti marini verificati a ottobre 2026; ricordi personali, isole e alloggi usati, prezzi pagati e operatori da aggiungere dal diario)
 **Periodo del viaggio:** tutto l'anno, con dicembre-aprile come stagione secca e agosto-ottobre come stagione delle mante a Hanifaru
 **Durata:** modulare, da una settimana a due; esempio pronto di 10 giorni tra isola locale e resort
-**Compagni di viaggio:** in autonomia, con speedboat, traghetti pubblici, idrovolanti o voli interni e centri diving locali
+**Compagni di viaggio:** con amici, in autonomia, con speedboat, traghetti pubblici, idrovolanti o voli interni e centri diving locali
 **Categoria:** Asia · Maldive · Oceano Indiano · mare · snorkeling · immersioni · isole locali · resort · liveaboard
 
 ---

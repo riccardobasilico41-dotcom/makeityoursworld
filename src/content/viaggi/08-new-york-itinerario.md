@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (itinerario, info pratiche e aneddoti pronti — scritti come bozza da rileggere e personalizzare; mancano le foto)
 **Periodo del viaggio:** 7-12 settembre
 **Durata:** 6 giorni, 5 notti
-**Compagni di viaggio:** organizzazione flessibile, spese gestite di volta in volta
+**Compagni di viaggio:** con amici, organizzazione flessibile, spese gestite di volta in volta
 **Categoria:** Nord America · USA · New York · città · sport
 
 ---

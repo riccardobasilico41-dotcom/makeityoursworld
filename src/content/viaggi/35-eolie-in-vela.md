@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
 **Periodo del viaggio:** **giugno o settembre**
 **Durata:** 8 giorni, 7 notti — la settimana classica da sabato a sabato
-**Compagni di viaggio:** in barca a vela, con skipper
+**Compagni di viaggio:** con amici, in barca a vela, con skipper
 **Categoria:** Europa · Italia · Sicilia · vela · vulcani · isole
 
 ---

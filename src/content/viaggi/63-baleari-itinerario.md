@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (viaggio fatto da Rick; itinerario e informazioni pratiche verificati, mancano aneddoti e ricordi personali da aggiungere dal diario)
 **Periodo del viaggio:** **maggio-giugno oppure settembre**
 **Durata:** 8 giorni, 7 notti
-**Compagni di viaggio:** in autonomia, traghetto tra le isole, auto a noleggio su ciascuna
+**Compagni di viaggio:** con amici, in autonomia, traghetto tra le isole, auto a noleggio su ciascuna
 **Categoria:** Europa · Spagna · Baleari · isole · mare
 
 ---

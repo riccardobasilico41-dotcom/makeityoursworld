@@ -4,7 +4,7 @@
 e aneddoti di apertura/chiusura — scritti come bozza da rileggere e personalizzare)
 **Periodo del viaggio:** 6-17 aprile *(anno da confermare)*
 **Durata:** 12 giorni, 11 notti
-**Compagni di viaggio:** JR Pass per i grandi spostamenti in treno, attivato
+**Compagni di viaggio:** con amici, JR Pass per i grandi spostamenti in treno, attivato
 dal quarto giorno in poi
 **Categoria:** Asia · Giappone · sakura · cultura · cibo · on the road
 

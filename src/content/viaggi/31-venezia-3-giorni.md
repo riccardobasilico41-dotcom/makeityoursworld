@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
 **Periodo del viaggio:** **novembre-marzo** per la Venezia vera; **aprile-maggio e ottobre** come compromesso
 **Durata:** 3 giorni, 2 notti
-**Compagni di viaggio:** in autonomia, tutto a piedi e in vaporetto
+**Compagni di viaggio:** con amici, in autonomia, tutto a piedi e in vaporetto
 **Categoria:** Europa · Italia · Venezia · arte · laguna · gastronomia
 
 ---

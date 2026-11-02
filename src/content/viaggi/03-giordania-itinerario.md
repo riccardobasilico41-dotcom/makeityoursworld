@@ -9,7 +9,7 @@ conflitto tra Israele e Palestina nell'ottobre 2023, quando la Giordania si è
 svuotata di turisti nonostante sia rimasta un paese sicuro e pienamente
 accessibile)*
 **Durata:** 8 giorni, 7 notti
-**Compagni di viaggio:** organizzato tramite un DMC locale, con coordinatore
+**Compagni di viaggio:** con amici, organizzato tramite un DMC locale, con coordinatore
 in loco per transfer, guide e attività (utile da contattare per chi vuole
 replicare lo stesso itinerario)
 **Categoria:** Medio Oriente · Giordania · Capodanno · deserto · storia

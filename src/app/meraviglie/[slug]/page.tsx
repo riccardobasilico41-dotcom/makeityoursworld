@@ -1,4 +1,16 @@
 import type { Metadata } from 'next'
+import { Filigrana } from '@/components/Filigrana'
+
+// la filigrana della meraviglia è quella del Paese dove si trova
+const PAESE_MERAVIGLIA: Record<string, string> = {
+  'grande-muraglia-cinese': 'cina',
+  petra: 'giordania',
+  'cristo-redentore': 'brasile',
+  'machu-picchu': 'peru',
+  'chichen-itza': 'messico',
+  colosseo: 'italia',
+  'taj-mahal': 'india',
+}
 import { FirmaAutore } from '@/components/FirmaAutore'
 import { notFound } from 'next/navigation'
 import { ArrowUpRight, AlertTriangle } from 'lucide-react'
@@ -56,6 +68,7 @@ export default async function MeravigliaPage({ params }: { params: Promise<{ slu
 
   return (
     <>
+      <Filigrana paese={PAESE_MERAVIGLIA[meraviglia.slug]} />
       <JsonLd
         data={[
           jsonLd,

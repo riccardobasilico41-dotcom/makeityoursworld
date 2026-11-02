@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (viaggio fatto da Rick; itinerario e informazioni pratiche verificati, mancano aneddoti e ricordi personali da aggiungere dal diario)
 **Periodo del viaggio:** da giugno a settembre, con luglio-agosto come finestra più affidabile per i passi alpini
 **Durata:** modulare — da un weekend lungo di 3-4 giorni su Interlaken e la Jungfrau Region a una settimana che arriva fino a Zermatt. Due proposte pronte più sotto.
-**Compagni di viaggio:** in autonomia, in camper o furgone attrezzato
+**Compagni di viaggio:** con amici, in autonomia, in camper o furgone attrezzato
 **Categoria:** Europa · Svizzera · Alpi Bernesi · van life · roadtrip · montagna
 
 ---

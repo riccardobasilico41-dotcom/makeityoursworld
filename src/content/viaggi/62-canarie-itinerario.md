@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (viaggio fatto da Rick; itinerario e informazioni pratiche verificati, mancano aneddoti e ricordi personali da aggiungere dal diario)
 **Periodo del viaggio:** **tutto l'anno**, clima mite costante
 **Durata:** 9 giorni, 8 notti
-**Compagni di viaggio:** in autonomia, voli interni tra le isole, auto a noleggio su ciascuna isola
+**Compagni di viaggio:** con amici, in autonomia, voli interni tra le isole, auto a noleggio su ciascuna isola
 **Categoria:** Europa · Spagna · Canarie · vulcani · natura · isole
 
 ---

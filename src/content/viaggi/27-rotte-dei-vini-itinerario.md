@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare — mancano i nomi delle cantine effettivamente visitate, che qui contano più che altrove)
 **Periodo del viaggio:** **settembre-ottobre, in vendemmia**
 **Durata:** 10 giorni, 9 notti
-**Compagni di viaggio:** in autonomia, con auto a noleggio e cantine prenotate
+**Compagni di viaggio:** con amici, in autonomia, con auto a noleggio e cantine prenotate
 **Categoria:** Europa · Italia · vino · enogastronomia · paesaggi
 
 ---

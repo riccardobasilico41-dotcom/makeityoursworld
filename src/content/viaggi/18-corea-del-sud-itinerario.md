@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche completi e verificati; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare — mancano date esatte, nomi degli alloggi e prezzi effettivamente pagati)
 **Periodo del viaggio:** primavera o autunno [anno da confermare] — aprile per i ciliegi, ottobre-inizio novembre per il foliage
 **Durata:** 14 giorni, 13 notti
-**Compagni di viaggio:** in autonomia, con KTX e autobus express prenotati in anticipo e auto a noleggio solo a Jeju
+**Compagni di viaggio:** con amici, in autonomia, con KTX e autobus express prenotati in anticipo e auto a noleggio solo a Jeju
 **Categoria:** Asia · Corea del Sud · storia contemporanea · DMZ · haenyeo · gastronomia
 
 ---

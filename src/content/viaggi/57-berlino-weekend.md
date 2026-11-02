@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (viaggio fatto da Rick; itinerario e informazioni pratiche verificati, mancano aneddoti e ricordi personali da aggiungere dal diario)
 **Periodo del viaggio:** **maggio-settembre**
 **Durata:** 4 giorni, 3-4 notti
-**Compagni di viaggio:** in autonomia, con i mezzi pubblici
+**Compagni di viaggio:** con amici, in autonomia, con i mezzi pubblici
 **Categoria:** Europa · Germania · Berlino · storia · memoria · vita notturna
 
 ---

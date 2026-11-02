@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (itinerario giorno per giorno completo grazie al diario personale, arricchito con le info pratiche del Travel Diary/Vade Mecum ufficiali; aneddoti di apertura/chiusura scritti come bozza da rileggere e personalizzare — manca ancora la conferma delle date esatte del viaggio e i nomi degli hotel per Mahahual/Bacalar, Tulum, Playa del Carmen e Holbox)
 **Periodo del viaggio:** da confermare
 **Durata:** 13 giorni, 12 notti (il Giorno 0 è una notte extra pre-tour a Cancún)
-**Compagni di viaggio:** van privato con autista, supporto di una DMC locale in loco
+**Compagni di viaggio:** con amici, van privato con autista, supporto di una DMC locale in loco
 **Categoria:** Nord America · Messico · Yucatán · Riviera Maya · mare · cenote
 
 ---

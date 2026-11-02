@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (itinerario, prezzi 2026, trasporti e regole verificati a ottobre 2026; ricordi personali da aggiungere dal diario)
 **Periodo del viaggio:** costruito su ottobre-novembre o marzo-aprile, i due periodi in cui reggono insieme il deserto, l'Alto Egitto e il mare; da dicembre a febbraio funziona tutto tranne il mare, che è più freddo e ventoso
 **Durata:** 21 giorni, 20 notti
-**Compagni di viaggio:** in autonomia, con autisti e guide locali, un fuoristrada con operatore autorizzato a Siwa, un volo interno, tre notti di crociera sul Nilo e un centro diving sul Mar Rosso
+**Compagni di viaggio:** con amici, in autonomia, con autisti e guide locali, un fuoristrada con operatore autorizzato a Siwa, un volo interno, tre notti di crociera sul Nilo e un centro diving sul Mar Rosso
 **Categoria:** Africa · Egitto · archeologia · deserto · oasi · crociera sul Nilo · immersioni · Mar Rosso
 
 ---

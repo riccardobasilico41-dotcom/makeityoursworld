@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (viaggio fatto da Rick; itinerario e informazioni pratiche verificati, mancano aneddoti e ricordi personali da aggiungere dal diario)
 **Periodo del viaggio:** dal 24 ottobre all'8 novembre, con le tre notti dei morti (31 ottobre, 1 e 2 novembre) tutte a Oaxaca
 **Durata:** 16 giorni, 15 notti
-**Compagni di viaggio:** in autonomia, con bus ADO tra le città, colectivos e tour serali per i cimiteri, volo interno di rientro da Puerto Escondido
+**Compagni di viaggio:** con amici, in autonomia, con bus ADO tra le città, colectivos e tour serali per i cimiteri, volo interno di rientro da Puerto Escondido
 **Categoria:** Nord America · Messico · Città del Messico · Puebla · Oaxaca · Día de los Muertos · festival · cultura · mare
 
 ---

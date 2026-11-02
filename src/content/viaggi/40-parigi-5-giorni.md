@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
 **Periodo del viaggio:** **aprile-giugno oppure settembre-ottobre**
 **Durata:** 5 giorni, 4 notti — con una versione da 3 giorni
-**Compagni di viaggio:** in autonomia, metropolitana e a piedi
+**Compagni di viaggio:** con amici, in autonomia, metropolitana e a piedi
 **Categoria:** Europa · Francia · Parigi · arte · architettura
 
 ---

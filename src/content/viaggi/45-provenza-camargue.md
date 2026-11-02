@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
 **Periodo del viaggio:** **maggio-giugno oppure settembre-ottobre**; **fine giugno-inizio agosto** per chi vuole la lavanda
 **Durata:** 10 giorni, 9 notti
-**Compagni di viaggio:** in autonomia, con auto a noleggio
+**Compagni di viaggio:** con amici, in autonomia, con auto a noleggio
 **Categoria:** Europa · Francia · Provenza · Camargue · Occitania
 
 ---

@@ -5,7 +5,7 @@ orarie descrittive, correzioni rispetto al programma originale e aneddoti
 pronti — scritti come bozza da rileggere e personalizzare)
 **Periodo del viaggio:** 11-22 novembre 2023
 **Durata:** 12 giorni, 11 notti
-**Compagni di viaggio:** van privato con autista per tutto il percorso, con DMC
+**Compagni di viaggio:** con amici, van privato con autista per tutto il percorso, con DMC
 locale (WanderlustAsia) a organizzare hotel e attività
 **Categoria:** Asia · Sri Lanka · on the road · natura · cultura · mare
 

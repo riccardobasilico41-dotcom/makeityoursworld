@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (itinerario, info pratiche e aneddoti pronti grazie al Travel Diary e al Vade Mecum ufficiali — aneddoti scritti come bozza da rileggere e personalizzare; manca la conferma di ristoranti/attività effettivamente scelti)
 **Periodo del viaggio:** [da confermare — anno/mese esatto]
 **Durata:** 10 giorni, 9 notti
-**Compagni di viaggio:** auto a noleggio self-drive (Sixt)
+**Compagni di viaggio:** con amici, auto a noleggio self-drive (Sixt)
 **Categoria:** Nord America · USA · Florida · on the road · road trip · mare
 
 ---

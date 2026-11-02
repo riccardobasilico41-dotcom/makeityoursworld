@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificati con ricerca a ottobre 2026; nessun ricordo personale ancora inserito, vedi le note in fondo)
 **Periodo del viaggio:** fine maggio-giugno o settembre, con mare già caldo, traghetti frequenti e meno folla che in luglio-agosto
 **Durata:** 14 giorni, 13 notti
-**Compagni di viaggio:** in autonomia, auto a noleggio da Zagabria a Spalato, poi catamarani tra le isole fino a Dubrovnik
+**Compagni di viaggio:** con amici, in autonomia, auto a noleggio da Zagabria a Spalato, poi catamarani tra le isole fino a Dubrovnik
 **Categoria:** Europa · Croazia · Dalmazia · isole · mare · laghi · città storiche
 
 ---

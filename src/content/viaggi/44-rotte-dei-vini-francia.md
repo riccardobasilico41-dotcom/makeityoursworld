@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
 **Periodo del viaggio:** **maggio-giugno oppure settembre-ottobre**
 **Durata:** 8 giorni, 7 notti
-**Compagni di viaggio:** in autonomia, con auto e bicicletta in Alsazia
+**Compagni di viaggio:** con amici, in autonomia, con auto e bicicletta in Alsazia
 **Categoria:** Europa · Francia · vino · Alsazia · Champagne
 
 ---

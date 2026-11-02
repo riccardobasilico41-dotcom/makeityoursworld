@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (itinerario, attività e aneddoti pronti — la chiusura è una bozza da rileggere; sezioni pratiche — prezzi, orari, come si prenota — completate con ricerca per farne una guida utile, non solo un ricordo; mancano ancora le foto)
 **Periodo del viaggio:** inverno, periodo esatto da confermare
 **Durata:** 5 giorni
-**Compagni di viaggio:** da confermare
+**Compagni di viaggio:** con amici
 **Categoria:** Europa · Norvegia · Tromsø · aurora boreale · inverno
 
 ---

@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (viaggio fatto da Rick; itinerario e informazioni pratiche verificati, mancano aneddoti e ricordi personali da aggiungere dal diario)
 **Periodo del viaggio:** **maggio-settembre**, con giugno-agosto alta stagione (clima migliore, ma più caro e più affollato); aprile e ottobre restano gestibili con meno folla e prezzi più bassi
 **Durata:** 9 giorni, 8 notti (3 giorni per capitale)
-**Compagni di viaggio:** in autonomia, con treno e volo interno tra le tre capitali, tutto il resto a piedi, in bici o con i mezzi pubblici
+**Compagni di viaggio:** con amici, in autonomia, con treno e volo interno tra le tre capitali, tutto il resto a piedi, in bici o con i mezzi pubblici
 **Categoria:** Europa · Danimarca · Svezia · Norvegia · città · design · cultura nordica
 
 ---

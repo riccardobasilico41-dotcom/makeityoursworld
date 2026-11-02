@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (confronti tra comprensori, prezzi e informazioni pratiche verificate e aggiornate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
 **Periodo del viaggio:** **gennaio dopo l'Epifania** o **marzo**, che sono le due finestre giuste
 **Durata:** 7 giorni, 6 notti
-**Compagni di viaggio:** in autonomia, con skipass e alloggio prenotati in pacchetto
+**Compagni di viaggio:** con amici, in autonomia, con skipass e alloggio prenotati in pacchetto
 **Categoria:** Europa · Italia · sci · Dolomiti · montagna · inverno
 
 ---

@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche completi e verificati; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare — mancano date esatte, nomi degli alloggi e prezzi effettivamente pagati)
 **Periodo del viaggio:** aprile-ottobre [anno da confermare] — la stagione secca che copre l'intero arcipelago percorso da questo itinerario. Raja Ampat, che ha la finestra migliore opposta (ottobre-aprile), resta fuori proprio per questo motivo
 **Durata:** 35 giorni, 34 notti
-**Compagni di viaggio:** in autonomia, con voli interni, traghetti, autobus e guide locali obbligatorie nei tratti che le richiedono (trekking al Rinjani, oranghi a Bukit Lawang, draghi di Komodo)
+**Compagni di viaggio:** con amici, in autonomia, con voli interni, traghetti, autobus e guide locali obbligatorie nei tratti che le richiedono (trekking al Rinjani, oranghi a Bukit Lawang, draghi di Komodo)
 **Categoria:** Asia · Indonesia · vulcani · giungla · trekking · isole · cultura
 
 ---

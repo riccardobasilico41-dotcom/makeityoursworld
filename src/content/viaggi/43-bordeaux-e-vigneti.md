@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
 **Periodo del viaggio:** **settembre-ottobre (vendemmia) oppure maggio-giugno**
 **Durata:** 7 giorni, 6 notti
-**Compagni di viaggio:** in autonomia, con auto e un guidatore designato per le degustazioni
+**Compagni di viaggio:** con amici, in autonomia, con auto e un guidatore designato per le degustazioni
 **Categoria:** Europa · Francia · Bordeaux · vino · costa atlantica
 
 ---

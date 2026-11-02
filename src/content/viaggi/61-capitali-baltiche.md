@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (viaggio fatto da Rick; itinerario e informazioni pratiche verificati, mancano aneddoti e ricordi personali da aggiungere dal diario)
 **Periodo del viaggio:** **maggio-settembre**, con giugno-agosto il periodo più caldo, più lungo di luce e più affollato
 **Durata:** 9 giorni, 8 notti
-**Compagni di viaggio:** in autonomia, a piedi in ogni città e in autobus tra una capitale e l'altra
+**Compagni di viaggio:** con amici, in autonomia, a piedi in ogni città e in autobus tra una capitale e l'altra
 **Categoria:** Europa · Lituania · Lettonia · Estonia · città · storia · architettura
 
 ---

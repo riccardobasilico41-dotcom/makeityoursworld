@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
 **Periodo del viaggio:** **fine maggio-giugno oppure settembre**
 **Durata:** 12 giorni, 11 notti — tre arcipelaghi che non si collegano tra loro
-**Compagni di viaggio:** in autonomia, tra voli interni, traghetti, bici e scooter
+**Compagni di viaggio:** con amici, in autonomia, tra voli interni, traghetti, bici e scooter
 **Categoria:** Europa · Italia · Sicilia · isole · mare · vulcani
 
 ---

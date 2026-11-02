@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (itinerario, info pratiche e aneddoti pronti — scritti come bozza da rileggere e personalizzare; mancano le foto)
 **Periodo del viaggio:** 3-11 maggio
 **Durata:** 9 giorni, 8 notti
-**Compagni di viaggio:** guida locale Mustafa (+212 649431566) — organizzazione impeccabile, ogni dettaglio al posto giusto
+**Compagni di viaggio:** con amici, guida locale Mustafa (+212 649431566) — organizzazione impeccabile, ogni dettaglio al posto giusto
 **Categoria:** Africa · Marocco · deserto · kasbah · on the road
 
 ---

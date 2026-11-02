@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche completi e verificati a ottobre 2026; ricordi personali, alloggi usati e prezzi pagati da aggiungere dal diario)
 **Periodo del viaggio:** pensato per dicembre-marzo, la stagione secca in tutto il Sud e la più fresca ad Agra
 **Durata:** 17 giorni, 16 notti
-**Compagni di viaggio:** in autonomia, con auto con autista in Tamil Nadu e Kerala, una notte in houseboat, voli interni, un treno notturno per Hampi e il treno veloce Delhi-Agra
+**Compagni di viaggio:** con amici, in autonomia, con auto con autista in Tamil Nadu e Kerala, una notte in houseboat, voli interni, un treno notturno per Hampi e il treno veloce Delhi-Agra
 **Categoria:** Asia · India · India del Sud · Tamil Nadu · Kerala · Karnataka · Hampi · backwaters · templi · Taj Mahal
 
 ---

@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (itinerario, info pratiche e aneddoti pronti grazie a Travel Diary, diario giorno per giorno e Vade Mecum ufficiali — con tanto di orari reali, contatti dei local supplier e prezzi effettivamente pagati; aneddoti scritti come bozza da rileggere e personalizzare; manca la conferma di quali attività opzionali sono state fatte davvero)
 **Periodo del viaggio:** metà-fine novembre [anno da confermare], 16-28 novembre circa
 **Durata:** 13 giorni, 12 notti
-**Compagni di viaggio:** van privato con autista, organizzato con il DMC locale MR Adventure Travel (contatto Angie, +506 8831 9669)
+**Compagni di viaggio:** con amici, van privato con autista, organizzato con il DMC locale MR Adventure Travel (contatto Angie, +506 8831 9669)
 **Categoria:** America Centrale · Costa Rica · Pura Vida · giungla · vulcani · Caribe · Pacifico
 
 ---

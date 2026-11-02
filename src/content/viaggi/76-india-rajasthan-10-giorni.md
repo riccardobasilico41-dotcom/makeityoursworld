@@ -3,7 +3,7 @@
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche completi e verificati a ottobre 2026; ricordi personali, alloggi usati e prezzi pagati da aggiungere dal diario)
 **Periodo del viaggio:** pensato per ottobre-marzo, con novembre-febbraio come finestra migliore
 **Durata:** 10 giorni, 9 notti
-**Compagni di viaggio:** in autonomia, con treni veloci per i tratti Delhi-Agra e Jaipur-Jodhpur, auto con autista per le tappe senza ferrovia comoda e un volo interno per il rientro
+**Compagni di viaggio:** con amici, in autonomia, con treni veloci per i tratti Delhi-Agra e Jaipur-Jodhpur, auto con autista per le tappe senza ferrovia comoda e un volo interno per il rientro
 **Categoria:** Asia · India · Rajasthan · triangolo d'oro · forti e palazzi · cultura
 
 ---
