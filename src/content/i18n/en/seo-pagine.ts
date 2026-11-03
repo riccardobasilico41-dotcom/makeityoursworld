@@ -2,285 +2,285 @@ import type { SeoPagina } from '@/content/seo-pagine'
 
 export const seoPaesi: Record<string, SeoPagina> = {
   'arabia-saudita': {
-    seoTitle: "Saudi Arabia travel: online visa, Hegra and itinerary",
+    seoTitle: "Things to do in Saudi Arabia: Hegra, Jeddah, Riyadh",
     seoDescription:
-      "Since 2019 you can enter on an online tourist visa. Hegra and AlUla, Jeddah, Riyadh and Asir: practical info, when to go and a 12-day itinerary.",
+      "Hegra and AlUla, Jeddah, Riyadh and Asir. Online tourist visa and entry requirements, travel tips, when to go and a 12-day itinerary.",
     socialTitle: "Saudi Arabia: what to know before you go, now that the visa is online",
   },
   austria: {
-    seoTitle: "Vienna in a long weekend: what to see in Austria",
+    seoTitle: "Things to do in Vienna: Schönbrunn, Belvedere, cafés",
     seoDescription:
-      "For now the site's Austria is Vienna: the UNESCO Innere Stadt, Schönbrunn, the Belvedere and the historic cafés, with practical info, prices and itinerary.",
+      "Vienna's UNESCO Innere Stadt, Schönbrunn, the Belvedere and historic cafés, with travel tips, entry requirements, prices and an itinerary.",
   },
   belize: {
-    seoTitle: "Belize travel: cayes, Blue Hole and what to know",
+    seoTitle: "Things to do in Belize: cayes, Blue Hole, Cayo caves",
     seoDescription:
-      "The only Central American country where English is spoken: the second-largest barrier reef, the Great Blue Hole, car-free cayes and the caves of Cayo.",
+      "The Great Blue Hole, the barrier reef, car-free cayes and the caves of Cayo. Travel tips, entry requirements and practical info for Belize.",
   },
   bolivia: {
-    seoTitle: "Bolivia travel: Uyuni, La Paz and what to know",
+    seoTitle: "Things to do in Bolivia: Uyuni, La Paz, Titicaca, Potosí",
     seoDescription:
-      "The highest and cheapest country in South America: La Paz at 3,600 meters, the Salar de Uyuni, Titicaca and Potosí. Practical info and a 19-day itinerary.",
+      "La Paz at 3,600 meters, the Salar de Uyuni, Titicaca and Potosí. Visa and entry requirements, travel tips, costs and a 19-day itinerary.",
     socialTitle: "Bolivia: what to know before landing at 3,600 meters",
   },
   borneo: {
-    seoTitle: "Malaysian Borneo: orangutans, Kinabalu and Sipadan",
+    seoTitle: "Things to do in Borneo: orangutans, Kinabalu, Sipadan",
     seoDescription:
-      "Sabah and Sarawak, the Malaysian side of Borneo: orangutans, the Kinabalu climb, the river and the sea of Sipadan. Permits, seasons and itinerary.",
+      "Sabah and Sarawak: orangutans, the Kinabalu climb, the river and Sipadan's sea. Entry requirements, permits, travel tips and an itinerary.",
   },
   brasile: {
-    seoTitle: "Brazil travel: what to see in 3 weeks",
+    seoTitle: "Things to do in Brazil: Rio, Iguazú, Salvador and tips",
     seoDescription:
-      "Rio, Paraty and Ilha Grande, Iguazú, Salvador, the Chapada Diamantina and the Lençóis Maranhenses: practical info, safety and a 22-day itinerary.",
+      "Rio, Paraty, Ilha Grande, Iguazú, Salvador, Chapada Diamantina and Lençóis Maranhenses. Visa info, safety, travel tips, 22-day itinerary.",
     socialTitle: "You can't do all of Brazil in 3 weeks: what to pick and what to skip",
   },
   bulgaria: {
-    seoTitle: "Skiing in Bulgaria: Bansko and Rila Monastery",
+    seoTitle: "Skiing in Bulgaria: Bansko, Rila Monastery, costs",
     seoDescription:
-      "Five or six days between the budget slopes of Bansko and Rila Monastery, Bulgaria's most important. Practical info, costs and how to get there.",
+      "Five or six days between Bansko's slopes and Rila Monastery. Travel tips, entry requirements, trip cost and how to get there.",
     socialTitle: "Is skiing in Bulgaria worth it? Bansko, prices and Rila Monastery",
   },
   california: {
-    seoTitle: "California road trip: what to see in 2-3 weeks",
+    seoTitle: "California road trip: San Francisco, Yosemite, LA, Big Sur",
     seoDescription:
-      "A driving loop through San Francisco, Yosemite, the sequoias, Death Valley, Joshua Tree, Los Angeles and Big Sur: seasons, closed roads, parks and costs.",
+      "A driving loop through San Francisco, Yosemite, Death Valley, Joshua Tree, Los Angeles and Big Sur: seasons, parks, travel tips, costs, ESTA.",
   },
   canada: {
-    seoTitle: "Eastern Canada road trip: what to see by car",
+    seoTitle: "Eastern Canada road trip: Toronto, Montréal, Québec",
     seoDescription:
-      "Ontario and Quebec by car: Toronto, Niagara, Ottawa, Montréal, Québec City and the whales of Tadoussac. eTA, license, tolls and Churchill's polar bears.",
+      "Ontario and Quebec by car: Toronto, Niagara, Ottawa, Montréal and Québec City. eTA and entry requirements, travel tips, tolls and trip cost.",
     socialTitle: "Eastern Canada by car: what to know about the eTA, license and tolls before you leave",
   },
   cina: {
-    seoTitle: "China travel: what to sort out before you leave",
+    seoTitle: "Things to do in China: Beijing, Xi'an, Shanghai and tips",
     seoDescription:
-      "In China almost nothing you use elsewhere works: payments, apps, VPN and trains to arrange from home. Practical info and two complete itineraries.",
+      "Visa and entry requirements, payments, apps, VPN and trains to arrange from home. Travel tips and two complete China itineraries.",
     socialTitle: "China trip: what to sort out at home, even before the flight",
   },
   'corea-del-sud': {
-    seoTitle: "South Korea: what to know and a 14-day itinerary",
+    seoTitle: "Things to do in South Korea: Seoul, DMZ, Jeju and tips",
     seoDescription:
-      "The easiest country in Asia to travel in, with punctual trains and cards everywhere, and one of the hardest to understand. Practical info, DMZ and Jeju.",
+      "Seoul, the DMZ and Jeju in a 14-day itinerary. Entry requirements, money, safety and internet, plus travel tips for South Korea.",
   },
   'costa-rica': {
-    seoTitle: "Costa Rica in 13 days: Caribbean to Pacific itinerary",
+    seoTitle: "Things to do in Costa Rica: Monteverde, whales, tips",
     seoDescription:
-      "Thirteen days coast to coast: rainforests, lava canyons, the Monteverde cloud forest and the whales of the Pacific. Practical info and itinerary.",
+      "Thirteen days coast to coast: rainforests, lava canyons, Monteverde cloud forest and Pacific whales. Entry requirements, travel tips, trip cost.",
   },
   croazia: {
-    seoTitle: "Croatia itinerary: from Zagreb to Dubrovnik",
+    seoTitle: "Things to do in Croatia: Zagreb, Split, Hvar, Dubrovnik",
     seoDescription:
-      "Zagreb and Plitvice, Zadar, Šibenik and Split, the islands of Hvar and Korčula and Dubrovnik's walls. Euro, Schengen, practical info, 14-day itinerary.",
+      "Zagreb, Plitvice, Zadar, Split, Hvar, Korčula and Dubrovnik's walls. Euro, Schengen and entry requirements, travel tips, 14-day itinerary.",
     socialTitle: "Croatia beyond the seaside postcard: Zagreb to Dubrovnik in 14 days",
   },
   danimarca: {
-    seoTitle: "Copenhagen in 3 days: what to see",
+    seoTitle: "Things to do in Copenhagen: Nyhavn, Tivoli and tips",
     seoDescription:
-      "Copenhagen by bike through Nyhavn, Tivoli Gardens, the Little Mermaid and Christiania, with practical info and the Nordic capitals tour that starts here.",
+      "Copenhagen by bike through Nyhavn, Tivoli Gardens, the Little Mermaid and Christiania, with travel tips, trip cost and a Nordic tour.",
   },
   egitto: {
-    seoTitle: "Egypt travel: 10 days or 3 weeks? What to see",
+    seoTitle: "Things to do in Egypt: Giza, Luxor, Aswan, Siwa, tips",
     seoDescription:
-      "Giza, Saqqara, Luxor, Aswan, Abu Simbel, Siwa and the Red Sea: how to choose between the 11-day and the 21-day trip, with practical info and costs.",
+      "Giza, Saqqara, Luxor, Aswan, Abu Simbel, Siwa and the Red Sea: 11 or 21 days, with visa info, travel tips and trip cost.",
     socialTitle: "Egypt in 11 days or 21? How to choose the right trip",
   },
   'emirati-arabi-uniti': {
-    seoTitle: "Dubai and Abu Dhabi stopover: what to see in 2 days",
+    seoTitle: "Things to do in Dubai and Abu Dhabi on a stopover",
     seoDescription:
-      "Emirates and Etihad make a stopover in Dubai or Abu Dhabi almost free, and two days is enough to see a lot. How stopovers work and what to do.",
+      "A two-day stopover in Dubai or Abu Dhabi with Emirates or Etihad: how it works, entry requirements, travel tips and what to see.",
     socialTitle: "Stop passing through Dubai without stopping: the 2-day stopover done right",
   },
   estonia: {
-    seoTitle: "Tallinn: what to see in Estonia's medieval city",
+    seoTitle: "Things to do in Tallinn: Toompea, Old Town, Kadriorg",
     seoDescription:
-      "Tallinn's UNESCO medieval center between Toompea and the Hanseatic lower town, plus Kadriorg park and palace. Practical info and a Baltic tour.",
+      "Tallinn's UNESCO medieval center between Toompea and the lower town, plus Kadriorg. Entry requirements, travel tips and a Baltic tour.",
   },
   filippine: {
-    seoTitle: "Philippines: which islands to choose and when to go",
+    seoTitle: "Things to do in the Philippines: El Nido, Coron, Siargao",
     seoDescription:
-      "El Nido, Coron, Moalboal, Bohol and Siargao: a trip of sea, boats and short flights, to plan around the typhoons. An 18-day itinerary.",
+      "El Nido, Coron, Moalboal, Bohol and Siargao, planned around typhoons. Visa and entry requirements, travel tips, an 18-day itinerary.",
   },
   florida: {
-    seoTitle: "Florida road trip: what to see in 10 days",
+    seoTitle: "Florida road trip: Keys, Everglades, Orlando, Miami",
     seoDescription:
-      "Almost 1,800 km by car through the Keys, the Everglades, Orlando, Cape Canaveral and Miami Beach: practical info, ESTA, driving and the 10-day itinerary.",
+      "About 1,800 km by car through the Keys, Everglades, Orlando, Cape Canaveral and Miami Beach. ESTA, travel tips, driving and trip cost.",
   },
   francia: {
-    seoTitle: "France travel: what to see beyond Paris",
+    seoTitle: "Things to do in France: Paris, Provence, Alps and tips",
     seoDescription:
-      "Paris, the Loire, Normandy and Brittany, the Riviera, Provence, Bordeaux, Alsace and Champagne, the Alps and the Tour du Mont Blanc: nine itineraries.",
+      "Paris, the Loire, Normandy, Brittany, the Riviera, Provence, Bordeaux, Alsace and the Alps: nine itineraries with entry requirements and travel tips.",
     socialTitle: "France beyond Paris and the Riviera: nine itineraries, from châteaux to Mont Blanc",
   },
   germania: {
-    seoTitle: "Berlin in 4 days: what to see",
+    seoTitle: "Things to do in Berlin: Reichstag, Museum Island, Wall",
     seoDescription:
-      "Berlin from the Reich to the Wall to the 1990 reunification: four days among the Reichstag, Museum Island and the neighborhoods, with practical info.",
+      "Four days in Berlin from the Reich to the Wall to reunification: Reichstag, Museum Island, neighborhoods, with travel tips and trip cost.",
   },
   giappone: {
-    seoTitle: "Japan itinerary 12 days: what to see and sakura timing",
+    seoTitle: "Things to do in Japan: Tokyo, Kyoto, Fuji and tips",
     seoDescription:
-      "Tokyo, Kyoto, Hiroshima, Osaka and Nara in a classic loop chasing the sakura: Fushimi Inari, the Golden Pavilion, Miyajima. Practical info and JR Pass.",
+      "Tokyo, Kyoto, Hiroshima, Osaka and Nara in 12 days chasing the sakura. Entry requirements, JR Pass, travel tips and trip cost.",
   },
   giordania: {
-    seoTitle: "Jordan travel: Petra, Wadi Rum and what to know",
+    seoTitle: "Things to do in Jordan: Petra, Wadi Rum, Amman, tips",
     seoDescription:
-      "Eight days across Amman, Jerash, the Dead Sea, Petra, Wadi Rum and Aqaba, with the Jordan Pass, safety and winter weather. Practical info, New Year plan.",
+      "Eight days across Amman, Jerash, the Dead Sea, Petra, Wadi Rum and Aqaba. Visa, Jordan Pass, safety, travel tips and trip cost.",
   },
   guatemala: {
-    seoTitle: "Guatemala: what to see in Antigua, Atitlán and Tikal",
+    seoTitle: "Things to do in Guatemala: Antigua, Atitlán, Tikal",
     seoDescription:
-      "Antigua between three volcanoes, Lake Atitlán and its Maya villages, Semuc Champey and the pyramids of Tikal in the Petén jungle. Practical info, timing.",
+      "Antigua, Lake Atitlán, Semuc Champey and the pyramids of Tikal. Entry requirements, safety, travel tips, timing and trip cost.",
   },
   india: {
-    seoTitle: "India travel: Rajasthan, Varanasi or the South?",
+    seoTitle: "Things to do in India: Rajasthan, Varanasi, Kerala, tips",
     seoDescription:
-      "A country to visit in pieces: Rajasthan and the Golden Triangle, Varanasi on the Ganges or the South of temples and Kerala. Three itineraries, info.",
+      "Rajasthan and the Golden Triangle, Varanasi on the Ganges or the South and Kerala. Visa info, travel tips and three itineraries.",
     socialTitle: "Rajasthan, Varanasi or South India? How to choose your first trip to India",
   },
   indonesia: {
-    seoTitle: "Indonesia island by island: what to see and getting around",
+    seoTitle: "Things to do in Indonesia: Bali, Java, Komodo and tips",
     seoDescription:
-      "Sumatra, Java, Bali, Sulawesi, Lombok and the Gilis, Komodo, Flores and Raja Ampat: eight different islands, practical info and a 35-day itinerary.",
+      "Sumatra, Java, Bali, Sulawesi, Lombok, Komodo, Flores and Raja Ampat. Visa and entry requirements, travel tips, 35-day itinerary.",
   },
   islanda: {
-    seoTitle: "Iceland by tent: the Ring Road in 9-10 days",
+    seoTitle: "Things to do in Iceland: Ring Road, glaciers, kayaking",
     seoDescription:
-      "The full Iceland loop with six nights out of eight in a tent: waterfalls, a glacier with crampons, kayaking among icebergs and an eruption. Practical info.",
+      "The Ring Road in 9-10 days, mostly by tent: waterfalls, a glacier with crampons, icebergs by kayak. Travel tips and trip cost.",
   },
   italia: {
-    seoTitle: "Italy travel: 16 itineraries, from Rome to the Dolomites",
+    seoTitle: "Things to do in Italy: Rome, Dolomites, Sicily, Amalfi",
     seoDescription:
-      "Art cities, the Dolomites, Sicily, Sardinia, the Aeolian Islands by sailboat, the Amalfi Coast and wine routes: 16 itineraries with the right seasons.",
+      "Art cities, the Dolomites, Sicily, Sardinia, the Aeolian Islands, the Amalfi Coast and wine routes: 16 itineraries with travel tips.",
     socialTitle: "Italy is well known and badly visited: 16 itineraries to do it right",
   },
   lettonia: {
-    seoTitle: "Riga: what to see, from medieval center to Art Nouveau",
+    seoTitle: "Things to do in Riga: medieval center, Art Nouveau",
     seoDescription:
-      "Riga, the largest of the Baltic capitals: the UNESCO medieval center and hundreds of Art Nouveau facades outside the walls. Practical info and Baltic tour.",
+      "Riga's UNESCO medieval center and hundreds of Art Nouveau facades outside the walls. Entry requirements, travel tips and a Baltic tour.",
   },
   lituania: {
-    seoTitle: "Vilnius: what to see in Lithuania's Baroque capital",
+    seoTitle: "Things to do in Vilnius: Baroque old town and Užupis",
     seoDescription:
-      "The largest Baroque old town in Central and Eastern Europe, a UNESCO site, and the playful republic of Užupis. Practical info and a Baltic tour.",
+      "Vilnius's UNESCO Baroque old town and the playful republic of Užupis. Entry requirements, travel tips, trip cost and a Baltic tour.",
   },
   maldive: {
-    seoTitle: "Maldives: local islands or resort? How to choose",
+    seoTitle: "Things to do in the Maldives: local islands or resort",
     seoDescription:
-      "Twenty-six atolls and about 1,200 islands: where to see manta rays and whale sharks, how to stay in guesthouses on local islands and when a resort fits.",
+      "Manta rays and whale sharks across 26 atolls, local-island guesthouses or a resort. Entry requirements, travel tips and trip cost.",
     socialTitle: "Maldives without a resort? Local islands, mantas and whale sharks: how to choose",
   },
   malesia: {
-    seoTitle: "Malaysia: what to see, which coast to pick and what to eat",
+    seoTitle: "Things to do in Malaysia: Penang, Kuala Lumpur, coasts",
     seoDescription:
-      "The most underrated country in Southeast Asia: Malay, Chinese and Indian food in the same cities, good roads and opposite monsoons on the two coasts.",
+      "Malay, Chinese and Indian food, good roads and opposite monsoons on the two coasts. Entry requirements, travel tips, what to eat.",
   },
   marocco: {
-    seoTitle: "Morocco in 9 days: Marrakech to the Sahara, what to see",
+    seoTitle: "Things to do in Morocco: Marrakech, Sahara, Essaouira",
     seoDescription:
-      "By van from Marrakech to the Sahara: Telouet, Aït Benhaddou, the Todra Gorge, a night at Erg Chebbi, the Draa valley and Essaouira. Practical info, tips.",
+      "Nine days by van from Marrakech to the Sahara: Aït Benhaddou, Todra Gorge, Erg Chebbi, Essaouira. Entry requirements, travel tips, cost.",
   },
   messico: {
-    seoTitle: "Mexico travel: Yucatán, Day of the Dead or Baja?",
+    seoTitle: "Things to do in Mexico: Yucatán, Oaxaca, Baja and tips",
     seoDescription:
-      "Three different trips: Yucatán and the Riviera Maya with cenotes and whale sharks, Day of the Dead in Oaxaca, Baja California's whales. Practical info.",
+      "Yucatán and the Riviera Maya, Day of the Dead in Oaxaca, Baja California's whales. Entry requirements, travel tips and trip cost.",
     socialTitle: "Yucatán, Day of the Dead or whales in Baja: which Mexico to choose",
   },
   montenegro: {
-    seoTitle: "Montenegro in 7-10 days: from Kotor to Durmitor",
+    seoTitle: "Things to do in Montenegro: Kotor, Durmitor, Skadar",
     seoDescription:
-      "From the Bay of Kotor with Kotor and Perast to the Budva riviera, Lake Skadar, Ostrog, Durmitor and the Tara canyon. Practical info and budget.",
+      "The Bay of Kotor, Perast, Budva, Lake Skadar, Ostrog, Durmitor and the Tara canyon. Entry requirements, travel tips and trip cost.",
   },
   'new-york': {
-    seoTitle: "New York in 6-7 days: what to see",
+    seoTitle: "Things to do in New York: Times Square, Broadway, DUMBO",
     seoDescription:
-      "Six days on foot through Times Square, Top of the Rock, the Statue of Liberty, Broadway, DUMBO and a live game. Practical info, ESTA and the subway.",
+      "Six days on foot: Times Square, Top of the Rock, Statue of Liberty, Broadway, DUMBO. ESTA and entry requirements, subway, travel tips.",
   },
   norvegia: {
-    seoTitle: "Norway: Lofoten in summer or Tromsø in winter?",
+    seoTitle: "Things to do in Norway: Lofoten, Tromsø, northern lights",
     seoDescription:
-      "Two opposite trips: seven days on the road in the Lofoten with the midnight sun, or Tromsø with northern lights, huskies and Sami culture. Practical info.",
+      "Lofoten with the midnight sun or Tromsø with northern lights, huskies and Sami culture. Entry requirements, travel tips and trip cost.",
     socialTitle: "Lofoten under the midnight sun or Tromsø under the northern lights? Two Norways compared",
   },
   'paesi-bassi': {
-    seoTitle: "Amsterdam in 4 days: what to see",
+    seoTitle: "Things to do in Amsterdam: canals, Rijksmuseum, tips",
     seoDescription:
-      "Amsterdam on foot and by bike: the UNESCO canal ring, the Rijksmuseum, the Van Gogh Museum and the neighborhoods. Practical info, bookings and itinerary.",
+      "Amsterdam on foot and by bike: the UNESCO canal ring, Rijksmuseum, Van Gogh Museum. Entry requirements, travel tips, bookings, itinerary.",
   },
   panama: {
-    seoTitle: "Panama: what to see in San Blas, Bocas and the capital",
+    seoTitle: "Things to do in Panama: San Blas, Bocas del Toro, city",
     seoDescription:
-      "The easiest country to get around in Central America: you pay in dollars and domestic flights work. Panama City, San Blas's Guna islands, Bocas del Toro.",
+      "Panama City, the Guna islands of San Blas and Bocas del Toro, paying in dollars with domestic flights. Entry requirements, travel tips.",
   },
   peru: {
-    seoTitle: "Peru travel: what to see, from Machu Picchu to the Amazon",
+    seoTitle: "Things to do in Peru: Machu Picchu, Titicaca, Amazon",
     seoDescription:
-      "Machu Picchu and the Choquequirao trek, Titicaca, three gateways to the Amazon and the Cordillera Blanca: practical info and a 31-day itinerary.",
+      "Machu Picchu, the Choquequirao trek, Titicaca, the Amazon and the Cordillera Blanca. Entry requirements, travel tips, 31-day itinerary.",
   },
   polonia: {
-    seoTitle: "Kraków in a long weekend: what to see",
+    seoTitle: "Things to do in Kraków: Wawel, Kazimierz, Auschwitz",
     seoDescription:
-      "Kraków, which came out of the war almost intact: the medieval center, Wawel Castle, Kazimierz and the day trip to Auschwitz-Birkenau. Practical info.",
+      "Kraków's medieval center, Wawel Castle, Kazimierz and the Auschwitz-Birkenau day trip. Entry requirements, travel tips and trip cost.",
   },
   portogallo: {
-    seoTitle: "Lisbon in 4 days: what to see",
+    seoTitle: "Things to do in Lisbon: Alfama, Belém, Sintra and tips",
     seoDescription:
-      "Lisbon on its seven hills: tram 28 through the Alfama, Jerónimos and the Belém Tower, the miradouros and the Sintra day trip. Practical info, itinerary.",
+      "Lisbon's seven hills: tram 28 through Alfama, Jerónimos, Belém Tower, miradouros and Sintra. Entry requirements, travel tips, itinerary.",
   },
   qatar: {
-    seoTitle: "Doha stopover: how it works and what to see",
+    seoTitle: "Things to do in Doha: Qatar Airways stopover and tips",
     seoDescription:
-      "Qatar Airways offers four- and five-star hotels in Doha at stopover prices: how to book it, what to see in the city and what to know about Qatar.",
+      "Qatar Airways stopover hotels in Doha at stopover prices: how to book, visa and entry requirements, travel tips and what to see.",
   },
   'repubblica-ceca': {
-    seoTitle: "Prague in a long weekend: what to see",
+    seoTitle: "Things to do in Prague: Old Town, Charles Bridge, Castle",
     seoDescription:
-      "The city of a hundred spires, which came out of the war almost unscathed: Old Town, Charles Bridge, the Castle and Malá Strana. Practical info and tips.",
+      "Prague's Old Town, Charles Bridge, the Castle and Malá Strana. Entry requirements, travel tips, trip cost and a long-weekend plan.",
   },
   singapore: {
-    seoTitle: "Singapore: what to see and what to know before you go",
+    seoTitle: "Things to do in Singapore: hawker centres and tips",
     seoDescription:
-      "An island with no resources in 1965, today the most efficient city in the world and one of the priciest: practical info, hawker centres, Malaysia.",
+      "Hawker centres, a city built from an island with no resources, and a short hop to Malaysia. Entry requirements, travel tips and trip cost.",
   },
   spagna: {
-    seoTitle: "Spain travel: Canaries, Balearics, Andalusia or North?",
+    seoTitle: "Things to do in Spain: Canaries, Andalusia, Balearics",
     seoDescription:
-      "Four different Spains: the Canaries, mild all year, the Balearic summer, Moorish Andalusia and the green North of pintxos. Four itineraries, info.",
+      "The Canaries, Balearic summer, Moorish Andalusia and the green North of pintxos. Four itineraries with entry requirements and travel tips.",
     socialTitle: "Canaries, Balearics, Andalusia or the North: which Spain to choose?",
   },
   'sri-lanka': {
-    seoTitle: "Sri Lanka in 12 days: what to see and how to get around",
+    seoTitle: "Things to do in Sri Lanka: Ella, Sigiriya, beaches, tips",
     seoDescription:
-      "By private van through the cultural triangle, Adam's Peak at night, Nuwara Eliya's plantations, the train to Ella and the southern beaches. Practical info.",
+      "By private van through the cultural triangle, Adam's Peak, Nuwara Eliya and Ella's train to the south. Visa info, travel tips and cost.",
   },
   svezia: {
-    seoTitle: "Swedish Lapland: northern lights from Kiruna to Abisko",
+    seoTitle: "Things to do in Swedish Lapland: Kiruna, Abisko, aurora",
     seoDescription:
-      "Seven days in Sweden's far north: Kiruna, Abisko and its dry microclimate for the aurora, the snowmobile. Practical info and costs.",
+      "Seven days in Sweden's far north: Kiruna, Abisko's dry microclimate for the aurora, snowmobiling. Entry requirements, travel tips, costs.",
   },
   svizzera: {
-    seoTitle: "Switzerland by van: the Bernese Alps and the real cost",
+    seoTitle: "Switzerland by van: Bernese Alps, Matterhorn and cost",
     seoDescription:
-      "One of Europe's most expensive countries, to budget before leaving: the Bernese Alps from Interlaken to the Matterhorn, by van. Practical info and costs.",
+      "The Bernese Alps from Interlaken to the Matterhorn by van, in one of Europe's priciest countries. Entry requirements, travel tips, trip cost.",
   },
   thailandia: {
-    seoTitle: "Thailand: what to see in Bangkok, Chiang Mai and the islands",
+    seoTitle: "Things to do in Thailand: Bangkok, Chiang Mai, islands",
     seoDescription:
-      "The 11-day trip from Bangkok to Hua Hin, Khao Sok, Krabi and Koh Phi Phi, plus Chiang Mai and the Andaman: practical info, seasons and which sea to pick.",
+      "Bangkok, Hua Hin, Khao Sok, Krabi, Koh Phi Phi, Chiang Mai and the Andaman. Entry requirements, travel tips, seasons and trip cost.",
   },
   transilvania: {
-    seoTitle: "Transylvania road trip: castles and Transfăgărășan",
+    seoTitle: "Transylvania road trip: Bran, Peleș, Transfăgărășan",
     seoDescription:
-      "Five days across Wallachia and Transylvania: Peleș Castle, Bran, the Turda salt mine and the hairpins of the Transfăgărășan. Practical info and driving.",
+      "Five days across Wallachia and Transylvania: Peleș Castle, Bran, Turda salt mine, Transfăgărășan. Entry requirements, travel tips, driving.",
   },
   turchia: {
-    seoTitle: "Turkey travel: what to see in 12-16 days",
+    seoTitle: "Things to do in Turkey: Istanbul, Cappadocia, Ephesus",
     seoDescription:
-      "Istanbul, Cappadocia by balloon, Pamukkale, Ephesus and Aphrodisias, the Lycian coast from Fethiye to Kaş and Antalya. Practical info, 16-day itinerary.",
+      "Istanbul, Cappadocia by balloon, Pamukkale, Ephesus, the Lycian coast and Antalya. Visa info, travel tips and a 16-day itinerary.",
   },
   ungheria: {
-    seoTitle: "Budapest in a weekend: what to see, thermal baths included",
+    seoTitle: "Things to do in Budapest: thermal baths, Parliament, tips",
     seoDescription:
-      "Buda, Óbuda and Pest divided by the Danube, the Parliament, the castle and over a hundred thermal springs. Practical info, forint and a weekend itinerary.",
+      "Buda, Óbuda and Pest along the Danube, the Parliament, the castle and thermal springs. Entry requirements, travel tips, forint, itinerary.",
   },
 }
 

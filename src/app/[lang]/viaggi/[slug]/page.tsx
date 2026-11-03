@@ -36,17 +36,20 @@ import { DaySectionSignature } from '@/components/signature/DaySectionSignature'
 import { RouteLine } from '@/components/signature/RouteLine'
 import { Container } from '@/components/ui/Container'
 import { getAllViaggi, getViaggioBySlug, type Viaggio } from '@/lib/viaggi'
-import { getTripMeta } from '@/lib/geo'
+import { getPaese, getTripMeta } from '@/lib/geo'
 import type { ViaggioInBreve, TripMeta } from '@/lib/types'
 import { getContinente, slugify } from '@/lib/utils'
 import { JsonLd } from '@/components/JsonLd'
-import { articoloViaggioJsonLd, breadcrumbJsonLd } from '@/lib/structured-data'
+import { articoloViaggioJsonLd, breadcrumbJsonLd, faqJsonLd } from '@/lib/structured-data'
 import type { EditorialMeta } from '@/content/viaggi-editorial'
 import { getHeroVideo } from '@/content/viaggi-hero-video'
 import { pageMetadata } from '@/lib/seo'
 
 const T = {
   it: {
+    faqGiorni: (p: string) => `Quanti giorni servono per un viaggio in ${p}?`,
+    faqCosto: (p: string) => `Quanto costa un viaggio in ${p}?`,
+    faqQuando: (p: string) => `Quando andare in ${p}?`,
     home: 'Home',
     viaggi: 'Viaggi',
     inBreve: 'Il viaggio in breve',
@@ -83,6 +86,9 @@ const T = {
     aChiLoConsiglio: 'A chi lo consiglio',
   },
   en: {
+    faqGiorni: (p: string) => `How many days do you need for a trip to ${p}?`,
+    faqCosto: (p: string) => `How much does a trip to ${p} cost?`,
+    faqQuando: (p: string) => `When is the best time to go to ${p}?`,
     home: 'Home',
     viaggi: 'Trips',
     inBreve: 'The trip in brief',
@@ -119,6 +125,9 @@ const T = {
     aChiLoConsiglio: 'Who I recommend it to',
   },
   es: {
+    faqGiorni: (p: string) => `¿Cuántos días hacen falta para un viaje a ${p}?`,
+    faqCosto: (p: string) => `¿Cuánto cuesta un viaje a ${p}?`,
+    faqQuando: (p: string) => `¿Cuándo ir a ${p}?`,
     home: 'Inicio',
     viaggi: 'Viajes',
     inBreve: 'El viaje en breve',
@@ -223,6 +232,9 @@ export default async function ViaggioPage({ params }: { params: Promise<{ slug: 
   }
   if (meta) toc.push({ href: '#organizza', label: t.organizza })
 
+  // il luogo del titolo («Rome in 4 days…» → Rome), altrimenti il Paese
+  const nomePaese = viaggio.titolo.match(/^(.+?)\s+(?:in|en)\s+\d/i)?.[1] ?? getPaese(meta.paeseSlug, lingua)?.nome ?? viaggio.titolo
+
   return (
     <>
       <JsonLd
@@ -244,7 +256,16 @@ export default async function ViaggioPage({ params }: { params: Promise<{ slug: 
             ],
             lingua,
           ),
-        ]}
+          // domande che si cercano davvero («how many days», «trip cost»), con le risposte già in pagina
+          faqJsonLd(
+            [
+              { domanda: t.faqGiorni(nomePaese), risposta: [viaggio.durata, meta.ritmo].filter(Boolean).join('. ') },
+              { domanda: t.faqCosto(nomePaese), risposta: meta.budgetTotale },
+              { domanda: t.faqQuando(nomePaese), risposta: viaggio.periodo },
+            ],
+            lingua,
+          ),
+        ].filter((d) => d !== null)}
       />
       <ScrollProgress className="fixed inset-x-0 top-0 z-[60] h-0.5 bg-rosso motion-reduce:hidden" />
 
