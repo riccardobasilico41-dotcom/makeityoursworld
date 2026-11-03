@@ -2,6 +2,7 @@ import Link from '@/components/ui/Link'
 import { getAllPaesi } from '@/lib/geo'
 import { getAllMeraviglie } from '@/lib/meraviglie'
 import { Marchio } from './Marchio'
+import { AREE } from '@/lib/aree'
 import { NavPrincipale, type GruppoMenu } from './NavPrincipale'
 import { Ricerca } from './Ricerca'
 import { SalvatiContatore } from './SalvatiContatore'
@@ -20,6 +21,7 @@ const T = {
     },
     meraviglie: 'Meraviglie',
     tuttiPaesi: 'Tutti i Paesi',
+    tuttaArea: (a: string) => `Tutto su ${a}: Paesi e destinazioni`,
     sette: 'Le sette meraviglie',
   },
   en: {
@@ -32,6 +34,7 @@ const T = {
     },
     meraviglie: 'Wonders',
     tuttiPaesi: 'All countries',
+    tuttaArea: (a: string) => `All of ${a}: countries and destinations`,
     sette: 'The seven wonders',
   },
   es: {
@@ -44,18 +47,11 @@ const T = {
     },
     meraviglie: 'Maravillas',
     tuttiPaesi: 'Todos los países',
+    tuttaArea: (a: string) => `Todo ${a}: países y destinos`,
     sette: 'Las siete maravillas',
   },
-} satisfies Record<Lingua, { aree: Record<string, string>; meraviglie: string; tuttiPaesi: string; sette: string }>
+} satisfies Record<Lingua, { aree: Record<string, string>; meraviglie: string; tuttiPaesi: string; tuttaArea: (a: string) => string; sette: string }>
 
-/** Macro-aree del menu: ogni area raccoglie uno o più `continente` dei Paesi (`nome` = chiave italiana, tradotta a schermo). */
-const AREE: { nome: string; continenti: string[] }[] = [
-  { nome: 'Asia', continenti: ['Asia'] },
-  { nome: 'Europa', continenti: ['Europa'] },
-  { nome: 'Africa e Medio Oriente', continenti: ['Africa', 'Medio Oriente'] },
-  { nome: 'Nord e Centro America', continenti: ['Nord America', 'America Centrale'] },
-  { nome: 'Sud America', continenti: ['Sud America'] },
-]
 
 /* Testata: marchio a macchina da scrivere a sinistra, menu per area a destra
  * (ogni area apre l'elenco dei suoi Paesi), poi «Cerca» e il cuore dei salvati,
@@ -66,16 +62,18 @@ export async function Header() {
   const t = T[lingua]
   const paesi = getAllPaesi(lingua)
   const gruppi: GruppoMenu[] = AREE.map((a) => ({
-    nome: t.aree[a.nome as keyof typeof t.aree],
+    nome: a.nome[lingua],
+    // il nome dell'area porta alla sua pagina con tutte le card; il passaggio del mouse apre l'elenco dei Paesi
+    href: `/aree/${a.slug}`,
     voci: paesi
       .filter((p) => a.continenti.includes(p.continente))
       .sort((x, y) => x.nome.localeCompare(y.nome, LOCALE[lingua].html))
       .map((p) => ({ nome: p.nome, href: `/destinazioni/${p.slug}` })),
-    tutti: { nome: t.tuttiPaesi, href: '/destinazioni' },
+    tutti: { nome: t.tuttaArea(a.nome[lingua]), href: `/aree/${a.slug}` },
   })).filter((g) => g.voci.length > 0)
 
   // l'Amazzonia attraversa più Paesi: ha la sua pagina, in cima al Sud America
-  const sud = gruppi[AREE.findIndex((a) => a.nome === 'Sud America')]
+  const sud = gruppi[AREE.findIndex((a) => a.slug === 'sud-america')]
   sud?.voci.unshift({ nome: { it: 'Amazzonia', en: 'Amazon', es: 'Amazonía' }[lingua], href: '/amazzonia' })
 
   gruppi.push({

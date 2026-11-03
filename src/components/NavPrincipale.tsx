@@ -15,7 +15,7 @@ const T = {
 } satisfies Record<Lingua, Record<string, string>>
 
 export type VoceMenu = { nome: string; href: string }
-export type GruppoMenu = { nome: string; voci: VoceMenu[]; tutti: VoceMenu }
+export type GruppoMenu = { nome: string; voci: VoceMenu[]; tutti: VoceMenu; /** pagina dell'area: il nome nel menu diventa un link */ href?: string }
 
 /**
  * Menu principale per macro-area (Asia, Europa, …, Meraviglie), ognuna con i
@@ -74,16 +74,35 @@ export function NavPrincipale({ gruppi }: { gruppi: GruppoMenu[] }) {
                 onMouseEnter={() => setAperto(g.nome)}
                 onMouseLeave={() => setAperto((a) => (a === g.nome ? null : a))}
               >
-                <button
-                  type="button"
-                  aria-expanded={isOpen}
-                  aria-controls={id}
-                  onClick={() => setAperto(isOpen ? null : g.nome)}
-                  className="inline-flex min-h-11 items-center gap-1 whitespace-nowrap text-[0.95rem] font-medium text-ink transition-colors duration-150 hover:text-rosso aria-expanded:text-rosso"
-                >
-                  {g.nome}
-                  <ChevronDown size={14} aria-hidden="true" className={`transition-transform duration-150 ${isOpen ? 'rotate-180' : ''}`} />
-                </button>
+                {g.href ? (
+                  // nome = link alla pagina dell'area; la freccia (e il passaggio del mouse) apre l'elenco
+                  <span className={`inline-flex min-h-11 items-center whitespace-nowrap text-[0.95rem] font-medium transition-colors duration-150 ${isOpen ? 'text-rosso' : 'text-ink'}`}>
+                    <Link href={g.href} className="hover:text-rosso" onClick={() => setAperto(null)}>
+                      {g.nome}
+                    </Link>
+                    <button
+                      type="button"
+                      aria-expanded={isOpen}
+                      aria-controls={id}
+                      aria-label={g.nome}
+                      onClick={() => setAperto(isOpen ? null : g.nome)}
+                      className="inline-flex min-h-11 items-center pl-1 hover:text-rosso"
+                    >
+                      <ChevronDown size={14} aria-hidden="true" className={`transition-transform duration-150 ${isOpen ? 'rotate-180' : ''}`} />
+                    </button>
+                  </span>
+                ) : (
+                  <button
+                    type="button"
+                    aria-expanded={isOpen}
+                    aria-controls={id}
+                    onClick={() => setAperto(isOpen ? null : g.nome)}
+                    className="inline-flex min-h-11 items-center gap-1 whitespace-nowrap text-[0.95rem] font-medium text-ink transition-colors duration-150 hover:text-rosso aria-expanded:text-rosso"
+                  >
+                    {g.nome}
+                    <ChevronDown size={14} aria-hidden="true" className={`transition-transform duration-150 ${isOpen ? 'rotate-180' : ''}`} />
+                  </button>
+                )}
                 <div
                   id={id}
                   hidden={!isOpen}

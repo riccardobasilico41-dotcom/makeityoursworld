@@ -6,6 +6,7 @@ import { getAllMeraviglie } from '@/lib/meraviglie'
 import { listeAttrezzatura } from '@/content/attrezzatura'
 import { LINGUE_PUBBLICATE, LINGUA_PREDEFINITA, LOCALE } from '@/lib/i18n/config'
 import { localizza } from '@/lib/i18n/percorsi'
+import { AREE } from '@/lib/aree'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   // i percorsi sono canonici (italiani): ogni voce esce una volta per lingua, con gli hreflang verso le altre
@@ -20,6 +21,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { path: '/lavoriamo-insieme', priority: 0.5, changeFrequency: 'monthly' as const },
     { path: '/chi-sono', priority: 0.6, changeFrequency: 'monthly' as const },
     { path: '/amazzonia', priority: 0.8, changeFrequency: 'monthly' as const },
+    ...AREE.map((a) => ({ path: `/aree/${a.slug}`, priority: 0.8, changeFrequency: 'monthly' as const })),
     { path: '/come-lavoro', priority: 0.5, changeFrequency: 'yearly' as const },
     ...getAllMeraviglie('it').map((m) => ({
       path: `/meraviglie/${m.slug}`,

@@ -2,7 +2,7 @@ import type { Paese } from '@/lib/types'
 
 export const filippine: Paese = {
   slug: 'filippine',
-  nome: 'Filippine',
+  nome: 'Philippines',
   continente: 'Asia',
   titolo: 'The Philippines: Palawan, the Visayas and Siargao',
   descrizione:

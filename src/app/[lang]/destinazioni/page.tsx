@@ -13,6 +13,7 @@ import { JsonLd } from '@/components/JsonLd'
 import { MappaMondoSezione } from '@/components/MappaMondoSezione'
 import { raccoltaJsonLd } from '@/lib/structured-data'
 import { linguaCorrente } from '@/lib/i18n/server'
+import { AREE } from '@/lib/aree'
 import { etichetta } from '@/lib/i18n/etichette'
 import type { Lingua } from '@/lib/i18n/config'
 
@@ -94,7 +95,18 @@ export default async function DestinazioniIndexPage() {
           {gruppi.map(({ continente, items }) => (
             <div key={continente}>
               <div className="flex items-baseline gap-4 border-b border-alpine/15 pb-3">
-                <h2 className="font-display text-[clamp(1.6rem,2.4vw,2.1rem)] text-alpine">{etichetta(continente, lingua)}</h2>
+                <h2 className="font-display text-[clamp(1.6rem,2.4vw,2.1rem)] text-alpine">
+                  {(() => {
+                    const area = AREE.find((a) => a.continenti.includes(continente))
+                    return area ? (
+                      <Link href={`/aree/${area.slug}`} className="hover:text-rosso">
+                        {etichetta(continente, lingua)}
+                      </Link>
+                    ) : (
+                      etichetta(continente, lingua)
+                    )
+                  })()}
+                </h2>
                 <span className="text-xs font-semibold uppercase tracking-[0.18em] text-stone/85">
                   {items.length} {items.length === 1 ? t.paese : t.paesi}
                 </span>

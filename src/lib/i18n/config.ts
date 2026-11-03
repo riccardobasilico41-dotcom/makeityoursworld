@@ -51,6 +51,7 @@ export const SEGMENTI: Record<Lingua, Record<string, string>> = {
     'chi-sono': 'about',
     'come-lavoro': 'how-i-work',
     amazzonia: 'amazon',
+    aree: 'regions',
   },
   es: {
     viaggi: 'viajes',
@@ -67,5 +68,6 @@ export const SEGMENTI: Record<Lingua, Record<string, string>> = {
     'chi-sono': 'sobre-mi',
     'come-lavoro': 'como-trabajo',
     amazzonia: 'amazonia',
+    aree: 'regiones',
   },
 }

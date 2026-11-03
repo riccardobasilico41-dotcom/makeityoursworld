@@ -1,6 +1,17 @@
 import slugEn from '@/content/i18n/en/slug.json'
 import slugEs from '@/content/i18n/es/slug.json'
 import { LINGUE, LINGUA_PREDEFINITA, PREFISSO, SEGMENTI, type Lingua } from './config'
+import { AREE } from '../aree'
+
+/** Slug delle macro-regioni (/aree/<slug>), canonico → tradotto e ritorno. */
+const AREA_VERSO: Record<'en' | 'es', Record<string, string>> = {
+  en: Object.fromEntries(AREE.map((a) => [a.slug, a.slugTradotto.en])),
+  es: Object.fromEntries(AREE.map((a) => [a.slug, a.slugTradotto.es])),
+}
+const AREA_INDIETRO: Record<'en' | 'es', Record<string, string>> = {
+  en: Object.fromEntries(AREE.map((a) => [a.slugTradotto.en, a.slug])),
+  es: Object.fromEntries(AREE.map((a) => [a.slugTradotto.es, a.slug])),
+}
 
 /*
  * Traduzione dei percorsi tra la forma canonica (italiana, senza prefisso: quella scritta
@@ -94,6 +105,7 @@ export function localizza(href: string, lingua: Lingua): string {
   const seg = percorso.split('/').filter(Boolean)
   const m = SLUG[lingua]
   const tradotti = m ? slugVerso(seg, m) : seg
+  if (lingua !== 'it' && tradotti[0] === 'aree' && tradotti[1]) tradotti[1] = AREA_VERSO[lingua][tradotti[1]] ?? tradotti[1]
   if (tradotti.length) tradotti[0] = SEGMENTI[lingua][tradotti[0]] ?? tradotti[0]
   const corpo = tradotti.length ? '/' + tradotti.join('/') : ''
   return (PREFISSO[lingua] + corpo || '/') + coda
@@ -113,6 +125,7 @@ export function canonico(pubblico: string): { lingua: Lingua; percorso: string }
     seg[0] = inv.segmenti[seg[0]] ?? seg[0]
     const [a, b, c] = seg
     const s = inv.slug
+    if (a === 'aree' && b) seg[1] = AREA_INDIETRO[lingua][b] ?? b
     if (a === 'viaggi' && b) seg[1] = s.viaggi[b] ?? b
     if (a === 'meraviglie' && b) seg[1] = s.meraviglie[b] ?? b
     if (a === 'attrezzatura' && b) seg[1] = s.attrezzatura[b] ?? b
