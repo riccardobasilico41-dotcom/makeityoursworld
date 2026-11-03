@@ -406,6 +406,8 @@ export const destinazioniBorneo: Destinazione[] = [
     tipologia: ['natura', 'grotte', 'trekking'],
     giorniConsigliati: '3 giorni',
     visitataPersonalmente: false,
+    immagine: '/images/borneo/gunung-mulu.jpg',
+    imageAlt: 'I Pinnacles di Gunung Mulu: guglie di calcare grigio alte decine di metri tra la foresta pluviale e la nebbia',
     introduzione:
       'Un parco nazionale patrimonio UNESCO nell\'interno del Sarawak, raggiungibile solo in aereo, con alcuni dei sistemi di grotte più grandi del pianeta. La Sarawak Chamber è la più grande camera sotterranea conosciuta al mondo, e ogni sera dalla Deer Cave escono milioni di pipistrelli in formazioni a spirale.',
     percheAndarci:
@@ -442,6 +444,5 @@ export const destinazioniBorneo: Destinazione[] = [
       'Non ci sono ancora stato, e la scheda si ferma ai fatti invece di raccontare una giornata che non c\'è stata. È però in lista per un motivo preciso: le dimensioni. La Sarawak Chamber è la camera sotterranea più grande conosciuta (nei paragoni che si trovano in giro ci starebbero dentro diversi aerei di linea affiancati), e la Deer Cave ha un\'imboccatura così ampia che l\'uscita serale dei pipistrelli sembra una colonna di fumo scuro che si arrotola sopra la foresta. Prima di sognarci sopra bisogna sapere una cosa di logistica: al Mulu si arriva solo in aereo, i posti letto nel parco sono pochi e limitano i visitatori, e quindi si prenota al contrario del solito: prima il letto, poi il volo.',
     esperienzeSlugs: [],
     tripSlugs: [],
-    imageAlt: 'L\'uscita serale dei pipistrelli dalla Deer Cave nel parco nazionale di Gunung Mulu, Sarawak',
   },
 ]

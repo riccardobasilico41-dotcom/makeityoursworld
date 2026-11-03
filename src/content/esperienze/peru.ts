@@ -62,6 +62,8 @@ export const esperienzePeru: Esperienza[] = [
     paeseSlug: 'peru',
     destinazioneSlug: 'choquequirao',
     nome: 'Trek a Choquequirao',
+    immagine: '/images/peru/choquequirao.jpg',
+    imageAlt: 'I terrazzamenti di Choquequirao con i lama di pietra, alla fine della salita del trek da Cachora',
     localita: 'Da Cachora, regione di Apurímac',
     cosE:
       'Quattro o cinque giorni di cammino andata e ritorno da Cachora, con la discesa di circa 1.500 metri nel canyon dell\'Apurímac e la risalita sull\'altro versante fino alla cittadella inca di Choquequirao, scavata solo in parte e quasi sempre deserta.',
@@ -78,7 +80,6 @@ export const esperienzePeru: Esperienza[] = [
     giudizio: 'da-verificare',
     alternative: ['Traversata Choquequirao-Machu Picchu in 8-9 giorni, per chi ha tempo ed esperienza'],
     tripSlugs: [],
-    imageAlt: 'Terrazzamenti inca di Choquequirao affacciati sul canyon dell\'Apurímac, Perù',
   },
   {
     slug: 'homestay-amantani',

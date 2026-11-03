@@ -7,6 +7,7 @@ import { creditiGiornoFoto } from '@/content/viaggi-giorno-foto-crediti'
 import { creditiHeroVideo } from '@/content/viaggi-hero-video-crediti'
 import { creditiMeraviglie } from '@/content/meraviglie-foto-crediti'
 import { creditiHeroVideoMeraviglie } from '@/content/meraviglie-hero-video-crediti'
+import { creditiDestinazioni } from '@/content/destinazioni-foto-crediti'
 
 export const metadata: Metadata = {
   ...pageMetadata({
@@ -30,6 +31,7 @@ export default function CreditiFotograficiPage() {
   Object.values(creditiHeroVideo).forEach(aggiungi)
   Object.values(creditiMeraviglie).forEach(aggiungi)
   Object.values(creditiHeroVideoMeraviglie).forEach(aggiungi)
+  Object.values(creditiDestinazioni).forEach(aggiungi)
   const elenco = [...voci.values()].sort((a, b) => a.autore.localeCompare(b.autore, 'it'))
 
   return (

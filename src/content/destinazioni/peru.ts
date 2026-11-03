@@ -268,6 +268,8 @@ export const destinazioniPeru: Destinazione[] = [
     tipologia: ['trekking', 'cultura', 'avventura'],
     giorniConsigliati: '4-5 giorni per l\'andata e ritorno classico',
     visitataPersonalmente: false,
+    immagine: '/images/peru/choquequirao.jpg',
+    imageAlt: 'I terrazzamenti inca di Choquequirao con i lama di pietra bianca nei muri e un gruppo di escursionisti sulla terrazza',
     introduzione:
       'La "sorella di Machu Picchu": una cittadella inca di dimensioni paragonabili, scavata solo per circa un terzo, appollaiata sopra il canyon dell\'Apurímac. Ci arrivano meno di diecimila persone all\'anno, contro il milione e mezzo di Machu Picchu, e il motivo è semplice: non c\'è altro modo che camminare per due giorni.',
     percheAndarci:
@@ -344,7 +346,6 @@ export const destinazioniPeru: Destinazione[] = [
       '',
     esperienzeSlugs: ['trek-choquequirao'],
     tripSlugs: [],
-    imageAlt: 'I terrazzamenti inca di Choquequirao sopra il canyon dell\'Apurímac, Perù',
   },
   {
     slug: 'amazzonia-peruviana',
