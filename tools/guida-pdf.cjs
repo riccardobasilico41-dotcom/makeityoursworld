@@ -48,6 +48,11 @@ if (!slug || !nome) {
   const pubblica = path.join(__dirname, '..', 'public', 'guide-pdf')
   fs.mkdirSync(pubblica, { recursive: true })
   fs.copyFileSync(out, path.join(pubblica, `${slug}.pdf`))
+  // elenco letto dal pulsante «Scarica la guida» (src/content/guide-pdf.json: slug → byte)
+  const elenco = path.join(__dirname, '..', 'src', 'content', 'guide-pdf.json')
+  const guide = fs.existsSync(elenco) ? JSON.parse(fs.readFileSync(elenco, 'utf8')) : {}
+  guide[slug] = fs.statSync(path.join(pubblica, `${slug}.pdf`)).size
+  fs.writeFileSync(elenco, JSON.stringify(Object.fromEntries(Object.entries(guide).sort()), null, 2) + '\n')
   fs.rmSync(tmp, { recursive: true, force: true })
   console.log(out)
 })().catch((e) => {

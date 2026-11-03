@@ -1,15 +1,16 @@
-import fs from 'node:fs'
-import path from 'node:path'
 import { FileDown } from 'lucide-react'
+import guide from '@/content/guide-pdf.json'
 
 /**
  * Pulsante per scaricare la guida PDF del viaggio (A5, da stampare o tenere sul telefono).
- * Compare solo se il file esiste in public/guide-pdf/<slug>.pdf: lo crea tools/guida-pdf.cjs.
+ * Compare solo se il viaggio è in src/content/guide-pdf.json (slug → byte), che
+ * tools/guida-pdf.cjs aggiorna insieme a public/guide-pdf/<slug>.pdf. Niente lettura del
+ * disco qui: altrimenti Vercel copia tutti i PDF dentro le funzioni e la pubblicazione fallisce.
  */
 export function ScaricaGuida({ slug }: { slug: string }) {
-  const file = path.join(process.cwd(), 'public', 'guide-pdf', `${slug}.pdf`)
-  if (!fs.existsSync(file)) return null
-  const mb = fs.statSync(file).size / 1_000_000
+  const byte = (guide as Record<string, number>)[slug]
+  if (!byte) return null
+  const mb = byte / 1_000_000
   return (
     <a
       href={`/guide-pdf/${slug}.pdf`}

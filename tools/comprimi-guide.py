@@ -48,3 +48,9 @@ if __name__ == '__main__':
     nomi = sys.argv[1:] or [f[:-4] for f in sorted(os.listdir(DIR)) if f.endswith('.pdf')]
     for n in nomi:
         comprimi(os.path.join(DIR, f'{n}.pdf'))
+    # elenco per il pulsante «Scarica la guida» (slug → byte), con le misure nuove
+    import json
+    elenco = os.path.join(os.path.dirname(__file__), '..', 'src', 'content', 'guide-pdf.json')
+    guide = {f[:-4]: os.path.getsize(os.path.join(DIR, f)) for f in sorted(os.listdir(DIR)) if f.endswith('.pdf')}
+    with open(elenco, 'w') as f:
+        f.write(json.dumps(guide, indent=2) + '\n')
