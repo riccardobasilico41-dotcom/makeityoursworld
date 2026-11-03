@@ -1,0 +1,35 @@
+{
+  "paesi": { "italia": "italia" },
+  "esperienze": {
+    "italia/alta-via-1": "alta-via-1-dolomitas",
+    "italia/tre-cime-lavaredo": "tre-cime-di-lavaredo",
+    "italia/via-ferrata-dolomiti": "via-ferrata-dolomitas",
+    "italia/sellaronda": "sellaronda",
+    "italia/scialpinismo-ciaspole": "esqui-de-montana-raquetas",
+    "italia/roma-sotterranea": "roma-subterranea",
+    "italia/appia-antica": "via-apia-antigua",
+    "italia/cupola-brunelleschi": "cupula-de-brunelleschi",
+    "italia/venezia-alba": "venecia-al-amanecer",
+    "italia/pompei-ercolano": "pompeya-herculano",
+    "italia/napoli-sotterranea": "napoles-subterranea",
+    "italia/pizza-napoletana": "pizza-napolitana",
+    "italia/etna": "subir-al-etna",
+    "italia/gorropu": "garganta-de-gorropu",
+    "italia/cala-goloritze": "cala-goloritze",
+    "italia/cammini-italia": "caminos-de-italia",
+    "italia/degustazione-cantina": "cata-en-bodega",
+    "italia/museo-egizio": "museo-egipcio-turin",
+    "italia/sentiero-degli-dei": "sendero-de-los-dioses",
+    "italia/sorgeto-ischia": "sorgeto-isquia",
+    "italia/stromboli-notte": "stromboli-de-noche",
+    "italia/eolie-in-vela": "semana-en-velero-eolias",
+    "italia/monreale": "monreale",
+    "italia/street-food-palermo": "mercados-palermo",
+    "italia/passito-pantelleria": "passito-pantelaria"
+  },
+  "viaggi": {
+    "costiera-e-isole": "costa-amalfitana-e-islas",
+    "dolomiti-roadtrip": "dolomitas-roadtrip",
+    "eolie-in-vela": "eolias-en-velero"
+  }
+}

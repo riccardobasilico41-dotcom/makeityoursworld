@@ -1,0 +1,70 @@
+import type { Esperienza } from '@/lib/types'
+
+export const esperienzeRepubblicaCeca: Esperienza[] = [
+  {
+    slug: 'praga-castello-biglietto',
+    paeseSlug: 'repubblica-ceca',
+    destinazioneSlug: 'praga',
+    nome: 'Recorrido de visitantes del Castillo de Praga y Catedral de San Vito',
+    localita: 'Hradčany, colina del Castillo, Praga',
+    cosE:
+      "El «Circuito A» (Main Visitor Route) es la entrada que cubre las principales atracciones del complejo: el interior de la Catedral de San Vito, el Antiguo Palacio Real, la Basílica de San Jorge y el Callejón del Oro con la Torre Daliborka. Los patios del Castillo y la nave exterior de la Catedral siguen siendo gratuitos; la entrada sirve solo para las salas interiores.",
+    percheFarla:
+      "El Castillo de Praga es de los mayores complejos de castillos cerrados del mundo, y la Catedral de San Vito, en su interior, es el monumento gótico más importante del país. Sin entrada solo se ven el exterior y los patios, y se pierden interiores, criptas reales y vidrieras.",
+    durata: 'media jornada (3-4 horas) para el recorrido completo con las colas incluidas en temporada alta',
+    periodo: "todo el año; el verano trae colas más largas en las entradas, el invierno un clima más riguroso pero menos gente",
+    costo: "entrada del Circuito A en torno a 450 CZK por adulto (unos 18-20 €); la subida a la Gran Torre Sur de la Catedral tiene una entrada aparte, en torno a 200 CZK",
+    comePrenotare: "Se compra online en la web oficial del Castillo o en el sitio en las taquillas; en fin de semana y en temporada alta conviene comprarla antes online para saltarse la cola.",
+    cosaPortare: "Zapatos cómodos: el recorrido incluye muchos escalones, tanto en la catedral como en el Callejón del Oro.",
+    perChiEAdatta: "Va bien para casi todos; en los meses centrales del verano las colas más largas (sobre todo para entrar en la Catedral) hacen la visita más cansada con niños pequeños.",
+    giudizio: 'da-verificare',
+    alternative: ["Visitar solo los patios exteriores y la nave de la Catedral, gratuitos, para quien tiene poco tiempo o presupuesto limitado"],
+    tripSlugs: ['praga-weekend'],
+    imageAlt: "La nave gótica de la Catedral de San Vito en el Castillo de Praga, con las bóvedas de crucería y las vidrieras de colores al fondo del coro",
+    immagine: '/images/repubblica-ceca/praga-castello-biglietto.jpg',
+  },
+  {
+    slug: 'praga-josefov-jewish-town',
+    paeseSlug: 'repubblica-ceca',
+    destinazioneSlug: 'praga',
+    nome: 'Jewish Town Ticket: el barrio judío de Josefov',
+    localita: 'Josefov, Staré Město, Praga',
+    cosE:
+      "La entrada única del Museo Judío de Praga que da acceso a seis sitios históricos de Josefov: la Sinagoga Vieja-Nueva (Staronová synagoga, la sinagoga activa más antigua de Europa, con entrada aparte), el Antiguo Cementerio Judío con sus miles de lápidas superpuestas, y las sinagogas Pinkas, Maisel, Klausen y Española, cada una hoy sede de una exposición distinta sobre la historia de la comunidad judía checa.",
+    percheFarla:
+      "Josefov, en el corazón de Staré Město, conserva una de las colecciones de sinagogas históricas mejor preservadas de Europa. Paradójicamente se salvó porque los nazis quisieron conservarla como «museo de una raza extinguida», y eso es lo que da al barrio un peso histórico que un paseo por sus elegantes calles de hoy no transmite.",
+    durata: 'unas 2-3 horas para visitar con calma todos los sitios incluidos en la entrada',
+    periodo: "todo el año; algunos sitios cierran por las festividades judías y el sábado (Shabbat), así que conviene comprobarlo antes",
+    costo: "Jewish Town Ticket en torno a 600 CZK por adulto; la Sinagoga Vieja-Nueva requiere una entrada aparte",
+    comePrenotare: "Se compra online en la web del Museo Judío de Praga o en las taquillas de las sinagogas Española, Klausen o Pinkas; fuera de los fines de semana de temporada alta no hace falta reservar con mucha antelación.",
+    cosaPortare: "Ningún equipamiento especial; ropa respetuosa para entrar en los lugares de culto.",
+    perChiEAdatta: "Para quien quiere entender la historia de la comunidad judía de Praga, más allá de la superficie del barrio; menos para quien solo tiene media jornada y quiere ver también el resto de Staré Město.",
+    giudizio: 'da-verificare',
+    alternative: ["Un tour guiado a pie por el barrio judío, con entradas incluidas, para quien prefiere un relato guiado en vez de la visita autónoma sola"],
+    tripSlugs: ['praga-weekend'],
+    imageAlt: "Las lápidas antiguas y apretadas, cubiertas de musgo, del Antiguo Cementerio Judío de Josefov en Praga, con la tumba de Mordechai Maisel",
+    immagine: '/images/repubblica-ceca/praga-josefov-jewish-town.jpg',
+  },
+  {
+    slug: 'praga-degustazione-birra',
+    immagine: '/images/repubblica-ceca/praga-degustazione-birra.jpg',
+    paeseSlug: 'repubblica-ceca',
+    destinazioneSlug: 'praga',
+    nome: 'Cata de cerveza checa en una hospoda tradicional',
+    localita: 'Fuera del centro más turístico: Žižkov, Vinohrady o Holešovice, Praga',
+    cosE:
+      "Una velada (o un tour guiado) entre dos o tres hospodas, los pubs tradicionales checos, para probar distintas cervezas de barril, de las pilsner más conocidas a las marcas locales menos exportadas, en locales frecuentados sobre todo por los residentes y lejos de los precios inflados del casco histórico.",
+    percheFarla:
+      "La República Checa tiene el mayor consumo de cerveza per cápita del mundo, y la cultura de la hospoda forma parte de la identidad nacional tanto como los monumentos. Vivirla desde dentro, en un local de barrio, cuenta Praga mejor que muchas paradas turísticas.",
+    durata: 'unas 2-3 horas, por lo general a última hora de la tarde o por la noche',
+    periodo: 'todo el año, porque casi siempre se está en un local cerrado',
+    costo: "media pinta de cerveza de barril en un pub de barrio cuesta aproximadamente 55-80 CZK; un tour guiado con varias paradas y catas cuesta unos 30-50 € por persona",
+    comePrenotare: "Los tours temáticos se reservan en las plataformas de tours online; por libre no hace falta reservar, basta elegir pubs fuera del eje más turístico.",
+    cosaPortare: 'Ningún equipamiento especial.',
+    perChiEAdatta: "Para quien quiere una experiencia auténtica sin pagar precios de zona turística; menos para quien no bebe alcohol, aunque en las hospodas encuentra igualmente comida.",
+    giudizio: 'da-verificare',
+    alternative: ["Una cervecería artesanal con visita y cata, para quien busca algo más estructurado que una simple velada en el pub"],
+    tripSlugs: ['praga-weekend'],
+    imageAlt: "Un vaso de cerveza oscura de barril sobre la barra de madera de la cervecería U Medvídků en Praga",
+  },
+]

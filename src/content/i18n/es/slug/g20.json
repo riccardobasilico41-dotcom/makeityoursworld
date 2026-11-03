@@ -1,0 +1,48 @@
+{
+  "paesi": {
+    "marocco": "marruecos",
+    "messico": "mexico"
+  },
+  "destinazioni": {
+    "marocco/marrakech": "marrakech",
+    "marocco/ait-benhaddou": "ait-benhaddou",
+    "marocco/merzouga": "merzouga",
+    "marocco/agdz": "agdz",
+    "marocco/agadir": "agadir",
+    "marocco/essaouira": "essaouira",
+    "messico/cancun": "cancun",
+    "messico/valladolid": "valladolid",
+    "messico/merida": "merida",
+    "messico/campeche": "campeche",
+    "messico/mahahual": "mahahual",
+    "messico/bacalar": "bacalar",
+    "messico/tulum": "tulum",
+    "messico/playa-del-carmen": "playa-del-carmen",
+    "messico/holbox": "holbox"
+  },
+  "esperienze": {
+    "marocco/notte-deserto-erg-chebbi": "noche-desierto-erg-chebbi",
+    "marocco/gole-todra": "gargantas-todra",
+    "marocco/quad-deserto-merzouga": "quad-desierto-merzouga",
+    "marocco/surf-taghazout": "surf-taghazout",
+    "marocco/hammam-essaouira": "hammam-essaouira",
+    "marocco/tour-marrakech": "visita-guiada-marrakech",
+    "marocco/jardin-majorelle": "jardin-majorelle",
+    "messico/squalo-balena-holbox": "tiburon-ballena-holbox",
+    "messico/bioluminescenza-holbox": "bioluminiscencia-holbox",
+    "messico/temazcal": "temazcal",
+    "messico/cenote-yucatan": "cenotes-yucatan",
+    "messico/chichen-itza": "chichen-itza",
+    "messico/ek-balam-cenote-xcanche": "ek-balam-cenote-xcanche",
+    "messico/tour-barca-bacalar": "tour-barca-bacalar",
+    "messico/snorkeling-tartarughe-mahahual": "snorkel-tortugas-mahahual",
+    "messico/rio-lagartos": "rio-lagartos",
+    "messico/tour-3-islas-holbox": "tour-3-islas-holbox",
+    "messico/cabo-catoche": "cabo-catoche"
+  },
+  "viaggi": {
+    "marocco-itinerario": "marruecos-itinerario",
+    "malesia-singapore": "malasia-singapur",
+    "messico-beach-life": "mexico-beach-life"
+  }
+}

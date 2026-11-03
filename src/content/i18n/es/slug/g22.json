@@ -1,0 +1,52 @@
+{
+  "paesi": {
+    "new-york": "nueva-york",
+    "norvegia": "noruega",
+    "paesi-bassi": "paises-bajos",
+    "panama": "panama"
+  },
+  "destinazioni": {
+    "norvegia/oslo": "oslo",
+    "norvegia/bodo": "bodo",
+    "norvegia/svolvaer": "svolvaer",
+    "norvegia/henningsvaer": "henningsvaer",
+    "norvegia/reine": "reine",
+    "norvegia/nesland-flakstad": "nesland-flakstad",
+    "norvegia/a": "a",
+    "norvegia/tromso": "tromso",
+    "paesi-bassi/amsterdam": "amsterdam",
+    "panama/panama-city": "ciudad-de-panama",
+    "panama/san-blas": "san-blas",
+    "panama/bocas-del-toro": "bocas-del-toro",
+    "panama/boquete": "boquete"
+  },
+  "esperienze": {
+    "norvegia/trollfjord-rib": "trollfjord-en-zodiac",
+    "norvegia/reinebringen": "reinebringen",
+    "norvegia/festvagtind-trail": "festvagtind-sendero",
+    "norvegia/spiaggia-di-bunes": "playa-de-bunes",
+    "norvegia/viking-museum-borg": "museo-vikingo-borg",
+    "norvegia/museo-dei-pescatori": "museo-de-los-pescadores",
+    "norvegia/nesland-nusfjord": "paseo-nesland-nusfjord",
+    "norvegia/aurora-chase-minibus-tromso": "caza-de-auroras-minibus-tromso",
+    "norvegia/husky-sledding-tromso": "trineo-de-huskies-tromso",
+    "norvegia/sami-renne-lavvu-tromso": "sami-renos-lavvu-tromso",
+    "norvegia/whale-watching-tromso": "avistamiento-ballenas-tromso",
+    "norvegia/glass-igloo-lyngen": "iglu-de-cristal-lyngen",
+    "norvegia/vigeland-park-oslo": "parque-vigeland-oslo",
+    "norvegia/bygdoy-musei-fram-kontiki": "museos-bygdoy-fram-kontiki",
+    "norvegia/oslofjord-crociera": "crucero-oslofjord",
+    "paesi-bassi/casa-di-anna-frank": "casa-de-ana-frank",
+    "paesi-bassi/amsterdam-in-bicicletta": "amsterdam-en-bicicleta",
+    "paesi-bassi/crociera-sui-canali-amsterdam": "crucero-canales-amsterdam",
+    "panama/chiuse-miraflores": "esclusas-miraflores",
+    "panama/notte-isola-san-blas": "noche-isla-san-blas",
+    "panama/alba-volcan-baru": "amanecer-volcan-baru"
+  },
+  "viaggi": {
+    "new-york-itinerario": "nueva-york-itinerario",
+    "lofoten-estate-2025": "lofoten-verano-2025",
+    "tromso": "tromso",
+    "amsterdam-weekend": "amsterdam-fin-de-semana"
+  }
+}

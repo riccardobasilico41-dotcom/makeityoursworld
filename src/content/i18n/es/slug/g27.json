@@ -1,0 +1,34 @@
+{
+  "paesi": {
+    "transilvania": "transilvania",
+    "turchia": "turquia",
+    "ungheria": "hungria"
+  },
+  "destinazioni": {
+    "turchia/istanbul": "estambul",
+    "turchia/cappadocia": "capadocia",
+    "turchia/pamukkale": "pamukkale-hierapolis",
+    "turchia/efeso": "efeso-selcuk-sirince",
+    "turchia/costa-licia": "costa-licia",
+    "turchia/antalya": "antalya",
+    "ungheria/budapest": "budapest"
+  },
+  "esperienze": {
+    "transilvania/palazzo-parlamento": "palacio-del-parlamento",
+    "transilvania/castello-peles": "castillo-de-peles",
+    "transilvania/castello-bran": "castillo-de-bran",
+    "transilvania/fortezza-rasnov": "fortaleza-de-rasnov",
+    "transilvania/salina-turda": "salina-turda",
+    "transilvania/transfagarasan": "transfagarasan",
+    "transilvania/terme-bucarest": "termas-de-bucarest",
+    "ungheria/terme-szechenyi": "termas-szechenyi",
+    "ungheria/terme-gellert": "termas-gellert",
+    "ungheria/crociera-danubio": "crucero-danubio",
+    "ungheria/ruin-bar-tour": "ruta-ruin-bars"
+  },
+  "viaggi": {
+    "transilvania-express": "transilvania-express",
+    "turchia-itinerario": "turquia-itinerario",
+    "budapest-weekend": "budapest-fin-de-semana"
+  }
+}

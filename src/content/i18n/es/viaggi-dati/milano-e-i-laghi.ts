@@ -1,0 +1,75 @@
+import type { TripMeta } from '@/lib/types'
+
+export const milanoEILaghiMeta: TripMeta = {
+  tripSlug: 'milano-e-i-laghi',
+  paeseSlug: 'italia',
+  ritmo: 'Dos jornadas compactas en la ciudad, con las excursiones a los lagos como verdadero motivo para quedarse aquí',
+  trasporti: 'Metro y a pie en la ciudad; trenes regionales a Como, Bérgamo y el Lago Mayor',
+  stile: [
+    'design',
+    'arte contemporanea',
+    'laghi',
+  ],
+  adattoA: [
+    'quien usa Milán como base para el Lago de Como y Bérgamo Alta',
+    'quien busca arte contemporáneo y arquitectura más que cascos históricos',
+    'quien tiene uno o dos días y quiere una ciudad que de verdad se recorra en ese tiempo',
+  ],
+  puntiForti: [
+    'Las terrazas del Duomo, caminando sobre el tejado entre los 135 pináculos',
+    'San Maurizio al Monastero Maggiore: gratuita, medio vacía, enteramente al fresco por Luini',
+    'Varenna y el triángulo de barcos en el Lago de Como, que es la manera correcta de ver el lago',
+  ],
+  criticita: [
+    'La Última Cena es la reserva más difícil de Italia: entradas por tandas con meses de antelación, visita de pocos minutos, ninguna forma de entrar presentándose sin más',
+    'Milán no es una ciudad de arte difusa: quien llega esperando Florencia se lleva una decepción',
+    'En las semanas del Salone del Mobile y de la moda los precios de los alojamientos se triplican',
+    'En agosto media ciudad cierra',
+    'En el lago, la carretera costera es estrecha, tiene tráfico y no tiene aparcamientos: se va en barco',
+  ],
+  budgetTotale: undefined,
+  viaggioInBreve: {
+    percheHoScelto: undefined,
+    conChiSonoPartito: 'por libre, metro y trenes regionales',
+    cosaCercavo: undefined,
+    treEsperienzePiuBelle: 'El tejado del Duomo entre los pináculos, San Maurizio al Monastero Maggiore, los barcos entre Varenna, Bellagio y Menaggio',
+    cosaCambierei: undefined,
+    aChiLoConsiglio: undefined,
+  },
+  tappeMappa: [
+    { nome: 'Duomo y centro', destinazioneSlug: 'milano-nord' },
+    { nome: 'Brera y Castillo Sforzesco', destinazioneSlug: 'milano-nord' },
+    { nome: 'Última Cena y Sant\'Ambrogio', destinazioneSlug: 'milano-nord' },
+    { nome: 'Varenna y el Lago de Como', destinazioneSlug: 'milano-nord' },
+    { nome: 'Bérgamo Alta', destinazioneSlug: 'milano-nord' },
+  ],
+  giorni: [
+    {
+      titoloGiorno: 'Día 1 — Duomo, centro, Brera y Castello Sforzesco',
+      tratta: 'Terrazas del Duomo, Galería, Scala, Brera y Castillo Sforzesco',
+      pernottamento: 'Milán, dentro de la cerchia dei Navigli',
+      statoPernottamento: 'da-confermare',
+      intensita: 'medio',
+      costiNoti: 'terrazas del Duomo en entrada aparte o combinada; el patio del Castillo es gratuito',
+      destinazioneSlug: 'milano-nord',
+      immagine: '/images/viaggi/milano-e-i-laghi/giorno-1-duomo.jpg',
+      imageAlt: 'La fachada gótica del Duomo de Milán vista desde abajo, con los pináculos de mármol y los visitantes en la plaza',
+    },
+    {
+      titoloGiorno: 'Día 2 — Última Cena, Sant\'Ambrogio y la Milán contemporánea',
+      tratta: 'Última Cena, Sant\'Ambrogio, San Maurizio y la Milán contemporánea',
+      intensita: 'medio',
+      costiNoti: 'Última Cena solo con reserva puesta a la venta por tandas meses antes; HangarBicocca y Cimitero Monumentale con entrada gratuita, a comprobar de nuevo',
+      destinazioneSlug: 'milano-nord',
+      immagine: '/images/viaggi/milano-e-i-laghi/giorno-2-sant-ambrogio.jpg',
+      imageAlt: 'La fachada románica de la Basílica de Sant\'Ambrogio en Milán vista a través del cuádruple pórtico',
+    },
+  ],
+  budget: [
+    { etichetta: 'Entradas', valore: 'contenidas: lo mejor de Milán (San Maurizio, Cimitero Monumentale, HangarBicocca, patio del Castillo) es gratuito' },
+    { etichetta: 'Última Cena', valore: 'entrada económica, prácticamente imposible de encontrar: el coste real es la planificación' },
+    { etichetta: 'Alojamiento', valore: 'el gasto más variable, con picos absurdos en las semanas del Salone y de la moda' },
+    { etichetta: 'Excursiones a los lagos', valore: 'tren regional más barcos: pocas decenas de euros por una jornada entera' },
+    { etichetta: 'Aperitivo', valore: 'institución local, y a menudo sustituye a la cena' },
+  ],
+}

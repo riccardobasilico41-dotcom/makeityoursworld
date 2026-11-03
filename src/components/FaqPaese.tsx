@@ -64,11 +64,12 @@ export async function FaqPaese({ paese }: { paese: Paese }) {
   ]
     .filter((v): v is { domanda: string; risposta: string } => !!v.risposta && v.risposta.trim().length > 0)
     .map((v) => ({ ...v, risposta: maiuscola(v.risposta.trim()) }))
-  if (voci.length < 2) return null
+  const jsonLd = faqJsonLd(voci, lingua)
+  if (voci.length < 2 || !jsonLd) return null
 
   return (
     <section id="domande-frequenti" aria-labelledby="faq-titolo" className="scroll-mt-24 border-t border-alpine/10 py-16 sm:py-20">
-      <JsonLd data={faqJsonLd(voci, lingua)} />
+      <JsonLd data={jsonLd} />
       <Container>
         <h2 id="faq-titolo" className="font-display text-[clamp(1.8rem,3vw,2.6rem)] text-alpine">
           {t.titolo(n)}

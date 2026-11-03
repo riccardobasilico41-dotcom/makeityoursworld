@@ -1,0 +1,22 @@
+{
+  "destinazioni": {
+    "italia/dolomiti": "dolomitas",
+    "italia/sciare-in-italia": "esquiar-en-italia",
+    "italia/roma": "roma",
+    "italia/firenze": "florencia",
+    "italia/venezia": "venecia",
+    "italia/napoli": "napoles-golfo",
+    "italia/milano-nord": "milan-norte",
+    "italia/sicilia": "sicilia",
+    "italia/sardegna": "cerdena",
+    "italia/isole-minori": "islas-menores",
+    "italia/italia-inesplorata": "italia-inexplorada",
+    "italia/rotte-dei-vini": "rutas-del-vino",
+    "italia/torino": "turin",
+    "italia/costiera-amalfitana": "costa-amalfitana",
+    "italia/isole-golfo-napoli": "capri-ischia-procida",
+    "italia/eolie": "islas-eolias",
+    "italia/sicilia-occidentale": "sicilia-occidental",
+    "italia/isole-siciliane": "egadas-pantelaria-pelagias"
+  }
+}

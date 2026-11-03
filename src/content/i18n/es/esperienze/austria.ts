@@ -1,0 +1,70 @@
+import type { Esperienza } from '@/lib/types'
+
+export const esperienzeAustria: Esperienza[] = [
+  {
+    slug: 'vienna-schonbrunn-biglietto',
+    paeseSlug: 'austria',
+    destinazioneSlug: 'vienna',
+    nome: 'Visita al Palacio de Schönbrunn',
+    localita: 'Schönbrunn, Viena',
+    cosE:
+      "El recorrido por la residencia de verano de la familia imperial de los Habsburgo, con acceso a una selección de estancias históricas (de las aproximadamente 1.400 en total), entre ellas los apartamentos de la emperatriz Sissi y del emperador Francisco José; las entradas se dividen en varios niveles, del Tour Imperial básico al Grand Tour más amplio, con o sin acceso a los jardines y a la Gloriette.",
+    percheFarla:
+      "Porque Schönbrunn es el monumento más visitado de Austria y cuenta, mejor que ningún otro lugar de la ciudad, cómo vivía la corte de los Habsburgo: salones de representación, apartamentos privados y un parque barroco que por sí solo ocupa media jornada.",
+    durata: "alrededor de 1-1,5 horas para el recorrido por las estancias, media jornada si se añaden los jardines y la Gloriette",
+    periodo: "todo el año; el palacio tiene horarios más amplios en verano (hasta las 18:00) y más reducidos en invierno (hasta las 17:00); el parque es gratuito y siempre accesible durante el horario de apertura",
+    costo: "el tour básico parte de unos 26 € por adulto; los jardines y el parque son gratuitos, la Gloriette y el laberinto tienen una entrada aparte",
+    comePrenotare: "Venta oficial solo online en el sitio de Schönbrunn; conviene comprar con antelación la entrada con franja horaria, sobre todo en temporada alta, para evitar las colas en el lugar.",
+    cosaPortare: "Ningún equipo especial; zapatos cómodos para el parque, muy extenso.",
+    perChiEAdatta: "Apta para casi todo el mundo; las colas sin reserva en temporada alta la hacen más cansada con niños pequeños.",
+    giudizio: 'da-verificare',
+    alternative: ['Visitar solo el parque y la Gloriette, gratuitos (salvo la entrada para subir a la Gloriette), para quien tiene poco tiempo o un presupuesto limitado'],
+    tripSlugs: ['vienna-weekend'],
+    imageAlt: 'La fachada amarilla del Palacio de Schönbrunn en Viena vista desde los jardines, con los parterres floridos en primer plano',
+    immagine: '/images/austria/vienna-schonbrunn-biglietto.jpg',
+  },
+  {
+    slug: 'vienna-opera-stehplatz',
+    paeseSlug: 'austria',
+    destinazioneSlug: 'vienna',
+    nome: "Entrada de pie (Stehplatz) en la Ópera Estatal de Viena",
+    localita: 'Wiener Staatsoper, Innere Stadt, Viena',
+    cosE:
+      "Las entradas de pie de la Wiener Staatsoper, que se venden el mismo día de la función: 435 plazas de pie repartidas en tres sectores (Stehparterre en la platea, Galerie en la galería, Balkon en el balcón), con la particularidad de que, pese al nombre, la mayor parte del público acaba sentada en el suelo, sobre la moqueta, durante la función.",
+    percheFarla:
+      "Porque es una de las formas más baratas del mundo de asistir a un espectáculo de ópera o de ballet de altísimo nivel en una de las salas más prestigiosas de Europa. Y es una costumbre vienesa consolidada, además de un ahorro.",
+    durata: "la duración de la función, por lo general 2-3,5 horas según el título en cartel",
+    periodo: "temporada de ópera de septiembre a junio; la Ópera permanece cerrada en verano",
+    costo: "de unos 13 € (Balkon) a unos 18 € (Stehparterre) por entrada, según el sector",
+    comePrenotare: "Las entradas de pie se venden solo el mismo día y no se reservan con antelación: un primer cupo online desde las 10:00, un segundo en la taquilla dedicada a partir de 80 minutos antes del comienzo de la función.",
+    cosaPortare: "Una bufanda o un pañuelo: todavía se usa, entre quienes hacen cola antes, atar uno a la barandilla para «reservar» simbólicamente un sitio de pie, una costumbre informal que respeta el público habitual.",
+    perChiEAdatta: "Apta para quien no tiene problema en quedarse de pie (o sentado en el suelo) varias horas; menos indicada para quien tiene problemas de movilidad o busca la comodidad de un asiento numerado.",
+    giudizio: 'da-verificare',
+    alternative: ['Una entrada sentada en las categorías más económicas, reservable con antelación online, para quien prefiere la seguridad de un asiento asignado'],
+    tripSlugs: ['vienna-weekend'],
+    imageAlt: 'El edificio de la Wiener Staatsoper iluminado de noche, con las estelas luminosas del tráfico en el Ring en primer plano',
+    immagine: '/images/austria/vienna-opera-stehplatz.jpg',
+  },
+  {
+    slug: 'vienna-giro-caffe-storici',
+    paeseSlug: 'austria',
+    destinazioneSlug: 'vienna',
+    nome: 'Ruta por los cafés históricos vieneses',
+    localita: 'Innere Stadt, Viena',
+    cosE:
+      "Un recorrido por dos o tres cafés históricos del centro, normalmente elegidos entre Café Central, Café Sacher, Café Landtmann y Café Hawelka (cada uno tiene su identidad y su historia), para probar las principales variantes de café vienés (del Melange al Einspänner) junto con la repostería tradicional, de la Sachertorte al Apfelstrudel.",
+    percheFarla:
+      "Porque la Kaffeehauskultur vienesa es patrimonio cultural inmaterial de la UNESCO desde 2011: en la propia definición de la candidatura ante la UNESCO, el café histórico es «un lugar donde se consumen tiempo y espacio, y solo el café aparece en la cuenta». Cuenta la ciudad tanto como sus monumentos.",
+    durata: "alrededor de 2-3 horas para una ruta de dos o tres cafés con calma",
+    periodo: "todo el año, al ser una experiencia en interior",
+    costo: "un café con dulce en un café histórico del centro cuesta, más o menos, 8-14 € por persona y parada",
+    comePrenotare: "No hace falta reservar en la mayoría de los cafés, salvo ocasiones especiales o grupos numerosos; en los más conocidos (Central, Sacher) puede haber una breve cola en las horas punta.",
+    cosaPortare: "Ningún equipo especial; viene bien llevar efectivo para los cafés más tradicionales, aunque ya se aceptan tarjetas casi en todas partes.",
+    perChiEAdatta: "Apta para todos; para quien tiene poco tiempo, incluso una sola parada en un café histórico basta para hacerse una idea de la costumbre.",
+    giudizio: 'da-verificare',
+    alternative: ['Un café de barrio fuera del centro más turístico, más económico y igual de auténtico para quien quiere evitar los precios de los locales más famosos'],
+    tripSlugs: ['vienna-weekend'],
+    imageAlt: 'Las bóvedas de crucería decoradas y las lámparas de globo del Café Central de Viena, con las columnas de estilo neogótico',
+    immagine: '/images/austria/vienna-giro-caffe-storici.jpg',
+  },
+]

@@ -1,0 +1,43 @@
+{
+  "paesi": {
+    "arabia-saudita": "arabia-saudi",
+    "austria": "austria",
+    "belize": "belice",
+    "bolivia": "bolivia"
+  },
+  "destinazioni": {
+    "arabia-saudita/jeddah": "yeda",
+    "arabia-saudita/alula": "alula",
+    "arabia-saudita/riyadh-diriyah": "riad-diriyah",
+    "arabia-saudita/abha-asir": "abha-asir",
+    "arabia-saudita/umluj-mar-rosso": "umluj-mar-rojo",
+    "austria/vienna": "viena",
+    "belize/caye-caulker": "caye-caulker",
+    "belize/ambergris-caye": "ambergris-caye",
+    "belize/san-ignacio-cayo": "san-ignacio-cayo",
+    "belize/placencia-hopkins": "placencia-hopkins",
+    "bolivia/la-paz": "la-paz",
+    "bolivia/salar-de-uyuni": "salar-de-uyuni",
+    "bolivia/titicaca-boliviano": "titicaca-boliviano",
+    "bolivia/sucre-potosi": "sucre-potosi",
+    "bolivia/rurrenabaque-madidi": "rurrenabaque-madidi"
+  },
+  "esperienze": {
+    "arabia-saudita/hegra-alula": "hegra-alula",
+    "arabia-saudita/al-balad-jeddah": "al-balad-yeda",
+    "arabia-saudita/diriyah": "diriyah",
+    "arabia-saudita/edge-of-the-world": "edge-of-the-world",
+    "austria/vienna-schonbrunn-biglietto": "viena-entrada-schonbrunn",
+    "austria/vienna-opera-stehplatz": "viena-opera-de-pie",
+    "austria/vienna-giro-caffe-storici": "viena-cafes-historicos",
+    "belize/hol-chan-shark-ray-alley": "hol-chan-shark-ray-alley",
+    "belize/grotta-atm": "cueva-atm",
+    "bolivia/carretera-de-la-muerte": "carretera-de-la-muerte",
+    "bolivia/tour-uyuni-sud-lipez": "tour-uyuni-sur-lipez",
+    "bolivia/miniere-cerro-rico": "minas-cerro-rico"
+  },
+  "viaggi": {
+    "arabia-saudita-itinerario": "arabia-saudi-itinerario",
+    "vienna-weekend": "viena-fin-de-semana"
+  }
+}

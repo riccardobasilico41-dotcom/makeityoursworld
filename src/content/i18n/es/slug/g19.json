@@ -1,0 +1,37 @@
+{
+  "paesi": {
+    "lettonia": "letonia",
+    "lituania": "lituania",
+    "maldive": "maldivas",
+    "malesia": "malasia"
+  },
+  "destinazioni": {
+    "lituania/vilnius": "vilna",
+    "lituania/trakai": "trakai",
+    "maldive/male-hulhumale": "male-hulhumale",
+    "maldive/male-sud-vaavu": "male-sur-vaavu",
+    "maldive/rasdhoo": "rasdhoo",
+    "maldive/ari-sud": "ari-sur",
+    "maldive/baa-hanifaru": "baa-hanifaru",
+    "maldive/fuvahmulah": "fuvahmulah",
+    "malesia/kuala-lumpur": "kuala-lumpur",
+    "malesia/penang": "penang",
+    "malesia/malacca": "malaca",
+    "malesia/cameron-highlands": "cameron-highlands",
+    "malesia/taman-negara": "taman-negara",
+    "malesia/langkawi": "langkawi",
+    "malesia/perhentian": "perhentian"
+  },
+  "esperienze": {
+    "lituania/uzupis-repubblica-passeggiata": "republica-uzupis-paseo",
+    "lituania/trakai-castello-lago-galve": "castillo-trakai-lago-galve",
+    "malesia/batu-caves": "cuevas-batu",
+    "malesia/street-food-penang": "comida-callejera-penang",
+    "malesia/piantagioni-te-cameron": "plantaciones-te-cameron",
+    "malesia/canopy-walkway-taman-negara": "pasarela-copas-taman-negara"
+  },
+  "viaggi": {
+    "capitali-baltiche": "capitales-balticas",
+    "maldive-guida": "maldivas-guia"
+  }
+}

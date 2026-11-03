@@ -1,0 +1,40 @@
+{
+  "paesi": {
+    "canada": "canada",
+    "cina": "china"
+  },
+  "destinazioni": {
+    "cina/pechino": "pekin",
+    "cina/xian": "xian",
+    "cina/shanghai": "shanghai-suzhou-pueblos-de-agua",
+    "cina/zhangjiajie": "zhangjiajie",
+    "cina/furong-zhen": "furong-zhen",
+    "cina/chengdu": "chengdu",
+    "cina/chongqing": "chongqing",
+    "cina/lijiang": "lijiang",
+    "cina/yulong-shangri-la": "yulong-salto-del-tigre-shangri-la",
+    "cina/yangshuo": "yangshuo-rio-li",
+    "cina/hong-kong": "hong-kong",
+    "cina/macao": "macao"
+  },
+  "esperienze": {
+    "cina/muraglia-jinshanling": "gran-muralla-jinshanling",
+    "cina/citta-proibita": "ciudad-prohibida-jingshan",
+    "cina/esercito-terracotta": "ejercito-de-terracota",
+    "cina/mura-xian-bicicletta": "murallas-xian-bicicleta",
+    "cina/giardini-suzhou": "jardines-clasicos-suzhou",
+    "cina/bund-pudong": "bund-skyline-pudong",
+    "cina/star-ferry-victoria-peak": "star-ferry-victoria-peak",
+    "cina/avatar-yuanjiajie": "avatar-yuanjiajie",
+    "cina/tianmen-shan": "tianmen-shan",
+    "cina/panda-chengdu": "pandas-gigantes-chengdu",
+    "cina/hot-pot-sichuan": "hot-pot-sichuan",
+    "cina/hongya-dong-notte": "hongya-dong-de-noche",
+    "cina/impression-lijiang": "impression-lijiang",
+    "cina/gola-salto-tigre": "garganta-salto-del-tigre",
+    "cina/fiume-li-zattera": "rio-li-balsa-de-bambu"
+  },
+  "viaggi": {
+    "canada-itinerario": "este-de-canada-en-coche"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "paesi": {
+    "bulgaria": "bulgaria",
+    "california": "california",
+    "canada": "canada"
+  },
+  "destinazioni": {
+    "bulgaria/bansko": "bansko",
+    "bulgaria/monastero-rila": "monasterio-de-rila",
+    "california/san-francisco": "san-francisco",
+    "california/yosemite": "yosemite",
+    "california/sequoia": "sequoia-kings-canyon",
+    "california/death-valley": "valle-de-la-muerte",
+    "california/joshua-tree": "joshua-tree-palm-springs",
+    "california/los-angeles": "los-angeles",
+    "california/big-sur": "highway-1-big-sur",
+    "canada/toronto": "toronto",
+    "canada/niagara": "cataratas-del-niagara",
+    "canada/mille-isole": "mil-islas-kingston",
+    "canada/ottawa": "ottawa",
+    "canada/mont-tremblant": "mont-tremblant",
+    "canada/montreal": "montreal",
+    "canada/quebec": "quebec",
+    "canada/charlevoix-tadoussac": "charlevoix-tadoussac",
+    "canada/churchill": "churchill"
+  },
+  "esperienze": {
+    "bulgaria/sci-bansko": "esqui-en-bansko",
+    "bulgaria/discesa-notturna-bansko": "bajada-nocturna-bansko",
+    "bulgaria/visita-monastero-rila": "visita-monasterio-de-rila"
+  },
+  "viaggi": {
+    "brasile-itinerario": "brasil-itinerario",
+    "bulgaria-bansko-rila": "bulgaria-bansko-rila",
+    "california-road-trip": "california-road-trip"
+  }
+}

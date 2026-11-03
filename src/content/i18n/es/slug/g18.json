@@ -1,0 +1,20 @@
+{
+  "paesi": { "lettonia": "letonia" },
+  "destinazioni": {
+    "lettonia/riga": "riga",
+    "lettonia/jurmala": "jurmala"
+  },
+  "esperienze": {
+    "lettonia/riga-art-nouveau-passeggiata": "riga-paseo-art-nouveau",
+    "lettonia/riga-mercato-centrale-tour": "riga-mercado-central-tour",
+    "lettonia/jurmala-spiaggia-ville-liberty": "jurmala-playa-villas-modernistas"
+  },
+  "viaggi": {
+    "sardegna-due-anime": "cerdena-dos-almas",
+    "settimana-bianca": "semana-blanca",
+    "sicilia-completa": "sicilia-completa",
+    "sicilia-itinerario": "sicilia-oriental-itinerario",
+    "torino-2-giorni": "turin-2-dias",
+    "venezia-3-giorni": "venecia-3-dias"
+  }
+}

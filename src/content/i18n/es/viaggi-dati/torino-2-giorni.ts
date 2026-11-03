@@ -1,0 +1,75 @@
+import type { TripMeta } from '@/lib/types'
+
+export const torino2GiorniMeta: TripMeta = {
+  tripSlug: 'torino-2-giorni',
+  paeseSlug: 'italia',
+  ritmo: "Dos jornadas compactas, con el Museo Egipcio que se lleva media jornada por sí solo y el resto bajo los soportales",
+  trasporti: "A pie y bajo los soportales, con una línea de metro automático y los funiculares",
+  stile: [
+    'musei',
+    'architettura',
+    'gastronomia',
+  ],
+  adattoA: [
+    "quien busca una gran ciudad italiana sin las multitudes de Roma, Florencia y Venecia",
+    "quien va por los museos y no por el casco histórico difuso",
+    "quien viaja en invierno, cuando los soportales y la vista sobre los Alpes dan lo mejor de sí",
+  ],
+  puntiForti: [
+    "El Museo Egipcio, la colección egipcia más importante del mundo después de El Cairo, con la tumba intacta de Kha y Merit",
+    "El Museo del Cine dentro de la Mole, con el ascensor de cristal que sube en el vacío del aula",
+    "La Capilla de la Sábana Santa de Guarini, reabierta tras veinte años de restauración",
+  ],
+  criticita: [
+    "La Sábana Santa no está expuesta: solo se ve en exposiciones extraordinarias decididas con muchos años de distancia",
+    "El Museo Egipcio hay que reservarlo y requiere al menos tres horas: despacharlo en una hora es el desperdicio más común",
+    "La franja del ascensor de la Mole se agota en los días despejados",
+    "Los montajes del Museo Egipcio se han renovado varias veces: la información envejece deprisa",
+    "Julio y agosto son calurosos y la ciudad se vacía",
+  ],
+  budgetTotale: undefined,
+  viaggioInBreve: {
+    percheHoScelto: undefined,
+    conChiSonoPartito: "por libre, a pie y en metro",
+    cosaCercavo: undefined,
+    treEsperienzePiuBelle: "El ajuar intacto de la tumba de Kha y Merit, el ascensor de cristal dentro de la Mole, la cúpula de la Capilla de la Sábana Santa mirada desde abajo",
+    cosaCambierei: undefined,
+    aChiLoConsiglio: undefined,
+  },
+  tappeMappa: [
+    { nome: 'Museo Egipcio', destinazioneSlug: 'torino' },
+    { nome: 'Piazza Castello y Museos Reales', destinazioneSlug: 'torino' },
+    { nome: 'Mole Antonelliana', destinazioneSlug: 'torino' },
+    { nome: 'Monte dei Cappuccini y Superga', destinazioneSlug: 'torino' },
+    { nome: 'Lingotto', destinazioneSlug: 'torino' },
+  ],
+  giorni: [
+    {
+      titoloGiorno: 'Día 1 — Museo Egipcio, plazas y cafés',
+      tratta: 'Museo Egipcio, Piazza Castello, Museos Reales y Cuadrilátero Romano',
+      pernottamento: 'Turín, centro entre Piazza Castello y Piazza San Carlo',
+      statoPernottamento: 'da-confermare',
+      intensita: 'intenso',
+      costiNoti: 'Museo Egipcio con franja horaria reservada; la Torino+Piemonte Card compensa a partir de tres o cuatro museos',
+      destinazioneSlug: 'torino',
+      immagine: '/images/viaggi/torino-2-giorni/giorno-1-palazzo-madama.jpg',
+      imageAlt: "La fachada del siglo XVIII del Palazzo Madama en Piazza Castello en Turín, con las fuentes en primer plano",
+    },
+    {
+      titoloGiorno: 'Día 2 — La Mole, el río y la colina',
+      tratta: 'Mole Antonelliana y Museo del Cine, luego el río y la colina o el siglo XX industrial',
+      intensita: 'medio',
+      costiNoti: 'ascensor de la Mole en entrada separada o combinada con franja; tren de cremallera a Superga',
+      destinazioneSlug: 'torino',
+      immagine: '/images/viaggi/torino-2-giorni/giorno-2-mole-antonelliana.jpg',
+      imageAlt: "La Mole Antonelliana, símbolo de Turín, vista desde abajo contra el cielo",
+    },
+  ],
+  budget: [
+    { etichetta: 'Museo Egipcio', valore: 'la partida principal, y la razón del viaje' },
+    { etichetta: 'Mole y Museo del Cine', valore: 'entrada combinada con el ascensor panorámico' },
+    { etichetta: 'Torino+Piemonte Card', valore: 'compensa a partir de tres o cuatro museos, realista en esta ciudad' },
+    { etichetta: 'Alojamiento', valore: 'de media mucho más bajo que las demás grandes ciudades de arte italianas a igualdad de categoría' },
+    { etichetta: 'Cafés históricos', valore: 'un bicerin y un aperitivo en la barra son parte de la visita, no un extra' },
+  ],
+}

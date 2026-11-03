@@ -1,0 +1,121 @@
+import type { TripMeta } from '@/lib/types'
+
+
+export const svizzeraAlpiVanMeta: TripMeta = {
+  tripSlug: 'svizzera-alpi-van',
+  paeseSlug: 'svizzera',
+  ritmo:
+    "Modular: se combinan las zonas según los días disponibles, desde un fin de semana largo de 3-4 días solo en la Jungfrau Region hasta una semana que llega hasta Zermatt. Dos propuestas listas en la ficha práctica.",
+  trasporti:
+    "Furgoneta o autocaravana, con viñeta de autopista anual obligatoria (unos 40 CHF) y red de carreteras excelente. Zermatt está cerrada al tráfico privado: la furgoneta se deja en el aparcamiento de Täsch y se sube en tren. El Grimselpass y el Furkapass están abiertos solo en temporada, aproximadamente de junio a octubre.",
+  stile: ['vanlife', 'roadtrip', 'montagna', 'trekking'],
+  adattoA: [
+    "quien ya ha hecho un roadtrip alpino en Italia o Francia y quiere medirse con un país donde el nivel de precios y de reglas es sensiblemente más alto",
+    "quien viaja en furgoneta y acepta planificar las noches con antelación en lugar de buscar sitio sobre la marcha",
+    "quien quiere ver el Eiger, el Jungfrau y el Cervino en el mismo viaje, aceptando el coste que eso conlleva",
+    "quien prefiere un presupuesto calculado con mucha antelación a una sorpresa descubierta sobre el terreno",
+  ],
+  puntiForti: [
+    "Siete zonas tratadas como lugares distintos, desde la base de Interlaken hasta Zermatt, con indicaciones prácticas sobre cada una",
+    "Avisos explícitos sobre costes, horarios y reglas para la furgoneta que ninguna guía generalista pone en el centro con tanta insistencia",
+    "Dos roadtrips listos (fin de semana largo de 3-4 días, semana de 7) que combinan las zonas sin tener que hacer uno mismo el trabajo de encaje",
+  ],
+  criticita: [
+    "Suiza es sistemáticamente uno de los países más caros de Europa: viñeta, combustible, teleféricos y campings pesan sobre un presupuesto diario que hay que calcular antes de salir, no descubrir por el camino",
+    "La acampada libre en furgoneta está prohibida o muy restringida casi en todas partes, con multas reales: hasta 200 CHF en Lauterbrunnen, hasta 2.000 CHF en el cantón de Berna en los casos más serios",
+    "Los domingos casi todas las tiendas están cerradas por ley, con la única excepción de los puntos de venta de las grandes estaciones ferroviarias",
+    "El Grimselpass y el Furkapass cierran en invierno y las fechas exactas de apertura varían cada año con la nieve residual",
+    "El Jungfraujoch es probablemente el billete turístico individual más caro de los Alpes (aproximadamente 224-261 CHF i/v): hay que presupuestarlo como una jornada aparte",
+  ],
+  budgetTotale: undefined,
+  viaggioInBreve: {
+    treEsperienzePiuBelle:
+      "El glaciar del Aletsch visto desde el Jungfraujoch, el Cliff Walk suspendido sobre la pared del First con el Eiger enfrente, el Cervino que aparece al fondo de la calle principal de Zermatt",
+  },
+  unitaGiorniLabel: 'Zona',
+  tappeMappa: [
+    { nome: 'Interlaken y los lagos de Thun y Brienz', destinazioneSlug: 'interlaken' },
+    { nome: 'Lauterbrunnen y el valle de las cascadas', destinazioneSlug: 'lauterbrunnen' },
+    { nome: 'Grindelwald y el First', destinazioneSlug: 'grindelwald' },
+    { nome: 'Jungfraujoch, el Top of Europe', destinazioneSlug: 'jungfraujoch' },
+    { nome: 'Mürren y el Schilthorn', destinazioneSlug: 'muerren-schilthorn' },
+    { nome: 'Grimselpass y Furkapass', destinazioneSlug: 'grimsel-furka' },
+    { nome: 'Zermatt y el Cervino', destinazioneSlug: 'zermatt' },
+  ],
+  giorni: [
+    {
+      titoloGiorno: 'Interlaken y los lagos de Thun y Brienz',
+      tratta: 'Nudo logístico central, base recomendada para todo el recorrido',
+      intensita: 'leggero',
+      costiNoti: 'campings 35-50 CHF/noche; paseo en barco por los lagos desde unos 20-30 CHF por tramo',
+      destinazioneSlug: 'interlaken',
+      immagine: '/images/viaggi/svizzera-alpi-van/interlaken-thun-brienz.jpg',
+      imageAlt: "El Lago de Thun, Interlaken y el Lago de Brienz vistos desde lo alto del Niesen, Alpes Berneses",
+    },
+    {
+      titoloGiorno: 'Lauterbrunnen y el valle de las cascadas',
+      tratta: 'Desde Interlaken, 20 minutos',
+      intensita: 'medio',
+      costiNoti:
+        'Trümmelbachfälle 18 CHF entrada; acampada libre prohibida en el valle, multas de hasta 200 CHF',
+      destinazioneSlug: 'lauterbrunnen',
+      immagine: '/images/viaggi/svizzera-alpi-van/lauterbrunnen.jpg',
+      imageAlt: "El valle de Lauterbrunnen al anochecer, con las paredes verticales y la cascada de Staubbach iluminadas",
+    },
+    {
+      titoloGiorno: 'Grindelwald y el First',
+      tratta: 'Desde Interlaken, 20 minutos',
+      intensita: 'leggero',
+      costiNoti: 'teleférico First 72-76 CHF i/v; Cliff Walk incluido en el billete',
+      destinazioneSlug: 'grindelwald',
+      immagine: '/images/viaggi/svizzera-alpi-van/grindelwald-first.jpg',
+      imageAlt: "El Cliff Walk suspendido sobre la pared del First, con el Eiger enfrente, Grindelwald",
+    },
+    {
+      titoloGiorno: 'Jungfraujoch, el Top of Europe',
+      tratta: 'Desde Interlaken Ost, unas 2 h 20 de tren con cambios',
+      intensita: 'medio',
+      costiNoti: 'billete 224-261 CHF i/v según la temporada; Good Morning Ticket con descuento saliendo antes de las 8',
+      destinazioneSlug: 'jungfraujoch',
+      immagine: '/images/viaggi/svizzera-alpi-van/jungfraujoch.jpg',
+      imageAlt: "La estación del Observatorio de la Esfinge en el Jungfraujoch, engastada en la roca sobre el glaciar del Aletsch",
+    },
+    {
+      titoloGiorno: 'Mürren y el Schilthorn',
+      tratta: 'Desde Lauterbrunnen, teleférico desde Stechelberg o cremallera desde Lauterbrunnen',
+      intensita: 'medio',
+      costiNoti: 'teleférico Schilthorn unos 115 CHF i/v desde Stechelberg; vía ferrata Mürren-Gimmelwald abierta de junio a octubre',
+      destinazioneSlug: 'muerren-schilthorn',
+      immagine: '/images/viaggi/svizzera-alpi-van/muerren-schilthorn.jpg',
+      imageAlt: 'Vista aérea de Mürren encaramada en el acantilado sobre el valle de Lauterbrunnen, Alpes Berneses',
+    },
+    {
+      titoloGiorno: 'Grimselpass y Furkapass',
+      tratta: 'Traslado hacia el Valais, unas 2-3 horas de conducción con paradas panorámicas',
+      intensita: 'leggero',
+      costiNoti: 'sin peaje en la carretera; puertos abiertos aproximadamente de junio a octubre, comprobar cada temporada',
+      destinazioneSlug: 'grimsel-furka',
+      immagine: '/images/viaggi/svizzera-alpi-van/grimsel-furka.jpg',
+      imageAlt: 'La carretera de curvas del Furkapass con vista al Grimselpass, cantón del Valais',
+    },
+    {
+      titoloGiorno: 'Zermatt y el Cervino',
+      tratta: 'Desde Täsch (aparcamiento obligatorio, furgoneta no admitida en Zermatt), 12 minutos de tren lanzadera',
+      intensita: 'medio',
+      costiNoti: 'aparcamiento Täsch desde 17 CHF/día; teleférico Gornergrat aparte',
+      destinazioneSlug: 'zermatt',
+      immagine: '/images/viaggi/svizzera-alpi-van/zermatt.jpg',
+      imageAlt: 'Los chalés de madera del centro de Zermatt con el Cervino apareciendo al fondo',
+    },
+  ],
+  budget: [
+    { etichetta: 'Viñeta de autopista anual', valore: 'unos 40 CHF, obligatoria una sola vez para toda la estancia' },
+    { etichetta: 'Combustible', valore: 'gasolina 2,00-2,15 CHF/litro, diésel 2,25-2,45 CHF/litro' },
+    { etichetta: 'Camping para furgoneta, 2 personas', valore: '35-50 CHF por noche, ofertas Stop & Go desde unos 25 CHF' },
+    { etichetta: 'Jungfraujoch i/v desde Interlaken', valore: '224-261 CHF según la temporada' },
+    { etichetta: 'Teleférico Schilthorn i/v desde Stechelberg', valore: 'unos 115 CHF' },
+    { etichetta: 'Teleférico First i/v', valore: '72-76 CHF' },
+    { etichetta: 'Trümmelbachfälle, entrada', valore: '18 CHF adultos' },
+    { etichetta: 'Aparcamiento diario zonas turísticas', valore: '15-20 CHF, desde 17 CHF/día en Täsch para Zermatt' },
+  ],
+}

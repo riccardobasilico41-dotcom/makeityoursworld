@@ -1,0 +1,46 @@
+{
+  "paesi": {
+    "corea-del-sud": "corea-del-sur",
+    "costa-rica": "costa-rica",
+    "croazia": "croacia",
+    "danimarca": "dinamarca"
+  },
+  "destinazioni": {
+    "costa-rica/san-jose": "san-jose",
+    "costa-rica/puerto-viejo": "puerto-viejo",
+    "costa-rica/tortuguero": "tortuguero",
+    "costa-rica/sarapiqui": "sarapiqui",
+    "costa-rica/arenal": "arenal-la-fortuna",
+    "costa-rica/monteverde": "monteverde",
+    "costa-rica/uvita": "uvita",
+    "costa-rica/manuel-antonio": "manuel-antonio",
+    "croazia/zagabria": "zagreb",
+    "croazia/plitvice": "lagos-de-plitvice",
+    "croazia/zara-krka-sebenico": "zadar-krka-sibenik",
+    "croazia/spalato": "split-trogir",
+    "croazia/hvar": "hvar",
+    "croazia/curzola": "korcula",
+    "croazia/dubrovnik": "dubrovnik-ston",
+    "danimarca/copenaghen": "copenhague"
+  },
+  "esperienze": {
+    "costa-rica/tour-cahuita": "tour-cahuita",
+    "costa-rica/barca-tortuguero": "barco-tortuguero",
+    "costa-rica/kayak-tortuguero": "kayak-tortuguero",
+    "costa-rica/rafting-sarapiqui": "rafting-sarapiqui",
+    "costa-rica/cascata-fortuna-termales": "cascada-fortuna-termales",
+    "costa-rica/camminata-notturna-monteverde": "caminata-nocturna-monteverde",
+    "costa-rica/zipline-monteverde": "tirolina-monteverde",
+    "costa-rica/whale-watching-uvita": "avistamiento-ballenas-uvita",
+    "costa-rica/parco-manuel-antonio": "parque-manuel-antonio",
+    "danimarca/nyhavn-giro-in-barca": "nyhavn-paseo-en-barco",
+    "danimarca/copenaghen-tour-in-bicicletta": "copenhague-tour-en-bicicleta",
+    "danimarca/christiania-visita": "christiania-visita",
+    "danimarca/smorrebrod-tour-torvehallerne": "smorrebrod-torvehallerne"
+  },
+  "viaggi": {
+    "corea-del-sud-itinerario": "corea-del-sur-itinerario",
+    "costa-rica-itinerario": "costa-rica-itinerario",
+    "croazia-itinerario": "croacia-itinerario"
+  }
+}

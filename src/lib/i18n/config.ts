@@ -17,7 +17,7 @@ export const LINGUA_PREDEFINITA: Lingua = 'en'
  * Lingue già online: le altre esistono nel codice ma il proxy non le serve e non finiscono
  * in sitemap, hreflang e selettore (lo spagnolo si accende quando è tradotto tutto).
  */
-export const LINGUE_PUBBLICATE: readonly Lingua[] = ['en', 'it']
+export const LINGUE_PUBBLICATE: readonly Lingua[] = ['en', 'it', 'es']
 
 export const isLingua = (v: string | undefined | null): v is Lingua => !!v && (LINGUE as readonly string[]).includes(v)
 

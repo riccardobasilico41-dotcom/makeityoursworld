@@ -1,0 +1,60 @@
+{
+  "paesi": {
+    "svezia": "suecia",
+    "svizzera": "suiza",
+    "thailandia": "tailandia",
+    "transilvania": "transilvania"
+  },
+  "destinazioni": {
+    "svezia/abisko": "abisko",
+    "svezia/kiruna": "kiruna",
+    "svezia/stoccolma": "estocolmo",
+    "svizzera/interlaken": "interlaken",
+    "svizzera/lauterbrunnen": "lauterbrunnen",
+    "svizzera/grindelwald": "grindelwald",
+    "svizzera/jungfraujoch": "jungfraujoch",
+    "svizzera/muerren-schilthorn": "murren-schilthorn",
+    "svizzera/grimsel-furka": "grimsel-furka",
+    "svizzera/zermatt": "zermatt",
+    "thailandia/bangkok": "bangkok",
+    "thailandia/hua-hin": "hua-hin",
+    "thailandia/sam-roi-yot-kui-buri": "sam-roi-yot-kui-buri",
+    "thailandia/khao-sok": "khao-sok",
+    "thailandia/krabi": "krabi",
+    "thailandia/koh-phi-phi": "koh-phi-phi",
+    "thailandia/chiang-mai": "chiang-mai",
+    "thailandia/phuket-similan": "phuket-similan",
+    "thailandia/golfo-thailandia": "golfo-de-tailandia",
+    "transilvania/bucarest": "bucarest",
+    "transilvania/peles-bran": "peles-bran",
+    "transilvania/brasov": "brasov",
+    "transilvania/sighisoara-salina-turda": "sighisoara-salina-turda",
+    "transilvania/sibiu-transfagarasan": "sibiu-transfagarasan"
+  },
+  "esperienze": {
+    "svezia/aurora-sky-station": "aurora-sky-station",
+    "svezia/motoslitta-lago-ghiacciato": "moto-de-nieve-lago-helado",
+    "svezia/husky-sledding-caccia-aurora": "trineo-huskies-caza-aurora",
+    "svezia/icehotel-jukkasjarvi": "icehotel-jukkasjarvi",
+    "svezia/miniera-lkab-kiruna": "mina-lkab-kiruna",
+    "svezia/vasamuseet-stoccolma": "museo-vasa-estocolmo",
+    "svezia/gamla-stan-passeggiata": "paseo-gamla-stan",
+    "svezia/abba-museum-stoccolma": "museo-abba-estocolmo",
+    "svezia/arcipelago-stoccolma-in-barca": "archipielago-estocolmo-en-barco",
+    "svizzera/jungfraujoch-top-of-europe": "jungfraujoch-top-of-europe",
+    "svizzera/via-ferrata-muerren-gimmelwald": "via-ferrata-murren-gimmelwald",
+    "svizzera/giro-battello-laghi-thun-brienz": "paseo-barco-lagos-thun-brienz",
+    "svizzera/trummelbachfalle": "trummelbachfalle",
+    "thailandia/jay-fai-bangkok": "jay-fai-bangkok",
+    "thailandia/crociera-cheow-lan": "crucero-cheow-lan",
+    "thailandia/bond-island-canoa": "bond-island-canoa",
+    "thailandia/elephant-nature-park": "elephant-nature-park",
+    "thailandia/snorkeling-similan": "snorkel-similan",
+    "thailandia/full-moon-party": "full-moon-party"
+  },
+  "viaggi": {
+    "lapponia-svedese-abisko": "laponia-sueca-abisko",
+    "svizzera-alpi-van": "suiza-alpes-furgoneta",
+    "thailandia": "tailandia"
+  }
+}

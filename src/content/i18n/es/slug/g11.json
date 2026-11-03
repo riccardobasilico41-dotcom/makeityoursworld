@@ -1,0 +1,53 @@
+{
+  "paesi": {
+    "germania": "alemania",
+    "giappone": "japon",
+    "giordania": "jordania"
+  },
+  "destinazioni": {
+    "germania/berlino": "berlin",
+    "giappone/tokyo": "tokio",
+    "giappone/kamakura": "kamakura",
+    "giappone/monte-fuji-chureito": "monte-fuji-chureito",
+    "giappone/kyoto": "kioto",
+    "giappone/hiroshima-miyajima": "hiroshima-miyajima",
+    "giappone/himeji": "himeji",
+    "giappone/osaka": "osaka",
+    "giappone/nara": "nara",
+    "giordania/amman": "aman",
+    "giordania/jerash": "jerash",
+    "giordania/mar-morto": "mar-muerto",
+    "giordania/karak-monte-nebo": "karak-monte-nebo",
+    "giordania/petra": "petra",
+    "giordania/wadi-rum": "wadi-rum",
+    "giordania/aqaba": "aqaba"
+  },
+  "esperienze": {
+    "germania/reichstag-cupola": "cupula-reichstag",
+    "germania/museumsinsel-pergamon": "isla-museos-pergamo",
+    "germania/east-side-gallery": "east-side-gallery",
+    "germania/berlino-clubbing": "techno-berlin",
+    "giappone/sakura-chasing-tokyo": "cerezos-en-flor-tokio",
+    "giappone/shibuya-crossing": "cruce-shibuya",
+    "giappone/chureito-monte-fuji": "chureito-monte-fuji",
+    "giappone/fushimi-inari": "fushimi-inari",
+    "giappone/kinkaku-ji": "kinkaku-ji-templo-dorado",
+    "giappone/torii-miyajima": "torii-flotante-miyajima",
+    "giappone/cervi-nara": "ciervos-nara",
+    "giordania/cittadella-amman": "ciudadela-aman",
+    "giordania/bagno-mar-morto": "bano-mar-muerto",
+    "giordania/salita-monastero-petra": "subida-monasterio-petra",
+    "giordania/hammam-wadi-musa": "hammam-wadi-musa",
+    "giordania/jeep-safari-wadi-rum": "safari-jeep-wadi-rum",
+    "giordania/capodanno-deserto": "nochevieja-desierto",
+    "giordania/diving-aqaba": "buceo-aqaba"
+  },
+  "viaggi": {
+    "provenza-camargue": "provenza-camarga",
+    "rotte-dei-vini-francia": "rutas-vino-francia",
+    "settimana-bianca-francia": "semana-blanca-francia",
+    "tour-du-mont-blanc": "tour-del-mont-blanc",
+    "berlino-weekend": "berlin-fin-de-semana",
+    "giappone-itinerario": "japon-itinerario"
+  }
+}

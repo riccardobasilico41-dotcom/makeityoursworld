@@ -1,0 +1,81 @@
+import type { TripMeta } from '@/lib/types'
+
+export const indiaSudTajMahalMeta: TripMeta = {
+  tripSlug: 'india-sud-taj-mahal',
+  paeseSlug: 'india',
+  ritmo:
+    "Regular: una etapa nueva cada uno o dos días por Tamil Nadu y Kerala, con traslados en coche de 2-6 horas, una noche lenta en houseboat y dos jornadas completas en Fort Kochi. Se acelera al final, con dos noches de tren a Hampi y el salto al Norte para el Taj Mahal.",
+  trasporti:
+    "Coche con conductor de Chennai a Fort Kochi (Tamil Nadu y Kerala), houseboat por las backwaters, vuelo Kochi-Bangalore, tren nocturno Bangalore-Hosapete y vuelta para Hampi, vuelo Bangalore-Delhi (o Agra), tren rápido Delhi-Agra y vuelta.",
+  stile: ['cultura', 'templi', 'natura', 'backwaters', 'cibo'],
+  adattoA: [
+    "quien va a India por primera vez y prefiere una India más lenta y menos caótica que la del Norte",
+    "quien ya ha hecho Rajastán y quiere un segundo viaje muy distinto",
+    "quien ama los templos, la comida y los paisajes verdes más que los fuertes y el desierto",
+    "quien no quiere volver sin haber visto el Taj Mahal, aceptando un vuelo más",
+  ],
+  puntiForti: [
+    "El templo de Meenakshi en Madurai, vivo a todas horas, con la ceremonia de la noche",
+    "Una noche en houseboat por las backwaters de Kerala",
+    "El amanecer sobre las plantaciones de té de Munnar",
+    "Las rocas de granito y las ruinas de Hampi al atardecer desde la colina de Matanga",
+    "El Taj Mahal a la apertura de las puertas como cierre del viaje",
+  ],
+  criticita: [
+    "Hampi queda fuera de línea: añade un vuelo y dos noches de tren, y es la parte que hay que quitar si se tienen 14 días",
+    "Los monzones están desfasados: Kerala lluvioso de junio a agosto, costa de Tamil Nadu de octubre a diciembre. La ventana buena para todo es diciembre-marzo",
+    "Las backwaters alrededor de Alleppey están congestionadas: hay que elegir bien el operador y añadir un paseo en canoa por los canales pequeños",
+    "En los 52 grandes templos de Tamil Nadu el teléfono hay que llevarlo apagado o dejarlo en la consigna, las fotos y los vídeos están prohibidos y los santuarios interiores están reservados a los hindúes",
+    "Varios cierres semanales que encajar: Taj Mahal los viernes, sinagoga de Kochi viernes y sábado, museo del té de Munnar los lunes",
+  ],
+  budgetTotale: undefined,
+  viaggioInBreve: {
+    conChiSonoPartito:
+      "itinerario pensado para viajar por libre, en pareja o en grupo pequeño, con conductor en el Sur, vuelos internos y trenes",
+    treEsperienzePiuBelle:
+      "El templo de Meenakshi en Madurai, la noche en houseboat por las backwaters, el atardecer sobre Hampi desde la colina de Matanga",
+    aChiLoConsiglio: "a quien tiene dos semanas largas entre diciembre y marzo y busca la India más suave",
+  },
+  tappeMappa: [
+    { nome: 'Chennai', destinazioneSlug: 'chennai' },
+    { nome: 'Mamallapuram', destinazioneSlug: 'mamallapuram' },
+    { nome: 'Puducherry' },
+    { nome: 'Thanjavur' },
+    { nome: 'Madurai', destinazioneSlug: 'madurai' },
+    { nome: 'Munnar', destinazioneSlug: 'munnar' },
+    { nome: 'Backwaters de Alleppey', destinazioneSlug: 'backwaters-alleppey' },
+    { nome: 'Fort Kochi', destinazioneSlug: 'fort-kochi' },
+    { nome: 'Hampi', destinazioneSlug: 'hampi' },
+    { nome: 'Agra y el Taj Mahal', destinazioneSlug: 'agra' },
+    { nome: 'Delhi', destinazioneSlug: 'delhi' },
+  ],
+  giorni: [
+    { titoloGiorno: "Día 1 — Llegada a Chennai y traslado a Mamallapuram", tratta: "Aeropuerto de Chennai → Mamallapuram por la East Coast Road, unas 1 h 30", pernottamento: "Mamallapuram", statoPernottamento: 'consigliato', intensita: 'leggero', destinazioneSlug: 'mamallapuram', immagine: '/images/viaggi/india-sud-taj-mahal/giorno-01-mamallapuram.jpg', imageAlt: "El Descenso del Ganges en Mamallapuram, el gran bajorrelieve en la roca con elefantes, divinidades y animales" },
+    { titoloGiorno: "Día 2 — Mamallapuram: el templo sobre el mar y los Cinco Ratha", pernottamento: "Mamallapuram", statoPernottamento: 'consigliato', intensita: 'medio', costiNoti: "Entrada ASI única para Shore Temple y Cinco Ratha unas 600 rupias para los extranjeros", destinazioneSlug: 'mamallapuram', immagine: '/images/viaggi/india-sud-taj-mahal/giorno-02-mamallapuram.jpg', imageAlt: "El Shore Temple de Mamallapuram, el templo de granito del siglo VIII con sus dos torres piramidales" },
+    { titoloGiorno: "Día 3 — Puducherry, la ciudad francesa", tratta: "Mamallapuram → Puducherry, unas 2 h", pernottamento: "Puducherry, Barrio Blanco", statoPernottamento: 'consigliato', intensita: 'leggero', immagine: '/images/viaggi/india-sud-taj-mahal/giorno-03-puducherry.jpg', imageAlt: "El paseo marítimo de Puducherry visto desde arriba, con el viejo faro, el paseo y el golfo de Bengala" },
+    { titoloGiorno: "Día 4 — Hacia Thanjavur y el templo de Brihadeeswarar", tratta: "Puducherry → Chidambaram → Gangaikonda Cholapuram → Thanjavur, 4-5 h con las paradas", pernottamento: "Thanjavur", statoPernottamento: 'consigliato', intensita: 'intenso', costiNoti: "Brihadeeswarar de entrada libre", immagine: '/images/viaggi/india-sud-taj-mahal/giorno-04-thanjavur.jpg', imageAlt: "La torre piramidal del templo de Brihadeeswarar en Thanjavur, de granito, con una bandada de pájaros alrededor" },
+    { titoloGiorno: "Día 5 — De Thanjavur a Madurai y la ceremonia de la noche en el Meenakshi", tratta: "Thanjavur → Madurai, unas 3 h", pernottamento: "Madurai, cerca del templo", statoPernottamento: 'consigliato', intensita: 'medio', costiNoti: "Meenakshi de entrada libre; teléfono apagado o en la consigna (5 rupias), sin fotos", destinazioneSlug: 'madurai', immagine: '/images/viaggi/india-sud-taj-mahal/giorno-05-madurai.jpg', imageAlt: "Una de las torres de entrada (gopuram) del templo de Meenakshi en Madurai, cubierta de estatuas pintadas" },
+    { titoloGiorno: "Día 6 — Madurai, la ciudad del templo", pernottamento: "Madurai, cerca del templo", statoPernottamento: 'consigliato', intensita: 'medio', destinazioneSlug: 'madurai', immagine: '/images/viaggi/india-sud-taj-mahal/giorno-06-madurai.jpg', imageAlt: "El estanque del Loto de Oro en el templo de Meenakshi en Madurai, con la columnata y un gopuram al fondo" },
+    { titoloGiorno: "Día 7 — De las llanuras a las colinas de Munnar", tratta: "Madurai → Munnar, coche unas 5-6 h por los Ghats Occidentales", pernottamento: "Munnar, homestay o resort entre las plantaciones", statoPernottamento: 'consigliato', intensita: 'medio', destinazioneSlug: 'munnar', immagine: '/images/viaggi/india-sud-taj-mahal/giorno-07-munnar.jpg', imageAlt: "Una carretera de montaña que serpentea entre las plantaciones de té en las colinas de Munnar" },
+    { titoloGiorno: "Día 8 — Munnar: las plantaciones de té y el parque de Eravikulam", pernottamento: "Munnar, homestay o resort entre las plantaciones", statoPernottamento: 'consigliato', intensita: 'medio', costiNoti: "Eravikulam unas 500 rupias para los extranjeros, abierto 8-16, cerrado del 1 de febrero al 31 de marzo", destinazioneSlug: 'munnar', immagine: '/images/viaggi/india-sud-taj-mahal/giorno-08-munnar.jpg', imageAlt: "Las plantaciones de té de Munnar en las colinas envueltas en niebla" },
+    { titoloGiorno: "Día 9 — Las backwaters: una noche en houseboat en Alleppey", tratta: "Munnar → Alappuzha, coche 4-5 h; houseboat de las 12 a las 9 del día siguiente", pernottamento: "Houseboat (kettuvallam) por las backwaters", statoPernottamento: 'consigliato', intensita: 'leggero', costiNoti: "Houseboat por una noche 8.000-15.000 rupias en gama estándar, 15.000-25.000 premium, comidas incluidas", destinazioneSlug: 'backwaters-alleppey', immagine: '/images/viaggi/india-sud-taj-mahal/giorno-09-backwaters-alleppey.jpg', imageAlt: "Una houseboat tradicional (kettuvallam) por las backwaters de Alappuzha entre cocoteros" },
+    { titoloGiorno: "Día 10 — De las backwaters a Fort Kochi", tratta: "Alappuzha → Fort Kochi, unas 1 h 30", pernottamento: "Fort Kochi, homestay u hotel heritage", statoPernottamento: 'consigliato', intensita: 'leggero', costiNoti: "Espectáculo de kathakali unas 500-600 rupias", destinazioneSlug: 'fort-kochi', immagine: '/images/viaggi/india-sud-taj-mahal/giorno-10-fort-kochi.jpg', imageAlt: "Las redes de pesca chinas en la orilla de Fort Kochi, suspendidas sobre el agua bajo el cielo azul" },
+    { titoloGiorno: "Día 11 — Fort Kochi y Mattancherry", pernottamento: "Fort Kochi, homestay u hotel heritage", statoPernottamento: 'consigliato', intensita: 'leggero', destinazioneSlug: 'fort-kochi', immagine: '/images/viaggi/india-sud-taj-mahal/giorno-11-fort-kochi.jpg', imageAlt: "Una casa antigua de Fort Kochi con un gran mural pintado en la fachada" },
+    { titoloGiorno: "Día 12 — Vuelo a Bangalore y tren nocturno a Hampi", tratta: "Kochi → Bangalore, vuelo de alrededor de 1 h; Bangalore → Hosapete, Hampi Express (16592) unas 9 h, hacia las 21:50 → 7", pernottamento: "Tren nocturno en 2A o 3A", statoPernottamento: 'consigliato', intensita: 'medio', costiNoti: "Vuelo Kochi-Bangalore 3.000-6.000 rupias", immagine: '/images/viaggi/india-sud-taj-mahal/giorno-12-treno-notturno.jpg', imageAlt: "Un tren de los ferrocarriles indios parado en el andén de una estación" },
+    { titoloGiorno: "Día 13 — Hampi: el bazar, el templo de Virupaksha y el atardecer en Matanga", tratta: "Hosapete → Hampi, unos 20 minutos en tuk-tuk", pernottamento: "Hampi, guesthouse en el bazar o resort al otro lado del río", statoPernottamento: 'consigliato', intensita: 'medio', destinazioneSlug: 'hampi', immagine: '/images/viaggi/india-sud-taj-mahal/giorno-13-hampi.jpg', imageAlt: "El templo de Virupaksha en Hampi visto desde arriba, con el río Tungabhadra y las colinas de rocas de granito" },
+    { titoloGiorno: "Día 14 — Hampi: el Centro real, el templo de Vittala y el tren nocturno", tratta: "Hosapete → Bangalore, Hampi Express (16591) unas 9 h, salida hacia las 21:10", pernottamento: "Tren nocturno en 2A o 3A", statoPernottamento: 'consigliato', intensita: 'intenso', costiNoti: "Vittala unas 600 rupias para los extranjeros, válido también para el recinto de las reinas y las cuadras de los elefantes", destinazioneSlug: 'hampi', immagine: '/images/viaggi/india-sud-taj-mahal/giorno-14-hampi.jpg', imageAlt: "El carro de piedra y el gopuram del templo de Vittala en Hampi bajo un cielo de nubes" },
+    { titoloGiorno: "Día 15 — De Bangalore a Agra", tratta: "Bangalore → Agra, vuelo directo IndiGo (5-8 por semana, unas 2 h 40), o vuelo a Delhi (unas 2 h 30) y tren rápido a Agra (unas 1 h 40)", pernottamento: "Agra, zona Taj Ganj", statoPernottamento: 'consigliato', intensita: 'medio', costiNoti: "Vuelo 4.000-8.000 rupias; tren Delhi-Agra 800-1.600 rupias", destinazioneSlug: 'agra', immagine: '/images/india/agra-forte-archi-riccardo.jpg', imageAlt: "Una sucesión de arcos polilobulados de arenisca tallada en el Fuerte de Agra, iluminados por una luz cálida" },
+    { titoloGiorno: "Día 16 — El Taj Mahal al amanecer y el Fuerte de Agra", tratta: "Agra → Delhi, tren unas 2 h", pernottamento: "Delhi, Aerocity o centro", statoPernottamento: 'consigliato', intensita: 'intenso', costiNoti: "Taj Mahal unas 1.100 rupias + 200 por el mausoleo; Fuerte de Agra unas 650", destinazioneSlug: 'agra', immagine: '/images/india/agra-taj-mahal-alba-riccardo.jpg', imageAlt: "El Taj Mahal simétrico al amanecer, con el estanque de agua y los cipreses del jardín" },
+    { titoloGiorno: "Día 17 — Delhi y salida", tratta: "Delhi → aeropuerto Indira Gandhi → vuelo internacional", pernottamento: "Vuelo de regreso", statoPernottamento: 'consigliato', intensita: 'leggero', costiNoti: "Tumba de Humayun unas 600 rupias", destinazioneSlug: 'delhi', immagine: '/images/viaggi/india-sud-taj-mahal/giorno-17-delhi.jpg', imageAlt: "La Tumba de Humayun en Delhi con el estanque y la fuente de los jardines mogoles en primer plano" },
+  ],
+  budget: [
+    { etichetta: 'Vuelos intercontinentales', valore: "Italia-Chennai con regreso desde Delhi, orientativamente 550-1.000 € con una escala" },
+    { etichetta: 'Visado y documentos', valore: "e-Tourist Visa 25 $ (30 días) o 40 $ (un año), más el 2,5-3 % de comisión, que hay que pedir al menos 4 días antes; e-Arrival Card gratuita en las 72 horas previas" },
+    { etichetta: 'Coche con conductor (Tamil Nadu y Kerala)', valore: "3.000-4.500 rupias al día, más peajes, aparcamientos y permiso interestatal" },
+    { etichetta: 'Houseboat', valore: "8.000-25.000 rupias por la barca por una noche, comidas incluidas" },
+    { etichetta: 'Vuelos internos', valore: "Kochi-Bangalore y Bangalore-Delhi o Bangalore-Agra 3.000-8.000 rupias por tramo" },
+    { etichetta: 'Trenes', valore: "Hampi Express Bangalore-Hosapete y vuelta en 2A o 3A; Delhi-Agra y vuelta 800-1.600 rupias por tramo" },
+    { etichetta: 'Entradas a los monumentos', valore: "4.500-6.000 rupias por persona en total (tarifas para extranjeros, orientativas); muchos grandes templos del Sur son gratuitos" },
+    { etichetta: 'Alojamiento', valore: "homestay 1.500-3.000 rupias, hotel heritage 4.000-9.000 rupias, resorts de lujo mucho más" },
+  ],
+}
