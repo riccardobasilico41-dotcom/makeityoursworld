@@ -86,8 +86,8 @@ export async function Header() {
 
   return (
     <header className="relative z-40 border-b border-ink/15 bg-cream">
-      <div className="flex items-center justify-between gap-x-3 px-4 py-4 sm:px-8 lg:px-12">
-        <Link href="/" className="shrink-0 text-[1.2rem] text-ink min-[420px]:text-[1.35rem] sm:text-[1.6rem]">
+      <div className="flex items-center justify-between gap-x-3 px-4 py-4 sm:px-8 lg:px-12 min-[1440px]:gap-x-10">
+        <Link href="/" className="shrink-0 text-[1.2rem] text-ink min-[420px]:text-[1.35rem] sm:text-[1.6rem] min-[1440px]:text-[1.35rem] min-[1680px]:text-[1.6rem]">
           <Marchio />
         </Link>
         <div className="flex shrink-0 items-center gap-x-1 min-[420px]:gap-x-3 sm:gap-x-5 xl:gap-x-4 2xl:gap-x-5">

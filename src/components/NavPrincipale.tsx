@@ -62,7 +62,7 @@ export function NavPrincipale({ gruppi }: { gruppi: GruppoMenu[] }) {
   return (
     <div ref={ref}>
       {/* Desktop */}
-      <nav aria-label={t.principale} className="hidden min-[1360px]:block">
+      <nav aria-label={t.principale} className="hidden min-[1440px]:block">
         <ul className="flex items-center gap-x-4 2xl:gap-x-5">
           {gruppi.map((g) => {
             const id = `menu-${g.nome.replace(/\W+/g, '-').toLowerCase()}`
@@ -111,7 +111,7 @@ export function NavPrincipale({ gruppi }: { gruppi: GruppoMenu[] }) {
       </nav>
 
       {/* Mobile e tablet */}
-      <div className="min-[1360px]:hidden">
+      <div className="min-[1440px]:hidden">
         <button
           type="button"
           aria-expanded={mobile}

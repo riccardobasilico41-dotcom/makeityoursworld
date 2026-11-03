@@ -253,8 +253,8 @@ export function Ricerca() {
       >
         <Search size={20} aria-hidden="true" />
         {/* Testo e tasto solo da 1440px: sotto, il menu non ci sta su una riga. */}
-        <span aria-hidden="true" className="hidden min-[1440px]:inline">{t.cerca}</span>
-        <kbd aria-hidden="true" className="hidden border border-ink/30 px-1.5 font-sans text-xs font-medium text-stone min-[1440px]:inline">
+        <span aria-hidden="true" className="hidden min-[1600px]:inline">{t.cerca}</span>
+        <kbd aria-hidden="true" className="hidden border border-ink/30 px-1.5 font-sans text-xs font-medium text-stone min-[1600px]:inline">
           /
         </kbd>
       </button>
