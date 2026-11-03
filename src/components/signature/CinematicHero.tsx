@@ -79,7 +79,7 @@ export async function CinematicHero({
         />
       </div>
 
-      <div className="relative z-10 -mt-8 px-4 pb-10 transition-opacity duration-700 sm:-mt-14 sm:px-8 landscape:md:mt-auto landscape:md:px-12 landscape:md:pb-14 landscape:md:group-data-[intro=true]/hero:pointer-events-none landscape:md:group-data-[intro=true]/hero:opacity-0">
+      <div className="relative z-10 px-4 pt-6 pb-10 transition-opacity duration-700 sm:px-8 sm:pt-8 landscape:md:pt-0 landscape:md:mt-auto landscape:md:px-12 landscape:md:pb-14 landscape:md:group-data-[intro=true]/hero:pointer-events-none landscape:md:group-data-[intro=true]/hero:opacity-0">
         <h1 className="max-w-[16ch] font-display text-[clamp(2.4rem,6.4vw,6.5rem)] text-balance text-cream [text-shadow:0_2px_24px_rgb(0_0_0/0.45)]">
           {inizio} {fine && <span className="text-[oklch(70%_0.16_32)]">{fine}</span>}
         </h1>
