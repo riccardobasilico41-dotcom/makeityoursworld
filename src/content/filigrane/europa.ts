@@ -7,8 +7,8 @@ export const filigraneEuropa: Record<string, FiligranaPaese> = {
   italia: {
     a: {
       src: '/images/filigrane/italia-a.webp',
-      cosa: 'Ramo di limone in fiore con frutti, tavola botanica',
-      fonte: { titolo: 'Citrus limonum, tav. 3', autore: KOHLER, anno: '1887', url: C + "K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_3)_BHL303566.jpg", licenza: 'Pubblico dominio' },
+      cosa: 'Il pizzaiolo napoletano con la pala e la pizza, litografia colorata',
+      fonte: { titolo: 'Pizzaiolo (Pizzaiuolo)', autore: 'Gaetano Dura', anno: 'XIX secolo', url: C + 'PizzaioloPrint.jpg', licenza: 'Pubblico dominio' },
     },
     b: {
       src: '/images/filigrane/italia-b.webp',
@@ -19,27 +19,32 @@ export const filigraneEuropa: Record<string, FiligranaPaese> = {
   francia: {
     a: {
       src: '/images/filigrane/francia-a.webp',
-      cosa: 'Lavanda in fiore, tavola botanica',
-      fonte: { titolo: 'Lavandula vera, tav. 60', autore: KOHLER, anno: '1887', url: C + "K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_60)_BHL303684.jpg", licenza: 'Pubblico dominio' },
+      cosa: 'La Tour Eiffel nel manifesto dell\'Esposizione universale di Parigi (ritagliata sulla torre, senza titolo)',
+      fonte: { titolo: 'Exposition Universelle de Paris en 1889. La Tour Eiffel, le plus haut monument du globe', autore: 'Anonimo', anno: '1889', url: C + 'Exposition_Universelle_de_Paris_en_1889._La_Tour_Eiffel,_le_plus_haut_monument_du_globe._Prix_0,20_centimes_affiche,_non_identifi%C3%A9.jpg', licenza: 'Pubblico dominio' },
     },
     b: {
       src: '/images/filigrane/francia-b.webp',
-      cosa: 'La chimera di Notre-Dame che guarda Parigi, acquaforte',
-      fonte: { titolo: 'Le Stryge', autore: 'Charles Meryon', anno: '1853', url: C + 'Le_Stryge_(The_Vampire)_-_Vanderbilt_Fine_Arts_Gallery_-_1957.032.tif', licenza: 'Pubblico dominio' },
+      cosa: 'La vendemmia: vendemmiatori con i cesti tra i filari, incisione del frontespizio (ritagliata)',
+      fonte: { titolo: 'Frontespizio del vol. X del Cours complet d\'agriculture (Rozier)', autore: 'Anonimo (Rijksmuseum)', anno: '1800', url: C + 'Druivenoogst_Titelpagina_voor_Rozier,_Cours_complet_d\'agriculture_(..)_ou_Dictionnaire_Universel_d\'agriculture,_1800,_RP-P-1910-4341.jpg', licenza: 'CC0' },
     },
   },
   spagna: {
     a: {
       src: '/images/filigrane/spagna-a.webp',
-      cosa: 'Ramo di melograno in fiore (la granada), tavola botanica',
-      fonte: { titolo: 'Punica granatum, tav. 110', autore: KOHLER, anno: '1890', url: C + "K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_110_I)_(8232783720).jpg", licenza: 'Pubblico dominio' },
+      cosa: 'Gitana di Granada che balla lo zorongo con il tamburello, incisione (ritagliata senza la firma)',
+      fonte: { titolo: 'Gitana de Grenade dansant le zorongo (Le Tour du monde, vol. 10, p. 409)', autore: 'Gustave Doré', anno: '1864', url: C + 'Le_Tour_du_monde-10-p409.jpg', licenza: 'Pubblico dominio' },
+    },
+    b: {
+      src: '/images/filigrane/spagna-b.webp',
+      cosa: 'La Porta della Giustizia dell\'Alhambra di Granada, litografia colorata (ritagliata senza cornice e didascalia)',
+      fonte: { titolo: 'Puerta del Juicio (Alhambra), dalla serie Ruinas de Granada', autore: 'Chénot (litografo)', anno: 'XIX secolo', url: C + 'Puerta_del_Juicio_(Alhambra),_objectnr_A_14481.tif', licenza: 'Pubblico dominio' },
     },
   },
   portogallo: {
     a: {
       src: '/images/filigrane/portogallo-a.webp',
-      cosa: 'Ramo di quercia da sughero con ghiande, tavola botanica',
-      fonte: { titolo: 'Quercus suber, tav. 152', autore: KOHLER, anno: '1890', url: C + "K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_152)_(8232804174).jpg", licenza: 'Pubblico dominio' },
+      cosa: 'La caravella reale di re Manuele I, incisione (ritagliata)',
+      fonte: { titolo: 'Caravela Real de D. Manuel. «Vista de Lisboa, século XV»', autore: 'Anonimo (Album do Século)', anno: '1900 circa', url: C + 'Caravela_Real_de_D._Manuel.jpg', licenza: 'Pubblico dominio' },
     },
     b: {
       src: '/images/filigrane/portogallo-b.webp',
@@ -50,8 +55,8 @@ export const filigraneEuropa: Record<string, FiligranaPaese> = {
   svizzera: {
     a: {
       src: '/images/filigrane/svizzera-a.webp',
-      cosa: 'Stelle alpine, tavola botanica',
-      fonte: { titolo: 'Gnaphalium leontopodium (Edelweiss), Atlas der Alpenflora', autore: 'Anton Hartinger', anno: '1882', url: C + 'Leontopodium_alpinum001.jpg', licenza: 'Pubblico dominio' },
+      cosa: 'Mucca con il campanaccio al collo, disegno a matita da un taccuino (soggetto tipico, non una veduta svizzera precisa)',
+      fonte: { titolo: 'Koe met een bel om de nek, van opzij gezien', autore: 'Rijksmuseum (schizzo da taccuino)', anno: '1858', url: C + 'Koe_met_een_bel_om_de_nek,_van_opzij_gezien,_RP-T-2000-108-4(R).jpg', licenza: 'CC0' },
     },
     b: {
       src: '/images/filigrane/svizzera-b.webp',
@@ -62,8 +67,13 @@ export const filigraneEuropa: Record<string, FiligranaPaese> = {
   austria: {
     a: {
       src: '/images/filigrane/austria-a.webp',
-      cosa: 'Genziana alpina, tavola botanica',
-      fonte: { titolo: 'Gentiana acaulis, Atlas der Alpenflora, tav. 335', autore: 'Anton Hartinger', anno: '1882', url: C + 'Atlas_der_Alpenflora_(Pl._335)_BHL10384610.jpg', licenza: 'Pubblico dominio' },
+      cosa: 'Il duomo di Santo Stefano a Vienna, acquerello',
+      fonte: { titolo: 'Stephansdom in Wien', autore: 'Jakob Alt', anno: '1852', url: C + 'Jacob_Alt_Stephansdom_in_Wien_1852.jpg', licenza: 'Pubblico dominio' },
+    },
+    b: {
+      src: '/images/filigrane/austria-b.webp',
+      cosa: 'Il castello di Schönbrunn con la Gloriette, acquerello (ritagliato senza didascalia)',
+      fonte: { titolo: 'Ansicht des Schönbrunnerschloßes mit der Gloriette', autore: 'Balthasar Wigand', anno: 'prima del 1846', url: C + 'Balthasar_Wigand_Ansicht_des_Sch%C3%B6nbrunnerschlo%C3%9Fes.jpg', licenza: 'Pubblico dominio' },
     },
   },
   germania: {
@@ -71,6 +81,11 @@ export const filigraneEuropa: Record<string, FiligranaPaese> = {
       src: '/images/filigrane/germania-a.webp',
       cosa: 'La Lepre di Dürer, acquerello',
       fonte: { titolo: 'Feldhase (Lepre giovane)', autore: 'Albrecht Dürer', anno: '1502', url: C + 'Albrecht_D%C3%BCrer_-_Hare,_1502_-_Google_Art_Project.jpg', licenza: 'Pubblico dominio' },
+    },
+    b: {
+      src: '/images/filigrane/germania-b.webp',
+      cosa: 'La Porta di Brandeburgo a Berlino, litografia colorata',
+      fonte: { titolo: 'Berlin, Brandenburger Tor', autore: 'K. Loeillot', anno: '1850 circa', url: C + 'Berlin_Brandenburger_Tor_c1850.jpg', licenza: 'Pubblico dominio' },
     },
   },
   'paesi-bassi': {
@@ -88,27 +103,32 @@ export const filigraneEuropa: Record<string, FiligranaPaese> = {
   danimarca: {
     a: {
       src: '/images/filigrane/danimarca-a.webp',
-      cosa: 'Ramo di faggio, albero nazionale danese, tavola della Flora Danica',
-      fonte: { titolo: 'Flora Danica, fasc. 22, tav. 1283', autore: 'Flora Danica (Copenaghen)', anno: '1806', url: C + 'Flora_Danica_Hft_22_Tab_1283.tif', licenza: 'Pubblico dominio' },
+      cosa: 'Il castello di Kronborg (Elsinore), xilografia',
+      fonte: { titolo: 'Elsinore (Kronborg Castle)', autore: 'John Skinner Prout (inciso da Joseph Swain)', anno: '1862', url: C + 'Elsinore_-_John_Skinner_Prout.png', licenza: 'Pubblico dominio' },
+    },
+    b: {
+      src: '/images/filigrane/danimarca-b.webp',
+      cosa: 'Nave vichinga del IX secolo in mare, stampa (ritagliata dai margini)',
+      fonte: { titolo: 'Kieler uit de negende eeuw', autore: 'Anonimo (Rijksmuseum)', anno: '1857-1864', url: C + 'Kieler,_9e_eeuw,_RP-P-OB-28.423.jpg', licenza: 'CC0' },
     },
   },
   svezia: {
     a: {
       src: '/images/filigrane/svezia-a.webp',
-      cosa: 'Linnaea borealis, il fiore di Linneo, tavola botanica',
-      fonte: { titolo: 'Svensk botanik, tav. 1', autore: 'Johan Wilhelm Palmstruch', anno: '1815', url: C + 'Svensk_botanik_(Plate_1)_(6120311694).jpg', licenza: 'Pubblico dominio' },
+      cosa: 'Il Palazzo Reale di Stoccolma (Gamla stan), litografia',
+      fonte: { titolo: 'Le château royal à Stockholm vue de la statue de Gustave III', autore: 'Auguste Mayer', anno: '1840 circa', url: C + 'Commission_scientifique_du_Nord_-_A._Mayer_-_Le_Ch%C3%A2teau_royal_%C3%A0_Stockholm_vue_de_la_statue_de_Gustave_III.jpg', licenza: 'Pubblico dominio' },
     },
     b: {
       src: '/images/filigrane/svezia-b.webp',
-      cosa: 'Donna in un viale autunnale, acquerello',
-      fonte: { titolo: 'Hösten (Autunno)', autore: 'Carl Larsson', anno: '1884', url: C + 'Autumn_(Carl_Larsson)_-_Nationalmuseum_-_24343.tif', licenza: 'Pubblico dominio' },
+      cosa: 'Alce con la femmina tra canne e betulle, incisione (ritagliata)',
+      fonte: { titolo: 'Alces alces, dal Dizionario enciclopedico Brockhaus-Efron', autore: 'Richard Friese', anno: '1890-1907', url: C + 'Alces_alces_par_Richard_Friese.jpg', licenza: 'Pubblico dominio' },
     },
   },
   norvegia: {
     a: {
       src: '/images/filigrane/norvegia-a.webp',
-      cosa: 'Portale intagliato di una chiesa di legno (stavkirke), litografia',
-      fonte: { titolo: 'Denkmale einer sehr ausgebildeten Holzbaukunst … Norwegens, fasc. 1, tav. 5', autore: 'Johan Christian Dahl', anno: '1837', url: C + 'Dahl_1.Heft_Tafel_5_600dpi.png', licenza: 'Pubblico dominio' },
+      cosa: 'Drakkar: nave vichinga del IX secolo sulle onde, stampa (ritagliata dai margini)',
+      fonte: { titolo: 'Vaartuig uit de negende eeuw', autore: 'Anonimo (Rijksmuseum)', anno: '1857-1864', url: C + 'Vaartuig,_9e_eeuw,_RP-P-OB-28.422.jpg', licenza: 'CC0' },
     },
     b: {
       src: '/images/filigrane/norvegia-b.webp',
@@ -126,15 +146,15 @@ export const filigraneEuropa: Record<string, FiligranaPaese> = {
   estonia: {
     a: {
       src: '/images/filigrane/estonia-a.webp',
-      cosa: 'Fiordaliso, fiore nazionale estone, tavola botanica',
-      fonte: { titolo: 'Centaurea cyanus, Flora von Deutschland, Österreich und der Schweiz', autore: 'Otto Wilhelm Thomé', anno: '1885', url: C + 'Centaurea_cyanus001.jpg', licenza: 'Pubblico dominio' },
+      cosa: 'Tallinn: il Vecchio Mercato (Vana turg) nella città vecchia, acquatinta colorata',
+      fonte: { titolo: 'Der Alte Markt zu Reval', autore: 'Theodor Gehlhaar', anno: '1871', url: C + 'Vana_turg_Tallinnas._Der_Alte_Markt_zu_Reval_(cropped,_enhanced).jpg', licenza: 'Pubblico dominio' },
     },
   },
   lettonia: {
     a: {
       src: '/images/filigrane/lettonia-a.webp',
-      cosa: 'Margherita, fiore nazionale lettone, tavola botanica',
-      fonte: { titolo: 'Chrysanthemum leucanthemum, Flora von Deutschland, Österreich und der Schweiz', autore: 'Otto Wilhelm Thomé', anno: '1885', url: C + 'Illustration_Chrysanthemum_leucanthemum0.jpg', licenza: 'Pubblico dominio' },
+      cosa: 'Riga: il Municipio (Rathaus) sulla piazza della città vecchia, incisione (ritagliata)',
+      fonte: { titolo: 'Das Rathaus in Riga (Raekoda Riias)', autore: 'Theodor Gehlhaar', anno: '1835', url: C + 'Raekoda_Riias._1835,_AM_7469_4_G_602_4.tif', licenza: 'Pubblico dominio' },
     },
   },
   lituania: {
@@ -150,6 +170,11 @@ export const filigraneEuropa: Record<string, FiligranaPaese> = {
     },
   },
   polonia: {
+    a: {
+      src: '/images/filigrane/polonia-a.webp',
+      cosa: 'Cracovia: Sukiennice e torre del Municipio in piazza del Mercato, litografia (sorgente piccola, 660 px)',
+      fonte: { titolo: 'Sukiennice i wieża ratuszowa w Krakowie', autore: 'H. Walter', anno: '1860-1865', url: C + 'Sukiennice_i_wie%C5%BCa_ratuszowa_w_Krakowie,_1860-1865.jpg', licenza: 'Pubblico dominio' },
+    },
     b: {
       src: '/images/filigrane/polonia-b.webp',
       cosa: 'Il castello del Wawel visto dalla Vistola, incisione su acciaio',
@@ -174,6 +199,11 @@ export const filigraneEuropa: Record<string, FiligranaPaese> = {
       cosa: 'Pianta di paprika con il frutto rosso, tavola botanica',
       fonte: { titolo: 'Capsicum annuum, tav. 127', autore: KOHLER, anno: '1890', url: C + "K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_127)_(8231730035).jpg", licenza: 'Pubblico dominio' },
     },
+    b: {
+      src: '/images/filigrane/ungheria-b.webp',
+      cosa: 'Il Ponte delle catene tra Buda e Pest, fotografia d\'epoca all\'albumina (ritagliata dal cartoncino)',
+      fonte: { titolo: 'Kettingbrug die Buda met Pesth verbindt', autore: 'Anonimo (Rijksmuseum)', anno: '1850-1920', url: C + 'Kettingbrug_die_Buda_met_Pesth_verbindt,_RP-F-F01904.jpg', licenza: 'CC0' },
+    },
   },
   croazia: {
     a: {
@@ -181,8 +211,18 @@ export const filigraneEuropa: Record<string, FiligranaPaese> = {
       cosa: 'Ramo di olivo in fiore con olive, tavola botanica',
       fonte: { titolo: 'Olea europaea, tav. 109', autore: KOHLER, anno: '1890', url: C + "K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_109)_(8232783218).jpg", licenza: 'Pubblico dominio' },
     },
+    b: {
+      src: '/images/filigrane/croazia-b.webp',
+      cosa: 'Il forte Lovrijenac (San Lorenzo) accanto alle mura di Dubrovnik (Ragusa), acquerello',
+      fonte: { titolo: 'Das Kastell San Lorenzo in Ragusa', autore: 'Rudolf von Alt', anno: '1840', url: C + 'Rudolf_von_Alt_-_Das_Kastell_San_Lorenzo_in_Ragusa_-_1840.jpeg', licenza: 'Pubblico dominio' },
+    },
   },
   montenegro: {
+    a: {
+      src: '/images/filigrane/montenegro-a.webp',
+      cosa: 'Cattaro (Kotor) e le Bocche, litografia colorata',
+      fonte: { titolo: 'Kotor (Cattaro) intorno al 1840', autore: 'J. Alt (disegno), Joseph Zahradniczek il Giovane (litografia)', anno: '1840 circa', url: C + 'Kotor_shooting_c1840.jpg', licenza: 'Pubblico dominio' },
+    },
     b: {
       src: '/images/filigrane/montenegro-b.webp',
       cosa: 'Perast sulle Bocche di Cattaro, acquerello',
@@ -202,6 +242,11 @@ export const filigraneEuropa: Record<string, FiligranaPaese> = {
     },
   },
   transilvania: {
+    a: {
+      src: '/images/filigrane/transilvania-a.webp',
+      cosa: 'Il castello di Bran (Törzburg), xilografia (ritagliata dalla didascalia)',
+      fonte: { titolo: 'Castle of Terzburg', autore: 'George Pearson', anno: '1865', url: C + 'Castle_of_Terzburg.jpg', licenza: 'Pubblico dominio' },
+    },
     b: {
       src: '/images/filigrane/transilvania-b.webp',
       cosa: 'Il castello dei Corvino a Hunedoara (Vajdahunyad), incisione su acciaio',

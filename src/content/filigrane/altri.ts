@@ -39,6 +39,11 @@ export const filigraneAltri: Record<string, FiligranaPaese> = {
     },
   },
   marocco: {
+    a: {
+      src: '/images/filigrane/marocco-a.webp',
+      cosa: 'Minareto della Koutoubia di Marrakech sopra le mura, acquerello',
+      fonte: { titolo: 'Koutoubia Mosque, Marrakech', autore: 'Hercules Brabazon Brabazon', url: 'https://commons.wikimedia.org/wiki/File:Hercules_Brabazon_Brabazon_-_Koutoubia_Mosque,_Marrakech_-_B2009.9.125_-_Yale_Center_for_British_Art.jpg', licenza: 'CC0' },
+    },
     b: {
       src: '/images/filigrane/marocco-b.webp',
       cosa: 'Porta sud di Fès con carovana di muli, acquerello',
@@ -51,12 +56,22 @@ export const filigraneAltri: Record<string, FiligranaPaese> = {
       cosa: 'Cavallo arabo',
       fonte: { titolo: 'An Arabian Horse', autore: 'Théodore Géricault', anno: '1821', url: 'https://commons.wikimedia.org/wiki/File:Th%C3%A9odore_Gericault,_An_Arabian_Horse,_1821,_NGA_39010.jpg', licenza: 'CC0' },
     },
+    b: {
+      src: '/images/filigrane/arabia-saudita-b.webp',
+      cosa: 'Dromedario con la sua carovana a riposo nel deserto, litografia (non sono state trovate stampe PD di Hegra)',
+      fonte: { titolo: 'Halteplaats van een karavaan met dromedaris', autore: 'Gihaut frères (stampa del Rijksmuseum)', anno: '1831', url: 'https://commons.wikimedia.org/wiki/File:Halteplaats_van_een_karavaan_met_dromedaris,_RP-P-1942-443.jpg', licenza: 'CC0' },
+    },
   },
   'emirati-arabi-uniti': {
     a: {
       src: '/images/filigrane/emirati-arabi-uniti-a.webp',
       cosa: 'Falco pellegrino, il falco della falconeria',
       fonte: { titolo: 'Peregrine Falcon, The Birds of Europe', autore: 'John Gould', anno: '1837', url: 'https://commons.wikimedia.org/wiki/File:The_birds_of_Europe_(9401303060).jpg', licenza: 'Pubblico dominio' },
+    },
+    b: {
+      src: '/images/filigrane/emirati-arabi-uniti-b.webp',
+      cosa: 'Dromedario al galoppo con il suo cavaliere, litografia colorata',
+      fonte: { titolo: 'Dromedarus, Arabisch post', autore: 'Rijksmuseum (stampa popolare)', anno: '1850 circa', url: 'https://commons.wikimedia.org/wiki/File:Dromedarus,_Arabisch_post_(titel_op_object),_RP-P-OB-201.013.jpg', licenza: 'CC0' },
     },
   },
   qatar: {
@@ -86,8 +101,8 @@ export const filigraneAltri: Record<string, FiligranaPaese> = {
   'new-york': {
     a: {
       src: '/images/filigrane/new-york-a.webp',
-      cosa: 'Lower Manhattan dalla baia, acquaforte',
-      fonte: { titolo: 'The Statue of Liberty', autore: 'Joseph Pennell', anno: '1904', url: 'https://commons.wikimedia.org/wiki/File:The_Statue_of_Liberty_-_DPLA_-_c5a12948e923ee8733330ef5c6beac8e.jpg', licenza: 'Pubblico dominio' },
+      cosa: 'La Statua della Libertà nella baia di New York con il ponte di Brooklyn sullo sfondo, cromolitografia (ritagliata senza cornice)',
+      fonte: { titolo: 'The gift of France to the American people, the Bartholdi colossal statue, Liberty enlightening the world', autore: 'Shugg Brothers, R. Schwarz (Royal Lithographic Printing Co.)', anno: '1884', url: 'https://commons.wikimedia.org/wiki/File:The_gift_of_France_to_the_American_people,_the_Bartholdi_colossal_statue,_Liberty_enlightening_the_world_-_Shugg_Brothers_;_R._Schwarz,_Des._LCCN97502754.jpg', licenza: 'Pubblico dominio' },
     },
     b: {
       src: '/images/filigrane/new-york-b.webp',
@@ -96,6 +111,11 @@ export const filigraneAltri: Record<string, FiligranaPaese> = {
     },
   },
   florida: {
+    a: {
+      src: '/images/filigrane/florida-a.webp',
+      cosa: 'Alligatore americano (Alligator mississippiensis), xilografia ottocentesca',
+      fonte: { titolo: 'Hechtkaiman (Champsa lucius), da Brehms Tierleben (Crocodilus lucius, Iconographia Zoologica)', autore: 'Autore non indicato (stampa, Universiteit van Amsterdam)', anno: '1700-1880', url: 'https://commons.wikimedia.org/wiki/File:Crocodilus_lucius_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ12200037.tif', licenza: 'Pubblico dominio' },
+    },
     b: {
       src: '/images/filigrane/florida-b.webp',
       cosa: 'Fenicottero americano',
@@ -105,8 +125,8 @@ export const filigraneAltri: Record<string, FiligranaPaese> = {
   california: {
     a: {
       src: '/images/filigrane/california-a.webp',
-      cosa: 'Papavero della California',
-      fonte: { titolo: 'Curtis\'s Botanical Magazine, tav. 3495', autore: 'Curtis\'s Botanical Magazine', anno: '1836', url: 'https://commons.wikimedia.org/wiki/File:Curtis%27s_botanical_magazine_(Plate_3495)_(8043242335).jpg', licenza: 'Pubblico dominio' },
+      cosa: 'Le sequoie giganti del Mammoth Tree Grove, Calaveras County, cromolitografia',
+      fonte: { titolo: 'The mammoth trees (Sequoia gigantea), California (Calaveras County)', autore: 'A. J. Campbell (Middleton, Strobridge & Co.)', anno: '1860 circa', url: 'https://commons.wikimedia.org/wiki/File:The_mammoth_trees_(Sequoia_gigantea),_California_(Calaveras_County)_executed_in_oil_colors_by_Middleton,_Strobridge_%26_Co.,_Cin._O._03140u.png', licenza: 'Pubblico dominio' },
     },
     b: {
       src: '/images/filigrane/california-b.webp',
@@ -117,8 +137,8 @@ export const filigraneAltri: Record<string, FiligranaPaese> = {
   messico: {
     a: {
       src: '/images/filigrane/messico-a.webp',
-      cosa: 'Fico d\'India (Opuntia) in fiore',
-      fonte: { titolo: 'Opuntia vulgaris', autore: 'Lena Lowis', url: 'https://commons.wikimedia.org/wiki/File:Flower-opuntia-vulgaris.png', licenza: 'Pubblico dominio' },
+      cosa: 'El Castillo, la piramide di Chichén Itzá, incisione',
+      fonte: { titolo: 'Chichen Itza, El Castillo (Incidents of Travel in Yucatan)', autore: 'Frederick Catherwood', anno: '1843', url: 'https://commons.wikimedia.org/wiki/File:Chichen_Itza_-_Incidents_of_Travel_in_Yucatan_1843_-_El_Castillo.jpg', licenza: 'Pubblico dominio' },
     },
     b: {
       src: '/images/filigrane/messico-b.webp',
@@ -177,8 +197,8 @@ export const filigraneAltri: Record<string, FiligranaPaese> = {
   peru: {
     a: {
       src: '/images/filigrane/peru-a.webp',
-      cosa: 'Cantuta (Cantua buxifolia), fiore sacro degli Inca',
-      fonte: { titolo: 'Cantua buxifolia, Paxton\'s Flower Garden', autore: 'L. Constans per Lindley e Paxton', anno: '1853', url: 'https://commons.wikimedia.org/wiki/File:Cantua_buxifolia_Paxton_049.jpg', licenza: 'Pubblico dominio' },
+      cosa: 'Machu Picchu e il monte Huayna Picchu, fotografia della spedizione di Hiram Bingham del 1912',
+      fonte: { titolo: 'This Picture Gives a General View of About One-Half of the City of Machu Picchu', autore: 'Hiram Bingham III', anno: '1912', url: 'https://commons.wikimedia.org/wiki/File:Machu_Picchu.png', licenza: 'Pubblico dominio' },
     },
     b: {
       src: '/images/filigrane/peru-b.webp',
@@ -196,13 +216,13 @@ export const filigraneAltri: Record<string, FiligranaPaese> = {
   brasile: {
     a: {
       src: '/images/filigrane/brasile-a.webp',
-      cosa: 'Ara giacinto',
-      fonte: { titolo: 'Illustrations of the Family of Psittacidae', autore: 'Edward Lear', anno: '1832', url: 'https://commons.wikimedia.org/wiki/File:Anodorhynchus_leari_by_Edward_Lear.jpg', licenza: 'Pubblico dominio' },
+      cosa: 'Il Pan di Zucchero e la baia di Rio de Janeiro visti dal Corcovado, litografia',
+      fonte: { titolo: 'Rio de Janeiro e seus arredores (do Corcovado), n. 1', autore: 'Alfred Martinet', anno: 'XIX secolo', url: 'https://commons.wikimedia.org/wiki/File:Rio_de_Janeiro_e_seus_arredores_do_Corcovado_(1).jpg', licenza: 'Pubblico dominio' },
     },
     b: {
       src: '/images/filigrane/brasile-b.webp',
-      cosa: 'Araçari dal doppio collare tra le palme',
-      fonte: { titolo: 'Pteroglossus bitorquatus, A Monograph of the Ramphastidae', autore: 'John Gould, H. C. Richter', anno: '1854', url: 'https://commons.wikimedia.org/wiki/File:Pteroglossus_bitorquatus_Gould_1854.jpg', licenza: 'Pubblico dominio' },
+      cosa: 'Ara giacinto',
+      fonte: { titolo: 'Illustrations of the Family of Psittacidae', autore: 'Edward Lear', anno: '1832', url: 'https://commons.wikimedia.org/wiki/File:Anodorhynchus_leari_by_Edward_Lear.jpg', licenza: 'Pubblico dominio' },
     },
   },
 }

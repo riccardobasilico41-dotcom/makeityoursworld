@@ -28,12 +28,12 @@ export const filigraneAsia: Record<string, FiligranaPaese> = {
   cina: {
     a: {
       src: '/images/filigrane/cina-a.webp',
-      cosa: 'Ramo di pruno in fiore a inchiostro (ritaglio, senza iscrizione e sigilli)',
+      cosa: 'La Grande Muraglia tra i monti con un corteo di portantine, acciaio inciso',
       fonte: {
-        titolo: 'Pruno a inchiostro',
-        autore: 'Wang Mian',
-        anno: 'sec. XIV',
-        url: 'https://commons.wikimedia.org/wiki/File:Wang_Mian-Ink_Plum.jpg',
+        titolo: 'The Great Wall of China',
+        autore: 'Thomas Allom',
+        anno: '1845',
+        url: 'https://commons.wikimedia.org/wiki/File:Allom_-_The_Great_Wall_of_China.jpg',
         licenza: 'Pubblico dominio',
       },
     },
@@ -76,12 +76,12 @@ export const filigraneAsia: Record<string, FiligranaPaese> = {
   india: {
     a: {
       src: '/images/filigrane/india-a.webp',
-      cosa: 'Fiori di un album moghul (fascia superiore)',
+      cosa: 'Elefante indiano bardato con howdah e mahut, acquerello Company School (ritaglio)',
       fonte: {
-        titolo: 'Studi di fiori',
-        autore: 'attribuito a Muhammad Khan',
-        anno: '1630-1633',
-        url: 'https://commons.wikimedia.org/wiki/File:Flower_studies._Attributed_to_Muhammad_Khan,_1630-33.jpg',
+        titolo: 'A decorated elephant with a howdah on its back',
+        autore: 'Company School',
+        anno: 'inizio sec. XIX',
+        url: 'https://commons.wikimedia.org/wiki/File:A_decorated_elephant_with_a_howdah_on_its_back.jpg',
         licenza: 'Pubblico dominio',
       },
     },
@@ -100,12 +100,12 @@ export const filigraneAsia: Record<string, FiligranaPaese> = {
   'sri-lanka': {
     a: {
       src: '/images/filigrane/sri-lanka-a.webp',
-      cosa: 'Orchidea Vanda teres, acquerello di un pittore cingalese',
+      cosa: 'La caccia agli elefanti nel corral di Horregelle, incisione (ritaglio, senza titolo e didascalia)',
       fonte: {
-        titolo: 'Vanda teres',
-        autore: 'George De Alwis',
-        anno: '1893',
-        url: 'https://commons.wikimedia.org/wiki/File:Vanda_Teres_1893_(41326822).jpg',
+        titolo: 'De Eliphants-Jagt gedaan in\'t Jaar 1717 inde Alutcoer Corle',
+        autore: 'Jan Caspar Philips',
+        anno: '1726',
+        url: 'https://commons.wikimedia.org/wiki/File:AMH-7266-KB_Elephant_hunt_on_Ceylon.jpg',
         licenza: 'Pubblico dominio',
       },
     },
@@ -124,12 +124,12 @@ export const filigraneAsia: Record<string, FiligranaPaese> = {
   thailandia: {
     a: {
       src: '/images/filigrane/thailandia-a.webp',
-      cosa: 'Ratchaphruek (Cassia fistula), il fiore nazionale, tavola botanica',
+      cosa: 'Il recinto degli elefanti ad Ayutthaya con la torre di guardia, incisione (senza cornice e firma)',
       fonte: {
-        titolo: 'Cassia fistula, Flora de Filipinas',
-        autore: 'Francisco Manuel Blanco',
-        anno: '1880-1883',
-        url: 'https://commons.wikimedia.org/wiki/File:Cassia_fistula_Blanco1.120.jpg',
+        titolo: 'Intérieur du parc des éléphants à Ayutthaya, Le Tour du monde',
+        autore: 'Ange-Louis Janet (Janet-Lange)',
+        anno: '1863',
+        url: 'https://commons.wikimedia.org/wiki/File:Le_Tour_du_monde-08-p329.jpg',
         licenza: 'Pubblico dominio',
       },
     },
@@ -196,12 +196,12 @@ export const filigraneAsia: Record<string, FiligranaPaese> = {
   borneo: {
     a: {
       src: '/images/filigrane/borneo-a.webp',
-      cosa: 'Nepenthes rajah, pianta carnivora del Kinabalu',
+      cosa: 'Orango del Borneo appeso a un ramo, cromolitografia (resta la minuscola firma dello stampatore in basso)',
       fonte: {
-        titolo: 'Nepenthes rajah, Curtis’s Botanical Magazine',
-        autore: 'Matilda Smith',
-        anno: '1905',
-        url: 'https://commons.wikimedia.org/wiki/File:Nepenthes_rajah_-_Curtis%E2%80%99s_Botanical_Magazine_(1905).jpg',
+        titolo: 'Orang-utan (Simia satyrus), Handbook to the Primates, tav. XXXIX',
+        autore: 'John Gerrard Keulemans (da Henry Ogg Forbes)',
+        anno: '1897',
+        url: 'https://commons.wikimedia.org/wiki/File:Handbook_to_the_Primates_Plate_39.jpg',
         licenza: 'Pubblico dominio',
       },
     },
