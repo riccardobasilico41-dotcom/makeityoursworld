@@ -1,0 +1,75 @@
+import type { TripMeta } from '@/lib/types'
+
+export const milanoEILaghiMeta: TripMeta = {
+  tripSlug: 'milano-e-i-laghi',
+  paeseSlug: 'italia',
+  ritmo: "Two compact days in the city, with the lake excursions as the real reason to stop here",
+  trasporti: "Metro and walking in the city; regional trains to Como, Bergamo and Lake Maggiore",
+  stile: [
+    'design',
+    'arte contemporanea',
+    'laghi',
+  ],
+  adattoA: [
+    "people who use Milan as a base for Lake Como and Bergamo Alta",
+    "people who look for contemporary art and architecture more than historic centers",
+    "people with one or two days who want a city that can really be covered in that time",
+  ],
+  puntiForti: [
+    "The Duomo terraces, walking on the roof among the 135 spires",
+    "San Maurizio al Monastero Maggiore: free, half empty, entirely frescoed by Luini",
+    "Varenna and the boat triangle on Lake Como, which is the right way to see the lake",
+  ],
+  criticita: [
+    "The Last Supper is the hardest reservation in Italy: tickets released in batches months ahead, a visit of a few minutes, no way in by showing up on the spot",
+    "Milan is not a diffuse art city: anyone who arrives expecting Florence is disappointed",
+    "During Salone del Mobile and fashion weeks lodging prices triple",
+    "In August half the city closes",
+    "On the lake, the coastal road is narrow, congested and without parking: go by boat",
+  ],
+  budgetTotale: undefined,
+  viaggioInBreve: {
+    percheHoScelto: undefined,
+    conChiSonoPartito: "independent, metro and regional trains",
+    cosaCercavo: undefined,
+    treEsperienzePiuBelle: "The Duomo roof among the spires, San Maurizio al Monastero Maggiore, the boats between Varenna, Bellagio and Menaggio",
+    cosaCambierei: undefined,
+    aChiLoConsiglio: undefined,
+  },
+  tappeMappa: [
+    { nome: 'Duomo and center', destinazioneSlug: 'milano-nord' },
+    { nome: 'Brera and Sforza Castle', destinazioneSlug: 'milano-nord' },
+    { nome: "Last Supper and Sant'Ambrogio", destinazioneSlug: 'milano-nord' },
+    { nome: 'Varenna and Lake Como', destinazioneSlug: 'milano-nord' },
+    { nome: 'Bergamo Alta', destinazioneSlug: 'milano-nord' },
+  ],
+  giorni: [
+    {
+      titoloGiorno: 'Day 1 — Duomo, center, Brera and Castello',
+      tratta: 'Duomo terraces, Galleria, La Scala, Brera and Sforza Castle',
+      pernottamento: 'Milan, inside the Navigli ring',
+      statoPernottamento: 'da-confermare',
+      intensita: 'medio',
+      costiNoti: "Duomo terraces on a separate or combined ticket; the Castle courtyard is free",
+      destinazioneSlug: 'milano-nord',
+      immagine: '/images/viaggi/milano-e-i-laghi/giorno-1-duomo.jpg',
+      imageAlt: "The Gothic facade of Milan's Duomo seen from below, with marble spires and visitors in the square",
+    },
+    {
+      titoloGiorno: "Day 2 — The Last Supper, Sant'Ambrogio and contemporary Milan",
+      tratta: "Last Supper, Sant'Ambrogio, San Maurizio and contemporary Milan",
+      intensita: 'medio',
+      costiNoti: "Last Supper only by reservation released in batches months earlier; HangarBicocca and Cimitero Monumentale free admission, to be rechecked",
+      destinazioneSlug: 'milano-nord',
+      immagine: '/images/viaggi/milano-e-i-laghi/giorno-2-sant-ambrogio.jpg',
+      imageAlt: "The Romanesque facade of the Basilica of Sant'Ambrogio in Milan seen through the quadriporticus",
+    },
+  ],
+  budget: [
+    { etichetta: 'Admissions', valore: "modest: the best things in Milan (San Maurizio, Cimitero Monumentale, HangarBicocca, Castle courtyard) are free" },
+    { etichetta: 'Last Supper', valore: 'cheap ticket, practically impossible to find: the real cost is the planning' },
+    { etichetta: 'Lodging', valore: 'the most variable item, with absurd peaks during Salone and fashion weeks' },
+    { etichetta: 'Lake excursions', valore: 'regional train plus boats: a few tens of euros for a full day' },
+    { etichetta: 'Aperitivo', valore: 'a local institution, and it often replaces dinner' },
+  ],
+}

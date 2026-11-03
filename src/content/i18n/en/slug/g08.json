@@ -1,0 +1,37 @@
+{
+  "paesi": {
+    "emirati-arabi-uniti": "united-arab-emirates",
+    "estonia": "estonia",
+    "filippine": "philippines",
+    "florida": "florida"
+  },
+  "destinazioni": {
+    "estonia/tallinn": "tallinn",
+    "filippine/el-nido": "el-nido",
+    "filippine/coron": "coron",
+    "filippine/cebu-moalboal": "cebu-moalboal",
+    "filippine/bohol": "bohol",
+    "filippine/siargao": "siargao",
+    "florida/miami": "miami",
+    "florida/key-west-marathon": "key-west-marathon",
+    "florida/everglades-naples": "everglades-naples",
+    "florida/orlando": "orlando",
+    "florida/cape-canaveral": "cape-canaveral"
+  },
+  "esperienze": {
+    "estonia/tallinn-kadriorg-kumu": "kadriorg-park-and-kumu",
+    "estonia/tallinn-telliskivi-creative-city": "telliskivi-creative-city",
+    "florida/hemingway-home": "hemingway-home",
+    "florida/snorkeling-bahia-honda": "snorkeling-bahia-honda",
+    "florida/everglades-airboat": "everglades-airboat-tour",
+    "florida/parco-tema-orlando": "orlando-theme-park-day",
+    "florida/kennedy-space-center": "kennedy-space-center",
+    "florida/speedboat-thriller-miami": "thriller-miami-speedboat",
+    "florida/salsa-night-miami": "miami-salsa-night"
+  },
+  "viaggi": {
+    "stopover-golfo": "gulf-stopover",
+    "filippine-itinerario": "philippines-itinerary",
+    "florida-road-trip": "florida-road-trip"
+  }
+}

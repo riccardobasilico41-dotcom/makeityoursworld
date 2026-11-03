@@ -5,6 +5,72 @@ import { SlidersHorizontal } from 'lucide-react'
 import { TripCard, type ViaggioScheda } from './TripCard'
 import { RevealGroup, RevealItem } from './Reveal'
 import { getContinente, raggruppaPerContinente, slugify } from '@/lib/utils'
+import { useLingua } from '@/lib/i18n/LinguaProvider'
+import { etichetta } from '@/lib/i18n/etichette'
+import type { Lingua } from '@/lib/i18n/config'
+
+const T = {
+  it: {
+    continente: 'Continente',
+    paese: 'Paese',
+    durata: 'Durata',
+    tutti: 'Tutti',
+    tutte: 'Tutte',
+    azzera: 'Azzera filtri',
+    tipologia: 'Tipologia / attività',
+    filtri: 'Filtri',
+    vaiContinente: 'Vai al continente',
+    nessuno: 'Nessun viaggio corrisponde a questi filtri.',
+    viaggio: 'viaggio',
+    viaggi: 'viaggi',
+    fasce: {
+      brevi: 'Fino a 4 giorni',
+      '1-settimana': '1 settimana (5-9 giorni)',
+      '2-settimane': '2 settimane (10-15 giorni)',
+      '3-settimane': '3+ settimane (16+ giorni)',
+    } as Record<string, string>,
+  },
+  en: {
+    continente: 'Continent',
+    paese: 'Country',
+    durata: 'Length',
+    tutti: 'All',
+    tutte: 'All',
+    azzera: 'Clear filters',
+    tipologia: 'Type / activity',
+    filtri: 'Filters',
+    vaiContinente: 'Jump to continent',
+    nessuno: 'No trips match these filters.',
+    viaggio: 'trip',
+    viaggi: 'trips',
+    fasce: {
+      brevi: 'Up to 4 days',
+      '1-settimana': '1 week (5-9 days)',
+      '2-settimane': '2 weeks (10-15 days)',
+      '3-settimane': '3+ weeks (16+ days)',
+    } as Record<string, string>,
+  },
+  es: {
+    continente: 'Continente',
+    paese: 'País',
+    durata: 'Duración',
+    tutti: 'Todos',
+    tutte: 'Todas',
+    azzera: 'Borrar filtros',
+    tipologia: 'Tipo / actividad',
+    filtri: 'Filtros',
+    vaiContinente: 'Ir al continente',
+    nessuno: 'Ningún viaje coincide con estos filtros.',
+    viaggio: 'viaje',
+    viaggi: 'viajes',
+    fasce: {
+      brevi: 'Hasta 4 días',
+      '1-settimana': '1 semana (5-9 días)',
+      '2-settimane': '2 semanas (10-15 días)',
+      '3-settimane': '3+ semanas (16+ días)',
+    } as Record<string, string>,
+  },
+} satisfies Record<Lingua, Record<string, string | Record<string, string>>>
 
 // Tipologia/attività: derivati da categoria e tag già presenti in ogni file
 // .md (nessun dato nuovo da mantenere), scelti tra quelli che ricorrono
@@ -38,7 +104,6 @@ function stiliDelViaggio(viaggio: ViaggioScheda): string[] {
 
 type FasciaDurata = {
   id: string
-  etichetta: string
   min: number
   max: number
 }
@@ -47,10 +112,10 @@ type FasciaDurata = {
 // grandezza): coprono l'intervallo reale dei viaggi in archivio, da 2 a 18
 // giorni.
 const FASCE_DURATA: FasciaDurata[] = [
-  { id: 'brevi', etichetta: 'Fino a 4 giorni', min: 0, max: 4 },
-  { id: '1-settimana', etichetta: '1 settimana (5-9 giorni)', min: 5, max: 9 },
-  { id: '2-settimane', etichetta: '2 settimane (10-15 giorni)', min: 10, max: 15 },
-  { id: '3-settimane', etichetta: '3+ settimane (16+ giorni)', min: 16, max: Infinity },
+  { id: 'brevi', min: 0, max: 4 },
+  { id: '1-settimana', min: 5, max: 9 },
+  { id: '2-settimane', min: 10, max: 15 },
+  { id: '3-settimane', min: 16, max: Infinity },
 ]
 
 /** Legge il numero di giorni dall'inizio del campo "Durata" del markdown (es. "12 giorni, 11 notti" → 12). */
@@ -65,6 +130,8 @@ function giorniDelViaggio(viaggio: ViaggioScheda): number | null {
  * con i risultati sempre divisi per macro-regione.
  */
 export function TripFilters({ viaggi }: { viaggi: ViaggioScheda[] }) {
+  const lingua = useLingua()
+  const t = T[lingua]
   const [continente, setContinente] = useState<string>('tutti')
   const [paese, setPaese] = useState<string>('tutti')
   const [stiliAttivi, setStiliAttivi] = useState<string[]>([])
@@ -112,48 +179,48 @@ export function TripFilters({ viaggi }: { viaggi: ViaggioScheda[] }) {
       <div id="filtri-viaggi" className={`${filtriAperti ? 'mb-4 block' : 'hidden'} md:mb-0 md:block`}>
       <div className="flex flex-wrap items-center gap-3">
         <label className="flex items-center gap-2 text-sm text-stone">
-          Continente
+          {t.continente}
           <select
             value={continente}
             onChange={(e) => setContinente(e.target.value)}
             className="rounded-none border border-alpine/20 bg-white px-3 py-1.5 text-sm text-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-alpine"
           >
-            <option value="tutti">Tutti</option>
+            <option value="tutti">{t.tutti}</option>
             {continenti.map((c) => (
               <option key={c} value={c}>
-                {c}
+                {etichetta(c, lingua)}
               </option>
             ))}
           </select>
         </label>
 
         <label className="flex items-center gap-2 text-sm text-stone">
-          Paese
+          {t.paese}
           <select
             value={paese}
             onChange={(e) => setPaese(e.target.value)}
             className="rounded-none border border-alpine/20 bg-white px-3 py-1.5 text-sm text-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-alpine"
           >
-            <option value="tutti">Tutti</option>
+            <option value="tutti">{t.tutti}</option>
             {paesi.map((p) => (
               <option key={p} value={p}>
-                {p}
+                {etichetta(p, lingua)}
               </option>
             ))}
           </select>
         </label>
 
         <label className="flex items-center gap-2 text-sm text-stone">
-          Durata
+          {t.durata}
           <select
             value={durata}
             onChange={(e) => setDurata(e.target.value)}
             className="rounded-none border border-alpine/20 bg-white px-3 py-1.5 text-sm text-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-alpine"
           >
-            <option value="tutte">Tutte</option>
+            <option value="tutte">{t.tutte}</option>
             {FASCE_DURATA.map((f) => (
               <option key={f.id} value={f.id}>
-                {f.etichetta}
+                {t.fasce[f.id]}
               </option>
             ))}
           </select>
@@ -170,13 +237,13 @@ export function TripFilters({ viaggi }: { viaggi: ViaggioScheda[] }) {
             }}
             className="text-sm font-medium text-rosso hover:text-rosso-dark"
           >
-            Azzera filtri
+            {t.azzera}
           </button>
         )}
       </div>
 
       <div className="mt-3">
-        <p className="text-xs font-semibold uppercase tracking-wider text-stone/85">Tipologia / attività</p>
+        <p className="text-xs font-semibold uppercase tracking-wider text-stone/85">{t.tipologia}</p>
         <div className="mt-2 flex flex-wrap gap-2">
           {STILI_NOTI.map((stile) => {
             const attivo = stiliAttivi.includes(stile)
@@ -192,7 +259,7 @@ export function TripFilters({ viaggi }: { viaggi: ViaggioScheda[] }) {
                     : 'border-alpine/20 bg-white text-stone hover:border-alpine/40'
                 }`}
               >
-                {stile}
+                {etichetta(stile, lingua)}
               </button>
             )
           })}
@@ -214,20 +281,20 @@ export function TripFilters({ viaggi }: { viaggi: ViaggioScheda[] }) {
           className="inline-flex min-h-10 shrink-0 items-center gap-2 border-2 border-ink bg-white px-3 text-sm font-semibold text-ink md:hidden"
         >
           <SlidersHorizontal size={16} aria-hidden="true" />
-          Filtri{filtriAttivi > 0 ? ` (${filtriAttivi})` : ''}
+          {t.filtri}{filtriAttivi > 0 ? ` (${filtriAttivi})` : ''}
         </button>
         <p className="shrink-0 text-sm text-stone/85" aria-live="polite">
-          {filtrati.length} {filtrati.length === 1 ? 'viaggio' : 'viaggi'}
+          {filtrati.length} {filtrati.length === 1 ? t.viaggio : t.viaggi}
         </p>
         {gruppi.length > 1 && (
-          <nav aria-label="Vai al continente" className="flex shrink-0 gap-1.5">
+          <nav aria-label={t.vaiContinente} className="flex shrink-0 gap-1.5">
             {gruppi.map(({ continente, items }) => (
               <a
                 key={continente}
                 href={`#${slugify(continente)}`}
                 className="inline-flex min-h-10 items-center whitespace-nowrap border border-ink/20 px-3 text-sm font-medium text-ink hover:border-ink hover:bg-ink hover:text-cream"
               >
-                {continente} <span className="ml-1.5 text-xs text-stone/85">{items.length}</span>
+                {etichetta(continente, lingua)} <span className="ml-1.5 text-xs text-stone/85">{items.length}</span>
               </a>
             ))}
           </nav>
@@ -240,9 +307,9 @@ export function TripFilters({ viaggi }: { viaggi: ViaggioScheda[] }) {
             ({ continente, items }) => (
               <div key={continente} id={slugify(continente)} className="scroll-mt-20">
                 <div className="flex items-baseline gap-4 border-b border-alpine/15 pb-3">
-                  <h2 className="font-display text-[clamp(1.6rem,2.4vw,2.1rem)] text-alpine">{continente}</h2>
+                  <h2 className="font-display text-[clamp(1.6rem,2.4vw,2.1rem)] text-alpine">{etichetta(continente, lingua)}</h2>
                   <span className="text-xs font-semibold uppercase tracking-[0.18em] text-stone/85">
-                    {items.length} {items.length === 1 ? 'viaggio' : 'viaggi'}
+                    {items.length} {items.length === 1 ? t.viaggio : t.viaggi}
                   </span>
                 </div>
                 <RevealGroup className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3" stagger={0.04}>
@@ -257,7 +324,7 @@ export function TripFilters({ viaggi }: { viaggi: ViaggioScheda[] }) {
           )}
         </div>
       ) : (
-        <p className="mt-10 text-sm text-stone">Nessun viaggio corrisponde a questi filtri.</p>
+        <p className="mt-10 text-sm text-stone">{t.nessuno}</p>
       )}
     </div>
   )

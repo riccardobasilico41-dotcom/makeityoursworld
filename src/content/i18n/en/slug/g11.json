@@ -1,0 +1,53 @@
+{
+  "paesi": {
+    "germania": "germany",
+    "giappone": "japan",
+    "giordania": "jordan"
+  },
+  "destinazioni": {
+    "germania/berlino": "berlin",
+    "giappone/tokyo": "tokyo",
+    "giappone/kamakura": "kamakura",
+    "giappone/monte-fuji-chureito": "mount-fuji-chureito",
+    "giappone/kyoto": "kyoto",
+    "giappone/hiroshima-miyajima": "hiroshima-miyajima",
+    "giappone/himeji": "himeji",
+    "giappone/osaka": "osaka",
+    "giappone/nara": "nara",
+    "giordania/amman": "amman",
+    "giordania/jerash": "jerash",
+    "giordania/mar-morto": "dead-sea",
+    "giordania/karak-monte-nebo": "karak-mount-nebo",
+    "giordania/petra": "petra",
+    "giordania/wadi-rum": "wadi-rum",
+    "giordania/aqaba": "aqaba"
+  },
+  "esperienze": {
+    "germania/reichstag-cupola": "reichstag-dome",
+    "germania/museumsinsel-pergamon": "museum-island-pergamon",
+    "germania/east-side-gallery": "east-side-gallery",
+    "germania/berlino-clubbing": "berlin-techno-nightlife",
+    "giappone/sakura-chasing-tokyo": "sakura-chasing-tokyo",
+    "giappone/shibuya-crossing": "shibuya-crossing",
+    "giappone/chureito-monte-fuji": "chureito-pagoda-mount-fuji",
+    "giappone/fushimi-inari": "fushimi-inari",
+    "giappone/kinkaku-ji": "kinkaku-ji-golden-pavilion",
+    "giappone/torii-miyajima": "miyajima-floating-torii",
+    "giappone/cervi-nara": "nara-sacred-deer",
+    "giordania/cittadella-amman": "amman-citadel",
+    "giordania/bagno-mar-morto": "dead-sea-sunset-swim",
+    "giordania/salita-monastero-petra": "petra-monastery-climb",
+    "giordania/hammam-wadi-musa": "wadi-musa-hammam",
+    "giordania/jeep-safari-wadi-rum": "wadi-rum-jeep-safari",
+    "giordania/capodanno-deserto": "new-year-in-the-desert",
+    "giordania/diving-aqaba": "aqaba-diving"
+  },
+  "viaggi": {
+    "provenza-camargue": "provence-camargue",
+    "rotte-dei-vini-francia": "french-wine-routes",
+    "settimana-bianca-francia": "ski-week-france",
+    "tour-du-mont-blanc": "tour-du-mont-blanc",
+    "berlino-weekend": "berlin-weekend",
+    "giappone-itinerario": "japan-itinerary"
+  }
+}

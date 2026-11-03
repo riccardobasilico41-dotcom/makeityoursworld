@@ -1,0 +1,43 @@
+{
+  "paesi": {
+    "portogallo": "portugal",
+    "qatar": "qatar",
+    "repubblica-ceca": "czech-republic",
+    "singapore": "singapore"
+  },
+  "destinazioni": {
+    "qatar/doha": "doha",
+    "qatar/qatar-deserto-nord": "qatar-desert-north",
+    "repubblica-ceca/praga": "prague",
+    "singapore/marina-bay": "marina-bay",
+    "singapore/quartieri-etnici": "ethnic-neighborhoods",
+    "singapore/natura-singapore": "green-singapore",
+    "singapore/sentosa": "sentosa",
+    "spagna/siviglia": "seville",
+    "spagna/granada": "granada",
+    "spagna/cordoba": "cordoba",
+    "spagna/ronda-pueblos-blancos": "ronda-white-villages",
+    "spagna/san-sebastian": "san-sebastian",
+    "spagna/bilbao": "bilbao",
+    "spagna/santiago-compostela-camino-del-norte": "santiago-compostela-camino-del-norte",
+    "spagna/mallorca": "mallorca",
+    "spagna/ibiza": "ibiza",
+    "spagna/minorca": "minorca",
+    "spagna/tenerife": "tenerife",
+    "spagna/gran-canaria": "gran-canaria",
+    "spagna/lanzarote": "lanzarote"
+  },
+  "esperienze": {
+    "qatar/souq-waqif": "souq-waqif",
+    "qatar/khor-al-adaid": "khor-al-adaid",
+    "repubblica-ceca/praga-castello-biglietto": "prague-castle-ticket",
+    "repubblica-ceca/praga-josefov-jewish-town": "prague-josefov-jewish-town",
+    "repubblica-ceca/praga-degustazione-birra": "prague-beer-tasting",
+    "singapore/hawker-centre": "hawker-centre",
+    "singapore/gardens-by-the-bay": "gardens-by-the-bay"
+  },
+  "viaggi": {
+    "lisbona-weekend": "lisbon-weekend",
+    "praga-weekend": "prague-weekend"
+  }
+}

@@ -1,0 +1,70 @@
+import type { Esperienza } from '@/lib/types'
+
+export const esperienzeRepubblicaCeca: Esperienza[] = [
+  {
+    slug: 'praga-castello-biglietto',
+    paeseSlug: 'repubblica-ceca',
+    destinazioneSlug: 'praga',
+    nome: 'Prague Castle Visitor Route and St. Vitus Cathedral',
+    localita: 'Hradčany, Castle hill, Prague',
+    cosE:
+      "\"Circuit A\" (Main Visitor Route) is the ticket that covers the main attractions of the complex: the interior of St. Vitus Cathedral, the Old Royal Palace, St. George's Basilica and Golden Lane with the Daliborka Tower. The Castle courtyards and the outer nave of the Cathedral remain free; the ticket is only for the interior rooms.",
+    percheFarla:
+      "Prague Castle is among the largest enclosed castle complexes in the world, and St. Vitus Cathedral, inside it, is the country's most important Gothic monument. Without a ticket you only see the exterior and the courtyards, and you miss the interiors, royal crypts and stained glass.",
+    durata: 'half a day (3-4 hours) for the full route, including lines in high season',
+    periodo: 'all year; summer brings longer lines at the entrances, winter a harsher climate but fewer crowds',
+    costo: "Circuit A ticket around 450 CZK per adult (about €18-20); the climb up the Cathedral's Great South Tower has a separate ticket, around 200 CZK",
+    comePrenotare: "You buy it online on the Castle's official website or on site at the ticket offices; on weekends and in high season it's better to buy it online beforehand to skip the line.",
+    cosaPortare: "Comfortable shoes: the route includes many steps, both in the cathedral and in Golden Lane.",
+    perChiEAdatta: "Fine for almost everyone; in the middle of summer the longer lines (especially to get into the Cathedral) make the visit more tiring with small children.",
+    giudizio: 'da-verificare',
+    alternative: ["Visit only the outer courtyards and the nave of the Cathedral, which are free, for those with little time or a limited budget"],
+    tripSlugs: ['praga-weekend'],
+    imageAlt: "The Gothic nave of St. Vitus Cathedral at Prague Castle, with ribbed vaults and colored stained glass at the end of the choir",
+    immagine: '/images/repubblica-ceca/praga-castello-biglietto.jpg',
+  },
+  {
+    slug: 'praga-josefov-jewish-town',
+    paeseSlug: 'repubblica-ceca',
+    destinazioneSlug: 'praga',
+    nome: 'Jewish Town Ticket: The Jewish Quarter of Josefov',
+    localita: 'Josefov, Staré Město, Prague',
+    cosE:
+      "The single ticket of the Jewish Museum in Prague that gives access to six historic sites in Josefov: the Old-New Synagogue (Staronová synagoga, the oldest active synagogue in Europe, with a separate ticket), the Old Jewish Cemetery with its thousands of overlapping tombstones, and the Pinkas, Maisel, Klausen and Spanish synagogues, each now home to a different exhibition on the history of the Czech Jewish community.",
+    percheFarla:
+      "Josefov, in the heart of Staré Město, preserves one of the best-preserved collections of historic synagogues in Europe. Paradoxically it was saved because the Nazis wanted to keep it as a \"museum of an extinct race,\" and that is what gives the quarter a historical weight that a walk along its elegant streets today doesn't convey.",
+    durata: 'about 2-3 hours to visit all the sites included in the ticket at an easy pace',
+    periodo: 'all year; some sites close for Jewish holidays and on Saturdays (Shabbat), so it\'s worth checking beforehand',
+    costo: 'Jewish Town Ticket around 600 CZK per adult; the Old-New Synagogue requires a separate ticket',
+    comePrenotare: "You buy it online on the Jewish Museum in Prague website or at the ticket offices of the Spanish, Klausen or Pinkas synagogues; outside high-season weekends there's no need to book far in advance.",
+    cosaPortare: "No special equipment; respectful clothing for entering places of worship.",
+    perChiEAdatta: "Those who want to understand the history of Prague's Jewish community beyond the surface of the quarter; less so for those who have only half a day and want to see the rest of Staré Město too.",
+    giudizio: 'da-verificare',
+    alternative: ["A guided walking tour of the Jewish quarter, with admission tickets included, for those who prefer a guided narrative to a self-guided visit alone"],
+    tripSlugs: ['praga-weekend'],
+    imageAlt: "The old, tightly packed moss-covered tombstones of the Old Jewish Cemetery in Josefov, Prague, with the tomb of Mordechai Maisel",
+    immagine: '/images/repubblica-ceca/praga-josefov-jewish-town.jpg',
+  },
+  {
+    slug: 'praga-degustazione-birra',
+    immagine: '/images/repubblica-ceca/praga-degustazione-birra.jpg',
+    paeseSlug: 'repubblica-ceca',
+    destinazioneSlug: 'praga',
+    nome: 'Czech Beer Tasting in a Traditional Hospoda',
+    localita: 'Outside the most touristy center: Žižkov, Vinohrady or Holešovice, Prague',
+    cosE:
+      "An evening (or a guided tour) between two or three hospodas, the traditional Czech pubs, to taste different draft beers, from the best-known pilsners to lesser-exported local brands, in venues frequented mostly by residents and away from the inflated prices of the historic center.",
+    percheFarla:
+      "The Czech Republic has the highest per capita beer consumption in the world, and hospoda culture is as much a part of the national identity as the monuments. Experiencing it from the inside, in a neighborhood pub, tells you about Prague better than many tourist stops.",
+    durata: 'about 2-3 hours, usually in the late afternoon or evening',
+    periodo: 'all year, because you\'re almost always indoors',
+    costo: 'a half-liter of draft beer in a neighborhood pub costs roughly 55-80 CZK; a guided tour with several stops and tastings costs around €30-50 per person',
+    comePrenotare: "Themed tours are booked on online tour platforms; on your own there's no need to book, just choose pubs away from the most touristy axis.",
+    cosaPortare: "No special equipment.",
+    perChiEAdatta: "Those who want an authentic experience without paying tourist-area prices; less so for those who don't drink alcohol, who will still find food in the hospodas.",
+    giudizio: 'da-verificare',
+    alternative: ["A craft brewery with a tour and tasting, for those looking for something more structured than a simple evening at the pub"],
+    tripSlugs: ['praga-weekend'],
+    imageAlt: "A glass of dark draft beer on the wooden bar of the U Medvídků beer hall in Prague",
+  },
+]

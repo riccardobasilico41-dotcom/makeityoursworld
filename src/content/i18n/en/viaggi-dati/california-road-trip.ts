@@ -1,0 +1,76 @@
+import type { TripMeta } from '@/lib/types'
+
+export const californiaRoadTripMeta: TripMeta = {
+  tripSlug: 'california-road-trip',
+  paeseSlug: 'california',
+  ritmo:
+    "A road trip with many hours of driving (about 2,800-3,000 km), alternating with full days on foot in the parks with dawn starts; the days in the cities and on the coast are more relaxed.",
+  trasporti:
+    "Rental car picked up and returned in San Francisco (16 days); in San Francisco BART, cable cars and trams for the first three days; free shuttles inside Yosemite and Sequoia.",
+  stile: ['road trip', 'national parks', 'hiking', 'desert', 'coast'],
+  adattoA: [
+    "people who gladly drive many hours a day",
+    "people who want to see mountains, desert, cities and ocean in a single trip",
+    "couples, friends and families with teenagers",
+    "people who can plan lodging and attraction reservations months ahead",
+  ],
+  puntiForti: [
+    "Tunnel View and the Mist Trail at Yosemite",
+    "The General Sherman and the Giant Forest of Sequoia",
+    "Dawn at Zabriskie Point and Badwater in Death Valley",
+    "The stars and granite boulders of Joshua Tree",
+    "Big Sur on Highway 1, from McWay Falls to the Bixby Creek Bridge",
+  ],
+  criticita: [
+    "From 2026 a $100 per person surcharge for non-residents at Yosemite and Sequoia, or the annual pass for non-residents at $250",
+    "Lodging in the parks sold out months ahead; high prices everywhere, with taxes and tips adding 25-30%",
+    "Tioga Road and mountain roads closed in winter; Highway 1 at Big Sur subject to landslide closures",
+    "Death Valley dangerous from May to September because of the heat; wildfires from July to October",
+    "Frequent thefts from cars in San Francisco and Los Angeles",
+  ],
+  budgetTotale: 'roughly €3,200-5,400 per person as a couple, international flights excluded',
+  viaggioInBreve: {
+    treEsperienzePiuBelle:
+      "Tunnel View on arriving in Yosemite Valley, dawn at Zabriskie Point, Highway 1 between McWay Falls and Bixby Creek",
+  },
+  tappeMappa: [
+    { nome: 'San Francisco', destinazioneSlug: 'san-francisco' },
+    { nome: 'Yosemite', destinazioneSlug: 'yosemite' },
+    { nome: 'Sequoia and Kings Canyon', destinazioneSlug: 'sequoia' },
+    { nome: 'Death Valley', destinazioneSlug: 'death-valley' },
+    { nome: 'Joshua Tree and Palm Springs', destinazioneSlug: 'joshua-tree' },
+    { nome: 'Los Angeles', destinazioneSlug: 'los-angeles' },
+    { nome: 'Santa Barbara, Big Sur and Monterey', destinazioneSlug: 'big-sur' },
+  ],
+  giorni: [
+    { titoloGiorno: 'Day 1 — Arrival in San Francisco', tratta: 'SFO → downtown, BART in 30 minutes', pernottamento: 'San Francisco, Union Square or North Beach', statoPernottamento: 'consigliato', intensita: 'leggero', costiNoti: 'ESTA $40.62, BART $10-12', destinazioneSlug: 'san-francisco', immagine: '/images/viaggi/california-road-trip/giorno-01-san-francisco.jpg', imageAlt: 'The Golden Gate Bridge at sunset with the purple sky above San Francisco Bay' },
+    { titoloGiorno: 'Day 2 — San Francisco: the Golden Gate, the Presidio and Alcatraz', pernottamento: 'San Francisco', statoPernottamento: 'consigliato', intensita: 'medio', costiNoti: 'Alcatraz about $48, bike $30-50', destinazioneSlug: 'san-francisco', immagine: '/images/viaggi/california-road-trip/giorno-02-san-francisco.jpg', imageAlt: 'The Golden Gate Bridge seen from Fort Point, beneath the south span' },
+    { titoloGiorno: 'Day 3 — San Francisco: the neighborhoods and Muir Woods', pernottamento: 'San Francisco', statoPernottamento: 'consigliato', intensita: 'medio', costiNoti: 'Muir Woods $15 per person plus reservation, cable car $9', destinazioneSlug: 'san-francisco', immagine: '/images/viaggi/california-road-trip/giorno-03-san-francisco.jpg', imageAlt: 'The coastal redwoods and understory ferns at Muir Woods' },
+    { titoloGiorno: 'Day 4 — From San Francisco to Yosemite', tratta: 'San Francisco → Yosemite Valley, 3.5-4 hours', pernottamento: 'Yosemite Valley or outside the park (Mariposa, El Portal, Groveland)', statoPernottamento: 'consigliato', intensita: 'medio', costiNoti: 'annual pass for non-residents $250', destinazioneSlug: 'yosemite', immagine: '/images/viaggi/california-road-trip/giorno-04-yosemite.jpg', imageAlt: 'Yosemite Valley with El Capitan and the granite walls' },
+    { titoloGiorno: 'Day 5 — Yosemite Valley: the Mist Trail and the waterfalls', pernottamento: 'Yosemite Valley or outside the park', statoPernottamento: 'consigliato', intensita: 'intenso', destinazioneSlug: 'yosemite', immagine: '/images/viaggi/california-road-trip/giorno-05-yosemite.jpg', imageAlt: 'Vernal Fall and the Mist Trail staircase in the water spray, Yosemite' },
+    { titoloGiorno: 'Day 6 — Yosemite: Glacier Point and Mariposa Grove', tratta: 'Yosemite Valley → Glacier Point → Mariposa Grove → Oakhurst', pernottamento: 'Oakhurst or Fish Camp', statoPernottamento: 'consigliato', intensita: 'medio', destinazioneSlug: 'yosemite', immagine: '/images/viaggi/california-road-trip/giorno-06-yosemite.jpg', imageAlt: 'Half Dome seen from Glacier Point among low clouds, Yosemite' },
+    { titoloGiorno: 'Day 7 — From Yosemite to Sequoia', tratta: 'Oakhurst → Fresno → Kings Canyon, about 2.5-3 hours', pernottamento: 'Wuksachi Lodge or a Kings Canyon lodge', statoPernottamento: 'consigliato', intensita: 'medio', destinazioneSlug: 'sequoia', immagine: '/images/viaggi/california-road-trip/giorno-07-sequoia.jpg', imageAlt: 'Red trunks of giant sequoias in Sequoia National Park' },
+    { titoloGiorno: 'Day 8 — Sequoia: the General Sherman and Moro Rock', tratta: 'Giant Forest → Generals Highway → Three Rivers', pernottamento: 'Three Rivers', statoPernottamento: 'consigliato', intensita: 'medio', destinazioneSlug: 'sequoia', immagine: '/images/viaggi/california-road-trip/giorno-08-sequoia.jpg', imageAlt: 'The granite monolith of Moro Rock above the forests of Sequoia National Park' },
+    { titoloGiorno: 'Day 9 — To Death Valley', tratta: 'Three Rivers → Lake Isabella → Ridgecrest → Stovepipe Wells, 5-6 hours', pernottamento: 'Stovepipe Wells or Furnace Creek', statoPernottamento: 'consigliato', intensita: 'medio', costiNoti: 'entrance $30 per car, covered by the pass', destinazioneSlug: 'death-valley', immagine: '/images/viaggi/california-road-trip/giorno-09-death-valley.jpg', imageAlt: 'The Mesquite Flat Sand Dunes with the Cottonwood Mountains in the background, Death Valley' },
+    { titoloGiorno: 'Day 10 — Death Valley: Badwater, Artists Drive and Zabriskie Point', pernottamento: 'Stovepipe Wells or Furnace Creek', statoPernottamento: 'consigliato', intensita: 'medio', destinazioneSlug: 'death-valley', immagine: '/images/viaggi/california-road-trip/giorno-10-death-valley.jpg', imageAlt: 'Snow-capped Telescope Peak reflected in a pool of water on the salt of Badwater Basin' },
+    { titoloGiorno: 'Day 11 — From Death Valley to Joshua Tree', tratta: 'Furnace Creek → Baker → Route 66 (Amboy) → Twentynine Palms, 4.5-5 hours', pernottamento: 'Twentynine Palms or Joshua Tree', statoPernottamento: 'consigliato', intensita: 'medio', destinazioneSlug: 'joshua-tree', immagine: '/images/viaggi/california-road-trip/giorno-11-joshua-tree.jpg', imageAlt: 'The Joshua Tree desert at sunset with rocks and bushes' },
+    { titoloGiorno: 'Day 12 — Joshua Tree', pernottamento: 'Twentynine Palms or Joshua Tree', statoPernottamento: 'consigliato', intensita: 'medio', costiNoti: 'entrance $30 per car, covered by the pass', destinazioneSlug: 'joshua-tree', immagine: '/images/viaggi/california-road-trip/giorno-12-joshua-tree.jpg', imageAlt: 'A Joshua tree and granite boulders in Joshua Tree National Park' },
+    { titoloGiorno: 'Day 13 — Palm Springs and arrival in Los Angeles', tratta: 'Joshua Tree → Palm Springs → Los Angeles, 2.5-3 hours', pernottamento: 'Los Angeles, Santa Monica or West Hollywood', statoPernottamento: 'consigliato', intensita: 'medio', costiNoti: 'aerial tramway $35-40, hotel parking $35-60', destinazioneSlug: 'los-angeles', immagine: '/images/viaggi/california-road-trip/giorno-13-los-angeles.jpg', imageAlt: 'Downtown Palm Springs with palm trees at the foot of the desert mountains' },
+    { titoloGiorno: 'Day 14 — Los Angeles: the Getty, Hollywood and the Griffith Observatory', pernottamento: 'Los Angeles', statoPernottamento: 'consigliato', intensita: 'medio', costiNoti: 'Getty free with $25 parking, Warner Bros. tour $70-80', destinazioneSlug: 'los-angeles', immagine: '/images/viaggi/california-road-trip/giorno-14-los-angeles.jpg', imageAlt: 'The Griffith Observatory on the hill with the skyscrapers of Downtown Los Angeles in the background' },
+    { titoloGiorno: 'Day 15 — Los Angeles: Santa Monica, Venice and Malibu', pernottamento: 'Los Angeles', statoPernottamento: 'consigliato', intensita: 'leggero', destinazioneSlug: 'los-angeles', immagine: '/images/viaggi/california-road-trip/giorno-15-los-angeles.jpg', imageAlt: 'The Santa Monica pier with the Ferris wheel and roller coaster above the beach' },
+    { titoloGiorno: 'Day 16 — Santa Barbara and the coast to Cambria', tratta: 'Los Angeles → Santa Barbara → San Simeon → Cambria, about 4-4.5 hours', pernottamento: 'Cambria or San Simeon', statoPernottamento: 'consigliato', intensita: 'medio', costiNoti: 'Hearst Castle $35', destinazioneSlug: 'big-sur', immagine: '/images/viaggi/california-road-trip/giorno-16-big-sur.jpg', imageAlt: 'Santa Barbara West Beach with the palm trees of the waterfront' },
+    { titoloGiorno: 'Day 17 — Big Sur on Highway 1', tratta: 'Cambria → Big Sur → Carmel, about 150 km in 6-7 hours with stops', pernottamento: 'Monterey or Carmel', statoPernottamento: 'consigliato', intensita: 'medio', costiNoti: 'Point Lobos $10 per car', destinazioneSlug: 'big-sur', immagine: '/images/viaggi/california-road-trip/giorno-17-big-sur.jpg', imageAlt: 'The sandy cove and turquoise water of McWay Falls along the Big Sur coast' },
+    { titoloGiorno: 'Day 18 — Monterey, Carmel and the return to San Francisco', tratta: 'Monterey → 17-Mile Drive → San Francisco, about 2-2.5 hours', pernottamento: 'San Francisco, near SFO', statoPernottamento: 'consigliato', intensita: 'medio', costiNoti: 'aquarium around $65, 17-Mile Drive $12.50', destinazioneSlug: 'big-sur', immagine: '/images/viaggi/california-road-trip/giorno-18-big-sur.jpg', imageAlt: 'The shore of Monterey Bay with calm sea and flowers on the bank' },
+    { titoloGiorno: 'Day 19 — Departure from San Francisco', tratta: 'SFO → Italy', intensita: 'leggero', destinazioneSlug: 'san-francisco', immagine: '/images/viaggi/california-road-trip/giorno-19-san-francisco.jpg', imageAlt: 'The Painted Ladies of Alamo Square with the San Francisco skyline behind them' },
+  ],
+  budget: [
+    { etichetta: 'Intercontinental flights', valore: undefined },
+    { etichetta: 'ESTA', valore: '$40.62 per person' },
+    { etichetta: 'Rental car, 16 days with full insurance', valore: '$450-750 each as a couple' },
+    { etichetta: 'Fuel, about 2,900 km', valore: '$200-280 each as a couple' },
+    { etichetta: 'Annual pass for non-residents', valore: '$250 for the car' },
+    { etichetta: 'Lodging', valore: '$160-300 a night per room' },
+    { etichetta: 'Meals, with taxes and tips', valore: '$60-100 a day per person' },
+    { etichetta: 'Attractions', valore: '$200-350 per person' },
+  ],
+}

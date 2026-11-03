@@ -1,4 +1,7 @@
 import type { Destinazione, Esperienza, Paese, TripMeta } from './types'
+import type { Lingua } from './i18n/config'
+import * as EN from '@/content/i18n/en/indice'
+import * as ES from '@/content/i18n/es/indice'
 import { messico } from '@/content/paesi/messico'
 import { destinazioniMessico } from '@/content/destinazioni/messico'
 import { esperienzeMessico } from '@/content/esperienze/messico'
@@ -320,46 +323,6 @@ const TRIP_META: TripMeta[] = [
   canadaItinerarioMeta,
 ]
 
-export function getAllPaesi(): Paese[] {
-  return PAESI
-}
-
-export function getPaese(slug: string): Paese | undefined {
-  return PAESI.find((p) => p.slug === slug)
-}
-
-export function getDestinazioniByPaese(paeseSlug: string): Destinazione[] {
-  return DESTINAZIONI.filter((d) => d.paeseSlug === paeseSlug).sort((a, b) => a.ordine - b.ordine)
-}
-
-export function getDestinazione(paeseSlug: string, slug: string): Destinazione | undefined {
-  return DESTINAZIONI.find((d) => d.paeseSlug === paeseSlug && d.slug === slug)
-}
-
-export function getAllDestinazioni(): Destinazione[] {
-  return DESTINAZIONI
-}
-
-export function getEsperienzeByPaese(paeseSlug: string): Esperienza[] {
-  return ESPERIENZE.filter((e) => e.paeseSlug === paeseSlug)
-}
-
-export function getEsperienza(paeseSlug: string, slug: string): Esperienza | undefined {
-  return ESPERIENZE.find((e) => e.paeseSlug === paeseSlug && e.slug === slug)
-}
-
-export function getAllEsperienze(): Esperienza[] {
-  return ESPERIENZE
-}
-
-export function getEsperienzeByDestinazione(destinazioneSlug: string): Esperienza[] {
-  return ESPERIENZE.filter((e) => e.destinazioneSlug === destinazioneSlug)
-}
-
-export function getDestinazioniByEsperienza(esperienza: Esperienza): Destinazione | undefined {
-  return DESTINAZIONI.find((d) => d.slug === esperienza.destinazioneSlug)
-}
-
 // Le schede dati dei viaggi contengono appunti di lavoro ("(da confermare quale)",
 // "Diversi dettagli … sono ancora da confermare con foto/ricordi"): restano nei file
 // per chi ci lavora, ma non arrivano al lettore.
@@ -379,41 +342,140 @@ function pulisci<T>(v: T): T {
   }
   return v
 }
+
+// --- Lingue ---
+// I contenuti tradotti (src/content/i18n/<lingua>/…, vedi tools/indice-i18n.py) si
+// sovrappongono a quelli italiani voce per voce: quello che non è tradotto resta in
+// italiano. Slug, immagini, coordinate e collegamenti vengono sempre dall'italiano,
+// così le traduzioni non possono rompere foto o link.
+
+function sovrapponi<T extends object>(it: T[], tr: T[], chiave: (x: T) => string, tecnici: (keyof T)[]): T[] {
+  if (tr.length === 0) return it
+  const mappa = new Map(tr.map((x) => [chiave(x), x]))
+  return it.map((x) => {
+    const t = mappa.get(chiave(x))
+    if (!t) return x
+    const r = { ...x, ...t }
+    for (const k of tecnici) r[k] = x[k]
+    return r
+  })
+}
+
+/** Nei dati dei viaggi anche tappe e giorni hanno parti tecniche (coordinate, foto, destinazione): per posizione. */
+function sovrapponiMeta(it: TripMeta, t: TripMeta): TripMeta {
+  return {
+    ...it,
+    ...t,
+    tripSlug: it.tripSlug,
+    paeseSlug: it.paeseSlug,
+    // `stile` è una chiave (filtri, etichette): si traduce solo a schermo, vedi i18n/etichette.ts
+    stile: it.stile,
+    unitaGiorniLabel: it.unitaGiorniLabel,
+    tappeMappa: it.tappeMappa.map((tp, i) => ({ ...tp, nome: t.tappeMappa?.[i]?.nome ?? tp.nome })),
+    giorni: it.giorni.map((g, i) => {
+      const gt = t.giorni?.[i]
+      return gt ? { ...g, ...gt, intensita: g.intensita, destinazioneSlug: g.destinazioneSlug, immagine: g.immagine, statoPernottamento: g.statoPernottamento, imageAlt: gt.imageAlt ?? g.imageAlt } : g
+    }),
+  }
+}
+
+type Registro = { paesi: Paese[]; destinazioni: Destinazione[]; esperienze: Esperienza[]; tripMeta: TripMeta[] }
+const REGISTRI: Partial<Record<Lingua, Registro>> = {
+  it: { paesi: PAESI, destinazioni: DESTINAZIONI, esperienze: ESPERIENZE, tripMeta: TRIP_META },
+}
+
+function registro(lingua: Lingua): Registro {
+  const pronto = REGISTRI[lingua]
+  if (pronto) return pronto
+  const tr = lingua === 'en' ? EN : ES
+  const metaTr = new Map(tr.tripMeta.map((m) => [m.tripSlug, m]))
+  const r: Registro = {
+    paesi: sovrapponi(PAESI, tr.paesi, (p) => p.slug, ['slug', 'continente', 'heroImage', 'tripPrincipaleSlug']),
+    destinazioni: sovrapponi(DESTINAZIONI, tr.destinazioni, (d) => `${d.paeseSlug}/${d.slug}`, ['slug', 'paeseSlug', 'ordine', 'immagine', 'tripSlugs', 'esperienzeSlugs', 'visitataPersonalmente', 'tipologia']),
+    esperienze: sovrapponi(ESPERIENZE, tr.esperienze, (e) => `${e.paeseSlug}/${e.slug}`, ['slug', 'paeseSlug', 'destinazioneSlug', 'giudizio', 'tripSlugs', 'immagine']),
+    tripMeta: TRIP_META.map((m) => (metaTr.has(m.tripSlug) ? sovrapponiMeta(m, metaTr.get(m.tripSlug)!) : m)),
+  }
+  REGISTRI[lingua] = r
+  return r
+}
+
+export function getAllPaesi(lingua: Lingua): Paese[] {
+  return registro(lingua).paesi
+}
+
+export function getPaese(slug: string, lingua: Lingua): Paese | undefined {
+  return registro(lingua).paesi.find((p) => p.slug === slug)
+}
+
+export function getDestinazioniByPaese(paeseSlug: string, lingua: Lingua): Destinazione[] {
+  return registro(lingua).destinazioni.filter((d) => d.paeseSlug === paeseSlug).sort((a, b) => a.ordine - b.ordine)
+}
+
+export function getDestinazione(paeseSlug: string, slug: string, lingua: Lingua): Destinazione | undefined {
+  return registro(lingua).destinazioni.find((d) => d.paeseSlug === paeseSlug && d.slug === slug)
+}
+
+export function getAllDestinazioni(lingua: Lingua): Destinazione[] {
+  return registro(lingua).destinazioni
+}
+
+export function getEsperienzeByPaese(paeseSlug: string, lingua: Lingua): Esperienza[] {
+  return registro(lingua).esperienze.filter((e) => e.paeseSlug === paeseSlug)
+}
+
+export function getEsperienza(paeseSlug: string, slug: string, lingua: Lingua): Esperienza | undefined {
+  return registro(lingua).esperienze.find((e) => e.paeseSlug === paeseSlug && e.slug === slug)
+}
+
+export function getAllEsperienze(lingua: Lingua): Esperienza[] {
+  return registro(lingua).esperienze
+}
+
+export function getEsperienzeByDestinazione(destinazioneSlug: string, lingua: Lingua): Esperienza[] {
+  return registro(lingua).esperienze.filter((e) => e.destinazioneSlug === destinazioneSlug)
+}
+
+export function getDestinazioniByEsperienza(esperienza: Esperienza, lingua: Lingua): Destinazione | undefined {
+  return registro(lingua).destinazioni.find((d) => d.slug === esperienza.destinazioneSlug)
+}
+
 const metaPulite = new Map<string, TripMeta>()
 
-export function getTripMeta(tripSlug: string): TripMeta | undefined {
-  const cached = metaPulite.get(tripSlug)
+export function getTripMeta(tripSlug: string, lingua: Lingua): TripMeta | undefined {
+  const chiave = `${lingua}:${tripSlug}`
+  const cached = metaPulite.get(chiave)
   if (cached) return cached
-  const raw = TRIP_META.find((t) => t.tripSlug === tripSlug)
+  const raw = registro(lingua).tripMeta.find((t) => t.tripSlug === tripSlug)
   if (!raw) return undefined
   const clean = pulisci(raw)
-  metaPulite.set(tripSlug, clean)
+  metaPulite.set(chiave, clean)
   return clean
 }
 
 /** Viaggi (dal parser markdown) che toccano una destinazione. */
-export function getViaggiByDestinazione(destinazione: Destinazione): Viaggio[] {
+export function getViaggiByDestinazione(destinazione: Destinazione, lingua: Lingua): Viaggio[] {
   return destinazione.tripSlugs
-    .map((slug) => getViaggioBySlug(slug))
+    .map((slug) => getViaggioBySlug(slug, lingua))
     .filter((v): v is Viaggio => Boolean(v))
 }
 
 /** Viaggi (dal parser markdown) collegati a un'esperienza. */
-export function getViaggiByEsperienza(esperienza: Esperienza): Viaggio[] {
+export function getViaggiByEsperienza(esperienza: Esperienza, lingua: Lingua): Viaggio[] {
   return esperienza.tripSlugs
-    .map((slug) => getViaggioBySlug(slug))
+    .map((slug) => getViaggioBySlug(slug, lingua))
     .filter((v): v is Viaggio => Boolean(v))
 }
 
 /** Destinazioni collegate a un'esperienza (di solito una sola, ma il tipo resta un array per uniformità). */
-export function getDestinazioniByEsperienzaSlug(esperienza: Esperienza): Destinazione[] {
-  const d = DESTINAZIONI.find((d) => d.slug === esperienza.destinazioneSlug)
+export function getDestinazioniByEsperienzaSlug(esperienza: Esperienza, lingua: Lingua): Destinazione[] {
+  const d = registro(lingua).destinazioni.find((d) => d.slug === esperienza.destinazioneSlug)
   return d ? [d] : []
 }
 
 /** Esperienze collegate a una destinazione tramite gli slug espliciti sulla destinazione stessa. */
-export function getEsperienzeDiDestinazione(destinazione: Destinazione): Esperienza[] {
+export function getEsperienzeDiDestinazione(destinazione: Destinazione, lingua: Lingua): Esperienza[] {
+  const tutte = registro(lingua).esperienze
   return destinazione.esperienzeSlugs
-    .map((slug) => ESPERIENZE.find((e) => e.slug === slug))
+    .map((slug) => tutte.find((e) => e.slug === slug))
     .filter((e): e is Esperienza => Boolean(e))
 }

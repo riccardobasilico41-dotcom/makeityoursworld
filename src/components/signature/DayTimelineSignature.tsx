@@ -1,7 +1,7 @@
 'use client'
 
 import { forwardRef } from 'react'
-import Link from 'next/link'
+import Link from '@/components/ui/Link'
 import Image from 'next/image'
 import { Route, BedDouble, Coins, Gauge, ArrowUpRight } from 'lucide-react'
 import { Prose } from '@/components/Prose'
@@ -10,12 +10,33 @@ import { FieldDossier } from './FieldDossier'
 import { idGiorno, numeroGiorno } from './giorni-ancore'
 import type { ViaggioGiorno } from '@/lib/viaggi'
 import type { GiornoMeta, IntensitaGiorno } from '@/lib/types'
+import { useLingua } from '@/lib/i18n/LinguaProvider'
+import { etichetta } from '@/lib/i18n/etichette'
+import type { Lingua } from '@/lib/i18n/config'
 
-const INTENSITA_LABEL: Record<IntensitaGiorno, string> = {
-  leggero: 'Ritmo leggero',
-  medio: 'Ritmo medio',
-  intenso: 'Ritmo intenso',
-}
+const T = {
+  it: {
+    ritmo: { leggero: 'Ritmo leggero', medio: 'Ritmo medio', intenso: 'Ritmo intenso' },
+    tratta: 'Tratta',
+    pernottamento: 'Pernottamento',
+    costiNoti: 'Costi noti',
+    scopri: 'Scopri la destinazione',
+  },
+  en: {
+    ritmo: { leggero: 'Easy pace', medio: 'Moderate pace', intenso: 'Intense pace' },
+    tratta: 'Route',
+    pernottamento: 'Overnight stay',
+    costiNoti: 'Known costs',
+    scopri: 'Discover the destination',
+  },
+  es: {
+    ritmo: { leggero: 'Ritmo suave', medio: 'Ritmo medio', intenso: 'Ritmo intenso' },
+    tratta: 'Trayecto',
+    pernottamento: 'Alojamiento',
+    costiNoti: 'Costes conocidos',
+    scopri: 'Descubre el destino',
+  },
+} satisfies Record<Lingua, { ritmo: Record<IntensitaGiorno, string> } & Record<string, string | Record<string, string>>>
 
 const INTENSITA_CLASSES: Record<IntensitaGiorno, string> = {
   leggero: 'bg-alpine/10 text-alpine',
@@ -35,12 +56,14 @@ export const DayTimelineSignature = forwardRef<
   HTMLOListElement,
   { giorni: ViaggioGiorno[]; meta: GiornoMeta[]; paeseSlug: string; unitaLabel?: string }
 >(function DayTimelineSignature({ giorni, meta, paeseSlug, unitaLabel = 'Giorno' }, ref) {
+  const lingua = useLingua()
+  const t = T[lingua]
   return (
     <ol ref={ref} className="space-y-16 sm:space-y-24">
       {giorni.map((giorno, i) => {
         const info = meta.find((m) => m.titoloGiorno === giorno.titolo)
         const numero = numeroGiorno(giorno.titolo, i)
-        const sottotitolo = giorno.titolo.replace(/^Giorno\s+\d+\s*[—-]\s*/i, '')
+        const sottotitolo = giorno.titolo.replace(/^(?:Giorno|Day|Día)\s+\d+\s*[—-]\s*/i, '')
 
         return (
           // <li> figlio diretto di <ol> (HTML valido); l'animazione sta dentro, sul contenuto
@@ -55,7 +78,7 @@ export const DayTimelineSignature = forwardRef<
                     className={`ml-4 inline-flex h-fit items-center gap-1.5 rounded-none px-2.5 py-1 text-[0.65rem] font-semibold uppercase tracking-wider sm:ml-0 sm:mt-3 ${INTENSITA_CLASSES[info.intensita]}`}
                   >
                     <Gauge size={12} />
-                    {INTENSITA_LABEL[info.intensita]}
+                    {t.ritmo[info.intensita]}
                   </span>
                 )}
               </div>
@@ -85,9 +108,9 @@ export const DayTimelineSignature = forwardRef<
                 ) : (
                   <FieldDossier
                     size="sm"
-                    eyebrow={`${unitaLabel} ${numero}`}
+                    eyebrow={`${etichetta(unitaLabel, lingua)} ${numero}`}
                     titolo={info?.destinazioneSlug ?? sottotitolo}
-                    meta={info?.intensita ? INTENSITA_LABEL[info.intensita] : undefined}
+                    meta={info?.intensita ? t.ritmo[info.intensita] : undefined}
                     className="mt-5 h-28"
                   />
                 )}
@@ -99,7 +122,7 @@ export const DayTimelineSignature = forwardRef<
                         <div className="relative pl-[23px]">
                           <dt className="text-xs text-stone/85">
                             <Route size={15} aria-hidden="true" className="absolute left-0 top-0.5 text-stone/60" />
-                            Tratta
+                            {t.tratta}
                           </dt>
                           <dd className="text-ink">{info.tratta}</dd>
                         </div>
@@ -108,7 +131,7 @@ export const DayTimelineSignature = forwardRef<
                         <div className="relative pl-[23px]">
                           <dt className="text-xs text-stone/85">
                             <BedDouble size={15} aria-hidden="true" className="absolute left-0 top-0.5 text-stone/60" />
-                            Pernottamento
+                            {t.pernottamento}
                           </dt>
                           <dd className="flex flex-wrap items-center gap-1.5 text-ink">
                             {info.pernottamento}
@@ -119,7 +142,7 @@ export const DayTimelineSignature = forwardRef<
                         <div className="relative pl-[23px]">
                           <dt className="text-xs text-stone/85">
                             <Coins size={15} aria-hidden="true" className="absolute left-0 top-0.5 text-stone/60" />
-                            Costi noti
+                            {t.costiNoti}
                           </dt>
                           <dd className="text-ink">{info.costiNoti}</dd>
                         </div>
@@ -134,7 +157,7 @@ export const DayTimelineSignature = forwardRef<
                       href={`/destinazioni/${paeseSlug}/${info.destinazioneSlug}`}
                       className="mt-4 inline-flex items-center gap-1.5 text-sm font-medium text-rosso hover:text-rosso-dark"
                     >
-                      Scopri la destinazione
+                      {t.scopri}
                       <ArrowUpRight size={14} />
                     </Link>
                   )}

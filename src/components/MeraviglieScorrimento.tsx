@@ -2,12 +2,21 @@
 
 import { useEffect, useRef, useState, type ReactNode } from 'react'
 import { ArrowLeft, ArrowRight } from 'lucide-react'
+import { useLingua } from '@/lib/i18n/LinguaProvider'
+import type { Lingua } from '@/lib/i18n/config'
+
+const T = {
+  it: { indietro: 'Indietro', avanti: 'Avanti' },
+  en: { indietro: 'Previous', avanti: 'Next' },
+  es: { indietro: 'Anterior', avanti: 'Siguiente' },
+} satisfies Record<Lingua, Record<string, string>>
 
 /**
  * Fila orizzontale a scorrimento (scroll-snap) con le frecce: col dito o col trackpad si
  * scorre e basta; le frecce avanzano di una schermata e si spengono agli estremi.
  */
 export function Scorrimento({ children, etichetta }: { children: ReactNode; etichetta: string }) {
+  const t = T[useLingua()]
   const filaRef = useRef<HTMLUListElement>(null)
   const [inizio, setInizio] = useState(true)
   const [fine, setFine] = useState(false)
@@ -48,10 +57,10 @@ export function Scorrimento({ children, etichetta }: { children: ReactNode; etic
         {children}
       </ul>
       <div className="mt-4 flex justify-end gap-2">
-        <button type="button" className={freccia} onClick={() => vai(-1)} disabled={inizio} aria-label="Indietro">
+        <button type="button" className={freccia} onClick={() => vai(-1)} disabled={inizio} aria-label={t.indietro}>
           <ArrowLeft size={18} />
         </button>
-        <button type="button" className={freccia} onClick={() => vai(1)} disabled={fine} aria-label="Avanti">
+        <button type="button" className={freccia} onClick={() => vai(1)} disabled={fine} aria-label={t.avanti}>
           <ArrowRight size={18} />
         </button>
       </div>

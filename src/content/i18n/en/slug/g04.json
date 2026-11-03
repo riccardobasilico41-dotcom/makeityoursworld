@@ -1,0 +1,40 @@
+{
+  "paesi": {
+    "canada": "canada",
+    "cina": "china"
+  },
+  "destinazioni": {
+    "cina/pechino": "beijing",
+    "cina/xian": "xian",
+    "cina/shanghai": "shanghai-suzhou-water-villages",
+    "cina/zhangjiajie": "zhangjiajie",
+    "cina/furong-zhen": "furong-zhen",
+    "cina/chengdu": "chengdu",
+    "cina/chongqing": "chongqing",
+    "cina/lijiang": "lijiang",
+    "cina/yulong-shangri-la": "yulong-tiger-leaping-gorge-shangri-la",
+    "cina/yangshuo": "yangshuo-li-river",
+    "cina/hong-kong": "hong-kong",
+    "cina/macao": "macau"
+  },
+  "esperienze": {
+    "cina/muraglia-jinshanling": "great-wall-jinshanling",
+    "cina/citta-proibita": "forbidden-city-jingshan",
+    "cina/esercito-terracotta": "terracotta-army",
+    "cina/mura-xian-bicicletta": "xian-city-walls-bike",
+    "cina/giardini-suzhou": "suzhou-classical-gardens",
+    "cina/bund-pudong": "bund-pudong-skyline",
+    "cina/star-ferry-victoria-peak": "star-ferry-victoria-peak",
+    "cina/avatar-yuanjiajie": "avatar-yuanjiajie",
+    "cina/tianmen-shan": "tianmen-mountain",
+    "cina/panda-chengdu": "chengdu-giant-pandas",
+    "cina/hot-pot-sichuan": "sichuan-hot-pot",
+    "cina/hongya-dong-notte": "hongya-dong-at-night",
+    "cina/impression-lijiang": "impression-lijiang",
+    "cina/gola-salto-tigre": "tiger-leaping-gorge-trek",
+    "cina/fiume-li-zattera": "li-river-bamboo-raft"
+  },
+  "viaggi": {
+    "canada-itinerario": "eastern-canada-road-trip"
+  }
+}

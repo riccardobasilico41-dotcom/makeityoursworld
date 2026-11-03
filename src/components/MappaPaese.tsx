@@ -1,8 +1,82 @@
 'use client'
 
-import Link from 'next/link'
+import Link from '@/components/ui/Link'
 import { useCallback, useEffect, useMemo, useRef, useState, type KeyboardEvent } from 'react'
 import { ArrowRight } from 'lucide-react'
+import { useLingua } from '@/lib/i18n/LinguaProvider'
+import type { Lingua } from '@/lib/i18n/config'
+
+const T = {
+  it: {
+    filtra: 'Filtra la mappa',
+    tutto: 'Tutto',
+    destinazioni: (n: number) => `Destinazioni · ${n}`,
+    esperienze: (n: number) => `Esperienze · ${n}`,
+    mappaDi: (nome: string) => `Mappa di ${nome} con destinazioni ed esperienze`,
+    pinDestinazione: (n: number | undefined, nome: string) => `Destinazione ${n}: ${nome}`,
+    pinEsperienza: (nome: string) => `Esperienza: ${nome}`,
+    tuttoPaese: 'Tutto il Paese',
+    destinazione: 'Destinazione',
+    esperienza: 'Esperienza',
+    contorni: 'Contorni: Natural Earth. Luoghi:',
+    contributors: 'contributors.',
+    apriDestinazione: 'Apri la destinazione',
+    apriEsperienza: "Apri l'esperienza",
+    daFareQui: 'Da fare qui',
+    doveSiTrova: 'Dove si trova',
+    tornaMappa: 'Torna a tutta la mappa',
+    sullaMappa: (nome: string) => `${nome} sulla mappa`,
+    tocca: "Tocca un punto rosso per una destinazione, uno scuro per un'esperienza: la mappa si avvicina e qui compare la scheda.",
+    toccaSolo: 'Tocca un punto sulla mappa: si avvicina e qui compare la scheda della destinazione.',
+    altri: (n: number) => `E altri ${n} punti sulla mappa.`,
+  },
+  en: {
+    filtra: 'Filter the map',
+    tutto: 'All',
+    destinazioni: (n: number) => `Destinations · ${n}`,
+    esperienze: (n: number) => `Experiences · ${n}`,
+    mappaDi: (nome: string) => `Map of ${nome} with destinations and experiences`,
+    pinDestinazione: (n: number | undefined, nome: string) => `Destination ${n}: ${nome}`,
+    pinEsperienza: (nome: string) => `Experience: ${nome}`,
+    tuttoPaese: 'Whole country',
+    destinazione: 'Destination',
+    esperienza: 'Experience',
+    contorni: 'Outlines: Natural Earth. Places:',
+    contributors: 'contributors.',
+    apriDestinazione: 'Open the destination',
+    apriEsperienza: 'Open the experience',
+    daFareQui: 'To do here',
+    doveSiTrova: 'Where it is',
+    tornaMappa: 'Back to the full map',
+    sullaMappa: (nome: string) => `${nome} on the map`,
+    tocca: 'Tap a red dot for a destination, a dark one for an experience: the map zooms in and the details show up here.',
+    toccaSolo: 'Tap a point on the map: it zooms in and the destination details show up here.',
+    altri: (n: number) => `And ${n} more points on the map.`,
+  },
+  es: {
+    filtra: 'Filtrar el mapa',
+    tutto: 'Todo',
+    destinazioni: (n: number) => `Destinos · ${n}`,
+    esperienze: (n: number) => `Experiencias · ${n}`,
+    mappaDi: (nome: string) => `Mapa de ${nome} con destinos y experiencias`,
+    pinDestinazione: (n: number | undefined, nome: string) => `Destino ${n}: ${nome}`,
+    pinEsperienza: (nome: string) => `Experiencia: ${nome}`,
+    tuttoPaese: 'Todo el país',
+    destinazione: 'Destino',
+    esperienza: 'Experiencia',
+    contorni: 'Contornos: Natural Earth. Lugares:',
+    contributors: 'contributors.',
+    apriDestinazione: 'Abrir el destino',
+    apriEsperienza: 'Abrir la experiencia',
+    daFareQui: 'Qué hacer aquí',
+    doveSiTrova: 'Dónde está',
+    tornaMappa: 'Volver a todo el mapa',
+    sullaMappa: (nome: string) => `${nome} en el mapa`,
+    tocca: 'Toca un punto rojo para un destino, uno oscuro para una experiencia: el mapa se acerca y aquí aparece la ficha.',
+    toccaSolo: 'Toca un punto del mapa: se acerca y aquí aparece la ficha del destino.',
+    altri: (n: number) => `Y otros ${n} puntos en el mapa.`,
+  },
+} satisfies Record<Lingua, Record<string, string | ((...a: never[]) => string)>>
 
 export type DatiMappa = { viewBox: string; w: number; h: number; path: string; graticola?: string }
 
@@ -43,6 +117,8 @@ const DISTANZA_RIGA = 14 // larghezza del tratto: la riga cade a metà, ~7 px da
  * punto scelto, pannello con i dettagli, filtri. Rispetta prefers-reduced-motion.
  */
 export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; mappa: DatiMappa; punti: PuntoMappa[] }) {
+  const lingua = useLingua()
+  const t = T[lingua]
   const svgRef = useRef<SVGSVGElement>(null)
   const vbRef = useRef<VB>([0, 0, mappa.w, mappa.h])
   const rafRef = useRef(0)
@@ -220,10 +296,10 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
 
   return (
     <div className="mt-10">
-      <div className="flex flex-wrap items-center gap-2" role="toolbar" aria-label="Filtra la mappa">
-        {chip('tutto', 'Tutto')}
-        {nD > 0 && chip('destinazione', `Destinazioni · ${nD}`)}
-        {nE > 0 && chip('esperienza', `Esperienze · ${nE}`)}
+      <div className="flex flex-wrap items-center gap-2" role="toolbar" aria-label={t.filtra}>
+        {chip('tutto', t.tutto)}
+        {nD > 0 && chip('destinazione', t.destinazioni(nD))}
+        {nE > 0 && chip('esperienza', t.esperienze(nE))}
       </div>
 
       <div className="mt-6 grid items-start gap-6 lg:grid-cols-[7fr_5fr] lg:gap-10">
@@ -234,7 +310,7 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
               viewBox={mappa.viewBox}
               className="block h-auto max-h-[78vh] w-full"
               role="group"
-              aria-label={`Mappa di ${nomePaese} con destinazioni ed esperienze`}
+              aria-label={t.mappaDi(nomePaese)}
               onKeyDown={(e) => e.key === 'Escape' && azzera()}
             >
               {mappa.graticola && (
@@ -269,7 +345,7 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
                     aria-hidden={on ? undefined : true}
                     aria-pressed={isSel}
                     // il numero visibile sul pin fa parte del nome accessibile (chi usa la voce lo pronuncia)
-                    aria-label={dest ? `Destinazione ${numero.get(p.id)}: ${p.nome}` : `Esperienza: ${p.nome}`}
+                    aria-label={dest ? t.pinDestinazione(numero.get(p.id), p.nome) : t.pinEsperienza(p.nome)}
                     onClick={() => on && scegli(p)}
                     onKeyDown={(e) => tasto(e, p)}
                     className={`group cursor-pointer outline-none transition-opacity duration-300 ${on ? '' : 'pointer-events-none opacity-15'}`}
@@ -342,7 +418,7 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
                   onClick={tutto}
                   className="min-h-10 rounded-none border-2 border-ink bg-cream px-3 text-xs font-semibold uppercase tracking-wider text-ink transition-colors hover:bg-ink hover:text-cream"
                 >
-                  Tutto il Paese
+                  {t.tuttoPaese}
                 </button>
               )}
             </div>
@@ -351,21 +427,21 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
                 <span className="inline-flex size-4 items-center justify-center rounded-full bg-rosso text-[9px] font-bold text-cream shadow-[1px_1px_0_var(--color-ink)]" aria-hidden>
                   1
                 </span>{' '}
-                Destinazione
+                {t.destinazione}
               </span>
               {nE > 0 && (
                 <span className="inline-flex items-center gap-1.5">
-                  <span className="inline-block size-2 rounded-full bg-ink" aria-hidden /> Esperienza
+                  <span className="inline-block size-2 rounded-full bg-ink" aria-hidden /> {t.esperienza}
                 </span>
               )}
             </div>
           </div>
           <p className="mt-2 text-[11px] leading-snug text-stone/85">
-            Contorni: Natural Earth. Luoghi:{' '}
+            {t.contorni}{' '}
             <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer" className="underline underline-offset-2 hover:text-rosso">
               © OpenStreetMap
             </a>{' '}
-            contributors.
+            {t.contributors}
           </p>
         </div>
 
@@ -379,13 +455,13 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
                 href={sel.href}
                 className="mt-6 inline-flex items-center gap-2 rounded-none bg-alpine px-5 py-3 text-sm font-medium text-cream transition-colors hover:bg-alpine-dark"
               >
-                {sel.tipo === 'destinazione' ? 'Apri la destinazione' : "Apri l'esperienza"}
+                {sel.tipo === 'destinazione' ? t.apriDestinazione : t.apriEsperienza}
                 <ArrowRight size={15} aria-hidden />
               </Link>
               {legati.length > 0 && (
                 <div className="mt-8">
                   <p className="text-xs font-semibold uppercase tracking-wider text-stone/85">
-                    {sel.tipo === 'destinazione' ? 'Da fare qui' : 'Dove si trova'}
+                    {sel.tipo === 'destinazione' ? t.daFareQui : t.doveSiTrova}
                   </p>
                   <ul className="mt-2 divide-y divide-alpine/10 border-y border-alpine/10">
                     {legati.map((q) => (
@@ -407,16 +483,14 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
                 </div>
               )}
               <button type="button" onClick={azzera} className="mt-6 text-sm text-stone underline underline-offset-2 hover:text-rosso">
-                Torna a tutta la mappa
+                {t.tornaMappa}
               </button>
             </div>
           ) : (
             <div>
-              <p className="text-xs font-semibold uppercase tracking-[0.18em] text-rosso">{nomePaese} sulla mappa</p>
+              <p className="text-xs font-semibold uppercase tracking-[0.18em] text-rosso">{t.sullaMappa(nomePaese)}</p>
               <p className="mt-3 text-base leading-relaxed text-stone">
-                {nE > 0
-                  ? "Tocca un punto rosso per una destinazione, uno scuro per un'esperienza: la mappa si avvicina e qui compare la scheda."
-                  : 'Tocca un punto sulla mappa: si avvicina e qui compare la scheda della destinazione.'}
+                {nE > 0 ? t.tocca : t.toccaSolo}
               </p>
               <ul className="mt-6 divide-y divide-alpine/10 border-y border-alpine/10">
                 {punti
@@ -445,7 +519,7 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
                   ))}
               </ul>
               {punti.filter((p) => visibile(p)).length > 12 && (
-                <p className="mt-2 text-xs text-stone/85">E altri {punti.filter((p) => visibile(p)).length - 12} punti sulla mappa.</p>
+                <p className="mt-2 text-xs text-stone/85">{t.altri(punti.filter((p) => visibile(p)).length - 12)}</p>
               )}
             </div>
           )}

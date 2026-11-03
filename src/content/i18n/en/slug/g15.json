@@ -1,0 +1,25 @@
+{
+  "paesi": { "italia": "italy" },
+  "destinazioni": {
+    "italia/dolomiti": "dolomites",
+    "italia/sciare-in-italia": "skiing-in-italy",
+    "italia/roma": "rome",
+    "italia/firenze": "florence",
+    "italia/venezia": "venice",
+    "italia/napoli": "naples",
+    "italia/milano-nord": "milan-and-the-north",
+    "italia/sicilia": "sicily",
+    "italia/sardegna": "sardinia",
+    "italia/isole-minori": "smaller-islands",
+    "italia/italia-inesplorata": "unexplored-italy",
+    "italia/rotte-dei-vini": "wine-routes",
+    "italia/torino": "turin",
+    "italia/costiera-amalfitana": "amalfi-coast",
+    "italia/isole-golfo-napoli": "capri-ischia-procida",
+    "italia/eolie": "aeolian-islands",
+    "italia/sicilia-occidentale": "western-sicily",
+    "italia/isole-siciliane": "egadi-pantelleria-pelagie"
+  },
+  "esperienze": {},
+  "viaggi": {}
+}

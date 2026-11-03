@@ -1,0 +1,70 @@
+import type { Esperienza } from '@/lib/types'
+
+export const esperienzeLettonia: Esperienza[] = [
+  {
+    slug: 'riga-art-nouveau-passeggiata',
+    paeseSlug: 'lettonia',
+    destinazioneSlug: 'riga',
+    nome: 'Walk Among the Art Nouveau Facades of Alberta iela',
+    localita: 'Art Nouveau District, Riga',
+    cosE:
+      "A walk, on your own or with a guide, along Alberta iela, Elizabetes iela and the surrounding streets. One of the highest concentrations of Art Nouveau (Jugendstil) architecture in the world is found here: it's estimated that about a third of the buildings in central Riga are in this style. There are hundreds of facades with masks, sculpted faces, floral motifs and colored stained glass, many by the architect Mikhail Eisenstein, father of the Soviet film director Sergei Eisenstein.",
+    percheFarla:
+      "It's a side of Riga different from the medieval Old Town and often underrated. Once you've learned to tell Eisenstein's decorative style from the more sober style of other architects of the era, you look at the whole city with different eyes for the rest of the trip.",
+    durata: "an hour and a half to two hours on your own and unhurried; guided tours generally last about 2 hours",
+    periodo: "all year: you're almost always outdoors, but without physical effort",
+    costo: "free on your own; guided walking tours start from about €15-20 per person; the Art Nouveau Museum at Alberta iela 12 has a separate ticket, around €6-10",
+    comePrenotare: "For the self-guided walk there's no need to book. Guided tours are booked online or with operators in the historic center. The Art Nouveau Museum has its own website with hours and tickets.",
+    cosaPortare: "Nothing in particular; light binoculars or a zoom lens help to photograph the details of the higher facades.",
+    perChiEAdatta: "For everyone, and in particular for anyone who loves architecture and urban photography.",
+    giudizio: 'da-verificare',
+    alternative: ["The Art Nouveau Museum at Alberta iela 12, which reconstructs a period bourgeois apartment inside one of the most decorated buildings on the street: for anyone who also wants to see the interiors"],
+    tripSlugs: ['capitali-baltiche'],
+    imageAlt: "A cream-colored Art Nouveau facade in Riga, with arched windows decorated with stucco and a wrought-iron balcony",
+    immagine: '/images/lettonia/riga-art-nouveau-passeggiata.jpg',
+  },
+  {
+    slug: 'riga-mercato-centrale-tour',
+    paeseSlug: 'lettonia',
+    destinazioneSlug: 'riga',
+    nome: "Food Tour of Riga's Central Market",
+    localita: 'Centrāltirgus, Riga',
+    cosE:
+      "A walk, on your own or with a guide, through the five pavilions of Riga's Central Market, with stops to taste from the producers smoked Baltic fish, local cheeses, honey and black rye bread (rupjmaize). The pavilions were German First World War airship hangars; they became a market in 1930, and then it was the largest and most modern in Europe.",
+    percheFarla:
+      "Since 1998 the market has been part of the UNESCO site together with the Old Town, but it's still a real market, visited every day by about 80,000 people. To taste Latvian products it's probably the cheapest and most genuine way.",
+    durata: "an hour for a quick walk on your own, up to 2-3 hours with a guided tour with tastings at several stops",
+    periodo: "all year; in the morning, before noon, there's more choice and more local life",
+    costo: "entry to the market is free; on your own you spend what you buy (a few euros per portion); guided food tours start from about €30-45 per person",
+    comePrenotare: "For the self-guided walk there's no need to book. Guided food tours are booked online a few days ahead, especially on the weekend.",
+    cosaPortare: "Small-denomination cash for the more informal stalls, although almost everyone now accepts cards and contactless.",
+    perChiEAdatta: "For anyone who loves food markets. Less suited to those short on time who only want to see the hangars from outside.",
+    giudizio: 'da-verificare',
+    alternative: ["A quick tour of the exterior and the main pavilion, for anyone who wants to see the architecture without stopping for tastings"],
+    tripSlugs: ['capitali-baltiche'],
+    imageAlt: "The interior of a pavilion of Riga's Central Market, with fruit and vegetable stalls under the arched vault of the former hangars",
+    immagine: '/images/lettonia/riga-mercato-centrale-tour.jpg',
+  },
+  {
+    slug: 'jurmala-spiaggia-ville-liberty',
+    paeseSlug: 'lettonia',
+    destinazioneSlug: 'jurmala',
+    nome: 'A Day in Jūrmala: Beach and Art Nouveau Villas',
+    localita: 'Jūrmala, about 20 km from Riga',
+    cosE:
+      "A day, or half a day, on Jūrmala's long white sand beach, with a walk among the Art Nouveau and Art Deco wooden villas in the residential streets of Majori and Dzintari. Many date from the tsarist and Soviet era, when the town was the seaside destination of the region's elite.",
+    percheFarla:
+      "It's the simplest seaside trip of the whole itinerary, half an hour by train from Riga. On a trip of capitals it brings the sea, which is otherwise missing, and a heritage of wooden architecture not seen elsewhere in the Baltics.",
+    durata: "half a day for the beach and the main street; a full day to explore the residential streets more thoroughly and stay longer on the beach",
+    periodo: "June-August for swimming; May and September are fine for the walk, but the water is too cold for almost everyone",
+    costo: "train from Riga about €2 each way; free beach; a meal in a seafront café €8-15",
+    comePrenotare: "No need to book: you take the regional train from Riga central station toward Majori, with frequent departures all day.",
+    cosaPortare: "In season swimsuit and towel; comfortable shoes for the residential streets; a light sweatshirt, because the wind from the gulf is cool even on hot days.",
+    perChiEAdatta: "For anyone looking for a break at the sea within a city itinerary. Less suited to off-season, when beach life almost entirely stops.",
+    giudizio: 'da-verificare',
+    alternative: ["A walk only among the Art Nouveau villas, for anyone going off-season or who doesn't want to swim"],
+    tripSlugs: ['capitali-baltiche'],
+    imageAlt: "Jūrmala's pale sand beach with colorful cabins in a row and the Baltic Beach Hotel among the pines",
+    immagine: '/images/lettonia/jurmala-spiaggia-ville-liberty.jpg',
+  },
+]

@@ -1,8 +1,17 @@
-import Link from 'next/link'
+import Link from '@/components/ui/Link'
 import Image from 'next/image'
 import { Waves, Trees, Landmark, Music, Tent, Compass } from 'lucide-react'
 import type { Destinazione } from '@/lib/types'
 import { plain } from '@/components/ui/Rich'
+import { linguaCorrente } from '@/lib/i18n/server'
+import { etichette } from '@/lib/i18n/etichette'
+import type { Lingua } from '@/lib/i18n/config'
+
+const T = {
+  it: { scopri: 'Scopri la destinazione' },
+  en: { scopri: 'Discover the destination' },
+  es: { scopri: 'Descubre el destino' },
+} satisfies Record<Lingua, Record<string, string>>
 
 const TIPOLOGIA_ICON: Record<string, typeof Waves> = {
   mare: Waves,
@@ -20,7 +29,9 @@ const TIPOLOGIA_GRADIENT: Record<string, string> = {
   campeggio: 'from-[#5c4a2e] to-[#2b2013]',
 }
 
-export function DestinationCard({ destinazione, paeseSlug }: { destinazione: Destinazione; paeseSlug: string }) {
+export async function DestinationCard({ destinazione, paeseSlug }: { destinazione: Destinazione; paeseSlug: string }) {
+  const lingua = await linguaCorrente()
+  const t = T[lingua]
   const tipoPrincipale = destinazione.tipologia[0] ?? 'mare'
   const Icon = TIPOLOGIA_ICON[tipoPrincipale] ?? Compass
   const gradient = TIPOLOGIA_GRADIENT[tipoPrincipale] ?? 'from-alpine to-alpine-dark'
@@ -54,7 +65,7 @@ export function DestinationCard({ destinazione, paeseSlug }: { destinazione: Des
           <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/60 via-black/5 to-transparent" />
         )}
         <p className="relative z-10 text-xs font-semibold uppercase tracking-[0.18em] text-cream/70">
-          {destinazione.tipologia.join(' · ')}
+          {etichette(destinazione.tipologia, lingua).join(' · ')}
         </p>
       </div>
       <div className="flex flex-1 flex-col gap-2.5 p-5">
@@ -62,7 +73,7 @@ export function DestinationCard({ destinazione, paeseSlug }: { destinazione: Des
         <p className="text-sm leading-relaxed text-stone">{plain(destinazione.introduzione)}</p>
         <div className="mt-auto flex items-center justify-between pt-2">
           <span className="text-xs text-stone/85">{destinazione.giorniConsigliati}</span>
-          <span className="text-sm font-medium text-rosso">Scopri la destinazione</span>
+          <span className="text-sm font-medium text-rosso">{t.scopri}</span>
         </div>
       </div>
     </Link>

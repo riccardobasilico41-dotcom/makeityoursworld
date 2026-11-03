@@ -1,4 +1,5 @@
 import { Fragment, type ReactNode } from 'react'
+import Link from '@/components/ui/Link'
 
 /**
  * Testo breve dei contenuti (destinazioni, esperienze, Paesi) con il markdown in linea
@@ -16,13 +17,16 @@ export function richNodes(text?: string | null): ReactNode[] {
     const link = part.match(/^\[([^\]]+)\]\(([^)\s]+)\)$/)
     if (link) {
       const esterno = /^https?:/.test(link[2])
+      const classe = 'underline decoration-rosso underline-offset-2 hover:text-rosso'
+      // link interni in forma canonica: <Link> ne traduce l'indirizzo
+      if (!esterno && link[2].startsWith('/') && !link[2].startsWith('//'))
+        return (
+          <Link key={i} href={link[2]} className={classe}>
+            {link[1]}
+          </Link>
+        )
       return (
-        <a
-          key={i}
-          href={link[2]}
-          className="underline decoration-rosso underline-offset-2 hover:text-rosso"
-          {...(esterno ? { target: '_blank', rel: 'noopener noreferrer' } : {})}
-        >
+        <a key={i} href={link[2]} className={classe} {...(esterno ? { target: '_blank', rel: 'noopener noreferrer' } : {})}>
           {link[1]}
         </a>
       )

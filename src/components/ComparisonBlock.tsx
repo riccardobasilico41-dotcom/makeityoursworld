@@ -2,13 +2,22 @@ import { Check, X, ArrowRight } from 'lucide-react'
 import type { Confronto } from '@/lib/types'
 import { Reveal } from './Reveal'
 import { richNodes } from '@/components/ui/Rich'
+import { linguaCorrente } from '@/lib/i18n/server'
+import type { Lingua } from '@/lib/i18n/config'
+
+const T = {
+  it: { durata: 'Durata', costo: 'Costo', pro: 'Pro: ', contro: 'Contro: ', perChi: 'Per chi: ', sintesi: 'In sintesi: ' },
+  en: { durata: 'Duration', costo: 'Cost', pro: 'Pros: ', contro: 'Cons: ', perChi: 'Who it is for: ', sintesi: 'In short: ' },
+  es: { durata: 'Duración', costo: 'Coste', pro: 'Pros: ', contro: 'Contras: ', perChi: 'Para quién: ', sintesi: 'En resumen: ' },
+} satisfies Record<Lingua, Record<string, string>>
 
 /**
  * Confronto tra opzioni alternative: una scheda per opzione, con pro, contro e
  * "per chi è". Sta in colonna su mobile e in griglia da tablet in su, perché
  * un confronto a tabella sotto i 700px diventa illeggibile.
  */
-export function ComparisonBlock({ confronto }: { confronto: Confronto }) {
+export async function ComparisonBlock({ confronto }: { confronto: Confronto }) {
+  const t = T[await linguaCorrente()]
   return (
     <Reveal>
       <div className="rounded-none border border-alpine/15 bg-cream-dark/40 p-6 sm:p-8">
@@ -25,13 +34,13 @@ export function ComparisonBlock({ confronto }: { confronto: Confronto }) {
                 <dl className="mt-4 flex flex-wrap gap-x-6 gap-y-2 border-y border-alpine/10 py-3 text-sm">
                   {opzione.durata && (
                     <div>
-                      <dt className="text-xs font-semibold uppercase tracking-wider text-stone/85">Durata</dt>
+                      <dt className="text-xs font-semibold uppercase tracking-wider text-stone/85">{t.durata}</dt>
                       <dd className="mt-0.5 text-ink">{richNodes(opzione.durata)}</dd>
                     </div>
                   )}
                   {opzione.costo && (
                     <div className="min-w-0 flex-1">
-                      <dt className="text-xs font-semibold uppercase tracking-wider text-stone/85">Costo</dt>
+                      <dt className="text-xs font-semibold uppercase tracking-wider text-stone/85">{t.costo}</dt>
                       <dd className="mt-0.5 text-ink">{richNodes(opzione.costo)}</dd>
                     </div>
                   )}
@@ -43,7 +52,7 @@ export function ComparisonBlock({ confronto }: { confronto: Confronto }) {
                   <li key={voce} className="flex gap-2">
                     <Check size={15} className="mt-0.5 shrink-0 text-alpine" aria-hidden />
                     <span>
-                      <span className="sr-only">Pro: </span>
+                      <span className="sr-only">{t.pro}</span>
                       {richNodes(voce)}
                     </span>
                   </li>
@@ -52,7 +61,7 @@ export function ComparisonBlock({ confronto }: { confronto: Confronto }) {
                   <li key={voce} className="flex gap-2">
                     <X size={15} className="mt-0.5 shrink-0 text-rosso" aria-hidden />
                     <span>
-                      <span className="sr-only">Contro: </span>
+                      <span className="sr-only">{t.contro}</span>
                       {richNodes(voce)}
                     </span>
                   </li>
@@ -60,7 +69,7 @@ export function ComparisonBlock({ confronto }: { confronto: Confronto }) {
               </ul>
 
               <p className="mt-auto pt-4 text-sm text-stone">
-                <span className="font-medium text-ink">Per chi: </span>
+                <span className="font-medium text-ink">{t.perChi}</span>
                 {richNodes(opzione.perChi)}
               </p>
             </div>
@@ -71,7 +80,7 @@ export function ComparisonBlock({ confronto }: { confronto: Confronto }) {
           <p className="mt-6 flex gap-2 rounded-none border border-rosso/20 bg-rosso/5 p-5 text-base leading-relaxed text-stone">
             <ArrowRight size={17} className="mt-1 shrink-0 text-rosso" aria-hidden />
             <span>
-              <span className="font-medium text-rosso-dark">In sintesi: </span>
+              <span className="font-medium text-rosso-dark">{t.sintesi}</span>
               {richNodes(confronto.raccomandazione)}
             </span>
           </p>

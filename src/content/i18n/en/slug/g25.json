@@ -1,0 +1,47 @@
+{
+  "paesi": {
+    "spagna": "spain",
+    "sri-lanka": "sri-lanka",
+    "svezia": "sweden"
+  },
+  "destinazioni": {
+    "sri-lanka/negombo": "negombo",
+    "sri-lanka/anuradhapura": "anuradhapura",
+    "sri-lanka/dambulla-sigiriya": "dambulla-sigiriya",
+    "sri-lanka/polonnaruwa": "polonnaruwa",
+    "sri-lanka/kandy": "kandy",
+    "sri-lanka/nallathanniya": "nallathanniya-adams-peak",
+    "sri-lanka/nuwara-eliya": "nuwara-eliya",
+    "sri-lanka/ella": "ella",
+    "sri-lanka/hikkaduwa": "hikkaduwa",
+    "svezia/stoccolma": "stockholm",
+    "svezia/kiruna": "kiruna",
+    "svezia/abisko": "abisko"
+  },
+  "esperienze": {
+    "spagna/alhambra-visita": "alhambra-generalife-visit",
+    "spagna/flamenco-triana": "flamenco-triana-santa-cruz",
+    "spagna/tapeo-siviglia": "seville-tapas-crawl",
+    "spagna/zambra-sacromonte": "sacromonte-zambra",
+    "spagna/pintxos-crawl-donostia": "san-sebastian-pintxos-crawl",
+    "spagna/guggenheim-bilbao": "guggenheim-bilbao",
+    "spagna/serra-tramuntana-trekking": "serra-de-tramuntana-hiking",
+    "spagna/ibiza-nord-calette": "northern-ibiza-coves",
+    "spagna/teide-vetta-permesso": "teide-summit-permit",
+    "spagna/timanfaya-ruta-volcanes": "timanfaya-volcano-route",
+    "sri-lanka/safari-minneriya": "minneriya-safari",
+    "sri-lanka/trekking-sigiriya": "sigiriya-hike",
+    "sri-lanka/tempio-del-dente": "temple-of-the-tooth-ceremony",
+    "sri-lanka/rafting-kitulgala": "kitulgala-rafting",
+    "sri-lanka/scalata-adams-peak": "adams-peak-night-climb",
+    "sri-lanka/treno-panoramico-ella": "ella-scenic-train",
+    "sri-lanka/safari-yala": "yala-safari"
+  },
+  "viaggi": {
+    "andalusia-itinerario": "andalusia-itinerary",
+    "baleari-itinerario": "balearic-islands-itinerary",
+    "canarie-itinerario": "canary-islands-itinerary",
+    "spagna-nord-itinerario": "northern-spain-itinerary",
+    "sri-lanka-2023": "sri-lanka-2023"
+  }
+}

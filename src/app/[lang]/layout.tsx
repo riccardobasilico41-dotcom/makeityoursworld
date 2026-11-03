@@ -1,23 +1,28 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
-import "./globals.css";
+import "../globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { TornaSu } from "@/components/TornaSu";
 import { AUTORE } from "@/lib/structured-data";
 import { siteConfig } from "@/lib/site-config";
+import { notFound } from "next/navigation";
+import { lang } from "next/root-params";
+import { LINGUE, LOCALE, isLingua } from "@/lib/i18n/config";
+import { LinguaProvider } from "@/lib/i18n/LinguaProvider";
+import { SITO } from "@/lib/i18n/sito";
 
 // Stile A "Ghat": grotesk espressivo per i titoli, grotesk sobrio per il testo.
 // Font variabili ospitati sul sito (src/app/fonts): niente richieste a Google, niente errori di build.
 const bricolage = localFont({
-  src: "./fonts/BricolageGrotesque-normal-500-800.woff2",
+  src: "../fonts/BricolageGrotesque-normal-500-800.woff2",
   variable: "--font-bricolage",
   weight: "500 800",
   display: "swap",
 });
 
 const schibsted = localFont({
-  src: "./fonts/SchibstedGrotesk-normal-400-700.woff2",
+  src: "../fonts/SchibstedGrotesk-normal-400-700.woff2",
   variable: "--font-schibsted",
   weight: "400 700",
   display: "swap",
@@ -26,48 +31,60 @@ const schibsted = localFont({
 // Macchina da scrivere solo per il marchio, come il titolo del video «Runaway».
 // Su Mac e iPhone si usa American Typewriter (lo stesso del video), altrove Courier Prime.
 const courierPrime = localFont({
-  src: "./fonts/CourierPrime-700-latin.woff2",
+  src: "../fonts/CourierPrime-700-latin.woff2",
   variable: "--font-courier-prime",
   weight: "700",
   display: "swap",
 });
 
-export const metadata: Metadata = {
-  metadataBase: new URL(siteConfig.url),
-  title: {
-    default: `${siteConfig.brandName} — ${siteConfig.tagline}`,
-    template: `%s | ${siteConfig.shortName}`,
-  },
-  description: siteConfig.description,
-  openGraph: {
-    title: siteConfig.brandName,
-    description: siteConfig.description,
-    url: siteConfig.url,
-    siteName: siteConfig.shortName,
-    locale: "it_IT",
-    type: "website",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: siteConfig.brandName,
-    description: siteConfig.description,
-  },
-};
+export async function generateMetadata(): Promise<Metadata> {
+  const l = await lang();
+  const lingua = isLingua(l) ? l : "en";
+  const { tagline, description } = SITO[lingua];
+  return {
+    metadataBase: new URL(siteConfig.url),
+    title: {
+      default: `${siteConfig.brandName} — ${tagline}`,
+      template: `%s | ${siteConfig.shortName}`,
+    },
+    description,
+    openGraph: {
+      title: siteConfig.brandName,
+      description,
+      url: siteConfig.url,
+      siteName: siteConfig.shortName,
+      locale: LOCALE[lingua].og,
+      type: "website",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: siteConfig.brandName,
+      description,
+    },
+  };
+}
 
-export default function RootLayout({ children }: LayoutProps<"/">) {
+export function generateStaticParams() {
+  return LINGUE.map((lang) => ({ lang }));
+}
+
+export default async function RootLayout({ children }: LayoutProps<"/[lang]">) {
+  const l = await lang();
+  if (!isLingua(l)) notFound();
+  const lingua = l;
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Blog",
     name: siteConfig.brandName,
-    description: siteConfig.description,
+    description: SITO[lingua].description,
     url: siteConfig.url,
-    inLanguage: "it-IT",
+    inLanguage: LOCALE[lingua].html,
     author: AUTORE,
   };
 
   return (
     <html
-      lang="it"
+      lang={LOCALE[lingua].html}
       suppressHydrationWarning
       className={`${bricolage.variable} ${schibsted.variable} ${courierPrime.variable} h-full antialiased`}
     >
@@ -87,10 +104,12 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
-        <Header />
-        <main className="flex-1">{children}</main>
-        <Footer />
-        <TornaSu />
+        <LinguaProvider lingua={lingua}>
+          <Header />
+          <main className="flex-1">{children}</main>
+          <Footer />
+          <TornaSu />
+        </LinguaProvider>
       </body>
     </html>
   );

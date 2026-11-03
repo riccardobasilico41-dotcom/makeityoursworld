@@ -1,3 +1,5 @@
+import type { Lingua } from './i18n/config'
+
 /**
  * Link di affiliazione in un posto solo. Gli ID sono vuoti finché Rick non
  * si iscrive ai programmi: in quel caso i link funzionano comunque (portano
@@ -34,34 +36,78 @@ function conParametri(base: string, parametri: Record<string, string>) {
   return url.toString()
 }
 
+/** Siti dei partner nella lingua della pagina (it come prima; en: versione internazionale/USA; es: Spagna). */
+const SITI = {
+  it: {
+    booking: 'https://www.booking.com/searchresults.it.html',
+    tripHotel: 'https://it.trip.com/hotels/list',
+    tripTreni: 'https://it.trip.com/trains/china/',
+    gyg: 'https://www.getyourguide.it/s/',
+    viator: 'https://www.viator.com/it-IT/searchResults/all',
+    amazon: 'https://www.amazon.it/s',
+    heymondo: 'https://www.heymondo.it/',
+    airalo: 'https://www.airalo.com/it',
+    holafly: 'https://esim.holafly.com/it/',
+    auto: 'https://www.discovercars.com/it',
+    voli: 'https://www.skyscanner.it/',
+  },
+  en: {
+    booking: 'https://www.booking.com/searchresults.en-us.html',
+    tripHotel: 'https://www.trip.com/hotels/list',
+    tripTreni: 'https://www.trip.com/trains/china/',
+    gyg: 'https://www.getyourguide.com/s/',
+    viator: 'https://www.viator.com/searchResults/all',
+    amazon: 'https://www.amazon.com/s',
+    heymondo: 'https://www.heymondo.com/',
+    airalo: 'https://www.airalo.com/',
+    holafly: 'https://esim.holafly.com/',
+    auto: 'https://www.discovercars.com/',
+    voli: 'https://www.skyscanner.com/',
+  },
+  es: {
+    booking: 'https://www.booking.com/searchresults.es.html',
+    tripHotel: 'https://es.trip.com/hotels/list',
+    tripTreni: 'https://es.trip.com/trains/china/',
+    gyg: 'https://www.getyourguide.es/s/',
+    viator: 'https://www.viator.com/es-ES/searchResults/all',
+    amazon: 'https://www.amazon.es/s',
+    heymondo: 'https://www.heymondo.es/',
+    airalo: 'https://www.airalo.com/es',
+    holafly: 'https://esim.holafly.com/es/',
+    auto: 'https://www.discovercars.com/es',
+    voli: 'https://www.skyscanner.es/',
+  },
+} satisfies Record<Lingua, Record<string, string>>
+
 export const link = {
-  booking: (luogo: string) =>
-    conParametri('https://www.booking.com/searchresults.it.html', { ss: luogo, aid: AFFILIAZIONI.booking.aid }),
-  tripcomHotel: (luogo: string) =>
-    conParametri('https://it.trip.com/hotels/list', {
+  booking: (luogo: string, lingua: Lingua) =>
+    conParametri(SITI[lingua].booking, { ss: luogo, aid: AFFILIAZIONI.booking.aid }),
+  tripcomHotel: (luogo: string, lingua: Lingua) =>
+    conParametri(SITI[lingua].tripHotel, {
       keyword: luogo,
       Allianceid: AFFILIAZIONI.tripcom.allianceId,
       SID: AFFILIAZIONI.tripcom.sid,
     }),
-  tripcomTreniCina: () =>
-    conParametri('https://it.trip.com/trains/china/', {
+  tripcomTreniCina: (lingua: Lingua) =>
+    conParametri(SITI[lingua].tripTreni, {
       Allianceid: AFFILIAZIONI.tripcom.allianceId,
       SID: AFFILIAZIONI.tripcom.sid,
     }),
-  getyourguide: (cosa: string) =>
-    conParametri('https://www.getyourguide.it/s/', { q: cosa, partner_id: AFFILIAZIONI.getyourguide.partnerId }),
-  viator: (cosa: string) =>
-    conParametri('https://www.viator.com/it-IT/searchResults/all', {
+  getyourguide: (cosa: string, lingua: Lingua) =>
+    conParametri(SITI[lingua].gyg, { q: cosa, partner_id: AFFILIAZIONI.getyourguide.partnerId }),
+  viator: (cosa: string, lingua: Lingua) =>
+    conParametri(SITI[lingua].viator, {
       text: cosa,
       pid: AFFILIAZIONI.viator.pid,
       mcid: AFFILIAZIONI.viator.mcid,
     }),
-  amazon: (ricerca: string) => conParametri('https://www.amazon.it/s', { k: ricerca, tag: AFFILIAZIONI.amazon.tag }),
-  assicurazione: () => AFFILIAZIONI.heymondo.link || 'https://www.heymondo.it/',
-  esim: () => AFFILIAZIONI.airalo.link || 'https://www.airalo.com/it',
-  esimAlternativa: () => AFFILIAZIONI.holafly.link || 'https://esim.holafly.com/it/',
-  auto: () => AFFILIAZIONI.discovercars.link || 'https://www.discovercars.com/it',
-  voli: () => AFFILIAZIONI.skyscanner.link || 'https://www.skyscanner.it/',
+  amazon: (ricerca: string, lingua: Lingua) =>
+    conParametri(SITI[lingua].amazon, { k: ricerca, tag: AFFILIAZIONI.amazon.tag }),
+  assicurazione: (lingua: Lingua) => AFFILIAZIONI.heymondo.link || SITI[lingua].heymondo,
+  esim: (lingua: Lingua) => AFFILIAZIONI.airalo.link || SITI[lingua].airalo,
+  esimAlternativa: (lingua: Lingua) => AFFILIAZIONI.holafly.link || SITI[lingua].holafly,
+  auto: (lingua: Lingua) => AFFILIAZIONI.discovercars.link || SITI[lingua].auto,
+  voli: (lingua: Lingua) => AFFILIAZIONI.skyscanner.link || SITI[lingua].voli,
 }
 
 /** Attributi comuni dei link verso i partner. */

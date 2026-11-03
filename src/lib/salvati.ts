@@ -1,6 +1,7 @@
 'use client'
 
 import { useSyncExternalStore } from 'react'
+import { canonico } from '@/lib/i18n/percorsi'
 
 // «Il mio prossimo viaggio»: preferiti salvati nel browser (localStorage,
 // chiave `miy-salvati`). Tutti i componenti leggono lo stesso store e si
@@ -12,6 +13,7 @@ export type ElementoSalvato = {
   tipo: TipoSalvato
   id: string
   titolo: string
+  /** Percorso canonico (italiano, senza prefisso): vale in tutte le lingue, lo traduce <Link>. */
   href: string
   /** Percorso in /public (come `immagine` di destinazioni ed esperienze). */
   immagine?: string
@@ -72,7 +74,9 @@ function snapshot(): ElementoSalvato[] {
   ultimoRaw = raw
   try {
     const dati: unknown = raw ? JSON.parse(raw) : []
-    ultimoValore = Array.isArray(dati) ? dati.filter(valido) : VUOTO
+    ultimoValore = Array.isArray(dati)
+      ? dati.filter(valido).map((e) => ({ ...e, href: canonicoHref(e.href) }))
+      : VUOTO
   } catch {
     ultimoValore = VUOTO
   }
@@ -101,6 +105,14 @@ export function useSalvati(): ElementoSalvato[] {
 const stessoElemento = (a: Pick<ElementoSalvato, 'tipo' | 'id'>, b: Pick<ElementoSalvato, 'tipo' | 'id'>) =>
   a.tipo === b.tipo && a.id === b.id
 
+/** Porta un href eventualmente localizzato (/trips/…, /it/viaggi/…) alla forma canonica italiana. */
+function canonicoHref(href: string): string {
+  if (!href.startsWith('/') || href.startsWith('//')) return href
+  const i = href.search(/[?#]/)
+  const [percorso, coda] = i === -1 ? [href, ''] : [href.slice(0, i), href.slice(i)]
+  return (canonico(percorso).percorso || '/') + coda
+}
+
 function salva(lista: ElementoSalvato[]) {
   scriviRaw(JSON.stringify(lista))
   window.dispatchEvent(new Event(EVENTO))
@@ -113,7 +125,7 @@ export function isSalvato(lista: ElementoSalvato[], el: Pick<ElementoSalvato, 't
 export function aggiungiSalvato(el: ElementoSalvato) {
   const lista = snapshot()
   if (isSalvato(lista, el)) return
-  salva([...lista, el])
+  salva([...lista, { ...el, href: canonicoHref(el.href) }])
 }
 
 export function togliSalvato(el: Pick<ElementoSalvato, 'tipo' | 'id'>) {

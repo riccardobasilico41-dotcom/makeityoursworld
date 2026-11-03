@@ -3,6 +3,14 @@
 import Image from 'next/image'
 import { useCallback, useEffect, useRef, useState } from 'react'
 import { ChevronLeft, ChevronRight, X } from 'lucide-react'
+import { useLingua } from '@/lib/i18n/LinguaProvider'
+import type { Lingua } from '@/lib/i18n/config'
+
+const T = {
+  it: { apri: (alt: string) => `Apri la foto: ${alt}`, galleria: 'Galleria fotografica', chiudi: 'Chiudi', precedente: 'Foto precedente', successiva: 'Foto successiva' },
+  en: { apri: (alt: string) => `Open photo: ${alt}`, galleria: 'Photo gallery', chiudi: 'Close', precedente: 'Previous photo', successiva: 'Next photo' },
+  es: { apri: (alt: string) => `Abrir la foto: ${alt}`, galleria: 'Galería de fotos', chiudi: 'Cerrar', precedente: 'Foto anterior', successiva: 'Foto siguiente' },
+} satisfies Record<Lingua, { apri: (alt: string) => string } & Record<string, string | ((alt: string) => string)>>
 
 export type FotoGalleria = { src: string; alt: string }
 
@@ -11,6 +19,7 @@ export type FotoGalleria = { src: string; alt: string }
  * schermo intero: frecce, tastiera (← → Esc) e scorrimento col dito sul telefono.
  */
 export function Galleria({ foto }: { foto: FotoGalleria[] }) {
+  const t = T[useLingua()]
   const [aperta, setAperta] = useState<number | null>(null)
   const dialogRef = useRef<HTMLDialogElement>(null)
   const tocco = useRef<number | null>(null)
@@ -46,7 +55,7 @@ export function Galleria({ foto }: { foto: FotoGalleria[] }) {
               type="button"
               onClick={() => setAperta(i)}
               className="group relative block aspect-[4/3] h-full w-full overflow-hidden bg-cream-dark focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-rosso"
-              aria-label={`Apri la foto: ${f.alt}`}
+              aria-label={t.apri(f.alt)}
             >
               <Image
                 src={f.src}
@@ -65,7 +74,7 @@ export function Galleria({ foto }: { foto: FotoGalleria[] }) {
         onClose={() => setAperta(null)}
         onClick={(e) => e.target === e.currentTarget && setAperta(null)}
         className="m-0 h-dvh max-h-none w-screen max-w-none bg-black/95 p-0 backdrop:bg-black/80"
-        aria-label="Galleria fotografica"
+        aria-label={t.galleria}
       >
         {corrente && (
           <div
@@ -84,15 +93,15 @@ export function Galleria({ foto }: { foto: FotoGalleria[] }) {
             <p className="absolute bottom-4 left-1/2 w-[90vw] -translate-x-1/2 text-center text-sm text-cream/80">
               {corrente.alt} · {aperta! + 1}/{foto.length}
             </p>
-            <button type="button" onClick={() => setAperta(null)} className="absolute right-3 top-3 inline-flex size-12 items-center justify-center bg-cream/90 text-ink hover:bg-cream" aria-label="Chiudi">
+            <button type="button" onClick={() => setAperta(null)} className="absolute right-3 top-3 inline-flex size-12 items-center justify-center bg-cream/90 text-ink hover:bg-cream" aria-label={t.chiudi}>
               <X size={20} />
             </button>
             {foto.length > 1 && (
               <>
-                <button type="button" onClick={() => vai(-1)} className={`${freccia} left-3`} aria-label="Foto precedente">
+                <button type="button" onClick={() => vai(-1)} className={`${freccia} left-3`} aria-label={t.precedente}>
                   <ChevronLeft size={22} />
                 </button>
-                <button type="button" onClick={() => vai(1)} className={`${freccia} right-3`} aria-label="Foto successiva">
+                <button type="button" onClick={() => vai(1)} className={`${freccia} right-3`} aria-label={t.successiva}>
                   <ChevronRight size={22} />
                 </button>
               </>

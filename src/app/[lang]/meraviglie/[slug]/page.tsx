@@ -18,7 +18,9 @@ import { Container } from '@/components/ui/Container'
 import { PracticalInfo } from '@/components/ui/PracticalInfo'
 import { getAllMeraviglie, getMeraviglia } from '@/lib/meraviglie'
 import { pageMetadata } from '@/lib/seo'
-import { seoMeraviglie } from '@/content/seo-pagine'
+import { seoMeraviglia } from '@/lib/i18n/contenuti'
+import { linguaCorrente } from '@/lib/i18n/server'
+import { LOCALE, type Lingua } from '@/lib/i18n/config'
 import { JsonLd } from '@/components/JsonLd'
 import { breadcrumbJsonLd } from '@/lib/structured-data'
 import { getHeroVideoMeraviglia } from '@/content/meraviglie-hero-video'
@@ -26,8 +28,80 @@ import { creditiHeroVideoMeraviglie } from '@/content/meraviglie-hero-video-cred
 import { creditiMeraviglie } from '@/content/meraviglie-foto-crediti'
 import { PageHeader } from '@/components/ui/PageHeader'
 
+const T = {
+  it: {
+    home: 'Home',
+    meraviglie: 'Meraviglie del mondo',
+    perche: 'Perché è una meraviglia',
+    cosaVedere: 'Cosa vedere e perché',
+    tour: 'Tour organizzato o in autonomia?',
+    prenotazione: 'Prenotazione',
+    prezzi: 'Prezzi e biglietti combinati',
+    comeArrivare: 'Come arrivare',
+    inAereo: 'In aereo: ',
+    dallAeroporto: "Dall'aeroporto al sito: ",
+    spostarsi: 'Come spostarsi sul posto: ',
+    giorni: 'Giorni speciali e quando andare',
+    truffe: 'Truffe comuni da evitare',
+    errori: 'Altri errori da non fare',
+    mia: 'La mia esperienza',
+    info: 'Informazioni pratiche',
+    paese: 'Paese',
+    durata: 'Durata consigliata',
+    periodo: 'Periodo migliore',
+    dormire: 'Dove dormire',
+    avviso: 'Prezzi, orari e regole di prenotazione cambiano spesso: verificare sempre sui canali ufficiali prima di partire.',
+  },
+  en: {
+    home: 'Home',
+    meraviglie: 'Wonders of the world',
+    perche: 'Why it is a wonder',
+    cosaVedere: 'What to see and why',
+    tour: 'Guided tour or on your own?',
+    prenotazione: 'Booking',
+    prezzi: 'Prices and combined tickets',
+    comeArrivare: 'Getting there',
+    inAereo: 'By air: ',
+    dallAeroporto: 'From the airport to the site: ',
+    spostarsi: 'Getting around on site: ',
+    giorni: 'Special days and when to go',
+    truffe: 'Common scams to avoid',
+    errori: 'Other mistakes to avoid',
+    mia: 'My experience',
+    info: 'Practical information',
+    paese: 'Country',
+    durata: 'Recommended time',
+    periodo: 'Best time to go',
+    dormire: 'Where to stay',
+    avviso: 'Prices, hours and booking rules change often: always check the official channels before you go.',
+  },
+  es: {
+    home: 'Inicio',
+    meraviglie: 'Maravillas del mundo',
+    perche: 'Por qué es una maravilla',
+    cosaVedere: 'Qué ver y por qué',
+    tour: '¿Tour organizado o por tu cuenta?',
+    prenotazione: 'Reserva',
+    prezzi: 'Precios y entradas combinadas',
+    comeArrivare: 'Cómo llegar',
+    inAereo: 'En avión: ',
+    dallAeroporto: 'Del aeropuerto al sitio: ',
+    spostarsi: 'Cómo moverse por el lugar: ',
+    giorni: 'Días especiales y cuándo ir',
+    truffe: 'Estafas comunes que evitar',
+    errori: 'Otros errores que evitar',
+    mia: 'Mi experiencia',
+    info: 'Información práctica',
+    paese: 'País',
+    durata: 'Duración recomendada',
+    periodo: 'Mejor época',
+    dormire: 'Dónde dormir',
+    avviso: 'Los precios, horarios y normas de reserva cambian a menudo: comprueba siempre los canales oficiales antes de viajar.',
+  },
+} satisfies Record<Lingua, Record<string, string>>
+
 export async function generateStaticParams() {
-  return getAllMeraviglie().map((m) => ({ slug: m.slug }))
+  return getAllMeraviglie(await linguaCorrente()).map((m) => ({ slug: m.slug }))
 }
 
 export async function generateMetadata({
@@ -36,10 +110,12 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>
 }): Promise<Metadata> {
   const { slug } = await params
-  const meraviglia = getMeraviglia(slug)
+  const lingua = await linguaCorrente()
+  const meraviglia = getMeraviglia(slug, lingua)
   if (!meraviglia) return {}
-  const seo = seoMeraviglie[slug]
+  const seo = seoMeraviglia(slug, lingua)
   return pageMetadata({
+    lingua,
     title: seo?.seoTitle ?? meraviglia.titolo,
     description: seo?.seoDescription ?? meraviglia.descrizione,
     socialTitle: seo?.socialTitle,
@@ -50,7 +126,9 @@ export async function generateMetadata({
 
 export default async function MeravigliaPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
-  const meraviglia = getMeraviglia(slug)
+  const lingua = await linguaCorrente()
+  const t = T[lingua]
+  const meraviglia = getMeraviglia(slug, lingua)
   if (!meraviglia) notFound()
   const heroVideo = getHeroVideoMeraviglia(meraviglia.slug)
 
@@ -59,6 +137,7 @@ export default async function MeravigliaPage({ params }: { params: Promise<{ slu
     '@type': 'TouristAttraction',
     name: meraviglia.nome,
     description: meraviglia.descrizione,
+    inLanguage: LOCALE[lingua].html,
     address: {
       '@type': 'PostalAddress',
       addressLocality: meraviglia.citta,
@@ -73,16 +152,16 @@ export default async function MeravigliaPage({ params }: { params: Promise<{ slu
         data={[
           jsonLd,
           breadcrumbJsonLd([
-            { nome: 'Home', percorso: '/' },
-            { nome: 'Meraviglie del mondo', percorso: '/meraviglie' },
+            { nome: t.home, percorso: '/' },
+            { nome: t.meraviglie, percorso: '/meraviglie' },
             { nome: meraviglia.nome, percorso: `/meraviglie/${meraviglia.slug}` },
-          ]),
+          ], lingua),
         ]}
       />
       <PageHeader
         crumbs={[
-          { label: 'Home', href: '/' },
-          { label: 'Meraviglie del mondo', href: '/meraviglie' },
+          { label: t.home, href: '/' },
+          { label: t.meraviglie, href: '/meraviglie' },
           { label: meraviglia.nome },
         ]}
         eyebrow={`${meraviglia.paese} · ${meraviglia.citta}`}
@@ -103,12 +182,12 @@ export default async function MeravigliaPage({ params }: { params: Promise<{ slu
         <Container className="grid gap-14 lg:grid-cols-[1.6fr_1fr]">
           <div className="space-y-12">
             <div>
-              <h2 className="font-display text-2xl text-alpine">Perché è una meraviglia</h2>
+              <h2 className="font-display text-2xl text-alpine">{t.perche}</h2>
               <p className="mt-3 text-base leading-relaxed text-stone">{meraviglia.storiaBreve}</p>
             </div>
 
             <div>
-              <h2 className="font-display text-2xl text-alpine">Cosa vedere e perché</h2>
+              <h2 className="font-display text-2xl text-alpine">{t.cosaVedere}</h2>
               <div className="mt-4 space-y-4">
                 {meraviglia.sezioniDaVedere.map((sezione) => (
                   <div key={sezione.nome} className="rounded-none border border-alpine/10 bg-cream-dark/40 p-5">
@@ -120,31 +199,31 @@ export default async function MeravigliaPage({ params }: { params: Promise<{ slu
             </div>
 
             <div>
-              <h2 className="font-display text-2xl text-alpine">Tour organizzato o in autonomia?</h2>
+              <h2 className="font-display text-2xl text-alpine">{t.tour}</h2>
               <p className="mt-3 text-base leading-relaxed text-stone">{meraviglia.tourOAutonomo}</p>
             </div>
 
             <div>
-              <h2 className="font-display text-2xl text-alpine">Prenotazione</h2>
+              <h2 className="font-display text-2xl text-alpine">{t.prenotazione}</h2>
               <p className="mt-3 text-base leading-relaxed text-stone">{meraviglia.prenotazione}</p>
             </div>
 
             <div>
-              <h2 className="font-display text-2xl text-alpine">Prezzi e biglietti combinati</h2>
+              <h2 className="font-display text-2xl text-alpine">{t.prezzi}</h2>
               <p className="mt-3 text-base leading-relaxed text-stone">{meraviglia.prezzi}</p>
             </div>
 
             <div>
-              <h2 className="font-display text-2xl text-alpine">Come arrivare</h2>
+              <h2 className="font-display text-2xl text-alpine">{t.comeArrivare}</h2>
               <div className="mt-3 space-y-3 text-base leading-relaxed text-stone">
-                <p><span className="font-medium text-ink">In aereo: </span>{meraviglia.comeArrivareInternazionale}</p>
-                <p><span className="font-medium text-ink">Dall&apos;aeroporto al sito: </span>{meraviglia.comeArrivareLocale}</p>
-                <p><span className="font-medium text-ink">Come spostarsi sul posto: </span>{meraviglia.comeSpostarsi}</p>
+                <p><span className="font-medium text-ink">{t.inAereo}</span>{meraviglia.comeArrivareInternazionale}</p>
+                <p><span className="font-medium text-ink">{t.dallAeroporto}</span>{meraviglia.comeArrivareLocale}</p>
+                <p><span className="font-medium text-ink">{t.spostarsi}</span>{meraviglia.comeSpostarsi}</p>
               </div>
             </div>
 
             <div>
-              <h2 className="font-display text-2xl text-alpine">Giorni speciali e quando andare</h2>
+              <h2 className="font-display text-2xl text-alpine">{t.giorni}</h2>
               <p className="mt-3 text-base leading-relaxed text-stone">{meraviglia.giorniSpeciali}</p>
             </div>
 
@@ -152,7 +231,7 @@ export default async function MeravigliaPage({ params }: { params: Promise<{ slu
               <div className="rounded-none border border-rosso/20 bg-rosso/5 p-6">
                 <h2 className="flex items-center gap-2 font-display text-2xl text-rosso-dark">
                   <AlertTriangle size={20} />
-                  Truffe comuni da evitare
+                  {t.truffe}
                 </h2>
                 <ul className="mt-3 space-y-2 text-base leading-relaxed text-stone">
                   {meraviglia.scamDaEvitare.map((v) => (
@@ -164,7 +243,7 @@ export default async function MeravigliaPage({ params }: { params: Promise<{ slu
 
             {meraviglia.erroriDaEvitare.length > 0 && (
               <div>
-                <h2 className="font-display text-2xl text-alpine">Altri errori da non fare</h2>
+                <h2 className="font-display text-2xl text-alpine">{t.errori}</h2>
                 <ul className="mt-3 space-y-1.5 text-base leading-relaxed text-stone">
                   {meraviglia.erroriDaEvitare.map((v) => (
                     <li key={v}>· {v}</li>
@@ -175,7 +254,7 @@ export default async function MeravigliaPage({ params }: { params: Promise<{ slu
 
             {meraviglia.miaEsperienza && (
               <div>
-                <h2 className="font-display text-2xl text-alpine">La mia esperienza</h2>
+                <h2 className="font-display text-2xl text-alpine">{t.mia}</h2>
                 <p className="mt-3 font-display text-xl italic leading-relaxed text-alpine">
                   {meraviglia.miaEsperienza}
                 </p>
@@ -186,20 +265,20 @@ export default async function MeravigliaPage({ params }: { params: Promise<{ slu
 
           <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">
             <div>
-              <h2 className="font-display text-lg text-alpine">Informazioni pratiche</h2>
+              <h2 className="font-display text-lg text-alpine">{t.info}</h2>
               <PracticalInfo
                 className="mt-4"
                 items={[
-                  { label: 'Paese', value: meraviglia.paese },
-                  { label: 'Durata consigliata', value: meraviglia.durataConsigliata },
-                  { label: 'Periodo migliore', value: meraviglia.periodoMigliore },
-                  { label: 'Dove dormire', value: meraviglia.doveDormire },
+                  { label: t.paese, value: meraviglia.paese },
+                  { label: t.durata, value: meraviglia.durataConsigliata },
+                  { label: t.periodo, value: meraviglia.periodoMigliore },
+                  { label: t.dormire, value: meraviglia.doveDormire },
                 ]}
               />
             </div>
             <p className="flex items-center gap-1.5 text-xs text-stone/85">
               <ArrowUpRight size={12} />
-              Prezzi, orari e regole di prenotazione cambiano spesso: verificare sempre sui canali ufficiali prima di partire.
+              {t.avviso}
             </p>
           </aside>
         </Container>

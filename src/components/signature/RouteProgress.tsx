@@ -1,6 +1,15 @@
 'use client'
 
 import { motion, useScroll, useTransform } from 'motion/react'
+import { useLingua } from '@/lib/i18n/LinguaProvider'
+import { etichetta } from '@/lib/i18n/etichette'
+import type { Lingua } from '@/lib/i18n/config'
+
+const T = {
+  it: { di: 'di' },
+  en: { di: 'of' },
+  es: { di: 'de' },
+} satisfies Record<Lingua, Record<string, string>>
 
 /**
  * Segnaposto di percorso: sostituisce la barra di avanzamento generica con
@@ -21,6 +30,7 @@ export function RouteProgress({
   /** Sostituisce "Giorno" per i viaggi il cui `giorni[]` non rappresenta giorni di calendario (es. le zone di un roadtrip). */
   label?: string
 }) {
+  const lingua = useLingua()
   const { scrollYProgress } = useScroll({
     target: containerRef,
     offset: ['start center', 'end center'],
@@ -41,9 +51,9 @@ export function RouteProgress({
         />
       </div>
       <div className="pt-0.5 font-mono text-xs tabular-nums text-stone/85">
-        <p>{label}</p>
+        <p>{etichetta(label, lingua)}</p>
         <motion.p className="font-display text-lg text-alpine">{giornoCorrente}</motion.p>
-        <p>di {totaleGiorni}</p>
+        <p>{T[lingua].di} {totaleGiorni}</p>
       </div>
     </div>
   )

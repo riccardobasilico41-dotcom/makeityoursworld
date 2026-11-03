@@ -1,0 +1,44 @@
+{
+  "paesi": {
+    "montenegro": "montenegro",
+    "new-york": "new-york"
+  },
+  "destinazioni": {
+    "messico/citta-del-messico": "mexico-city",
+    "messico/puebla-cholula": "puebla-cholula",
+    "messico/oaxaca": "oaxaca",
+    "messico/valles-centrales-oaxaca": "central-valleys-oaxaca",
+    "messico/puerto-escondido": "puerto-escondido",
+    "messico/patzcuaro-janitzio": "patzcuaro-janitzio",
+    "messico/la-paz-baja": "la-paz-baja",
+    "messico/bahia-magdalena": "bahia-magdalena",
+    "messico/loreto": "loreto",
+    "messico/todos-santos": "todos-santos",
+    "messico/los-cabos": "los-cabos",
+    "montenegro/bocche-di-cattaro": "bay-of-kotor",
+    "montenegro/lovcen-cetinje": "lovcen-cetinje",
+    "montenegro/budva-riviera": "budva-riviera",
+    "montenegro/lago-di-scutari": "lake-skadar",
+    "montenegro/ostrog": "ostrog-monastery",
+    "montenegro/durmitor-tara": "durmitor-tara-canyon",
+    "new-york/times-square-midtown": "times-square-midtown",
+    "new-york/harlem-central-park": "harlem-central-park",
+    "new-york/rockefeller-chelsea": "rockefeller-moma-chelsea",
+    "new-york/statua-liberta-wall-street": "statue-of-liberty-wall-street",
+    "new-york/ground-zero-dumbo": "ground-zero-dumbo"
+  },
+  "esperienze": {
+    "new-york/musical-broadway": "broadway-musical",
+    "new-york/messa-gospel-harlem": "harlem-gospel-service",
+    "new-york/high-line-vessel": "high-line-vessel",
+    "new-york/statua-liberta-ellis-island": "statue-of-liberty-ellis-island",
+    "new-york/dumbo-brooklyn-bridge": "dumbo-brooklyn-bridge",
+    "new-york/top-of-the-rock": "top-of-the-rock",
+    "new-york/partita-sportiva-live": "live-sports-game"
+  },
+  "viaggi": {
+    "messico-cdmx-baja-california": "mexico-city-baja-california",
+    "messico-dia-de-los-muertos": "mexico-day-of-the-dead",
+    "montenegro-itinerario": "montenegro-itinerary"
+  }
+}

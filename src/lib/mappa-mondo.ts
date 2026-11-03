@@ -4,6 +4,26 @@ import { coordinateDestinazioni } from '@/content/mappe/coordinate'
 import { getAllPaesi, getDestinazioniByPaese, getViaggiByDestinazione } from '@/lib/geo'
 import { unaRiga } from '@/components/MappaPaeseSezione'
 import type { PinMondo } from '@/components/MappaMondo'
+import type { Lingua } from '@/lib/i18n/config'
+
+/** Nomi delle aree (la chiave è quella italiana). */
+const NOME_AREA: Record<Lingua, Record<string, string>> = {
+  it: {},
+  en: {
+    Asia: 'Asia',
+    Europa: 'Europe',
+    'Africa e Medio Oriente': 'Africa and Middle East',
+    'Nord e Centro America': 'North and Central America',
+    'Sud America': 'South America',
+  },
+  es: {
+    Asia: 'Asia',
+    Europa: 'Europa',
+    'Africa e Medio Oriente': 'África y Oriente Medio',
+    'Nord e Centro America': 'Norteamérica y Centroamérica',
+    'Sud America': 'Sudamérica',
+  },
+}
 
 /*
  * Proiezione Equal Earth (Šavrič, Patterson, Jenny 2018): aree vere, forme poco deformate,
@@ -94,7 +114,7 @@ export type DatiMappaMondo = {
 }
 
 /** Terre, punti e aree della mappa del mondo, calcolati al build (vedi /mappa-mondo.json). */
-export function datiMappaMondo(): DatiMappaMondo | null {
+export function datiMappaMondo(lingua: Lingua): DatiMappaMondo | null {
   const file = path.join(process.cwd(), 'src/content/mappe/mondo.json')
   if (!fs.existsSync(file)) return null
   const { paesi } = JSON.parse(fs.readFileSync(file, 'utf8')) as { paesi: { n: string; s?: string; p: number[][] }[] }
@@ -103,12 +123,12 @@ export function datiMappaMondo(): DatiMappaMondo | null {
 
   const pins: PinMondo[] = []
   const areaDi = new Map<string, string>()
-  for (const paese of getAllPaesi()) {
-    for (const d of getDestinazioniByPaese(paese.slug)) {
+  for (const paese of getAllPaesi(lingua)) {
+    for (const d of getDestinazioniByPaese(paese.slug, lingua)) {
       const c = coordinateDestinazioni[`${paese.slug}/${d.slug}`]
       if (!c) continue
       const [x, y] = proietta(c[1], c[0])
-      const viaggio = getViaggiByDestinazione(d)[0]
+      const viaggio = getViaggiByDestinazione(d, lingua)[0]
       areaDi.set(`${paese.slug}/${d.slug}`, AREA[paese.continente] ?? paese.continente)
       pins.push({
         id: `${paese.slug}/${d.slug}`,
@@ -138,7 +158,7 @@ export function datiMappaMondo(): DatiMappaMondo | null {
     })
     .filter((a) => a.n > 1)
     .sort((a, b) => b.n - a.n)
-    .map(({ nome, box }) => ({ nome, box }))
+    .map(({ nome, box }) => ({ nome: NOME_AREA[lingua][nome] ?? nome, box }))
 
 
   return { w: +W.toFixed(1), h: +H.toFixed(1), terre, graticola: graticola(), pins, aree, nPaesi }

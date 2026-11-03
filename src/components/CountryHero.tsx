@@ -2,16 +2,25 @@ import { ArrowRight, CalendarDays, Clock, Compass, Wallet } from 'lucide-react'
 import { InfoPratiche } from './scheda/Blocchi'
 import { HeaderAction, HeaderFacts, PageHeader } from './ui/PageHeader'
 import type { Media } from './ui/HeaderMedia'
-import { copertineViaggi } from '@/content/viaggi-copertine'
+import { copertina as copertinaViaggio } from '@/lib/i18n/contenuti'
 import { creditiCopertine } from '@/content/viaggi-copertine-crediti'
 import type { Paese } from '@/lib/types'
+import { linguaCorrente } from '@/lib/i18n/server'
+import { etichetta, etichette } from '@/lib/i18n/etichette'
+import type { Lingua } from '@/lib/i18n/config'
+
+const T = {
+  it: { home: 'Home', destinazioni: 'Destinazioni', periodo: 'Periodo migliore', durata: 'Durata consigliata', budget: 'Budget indicativo', stile: 'Stile di viaggio', itinerario: 'Scopri il mio itinerario', esplora: 'Esplora le destinazioni', inBreve: 'In breve' },
+  en: { home: 'Home', destinazioni: 'Destinations', periodo: 'Best time to go', durata: 'Recommended length', budget: 'Rough budget', stile: 'Travel style', itinerario: 'See my itinerary', esplora: 'Explore the destinations', inBreve: 'At a glance' },
+  es: { home: 'Inicio', destinazioni: 'Destinos', periodo: 'Mejor época', durata: 'Duración recomendada', budget: 'Presupuesto orientativo', stile: 'Estilo de viaje', itinerario: 'Descubre mi itinerario', esplora: 'Explora los destinos', inBreve: 'En breve' },
+} satisfies Record<Lingua, Record<string, string>>
 
 /**
  * Apertura della pagina Paese: stessa grammatica di tutte le pagine interne (`PageHeader`).
  * Foto: quella del Paese se c'è, altrimenti la copertina reale del viaggio principale
  * (con il suo credito); se manca anche quella, testata solo tipografica.
  */
-export function CountryHero({
+export async function CountryHero({
   paese,
   tripHref,
   destinazioniHref,
@@ -20,7 +29,9 @@ export function CountryHero({
   tripHref: string
   destinazioniHref: string
 }) {
-  const copertina = copertineViaggi[paese.tripPrincipaleSlug]
+  const lingua = await linguaCorrente()
+  const t = T[lingua]
+  const copertina = copertinaViaggio(paese.tripPrincipaleSlug, lingua)
   const media: Media | undefined = paese.heroImage
     ? { tipo: 'foto', src: paese.heroImage, alt: paese.heroImageAlt }
     : copertina
@@ -29,24 +40,24 @@ export function CountryHero({
   const credito = !paese.heroImage && copertina ? creditiCopertine[paese.tripPrincipaleSlug] : undefined
 
   const facts = [
-    { label: 'Periodo migliore', value: paese.periodoMigliore, icona: CalendarDays },
-    { label: 'Durata consigliata', value: paese.durataConsigliata, icona: Clock },
-    { label: 'Budget indicativo', value: paese.budgetIndicativo, icona: Wallet },
-    { label: 'Stile di viaggio', value: paese.stileViaggio.join(' · '), icona: Compass },
+    { label: t.periodo, value: paese.periodoMigliore, icona: CalendarDays },
+    { label: t.durata, value: paese.durataConsigliata, icona: Clock },
+    { label: t.budget, value: paese.budgetIndicativo, icona: Wallet },
+    { label: t.stile, value: etichette(paese.stileViaggio, lingua).join(' · '), icona: Compass },
   ]
 
   return (
     <>
       <PageHeader
-        crumbs={[{ label: 'Home', href: '/' }, { label: 'Destinazioni', href: '/destinazioni' }, { label: paese.nome }]}
-        eyebrow={paese.continente}
+        crumbs={[{ label: t.home, href: '/' }, { label: t.destinazioni, href: '/destinazioni' }, { label: paese.nome }]}
+        eyebrow={etichetta(paese.continente, lingua)}
         title={paese.nome}
         lead={<p>{paese.descrizione}</p>}
         meta={media ? undefined : <HeaderFacts items={facts} />}
         actions={
           <>
             <HeaderAction href={tripHref}>
-              Scopri il mio itinerario
+              {t.itinerario}
               <ArrowRight size={16} aria-hidden="true" />
             </HeaderAction>
             {media ? (
@@ -54,11 +65,11 @@ export function CountryHero({
                 href={destinazioniHref}
                 className="text-[0.95rem] font-semibold text-cream underline decoration-rosso decoration-2 underline-offset-[6px] hover:text-cream/80"
               >
-                Esplora le destinazioni
+                {t.esplora}
               </a>
             ) : (
               <HeaderAction href={destinazioniHref} secondary>
-                Esplora le destinazioni
+                {t.esplora}
               </HeaderAction>
             )}
           </>
@@ -67,7 +78,7 @@ export function CountryHero({
         pieno
         credito={credito}
       />
-      {media && <InfoPratiche titolo="In breve" voci={facts} />}
+      {media && <InfoPratiche titolo={t.inBreve} voci={facts} />}
     </>
   )
 }

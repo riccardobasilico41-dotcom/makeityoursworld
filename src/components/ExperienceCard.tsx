@@ -1,11 +1,20 @@
-import Link from 'next/link'
+import Link from '@/components/ui/Link'
 import Image from 'next/image'
 import { MapPin, Clock3 } from 'lucide-react'
 import type { Esperienza } from '@/lib/types'
 import { PersonalVerdict } from './ui/PersonalVerdict'
 import { plain } from '@/components/ui/Rich'
+import { linguaCorrente } from '@/lib/i18n/server'
+import type { Lingua } from '@/lib/i18n/config'
 
-export function ExperienceCard({ esperienza, paeseSlug }: { esperienza: Esperienza; paeseSlug: string }) {
+const T = {
+  it: { scopri: "Scopri l'esperienza" },
+  en: { scopri: 'See the experience' },
+  es: { scopri: 'Descubre la experiencia' },
+} satisfies Record<Lingua, Record<string, string>>
+
+export async function ExperienceCard({ esperienza, paeseSlug }: { esperienza: Esperienza; paeseSlug: string }) {
+  const t = T[await linguaCorrente()]
   return (
     <Link
       href={`/esperienze/${paeseSlug}/${esperienza.slug}`}
@@ -37,7 +46,7 @@ export function ExperienceCard({ esperienza, paeseSlug }: { esperienza: Esperien
         </div>
         <p className="text-sm leading-relaxed text-stone">{plain(esperienza.percheFarla)}</p>
         <span className="mt-auto inline-flex items-center pt-1 text-sm font-medium text-rosso">
-          Scopri l&apos;esperienza
+          {t.scopri}
         </span>
       </div>
     </Link>

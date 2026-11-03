@@ -1,7 +1,27 @@
-import Link from 'next/link'
+import Link from '@/components/ui/Link'
 import { ArrowRight } from 'lucide-react'
 import type { PuntoTappa } from './geo'
 import { HeroVideo } from './HeroVideo'
+import { linguaCorrente } from '@/lib/i18n/server'
+import type { Lingua } from '@/lib/i18n/config'
+
+const T = {
+  it: {
+    label: 'Runaway: montaggio video dei nostri viaggi in giro per il mondo',
+    scopri: 'Scopri gli itinerari',
+    sfoglia: 'Sfoglia per Paese',
+  },
+  en: {
+    label: 'Runaway: a video montage of our trips around the world',
+    scopri: 'Discover the itineraries',
+    sfoglia: 'Browse by country',
+  },
+  es: {
+    label: 'Runaway: montaje de vídeo de nuestros viajes por el mundo',
+    scopri: 'Descubre los itinerarios',
+    sfoglia: 'Explora por país',
+  },
+} satisfies Record<Lingua, Record<string, string>>
 
 /**
  * Apertura della Home: il montaggio «Runaway» dei nostri viaggi a tutto
@@ -27,7 +47,7 @@ function dividiTagline(tagline: string): [string, string] {
   return [parole.slice(0, -3).join(' '), parole.slice(-3).join(' ')]
 }
 
-export function CinematicHero({
+export async function CinematicHero({
   tagline,
   subtext,
 }: {
@@ -35,6 +55,7 @@ export function CinematicHero({
   subtext: string
   routeTappe?: PuntoTappa[]
 }) {
+  const t = T[await linguaCorrente()]
   const [inizio, fine] = dividiTagline(tagline)
 
   return (
@@ -44,7 +65,7 @@ export function CinematicHero({
           src={HERO_VIDEO.src}
           srcMobile={HERO_VIDEO.srcMobile}
           poster={HERO_VIDEO.poster}
-          label={HERO_VIDEO.label}
+          label={t.label}
           introFino={HERO_VIDEO.introFino}
         />
         {/* Sfumature per la leggibilità: dal basso (dove sta il testo) e da sinistra. */}
@@ -70,14 +91,14 @@ export function CinematicHero({
             href="/viaggi"
             className="inline-flex min-h-12 items-center gap-2 bg-rosso px-6 py-3 text-[0.95rem] font-semibold text-cream transition-colors duration-150 hover:bg-rosso-dark focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cream focus-visible:ring-offset-2 focus-visible:ring-offset-ink"
           >
-            Scopri gli itinerari
+            {t.scopri}
             <ArrowRight size={16} aria-hidden="true" />
           </Link>
           <Link
             href="/destinazioni"
             className="text-[0.95rem] font-semibold text-cream underline decoration-rosso decoration-2 underline-offset-[6px] hover:text-[oklch(80%_0.12_32)]"
           >
-            Sfoglia per Paese
+            {t.sfoglia}
           </Link>
         </div>
       </div>

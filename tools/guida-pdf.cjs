@@ -29,7 +29,7 @@ if (!slug || !nome) {
   const page = await browser.newPage()
   const parti = []
   for (const parte of ['copertina', 'interno']) {
-    await page.goto(`http://localhost:${porta}/guide/${slug}/stampa?parte=${parte}`, { waitUntil: 'load', timeout: 600000 })
+    await page.goto(`http://localhost:${porta}/it/guide/${slug}/stampa?parte=${parte}`, { waitUntil: 'load', timeout: 600000 })
     await page.evaluate(async () => {
       await document.fonts.ready
       await Promise.all([...document.images].map((i) => (i.complete ? null : new Promise((r) => { i.onload = i.onerror = r }))))

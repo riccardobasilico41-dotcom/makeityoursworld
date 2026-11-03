@@ -1,0 +1,57 @@
+{
+  "paesi": {
+    "svezia": "sweden",
+    "svizzera": "switzerland",
+    "thailandia": "thailand",
+    "transilvania": "transylvania"
+  },
+  "destinazioni": {
+    "svizzera/interlaken": "interlaken",
+    "svizzera/lauterbrunnen": "lauterbrunnen",
+    "svizzera/grindelwald": "grindelwald",
+    "svizzera/jungfraujoch": "jungfraujoch",
+    "svizzera/muerren-schilthorn": "muerren-schilthorn",
+    "svizzera/grimsel-furka": "grimsel-furka-passes",
+    "svizzera/zermatt": "zermatt",
+    "thailandia/bangkok": "bangkok",
+    "thailandia/hua-hin": "hua-hin",
+    "thailandia/sam-roi-yot-kui-buri": "sam-roi-yot-kui-buri",
+    "thailandia/khao-sok": "khao-sok",
+    "thailandia/krabi": "krabi",
+    "thailandia/koh-phi-phi": "koh-phi-phi",
+    "thailandia/chiang-mai": "chiang-mai",
+    "thailandia/phuket-similan": "phuket-similan-islands",
+    "thailandia/golfo-thailandia": "gulf-of-thailand",
+    "transilvania/bucarest": "bucharest",
+    "transilvania/peles-bran": "peles-bran-castles",
+    "transilvania/brasov": "brasov",
+    "transilvania/sighisoara-salina-turda": "sighisoara-turda-salt-mine",
+    "transilvania/sibiu-transfagarasan": "sibiu-transfagarasan"
+  },
+  "esperienze": {
+    "svezia/aurora-sky-station": "aurora-sky-station",
+    "svezia/motoslitta-lago-ghiacciato": "snowmobile-frozen-lake",
+    "svezia/husky-sledding-caccia-aurora": "husky-sledding-aurora-hunt",
+    "svezia/icehotel-jukkasjarvi": "icehotel-jukkasjarvi",
+    "svezia/miniera-lkab-kiruna": "lkab-mine-kiruna",
+    "svezia/vasamuseet-stoccolma": "vasa-museum-stockholm",
+    "svezia/gamla-stan-passeggiata": "gamla-stan-walk",
+    "svezia/abba-museum-stoccolma": "abba-museum-stockholm",
+    "svezia/arcipelago-stoccolma-in-barca": "stockholm-archipelago-boat-trip",
+    "svizzera/jungfraujoch-top-of-europe": "jungfraujoch-top-of-europe",
+    "svizzera/via-ferrata-muerren-gimmelwald": "muerren-gimmelwald-via-ferrata",
+    "svizzera/giro-battello-laghi-thun-brienz": "boat-trip-lakes-thun-brienz",
+    "svizzera/trummelbachfalle": "trummelbach-falls",
+    "thailandia/jay-fai-bangkok": "jay-fai-bangkok",
+    "thailandia/crociera-cheow-lan": "cheow-lan-sunset-cruise",
+    "thailandia/bond-island-canoa": "bond-island-canoe",
+    "thailandia/elephant-nature-park": "elephant-nature-park",
+    "thailandia/snorkeling-similan": "similan-snorkeling",
+    "thailandia/full-moon-party": "full-moon-party"
+  },
+  "viaggi": {
+    "lapponia-svedese-abisko": "swedish-lapland-abisko",
+    "svizzera-alpi-van": "switzerland-alps-van",
+    "thailandia": "thailand"
+  }
+}

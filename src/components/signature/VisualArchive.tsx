@@ -1,4 +1,4 @@
-import Link from 'next/link'
+import Link from '@/components/ui/Link'
 import Image from 'next/image'
 import { ArrowUpRight } from 'lucide-react'
 import { Container } from '@/components/ui/Container'
@@ -7,6 +7,15 @@ import { FieldDossier } from './FieldDossier'
 import { getContinente } from '@/lib/utils'
 import type { Viaggio } from '@/lib/viaggi'
 import type { CopertinaViaggio } from '@/content/viaggi-copertine'
+import { linguaCorrente } from '@/lib/i18n/server'
+import { etichetta } from '@/lib/i18n/etichette'
+import type { Lingua } from '@/lib/i18n/config'
+
+const T = {
+  it: { archivio: "L'archivio dei viaggi", tutti: 'Vedi tutti i viaggi' },
+  en: { archivio: 'The trip archive', tutti: 'See all trips' },
+  es: { archivio: 'El archivo de viajes', tutti: 'Ver todos los viajes' },
+} satisfies Record<Lingua, Record<string, string>>
 
 /**
  * Archivio visivo: scorrimento orizzontale nativo (scroll-snap, nessun
@@ -15,25 +24,27 @@ import type { CopertinaViaggio } from '@/content/viaggi-copertine'
  * ritmo, stessa dimensione: una copertina mancante non deve leggersi come
  * "la versione rotta" della tessera con foto.
  */
-export function VisualArchive({
+export async function VisualArchive({
   viaggi,
   copertine,
 }: {
   viaggi: Viaggio[]
   copertine: Record<string, CopertinaViaggio>
 }) {
+  const lingua = await linguaCorrente()
+  const t = T[lingua]
   return (
     <section className="border-t border-alpine/10 py-24 sm:py-32">
       <Container className="mb-10">
         <div className="flex flex-wrap items-end justify-between gap-4">
           <h2 className="max-w-xl font-display text-[clamp(2rem,3.4vw,3rem)] text-balance text-alpine">
-            L&apos;archivio dei viaggi
+            {t.archivio}
           </h2>
           <Link
             href="/viaggi"
             className="group inline-flex items-center gap-2 text-sm font-medium text-rosso hover:underline"
           >
-            Vedi tutti i viaggi
+            {t.tutti}
             <ArrowUpRight size={15} className="transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
           </Link>
         </div>
@@ -42,7 +53,7 @@ export function VisualArchive({
       <Reveal>
         <div className="flex snap-x snap-mandatory gap-5 overflow-x-auto pb-6 pl-6 sm:pl-8 [scrollbar-width:thin]">
           {viaggi.map((viaggio) => {
-            const continente = getContinente(viaggio.categorie)
+            const continente = etichetta(getContinente(viaggio.categorie), lingua)
             const copertina = copertine[viaggio.slug]
             return (
               <Link

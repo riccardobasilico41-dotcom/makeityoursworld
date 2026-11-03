@@ -1,0 +1,33 @@
+{
+  "paesi": {
+    "cina": "china",
+    "corea-del-sud": "south-korea"
+  },
+  "destinazioni": {
+    "corea-del-sud/seoul": "seoul",
+    "corea-del-sud/dmz": "dmz-panmunjom",
+    "corea-del-sud/sokcho-seoraksan": "sokcho-seoraksan",
+    "corea-del-sud/andong": "andong-hahoe",
+    "corea-del-sud/gyeongju": "gyeongju",
+    "corea-del-sud/busan": "busan",
+    "corea-del-sud/jeonju": "jeonju",
+    "corea-del-sud/jeju": "jeju-haenyeo"
+  },
+  "esperienze": {
+    "corea-del-sud/tour-dmz-terzo-tunnel": "dmz-tour-third-tunnel",
+    "corea-del-sud/jsa-panmunjom": "jsa-panmunjom",
+    "corea-del-sud/haenyeo-jeju": "haenyeo-jeju",
+    "corea-del-sud/seongsan-ilchulbong": "seongsan-ilchulbong-sunrise",
+    "corea-del-sud/hallasan": "hallasan-climb",
+    "corea-del-sud/gyeongbokgung-hanbok": "gyeongbokgung-in-hanbok",
+    "corea-del-sud/gwangjang-cibo-strada": "gwangjang-market-dinner",
+    "corea-del-sud/jjimjilbang": "jjimjilbang-night",
+    "corea-del-sud/bulguksa-seokguram": "bulguksa-seokguram",
+    "corea-del-sud/templestay": "templestay",
+    "corea-del-sud/gamcheon-busan": "gamcheon-village-busan"
+  },
+  "viaggi": {
+    "cina-classica": "classic-china",
+    "cina-paesaggi": "other-china"
+  }
+}

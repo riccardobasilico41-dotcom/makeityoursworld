@@ -1,10 +1,18 @@
-import Link from 'next/link'
+import Link from '@/components/ui/Link'
 import Image from 'next/image'
 import { ArrowUpRight, Compass, Mountain, TreePalm, Landmark, Sun, Waves, type LucideProps } from 'lucide-react'
 import type { Viaggio } from '@/lib/viaggi'
 import { getContinente } from '@/lib/utils'
 import { FeaturedBorderTrail } from './FeaturedBorderTrail'
-import { copertineViaggi } from '@/content/viaggi-copertine'
+import { useLingua } from '@/lib/i18n/LinguaProvider'
+import { etichetta } from '@/lib/i18n/etichette'
+import type { Lingua } from '@/lib/i18n/config'
+
+const T = {
+  it: { leggi: "Leggi l'itinerario" },
+  en: { leggi: 'Read the itinerary' },
+  es: { leggi: 'Lee el itinerario' },
+} satisfies Record<Lingua, Record<string, string>>
 
 const GRADIENTS: Record<string, string> = {
   Europa: 'from-[#2c4a6b] to-[#0f2439]',
@@ -38,7 +46,10 @@ function IconaContinente({ continente, ...props }: { continente: string } & Luci
 export type ViaggioScheda = Pick<
   Viaggio,
   'slug' | 'titolo' | 'descrizione' | 'categorie' | 'tags' | 'durata' | 'durataBreve' | 'periodoBreve'
->
+> & {
+  /** Copertina nella lingua della pagina (foto + testo alternativo), se il viaggio ne ha una. */
+  copertina?: { immagine: string; imageAlt: string }
+}
 
 export function riduciPerScheda(v: Viaggio): ViaggioScheda {
   return {
@@ -54,8 +65,10 @@ export function riduciPerScheda(v: Viaggio): ViaggioScheda {
 }
 
 export function TripCard({ viaggio, featured = false }: { viaggio: ViaggioScheda; featured?: boolean }) {
+  const lingua = useLingua()
+  const t = T[lingua]
   const continente = getContinente(viaggio.categorie)
-  const copertina = copertineViaggi[viaggio.slug]
+  const copertina = viaggio.copertina
 
   return (
     <Link
@@ -88,7 +101,7 @@ export function TripCard({ viaggio, featured = false }: { viaggio: ViaggioScheda
           />
         )}
         <p className="relative z-10 text-xs font-semibold uppercase tracking-[0.18em] text-cream/70">
-          {continente}
+          {etichetta(continente, lingua)}
         </p>
       </div>
       <div className="flex flex-1 flex-col gap-3 p-6">
@@ -105,7 +118,7 @@ export function TripCard({ viaggio, featured = false }: { viaggio: ViaggioScheda
           {viaggio.durataBreve && <span>· {viaggio.durataBreve}</span>}
         </div>
         <span className="inline-flex items-center gap-1.5 text-sm font-medium text-rosso">
-          Leggi l&apos;itinerario
+          {t.leggi}
           <ArrowUpRight size={14} className="transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
         </span>
       </div>

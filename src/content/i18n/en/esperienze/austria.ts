@@ -1,0 +1,70 @@
+import type { Esperienza } from '@/lib/types'
+
+export const esperienzeAustria: Esperienza[] = [
+  {
+    slug: 'vienna-schonbrunn-biglietto',
+    paeseSlug: 'austria',
+    destinazioneSlug: 'vienna',
+    nome: 'Visit to Schönbrunn Palace',
+    localita: 'Schönbrunn, Vienna',
+    cosE:
+      "The tour of the summer residence of the Habsburg imperial family, with access to a selection of historic rooms (out of about 1,400 in all) including the apartments of Empress Sisi and Emperor Franz Joseph; tickets come in several tiers, from the basic Imperial Tour to the more extensive Grand Tour, with or without access to the gardens and the Gloriette.",
+    percheFarla:
+      "Because Schönbrunn is the most visited monument in Austria and tells, better than any other place in the city, how the Habsburg court lived: state rooms, private apartments and a Baroque park that alone takes up half a day.",
+    durata: 'about 1-1.5 hours for the tour of the rooms, half a day if you add the gardens and the Gloriette',
+    periodo: 'all year; the palace has longer hours in summer (until 6:00 pm) and shorter ones in winter (until 5:00 pm); the park is free and always accessible during opening hours',
+    costo: 'the basic tour starts from about €26 per adult; the gardens and the park are free, the Gloriette and the maze have a separate ticket',
+    comePrenotare: "Official sales only online on the Schönbrunn website; it's best to buy a timed-entry ticket in advance, especially in high season, to avoid the lines on site.",
+    cosaPortare: 'No special equipment; comfortable shoes for the park, which is very large.',
+    perChiEAdatta: 'Suitable for almost everyone; unbooked lines in high season make it more tiring with small children.',
+    giudizio: 'da-verificare',
+    alternative: ['Visit only the park and the Gloriette, free (apart from the ticket to climb the Gloriette), for those short on time or with a limited budget'],
+    tripSlugs: ['vienna-weekend'],
+    imageAlt: 'The yellow facade of Schönbrunn Palace in Vienna seen from the gardens, with flower beds in the foreground',
+    immagine: '/images/austria/vienna-schonbrunn-biglietto.jpg',
+  },
+  {
+    slug: 'vienna-opera-stehplatz',
+    paeseSlug: 'austria',
+    destinazioneSlug: 'vienna',
+    nome: 'Standing ticket (Stehplatz) at the Vienna State Opera',
+    localita: 'Wiener Staatsoper, Innere Stadt, Vienna',
+    cosE:
+      "The standing tickets of the Wiener Staatsoper, sold on the day of the performance: 435 standing places spread over three sections (Stehparterre in the orchestra, Galerie in the gallery, Balkon in the balcony), with the quirk that, despite the name, most of the audience ends up sitting on the carpet for the length of the performance.",
+    percheFarla:
+      "Because it's one of the cheapest ways in the world to see a top-level opera or ballet performance in one of the most prestigious halls in Europe. And it's a well-established Viennese custom, as well as a saving.",
+    durata: 'the length of the performance, generally 2-3.5 hours depending on the title on the bill',
+    periodo: 'opera season from September to June; the Opera is closed in summer',
+    costo: 'from about €13 (Balkon) to about €18 (Stehparterre) per ticket, depending on the section',
+    comePrenotare: "Standing tickets are sold only on the day and can't be booked in advance: a first batch online from 10:00 am, a second at the dedicated box office starting 80 minutes before the performance begins.",
+    cosaPortare: 'A scarf or a handkerchief: it is still customary, among those who queue early, to tie one to the railing to symbolically "reserve" a standing spot, an informal custom respected by regular audiences.',
+    perChiEAdatta: "Suitable for those who don't mind standing (or sitting on the floor) for several hours; less suitable for those with mobility problems or who want the comfort of a numbered seat.",
+    giudizio: 'da-verificare',
+    alternative: ['A seated ticket in the cheaper categories, bookable in advance online, for those who prefer the certainty of an assigned seat'],
+    tripSlugs: ['vienna-weekend'],
+    imageAlt: 'The Wiener Staatsoper building lit up in the evening, with the light trails of traffic on the Ring in the foreground',
+    immagine: '/images/austria/vienna-opera-stehplatz.jpg',
+  },
+  {
+    slug: 'vienna-giro-caffe-storici',
+    paeseSlug: 'austria',
+    destinazioneSlug: 'vienna',
+    nome: 'A tour of Vienna\'s historic cafés',
+    localita: 'Innere Stadt, Vienna',
+    cosE:
+      "A route through two or three historic cafés in the center, usually chosen from Café Central, Café Sacher, Café Landtmann and Café Hawelka (each has its own identity and history), to taste the main varieties of Viennese coffee (from the Melange to the Einspänner) along with the traditional pastries, from Sachertorte to Apfelstrudel.",
+    percheFarla:
+      "Because Viennese Kaffeehauskultur has been UNESCO intangible cultural heritage since 2011: in the UNESCO nomination's own definition the historic café is \"a place where time and space are consumed, but only the coffee appears on the bill\". It tells the story of the city as much as its monuments do.",
+    durata: 'about 2-3 hours for a leisurely round of two or three cafés',
+    periodo: 'all year, since it is an indoor experience',
+    costo: 'a coffee with a dessert in a historic café in the center costs roughly €8-14 per person per stop',
+    comePrenotare: 'No reservation needed for most cafés, except for special occasions or large groups; at the best-known cafés (Central, Sacher) a short line can form at peak hours.',
+    cosaPortare: 'No special equipment; handy to have cash for the more traditional cafés, although cards are now accepted almost everywhere.',
+    perChiEAdatta: 'Suitable for everyone; for those short on time, even a single stop in a historic café is enough to get an idea of the custom.',
+    giudizio: 'da-verificare',
+    alternative: ['A neighborhood café outside the more touristy center, cheaper and just as authentic for those who want to avoid the prices of the most famous names'],
+    tripSlugs: ['vienna-weekend'],
+    imageAlt: 'The decorated groin vaults and globe chandeliers of Café Central in Vienna, with the neo-Gothic style columns',
+    immagine: '/images/austria/vienna-giro-caffe-storici.jpg',
+  },
+]

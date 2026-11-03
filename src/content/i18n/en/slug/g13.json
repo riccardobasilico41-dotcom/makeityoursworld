@@ -1,0 +1,31 @@
+{
+  "paesi": {
+    "india": "india",
+    "indonesia": "indonesia"
+  },
+  "destinazioni": {
+    "indonesia/sumatra": "sumatra",
+    "indonesia/giava": "java",
+    "indonesia/bali": "bali",
+    "indonesia/sulawesi": "sulawesi",
+    "indonesia/lombok-gili": "lombok-gili",
+    "indonesia/komodo": "komodo",
+    "indonesia/flores": "flores",
+    "indonesia/raja-ampat": "raja-ampat"
+  },
+  "esperienze": {
+    "indonesia/trekking-oranghi-bukit-lawang": "orangutan-trekking-bukit-lawang",
+    "indonesia/alba-bromo-jeep": "bromo-sunrise-jeep",
+    "indonesia/giornata-nusa-penida": "nusa-penida-day-trip",
+    "indonesia/diving-bunaken-national-park": "diving-bunaken-national-park",
+    "indonesia/trekking-gunung-rinjani": "mount-rinjani-trek",
+    "indonesia/trekking-draghi-komodo": "komodo-dragon-trek",
+    "indonesia/alba-kelimutu": "kelimutu-sunrise",
+    "indonesia/diving-liveaboard-raja-ampat": "raja-ampat-liveaboard-diving"
+  },
+  "viaggi": {
+    "india-rajasthan-10-giorni": "india-rajasthan-10-days",
+    "india-rajasthan-varanasi": "india-rajasthan-varanasi",
+    "india-sud-taj-mahal": "south-india-taj-mahal"
+  }
+}

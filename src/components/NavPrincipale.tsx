@@ -1,9 +1,18 @@
 'use client'
 
 import { useEffect, useRef, useState } from 'react'
-import Link from 'next/link'
+import Link from '@/components/ui/Link'
 import { usePathname } from 'next/navigation'
 import { ChevronDown, Menu, X } from 'lucide-react'
+import { useLingua } from '@/lib/i18n/LinguaProvider'
+import { SelettoreLingua } from './SelettoreLingua'
+import type { Lingua } from '@/lib/i18n/config'
+
+const T = {
+  it: { principale: 'Principale', menu: 'Menu' },
+  en: { principale: 'Main', menu: 'Menu' },
+  es: { principale: 'Principal', menu: 'Menú' },
+} satisfies Record<Lingua, Record<string, string>>
 
 export type VoceMenu = { nome: string; href: string }
 export type GruppoMenu = { nome: string; voci: VoceMenu[]; tutti: VoceMenu }
@@ -15,6 +24,7 @@ export type GruppoMenu = { nome: string; voci: VoceMenu[]; tutti: VoceMenu }
  * a fisarmonica.
  */
 export function NavPrincipale({ gruppi }: { gruppi: GruppoMenu[] }) {
+  const t = T[useLingua()]
   const [aperto, setAperto] = useState<string | null>(null)
   const [mobile, setMobile] = useState(false)
   const pathname = usePathname()
@@ -52,8 +62,8 @@ export function NavPrincipale({ gruppi }: { gruppi: GruppoMenu[] }) {
   return (
     <div ref={ref}>
       {/* Desktop */}
-      <nav aria-label="Principale" className="hidden xl:block">
-        <ul className="flex items-center gap-x-5">
+      <nav aria-label={t.principale} className="hidden xl:block">
+        <ul className="flex items-center gap-x-4 2xl:gap-x-5">
           {gruppi.map((g) => {
             const id = `menu-${g.nome.replace(/\W+/g, '-').toLowerCase()}`
             const isOpen = aperto === g.nome
@@ -107,16 +117,16 @@ export function NavPrincipale({ gruppi }: { gruppi: GruppoMenu[] }) {
           aria-expanded={mobile}
           aria-controls="menu-mobile"
           onClick={() => setMobile((m) => !m)}
-          aria-label="Menu"
+          aria-label={t.menu}
           className="inline-flex min-h-11 min-w-11 items-center justify-center gap-2 whitespace-nowrap text-[0.95rem] font-semibold text-ink"
         >
           {mobile ? <X size={20} aria-hidden="true" /> : <Menu size={20} aria-hidden="true" />}
           {/* sotto i 420 px resta solo l'icona: marchio, menu, cerca e cuore stanno così su una riga */}
-          <span aria-hidden="true" className="hidden min-[420px]:inline">Menu</span>
+          <span aria-hidden="true" className="hidden min-[420px]:inline">{t.menu}</span>
         </button>
         <nav
           id="menu-mobile"
-          aria-label="Principale"
+          aria-label={t.principale}
           hidden={!mobile}
           className="absolute inset-x-0 top-full z-50 max-h-[80svh] overflow-y-auto border-y-2 border-ink bg-cream px-4 pb-6 sm:px-8"
         >
@@ -146,6 +156,10 @@ export function NavPrincipale({ gruppi }: { gruppi: GruppoMenu[] }) {
               </li>
             ))}
           </ul>
+          {/* sotto i 420 px il selettore non sta nell'header: lo si trova qui */}
+          <div className="pt-4 min-[420px]:hidden">
+            <SelettoreLingua />
+          </div>
         </nav>
       </div>
     </div>

@@ -1,0 +1,28 @@
+{
+  "paesi": {
+    "egitto": "egypt",
+    "emirati-arabi-uniti": "united-arab-emirates"
+  },
+  "destinazioni": {
+    "egitto/cairo": "cairo",
+    "egitto/piramidi": "pyramids",
+    "egitto/luxor": "luxor",
+    "egitto/assuan-abu-simbel": "aswan-abu-simbel",
+    "egitto/siwa": "siwa-oasis",
+    "egitto/mar-rosso": "red-sea",
+    "emirati-arabi-uniti/dubai": "dubai",
+    "emirati-arabi-uniti/abu-dhabi": "abu-dhabi",
+    "emirati-arabi-uniti/liwa-al-ain": "liwa-al-ain"
+  },
+  "esperienze": {
+    "emirati-arabi-uniti/creek-souq-dubai": "dubai-creek-abra-souks",
+    "emirati-arabi-uniti/deserto-emirati": "night-in-the-desert",
+    "emirati-arabi-uniti/moschea-sheikh-zayed": "sheikh-zayed-grand-mosque",
+    "emirati-arabi-uniti/louvre-abu-dhabi": "louvre-abu-dhabi"
+  },
+  "viaggi": {
+    "capitali-nordiche": "nordic-capitals",
+    "egitto-completo": "complete-egypt",
+    "egitto-mare-luxor-cairo": "egypt-cairo-luxor-red-sea"
+  }
+}

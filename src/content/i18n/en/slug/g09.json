@@ -1,0 +1,19 @@
+{
+  "paesi": { "francia": "france" },
+  "destinazioni": {
+    "francia/costa-azzurra": "french-riviera",
+    "francia/parigi": "paris",
+    "francia/normandia": "normandy",
+    "francia/bretagna": "brittany",
+    "francia/castelli-loira": "loire-valley-chateaux",
+    "francia/bordeaux": "bordeaux",
+    "francia/vigneti-di-francia": "wine-routes",
+    "francia/provenza": "provence",
+    "francia/camargue": "camargue",
+    "francia/occitania": "occitanie-languedoc",
+    "francia/sciare-in-francia": "skiing-in-france",
+    "francia/montagne-francesi": "hiking-french-mountains"
+  },
+  "esperienze": {},
+  "viaggi": {}
+}

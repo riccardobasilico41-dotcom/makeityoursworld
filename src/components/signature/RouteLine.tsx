@@ -1,8 +1,16 @@
 'use client'
 
-import Link from 'next/link'
+import Link from '@/components/ui/Link'
 import { motion, useReducedMotion } from 'motion/react'
 import { proiettaPercorso, costruisciPath, ROUTE_VIEWBOX, type PuntoTappa } from './geo'
+import { useLingua } from '@/lib/i18n/LinguaProvider'
+import type { Lingua } from '@/lib/i18n/config'
+
+const T = {
+  it: { percorso: 'Percorso' },
+  en: { percorso: 'Route' },
+  es: { percorso: 'Ruta' },
+} satisfies Record<Lingua, Record<string, string>>
 
 /**
  * Linea di rotta animata: il primitivo cartografico condiviso da Homepage
@@ -30,6 +38,7 @@ export function RouteLine({
   strokeClassName?: string
   labelClassName?: string
 }) {
+  const lingua = useLingua()
   const reduceMotion = useReducedMotion()
   const { punti } = proiettaPercorso(tappe)
   if (punti.length === 0) return null
@@ -69,7 +78,7 @@ export function RouteLine({
         viewBox={ROUTE_VIEWBOX}
         className={`w-full overflow-visible ${className || 'h-24'}`}
         role="img"
-        aria-label={`Percorso: ${tappe.map((t) => t.nome).join(' → ')}`}
+        aria-label={`${T[lingua].percorso}: ${tappe.map((t) => t.nome).join(' → ')}`}
       >
         <motion.path
           d={d}

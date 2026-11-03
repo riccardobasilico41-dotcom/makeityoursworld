@@ -2,6 +2,13 @@ import { ImageResponse } from 'next/og'
 import { readFile } from 'node:fs/promises'
 import path from 'node:path'
 import { siteConfig } from './site-config'
+import type { Lingua } from './i18n/config'
+
+const T = {
+  it: { firma: 'di Rick' },
+  en: { firma: 'by Rick' },
+  es: { firma: 'por Rick' },
+} satisfies Record<Lingua, { firma: string }>
 
 export const OG_SIZE = { width: 1200, height: 630 }
 // JPEG e non PNG: con una foto a tutto campo il PNG pesa 1-2 MB, troppo per
@@ -100,6 +107,7 @@ export async function ogImage({
   eyebrow,
   titolo,
   immagine,
+  lingua,
 }: {
   /** Etichetta breve: Paese o continente. */
   eyebrow: string
@@ -108,6 +116,8 @@ export async function ogImage({
   immagine?: string
   /** Non più mostrato: tenuto per compatibilità con le chiamate esistenti. */
   sottotitolo?: string
+  /** Lingua della card: cambia la firma. */
+  lingua: Lingua
 }) {
   const [fonts, foto, faccia] = await Promise.all([caricaFont(), fotoDataUrl(immagine, OG_SIZE), avatar()])
   const conFoto = Boolean(foto)
@@ -225,7 +235,7 @@ export async function ogImage({
                   style={{ width: 92, height: 92, borderRadius: 46, border: `3px solid ${conFoto ? PANNA : INCHIOSTRO}`, objectFit: 'cover' }}
                 />
               ) : null}
-              <div style={{ display: 'flex', fontSize: 24, color: testo }}>di Rick</div>
+              <div style={{ display: 'flex', fontSize: 24, color: testo }}>{T[lingua].firma}</div>
             </div>
           </div>
         </div>

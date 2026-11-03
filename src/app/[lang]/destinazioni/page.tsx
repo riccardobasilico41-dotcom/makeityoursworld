@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import Image from 'next/image'
-import Link from 'next/link'
+import Link from '@/components/ui/Link'
 import { ArrowUpRight } from 'lucide-react'
 import { Container } from '@/components/ui/Container'
 import { PageHeader } from '@/components/ui/PageHeader'
@@ -12,36 +12,79 @@ import { pageMetadata } from '@/lib/seo'
 import { JsonLd } from '@/components/JsonLd'
 import { MappaMondoSezione } from '@/components/MappaMondoSezione'
 import { raccoltaJsonLd } from '@/lib/structured-data'
+import { linguaCorrente } from '@/lib/i18n/server'
+import { etichetta } from '@/lib/i18n/etichette'
+import type { Lingua } from '@/lib/i18n/config'
 
-export const metadata: Metadata = pageMetadata({
-  title: 'Destinazioni',
-  description: `I Paesi esplorati in profondità su ${siteConfig.brandName}, divisi per macro-regione: destinazioni ed esperienze, non solo l'itinerario completo.`,
-  path: '/destinazioni',
-})
+const T = {
+  it: {
+    home: 'Home',
+    titolo: 'Destinazioni',
+    metaDesc: (brand: string) => `I Paesi esplorati in profondità su ${brand}, divisi per macro-regione: destinazioni ed esperienze, non solo l'itinerario completo.`,
+    jsonDesc: (brand: string) => `I Paesi esplorati in profondità su ${brand}.`,
+    eyebrow: 'Paese per Paese',
+    lead: (n: number) => `${n} Paesi divisi per macro-regione: scegline uno per esplorarlo destinazione per destinazione ed esperienza per esperienza, non solo come itinerario unico.`,
+    paese: 'Paese',
+    paesi: 'Paesi',
+    esplora: 'Esplora il Paese',
+  },
+  en: {
+    home: 'Home',
+    titolo: 'Destinations',
+    metaDesc: (brand: string) => `The countries I explored in depth on ${brand}, grouped by region: destinations and experiences, not just the full itinerary.`,
+    jsonDesc: (brand: string) => `The countries I explored in depth on ${brand}.`,
+    eyebrow: 'Country by country',
+    lead: (n: number) => `${n} countries grouped by region: pick one to explore it destination by destination and experience by experience, not just as a single itinerary.`,
+    paese: 'country',
+    paesi: 'countries',
+    esplora: 'Explore the country',
+  },
+  es: {
+    home: 'Inicio',
+    titolo: 'Destinos',
+    metaDesc: (brand: string) => `Los países explorados a fondo en ${brand}, agrupados por región: destinos y experiencias, no solo el itinerario completo.`,
+    jsonDesc: (brand: string) => `Los países explorados a fondo en ${brand}.`,
+    eyebrow: 'País por país',
+    lead: (n: number) => `${n} países agrupados por región: elige uno para explorarlo destino a destino y experiencia a experiencia, no solo como un itinerario único.`,
+    paese: 'país',
+    paesi: 'países',
+    esplora: 'Explora el país',
+  },
+} satisfies Record<Lingua, Record<string, string | ((a: never) => string)>>
 
-export default function DestinazioniIndexPage() {
-  const paesi = getAllPaesi()
+export async function generateMetadata(): Promise<Metadata> {
+  const lingua = await linguaCorrente()
+  const t = T[lingua]
+  return pageMetadata({
+    lingua,
+    title: t.titolo,
+    description: t.metaDesc(siteConfig.brandName),
+    path: '/destinazioni',
+  })
+}
+
+export default async function DestinazioniIndexPage() {
+  const lingua = await linguaCorrente()
+  const t = T[lingua]
+  const paesi = getAllPaesi(lingua)
   const gruppi = raggruppaPerContinente(paesi, (p) => p.continente)
 
   return (
     <>
       <JsonLd
         data={raccoltaJsonLd({
-          nome: 'Destinazioni',
-          descrizione: `I Paesi esplorati in profondità su ${siteConfig.brandName}.`,
+          nome: t.titolo,
+          descrizione: t.jsonDesc(siteConfig.brandName),
           percorso: '/destinazioni',
           elementi: paesi.map((p) => ({ nome: p.nome, percorso: `/destinazioni/${p.slug}` })),
-        })}
+        }, lingua)}
       />
       <PageHeader
-        crumbs={[{ label: 'Home', href: '/' }, { label: 'Destinazioni' }]}
-        eyebrow="Paese per Paese"
-        title="Destinazioni"
+        crumbs={[{ label: t.home, href: '/' }, { label: t.titolo }]}
+        eyebrow={t.eyebrow}
+        title={t.titolo}
         lead={
-          <p>
-            {paesi.length} Paesi divisi per macro-regione: scegline uno per esplorarlo destinazione per destinazione ed
-            esperienza per esperienza, non solo come itinerario unico.
-          </p>
+          <p>{t.lead(paesi.length)}</p>
         }
       />
       <MappaMondoSezione />
@@ -51,9 +94,9 @@ export default function DestinazioniIndexPage() {
           {gruppi.map(({ continente, items }) => (
             <div key={continente}>
               <div className="flex items-baseline gap-4 border-b border-alpine/15 pb-3">
-                <h2 className="font-display text-[clamp(1.6rem,2.4vw,2.1rem)] text-alpine">{continente}</h2>
+                <h2 className="font-display text-[clamp(1.6rem,2.4vw,2.1rem)] text-alpine">{etichetta(continente, lingua)}</h2>
                 <span className="text-xs font-semibold uppercase tracking-[0.18em] text-stone/85">
-                  {items.length} {items.length === 1 ? 'Paese' : 'Paesi'}
+                  {items.length} {items.length === 1 ? t.paese : t.paesi}
                 </span>
               </div>
 
@@ -79,7 +122,7 @@ export default function DestinazioniIndexPage() {
                       <h3 className="font-display text-xl font-medium text-alpine">{paese.nome}</h3>
                       <p className="text-sm leading-relaxed text-stone">{paese.descrizione}</p>
                       <span className="mt-auto inline-flex items-center gap-1.5 pt-2 text-sm font-medium text-rosso">
-                        Esplora il Paese
+                        {t.esplora}
                         <ArrowUpRight
                           size={14}
                           className="transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5"

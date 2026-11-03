@@ -1,38 +1,81 @@
 import type { Metadata } from 'next'
-import Link from 'next/link'
+import Link from '@/components/ui/Link'
 import { ArrowRight, Compass, Landmark, Map } from 'lucide-react'
 import { HeaderAction, PageHeader } from '@/components/ui/PageHeader'
+import { linguaCorrente } from '@/lib/i18n/server'
+import type { Lingua } from '@/lib/i18n/config'
 
-const STRADE = [
-  { href: '/viaggi', icona: Map, titolo: 'Tutti i viaggi', testo: 'Ottanta itinerari giorno per giorno, un continente alla volta.' },
-  { href: '/destinazioni', icona: Compass, titolo: 'Le destinazioni', testo: 'Paese per Paese, con la mappa e le cose da fare.' },
-  { href: '/meraviglie', icona: Landmark, titolo: 'Le sette meraviglie', testo: 'Come arrivarci, quando andare, cosa prenotare.' },
-]
+const T = {
+  it: {
+    metaTitolo: 'Pagina non trovata',
+    eyebrow: 'Errore 404',
+    titolo: 'Questa strada non porta da nessuna parte',
+    lead: 'Il link è sbagliato, oppure la pagina ha cambiato indirizzo. Succede anche in viaggio: si torna indietro e si prende la strada giusta. Puoi anche cercare con la lente in alto.',
+    home: 'Torna alla home',
+    alt: 'Iceberg nella laguna glaciale di Jökulsárlón, Islanda',
+    viaggi: 'Tutti i viaggi',
+    viaggiTesto: 'Ottanta itinerari giorno per giorno, un continente alla volta.',
+    destinazioni: 'Le destinazioni',
+    destinazioniTesto: 'Paese per Paese, con la mappa e le cose da fare.',
+    meraviglie: 'Le sette meraviglie',
+    meraviglieTesto: 'Come arrivarci, quando andare, cosa prenotare.',
+  },
+  en: {
+    metaTitolo: 'Page not found',
+    eyebrow: 'Error 404',
+    titolo: "This road doesn't lead anywhere",
+    lead: 'The link is wrong, or the page has moved. It happens on the road too: you turn back and take the right way. You can also search with the magnifying glass at the top.',
+    home: 'Back to the home page',
+    alt: 'Iceberg in the Jökulsárlón glacier lagoon, Iceland',
+    viaggi: 'All the trips',
+    viaggiTesto: 'Eighty day-by-day itineraries, one continent at a time.',
+    destinazioni: 'The destinations',
+    destinazioniTesto: 'Country by country, with the map and things to do.',
+    meraviglie: 'The seven wonders',
+    meraviglieTesto: 'How to get there, when to go, what to book.',
+  },
+  es: {
+    metaTitolo: 'Página no encontrada',
+    eyebrow: 'Error 404',
+    titolo: 'Este camino no lleva a ninguna parte',
+    lead: 'El enlace es incorrecto o la página ha cambiado de dirección. También pasa de viaje: se da la vuelta y se toma el camino correcto. También puedes buscar con la lupa de arriba.',
+    home: 'Volver al inicio',
+    alt: 'Iceberg en la laguna glaciar de Jökulsárlón, Islandia',
+    viaggi: 'Todos los viajes',
+    viaggiTesto: 'Ochenta itinerarios día a día, un continente cada vez.',
+    destinazioni: 'Los destinos',
+    destinazioniTesto: 'País por país, con el mapa y las cosas que hacer.',
+    meraviglie: 'Las siete maravillas',
+    meraviglieTesto: 'Cómo llegar, cuándo ir, qué reservar.',
+  },
+} satisfies Record<Lingua, Record<string, string>>
 
-export const metadata: Metadata = {
-  title: 'Pagina non trovata',
-  robots: { index: false },
+export async function generateMetadata(): Promise<Metadata> {
+  const lingua = await linguaCorrente()
+  return { title: T[lingua].metaTitolo, robots: { index: false } }
 }
 
-export default function NotFound() {
+export default async function NotFound() {
+  const lingua = await linguaCorrente()
+  const t = T[lingua]
+  const STRADE = [
+    { href: '/viaggi', icona: Map, titolo: t.viaggi, testo: t.viaggiTesto },
+    { href: '/destinazioni', icona: Compass, titolo: t.destinazioni, testo: t.destinazioniTesto },
+    { href: '/meraviglie', icona: Landmark, titolo: t.meraviglie, testo: t.meraviglieTesto },
+  ]
   return (
     <>
       <PageHeader
-        eyebrow="Errore 404"
-        title="Questa strada non porta da nessuna parte"
-        lead={
-          <p>
-            Il link è sbagliato, oppure la pagina ha cambiato indirizzo. Succede anche in viaggio: si torna indietro e si
-            prende la strada giusta. Puoi anche cercare con la lente in alto.
-          </p>
-        }
+        eyebrow={t.eyebrow}
+        title={t.titolo}
+        lead={<p>{t.lead}</p>}
         actions={
           <HeaderAction href="/">
-            Torna alla home
+            {t.home}
             <ArrowRight size={16} aria-hidden="true" />
           </HeaderAction>
         }
-        media={{ tipo: 'foto', src: '/images/copertine/islanda-2024.jpg', alt: 'Iceberg nella laguna glaciale di Jökulsárlón, Islanda' }}
+        media={{ tipo: 'foto', src: '/images/copertine/islanda-2024.jpg', alt: t.alt }}
         pieno
       />
       <section className="py-14 sm:py-20">

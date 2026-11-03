@@ -1,6 +1,6 @@
 'use client'
 
-import Link from 'next/link'
+import Link from '@/components/ui/Link'
 import Image from 'next/image'
 import { motion, useReducedMotion } from 'motion/react'
 import { ArrowLeft, CalendarDays, Clock3, Users } from 'lucide-react'
@@ -8,6 +8,14 @@ import { Container } from '@/components/ui/Container'
 import { RouteLine } from './RouteLine'
 import { codicePaese } from './paese-codici'
 import type { PuntoTappa } from './geo'
+import { useLingua } from '@/lib/i18n/LinguaProvider'
+import type { Lingua } from '@/lib/i18n/config'
+
+const T = {
+  it: { home: 'Home', tutti: 'Tutti i viaggi', breadcrumb: 'Breadcrumb' },
+  en: { home: 'Home', tutti: 'All trips', breadcrumb: 'Breadcrumb' },
+  es: { home: 'Inicio', tutti: 'Todos los viajes', breadcrumb: 'Migas de pan' },
+} satisfies Record<Lingua, Record<string, string>>
 
 /**
  * Apertura firmata della pagina viaggio: titolo a scala estrema e una
@@ -46,6 +54,8 @@ export function TripOpener({
   /** Video di sfondo, se il viaggio ne ha uno in `viaggi-hero-video.ts` — ha priorità su `copertina`. */
   video?: { src: string; poster: string }
 }) {
+  const lingua = useLingua()
+  const t = T[lingua]
   const reduceMotion = useReducedMotion()
 
   return (
@@ -95,13 +105,13 @@ export function TripOpener({
       )}
 
       <Container className="relative z-10">
-        <nav aria-label="Breadcrumb" className="flex flex-wrap items-center gap-1.5 text-xs text-cream/60">
+        <nav aria-label={t.breadcrumb} className="flex flex-wrap items-center gap-1.5 text-xs text-cream/60">
           <Link href="/" className="hover:text-cream">
-            Home
+            {t.home}
           </Link>
           <span>/</span>
           <Link href="/viaggi" className="hover:text-cream">
-            Tutti i viaggi
+            {t.tutti}
           </Link>
           <span>/</span>
           <span className="text-cream/85">{titolo}</span>
@@ -111,7 +121,7 @@ export function TripOpener({
           className="mt-4 inline-flex items-center gap-1.5 text-xs font-medium text-cream/60 hover:text-cream"
         >
           <ArrowLeft size={13} />
-          Tutti i viaggi
+          {t.tutti}
         </Link>
 
         <div className="mt-8 flex items-center gap-3">

@@ -1,7 +1,15 @@
-import Link from 'next/link'
+import Link from '@/components/ui/Link'
 import type { ReactNode } from 'react'
 import { HeaderMedia, type Media } from './HeaderMedia'
 import { richNodes } from './Rich'
+import { linguaCorrente } from '@/lib/i18n/server'
+import type { Lingua } from '@/lib/i18n/config'
+
+const T = {
+  it: { briciole: 'Briciole di pane' },
+  en: { briciole: 'Breadcrumb' },
+  es: { briciole: 'Migas de pan' },
+} satisfies Record<Lingua, Record<string, string>>
 
 export type Crumb = { label: string; href?: string }
 export type Credito = { autore: string; licenza: string; fonteUrl: string }
@@ -14,7 +22,7 @@ export type Credito = { autore: string; licenza: string; fonteUrl: string }
  * a colonna unica, allineata al contenitore della pagina.
  * Sempre chiusa da una riga spessa (border-b-2), mai fondi scuri o sfumature.
  */
-export function PageHeader({
+export async function PageHeader({
   crumbs,
   eyebrow,
   badge,
@@ -42,11 +50,12 @@ export function PageHeader({
   credito?: Credito
   luogo?: string
 }) {
+  const lingua = await linguaCorrente()
   const chiaro = pieno && !!media
   const testo = (
     <>
       {crumbs && crumbs.length > 0 && (
-        <nav aria-label="Briciole di pane" className={`flex flex-wrap items-center gap-x-1.5 gap-y-1 text-xs ${chiaro ? 'text-cream/80' : 'text-stone'}`}>
+        <nav aria-label={T[lingua].briciole} className={`flex flex-wrap items-center gap-x-1.5 gap-y-1 text-xs ${chiaro ? 'text-cream/80' : 'text-stone'}`}>
           {crumbs.map((c, i) => (
             <span key={`${c.label}-${i}`} className="inline-flex items-center gap-1.5">
               {i > 0 && <span aria-hidden="true">/</span>}

@@ -1,18 +1,53 @@
 'use client'
 
 import Image from 'next/image'
-import Link from 'next/link'
+import Link from '@/components/ui/Link'
 import { Heart, X } from 'lucide-react'
+import { useLingua } from '@/lib/i18n/LinguaProvider'
+import type { Lingua } from '@/lib/i18n/config'
 import { togliSalvato, useIdratato, useSalvati, type TipoSalvato } from '@/lib/salvati'
 
-const GRUPPI: { tipo: TipoSalvato; titolo: string }[] = [
-  { tipo: 'viaggio', titolo: 'Viaggi' },
-  { tipo: 'destinazione', titolo: 'Destinazioni' },
-  { tipo: 'esperienza', titolo: 'Esperienze' },
-]
+const T = {
+  it: {
+    gruppi: { viaggio: 'Viaggi', destinazione: 'Destinazioni', esperienza: 'Esperienze' },
+    vuotoTitolo: 'Non hai ancora salvato niente',
+    vuotoTesto: "Tocca il cuore su un viaggio, una destinazione o un'esperienza: la ritrovi qui, pronta per organizzare il prossimo viaggio.",
+    guardaViaggi: 'Guarda i viaggi',
+    esplora: 'Esplora le destinazioni',
+    uno: 'elemento salvato',
+    molti: 'elementi salvati',
+    togli: (titolo: string) => `Togli ${titolo} dai salvati`,
+    togliTitle: 'Togli dai salvati',
+  },
+  en: {
+    gruppi: { viaggio: 'Trips', destinazione: 'Destinations', esperienza: 'Experiences' },
+    vuotoTitolo: "You haven't saved anything yet",
+    vuotoTesto: 'Tap the heart on a trip, a destination or an experience: you will find it here, ready to plan your next trip.',
+    guardaViaggi: 'Browse the trips',
+    esplora: 'Explore the destinations',
+    uno: 'saved item',
+    molti: 'saved items',
+    togli: (titolo: string) => `Remove ${titolo} from saved`,
+    togliTitle: 'Remove from saved',
+  },
+  es: {
+    gruppi: { viaggio: 'Viajes', destinazione: 'Destinos', esperienza: 'Experiencias' },
+    vuotoTitolo: 'Todavía no has guardado nada',
+    vuotoTesto: 'Toca el corazón en un viaje, un destino o una experiencia: lo encontrarás aquí, listo para organizar tu próximo viaje.',
+    guardaViaggi: 'Ver los viajes',
+    esplora: 'Explorar los destinos',
+    uno: 'elemento guardado',
+    molti: 'elementos guardados',
+    togli: (titolo: string) => `Quitar ${titolo} de guardados`,
+    togliTitle: 'Quitar de guardados',
+  },
+} satisfies Record<Lingua, Record<string, unknown>>
+
+const TIPI: TipoSalvato[] = ['viaggio', 'destinazione', 'esperienza']
 
 /** Elenco di /salvati, raggruppato per tipo. Legge localStorage solo dopo l'idratazione. */
 export function SalvatiElenco() {
+  const t = T[useLingua()]
   const salvati = useSalvati()
   const idratato = useIdratato()
 
@@ -23,23 +58,22 @@ export function SalvatiElenco() {
     return (
       <div className="border-2 border-ink p-8 sm:p-12">
         <Heart size={28} aria-hidden="true" className="text-rosso" />
-        <h2 className="mt-4 font-display text-3xl text-ink">Non hai ancora salvato niente</h2>
+        <h2 className="mt-4 font-display text-3xl text-ink">{t.vuotoTitolo}</h2>
         <p className="mt-3 max-w-[52ch] leading-relaxed text-stone">
-          Tocca il cuore su un viaggio, una destinazione o un&apos;esperienza: la ritrovi qui, pronta per organizzare il
-          prossimo viaggio.
+          {t.vuotoTesto}
         </p>
         <div className="mt-8 flex flex-wrap items-center gap-6">
           <Link
             href="/viaggi"
             className="inline-flex min-h-12 items-center bg-rosso px-6 py-3 text-[0.95rem] font-semibold text-cream transition-colors duration-150 hover:bg-rosso-dark focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-rosso focus-visible:ring-offset-2"
           >
-            Guarda i viaggi
+            {t.guardaViaggi}
           </Link>
           <Link
             href="/destinazioni"
             className="text-[0.95rem] font-semibold text-ink underline decoration-rosso decoration-2 underline-offset-[6px] hover:text-rosso"
           >
-            Esplora le destinazioni
+            {t.esplora}
           </Link>
         </div>
       </div>
@@ -49,15 +83,15 @@ export function SalvatiElenco() {
   return (
     <div className="space-y-14">
       <p className="text-sm text-stone" aria-live="polite">
-        {salvati.length} {salvati.length === 1 ? 'elemento salvato' : 'elementi salvati'}
+        {salvati.length} {salvati.length === 1 ? t.uno : t.molti}
       </p>
-      {GRUPPI.map((g) => {
-        const voci = salvati.filter((s) => s.tipo === g.tipo)
+      {TIPI.map((tipo) => {
+        const voci = salvati.filter((s) => s.tipo === tipo)
         if (!voci.length) return null
         return (
-          <section key={g.tipo} aria-labelledby={`salvati-${g.tipo}`}>
-            <h2 id={`salvati-${g.tipo}`} className="border-b-2 border-ink pb-3 font-display text-3xl text-ink">
-              {g.titolo} <span className="font-sans text-lg font-normal text-stone">({voci.length})</span>
+          <section key={tipo} aria-labelledby={`salvati-${tipo}`}>
+            <h2 id={`salvati-${tipo}`} className="border-b-2 border-ink pb-3 font-display text-3xl text-ink">
+              {t.gruppi[tipo]} <span className="font-sans text-lg font-normal text-stone">({voci.length})</span>
             </h2>
             <ul className="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
               {voci.map((v) => (
@@ -89,8 +123,8 @@ export function SalvatiElenco() {
                   <button
                     type="button"
                     onClick={() => togliSalvato(v)}
-                    aria-label={`Togli ${v.titolo} dai salvati`}
-                    title="Togli dai salvati"
+                    aria-label={t.togli(v.titolo)}
+                    title={t.togliTitle}
                     className="absolute bottom-4 right-4 z-10 inline-flex size-11 items-center justify-center border-2 border-ink bg-cream text-ink transition-colors duration-150 hover:bg-rosso hover:text-cream hover:border-rosso focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-rosso focus-visible:ring-offset-2"
                   >
                     <X size={18} aria-hidden="true" />

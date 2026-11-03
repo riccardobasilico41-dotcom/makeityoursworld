@@ -6,7 +6,7 @@ export function BudgetBreakdown({ voci }: { voci: VoceBudget[] }) {
       <table className="w-full text-sm">
         <tbody>
           {voci.filter((voce) => voce.valore).map((voce, i) => {
-            const isTotale = voce.etichetta.toLowerCase() === 'totale'
+            const isTotale = /^(totale|total)$/i.test(voce.etichetta.trim())
             return (
               <tr
                 key={voce.etichetta}

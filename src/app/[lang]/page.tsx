@@ -13,17 +13,67 @@ import { getAllViaggi, type Viaggio } from '@/lib/viaggi'
 import { getAllMeraviglie } from '@/lib/meraviglie'
 import { getAllPaesi, getDestinazioniByPaese, getTripMeta } from '@/lib/geo'
 import { raggruppaPerContinente } from '@/lib/utils'
-import { siteConfig } from '@/lib/site-config'
-import { copertineViaggi } from '@/content/viaggi-copertine'
+import { copertine } from '@/lib/i18n/contenuti'
+import { linguaCorrente } from '@/lib/i18n/server'
+import { SITO } from '@/lib/i18n/sito'
+import { pageMetadata } from '@/lib/seo'
+import type { Lingua } from '@/lib/i18n/config'
 import { JsonLd } from '@/components/JsonLd'
 import { autoreJsonLd } from '@/lib/structured-data'
-import Link from 'next/link'
+import Link from '@/components/ui/Link'
 import { ArrowRight } from 'lucide-react'
 
-export const metadata: Metadata = {
-  title: siteConfig.tagline,
-  description: siteConfig.description,
-  alternates: { canonical: '/' },
+const T = {
+  it: {
+    sottotitolo: 'Diario di viaggio con itinerari giorno per giorno, verificati e riverificati, non copiati da altre guide.',
+    apertura: 'Apertura',
+    ritmo: 'Il ritmo',
+    puntoForte: 'Il punto forte',
+    otto: (n: number) => `Questi sono otto viaggi scelti a mano. L'archivio completo ne racconta ${n}.`,
+    esplora: (n: number) => `Esplora tutti i ${n} viaggi`,
+    meraviglieTitolo: 'Le sette meraviglie del mondo',
+    meraviglieTesto:
+      'Guida pratica monumento per monumento: prenotazione, prezzi, come arrivare, tour o autonomia, truffe da evitare e cosa vedere — e perché.',
+    vediMeraviglie: 'Vedi tutte le meraviglie',
+    scorrimento: 'Le meraviglie, una per scheda',
+    prossimo: 'Il prossimo viaggio da dove comincia?',
+    vediViaggi: 'Vedi tutti i viaggi',
+  },
+  en: {
+    sottotitolo: 'A travel journal with day-by-day itineraries, checked and double-checked, not copied from other guides.',
+    apertura: 'Opening',
+    ritmo: 'The pace',
+    puntoForte: 'The highlight',
+    otto: (n: number) => `These are eight trips picked by hand. The full archive tells the story of ${n}.`,
+    esplora: (n: number) => `Explore all ${n} trips`,
+    meraviglieTitolo: 'The seven wonders of the world',
+    meraviglieTesto:
+      'A practical guide, monument by monument: booking, prices, how to get there, tour or on your own, scams to avoid and what to see — and why.',
+    vediMeraviglie: 'See all the wonders',
+    scorrimento: 'The wonders, one card each',
+    prossimo: 'Where does your next trip begin?',
+    vediViaggi: 'See all trips',
+  },
+  es: {
+    sottotitolo: 'Diario de viaje con itinerarios día a día, comprobados y recomprobados, no copiados de otras guías.',
+    apertura: 'Apertura',
+    ritmo: 'El ritmo',
+    puntoForte: 'Lo mejor',
+    otto: (n: number) => `Estos son ocho viajes elegidos a mano. El archivo completo cuenta ${n}.`,
+    esplora: (n: number) => `Explora los ${n} viajes`,
+    meraviglieTitolo: 'Las siete maravillas del mundo',
+    meraviglieTesto:
+      'Guía práctica monumento por monumento: reserva, precios, cómo llegar, tour o por tu cuenta, estafas que evitar y qué ver — y por qué.',
+    vediMeraviglie: 'Ver todas las maravillas',
+    scorrimento: 'Las maravillas, una por ficha',
+    prossimo: '¿Por dónde empieza tu próximo viaje?',
+    vediViaggi: 'Ver todos los viajes',
+  },
+} satisfies Record<Lingua, Record<string, string | ((n: number) => string)>>
+
+export async function generateMetadata(): Promise<Metadata> {
+  const lingua = await linguaCorrente()
+  return pageMetadata({ title: SITO[lingua].tagline, description: SITO[lingua].description, path: '/', lingua })
 }
 
 // Rotta decorativa dell'apertura cinematica: solo nomi, nessuna coordinata —
@@ -58,9 +108,9 @@ const VIAGGI_HOME_SLUGS = [
 export const revalidate = 86400
 
 /** Il viaggio in evidenza ruota tra le scelte della Home, uno al giorno, in ordine. */
-function viaggioDelGiorno(viaggi: Viaggio[]): Viaggio | undefined {
+function viaggioDelGiorno(viaggi: Viaggio[], lingua: Lingua): Viaggio | undefined {
   const candidati = VIAGGI_HOME_SLUGS.map((slug) => viaggi.find((v) => v.slug === slug)).filter(
-    (v): v is Viaggio => v !== undefined && (getTripMeta(v.slug)?.tappeMappa.length ?? 0) > 1
+    (v): v is Viaggio => v !== undefined && (getTripMeta(v.slug, lingua)?.tappeMappa.length ?? 0) > 1
   )
   if (candidati.length === 0) return viaggi[0]
   const giorno = Math.floor(Date.now() / 86_400_000)
@@ -74,23 +124,26 @@ function viaggioDelGiorno(viaggi: Viaggio[]): Viaggio | undefined {
  * archivio orizzontale, meraviglie (invariate, fuori scope di questa
  * iterazione), chiusura silenziosa. Vedi la direzione creativa approvata
  * "VIAGGI 360 — SIGNATURE EDITORIAL" per il razionale sezione per sezione. */
-export default function HomePage() {
-  const viaggi = getAllViaggi()
-  const primo = viaggioDelGiorno(viaggi)
+export default async function HomePage() {
+  const lingua = await linguaCorrente()
+  const t = T[lingua]
+  const copertineViaggi = copertine(lingua)
+  const viaggi = getAllViaggi(lingua)
+  const primo = viaggioDelGiorno(viaggi, lingua)
   const selezioneHome = VIAGGI_HOME_SLUGS.map((slug) => viaggi.find((v) => v.slug === slug)).filter(
     (v): v is Viaggio => v !== undefined && v.slug !== primo?.slug
   )
-  const meraviglie = getAllMeraviglie()
-  const paesi = getAllPaesi()
+  const meraviglie = getAllMeraviglie(lingua)
+  const paesi = getAllPaesi(lingua)
   const gruppiPaesi = raggruppaPerContinente(paesi, (p) => p.continente)
-  const primoMeta = primo ? getTripMeta(primo.slug) : undefined
+  const primoMeta = primo ? getTripMeta(primo.slug, lingua) : undefined
 
   return (
     <>
-      <JsonLd data={autoreJsonLd()} />
+      <JsonLd data={autoreJsonLd(lingua)} />
       <CinematicHero
-        tagline={siteConfig.tagline}
-        subtext="Diario di viaggio con itinerari giorno per giorno, verificati e riverificati, non copiati da altre guide."
+        tagline={SITO[lingua].tagline}
+        subtext={t.sottotitolo}
         routeTappe={ROTTA_DECORATIVA}
       />
 
@@ -100,7 +153,7 @@ export default function HomePage() {
 
       <GeographyIndex
         gruppi={gruppiPaesi}
-        conteggioDestinazioni={(slug) => getDestinazioniByPaese(slug).length}
+        conteggioDestinazioni={(slug) => getDestinazioniByPaese(slug, lingua).length}
       />
 
       {primo && primoMeta && (
@@ -112,7 +165,7 @@ export default function HomePage() {
           copertina={copertineViaggi[primo.slug]}
           battute={[
             {
-              eyebrow: 'Apertura',
+              eyebrow: t.apertura,
               contenuto: (
                 <p className="font-display text-xl italic leading-relaxed text-alpine sm:text-2xl lg:text-3xl">
                   {primo.apertura ?? primo.descrizione}
@@ -120,11 +173,11 @@ export default function HomePage() {
               ),
             },
             {
-              eyebrow: 'Il ritmo',
+              eyebrow: t.ritmo,
               contenuto: <p className="text-lg leading-relaxed text-stone">{primoMeta.ritmo}</p>,
             },
             {
-              eyebrow: 'Il punto forte',
+              eyebrow: t.puntoForte,
               contenuto: (
                 <p className="text-lg leading-relaxed text-stone">
                   {primoMeta.puntiForti[0] ?? primo.descrizione}
@@ -142,13 +195,13 @@ export default function HomePage() {
           <Reveal>
             <div className="flex flex-col items-center gap-5 text-center">
               <p className="max-w-md text-base leading-relaxed text-stone">
-                Questi sono otto viaggi scelti a mano. L&apos;archivio completo ne racconta {viaggi.length}.
+                {t.otto(viaggi.length)}
               </p>
               <Link
                 href="/viaggi"
                 className="inline-flex items-center gap-2 rounded-none bg-alpine px-7 py-3.5 text-sm font-medium text-cream transition-colors duration-150 hover:bg-alpine-dark"
               >
-                Esplora tutti i {viaggi.length} viaggi
+                {t.esplora(viaggi.length)}
                 <ArrowRight size={15} />
               </Link>
             </div>
@@ -161,23 +214,22 @@ export default function HomePage() {
           <div className="flex flex-wrap items-end justify-between gap-4">
             <div>
               <h2 className="font-display text-[clamp(2rem,3.4vw,3rem)] text-balance text-alpine">
-                Le sette meraviglie del mondo
+                {t.meraviglieTitolo}
               </h2>
               <p className="mt-4 max-w-2xl text-base leading-relaxed text-stone">
-                Guida pratica monumento per monumento: prenotazione, prezzi, come arrivare, tour o autonomia, truffe
-                da evitare e cosa vedere — e perché.
+                {t.meraviglieTesto}
               </p>
             </div>
             <Link
               href="/meraviglie"
               className="group inline-flex items-center gap-2 text-sm font-medium text-rosso hover:underline"
             >
-              Vedi tutte le meraviglie
+              {t.vediMeraviglie}
               <ArrowRight size={15} className="transition-transform group-hover:translate-x-1" />
             </Link>
           </div>
           <div className="mt-10">
-            <Scorrimento etichetta="Le meraviglie, una per scheda">
+            <Scorrimento etichetta={t.scorrimento}>
               {meraviglie.map((m) => (
                 <li key={m.slug} className="flex w-[82%] shrink-0 snap-start sm:w-[46%] lg:w-[31.5%]">
                   <MeravigliaCard meraviglia={m} />
@@ -192,13 +244,13 @@ export default function HomePage() {
         <Container>
           <Reveal>
             <p className="max-w-md font-display text-3xl font-medium leading-tight text-balance text-alpine sm:text-4xl">
-              Il prossimo viaggio da dove comincia?
+              {t.prossimo}
             </p>
             <Link
               href="/viaggi"
               className="group mt-6 inline-flex items-center gap-2 text-sm font-medium text-rosso hover:underline"
             >
-              Vedi tutti i viaggi
+              {t.vediViaggi}
               <ArrowRight size={15} className="transition-transform group-hover:translate-x-1" />
             </Link>
           </Reveal>

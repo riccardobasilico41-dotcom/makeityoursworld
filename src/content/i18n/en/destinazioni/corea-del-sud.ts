@@ -1,0 +1,556 @@
+import type { Destinazione } from '@/lib/types'
+
+export const destinazioniCoreaDelSud: Destinazione[] = [
+  {
+    slug: 'seoul',
+    paeseSlug: 'corea-del-sud',
+    ordine: 1,
+    nome: 'Seoul',
+    tipologia: ['città', 'cultura', 'gastronomia'],
+    giorniConsigliati: "4-5 days, not counting day trips out of the city",
+    visitataPersonalmente: true,
+    introduzione:
+      "A capital of ten million people squeezed between mountains and crossed by the Han River. Five royal palaces from the 1500s sit next to the most high-tech neighborhoods in Asia, and forty kilometers away as the crow flies begins the most militarized border in the world.",
+    percheAndarci:
+      "It's one of the few Asian megacities you can explore on foot, neighborhood by neighborhood. And no other city tells so clearly what it means to rebuild a country from scratch in two generations: in 1953 Seoul was in ruins.",
+    cosaVedere: [
+      "Gyeongbokgung, the main palace of the Joseon dynasty, with the changing of the guard in front of Gwanghwamun Gate",
+      "Changdeokgung and its Secret Garden (Huwon), visitable only on a guided tour with limited numbers",
+      "The hanok village of Bukchon, between the two palaces, with the traditional houses still lived in",
+      "The War Memorial of Korea, the museum that explains everything you'll see at the DMZ",
+      "Gwangjang Market, the oldest in the city, with street kitchens among the stalls",
+      "N Seoul Tower on Namsan and the city fortress running along the ridges around the center",
+      "Insadong for crafts, Hongdae for student life, Seongsu for cafés carved out of old factories",
+    ],
+    cosaFare: [
+      "Visit Gyeongbokgung in hanbok, the traditional costume, which gets you free admission (see the dedicated experience page)",
+      "Street food dinner at Gwangjang Market, with bindaetteok and mayak gimbap",
+      "An evening at a jjimjilbang, the Korean sauna open 24 hours, where you can also sleep",
+      "Walk a stretch of the Seoul fortress along the Bugaksan ridge, with the city below",
+      "Day trip to the DMZ, which starts from here (see the dedicated destination page)",
+    ],
+    doveDormire:
+      "Myeongdong and Jongno are the most convenient areas for the palaces and the subway; Hongdae and Yeonnam for nightlife and lower prices; Seongsu and Itaewon for a more grown-up pace. What matters is staying near a subway station: in Seoul distances are big and traffic is heavy.",
+    doveMangiare:
+      "Seoul is one of the food capitals of Asia, and the first thing to understand is banchan: whatever dish you order, it comes with five or ten free side dishes, which are refilled on request at no charge. Try Korean barbecue, where you flip the meat yourself on the grill set into the table, gomtang and samgyetang for soups, cold naengmyeon in summer and at least one street food dinner at Gwangjang Market. Coffee, on the other hand, costs as much as in Europe: in Korea cafés are places to hang out and you pay for the seat more than the cup.",
+    comeArrivare:
+      "International flight to Incheon (ICN), one of the best airports in the world, connected to the center by the AREX in about an hour. The second airport, Gimpo (GMP), mainly serves domestic flights, Jeju included.",
+    comeSpostarsi:
+      "Extensive, clean subway with signs and announcements in English: you pay with the T-money, which you buy at any minimarket. For taxis there's Kakao T, which works with a foreign card. Beware of Google Maps: in Korea it doesn't calculate routes, you need Naver Map or KakaoMap.",
+    periodoMigliore:
+      "April for the cherry blossoms and October to early November for the foliage. Summer is hot, humid and rainy; winter is freezing but clear, and the palaces in the snow are worth the cold.",
+    costi:
+      "Palace admission about 3,000 won, free when wearing hanbok; the combined ticket for four palaces plus the Jongmyo shrine costs a little over 10,000 won. Subway a little over a euro, meals 6-15€.",
+    erroriDaEvitare: [
+      "Going to Changdeokgung without having booked the Secret Garden visit: it's limited in numbers, with fixed times, and it sells out",
+      "Relying on Google Maps to get around: it shows places but calculates no routes",
+      "Visiting the palaces on Tuesday, when Gyeongbokgung is closed (the others close on Monday): it's the most common scheduling mistake",
+      "Skipping the War Memorial before going to the DMZ: without that context the trip to the border stays a series of photographs",
+    ],
+    confronti: [
+      {
+        titolo: 'Which of the five palaces of Seoul',
+        introduzione:
+          "There are five royal palaces in Seoul, all within two kilometers, and almost all visitors see only one. They differ a lot in size, crowds and kind of visit, and the choice changes the day.",
+        opzioni: [
+          {
+            nome: 'Gyeongbokgung',
+            sintesi: "The main palace, the biggest and most monumental, with the changing of the guard in front of Gwanghwamun Gate.",
+            costo: 'about 3,000 won, free in hanbok',
+            durata: '2-3 hours',
+            pro: ["None of the other four has the same size and solemnity", "The changing of the guard, several times a day, is a real show", "Two important museums inside the grounds"],
+            contro: ["The most crowded of all", "Almost entirely rebuilt: the Japanese largely demolished it during the occupation", "Closed on Tuesday"],
+            perChi: "Anyone seeing only one who wants the classic image.",
+          },
+          {
+            nome: 'Changdeokgung and the Secret Garden',
+            sintesi: "A UNESCO site, built following the terrain instead of imposing a grid on it, with a royal garden visitable only by reservation.",
+            costo: 'about 3,000 won plus 5,000 for the Huwon',
+            durata: '3 hours with the guided garden visit',
+            pro: ["The Secret Garden is the most beautiful thing of all the palaces in Seoul", "It's the best-preserved palace of the five", "The guided visit with limited numbers keeps the crowd away"],
+            contro: ["The Huwon is booked online and sells out, especially in fall", "Rigid times, you enter only with your assigned group", "Closed on Monday"],
+            perChi: "Anyone with a morning to give it who books a few days ahead. It's the best choice.",
+          },
+          {
+            nome: 'Deoksugung',
+            sintesi: "The smallest and the strangest: next to the traditional pavilions are Western-style buildings from the early 1900s, dating from the last years of the Korean empire.",
+            costo: 'about 1,000 won',
+            durata: '1 hour',
+            pro: ["Right downtown, it slips into any schedule", "The contrast between Korean and neoclassical architecture exists nowhere else", "Beautiful in the evening, when it stays open and lit"],
+            contro: ["Small, it's over quickly", "Less spectacular than the others", "Closed on Monday"],
+            perChi: "Anyone with a free hour or who wants to see a palace after sunset.",
+          },
+        ],
+        raccomandazione:
+          "With two half days: Changdeokgung with the Secret Garden booked and Gyeongbokgung for the changing of the guard. With only one, Changdeokgung, as long as you've booked the Huwon: without it, the comparison flips.",
+      },
+    ],
+    miaEsperienza:
+      "Seoul threw me off because it doesn't resemble other Asian capitals: it's orderly, quiet for its size, and you walk it. The palaces are beautiful but mostly rebuilt; what struck me more was that almost everything I saw was less than seventy years old. In 1953 the city was in ruins and almost none of today's buildings existed. At the War Memorial this becomes concrete, and that's why it should be seen before the DMZ: without it, the border stays a photo outing. On food, no warnings, just an observation: the banchan, ten side dishes that arrive free and get refilled without asking, are the thing that makes me most want to go back. And the jjimjilbang, the sauna open 24 hours where entire families sleep on mats on the floor, is the most Korean institution there is.",
+    esperienzeSlugs: ['gyeongbokgung-hanbok', 'gwangjang-cibo-strada', 'jjimjilbang'],
+    tripSlugs: ['corea-del-sud-itinerario'],
+    imageAlt: "An alley of traditional hanok houses in the Bukchon village, with Seoul's skyscrapers in the background",
+    immagine: '/images/corea-del-sud/seoul.jpg',
+  },
+  {
+    slug: 'dmz',
+    paeseSlug: 'corea-del-sud',
+    ordine: 2,
+    nome: 'The DMZ and Panmunjom',
+    tipologia: ['storia', 'memoria', 'escursione'],
+    giorniConsigliati: "1 day, as a trip from Seoul",
+    visitataPersonalmente: true,
+    introduzione:
+      "A strip of land four kilometers wide and 248 long that cuts the peninsula from coast to coast, along the line where the fighting stopped on July 27, 1953. It's called the Demilitarized Zone and it's the most militarized border on the planet: a million mines, two armies deployed and in between a band of forest where almost no one has entered in seventy years.",
+    percheAndarci:
+      "It's the only place in the world where you look into a war that never ended. The 1953 armistice never became a peace treaty: the two Koreas are technically still at war. The tunnels, the showcase villages, the station waiting for a train that doesn't come: everything you see here descends from that unsigned document.",
+    cosaVedere: [
+      "Imjingak, the memorial park just outside the controlled zone, with the Freedom Bridge and the bullet-riddled locomotive left where it was",
+      "The Third Infiltration Tunnel, discovered in 1978: 1,635 meters dug by the North toward the south, 73 meters underground, able to move 30,000 soldiers an hour and with its head a little over 40 kilometers from Seoul",
+      "The Dora Observatory, from which you see the North Korean city of Kaesong, the \"propaganda village\" of Kijong-dong and the 160-meter flagpole built to outdo the one in the South",
+      "Dorasan station, opened in 2002 on the line to Pyongyang, with the sign that doesn't say \"last station in the South\" but \"first station toward the North\"",
+      "The JSA at Panmunjom, when accessible: the blue huts straddling the demarcation line and the Bridge of No Return",
+    ],
+    cosaFare: [
+      "Standard DMZ tour, with the Third Tunnel, Dora Observatory and Dorasan (see the dedicated experience page)",
+      "JSA Panmunjom tour, when open: it's an entirely different experience and must be booked weeks ahead (see the dedicated experience page)",
+      "Visit the War Memorial of Korea in Seoul the day before: it's what makes everything else readable",
+      "Tie a ribbon on the fence of the Freedom Bridge, where divided families have left messages for seventy years",
+    ],
+    doveDormire: "You don't sleep there: the DMZ is a day trip from Seoul, with early morning departures and return in the afternoon.",
+    doveMangiare:
+      "Lunch is almost always included in the tour, at partner restaurants along the road to Paju. The local specialty is soy: the Jangdan area, right on the border, is known for its beans, and the tofu and doenjang from these parts are among the best in the country. Inside the controlled zone you neither buy nor eat anything outside the designated spots.",
+    comeArrivare:
+      "Only with a tour organized by an authorized operator, departing from Seoul: you can't enter on your own, neither by car nor by public transport. Meeting points are downtown, with departures between 7 and 8 in the morning.",
+    comeSpostarsi:
+      "By coach, within the tour. After the military checkpoint you board an authorized vehicle with an accredited guide and never leave the group: routes are fixed and supervised.",
+    periodoMigliore:
+      "all year, with the clear days of fall and winter offering the best visibility from the Dora Observatory. Visits are normally suspended on Monday and national holidays, and can be canceled without notice for military drills or diplomatic tensions.",
+    costi:
+      "Standard tour roughly 50-90€ per person from Seoul, often with lunch included; the tour with the JSA, when available, costs quite a bit more because of the authorization procedures.",
+    erroriDaEvitare: [
+      "Forgetting your passport: without the original you don't pass the checkpoint, and copies or photos don't count",
+      "Booking at the last minute: the standard tour should be taken days ahead, the JSA weeks ahead, because passport data must be transmitted in advance for military authorization",
+      "Taking the JSA for granted: since 2023 civilian access to Panmunjom has been suspended several times and depends on the diplomatic situation. Check shortly before leaving, with a plan B ready",
+      "Showing up inappropriately dressed for the JSA tours, where there is a dress code: no ripped jeans, sandals or overly revealing clothes",
+      "Photographing outside the permitted points: the restrictions are real and enforced",
+      "Going without having read anything: it's the only place on this trip where the historical context matters more than the view",
+    ],
+    confronti: [
+      {
+        titolo: 'Standard DMZ tour or the JSA at Panmunjom?',
+        introduzione:
+          "They are two different experiences that are often confused. The standard tour takes you to the controlled areas around the zone: tunnel, observatory, station. The JSA takes you inside Panmunjom, the only point where soldiers of the two countries look at each other a few meters apart. The second tour is much harder to get and since 2023 doesn't always run.",
+        opzioni: [
+          {
+            nome: 'Standard DMZ tour',
+            sintesi: "Imjingak, Third Infiltration Tunnel, Dora Observatory, Dorasan station. Half a day or a full day from Seoul.",
+            costo: 'roughly 50-90€, lunch often included',
+            durata: '5-8 hours with transfers',
+            pro: [
+              "Available practically always, with daily departures",
+              "Booked a few days ahead",
+              "The Third Tunnel is the most physical moment: you walk down a gallery dug from the North toward Seoul",
+              "No dress code and more relaxed rules",
+            ],
+            contro: [
+              "You don't enter Panmunjom or see North Korean soldiers",
+              "The descent into the tunnel is steep, in a low, narrow space: if you're claustrophobic you should skip it",
+              "From the Dora Observatory, in haze, you see little",
+            ],
+            perChi: "Anyone with a day in Seoul who wants to understand the border. It's usually the forced choice, because often it's the only one.",
+          },
+          {
+            nome: 'JSA Panmunjom tour',
+            sintesi: "The Joint Security Area, with the blue huts straddling the demarcation line, Freedom House and the Bridge of No Return.",
+            costo: 'considerably higher than the standard tour',
+            durata: 'full day',
+            pro: [
+              "It's the only place where you stand a few meters from North Korean soldiers",
+              "Inside the meeting room you physically cross the border line",
+              "The Bridge of No Return, where in 1953 prisoners chose which side to stay on, once and for all",
+            ],
+            contro: [
+              "Civilian access suspended several times since 2023 and never guaranteed: it depends on the diplomatic situation of the moment",
+              "Must be booked 2-4 weeks ahead, with passport data transmitted days before for military authorization",
+              "Dress code, photo restrictions, a liability waiver to sign",
+              "Can be canceled at the last minute, with no automatic refund of the rest of the trip",
+            ],
+            perChi: "Anyone with flexible dates who books well in advance and accepts that it may fall through.",
+          },
+        ],
+        raccomandazione:
+          "Book the standard tour as the sure base and, if dates allow, try the JSA in parallel, checking shortly before departure whether it's open. Building the trip around the JSA is the surest way to end up disappointed: since 2023 it has been closed more often than open.",
+      },
+    ],
+    miaEsperienza:
+      "The DMZ is the stop that more than any other has to be prepared by reading, because by itself the landscape says almost nothing: hills, barbed wire, a parking lot and a bus. It was one of the most powerful days of the trip because we knew what we were looking at. In the Third Tunnel everything becomes physical: we walked down hundreds of meters along a very steep service gallery, then continued hunched over in a passage dug into the rock, with the hard hat banging against the ceiling, to a concrete barrier beyond which the tunnel continues north. It was discovered in 1978, it's a little over a meter and a half wide, and thirty thousand men an hour could have come through it forty kilometers from Seoul. From the Dora Observatory, with binoculars, you see the cultivated fields of the North and the village of Kijong-dong, built to be looked at: rows of houses with glassless windows and lights that switch on at scheduled times. The one that stayed with me longest is Dorasan station: spotless, with departure boards, turnstiles and staff on duty, it has been waiting since 2002 for a train to Pyongyang. The sign doesn't say \"last station in the South,\" it says \"first station toward the North.\"",
+    esperienzeSlugs: ['tour-dmz-terzo-tunnel', 'jsa-panmunjom'],
+    tripSlugs: ['corea-del-sud-itinerario'],
+    imageAlt: "The demilitarized zone between the two Koreas seen from an observation post, with the hills of the North on the horizon",
+    immagine: '/images/corea-del-sud/dmz.jpg',
+  },
+  {
+    slug: 'sokcho-seoraksan',
+    paeseSlug: 'corea-del-sud',
+    ordine: 3,
+    nome: 'Sokcho and Seoraksan',
+    tipologia: ['natura', 'trekking', 'montagna'],
+    giorniConsigliati: '2 days',
+    visitataPersonalmente: true,
+    introduzione:
+      "Korea's most famous national park, on the east coast: granite ridges, monasteries wedged into the rock and, in October, the foliage that in this country is a national event followed bulletin by bulletin. At its foot is Sokcho, a fishing town with a little-told history.",
+    percheAndarci:
+      "It's the natural counterweight to Seoul. And Sokcho has a specific history: until 1945 it lay in the territory later assigned to the North, and after the war it filled with North Korean refugees who never managed to go home. The Abai neighborhood, built by them, still exists.",
+    cosaVedere: [
+      "Seoraksan National Park, with the bronze Buddha of Sinheungsa at the entrance",
+      "The cable car to Gwongeumseong, which saves the climb for those who don't want to walk",
+      "The Ulsanbawi hermitage, at the top of 808 metal steps along a granite wall",
+      "The village of Abai in Sokcho, founded by North Korean refugees, reachable by the galsseonbae, the hand-pulled cable ferry",
+      "The Sokcho fish market, one of the best on the east coast",
+    ],
+    cosaFare: [
+      "Climb to Ulsanbawi, about 4 hours round trip, with the last stretch on metal stairs hanging over a drop",
+      "Cross the Abai channel on the cable ferry, pulling it together with the other passengers",
+      "Eat ojingeo sundae, the stuffed squid that is the specialty of the refugees from the North",
+      "Climb Daecheongbong, the summit of the massif, for those with a full day and fit legs",
+    ],
+    doveDormire:
+      "Sokcho is the natural base, with the widest choice and the sea a short walk away; the motels and guesthouses near the park entrance are more convenient for starting at dawn but much barer.",
+    doveMangiare:
+      "Sokcho lives on fish: the central market is the right place, with stalls that cook on the spot. The signature dish, though, is ojingeo sundae, the stuffed squid, brought here by North Korean refugees and become the thing the city claims most. Also try the crab and, in season, raw fish served Korean-style, with lettuce leaves and chili paste.",
+    comeArrivare:
+      "Express bus from Seoul, about 2h30 from the Express Bus Terminal or from Dong Seoul: the train doesn't come this far and the bus is the normal way. Korean long-distance buses are very comfortable, with reclining seats.",
+    comeSpostarsi: "Frequent local buses between Sokcho and the park entrance (about 30 minutes); cheap taxis for short trips.",
+    periodoMigliore:
+      "October is the foliage month and also the one when the park is most crowded: on October weekends the trails are walked in single file. May is the best alternative. In winter the park stays open but the high trails freeze.",
+    costi: "park admission a few euros; cable car to Gwongeumseong around 11,000 won round trip.",
+    erroriDaEvitare: [
+      "Going on an October weekend: in Korea the foliage is a mass phenomenon and the park fills up more than you'd imagine",
+      "Underestimating the 808 steps of Ulsanbawi: they're steep metal stairs on an exposed wall, and the descent is harder than the climb",
+      "Stopping at Seoraksan and skipping Abai, which is why Sokcho is worth a night and not half a day",
+    ],
+    miaEsperienza:
+      "Seoraksan is beautiful, but the way it went for us, the reason to come this far lies downhill. Sokcho looks like any seaside town until you find out what the Abai neighborhood is: it was built by refugees who arrived from the North during the war, convinced they'd stay a few months, and who stayed forever. We got there crossing a channel on a cable ferry that the passengers pull by hand, all together, with hooks: it costs a few cents, takes two minutes and is worth more than many attractions. On the mountain, the climb to Ulsanbawi is hard in the final stretch, eight hundred metal steps on a granite wall with the void below, but the view from the top over the coast and the sea pays for the effort. Whoever arrives on an October weekend finds a line of people on the steps and a wait that ruins the day: here more than elsewhere a weekday is a requirement.",
+    esperienzeSlugs: [],
+    tripSlugs: ['corea-del-sud-itinerario'],
+    imageAlt: "A Seoraksan cable car cabin above the forests of the national park",
+    immagine: '/images/corea-del-sud/sokcho-seoraksan.jpg',
+  },
+  {
+    slug: 'andong',
+    paeseSlug: 'corea-del-sud',
+    ordine: 4,
+    nome: 'Andong and Hahoe Village',
+    tipologia: ['cultura', 'borghi', 'storia'],
+    giorniConsigliati: '1-2 days',
+    visitataPersonalmente: true,
+    introduzione:
+      "The heart of Korean Confucianism, in North Gyeongsang province: Hahoe village, a UNESCO site, has been inhabited by the same family for six hundred years and preserves noble and peasant houses within the same perimeter, inside a bend of the Nakdong River.",
+    percheAndarci:
+      "Here you understand the social structure that held Korea together for five hundred years. And the Hahoe mask dance is one of the few forms of popular satire to survive: once a year the peasants ridiculed the nobles, with their permission.",
+    cosaVedere: [
+      "Hahoe village, with the thatched-roof peasant houses and the tile-roofed houses of the nobles",
+      "The Hahoe Mask Museum, with the original wooden masks, a national treasure",
+      "The Confucian academy of Dosan Seowon, also a UNESCO site, set in the woods",
+      "The Buyongdae cliff, across the river, from which you see the village in the bend",
+    ],
+    cosaFare: [
+      "Watch the byeolsingut mask performance, held regularly on weekends",
+      "Cross the river by boat and climb to Buyongdae for the view from above",
+      "Sleep in a traditional hanok inside the village, the only way to see it in the evening",
+      "Eat Andong jjimdak, the braised chicken with vegetables and sweet potato noodles that carries the city's name",
+    ],
+    doveDormire:
+      "Inside Hahoe, in one of the traditional houses that rent rooms: you sleep on a thin mattress on the heated floor, bathrooms are shared, and at five in the afternoon, when the buses leave, the village goes back to being a village. It's the only reason not to do it as a day trip.",
+    doveMangiare:
+      "Andong jjimdak is the city's dish and is eaten in the old market, where an entire gallery is taken up by restaurants that make only that. The other specialty is heotjesatbap, a \"ceremonial\" bibimbap born from Confucian ritual offerings, served without chili and with the vegetables arranged by a precise rule. Also try Andong soju, much stronger than the industrial kind.",
+    comeArrivare:
+      "Train or express bus from Seoul, about 2-3 hours depending on the mode. From Andong to Hahoe village there's a local bus that takes about 40 minutes and runs rarely: before leaving, check the return times.",
+    comeSpostarsi: "Local buses between the city and the sites; the village is explored entirely on foot.",
+    periodoMigliore:
+      "spring and fall. In late September-early October there's the international mask festival: it fills the city and is both the best moment and the most crowded.",
+    costi: "admission to Hahoe around 5,000 won, mask performance often free.",
+    erroriDaEvitare: [
+      "Doing it as a day trip from Seoul: it means seeing the village only during the bus hours, which are the worst",
+      "Not checking the return bus times from Hahoe: runs are few and the last one leaves early",
+      "Expecting an open-air museum: it's an inhabited village, with families living in it, and has to be treated as such",
+    ],
+    miaEsperienza:
+      "Almost no foreign itinerary includes Hahoe, yet it explains more than many museums. It isn't a rebuilt village: the descendants of the same family still live there, the houses are lived in and in the courtyards there are laundry lines and farm tools. The social urbanism struck me: the nobles' houses, with tile roofs, stand high and in the center, the peasants', with thatched roofs, all around, and the hierarchy reads as you walk. The mask dance is the other side of the same coin: once a year the peasants staged a show in which the monk is corrupt and the nobleman is an idiot, and the nobles watched. Sleeping there changes the visit: at five the buses all leave together and what's left are the river, the dogs and a few old men sitting outside.",
+    esperienzeSlugs: [],
+    tripSlugs: ['corea-del-sud-itinerario'],
+    imageAlt: "Hahoe village in the bend of the Nakdong River, with the mountains behind, Andong",
+    immagine: '/images/corea-del-sud/andong.jpg',
+  },
+  {
+    slug: 'gyeongju',
+    paeseSlug: 'corea-del-sud',
+    ordine: 5,
+    nome: 'Gyeongju',
+    tipologia: ['storia', 'cultura', 'archeologia'],
+    giorniConsigliati: '2 days',
+    visitataPersonalmente: true,
+    introduzione:
+      "It was the capital of the Silla kingdom for almost a thousand years, from 57 BC to 935 AD. It's a low-rise city where instead of palaces there are dozens of grassy burial mounds, tall as hills, among the streets and parks. They call it \"the museum without walls,\" and for once the definition is exact.",
+    percheAndarci:
+      "It's the only place in Korea where ancient history is seen in the open air, with no reconstructions. And Bulguksa and the Seokguram hermitage, both UNESCO sites, are the two masterpieces of Korean Buddhist art.",
+    cosaVedere: [
+      "The royal mounds of Daereungwon, with the Heavenly Horse Tomb open and visitable from the inside",
+      "Bulguksa temple, with the two stone pagodas of the 8th century",
+      "The Seokguram hermitage, the artificial grotto on the mountain with the granite Buddha gazing toward the sea",
+      "The Donggung and Wolji pond (Anapji), which at night is mirrored in the illuminated pavilions",
+      "Cheomseongdae, the 7th-century astronomical observatory, among the oldest still standing in the world",
+      "The Gyeongju National Museum, with the golden crown of Silla",
+    ],
+    cosaFare: [
+      "Ride around the mounds by bicycle, which is the right way to get around this city",
+      "Bulguksa and Seokguram in the same morning (see the dedicated experience page)",
+      "A templestay in a monastery, to sleep and get up with the monks (see the dedicated experience page)",
+      "Anapji after sunset, when the lights come on over the water",
+    ],
+    doveDormire:
+      "The area around Daereungwon is the most convenient, with the hanok guesthouses being the choice most in tune with the place. Bomun Lake is the resort district, convenient by car but far from everything else on foot.",
+    doveMangiare:
+      "Gyeongju has two specialties: ssambap, a meal in which twenty little bowls of vegetables, meat and sauces arrive to wrap in leaves, and Hwangnam bread, a sweet filled with red beans that here is sold in gift boxes and eaten while walking. In the market area there is everyday cooking at low prices.",
+    comeArrivare:
+      "KTX to Singyeongju, about 2 hours from Seoul and 30 minutes from Busan, then bus or taxi to the center (the station is outside the city). It's a convenient intermediate stop between Seoul and Busan.",
+    comeSpostarsi:
+      "The bicycle is the right way: the historic center is flat and the sites are close. For Bulguksa and Seokguram, outside the city on Mount Toham, you need local buses or taxis, and between the two there's still a mountain road.",
+    periodoMigliore:
+      "April for the cherry trees, which bloom here around the mounds and are among the most beautiful in the country, and October-November for the foliage. Summer is hot and humid.",
+    costi: "Bulguksa and Seokguram about 6,000 won each, Daereungwon 3,000, National Museum free.",
+    erroriDaEvitare: [
+      "Doing it as a day trip from Busan: Gyeongju needs two days and above all an evening, because Anapji lit up is the most beautiful thing in the city",
+      "Planning Seokguram without checking the connections: from the Bulguksa entrance there's still a mountain road and buses are sparse",
+      "Expecting to see the Seokguram Buddha up close: it's protected by a glass wall and viewed from the antechamber, which disappoints those who don't know it beforehand",
+    ],
+    miaEsperienza:
+      "On paper Gyeongju is underrated; for us it was the most restful stop and maybe the most beautiful of the trip. The royal mounds aren't enclosed in an archaeological park: they sit in the middle of the city, grassy hills twenty meters high next to an intersection, and we rode around them by bicycle as if it were nothing. One is open and you go inside, with the golden crown displayed at the exact spot where it was found. Bulguksa is beautiful and very crowded. Seokguram, up on the mountain, is what leaves a mark: an artificial grotto from the 8th century, made of granite blocks fitted together without mortar, with a seated Buddha looking toward the East Sea. You see it from behind glass, from the antechamber, and whoever doesn't know beforehand is let down. The best moment, though, is Anapji after dark, with the pavilions reflected in the pond: it lasts half an hour and is worth the day.",
+    esperienzeSlugs: ['bulguksa-seokguram', 'templestay'],
+    tripSlugs: ['corea-del-sud-itinerario'],
+    imageAlt: "The pavilions of Donggung palace lit up and reflected in the Wolji pond at dusk, Gyeongju",
+    immagine: '/images/corea-del-sud/gyeongju.jpg',
+  },
+  {
+    slug: 'busan',
+    paeseSlug: 'corea-del-sud',
+    ordine: 6,
+    nome: 'Busan',
+    tipologia: ['città', 'mare', 'gastronomia'],
+    giorniConsigliati: '3 days',
+    visitataPersonalmente: true,
+    introduzione:
+      "The country's second city and its main port, stretched between the sea and the hills: city beaches, Korea's biggest fish market, a temple built on the rocks and a neighborhood of colorful houses that began as a shantytown of war refugees.",
+    percheAndarci:
+      "It's the exact opposite of Seoul: slower, noisier, more southern. During the Korean War it was the only major city that never fell. The Busan Perimeter was the last scrap of the country to hold out, and the city filled with hundreds of thousands of refugees who never left.",
+    cosaVedere: [
+      "The Gamcheon Culture Village, the neighborhood of colorful houses clinging to the hill, born as a refugee settlement",
+      "Jagalchi fish market, the biggest in Korea, historically run by women",
+      "Haedong Yonggungsa temple, built on the rocks above the sea",
+      "The beaches of Haeundae and Gwangalli, with the bridge lit up in the evening",
+      "The United Nations Memorial Cemetery, the only one in the world dedicated to the UN fallen, with soldiers from twenty-two countries",
+      "Gukje Market and the alleys of Bosu-dong, the booksellers' street founded by refugees",
+    ],
+    cosaFare: [
+      "Walk through Gamcheon from top to bottom, following the alleys (see the dedicated experience page)",
+      "Raw fish breakfast on the second floor of Jagalchi, where you buy downstairs and have it cooked upstairs",
+      "The Igidae coastal path, with the head-on view of the Haeundae skyline",
+      "An evening at Gwangalli, with the lit-up bridge and the bars on the beach",
+      "Visit the UN cemetery, where the war goes back to being made of names",
+    ],
+    doveDormire:
+      "Haeundae for the beach and services, Seomyeon to be at the center of transport and nightlife, Nampo-dong for the port, markets and Gamcheon. Busan is long and narrow: the subway solves it, but the choice of area changes your days.",
+    doveMangiare:
+      "Busan is a seaside city and you eat accordingly. The specialties are dwaeji gukbap, the pork and rice soup born right here during the war from the scraps refugees could afford, and milmyeon, cold wheat noodles, the poor man's version of the North's naengmyeon. They're two dishes that tell the city's story. At Jagalchi you buy fish at the counter and have it cooked upstairs, for a surcharge. Also try ssiat hotteok, the sweet seed-filled pancakes, at Gukje Market.",
+    comeArrivare:
+      "KTX from Seoul in a little over 2h30, the busiest rail route in the country: it's best to book a few days ahead. Flight to Gimhae (PUS) for those arriving from Jeju.",
+    comeSpostarsi: "Subway with four lines and T-money; buses for Gamcheon and Haedong Yonggungsa, which aren't served by the metro.",
+    periodoMigliore:
+      "May-June and September-October. July and August are beach season and Haeundae becomes a carpet of umbrellas; in October the international film festival is held, the most important in Asia.",
+    costi: "almost all free or nearly so: Gamcheon can be visited freely, the temple is free, the markets are markets.",
+    erroriDaEvitare: [
+      "Treating Gamcheon as a backdrop for photographs: it's an inhabited neighborhood, with elderly people living in those houses, and the signs asking for silence should be respected",
+      "Going to Haedong Yonggungsa on the weekend, when the path on the rocks is walked in single file",
+      "Skipping the UN cemetery because \"it's a cemetery\": it's the place that gives meaning to everything you saw at the DMZ",
+      "Underestimating distances: Busan stretches for thirty kilometers along the coast",
+    ],
+    miaEsperienza:
+      "I liked Busan precisely because it isn't Seoul: it's messier and noisier, people talk louder and you hear the dialect even without knowing Korean. Everyone shows photos of Gamcheon, and it's worth being precise: those colorful houses on the hill began as a shantytown for war refugees, and the paint only came in the 2000s with a redevelopment project. Knowing that, walking through it is different from photographing it. The stop nobody puts on the itinerary, and the one that stayed with me most, is the United Nations cemetery: rows of headstones of young men from twenty-two countries, many of them twenty years old, in a silent garden in the middle of the city. After the DMZ, which is all geopolitics, there the war goes back to being made of names. On food just one piece of advice: dwaeji gukbap looks like any soup and was born from this city's hunger in 1951. Eating it at one of the historic places near the port is the most Busan thing you can do.",
+    esperienzeSlugs: ['gamcheon-busan'],
+    tripSlugs: ['corea-del-sud-itinerario'],
+    imageAlt: "Haeundae beach at night with the illuminated LCT towers, Busan",
+    immagine: '/images/corea-del-sud/busan.jpg',
+  },
+  {
+    slug: 'jeonju',
+    paeseSlug: 'corea-del-sud',
+    ordine: 7,
+    nome: 'Jeonju',
+    tipologia: ['gastronomia', 'cultura', 'borghi'],
+    giorniConsigliati: '1-2 days',
+    visitataPersonalmente: true,
+    introduzione:
+      "The city where bibimbap was born and where the largest hanok village in Korea survives: more than eight hundred traditional houses in a single neighborhood, in a city UNESCO has recognized as a creative city of gastronomy.",
+    percheAndarci:
+      "It's the country's food capital. And the hanok district, touristy as it is, is the only place where you can sleep in a traditional house without leaving the city.",
+    cosaVedere: [
+      "The hanok village, with its more than eight hundred curved-roof houses",
+      "The Gyeonggijeon shrine, with the portrait of the founder of the Joseon dynasty",
+      "Jeondong Cathedral, in red brick, built where the first Korean Catholic martyrs were executed",
+      "The Omokdae viewpoint, from which you see all the village's roofs together",
+      "Nambu Market, with its night section on weekends",
+    ],
+    cosaFare: [
+      "Eat bibimbap in the city where it was born, served in a brass bowl with a dozen ingredients arranged in a radiating pattern",
+      "Walk around the village in hanbok, as almost all the Koreans who come here do",
+      "Sleep in a hanok, with the floor heated by the ondol",
+      "Taste Jeonju makgeolli, served in large pitchers with a spread of side dishes included",
+    ],
+    doveDormire:
+      "Inside the hanok village, which is the reason you stop: you sleep on a mattress on the warm floor, in plain rooms, with bathrooms often shared. Outside the village hotels cost less but the stop loses its point.",
+    doveMangiare:
+      "Jeonju bibimbap is different from the rest of the country's: rice cooked in beef broth, a dozen vegetables, seasoned raw beef and an egg yolk, all in a brass bowl. It has to be mixed vigorously. The other local institutions are kongnamul gukbap, the soybean sprout soup eaten here in the morning after an evening of makgeolli, and the \"makgeolli alleys,\" where you order the drink and with each pitcher more and more side dishes arrive free.",
+    comeArrivare: "KTX from Seoul in about 1h40, or express bus. The station is a few kilometers from the hanok village, connected by city buses and taxis.",
+    comeSpostarsi: "The village is explored on foot; for the rest of the city local buses and taxis.",
+    periodoMigliore: "spring and fall; in October the food festival is held. On weekends the village is packed with Korean visitors.",
+    costi: "village admission free, Gyeonggijeon about 3,000 won; bibimbap 10,000-15,000 won at historic places.",
+    erroriDaEvitare: [
+      "Going on a weekend: the hanok village is one of the most popular domestic destinations in Korea and on those days you walk through a crowd",
+      "Stopping only at the main street, which is all takeout food shops: the side streets still have inhabited houses",
+      "Expecting an intact ancient village: many hanok are recent reconstructions, and the district is a conservation project",
+    ],
+    miaEsperienza:
+      "Jeonju is worth the stop for one reason only: you come here to eat. The bibimbap in the brass bowl, with the rice cooked in broth instead of water, is richer than what you eat elsewhere, and has to be mixed vigorously until everything is uniform, the opposite of what someone does who wants to preserve the arrangement for the photo. The hanok village is very touristy: the main street is a continuous row of street food stalls and shops renting hanbok, and on weekends it's hard to move. But two side streets are enough to find silent courtyards and houses still lived in. And sleeping in a hanok with the warm floor under my back is something I remember better than many attractions.",
+    esperienzeSlugs: [],
+    tripSlugs: ['corea-del-sud-itinerario'],
+    imageAlt: "The tiled roofs of Jeonju's hanok village seen from above, with the modern city behind",
+    immagine: '/images/corea-del-sud/jeonju.jpg',
+  },
+  {
+    slug: 'jeju',
+    paeseSlug: 'corea-del-sud',
+    ordine: 8,
+    nome: 'Jeju and the Haenyeo',
+    tipologia: ['isole', 'natura', 'cultura'],
+    giorniConsigliati: "4 days, of which at least one devoted to the east coast and the haenyeo",
+    visitataPersonalmente: true,
+    introduzione:
+      "A volcanic island south of the peninsula, dominated by Hallasan, the highest mountain in South Korea. The surrounding sea is cold, and for centuries women who today are on average over seventy have been diving there on a single breath to gather shellfish and seaweed. They are the haenyeo, and since 2016 their culture has been UNESCO intangible heritage.",
+    percheAndarci:
+      "For the island, which has craters, waterfalls, lava tubes and a coastal path 437 kilometers long. And above all for the haenyeo: it's one of the last chances to see in person a practice that is ending and that for centuries shaped the island's society and economy, a case without equal in East Asia.",
+    cosaVedere: [
+      "The Haenyeo Museum in Gujwa-eup, on the east coast, the starting point for understanding everything else",
+      "Seongsan Ilchulbong, the volcanic cone rising from the sea, a UNESCO site, with haenyeo diving demonstrations at its foot",
+      "Hallasan, 1,947 meters, with trails leading to the summit crater",
+      "The Manjanggul lava tube, a volcanic gallery kilometers long",
+      "The Jeongbang waterfalls, among the very few in the world that fall straight into the sea",
+      "The 4·3 Peace Park, dedicated to the events of 1948-1954, the hardest page in the island's history",
+      "The bulteok, the circular stone shelters where the haenyeo change and warm up: about seventy remain",
+    ],
+    cosaFare: [
+      "Watch a haenyeo dive and listen to the sumbisori (see the dedicated experience page)",
+      "Sunrise on Seongsan Ilchulbong, which in Korean means \"sunrise peak\" (see the dedicated experience page)",
+      "Climb Hallasan along one of the two trails that reach the top (see the dedicated experience page)",
+      "Walk a stage of the Olle Trails, the coastal paths that go around the island",
+      "Eat at one of the stalls run directly by haenyeo cooperatives, where you pay them for the catch",
+    ],
+    doveDormire:
+      "Jeju-si in the north, near the airport, is the most convenient base for connections; Seogwipo in the south has the mildest climate and the waterfalls; the east coast around Seongsan is the right choice for those who come mainly for the haenyeo and the sunrise over the volcanic cone. By car the island is crossed from north to south in two hours, so the base matters less than elsewhere.",
+    doveMangiare:
+      "Jeju has a cuisine of its own, very different from the peninsula's. The island's black pork, raised here for centuries, is eaten grilled and is the most famous thing; galchi, the cutlassfish, is served grilled or stewed. Then there's what the haenyeo gather (abalone, sea urchin, octopus, shellfish), often sold at their cooperatives' stalls: it's the most direct way to get the money to them. Also try gogi guksu, noodles in pork broth, and mandarin tea, the island's symbolic agricultural product.",
+    comeArrivare:
+      "Flight from Seoul Gimpo, Busan or other cities: Seoul-Jeju is one of the busiest routes in the world, with dozens of flights a day and very low prices. Alternatively the ferry from Mokpo or Wando, much slower.",
+    comeSpostarsi:
+      "A rental car is by far the best way: buses exist and are cheap, but they're slow, and many points on the coast are hard to reach. You need an international driving permit, to be obtained in Italy before leaving.",
+    periodoMigliore:
+      "April-June and September-October. Summer is crowded with domestic tourism and typhoons arrive between August and September. Winter is windy and cold: the haenyeo work in the harshest conditions and it's rarer to see them in the water.",
+    costi:
+      "Haenyeo Museum about 1,100 won, Seongsan Ilchulbong 5,000, Manjanggul 4,000, 4·3 Peace Park free. Car rental from 40-60€ a day, pricier in high season.",
+    erroriDaEvitare: [
+      "Expecting to find the haenyeo in the water on demand: they go out according to tides, season and sea conditions, and during the biological closure months they don't dive. The only fixed-schedule outings are the organized demonstrations",
+      "Photographing them up close without asking: they are women at work, often very elderly, not a folkloric attraction",
+      "Climbing Hallasan without booking: the two trails that reach the summit have daily quotas and mandatory online reservation",
+      "Renting a car without an international driving permit, which in Korea is required and non-negotiable",
+      "Reducing Jeju to a beach island: the sea is cold, the wind is constant, and here what matters is the land and those who live on it",
+    ],
+    confronti: [
+      {
+        titolo: 'How to meet the haenyeo',
+        introduzione:
+          "It's the main reason to come to Jeju, and also the easiest to get wrong. The haenyeo are not a scheduled show and their number is collapsing: there were over 4,500 in 2013, at the end of 2024 about 2,600, and more than 60% are over seventy. There are four ways to approach them, very different in honesty and likelihood of success.",
+        opzioni: [
+          {
+            nome: 'The Haenyeo Museum in Gujwa-eup',
+            sintesi: "The dedicated museum, on the east coast, with original gear, reconstructions of the bulteok, filmed testimonies and the story of the 1932 revolt.",
+            costo: 'about 1,100 won',
+            durata: '1-2 hours',
+            pro: [
+              "It's the place where you understand everything else: without it, a dive seen from afar remains a curiosity",
+              "It tells the political part that no tour mentions, including the 1932 anti-Japanese protest led by the haenyeo",
+              "Always open, independent of tides and season",
+              "Costs very little",
+            ],
+            contro: ["You don't see any haenyeo in the flesh", "Out of the way of the island's classic circuits"],
+            perChi: "Everyone, as a first step. It's the prerequisite for the other three.",
+          },
+          {
+            nome: 'The demonstration at Seongsan Ilchulbong',
+            sintesi: "Demonstration dives organized at the foot of the volcanic cone, with published times, followed by the sale of the catch.",
+            costo: 'free to watch, besides the site ticket',
+            durata: 'about 30 minutes',
+            pro: [
+              "It's the only nearly guaranteed chance to see them enter the water",
+              "You hear the sumbisori, the whistle with which they expel carbon dioxide when they resurface: it's the most recognizable trait of their work",
+              "You can buy from them right afterward, and the money stays with the cooperative",
+            ],
+            contro: [
+              "It's a demonstration: short, in shallow water, with an audience around",
+              "Times change with tides and weather and outings get canceled",
+              "Very crowded on weekends and in high season",
+            ],
+            perChi: "Anyone with a single day on the east coast who wants good odds of seeing them.",
+          },
+          {
+            nome: 'The coastal villages and the bulteok',
+            sintesi: "Going to the villages where they work (Hado-ri, Gujwa, Jongdal) at the right tide and watching from afar, without organizing anything.",
+            costo: 'free',
+            durata: 'it depends: nothing may happen',
+            pro: [
+              "It's the only untamed version: women at work, without an audience",
+              "You see the bulteok, the circular stone shelters where they change and warm up, which were also where the community made decisions by vote",
+              "No cost and no crowds",
+            ],
+            contro: [
+              "No guarantee: it depends on tide, season, sea and biological closure",
+              "You need a car and willingness to come back several times",
+              "Unwritten rules must be respected: don't approach, don't photograph from close, don't enter the bulteok",
+            ],
+            perChi: "Anyone with more days on the island who accepts finding nothing.",
+          },
+          {
+            nome: "The cooperatives' stalls and restaurants",
+            sintesi: "Eating the catch where the haenyeo sell it directly, along the coast: abalone, sea urchin, octopus, shellfish.",
+            costo: 'variable, by weight',
+            durata: 'one meal',
+            pro: [
+              "That way the money gets to them, with no middlemen",
+              "You talk with them, as far as language allows",
+              "The catch is from a few hours earlier, and you can taste the difference",
+            ],
+            contro: ["You don't see the dive", "Prices not always low, especially for abalone", "Few signs in English"],
+            perChi: "Anyone: it's the natural complement to any of the other three options.",
+          },
+        ],
+        raccomandazione:
+          "The combination that works: museum in the morning, demonstration at Seongsan in the afternoon according to the tide schedule, lunch or dinner at a cooperative stall. With one more day, add a morning in the east coast villages, with no expectations: if it happens, it's the real version.",
+      },
+    ],
+    miaEsperienza:
+      "Jeju is sold as a vacation island, and it's the wrong reading: the sea is cold, the wind never stops, and what matters is the land and above all those who work it. The haenyeo are the reason to come this far, and before looking for them it's worth knowing who they are. They descend on a single breath to ten meters, without tanks, with just a wetsuit, to gather shellfish and seaweed. They stay under a couple of minutes and resurface with a piercing whistle, the sumbisori, used to expel carbon dioxide in one go: from the pier we heard it before seeing anything. They recognize their companions by that sound. What threw me, though, were the ages. The woman coming out of the water with her net full was seventy-five, and she's not an exception: over sixty percent of them are past seventy, and in a little over ten years they've gone from just over four thousand to about two thousand six hundred. The Gujwa museum explains the rest, including the part no tour tells. For centuries here the income at home was brought in by the women, with an economic autonomy that didn't exist in the rest of Confucian Korea, and in 1932 it was they who led one of the biggest protests against Japanese rule. Seeing them today means seeing the end of something, and that's why it has to be done now.",
+    esperienzeSlugs: ['haenyeo-jeju', 'seongsan-ilchulbong', 'hallasan'],
+    tripSlugs: ['corea-del-sud-itinerario'],
+    imageAlt: "The Yongmeori coast and the sea seen from Mount Sanbangsan, Jeju Island",
+    immagine: '/images/corea-del-sud/jeju.jpg',
+  },
+]

@@ -1,0 +1,36 @@
+{
+  "paesi": { "italia": "italy" },
+  "destinazioni": {},
+  "esperienze": {
+    "italia/alta-via-1": "alta-via-1-dolomites",
+    "italia/tre-cime-lavaredo": "tre-cime-di-lavaredo-loop",
+    "italia/via-ferrata-dolomiti": "dolomites-via-ferrata",
+    "italia/sellaronda": "sellaronda-ski-loop",
+    "italia/scialpinismo-ciaspole": "ski-touring-snowshoeing",
+    "italia/roma-sotterranea": "underground-rome",
+    "italia/appia-antica": "appian-way-walk",
+    "italia/cupola-brunelleschi": "brunelleschi-dome-climb",
+    "italia/venezia-alba": "venice-at-dawn",
+    "italia/pompei-ercolano": "pompeii-herculaneum",
+    "italia/napoli-sotterranea": "underground-naples",
+    "italia/pizza-napoletana": "neapolitan-pizza",
+    "italia/etna": "climbing-etna",
+    "italia/gorropu": "gorropu-gorge",
+    "italia/cala-goloritze": "cala-goloritze",
+    "italia/cammini-italia": "italian-walking-routes",
+    "italia/degustazione-cantina": "winery-tasting",
+    "italia/museo-egizio": "egyptian-museum-turin",
+    "italia/sentiero-degli-dei": "path-of-the-gods",
+    "italia/sorgeto-ischia": "sorgeto-hot-springs-ischia",
+    "italia/stromboli-notte": "stromboli-at-night",
+    "italia/eolie-in-vela": "aeolian-islands-sailing",
+    "italia/monreale": "monreale-cathedral",
+    "italia/street-food-palermo": "palermo-street-food",
+    "italia/passito-pantelleria": "pantelleria-passito"
+  },
+  "viaggi": {
+    "costiera-e-isole": "amalfi-coast-and-islands",
+    "dolomiti-roadtrip": "dolomites-road-trip",
+    "eolie-in-vela": "aeolian-islands-by-sail"
+  }
+}

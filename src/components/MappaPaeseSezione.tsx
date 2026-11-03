@@ -5,6 +5,8 @@ import { SectionHeading } from '@/components/ui/SectionHeading'
 import { plain } from '@/components/ui/Rich'
 import { coordinateDestinazioni, coordinateEsperienze } from '@/content/mappe/coordinate'
 import type { Destinazione, Esperienza } from '@/lib/types'
+import { linguaCorrente } from '@/lib/i18n/server'
+import type { Lingua } from '@/lib/i18n/config'
 import { MappaPaese, type DatiMappa, type PuntoMappa } from './MappaPaese'
 
 type FileMappa = {
@@ -44,6 +46,33 @@ function graticola(file: FileMappa): string {
   return d
 }
 
+const T = {
+  it: {
+    destinazione: 'Destinazione',
+    esperienza: 'Esperienza',
+    mappa: 'Mappa',
+    titolo: 'Dove sono le cose',
+    descrizione: (nd: number, ne: number, nome: string) =>
+      `${nd === 1 ? 'Una destinazione' : `${nd} destinazioni`}${ne ? ` e ${ne === 1 ? "un'esperienza" : `${ne} esperienze`}` : ''} su una mappa vera di ${nome}: tocca un punto per avvicinarti e aprire la scheda.`,
+  },
+  en: {
+    destinazione: 'Destination',
+    esperienza: 'Experience',
+    mappa: 'Map',
+    titolo: 'Where things are',
+    descrizione: (nd: number, ne: number, nome: string) =>
+      `${nd === 1 ? 'One destination' : `${nd} destinations`}${ne ? ` and ${ne === 1 ? 'one experience' : `${ne} experiences`}` : ''} on a real map of ${nome}: tap a point to zoom in and open its page.`,
+  },
+  es: {
+    destinazione: 'Destino',
+    esperienza: 'Experiencia',
+    mappa: 'Mapa',
+    titolo: 'Dónde está cada cosa',
+    descrizione: (nd: number, ne: number, nome: string) =>
+      `${nd === 1 ? 'Un destino' : `${nd} destinos`}${ne ? ` y ${ne === 1 ? 'una experiencia' : `${ne} experiencias`}` : ''} en un mapa real de ${nome}: toca un punto para acercarte y abrir su ficha.`,
+  },
+} satisfies Record<Lingua, Record<string, string | ((nd: number, ne: number, nome: string) => string)>>
+
 /** Prima frase (o ~170 caratteri tagliati su una parola), senza markdown. */
 export function unaRiga(testo: string, max = 170): string {
   const t = plain(testo).replace(/\s+/g, ' ').trim()
@@ -61,7 +90,7 @@ const localitaBreve = (s: string) => plain(s).split(/\s[—–]\s|;|\(/)[0].trim
  * i punti sul server e passa al client solo dati semplici. Se meno di due punti
  * hanno coordinate, la sezione non compare.
  */
-export function MappaPaeseSezione({
+export async function MappaPaeseSezione({
   paeseSlug,
   nomePaese,
   destinazioni,
@@ -72,6 +101,8 @@ export function MappaPaeseSezione({
   destinazioni: Destinazione[]
   esperienze: Esperienza[]
 }) {
+  const lingua = await linguaCorrente()
+  const t = T[lingua]
   const file = leggiMappa(paeseSlug)
   if (!file) return null
   const { lng0, y0, s, ox, oy } = file.proiezione
@@ -86,7 +117,7 @@ export function MappaPaeseSezione({
       id: `d:${d.slug}`,
       tipo: 'destinazione',
       nome: d.nome,
-      kicker: d.giorniConsigliati ? `Destinazione · ${plain(d.giorniConsigliati)}` : 'Destinazione',
+      kicker: d.giorniConsigliati ? `${t.destinazione} · ${plain(d.giorniConsigliati)}` : t.destinazione,
       testo: unaRiga(d.introduzione),
       href: `/destinazioni/${paeseSlug}/${d.slug}`,
       x,
@@ -104,7 +135,7 @@ export function MappaPaeseSezione({
       id: `e:${e.slug}`,
       tipo: 'esperienza',
       nome: e.nome,
-      kicker: `Esperienza · ${localitaBreve(e.localita)}`,
+      kicker: `${t.esperienza} · ${localitaBreve(e.localita)}`,
       testo: unaRiga(e.cosE),
       href: `/esperienze/${paeseSlug}/${e.slug}`,
       x,
@@ -151,9 +182,9 @@ export function MappaPaeseSezione({
     <section id="mappa" className="scroll-mt-24 border-t border-alpine/10 py-20 sm:py-28">
       <Container>
         <SectionHeading
-          eyebrow="Mappa"
-          title="Dove sono le cose"
-          description={`${nd === 1 ? 'Una destinazione' : `${nd} destinazioni`}${ne ? ` e ${ne === 1 ? 'un\'esperienza' : `${ne} esperienze`}` : ''} su una mappa vera di ${nomePaese}: tocca un punto per avvicinarti e aprire la scheda.`}
+          eyebrow={t.mappa}
+          title={t.titolo}
+          description={t.descrizione(nd, ne, nomePaese)}
         />
         <MappaPaese nomePaese={nomePaese} mappa={dati} punti={punti} />
       </Container>

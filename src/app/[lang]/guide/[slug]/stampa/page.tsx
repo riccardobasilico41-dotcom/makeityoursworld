@@ -23,7 +23,7 @@ export function generateStaticParams() {
   return SOLO_LOCALE ? [] : Object.keys(guide).map((slug) => ({ slug }))
 }
 
-export async function generateMetadata({ params }: PageProps<'/guide/[slug]/stampa'>): Promise<Metadata> {
+export async function generateMetadata({ params }: PageProps<'/[lang]/guide/[slug]/stampa'>): Promise<Metadata> {
   const { slug } = await params
   const g = guide[slug]
   if (!g) return {}
@@ -182,11 +182,12 @@ function Mappa({ g }: { g: Guida }) {
   )
 }
 
+// La guida da stampare esiste solo in italiano: dati e testi restano in italiano in ogni lingua.
 const etichettaGiorno = (d: GiornoGuida) => (d.fino ? `Giorni ${d.numero}-${d.fino}` : `Giorno ${d.numero}`)
 
 /* ---------- Pagina ---------- */
 
-export default async function GuidaStampa({ params, searchParams }: PageProps<'/guide/[slug]/stampa'>) {
+export default async function GuidaStampa({ params, searchParams }: PageProps<'/[lang]/guide/[slug]/stampa'>) {
   if (SOLO_LOCALE) notFound()
   const { slug } = await params
   const { parte: p } = await searchParams
@@ -197,7 +198,7 @@ export default async function GuidaStampa({ params, searchParams }: PageProps<'/
   const indice = new Map(g.fonti.map((f, i) => [f.id, i + 1]))
   const copertina = copertineViaggi[g.tripSlug]
   const creditoCopertina = creditiCopertine[g.tripSlug]
-  const meta = getTripMeta(g.tripSlug)
+  const meta = getTripMeta(g.tripSlug, 'it')
   const crediti = creditiGiornoFoto[g.tripSlug] ?? {}
   const totali = g.pass?.calcolo?.reduce(
     (a, r) => ({ senza: a.senza + r.senzaPass, con: a.con + r.conPass }),

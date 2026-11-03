@@ -1,0 +1,29 @@
+{
+  "paesi": { "islanda": "iceland" },
+  "destinazioni": {
+    "islanda/keflavik": "keflavik",
+    "islanda/vik": "vik",
+    "islanda/skaftafell-jokulsarlon": "skaftafell-jokulsarlon",
+    "islanda/hofn": "hofn",
+    "islanda/egilsstadir": "egilsstadir",
+    "islanda/asbyrgi": "asbyrgi",
+    "islanda/akureyri": "akureyri-myvatn",
+    "islanda/grundarfjordur": "grundarfjordur",
+    "islanda/reykjavik": "reykjavik"
+  },
+  "esperienze": {
+    "islanda/campeggio-in-islanda": "camping-in-iceland",
+    "islanda/vulcano-reykjanes": "reykjanes-volcano",
+    "islanda/trekking-ghiacciaio-vatnajokull": "vatnajokull-glacier-trek",
+    "islanda/kayak-jokulsarlon": "jokulsarlon-kayaking",
+    "islanda/relitto-aereo-solheimasandur": "solheimasandur-plane-wreck",
+    "islanda/golden-circle": "golden-circle",
+    "islanda/whale-watching-husavik": "husavik-whale-watching",
+    "islanda/zona-geotermale-myvatn": "myvatn-geothermal-area",
+    "islanda/terme-naturali-islanda": "icelandic-hot-springs"
+  },
+  "viaggi": {
+    "islanda-2024": "iceland-2024",
+    "indonesia-itinerario": "indonesia-itinerary"
+  }
+}

@@ -2,9 +2,17 @@
 
 import type { MouseEvent } from 'react'
 import { Heart } from 'lucide-react'
+import { useLingua } from '@/lib/i18n/LinguaProvider'
+import type { Lingua } from '@/lib/i18n/config'
 import { alternaSalvato, isSalvato, useSalvati, type ElementoSalvato } from '@/lib/salvati'
 
 export type { ElementoSalvato } from '@/lib/salvati'
+
+const T = {
+  it: { salva: 'Salva', salvato: 'Salvato' },
+  en: { salva: 'Save', salvato: 'Saved' },
+  es: { salva: 'Guardar', salvato: 'Guardado' },
+} satisfies Record<Lingua, Record<string, string>>
 
 /**
  * Cuore «Salva / Salvato» per «Il mio prossimo viaggio» (/salvati).
@@ -23,9 +31,10 @@ export function SalvaBottone({
   variante?: 'icona' | 'pulsante'
   className?: string
 }) {
+  const t = T[useLingua()]
   const salvati = useSalvati()
   const salvato = isSalvato(salvati, elemento)
-  const etichetta = salvato ? 'Salvato' : 'Salva'
+  const etichetta = salvato ? t.salvato : t.salva
 
   function clic(e: MouseEvent<HTMLButtonElement>) {
     // Se finisce dentro un link o una card cliccabile, non navigare.

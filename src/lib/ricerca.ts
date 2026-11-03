@@ -1,6 +1,8 @@
 // Ricerca nel sito senza librerie: indice statico (/cerca.json) + punteggio
 // per pertinenza. Condiviso fra la route dell'indice e il pannello client.
 
+import { LOCALE, type Lingua } from './i18n/config'
+
 export type TipoVoce = 'paese' | 'destinazione' | 'viaggio' | 'esperienza' | 'meraviglia'
 
 export type VoceIndice = {
@@ -16,13 +18,20 @@ export type VoceIndice = {
   immagine?: string
 }
 
-export const GRUPPI: { tipo: TipoVoce; etichetta: string }[] = [
-  { tipo: 'paese', etichetta: 'Paesi' },
-  { tipo: 'destinazione', etichetta: 'Destinazioni' },
-  { tipo: 'viaggio', etichetta: 'Viaggi' },
-  { tipo: 'esperienza', etichetta: 'Esperienze' },
-  { tipo: 'meraviglia', etichetta: 'Meraviglie' },
-]
+const ETICHETTE_GRUPPI: Record<Lingua, Record<TipoVoce, string>> = {
+  it: { paese: 'Paesi', destinazione: 'Destinazioni', viaggio: 'Viaggi', esperienza: 'Esperienze', meraviglia: 'Meraviglie' },
+  en: { paese: 'Countries', destinazione: 'Destinations', viaggio: 'Trips', esperienza: 'Experiences', meraviglia: 'Wonders' },
+  es: { paese: 'Países', destinazione: 'Destinos', viaggio: 'Viajes', esperienza: 'Experiencias', meraviglia: 'Maravillas' },
+}
+
+const ORDINE_GRUPPI: TipoVoce[] = ['paese', 'destinazione', 'viaggio', 'esperienza', 'meraviglia']
+
+/** Gruppi dei risultati, nell'ordine di visualizzazione, con l'etichetta nella lingua. */
+export const gruppi = (lingua: Lingua): { tipo: TipoVoce; etichetta: string }[] =>
+  ORDINE_GRUPPI.map((tipo) => ({ tipo, etichetta: ETICHETTE_GRUPPI[lingua][tipo] }))
+
+/** Versione italiana, tenuta per compatibilità. */
+export const GRUPPI = gruppi('it')
 
 export const MAX_PER_GRUPPO = 8
 
@@ -54,10 +63,10 @@ function punti(campo: string, termine: string, pesoInizio: number, pesoDentro: n
   return 0
 }
 
-export function cerca(indice: VoceNormalizzata[], query: string): Map<TipoVoce, VoceIndice[]> {
+export function cerca(indice: VoceNormalizzata[], query: string, lingua: Lingua): Map<TipoVoce, VoceIndice[]> {
   const q = normalizza(query)
-  const gruppi = new Map<TipoVoce, VoceIndice[]>()
-  if (!q) return gruppi
+  const risultati = new Map<TipoVoce, VoceIndice[]>()
+  if (!q) return risultati
   const termini = q.split(' ')
 
   const trovati: { voce: VoceNormalizzata; punteggio: number }[] = []
@@ -83,14 +92,14 @@ export function cerca(indice: VoceNormalizzata[], query: string): Map<TipoVoce, 
     trovati.push({ voce, punteggio: totale })
   }
 
-  trovati.sort((a, b) => b.punteggio - a.punteggio || a.voce.nome.localeCompare(b.voce.nome, 'it'))
+  trovati.sort((a, b) => b.punteggio - a.punteggio || a.voce.nome.localeCompare(b.voce.nome, LOCALE[lingua].html))
 
   for (const { voce } of trovati) {
-    const lista = gruppi.get(voce.tipo) ?? []
+    const lista = risultati.get(voce.tipo) ?? []
     if (lista.length < MAX_PER_GRUPPO) {
       lista.push(voce)
-      gruppi.set(voce.tipo, lista)
+      risultati.set(voce.tipo, lista)
     }
   }
-  return gruppi
+  return risultati
 }

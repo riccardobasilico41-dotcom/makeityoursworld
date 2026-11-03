@@ -1,0 +1,23 @@
+{
+  "paesi": {
+    "italia": "italy",
+    "lettonia": "latvia"
+  },
+  "destinazioni": {
+    "lettonia/riga": "riga",
+    "lettonia/jurmala": "jurmala"
+  },
+  "esperienze": {
+    "lettonia/riga-art-nouveau-passeggiata": "riga-art-nouveau-walk",
+    "lettonia/riga-mercato-centrale-tour": "riga-central-market-tour",
+    "lettonia/jurmala-spiaggia-ville-liberty": "jurmala-beach-art-nouveau-villas"
+  },
+  "viaggi": {
+    "sardegna-due-anime": "sardinia-two-souls",
+    "settimana-bianca": "ski-week-italy",
+    "sicilia-completa": "all-of-sicily",
+    "sicilia-itinerario": "eastern-sicily-itinerary",
+    "torino-2-giorni": "turin-2-days",
+    "venezia-3-giorni": "venice-3-days"
+  }
+}

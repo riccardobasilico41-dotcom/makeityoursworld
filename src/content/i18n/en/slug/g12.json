@@ -1,0 +1,38 @@
+{
+  "paesi": {
+    "giordania": "jordan",
+    "guatemala": "guatemala",
+    "india": "india"
+  },
+  "destinazioni": {
+    "guatemala/antigua-guatemala": "antigua-guatemala",
+    "guatemala/lago-atitlan": "lake-atitlan",
+    "guatemala/tikal-flores": "tikal-flores",
+    "guatemala/semuc-champey": "semuc-champey",
+    "guatemala/chichicastenango": "chichicastenango",
+    "india/delhi": "delhi",
+    "india/agra": "agra-taj-mahal",
+    "india/jaipur": "jaipur",
+    "india/pushkar": "pushkar",
+    "india/jodhpur": "jodhpur",
+    "india/jaisalmer": "jaisalmer-thar-desert",
+    "india/udaipur": "udaipur",
+    "india/varanasi": "varanasi-sarnath",
+    "india/chennai": "chennai",
+    "india/mamallapuram": "mamallapuram",
+    "india/madurai": "madurai",
+    "india/munnar": "munnar",
+    "india/backwaters-alleppey": "alleppey-backwaters",
+    "india/fort-kochi": "fort-kochi",
+    "india/hampi": "hampi"
+  },
+  "esperienze": {
+    "guatemala/trekking-acatenango": "acatenango-overnight-trek",
+    "guatemala/lance-villaggi-atitlan": "atitlan-village-lancha-tour",
+    "guatemala/alba-tikal": "tikal-sunrise-temple-iv"
+  },
+  "viaggi": {
+    "giordania-itinerario": "jordan-itinerary",
+    "centro-america-itinerario": "central-america-itinerary"
+  }
+}

@@ -1,6 +1,7 @@
 import type { Viaggio } from '@/lib/viaggi'
 import type { TripMeta } from '@/lib/types'
 import { getAllDestinazioni, getAllPaesi, getPaese } from '@/lib/geo'
+import type { Lingua } from '@/lib/i18n/config'
 
 /*
  * Dati del riepilogo in cima all'articolo di viaggio. Tutto viene da quello che
@@ -27,7 +28,39 @@ export function vociSchedaPratica(markdown: string): Record<string, string> {
   return voci
 }
 
-const NOTA_LAVORO = /(da confermare|da verificare|da completare|da ricordare|da recuperare)/i
+const NOTA_LAVORO =
+  /(da confermare|da verificare|da completare|da ricordare|da recuperare|to be confirmed|to be checked|to be completed|por confirmar|por verificar|por completar)/i
+
+const T = {
+  it: {
+    ilMioViaggio: 'il mio viaggio',
+    consigliato: 'consigliato',
+    tappa: 'tappa',
+    tappe: 'tappe',
+    paesi: 'Paesi',
+    inPaese: (n: string, paese: string) => `${n} in ${paese}`,
+  },
+  en: {
+    ilMioViaggio: 'my trip',
+    consigliato: 'recommended',
+    tappa: 'stop',
+    tappe: 'stops',
+    paesi: 'countries',
+    inPaese: (n: string, paese: string) => `${n} in ${paese}`,
+  },
+  es: {
+    ilMioViaggio: 'mi viaje',
+    consigliato: 'recomendado',
+    tappa: 'parada',
+    tappe: 'paradas',
+    paesi: 'países',
+    inPaese: (n: string, paese: string) => `${n} en ${paese}`,
+  },
+} satisfies Record<Lingua, Record<string, string | ((a: string, b: string) => string)>>
+
+/** Prefisso delle tappe di rientro/arrivo (nelle tre lingue), da togliere per ricavare il luogo. */
+export const PREFISSO_TAPPA =
+  /^(Rientro|Ritorno|Arrivo) (a|ad|in) |^(Return|Back|Arrival|Arriving|Returning) (to|in|at) |^(Regreso|Vuelta|Llegada) (a|en) /i
 
 /** Prima frase o primo inciso, per stare in una casella che si legge al volo. */
 export function breve(testo: string | undefined, max = 100): string | undefined {
@@ -50,17 +83,18 @@ function prima(voci: Record<string, string>, test: (chiave: string) => boolean):
   return k ? voci[k] : undefined
 }
 
-const nomeTappa = (n: string) => n.replace(/^(Rientro|Ritorno|Arrivo) (a|ad|in) /i, '').trim().toLowerCase()
+const nomeTappa = (n: string) => n.replace(PREFISSO_TAPPA, '').trim().toLowerCase()
 
 /** Paesi toccati: quelli nominati nella Categoria più quelli delle destinazioni collegate alle tappe. */
-function paesiDelViaggio(viaggio: Viaggio, meta: TripMeta): string[] {
+function paesiDelViaggio(viaggio: Viaggio, meta: TripMeta, lingua: Lingua): string[] {
   const paesi = new Set<string>()
-  const perNome = new Map(getAllPaesi().map((p) => [p.nome.toLowerCase(), p.slug]))
+  // le categorie dei viaggi restano in italiano in ogni lingua: si confrontano con i nomi italiani
+  const perNome = new Map(getAllPaesi('it').map((p) => [p.nome.toLowerCase(), p.slug]))
   for (const c of viaggio.categorie) {
     const slug = perNome.get(c.toLowerCase())
     if (slug) paesi.add(slug)
   }
-  const destinazioni = getAllDestinazioni()
+  const destinazioni = getAllDestinazioni(lingua)
   for (const t of meta.tappeMappa) {
     if (!t.destinazioneSlug) continue
     const trovate = destinazioni.filter((d) => d.slug === t.destinazioneSlug)
@@ -96,40 +130,41 @@ function adattoA(voci: string[]): string | undefined {
   return scelte.length ? scelte.join(' · ') : undefined
 }
 
-export function datiRiepilogo(viaggio: Viaggio, meta: TripMeta): DatiRiepilogo {
+export function datiRiepilogo(viaggio: Viaggio, meta: TripMeta, lingua: Lingua): DatiRiepilogo {
+  const t = T[lingua]
   const scheda = vociSchedaPratica(viaggio.schedaPratica)
 
-  const ideale = breve(prima(scheda, (k) => k === 'quando' || k.startsWith('quando andare')), 70)
+  const ideale = breve(prima(scheda, (k) => /^(quando|when|cu[aá]ndo)$/.test(k) || /^(quando andare|when to go|cu[aá]ndo (ir|viajar))/.test(k)), 70)
   const fatto = viaggio.periodoBreve
   // «Periodo del viaggio» a volte è una data vera (6-13 luglio 2025), a volte già un consiglio
   // (maggio-settembre): solo nel primo caso si affianca il periodo consigliato della Scheda pratica.
   const eUnaData = /\d/.test(fatto)
   const quando =
     fatto && ideale && eUnaData && !ideale.toLowerCase().includes(fatto.toLowerCase())
-      ? `${fatto} (il mio viaggio) · consigliato: ${ideale.charAt(0).toLowerCase()}${ideale.slice(1)}`
+      ? `${fatto} (${t.ilMioViaggio}) · ${t.consigliato}: ${ideale.charAt(0).toLowerCase()}${ideale.slice(1)}`
       : fatto || ideale
 
-  const totale = meta.budget.find((v) => v.etichetta.toLowerCase() === 'totale')?.valore
+  const totale = meta.budget.find((v) => /^(totale|total)$/i.test(v.etichetta.trim()))?.valore
   // dalla Scheda pratica vale solo una cifra: «gestito dal DMC» non è un budget
-  const budgetScheda = breve(prima(scheda, (k) => /^(budget( indicativo)?|costi( indicativi)?)$/.test(k)), 110)
+  const budgetScheda = breve(prima(scheda, (k) => /^(budget( indicativo)?|costi( indicativi)?|costs?|indicative budget|presupuesto( orientativo| indicativo)?|costes( orientativos)?)$/.test(k)), 110)
   const budget =
     breve(meta.budgetTotale, 110) ?? breve(totale, 110) ?? (budgetScheda && /\d/.test(budgetScheda) ? budgetScheda : undefined)
 
   const muoversi =
     breve(meta.trasporti, 110) ??
-    breve(prima(scheda, (k) => /^(come ci si muove|come mi sono mosso|trasporti( interni)?)$/.test(k)), 110)
+    breve(prima(scheda, (k) => /^(come ci si muove|come mi sono mosso|trasporti( interni)?|getting around|how i got around|transport|internal transport|domestic transport|c[oó]mo (moverse|me mov[ií]|se mueve|desplazarse)|transporte( interno)?)$/.test(k)), 110)
 
   const nomi = new Set(meta.tappeMappa.map((t) => nomeTappa(t.nome)).filter(Boolean))
-  const paesi = paesiDelViaggio(viaggio, meta)
+  const paesi = paesiDelViaggio(viaggio, meta, lingua)
   let tappe: string | undefined
   if (nomi.size > 0) {
-    const n = `${nomi.size} ${nomi.size === 1 ? 'tappa' : 'tappe'}`
-    if (paesi.length > 1) tappe = `${paesi.length} Paesi · ${n}`
+    const n = `${nomi.size} ${nomi.size === 1 ? t.tappa : t.tappe}`
+    if (paesi.length > 1) tappe = `${paesi.length} ${t.paesi} · ${n}`
     else {
-      const paese = getPaese(paesi[0] ?? meta.paeseSlug)?.nome
-      tappe = paese ? `${n} in ${paese}` : n
+      const paese = getPaese(paesi[0] ?? meta.paeseSlug, lingua)?.nome
+      tappe = paese ? t.inPaese(n, paese) : n
     }
-  } else if (paesi.length > 1) tappe = `${paesi.length} Paesi`
+  } else if (paesi.length > 1) tappe = `${paesi.length} ${t.paesi}`
 
   return {
     durata: maiuscola(viaggio.durataBreve),

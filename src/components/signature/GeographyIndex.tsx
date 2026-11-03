@@ -1,8 +1,26 @@
-import Link from 'next/link'
+import Link from '@/components/ui/Link'
 import { Container } from '@/components/ui/Container'
 import { Reveal } from '@/components/Reveal'
 import { codicePaese } from './paese-codici'
 import type { Paese } from '@/lib/types'
+import { linguaCorrente } from '@/lib/i18n/server'
+import { etichetta } from '@/lib/i18n/etichette'
+import type { Lingua } from '@/lib/i18n/config'
+
+const T = {
+  it: {
+    titolo: 'Da dove vuoi partire?',
+    conteggio: (n: number) => `${n} Paesi in archivio, ognuno con una scheda pratica completa e le sue destinazioni.`,
+  },
+  en: {
+    titolo: 'Where do you want to start?',
+    conteggio: (n: number) => `${n} countries in the archive, each with a complete practical guide and its destinations.`,
+  },
+  es: {
+    titolo: '¿Por dónde quieres empezar?',
+    conteggio: (n: number) => `${n} países en el archivo, cada uno con una ficha práctica completa y sus destinos.`,
+  },
+} satisfies Record<Lingua, Record<string, string | ((n: number) => string)>>
 
 type GruppoContinente = { continente: string; items: Paese[] }
 
@@ -14,24 +32,25 @@ type GruppoContinente = { continente: string; items: Paese[] }
  * confini geografici reali disponibili in questo ambiente — quindi non
  * finge di esserlo: è un indice cartografico tipografico, dichiaratamente.
  */
-export function GeographyIndex({
+export async function GeographyIndex({
   gruppi,
   conteggioDestinazioni,
 }: {
   gruppi: GruppoContinente[]
   conteggioDestinazioni: (paeseSlug: string) => number
 }) {
+  const lingua = await linguaCorrente()
+  const t = T[lingua]
   return (
     <section className="border-t border-alpine/10 bg-alpine-dark py-24 text-cream sm:py-32">
       <Container>
         <Reveal>
           <div className="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
             <h2 className="max-w-lg font-display text-[clamp(2rem,3.4vw,3rem)] text-balance">
-              Da dove vuoi partire?
+              {t.titolo}
             </h2>
             <p className="max-w-sm text-sm leading-relaxed text-cream/60">
-              {gruppi.reduce((n, g) => n + g.items.length, 0)} Paesi in archivio, ognuno con una scheda pratica
-              completa e le sue destinazioni.
+              {t.conteggio(gruppi.reduce((n, g) => n + g.items.length, 0))}
             </p>
           </div>
         </Reveal>
@@ -40,7 +59,7 @@ export function GeographyIndex({
           {gruppi.map(({ continente, items }, gi) => (
             <Reveal key={continente} delay={Math.min(gi * 0.04, 0.2)}>
               <div className="grid gap-4 border-t border-cream/10 pt-8 sm:grid-cols-[10rem_1fr] sm:gap-8">
-                <p className="font-mono text-xs uppercase tracking-[0.2em] text-cream/40">{continente}</p>
+                <p className="font-mono text-xs uppercase tracking-[0.2em] text-cream/40">{etichetta(continente, lingua)}</p>
                 <ul className="grid gap-x-8 gap-y-3 sm:grid-cols-2 lg:grid-cols-3">
                   {items.map((paese) => (
                     <li key={paese.slug}>

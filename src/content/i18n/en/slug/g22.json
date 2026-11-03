@@ -1,0 +1,52 @@
+{
+  "paesi": {
+    "new-york": "new-york",
+    "norvegia": "norway",
+    "paesi-bassi": "netherlands",
+    "panama": "panama"
+  },
+  "destinazioni": {
+    "norvegia/oslo": "oslo",
+    "norvegia/bodo": "bodo",
+    "norvegia/svolvaer": "svolvaer",
+    "norvegia/henningsvaer": "henningsvaer",
+    "norvegia/reine": "reine",
+    "norvegia/nesland-flakstad": "nesland-flakstad",
+    "norvegia/a": "a-village",
+    "norvegia/tromso": "tromso",
+    "paesi-bassi/amsterdam": "amsterdam",
+    "panama/panama-city": "panama-city",
+    "panama/san-blas": "san-blas",
+    "panama/bocas-del-toro": "bocas-del-toro",
+    "panama/boquete": "boquete-highlands"
+  },
+  "esperienze": {
+    "norvegia/trollfjord-rib": "trollfjord-rib-boat",
+    "norvegia/reinebringen": "reinebringen",
+    "norvegia/festvagtind-trail": "festvagtind-trail",
+    "norvegia/spiaggia-di-bunes": "bunes-beach",
+    "norvegia/viking-museum-borg": "borg-viking-museum",
+    "norvegia/museo-dei-pescatori": "fishermans-museum",
+    "norvegia/nesland-nusfjord": "nesland-nusfjord-walk",
+    "norvegia/aurora-chase-minibus-tromso": "aurora-chase-minibus-tromso",
+    "norvegia/husky-sledding-tromso": "husky-sledding-tromso",
+    "norvegia/sami-renne-lavvu-tromso": "sami-reindeer-lavvu-tromso",
+    "norvegia/whale-watching-tromso": "whale-watching-tromso",
+    "norvegia/glass-igloo-lyngen": "glass-igloo-lyngen",
+    "norvegia/vigeland-park-oslo": "vigeland-park-oslo",
+    "norvegia/bygdoy-musei-fram-kontiki": "bygdoy-fram-kon-tiki-museums",
+    "norvegia/oslofjord-crociera": "oslofjord-cruise",
+    "paesi-bassi/casa-di-anna-frank": "anne-frank-house",
+    "paesi-bassi/amsterdam-in-bicicletta": "amsterdam-by-bike",
+    "paesi-bassi/crociera-sui-canali-amsterdam": "amsterdam-canal-cruise",
+    "panama/chiuse-miraflores": "miraflores-locks",
+    "panama/notte-isola-san-blas": "san-blas-island-night",
+    "panama/alba-volcan-baru": "volcan-baru-sunrise"
+  },
+  "viaggi": {
+    "new-york-itinerario": "new-york-itinerary",
+    "lofoten-estate-2025": "lofoten-summer-2025",
+    "tromso": "tromso",
+    "amsterdam-weekend": "amsterdam-weekend"
+  }
+}

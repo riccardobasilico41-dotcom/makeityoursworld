@@ -1,7 +1,11 @@
 import fs from 'node:fs'
 import path from 'node:path'
 
+import type { Lingua } from './i18n/config'
+
 const CONTENT_DIR = path.join(process.cwd(), 'src/content/viaggi')
+/** Markdown tradotti: stesso nome file in src/content/i18n/<lingua>/viaggi/. Se manca, resta l'italiano. */
+const dirTradotti = (lingua: Lingua) => path.join(process.cwd(), 'src/content/i18n', lingua, 'viaggi')
 
 export type ViaggioSezione = {
   titolo: string
@@ -121,8 +125,8 @@ function isSpecial(titolo: string): boolean {
   return false
 }
 
-function parseViaggio(filename: string): Viaggio {
-  const raw = fs.readFileSync(path.join(CONTENT_DIR, filename), 'utf8')
+function parseViaggio(filename: string, dir: string = CONTENT_DIR): Viaggio {
+  const raw = fs.readFileSync(path.join(dir, filename), 'utf8')
 
   const orderMatch = filename.match(/^(\d+)-/)
   const ordine = orderMatch ? parseInt(orderMatch[1], 10) : 0
@@ -193,17 +197,26 @@ function parseViaggio(filename: string): Viaggio {
   }
 }
 
-let cache: Viaggio[] | null = null
+const cache: Partial<Record<Lingua, Viaggio[]>> = {}
 
-export function getAllViaggi(): Viaggio[] {
-  if (cache) return cache
+export function getAllViaggi(lingua: Lingua): Viaggio[] {
+  const pronti = cache[lingua]
+  if (pronti) return pronti
   const files = fs.readdirSync(CONTENT_DIR).filter((f) => f.endsWith('.md'))
-  cache = files.map(parseViaggio).sort((a, b) => a.ordine - b.ordine)
-  return cache
+  const tradotti = lingua === 'it' ? '' : dirTradotti(lingua)
+  cache[lingua] = files
+    .map((f) => {
+      if (!tradotti || !fs.existsSync(path.join(tradotti, f))) return parseViaggio(f)
+      // dal testo tradotto, ma categorie e tag restano quelli italiani: servono ai filtri e ai raggruppamenti
+      const it = parseViaggio(f)
+      return { ...parseViaggio(f, tradotti), categorie: it.categorie, tags: it.tags, inLavorazione: it.inLavorazione }
+    })
+    .sort((a, b) => a.ordine - b.ordine)
+  return cache[lingua]!
 }
 
-export function getViaggioBySlug(slug: string): Viaggio | undefined {
-  return getAllViaggi().find((v) => v.slug === slug)
+export function getViaggioBySlug(slug: string, lingua: Lingua): Viaggio | undefined {
+  return getAllViaggi(lingua).find((v) => v.slug === slug)
 }
 
 // getContinente vive in ./utils (nessuna dipendenza da 'node:fs'), così i

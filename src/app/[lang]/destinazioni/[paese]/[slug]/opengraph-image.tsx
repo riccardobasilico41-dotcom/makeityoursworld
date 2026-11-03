@@ -1,5 +1,7 @@
 import { ogImage, ogTesto, OG_SIZE, OG_CONTENT_TYPE } from '@/lib/og'
 import { getDestinazione, getPaese } from '@/lib/geo'
+import { isLingua } from '@/lib/i18n/config'
+import type { Lingua } from '@/lib/i18n/config'
 
 export const size = OG_SIZE
 export const contentType = OG_CONTENT_TYPE
@@ -14,14 +16,18 @@ export function generateStaticParams() {
   return []
 }
 
-export default async function Image({ params }: { params: Promise<{ paese: string; slug: string }> }) {
-  const { paese: paeseSlug, slug } = await params
-  const destinazione = getDestinazione(paeseSlug, slug)
-  const paese = getPaese(paeseSlug)
+const ETICHETTA: Record<Lingua, string> = { it: 'Destinazione', en: 'Destination', es: 'Destino' }
+
+export default async function Image({ params }: { params: Promise<{ lang: string; paese: string; slug: string }> }) {
+  const { lang, paese: paeseSlug, slug } = await params
+  const lingua: Lingua = isLingua(lang) ? lang : 'en'
+  const destinazione = getDestinazione(paeseSlug, slug, lingua)
+  const paese = getPaese(paeseSlug, lingua)
 
   return ogImage({
-    eyebrow: paese?.nome ?? 'Destinazione',
-    titolo: ogTesto(destinazione?.nome ?? 'Destinazione', 90),
+    lingua,
+    eyebrow: paese?.nome ?? ETICHETTA[lingua],
+    titolo: ogTesto(destinazione?.nome ?? ETICHETTA[lingua], 90),
     immagine: destinazione?.immagine,
   })
 }

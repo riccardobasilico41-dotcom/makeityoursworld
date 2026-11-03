@@ -4,8 +4,12 @@ import { SalvaBottone } from '@/components/SalvaBottone'
 import { ScaricaGuida } from '@/components/ScaricaGuida'
 import { FirmaAutore, FirmaBreve } from '@/components/FirmaAutore'
 import { OrganizzaViaggio } from '@/components/OrganizzaViaggio'
-import { listaPerViaggio } from '@/content/attrezzatura'
 import { notFound, permanentRedirect } from 'next/navigation'
+import { listaPerViaggio, copertina as copertinaViaggio, editoriale } from '@/lib/i18n/contenuti'
+import { linguaCorrente } from '@/lib/i18n/server'
+import { LOCALE, type Lingua } from '@/lib/i18n/config'
+import { etichetta } from '@/lib/i18n/etichette'
+import { localizza } from '@/lib/i18n/percorsi'
 
 /** Vecchi indirizzi con «-360» (titoli rinominati il 30/10/2026): redirect permanente al nuovo. */
 const VECCHI_SLUG: Record<string, string> = {
@@ -21,7 +25,7 @@ import { Tendina } from '@/components/Tendina'
 import { ScrollProgress } from '@/components/motion-primitives/scroll-progress'
 import { TripSummary } from '@/components/TripSummary'
 import { RiepilogoViaggio } from '@/components/RiepilogoViaggio'
-import { minutiDiLettura } from '@/lib/riepilogo-viaggio'
+import { minutiDiLettura, PREFISSO_TAPPA } from '@/lib/riepilogo-viaggio'
 import { Clock } from 'lucide-react'
 import { BudgetBreakdown } from '@/components/BudgetBreakdown'
 import type { TocItem } from '@/components/StickyTableOfContents'
@@ -37,23 +41,133 @@ import type { ViaggioInBreve, TripMeta } from '@/lib/types'
 import { getContinente, slugify } from '@/lib/utils'
 import { JsonLd } from '@/components/JsonLd'
 import { articoloViaggioJsonLd, breadcrumbJsonLd } from '@/lib/structured-data'
-import { copertineViaggi } from '@/content/viaggi-copertine'
-import { getEditorialMeta, type EditorialMeta } from '@/content/viaggi-editorial'
+import type { EditorialMeta } from '@/content/viaggi-editorial'
 import { getHeroVideo } from '@/content/viaggi-hero-video'
 import { pageMetadata } from '@/lib/seo'
 
+const T = {
+  it: {
+    home: 'Home',
+    viaggi: 'Viaggi',
+    inBreve: 'Il viaggio in breve',
+    mappa: 'Mappa',
+    itinerarioZone: 'Itinerario per zone',
+    itinerarioGiorni: 'Itinerario giorno per giorno',
+    cosaVedere: 'Cosa vedere e fare',
+    doveDormire: 'Dove dormire',
+    doveMangiare: 'Dove mangiare',
+    budget: 'Budget',
+    consigli: 'Consigli pratici',
+    errori: 'Errori da evitare',
+    organizza: 'Organizza il viaggio',
+    schedaPratica: 'Scheda pratica',
+    inQuestaPagina: 'In questa pagina',
+    min: 'min',
+    diLettura: 'di lettura',
+    periodo: 'Periodo: ',
+    durata: 'Durata: ',
+    effettuato: (p: string) => `Viaggio effettuato nel periodo: ${p} · `,
+    aggiornata: 'Pagina aggiornata il',
+    verifica: 'Prezzi, orari, documenti e traghetti vanno sempre verificati prima della partenza.',
+    laRotta: 'La rotta',
+    rottaLead: "Le tappe dell'itinerario, nell'ordine in cui si visitano.",
+    budgetNota:
+      "Voci di spesa indicative: dove non c'è un dato affidabile, la voce resta vuota invece di una stima inventata.",
+    doveHoDormito: 'Dove ho dormito',
+    doveHoDormitoSub: 'Gli hotel tappa per tappa, con le alternative',
+    doveHoMangiato: 'Dove ho mangiato',
+    percheHoScelto: 'Perché ho scelto questo viaggio',
+    cosaCercavo: 'Cosa cercavo',
+    treEsperienzePiuBelle: 'Le tre esperienze più belle',
+    cosaCambierei: 'Cosa cambierei oggi',
+    aChiLoConsiglio: 'A chi lo consiglio',
+  },
+  en: {
+    home: 'Home',
+    viaggi: 'Trips',
+    inBreve: 'The trip in brief',
+    mappa: 'Map',
+    itinerarioZone: 'Itinerary by area',
+    itinerarioGiorni: 'Day-by-day itinerary',
+    cosaVedere: 'What to see and do',
+    doveDormire: 'Where to sleep',
+    doveMangiare: 'Where to eat',
+    budget: 'Budget',
+    consigli: 'Practical tips',
+    errori: 'Mistakes to avoid',
+    organizza: 'Plan the trip',
+    schedaPratica: 'Practical info',
+    inQuestaPagina: 'On this page',
+    min: 'min',
+    diLettura: 'read',
+    periodo: 'Period: ',
+    durata: 'Length: ',
+    effettuato: (p: string) => `Trip taken in: ${p} · `,
+    aggiornata: 'Page updated on',
+    verifica: 'Prices, opening hours, documents and ferries should always be checked before departure.',
+    laRotta: 'The route',
+    rottaLead: 'The stops of the itinerary, in the order they are visited.',
+    budgetNota:
+      "Indicative costs: where there's no reliable figure, the line is left blank instead of an invented estimate.",
+    doveHoDormito: 'Where I stayed',
+    doveHoDormitoSub: 'The hotels stop by stop, with alternatives',
+    doveHoMangiato: 'Where I ate',
+    percheHoScelto: 'Why I chose this trip',
+    cosaCercavo: 'What I was looking for',
+    treEsperienzePiuBelle: 'The three best experiences',
+    cosaCambierei: 'What I would change today',
+    aChiLoConsiglio: 'Who I recommend it to',
+  },
+  es: {
+    home: 'Inicio',
+    viaggi: 'Viajes',
+    inBreve: 'El viaje en breve',
+    mappa: 'Mapa',
+    itinerarioZone: 'Itinerario por zonas',
+    itinerarioGiorni: 'Itinerario día a día',
+    cosaVedere: 'Qué ver y hacer',
+    doveDormire: 'Dónde dormir',
+    doveMangiare: 'Dónde comer',
+    budget: 'Presupuesto',
+    consigli: 'Consejos prácticos',
+    errori: 'Errores que evitar',
+    organizza: 'Organiza el viaje',
+    schedaPratica: 'Ficha práctica',
+    inQuestaPagina: 'En esta página',
+    min: 'min',
+    diLettura: 'de lectura',
+    periodo: 'Periodo: ',
+    durata: 'Duración: ',
+    effettuato: (p: string) => `Viaje realizado en el periodo: ${p} · `,
+    aggiornata: 'Página actualizada el',
+    verifica: 'Los precios, horarios, documentos y ferris deben comprobarse siempre antes de salir.',
+    laRotta: 'La ruta',
+    rottaLead: 'Las paradas del itinerario, en el orden en que se visitan.',
+    budgetNota:
+      'Partidas de gasto orientativas: donde no hay un dato fiable, la partida queda vacía en lugar de una estimación inventada.',
+    doveHoDormito: 'Dónde dormí',
+    doveHoDormitoSub: 'Los hoteles parada a parada, con alternativas',
+    doveHoMangiato: 'Dónde comí',
+    percheHoScelto: 'Por qué elegí este viaje',
+    cosaCercavo: 'Qué buscaba',
+    treEsperienzePiuBelle: 'Las tres mejores experiencias',
+    cosaCambierei: 'Qué cambiaría hoy',
+    aChiLoConsiglio: 'A quién se lo recomiendo',
+  },
+} satisfies Record<Lingua, Record<string, string | ((p: string) => string)>>
+
 export async function generateStaticParams() {
-  return getAllViaggi().map((v) => ({ slug: v.slug }))
+  // gli slug dei viaggi sono uguali in ogni lingua
+  return getAllViaggi('en').map((v) => ({ slug: v.slug }))
 }
 
-export async function generateMetadata({
-  params,
-}: PageProps<'/viaggi/[slug]'>): Promise<Metadata> {
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params
-  const viaggio = getViaggioBySlug(slug)
+  const lingua = await linguaCorrente()
+  const viaggio = getViaggioBySlug(slug, lingua)
   if (!viaggio) return {}
 
-  const editorial = getEditorialMeta(slug)
+  const editorial = editoriale(slug, lingua)
   return pageMetadata({
     title: editorial.seoTitle ?? viaggio.titolo,
     description: editorial.seoDescription ?? viaggio.descrizione,
@@ -61,71 +175,81 @@ export async function generateMetadata({
     socialDescription: editorial.socialDescription,
     path: `/viaggi/${viaggio.slug}`,
     type: 'article',
+    lingua,
   })
 }
 
-const CAMPI_VIAGGIO_IN_BREVE: { key: keyof ViaggioInBreve; label: string }[] = [
-  { key: 'percheHoScelto', label: 'Perché ho scelto questo viaggio' },
-  { key: 'cosaCercavo', label: 'Cosa cercavo' },
-  { key: 'treEsperienzePiuBelle', label: 'Le tre esperienze più belle' },
-  { key: 'cosaCambierei', label: 'Cosa cambierei oggi' },
-  { key: 'aChiLoConsiglio', label: 'A chi lo consiglio' },
-]
+const CAMPI_VIAGGIO_IN_BREVE = [
+  'percheHoScelto',
+  'cosaCercavo',
+  'treEsperienzePiuBelle',
+  'cosaCambierei',
+  'aChiLoConsiglio',
+] as const satisfies (keyof ViaggioInBreve)[]
 
-export default async function ViaggioPage({ params }: PageProps<'/viaggi/[slug]'>) {
+export default async function ViaggioPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
-  if (VECCHI_SLUG[slug]) permanentRedirect(`/viaggi/${VECCHI_SLUG[slug]}`)
-  const viaggio = getViaggioBySlug(slug)
+  const lingua = await linguaCorrente()
+  const t = T[lingua]
+  if (VECCHI_SLUG[slug]) permanentRedirect(localizza(`/viaggi/${VECCHI_SLUG[slug]}`, lingua))
+  const viaggio = getViaggioBySlug(slug, lingua)
   if (!viaggio) notFound()
 
-  const meta = getTripMeta(viaggio.slug)
+  const meta = getTripMeta(viaggio.slug, lingua)
   if (!meta) notFound()
-  const copertina = copertineViaggi[viaggio.slug]
-  const editorial = getEditorialMeta(viaggio.slug)
+  const copertina = copertinaViaggio(viaggio.slug, lingua)
+  const editorial = editoriale(viaggio.slug, lingua)
 
-  const cosaVedereSezione = viaggio.sezioni.find((s) => /^Cosa vedere/i.test(s.titolo))
-  const consigliSezione = viaggio.sezioni.find((s) => /^Consigli pratici/i.test(s.titolo))
+  const cosaVedereSezione = viaggio.sezioni.find((s) => /^(Cosa vedere|What to see|Qué ver)/i.test(s.titolo))
+  const consigliSezione = viaggio.sezioni.find((s) => /^(Consigli pratici|Practical tips|Consejos prácticos)/i.test(s.titolo))
   const altreSezioni = viaggio.sezioni.filter((s) => s !== cosaVedereSezione && s !== consigliSezione)
 
   const toc: TocItem[] = []
-  if (meta && CAMPI_VIAGGIO_IN_BREVE.some(({ key }) => meta.viaggioInBreve[key]))
-    toc.push({ href: '#il-viaggio-in-breve', label: 'Il viaggio in breve' })
-  if (meta && meta.tappeMappa.length > 0) toc.push({ href: '#mappa', label: 'Mappa' })
+  if (meta && CAMPI_VIAGGIO_IN_BREVE.some((key) => meta.viaggioInBreve[key]))
+    toc.push({ href: '#il-viaggio-in-breve', label: t.inBreve })
+  if (meta && meta.tappeMappa.length > 0) toc.push({ href: '#mappa', label: t.mappa })
   if (viaggio.giorni.length > 0)
     toc.push({
       href: '#itinerario-giorno-per-giorno',
-      label: meta?.unitaGiorniLabel ? 'Itinerario per zone' : 'Itinerario giorno per giorno',
+      label: meta?.unitaGiorniLabel ? t.itinerarioZone : t.itinerarioGiorni,
     })
-  if (cosaVedereSezione) toc.push({ href: `#${slugify(cosaVedereSezione.titolo)}`, label: 'Cosa vedere e fare' })
-  if (viaggio.doveDormito) toc.push({ href: '#dove-dormire', label: 'Dove dormire' })
-  if (viaggio.doveMangiato) toc.push({ href: '#dove-mangiare', label: 'Dove mangiare' })
-  if (meta) toc.push({ href: '#budget', label: 'Budget' })
+  if (cosaVedereSezione) toc.push({ href: `#${slugify(cosaVedereSezione.titolo)}`, label: t.cosaVedere })
+  if (viaggio.doveDormito) toc.push({ href: '#dove-dormire', label: t.doveDormire })
+  if (viaggio.doveMangiato) toc.push({ href: '#dove-mangiare', label: t.doveMangiare })
+  if (meta) toc.push({ href: '#budget', label: t.budget })
   if (consigliSezione) {
-    toc.push({ href: `#${slugify(consigliSezione.titolo)}`, label: 'Consigli pratici' })
-    toc.push({ href: `#${slugify(consigliSezione.titolo)}`, label: 'Errori da evitare' })
+    toc.push({ href: `#${slugify(consigliSezione.titolo)}`, label: t.consigli })
+    toc.push({ href: `#${slugify(consigliSezione.titolo)}`, label: t.errori })
   }
-  if (meta) toc.push({ href: '#organizza', label: 'Organizza il viaggio' })
+  if (meta) toc.push({ href: '#organizza', label: t.organizza })
 
   return (
     <>
       <JsonLd
         data={[
-          articoloViaggioJsonLd({
-            titolo: viaggio.titolo,
-            descrizione: viaggio.descrizione,
-            percorso: `/viaggi/${viaggio.slug}`,
-            sezioni: viaggio.sezioni.map((s) => s.titolo),
-          }),
-          breadcrumbJsonLd([
-            { nome: 'Home', percorso: '/' },
-            { nome: 'Viaggi', percorso: '/viaggi' },
-            { nome: viaggio.titolo, percorso: `/viaggi/${viaggio.slug}` },
-          ]),
+          articoloViaggioJsonLd(
+            {
+              titolo: viaggio.titolo,
+              descrizione: viaggio.descrizione,
+              percorso: `/viaggi/${viaggio.slug}`,
+              sezioni: viaggio.sezioni.map((s) => s.titolo),
+            },
+            lingua,
+          ),
+          breadcrumbJsonLd(
+            [
+              { nome: t.home, percorso: '/' },
+              { nome: t.viaggi, percorso: '/viaggi' },
+              { nome: viaggio.titolo, percorso: `/viaggi/${viaggio.slug}` },
+            ],
+            lingua,
+          ),
         ]}
       />
       <ScrollProgress className="fixed inset-x-0 top-0 z-[60] h-0.5 bg-rosso motion-reduce:hidden" />
 
       <SignatureViaggioContent
+        lingua={lingua}
         viaggio={viaggio}
         meta={meta}
         copertina={copertina}
@@ -149,6 +273,7 @@ type SezioneViaggio = Viaggio['sezioni'][number]
  * grandi + segnaposto di percorso.
  */
 function SignatureViaggioContent({
+  lingua,
   viaggio,
   meta,
   copertina,
@@ -159,6 +284,7 @@ function SignatureViaggioContent({
   consigliSezione,
   altreSezioni,
 }: {
+  lingua: Lingua
   viaggio: Viaggio
   meta: TripMeta
   copertina?: { immagine: string; imageAlt: string }
@@ -169,12 +295,13 @@ function SignatureViaggioContent({
   consigliSezione?: SezioneViaggio
   altreSezioni: SezioneViaggio[]
 }) {
+  const t = T[lingua]
   return (
     <>
       <Filigrana paese={meta.paeseSlug} />
       <PageHeader
-        crumbs={[{ label: 'Home', href: '/' }, { label: 'Viaggi', href: '/viaggi' }, { label: viaggio.titolo }]}
-        eyebrow={getContinente(viaggio.categorie)}
+        crumbs={[{ label: t.home, href: '/' }, { label: t.viaggi, href: '/viaggi' }, { label: viaggio.titolo }]}
+        eyebrow={etichetta(getContinente(viaggio.categorie), lingua)}
         title={editorial.editorialHeadline ?? viaggio.titolo}
         lead={
           <>
@@ -186,7 +313,7 @@ function SignatureViaggioContent({
           <p className="inline-flex items-center gap-2 text-sm text-stone">
             <Clock size={16} aria-hidden className="text-rosso" />
             <span>
-              <span className="font-semibold text-ink">{minutiDiLettura(viaggio)} min</span> di lettura
+              <span className="font-semibold text-ink">{minutiDiLettura(viaggio)} {t.min}</span> {t.diLettura}
             </span>
           </p>
         }
@@ -216,9 +343,9 @@ function SignatureViaggioContent({
         <Container>
           <div className="space-y-16">
             {toc.length > 0 && (
-              <nav aria-label="In questa pagina" className="-mt-6 flex flex-wrap items-center gap-2 text-sm">
-                <span className="mr-1 text-xs font-semibold uppercase tracking-[0.18em] text-stone/85">In questa pagina</span>
-                {[...(viaggio.schedaPratica ? [{ href: '#scheda-pratica', label: 'Scheda pratica' }] : []), ...toc]
+              <nav aria-label={t.inQuestaPagina} className="-mt-6 flex flex-wrap items-center gap-2 text-sm">
+                <span className="mr-1 text-xs font-semibold uppercase tracking-[0.18em] text-stone/85">{t.inQuestaPagina}</span>
+                {[...(viaggio.schedaPratica ? [{ href: '#scheda-pratica', label: t.schedaPratica }] : []), ...toc]
                   .filter((v, i, a) => a.findIndex((x) => x.href === v.href) === i)
                   .map((v) => (
                     <a
@@ -239,13 +366,13 @@ function SignatureViaggioContent({
 
             <div className="space-y-8">
               <TripSummary meta={meta} />
-              {CAMPI_VIAGGIO_IN_BREVE.some(({ key }) => meta.viaggioInBreve[key]) && (
+              {CAMPI_VIAGGIO_IN_BREVE.some((key) => meta.viaggioInBreve[key]) && (
                 <div id="il-viaggio-in-breve" className="scroll-mt-24">
-                  <h2 className="font-display text-xl text-alpine">Il viaggio in breve</h2>
+                  <h2 className="font-display text-xl text-alpine">{t.inBreve}</h2>
                   <dl className="mt-4 grid gap-4 sm:grid-cols-2">
-                    {CAMPI_VIAGGIO_IN_BREVE.filter(({ key }) => meta.viaggioInBreve[key]).map(({ key, label }) => (
+                    {CAMPI_VIAGGIO_IN_BREVE.filter((key) => meta.viaggioInBreve[key]).map((key) => (
                       <div key={key} className="rounded-none border border-alpine/10 p-4">
-                        <dt className="text-xs font-semibold uppercase tracking-wider text-stone/85">{label}</dt>
+                        <dt className="text-xs font-semibold uppercase tracking-wider text-stone/85">{t[key]}</dt>
                         <dd className="mt-1.5 text-sm leading-relaxed text-ink">{meta.viaggioInBreve[key]}</dd>
                       </div>
                     ))}
@@ -256,16 +383,16 @@ function SignatureViaggioContent({
 
             {viaggio.schedaPratica && (
               <div id="scheda-pratica" className="scroll-mt-24 border-2 border-ink bg-cream-dark/50 p-6 sm:p-8">
-                <h2 className="font-display text-2xl text-alpine">Scheda pratica</h2>
+                <h2 className="font-display text-2xl text-alpine">{t.schedaPratica}</h2>
                 {viaggio.periodo && viaggio.periodo !== viaggio.periodoBreve && (
                   <p className="mt-4 text-sm leading-relaxed text-stone">
-                    <span className="font-semibold text-ink">Periodo: </span>
+                    <span className="font-semibold text-ink">{t.periodo}</span>
                     {viaggio.periodo}
                   </p>
                 )}
                 {viaggio.durata && viaggio.durata !== viaggio.durataBreve && (
                   <p className="mt-4 text-sm leading-relaxed text-stone">
-                    <span className="font-semibold text-ink">Durata: </span>
+                    <span className="font-semibold text-ink">{t.durata}</span>
                     {viaggio.durata}
                   </p>
                 )}
@@ -274,16 +401,16 @@ function SignatureViaggioContent({
             )}
 
             <p className="text-xs leading-relaxed text-stone/85">
-              {viaggio.periodo ? `Viaggio effettuato nel periodo: ${viaggio.periodo} · ` : ''}Pagina aggiornata il{' '}
-              {new Date().toLocaleDateString('it-IT', { year: 'numeric', month: 'long', day: 'numeric' })}.
+              {viaggio.periodo ? t.effettuato(viaggio.periodo) : ''}{t.aggiornata}{' '}
+              {new Date().toLocaleDateString(LOCALE[lingua].html, { year: 'numeric', month: 'long', day: 'numeric' })}.
               <br />
-              Prezzi, orari, documenti e traghetti vanno sempre verificati prima della partenza.
+              {t.verifica}
             </p>
             {meta.tappeMappa.length > 0 && (
               <div id="mappa" className="scroll-mt-24">
-                <h2 className="font-display text-2xl text-alpine">La rotta</h2>
+                <h2 className="font-display text-2xl text-alpine">{t.laRotta}</h2>
                 <p className="mt-2 max-w-xl text-sm leading-relaxed text-stone">
-                  Le tappe dell&apos;itinerario, nell&apos;ordine in cui si visitano.
+                  {t.rottaLead}
                 </p>
                 <div className="mt-8 rounded-none border border-alpine/10 bg-cream-dark/40 p-6 sm:p-10">
                   <RouteLine
@@ -300,7 +427,7 @@ function SignatureViaggioContent({
             {viaggio.giorni.length > 0 && (
               <div id="itinerario-giorno-per-giorno" className="scroll-mt-24">
                 <h2 className="font-display text-2xl text-alpine">
-                  {meta.unitaGiorniLabel ? 'Itinerario per zone' : 'Itinerario giorno per giorno'}
+                  {meta.unitaGiorniLabel ? t.itinerarioZone : t.itinerarioGiorni}
                 </h2>
                 <div className="mt-10">
                   <DaySectionSignature
@@ -329,22 +456,21 @@ function SignatureViaggioContent({
                 </Tendina>
               ))}
               {viaggio.doveDormito && (
-                <Tendina id="dove-dormire" titolo="Dove ho dormito" sottotitolo="Gli hotel tappa per tappa, con le alternative">
+                <Tendina id="dove-dormire" titolo={t.doveHoDormito} sottotitolo={t.doveHoDormitoSub}>
                   <Prose className="hotel-schede mt-2 max-w-none text-sm">{viaggio.doveDormito}</Prose>
                 </Tendina>
               )}
               {viaggio.doveMangiato && (
-                <Tendina id="dove-mangiare" titolo="Dove ho mangiato">
+                <Tendina id="dove-mangiare" titolo={t.doveHoMangiato}>
                   <Prose className="hotel-schede mt-2 max-w-none text-sm">{viaggio.doveMangiato}</Prose>
                 </Tendina>
               )}
             </div>
 
             <div id="budget" className="scroll-mt-24">
-              <h2 className="font-display text-2xl text-alpine">Budget</h2>
+              <h2 className="font-display text-2xl text-alpine">{t.budget}</h2>
               <p className="mt-2 text-sm text-stone">
-                Voci di spesa indicative: dove non c&apos;è un dato affidabile, la voce resta vuota invece di
-                una stima inventata.
+                {t.budgetNota}
               </p>
               <div className="mt-4">
                 <BudgetBreakdown voci={meta.budget} />
@@ -368,17 +494,17 @@ function SignatureViaggioContent({
               <div className="flex flex-wrap gap-2">
                 {viaggio.tags.map((tag) => (
                   <span key={tag} className="rounded-none bg-alpine/5 px-3 py-1 text-xs font-medium text-alpine">
-                    #{tag}
+                    #{etichetta(tag, lingua)}
                   </span>
                 ))}
               </div>
             )}
             <OrganizzaViaggio
-              tappe={meta.tappeMappa.map((t) => t.nome.replace(/^(Rientro|Ritorno|Arrivo) (a|ad|in) /i, ''))}
+              tappe={meta.tappeMappa.map((t) => t.nome.replace(PREFISSO_TAPPA, ''))}
               paese={viaggio.categorie[1] ?? getContinente(viaggio.categorie)}
               asia={getContinente(viaggio.categorie) === 'Asia'}
               cina={viaggio.categorie.includes('Cina')}
-              lista={listaPerViaggio(viaggio.slug)}
+              lista={listaPerViaggio(viaggio.slug, lingua)}
             />
             <FirmaAutore />
           </div>

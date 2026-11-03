@@ -1,12 +1,20 @@
 'use client'
 
 import { useRef, useEffect, useState } from 'react'
-import Link from 'next/link'
+import Link from '@/components/ui/Link'
 import Image from 'next/image'
 import { ArrowRight } from 'lucide-react'
 import { Container } from '@/components/ui/Container'
 import { RouteLine } from './RouteLine'
 import type { PuntoTappa } from './geo'
+import { useLingua } from '@/lib/i18n/LinguaProvider'
+import type { Lingua } from '@/lib/i18n/config'
+
+const T = {
+  it: { inEvidenza: 'Il viaggio in evidenza', leggi: "Leggi l'itinerario completo" },
+  en: { inEvidenza: 'Featured trip', leggi: 'Read the full itinerary' },
+  es: { inEvidenza: 'El viaje destacado', leggi: 'Lee el itinerario completo' },
+} satisfies Record<Lingua, Record<string, string>>
 
 // gsap si scarica solo dove serve il pin (schermi larghi, senza riduzione del movimento):
 // sul telefono non arriva mai, e non pesa sulle altre pagine che precaricano la Home.
@@ -48,6 +56,7 @@ export function FeaturedJourney({
   /** Foto di copertina del viaggio, sopra il percorso. */
   copertina?: { immagine: string; imageAlt: string }
 }) {
+  const t = T[useLingua()]
   const wrapperRef = useRef<HTMLDivElement>(null)
   const beatRefs = useRef<(HTMLDivElement | null)[]>([])
   const [pinAttivo, setPinAttivo] = useState(false)
@@ -118,7 +127,7 @@ export function FeaturedJourney({
   return (
     <section className="border-t border-alpine/10 bg-cream-dark/40">
       <Container className="py-16 sm:py-20">
-        <p className="text-xs font-semibold uppercase tracking-[0.2em] text-rosso">Il viaggio in evidenza</p>
+        <p className="text-xs font-semibold uppercase tracking-[0.2em] text-rosso">{t.inEvidenza}</p>
         <h2 className="mt-3 max-w-2xl font-display text-[clamp(2rem,3.4vw,3rem)] text-balance text-alpine">
           {titolo}
         </h2>
@@ -169,7 +178,7 @@ export function FeaturedJourney({
               href={href}
               className="group mt-10 inline-flex items-center gap-2 text-sm font-medium text-rosso hover:text-rosso-dark"
             >
-              Leggi l&apos;itinerario completo
+              {t.leggi}
               <ArrowRight size={15} className="transition-transform group-hover:translate-x-1" />
             </Link>
           </Container>

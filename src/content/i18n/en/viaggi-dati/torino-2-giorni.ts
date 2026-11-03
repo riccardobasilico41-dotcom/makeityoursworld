@@ -1,0 +1,75 @@
+import type { TripMeta } from '@/lib/types'
+
+export const torino2GiorniMeta: TripMeta = {
+  tripSlug: 'torino-2-giorni',
+  paeseSlug: 'italia',
+  ritmo: "Two compact days, with the Egyptian Museum taking half a day on its own and the rest under the arcades",
+  trasporti: "On foot and under the arcades, with one automatic metro line and the funiculars",
+  stile: [
+    'musei',
+    'architettura',
+    'gastronomia',
+  ],
+  adattoA: [
+    "anyone looking for a great Italian city without the crowds of Rome, Florence and Venice",
+    "anyone going for the museums and not for a sprawling historic center",
+    "anyone traveling in winter, when the arcades and the view of the Alps are at their best",
+  ],
+  puntiForti: [
+    "The Egyptian Museum, the most important Egyptian collection in the world after Cairo, with the intact tomb of Kha and Merit",
+    "The Cinema Museum inside the Mole, with the glass elevator rising through the void of the hall",
+    "Guarini's Chapel of the Shroud, reopened after twenty years of restoration",
+  ],
+  criticita: [
+    "The Shroud is not on display: it can only be seen in extraordinary expositions decided many years apart",
+    "The Egyptian Museum has to be booked and takes at least three hours: dispatching it in an hour is the most common waste",
+    "The Mole elevator slot sells out on clear days",
+    "The Egyptian Museum's displays have been renovated several times: information goes out of date quickly",
+    "July and August are hot and the city empties",
+  ],
+  budgetTotale: undefined,
+  viaggioInBreve: {
+    percheHoScelto: undefined,
+    conChiSonoPartito: "independent, on foot and by metro",
+    cosaCercavo: undefined,
+    treEsperienzePiuBelle: "The intact funerary goods of the tomb of Kha and Merit, the glass elevator inside the Mole, the dome of the Chapel of the Shroud looked at from below",
+    cosaCambierei: undefined,
+    aChiLoConsiglio: undefined,
+  },
+  tappeMappa: [
+    { nome: 'Egyptian Museum', destinazioneSlug: 'torino' },
+    { nome: 'Piazza Castello and Royal Museums', destinazioneSlug: 'torino' },
+    { nome: 'Mole Antonelliana', destinazioneSlug: 'torino' },
+    { nome: 'Monte dei Cappuccini and Superga', destinazioneSlug: 'torino' },
+    { nome: 'Lingotto', destinazioneSlug: 'torino' },
+  ],
+  giorni: [
+    {
+      titoloGiorno: 'Day 1 — Egyptian Museum, Squares and Cafés',
+      tratta: 'Egyptian Museum, Piazza Castello, Royal Museums and the Roman Quarter',
+      pernottamento: 'Turin, center between Piazza Castello and Piazza San Carlo',
+      statoPernottamento: 'da-confermare',
+      intensita: 'intenso',
+      costiNoti: "Egyptian Museum with a booked time slot; the Torino+Piemonte Card pays off from three or four museums",
+      destinazioneSlug: 'torino',
+      immagine: '/images/viaggi/torino-2-giorni/giorno-1-palazzo-madama.jpg',
+      imageAlt: "The eighteenth-century facade of Palazzo Madama on Piazza Castello in Turin, with the fountains in the foreground",
+    },
+    {
+      titoloGiorno: 'Day 2 — The Mole, the River and the Hill',
+      tratta: 'Mole Antonelliana and Cinema Museum, then the river and the hill or industrial twentieth century',
+      intensita: 'medio',
+      costiNoti: "Mole elevator on a separate ticket or combined with slots; rack funicular to Superga",
+      destinazioneSlug: 'torino',
+      immagine: '/images/viaggi/torino-2-giorni/giorno-2-mole-antonelliana.jpg',
+      imageAlt: "The Mole Antonelliana, symbol of Turin, seen from below against the sky",
+    },
+  ],
+  budget: [
+    { etichetta: 'Egyptian Museum', valore: "the main item, and the reason for the trip" },
+    { etichetta: 'Mole and Cinema Museum', valore: "combined ticket with the panoramic elevator" },
+    { etichetta: 'Torino+Piemonte Card', valore: "pays off from three or four museums, realistic in this city" },
+    { etichetta: 'Lodging', valore: "on average much lower than the other major Italian art cities for the same category" },
+    { etichetta: 'Historic cafés', valore: "a bicerin and an aperitivo at the counter are part of the visit, not an extra" },
+  ],
+}

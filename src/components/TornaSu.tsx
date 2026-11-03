@@ -2,6 +2,14 @@
 
 import { useEffect, useState } from 'react'
 import { ArrowUp } from 'lucide-react'
+import { useLingua } from '@/lib/i18n/LinguaProvider'
+import type { Lingua } from '@/lib/i18n/config'
+
+const T = {
+  it: { aria: "Torna all'inizio della pagina", titolo: 'Torna su' },
+  en: { aria: 'Back to the top of the page', titolo: 'Back to top' },
+  es: { aria: 'Volver al principio de la página', titolo: 'Volver arriba' },
+} satisfies Record<Lingua, Record<string, string>>
 
 /**
  * «Torna su» in basso a destra, per tutte le pagine lunghe: compare dopo circa
@@ -10,6 +18,7 @@ import { ArrowUp } from 'lucide-react'
  * appare senza dissolvenza. Nessun altro elemento fisso occupa quell'angolo.
  */
 export function TornaSu() {
+  const t = T[useLingua()]
   const [visibile, setVisibile] = useState(false)
 
   useEffect(() => {
@@ -41,8 +50,8 @@ export function TornaSu() {
     <button
       type="button"
       onClick={tornaSu}
-      aria-label="Torna all'inizio della pagina"
-      title="Torna su"
+      aria-label={t.aria}
+      title={t.titolo}
       tabIndex={visibile ? 0 : -1}
       aria-hidden={!visibile}
       className={`fixed bottom-[max(1rem,env(safe-area-inset-bottom))] right-4 z-40 inline-flex size-12 items-center justify-center border-2 border-ink bg-cream text-ink shadow-[3px_3px_0_var(--color-ink)] transition-[opacity,visibility,transform,background-color,color] duration-200 hover:bg-rosso hover:text-cream focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-rosso focus-visible:ring-offset-2 motion-reduce:transition-none sm:right-6 sm:bottom-[max(1.5rem,env(safe-area-inset-bottom))] ${

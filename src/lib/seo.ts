@@ -1,5 +1,7 @@
 import type { Metadata } from 'next'
 import { siteConfig } from './site-config'
+import { LINGUE_PUBBLICATE, LINGUA_PREDEFINITA, LOCALE, type Lingua } from './i18n/config'
+import { localizza } from './i18n/percorsi'
 
 /**
  * Metadata di pagina standard: title/description/canonical più Open
@@ -39,7 +41,13 @@ export function pageMetadata({
   type = 'website',
   socialTitle,
   socialDescription,
+  lingua,
+  lingue = LINGUE_PUBBLICATE,
 }: {
+  /** Lingua della pagina: canonical, hreflang e og:locale dipendono da questa. */
+  lingua: Lingua
+  /** Lingue in cui la pagina esiste davvero (per gli hreflang). Di default tutte. */
+  lingue?: readonly Lingua[]
   title: string
   description: string
   path: string
@@ -55,13 +63,21 @@ export function pageMetadata({
     // Il nome del sito in coda solo se c'è spazio: Google taglia intorno ai 60 caratteri.
     title: title.length + SUFFISSO.length <= MAX_TITOLO ? title : { absolute: title },
     description,
-    alternates: { canonical: path },
+    // `path` è il percorso canonico (italiano, senza prefisso): qui diventa l'indirizzo della lingua
+    alternates: {
+      canonical: localizza(path, lingua),
+      languages: {
+        ...Object.fromEntries(lingue.map((l) => [LOCALE[l].html, localizza(path, l)])),
+        ...(lingue.includes(LINGUA_PREDEFINITA) ? { 'x-default': localizza(path, LINGUA_PREDEFINITA) } : {}),
+      },
+    },
     openGraph: {
       title: ogTitle,
       description: ogDescription,
-      url: path,
+      url: localizza(path, lingua),
       siteName: siteConfig.shortName,
-      locale: 'it_IT',
+      locale: LOCALE[lingua].og,
+      alternateLocale: lingue.filter((l) => l !== lingua).map((l) => LOCALE[l].og),
       type,
     },
     twitter: {

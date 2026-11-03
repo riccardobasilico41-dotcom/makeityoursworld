@@ -1,6 +1,15 @@
 'use client'
 
 import { useEffect, useRef, useState } from 'react'
+import { useLingua } from '@/lib/i18n/LinguaProvider'
+import { etichetta } from '@/lib/i18n/etichette'
+import type { Lingua } from '@/lib/i18n/config'
+
+const T = {
+  it: { vaiA: (u: string) => `Vai a un ${u} dell'itinerario`, voce: (s: string, n: string, u: string) => `${s}${n}, ${u} ${n}` },
+  en: { vaiA: (u: string) => `Jump to a ${u} of the itinerary`, voce: (s: string, n: string, u: string) => `${s}${n}, ${u} ${n}` },
+  es: { vaiA: (u: string) => `Ir a un elemento del itinerario (${u})`, voce: (s: string, n: string, u: string) => `${s}${n}, ${u} ${n}` },
+} satisfies Record<Lingua, Record<string, (...a: never[]) => string>>
 
 /**
  * Barra «G1 G2 G3…» per saltare tra i giorni sugli schermi piccoli, dove
@@ -19,7 +28,10 @@ export function GiorniBarraMobile({
 }) {
   const [attivo, setAttivo] = useState(0)
   const barraRef = useRef<HTMLUListElement>(null)
-  const sigla = unitaLabel === 'Giorno' ? 'G' : unitaLabel.charAt(0).toUpperCase()
+  const lingua = useLingua()
+  const t = T[lingua]
+  const unita = etichetta(unitaLabel, lingua).toLowerCase()
+  const sigla = etichetta(unitaLabel, lingua).charAt(0).toUpperCase()
 
   useEffect(() => {
     const elementi = giorni.map((g) => document.getElementById(g.id)).filter((e): e is HTMLElement => !!e)
@@ -55,7 +67,7 @@ export function GiorniBarraMobile({
 
   return (
     <nav
-      aria-label={`Vai a un ${unitaLabel.toLowerCase()} dell'itinerario`}
+      aria-label={t.vaiA(unita)}
       className="sticky top-0 z-30 -mx-6 mb-8 border-y-2 border-ink bg-cream sm:-mx-8 lg:col-span-2 lg:mx-0"
     >
       <ul
@@ -70,7 +82,7 @@ export function GiorniBarraMobile({
                 href={`#${g.id}`}
                 onClick={() => setAttivo(i)}
                 // il nome accessibile comincia con il testo visibile (es. «G1»), poi lo spiega
-                aria-label={`${sigla}${g.numero}, ${unitaLabel.toLowerCase()} ${g.numero}`}
+                aria-label={t.voce(sigla, g.numero, unita)}
                 aria-current={corrente ? 'step' : undefined}
                 className={`flex h-11 min-w-11 items-center justify-center border-2 px-2.5 text-sm font-semibold tabular-nums transition-colors duration-150 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-rosso focus-visible:ring-offset-1 motion-reduce:transition-none ${
                   corrente ? 'border-rosso bg-rosso text-cream' : 'border-ink/20 bg-white text-ink hover:border-ink'

@@ -3,6 +3,29 @@ import type { ReactNode } from 'react'
 import { AlertTriangle, ArrowUpRight, type LucideIcon } from 'lucide-react'
 import { richNodes } from '@/components/ui/Rich'
 import { Container } from '@/components/ui/Container'
+import { linguaCorrente } from '@/lib/i18n/server'
+import type { Lingua } from '@/lib/i18n/config'
+
+const T = {
+  it: {
+    infoPratiche: 'Informazioni pratiche',
+    avviso: 'Prezzi, orari e disponibilità cambiano: conviene ricontrollarli prima di partire.',
+    miaEsperienza: 'La mia esperienza',
+    errori: 'Errori da evitare',
+  },
+  en: {
+    infoPratiche: 'Practical information',
+    avviso: 'Prices, opening hours and availability change: it pays to double-check them before you go.',
+    miaEsperienza: 'My experience',
+    errori: 'Mistakes to avoid',
+  },
+  es: {
+    infoPratiche: 'Información práctica',
+    avviso: 'Los precios, los horarios y la disponibilidad cambian: conviene volver a comprobarlos antes de salir.',
+    miaEsperienza: 'Mi experiencia',
+    errori: 'Errores que evitar',
+  },
+} satisfies Record<Lingua, Record<string, string>>
 
 /*
  * Blocchi delle schede destinazione ed esperienza. Sostituiscono la colonna destra fissa
@@ -14,7 +37,9 @@ import { Container } from '@/components/ui/Container'
 export type VoceInfo = { label: string; value?: string; icona: LucideIcon }
 
 /** Le informazioni pratiche in griglia, sotto l'intestazione. Le voci vuote non compaiono. */
-export function InfoPratiche({ voci, titolo = 'Informazioni pratiche' }: { voci: VoceInfo[]; titolo?: string }) {
+export async function InfoPratiche({ voci, titolo }: { voci: VoceInfo[]; titolo?: string }) {
+  const t = T[await linguaCorrente()]
+  titolo ??= t.infoPratiche
   const piene = voci.filter((v) => v.value && v.value.trim())
   if (piene.length === 0) return null
   return (
@@ -43,7 +68,7 @@ export function InfoPratiche({ voci, titolo = 'Informazioni pratiche' }: { voci:
         </dl>
         <p className="mt-3 flex items-center gap-1.5 text-xs text-stone/85">
           <ArrowUpRight size={12} aria-hidden />
-          Prezzi, orari e disponibilità cambiano: conviene ricontrollarli prima di partire.
+          {t.avviso}
         </p>
       </Container>
     </section>
@@ -94,13 +119,14 @@ export function SchedaTesto({ icona: Icona, titolo, testo }: { icona: LucideIcon
 }
 
 /** Il ricordo di Rick: riquadro scuro, virgolette e firma con la faccia. */
-export function Ricordo({ testo }: { testo: string }) {
+export async function Ricordo({ testo }: { testo: string }) {
+  const t = T[await linguaCorrente()]
   return (
     <figure className="relative border-2 border-ink bg-alpine p-6 text-cream shadow-[6px_6px_0_var(--color-rosso)] sm:p-8">
       <span aria-hidden className="absolute -top-6 left-5 font-display text-7xl leading-none text-rosso">
         «
       </span>
-      <p className="text-xs font-semibold uppercase tracking-[0.2em] text-cream/60">La mia esperienza</p>
+      <p className="text-xs font-semibold uppercase tracking-[0.2em] text-cream/60">{t.miaEsperienza}</p>
       <blockquote className="mt-3 font-display text-xl italic leading-relaxed sm:text-2xl">{richNodes(testo)}</blockquote>
       <figcaption className="mt-5 flex items-center gap-3 text-sm text-cream/80">
         <Image
@@ -117,12 +143,13 @@ export function Ricordo({ testo }: { testo: string }) {
 }
 
 /** Errori da evitare in un riquadro rosso. */
-export function ErroriDaEvitare({ voci }: { voci: string[] }) {
+export async function ErroriDaEvitare({ voci }: { voci: string[] }) {
+  const t = T[await linguaCorrente()]
   return (
     <div className="border-2 border-rosso bg-rosso/[0.04] p-5 sm:p-7">
       <h2 className="flex items-center gap-3 font-display text-2xl text-rosso sm:text-3xl">
         <AlertTriangle size={22} aria-hidden />
-        Errori da evitare
+        {t.errori}
       </h2>
       <ul className="mt-4 space-y-3">
         {voci.map((v) => (

@@ -1,0 +1,21 @@
+{
+  "meraviglie": {
+    "grande-muraglia-cinese": "great-wall-of-china",
+    "petra": "petra",
+    "cristo-redentore": "christ-the-redeemer",
+    "machu-picchu": "machu-picchu",
+    "chichen-itza": "chichen-itza",
+    "colosseo": "colosseum",
+    "taj-mahal": "taj-mahal"
+  },
+  "attrezzatura": {
+    "islanda-in-tenda": "iceland-camping",
+    "inverno-artico": "arctic-winter",
+    "snorkeling-mari-tropicali": "tropical-snorkeling",
+    "ande-alta-quota": "andes-high-altitude",
+    "trekking-rifugi-alpi": "alpine-hut-trekking",
+    "settimana-bianca": "ski-week",
+    "weekend-in-citta": "city-weekend",
+    "zaino-tropici": "tropical-backpacking"
+  }
+}

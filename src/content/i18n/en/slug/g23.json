@@ -1,0 +1,38 @@
+{
+  "paesi": {
+    "peru": "peru",
+    "polonia": "poland",
+    "portogallo": "portugal"
+  },
+  "destinazioni": {
+    "peru/cusco": "cusco",
+    "peru/valle-sacra": "sacred-valley",
+    "peru/machu-picchu": "machu-picchu",
+    "peru/choquequirao": "choquequirao",
+    "peru/amazzonia-peruviana": "peruvian-amazon",
+    "peru/lago-titicaca": "lake-titicaca",
+    "peru/lima": "lima",
+    "peru/arequipa-colca": "arequipa-colca",
+    "peru/huaraz-cordillera-blanca": "huaraz-cordillera-blanca",
+    "polonia/cracovia": "krakow",
+    "polonia/auschwitz-birkenau": "auschwitz-birkenau",
+    "portogallo/lisbona": "lisbon",
+    "portogallo/sintra": "sintra"
+  },
+  "esperienze": {
+    "peru/huayna-picchu": "huayna-picchu-climb",
+    "peru/cammino-inca": "classic-inca-trail",
+    "peru/trek-choquequirao": "choquequirao-trek",
+    "peru/homestay-amantani": "amantani-homestay",
+    "polonia/auschwitz-birkenau-visita-guidata": "auschwitz-birkenau-guided-visit",
+    "polonia/wieliczka-miniera-di-sale": "wieliczka-salt-mine",
+    "polonia/kazimierz-food-vodka-tour": "kazimierz-food-vodka-tour",
+    "portogallo/tram-28-alfama": "tram-28-alfama",
+    "portogallo/pasteis-de-belem": "pasteis-de-belem",
+    "portogallo/sintra-giornata-da-lisbona": "sintra-day-trip-from-lisbon"
+  },
+  "viaggi": {
+    "peru-itinerario": "peru-itinerary",
+    "cracovia-weekend": "krakow-weekend"
+  }
+}

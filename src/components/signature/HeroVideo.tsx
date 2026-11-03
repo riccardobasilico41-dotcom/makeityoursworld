@@ -3,6 +3,14 @@
 import { useEffect, useLayoutEffect, useRef, useState } from 'react'
 import { preload } from 'react-dom'
 import { Pause, Play } from 'lucide-react'
+import { useLingua } from '@/lib/i18n/LinguaProvider'
+import type { Lingua } from '@/lib/i18n/config'
+
+const T = {
+  it: { riparti: 'Fai ripartire il video', pausa: 'Metti in pausa il video' },
+  en: { riparti: 'Play the video', pausa: 'Pause the video' },
+  es: { riparti: 'Reanudar el vídeo', pausa: 'Pausar el vídeo' },
+} satisfies Record<Lingua, Record<string, string>>
 
 /**
  * Video dell'apertura (montaggio «Runaway»), sempre in orizzontale.
@@ -26,6 +34,7 @@ export function HeroVideo({
   label: string
   introFino?: number
 }) {
+  const t = T[useLingua()]
   const ref = useRef<HTMLVideoElement>(null)
   const [inPausa, setInPausa] = useState(true)
   // Il fotogramma d'apertura è l'elemento LCP: si chiede subito, dal <head>, con priorità alta.
@@ -104,7 +113,7 @@ export function HeroVideo({
       <button
         type="button"
         onClick={alterna}
-        aria-label={inPausa ? 'Fai ripartire il video' : 'Metti in pausa il video'}
+        aria-label={inPausa ? t.riparti : t.pausa}
         className="absolute right-3 top-3 z-20 inline-flex size-10 items-center justify-center bg-ink/60 text-cream backdrop-blur-sm transition-colors duration-150 hover:bg-rosso focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cream landscape:lg:bottom-6 landscape:lg:right-6 landscape:lg:top-auto"
       >
         {inPausa ? <Play size={16} aria-hidden="true" /> : <Pause size={16} aria-hidden="true" />}

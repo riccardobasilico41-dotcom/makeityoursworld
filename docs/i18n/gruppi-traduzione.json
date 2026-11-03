@@ -1,0 +1,617 @@
+[
+ {
+  "gruppo": "g01",
+  "kb": 173,
+  "paesi": [
+   "arabia-saudita",
+   "austria",
+   "belize",
+   "bolivia"
+  ],
+  "file": [
+   "src/content/destinazioni/arabia-saudita.ts",
+   "src/content/esperienze/arabia-saudita.ts",
+   "src/content/paesi/arabia-saudita.ts",
+   "src/content/viaggi/22-arabia-saudita-itinerario.md",
+   "src/content/viaggi-dati/arabia-saudita-itinerario.ts",
+   "src/content/destinazioni/austria.ts",
+   "src/content/esperienze/austria.ts",
+   "src/content/paesi/austria.ts",
+   "src/content/viaggi/55-vienna-weekend.md",
+   "src/content/viaggi-dati/vienna-weekend.ts",
+   "src/content/destinazioni/belize.ts",
+   "src/content/esperienze/belize.ts",
+   "src/content/paesi/belize.ts",
+   "src/content/destinazioni/bolivia.ts",
+   "src/content/esperienze/bolivia.ts",
+   "src/content/paesi/bolivia.ts"
+  ]
+ },
+ {
+  "gruppo": "g02",
+  "kb": 153,
+  "paesi": [
+   "bolivia",
+   "borneo",
+   "brasile"
+  ],
+  "file": [
+   "src/content/viaggi/49-bolivia-itinerario.md",
+   "src/content/viaggi-dati/bolivia-itinerario.ts",
+   "src/content/destinazioni/borneo.ts",
+   "src/content/esperienze/borneo.ts",
+   "src/content/paesi/borneo.ts",
+   "src/content/viaggi/20-borneo-itinerario.md",
+   "src/content/viaggi-dati/borneo-itinerario.ts",
+   "src/content/destinazioni/brasile.ts",
+   "src/content/paesi/brasile.ts"
+  ]
+ },
+ {
+  "gruppo": "g03",
+  "kb": 155,
+  "paesi": [
+   "brasile",
+   "bulgaria",
+   "california",
+   "canada"
+  ],
+  "file": [
+   "src/content/viaggi/68-brasile-itinerario.md",
+   "src/content/viaggi-dati/brasile-itinerario.ts",
+   "src/content/destinazioni/bulgaria.ts",
+   "src/content/esperienze/bulgaria.ts",
+   "src/content/paesi/bulgaria.ts",
+   "src/content/viaggi/11-bulgaria-bansko-rila.md",
+   "src/content/viaggi-dati/bulgaria-bansko-rila.ts",
+   "src/content/destinazioni/california.ts",
+   "src/content/paesi/california.ts",
+   "src/content/viaggi/75-california-road-trip.md",
+   "src/content/viaggi-dati/california-road-trip.ts",
+   "src/content/destinazioni/canada.ts",
+   "src/content/paesi/canada.ts"
+  ]
+ },
+ {
+  "gruppo": "g04",
+  "kb": 170,
+  "paesi": [
+   "canada",
+   "cina"
+  ],
+  "file": [
+   "src/content/viaggi/80-canada-itinerario.md",
+   "src/content/viaggi-dati/canada-itinerario.ts",
+   "src/content/destinazioni/cina.ts",
+   "src/content/esperienze/cina.ts",
+   "src/content/paesi/cina.ts"
+  ]
+ },
+ {
+  "gruppo": "g05",
+  "kb": 167,
+  "paesi": [
+   "cina",
+   "corea-del-sud"
+  ],
+  "file": [
+   "src/content/viaggi/16-cina-classica.md",
+   "src/content/viaggi-dati/cina-classica.ts",
+   "src/content/viaggi/17-cina-paesaggi.md",
+   "src/content/viaggi-dati/cina-paesaggi.ts",
+   "src/content/destinazioni/corea-del-sud.ts",
+   "src/content/esperienze/corea-del-sud.ts",
+   "src/content/paesi/corea-del-sud.ts"
+  ]
+ },
+ {
+  "gruppo": "g06",
+  "kb": 173,
+  "paesi": [
+   "corea-del-sud",
+   "costa-rica",
+   "croazia",
+   "danimarca"
+  ],
+  "file": [
+   "src/content/viaggi/18-corea-del-sud-itinerario.md",
+   "src/content/viaggi-dati/corea-del-sud-itinerario.ts",
+   "src/content/destinazioni/costa-rica.ts",
+   "src/content/esperienze/costa-rica.ts",
+   "src/content/paesi/costa-rica.ts",
+   "src/content/viaggi/12-costa-rica-itinerario.md",
+   "src/content/viaggi-dati/costa-rica-360.ts",
+   "src/content/destinazioni/croazia.ts",
+   "src/content/paesi/croazia.ts",
+   "src/content/viaggi/69-croazia-itinerario.md",
+   "src/content/viaggi-dati/croazia-itinerario.ts",
+   "src/content/destinazioni/danimarca.ts",
+   "src/content/esperienze/danimarca.ts",
+   "src/content/paesi/danimarca.ts"
+  ]
+ },
+ {
+  "gruppo": "g07",
+  "kb": 176,
+  "paesi": [
+   "danimarca",
+   "egitto",
+   "emirati-arabi-uniti"
+  ],
+  "file": [
+   "src/content/viaggi/60-capitali-nordiche.md",
+   "src/content/viaggi-dati/capitali-nordiche.ts",
+   "src/content/destinazioni/egitto.ts",
+   "src/content/paesi/egitto.ts",
+   "src/content/viaggi/72-egitto-completo.md",
+   "src/content/viaggi-dati/egitto-completo.ts",
+   "src/content/viaggi/71-egitto-mare-luxor-cairo.md",
+   "src/content/viaggi-dati/egitto-mare-luxor-cairo.ts",
+   "src/content/destinazioni/emirati-arabi-uniti.ts",
+   "src/content/esperienze/emirati-arabi-uniti.ts",
+   "src/content/paesi/emirati-arabi-uniti.ts"
+  ]
+ },
+ {
+  "gruppo": "g08",
+  "kb": 148,
+  "paesi": [
+   "emirati-arabi-uniti",
+   "estonia",
+   "filippine",
+   "florida"
+  ],
+  "file": [
+   "src/content/viaggi/21-stopover-golfo.md",
+   "src/content/viaggi-dati/stopover-golfo.ts",
+   "src/content/destinazioni/estonia.ts",
+   "src/content/esperienze/estonia.ts",
+   "src/content/paesi/estonia.ts",
+   "src/content/destinazioni/filippine.ts",
+   "src/content/paesi/filippine.ts",
+   "src/content/viaggi/74-filippine-itinerario.md",
+   "src/content/viaggi-dati/filippine-itinerario.ts",
+   "src/content/destinazioni/florida.ts",
+   "src/content/esperienze/florida.ts",
+   "src/content/paesi/florida.ts",
+   "src/content/viaggi/09-florida-road-trip.md",
+   "src/content/viaggi-dati/florida-360.ts"
+  ]
+ },
+ {
+  "gruppo": "g09",
+  "kb": 166,
+  "paesi": [
+   "francia"
+  ],
+  "file": [
+   "src/content/destinazioni/francia.ts"
+  ]
+ },
+ {
+  "gruppo": "g10",
+  "kb": 189,
+  "paesi": [
+   "francia"
+  ],
+  "file": [
+   "src/content/esperienze/francia.ts",
+   "src/content/paesi/francia.ts",
+   "src/content/viaggi/43-bordeaux-e-vigneti.md",
+   "src/content/viaggi-dati/bordeaux-e-vigneti.ts",
+   "src/content/viaggi/42-castelli-loira.md",
+   "src/content/viaggi-dati/castelli-loira.ts",
+   "src/content/viaggi/39-costa-azzurra.md",
+   "src/content/viaggi-dati/costa-azzurra.ts",
+   "src/content/viaggi/41-normandia-bretagna.md",
+   "src/content/viaggi-dati/normandia-bretagna.ts",
+   "src/content/viaggi/40-parigi-5-giorni.md",
+   "src/content/viaggi-dati/parigi-5-giorni.ts"
+  ]
+ },
+ {
+  "gruppo": "g11",
+  "kb": 184,
+  "paesi": [
+   "francia",
+   "germania",
+   "giappone",
+   "giordania"
+  ],
+  "file": [
+   "src/content/viaggi/45-provenza-camargue.md",
+   "src/content/viaggi-dati/provenza-camargue.ts",
+   "src/content/viaggi/44-rotte-dei-vini-francia.md",
+   "src/content/viaggi-dati/rotte-dei-vini-francia.ts",
+   "src/content/viaggi/46-settimana-bianca-francia.md",
+   "src/content/viaggi-dati/settimana-bianca-francia.ts",
+   "src/content/viaggi/47-tour-du-mont-blanc.md",
+   "src/content/viaggi-dati/tour-du-mont-blanc.ts",
+   "src/content/destinazioni/germania.ts",
+   "src/content/esperienze/germania.ts",
+   "src/content/paesi/germania.ts",
+   "src/content/viaggi/57-berlino-weekend.md",
+   "src/content/viaggi-dati/berlino-weekend.ts",
+   "src/content/destinazioni/giappone.ts",
+   "src/content/esperienze/giappone.ts",
+   "src/content/paesi/giappone.ts",
+   "src/content/viaggi/05-giappone-itinerario.md",
+   "src/content/viaggi-dati/giappone-360.ts",
+   "src/content/destinazioni/giordania.ts",
+   "src/content/esperienze/giordania.ts",
+   "src/content/paesi/giordania.ts"
+  ]
+ },
+ {
+  "gruppo": "g12",
+  "kb": 158,
+  "paesi": [
+   "giordania",
+   "guatemala",
+   "india"
+  ],
+  "file": [
+   "src/content/viaggi/03-giordania-itinerario.md",
+   "src/content/viaggi-dati/giordania-360.ts",
+   "src/content/destinazioni/guatemala.ts",
+   "src/content/esperienze/guatemala.ts",
+   "src/content/paesi/guatemala.ts",
+   "src/content/viaggi/51-centro-america-itinerario.md",
+   "src/content/viaggi-dati/centro-america-itinerario.ts",
+   "src/content/destinazioni/india.ts",
+   "src/content/paesi/india.ts"
+  ]
+ },
+ {
+  "gruppo": "g13",
+  "kb": 183,
+  "paesi": [
+   "india",
+   "indonesia"
+  ],
+  "file": [
+   "src/content/viaggi/76-india-rajasthan-10-giorni.md",
+   "src/content/viaggi-dati/india-rajasthan-10-giorni.ts",
+   "src/content/viaggi/77-india-rajasthan-varanasi.md",
+   "src/content/viaggi-dati/india-rajasthan-varanasi.ts",
+   "src/content/viaggi/78-india-sud-taj-mahal.md",
+   "src/content/viaggi-dati/india-sud-taj-mahal.ts",
+   "src/content/destinazioni/indonesia.ts",
+   "src/content/esperienze/indonesia.ts",
+   "src/content/paesi/indonesia.ts"
+  ]
+ },
+ {
+  "gruppo": "g14",
+  "kb": 139,
+  "paesi": [
+   "indonesia",
+   "islanda"
+  ],
+  "file": [
+   "src/content/viaggi/48-indonesia-itinerario.md",
+   "src/content/viaggi-dati/indonesia-itinerario.ts",
+   "src/content/destinazioni/islanda.ts",
+   "src/content/esperienze/islanda.ts",
+   "src/content/paesi/islanda.ts",
+   "src/content/viaggi/02-islanda-2024.md",
+   "src/content/viaggi-dati/islanda-2024.ts"
+  ]
+ },
+ {
+  "gruppo": "g15",
+  "kb": 177,
+  "paesi": [
+   "italia"
+  ],
+  "file": [
+   "src/content/destinazioni/italia.ts"
+  ]
+ },
+ {
+  "gruppo": "g16",
+  "kb": 183,
+  "paesi": [
+   "italia"
+  ],
+  "file": [
+   "src/content/esperienze/italia.ts",
+   "src/content/paesi/italia.ts",
+   "src/content/viaggi/34-costiera-e-isole.md",
+   "src/content/viaggi-dati/costiera-e-isole.ts",
+   "src/content/viaggi/23-dolomiti-roadtrip.md",
+   "src/content/viaggi-dati/dolomiti-roadtrip.ts",
+   "src/content/viaggi/35-eolie-in-vela.md",
+   "src/content/viaggi-dati/eolie-in-vela.ts"
+  ]
+ },
+ {
+  "gruppo": "g17",
+  "kb": 176,
+  "paesi": [
+   "italia"
+  ],
+  "file": [
+   "src/content/viaggi/29-firenze-3-giorni.md",
+   "src/content/viaggi-dati/firenze-3-giorni.ts",
+   "src/content/viaggi/25-grandi-citta-italia.md",
+   "src/content/viaggi-dati/grandi-citta-italia.ts",
+   "src/content/viaggi/38-isole-siciliane.md",
+   "src/content/viaggi-dati/isole-siciliane.ts",
+   "src/content/viaggi/30-milano-e-i-laghi.md",
+   "src/content/viaggi-dati/milano-e-i-laghi.ts",
+   "src/content/viaggi/33-napoli-3-giorni.md",
+   "src/content/viaggi-dati/napoli-3-giorni.ts",
+   "src/content/viaggi/28-roma-4-giorni.md",
+   "src/content/viaggi-dati/roma-4-giorni.ts",
+   "src/content/viaggi/27-rotte-dei-vini-itinerario.md",
+   "src/content/viaggi-dati/rotte-dei-vini-itinerario.ts"
+  ]
+ },
+ {
+  "gruppo": "g18",
+  "kb": 185,
+  "paesi": [
+   "italia",
+   "lettonia"
+  ],
+  "file": [
+   "src/content/viaggi/37-sardegna-due-anime.md",
+   "src/content/viaggi-dati/sardegna-due-anime.ts",
+   "src/content/viaggi/24-settimana-bianca.md",
+   "src/content/viaggi-dati/settimana-bianca.ts",
+   "src/content/viaggi/36-sicilia-completa.md",
+   "src/content/viaggi-dati/sicilia-completa.ts",
+   "src/content/viaggi/26-sicilia-itinerario.md",
+   "src/content/viaggi-dati/sicilia-itinerario.ts",
+   "src/content/viaggi/32-torino-2-giorni.md",
+   "src/content/viaggi-dati/torino-2-giorni.ts",
+   "src/content/viaggi/31-venezia-3-giorni.md",
+   "src/content/viaggi-dati/venezia-3-giorni.ts",
+   "src/content/destinazioni/lettonia.ts",
+   "src/content/esperienze/lettonia.ts"
+  ]
+ },
+ {
+  "gruppo": "g19",
+  "kb": 176,
+  "paesi": [
+   "lettonia",
+   "lituania",
+   "maldive",
+   "malesia"
+  ],
+  "file": [
+   "src/content/paesi/lettonia.ts",
+   "src/content/destinazioni/lituania.ts",
+   "src/content/esperienze/lituania.ts",
+   "src/content/paesi/lituania.ts",
+   "src/content/viaggi/61-capitali-baltiche.md",
+   "src/content/viaggi-dati/capitali-baltiche.ts",
+   "src/content/destinazioni/maldive.ts",
+   "src/content/paesi/maldive.ts",
+   "src/content/viaggi/79-maldive-guida.md",
+   "src/content/viaggi-dati/maldive-guida.ts",
+   "src/content/destinazioni/malesia.ts",
+   "src/content/esperienze/malesia.ts",
+   "src/content/paesi/malesia.ts"
+  ]
+ },
+ {
+  "gruppo": "g20",
+  "kb": 153,
+  "paesi": [
+   "malesia",
+   "marocco",
+   "messico"
+  ],
+  "file": [
+   "src/content/viaggi/19-malesia-singapore.md",
+   "src/content/viaggi-dati/malesia-singapore.ts",
+   "src/content/destinazioni/marocco.ts",
+   "src/content/esperienze/marocco.ts",
+   "src/content/paesi/marocco.ts",
+   "src/content/viaggi/07-marocco-itinerario.md",
+   "src/content/viaggi-dati/marocco-360.ts",
+   "src/content/destinazioni/messico.ts",
+   "src/content/esperienze/messico.ts",
+   "src/content/paesi/messico.ts",
+   "src/content/viaggi/13-messico-beach-life.md",
+   "src/content/viaggi-dati/messico-beach-life.ts"
+  ]
+ },
+ {
+  "gruppo": "g21",
+  "kb": 186,
+  "paesi": [
+   "messico",
+   "messico-centro-baja",
+   "montenegro",
+   "new-york"
+  ],
+  "file": [
+   "src/content/viaggi/67-messico-cdmx-baja-california.md",
+   "src/content/viaggi-dati/messico-cdmx-baja-california.ts",
+   "src/content/viaggi/66-messico-dia-de-los-muertos.md",
+   "src/content/viaggi-dati/messico-dia-de-los-muertos.ts",
+   "src/content/destinazioni/messico-centro-baja.ts",
+   "src/content/destinazioni/montenegro.ts",
+   "src/content/paesi/montenegro.ts",
+   "src/content/viaggi/70-montenegro-itinerario.md",
+   "src/content/viaggi-dati/montenegro-itinerario.ts",
+   "src/content/destinazioni/new-york.ts",
+   "src/content/esperienze/new-york.ts",
+   "src/content/paesi/new-york.ts"
+  ]
+ },
+ {
+  "gruppo": "g22",
+  "kb": 175,
+  "paesi": [
+   "new-york",
+   "norvegia",
+   "paesi-bassi",
+   "panama"
+  ],
+  "file": [
+   "src/content/viaggi/08-new-york-itinerario.md",
+   "src/content/viaggi-dati/new-york-360.ts",
+   "src/content/destinazioni/norvegia.ts",
+   "src/content/esperienze/norvegia.ts",
+   "src/content/paesi/norvegia.ts",
+   "src/content/viaggi/01-lofoten-estate-2025.md",
+   "src/content/viaggi-dati/lofoten-estate-2025.ts",
+   "src/content/viaggi/15-tromso.md",
+   "src/content/viaggi-dati/tromso.ts",
+   "src/content/destinazioni/paesi-bassi.ts",
+   "src/content/esperienze/paesi-bassi.ts",
+   "src/content/paesi/paesi-bassi.ts",
+   "src/content/viaggi/58-amsterdam-weekend.md",
+   "src/content/viaggi-dati/amsterdam-weekend.ts",
+   "src/content/destinazioni/panama.ts",
+   "src/content/esperienze/panama.ts",
+   "src/content/paesi/panama.ts"
+  ]
+ },
+ {
+  "gruppo": "g23",
+  "kb": 185,
+  "paesi": [
+   "peru",
+   "polonia",
+   "portogallo"
+  ],
+  "file": [
+   "src/content/destinazioni/peru.ts",
+   "src/content/esperienze/peru.ts",
+   "src/content/paesi/peru.ts",
+   "src/content/viaggi/50-peru-itinerario.md",
+   "src/content/viaggi-dati/peru-itinerario.ts",
+   "src/content/destinazioni/polonia.ts",
+   "src/content/esperienze/polonia.ts",
+   "src/content/paesi/polonia.ts",
+   "src/content/viaggi/53-cracovia-weekend.md",
+   "src/content/viaggi-dati/cracovia-weekend.ts",
+   "src/content/destinazioni/portogallo.ts",
+   "src/content/esperienze/portogallo.ts"
+  ]
+ },
+ {
+  "gruppo": "g24",
+  "kb": 171,
+  "paesi": [
+   "portogallo",
+   "qatar",
+   "repubblica-ceca",
+   "singapore",
+   "spagna"
+  ],
+  "file": [
+   "src/content/paesi/portogallo.ts",
+   "src/content/viaggi/59-lisbona-weekend.md",
+   "src/content/viaggi-dati/lisbona-weekend.ts",
+   "src/content/destinazioni/qatar.ts",
+   "src/content/esperienze/qatar.ts",
+   "src/content/paesi/qatar.ts",
+   "src/content/destinazioni/repubblica-ceca.ts",
+   "src/content/esperienze/repubblica-ceca.ts",
+   "src/content/paesi/repubblica-ceca.ts",
+   "src/content/viaggi/54-praga-weekend.md",
+   "src/content/viaggi-dati/praga-weekend.ts",
+   "src/content/destinazioni/singapore.ts",
+   "src/content/esperienze/singapore.ts",
+   "src/content/paesi/singapore.ts",
+   "src/content/destinazioni/spagna.ts"
+  ]
+ },
+ {
+  "gruppo": "g25",
+  "kb": 186,
+  "paesi": [
+   "spagna",
+   "sri-lanka",
+   "svezia"
+  ],
+  "file": [
+   "src/content/esperienze/spagna.ts",
+   "src/content/paesi/spagna.ts",
+   "src/content/viaggi/64-andalusia-itinerario.md",
+   "src/content/viaggi-dati/andalusia-itinerario.ts",
+   "src/content/viaggi/63-baleari-itinerario.md",
+   "src/content/viaggi-dati/baleari-itinerario.ts",
+   "src/content/viaggi/62-canarie-itinerario.md",
+   "src/content/viaggi-dati/canarie-itinerario.ts",
+   "src/content/viaggi/65-spagna-nord-itinerario.md",
+   "src/content/viaggi-dati/spagna-nord-itinerario.ts",
+   "src/content/destinazioni/sri-lanka.ts",
+   "src/content/esperienze/sri-lanka.ts",
+   "src/content/paesi/sri-lanka.ts",
+   "src/content/viaggi/04-sri-lanka-2023.md",
+   "src/content/viaggi-dati/sri-lanka-2023.ts",
+   "src/content/destinazioni/svezia.ts"
+  ]
+ },
+ {
+  "gruppo": "g26",
+  "kb": 186,
+  "paesi": [
+   "svezia",
+   "svizzera",
+   "thailandia",
+   "transilvania"
+  ],
+  "file": [
+   "src/content/esperienze/svezia.ts",
+   "src/content/paesi/svezia.ts",
+   "src/content/viaggi/14-lapponia-svedese-abisko.md",
+   "src/content/viaggi-dati/lapponia-svedese-abisko.ts",
+   "src/content/destinazioni/svizzera.ts",
+   "src/content/esperienze/svizzera.ts",
+   "src/content/paesi/svizzera.ts",
+   "src/content/viaggi/52-svizzera-alpi-van.md",
+   "src/content/viaggi-dati/svizzera-alpi-van.ts",
+   "src/content/destinazioni/thailandia.ts",
+   "src/content/esperienze/thailandia.ts",
+   "src/content/paesi/thailandia.ts",
+   "src/content/viaggi/06-thailandia.md",
+   "src/content/viaggi-dati/thailandia.ts",
+   "src/content/destinazioni/transilvania.ts"
+  ]
+ },
+ {
+  "gruppo": "g27",
+  "kb": 135,
+  "paesi": [
+   "transilvania",
+   "turchia",
+   "ungheria"
+  ],
+  "file": [
+   "src/content/esperienze/transilvania.ts",
+   "src/content/paesi/transilvania.ts",
+   "src/content/viaggi/10-transilvania-express.md",
+   "src/content/viaggi-dati/transilvania-express.ts",
+   "src/content/destinazioni/turchia.ts",
+   "src/content/paesi/turchia.ts",
+   "src/content/viaggi/73-turchia-itinerario.md",
+   "src/content/viaggi-dati/turchia-itinerario.ts",
+   "src/content/destinazioni/ungheria.ts",
+   "src/content/esperienze/ungheria.ts",
+   "src/content/paesi/ungheria.ts",
+   "src/content/viaggi/56-budapest-weekend.md",
+   "src/content/viaggi-dati/budapest-weekend.ts"
+  ]
+ },
+ {
+  "gruppo": "g28",
+  "kb": 170,
+  "paesi": [],
+  "file": [
+   "src/content/meraviglie.ts",
+   "src/content/attrezzatura.ts",
+   "src/content/viaggi-editorial.ts",
+   "src/content/seo-pagine.ts",
+   "src/content/viaggi-copertine.ts"
+  ]
+ }
+]

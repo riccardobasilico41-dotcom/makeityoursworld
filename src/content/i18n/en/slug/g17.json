@@ -1,0 +1,14 @@
+{
+  "paesi": {},
+  "destinazioni": {},
+  "esperienze": {},
+  "viaggi": {
+    "firenze-3-giorni": "florence-3-days",
+    "grandi-citta-italia": "italy-great-cities",
+    "isole-siciliane": "sicilian-islands",
+    "milano-e-i-laghi": "milan-and-the-lakes",
+    "napoli-3-giorni": "naples-3-days",
+    "roma-4-giorni": "rome-4-days",
+    "rotte-dei-vini-itinerario": "wine-routes-itinerary"
+  }
+}

@@ -1,10 +1,19 @@
-import Link from 'next/link'
+import Link from '@/components/ui/Link'
 import Image from 'next/image'
 import { Landmark } from 'lucide-react'
 import type { Meraviglia } from '@/lib/types'
+import { linguaCorrente } from '@/lib/i18n/server'
+import type { Lingua } from '@/lib/i18n/config'
+
+const T = {
+  it: { guida: 'Guida completa' },
+  en: { guida: 'Full guide' },
+  es: { guida: 'Guía completa' },
+} satisfies Record<Lingua, Record<string, string>>
 
 /** `subito`: la prima scheda in alto nella pagina (elemento LCP sul telefono) si carica senza lazy-loading. */
-export function MeravigliaCard({ meraviglia, subito = false }: { meraviglia: Meraviglia; subito?: boolean }) {
+export async function MeravigliaCard({ meraviglia, subito = false }: { meraviglia: Meraviglia; subito?: boolean }) {
+  const t = T[await linguaCorrente()]
   return (
     <Link
       href={`/meraviglie/${meraviglia.slug}`}
@@ -45,7 +54,7 @@ export function MeravigliaCard({ meraviglia, subito = false }: { meraviglia: Mer
         <p className="text-sm leading-relaxed text-stone line-clamp-3">{meraviglia.descrizione}</p>
         <div className="mt-auto flex items-center justify-between pt-2">
           <span className="text-xs text-stone/85">{meraviglia.citta}</span>
-          <span className="text-sm font-medium text-rosso">Guida completa</span>
+          <span className="text-sm font-medium text-rosso">{t.guida}</span>
         </div>
       </div>
     </Link>

@@ -1,0 +1,34 @@
+{
+  "paesi": {
+    "borneo": "borneo",
+    "brasile": "brazil"
+  },
+  "destinazioni": {
+    "borneo/kota-kinabalu": "kota-kinabalu",
+    "borneo/sepilok-sandakan": "sepilok-and-sandakan",
+    "borneo/kinabatangan": "kinabatangan-river",
+    "borneo/danum-valley": "danum-valley",
+    "borneo/semporna-sipadan": "semporna-and-sipadan",
+    "borneo/kuching-bako": "kuching-and-sarawak",
+    "borneo/gunung-mulu": "gunung-mulu",
+    "brasile/rio-de-janeiro": "rio-de-janeiro",
+    "brasile/costa-verde": "paraty-and-ilha-grande",
+    "brasile/foz-do-iguacu": "iguazu-falls",
+    "brasile/salvador-de-bahia": "salvador-de-bahia",
+    "brasile/chapada-diamantina": "chapada-diamantina",
+    "brasile/lencois-maranhenses": "lencois-maranhenses",
+    "brasile/pantanal": "pantanal",
+    "brasile/amazzonia-manaus": "amazon-from-manaus"
+  },
+  "esperienze": {
+    "borneo/monte-kinabalu": "climbing-mount-kinabalu",
+    "borneo/sepilok-oranghi": "sepilok-orangutan-feedings",
+    "borneo/crociera-kinabatangan": "kinabatangan-river-cruises",
+    "borneo/diving-sipadan": "diving-at-sipadan",
+    "borneo/bako-nasiche": "bako-proboscis-monkeys"
+  },
+  "viaggi": {
+    "bolivia-itinerario": "bolivia-itinerary",
+    "borneo-itinerario": "borneo-itinerary"
+  }
+}

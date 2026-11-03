@@ -2,27 +2,81 @@
 
 import { useEffect, useId, useMemo, useRef, useState, type KeyboardEvent } from 'react'
 import Image from 'next/image'
-import Link from 'next/link'
+import Link from '@/components/ui/Link'
 import { usePathname, useRouter } from 'next/navigation'
 import { Compass, Landmark, MapPin, Search, Sparkles, Route, X, type LucideIcon } from 'lucide-react'
-import { GRUPPI, cerca, preparaIndice, type TipoVoce, type VoceIndice } from '@/lib/ricerca'
+import { useLingua } from '@/lib/i18n/LinguaProvider'
+import { localizza } from '@/lib/i18n/percorsi'
+import type { Lingua } from '@/lib/i18n/config'
+import { gruppi as gruppiPerLingua, cerca, preparaIndice, type TipoVoce, type VoceIndice } from '@/lib/ricerca'
 
 type Indice = ReturnType<typeof preparaIndice>
 
+const T = {
+  it: {
+    ariaBottone: 'Cerca nel sito (scorciatoia: / oppure Ctrl+K)',
+    titleBottone: 'Cerca nel sito ( / oppure Ctrl+K )',
+    cerca: 'Cerca',
+    ariaDialog: 'Cerca nel sito',
+    ariaInput: 'Cerca viaggi, Paesi, destinazioni, esperienze e meraviglie',
+    placeholder: 'Cerca un Paese, una città, un viaggio…',
+    chiudi: 'Chiudi la ricerca',
+    risultati: (n: number) => `${n} risultati`,
+    nessunoPer: (q: string) => `Nessun risultato per "${q}"`,
+    errore: 'Non riesco a caricare la ricerca. Riprova fra poco.',
+    carico: "Carico l'indice…",
+    istruzioni: 'Scrivi il nome di un Paese, di una città, di un viaggio o di una meraviglia. Frecce per scegliere, Invio per aprire.',
+    nessuno: 'Nessun risultato per',
+    listaRisultati: 'Risultati',
+  },
+  en: {
+    ariaBottone: 'Search the site (shortcut: / or Ctrl+K)',
+    titleBottone: 'Search the site ( / or Ctrl+K )',
+    cerca: 'Search',
+    ariaDialog: 'Search the site',
+    ariaInput: 'Search trips, countries, destinations, experiences and wonders',
+    placeholder: 'Search a country, a city, a trip…',
+    chiudi: 'Close search',
+    risultati: (n: number) => `${n} results`,
+    nessunoPer: (q: string) => `No results for "${q}"`,
+    errore: "I can't load the search. Try again in a moment.",
+    carico: 'Loading the index…',
+    istruzioni: 'Type the name of a country, a city, a trip or a wonder. Arrow keys to choose, Enter to open.',
+    nessuno: 'No results for',
+    listaRisultati: 'Results',
+  },
+  es: {
+    ariaBottone: 'Buscar en el sitio (atajo: / o Ctrl+K)',
+    titleBottone: 'Buscar en el sitio ( / o Ctrl+K )',
+    cerca: 'Buscar',
+    ariaDialog: 'Buscar en el sitio',
+    ariaInput: 'Buscar viajes, países, destinos, experiencias y maravillas',
+    placeholder: 'Busca un país, una ciudad, un viaje…',
+    chiudi: 'Cerrar la búsqueda',
+    risultati: (n: number) => `${n} resultados`,
+    nessunoPer: (q: string) => `Ningún resultado para "${q}"`,
+    errore: 'No puedo cargar la búsqueda. Inténtalo de nuevo en un momento.',
+    carico: 'Cargando el índice…',
+    istruzioni: 'Escribe el nombre de un país, una ciudad, un viaje o una maravilla. Flechas para elegir, Intro para abrir.',
+    nessuno: 'Ningún resultado para',
+    listaRisultati: 'Resultados',
+  },
+} satisfies Record<Lingua, Record<string, string | ((a: never) => string)>>
+
 // L'indice si scarica una volta sola, alla prima apertura.
-let promessaIndice: Promise<Indice> | null = null
-function caricaIndice(): Promise<Indice> {
-  promessaIndice ??= fetch('/cerca.json')
+const promesseIndice: Partial<Record<Lingua, Promise<Indice>>> = {}
+function caricaIndice(lingua: Lingua): Promise<Indice> {
+  promesseIndice[lingua] ??= fetch(localizza('/cerca.json', lingua))
     .then((r) => {
       if (!r.ok) throw new Error(String(r.status))
       return r.json() as Promise<VoceIndice[]>
     })
     .then(preparaIndice)
     .catch((e) => {
-      promessaIndice = null
+      delete promesseIndice[lingua]
       throw e
     })
-  return promessaIndice
+  return promesseIndice[lingua]!
 }
 
 const ICONE: Record<TipoVoce, LucideIcon> = {
@@ -44,10 +98,14 @@ function campoModificabile(t: EventTarget | null) {
  * Esc chiude; focus intrappolato nel pannello e restituito al pulsante.
  */
 export function Ricerca() {
+  const lingua = useLingua()
+  const t = T[lingua]
+  const GRUPPI = useMemo(() => gruppiPerLingua(lingua), [lingua])
   const [aperto, setAperto] = useState(false)
   const [query, setQuery] = useState('')
   const [attivo, setAttivo] = useState(0)
-  const [indice, setIndice] = useState<Indice | null>(null)
+  const [indiceDi, setIndiceDi] = useState<{ lingua: Lingua; indice: Indice } | null>(null)
+  const indice = indiceDi?.lingua === lingua ? indiceDi.indice : null
   const [errore, setErrore] = useState(false)
   const dialogRef = useRef<HTMLDialogElement>(null)
   const inputRef = useRef<HTMLInputElement>(null)
@@ -67,7 +125,7 @@ export function Ricerca() {
     inputRef.current?.select()
     if (!indice) {
       setErrore(false)
-      caricaIndice().then(setIndice, () => setErrore(true))
+      caricaIndice(lingua).then((i) => setIndiceDi({ lingua, indice: i }), () => setErrore(true))
     }
   }
 
@@ -116,8 +174,8 @@ export function Ricerca() {
     }
   }, [aperto])
 
-  const gruppi = useMemo(() => (indice ? cerca(indice, query) : new Map<TipoVoce, VoceIndice[]>()), [indice, query])
-  const piatti = useMemo(() => GRUPPI.flatMap((g) => gruppi.get(g.tipo) ?? []), [gruppi])
+  const gruppi = useMemo(() => (indice ? cerca(indice, query, lingua) : new Map<TipoVoce, VoceIndice[]>()), [indice, query, lingua])
+  const piatti = useMemo(() => GRUPPI.flatMap((g) => gruppi.get(g.tipo) ?? []), [GRUPPI, gruppi])
   const totale = piatti.length
   const corrente = Math.min(attivo, Math.max(totale - 1, 0))
 
@@ -144,7 +202,7 @@ export function Ricerca() {
       e.preventDefault()
       const voce = piatti[corrente]
       chiudi()
-      router.push(voce.href)
+      router.push(localizza(voce.href, lingua))
     }
   }
 
@@ -189,13 +247,13 @@ export function Ricerca() {
         aria-haspopup="dialog"
         aria-expanded={aperto}
         aria-keyshortcuts="/ Control+K Meta+K"
-        aria-label="Cerca nel sito (scorciatoia: / oppure Ctrl+K)"
-        title="Cerca nel sito ( / oppure Ctrl+K )"
+        aria-label={t.ariaBottone}
+        title={t.titleBottone}
         className="inline-flex min-h-11 min-w-11 shrink-0 items-center justify-center gap-2 whitespace-nowrap text-[0.95rem] font-semibold text-ink transition-colors duration-150 hover:text-rosso focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-rosso"
       >
         <Search size={20} aria-hidden="true" />
         {/* Testo e tasto solo da 1440px: sotto, il menu non ci sta su una riga. */}
-        <span aria-hidden="true" className="hidden min-[1440px]:inline">Cerca</span>
+        <span aria-hidden="true" className="hidden min-[1440px]:inline">{t.cerca}</span>
         <kbd aria-hidden="true" className="hidden border border-ink/30 px-1.5 font-sans text-xs font-medium text-stone min-[1440px]:inline">
           /
         </kbd>
@@ -203,7 +261,7 @@ export function Ricerca() {
 
       <dialog
         ref={dialogRef}
-        aria-label="Cerca nel sito"
+        aria-label={t.ariaDialog}
         onClose={suChiusura}
         onKeyDown={tastiDialog}
         onClick={(e) => {
@@ -219,7 +277,7 @@ export function Ricerca() {
               ref={inputRef}
               type="search"
               role="combobox"
-              aria-label="Cerca viaggi, Paesi, destinazioni, esperienze e meraviglie"
+              aria-label={t.ariaInput}
               aria-expanded={totale > 0}
               aria-controls={idLista}
               aria-autocomplete="list"
@@ -227,7 +285,7 @@ export function Ricerca() {
               autoComplete="off"
               spellCheck={false}
               enterKeyHint="go"
-              placeholder="Cerca un Paese, una città, un viaggio…"
+              placeholder={t.placeholder}
               value={query}
               onChange={(e) => {
                 setQuery(e.target.value)
@@ -243,31 +301,30 @@ export function Ricerca() {
             >
               <X size={18} aria-hidden="true" />
               <span className="sr-only sm:not-sr-only">Esc</span>
-              <span className="sr-only">Chiudi la ricerca</span>
+              <span className="sr-only">{t.chiudi}</span>
             </button>
           </div>
 
           <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain">
             <p aria-live="polite" className="sr-only">
-              {q && indice ? (totale ? `${totale} risultati` : `Nessun risultato per "${q}"`) : ''}
+              {q && indice ? (totale ? t.risultati(totale) : t.nessunoPer(q)) : ''}
             </p>
 
             {errore ? (
-              <p className="px-5 py-8 text-stone">Non riesco a caricare la ricerca. Riprova fra poco.</p>
+              <p className="px-5 py-8 text-stone">{t.errore}</p>
             ) : !indice ? (
-              aperto && <p className="px-5 py-8 text-stone">Carico l&apos;indice…</p>
+              aperto && <p className="px-5 py-8 text-stone">{t.carico}</p>
             ) : !q ? (
               <p className="px-5 py-8 text-sm leading-relaxed text-stone">
-                Scrivi il nome di un Paese, di una città, di un viaggio o di una meraviglia. Frecce per scegliere, Invio
-                per aprire.
+                {t.istruzioni}
               </p>
             ) : !totale ? (
               <p className="px-5 py-8 text-stone">
-                Nessun risultato per <span className="font-semibold text-ink">&ldquo;{q}&rdquo;</span>
+                {t.nessuno} <span className="font-semibold text-ink">&ldquo;{q}&rdquo;</span>
               </p>
             ) : null}
 
-            <div id={idLista} role="listbox" aria-label="Risultati" hidden={!totale} className="pb-3">
+            <div id={idLista} role="listbox" aria-label={t.listaRisultati} hidden={!totale} className="pb-3">
               {GRUPPI.map((g) => {
                 const voci = gruppi.get(g.tipo)
                 if (!voci?.length) return null

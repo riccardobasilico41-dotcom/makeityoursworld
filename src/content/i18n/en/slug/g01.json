@@ -1,0 +1,43 @@
+{
+  "paesi": {
+    "arabia-saudita": "saudi-arabia",
+    "austria": "austria",
+    "belize": "belize",
+    "bolivia": "bolivia"
+  },
+  "destinazioni": {
+    "arabia-saudita/jeddah": "jeddah",
+    "arabia-saudita/alula": "alula",
+    "arabia-saudita/riyadh-diriyah": "riyadh-diriyah",
+    "arabia-saudita/abha-asir": "abha-asir",
+    "arabia-saudita/umluj-mar-rosso": "umluj-red-sea",
+    "austria/vienna": "vienna",
+    "belize/caye-caulker": "caye-caulker",
+    "belize/ambergris-caye": "ambergris-caye",
+    "belize/san-ignacio-cayo": "san-ignacio-cayo",
+    "belize/placencia-hopkins": "placencia-hopkins",
+    "bolivia/la-paz": "la-paz",
+    "bolivia/salar-de-uyuni": "uyuni-salt-flat",
+    "bolivia/titicaca-boliviano": "copacabana-isla-del-sol",
+    "bolivia/sucre-potosi": "sucre-potosi",
+    "bolivia/rurrenabaque-madidi": "rurrenabaque-madidi"
+  },
+  "esperienze": {
+    "arabia-saudita/hegra-alula": "hegra-alula",
+    "arabia-saudita/al-balad-jeddah": "al-balad-at-sunset",
+    "arabia-saudita/diriyah": "diriyah-at-turaif",
+    "arabia-saudita/edge-of-the-world": "edge-of-the-world",
+    "austria/vienna-schonbrunn-biglietto": "schonbrunn-palace-tickets",
+    "austria/vienna-opera-stehplatz": "vienna-state-opera-standing-tickets",
+    "austria/vienna-giro-caffe-storici": "vienna-historic-cafes-tour",
+    "belize/hol-chan-shark-ray-alley": "hol-chan-shark-ray-alley",
+    "belize/grotta-atm": "atm-cave",
+    "bolivia/carretera-de-la-muerte": "death-road-mountain-bike",
+    "bolivia/tour-uyuni-sud-lipez": "uyuni-sud-lipez-3-day-tour",
+    "bolivia/miniere-cerro-rico": "cerro-rico-mines"
+  },
+  "viaggi": {
+    "arabia-saudita-itinerario": "saudi-arabia-itinerary",
+    "vienna-weekend": "vienna-weekend"
+  }
+}

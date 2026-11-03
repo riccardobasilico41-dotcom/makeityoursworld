@@ -1,15 +1,35 @@
-import Link from 'next/link'
+import Link from '@/components/ui/Link'
 import { Route, BedDouble, Coins, Gauge, ArrowUpRight } from 'lucide-react'
 import { Prose } from './Prose'
 import { Reveal } from './Reveal'
 import type { ViaggioGiorno } from '@/lib/viaggi'
 import type { GiornoMeta, IntensitaGiorno } from '@/lib/types'
+import { linguaCorrente } from '@/lib/i18n/server'
+import type { Lingua } from '@/lib/i18n/config'
 
-const INTENSITA_LABEL: Record<IntensitaGiorno, string> = {
-  leggero: 'Ritmo leggero',
-  medio: 'Ritmo medio',
-  intenso: 'Ritmo intenso',
-}
+const T = {
+  it: {
+    intensita: { leggero: 'Ritmo leggero', medio: 'Ritmo medio', intenso: 'Ritmo intenso' },
+    tratta: 'Tratta',
+    pernottamento: 'Pernottamento',
+    costi: 'Costi noti',
+    scopri: 'Scopri la destinazione',
+  },
+  en: {
+    intensita: { leggero: 'Easy pace', medio: 'Moderate pace', intenso: 'Intense pace' },
+    tratta: 'Route',
+    pernottamento: 'Overnight',
+    costi: 'Known costs',
+    scopri: 'Discover the destination',
+  },
+  es: {
+    intensita: { leggero: 'Ritmo suave', medio: 'Ritmo medio', intenso: 'Ritmo intenso' },
+    tratta: 'Trayecto',
+    pernottamento: 'Pernoctación',
+    costi: 'Costes conocidos',
+    scopri: 'Descubre el destino',
+  },
+} satisfies Record<Lingua, { intensita: Record<IntensitaGiorno, string> } & Record<string, unknown>>
 
 const INTENSITA_CLASSES: Record<IntensitaGiorno, string> = {
   leggero: 'bg-alpine/10 text-alpine',
@@ -24,7 +44,7 @@ const INTENSITA_CLASSES: Record<IntensitaGiorno, string> = {
  * mostra solo titolo e testo, come nella pagina viaggio "classica".
  * Contenuto sempre visibile (nessun accordion chiuso di default).
  */
-export function DayTimeline({
+export async function DayTimeline({
   giorni,
   meta,
   paeseSlug,
@@ -33,11 +53,12 @@ export function DayTimeline({
   meta?: GiornoMeta[]
   paeseSlug?: string
 }) {
+  const t = T[await linguaCorrente()]
   return (
     <ol className="space-y-10">
       {giorni.map((giorno, i) => {
         const info = meta?.find((m) => m.titoloGiorno === giorno.titolo)
-        const numero = giorno.titolo.match(/Giorno\s+(\d+)/i)?.[1] ?? String(i + 1)
+        const numero = giorno.titolo.match(/(?:Giorno|Day|D[ií]a)\s+(\d+)/i)?.[1] ?? String(i + 1)
 
         return (
           <Reveal key={giorno.titolo}>
@@ -54,7 +75,7 @@ export function DayTimeline({
                     className={`inline-flex items-center gap-1.5 rounded-none px-2.5 py-1 text-[0.65rem] font-semibold uppercase tracking-wider ${INTENSITA_CLASSES[info.intensita]}`}
                   >
                     <Gauge size={12} />
-                    {INTENSITA_LABEL[info.intensita]}
+                    {t.intensita[info.intensita]}
                   </span>
                 )}
               </div>
@@ -65,7 +86,7 @@ export function DayTimeline({
                     <div className="relative pl-[23px]">
                       <dt className="text-xs text-stone/85">
                         <Route size={15} aria-hidden="true" className="absolute left-0 top-0.5 text-stone/60" />
-                        Tratta
+                        {t.tratta}
                       </dt>
                       <dd className="text-ink">{info.tratta}</dd>
                     </div>
@@ -74,7 +95,7 @@ export function DayTimeline({
                     <div className="relative pl-[23px]">
                       <dt className="text-xs text-stone/85">
                         <BedDouble size={15} aria-hidden="true" className="absolute left-0 top-0.5 text-stone/60" />
-                        Pernottamento
+                        {t.pernottamento}
                       </dt>
                       <dd className="flex flex-wrap items-center gap-1.5 text-ink">
                         {info.pernottamento}
@@ -85,7 +106,7 @@ export function DayTimeline({
                     <div className="relative pl-[23px]">
                       <dt className="text-xs text-stone/85">
                         <Coins size={15} aria-hidden="true" className="absolute left-0 top-0.5 text-stone/60" />
-                        Costi noti
+                        {t.costi}
                       </dt>
                       <dd className="text-ink">{info.costiNoti}</dd>
                     </div>
@@ -100,7 +121,7 @@ export function DayTimeline({
                   href={`/destinazioni/${paeseSlug}/${info.destinazioneSlug}`}
                   className="mt-4 inline-flex items-center gap-1.5 text-sm font-medium text-rosso hover:text-rosso-dark"
                 >
-                  Scopri la destinazione
+                  {t.scopri}
                   <ArrowUpRight size={14} />
                 </Link>
               )}

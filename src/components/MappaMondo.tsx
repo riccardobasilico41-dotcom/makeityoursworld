@@ -1,9 +1,53 @@
 'use client'
 
 import Image from 'next/image'
-import Link from 'next/link'
+import Link from '@/components/ui/Link'
 import { useCallback, useEffect, useRef, useState, type PointerEvent as ReactPointerEvent } from 'react'
 import { ArrowRight, Minus, Plus, RotateCcw, X } from 'lucide-react'
+import { useLingua } from '@/lib/i18n/LinguaProvider'
+import type { Lingua } from '@/lib/i18n/config'
+
+const T = {
+  it: {
+    mappa: (n: number) => `Mappa del mondo con ${n} destinazioni`,
+    avvicina: 'Avvicina',
+    allontana: 'Allontana',
+    tutto: 'Tutto il mondo',
+    suggerimento: 'Tocca un Paese per avvicinarti · trascina per spostarti',
+    avvicinaArea: "Avvicina un'area",
+    vaiA: 'Vai a',
+    chiudi: 'Chiudi',
+    apri: 'Apri la destinazione',
+    tuttoSu: (paese: string) => `Tutto su ${paese}`,
+    viaggio: (titolo: string) => `Il viaggio: ${titolo}`,
+  },
+  en: {
+    mappa: (n: number) => `World map with ${n} destinations`,
+    avvicina: 'Zoom in',
+    allontana: 'Zoom out',
+    tutto: 'Whole world',
+    suggerimento: 'Tap a country to zoom in · drag to move around',
+    avvicinaArea: 'Zoom to an area',
+    vaiA: 'Go to',
+    chiudi: 'Close',
+    apri: 'Open the destination',
+    tuttoSu: (paese: string) => `Everything on ${paese}`,
+    viaggio: (titolo: string) => `The trip: ${titolo}`,
+  },
+  es: {
+    mappa: (n: number) => `Mapa del mundo con ${n} destinos`,
+    avvicina: 'Acercar',
+    allontana: 'Alejar',
+    tutto: 'Todo el mundo',
+    suggerimento: 'Toca un país para acercarte · arrastra para moverte',
+    avvicinaArea: 'Acercar una zona',
+    vaiA: 'Ir a',
+    chiudi: 'Cerrar',
+    apri: 'Abrir el destino',
+    tuttoSu: (paese: string) => `Todo sobre ${paese}`,
+    viaggio: (titolo: string) => `El viaje: ${titolo}`,
+  },
+} satisfies Record<Lingua, Record<string, string | ((x: never) => string)>>
 
 export type PinMondo = {
   id: string
@@ -47,6 +91,7 @@ export function MappaMondo({
   /** scorciatoie per area (Europa, Asia…): rettangolo dei suoi punti, in unità del viewBox */
   aree?: { nome: string; box: [number, number, number, number] }[]
 }) {
+  const t = T[useLingua()]
   const svgRef = useRef<SVGSVGElement>(null)
   const vbRef = useRef<VB>([0, 0, w, h])
   const rafRef = useRef(0)
@@ -201,7 +246,7 @@ export function MappaMondo({
           viewBox={`0 0 ${w} ${h}`}
           className={`block h-auto w-full select-none ${zoomato ? 'cursor-grab active:cursor-grabbing' : ''}`}
           role="group"
-          aria-label={`Mappa del mondo con ${pins.length} destinazioni`}
+          aria-label={t.mappa(pins.length)}
           onPointerDown={giu}
           onPointerMove={muovi}
           onPointerUp={su}
@@ -265,20 +310,20 @@ export function MappaMondo({
         </svg>
 
         <div className="absolute right-2 top-2 flex flex-col gap-2">
-          <button type="button" className={bottone} onClick={() => zoomDi(1.8)} aria-label="Avvicina">
+          <button type="button" className={bottone} onClick={() => zoomDi(1.8)} aria-label={t.avvicina}>
             <Plus size={16} />
           </button>
-          <button type="button" className={bottone} onClick={() => zoomDi(1 / 1.8)} aria-label="Allontana" disabled={!zoomato}>
+          <button type="button" className={bottone} onClick={() => zoomDi(1 / 1.8)} aria-label={t.allontana} disabled={!zoomato}>
             <Minus size={16} />
           </button>
           {zoomato && (
-            <button type="button" className={bottone} onClick={tutto} aria-label="Tutto il mondo">
+            <button type="button" className={bottone} onClick={tutto} aria-label={t.tutto}>
               <RotateCcw size={15} />
             </button>
           )}
         </div>
         <p className="pointer-events-none absolute bottom-2 left-2 hidden bg-cream/85 px-2 py-1 text-[11px] text-stone sm:block">
-          Tocca un Paese per avvicinarti · trascina per spostarti
+          {t.suggerimento}
         </p>
 
         {sel && (
@@ -294,8 +339,8 @@ export function MappaMondo({
       </div>
       {aree.length > 1 && (
         // sul telefono la mappa intera è piccola e i punti fitti: un tocco porta dritto all'area
-        <div className="mt-3 flex flex-wrap items-center gap-2" role="group" aria-label="Avvicina un'area">
-          <span className="mr-1 text-xs font-semibold uppercase tracking-[0.18em] text-stone/85">Vai a</span>
+        <div className="mt-3 flex flex-wrap items-center gap-2" role="group" aria-label={t.avvicinaArea}>
+          <span className="mr-1 text-xs font-semibold uppercase tracking-[0.18em] text-stone/85">{t.vaiA}</span>
           {aree.map((a) => (
             <button
               key={a.nome}
@@ -311,7 +356,7 @@ export function MappaMondo({
           ))}
           {zoomato && (
             <button type="button" onClick={tutto} className="inline-flex min-h-10 items-center gap-1.5 px-2 text-sm font-semibold text-rosso hover:underline">
-              <RotateCcw size={14} aria-hidden /> Tutto il mondo
+              <RotateCcw size={14} aria-hidden /> {t.tutto}
             </button>
           )}
         </div>
@@ -322,6 +367,7 @@ export function MappaMondo({
 }
 
 function SchedaPin({ pin, onChiudi, className = '' }: { pin: PinMondo; onChiudi: () => void; className?: string }) {
+  const t = T[useLingua()]
   return (
     <div className={`z-10 border-2 border-ink bg-cream ${className}`} role="dialog" aria-label={pin.nome}>
       <Link href={pin.href} className="group relative block aspect-[16/10] overflow-hidden bg-cream-dark">
@@ -340,7 +386,7 @@ function SchedaPin({ pin, onChiudi, className = '' }: { pin: PinMondo; onChiudi:
         type="button"
         onClick={onChiudi}
         className="absolute right-2 top-2 inline-flex size-9 items-center justify-center bg-cream/90 text-ink hover:text-rosso"
-        aria-label="Chiudi"
+        aria-label={t.chiudi}
       >
         <X size={16} />
       </button>
@@ -352,14 +398,14 @@ function SchedaPin({ pin, onChiudi, className = '' }: { pin: PinMondo; onChiudi:
         <p className="mt-2 line-clamp-3 text-sm leading-relaxed text-stone">{pin.testo}</p>
         <div className="mt-4 flex flex-col gap-2 text-sm font-medium">
           <Link href={pin.href} className="inline-flex min-h-10 items-center justify-between gap-2 bg-alpine px-4 text-cream hover:bg-alpine-dark">
-            Apri la destinazione <ArrowRight size={15} aria-hidden />
+            {t.apri} <ArrowRight size={15} aria-hidden />
           </Link>
           <Link href={pin.paeseHref} className="inline-flex min-h-10 items-center justify-between gap-2 border-2 border-ink px-4 text-ink hover:bg-ink hover:text-cream">
-            Tutto su {pin.paese} <ArrowRight size={15} aria-hidden />
+            {t.tuttoSu(pin.paese)} <ArrowRight size={15} aria-hidden />
           </Link>
           {pin.viaggio && (
             <Link href={pin.viaggio.href} className="inline-flex min-h-10 items-center justify-between gap-2 border-2 border-ink px-4 text-ink hover:bg-ink hover:text-cream">
-              <span className="line-clamp-1">Il viaggio: {pin.viaggio.titolo}</span> <ArrowRight size={15} className="shrink-0" aria-hidden />
+              <span className="line-clamp-1">{t.viaggio(pin.viaggio.titolo)}</span> <ArrowRight size={15} className="shrink-0" aria-hidden />
             </Link>
           )}
         </div>
