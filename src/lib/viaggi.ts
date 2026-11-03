@@ -4,8 +4,27 @@ import path from 'node:path'
 import type { Lingua } from './i18n/config'
 
 const CONTENT_DIR = path.join(process.cwd(), 'src/content/viaggi')
-/** Markdown tradotti: stesso nome file in src/content/i18n/<lingua>/viaggi/. Se manca, resta l'italiano. */
-const dirTradotti = (lingua: Lingua) => path.join(process.cwd(), 'src/content/i18n', lingua, 'viaggi')
+/**
+ * Markdown tradotti: stesso nome file in src/content/i18n/<lingua>/viaggi/. Se manca, resta l'italiano.
+ * Percorsi scritti per intero, uno per lingua: con la lingua come variabile il tracciamento dei file
+ * di Next non sa cosa includere e mette nelle funzioni tutto il progetto (public compreso, oltre 1 GB),
+ * e la pubblicazione su Vercel fallisce.
+ */
+const DIR_EN = path.join(process.cwd(), 'src/content/i18n/en/viaggi')
+const DIR_ES = path.join(process.cwd(), 'src/content/i18n/es/viaggi')
+
+/** Il testo del markdown nella lingua, o null se non è ancora tradotto. Ogni ramo ha la sua cartella fissa. */
+function leggiTradotto(filename: string, lingua: Lingua): string | null {
+  if (lingua === 'en') {
+    const f = path.join(DIR_EN, filename)
+    return fs.existsSync(f) ? fs.readFileSync(f, 'utf8') : null
+  }
+  if (lingua === 'es') {
+    const f = path.join(DIR_ES, filename)
+    return fs.existsSync(f) ? fs.readFileSync(f, 'utf8') : null
+  }
+  return null
+}
 
 export type ViaggioSezione = {
   titolo: string
@@ -125,8 +144,8 @@ function isSpecial(titolo: string): boolean {
   return false
 }
 
-function parseViaggio(filename: string, dir: string = CONTENT_DIR): Viaggio {
-  const raw = fs.readFileSync(path.join(dir, filename), 'utf8')
+function parseViaggio(filename: string, testo?: string): Viaggio {
+  const raw = testo ?? fs.readFileSync(path.join(CONTENT_DIR, filename), 'utf8')
 
   const orderMatch = filename.match(/^(\d+)-/)
   const ordine = orderMatch ? parseInt(orderMatch[1], 10) : 0
@@ -203,13 +222,13 @@ export function getAllViaggi(lingua: Lingua): Viaggio[] {
   const pronti = cache[lingua]
   if (pronti) return pronti
   const files = fs.readdirSync(CONTENT_DIR).filter((f) => f.endsWith('.md'))
-  const tradotti = lingua === 'it' ? '' : dirTradotti(lingua)
   cache[lingua] = files
     .map((f) => {
-      if (!tradotti || !fs.existsSync(path.join(tradotti, f))) return parseViaggio(f)
+      const tradotto = leggiTradotto(f, lingua)
+      if (!tradotto) return parseViaggio(f)
       // dal testo tradotto, ma categorie e tag restano quelli italiani: servono ai filtri e ai raggruppamenti
       const it = parseViaggio(f)
-      return { ...parseViaggio(f, tradotti), categorie: it.categorie, tags: it.tags, inLavorazione: it.inLavorazione }
+      return { ...parseViaggio(f, tradotto), categorie: it.categorie, tags: it.tags, inLavorazione: it.inLavorazione }
     })
     .sort((a, b) => a.ordine - b.ordine)
   return cache[lingua]!

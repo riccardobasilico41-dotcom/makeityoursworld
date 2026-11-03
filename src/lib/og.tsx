@@ -79,13 +79,14 @@ async function fotoDataUrl(src?: string, lato?: { width: number; height: number 
  * si prende lo stesso file dal sito pubblicato, con la cache di fetch.
  */
 async function leggiPubblico(src: string): Promise<Buffer> {
-  try {
-    return await readFile(path.join(process.cwd(), 'public', src))
-  } catch {
-    const res = await fetch(new URL(src, siteConfig.url), { cache: 'force-cache' })
-    if (!res.ok) throw new Error(`Foto non trovata: ${src}`)
-    return Buffer.from(await res.arrayBuffer())
-  }
+  // Niente lettura da disco di /public con un percorso variabile: il tracciamento di Next
+  // metterebbe tutta la cartella (oltre 1 GB di foto e video) in ogni funzione e la
+  // pubblicazione su Vercel fallisce. In locale si scarica dal dev server, online dal sito.
+  const base = process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : process.env.NODE_ENV === 'development' ? 'http://localhost:3000' : siteConfig.url
+  let res = await fetch(new URL(src, base), { cache: 'force-cache' }).catch(() => null)
+  if (!res?.ok) res = await fetch(new URL(src, siteConfig.url), { cache: 'force-cache' })
+  if (!res.ok) throw new Error(`Foto non trovata: ${src}`)
+  return Buffer.from(await res.arrayBuffer())
 }
 
 let avatarCache: Promise<string | null> | null = null
