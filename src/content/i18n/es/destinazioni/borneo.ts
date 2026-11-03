@@ -402,7 +402,7 @@ export const destinazioniBorneo: Destinazione[] = [
     tipologia: ['natura', 'grotte', 'trekking'],
     giorniConsigliati: "3 días",
     visitataPersonalmente: false,
-    imageAlt: "La salida vespertina de los murciélagos de la Deer Cave en el parque nacional de Gunung Mulu, Sarawak",
+    imageAlt: "Los Pinnacles de Gunung Mulu: agujas de caliza gris de decenas de metros entre la selva tropical y la niebla",
     introduzione:
       "Un parque nacional Patrimonio de la UNESCO en el interior de Sarawak, accesible solo en avión, con algunos de los sistemas de cuevas más grandes del planeta. La Sarawak Chamber es la cámara subterránea más grande conocida del mundo, y cada tarde de la Deer Cave salen millones de murciélagos en formaciones en espiral.",
     percheAndarci:

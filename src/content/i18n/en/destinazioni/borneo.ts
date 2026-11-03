@@ -402,7 +402,7 @@ export const destinazioniBorneo: Destinazione[] = [
     tipologia: ['nature', 'caves', 'trekking'],
     giorniConsigliati: '3 days',
     visitataPersonalmente: false,
-    imageAlt: 'The evening bat exodus from Deer Cave in Gunung Mulu National Park, Sarawak',
+    imageAlt: 'The Pinnacles of Gunung Mulu: grey limestone spires tens of meters tall between the rainforest and the mist',
     introduzione:
       "A UNESCO World Heritage national park in the interior of Sarawak, reachable only by air, with some of the largest cave systems on the planet. The Sarawak Chamber is the largest known underground chamber in the world, and every evening millions of bats stream out of Deer Cave in spiral formations.",
     percheAndarci:

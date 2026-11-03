@@ -11,4 +11,9 @@ export const creditiDestinazioni: Record<string, CreditoImmagine> = {
     licenza: 'Pexels License',
     fonteUrl: 'https://www.pexels.com/photo/closeup-of-llama-terraces-in-peru-19276487/',
   },
+  'borneo/gunung-mulu': {
+    autore: 'Nur Nafis Naim',
+    licenza: 'CC BY-SA 4.0',
+    fonteUrl: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg',
+  },
 }
