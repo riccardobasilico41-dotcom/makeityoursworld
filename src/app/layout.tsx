@@ -72,6 +72,10 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       className={`${bricolage.variable} ${schibsted.variable} ${courierPrime.variable} h-full antialiased`}
     >
       <body className="flex min-h-full flex-col bg-cream font-sans text-ink">
+        {/* senza JavaScript le animazioni d'ingresso non partono: il contenuto resta visibile */}
+        <noscript>
+          <style>{'[style*="opacity:0"]{opacity:1!important;transform:none!important}'}</style>
+        </noscript>
         {/* Il marchio si batte a macchina solo alla prima pagina della visita: dalle successive è già scritto. */}
         <script
           dangerouslySetInnerHTML={{

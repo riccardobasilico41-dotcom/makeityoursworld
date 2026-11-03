@@ -107,3 +107,29 @@ html[data-marchio='visto'] .marchio-lettera {
   0% { transform: translateX(-100%); }
   100% { transform: translateX(300%); }
 }
+
+/* «Dove ho dormito» e «Dove ho mangiato» (pagina viaggio): ogni hotel o locale, cioè un
+   paragrafo che parte col nome in grassetto o una voce d'elenco, diventa una scheda */
+.hotel-schede p:has(> strong:first-child),
+.hotel-schede li {
+  margin: 0.75rem 0;
+  border: 1px solid color-mix(in oklch, var(--color-alpine) 15%, transparent);
+  background: white;
+  padding: 1rem 1.125rem;
+}
+.hotel-schede p:has(> strong:first-child) > strong:first-child {
+  display: block;
+  margin-bottom: 0.35rem;
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: var(--color-alpine);
+}
+.hotel-schede p > em:first-of-type { color: var(--color-ink); }
+.hotel-schede ul { display: grid; gap: 0.75rem; padding-left: 0; list-style: none; }
+.hotel-schede ul > li { margin: 0; padding-left: 1.125rem; }
+.hotel-schede ul > li::marker { content: none; }
+.hotel-schede table { font-size: 0.85rem; }
+@media (min-width: 768px) {
+  .hotel-schede ul { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}

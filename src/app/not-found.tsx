@@ -1,3 +1,4 @@
+import type { Metadata } from 'next'
 import Link from 'next/link'
 import { ArrowRight, Compass, Landmark, Map } from 'lucide-react'
 import { HeaderAction, PageHeader } from '@/components/ui/PageHeader'
@@ -7,6 +8,11 @@ const STRADE = [
   { href: '/destinazioni', icona: Compass, titolo: 'Le destinazioni', testo: 'Paese per Paese, con la mappa e le cose da fare.' },
   { href: '/meraviglie', icona: Landmark, titolo: 'Le sette meraviglie', testo: 'Come arrivarci, quando andare, cosa prenotare.' },
 ]
+
+export const metadata: Metadata = {
+  title: 'Pagina non trovata',
+  robots: { index: false },
+}
 
 export default function NotFound() {
   return (

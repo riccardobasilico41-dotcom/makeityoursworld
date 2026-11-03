@@ -31,7 +31,22 @@ const ease = (t: number) => (t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 
  * punto rosso per destinazione che resta della stessa misura a ogni zoom. Toccare un Paese
  * avvicina la mappa; toccare un punto apre la scheda con foto, destinazione, Paese e viaggio.
  */
-export function MappaMondo({ w, h, terre, graticola, pins }: { w: number; h: number; terre: Terra[]; graticola: string; pins: PinMondo[] }) {
+export function MappaMondo({
+  w,
+  h,
+  terre,
+  graticola,
+  pins,
+  aree = [],
+}: {
+  w: number
+  h: number
+  terre: Terra[]
+  graticola: string
+  pins: PinMondo[]
+  /** scorciatoie per area (Europa, Asia…): rettangolo dei suoi punti, in unità del viewBox */
+  aree?: { nome: string; box: [number, number, number, number] }[]
+}) {
   const svgRef = useRef<SVGSVGElement>(null)
   const vbRef = useRef<VB>([0, 0, w, h])
   const rafRef = useRef(0)
@@ -277,6 +292,30 @@ export function MappaMondo({ w, h, terre, graticola, pins }: { w: number; h: num
           </div>
         )}
       </div>
+      {aree.length > 1 && (
+        // sul telefono la mappa intera è piccola e i punti fitti: un tocco porta dritto all'area
+        <div className="mt-3 flex flex-wrap items-center gap-2" role="group" aria-label="Avvicina un'area">
+          <span className="mr-1 text-xs font-semibold uppercase tracking-[0.18em] text-stone/85">Vai a</span>
+          {aree.map((a) => (
+            <button
+              key={a.nome}
+              type="button"
+              onClick={() => {
+                setSelId(null)
+                inquadra(...a.box)
+              }}
+              className="inline-flex min-h-10 items-center border border-ink/25 bg-cream px-3 text-sm font-medium text-ink transition-colors hover:border-ink hover:bg-ink hover:text-cream"
+            >
+              {a.nome}
+            </button>
+          ))}
+          {zoomato && (
+            <button type="button" onClick={tutto} className="inline-flex min-h-10 items-center gap-1.5 px-2 text-sm font-semibold text-rosso hover:underline">
+              <RotateCcw size={14} aria-hidden /> Tutto il mondo
+            </button>
+          )}
+        </div>
+      )}
       {sel && <SchedaPin pin={sel} onChiudi={() => setSelId(null)} className="relative mt-4 sm:hidden" />}
     </div>
   )

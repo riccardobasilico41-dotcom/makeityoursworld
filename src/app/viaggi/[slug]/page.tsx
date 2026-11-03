@@ -17,6 +17,7 @@ const VECCHI_SLUG: Record<string, string> = {
   'giappone-360': 'giappone-itinerario',
 }
 import { Prose } from '@/components/Prose'
+import { Tendina } from '@/components/Tendina'
 import { ScrollProgress } from '@/components/motion-primitives/scroll-progress'
 import { TripSummary } from '@/components/TripSummary'
 import { RiepilogoViaggio } from '@/components/RiepilogoViaggio'
@@ -65,7 +66,6 @@ export async function generateMetadata({
 
 const CAMPI_VIAGGIO_IN_BREVE: { key: keyof ViaggioInBreve; label: string }[] = [
   { key: 'percheHoScelto', label: 'Perché ho scelto questo viaggio' },
-  { key: 'conChiSonoPartito', label: 'Con chi sono partito' },
   { key: 'cosaCercavo', label: 'Cosa cercavo' },
   { key: 'treEsperienzePiuBelle', label: 'Le tre esperienze più belle' },
   { key: 'cosaCambierei', label: 'Cosa cambierei oggi' },
@@ -269,12 +269,6 @@ function SignatureViaggioContent({
                     {viaggio.durata}
                   </p>
                 )}
-                {viaggio.compagni && (
-                  <p className="mt-4 text-sm leading-relaxed text-stone">
-                    <span className="font-semibold text-ink">Compagni di viaggio: </span>
-                    {viaggio.compagni}
-                  </p>
-                )}
                 <Prose className="mt-4 max-w-none text-sm prose-ul:my-0 prose-li:my-1.5 lg:columns-2 lg:gap-10 [&_li]:break-inside-avoid">{viaggio.schedaPratica}</Prose>
               </div>
             )}
@@ -326,25 +320,25 @@ function SignatureViaggioContent({
               </div>
             )}
 
-            {altreSezioni.map((sezione) => (
-              <div key={sezione.titolo} id={slugify(sezione.titolo)} className="scroll-mt-24">
-                <h2 className="font-display text-2xl text-alpine">{sezione.titolo}</h2>
-                <Prose className="mt-4">{sezione.corpo}</Prose>
-              </div>
-            ))}
-
-            {viaggio.doveDormito && (
-              <div id="dove-dormire" className="scroll-mt-24">
-                <h2 className="font-display text-xl text-alpine">Dove ho dormito</h2>
-                <Prose className="mt-3 text-sm">{viaggio.doveDormito}</Prose>
-              </div>
-            )}
-            {viaggio.doveMangiato && (
-              <div id="dove-mangiare" className="scroll-mt-24">
-                <h2 className="font-display text-xl text-alpine">Dove ho mangiato</h2>
-                <Prose className="mt-3 text-sm">{viaggio.doveMangiato}</Prose>
-              </div>
-            )}
+            {/* approfondimenti, hotel e ristoranti chiusi a tendina: la pagina resta percorribile
+                sul telefono e chi cerca un dettaglio lo apre dall'indice */}
+            <div className="-my-8 space-y-0 [&>details+details]:border-t-0">
+              {altreSezioni.map((sezione) => (
+                <Tendina key={sezione.titolo} id={slugify(sezione.titolo)} titolo={sezione.titolo}>
+                  <Prose className="mt-2">{sezione.corpo}</Prose>
+                </Tendina>
+              ))}
+              {viaggio.doveDormito && (
+                <Tendina id="dove-dormire" titolo="Dove ho dormito" sottotitolo="Gli hotel tappa per tappa, con le alternative">
+                  <Prose className="hotel-schede mt-2 max-w-none text-sm">{viaggio.doveDormito}</Prose>
+                </Tendina>
+              )}
+              {viaggio.doveMangiato && (
+                <Tendina id="dove-mangiare" titolo="Dove ho mangiato">
+                  <Prose className="hotel-schede mt-2 max-w-none text-sm">{viaggio.doveMangiato}</Prose>
+                </Tendina>
+              )}
+            </div>
 
             <div id="budget" className="scroll-mt-24">
               <h2 className="font-display text-2xl text-alpine">Budget</h2>

@@ -30,7 +30,7 @@ export default function MeraviglieIndexPage() {
       />
       <PageHeader
         crumbs={[{ label: 'Home', href: '/' }, { label: 'Meraviglie del mondo' }]}
-        eyebrow="Le sette meraviglie del mondo moderno"
+        eyebrow="Le sette meraviglie moderne"
         title="Le sette meraviglie del mondo"
         lead={
           <p>

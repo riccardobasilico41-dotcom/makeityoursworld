@@ -1,10 +1,10 @@
 'use client'
 
-import { useMemo, useState } from 'react'
+import { useMemo, useRef, useState } from 'react'
 import { SlidersHorizontal } from 'lucide-react'
 import { TripCard, type ViaggioScheda } from './TripCard'
 import { RevealGroup, RevealItem } from './Reveal'
-import { getContinente, raggruppaPerContinente } from '@/lib/utils'
+import { getContinente, raggruppaPerContinente, slugify } from '@/lib/utils'
 
 // Tipologia/attività: derivati da categoria e tag già presenti in ogni file
 // .md (nessun dato nuovo da mantenere), scelti tra quelli che ricorrono
@@ -70,6 +70,7 @@ export function TripFilters({ viaggi }: { viaggi: ViaggioScheda[] }) {
   const [stiliAttivi, setStiliAttivi] = useState<string[]>([])
   const [durata, setDurata] = useState<string>('tutte')
   const [filtriAperti, setFiltriAperti] = useState(false)
+  const inizio = useRef<HTMLDivElement>(null)
 
   const continenti = useMemo(
     () => Array.from(new Set(viaggi.map((v) => getContinente(v.categorie)))).sort(),
@@ -104,21 +105,11 @@ export function TripFilters({ viaggi }: { viaggi: ViaggioScheda[] }) {
   const filtriAttivi =
     (continente !== 'tutti' ? 1 : 0) + (paese !== 'tutti' ? 1 : 0) + (durata !== 'tutte' ? 1 : 0) + stiliAttivi.length
 
-  return (
-    <div>
-      {/* Sul telefono i filtri stanno chiusi dietro un pulsante: i viaggi compaiono subito. */}
-      <button
-        type="button"
-        aria-expanded={filtriAperti}
-        aria-controls="filtri-viaggi"
-        onClick={() => setFiltriAperti((a) => !a)}
-        className="inline-flex min-h-11 items-center gap-2 border-2 border-ink bg-white px-4 text-sm font-semibold text-ink md:hidden"
-      >
-        <SlidersHorizontal size={16} aria-hidden="true" />
-        Filtri{filtriAttivi > 0 ? ` (${filtriAttivi})` : ''}
-      </button>
+  const gruppi = raggruppaPerContinente(filtrati, ({ viaggio }) => getContinente(viaggio.categorie))
 
-      <div id="filtri-viaggi" className={`${filtriAperti ? 'mt-4 block' : 'hidden'} md:mt-0 md:block`}>
+  return (
+    <div ref={inizio} className="scroll-mt-4">
+      <div id="filtri-viaggi" className={`${filtriAperti ? 'mb-4 block' : 'hidden'} md:mb-0 md:block`}>
       <div className="flex flex-wrap items-center gap-3">
         <label className="flex items-center gap-2 text-sm text-stone">
           Continente
@@ -209,15 +200,45 @@ export function TripFilters({ viaggi }: { viaggi: ViaggioScheda[] }) {
       </div>
       </div>
 
-      <p className="mt-4 text-sm text-stone/85">
-        {filtrati.length} {filtrati.length === 1 ? 'viaggio trovato' : 'viaggi trovati'}
-      </p>
+      {/* Barra che resta in alto mentre si scorre: filtri (sul telefono), quanti viaggi e
+          salto diretto a un continente. L'archivio sul telefono è lungo decine di schermate. */}
+      <div className="sticky top-0 z-30 -mx-6 mt-4 flex items-center gap-3 overflow-x-auto border-b border-ink/15 bg-cream/95 px-6 py-2.5 backdrop-blur sm:-mx-8 sm:px-8 [scrollbar-width:none]">
+        <button
+          type="button"
+          aria-expanded={filtriAperti}
+          aria-controls="filtri-viaggi"
+          onClick={() => {
+            setFiltriAperti((a) => !a)
+            inizio.current?.scrollIntoView({ behavior: 'smooth' })
+          }}
+          className="inline-flex min-h-10 shrink-0 items-center gap-2 border-2 border-ink bg-white px-3 text-sm font-semibold text-ink md:hidden"
+        >
+          <SlidersHorizontal size={16} aria-hidden="true" />
+          Filtri{filtriAttivi > 0 ? ` (${filtriAttivi})` : ''}
+        </button>
+        <p className="shrink-0 text-sm text-stone/85" aria-live="polite">
+          {filtrati.length} {filtrati.length === 1 ? 'viaggio' : 'viaggi'}
+        </p>
+        {gruppi.length > 1 && (
+          <nav aria-label="Vai al continente" className="flex shrink-0 gap-1.5">
+            {gruppi.map(({ continente, items }) => (
+              <a
+                key={continente}
+                href={`#${slugify(continente)}`}
+                className="inline-flex min-h-10 items-center whitespace-nowrap border border-ink/20 px-3 text-sm font-medium text-ink hover:border-ink hover:bg-ink hover:text-cream"
+              >
+                {continente} <span className="ml-1.5 text-xs text-stone/85">{items.length}</span>
+              </a>
+            ))}
+          </nav>
+        )}
+      </div>
 
       {filtrati.length > 0 ? (
         <div className="mt-10 space-y-14">
-          {raggruppaPerContinente(filtrati, ({ viaggio }) => getContinente(viaggio.categorie)).map(
+          {gruppi.map(
             ({ continente, items }) => (
-              <div key={continente}>
+              <div key={continente} id={slugify(continente)} className="scroll-mt-20">
                 <div className="flex items-baseline gap-4 border-b border-alpine/15 pb-3">
                   <h2 className="font-display text-[clamp(1.6rem,2.4vw,2.1rem)] text-alpine">{continente}</h2>
                   <span className="text-xs font-semibold uppercase tracking-[0.18em] text-stone/85">

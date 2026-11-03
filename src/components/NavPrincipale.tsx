@@ -107,10 +107,12 @@ export function NavPrincipale({ gruppi }: { gruppi: GruppoMenu[] }) {
           aria-expanded={mobile}
           aria-controls="menu-mobile"
           onClick={() => setMobile((m) => !m)}
-          className="inline-flex min-h-11 items-center gap-2 whitespace-nowrap text-[0.95rem] font-semibold text-ink"
+          aria-label="Menu"
+          className="inline-flex min-h-11 min-w-11 items-center justify-center gap-2 whitespace-nowrap text-[0.95rem] font-semibold text-ink"
         >
           {mobile ? <X size={20} aria-hidden="true" /> : <Menu size={20} aria-hidden="true" />}
-          Menu
+          {/* sotto i 420 px resta solo l'icona: marchio, menu, cerca e cuore stanno così su una riga */}
+          <span aria-hidden="true" className="hidden min-[420px]:inline">Menu</span>
         </button>
         <nav
           id="menu-mobile"
