@@ -12,6 +12,7 @@ import { DestinationCard } from '@/components/DestinationCard'
 import { ExperienceCard } from '@/components/ExperienceCard'
 import { PracticalInfo } from '@/components/ui/PracticalInfo'
 import { CountrySheet } from '@/components/CountrySheet'
+import { FaqPaese } from '@/components/FaqPaese'
 import { MappaPaeseSezione } from '@/components/MappaPaeseSezione'
 import { JsonLd } from '@/components/JsonLd'
 import { breadcrumbJsonLd } from '@/lib/structured-data'
@@ -339,6 +340,8 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
           )}
         </Container>
       </section>
+
+      <FaqPaese paese={paese} />
     </>
   )
 }
