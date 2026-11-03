@@ -1,11 +1,12 @@
 import type { Metadata } from 'next'
+import Link from '@/components/ui/Link'
 import { Filigrana } from '@/components/Filigrana'
 import { SalvaBottone } from '@/components/SalvaBottone'
 import { FirmaAutore } from '@/components/FirmaAutore'
 import { PrenotaQui } from '@/components/OrganizzaViaggio'
 import { link } from '@/lib/affiliazioni'
 import { notFound } from 'next/navigation'
-import { Camera, BedDouble, Bus, CalendarDays, Clock, Compass, Eye, Footprints, MapPin, Moon, Plane, Sparkles, Utensils, Wallet } from 'lucide-react'
+import { ArrowRight, Camera, BedDouble, Bus, CalendarDays, Clock, Compass, Eye, Footprints, MapPin, Moon, Plane, Sparkles, Utensils, Wallet } from 'lucide-react'
 import { Container } from '@/components/ui/Container'
 import { PageHeader } from '@/components/ui/PageHeader'
 import { Rich } from '@/components/ui/Rich'
@@ -147,6 +148,9 @@ export async function generateStaticParams() {
   return getAllDestinazioni(lingua).map((d) => ({ paese: d.paeseSlug, slug: d.slug }))
 }
 
+/** Schede che fanno parte della sezione Amazzonia. */
+const AMAZZONIA_SLUG = new Set(['peru/amazzonia-peruviana', 'brasile/amazzonia-manaus', 'bolivia/rurrenabaque-madidi'])
+
 export async function generateMetadata({
   params,
 }: {
@@ -274,6 +278,23 @@ export default async function DestinazionePage({
 
       <section className="py-14 sm:py-20">
         <Container className="space-y-14">
+          {AMAZZONIA_SLUG.has(`${paeseSlug}/${destinazione.slug}`) && (
+            // le schede amazzoniche rimandano alla sezione che le confronta tutte e alla traversata in barca
+            <Link
+              href="/amazzonia"
+              className="group flex items-center justify-between gap-4 border-2 border-ink bg-alpine p-5 text-cream transition-colors hover:bg-ink sm:p-6"
+            >
+              <span>
+                <span className="block text-[11px] font-semibold uppercase tracking-[0.18em] text-cream/70">
+                  {{ it: 'Amazzonia', en: 'Amazon', es: 'Amazonía' }[lingua]}
+                </span>
+                <span className="mt-1 block font-display text-xl">
+                  {{ it: 'Tutte le porte a confronto e la traversata in barca lenta', en: 'Every gateway compared, and the slow-boat crossing', es: 'Todas las puertas comparadas y la travesía en barco lento' }[lingua]}
+                </span>
+              </span>
+              <ArrowRight size={20} aria-hidden className="shrink-0 transition-transform group-hover:translate-x-1" />
+            </Link>
+          )}
           <div className="max-w-3xl">
             <TitoloSezione icona={Compass}>{t.perche}</TitoloSezione>
             <p className="mt-4 text-lg leading-relaxed text-stone">{richNodes(destinazione.percheAndarci)}</p>

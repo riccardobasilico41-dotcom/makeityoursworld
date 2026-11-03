@@ -50,6 +50,7 @@ export const SEGMENTI: Record<Lingua, Record<string, string>> = {
     cookie: 'cookies',
     'chi-sono': 'about',
     'come-lavoro': 'how-i-work',
+    amazzonia: 'amazon',
   },
   es: {
     viaggi: 'viajes',
@@ -65,5 +66,6 @@ export const SEGMENTI: Record<Lingua, Record<string, string>> = {
     cookie: 'cookies',
     'chi-sono': 'sobre-mi',
     'come-lavoro': 'como-trabajo',
+    amazzonia: 'amazonia',
   },
 }

@@ -74,6 +74,10 @@ export async function Header() {
     tutti: { nome: t.tuttiPaesi, href: '/destinazioni' },
   })).filter((g) => g.voci.length > 0)
 
+  // l'Amazzonia attraversa più Paesi: ha la sua pagina, in cima al Sud America
+  const sud = gruppi[AREE.findIndex((a) => a.nome === 'Sud America')]
+  sud?.voci.unshift({ nome: { it: 'Amazzonia', en: 'Amazon', es: 'Amazonía' }[lingua], href: '/amazzonia' })
+
   gruppi.push({
     nome: t.meraviglie,
     voci: getAllMeraviglie(lingua).map((m) => ({ nome: m.nome, href: `/meraviglie/${m.slug}` })),

@@ -19,6 +19,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { path: '/trasparenza', priority: 0.3, changeFrequency: 'yearly' as const },
     { path: '/lavoriamo-insieme', priority: 0.5, changeFrequency: 'monthly' as const },
     { path: '/chi-sono', priority: 0.6, changeFrequency: 'monthly' as const },
+    { path: '/amazzonia', priority: 0.8, changeFrequency: 'monthly' as const },
     { path: '/come-lavoro', priority: 0.5, changeFrequency: 'yearly' as const },
     ...getAllMeraviglie('it').map((m) => ({
       path: `/meraviglie/${m.slug}`,
