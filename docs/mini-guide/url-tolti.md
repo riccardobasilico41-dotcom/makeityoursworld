@@ -11,3 +11,7 @@
 - https://www.mont-saint-michel.monuments-nationaux.fr/ (errore: URLError)
 - https://www.sinac.go.cr/ (errore: URLError)
 - https://www.petronastwintowers.com.my/ (errore: URLError)
+- https://royalpalace.go.kr/ (errore: URLError)
+- https://www.bmy.com.cn/ (errore: URLError)
+- https://www.cha.go.kr/ (errore: URLError)
+- https://www.warmemo.or.kr/ (errore: URLError)
