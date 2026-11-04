@@ -355,12 +355,13 @@ export default async function DestinazionePage({
             </div>
           ))}
 
-          {(destinazione.doveMangiare || destinazione.doveDormire || destinazione.usciteSerali) && (
+          {/* con la mini guida, zone e sapori sostituiscono le due schede brevi */}
+          {((destinazione.doveMangiare && !destinazione.sapori?.length) || (destinazione.doveDormire && !destinazione.zone?.length) || destinazione.usciteSerali) && (
             <div>
               <TitoloSezione icona={MapPin}>{t.mangiare}</TitoloSezione>
               <div className="mt-5 grid gap-4 lg:grid-cols-2">
-                {destinazione.doveDormire && <SchedaTesto icona={BedDouble} titolo={t.dormire} testo={destinazione.doveDormire} />}
-                {destinazione.doveMangiare && <SchedaTesto icona={Utensils} titolo={t.mangiareDove} testo={destinazione.doveMangiare} />}
+                {destinazione.doveDormire && !destinazione.zone?.length && <SchedaTesto icona={BedDouble} titolo={t.dormire} testo={destinazione.doveDormire} />}
+                {destinazione.doveMangiare && !destinazione.sapori?.length && <SchedaTesto icona={Utensils} titolo={t.mangiareDove} testo={destinazione.doveMangiare} />}
                 {destinazione.usciteSerali && <SchedaTesto icona={Moon} titolo={t.dopoCena} testo={destinazione.usciteSerali} />}
               </div>
             </div>
