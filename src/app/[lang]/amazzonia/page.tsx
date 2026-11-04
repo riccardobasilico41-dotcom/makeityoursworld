@@ -73,6 +73,15 @@ export default async function AmazzoniaPage() {
         <Container className="space-y-12">
           <Ricordo testo={t.ricordo} />
 
+          <div className="max-w-3xl">
+            <TitoloSezione icona={Compass}>{t.citta.titolo}</TitoloSezione>
+            {t.citta.paragrafi.map((p) => (
+              <p key={p} className="mt-4 text-lg leading-relaxed text-stone">
+                {p}
+              </p>
+            ))}
+          </div>
+
           <div>
             <TitoloSezione icona={ShieldCheck}>{t.sicurezza.titolo}</TitoloSezione>
             <p className="mt-4 max-w-[70ch] text-lg leading-relaxed text-stone">{t.sicurezza.testo}</p>

@@ -16,6 +16,14 @@ export const en: ContenutoAmazzonia = {
   ],
   ricordo:
     "I did the Peruvian Amazon from Iquitos with Ruth Amazon Expedition: fantastic, off the beaten path and authentic. Sleeping in a tent in the middle of the forest isn't for everyone, though, and you should think it over carefully before leaving.",
+  citta: {
+    titolo: "Iquitos, the city",
+    paragrafi: [
+      "Iquitos is worth a few days on its own. It is the largest city in the world that can't be reached by road (and isn't on an island): you only get there by plane or by boat, and you can feel it. It has something mystical and at the same time a bit «sin ley», lawless: the rubber-boom mansions, motorcycle taxis everywhere, shamans and people offering ceremonies on every corner.",
+      "Belén market is a bit dodgy, but you can walk around on your own if you're careful: no valuables on show, phone in your pocket, and better in daylight. Either way, almost every place to stay in Iquitos offers organized tours, in town and into the forest.",
+      "I stayed in a hostel whose name I don't remember, and I wouldn't recommend it: I didn't have a good time there. Take your time choosing and read recent reviews.",
+    ],
+  },
   sicurezza: {
     titolo: 'Safety first, everything else after',
     testo:
@@ -23,7 +31,8 @@ export const en: ContenutoAmazzonia = {
     agenzie: [
       {
         nome: 'Ruth Amazon Expedition (Iquitos, Peru)',
-        testo: "This is the one I went with: expeditions from Iquitos, including camping in the Pacaya-Samiria reserve. It has no official website: you can find it on TripAdvisor and contact it from there.",
+        testo: "This is the one I went with: expeditions from Iquitos into the Pacaya-Samiria reserve, from one to ten days, with nights in farmers' houses and in tents in the primary forest. Programs and prices are on the website (for example 3 days for 1,000 soles, 4 days for 1,350 soles per person, November 2026).",
+        url: 'https://ruthamazonexpeditions.com/',
         fatta: true,
       },
       {
@@ -49,7 +58,7 @@ export const en: ContenutoAmazzonia = {
         perChi: 'For those who want the river as the star and a still-wild Amazon, even if it means sleeping in a tent.',
         comeArrivare: 'Only by plane from Lima or by going up the river: it is the largest city in the world with no roads connecting it.',
         giorni: '5-7 days to make it worthwhile',
-        costo: 'expeditions with local guides at low prices; river cruises cost much more',
+        costo: 'Pacaya-Samiria with Ruth from 1,000 soles for 3 days or 1,350 for 4 (all included except the hotel in town); river cruises cost much more',
       },
       {
         id: 'puerto-maldonado',

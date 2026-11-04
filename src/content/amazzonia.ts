@@ -34,6 +34,8 @@ export type ContenutoAmazzonia = {
   heroAlt: string
   inBreve: { label: string; value: string }[]
   ricordo: string
+  /** Due righe sulla città di partenza (Iquitos), dai ricordi di Rick. */
+  citta: { titolo: string; paragrafi: string[] }
   sicurezza: { titolo: string; testo: string; agenzie: { nome: string; testo: string; url?: string; fatta: boolean }[] }
   porte: { titolo: string; intro: string; voci: PortaAmazzonia[]; vediScheda: string }
   traversata: {
@@ -71,6 +73,14 @@ const it: ContenutoAmazzonia = {
   ],
   ricordo:
     "L'Amazzonia peruviana l'ho fatta da Iquitos con Ruth Amazon Expedition: fantastica, fuori dai percorsi battuti e autentica. Dormire in tenda in mezzo alla foresta però non è per tutti, e va valutato bene prima di partire.",
+  citta: {
+    titolo: "Iquitos, la città",
+    paragrafi: [
+      "Iquitos merita qualche giorno anche di suo. È la città più grande al mondo che non si raggiunge in strada (che non stia su un'isola): ci arrivi solo in aereo o in barca, e si sente. Ha qualcosa di mistico e insieme di un po' «sin ley», senza legge: i palazzi del boom del caucciù, i mototaxi ovunque, gli sciamani e chi offre cerimonie a ogni angolo.",
+      "Il mercato di Belén è un po' dodgy, ma si può girare in autonomia facendo attenzione: niente oggetti di valore in vista, il telefono in tasca, e meglio di giorno. In ogni caso quasi tutti gli alloggi di Iquitos offrono tour organizzati, in città e nella foresta.",
+      "Io avevo dormito in un ostello di cui non ricordo il nome, e che non consiglierei: non mi ci ero trovato bene. Scegli con calma, leggendo le recensioni recenti.",
+    ],
+  },
   sicurezza: {
     titolo: 'Prima la sicurezza, poi tutto il resto',
     testo:
@@ -78,7 +88,8 @@ const it: ContenutoAmazzonia = {
     agenzie: [
       {
         nome: 'Ruth Amazon Expedition (Iquitos, Perù)',
-        testo: "È quella con cui sono andato io: spedizioni da Iquitos, anche in tenda nella riserva Pacaya-Samiria. Non ha un sito ufficiale: la si trova su TripAdvisor e si contatta da lì.",
+        testo: "È quella con cui sono andato io: spedizioni da Iquitos verso la riserva Pacaya-Samiria, da un giorno a dieci, con notti nelle case dei contadini e in tenda nella foresta primaria. Sul sito ci sono programmi e prezzi (per esempio 3 giorni a 1.000 soles, 4 giorni a 1.350 soles a persona, novembre 2026).",
+        url: 'https://ruthamazonexpeditions.com/',
         fatta: true,
       },
       {
@@ -104,7 +115,7 @@ const it: ContenutoAmazzonia = {
         perChi: "Chi vuole il fiume come protagonista e un'Amazzonia ancora selvaggia, anche dormendo in tenda.",
         comeArrivare: 'Solo in aereo da Lima o risalendo il fiume: è la città più grande al mondo senza strade che la colleghino.',
         giorni: '5-7 giorni per avere senso',
-        costo: 'spedizioni con guide locali dai prezzi contenuti; le crociere fluviali costano molto di più',
+        costo: 'Pacaya-Samiria con Ruth da 1.000 soles per 3 giorni o 1.350 per 4 (tutto incluso tranne l’hotel in città); le crociere fluviali costano molto di più',
       },
       {
         id: 'puerto-maldonado',

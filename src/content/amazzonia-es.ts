@@ -15,6 +15,14 @@ export const es: ContenutoAmazzonia = {
   ],
   ricordo:
     'La Amazonia peruana la hice desde Iquitos con Ruth Amazon Expedition: fantástica, fuera de los circuitos trillados y auténtica. Dormir en tienda de campaña en medio de la selva, sin embargo, no es para todos, y conviene valorarlo bien antes de partir.',
+  citta: {
+    titolo: "Iquitos, la ciudad",
+    paragrafi: [
+      "Iquitos merece unos días por sí sola. Es la ciudad más grande del mundo a la que no se llega por carretera (sin estar en una isla): solo se llega en avión o en barco, y se nota. Tiene algo de místico y a la vez de un poco «sin ley»: los palacetes del boom del caucho, mototaxis por todas partes, chamanes y gente que ofrece ceremonias en cada esquina.",
+      "El mercado de Belén es un poco turbio, pero se puede recorrer por libre con cuidado: nada de valor a la vista, el móvil en el bolsillo, y mejor de día. De todas formas, casi todos los alojamientos de Iquitos ofrecen tours organizados, en la ciudad y en la selva.",
+      "Yo dormí en un hostal cuyo nombre no recuerdo y que no recomendaría: no estuve a gusto. Elige con calma y lee reseñas recientes.",
+    ],
+  },
   sicurezza: {
     titolo: 'Primero la seguridad, después todo lo demás',
     testo:
@@ -22,7 +30,8 @@ export const es: ContenutoAmazzonia = {
     agenzie: [
       {
         nome: 'Ruth Amazon Expedition (Iquitos, Perú)',
-        testo: 'Es con la que fui yo: expediciones desde Iquitos, también en tienda de campaña en la reserva de Pacaya-Samiria. No tiene sitio web oficial: se encuentra en TripAdvisor y se contacta desde allí.',
+        testo: 'Es con la que fui yo: expediciones desde Iquitos a la reserva de Pacaya-Samiria, de uno a diez días, con noches en casas campesinas y en tienda de campaña en la selva primaria. En la web están los programas y los precios (por ejemplo 3 días por 1.000 soles, 4 días por 1.350 soles por persona, noviembre de 2026).',
+        url: 'https://ruthamazonexpeditions.com/',
         fatta: true,
       },
       {
@@ -48,7 +57,7 @@ export const es: ContenutoAmazzonia = {
         perChi: 'Quien quiere el río como protagonista y una Amazonia todavía salvaje, aunque tenga que dormir en tienda de campaña.',
         comeArrivare: 'Solo en avión desde Lima o remontando el río: es la ciudad más grande del mundo sin carreteras que la conecten.',
         giorni: '5-7 días para que tenga sentido',
-        costo: 'expediciones con guías locales a precios contenidos; los cruceros fluviales cuestan mucho más',
+        costo: 'Pacaya-Samiria con Ruth desde 1.000 soles por 3 días o 1.350 por 4 (todo incluido salvo el hotel en la ciudad); los cruceros fluviales cuestan mucho más',
       },
       {
         id: 'puerto-maldonado',
