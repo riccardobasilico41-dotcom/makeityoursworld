@@ -197,12 +197,21 @@ export async function MappaPaeseSezione({
   const ne = punti.length - nd
 
   const atlante = leggiAtlante(paeseSlug)
-  // tappe del viaggio principale nell'ordine del percorso, solo quelle con una destinazione sulla mappa
+  // percorso vero del viaggio principale: le destinazioni dei giorni in ordine (con i rientri a Lima),
+  // senza ripetere giorni consecutivi nello stesso posto; le tappe sono numerate alla prima comparsa
   const tappe: TappaPercorso[] = []
+  const percorso: { x: number; y: number }[] = []
   if (atlante) {
-    for (const tp of getTripMeta(ATLANTE[paeseSlug].viaggio, lingua)?.tappeMappa ?? []) {
-      const p = tp.destinazioneSlug && punti.find((q) => q.id === `d:${tp.destinazioneSlug}`)
-      if (p && !tappe.some((q) => q.id === p.id)) tappe.push({ id: p.id, n: tappe.length + 1, x: p.x, y: p.y })
+    const meta = getTripMeta(ATLANTE[paeseSlug].viaggio, lingua)
+    const sequenza = (meta?.giorni ?? []).map((g) => g.destinazioneSlug).filter((s): s is string => !!s)
+    const slugs = sequenza.length > 1 ? sequenza : (meta?.tappeMappa ?? []).map((t) => t.destinazioneSlug).filter((s): s is string => !!s)
+    let ultimo = ''
+    for (const slug of slugs) {
+      const p = punti.find((q) => q.id === `d:${slug}`)
+      if (!p || p.id === ultimo) continue
+      ultimo = p.id
+      percorso.push({ x: p.x, y: p.y })
+      if (!tappe.some((q) => q.id === p.id)) tappe.push({ id: p.id, n: tappe.length + 1, x: p.x, y: p.y })
     }
   }
 
@@ -221,6 +230,7 @@ export async function MappaPaeseSezione({
             atlante={atlante}
             punti={punti}
             tappe={tappe}
+            percorso={percorso}
             proiezione={{ y0: file.proiezione.y0, s: file.proiezione.s, oy: file.proiezione.oy }}
           />
         ) : (

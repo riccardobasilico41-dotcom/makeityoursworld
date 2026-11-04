@@ -7,7 +7,8 @@
 // <dir> deve contenere (Natural Earth, pubblico dominio):
 //   ne_50m_admin_0_countries.geojson, ne_10m_rivers_lake_centerlines.geojson,
 //   ne_50m_lakes.geojson  (github.com/nvkelso/natural-earth-vector, cartella geojson)
-//   SR_50M.tif            (naciscdn.org/naturalearth/50m/raster/SR_50M.zip, 1:50m shaded relief)
+//   dem.asc               SRTM30_PLUS 30" in Esri ASCII, da NOAA ERDDAP:
+//     https://coastwatch.pfeg.noaa.gov/erddap/griddap/srtm30plus.esriAscii?z[(-19.0):1:(0.6)][(277.0):1:(293.0)]
 // Usa la stessa proiezione di src/content/mappe/peru.json, così tutto combacia col contorno.
 import fs from 'node:fs'
 import path from 'node:path'
@@ -176,67 +177,105 @@ const etichette = ETICHETTE.map((e) => {
   return { ...e, at: undefined, x: +x.toFixed(1), y: +y.toFixed(1) }
 }).map(({ at, ...e }) => e)
 
-// ── Rilievo ombreggiato: riproiettato in Mercatore sul viewBox della mappa ──
-const OUT_W = 760, OUT_H = Math.round((OUT_W * H) / W)
-const tif = path.join(DATI, 'SR_50M.tif')
-const meta = await sharp(tif, { limitInputPixels: false }).metadata()
-const passo = 360 / meta.width // gradi per pixel (equirettangolare, -180..180 / 90..-90)
-const lngA = lng0 - ox / s, lngB = lng0 + (W - ox) / s
-const latN = mercLat(y0 + oy / s), latS = mercLat(y0 - (H - oy) / s)
-const c0 = Math.max(0, Math.floor((lngA + 180) / passo) - 2), c1 = Math.min(meta.width - 1, Math.ceil((lngB + 180) / passo) + 2)
-const r0 = Math.max(0, Math.floor((90 - latN) / passo) - 2), r1 = Math.min(meta.height - 1, Math.ceil((90 - latS) / passo) + 2)
-const cw = c1 - c0 + 1, ch = r1 - r0 + 1
-const src = await sharp(tif, { limitInputPixels: false })
-  .extract({ left: c0, top: r0, width: cw, height: ch })
-  .extractChannel(0)
-  .raw()
-  .toBuffer()
-const campiona = (fx, fy) => {
-  const x0 = Math.max(0, Math.min(cw - 2, Math.floor(fx))), y0_ = Math.max(0, Math.min(ch - 2, Math.floor(fy)))
+// ── Rilievo + tinta altimetrica da DEM, riproiettati in Mercatore sul viewBox della mappa ──
+// dem.asc = SRTM30_PLUS (30", ~1 km) in Esri ASCII grid, ritagliato su NOAA ERDDAP (griddap srtm30plus)
+const testo = fs.readFileSync(path.join(DATI, 'dem.asc'), 'utf8')
+const righe = testo.split('\n')
+const hdr = {}
+let ri = 0
+for (; ri < 6; ri++) { const [k, v] = righe[ri].trim().split(/\s+/); hdr[k.toLowerCase()] = +v }
+const NC = hdr.ncols, NR = hdr.nrows, CELL = hdr.cellsize
+const LAT_TOP = hdr.yllcenter + (NR - 1) * CELL, LNG_0 = hdr.xllcenter
+const dem = new Float32Array(NC * NR)
+for (let r = 0; r < NR; r++) {
+  const v = righe[ri + r].trim().split(/\s+/)
+  for (let c = 0; c < NC; c++) { const z = +v[c]; dem[r * NC + c] = z === hdr.nodata_value ? 0 : z }
+}
+// ombreggiatura (Horn), luce da nord-ovest più un filo da ovest: morbida, da incisione
+const ombra = new Float32Array(NC * NR)
+const zen = (45 * Math.PI) / 180
+const luci = [[315, 0.65], [270, 0.2], [0, 0.15]]
+for (let r = 0; r < NR; r++) {
+  const lat = LAT_TOP - r * CELL
+  const dx = CELL * 111320 * Math.cos((lat * Math.PI) / 180), dy = CELL * 110540
+  for (let c = 0; c < NC; c++) {
+    const g = (rr, cc) => dem[Math.min(NR - 1, Math.max(0, rr)) * NC + Math.min(NC - 1, Math.max(0, cc))]
+    const a = g(r - 1, c - 1), b = g(r - 1, c), cc_ = g(r - 1, c + 1), d = g(r, c - 1), f = g(r, c + 1), gg = g(r + 1, c - 1), h = g(r + 1, c), ii = g(r + 1, c + 1)
+    const dzdx = (cc_ + 2 * f + ii - (a + 2 * d + gg)) / (8 * dx)
+    const dzdy = (gg + 2 * h + ii - (a + 2 * b + cc_)) / (8 * dy)
+    const slope = Math.atan(1.6 * Math.hypot(dzdx, dzdy))
+    const aspect = Math.atan2(dzdy, -dzdx)
+    let s = 0
+    for (const [az, w] of luci) {
+      const azR = ((360 - az + 90) % 360) * (Math.PI / 180)
+      s += w * Math.max(0, Math.cos(zen) * Math.cos(slope) + Math.sin(zen) * Math.sin(slope) * Math.cos(azR - aspect))
+    }
+    ombra[r * NC + c] = s
+  }
+}
+// tinta altimetrica ad acquerello: verdi tenui in basso, ocra e terra di Siena sulle Ande, bianco sulle vette
+const TINTE = [
+  [0, [196, 211, 167]], [150, [202, 215, 171]], [400, [214, 220, 177]], [800, [227, 224, 183]],
+  [1500, [233, 215, 167]], [2500, [222, 191, 139]], [3300, [208, 162, 114]], [4000, [198, 153, 116]],
+  [4700, [204, 168, 132]], [5200, [222, 205, 188]], [5700, [244, 240, 234]], [6400, [252, 250, 247]],
+]
+const tinta = (z) => {
+  if (z <= TINTE[0][0]) return TINTE[0][1]
+  for (let k = 1; k < TINTE.length; k++) {
+    if (z <= TINTE[k][0]) {
+      const [z0, c0] = TINTE[k - 1], [z1, c1] = TINTE[k]
+      const t = (z - z0) / (z1 - z0)
+      return c0.map((v, j) => v + (c1[j] - v) * t)
+    }
+  }
+  return TINTE[TINTE.length - 1][1]
+}
+const bil = (arr, fx, fy) => {
+  const x0 = Math.max(0, Math.min(NC - 2, Math.floor(fx))), y0_ = Math.max(0, Math.min(NR - 2, Math.floor(fy)))
   const tx = Math.min(1, Math.max(0, fx - x0)), ty = Math.min(1, Math.max(0, fy - y0_))
-  const a = src[y0_ * cw + x0], b = src[y0_ * cw + x0 + 1], c = src[(y0_ + 1) * cw + x0], d = src[(y0_ + 1) * cw + x0 + 1]
-  return (a * (1 - tx) + b * tx) * (1 - ty) + (c * (1 - tx) + d * tx) * ty
+  const i0 = y0_ * NC + x0
+  return (arr[i0] * (1 - tx) + arr[i0 + 1] * tx) * (1 - ty) + (arr[i0 + NC] * (1 - tx) + arr[i0 + NC + 1] * tx) * ty
 }
-const grezzo = new Float32Array(OUT_W * OUT_H)
-for (let py = 0; py < OUT_H; py++) {
-  const vy = ((py + 0.5) / OUT_H) * H
-  const lat = mercLat(y0 - (vy - oy) / s)
-  const fy = (90 - lat) / passo - 0.5 - r0
-  for (let pxx = 0; pxx < OUT_W; pxx++) {
-    const vx = ((pxx + 0.5) / OUT_W) * W
-    const lng = lng0 + (vx - ox) / s
-    grezzo[py * OUT_W + pxx] = campiona((lng + 180) / passo - 0.5 - c0, fy)
+const CARTA = [244, 238, 227]
+const PIANO = Math.cos(zen) // ombreggiatura di una pianura
+
+async function rilievo(outW, nome, qualita) {
+  const outH = Math.round((outW * H) / W)
+  // maschera del Paese (fuori dal Perù colore piatto: comprime meglio, tanto è ritagliato nell'SVG)
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${outW}" height="${outH}" viewBox="0 0 ${W} ${H}"><rect width="${W}" height="${H}"/><path d="${base.path}" fill="#fff" stroke="#fff" stroke-width="6"/></svg>`
+  const maschera = await sharp(Buffer.from(svg)).extractChannel(0).raw().toBuffer()
+  const rgb = Buffer.alloc(outW * outH * 3)
+  for (let py = 0; py < outH; py++) {
+    const lat = mercLat(y0 - (((py + 0.5) / outH) * H - oy) / s)
+    const fy = (LAT_TOP - lat) / CELL
+    for (let px = 0; px < outW; px++) {
+      const k = py * outW + px
+      const m = maschera[k] / 255
+      let col = CARTA
+      if (m > 0) {
+        const lng = lng0 + (((px + 0.5) / outW) * W - ox) / s
+        const fx = (lng - LNG_0) / CELL
+        const z = bil(dem, fx, fy), sh = bil(ombra, fx, fy)
+        const f = Math.min(1.12, Math.max(0.42, 1 + (sh - PIANO) * 1.15))
+        const c = tinta(z).map((v) => Math.min(255, v * f))
+        // un velo di carta sopra, come un acquerello leggero
+        col = c.map((v, j) => (v * 0.88 + CARTA[j] * 0.12) * m + CARTA[j] * (1 - m))
+      }
+      rgb[k * 3] = col[0]; rgb[k * 3 + 1] = col[1]; rgb[k * 3 + 2] = col[2]
+    }
   }
+  const file = path.join(ROOT, 'public/images/mappe', nome)
+  fs.mkdirSync(path.dirname(file), { recursive: true })
+  await sharp(rgb, { raw: { width: outW, height: outH, channels: 3 } }).webp({ quality: qualita, effort: 6, smartSubsample: true }).toFile(file)
+  return fs.statSync(file).size
 }
-// il valore della pianura (moda) diventa carta; le ombre virano in seppia, le luci un filo più chiare
-const isto = new Uint32Array(256)
-for (const v of grezzo) isto[Math.round(v)]++
-let moda = 0
-for (let k = 1; k < 256; k++) if (isto[k] > isto[moda]) moda = k
-const CARTA = [244, 238, 227], SEPPIA = [92, 74, 56], LUCE = [251, 248, 240]
-const rgb = Buffer.alloc(OUT_W * OUT_H * 3)
-for (let k = 0; k < grezzo.length; k++) {
-  const v = grezzo[k]
-  let col
-  if (v <= moda) {
-    const t = Math.pow(Math.min(1, (moda - v) / (moda * 0.75)), 0.85)
-    col = CARTA.map((c, j) => c + (SEPPIA[j] - c) * t)
-  } else {
-    const t = Math.min(1, (v - moda) / (255 - moda)) * 0.8
-    col = CARTA.map((c, j) => c + (LUCE[j] - c) * t)
-  }
-  rgb[k * 3] = col[0]; rgb[k * 3 + 1] = col[1]; rgb[k * 3 + 2] = col[2]
-}
-const outImg = path.join(ROOT, 'public/images/mappe/peru-rilievo.webp')
-fs.mkdirSync(path.dirname(outImg), { recursive: true })
-await sharp(rgb, { raw: { width: OUT_W, height: OUT_H, channels: 3 } })
-  .sharpen({ sigma: 0.8 })
-  .webp({ quality: 72, effort: 6 })
-  .toFile(outImg)
+const pesoBase = await rilievo(900, 'peru-rilievo.webp', 80)
+const pesoHd = await rilievo(1900, 'peru-rilievo-hd.webp', 80)
+
 
 const out = {
-  fonte: 'Natural Earth 1:50m (Paesi, laghi, rilievo SR_50M) e 1:10m (fiumi), pubblico dominio',
-  rilievo: { src: '/images/mappe/peru-rilievo.webp', x: 0, y: 0, w: W, h: H },
+  fonte: 'Natural Earth 1:50m (Paesi, laghi) e 1:10m (fiumi), pubblico dominio; rilievo e tinta altimetrica da SRTM30_PLUS (Becker et al., UCSD/NOAA)',
+  rilievo: { src: '/images/mappe/peru-rilievo.webp', srcHd: '/images/mappe/peru-rilievo-hd.webp', x: 0, y: 0, w: W, h: H },
   vicini,
   fiumi: [...fiumi.values()],
   laghi,
@@ -244,6 +283,6 @@ const out = {
 }
 const outJson = path.join(ROOT, 'src/content/mappe/peru-atlante.json')
 fs.writeFileSync(outJson, JSON.stringify(out))
-console.log('json', fs.statSync(outJson).size, 'byte · webp', fs.statSync(outImg).size, 'byte · moda rilievo', moda)
+console.log('json', fs.statSync(outJson).size, 'byte · webp', pesoBase, '+ hd', pesoHd, 'byte')
 console.log('vicini', vicini.map((v) => `${v.id}:${v.path.length}`).join(' '))
 console.log('fiumi', [...fiumi.values()].map((v) => `${v.id}:${v.path.length}`).join(' '))

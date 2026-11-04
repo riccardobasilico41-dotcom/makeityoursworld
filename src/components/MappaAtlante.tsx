@@ -17,7 +17,7 @@ import type { DatiMappa, PuntoMappa } from './MappaPaese'
 
 export type DatiAtlante = {
   fonte: string
-  rilievo: { src: string; x: number; y: number; w: number; h: number }
+  rilievo: { src: string; srcHd?: string; x: number; y: number; w: number; h: number }
   vicini: { id: string; path: string }[]
   fiumi: { id: string; peso: number; path: string }[]
   laghi: { id: string; path: string }[]
@@ -50,7 +50,7 @@ const T = {
     esperienza: 'Esperienza',
     luoghiVicini: 'Luoghi vicini',
     percorso: 'Percorso, in ordine di tappa',
-    fonti: 'Contorni, fiumi e rilievo: Natural Earth. Luoghi:',
+    fonti: 'Contorni e fiumi: Natural Earth. Rilievo: SRTM30_PLUS (UCSD/NOAA). Luoghi:',
     contributors: 'contributors.',
     apriDestinazione: 'Apri la destinazione',
     apriEsperienza: "Apri l'esperienza",
@@ -78,7 +78,7 @@ const T = {
     esperienza: 'Experience',
     luoghiVicini: 'Places close together',
     percorso: 'Route, stop by stop',
-    fonti: 'Outlines, rivers and relief: Natural Earth. Places:',
+    fonti: 'Outlines and rivers: Natural Earth. Relief: SRTM30_PLUS (UCSD/NOAA). Places:',
     contributors: 'contributors.',
     apriDestinazione: 'Open the destination',
     apriEsperienza: 'Open the experience',
@@ -106,7 +106,7 @@ const T = {
     esperienza: 'Experiencia',
     luoghiVicini: 'Lugares cercanos',
     percorso: 'Ruta, etapa por etapa',
-    fonti: 'Contornos, ríos y relieve: Natural Earth. Lugares:',
+    fonti: 'Contornos y ríos: Natural Earth. Relieve: SRTM30_PLUS (UCSD/NOAA). Lugares:',
     contributors: 'contributors.',
     apriDestinazione: 'Abrir el destino',
     apriEsperienza: 'Abrir la experiencia',
@@ -129,14 +129,26 @@ const mercLat = (y: number) => (Math.atan(Math.exp((y * Math.PI) / 180)) * 360) 
 const sovrapposti = (p: Box, q: Box) => !(p[2] < q[0] || p[0] > q[2] || p[3] < q[1] || p[1] > q[3])
 
 // carta, inchiostro e acque «da stampa»
-const MARE = '#ebe5d7'
-const VICINO = '#dedad2'
-const BORDO_VICINO = '#aaa497'
-const ACQUA = '#557286'
-const RIGA = '#b9b3a4'
-const GRIGLIA = '#b8b09f'
+// acquerello: mare azzurro velato, più carico lungo le coste; Paesi vicini con una velatura ciascuno
+const MARE = '#dce8ea'
+const MARE_COSTA = '#cfe0e4'
+const ONDE = '#7d9eab'
+const ACQUA = '#3c6d8c' // fiumi e contorno dei laghi
+const SCRITTA_ACQUA = '#2c5873' // ≥ 4.5:1 sull'alone panna
+const RIGA = '#93b2bc'
+const GRIGLIA = '#a9a08c'
+const BORDO_VICINO = '#9e9789'
+const VELATURE: Record<string, [string, string]> = {
+  // [velatura, bordo più carico all'interno del confine]
+  ecuador: ['#f0dedb', '#e3bdb6'],
+  colombia: ['#f1e8c9', '#e2cf92'],
+  brasile: ['#e6e0ec', '#c9bcd8'],
+  bolivia: ['#f2e1cc', '#e3c39b'],
+  cile: ['#eedbe2', '#dcb6c3'],
+}
+const VELATURA_BASE: [string, string] = ['#e6e2da', '#cfc8ba']
 const DX = 16 // distanza dell'etichetta dal centro del pin, px
-const R_GRUPPO = 32 // sotto questa distanza (px) i luoghi si raggruppano
+const R_GRUPPO = 38 // sotto questa distanza (px) i luoghi si raggruppano
 
 /** Unità di posizione: punti nello stesso posto (esperienza = sua destinazione) stanno insieme. */
 type Luogo = { x: number; y: number; punti: PuntoMappa[]; prio: number }
@@ -148,6 +160,7 @@ export function MappaAtlante({
   atlante,
   punti,
   tappe,
+  percorso: sequenza,
   proiezione,
 }: {
   nomePaese: string
@@ -155,6 +168,8 @@ export function MappaAtlante({
   atlante: DatiAtlante
   punti: PuntoMappa[]
   tappe: TappaPercorso[]
+  /** il viaggio nell'ordine vero dei giorni (le destinazioni possono ripetersi, es. i rientri a Lima) */
+  percorso: { x: number; y: number }[]
   proiezione: { y0: number; s: number; oy: number }
 }) {
   const lingua = useLingua()
@@ -173,6 +188,8 @@ export function MappaAtlante({
   const [kVista, setKVista] = useState<number | null>(null)
   /** percorso: 'ssr' = già disegnato (niente JS / movimento ridotto), poi 'attesa' → 'visto' */
   const [fase, setFase] = useState<'ssr' | 'attesa' | 'visto'>('ssr')
+  /** il rilievo dettagliato si carica solo dopo il primo zoom */
+  const [dettaglio, setDettaglio] = useState(false)
 
   const sel = punti.find((p) => p.id === selId) ?? null
   const visibile = useCallback((p: PuntoMappa) => filtro === 'tutto' || p.tipo === filtro, [filtro])
@@ -223,19 +240,30 @@ export function MappaAtlante({
     return out
   }, [luoghi, kVista, selId, visibile])
 
-  // percorso: archi morbidi tra una tappa e la successiva
-  const percorso = useMemo(() => {
-    if (tappe.length < 2) return ''
-    let d = `M${tappe[0].x.toFixed(1)} ${tappe[0].y.toFixed(1)}`
-    for (let i = 1; i < tappe.length; i++) {
-      const a = tappe[i - 1], b = tappe[i]
+  // percorso: ogni tratto è un arco morbido che piega sempre alla destra del verso di marcia,
+  // così andata e ritorno sulla stessa tratta (Lima ⇄ Amazzonia) restano due archi distinti;
+  // a metà di ogni arco una freccia nel verso del viaggio
+  const { percorso, frecce } = useMemo(() => {
+    const pts = sequenza.length > 1 ? sequenza : tappe
+    if (pts.length < 2) return { percorso: '', frecce: [] as { x: number; y: number; a: number; len: number }[] }
+    let d = `M${pts[0].x.toFixed(1)} ${pts[0].y.toFixed(1)}`
+    const frecce: { x: number; y: number; a: number; len: number }[] = []
+    for (let i = 1; i < pts.length; i++) {
+      const a = pts[i - 1], b = pts[i]
       const mx = (a.x + b.x) / 2, my = (a.y + b.y) / 2
       const dx = b.x - a.x, dy = b.y - a.y
-      const c = 0.16 * (i % 2 ? 1 : -1)
-      d += `Q${(mx - dy * c).toFixed(1)} ${(my + dx * c).toFixed(1)} ${b.x.toFixed(1)} ${b.y.toFixed(1)}`
+      const c = 0.2
+      const cx = mx - dy * c, cy = my + dx * c
+      d += `Q${cx.toFixed(1)} ${cy.toFixed(1)} ${b.x.toFixed(1)} ${b.y.toFixed(1)}`
+      frecce.push({
+        x: 0.25 * a.x + 0.5 * cx + 0.25 * b.x,
+        y: 0.25 * a.y + 0.5 * cy + 0.25 * b.y,
+        a: (Math.atan2(dy, dx) * 180) / Math.PI,
+        len: Math.hypot(dx, dy),
+      })
     }
-    return d
-  }, [tappe])
+    return { percorso: d, frecce }
+  }, [sequenza, tappe])
 
   /** Applica il viewBox; elementi a misura fissa sullo schermo; etichette senza sovrapposizioni; scala. */
   const applica = useCallback(() => {
@@ -259,6 +287,11 @@ export function MappaAtlante({
       const sx = pxX(x), sy = pxY(y)
       if (g.dataset.statica !== undefined) {
         statiche.push({ g, sx, sy })
+        continue
+      }
+      if (g.dataset.len !== undefined) {
+        // frecce del percorso: solo sui tratti abbastanza lunghi sullo schermo
+        g.style.display = +g.dataset.len / k > 64 ? '' : 'none'
         continue
       }
       const raggio = +(g.dataset.raggio ?? 0)
@@ -293,12 +326,16 @@ export function MappaAtlante({
       const h = 12
       const raggio = +(g.dataset.raggio ?? 0)
       const proprio = ostacoli.find((q) => q[0] === sx - raggio && q[1] === sy - raggio)
-      const cand = [
-        { box: [sx + DX - 3, sy - h / 2, sx + DX + w, sy + h / 2] as Box, x: DX, y: 4, a: 'start' },
-        { box: [sx - DX - w, sy - h / 2, sx - DX + 3, sy + h / 2] as Box, x: -DX, y: 4, a: 'end' },
-        { box: [sx - w / 2, sy - DX - h, sx + w / 2, sy - DX + 1] as Box, x: 0, y: -DX - 2, a: 'middle' },
-        { box: [sx - w / 2, sy + DX - 1, sx + w / 2, sy + DX + h] as Box, x: 0, y: DX + 9, a: 'middle' },
-      ]
+      const gruppo = g.dataset.gruppo !== undefined
+      const D = gruppo ? 21 : DX // i gruppi hanno l'anello più largo
+      // sopra e sotto: centrata, ma spostata quanto basta per restare dentro la mappa (senza staccarsi dal pin)
+      const sposta = Math.max(Math.min(0, r.width - 4 - (sx + w / 2)), Math.max(0, 4 - (sx - w / 2)))
+      const sp = Math.abs(sposta) <= w / 2 - 6 ? sposta : 0
+      const destra = { box: [sx + D - 3, sy - h / 2, sx + D + w, sy + h / 2] as Box, x: D, y: 4, a: 'start' }
+      const sinistra = { box: [sx - D - w, sy - h / 2, sx - D + 3, sy + h / 2] as Box, x: -D, y: 4, a: 'end' }
+      const sopra = { box: [sx + sp - w / 2, sy - D - h, sx + sp + w / 2, sy - D + 1] as Box, x: sp, y: -D - 2, a: 'middle' }
+      const sotto = { box: [sx + sp - w / 2, sy + D - 1, sx + sp + w / 2, sy + D + h] as Box, x: sp, y: D + 9, a: 'middle' }
+      const cand = gruppo ? [destra, sotto, sopra, sinistra] : [destra, sinistra, sopra, sotto]
       const dentro = sx > -20 && sx < r.width + 20 && sy > -20 && sy < r.height + 20
       let c = dentro ? cand.find((c) => libera(c.box, proprio)) : undefined
       if (!c && dentro && g.dataset.sel === '1') c = cand.find((c) => c.box[0] >= 2 && c.box[2] <= r.width - 2) ?? cand[0]
@@ -319,9 +356,9 @@ export function MappaAtlante({
       if (ok) presi.push(box)
     }
 
-    // il rilievo 1:50m da vicino si sgrana: sfuma man mano che si ingrandisce
-    const ril = svg.querySelector<SVGImageElement>('[data-rilievo]')
-    if (ril) ril.setAttribute('opacity', (0.35 + 0.6 * Math.min(1, Math.max(0, (k - 0.1) / 0.5))).toFixed(2))
+    // il rilievo (~1 km per pixel) da molto vicino si sgrana: sfuma un poco nelle ultime fasi dello zoom
+    const op = (0.62 + 0.36 * Math.min(1, Math.max(0, (k - 0.05) / 0.3))).toFixed(2)
+    svg.querySelectorAll<SVGImageElement>('[data-rilievo]').forEach((im) => im.setAttribute('opacity', op))
 
     // scala grafica alla latitudine del centro della vista
     const bar = scalaRef.current
@@ -338,6 +375,10 @@ export function MappaAtlante({
       if (meta) meta.textContent = String(km / 2)
     }
   }, [proiezione, t.kmScala])
+
+  useEffect(() => {
+    if (kVista !== null && kVista < 0.75 * (mappa.w / 1000)) setDettaglio(true)
+  }, [kVista, mappa.w])
 
   const kDi = useCallback((vb: VB) => {
     const r = svgRef.current?.getBoundingClientRect()
@@ -594,15 +635,20 @@ export function MappaAtlante({
               <defs>
                 {/* onde incise del mare: due file sfalsate di trattini ondulati */}
                 <pattern id={P('onde')} width={34} height={18} patternUnits="userSpaceOnUse">
-                  <g fill="none" stroke="#8d8676" strokeWidth={0.9} strokeLinecap="round" opacity={0.55}>
+                  <g fill="none" stroke={ONDE} strokeWidth={0.9} strokeLinecap="round" opacity={0.7}>
                     <path d="M2 5q3-2.6 6 0t6 0" />
                     <path d="M19 14q3-2.6 6 0t6 0" />
                   </g>
                 </pattern>
                 {/* tratteggio leggero dei Paesi vicini */}
                 <pattern id={P('tratteggio')} width={7} height={7} patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
-                  <path d="M0 0V7" stroke="#b5afa3" strokeWidth={0.8} />
+                  <path d="M0 0V7" stroke="#8f887a" strokeWidth={0.7} opacity={0.35} />
                 </pattern>
+                {atlante.vicini.map((v) => (
+                  <clipPath key={v.id} id={P(`c-${v.id}`)}>
+                    <path d={v.path} />
+                  </clipPath>
+                ))}
                 <clipPath id={P('paese')}>
                   <path d={mappa.path} />
                 </clipPath>
@@ -624,32 +670,45 @@ export function MappaAtlante({
                 </mask>
               </defs>
 
-              {/* mare */}
+              {/* mare: azzurro acquerello con le onde incise */}
+              <rect width={mappa.w} height={mappa.h} fill={MARE} />
               <rect width={mappa.w} height={mappa.h} fill={`url(#${P('onde')})`} />
-              {/* righe d'acqua lungo le coste (tratto largo coperto da uno più stretto color mare) */}
+              {/* lungo le coste l'acquerello si carica e le righe d'acqua coprono le onde */}
               <g fill="none" strokeLinejoin="round">
+                {[64, 40].map((w, i) => (
+                  <g key={w} opacity={i ? 1 : 0.7}>
+                    <path d={mappa.path} stroke={MARE_COSTA} strokeWidth={w} vectorEffect="non-scaling-stroke" />
+                    {atlante.vicini.map((v) => (
+                      <path key={v.id} d={v.path} stroke={MARE_COSTA} strokeWidth={w} vectorEffect="non-scaling-stroke" />
+                    ))}
+                  </g>
+                ))}
                 {[30, 20, 11].map((w) => (
                   <g key={w}>
                     <path d={mappa.path} stroke={RIGA} strokeWidth={w} vectorEffect="non-scaling-stroke" />
                     {atlante.vicini.map((v) => (
                       <path key={v.id} d={v.path} stroke={RIGA} strokeWidth={w} vectorEffect="non-scaling-stroke" />
                     ))}
-                    <path d={mappa.path} stroke={MARE} strokeWidth={w - 1.6} vectorEffect="non-scaling-stroke" />
+                    <path d={mappa.path} stroke={MARE_COSTA} strokeWidth={w - 1.6} vectorEffect="non-scaling-stroke" />
                     {atlante.vicini.map((v) => (
-                      <path key={v.id} d={v.path} stroke={MARE} strokeWidth={w - 1.6} vectorEffect="non-scaling-stroke" />
+                      <path key={v.id} d={v.path} stroke={MARE_COSTA} strokeWidth={w - 1.6} vectorEffect="non-scaling-stroke" />
                     ))}
                   </g>
                 ))}
               </g>
 
-              {/* Paesi vicini: grigio chiaro, tratteggio, bordo sottile */}
+              {/* Paesi vicini: una velatura tenue ciascuno, più carica lungo il confine (come i vecchi atlanti) */}
               <g>
-                {atlante.vicini.map((v) => (
-                  <g key={v.id}>
-                    <path d={v.path} fill={VICINO} stroke={VICINO} strokeWidth={2} vectorEffect="non-scaling-stroke" />
-                    <path d={v.path} fill={`url(#${P('tratteggio')})`} stroke={BORDO_VICINO} strokeWidth={0.9} strokeLinejoin="round" vectorEffect="non-scaling-stroke" />
-                  </g>
-                ))}
+                {atlante.vicini.map((v) => {
+                  const [velo, bordo] = VELATURE[v.id] ?? VELATURA_BASE
+                  return (
+                    <g key={v.id}>
+                      <path d={v.path} fill={velo} stroke={velo} strokeWidth={2} vectorEffect="non-scaling-stroke" />
+                      <path d={v.path} fill="none" stroke={bordo} strokeWidth={9} opacity={0.8} clipPath={`url(#${P(`c-${v.id}`)})`} vectorEffect="non-scaling-stroke" />
+                      <path d={v.path} fill={`url(#${P('tratteggio')})`} stroke={BORDO_VICINO} strokeWidth={0.9} strokeLinejoin="round" vectorEffect="non-scaling-stroke" />
+                    </g>
+                  )
+                })}
               </g>
 
               {/* il Paese: inchiostro sotto, carta, rilievo ritagliato sulla forma */}
@@ -664,13 +723,28 @@ export function MappaAtlante({
                 preserveAspectRatio="none"
                 clipPath={`url(#${P('paese')})`}
                 data-rilievo=""
-                opacity={0.95}
+                opacity={0.98}
               />
+              {dettaglio && atlante.rilievo.srcHd && (
+                <image
+                  href={atlante.rilievo.srcHd}
+                  x={atlante.rilievo.x}
+                  y={atlante.rilievo.y}
+                  width={atlante.rilievo.w}
+                  height={atlante.rilievo.h}
+                  preserveAspectRatio="none"
+                  clipPath={`url(#${P('paese')})`}
+                  data-rilievo=""
+                  opacity={0.98}
+                />
+              )}
+              {/* contorno a inchiostro anche sopra la tinta, sottile */}
+              <path d={mappa.path} fill="none" stroke="var(--color-ink)" strokeWidth={0.8} strokeLinejoin="round" opacity={0.7} vectorEffect="non-scaling-stroke" />
 
               {/* acque interne */}
               <g fill="none" strokeLinecap="round" strokeLinejoin="round">
                 {atlante.fiumi.map((f) => (
-                  <path key={f.id} d={f.path} stroke={ACQUA} strokeWidth={f.peso === 3 ? 2 : f.peso === 2 ? 1.4 : 0.9} opacity={0.85} vectorEffect="non-scaling-stroke" />
+                  <path key={f.id} d={f.path} stroke={ACQUA} strokeWidth={f.peso === 3 ? 2.1 : f.peso === 2 ? 1.5 : 1} opacity={0.9} vectorEffect="non-scaling-stroke" />
                 ))}
               </g>
               {atlante.laghi.map((l) => (
@@ -689,6 +763,11 @@ export function MappaAtlante({
                 <g mask={`url(#${P('traccia')})`}>
                   <path d={percorso} fill="none" stroke="var(--color-cream)" strokeWidth={5} strokeLinecap="round" strokeLinejoin="round" opacity={0.85} vectorEffect="non-scaling-stroke" />
                   <path d={percorso} fill="none" stroke="var(--color-rosso)" strokeWidth={2.2} strokeDasharray="7 5" strokeLinecap="round" vectorEffect="non-scaling-stroke" />
+                  {frecce.map((f, i) => (
+                    <g key={i} data-fisso="" data-x={f.x} data-y={f.y} data-len={f.len} transform={`translate(${f.x} ${f.y}) scale(${scala0})`} aria-hidden>
+                      <path d="M-4.5 -4 L4.5 0 L-4.5 4 L-2.6 0 Z" transform={`rotate(${f.a.toFixed(1)})`} fill="var(--color-rosso)" stroke="var(--color-cream)" strokeWidth={1} strokeLinejoin="round" />
+                    </g>
+                  ))}
                 </g>
               )}
 
@@ -704,13 +783,13 @@ export function MappaAtlante({
                         textAnchor="middle"
                         className={
                           e.tipo === 'mare'
-                            ? 'fill-stone font-display text-[11px] font-medium uppercase tracking-[0.42em]'
+                            ? 'font-display text-[11px] font-medium uppercase tracking-[0.42em]'
                             : acqua
                               ? 'font-sans text-[10px] italic tracking-[0.12em]'
                               : 'fill-stone font-display text-[10.5px] font-semibold uppercase tracking-[0.3em]'
                         }
-                        fill={acqua ? ACQUA : undefined}
-                        style={e.tipo === 'mare' ? undefined : { paintOrder: 'stroke', stroke: acqua ? 'var(--color-cream)' : VICINO, strokeWidth: 3, strokeLinejoin: 'round' }}
+                        fill={acqua || e.tipo === 'mare' ? SCRITTA_ACQUA : undefined}
+                        style={e.tipo === 'mare' ? undefined : { paintOrder: 'stroke', stroke: acqua ? 'var(--color-cream)' : (VELATURE[e.id] ?? VELATURA_BASE)[0], strokeWidth: 3, strokeLinejoin: 'round' }}
                       >
                         {righe.map((riga, i) => (
                           <tspan key={i} x={0} dy={i === 0 ? `${(-(righe.length - 1) * 0.65 + 0.35).toFixed(2)}em` : '1.3em'}>
@@ -736,6 +815,7 @@ export function MappaAtlante({
                     data-x={g.x}
                     data-y={g.y}
                     data-raggio={13}
+                    data-gruppo=""
                     data-prio={capo ? prio(capo) : 300}
                     data-sel="0"
                     transform={`translate(${g.x} ${g.y}) scale(${scala0})`}
