@@ -30,6 +30,39 @@ export const CONSIGLIATI: Record<string, Consigliato[]> = {
       },
     },
   ],
+  'india/jaipur': [
+    {
+      nome: 'Jaipur Heritage Palace',
+      cosa: { it: 'Hotel a Jaipur', en: 'Hotel in Jaipur', es: 'Hotel en Jaipur' },
+      fatto: true,
+      testo: {
+        it: 'Lo consigliamo tantissimo, clamoroso: costa poco e ha un servizio super attento, con una colazione esagerata nella sua struttura gemella, buonissima davvero.',
+        en: "We can't recommend it enough, it's amazing: it's cheap and the service is super attentive, with an over-the-top breakfast at its sister property, really delicious.",
+        es: 'Lo recomendamos muchísimo, una pasada: cuesta poco y tiene un servicio superatento, con un desayuno exagerado en su establecimiento hermano, buenísimo de verdad.',
+      },
+    },
+    {
+      nome: 'Jamavar (The Leela Palace Jaipur)',
+      cosa: { it: 'Ristorante indiano', en: 'Indian restaurant', es: 'Restaurante indio' },
+      url: 'https://www.theleela.com/the-leela-palace-jaipur/restaurants/jamavar',
+      fatto: true,
+      testo: {
+        it: 'Una cena da maharaja: costoso e con prenotazione con deposito, ma merita tutto.',
+        en: "A dinner fit for a maharaja: expensive, and you book with a deposit, but it's worth every bit.",
+        es: 'Una cena de maharajá: caro y con reserva con depósito, pero merece totalmente la pena.',
+      },
+    },
+    {
+      nome: '1135 AD (Forte di Amber)',
+      cosa: { it: 'Ristorante nel Forte di Amber', en: 'Restaurant in Amber Fort', es: 'Restaurante en el Fuerte de Amber' },
+      fatto: true,
+      testo: {
+        it: "Il ristorante dentro il forte: molto buono e la location super suggestiva. Siamo poi stati invitati a vedere la sala privata dei maharaja, all'ultimo piano, dove cenano ancora e accolgono le persone importanti.",
+        en: 'The restaurant inside the fort: very good, and the setting is incredibly atmospheric. We were then invited to see the maharajas\' private dining room on the top floor, where they still dine and receive important guests.',
+        es: 'El restaurante dentro del fuerte: muy bueno y el sitio, superevocador. Luego nos invitaron a ver la sala privada de los maharajás, en el último piso, donde todavía cenan y reciben a las personas importantes.',
+      },
+    },
+  ],
   'indonesia/sulawesi': [
     {
       nome: 'Wale Adventure (Alvaro)',

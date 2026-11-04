@@ -131,6 +131,40 @@ export const destinazioniIndia: Destinazione[] = [
     immagine: '/images/india/jaipur-hawa-mahal-facciata-riccardo.jpg',
   },
   {
+    slug: 'ranthambore',
+    paeseSlug: 'india',
+    ordine: 4,
+    nome: "Ranthambore",
+    tipologia: ["parque nacional", "safari", "tigres"],
+    giorniConsigliati: "2 noches, al menos dos safaris",
+    visitataPersonalmente: true,
+    introduzione:
+      "Uno de los parques de tigres más famosos de la India, entre Agra y Jaipur: bosque seco, lagos y ruinas, con un fuerte del siglo X sobre un peñasco dentro del parque. Solo se visita con los safaris oficiales, en jeep o en camión descubierto.",
+    percheAndarci:
+      "Para ver tigres en libertad a pocas horas de Jaipur. Además de tigres hay leopardos, osos bezudos, cocodrilos en los lagos y muchos ciervos. El Fuerte de Ranthambore es patrimonio de la UNESCO junto con los demás fuertes de colina de Rajastán.",
+    cosaVedere: [
+      "El parque en los safaris de la mañana y de la tarde",
+      "El Fuerte de Ranthambore y el templo de Ganesh en lo alto del peñasco",
+    ],
+    cosaFare: [
+      "Al menos dos safaris, porque las zonas se asignan al azar",
+      "Reservar la gypsy, el jeep de 6 plazas, en lugar del canter de unas veinte",
+    ],
+    doveDormire: "Lodges y hoteles en la carretera del parque en Sawai Madhopur, muchos con recogida para los safaris.",
+    comeArrivare: "Unas 5-6 horas en coche desde Agra, 3,5-4 desde Jaipur. La estación es Sawai Madhopur, en la línea Delhi-Bombay.",
+    comeSpostarsi: "En los vehículos del safari (gypsy o canter), que te recogen en el hotel.",
+    periodoMigliore:
+      "octubre-junio; las zonas centrales (1-5) cierran con el monzón, del 1 de julio al 30 de septiembre. De marzo a junio hace calor, pero los animales se ven más alrededor del agua.",
+    erroriDaEvitare: [
+      "Reservar tarde: las gypsy se agotan primero",
+      "Hacer un solo safari: la zona asignada puede no ser la buena",
+      "Ropa de colores vivos y voces altas durante el safari",
+    ],
+    esperienzeSlugs: [],
+    tripSlugs: ['india-rajasthan-varanasi'],
+    imageAlt: "Parque nacional de Ranthambore",
+  },
+  {
     slug: 'pushkar',
     paeseSlug: 'india',
     ordine: 4,
@@ -280,7 +314,7 @@ export const destinazioniIndia: Destinazione[] = [
       'En los ghats o en los callejones justo detrás, entre Assi y Dashashwamedh: guesthouses económicas, haveli sobre el río en gama media y alta. La ciudad nueva es cómoda pero está lejos del río.',
     doveMangiare: 'Lassi, kachori sabzi, tamatar chaat, malaiyo en invierno, paan de Benarés. Muchos locales vegetarianos.',
     comeArrivare:
-      'Desde Delhi en avión (aproximadamente 1 hora y media) o en tren (Vande Bharat en 8 horas, nocturnos en 12-13). El aeropuerto está a aproximadamente una hora de los ghats.',
+      'Desde Delhi en tren nocturno (unas 10-11 horas en litera, como el Shiv Ganga Express) o en el Vande Bharat diurno (unas 8 horas), o en avión (aproximadamente 1 hora y media, más una hora del aeropuerto a los ghats).',
     comeSpostarsi: 'A pie por los ghats y los callejones, barcas en el río, e-rickshaw y tuk-tuk hacia la ciudad nueva y Sarnath.',
     periodoMigliore:
       'octubre-marzo; noviembre para Dev Deepawali (el 24 de noviembre en 2026). Diciembre-enero con niebla espesa al amanecer. Con el monzón (julio-septiembre) los ghats bajos acaban bajo el agua.',
@@ -304,7 +338,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Chennai',
     tipologia: ['città', 'arrivo'],
     giorniConsigliati: 'de paso',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione:
       'La capital de Tamil Nadu, antigua Madrás, puerta de entrada aérea al sureste de la India. Una ciudad grande y calurosa, con el paseo marítimo de Marina Beach y el barrio de Mylapore alrededor del templo de Kapaleeshwarar.',
     percheAndarci:
@@ -327,7 +361,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Mamallapuram',
     tipologia: ['patrimonio UNESCO', 'mare', 'templi'],
     giorniConsigliati: '1-2 días',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione:
       'El antiguo puerto de los reyes Pallava en la costa de Coromandel, donde entre los siglos VII y VIII los escultores inventaron la arquitectura de los templos del sur: templos esculpidos en la roca, bajorrelieves y el templo junto al mar.',
     percheAndarci:
@@ -358,7 +392,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Madurai',
     tipologia: ['città', 'templi'],
     giorniConsigliati: '1-2 días',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione:
       'Una de las ciudades habitadas más antiguas del sur, crecida en círculos concéntricos alrededor del templo de Meenakshi Amman, con sus catorce torres cubiertas de divinidades pintadas.',
     percheAndarci:
@@ -391,7 +425,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Munnar',
     tipologia: ['montagna', 'piantagioni di tè', 'natura'],
     giorniConsigliati: '2 días',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione:
       'Una estación de montaña a unos 1.600 metros en los Ghats Occidentales de Kerala, rodeada de plantaciones de té que cubren las colinas hasta donde alcanza la vista.',
     percheAndarci:
@@ -422,7 +456,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Backwaters de Alleppey',
     tipologia: ['lagune', 'natura', 'houseboat'],
     giorniConsigliati: '1-2 días',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione:
       'La red de canales, lagunas y lagos de Kerala que corre paralela al mar entre Alappuzha (Alleppey), Kumarakom y Kollam, con arrozales bajo el nivel del agua y pueblos sobre franjas de tierra.',
     percheAndarci:
@@ -452,7 +486,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Fort Kochi',
     tipologia: ['città coloniale', 'cultura', 'mare'],
     giorniConsigliati: '2 días',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione:
       'El barrio histórico de Kochi, puerto de las especias durante siglos, marcado por portugueses, holandeses e ingleses, con las redes de pesca chinas en el paseo marítimo y el barrio judío de Mattancherry.',
     percheAndarci:
@@ -487,7 +521,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Hampi',
     tipologia: ['patrimonio UNESCO', 'rovine', 'paesaggio'],
     giorniConsigliati: '2 días',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione:
       'Las ruinas de Vijayanagara, capital de uno de los mayores imperios de la India, destruida en 1565, en un paisaje de bloques de granito, arrozales y bananales a lo largo del río Tungabhadra.',
     percheAndarci:

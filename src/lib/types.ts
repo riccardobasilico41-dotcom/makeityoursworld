@@ -103,11 +103,39 @@ export type Destinazione = {
   confronti?: Confronto[]
   /** Se assente, la UI mostra un placeholder editoriale invece di inventare un ricordo. */
   miaEsperienza?: string
+  /**
+   * Mini guida (facoltativa). Quando c'è, «Cosa vedere» diventa l'elenco dei `luoghi`, ognuno
+   * con come, quando, quanto tempo e quanto costa; poi programmi per durata, zone dove dormire,
+   * cosa assaggiare e attenzioni. Le schede senza restano com'erano.
+   */
+  luoghi?: LuogoGuida[]
+  programmi?: { titolo: string; tappe: string[] }[]
+  zone?: { nome: string; perChi: string; testo: string }[]
+  sapori?: { nome: string; testo: string }[]
+  attenzioni?: string[]
   esperienzeSlugs: string[]
   tripSlugs: string[]
   imageAlt: string
   /** Percorso in /public. Se assente, la UI mostra il placeholder illustrato. */
   immagine?: string
+}
+
+/** Un luogo da vedere, raccontato come in una guida. */
+export type LuogoGuida = {
+  nome: string
+  /** Cos'è e perché merita: 2-4 frasi. */
+  testo: string
+  /** Come ci si arriva e come si visita (ingresso, percorso, guida sì/no). */
+  come?: string
+  /** Momento migliore: ora del giorno, giorno della settimana, stagione. */
+  quando?: string
+  /** Quanto tempo serve. */
+  tempo?: string
+  /** Biglietto o costo indicativo, con l'anno del dato. */
+  costo?: string
+  /** Sito ufficiale per biglietti o orari. */
+  url?: string
+  consiglio?: string
 }
 
 export type GiudizioEsperienza = 'imperdibile' | 'la-rifarei' | 'bella-non-essenziale' | 'da-verificare'

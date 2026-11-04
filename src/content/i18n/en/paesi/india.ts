@@ -9,7 +9,7 @@ export const india: Paese = {
     "A country the size of a continent, best visited in pieces. In the North, the golden triangle Delhi-Agra-Jaipur and the Rajasthan of the maharajas, with forts on the desert and palaces on lakes; along the Ganges, Varanasi, the sacred city of ghats and open-air cremations; in the South, the Kerala of backwaters and tea plantations and the Tamil Nadu of great Dravidian temples. Three itineraries designed for a first or second trip, with trains, domestic flights and a driver where needed.",
   periodoMigliore:
     "October to March for almost the whole country: in the North, November-February is dry and mild (cold mornings and fog between December and January), in the South December-March. Avoid April-June in the North (over 40-45 °C / 104-113 °F in Rajasthan) and the southwest monsoon (June-September) in Kerala",
-  durataConsigliata: '10-12 days for Rajasthan, 15-18 with Varanasi, 14-16 for the South with the Taj Mahal',
+  durataConsigliata: '10-12 days for Rajasthan, 15-19 with Varanasi and Ranthambore, 17 for Delhi, Agra and the South',
   budgetIndicativo:
     "highly variable: €35-50 a day per person at the budget level, €80-130 mid-range with a driver and heritage hotels, from €250 up in luxury palace hotels; intercontinental flights excluded",
   scheda: {
@@ -45,5 +45,5 @@ export const india: Paese = {
   stileViaggio: ['culture', 'trains', 'road trip', 'spirituality', 'street food'],
   heroImage: '/images/india/agra-taj-mahal-portale-riccardo.jpg',
   heroImageAlt: "The Taj Mahal framed by the dark arch of the entrance gate, silhouettes of visitors in backlight, India",
-  tripPrincipaleSlug: 'india-rajasthan-10-giorni',
+  tripPrincipaleSlug: 'india-rajasthan-varanasi',
 }

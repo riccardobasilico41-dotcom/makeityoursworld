@@ -22,7 +22,7 @@ export const indiaRajasthan10GiorniMeta: TripMeta = {
     "El pozo escalonado de Chand Baori en Abhaneri y Fatehpur Sikri por el camino de Agra a Jaipur",
   ],
   criticita: [
-    "El Taj Mahal está cerrado los viernes: el día de Agra hay que encajarlo en el calendario antes de reservar trenes y hoteles",
+    "El Taj Mahal está cerrado los viernes: el día de Agra hay que encajarlo en el calendario antes de reservar trenes y hoteles (si el Día 4 cae en viernes, el Taj se adelanta a la tarde del Día 3)",
     "Las estafas son la molestia principal: hotel «cerrado», falsas oficinas de turismo en Delhi, gemas de Jaipur, tiendas con comisión. Todas evitables si se conocen",
     "Diciembre y enero traen niebla por la mañana entre Delhi y Agra, con retrasos de los trenes y el Taj a veces invisible al amanecer",
     "Jaisalmer, el desierto del Thar y Pushkar se quedan fuera por falta de tiempo: están en las variantes",
@@ -31,7 +31,7 @@ export const indiaRajasthan10GiorniMeta: TripMeta = {
   budgetTotale: undefined,
   viaggioInBreve: {
     conChiSonoPartito:
-      "itinerario pensado para viajar por libre, en pareja o en grupo pequeño, con trenes, conductor para los traslados y un vuelo interno",
+      "propuesta no vivida así, versión corta del viaje largo de Rick con Benarés; pensada para viajar por libre, con trenes, conductor para los traslados y un vuelo interno",
     treEsperienzePiuBelle:
       "El Taj Mahal al amanecer, el Fuerte de Mehrangarh sobre la ciudad azul, el atardecer sobre el lago Pichola en Udaipur",
     aChiLoConsiglio: "a quien va a India por primera vez y tiene diez días entre octubre y marzo",

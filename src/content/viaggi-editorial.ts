@@ -760,19 +760,19 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
     editorialHookType: 'mistakes',
   },
   'india-rajasthan-varanasi': {
-    seoTitle: "Varanasi e Rajasthan in 17 giorni: itinerario e 9 errori",
+    seoTitle: "Varanasi, Ranthambore e Rajasthan in 19 giorni, in treno",
     seoDescription:
-      "Diciassette giorni dal Gange di Varanasi al deserto del Thar, con treno notturno e voli interni. Budget, 10 truffe da riconoscere e 9 errori da evitare.",
-    socialTitle: "Varanasi e il Rajasthan in 17 giorni: 10 truffe da riconoscere e 9 errori da evitare",
+      "Da Delhi a Varanasi in treno notturno, poi Agra, i safari di Ranthambore e il Rajasthan con l'autista. Treni, safari, autista ed errori da evitare.",
+    socialTitle: "Varanasi, le tigri di Ranthambore e il Rajasthan: 19 giorni, due notti in cuccetta e un autista da scegliere meglio del nostro",
     editorialHook:
-      "A Varanasi si dorme sul fiume, non nella città nuova: è il Gange all'alba il motivo del viaggio.",
-    editorialHookType: 'skip-instead',
+      "Il Taj Mahal è chiuso il venerdì: treni e autista vanno organizzati di conseguenza.",
+    editorialHookType: 'before-you-go',
   },
   'india-sud-taj-mahal': {
-    seoTitle: "India del Sud in 17 giorni: Tamil Nadu, Kerala e Hampi",
+    seoTitle: "Delhi, Agra e India del Sud in 17 giorni: itinerario",
     seoDescription:
-      "Diciassette giorni tra i templi del Tamil Nadu, il Kerala, Hampi e il salto ad Agra per il Taj Mahal. Budget, 8 truffe e 8 errori da evitare.",
-    socialTitle: "India del Sud in 17 giorni: houseboat, templi e 8 truffe da riconoscere",
+      "Delhi e il Taj Mahal all'alba, poi in volo a Chennai per Tamil Nadu, Kerala e Hampi. Una proposta di 17 giorni con budget, truffe ed errori da evitare.",
+    socialTitle: "Il Taj Mahal e l'India del Sud in 17 giorni: da Delhi alle backwaters del Kerala fino a Hampi",
     editorialHook:
       "Le houseboat di Alleppey offerte sui moli a prezzi bassi spesso non sono quelle delle foto: si prenota prima.",
     editorialHookType: 'mistakes',

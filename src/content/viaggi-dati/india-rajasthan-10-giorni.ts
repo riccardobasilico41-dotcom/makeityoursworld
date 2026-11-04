@@ -6,9 +6,10 @@ import type { TripMeta } from '@/lib/types'
 // deve combaciare esattamente con le intestazioni "### Giorno N — ..." del
 // markdown, altrimenti il merge in DayTimeline non trova la corrispondenza.
 //
-// Guida non vissuta in prima persona: nessun campo di esperienza personale,
-// pernottamenti tutti 'consigliato' (zone suggerite, non hotel usati).
-// `immagine` omesso di proposito: le foto dei giorni si recuperano dopo.
+// Proposta costruita sulla ricerca e sul viaggio lungo di Rick
+// (india-rajasthan-varanasi), non un viaggio fatto così: nessun campo di
+// esperienza personale, pernottamenti tutti 'consigliato' (zone suggerite).
+// I ricordi di Rick vanno nel viaggio 77, non qui.
 
 export const indiaRajasthan10GiorniMeta: TripMeta = {
   tripSlug: 'india-rajasthan-10-giorni',
@@ -32,7 +33,7 @@ export const indiaRajasthan10GiorniMeta: TripMeta = {
     'Il pozzo a gradini di Chand Baori ad Abhaneri e Fatehpur Sikri lungo la strada da Agra a Jaipur',
   ],
   criticita: [
-    'Il Taj Mahal è chiuso il venerdì: il giorno di Agra va incastrato nel calendario prima di prenotare treni e hotel',
+    'Il Taj Mahal è chiuso il venerdì: il giorno di Agra va incastrato nel calendario prima di prenotare treni e hotel (se il Giorno 4 è venerdì, il Taj si anticipa al pomeriggio del Giorno 3)',
     'Le truffe sono il fastidio principale: hotel «chiuso», finti uffici del turismo a Delhi, gemme di Jaipur, negozi con commissione. Tutte evitabili sapendolo',
     'Dicembre e gennaio portano nebbia al mattino tra Delhi e Agra, con ritardi dei treni e il Taj a volte invisibile all\'alba',
     'Jaisalmer, il deserto del Thar e Pushkar restano fuori per mancanza di tempo: sono nelle varianti',
@@ -41,7 +42,7 @@ export const indiaRajasthan10GiorniMeta: TripMeta = {
   budgetTotale: undefined,
   viaggioInBreve: {
     conChiSonoPartito:
-      'itinerario pensato per viaggiare in autonomia, in coppia o in piccolo gruppo, con treni, autista per i trasferimenti e un volo interno',
+      'proposta non vissuta così, versione corta del viaggio lungo di Rick con Varanasi; pensata per viaggiare in autonomia, con treni, autista per i trasferimenti e un volo interno',
     treEsperienzePiuBelle:
       'Il Taj Mahal all\'alba, il Forte di Mehrangarh sopra la città blu, il tramonto sul lago Pichola a Udaipur',
     aChiLoConsiglio: 'a chi va in India per la prima volta e ha dieci giorni tra ottobre e marzo',

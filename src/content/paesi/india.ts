@@ -1,15 +1,16 @@
 import type { Paese } from '@/lib/types'
 
-// L'India entra nell'archivio con tre itinerari, tutti fatti dall'autore:
-// Rajasthan in 10 giorni (india-rajasthan-10-giorni), Rajasthan con
-// Varanasi (india-rajasthan-varanasi) e il Sud con il salto ad Agra
-// (india-sud-taj-mahal). Una sola scheda Paese per tutti e tre: visto,
-// stagioni, treni e truffe valgono ovunque, cambia solo il clima tra Nord e Sud.
+// L'India entra nell'archivio con tre itinerari. Uno solo è fatto da Rick:
+// Varanasi, Ranthambore e il Rajasthan in 19 giorni (india-rajasthan-varanasi), con treno
+// notturno Delhi-Varanasi, treno Varanasi-Agra e autista per il Rajasthan.
+// Gli altri due sono proposte costruite sulla ricerca: il Rajasthan in 10
+// giorni (india-rajasthan-10-giorni, versione corta del viaggio di Rick) e
+// Delhi, Agra e l'India del Sud (india-sud-taj-mahal). Una sola scheda Paese
+// per tutti e tre: visto, stagioni, treni e truffe valgono ovunque.
 //
-// tripPrincipaleSlug punta al Rajasthan in 10 giorni: è il primo viaggio in
-// India più richiesto da un pubblico italiano (Taj Mahal, forti, palazzi) e il
-// più facile da organizzare in autonomia. I fatti pratici sono verificati
-// (ottobre 2026) e vanno riverificati prima della partenza.
+// tripPrincipaleSlug punta al viaggio fatto davvero da Rick. I fatti pratici
+// sono verificati (ottobre-novembre 2026) e vanno riverificati prima della
+// partenza.
 
 export const india: Paese = {
   slug: 'india',
@@ -20,7 +21,7 @@ export const india: Paese = {
     'Un paese grande come un continente, che si visita a pezzi. Al Nord il triangolo d\'oro Delhi-Agra-Jaipur e il Rajasthan dei maharaja, con i forti sul deserto e i palazzi sui laghi; lungo il Gange Varanasi, la città sacra dei ghat e delle cremazioni a cielo aperto; al Sud il Kerala delle backwaters e delle piantagioni di tè e il Tamil Nadu dei grandi templi dravidici. Tre itinerari pensati per un primo o un secondo viaggio, con treni, voli interni e autista dove serve.',
   periodoMigliore:
     'da ottobre a marzo per quasi tutto il paese: al Nord novembre-febbraio è secco e mite (mattine fredde e nebbia tra dicembre e gennaio), al Sud dicembre-marzo. Da evitare aprile-giugno al Nord (oltre 40-45 °C in Rajasthan) e il monsone di sud-ovest (giugno-settembre) in Kerala',
-  durataConsigliata: '10-12 giorni per il Rajasthan, 15-18 con Varanasi, 14-16 per il Sud con il Taj Mahal',
+  durataConsigliata: '10-12 giorni per il Rajasthan, 15-19 con Varanasi e Ranthambore, 17 per Delhi, Agra e il Sud',
   budgetIndicativo:
     'molto variabile: 35-50 € al giorno a persona in fascia economica, 80-130 € in fascia media con autista e hotel heritage, da 250 € in su nei palazzi-hotel di lusso; voli intercontinentali esclusi',
   scheda: {
@@ -56,5 +57,5 @@ export const india: Paese = {
   stileViaggio: ['cultura', 'treni', 'on the road', 'spiritualità', 'cibo di strada'],
   heroImage: '/images/india/agra-taj-mahal-portale-riccardo.jpg',
   heroImageAlt: 'Il Taj Mahal incorniciato dall\'arco scuro del portale d\'ingresso, sagome di visitatori in controluce, India',
-  tripPrincipaleSlug: 'india-rajasthan-10-giorni',
+  tripPrincipaleSlug: 'india-rajasthan-varanasi',
 }

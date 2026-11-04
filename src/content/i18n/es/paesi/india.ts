@@ -9,7 +9,7 @@ export const india: Paese = {
     'Un país grande como un continente, que se visita por partes. En el norte el triángulo de oro Delhi-Agra-Jaipur y el Rajastán de los marajás, con los fuertes sobre el desierto y los palacios sobre los lagos; a lo largo del Ganges, Benarés, la ciudad sagrada de los ghats y de las cremaciones al aire libre; en el sur la Kerala de los backwaters y las plantaciones de té y el Tamil Nadu de los grandes templos dravídicos. Tres itinerarios pensados para un primer o un segundo viaje, con trenes, vuelos internos y conductor donde hace falta.',
   periodoMigliore:
     'de octubre a marzo para casi todo el país: en el norte noviembre-febrero es seco y suave (mañanas frías y niebla entre diciembre y enero), en el sur diciembre-marzo. A evitar abril-junio en el norte (más de 40-45 °C en Rajastán) y el monzón del suroeste (junio-septiembre) en Kerala',
-  durataConsigliata: '10-12 días para Rajastán, 15-18 con Benarés, 14-16 para el sur con el Taj Mahal',
+  durataConsigliata: '10-12 días para Rajastán, 15-19 con Benarés y Ranthambore, 17 para Delhi, Agra y el sur',
   budgetIndicativo:
     'muy variable: 35-50 € al día por persona en gama económica, 80-130 € en gama media con conductor y hoteles heritage, desde 250 € en adelante en los palacios-hotel de lujo; vuelos intercontinentales excluidos',
   scheda: {
@@ -45,5 +45,5 @@ export const india: Paese = {
   stileViaggio: ['cultura', 'treni', 'on the road', 'spiritualità', 'cibo di strada'],
   heroImage: '/images/india/agra-taj-mahal-portale-riccardo.jpg',
   heroImageAlt: 'El Taj Mahal enmarcado por el arco oscuro del portal de entrada, siluetas de visitantes a contraluz, India',
-  tripPrincipaleSlug: 'india-rajasthan-10-giorni',
+  tripPrincipaleSlug: 'india-rajasthan-varanasi',
 }

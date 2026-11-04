@@ -693,19 +693,19 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
     editorialHookType: 'mistakes',
   },
   'india-rajasthan-varanasi': {
-    seoTitle: "Varanasi y Rajastán en 17 días: itinerario y 9 errores",
+    seoTitle: "Benarés, Ranthambore y Rajastán en 19 días, en tren",
     seoDescription:
-      "Diecisiete días del Ganges de Varanasi al desierto del Thar, con tren nocturno y vuelos internos. Presupuesto, 10 timos que reconocer y 9 errores a evitar.",
-    socialTitle: "Varanasi y Rajastán en 17 días: 10 timos que reconocer y 9 errores a evitar",
+      "De Delhi a Benarés en tren nocturno, luego Agra, los safaris de Ranthambore y Rajastán con conductor. Trenes, safaris, conductor y errores.",
+    socialTitle: "Benarés, los tigres de Ranthambore y Rajastán: 19 días, dos noches en litera y un conductor que elegir mejor que el nuestro",
     editorialHook:
-      "En Varanasi se duerme junto al río, no en la ciudad nueva: el Ganges al amanecer es el motivo del viaje.",
-    editorialHookType: 'skip-instead',
+      "El Taj Mahal cierra los viernes: organiza los trenes y el conductor en función de eso.",
+    editorialHookType: 'before-you-go',
   },
   'india-sud-taj-mahal': {
-    seoTitle: "India del Sur en 17 días: Tamil Nadu, Kerala y Hampi",
+    seoTitle: "Delhi, Agra y el sur de la India en 17 días: itinerario",
     seoDescription:
-      "Diecisiete días entre los templos de Tamil Nadu, Kerala, Hampi y el salto a Agra para el Taj Mahal. Presupuesto, 8 timos y 8 errores a evitar.",
-    socialTitle: "India del Sur en 17 días: houseboats, templos y 8 timos que reconocer",
+      "Delhi y el Taj Mahal al amanecer, luego en avión a Chennai para Tamil Nadu, Kerala y Hampi. Una propuesta de 17 días con presupuesto, timos y errores.",
+    socialTitle: "El Taj Mahal y el sur de la India en 17 días: de Delhi a los backwaters de Kerala y Hampi",
     editorialHook:
       "Las houseboats de Alleppey ofrecidas en los embarcaderos a precios bajos a menudo no son las de las fotos: se reservan antes.",
     editorialHookType: 'mistakes',

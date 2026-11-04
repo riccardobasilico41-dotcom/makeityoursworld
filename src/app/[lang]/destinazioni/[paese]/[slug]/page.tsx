@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import Link from '@/components/ui/Link'
 import { Consigliati } from '@/components/Consigliati'
+import { LuoghiGuida, ProgrammiGuida, ZoneSaporiAttenzioni } from '@/components/scheda/MiniGuida'
 import { Filigrana } from '@/components/Filigrana'
 import { SalvaBottone } from '@/components/SalvaBottone'
 import { FirmaAutore } from '@/components/FirmaAutore'
@@ -316,12 +317,19 @@ export default async function DestinazionePage({
             </div>
           )}
 
-          {destinazione.cosaVedere.length > 0 && (
-            <div>
-              <TitoloSezione icona={Eye}>{t.cosaVedere}</TitoloSezione>
-              <ElencoNumerato voci={destinazione.cosaVedere} />
-            </div>
+          {/* mini guida: i luoghi dettagliati prendono il posto dell'elenco breve */}
+          {destinazione.luoghi?.length ? (
+            <LuoghiGuida d={destinazione} lingua={lingua} />
+          ) : (
+            destinazione.cosaVedere.length > 0 && (
+              <div>
+                <TitoloSezione icona={Eye}>{t.cosaVedere}</TitoloSezione>
+                <ElencoNumerato voci={destinazione.cosaVedere} />
+              </div>
+            )
           )}
+
+          <ProgrammiGuida d={destinazione} lingua={lingua} />
 
           {destinazione.cosaFare.length > 0 && (
             <div>
@@ -357,6 +365,8 @@ export default async function DestinazionePage({
               </div>
             </div>
           )}
+
+          <ZoneSaporiAttenzioni d={destinazione} lingua={lingua} />
 
           {destinazione.erroriDaEvitare.length > 0 && (
             <div className="max-w-4xl">

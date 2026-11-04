@@ -1,13 +1,15 @@
 import type { Destinazione } from '@/lib/types'
 
 // Destinazioni indiane dei tre itinerari: india-rajasthan-10-giorni,
-// india-rajasthan-varanasi e india-sud-taj-mahal. L'autore le ha visitate
-// tutte (visitataPersonalmente: true); il campo miaEsperienza è assente
+// india-rajasthan-varanasi e india-sud-taj-mahal. Rick ha fatto Varanasi e
+// il Rajasthan (viaggio 77): le destinazioni del Nord sono visitate
+// (visitataPersonalmente: true), quelle del Sud no (false: il viaggio 78 è
+// una proposta costruita sulla ricerca). Il campo miaEsperienza è assente
 // finché non si scrivono i ricordi (la UI mostra un placeholder editoriale).
 // Prezzi e orari verificati a ottobre 2026, indicativi.
 //
-// Ordine: Nord (1-8: Delhi, Agra, Jaipur, Pushkar, Jodhpur, Jaisalmer,
-// Udaipur, Varanasi), Sud (9-15: Chennai, Mamallapuram, Madurai, Munnar,
+// Ordine: Nord (1-9: Delhi, Agra, Jaipur, Ranthambore, Pushkar, Jodhpur,
+// Jaisalmer, Udaipur, Varanasi), Sud (10-16: Chennai, Mamallapuram, Madurai, Munnar,
 // backwaters di Alleppey, Fort Kochi, Hampi).
 
 export const destinazioniIndia: Destinazione[] = [
@@ -142,9 +144,43 @@ export const destinazioniIndia: Destinazione[] = [
     immagine: '/images/india/jaipur-hawa-mahal-facciata-riccardo.jpg',
   },
   {
-    slug: 'pushkar',
+    slug: 'ranthambore',
     paeseSlug: 'india',
     ordine: 4,
+    nome: 'Ranthambore',
+    tipologia: ['parco nazionale', 'safari', 'tigri'],
+    giorniConsigliati: '2 notti, almeno due safari',
+    visitataPersonalmente: true,
+    introduzione:
+      'Uno dei parchi delle tigri più famosi dell\'India, tra Agra e Jaipur: foresta secca, laghi e rovine, con un forte del X secolo su una rupe dentro il parco. Si visita solo con i safari ufficiali, in jeep o in camion scoperto.',
+    percheAndarci:
+      'Per vedere le tigri in libertà a poche ore da Jaipur. Oltre alle tigri ci sono leopardi, orsi labiati, coccodrilli nei laghi e molti cervi. Il Forte di Ranthambore è patrimonio UNESCO con gli altri forti di collina del Rajasthan.',
+    cosaVedere: [
+      'Il parco nei safari del mattino e del pomeriggio',
+      'Il Forte di Ranthambore e il tempio di Ganesh in cima alla rupe',
+    ],
+    cosaFare: [
+      'Almeno due safari, perché le zone sono assegnate a caso',
+      'Prenotare la gypsy, la jeep da 6 posti, invece del canter da una ventina',
+    ],
+    doveDormire: 'Lodge e hotel lungo la strada del parco a Sawai Madhopur, molti con il ritiro per i safari.',
+    comeArrivare: 'Da Agra circa 5-6 ore di auto, da Jaipur circa 3,5-4. La stazione è Sawai Madhopur, sulla linea Delhi-Mumbai.',
+    comeSpostarsi: 'Con i mezzi dei safari (gypsy o canter) che passano a prendere in hotel.',
+    periodoMigliore:
+      'ottobre-giugno; le zone centrali (1-5) chiudono con il monsone, dal 1° luglio al 30 settembre. Da marzo a giugno fa caldo, ma gli animali si vedono di più intorno all\'acqua.',
+    erroriDaEvitare: [
+      'Muoversi tardi con la prenotazione: le gypsy finiscono per prime',
+      'Fare un solo safari: la zona assegnata può essere quella sbagliata',
+      'Vestiti dai colori accesi e voce alta durante il safari',
+    ],
+    esperienzeSlugs: [],
+    tripSlugs: ['india-rajasthan-varanasi'],
+    imageAlt: 'Il parco nazionale di Ranthambore',
+  },
+  {
+    slug: 'pushkar',
+    paeseSlug: 'india',
+    ordine: 5,
     nome: 'Pushkar',
     tipologia: ['città santa', 'lago', 'atmosfera'],
     giorniConsigliati: '1 giorno',
@@ -172,7 +208,7 @@ export const destinazioniIndia: Destinazione[] = [
   {
     slug: 'jodhpur',
     paeseSlug: 'india',
-    ordine: 5,
+    ordine: 6,
     nome: 'Jodhpur',
     tipologia: ['città', 'forti e palazzi'],
     giorniConsigliati: '2 giorni',
@@ -204,7 +240,7 @@ export const destinazioniIndia: Destinazione[] = [
   {
     slug: 'jaisalmer',
     paeseSlug: 'india',
-    ordine: 6,
+    ordine: 7,
     nome: 'Jaisalmer e il deserto del Thar',
     tipologia: ['deserto', 'forti e palazzi'],
     giorniConsigliati: '2-3 giorni',
@@ -232,7 +268,7 @@ export const destinazioniIndia: Destinazione[] = [
   {
     slug: 'udaipur',
     paeseSlug: 'india',
-    ordine: 7,
+    ordine: 8,
     nome: 'Udaipur',
     tipologia: ['città', 'laghi', 'palazzi'],
     giorniConsigliati: '1-2 giorni',
@@ -264,7 +300,7 @@ export const destinazioniIndia: Destinazione[] = [
   {
     slug: 'varanasi',
     paeseSlug: 'india',
-    ordine: 8,
+    ordine: 9,
     nome: 'Varanasi e Sarnath',
     tipologia: ['città santa', 'fiume', 'spiritualità'],
     giorniConsigliati: '3 giorni',
@@ -291,7 +327,7 @@ export const destinazioniIndia: Destinazione[] = [
       'Sui ghat o nei vicoli appena dietro, tra Assi e Dashashwamedh: guesthouse economiche, haveli sul fiume in fascia media e alta. La città nuova è comoda ma lontana dal fiume.',
     doveMangiare: 'Lassi, kachori sabzi, tamatar chaat, malaiyo d\'inverno, paan di Banaras. Molti locali vegetariani.',
     comeArrivare:
-      'Da Delhi in volo (circa 1 ora e mezza) o in treno (Vande Bharat in 8 ore, notturni in 12-13). L\'aeroporto è a circa un\'ora dai ghat.',
+      'Da Delhi in treno notturno (circa 10-11 ore in cuccetta, come lo Shiv Ganga Express) o con il Vande Bharat diurno (circa 8 ore), oppure in volo (circa 1 ora e mezza, più un\'ora dall\'aeroporto ai ghat).',
     comeSpostarsi: 'A piedi lungo i ghat e nei vicoli, barche sul fiume, e-risciò e tuk-tuk verso la città nuova e Sarnath.',
     periodoMigliore:
       'ottobre-marzo; novembre per Dev Deepawali (il 24 novembre nel 2026). Dicembre-gennaio con nebbia fitta all\'alba. Con il monsone (luglio-settembre) i ghat bassi finiscono sott\'acqua.',
@@ -313,11 +349,11 @@ export const destinazioniIndia: Destinazione[] = [
   {
     slug: 'chennai',
     paeseSlug: 'india',
-    ordine: 9,
+    ordine: 10,
     nome: 'Chennai',
     tipologia: ['città', 'arrivo'],
     giorniConsigliati: 'di passaggio',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione:
       'La capitale del Tamil Nadu, ex Madras, porta d\'ingresso aereo al Sud-est dell\'India. Una città grande e calda, con il lungomare di Marina Beach e il quartiere di Mylapore attorno al tempio di Kapaleeshwarar.',
     percheAndarci:
@@ -336,11 +372,11 @@ export const destinazioniIndia: Destinazione[] = [
   {
     slug: 'mamallapuram',
     paeseSlug: 'india',
-    ordine: 10,
+    ordine: 11,
     nome: 'Mamallapuram',
     tipologia: ['patrimonio UNESCO', 'mare', 'templi'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione:
       'L\'antico porto dei re Pallava sulla costa del Coromandel, dove tra VII e VIII secolo gli scultori hanno inventato l\'architettura dei templi del Sud: templi scolpiti nella roccia, bassorilievi e il tempio sul mare.',
     percheAndarci:
@@ -367,11 +403,11 @@ export const destinazioniIndia: Destinazione[] = [
   {
     slug: 'madurai',
     paeseSlug: 'india',
-    ordine: 11,
+    ordine: 12,
     nome: 'Madurai',
     tipologia: ['città', 'templi'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione:
       'Una delle città abitate più antiche del Sud, cresciuta per cerchi concentrici intorno al tempio di Meenakshi Amman, con le sue quattordici torri coperte di divinità dipinte.',
     percheAndarci:
@@ -400,11 +436,11 @@ export const destinazioniIndia: Destinazione[] = [
   {
     slug: 'munnar',
     paeseSlug: 'india',
-    ordine: 12,
+    ordine: 13,
     nome: 'Munnar',
     tipologia: ['montagna', 'piantagioni di tè', 'natura'],
     giorniConsigliati: '2 giorni',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione:
       'Una stazione di montagna a circa 1.600 metri sui Ghati Occidentali del Kerala, circondata da piantagioni di tè che coprono le colline a perdita d\'occhio.',
     percheAndarci:
@@ -431,11 +467,11 @@ export const destinazioniIndia: Destinazione[] = [
   {
     slug: 'backwaters-alleppey',
     paeseSlug: 'india',
-    ordine: 13,
+    ordine: 14,
     nome: 'Backwaters di Alleppey',
     tipologia: ['lagune', 'natura', 'houseboat'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione:
       'La rete di canali, lagune e laghi del Kerala che corre parallela al mare tra Alappuzha (Alleppey), Kumarakom e Kollam, con risaie sotto il livello dell\'acqua e villaggi su strisce di terra.',
     percheAndarci:
@@ -461,11 +497,11 @@ export const destinazioniIndia: Destinazione[] = [
   {
     slug: 'fort-kochi',
     paeseSlug: 'india',
-    ordine: 14,
+    ordine: 15,
     nome: 'Fort Kochi',
     tipologia: ['città coloniale', 'cultura', 'mare'],
     giorniConsigliati: '2 giorni',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione:
       'Il quartiere storico di Kochi, porto delle spezie per secoli, segnato da portoghesi, olandesi e inglesi, con le reti da pesca cinesi sul lungomare e il quartiere ebraico di Mattancherry.',
     percheAndarci:
@@ -496,11 +532,11 @@ export const destinazioniIndia: Destinazione[] = [
   {
     slug: 'hampi',
     paeseSlug: 'india',
-    ordine: 15,
+    ordine: 16,
     nome: 'Hampi',
     tipologia: ['patrimonio UNESCO', 'rovine', 'paesaggio'],
     giorniConsigliati: '2 giorni',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione:
       'Le rovine di Vijayanagara, capitale di uno dei più grandi imperi dell\'India, distrutta nel 1565, in un paesaggio di massi di granito, risaie e bananeti lungo il fiume Tungabhadra.',
     percheAndarci:

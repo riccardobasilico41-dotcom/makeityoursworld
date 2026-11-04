@@ -1,14 +1,16 @@
 # India: Rajasthan in 10 Days, from Delhi and the Taj Mahal to the Lakes of Udaipur
 
-**Stato bozza:** 🟡 in progress (itinerary and practical information complete and verified as of October 2026)
+**Stato bozza:** 🟡 in progress (a proposal built on research and on Rick's longer trip through Rajasthan and Varanasi, not a trip taken this way; practical information verified in October-November 2026)
 **Periodo del viaggio:** designed for October to March, with November to February the best window
 **Durata:** 10 days, 9 nights
-**Compagni di viaggio:** with friends, independent, with fast trains for the Delhi-Agra and Jaipur-Jodhpur legs, a car with driver for the stretches without a convenient railway and a domestic flight home
+**Compagni di viaggio:** an itinerary designed for independent travel, with fast trains for the Delhi-Agra and Jaipur-Jodhpur legs, a car with driver for the stretches without a convenient railway and a domestic flight home
 **Categoria:** Asia · India · Rajasthan · triangolo d'oro · forti e palazzi · cultura
 
 ---
 
 ## Apertura personale
+This is a short, ten-day version, built on research and on the longer trip Rick took in India: *India: Varanasi, Ranthambore and Rajasthan in 19 Days, by Overnight Train and with a Driver*, with the overnight trains and the driver. Rick didn't do it this way. It keeps the Rajasthan stops that fit into ten days and leaves out Varanasi, Ranthambore, Pushkar and the desert.
+
 Rajasthan is the most sensible first trip to India for anyone leaving from Italy. The distances are manageable, the monuments are among the finest in the country, and the network of trains, drivers and heritage hotels lets you organize everything yourself without joining a group tour. In ten days, this itinerary strings together the Golden Triangle (Delhi, Agra, Jaipur) and two Rajasthan cities that are worth the trip on their own: Jodhpur, the blue city below Mehrangarh Fort, and Udaipur, the city of lakes and white palaces.
 
 Choosing the stops is where people go wrong most often. Ten days isn't enough for everything: Jaisalmer and the Thar Desert are one extra day of travel in each direction, and Pushkar and Bundi are lovely but need a night each. Here the choice was to sleep at least two nights in every main city and cut the rest, which finds its place in the variations at the end. It's an itinerary for people coming to India for the first time, who want to see the Taj Mahal at dawn and the great forts without rushing, and who accept that the first impact with Delhi will be intense.
@@ -31,42 +33,42 @@ Choosing the stops is where people go wrong most often. Ten days isn't enough fo
 ### Day 1 — Arrival in Delhi and Old Delhi
 Most flights from Europe land in Delhi early in the morning or in the middle of the night. The first piece of advice applies right outside Indira Gandhi airport: a prepaid taxi from the official counter, Uber or the hotel transfer, never someone who approaches you in arrivals. *This is where the classic scam of the trip begins: the driver who says your hotel is closed or full and takes you to a different one.* If you arrive at night you sleep a few hours; if you arrive in the morning you still need a break before facing the city.
 
-In the afternoon we went to **Old Delhi**, the Mughal city of Shah Jahan, taking the metro to Chandni Chowk. The **Jama Masjid**, the largest mosque in India, can be visited outside prayer times, covered up and barefoot; from the courtyard you can see the Red Fort. Then we wandered the alleys of **Chandni Chowk** in a cycle rickshaw, among the spice markets of Khari Baoli and the fried paratha stalls of Paranthe Wali Gali. It's the most chaotic neighborhood of the whole trip: better to take it as a taste and be back at the hotel before dark.
+In the afternoon you head to **Old Delhi**, the Mughal city of Shah Jahan, taking the metro to Chandni Chowk. The **Jama Masjid**, the largest mosque in India, can be visited outside prayer times, covered up and barefoot; from the courtyard you can see the Red Fort. Then the alleys of **Chandni Chowk** in a cycle rickshaw, among the spice markets of Khari Baoli and the fried paratha stalls of Paranthe Wali Gali. It's the most chaotic neighborhood of the whole trip: better to take it as a taste and be back at the hotel before dark.
 
 **In practice:** the Delhi metro is clean, cheap and has a women-only car at the front of the train · Jama Masjid free entry, camera fee, closed to tourists during prayer · cycle rickshaw 300-500 rupees a ride, agree the price beforehand.
 
 ### Day 2 — Delhi: Humayun, Qutub Minar and New Delhi
-The day was for monumental Delhi, which is best done by Uber or with a driver for the day. We started early at **Humayun's Tomb**, the sixteenth-century Mughal mausoleum that served as the model for the Taj Mahal: four-part gardens, red sandstone and white marble, and very few people in the morning. Not far away is the Sufi quarter of **Nizamuddin**, with the shrine of Hazrat Nizamuddin, where you can listen to qawwali songs on Thursday evenings.
+The day is for monumental Delhi, which is best done by Uber or with a driver for the day. Start early at **Humayun's Tomb**, the sixteenth-century Mughal mausoleum that served as the model for the Taj Mahal: four-part gardens, red sandstone and white marble, and very few people in the morning. Not far away is the Sufi quarter of **Nizamuddin**, with the shrine of Hazrat Nizamuddin, where you can listen to qawwali songs on Thursday evenings.
 
-South of the city we saw the **Qutub Minar**, the twelfth-century sandstone minaret 73 meters tall, with the iron pillar that hasn't rusted in sixteen centuries. In the afternoon, British New Delhi: India Gate, the Kartavya Path avenue toward Rashtrapati Bhavan, and the Sikh temple of **Gurudwara Bangla Sahib**, where anyone can enter with their head covered and eat for free at the langar, the community kitchen that serves thousands of meals a day. Anyone with energy left finishes at Lodhi Gardens, the park where Delhiites stroll in the evening.
+South of the city is the **Qutub Minar**, the twelfth-century sandstone minaret 73 meters tall, with the iron pillar that hasn't rusted in sixteen centuries. In the afternoon, British New Delhi: India Gate, the Kartavya Path avenue toward Rashtrapati Bhavan, and the Sikh temple of **Gurudwara Bangla Sahib**, where anyone can enter with their head covered and eat for free at the langar, the community kitchen that serves thousands of meals a day. Anyone with energy left finishes at Lodhi Gardens, the park where Delhiites stroll in the evening.
 
 **In practice:** Humayun's Tomb and Qutub Minar about 600 rupees each for foreigners (a bit less online) · Gurudwara free entry, head covered and shoes left at the shoe deposit · for tomorrow, an early train from Hazrat Nizamuddin: it's best to sleep not too far away.
 
 ### Day 3 — By train to Agra: the Fort and the Taj at sunset from Mehtab Bagh
-The train is the best way to reach Agra: the **Gatimaan Express** or the Vande Bharat trains leave Hazrat Nizamuddin or New Delhi early in the morning and arrive in a little under two hours, against four by road. We left our bags at the hotel and went to **Agra Fort**, the red sandstone Mughal citadel from which Shah Jahan, imprisoned by his son, watched the Taj along the river in his last years.
+The train is the best way to reach Agra: the **Gatimaan Express** or the Vande Bharat trains leave Hazrat Nizamuddin or New Delhi early in the morning and arrive in a little under two hours, against four by road. Once your bags are at the hotel, head to **Agra Fort**, the red sandstone Mughal citadel from which Shah Jahan, imprisoned by his son, watched the Taj along the river in his last years.
 
-In the afternoon, the **Itimad-ud-Daulah**, the "baby Taj," a mausoleum inlaid with semi-precious stones that anticipates the big one by twenty years and is almost always quiet. At sunset we crossed the Yamuna river to the garden of **Mehtab Bagh**, from where you see the Taj Mahal straight ahead, from the opposite bank, with the light turning it pink. *It's a good way to see it for the first time without crowds, and to save the real entrance for dawn tomorrow.*
+In the afternoon, the **Itimad-ud-Daulah**, the "baby Taj," a mausoleum inlaid with semi-precious stones that anticipates the big one by twenty years and is almost always quiet. At sunset you cross the Yamuna river to the garden of **Mehtab Bagh**, outside the Taj complex and with its own ticket, from where you see the Taj Mahal straight ahead, from the opposite bank, with the light turning it pink. *It's a good way to see it for the first time without crowds, and to save the real entrance for dawn tomorrow.*
 
 **In practice:** Gatimaan Express about 1 hour 40 minutes, CC or EC class to be booked on IRCTC a few weeks ahead · Agra Fort about 650 rupees, Itimad-ud-Daulah and Mehtab Bagh reduced fees · Agra is easy to get around by tuk-tuk or by car with a driver for half a day.
 
 ### Day 4 — The Taj Mahal at dawn, Fatehpur Sikri and the road to Jaipur
 Wake-up in the dark, to be at the gates of the **Taj Mahal** when they open, half an hour before sunrise. The east gate is usually the least crowded. Inside, you can't bring large bags, food, tripods or drones; you leave your shoes or put on the shoe covers provided to climb onto the mausoleum platform. The first hour is when the marble changes color and the central pool reflects the dome with nobody in front of it: worth the early alarm.
 
-We went back to the hotel for breakfast and then left with the driver toward Jaipur. Forty minutes from Agra is **Fatehpur Sikri**, the capital that Akbar built in the sixteenth century and abandoned a few years later, perhaps for lack of water: palaces, courtyards and the great mosque with the Buland Darwaza. If you leave early, add a stop at the stepwell of **Chand Baori at Abhaneri**, thirteen levels of geometric stairways dug in the ninth century, an hour from Jaipur with a small detour. We reached Jaipur in the evening.
+Back to the hotel for breakfast, then off with the driver toward Jaipur. Forty minutes from Agra is **Fatehpur Sikri**, the capital that Akbar built in the sixteenth century and abandoned a few years later, perhaps for lack of water: palaces, courtyards and the great mosque with the Buland Darwaza. If you leave early, add a stop at the stepwell of **Chand Baori at Abhaneri**, thirteen levels of geometric stairways dug in the ninth century, an hour from Jaipur with a small detour. You reach Jaipur in the evening.
 
 **In practice:** Taj Mahal about 1,100 rupees for foreigners plus 200 for the inside of the mausoleum, online ticket recommended, closed on Fridays · the guides who offer themselves at the gates aren't necessary: better an authorized guide booked in advance or the audio guide · Agra-Jaipur by car about 5-6 hours with stops, Fatehpur Sikri about 600 rupees.
 
 ### Day 5 — Jaipur: Amber Fort and Nahargarh at sunset
-Jaipur, the Pink City, is the capital of Rajasthan and the densest stop of the trip. We visited **Amber Fort** early in the morning, before the heat and the groups. You climb on foot along the ramp or by jeep, and inside there are the courtyard of the Diwan-i-Aam, the Hall of Mirrors (Sheesh Mahal) and the terraces over Lake Maota. *The elephant-back ride is still offered, but animal welfare groups advise against it: better to walk up.*
+Jaipur, the Pink City, is the capital of Rajasthan and the densest stop of the trip. Visit **Amber Fort** early in the morning, before the heat and the groups. You climb on foot along the ramp or by jeep, and inside there are the courtyard of the Diwan-i-Aam, the Hall of Mirrors (Sheesh Mahal) and the terraces over Lake Maota. *The elephant-back ride is still offered, but animal welfare groups advise against it: better to walk up.*
 
-On the way back we stopped at the **Jal Mahal**, the palace that seems to float on Lake Man Sagar and can only be looked at from the shore. In the afternoon, the **Panna Meena stepwell** near Amber, smaller than Chand Baori but very close. We watched the sunset from **Nahargarh Fort**, on the ridge above the city, when the light settles over all of Jaipur and the lights come on one after another.
+On the way back there's the **Jal Mahal**, the palace that seems to float on Lake Man Sagar and can only be looked at from the shore. In the afternoon, the **Panna Meena stepwell** near Amber, smaller than Chand Baori but very close. Watch the sunset from **Nahargarh Fort**, on the ridge above the city, when the light settles over all of Jaipur and the lights come on one after another.
 
 **In practice:** Amber Fort 1,000 rupees for foreigners from 2026, Nahargarh 600, opens at 8 · the composite ticket is now valid for 10 days for all state monuments of Rajasthan and costs 5,500 rupees: for Jaipur it's better to pay the individual entrances · tuk-tuk or driver: Amber is 11 km from the center.
 
 ### Day 6 — Jaipur: City Palace, Jantar Mantar, Hawa Mahal and the bazaars
-The heart of the old city is best done on foot or by tuk-tuk. We began the morning at the **Hawa Mahal**, the Palace of Winds, with its honeycomb facade built so the women of the court could watch the street without being seen: the best photo is from the rooftop café across the way, and the visit inside is short. Then the **City Palace**, still partly the royal family's residence, with the courtyards of the four painted gates, and next to it the **Jantar Mantar**, the eighteenth-century astronomical observatory with the largest sundial in the world.
+The heart of the old city is best done on foot or by tuk-tuk. Start the morning at the **Hawa Mahal**, the Palace of Winds, with its honeycomb facade built so the women of the court could watch the street without being seen: the best photo is from the rooftop café across the way, and the visit inside is short. Then the **City Palace**, still partly the royal family's residence, with the courtyards of the four painted gates, and next to it the **Jantar Mantar**, the eighteenth-century astronomical observatory with the largest sundial in the world.
 
-The afternoon was for the bazaars: Johari Bazaar for jewelry and textiles, Bapu Bazaar for juttis (embroidered shoes), the block-printing workshops for fabrics. *Here you meet Jaipur's best-known scam: someone proposes you buy gemstones to resell in Italy for a sure profit. It doesn't exist, and you never see the money again.* In the evening, lassi and kachori at Rawat Mishtan Bhandar or a Rajasthani thali in one of the rooftop restaurants.
+The afternoon is for the bazaars: Johari Bazaar for jewelry and textiles, Bapu Bazaar for juttis (embroidered shoes), the block-printing workshops for fabrics. *Here you meet Jaipur's best-known scam: someone proposes you buy gemstones to resell in Italy for a sure profit. It doesn't exist, and you never see the money again.* In the evening, lassi and kachori at Rawat Mishtan Bhandar or a Rajasthani thali in one of the rooftop restaurants.
 
 **In practice:** City Palace about 700 rupees for foreigners, private and not included in the composite ticket · Jantar Mantar and Hawa Mahal 600 rupees each · drivers and guides take commissions on the shops they bring you to: you can say no.
 
@@ -78,23 +80,23 @@ Jodhpur is understood from above. You sleep in one of the havelis of the old cit
 **In practice:** Jaipur-Jodhpur train about 5 hours, CC or 3A class, booking on IRCTC · in the old city the lanes are narrow: the car stops at the edges and you finish on foot or by tuk-tuk · sleep in the Ghanta Ghar or Navchokiya area, below the fort.
 
 ### Day 8 — Jodhpur: Mehrangarh Fort and the blue alleys
-**Mehrangarh Fort** is the most impressive in Rajasthan: walls up to 36 meters high on a spur of rock, seven gates with the handprints of the queens, palaces with carved sandstone windows and a museum with palanquins, weapons and miniatures. The audio guide, included in the ticket for foreigners, is among the best in India. We went up early and walked down along the path leading to the **Jaswant Thada**, the white marble cenotaph with a view of the fort.
+**Mehrangarh Fort** is the most impressive in Rajasthan: walls up to 36 meters high on a spur of rock, seven gates with the handprints of the queens, palaces with carved sandstone windows and a museum with palanquins, weapons and miniatures. The audio guide, included in the ticket for foreigners, is among the best in India. Go up early and walk down along the path leading to the **Jaswant Thada**, the white marble cenotaph with a view of the fort.
 
-In the afternoon we got lost in the blue quarter of **Navchokiya** and Brahmpuri, among temples, courtyards and staircases, as far as the stepwell of **Toorji ka Jhalra**, restored and surrounded by cafés. For anyone who wants one more activity there's the zipline on the fort walls, which passes over the bastions and the little lakes.
+The afternoon is for the blue quarter of **Navchokiya** and Brahmpuri, among temples, courtyards and staircases, as far as the stepwell of **Toorji ka Jhalra**, restored and surrounded by cafés. For anyone who wants one more activity there's the zipline on the fort walls, which passes over the bastions and the little lakes.
 
 **In practice:** Mehrangarh about 600 rupees with audio guide for foreigners · Jaswant Thada separate ticket, a few tens of rupees for Indians, more for foreigners · the stairs of the blue alleys aren't suitable for wheeled suitcases.
 
 ### Day 9 — From Jodhpur to Udaipur via the Ranakpur temple
-We did the longest transfer of the trip by car with a driver, breaking it up with one of the finest stops in Rajasthan: the fifteenth-century **Jain temple of Ranakpur**, with 1,444 marble columns, each carved differently, and light coming in from the inner courtyards. Non-Jains can only enter in the midday-to-afternoon window: that's why we left Jodhpur in the morning, to arrive right at opening.
+The longest transfer of the trip is done by car with a driver, breaking it up with one of the finest stops in Rajasthan: the fifteenth-century **Jain temple of Ranakpur**, with 1,444 marble columns, each carved differently, and light coming in from the inner courtyards. Non-Jains can only enter in the midday-to-afternoon window: that's why it's best to leave Jodhpur in the morning, to arrive right at opening.
 
-We continued through the Aravalli hills to **Udaipur**, reached in the late afternoon. Anyone with time and legs can make the detour to **Kumbhalgarh**, the fort with the second-longest wall in the world after the Chinese one, but it adds a good two hours to the day. The first evening we had dinner on a terrace overlooking **Lake Pichola**, with the City Palace lit up on the opposite shore.
+You continue through the Aravalli hills to **Udaipur**, reached in the late afternoon. Anyone with time and legs can make the detour to **Kumbhalgarh**, the fort with the second-longest wall in the world after the Chinese one, but it adds a good two hours to the day. The first evening, dinner on a terrace overlooking **Lake Pichola**, with the City Palace lit up on the opposite shore.
 
 **In practice:** Jodhpur-Ranakpur about 3 hours, Ranakpur-Udaipur about 2 hours · Ranakpur open to non-Jains from about 12 to 5 p.m., no leather (belts, bags) and no food inside, shoulders and legs covered · Kumbhalgarh is about an hour and a half from Ranakpur.
 
 ### Day 10 — Udaipur: City Palace, Lake Pichola and departure
-The last day is for Udaipur, the most romantic city in Rajasthan. The **City Palace** is a complex of palaces built over four centuries on the lakeshore, with courtyards of peacock mosaics, balconies over the Pichola and the crystal collection. Then we went on to the Jagdish temple, a few steps away, and the Gangaur and Ambrai ghats, where women wash clothes in the morning.
+The last day is for Udaipur, the most romantic city in Rajasthan. The **City Palace** is a complex of palaces built over four centuries on the lakeshore, with courtyards of peacock mosaics, balconies over the Pichola and the crystal collection. Then the Jagdish temple, a few steps away, and the Gangaur and Ambrai ghats, where women wash clothes in the morning.
 
-In the afternoon we took a boat ride on **Lake Pichola**, stopping at Jag Mandir, the palace on the island. For sunset you climb to the **Sajjangarh** garden, the Monsoon Palace, or stay on a terrace at Ambrai Ghat. An evening flight from Udaipur to Delhi and a night connection to Europe, or one more night in Udaipur, which is never wasted.
+In the afternoon, a boat ride on **Lake Pichola**, stopping at Jag Mandir, the palace on the island. For sunset you climb to the **Sajjangarh** garden, the Monsoon Palace, or stay on a terrace at Ambrai Ghat. An evening flight from Udaipur to Delhi and a night connection to Europe, or one more night in Udaipur, which is never wasted.
 
 **In practice:** City Palace from 400 rupees (museum only) to about 600-700 for foreigners, more for the camera and the crystal museum · boat on the Pichola from the City Palace or Lal Ghat jetty, it costs more at sunset · Udaipur airport about 30 minutes from the center, flight to Delhi about 1 hour 30 minutes.
 
@@ -151,10 +153,11 @@ Prices per person in a double room, intercontinental flights excluded (from Ital
 - **With Jaisalmer and the desert (+3 days):** from Jodhpur to Jaisalmer it's about 5 hours by car or train. The golden city, with its inhabited fort and sandstone havelis, and a night in the Thar Desert with camels among the dunes of Sam or Khuri, are worth the trip. You return to Jodhpur or fly from Jaisalmer when seasonal flights run.
 - **12-day version:** add Pushkar and one more night in Udaipur, with the excursion to Kumbhalgarh.
 - **7-day version:** Golden Triangle only (Delhi, Agra, Jaipur), returning by train or car from Jaipur to Delhi.
-- **With Varanasi:** the longer itinerary with the holy city on the Ganges is in a separate guide, *India: Rajasthan and Varanasi*.
+- **With Varanasi:** the trip Rick actually took, 19 days with Varanasi, the Ranthambore safaris, Pushkar, Jaisalmer and the desert, two nights in a sleeper berth and the driver, is in *India: Varanasi, Ranthambore and Rajasthan in 19 Days, by Overnight Train and with a Driver*.
 
 ## Practical tips / mistakes not to repeat
-- **Check the calendar before fixing Agra:** the Taj Mahal is closed on Fridays. If Day 4 falls on a Friday, swap Agra and Delhi or add a day.
+- **Check the calendar before locking in Agra:** the Taj Mahal is closed on Fridays, because the mosque inside the complex holds the midday prayer, reserved for Agra residents. If Day 4 is a Friday, go into the Taj on the afternoon of Day 3, as soon as you arrive (it closes half an hour before sunset), and move Agra Fort to the morning of Day 4, before leaving for Jaipur.
+- **There are lines at the Taj security checks:** best to bring the bare minimum and, if you can, no backpacks. Food, drones and tripods without a permit aren't allowed in.
 - **Buy ASI tickets online** and save the QR code on your phone: you skip the ticket office queues.
 - **Book trains 3-4 weeks ahead** and check your ticket status: a ticket in WL (wait list) doesn't entitle you to a seat.
 - **Don't do more than one city a day.** A transfer in India always takes longer than expected.
@@ -166,6 +169,8 @@ Prices per person in a double room, intercontinental flights excluded (from Ital
 
 ## Chiusura personale
 Ten days in Rajasthan aren't enough to understand India, but they are enough to understand whether you want to come back. It's a trip made of strong contrasts: the noise of Delhi and the silence of the Taj at six in the morning, the chaos of the Jaipur bazaars and the wind on the walls of Mehrangarh, the constant horns on the roads and the calm of a terrace on Lake Pichola at sunset. Anyone who prepares it well, with booked trains, a reliable driver and two nights in every city, goes home wanting to see the rest: Varanasi, the Thar Desert, the South.
+
+*This itinerary isn't a trip Rick took this way: it's a short version built on research and on his longer trip, India: Varanasi, Ranthambore and Rajasthan in 19 Days, by Overnight Train and with a Driver. From that trip come the Rajasthan stops, the warning about the Taj on Fridays, the tip about the security lines and the advice to choose your driver carefully (he wouldn't recommend his). Routes, times, prices and rules come from official visa and Indian railways portals, the official Taj Mahal website, monument websites, Viaggiare Sicuri and recent guides, verified in October-November 2026: double-check them before you go.*
 
 ## Tag
 `#india` `#rajasthan` `#delhi` `#agra` `#tajmahal` `#jaipur` `#jodhpur` `#udaipur` `#ranakpur` `#triangolodoro` `#asia` `#treniindiani`

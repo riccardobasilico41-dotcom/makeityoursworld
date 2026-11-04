@@ -89,6 +89,7 @@ export const QUERY = {
   'croazia/zagabria': 'Zagreb',
   'india/backwaters-alleppey': 'Alappuzha',
   'india/jaisalmer': 'Jaisalmer',
+  'india/ranthambore': 'Ranthambore National Park',
   'california/big-sur': 'Big Sur',
   'canada/toronto': 'Toronto',
   'canada/niagara': 'Niagara Falls, Ontario',

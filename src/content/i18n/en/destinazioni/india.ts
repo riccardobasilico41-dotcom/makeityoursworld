@@ -132,6 +132,40 @@ export const destinazioniIndia: Destinazione[] = [
     immagine: '/images/india/jaipur-hawa-mahal-facciata-riccardo.jpg',
   },
   {
+    slug: 'ranthambore',
+    paeseSlug: 'india',
+    ordine: 4,
+    nome: "Ranthambore",
+    tipologia: ["national park", "safari", "tigers"],
+    giorniConsigliati: "2 nights, at least two safaris",
+    visitataPersonalmente: true,
+    introduzione:
+      "One of India's most famous tiger parks, between Agra and Jaipur: dry forest, lakes and ruins, with a 10th-century fort on a cliff inside the park. You can only visit on official safaris, by jeep or open truck.",
+    percheAndarci:
+      "To see tigers in the wild a few hours from Jaipur. Besides tigers there are leopards, sloth bears, crocodiles in the lakes and plenty of deer. Ranthambore Fort is a UNESCO site along with Rajasthan's other hill forts.",
+    cosaVedere: [
+      "The park on the morning and afternoon safaris",
+      "Ranthambore Fort and the Ganesh temple on top of the cliff",
+    ],
+    cosaFare: [
+      "At least two safaris, because zones are assigned at random",
+      "Book the gypsy, the 6-seat jeep, rather than the canter that seats about twenty",
+    ],
+    doveDormire: "Lodges and hotels along the park road in Sawai Madhopur, many with safari pickup.",
+    comeArrivare: "About 5-6 hours by car from Agra, 3.5-4 from Jaipur. The station is Sawai Madhopur, on the Delhi-Mumbai line.",
+    comeSpostarsi: "On the safari vehicles (gypsy or canter) that pick you up at your hotel.",
+    periodoMigliore:
+      "October-June; the core zones (1-5) close for the monsoon, from July 1 to September 30. March to June is hot, but animals are easier to spot around water.",
+    erroriDaEvitare: [
+      "Booking late: the gypsies sell out first",
+      "Doing just one safari: the zone you get may be the wrong one",
+      "Bright clothes and loud voices on safari",
+    ],
+    esperienzeSlugs: [],
+    tripSlugs: ['india-rajasthan-varanasi'],
+    imageAlt: "Ranthambore National Park",
+  },
+  {
     slug: 'pushkar',
     paeseSlug: 'india',
     ordine: 4,
@@ -281,7 +315,7 @@ export const destinazioniIndia: Destinazione[] = [
       "On the ghats or in the alleys just behind, between Assi and Dashashwamedh: budget guesthouses, riverside havelis in the mid and high range. The new city is convenient but far from the river.",
     doveMangiare: "Lassi, kachori sabzi, tamatar chaat, malaiyo in winter, Banaras paan. Many vegetarian places.",
     comeArrivare:
-      "From Delhi by plane (about 1 hour 30 minutes) or by train (Vande Bharat in 8 hours, overnight trains in 12-13). The airport is about an hour from the ghats.",
+      "From Delhi by overnight train (about 10-11 hours in a sleeper berth, such as the Shiv Ganga Express) or on the daytime Vande Bharat (about 8 hours), or by plane (about 1 hour 30 minutes, plus an hour from the airport to the ghats).",
     comeSpostarsi: "On foot along the ghats and in the alleys, boats on the river, e-rickshaws and tuk-tuks toward the new city and Sarnath.",
     periodoMigliore:
       "October-March; November for Dev Deepawali (November 24 in 2026). December-January with thick fog at dawn. During the monsoon (July-September) the lower ghats go underwater.",
@@ -307,7 +341,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Chennai',
     tipologia: ['città', 'arrivo'],
     giorniConsigliati: 'a stopover',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione:
       "The capital of Tamil Nadu, formerly Madras, the air gateway to southeastern India. A big, hot city, with the Marina Beach seafront and the Mylapore neighborhood around the Kapaleeshwarar temple.",
     percheAndarci:
@@ -330,7 +364,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Mamallapuram',
     tipologia: ['patrimonio UNESCO', 'mare', 'templi'],
     giorniConsigliati: '1-2 days',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione:
       "The ancient port of the Pallava kings on the Coromandel coast, where between the seventh and eighth centuries sculptors invented the temple architecture of the South: temples carved from rock, bas-reliefs and the temple on the sea.",
     percheAndarci:
@@ -361,7 +395,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Madurai',
     tipologia: ['città', 'templi'],
     giorniConsigliati: '1-2 days',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione:
       "One of the oldest inhabited cities of the South, grown in concentric circles around the Meenakshi Amman temple, with its fourteen towers covered in painted deities.",
     percheAndarci:
@@ -394,7 +428,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Munnar',
     tipologia: ['montagna', 'piantagioni di tè', 'natura'],
     giorniConsigliati: '2 days',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione:
       "A hill station at about 1,600 meters in the Western Ghats of Kerala, surrounded by tea plantations covering the hills as far as the eye can see.",
     percheAndarci:
@@ -425,7 +459,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Alleppey Backwaters',
     tipologia: ['lagune', 'natura', 'houseboat'],
     giorniConsigliati: '1-2 days',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione:
       "Kerala's network of canals, lagoons and lakes running parallel to the sea between Alappuzha (Alleppey), Kumarakom and Kollam, with rice paddies below water level and villages on strips of land.",
     percheAndarci:
@@ -455,7 +489,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Fort Kochi',
     tipologia: ['città coloniale', 'cultura', 'mare'],
     giorniConsigliati: '2 days',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione:
       "The historic quarter of Kochi, a spice port for centuries, marked by the Portuguese, Dutch and British, with Chinese fishing nets on the waterfront and the Jewish quarter of Mattancherry.",
     percheAndarci:
@@ -490,7 +524,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Hampi',
     tipologia: ['patrimonio UNESCO', 'rovine', 'paesaggio'],
     giorniConsigliati: '2 days',
-    visitataPersonalmente: true,
+    visitataPersonalmente: false,
     introduzione:
       "The ruins of Vijayanagara, capital of one of the greatest empires in India, destroyed in 1565, in a landscape of granite boulders, rice paddies and banana groves along the Tungabhadra river.",
     percheAndarci:

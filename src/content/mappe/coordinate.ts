@@ -154,6 +154,7 @@ export const coordinateDestinazioni: Record<string, [number, number]> = {
   'india/mamallapuram': [12.6196, 80.19365],
   'india/munnar': [10.087, 77.06009],
   'india/pushkar': [26.48765, 74.55785],
+  'india/ranthambore': [26.0173, 76.5026],
   'india/udaipur': [24.57872, 73.68626],
   'india/varanasi': [25.33565, 83.00763],
   'indonesia/bali': [-8.51702, 115.25505],

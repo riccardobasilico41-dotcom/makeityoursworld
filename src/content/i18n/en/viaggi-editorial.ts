@@ -686,19 +686,19 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
     editorialHookType: 'mistakes',
   },
   'india-rajasthan-varanasi': {
-    seoTitle: "Rajasthan and Varanasi itinerary 17 days: Ganges to Thar",
+    seoTitle: "Varanasi, Ranthambore and Rajasthan in 19 days by train",
     seoDescription:
-      "A Rajasthan and Varanasi trip in 17 days, from the Ganges to the Thar desert, with a night train and domestic flights. Budget, 10 scams and 9 mistakes.",
-    socialTitle: "Varanasi and Rajasthan in 17 days: 10 scams to recognize and 9 mistakes to avoid",
+      "Delhi to Varanasi on the night train, then Agra, Ranthambore safaris and Rajasthan with a driver. Trains, safaris, drivers and mistakes to avoid.",
+    socialTitle: "Varanasi, Ranthambore's tigers and Rajasthan: 19 days, two nights in a sleeper and a driver to choose better than ours",
     editorialHook:
-      "In Varanasi you sleep on the river, not in the new city: the Ganges at dawn is the reason for the trip.",
-    editorialHookType: 'skip-instead',
+      "The Taj Mahal is closed on Fridays: plan your trains and driver around it.",
+    editorialHookType: 'before-you-go',
   },
   'india-sud-taj-mahal': {
-    seoTitle: "South India itinerary 17 days: Tamil Nadu, Kerala, Hampi",
+    seoTitle: "Delhi, Agra and South India in 17 days: itinerary",
     seoDescription:
-      "A South India trip of 17 days across Tamil Nadu temples, Kerala and Hampi, with a jump to Agra for the Taj Mahal. Budget, 8 scams and 8 mistakes to avoid.",
-    socialTitle: "South India in 17 days: houseboats, temples and 8 scams to recognize",
+      "Delhi and the Taj Mahal at dawn, then a flight to Chennai for Tamil Nadu, Kerala and Hampi. A 17-day plan with budget, scams and mistakes to avoid.",
+    socialTitle: "The Taj Mahal and South India in 17 days: from Delhi to the Kerala backwaters and Hampi",
     editorialHook:
       "The Alleppey houseboats offered on the piers at low prices are often not the ones in the photos: book ahead.",
     editorialHookType: 'mistakes',
