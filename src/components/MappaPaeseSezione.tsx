@@ -9,19 +9,14 @@ import { linguaCorrente } from '@/lib/i18n/server'
 import type { Lingua } from '@/lib/i18n/config'
 import { MappaPaese, type DatiMappa, type PuntoMappa } from './MappaPaese'
 import { MappaAtlante, type DatiAtlante, type TappaPercorso } from './MappaAtlante'
-import { getTripMeta } from '@/lib/geo'
+import { getPaese, getTripMeta } from '@/lib/geo'
 
 /**
- * Paesi con la mappa «da atlante» (rilievo, vicini, fiumi, percorso del viaggio):
- * per ora solo il Perù, da far vedere prima di estenderla. Serve anche il file
- * src/content/mappe/<paese>-atlante.json (tools/mappe/atlante-peru.mjs).
+ * Mappa «da atlante» (rilievo e tinta, vicini, fiumi, percorso del viaggio): per ogni Paese che ha
+ * src/content/mappe/<paese>-atlante.json (tools/mappe/atlante.mjs); gli altri restano con MappaPaese.
  */
-const ATLANTE: Record<string, { viaggio: string }> = {
-  peru: { viaggio: 'peru-itinerario' },
-}
-
 function leggiAtlante(paeseSlug: string): DatiAtlante | null {
-  if (!ATLANTE[paeseSlug]) return null
+  if (!/^[a-z-]+$/.test(paeseSlug)) return null
   const file = path.join(process.cwd(), 'src/content/mappe', `${paeseSlug}-atlante.json`)
   if (!fs.existsSync(file)) return null
   return JSON.parse(fs.readFileSync(file, 'utf8')) as DatiAtlante
@@ -201,8 +196,9 @@ export async function MappaPaeseSezione({
   // senza ripetere giorni consecutivi nello stesso posto; le tappe sono numerate alla prima comparsa
   const tappe: TappaPercorso[] = []
   const percorso: { x: number; y: number }[] = []
-  if (atlante) {
-    const meta = getTripMeta(ATLANTE[paeseSlug].viaggio, lingua)
+  const viaggio = atlante ? getPaese(paeseSlug, lingua)?.tripPrincipaleSlug : undefined
+  if (atlante && viaggio) {
+    const meta = getTripMeta(viaggio, lingua)
     const sequenza = (meta?.giorni ?? []).map((g) => g.destinazioneSlug).filter((s): s is string => !!s)
     const slugs = sequenza.length > 1 ? sequenza : (meta?.tappeMappa ?? []).map((t) => t.destinazioneSlug).filter((s): s is string => !!s)
     let ultimo = ''

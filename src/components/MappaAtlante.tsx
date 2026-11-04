@@ -15,23 +15,21 @@ import type { DatiMappa, PuntoMappa } from './MappaPaese'
  * scala e rosa dei venti. Stessa interazione di MappaPaese (zoom, scheda, filtri).
  */
 
+export type TestoLingue = Record<Lingua, string>
+
 export type DatiAtlante = {
   fonte: string
-  rilievo: { src: string; srcHd?: string; x: number; y: number; w: number; h: number }
-  vicini: { id: string; path: string }[]
+  /** tinta altimetrica + rilievo; null = tinta piatta (città-Stato, atolli) */
+  rilievo: { src: string; srcHd?: string; x: number; y: number; w: number; h: number } | null
+  /** `colore` = indice nella tavolozza delle velature: due vicini adiacenti non lo condividono */
+  vicini: { id: string; colore: number; path: string }[]
   fiumi: { id: string; peso: number; path: string }[]
   laghi: { id: string; path: string }[]
-  etichette: { id: string; tipo: 'paese' | 'mare' | 'fiume' | 'lago'; x: number; y: number; ruota?: number }[]
+  etichette: { id: string; tipo: 'paese' | 'mare' | 'fiume' | 'lago'; x: number; y: number; ruota?: number; testo: TestoLingue }[]
 }
 
 /** Tappa del viaggio sulla mappa: id del punto-destinazione, numero d'ordine, posizione. */
 export type TappaPercorso = { id: string; n: number; x: number; y: number }
-
-const NOMI: Record<Lingua, Record<string, string>> = {
-  it: { ecuador: 'Ecuador', colombia: 'Colombia', brasile: 'Brasile', bolivia: 'Bolivia', cile: 'Cile', pacifico: 'Oceano\nPacifico', amazzoni: 'Rio delle Amazzoni', ucayali: 'Ucayali', maranon: 'Marañón', titicaca: 'L. Titicaca' },
-  en: { ecuador: 'Ecuador', colombia: 'Colombia', brasile: 'Brazil', bolivia: 'Bolivia', cile: 'Chile', pacifico: 'Pacific\nOcean', amazzoni: 'Amazon', ucayali: 'Ucayali', maranon: 'Marañón', titicaca: 'L. Titicaca' },
-  es: { ecuador: 'Ecuador', colombia: 'Colombia', brasile: 'Brasil', bolivia: 'Bolivia', cile: 'Chile', pacifico: 'Océano\nPacífico', amazzoni: 'Río Amazonas', ucayali: 'Ucayali', maranon: 'Marañón', titicaca: 'L. Titicaca' },
-}
 
 const T = {
   it: {
@@ -138,15 +136,18 @@ const SCRITTA_ACQUA = '#2c5873' // ≥ 4.5:1 sull'alone panna
 const RIGA = '#93b2bc'
 const GRIGLIA = '#a9a08c'
 const BORDO_VICINO = '#9e9789'
-const VELATURE: Record<string, [string, string]> = {
-  // [velatura, bordo più carico all'interno del confine]
-  ecuador: ['#f0dedb', '#e3bdb6'],
-  colombia: ['#f1e8c9', '#e2cf92'],
-  brasile: ['#e6e0ec', '#c9bcd8'],
-  bolivia: ['#f2e1cc', '#e3c39b'],
-  cile: ['#eedbe2', '#dcb6c3'],
-}
-const VELATURA_BASE: [string, string] = ['#e6e2da', '#cfc8ba']
+// tavolozza da vecchio atlante: [velatura, bordo più carico lungo il confine]
+const VELATURE: [string, string][] = [
+  ['#f0dedb', '#e3bdb6'], // rosa
+  ['#f1e8c9', '#e2cf92'], // giallo paglia
+  ['#e6e0ec', '#c9bcd8'], // lavanda
+  ['#f2e1cc', '#e3c39b'], // pesca
+  ['#dfe8dd', '#b9cdb4'], // verde salvia
+  ['#ebe4d3', '#d3c4a3'], // sabbia
+  ['#e3e4ec', '#c1c4d6'], // grigio-azzurro
+]
+const velatura = (i: number) => VELATURE[((i % VELATURE.length) + VELATURE.length) % VELATURE.length]
+const TINTA_PIATTA = '#d3ddb4' // pianura, per i Paesi senza rilievo
 const DX = 16 // distanza dell'etichetta dal centro del pin, px
 const R_GRUPPO = 38 // sotto questa distanza (px) i luoghi si raggruppano
 
@@ -174,7 +175,6 @@ export function MappaAtlante({
 }) {
   const lingua = useLingua()
   const t = T[lingua]
-  const nomi = NOMI[lingua]
   const uid = useId().replace(/:/g, '')
   const svgRef = useRef<SVGSVGElement>(null)
   const boxRef = useRef<HTMLDivElement>(null)
@@ -300,7 +300,8 @@ export function MappaAtlante({
     }
 
     // la scala grafica (in basso a sinistra) occupa un angolo: niente scritte lì sotto
-    const presi: Box[] = [[0, r.height - 26, 130, r.height]]
+    // e la rosa dei venti (in alto a sinistra)
+    const presi: Box[] = [[0, r.height - 26, 130, r.height], [0, 0, 64, 72]]
     const libera = (b0: Box, proprio?: Box) => {
       const box: Box = [b0[0] - 3, b0[1] - 2, b0[2] + 3, b0[3] + 2] // un filo d'aria tra le scritte
       return box[0] >= 2 && box[2] <= r.width - 2 && box[1] >= 2 && box[3] <= r.height - 2 &&
@@ -700,7 +701,7 @@ export function MappaAtlante({
               {/* Paesi vicini: una velatura tenue ciascuno, più carica lungo il confine (come i vecchi atlanti) */}
               <g>
                 {atlante.vicini.map((v) => {
-                  const [velo, bordo] = VELATURE[v.id] ?? VELATURA_BASE
+                  const [velo, bordo] = velatura(v.colore)
                   return (
                     <g key={v.id}>
                       <path d={v.path} fill={velo} stroke={velo} strokeWidth={2} vectorEffect="non-scaling-stroke" />
@@ -714,18 +715,22 @@ export function MappaAtlante({
               {/* il Paese: inchiostro sotto, carta, rilievo ritagliato sulla forma */}
               <path d={mappa.path} fill="none" stroke="var(--color-ink)" strokeWidth={2.6} strokeLinejoin="round" vectorEffect="non-scaling-stroke" />
               <path d={mappa.path} fill="var(--color-cream)" />
-              <image
-                href={atlante.rilievo.src}
-                x={atlante.rilievo.x}
-                y={atlante.rilievo.y}
-                width={atlante.rilievo.w}
-                height={atlante.rilievo.h}
-                preserveAspectRatio="none"
-                clipPath={`url(#${P('paese')})`}
-                data-rilievo=""
-                opacity={0.98}
-              />
-              {dettaglio && atlante.rilievo.srcHd && (
+              {atlante.rilievo ? (
+                <image
+                  href={atlante.rilievo.src}
+                  x={atlante.rilievo.x}
+                  y={atlante.rilievo.y}
+                  width={atlante.rilievo.w}
+                  height={atlante.rilievo.h}
+                  preserveAspectRatio="none"
+                  clipPath={`url(#${P('paese')})`}
+                  data-rilievo=""
+                  opacity={0.98}
+                />
+              ) : (
+                <path d={mappa.path} fill={TINTA_PIATTA} opacity={0.9} />
+              )}
+              {dettaglio && atlante.rilievo?.srcHd && (
                 <image
                   href={atlante.rilievo.srcHd}
                   x={atlante.rilievo.x}
@@ -773,7 +778,7 @@ export function MappaAtlante({
 
               {/* scritte dell'atlante, a misura fissa: le nasconde chi non trova posto */}
               {atlante.etichette.map((e) => {
-                const righe = (nomi[e.id] ?? e.id).split('\n')
+                const righe = (e.testo[lingua] ?? e.testo.it).split('\n')
                 const acqua = e.tipo === 'fiume' || e.tipo === 'lago'
                 return (
                   <g key={e.id} data-fisso="" data-statica="" data-x={e.x} data-y={e.y} transform={`translate(${e.x} ${e.y}) scale(${scala0})`} aria-hidden className="pointer-events-none">
@@ -789,7 +794,7 @@ export function MappaAtlante({
                               : 'fill-stone font-display text-[10.5px] font-semibold uppercase tracking-[0.3em]'
                         }
                         fill={acqua || e.tipo === 'mare' ? SCRITTA_ACQUA : undefined}
-                        style={e.tipo === 'mare' ? undefined : { paintOrder: 'stroke', stroke: acqua ? 'var(--color-cream)' : (VELATURE[e.id] ?? VELATURA_BASE)[0], strokeWidth: 3, strokeLinejoin: 'round' }}
+                        style={e.tipo === 'mare' ? undefined : { paintOrder: 'stroke', stroke: acqua ? 'var(--color-cream)' : velatura(atlante.vicini.find((v) => v.id === e.id)?.colore ?? 0)[0], strokeWidth: 3, strokeLinejoin: 'round' }}
                       >
                         {righe.map((riga, i) => (
                           <tspan key={i} x={0} dy={i === 0 ? `${(-(righe.length - 1) * 0.65 + 0.35).toFixed(2)}em` : '1.3em'}>
