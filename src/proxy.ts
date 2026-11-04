@@ -2,6 +2,7 @@ import { NextResponse, type NextRequest } from 'next/server'
 import { canonico } from '@/lib/i18n/percorsi'
 import { LINGUE_PUBBLICATE, SEGMENTI } from '@/lib/i18n/config'
 import { localizza } from '@/lib/i18n/percorsi'
+import { VECCHI_SLUG_VIAGGI } from '@/lib/vecchi-slug'
 
 /*
  * Lingue negli indirizzi. Ogni indirizzo pubblico (/trips/japan-itinerary,
@@ -36,6 +37,12 @@ export function proxy(request: NextRequest) {
   if (!LINGUE_PUBBLICATE.includes(lingua)) {
     url.pathname = localizza(percorso, 'en')
     return NextResponse.redirect(url, 307)
+  }
+  // viaggi rinominati: 308 al nome nuovo (le pagine rispondono 404 agli slug che non conoscono)
+  const vecchio = percorso.match(/^\/viaggi\/([^/]+)$/)?.[1]
+  if (vecchio && VECCHI_SLUG_VIAGGI[vecchio]) {
+    url.pathname = localizza(`/viaggi/${VECCHI_SLUG_VIAGGI[vecchio]}`, lingua)
+    return NextResponse.redirect(url, 308)
   }
   url.pathname = `/${lingua}${percorso === '/' ? '' : percorso}`
   return NextResponse.rewrite(url)

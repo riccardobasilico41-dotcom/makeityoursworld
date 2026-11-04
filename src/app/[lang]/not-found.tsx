@@ -66,7 +66,12 @@ export default async function NotFound() {
   return (
     <>
       <PageHeader
-        eyebrow={t.eyebrow}
+        eyebrow={
+          // «ERROR 404» enorme, da cartello stradale: è la prima cosa che si legge
+          <span className="block font-display text-[clamp(4.5rem,16vw,11rem)] leading-[0.85] tracking-tight normal-case text-cream [text-shadow:0_4px_32px_rgb(0_0_0/0.45)]">
+            ERROR <span className="text-[oklch(70%_0.16_32)]">404</span>
+          </span>
+        }
         title={t.titolo}
         lead={<p>{t.lead}</p>}
         actions={

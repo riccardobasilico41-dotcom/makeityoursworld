@@ -17,8 +17,11 @@ export const AFFILIAZIONI = {
   getyourguide: { partnerId: '' },
   /** Viator (Tripadvisor) Partner: `pid` e `mcid`. */
   viator: { pid: '', mcid: '' },
-  /** Amazon Associates Italia: `tag` (es. makeityours-21). */
-  amazon: { tag: '' },
+  /**
+   * Amazon Associates: un `tag` per negozio, perché ogni programma nazionale ha il suo
+   * (Italia e Spagna finiscono in -21, Stati Uniti in -20). Vuoto = link senza affiliazione.
+   */
+  amazon: { it: '', en: '', es: '' } as Record<Lingua, string>,
   /** Link affiliati completi, da incollare quando arrivano dai programmi. */
   heymondo: { link: '' },
   airalo: { link: '' },
@@ -102,7 +105,7 @@ export const link = {
       mcid: AFFILIAZIONI.viator.mcid,
     }),
   amazon: (ricerca: string, lingua: Lingua) =>
-    conParametri(SITI[lingua].amazon, { k: ricerca, tag: AFFILIAZIONI.amazon.tag }),
+    conParametri(SITI[lingua].amazon, { k: ricerca, tag: AFFILIAZIONI.amazon[lingua] }),
   assicurazione: (lingua: Lingua) => AFFILIAZIONI.heymondo.link || SITI[lingua].heymondo,
   esim: (lingua: Lingua) => AFFILIAZIONI.airalo.link || SITI[lingua].airalo,
   esimAlternativa: (lingua: Lingua) => AFFILIAZIONI.holafly.link || SITI[lingua].holafly,

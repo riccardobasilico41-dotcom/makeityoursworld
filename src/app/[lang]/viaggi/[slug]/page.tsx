@@ -4,7 +4,7 @@ import { SalvaBottone } from '@/components/SalvaBottone'
 import { ScaricaGuida } from '@/components/ScaricaGuida'
 import { FirmaAutore, FirmaBreve } from '@/components/FirmaAutore'
 import { OrganizzaViaggio } from '@/components/OrganizzaViaggio'
-import { notFound, permanentRedirect } from 'next/navigation'
+import { notFound } from 'next/navigation'
 import { listaPerViaggio, copertina as copertinaViaggio, editoriale } from '@/lib/i18n/contenuti'
 import { linguaCorrente } from '@/lib/i18n/server'
 import { LOCALE, type Lingua } from '@/lib/i18n/config'
@@ -12,14 +12,6 @@ import { etichetta } from '@/lib/i18n/etichette'
 import { localizza } from '@/lib/i18n/percorsi'
 
 /** Vecchi indirizzi con «-360» (titoli rinominati il 30/10/2026): redirect permanente al nuovo. */
-const VECCHI_SLUG: Record<string, string> = {
-  'giordania-360': 'giordania-itinerario',
-  'marocco-360': 'marocco-itinerario',
-  'new-york-360': 'new-york-itinerario',
-  'florida-360': 'florida-road-trip',
-  'costa-rica-360': 'costa-rica-itinerario',
-  'giappone-360': 'giappone-itinerario',
-}
 import { Prose } from '@/components/Prose'
 import { Tendina } from '@/components/Tendina'
 import { ScrollProgress } from '@/components/motion-primitives/scroll-progress'
@@ -200,7 +192,6 @@ export default async function ViaggioPage({ params }: { params: Promise<{ slug: 
   const { slug } = await params
   const lingua = await linguaCorrente()
   const t = T[lingua]
-  if (VECCHI_SLUG[slug]) permanentRedirect(localizza(`/viaggi/${VECCHI_SLUG[slug]}`, lingua))
   const viaggio = getViaggioBySlug(slug, lingua)
   if (!viaggio) notFound()
 
