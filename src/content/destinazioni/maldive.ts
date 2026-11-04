@@ -31,6 +31,79 @@ export const destinazioniMaldive: Destinazione[] = [
     comeSpostarsi: 'A piedi e in taxi.',
     periodoMigliore: 'tutto l\'anno.',
     erroriDaEvitare: ['Visitare le moschee durante la preghiera o senza abiti coperti', 'Cercare alcol: Malé e Hulhumalé sono isole abitate, e lì vale il divieto'],
+    luoghi: [
+      {
+        "nome": "Mercato del pesce di Malé",
+        "testo": "Dove arrivano i tonni pescati all'alba, tagliati davanti a chi guarda. Accanto c'è il mercato della frutta e verdura.",
+        "come": "Dal terminal del traghetto aeroportuale, a piedi in pochi minuti.",
+        "quando": "Mattina presto, quando arriva il pesce.",
+        "tempo": "1 ora",
+        "consiglio": "Per le foto alle persone, chiedere sempre il permesso."
+      },
+      {
+        "nome": "Moschea del Venerdì (Hukuru Miskiy)",
+        "testo": "Una moschea in pietra di corallo del Seicento, con pareti scolpite e soffitti in legno laccato.",
+        "come": "A piedi dal centro di Malé. Visitabile con abiti coperti.",
+        "quando": "Fuori dagli orari di preghiera.",
+        "tempo": "30 minuti",
+        "consiglio": "Spalle e ginocchia coperte; durante la preghiera non si entra."
+      },
+      {
+        "nome": "Spiaggia di Hulhumalé",
+        "testo": "La spiaggia cittadina dell'isola artificiale accanto all'aeroporto, con lungomare e ristoranti. Comoda per la prima o l'ultima notte.",
+        "come": "Da Velana in bus o taxi, 10-15 minuti.",
+        "quando": "Tramonto e sera.",
+        "tempo": "una sera",
+        "consiglio": "È un'isola abitata: valgono le regole locali, quindi abiti coperti e niente alcol."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Mercato del pesce e della frutta al mattino",
+          "Moschea del Venerdì fuori dalla preghiera",
+          "Traghetto per l'aeroporto o bus per Hulhumalé",
+          "Cena sul lungomare di Hulhumalé"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Hulhumalé",
+        "perChi": "prima o ultima notte",
+        "testo": "A 10-15 minuti da Velana, con hotel e guesthouse da 60 a 150 $ e ristoranti sul lungomare. Moderna e un po' anonima."
+      },
+      {
+        "nome": "Malé",
+        "perChi": "chi vuole la città",
+        "testo": "Capitale densissima, rumorosa e senza spiaggia. Utile per una mezza giornata, meno per dormire."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Short eats",
+        "testo": "Gulha, bajiya e kavaabu: snack fritti del pomeriggio nei caffè locali."
+      },
+      {
+        "nome": "Mas huni",
+        "testo": "Tonno, cocco grattugiato, cipolla e peperoncino con la roshi, una piadina: la colazione maldiviana."
+      },
+      {
+        "nome": "Garudhiya",
+        "testo": "Brodo di tonno con riso, lime e peperoncino."
+      },
+      {
+        "nome": "Curry di tonno",
+        "testo": "Pesce del giorno in curry, nei caffè e nelle guesthouse."
+      }
+    ],
+    attenzioni: [
+      "Sulle isole abitate (Malé, Hulhumalé) l'alcol non si vende né si beve. Importarlo è vietato.",
+      "Dal 12 novembre 2024 le sigarette elettroniche sono vietate, importazione e uso compresi.",
+      "Compilare la IMUGA nelle 96 ore prima del volo.",
+      "È vietato portare via coralli, conchiglie e sabbia, anche dalla spiaggia: in aeroporto vengono sequestrati e si rischia una multa."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['maldive-guida'],
     imageAlt: 'Malé vista dall\'alto, con il porto pieno di barche e gli edifici colorati della capitale',
@@ -60,6 +133,82 @@ export const destinazioniMaldive: Destinazione[] = [
     comeSpostarsi: 'Escursioni in barca organizzate dalle guesthouse.',
     periodoMigliore: 'dicembre-aprile per il mare calmo; da maggio a novembre speedboat più mossi.',
     erroriDaEvitare: ['Aspettarsi un villaggio tranquillo a Maafushi: è molto costruita e affollata', 'Contare sui traghetti di venerdì'],
+    luoghi: [
+      {
+        "nome": "Maafushi e la bikini beach",
+        "testo": "L'isola locale più sviluppata vicino a Malé, con una bikini beach segnalata, molte guesthouse e barriere vicine dove si vedono tartarughe.",
+        "come": "Speedboat da Malé in 30-90 minuti, oppure traghetto MTCC economico con poche partenze.",
+        "quando": "Tutto l'anno; da dicembre ad aprile il mare è più calmo.",
+        "tempo": "2-3 giorni",
+        "costo": "Speedboat indicativamente 25-40 $ a tratta (indicativo, 2026)",
+        "consiglio": "È molto costruita e affollata: non è il villaggio tranquillo che ci si aspetta."
+      },
+      {
+        "nome": "Fulidhoo",
+        "testo": "Una piccola isola locale di Vaavu, tranquilla, con strade di sabbia e pochi turisti.",
+        "come": "Speedboat o ferri da Malé; le escursioni si prenotano in guesthouse.",
+        "tempo": "2-3 giorni"
+      },
+      {
+        "nome": "Canali di Vaavu e Alimatha",
+        "testo": "I canali di Fotteyo e Miyaru Kandu portano squali grigi. Ad Alimatha l'immersione notturna è nota per le decine di squali nutrice.",
+        "come": "Con i centri diving e le escursioni delle guesthouse.",
+        "quando": "Dicembre-aprile per il mare calmo.",
+        "tempo": "una giornata",
+        "consiglio": "I canali hanno corrente: servono esperienza e mesi di immersioni alle spalle."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorno 1: speedboat da Malé a Maafushi, snorkeling con le tartarughe",
+          "Giorno 2: escursione di snorkeling o immersione con gli squali nutrice",
+          "Giorno 3: giornata in un resort vicino, oppure Vaavu"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Maafushi",
+        "perChi": "servizi e scelta",
+        "testo": "La più sviluppata, con molte guesthouse e ristoranti. Affollata e costruita."
+      },
+      {
+        "nome": "Guraidhoo e Gulhi",
+        "perChi": "più calma",
+        "testo": "Isole più piccole e più tranquille nello stesso atollo."
+      },
+      {
+        "nome": "Fulidhoo",
+        "perChi": "poco turistico",
+        "testo": "A Vaavu, tranquilla e con poche strutture."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Mas huni",
+        "testo": "Colazione di tonno, cocco e cipolla con la roshi, nelle guesthouse."
+      },
+      {
+        "nome": "Garudhiya",
+        "testo": "Brodo di tonno con riso, lime e peperoncino."
+      },
+      {
+        "nome": "Pesce alla griglia",
+        "testo": "Pescato in giornata e cotto alla brace nelle guesthouse."
+      },
+      {
+        "nome": "Short eats",
+        "testo": "Gulha e bajiya fritti nei caffè dell'isola, nel pomeriggio."
+      }
+    ],
+    attenzioni: [
+      "Il venerdì è giorno di festa: negozi e caffè chiudono dalla tarda mattinata, i ferry lunghi non viaggiano e le escursioni possono essere ridotte.",
+      "Bikini solo sulla bikini beach segnalata; altrove spalle e ginocchia coperte, anche per il bagno.",
+      "I traghetti MTCC sono lenti, con poche partenze, e i biglietti si pagano in contanti al terminal il giorno stesso.",
+      "Le escursioni delle guesthouse hanno prezzi a cartello: confrontare con altre se possibile."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['maldive-guida'],
     imageAlt: 'Una strada di sabbia tra le palme e le case basse di un\'isola locale delle Maldive',
@@ -88,6 +237,82 @@ export const destinazioniMaldive: Destinazione[] = [
     periodoMigliore: 'dicembre-maggio per gli squali martello.',
     costi: 'Immersione 50-80 $ dai centri locali.',
     erroriDaEvitare: ['Tentare l\'immersione degli squali martello senza esperienza in blu e in profondità'],
+    luoghi: [
+      {
+        "nome": "Hammerhead Point",
+        "testo": "Il lato esterno dell'atollo precipita nel blu profondo. All'alba, da dicembre a maggio, salgono gli squali martello. È un'immersione in blu, per subacquei esperti.",
+        "come": "Con un centro diving di Rasdhoo, in barca all'alba.",
+        "quando": "All'alba, da dicembre a maggio.",
+        "tempo": "mezza giornata",
+        "costo": "Immersione 50-80 $ dai centri locali (indicativo, 2026)",
+        "consiglio": "Non farla senza esperienza in blu e in profondità."
+      },
+      {
+        "nome": "Ukulhas con Reef Rangers",
+        "testo": "Un'isola locale di Ari Nord, bella e molto autentica, più isola vissuta che paradiso tropicale. Ci abbiamo passato una settimana: era un imprevisto, perché i voli sono stati cancellati allo scoppio della guerra in Medio Oriente. Abbiamo fatto immersioni e brevetti con Reef Rangers Ukulhas, bravissimi.",
+        "come": "Speedboat da Malé, circa 1 ora-1 ora e mezza.",
+        "tempo": "3-4 giorni, o di più per un brevetto",
+        "consiglio": "Per diving e brevetti: Reef Rangers Ukulhas. Tenere sempre un giorno di margine prima del volo."
+      },
+      {
+        "nome": "Barriere di Rasdhoo, Ukulhas e Thoddoo",
+        "testo": "Snorkeling sulle barriere della laguna, con mante e tartarughe. Le spiagge e i giardini di Ukulhas e Thoddoo.",
+        "come": "Escursioni in barca dalle guesthouse e dai centri diving.",
+        "quando": "Dicembre-maggio per gli squali martello.",
+        "tempo": "una giornata"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorno 1: speedboat da Malé a Rasdhoo, snorkeling sul reef",
+          "Giorno 2: immersione all'alba a Hammerhead Point (esperti) o snorkeling con le mante",
+          "Giorno 3: Ukulhas e Thoddoo"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Rasdhoo",
+        "perChi": "subacquei",
+        "testo": "Isola locale con buoni centri diving e guesthouse. Comoda per l'alba sugli squali martello."
+      },
+      {
+        "nome": "Ukulhas",
+        "perChi": "chi cerca un'isola vissuta",
+        "testo": "Autentica, con diving e brevetti. Meno paradiso tropicale che a Dhigurah."
+      },
+      {
+        "nome": "Thoddoo",
+        "perChi": "verde e calma",
+        "testo": "Isola agricola, con giardini e meno turisti."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Pesce alla griglia",
+        "testo": "Pescato del giorno nelle guesthouse, con riso e contorni."
+      },
+      {
+        "nome": "Mas huni",
+        "testo": "Tonno, cocco e cipolla con la roshi a colazione."
+      },
+      {
+        "nome": "Curry di tonno",
+        "testo": "Curry di tonno con riso, nelle guesthouse a cena."
+      },
+      {
+        "nome": "Frutta di Thoddoo",
+        "testo": "Anguria, papaya e altra frutta coltivata sull'isola."
+      }
+    ],
+    attenzioni: [
+      "Imprevisti sui voli: tenere un giorno di margine, perché cancellazioni e ritardi possono tenerti fermo sull'isola.",
+      "Hammerhead Point senza esperienza in blu e in profondità è pericoloso.",
+      "Ultima immersione almeno 24 ore prima del volo, idrovolante compreso, e assicurazione con copertura subacquea.",
+      "Il venerdì molti negozi chiudono e le escursioni possono ridursi."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['maldive-guida'],
     imageAlt: 'La spiaggia bianca sul lato della laguna di Kuramathi, nell\'atollo di Rasdhoo',
@@ -124,6 +349,99 @@ export const destinazioniMaldive: Destinazione[] = [
       'Avvicinarsi a meno di 3 metri dallo squalo balena, toccarlo o usare il flash',
       'Scegliere operatori che non rispettano i limiti di barche e nuotatori',
     ],
+    luoghi: [
+      {
+        "nome": "Squalo balena lungo la barriera esterna",
+        "testo": "L'area marina protetta tra Maamigili e Dhigurah, dove gli squali balena giovani si nutrono lungo la barriera esterna tutto l'anno. È il posto più semplice delle Maldive per nuotarci.",
+        "come": "Escursione in barca dalle guesthouse e dai centri diving di Dhigurah e Dhangethi.",
+        "quando": "Tutto l'anno; la finestra più citata è dicembre-aprile.",
+        "tempo": "mezza giornata",
+        "costo": "60-120 $ a persona (indicativo, 2026)",
+        "consiglio": "Restare a oltre 3 metri dall'animale, non toccarlo e niente flash. Scegliere operatori che rispettano i limiti di barche e nuotatori."
+      },
+      {
+        "nome": "Mante nelle stazioni di pulizia",
+        "testo": "Le mante frequentano le stazioni di pulizia intorno a Rangali, sul lato occidentale dell'atollo. Si vedono in snorkeling o in immersione.",
+        "come": "In barca con le guesthouse o i centri diving.",
+        "quando": "Stagione secca, da dicembre.",
+        "tempo": "mezza giornata",
+        "costo": "Mante e sandbank 70-130 $ (indicativo, 2026)"
+      },
+      {
+        "nome": "Bikini beach di Dhigurah",
+        "testo": "Dhigurah è incredibile, probabilmente l'isola più completa di tutte le Maldive. Una lunga spiaggia, anche se un po' di gente c'è comunque.",
+        "come": "Speedboat da Malé in 1 ora e mezza-2 ore, oppure volo interno a Maamigili e barca.",
+        "tempo": "mezza giornata",
+        "costo": "Speedboat 50-70 $ a tratta (indicativo, 2026)",
+        "consiglio": "Per le escursioni non hai autonomia nella scelta: dipendi dalla tua homestay o dal tuo hotel, e i prezzi sono «a cartello»."
+      },
+      {
+        "nome": "Sandbank della laguna",
+        "testo": "Lingue di sabbia che emergono nella laguna, con picnic e snorkeling.",
+        "come": "Escursione in barca dalle guesthouse.",
+        "tempo": "mezza giornata",
+        "costo": "Sandbank con picnic 40-80 $ (indicativo, 2026)"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: speedboat da Malé a Dhigurah, spiaggia e tramonto",
+          "Giorno 2: squalo balena al mattino, sandbank nel pomeriggio"
+        ]
+      },
+      {
+        "titolo": "4 giorni",
+        "tappe": [
+          "Giorno 1: arrivo a Dhigurah",
+          "Giorno 2: squalo balena",
+          "Giorno 3: mante in snorkeling o immersione",
+          "Giorno 4: sandbank e pesca al tramonto, poi rientro"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Dhigurah",
+        "perChi": "spiaggia lunga",
+        "testo": "Isola lunga e stretta con spiaggia, guesthouse e homestay. Un po' di gente c'è, ma resta la più completa."
+      },
+      {
+        "nome": "Dhangethi",
+        "perChi": "alternativa più piccola",
+        "testo": "Isola locale con guesthouse e centri diving, più raccolta."
+      },
+      {
+        "nome": "Resort vicini",
+        "perChi": "chi vuole alcol e comfort",
+        "testo": "Su isole vicine, con transfer in speedboat. Tutto più caro, ma si può bere alcol."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Mas huni",
+        "testo": "Colazione di tonno, cocco e cipolla con la roshi."
+      },
+      {
+        "nome": "Garudhiya",
+        "testo": "Brodo di tonno con riso, lime e peperoncino."
+      },
+      {
+        "nome": "Pesce alla griglia",
+        "testo": "Pescato in giornata, nelle guesthouse a cena."
+      },
+      {
+        "nome": "Short eats",
+        "testo": "Gulha, bajiya e kavaabu nel pomeriggio."
+      }
+    ],
+    attenzioni: [
+      "Squalo balena: non avvicinarsi a meno di 3 metri, non toccarlo e niente flash.",
+      "Non scegliere operatori che non rispettano i limiti di barche e nuotatori.",
+      "I prezzi delle escursioni sono «a cartello» e si può contare solo sulla propria struttura: chiedere cosa è compreso.",
+      "Ultima immersione almeno 24 ore prima del volo, idrovolante compreso."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['maldive-guida'],
     imageAlt: 'Uno squalo balena che nuota appena sotto la superficie, l\'incontro per cui si va ad Ari Sud',
@@ -153,6 +471,74 @@ export const destinazioniMaldive: Destinazione[] = [
       'Aspettarsi di immergersi con le bombole: a Hanifaru è consentito solo lo snorkeling',
       'Prenotare all\'ultimo minuto in agosto-ottobre: gli ingressi sono contingentati',
     ],
+    luoghi: [
+      {
+        "nome": "Baia di Hanifaru",
+        "testo": "Una piccola baia nella riserva della biosfera UNESCO di Baa, dove tra giugno e novembre si radunano decine, a volte oltre cento, mante a nutrirsi di plancton. Si osserva in snorkeling.",
+        "come": "In barca da Dharavandhoo o Thulhaadhoo con guida autorizzata. Le immersioni con bombole sono vietate.",
+        "quando": "Da giugno a novembre, con picco tra agosto e ottobre nelle settimane intorno a luna nuova e luna piena.",
+        "tempo": "mezza giornata",
+        "costo": "Ingresso 20 $ a persona al giorno per il fondo di conservazione dell'atollo, di solito già incluso nell'escursione (indicativo, 2026)",
+        "consiglio": "Prenotare in anticipo in agosto-ottobre: gli ingressi sono contingentati."
+      },
+      {
+        "nome": "Barriere e thila dell'atollo",
+        "testo": "Fuori dalla baia, le immersioni nei siti dell'atollo, tra pinnacoli sommersi e barriere.",
+        "come": "Con i centri diving delle isole locali o dei resort.",
+        "tempo": "una giornata"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorno 1: idrovolante o volo interno a Dharavandhoo, poi barca alla guesthouse",
+          "Giorno 2: Hanifaru in snorkeling con guida autorizzata",
+          "Giorno 3: snorkeling o immersioni fuori dalla baia"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Dharavandhoo",
+        "perChi": "vicino alla baia",
+        "testo": "Isola locale con aeroporto e guesthouse, la base più vicina a Hanifaru."
+      },
+      {
+        "nome": "Thulhaadhoo",
+        "perChi": "isola tranquilla",
+        "testo": "Isola locale con guesthouse, meno turistica."
+      },
+      {
+        "nome": "Resort di Baa",
+        "perChi": "chi vuole comfort",
+        "testo": "Sulle isole dell'atollo, con idrovolante da Malé. Caro ma comodo per le mante."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Mas huni",
+        "testo": "Tonno, cocco e cipolla con la roshi."
+      },
+      {
+        "nome": "Garudhiya",
+        "testo": "Brodo di tonno con riso, lime e peperoncino."
+      },
+      {
+        "nome": "Pesce alla griglia",
+        "testo": "Pescato in giornata, nelle guesthouse."
+      },
+      {
+        "nome": "Buffet dei resort",
+        "testo": "Cucina internazionale e di pesce, a prezzi alti alla carta: la pensione completa spesso conviene."
+      }
+    ],
+    attenzioni: [
+      "A Hanifaru è consentito solo lo snorkeling: niente bombole.",
+      "In agosto-ottobre gli ingressi sono contingentati: non prenotare all'ultimo minuto.",
+      "Le mante non sono garantite: dipendono da marea, luna e plancton.",
+      "L'idrovolante vola solo di giorno e ha limiti di bagaglio: controllare prima."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['maldive-guida'],
     imageAlt: 'Un gruppo di mante viste dall\'alto mentre nuotano nell\'acqua turchese',
@@ -180,6 +566,69 @@ export const destinazioniMaldive: Destinazione[] = [
     comeSpostarsi: 'Bici, scooter, taxi.',
     periodoMigliore: 'tutto l\'anno; il mare può essere mosso da maggio a novembre.',
     erroriDaEvitare: ['Andarci senza esperienza: correnti e condizioni oceaniche richiedono brevetto avanzato e un buon numero di immersioni'],
+    luoghi: [
+      {
+        "nome": "Tiger Zoo, gli squali tigre",
+        "testo": "Il sito di immersione degli squali tigre, presenti tutto l'anno, insieme a squali volpe, martello e mola mola in alcune stagioni. Non è un posto per principianti: serve esperienza e spesso si è nel blu, ma se piacciono i grandi pelagici è incredibile.",
+        "come": "Con un centro diving dell'isola. Consiglio fuvahmulahdive.com.",
+        "quando": "Tutto l'anno; il mare può essere mosso da maggio a novembre.",
+        "tempo": "una giornata",
+        "consiglio": "Serve un brevetto avanzato e un buon numero di immersioni: correnti e condizioni oceaniche non perdonano."
+      },
+      {
+        "nome": "Laghi interni e spiaggia di Thoondu",
+        "testo": "L'isola ha laghi d'acqua dolce e una vegetazione fitta, caso raro alle Maldive. La spiaggia di Thoondu ha la sabbia di ciottoli bianchi.",
+        "come": "In bici, scooter o taxi sull'isola.",
+        "tempo": "mezza giornata"
+      },
+      {
+        "nome": "Giro in bici dell'isola",
+        "testo": "L'atollo è formato da una sola isola, senza laguna, con l'oceano profondo a pochi metri dalla riva. Un giro in bici permette di vederla tutta.",
+        "come": "Bici a noleggio nel paese.",
+        "tempo": "mezza giornata"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorno 1: volo interno da Malé (1 ora e 20), giro dell'isola",
+          "Giorno 2: immersioni con gli squali tigre",
+          "Giorno 3: laghi interni e spiaggia di Thoondu"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Guesthouse legate ai centri diving",
+        "perChi": "subacquei",
+        "testo": "Sistemazione semplice, spesso prenotata insieme alle immersioni. L'isola è piccola, quindi ci si sposta in bici o scooter."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Mas huni",
+        "testo": "Tonno, cocco e cipolla con la roshi a colazione."
+      },
+      {
+        "nome": "Garudhiya",
+        "testo": "Brodo di tonno con riso, lime e peperoncino."
+      },
+      {
+        "nome": "Pesce del giorno",
+        "testo": "Alla griglia o in curry nelle guesthouse."
+      },
+      {
+        "nome": "Frutta dell'isola",
+        "testo": "Papaya, banana e cocco coltivati nei campi dell'isola, che ha vegetazione fitta."
+      }
+    ],
+    attenzioni: [
+      "Andarci senza esperienza: correnti e condizioni oceaniche richiedono brevetto avanzato e un buon numero di immersioni.",
+      "Ultima immersione almeno 24 ore prima del volo, e assicurazione con copertura subacquea.",
+      "Il mare può essere mosso da maggio a novembre.",
+      "Il volo interno ha limiti di bagaglio: controllare prima di partire."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['maldive-guida'],
     imageAlt: 'Uno squalo tigre che nuota sul fondale sabbioso',

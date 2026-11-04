@@ -30,6 +30,72 @@ export const destinazioniSriLanka: Destinazione[] = [
     erroriDaEvitare: [],
     miaEsperienza:
       'Il fish market di Negombo la mattina presto è stato uno spettacolo genuino, un buon modo per prendere confidenza con il paese appena arrivati.',
+    luoghi: [
+      {
+        "nome": "Mercato del pesce di Negombo",
+        "testo": "Sulla spiaggia le barche da pesca scaricano all'alba e il pesce viene steso ad asciugare o venduto subito. Un spettacolo genuino, un buon modo per prendere confidenza con il paese appena arrivati.",
+        "come": "A pochi minuti dal centro, in tuk-tuk o a piedi dagli hotel sul mare.",
+        "quando": "Alba o mattina presto.",
+        "tempo": "1 ora",
+        "consiglio": "Andare presto: a metà mattina l'attività è quasi finita."
+      },
+      {
+        "nome": "Chiesa di Santa Maria",
+        "testo": "Negombo è chiamata la «piccola Roma» per le sue chiese cattoliche. Santa Maria ha un soffitto dipinto.",
+        "come": "A piedi o in tuk-tuk dal centro.",
+        "tempo": "30 minuti",
+        "consiglio": "Spalle e ginocchia coperte, come in tutti i luoghi di culto."
+      },
+      {
+        "nome": "Cena sul mare",
+        "testo": "Negombo è la tappa ideale per la cena di benvenuto o di addio: Salt Restaurant, Tuk Tuk Wine & Dine e Jude Restaurant.",
+        "tempo": "una sera",
+        "costo": "Cena circa 12 € a testa (dal viaggio del 2023)",
+        "consiglio": "Jude Restaurant: pesce buono ma servizio lento."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Mercato del pesce all'alba",
+          "Chiesa di Santa Maria",
+          "Pranzo di pesce a SeaJoy",
+          "Cena di benvenuto o di addio sul mare"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Lungomare di Negombo",
+        "perChi": "arrivo e partenza",
+        "testo": "Hotel sul mare, vicini all'aeroporto di Colombo. Comodo, ma poco di autentico fuori dal mercato del pesce."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Pesce alla griglia",
+        "testo": "Pescato del giorno nei ristoranti sul mare, come Jude."
+      },
+      {
+        "nome": "Rice and curry",
+        "testo": "Riso con più curry di verdure, pesce o pollo: il pasto base dello Sri Lanka."
+      },
+      {
+        "nome": "Kottu",
+        "testo": "Roti tagliato a strisce e saltato con verdure e uova o carne, nei locali di strada."
+      },
+      {
+        "nome": "Hoppers",
+        "testo": "Piccole ciotole di pastella di riso e cocco, con un uovo al centro: colazione o cena."
+      }
+    ],
+    attenzioni: [
+      "Il visto elettronico ETA è obbligatorio: richiederlo online sul sito ufficiale eta.gov.lk. Per i passaporti italiani è gratuito dal 25 maggio 2026, ma le condizioni cambiano: controllare prima di partire.",
+      "Comprare la SIM locale (Dialog o SLT Mobitel) subito dopo il controllo passaporti: costa meno che al desk prima dei controlli.",
+      "Concordare il prezzo del tuk-tuk o del transfer prima di salire.",
+      "Nei luoghi di culto servono spalle e ginocchia coperte: portare un pareo o pantaloni lunghi."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['sri-lanka-2023'],
     imageAlt: 'Barche da pesca colorate sulla spiaggia di Negombo, Sri Lanka',
@@ -57,6 +123,77 @@ export const destinazioniSriLanka: Destinazione[] = [
     erroriDaEvitare: [],
     miaEsperienza:
       'Le dagoba immense di Anuradhapura danno subito la misura della storia buddhista dell\'isola. È stato un buon primo contatto con il triangolo culturale, prima delle tappe più note come Sigiriya.',
+    luoghi: [
+      {
+        "nome": "Sri Maha Bodhi",
+        "testo": "L'albero sacro, discendente diretto da quello sotto cui il Buddha raggiunse l'illuminazione, piantato nel III secolo a.C. Per i fedeli è il luogo più venerato della città.",
+        "come": "Dentro il sito archeologico, in bicicletta o a piedi. Si entra scalzi e con abiti bianchi o chiari e coperti.",
+        "quando": "Mattina o tardo pomeriggio; nei giorni di luna piena (poya) è affollatissimo di pellegrini.",
+        "tempo": "1 ora"
+      },
+      {
+        "nome": "Dagoba del sito archeologico",
+        "testo": "Le cupole bianche immense, come il Ruwanwelisaya che emerge dalla foresta, danno la misura della storia buddhista dell'isola.",
+        "come": "Visita guidata in bicicletta, circa 3 ore.",
+        "quando": "Il pomeriggio, dopo l'arrivo; meglio evitare le ore centrali per il caldo.",
+        "tempo": "3 ore",
+        "costo": "Guida circa 6.500 LKR (19 €) più la mancia (dal viaggio del 2023)",
+        "consiglio": "Con una guida i luoghi si capiscono: senza, sono mucchi di pietra."
+      },
+      {
+        "nome": "Lago Nuwara Wewa",
+        "testo": "Il grande lago artificiale che costeggia la città nuova, bello al tramonto. Sul lago si affacciano alcuni alberghi, tra cui il Miridiya Lake Resort.",
+        "quando": "Tramonto.",
+        "tempo": "1 ora"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Arrivo da Negombo (circa 5 ore di van)",
+          "Pomeriggio: Sri Maha Bodhi e dagoba in bicicletta con la guida",
+          "Tramonto sul lago Nuwara Wewa",
+          "Cena a buffet in hotel"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Città nuova e lago",
+        "perChi": "chi vuole un hotel comodo",
+        "testo": "Hotel e guesthouse affacciati sul lago, a pochi minuti dai siti in tuk-tuk. È la zona più pratica."
+      },
+      {
+        "nome": "Fuori città",
+        "perChi": "chi cerca lusso e calma",
+        "testo": "Ville e resort di campagna, più lontani dai siti; servono transfer."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Buffet dell'hotel",
+        "testo": "Curry di verdure, riso e pesce, circa 2.200 LKR a persona più le bevande al Miridiya (2023)."
+      },
+      {
+        "nome": "Rice and curry",
+        "testo": "Il pasto base dell'isola, nelle trattorie di città."
+      },
+      {
+        "nome": "String hoppers",
+        "testo": "Nidi di spaghetti di riso al vapore, serviti con curry e sambol di cocco a colazione."
+      },
+      {
+        "nome": "Curd e treacle",
+        "testo": "Yogurt di latte di bufala con sciroppo di palma da cocco: un dolce tipico."
+      }
+    ],
+    attenzioni: [
+      "Nei luoghi sacri si entra scalzi, in abiti coperti e chiari: portare calze o accettare la sabbia calda nelle ore centrali.",
+      "Mai posare per una foto dando le spalle a una statua del Buddha: è considerato irrispettoso.",
+      "I giorni di luna piena (poya) sono festivi e non si vende alcol: il sito è affollatissimo.",
+      "Il caldo del pomeriggio è forte: acqua e cappello."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['sri-lanka-2023'],
     imageAlt: 'La cupola bianca del Ruwanwelisaya che emerge dalla foresta sotto un cielo di pioggia, Anuradhapura',
@@ -95,6 +232,106 @@ export const destinazioniSriLanka: Destinazione[] = [
     erroriDaEvitare: ['Partire tardi per Sigiriya: conviene muoversi presto per evitare il caldo peggiore durante la salita'],
     miaEsperienza:
       'Il tramonto da Pidurangala Rock, con la Rocca di Sigiriya di fronte, è uno dei panorami più belli di tutto il viaggio. Forse mi è piaciuto più della salita a Sigiriya, che tutti fanno di corsa senza fermarsi qui.',
+    luoghi: [
+      {
+        "nome": "Mihintale",
+        "testo": "La collina dove, secondo la tradizione, il buddhismo arrivò per la prima volta in Sri Lanka. Una lunga scalinata porta ai templi e alla dagoba in cima.",
+        "come": "A circa mezz'ora da Anuradhapura, in van. Si sale a piedi scalzi.",
+        "quando": "Mattina, prima del caldo.",
+        "tempo": "1 ora e mezza",
+        "costo": "Ingresso 500 LKR più 50 LKR di sarong (dal viaggio del 2023)"
+      },
+      {
+        "nome": "Sigiriya, la Rocca del Leone",
+        "testo": "Una roccia alta circa 180 metri con le fondamenta del palazzo reale del V secolo in cima. Lungo la salita si vedono gli affreschi delle fanciulle celesti e la parete a specchio.",
+        "come": "Dalla biglietteria si sale a piedi, 1 ora e mezza-2 ore di salita; da Dambulla in van.",
+        "quando": "Presto la mattina, per evitare il caldo peggiore e le code.",
+        "tempo": "3-4 ore",
+        "consiglio": "Muoversi presto: a metà mattina la salita è dura e piena di gente."
+      },
+      {
+        "nome": "Pidurangala Rock",
+        "testo": "Il tramonto da Pidurangala, con la Rocca di Sigiriya di fronte, è uno dei panorami più belli del viaggio. Forse mi è piaciuto più della salita a Sigiriya, che tutti fanno di corsa senza fermarsi qui.",
+        "come": "Salita a piedi di circa 30 minuti, con un tratto di roccia finale.",
+        "quando": "Tramonto.",
+        "tempo": "2 ore",
+        "costo": "Ingresso 1.000 LKR (dal viaggio del 2023)",
+        "consiglio": "Portare una torcia per la discesa quando il sole è già calato."
+      },
+      {
+        "nome": "Tempio d'Oro di Dambulla",
+        "testo": "Cinque grotte scavate nella roccia, piene di statue del Buddha e di affreschi sul soffitto.",
+        "come": "Da Sigiriya in van; si sale a piedi scalzi per una scalinata.",
+        "quando": "Mattina o tardo pomeriggio.",
+        "tempo": "1 ora e mezza"
+      },
+      {
+        "nome": "Safari a Minneriya",
+        "testo": "Il safari in jeep tra gli elefanti nel parco di Minneriya.",
+        "come": "In jeep con autista-guida dall'area di Sigiriya.",
+        "quando": "Pomeriggio; il periodo con più elefanti insieme (il «gathering») è di solito da luglio a ottobre.",
+        "tempo": "3-4 ore",
+        "costo": "Circa 12.000 LKR a jeep più l'ingresso (dal viaggio del 2023)"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Mattina presto: Sigiriya",
+          "Pranzo e Tempio d'Oro di Dambulla",
+          "Pomeriggio: Pidurangala per il tramonto"
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: Mihintale, safari a Minneriya, tramonto a Pidurangala",
+          "Giorno 2: Sigiriya all'apertura, poi Tempio d'Oro e mercato di Dambulla"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Dambulla",
+        "perChi": "base comoda",
+        "testo": "Hotel immersi nel verde, a mezz'ora dai siti. Tropical Life Resort è stato il migliore dei nove hotel del viaggio."
+      },
+      {
+        "nome": "Sigiriya",
+        "perChi": "vicino alla rocca",
+        "testo": "Guesthouse e hotel vicino alla biglietteria, comodi per la salita all'alba. Meno scelta di ristoranti."
+      },
+      {
+        "nome": "Lago di Kandalama",
+        "perChi": "lusso e architettura",
+        "testo": "L'Heritance Kandalama, firmato da Geoffrey Bawa, è il più celebre, tra i più cari."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Rice and curry",
+        "testo": "Riso con curry di verdure, dal e pesce, da Mom's Kitchen e Golden Palace."
+      },
+      {
+        "nome": "Kottu",
+        "testo": "Roti a strisce saltato con verdure e uova, nei locali di strada."
+      },
+      {
+        "nome": "Frutta di Dambulla",
+        "testo": "Il Dambulla Wholesale Market è il più grande mercato all'ingrosso dello Sri Lanka: frutta e verdura locali."
+      },
+      {
+        "nome": "Tè e dolci",
+        "testo": "Tè al latte e dolci di cocco e treacle nei caffè lungo la strada."
+      }
+    ],
+    attenzioni: [
+      "Ticket di Sigiriya: pagare solo alla biglietteria ufficiale. Chi ferma i turisti per strada offrendo «scorciatoie» o biglietti scontati è un procacciatore.",
+      "Scimmie: non tenere cibo in vista e non fissarle negli occhi.",
+      "Sigiriya: partire presto per evitare il caldo peggiore durante la salita.",
+      "Sarong e spalle coperte per Mihintale e per il Tempio d'Oro."
+    ],
     esperienzeSlugs: ['safari-minneriya', 'trekking-sigiriya'],
     tripSlugs: ['sri-lanka-2023'],
     imageAlt: 'La rocca di Sigiriya che emerge blu dalla giungla al crepuscolo, vista da Pidurangala',
@@ -121,6 +358,73 @@ export const destinazioniSriLanka: Destinazione[] = [
     erroriDaEvitare: [],
     miaEsperienza:
       'Girare Polonnaruwa in bicicletta è stato un bel cambio di ritmo dopo la salita a Sigiriya del giorno prima. Il pranzo al Priyamali gedara, con vista sulle risaie, è stato uno dei migliori del viaggio.',
+    luoghi: [
+      {
+        "nome": "Gal Vihara",
+        "testo": "Quattro immagini del Buddha scolpite in un'unica parete di granito nel XII secolo, tra cui una figura in piedi e un Buddha sdraiato lungo circa 14 metri.",
+        "come": "Nella parte nord del sito archeologico, in bicicletta; si lasciano le scarpe all'ingresso.",
+        "quando": "Mattina o pomeriggio, con la luce radente.",
+        "tempo": "30 minuti"
+      },
+      {
+        "nome": "Vatadage e il Quadrangolo",
+        "testo": "Il Vatadage è un tempio circolare per la reliquia del dente, con scalinate e pietre di luna scolpite. Il Quadrangolo raccoglie in un recinto i templi più belli della città medievale.",
+        "come": "Si gira in bicicletta tra le rovine e si visitano a piedi i templi del Quadrangolo.",
+        "tempo": "1 ora"
+      },
+      {
+        "nome": "Giro in bicicletta tra i templi",
+        "testo": "Girare Polonnaruwa in bicicletta è stato un bel cambio di ritmo dopo la salita a Sigiriya del giorno prima. Il sito è più leggero e immediato di Sigiriya, con altrettanta storia.",
+        "come": "Bicicletta a noleggio all'ingresso del sito, con o senza guida.",
+        "quando": "Mattina o pomeriggio; evitare le ore centrali.",
+        "tempo": "mezza giornata",
+        "costo": "Bicicletta 1.000 LKR (circa 2,5 €); guida 6.000 LKR più la mancia (dal viaggio del 2023)",
+        "consiglio": "Pranzo al Priyamali gedara, ristorante di campagna con vista sulle risaie: molto buono."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Da Sigiriya a Polonnaruwa (circa 1 ora e 10)",
+          "Giro in bicicletta: Quadrangolo, Vatadage, Gal Vihara",
+          "Pranzo al Priyamali gedara",
+          "Rientro a Dambulla"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Dambulla o Sigiriya",
+        "perChi": "gita in giornata",
+        "testo": "Polonnaruwa si visita in mezza giornata da Dambulla o Sigiriya, senza dormirci."
+      },
+      {
+        "nome": "Polonnaruwa nuova",
+        "perChi": "chi vuole dormire vicino",
+        "testo": "Guesthouse e piccoli hotel vicino al lago e al sito; poca vita serale."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Rice and curry di campagna",
+        "testo": "Il pranzo del Priyamali gedara, con vista sulle risaie."
+      },
+      {
+        "nome": "Frutta e tè",
+        "testo": "Banane, papaya e tè al latte lungo le strade del sito."
+      },
+      {
+        "nome": "Kottu",
+        "testo": "Roti saltato con verdure nei locali di Polonnaruwa nuova."
+      }
+    ],
+    attenzioni: [
+      "Nei templi si entra scalzi, senza scarpe né cappello: la pietra al sole scotta, quindi meglio muoversi la mattina o a fine giornata.",
+      "Il biglietto del sito si compra solo alla biglietteria ufficiale: diffidare di chi offre guide o biglietti per strada.",
+      "Fare attenzione alle scimmie: non offrire cibo.",
+      "Il caldo delle ore centrali è forte: acqua e cappello."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['sri-lanka-2023'],
     imageAlt: 'Il profilo di un Buddha di pietra segnato da crepe contro il cielo nuvoloso di Polonnaruwa',
@@ -152,6 +456,84 @@ export const destinazioniSriLanka: Destinazione[] = [
     erroriDaEvitare: ['Arrivare al Tempio del Dente all\'ultimo momento: la fila si forma già nel tardo pomeriggio, conviene presentarsi con molto anticipo'],
     miaEsperienza:
       'La cerimonia serale al Tempio del Dente, con i tamburi che cominciano poco prima che cali la luce, è stata uno dei momenti più intensi e spirituali di tutto il viaggio.',
+    luoghi: [
+      {
+        "nome": "Tempio del Dente",
+        "testo": "Custodisce la reliquia del dente del Buddha, il tempio più sacro dello Sri Lanka. La cerimonia serale, con i tamburi che cominciano poco prima che cali la luce, è stato uno dei momenti più intensi e spirituali del viaggio.",
+        "come": "A piedi dal centro, sul lago. Si entra scalzi, con spalle e ginocchia coperte; la reliquia sta in un reliquiario d'oro in una sala del piano superiore.",
+        "quando": "La cerimonia serale: la fila si forma già nel tardo pomeriggio.",
+        "tempo": "2 ore",
+        "costo": "Ingresso 2.000 LKR (dal viaggio del 2023)",
+        "consiglio": "Presentarsi con molto anticipo: arrivare all'ultimo momento significa restare in fondo alla fila."
+      },
+      {
+        "nome": "Kandy Fish Market",
+        "testo": "Il posto migliore del viaggio per i souvenir: spezie, tessuti e prodotti locali, a prezzi più bassi che nei negozi per turisti.",
+        "come": "In centro, a piedi.",
+        "quando": "Mattina o tardo pomeriggio.",
+        "tempo": "1 ora"
+      },
+      {
+        "nome": "Ranweli Spice Garden",
+        "testo": "Una visita alla piantagione di spezie con pranzo, sulla strada da Dambulla a Kandy.",
+        "come": "Sosta lungo il trasferimento da Dambulla, circa 2 ore di van.",
+        "tempo": "1 ora e mezza"
+      },
+      {
+        "nome": "Buddha di Bahiravokanda e lago",
+        "testo": "Una grande statua del Buddha su una collina sopra la città, con panorama su Kandy e sul lago artificiale al centro.",
+        "come": "In tuk-tuk dal centro, pochi minuti.",
+        "quando": "Tramonto.",
+        "tempo": "1 ora"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Arrivo da Dambulla con sosta al Ranweli Spice Garden",
+          "Pomeriggio: mercato del pesce e lago",
+          "Fine pomeriggio: Tempio del Dente con anticipo",
+          "Cerimonia serale"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Fuori dal centro",
+        "perChi": "tranquillità",
+        "testo": "Hotel sulle colline come il Rivendell, con vista, ma lontani dal tempio. Si dorme meglio, ma la mattina presto si sente un tempio vicino."
+      },
+      {
+        "nome": "Vicino al lago",
+        "perChi": "visite a piedi",
+        "testo": "Hotel e guesthouse a pochi minuti dal tempio e dal mercato. Più traffico e rumore."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Rice and curry del sud dell'India",
+        "testo": "In un ristorante dell'India del sud trovato sul posto: economico e ottimo, anche se con gli ordini un po' di confusione."
+      },
+      {
+        "nome": "Spezie",
+        "testo": "Cardamomo, cannella e pepe dal giardino delle spezie e dal mercato."
+      },
+      {
+        "nome": "Dosa e idli",
+        "testo": "Crêpe e tortini di riso fermentato, nei locali di cucina indiana."
+      },
+      {
+        "nome": "Tè di Kandy",
+        "testo": "Tè nero dell'altopiano, in confezioni nei negozi del centro."
+      }
+    ],
+    attenzioni: [
+      "Al Tempio del Dente si entra scalzi, con spalle e ginocchia coperte, senza voltare le spalle alle statue per le foto.",
+      "Il tempio non è un museo: nei giorni di festa e di luna piena (poya) è affollatissimo di pellegrini.",
+      "I «tour delle spezie» a pagamento vendono prodotti a prezzi alti: confrontare con il mercato.",
+      "Concordare il prezzo del tuk-tuk prima di salire."
+    ],
     esperienzeSlugs: ['tempio-del-dente'],
     tripSlugs: ['sri-lanka-2023'],
     imageAlt: 'Sagome di fedeli in silenzio davanti al reliquiario d\'oro del Tempio del Dente di Kandy',
@@ -182,6 +564,72 @@ export const destinazioniSriLanka: Destinazione[] = [
     erroriDaEvitare: ['Salire senza una felpa: in cima ci sono 3-6°C, con vento'],
     miaEsperienza:
       'La notte sull\'Adam\'s Peak, in fila indiana con centinaia di pellegrini locali su una scalinata tutta illuminata, è stata la vera prova fisica del viaggio. In cima il freddo taglia, ma salire insieme a chi lo fa per fede, e non per turismo, conta più dell\'alba stessa.',
+    luoghi: [
+      {
+        "nome": "Adam's Peak (Sri Pada)",
+        "testo": "Una montagna di 2.243 metri sacra a buddhisti, indù, musulmani e cristiani. Si sale di notte lungo una scalinata tutta illuminata, in fila indiana con centinaia di pellegrini locali, per arrivare in cima all'alba. Ho trovato che conti più il percorso della meta.",
+        "come": "Si parte a piedi dal villaggio di Nallathanniya, nel cuore della notte; la salita richiede 2 ore e mezza-3 ore.",
+        "quando": "Stagione del pellegrinaggio, da dicembre a maggio, con il percorso illuminato (anche più affollato).",
+        "tempo": "6-7 ore tra salita, alba e discesa",
+        "consiglio": "In cima ci sono 3-6 °C e vento: portare una felpa."
+      },
+      {
+        "nome": "Rafting a Kitulgala",
+        "testo": "Rafting sul fiume Kelani, lo stesso dove fu girato Il ponte sul fiume Kwai.",
+        "come": "Con un operatore di Kitulgala, sulla strada da Kandy verso Nallathanniya.",
+        "tempo": "mezza giornata",
+        "costo": "Quanto costasse non me lo sono segnato: si concorda con l'operatore."
+      },
+      {
+        "nome": "Fiume Kelani",
+        "testo": "Il fiume che attraversa Kitulgala, tra foresta e rapide, con la zona del set del film.",
+        "come": "Dalla strada principale di Kitulgala.",
+        "tempo": "1 ora"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 giorno e mezzo",
+        "tappe": [
+          "Mattina: rafting a Kitulgala sulla strada da Kandy",
+          "Pomeriggio: arrivo a Nallathanniya, riposo e cena presto",
+          "Notte: partenza per l'Adam's Peak",
+          "Alba in cima e discesa, poi trasferimento"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Nallathanniya",
+        "perChi": "chi sale di notte",
+        "testo": "Il villaggio da cui parte il sentiero: guesthouse essenziali come il Wathsala Inn, con vista sulla valle. Non è un posto da vacanza."
+      },
+      {
+        "nome": "Hatton",
+        "perChi": "più comodità",
+        "testo": "Città vicina con più scelta di alloggi e ristoranti, ma a mezz'ora dal sentiero."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Cena in hotel",
+        "testo": "Riso e curry prima della partenza notturna, in hotel o guesthouse."
+      },
+      {
+        "nome": "Tè caldo in salita",
+        "testo": "Lungo la scalinata ci sono piccole bancarelle di tè e biscotti per i pellegrini."
+      },
+      {
+        "nome": "Roti",
+        "testo": "Pane piatto ripieno, per colazione al ritorno."
+      }
+    ],
+    attenzioni: [
+      "Salire senza una felpa: in cima ci sono 3-6 °C e vento.",
+      "La scalinata è molto affollata nella stagione del pellegrinaggio: tenere il passo del flusso e non fermarsi sui gradini.",
+      "Portare una torcia frontale e scarpe con buona presa: la scalinata è illuminata, ma conviene averla comunque.",
+      "Con la nebbia o la pioggia la salita è scivolosa: valutare le condizioni prima di partire."
+    ],
     esperienzeSlugs: ['rafting-kitulgala', 'scalata-adams-peak'],
     tripSlugs: ['sri-lanka-2023'],
     imageAlt: "Il santuario sulla vetta dell'Adam's Peak e la scalinata dei pellegrini sul costone verde, tra le nubi basse",
@@ -213,6 +661,81 @@ export const destinazioniSriLanka: Destinazione[] = [
     erroriDaEvitare: [],
     miaEsperienza:
       'Il trasferimento alla Pedro Tea Plantation è stato molto più breve del previsto, e così mi è rimasto più tempo per il pomeriggio libero tra le vallate di tè verdissime intorno a Nuwara Eliya.',
+    luoghi: [
+      {
+        "nome": "Pedro Tea Plantation",
+        "testo": "Una piantagione con la sua fabbrica del tè, dove si segue la lavorazione dalle foglie alla tazza. Il trasferimento da Nallathanniya è stato molto più breve del previsto, e così mi è rimasto più tempo per il pomeriggio libero tra le vallate di tè.",
+        "come": "Sulla strada tra Hatton e Nuwara Eliya, in van.",
+        "quando": "Mattina o primo pomeriggio.",
+        "tempo": "1 ora"
+      },
+      {
+        "nome": "World's End a Horton Plains",
+        "testo": "Il bordo dell'altopiano di Horton Plains, con uno strapiombo di 870 metri sulla pianura sottostante. Il trekking è un anello di circa 3 ore tra praterie e foresta nebulosa.",
+        "come": "In van da Nuwara Eliya, circa 1 ora e mezza; si cammina a piedi su un sentiero segnalato.",
+        "quando": "Presto la mattina: poi arrivano nebbia e nuvole e la vista sparisce. Una giornata di sole è necessaria.",
+        "tempo": "3 ore di cammino più il trasferimento",
+        "consiglio": "Partire all'alba da Nuwara Eliya, per arrivare al bordo prima delle nuvole."
+      },
+      {
+        "nome": "Victoria Park e laghetto",
+        "testo": "Un parco ordinato in stile inglese, con aiuole e uccelli, nel cuore della «piccola Inghilterra» dello Sri Lanka.",
+        "come": "A piedi dal centro.",
+        "tempo": "1 ora"
+      },
+      {
+        "nome": "Cerimonia del tè e relax",
+        "testo": "Il tè pomeridiano al Grand Hotel, un massaggio o una passeggiata alle cascate di Ravana o dei Lover's Leap.",
+        "tempo": "mezza giornata",
+        "costo": "Attività 5.000-8.000 LKR (dal viaggio del 2023)"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Mattina presto: World's End a Horton Plains",
+          "Pranzo a Nuwara Eliya",
+          "Pomeriggio: Pedro Tea Plantation e tè al Grand Hotel"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Centro di Nuwara Eliya",
+        "perChi": "chi vuole camminare",
+        "testo": "Hotel e ristoranti a pochi minuti da parco e mercato. Più rumore e traffico."
+      },
+      {
+        "nome": "Colline del tè",
+        "perChi": "vista e calma",
+        "testo": "Piantagioni e resort di charme come l'Heritance Tea Factory, più lontani dal centro."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Tè di Nuwara Eliya",
+        "testo": "Il tè delle piantagioni di altura, chiaro e profumato, da assaggiare in fabbrica o al Grand Hotel."
+      },
+      {
+        "nome": "Ristoranti locali",
+        "testo": "De Silva Food Center, Grand Indian, Grand Thai o Themparadu, il più locale."
+      },
+      {
+        "nome": "Fragole",
+        "testo": "Il clima fresco le fa crescere in altura: si vendono sul bordo delle strade."
+      },
+      {
+        "nome": "Verdure di altura",
+        "testo": "Carote, cavoli e patate coltivati sulle terrazze, nei curry locali."
+      }
+    ],
+    attenzioni: [
+      "Il freddo: a 1.868 metri di quota le sere sono fresche e a Horton Plains fa più freddo ancora. Portare un pile.",
+      "A World's End senza sole il panorama non c'è: controllare le condizioni e partire presto.",
+      "Non portare plastica monouso a Horton Plains, dove è vietata.",
+      "Sui sentieri restare sempre sul percorso segnalato: ci sono dirupi non protetti."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['sri-lanka-2023'],
     imageAlt: 'Le vallate di tè verdi attorno a Nuwara Eliya, Sri Lanka',
@@ -245,6 +768,92 @@ export const destinazioniSriLanka: Destinazione[] = [
     erroriDaEvitare: ['Aspettare a prenotare i biglietti del treno panoramico: vanno presi con molto anticipo, perché finiscono subito, soprattutto in alta stagione'],
     miaEsperienza:
       'Il treno panoramico è arrivato con ore di ritardo e senza niente da mangiare a bordo. Le vallate di tè a perdita d\'occhio viste dal finestrino, però, sono tra le immagini più belle di tutto il viaggio. Bisogna salirci con lo spirito giusto: i ritardi sono la norma.',
+    luoghi: [
+      {
+        "nome": "Treno panoramico Nuwara Eliya-Ella",
+        "testo": "Il tratto più famoso della ferrovia dell'altopiano, tra vallate di tè a perdita d'occhio. Il treno è arrivato con ore di ritardo e senza niente da mangiare a bordo, ma le immagini dal finestrino sono tra le più belle del viaggio.",
+        "come": "Si sale alla stazione di Nanu Oya, per Nuwara Eliya; sulla carta 3 ore, ma gli orari reali sono imprevedibili.",
+        "quando": "Mattina. I biglietti vanno presi con molto anticipo, perché finiscono subito, soprattutto in alta stagione.",
+        "tempo": "3 ore, o molte di più",
+        "consiglio": "Salire con lo spirito giusto: i ritardi sono la norma. Portare cibo e acqua."
+      },
+      {
+        "nome": "Nine Arches Bridge",
+        "testo": "Un viadotto ferroviario del primo Novecento in pietra e mattoni, a nove archi, immerso nella giungla. Il momento di maggiore fascino è quando passa il treno.",
+        "come": "A pochi chilometri da Ella, in tuk-tuk e poi a piedi su un sentiero.",
+        "quando": "Quando passa un treno: chiedere gli orari in guesthouse.",
+        "tempo": "1 ora",
+        "consiglio": "Non camminare sui binari quando arriva il treno."
+      },
+      {
+        "nome": "Lipton's Seat e i belvedere",
+        "testo": "Belvedere sulle piantagioni di tè più fotografate dello Sri Lanka, a due passi dal villaggio.",
+        "come": "Poco fuori Ella, in tuk-tuk.",
+        "quando": "Mattina presto, prima delle nuvole.",
+        "tempo": "2 ore"
+      },
+      {
+        "nome": "Zip line Flying Ravana",
+        "testo": "Una zip line tra le colline, a 15 minuti da Ella.",
+        "come": "In tuk-tuk da Ella.",
+        "tempo": "1 ora e mezza",
+        "costo": "Circa 20 € (dal viaggio del 2023)"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Treno panoramico da Nanu Oya (ritardi possibili)",
+          "Arrivo a Ella e pranzo",
+          "Pomeriggio: Nine Arches Bridge all'ora del treno",
+          "Cooking class con cena"
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: treno panoramico e Nine Arches Bridge",
+          "Giorno 2: Lipton's Seat all'alba e zip line, massaggio nel pomeriggio"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Centro di Ella",
+        "perChi": "comodità e vita serale",
+        "testo": "Guesthouse come l'88th Hotel, vicino a Ella Rock e al Nine Arches Bridge. Rumoroso la sera lungo la strada principale."
+      },
+      {
+        "nome": "Colline fuori dal centro",
+        "perChi": "chi cerca vista e calma",
+        "testo": "Resort e ville tra le piantagioni, con panorami ampi. Servono tuk-tuk per il paese."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Cooking class",
+        "testo": "Si impara a fare curry di cocco, sambol e dal; la cena è parte della lezione."
+      },
+      {
+        "nome": "Kottu",
+        "testo": "Roti a strisce saltato con verdure e uova, nei locali della strada principale."
+      },
+      {
+        "nome": "Tè delle colline",
+        "testo": "Dalle piantagioni intorno a Ella, nelle caffetterie con vista."
+      },
+      {
+        "nome": "Rice and curry",
+        "testo": "Il pasto base, in ogni guesthouse."
+      }
+    ],
+    attenzioni: [
+      "Treno panoramico: i biglietti finiscono subito e i ritardi di ore sono la norma. Prenotare con largo anticipo e non fissare coincidenze strette.",
+      "One Love Ella e simili: i drink offerti al tavolo spesso finiscono nel conto.",
+      "Alcune camere non hanno aria condizionata, ascensore o letti morbidi: leggere bene la descrizione prima di prenotare.",
+      "Sui binari del Nine Arches Bridge non fermarsi quando arriva un treno."
+    ],
     esperienzeSlugs: ['treno-panoramico-ella'],
     tripSlugs: ['sri-lanka-2023'],
     imageAlt: 'Una vecchia locomotiva con il faro acceso tra i binari erbosi degli altipiani dello Sri Lanka',
@@ -277,6 +886,82 @@ export const destinazioniSriLanka: Destinazione[] = [
     erroriDaEvitare: ['Fidarsi dei "pescatori sui pali" lungo la costa sud: ormai sono quasi sempre una messa in scena a pagamento per turisti'],
     miaEsperienza:
       'Dopo giorni pieni di templi e trekking, le spiagge di Hikkaduwa sono state il modo giusto per chiudere il viaggio. Il red snapper mangiato in spiaggia una sera, con il servizio lento e il mare a due passi, è uno dei ricordi più veri di tutto lo Sri Lanka.',
+    luoghi: [
+      {
+        "nome": "Parco Nazionale di Yala",
+        "testo": "Il parco con la più alta densità di leopardi al mondo, dove in safari si vedono anche elefanti, coccodrilli e uccelli.",
+        "come": "In jeep con guida, sulla strada da Ella a Hikkaduwa; il safari dura alcune ore.",
+        "quando": "Primo mattino o tardo pomeriggio, quando gli animali sono attivi.",
+        "tempo": "4 ore",
+        "costo": "Jeep 12.000-16.000 LKR, più l'ingresso (27-30 € a persona) e la mancia (dal viaggio del 2023)",
+        "consiglio": "I leopardi non sono garantiti: chiedere all'autista dove sono stati avvistati."
+      },
+      {
+        "nome": "Nuotare con le tartarughe",
+        "testo": "Il punto migliore a Hikkaduwa è davanti all'Hikka Tranz by Cinnamon Hotel, dove le tartarughe marine vengono a brucare l'alga.",
+        "come": "Dalla spiaggia, con maschera e pinne.",
+        "quando": "Mattina, con il mare calmo.",
+        "tempo": "1-2 ore",
+        "consiglio": "Non toccare né inseguire le tartarughe, e tenere le distanze."
+      },
+      {
+        "nome": "Museo dello Tsunami",
+        "testo": "Un museo dedicato allo tsunami del 2004, che sulla costa sud ha ucciso migliaia di persone. Un momento serio in mezzo alla vacanza al mare.",
+        "come": "In tuk-tuk da Hikkaduwa.",
+        "tempo": "1 ora"
+      },
+      {
+        "nome": "Fiume Madu, surf e Big Buddha",
+        "testo": "Boat safari sul fiume Madu tra le mangrovie, la grande statua del Buddha lungo la costa e, per chi ama il mare, surf, snorkeling e diving.",
+        "come": "Escursioni da Hikkaduwa in tuk-tuk o barca.",
+        "tempo": "mezza giornata"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: safari a Yala sul trasferimento da Ella, poi cena in spiaggia",
+          "Giorno 2: tartarughe in snorkeling al mattino, Museo dello Tsunami, pomeriggio in spiaggia"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Lungomare di Hikkaduwa",
+        "perChi": "vita serale e surf",
+        "testo": "Locali, scuole di surf e hotel lungo la strada principale. Rumorosa e trafficata."
+      },
+      {
+        "nome": "Hotel sul mare fuori dal centro",
+        "perChi": "calma",
+        "testo": "Hotel boutique come il Sapphire Seas, direttamente sulla spiaggia, in zone meno trafficate."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Red snapper alla griglia",
+        "testo": "Cena in spiaggia: servizio lento ma pesce ottimo. Uno dei ricordi più veri dello Sri Lanka."
+      },
+      {
+        "nome": "Cucina vegetariana",
+        "testo": "Steffi's Mandala o Thambili Cafe a pranzo."
+      },
+      {
+        "nome": "Frutti di mare",
+        "testo": "Sea Salt Society o Canal View a cena."
+      },
+      {
+        "nome": "Cocco fresco",
+        "testo": "Thambili, il cocco arancione, venduto lungo la spiaggia."
+      }
+    ],
+    attenzioni: [
+      "Non fidarsi dei «pescatori sui pali» lungo la costa sud: ormai sono quasi sempre una messa in scena a pagamento per turisti.",
+      "A novembre sulla costa sud comincia la bassa stagione per le piogge: mare mosso e correnti.",
+      "Safari a Yala: scegliere operatori che rispettano le distanze dagli animali e i limiti di jeep intorno agli avvistamenti.",
+      "Correnti e onde alte nel sud: nuotare dove ci sono altre persone e rispettare le bandiere."
+    ],
     esperienzeSlugs: ['safari-yala'],
     tripSlugs: ['sri-lanka-2023'],
     imageAlt: 'La spiaggia di Hikkaduwa sulla costa sud dello Sri Lanka',

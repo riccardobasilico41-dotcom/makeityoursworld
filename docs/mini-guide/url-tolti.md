@@ -15,3 +15,4 @@
 - https://www.bmy.com.cn/ (errore: URLError)
 - https://www.cha.go.kr/ (errore: URLError)
 - https://www.warmemo.or.kr/ (errore: URLError)
+- https://railway.gov.lk (errore: URLError)

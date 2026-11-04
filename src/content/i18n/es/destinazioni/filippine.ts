@@ -36,6 +36,113 @@ export const destinazioniFilippine: Destinazione[] = [
       'Reservar el Tour A a última hora en temporada alta: las entradas a la Big Lagoon son por franjas horarias limitadas',
       'Llegar sin efectivo: hay pocos cajeros y a menudo están vacíos',
     ],
+    luoghi: [
+      {
+        "nome": "Tour A: Big Lagoon, Small Lagoon, Secret Lagoon",
+        "testo": "El recorrido por las lagunas de la isla de Miniloc. La Big Lagoon se cruza en kayak entre paredes de caliza, a la Small Lagoon se entra nadando por una grieta en la roca y a la Secret Lagoon se llega por una abertura estrecha. El almuerzo es en la playa de Shimizu o de 7 Commando.",
+        "come": "En bangka desde el puerto o desde Corong-Corong con un operador autorizado. El tour es organizado: barco, guía, kayaks y almuerzo.",
+        "quando": "Salida por la mañana. La Big Lagoon tiene entradas por franjas horarias, así que conviene reservar el tour con un día de antelación en temporada alta. De julio a octubre muchas salidas se cancelan por el mar.",
+        "tempo": "un día",
+        "costo": "Tour aproximadamente 1.200-1.800 PHP por persona con almuerzo; entrada a la Big Lagoon unos 200 PHP y kayak 150-200 PHP aparte (indicativo, 2026)",
+        "consiglio": "Lleva escarpines, máscara propia y bolsa estanca. Conviene ir a los kayaks pronto, antes que los demás barcos."
+      },
+      {
+        "nome": "Tour C: Hidden Beach, Secret Beach y Matinloc",
+        "testo": "El tour de las playas escondidas: a Hidden Beach y Secret Beach se llega nadando o caminando en agua poco profunda entre paredes de roca. Después, el santuario de Matinloc y snorkel en los arrecifes alrededor de Helicopter Island.",
+        "come": "En bangka con operador autorizado; almuerzo a bordo o en una playa.",
+        "quando": "Por la mañana. Con marea baja la entrada a Secret Beach es más fácil.",
+        "tempo": "un día",
+        "costo": "Tour aproximadamente 1.400-1.800 PHP por persona con almuerzo (indicativo, 2026)",
+        "consiglio": "Los tours B y D visitan otras islas y suelen estar menos llenos: elígelos si el A y el C están completos."
+      },
+      {
+        "nome": "Playa de Nacpan",
+        "testo": "Cuatro kilómetros de arena clara y palmeras en la costa oeste, unida a Twin Beach por un sendero. Es más tranquila que las playas del pueblo y buena para el atardecer.",
+        "come": "En tricycle o scooter desde El Nido, unos 40 minutos por una carretera en parte sin asfaltar.",
+        "quando": "Por la tarde hasta el atardecer.",
+        "tempo": "medio día",
+        "costo": "Tricycle ida y vuelta 1.000-1.500 PHP a acordar (indicativo, 2026)",
+        "consiglio": "Pide al tricycle que espere, porque a la vuelta es difícil encontrar uno libre."
+      },
+      {
+        "nome": "Taraw Cliff",
+        "testo": "La pared de caliza sobre el pueblo. Arriba, tras una subida empinada en parte sobre roca, hay un mirador sobre El Nido y la bahía de Bacuit.",
+        "come": "Desde el pueblo a pie hasta el inicio; se sube con guía.",
+        "quando": "A primera hora o al final de la tarde, por el calor.",
+        "tempo": "2-3 horas",
+        "consiglio": "Calzado con buen agarre: la roca es afilada y resbala cuando está mojada."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Tour A o C por la mañana",
+          "Almuerzo en el barco o en una playa",
+          "Atardecer en Corong-Corong"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: Tour A con las lagunas de Miniloc",
+          "Día 2: Tour C y luego Nacpan en tricycle para el atardecer"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Día 1: Tour A",
+          "Día 2: Tour C y Nacpan",
+          "Día 3: tour B o D, o día libre y Taraw Cliff al amanecer"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "El Nido pueblo",
+        "perChi": "precios y restaurantes",
+        "testo": "El centro con hostales, casas de huéspedes y locales, con los tours saliendo a pie. Es ruidoso por la noche y la playa es pequeña."
+      },
+      {
+        "nome": "Corong-Corong",
+        "perChi": "atardeceres y tranquilidad",
+        "testo": "A pocos minutos en tricycle del pueblo, con hoteles de gama media frente al mar y atardeceres. Menos restaurantes."
+      },
+      {
+        "nome": "Nacpan y Lio",
+        "perChi": "playas tranquilas",
+        "testo": "Más lejos del pueblo, con playas amplias y poca vida nocturna. Hace falta tricycle o scooter para moverse."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Kinilaw",
+        "testo": "Pescado crudo marinado en vinagre con cebolla, jengibre y calamansi. Se come fresco en locales frente al mar y en las carinderias del pueblo."
+      },
+      {
+        "nome": "Pescado a la parrilla",
+        "testo": "La pesca del día a la brasa, con arroz. En los restaurantes de la playa del pueblo, a la cena."
+      },
+      {
+        "nome": "Adobo",
+        "testo": "Pollo o cerdo estofado en vinagre, salsa de soja, ajo y laurel: el plato nacional. En las carinderias, los comedores locales."
+      },
+      {
+        "nome": "Sinigang",
+        "testo": "Sopa ácida de tamarindo con verduras y cerdo o gambas. En carinderias y restaurantes filipinos."
+      },
+      {
+        "nome": "Lechon",
+        "testo": "Cerdo asado entero con la piel crujiente. Se vende por trozos en carinderias y mercados."
+      }
+    ],
+    attenzioni: [
+      "Efectivo: los cajeros de El Nido son pocos y a menudo están vacíos. Retira en Manila o Cebú antes de salir.",
+      "El precio del tour no siempre incluye la tasa ambiental (ETDF, 400 PHP, válida 10 días) ni las entradas: pregunta qué incluye antes de pagar.",
+      "Mar agitado: de julio a octubre se suspenden las salidas en barco. Deja un día de margen antes del vuelo.",
+      "Subir solo a barcos con chalecos salvavidas a bordo y renunciar cuando la guardia costera suspende las salidas."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['filippine-itinerario'],
     imageAlt: 'Acantilados calizos y agua turquesa en el archipiélago de Bacuit, El Nido',
@@ -74,6 +181,108 @@ export const destinazioniFilippine: Destinazione[] = [
       'Ir al Kayangan a media mañana, cuando llegan todas las barcas a la vez',
       'Bucear en los pecios interiores sin titulación y formación adecuadas',
     ],
+    luoghi: [
+      {
+        "nome": "Lago Kayangan",
+        "testo": "Un lago de agua dulce y salobre encerrado entre rocas calizas, de los más limpios de Filipinas. Desde el mirador de la escalera de entrada se ve la bahía: es la imagen símbolo de Coron.",
+        "come": "En barco en los tours de island hopping; desde el embarcadero una corta subida de escalones hasta el mirador. En algunas zonas se nada con chaleco, por reglamento.",
+        "quando": "A la apertura o al final del día: a media mañana llegan todos los barcos a la vez.",
+        "tempo": "1 hora",
+        "costo": "Entrada unos 300-400 PHP, aparte del tour (indicativo, 2026)",
+        "consiglio": "Pide al operador que invierta el orden de las paradas para llegar a Kayangan antes de la multitud."
+      },
+      {
+        "nome": "Lago Barracuda",
+        "testo": "Una capa de agua dulce sobre una de agua salada: al bajar la temperatura cambia de golpe, hasta más de 35 grados en la capa más profunda. Se nada entre paredes de roca negra.",
+        "come": "En barco en los tours; desde el embarcadero se bajan unos escalones hasta el agua.",
+        "quando": "Por la mañana, con menos barcos.",
+        "tempo": "45 minutos",
+        "costo": "Entrada unos 150-250 PHP, aparte (indicativo, 2026)"
+      },
+      {
+        "nome": "Twin Lagoon",
+        "testo": "Dos lagunas separadas por una pared de roca. Se pasa de una a otra nadando bajo la roca, o a pie con marea baja; el agua es más fría arriba y más cálida abajo.",
+        "come": "En barco en los tours de island hopping.",
+        "quando": "Con marea baja el paso es más sencillo.",
+        "tempo": "45 minutos",
+        "costo": "Entrada unos 200 PHP, aparte (indicativo, 2026)"
+      },
+      {
+        "nome": "Pecios japoneses de la bahía de Coron",
+        "testo": "Una decena de barcos japoneses hundidos por aviones estadounidenses en septiembre de 1944, hoy cubiertos de coral. Los más conocidos son el Okikawa Maru, el Akitsushima y el Irako. El Skeleton Wreck está a pocos metros de profundidad y también se ve haciendo snorkel.",
+        "come": "Con los centros de buceo de Coron, que organizan salidas de dos inmersiones. Para los pecios profundos hace falta al menos el título Advanced; las penetraciones solo con la formación adecuada.",
+        "tempo": "un día",
+        "costo": "Dos inmersiones aproximadamente 4.000-5.500 PHP con equipo (indicativo, 2026)"
+      },
+      {
+        "nome": "Monte Tapyas y aguas termales de Maquinit",
+        "testo": "Setecientos escalones sobre la ciudad para el mirador de la bahía al atardecer. Por la noche, las aguas termales de Maquinit, en una poza de roca junto al mar.",
+        "come": "Tapyas se sube a pie desde la ciudad; Maquinit en tricycle.",
+        "quando": "Tapyas al atardecer, Maquinit después de cenar o al atardecer.",
+        "tempo": "2-3 horas en total",
+        "costo": "Tapyas gratis; Maquinit unos 300 PHP (indicativo, 2026)"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Island hopping clásico: Kayangan, Barracuda, Twin Lagoon",
+          "Atardecer desde el monte Tapyas"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: Kayangan, Barracuda y Twin Lagoon",
+          "Día 2: pecios en inmersión o snorkel en el Skeleton Wreck, y Maquinit por la noche"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Día 1: tour de los lagos",
+          "Día 2: pecios",
+          "Día 3: islas de arena (Malcapuya, Banana, Bulog Dos) y Tapyas al atardecer"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Coron pueblo",
+        "perChi": "comodidad",
+        "testo": "Hoteles y casas de huéspedes cerca del puerto, restaurantes y centros de buceo. Caótica y ruidosa, pero cómoda para los tours."
+      },
+      {
+        "nome": "Islas privadas",
+        "perChi": "quien quiera gastar",
+        "testo": "Resorts en islas cercanas, con traslado en barco. Aislados y tranquilos, pero todo cuesta más."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Kinilaw",
+        "testo": "Pescado crudo en vinagre y calamansi, en los locales del paseo marítimo."
+      },
+      {
+        "nome": "Tinola",
+        "testo": "Caldo de pollo con jengibre, papaya verde y hojas de chile. En las carinderias."
+      },
+      {
+        "nome": "Pescado y marisco a la parrilla",
+        "testo": "Cangrejo, gambas y pescado del día a la brasa, en restaurantes frente al mar. Pregunta el precio por peso antes de pedir."
+      },
+      {
+        "nome": "Almuerzo de los tours",
+        "testo": "En los barcos del tour el almuerzo suele ser arroz con pescado o pollo a la parrilla y fruta, servido en la playa."
+      }
+    ],
+    attenzioni: [
+      "Kayangan está lleno a media mañana: llega pronto o al final del día.",
+      "Bucear dentro de los pecios sin título y formación adecuados: peligroso.",
+      "Las entradas a los sitios no siempre están incluidas en el precio del tour: pregunta antes.",
+      "Los ferris desde y hacia El Nido se cancelan con mar agitado: deja un día de margen."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['filippine-itinerario'],
     imageAlt: 'Los acantilados calizos de la isla de Coron que descienden al agua turquesa',
@@ -111,6 +320,101 @@ export const destinazioniFilippine: Destinazione[] = [
       'Ir a Oslob a nadar con tiburones ballena: a los animales se les da de comer para mantenerlos en el lugar, y los biólogos marinos critican esta práctica',
       'Tocar a las tortugas o perseguirlas en el agua',
     ],
+    luoghi: [
+      {
+        "nome": "Banco de sardinas de Panagsama Beach",
+        "testo": "Millones de sardinas que se mueven como una sola nube a pocos metros de la orilla. Se nada entre ellas con máscara y aletas, sin barco. A lo largo del mismo arrecife se ven a menudo tortugas marinas.",
+        "come": "Se entra desde la orilla o desde las escaleras de los restaurantes de Panagsama Beach.",
+        "quando": "A primera hora, con la mejor luz y menos gente.",
+        "tempo": "1-2 horas",
+        "costo": "Gratis desde la orilla o con una pequeña tasa del local (indicativo, 2026)",
+        "consiglio": "No toques ni persigas a las tortugas, y no patalees: el banco se dispersa."
+      },
+      {
+        "nome": "Pescador Island",
+        "testo": "Un islote con una pared de coral que cae al azul, excelente para snorkel e inmersiones.",
+        "come": "En barco desde Panagsama Beach.",
+        "quando": "Por la tarde o por la mañana, con mar en calma.",
+        "tempo": "medio día",
+        "costo": "Barco aproximadamente 1.500-2.500 PHP (indicativo, 2026)"
+      },
+      {
+        "nome": "Barranquismo en las cascadas de Kawasan",
+        "testo": "Se desciende el río Matutinao durante unas horas, con saltos desde rocas de 3 a 10 metros (los altos son opcionales), toboganes naturales y tramos a nado, hasta las cascadas turquesa.",
+        "come": "De Moalboal a Badian en unos 45 minutos. Se va con guía, con casco y chaleco.",
+        "quando": "Salir pronto para evitar la multitud.",
+        "tempo": "medio día o un poco más",
+        "costo": "Barranquismo con guía aproximadamente 1.500-2.500 PHP con traslado (indicativo, 2026)",
+        "consiglio": "Zapatos cerrados de agua y nada de objetos de valor."
+      },
+      {
+        "nome": "White Beach",
+        "testo": "La playa larga de Moalboal, buena para una tarde libre tras el barranquismo.",
+        "come": "En tricycle o scooter desde Panagsama.",
+        "tempo": "una tarde"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Sardinas al amanecer desde la orilla",
+          "Barco a Pescador",
+          "Atardecer en Panagsama"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: sardinas, tortugas y Pescador",
+          "Día 2: barranquismo en Kawasan y White Beach"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Día 1: sardinas y tortugas",
+          "Día 2: Kawasan",
+          "Día 3: inmersiones en la pared de Pescador"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Panagsama Beach",
+        "perChi": "quien quiera estar sobre el arrecife",
+        "testo": "Casas de huéspedes y pequeños resorts con el arrecife bajo los restaurantes. La base más cómoda para sardinas e inmersiones; animada por la noche."
+      },
+      {
+        "nome": "Badian",
+        "perChi": "quien quiera Kawasan cerca",
+        "testo": "Más al sur, cerca de las cascadas. Menos servicios y menos vida nocturna."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Lechón de Cebú",
+        "testo": "Cerdo asado relleno de hierbas, con piel crujiente, la especialidad de la isla. Se vende por raciones en mercados y carinderias."
+      },
+      {
+        "nome": "Puso",
+        "testo": "Arroz cocido en una hoja de coco trenzada, en forma de rombo. Se vende junto a las parrillas callejeras."
+      },
+      {
+        "nome": "Danggit",
+        "testo": "Pescado seco frito y crujiente, servido en el desayuno con vinagre y arroz al ajo."
+      },
+      {
+        "nome": "Mango seco",
+        "testo": "Un recuerdo de Cebú, en paquetes en todas las tiendas."
+      }
+    ],
+    attenzioni: [
+      "Oslob y los tiburones ballena: se alimenta a los animales para mantenerlos cerca de la orilla, una práctica criticada por biólogos marinos. Mejor evitarla.",
+      "No toques ni persigas a las tortugas en el agua.",
+      "Scooter: la causa más común de accidentes entre turistas. Casco y nada de conducir de noche.",
+      "Taxis del aeropuerto de Manila: los blancos sin taxímetro piden cifras desorbitadas. Mejor Grab o los taxis amarillos con taxímetro."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['filippine-itinerario'],
     imageAlt: 'El islote de Pescador frente a Moalboal, rodeado por el arrecife',
@@ -144,6 +448,91 @@ export const destinazioniFilippine: Destinazione[] = [
     erroriDaEvitare: [
       'Visitar a los társeros en los falsos «santuarios» junto a la carretera: son animales nocturnos y las visitas los estresan; el centro de Corella es el gestionado por la fundación',
       'Usar flash con los társeros',
+    ],
+    luoghi: [
+      {
+        "nome": "Chocolate Hills",
+        "testo": "Más de mil colinas cónicas de caliza cubiertas de hierba, que se vuelven marrones en la estación seca. Se ven desde arriba, desde el mirador de Carmen.",
+        "come": "En coche con conductor en el recorrido del interior, a unas 1,5 horas de Panglao. Una escalera lleva al mirador.",
+        "quando": "Por la mañana o al final de la tarde.",
+        "tempo": "1 hora",
+        "costo": "Entrada aproximadamente 100-200 PHP (indicativo, 2026)"
+      },
+      {
+        "nome": "Philippine Tarsier Sanctuary de Corella",
+        "testo": "Un santuario en el bosque gestionado por una fundación, donde se ve el tarsero filipino, uno de los primates más pequeños del mundo, un animal nocturno que de día duerme.",
+        "come": "En coche con conductor en el mismo recorrido del interior; se camina en silencio por un sendero.",
+        "quando": "Por la mañana, cuando los animales duermen.",
+        "tempo": "45 minutos",
+        "costo": "Entrada aproximadamente 100-200 PHP (indicativo, 2026)",
+        "consiglio": "Sin flash y en voz baja. Evita los falsos santuarios junto a la carretera con tarseros enjaulados."
+      },
+      {
+        "nome": "Río Loboc e iglesias coloniales",
+        "testo": "El río Loboc se remonta en crucero con almuerzo buffet. En la misma carretera, las iglesias coloniales de Loboc y Baclayon.",
+        "come": "En el recorrido del interior con conductor.",
+        "tempo": "1-2 horas"
+      },
+      {
+        "nome": "Balicasag y Virgin Island",
+        "testo": "Balicasag es un pequeño santuario marino con una pared de coral y muchas tortugas, excelente para snorkel e inmersiones. Virgin Island es un banco de arena que emerge en medio del mar con la marea baja. En el canal al amanecer se ven a menudo delfines.",
+        "come": "En barco desde Panglao, saliendo al amanecer para los delfines.",
+        "quando": "Salida al amanecer; Virgin Island con marea baja.",
+        "tempo": "medio día",
+        "costo": "Barco aproximadamente 1.500-2.500 PHP, más tasas de los sitios; dos inmersiones en Balicasag 3.000-4.000 PHP (indicativo, 2026)"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Recorrido del interior con conductor: Chocolate Hills, tarseros, río Loboc",
+          "Iglesia de Baclayon al volver"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: recorrido del interior",
+          "Día 2: barco al amanecer para delfines, Balicasag y Virgin Island, tarde en la playa"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Alona Beach",
+        "perChi": "vida nocturna y servicios",
+        "testo": "La playa más animada de Panglao, con locales, buceo y hoteles. Llena y ruidosa por la noche."
+      },
+      {
+        "nome": "Dumaluan y Doljo",
+        "perChi": "tranquilidad",
+        "testo": "Bahías más tranquilas con resorts y casas de huéspedes. Hace falta tricycle o scooter para cenar fuera."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Calamay",
+        "testo": "Dulce de arroz glutinoso, leche de coco y azúcar moreno, que se vende en cáscaras de coco en Bohol."
+      },
+      {
+        "nome": "Kinilaw",
+        "testo": "Pescado crudo marinado en vinagre, en los locales de Panglao."
+      },
+      {
+        "nome": "Pescado a la parrilla",
+        "testo": "La pesca del día en Alona Beach, por la noche."
+      },
+      {
+        "nome": "Ube",
+        "testo": "El ñame morado de los postres filipinos, en helados y tartas en las cafeterías de la isla."
+      }
+    ],
+    attenzioni: [
+      "Tarseros: evita los «santuarios» junto a la carretera con animales enjaulados. El centro de Corella lo gestiona una fundación.",
+      "Nada de flash con los tarseros: son animales nocturnos y las visitas los estresan.",
+      "Scooter: los turistas se lesionan sobre todo en moto. Casco y nada de conducir de noche.",
+      "Ferri Cebú-Tagbilaran: las tarifas cambiaron varias veces en 2026 por el recargo de combustible. Comprueba el precio antes."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['filippine-itinerario'],
@@ -179,6 +568,103 @@ export const destinazioniFilippine: Destinazione[] = [
     erroriDaEvitare: [
       'Conducir el scooter sin experiencia, o de noche: los accidentes son el primer problema de los turistas en la isla',
       'Ir a Magpupungko con la marea alta, cuando las piscinas no se ven',
+    ],
+    luoghi: [
+      {
+        "nome": "Cloud 9",
+        "testo": "La ola que hizo famosa a Siargao, con una pasarela de madera y una torre sobre el arrecife de General Luna. Es el punto de referencia de los surfistas.",
+        "come": "A pocos minutos de General Luna, en scooter o a pie por la Tourism Road.",
+        "quando": "Surf: de septiembre a noviembre, olas grandes para expertos. Por la mañana para ver las olas.",
+        "tempo": "1 hora",
+        "costo": "Clase de surf para principiantes 500-1.000 PHP con instructor y tabla (indicativo, 2026)"
+      },
+      {
+        "nome": "Naked, Daku y Guyam",
+        "testo": "Tres islas a media hora de General Luna: Naked Island, un banco de arena sin un árbol; Daku, la más grande, con el pueblo de pescadores y el almuerzo de pescado a la parrilla; Guyam, un islote redondo con palmeras.",
+        "come": "Tour de island hopping en barco desde General Luna.",
+        "quando": "Por la mañana, con mar en calma, en la temporada de marzo a octubre.",
+        "tempo": "medio día",
+        "costo": "Aproximadamente 1.500-2.000 PHP por persona (indicativo, 2026)"
+      },
+      {
+        "nome": "Laguna de Sugba",
+        "testo": "Una laguna de agua verde azulada entre manglares y rocas de caliza, en Del Carmen. Se hace paddle board o se nada.",
+        "come": "En el norte de la isla, en barco desde Del Carmen; excursión de un día desde General Luna.",
+        "tempo": "medio día"
+      },
+      {
+        "nome": "Piscinas de Magpupungko",
+        "testo": "Pozas naturales en la roca junto al mar, visibles con marea baja.",
+        "come": "En scooter o con conductor desde el pueblo, en la costa este.",
+        "quando": "Con marea baja: con marea alta no se ven las piscinas.",
+        "tempo": "2-3 horas"
+      },
+      {
+        "nome": "Coconut Road",
+        "testo": "Una carretera recta entre palmerales de cocos, para recorrer en scooter: la imagen más fotografiada del interior de la isla.",
+        "come": "En scooter desde General Luna.",
+        "tempo": "1 hora"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Island hopping a Naked, Daku y Guyam",
+          "Atardecer en Cloud 9"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: island hopping",
+          "Día 2: clase de surf por la mañana y luego Coconut Road en scooter"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Día 1: island hopping",
+          "Día 2: laguna de Sugba",
+          "Día 3: Magpupungko con marea baja y vuelta a la isla"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "General Luna",
+        "perChi": "surf y vida nocturna",
+        "testo": "El centro de los surfistas, con locales, escuelas y hoteles a lo largo de la Tourism Road. Animado por la noche."
+      },
+      {
+        "nome": "Pacifico",
+        "perChi": "pueblo tranquilo",
+        "testo": "Más al norte, un pueblo más tranquilo, con olas y pocos servicios."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Pescado a la parrilla",
+        "testo": "En el almuerzo de los tours de island hopping, en la playa de Daku."
+      },
+      {
+        "nome": "Carinderia",
+        "testo": "Comedores locales fuera del centro: arroz, adobo y pescado por pocos pesos."
+      },
+      {
+        "nome": "Coco",
+        "testo": "Agua de coco fresca junto a las carreteras, con palmeras por todas partes."
+      },
+      {
+        "nome": "Locales de General Luna",
+        "testo": "Cocina internacional y smoothie bowls a lo largo de la Tourism Road."
+      }
+    ],
+    attenzioni: [
+      "Scooter: la causa más común de accidentes entre turistas en Siargao. Casco, nada de conducir de noche, seguro que cubra la moto.",
+      "Magpupungko con marea alta: no se ven las piscinas. Consulta las mareas.",
+      "Temporada: de diciembre a febrero hay viento y lluvia; el mejor periodo para el mar en calma es de marzo a octubre.",
+      "Efectivo y cajeros: pocos y a veces vacíos los fines de semana, con comisiones de 250-500 PHP. Retira con antelación."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['filippine-itinerario'],
