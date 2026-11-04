@@ -46,7 +46,8 @@ export const MAPPE = {
   marocco: { fonte: 'world', nomi: ['Morocco'], cc: 'ma' },
   messico: { fonte: 'world', nomi: ['Mexico'], cc: 'mx' },
   montenegro: { fonte: 'world', nomi: ['Montenegro'], cc: 'me' },
-  'new-york': { fonte: 'us', nomi: ['New York'], cc: 'us', isole: 'tutte' },
+  // la città, non lo Stato: contorno e atlante li fa tools/mappe/new-york.mjs (contorni.mjs e atlante.mjs la saltano)
+  'new-york': { fonte: 'us', nomi: ['New York'], cc: 'us', isole: 'tutte', citta: true },
   norvegia: { fonte: 'world', nomi: ['Norway'], clip: [4, 57.5, 32, 71.5], cc: 'no' },
   'paesi-bassi': { fonte: 'world', nomi: ['Netherlands'], clip: [3, 50.5, 7.5, 54], cc: 'nl' },
   panama: { fonte: 'world', nomi: ['Panama'], cc: 'pa', isole: 'tutte' },

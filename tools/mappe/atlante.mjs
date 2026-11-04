@@ -299,6 +299,7 @@ async function atlante(slug) {
   const cfg = MAPPE[slug]
   const fileBase = path.join(ROOT, 'src/content/mappe', `${slug}.json`)
   if (!cfg || !fs.existsSync(fileBase)) { console.log(`${slug}: manca config o contorno, salto`); return null }
+  if (cfg.citta) { console.log(`${slug}: mappa di città, la fa il suo script (tools/mappe/${slug}.mjs)`); return null }
   const base = JSON.parse(fs.readFileSync(fileBase, 'utf8'))
   const { lng0, y0, s, ox, oy } = base.proiezione
   const W = base.w, H = base.h

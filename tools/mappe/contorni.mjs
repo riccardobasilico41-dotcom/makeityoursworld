@@ -92,6 +92,7 @@ fs.mkdirSync(outDir, { recursive: true })
 console.log('Paese                  poligoni  byte   tolleranza px')
 
 for (const [slug, cfg] of Object.entries(MAPPE)) {
+  if (cfg.citta) continue // mappa di città con il suo script (es. tools/mappe/new-york.mjs)
   let { polys } = geometriaPaese(cfg, atlanti)
   if (TAGLIO_SUD[slug]) {
     polys = polys

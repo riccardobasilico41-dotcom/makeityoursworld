@@ -172,9 +172,12 @@ export async function MappaPaeseSezione({
 
   // punti nello stesso posto (es. esperienza = sua destinazione): il primo resta
   // al centro, gli altri su un anello di raggio costante in pixel schermo
+  // (1,5 unità, o 150 m veri se di più: sulle mappe di città è il caso di Times Square e del musical di Broadway)
+  const latC = mercLat(file.proiezione.y0 - (file.h / 2 - file.proiezione.oy) / file.proiezione.s)
+  const sogliaLuogo = Math.max(1.5, 0.15 / ((111.32 * Math.cos((latC * Math.PI) / 180)) / file.proiezione.s))
   const gruppi: PuntoMappa[][] = []
   for (const p of punti) {
-    const g = gruppi.find((g) => Math.hypot(g[0].x - p.x, g[0].y - p.y) < 1.5)
+    const g = gruppi.find((g) => Math.hypot(g[0].x - p.x, g[0].y - p.y) < sogliaLuogo)
     if (g) g.push(p)
     else gruppi.push([p])
   }
@@ -227,6 +230,7 @@ export async function MappaPaeseSezione({
             punti={punti}
             tappe={tappe}
             percorso={percorso}
+            sogliaLuogo={sogliaLuogo}
             proiezione={{ y0: file.proiezione.y0, s: file.proiezione.s, oy: file.proiezione.oy }}
           />
         ) : (

@@ -25,7 +25,15 @@ export type DatiAtlante = {
   vicini: { id: string; colore: number; path: string }[]
   fiumi: { id: string; peso: number; path: string }[]
   laghi: { id: string; path: string }[]
-  etichette: { id: string; tipo: 'paese' | 'mare' | 'fiume' | 'lago'; x: number; y: number; ruota?: number; testo: TestoLingue }[]
+  /** zone interne colorate come i vicini, sopra il Paese (es. i cinque distretti di New York) */
+  interni?: { id: string; colore: number; path: string }[]
+  /** ponti principali: segmenti a doppia linea */
+  ponti?: { id: string; path: string }[]
+  /** riga dei crediti al posto di quella standard (prima di «© OpenStreetMap contributors») */
+  crediti?: TestoLingue
+  /** distanza di raggruppamento in px (le città hanno i luoghi più fitti) */
+  raggioGruppo?: number
+  etichette: { id: string; tipo: 'paese' | 'mare' | 'fiume' | 'lago' | 'ponte'; x: number; y: number; ruota?: number; testo: TestoLingue }[]
 }
 
 /** Tappa del viaggio sulla mappa: id del punto-destinazione, numero d'ordine, posizione. */
@@ -162,6 +170,7 @@ export function MappaAtlante({
   punti,
   tappe,
   percorso: sequenza,
+  sogliaLuogo = 1.5,
   proiezione,
 }: {
   nomePaese: string
@@ -171,6 +180,8 @@ export function MappaAtlante({
   tappe: TappaPercorso[]
   /** il viaggio nell'ordine vero dei giorni (le destinazioni possono ripetersi, es. i rientri a Lima) */
   percorso: { x: number; y: number }[]
+  /** sotto questa distanza (unità mappa) due punti sono «lo stesso posto»: deve combaciare con il server */
+  sogliaLuogo?: number
   proiezione: { y0: number; s: number; oy: number }
 }) {
   const lingua = useLingua()
@@ -193,6 +204,7 @@ export function MappaAtlante({
 
   const sel = punti.find((p) => p.id === selId) ?? null
   const visibile = useCallback((p: PuntoMappa) => filtro === 'tutto' || p.tipo === filtro, [filtro])
+  const raggio = atlante.raggioGruppo ?? R_GRUPPO
   const nTappa = useMemo(() => new Map(tappe.map((q) => [q.id, q.n])), [tappe])
   const nD = punti.filter((p) => p.tipo === 'destinazione').length
   const nE = punti.length - nD
@@ -207,12 +219,12 @@ export function MappaAtlante({
   const luoghi = useMemo(() => {
     const out: Luogo[] = []
     for (const p of [...punti].sort((a, b) => prio(a) - prio(b))) {
-      const l = out.find((l) => Math.hypot(l.x - p.x, l.y - p.y) < 1.5)
+      const l = out.find((l) => Math.hypot(l.x - p.x, l.y - p.y) < sogliaLuogo)
       if (l) l.punti.push(p)
       else out.push({ x: p.x, y: p.y, punti: [p], prio: prio(p) })
     }
     return out
-  }, [punti, prio])
+  }, [punti, prio, sogliaLuogo])
 
   // gruppi alla scala della vista: greedy dal luogo più importante; il luogo scelto resta fuori
   const gruppi = useMemo(() => {
@@ -220,7 +232,7 @@ export function MappaAtlante({
     for (const l of luoghi) {
       if (!l.punti.some(visibile)) continue
       const libero = kVista === null || l.punti.some((p) => p.id === selId)
-      const g = libero ? undefined : out.find((g) => g.luoghi.length && !g.luoghi[0].punti.some((p) => p.id === selId) && Math.hypot(g.x - l.x, g.y - l.y) / kVista! < R_GRUPPO)
+      const g = libero ? undefined : out.find((g) => g.luoghi.length && !g.luoghi[0].punti.some((p) => p.id === selId) && Math.hypot(g.x - l.x, g.y - l.y) / kVista! < raggio)
       if (g) g.luoghi.push(l)
       else out.push({ x: l.x, y: l.y, luoghi: [l] })
     }
@@ -230,7 +242,7 @@ export function MappaAtlante({
         for (let j = i + 1; j < out.length; j++) {
           const a = out[i], b = out[j]
           const fissi = [a, b].some((g) => g.luoghi.some((l) => l.punti.some((p) => p.id === selId)))
-          if (fissi || Math.hypot(a.x - b.x, a.y - b.y) / kVista >= R_GRUPPO) continue
+          if (fissi || Math.hypot(a.x - b.x, a.y - b.y) / kVista >= raggio) continue
           a.luoghi.push(...b.luoghi)
           out.splice(j, 1)
           j = i
@@ -238,7 +250,7 @@ export function MappaAtlante({
       }
     }
     return out
-  }, [luoghi, kVista, selId, visibile])
+  }, [luoghi, kVista, selId, visibile, raggio])
 
   // percorso: ogni tratto è un arco morbido che piega sempre alla destra del verso di marcia,
   // così andata e ritorno sulla stessa tratta (Lima ⇄ Amazzonia) restano due archi distinti;
@@ -447,10 +459,10 @@ export function MappaAtlante({
       const r = svgRef.current?.getBoundingClientRect()
       let dmin = Infinity
       for (const a of g.luoghi) for (const b of g.luoghi) if (a !== b) dmin = Math.min(dmin, Math.hypot(a.x - b.x, a.y - b.y))
-      const wSep = r && r.width ? (dmin / (R_GRUPPO * 1.6)) * Math.max(r.width, r.height * (mappa.w / mappa.h)) : mappa.w / 6
+      const wSep = r && r.width ? (dmin / (raggio * 1.6)) * Math.max(r.width, r.height * (mappa.w / mappa.h)) : mappa.w / 6
       inquadra(g.luoghi.map((l) => l.x), g.luoghi.map((l) => l.y), Math.max(mappa.w / 30, Math.min(wSep, mappa.w / 2.4)))
     },
-    [inquadra, mappa.w, mappa.h],
+    [inquadra, mappa.w, mappa.h, raggio],
   )
 
   const scegli = useCallback(
@@ -650,6 +662,11 @@ export function MappaAtlante({
                     <path d={v.path} />
                   </clipPath>
                 ))}
+                {atlante.interni?.map((v) => (
+                  <clipPath key={v.id} id={P(`ci-${v.id}`)}>
+                    <path d={v.path} />
+                  </clipPath>
+                ))}
                 <clipPath id={P('paese')}>
                   <path d={mappa.path} />
                 </clipPath>
@@ -745,6 +762,24 @@ export function MappaAtlante({
               )}
               {/* contorno a inchiostro anche sopra la tinta, sottile */}
               <path d={mappa.path} fill="none" stroke="var(--color-ink)" strokeWidth={0.8} strokeLinejoin="round" opacity={0.7} vectorEffect="non-scaling-stroke" />
+              {/* zone interne (distretti): velatura più viva dei vicini, bordo carico lungo il confine */}
+              {atlante.interni?.map((v) => {
+                const [velo, bordo] = velatura(v.colore)
+                return (
+                  <g key={v.id}>
+                    <path d={v.path} fill={velo} />
+                    <path d={v.path} fill="none" stroke={bordo} strokeWidth={8} clipPath={`url(#${P(`ci-${v.id}`)})`} vectorEffect="non-scaling-stroke" />
+                    <path d={v.path} fill="none" stroke="var(--color-ink)" strokeWidth={0.7} strokeDasharray="4 2 1 2" opacity={0.75} vectorEffect="non-scaling-stroke" />
+                  </g>
+                )
+              })}
+              {/* ponti principali: doppia linea incisa */}
+              {atlante.ponti?.map((b) => (
+                <g key={b.id} strokeLinecap="round">
+                  <path d={b.path} fill="none" stroke="var(--color-ink)" strokeWidth={3.4} vectorEffect="non-scaling-stroke" />
+                  <path d={b.path} fill="none" stroke="var(--color-cream)" strokeWidth={1.4} vectorEffect="non-scaling-stroke" />
+                </g>
+              ))}
 
               {/* acque interne */}
               <g fill="none" strokeLinecap="round" strokeLinejoin="round">
@@ -780,6 +815,7 @@ export function MappaAtlante({
               {atlante.etichette.map((e) => {
                 const righe = (e.testo[lingua] ?? e.testo.it).split('\n')
                 const acqua = e.tipo === 'fiume' || e.tipo === 'lago'
+                const zona = [...atlante.vicini, ...(atlante.interni ?? [])].find((v) => v.id === e.id)
                 return (
                   <g key={e.id} data-fisso="" data-statica="" data-x={e.x} data-y={e.y} transform={`translate(${e.x} ${e.y}) scale(${scala0})`} aria-hidden className="pointer-events-none">
                     <g>
@@ -791,10 +827,12 @@ export function MappaAtlante({
                             ? 'font-display text-[11px] font-medium uppercase tracking-[0.42em]'
                             : acqua
                               ? 'font-sans text-[10px] italic tracking-[0.12em]'
-                              : 'fill-stone font-display text-[10.5px] font-semibold uppercase tracking-[0.3em]'
+                              : e.tipo === 'ponte'
+                                ? 'fill-ink font-sans text-[8.5px] italic tracking-[0.06em]'
+                                : 'fill-stone font-display text-[10.5px] font-semibold uppercase tracking-[0.3em]'
                         }
                         fill={acqua || e.tipo === 'mare' ? SCRITTA_ACQUA : undefined}
-                        style={e.tipo === 'mare' ? undefined : { paintOrder: 'stroke', stroke: acqua ? 'var(--color-cream)' : velatura(atlante.vicini.find((v) => v.id === e.id)?.colore ?? 0)[0], strokeWidth: 3, strokeLinejoin: 'round' }}
+                        style={e.tipo === 'mare' ? undefined : { paintOrder: 'stroke', stroke: acqua || e.tipo === 'ponte' || !zona ? 'var(--color-cream)' : velatura(zona.colore)[0], strokeWidth: 3, strokeLinejoin: 'round' }}
                       >
                         {righe.map((riga, i) => (
                           <tspan key={i} x={0} dy={i === 0 ? `${(-(righe.length - 1) * 0.65 + 0.35).toFixed(2)}em` : '1.3em'}>
@@ -938,7 +976,7 @@ export function MappaAtlante({
             </li>
           </ul>
           <p className="mt-2 text-[11px] leading-snug text-stone/85">
-            {t.fonti}{' '}
+            {atlante.crediti?.[lingua] ?? t.fonti}{' '}
             <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer" className="underline underline-offset-2 hover:text-rosso">
               © OpenStreetMap
             </a>{' '}
