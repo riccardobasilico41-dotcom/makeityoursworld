@@ -16,3 +16,4 @@
 - https://www.cha.go.kr/ (errore: URLError)
 - https://www.warmemo.or.kr/ (errore: URLError)
 - https://railway.gov.lk (errore: URLError)
+- https://cosituc.gob.pe/ (404)

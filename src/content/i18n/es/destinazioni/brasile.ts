@@ -36,6 +36,131 @@ export const destinazioniBrasile: Destinazione[] = [
       "Caminar de noche por zonas desiertas en lugar de usar una app",
       "Subir al Cristo a mediodía, cuando a menudo está entre las nubes y abarrotado",
     ],
+    luoghi: [
+      {
+        "nome": "Cristo Redentor",
+        "testo": "La estatua de 30 metros sobre el Corcovado, a 710 metros sobre la ciudad. Desde arriba se entiende la forma de Río: las playas, la laguna Rodrigo de Freitas y el Pão de Açúcar a la entrada de la bahía.",
+        "come": "Con el tren de cremallera desde Cosme Velho o con las vans oficiales desde Paineiras. La entrada se compra en línea eligiendo día y hora.",
+        "quando": "Primer viaje de la mañana, antes de las nubes y la multitud. A mediodía la estatua suele estar entre nubes.",
+        "tempo": "3-4 horas entre subida, visita y bajada",
+        "costo": "Unos 87 R$ con la van oficial, precio único todo el año (2026)",
+        "url": "https://paineirascorcovado.com.br/",
+        "consiglio": "Ve por la mañana y lleva una chaqueta ligera: arriba hace viento."
+      },
+      {
+        "nome": "Pão de Açúcar",
+        "testo": "El monolito de granito a la entrada de la bahía de Guanabara. El teleférico sube en dos tramos, primero al Morro da Urca y luego a la cima, con vista de 360 grados.",
+        "come": "Teleférico desde la estación de Praia Vermelha, en el barrio de Urca. Quien camina puede subir a pie hasta Urca por un sendero corto y tomar el teleférico solo para el segundo tramo.",
+        "quando": "Última hora de la tarde, para el atardecer sobre la bahía y la ciudad que se enciende.",
+        "tempo": "2-3 horas",
+        "costo": "Unos 205 R$ la entrada completa (2026); la tarifa promocional de 160 R$ es solo para brasileños",
+        "url": "https://www.bondinho.com.br/",
+        "consiglio": "Llega una hora antes del atardecer para no hacer cola."
+      },
+      {
+        "nome": "Copacabana, Ipanema y el Arpoador",
+        "testo": "Las dos playas urbanas más conocidas del mundo, divididas en «postos», las torres de los salvavidas que marcan también la tribu de cada tramo. Entre ambas está la Pedra do Arpoador, donde la gente aplaude el atardecer.",
+        "come": "En metro (estaciones de Copacabana, Cantagalo y General Osório) o a pie por el paseo marítimo.",
+        "quando": "Mañana para la playa; atardecer en el Arpoador.",
+        "tempo": "Medio día",
+        "consiglio": "En la toalla lleva solo lo que estés dispuesto a perder: no dejes teléfono ni cartera sin vigilancia."
+      },
+      {
+        "nome": "Santa Teresa y la Escadaria Selarón",
+        "testo": "El barrio de la colina con villas del siglo XIX, talleres y el tranvía amarillo (bondinho). La Escadaria Selarón, escalinata cubierta de azulejos de colores, baja hacia Lapa.",
+        "come": "En app o taxi hasta Santa Teresa, luego a pie; la escalinata se baja hacia Lapa.",
+        "quando": "De día.",
+        "tempo": "2-3 horas",
+        "consiglio": "Se va de día y se regresa en app."
+      },
+      {
+        "nome": "Centro histórico y Museu do Amanhã",
+        "testo": "El centro tiene la Confeitaria Colombo, el Theatro Municipal, la catedral en forma de cono y el Real Gabinete Português de Leitura, una de las bibliotecas más bellas del mundo. En el puerto, la plaza Mauá con el Museu do Amanhã y el Boulevard Olímpico lleno de murales.",
+        "come": "En metro desde Ipanema y Copacabana: 20-30 minutos.",
+        "quando": "En días laborables, de día. Muchas atracciones cierran el domingo y el centro se vacía.",
+        "tempo": "Medio día",
+        "consiglio": "El centro se recorre de día: por la noche y el fin de semana se vacía."
+      },
+      {
+        "nome": "Lapa y el samba",
+        "testo": "El barrio bajo los arcos del acueducto, con locales de samba en vivo y calles llenas el viernes y el sábado.",
+        "come": "En app, ida y vuelta, evitando caminar de noche.",
+        "quando": "Viernes y sábado por la noche.",
+        "tempo": "Una velada",
+        "consiglio": "Con solo el teléfono y el efectivo para la noche. Cuidado con los tirones en la multitud a última hora."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: Cristo Redentor en el primer viaje",
+          "Almuerzo en Santa Teresa o en el centro",
+          "Tarde: Pão de Açúcar",
+          "Noche: atardecer y cena en Ipanema"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: programa de 1 día",
+          "Día 2: mañana en la playa de Ipanema y Copacabana, tarde en el centro y Museu do Amanhã, noche en Lapa"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1-2 como arriba",
+          "Día 3: Santa Teresa y la Escadaria Selarón, atardecer en el Arpoador"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Ipanema y Leblon",
+        "perChi": "Quien quiere seguridad y restaurantes",
+        "testo": "La zona más cuidada, con mar y metro cerca. Económico 200-350 R$, medio 450-800 R$, alto más de 1.200 R$ por noche."
+      },
+      {
+        "nome": "Copacabana",
+        "perChi": "Quien busca el ambiente clásico y precios más bajos",
+        "testo": "El paseo marítimo siempre está vivo, pero algunas calles interiores son menos seguras de noche."
+      },
+      {
+        "nome": "Santa Teresa",
+        "perChi": "Quien busca ambiente artístico",
+        "testo": "Pousadas en villas históricas, pero en la colina y con calles empinadas. De noche mejor moverse en app."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Feijoada",
+        "testo": "Guiso de frijoles negros con carnes de cerdo, servido con arroz, couve y farofa. Tradicional los sábados."
+      },
+      {
+        "nome": "Churrascarias a rodízio",
+        "testo": "Carne a la parrilla servida en la mesa a voluntad."
+      },
+      {
+        "nome": "Pastel y caldo de cana",
+        "testo": "Empanada frita y jugo de caña de azúcar, típicos de los mercados."
+      },
+      {
+        "nome": "Locales por peso",
+        "testo": "Buffet pagado por kilo, el almuerzo diario de los cariocas."
+      },
+      {
+        "nome": "Caipirinha",
+        "testo": "Cachaça, lima y azúcar, en todas partes."
+      }
+    ],
+    attenzioni: [
+      "Robos de teléfonos en la playa y en la calle, tirones desde motos, asaltos en zonas desiertas de noche: sin joyas y sin teléfono en la mano.",
+      "Poco efectivo, pero una pequeña suma para entregar en caso de asalto, sin oponer resistencia.",
+      "Con Uber y 99 comprueba la placa y el nombre del conductor: la Farnesina señala falsos conductores, sobre todo en el aeropuerto.",
+      "Viaggiare Sicuri desaconseja cualquier visita a las favelas, incluso con guías.",
+      "Dengue extendido en las ciudades: repelente y mangas largas al atardecer."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
     imageAlt: "El Cristo Redentor en el Corcovado sobre la bahía de Río de Janeiro, con el Pan de Azúcar",
@@ -71,6 +196,112 @@ export const destinazioniBrasile: Destinazione[] = [
       "No llevar agua y comida a Lopes Mendes, donde no hay servicios",
       "Dejar el equipaje grande sin haber reservado el traslado al aeropuerto el día anterior",
     ],
+    luoghi: [
+      {
+        "nome": "Centro histórico de Paraty",
+        "testo": "Ciudad colonial del siglo XVIII, puerto del oro de Minas Gerais, patrimonio UNESCO desde 2019. El centro está cerrado a los coches, con casas blancas de puertas de colores y calles de adoquines que con la marea alta a veces se inundan.",
+        "come": "Bus desde Río (rodoviária Novo Rio) en unas 4 horas y media.",
+        "quando": "La noche es tranquila, con restaurantes y música en vivo.",
+        "tempo": "Medio día o una noche",
+        "consiglio": "Con la marea alta algunas calles se inundan: calzado adecuado."
+      },
+      {
+        "nome": "La bahía de Paraty en escuna",
+        "testo": "La bahía tiene decenas de islas y playas accesibles solo por mar. Las escunas hacen un paseo de 4-5 horas con paradas para bañarse.",
+        "come": "Embarque en el puerto de Paraty. Las lanchas privadas cuestan más pero eligen dónde parar.",
+        "quando": "Mañana.",
+        "tempo": "4-5 horas",
+        "consiglio": "Si quieres evitar la multitud, elige una lancha."
+      },
+      {
+        "nome": "Cascadas de Cunha y alambiques",
+        "testo": "En el camino de Cunha hay cascadas como la Cachoeira do Tobogã, donde los chicos del lugar se deslizan por la roca, y alambiques de cachaça.",
+        "come": "En taxi o con un tour desde el centro de Paraty.",
+        "quando": "Tarde, después del paseo en barca.",
+        "tempo": "Medio día",
+        "consiglio": "Lleva calzado que pueda mojarse."
+      },
+      {
+        "nome": "Trindade",
+        "testo": "Pueblo con playas salvajes y la piscina natural del Cachadaço.",
+        "come": "A 30 minutos al sur de Paraty, en bus o taxi.",
+        "quando": "Día completo, si tienes un día extra.",
+        "tempo": "Un día",
+        "consiglio": "Añádela si tienes un día extra."
+      },
+      {
+        "nome": "Vila do Abraão (Ilha Grande)",
+        "testo": "El pueblo principal de la isla sin coches, con pousadas, restaurantes y vida nocturna. De aquí salen senderos hacia el Aqueduto y la Cachoeira da Feiticeira.",
+        "come": "Desde Paraty en van y barca (unas 3 horas), vía Angra dos Reis o Conceição de Jacareí.",
+        "quando": "Tarde de llegada para un primer sendero corto.",
+        "tempo": "Una o dos noches",
+        "consiglio": "Reserva el día anterior el traslado al aeropuerto de Río."
+      },
+      {
+        "nome": "Lopes Mendes, Lagoa Azul y Lagoa Verde",
+        "testo": "Lopes Mendes se considera una de las playas más bellas de Brasil: tres kilómetros de arena blanca y fina, mar abierto, bosque detrás. La Lagoa Azul y la Lagoa Verde se visitan en barca para hacer snorkel.",
+        "come": "En barca hasta Pouso y luego 20 minutos a pie, o un sendero de unas tres horas por el bosque.",
+        "quando": "Mañana. El baño debe hacerse con prudencia por olas y corrientes.",
+        "tempo": "Día completo",
+        "consiglio": "En Lopes Mendes no hay servicios: lleva agua y comida."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: Paraty (centro histórico, bahía en escuna)",
+          "Día 2: cascadas de Cunha o Trindade, luego noche en Paraty"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Día 1: Paraty y la bahía",
+          "Día 2: traslado a Ilha Grande, Vila do Abraão",
+          "Día 3: Lopes Mendes"
+        ]
+      },
+      {
+        "titolo": "4 días",
+        "tappe": [
+          "Días 1-3 como arriba",
+          "Día 4: Lagoa Azul y Lagoa Verde en barca, luego regreso a Río"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Centro histórico de Paraty",
+        "perChi": "Quien busca ambiente colonial",
+        "testo": "Pousadas 300-700 R$. Calles de adoquines, ruido nocturno de los locales."
+      },
+      {
+        "nome": "Vila do Abraão",
+        "perChi": "Quien visita Ilha Grande",
+        "testo": "Pousadas 250-600 R$, vida nocturna y salidas de barcas. Isla sin coches."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Cachaça artesanal",
+        "testo": "Producida en el lugar en Paraty y en los alambiques cercanos."
+      },
+      {
+        "nome": "Pescado y mariscos",
+        "testo": "A la parrilla o en moqueca en los restaurantes frente al mar."
+      },
+      {
+        "nome": "Banana-da-terra",
+        "testo": "Plátano frito, servido como guarnición en toda la costa."
+      }
+    ],
+    attenzioni: [
+      "Sin servicios en Lopes Mendes: lleva agua y comida.",
+      "Mar abierto con olas y corrientes: baño con prudencia.",
+      "Reserva el traslado al aeropuerto el día anterior.",
+      "Calles de adoquines con la marea alta: posibles inundaciones."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
     imageAlt: "Las casas coloniales blancas de puertas de colores en el centro histórico de Paraty",
@@ -102,6 +333,98 @@ export const destinazioniBrasile: Destinazione[] = [
       "Ver un solo lado",
       "Olvidar el pasaporte para la frontera argentina",
       "Llegar tarde a la Garganta del Diablo, que se llena a media mañana",
+    ],
+    luoghi: [
+      {
+        "nome": "Lado brasileño de las cataratas",
+        "testo": "Da la vista de conjunto: un sendero de un kilómetro y medio a lo largo del cañón, hasta la pasarela que entra bajo la Garganta do Diabo, donde uno se moja por completo.",
+        "come": "Buses urbanos o taxi desde Foz do Iguaçu; se entra por el centro de visitantes y se sube con el bus del parque.",
+        "quando": "Llega temprano por la mañana.",
+        "tempo": "2-3 horas",
+        "costo": "Unos 130 R$ para extranjeros (2026, tope 134 R$), para comprar en línea con día y hora",
+        "url": "https://www.cataratasdoiguacu.com.br/",
+        "consiglio": "Capa de lluvia o bolsa impermeable para teléfono y documentos."
+      },
+      {
+        "nome": "Lado argentino de las cataratas",
+        "testo": "Se camina dentro de las cataratas: tres circuitos de pasarelas (Superior, Inferior y la Garganta del Diablo, a la que se llega con un tren en el bosque) llegan sobre el salto más grande, donde la niebla de agua sube decenas de metros.",
+        "come": "La frontera se pasa en taxi, en bus o con un traslado, mostrando el pasaporte y haciendo los sellos de salida y entrada.",
+        "quando": "Llega a la apertura: la pasarela de la Garganta se llena a media mañana.",
+        "tempo": "Día completo",
+        "costo": "60.000 pesos argentinos para extranjeros no residentes (unos 40 dólares) desde el 1 de junio de 2026, con tarifa reducida el segundo día consecutivo",
+        "url": "https://www.iguazuargentina.com/",
+        "consiglio": "Lleva el pasaporte y pesos o tarjeta."
+      },
+      {
+        "nome": "Parque das Aves",
+        "testo": "Un parque con tucanes, guacamayos y aves de la Mata Atlántica en grandes pajareras, frente a la entrada de las cataratas brasileñas.",
+        "come": "Justo frente a la entrada del lado brasileño.",
+        "quando": "Después de las cataratas, por la tarde.",
+        "tempo": "1-2 horas",
+        "consiglio": "Combina bien con la mañana en las cataratas."
+      },
+      {
+        "nome": "Macuco Safari",
+        "testo": "El paseo en lancha neumática hasta debajo de los saltos.",
+        "come": "Se puede reservar en el lugar o con antelación; sale del lado brasileño.",
+        "quando": "Mañana o tarde.",
+        "tempo": "1-2 horas",
+        "costo": "Aproximadamente 450-550 R$",
+        "consiglio": "Te mojas por completo: ropa de repuesto y funda para el teléfono."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: lado brasileño de las cataratas",
+          "Tarde: Parque das Aves"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: lado brasileño y Parque das Aves, Macuco Safari opcional",
+          "Día 2: lado argentino, empezando a la apertura, con la Garganta del Diablo primero"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Foz do Iguaçu",
+        "perChi": "Quien tiene vuelos y quiere comodidad",
+        "testo": "Gama media 300-600 R$ por noche, conectada con el aeropuerto. Más cómoda para los vuelos."
+      },
+      {
+        "nome": "Puerto Iguazú (Argentina)",
+        "perChi": "Quien quiere estar más cerca del lado argentino",
+        "testo": "Ciudad más pequeña, con menos oferta y vuelos menos cómodos."
+      },
+      {
+        "nome": "Hotel dentro del parque brasileño",
+        "perChi": "Quien busca la vista desde la habitación",
+        "testo": "El único hotel dentro del parque es de gama alta."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Pescado de río",
+        "testo": "Surubí y otros peces del Paraná, a la parrilla."
+      },
+      {
+        "nome": "Chipa",
+        "testo": "Panecillos de queso de tradición paraguaya y argentina, vendidos en la calle."
+      },
+      {
+        "nome": "Churrasco",
+        "testo": "Carne a la parrilla en los restaurantes de Foz."
+      }
+    ],
+    attenzioni: [
+      "Ver un solo lado: son experiencias distintas.",
+      "Olvidar el pasaporte para la frontera argentina.",
+      "Llegar tarde a la Garganta del Diablo, que se llena a media mañana.",
+      "Fiebre amarilla: vacunación recomendada para el oeste de Paraná."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
@@ -139,6 +462,108 @@ export const destinazioniBrasile: Destinazione[] = [
       "Alejarse de las calles principales del Pelourinho por la noche",
       "Aceptar las cintas del Bonfim «regaladas» en la calle",
     ],
+    luoghi: [
+      {
+        "nome": "Pelourinho e Igreja de São Francisco",
+        "testo": "El centro histórico, patrimonio UNESCO: plazas en cuesta con casas coloniales de colores pastel e iglesias barrocas. La Igreja de São Francisco está revestida de oro por dentro.",
+        "come": "A pie desde tu alojamiento en el centro o en app desde los barrios de mar.",
+        "quando": "De día. El martes por la noche en el Pelourinho hay fiesta, con conciertos y los tambores del Olodum.",
+        "tempo": "Medio día",
+        "consiglio": "Por la noche las calles laterales se vacían pronto: quédate en las calles principales y regresa en app."
+      },
+      {
+        "nome": "Elevador Lacerda y Mercado Modelo",
+        "testo": "El ascensor público de 1873 une la ciudad alta con la ciudad baja. Abajo está el Mercado Modelo, mercado de artesanía.",
+        "come": "El ascensor parte de la Praça Tomé de Souza.",
+        "quando": "Mañana.",
+        "tempo": "1-2 horas",
+        "consiglio": "El mercado es turístico: regatea los precios."
+      },
+      {
+        "nome": "Igreja do Senhor do Bonfim",
+        "testo": "La iglesia de las cintas de colores, atadas a la reja y a la muñeca como promesa.",
+        "come": "En app o taxi desde el centro.",
+        "quando": "Mañana.",
+        "tempo": "1 hora",
+        "consiglio": "No aceptes las cintas «regaladas» en la calle: luego piden dinero."
+      },
+      {
+        "nome": "Rio Vermelho y el acarajé",
+        "testo": "El barrio de la vida nocturna, donde las baianas fríen el acarajé en aceite de palma en la calle.",
+        "come": "En app desde el centro o Barra.",
+        "quando": "Noche.",
+        "tempo": "Una velada",
+        "consiglio": "Come el acarajé de las baianas, no en locales para turistas."
+      },
+      {
+        "nome": "Farol da Barra",
+        "testo": "El faro en la punta de la ciudad, con el atardecer más bello sobre la bahía.",
+        "come": "En app o bus desde Barra.",
+        "quando": "Atardecer.",
+        "tempo": "1-2 horas",
+        "consiglio": "El primer atardecer en Salvador se mira desde aquí."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: Pelourinho e Igreja de São Francisco",
+          "Elevador Lacerda y Mercado Modelo",
+          "Atardecer en el Farol da Barra"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: programa de 1 día",
+          "Día 2: Igreja do Senhor do Bonfim, Solar do Unhão, noche en Rio Vermelho"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1-2 como arriba",
+          "Día 3: roda de capoeira en una escuela del Pelourinho (preguntando antes) o paseo en barca por la Baía de Todos os Santos"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Pelourinho y Santo Antônio Além do Carmo",
+        "perChi": "Quien quiere el centro histórico",
+        "testo": "Pousadas 250-600 R$. Vigilado de día, más vacío por la noche."
+      },
+      {
+        "nome": "Barra y Rio Vermelho",
+        "perChi": "Quien busca el mar y la vida nocturna",
+        "testo": "Más seguros por la noche, cerca de las playas y los restaurantes."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Moqueca baiana",
+        "testo": "Guiso de pescado con leche de coco y aceite de dendê."
+      },
+      {
+        "nome": "Acarajé",
+        "testo": "Buñuelo de frijol fradinho frito en aceite de palma, relleno de vatapá y camarones."
+      },
+      {
+        "nome": "Vatapá",
+        "testo": "Crema de pan, camarones, leche de coco y cacahuetes."
+      },
+      {
+        "nome": "Bobó de camarão",
+        "testo": "Crema de mandioca con camarones."
+      }
+    ],
+    attenzioni: [
+      "El Pelourinho de noche: alejarse de las calles principales es arriesgado.",
+      "Cintas del Bonfim «regaladas» en la calle: luego piden dinero.",
+      "Delincuencia menor: robos de teléfonos y tirones.",
+      "Usa apps en lugar de caminar de noche."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
     imageAlt: "La plaza en cuesta del Pelourinho en Salvador con las casas coloniales y la iglesia del Rosário dos Pretos",
@@ -168,6 +593,92 @@ export const destinazioniBrasile: Destinazione[] = [
     periodoMigliore: "abril-septiembre, estación seca; el Poço Encantado se ilumina de abril a septiembre.",
     costi: "Tours de un día 150-300 R$ más guía y entradas.",
     erroriDaEvitare: ["Hacer los senderos largos sin guía", "Subestimar la subida inicial de la Fumaça"],
+    luoghi: [
+      {
+        "nome": "Morro do Pai Inácio",
+        "testo": "La mesa que domina el valle. El atardecer desde aquí es el clásico de la Chapada.",
+        "come": "Con tour o coche; 20-30 minutos de subida empinada desde el aparcamiento.",
+        "quando": "Atardecer.",
+        "tempo": "2 horas",
+        "consiglio": "Lleva una linterna para la bajada."
+      },
+      {
+        "nome": "Cachoeira da Fumaça",
+        "testo": "Una de las cascadas más altas de Brasil, unos 340 metros. En la estación seca el agua se vuelve humo antes de tocar el suelo, de ahí el nombre.",
+        "come": "Desde el valle del Capão con un sendero de 6 km ida y vuelta y una subida inicial empinada.",
+        "quando": "Estación seca, abril-septiembre.",
+        "tempo": "Medio día",
+        "consiglio": "No subestimes la subida inicial."
+      },
+      {
+        "nome": "Poço Azul y Poço Encantado",
+        "testo": "Cuevas inundadas donde la luz del sol entra y enciende el agua de azul.",
+        "come": "Con tour y guía, en coche.",
+        "quando": "El Poço Encantado se ilumina en las horas centrales de abril a septiembre.",
+        "tempo": "Medio día",
+        "costo": "Tours de un día 150-300 R$ más guía y entradas",
+        "consiglio": "Comprueba los horarios de la luz: fuera de temporada no se ve el azul."
+      },
+      {
+        "nome": "Lapa Doce y Pratinha",
+        "testo": "Cuevas con agua turquesa donde se hace snorkel. El Poço do Diabo es una cascada con una poza oscura.",
+        "come": "Recorrido clásico con guía y coche.",
+        "quando": "Día completo.",
+        "tempo": "Un día",
+        "consiglio": "En las cuevas el guía es obligatorio."
+      },
+      {
+        "nome": "Vale do Pati",
+        "testo": "Trekking de 3-5 días por valles remotos durmiendo en casas de campesinos.",
+        "come": "Con guía, a pie, desde Guiné o el Vale do Capão.",
+        "quando": "Estación seca.",
+        "tempo": "3-5 días",
+        "consiglio": "Para quien tiene tiempo y piernas, es la alternativa a los tours de un día."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: Ribeirão do Meio, Lapa Doce o Pratinha, atardecer en el Pai Inácio",
+          "Día 2: Cachoeira da Fumaça o Poço Azul y Poço Encantado"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1-2 como arriba",
+          "Día 3: una segunda actividad a elegir, o inicio del Vale do Pati"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Lençóis",
+        "perChi": "Quien quiere la base de los tours",
+        "testo": "Pousadas 200-500 R$. Pueblo pequeño con agencias y restaurantes."
+      },
+      {
+        "nome": "Vale do Capão",
+        "perChi": "Quien quiere caminar",
+        "testo": "Más tranquilo, cerca de la Fumaça y del Pati."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Cocina bahiana del interior",
+        "testo": "Carne de sol, feijão tropeiro, farofa."
+      },
+      {
+        "nome": "Cachaça y licores locales",
+        "testo": "Producidos en las fazendas de la región."
+      }
+    ],
+    attenzioni: [
+      "Senderos largos sin guía: los recorridos están poco señalizados.",
+      "Subestimar la subida inicial de la Fumaça.",
+      "Fuera de la estación seca muchas cascadas son más difíciles."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
     imageAlt: "Las mesetas de la Chapada Diamantina vistas desde arriba",
@@ -200,6 +711,97 @@ export const destinazioniBrasile: Destinazione[] = [
       "Ir fuera de temporada, cuando las lagunas están vacías",
       "Entrar en el parque en las horas centrales sin agua ni gorra",
     ],
+    luoghi: [
+      {
+        "nome": "Circuito de la Lagoa Azul",
+        "testo": "Las primeras lagunas: agua de lluvia transparente y tibia, recogida entre dunas de arena blanca de hasta 40 metros. Se camina descalzo y se hace baño.",
+        "come": "En jardineira, el todoterreno con bancos en la caja que cruza el río en una balsa y toma el camino de arena.",
+        "quando": "Atardecer, cuando la arena cambia de color. Junio-septiembre, con el máximo de agua en julio-agosto.",
+        "tempo": "Medio día",
+        "costo": "Jardineira 100-150 R$ por persona por circuito, guía incluido. Entrada al parque gratuita (2026)",
+        "consiglio": "Dentro del parque no hay nada: agua y gorra se llevan desde Barreirinhas."
+      },
+      {
+        "nome": "Lagoa Bonita",
+        "testo": "Se alcanza subiendo una duna empinada con una cuerda: desde arriba se ve el mar de dunas y lagunas hasta el horizonte.",
+        "come": "Circuito en jardineira desde el lado de Barreirinhas.",
+        "quando": "Al amanecer o al atardecer. A mediodía la arena abrasa.",
+        "tempo": "Medio día",
+        "consiglio": "Ve en las primeras horas o por la tarde."
+      },
+      {
+        "nome": "Rio Preguiças: Vassouras, Mandacaru y Caburé",
+        "testo": "Un día en barca por el río hasta el mar. En Vassouras los monos capuchinos se acercan a la orilla, en Mandacaru hay un faro desde el que se miran las dunas, Caburé es una lengua de arena entre el río y el océano.",
+        "come": "Barca desde Barreirinhas.",
+        "quando": "Día completo.",
+        "tempo": "Un día",
+        "consiglio": "Se puede dormir en Atins en lugar de regresar."
+      },
+      {
+        "nome": "Atins",
+        "testo": "El pueblo en el extremo del parque, base del kitesurf.",
+        "come": "En barca o 4x4 desde Barreirinhas.",
+        "quando": "Mejor para una noche.",
+        "tempo": "Una noche",
+        "consiglio": "El traslado de regreso a São Luís es más largo desde Atins: planifica con antelación."
+      },
+      {
+        "nome": "Centro histórico de São Luís",
+        "testo": "La única capital brasileña fundada por los franceses (1612), con un centro histórico de casas cubiertas de azulejos portugueses, patrimonio UNESCO.",
+        "come": "En app o a pie por la Praia Grande.",
+        "quando": "Antes de salir hacia Barreirinhas o a la llegada.",
+        "tempo": "Medio día",
+        "consiglio": "Quien llega temprano puede dar un paseo por la Praia Grande."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: van de São Luís a Barreirinhas (unas 4 horas), circuito de la Lagoa Azul al atardecer",
+          "Día 2: Lagoa Bonita al amanecer, luego Rio Preguiças"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1-2 como arriba",
+          "Día 3: Atins y Caburé, regreso a São Luís"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Barreirinhas",
+        "perChi": "Quien quiere la base de los circuitos",
+        "testo": "Pousadas 250-600 R$. Puerta de entrada del parque."
+      },
+      {
+        "nome": "Atins",
+        "perChi": "Quien quiere mar y kitesurf",
+        "testo": "Pueblo junto al mar, más aislado y con menos servicios."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Arroz de cuxá",
+        "testo": "Arroz con vinagreira y camarones secos, típico de Maranhão."
+      },
+      {
+        "nome": "Torta de camarão",
+        "testo": "Pastel de camarones, especialidad de São Luís."
+      },
+      {
+        "nome": "Guaraná Jesus",
+        "testo": "Refresco rosa local, símbolo del estado."
+      }
+    ],
+    attenzioni: [
+      "Fuera de temporada las lagunas están vacías.",
+      "No entrar en las horas centrales sin agua y gorra.",
+      "En el parque se circula solo en 4x4 con conductores autorizados.",
+      "Fiebre amarilla: vacunación recomendada para todo Maranhão."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
     imageAlt: "Lagunas turquesa entre las dunas blancas de los Lençóis Maranhenses",
@@ -227,6 +829,89 @@ export const destinazioniBrasile: Destinazione[] = [
       "Ir en la estación de lluvias (noviembre-abril)",
       "Elegir operadores que rodean a los animales con demasiadas barcas",
       "Recorrer la Transpantaneira de noche",
+    ],
+    luoghi: [
+      {
+        "nome": "La Transpantaneira",
+        "testo": "Camino de tierra de 147 km con más de cien puentes de madera que termina en Porto Jofre. Se recorre en un día entero, con paradas para ver animales.",
+        "come": "Vuelo a Cuiabá, unas 2 horas hasta Poconé y luego el camino. Coche alto o 4x4, o paquetes con traslado.",
+        "quando": "Julio-octubre, mejor agosto-septiembre. De noviembre a abril las lluvias inundan el camino.",
+        "tempo": "Un día",
+        "consiglio": "No lo recorras de noche."
+      },
+      {
+        "nome": "Porto Jofre y los jaguares",
+        "testo": "En los ríos Cuiabá, Três Irmãos y Piquiri, en la estación seca, los jaguares se ven en las orillas con una regularidad sin comparación.",
+        "come": "Salidas en barca con piloteiro al amanecer y por la tarde.",
+        "quando": "Julio-octubre.",
+        "tempo": "1-2 días de salidas",
+        "costo": "Barca para el día completo 1.400-1.600 R$ para 4-6 personas, unos 1.000 R$ medio día (indicaciones de viajeros, 2026)",
+        "consiglio": "Evita los operadores que rodean a los animales con demasiadas barcas."
+      },
+      {
+        "nome": "Safari desde las pousadas",
+        "testo": "Safari en coche, a caballo o a pie desde las pousadas a lo largo de la Transpantaneira, para carpinchos, caimanes, tucanes y jabirús.",
+        "come": "Con la pousada, que organiza las salidas.",
+        "quando": "Mañana y última hora de la tarde.",
+        "tempo": "1-2 días",
+        "consiglio": "La opción económica: dos noches en una pousada sencilla y uno o dos días de barca desde Porto Jofre."
+      },
+      {
+        "nome": "Cuiabá",
+        "testo": "La capital de Mato Grosso, base logística para el Pantanal y para continuar hacia la Amazonía con un vuelo a Manaus.",
+        "come": "Vuelo desde São Paulo o Brasília.",
+        "quando": "Día de llegada y de salida.",
+        "tempo": "Una noche",
+        "consiglio": "Huso horario UTC-4, una hora menos que Río."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "4 días",
+        "tappe": [
+          "Día 1: vuelo a Cuiabá y carretera hasta una pousada",
+          "Día 2: safari y bajada a Porto Jofre",
+          "Día 3: salidas en barca para los jaguares",
+          "Día 4: regreso a Cuiabá"
+        ]
+      },
+      {
+        "titolo": "5 días",
+        "tappe": [
+          "Día 1: vuelo y pousada en la Transpantaneira",
+          "Día 2: safari y bajada a Porto Jofre",
+          "Días 3-4: barca al amanecer y por la tarde",
+          "Día 5: regreso a Cuiabá y vuelo"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Pousadas en la Transpantaneira",
+        "perChi": "Quien tiene presupuesto limitado",
+        "testo": "Sencillas y económicas, con salidas a pie y en coche."
+      },
+      {
+        "nome": "Lodge junto al río u hotel flotante en Porto Jofre",
+        "perChi": "Quien quiere ver jaguares",
+        "testo": "Gama alta, con paquetes completos 9.000-13.000 R$ por persona por 3-4 noches."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Pescado de río",
+        "testo": "Pintado, pacu y piraña, a la parrilla o en sopa."
+      },
+      {
+        "nome": "Carne seca",
+        "testo": "Carne desecada de Mato Grosso con arroz y mandioca."
+      }
+    ],
+    attenzioni: [
+      "Estación de lluvias (noviembre-abril): Transpantaneira inundada y barcas inciertas.",
+      "Operadores que rodean a los animales: elige quien respeta la distancia.",
+      "No conduzcas la Transpantaneira de noche.",
+      "Fiebre amarilla: vacuna recomendada para Mato Grosso."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],
@@ -263,6 +948,102 @@ export const destinazioniBrasile: Destinazione[] = [
       "Olvidar los sellos de salida en la Polícia Federal de Tabatinga",
       "Salir sin la vacuna de la fiebre amarilla",
       "Contar con horarios fijos de las barcas, que cambian a menudo",
+    ],
+    luoghi: [
+      {
+        "nome": "Teatro Amazonas y Mercado Adolpho Lisboa",
+        "testo": "El teatro de la ópera del auge del caucho y el mercado del puerto inspirado en Les Halles de París. Las dos paradas urbanas de Manaus.",
+        "come": "A pie por el centro histórico.",
+        "quando": "Mañana.",
+        "tempo": "Medio día",
+        "consiglio": "El mercado es un buen lugar para probar pescados amazónicos."
+      },
+      {
+        "nome": "El Encuentro de las Aguas",
+        "testo": "El punto donde el oscuro Rio Negro se encuentra con el Solimões, color café con leche, y las dos aguas corren juntas sin mezclarse durante kilómetros.",
+        "come": "En barca desde Manaus, a menudo incluido en los tours.",
+        "quando": "Mañana.",
+        "tempo": "2-3 horas",
+        "consiglio": "Se ve mejor en un tour en barca que desde el puerto."
+      },
+      {
+        "nome": "Archipiélago de Anavilhanas",
+        "testo": "Uno de los mayores archipiélagos fluviales del mundo, en el Rio Negro, con bosque inundado (igapó).",
+        "come": "Con tour o lodge.",
+        "quando": "Aguas altas abril-julio para navegar por el bosque inundado.",
+        "tempo": "1-2 días",
+        "consiglio": "Comprueba si el tour incluye el bosque inundado."
+      },
+      {
+        "nome": "Lodge en el bosque",
+        "testo": "Dos o tres noches en un lodge con canoa en el igapó, caminatas guiadas y observación nocturna de caimanes. Delfines rosados en el río.",
+        "come": "Traslado en barca del lodge desde Manaus.",
+        "quando": "Todo el año; aguas bajas septiembre-diciembre.",
+        "tempo": "2-3 noches",
+        "costo": "Lodge con pensión completa 800-2.500 R$ por persona por noche",
+        "consiglio": "Para información sobre agencias, mira la página Amazonía del sitio."
+      },
+      {
+        "nome": "Hacia Tabatinga y la triple frontera",
+        "testo": "Desde Manaus se puede remontar el río Amazonas hasta Tabatinga, en la frontera con Colombia y Perú, y continuar a Leticia o Iquitos.",
+        "come": "Vuelo (unas 1h30), barca rápida (30-36 horas) o lenta (6-7 días).",
+        "quando": "Todo el año; los horarios de las barcas cambian a menudo.",
+        "tempo": "1-7 días según el medio",
+        "costo": "Barca rápida Manaus-Tabatinga unos 1.000 R$ (2026)",
+        "consiglio": "Haz los sellos de salida en la Polícia Federal de Tabatinga."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "4 días",
+        "tappe": [
+          "Día 1: Manaus (teatro y mercado)",
+          "Día 2: Encuentro de las Aguas y traslado al lodge",
+          "Día 3: canoa en el igapó y salida nocturna",
+          "Día 4: regreso a Manaus"
+        ]
+      },
+      {
+        "titolo": "5 días",
+        "tappe": [
+          "Día 1: Manaus",
+          "Día 2: Encuentro de las Aguas y lodge",
+          "Días 3-4: bosque y Anavilhanas",
+          "Día 5: regreso a Manaus"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Centro de Manaus",
+        "perChi": "Quien se queda pocos días",
+        "testo": "Hoteles en el centro cerca del teatro y del puerto. Calor y tráfico."
+      },
+      {
+        "nome": "Lodges en el Rio Negro",
+        "perChi": "Quien busca el bosque",
+        "testo": "Pensión completa, excursiones incluidas. Coste alto, pero todo incluido."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Tambaqui a la parrilla",
+        "testo": "Pescado amazónico, servido con farofa y mandioca."
+      },
+      {
+        "nome": "Tacacá",
+        "testo": "Sopa con tucupí, jambú y camarones, típica de la Amazonía."
+      },
+      {
+        "nome": "Açaí",
+        "testo": "Servido salado con pescado o dulce con guaraná."
+      }
+    ],
+    attenzioni: [
+      "Sellos de salida en la Polícia Federal de Tabatinga: olvidarlos complica la entrada a Colombia y Perú.",
+      "Vacuna contra la fiebre amarilla: recomendada para toda la Amazonía.",
+      "Horarios de barcas no fijos: deja margen.",
+      "Efectivo en la moneda del país antes de embarcar."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['brasile-itinerario'],

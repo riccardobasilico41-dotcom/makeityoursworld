@@ -53,6 +53,120 @@ export const destinazioniBolivia: Destinazione[] = [
     ],
     miaEsperienza:
       'Atterrare a El Alto è uno shock fisico che quasi nessuno mette in conto: siamo scesi dall\'aereo a più di quattromila metri e il corpo se n\'è accorto prima ancora di uscire dal terminal. La Paz è la città più strana del continente, costruita dentro una conca con i quartieri poveri in alto e quelli ricchi in basso. È l\'opposto di ogni altra città al mondo, e per una ragione precisa: più si scende, più si respira. Le teleferiche urbane le consiglio a chiunque: costano pochi centesimi e danno la vista migliore sulla conca. Il problema vero della Bolivia sono i blocchi stradali, da mettere in conto nell\'itinerario come un rischio concreto.',
+    luoghi: [
+      {
+        "nome": "Mi Teleférico",
+        "testo": "La rete di funivie urbane che collega La Paz a El Alto. È trasporto pubblico e insieme il miglior punto panoramico della conca: la linea rossa e quella gialla danno la vista più bella.",
+        "come": "Le stazioni sono in tutta la città; si compra il biglietto alla stazione.",
+        "quando": "Al tramonto, quando la conca si illumina.",
+        "tempo": "1-2 ore",
+        "costo": "Pochi centesimi di euro a corsa",
+        "consiglio": "Rick le consiglia a chiunque: costano pochissimo e danno la vista migliore sulla conca."
+      },
+      {
+        "nome": "Mercado de las Brujas",
+        "testo": "Il mercato delle streghe, con rimedi tradizionali aymara, erbe, amuleti e i feti di lama usati come offerta alla Pachamama.",
+        "come": "A piedi dal centro, nella zona di calle Linares.",
+        "quando": "Di giorno.",
+        "tempo": "1 ora",
+        "consiglio": "Chiedi sempre prima di fotografare le persone."
+      },
+      {
+        "nome": "Valle de la Luna",
+        "testo": "Formazioni di argilla erosa a pochi chilometri dal centro, con sentieri brevi tra guglie e canyon.",
+        "come": "Bus o taxi dalla zona sud di La Paz (Mallasa), circa 30 minuti.",
+        "quando": "Mattina, con luce migliore.",
+        "tempo": "1-2 ore",
+        "consiglio": "A questa quota anche una passeggiata breve stanca: vai piano."
+      },
+      {
+        "nome": "El Alto e le cholitas luchadoras",
+        "testo": "Il mercato di El Alto (giovedì e domenica) è uno dei più grandi del Sud America. La domenica si assiste anche al wrestling delle donne aymara in gonna tradizionale.",
+        "come": "In teleferica (linea rossa) fino a El Alto.",
+        "quando": "Giovedì e domenica per il mercato.",
+        "tempo": "Mezza giornata",
+        "consiglio": "Tieni borse e telefono davanti: il mercato è affollato."
+      },
+      {
+        "nome": "Carretera de la Muerte",
+        "testo": "La vecchia strada per Coroico, da oltre 4.600 metri fino a circa 1.200 metri, oggi percorsa in discesa in mountain bike. Esperienza di giornata tra nebbia, foresta e gole.",
+        "come": "Con un operatore, in mountain bike, con partenza da La Paz al mattino presto e rientro nel tardo pomeriggio.",
+        "quando": "Maggio-ottobre, ma solo dopo essersi acclimatati.",
+        "tempo": "Giornata intera",
+        "costo": "Indicativamente 80-100 dollari con operatori economici e 120-170 con operatori premium",
+        "consiglio": "Scegli un operatore con bici e freni in buono stato: qui conta più del prezzo."
+      },
+      {
+        "nome": "Chacaltaya",
+        "testo": "L'ex stazione sciistica più alta del mondo, oggi senza ghiacciaio, con vista su Huayna Potosí.",
+        "come": "Tour di mezza giornata da La Paz.",
+        "quando": "Mattina presto.",
+        "tempo": "Mezza giornata",
+        "consiglio": "Sali solo dopo almeno due giorni a La Paz: la cima supera i 5.000 metri."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Mattina: Mercado de las Brujas",
+          "Teleferica rossa e gialla",
+          "Pranzo con salteñas",
+          "Tramonto in teleferica"
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: programma da 1 giorno, con calma assoluta",
+          "Giorno 2: Valle de la Luna e mercato di El Alto (giovedì o domenica)"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: Carretera de la Muerte, solo dopo acclimatamento"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Sopocachi",
+        "perChi": "Chi cerca ristoranti e vita serale",
+        "testo": "Quartiere più curato, a quota più bassa e con bar. A pochi passi dal centro."
+      },
+      {
+        "nome": "San Pedro e centro",
+        "perChi": "Chi vuole risparmiare",
+        "testo": "Prezzi bassi e comodità alle agenzie, ma più caotico e rumoroso."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Salteñas",
+        "testo": "Fagottini al forno ripieni di carne o pollo con sugo. Si mangiano a metà mattina: a colazione non si mangiano."
+      },
+      {
+        "nome": "Api con pastel",
+        "testo": "Bevanda calda di mais viola con un pasticcino fritto al formaggio, colazione da strada."
+      },
+      {
+        "nome": "Zuppe dei mercati coperti",
+        "testo": "Sostanziose, adatte alla quota."
+      },
+      {
+        "nome": "Cucina curata di Sopocachi",
+        "testo": "Il quartiere con l'offerta più elaborata della città."
+      }
+    ],
+    attenzioni: [
+      "Arrivare a El Alto (oltre 4.000 metri) e programmare qualcosa di impegnativo il giorno stesso.",
+      "Blocchi stradali: possono isolare la città per giorni e far saltare voli e trasferimenti.",
+      "Taxi non ufficiali, soprattutto di sera: usa radio-taxi o app.",
+      "Borseggi nei mercati affollati: niente oggetti di valore in vista.",
+      "Ricontrolla su Viaggiare Sicuri la situazione politica e sociale prima di partire."
+    ],
     esperienzeSlugs: ['carretera-de-la-muerte'],
     tripSlugs: ['bolivia-itinerario'],
     imageAlt: 'Il Nevado Illimani innevato che domina la conca di La Paz al tramonto, Bolivia',
@@ -101,6 +215,112 @@ export const destinazioniBolivia: Destinazione[] = [
     ],
     miaEsperienza:
       'È l\'unico posto in cui ho perso del tutto il senso della distanza: senza riferimenti non si capisce se una montagna è a cinque chilometri o a cinquanta, ed è per questo che funzionano le foto prospettiche. La parte che mi è rimasta però è il secondo giorno, nel Sud Lípez, più del primo sul sale: lagune rosse piene di fenicotteri oltre i quattromila metri, geyser che sbuffano all\'alba con venti gradi sotto zero, alloggi dove abbiamo dormito vestiti perché non c\'era riscaldamento. È un tour molto più duro di quanto le fotografie lascino immaginare, e l\'unica voce su cui non conviene risparmiare è l\'operatore: lì in mezzo un 4x4 che si rompe è un problema serio.',
+    luoghi: [
+      {
+        "nome": "Il salar di Uyuni",
+        "testo": "La distesa di sale più grande del mondo, oltre 10.000 km quadrati a 3.650 metri. Senza riferimenti non si capisce se una montagna è a cinque chilometri o a cinquanta, ed è per questo che funzionano le foto prospettiche.",
+        "come": "Solo in 4x4 con autista, nell'ambito del tour organizzato, in partenza da Uyuni.",
+        "quando": "Maggio-ottobre: salar asciutto e percorribile per intero. Gennaio-marzo: lo specchio d'acqua, ma alcune tappe saltano.",
+        "tempo": "Mezza giornata o un giorno",
+        "costo": "Tour di 3 giorni indicativamente 150-250 dollari a persona, ingresso alla riserva Eduardo Avaroa a parte",
+        "consiglio": "Per le foto prospettiche porta oggetti di scala piccola e usa la luce dell'alba."
+      },
+      {
+        "nome": "Isla Incahuasi",
+        "testo": "L'isola di roccia coperta di cactus giganti in mezzo alla distesa bianca.",
+        "come": "Tappa del tour in 4x4 dal salar, con breve sentiero di salita.",
+        "quando": "Stagione secca; da gennaio a marzo può diventare inaccessibile.",
+        "tempo": "1-2 ore",
+        "consiglio": "Il sentiero dà la vista migliore sul salar da una quota rialzata."
+      },
+      {
+        "nome": "Cimitero dei treni",
+        "testo": "Locomotive e vagoni abbandonati alla periferia di Uyuni, ricordo della rete ferroviaria mineraria.",
+        "come": "In taxi dal paese o all'inizio del tour.",
+        "quando": "Mattina.",
+        "tempo": "1 ora",
+        "consiglio": "Fai attenzione alle parti metalliche arrugginite."
+      },
+      {
+        "nome": "Laguna Colorada",
+        "testo": "Laguna rossa per le alghe, con migliaia di fenicotteri, nel Sud Lípez.",
+        "come": "Tappa del secondo giorno del tour in 4x4.",
+        "quando": "Mattina presto.",
+        "tempo": "1-2 ore",
+        "consiglio": "Il secondo giorno nel Sud Lípez è quello che a Rick è rimasto più impresso, più del sale: lagune rosse piene di fenicotteri oltre i quattromila metri."
+      },
+      {
+        "nome": "Geyser Sol de Mañana e terme di Polques",
+        "testo": "Geyser a quasi 5.000 metri che sbuffano all'alba, e le terme all'aperto di Polques.",
+        "come": "Tappe del tour in 4x4.",
+        "quando": "All'alba, con venti gradi sotto zero.",
+        "tempo": "1-2 ore",
+        "consiglio": "Vestiti a strati: l'alba ai geyser è tra le ore più fredde del viaggio."
+      },
+      {
+        "nome": "Laguna Verde",
+        "testo": "Laguna ai piedi del vulcano Licancabur, al confine cileno.",
+        "come": "Ultima tappa del tour in 4x4 prima di San Pedro de Atacama.",
+        "quando": "Mattina.",
+        "tempo": "1 ora",
+        "consiglio": "Chi prosegue per il Cile passa il confine da qui."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Mattina: cimitero dei treni",
+          "Salar e Isla Incahuasi",
+          "Tramonto sul salar"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorno 1: salar, Isla Incahuasi, notte in un hotel di sale",
+          "Giorno 2: lagune del Sud Lípez, Laguna Colorada",
+          "Giorno 3: geyser all'alba, terme di Polques, Laguna Verde, rientro a Uyuni o proseguimento per San Pedro de Atacama"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Uyuni",
+        "perChi": "Chi parte per il tour",
+        "testo": "Base di partenza, paese semplice con agenzie."
+      },
+      {
+        "nome": "Alloggi del Sud Lípez",
+        "perChi": "Chi fa il tour di 3 giorni",
+        "testo": "Molto essenziali, spesso senza riscaldamento a oltre 4.000 metri. Si dorme sotto zero."
+      },
+      {
+        "nome": "Hotel di sale",
+        "perChi": "Chi cerca esperienza particolare",
+        "testo": "Pareti e arredi ricavati dai blocchi del salar."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Pasti del tour",
+        "testo": "Preparati dall'autista-cuoco: zuppe, riso, carne."
+      },
+      {
+        "nome": "Quinoa",
+        "testo": "Coltivata nella zona, in zuppe e piatti locali."
+      },
+      {
+        "nome": "Carne di lama",
+        "testo": "Spesso nei piatti dei ristoranti di Uyuni."
+      }
+    ],
+    attenzioni: [
+      "Scegliere l'operatore solo sul prezzo: i mezzi e la manutenzione fanno una differenza reale su piste a 4.500 metri.",
+      "Freddo notturno sotto zero: il sacco a pelo non sempre è incluso.",
+      "Arrivare a Uyuni senza essersi acclimatati: il secondo giorno si sale quasi a 5.000 metri.",
+      "Gennaio-marzo: effetto specchio, ma diverse tappe saltano."
+    ],
     esperienzeSlugs: ['tour-uyuni-sud-lipez'],
     tripSlugs: ['bolivia-itinerario'],
     imageAlt: 'Fuoristrada sulla distesa bianca del Salar de Uyuni sotto un cielo blu, Bolivia',
@@ -144,6 +364,98 @@ export const destinazioniBolivia: Destinazione[] = [
     ],
     miaEsperienza:
       'Il lato boliviano del lago è parecchio più bello di quello peruviano. Copacabana è un paese di pellegrinaggio un po\' scalcinato ma con un\'anima, e l\'Isla del Sol per me batte le isole di Puno: terrazzamenti, sentieri in pietra, nessuna macchina e nessuna organizzazione turistica pesante. Dormirci una notte cambia tutto, perché le barche in giornata arrivano e ripartono tutte insieme, e appena se ne vanno l\'isola torna silenziosa. Va solo messo in conto che si cammina sempre in salita a quasi quattromila metri, con lo zaino, e fa fatica.',
+    luoghi: [
+      {
+        "nome": "Basilica di Copacabana",
+        "testo": "Meta di pellegrinaggio con la Virgen de la Candelaria, in un paese un po' scalcinato ma con un'anima.",
+        "come": "A piedi dal lungolago.",
+        "quando": "Mattina, nei giorni di benedizione dei veicoli.",
+        "tempo": "1 ora",
+        "consiglio": "Copacabana è la via naturale d'ingresso dal Perù."
+      },
+      {
+        "nome": "Cerro Calvario",
+        "testo": "La collina sopra il paese, con la via crucis, per il tramonto sul lago.",
+        "come": "A piedi dal centro, circa 30 minuti in salita.",
+        "quando": "Tramonto.",
+        "tempo": "1-2 ore",
+        "consiglio": "A 3.800 metri la salita stanca: vai piano."
+      },
+      {
+        "nome": "Isla del Sol: Chincana e Roca Sagrada",
+        "testo": "Le rovine di Chincana e la Roca Sagrada, sull'estremità nord dell'isola dove secondo la tradizione nacquero il sole e il primo Inca.",
+        "come": "Barca collettiva da Copacabana, circa 1h30. Sull'isola non ci sono veicoli.",
+        "quando": "Mattina e tramonto.",
+        "tempo": "Mezza giornata",
+        "costo": "Barca per l'isola pochi dollari, più piccole tasse d'ingresso riscosse dalle comunità",
+        "consiglio": "Chiedi sul posto se il passaggio verso la parte nord è aperto: tensioni tra le comunità lo hanno a tratti limitato."
+      },
+      {
+        "nome": "Il sentiero della dorsale dell'Isla del Sol",
+        "testo": "Il sentiero che percorre la dorsale dell'isola da nord a sud tra terrazzamenti e rovine.",
+        "come": "A piedi, sempre in salita e a quasi 4.000 metri.",
+        "quando": "Mattina e tramonto.",
+        "tempo": "3-4 ore",
+        "consiglio": "Dormire una notte sull'isola cambia tutto: le barche in giornata arrivano e ripartono tutte insieme, e poi l'isola torna silenziosa."
+      },
+      {
+        "nome": "Tiwanaku",
+        "testo": "Le rovine di una civiltà precedente agli Inca, sulla strada verso La Paz.",
+        "come": "Con tour o taxi dalla strada per La Paz.",
+        "quando": "Mattina.",
+        "tempo": "2-3 ore",
+        "consiglio": "Si combina con il rientro a La Paz."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: Copacabana, Cerro Calvario al tramonto",
+          "Giorno 2: barca per l'Isla del Sol, sentiero della dorsale"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorno 1: Copacabana",
+          "Giorno 2: Isla del Sol, notte sull'isola",
+          "Giorno 3: alba sull'isola e rientro a Copacabana, poi La Paz"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Copacabana",
+        "perChi": "Chi cerca collegamenti e comodità",
+        "testo": "Più comoda per i trasporti. Notti fredde a 3.800 metri."
+      },
+      {
+        "nome": "Isla del Sol",
+        "perChi": "Chi cerca la notte più suggestiva",
+        "testo": "Strutture semplici e senza riscaldamento. Tutto in salita."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Trucha del lago",
+        "testo": "Trota quasi ovunque, sul lungolago di Copacabana."
+      },
+      {
+        "nome": "Pejerrey",
+        "testo": "Pesce del lago, fritto."
+      },
+      {
+        "nome": "Quinoa e chuño",
+        "testo": "Cucina andina semplice nei piccoli locali."
+      }
+    ],
+    attenzioni: [
+      "Programmare l'Isla del Sol in giornata: si perde la parte migliore.",
+      "Accesso a tutta l'isola non garantito: chiedi sul posto.",
+      "Sottovalutare la quota: si cammina in salita a quasi 4.000 metri.",
+      "Frontiera di Kasani/Yunguyo: chiude di sera, richiede una pre-registrazione online e l'ufficio chiude a pranzo. Ricontrolla prima."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['bolivia-itinerario'],
     imageAlt: 'Terrazzamenti e sentieri dell\'Isla del Sol con pecore al pascolo sul lago Titicaca, Bolivia',
@@ -186,6 +498,106 @@ export const destinazioniBolivia: Destinazione[] = [
     ],
     miaEsperienza:
       'Sucre è il posto dove mi è venuta voglia di fermarmi più a lungo: duemilaottocento metri invece di quattromila, clima mite, una città bianca e ordinata dove finalmente si respira e si dorme. Potosí è l\'opposto, e non solo per la quota. Entrare nelle gallerie del Cerro Rico è stata l\'esperienza più pesante di tutto il viaggio, pericolosa in sé no, ma difficile da digerire: abbiamo camminato piegati in cunicoli caldi e polverosi accanto a uomini che ci passano dieci ore al giorno con strumenti di un altro secolo. Va trattata con il rispetto che si deve a un luogo di lavoro. Ne siamo usciti zitti, e forse è giusto così.',
+    luoghi: [
+      {
+        "nome": "Centro coloniale di Sucre e Casa de la Libertad",
+        "testo": "La capitale costituzionale, città coloniale bianca patrimonio UNESCO a 2.800 metri. La Casa de la Libertad è dove fu firmata l'indipendenza.",
+        "come": "A piedi dal centro.",
+        "quando": "Di giorno.",
+        "tempo": "Mezza giornata",
+        "consiglio": "Sucre è il posto dove a Rick è venuta voglia di fermarsi più a lungo: quota più mite, clima gentile."
+      },
+      {
+        "nome": "Parque Cretácico",
+        "testo": "Una parete verticale con migliaia di impronte di dinosauro.",
+        "come": "In bus o taxi dal centro.",
+        "quando": "Mattina.",
+        "tempo": "2 ore",
+        "consiglio": "Porta scarpe comode e un cappello: si visita all'aperto."
+      },
+      {
+        "nome": "Mercato di Tarabuco",
+        "testo": "Villaggio tessile vicino a Sucre, con il mercato domenicale e i tessuti yampara.",
+        "come": "In collettivo o tour da Sucre, circa 1h30.",
+        "quando": "Domenica.",
+        "tempo": "Mezza giornata",
+        "consiglio": "Contratta sui prezzi."
+      },
+      {
+        "nome": "Casa Nacional de la Moneda (Potosí)",
+        "testo": "L'antica zecca coloniale, dove si coniava l'argento del Cerro Rico.",
+        "come": "A piedi dal centro di Potosí.",
+        "quando": "Mattina.",
+        "tempo": "1-2 ore",
+        "consiglio": "A 4.000 metri anche camminare in centro è faticoso."
+      },
+      {
+        "nome": "Miniere del Cerro Rico",
+        "testo": "La montagna d'argento che domina Potosí e ne ha fatto la città più ricca del Sud America. Si entra nelle gallerie delle cooperative minerarie ancora attive con casco e lampada.",
+        "come": "Con un'agenzia di Potosí, preferendo quelle gestite da ex minatori. Visita di circa 4 ore.",
+        "quando": "Nei giorni lavorativi, quando le cooperative sono in attività.",
+        "tempo": "4 ore",
+        "costo": "Indicativamente 15-30 dollari a persona con guida, attrezzatura inclusa",
+        "consiglio": "Per Rick è stata l'esperienza più pesante del viaggio: cunicoli caldi e polverosi accanto a uomini che ci passano dieci ore al giorno. Sconsigliata a chi soffre di claustrofobia."
+      },
+      {
+        "nome": "Corso di spagnolo a Sucre",
+        "testo": "Tra i corsi più economici e apprezzati del Sud America.",
+        "come": "Scuole nel centro di Sucre; prenota prima.",
+        "quando": "Tutto l'anno.",
+        "tempo": "Da pochi giorni a settimane",
+        "consiglio": "Costano pochissimo rispetto al resto del continente."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: Sucre (centro, Casa de la Libertad, Parque Cretácico)",
+          "Giorno 2: Potosí, Casa de la Moneda e miniere del Cerro Rico"
+        ]
+      },
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorno 1: Sucre",
+          "Giorno 2: Tarabuco (domenica) o altro giro",
+          "Giorno 3: Potosí e miniere"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Centro storico di Sucre",
+        "perChi": "Chi si ferma qualche giorno",
+        "testo": "La città più piacevole in cui fermarsi in tutta la Bolivia."
+      },
+      {
+        "nome": "Centro di Potosí",
+        "perChi": "Chi visita le miniere",
+        "testo": "Sistemazioni essenziali a 4.000 metri. Notti fredde."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Mercati coperti di Sucre",
+        "testo": "Si mangia bene spendendo pochissimo; il banco dei succhi è un'istituzione."
+      },
+      {
+        "nome": "Chorizos chuquisaqueños",
+        "testo": "Salsicce speziate tipiche di Sucre."
+      },
+      {
+        "nome": "Zuppe di Potosí",
+        "testo": "Sostanziose, adatte ai quattromila metri."
+      }
+    ],
+    attenzioni: [
+      "A Potosí la quota (4.000 metri) pesa: anche camminare in centro stanca.",
+      "Le miniere sono un luogo di lavoro, non un'attrazione qualunque: condizioni durissime.",
+      "Porta un piccolo dono ai minatori (foglie di coca, bibite) comprato al mercato dei minatori.",
+      "Blocchi stradali: possono bloccare i collegamenti per giorni."
+    ],
     esperienzeSlugs: ['miniere-cerro-rico'],
     tripSlugs: ['bolivia-itinerario'],
     imageAlt: 'Il Cerro Rico che domina i tetti di tegole rosse di Potosí, Bolivia',
@@ -273,6 +685,87 @@ export const destinazioniBolivia: Destinazione[] = [
     ],
     miaEsperienza:
       'Nelle pampas ho visto più animali con meno sforzo che in qualsiasi altro posto: si sta in barca e sfilano caimani, capibara, scimmie e centinaia di uccelli, con i delfini rosa che ogni tanto emergono accanto allo scafo. Lì si vedono anche le pratiche più discutibili: certe guide tirano fuori i caimani dall\'acqua o vanno a cercare le anaconda per farle toccare ai clienti. Non va assecondato: basta dire di no e chiedere di restare a guardare. Le zanzare poi sono di un altro livello, più che un repellente servirebbe una corazza.',
+    luoghi: [
+      {
+        "nome": "Pampas del Yacuma",
+        "testo": "Praterie allagate percorse in barca lungo il Rio Yacuma: caimani, capibara, scimmie, delfini rosa e centinaia di uccelli, con avvistamenti ravvicinati.",
+        "come": "Tour organizzato di 3 giorni da Rurrenabaque, con navigazione e notti in lodge.",
+        "quando": "Maggio-ottobre, stagione secca.",
+        "tempo": "3 giorni, 2 notti",
+        "costo": "Indicativamente 100-200 dollari per 3 giorni, tutto incluso",
+        "consiglio": "Rick ci ha visto più animali con meno sforzo che altrove. Se la guida tira fuori i caimani o cerca le anaconda per farle toccare, dì di no."
+      },
+      {
+        "nome": "Giungla del Madidi",
+        "testo": "Foresta primaria dentro il parco nazionale, con alberi enormi e biodiversità altissima. La fauna è più difficile da vedere.",
+        "come": "Tour di 3-4 giorni con camminate guidate e notti in lodge o campo tendato.",
+        "quando": "Maggio-ottobre.",
+        "tempo": "3-4 giorni",
+        "costo": "Indicativamente 150-300 dollari per 3-4 giorni",
+        "consiglio": "Scegli un lodge gestito dalle comunità indigene, come Chalalán o San Miguel del Bala."
+      },
+      {
+        "nome": "Delfini rosa e tramonti sulle pampas",
+        "testo": "I delfini rosa si avvicinano alle barche, e il tramonto sulle praterie allagate è il momento migliore della giornata.",
+        "come": "Parte del tour delle pampas.",
+        "quando": "Tramonto.",
+        "tempo": "1-2 ore",
+        "consiglio": "Il nuoto con i delfini è consentito solo dove le guide lo permettono."
+      },
+      {
+        "nome": "Volo La Paz-Rurrenabaque",
+        "testo": "Un volo di circa 45 minuti su piccoli aerei, spesso cancellati per meteo, che porta dai 4.000 metri al livello della foresta.",
+        "come": "Prenota con margine; l'alternativa è un bus di 18-20 ore.",
+        "quando": "Tutto l'anno.",
+        "tempo": "45 minuti",
+        "consiglio": "Non contare sul volo di rientro senza margine."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "3 giorni (pampas)",
+        "tappe": [
+          "Giorno 1: barca e avvistamenti lungo il Rio Yacuma",
+          "Giorno 2: pesca ai piranha, delfini rosa, ricerca notturna dei caimani",
+          "Giorno 3: alba sulle pampas e rientro"
+        ]
+      },
+      {
+        "titolo": "4-5 giorni (pampas e giungla)",
+        "tappe": [
+          "Giorni 1-3: pampas",
+          "Giorni 4-5: Madidi con lodge nella foresta"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Rurrenabaque",
+        "perChi": "Chi parte per i tour",
+        "testo": "Cittadina di base con agenzie. Caldo umido."
+      },
+      {
+        "nome": "Lodge lungo il fiume",
+        "perChi": "Chi fa i tour",
+        "testo": "Essenziali ma con zanzariere."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Pesce di fiume",
+        "testo": "Surubí e pacú, alla griglia."
+      },
+      {
+        "nome": "Pasti dei tour",
+        "testo": "Inclusi nei tour."
+      }
+    ],
+    attenzioni: [
+      "I voli per Rurrenabaque saltano spesso per il meteo: l'alternativa è un bus di quasi venti ore.",
+      "Alcune pratiche con caimani e anaconda sono dannose per gli animali: informati sull'operatore.",
+      "Repellente serio e vaccinazione contro la febbre gialla.",
+      "Zanzare in quantità notevole."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['bolivia-itinerario'],
     imageAlt: 'Barche ormeggiate sul fiume Beni a Rurrenabaque, ai piedi delle colline coperte di foresta, Bolivia',

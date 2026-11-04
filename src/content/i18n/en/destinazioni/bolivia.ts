@@ -41,6 +41,120 @@ export const destinazioniBolivia: Destinazione[] = [
     ],
     miaEsperienza:
       "Landing in El Alto is a physical shock that almost nobody factors in: we stepped off the plane at more than four thousand meters and the body noticed before we even left the terminal. La Paz is the strangest city on the continent, built inside a basin with the poor neighborhoods up high and the rich ones down low. It's the opposite of every other city in the world, and for a precise reason: the lower you go, the more you can breathe. I recommend the urban cable cars to everyone: they cost a few cents and give the best view over the basin. The real problem in Bolivia is the road blockades, to be factored into the itinerary as a concrete risk.",
+    luoghi: [
+      {
+        "nome": "Mi Teleférico",
+        "testo": "The urban cable-car network linking La Paz and El Alto. It is public transport and also the best viewpoint over the basin: the red and yellow lines give the finest view.",
+        "come": "Stations are all over the city; you buy the ticket at the station.",
+        "quando": "At sunset, when the basin lights up.",
+        "tempo": "1-2 hours",
+        "costo": "A few euro cents per ride",
+        "consiglio": "Rick recommends them to everyone: they cost very little and give the best view over the basin."
+      },
+      {
+        "nome": "Mercado de las Brujas",
+        "testo": "The witches' market, with traditional Aymara remedies, herbs, amulets and the llama foetuses used as offerings to Pachamama.",
+        "come": "On foot from the centre, in the calle Linares area.",
+        "quando": "By day.",
+        "tempo": "1 hour",
+        "consiglio": "Always ask before photographing people."
+      },
+      {
+        "nome": "Valle de la Luna",
+        "testo": "Eroded clay formations a few kilometres from the centre, with short paths among spires and canyons.",
+        "come": "Bus or taxi from the southern part of La Paz (Mallasa), about 30 minutes.",
+        "quando": "Morning, with better light.",
+        "tempo": "1-2 hours",
+        "consiglio": "At this altitude even a short walk tires you: go slowly."
+      },
+      {
+        "nome": "El Alto and the cholitas luchadoras",
+        "testo": "The El Alto market (Thursday and Sunday) is one of the biggest in South America. On Sunday you can also see Aymara women wrestle in traditional skirts.",
+        "come": "By cable car (red line) to El Alto.",
+        "quando": "Thursday and Sunday for the market.",
+        "tempo": "Half a day",
+        "consiglio": "Keep bags and phone in front: the market is crowded."
+      },
+      {
+        "nome": "Death Road (Carretera de la Muerte)",
+        "testo": "The old road to Coroico, from over 4,600 metres down to about 1,200 metres, now ridden downhill by mountain bike. A day experience through mist, forest and gorges.",
+        "come": "With an operator, by mountain bike, leaving La Paz early in the morning and returning late afternoon.",
+        "quando": "May-October, but only once acclimatised.",
+        "tempo": "Full day",
+        "costo": "Roughly 80-100 dollars with budget operators and 120-170 with premium operators",
+        "consiglio": "Choose an operator with bikes and brakes in good condition: here it matters more than price."
+      },
+      {
+        "nome": "Chacaltaya",
+        "testo": "The highest former ski resort in the world, now without a glacier, with a view of Huayna Potosí.",
+        "come": "Half-day tour from La Paz.",
+        "quando": "Early morning.",
+        "tempo": "Half a day",
+        "consiglio": "Go up only after at least two days in La Paz: the summit is above 5,000 metres."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: Mercado de las Brujas",
+          "Red and yellow cable cars",
+          "Lunch with salteñas",
+          "Sunset by cable car"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: the 1-day plan, in absolute calm",
+          "Day 2: Valle de la Luna and El Alto market (Thursday or Sunday)"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Days 1-2 as above",
+          "Day 3: Death Road, only after acclimatising"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Sopocachi",
+        "perChi": "Those who want restaurants and nightlife",
+        "testo": "A more polished district, lower down and with bars. A few steps from the centre."
+      },
+      {
+        "nome": "San Pedro and centre",
+        "perChi": "Budget travellers",
+        "testo": "Low prices and convenient for agencies, but more chaotic and noisy."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Salteñas",
+        "testo": "Baked pastries filled with meat or chicken in gravy. Eaten mid-morning: they are not breakfast food."
+      },
+      {
+        "nome": "Api con pastel",
+        "testo": "Hot purple corn drink with a fried cheese pastry, street breakfast."
+      },
+      {
+        "nome": "Covered-market soups",
+        "testo": "Hearty, suited to the altitude."
+      },
+      {
+        "nome": "Refined cooking in Sopocachi",
+        "testo": "The district with the city's most elaborate offer."
+      }
+    ],
+    attenzioni: [
+      "Landing at El Alto (over 4,000 metres) and planning something demanding the same day.",
+      "Road blockades: they can isolate the city for days and cancel flights and transfers.",
+      "Unofficial taxis, especially in the evening: use radio taxis or apps.",
+      "Pickpockets in crowded markets: no valuables in view.",
+      "Recheck the political and social situation on Viaggiare Sicuri before leaving."
+    ],
     esperienzeSlugs: ['carretera-de-la-muerte'],
     tripSlugs: ['bolivia-itinerario'],
     imageAlt: 'The snow-covered Nevado Illimani dominating the La Paz basin at sunset, Bolivia',
@@ -89,6 +203,112 @@ export const destinazioniBolivia: Destinazione[] = [
     ],
     miaEsperienza:
       "It's the only place where I completely lost my sense of distance: with no reference points you can't tell whether a mountain is five kilometers or fifty away, and that's why the forced-perspective photos work. What stayed with me, though, is the second day, in Sud Lípez, more than the first on the salt: red lagoons full of flamingos above four thousand meters, geysers puffing at dawn at twenty below zero, lodgings where we slept in our clothes because there was no heating. It's a much harder tour than the photographs let you imagine, and the only line item where it doesn't pay to save is the operator: out there a 4x4 that breaks down is a serious problem.",
+    luoghi: [
+      {
+        "nome": "The Uyuni salt flat",
+        "testo": "The largest salt flat in the world, over 10,000 square kilometres at 3,650 metres. With no reference points you cannot tell if a mountain is five or fifty kilometres away, which is why forced-perspective photos work.",
+        "come": "Only by 4x4 with a driver, as part of an organised tour leaving from Uyuni.",
+        "quando": "May-October: dry salt flat, passable throughout. January-March: the mirror effect, but some stops are lost.",
+        "tempo": "Half a day or a day",
+        "costo": "3-day tour roughly 150-250 dollars per person, Eduardo Avaroa reserve entry extra",
+        "consiglio": "For perspective photos bring small-scale objects and use dawn light."
+      },
+      {
+        "nome": "Isla Incahuasi",
+        "testo": "The rock island covered in giant cacti in the middle of the white expanse.",
+        "come": "A stop on the 4x4 tour from the salt flat, with a short climbing path.",
+        "quando": "Dry season; from January to March it may become inaccessible.",
+        "tempo": "1-2 hours",
+        "consiglio": "The path gives the best view of the salt flat from a raised position."
+      },
+      {
+        "nome": "Train cemetery",
+        "testo": "Abandoned locomotives and wagons on the outskirts of Uyuni, a remnant of the mining railway network.",
+        "come": "By taxi from the town or at the start of the tour.",
+        "quando": "Morning.",
+        "tempo": "1 hour",
+        "consiglio": "Watch out for rusty metal parts."
+      },
+      {
+        "nome": "Laguna Colorada",
+        "testo": "A red lagoon coloured by algae, with thousands of flamingos, in the Sud Lípez.",
+        "come": "A stop on the second day of the 4x4 tour.",
+        "quando": "Early morning.",
+        "tempo": "1-2 hours",
+        "consiglio": "The second day in the Sud Lípez is the one that stayed most with Rick, more than the salt: red lagoons full of flamingos above four thousand metres."
+      },
+      {
+        "nome": "Sol de Mañana geysers and Polques hot springs",
+        "testo": "Geysers at almost 5,000 metres that puff at dawn, and the open-air Polques hot springs.",
+        "come": "Stops on the 4x4 tour.",
+        "quando": "At dawn, with twenty degrees below zero.",
+        "tempo": "1-2 hours",
+        "consiglio": "Dress in layers: dawn at the geysers is among the coldest hours of the trip."
+      },
+      {
+        "nome": "Laguna Verde",
+        "testo": "A lagoon at the foot of the Licancabur volcano, on the Chilean border.",
+        "come": "Last stop of the 4x4 tour before San Pedro de Atacama.",
+        "quando": "Morning.",
+        "tempo": "1 hour",
+        "consiglio": "Those continuing to Chile cross the border from here."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: train cemetery",
+          "Salt flat and Isla Incahuasi",
+          "Sunset on the salt flat"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: salt flat, Isla Incahuasi, night in a salt hotel",
+          "Day 2: Sud Lípez lagoons, Laguna Colorada",
+          "Day 3: geysers at dawn, Polques hot springs, Laguna Verde, return to Uyuni or onward to San Pedro de Atacama"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Uyuni",
+        "perChi": "Those leaving for the tour",
+        "testo": "Starting base, a simple town with agencies."
+      },
+      {
+        "nome": "Sud Lípez lodgings",
+        "perChi": "Those on the 3-day tour",
+        "testo": "Very basic, often without heating above 4,000 metres. You sleep below zero."
+      },
+      {
+        "nome": "Salt hotel",
+        "perChi": "Those who want a special experience",
+        "testo": "Walls and furnishings made from salt flat blocks."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Tour meals",
+        "testo": "Prepared by the driver-cook: soups, rice, meat."
+      },
+      {
+        "nome": "Quinoa",
+        "testo": "Grown in the area, in soups and local dishes."
+      },
+      {
+        "nome": "Llama meat",
+        "testo": "Often on the menus of Uyuni restaurants."
+      }
+    ],
+    attenzioni: [
+      "Choosing the operator on price alone: vehicles and maintenance make a real difference on tracks at 4,500 metres.",
+      "Night cold below zero: the sleeping bag is not always included.",
+      "Arriving in Uyuni unacclimatised: on day two you climb almost to 5,000 metres.",
+      "January-March: mirror effect, but several stops are lost."
+    ],
     esperienzeSlugs: ['tour-uyuni-sud-lipez'],
     tripSlugs: ['bolivia-itinerario'],
     imageAlt: 'An off-road vehicle on the white expanse of the Salar de Uyuni under a blue sky, Bolivia',
@@ -132,6 +352,98 @@ export const destinazioniBolivia: Destinazione[] = [
     ],
     miaEsperienza:
       "The Bolivian side of the lake is quite a bit more beautiful than the Peruvian one. Copacabana is a slightly shabby pilgrimage town but with a soul, and Isla del Sol for me beats the Puno islands: terraces, stone paths, no cars and no heavy tourist organization. Spending a night there changes everything, because the day boats all arrive and leave together, and as soon as they go the island falls silent again. You just have to factor in that you always walk uphill at almost four thousand meters, with a backpack, and it's tiring.",
+    luoghi: [
+      {
+        "nome": "Copacabana Basilica",
+        "testo": "A pilgrimage destination with the Virgen de la Candelaria, in a slightly shabby town with a soul.",
+        "come": "On foot from the lakefront.",
+        "quando": "Morning, on vehicle-blessing days.",
+        "tempo": "1 hour",
+        "consiglio": "Copacabana is the natural entry from Peru."
+      },
+      {
+        "nome": "Cerro Calvario",
+        "testo": "The hill above the town, with the stations of the cross, for sunset over the lake.",
+        "come": "On foot from the centre, about 30 minutes uphill.",
+        "quando": "Sunset.",
+        "tempo": "1-2 hours",
+        "consiglio": "At 3,800 metres the climb tires: go slowly."
+      },
+      {
+        "nome": "Isla del Sol: Chincana and Roca Sagrada",
+        "testo": "The Chincana ruins and the Roca Sagrada, at the northern end of the island where tradition says the sun and the first Inca were born.",
+        "come": "Shared boat from Copacabana, about 1h30. There are no vehicles on the island.",
+        "quando": "Morning and sunset.",
+        "tempo": "Half a day",
+        "costo": "Boat to the island a few dollars, plus small entry fees collected by the communities",
+        "consiglio": "Ask locally whether the passage to the northern part is open: tensions between communities have at times limited it."
+      },
+      {
+        "nome": "The Isla del Sol ridge path",
+        "testo": "The path along the island's ridge from north to south among terraces and ruins.",
+        "come": "On foot, always uphill and at almost 4,000 metres.",
+        "quando": "Morning and sunset.",
+        "tempo": "3-4 hours",
+        "consiglio": "Sleeping one night on the island changes everything: day boats arrive and leave all together, and then the island goes quiet again."
+      },
+      {
+        "nome": "Tiwanaku",
+        "testo": "The ruins of a civilisation older than the Incas, on the road to La Paz.",
+        "come": "By tour or taxi from the road to La Paz.",
+        "quando": "Morning.",
+        "tempo": "2-3 hours",
+        "consiglio": "It combines with the return to La Paz."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: Copacabana, Cerro Calvario at sunset",
+          "Day 2: boat to Isla del Sol, ridge path"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: Copacabana",
+          "Day 2: Isla del Sol, night on the island",
+          "Day 3: dawn on the island and return to Copacabana, then La Paz"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Copacabana",
+        "perChi": "Those who want connections and convenience",
+        "testo": "More convenient for transport. Cold nights at 3,800 metres."
+      },
+      {
+        "nome": "Isla del Sol",
+        "perChi": "Those who want the most atmospheric night",
+        "testo": "Simple lodgings with no heating. Everything uphill."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Lake trout",
+        "testo": "Trout almost everywhere, on the Copacabana lakefront."
+      },
+      {
+        "nome": "Pejerrey",
+        "testo": "Lake fish, fried."
+      },
+      {
+        "nome": "Quinoa and chuño",
+        "testo": "Simple Andean cooking in small places."
+      }
+    ],
+    attenzioni: [
+      "Planning Isla del Sol as a day trip: you miss the best part.",
+      "Access to the whole island is not guaranteed: ask locally.",
+      "Underestimating altitude: you walk uphill at almost 4,000 metres.",
+      "Kasani/Yunguyo border: closes in the evening, requires online pre-registration and the office closes at lunch. Recheck before going."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['bolivia-itinerario'],
     imageAlt: 'Terraces and paths of Isla del Sol with sheep grazing on Lake Titicaca, Bolivia',
@@ -174,6 +486,106 @@ export const destinazioniBolivia: Destinazione[] = [
     ],
     miaEsperienza:
       "Sucre is the place where I felt like staying longer: two thousand eight hundred meters instead of four thousand, mild climate, a white and orderly city where you can finally breathe and sleep. Potosí is the opposite, and not only because of the altitude. Entering the tunnels of Cerro Rico was the heaviest experience of the whole trip, not dangerous in itself, but hard to digest: we walked bent over in hot, dusty tunnels next to men who spend ten hours a day there with tools from another century. It should be treated with the respect owed to a workplace. We came out silent, and perhaps that's right.",
+    luoghi: [
+      {
+        "nome": "Colonial centre of Sucre and Casa de la Libertad",
+        "testo": "The constitutional capital, a white colonial city, UNESCO heritage, at 2,800 metres. The Casa de la Libertad is where independence was signed.",
+        "come": "On foot from the centre.",
+        "quando": "By day.",
+        "tempo": "Half a day",
+        "consiglio": "Sucre is where Rick felt like staying longer: milder altitude, gentler climate."
+      },
+      {
+        "nome": "Parque Cretácico",
+        "testo": "A vertical wall with thousands of dinosaur footprints.",
+        "come": "By bus or taxi from the centre.",
+        "quando": "Morning.",
+        "tempo": "2 hours",
+        "consiglio": "Bring comfortable shoes and a hat: the visit is outdoors."
+      },
+      {
+        "nome": "Tarabuco market",
+        "testo": "A textile village near Sucre, with the Sunday market and Yampara textiles.",
+        "come": "By shared van or tour from Sucre, about 1h30.",
+        "quando": "Sunday.",
+        "tempo": "Half a day",
+        "consiglio": "Haggle over prices."
+      },
+      {
+        "nome": "Casa Nacional de la Moneda (Potosí)",
+        "testo": "The old colonial mint, where the silver of Cerro Rico was coined.",
+        "come": "On foot from the centre of Potosí.",
+        "quando": "Morning.",
+        "tempo": "1-2 hours",
+        "consiglio": "At 4,000 metres even walking in the centre is tiring."
+      },
+      {
+        "nome": "Cerro Rico mines",
+        "testo": "The silver mountain that dominates Potosí and made it the richest city in South America. You enter the galleries of the still-working mining cooperatives with helmet and lamp.",
+        "come": "With a Potosí agency, preferring those run by former miners. A visit of about 4 hours.",
+        "quando": "On working days, when the cooperatives are active.",
+        "tempo": "4 hours",
+        "costo": "Roughly 15-30 dollars per person with guide, equipment included",
+        "consiglio": "For Rick it was the heaviest experience of the trip: hot, dusty tunnels beside men who spend ten hours a day there. Not recommended for the claustrophobic."
+      },
+      {
+        "nome": "Spanish course in Sucre",
+        "testo": "Among the cheapest and most appreciated courses in South America.",
+        "come": "Schools in the centre of Sucre; book ahead.",
+        "quando": "All year.",
+        "tempo": "From a few days to weeks",
+        "consiglio": "They cost very little compared with the rest of the continent."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: Sucre (centre, Casa de la Libertad, Parque Cretácico)",
+          "Day 2: Potosí, Casa de la Moneda and Cerro Rico mines"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: Sucre",
+          "Day 2: Tarabuco (Sunday) or another trip",
+          "Day 3: Potosí and mines"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Historic centre of Sucre",
+        "perChi": "Those staying a few days",
+        "testo": "The most pleasant city to stay in all of Bolivia."
+      },
+      {
+        "nome": "Centre of Potosí",
+        "perChi": "Those visiting the mines",
+        "testo": "Basic lodgings at 4,000 metres. Cold nights."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Sucre covered markets",
+        "testo": "You eat well spending very little; the juice stall is an institution."
+      },
+      {
+        "nome": "Chorizos chuquisaqueños",
+        "testo": "Spiced sausages typical of Sucre."
+      },
+      {
+        "nome": "Potosí soups",
+        "testo": "Hearty, suited to four thousand metres."
+      }
+    ],
+    attenzioni: [
+      "In Potosí the altitude (4,000 metres) weighs: even walking in the centre tires.",
+      "The mines are a workplace, not an ordinary attraction: very harsh conditions.",
+      "Bring a small gift for the miners (coca leaves, soft drinks) bought at the miners' market.",
+      "Road blockades: they can block connections for days."
+    ],
     esperienzeSlugs: ['miniere-cerro-rico'],
     tripSlugs: ['bolivia-itinerario'],
     imageAlt: 'Cerro Rico dominating the red-tiled roofs of Potosí, Bolivia',
@@ -261,6 +673,87 @@ export const destinazioniBolivia: Destinazione[] = [
     ],
     miaEsperienza:
       "In the pampas I saw more animals with less effort than anywhere else: you sit in a boat and caimans, capybaras, monkeys and hundreds of birds file past, with pink dolphins surfacing now and then beside the hull. There you also see the more questionable practices: some guides pull caimans out of the water or go looking for anacondas to let clients touch them. It shouldn't be indulged: just say no and ask to stay and watch. And the mosquitoes are on another level, instead of a repellent you'd need armor.",
+    luoghi: [
+      {
+        "nome": "Yacuma pampas",
+        "testo": "Flooded grasslands travelled by boat along the Rio Yacuma: caimans, capybaras, monkeys, pink dolphins and hundreds of birds, with close sightings.",
+        "come": "Organised 3-day tour from Rurrenabaque, with boat trips and nights in a lodge.",
+        "quando": "May-October, dry season.",
+        "tempo": "3 days, 2 nights",
+        "costo": "Roughly 100-200 dollars for 3 days, all included",
+        "consiglio": "Rick saw more animals with less effort than anywhere else. If the guide pulls caimans out of the water or looks for anacondas to be touched, say no."
+      },
+      {
+        "nome": "Madidi jungle",
+        "testo": "Primary forest inside the national park, with huge trees and very high biodiversity. Wildlife is harder to see.",
+        "come": "3-4 day tour with guided walks and nights in a lodge or tent camp.",
+        "quando": "May-October.",
+        "tempo": "3-4 days",
+        "costo": "Roughly 150-300 dollars for 3-4 days",
+        "consiglio": "Choose a lodge run by indigenous communities, such as Chalalán or San Miguel del Bala."
+      },
+      {
+        "nome": "Pink dolphins and sunsets over the pampas",
+        "testo": "The pink dolphins come close to the boats, and sunset over the flooded grasslands is the best moment of the day.",
+        "come": "Part of the pampas tour.",
+        "quando": "Sunset.",
+        "tempo": "1-2 hours",
+        "consiglio": "Swimming with dolphins is only allowed where the guides permit."
+      },
+      {
+        "nome": "La Paz-Rurrenabaque flight",
+        "testo": "A flight of about 45 minutes on small planes, often cancelled for weather, taking you from 4,000 metres to forest level.",
+        "come": "Book with margin; the alternative is an 18-20 hour bus.",
+        "quando": "All year.",
+        "tempo": "45 minutes",
+        "consiglio": "Do not count on the return flight without margin."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "3 days (pampas)",
+        "tappe": [
+          "Day 1: boat and sightings along the Rio Yacuma",
+          "Day 2: piranha fishing, pink dolphins, night caiman search",
+          "Day 3: dawn over the pampas and return"
+        ]
+      },
+      {
+        "titolo": "4-5 days (pampas and jungle)",
+        "tappe": [
+          "Days 1-3: pampas",
+          "Days 4-5: Madidi with a lodge in the forest"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Rurrenabaque",
+        "perChi": "Those leaving for the tours",
+        "testo": "Base town with agencies. Humid heat."
+      },
+      {
+        "nome": "Lodges along the river",
+        "perChi": "Those on the tours",
+        "testo": "Basic but with mosquito nets."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "River fish",
+        "testo": "Surubí and pacú, grilled."
+      },
+      {
+        "nome": "Tour meals",
+        "testo": "Included in the tours."
+      }
+    ],
+    attenzioni: [
+      "Flights to Rurrenabaque are often cancelled for weather: the alternative is an almost twenty-hour bus.",
+      "Some practices with caimans and anacondas harm the animals: check the operator.",
+      "Serious repellent and yellow fever vaccination.",
+      "Mosquitoes in notable quantity."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['bolivia-itinerario'],
     imageAlt: 'Boats moored on the Beni River in Rurrenabaque, at the foot of forest-covered hills, Bolivia',

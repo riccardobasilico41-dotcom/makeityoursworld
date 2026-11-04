@@ -41,6 +41,129 @@ export const destinazioniPeru: Destinazione[] = [
     ],
     miaEsperienza:
       "The first day here is a lost day, and you have to factor it in: we landed at 11,200 feet (3,400 meters) and only walked slowly between Plaza de Armas and San Blas, coca tea in hand like everyone else. It's what you need, and the rest of the trip benefits. On the second day, Qorikancha and Sacsayhuamán, the best way to understand beforehand what you'll see at Machu Picchu, and lunch at San Pedro Market among juices at the counter and soups for a few soles. For souvenirs in Cusco, I go to Assunta. From here I did both Rainbow Mountain and Humantay Lake, plus another colorful mountain and a couple of lakes whose names I don't remember.",
+    luoghi: [
+      {
+        "nome": "Plaza de Armas and Cathedral",
+        "testo": "The colonial heart of Cusco: arcades, wooden balconies and a Cathedral built over almost a century with blocks taken from Sacsayhuamán. In the evening, with the churches lit up, it is the place to catch your breath after the arrival day.",
+        "come": "In the centre, a walk from almost every hotel. The Cathedral has its own ticket, not included in the general Boleto Turístico.",
+        "quando": "The square is best at dawn and after sunset, when tour groups are elsewhere.",
+        "tempo": "1-2 hours with the Cathedral",
+        "consiglio": "On the first day do nothing else: stroll slowly between the square and San Blas with a coca tea in hand, like everyone does."
+      },
+      {
+        "nome": "Qorikancha (Santo Domingo convent)",
+        "testo": "It was the Inca Temple of the Sun. The conquistadors built the Santo Domingo convent on top, but the dry-stone walls survived the earthquakes that damaged the colonial part. It explains what the stones at Machu Picchu are about.",
+        "come": "On foot from the Plaza de Armas, about 10 minutes south-east. You visit the convent with its cloisters and Inca rooms; there is also a separate site museum.",
+        "quando": "Best in the morning, before the organised groups.",
+        "tempo": "1 hour",
+        "consiglio": "Visit it on the second day together with Sacsayhuamán: the best way to understand Inca masonry before the rest of the trip."
+      },
+      {
+        "nome": "Sacsayhuamán",
+        "testo": "The fortress-sanctuary above the city, with three terraces of megalithic blocks fitted without mortar, some over a hundred tonnes. From above you see all of Cusco, and in June it hosts the final part of the Inti Raymi.",
+        "come": "2 km from the centre and 200 metres higher: 10 minutes by taxi or 30-40 minutes uphill on foot, to be avoided in the first days at altitude. Included in the Boleto Turístico.",
+        "quando": "Morning or early afternoon. On 24 June the area is closed to the public for the Inti Raymi.",
+        "tempo": "1.5-2 hours",
+        "costo": "General Boleto Turístico about 130 soles for foreigners, valid 10 days, 16 sites (November 2025 figure: check before leaving)",
+        "consiglio": "Go up by taxi and walk down: the descent towards San Blas is pleasant and does not tire you."
+      },
+      {
+        "nome": "San Blas and the Stone of Twelve Angles",
+        "testo": "The artisans' quarter, all steep lanes, workshops and cafés. In Calle Hatun Rumiyoc is the twelve-angled stone, an Inca block fitted perfectly among the others, the most photographed wall in Cusco.",
+        "come": "On foot from the square in 5-10 minutes. The streets are steep and cobbled.",
+        "quando": "All day; the workshops are livelier in the afternoon.",
+        "tempo": "1-2 hours",
+        "consiglio": "For souvenirs you find better-made things here than at the stalls on the square. Allow for the climbs: they are felt in the first days."
+      },
+      {
+        "nome": "San Pedro Market",
+        "testo": "The covered market where the locals eat: juice stalls, soups, cheeses, herbs and coca. A first taste of Andean cooking without spending much.",
+        "come": "On foot from the Plaza de Armas, about 10 minutes west. Free entry.",
+        "quando": "Morning and lunch; many stalls close in the afternoon.",
+        "tempo": "1 hour",
+        "consiglio": "The menú del día at lunch costs a few soles and is what locals eat. Keep your bag in front: pickpockets work here."
+      },
+      {
+        "nome": "Rainbow Mountain (Vinicunca)",
+        "testo": "The striped mountain in ochre, pink and turquoise, above 5,000 metres. A day trip from Cusco, with a final walk at altitude that is hard on your breath more than on distance.",
+        "come": "Day trip with a night-time start from Cusco (about 3 hours by road) and a 2-3 hour uphill walk. You go with an agency.",
+        "quando": "Dry season, May to September. Leave before dawn for fewer crowds.",
+        "tempo": "Full day",
+        "consiglio": "Do it after at least 3-4 days of acclimatisation. Rick also did Humantay lake and other lakes nearby, always after getting used to the altitude."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: Plaza de Armas and Cathedral",
+          "Qorikancha and lunch at San Pedro market",
+          "Afternoon: San Blas and the Stone of Twelve Angles",
+          "Evening: light dinner and early bed, at 3,400 metres"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: square, San Blas and market, all easy, coca tea and no alcohol",
+          "Day 2 morning: Qorikancha",
+          "Day 2 afternoon: Sacsayhuamán by taxi and walk down towards San Blas"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Days 1-2 as in the 2-day plan",
+          "Day 3: sleep already in the Sacred Valley (lower) or, well acclimatised, Rainbow Mountain or Humantay lake as a day trip"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Historic centre and Plaza de Armas",
+        "perChi": "Arrivals who want everything on foot",
+        "testo": "The most convenient area for restaurants, agencies and transport. Lively and a bit noisy at night; beware of pickpockets in the busiest streets."
+      },
+      {
+        "nome": "San Blas",
+        "perChi": "Those who want atmosphere and workshops",
+        "testo": "The prettiest quarter, with lanes and cafés. All uphill, and in the first days at altitude the stairs weigh a lot."
+      },
+      {
+        "nome": "San Pedro and Santa Ana area",
+        "perChi": "Budget travellers",
+        "testo": "Cheaper lodging near the market and bus station. Less picturesque, but 10-15 minutes on foot from the square."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Cuy",
+        "testo": "Guinea pig roasted or fried, a festive Andean dish. Eaten in the typical restaurants of the centre and in picanterías out of town."
+      },
+      {
+        "nome": "Grilled alpaca",
+        "testo": "Lean meat, like a delicate beef. Found in almost every restaurant in the centre."
+      },
+      {
+        "nome": "Chicharrón",
+        "testo": "Fried pork pieces served with corn and potatoes, a weekend dish."
+      },
+      {
+        "nome": "Mate de coca",
+        "testo": "Coca leaf infusion, offered in almost every lodging. Drunk all day in the first days at altitude."
+      },
+      {
+        "nome": "Menú del día",
+        "testo": "Soup, main and drink at a low fixed price. The best place to try it is San Pedro market."
+      }
+    ],
+    attenzioni: [
+      "Unofficial taxis at the airport and everywhere: use only booked taxis or apps. It is one of the places where thefts are most frequent.",
+      "Street money changers passing fake or out-of-circulation notes: change only at a bank or an authorised casa de cambio.",
+      "Pickpockets in busy tourist areas and at San Pedro market: bag in front, no phone in hand.",
+      "Altitude sickness (soroche): two days of real rest before any trek, no alcohol on the first day.",
+      "Long-distance buses: use only the main companies, especially at night."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario', 'peru-due-settimane'],
     imageAlt: 'A woman vendor in a hat holds up a tray of corn on the cob in front of the cathedral of Cusco, in the Plaza de Armas',
@@ -85,6 +208,117 @@ export const destinazioniPeru: Destinazione[] = [
     ],
     miaEsperienza:
       "It sits sixteen hundred feet (five hundred meters) lower than Cusco, and from here on you sleep better. The first day, Pisac, with the market and the site on the hill, then Ollantaytambo, where we slept to be ready for the morning train to Machu Picchu. The town is at its best in the evening, when the tour buses have left and it goes back to its residents. The next day, the rest of the valley: the Maras salt pans, pools carved into the mountain and used for generations by the same families, the circular terraces of Moray, and Chinchero, for the weaving. It's the stop to extend if you have an extra day, and it's the one almost everyone sacrifices to rush to Machu Picchu.",
+    luoghi: [
+      {
+        "nome": "Pisac",
+        "testo": "A town with a craft market and, on the hill, an Inca site with terraces and a ceremonial quarter. The site is less visited than Machu Picchu and you walk it almost alone.",
+        "come": "About an hour from Cusco by shared van or car. The archaeological site is included in the Boleto Turístico; the market is in the town.",
+        "quando": "Early morning for the site, then the market. The big market is on Sunday.",
+        "tempo": "Half a day",
+        "consiglio": "If you have only one day, go to the site in the morning and come down to the market for lunch."
+      },
+      {
+        "nome": "Ollantaytambo",
+        "testo": "The only Inca village still inhabited on its original plan, with a terraced fortress above the town. Most trains to Machu Picchu leave from here.",
+        "come": "About 1h30 by car from Cusco; shared vans from Calle Pavitos. Visited on foot. The site is included in the Boleto Turístico.",
+        "quando": "The site in the morning; the town is at its best in the evening, when the tour buses have left.",
+        "tempo": "2-3 hours for the site, one night for the town",
+        "consiglio": "Sleep here the night before the train to Machu Picchu: you gain more than an hour of sleep compared with leaving from Cusco.",
+        "url": "https://cosituc.gob.pe/"
+      },
+      {
+        "nome": "Maras salt pans",
+        "testo": "Thousands of white pans carved into the mountainside, fed by a salty spring and used for generations by the same families.",
+        "come": "By car with a driver or on a tour, often combined with Moray. You walk along the edge of the pans where access is allowed.",
+        "quando": "Morning or late afternoon, when the salt is whitest.",
+        "tempo": "1 hour",
+        "costo": "About 10 soles, a ticket separate from the Boleto Turístico (indicative figure from the site)",
+        "consiglio": "The dirt roads to Maras become difficult in the rainy season."
+      },
+      {
+        "nome": "Moray",
+        "testo": "Concentric circular terraces, a sort of amphitheatre: the Incas used them as an agricultural laboratory, with temperature differences between levels.",
+        "come": "By car or bike from Maras, about 20 minutes. Included in the Boleto Turístico.",
+        "quando": "All day; morning light is best.",
+        "tempo": "45 minutes",
+        "consiglio": "A bike or quad ride between Maras and Moray is a good alternative to the car."
+      },
+      {
+        "nome": "Chinchero",
+        "testo": "A village of weavers above the valley, with Inca terraces and a colonial church. The cooperatives show dyeing with plants and cochineal.",
+        "come": "About 45 minutes from Cusco, on the road to the valley. Site included in the Boleto Turístico.",
+        "quando": "Morning; the market is on Sunday.",
+        "tempo": "1-2 hours",
+        "consiglio": "A weaving workshop with a women's cooperative is worth more than the tourist shops."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: Pisac (site and market)",
+          "Lunch in Urubamba",
+          "Afternoon: Ollantaytambo",
+          "Back to Cusco or sleep there"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: Chinchero, Moray, Maras, then night in Ollantaytambo",
+          "Day 2: Pisac in the morning, or train to Machu Picchu from Ollantaytambo"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: Pisac and night in Pisac or Urubamba",
+          "Day 2: Chinchero, Moray, Maras, night in Ollantaytambo",
+          "Day 3: Ollantaytambo and train to Aguas Calientes"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Ollantaytambo",
+        "perChi": "Those taking the train to Machu Picchu",
+        "testo": "The most strategic choice: station on foot, Inca lanes and few crowds in the evening. Small, with less choice of places to eat."
+      },
+      {
+        "nome": "Urubamba",
+        "perChi": "Those who want comfort and a central position",
+        "testo": "The town with the most comfortable lodging and often more space, halfway along the valley. Less character."
+      },
+      {
+        "nome": "Pisac",
+        "perChi": "Those who want quiet and an alternative feel",
+        "testo": "Quieter, with a craft scene, but farther from the train. The Sunday market brings many people."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Trucha",
+        "testo": "Trout from the local rivers, grilled or fried. Eaten in the country restaurants along the valley."
+      },
+      {
+        "nome": "Menú del día",
+        "testo": "At lunchtime it costs very little and is what locals eat."
+      },
+      {
+        "nome": "Chicha morada and chicha de jora",
+        "testo": "The first is a non-alcoholic purple corn drink, the second a fermented corn beer. Found in towns and markets."
+      },
+      {
+        "nome": "Maíz cancha and choclo con queso",
+        "testo": "Toasted corn and large cobs with fresh cheese, street snack and table food across the valley."
+      }
+    ],
+    attenzioni: [
+      "Do not squeeze the Sacred Valley and Machu Picchu into a single day: both lose their meaning.",
+      "Cheap tours that make long stops in tourist shops: ask in advance which sites are included.",
+      "Dirt roads to Maras and Moray are difficult in the rainy season.",
+      "Train to Machu Picchu: seats sell out weeks ahead in peak months."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario', 'peru-due-settimane'],
     imageAlt: 'Thousands of Maras salt pools descending in steps along the side of the Sacred Valley',
@@ -248,6 +482,129 @@ export const destinazioniPeru: Destinazione[] = [
     ],
     miaEsperienza:
       "The moment I carry with me from Peru is Machu Picchu at dawn. Getting in among the first, when the citadel is still almost empty, pays you back for the alarm in the dark and the road to get there: the advice that counts above all is to sleep in Aguas Calientes and enter on the first shift, less for the light than for those forty minutes when the place is still quiet. I've gotten there in several ways: on a five-day trek, by minibus to Hidroeléctrica and then on foot, and by train, in economy class. I also did Huayna Picchu: it's beautiful, but you have to book in time and if you're afraid of heights you should think hard. It helps to know beforehand that you can't wander freely: the circuit you choose when you book decides what you'll see and what you won't.",
+    luoghi: [
+      {
+        "nome": "The citadel and the visiting circuits",
+        "testo": "The 15th-century Inca complex with agricultural terraces, the Temple of the Sun, the Royal Enclosure and the Intihuatana, the ritual stone linked to the sun, one of the few to survive colonial destruction.",
+        "come": "You reach Aguas Calientes by train or on foot, then the shuttle bus (25 minutes) or 1h30-2h uphill on foot. Inside the site the route is fixed: you choose the circuit when you buy and cannot move freely. A guide is mandatory.",
+        "quando": "The first slot gives forty minutes of silence that pay for the early alarm. May-September is the dry season, but also when places sell out first.",
+        "tempo": "3-4 hours",
+        "costo": "About 152 soles for the basic circuit (site figure, 2026). Tickets only on the official portal",
+        "url": "https://tuboleto.cultura.pe/",
+        "consiglio": "Sleep in Aguas Calientes to enter at the first slot. You cannot eat inside: bring water and a snack to eat before entering."
+      },
+      {
+        "nome": "Huayna Picchu",
+        "testo": "The peak in the background of the photos, with a steep climb on stone steps and exposed stretches. From the top you see the citadel from above.",
+        "come": "Separate ticket with time slots and very few places. The climb starts inside the site and takes about 1h30-2h round trip.",
+        "quando": "Morning slots. Book 2-3 months ahead in any season, 3-4 in peak months.",
+        "tempo": "2-3 hours",
+        "costo": "About 200 soles for the circuit with Huayna Picchu (site figure, 2026)",
+        "url": "https://tuboleto.cultura.pe/",
+        "consiglio": "Rick did it: it is beautiful, but anyone with vertigo should think hard."
+      },
+      {
+        "nome": "Machu Picchu Mountain",
+        "testo": "The mountain behind the citadel, an alternative to Huayna Picchu, with a wider view and a longer but less exposed route.",
+        "come": "Separate limited-entry ticket, same booking rules as Huayna Picchu. The climb starts from the site.",
+        "quando": "Morning slots; book months ahead.",
+        "tempo": "3-4 hours up and down",
+        "costo": "About 200 soles (circuit with the Mountain, site figure, 2026)",
+        "url": "https://tuboleto.cultura.pe/",
+        "consiglio": "If Huayna Picchu is sold out or you fear exposed stretches, this is the alternative."
+      },
+      {
+        "nome": "Intipunku, the Sun Gate",
+        "testo": "The pass from which those on the Inca Trail see the citadel for the first time at dawn. It can also be reached by a walk from the site.",
+        "come": "A walk of about 45-60 minutes from inside the site, uphill, along the original path.",
+        "quando": "Dawn for those arriving by the Inca Trail; for others, morning.",
+        "tempo": "1.5-2 hours round trip",
+        "consiglio": "It gives a different, almost empty view. Ask at the entrance whether your circuit includes the stretch."
+      },
+      {
+        "nome": "Aguas Calientes (Machu Picchu Pueblo)",
+        "testo": "The base for the whole visit, built around the tracks. It has the hot springs that give it its name and a market, but it lives off tourism and the prices show it.",
+        "come": "Only by train or on foot (see the comparison above). The Consettur shuttle bus to the site leaves from here.",
+        "quando": "You sleep one night to enter at the first slot.",
+        "tempo": "One night",
+        "consiglio": "Go down towards the market to eat at a fraction of the main street prices."
+      },
+      {
+        "nome": "Getting there: train, Inca Trail, Salkantay, Hidroeléctrica",
+        "testo": "How you go weighs on the budget more than the entry fee. Rick arrived by train in economy class, by minibus to Hidroeléctrica and then on foot, and on a five-day trek.",
+        "come": "PeruRail or IncaRail train from Ollantaytambo or Cusco; Salkantay trek without limited permits; Inca Trail only with an authorised agency and permits that sell out even 5-6 months ahead.",
+        "quando": "The Inca Trail is closed in February. May-September is the dry season.",
+        "tempo": "From 1 day (train) to 4-5 days (trek)",
+        "consiglio": "With fixed dates: train from Ollantaytambo and a night in Aguas Calientes. With 4-5 days, the Salkantay."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Early train from Ollantaytambo",
+          "Shuttle bus and a 2-3 hour guided visit",
+          "Train back in the afternoon (long day, tight times)"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: afternoon train to Aguas Calientes, dinner and early bed",
+          "Day 2: first bus around 5:30, first-slot entry, optional Huayna Picchu, train back"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: Sacred Valley and night in Ollantaytambo",
+          "Day 2: train, Machu Picchu at the first slot",
+          "Day 3: second morning at the site or hot springs, then return"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Aguas Calientes",
+        "perChi": "Those who want the first slot",
+        "testo": "The only base that does not depend on the first train. High prices for what it offers, noise from the tracks and bars."
+      },
+      {
+        "nome": "Ollantaytambo",
+        "perChi": "Those taking the train who want to sleep in a real village",
+        "testo": "Quieter, with Inca lanes. The train leaves early, so the alarm is before dawn."
+      },
+      {
+        "nome": "Sacred Valley (Urubamba)",
+        "perChi": "Day visitors who do not want to sleep high",
+        "testo": "Lower and more comfortable, but it makes for a very long day to the site."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Menú del día at the Aguas Calientes market",
+        "testo": "Soup and a one-plate meal at a fraction of the prices of the restaurants on the main street."
+      },
+      {
+        "nome": "Trucha",
+        "testo": "River trout, the most common dish on local menus."
+      },
+      {
+        "nome": "Lomo saltado",
+        "testo": "Stir-fried beef with onion, tomato and fries, served with rice. Found everywhere."
+      },
+      {
+        "nome": "Chicha morada",
+        "testo": "Sweet non-alcoholic purple corn drink that goes with almost every meal."
+      }
+    ],
+    attenzioni: [
+      "Buy tickets only on tuboleto.cultura.pe: resellers add a markup.",
+      "The chosen circuit is binding: read what it includes before paying.",
+      "The site has daily quotas and time slots: without a booking you do not enter.",
+      "Do not go up to Machu Picchu the day after arriving in Cusco: you need acclimatisation.",
+      "Long buses and roads towards Hidroeléctrica: winding, with landslides in the rainy season."
+    ],
     esperienzeSlugs: ['huayna-picchu', 'cammino-inca'],
     tripSlugs: ['peru-itinerario', 'peru-due-settimane'],
     imageAlt: 'A lone llama grazes on the Inca terraces of Machu Picchu wrapped in morning mist',
@@ -337,6 +694,81 @@ export const destinazioniPeru: Destinazione[] = [
     ],
     miaEsperienza:
       '',
+    luoghi: [
+      {
+        "nome": "The citadel of Choquequirao",
+        "testo": "An Inca citadel comparable in size to Machu Picchu, excavated for only about a third. A few thousand people a year come, because there is no way but to walk.",
+        "come": "Only on foot from Cachora, after two days of walking. You camp near the site; a guide is not mandatory but advised.",
+        "quando": "April to October. In the rainy season the path is dangerous.",
+        "tempo": "A morning or a full day; two nights is best",
+        "costo": "Entry about 60 soles (indicative figure from the site)",
+        "consiglio": "Stay two nights to have a full day among the ruins without the fatigue of the climb."
+      },
+      {
+        "nome": "The llama terraces",
+        "testo": "Terraces decorated with white stone llama figures set in the wall, the most recognisable detail of the site.",
+        "come": "In the agricultural sector of the site, reached by a short walk from the central area.",
+        "quando": "Early morning, with low light on the walls.",
+        "tempo": "30-60 minutes",
+        "consiglio": "Bring a zoom lens or stay close to the walls: the figures are small."
+      },
+      {
+        "nome": "The Apurímac canyon",
+        "testo": "One of the deepest canyons on the continent. The path goes down and up about 1,500 metres on each side, with strong heat at the bottom.",
+        "come": "The path starts at Cachora, descends to the river and climbs towards Marampata. Stages are done with camps along the way.",
+        "quando": "Start at dawn to avoid the heat in the valley floor.",
+        "tempo": "2 days of walking each way",
+        "consiglio": "Mules for the luggage are worth every sol: the elevation change is felt a lot."
+      },
+      {
+        "nome": "Marampata and the camps along the trail",
+        "testo": "The village closest to the site, with some families renting tent space and basic services. Lower down, Chiquisca and Santa Rosa are the classic stops.",
+        "come": "Along the trail, about an hour from the site.",
+        "quando": "As an evening stop, before the last climb.",
+        "tempo": "One night",
+        "consiglio": "Bring cash in coins and small notes: there are no ATMs."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "4-5 days",
+        "tappe": [
+          "Day 1: Cusco-Cachora by car (about 4 hours), then descent towards the river and first camp",
+          "Day 2: climb towards Marampata",
+          "Day 3: visit Choquequirao",
+          "Day 4: back towards Chiquisca or Santa Rosa",
+          "Day 5: climb to Cachora and return to Cusco"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Cachora",
+        "perChi": "Those starting and preparing the trek",
+        "testo": "The starting village, with simple lodging and mules to hire. A night before leaving helps with the altitude."
+      },
+      {
+        "nome": "Camps on the trail (Chiquisca, Santa Rosa, Marampata)",
+        "perChi": "Walkers",
+        "testo": "Camping with basic services. Little comfort, a lot of silence."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Trek meals",
+        "testo": "Prepared by the agency: soups, rice, coca tea. On your own you carry everything, apart from something simple at Marampata and Chiquisca."
+      },
+      {
+        "nome": "Canyon fruit",
+        "testo": "In the hot valley bottom families sell oranges and bananas to passers-by."
+      }
+    ],
+    attenzioni: [
+      "The trek is considered harder than the Inca Trail and the Salkantay: do not underestimate it.",
+      "Not in the rainy season: the path on the canyon side becomes dangerous.",
+      "No phone signal: leave your itinerary with someone.",
+      "One night at the site is too little."
+    ],
     esperienzeSlugs: ['trek-choquequirao'],
     tripSlugs: [],
   },
@@ -446,6 +878,101 @@ export const destinazioniPeru: Destinazione[] = [
     ],
     miaEsperienza:
       "We entered the Amazon from Puerto Maldonado, with the flight from Lima and then the boat along the river to a lodge in the Tambopata reserve. It's not the documentary you expect: in the dense forest you hear much more than you see. We did the canopy walkway among the treetops and the boat trip to Lake Sandoval, the one with the giant otters. The moment that turned everything around was dawn at the collpa, when hundreds of parrots and macaws arrived together on the clay wall and for twenty minutes we couldn't look at anything else. The other thing that matters more than it seems is the distance from the city: from the nearby, comfortable lodges you see very little, while a few more hours by boat change the experience. I never got fully used to the humid heat, but if you manage it, the Amazon deserves time: it's incredible.",
+    luoghi: [
+      {
+        "nome": "Puerto Maldonado and the Tambopata reserve",
+        "testo": "The most convenient gateway to the Peruvian Amazon, with a flight from Cusco or Lima and then a boat to lodges in the reserve. Here Rick did the canopy walkway and the boat trip.",
+        "come": "Flight from Cusco (a little over an hour) or Lima, then a boat along the river. Lodges sell packages with transfers and excursions.",
+        "quando": "May-October has more passable trails and wildlife concentrated along the rivers.",
+        "tempo": "3-4 days",
+        "consiglio": "Choose a lodge far from the town: from the near ones you see very little."
+      },
+      {
+        "nome": "The parrot clay lick (collpa)",
+        "testo": "A clay wall where hundreds of parrots and macaws gather every morning to take minerals. A short but intense sighting.",
+        "come": "Reached with the lodge guide, leaving before dawn. Some collpas are near Tambopata, others in Manu.",
+        "quando": "At dawn, best on days without rain.",
+        "tempo": "2-3 hours",
+        "consiglio": "Rick saw it and it was the moment that turned the trip around: for twenty minutes you look at nothing else."
+      },
+      {
+        "nome": "Sandoval Lake",
+        "testo": "A horseshoe lake where you see giant otters, caimans and birds. You reach it with a walk in the forest and then by canoe.",
+        "come": "Excursion organised by the lodges, on foot plus canoe.",
+        "quando": "Morning or late afternoon.",
+        "tempo": "Half a day",
+        "consiglio": "Bring repellent and a headlamp."
+      },
+      {
+        "nome": "Iquitos and Pacaya-Samiria",
+        "testo": "Iquitos is the largest city in the world not reachable by road. From the city, expeditions leave for the Pacaya-Samiria reserve, where Rick went with Ruth Amazon Expedition: nights in farmers' houses and in tents in the forest.",
+        "come": "Flight from Lima or boat along the river. From Iquitos tours leave from agencies and lodgings.",
+        "quando": "All year; the dry season (May-October) makes trails easier.",
+        "tempo": "3-4 days for an expedition",
+        "costo": "3 days 1,000 soles, 4 days 1,350 soles per person with Ruth Amazon Expedition (November 2026)",
+        "url": "https://ruthamazonexpeditions.com/",
+        "consiglio": "Sleeping in a tent in the forest is not for everyone: consider it before leaving. Belén market can be visited on your own but with care."
+      },
+      {
+        "nome": "Manu",
+        "testo": "The Manu National Park, one of the richest protected areas for wildlife on the planet, with long and difficult access.",
+        "come": "From Cusco by road and then by boat, with two days of transfer.",
+        "quando": "Dry season, May-October.",
+        "tempo": "6-8 days",
+        "consiglio": "Choose it only with at least a week and a high budget."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "3 days (Puerto Maldonado)",
+        "tappe": [
+          "Day 1: flight, boat and arrival at the lodge",
+          "Day 2: collpa at dawn, canopy walkway, night outing",
+          "Day 3: Sandoval Lake and return"
+        ]
+      },
+      {
+        "titolo": "4 days (Iquitos and Pacaya-Samiria)",
+        "tappe": [
+          "Day 1: Iquitos and transfer by boat",
+          "Days 2-3: boat trips, walks and nights in the forest",
+          "Day 4: return to Iquitos"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Lodges far from the city",
+        "perChi": "Those who want to see wildlife",
+        "testo": "The farther up the river, the more you see. They cost more and need more hours by boat."
+      },
+      {
+        "nome": "Puerto Maldonado and Iquitos",
+        "perChi": "Those who need logistics",
+        "testo": "Transit cities with simple lodging, heat and mototaxi noise."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Juane",
+        "testo": "Rice with chicken wrapped in a bijao leaf, a typical jungle dish."
+      },
+      {
+        "nome": "River fish",
+        "testo": "Paiche, boquichico and other species, grilled or in soup."
+      },
+      {
+        "nome": "Tacacho con cecina",
+        "testo": "Green plantain balls with smoked meat, a typical Iquitos breakfast."
+      }
+    ],
+    attenzioni: [
+      "Yellow fever vaccination: recommended and required by some lodges.",
+      "Repellent, headlamp and waterproof bags for electronics.",
+      "Two nights are too few: the first and last days go in transfers.",
+      "Border areas like Lago Agrio: follow official travel advisories.",
+      "Offers of shaman ceremonies in Iquitos: judge with caution."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario'],
     imageAlt: 'A river in the Peruvian Amazon running straight through the forest, seen from the drone under a blue sky',
@@ -532,6 +1059,96 @@ export const destinazioniPeru: Destinazione[] = [
     ],
     miaEsperienza:
       "The Uros, it has to be said, are a tourist staging: half an hour of interesting explanation about how the totora island is built, and little more. Then Taquile, with lunch and the view of the Bolivian side of the lake. Titicaca turned into something else on Amantaní, where we slept in a family's home, had dinner with them and climbed to the Pachatata temple for sunset. It's not comfortable: shared bathroom, hot water not guaranteed and, at 12,500 feet (3,800 meters) without heating, the night is freezing. But it's the only point of the tour where you step out of the tourist circuit, and it's the moment of the lake that stuck with me most.",
+    luoghi: [
+      {
+        "nome": "Puno",
+        "testo": "The base of the lake, at 3,812 metres. It has a lively centre and the port from which boats leave. It is higher than Cusco: altitude sickness is more likely.",
+        "come": "From Cusco a tourist bus of 7-8 hours with stops, the Andean Explorer train or a flight to Juliaca. From Arequipa about 6 hours.",
+        "quando": "May-September for sun.",
+        "tempo": "1-2 days",
+        "consiglio": "Arrive already acclimatised and do not plan anything heavy on the first day."
+      },
+      {
+        "nome": "Uros islands",
+        "testo": "Floating totora reed islands, built by the communities that still live on them. The visit is touristy: half an hour of explanation about how an island is built.",
+        "come": "Boat from Puno, about 30 minutes.",
+        "quando": "Morning.",
+        "tempo": "1-2 hours",
+        "consiglio": "Rick calls it a tourist show: do not give it more time than needed."
+      },
+      {
+        "nome": "Taquile",
+        "testo": "An island with a village and traditional weaving, UNESCO heritage. Lunch with a view of the Bolivian side of the lake.",
+        "come": "Boat from Puno (about 3 hours), then uphill on foot.",
+        "quando": "Morning and lunch.",
+        "tempo": "Half a day",
+        "consiglio": "You walk at altitude and uphill, at a slow pace."
+      },
+      {
+        "nome": "Amantaní",
+        "testo": "The island where you sleep in families' homes. You dine with them and climb to the Pachatata temple for sunset. No roads, no heating.",
+        "come": "Boat from Puno, usually in a two-day tour.",
+        "quando": "Sunset and dawn.",
+        "tempo": "One night",
+        "costo": "Two-day tour with homestay about 30-60 dollars per person (site figure)",
+        "consiglio": "This is the moment of the lake that stayed with Rick most. Bring a warm sleeping bag: shared bathroom and hot water not guaranteed."
+      },
+      {
+        "nome": "Sillustani",
+        "testo": "Pre-Inca funerary towers (chullpas) on the shore of a lake about half an hour from Puno.",
+        "come": "Half-day tour or taxi from Puno.",
+        "quando": "Afternoon, with low light.",
+        "tempo": "2-3 hours",
+        "consiglio": "If time is short, choose Amantaní over the Uros and add this separately."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: boat from Puno, Uros, Amantaní, dinner with the family",
+          "Day 2: dawn, Taquile, return to Puno"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: Puno and Sillustani",
+          "Days 2-3: as in the 2-day plan"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Puno centre",
+        "perChi": "Those who need logistics",
+        "testo": "Lodging, agencies and restaurants, but at 3,800 metres nights are cold."
+      },
+      {
+        "nome": "Amantaní (homestay)",
+        "perChi": "Those who want the real experience",
+        "testo": "The family hosts with dinner. Shared bathroom, no heating."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Trucha and pejerrey",
+        "testo": "Trout and lake fish, fried or grilled."
+      },
+      {
+        "nome": "Quinoa",
+        "testo": "In soups and local dishes, grown at altitude."
+      },
+      {
+        "nome": "Dinner at Amantaní",
+        "testo": "Simple and genuine, prepared by the host family."
+      }
+    ],
+    attenzioni: [
+      "Altitude: arriving straight from low altitude greatly raises the risk of soroche.",
+      "Night cold in Amantaní homes, with no heating.",
+      "The half-day Uros trip alone is the most touristy part of the lake."
+    ],
     esperienzeSlugs: ['homestay-amantani'],
     tripSlugs: ['peru-itinerario', 'peru-due-settimane'],
     imageAlt: 'A smiling Uros woman in a straw hat shows an embroidered tapestry on Lake Titicaca',
@@ -574,6 +1191,112 @@ export const destinazioniPeru: Destinazione[] = [
     ],
     miaEsperienza:
       "Many cross it only in transit and miss the best reason to stay, the food. Peruvian cooking is one of the things I remember most from these trips, and Lima is where I found it at its best. We ate our first ceviche at lunch, as is the custom here, in a neighborhood cevichería with fish that had arrived that morning. Then the historic center between Plaza Mayor and San Francisco, the Malecón of Miraflores out to Huaca Pucllana and a sunset aperitivo in Barranco, on the Bridge of Sighs. The city is dangerous, though: you have to get around with care, especially outside Miraflores and Barranco.",
+    luoghi: [
+      {
+        "nome": "Plaza Mayor and San Francisco convent",
+        "testo": "The colonial historic centre, UNESCO heritage. The Plaza Mayor has the government palace and the cathedral; a few steps away the San Francisco convent with the library and catacombs.",
+        "come": "By taxi or Metropolitano from Miraflores; then on foot.",
+        "quando": "By day, on weekdays. At night it is better to avoid it.",
+        "tempo": "Half a day",
+        "consiglio": "The centre should be walked with care, especially off the main streets."
+      },
+      {
+        "nome": "Miraflores and the Malecón",
+        "testo": "The clifftop promenade above the ocean, with parks, Pacific views and paragliding. The first evening walk in Lima is here.",
+        "come": "On foot from any hotel in Miraflores.",
+        "quando": "Sunset and evening, with the lights.",
+        "tempo": "1-2 hours",
+        "consiglio": "It is one of the safest areas of the city."
+      },
+      {
+        "nome": "Huaca Pucllana",
+        "testo": "A pre-Inca adobe pyramid in the middle of Miraflores, about 1,500 years old.",
+        "come": "On foot from Miraflores; guided visit.",
+        "quando": "By day; at night the site is lit.",
+        "tempo": "1 hour",
+        "consiglio": "The restaurant next door offers a lit view of the pyramid, but needs a reservation."
+      },
+      {
+        "nome": "Barranco",
+        "testo": "The bohemian quarter of murals, galleries and bars. The Bridge of Sighs is the classic place for a sunset aperitif.",
+        "come": "By taxi or app from Miraflores in 10-15 minutes.",
+        "quando": "Late afternoon and evening.",
+        "tempo": "2-3 hours",
+        "consiglio": "Rick ended the day here: an aperitif on the bridge at sunset."
+      },
+      {
+        "nome": "Larco Museum",
+        "testo": "The country's most important collection of pre-Columbian art, in a viceregal house with gardens.",
+        "come": "By taxi or app, in Pueblo Libre.",
+        "quando": "Morning, to avoid groups. Check hours and days on the site.",
+        "tempo": "2 hours",
+        "url": "https://www.museolarco.org/",
+        "consiglio": "Add it if you have a free half day, especially for the textiles and the erotic gallery."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: historic centre",
+          "Lunch: ceviche in a neighbourhood cevichería",
+          "Afternoon: Miraflores and Malecón",
+          "Sunset: Barranco"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: the 1-day plan",
+          "Day 2: Larco Museum and Huaca Pucllana, dinner at a restaurant booked in advance"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Miraflores",
+        "perChi": "Those who want convenience and safety",
+        "testo": "The most convenient and safe area, near the Malecón. More expensive."
+      },
+      {
+        "nome": "Barranco",
+        "perChi": "Those who want atmosphere and nightlife",
+        "testo": "Bohemian, with bars and murals. Noisier at night."
+      },
+      {
+        "nome": "Historic centre",
+        "perChi": "Budget travellers",
+        "testo": "Cheap lodging, but the area empties at night and is less safe."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Ceviche",
+        "testo": "Raw fish marinated in lime with onion and chilli. Eaten at lunch in a neighbourhood cevichería, not at dinner."
+      },
+      {
+        "nome": "Tiradito and causa",
+        "testo": "The first is sliced raw fish, the second a cold yellow-potato terrine."
+      },
+      {
+        "nome": "Lomo saltado",
+        "testo": "Stir-fried beef with onion and tomato, served with rice and fries."
+      },
+      {
+        "nome": "Anticuchos",
+        "testo": "Marinated beef heart skewers, from street carts in the evening."
+      },
+      {
+        "nome": "Pisco sour",
+        "testo": "The national cocktail: pisco, lime, egg white and syrup."
+      }
+    ],
+    attenzioni: [
+      "Unofficial taxis at the airport exit: one of the places where thefts are most frequent. Only booked taxis or apps.",
+      "The city is dangerous outside Miraflores and Barranco: move with care.",
+      "Traffic is heavy: always add time.",
+      "Book high-end restaurants weeks ahead."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario', 'peru-due-settimane'],
     imageAlt: 'Aerial view of the Miraflores district in Lima, with buildings and a tree-lined park, Peru',
@@ -617,6 +1340,115 @@ export const destinazioniPeru: Destinazione[] = [
     ],
     miaEsperienza:
       "It's the city where I finally slept well: at 7,500 feet (2,300 meters) the body recovers, and after days spent at altitude you feel it. The Santa Catalina Monastery is the place that stayed with me most. I didn't expect it to be so big: it's a small walled city with alleys painted blue and orange. At the Cruz del Cóndor, on the other hand, you have to arrive with the right expectations: the condors rise on the morning currents and when it happens it's impressive, but it's not guaranteed and the viewpoint is packed with people. It's still worth the dawn wake-up.",
+    luoghi: [
+      {
+        "nome": "Plaza de Armas and Arequipa cathedral",
+        "testo": "The square of the white city, built in sillar, the light volcanic stone, with arcades and the cathedral. The Misti volcano appears in the background.",
+        "come": "On foot from the historic centre.",
+        "quando": "Evening, with warm light on the sillar.",
+        "tempo": "1 hour",
+        "consiglio": "Arequipa is at 2,300 metres: the right stop to acclimatise before Cusco or Puno."
+      },
+      {
+        "nome": "Santa Catalina Monastery",
+        "testo": "A city within a city, with lanes, coloured courtyards and cells. Dominican nuns lived here, closed off from the world for centuries.",
+        "come": "On foot from the centre. Tickets and hours on the official site.",
+        "quando": "Early morning or evening, when open on extended hours. Check days on the site.",
+        "tempo": "1.5-2 hours",
+        "url": "https://www.santacatalina.org.pe/",
+        "consiglio": "Visit mid-morning or in the evening to avoid groups."
+      },
+      {
+        "nome": "Andean Sanctuaries Museum and the mummy Juanita",
+        "testo": "A museum with the mummy of an Inca girl sacrificed on the Ampato volcano, found in a perfect state of preservation.",
+        "come": "On foot from the centre. Guided visit.",
+        "quando": "Check hours and closing days before going.",
+        "tempo": "1 hour",
+        "consiglio": "The visit is guided and short: worth it to understand the Colca context."
+      },
+      {
+        "nome": "Cruz del Cóndor",
+        "testo": "The viewpoint for Andean condors in the Colca Canyon, one of the deepest in the world. Condors use the morning thermals.",
+        "come": "Organised tour from Arequipa (about 6 hours by road) or a regular bus to Chivay and Cabanaconde, with a transfer to the viewpoint.",
+        "quando": "First hours of the morning (around 8), all year.",
+        "tempo": "1-2 hours at the spot",
+        "consiglio": "Sleep in Chivay or Cabanaconde the night before to arrive early."
+      },
+      {
+        "nome": "Chivay and the La Calera hot springs",
+        "testo": "The main town of the valley, with a market and the La Calera hot springs, excellent after a day on the road at altitude.",
+        "come": "Road from Arequipa, about 3 hours.",
+        "quando": "Evening.",
+        "tempo": "1-2 hours at the springs",
+        "consiglio": "A good base for the first night in the canyon."
+      },
+      {
+        "nome": "Trek to Sangalle (the oasis)",
+        "testo": "A two-day trek in the canyon, down to the Sangalle oasis and back up at dawn.",
+        "come": "Starts from Cabanaconde; can be done on your own or with a guide.",
+        "quando": "May-September; go down early to avoid the heat.",
+        "tempo": "2 days",
+        "consiglio": "The climb back is hard: start in the dark to avoid the sun."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: Plaza de Armas and Santa Catalina",
+          "Day 2: Andean Sanctuaries Museum and departure for Chivay"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: Arequipa",
+          "Day 2: Chivay, La Calera hot springs",
+          "Day 3: Cruz del Cóndor at dawn and return or onward to Puno"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Historic centre of Arequipa",
+        "perChi": "Those visiting the city",
+        "testo": "The most convenient area for the monastery and square. Some streets are noisy at night."
+      },
+      {
+        "nome": "Chivay",
+        "perChi": "Those visiting the canyon without trekking",
+        "testo": "The biggest town in the valley, with hot springs and a market. At 3,600 metres, cold at night."
+      },
+      {
+        "nome": "Cabanaconde",
+        "perChi": "Those who want to hike",
+        "testo": "The town closest to the Cruz del Cóndor and the path to Sangalle. Simple lodging."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Rocoto relleno",
+        "testo": "Stuffed hot pepper with meat and cheese, the signature dish of Arequipa."
+      },
+      {
+        "nome": "Adobo",
+        "testo": "Pork marinated in chicha and spices, eaten on Sunday mornings."
+      },
+      {
+        "nome": "Chupe de camarones",
+        "testo": "River prawn soup, typical of the picanterías."
+      },
+      {
+        "nome": "Fixed menus in the Colca",
+        "testo": "In the canyon the offer is limited to the set menus of small village restaurants."
+      }
+    ],
+    attenzioni: [
+      "Night buses: choose only main companies.",
+      "Altitude in the Colca: the Cruz del Cóndor is above 3,700 metres.",
+      "The Sangalle trek is very hot at the bottom in summer.",
+      "Do not buy very cheap tours: stops are often skipped."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario', 'peru-due-settimane'],
     imageAlt: 'The lit facade of the cathedral of Arequipa at night, with the golden bell tower against the black sky',
@@ -659,6 +1491,96 @@ export const destinazioniPeru: Destinazione[] = [
     ],
     miaEsperienza:
       "It's the part of Peru almost nobody does, and that's a shame: the Cordillera Blanca stands up to anything you see around Cusco, at a fraction of the price and with no lines. Laguna 69 sums it all up: the last forty minutes above 14,800 feet (4,500 meters) were a fight for breath, twenty steps and a rest, and then we found ourselves in front of that turquoise that looks retouched and isn't. The town itself isn't beautiful, it's a staging post full of agencies, but it's what you need.",
+    luoghi: [
+      {
+        "nome": "Laguna 69",
+        "testo": "The turquoise lake at 4,600 metres, with a colour that looks retouched. It is the classic day trek of the Cordillera Blanca, hard because of altitude more than distance.",
+        "come": "Day trip leaving at dawn from Huaraz (about 3 hours by road), then a 3-hour walk each way. Done with an agency or by shared transport.",
+        "quando": "May-September. Leave early for a clear sky.",
+        "tempo": "Full day",
+        "consiglio": "Rick describes the last forty minutes above 4,500 metres as a fight for breath: twenty steps and a rest. Acclimatise in Huaraz at least two days."
+      },
+      {
+        "nome": "Santa Cruz trek",
+        "testo": "Four days in the cordillera among peaks over 6,000 metres, with tent camps and the Punta Unión pass above 4,700 metres.",
+        "come": "With an agency, mules and cook, from Huaraz. A 3-4 hour transfer at the start.",
+        "quando": "May-September.",
+        "tempo": "4 days",
+        "consiglio": "Check the guide and equipment: the cheapest agencies are not always reliable."
+      },
+      {
+        "nome": "Laguna Parón",
+        "testo": "The largest lake of the Cordillera Blanca, surrounded by peaks, with turquoise water.",
+        "come": "Shared van or day tour from Huaraz, about 3 hours on a dirt road.",
+        "quando": "Early morning.",
+        "tempo": "Half day or full day",
+        "consiglio": "A good alternative if Laguna 69 is too tiring."
+      },
+      {
+        "nome": "Chavín de Huántar",
+        "testo": "UNESCO archaeological site, a pre-Inca ceremonial centre with underground galleries and sculptures.",
+        "come": "Day tour from Huaraz, about 3 hours each way by road.",
+        "quando": "Morning; the galleries are cooler.",
+        "tempo": "Full day with transfers",
+        "consiglio": "Visit the museum: it explains much of the site."
+      },
+      {
+        "nome": "Pastoruri glacier",
+        "testo": "One of the few glaciers reachable in a day, at almost 5,000 metres, in strong retreat.",
+        "come": "Day tour, with a short final walk.",
+        "quando": "Morning.",
+        "tempo": "Full day",
+        "consiglio": "The altitude is high: ask for the acclimatisation stop."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: Huaraz and acclimatisation (town, market)",
+          "Day 2: Laguna 69 or Parón"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: Huaraz, acclimatisation",
+          "Day 2: Laguna 69",
+          "Day 3: Chavín or Parón"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Huaraz centre",
+        "perChi": "Those who want a base for treks",
+        "testo": "Hostels and small hotels, agencies on every corner. The town is not pretty, but it is convenient."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Trucha",
+        "testo": "Farmed trout at altitude."
+      },
+      {
+        "nome": "Cuy",
+        "testo": "Guinea pig, traditional dish."
+      },
+      {
+        "nome": "Pachamanca",
+        "testo": "Meat cooked underground with hot stones, especially at weekends."
+      },
+      {
+        "nome": "Caldo de gallina",
+        "testo": "Hen broth, at the central market in the morning."
+      }
+    ],
+    attenzioni: [
+      "Do not leave for Laguna 69 the day after arriving from Lima: you need at least two days of acclimatisation.",
+      "Check guides and equipment for multi-day treks before paying.",
+      "Night bus Lima-Huaraz: main companies only.",
+      "No phone coverage on treks."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario'],
     imageAlt: 'Laguna 69 with its turquoise color at the foot of the glaciers of the Cordillera Blanca, Peru',
