@@ -37,6 +37,7 @@ import type { EditorialMeta } from '@/content/viaggi-editorial'
 import { getHeroVideo } from '@/content/viaggi-hero-video'
 import { pageMetadata } from '@/lib/seo'
 import { DomandeViaggio } from '@/components/domande/DomandeViaggio'
+import { ProssimaDestinazione } from '@/components/ProssimaDestinazione'
 import { domandePubblicate } from '@/lib/domande/archivio'
 import type { Domanda } from '@/lib/domande/tipi'
 
@@ -528,6 +529,7 @@ function SignatureViaggioContent({
               lista={listaPerViaggio(viaggio.slug, lingua)}
             />
             <FirmaAutore />
+            <ProssimaDestinazione slug={viaggio.slug} lingua={lingua} />
             <DomandeViaggio viaggio={viaggio.slug} lingua={lingua} domande={domande} />
           </div>
 
