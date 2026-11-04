@@ -161,6 +161,7 @@ export const coordinateDestinazioni: Record<string, [number, number]> = {
   'indonesia/giava': [-7.79535, 110.36728],
   'indonesia/komodo': [-8.58919, 119.46241],
   'indonesia/lombok-gili': [-8.35034, 116.03626],
+  'indonesia/mentawai': [-1.35878, 98.895],
   'indonesia/raja-ampat': [-0.42108, 130.82295],
   'indonesia/sulawesi': [-2.97046, 119.89872],
   'indonesia/sumatra': [3.58946, 98.67416],

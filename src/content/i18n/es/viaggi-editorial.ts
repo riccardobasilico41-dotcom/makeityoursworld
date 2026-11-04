@@ -728,4 +728,31 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
       "El helicóptero sobre el Niágara es espectacular, pero desde abajo, en barco, las cataratas rinden más.",
     editorialHookType: 'comparison',
   },
+  'giava-bali-gili': {
+    seoTitle: "Itinerario Indonesia 2 semanas: Java, Bali y Gili",
+    seoDescription:
+      "Dos semanas entre Borobudur, Bromo e Ijen, el norte de Bali, Ubud y Uluwatu, y las Gili: trayectos, tiempos, costes y trampas que evitar.",
+    socialTitle: "Java, Bali y las Gili en 14 días: el clásico, bien hecho",
+    editorialHook:
+      "Tres madrugones en plena noche para Borobudur, el Bromo y el fuego azul del Ijen, luego una Bali vista desde Munduk y Ubud en lugar del sur. Se cierra con tres días en las Gili, sin coches ni motos.",
+    editorialHookType: 'comparison',
+  },
+  'sumatra-mentawai': {
+    seoTitle: "Sumatra y Mentawai en 2 semanas: selva y surf",
+    seoDescription:
+      "Bukittinggi, unos días con una familia mentawai en Siberut y el mar de Sipora: ferris, costes, tasa de surf y cómo viajar con respeto.",
+    socialTitle: "Sumatra y Mentawai en 14 días: la selva de Siberut y el surf de Sipora",
+    editorialHook:
+      "Unos días en la selva de Siberut con una familia mentawai, entre barro, mosquitos y una esterilla por cama. Luego las playas y las olas de Sipora, con todo lo que hay que saber para entrar en esa casa con respeto.",
+    editorialHookType: 'comparison',
+  },
+  'peru-due-settimane': {
+    seoTitle: "Itinerario Perú 2 semanas: Arequipa, Titicaca y Cusco",
+    seoDescription:
+      "Perú en 14 días: Lima, Arequipa y el Colca, el Titicaca con noche en Amantaní, Cusco, Valle Sagrado y Machu Picchu al amanecer, subiendo por escalones.",
+    socialTitle: "Perú en dos semanas, del Colca a Machu Picchu",
+    editorialHook:
+      "Dos semanas de Lima a Machu Picchu, recorridas de sur a norte para subir de altitud un escalón cada vez. Arequipa, los cóndores del Colca, una noche en familia en el Titicaca y la ciudadela inca en el primer turno, antes de los grupos.",
+    editorialHookType: 'comparison',
+  },
 }

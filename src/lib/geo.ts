@@ -233,6 +233,9 @@ import { indiaRajasthanVaranasiMeta } from '@/content/viaggi-dati/india-rajastha
 import { indiaSudTajMahalMeta } from '@/content/viaggi-dati/india-sud-taj-mahal'
 import { maldiveGuidaMeta } from '@/content/viaggi-dati/maldive-guida'
 import { canadaItinerarioMeta } from '@/content/viaggi-dati/canada-itinerario'
+import { giavaBaliGiliMeta } from '@/content/viaggi-dati/giava-bali-gili'
+import { sumatraMentawaiMeta } from '@/content/viaggi-dati/sumatra-mentawai'
+import { peruDueSettimaneMeta } from '@/content/viaggi-dati/peru-due-settimane'
 
 // Registro dei Paesi disponibili. Aggiungere un nuovo Paese = aggiungere una
 // riga qui più i relativi file in src/content/{paesi,destinazioni,esperienze}.
@@ -321,6 +324,9 @@ const TRIP_META: TripMeta[] = [
   indiaSudTajMahalMeta,
   maldiveGuidaMeta,
   canadaItinerarioMeta,
+  giavaBaliGiliMeta,
+  sumatraMentawaiMeta,
+  peruDueSettimaneMeta,
 ]
 
 // Le schede dati dei viaggi contengono appunti di lavoro ("(da confermare quale)",

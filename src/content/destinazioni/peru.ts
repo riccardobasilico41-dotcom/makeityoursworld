@@ -49,7 +49,7 @@ export const destinazioniPeru: Destinazione[] = [
     miaEsperienza:
       'Il primo giorno qui è un giorno perso, e va messo in conto: siamo atterrati a 3.400 metri e abbiamo solo camminato piano fra la Plaza de Armas e San Blas, col tè di coca in mano come fanno tutti. È quello che serve, e il resto del viaggio ne guadagna. Il secondo giorno Qorikancha e Sacsayhuamán, il modo migliore per capire prima cosa si vedrà a Machu Picchu, e il pranzo al mercato di San Pedro fra succhi al banco e zuppe a pochi soles. Per i souvenir, a Cusco io vado da Assunta. Da qui ho fatto sia Rainbow Mountain sia la laguna Humantay, più un\'altra montagna colorata e un paio di lagune di cui non ricordo il nome.',
     esperienzeSlugs: [],
-    tripSlugs: ['peru-itinerario'],
+    tripSlugs: ['peru-itinerario', 'peru-due-settimane'],
     imageAlt: 'Una venditrice con il cappello solleva un vassoio di pannocchie davanti alla cattedrale di Cusco, in Plaza de Armas',
     immagine: '/images/peru/cusco-plaza-de-armas-venditrice-riccardo.jpg',
   },
@@ -93,7 +93,7 @@ export const destinazioniPeru: Destinazione[] = [
     miaEsperienza:
       'Sta cinquecento metri più in basso di Cusco, e da qui in poi si dorme meglio. Il primo giorno Pisac, col mercato e il sito sulla collina, poi Ollantaytambo, dove abbiamo dormito per essere pronti al treno del mattino per Machu Picchu. Il paese dà il meglio la sera, quando i pullman dei tour sono ripartiti e torna ai suoi abitanti. Il giorno dopo il resto della valle: le saline di Maras, vasche scavate nella montagna e usate da generazioni dalle stesse famiglie, i terrazzamenti circolari di Moray e Chinchero, per la tessitura. È la tappa da allungare se si ha un giorno in più, ed è quella che quasi tutti sacrificano per correre a Machu Picchu.',
     esperienzeSlugs: [],
-    tripSlugs: ['peru-itinerario'],
+    tripSlugs: ['peru-itinerario', 'peru-due-settimane'],
     imageAlt: 'Migliaia di vasche di sale di Maras che scendono a gradoni lungo il fianco della Valle Sacra',
     immagine: '/images/peru/saline-maras-riccardo.jpg',
   },
@@ -256,7 +256,7 @@ export const destinazioniPeru: Destinazione[] = [
     miaEsperienza:
       'Il momento che mi porto dietro dal Perù è Machu Picchu all\'alba. Entrare tra i primi, quando la cittadella è ancora quasi vuota, ripaga la sveglia nel buio e la strada per arrivarci: il consiglio che vale più di tutti è dormire ad Aguas Calientes ed entrare al primo turno, più che per la luce per quei quaranta minuti in cui il posto è ancora silenzioso. Ci sono arrivato in più modi: con un trekking di cinque giorni, col pulmino fino a Hidroeléctrica e poi a piedi, e in treno, nella classe economica. Ho fatto anche il Huayna Picchu: è bellissimo, ma va prenotato per tempo e chi soffre di vertigini deve pensarci bene. Conviene sapere prima che non si gira liberamente: il circuito scelto al momento della prenotazione decide cosa si vedrà e cosa no.',
     esperienzeSlugs: ['huayna-picchu', 'cammino-inca'],
-    tripSlugs: ['peru-itinerario'],
+    tripSlugs: ['peru-itinerario', 'peru-due-settimane'],
     imageAlt: 'Un lama solitario pascola sui terrazzamenti inca di Machu Picchu avvolti nella nebbia del mattino',
     immagine: '/images/peru/machu-picchu-lama-terrazze-riccardo.jpg',
   },
@@ -540,7 +540,7 @@ export const destinazioniPeru: Destinazione[] = [
     miaEsperienza:
       'Gli Uros, va detto, sono una messa in scena turistica: mezz\'ora interessante di spiegazione su come si costruisce l\'isola di totora, e poco più. Poi Taquile, col pranzo e la vista sulla parte boliviana del lago. Il Titicaca è diventato un\'altra cosa ad Amantaní, dove abbiamo dormito in casa di una famiglia, abbiamo cenato con loro e siamo saliti al tempio di Pachatata per il tramonto. Non è comodo: bagno condiviso, acqua calda non garantita e, a 3.800 metri senza riscaldamento, la notte si gela. Ma è l\'unico punto del giro in cui si esce dal circuito turistico, ed è il momento del lago che mi è rimasto più impresso.',
     esperienzeSlugs: ['homestay-amantani'],
-    tripSlugs: ['peru-itinerario'],
+    tripSlugs: ['peru-itinerario', 'peru-due-settimane'],
     imageAlt: 'Una donna uros sorridente con il cappello di paglia mostra un arazzo ricamato sul lago Titicaca',
     immagine: '/images/peru/titicaca-uros-arazzo-riccardo.jpg',
   },
@@ -582,7 +582,7 @@ export const destinazioniPeru: Destinazione[] = [
     miaEsperienza:
       'Molti la attraversano solo in transito e si perdono il motivo migliore per restarci, il cibo. La cucina peruviana è una delle cose che ricordo di più di questi viaggi, e Lima è il posto dove l\'ho trovata migliore. Il primo ceviche l\'abbiamo mangiato a pranzo, come si usa qui, in una cevichería di quartiere col pesce arrivato la mattina. Poi il centro storico fra la Plaza Mayor e San Francisco, il Malecón di Miraflores fino a Huaca Pucllana e l\'aperitivo al tramonto a Barranco, sul Puente de los Suspiros. La città però è pericolosa: va girata con attenzione, soprattutto fuori da Miraflores e Barranco.',
     esperienzeSlugs: [],
-    tripSlugs: ['peru-itinerario'],
+    tripSlugs: ['peru-itinerario', 'peru-due-settimane'],
     imageAlt: 'Vista dall\'alto del quartiere di Miraflores a Lima, con palazzi e un parco alberato, Perù',
     immagine: '/images/peru/lima.jpg',
   },
@@ -625,7 +625,7 @@ export const destinazioniPeru: Destinazione[] = [
     miaEsperienza:
       'È la città dove finalmente ho dormito bene: a 2.300 metri il corpo recupera, e dopo giorni passati in quota si sente. Il Monastero di Santa Catalina è il posto che mi è rimasto più impresso. Non mi aspettavo che fosse così grande: è una piccola città murata con i vicoli dipinti di blu e arancione. Alla Cruz del Cóndor invece bisogna arrivare con le aspettative giuste: i condor si alzano con le correnti del mattino e quando succede è impressionante, ma non è garantito e la piazzola è piena di gente. Vale comunque la sveglia all\'alba.',
     esperienzeSlugs: [],
-    tripSlugs: ['peru-itinerario'],
+    tripSlugs: ['peru-itinerario', 'peru-due-settimane'],
     imageAlt: 'La facciata illuminata della cattedrale di Arequipa di notte, con il campanile dorato sul cielo nero',
     immagine: '/images/peru/arequipa-cattedrale-notte-riccardo.jpg',
   },

@@ -321,4 +321,12 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     immagine: '/images/copertine/canada-itinerario.jpg',
     imageAlt: "Niagara's Horseshoe Falls seen from the Canadian side, with the mist rising from the drop",
   },
+  'giava-bali-gili': {
+    immagine: '/images/viaggi/giava-bali-gili/bromo-alba.jpg',
+    imageAlt: "The Bromo crater smoking in the Sea of Sand at first light, with Semeru in the background, seen from the drone",
+  },
+  'peru-due-settimane': {
+    immagine: '/images/peru/machu-picchu-lama-terrazze-riccardo.jpg',
+    imageAlt: "A lone llama grazes on the Inca terraces of Machu Picchu in the morning mist",
+  },
 }

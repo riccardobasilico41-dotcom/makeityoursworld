@@ -88,7 +88,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     miaEsperienza:
       "It's the island almost nobody puts on the itinerary, and they're wrong. At Bukit Lawang we climbed up through the mud holding on to roots, in a heat that took your breath away, and after three hours without seeing anything I started to doubt I hadn't wasted a day. Then an orangutan came down onto a branch a few meters away, stayed looking for a few seconds and went back to eating, and the doubt vanished. There's an uncomfortable side too: some guides lure the animals with food to guarantee the sighting, and this must be explicitly refused when you book. Lake Toba, afterward, was the decompression: big as a province, silent, with a rhythm that slows down by itself.",
     esperienzeSlugs: ['trekking-oranghi-bukit-lawang'],
-    tripSlugs: ['indonesia-itinerario'],
+    tripSlugs: ['indonesia-itinerario', 'sumatra-mentawai'],
     imageAlt: "Lake Toba seen from above among green hills and forest, Sumatra",
     immagine: '/images/indonesia/sumatra.jpg',
   },
@@ -133,7 +133,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     miaEsperienza:
       "Java is the part of Indonesia that feels least like a vacation and leaves the sharpest memory. Ijen above all: we set off at one in the morning and climbed in the dark with the gas mask on. Down in the crater, the blue flames were smaller than they look in photos; everything else was enormous. Miners walked past with baskets of eighty kilos of sulfur on their shoulders, barefoot or nearly, and in there tourism takes on a different weight. At Bromo the opposite happened: dawn from Penanjakan is spectacular, but it's also a parking lot with hundreds of jeeps and rows of people holding up their phones. It's still worth it, as long as you know beforehand. Borobudur at dawn is one of the few things that lives up to its myth, but the ticket to climb the structure is limited in number and sells out well in advance.",
     esperienzeSlugs: ['alba-bromo-jeep'],
-    tripSlugs: ['indonesia-itinerario'],
+    tripSlugs: ['indonesia-itinerario', 'giava-bali-gili'],
     imageAlt: "A stone Buddha head at Borobudur, seen from behind, in front of the valley wrapped in dawn mist, Java",
     immagine: '/images/indonesia/borobudur-buddha-nebbia-riccardo.jpg',
   },
@@ -179,7 +179,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     miaEsperienza:
       "Bali is two different islands depending on where you sleep, and that's why it gets opposite verdicts. The south between Canggu and Seminyak is made of concrete, traffic and places designed for people coming from outside: you can have fun, but Indonesia is elsewhere. Twenty kilometers inland is enough and the flower offerings in front of the houses, renewed every morning, reappear, along with temples in use rather than on display: the island becomes what you came looking for. More than any rice paddy or beach, what stayed with me is the Kecak dance at Uluwatu at sunset, with seventy men sitting in a circle making all the music with their voices. Nusa Penida, on the other hand, is by now a victim of its own success (Kelingking at midday is a line of people on a steep path) and it's best to be on the first boat in the morning.",
     esperienzeSlugs: ['giornata-nusa-penida'],
-    tripSlugs: ['indonesia-itinerario'],
+    tripSlugs: ['indonesia-itinerario', 'giava-bali-gili'],
     imageAlt: "Terraced rice paddies with palm trees at the entrance of the Gunung Kawi temple at Tampaksiring, Bali",
     immagine: '/images/indonesia/bali.jpg',
   },
@@ -212,7 +212,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Sulawesi has the spiciest cooking in the archipelago, especially in the north around Manado: the dish to know is rica-rica, based on chili in quantities that are not negotiable. In Makassar you eat coto makassar, a beef soup served at breakfast, and grilled fish on the seafront in the evening. In Tana Toraja pork and buffalo appear, because the area is Christian: pa'piong, meat cooked inside a bamboo tube, has to be ordered hours ahead.",
     comeArrivare:
       "Flight to Makassar (main hub), then bus or domestic flight to Rantepao (Tana Toraja) or to Manado (base for Bunaken).",
-    comeSpostarsi: "Bus or car with driver for Tana Toraja; boat from the Manado pier for Bunaken.",
+    comeSpostarsi: "Bus or car with driver for Tana Toraja; boat from the Manado pier for Bunaken. To organize everything I recommend Wale Adventure (wale-adventure.com), a local tour operator: kind and good at what they do, with private tours all over the island and a vanilla farm you can visit (I built their website).",
     periodoMigliore: "May-October",
     costi: "average, higher for the diving packages at Bunaken",
     erroriDaEvitare: [
@@ -264,7 +264,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     miaEsperienza:
       "The Rinjani is the hardest trek I did in Indonesia, and comparison with the others doesn't hold up. The climb to the crater rim is long and exposed, and ends on volcanic sand where for every three steps you lose one. We pitched camp on the rim, in the wind, and you sleep little and badly. Waking up above Lake Segara Anak with the clouds below, though, repays everything. The Gilis are perfect right afterward: no cars or scooters, you walk around in an hour and the turtles can be seen from the beach, with no boat or guide. Trawangan at night is more of a party than some expect, Meno is the opposite: better to know before booking.",
     esperienzeSlugs: ['trekking-gunung-rinjani'],
-    tripSlugs: ['indonesia-itinerario'],
+    tripSlugs: ['indonesia-itinerario', 'giava-bali-gili'],
     imageAlt: "The Rinjani massif on Lombok seen from the beach of Gili Trawangan, with Gili Meno in the foreground",
     immagine: '/images/indonesia/lombok-gili.jpg',
   },
@@ -460,5 +460,51 @@ export const destinazioniIndonesia: Destinazione[] = [
     tripSlugs: [],
     imageAlt: "Limestone islets covered in forest in the turquoise lagoon of Piaynemo, Raja Ampat",
     immagine: '/images/indonesia/raja-ampat.jpg',
+  },
+  {
+    slug: 'mentawai',
+    paeseSlug: 'indonesia',
+    ordine: 9,
+    nome: 'Mentawai',
+    tipologia: ['natura', 'cultura', 'surf', 'mare'],
+    giorniConsigliati: '7-8 days: 3-4 in the Siberut jungle, the rest on Sipora for the sea or surfing',
+    visitataPersonalmente: true,
+    introduzione:
+      "An archipelago west of Sumatra, with four main islands: Siberut, Sipora, North Pagai and South Pagai. On Siberut you spend a few days in the jungle with a Mentawai family; on Sipora there are beaches and some of the most famous surf breaks in the world.",
+    percheAndarci:
+      "To spend a few days in an uma, the Mentawai longhouse, with guides from Siberut, and then for the sea and the waves of Sipora.",
+    cosaVedere: [
+      "The Siberut jungle, going up the river by motorized canoe to a family's uma",
+      "The beaches of Sipora",
+      "Tuapejat, the capital of the Mentawai, on Sipora",
+      "The breaks of Sipora: Lance's Left and HTs in the south, Telescopes in the north",
+    ],
+    cosaFare: [
+      "A few days with a Mentawai family in the Siberut jungle, with an operator that works with Mentawai guides",
+      "Surfing the reefs of Sipora, only for intermediates and experts, in the May-September season",
+      "Surf lessons on beach breaks for beginners, best in the months with little swell",
+    ],
+    doveDormire:
+      "On Siberut in the uma of the host family, on a mat under a mosquito net. On Sipora homestays (roughly 700,000-1,500,000 IDR a night) or resorts and surf camps (from about 4,000,000 IDR).",
+    comeArrivare:
+      "Mentawai Fast ferry from Padang: about 3.5 hours to Tuapejat (Sipora) and about 4 to Siberut. Times and prices (300,000-400,000 IDR depending on the source) change often: check them on the operator's official page. No confirmed regular flights show up for the Mentawai airport.",
+    comeSpostarsi:
+      "On Siberut minivan, motorized canoe on the river and trekking through mud. Between the islands and to the breaks, private boat (roughly 1,500,000-3,000,000 IDR a day) or transfers organized by operators and surf camps.",
+    periodoMigliore:
+      "May to early September for the Siberut jungle, May-September for the biggest swells; from November to January it rains a lot",
+    costi:
+      "stays with Mentawai Tribe from 200 € (3 days) to 550 € (8 days) per person; mandatory surf tax, current amount to be verified (sources range from 75 to 130 USD)",
+    erroriDaEvitare: [
+      "Treating the visit as a show: you are a guest in a family's home, you ask permission before every photo and you don't pay for poses or costumes",
+      "Leaving without buffer days: with a red Syahbandar flag the ferries don't go out",
+      "Underestimating the conditions: mud, mosquitoes, no electricity, humid heat",
+      "Thinking the famous reefs are suitable for beginners",
+      "Leaving without insurance that covers evacuation and without having seen a travel medicine clinic about malaria",
+    ],
+    miaEsperienza:
+      "I went with Mentawai Tribe, a Padang operator that works with guides from Siberut, and I spent a few days in the jungle with a Mentawai family. These places are unreal. It's not for everyone, though: there's mud everywhere, there are insects, there's no electricity and you sleep on a mat. And there's an ethical side to face honestly. It's not a human zoo, you're a guest in someone's home. You ask before photographing, the guide arranges the gifts, the money has to reach the community: that's why it matters to choose an operator with Mentawai guides. It also helps to know that for decades the state suppressed their traditions, burning ritual objects and arresting the shamans. After the jungle there are the beaches, beautiful, and the surf of Sipora, which is the reason almost everyone comes all the way here.",
+    esperienzeSlugs: [],
+    tripSlugs: ['sumatra-mentawai'],
+    imageAlt: 'The Siberut jungle and the beaches of Sipora, Mentawai Islands',
   },
 ]

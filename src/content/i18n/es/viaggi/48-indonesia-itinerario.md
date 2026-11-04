@@ -128,6 +128,8 @@ Vuelo a **Makassar**, el principal nudo de **Sulawesi**, y desde allí autobús 
 ### Día 33 — Tana Toraja: pueblos tongkonan y tumbas en la roca
 Jornada entre los **pueblos tongkonan**, con las casas tradicionales de tejado en forma de barco (distintas, por forma y cultura, de las casas batak de tejado en forma de silla de montar vistas en Samosir al principio del viaje), y las **tumbas excavadas en la roca**, con los **tau tau**, las efigies de madera de los difuntos, que vigilan desde lo alto de las paredes. Si coincide con la época adecuada y con un guía que explique su etiqueta, se puede asistir a un fragmento de **ceremonia fúnebre toraja**: un acontecimiento que dura días, implica a cientos de personas y prevé el sacrificio de búfalos delante de todos. Es una fiesta, carísima, para la que las familias ahorran durante años. Asistir como forasteros exige respeto: un pequeño regalo, normalmente azúcar o cigarrillos, y quedarse donde indique el guía.
 
+Para organizar Sulawesi recomiendo [Wale Adventure](https://wale-adventure.com): son amables y buenos, hacen tours privados por toda la isla (Toraja, Tomohon, Tangkoko, Bunaken) y tienen también una vanilla farm que se visita. Por transparencia: su web la hice yo.
+
 ### Día 34 — Trekking entre los pueblos de montaña de Rantepao
 Trekking de un día entre los **pueblos de montaña** alrededor de Rantepao, entre arrozales en terrazas y casas tongkonan aisladas: una forma más lenta de ver la misma cultura del día anterior, sin el contexto de una ceremonia organizada. A última hora de la tarde volvimos hacia **Makassar** para la última noche del viaje.
 

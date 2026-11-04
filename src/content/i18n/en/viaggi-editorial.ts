@@ -721,4 +721,31 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
       "The helicopter over Niagara is scenic, but from below, on the boat, the falls look better.",
     editorialHookType: 'comparison',
   },
+  'giava-bali-gili': {
+    seoTitle: "Indonesia itinerary 2 weeks: Java, Bali and the Gilis",
+    seoDescription:
+      "Two weeks from Borobudur, Bromo and Ijen to north Bali, Ubud, Uluwatu and the Gilis: routes, timing, costs and the traps to avoid.",
+    socialTitle: "Java, Bali and the Gilis in 14 days: the classic loop, done right",
+    editorialHook:
+      "Three wake-ups in the middle of the night for Borobudur, Bromo and the blue fire of Ijen, then a Bali seen from Munduk and Ubud instead of from the south. It ends with three days on the Gilis, with no cars or scooters.",
+    editorialHookType: 'comparison',
+  },
+  'sumatra-mentawai': {
+    seoTitle: "Sumatra and Mentawai in 2 weeks: jungle and surf",
+    seoDescription:
+      "Bukittinggi, a few days with a Mentawai family on Siberut and the sea of Sipora: ferries, costs, surf tax and how to travel respectfully.",
+    socialTitle: "Sumatra and Mentawai in 14 days: the Siberut jungle and the surf of Sipora",
+    editorialHook:
+      "A few days in the Siberut jungle with a Mentawai family, with mud, mosquitoes and a mat for a bed. Then the beaches and waves of Sipora, with everything you need to know to enter that home with respect.",
+    editorialHookType: 'comparison',
+  },
+  'peru-due-settimane': {
+    seoTitle: "Peru itinerary 2 weeks: Arequipa, Titicaca and Cusco",
+    seoDescription:
+      "Peru in 14 days: Lima, Arequipa and the Colca, a night on Amantaní at Titicaca, Cusco, the Sacred Valley and Machu Picchu at dawn, climbing by steps.",
+    socialTitle: "Peru in two weeks, from the Colca to Machu Picchu",
+    editorialHook:
+      "Two weeks from Lima to Machu Picchu, run from south to north to climb in altitude one step at a time. Arequipa, the condors of the Colca, a night with a family on Titicaca and the Inca citadel on the first shift, before the groups.",
+    editorialHookType: 'comparison',
+  },
 }

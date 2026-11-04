@@ -100,7 +100,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     miaEsperienza:
       'È l\'isola che quasi nessuno mette in itinerario, e sbaglia. A Bukit Lawang siamo saliti nel fango aggrappandoci alle radici, con un caldo che toglieva il respiro, e dopo tre ore senza vedere niente mi è venuto il dubbio di aver buttato una giornata. Poi un orango è sceso su un ramo a pochi metri, è rimasto a guardare per qualche secondo e ha ripreso a mangiare, e il dubbio è sparito. C\'è anche una parte scomoda: qualche guida attira gli animali col cibo per garantire l\'avvistamento, e va rifiutato in modo esplicito quando si prenota. Il Lago Toba, dopo, è stato la decompressione: grande come una provincia, silenzioso, con un ritmo che rallenta da solo.',
     esperienzeSlugs: ['trekking-oranghi-bukit-lawang'],
-    tripSlugs: ['indonesia-itinerario'],
+    tripSlugs: ['indonesia-itinerario', 'sumatra-mentawai'],
     imageAlt: 'Il lago Toba visto dall\'alto tra colline verdi e foresta, Sumatra',
     immagine: '/images/indonesia/sumatra.jpg',
   },
@@ -145,7 +145,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     miaEsperienza:
       'Giava è la parte di Indonesia che fa meno vacanza e lascia il ricordo più netto. L\'Ijen soprattutto: siamo partiti all\'una di notte e siamo saliti al buio con la maschera antigas addosso. Scesi nel cratere, le fiamme blu erano più piccole di come appaiono nelle foto; enorme era tutto il resto. Accanto passavano i minatori con ceste di zolfo da ottanta chili sulle spalle, scalzi o quasi, e lì dentro il turismo assume un peso diverso. Al Bromo è successo l\'opposto: l\'alba dal Penanjakan è spettacolare, ma è anche un parcheggio con centinaia di jeep e file di persone col telefono alzato. Vale comunque, a patto di saperlo prima. Borobudur all\'alba è una delle poche cose che regge il proprio mito, ma il biglietto per salire sulla struttura è a numero chiuso e si esaurisce con largo anticipo.',
     esperienzeSlugs: ['alba-bromo-jeep'],
-    tripSlugs: ['indonesia-itinerario'],
+    tripSlugs: ['indonesia-itinerario', 'giava-bali-gili'],
     imageAlt: 'Una testa di Buddha in pietra di Borobudur, di spalle, davanti alla valle avvolta nella nebbia dell\'alba, Giava',
     immagine: '/images/indonesia/borobudur-buddha-nebbia-riccardo.jpg',
   },
@@ -191,7 +191,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     miaEsperienza:
       'Bali è due isole diverse a seconda di dove si dorme, ed è il motivo per cui riceve giudizi opposti. Il sud tra Canggu e Seminyak è fatto di cemento, traffico e locali pensati per chi arriva da fuori: ci si può divertire, ma l\'Indonesia è altrove. Bastano venti chilometri verso l\'interno e ricompaiono le offerte di fiori davanti alle case, rinnovate ogni mattina, e i templi in uso invece che in mostra: l\'isola torna quella che si veniva a cercare. Più di qualsiasi risaia o spiaggia mi è rimasta impressa la danza Kecak a Uluwatu al tramonto, con settanta uomini seduti in cerchio che fanno tutta la musica con la voce. Nusa Penida invece è ormai vittima del proprio successo (Kelingking a metà giornata è una coda di persone su un sentiero ripido) e conviene essere sulla prima barca del mattino.',
     esperienzeSlugs: ['giornata-nusa-penida'],
-    tripSlugs: ['indonesia-itinerario'],
+    tripSlugs: ['indonesia-itinerario', 'giava-bali-gili'],
     imageAlt: 'Le risaie a terrazze con le palme all\'ingresso del tempio di Gunung Kawi a Tampaksiring, Bali',
     immagine: '/images/indonesia/bali.jpg',
   },
@@ -224,7 +224,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       'Sulawesi ha la cucina più piccante dell\'arcipelago, soprattutto nel nord attorno a Manado: il piatto da conoscere è il rica-rica, a base di peperoncino in quantità che non si negoziano. A Makassar si mangia il coto makassar, zuppa di manzo servita a colazione, e il pesce alla griglia sul lungomare la sera. In Tana Toraja compaiono maiale e bufalo, perché la zona è cristiana: il pa\'piong, carne cotta dentro un tubo di bambù, va ordinato con ore di anticipo.',
     comeArrivare:
       'Volo su Makassar (hub principale), poi bus o volo interno per Rantepao (Tana Toraja) o per Manado (base per Bunaken).',
-    comeSpostarsi: 'Bus o auto con autista per Tana Toraja; barca dal molo di Manado per Bunaken.',
+    comeSpostarsi: 'Bus o auto con autista per Tana Toraja; barca dal molo di Manado per Bunaken. Per organizzare tutto consiglio Wale Adventure (wale-adventure.com), tour operator locale: gentili e bravi, con tour privati su tutta l\'isola e una vanilla farm da visitare (il loro sito l\'ho fatto io).',
     periodoMigliore: 'maggio-ottobre',
     costi: 'nella media, più alto per i pacchetti diving a Bunaken',
     erroriDaEvitare: [
@@ -276,7 +276,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     miaEsperienza:
       'Il Rinjani è il trekking più duro che ho fatto in Indonesia, e il paragone con gli altri non regge. La salita al bordo del cratere è lunga ed esposta, e finisce su sabbia vulcanica dove ogni tre passi se ne perde uno. Il campo l\'abbiamo montato sul ciglio, col vento, e la notte si dorme poco e male. Svegliarsi sopra il lago Segara Anak con le nuvole sotto, però, ripaga tutto. Le Gili sono perfette subito dopo: niente auto né scooter, si gira a piedi in un\'ora e le tartarughe si vedono partendo dalla spiaggia, senza barca né guida. Trawangan la sera è più festaiola di quanto qualcuno si aspetti, Meno è l\'opposto: meglio saperlo prima di prenotare.',
     esperienzeSlugs: ['trekking-gunung-rinjani'],
-    tripSlugs: ['indonesia-itinerario'],
+    tripSlugs: ['indonesia-itinerario', 'giava-bali-gili'],
     imageAlt: 'Il massiccio del Rinjani di Lombok visto dalla spiaggia di Gili Trawangan, con Gili Meno in primo piano',
     immagine: '/images/indonesia/lombok-gili.jpg',
   },
@@ -472,5 +472,51 @@ export const destinazioniIndonesia: Destinazione[] = [
     tripSlugs: [],
     imageAlt: 'Gli isolotti calcarei coperti di foresta nella laguna turchese di Piaynemo, Raja Ampat',
     immagine: '/images/indonesia/raja-ampat.jpg',
+  },
+  {
+    slug: 'mentawai',
+    paeseSlug: 'indonesia',
+    ordine: 9,
+    nome: 'Mentawai',
+    tipologia: ['natura', 'cultura', 'surf', 'mare'],
+    giorniConsigliati: '7-8 giorni: 3-4 nella giungla di Siberut, il resto a Sipora per il mare o il surf',
+    visitataPersonalmente: true,
+    introduzione:
+      'Un arcipelago a ovest di Sumatra, con quattro isole principali: Siberut, Sipora, Pagai Nord e Pagai Sud. A Siberut si vive qualche giorno nella giungla con una famiglia mentawai; a Sipora ci sono le spiagge e alcuni dei break di surf più famosi del mondo.',
+    percheAndarci:
+      'Per stare qualche giorno in una uma, la casa lunga dei Mentawai, con guide di Siberut, e poi per il mare e le onde di Sipora.',
+    cosaVedere: [
+      'La giungla di Siberut, risalendo il fiume in canoa a motore fino alla uma di una famiglia',
+      'Le spiagge di Sipora',
+      'Tuapejat, il capoluogo delle Mentawai, su Sipora',
+      'I break di Sipora: Lance\'s Left e HTs nel sud, Telescopes nel nord',
+    ],
+    cosaFare: [
+      'Qualche giorno con una famiglia mentawai nella giungla di Siberut, con un operatore che lavora con guide mentawai',
+      'Surf sui reef di Sipora, solo per intermedi ed esperti, nella stagione maggio-settembre',
+      'Lezioni di surf su onde di spiaggia per chi comincia, meglio nei mesi con poco swell',
+    ],
+    doveDormire:
+      'A Siberut nella uma della famiglia che ospita, su una stuoia con zanzariera. A Sipora homestay (di massima 700.000-1.500.000 IDR a notte) o resort e surf camp (da circa 4.000.000 IDR).',
+    comeArrivare:
+      'Traghetto veloce Mentawai Fast da Padang: circa 3,5 ore per Tuapejat (Sipora) e circa 4 per Siberut. Orari e prezzi (300.000-400.000 IDR secondo le fonti) cambiano spesso: vanno verificati sulla pagina ufficiale dell\'operatore. Non risultano voli regolari confermati per l\'aeroporto delle Mentawai.',
+    comeSpostarsi:
+      'A Siberut minivan, canoa a motore sul fiume e trekking nel fango. Tra le isole e verso i break, barca privata (di massima 1.500.000-3.000.000 IDR al giorno) o i trasferimenti organizzati da operatori e surf camp.',
+    periodoMigliore:
+      'maggio-inizio settembre per la giungla di Siberut, maggio-settembre per gli swell più grandi; da novembre a gennaio piove molto',
+    costi:
+      'soggiorni con Mentawai Tribe da 200 € (3 giorni) a 550 € (8 giorni) a persona; tassa surf obbligatoria, con importo attuale da verificare (le fonti vanno da 75 a 130 USD)',
+    erroriDaEvitare: [
+      'Trattare la visita come uno spettacolo: si è ospiti in casa di una famiglia, si chiede il permesso prima di ogni foto e non si paga per pose o costumi',
+      'Partire senza giorni di margine: con bandiera rossa del Syahbandar i traghetti non escono',
+      'Sottovalutare le condizioni: fango, zanzare, niente elettricità, caldo umido',
+      'Pensare che i reef famosi siano adatti ai principianti',
+      'Partire senza assicurazione che copra l\'evacuazione e senza essere passati da un ambulatorio di medicina dei viaggi per la malaria',
+    ],
+    miaEsperienza:
+      'Ci sono andato con Mentawai Tribe, un operatore di Padang che lavora con guide di Siberut, e ho passato qualche giorno nella giungla con una famiglia mentawai. Sono posti pazzeschi. Non è per tutti, però: c\'è fango ovunque, ci sono insetti, non c\'è elettricità e si dorme su una stuoia. E c\'è un lato etico da affrontare onestamente. Non è uno zoo umano, sei ospite in casa di qualcuno. Si chiede prima di fotografare, i regali li concorda la guida, i soldi devono arrivare alla comunità: per questo conta scegliere un operatore con guide mentawai. Serve anche sapere che per decenni lo Stato ha represso le loro tradizioni, bruciando oggetti rituali e arrestando gli sciamani. Dopo la giungla ci sono le spiagge, bellissime, e il surf di Sipora, che è il motivo per cui quasi tutti arrivano fin qui.',
+    esperienzeSlugs: [],
+    tripSlugs: ['sumatra-mentawai'],
+    imageAlt: 'La giungla di Siberut e le spiagge di Sipora, isole Mentawai',
   },
 ]

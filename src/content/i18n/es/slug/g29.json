@@ -1,0 +1,10 @@
+{
+  "viaggi": {
+    "giava-bali-gili": "java-bali-gili-14-dias",
+    "sumatra-mentawai": "sumatra-mentawai-14-dias",
+    "peru-due-settimane": "peru-2-semanas"
+  },
+  "destinazioni": {
+    "indonesia/mentawai": "mentawai"
+  }
+}

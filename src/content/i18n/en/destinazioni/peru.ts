@@ -42,7 +42,7 @@ export const destinazioniPeru: Destinazione[] = [
     miaEsperienza:
       "The first day here is a lost day, and you have to factor it in: we landed at 11,200 feet (3,400 meters) and only walked slowly between Plaza de Armas and San Blas, coca tea in hand like everyone else. It's what you need, and the rest of the trip benefits. On the second day, Qorikancha and Sacsayhuamán, the best way to understand beforehand what you'll see at Machu Picchu, and lunch at San Pedro Market among juices at the counter and soups for a few soles. For souvenirs in Cusco, I go to Assunta. From here I did both Rainbow Mountain and Humantay Lake, plus another colorful mountain and a couple of lakes whose names I don't remember.",
     esperienzeSlugs: [],
-    tripSlugs: ['peru-itinerario'],
+    tripSlugs: ['peru-itinerario', 'peru-due-settimane'],
     imageAlt: 'A woman vendor in a hat holds up a tray of corn on the cob in front of the cathedral of Cusco, in the Plaza de Armas',
     immagine: '/images/peru/cusco-plaza-de-armas-venditrice-riccardo.jpg',
   },
@@ -86,7 +86,7 @@ export const destinazioniPeru: Destinazione[] = [
     miaEsperienza:
       "It sits sixteen hundred feet (five hundred meters) lower than Cusco, and from here on you sleep better. The first day, Pisac, with the market and the site on the hill, then Ollantaytambo, where we slept to be ready for the morning train to Machu Picchu. The town is at its best in the evening, when the tour buses have left and it goes back to its residents. The next day, the rest of the valley: the Maras salt pans, pools carved into the mountain and used for generations by the same families, the circular terraces of Moray, and Chinchero, for the weaving. It's the stop to extend if you have an extra day, and it's the one almost everyone sacrifices to rush to Machu Picchu.",
     esperienzeSlugs: [],
-    tripSlugs: ['peru-itinerario'],
+    tripSlugs: ['peru-itinerario', 'peru-due-settimane'],
     imageAlt: 'Thousands of Maras salt pools descending in steps along the side of the Sacred Valley',
     immagine: '/images/peru/saline-maras-riccardo.jpg',
   },
@@ -249,7 +249,7 @@ export const destinazioniPeru: Destinazione[] = [
     miaEsperienza:
       "The moment I carry with me from Peru is Machu Picchu at dawn. Getting in among the first, when the citadel is still almost empty, pays you back for the alarm in the dark and the road to get there: the advice that counts above all is to sleep in Aguas Calientes and enter on the first shift, less for the light than for those forty minutes when the place is still quiet. I've gotten there in several ways: on a five-day trek, by minibus to Hidroeléctrica and then on foot, and by train, in economy class. I also did Huayna Picchu: it's beautiful, but you have to book in time and if you're afraid of heights you should think hard. It helps to know beforehand that you can't wander freely: the circuit you choose when you book decides what you'll see and what you won't.",
     esperienzeSlugs: ['huayna-picchu', 'cammino-inca'],
-    tripSlugs: ['peru-itinerario'],
+    tripSlugs: ['peru-itinerario', 'peru-due-settimane'],
     imageAlt: 'A lone llama grazes on the Inca terraces of Machu Picchu wrapped in morning mist',
     immagine: '/images/peru/machu-picchu-lama-terrazze-riccardo.jpg',
   },
@@ -533,7 +533,7 @@ export const destinazioniPeru: Destinazione[] = [
     miaEsperienza:
       "The Uros, it has to be said, are a tourist staging: half an hour of interesting explanation about how the totora island is built, and little more. Then Taquile, with lunch and the view of the Bolivian side of the lake. Titicaca turned into something else on Amantaní, where we slept in a family's home, had dinner with them and climbed to the Pachatata temple for sunset. It's not comfortable: shared bathroom, hot water not guaranteed and, at 12,500 feet (3,800 meters) without heating, the night is freezing. But it's the only point of the tour where you step out of the tourist circuit, and it's the moment of the lake that stuck with me most.",
     esperienzeSlugs: ['homestay-amantani'],
-    tripSlugs: ['peru-itinerario'],
+    tripSlugs: ['peru-itinerario', 'peru-due-settimane'],
     imageAlt: 'A smiling Uros woman in a straw hat shows an embroidered tapestry on Lake Titicaca',
     immagine: '/images/peru/titicaca-uros-arazzo-riccardo.jpg',
   },
@@ -575,7 +575,7 @@ export const destinazioniPeru: Destinazione[] = [
     miaEsperienza:
       "Many cross it only in transit and miss the best reason to stay, the food. Peruvian cooking is one of the things I remember most from these trips, and Lima is where I found it at its best. We ate our first ceviche at lunch, as is the custom here, in a neighborhood cevichería with fish that had arrived that morning. Then the historic center between Plaza Mayor and San Francisco, the Malecón of Miraflores out to Huaca Pucllana and a sunset aperitivo in Barranco, on the Bridge of Sighs. The city is dangerous, though: you have to get around with care, especially outside Miraflores and Barranco.",
     esperienzeSlugs: [],
-    tripSlugs: ['peru-itinerario'],
+    tripSlugs: ['peru-itinerario', 'peru-due-settimane'],
     imageAlt: 'Aerial view of the Miraflores district in Lima, with buildings and a tree-lined park, Peru',
     immagine: '/images/peru/lima.jpg',
   },
@@ -618,7 +618,7 @@ export const destinazioniPeru: Destinazione[] = [
     miaEsperienza:
       "It's the city where I finally slept well: at 7,500 feet (2,300 meters) the body recovers, and after days spent at altitude you feel it. The Santa Catalina Monastery is the place that stayed with me most. I didn't expect it to be so big: it's a small walled city with alleys painted blue and orange. At the Cruz del Cóndor, on the other hand, you have to arrive with the right expectations: the condors rise on the morning currents and when it happens it's impressive, but it's not guaranteed and the viewpoint is packed with people. It's still worth the dawn wake-up.",
     esperienzeSlugs: [],
-    tripSlugs: ['peru-itinerario'],
+    tripSlugs: ['peru-itinerario', 'peru-due-settimane'],
     imageAlt: 'The lit facade of the cathedral of Arequipa at night, with the golden bell tower against the black sky',
     immagine: '/images/peru/arequipa-cattedrale-notte-riccardo.jpg',
   },

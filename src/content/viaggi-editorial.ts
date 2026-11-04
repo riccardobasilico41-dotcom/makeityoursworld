@@ -795,6 +795,33 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
       "L'elicottero sul Niagara è scenografico, ma da sotto, col battello, le cascate rendono di più.",
     editorialHookType: 'comparison',
   },
+  'giava-bali-gili': {
+    seoTitle: "Itinerario Indonesia 2 settimane: Giava, Bali e Gili",
+    seoDescription:
+      "Due settimane tra Borobudur, Bromo e Ijen, il nord di Bali, Ubud e Uluwatu, poi le Gili: tratte, tempi, costi e trappole da evitare.",
+    socialTitle: "Giava, Bali e Gili in 14 giorni: la classica, fatta bene",
+    editorialHook:
+      "Tre sveglie nel cuore della notte per Borobudur, il Bromo e il fuoco blu dell'Ijen, poi una Bali vista da Munduk e da Ubud invece che dal sud. Si chiude con tre giorni alle Gili, senza auto né motorini.",
+    editorialHookType: 'comparison',
+  },
+  'sumatra-mentawai': {
+    seoTitle: "Sumatra e Mentawai in 2 settimane: giungla e surf",
+    seoDescription:
+      "Bukittinggi, qualche giorno con una famiglia mentawai a Siberut e il mare di Sipora: traghetti, costi, surf tax e come viaggiare con rispetto.",
+    socialTitle: "Sumatra e Mentawai in 14 giorni: la giungla di Siberut e il surf di Sipora",
+    editorialHook:
+      "Qualche giorno nella giungla di Siberut con una famiglia mentawai, tra fango, zanzare e una stuoia per letto. Poi le spiagge e le onde di Sipora, con tutto quello che serve sapere per entrare in quella casa con rispetto.",
+    editorialHookType: 'comparison',
+  },
+  'peru-due-settimane': {
+    seoTitle: "Itinerario Perù 2 settimane: Arequipa, Titicaca e Cusco",
+    seoDescription:
+      "Perù in 14 giorni: Lima, Arequipa e il Colca, il Titicaca con notte ad Amantaní, Cusco, Valle Sacra e Machu Picchu all'alba, salendo di quota per gradi.",
+    socialTitle: "Perù in due settimane, dal Colca a Machu Picchu",
+    editorialHook:
+      "Due settimane da Lima a Machu Picchu, girate da sud a nord per salire di quota un gradino alla volta. Arequipa, i condor del Colca, una notte in famiglia sul Titicaca e la cittadella inca al primo turno, prima dei gruppi.",
+    editorialHookType: 'comparison',
+  },
 }
 
 export function getEditorialMeta(slug: string): EditorialMeta {

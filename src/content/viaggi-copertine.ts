@@ -342,4 +342,12 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     immagine: '/images/copertine/canada-itinerario.jpg',
     imageAlt: 'Le Horseshoe Falls del Niagara viste dal lato canadese, con la nebbia d\'acqua che sale dal salto',
   },
+  'giava-bali-gili': {
+    immagine: '/images/viaggi/giava-bali-gili/bromo-alba.jpg',
+    imageAlt: 'Il cratere del Bromo che fuma nel Mare di Sabbia alla prima luce, con il Semeru sullo sfondo, visto dal drone',
+  },
+  'peru-due-settimane': {
+    immagine: '/images/peru/machu-picchu-lama-terrazze-riccardo.jpg',
+    imageAlt: 'Un lama solitario pascola sui terrazzamenti inca di Machu Picchu nella nebbia del mattino',
+  },
 }
