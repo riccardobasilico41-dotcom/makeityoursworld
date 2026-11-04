@@ -70,6 +70,152 @@ export const destinazioniPortogallo: Destinazione[] = [
         raccomandazione: "With a free day and a minimum of organization, the train with tickets booked online is the most efficient choice. In Sintra how you get there matters little: what matters is leaving early in the morning.",
       },
     ],
+    luoghi: [
+      {
+        "nome": "Alfama and São Jorge Castle",
+        "testo": "The oldest district, which survived the 1755 earthquake almost intact, with lanes, steps, hanging laundry and fado houses. Above it, the medieval castle with its walls, gardens and views over the Tagus and the Baixa. Below, the Sé, the Romanesque cathedral.",
+        "come": "Climb on foot from the Baixa along Rua da Madalena or take tram 28. The castle entrance is on Largo do Chão da Feira, up a steep slope.",
+        "quando": "Early morning for the castle, sunset for the terraces. In the evening the fado houses fill up after 20.",
+        "tempo": "half a day",
+        "url": "https://www.castelodesaojorge.pt/",
+        "consiglio": "Get lost in the lanes without a map and walk down: the climb is the hard part, the descent is easy."
+      },
+      {
+        "nome": "Belém: Jerónimos Monastery",
+        "testo": "A 16th-century Manueline monastery, UNESCO-listed, with a two-storey cloister covered in maritime decoration and Vasco da Gama's tomb in the church. The south portal is one of Portugal's most elaborate works.",
+        "come": "From the centre by tram 15 or train from Cais do Sodré, about 15 minutes. The church is free, the cloister is paid.",
+        "quando": "Closed on Mondays. Arrive at opening, the queue forms around 11.",
+        "tempo": "1.5 hours",
+        "url": "https://www.museusemonumentos.pt/",
+        "consiglio": "Buy the ticket online to skip the main queue; the church can be seen free separately."
+      },
+      {
+        "nome": "Belém Tower",
+        "testo": "A Manueline fortress of 1514-1520 on the Tagus, UNESCO-listed. The city's symbol: bastions, loggia and a terrace with river views. Inside the rooms are small and the climb narrow.",
+        "come": "A 10-minute walk from the Jerónimos along the river. Tram 15 and the train stop nearby.",
+        "quando": "Closed on Mondays. Check on the site whether it is open: works are possible. Sunset lights it well from outside.",
+        "tempo": "45 minutes inside, plus the walk",
+        "url": "https://www.museusemonumentos.pt/",
+        "consiglio": "For a photo from the shore, the riverside near the Padrão dos Descobrimentos is better than the interior."
+      },
+      {
+        "nome": "Pastéis de Belém",
+        "testo": "The 1837 pastry shop where the pastel de nata is made to the recipe of the Jerónimos monks. The inner room is a maze of tiled halls. They are eaten warm with cinnamon and icing sugar.",
+        "come": "A 5-minute walk from the Jerónimos. Tram 15 and train stops are near.",
+        "quando": "The queue outside moves fast: there's a takeaway counter. Open every day, usually until the evening.",
+        "tempo": "20-30 minutes",
+        "url": "https://pasteisdebelem.pt/",
+        "consiglio": "Go into the inner rooms instead of waiting at the counter: there's often space."
+      },
+      {
+        "nome": "Baixa, Chiado and Praça do Comércio",
+        "testo": "The centre rebuilt after 1755 with a grid of streets, the Praça do Comércio open to the Tagus and the Rua Augusta Arch. The Santa Justa Lift, from 1902, goes up to a viewpoint over the city. Chiado has historic bookshops and cafes.",
+        "come": "On foot from the Baixa-Chiado or Terreiro do Paço metro. The lift is run by Carris, with a separate ticket.",
+        "quando": "Morning for the square without crowds. The lift viewpoint fills up at midday.",
+        "tempo": "half a day",
+        "url": "https://www.carris.pt/",
+        "consiglio": "For a view from above, the Santa Luzia viewpoint or the Arch terrace avoids the lift queue."
+      },
+      {
+        "nome": "Tram 28 and the viewpoints",
+        "testo": "The historic yellow line that climbs through Graça, Alfama, Baixa and Estrela. For viewpoints: Santa Luzia, Portas do Sol, Senhora do Monte, Graça. The tram is crowded; the viewpoints can also be reached on foot.",
+        "come": "The tram starts at Martim Moniz or Campo Ourique. Pay with the Navegante card or a more expensive onboard ticket.",
+        "quando": "Before 9 or after 18; at midday it is packed. The miradouros at sunset.",
+        "tempo": "2 hours for the ride",
+        "url": "https://www.carris.pt/",
+        "consiglio": "Board at the terminus to get a seat."
+      },
+      {
+        "nome": "LX Factory e Cais do Sodré",
+        "testo": "LX Factory is a converted industrial complex under the 25 de Abril bridge, with bookshops, shops and restaurants. Nearby Cais do Sodré has the Time Out Market, in the Ribeira market hall, with stalls of chef-run food.",
+        "come": "LX Factory: tram 15 or bus from the centre. Time Out Market: Cais do Sodré metro, on foot from the Baixa.",
+        "quando": "LX Factory in the afternoon and on Sundays with the market. Time Out Market at lunch, but crowded.",
+        "tempo": "2 hours",
+        "consiglio": "For dinner, the Cais do Sodré district with the Pink Street is livelier than the Time Out Market."
+      },
+      {
+        "nome": "Oceanário e Parque das Nações",
+        "testo": "One of Europe's largest aquariums, with a central two-storey tank and habitats from the four oceans. The modern district built for Expo 98 has a Tagus promenade and a cable car.",
+        "come": "Red metro line to Oriente, then a 10-minute walk. From the airport it's on the same line.",
+        "quando": "Morning, with fewer school groups. Useful on rainy days.",
+        "tempo": "2-3 hours",
+        "url": "https://www.oceanario.pt/",
+        "consiglio": "Book online to skip the ticket queue."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: Alfama and the castle",
+          "Lunch in the Baixa",
+          "Afternoon: Belém, Jerónimos and a pastel de nata",
+          "Sunset at a miradouro"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: Belém, Baixa and Chiado, fado in the evening",
+          "Day 2: Alfama, tram 28 and miradouros, LX Factory"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: Alfama and Baixa",
+          "Day 2: Belém and LX Factory",
+          "Day 3: trip to Sintra, back for dinner"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Baixa and Chiado",
+        "perChi": "those who want convenience",
+        "testo": "Central, flat and close to metro and trains. Noisy in the evening and pricey. Few genuinely local places."
+      },
+      {
+        "nome": "Alfama and Graça",
+        "perChi": "those who want atmosphere",
+        "testo": "Lanes, fado, viewpoints. Slopes and steps, hard for taxis, loud music at night."
+      },
+      {
+        "nome": "Príncipe Real, Estrela and Campo de Ourique",
+        "perChi": "those who want residential districts",
+        "testo": "Quieter, with gardens and good shops. Further from the river."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Pastel de nata",
+        "testo": "Puff pastry with custard, served warm with cinnamon."
+      },
+      {
+        "nome": "Bacalhau à Brás",
+        "testo": "Shredded salt cod with egg, fried potatoes and onion."
+      },
+      {
+        "nome": "Bifana",
+        "testo": "A sandwich with pork marinated in white wine and garlic, from kiosks and bars."
+      },
+      {
+        "nome": "Grilled sardines",
+        "testo": "A June speciality, for the Santos Populares."
+      },
+      {
+        "nome": "Ginjinha",
+        "testo": "Sour cherry liqueur served in a small glass, at the Baixa kiosks."
+      }
+    ],
+    attenzioni: [
+      "Pickpockets on tram 28, on the metro and in tourist areas: keep your backpack and phone in front.",
+      "In Baixa and Bairro Alto people approaching to offer hashish or other drugs is very common: say no and walk on.",
+      "At restaurants the «couvert» (bread, olives, cheese) brought to the table is charged if touched: refuse it if you don't want it.",
+      "Tuk-tuks and taxis outside tourist areas: agree the price first, or use apps.",
+      "Municipal tourist tax per night, paid at the hotel and subject to change (check the current amount).",
+      "Metro, train and Carris strikes, announced in advance: check the news on travel days."
+    ],
     esperienzeSlugs: ['tram-28-alfama', 'pasteis-de-belem'],
     tripSlugs: ['lisbona-weekend'],
     imageAlt: 'The yellow tram 28 lit up in the evening on a narrow street in Lisbon, with the white facade of a church at the end of the road',
@@ -113,6 +259,113 @@ export const destinazioniPortogallo: Destinazione[] = [
       "Not booking the time-slot tickets online: in high season the morning slots run out",
       "Underestimating distances and elevation changes between one site and another: it's not a compact center like Lisbon",
       "Wanting to see all four main sites (Pena, Regaleira, Castelo dos Mouros, National Palace) in one day: with real lines, usually at least one has to be sacrificed",
+    ],
+    luoghi: [
+      {
+        "nome": "Palácio Nacional da Pena",
+        "testo": "A 19th-century Romantic palace commissioned by Ferdinand II on a hilltop, yellow and red, with towers, battlements and Moorish and Manueline decoration. Inside, rooms are furnished as they were in the late 1800s. Around it is an 85-hectare park.",
+        "come": "From the station bus 434 climbs to the entrance in about 15 minutes. On foot the climb is steep, about 45 minutes. Entry with a timed ticket.",
+        "quando": "First slot of the morning. After 10:30 the queue grows. Buy online from Parques de Sintra.",
+        "tempo": "2-3 hours with the park",
+        "url": "https://www.parquesdesintra.pt/",
+        "consiglio": "The park can be visited on its own without the palace queue and has viewpoints: useful if the queues are too long."
+      },
+      {
+        "nome": "Quinta da Regaleira",
+        "testo": "A neo-Gothic villa from the early 1900s with a garden full of symbols, grottoes and galleries. The Poço Iniciático is a 27-metre spiral well with nine levels, linked to tunnels that come out at a small lake.",
+        "come": "A 10-minute walk from central Sintra, gently uphill. Tickets are bought at the ticket office or online.",
+        "quando": "Early morning or early afternoon. The well fills up around 11.",
+        "tempo": "2 hours",
+        "url": "https://www.regaleira.pt/",
+        "consiglio": "Go down the well in non-slip shoes and return through the tunnels: the exit is nicer than the descent."
+      },
+      {
+        "nome": "Castelo dos Mouros",
+        "testo": "Ruins of a medieval fortress from the 9th-10th century on the ridge above Sintra, with walls and towers linked by walkways. From the top you see the Pena, the town and the ocean.",
+        "come": "From the centre on foot in about 40 minutes, or by bus 434 to the castle stop. Stretches of steps on uneven stone.",
+        "quando": "Morning, with less wind. In fog the view is lost.",
+        "tempo": "1-1.5 hours",
+        "url": "https://www.parquesdesintra.pt/",
+        "consiglio": "If you have time for only one castle or palace besides the Pena, the crowds here are smaller."
+      },
+      {
+        "nome": "Palácio Nacional de Sintra",
+        "testo": "The royal palace in the centre, recognisable by the two white conical chimneys of the kitchens. Inside are the Swan Room, the Magpie Room and a large collection of azulejos from the 1400s.",
+        "come": "10 minutes on foot from the station. It's on the town's main square.",
+        "quando": "Before lunch; the square is quieter in the evening.",
+        "tempo": "1 hour",
+        "url": "https://www.parquesdesintra.pt/",
+        "consiglio": "Visit it if you're in town in the afternoon: less queue than the Pena."
+      },
+      {
+        "nome": "Cabo da Roca",
+        "testo": "The westernmost point of continental Europe, on a 140-metre cliff over the Atlantic, with a lighthouse and a plaque with Camões's verses.",
+        "come": "From Sintra centre by bus 403 (towards Cascais) in about 40 minutes, or 20 minutes by car.",
+        "quando": "At sunset in strong wind; bring a jacket even in summer.",
+        "tempo": "1 hour",
+        "consiglio": "The visit certificate is bought at the small tourist office: it's a souvenir, not required."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Train from Rossio, leaving before 8",
+          "Pena Palace at opening",
+          "Moors Castle or Regaleira in late morning",
+          "Lunch in town with a travesseiro",
+          "Train back in the afternoon"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: Pena, Moors Castle, old town",
+          "Day 2: Regaleira, National Palace, Cabo da Roca at sunset"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Day trip from Lisbon",
+        "perChi": "most visitors",
+        "testo": "Train from Rossio in 40 minutes, back in the evening. A tight pace with the queues, but low cost."
+      },
+      {
+        "nome": "Sintra, old town",
+        "perChi": "those who want the town without the crowds",
+        "testo": "Sleeping in town means seeing Pena at opening and the centre in the evening. Few hotels and high prices."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Travesseiro",
+        "testo": "Puff pastry filled with almond and egg cream, Sintra's symbol sweet, at the Piriquita pastry shop."
+      },
+      {
+        "nome": "Queijada",
+        "testo": "A small sweet of fresh cheese, eggs and cinnamon."
+      },
+      {
+        "nome": "Colares wine",
+        "testo": "Wine from a sandy area near the sea, with ungrafted vines."
+      },
+      {
+        "nome": "Pastel de nata",
+        "testo": "Found in every pastry shop."
+      },
+      {
+        "nome": "Bacalhau",
+        "testo": "Salt cod in several versions in the restaurants of the centre."
+      }
+    ],
+    attenzioni: [
+      "Pena and Regaleira tickets are timed: buy online before you go, in high season the morning slots run out.",
+      "The 434 bus is stormed between 10 and 14: board at the station to get a seat.",
+      "Taxis and tuk-tuks quote high fares: agree the price first.",
+      "Parking is nearly impossible in the centre at weekends: take the train.",
+      "Big backpacks don't always fit into the palaces: leave luggage in Lisbon.",
+      "Fog and damp are frequent: bring a waterproof jacket."
     ],
     esperienzeSlugs: ['sintra-giornata-da-lisbona'],
     tripSlugs: ['lisbona-weekend'],

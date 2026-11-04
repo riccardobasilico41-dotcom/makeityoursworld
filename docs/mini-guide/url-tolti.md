@@ -1,0 +1,7 @@
+- https://mann-napoli.it/ (errore: URLError)
+- https://www.aytolalaguna.es/ (errore: URLError)
+- https://www.galleriaaccademiafirenze.it/ (errore: URLError)
+- https://www.isoleborromee.it/ (errore: URLError)
+- https://www.parcoaspromonte.gov.it/ (errore: URLError)
+- https://www.parcopollino.gov.it/ (errore: URLError)
+- https://www.valldemossa.es/ (errore: URLError)

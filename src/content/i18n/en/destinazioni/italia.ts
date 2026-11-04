@@ -197,6 +197,158 @@ export const destinazioniItalia: Destinazione[] = [
     ],
     miaEsperienza:
       "In the Dolomites, comparisons with the rest of the world stop working, and it's not local pride: vertical walls, high meadows and a network of huts with kitchens and beds this dense are something I haven't found together anywhere else. You walk eight hours with a thirty-liter pack and in the evening you eat polenta and melted cheese at two thousand five hundred meters while the wall turns pink. The enrosadira sounds like a brochure gimmick, but it's a real phenomenon tied to the composition of the dolomite: the first time you see a wall light up like that, you understand why these mountains were given a name of their own. That said, let's be clear that in July and August some spots have become impossible. The Tre Cime loop in the middle of August is a single-file line, the parking lots fill up at dawn, and in 2026 they had to make booking mandatory on the road. Giving up isn't necessary: just go in September, when the huts are still open and there's a third of the people, or move twenty kilometers toward the valleys nobody photographs.",
+    luoghi: [
+      {
+        "nome": "Tre Cime di Lavaredo",
+        "testo": "Three dolomite towers rising from a plateau of scree: the symbol of the Dolomites. The loop around their base passes the Auronzo, Lavaredo and Locatelli huts, with the north face right overhead.",
+        "come": "From Cortina or Dobbiaco, drive to Auronzo or Misurina, then take the toll road up to the Rifugio Auronzo (2,320 m), where the loop starts. A shuttle also runs from Misurina.",
+        "quando": "June to October, when the road and huts are open. Arrive at opening time or after 3 pm: in the middle of the day in July and August the trail is one continuous line.",
+        "tempo": "3-4 hours for the full loop (about 10 km)",
+        "costo": "40 euros per car, 2026; online booking is compulsory and the ticket is valid for 12 hours. The shuttle from Misurina costs 10 euros per person per day",
+        "consiglio": "I did the loop in August and it felt like walking in single file: in September you walk with a third of the people. If you start early, go clockwise and climb to the Locatelli in the low morning light."
+      },
+      {
+        "nome": "Lago di Braies",
+        "testo": "The most photographed alpine lake in South Tyrol, emerald green, at the foot of the Croda del Becco. The path around the lake is easy and flat. The Alta Via 1 also starts here.",
+        "come": "From Dobbiaco take the Braies valley road to the car park by the lake. In summer car access is limited and requires a booking in the 9-16 window; buses and shuttles run from Dobbiaco and Villabassa.",
+        "quando": "June to October. Go at dawn or after 5 pm to have the lake without the crowds; at midday in summer it is packed.",
+        "tempo": "1 hour around the lake, 3-4 hours with the path up to the Forcella del Lago",
+        "consiglio": "Sleeping in the valley and going to the lake at dawn or in the evening gives a different experience. Skip the rowing boat at midday: the queue is long and the lake is full."
+      },
+      {
+        "nome": "Seceda",
+        "testo": "A grassy ridge that suddenly breaks into vertical walls over 2,500 metres high: the view on every Val Gardena postcard. From the top you see the Odle peaks and, on the other side, all the Dolomites.",
+        "come": "From Ortisei the cable car climbs to Furnes and then to Seceda (2,500 m). From the summit you can walk down toward Santa Cristina past the Rifugio Firenze.",
+        "quando": "June to October, with the lifts running in summer. Take the first ride of the morning: clouds usually build after 11 am.",
+        "tempo": "half a day; a full day with the walk down",
+        "consiglio": "The walk down to Santa Cristina is tough on the legs but leaves the crowd at the cable car arrival behind. Bring a jacket: it is windy at the top even in August."
+      },
+      {
+        "nome": "Alpe di Siusi (Seiser Alm)",
+        "testo": "The largest high alpine plateau in Europe, with meadows above 1,800 metres, huts and the Sassolungo and Sciliar peaks behind. It is one of the easiest places in the Dolomites: wide paths, little climbing, ideal for families and long walks.",
+        "come": "From Siusi allo Sciliar or from Ortisei take the cable car to Compaccio or Mont Seuc. On the plateau private cars are banned for most of the day: you get around on foot, by bus or by bike.",
+        "quando": "June to October. In late September the larches turn yellow.",
+        "tempo": "a full day",
+        "consiglio": "The cable cars bring you straight to altitude: you can walk on the flat for hours and come down on the last ride. Check the time of the last descent."
+      },
+      {
+        "nome": "Cinque Torri",
+        "testo": "A group of five rock towers near Cortina, where in the First World War soldiers fought a few metres from the enemy. Today it is an open-air museum with restored trenches, tunnels and positions you can walk through.",
+        "come": "From Passo Falzarego or Bai de Dones, take the chairlift to the Rifugio Scoiattoli, then walk among the towers and the museum. Cortina is about 20 minutes away by car.",
+        "quando": "Late June to mid October, with the lifts running.",
+        "tempo": "3-4 hours including the open-air museum",
+        "consiglio": "It is one of the few easy hikes with history built into the landscape: knowing the First World War story first makes the towers far more interesting."
+      },
+      {
+        "nome": "Lago di Sorapis",
+        "testo": "A horseshoe-shaped mountain lake, milky turquoise from glacial flour, beneath the walls of Sorapis. The trail crosses ledges protected with cables.",
+        "come": "Path 217 starts at Passo Tre Croci, a few kilometres from Cortina. The final stretch has exposed sections with safety cables; hiking boots are needed.",
+        "quando": "Late June to September. Earlier, shaded stretches still hold snow.",
+        "tempo": "5-6 hours round trip",
+        "consiglio": "Start early: the trail is narrow and in high season there is a queue right on the cables. The lake is the best point at the end, so aim to be there while there is still good light."
+      },
+      {
+        "nome": "Pale di San Martino",
+        "testo": "The Trentino group that looks like the moon: a rock plateau above 2,500 metres, without trees or meadows, ringed by spires. For the quality of its scenery it is one of the least crowded places in the Dolomites.",
+        "come": "From San Martino di Castrozza the Colverde and Rosetta cable cars lead to 2,600 m, to the Rifugio Rosetta. From there you walk across the plateau.",
+        "quando": "Late June to late September. The weather changes fast: leave early in the morning.",
+        "tempo": "a full day",
+        "consiglio": "There are no landmarks on the plateau and in fog it is easy to get lost: carry a map or a downloaded GPS track."
+      },
+      {
+        "nome": "Marmolada and Lago di Fedaia",
+        "testo": "The highest peak in the Dolomites (3,343 m) with its glacier, which shrinks every year. In July 2022 part of the glacier collapsed, killing eleven people: today climbing to the summit requires a guide and attention to the weather.",
+        "come": "From Passo Fedaia or Malga Ciapela, take the cable car to Punta Rocca. The Fedaia lake, below, can be walked around in an hour.",
+        "quando": "June to September; glacier conditions need checking each season.",
+        "tempo": "half a day with the cable car; the lake loop takes an hour",
+        "consiglio": "Anyone who wants the glacier should go with a mountain guide and check conditions before leaving. For a light outing, Lake Fedaia is enough."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "At 7:30 take the first cable car from Ortisei up to Seceda (2,500 m) and walk the ridge to Cima Pana.",
+          "Walk down toward the Rifugio Firenze and have lunch with canederli and barley soup.",
+          "In the afternoon continue to Santa Cristina and take the bus back to Ortisei.",
+          "Dinner in Ortisei with speck, Schlutzkrapfen and a glass of Lagrein."
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1, Alpe di Siusi: take the cable car from Siusi, walk across the plateau all day to a hut for lunch, come back on the last ride.",
+          "Day 2, Seceda and Val Gardena: start when the cable car opens, walk to the Rifugio Firenze and descend to Santa Cristina in the afternoon.",
+          "Day 3, Passo Gardena and the Sella: take the cable car from the pass and do a short loop on the Sella plateau; dinner in a mountain hut in the evening."
+        ]
+      },
+      {
+        "titolo": "5 days",
+        "tappe": [
+          "Day 1: arrive in Cortina or Dobbiaco, afternoon at Lago di Braies for the lake loop.",
+          "Day 2: Tre Cime di Lavaredo, with the toll booked in advance, starting at opening time.",
+          "Day 3: Cinque Torri and the First World War museum, then Passo Falzarego.",
+          "Day 4: Lago di Sorapis from Passo Tre Croci, starting early.",
+          "Day 5: Alpe di Siusi or Seceda, heading down into Val Gardena on the way home."
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Val Gardena (Ortisei, Santa Cristina, Selva)",
+        "perChi": "first trip, families, anyone who wants services",
+        "testo": "The best-equipped hub: many lifts, valley buses, excellent restaurants. In high season it is expensive and crowded, and the valley floor is built up. The cable cars take you straight to Seceda and the Alpe di Siusi."
+      },
+      {
+        "nome": "Val Badia and Alta Badia (Corvara, La Villa, San Cassiano)",
+        "perChi": "return visitors who want to really hike",
+        "testo": "Living Ladin culture, great food, a base for the Sella and the Fanes-Sennes-Braies Park. A notch cheaper than Gardena. The passes are full of motorbikes and bicycles in summer."
+      },
+      {
+        "nome": "Cortina d'Ampezzo and Misurina",
+        "perChi": "Tre Cime, Cinque Torri, Sorapis, First World War history",
+        "testo": "Close to the best-known places, but expensive and with the glamour of a high-society resort. After the 2026 Olympics it is worth checking what is open and which building sites are still active. Misurina is smaller, on the lake, and closer to the Tre Cime."
+      },
+      {
+        "nome": "Val di Fassa and San Martino di Castrozza",
+        "perChi": "anyone who wants to spend less",
+        "testo": "Lower prices than South Tyrol for the same views, with Catinaccio, Marmolada and the Pale. Services and public transport are less polished, with longer distances between the hubs."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Canederli",
+        "testo": "Dumplings of stale bread with speck, served in broth or dry with melted butter. The dish eaten in every hut, often made that same morning."
+      },
+      {
+        "nome": "Schlutzkrapfen",
+        "testo": "Rye-dough ravioli filled with spinach and ricotta, dressed with butter and Parmesan. Typical of South Tyrol, found in all the alpine huts and valley trattorias."
+      },
+      {
+        "nome": "Polenta, cheese and mushrooms",
+        "testo": "Polenta with melted cheese and mushrooms or with sausage: the mountain-hut lunch on the Veneto and Trentino side."
+      },
+      {
+        "nome": "Kaiserschmarrn",
+        "testo": "A sweet pancake torn into pieces, with icing sugar and cranberry compote. The high-altitude dessert after a long day."
+      },
+      {
+        "nome": "Barley soup",
+        "testo": "A thick broth of barley, vegetables and speck: the hut dish to recover from the effort."
+      },
+      {
+        "nome": "Strudel",
+        "testo": "The apple and raisin dessert of South Tyrol, best warm with vanilla sauce. Every hut has its own."
+      }
+    ],
+    attenzioni: [
+      "Book car access to the Tre Cime and to Braies online before you leave: without a booking the road or car park may be closed and you will be turned back. Check dates and times on the operator's website.",
+      "Afternoon thunderstorms are frequent in summer: be at the hut or in the valley before 3 pm. Check the South Tyrol or Veneto weather bulletin the evening before and in the morning.",
+      "Huts: book from January-February for July-August, bring cash (cards often do not work) and a sleeping-bag liner, which is compulsory.",
+      "In some regions mountain rescue is paid for; take insurance that covers trekking and helicopter rescue.",
+      "On via ferrata use a complete approved kit (helmet, harness, energy absorber) and do not go alone without experience: most rescue call-outs involve via ferrata.",
+      "Parking: at the best-known spots in summer the spaces are gone by 8 am. Many pass roads have time limits or motorbike bans on certain days: read the signs."
+    ],
     esperienzeSlugs: ['alta-via-1', 'tre-cime-lavaredo', 'via-ferrata-dolomiti'],
     tripSlugs: ['dolomiti-roadtrip'],
     imageAlt: 'The spires of the Pale di San Martino rising out of the clouds above the meadows of Passo Rolle, Dolomites',
@@ -444,6 +596,167 @@ export const destinazioniItalia: Destinazione[] = [
     ],
     miaEsperienza:
       "Italian skiing stands out from French or Swiss skiing for the lunch, more than for the length of the runs. In France you ski hard and eat in a self-service; in the Dolomites you do four hours in the morning, sit down in a hut at two thousand four hundred meters and eat canederli and strudel in front of a pink wall. Those who ski to rack up kilometers consider it wasted time, those who go to be in the mountains consider it the point. The Sellaronda, the circuit around the Sella Group, is both the most beautiful and the most overrated thing. The idea is gorgeous (four passes, four valleys, an entire massif circled on skis in a day), but in peak weeks it's a continuous line, with the last lifts closing very early and the real risk of ending up on the wrong side. It should be done in January, starting at nine. In recent years, though, altitude has changed things: below eighteen hundred meters natural snow is no longer a guarantee, and choosing the resort by reputation instead of elevation is the quickest way to find a white tongue in the middle of the grass.",
+    luoghi: [
+      {
+        "nome": "Sellaronda",
+        "testo": "The ski circuit around the Sella massif: four passes (Gardena, Sella, Pordoi, Campolongo) and four valleys (Val Gardena, Val di Fassa, Arabba, Alta Badia). It is about 40 km of pistes and lifts, mostly easy and intermediate runs, with views over the Dolomites all the way round.",
+        "come": "Start from any village around the Sella (Selva, Canazei, Arabba, Corvara) with a Dolomiti Superski pass. The clockwise direction is marked with orange signs, the anticlockwise one with green signs.",
+        "quando": "In season, December to mid April. Start by 9:30 and reach the last lift before closing (usually around 4 pm): anyone who arrives late has to take a taxi back.",
+        "tempo": "a full day: 4-5 hours on skis plus breaks",
+        "costo": "Dolomiti Superski day pass around 86 euros in high season and 77 in low season, 2025/26 season; for 2026/27 press reports point to an increase of a few euros",
+        "url": "https://www.dolomitisuperski.com/",
+        "consiglio": "Check the last-lift times for each pass the same morning. The Arabba-Corvara section is the longest stretch with nowhere to stop: carry something to eat in your pocket."
+      },
+      {
+        "nome": "Alta Badia and Gran Risa",
+        "testo": "The Ladin Val Badia has wide, well-groomed pistes and some of the best food in the Alps. The Gran Risa, at La Villa, is the World Cup giant slalom run: long and steep.",
+        "come": "Stay in Corvara, La Villa or San Cassiano and take the lifts straight from the village. The Dolomiti Superski pass also reaches the Sellaronda.",
+        "quando": "December to April. January and March are the best months for snow and prices.",
+        "tempo": "2-3 days to explore the area",
+        "url": "https://www.dolomitisuperski.com/",
+        "consiglio": "Have lunch in a mountain hut and book in high season: the best ones run out of tables early."
+      },
+      {
+        "nome": "Cortina d'Ampezzo",
+        "testo": "The 2026 Olympic resort, with three main areas: Tofane, Faloria-Cristallo and Cinque Torri-Lagazuoi. Runs from intermediate to the most demanding, with the Tofane walls as a backdrop. The Lagazuoi area also has the First World War ski tour.",
+        "come": "Stay in Cortina and take the gondola or shuttle to the lift base; valley ski buses link the three areas.",
+        "quando": "December to April. In the weeks after Epiphany and in late February prices drop.",
+        "tempo": "3-4 days",
+        "url": "https://www.dolomitisuperski.com/",
+        "consiglio": "After the 2026 Olympics some lifts and runs were changed: check the updated map before planning your days."
+      },
+      {
+        "nome": "Cervinia and Zermatt",
+        "testo": "The highest ski area in Italy: from Breuil-Cervinia (2,050 m) you climb above 3,400 metres to the Plateau Rosà and can ski on the glacier even in summer. With the international pass you cross into Switzerland and ski down to Zermatt, under the Matterhorn.",
+        "come": "From Aosta it is about one hour by car or bus to Breuil-Cervinia. The lifts start from the village. For Zermatt you need the extended pass.",
+        "quando": "November to May for snow at altitude; the link to Zermatt depends on the weather and wind.",
+        "tempo": "3-5 days; the Cervinia-Zermatt trip takes a full day",
+        "url": "https://www.cervinia.it/",
+        "consiglio": "Check the last lift for coming back from Switzerland: if you miss the last ride, you go back by taxi or train at high cost."
+      },
+      {
+        "nome": "Courmayeur and Skyway Monte Bianco",
+        "testo": "Courmayeur lies at the foot of Mont Blanc. The Skyway cable car climbs to Punta Helbronner (3,466 m), where you see the massif up close. The pistes are shorter than in the big ski areas, but there are famous off-piste routes, such as the Vallée Blanche, to be done only with a guide.",
+        "come": "Courmayeur is one hour from Aosta. The Skyway starts at Pontal d'Entrèves, a few minutes from the centre.",
+        "quando": "December-April. For the Skyway choose clear days: with clouds there is no view.",
+        "tempo": "2-3 days; the Skyway takes half a day",
+        "url": "https://www.montebianco.com/",
+        "consiglio": "Anyone who wants the Vallée Blanche must book a mountain guide in advance and check crevasse conditions."
+      },
+      {
+        "nome": "Via Lattea (Sestriere and Sauze d'Oulx)",
+        "testo": "A Piedmont ski area of about 400 km of pistes linking Sestriere, Sauze d'Oulx, Sansicario, Cesana and Claviere, with a crossing into France at Montgenèvre. Sestriere hosted the 2006 Olympics. The runs are varied and the feel is less luxurious than in the Dolomites.",
+        "come": "From Turin about 1 hour 30 minutes by car. There is also a train to Oulx, then a bus to Sauze or Sestriere.",
+        "quando": "December to April. Altitudes are lower than Cervinia: snow is less certain at the start and end of the season.",
+        "tempo": "3-5 days",
+        "url": "https://www.vialattea.it/",
+        "consiglio": "For anyone coming from Turin it is the most convenient choice for a weekend: you can do it without two long nights on the road."
+      },
+      {
+        "nome": "Livigno",
+        "testo": "A duty-free zone in Valtellina, at 1,816 m, with some of the most reliable snow in the Italian Alps. Wide, quiet pistes, good for beginners and families, and a big snowpark. Fuel, alcohol and perfume cost less here.",
+        "come": "About 4 hours by car from Milan, via Bormio and the Passo d'Eira, or through Switzerland by the Munt la Schera tunnel. Check winter road conditions.",
+        "quando": "Late November to April.",
+        "tempo": "3-5 days",
+        "url": "https://www.livigno.eu/",
+        "consiglio": "There are customs checks on leaving, with limits on quantities of alcohol, tobacco and fuel: find out before shopping."
+      },
+      {
+        "nome": "Marmolada",
+        "testo": "The longest run in the Dolomites drops from the glacier for about 12 km, from Punta Rocca to Malga Ciapela, with almost 2,000 metres of vertical. It is a high-altitude ski descent, open depending on snow conditions.",
+        "come": "From Malga Ciapela, in the Alto Agordino, a cable car in three sections goes up to Punta Rocca. From there you ski down the run. The lifts are part of Dolomiti Superski.",
+        "quando": "December to April, often with good snow in spring. The lifts depend on the weather.",
+        "tempo": "half a day for the descent",
+        "url": "https://www.dolomitisuperski.com/",
+        "consiglio": "The descent is long: check conditions and the last ride, and carry some liquids."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "By 8:30 be at the cable car in Corvara or Selva, with a Dolomiti Superski pass and a map in your pocket.",
+          "Do the Sellaronda clockwise or anticlockwise, stopping for a quick lunch in a hut around 12:30.",
+          "Check the last-lift times for each pass and be back by 4 pm."
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1, Alta Badia: wide, easy pistes to warm up, lunch in a hut, Gran Risa in the afternoon.",
+          "Day 2, Sellaronda in a day, starting early.",
+          "Day 3, Val Gardena or Cortina for a change of scene, back the same day or evening."
+        ]
+      },
+      {
+        "titolo": "7 days",
+        "tappe": [
+          "Day 1: warm-up day nearby, free afternoon and no hurry.",
+          "Day 2: Sellaronda in a day.",
+          "Day 3: Marmolada with the descent from the glacier.",
+          "Day 4: Cortina and Lagazuoi, with the First World War tour.",
+          "Day 5: free day, or a lesson or cross-country skiing.",
+          "Day 6: Alta Badia and Gran Risa.",
+          "Day 7: last run in the morning, travel back in the afternoon."
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Corvara and Alta Badia",
+        "perChi": "anyone who wants the Sellaronda from the doorstep",
+        "testo": "Lifts right by the villages, excellent huts, Ladin culture. Ski-in/ski-out is common, prices are high in high season. It is quiet in the evening."
+      },
+      {
+        "nome": "Selva di Val Gardena",
+        "perChi": "anyone who wants evening life and services",
+        "testo": "A lively village with shops and bars, and the Sellaronda within walking reach. More crowded than Alta Badia and more expensive. Passo Gardena is just above."
+      },
+      {
+        "nome": "Breuil-Cervinia",
+        "perChi": "skiers who want guaranteed snow",
+        "testo": "High altitude and wide pistes, link to Zermatt. The village is built for skiing and has little charm. Wind and fog can close the high lifts."
+      },
+      {
+        "nome": "Livigno",
+        "perChi": "families, beginners, anyone who wants to save on some purchases",
+        "testo": "Reliable snow, easy pistes and lower prices on goods thanks to the duty-free zone. Far from the other big resorts: you arrive only by car or on long bus journeys."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Canederli and casunziei",
+        "testo": "Canederli across the Dolomites; casunziei are the half-moon ravioli of Cortina, filled with beetroot and dressed with butter and poppy seeds."
+      },
+      {
+        "nome": "Polenta concia and Aosta Valley fondue",
+        "testo": "In the Aosta Valley, polenta with melted cheese and fondue with fontina, often with toasted bread. Eaten in the huts and restaurants of Courmayeur and Cervinia."
+      },
+      {
+        "nome": "Pizzoccheri",
+        "testo": "Buckwheat tagliatelle with cabbage, potatoes and Casera cheese. Typical of Valtellina and Livigno."
+      },
+      {
+        "nome": "Goulash and barley soup",
+        "testo": "Hot hut dishes in South Tyrol, perfect to recover in the middle of a day on skis."
+      },
+      {
+        "nome": "Vin brulé",
+        "testo": "Hot red wine with spices and citrus. Drunk in the trackside huts to warm up, but alcohol and skiing do not mix."
+      },
+      {
+        "nome": "Kaiserschmarrn",
+        "testo": "A sweet pancake torn into pieces with cranberry jam, the dessert of many South Tyrol huts."
+      }
+    ],
+    attenzioni: [
+      "By law anyone doing ski touring, off-piste or snowshoeing in snowy terrain outside groomed pistes must carry an avalanche transceiver, shovel and probe. A helmet is compulsory for under-18s and third-party liability insurance is compulsory for all skiers.",
+      "On many mountain roads snow chains on board or winter tyres are required, normally from 15 October to 15 April. Check the order for the specific road: dates vary.",
+      "Rescue on and off the piste in Italy is paid for: a helicopter can cost thousands of euros. Check what your ski pass covers and take out insurance.",
+      "At Christmas, New Year and in February weeks prices rise by up to 40 percent and the pistes are very crowded. Book early or choose January after Epiphany or March.",
+      "Below 1,800 metres natural snow is not guaranteed: check webcams and the snow report before booking.",
+      "At Cervinia wind and fog often close the high lifts: keep a plan B at lower altitude. At Livigno there are customs checks on leaving."
+    ],
     esperienzeSlugs: ['sellaronda', 'scialpinismo-ciaspole'],
     tripSlugs: ['settimana-bianca'],
     imageAlt: "Snowy slopes with ski lifts above Madonna di Campiglio and the peaks of the Alps in the background",
@@ -498,6 +811,172 @@ export const destinazioniItalia: Destinazione[] = [
     ],
     miaEsperienza:
       "Rome is visited badly precisely because people think they know it. The trap is the Colosseum-Trevi-Vatican triangle, done in two days with your tongue hanging out, standing in line, eating badly. Two things stayed with me that cost nothing. The first is the churches: San Luigi dei Francesi has three Caravaggios, you walk in for free, and in the middle of a Tuesday morning in November there was almost nobody. You put a euro in the coin box for the light and stay ten minutes in front of the Calling of St. Matthew. The second is the Appian Way on a Sunday, closed to traffic: you walk on original Roman paving stones among the tombs and the pines, with the aqueducts in the distance, and for kilometers there are only cyclists and families. It's half an hour from the Colosseum, yet almost none of the millions of people who photograph the Colosseum go. For eating there's just one rule: move away. In Testaccio, Pigneto or San Lorenzo you eat a well-made cacio e pepe for fifteen euros, five hundred meters from a place where the same dish costs double and is frozen.",
+    luoghi: [
+      {
+        "nome": "Colosseum, Roman Forum and Palatine",
+        "testo": "The Flavian amphitheatre, inaugurated in 80 AD, held up to 50,000 spectators. The same ticket covers the Roman Forum, the political heart of the ancient city, and the Palatine, the hill of the imperial palaces.",
+        "come": "Metro B to Colosseo. The ticket is named and ID is checked at the entrance. With the standard ticket you enter the Colosseum and also visit the Forum and Palatine later that day or the next (the ticket is valid 24 hours from the first entry).",
+        "quando": "Open every day except 25 December and 1 January. First morning slot or the last hours of the afternoon to avoid queues; in summer the Forum is very hot and shadeless.",
+        "tempo": "half a day, 3-4 hours for everything",
+        "costo": "18 euros full price, 2026 (standard Colosseum, Forum and Palatine ticket); the Full experience with arena and underground costs 24 euros plus a booking fee",
+        "url": "https://colosseo.it/",
+        "consiglio": "Buy only through the official channel and well in advance for the best slots. Visit the Forum and Palatine first if it is hot, and the Colosseum interior in the cooler hours."
+      },
+      {
+        "nome": "Vatican Museums and Sistine Chapel",
+        "testo": "Kilometres of halls with ancient and Renaissance collections: the Gallery of Maps, the Raphael Rooms and, at the end, the Sistine Chapel with Michelangelo's frescoes. The route is long and one-way, with constant crowds.",
+        "come": "Metro A to Ottaviano or Cipro, then a 10-minute walk. Book online on the official site to skip the ticket-office queue. From the Sistine you can exit straight into St Peter's only on an authorised guided visit.",
+        "quando": "Closed on Sundays except the last Sunday of the month, when entry is free and the crowd is enormous. First slot in the morning or late afternoon.",
+        "tempo": "3-4 hours",
+        "url": "https://www.museivaticani.va/",
+        "consiglio": "In the Sistine the silence and the ban on photography are enforced by staff. Decide beforehand what to see: nobody manages to see it all."
+      },
+      {
+        "nome": "St Peter's Basilica and dome",
+        "testo": "The largest church in Christendom, with Michelangelo's Pietà, Bernini's baldachin and the dome Michelangelo designed. From the dome you see all of Rome.",
+        "come": "Metro A to Ottaviano and walk. You go through security checks; entry to the basilica is free, the climb to the dome is paid. Shoulders and knees must be covered.",
+        "quando": "Every day, but closed during papal ceremonies; on Wednesday morning there is the general audience and the area is very crowded. Early in the morning.",
+        "tempo": "1-2 hours, plus 1 hour for the dome",
+        "url": "https://www.basilicasanpietro.va/",
+        "consiglio": "The dress code is enforced: in shorts or with bare shoulders you do not get in. Keep a light scarf in your bag."
+      },
+      {
+        "nome": "Pantheon",
+        "testo": "The temple of all the gods, rebuilt under Hadrian in the 2nd century AD. The unreinforced concrete dome is still the largest of its kind in the world, with the oculus open at the centre letting in light and also rain. Raphael and the first kings of Italy are buried inside.",
+        "come": "In the centre, between Piazza Navona and the Trevi Fountain, on foot. Since 2023 entry has been paid, with a ticket bought online or on the spot. During religious services access is limited.",
+        "quando": "Every day. Early morning or evening for fewer people; in the rain the oculus creates a special atmosphere.",
+        "tempo": "30-45 minutes",
+        "consiglio": "Check the rules and ticket price in advance. The square outside is crowded and full of tourist restaurants: do not have lunch there."
+      },
+      {
+        "nome": "Galleria Borghese",
+        "testo": "Cardinal Scipione Borghese's collection in a villa inside the park: Bernini (Apollo and Daphne, the Rape of Proserpina), Caravaggio, Titian and Canova. It is one of the finest collections in Rome, with few visitors at a time.",
+        "come": "Inside Villa Borghese, about 20 minutes on foot from Piazza di Spagna or Piazzale Flaminio. Booking is compulsory with entry in two-hour slots.",
+        "quando": "Closed on Mondays. Slots sell out days or weeks ahead in high season.",
+        "tempo": "2 hours (the visit has a fixed length)",
+        "costo": "16 euros plus 2 euros booking fee, 2026 (secondary sources)",
+        "url": "https://galleriaborghese.cultura.gov.it/",
+        "consiglio": "Arrive a little early for ticket collection and the cloakroom. The park around is lovely for a walk afterwards."
+      },
+      {
+        "nome": "Appian Way (Appia Antica)",
+        "testo": "The queen of Roman roads, built in 312 BC. You find original paving stones, tombs, villas and aqueducts, and the catacombs of San Callisto and San Sebastiano below the road. The Appian Way Park is one of the few large green areas near the centre.",
+        "come": "From the centre take bus 118 or 660 and walk; or rent a bike. On Sundays and holidays the main stretch is closed to traffic.",
+        "quando": "Sunday, which is the best day: closed to cars. The catacombs have different closing days (usually San Callisto on Wednesday and San Sebastiano on Sunday): check.",
+        "tempo": "half a day",
+        "url": "https://www.parcoappiaantica.it/",
+        "consiglio": "The Appian Way on Sunday is half an hour from the Colosseum and almost nobody goes. You walk on original paving stones among tombs and pines, with the aqueducts in the distance. Bring water: there are few places to refuel along the road."
+      },
+      {
+        "nome": "Basilica of San Clemente",
+        "testo": "A 12th-century church built on top of a 4th-century basilica, itself above Roman buildings and a 2nd-century Mithraeum. Going down you cross a thousand years of the city's history across three levels.",
+        "come": "Five minutes on foot from the Colosseum, on via Labicana. The upper basilica can be visited freely, the underground levels with a ticket.",
+        "quando": "Hours include a break in the middle of the day; check the website. The underground rooms are damp and cool even in summer.",
+        "tempo": "1 hour",
+        "url": "https://www.basilicasanclemente.com/",
+        "consiglio": "It is the simplest way to understand what underground Rome means, and it is a couple of steps from the Colosseum. It pairs well with the Case Romane del Celio."
+      },
+      {
+        "nome": "San Luigi dei Francesi",
+        "testo": "The French national church in Rome, near Piazza Navona. In the Contarelli Chapel are three Caravaggio paintings on St Matthew: the Calling, the Martyrdom and the Inspiration.",
+        "come": "On foot from Piazza Navona or the Pantheon, a few minutes away. Entry is free. To light the paintings you put a 1-euro coin in the meter.",
+        "quando": "Every day with split hours. Mid-morning on a weekday there are few people.",
+        "tempo": "20-30 minutes",
+        "costo": "free entry; 1 euro for the light",
+        "consiglio": "I went mid-morning on a Tuesday in November: you can stay ten minutes in front of the Calling of St Matthew practically alone. Bring coins."
+      },
+      {
+        "nome": "Trastevere and the Jewish Ghetto",
+        "testo": "Two neighbourhoods where Rome is still lived in. Trastevere has alleys, osterias and the basilica of Santa Maria in Trastevere with its golden mosaics. The Jewish Ghetto, near the Portico d'Ottavia, is the place for carciofo alla giudia.",
+        "come": "On foot from the centre, crossing the Tiber over the Tiber Island. Tram 8 from Largo Argentina to Trastevere.",
+        "quando": "Morning for the alleys; evening for dinner. Trastevere on Saturday night is very crowded.",
+        "tempo": "half a day",
+        "consiglio": "To eat well, move away from restaurants whose waiters invite you in. In Testaccio, Pigneto or San Lorenzo you can eat a well-made cacio e pepe for about 15 euros, 500 metres from places where the same dish costs double."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "8:30, Colosseum and Roman Forum with a booked ticket, before the crowds.",
+          "Lunch away from the monuments, in Monti or Testaccio.",
+          "Afternoon at the Pantheon and San Luigi dei Francesi.",
+          "Stroll through Piazza Navona and, at sunset, Ponte Sant'Angelo.",
+          "Dinner in Trastevere or the Ghetto."
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: Colosseum, Forum and Palatine in the morning; San Clemente and lunch in Monti; Pantheon and San Luigi dei Francesi in the afternoon.",
+          "Day 2: Vatican Museums at the first slot and St Peter's; lunch in Prati; free afternoon in Trastevere and dinner in the Ghetto."
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: Colosseum, Forum and Palatine, San Clemente.",
+          "Day 2: Vatican Museums and St Peter's, then Castel Sant'Angelo and Piazza Navona.",
+          "Day 3: Galleria Borghese in the morning with a booking; in the afternoon the Appian Way (best on a Sunday) or Trastevere and the Ghetto."
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Monti",
+        "perChi": "anyone who wants a lively neighbourhood close to the Colosseum and Termini",
+        "testo": "Alleys, workshops and bars on foot from the Colosseum. A bit noisy in the evening, with few big hotels and many apartments. Convenient for metro and trains."
+      },
+      {
+        "nome": "Trastevere",
+        "perChi": "anyone who wants evening life",
+        "testo": "Alleys, osterias and music. Crowded and noisy at weekends; restaurants on the main streets are touristy. The centre is 15-20 minutes on foot."
+      },
+      {
+        "nome": "Prati",
+        "perChi": "anyone who wants to spend less and see the Vatican",
+        "testo": "A residential district with lower prices and metro A for St Peter's and Termini. Not very charming, but quiet and convenient."
+      },
+      {
+        "nome": "Testaccio",
+        "perChi": "anyone who wants to eat well and stay out of the crowds",
+        "testo": "A working-class district with historic trattorias and the market. A bit off the beaten track from the centre and the monuments, but well connected by metro B."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "The four Roman pastas",
+        "testo": "Cacio e pepe, gricia, amatriciana and carbonara: few ingredients and a lot of technique. Eat them in a trattoria, better in Testaccio, Pigneto or San Lorenzo than in the centre."
+      },
+      {
+        "nome": "Carciofo alla giudia",
+        "testo": "Roman artichoke fried whole, crisp outside and tender inside. Eaten in the Ghetto, in season, from late winter to spring."
+      },
+      {
+        "nome": "Coda alla vaccinara",
+        "testo": "Oxtail stewed with celery and tomato, one of the dishes of the quinto quarto. Found in traditional trattorias, especially in Testaccio."
+      },
+      {
+        "nome": "Supplì",
+        "testo": "A fried rice croquette with ragù and a heart of stringy mozzarella. Bought to take away in friggitorie and pizza-by-the-slice shops."
+      },
+      {
+        "nome": "Roman pizza",
+        "testo": "Thin and crisp, unlike the Neapolitan one. Eaten in a pizzeria in the evening, or by the slice at the counter as a snack."
+      },
+      {
+        "nome": "Maritozzo",
+        "testo": "A soft sweet bun with whipped cream, typical of the Roman breakfast. Found in cafes and pastry shops."
+      }
+    ],
+    attenzioni: [
+      "The Colosseum ticket is named and you need ID at the entrance. Buy only on the official website: street sellers and many unofficial sites charge extra.",
+      "Pickpockets work on metro A and B, on bus 64 to St Peter's, at Termini and near monuments. Keep bags closed and in front, phone in an inside pocket.",
+      "Avoid restaurants with photos of dishes outside or with someone inviting you in. Check the cover charge and extras on the bill before ordering.",
+      "Taxis: take only white licensed ones, with a fixed fare from Fiumicino airport to the centre inside the Aurelian Walls. Refuse anyone offering a negotiated price at arrivals.",
+      "Fake centurions and people who put bracelets or roses in your hand ask for money afterwards: say no firmly. Do not enter the fountains, there is a fine.",
+      "A tourist tax is charged per night, to be paid at the accommodation; the amount depends on the category. The historic centre has a ZTL with cameras: if you arrive by car, ask your hotel how to avoid a fine."
+    ],
     esperienzeSlugs: ['roma-sotterranea', 'appia-antica'],
     tripSlugs: ['roma-4-giorni', 'grandi-citta-italia'],
     imageAlt: "The Colosseum seen from the Roman Forum among the remains of columns and cypresses, Rome",
@@ -552,6 +1031,163 @@ export const destinazioniItalia: Destinazione[] = [
     ],
     miaEsperienza:
       "Florence has a problem of scale that the guidebooks don't mention: everything you come to see fits in half a square kilometer, and from April to October the center is a dense crowd moving slowly along three axes. In practice the city should be done backwards: early in the morning, or in November. The dome climb booked for the first slot, at eight thirty, is a different experience from doing it at noon: you climb a narrow staircase between the two shells, pass a few centimeters from the frescoes of the Last Judgment, and at the top there's air. Almost nobody goes to the Museo dell'Opera del Duomo, which is worth as much as the Uffizi: inside are the original doors of the Baptistery (the ones in the square are copies) and Michelangelo's last Pietà, the one he wanted to destroy. There are four people. For sunset everyone goes to Piazzale Michelangelo, which is a parking lot with vendors; a hundred meters higher is San Miniato al Monte, a Romanesque church from the year 1000 with a marble-inlaid façade, the same view and, in the afternoon, monks singing Gregorian chant in the crypt.",
+    luoghi: [
+      {
+        "nome": "Duomo and Brunelleschi's dome",
+        "testo": "The cathedral of Santa Maria del Fiore with the largest masonry dome ever built, finished in 1436 without centering. Climbing the 463 steps you walk between the two shells, a few centimetres from the Last Judgement frescoes, up to the lantern with a view over the whole city.",
+        "come": "Right in the centre, 15 minutes on foot from the station. The dome climb is by time slot and must be booked online on the Opera del Duomo's official site. Entry to the cathedral is free, with a queue at security.",
+        "quando": "First slot in the morning, to climb with few people. The stairs are narrow and there are no lifts: not suitable for anyone claustrophobic or afraid of heights.",
+        "tempo": "1.5 hours for the dome, plus the cathedral",
+        "url": "https://www.duomo.firenze.it/",
+        "consiglio": "I climbed the dome in the first slot, at half past eight: it is a different experience from midday. You pass close to the frescoes and at the top there is air."
+      },
+      {
+        "nome": "Museo dell'Opera del Duomo",
+        "testo": "The museum of the Duomo complex, which many skip and is among the best in the city. Inside are the original Baptistery doors (the ones in the square are copies), Michelangelo's Bandini Pietà, Donatello's Magdalene and the models of the dome.",
+        "come": "Two steps from the Duomo, behind it, at piazza del Duomo 9. The combined Duomo complex ticket includes dome, baptistery, bell tower, crypt and museum.",
+        "quando": "Every day; check hours on the website. Early morning it is almost empty.",
+        "tempo": "1.5-2 hours",
+        "url": "https://www.duomo.firenze.it/",
+        "consiglio": "I would not skip it: inside are the Baptistery doors and Michelangelo's last Pietà, the one he wanted to destroy. When I went there were four people."
+      },
+      {
+        "nome": "Uffizi Gallery",
+        "testo": "Italy's most important painting museum: Botticelli's Birth of Venus and Primavera, Giotto's Ognissanti Madonna, Leonardo, Raphael, Michelangelo, Caravaggio. The route follows the history of painting from the Middle Ages to the 18th century.",
+        "come": "On foot from Piazza della Signoria. Entry is by booking: the queue without a ticket is long even in low season. The visit is linear and there is no shortcut: choose the rooms beforehand.",
+        "quando": "Closed on Mondays. First slot in the morning or after 4 pm (there has been an afternoon fare since 2026).",
+        "tempo": "3 hours",
+        "costo": "25 euros on the day, 29 euros booked in advance, 2026; afternoon fare from 4 pm at 16 euros (20 if booked)",
+        "url": "https://www.uffizi.it/",
+        "consiglio": "Book weeks ahead in high season. Three hours are enough for the main rooms: try to concentrate on Botticelli, Leonardo and Caravaggio."
+      },
+      {
+        "nome": "Galleria dell'Accademia",
+        "testo": "Michelangelo's David, over five metres tall, at the end of a gallery with the unfinished Prisoners. The rest of the museum is small and takes an hour.",
+        "come": "Ten minutes on foot from the Duomo, on via Ricasoli. Booking recommended, with an extra fee.",
+        "quando": "Closed on Mondays. Free entry on the first Sunday of the month, with very long queues.",
+        "tempo": "1-1.5 hours",
+        "costo": "20 euros full price plus 4 euros booking fee, 2026",
+        "consiglio": "The David is best seen up close, walking around it: the Prisoners in the gallery help you understand how Michelangelo worked. Book in advance."
+      },
+      {
+        "nome": "Palazzo Pitti and Boboli Gardens",
+        "testo": "The residence of the Medici, then the Lorraine and the Savoy, on the other bank of the Arno. Inside are the Palatine Gallery with Raphael and Titian, the royal apartments and several museums. Behind, the Boboli Garden is an Italian-style park with a view over the city.",
+        "come": "On foot from the Ponte Vecchio, five minutes. Museums and garden are visited with separate or combined tickets: check the website.",
+        "quando": "Closed on Mondays. In summer the garden is hot and shadeless in many places: go early in the morning.",
+        "tempo": "half a day",
+        "url": "https://www.uffizi.it/palazzo-pitti",
+        "consiglio": "The Boboli Garden is the right place to rest after the crowds of the centre. Bring water."
+      },
+      {
+        "nome": "Brancacci Chapel",
+        "testo": "The fresco cycle by Masaccio and Masolino in the Carmine church, which marks the start of Renaissance painting. Masaccio's Expulsion from Eden is one of the most powerful images of the 15th century.",
+        "come": "In the Oltrarno, in piazza del Carmine, 15 minutes on foot from the centre. Limited entry and booking recommended.",
+        "quando": "Check closing days on the civic museums' website; usually it is closed one day in mid-week.",
+        "tempo": "45 minutes",
+        "url": "https://museicivicifiorentini.comune.fi.it/",
+        "consiglio": "It is less crowded than the big museums and just as important. Before going in it is worth reading a couple of lines on Masaccio: the visit is far more interesting."
+      },
+      {
+        "nome": "San Miniato al Monte",
+        "testo": "The 11th-century Romanesque church on the hill south of the Arno, with a facade inlaid with white and green marble and a floor with zodiac motifs. The Olivetan monks sing Gregorian chant in the afternoon.",
+        "come": "On foot from the Ponte Vecchio, through Porta San Niccolò and the stairs (about 25 minutes), or by bus 12 and 13. Just above Piazzale Michelangelo.",
+        "quando": "Every day. Late afternoon, for sunset and the monks' chant. Check service times on the website.",
+        "tempo": "1 hour",
+        "url": "https://www.sanminiatoalmonte.it/",
+        "consiglio": "A hundred metres from Piazzale Michelangelo, which at that hour is a car park with vendors, there is the same view with fewer people. In the crypt the monks sing Gregorian chant in the afternoon."
+      },
+      {
+        "nome": "Oltrarno: Santo Spirito and the workshops",
+        "testo": "The south bank of the Arno is the part of the city where restoration, gilding, lute-making and leather workshops still exist. Piazza Santo Spirito is the heart of the district, with Brunelleschi's basilica.",
+        "come": "On foot over the Ponte Vecchio or the Ponte alla Carraia. No tickets are needed: you walk and step into the workshops.",
+        "quando": "Weekday afternoons, when the workshops are open. On Sundays many are closed.",
+        "tempo": "half a day",
+        "consiglio": "Always ask permission before photographing inside workshops. For dinner, the trattorias of the Oltrarno are better and cheaper than those around the Duomo."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "8:30, climb Brunelleschi's dome with a booking.",
+          "10:30, Museo dell'Opera del Duomo.",
+          "13:00, lunch with a lampredotto sandwich or in a Sant'Ambrogio trattoria.",
+          "15:00, Uffizi with the afternoon fare (room by room, without trying to see everything).",
+          "Sunset at San Miniato al Monte, then dinner in the Oltrarno."
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: dome at 8:30, Museo dell'Opera del Duomo, lunch in Sant'Ambrogio, Uffizi in the afternoon.",
+          "Day 2: Accademia and the David at the first slot; Oltrarno with the Brancacci Chapel and Santo Spirito; sunset at San Miniato."
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: dome, Museo dell'Opera del Duomo, the historic centre on foot.",
+          "Day 2: Uffizi in the morning, Accademia in the afternoon.",
+          "Day 3: Palazzo Pitti and Boboli, Brancacci Chapel, Oltrarno; San Miniato at sunset."
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Oltrarno",
+        "perChi": "anyone who wants a lively district five minutes from the centre",
+        "testo": "Workshops, trattorias and squares. Quieter than the centre, with slightly lower prices. San Frediano is the district for the evening."
+      },
+      {
+        "nome": "Sant'Ambrogio",
+        "perChi": "anyone looking for lower prices and a real market",
+        "testo": "A residential area east of the Duomo, with the Florentines' market and many trattorias. A bit off the tourist routes."
+      },
+      {
+        "nome": "Santa Maria Novella",
+        "perChi": "anyone arriving by train and leaving early",
+        "testo": "Close to the station: convenient for trains and buses to Tuscany. A busier area and less pleasant in the evening."
+      },
+      {
+        "nome": "Historic centre (Duomo and Signoria)",
+        "perChi": "anyone who wants everything on foot and does not mind the prices",
+        "testo": "Extremely convenient and expensive. In the evening there are few residents and many tourists, and the noise of the pedestrian streets reaches the rooms."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Bistecca alla fiorentina",
+        "testo": "A cut at least three fingers thick, cooked rare and served by weight, usually a kilo or more. Ordered in a trattoria, checking the price per hundred grams."
+      },
+      {
+        "nome": "Lampredotto",
+        "testo": "A sandwich of tripe from the fourth stomach of the cow, boiled and served with green sauce. Eaten standing at street stalls, like the Florentines."
+      },
+      {
+        "nome": "Ribollita and pappa al pomodoro",
+        "testo": "Two stale-bread soups: ribollita with cabbage and beans, pappa with tomato and basil. Humble trattoria cooking."
+      },
+      {
+        "nome": "Crostini di fegatini",
+        "testo": "Slices of Tuscan bread with chicken liver pâté, a classic Tuscan starter."
+      },
+      {
+        "nome": "Panzanella",
+        "testo": "A summer salad of soaked stale bread, tomato, onion, basil and oil."
+      },
+      {
+        "nome": "Cantucci and vin santo",
+        "testo": "Almond biscuits to dip in sweet dessert wine. Served at the end of the meal in almost every trattoria."
+      }
+    ],
+    attenzioni: [
+      "The centre's ZTL is monitored by cameras: driving in without a permit brings a fine that reaches your home months later. If you arrive by car, ask your hotel how to register the plate or leave the car in a car park outside.",
+      "Book the Uffizi, Accademia and dome online: without a ticket the queues can last hours and in high season you may not get in.",
+      "The city bans sitting down to eat on the steps of churches and monuments and in some streets of the centre, with fines. Avoid eating on the ground.",
+      "Pickpocketing at Santa Maria Novella station, on crowded buses and in the most visited spots such as the Ponte Vecchio. Keep bags closed and in front.",
+      "In restaurants check the price of the steak per hundred grams and the cover charge. Be wary of places with tourist menus around the Duomo and Piazza della Signoria.",
+      "A tourist tax is charged per night, to be paid at the accommodation. In case of transport strikes, leave a time margin."
+    ],
     esperienzeSlugs: ['cupola-brunelleschi'],
     tripSlugs: ['firenze-3-giorni', 'grandi-citta-italia'],
     imageAlt: "The Ponte Vecchio and the other bridges over the Arno seen from Piazzale Michelangelo at sunset, Florence",
@@ -606,6 +1242,159 @@ export const destinazioniItalia: Destinazione[] = [
     ],
     miaEsperienza:
       "Venice is the most misunderstood city in Italy, and the reason is the time of day. Between ten in the morning and five in the afternoon, on the routes from the station to Rialto and from Rialto to St. Mark's, you walk in a dense flow and understand why the Venetians left: there are fewer than fifty thousand, a third of the 1950s, and the number keeps falling. But that's just a time slot. At seven in the morning the same calli are empty, you hear the water slapping against the walls, delivery boats go by, and the bacari open for people on their way to work. After seven in the evening the same thing happens in reverse. It's the only serious reason to sleep in the center instead of in Mestre, more than convenience: having those two windows. Almost nobody goes to the lagoon, though: Torcello has a seventh-century basilica with a Last Judgment in mosaic that covers an entire wall, you get there in forty minutes by vaporetto, and there are twenty people. That's where Venice began, before Venice existed.",
+    luoghi: [
+      {
+        "nome": "St Mark's Basilica",
+        "testo": "The Byzantine basilica of the doges, with about 8,000 square metres of golden mosaics covering vaults and domes. The undulating floor, the Pala d'Oro and the bronze horses in the museum are the points to look for.",
+        "come": "In Piazza San Marco, reached by vaporetto (San Marco-San Zaccaria stop) or on foot from Rialto. Entry requires clothes covering shoulders and knees. Backpacks and large bags are not allowed in: there are left-luggage points nearby.",
+        "quando": "Every day; the early hours of the morning are the least crowded. During religious services access is limited.",
+        "tempo": "1 hour",
+        "url": "https://www.basilicasanmarco.it/",
+        "consiglio": "Book the time-slot entry online to avoid the queue in the square. Go up to the museum and the loggia of the horses to see the mosaics up close and the square from above."
+      },
+      {
+        "nome": "Doge's Palace",
+        "testo": "The seat of government of the Republic and the doge's residence, in Venetian Gothic. Inside are the Hall of the Great Council with Tintoretto's Paradise, the Giants' Staircase, the prisons and the Bridge of Sighs. The Secret Itineraries lead into the officials' rooms.",
+        "come": "Next to the Basilica, on the St Mark's basin. The standard ticket also includes the museums of Piazza San Marco. Take the audioguide, collected at the entrance.",
+        "quando": "Open every day, with extended hours in summer and last entry an hour before closing. Early morning or late afternoon to avoid groups.",
+        "tempo": "2-3 hours",
+        "url": "https://palazzoducale.visitmuve.it/",
+        "consiglio": "The price differs between sources and periods: check the current one on the official site before buying. Book online to skip the queue."
+      },
+      {
+        "nome": "Scuola Grande di San Rocco",
+        "testo": "Tintoretto's cycle of paintings, made over more than twenty years, covers walls and ceilings on three floors. It is the Sistine Chapel of Venice, but with far fewer people. In the upper hall mirrors let you look at the ceiling without craning your neck.",
+        "come": "On foot from the railway station or Piazzale Roma in about 15 minutes, near the Frari church (campo San Rocco). By vaporetto, San Tomà stop.",
+        "quando": "Open every day; check hours and closures on the website. The middle hours are quiet.",
+        "tempo": "1 hour",
+        "url": "https://www.scuolagrandesanrocco.it/",
+        "consiglio": "Borrow one of the mirrors at the entrance to look at the ceiling paintings. In the Frari, a short walk away, are the altarpieces by Titian and Bellini."
+      },
+      {
+        "nome": "Rialto and the fish market",
+        "testo": "The oldest bridge over the Grand Canal, in stone since 1591, with the historic commercial district around it. At the Pescheria, on the San Polo side, lagoon and sea fish are sold to residents in the morning; nearby are fruit and vegetables.",
+        "come": "On foot from the station or San Marco in 20 minutes, or by vaporetto 1 to Rialto. The market is a few minutes from the bridge.",
+        "quando": "Early morning. The Pescheria is closed on Sundays and Mondays; check. The bridge is crowded from 10 am.",
+        "tempo": "1 hour",
+        "consiglio": "After the market, go and eat cicheti at the nearby bacari. See the bridge at dawn, when it is empty."
+      },
+      {
+        "nome": "Cannaregio and the Ghetto",
+        "testo": "The most lived-in sestiere, with wide canals and osterias where Venetians eat. The Ghetto, established in 1516, is the first Jewish ghetto in Europe: the buildings are tall because the area could not be enlarged. You can visit the synagogues and the Jewish museum.",
+        "come": "On foot from the railway station in 10 minutes. The Jewish museum runs guided visits to the synagogues.",
+        "quando": "Open all year; the Jewish museum is closed on Saturdays and Jewish holidays.",
+        "tempo": "half a day",
+        "consiglio": "Get lost in the calli away from the station-Rialto axis: in Cannaregio it is easy to find Venice as the residents live it."
+      },
+      {
+        "nome": "San Giorgio Maggiore",
+        "testo": "The island in front of San Marco with Palladio's church and a bell tower from which you see the city and the lagoon. It is the best viewpoint, with almost no queue.",
+        "come": "From the San Zaccaria stop take vaporetto 2 to San Giorgio, a few minutes. The bell tower has a lift.",
+        "quando": "Every day; late afternoon gives the best light on San Marco. Check the lift hours.",
+        "tempo": "1 hour",
+        "consiglio": "From the bell tower you see San Marco and the whole lagoon with a fraction of the crowd on the campanile in the square."
+      },
+      {
+        "nome": "Torcello",
+        "testo": "The island where Venice began. The basilica of Santa Maria Assunta, from the 7th century, has a mosaic of the Last Judgement covering an entire wall. Only a few dozen people live here now.",
+        "come": "From Fondamente Nove take vaporetto 12 to Burano and then the 9 to Torcello, about 40 minutes in total.",
+        "quando": "Every day; the morning is quiet. Check the basilica's opening hours.",
+        "tempo": "half a day, combined with Burano",
+        "consiglio": "I went in the middle of the day and there were twenty people: this is where Venice began, before Venice existed."
+      },
+      {
+        "nome": "Murano and Burano",
+        "testo": "Murano is the glass island, with the Glass Museum and the furnaces. Burano has houses painted in bright colours and a lace tradition. Both are heavily photographed and visited by groups.",
+        "come": "By vaporetto from Fondamente Nove (lines 4.1 and 4.2 for Murano; the 12 for Burano). At the Glass Museum you see the historic pieces.",
+        "quando": "All year; early morning is less crowded. In winter the islands are quiet.",
+        "tempo": "half a day each",
+        "consiglio": "Avoid furnaces that bring tourists in with free demonstrations and then push them to buy: buy glass carrying the Vetro Artistico Murano mark."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "7:00, early walk from Rialto to San Marco, when the calli are empty.",
+          "9:00, St Mark's Basilica with a booked entry.",
+          "10:30, Doge's Palace.",
+          "13:00, bacari crawl in Cannaregio or Castello.",
+          "15:00, Scuola Grande di San Rocco.",
+          "Sunset on vaporetto 1 along the whole Grand Canal."
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: dawn between Rialto and San Marco, Basilica, Doge's Palace, San Giorgio Maggiore at sunset.",
+          "Day 2: Rialto and the market, Scuola Grande di San Rocco and the Frari, Cannaregio and the Ghetto, bacari crawl."
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: San Marco, Doge's Palace, San Giorgio Maggiore.",
+          "Day 2: Rialto, San Rocco and the Frari, Cannaregio and the Ghetto.",
+          "Day 3: the lagoon: Murano, Burano and Torcello, by vaporetto from Fondamente Nove."
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Cannaregio",
+        "perChi": "anyone who wants a lived-in area and to spend less",
+        "testo": "Near the station, with wide canals and the Venetians' osterias. Quieter and cheaper than the centre, 20-25 minutes on foot from San Marco."
+      },
+      {
+        "nome": "Castello",
+        "perChi": "anyone looking for calm away from San Marco",
+        "testo": "A large residential sestiere, with very quiet areas toward the Arsenale and the Giardini. Little to do in the evening, but close to San Marco."
+      },
+      {
+        "nome": "Dorsoduro",
+        "perChi": "anyone who wants museums and evening life",
+        "testo": "Close to the Gallerie dell'Accademia and the Guggenheim Collection, with bars around Campo Santa Margherita. Livelier in the evening, a bit more expensive."
+      },
+      {
+        "nome": "Mestre",
+        "perChi": "anyone who wants to spend as little as possible",
+        "testo": "On the mainland, 10-15 minutes by train from Venezia Santa Lucia. It costs less, but you lose dawn and evening in the city, which are the best moments. Sleeping in the centre exempts you from the access fee."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Cicheti and bacari",
+        "testo": "Small bites (meatballs, salt cod on a crostino, half an egg with anchovy) to eat standing at the counter with a small glass of wine. You go from bacaro to bacaro."
+      },
+      {
+        "nome": "Sarde in saor",
+        "testo": "Fried sardines marinated with onion, vinegar, raisins and pine nuts. A historic sailors' dish, eaten cold."
+      },
+      {
+        "nome": "Baccalà mantecato",
+        "testo": "Stockfish whipped to a white cream, served on polenta crostini. The most Venetian cicheto."
+      },
+      {
+        "nome": "Fegato alla veneziana",
+        "testo": "Calf's liver with stewed onions, usually with white polenta."
+      },
+      {
+        "nome": "Risotto di gò and risi e bisi",
+        "testo": "Risotto with goby, a lagoon fish; risi e bisi is a thick soup of rice and peas, a spring dish."
+      },
+      {
+        "nome": "Spritz",
+        "testo": "An aperitif with prosecco, Aperol or Select and soda, born in the Veneto. Drunk in the bacari before dinner."
+      }
+    ],
+    attenzioni: [
+      "Access fee for day visitors who do not stay overnight: in 2026 it applied on 60 days between April and July, 5 euros if booked at least four days ahead and 10 euros below that threshold. Those who sleep in the city are exempt but must register. Check the calendar every year.",
+      "Since 2024 tour groups are limited to 25 people and loudspeakers are banned.",
+      "Pickpocketing on crowded vaporetto 1 and 2, at Rialto and at San Marco. Keep bags closed and in front.",
+      "The single vaporetto ticket is expensive and time passes pay off if you make several trips a day. Always validate the ticket before boarding.",
+      "Restaurants around San Marco and Rialto with tourist menus and high cover charges: check the bill. The gondola has fares set by the city; agree the price before boarding.",
+      "High water in autumn and winter: the MOSE protects the lagoon, but the walkways are still set up when the tide goes above a certain threshold. Bring light rubber boots. Bans: swimming in the canals, sitting on bridges and eating on the steps of monuments."
+    ],
     esperienzeSlugs: ['venezia-alba'],
     tripSlugs: ['venezia-3-giorni', 'grandi-citta-italia'],
     imageAlt: "The Grand Canal in Venice at sunset with palaces facing the water and a motorboat going up the canal",
@@ -660,6 +1449,155 @@ export const destinazioniItalia: Destinazione[] = [
     ],
     miaEsperienza:
       "Naples is the Italian city that divides people the most, because it asks you to adapt rather than welcome you. The historic center is the most densely inhabited area in Europe and you feel it: the alleys are narrow, scooters go where they shouldn't, laundry hangs over your head and there's constant noise. Those who get irritated go home saying it's chaotic; those who get into the rhythm discover the city with the most energy in the country. What changes the visit most, though, is a mundane piece of advice about order: the National Archaeological Museum should be seen **before** Pompeii and not after. All the best mosaics, frescoes and bronzes were brought there in the nineteenth century, and anyone who arrives at Pompeii without having seen them walks for three hours among walls without understanding what was inside. And then Herculaneum, which almost everyone skips to do the more famous one: it's a tenth of Pompeii but it was buried by mud and not by ash, so the upper floors, the carbonized wooden beams and even the furniture were preserved. You walk inside two-story houses with the stairs still in place.",
+    luoghi: [
+      {
+        "nome": "Historic center, Spaccanapoli and San Gregorio Armeno",
+        "testo": "The Greek-Roman street grid is still the street plan: Spaccanapoli cuts the center in a straight line, lined with churches, palaces and workshops. San Gregorio Armeno is the nativity-scene street, with craftsmen at work all year.",
+        "come": "On foot, starting from Piazza del Gesù Nuovo or the Dante stop on metro line 1. The route is pedestrian or nearly so, with scooters passing everywhere.",
+        "quando": "Early morning for the lanes without the crowd. In December San Gregorio Armeno is beautiful and impassable.",
+        "tempo": "Half a day",
+        "consiglio": "Step into the open churches (Gesù Nuovo, Santa Chiara, San Domenico Maggiore): they are free or cheap and a break from the noise."
+      },
+      {
+        "nome": "National Archaeological Museum (MANN)",
+        "testo": "It holds the mosaics, frescoes, bronzes and statues brought here from Pompeii and Herculaneum, plus the Farnese collection. See it before the Vesuvian sites: at Pompeii you then understand what was inside the walls.",
+        "come": "Metro line 1 or 2 to Museo/Piazza Cavour, a few minutes on foot. Visit on your own with the wall panels; the audio guide is optional.",
+        "quando": "The museum is closed on Tuesday. Morning, when the mosaic rooms are quieter.",
+        "tempo": "2-3 hours",
+        "consiglio": "Go straight up to the Pompeii mosaics and the Secret Cabinet, then down to the Farnese collection if you have time left."
+      },
+      {
+        "nome": "Sansevero Chapel",
+        "testo": "An 18th-century noble chapel with Giuseppe Sanmartino's Veiled Christ, a marble that looks like a wet cloth over the body. The crypt holds the anatomical machines.",
+        "come": "On foot, on via Francesco De Sanctis in the historic center. Visit on your own, with a timed ticket.",
+        "quando": "Book ahead: slots sell out, especially on weekends and in high season. No photos inside.",
+        "tempo": "45 minutes",
+        "url": "https://www.museosansevero.it/",
+        "consiglio": "Buy the ticket on the official site days before: there is often a queue at the door already."
+      },
+      {
+        "nome": "Underground Naples and the catacombs",
+        "testo": "Beneath the city lie Greek quarries, Roman aqueducts and wartime air-raid shelters. The Catacombs of San Gennaro, in the Sanità district, are the largest in southern Italy, with early Christian frescoes.",
+        "come": "For Napoli Sotterranea the entrance is in Piazza San Gaetano, with a guided tour at set times. The Catacombs of San Gennaro are in the Sanità district, about twenty minutes on foot from the MANN.",
+        "quando": "All year, rain included. It is cool underground: bring a sweater.",
+        "tempo": "1.5 hours per visit",
+        "consiglio": "Do only one of the two if time is short: Napoli Sotterranea for the war and the quarries, the catacombs for the art."
+      },
+      {
+        "nome": "Pompeii",
+        "testo": "A Roman city of 66 hectares sealed by the eruption of 79 AD: streets with cart ruts, shops, baths, houses with frescoes, the forum and the amphitheater. The excavated area is large, so you have to choose what to see.",
+        "come": "Circumvesuviana Naples-Sorrento line to Pompei Scavi-Villa dei Misteri (about 40 minutes from Napoli Garibaldi). You can also take a regional train to Pompei. Audio guide or guide recommended.",
+        "quando": "At opening time or late afternoon in summer; not at midday, no shade. The site closes on 1 January, 1 May and 25 December. Named tickets, with a daily visitor cap and time slots in summer.",
+        "tempo": "3-4 hours",
+        "url": "https://pompeiisites.org/",
+        "consiglio": "Seen after the MANN, you recognize the works. Bring water and a hat: there are few places to refresh."
+      },
+      {
+        "nome": "Herculaneum",
+        "testo": "A smaller city than Pompeii, buried by mud rather than ash: upper floors, charred wooden beams, doors and beds survived. You see how people really lived.",
+        "come": "Circumvesuviana Naples-Sorrento line to Ercolano Scavi (about 20 minutes from Napoli Garibaldi), then a ten-minute walk downhill.",
+        "quando": "Morning, in summer. The site closes on the main holidays: check the calendar on the official site.",
+        "tempo": "2 hours",
+        "url": "https://ercolano.beniculturali.it/",
+        "consiglio": "If you only have time for one site, many choose Herculaneum: fewer people, more preserved detail."
+      },
+      {
+        "nome": "Vesuvius",
+        "testo": "The volcano that buried Pompeii is active. You drive or take a shuttle up to about 1,000 meters and walk a half-hour trail to the crater rim, with a view over the gulf.",
+        "come": "From Ercolano Scavi there are shuttles to the car park at 1,000 meters. From the last car park you walk uphill on a dirt trail, in closed shoes.",
+        "quando": "Morning, with a clear sky. In case of an alert or strong wind access may be suspended.",
+        "tempo": "3-4 hours for the trip, climb and return",
+        "url": "https://www.parconazionaledelvesuvio.it/",
+        "consiglio": "Check the weather the day before: with low clouds you climb and see nothing."
+      },
+      {
+        "nome": "Phlegraean Fields and Pozzuoli",
+        "testo": "A volcanic area west of Naples, still subject to bradyseism: the Flavian Amphitheater of Pozzuoli, the Rione Terra, the Baia archaeological park with its Roman baths.",
+        "come": "Cumana railway or metro line 2 to Pozzuoli, then local buses or a taxi to the sites. By car it takes about half an hour.",
+        "quando": "Check Civil Protection notices first and whether each site is open: it changes with works.",
+        "tempo": "Half a day",
+        "consiglio": "Combine it with a seafood lunch in Pozzuoli: it costs less than in Posillipo."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: National Archaeological Museum, with the Pompeii mosaics.",
+          "Late morning: walk along via dei Tribunali to San Gregorio Armeno.",
+          "Lunch: a pizza in the historic center.",
+          "Afternoon: Spaccanapoli, Sansevero Chapel with a booked ticket.",
+          "Evening: stroll along the via Caracciolo seafront to Castel dell'Ovo."
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1 as above, with the MANN in the morning.",
+          "Day 2, morning: Circumvesuviana to Herculaneum, two hours on site.",
+          "Quick lunch in Ercolano.",
+          "Afternoon: Pompeii in a booked time slot, or Vesuvius if the weather is good.",
+          "Evening: back in Naples, an unhurried dinner at a historic pizzeria."
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: historic center, MANN, Sansevero.",
+          "Day 2: Herculaneum in the morning, Pompeii in the afternoon, train back before evening.",
+          "Day 3 morning: Underground Naples or the Catacombs of San Gennaro.",
+          "Afternoon: funicular up to the Vomero for Castel Sant'Elmo and the view over the gulf.",
+          "Evening: a last pizza or fried snacks in Chiaia."
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Historic center",
+        "perChi": "Those who want to be inside the city",
+        "testo": "Everything on foot, lanes full of life and places open late. Constant noise of scooters and voices even at night, narrow streets that are not always clean. Better a room on an upper floor or facing the courtyard."
+      },
+      {
+        "nome": "Chiaia and the seafront",
+        "perChi": "Those looking for a calmer area",
+        "testo": "A residential and shopping district, with restaurants and sea views from the waterfront. Quieter in the evening, ten to twenty minutes on foot from the historic center and close to the metro."
+      },
+      {
+        "nome": "Vomero",
+        "perChi": "Those watching prices who want a view",
+        "testo": "A hill served by funiculars and metro line 1, with views over the gulf. Safer and quieter, but you go down and back up by funicular each time: in the evening you lose time."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Neapolitan pizza",
+        "testo": "High, soft dough on the rim, baked in a wood oven in under two minutes. The two classics are Margherita and Marinara; it is eaten folded «a libretto» and a portafoglio on the street."
+      },
+      {
+        "nome": "Ragù and genovese",
+        "testo": "Two Sunday sauces. The ragù cooks for hours with meat; the genovese is an onion and meat sauce that has nothing to do with Genoa. You find them in trattorias more than in pizzerias."
+      },
+      {
+        "nome": "Sfogliatella and babà",
+        "testo": "The sfogliatella riccia, warm in the morning, with ricotta and candied fruit. The babà, a brioche soaked in rum, is eaten at the pastry shop."
+      },
+      {
+        "nome": "Street fried food",
+        "testo": "Pasta frittatine, potato crocchè, arancini and fried pizza. You take them in paper cones, for two or three euros."
+      },
+      {
+        "nome": "Coffee",
+        "testo": "Short, strong, drunk standing at the bar. The «caffè sospeso» is the custom of paying for one extra for whoever comes after."
+      }
+    ],
+    attenzioni: [
+      "Pickpockets on the Circumvesuviana, at the Central station, Piazza Garibaldi and in crowded lanes: bag in front, no phone in hand near scooters.",
+      "At Pompeii tickets are named and there is a daily visitor cap: buy online on the official site and not from intermediaries who charge more.",
+      "Taxis: use only the official white ones, ask for the fixed fare for airport to center and port, and be wary of anyone offering a ride at the airport.",
+      "The center has limited traffic zones with cameras: sleep where you can leave the car in a garage and avoid driving in the city.",
+      "Transport strikes are frequent, the Circumvesuviana included: check the calendar before planning Pompeii or Vesuvius.",
+      "Vesuvius and the Phlegraean Fields are active volcanic areas: follow Civil Protection notices and the trail instructions."
+    ],
     esperienzeSlugs: ['pompei-ercolano', 'napoli-sotterranea', 'pizza-napoletana'],
     tripSlugs: ['napoli-3-giorni', 'grandi-citta-italia'],
     imageAlt: "The Gulf of Naples with Vesuvius in the background, a ship at anchor and boats moored in the small harbor",
@@ -713,6 +1651,154 @@ export const destinazioniItalia: Destinazione[] = [
     ],
     miaEsperienza:
       "Milan has a reputation as the Italian city not worth a trip, and for classic tourism that's almost true: the center can be seen in a day and lacks the layered charm of Rome or Florence. Then you climb onto the Duomo terraces, which almost everyone skips to see only the interior, and the perspective changes: you walk on the roof of a Gothic cathedral among one hundred and thirty-five spires and three thousand statues, with the city below and, on clear days, the Alps on the horizon. It's one of the most beautiful things in Italy and costs as much as a museum. About the Last Supper, the uncomfortable thing has to be said: you don't \"try to see\" it. It's a painting on a wall, in a humidity-controlled room where small groups enter for fifteen minutes; you book months ahead with quarterly openings, and anyone who arrives in Milan hoping to find a spot at the last minute doesn't get in. Those who manage it, though, stand in front of a fresco that has been disappearing for five hundred years (Leonardo painted it with an experimental technique that began to degrade while he was still alive), and those fifteen minutes are worth the hassle.",
+    luoghi: [
+      {
+        "nome": "Duomo and rooftop terraces",
+        "testo": "The Gothic cathedral took almost six hundred years to finish. The rooftop terraces are walked among spires and statues, with the city below and, on clear days, the Alps on the horizon. It costs about as much as a museum and for me it is the best part.",
+        "come": "Metro M1 or M3 to Duomo; the terrace entrance is on the side of the square. You climb on foot or by elevator; the elevator does not reach the highest level, where you continue by stairs.",
+        "quando": "Morning or late afternoon, with a clear sky. Book online on weekends and in high season. The Duomo museum has its own closing days: check.",
+        "tempo": "1.5 hours for the terraces, 2-3 hours with the interior and museum",
+        "url": "https://www.duomomilano.it/",
+        "consiglio": "Climb on foot: the way up is part of the visit and the elevator queue is sometimes long."
+      },
+      {
+        "nome": "The Last Supper (Cenacolo Vinciano)",
+        "testo": "Leonardo's Last Supper, painted on a wall of the refectory of Santa Maria delle Grazie. The experimental technique began to deteriorate while he was still alive. Visitors enter in small groups, in a humidity-controlled room.",
+        "come": "Metro M1 Conciliazione or M2 Cadorna, then a few minutes on foot. Visit on your own, at the time set on the ticket.",
+        "quando": "Closed on Monday. Tickets only by reservation, with sales opening in batches: without a ticket you do not get in. Arrive at least 30 minutes early with an ID.",
+        "tempo": "15 minutes inside, an hour with waiting and checks",
+        "costo": "€15 full price, €2 for ages 18-25, free under 18 (2026), plus booking",
+        "url": "https://cenacolovinciano.org/",
+        "consiglio": "Check the official site months ahead for new sales openings and book as soon as they appear: it is the most common mistake in Milan."
+      },
+      {
+        "nome": "Brera Art Gallery",
+        "testo": "One of the most important collections of Italian painting, with Mantegna, Raphael, Caravaggio and Hayez's The Kiss. It is in an 18th-century palace with a courtyard, in the Brera district.",
+        "come": "Metro M2 Lanza or M3 Montenapoleone, then ten minutes on foot through the streets of Brera. Visit on your own.",
+        "quando": "Closed on Monday. The afternoon is quieter. The neighborhood is nice in the evening.",
+        "tempo": "2 hours",
+        "url": "https://pinacotecabrera.org/",
+        "consiglio": "Pick five or six rooms and do not try to see them all."
+      },
+      {
+        "nome": "Sforza Castle",
+        "testo": "The fortress of the Visconti and Sforza now houses the civic museums. The best known holds the Rondanini Pietà, Michelangelo's last work, left unfinished. The courtyard and Sempione park are free.",
+        "come": "Metro M1 Cairoli or M2 Lanza. The courtyards and garden are open to all; the museums have a separate ticket.",
+        "quando": "Museums closed on Monday. Morning for the castle, afternoon for the park.",
+        "tempo": "2 hours with the museums, 1 hour for courtyards and park",
+        "url": "https://www.milanocastello.it/",
+        "consiglio": "If time is short, go in only for the Rondanini Pietà: it is a single room."
+      },
+      {
+        "nome": "Galleria Vittorio Emanuele II and La Scala",
+        "testo": "The 19th-century glass-and-iron arcade links Piazza Duomo to Piazza della Scala. Next to it is the theater, with a museum of costumes, instruments and documents.",
+        "come": "On foot from the Duomo, two minutes. The La Scala museum is in Largo Ghiringhelli.",
+        "quando": "The Galleria is always open. The La Scala museum has its own hours: check first. Evening for the lit shop windows.",
+        "tempo": "1 hour for the Galleria and square, one more hour with the museum",
+        "consiglio": "The cafes in the Galleria are expensive: have coffee in a side street and use the Galleria only for a stroll."
+      },
+      {
+        "nome": "Navigli",
+        "testo": "Two canals, the Naviglio Grande and the Pavese, once used to carry the marble for the Duomo. Today they are full of bars and workshops, with aperitivo at sunset.",
+        "come": "Metro M2 Porta Genova or tram. You walk along the towpaths.",
+        "quando": "Evening for aperitivo. On the last Sunday of the month there is an antiques market on the Naviglio Grande.",
+        "tempo": "2-3 hours in the evening",
+        "consiglio": "Move away from the bars on the canal: two streets further, prices drop."
+      },
+      {
+        "nome": "Lake Como: Varenna and Bellagio",
+        "testo": "The most famous pre-Alpine lake, with stone villages and villas on the shores. Varenna and Bellagio face each other and are linked by boat.",
+        "come": "Train from Milano Centrale to Varenna-Esino in about an hour, then a boat to Bellagio. Lines and times on Navigazione Laghi.",
+        "quando": "Spring and autumn, when the boats are less full. On summer weekends it is very crowded.",
+        "tempo": "A full day",
+        "url": "https://www.navigazionelaghi.it/",
+        "consiglio": "Go by train and boat, not by car: the lakeside road is narrow with no parking."
+      },
+      {
+        "nome": "Lake Maggiore and the Borromean Islands",
+        "testo": "Three islands off Stresa: Isola Bella with the Baroque palace and garden, Isola Madre with the botanical park, Isola dei Pescatori with its fishing village.",
+        "come": "Train from Milano Centrale to Stresa in about 50 minutes, then a boat from the lakefront. Separate tickets for the palaces.",
+        "quando": "April-October, with the gardens in bloom in spring. In high season leave early.",
+        "tempo": "A day for two islands",
+        "consiglio": "With a single day pick Isola Bella and Isola dei Pescatori: they fit in the same trip."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: Duomo and terraces, on foot.",
+          "Lunch: Galleria Vittorio Emanuele II, then a sandwich or a risotto in a side street.",
+          "Early afternoon: Sforza Castle, with the Rondanini Pietà.",
+          "Afternoon: Brera, on foot.",
+          "Evening: aperitivo on the Navigli."
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1 as above; if you have the Last Supper ticket, put it in place of the Castle.",
+          "Day 2: train to Varenna and boat to Bellagio, or to Stresa for the Borromean Islands.",
+          "Lunch on the lake.",
+          "Afternoon: boat and train back before evening."
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: Duomo, Galleria, La Scala, Brera.",
+          "Day 2: Last Supper with a booked ticket, Sforza Castle, Navigli in the evening.",
+          "Day 3: a lake in a day, Como or Maggiore."
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Brera and the center",
+        "perChi": "Those who want to walk everywhere",
+        "testo": "Convenient and beautiful, close to the Duomo, Brera and the Castle. The most expensive in the city, with places that close early and less life in the evening."
+      },
+      {
+        "nome": "Navigli and Porta Ticinese",
+        "perChi": "Those who want the evenings",
+        "testo": "Bars and nightlife until late. The noise on the towpath carries into rooms facing the canal: better a room at the back."
+      },
+      {
+        "nome": "Central Station",
+        "perChi": "Those on a tight budget or leaving by train",
+        "testo": "Cheaper hotels and connections to the lakes and other cities. The area is less well kept and it pays to be careful in the evening; the center is fifteen minutes by metro."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Risotto alla milanese",
+        "testo": "Creamed rice with saffron and bone marrow. Eaten in a trattoria, often alongside the ossobuco."
+      },
+      {
+        "nome": "Cotoletta alla milanese",
+        "testo": "The cut is thick and bone-in, breaded and fried in butter, unlike the thin «Viennese» one. Found in traditional trattorias."
+      },
+      {
+        "nome": "Ossobuco",
+        "testo": "Braised veal shank with gremolada. A winter dish."
+      },
+      {
+        "nome": "Panettone",
+        "testo": "A Christmas cake, but Milanese pastry shops sell a good one nearly all year."
+      },
+      {
+        "nome": "Aperitivo",
+        "testo": "You pay for the drink and the buffet is included, with very variable quality. The best are in the neighborhoods, not in the center."
+      }
+    ],
+    attenzioni: [
+      "Last Supper: without a reservation you do not get in. Sales open in batches: check the official site months ahead.",
+      "Area B and Area C limit car access to the center, with cameras: whoever enters without knowing gets the fine.",
+      "Salone del Mobile (April) and fashion weeks: lodging prices triple, book months ahead.",
+      "Pickpockets on the metro (M1, M3), in front of the Duomo and at Central Station: bag closed in front, never in a back pocket.",
+      "People offering bird feed or bracelets in Piazza Duomo then ask for money: refuse without taking anything in your hand.",
+      "Frequent transport strikes (ATM and trains): check the calendar before going to the lakes."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['milano-e-i-laghi', 'grandi-citta-italia'],
     imageAlt: "The façade of Milan Cathedral seen from the far end of Piazza del Duomo, with people and pigeons on the paving",
@@ -831,6 +1917,186 @@ export const destinazioniItalia: Destinazione[] = [
     ],
     miaEsperienza:
       "When you plan the trip, Sicily is the Italian region you underestimate the most: on the map it looks like an island, in reality it's a nation, and the classic \"tour of Sicily in a week\" becomes six days of state roads. More than any monument, what struck me was a building that contains them all: the Cathedral of Monreale, built by Norman kings with Arab craftsmen and Byzantine mosaicists, with six thousand square meters of gold mosaics and a cloister where every capital is different. In there you understand that Sicily has held together all the cultures that conquered it. The second thing is Etna, to be climbed knowing it's an active volcano: you climb on black lapilli ground that crunches underfoot, with fumaroles coming out of the cracks and warm ground if you rest your hand on it. Finally, a not very romantic but useful tip: the Valley of the Temples is done at night. By day, in summer, you walk in an oven without a single tree.",
+    luoghi: [
+      {
+        "nome": "Palermo: Norman Palace and Palatine Chapel",
+        "testo": "The Palatine Chapel, inside the royal palace, combines Norman structure, Byzantine mosaics and a wooden ceiling by Arab craftsmen. The palace also has the royal apartments.",
+        "come": "On foot from the historic center of Palermo, near the Cathedral, in Piazza del Parlamento. Entry is by timed ticket; the visit is self-guided, audio guide optional.",
+        "quando": "Morning, for the light on the mosaics. On Sundays and holidays the hours are reduced to the morning. Check closures for ceremonies.",
+        "tempo": "1.5 hours",
+        "url": "https://www.fondazionefedericosecondo.it/",
+        "consiglio": "Look up: the apse mosaics fill a whole wall and the muqarnas ceiling is worth the stiff neck."
+      },
+      {
+        "nome": "Monreale Cathedral",
+        "testo": "A 12th-century Norman cathedral with six thousand square meters of golden Byzantine mosaics and a cloister where every capital is different. Inside you see how Sicily held together every culture that conquered it.",
+        "come": "From Palermo, AMAT bus 389 from Piazza Indipendenza (a step from the Norman Palace) or a taxi, about 30-40 minutes. The cathedral is visited on your own; the cloister has a separate entrance.",
+        "quando": "Early morning or early afternoon. The schedule has a midday break: check first.",
+        "tempo": "2 hours",
+        "costo": "€8 for the cathedral (2025)",
+        "consiglio": "Go up to the roof terrace, if open: you walk above the nave and see Palermo."
+      },
+      {
+        "nome": "Ballarò and Palermo's markets",
+        "testo": "Ballarò is the historic market of the center: fish, fruit, spice stalls and fry shops. You eat on the spot: arancine, panelle, sfincione, bread with spleen. The Vucciria is smaller and in the evening turns into a hangout.",
+        "come": "On foot from the Teatro Massimo or the station, about ten minutes. The market runs in the morning until early afternoon.",
+        "quando": "Morning. The market closes in the early afternoon. Sunday is quieter.",
+        "tempo": "1-2 hours",
+        "consiglio": "Eat standing at the stalls most crowded with Palermitans, not those with an English menu."
+      },
+      {
+        "nome": "Valley of the Temples, Agrigento",
+        "testo": "A park of seven Doric temples of the 5th century BC lined along a ridge. The Temple of Concord is among the best preserved in the world. The rest of the park slopes down to the Kolymbethra garden.",
+        "come": "From Agrigento station take a city bus to the entrance, or drive and pay for parking. The path along the ridge is flat.",
+        "quando": "Early morning or sunset; at midday in summer there is no shade and it tops 40 degrees. In summer there are evening openings: check the dates on the site.",
+        "tempo": "3 hours",
+        "url": "https://www.parcovalledeitempli.it/",
+        "consiglio": "Go at night, when the temples are lit and the temperature is bearable."
+      },
+      {
+        "nome": "Segesta and Selinunte",
+        "testo": "Segesta has an unfinished Doric temple and a theater on the hill. Selinunte is one of the largest archaeological parks in the Mediterranean, with fallen temples and the acropolis by the sea. They get a fraction of Agrigento's visitors.",
+        "come": "By car from Palermo: Segesta about an hour, Selinunte about two. From the Segesta car park a shuttle goes up to the theater.",
+        "quando": "Morning, because of the heat. Selinunte at sunset is very beautiful.",
+        "tempo": "2 hours at Segesta, 3 at Selinunte",
+        "consiglio": "Sleep in Trapani or Marsala to see both sites calmly in a day and a half."
+      },
+      {
+        "nome": "Etna",
+        "testo": "The tallest active volcano in Europe. You go up by cable car from Rifugio Sapienza and then by off-road vehicle or on foot, walking on black lapilli that crunch underfoot, near the fumaroles. The summit craters are visited only with a guide and depend on the volcano's activity.",
+        "come": "From Catania by car or bus to Rifugio Sapienza (about an hour and a half). Above a certain altitude a guide is mandatory. Closed shoes, warm layers and a windbreaker.",
+        "quando": "Morning or sunset with a clear sky. Ascents may be suspended for activity or weather.",
+        "tempo": "Half a day, a full day with the crater excursion",
+        "url": "https://www.parcoetna.it/",
+        "consiglio": "Bring more layers than seem necessary: it is cold at altitude even in summer."
+      },
+      {
+        "nome": "Syracuse and Ortigia",
+        "testo": "Ortigia is the island of the old town: the Duomo is built inside a Doric temple, with the columns still visible in the walls. At the Neapolis park are the Greek theater, the Ear of Dionysius and the Roman amphitheater.",
+        "come": "Ortigia on foot across the bridge; the archaeological park twenty minutes on foot or by bus from the station. Visit on your own.",
+        "quando": "Neapolis early in the morning. In May-June, during the classical performances at the Greek theater, the visit may be limited.",
+        "tempo": "A full day, half a day for Ortigia",
+        "consiglio": "Dine in Ortigia and sleep outside the limited traffic zone, where parking costs less."
+      },
+      {
+        "nome": "Val di Noto: Noto, Modica and Ragusa Ibla",
+        "testo": "Towns rebuilt in Baroque style after the 1693 earthquake, a UNESCO site. Noto has the stage set of a long golden street; Modica has cold-worked chocolate; Ragusa Ibla a center on a spur.",
+        "come": "By car, the right way to do it: Noto-Modica 45 minutes, Modica-Ragusa 25. Park outside and walk.",
+        "quando": "Early afternoon for the golden facades, evening for Noto lit up. Avoid August.",
+        "tempo": "One day for two towns, two days for three",
+        "consiglio": "Sleep in Ragusa Ibla or Modica: quiet and with great restaurants, and you save compared to Noto."
+      },
+      {
+        "nome": "Taormina and the ancient theater",
+        "testo": "A Greek-Roman theater facing Etna and the sea, in a village atop a cliff. It is the most photographed view on the island. The town is expensive, but the theater is worth the climb.",
+        "come": "Train to Taormina-Giardini, then a bus or taxi uphill. By car, leave it in a paid car park outside the center.",
+        "quando": "Early morning, before the tourist buses, or at sunset. Very crowded in high season.",
+        "tempo": "2 hours",
+        "consiglio": "Go up to Castelmola on foot or by car: a better view and far fewer people."
+      },
+      {
+        "nome": "Villa Romana del Casale, Piazza Armerina",
+        "testo": "A 4th-century Roman villa with 3,500 square meters of mosaics, including the «bikini girls». It is inland, far from the coast and the busiest routes.",
+        "come": "By car from Enna or Catania, about an hour; from Enna continue to Piazza Armerina. Raised walkways guide the visit.",
+        "quando": "Morning or early afternoon; avoid summer midday hours, the roof holds the heat.",
+        "tempo": "1.5 hours",
+        "consiglio": "Combine it with Enna and the Madonie: the interior changes your view of the island."
+      },
+      {
+        "nome": "Vendicari, Zingaro and Scala dei Turchi",
+        "testo": "Three stretches of wild coast: Vendicari in the southeast, with beaches and salt pans; the Zingaro reserve between Scopello and San Vito Lo Capo, with coves reachable only on foot; the Scala dei Turchi, a white marl cliff near Agrigento.",
+        "come": "By car to the entrance of each. At Zingaro and Vendicari you walk; for the Scala dei Turchi you go from the Realmonte beach.",
+        "quando": "Spring and early summer or September. In August they are crowded and scorching. Entry to the Zingaro is paid.",
+        "tempo": "Half a day each",
+        "consiglio": "Bring water, a hat and walking shoes even for the beach: there are no kiosks along the trails."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Palermo, morning: Norman Palace and Palatine Chapel.",
+          "Late morning: Cathedral and a walk toward the Quattro Canti.",
+          "Lunch: street food at Ballarò.",
+          "Afternoon: Monreale by bus or taxi.",
+          "Evening: back to Palermo, dinner with Sicilian wine."
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: Syracuse, Neapolis in the morning and Ortigia in the afternoon.",
+          "Day 2: Val di Noto by car, with Noto, Modica and Ragusa Ibla.",
+          "Day 3: Etna in the morning and Taormina in the afternoon, back to Catania."
+        ]
+      },
+      {
+        "titolo": "5 days",
+        "tappe": [
+          "Day 1: Palermo.",
+          "Day 2: Monreale and Segesta, sleep in Trapani.",
+          "Day 3: Selinunte and then toward Agrigento.",
+          "Day 4: Valley of the Temples at dawn or sunset, then Piazza Armerina.",
+          "Day 5: Catania and Etna."
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Central Palermo",
+        "perChi": "Those who want city, food and art",
+        "testo": "Ideal base for the west. Noisy and chaotic, with excellent markets, but parking is hard: better sleep somewhere with a garage."
+      },
+      {
+        "nome": "Catania",
+        "perChi": "Those who arrive by plane and want Etna",
+        "testo": "Base for Etna, Syracuse and Taormina. Baroque and lively, with a somewhat neglected center off the main streets. Busy evenings, movement at night too."
+      },
+      {
+        "nome": "Ortigia, Syracuse",
+        "perChi": "Those who want a pedestrian center and the sea",
+        "testo": "A small compact island, beautiful in the evening, with a limited traffic zone. Rooms are expensive in high season and parking is off the island."
+      },
+      {
+        "nome": "Ragusa Ibla and Modica",
+        "perChi": "Those who want a calm base for the Baroque",
+        "testo": "Calmer and cheaper than Taormina and Noto, with excellent food. You need a car and some patience with the uphill streets."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Arancine",
+        "testo": "Fried rice balls with ragù or butter and ham. In Palermo they are «arancine», feminine and round; in Catania «arancini», masculine and cone-shaped."
+      },
+      {
+        "nome": "Pasta alla Norma",
+        "testo": "Pasta with tomato, fried eggplant and salted ricotta. It is the dish of Catania."
+      },
+      {
+        "nome": "Palermo street food",
+        "testo": "Chickpea panelle, sfincione, bread with spleen. Eaten standing in the markets."
+      },
+      {
+        "nome": "Cannoli and cassata",
+        "testo": "The cannolo should be filled on the spot, with ricotta; the cassata is a ricotta and marzipan cake. Found in historic pastry shops."
+      },
+      {
+        "nome": "Granita with brioche",
+        "testo": "Granita of lemon, almond, pistachio or mulberry, with a brioche col tuppo: the summer breakfast. It is made with water, sugar and fruit, not with cream."
+      },
+      {
+        "nome": "Pasta con le sarde and sea urchins",
+        "testo": "In Palermo pasta with sardines, wild fennel and raisins; in Syracuse sea urchins in season, eaten with bread."
+      }
+    ],
+    attenzioni: [
+      "You need a car almost everywhere, but Palermo, Catania, Ortigia and Taormina have limited traffic zones with cameras: ask the hotel where to leave it and avoid fines.",
+      "Extreme heat from July to August, often above 40 degrees inland and at shadeless archaeological sites: water, a hat, visits at dawn or sunset.",
+      "Etna: above a certain altitude a guide is mandatory and access depends on the volcano's activity and the weather. Check the park's notices before leaving.",
+      "Pickpockets in the markets and the centers of Palermo and Catania: bag in front, phone in pocket.",
+      "Travel times are longer than expected on inland state roads: add a third to what the map says.",
+      "Tourist tax in the main cities: paid at the hotel, check the municipality's amount."
+    ],
     esperienzeSlugs: ['etna'],
     tripSlugs: ['sicilia-itinerario', 'sicilia-completa'],
     imageAlt: "Taormina seen from above with houses on the hillside and the Ionian Sea in the background, Sicily",
@@ -954,6 +2220,169 @@ export const destinazioniItalia: Destinazione[] = [
     ],
     miaEsperienza:
       "Sardinia has a perception problem: you associate it with the sea, and the sea is among the most beautiful in the Mediterranean (Cala Goloritzé, with that limestone pinnacle and transparent water, holds up against any comparison). But the surprise lies twenty kilometers from the coast, in the interior, where a fraction of the people arrive. The Gorropu gorge is a fissure between walls that reach five hundred meters, where you walk on boulders as big as cars with a strip of sky above: it looks like an American canyon and it's in the Barbagia. And the nuraghi are the strangest thing in Italy: seven thousand dry-stone towers built between 1800 and 1100 BC by a civilization we know almost nothing about, without writing, and it isn't even clear with certainty what those towers were for. At Barumini you go inside and climb internal stairs in the thickness of the wall. Then there's a practical thing to know: the most beautiful coves have been capped precisely because they were being destroyed, and today without a reservation you don't get in.",
+    luoghi: [
+      {
+        "nome": "Cala Goloritzé",
+        "testo": "A small cove of white pebbles under a 143-meter limestone pinnacle, in the Gulf of Orosei, with clear water. It stands up to any Caribbean comparison. Access is regulated to protect it.",
+        "come": "On foot from the Golgo plateau, in Baunei, by a trail of about an hour and a half that drops through the scrub. By boat you can approach, but landing is limited. Booking is required.",
+        "quando": "Early morning, when you walk in the cool and the cove is still empty. May-June and September. Book before leaving: the number of daily accesses is limited.",
+        "tempo": "3-4 hours for the descent, a swim and the climb back",
+        "consiglio": "Hiking shoes and a liter and a half of water each: the climb back on a summer afternoon is hard."
+      },
+      {
+        "nome": "Gulf of Orosei by boat: Cala Mariolu and Cala Luna",
+        "testo": "A series of coves under the cliff, reachable almost only by sea: Cala Luna with its caves, Cala Mariolu with pink and white pebbles, Cala Sisine. From the sea you see a stretch of coast that you cannot see from land.",
+        "come": "Rubber boat or boat from Cala Gonone, leaving from the port. The captain decides the route and stops. Book ahead in summer.",
+        "quando": "Morning, with calm seas. Trips run from May to October. The water is clearer before noon.",
+        "tempo": "A full day",
+        "consiglio": "Book a small rubber boat to land in the narrowest coves, where the big boats cannot reach."
+      },
+      {
+        "nome": "Gorropu Gorge",
+        "testo": "A cleft carved by the Rio Flumineddu between limestone walls up to 500 meters high, in the Supramonte. You walk on boulders as big as cars, with a strip of sky overhead. It looks like an American canyon and it is in Barbagia.",
+        "come": "By car from Dorgali or Urzulei to Sa Barva, then a trail of about an hour and a half to the gorge entrance, with a river crossing. Access has rules and a ticket: check first.",
+        "quando": "Spring and autumn. In summer it is hot and the gorge fills up. After heavy rain the stream can block the way.",
+        "tempo": "Half a day, a full day for the long trek",
+        "consiglio": "Learn the access rules and consider a guide: the trail disappears in the riverbed."
+      },
+      {
+        "nome": "Orgosolo and Oliena, Barbagia",
+        "testo": "Orgosolo is famous for the political murals on its houses, painted from the 1960s on: peasant struggles, wars, rights. Oliena lies at the foot of the Supramonte, with Cannonau vineyards and a view of Monte Corrasi.",
+        "come": "By car from Nuoro: Oliena 15 minutes, Orgosolo 25. You walk in the villages; the murals are all along the street.",
+        "quando": "Morning or late afternoon. In autumn, with Autunno in Barbagia, the villages open houses and workshops to visitors.",
+        "tempo": "Half a day each",
+        "consiglio": "Respect the people who live in the painted houses: ask before photographing portraits."
+      },
+      {
+        "nome": "Su Nuraxi di Barumini",
+        "testo": "The best-preserved nuraghic complex on the island, a UNESCO site: a central tower surrounded by bastions and a stone village, built between 1500 and 500 BC. At Barumini you go inside and climb internal stairs in the thickness of the wall.",
+        "come": "By car from Cagliari in about an hour and a quarter; by train and then bus, with limited connections. The visit is with a guide, who takes the group through the different rooms.",
+        "quando": "Morning or late afternoon. Hours vary with the season: check the Foundation's site before going.",
+        "tempo": "1.5 hours",
+        "url": "https://www.fondazionebarumini.it/",
+        "consiglio": "A nuraghe looks like a pile of stones until you go in: the internal stairs explain how it was built."
+      },
+      {
+        "nome": "La Pelosa, Stintino",
+        "testo": "A beach of white sand and shallow water, facing the Aragonese tower and Piana island. It is among the most photographed in Italy. To protect it, access is capped.",
+        "come": "By car to Stintino, in the northwest, then on foot from the car parks. Booking is mandatory and paid, with a mat under the towel.",
+        "quando": "Early morning. June and September, avoiding July and August. With the mistral the sea is rough and the beach partly closed.",
+        "tempo": "Half a day",
+        "consiglio": "Book days ahead and bring the mat: without it you cannot sit on the sand."
+      },
+      {
+        "nome": "La Maddalena archipelago",
+        "testo": "A group of islands of pink granite and green water in the northeast: La Maddalena, Caprera with Garibaldi's house, Spargi, Santa Maria. Budelli and the pink beach are now protected and off limits.",
+        "come": "Ferry from Palau to La Maddalena in about fifteen minutes, with a car if you like. For the other islands you need boats or rubber boats.",
+        "quando": "June and September. In August it is very crowded and boats are scarce.",
+        "tempo": "A full day",
+        "consiglio": "Book the boat trip early: August spots go fast."
+      },
+      {
+        "nome": "Alghero and Neptune's Grotto",
+        "testo": "Alghero has a Catalan-flavored center, with seaside ramparts and the language still spoken. At Capo Caccia, half an hour away, Neptune's Grotto is a large cave with stalactites and an inner lake.",
+        "come": "Alghero by plane or car. For the grotto: a boat from Alghero's port or on foot down the Escala del Cabirol, a 654-step staircase cut into the cliff.",
+        "quando": "Morning. The boat does not sail in rough seas. The sunset over Alghero's ramparts is lovely.",
+        "tempo": "Half a day for the grotto, a full day with Alghero",
+        "consiglio": "Choose the stairs or the boat according to the sea: if it is rough the grotto may be closed."
+      },
+      {
+        "nome": "Porto Flavia and the Piscinas dunes",
+        "testo": "In the Sulcis-Iglesiente, the disused mines form a geo-mining landscape. Porto Flavia is a port dug into the Masua cliff to load minerals onto ships. At Piscinas, on the Costa Verde, the dunes are among the highest in Europe.",
+        "come": "By car from Iglesias: Masua is 25 minutes away; Piscinas 40, with a stretch of dirt road. Porto Flavia is visited by booking and with a guide.",
+        "quando": "Spring and autumn. In summer the dunes are scorching.",
+        "tempo": "Half a day each",
+        "consiglio": "Visit the dunes at the end of the day, when the sand has lost its heat."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: Cala Gonone, rubber-boat trip in the Gulf of Orosei.",
+          "Day 2: Gorropu Gorge in the morning, Oliena and Orgosolo in the afternoon.",
+          "Day 3: Cala Goloritzé on foot from the Golgo, booked."
+        ]
+      },
+      {
+        "titolo": "5 days",
+        "tappe": [
+          "Day 1: arrive in Olbia, ferry from Palau to La Maddalena and a boat trip.",
+          "Day 2: from Palau toward Alghero along the coast.",
+          "Day 3: Alghero, ramparts and Neptune's Grotto.",
+          "Day 4: La Pelosa at Stintino, then toward the center of the island.",
+          "Day 5: Su Nuraxi di Barumini and back to Cagliari."
+        ]
+      },
+      {
+        "titolo": "7 days",
+        "tappe": [
+          "Day 1: Cagliari and Su Nuraxi di Barumini.",
+          "Day 2: Barbagia, Oliena and Orgosolo.",
+          "Day 3: Gorropu.",
+          "Day 4: Gulf of Orosei by boat.",
+          "Day 5: Cala Goloritzé.",
+          "Day 6: Alghero and Neptune's Grotto.",
+          "Day 7: Stintino and La Pelosa, flight from Alghero."
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Northeast: Palau and La Maddalena",
+        "perChi": "Those who want sea and the archipelago",
+        "testo": "Base for the islands and the beaches of Gallura. The Costa Smeralda is close and expensive. Frequent ferries to La Maddalena. Very crowded in high season."
+      },
+      {
+        "nome": "Center-east: Cala Gonone, Dorgali, Baunei",
+        "perChi": "Those who want coves and trekking",
+        "testo": "Base for the Gulf of Orosei, Gorropu and Goloritzé. Long, winding roads; the inland villages have agriturismi with excellent value."
+      },
+      {
+        "nome": "Northwest: Alghero and Stintino",
+        "perChi": "Those who want a town and beaches",
+        "testo": "Alghero has a lively center and the airport; Stintino is an hour away, near La Pelosa. With the mistral the sea changes from one side to the other."
+      },
+      {
+        "nome": "Southwest: Sulcis and Costa Verde",
+        "perChi": "Those looking for less-visited beaches",
+        "testo": "Almost empty beaches and dunes, mines, Carloforte. Farther from everything, you need a car and a few extra days."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Porceddu",
+        "testo": "Roast suckling pig on the spit, with crisp skin and a scent of myrtle. It is the dish of feasts and agriturismo lunches."
+      },
+      {
+        "nome": "Culurgiones",
+        "testo": "Ogliastra ravioli with potato, mint and pecorino, sealed in a wheat-ear pattern. Dressed with tomato sauce."
+      },
+      {
+        "nome": "Pane carasau",
+        "testo": "Thin, crisp shepherd's bread, eaten with oil or as the base of «pane guttiau»."
+      },
+      {
+        "nome": "Pecorino sardo and fiore sardo",
+        "testo": "Sheep's cheeses at every stage of aging, the fiore sardo also smoked. Buy them from the producers."
+      },
+      {
+        "nome": "Cannonau and Vermentino",
+        "testo": "Cannonau is the signature red, from the vineyards of Oliena and Jerzu. Vermentino di Gallura is the island's only DOCG."
+      },
+      {
+        "nome": "Mirto",
+        "testo": "The berry liqueur, drunk cold at the end of a meal. The home-made kind is sweeter."
+      }
+    ],
+    attenzioni: [
+      "Several beaches and coves have capped access with paid booking (La Pelosa, Cala Goloritzé and some in the Gulf of Orosei): check and book first, without it you do not get in.",
+      "Taking away sand, pebbles and shells is forbidden: fines are heavy and there are checks at ports and airports.",
+      "Car ferries for summer are booked months ahead and prices rise in July and August.",
+      "Treks such as Gorropu and Goloritzé: it is hot in summer, you need plenty of water, proper shoes, and after storms the streams can block the way.",
+      "Summer fires: open flames and barbecues are banned in the scrub, and roads can close. Respect the municipalities' bans.",
+      "Narrow, winding inland roads with sheep and blind bends: halve the speed your navigator suggests and fill up before entering the Supramonte."
+    ],
     esperienzeSlugs: ['gorropu', 'cala-goloritze'],
     tripSlugs: ['sardegna-due-anime'],
     imageAlt: "The Costa Smeralda seen from above with Mediterranean scrub, inlets and islands in the background, Sardinia",
@@ -1108,6 +2537,148 @@ export const destinazioniItalia: Destinazione[] = [
     ],
     miaEsperienza:
       "On the smaller islands, going in June or in August means finding two different places: they're small, with a finite number of beds, restaurants and boats, and when the August load arrives they stop working the way they do the rest of the year. Of them all, the strongest memory is Stromboli seen from the sea at night: you sit on a boat with the engine off in front of the Sciara del Fuoco, in the dark, and every few minutes the crater spits incandescent material that rolls down the slope to the water. No special effects: it's a volcano doing what it has done for millennia, with an inhabited village below. The other surprise is Pantelleria, the Italian anti-island: no sand, wind always, black rock, and a viticulture in which the vines are grown in pits dug into the ground to protect them from the wind, a technique declared intangible heritage by UNESCO. You go there to understand what it means to grow something in a hostile place.",
+    luoghi: [
+      {
+        "nome": "Stromboli",
+        "testo": "A volcano island with near-continuous eruptions from the crater, visible roughly every 10-20 minutes. Below the Sciara del Fuoco sits the village, with few inhabitants. The strongest memory for me was seeing it from the sea at night, engine off in front of the Sciara, as the crater throws incandescent material down to the water.",
+        "come": "Hydrofoil from Milazzo (about 2.5 hours) or from Lipari and the other Aeolians. On the island you walk and use ape-taxis. The climb requires authorized guides.",
+        "quando": "Climb only with a guide and only up to the altitude set by ordinance (for guided excursions currently 400 meters, the summit has been banned since 2019): check before booking. June and September, in calm seas, for boat trips.",
+        "tempo": "1 full day, better one night",
+        "consiglio": "In the evening have dinner on Stromboli and go out by boat in the dark: you do not need the summit to see the explosions. Headlamp, hiking shoes and a sweater even in September."
+      },
+      {
+        "nome": "Salina",
+        "testo": "The second largest of the Aeolian Islands, two twin volcanic cones covered in green, with malvasia vineyards and capers. It has villages like Malfa and Pollara, where 'Il postino' was filmed, and trails on Monte Fossa delle Felci.",
+        "come": "Hydrofoil from Milazzo or Lipari; in high season landings at Santa Marina and Rinella. On the island there are few buses and a scooter is best.",
+        "quando": "June and September. In summer the sunset from Pollara is crowded; better early morning.",
+        "tempo": "1-2 days",
+        "consiglio": "Try the sunset from Pollara and the malvasia passito at a winery. In August connections are full."
+      },
+      {
+        "nome": "Lago Specchio di Venere, Pantelleria",
+        "testo": "A thermal lake in the crater of an extinct volcano, with warm water on the shore and mud used for baths. From above it is heart-shaped, just above the road to Bukkuram. Pantelleria is closer to Africa than to Sicily: black rock, wind and bush vines grown in pits dug in the ground, a technique recognized by UNESCO.",
+        "come": "You need a car or scooter from Pantelleria town. You arrive by flight from Trapani, Palermo or Catania, or by Siremar ferry from Trapani (about 6-7 hours, services are cancelled in rough seas) or Liberty Lines hydrofoil (about 2.5 hours).",
+        "quando": "Spring and autumn for walking, June and September for swimming. The island is very windy. The mud and swim in the lake are nicer in the morning.",
+        "tempo": "2-3 hours",
+        "consiglio": "If you do the mud bath, take off jewelry and rinse in the lake before leaving. Bring rock shoes: there are no sand beaches."
+      },
+      {
+        "nome": "Dammusi, Pantelleria gardens and Montagna Grande",
+        "testo": "Dammusi are domed lava-stone houses built to resist wind and heat. Pantelleria gardens are circular stone walls protecting a single citrus tree. Montagna Grande is the island's peak, 836 meters, with trails in the woods.",
+        "come": "Inland roads to drive by car or scooter. Trails start from the road to Montagna Grande.",
+        "quando": "Spring and autumn. Summer is scorching by day and sirocco days make trails difficult.",
+        "tempo": "half a day",
+        "consiglio": "The local wineries do passito tastings: book. Bush vines are seen mostly in the south."
+      },
+      {
+        "nome": "Capri: Faraglioni and the Blue Grotto",
+        "testo": "The three Faraglioni are rocks over 100 meters high to the south-east, best seen from a boat. The Blue Grotto is visited in small rowing boats from Marina Grande but stays closed in rough seas. In summer Capri is overrun by day-trippers.",
+        "come": "Hydrofoil or ferry from Naples (40-80 minutes) and from Sorrento. On the island you go by bus and funicular, then walk.",
+        "quando": "May, June and September; off season Capri is another island. The Blue Grotto can be visited in calm seas, early morning.",
+        "tempo": "1 day, better 2 with a night",
+        "consiglio": "To escape the crowd, go around the island by boat early in the morning and then go up to Anacapri. In the afternoon the Faraglioni are better in backlight."
+      },
+      {
+        "nome": "Procida: Marina Corricella and Terra Murata",
+        "testo": "The smallest and least expensive of the three islands in the Gulf of Naples. Marina Corricella is a fishermen's harbor with painted houses, Terra Murata the upper village with the abbey of San Michele Arcangelo.",
+        "come": "Ferry or hydrofoil from Naples (Molo Beverello and Calata Porta di Massa) or from Pozzuoli, about 40 minutes. On the island you walk and minibuses run.",
+        "quando": "All year, but from May to September. In July and August day boats bring many people.",
+        "tempo": "1 day",
+        "consiglio": "Go down to Corricella by the stairway and eat in one of the places on the quay."
+      },
+      {
+        "nome": "Ponza and Palmarola",
+        "testo": "Ponza is an island of yellow tuff, with caves and coves. Palmarola, uninhabited, has cliffs and natural arches, and is reached by fishermen's boats from Ponza. The sea is among the clearest of the Tyrrhenian.",
+        "come": "Ferry or hydrofoil from Anzio, Formia, Terracina (1 to 2.5 hours). On the island you walk or take the bus; the boat tour is booked at the port.",
+        "quando": "June and September. In August Ponza fills up with the Rome crowd.",
+        "tempo": "1-2 days",
+        "consiglio": "The boat tour is the best way: leave early and stop for a swim at Palmarola. Chiaia di Luna is often closed because of landslide risk."
+      },
+      {
+        "nome": "Tremiti Islands",
+        "testo": "The only archipelago in the Adriatic, with San Domino and San Nicola and a marine protected area. San Domino has pine woods, coves and caves. San Nicola has the fortified abbey with a 360-degree view.",
+        "come": "Ferries and hydrofoils from Termoli, Vieste, Peschici, Rodi Garganico, Ortona. From Termoli about 1 hour by hydrofoil.",
+        "quando": "June and September. In winter connections are reduced.",
+        "tempo": "1-2 days",
+        "consiglio": "Snorkel with a local operator: the area is protected and boat access is regulated."
+      },
+      {
+        "nome": "Favignana",
+        "testo": "An island of the Egadi, flat in the east, with tuff quarries and the large former Florio plant for processing tuna. The island has turquoise sea at Cala Rossa and Lido Burrone.",
+        "come": "Hydrofoil from Trapani (about 25 minutes) or from Marsala. On the island you rent a bike: distances are under six kilometers.",
+        "quando": "May, June and September. Early in the morning the coves are empty.",
+        "tempo": "1 day",
+        "consiglio": "Bike tour of the quarries, then a tuna dinner. Book the bike in high season."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: hydrofoil from Milazzo, arrival at Salina, tour and sunset at Pollara",
+          "Day 2: transfer to Stromboli, dinner on the island",
+          "Day 3: boat trip towards the Sciara del Fuoco in the dark"
+        ]
+      },
+      {
+        "titolo": "4 days",
+        "tappe": [
+          "Days 1-2: Capri and Procida from the Gulf of Naples",
+          "Days 3-4: Ponza and Palmarola with a boat tour"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Aeolians: Salina, Lipari or Stromboli",
+        "perChi": "those who want several islands in one trip",
+        "testo": "Salina is green and quiet, Lipari the most convenient, Stromboli small and spartan. Services depend on the sea and are often cancelled."
+      },
+      {
+        "nome": "Pantelleria",
+        "perChi": "those looking for an island of character without sand",
+        "testo": "You sleep in dammusi, you need a car. The wind is constant and connection times change with the weather."
+      },
+      {
+        "nome": "Gulf of Naples: Procida",
+        "perChi": "those with few days",
+        "testo": "Procida costs less than Capri and Ischia, village life, 40 minutes from Naples."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Pane cunzato and capers, Aeolians",
+        "testo": "Bread dressed with tomato, anchovies, capers, oregano and cheese. The capers of Salina are a Slow Food presidium."
+      },
+      {
+        "nome": "Malvasia delle Lipari",
+        "testo": "Sweet white wine from dried grapes, the Malvasia of Salina and Lipari. Drunk at the end of the meal."
+      },
+      {
+        "nome": "Passito di Pantelleria",
+        "testo": "Sweet wine from zibibbo grapes grown as bush vines, UNESCO heritage. Tasted in the local wineries, by booking."
+      },
+      {
+        "nome": "Ischia-style rabbit",
+        "testo": "A land dish from Ischia: rabbit in a casserole with tomato, garlic and wine. Eaten in the country trattorias."
+      },
+      {
+        "nome": "Favignana tuna",
+        "testo": "Bluefin tuna processed for generations in the Florio plant. Tinned or fresh in the harbor restaurants."
+      },
+      {
+        "nome": "Land cooking",
+        "testo": "On the minor islands fish is expensive and land cooking is cheap and often better."
+      }
+    ],
+    attenzioni: [
+      "In July and August the minor islands are saturated and prices multiply: book lodging and ferries months ahead or go in June and September.",
+      "Rough seas block hydrofoils and ferries: do not plan tight connections with flights or trains on the same day.",
+      "Stromboli: the climb to the crater is allowed only with authorized guides and up to the altitude set by ordinance, which changes. Anyone who climbs alone risks fines and danger.",
+      "Many islands limit or ban cars landing in summer: bringing the car is almost always pointless and expensive.",
+      "Fresh water is scarce and arrives by tanker ships: use it sparingly.",
+      "Off season (November-March) many businesses are closed and connections reduced: check what is open before leaving."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['eolie-in-vela', 'isole-siciliane', 'costiera-e-isole'],
     imageAlt: "The Isola dei Conigli in Lampedusa surrounded by clear turquoise water",
@@ -1259,6 +2830,139 @@ export const destinazioniItalia: Destinazione[] = [
     ],
     miaEsperienza:
       "In unexplored Italy you grasp how concentrated tourism is in this country: fifty million people a year spread over about ten cities and coasts, and two hours from those same cities there are valleys where you walk half a day without meeting anyone. More than the scenery, beautiful but not extraordinary compared with the Alps, what stands out is the relationship with the people who live there. In a village of three hundred inhabitants in the Apennines nobody tries to sell you anything, because there's no market: they ask where you're from, and the answer interests them. You eat in trattorias with no menu where you ask what there is and three courses arrive for twenty-five euros with the house wine. The flip side you need to know: there are no flexible hours, no connection, no information office, and anyone arriving at three in the afternoon looking for lunch finds everything closed. And you can't ignore why these places are empty: they're being depopulated. There are villages with more empty houses than occupied ones and an average age above sixty. Seeing them now means seeing them while they're still there.",
+    luoghi: [
+      {
+        "nome": "Pietrabbondante and Samnite Molise",
+        "testo": "The Samnite sanctuary of Pietrabbondante, at about 1,000 meters in Alto Molise, has a theater-temple from the second century BC with stone seats and the main temple. Around it stretch empty hills crossed by the tratturi, the transhumance routes recognized by UNESCO.",
+        "come": "By car: about 45 minutes from Isernia, 1.5 hours from Campobasso. No useful public transport. You visit on your own, with panels.",
+        "quando": "Spring and autumn. Check opening hours and days with the town hall or the Soprintendenza before leaving, especially off season.",
+        "tempo": "1-2 hours, plus a tour of the villages",
+        "consiglio": "Combine the visit with lunch in a village trattoria: 12.30-2, then they close."
+      },
+      {
+        "nome": "Termoli",
+        "testo": "A small seaside town with the old village on the promontory, the Swabian castle and the trabucchi, the ancient fishing machines on stilts. It is the port from which ferries leave for the Tremiti Islands.",
+        "come": "Train on the Adriatic line or A14 motorway. The old village is 15 minutes on foot from the station.",
+        "quando": "May-June and September. In August it fills with Italian holidaymakers.",
+        "tempo": "half a day",
+        "consiglio": "Eat brodetto alla termolese in one of the places at the port, and walk the seafront at sunset."
+      },
+      {
+        "nome": "Pollino National Park",
+        "testo": "The largest park in Italy, between Basilicata and Calabria, with peaks over 2,000 meters and Bosnian pines, centuries-old trees that grow at high altitude only here and in a few places in the Balkans. Trails start from the passes of Colle Impiso and Piano di Ruggio.",
+        "come": "By car only. From Terranova di Pollino or San Severino Lucano. Navigate with a map or trail app; mountain shoes needed.",
+        "quando": "June-September for the altitude, October for the colors. From November to May snow and closed roads.",
+        "tempo": "1-2 days",
+        "consiglio": "Fill the tank and bring food: in mountain villages shops close early. The weather changes fast above 1,800 meters."
+      },
+      {
+        "nome": "Sibillini Mountains and Castelluccio di Norcia",
+        "testo": "A park with peaks over 2,000 meters and the Piano Grande plateau of Castelluccio, known for the flowering of lentils and wild flowers. The 2016 earthquake hit many villages: today they are partly rebuilt.",
+        "come": "By car from Norcia (about 40 minutes) or from the Marche. Some roads may be closed because of landslides or works: check.",
+        "quando": "The flowering concentrates between late May and July. On flowering weekends the Piano fills up with cars.",
+        "tempo": "1 day",
+        "url": "https://www.sibillini.net/",
+        "consiglio": "Visit on a weekday and early in the morning for the best light, and do not walk among the flowering fields."
+      },
+      {
+        "nome": "Carnia and the Friuli valleys",
+        "testo": "Alpine valleys with stone houses, villages like Sauris and Forni di Sopra and a border culture between Friulian, German and Slovenian. The albergo diffuso was born here, using the houses of emptied villages.",
+        "come": "By car from Udine towards Tolmezzo (about 1 hour). The valleys are toured by car and short walks.",
+        "quando": "June-September for trails, winter for snow. Friuli is among the rainiest areas of Italy.",
+        "tempo": "2-3 days",
+        "consiglio": "Try Sauris ham and mountain-pasture cheese, and ask the tourist office about trails."
+      },
+      {
+        "nome": "Val Grande",
+        "testo": "The largest wilderness area in Italy, with no roads or inhabited villages, between Lake Maggiore and Switzerland. There are abandoned alpine pastures retaken by the forest and poorly marked trails. Not for beginners.",
+        "come": "Access starts from Cicogna, Premosello and the Val d'Ossola. You need self-sufficiency, maps and water: the bivouacs are essential and there is no signal.",
+        "quando": "Late spring to autumn. After rain the trails can be impassable.",
+        "tempo": "2-4 days of trekking",
+        "url": "https://www.parcovalgrande.it/",
+        "consiglio": "Ask the park authority for information before leaving and tell someone your route. Every year there are rescues for those who underestimate the area."
+      },
+      {
+        "nome": "Aspromonte and Pentedattilo",
+        "testo": "A national park that goes from the sea to 1,900 meters in a few kilometers. Pentedattilo is a ghost village at the foot of a hand-shaped rock; Roghudi and Gallicianò are Greek-speaking communities where ancient Greek is still spoken.",
+        "come": "By car from Reggio Calabria (about 1 hour). Inland roads are slow and in places in poor condition.",
+        "quando": "Spring and autumn. Summer is scorching on the coast.",
+        "tempo": "2-3 days",
+        "consiglio": "At the Archaeological Museum of Reggio Calabria you see the Riace Bronzes: do it on the day of arrival or departure."
+      },
+      {
+        "nome": "Via degli Dei",
+        "testo": "A walk of about 130 km from Bologna to Florence following the ancient Roman road across the Apennines. You sleep in hostels and guesthouses and walk 4-5 days, with climbs and stairways.",
+        "come": "Train to Bologna for the start, return by train from Florence. The route is marked; hostels to be booked.",
+        "quando": "April-June and September-October. In summer the heat and in winter the mud.",
+        "tempo": "4-5 days",
+        "consiglio": "Book beds in advance and carry little weight: the stages are long."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: Pietrabbondante and lunch in a village trattoria",
+          "Day 1 evening: Isernia or an agriturismo",
+          "Day 2: Termoli, old village and trabucchi, then the sea"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: Pollino, trail to the Bosnian pines",
+          "Day 2: Lucanian villages and dinner in a trattoria",
+          "Day 3: Castelluccio or Aspromonte, depending on the direction of the trip"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Agriturismi and alberghi diffusi",
+        "perChi": "those who want low prices and real food",
+        "testo": "Fifty to seventy euros for two with breakfast is the norm. You need a car and a booking: many places close between November and March."
+      },
+      {
+        "nome": "Provincial capitals (Isernia, Campobasso, Reggio Calabria)",
+        "perChi": "those arriving by train",
+        "testo": "Convenient as a base for regional trains, but not very interesting. From there you take the car for the villages."
+      },
+      {
+        "nome": "Village B&Bs",
+        "perChi": "those who want to talk to the locals",
+        "testo": "Few beds, family hospitality. Ask where to eat: often there is no written menu."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Cavatelli and handmade pasta",
+        "testo": "In inland Italy fresh pasta changes name every twenty kilometers. Eaten in village trattorias, often without a menu."
+      },
+      {
+        "nome": "Caciocavallo and small-production cheeses",
+        "testo": "Mountain-pasture and family dairy cheeses, from Molise to Carnia."
+      },
+      {
+        "nome": "Frico of Carnia",
+        "testo": "Cheese and potatoes cooked in a pan until a golden crust. A Friulian mountain dish."
+      },
+      {
+        "nome": "Peperoni cruschi of Senise",
+        "testo": "Dried and fried crunchy peppers, typical of Basilicata and the Pollino area."
+      },
+      {
+        "nome": "Castelluccio lentils",
+        "testo": "Small lentils grown on the Sibillini plateau, eaten in soup."
+      }
+    ],
+    attenzioni: [
+      "Car is mandatory: in these areas public transport reaches the provincial capitals and then stops. Add a third to the times estimated by maps.",
+      "People eat between 12.30 and 2 and early in the evening; on Sunday evening and Monday many places are closed. At 3 pm you find nothing.",
+      "Phone signal is missing in many valleys: download offline maps and fill the tank when you can.",
+      "Val Grande and the high Pollino are environments for experienced hikers: changing weather, few huts, rescue far away.",
+      "In August the villages fill with emigrants coming back: it is the liveliest period, not the quietest.",
+      "After the 2016 earthquake some roads and villages of the Sibillini have closures: check the park authority's notices."
+    ],
     esperienzeSlugs: ['cammini-italia'],
     tripSlugs: [],
     imageAlt: "Civita di Bagnoregio perched on its tuff spur, reachable only by the long pedestrian bridge, in the Tuscia",
@@ -1443,6 +3147,166 @@ export const destinazioniItalia: Destinazione[] = [
     ],
     miaEsperienza:
       "Wine routes are the best way to see agricultural Italy instead of monumental Italy, and one mundane thing changes everything: booking. A winery is a farm with work to do: those who arrive without an appointment usually find the gate closed, while those who write an email three days earlier are received by the producer in person, who has an hour for you. The second thing I understood concerns the relationship between fame and value: the Langhe are extraordinary and cost accordingly, but on Etna there are ungrafted vines over a hundred years old (phylloxera never reached that lava soil), and in Irpinia you drink an Aglianico that holds up against reds costing four times as much, in cellars where you walk in and the owner is there racking wine. The most serious practical problem, which nobody addresses when planning, is who drives: you visit wineries in hilly areas, you taste, and the temptation to pretend nothing is wrong is strong. The serious solutions are two: taste and spit, as professionals do, or pay for a driver.",
+    luoghi: [
+      {
+        "nome": "Barolo and La Morra (Langhe)",
+        "testo": "The hills of Barolo, a UNESCO site with Langhe-Roero and Monferrato, are covered in nebbiolo vineyards. The village of Barolo has the Falletti castle and La Morra the lookout over the sea of hills. Here wine is the pretext for an agrarian landscape built over centuries.",
+        "come": "By car from Alba (about 20 minutes). Wineries receive by appointment: write three days ahead. Many roads are narrow and steep.",
+        "quando": "September-October for the harvest, or April-June with the green. In August many wineries close.",
+        "tempo": "1 day, 2 wineries",
+        "consiglio": "Book one winery in the morning and one in the afternoon. After the third you taste nothing with care."
+      },
+      {
+        "nome": "Alba and the white truffle",
+        "testo": "Capital of the Langhe, with the international white truffle fair in autumn, when the city fills up. It has towers, arcades and shops of chocolate and hazelnuts.",
+        "come": "Non-direct train from Turin: better by car (about 1 hour). In the city you go on foot.",
+        "quando": "October-November for the truffle. Outside the fair Alba is quieter.",
+        "tempo": "half a day",
+        "consiglio": "At the fair truffle prices are high: ask for the weight and price before ordering, and prefer restaurants with seasonal truffle."
+      },
+      {
+        "nome": "Valpolicella (Veneto)",
+        "testo": "Hills north-west of Verona where Amarone is made: the grapes dry for months in the fruttaie before pressing. Venetian villas and Romanesque parish churches dot the villages of Fumane and San Pietro in Cariano.",
+        "come": "By car or taxi from Verona (about 20-30 minutes). Wineries receive by appointment.",
+        "quando": "September-October for the harvest, January-February for the pressing of the dried grapes.",
+        "tempo": "1 day",
+        "consiglio": "If the driver does not drink, a taxi from Verona to the wineries is a simple solution."
+      },
+      {
+        "nome": "Prosecco hills between Conegliano and Valdobbiadene",
+        "testo": "A UNESCO site since 2019: rows of vines on steep hills, with the Prosecco superiore road running through villages and osterias. Cartizze is the most prized vineyard, on a hill of a few hectares.",
+        "come": "By car from Treviso (about 40 minutes) or train to Conegliano. By bike you can ride among the rows.",
+        "quando": "Spring and autumn. Not in August: it is hot and many wineries are closed.",
+        "tempo": "1 day",
+        "consiglio": "The osterias of Valdobbiadene serve sparkling Prosecco with cured meats: have lunch there after the winery visit."
+      },
+      {
+        "nome": "Chianti Classico (Tuscany)",
+        "testo": "The area between Florence and Siena with Greve, Castellina, Radda and Gaiole. The Gallo Nero is the consortium's mark. Parish churches, castles and farms alternate with vines and olive groves.",
+        "come": "By car from Florence or Siena (about 40-50 minutes). The Chiantigiana road runs through the villages.",
+        "quando": "April-June and September-October. In summer there are many coach tours.",
+        "tempo": "1-2 days",
+        "consiglio": "Sleep in an agriturismo and visit small wineries: often the producer himself welcomes you."
+      },
+      {
+        "nome": "Montalcino and Brunello",
+        "testo": "A medieval village with the fortress and the Brunello cellars, pure sangiovese. The Romanesque Abbey of Sant'Antimo is a few kilometers away among olive trees.",
+        "come": "By car from Siena (about 50 minutes). Montalcino is toured on foot, the wineries are scattered around.",
+        "quando": "Spring and autumn. Book wineries well ahead.",
+        "tempo": "1 day",
+        "consiglio": "Visit the Abbey of Sant'Antimo early in the morning, when the monks sing."
+      },
+      {
+        "nome": "Etna (Sicily)",
+        "testo": "Contrade on the slopes of the volcano, with own-rooted nerello mascalese vines, spared by phylloxera. Some are over a hundred years old. Tastings are in lava-stone cellars.",
+        "come": "By car from Catania (about 40-60 minutes). Winding, slow roads. Base at Linguaglossa, Castiglione di Sicilia or Randazzo.",
+        "quando": "September-October for the harvest, but Etna is lovely in spring too.",
+        "tempo": "1-2 days",
+        "consiglio": "Ask to see the old vines: you understand why the lava soil saved the vines from the parasite."
+      },
+      {
+        "nome": "Collio and Colli Orientali (Friuli)",
+        "testo": "Hills on the Slovenian border, famous for white wines: ribolla gialla, friulano, malvasia. Many estates make skin-macerated wines, called orange.",
+        "come": "By car from Gorizia or Cormons (about 15 minutes). Wineries are small and family run.",
+        "quando": "Spring and autumn. In summer there is more sun.",
+        "tempo": "1-2 days",
+        "consiglio": "Cross the Slovenian border for lunch in a gostilna: a short distance away the cuisine changes."
+      },
+      {
+        "nome": "Irpinia and Vulture (Campania and Basilicata)",
+        "testo": "Two great reds of the south: Taurasi in Irpinia and Aglianico del Vulture, both from aglianico. In Irpinia also the whites Fiano di Avellino and Greco di Tufo. Zones with few tourists and low prices.",
+        "come": "By car only from Avellino or Potenza (about 1 hour). Few wineries have hospitality facilities.",
+        "quando": "September-October. Very hot summer.",
+        "tempo": "2 days, one per zone",
+        "consiglio": "Here you often find yourself in the cellar where the owner is racking wine: that is the moment to ask questions."
+      },
+      {
+        "nome": "Valtellina (Lombardy)",
+        "testo": "Terraced vineyards supported by hundreds of kilometers of dry-stone walls on steep slopes, for mountain nebbiolo, here called chiavennasca. Sforzato is made from dried grapes.",
+        "come": "Train from Milan to Tirano or Sondrio (2 hours). Moving between wineries requires a car.",
+        "quando": "September-October. In summer the valley floor is hot and busy.",
+        "tempo": "1-2 days",
+        "consiglio": "Walk a stretch of the Via dei Terrazzamenti, the path among the walls, before or after tastings."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: winery in Barolo, by booking",
+          "Lunch: osteria with Piedmontese dishes",
+          "Afternoon: second winery in La Morra and viewpoint",
+          "Evening: in Alba, aperitivo and dinner"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: Barolo, La Morra and lunch in an osteria",
+          "Day 2: Barbaresco and Alba",
+          "The driver tastes and spits, or you hire a driver"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Days 1-2: as above",
+          "Day 3: Roero and Monferrato, or Lake Orta",
+          "Back to Turin, with the Susa Valley as an alternative"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Alba and surroundings",
+        "perChi": "those who want food and truffle",
+        "testo": "A city of 30,000, a convenient base for the Langhe, but expensive in October. Slow trains, better by car."
+      },
+      {
+        "nome": "Agriturismi among the vines",
+        "perChi": "those looking for quiet",
+        "testo": "You sleep in the wineries themselves, with a view. You need a car and a booking, in high season prices rise."
+      },
+      {
+        "nome": "Verona or Siena",
+        "perChi": "those who tie wine to a city",
+        "testo": "You sleep in the city and go to the wineries by car: great if you like monuments, but no hills in the evening."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Tajarin and raw meat",
+        "testo": "The thin egg pasta of the Langhe and raw meat chopped with a knife. Eaten in all the osterias of Alba."
+      },
+      {
+        "nome": "Vitello tonnato",
+        "testo": "Piedmontese starter: cold veal with tuna sauce and capers."
+      },
+      {
+        "nome": "Risotto all'Amarone",
+        "testo": "A Valpolicella dish of risotto cooked in Amarone wine."
+      },
+      {
+        "nome": "Bistecca and pici",
+        "testo": "Florentine steak in Chianti; handmade pici in Montalcino and Montepulciano."
+      },
+      {
+        "nome": "Pasta alla Norma",
+        "testo": "Pasta with tomato, fried aubergine and salted ricotta, typical of Catania and Etna."
+      },
+      {
+        "nome": "Pizzoccheri",
+        "testo": "Buckwheat tagliatelle with cabbage, potatoes and cheese: a Valtellina dish."
+      }
+    ],
+    attenzioni: [
+      "Showing up at a winery without an appointment is mistake number one: many wineries receive only by booking, often a few days ahead.",
+      "The driver does not taste: penalties for drunk driving are severe and there are checks in the wine zones. Plan a driver, taxi or shuttle.",
+      "No more than two or three wineries a day, otherwise you lose taste and safety.",
+      "In August many wineries close or reduce visits, while at harvest they fill up.",
+      "In the famous zones (Barolo, Montalcino) lodging and tasting prices are high: consider Irpinia, Vulture, Valtellina and Etna.",
+      "Buying at the winery costs less than at the wine shop and you speak to the person who made the wine."
+    ],
     esperienzeSlugs: ['degustazione-cantina'],
     tripSlugs: ['rotte-dei-vini-itinerario'],
     imageAlt: "Vine-covered hills around Castellina in Chianti with a farmhouse among the cypresses, Tuscany",
@@ -1497,6 +3361,161 @@ export const destinazioniItalia: Destinazione[] = [
     ],
     miaEsperienza:
       "Turin is the major Italian city that arrives like a gift: nobody tells you to go, then you go and it holds up for two full days without effort. The centerpiece is the Egyptian Museum, and it's enormous: the second Egyptian collection in the world after Cairo, with whole statues, papyri and the tomb of Kha and Merit reconstructed with all the grave goods found intact. It takes three hours, and that's not a figure of speech. The Mole, on the other hand, is the most absurd thing: born as a synagogue, never used as one, turned into the symbol of the city, and today a cinema museum with a transparent-cabin elevator that rises through the void of the dome, above the heads of visitors lying on sofas watching film clips. Then there's the part almost nobody does, the hill: you take the rack tram and go up to Superga, where the Savoy tombs are and, at the back, the wall the Grande Torino plane crashed into in 1949. And in the evening the aperitivo, far from the Milanese fashion: the historic cafés with marble counters where you drink a vermouth made a hundred meters away.",
+    luoghi: [
+      {
+        "nome": "Museo Egizio",
+        "testo": "The most important Egyptian collection outside Cairo, born in 1824 from the nucleus gathered by consul Drovetti. The piece not to miss is the tomb of Kha and Merit, found intact in 1906 with all its grave goods. Then the Temple of Ellesiya, the Gallery of the Kings and the Papyrus of the Gold Mines.",
+        "come": "In the center, on foot from Piazza Castello or Piazza San Carlo. You enter with a ticket bought online for a time slot. Audioguide or app to understand the pieces.",
+        "quando": "Open every day. Monday 9-2, Tuesday-Friday and Sunday 9-6.30, Saturday 9-8, last entry one hour before closing. Early morning or Saturday evening to avoid crowds.",
+        "tempo": "3 hours, better 4",
+        "costo": "18 euros full price (2026)",
+        "url": "https://www.museoegizio.it/",
+        "consiglio": "Book the time slot online, especially on weekends and long weekends. Keep the Gallery of the Kings for the end, when your legs are tired."
+      },
+      {
+        "nome": "Mole Antonelliana and the National Cinema Museum",
+        "testo": "Started in 1863 as a synagogue and never used as one, it is the symbol of the city. Inside is the cinema museum, laid out in a spiral around the central hall, with reclining red armchairs in the middle. The glass panoramic lift rises through the void to the little temple at the top.",
+        "come": "On Via Montebello, 10 minutes on foot from Piazza Castello. Ticket for the museum, the lift or both, with a time slot.",
+        "quando": "On clear days the lift sells out: book ahead. Check the website for works or reduced opening.",
+        "tempo": "2-3 hours with the lift",
+        "costo": "museum 18 euros, lift 9 euros, combined 23 euros (2026)",
+        "url": "https://www.museocinema.it/",
+        "consiglio": "The combined ticket pays off if you do everything. On a clear day you can see Monviso behind the Alpine arc."
+      },
+      {
+        "nome": "Royal Museums and the Chapel of the Holy Shroud",
+        "testo": "Royal Palace, Royal Armory, Galleria Sabauda and Guarini's Chapel of the Holy Shroud, with its dome of stacked hexagons, reopened after the restoration that followed the 1997 fire. The Shroud is not on display: you see the chapel, not the cloth.",
+        "come": "In Piazza Castello, entrance from the courtyard. One ticket for the whole complex. You can walk around alone, the rooms have clear panels.",
+        "quando": "Open Thursday to Tuesday, 9-7, closed Wednesday. Ticket office closes an hour earlier. The first Sunday of the month is free with mandatory booking.",
+        "tempo": "3 hours",
+        "costo": "15 euros full price (2026)",
+        "url": "https://museireali.cultura.gov.it/",
+        "consiglio": "Two hours are enough for the Royal Palace, Armory and chapel: the Galleria Sabauda is for lovers of old paintings."
+      },
+      {
+        "nome": "Basilica di Superga and the rack tram",
+        "testo": "Juvarra's basilica on the hill east of the Po, with the Savoy tombs in the crypt. At the back is the Grande Torino memorial, where the plane crashed in 1949. From the terrace you see the city and the Alps.",
+        "come": "Historic rack tram from Sassi station (tram 15 from the center), about 20 minutes uphill. On Wednesday the tram is stopped and bus 79 runs instead.",
+        "quando": "Tram timetables differ between summer and winter: check the GTT website. Clear day, better in the afternoon for the light on the Alps.",
+        "tempo": "2-3 hours including the ride",
+        "url": "https://www.gtt.to.it/cms/turismo/sassisup",
+        "consiglio": "A walk along the ridge behind the basilica costs nothing and gives the best view. Check the fare when you go."
+      },
+      {
+        "nome": "Reggia di Venaria",
+        "testo": "Savoy hunting residence, a UNESCO site, with Juvarra's Galleria Grande, the Chapel of Sant'Uberto and the gardens. The complex is huge and also hosts exhibitions.",
+        "come": "From Porta Susa station or the center with bus line 11, about 40 minutes. By car 25 minutes. Entrance and tickets on the official website.",
+        "quando": "Closed on Monday. The gardens and park can be visited even in uncertain weather, but the rooms need a free day.",
+        "tempo": "half a day, a full day with the gardens",
+        "url": "https://www.lavenaria.it/",
+        "consiglio": "It needs a full morning: give it an extra day rather than squeezing it between the Egyptian Museum and the Mole."
+      },
+      {
+        "nome": "Roman Quadrilateral and Porta Palazzo",
+        "testo": "The oldest part of the city, with the Roman orthogonal grid and the first-century Porta Palatina, with its towers still standing. Nearby is Porta Palazzo, the largest open-air market in Europe.",
+        "come": "On foot from Piazza Castello, 5-10 minutes. The market is in Piazza della Repubblica.",
+        "quando": "Market in the morning, Monday to Saturday. In the evening the Quadrilateral is the aperitivo district.",
+        "tempo": "2 hours",
+        "costo": "free entry",
+        "consiglio": "At the market you can also buy the day's fruit and the spices from the North African stalls. Watch your pockets in the crowd."
+      },
+      {
+        "nome": "Historic cafés and bicerin",
+        "testo": "Turin invented the bicerin: coffee, chocolate and milk cream in layers, not to be stirred. You drink it in a glass at Caffè Al Bicerin, open since 1763, or in one of the cafés of Piazza San Carlo and the Galleria Subalpina. The vermouth aperitivo ritual was born here too.",
+        "come": "All in the center, on foot. Caffè Al Bicerin is in Piazza della Consolata, small and with few tables.",
+        "quando": "Bicerin in the morning or afternoon, vermouth from 6 pm. At Al Bicerin there is often a queue on weekends.",
+        "tempo": "1 hour per stop",
+        "consiglio": "The bicerin is not stirred: you drink it in layers, and each sip changes."
+      },
+      {
+        "nome": "Monte dei Cappuccini and Parco del Valentino",
+        "testo": "On the hill above the Po, the Monte dei Cappuccini gives the classic view with the Mole and the Alps behind. Lower down, the Parco del Valentino follows the river and holds the Borgo Medievale, a nineteenth-century reconstruction done with philological rigor.",
+        "come": "On foot from Piazza Vittorio Veneto: 10 minutes uphill. The Valentino is to the south, along the Po.",
+        "quando": "Clear day, better in the late afternoon. The park is always open.",
+        "tempo": "2 hours",
+        "consiglio": "Go up in the late afternoon light, then walk down towards the river."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: Egyptian Museum, booked, at least 3 hours",
+          "Lunch: agnolotti del plin in a trattoria in the center",
+          "Afternoon: Piazza Castello, Royal Museums and Chapel of the Holy Shroud",
+          "Evening: bicerin or vermouth in Piazza San Carlo, aperitivo in the Quadrilateral"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: Egyptian Museum, Piazza San Carlo, Royal Museums, Roman Quadrilateral and aperitivo",
+          "Day 2 morning: Mole Antonelliana, museum and lift",
+          "Day 2 afternoon: Monte dei Cappuccini and Valentino, or the tram to Superga (not on Wednesday)",
+          "Evening: Piedmontese dinner, tajarin or vitello tonnato"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Days 1 and 2: as above",
+          "Day 3: Reggia di Venaria with gardens (not on Monday)",
+          "Afternoon: Porta Palazzo if it is still early morning, otherwise Superga in the last light",
+          "Evening: bagna cauda in winter, otherwise dinner in San Salvario"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Historic center, between Piazza Castello and Piazza San Carlo",
+        "perChi": "those who want to walk everywhere",
+        "testo": "You walk under the arcades, museums and cafés are minutes away. Hotels cost more, evenings are quiet. From Porta Nuova station it takes 10 minutes."
+      },
+      {
+        "nome": "San Salvario",
+        "perChi": "those looking for lower prices and nightlife",
+        "testo": "District behind Porta Nuova, with bars and restaurants. Noisier on weekends and late at night, 15 minutes on foot from the center."
+      },
+      {
+        "nome": "Roman Quadrilateral",
+        "perChi": "those looking for atmosphere",
+        "testo": "Ancient alleys, aperitivos and bars. Very lively and noisy in the evening, close to Porta Palazzo."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Agnolotti del plin",
+        "testo": "Small pasta stuffed with meat, pinched by hand, also served in a napkin with no sauce. Found in the Piedmontese trattorias of the center."
+      },
+      {
+        "nome": "Vitello tonnato and raw meat",
+        "testo": "Typical starters: vitello tonnato with tuna and caper sauce, and raw meat chopped with a knife with oil and lemon."
+      },
+      {
+        "nome": "Bicerin",
+        "testo": "Coffee, chocolate and milk cream in three layers. At Caffè Al Bicerin and in the historic cafés."
+      },
+      {
+        "nome": "Gianduiotto",
+        "testo": "Chocolate made with Piedmontese hazelnuts, born in the nineteenth century when cocoa was scarce. In all the chocolate shops of the center."
+      },
+      {
+        "nome": "Vermouth",
+        "testo": "Invented in Turin in the eighteenth century. Drunk in the historic cafés and in the bars of the Quadrilateral with the aperitivo."
+      },
+      {
+        "nome": "Bagna càuda",
+        "testo": "Hot sauce of garlic, anchovies and oil in which raw and cooked vegetables are dipped. A winter dish, eaten in a group."
+      }
+    ],
+    attenzioni: [
+      "The central ZTL has cameras and weekday hours: do not drive in without checking the times on the city's website. Better to park outside or in an underground garage.",
+      "The Egyptian Museum and the Mole are visited with an online ticket for a time slot: on weekends and long weekends the slots run out. Book a few days ahead.",
+      "The Royal Museums are closed on Wednesday and the Superga tram is stopped the same day. The Reggia di Venaria closes on Monday.",
+      "The Shroud is not on display, except in extraordinary expositions: anyone going to Turin to see it will be disappointed. You visit Guarini's chapel.",
+      "At Porta Palazzo and on crowded public transport, watch out for pickpockets.",
+      "A tourist tax is charged in Turin: check the amount on the city's website or with the hotel."
+    ],
     esperienzeSlugs: ['museo-egizio'],
     tripSlugs: ['torino-2-giorni'],
     imageAlt: "The Royal Gardens and the rooftops of Turin seen from the top of the Mole Antonelliana",
@@ -1551,6 +3570,157 @@ export const destinazioniItalia: Destinazione[] = [
     ],
     miaEsperienza:
       "The Coast has a problem called state road 163: a two-lane road, very narrow, carved into the rock, with buses passing each other with their mirrors folded in, and in summer a continuous queue from Sorrento to Salerno. Anyone who comes by car in August spends the vacation standing still, and that alone is enough to ruin one of the most beautiful places in the Mediterranean. The solution is mundane and almost nobody uses it: **the ferry**. It costs a few euros, connects all the towns and you arrive from the sea, which is also the right way to look at this coast: the towns were built to be seen from there. The second thing that changes the trip is going up. Above the road there's a coast of trails, terraces and mule tracks that linked the towns before the state road existed: the **Path of the Gods** runs five hundred meters above the sea with Positano below and Capri on the horizon, takes three hours, is free and only a tiny fraction of the people crowding the seafront go. From up there you also understand why it's a UNESCO site: those lemon terraces on forty-percent slopes were built by someone, by hand, over the centuries.",
+    luoghi: [
+      {
+        "nome": "Positano",
+        "testo": "The most photographed town on the coast: pastel houses stacked up a ravine that drops to the Spiaggia Grande. You walk down from the road through stairs and shops, and walk back up with your legs.",
+        "come": "From Amalfi by ferry (about 30-40 minutes) or SITA bus along the coast road. Driving is a bad idea: few car parks, and expensive.",
+        "quando": "Early morning or after 5 pm, when day-trippers leave. July and August are packed.",
+        "tempo": "3-4 hours",
+        "consiglio": "For a swim, the beaches to the east (Fornillo) are less crowded than the Spiaggia Grande and ten minutes away on foot."
+      },
+      {
+        "nome": "Amalfi: Duomo e Chiostro del Paradiso",
+        "testo": "The Duomo di Sant'Andrea sits at the top of a flight of steps above the harbor square, with a mosaic facade and a Byzantine bronze door. Next to it is the 13th-century Chiostro del Paradiso, with interlaced Arab-style arches. Amalfi was a maritime republic before Pisa and Genoa.",
+        "come": "Five minutes on foot from the ferry pier. The ticket covers the cloister, the Crucifix basilica and the museum; the cathedral is entered from the steps.",
+        "quando": "Hours and days change with religious services. Best in the morning, before the tour buses.",
+        "tempo": "1 hour",
+        "consiglio": "Climb the steps and turn around: the square seen from above is the best photo in town."
+      },
+      {
+        "nome": "Atrani",
+        "testo": "A village of a few hundred people, two hundred meters from Amalfi, squeezed into a gorge with its square opening to the sea under an arch. White houses, stairway lanes, the church of the Maddalena. Almost nobody stops here.",
+        "come": "On foot from Amalfi in five to ten minutes along the road and then down the stairs, or through the underpass near the pier.",
+        "quando": "All day. In the evening, after the day-trippers have left, it is very quiet.",
+        "tempo": "1 hour",
+        "costo": "free",
+        "consiglio": "An aperitivo in the square, with local kids playing football under the arch."
+      },
+      {
+        "nome": "Ravello: Villa Rufolo e Villa Cimbrone",
+        "testo": "Ravello sits about 350 meters above the coast and has a different pace: quiet, gardens and viewpoints. Villa Rufolo, from the 13th century, has a Moorish tower and a garden over the void where the music festival is held. Villa Cimbrone has the Belvedere of Infinity, with statues facing the sea.",
+        "come": "From Amalfi by SITA bus in about 25 minutes, or on foot up the Scala Fenicia (a path with many steps). The two villas are 15 minutes apart on foot through the village.",
+        "quando": "Villa Rufolo is open daily, with longer hours in season. After 5 pm the light on the Belvedere is best. The festival changes closing times.",
+        "tempo": "half a day",
+        "url": "https://www.villarufolo.com/",
+        "consiglio": "Check prices on the villas' official sites before you go, and see them in this order: Rufolo in the morning, Cimbrone at sunset."
+      },
+      {
+        "nome": "Sentiero degli Dei",
+        "testo": "The best panoramic path on the coast, from Bomerano (Agerola) to Nocelle: about 7-8 km at mid-height, 500 meters above the sea, with Positano and Capri on the horizon. It takes about three hours, mostly downhill, and is free.",
+        "come": "SITA bus from Amalfi to Bomerano, then walk to Nocelle. From Nocelle a long staircase goes down to Positano, or you stop and take the bus.",
+        "quando": "Spring and autumn. In summer start at dawn: the path has little shade.",
+        "tempo": "3-4 hours plus the descent to Positano",
+        "costo": "free",
+        "consiglio": "Do it from Bomerano to Nocelle, not the other way round: it's all downhill and the sea is in front of you. Hiking shoes and water."
+      },
+      {
+        "nome": "Valle delle Ferriere",
+        "testo": "A damp gorge above Amalfi where rare ferns survive, relics of colder eras. The trail follows the Canneto stream among the remains of old ironworks and paper mills. It is a nature reserve.",
+        "come": "From Amalfi on foot by a path of about 40 minutes, or from Pontone (Scala). The loop needs comfortable hiking boots.",
+        "quando": "All year; cool and shaded in summer. After heavy rain it can be slippery or have closed sections.",
+        "tempo": "3 hours",
+        "consiglio": "A good outing on hot days or when the sea is rough and the coast is not pleasant."
+      },
+      {
+        "nome": "Furore e il Fiordo",
+        "testo": "Furore is a village scattered over a deep ravine: the Fiordo is a cleft in the rock with a small pebble beach under a bridge on the coast road. The village is known for its murals and terraced vineyards on the rock.",
+        "come": "SITA bus from Amalfi or Positano to Furore, then a staircase goes down to the Fiordo. By boat from Amalfi with water taxis.",
+        "quando": "Calm sea is needed to go down safely; avoid windy days. Late morning for the light on the ravine.",
+        "tempo": "1-2 hours",
+        "consiglio": "Arrive by sea in peak periods, to avoid the stalled road and the staircase in the midday heat."
+      },
+      {
+        "nome": "Cetara",
+        "testo": "A tuna and anchovy fishing village toward Salerno, far from the crowds. This is where colatura di alici is made, heir of Roman garum. The little harbor and beach belong to a real town.",
+        "come": "SITA bus from Amalfi (about 40 minutes) or from Salerno; ferry in season. You walk it in an hour.",
+        "quando": "All year. Lunch is the right time, with restaurants full of locals.",
+        "tempo": "2 hours",
+        "consiglio": "Buy the colatura straight from a producer, in a sealed bottle, and take it home."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Reach Amalfi by ferry from Salerno or Positano, before the tour buses",
+          "Duomo and Chiostro del Paradiso, then a stroll to Atrani",
+          "Lunch in Amalfi away from the seafront",
+          "SITA bus to Ravello in the afternoon, Villa Rufolo and Villa Cimbrone",
+          "Ferry back before evening"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: Sentiero degli Dei from Bomerano to Nocelle, descent to Positano, swim and dinner",
+          "Day 2: ferry Positano-Amalfi, Duomo and Atrani",
+          "Ravello in the afternoon, back by bus or on foot down the Scala Fenicia",
+          "Dinner in Cetara if you sleep near Salerno"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: Positano and Praiano, swim in a small cove",
+          "Day 2: Sentiero degli Dei and Furore",
+          "Day 3: Amalfi, Valle delle Ferriere in the morning, Ravello at sunset",
+          "Optional: half a day in Cetara and Vietri sul Mare for the ceramics"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Praiano",
+        "perChi": "anyone who wants the coast at half the price",
+        "testo": "Quieter and cheaper than Positano, with coves reachable on foot. The village is long and steep: wear good shoes. You reach the ferries on foot or by bus."
+      },
+      {
+        "nome": "Positano and Amalfi",
+        "perChi": "those who want to be in the middle and can spend",
+        "testo": "Convenient for everything, but expensive and very crowded in high season. Staying here also means noise and stairs with luggage."
+      },
+      {
+        "nome": "Ravello",
+        "perChi": "anyone seeking quiet and viewpoints",
+        "testo": "High up and calm, it empties in the evening. It costs more and you take the bus down to the sea. Great for a day or two of calm."
+      },
+      {
+        "nome": "Salerno",
+        "perChi": "tight budgets and those arriving by train",
+        "testo": "Much cheaper lodging and a high-speed train station. The ferry to the coast leaves from here; you lose the charm of sleeping by the sea."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Colatura di alici di Cetara",
+        "testo": "Amber liquid obtained from salting anchovies, heir of Roman garum. Used on spaghetti with garlic, oil and parsley, raw, at the end of cooking."
+      },
+      {
+        "nome": "Scialatielli ai frutti di mare",
+        "testo": "Wide fresh long pasta, often with clams, mussels and shellfish. Found along the whole coast, better in places a bit away from the harbor."
+      },
+      {
+        "nome": "Delizia al limone",
+        "testo": "A dessert of soaked sponge cake and lemon cream, born in Amalfi. The local lemon, sfusato amalfitano, is large and mildly acidic."
+      },
+      {
+        "nome": "Mozzarella nella mortella",
+        "testo": "Mozzarella wrapped in myrtle leaves, typical of Amalfi. Eaten fresh, at room temperature."
+      },
+      {
+        "nome": "Limoncello",
+        "testo": "Everywhere and often industrial: the good stuff is bought from producers, who often let you taste."
+      }
+    ],
+    attenzioni: [
+      "The coast road SS163 can be blocked for hours in high season, and in some periods there are odd/even plate restrictions: take the ferry. Check the current orders before you leave.",
+      "Ferries stop in rough seas: keep a plan B (SITA bus) and don't leave the last run to chance.",
+      "Car parks are very expensive and garage spaces cost like a hotel room: leave the car in Salerno or a lot outside the coast.",
+      "Water taxis and taxis do not always display fares: agree the price before getting in.",
+      "Paths like the Sentiero degli Dei need proper shoes and water; the staircase down to Positano is long and steep.",
+      "Many towns charge a tourist tax, payable in cash or at your lodging."
+    ],
     esperienzeSlugs: ['sentiero-degli-dei'],
     tripSlugs: ['costiera-e-isole'],
     imageAlt: "The pastel-colored houses of Positano climbing the hill above the beach with boats pulled up on the sand, Amalfi Coast",
@@ -1669,6 +3839,156 @@ export const destinazioniItalia: Destinazione[] = [
     ],
     miaEsperienza:
       "The difference among these three islands shows at six in the evening. On Capri, at that hour, the last hydrofoils leave with the day visitors and the Piazzetta, which at noon is a dense crowd where you can't move, empties out. Only the residents and the few who sleep there remain, the light drops over the Faraglioni, and you understand why for two thousand years this was the most desired island in the Mediterranean. Those who do it as a day trip in August see only the worst part and go home saying it's overrated. Ischia works differently, because it's large and has an economy of its own: the hot springs are a geological resource already used by the Greeks, more than a hotel service. At **Sorgeto** you go down a staircase to a bay where boiling water flows from the seabed and mixes with the sea: you dig a hole in the gravel and sit, for free, with the cold sea two meters away. Procida is the smallest and the most honest: there's nothing to tick off, you walk to Marina Corricella, sit down and look at a fishing harbor with houses of every color, where people actually live.",
+    luoghi: [
+      {
+        "nome": "Grotta Azzurra, Capri",
+        "testo": "A sea cave in Anacapri where light comes in through an underwater opening and turns the water deep blue. You enter only by small rowing boats, lying down, through a low gap.",
+        "come": "From Marina Grande by boat to the entrance, or by bus from Anacapri and then on foot to the boatmen's ticket office. You board the little boat and pay on the spot.",
+        "quando": "Morning and early afternoon, with calm seas. With swell, access is suspended, and from November to March it is rarely open.",
+        "tempo": "1-2 hours with the queue, 5 minutes inside",
+        "costo": "about €18-20 for the rowing boat plus entry, paid in cash on the spot (2026, sources differ by a few euros)",
+        "consiglio": "Look at the sea before leaving Marina Grande: if it's rough, ask whether the cave is open before paying for a boat trip."
+      },
+      {
+        "nome": "Monte Solaro e Scala Fenicia",
+        "testo": "The highest point on Capri, 589 meters, reached from Anacapri by a twelve-minute chairlift. From the top you see both gulfs, Naples and Salerno together. Below, the Scala Fenicia, 921 steps, is the old route between Marina Grande and Anacapri.",
+        "come": "Chairlift from the square in Anacapri. To come down on foot you can take the Scala Fenicia, in comfortable shoes.",
+        "quando": "Morning, with clear air. The chairlift stops in strong wind.",
+        "tempo": "2-3 hours",
+        "consiglio": "Go up by chairlift and walk back: the descent is long but the last stretch, between the stone walls, is the best."
+      },
+      {
+        "nome": "Villa Jovis",
+        "testo": "The remains of the villa where Emperor Tiberius spent the last years of his reign, on the edge of a sea precipice at 354 meters. Cisterns, terraces and the layout of the residence survive.",
+        "come": "On foot from Capri, about 45 minutes uphill along via Longano, partly among houses and then dry-stone walls. No transport.",
+        "quando": "Early morning for the cool; opening hours and days should be checked beforehand, they change with the season.",
+        "tempo": "2 hours round trip",
+        "consiglio": "Bring water: there are few places to refresh on the way up."
+      },
+      {
+        "nome": "Sentiero dei Fortini",
+        "testo": "A coastal path on the western side of Anacapri, among old forts and dry-stone walls, with the sea below and almost nobody around. It ends near Punta Carena and its lighthouse.",
+        "come": "From Anacapri by bus to Punta Carena, then on foot along the coast toward the Grotta Azzurra. Closed shoes.",
+        "quando": "Spring, autumn and late afternoon in summer. At noon there is no shade.",
+        "tempo": "1.5-2 hours",
+        "costo": "free",
+        "consiglio": "End with sunset at Punta Carena: from the lighthouse the sun drops into the sea with no one in front of you."
+      },
+      {
+        "nome": "Castello Aragonese, Ischia",
+        "testo": "A rock islet linked to Ischia Ponte by a causeway, with a fortified castle that over the centuries held a whole town, churches and a monastery. From the top you see the island's coast.",
+        "come": "On foot from Ischia Ponte across the bridge. There is a panoramic lift to go up.",
+        "quando": "Open all year with changing hours; the best light is late afternoon.",
+        "tempo": "2-3 hours",
+        "url": "https://www.castelloaragonese.it/",
+        "consiglio": "The tour is long and uphill: start early and stop in the gardens halfway."
+      },
+      {
+        "nome": "Baia di Sorgeto, Ischia",
+        "testo": "A small pebble bay where hot springs flow straight into the sea. You dig a hole in the gravel and sit in the warm water, with the cold sea two meters away. Entry to the bay is free.",
+        "come": "From Panza (Forio) a steep staircase goes down to the bay; alternatively a boat from Sant'Angelo. Bus from Forio or Ischia Porto to Panza.",
+        "quando": "Morning or late afternoon. In summer it is crowded; in winter it still works thanks to the hot water.",
+        "tempo": "2-3 hours",
+        "costo": "free",
+        "consiglio": "Test the water before sitting: some pools are scalding. Bring water shoes and a towel."
+      },
+      {
+        "nome": "Monte Epomeo",
+        "testo": "The extinct volcano at the center of Ischia, 789 meters, with a green tuff summit. From the viewpoint you see the whole island and the gulf. Along the route there are cellars carved in the rock.",
+        "come": "Trail from Fontana (bus from Ischia Porto or Forio) or from Serrara Fontana, about 1 hour uphill. You can also take a minibus for the first stretch.",
+        "quando": "Clear morning; avoid windy days or after rain because of slippery tuff.",
+        "tempo": "3 hours up and down",
+        "costo": "free",
+        "consiglio": "Eat something at one of the rock restaurants below the summit, in the island's farmhouse cooking."
+      },
+      {
+        "nome": "Procida: Marina Corricella e Terra Murata",
+        "testo": "Corricella is a tiered fishing village with houses of a thousand colors around the little harbor. Above it, Terra Murata is the high, fortified part of the island, with the abbey of San Michele and a viewpoint. Procida is small and can be covered in half a day.",
+        "come": "Ferry or hydrofoil from Naples or Pozzuoli (about 40 minutes from Naples). From the port at Marina Grande you walk or take the minibus toward Terra Murata.",
+        "quando": "All year. Late afternoon and evening are best, with fishermen at work.",
+        "tempo": "half a day",
+        "consiglio": "Go down to Corricella by the Terra Murata staircase and eat fish at the little harbor under the houses."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: hydrofoil from Naples or Pozzuoli to Procida (about 40 minutes)",
+          "Terra Murata and Marina Corricella on foot",
+          "Fish lunch at the little harbor",
+          "Walk toward Chiaiolella and head back in the afternoon"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: Capri, Anacapri, Monte Solaro chairlift and descent by the Scala Fenicia",
+          "Overnight in Capri or Anacapri to see the island after 6 pm",
+          "Day 2: boat tour of Capri with the Faraglioni, Grotta Azzurra if the sea is calm, back in the evening"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: Procida in half a day, then ferry to Ischia",
+          "Day 2: Castello Aragonese in the morning, Sorgeto in the afternoon",
+          "Day 3: Monte Epomeo in the morning and a thermal park, or a boat trip around the island"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Anacapri (Capri)",
+        "perChi": "those who want Capri without Piazzetta prices",
+        "testo": "Costs less than Capri town, is quieter in the evening and has Monte Solaro. A bus goes down to Marina Grande and Capri; after 9 pm connections are sparse."
+      },
+      {
+        "nome": "Forio and Sant'Angelo (Ischia)",
+        "perChi": "thermal baths, sunsets and sea",
+        "testo": "Forio, on the west coast, has the sunsets and the evening life. Sant'Angelo, in the south, is a pedestrian village with few cars and coves. Sleeping here means being far from the main port."
+      },
+      {
+        "nome": "Marina Corricella (Procida)",
+        "perChi": "anyone looking for a real town",
+        "testo": "Rooms in the colorful houses by the little harbor, often small and with stairs. Evenings are quiet. You don't arrive by car."
+      },
+      {
+        "nome": "Naples or Sorrento",
+        "perChi": "tight budgets and day trips",
+        "testo": "You spend less and go by hydrofoil for the day, but Capri as a day trip in August is the worst way to see it."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Insalata caprese and torta caprese",
+        "testo": "Tomato, mozzarella and basil, born in Capri. The cake is chocolate and almond, with no flour."
+      },
+      {
+        "nome": "Coniglio all'ischitana",
+        "testo": "The dish to look for on Ischia: rabbit cooked in a casserole with tomato, wine and herbs, remembering the rabbits raised in pits in the tuff."
+      },
+      {
+        "nome": "Ravioli capresi",
+        "testo": "Ravioli filled with caciotta cheese and marjoram, dressed with fresh tomato sauce. Found in the restaurants of Capri and Anacapri."
+      },
+      {
+        "nome": "Limone di Procida",
+        "testo": "Huge, fragrant and mildly acidic: eaten even in salads, turned into limoncello and desserts. Bought from growers."
+      },
+      {
+        "nome": "Fish at Corricella",
+        "testo": "On Procida the fish is freshly caught and eaten by the little harbor. You spend less than on the other two islands."
+      }
+    ],
+    attenzioni: [
+      "Boat tours and boatmen's fares in Capri should be agreed before boarding: ask the total price and what it includes.",
+      "The Grotta Azzurra closes in rough seas, and tickets are paid in cash on the spot: don't prepay to anyone who stops you at the port.",
+      "In high season non-residents' cars cannot enter Capri: you move by funicular, bus and taxi.",
+      "The Capri funicular has long queues at midday in summer: plan the return well ahead of the last hydrofoil.",
+      "Ferry strikes and rough seas cancel runs: don't book a flight or train for the same evening you return from the islands.",
+      "At Sorgeto the water in some pools is very hot: test it before sitting, especially with children."
+    ],
     esperienzeSlugs: ['sorgeto-ischia'],
     tripSlugs: ['costiera-e-isole'],
     imageAlt: "The coast of Capri seen from above with the Faraglioni and boats moored in the bay",
@@ -1775,6 +4095,154 @@ export const destinazioniItalia: Destinazione[] = [
     ],
     miaEsperienza:
       "The Aeolians are the Italian archipelago with the highest variety, and the way to understand it is to do four islands instead of two. You go from Panarea, where yachts dock in summer and prices are Costa Smeralda, to Alicudi, which has fewer than a hundred inhabitants, no roads (only stone stairways) and goods that still go up by mule. They're twenty miles apart. But the strongest memory, with no equal in Italy, is Stromboli seen from the sea at night. You stop at anchor in front of the **Sciara del Fuoco**, the bare slope down which the material rolls, you turn off the engine, and you sit in the dark waiting. Every few minutes the crater spits incandescent material that runs down the slope to the water, with a dull sound that arrives a moment later. There's no lighting or organized show: it's a volcano doing this for millennia, with an inhabited village below and the lights of the houses on a few hundred meters from the flow. About the climb on foot, though, let's be clear that **access beyond the altitude limit is regulated and changes with activity**: in recent years it has been limited several times, and it's worth finding out before building a trip around it.",
+    luoghi: [
+      {
+        "nome": "Stromboli e la Sciara del Fuoco",
+        "testo": "A volcano in near-continuous eruption for millennia, with an inhabited village at its foot. Every few minutes the crater throws incandescent material that rolls down the Sciara del Fuoco to the sea. The best way to see it is from the water, at night.",
+        "come": "Hydrofoil or ferry from Lipari, Milazzo or the other islands. To see it from the sea take an evening boat excursion, or sleep on a sailboat in front of the Sciara with the engine off.",
+        "quando": "In the evening and at night, with a calm sea. Boat excursions leave in late afternoon and return after dark.",
+        "tempo": "one evening, better a night",
+        "consiglio": "Turn off the engine and keep quiet: the sound arrives a moment after the light. Bring a sweater; the sea is cold at night."
+      },
+      {
+        "nome": "Salita a Stromboli",
+        "testo": "The climb to the craters is regulated by the authorities: in recent years altitude limits and rules have changed several times with the volcano's activity. Up to a certain altitude you climb without a guide, beyond that an authorized volcanological guide is required, and at the top access is forbidden.",
+        "come": "Trails start from the village of Stromboli. Authorized guides run sunset climbs and return in the dark, with helmet and torch.",
+        "quando": "Climb in late afternoon to see the explosions in the dark. Book ahead in high season and check the current rules.",
+        "tempo": "5-6 hours",
+        "consiglio": "Check the current rule with the Comune di Lipari or local guides: don't build the trip around a climb that may be banned."
+      },
+      {
+        "nome": "Vulcano: Gran Cratere e fanghi",
+        "testo": "A crater of about 390 meters with sulphur fumaroles on the rim, reached by about an hour's climb from Porto di Levante. Below are the sulphurous mud baths and a sea that bubbles with gas near the Faraglioni.",
+        "come": "Hydrofoil from Lipari in about 10 minutes. The trail starts on foot from the port. The mud pool is near the port.",
+        "quando": "Early morning for heat and sun. Access to the crater has been regulated or closed several times due to fumarole activity: check beforehand.",
+        "tempo": "half a day for the crater, 1 hour for the mud",
+        "consiglio": "The mud stains and the smell stays on you: old swimsuit and no silver jewelry. Breathe little near the fumaroles."
+      },
+      {
+        "nome": "Lipari: Castello e Museo Archeologico",
+        "testo": "The biggest island has a castle on the rock overlooking the harbor, with the Museo Archeologico Regionale Eoliano inside. It holds finds from the Neolithic to Greece, including the vase collection and theater masks. Outside are the pumice quarries and the white beaches of Canneto.",
+        "come": "You land at Marina Corta and walk up to the Castello. For the pumice quarries, bus or scooter toward Canneto and Acquacalda.",
+        "quando": "Morning for the museum, afternoon for the sea. The museum has a closing day: check beforehand.",
+        "tempo": "half a day",
+        "consiglio": "Go up to the Quattrocchi viewpoint, on the south side, at sunset: you see Vulcano against the sun."
+      },
+      {
+        "nome": "Salina: Pollara e Fossa delle Felci",
+        "testo": "The greenest island, with two twin extinct volcanoes. Pollara is the crater that collapsed into the sea, with a viewpoint and a sheer rock stack. Monte Fossa delle Felci, the highest point of the archipelago, can be climbed in a few hours through woods and caper bushes.",
+        "come": "Hydrofoil from Lipari to Rinella or Santa Marina. Around the island by bus or scooter. Pollara is on the west side.",
+        "quando": "Spring and early summer for the green; sunset at Pollara. Access to Pollara beach is often limited because of rockfall risk: check.",
+        "tempo": "1 day",
+        "consiglio": "Taste the Malvasia in one of the wineries and buy capers directly from producers."
+      },
+      {
+        "nome": "Panarea e Capo Milazzese",
+        "testo": "The smallest and most fashionable, with white houses and no cars. The prehistoric village of Capo Milazzese, from the Bronze Age, is on a southern headland, with the stone huts still visible. At sea are the islets, including Lisca Bianca.",
+        "come": "Hydrofoil from Lipari or Stromboli. On foot from the port toward the south, about 40 minutes to Capo Milazzese; luggage travels on electric carts.",
+        "quando": "June and September. In summer the evenings are full of yachts and prices rise.",
+        "tempo": "half a day",
+        "consiglio": "A boat trip round the islets is the right way to see Panarea's sea, but haggle the price."
+      },
+      {
+        "nome": "Filicudi: Grotta del Bue Marino e Capo Graziano",
+        "testo": "An island with almost no tourism. Capo Graziano has a prehistoric village and a dark rocky coast. The Grotta del Bue Marino is a sea cave reachable by boat, with clear water.",
+        "come": "Hydrofoil from Lipari or Salina in about 1 hour. On the island you walk; water taxis tour the caves.",
+        "quando": "June and September; rough seas prevent entry to the caves.",
+        "tempo": "1 day",
+        "consiglio": "Sleep there at least one night: in the evening, when the hydrofoils leave, the island is nearly empty."
+      },
+      {
+        "nome": "Alicudi",
+        "testo": "The most remote, round and nearly roadless, with a few dozen permanent residents. You climb by mule tracks and stone stairways; mules still carry goods. From the top you see the whole archipelago.",
+        "come": "Hydrofoil from Lipari or Filicudi. From the port you climb on foot, with no vehicles.",
+        "quando": "Spring and early autumn. In summer the climb is hard in the heat.",
+        "tempo": "1 day or one night",
+        "consiglio": "Pack light: luggage goes up on shoulders or by mule. Book lodging well in advance."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: hydrofoil from Milazzo to Lipari, Castello and Archaeological Museum",
+          "Afternoon at Canneto, swim on the pumice beaches",
+          "Day 2: morning on Vulcano for the crater and mud, back to Lipari in the afternoon"
+        ]
+      },
+      {
+        "titolo": "4 days",
+        "tappe": [
+          "Day 1: Lipari, Castello and Museum",
+          "Day 2: Vulcano in the morning, Salina in the afternoon",
+          "Day 3: Panarea as a day trip or by boat, swim at Lisca Bianca",
+          "Day 4: Stromboli, evening boat to the Sciara del Fuoco, overnight there"
+        ]
+      },
+      {
+        "titolo": "7 days",
+        "tappe": [
+          "Day 1-2: Lipari and Vulcano",
+          "Day 3: Salina with Pollara and Fossa delle Felci",
+          "Day 4: Panarea and Capo Milazzese",
+          "Day 5: Stromboli, Sciara del Fuoco at night from the sea",
+          "Day 6: Filicudi, Grotta del Bue Marino",
+          "Day 7: Alicudi or rest, back to Milazzo with margin for weather and hydrofoils"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Lipari",
+        "perChi": "anyone wanting the most convenient base",
+        "testo": "Connections to all the islands, plenty of lodging and restaurants. It is the busiest in summer, but it is the point from which everything is reachable in a day."
+      },
+      {
+        "nome": "Salina",
+        "perChi": "calm and quality",
+        "testo": "Greener and quieter, with villages such as Malfa, Santa Marina and Rinella. Less connected, you use a scooter. Dinner with Malvasia is the reason to stay."
+      },
+      {
+        "nome": "Stromboli",
+        "perChi": "those who want the volcano",
+        "testo": "Low black houses, dark sand beaches, the volcano's noise at night. Small, with few beds and high prices; the climb and the excursions start here."
+      },
+      {
+        "nome": "Panarea",
+        "perChi": "those who can spend",
+        "testo": "A tiny, fashionable island with very high prices in the big-yacht season. You go on foot or by electric cart."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Pane cunzato",
+        "testo": "A slice of bread with tomato, anchovies, capers, oregano and cheese, born as a farmers' meal. Eaten on every island, often with local products."
+      },
+      {
+        "nome": "Pasta alla eoliana",
+        "testo": "Pasta with capers, olives, cherry tomatoes and blue fish. A simple pantry dish."
+      },
+      {
+        "nome": "Capperi di Salina",
+        "testo": "A Slow Food Presidium, hand-picked and kept under salt. Different from others for their aroma."
+      },
+      {
+        "nome": "Malvasia delle Lipari",
+        "testo": "A sweet passito wine drunk at the end of a meal. Mostly produced on Salina."
+      },
+      {
+        "nome": "Granita",
+        "testo": "As across Sicily, but here with brioche for breakfast and in local flavors of coffee, almond and pistachio."
+      }
+    ],
+    attenzioni: [
+      "Hydrofoils and ferries are cancelled in rough seas: don't book tight connections and don't book a flight for the evening you return.",
+      "The climb to the Stromboli crater and to Vulcano's Gran Cratere is regulated and changes with activity: check current rules before booking.",
+      "Lodging and berths sell out in high season: book months ahead for July and August.",
+      "Water is scarce and arrives by tanker ship: use it sparingly.",
+      "On Vulcano, fumaroles and gas are concentrated near the crater and the mud: stay in marked areas and move away if the air gets heavy.",
+      "Boat tours and water taxis: agree on price and duration before boarding."
+    ],
     esperienzeSlugs: ['stromboli-notte', 'eolie-in-vela'],
     tripSlugs: ['eolie-in-vela'],
     imageAlt: "The Aeolian Islands seen from the rim of the Gran Cratere of Vulcano, with Lipari and Salina on the horizon",
@@ -1831,6 +4299,170 @@ export const destinazioniItalia: Destinazione[] = [
     ],
     miaEsperienza:
       "Western Sicily is the one you do the second time, and in many respects it's the strongest. The **Cathedral of Monreale** holds up against any comparison: a building constructed in the twelfth century by Norman kings, with Arab architects and craftsmen and Byzantine mosaicists, where a Christ Pantocrator almost twenty meters high looks down from an apse entirely covered in gold. Around it, six thousand square meters of mosaics tell the Old and New Testament. Outside there's a cloister with two hundred and twenty-eight small columns, and **every capital is different from the others**. There you understand that Sicily held together all the cultures that conquered it, in the same building and at the same moment. The second thing is Palermo, which asks you to adapt: it's chaotic, in some areas run-down, noisy, and those who get irritated go home saying it's dirty. Those who get into the rhythm discover the markets, which in the morning are a theater, with vendors shouting the abbanniata, a kind of sung call, and where you eat standing up and walking for two euros. And then Segesta: a fifth-century Doric temple, never finished, standing alone on a hill in the middle of nowhere, with the wind. There are twenty people.",
+    luoghi: [
+      {
+        "nome": "Mercati di Palermo: Ballarò, Capo e Vucciria",
+        "testo": "Three historic markets in the center, with Arab origins. In the morning they are theater: fish stalls, spices, vegetables, vendors shouting the abbanniata. You eat standing up, walking, spending a few euros.",
+        "come": "On foot from the historic center. Ballarò is near Casa Professa and Porta Nuova; the Capo is behind the Teatro Massimo; the Vucciria lies between via Roma and the port.",
+        "quando": "Morning, from nine to noon. In the afternoon many stalls close. Sunday is emptier.",
+        "tempo": "2-3 hours",
+        "consiglio": "Eat panelle, arancine and sfincione standing, at the stalls where locals queue, not at places with an English menu."
+      },
+      {
+        "nome": "Palazzo dei Normanni e Cappella Palatina",
+        "testo": "The 12th-century royal chapel: walls of gold mosaics, a wooden muqarnas ceiling of Arab workmanship and marble floors. It is one of the most beautiful churches in Italy and part of the Arab-Norman itinerary, a UNESCO site.",
+        "come": "From the center it's about 10 minutes on foot toward Porta Nuova. Ticket with booking, entry with security checks and short queues if you go early.",
+        "quando": "In the morning, as soon as it opens. Hours change with services and with sessions of the regional assembly: check beforehand.",
+        "tempo": "1.5 hours",
+        "costo": "about €19 full price, with the Royal Apartments (2025, to be verified)",
+        "url": "https://www.federicosecondo.org/",
+        "consiglio": "Look up at the ceiling: the muqarnas are painted wood, with scenes of Arab court life."
+      },
+      {
+        "nome": "Duomo di Monreale",
+        "testo": "The Norman masterpiece of the 12th century: six thousand square meters of gold-ground mosaics, with a Christ Pantocrator almost twenty meters high in the apse. Next door the cloister has 228 small columns, and every capital is different. The terraces above overlook the Conca d'Oro.",
+        "come": "AMAT bus from Palermo (piazza Indipendenza or corso Calatafimi), about 30-40 minutes. You enter from the side facade; cloister and terraces have tickets.",
+        "quando": "First thing in the morning, before the tour buses: at half past eight you're inside with ten people. Hours vary with services.",
+        "tempo": "2 hours",
+        "costo": "about €13 for the combined ticket (cathedral, cloister, terraces, museum), €6 for the cathedral alone (2026, to be verified)",
+        "consiglio": "Climb the terraces to see the roof and Palermo; bring a sweater for the cool inside."
+      },
+      {
+        "nome": "Segesta",
+        "testo": "A Doric temple of the 5th century BC, never finished, standing alone on a hill in the middle of nowhere, with the wind. Higher up is the Greek theater with a view of the Gulf of Castellammare.",
+        "come": "From Palermo by car, about an hour on the Palermo-Trapani motorway. The temple is near the entrance; for the theater there is a shuttle or a walk uphill.",
+        "quando": "Morning or late afternoon. In summer there is no shade: avoid midday.",
+        "tempo": "2 hours",
+        "costo": "Archeopass Segesta-Selinunte-Gibellina: about €25.40 full price, valid one week (2026, to be verified)",
+        "consiglio": "Climb to the theater: at the top you understand why the Greeks built it here."
+      },
+      {
+        "nome": "Selinunte",
+        "testo": "The largest archaeological park in Europe: Doric temples by the sea, the acropolis, the city with its streets. Temple E has been rebuilt upright; the others are gigantic heaps of stones fallen in an earthquake.",
+        "come": "By car from Trapani (about an hour and forty) or from Palermo (about two hours). Inside the park there is a shuttle; you can also rent a bike.",
+        "quando": "Early morning or late afternoon. At midday in summer it is vast and shadeless.",
+        "tempo": "3 hours",
+        "costo": "included in the Segesta-Selinunte-Gibellina Archeopass (2026, to be verified)",
+        "consiglio": "Finish on Marinella beach, a step from the temples."
+      },
+      {
+        "nome": "Erice",
+        "testo": "A medieval village 750 meters above Trapani, often wrapped in fog. Cobbled lanes, the Castle of Venus at the top, churches and pastry shops with almond sweets.",
+        "come": "By car on a hairpin road from Trapani, or by regular bus. The Trapani-Erice cable car, when running, is the shortest way.",
+        "quando": "In the evening, when the tour buses are gone and the fog remains. The fog is part of the place.",
+        "tempo": "half a day",
+        "consiglio": "Sleep there one night to see it empty, and bring a sweater even in summer."
+      },
+      {
+        "nome": "Saline di Trapani e Marsala, Mozia",
+        "testo": "The Stagnone lagoon and the salt pans between Trapani and Marsala: flat basins, windmills and mountains of salt. In the middle is Mozia, a Phoenician island with a submerged Punic road and the statue of the Giovinetto, reached by boat.",
+        "come": "By car along the Via del Sale. For Mozia, a little boat from the Birgi landing, a few minutes. The salt museum is at Nubia.",
+        "quando": "Sunset, when the water turns pink. Mozia: days without strong wind.",
+        "tempo": "half a day",
+        "consiglio": "Stop in Marsala for the wine of the same name: the historic wineries run visits with tastings."
+      },
+      {
+        "nome": "Riserva dello Zingaro",
+        "testo": "The first nature reserve created in Sicily, on the coast between Scopello and San Vito Lo Capo: seven kilometers of roadless coast, with pebble coves and clear water, reachable only on foot.",
+        "come": "Two entrances: Scopello (south) and San Vito Lo Capo (north). You leave the car in the car parks at the entrance.",
+        "quando": "Spring and autumn; in summer start at opening and bring water. Hours and entrances should be checked.",
+        "tempo": "half a day or all day",
+        "consiglio": "Water shoes and a mask: the sea in the coves is among the most beautiful in Sicily."
+      },
+      {
+        "nome": "San Vito Lo Capo",
+        "testo": "A seaside town with a long beach of pale sand, under Monte Monaco. It is also the couscous town: every September there is the Cous Cous Fest, an international festival.",
+        "come": "From Trapani by car, about an hour; from Palermo about an hour and a half. Paid parking in town, full in summer.",
+        "quando": "June and September, for the sea and the couscous. In July and August it is full.",
+        "tempo": "half a day or one night",
+        "consiglio": "Try the fish couscous at a place with a family recipe, and book in September."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: Palazzo dei Normanni and Cappella Palatina at opening",
+          "Capo and Ballarò markets, street food lunch",
+          "Afternoon: Cathedral and the Kalsa district",
+          "Evening: aperitivo at piazza Marina or at Mondello in summer"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: Palermo, Cappella Palatina and markets, then Monreale with the cloister",
+          "Day 2: Segesta in the morning, Erice in the afternoon, night in Trapani",
+          "Day 3: Selinunte early, then salt pans and Marsala, back to Palermo"
+        ]
+      },
+      {
+        "titolo": "5 days",
+        "tappe": [
+          "Day 1: Palermo and markets",
+          "Day 2: Monreale in the morning, Palazzo dei Normanni in the afternoon",
+          "Day 3: Segesta, Erice, Trapani",
+          "Day 4: Mozia and salt pans, sunset at the Stagnone",
+          "Day 5: Zingaro or San Vito Lo Capo, or Selinunte in the morning"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Palermo historic center (Kalsa, Ballarò)",
+        "perChi": "those who want to live the city",
+        "testo": "Lively, walking distance from everything, with restaurants and markets close. Noisy at night, with narrow streets and some decay on certain streets. Leave the car in a guarded car park."
+      },
+      {
+        "nome": "Trapani",
+        "perChi": "anyone wanting a base for the west",
+        "testo": "Close to Erice, the salt pans, the Egadi and Birgi airport. A tuff-stone old town with lanes and the port for the hydrofoils. Cheaper than Palermo."
+      },
+      {
+        "nome": "San Vito Lo Capo",
+        "perChi": "sea and Zingaro",
+        "testo": "Beach, coves, couscous. Crowded in August with difficult parking; much more pleasant in June and September."
+      },
+      {
+        "nome": "Erice",
+        "perChi": "one night of silence",
+        "testo": "Small, medieval, almost empty at night. Few beds, wind and fog. It's for one night, no more."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Arancine",
+        "testo": "Fried rice balls with ragù or butter and ham. Here it's «arancina», feminine."
+      },
+      {
+        "nome": "Panelle and crocchè",
+        "testo": "Chickpea-flour fritters served in a bun, with potato croquettes. Pure street food, to eat at the market."
+      },
+      {
+        "nome": "Sfincione",
+        "testo": "Soft focaccia with onion, caciocavallo, anchovies and tomato. Bought from street vendors and bakeries."
+      },
+      {
+        "nome": "Pane con la milza",
+        "testo": "A bun with veal spleen and lung, at the historic stalls; choose «schietta» (with lemon and salt) or «maritata» (with caciocavallo)."
+      },
+      {
+        "nome": "Pasta con le sarde and fish couscous",
+        "testo": "Pasta with sardines, wild fennel, raisins and pine nuts is a Palermo dish. Fish couscous is typical of Trapani and San Vito."
+      },
+      {
+        "nome": "Cassata and cannoli",
+        "testo": "The Sicilian sweets par excellence: cassata with ricotta and marzipan, cannoli filled to order."
+      }
+    ],
+    attenzioni: [
+      "Palermo has a ZTL in the historic center and fines arrive at home: leave the car outside and use guarded car parks.",
+      "Unofficial parking attendants are common: pay only official or guarded car parks.",
+      "Leave nothing visible in the car, especially in urban areas and near archaeological sites.",
+      "Pickpockets in markets and crowded streets: carry your backpack in front.",
+      "Segesta and Selinunte have no shade: water, a hat, and visit early in summer.",
+      "Hours and prices of sites change; many sites are free on the first Sunday of the month (to be verified): check the official sites."
+    ],
     esperienzeSlugs: ['monreale', 'street-food-palermo'],
     tripSlugs: ['sicilia-completa'],
     imageAlt: "The crenellated viewpoint of Erice above a sea of clouds, with the Trapani coast in the background",
@@ -1956,6 +4588,157 @@ export const destinazioniItalia: Destinazione[] = [
     ],
     miaEsperienza:
       "These three islands show well how wide the word \"Sicily\" is. Favignana is the simplest and most immediate: you arrive in twenty minutes from Trapani, rent a bike and in a day you've toured all of it, with the water of Cala Rossa a turquoise that doesn't look Italian. What makes it different from the other islands is the tuff: for centuries building stone was quarried here, and the result is a landscape of open-pit quarries, with vertical yellow walls and, inside some, underground gardens planted on the floor. Pantelleria is the exact opposite and the island I found the most interesting: no sand, black rock everywhere, wind that never stops, and a viticulture in which the vines grow inside pits dug into the ground to shelter them, a technique so particular that it was recognized as intangible heritage by UNESCO. The night swim in the Specchio di Venere, with the thermal mud, is one of those things nobody tells you about beforehand. Lampedusa, finally, has the most beautiful sea in Italy, no argument; but it's geologically Africa, barren, far away and expensive, and you go for that and only for that.",
+    luoghi: [
+      {
+        "nome": "Favignana: cale e Ex Stabilimento Florio",
+        "testo": "A butterfly-shaped island, flat and hollowed by tuff quarries. Cala Rossa and Cala Azzurra have transparent water over white rock. In town the former Florio plant, the 19th-century tuna fishery, tells the story of the mattanza, no longer practiced.",
+        "come": "Hydrofoil from Trapani in about 20-30 minutes. On the island you rent a bicycle: distances are under six kilometers.",
+        "quando": "June and September. Morning for the coves, afternoon for the museum. In August it is crowded.",
+        "tempo": "2 days",
+        "consiglio": "Bring rubber shoes: almost no cove has sand, you enter from the rock."
+      },
+      {
+        "nome": "Cave di tufo e giardini ipogei",
+        "testo": "For centuries the island was a quarry: building stone for half of western Sicily came from here. The result is pits with vertical walls, some turned into underground gardens, sheltered from the wind, with citrus and plants.",
+        "come": "By bicycle, with signs along the secondary roads. Some quarries are visitable through private operators.",
+        "quando": "Morning or late afternoon; in summer the quarries give shade and coolness.",
+        "tempo": "1-2 hours",
+        "consiglio": "Ask in town which gardens are open: hours and entry change from quarry to quarry."
+      },
+      {
+        "nome": "Levanzo e Grotta del Genovese",
+        "testo": "The smallest of the three main Egadi, with a single fishing village. The Grotta del Genovese preserves engravings and paintings from the Paleolithic and Neolithic, about twelve thousand years old.",
+        "come": "Hydrofoil from Trapani or Favignana, about 20 minutes. The cave is reached on foot or by boat and visited with a guide.",
+        "quando": "June and September. The visit is by booking and in small groups: plan for the morning.",
+        "tempo": "half a day",
+        "url": "https://www.ampisoleegadi.it/",
+        "consiglio": "Book the cave visit the day before, and wear closed shoes for the path."
+      },
+      {
+        "nome": "Marettimo",
+        "testo": "The wildest and most remote of the Egadi, almost without tourism, with a single village of white houses and an interior of trails. The sea caves are seen by boat.",
+        "come": "Hydrofoil from Trapani (longer than the one to Favignana) or ferry. You get around on foot and by boat.",
+        "quando": "June and September. In rough seas the runs are cancelled.",
+        "tempo": "1-2 days",
+        "consiglio": "The boat tour of the caves is the main experience; agree the price with the boatman."
+      },
+      {
+        "nome": "Pantelleria: Lago Specchio di Venere e dammusi",
+        "testo": "A volcanic island closer to Tunisia than to Sicily. The Lago Specchio di Venere is a lake in a crater, with thermal mud on the shore. Dammusi are lava-stone houses with domed roofs, and the vine is grown as a low bush in pits dug in the ground, a UNESCO-recognized technique.",
+        "come": "Flight from Trapani, Palermo or seasonally from the mainland, or an overnight ferry from Trapani. On the island you need a car, booked ahead.",
+        "quando": "Spring and September. The lake at sunset, with the mud already warm. The wind is constant.",
+        "tempo": "4-5 days",
+        "url": "https://www.parconazionalepantelleria.it/",
+        "consiglio": "Don't look for sandy beaches: there are none, you enter the water from the rocks or the thermal pools."
+      },
+      {
+        "nome": "Pantelleria: Montagna Grande e giardini panteschi",
+        "testo": "Montagna Grande is the highest point of the island, with pine woods and trails. Pantesco gardens are circular dry-stone walls protecting a single orange tree from the wind.",
+        "come": "By car to the foot of Montagna Grande, then on foot. The gardens can be seen along inner roads and on some farms.",
+        "quando": "Morning. Strong wind and cool at altitude even in summer.",
+        "tempo": "half a day",
+        "consiglio": "Visit a winery and try the passito: visits are booked."
+      },
+      {
+        "nome": "Lampedusa: Spiaggia dei Conigli",
+        "testo": "A beach of pale sand and turquoise water inside a nature reserve, where the Caretta caretta turtle nests. The island sits on the African plate. Access is regulated to protect the nests.",
+        "come": "Flight from Palermo or Catania, or ship from Porto Empedocle (about eight hours). From town by scooter or car to the car park, then on foot.",
+        "quando": "June and September. In high season access may be capped and by booking.",
+        "tempo": "half a day",
+        "url": "https://www.ampisolepelagie.it/",
+        "consiglio": "Find out the season's access rules before you leave and arrive early in the morning."
+      },
+      {
+        "nome": "Linosa",
+        "testo": "A black volcanic island, halfway between Lampedusa and Sicily, with about two hundred inhabitants. Brightly colored houses, lava beaches and clear water for snorkeling.",
+        "come": "Ship from Sicily or hydrofoil from Lampedusa in season. You cover it on foot in a day.",
+        "quando": "June and September; out of season connections are sparse.",
+        "tempo": "1 day or one night",
+        "consiglio": "Check the return times before leaving: in rough seas runs are cancelled."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: hydrofoil from Trapani to Favignana, bike to Cala Rossa and the coves of the eastern wing",
+          "Day 2: former Florio plant in the morning, tuff quarries in the afternoon, tuna dinner",
+          "Day 3: Levanzo and Grotta del Genovese by booking, back to Trapani by hydrofoil"
+        ]
+      },
+      {
+        "titolo": "5 days",
+        "tappe": [
+          "Day 1: flight or overnight ferry to Pantelleria, pick up the car",
+          "Day 2: Lago Specchio di Venere and the mud, swims along the coast",
+          "Day 3: Montagna Grande, pantesco gardens and a winery",
+          "Day 4: tour of the dammusi and thermal pools, dinner with ricotta and mint ravioli",
+          "Day 5: return with margin for wind and sea"
+        ]
+      },
+      {
+        "titolo": "7 days",
+        "tappe": [
+          "Day 1-2: Lampedusa, Spiaggia dei Conigli with the season's rules",
+          "Day 3: boat tour around the island",
+          "Day 4: Linosa as a day trip or with one night",
+          "Day 5-6: back to Palermo or Porto Empedocle, then Egadi or Pantelleria",
+          "Day 7: margin for rough seas"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Favignana (town and Cala Rossa)",
+        "perChi": "those arriving from the mainland for a day or a few days",
+        "testo": "The widest offer and the most accessible prices of the three islands. In August it's full and noisy; you bike from any lodging."
+      },
+      {
+        "nome": "Pantelleria (Khamma and Scauri)",
+        "perChi": "anyone seeking dammusi and quiet",
+        "testo": "Sleep in a dammuso in the countryside, away from the port, with a garden and lava walls. You need a car for everything and you eat nearby."
+      },
+      {
+        "nome": "Lampedusa town",
+        "perChi": "anyone seeking sea and services",
+        "testo": "Seasonal lodging close to the port and beaches. From November to March almost everything closes. You rent a scooter for the farther beaches."
+      },
+      {
+        "nome": "Levanzo or Marettimo",
+        "perChi": "those wanting silence",
+        "testo": "Few beds, few restaurants, no nightlife. These are islands for a quiet night, with runs depending on the sea."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Egadi tuna",
+        "testo": "The Favignana tonnara was among the most important in the Mediterranean. Eaten fresh and preserved: ventresca, bottarga, mosciame."
+      },
+      {
+        "nome": "Pesto pantesco",
+        "testo": "A raw sauce of tomato, almonds, basil and garlic, often on pasta. Found on Pantelleria."
+      },
+      {
+        "nome": "Ricotta and mint ravioli",
+        "testo": "Ravioli «amari» with ricotta and mint, typical of Pantelleria, dressed with tomato sauce."
+      },
+      {
+        "nome": "Pantelleria capers",
+        "testo": "A Slow Food Presidium, hand-picked and kept under salt. Their aroma is stronger than others."
+      },
+      {
+        "nome": "Passito di Pantelleria",
+        "testo": "Sweet, amber wine from Zibibbo grapes, among the great sweet wines of the world. Tasted at the winery."
+      }
+    ],
+    attenzioni: [
+      "In rough seas ferries and hydrofoils don't leave, especially for Pantelleria and Lampedusa: allow a margin and don't book a flight for the same day.",
+      "At Spiaggia dei Conigli access is regulated to protect the turtles: find out the season's rules and don't take sand or shells away.",
+      "The Grotta del Genovese is visited only with a guide and by booking: don't count on free entry.",
+      "On Pantelleria look for a car early, because few vehicles are available in season.",
+      "Fresh water is scarce on Pantelleria, Lampedusa and the minor islands: use it sparingly.",
+      "The wind is constant on Pantelleria: choose sheltered coves and check the forecast."
+    ],
     esperienzeSlugs: ['passito-pantelleria'],
     tripSlugs: ['isole-siciliane'],
     imageAlt: "The turquoise water and low rocks of Lido Burrone in Favignana, Egadi Islands",

@@ -41,6 +41,143 @@ export const destinazioniSpagna: Destinazione[] = [
       "Elegir el primer tablao anunciado en el centro sin comprobar su reputación: los locales más turísticos hacen espectáculos estándar y amplificados, lejos del flamenco de los barrios",
       "Subir a la Giralda a mitad del día en temporada alta: las colas bajo el sol pueden ser largas",
     ],
+    luoghi: [
+      {
+        "nome": "Catedral de Sevilla y Giralda",
+        "testo": "La catedral gótica más grande del mundo, construida tras la Reconquista sobre el solar de la gran mezquita almohade. Dentro está el monumento funerario de Cristóbal Colón. El campanario, la Giralda, es el antiguo alminar: se sube por una rampa y no por escaleras, y desde arriba se ven los tejados y el Alcázar.",
+        "come": "Está en pleno centro, a pie desde Santa Cruz o la Plaza Nueva. La entrada única incluye catedral y Giralda: la visita empieza por la torre, que tiene un control de acceso aparte.",
+        "quando": "De lunes a sábado aproximadamente de 10:45 a 18:00, domingo desde media tarde hasta las 19:00 (horarios 2026, pueden cambiar por cultos: consultar el calendario de la web). Mejor a la apertura.",
+        "tempo": "Unos 75 minutos, 2 horas con calma",
+        "costo": "13 euros online, 14 euros en taquilla (2026)",
+        "url": "https://www.catedraldesevilla.es/",
+        "consiglio": "Comprar la entrada online la tarde anterior: en primavera la cola en taquilla puede costar una hora."
+      },
+      {
+        "nome": "Real Alcázar",
+        "testo": "Palacio real aún en uso, nacido como fortaleza musulmana y rehecho en el siglo XIV por el rey Pedro I en estilo mudéjar con artesanos de Granada. El Palacio de Pedro I, el Salón de Embajadores y los patios con yeserías son el corazón de la visita. Detrás hay grandes jardines con fuentes y laberintos de setos.",
+        "come": "Entrada por la Puerta del León, en la Plaza del Triunfo, frente a la catedral. Hay un recorrido único; las audioguías se alquilan en la entrada.",
+        "quando": "A primera hora o en el último turno de la tarde para evitar los grupos. Consultar horarios y precios en la web oficial antes de ir.",
+        "tempo": "2-3 horas",
+        "url": "https://www.alcazarsevilla.org/",
+        "consiglio": "Reservar online y elegir el primer turno: los patios son pequeños y solo se disfrutan sin multitudes. Los Aposentos Reales se visitan con una reserva aparte."
+      },
+      {
+        "nome": "Barrio de Santa Cruz",
+        "testo": "El antiguo barrio judío, entre la catedral y los jardines de Murillo. Callejuelas estrechas, balcones de hierro, plazuelas con naranjos y patios que se entrevén desde las rejas.",
+        "come": "A pie, justo detrás del Alcázar. No hay recorrido fijo: conviene entrar por la calle Judería y salir por el otro lado.",
+        "quando": "A las 8-9 de la mañana está vacío y fresco; después de las 11 se llena de grupos.",
+        "tempo": "1-2 horas",
+        "consiglio": "Volver por la noche, después de cenar: las callejuelas se vacían y las plazuelas están iluminadas."
+      },
+      {
+        "nome": "Plaza de España y Parque de María Luisa",
+        "testo": "Semicírculo monumental construido para la Exposición Iberoamericana de 1929, con un canal, puentes y una serie de alcobas de cerámica, una por provincia española. El parque contiguo es el gran pulmón verde de la ciudad.",
+        "come": "A pie en 20 minutos desde la catedral, o en un breve paseo en bici por el parque. Entrada libre.",
+        "quando": "A primera hora o al atardecer. En las horas centrales del verano no hay sombra.",
+        "tempo": "1 hora, más el parque",
+        "consiglio": "Quien quiera fotos sin gente debe llegar justo antes de las 9."
+      },
+      {
+        "nome": "Triana",
+        "testo": "El barrio al otro lado del Guadalquivir, históricamente de alfareros, marineros y gitanos. Es una de las cunas del flamenco. Hoy tiene un mercado cubierto, talleres de azulejos y bares en la calle Betis, frente al río.",
+        "come": "Se cruza el Puente de Isabel II (Puente de Triana) a pie desde el centro en 10-15 minutos.",
+        "quando": "El mercado funciona sobre todo por la mañana. Por la noche la calle Betis está llena de gente y el río da la vista sobre la Torre del Oro.",
+        "tempo": "2-3 horas",
+        "consiglio": "Comer aquí en lugar de en el centro: los bares cuestan menos y los clientes son sobre todo del barrio."
+      },
+      {
+        "nome": "Flamenco en un tablao",
+        "testo": "El flamenco se ve mejor en locales pequeños, donde los músicos tocan a pocos metros del público y sin amplificación. Cantaor, guitarrista y bailaor se responden: es un espectáculo que se sigue sin entender las palabras.",
+        "come": "Se reserva plaza por teléfono o en la web del local, con unos días de antelación. Los espectáculos duran aproximadamente una hora. El Museo del Baile Flamenco, en Santa Cruz, también organiza veladas.",
+        "quando": "Espectáculos casi todos los días, normalmente de 19:00 a 21:00. Comprobar la programación semanal.",
+        "tempo": "1-1 hora y media",
+        "consiglio": "Sentarse en las primeras filas y preguntar al local si el programa es acústico: evita los grandes espectáculos para grupos."
+      },
+      {
+        "nome": "Metropol Parasol (Las Setas) y Casa de Pilatos",
+        "testo": "Las Setas es una gran estructura de madera con pasarela panorámica sobre la Plaza de la Encarnación, abierta en 2011 sobre un yacimiento arqueológico romano. La Casa de Pilatos es un palacio nobiliario de estilo mudéjar y renacentista, menos visitado que el Alcázar pero con patios parecidos.",
+        "come": "A pie desde el centro, unos 10 minutos desde la Plaza Nueva hasta Las Setas y 10 desde el lado opuesto hasta la Casa de Pilatos.",
+        "quando": "Las Setas al atardecer, la Casa de Pilatos por la mañana. Consultar horarios en las webs de los gestores.",
+        "tempo": "1 hora cada una",
+        "consiglio": "Si el Alcázar está agotado para la fecha elegida, la Casa de Pilatos es la alternativa más cercana para ver un palacio mudéjar."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "8:30 Catedral y Giralda con la entrada online ya comprada, antes de los grupos.",
+          "11:00 Real Alcázar, en el primer turno disponible o con audioguía.",
+          "14:00 Comida tardía en Santa Cruz o en un bar del centro: tapas y salmorejo.",
+          "16:30 Paseo por la Plaza de España y el Parque de María Luisa, donde la sombra ayuda.",
+          "20:00 Cruzar el Puente de Triana, cena de tapas junto al río y, si se puede, flamenco acústico."
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: como el programa de un día, sin prisas y con una pausa a media tarde.",
+          "Día 2, mañana: Casa de Pilatos y Las Setas, a pie por la calle Sierpes.",
+          "Día 2, media mañana: mercado de Triana y talleres de cerámica.",
+          "Día 2, tarde: Torre del Oro y paseo por el Guadalquivir.",
+          "Día 2, noche: espectáculo de flamenco, después tapeo."
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1 y 2: como arriba.",
+          "Día 3, mañana: excursión a Córdoba en tren AVE, unos 45 minutos, para ver la Mezquita.",
+          "Día 3, tarde: regreso a Sevilla y último paseo por el parque de María Luisa o por Santa Cruz de noche."
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Santa Cruz",
+        "perChi": "Quien quiere estar a dos pasos de los monumentos",
+        "testo": "Se sale del hotel y ya se está bajo la catedral. De día está lleno y de noche en las callejuelas se oyen las mesas de los restaurantes para turistas. Los precios son los más altos. Se anda solo a pie y los taxis no entran en las callejuelas."
+      },
+      {
+        "nome": "Triana",
+        "perChi": "Quien prefiere un barrio vivo y menos turístico",
+        "testo": "Cuesta un poco menos y tiene más bares frecuentados por vecinos. El centro queda a 10-15 minutos a pie cruzando el puente. El ruido de los locales junto al río por la noche puede llegar a las habitaciones más cercanas."
+      },
+      {
+        "nome": "Alameda de Hércules y la Macarena",
+        "perChi": "Quien viaja con presupuesto ajustado o le gusta la vida nocturna",
+        "testo": "Barrio más joven, con bares, locales alternativos y precios contenidos. Está a 15-20 minutos a pie de la catedral. El fin de semana la plaza es ruidosa hasta tarde."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Salmorejo",
+        "testo": "Crema fría de tomate, pan, aceite y ajo, más espesa que el gazpacho, con huevo cocido y jamón. Se encuentra en casi todos los bares como primero o como tapa."
+      },
+      {
+        "nome": "Espinacas con garbanzos",
+        "testo": "Espinacas y garbanzos con comino y ajo, un plato de origen morisco servido en ración pequeña en los bares de tapas."
+      },
+      {
+        "nome": "Pescaíto frito",
+        "testo": "Fritura de pescado variado (boquerones, calamares, merluza) enharinado con harina fina y frito en aceite de oliva. Es tradición de los viernes y se come en freidurías y bares de Triana."
+      },
+      {
+        "nome": "Jamón ibérico y carrillada",
+        "testo": "El jamón curado se sirve en lonchas finas en la barra. La carrillada es la mejilla de cerdo guisada en vino, tierna, entre los platos más pedidos en los bares de barrio."
+      },
+      {
+        "nome": "Torrijas y pestiños",
+        "testo": "Dulces típicos de la Semana Santa: las torrijas son rebanadas de pan empapadas en leche y fritas, los pestiños son buñuelos con miel. Se encuentran en las pastelerías en esas fechas."
+      }
+    ],
+    attenzioni: [
+      "Mujeres que ofrecen ramitas de romero delante de la catedral: leen la mano o bendicen y luego piden dinero. Basta decir que no y no coger la ramita.",
+      "Carteristas en las zonas concurridas: catedral, Santa Cruz, Plaza de España y tranvías. Llevar el bolso por delante y el móvil en un bolsillo interior.",
+      "Entradas del Real Alcázar, la catedral y la Giralda: comprarlas solo en las webs oficiales. Los revendedores cobran recargos, y en Semana Santa y en la Feria de Abril las fechas se agotan con antelación.",
+      "Calor de junio a septiembre: las horas entre las 13 y las 18 se pasan en interiores. Llevar agua y gorra.",
+      "Tablaos: desconfiar de quien para por la calle con folletos de descuento. Reservar directamente con el local."
+    ],
     esperienzeSlugs: ['flamenco-triana', 'tapeo-siviglia'],
     tripSlugs: ['andalusia-itinerario'],
     imageAlt: "La Giralda y las agujas de la Catedral de Sevilla junto a una torre de las murallas del Real Alcázar",
@@ -84,6 +221,132 @@ export const destinazioniSpagna: Destinazione[] = [
       "Subestimar las cuestas del Albaicín y del Sacromonte: son empinadas y empedradas, poco cómodas con equipaje o con calzado inadecuado",
       "Reservar un espectáculo de flamenco sin informarse: en el Sacromonte conviven zambras auténticas y formatos muy turísticos al mismo precio",
     ],
+    luoghi: [
+      {
+        "nome": "Alhambra y Generalife",
+        "testo": "Ciudadela de los sultanes nazaríes en la colina de la Sabika: los Palacios Nazaríes con yeserías y techos de mocárabes, la Alcazaba militar, el palacio renacentista de Carlos V y los jardines del Generalife. El Patio de los Leones y la Sala de las Dos Hermanas son los puntos más conocidos.",
+        "come": "A pie cuesta arriba desde el centro (25-30 minutos) o en minibús urbano. La entrada es con billete nominal y para los Palacios Nazaríes vale la franja horaria impresa: llegar con antelación, no tarde. Hacen falta documento y confirmación.",
+        "quando": "Abierta todos los días, con horarios distintos entre verano e invierno. Las entradas se compran solo por el canal oficial, hasta tres meses antes, y en temporada alta se agotan con semanas de antelación. Consultar horarios y precios en la web oficial.",
+        "tempo": "3-4 horas, media jornada para verlo todo",
+        "url": "https://www.alhambra-patronato.es/",
+        "consiglio": "Elegir la franja de la mañana para los Palacios Nazaríes, cuando la luz entra por los patios. Tener en cuenta que el recorrido es todo al aire libre."
+      },
+      {
+        "nome": "Albaicín",
+        "testo": "El barrio morisco en la ladera, patrimonio UNESCO, con callejuelas estrechas en cuesta, carmenes (casas con jardín cercado) y pequeñas plazas. Desde varios puntos se ve la Alhambra enfrente.",
+        "come": "A pie desde la Plaza Nueva, subiendo por la Cuesta del Chapiz o la calle Calderería Nueva. También hay minibuses que dan la vuelta al barrio.",
+        "quando": "A primera hora o a última de la tarde. En las horas centrales del verano las cuestas pesan.",
+        "tempo": "2-3 horas",
+        "consiglio": "Bajar a pie y subir en minibús: las pendientes se notan sobre todo al subir."
+      },
+      {
+        "nome": "Mirador de San Nicolás",
+        "testo": "El mirador más conocido de Granada: delante se abre la Alhambra y detrás las cumbres de Sierra Nevada. Al atardecer se llena de gente, con músicos y vendedores.",
+        "come": "Subida a pie de unos 20 minutos desde la Plaza Nueva, o con el minibús C31 desde el centro. Entrada libre.",
+        "quando": "Al atardecer. Como alternativa, al amanecer, casi sin gente.",
+        "tempo": "30-60 minutos",
+        "consiglio": "Quien busque la misma vista con menos gente puede subir al cercano Mirador de San Cristóbal o al Carmen de los Mártires."
+      },
+      {
+        "nome": "Catedral y Capilla Real",
+        "testo": "La catedral renacentista tiene una nave alta y clara, distinta de las góticas. La Capilla Real, al lado, guarda las tumbas de los Reyes Católicos, Fernando e Isabel, en mármol tallado.",
+        "come": "A pie desde el centro, en el barrio de la catedral. Son dos entradas separadas.",
+        "quando": "Abiertas todos los días, normalmente con pausa en las horas centrales, y el domingo con horario reducido. Consultar los horarios oficiales.",
+        "tempo": "1 hora la catedral, 30-45 minutos la Capilla Real",
+        "url": "https://catedraldegranada.com/",
+        "consiglio": "Conviene visitarlas después de la Alhambra, para entender lo que vino tras la caída del reino nazarí."
+      },
+      {
+        "nome": "Sacromonte y Museo Cuevas del Sacromonte",
+        "testo": "El barrio de casas-cueva en la colina frente a la Alhambra, habitado históricamente por la comunidad gitana. Aquí nació la zambra, un flamenco más ritual y de grupo, que se ve en algunas cuevas.",
+        "come": "A pie por el Camino del Sacromonte desde el Albaicín, o en el minibús C34. El camino es largo y en cuesta.",
+        "quando": "Espectáculos por la noche. De día se visita el museo y se pasea por el paisaje de las cuevas.",
+        "tempo": "2-3 horas, más la noche para un espectáculo",
+        "consiglio": "Antes de reservar una zambra, leer reseñas recientes: los espectáculos muy turísticos cuestan igual que los serios."
+      },
+      {
+        "nome": "Alcaicería y Corral del Carbón",
+        "testo": "La Alcaicería era el antiguo mercado de la seda nazarí: hoy es un laberinto de tiendas para turistas. El Corral del Carbón, al lado, es una alhóndiga del siglo XIV, uno de los pocos edificios civiles moriscos que quedan en España.",
+        "come": "A pie, a pocos pasos de la catedral. La entrada al Corral es libre en horario de apertura.",
+        "quando": "Por la mañana, cuando abren las tiendas y las calles están más libres.",
+        "tempo": "30-45 minutos",
+        "consiglio": "El Corral merece verse aunque sea solo para entrar en el patio con galerías de madera."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "8:30 Alhambra con entrada ya reservada y franja de la mañana para los Palacios Nazaríes.",
+          "13:30 Comida en el centro con tapas gratis con la bebida.",
+          "16:00 Catedral y Capilla Real.",
+          "18:30 Subida al Albaicín y Mirador de San Nicolás para el atardecer.",
+          "21:00 Ruta de bares de tapas en el centro o en la calle Navas."
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: como el programa de un día, con Alhambra y atardecer.",
+          "Día 2, mañana: Albaicín y Corral del Carbón.",
+          "Día 2, tarde: Sacromonte y Museo de las Cuevas.",
+          "Día 2, noche: zambra en una cueva, tras comprobar las reseñas."
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1 y 2: como arriba.",
+          "Día 3: excursión a Sierra Nevada (en invierno esquí a una hora en coche) o a las Alpujarras, con pueblos blancos en la vertiente sur de la cordillera."
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Centro alrededor de la catedral",
+        "perChi": "Quien quiere comodidad y vida nocturna",
+        "testo": "Todo a pie: Alhambra, tapas, Albaicín. Por la noche el ruido de los bares llega a las habitaciones bajas. Los precios son medios."
+      },
+      {
+        "nome": "Albaicín",
+        "perChi": "Quien busca ambiente y vista a la Alhambra",
+        "testo": "Habitaciones en carmenes y pequeñas pensiones, silencio por la noche. Las calles son empinadas y empedradas, incómodas con maletas: muchas veces el taxi no llega a la puerta."
+      },
+      {
+        "nome": "Realejo",
+        "perChi": "Quien quiere un barrio de vida local, más económico",
+        "testo": "A los pies de la Alhambra, con bares frecuentados por universitarios y precios bajos. El centro está a 10-15 minutos a pie y la subida hacia la colina empieza enseguida."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Tapa gratis con la bebida",
+        "testo": "En Granada con cada consumición llega una tapa de regalo: si pides otra bebida, la tapa cambia. La ruta por calle Navas, calle Elvira y Realejo es una cena barata."
+      },
+      {
+        "nome": "Remojón granadino",
+        "testo": "Ensalada de naranja, bacalao desalado, cebolla y aceitunas negras, con aceite de oliva. Es un plato frío de origen campesino."
+      },
+      {
+        "nome": "Habas con jamón y tortilla del Sacromonte",
+        "testo": "Las habas con jamón son un clásico de temporada. La tortilla del Sacromonte, con sesos y criadillas de cordero, es un plato histórico de los gitanos; se encuentra en pocos restaurantes y hay que pedirla sabiendo lo que es."
+      },
+      {
+        "nome": "Piononos de Santa Fe",
+        "testo": "Pequeños dulces enrollados empapados en almíbar, con crema quemada encima, nacidos en Santa Fe, cerca de Granada. Se compran en las pastelerías del centro."
+      },
+      {
+        "nome": "Té y dulces árabes en la calle Calderería",
+        "testo": "Las teterías de la Calderería Nueva sirven té a la menta y pasteles. Es una tradición reciente nacida del barrio morisco, útil para una pausa."
+      }
+    ],
+    attenzioni: [
+      "Entradas de la Alhambra: comprar solo en la web oficial. Hay revendedores que inflan los precios; las entradas son nominales y se necesita documento.",
+      "Mujeres que ofrecen romero o leen la mano cerca de la catedral y la Alhambra: luego piden dinero. Decir que no y no coger nada en la mano.",
+      "Albaicín y Sacromonte después de oscurecer: callejuelas poco iluminadas, algún episodio de robo. Mejor moverse en grupo o en minibús por la noche.",
+      "Zona de bajas emisiones en el centro: si se llega en coche, comprobar en la web del ayuntamiento las normas para matrículas extranjeras antes de entrar.",
+      "Cuestas empinadas: calzado cómodo, agua en verano, y contar con más tiempo para moverse del que indica el mapa."
+    ],
     esperienzeSlugs: ['alhambra-visita', 'zambra-sacromonte'],
     tripSlugs: ['andalusia-itinerario'],
     imageAlt: "La Alhambra de Granada con el Palacio de Carlos V y las torres nazaríes iluminadas por la luz del amanecer, con Sierra Nevada al fondo",
@@ -126,6 +389,107 @@ export const destinazioniSpagna: Destinazione[] = [
       "Tratar Córdoba como media jornada apresurada entre Sevilla y Granada: solo la Mezquita merece al menos 2 horas con calma",
       "Perderse el Festival de los Patios si el viaje cae en mayo: hay que programarlo con tiempo, porque los patios abiertos tienen horarios limitados",
     ],
+    luoghi: [
+      {
+        "nome": "Mezquita-Catedral",
+        "testo": "La mezquita fundada en el siglo VIII y ampliada varias veces por los omeyas: un bosque de columnas con arcos bicolores de doble nivel. Tras la Reconquista se construyó en el centro una catedral renacentista. El Mihrab, el nicho de oración, está decorado con mosaicos bizantinos.",
+        "come": "Entrada por la Puerta del Perdón o el Patio de los Naranjos, a un paso del río. Se visita por cuenta propia, con audioguía de alquiler; la catedral del centro se atraviesa en el mismo recorrido.",
+        "quando": "De lunes a sábado, de 8:30 a 9:30, la entrada es gratuita (acceso hasta las 9:20, sin grupos); después se paga. Los horarios cambian según la temporada y los cultos: consultar la web oficial.",
+        "tempo": "1 hora y media-2 horas",
+        "costo": "15 euros (2026)",
+        "url": "https://mezquita-catedraldecordoba.es/",
+        "consiglio": "La franja gratuita de la mañana es la mejor: poca gente y luz rasante en las naves. También se puede pagar y entrar después, pero se pierde el silencio."
+      },
+      {
+        "nome": "Judería y Calleja de las Flores",
+        "testo": "El antiguo barrio judío, detrás de la Mezquita: callejuelas blancas y estrechas, patios con flores y la pequeña Calleja de las Flores que se abre hacia la torre del campanario. Aquí está también la sinagoga del siglo XIV, una de las tres que quedan en España.",
+        "come": "A pie, empezando por la Puerta de Almodóvar. No hay recorrido obligado.",
+        "quando": "A primera hora o a última de la tarde. A mediodía en verano las callejuelas retienen el calor.",
+        "tempo": "1-2 horas",
+        "consiglio": "Asomarse a los patios abiertos: la puerta a menudo queda entornada y se puede mirar desde la entrada."
+      },
+      {
+        "nome": "Alcázar de los Reyes Cristianos",
+        "testo": "Fortaleza-palacio construida por Alfonso XI en el siglo XIV y usada por los Reyes Católicos. Dentro hay mosaicos romanos, baños y jardines en terrazas con fuentes y cítricos, que se ven bien desde las torres.",
+        "come": "A pie desde la Mezquita, 5 minutos hacia el río. Se suben las torres para ver la ciudad.",
+        "quando": "Comprobar horarios y días de cierre en la web del monumento. En verano, mejor por la mañana.",
+        "tempo": "1-1 hora y media",
+        "consiglio": "Los jardines son la única sombra donde sentarse después de la Mezquita."
+      },
+      {
+        "nome": "Puente Romano y Torre de la Calahorra",
+        "testo": "Puente de 16 arcos sobre el Guadalquivir, de origen romano y reconstruido varias veces. Desde la orilla opuesta se tiene la vista clásica de la Mezquita. La torre de la Calahorra, en el extremo, alberga un museo.",
+        "come": "A pie, a un paso de la Mezquita. El puente es solo peatonal.",
+        "quando": "Al atardecer o de noche, cuando la Mezquita está iluminada.",
+        "tempo": "30-45 minutos",
+        "consiglio": "Cruzar el puente y hacer la foto desde la orilla opuesta, no desde el puente."
+      },
+      {
+        "nome": "Patios de Córdoba",
+        "testo": "Los patios interiores de las casas, con macetas, fuentes y pozos, son una tradición local reconocida por la UNESCO. Durante la fiesta de mayo los propietarios abren las casas al público y el más bonito gana un concurso.",
+        "come": "A pie por el barrio de San Basilio y la Judería. Algunos patios públicos se visitan todo el año.",
+        "quando": "Fiesta a primeros de mayo, durante unas dos semanas. Fechas y horarios se consultan en la web de turismo de la ciudad.",
+        "tempo": "1-2 horas",
+        "consiglio": "San Basilio, al suroeste, tiene los patios más cuidados y menos gente que la Judería."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "8:30 Mezquita en la franja gratuita de la mañana, entrando antes de las 9:20.",
+          "10:30 Judería y Calleja de las Flores.",
+          "12:30 Alcázar de los Reyes Cristianos.",
+          "14:00 Comida con salmorejo y rabo de toro, luego pausa en las horas de calor.",
+          "18:30 Puente Romano y orilla opuesta, cuando la luz es mejor."
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: como el programa de un día, con más tiempo para las callejuelas.",
+          "Día 2, mañana: patios de San Basilio (o la ruta de la fiesta en mayo).",
+          "Día 2, tarde: Medina Azahara, la ciudad califal a pocos kilómetros, con el autobús del yacimiento.",
+          "Día 2, noche: cena de tapas en el centro."
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Judería",
+        "perChi": "Quien quiere estar cerca de la Mezquita",
+        "testo": "Habitaciones en casas históricas con patio, a un minuto del monumento. De noche es silenciosa, pero hay más turistas y restaurantes caros. El tráfico no llega hasta las callejuelas."
+      },
+      {
+        "nome": "Centro alrededor de Plaza de las Tendillas",
+        "perChi": "Quien busca precios más bajos y vida nocturna",
+        "testo": "Zona comercial y de bares, a 10 minutos a pie de la Mezquita. Las habitaciones del lado de la calle pueden ser ruidosas el fin de semana."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Salmorejo cordobés",
+        "testo": "Crema fría de tomate y pan, más espesa que el gazpacho, con jamón y huevo cocido. Nacida en Córdoba, es el primero más pedido."
+      },
+      {
+        "nome": "Rabo de toro",
+        "testo": "Rabo de toro guisado durante horas con vino y verduras, servido caliente. Es el plato de taberna más asociado a la ciudad."
+      },
+      {
+        "nome": "Flamenquín",
+        "testo": "Rollo de lomo de cerdo y jamón, empanado y frito. También se come como tapa."
+      },
+      {
+        "nome": "Berenjenas con miel de caña",
+        "testo": "Berenjenas fritas en rebozado ligero, servidas con melaza de caña. Un plato sencillo y muy común en los bares."
+      }
+    ],
+    attenzioni: [
+      "Mezquita: la franja gratuita de la mañana tiene un control de acceso que se cierra hacia las 9:20. Quien llega después debe pagar la entrada.",
+      "Verano: de mediados de julio a agosto las temperaturas superan a menudo los 40 grados. Planificar las visitas a primera hora y por la noche.",
+      "Vendedores de romero delante de la Mezquita y en la Judería: piden dinero tras ponértelo en la mano. Decir que no.",
+      "Mayo, fiesta de los patios: alojamientos y trenes se llenan con semanas de antelación, reservar pronto."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['andalusia-itinerario'],
     imageAlt: "El bosque de columnas y arcos bicolores rojos y blancos dentro de la Mezquita de Córdoba",
@@ -165,6 +529,96 @@ export const destinazioniSpagna: Destinazione[] = [
       "Hacerla en el día desde Sevilla sin pernoctar: el trayecto (unas 2 h por tramo) hace la visita apresurada si no se pasa al menos una noche",
       "Conducir entre los pueblos blancos sin contar con carreteras de montaña estrechas y curvas cerradas",
       "Subestimar el viento en el Puente Nuevo: en la garganta las corrientes pueden ser fuertes, sobre todo en invierno",
+    ],
+    luoghi: [
+      {
+        "nome": "Puente Nuevo y el Tajo",
+        "testo": "El puente de piedra terminado en 1793 salva la garganta del Tajo, de más de 100 metros de profundidad, y une la ciudad morisca con el barrio nuevo. Se puede cruzar a pie y mirarlo desde abajo, por los senderos de los miradores.",
+        "come": "A pie desde el centro, el puente está en pleno pueblo. Para verlo desde abajo se baja por el sendero del Camino de los Molinos, en el lado sur, o por el Mirador de Aldehuela.",
+        "quando": "Entrada libre en el puente. El mejor momento es el atardecer, con luz baja sobre la garganta.",
+        "tempo": "1-2 horas",
+        "consiglio": "El sendero de bajada es empinado y la subida cansa: calzado cerrado y agua."
+      },
+      {
+        "nome": "Plaza de Toros",
+        "testo": "La plaza de toros de Ronda, de 1785, es de las más antiguas de España y sede de la escuela de tauromaquia moderna de Pedro Romero. Dentro hay un pequeño museo con trajes y carteles. También se puede entrar como simple lugar arquitectónico, sin asistir a corridas.",
+        "come": "A pie desde el Puente Nuevo, 5 minutos hacia el barrio del Mercadillo.",
+        "quando": "Comprobar horarios y días de apertura en la web del gestor; cambian según la temporada.",
+        "tempo": "1 hora",
+        "consiglio": "Quien no quiera el tema taurino puede mirar solo la arquitectura y las caballerizas."
+      },
+      {
+        "nome": "Baños Árabes y la Ciudad",
+        "testo": "La Ciudad, el barrio morisco, tiene callejuelas estrechas y puertas antiguas. Los baños árabes de los siglos XIII-XIV, a los pies de la ciudad vieja, están entre los mejor conservados de España, con bóvedas estrelladas.",
+        "come": "A pie desde el Puente Nuevo, bajando hacia el río Guadalevín. El recorrido es cuesta abajo y a la sombra.",
+        "quando": "Comprobar los horarios de apertura en la web del ayuntamiento. Por la mañana para evitar a los grupos.",
+        "tempo": "1-1 hora y media en total",
+        "consiglio": "Se combina bien con el sendero de los molinos bajo la garganta, en la misma media jornada."
+      },
+      {
+        "nome": "Setenil de las Bodegas",
+        "testo": "Pueblo blanco a media hora de carretera de Ronda, con casas y bares construidos bajo rocas que sobresalen sobre el río. Las calles más conocidas son Cuevas del Sol y Cuevas de la Sombra, con mesas a la sombra de la roca.",
+        "come": "Se llega en coche desde Ronda en unos 25-30 minutos, con curvas de montaña. El pueblo es pequeño y se recorre a pie.",
+        "quando": "Por la mañana o a mediodía para comer. Los fines de semana de verano el acceso en coche es lento.",
+        "tempo": "2-3 horas",
+        "consiglio": "Aparcar en los aparcamientos de las afueras, no en las calles estrechas."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "9:30 Puente Nuevo y paseo por el barrio morisco.",
+          "11:00 Baños Árabes y sendero de bajada a la garganta.",
+          "13:30 Comida con rabo de toro o cordero.",
+          "16:00 Plaza de Toros y museo.",
+          "19:00 Atardecer desde los miradores sobre la garganta."
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: como el programa de un día, con noche en Ronda.",
+          "Día 2, mañana: Setenil de las Bodegas en coche.",
+          "Día 2, tarde: Grazalema y el parque natural Sierra de Grazalema, por carretera panorámica."
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Casco histórico de Ronda",
+        "perChi": "Quien quiere ver el puente por la noche y por la mañana",
+        "testo": "Hoteles y pensiones a un paso del Puente Nuevo. El pueblo se vacía tras la puesta de sol, cuando los grupos de la excursión se van. Las calles son estrechas y aparcar cuesta."
+      },
+      {
+        "nome": "Campo alrededor de Ronda",
+        "perChi": "Quien viaja en coche y busca silencio",
+        "testo": "Agroturismos y cortijos entre olivares y viñedos, a 10-15 minutos de carretera del pueblo. Hace falta coche para cenar fuera."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Rabo de toro",
+        "testo": "Rabo de toro guisado, plato típico de Ronda ligado a la tradición taurina. Se come en los restaurantes del centro."
+      },
+      {
+        "nome": "Cordero serrano",
+        "testo": "Cordero de montaña a la brasa o al horno, servido con patatas. Plato de comida de domingo."
+      },
+      {
+        "nome": "Queso de cabra payoyo",
+        "testo": "Queso de cabra de la raza payoya, producido en la Sierra de Grazalema, curado o fresco."
+      },
+      {
+        "nome": "Vinos Sierras de Málaga",
+        "testo": "Vinos tintos y blancos de las bodegas de alrededor de Ronda, algunas de las cuales se visitan con cita previa."
+      }
+    ],
+    attenzioni: [
+      "Carreteras de montaña hacia Setenil y Grazalema: curvas cerradas y poca visibilidad. Conducir despacio y ceder el paso a vehículos más grandes.",
+      "Aparcamiento en Ronda y en los pueblos: las zonas azules son de pago y las multas son frecuentes. Usar los aparcamientos cubiertos fuera del centro.",
+      "Viento fuerte sobre la garganta en invierno: por el sendero y en los miradores mantenerse lejos del borde.",
+      "Grupos de un día desde Sevilla y la Costa del Sol: entre las 11 y las 16 el centro está lleno. Quien duerme en Ronda tiene mañanas y noches casi vacías."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['andalusia-itinerario'],
@@ -211,6 +665,131 @@ export const destinazioniSpagna: Destinazione[] = [
       "Quedarse en un solo bar toda la noche: el sentido del txikiteo es moverse",
       "Subestimar el tiempo atlántico incluso en verano: llueve más a menudo que en las otras tres regiones españolas de esta guía, así que conviene llevar siempre una chaqueta ligera",
     ],
+    luoghi: [
+      {
+        "nome": "Parte Vieja y ruta de pintxos",
+        "testo": "El casco antiguo, entre la Plaza de la Constitución, el puerto y el Monte Urgull, es la zona con más bares de pintxos de la ciudad. El rito se llama txikiteo: un bar, uno o dos pintxos, un vaso, y luego se cambia de local.",
+        "come": "A pie desde el paseo marítimo o el Boulevard. Se come de pie en la barra, se cogen los pintxos fríos del mostrador y los calientes se piden de viva voz.",
+        "quando": "Comida desde las 13 y noche desde las 19-20. El fin de semana los mejores bares están llenos.",
+        "tempo": "2-3 horas de ruta",
+        "consiglio": "Pedir siempre el pintxo caliente de la casa, no solo los del mostrador. Al final se dice al camarero lo que se ha consumido."
+      },
+      {
+        "nome": "Playa de la Concha y Paseo de la Concha",
+        "testo": "La playa urbana en forma de concha, con la barandilla blanca del paseo marítimo. Las aguas están protegidas por la isla de Santa Clara y el fondo es poco profundo.",
+        "come": "A pie desde el centro; el paseo desde la Parte Vieja hasta el Peine del Viento mide unos 3 km.",
+        "quando": "Para bañarse, de junio a septiembre. La marea alta estrecha mucho la playa.",
+        "tempo": "1-3 horas",
+        "consiglio": "Comprobar las mareas: con marea baja la playa se duplica."
+      },
+      {
+        "nome": "Monte Igueldo",
+        "testo": "La colina al oeste de la bahía, con un parque de atracciones y un mirador. Se sube en un funicular de 1912, de los más antiguos del país.",
+        "come": "Funicular desde la base, a la que se llega en autobús urbano desde el centro. Como alternativa, a pie, en unos 40 minutos.",
+        "quando": "Al atardecer. Comprobar la temporada y los horarios del funicular en la web oficial.",
+        "tempo": "1-1 hora y media",
+        "consiglio": "Subir hacia la hora del atardecer y bajar a pie por la carretera panorámica."
+      },
+      {
+        "nome": "Monte Urgull",
+        "testo": "La colina fortificada entre la Parte Vieja y el puerto, con senderos entre árboles y baluartes, el castillo de Santa Cruz de la Mota y la estatua del Sagrado Corazón en la cima.",
+        "come": "A pie desde la Parte Vieja, escaleras junto al puerto. Entrada libre al parque.",
+        "quando": "Todo el año; con lluvia los senderos resbalan.",
+        "tempo": "1-1 hora y media",
+        "consiglio": "Senderos sombreados, buenos en las horas de calor del verano."
+      },
+      {
+        "nome": "Peine del Viento",
+        "testo": "Escultura de acero de Eduardo Chillida (1977) anclada a las rocas al final de La Concha. Tres elementos de metal se proyectan sobre el mar y, con olas altas, chorros de agua salen de orificios en el suelo.",
+        "come": "A pie desde La Concha, al final del paseo, o en autobús hasta Ondarreta.",
+        "quando": "Con mar movido o con marea alta, cuando las salpicaduras se notan más.",
+        "tempo": "30 minutos",
+        "consiglio": "Con olas fuertes mantenerse lejos de la plataforma baja."
+      },
+      {
+        "nome": "Getaria y Zarautz",
+        "testo": "Dos pueblos de la costa, a 20-25 minutos de San Sebastián. Getaria es conocida por el pescado a la brasa (rodaballo) y el vino txakoli, Zarautz por su larga playa y el surf.",
+        "come": "Lurraldebus desde la estación de autobuses de San Sebastián o tren regional a Zarautz. Se hace en media jornada.",
+        "quando": "Todo el año. En Getaria el pescado a la brasa se come a mediodía.",
+        "tempo": "Media jornada",
+        "consiglio": "Probar el pescado en los locales de Getaria que asan en la calle."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "9:00 Paseo por el Paseo de la Concha hasta el Peine del Viento.",
+          "11:00 Monte Urgull a pie, vista al puerto.",
+          "13:00 Comida con ruta de pintxos en la Parte Vieja.",
+          "16:00 Playa de la Concha o descanso.",
+          "19:00 Funicular del Monte Igueldo para el atardecer.",
+          "21:00 Segunda ronda de pintxos."
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: como el programa de un día.",
+          "Día 2, mañana: Gros y playa de Zurriola, desayuno en el mercado.",
+          "Día 2, tarde: Getaria en autobús, pescado a la brasa.",
+          "Día 2, noche: última velada de pintxos y txakoli o sidra."
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1 y 2: como arriba.",
+          "Día 3: excursión de un día a Hondarribia (pueblo de pescadores) o a Pasaia en barco, y regreso por la noche."
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Parte Vieja",
+        "perChi": "Quien quiere estar entre los bares",
+        "testo": "Comer y salir a pie, pero de noche el ruido dura hasta tarde y los precios son más altos. Las habitaciones son pequeñas."
+      },
+      {
+        "nome": "Centro (Área Romántica)",
+        "perChi": "Quien busca comodidad y tiendas",
+        "testo": "Barrio decimonónico entre La Concha y el Boulevard, a 5-10 minutos de la Parte Vieja. Más tranquilo que la zona vieja, con precios medios."
+      },
+      {
+        "nome": "Gros",
+        "perChi": "Quien ama el surf y quiere menos turistas",
+        "testo": "Al otro lado del río Urumea, cerca de la playa de Zurriola. Bares y pintxos a precios más bajos, a 15 minutos a pie del casco viejo."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Pintxos",
+        "testo": "Tapas sobre una rebanada de pan: gilda (aceituna, anchoa y guindilla), tortilla, jamón, bacalao. En la barra se cogen con las manos."
+      },
+      {
+        "nome": "Txakoli",
+        "testo": "Vino blanco vasco ligeramente espumoso, escanciado desde lo alto en el vaso. Se bebe sobre todo en verano."
+      },
+      {
+        "nome": "Sidra",
+        "testo": "Sidra vasca natural, sin gas, servida en las sidrerías del interior con menú cerrado de tortilla de bacalao, chuletón y queso."
+      },
+      {
+        "nome": "Bacalao al pil-pil",
+        "testo": "Bacalao cocinado lentamente en aceite de oliva y ajo hasta formar una salsa emulsionada."
+      },
+      {
+        "nome": "Tarta de queso",
+        "testo": "La tarta de queso vasca, horneada alta y cremosa con la superficie quemada, hecha famosa por un bar de la Parte Vieja."
+      }
+    ],
+    attenzioni: [
+      "Precios: los bares más turísticos de la Parte Vieja cobran mucho por un pintxo. Mirar la barra y la lista de precios antes de pedir.",
+      "Lluvia y fresco incluso en verano: llevar chubasquero.",
+      "Mar en La Concha: comprobar bandera y mareas antes de entrar, porque hay corrientes cerca de las rocas.",
+      "Carteristas entre la multitud en la Parte Vieja los fines de semana y durante las fiestas de agosto (Semana Grande): llevar el bolso por delante.",
+      "En sidrerías y restaurantes reservar el fin de semana: los buenos locales se llenan."
+    ],
     esperienzeSlugs: ['pintxos-crawl-donostia'],
     tripSlugs: ['spagna-nord-itinerario'],
     imageAlt: "La playa de La Concha en San Sebastián con la isla de Santa Clara y el Monte Igueldo al fondo",
@@ -252,6 +831,112 @@ export const destinazioniSpagna: Destinazione[] = [
       "Tratar Bilbao como una parada fugaz entre San Sebastián y Cantabria: el Casco Viejo merece al menos una noche entera",
       "Subestimar la lluvia: llevar siempre un impermeable ligero, independientemente de la estación",
     ],
+    luoghi: [
+      {
+        "nome": "Museo Guggenheim Bilbao",
+        "testo": "El museo de Frank Gehry, abierto en 1997, todo de titanio, cristal y piedra caliza, a orillas del Nervión. Fuera están «Puppy» de Jeff Koons, cubierto de flores, y «Maman», la araña de Louise Bourgeois. Dentro se alternan exposiciones temporales y una colección de arte contemporáneo, con «La materia del tiempo» de Richard Serra.",
+        "come": "Metro hasta Moyúa, luego 10 minutos a pie, o tranvía hasta Guggenheim. También se puede visitar solo el exterior, que es libre, con el paseo junto al río.",
+        "quando": "Consultar horarios, días de cierre (normalmente el lunes en temporada baja) y precios en la web oficial. A primera hora la luz sobre el titanio es mejor.",
+        "tempo": "2-3 horas dentro, 30 minutos el exterior",
+        "url": "https://www.guggenheim-bilbao.eus/",
+        "consiglio": "Comprar la entrada online y ver primero las salas de Serra; luego el exterior al atardecer."
+      },
+      {
+        "nome": "Casco Viejo y Siete Calles",
+        "testo": "El casco histórico medieval, con las siete calles paralelas de las que nació la ciudad, la catedral de Santiago y la Plaza Nueva, rodeada de soportales. Aquí está una de las mejores escenas de pintxos del país.",
+        "come": "A pie o en metro hasta Casco Viejo. La Plaza Nueva es el punto de encuentro.",
+        "quando": "Pintxos desde el mediodía y desde las 19. El jueves por la noche y los fines de semana el barrio está lleno.",
+        "tempo": "2-3 horas",
+        "consiglio": "Probar los bares junto a la Plaza Nueva y los de las calles laterales, menos turísticos."
+      },
+      {
+        "nome": "Mercado de la Ribera",
+        "testo": "El mercado cubierto junto al río, de estilo racionalista y Art Déco, entre los más grandes de Europa. Puestos de pescado, carne y fruta y una planta superior con pintxos.",
+        "come": "A pie desde el Casco Viejo, a pocos minutos, a orillas del Nervión.",
+        "quando": "Por la mañana para los puestos. Comprobar horarios en fines de semana y festivos.",
+        "tempo": "1 hora",
+        "consiglio": "Tomar un pintxo o un café en la zona de restauración de la planta superior."
+      },
+      {
+        "nome": "Puente de Vizcaya (Portugalete)",
+        "testo": "Puente transbordador de 1893, aún en funcionamiento, patrimonio UNESCO. Una barquilla colgante transporta personas y coches de una orilla a otra de la ría en pocos minutos. También se puede subir a la pasarela alta.",
+        "come": "Metro línea 2 hasta Areeta (Getxo) o Portugalete. Desde el centro de Bilbao unos 30 minutos.",
+        "quando": "Funciona todo el año; comprobar horarios y precios del transbordo y de la pasarela.",
+        "tempo": "1-2 horas",
+        "url": "https://puente-colgante.com/",
+        "consiglio": "Cruzar en barquilla y volver en metro, para ver el puente desde abajo."
+      },
+      {
+        "nome": "Funicular de Artxanda",
+        "testo": "Funicular de 1915 que sube al monte Artxanda, sobre la ciudad, desde donde se ve todo Bilbao con el Guggenheim y la ría.",
+        "come": "La estación baja está a pocos minutos del centro, al otro lado del río.",
+        "quando": "Al atardecer, con el cielo despejado. Comprobar horarios en la web del gestor.",
+        "tempo": "1 hora",
+        "consiglio": "Subir hacia la hora del atardecer y parar a tomar una cerveza en la colina."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "9:30 Guggenheim, por la mañana.",
+          "12:30 Paseo por el Nervión hasta el Casco Viejo.",
+          "14:00 Mercado de la Ribera y comida de pintxos.",
+          "16:30 Siete Calles y catedral.",
+          "19:00 Funicular de Artxanda para el atardecer.",
+          "21:00 Cena en el Casco Viejo."
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: como el programa de un día.",
+          "Día 2, mañana: Museo de Bellas Artes y el Ensanche.",
+          "Día 2, tarde: Puente de Vizcaya en metro, cruce en barquilla.",
+          "Día 2, noche: última velada de pintxos."
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Casco Viejo",
+        "perChi": "Quien quiere pintxos y ambiente",
+        "testo": "Habitaciones en el barrio histórico, cómodas para los bares. Por la noche es ruidoso los fines de semana, sobre todo el jueves."
+      },
+      {
+        "nome": "Ensanche y alrededores del Guggenheim",
+        "perChi": "Quien busca comodidad y conexiones",
+        "testo": "Barrio decimonónico con tiendas, metro y tranvía. Más tranquilo por la noche y a pocos minutos a pie del museo."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Pintxos",
+        "testo": "En el Casco Viejo se encuentran gildas, tortillas, calamares y platos calientes. Se cogen en la barra y se paga al final."
+      },
+      {
+        "nome": "Bacalao al pil-pil",
+        "testo": "Bacalao con salsa de aceite de oliva y ajo, un plato clásico de los restaurantes vascos."
+      },
+      {
+        "nome": "Txuletón",
+        "testo": "Chuleta de vaca a la brasa, gruesa, servida con sal gruesa. Se comparte entre dos."
+      },
+      {
+        "nome": "Marmitako",
+        "testo": "Guiso de atún y patatas, plato marinero con pimiento."
+      },
+      {
+        "nome": "Txakoli",
+        "testo": "Vino blanco vasco ligeramente espumoso, perfecto con los pintxos."
+      }
+    ],
+    attenzioni: [
+      "Guggenheim: comprobar días de cierre y precios antes de ir. Las tarifas cambian según la temporada.",
+      "Lluvia frecuente todo el año: llevar un impermeable ligero.",
+      "Casco Viejo los fines de semana y en fiestas (Aste Nagusia, a finales de agosto): lleno de gente y posibles robos de carteristas.",
+      "Metro y tranvía: validar el billete o la tarjeta recargable a la entrada."
+    ],
     esperienzeSlugs: ['guggenheim-bilbao'],
     tripSlugs: ['spagna-nord-itinerario'],
     imageAlt: "El Museo Guggenheim de Bilbao en titanio junto al paseo del Nervión, con el puente rojo de La Salve al fondo",
@@ -292,6 +977,120 @@ export const destinazioniSpagna: Destinazione[] = [
       "Subestimar el desnivel y el firme del Camino del Norte: es más exigente y está menos equipado que el Camino Francés, con tramos de sendero costero expuestos",
       "No reservar el albergue en los meses punta (junio-septiembre) en los tramos más populares: las plazas, sobre todo en los pueblos pequeños, se agotan",
       "Llegar a Santiago sin la credencial del peregrino sellada a lo largo del recorrido, si se quiere obtener la Compostela",
+    ],
+    luoghi: [
+      {
+        "nome": "Catedral de Santiago de Compostela",
+        "testo": "Meta de los peregrinos desde hace once siglos, guarda según la tradición las reliquias del apóstol Santiago. Dentro están el Pórtico de la Gloria románico, la cripta con la urna y el botafumeiro, el gran incensario que oscila por el crucero en algunas celebraciones. Desde la Plaza del Obradoiro se ve la fachada barroca.",
+        "come": "A pie desde el casco histórico, totalmente peatonal. La entrada a la catedral es libre; museos, cubiertas y Pórtico requieren entrada aparte.",
+        "quando": "Misa del peregrino a mediodía. El botafumeiro no oscila en todas las misas: consultar el calendario en la web de la catedral.",
+        "tempo": "1-2 horas",
+        "url": "https://www.catedraldesantiago.es/",
+        "consiglio": "Llegar media hora antes de la misa del peregrino para sentarse; después, quedarse en la plaza viendo las llegadas."
+      },
+      {
+        "nome": "Oficina del Peregrino",
+        "testo": "Aquí se recoge la Compostela, el certificado de peregrinación, presentando la credencial sellada. Para obtenerla hacen falta los últimos 100 km a pie o 200 en bici.",
+        "come": "A pocos minutos a pie de la catedral, en la Rúa das Carretas.",
+        "quando": "Abierta todos los días, con colas largas en verano. Consultar los horarios oficiales.",
+        "tempo": "30 minutos-2 horas, según la cola",
+        "url": "https://oficinadelperegrino.com/",
+        "consiglio": "Ir a primera hora de la tarde o a primera de la mañana, cuando la fila es más corta."
+      },
+      {
+        "nome": "Casco histórico y Mercado de Abastos",
+        "testo": "El casco histórico, patrimonio UNESCO, está hecho de calles de piedra, soportales y plazas como la Quintana y la Praza das Praterías. El Mercado de Abastos, el mercado cubierto, tiene puestos de pescado, queso y pulpo.",
+        "come": "A pie. El mercado está a 5 minutos de la catedral.",
+        "quando": "El mercado por la mañana. La lluvia es frecuente: llevar impermeable.",
+        "tempo": "2-3 horas",
+        "consiglio": "Comer el pulpo á feira en los locales junto al mercado, que cocinan al momento."
+      },
+      {
+        "nome": "Camino del Norte: tramo San Sebastián-Bilbao",
+        "testo": "El Camino del Norte sigue la costa cantábrica de Irún a Santiago. El tramo vasco tiene subidas continuas entre acantilados y bosques, con etapas de 20-25 km. Quien tenga pocos días puede hacer una sola etapa, por ejemplo San Sebastián-Zarautz.",
+        "come": "Salida desde las estaciones de San Sebastián o Bilbao. Las señales son flechas amarillas y conchas. Se usa el autobús o el tren para volver.",
+        "quando": "De mayo a septiembre. En invierno llueve mucho y los días son cortos.",
+        "tempo": "Una etapa son 5-7 horas a pie",
+        "consiglio": "Salir temprano y llevar agua; los puntos de avituallamiento son escasos fuera de los pueblos."
+      },
+      {
+        "nome": "Fisterra y Muxía",
+        "testo": "Tras Santiago muchos peregrinos continúan durante tres o cuatro días hasta Fisterra, en la costa atlántica, y a Muxía. Fisterra era el fin del mundo para los romanos, con faro y acantilado.",
+        "come": "A pie desde Santiago en unos 3-4 días, o en autobús desde la estación de Santiago (unas 2 horas).",
+        "quando": "Verano. Al atardecer en el faro se detienen los que caminan.",
+        "tempo": "Una jornada desde Santiago en autobús, 3-4 días a pie",
+        "consiglio": "Comprobar los horarios del autobús en el periodo elegido, porque cambian según la temporada."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "9:00 Plaza del Obradoiro y Pórtico de la Gloria.",
+          "11:00 Catedral y cripta.",
+          "12:00 Misa del peregrino.",
+          "14:00 Comida con pulpo y pimientos de Padrón.",
+          "16:00 Oficina del Peregrino si se ha llegado a pie.",
+          "18:00 Paseo por el casco histórico y el parque de la Alameda."
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: como el programa de un día.",
+          "Día 2, mañana: Mercado de Abastos y Praza das Praterías.",
+          "Día 2, tarde: Museo de las Peregrinaciones o visita a las cubiertas de la catedral.",
+          "Día 2, noche: cena con productos gallegos."
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1 y 2: como arriba.",
+          "Día 3: excursión en autobús a Fisterra y Muxía, regreso por la noche."
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Casco histórico",
+        "perChi": "Quien quiere estar cerca de la catedral",
+        "testo": "Habitaciones en edificios de piedra, a un paso de todo. Por la noche los peregrinos llegan a la plaza y hay movimiento hasta tarde. Los precios son más altos."
+      },
+      {
+        "nome": "Ensanche y alrededores de la estación",
+        "perChi": "Quien llega en tren o autobús y busca costes menores",
+        "testo": "A 10-15 minutos a pie del centro. Zona más tranquila, con hoteles y pensiones."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Pulpo á feira",
+        "testo": "Pulpo cocido, cortado con tijeras, aliñado con aceite, sal y pimentón, servido en plato de madera."
+      },
+      {
+        "nome": "Empanada gallega",
+        "testo": "Pastel salado relleno de atún, carne o marisco, que se vende por porciones."
+      },
+      {
+        "nome": "Pimientos de Padrón",
+        "testo": "Pimientos verdes fritos con sal gruesa: algunos pican."
+      },
+      {
+        "nome": "Tarta de Santiago",
+        "testo": "Tarta de almendra con una cruz de Santiago en azúcar glas en la superficie."
+      },
+      {
+        "nome": "Albariño",
+        "testo": "Vino blanco de Galicia, seco y aromático, ideal con pescado."
+      }
+    ],
+    attenzioni: [
+      "Lluvia frecuente en Galicia en todas las estaciones: poncho, calzado impermeable y muda de calcetines.",
+      "Albergue en los meses de punta (junio-septiembre): reservar con antelación en los pueblos pequeños.",
+      "Credencial del peregrino: sellarla al menos dos veces al día en los últimos 100 km para obtener la Compostela.",
+      "Camino del Norte: subidas continuas y tramos de sendero costero expuesto. No subestimar el desnivel.",
+      "Catedral: las visitas a las cubiertas y museos requieren reserva; consultar la web oficial."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['spagna-nord-itinerario'],
@@ -388,6 +1187,156 @@ export const destinazioniSpagna: Destinazione[] = [
       "Conducir por las carreteras de curvas de la Serra sin contar con tiempos más largos de lo previsto",
       "Reservar vuelos y ferris para julio-agosto sin antelación: es el periodo de máxima demanda y los precios suben en consecuencia",
     ],
+    luoghi: [
+      {
+        "nome": "Cattedrale di Palma (La Seu)",
+        "testo": "Catedral gótica iniciada en 1229 justo frente al mar, con uno de los rosetones más grandes del gótico europeo. Dentro están el baldaquino de Antoni Gaudí sobre el altar y la intervención de Miquel Barceló en la capilla del Santísimo.",
+        "come": "A pie desde el centro de Palma, frente al Parc de la Mar. Se entra por el lado de la Plaça de la Seu y la audioguía va incluida en la entrada.",
+        "quando": "El horario cambia según la temporada y los domingos hay misas: conviene consultar el calendario en la web oficial. Por la mañana el rosetón se ve mejor.",
+        "tempo": "1-1,5 horas",
+        "url": "https://catedraldemallorca.org/",
+        "consiglio": "La mejor vista de la fachada reflejada en el estanque es desde el Parc de la Mar, mejor antes de entrar."
+      },
+      {
+        "nome": "Palma vecchia: Almudaina e vicoli",
+        "testo": "El Palacio de la Almudaina, antigua fortaleza árabe y luego residencia de los reyes de Mallorca, está junto a la catedral. Alrededor se abre el casco antiguo: patios escondidos, la Plaça Major, los baños árabes y el barrio de Sa Llotja con sus bares frente al puerto.",
+        "come": "Todo a pie desde la catedral. El palacio lo gestiona Patrimonio Nacional y se visita por cuenta propia con los paneles.",
+        "quando": "El palacio tiene un día de descanso semanal y cierra por actos oficiales: conviene mirar la web. Las callejuelas se disfrutan más al atardecer, cuando baja el calor.",
+        "tempo": "media jornada para palacio y callejuelas",
+        "url": "https://www.patrimonionacional.es/",
+        "consiglio": "Asomarse a los portales abiertos: muchos patios del siglo XVIII se ven desde la calle."
+      },
+      {
+        "nome": "Valldemossa",
+        "testo": "Pueblo de piedra en una hondonada de la Serra de Tramuntana, conocido por la Cartuja donde Chopin y George Sand pasaron el invierno de 1838-39. Calles en cuesta, macetas en las ventanas y la coca de patata, el dulce local.",
+        "come": "Desde Palma, unos 25 minutos en coche por la Ma-1110, o en autobús de línea desde la estación intermodal. El pueblo se recorre a pie.",
+        "quando": "Mejor llegar temprano o al final de la tarde: entre las 11 y las 16 los autocares lo llenan.",
+        "tempo": "2-3 horas",
+        "consiglio": "Aparcar en los aparcamientos de arriba y bajar a pie: las calles del centro son estrechas y casi siempre están llenas."
+      },
+      {
+        "nome": "Tren de Sóller y Port de Sóller",
+        "testo": "Tren histórico de madera en servicio desde 1912: 27 kilómetros con trece túneles, el más largo de unos 3 kilómetros, hasta Sóller. Desde allí el tranvía antiguo baja al puerto, una bahía cerrada entre montañas con paseo marítimo y barcos.",
+        "come": "Sale de la estación de Plaça d'Espanya, en Palma. Desde Sóller el tranvía llega al Port de Sóller en unos 20 minutos.",
+        "quando": "El servicio para en invierno y vuelve en febrero; los horarios cambian según la temporada, así que hay que mirar la web oficial. Mejor los trenes de la mañana.",
+        "tempo": "jornada completa con el puerto",
+        "costo": "unos 30 euros ida y vuelta Palma-Sóller (2026)",
+        "url": "https://trendesoller.com/",
+        "consiglio": "Comprar la entrada online con antelación en temporada alta y sentarse a la derecha en la ida para ver el valle."
+      },
+      {
+        "nome": "Sa Calobra e Torrent de Pareis",
+        "testo": "Cala de guijarros en la desembocadura del Torrent de Pareis, un cañón con paredes de 200 metros. La carretera Ma-2141 que baja a Sa Calobra tiene una curva en nudo de corbata y es de las más fotografiadas de la isla. Un túnel lleva del muelle a la playita y al cañón.",
+        "come": "En coche por la Ma-2141 desde la Ma-10, 14 km de curvas y unos 40 minutos, o en barco desde Port de Sóller (travesía de una hora aproximadamente).",
+        "quando": "En primavera y otoño el cañón se visita con más calma. El Torrent de Pareis está cerrado o desaconsejado con lluvia y riada: mirar el tiempo.",
+        "tempo": "2-3 horas",
+        "url": "https://www.caib.es/",
+        "consiglio": "El barco evita la carretera y el aparcamiento, que en verano es el verdadero obstáculo: salir del puerto por la mañana."
+      },
+      {
+        "nome": "Cap de Formentor e Pollença",
+        "testo": "La península más al norte de la isla, con acantilados verticales y un faro al final de 20 km de carretera panorámica sobre Port de Pollença. En el camino está el Mirador des Colomer. Pollença tiene una plaza central con cafés y la escalinata del Calvari, de 365 escalones.",
+        "come": "Desde Port de Pollença, 20 km en coche por la Ma-2210 hasta el faro, unos 40 minutos. De Palma a Pollença, aproximadamente una hora.",
+        "quando": "Al atardecer por la luz sobre el faro. En verano el acceso en coche puede limitarse a ciertas horas: comprobarlo antes de salir.",
+        "tempo": "media jornada",
+        "consiglio": "Subir al Mirador des Colomer a la apertura o al atardecer: a mediodía se llega en cola."
+      },
+      {
+        "nome": "Cala Mondragó e Es Trenc",
+        "testo": "Dos playas del sureste. Cala Mondragó está dentro de un parque natural, con pinar y dos calas de arena. Es Trenc es un largo arenal blanco sin edificios, con dunas y salinas detrás.",
+        "come": "En coche: Cala Mondragó está a una hora de Palma, cerca de Santanyí. Es Trenc está a unos 50 minutos de Palma, cerca de Campos. Aparcamiento de pago, que se llena pronto.",
+        "quando": "Junio y septiembre. En julio y agosto, llegar antes de las 10.",
+        "tempo": "media jornada",
+        "consiglio": "Se puede caminar por la costa de Mondragó a Cala Santanyí en un par de horas para alejarse de la playa llena."
+      },
+      {
+        "nome": "Un tratto del GR221 in Tramuntana",
+        "testo": "El GR221, la «Ruta de Pedra en Sec», cruza la Serra de Tramuntana en más de 100 kilómetros. Una sola etapa basta: bancales de olivos, muros de piedra seca, refugios y caminos antiguos. Un tramo sencillo es Port de Sóller a Deià por la costa.",
+        "come": "Se sale de Port de Sóller o de Deià, ambos con autobús de línea desde el centro de Palma. El camino está señalizado.",
+        "quando": "De octubre a mayo. En verano se sale al amanecer: pesan el calor y la falta de sombra.",
+        "tempo": "3-5 horas por etapa",
+        "url": "https://www.caib.es/",
+        "consiglio": "Llevar agua y calzado de trekking: la piedra mojada resbala. Algunos senderos cruzan fincas privadas y tienen horarios de paso."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: Catedral y Almudaina a pie",
+          "Comida en las callejuelas de Sa Llotja",
+          "Tarde: Castell de Bellver en bus o taxi, o paseo por el Passeig Marítim",
+          "Noche: tapas en el casco antiguo"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: Palma, catedral y callejuelas, atardecer sobre el puerto",
+          "Día 2: tren histórico a Sóller, tranvía hasta el puerto, comida de pescado",
+          "Vuelta en tren a última hora de la tarde"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Día 1: Palma",
+          "Día 2: Valldemossa por la mañana, Deià y Sóller por la tarde, en coche",
+          "Día 3: Sa Calobra en barco desde Port de Sóller o Formentor en coche, atardecer en Pollença"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Casco antiguo de Palma",
+        "perChi": "quien quiere ciudad, restaurantes y prescindir del coche",
+        "testo": "Todo a pie, noches animadas. Pros: bares, catedral, mercados. Contras: ruido en las callejuelas, habitaciones pequeñas, aparcar casi imposible."
+      },
+      {
+        "nome": "Sóller y Port de Sóller",
+        "perChi": "quien quiere montaña y mar a la vez",
+        "testo": "Un valle de cítricos con tren y tranvía. Pros: noches tranquilas, paseos. Contras: lejos de Palma (30 minutos en coche por el túnel), carreteras estrechas."
+      },
+      {
+        "nome": "Pollença y Alcúdia",
+        "perChi": "familias y playas",
+        "testo": "El norte de la isla: playas amplias, Formentor cerca. Pros: servicios para niños. Contras: el verano está lleno y sin coche no se llega lejos."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Ensaimada",
+        "testo": "Espiral de masa fermentada espolvoreada con azúcar glas. Se compra en las panaderías históricas de Palma, lisa o con crema de calabaza."
+      },
+      {
+        "nome": "Sobrassada",
+        "testo": "Embutido de cerdo untable, rojo de pimentón, IGP. Sobre pan con un hilo de miel."
+      },
+      {
+        "nome": "Tumbet",
+        "testo": "Capas de patata, berenjena y pimiento fritos con salsa de tomate. Plato tradicional de verano."
+      },
+      {
+        "nome": "Coca de patata",
+        "testo": "Bollo esponjoso de patata, típico de Valldemossa."
+      },
+      {
+        "nome": "Arròs brut",
+        "testo": "Arroz caldoso con carne y setas. Se encuentra en restaurantes del interior, en invierno."
+      },
+      {
+        "nome": "Herbes de Mallorca",
+        "testo": "Licor de hierbas digestivo, que se sirve después de las comidas."
+      }
+    ],
+    attenzioni: [
+      "El centro de Palma tiene zonas de tráfico restringido con cámaras: el hotel registra la matrícula, si no llega la multa. Usar aparcamientos públicos.",
+      "En las carreteras de la Tramuntana (Ma-10, Ma-2141) hay muchas curvas y ciclistas, sobre todo en primavera: conducir despacio y no adelantar en las horquillas.",
+      "Las playas más famosas se llenan antes de las 10 en verano y el aparcamiento es de pago: salir pronto o ir en autobús.",
+      "Impuesto turístico (ecotasa) de unos pocos euros por noche, que se paga en el hotel y varía según la categoría.",
+      "Zonas de Playa de Palma y Magaluf prohíben beber en la calle y el balconing, con multas.",
+      "Carteristas en las calles concurridas del centro y en la cola de la catedral: llevar las mochilas delante."
+    ],
     esperienzeSlugs: ['serra-tramuntana-trekking'],
     tripSlugs: ['baleari-itinerario'],
     imageAlt: "Las casas de piedra de Valldemossa y el campanario de Sant Bartomeu entre las montañas boscosas de la Serra de Tramuntana, Mallorca",
@@ -430,6 +1379,131 @@ export const destinazioniSpagna: Destinazione[] = [
       "Reservar las entradas a los grandes clubes a última hora en temporada alta: los mejores eventos se agotan con días o semanas de antelación",
       "Moverse solo a pie o fiarse solo de los autobuses: sin medio propio buena parte del norte y de las calas más bellas queda fuera de alcance",
     ],
+    luoghi: [
+      {
+        "nome": "Dalt Vila",
+        "testo": "La ciudad alta de Ibiza, rodeada de murallas renacentistas del siglo XVI, patrimonio de la UNESCO. Dentro hay callejuelas empinadas, la catedral, el museo de arte contemporáneo y miradores sobre el puerto y Formentera.",
+        "come": "A pie desde el puerto, subiendo por el Portal de ses Taules. El recorrido es todo cuesta arriba sobre adoquines.",
+        "quando": "Al atardecer por la luz sobre las murallas. De día, en verano, hay poca sombra.",
+        "tempo": "2-3 horas",
+        "url": "https://www.eivissa.es/",
+        "consiglio": "Subir temprano y bajar a cenar al barrio de Sa Penya, bajo las murallas."
+      },
+      {
+        "nome": "Es Vedrà e Cala d'Hort",
+        "testo": "Es Vedrà es un islote de 382 metros frente a la costa suroeste, rodeado de leyendas. Se ve mejor desde Cala d'Hort, una playa de arena y guijarros, y desde la Torre des Savinar.",
+        "come": "En coche desde Ibiza ciudad en unos 30 minutos. Cala d'Hort tiene un aparcamiento pequeño, lleno en las tardes de verano.",
+        "quando": "El atardecer es el momento más concurrido: llegar al menos una hora antes.",
+        "tempo": "2-3 horas",
+        "consiglio": "Cenar en uno de los locales de la playa y quedarse después del atardecer: la multitud se va."
+      },
+      {
+        "nome": "Cala Comte",
+        "testo": "Una playa del oeste con rocas bajas y agua transparente, famosa por la puesta de sol con los islotes delante.",
+        "come": "En coche desde Sant Antoni en unos 20 minutos, o en el autobús de temporada.",
+        "quando": "El atardecer en verano está lleno. Mejor por la mañana o en septiembre.",
+        "tempo": "media jornada",
+        "consiglio": "Para cenar frente al mar, elegir los restaurantes sobre las rocas, pero reservar."
+      },
+      {
+        "nome": "Benirràs e tamburi della domenica",
+        "testo": "Una bahía del norte cerrada por acantilados. Desde hace décadas, los domingos al atardecer se reúne un grupo de tamborileros en la arena, con puestos y gente bailando.",
+        "come": "En coche desde Sant Joan de Labritja, unos 15 minutos. El último tramo es estrecho.",
+        "quando": "Los domingos al atardecer, de mayo a octubre. Los demás días la bahía está tranquila.",
+        "tempo": "una tarde-noche",
+        "consiglio": "Llegar con dos horas de antelación para encontrar aparcamiento y un sitio en la arena."
+      },
+      {
+        "nome": "Cala Xarraca e Cala Sant Vicent",
+        "testo": "Dos calas del norte. Xarraca es una bahía verde de agua calma; Sant Vicent es rocosa y más salvaje. Poca construcción alrededor.",
+        "come": "En coche desde Sant Joan de Labritja: Xarraca a 10 minutos, Sant Vicent a 15. Aparcamientos pequeños.",
+        "quando": "A primera hora o al final de la tarde.",
+        "tempo": "media jornada",
+        "consiglio": "Llevar gafas y tubo: el agua es limpia y el fondo rocoso."
+      },
+      {
+        "nome": "Ses Salines",
+        "testo": "Parque natural de salinas y dunas en el sur, con la playa de Ses Salines y la de Es Cavallet. Las salinas siguen en uso y son patrimonio de la UNESCO junto con Dalt Vila y la posidonia.",
+        "come": "En coche desde Ibiza ciudad en 20 minutos. Aparcamiento de pago, con límites de acceso en verano.",
+        "quando": "Por la mañana, antes del calor. Es Cavallet tiene un tramo naturista.",
+        "tempo": "media jornada",
+        "url": "https://www.caib.es/",
+        "consiglio": "No entrar en las zonas de salinas y dunas señaladas como protegidas."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Dalt Vila por la mañana",
+          "Comida en Sa Penya",
+          "Tarde: Ses Salines o Cala Comte",
+          "Atardecer junto al mar"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: Dalt Vila y Ses Salines, cena en la ciudad",
+          "Día 2: el norte, Cala Xarraca y Sant Vicent, mercado en Sant Joan o Las Dalias, atardecer en Benirràs si es domingo"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Día 1: Dalt Vila",
+          "Día 2: el norte y Benirràs",
+          "Día 3: Es Vedrà, Cala d'Hort y Cala Comte al atardecer"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Ibiza ciudad",
+        "perChi": "quien quiere servicios y no conducir",
+        "testo": "Puerto, restaurantes y autobuses a las playas del sur. Ruidosa de noche y cara en verano."
+      },
+      {
+        "nome": "Sant Antoni",
+        "perChi": "quien quiere mar y ocio nocturno más barato",
+        "testo": "Bahía con atardeceres, locales y conexiones. Muy turística y nocturna."
+      },
+      {
+        "nome": "Norte: Santa Gertrudis, Sant Joan",
+        "perChi": "quien busca silencio",
+        "testo": "Colinas verdes, restaurantes y calas. Hace falta coche, los autobuses son pocos."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Bullit de peix",
+        "testo": "Caldo de pescado con el arroz aparte, plato tradicional de la isla."
+      },
+      {
+        "nome": "Flaó",
+        "testo": "Postre de queso fresco y hierbabuena, parecido a una tarta de queso."
+      },
+      {
+        "nome": "Sofrit pagès",
+        "testo": "Guiso de carne, patata y embutido con especias, típico del campo."
+      },
+      {
+        "nome": "Hierbas ibicencas",
+        "testo": "Licor dulce de hierbas aromáticas, para después de comer."
+      },
+      {
+        "nome": "Ensalada payesa",
+        "testo": "Ensalada de tomate, pimiento y pescado seco o embutido."
+      }
+    ],
+    attenzioni: [
+      "Las entradas de club vendidas por personas en la calle o en redes pueden ser falsas: comprar solo en la web del local.",
+      "Taxis piratas cerca de aeropuertos y discotecas: usar paradas oficiales o apps.",
+      "En verano muchas calas tienen acceso limitado para coches y aparcamiento de pago que se llena a media mañana.",
+      "Impuesto turístico (ecotasa) de unos pocos euros por noche, que se paga en el hotel.",
+      "En Sant Antoni y otras zonas hay prohibición de beber en la calle y multas por conducta incívica.",
+      "Es Vedrà y los acantilados: no salir de los senderos marcados, las caídas son frecuentes."
+    ],
     esperienzeSlugs: ['ibiza-nord-calette'],
     tripSlugs: ['baleari-itinerario'],
     imageAlt: "Las murallas y la catedral de Dalt Vila sobre las casas blancas del puerto de Ibiza ciudad",
@@ -469,6 +1543,130 @@ export const destinazioniSpagna: Destinazione[] = [
       "Esperar la vida nocturna o los servicios turísticos de Ibiza o Mallorca: Menorca ha elegido otro camino",
       "Intentar ver toda la isla en un solo día: las mejores calas requieren desplazamientos por carreteras secundarias, a menudo sin asfaltar en los últimos tramos",
       "Ir sin coche, contando solo con los autobuses: gran parte del encanto de la isla está en las calas accesibles solo por medios propios o a pie",
+    ],
+    luoghi: [
+      {
+        "nome": "Ciutadella",
+        "testo": "La antigua capital, con el puerto largo y estrecho como una ría, la catedral gótica y los palacios señoriales bajo los soportales de Ses Voltes. En el puerto, restaurantes de pescado. La fiesta de Sant Joan, el 23 y 24 de junio, llena la ciudad de caballos y jinetes.",
+        "come": "Se recorre a pie. Desde Maó, en autobús de línea en una hora aproximadamente, o en coche por la Me-1.",
+        "quando": "El mercado de la Plaça del Born por la mañana. Por la noche el puerto es el sitio para cenar.",
+        "tempo": "media jornada",
+        "consiglio": "Dejar el coche en los aparcamientos fuera del centro: las calles son estrechas y en verano están llenas."
+      },
+      {
+        "nome": "Maó y su puerto",
+        "testo": "La capital actual, sobre uno de los puertos naturales más profundos del Mediterráneo, de 5 kilómetros de largo. En la ciudad: paseos junto al mar, el mercado del Claustre del Carme, el Museu de Menorca y la destilería de ginebra Xoriguer.",
+        "come": "A 10 minutos del aeropuerto. Se recorre a pie; los barcos hacen la vuelta al puerto en una hora aproximadamente.",
+        "quando": "Por la mañana para el mercado, al atardecer sobre el puerto.",
+        "tempo": "media jornada",
+        "consiglio": "Probar la ginebra Xoriguer en la destilería: se usa en la pomada, la bebida local con limón."
+      },
+      {
+        "nome": "Camí de Cavalls",
+        "testo": "El sendero costero de unos 185 kilómetros que rodea la isla en 20 etapas, usado antaño por caballos y soldados. Costa, pinares, acantilados y playas. Una sola etapa, como Cala Galdana-Cala Macarella, basta para entenderlo.",
+        "come": "Se sale desde varios puntos con aparcamiento. El camino está señalizado; la web oficial tiene mapas y etapas.",
+        "quando": "Primavera y otoño. En verano pesan la falta de sombra y el calor.",
+        "tempo": "3-6 horas por etapa",
+        "url": "https://www.camidecavalls.com/",
+        "consiglio": "Llevar mucha agua y elegir etapas cortas que acaben en una playa: bañarse a mitad de camino."
+      },
+      {
+        "nome": "Cala Macarella y Macarelleta",
+        "testo": "Dos calas cercanas en la costa sur. Macarella es una bahía de arena blanca y pinar; Macarelleta, más pequeña, se alcanza a pie desde la primera y es en parte nudista.",
+        "come": "Desde Ciutadella, 20 minutos en coche, luego aparcamiento y 15 minutos a pie. En temporada alta hay además lanzadera. O a pie desde Cala Galdana por el Camí de Cavalls.",
+        "quando": "A primera hora o después de las 16. En pleno verano el aparcamiento cierra pronto.",
+        "tempo": "media jornada",
+        "consiglio": "Llegar una hora antes que los demás: el agua está quieta y transparente incluso a las ocho."
+      },
+      {
+        "nome": "Torre d'en Galmés",
+        "testo": "El mayor poblado talayótico de la isla, con tres talayots, una taula y un área de casas circulares de las Edades del Bronce y del Hierro. Forma parte del sitio Menorca Talayótica, patrimonio de la UNESCO desde 2023.",
+        "come": "En coche desde Maó o Ciutadella en unos 25 minutos. Se visita por cuenta propia, con paneles. El sitio tiene entrada de pago.",
+        "quando": "A primera hora o al final de la tarde, por el calor y la luz.",
+        "tempo": "1-1,5 horas",
+        "consiglio": "Combinarlo con Cala en Porter o con el Museu de Menorca en Maó."
+      },
+      {
+        "nome": "Naveta des Tudons",
+        "testo": "Tumba colectiva con forma de barco invertido, construida en piedra seca hacia el 1000 a.C. Está junto a la carretera y se considera uno de los edificios más antiguos aún en pie de Europa.",
+        "come": "En coche por la carretera Maó-Ciutadella, a 5 km de Ciutadella. Una parada de media hora.",
+        "quando": "A cualquier hora; la luz dorada del final de la tarde es la mejor.",
+        "tempo": "30 minutos",
+        "consiglio": "Parar al ir de una ciudad a otra: no exige desvío."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: Ciutadella y el mercado",
+          "Comida de pescado en el puerto",
+          "Tarde: Cala Macarella",
+          "Noche: atardecer en el puerto"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: Ciutadella, Naveta des Tudons, Macarella",
+          "Día 2: Maó y puerto, Torre d'en Galmés, ginebra Xoriguer"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Día 1: Ciutadella",
+          "Día 2: una etapa del Camí de Cavalls y Macarelleta",
+          "Día 3: Maó, Torre d'en Galmés, Fornells con la caldereta"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Ciutadella",
+        "perChi": "quien busca ambiente histórico",
+        "testo": "Puerto, callejuelas y vida nocturna. Cerca de las calas del suroeste. Aparcar es difícil en verano."
+      },
+      {
+        "nome": "Maó",
+        "perChi": "quien tiene vuelo o ferry",
+        "testo": "Más práctica por las conexiones, con menos playas en la ciudad. Buena base para el centro y el este."
+      },
+      {
+        "nome": "Costa sur (Cala Galdana, Son Bou)",
+        "perChi": "quien quiere mar",
+        "testo": "Complejos turísticos y una playa larga. Más servicios, menos carácter."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Caldereta de langosta",
+        "testo": "Guiso de langosta, especialidad de Fornells, cara."
+      },
+      {
+        "nome": "Queso Mahón-Menorca",
+        "testo": "DOP de leche de vaca, de tierno a curado."
+      },
+      {
+        "nome": "Ginebra Xoriguer y pomada",
+        "testo": "La ginebra de la isla, mezclada con limonada en la pomada."
+      },
+      {
+        "nome": "Oliaigua",
+        "testo": "Sopa de tomate, cebolla e higos, plato campesino."
+      },
+      {
+        "nome": "Sobrassada",
+        "testo": "Embutido de cerdo untable, como en Mallorca."
+      }
+    ],
+    attenzioni: [
+      "Los aparcamientos de las calas del sur (Macarella, Turqueta) se llenan a media mañana en temporada alta y son de pago.",
+      "En el Camí de Cavalls no hay sombra y hay poca agua: salir temprano y evitar el mediodía.",
+      "Reservar el coche de alquiler con meses de antelación en verano: los precios suben.",
+      "Impuesto turístico (ecotasa) de unos pocos euros por noche, que se paga en el hotel.",
+      "Nada de fuegos ni acampada libre: están prohibidos y los controles son frecuentes.",
+      "No pisar las dunas ni la posidonia varada en la playa, que están protegidas."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['baleari-itinerario'],
@@ -513,6 +1711,139 @@ export const destinazioniSpagna: Destinazione[] = [
       "Subestimar el frío en altura: en la estación superior del teleférico (3.555 m) las temperaturas son mucho más bajas que en la costa, en cualquier estación",
       "Concentrarse solo en la costa sur y no ver nunca Anaga: es un ecosistema que no existe en otro sitio de la isla",
     ],
+    luoghi: [
+      {
+        "nome": "Teide: teleférico y cumbre",
+        "testo": "El teleférico sube de 2.356 a 3.555 metros en unos ocho minutos. El último tramo hasta el cráter, a 3.715 metros, se hace a pie en unos 40 minutos y exige un permiso gratuito de aforo limitado. Por encima de los 3.500 metros se nota la altitud.",
+        "come": "En coche desde Costa Adeje, una hora y media aproximadamente; desde Puerto de la Cruz, una hora y cuarto. La estación inferior tiene aparcamiento gratuito.",
+        "quando": "Coger el primer viaje para evitar colas y viento. Con viento fuerte el teleférico para. Mirar el tiempo del día.",
+        "tempo": "media jornada, el permiso de cumbre añade 2 horas",
+        "url": "https://www.volcanoteide.com/",
+        "consiglio": "Comprar la entrada online con horario y reservar el permiso de cumbre con semanas de antelación: son dos cosas distintas."
+      },
+      {
+        "nome": "Roques de García y Las Cañadas",
+        "testo": "Formaciones de lava de decenas de metros de altura en el corazón de la caldera, con el Roque Cinchado como símbolo. Un sendero circular de unos 3,5 kilómetros sale del aparcamiento. Detrás está el Teide.",
+        "come": "Desde el aparcamiento a los pies de los Roques, en la TF-21, a pocos minutos de la estación del teleférico. El sendero está señalizado.",
+        "quando": "Por la mañana o al atardecer. A mediodía el sol es fuerte y hay poca sombra.",
+        "tempo": "1-2 horas",
+        "consiglio": "Llevar una chaqueta: a 2.200 metros el viento es frío incluso en julio."
+      },
+      {
+        "nome": "Parque Rural de Anaga",
+        "testo": "Montañas del noreste con laurisilva neblinosa, reserva de la biosfera. Los senderos cruzan crestas, caseríos y pueblos aislados como Taganana y Chinamada.",
+        "come": "En coche desde Santa Cruz o La Laguna hasta Cruz del Carmen, unos 30 minutos, donde está el centro de visitantes. El autobús 076 conecta algunos pueblos.",
+        "quando": "Por la mañana, cuando la niebla es menos frecuente. Con lluvia los senderos están embarrados.",
+        "tempo": "media jornada o jornada completa",
+        "url": "https://www.webtenerife.com/",
+        "consiglio": "Hacer el sendero de los Sentidos o de Cruz del Carmen a Taganana con un regreso organizado."
+      },
+      {
+        "nome": "La Laguna",
+        "testo": "Antigua capital de la isla, patrimonio de la UNESCO por su plano urbano regular en cuadrícula del siglo XVI. Casas coloniales con balcones de madera, iglesias y patios.",
+        "come": "En el tranvía de Santa Cruz en unos 35 minutos o en coche en 15. Se visita a pie.",
+        "quando": "Días laborables por la vida estudiantil. Por la noche, bares y tapas.",
+        "tempo": "2-3 horas",
+        "consiglio": "Mirar los patios de las casas: muchos tienen un jardín abierto al público."
+      },
+      {
+        "nome": "Masca",
+        "testo": "Un pueblo a 600 metros en una garganta profunda de las montañas de Teno, con casas de piedra y vistas al océano. El barranco de Masca baja al mar por un sendero de unos 5 kilómetros.",
+        "come": "Por la TF-436 desde Santiago del Teide, con curvas cerradas. El sendero del barranco requiere reserva online y permiso: consultar la web del Cabildo.",
+        "quando": "Por la mañana, para evitar los autocares. El sendero se cierra con lluvia o alertas.",
+        "tempo": "1 hora en el pueblo, media jornada para el sendero",
+        "consiglio": "No hacer el sendero con calzado de paseo y llevar un billete de barco para la vuelta."
+      },
+      {
+        "nome": "Garachico",
+        "testo": "Pueblo de la costa norte destruido por la erupción de 1706, que llenó el puerto. Quedan las piscinas de lava negra (El Caletón), el castillo y una plaza con edificios barrocos.",
+        "come": "En coche desde Puerto de la Cruz en 45 minutos o desde Santiago del Teide en 25. Se recorre a pie.",
+        "quando": "Por la mañana o después de comer, con el mar en calma para las piscinas.",
+        "tempo": "2-3 horas",
+        "consiglio": "Comida de pescado fresco cerca del muelle."
+      },
+      {
+        "nome": "Los Gigantes",
+        "testo": "Acantilados negros de 300 a 600 metros que caen al Atlántico, en la costa oeste. Los barcos desde Puerto de Los Gigantes llevan al pie de las paredes, donde a menudo se ven delfines y calderones.",
+        "come": "En coche desde Costa Adeje en 40 minutos. Las excursiones en barco salen del puerto de Puerto de Santiago.",
+        "quando": "Por la mañana, con el mar más calmado. Los barcos salen todo el año.",
+        "tempo": "2-3 horas con excursión en barco",
+        "consiglio": "Elegir operadores con la licencia Barco Azul: siguen normas de distancia con los animales."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "A primera hora: teleférico del Teide",
+          "Roques de García a media mañana",
+          "Comida en altura o en Vilaflor",
+          "Tarde: atardecer desde Las Cañadas"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: Teide y Roques de García",
+          "Día 2: Anaga por la mañana, La Laguna por la tarde, cena en Puerto de la Cruz"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Día 1: Teide",
+          "Día 2: Anaga y La Laguna",
+          "Día 3: Masca, Garachico y Los Gigantes con excursión en barco"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Puerto de la Cruz",
+        "perChi": "quien quiere verde, paseos y menos complejos turísticos",
+        "testo": "Norte: más fresco y húmedo, jardines, vida de ciudad. El mar es menos apto para nadar. Cerca de Anaga y del Teide."
+      },
+      {
+        "nome": "Costa Adeje y Los Cristianos",
+        "perChi": "quien quiere sol y playas",
+        "testo": "Sur: más seco y cálido, muchos hoteles, restaurantes y ocio nocturno. Menos carácter. Cerca del aeropuerto Sur."
+      },
+      {
+        "nome": "La Laguna",
+        "perChi": "estudiantes y quien va a Anaga",
+        "testo": "Ciudad histórica y animada, más fresca y húmeda. Tranvía a Santa Cruz."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Papas arrugadas con mojo",
+        "testo": "Patatas pequeñas hervidas en agua muy salada, con salsa roja picante o verde de cilantro."
+      },
+      {
+        "nome": "Gofio",
+        "testo": "Harina de cereales tostados de origen guanche, usada en sopas y postres."
+      },
+      {
+        "nome": "Ropa vieja",
+        "testo": "Guiso de garbanzos con carne desmenuzada."
+      },
+      {
+        "nome": "Conejo en salmorejo",
+        "testo": "Conejo marinado en vinagre, ajo y especias."
+      },
+      {
+        "nome": "Vino de Tacoronte-Acentejo",
+        "testo": "Vinos de uva listán negro, cultivados en suelo volcánico."
+      }
+    ],
+    attenzioni: [
+      "El permiso de cumbre del Teide es gratuito pero hay que reservarlo, y el teleférico solo no basta: sin él no se pasa de la estación superior.",
+      "En altura el mal de altura afecta incluso a quien está en forma: subir despacio y no continuar si hay dolor de cabeza.",
+      "Llevarse rocas o arena volcánica del parque está prohibido y puede acarrear multas.",
+      "Las carreteras de montaña (Masca, Anaga) son estrechas y con curvas: la niebla y la lluvia pueden detener el tráfico.",
+      "Bañarse con bandera roja es peligroso, sobre todo en el norte con olas fuertes.",
+      "Sol y UV fuertes incluso con viento frío: crema y gorra."
+    ],
     esperienzeSlugs: ['teide-vetta-permesso'],
     tripSlugs: ['canarie-itinerario'],
     imageAlt: "El volcán Teide visto desde la llanura de Ucanca, en la caldera de Las Cañadas, Tenerife",
@@ -551,6 +1882,129 @@ export const destinazioniSpagna: Destinazione[] = [
     erroriDaEvitare: [
       "Quedarse en la costa sur sin subir nunca hacia las montañas del centro: es la parte que hace de la isla «un continente en miniatura»",
       "Subestimar el sol en las dunas de Maspalomas: poca sombra, conviene evitar las horas centrales del día",
+    ],
+    luoghi: [
+      {
+        "nome": "Dune di Maspalomas",
+        "testo": "Reserva natural de unas 400 hectáreas de dunas de arena móvil en la costa sur, con una laguna y un palmeral. El paisaje cambia con el viento. La playa del Inglés está justo al lado.",
+        "come": "Desde el paseo de Playa del Inglés o el faro de Maspalomas se entra a pie en las dunas. Autobuses desde la costa y desde Las Palmas.",
+        "quando": "A primera hora o al atardecer: a mediodía el sol es fuerte y no hay sombra.",
+        "tempo": "2 horas",
+        "consiglio": "Quedarse en los senderos marcados: las dunas están protegidas y partes tienen acceso restringido."
+      },
+      {
+        "nome": "Roque Nublo",
+        "testo": "Una roca volcánica de 80 metros, a 1.813 metros sobre el nivel del mar, símbolo de la isla. Los guanches la veneraban. Desde la cima se ve el Teide de Tenerife en días claros.",
+        "come": "En coche hasta el aparcamiento de La Goleta, luego sendero de unos 3 kilómetros ida y vuelta. Desde Las Palmas, hora y media.",
+        "quando": "Por la mañana, antes de las nubes. El viento es frío incluso en verano.",
+        "tempo": "1,5-2 horas a pie",
+        "url": "https://www.grancanaria.com/",
+        "consiglio": "No salirse del sendero marcado: las paredes cerca de la roca caen. Llevar una sudadera."
+      },
+      {
+        "nome": "Vegueta, Las Palmas",
+        "testo": "El barrio fundado en 1478, con la Catedral de Santa Ana, la Casa de Colón con documentos sobre su viaje y el Mercado de Vegueta. Calles coloniales con balcones de madera.",
+        "come": "Desde el centro de Las Palmas, 10 minutos a pie, o en autobús desde Las Canteras. Aparcamiento en garajes de pago.",
+        "quando": "Por la mañana para el mercado. Muchos museos cierran el domingo por la tarde.",
+        "tempo": "media jornada",
+        "consiglio": "Subir a la torre de la catedral para ver los tejados."
+      },
+      {
+        "nome": "Playa de Las Canteras",
+        "testo": "Tres kilómetros de playa urbana de Las Palmas, protegida por una barrera de roca (La Barra) que la convierte en una piscina en calma. Paseo con bares y surf.",
+        "come": "Se llega en guagua urbana o a pie desde Santa Catalina. La playa está en el centro.",
+        "quando": "Todo el año. La Barra se ve con marea baja.",
+        "tempo": "media jornada",
+        "consiglio": "Con mar fuerte la barrera no protege: mirar las banderas."
+      },
+      {
+        "nome": "Barranco de Guayadeque",
+        "testo": "Un cañón de 15 kilómetros en el sureste con casas-cueva habitadas y antiguas viviendas guanches. Algunos restaurantes están excavados en la roca.",
+        "come": "En coche desde Agüimes unos 20 minutos por la GC-103. Se puede caminar por el fondo.",
+        "quando": "Por la mañana o a la hora de comer. En invierno puede haber nubes arriba.",
+        "tempo": "2-3 horas",
+        "consiglio": "El centro de visitantes de arriba explica las cuevas. Comer en una cueva-restaurante, pero reservar."
+      },
+      {
+        "nome": "Puerto de Mogán",
+        "testo": "Pueblo-puerto con canales, casas blancas con buganvillas y una playa. Se construyó en los años ochenta con estilo local y se le llama pequeña Venecia.",
+        "come": "En coche desde Maspalomas en 40 minutos por la GC-1 o en autobús. El centro se recorre a pie.",
+        "quando": "El viernes hay mercado. El atardecer en el puerto es tranquilo.",
+        "tempo": "3 horas",
+        "consiglio": "El mercado del viernes está lleno: llegar antes de las 10."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: Vegueta y el mercado",
+          "Comida en Las Canteras",
+          "Tarde: Maspalomas al atardecer"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: Las Palmas, Vegueta y Las Canteras",
+          "Día 2: Roque Nublo por la mañana, Guayadeque a la hora de comer, las dunas al atardecer"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Día 1: Las Palmas",
+          "Día 2: montañas centrales, Roque Nublo y Tejeda",
+          "Día 3: Puerto de Mogán y Maspalomas"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Las Palmas (Las Canteras)",
+        "perChi": "quien quiere ciudad y playa",
+        "testo": "Vida todo el año, restaurantes, autobuses. Más fresca y ventosa que el sur. Ruido por la noche."
+      },
+      {
+        "nome": "Maspalomas y Playa del Inglés",
+        "perChi": "quien quiere sol garantizado",
+        "testo": "Costa sur: cálida y seca, grandes hoteles, dunas cerca. Más turística y menos auténtica."
+      },
+      {
+        "nome": "Puerto de Mogán",
+        "perChi": "quien busca calma",
+        "testo": "Pequeño y tranquilo, pero hace falta coche para moverse. Menos oferta de locales."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Papas arrugadas con mojo",
+        "testo": "Patatas pequeñas hervidas en agua salada, con salsa picante roja o verde."
+      },
+      {
+        "nome": "Sancocho canario",
+        "testo": "Pescado salado con patatas y mojo, a menudo plato de domingo."
+      },
+      {
+        "nome": "Queso de flor de Guía",
+        "testo": "Queso blando elaborado con flor de cardo, típico de Guía."
+      },
+      {
+        "nome": "Ron Arehucas",
+        "testo": "Ron producido en la isla, también en versión miel."
+      },
+      {
+        "nome": "Bienmesabe",
+        "testo": "Postre de almendras, huevos y miel, típico de Tejeda."
+      }
+    ],
+    attenzioni: [
+      "En el sur, en Playa del Inglés y Puerto Rico, promotores de tiempo compartido paran a los turistas con rascas y regalos: rechazar.",
+      "En las dunas, quedarse en los senderos y llevar agua: no hay sombra y el sol es fuerte.",
+      "Las carreteras de montaña (GC-60) tienen muchas curvas y niebla: conducir despacio.",
+      "Corrientes fuertes en algunas playas del sur y en Las Canteras con mar fuerte: respetar las banderas.",
+      "En verano los incendios son frecuentes en la montaña: el fuego está prohibido, respetar los cierres de senderos.",
+      "Vegueta y Las Palmas: pequeños hurtos en mercados y en el puerto."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['canarie-itinerario'],
@@ -593,6 +2047,142 @@ export const destinazioniSpagna: Destinazione[] = [
       "Bajarse del autocar o alejarse de los recorridos marcados en Timanfaya: está prohibido por seguridad (el suelo sigue caliente a pocos metros de profundidad) y por protección ambiental",
       "Subestimar las distancias entre un sitio y otro: Lanzarote es más extensa de lo que parece en el mapa y las carreteras, aunque buenas, requieren tiempo",
       "Visitar los sitios de Manrique como atracciones separadas, sin captar el hilo común: están pensados como un único proyecto que une arquitectura y paisaje volcánico",
+    ],
+    luoghi: [
+      {
+        "nome": "Parco Nazionale di Timanfaya",
+        "testo": "El paisaje de lava y ceniza nacido de las erupciones de 1730-1736. Solo se visita en autobús por la Ruta de los Volcanes, con comentario grabado. En el Islote de Hilario hay demostraciones geotérmicas: el agua vertida en un tubo se convierte en vapor y la comida se cocina con el calor del suelo.",
+        "come": "En coche desde Yaiza o Tinajo hasta la taquilla. La entrada incluye el autobús, unos 35 minutos. No se baja.",
+        "quando": "Llegar temprano: por la tarde hay colas. Comprobar el horario en la web del parque.",
+        "tempo": "1,5-2 horas",
+        "consiglio": "El paseo en dromedario es una actividad aparte con tarifa propia; se puede omitir."
+      },
+      {
+        "nome": "Jameos del Agua",
+        "testo": "Un tubo de lava junto al mar que César Manrique transformó en los años sesenta y setenta en jardín, auditorio y laguna natural. En el lago vive un pequeño cangrejo ciego blanco, el Munidopsis polymorpha.",
+        "come": "En coche desde Arrecife en 25 minutos por la LZ-1, por la costa norte. Se visita a pie en un recorrido circular.",
+        "quando": "Por la noche hay eventos: consultar el calendario en la web. De día, antes de las 11 para evitar los grupos.",
+        "tempo": "1,5 horas",
+        "url": "https://cactlanzarote.com/",
+        "consiglio": "No tirar monedas al lago: dañan a los cangrejos. Combina bien con la Cueva de los Verdes, a pocos minutos."
+      },
+      {
+        "nome": "Cueva de los Verdes",
+        "testo": "Un tubo de lava de unos 7 kilómetros, del que se visita un tramo, formado por la erupción del volcán La Corona. Se visita en 50 minutos con guía, entre salas iluminadas y juegos de luz.",
+        "come": "En coche por la LZ-1 cerca de Haría, a 10 minutos de Jameos del Agua. Visita guiada con grupos a horas fijas.",
+        "quando": "Todo el año; dentro la temperatura es constante. Por la mañana para evitar grupos.",
+        "tempo": "50 minutos",
+        "url": "https://cactlanzarote.com/",
+        "consiglio": "El recorrido tiene escaleras y un tramo bajo: calzado cerrado con suela adherente."
+      },
+      {
+        "nome": "Mirador del Río",
+        "testo": "Mirador de Manrique incrustado en un acantilado a 475 metros sobre el mar, con ventanales sobre el estrecho de El Río y la isla de La Graciosa. Interiores blancos y curvos, cafetería con vistas.",
+        "come": "En coche por la LZ-1 desde Haría en 15 minutos, hacia el norte.",
+        "quando": "Por la mañana, con menos nubes. En invierno el cielo suele estar cubierto.",
+        "tempo": "1 hora",
+        "costo": "9 euros (CACT, 2026)",
+        "url": "https://cactlanzarote.com/",
+        "consiglio": "Entrada gratuita hasta los 6 años, según la web oficial del CACT."
+      },
+      {
+        "nome": "Jardín de Cactus",
+        "testo": "Última obra de Manrique, un anfiteatro de terrazas en una antigua cantera, con más de mil especies de cactus. A la entrada, un molino de viento del siglo XVIII.",
+        "come": "En coche desde Arrecife a Guatiza, al norte, en 20 minutos. Se visita a pie, llano con algunas escaleras.",
+        "quando": "Por la mañana, con luz más suave. Abierto todos los días.",
+        "tempo": "1 hora",
+        "url": "https://cactlanzarote.com/",
+        "consiglio": "En el camino se pasa por Guatiza y sus plantaciones de tuneras, donde se cría la cochinilla."
+      },
+      {
+        "nome": "La Geria",
+        "testo": "Una cuenca de ceniza volcánica negra donde las vides crecen en hoyos excavados en el suelo y protegidos por muros semicirculares. Aquí nace la malvasía volcánica. Las bodegas se suceden por la LZ-30.",
+        "come": "En coche por la LZ-30 entre Yaiza y Mozaga, a 20 minutos de Arrecife. Las bodegas ofrecen catas.",
+        "quando": "Septiembre para la vendimia; el resto del año las bodegas abren de día.",
+        "tempo": "2 horas",
+        "consiglio": "Parar en los miradores y conducir despacio: muchos turistas se detienen en la carretera."
+      },
+      {
+        "nome": "Playa Papagayo e Los Ajaches",
+        "testo": "Calas de arena clara y agua turquesa en el parque natural de Los Ajaches, al sur. Papagayo es la más conocida; las otras (Caleta del Congrio, Playa Mujeres) son más tranquilas.",
+        "come": "En coche desde Playa Blanca por 5 km de pista de tierra. El acceso al parque es de pago. Se camina desde los aparcamientos.",
+        "quando": "Por la mañana en verano, con poco viento. El viento levanta la arena.",
+        "tempo": "media jornada",
+        "consiglio": "Llevar sombrilla, agua y comida: en las calas no hay servicios."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: Timanfaya",
+          "Comida en Yaiza",
+          "Tarde: La Geria con una bodega",
+          "Noche: Playa Blanca"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: sur, Timanfaya y La Geria",
+          "Día 2: norte, Jardín de Cactus, Jameos del Agua, Cueva de los Verdes, Mirador del Río"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Día 1: Timanfaya y La Geria",
+          "Día 2: obras de Manrique y el norte",
+          "Día 3: Papagayo o la excursión en barco a La Graciosa"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Playa Blanca",
+        "perChi": "quien quiere playas y calma",
+        "testo": "Sur: tranquila, con paseo y playas de fácil acceso. Cerca de Papagayo y Timanfaya. Poca vida lejos del paseo marítimo."
+      },
+      {
+        "nome": "Puerto del Carmen",
+        "perChi": "quien quiere animación",
+        "testo": "Larga avenida de bares y restaurantes, playa larga. Más turístico y ruidoso. Cerca del aeropuerto."
+      },
+      {
+        "nome": "Costa Teguise y Arrecife",
+        "perChi": "quien quiere servicios y viento para el surf",
+        "testo": "Costa Teguise es más moderna, con viento para el windsurf; Arrecife es la capital, más práctica que bonita."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Papas arrugadas con mojo",
+        "testo": "Patatas pequeñas hervidas en agua muy salada, con mojo rojo o verde."
+      },
+      {
+        "nome": "Pescado fresco",
+        "testo": "Vieja, cherne y sama a la parrilla, sobre todo en los restaurantes de Playa Blanca y La Santa."
+      },
+      {
+        "nome": "Malvasía volcánica",
+        "testo": "Vino blanco de La Geria, seco o dulce."
+      },
+      {
+        "nome": "Queso de cabra",
+        "testo": "Queso de cabra fresco o curado, a menudo con pimentón."
+      },
+      {
+        "nome": "Cochinilla y tunas",
+        "testo": "Colorante rojo natural y fruto de los cactus de Guatiza."
+      }
+    ],
+    attenzioni: [
+      "En Timanfaya no se baja del autobús ni se sale de los recorridos: el suelo está caliente y protegido, y hay riesgo de multa.",
+      "Recoger arena negra, lapilli o rocas volcánicas está prohibido y conlleva multas.",
+      "El viento fuerte (alisios) levanta arena y molesta en las playas del sur; hay rachas en las carreteras del norte.",
+      "Pistas de tierra hacia Papagayo: las empresas de alquiler suelen excluir daños en los bajos; leer el contrato.",
+      "El mercadillo de Teguise los domingos está muy lleno: carteristas.",
+      "Sol fuerte incluso con nubes y viento: crema y gorra."
     ],
     esperienzeSlugs: ['timanfaya-ruta-volcanes'],
     tripSlugs: ['canarie-itinerario'],
