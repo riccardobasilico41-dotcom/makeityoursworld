@@ -146,7 +146,7 @@ export const CONSIGLIATI: Record<string, Consigliato[]> = {
   ],
   'indonesia/komodo': [
     {
-      nome: 'Komodo Khana',
+      nome: 'Kanha Loka',
       cosa: { it: 'Liveaboard', en: 'Liveaboard', es: 'Liveaboard' },
       fatto: true,
       testo: {
@@ -199,6 +199,92 @@ export const CONSIGLIATI: Record<string, Consigliato[]> = {
         it: "Abbiamo dormito qui e fatto con loro il tour di una notte nella grotta: bellissimo ma non per tutti. Sono professionali e alla mano. Se c'è posto e budget, vale la pena dormire anche al Mutiara Taman Negara, l'unico resort dentro il parco, proprio dove si fanno i biglietti e la registrazione.",
         en: "We stayed here and did their one-night cave tour with them: beautiful but not for everyone. They're professional and down to earth. If there's room and budget, it's also worth staying at Mutiara Taman Negara, the only resort inside the park, right where you buy tickets and register.",
         es: 'Dormimos aquí e hicimos con ellos el tour de una noche en la cueva: precioso pero no para todos. Son profesionales y cercanos. Si hay sitio y presupuesto, merece la pena dormir también en el Mutiara Taman Negara, el único resort dentro del parque, justo donde se compran las entradas y se hace el registro.',
+      },
+    },
+  ],
+  'maldive/rasdhoo': [
+    {
+      nome: "Reef Rangers Ukulhas",
+      cosa: { it: "Diving e brevetti", en: "Diving and courses", es: "Buceo y cursos" },
+      fatto: true,
+      testo: {
+        it: "A Ukulhas abbiamo fatto immersioni e brevetti con loro: bravissimi, consigliati.",
+        en: "In Ukulhas we dived and got our certifications with them: excellent, recommended.",
+        es: "En Ukulhas buceamos y sacamos los títulos con ellos: buenísimos, recomendados.",
+      },
+    },
+  ],
+  'maldive/fuvahmulah': [
+    {
+      nome: "Fuvahmulah Dive",
+      cosa: { it: "Diving", en: "Diving", es: "Buceo" },
+      url: 'https://fuvahmulahdive.com',
+      fatto: true,
+      testo: {
+        it: "Per le immersioni a Fuvahmulah. Non è un posto per principianti: serve esperienza e spesso si è nel blu. Se ti piacciono i grandi pelagici è incredibile, soprattutto per lo squalo tigre.",
+        en: "For diving in Fuvahmulah. Not a place for beginners: you need experience and you're often out in the blue. If you love big pelagics it's incredible, especially for tiger sharks.",
+        es: "Para bucear en Fuvahmulah. No es un sitio para principiantes: hace falta experiencia y a menudo se está en el azul. Si te gustan los grandes pelágicos es increíble, sobre todo por el tiburón tigre.",
+      },
+    },
+  ],
+  'messico/cancun': [
+    {
+      nome: "Martin · Mexico Grand Tours",
+      cosa: { it: "Ingressi e tour", en: "Tickets and tours", es: "Entradas y tours" },
+      url: 'https://mexico-grand.com',
+      fatto: true,
+      testo: {
+        it: "Per gli ingressi al Coco Bongo provate a sentire Martin: ha un po' di tutto.",
+        en: "For Coco Bongo tickets, try getting in touch with Martin: he has a bit of everything.",
+        es: "Para las entradas del Coco Bongo, probad a contactar con Martin: tiene un poco de todo.",
+      },
+    },
+  ],
+  'messico/valladolid': [
+    {
+      nome: "Alejandro",
+      cosa: { it: "Guida a Chichén Itzá", en: "Guide at Chichén Itzá", es: "Guía en Chichén Itzá" },
+      whatsapp: '+52 985 593 5994',
+      fatto: true,
+      testo: {
+        it: "Per Chichén Itzá assolutamente consigliato. Parla spagnolo e inglese, è una guida preparatissima, nato e cresciuto a 20 minuti da Chichén Itzá, e in più è appassionato di manga.",
+        en: "Highly recommended for Chichén Itzá. He speaks Spanish and English, he is an extremely knowledgeable guide, born and raised 20 minutes from Chichén Itzá, and on top of that he loves manga.",
+        es: "Para Chichén Itzá, totalmente recomendado. Habla español e inglés, es un guía preparadísimo, nacido y criado a 20 minutos de Chichén Itzá, y además es un apasionado del manga.",
+      },
+    },
+  ],
+  'messico/tulum': [
+    {
+      nome: "Cenote Dos Ojos",
+      cosa: { it: "Il cenote che consiglio", en: "The cenote I recommend", es: "El cenote que recomiendo" },
+      fatto: true,
+      testo: {
+        it: "A Tulum sconsiglio i cenote più turistici e propongo Dos Ojos. Accanto ce n'è un altro bellissimo di cui ho dimenticato il nome.",
+        en: "Around Tulum I'd skip the most touristy cenotes and suggest Dos Ojos. Next to it there's another beautiful one whose name I've forgotten.",
+        es: "En Tulum desaconsejo los cenotes más turísticos y propongo Dos Ojos. Al lado hay otro precioso cuyo nombre he olvidado.",
+      },
+    },
+  ],
+  'belize/caye-caulker': [
+    {
+      nome: "Reef Friendly Tours (Caye Caulker)",
+      cosa: { it: "Snorkeling e tour in barca", en: "Snorkeling and boat tours", es: "Snorkel y tours en barco" },
+      whatsapp: '+501 624-2862',
+      fatto: true,
+      testo: {
+        it: "A Caye Caulker ero andato con loro. In generale in Belize, per l'influenza americana, i prezzi sono alti, soprattutto per escursioni e attività: lo stesso vale per la Riviera Maya messicana e per il Costa Rica.",
+        en: "In Caye Caulker I went with them. In general, because of the American influence, prices in Belize are high, especially for excursions and activities: the same goes for Mexico's Riviera Maya and for Costa Rica.",
+        es: "En Caye Caulker fui con ellos. En general, en Belice, por la influencia estadounidense, los precios son altos, sobre todo en excursiones y actividades: lo mismo pasa en la Riviera Maya mexicana y en Costa Rica.",
+      },
+    },
+    {
+      nome: "Messico-Belize: meglio via mare",
+      cosa: { it: "Il passaggio di frontiera", en: "The border crossing", es: "El paso de frontera" },
+      fatto: true,
+      testo: {
+        it: "La combinata Messico-Belize l'ho fatta due volte, una via terra e una via mare, e tutte e due le volte si arriva fino a Chetumal. Da lì consiglio il taxi boat: è caro, va prenotato in anticipo e bisogna presentarsi almeno un'ora, un'ora e mezza prima per il controllo dei passaporti. L'alternativa è la dogana via terra a Santa Elena: si può fare, ma è complicata, soprattutto con un'auto a noleggio, ed è piena di scammer che ti fanno pagare tanto per niente.",
+        en: "I've done the Mexico-Belize combo twice, once by land and once by sea, and both times you get as far as Chetumal. From there I recommend the water taxi: it's expensive, you need to book ahead and show up at least an hour to an hour and a half early for passport control. The alternative is the land border at Santa Elena: it's doable, but complicated, especially with a rental car, and it's full of scammers who charge you a lot for nothing.",
+        es: "La combinación México-Belice la hice dos veces, una por tierra y otra por mar, y las dos veces se llega hasta Chetumal. Desde allí recomiendo el taxi boat: es caro, hay que reservarlo con antelación y presentarse al menos una hora, una hora y media antes por el control de pasaportes. La alternativa es la aduana por tierra en Santa Elena: se puede hacer, pero es complicada, sobre todo con un coche de alquiler, y está llena de estafadores que te cobran mucho por nada.",
       },
     },
   ],

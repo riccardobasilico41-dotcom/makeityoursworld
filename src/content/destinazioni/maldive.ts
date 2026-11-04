@@ -72,7 +72,9 @@ export const destinazioniMaldive: Destinazione[] = [
     nome: 'Rasdhoo e Ari Nord',
     tipologia: ['isole locali', 'immersioni', 'squali martello'],
     giorniConsigliati: '3-4 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
+    miaEsperienza:
+      "Una settimana a Ukulhas non era nei piani: l'ultima volta è scoppiata la guerra in Medio Oriente, ci hanno cancellato i voli e, ahimè, abbiamo dovuto restare una settimana in più. Ukulhas è bella e molto autentica, ma diversa da Dhigurah: meno paradiso tropicale e più isola vissuta. Qui abbiamo fatto immersioni e brevetti con Reef Rangers Ukulhas, bravissimi.",
     introduzione:
       'Un piccolo atollo all\'estremità nord-est di Ari, con l\'isola locale di Rasdhoo, e le vicine Ukulhas e Thoddoo. Il lato esterno dell\'atollo precipita nel blu profondo.',
     percheAndarci:
@@ -99,6 +101,8 @@ export const destinazioniMaldive: Destinazione[] = [
     tipologia: ['isole locali', 'snorkeling', 'squali balena', 'mante'],
     giorniConsigliati: '4-5 giorni',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Dhigurah è incredibile, probabilmente l'isola più completa di tutte le Maldive, anche se un po' di gente c'è comunque. Una cosa non mi è piaciuta: per le escursioni non hai autonomia nella scelta, puoi solo affidarti alla tua homestay o al tuo hotel, e i prezzi sono «a cartello».",
     introduzione:
       'La parte meridionale dell\'atollo di Ari, con l\'area marina protetta tra Maamigili e Dhigurah dove gli squali balena giovani si nutrono lungo la barriera esterna tutto l\'anno.',
     percheAndarci:
@@ -161,7 +165,9 @@ export const destinazioniMaldive: Destinazione[] = [
     nome: 'Fuvahmulah',
     tipologia: ['immersioni', 'squali tigre', 'isola locale'],
     giorniConsigliati: '3-4 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
+    miaEsperienza:
+      "Per le immersioni consiglio fuvahmulahdive.com. Non è un posto per principianti: serve esperienza e spesso si è nel blu. Ma se ti piacciono i grandi pelagici è incredibile, soprattutto per lo squalo tigre.",
     introduzione:
       'Un atollo formato da una sola isola nel sud delle Maldive, quasi sull\'equatore, senza laguna, con l\'oceano profondo a pochi metri dalla riva, laghi d\'acqua dolce e una vegetazione fitta.',
     percheAndarci:

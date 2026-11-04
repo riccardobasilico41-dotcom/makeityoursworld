@@ -67,7 +67,9 @@ export const destinazioniMaldive: Destinazione[] = [
     nome: 'Rasdhoo and North Ari',
     tipologia: ['isole locali', 'immersioni', 'squali martello'],
     giorniConsigliati: '3-4 days',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
+    miaEsperienza:
+      "A week in Ukulhas wasn't in the plan: last time, war broke out in the Middle East, our flights were cancelled and, sadly, we had to stay a week longer. Ukulhas is beautiful and very authentic, but different from Dhigurah: less tropical paradise and more of a lived-in island. Here we dived and got our certifications with Reef Rangers Ukulhas, who are excellent.",
     introduzione:
       "A small atoll at the northeast tip of Ari, with the local island of Rasdhoo, and the nearby Ukulhas and Thoddoo. The outer side of the atoll drops into the deep blue.",
     percheAndarci:
@@ -94,6 +96,8 @@ export const destinazioniMaldive: Destinazione[] = [
     tipologia: ['isole locali', 'snorkeling', 'squali balena', 'mante'],
     giorniConsigliati: '4-5 days',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Dhigurah is incredible, probably the most complete island in the whole Maldives, even if there are still some crowds. One thing I didn't like: you have no freedom in choosing excursions, you can only rely on your homestay or hotel, and prices are fixed like a cartel.",
     introduzione:
       'The southern part of Ari atoll, with the marine protected area between Maamigili and Dhigurah where young whale sharks feed along the outer reef all year.',
     percheAndarci:
@@ -156,7 +160,9 @@ export const destinazioniMaldive: Destinazione[] = [
     nome: 'Fuvahmulah',
     tipologia: ['immersioni', 'squali tigre', 'isola locale'],
     giorniConsigliati: '3-4 days',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
+    miaEsperienza:
+      "For diving I recommend fuvahmulahdive.com. It isn't a place for beginners: you need experience and you're often out in the blue. But if you love big pelagics it's incredible, especially for tiger sharks.",
     introduzione:
       'An atoll made up of a single island in the south of the Maldives, almost on the equator, with no lagoon, the deep ocean a few meters from the shore, freshwater lakes and dense vegetation.',
     percheAndarci:

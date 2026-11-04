@@ -67,7 +67,9 @@ export const destinazioniMaldive: Destinazione[] = [
     nome: 'Rasdhoo y Ari Norte',
     tipologia: ['isole locali', 'immersioni', 'squali martello'],
     giorniConsigliati: '3-4 días',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
+    miaEsperienza:
+      "Una semana en Ukulhas no estaba en los planes: la última vez estalló la guerra en Oriente Medio, nos cancelaron los vuelos y, por desgracia, tuvimos que quedarnos una semana más. Ukulhas es bonita y muy auténtica, pero distinta de Dhigurah: menos paraíso tropical y más isla vivida. Aquí buceamos y sacamos los títulos con Reef Rangers Ukulhas, buenísimos.",
     introduzione:
       "Un pequeño atolón en el extremo noreste de Ari, con la isla local de Rasdhoo, y las vecinas Ukulhas y Thoddoo. El lado exterior del atolón cae a pico hacia el azul profundo.",
     percheAndarci:
@@ -94,6 +96,8 @@ export const destinazioniMaldive: Destinazione[] = [
     tipologia: ['isole locali', 'snorkeling', 'squali balena', 'mante'],
     giorniConsigliati: '4-5 días',
     visitataPersonalmente: true,
+    miaEsperienza:
+      "Dhigurah es increíble, probablemente la isla más completa de todas las Maldivas, aunque algo de gente sigue habiendo. Una cosa no me gustó: para las excursiones no tienes libertad de elección, solo puedes confiar en tu homestay o tu hotel, y los precios son «de cártel».",
     introduzione:
       "La parte meridional del atolón de Ari, con el área marina protegida entre Maamigili y Dhigurah donde los tiburones ballena jóvenes se alimentan a lo largo del arrecife exterior todo el año.",
     percheAndarci:
@@ -156,7 +160,9 @@ export const destinazioniMaldive: Destinazione[] = [
     nome: 'Fuvahmulah',
     tipologia: ['immersioni', 'squali tigre', 'isola locale'],
     giorniConsigliati: '3-4 días',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
+    miaEsperienza:
+      "Para bucear recomiendo fuvahmulahdive.com. No es un sitio para principiantes: hace falta experiencia y a menudo se está en el azul. Pero si te gustan los grandes pelágicos es increíble, sobre todo por el tiburón tigre.",
     introduzione:
       "Un atolón formado por una sola isla en el sur de las Maldivas, casi sobre el ecuador, sin laguna, con el océano profundo a pocos metros de la orilla, lagos de agua dulce y una vegetación densa.",
     percheAndarci:
