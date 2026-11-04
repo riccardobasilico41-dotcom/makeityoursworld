@@ -288,4 +288,17 @@ export const CONSIGLIATI: Record<string, Consigliato[]> = {
       },
     },
   ],
+  'tanzania/serengeti': [
+    {
+      nome: 'Suricata Safaris',
+      cosa: { it: 'Safari nel nord della Tanzania', en: 'Safaris in northern Tanzania', es: 'Safaris en el norte de Tanzania' },
+      url: 'https://suricatasafaris.com',
+      fatto: true,
+      testo: {
+        it: "Ho fatto il safari con Suricata Safaris: sono top, hanno accommodation per tutti i gusti e anche le esperienze in tenda, che consiglio. A me piace viaggiare scomodo e a contatto con la natura, anche se ogni tanto qualche 5 stelle va bene.",
+        en: "I did my safari with Suricata Safaris: they're top, they have accommodation for every taste and also the tent experiences, which I recommend. I like traveling rough and close to nature, even if a 5-star stay now and then is fine too.",
+        es: "Hice el safari con Suricata Safaris: son top, tienen alojamiento para todos los gustos y también las experiencias en tienda, que recomiendo. A mí me gusta viajar incómodo y en contacto con la naturaleza, aunque de vez en cuando algún 5 estrellas viene bien.",
+      },
+    },
+  ],
 }

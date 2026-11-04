@@ -35,6 +35,7 @@ export const PAESE_CODICE: Record<string, string> = {
   singapore: 'SG',
   'sri-lanka': 'LK',
   svezia: 'SE',
+  tanzania: 'TZ',
   thailandia: 'TH',
   transilvania: 'RO',
 }

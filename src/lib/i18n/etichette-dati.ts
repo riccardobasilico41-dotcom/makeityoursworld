@@ -765,6 +765,8 @@ export const ETICHETTE: Record<string, { en: string; es: string }> = {
   "Tamil Nadu": { en: "Tamil Nadu", es: "Tamil Nadu" },
   "tamilnadu": { en: "Tamil Nadu", es: "Tamil Nadu" },
   "tanatoraja": { en: "Tana Toraja", es: "Tana Toraja" },
+  "tanzania": { en: "Tanzania", es: "Tanzania" },
+  "Tanzania": { en: "Tanzania", es: "Tanzania" },
   "tara": { en: "Tara", es: "Tara" },
   "teide": { en: "Teide", es: "Teide" },
   "templestay": { en: "templestay", es: "templestay" },

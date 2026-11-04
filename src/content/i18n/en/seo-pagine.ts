@@ -282,6 +282,12 @@ export const seoPaesi: Record<string, SeoPagina> = {
     seoDescription:
       "Buda, Óbuda and Pest along the Danube, the Parliament, the castle and thermal springs. Entry requirements, travel tips, forint, itinerary.",
   },
+  tanzania: {
+    seoTitle: "Tanzania safari and Zanzibar: parks, costs, seasons",
+    seoDescription:
+      "Serengeti, Ngorongoro, Tarangire and Lake Manyara, then Zanzibar: visa, park fees, when to see the Great Migration and why to try a camping safari.",
+    socialTitle: "A Tanzania safari done right: which season, what it costs, tent or lodge",
+  },
 }
 
 export const seoMeraviglie: Record<string, SeoPagina> = {

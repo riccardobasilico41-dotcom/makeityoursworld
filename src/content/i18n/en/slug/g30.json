@@ -1,0 +1,18 @@
+{
+  "paesi": {
+    "tanzania": "tanzania"
+  },
+  "destinazioni": {
+    "tanzania/serengeti": "serengeti",
+    "tanzania/ngorongoro": "ngorongoro-crater",
+    "tanzania/tarangire-manyara": "tarangire-lake-manyara",
+    "tanzania/zanzibar": "zanzibar",
+    "tanzania/arusha-kilimanjaro": "arusha-kilimanjaro"
+  },
+  "esperienze": {
+    "tanzania/safari-in-tenda": "serengeti-camping-safari",
+    "tanzania/grande-migrazione": "great-migration",
+    "tanzania/cratere-ngorongoro": "ngorongoro-crater-game-drive",
+    "tanzania/stone-town": "stone-town-walk"
+  }
+}

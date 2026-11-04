@@ -8,6 +8,24 @@ import type { Destinazione, Esperienza } from '@/lib/types'
 import { linguaCorrente } from '@/lib/i18n/server'
 import type { Lingua } from '@/lib/i18n/config'
 import { MappaPaese, type DatiMappa, type PuntoMappa } from './MappaPaese'
+import { MappaAtlante, type DatiAtlante, type TappaPercorso } from './MappaAtlante'
+import { getTripMeta } from '@/lib/geo'
+
+/**
+ * Paesi con la mappa «da atlante» (rilievo, vicini, fiumi, percorso del viaggio):
+ * per ora solo il Perù, da far vedere prima di estenderla. Serve anche il file
+ * src/content/mappe/<paese>-atlante.json (tools/mappe/atlante-peru.mjs).
+ */
+const ATLANTE: Record<string, { viaggio: string }> = {
+  peru: { viaggio: 'peru-itinerario' },
+}
+
+function leggiAtlante(paeseSlug: string): DatiAtlante | null {
+  if (!ATLANTE[paeseSlug]) return null
+  const file = path.join(process.cwd(), 'src/content/mappe', `${paeseSlug}-atlante.json`)
+  if (!fs.existsSync(file)) return null
+  return JSON.parse(fs.readFileSync(file, 'utf8')) as DatiAtlante
+}
 
 type FileMappa = {
   viewBox: string
@@ -178,6 +196,16 @@ export async function MappaPaeseSezione({
   const nd = punti.filter((p) => p.tipo === 'destinazione').length
   const ne = punti.length - nd
 
+  const atlante = leggiAtlante(paeseSlug)
+  // tappe del viaggio principale nell'ordine del percorso, solo quelle con una destinazione sulla mappa
+  const tappe: TappaPercorso[] = []
+  if (atlante) {
+    for (const tp of getTripMeta(ATLANTE[paeseSlug].viaggio, lingua)?.tappeMappa ?? []) {
+      const p = tp.destinazioneSlug && punti.find((q) => q.id === `d:${tp.destinazioneSlug}`)
+      if (p && !tappe.some((q) => q.id === p.id)) tappe.push({ id: p.id, n: tappe.length + 1, x: p.x, y: p.y })
+    }
+  }
+
   return (
     <section id="mappa" className="scroll-mt-24 border-t border-alpine/10 py-20 sm:py-28">
       <Container>
@@ -186,7 +214,18 @@ export async function MappaPaeseSezione({
           title={t.titolo}
           description={t.descrizione(nd, ne, nomePaese)}
         />
-        <MappaPaese nomePaese={nomePaese} mappa={dati} punti={punti} />
+        {atlante ? (
+          <MappaAtlante
+            nomePaese={nomePaese}
+            mappa={dati}
+            atlante={atlante}
+            punti={punti}
+            tappe={tappe}
+            proiezione={{ y0: file.proiezione.y0, s: file.proiezione.s, oy: file.proiezione.oy }}
+          />
+        ) : (
+          <MappaPaese nomePaese={nomePaese} mappa={dati} punti={punti} />
+        )}
       </Container>
     </section>
   )

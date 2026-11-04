@@ -28,7 +28,7 @@ const T = {
     sullaMappa: (nome: string) => `${nome} sulla mappa`,
     tocca: "Tocca un punto rosso per una destinazione, uno scuro per un'esperienza: la mappa si avvicina e qui compare la scheda.",
     toccaSolo: 'Tocca un punto sulla mappa: si avvicina e qui compare la scheda della destinazione.',
-    altri: (n: number) => `E altri ${n} punti sulla mappa.`,
+    altri: (n: number) => (n === 1 ? 'E un altro punto sulla mappa.' : `E altri ${n} punti sulla mappa.`),
   },
   en: {
     filtra: 'Filter the map',
@@ -51,7 +51,7 @@ const T = {
     sullaMappa: (nome: string) => `${nome} on the map`,
     tocca: 'Tap a red dot for a destination, a dark one for an experience: the map zooms in and the details show up here.',
     toccaSolo: 'Tap a point on the map: it zooms in and the destination details show up here.',
-    altri: (n: number) => `And ${n} more points on the map.`,
+    altri: (n: number) => (n === 1 ? 'And one more point on the map.' : `And ${n} more points on the map.`),
   },
   es: {
     filtra: 'Filtrar el mapa',
@@ -74,7 +74,7 @@ const T = {
     sullaMappa: (nome: string) => `${nome} en el mapa`,
     tocca: 'Toca un punto rojo para un destino, uno oscuro para una experiencia: el mapa se acerca y aquí aparece la ficha.',
     toccaSolo: 'Toca un punto del mapa: se acerca y aquí aparece la ficha del destino.',
-    altri: (n: number) => `Y otros ${n} puntos en el mapa.`,
+    altri: (n: number) => (n === 1 ? 'Y un punto más en el mapa.' : `Y ${n} puntos más en el mapa.`),
   },
 } satisfies Record<Lingua, Record<string, string | ((...a: never[]) => string)>>
 

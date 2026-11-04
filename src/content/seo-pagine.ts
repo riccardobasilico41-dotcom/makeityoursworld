@@ -293,6 +293,12 @@ export const seoPaesi: Record<string, SeoPagina> = {
     seoDescription:
       "Buda, Óbuda e Pest divise dal Danubio, il Parlamento, il castello e oltre cento sorgenti termali. Scheda pratica, fiorino e itinerario di un weekend.",
   },
+  tanzania: {
+    seoTitle: "Safari in Tanzania e Zanzibar: parchi, costi e stagioni",
+    seoDescription:
+      "Serengeti, Ngorongoro, Tarangire e Manyara, poi Zanzibar: visto, park fee, quando vedere la Grande Migrazione e perché provare il safari in tenda.",
+    socialTitle: "Il safari in Tanzania fatto bene: quale stagione, quanto costa, tenda o lodge",
+  },
 }
 
 export const seoMeraviglie: Record<string, SeoPagina> = {

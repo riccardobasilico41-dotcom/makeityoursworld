@@ -282,6 +282,12 @@ export const seoPaesi: Record<string, SeoPagina> = {
     seoDescription:
       "Buda, Óbuda y Pest separadas por el Danubio, el Parlamento, el castillo y más de cien manantiales termales. Ficha, forinto e itinerario de fin de semana.",
   },
+  tanzania: {
+    seoTitle: "Safari en Tanzania y Zanzíbar: parques, costes y épocas",
+    seoDescription:
+      "Serengeti, Ngorongoro, Tarangire y el lago Manyara, luego Zanzíbar: visado, tasas de los parques, cuándo ver la Gran Migración y el safari en tienda.",
+    socialTitle: "Un safari en Tanzania bien hecho: qué época, cuánto cuesta, tienda o lodge",
+  },
 }
 
 export const seoMeraviglie: Record<string, SeoPagina> = {

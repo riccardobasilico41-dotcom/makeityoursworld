@@ -59,6 +59,7 @@ export const MAPPE = {
   spagna: { fonte: 'world', nomi: ['Spain'], clip: [-18.5, 27.5, 4.5, 44], cc: 'es', isole: 'tutte' },
   'sri-lanka': { fonte: 'world', nomi: ['Sri Lanka'], cc: 'lk' },
   svezia: { fonte: 'world', nomi: ['Sweden'], cc: 'se' },
+  tanzania: { fonte: 'world', nomi: ['Tanzania'], cc: 'tz' },
   svizzera: { fonte: 'world', nomi: ['Switzerland'], cc: 'ch' },
   thailandia: { fonte: 'world', nomi: ['Thailand'], cc: 'th', isole: 'tutte' },
   transilvania: { fonte: 'world', nomi: ['Romania'], cc: 'ro' },

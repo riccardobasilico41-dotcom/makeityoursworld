@@ -50,6 +50,18 @@ export const filigraneAltri: Record<string, FiligranaPaese> = {
       fonte: { titolo: 'Fez, porta sul', autore: 'Filipe de Bourbon Bragança', anno: '1903', url: 'https://commons.wikimedia.org/wiki/File:Filipe_de_Bourbon_Bragan%C3%A7a_-_Fez,_porta_sul.jpg', licenza: 'Pubblico dominio' },
     },
   },
+  tanzania: {
+    a: {
+      src: '/images/filigrane/tanzania-a.webp',
+      cosa: "Giraffa, litografia ottocentesca (ritagliata: tolti cornice, didascalia, firma e il riquadro con il cranio)",
+      fonte: { titolo: 'Giraffe du Sennaar', autore: 'Meunier (disegno), Langlumé (litografia)', anno: '1827', url: 'https://commons.wikimedia.org/wiki/File:Giraffe_du_Sennaar.png', licenza: 'Pubblico dominio' },
+    },
+    b: {
+      src: '/images/filigrane/tanzania-b.webp',
+      cosa: "Il Mawenzi, la seconda vetta del Kilimanjaro, dall'altopiano della Sella (ritagliata: tolta la firma)",
+      fonte: { titolo: 'Der Mawensi vom Sattelplateau, 4.400 m, aus NW. gesehen', autore: 'Edward Theodore Compton', anno: '1890', url: 'https://commons.wikimedia.org/wiki/File:Der_Mawensi_Vom_Sattelplateau_-_4.400_m_-_aus_NW._gesehen_-_Edward_Theodore_Compton.png', licenza: 'Pubblico dominio' },
+    },
+  },
   'arabia-saudita': {
     a: {
       src: '/images/filigrane/arabia-saudita-a.webp',
