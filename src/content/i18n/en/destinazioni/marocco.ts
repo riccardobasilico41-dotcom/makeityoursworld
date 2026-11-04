@@ -36,6 +36,111 @@ export const destinazioniMarocco: Destinazione[] = [
     erroriDaEvitare: ["Not booking the Jardin Majorelle in advance: entries are capped and it fills up fast during the middle of the day"],
     miaEsperienza:
       "The guided tour was a great way to get my bearings in the medina, but my strongest memory of Marrakech is still Jemaa El-Fna, seen again in the evening after the tour, among snake charmers, musicians and stalls of every kind.",
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Jemaa el-Fna Square",
+        "testo": "The heart of the medina: by day orange-juice stalls and snake charmers, in the evening it fills with smoke, drums, musicians and open-air kitchens. Since 2008 it has been UNESCO intangible heritage.",
+        "come": "Reached on foot from the medina; taxis stop at the edges. You walk among the stalls.",
+        "quando": "At sunset and in the evening, when the kitchens open.",
+        "tempo": "1-2 hours",
+        "consiglio": "Eat at the numbered stalls with posted prices and choose those full of locals."
+      },
+      {
+        "nome": "Ben Youssef Madrasa",
+        "testo": "The old Quranic school of the 14th century (rebuilt in the 16th), with a marble courtyard and cedar and zellige stucco. Among the most beautiful in Morocco.",
+        "come": "On foot from the north medina, about 15 minutes from Jemaa el-Fna.",
+        "quando": "Morning at opening, to have the courtyards empty.",
+        "tempo": "45 minutes",
+        "costo": "50 MAD (from my trip)"
+      },
+      {
+        "nome": "Bahia Palace",
+        "testo": "The 19th-century palace of the grand vizier, with courtyards, gardens, painted rooms and cedar ceilings.",
+        "come": "On foot from the Mellah or Jemaa el-Fna.",
+        "quando": "Morning.",
+        "tempo": "1 hour",
+        "costo": "70 MAD (from my trip)"
+      },
+      {
+        "nome": "Saadian Tombs",
+        "testo": "The mausoleum of the 16th-century Saadian sultans, with Carrara marble tombs and a room with twelve columns.",
+        "come": "Near the kasbah, a 15-minute walk from Jemaa el-Fna.",
+        "quando": "Early morning: in the afternoon a queue forms.",
+        "tempo": "30-45 minutes",
+        "costo": "70 MAD (from my trip)"
+      },
+      {
+        "nome": "Jardin Majorelle",
+        "testo": "The botanical garden painted cobalt blue, created by the painter Jacques Majorelle and later restored by Yves Saint Laurent. Inside is the Berber museum.",
+        "come": "Taxi from the medina in 15 minutes, in the Guéliz district.",
+        "quando": "Morning at opening: entries are limited and the garden fills.",
+        "tempo": "1-1.5 hours",
+        "costo": "150 MAD (from my trip)",
+        "consiglio": "Book the ticket beforehand, because in the middle of the day a queue forms."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: Ben Youssef Madrasa and souqs",
+          "Lunch in the medina",
+          "Afternoon: Bahia Palace and Saadian Tombs",
+          "Evening: Jemaa el-Fna at sunset and dinner"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: as above",
+          "Day 2: Jardin Majorelle at opening, Guéliz, hammam and dinner with a show"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Medina",
+        "perChi": "those who want the atmosphere of Marrakech",
+        "testo": "Riads inside the walls, a few minutes from Jemaa el-Fna. Narrow alleys, noise, hard to find your way with luggage: ask the riad to send someone to the door."
+      },
+      {
+        "nome": "Guéliz",
+        "perChi": "those who want a modern city",
+        "testo": "A European district with restaurants and shops, near the Jardin Majorelle. Quieter, but you lose the atmosphere."
+      },
+      {
+        "nome": "Hivernage",
+        "perChi": "those who want hotels with a pool",
+        "testo": "Large hotels with gardens, near both the medina and Guéliz."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Tagine",
+        "testo": "Meat or chicken with lemon, olives and vegetables, cooked in the clay pot."
+      },
+      {
+        "nome": "Friday couscous",
+        "testo": "The dish of the week in homes; found in restaurants on Fridays."
+      },
+      {
+        "nome": "Pastilla",
+        "testo": "Crisp pastry with pigeon or chicken, almonds and cinnamon."
+      },
+      {
+        "nome": "Mint tea",
+        "testo": "Always served, to drink hot and very sweet."
+      }
+    ],
+    attenzioni: [
+      "Unauthorized guides who offer themselves in the medina then ask for a high tip: agree beforehand or use an official guide.",
+      "If a boy says \"the road is closed\", he is trying to take you to a shop: check on the map.",
+      "In the souqs haggle starting from about a third of the stated price.",
+      "Photos of the charmers and musicians in Jemaa el-Fna: you pay, agree beforehand.",
+      "The Jardin Majorelle has limited entries: do not arrive without a ticket."
+    ],
+    // GUIDA-END
     esperienzeSlugs: ['tour-marrakech', 'jardin-majorelle'],
     tripSlugs: ['marocco-itinerario'],
     imageAlt: 'Jemaa El-Fna square bustling in the evening in Marrakech, Morocco',
@@ -63,6 +168,71 @@ export const destinazioniMarocco: Destinazione[] = [
     erroriDaEvitare: ["Forgetting to recharge power banks before the night in the desert: the tented camps have no electrical outlets"],
     miaEsperienza:
       "I was surprised by the contrast between the rammed-earth exterior of the Telouet Kasbah, now partly collapsed, and the interiors full of decoration. The ksar of Aït Benhaddou in person is even more beautiful than it looks in the films that made it famous.",
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Telouet Kasbah",
+        "testo": "The old residence of the lords of the valley, now partly collapsed outside but with interiors rich in stucco, zellige and painted ceilings.",
+        "come": "From Marrakech 2.5 hours over the Tizi n'Tichka pass; visited with a local guide.",
+        "quando": "Morning.",
+        "tempo": "1 hour",
+        "consiglio": "The contrast between the mud outside and the decorated interiors is the surprise of the visit."
+      },
+      {
+        "nome": "Aït Benhaddou Ksar",
+        "testo": "The fortified village in rammed earth, UNESCO heritage since 1987, a set for many films. You climb to the top for the view over the valley.",
+        "come": "About an hour from Telouet; you cross the river on foot and climb between the houses.",
+        "quando": "Morning, for the best light on the facade and no heat.",
+        "tempo": "1-1.5 hours"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Leave Marrakech, Tizi n'Tichka pass",
+          "Telouet Kasbah",
+          "Lunch at Tawesna",
+          "Aït Benhaddou Ksar"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Aït Benhaddou",
+        "perChi": "those who want to sleep in the valley",
+        "testo": "Kasbah-hotels a few steps from the ksar, simple and quiet."
+      },
+      {
+        "nome": "Ouarzazate",
+        "perChi": "those who want more services",
+        "testo": "A town 30 km away, with hotels in every range and restaurants."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Tagine with almonds",
+        "testo": "Lamb with prunes and almonds, in the restaurants around the ksar."
+      },
+      {
+        "nome": "Berber bread",
+        "testo": "Baked in the wood ovens of the villages."
+      },
+      {
+        "nome": "Draa Valley dates",
+        "testo": "Sweet and soft, sold along the road."
+      },
+      {
+        "nome": "Mint tea",
+        "testo": "Served everywhere as a welcome."
+      }
+    ],
+    attenzioni: [
+      "The Tizi n'Tichka pass is winding and in winter there may be snow or ice.",
+      "Guides at Aït Benhaddou ask per-person fees: agree beforehand.",
+      "Forgetting to charge power banks before the night in the desert: the camps have no outlets."
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['marocco-itinerario'],
     imageAlt: 'The fortified ksar of Aït Benhaddou, a UNESCO World Heritage site, Morocco',
@@ -95,6 +265,78 @@ export const destinazioniMarocco: Destinazione[] = [
     erroriDaEvitare: ["Going into the desert without a turban or pashmina: it's better to buy them beforehand at the local market, they protect against sand and the night cold", "Arriving in Merzouga without a supply of alcohol and snacks: there's very little to be found in the desert"],
     miaEsperienza:
       "The starry sky at night, far from any artificial light, was one of the best moments of the trip. The camel ride at dawn, with the dunes changing color in the sunlight, was a fitting end to that night.",
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Todra Gorges",
+        "testo": "A canyon with rock walls up to 300 meters high, narrowing to about 10 meters. You walk on the bottom beside the stream.",
+        "come": "From Aït Benhaddou about 3 hours by road; you stop at a lot and walk.",
+        "quando": "Morning, before the groups.",
+        "tempo": "30 minutes"
+      },
+      {
+        "nome": "Erg Chebbi and the night in the desert",
+        "testo": "The dunes up to 150 meters high near Merzouga. You ride a camel to the tented camp, have dinner, sleep under a sky with no lights and return at dawn.",
+        "come": "The camel leaves from the village, about an hour to the camp.",
+        "quando": "Sunset and dawn.",
+        "tempo": "One night",
+        "consiglio": "Bring a turban or pashmina for sand and the night cold, and charge your phone beforehand."
+      },
+      {
+        "nome": "Quad in the desert",
+        "testo": "A quad ride among the dunes and villages near Merzouga, in a group with a guide.",
+        "come": "Book at the hotel or camp.",
+        "quando": "Morning or late afternoon.",
+        "tempo": "1-2 hours",
+        "costo": "350 MAD per person (from my trip)"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: Todra Gorges, then transfer to Merzouga, camel at sunset, night at the camp",
+          "Day 2: dawn over the dunes, return"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Tented camp at Erg Chebbi",
+        "perChi": "those who want the night in the desert",
+        "testo": "Simple or more comfortable tents, with dinner and breakfast. Little electricity."
+      },
+      {
+        "nome": "Hotel in Merzouga",
+        "perChi": "those who prefer a room",
+        "testo": "Hotels and kasbahs with a pool, a few minutes from the dunes."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Desert bread (madfouna)",
+        "testo": "A bread stuffed with meat and onions baked under the sand."
+      },
+      {
+        "nome": "Camel tagine",
+        "testo": "In some camps served on request."
+      },
+      {
+        "nome": "Berber tea",
+        "testo": "With mint and spices, at the camps."
+      },
+      {
+        "nome": "Dates",
+        "testo": "Sweet and dry, from the Ziz Valley."
+      }
+    ],
+    attenzioni: [
+      "Entering the desert without a turban or pashmina: better to buy them first at the market, they help against sand and cold.",
+      "Arriving in Merzouga without a stock of alcohol and snacks: in the desert you find few.",
+      "Nights are cold even in spring: bring warm layers.",
+      "Check what the camel and quad cost before signing: prices vary."
+    ],
+    // GUIDA-END
     esperienzeSlugs: ['notte-deserto-erg-chebbi', 'gole-todra', 'quad-deserto-merzouga'],
     tripSlugs: ['marocco-itinerario'],
     imageAlt: 'A guide in a turban leads a dromedary across the orange sand of the Merzouga dunes',
@@ -122,6 +364,72 @@ export const destinazioniMarocco: Destinazione[] = [
     erroriDaEvitare: [],
     miaEsperienza:
       "After the desert, Agdz came at just the right time to catch my breath, and the Tamnougalt Kasbah reminded me how worthwhile it is to step off the most beaten routes.",
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Tamnougalt Kasbah",
+        "testo": "A fortified kasbah in the Draa Valley, lived in by Berber families. Visited with a local guide who explains the rooms and village life.",
+        "come": "From Merzouga about 4 hours by road.",
+        "quando": "Evening, for the light on the mud walls.",
+        "tempo": "1 hour",
+        "costo": "20 MAD per person plus about 200 MAD tip for the guide (from my trip)"
+      },
+      {
+        "nome": "Draa Valley",
+        "testo": "The long valley of palm groves along the river, with kasbahs and mud villages.",
+        "come": "By car along the main road.",
+        "quando": "Afternoon.",
+        "tempo": "Half a day",
+        "consiglio": "Leaving the most beaten routes is worth it: Tamnougalt shows it."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Leave Merzouga",
+          "Lunch on the road",
+          "Tamnougalt Kasbah",
+          "Free time at the pool"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Agdz",
+        "perChi": "those who want a pause after the desert",
+        "testo": "A small town with kasbah-hotels and a pool, quiet and without tourists."
+      },
+      {
+        "nome": "Zagora",
+        "perChi": "those who want more services",
+        "testo": "A larger town to the south, with hotels and departures for the desert."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Draa dates",
+        "testo": "Among the best in Morocco."
+      },
+      {
+        "nome": "Vegetable tagine",
+        "testo": "With zucchini, carrots and saffron, in hotels and restaurants."
+      },
+      {
+        "nome": "Berber bread",
+        "testo": "Baked in a communal oven."
+      },
+      {
+        "nome": "Mint tea",
+        "testo": "With hospitality."
+      }
+    ],
+    attenzioni: [
+      "Check how much the local guide asks before the visit: the tip is agreed.",
+      "The heat is strong from May to September.",
+      "The area is very isolated: bring cash."
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['marocco-itinerario'],
     imageAlt: 'The Tamnougalt Kasbah in the Draa Valley, Morocco',
@@ -154,6 +462,78 @@ export const destinazioniMarocco: Destinazione[] = [
     erroriDaEvitare: ["Buying saffron at the roadside shops aimed at passing tourists: in Taliouine it's best to go only to the places the guide recommends"],
     miaEsperienza:
       "A different morning from the rest of the trip: after days of desert and kasbahs, surfing at Taghazout was a plunge, literally too, into a completely different world.",
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Taliouine and saffron",
+        "testo": "The village at the center of Moroccan saffron production. You can see how the flower is picked and sorted.",
+        "come": "From Agdz about 2.5 hours by road.",
+        "quando": "October-November for the harvest.",
+        "tempo": "1 hour",
+        "consiglio": "Buy saffron at cooperatives and recommended places, not at tourist shops for passers-by."
+      },
+      {
+        "nome": "Taghazout and surfing",
+        "testo": "The fishing village that became Morocco's surf capital, with steady waves and schools for beginners.",
+        "come": "From Agadir 30 minutes by taxi or bus; schools and rental on site.",
+        "quando": "Early May: ideal waves to start.",
+        "tempo": "Half a day",
+        "costo": "Lesson 250 MAD per person, showers 10 MAD (from my trip)",
+        "consiglio": "Stop for lunch in Taghazout after the lesson."
+      },
+      {
+        "nome": "Taroudant",
+        "testo": "A town inside intact red walls, called \"little Marrakech\".",
+        "come": "From Taliouine about 1 hour, towards Agadir.",
+        "quando": "Afternoon.",
+        "tempo": "1-2 hours"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: Taliouine, saffron, then Taroudant and arrival in Agadir, yoga at sunset",
+          "Day 2: surf at Taghazout, lunch, dinner at Les Blancs"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Agadir",
+        "perChi": "those who want beach and services",
+        "testo": "A modern city rebuilt after the 1960 earthquake, with a seafront and hotels."
+      },
+      {
+        "nome": "Taghazout",
+        "perChi": "those who want surf and atmosphere",
+        "testo": "A village with surf schools and guesthouses, relaxed."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Grilled fish",
+        "testo": "In the restaurants of Agadir harbor."
+      },
+      {
+        "nome": "Argan oil and amlou",
+        "testo": "Almond paste, argan oil and honey, spread on bread."
+      },
+      {
+        "nome": "Fish tagine",
+        "testo": "On the coast, with vegetables and spices."
+      },
+      {
+        "nome": "Saffron",
+        "testo": "In teas and dishes, bought at Taliouine."
+      }
+    ],
+    attenzioni: [
+      "Saffron sold in tourist shops is often adulterated, buy only in recommended places.",
+      "The current at Taghazout can be strong: follow the instructor's directions.",
+      "The sun on the coast burns even with a cloudy sky."
+    ],
+    // GUIDA-END
     esperienzeSlugs: ['surf-taghazout'],
     tripSlugs: ['marocco-itinerario'],
     imageAlt: 'A surf lesson on the waves of Taghazout, Morocco',
@@ -185,6 +565,85 @@ export const destinazioniMarocco: Destinazione[] = [
     erroriDaEvitare: [],
     miaEsperienza:
       "After days of van, desert and sightseeing, the hour at the hammam at Kenza was one of the few truly relaxing moments of the trip, and the white-and-blue medina of Essaouira remains one of the loveliest atmospheres in Morocco.",
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Essaouira Medina",
+        "testo": "The white and blue city ringed by 18th-century walls, UNESCO heritage, with pedestrian alleys and woodworking shops in thuya.",
+        "come": "On foot: enter by Bab Doukkala or from the harbor.",
+        "quando": "Late afternoon, with better light.",
+        "tempo": "2-3 hours",
+        "consiglio": "The guided tour of about an hour and a half gives good orientation."
+      },
+      {
+        "nome": "Harbor and Skala",
+        "testo": "The harbor with the fishermen's blue boats and the ramparts with cannons, where you see the gulls and the fish stalls.",
+        "come": "On foot from the medina.",
+        "quando": "Morning, when the trawlers arrive, and at sunset.",
+        "tempo": "1 hour"
+      },
+      {
+        "nome": "Hammam",
+        "testo": "A steam bath with scrub and massage in the Moroccan tradition.",
+        "come": "Book ahead at a venue in the medina.",
+        "quando": "Afternoon.",
+        "tempo": "1-1.5 hours",
+        "costo": "250 MAD per person at Kenza (from my trip)",
+        "consiglio": "Perfect after days of van and visits."
+      },
+      {
+        "nome": "Ranch de Diabat",
+        "testo": "Horse and quad rides on the sandy coast near the remains of the old Diabat castle.",
+        "come": "From the medina by taxi, about 10 minutes.",
+        "quando": "Late afternoon.",
+        "tempo": "1-2 hours"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: arrival, medina and harbor, fish dinner",
+          "Day 2: morning at the market, hammam, afternoon at Diabat"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Medina",
+        "perChi": "those who want to be inside the city",
+        "testo": "Riads and guesthouses in the white alleys, very close to everything. Small rooms, but the atmosphere is unique."
+      },
+      {
+        "nome": "Seafront",
+        "perChi": "those who want beach and wind",
+        "testo": "Modern hotels facing the sea, larger and with parking."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Grilled fish at the harbor",
+        "testo": "You choose at the counter and the nearby restaurants cook it."
+      },
+      {
+        "nome": "Fish tagine",
+        "testo": "With vegetables and spices."
+      },
+      {
+        "nome": "Argan oil",
+        "testo": "Made in women's cooperatives, for cooking and cosmetics."
+      },
+      {
+        "nome": "Almond sweets",
+        "testo": "From the pastry makers of the medina."
+      }
+    ],
+    attenzioni: [
+      "The strong wind (trade winds) often makes the seafront cold: bring a jacket even in summer.",
+      "Shopping in Essaouira generally costs less than in Marrakech, but the price is still negotiated.",
+      "Avoid unofficial guides in the street."
+    ],
+    // GUIDA-END
     esperienzeSlugs: ['hammam-essaouira'],
     tripSlugs: ['marocco-itinerario'],
     imageAlt: 'The white-and-blue medina of the port town of Essaouira, Morocco',

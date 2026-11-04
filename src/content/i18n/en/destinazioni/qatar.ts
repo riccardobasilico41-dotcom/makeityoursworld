@@ -94,6 +94,101 @@ export const destinazioniQatar: Destinazione[] = [
     ],
     miaEsperienza:
       "Doha is the Gulf city that gives the most back for the time you give it, for an almost banal reason: it's small, the metro works and the two things worth seeing are close together. The best is the Museum of Islamic Art. Pei designed it at ninety, after traveling around the Muslim world to understand what Islamic architecture was: it's a limestone building on an artificial island, where light comes in from above through a hidden dome. From the outdoor steps, at sunset, you look at the West Bay skyline across the water, and it's the city's postcard. The other surprise is Souq Waqif, a reconstruction that nonetheless works: you can still buy fabrics, spices and hunting falcons there, and there's even a falcon hospital you can visit, where the birds wait their turn perched with hoods on their heads. It's the strangest and most Qatari place in the city. With the stopover program, all of this costs about as much as a pizza.",
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Museum of Islamic Art",
+        "testo": "The limestone building designed by I.M. Pei at ninety, on an artificial island in front of the Corniche. Light enters from above through a hidden dome. Inside, manuscripts, ceramics, metals and textiles from the whole Muslim world.",
+        "come": "Taxi or Uber from the center; the metro reaches the Corniche station. You walk through the park.",
+        "quando": "Sunset: from the outer steps you look at the West Bay skyline.",
+        "tempo": "2-3 hours",
+        "url": "https://mia.org.qa/",
+        "consiglio": "Climb the steps at the back at the end of the visit: it is the postcard of the city."
+      },
+      {
+        "nome": "Souq Waqif",
+        "testo": "A reconstruction that works: textiles, spices and hunting falcons are still sold, and there is a falcon hospital you can visit, where birds wait their turn hooded. In the evening it is very lively.",
+        "come": "Metro to Msheireb or Souq Waqif; you walk the alleys.",
+        "quando": "Evening, when the falcon market opens.",
+        "tempo": "2 hours",
+        "consiglio": "The strangest and most Qatari place in the city."
+      },
+      {
+        "nome": "National Museum of Qatar",
+        "testo": "Jean Nouvel's building with intersecting discs inspired by the desert rose. Inside, the country's history from the desert to pearls to gas.",
+        "come": "Metro to Msheireb or taxi; a few minutes from the Corniche.",
+        "quando": "Morning.",
+        "tempo": "2 hours",
+        "url": "https://www.nmoq.org.qa/"
+      },
+      {
+        "nome": "Corniche and dhows",
+        "testo": "The crescent waterfront on the bay, with dhows, the traditional wooden boats, that make short rides for a few riyals.",
+        "come": "On foot from the Museum of Islamic Art.",
+        "quando": "Sunset.",
+        "tempo": "1 hour"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: Museum of Islamic Art",
+          "Lunch at Souq Waqif",
+          "Afternoon: National Museum",
+          "Sunset: Corniche and dhows, evening at the souq"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: as above",
+          "Day 2: 4x4 trip to the inland sea (see the desert and the north)"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Souq Waqif / Msheireb",
+        "perChi": "those who want to be near everything",
+        "testo": "Boutique hotels and chains near the souq and metro."
+      },
+      {
+        "nome": "West Bay",
+        "perChi": "those who want skyscrapers and luxury hotels",
+        "testo": "Modern skyline, far from the souq."
+      },
+      {
+        "nome": "The Pearl",
+        "perChi": "those who want beach and restaurants",
+        "testo": "An artificial island with a marina and venues, touristy and expensive."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Machboos",
+        "testo": "Spiced meat with rice, the Qatari dish."
+      },
+      {
+        "nome": "Karak chai",
+        "testo": "Spiced milk tea, at kiosks at all hours for a few cents."
+      },
+      {
+        "nome": "Levantine and Iranian cuisine",
+        "testo": "In the restaurants of Souq Waqif."
+      },
+      {
+        "nome": "Workers' cuisine",
+        "testo": "In working-class districts you eat well and spend little."
+      }
+    ],
+    attenzioni: [
+      "Not booking the stopover on the dedicated portal: it is booked separately from the flight with the booking code, and many do not know it exists.",
+      "Planning it in summer: staying outdoors is impractical.",
+      "Stopping only at West Bay and the malls: it is the souq and the museums that are worth getting off the plane for.",
+      "Rules on dress and public behavior: check the official channels."
+    ],
+    // GUIDA-END
     esperienzeSlugs: ['souq-waqif', 'khor-al-adaid'],
     tripSlugs: ['stopover-golfo'],
     imageAlt: "The skyscrapers of West Bay seen from the water under a clear sky, Doha",
@@ -143,6 +238,86 @@ export const destinazioniQatar: Destinazione[] = [
     ],
     miaEsperienza:
       "Outside Doha, Qatar is almost empty, and that's exactly why it's worth leaving the capital. Khor Al Adaid is what stayed with me. We got there by 4x4 after half an hour of sand, with the driver letting air out of the tires at the start of the track; you crest one last dune and below is the sea, an arm of the Gulf entering the desert, with dunes dropping straight into the water and Saudi Arabia on the other shore. Few places in the world are like this, and that it's an hour and a half from an international airport is almost absurd. The north is another story, and it's the part almost nobody does. Richard Serra's four steel plates, fourteen meters tall and lined up over a kilometer in the middle of nothing, are reached on a track and there's nobody there: no parking, no ticket, no signs. You get there, you walk between one plate and the next hearing only the wind, and you go back. It's the opposite of everything else in the Gulf.",
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Khor Al Adaid (inland sea)",
+        "testo": "An arm of the Gulf that enters the desert, with dunes dropping straight into the water and Saudi Arabia on the other shore. Few places in the world are like this.",
+        "come": "Only by 4x4 with a driver: tires are deflated at the start of the track, then about half an hour of sand. You crest the last dune and below is the sea.",
+        "quando": "Afternoon, until sunset.",
+        "tempo": "Half a day",
+        "consiglio": "Do not do dune bashing right after eating: it is livelier than it looks."
+      },
+      {
+        "nome": "Al Zubarah Fort",
+        "testo": "A UNESCO site: the 18th-century fort and the remains of the port town that stood around it.",
+        "come": "By car from Doha, about an hour and a half.",
+        "quando": "Morning.",
+        "tempo": "1-1.5 hours",
+        "consiglio": "Bring water and lunch: in the north there is nothing for tens of kilometers."
+      },
+      {
+        "nome": "East-West/West-East by Richard Serra",
+        "testo": "Four steel slabs 14 meters high, aligned over about a kilometer in the Brouq desert. Reached on a track, with no parking, ticket or signs.",
+        "come": "By 4x4, west of Doha.",
+        "quando": "Sunset, when the steel changes color.",
+        "tempo": "1-2 hours",
+        "consiglio": "Walk between the slabs hearing only the wind: it is the opposite of the rest of the Gulf."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: Al Zubarah and the north",
+          "Afternoon: Serra installations at sunset"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: Khor Al Adaid by 4x4",
+          "Day 2: north, Al Zubarah and Serra"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Desert tented camps",
+        "perChi": "those who want a night under the stars",
+        "testo": "Camps with meals included, in the south, in the desert."
+      },
+      {
+        "nome": "Doha",
+        "perChi": "those who prefer to return to the city",
+        "testo": "All excursions leave from Doha as day trips."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Packed lunch",
+        "testo": "Brought from Doha, as Qataris do on trips out of town."
+      },
+      {
+        "nome": "Machboos",
+        "testo": "In the tented camps."
+      },
+      {
+        "nome": "Karak chai",
+        "testo": "A thermos of spiced tea."
+      },
+      {
+        "nome": "Dates",
+        "testo": "At the camps, for a snack."
+      }
+    ],
+    attenzioni: [
+      "Reaching Khor Al Adaid with an ordinary car: you get stuck, and it is a classic.",
+      "Dune bashing after a meal.",
+      "Going north without water and lunch: there is nothing for tens of kilometers.",
+      "Planning the desert between June and September."
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['stopover-golfo'],
     imageAlt: "The Al Zubarah fort, with its crenellated towers and the Qatari flag, on the stony plain of the north",

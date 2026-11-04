@@ -46,6 +46,112 @@ export const destinazioniEgitto: Destinazione[] = [
       'Accettare la «guida gratuita» che si offre per strada o il «negozio di papiri di mio fratello»',
       'Prendere un taxi senza tassametro senza concordare il prezzo: meglio Uber o Careem',
     ],
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Grand Egyptian Museum (GEM)",
+        "testo": "Il museo nuovo vicino alle piramidi, con la scalinata monumentale e le gallerie dedicate a Tutankhamon, i cui oggetti sono riuniti per la prima volta in un unico luogo. È il museo da vedere per primo.",
+        "come": "Sta a Giza, a 30-60 minuti dal centro con Uber o taxi. L'ingresso è a fascia oraria da prenotare online.",
+        "quando": "Mattina all'apertura. Evitare i giorni di punta e le ore centrali.",
+        "tempo": "3-4 ore",
+        "url": "https://gem.eg/",
+        "consiglio": "Prenotare la fascia oraria prima di partire e abbinarlo alle piramidi, che sono a pochi chilometri."
+      },
+      {
+        "nome": "Museo Egizio di piazza Tahrir",
+        "testo": "Il museo storico del 1902, con migliaia di pezzi in sale piene e un po' vecchio stile. Resta pieno di oggetti straordinari anche dopo il trasferimento dei pezzi di Tutankhamon.",
+        "come": "Metro fino a Sadat, a piedi dalla piazza. Audioguida o guida in loco.",
+        "quando": "Mattina presto, prima dei gruppi.",
+        "tempo": "2 ore",
+        "url": "https://egymonuments.gov.eg/",
+        "consiglio": "Scegliere poche sale e vederle bene, invece di correre su tutto il museo."
+      },
+      {
+        "nome": "Cittadella di Saladino e moschea di Muhammad Ali",
+        "testo": "La fortezza del XII secolo sulla collina che domina la città, con la moschea in stile ottomano a cupole d'alabastro. Dal bordo la vista arriva fino alle piramidi nelle giornate limpide.",
+        "come": "Taxi o Uber fino all'ingresso. Si gira a piedi dentro la cittadella, con scarpe comode.",
+        "quando": "Pomeriggio, per la luce e il cielo meno velato.",
+        "tempo": "2 ore",
+        "url": "https://egymonuments.gov.eg/"
+      },
+      {
+        "nome": "Cairo islamico e via al-Muizz",
+        "testo": "La strada pedonale con i monumenti dei secoli XII-XVIII: moschee, madrase, porte e mausolei. Un museo all'aperto, vivo di notte quando le facciate sono illuminate.",
+        "come": "Ci si arriva dalla zona di Khan el-Khalili. Si cammina da nord a sud in circa 1-2 ore.",
+        "quando": "Dal tardo pomeriggio fino a sera.",
+        "tempo": "2-3 ore",
+        "url": "https://egymonuments.gov.eg/",
+        "consiglio": "Salire su un minareto, dove permesso, regala la vista migliore della città vecchia."
+      },
+      {
+        "nome": "Khan el-Khalili",
+        "testo": "Il grande bazar del Cairo, con vicoli di argento, lampade, spezie, tessuti. È turistico, ma di sera si riempie anche di cairoti.",
+        "come": "Taxi fino all'ingresso, poi a piedi. Il caffè El Fishawy è il punto di sosta classico.",
+        "quando": "Sera, dopo le 18.",
+        "tempo": "2 ore",
+        "consiglio": "Contrattare sempre, partendo da circa un terzo del prezzo detto."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Mattina: Grand Egyptian Museum",
+          "Pranzo a Zamalek o a Downtown",
+          "Pomeriggio: Cittadella e moschea di Muhammad Ali",
+          "Sera: via al-Muizz e Khan el-Khalili"
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: come sopra, oppure Museo Egizio al mattino",
+          "Giorno 2: Cairo copto e Cairo islamico, poi sera in feluca sul Nilo"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Zamalek",
+        "perChi": "chi vuole un quartiere tranquillo e curato",
+        "testo": "Isola sul Nilo con caffè, ristoranti e gallerie. Più cara e un po' lontana dalle visite, ma comoda in Uber."
+      },
+      {
+        "nome": "Downtown",
+        "perChi": "chi vuole stare vicino al Museo Egizio",
+        "testo": "Palazzi ottocenteschi, locali e rumore continuo. Gli hotel sono vecchi e di fascia media."
+      },
+      {
+        "nome": "Giza",
+        "perChi": "chi vuole le piramidi e il GEM",
+        "testo": "Zona vicina ai siti, con hotel con vista piramidi. Il centro è lontano e il traffico pesante."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Koshari",
+        "testo": "Riso, lenticchie, pasta, ceci e salsa piccante di pomodoro: il piatto di strada nazionale, da Abou Tarek a Downtown."
+      },
+      {
+        "nome": "Ful e taameya",
+        "testo": "Fave in pentola e falafel di fave per colazione, nei chioschi del mattino."
+      },
+      {
+        "nome": "Molokhia",
+        "testo": "Zuppa verde di corchoro con pollo o coniglio e riso."
+      },
+      {
+        "nome": "Om Ali",
+        "testo": "Dolce caldo di pasta sfoglia, latte, noci e uvetta."
+      }
+    ],
+    attenzioni: [
+      "La guida gratuita che si offre per strada, o il negozio di papiri o di profumi di un fratello, è un aggancio per portare in un negozio: rifiutare con calma.",
+      "Taxi senza tassametro: concordare il prezzo o usare Uber e Careem.",
+      "Nei bazar il prezzo detto è il doppio o più: contrattare e non comprare nulla sotto pressione.",
+      "Il traffico è pesante: calcolare molto più tempo del previsto tra una tappa e l'altra."
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['egitto-mare-luxor-cairo', 'egitto-completo'],
     imageAlt: 'La moschea-madrasa del sultano Hassan e la moschea di al-Rifa\'i con i loro minareti, nel Cairo islamico',
@@ -86,6 +192,91 @@ export const destinazioniEgitto: Destinazione[] = [
       'Salire su un cammello senza aver concordato prezzo totale, durata e cosa include: la cifra raddoppia per scendere',
       'Comprare il biglietto per l\'interno di Cheope pensando di vedere decorazioni: le camere sono spoglie, l\'interesse è nel corridoio e nella Grande Galleria',
     ],
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Piramidi e Sfinge di Giza",
+        "testo": "La Grande Piramide di Cheope, quelle di Chefren e Micerino e la Sfinge: il gruppo più famoso dell'Egitto, sull'altopiano a sud-ovest del Cairo. Si può entrare nella Grande Piramide con un biglietto a parte.",
+        "come": "Da Giza o dal Cairo in Uber o con un autista; si gira a piedi, in navetta elettrica o a cavallo.",
+        "quando": "All'apertura, quando la luce è migliore e ci sono meno gruppi.",
+        "tempo": "3-4 ore",
+        "url": "https://egymonuments.gov.eg/",
+        "consiglio": "Il punto panoramico dietro Micerino mostra le tre piramidi insieme, senza folla."
+      },
+      {
+        "nome": "Saqqara",
+        "testo": "La piramide a gradoni di Djoser, la più antica grande costruzione in pietra, e le mastabe dipinte di Ti e Mereruka con rilievi molto belli.",
+        "come": "In auto con autista, 45-60 minuti da Giza.",
+        "quando": "Mattina.",
+        "tempo": "2-3 ore",
+        "url": "https://egymonuments.gov.eg/",
+        "consiglio": "Le tombe dipinte valgono più della piramide stessa e hanno pochissima gente."
+      },
+      {
+        "nome": "Dahshur",
+        "testo": "La piramide Rossa e la piramide Romboidale, di Snefru: i primi tentativi di una vera piramide liscia. Poca gente, e nella Piramide Rossa si scende.",
+        "come": "In auto con autista, vicino a Saqqara.",
+        "quando": "Mattina, con meno caldo.",
+        "tempo": "1-2 ore",
+        "url": "https://egymonuments.gov.eg/",
+        "consiglio": "Un'ottima aggiunta a Saqqara per chi ha un giorno intero con un autista."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Giza all'apertura",
+          "Pranzo",
+          "Pomeriggio a Saqqara",
+          "Rientro al Cairo"
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: Giza e Grand Egyptian Museum",
+          "Giorno 2: Saqqara e Dahshur con autista"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Giza",
+        "perChi": "chi vuole le piramidi dalla finestra",
+        "testo": "Hotel con vista, vicinissimi all'ingresso e al GEM. Zona rumorosa e poco curata."
+      },
+      {
+        "nome": "Il Cairo",
+        "perChi": "chi vuole altri quartieri a portata",
+        "testo": "Si fa la giornata in Uber o con autista: più scelta di locali, ma 30-60 minuti di strada."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Koshari",
+        "testo": "Piatto di riso, lenticchie, pasta e salsa piccante, per un pranzo economico."
+      },
+      {
+        "nome": "Piccione ripieno (hamam mahshi)",
+        "testo": "Un classico egiziano, farcito di riso o frikeh."
+      },
+      {
+        "nome": "Tè alla menta",
+        "testo": "Servito in ogni sosta, dolcissimo."
+      },
+      {
+        "nome": "Pane baladi",
+        "testo": "Pane piatto cotto sul posto nei forni dei villaggi vicini."
+      }
+    ],
+    attenzioni: [
+      "Chi dice che l'ingresso è chiuso o che bisogna passare da un altro lato sta cercando di portarvi al giro a pagamento in cammello: ignorare.",
+      "Cammello e cavallo: concordare prezzo totale, durata e cosa include, e farsi dire cosa succede per scendere.",
+      "L'interno della Grande Piramide ha camere spoglie: l'interesse è nel corridoio e nella Grande Galleria. Claustrofobici, valutare.",
+      "Non comprare papiri e souvenir all'ingresso dai venditori che si avvicinano."
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['egitto-mare-luxor-cairo', 'egitto-completo'],
     imageAlt: 'Le piramidi di Giza che si stagliano sul deserto in una giornata limpida',
@@ -131,6 +322,107 @@ export const destinazioniEgitto: Destinazione[] = [
       'Scattare foto nelle tombe senza il permesso fotografico se richiesto: i guardiani fanno pagare la «multa» in contanti',
       'Scegliere la mongolfiera solo sul prezzo più basso: conta la compagnia, e i voli si annullano col vento',
     ],
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Tempio di Karnak",
+        "testo": "Il più grande complesso religioso dell'antico Egitto, costruito in oltre 1.500 anni. La sala ipostila ha 134 colonne alte fino a 21 metri, coperte di geroglifici.",
+        "come": "Dalla città in taxi o calesse. Si cammina nel sito, lungo la via delle sfingi dal tempio di Luxor se si vuole il percorso completo.",
+        "quando": "All'apertura. D'estate è l'unico momento sopportabile.",
+        "tempo": "2-3 ore",
+        "url": "https://egymonuments.gov.eg/",
+        "consiglio": "Tornare la sera per lo spettacolo di suoni e luci, se in programma."
+      },
+      {
+        "nome": "Tempio di Luxor",
+        "testo": "Un tempio più piccolo, in mezzo alla città, con le statue di Ramses II e un obelisco. La sera, illuminato, è bellissimo.",
+        "come": "A piedi dal lungofiume sulla riva est.",
+        "quando": "Tramonto e sera.",
+        "tempo": "1 ora",
+        "url": "https://egymonuments.gov.eg/"
+      },
+      {
+        "nome": "Valle dei Re",
+        "testo": "Le tombe dei faraoni del Nuovo Regno scavate nella roccia, con pareti dipinte ancora colorate. Il biglietto base dà accesso a tre tombe, mentre Tutankhamon e altre sono a pagamento a parte.",
+        "come": "Sulla riva ovest, in taxi o con un tour. Si visita a piedi, tomba per tomba.",
+        "quando": "All'apertura. A mezzogiorno è molto caldo, anche già in primavera.",
+        "tempo": "2-3 ore",
+        "url": "https://egymonuments.gov.eg/",
+        "consiglio": "Scegliere tombe con decorazioni ben conservate, come Ramses IV o Merenptah, e non solo la più famosa."
+      },
+      {
+        "nome": "Tempio di Hatshepsut",
+        "testo": "Il tempio funerario della regina-faraone a Deir el-Bahari, a terrazze sotto la parete di roccia. L'architettura è molto moderna.",
+        "come": "Sulla riva ovest, accanto alla Valle dei Re, con navetta dal parcheggio.",
+        "quando": "Mattina presto.",
+        "tempo": "1 ora",
+        "url": "https://egymonuments.gov.eg/"
+      },
+      {
+        "nome": "Medinet Habu e Colossi di Memnone",
+        "testo": "Il tempio di Ramses III con rilievi ancora colorati e pochissimi visitatori, vicino ai due colossi di Amenhotep III che sorvegliano la piana.",
+        "come": "Sulla riva ovest, in taxi con le altre tappe.",
+        "quando": "Metà mattina o fine pomeriggio.",
+        "tempo": "1-1,5 ore",
+        "url": "https://egymonuments.gov.eg/",
+        "consiglio": "Medinet Habu è il tempio più sottovalutato di Luxor."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Alba: mongolfiera o Valle dei Re all'apertura",
+          "Hatshepsut",
+          "Medinet Habu e Colossi",
+          "Pomeriggio: Karnak e tempio di Luxor al tramonto"
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: riva ovest",
+          "Giorno 2: Karnak, tempio di Luxor, poi gita a Dendera o Abydos"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Riva est",
+        "perChi": "chi vuole ristoranti e vita serale",
+        "testo": "Vicino ai templi di Karnak e Luxor, con hotel di tutte le fasce e il lungofiume. Più turistica e con più venditori."
+      },
+      {
+        "nome": "Riva ovest",
+        "perChi": "chi vuole quiete",
+        "testo": "Campagne, case e piccole guesthouse vicino alle tombe e ai campi, con poco rumore."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Piccione ripieno",
+        "testo": "Il piatto più tipico di Luxor, nei ristoranti della riva ovest."
+      },
+      {
+        "nome": "Tagine di carne",
+        "testo": "Cucina egiziana di casa, con verdure e salsa di pomodoro."
+      },
+      {
+        "nome": "Ful e taameya",
+        "testo": "Colazione economica nei chioschi del mercato."
+      },
+      {
+        "nome": "Karkadè",
+        "testo": "Infuso freddo o caldo di ibisco, in ogni caffè."
+      }
+    ],
+    attenzioni: [
+      "In Valle dei Re le foto con permesso a parte: i guardiani fanno pagare «multe» in contanti a chi fotografa senza.",
+      "Mongolfiere: scegliere la compagnia e non il prezzo più basso, e mettere margine perché i voli si annullano col vento.",
+      "I calessi e i venditori sul lungofiume partono da cifre alte: contrattare e decidere prima.",
+      "D'estate le visite vanno fatte dall'alba alle 11: dopo, 40 gradi e più."
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['egitto-mare-luxor-cairo', 'egitto-completo'],
     imageAlt: 'Le colonne papiriformi della grande sala ipostila del tempio di Karnak, viste dal basso',
@@ -172,6 +464,88 @@ export const destinazioniEgitto: Destinazione[] = [
       'Fare Abu Simbel in giornata d\'estate senza mettere in conto la sveglia alle 3-4 e sette ore di strada andata e ritorno',
       'Salire in feluca senza concordare se il prezzo è a persona o a barca, e per quanto tempo',
     ],
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Abu Simbel",
+        "testo": "I due templi di Ramses II e Nefertari scavati nella roccia, con le statue colossali all'ingresso. Furono spostati negli anni Sessanta per salvarli dal lago Nasser. Il 22 febbraio e il 22 ottobre il sole entra fino al santuario.",
+        "come": "Da Assuan 280 km: strada di circa 3,5 ore in convoglio con partenza prima dell'alba, oppure volo di 45 minuti.",
+        "quando": "All'apertura, prima dei gruppi dei bus.",
+        "tempo": "1,5-2 ore sul posto",
+        "url": "https://egymonuments.gov.eg/",
+        "consiglio": "Chi può, dormire ad Abu Simbel per lo spettacolo di suoni e luci e per l'alba."
+      },
+      {
+        "nome": "Tempio di Philae",
+        "testo": "Il santuario di Iside su un'isola, spostato anch'esso dopo la diga. Si arriva in barca dal molo di Shellal ed è molto fotogenico.",
+        "come": "Taxi fino al molo, poi barca a motore, con il prezzo da concordare.",
+        "quando": "Mattina presto o tardo pomeriggio per la luce.",
+        "tempo": "1,5 ore",
+        "url": "https://egymonuments.gov.eg/"
+      },
+      {
+        "nome": "Villaggio nubiano di Gharb Soheil",
+        "testo": "Un villaggio di case colorate sull'isola vicino ad Assuan, con ristoranti e famiglie nubiane.",
+        "come": "In barca dal lungofiume.",
+        "quando": "Tardo pomeriggio.",
+        "tempo": "2 ore",
+        "consiglio": "Pranzare in una casa nubiana è il modo migliore per capire la zona."
+      },
+      {
+        "nome": "Feluca al tramonto",
+        "testo": "La barca a vela tradizionale intorno all'isola Elefantina e alle isole dei giardini, per un giro di un'ora o due.",
+        "come": "Dal lungofiume di Assuan.",
+        "quando": "Tramonto.",
+        "tempo": "1-2 ore",
+        "consiglio": "Concordare se il prezzo è a barca o a persona, e quanto dura."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: Philae al mattino, obelisco incompiuto, feluca al tramonto",
+          "Giorno 2: Abu Simbel all'alba con rientro a metà giornata"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Lungofiume di Assuan",
+        "perChi": "chi vuole vedere il Nilo",
+        "testo": "Hotel vicino al corso e alle feluche. Comodo per tutto."
+      },
+      {
+        "nome": "Abu Simbel",
+        "perChi": "chi vuole l'alba ai templi",
+        "testo": "Pochi hotel e un solo villaggio: utile per evitare la sveglia alle 3."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Cucina nubiana",
+        "testo": "Piatti di pollo, pesce e riso speziati, nelle case di Gharb Soheil."
+      },
+      {
+        "nome": "Karkadè",
+        "testo": "Infuso di ibisco, specialità di Assuan."
+      },
+      {
+        "nome": "Ful e taameya",
+        "testo": "Colazione economica ai chioschi."
+      },
+      {
+        "nome": "Pesce del Nilo",
+        "testo": "Servito alla griglia sul lungofiume."
+      }
+    ],
+    attenzioni: [
+      "Abu Simbel in giornata d'estate significa sveglia alle 3-4 e circa sette ore di strada: metterlo in conto.",
+      "Prezzo della feluca e della barca per Philae: concordare prima, a barca o a persona.",
+      "D'estate Assuan è il posto più caldo del Paese: visite all'alba.",
+      "Venditori molto insistenti sul lungofiume: un no deciso basta."
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['egitto-completo'],
     imageAlt: 'I templi di Abu Simbel con le statue colossali di Ramses II scolpite nella roccia',
@@ -213,6 +587,79 @@ export const destinazioniEgitto: Destinazione[] = [
       'Andare nel deserto con chi non ha i permessi: le zone verso il confine libico sono controllate dall\'esercito',
       'Indossare abiti succinti in paese: Siwa è una comunità conservatrice, e anche al lago o alle sorgenti si fa il bagno coperti',
     ],
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Fortezza di Shali",
+        "testo": "La vecchia cittadella in kershef, un impasto di fango e sale, ora in gran parte in rovina dopo le piogge del 1926. Dalla cima si vede tutta l'oasi.",
+        "come": "A piedi dal centro di Siwa.",
+        "quando": "Tramonto.",
+        "tempo": "1 ora"
+      },
+      {
+        "nome": "Tempio dell'Oracolo di Amon",
+        "testo": "Le rovine sul colle di Aghurmi dove Alessandro Magno venne a consultare l'oracolo nel 331 a.C.",
+        "come": "In bici o taxi dal centro.",
+        "quando": "Mattina o tardo pomeriggio.",
+        "tempo": "1 ora",
+        "url": "https://egymonuments.gov.eg/"
+      },
+      {
+        "nome": "Deserto, laghi salati e sorgente di Cleopatra",
+        "testo": "Gita in fuoristrada nel Grande Mare di Sabbia con sandboarding, tramonto sulle dune e bagno nei laghi salati e nelle sorgenti, dove si galleggia.",
+        "come": "Solo con un operatore locale, che ha il permesso per il deserto.",
+        "quando": "Pomeriggio, con rientro al tramonto.",
+        "tempo": "Mezza giornata",
+        "consiglio": "Chiedere se bagno e cena sono inclusi, e portare una giacca per la sera."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorno 1: arrivo, fortezza di Shali, tramonto",
+          "Giorno 2: Aghurmi, sorgente di Cleopatra, deserto e notte in tenda",
+          "Giorno 3: bicicletta nell'oasi, rientro"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Centro di Siwa",
+        "perChi": "chi vuole stare vicino a tutto",
+        "testo": "Hotel e guesthouse vicino al mercato e alla fortezza. Semplici."
+      },
+      {
+        "nome": "Eco-lodge nell'oasi",
+        "perChi": "chi vuole natura e silenzio",
+        "testo": "Case in fango tra le palme, più care e poco comode da raggiungere a piedi."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Datteri e olive di Siwa",
+        "testo": "Il prodotto dell'oasi, venduto sfuso nel mercato."
+      },
+      {
+        "nome": "Olio d'oliva",
+        "testo": "Pressato nell'oasi, usato in cucina e per la pelle."
+      },
+      {
+        "nome": "Tè al cammello e menta",
+        "testo": "Servito ai chioschi del paese."
+      },
+      {
+        "nome": "Pane di Siwa",
+        "testo": "Piatto e rotondo, cotto nei forni a legna."
+      }
+    ],
+    attenzioni: [
+      "Il deserto verso la Libia è controllato dall'esercito: andare solo con operatori che hanno i permessi.",
+      "Siwa è una comunità conservatrice: coprire spalle e ginocchia, e bagnarsi vestiti alle sorgenti.",
+      "Tenere il passaporto a portata di mano ai posti di blocco.",
+      "Le notti d'inverno nel deserto scendono vicino a 0 °C."
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['egitto-completo'],
     imageAlt: 'Palme da dattero riflesse in una sorgente dell\'oasi di Siwa',
@@ -255,6 +702,83 @@ export const destinazioniEgitto: Destinazione[] = [
       'Toccare o camminare sul corallo e comprare conchiglie o coralli: è vietato e l\'export si sequestra in aeroporto',
       'Prenotare un liveaboard nel sud senza il brevetto e il numero di immersioni richiesti (di solito Advanced e almeno 50 immersioni)',
     ],
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Hurghada e le isole Giftun",
+        "testo": "Il polo turistico più grande, con barche per snorkeling alle isole Giftun e alla baia di Orange Bay, e escursioni in giornata per il relitto del Thistlegorm.",
+        "come": "Escursioni da prenotare con un operatore locale dal proprio hotel.",
+        "quando": "Tutto l'anno, con acqua più fredda da dicembre a marzo.",
+        "tempo": "Giornata"
+      },
+      {
+        "nome": "Marsa Alam, Abu Dabbab e Dolphin House",
+        "testo": "Più a sud e più tranquilla: la baia di Abu Dabbab con tartarughe e, con fortuna, il dugongo, e il reef di Dolphin House.",
+        "come": "In auto da Luxor in circa 4 ore, o con voli diretti.",
+        "quando": "Mattina presto, quando i delfini riposano.",
+        "tempo": "Giornata",
+        "consiglio": "Per snorkeling di qualità la scelta migliore."
+      },
+      {
+        "nome": "Sharm el-Sheikh e Ras Mohammed",
+        "testo": "Immersioni e snorkeling nel parco nazionale di Ras Mohammed e allo stretto di Tiran, con alcuni dei reef più belli del Mar Rosso.",
+        "come": "Voli diretti da Italia e dal Cairo.",
+        "quando": "Tutto l'anno.",
+        "tempo": "Giornata"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorno 1: snorkeling dalla riva del resort",
+          "Giorno 2: barca per le isole o Ras Mohammed",
+          "Giorno 3: corso o immersioni"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Hurghada",
+        "perChi": "chi vuole molta scelta e prezzi bassi",
+        "testo": "Resort ovunque e vita serale, con costa molto costruita."
+      },
+      {
+        "nome": "Marsa Alam",
+        "perChi": "chi vuole reef e tranquillità",
+        "testo": "Resort sul reef, lontani dalle città: ideale per lo snorkeling."
+      },
+      {
+        "nome": "Sharm el-Sheikh",
+        "perChi": "chi vuole immersioni e resort grandi",
+        "testo": "Molti resort e centri diving, parchi marini vicini."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Pesce alla griglia",
+        "testo": "Scelto al mercato e cotto nei ristoranti sul mare."
+      },
+      {
+        "nome": "Sayadeya",
+        "testo": "Pesce con riso speziato e cipolle, di cucina costiera."
+      },
+      {
+        "nome": "Shawarma",
+        "testo": "Per un pasto veloce lontano dai resort."
+      },
+      {
+        "nome": "Karkadè",
+        "testo": "Bevanda fredda di ibisco."
+      }
+    ],
+    attenzioni: [
+      "Non toccare né calpestare il corallo e non comprare conchiglie o coralli: l'export si sequestra in aeroporto.",
+      "Dal Sinai a Luxor serve quasi sempre un volo via Cairo: non fare il conto sulla strada.",
+      "I liveaboard del sud richiedono brevetto Advanced e un certo numero di immersioni.",
+      "Da dicembre a marzo l'acqua è sui 22 °C e il vento forte: serve una muta da 5 mm."
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['egitto-mare-luxor-cairo', 'egitto-completo'],
     imageAlt: 'Coralli a tavola e acqua turchese su una barriera corallina del Mar Rosso',

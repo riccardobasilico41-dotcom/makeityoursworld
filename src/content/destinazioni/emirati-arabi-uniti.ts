@@ -145,6 +145,103 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     ],
     miaEsperienza:
       'Dubai è la città più facile del mondo da liquidare, e dopo due giorni questo giudizio mi è sembrato pigro. Lo skyline e i centri commerciali sono come te li immagini. Il Burj Khalifa impressiona per i numeri e un po\' meno dal vivo: una fila, un ascensore, una vetrata. Ma a venti minuti di metropolitana c\'è un\'altra città che nessuno cerca. Il creek è ancora un porto commerciale vero, con le barche di legno cariche fino all\'orlo di elettrodomestici diretti in Iran e in India; l\'abra che lo attraversa costa un dirham, ti siedi in mezzo a gente che va al lavoro e sbarchi dall\'altra parte nel souq delle spezie. Al Fahidi, con le torri del vento e i vicoli di gesso, fa vedere com\'era questo posto quando le perle erano l\'unica economia. E poi c\'è il dato che spiega la città meglio di qualsiasi grattacielo: gli emiratini sono poco più del dieci per cento di chi ci vive, e la sera nei ristoranti pakistani di Karama si mangia benissimo con otto euro, in mezzo a operai, autisti e famiglie. Quella, più del Burj, è Dubai.',
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Dubai Creek, abra e souq di Deira",
+        "testo": "Il vecchio porto commerciale, ancora attivo, con barche di legno cariche di merci per l'Iran e l'India. L'abra, il traghetto di legno, attraversa il creek per un dirham e sbarca nel souq delle spezie e in quello dell'oro.",
+        "come": "Metro fino ad Al Ras o Al Ghubaiba, poi a piedi alle fermate degli abra.",
+        "quando": "Mattina o tardo pomeriggio, meno caldo.",
+        "tempo": "2-3 ore",
+        "costo": "Abra 1 dirham",
+        "consiglio": "Sedersi sull'abra in mezzo a chi va al lavoro: è il pezzo di Dubai che nessuno cerca."
+      },
+      {
+        "nome": "Al Fahidi",
+        "testo": "Il quartiere storico con le torri del vento, le case di corallo e gesso e i vicoli stretti, dove si capisce com'era il posto quando l'economia erano le perle. Ci sono musei e caffè.",
+        "come": "Metro fino a Al Fahidi, a 20 minuti dal centro nuovo.",
+        "quando": "Mattina, prima del caldo.",
+        "tempo": "1-2 ore",
+        "consiglio": "Si abbina bene al giro del creek nella stessa mattina."
+      },
+      {
+        "nome": "Burj Khalifa",
+        "testo": "Il grattacielo più alto del mondo, 828 metri. Le terrazze ai piani 124-125 e 148 danno la vista sulla città e sul deserto.",
+        "come": "Metro fino a Burj Khalifa/Dubai Mall. Biglietto da comprare online.",
+        "quando": "Tramonto, con le fasce da prenotare con giorni di anticipo.",
+        "tempo": "1-1,5 ore",
+        "url": "https://www.burjkhalifa.ae/",
+        "consiglio": "Comprare online: sul posto costa di più e le fasce al tramonto finiscono."
+      },
+      {
+        "nome": "Safari nel deserto",
+        "testo": "Una serata in 4x4 sulle dune, con tramonto, cena in campo tendato e notte sotto le stelle. È l'esperienza «deserto» più venduta intorno a Dubai.",
+        "come": "Operatori con prelievo in hotel. Dune modeste a mezz'ora dalla città.",
+        "quando": "Pomeriggio e sera, da ottobre ad aprile.",
+        "tempo": "5-6 ore",
+        "consiglio": "Per il deserto vero servono Liwa e il Rub' al-Khali."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Mattina: creek, abra e souq di Deira",
+          "Pranzo a Karama o Bur Dubai",
+          "Pomeriggio: Al Fahidi",
+          "Tramonto: Burj Khalifa, poi fontana di Dubai Mall"
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: come sopra",
+          "Giorno 2: safari nel deserto o giornata ad Abu Dhabi"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Deira / Bur Dubai",
+        "perChi": "chi vuole la Dubai vecchia e spendere meno",
+        "testo": "Hotel di fascia media vicino a creek e souq. Rumorosi, ma con ristoranti economici."
+      },
+      {
+        "nome": "Downtown",
+        "perChi": "chi vuole stare sotto il Burj Khalifa",
+        "testo": "Hotel di lusso e centri commerciali. Caro e anonimo."
+      },
+      {
+        "nome": "Marina / JBR",
+        "perChi": "chi vuole spiaggia e grattacieli",
+        "testo": "Moderno e turistico, lontano dalla Dubai storica."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Biryani e curry pakistani",
+        "testo": "A Karama, Bur Dubai e Deira si cena con meno di dieci euro in locali pieni di residenti."
+      },
+      {
+        "nome": "Machboos",
+        "testo": "Riso speziato con carne o pesce, cucina emiratina."
+      },
+      {
+        "nome": "Shawarma",
+        "testo": "Dai banchi di strada, tutto il giorno."
+      },
+      {
+        "nome": "Pane afgano",
+        "testo": "Cotto nel tandoor, caldo."
+      }
+    ],
+    attenzioni: [
+      "Comprare il biglietto del Burj Khalifa sul posto: costa di più e le fasce al tramonto finiscono con giorni di anticipo.",
+      "Fermarsi ai centri commerciali e alla Marina: la parte più interessante sono creek, souq e Al Fahidi, a venti minuti di metro.",
+      "Stopover in estate: da giugno a settembre si superano i 45 gradi e si vive al chiuso.",
+      "Regole su abbigliamento, alcol e comportamento in pubblico: controllare i canali ufficiali."
+    ],
+    // GUIDA-END
     esperienzeSlugs: ['creek-souq-dubai', 'deserto-emirati'],
     tripSlugs: ['stopover-golfo'],
     imageAlt: 'Lo skyline di Dubai con il Burj Khalifa al tramonto, visto da lontano oltre l\'acqua',
@@ -195,6 +292,89 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     ],
     miaEsperienza:
       'Abu Dhabi è la sorpresa degli Emirati, soprattutto se ci si arriva dopo Dubai: più bassa, più lenta, con spazio tra un edificio e l\'altro. Alla Grande Moschea i primati (il tappeto annodato a mano più grande del mondo, i lampadari di cristalli Swarovski, ottantadue cupole) fanno temere l\'eccesso, e invece funziona. Le colonne bianche intarsiate con motivi floreali in madreperla hanno una delicatezza che i numeri non fanno immaginare. Il momento giusto è il tardo pomeriggio, quando il marmo passa dal bianco al rosa e poi, con l\'illuminazione notturna, al blu. L\'altro pezzo forte è il Louvre, dove l\'edificio vale quanto la collezione: sotto la cupola forata da quasi ottomila stelle metalliche sovrapposte cade una luce che si sposta e si scompone tutto il giorno, quella che Nouvel chiama pioggia di luce. Ci si siede sotto e si resta lì. Due giorni bastano, e con lo stopover Etihad l\'hotel non si paga.',
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Grande Moschea Sheikh Zayed",
+        "testo": "Ottantadue cupole, colonne bianche intarsiate di madreperla, il tappeto annodato a mano più grande del mondo e lampadari Swarovski. È aperta ai non musulmani.",
+        "come": "Taxi o Uber. Ingresso gratuito, con regole di abbigliamento: braccia e gambe coperte, capo coperto per le donne (abaya in prestito).",
+        "quando": "Tardo pomeriggio, quando il marmo passa dal bianco al rosa e poi al blu. A mezzogiorno il bianco abbaglia.",
+        "tempo": "1-1,5 ore",
+        "costo": "Ingresso gratuito",
+        "url": "https://www.szgmc.gov.ae/",
+        "consiglio": "Gli orari per i non musulmani variano, soprattutto il venerdì: controllare sul sito."
+      },
+      {
+        "nome": "Louvre Abu Dhabi",
+        "testo": "Il museo di Jean Nouvel sull'isola di Saadiyat, sotto una cupola forata da 7.850 stelle metalliche sovrapposte che fa piovere luce. L'edificio vale quanto la collezione.",
+        "come": "Taxi o Uber da Abu Dhabi.",
+        "quando": "Sera, quando la luce sotto la cupola cambia.",
+        "tempo": "2-3 ore",
+        "url": "https://www.louvreabudhabi.ae/",
+        "consiglio": "Sedersi sotto la cupola e restarci un po'."
+      },
+      {
+        "nome": "Qasr Al Watan",
+        "testo": "Il palazzo presidenziale aperto al pubblico, con sale decorate, la sala del Consiglio e una mostra sul potere negli Emirati.",
+        "come": "Taxi o Uber.",
+        "quando": "Mattina.",
+        "tempo": "1,5-2 ore",
+        "url": "https://www.qasralwatan.ae/"
+      },
+      {
+        "nome": "Mercato del pesce di Al Mina",
+        "testo": "Il mercato del porto: si sceglie il pesce al banco e lo si porta ai ristoranti accanto, che lo cucinano per pochi dirham.",
+        "come": "Taxi dal centro.",
+        "quando": "Mattina presto o tardo pomeriggio.",
+        "tempo": "1 ora"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: Grande Moschea nel tardo pomeriggio, cena sulla Corniche",
+          "Giorno 2: mattina Qasr Al Watan, sera Louvre Abu Dhabi"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Corniche / centro",
+        "perChi": "chi vuole stare in città",
+        "testo": "Hotel con vista sul mare e ristoranti vicini."
+      },
+      {
+        "nome": "Saadiyat",
+        "perChi": "chi vuole musei e spiaggia",
+        "testo": "Resort e il Louvre, più isolato e caro."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Cucina indiana e pakistana",
+        "testo": "È la più buona e più economica, nei quartieri intorno al centro."
+      },
+      {
+        "nome": "Pesce di Al Mina",
+        "testo": "Si sceglie al banco e si cucina accanto."
+      },
+      {
+        "nome": "Machboos",
+        "testo": "Riso speziato con carne o pesce, cucina emiratina."
+      },
+      {
+        "nome": "Luqaimat",
+        "testo": "Gnocchetti dolci fritti con sciroppo di datteri."
+      }
+    ],
+    attenzioni: [
+      "Alla Grande Moschea vestiti in modo sbagliato: braccia e gambe coperte per tutti, capo coperto per le donne; le abaya in prestito hanno code lunghe.",
+      "Visitare la moschea a mezzogiorno: il marmo abbaglia e si cuoce.",
+      "Prenotare il Louvre in anticipo nei fine settimana.",
+      "Autunno: il Gran Premio di Formula 1 riempie la città."
+    ],
+    // GUIDA-END
     esperienzeSlugs: ['moschea-sheikh-zayed', 'louvre-abu-dhabi'],
     tripSlugs: ['stopover-golfo'],
     imageAlt: 'I grattacieli del lungomare di Abu Dhabi visti dal mare, con una barca a vela',
@@ -243,6 +423,84 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     ],
     miaEsperienza:
       'Non ci sono ancora stato, quindi questa scheda si ferma ai fatti e non racconta una giornata che non c\'è stata. È in lista per un motivo preciso. Quello che a Dubai e ad Abu Dhabi vendono come "safari nel deserto" si fa su dune modeste a mezz\'ora dalla città, con i quad, la cena in campo tendato e il rientro in serata. Il Rub\' al-Khali è un\'altra cosa, il più grande deserto di sabbia continuo del mondo, con dune oltre i duecento metri a Moreeb, e sta a due ore da Abu Dhabi: basta un\'estensione di due giorni. L\'altra metà della deviazione è Al Ain, che è l\'opposto: un\'oasi patrimonio UNESCO con centoquarantasettemila palme irrigate da canali scavati duemila anni fa e ancora in funzione, dove si cammina all\'ombra e si sente scorrere l\'acqua. Insieme raccontano com\'era questo paese prima del petrolio, ed è quello che manca del tutto a uno stopover fatto solo di città.',
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Dune di Moreeb e Liwa",
+        "testo": "Il bordo del Rub' al-Khali, il più grande deserto di sabbia continuo del mondo, con dune che superano i duecento metri a Moreeb. Qui non ci sono safari serali: serve una notte nel deserto.",
+        "come": "In auto o con tour da Abu Dhabi, circa due ore; fuori pista serve un 4x4 con esperienza.",
+        "quando": "Alba e tramonto.",
+        "tempo": "1-2 giorni",
+        "consiglio": "Non guidare sulla sabbia senza esperienza e senza un secondo mezzo."
+      },
+      {
+        "nome": "Oasi di Al Ain",
+        "testo": "Patrimonio UNESCO, con 147.000 palme irrigate da canali falaj scavati duemila anni fa e ancora in funzione. Si cammina all'ombra sentendo scorrere l'acqua.",
+        "come": "Al Ain è a circa 1,5 ore da Abu Dhabi. L'oasi si gira a piedi.",
+        "quando": "Mattina.",
+        "tempo": "2 ore"
+      },
+      {
+        "nome": "Forte Al Jahili e siti di Hili",
+        "testo": "Il forte di mattoni di fango e le tombe dell'età del bronzo di Hili, patrimonio UNESCO.",
+        "come": "In auto da Al Ain.",
+        "quando": "Mattina.",
+        "tempo": "2 ore"
+      },
+      {
+        "nome": "Jebel Hafeet",
+        "testo": "Una montagna con una strada a tornanti fino al belvedere in cima, a oltre mille metri.",
+        "come": "In auto da Al Ain.",
+        "quando": "Tramonto.",
+        "tempo": "1-2 ore"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: Abu Dhabi verso Liwa, notte nel deserto",
+          "Giorno 2: alba sulle dune di Moreeb, poi Al Ain, oasi e forte"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Campi e resort a Liwa",
+        "perChi": "chi vuole il deserto vero",
+        "testo": "Pochi resort, anche di lusso, in mezzo alle dune."
+      },
+      {
+        "nome": "Al Ain",
+        "perChi": "chi vuole l'oasi",
+        "testo": "Hotel di città e ristoranti indiani e pakistani, economici."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Datteri di Al Ain",
+        "testo": "Il prodotto dell'oasi, nei mercati specializzati."
+      },
+      {
+        "nome": "Cucina indiana e pakistana",
+        "testo": "Nei ristoranti di quartiere, buoni ed economici."
+      },
+      {
+        "nome": "Machboos",
+        "testo": "Cucina emiratina."
+      },
+      {
+        "nome": "Caffè arabo",
+        "testo": "Con cardamomo."
+      }
+    ],
+    attenzioni: [
+      "Scambiare un safari serale per il deserto: quelli si fanno su dune piccole a mezz'ora da Dubai.",
+      "Guidare sulla sabbia senza esperienza e senza un secondo mezzo.",
+      "Venire in giornata e saltare la notte, che è il motivo per cui si va a Liwa.",
+      "D'estate nell'interno si superano spesso i 50 gradi."
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: [],
     imageAlt: 'La pianura desertica attorno ad Al Ain vista dalle pendici del Jebel Hafeet, nella foschia',

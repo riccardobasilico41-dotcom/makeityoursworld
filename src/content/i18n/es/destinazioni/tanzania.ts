@@ -40,6 +40,100 @@ export const destinazioniTanzania: Destinazione[] = [
     ],
     miaEsperienza:
       'Hice el safari con Suricata Safaris: son top, tienen alojamiento para todos los gustos y también las experiencias en tienda, que recomiendo. Me gusta viajar incómodo y en contacto con la naturaleza, aunque de vez en cuando algún 5 estrellas viene bien.',
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Valle del Seronera",
+        "testo": "El centro del parque, la zona más fácil para los grandes felinos: leones, leopardos en las acacias y guepardos en las llanuras. Los kopje, los afloramientos de granito, son el lugar donde descansan los leones.",
+        "come": "Safari en todoterreno con guía, desde el lodge o el campamento. No se baja del vehículo fuera de los puntos permitidos.",
+        "quando": "Amanecer y última hora de la tarde, cuando los animales están activos.",
+        "tempo": "1 día o más",
+        "url": "https://www.tanzaniaparks.go.tz/",
+        "consiglio": "Hice el safari con Suricata Safaris, que además tiene experiencias en tienda dentro del parque: las recomiendo."
+      },
+      {
+        "nome": "Llanuras del sur y Ndutu",
+        "testo": "La zona de partos de los ñus, de diciembre a marzo, con miles de crías y los depredadores que las siguen.",
+        "come": "Desde Seronera o Ngorongoro en 4x4, con guía.",
+        "quando": "De diciembre a marzo.",
+        "tempo": "1-2 días",
+        "url": "https://www.tanzaniaparks.go.tz/"
+      },
+      {
+        "nome": "Río Mara y migración",
+        "testo": "En el norte del parque, de julio a octubre, los cruces del río Mara por ñus y cebras, con cocodrilos esperando.",
+        "come": "Desde Seronera en 4x4, muchas horas de camino; muchos campamentos son fijos en el norte.",
+        "quando": "De julio a octubre.",
+        "tempo": "1-2 días",
+        "url": "https://www.tanzaniaparks.go.tz/",
+        "consiglio": "Preguntar al operador dónde está la migración en el mes del viaje: cambia cada año."
+      },
+      {
+        "nome": "Globo aerostático al amanecer",
+        "testo": "Un vuelo sobre la llanura al salir el sol, seguido de un desayuno en la sabana.",
+        "come": "Se reserva con un operador, saliendo del campamento antes del amanecer.",
+        "quando": "Amanecer.",
+        "tempo": "3-4 horas"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: safari en Seronera, atardecer con los leones",
+          "Día 2: globo al amanecer o safari, salida"
+        ]
+      },
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Días 1-2 como arriba",
+          "Día 3: norte o sur según el mes, siguiendo la migración"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Campamentos de tiendas",
+        "perChi": "quien quiere el safari más auténtico",
+        "testo": "Tiendas con camas y baño, en medio de la sabana. De noche se oyen los animales."
+      },
+      {
+        "nome": "Lodges",
+        "perChi": "quien quiere más comodidad",
+        "testo": "Habitaciones de verdad y piscina, a menudo con vistas panorámicas."
+      },
+      {
+        "nome": "Camping público",
+        "perChi": "quien quiere gastar menos",
+        "testo": "El más barato, con servicios básicos."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Ugali",
+        "testo": "Polenta de maíz, acompaña carne y guisos."
+      },
+      {
+        "nome": "Nyama choma",
+        "testo": "Carne a la brasa, de cabra o ternera."
+      },
+      {
+        "nome": "Pilau",
+        "testo": "Arroz especiado con carne."
+      },
+      {
+        "nome": "Chai y café tanzano",
+        "testo": "Servido en todas partes, incluso en el bush."
+      }
+    ],
+    attenzioni: [
+      "Ir a la zona equivocada para el mes: la migración se desplaza y en verano en el sur no hay ñus.",
+      "Planear un solo día: entre ida y vuelta se pasa más tiempo en el coche que mirando animales.",
+      "Olvidar capas de abrigo para los safaris del amanecer, fríos en el 4x4 abierto.",
+      "Elegir un operador sin licencia: comprobar registro y opiniones."
+    ],
+    // GUIDA-END
     esperienzeSlugs: ['safari-in-tenda', 'grande-migrazione'],
     tripSlugs: [],
     imageAlt: 'Una acacia solitaria en la sabana del Serengeti al atardecer, con colinas en el horizonte',
@@ -79,6 +173,82 @@ export const destinazioniTanzania: Destinazione[] = [
       'Subestimar el frío en el borde, por la noche y a primera hora',
       'Calcular el safari sin la tasa del cráter, que se paga por vehículo y por eso pesa más en los grupos pequeños',
     ],
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Fondo del cráter",
+        "testo": "Una caldera de unos 260 km² con un lago salado y pantanos. Viven aquí leones, elefantes, hipopótamos y rinocerontes negros, más fáciles de ver que en otras partes del norte.",
+        "come": "Se baja por una carretera empinada en todoterreno con guía. Cada descenso tiene un permiso por vehículo.",
+        "quando": "Amanecer: los primeros vehículos entran temprano y encuentran el cráter más vacío.",
+        "tempo": "Medio día",
+        "costo": "70,80 $ por persona cada 24 horas para no residentes, más 295 $ por vehículo por el descenso al cráter (tarifas NCAA ya recogidas en el sitio)",
+        "url": "https://www.ncaa.go.tz/",
+        "consiglio": "La tasa del cráter es por vehículo: pesa más en los grupos pequeños."
+      },
+      {
+        "nome": "Garganta de Olduvai",
+        "testo": "El yacimiento paleontológico donde se hallaron restos de homínidos antiquísimos. Hay un museo con explicaciones.",
+        "come": "En la carretera entre el cráter y el Serengeti.",
+        "quando": "Mañana.",
+        "tempo": "1 hora",
+        "url": "https://www.ncaa.go.tz/"
+      },
+      {
+        "nome": "Boma masái",
+        "testo": "Una visita a una aldea masái, con danzas, casas de barro y explicaciones sobre la vida de los pastores.",
+        "come": "Con el operador, en el camino alrededor del cráter.",
+        "quando": "Mañana.",
+        "tempo": "1 hora",
+        "consiglio": "Preguntar de antemano qué incluye y cuánto va a las aldeas."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Amanecer: descenso al cráter",
+          "Almuerzo en el fondo, en el área de picnic",
+          "Tarde: subida, visita al boma o a Olduvai"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Borde del cráter",
+        "perChi": "quien quiere vista y amanecer",
+        "testo": "Lodges y campamentos en el borde, con vistas a la caldera. Frío por la noche."
+      },
+      {
+        "nome": "Karatu",
+        "perChi": "quien quiere gastar menos",
+        "testo": "Pueblo a una hora del cráter, con lodges baratos."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Ugali y guisos",
+        "testo": "Platos de maíz y carne, en los lodges."
+      },
+      {
+        "nome": "Pilau",
+        "testo": "Arroz especiado."
+      },
+      {
+        "nome": "Mtori",
+        "testo": "Sopa de plátano verde y carne, típica del norte."
+      },
+      {
+        "nome": "Chai",
+        "testo": "Té especiado con leche."
+      }
+    ],
+    attenzioni: [
+      "Bajar a media mañana: los primeros vehículos entran al amanecer y encuentran el cráter más vacío.",
+      "Subestimar el frío en el borde, por la noche y a primera hora.",
+      "Hacer la cuenta del safari sin la tasa del cráter, que se paga por vehículo.",
+      "Visitas a aldeas masáis: elegir operadores que compartan los ingresos con ellas."
+    ],
+    // GUIDA-END
     esperienzeSlugs: ['cratere-ngorongoro'],
     tripSlugs: [],
     imageAlt: 'El fondo del cráter del Ngorongoro visto desde el borde, con el lago y las paredes de la caldera',
@@ -115,6 +285,78 @@ export const destinazioniTanzania: Destinazione[] = [
     erroriDaEvitare: [
       'Saltarse Tarangire para correr al Serengeti: en la estación seca vale el viaje por sí solo',
     ],
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Parque nacional de Tarangire",
+        "testo": "Baobabs, elefantes en grandes manadas y animales que se concentran alrededor del río en la estación seca.",
+        "come": "Safari en todoterreno con guía.",
+        "quando": "De junio a octubre, cuando los animales se reúnen alrededor del agua.",
+        "tempo": "1 día",
+        "url": "https://www.tanzaniaparks.go.tz/",
+        "consiglio": "En la estación seca vale por sí solo el viaje: no saltárselo por correr hacia el Serengeti."
+      },
+      {
+        "nome": "Lago Manyara",
+        "testo": "Un bosque con monos, la orilla con flamencos cuando el nivel del agua lo permite y el escarpe del Rift Valley encima.",
+        "come": "Safari de medio día.",
+        "quando": "Mañana.",
+        "tempo": "Medio día",
+        "url": "https://www.tanzaniaparks.go.tz/"
+      },
+      {
+        "nome": "Mto wa Mbu",
+        "testo": "El pueblo a la entrada de Manyara, con el mercado y las plantaciones de plátanos.",
+        "come": "A pie o en bici con un guía local.",
+        "quando": "Mañana.",
+        "tempo": "1-2 horas"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: Tarangire",
+          "Día 2: Manyara y Mto wa Mbu"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Lodges en los parques",
+        "perChi": "quien quiere el safari de verdad",
+        "testo": "Lodges y campamentos en el borde del parque."
+      },
+      {
+        "nome": "Karatu / Mto wa Mbu",
+        "perChi": "quien quiere gastar menos",
+        "testo": "Pueblos con lodges y campings."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Ugali",
+        "testo": "Con guisos de carne."
+      },
+      {
+        "nome": "Plátanos fritos",
+        "testo": "Del pueblo de Mto wa Mbu."
+      },
+      {
+        "nome": "Pilau",
+        "testo": "Arroz especiado."
+      },
+      {
+        "nome": "Chai",
+        "testo": "Servido en todas partes."
+      }
+    ],
+    attenzioni: [
+      "Saltarse Tarangire para correr hacia el Serengeti.",
+      "Esperar flamencos todo el año: el nivel del agua cambia.",
+      "Paseo en bici en Mto wa Mbu: elegir guías locales."
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: [],
     imageAlt: 'Una manada de elefantes cruza el río Tarangire, con baobabs en la orilla',
@@ -155,6 +397,90 @@ export const destinazioniTanzania: Destinazione[] = [
       'Pasear por Stone Town en bañador o camiseta de tirantes: fuera de las playas se cubren hombros y rodillas',
       'Llegar sin el seguro de Zanzíbar ya comprado online y hacer cola en el aeropuerto',
     ],
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Stone Town",
+        "testo": "La ciudad vieja de callejones, puertas de madera tallada y paseo marítimo, patrimonio de la UNESCO, entre culturas suajili, árabe e india.",
+        "come": "A pie por los callejones, con un guía el primer día.",
+        "quando": "Mañana y noche.",
+        "tempo": "Medio día",
+        "consiglio": "Cenar en el mercado nocturno de los Forodhani Gardens."
+      },
+      {
+        "nome": "Nungwi y Kendwa",
+        "testo": "Las playas del norte, donde la marea se nota menos.",
+        "come": "Taxi o dala dala desde Stone Town, una hora.",
+        "quando": "Todo el año.",
+        "tempo": "Un día entero"
+      },
+      {
+        "nome": "Paje y Jambiani",
+        "testo": "La costa este, con la marea baja que deja al descubierto la laguna durante cientos de metros. Kitesurf en Paje.",
+        "come": "En coche desde Stone Town, una hora.",
+        "quando": "Con marea alta para el baño.",
+        "tempo": "Un día entero"
+      },
+      {
+        "nome": "Bosque de Jozani y atolón de Mnemba",
+        "testo": "El bosque con los monos colobo rojo de Zanzíbar, y el atolón de Mnemba, famoso por el snorkel.",
+        "come": "Jozani en coche; Mnemba en barco desde el noreste.",
+        "quando": "Mañana.",
+        "tempo": "Medio día cada uno"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "3 días",
+        "tappe": [
+          "Día 1: Stone Town",
+          "Día 2: bosque de Jozani y costa este",
+          "Día 3: snorkel en Mnemba o playa en el norte"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Stone Town",
+        "perChi": "quien quiere cultura",
+        "testo": "Hoteles históricos en la ciudad vieja, sin playa."
+      },
+      {
+        "nome": "Norte (Nungwi, Kendwa)",
+        "perChi": "quien quiere bañarse siempre",
+        "testo": "Poca marea, locales y vida nocturna."
+      },
+      {
+        "nome": "Este (Paje, Jambiani)",
+        "perChi": "quien quiere kitesurf y ambiente",
+        "testo": "Playas amplias con marea fuerte, más tranquilo."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Pescado a la parrilla",
+        "testo": "En restaurantes junto al mar."
+      },
+      {
+        "nome": "Urojo",
+        "testo": "Sopa especiada de Zanzíbar, en el mercado."
+      },
+      {
+        "nome": "Pilau",
+        "testo": "Arroz especiado."
+      },
+      {
+        "nome": "Zumo de caña",
+        "testo": "Recién exprimido en los quioscos."
+      }
+    ],
+    attenzioni: [
+      "Elegir la costa este sin saber de la marea: con la marea baja el mar se retira cientos de metros.",
+      "Pasear por Stone Town en bañador o camiseta de tirantes: fuera de las playas se cubren hombros y rodillas.",
+      "Llegar sin el seguro de Zanzíbar ya comprado en línea (44 $): se hace cola en el aeropuerto.",
+      "Vendedores de excursiones en la playa: comparar precios con el hotel."
+    ],
+    // GUIDA-END
     esperienzeSlugs: ['stone-town'],
     tripSlugs: [],
     imageAlt: 'La playa blanca de Nungwi, en el norte de Zanzíbar, con el mar turquesa y las casas en la orilla',
@@ -188,6 +514,78 @@ export const destinazioniTanzania: Destinazione[] = [
     erroriDaEvitare: [
       'Reservar el primer día de safari el mismo día del vuelo intercontinental: mejor una noche en Arusha',
     ],
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Kilimanjaro",
+        "testo": "La montaña más alta de África, 5.895 metros, que se sube en 5-9 días por rutas como Machame, Lemosho, Marangu y Rongai. En días claros se ve incluso desde la carretera.",
+        "come": "Con un operador autorizado, guías y porteadores son obligatorios en el parque.",
+        "quando": "De junio a octubre y de enero a febrero.",
+        "tempo": "5-9 días",
+        "url": "https://www.tanzaniaparks.go.tz/",
+        "consiglio": "Más días significan más aclimatación y más posibilidades de llegar a la cima."
+      },
+      {
+        "nome": "Parque nacional de Arusha",
+        "testo": "A los pies del monte Meru, un día a pie o en coche entre bosques, lagos y jirafas.",
+        "come": "En coche desde Arusha, una hora.",
+        "quando": "Mañana.",
+        "tempo": "Un día entero",
+        "url": "https://www.tanzaniaparks.go.tz/"
+      },
+      {
+        "nome": "Cascadas de Materuni y café",
+        "testo": "Una cascada cerca de Moshi y una plantación de café donde se ve todo el proceso.",
+        "come": "En coche desde Moshi.",
+        "quando": "Mañana.",
+        "tempo": "Medio día"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: parque nacional de Arusha",
+          "Tarde: Materuni y café"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Arusha",
+        "perChi": "quien sale de safari",
+        "testo": "La ciudad de salida de los safaris, con hoteles y agencias."
+      },
+      {
+        "nome": "Moshi",
+        "perChi": "quien sube el Kilimanjaro",
+        "testo": "Pueblo a los pies de la montaña, con casas de huéspedes."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Café del Kilimanjaro",
+        "testo": "Cultivado en las laderas de la montaña."
+      },
+      {
+        "nome": "Ugali",
+        "testo": "Con guisos de carne."
+      },
+      {
+        "nome": "Nyama choma",
+        "testo": "Carne a la brasa."
+      },
+      {
+        "nome": "Chai",
+        "testo": "Té especiado."
+      }
+    ],
+    attenzioni: [
+      "Reservar el primer safari el mismo día del vuelo intercontinental: mejor una noche en Arusha.",
+      "Subir el Kilimanjaro sin aclimatación: el mal de altura es común.",
+      "Elegir un operador solo por el precio: cuentan seguridad, pago de los porteadores y licencia."
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: [],
     imageAlt: 'El Kilimanjaro sobre las nubes, con acacias en primer plano',

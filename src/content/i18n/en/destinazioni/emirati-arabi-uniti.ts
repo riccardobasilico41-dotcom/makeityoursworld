@@ -140,6 +140,103 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     ],
     miaEsperienza:
       "Dubai is the easiest city in the world to dismiss, and after two days that judgment struck me as lazy. The skyline and the malls are just as you imagine them. The Burj Khalifa impresses with its numbers and a bit less in person: a line, an elevator, a glass wall. But twenty minutes by metro there's another city nobody looks for. The creek is still a real commercial port, with wooden boats loaded to the brim with appliances bound for Iran and India; the abra that crosses it costs one dirham, you sit among people going to work and step off on the other side in the spice souk. Al Fahidi, with its wind towers and gypsum alleys, shows what this place was like when pearls were the only economy. And then there's the fact that explains the city better than any skyscraper: Emiratis are barely over ten percent of the people who live there, and in the evening in the Pakistani restaurants of Karama you eat very well for eight euros, among workers, drivers and families. That, more than the Burj, is Dubai.",
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Dubai Creek, abra and Deira souqs",
+        "testo": "The old trading port, still active, with wooden boats loaded with goods for Iran and India. The abra, the wooden ferry, crosses the creek for one dirham and lands at the spice souq and the gold souq.",
+        "come": "Metro to Al Ras or Al Ghubaiba, then on foot to the abra stops.",
+        "quando": "Morning or late afternoon, less heat.",
+        "tempo": "2-3 hours",
+        "costo": "Abra 1 dirham",
+        "consiglio": "Sit on the abra among people going to work: it is the part of Dubai nobody looks for."
+      },
+      {
+        "nome": "Al Fahidi",
+        "testo": "The historic district with wind towers, coral and gypsum houses and narrow alleys, where you understand what the place was like when pearls were the economy. There are museums and cafes.",
+        "come": "Metro to Al Fahidi, 20 minutes from the new center.",
+        "quando": "Morning, before the heat.",
+        "tempo": "1-2 hours",
+        "consiglio": "It combines well with the creek tour in the same morning."
+      },
+      {
+        "nome": "Burj Khalifa",
+        "testo": "The tallest skyscraper in the world, 828 meters. The terraces on floors 124-125 and 148 give views of the city and the desert.",
+        "come": "Metro to Burj Khalifa/Dubai Mall. Ticket to buy online.",
+        "quando": "Sunset, with time slots to book days ahead.",
+        "tempo": "1-1.5 hours",
+        "url": "https://www.burjkhalifa.ae/",
+        "consiglio": "Buy online: on site it costs more and the sunset slots run out."
+      },
+      {
+        "nome": "Desert safari",
+        "testo": "An evening in a 4x4 on the dunes, with sunset, dinner in a tented camp and a night under the stars. It is the most sold \"desert\" experience around Dubai.",
+        "come": "Operators with hotel pickup. Modest dunes half an hour from the city.",
+        "quando": "Afternoon and evening, from October to April.",
+        "tempo": "5-6 hours",
+        "consiglio": "For the real desert you need Liwa and the Rub' al-Khali."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: creek, abra and Deira souqs",
+          "Lunch in Karama or Bur Dubai",
+          "Afternoon: Al Fahidi",
+          "Sunset: Burj Khalifa, then the Dubai Mall fountain"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: as above",
+          "Day 2: desert safari or a day in Abu Dhabi"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Deira / Bur Dubai",
+        "perChi": "those who want old Dubai and to spend less",
+        "testo": "Mid-range hotels near the creek and souqs. Noisy, but with cheap restaurants."
+      },
+      {
+        "nome": "Downtown",
+        "perChi": "those who want to be under the Burj Khalifa",
+        "testo": "Luxury hotels and malls. Expensive and anonymous."
+      },
+      {
+        "nome": "Marina / JBR",
+        "perChi": "those who want beach and skyscrapers",
+        "testo": "Modern and touristy, far from historic Dubai."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Biryani and Pakistani curries",
+        "testo": "In Karama, Bur Dubai and Deira you dine for under ten euros in places full of residents."
+      },
+      {
+        "nome": "Machboos",
+        "testo": "Spiced rice with meat or fish, Emirati cuisine."
+      },
+      {
+        "nome": "Shawarma",
+        "testo": "From street stalls, all day."
+      },
+      {
+        "nome": "Afghan bread",
+        "testo": "Baked in the tandoor, hot."
+      }
+    ],
+    attenzioni: [
+      "Buying the Burj Khalifa ticket on site: it costs more and sunset slots run out days ahead.",
+      "Stopping at the malls and the Marina: the most interesting part is the creek, souqs and Al Fahidi, twenty minutes by metro.",
+      "Stopover in summer: from June to September temperatures exceed 45 degrees and life is indoors.",
+      "Rules on dress, alcohol and public behavior: check the official channels."
+    ],
+    // GUIDA-END
     esperienzeSlugs: ['creek-souq-dubai', 'deserto-emirati'],
     tripSlugs: ['stopover-golfo'],
     imageAlt: "The Dubai skyline with the Burj Khalifa at sunset, seen from afar across the water",
@@ -190,6 +287,89 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     ],
     miaEsperienza:
       "Abu Dhabi is the surprise of the Emirates, especially if you arrive after Dubai: lower, slower, with space between one building and the next. At the Grand Mosque the records (the largest hand-knotted carpet in the world, the Swarovski crystal chandeliers, eighty-two domes) make you fear excess, and yet it works. The white columns inlaid with floral motifs in mother-of-pearl have a delicacy the numbers don't let you imagine. The right moment is the late afternoon, when the marble goes from white to pink and then, with the night lighting, to blue. The other highlight is the Louvre, where the building is worth as much as the collection: beneath the dome pierced by almost eight thousand overlapping metal stars falls a light that shifts and breaks apart all day, what Nouvel calls a rain of light. You sit beneath it and stay there. Two days are enough, and with the Etihad stopover you don't pay for the hotel.",
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Sheikh Zayed Grand Mosque",
+        "testo": "Eighty-two domes, white columns inlaid with mother-of-pearl, the largest hand-knotted carpet in the world and Swarovski chandeliers. It is open to non-Muslims.",
+        "come": "Taxi or Uber. Free entry, with dress rules: arms and legs covered, head covered for women (abayas on loan).",
+        "quando": "Late afternoon, when the marble goes from white to pink and then blue. At midday the white dazzles.",
+        "tempo": "1-1.5 hours",
+        "costo": "Free entry",
+        "url": "https://www.szgmc.gov.ae/",
+        "consiglio": "Hours for non-Muslims vary, especially on Friday: check the site."
+      },
+      {
+        "nome": "Louvre Abu Dhabi",
+        "testo": "Jean Nouvel's museum on Saadiyat Island, under a dome pierced by 7,850 overlapping metal stars that rains light. The building is worth as much as the collection.",
+        "come": "Taxi or Uber from Abu Dhabi.",
+        "quando": "Evening, when the light under the dome changes.",
+        "tempo": "2-3 hours",
+        "url": "https://www.louvreabudhabi.ae/",
+        "consiglio": "Sit under the dome and stay a while."
+      },
+      {
+        "nome": "Qasr Al Watan",
+        "testo": "The presidential palace open to the public, with decorated halls, the Council hall and an exhibition on power in the Emirates.",
+        "come": "Taxi or Uber.",
+        "quando": "Morning.",
+        "tempo": "1.5-2 hours",
+        "url": "https://www.qasralwatan.ae/"
+      },
+      {
+        "nome": "Al Mina fish market",
+        "testo": "The port market: you pick fish at the counter and take it to the restaurants next door, which cook it for a few dirhams.",
+        "come": "Taxi from the center.",
+        "quando": "Early morning or late afternoon.",
+        "tempo": "1 hour"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: Grand Mosque in late afternoon, dinner on the Corniche",
+          "Day 2: Qasr Al Watan in the morning, Louvre Abu Dhabi in the evening"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Corniche / center",
+        "perChi": "those who want to be in the city",
+        "testo": "Hotels with sea views and restaurants nearby."
+      },
+      {
+        "nome": "Saadiyat",
+        "perChi": "those who want museums and beach",
+        "testo": "Resorts and the Louvre, more isolated and expensive."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Indian and Pakistani cuisine",
+        "testo": "The best and cheapest, in the districts around the center."
+      },
+      {
+        "nome": "Al Mina fish",
+        "testo": "Chosen at the counter and cooked next door."
+      },
+      {
+        "nome": "Machboos",
+        "testo": "Spiced rice with meat or fish, Emirati cuisine."
+      },
+      {
+        "nome": "Luqaimat",
+        "testo": "Sweet fried dumplings with date syrup."
+      }
+    ],
+    attenzioni: [
+      "At the Grand Mosque dressed wrongly: arms and legs covered for all, head covered for women; the borrowed abayas have long queues.",
+      "Visiting the mosque at midday: the marble dazzles and cooks.",
+      "Book the Louvre ahead on weekends.",
+      "Autumn: the Formula 1 Grand Prix fills the city."
+    ],
+    // GUIDA-END
     esperienzeSlugs: ['moschea-sheikh-zayed', 'louvre-abu-dhabi'],
     tripSlugs: ['stopover-golfo'],
     imageAlt: "The skyscrapers of Abu Dhabi's waterfront seen from the sea, with a sailboat",
@@ -238,6 +418,84 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     ],
     miaEsperienza:
       "I haven't been there yet, so this page sticks to the facts and doesn't tell about a day that didn't happen. It's on the list for a specific reason. What Dubai and Abu Dhabi sell as a “desert safari” is done on modest dunes half an hour from the city, with quad bikes, dinner in a tent camp and a return in the evening. The Rub' al-Khali is something else, the largest continuous sand desert in the world, with dunes over two hundred meters at Moreeb, and it's two hours from Abu Dhabi: a two-day extension is enough. The other half of the detour is Al Ain, which is the opposite: a UNESCO oasis with a hundred and forty-seven thousand palms irrigated by channels dug two thousand years ago and still working, where you walk in the shade and hear the water flowing. Together they tell what this country was like before oil, which is exactly what's missing from a stopover made only of cities.",
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Moreeb dunes and Liwa",
+        "testo": "The edge of the Rub' al-Khali, the largest continuous sand desert in the world, with dunes over two hundred meters at Moreeb. There are no evening safaris here: you need a night in the desert.",
+        "come": "By car or on a tour from Abu Dhabi, about two hours; off track you need an experienced 4x4.",
+        "quando": "Dawn and sunset.",
+        "tempo": "1-2 days",
+        "consiglio": "Do not drive on sand without experience and without a second vehicle."
+      },
+      {
+        "nome": "Al Ain Oasis",
+        "testo": "A UNESCO site, with 147,000 palms irrigated by falaj channels dug two thousand years ago and still working. You walk in the shade hearing the water flow.",
+        "come": "Al Ain is about 1.5 hours from Abu Dhabi. The oasis is toured on foot.",
+        "quando": "Morning.",
+        "tempo": "2 hours"
+      },
+      {
+        "nome": "Al Jahili Fort and the Hili sites",
+        "testo": "The mud-brick fort and the Bronze Age tombs of Hili, a UNESCO site.",
+        "come": "By car from Al Ain.",
+        "quando": "Morning.",
+        "tempo": "2 hours"
+      },
+      {
+        "nome": "Jebel Hafeet",
+        "testo": "A mountain with a switchback road to the viewpoint at the top, over a thousand meters.",
+        "come": "By car from Al Ain.",
+        "quando": "Sunset.",
+        "tempo": "1-2 hours"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: Abu Dhabi to Liwa, night in the desert",
+          "Day 2: dawn on the Moreeb dunes, then Al Ain, oasis and fort"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Camps and resorts at Liwa",
+        "perChi": "those who want the real desert",
+        "testo": "A few resorts, some luxury, in the middle of the dunes."
+      },
+      {
+        "nome": "Al Ain",
+        "perChi": "those who want the oasis",
+        "testo": "City hotels and cheap Indian and Pakistani restaurants."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Al Ain dates",
+        "testo": "The oasis product, in specialized markets."
+      },
+      {
+        "nome": "Indian and Pakistani cuisine",
+        "testo": "In neighborhood restaurants, good and cheap."
+      },
+      {
+        "nome": "Machboos",
+        "testo": "Emirati cuisine."
+      },
+      {
+        "nome": "Arabic coffee",
+        "testo": "With cardamom."
+      }
+    ],
+    attenzioni: [
+      "Mistaking an evening safari for the desert: those are done on small dunes half an hour from Dubai.",
+      "Driving on sand without experience and without a second vehicle.",
+      "Coming for the day and skipping the night, which is the reason to go to Liwa.",
+      "In summer inland temperatures often exceed 50 degrees."
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: [],
     imageAlt: "The desert plain around Al Ain seen from the slopes of Jebel Hafeet, in the haze",

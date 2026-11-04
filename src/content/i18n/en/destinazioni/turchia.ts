@@ -43,6 +43,111 @@ export const destinazioniTurchia: Destinazione[] = [
       "Picking up the brush a shoe shiner drops in front of you: it's the pretext for a paid shine",
       'Eating in Sultanahmet restaurants with no prices displayed',
     ],
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Hagia Sophia",
+        "testo": "The basilica built by Justinian in 537, for almost a thousand years the largest church in the world, then a mosque and a museum, now a mosque again. Foreign tourists visit the upper galleries with the Byzantine mosaics.",
+        "come": "Tram T1 to Sultanahmet. Separate entrance for tourists; covered clothing, women with the head covered.",
+        "quando": "Early morning. Closed to tourists during prayers, especially Friday at midday.",
+        "tempo": "1-1.5 hours",
+        "consiglio": "Check the hours on the official site beforehand, as they change with the access rules."
+      },
+      {
+        "nome": "Blue Mosque and the Hippodrome",
+        "testo": "The Sultanahmet mosque, from the early 1600s, with six minarets and an interior covered in blue Iznik tiles. In front, the square of the ancient hippodrome with the Egyptian obelisk.",
+        "come": "On foot from Hagia Sophia. Shoes off, shoulders and legs covered; women with the head covered.",
+        "quando": "Outside the five prayers, which close entry to tourists.",
+        "tempo": "45 minutes",
+        "costo": "Free entry"
+      },
+      {
+        "nome": "Topkapı Palace and Harem",
+        "testo": "The residence of the Ottoman sultans for almost four centuries: courtyards, pavilions, treasury and Harem, with a fine view of the Bosphorus.",
+        "come": "On foot from Hagia Sophia. The Harem ticket is separate.",
+        "quando": "Morning at opening. Closed one day a week (usually Tuesday): check the site.",
+        "tempo": "2-3 hours",
+        "url": "https://muze.gov.tr/",
+        "consiglio": "Go first to the Harem and the Treasury, which have queues, then the courtyards."
+      },
+      {
+        "nome": "Basilica Cistern",
+        "testo": "A huge underground Byzantine reservoir of the 6th century with 336 columns, softly lit. At the base of two columns are Medusa heads.",
+        "come": "On foot from Hagia Sophia. Ticket to book online in high season.",
+        "quando": "Early morning or evening, when the queue is shorter.",
+        "tempo": "45 minutes",
+        "consiglio": "Avoid the weekend and the middle of the day."
+      },
+      {
+        "nome": "Grand Bazaar and Spice Bazaar",
+        "testo": "The covered market with over 4,000 shops of carpets, ceramics, jewelry; a bit further, the spice one with tea, Turkish delight and dried fruit.",
+        "come": "Tram T1 to Beyazıt-Kapalıçarşı, or on foot from Hagia Sophia in 15 minutes.",
+        "quando": "All day; the Grand Bazaar is closed on Sunday.",
+        "tempo": "2 hours",
+        "consiglio": "The Spice Bazaar is less touristy: take it slowly and taste before buying."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: Hagia Sophia and the Blue Mosque",
+          "Basilica Cistern",
+          "Afternoon: Topkapı",
+          "Evening: sunset on the Bosphorus and dinner in Karaköy"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: Sultanahmet as above",
+          "Day 2: Süleymaniye, Grand Bazaar, Spice Bazaar, ferry to Kadıköy",
+          "Day 3: Galata, Beyoğlu, Chora (Kariye) and a Bosphorus cruise"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Sultanahmet",
+        "perChi": "those with little time who want to be among the monuments",
+        "testo": "You walk to almost everything. It is touristy, with expensive restaurants and insistent sellers; in the evening it quiets early."
+      },
+      {
+        "nome": "Galata / Karaköy",
+        "perChi": "those who want bars, cafes and nightlife",
+        "testo": "A trendy district, with boutique hotels and terraces. The slopes are steep and at night it is noisy."
+      },
+      {
+        "nome": "Beyoğlu / Taksim",
+        "perChi": "those who want nightlife and connections",
+        "testo": "The heart of night life, near metro and tram. Noisy and less polished."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Balık ekmek",
+        "testo": "A sandwich with grilled fish, on the Galata Bridge and at Eminönü."
+      },
+      {
+        "nome": "Meze and rakı",
+        "testo": "Cold small plates and aniseed spirit in the meyhanes of Beyoğlu."
+      },
+      {
+        "nome": "Börek and simit",
+        "testo": "Savory pastry and a sesame ring, for breakfast or a break."
+      },
+      {
+        "nome": "Baklava and lokum",
+        "testo": "Sweets with pistachio and honey, at Karaköy Güllüoğlu and in historic pastry shops."
+      }
+    ],
+    attenzioni: [
+      "The inflated-bill scam: someone who invites you for a drink in an unknown bar leads to a huge bill, frequent in Taksim and Sultanahmet.",
+      "The shoeshiner who drops his brush then asks for a paid shine: do not pick it up.",
+      "Restaurants in Sultanahmet without posted prices: ask for the menu with prices before sitting.",
+      "Taxis: use the meter or BiTaksi and Uber; avoid the taxis parked in front of monuments."
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['turchia-itinerario'],
     imageAlt: 'Hagia Sophia seen from the northwest, with the great dome and the four minarets',
@@ -87,6 +192,100 @@ export const destinazioniTurchia: Destinazione[] = [
       'Choosing the operator on price alone: the license and the number of passengers per basket matter',
       'Visiting the open-air museum at noon, when all the groups arrive',
     ],
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Göreme Open-Air Museum",
+        "testo": "A group of Byzantine rock churches with frescoes from the 11th century, carved into rock cones. The Dark Church (Karanlık) has the best-preserved colors.",
+        "come": "From Göreme on foot or by shuttle, about a kilometer from the center.",
+        "quando": "At opening, before the organized groups.",
+        "tempo": "1.5-2 hours",
+        "url": "https://muze.gov.tr/",
+        "consiglio": "The Dark Church has a separate ticket, but the colors are worth the cost."
+      },
+      {
+        "nome": "Hot-air balloon at dawn",
+        "testo": "The flight over the valleys and fairy chimneys at sunrise is the reason many come here.",
+        "come": "Book with a licensed operator, with hotel pickup before dawn.",
+        "quando": "Dawn, from April to November. In strong wind flights are canceled.",
+        "tempo": "1 hour flying, 3-4 hours total",
+        "consiglio": "Book for the first days and keep one in reserve: flights are canceled in wind."
+      },
+      {
+        "nome": "Red Valley and Rose Valley",
+        "testo": "Paths among pink and red rocks with churches carved into the rock, beautiful at sunset.",
+        "come": "Start on foot from Göreme or drive to a viewpoint.",
+        "quando": "Sunset.",
+        "tempo": "2-3 hours"
+      },
+      {
+        "nome": "Derinkuyu and Kaymaklı",
+        "testo": "The multi-level underground cities, dug by the inhabitants to protect themselves from attacks. You go down narrow corridors to tens of meters.",
+        "come": "By car or on a tour from Göreme, about 40 minutes.",
+        "quando": "Early morning to avoid the crowd in the corridors.",
+        "tempo": "1-1.5 hours",
+        "url": "https://muze.gov.tr/",
+        "consiglio": "If claustrophobic, skip Derinkuyu and choose Kaymaklı, a bit wider."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: balloon, Göreme Open-Air Museum, Red Valley at sunset",
+          "Day 2: Derinkuyu, Ihlara Valley, Uçhisar"
+        ]
+      },
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Days 1-2 as above",
+          "Day 3: trekking in Love Valley and Pigeon Valley, sunset at Uçhisar"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Göreme",
+        "perChi": "those who want to be near everything",
+        "testo": "Cave hotels, restaurants and balloon departures. The most touristy."
+      },
+      {
+        "nome": "Uçhisar",
+        "perChi": "those who want views and quiet",
+        "testo": "A village under the castle, charming hotels with a panoramic terrace."
+      },
+      {
+        "nome": "Ürgüp / Mustafapaşa",
+        "perChi": "those who want a less touristy place",
+        "testo": "Quieter towns, with local restaurants and wine."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Testi kebab",
+        "testo": "Meat and vegetables cooked in a clay jar that is broken at the table."
+      },
+      {
+        "nome": "Mantı",
+        "testo": "Small ravioli with yogurt and spiced butter."
+      },
+      {
+        "nome": "Cappadocian wines",
+        "testo": "Reds of Öküzgözü and whites of Emir, in the cellars of Ürgüp and Uçhisar."
+      },
+      {
+        "nome": "Pide",
+        "testo": "Boat-shaped Turkish pizza with cheese or meat, in local ovens."
+      }
+    ],
+    attenzioni: [
+      "Balloon on the last morning: it is canceled in wind, so keep one in reserve.",
+      "Choose the operator by license and passengers per basket, not only price.",
+      "Open-Air Museum at midday: all the groups arrive, better at opening.",
+      "Quad and horse rentals: check the condition of the vehicles and the insurance before leaving."
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['turchia-itinerario'],
     imageAlt: 'Hot-air balloons above the tuff valleys of Göreme National Park, in Cappadocia',
@@ -120,6 +319,73 @@ export const destinazioniTurchia: Destinazione[] = [
       'Going up at noon in summer: the glare off the white is blinding',
       'Expecting all the pools to be full: many are left dry on rotation to preserve the travertine',
     ],
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Travertine terraces",
+        "testo": "The white limestone pools along the slope, filled by hot springs. You climb barefoot, as shoes are not allowed on the travertine.",
+        "come": "Entrance from the south or north of the site; bus or car to the parking lot.",
+        "quando": "Sunset, with the light on the white. At midday in summer it dazzles.",
+        "tempo": "1-2 hours",
+        "url": "https://muze.gov.tr/",
+        "consiglio": "Bring a towel and a swimsuit: many pools are closed on rotation."
+      },
+      {
+        "nome": "Hierapolis and the Antique Pool",
+        "testo": "The ruins of the Roman city above the terraces: the theater, the necropolis, the martyrion of St Philip and the hot-water pool with ancient columns on the bottom.",
+        "come": "You walk in the site. The pool has a separate ticket.",
+        "quando": "Early morning or late afternoon.",
+        "tempo": "2 hours",
+        "url": "https://muze.gov.tr/"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: Hierapolis, theater and necropolis",
+          "Antique Pool",
+          "Afternoon: climb the terraces",
+          "Sunset on the travertine"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Pamukkale village",
+        "perChi": "those who want to be under the terraces",
+        "testo": "Family-run guesthouses, thermal pools and simple restaurants."
+      },
+      {
+        "nome": "Karahayıt",
+        "perChi": "those who want thermal baths",
+        "testo": "A nearby village with spas and red iron-rich waters."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Gözleme",
+        "testo": "Thin pastry filled with cheese or spinach, cooked on the spot."
+      },
+      {
+        "nome": "Denizli kebab",
+        "testo": "Meat cooked over coals with salad and warm bread."
+      },
+      {
+        "nome": "Ayran",
+        "testo": "Salty liquid yogurt, for the heat."
+      },
+      {
+        "nome": "Turkish tea",
+        "testo": "In the tulip glass, everywhere."
+      }
+    ],
+    attenzioni: [
+      "Climbing at midday in summer: the white glare is blinding and the heat burns.",
+      "Expecting all pools to be full: many are left dry in rotation to protect the travertine.",
+      "The terraces are climbed barefoot: bring socks for the hot stretches."
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['turchia-itinerario'],
     imageAlt: 'The white travertine pools of Pamukkale filled with blue water',
@@ -155,6 +421,88 @@ export const destinazioniTurchia: Destinazione[] = [
       'Going in mid-morning in high season, when the cruise ship passengers from Kuşadası arrive',
       'Skipping the Terrace Houses to save money: they are the best part of the site',
     ],
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Ephesus",
+        "testo": "The great Greco-Roman city with the Library of Celsus, the theater of about 25,000 seats, the Curetes Street and the Terrace Houses with mosaics and frescoes.",
+        "come": "3 km from Selçuk, by taxi or dolmuş; the upper entrance avoids the climb.",
+        "quando": "At opening, especially when cruise ships arrive from Kuşadası.",
+        "tempo": "2-3 hours",
+        "url": "https://muze.gov.tr/",
+        "consiglio": "The Terrace Houses have a separate ticket and are the best part of the site."
+      },
+      {
+        "nome": "Basilica of St John and Selçuk Castle",
+        "testo": "The 6th-century basilica above the traditional tomb of the apostle, with the castle on the hill.",
+        "come": "On foot from Selçuk.",
+        "quando": "Morning.",
+        "tempo": "1 hour",
+        "url": "https://muze.gov.tr/"
+      },
+      {
+        "nome": "House of the Virgin Mary (Meryem Ana)",
+        "testo": "The shrine on the hills above Ephesus where, according to tradition, the Virgin lived.",
+        "come": "By taxi or on a tour from Selçuk.",
+        "quando": "Morning.",
+        "tempo": "45 minutes"
+      },
+      {
+        "nome": "Şirince",
+        "testo": "A small village of stone houses on a hill, with fruit wines and shops.",
+        "come": "Dolmuş or taxi from Selçuk, 8 km.",
+        "quando": "Afternoon.",
+        "tempo": "1-2 hours",
+        "consiglio": "Taste the fruit wines before buying."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: Ephesus at opening and Terrace Houses",
+          "Lunch in Selçuk",
+          "Afternoon: Basilica of St John",
+          "Evening: Şirince"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Selçuk",
+        "perChi": "those who want to be near Ephesus",
+        "testo": "A town with family guesthouses, restaurants and a market."
+      },
+      {
+        "nome": "Şirince",
+        "perChi": "those who want village atmosphere",
+        "testo": "Stone houses and vineyards, quieter but isolated with few services."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Gözleme",
+        "testo": "Filled pastry, at the market stalls."
+      },
+      {
+        "nome": "Köfte",
+        "testo": "Grilled meatballs with bread and salad."
+      },
+      {
+        "nome": "Şirince fruit wines",
+        "testo": "Pomegranate, peach and blackberry, in the village shops."
+      },
+      {
+        "nome": "Zeytinyağlı",
+        "testo": "Vegetables in olive oil, a cold Aegean starter."
+      }
+    ],
+    attenzioni: [
+      "Entering mid-morning in high season means meeting the cruise ships: better at opening.",
+      "Skipping the Terrace Houses to save money is a mistake: they are the best part.",
+      "Guides on site: agree the price and duration before starting."
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['turchia-itinerario'],
     imageAlt: 'The stone tiers of the ancient stadium of Ephesus',
@@ -198,6 +546,92 @@ export const destinazioniTurchia: Destinazione[] = [
       "Touring the coast without a car: dolmuş run between towns, but the best coves stay out of reach",
       'Going in August without booking: Kaş and Ölüdeniz fill up',
     ],
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Ölüdeniz and Butterfly Valley",
+        "testo": "The turquoise lagoon, one of the most photographed beaches in Turkey. A bit further, Butterfly Valley, reached by boat.",
+        "come": "Dolmuş from Fethiye, about 20 minutes.",
+        "quando": "Morning, before the bathers arrive.",
+        "tempo": "Half a day",
+        "consiglio": "Paragliding from Babadağ is the most famous thing to do here."
+      },
+      {
+        "nome": "Kayaköy",
+        "testo": "A Greek village abandoned in the 1920s, with hundreds of ruined stone houses on the slope.",
+        "come": "Dolmuş from Fethiye, 8 km.",
+        "quando": "Morning or afternoon, in low light.",
+        "tempo": "1-1.5 hours"
+      },
+      {
+        "nome": "Saklıkent",
+        "testo": "A deep gorge where you walk in icy water between rock walls.",
+        "come": "By car from Fethiye, about an hour.",
+        "quando": "Summer, when it is hot.",
+        "tempo": "2-3 hours",
+        "consiglio": "Rent water shoes on site."
+      },
+      {
+        "nome": "Kekova and Simena",
+        "testo": "A stretch of sea with sunken Lycian ruins and the village of Kaleköy under a castle.",
+        "come": "Boat or kayak trip from Üçağız or Kaş.",
+        "quando": "Morning, with the clearest water.",
+        "tempo": "Half a day",
+        "consiglio": "Best by kayak at dawn to see the ruins underwater without boats."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "3 days",
+        "tappe": [
+          "Day 1: Fethiye and Ölüdeniz",
+          "Day 2: Kayaköy, Saklıkent and Patara",
+          "Day 3: Kaş and Kekova"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Fethiye",
+        "perChi": "those who want a base with services",
+        "testo": "A city with a harbor, fish market and dolmuş for the whole coast."
+      },
+      {
+        "nome": "Ölüdeniz",
+        "perChi": "those who want beach and paragliding",
+        "testo": "Touristy, with hotels and bars until late."
+      },
+      {
+        "nome": "Kaş",
+        "perChi": "those who want a quiet seaside town",
+        "testo": "Cafes and taverns on the harbor, diving and trips to Kekova."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Fish at the Fethiye market",
+        "testo": "You choose at the counter and the nearby restaurants cook it."
+      },
+      {
+        "nome": "Gözleme",
+        "testo": "Thin filled pastry, in the villages."
+      },
+      {
+        "nome": "Kaş meze",
+        "testo": "Cold plates of vegetables and cheeses, in the harbor taverns."
+      },
+      {
+        "nome": "Ayran",
+        "testo": "Salty liquid yogurt."
+      }
+    ],
+    attenzioni: [
+      "Touring the coast without a car: dolmuş exist, but the best coves stay out of reach.",
+      "August without booking: Kaş and Ölüdeniz fill up.",
+      "Boat trips sold on the street vary a lot: look at what the price includes.",
+      "Paragliding: choose a licensed operator."
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['turchia-itinerario'],
     imageAlt: 'Panorama of Kaş with the harbor, the white houses and the sea of the Lycian coast',
@@ -222,6 +656,80 @@ export const destinazioniTurchia: Destinazione[] = [
     periodoMigliore: 'April to November',
     costi: 'Archaeological Museum and Aspendos around €15-20 each (approximate).',
     erroriDaEvitare: ["Returning the rental car in another city without checking the one-way fee"],
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Kaleiçi",
+        "testo": "The old center inside the walls, with Ottoman houses, Hadrian's Gate and the old harbor. In the evening it is full of restaurants.",
+        "come": "On foot from the clock tower square.",
+        "quando": "Afternoon and evening.",
+        "tempo": "2 hours"
+      },
+      {
+        "nome": "Antalya Archaeological Museum",
+        "testo": "One of the best in Turkey, with Roman statues from Perge and Lycian sarcophagi.",
+        "come": "Tram to the Müze stop.",
+        "quando": "Morning.",
+        "tempo": "1.5-2 hours",
+        "url": "https://muze.gov.tr/"
+      },
+      {
+        "nome": "Aspendos and Perge",
+        "testo": "The theater at Aspendos is among the best preserved of antiquity; Perge has a stadium and a colonnaded street.",
+        "come": "By car with a driver or on a tour, about 45 minutes.",
+        "quando": "Early morning.",
+        "tempo": "Half a day each",
+        "url": "https://muze.gov.tr/",
+        "consiglio": "Aspendos is the stop not to skip."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: archaeological museum",
+          "Walk through Kaleiçi",
+          "Afternoon: swim at Konyaaltı",
+          "Evening: old harbor"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Kaleiçi",
+        "perChi": "those who want the old town",
+        "testo": "Hotels in Ottoman houses, evening noise from the bars."
+      },
+      {
+        "nome": "Konyaaltı",
+        "perChi": "those who want a beach",
+        "testo": "A modern area with a pebble beach and mountains behind."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Piyaz",
+        "testo": "White bean salad with eggs and tahini, an Antalya specialty."
+      },
+      {
+        "nome": "Şiş köfte",
+        "testo": "Grilled meatballs with bread."
+      },
+      {
+        "nome": "Tahini-molasses",
+        "testo": "A sweet breakfast with sesame cream and grape molasses."
+      },
+      {
+        "nome": "Fresh fruit",
+        "testo": "Oranges and pomegranates from the market."
+      }
+    ],
+    attenzioni: [
+      "Rental car dropped in another city: check the one-way fee.",
+      "All-inclusive hotels far from the center: sometimes the transfer costs as much as the difference.",
+      "In summer it is very hot: visit at dawn."
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['turchia-itinerario'],
     imageAlt: 'View of Kaleiçi, the old town of Antalya overlooking the sea',

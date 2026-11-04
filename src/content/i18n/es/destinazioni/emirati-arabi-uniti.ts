@@ -140,6 +140,103 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     ],
     miaEsperienza:
       "Dubái es la ciudad más fácil del mundo de despachar, y tras dos días ese juicio me pareció perezoso. El skyline y los centros comerciales son como te los imaginas. El Burj Khalifa impresiona por las cifras y algo menos en persona: una cola, un ascensor, un ventanal. Pero a veinte minutos en metro hay otra ciudad que nadie busca. El creek sigue siendo un puerto comercial de verdad, con las barcas de madera cargadas hasta los topes de electrodomésticos con destino a Irán y a India; el abra que lo cruza cuesta un dírham, te sientas entre gente que va al trabajo y desembarcas al otro lado en el zoco de las especias. Al Fahidi, con las torres del viento y los callejones de yeso, enseña cómo era este sitio cuando las perlas eran la única economía. Y luego está el dato que explica la ciudad mejor que cualquier rascacielos: los emiratíes son poco más del diez por ciento de quienes viven aquí, y por la noche en los restaurantes paquistaníes de Karama se come buenísimo con ocho euros, entre obreros, conductores y familias. Eso, más que el Burj, es Dubái.",
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Dubai Creek, abra y zocos de Deira",
+        "testo": "El viejo puerto comercial, aún activo, con barcos de madera cargados de mercancías para Irán y la India. El abra, el ferri de madera, cruza el creek por un dírham y desembarca en el zoco de las especias y en el del oro.",
+        "come": "Metro hasta Al Ras o Al Ghubaiba, luego a pie hasta las paradas de abra.",
+        "quando": "Mañana o última hora de la tarde, menos calor.",
+        "tempo": "2-3 horas",
+        "costo": "Abra 1 dírham",
+        "consiglio": "Sentarse en el abra entre quienes van al trabajo: es la parte de Dubái que nadie busca."
+      },
+      {
+        "nome": "Al Fahidi",
+        "testo": "El barrio histórico con torres de viento, casas de coral y yeso y callejones estrechos, donde se entiende cómo era el lugar cuando las perlas eran la economía. Hay museos y cafés.",
+        "come": "Metro hasta Al Fahidi, a 20 minutos del centro nuevo.",
+        "quando": "Mañana, antes del calor.",
+        "tempo": "1-2 horas",
+        "consiglio": "Combina bien con el recorrido del creek en la misma mañana."
+      },
+      {
+        "nome": "Burj Khalifa",
+        "testo": "El rascacielos más alto del mundo, 828 metros. Las terrazas de los pisos 124-125 y 148 dan vistas a la ciudad y al desierto.",
+        "come": "Metro hasta Burj Khalifa/Dubai Mall. Entrada que se compra en línea.",
+        "quando": "Atardecer, con franjas que se reservan con días de antelación.",
+        "tempo": "1-1,5 horas",
+        "url": "https://www.burjkhalifa.ae/",
+        "consiglio": "Comprar en línea: en el lugar cuesta más y las franjas del atardecer se agotan."
+      },
+      {
+        "nome": "Safari por el desierto",
+        "testo": "Una tarde en 4x4 por las dunas, con atardecer, cena en campamento de tiendas y noche bajo las estrellas. Es la experiencia de «desierto» más vendida alrededor de Dubái.",
+        "come": "Operadores con recogida en el hotel. Dunas modestas a media hora de la ciudad.",
+        "quando": "Tarde y noche, de octubre a abril.",
+        "tempo": "5-6 horas",
+        "consiglio": "Para el desierto de verdad hacen falta Liwa y el Rub' al-Jali."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 día",
+        "tappe": [
+          "Mañana: creek, abra y zocos de Deira",
+          "Almuerzo en Karama o Bur Dubai",
+          "Tarde: Al Fahidi",
+          "Atardecer: Burj Khalifa, luego fuente de Dubai Mall"
+        ]
+      },
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: como arriba",
+          "Día 2: safari por el desierto o un día en Abu Dabi"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Deira / Bur Dubai",
+        "perChi": "quien quiere el Dubái viejo y gastar menos",
+        "testo": "Hoteles de gama media cerca del creek y los zocos. Ruidosos, pero con restaurantes baratos."
+      },
+      {
+        "nome": "Downtown",
+        "perChi": "quien quiere estar bajo el Burj Khalifa",
+        "testo": "Hoteles de lujo y centros comerciales. Caro y anónimo."
+      },
+      {
+        "nome": "Marina / JBR",
+        "perChi": "quien quiere playa y rascacielos",
+        "testo": "Moderno y turístico, lejos del Dubái histórico."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Biryani y currys paquistaníes",
+        "testo": "En Karama, Bur Dubai y Deira se cena por menos de diez euros en locales llenos de residentes."
+      },
+      {
+        "nome": "Machboos",
+        "testo": "Arroz especiado con carne o pescado, cocina emiratí."
+      },
+      {
+        "nome": "Shawarma",
+        "testo": "En puestos callejeros, todo el día."
+      },
+      {
+        "nome": "Pan afgano",
+        "testo": "Cocido en el tandoor, caliente."
+      }
+    ],
+    attenzioni: [
+      "Comprar la entrada del Burj Khalifa en el lugar: cuesta más y las franjas del atardecer se agotan con días de antelación.",
+      "Quedarse en los centros comerciales y la Marina: lo más interesante son el creek, los zocos y Al Fahidi, a veinte minutos en metro.",
+      "Escala en verano: de junio a septiembre se superan los 45 grados y se vive en interiores.",
+      "Normas de vestimenta, alcohol y comportamiento en público: comprobar los canales oficiales."
+    ],
+    // GUIDA-END
     esperienzeSlugs: ['creek-souq-dubai', 'deserto-emirati'],
     tripSlugs: ['stopover-golfo'],
     imageAlt: "El skyline de Dubái con el Burj Khalifa al atardecer, visto de lejos al otro lado del agua",
@@ -190,6 +287,89 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     ],
     miaEsperienza:
       "Abu Dabi es la sorpresa de los Emiratos, sobre todo si se llega después de Dubái: más baja, más lenta, con espacio entre un edificio y otro. En la Gran Mezquita los récords (la alfombra anudada a mano más grande del mundo, las lámparas de cristales Swarovski, ochenta y dos cúpulas) hacen temer el exceso, y sin embargo funciona. Las columnas blancas incrustadas con motivos florales de nácar tienen una delicadeza que las cifras no dejan imaginar. El momento justo es a última hora de la tarde, cuando el mármol pasa del blanco al rosa y luego, con la iluminación nocturna, al azul. La otra gran pieza es el Louvre, donde el edificio vale tanto como la colección: bajo la cúpula calada por casi ocho mil estrellas metálicas superpuestas cae una luz que se desplaza y se descompone durante todo el día, la que Nouvel llama lluvia de luz. Uno se sienta debajo y se queda ahí. Dos días bastan, y con el stopover de Etihad el hotel no se paga.",
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Gran Mezquita Sheikh Zayed",
+        "testo": "Ochenta y dos cúpulas, columnas blancas con incrustaciones de nácar, la alfombra anudada a mano más grande del mundo y lámparas Swarovski. Está abierta a los no musulmanes.",
+        "come": "Taxi o Uber. Entrada gratuita, con normas de vestimenta: brazos y piernas cubiertos, cabeza cubierta para las mujeres (abayas prestadas).",
+        "quando": "Última hora de la tarde, cuando el mármol pasa del blanco al rosa y luego al azul. A mediodía el blanco deslumbra.",
+        "tempo": "1-1,5 horas",
+        "costo": "Entrada gratuita",
+        "url": "https://www.szgmc.gov.ae/",
+        "consiglio": "Los horarios para no musulmanes varían, sobre todo el viernes: comprobar en el sitio."
+      },
+      {
+        "nome": "Louvre Abu Dabi",
+        "testo": "El museo de Jean Nouvel en la isla de Saadiyat, bajo una cúpula perforada por 7.850 estrellas metálicas superpuestas que hace llover luz. El edificio vale tanto como la colección.",
+        "come": "Taxi o Uber desde Abu Dabi.",
+        "quando": "Noche, cuando la luz bajo la cúpula cambia.",
+        "tempo": "2-3 horas",
+        "url": "https://www.louvreabudhabi.ae/",
+        "consiglio": "Sentarse bajo la cúpula y quedarse un rato."
+      },
+      {
+        "nome": "Qasr Al Watan",
+        "testo": "El palacio presidencial abierto al público, con salas decoradas, la sala del Consejo y una exposición sobre el poder en los Emiratos.",
+        "come": "Taxi o Uber.",
+        "quando": "Mañana.",
+        "tempo": "1,5-2 horas",
+        "url": "https://www.qasralwatan.ae/"
+      },
+      {
+        "nome": "Mercado de pescado de Al Mina",
+        "testo": "El mercado del puerto: se elige el pescado en el mostrador y se lleva a los restaurantes de al lado, que lo cocinan por pocos dírhams.",
+        "come": "Taxi desde el centro.",
+        "quando": "A primera hora o última de la tarde.",
+        "tempo": "1 hora"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: Gran Mezquita al final de la tarde, cena en la Corniche",
+          "Día 2: Qasr Al Watan por la mañana, Louvre Abu Dabi por la noche"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Corniche / centro",
+        "perChi": "quien quiere estar en la ciudad",
+        "testo": "Hoteles con vistas al mar y restaurantes cerca."
+      },
+      {
+        "nome": "Saadiyat",
+        "perChi": "quien quiere museos y playa",
+        "testo": "Resorts y el Louvre, más aislado y caro."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Cocina india y paquistaní",
+        "testo": "La mejor y más barata, en los barrios alrededor del centro."
+      },
+      {
+        "nome": "Pescado de Al Mina",
+        "testo": "Se elige en el mostrador y se cocina al lado."
+      },
+      {
+        "nome": "Machboos",
+        "testo": "Arroz especiado con carne o pescado, cocina emiratí."
+      },
+      {
+        "nome": "Luqaimat",
+        "testo": "Buñuelitos dulces fritos con almíbar de dátiles."
+      }
+    ],
+    attenzioni: [
+      "En la Gran Mezquita vestido de forma incorrecta: brazos y piernas cubiertos para todos, cabeza cubierta para las mujeres; las abayas prestadas tienen largas colas.",
+      "Visitar la mezquita a mediodía: el mármol deslumbra y se asa uno.",
+      "Reservar el Louvre con antelación los fines de semana.",
+      "Otoño: el Gran Premio de Fórmula 1 llena la ciudad."
+    ],
+    // GUIDA-END
     esperienzeSlugs: ['moschea-sheikh-zayed', 'louvre-abu-dhabi'],
     tripSlugs: ['stopover-golfo'],
     imageAlt: "Los rascacielos del paseo marítimo de Abu Dabi vistos desde el mar, con un velero",
@@ -238,6 +418,84 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     ],
     miaEsperienza:
       "Todavía no he estado, así que esta ficha se queda en los hechos y no cuenta un día que no ha existido. Está en la lista por un motivo preciso. Lo que en Dubái y en Abu Dabi venden como «safari por el desierto» se hace en dunas modestas a media hora de la ciudad, con quads, la cena en un campamento de tiendas y la vuelta por la noche. El Rub' al-Khali es otra cosa, el mayor desierto de arena continuo del mundo, con dunas de más de doscientos metros en Moreeb, y está a dos horas de Abu Dabi: basta una ampliación de dos días. La otra mitad del desvío es Al Ain, que es lo contrario: un oasis patrimonio de la UNESCO con ciento cuarenta y siete mil palmeras regadas por canales excavados hace dos mil años y todavía en funcionamiento, donde se camina a la sombra y se oye correr el agua. Juntos cuentan cómo era este país antes del petróleo, y es lo que falta por completo en un stopover hecho solo de ciudades.",
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Dunas de Moreeb y Liwa",
+        "testo": "El borde del Rub' al-Jali, el mayor desierto de arena continuo del mundo, con dunas de más de doscientos metros en Moreeb. Aquí no hay safaris nocturnos: hace falta una noche en el desierto.",
+        "come": "En coche o en tour desde Abu Dabi, unas dos horas; fuera de pista hace falta un 4x4 con experiencia.",
+        "quando": "Amanecer y atardecer.",
+        "tempo": "1-2 días",
+        "consiglio": "No conducir por la arena sin experiencia y sin un segundo vehículo."
+      },
+      {
+        "nome": "Oasis de Al Ain",
+        "testo": "Patrimonio de la UNESCO, con 147.000 palmeras regadas por canales falaj excavados hace dos mil años y aún en uso. Se camina a la sombra oyendo correr el agua.",
+        "come": "Al Ain está a 1,5 horas de Abu Dabi. El oasis se recorre a pie.",
+        "quando": "Mañana.",
+        "tempo": "2 horas"
+      },
+      {
+        "nome": "Fuerte Al Jahili y sitios de Hili",
+        "testo": "El fuerte de ladrillos de barro y las tumbas de la Edad del Bronce de Hili, patrimonio de la UNESCO.",
+        "come": "En coche desde Al Ain.",
+        "quando": "Mañana.",
+        "tempo": "2 horas"
+      },
+      {
+        "nome": "Jebel Hafeet",
+        "testo": "Una montaña con una carretera de curvas hasta el mirador de la cima, a más de mil metros.",
+        "come": "En coche desde Al Ain.",
+        "quando": "Atardecer.",
+        "tempo": "1-2 horas"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 días",
+        "tappe": [
+          "Día 1: Abu Dabi hacia Liwa, noche en el desierto",
+          "Día 2: amanecer en las dunas de Moreeb, luego Al Ain, oasis y fuerte"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Campamentos y resorts en Liwa",
+        "perChi": "quien quiere el desierto de verdad",
+        "testo": "Pocos resorts, algunos de lujo, en medio de las dunas."
+      },
+      {
+        "nome": "Al Ain",
+        "perChi": "quien quiere el oasis",
+        "testo": "Hoteles de ciudad y restaurantes indios y paquistaníes baratos."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Dátiles de Al Ain",
+        "testo": "El producto del oasis, en mercados especializados."
+      },
+      {
+        "nome": "Cocina india y paquistaní",
+        "testo": "En restaurantes de barrio, buena y barata."
+      },
+      {
+        "nome": "Machboos",
+        "testo": "Cocina emiratí."
+      },
+      {
+        "nome": "Café árabe",
+        "testo": "Con cardamomo."
+      }
+    ],
+    attenzioni: [
+      "Confundir un safari nocturno con el desierto: esos se hacen en dunas pequeñas a media hora de Dubái.",
+      "Conducir por la arena sin experiencia y sin un segundo vehículo.",
+      "Ir en el día y saltarse la noche, que es la razón de ir a Liwa.",
+      "En verano en el interior se superan a menudo los 50 grados."
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: [],
     imageAlt: "La llanura desértica alrededor de Al Ain vista desde las laderas del Jebel Hafeet, entre la bruma",

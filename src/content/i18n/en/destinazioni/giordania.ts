@@ -30,6 +30,96 @@ export const destinazioniGiordania: Destinazione[] = [
     erroriDaEvitare: [],
     miaEsperienza:
       "The Citadel, with its view over the whole old city, was a nice stop to close the trip before the return flight, even though it isn't what I remember most from Jordan.",
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Citadel (Jabal al-Qala'a)",
+        "testo": "The hill that overlooks the city, inhabited for millennia. On top stand the columns of the Temple of Hercules, the 8th-century Umayyad Palace and the archaeological museum. From the edge you see all of Amman, with the Roman theater at your feet.",
+        "come": "Take a taxi up, or walk a steep 20 minutes from the center. You visit on your own; the panels are in English.",
+        "quando": "Late afternoon for the light on the temple and the view; at midday in summer there is no shade.",
+        "tempo": "1-1.5 hours",
+        "costo": "Included in the Jordan Pass",
+        "url": "https://www.jordanpass.jo/",
+        "consiglio": "Take a taxi up and walk down towards the Roman theater: it is downhill and ends in the center."
+      },
+      {
+        "nome": "Roman Theater",
+        "testo": "A 2nd-century theater cut into the hillside, with about 6,000 seats. On either side of the entrance are two small museums, one of folklore and one of popular traditions. You climb the steps and look at the square below.",
+        "come": "In the heart of the center, on foot from the souqs and Rainbow Street.",
+        "quando": "Morning or late afternoon, when the steps are in shade.",
+        "tempo": "45 minutes",
+        "costo": "Included in the Jordan Pass",
+        "url": "https://www.jordanpass.jo/"
+      },
+      {
+        "nome": "Downtown and the souqs",
+        "testo": "The old center around the al-Husseini mosque: spice shops, cafes, sweets, clothes, gold. It is the liveliest and most authentic part of the capital, far more than the new districts.",
+        "come": "On foot from the Roman theater, a few minutes.",
+        "quando": "From 10 to 20. On Friday mornings many shops open late.",
+        "tempo": "2 hours",
+        "consiglio": "Stop for a hot kunafa and for falafel and hummus in one of the historic places in the center."
+      },
+      {
+        "nome": "Rainbow Street",
+        "testo": "A pedestrian street in the Jabal Amman district, with cafes, restaurants with terraces, bookshops and craft stores. You come in the evening, when it fills with young people.",
+        "come": "Taxi from the center or 20 minutes on foot from the Roman theater.",
+        "quando": "After sunset, especially on weekends (Thursday and Friday evening).",
+        "tempo": "2-3 hours",
+        "consiglio": "Pick a place with a terrace on the slope: the view of the lit-up city is the best part."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: Citadel and archaeological museum",
+          "Walk down to the Roman Theater",
+          "Lunch and a stroll through Downtown and the souqs",
+          "Sunset and dinner on Rainbow Street"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Downtown / Al-Balad",
+        "perChi": "those who want to be among souqs and theater",
+        "testo": "You walk to almost everything and eat very well for little. In the evening it is noisy and less polished, and the hotels are basic."
+      },
+      {
+        "nome": "Jabal Amman / Rainbow Street",
+        "perChi": "those who want bars and a livable neighborhood",
+        "testo": "Quieter, with restaurants and cafes close by. The streets are steep and the hotels cost more."
+      },
+      {
+        "nome": "Abdali",
+        "perChi": "business travelers or those who want modern hotels",
+        "testo": "A new district of skyscrapers and international chains. Comfortable and well kept, but without character."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Mansaf",
+        "testo": "The national dish: lamb cooked in jameed, a dried salty yogurt, served over rice with pine nuts. Eaten in traditional restaurants and in homes."
+      },
+      {
+        "nome": "Falafel and hummus",
+        "testo": "Breakfast and a quick lunch in the historic places of Downtown. Eaten seated, with warm bread, onion and mint."
+      },
+      {
+        "nome": "Kunafa",
+        "testo": "A sweet of melted cheese with fine pastry and syrup, hot, cut on the spot in the shops of the center."
+      },
+      {
+        "nome": "Maqluba",
+        "testo": "Rice, chicken or lamb and vegetables cooked in a pot and flipped over when served."
+      }
+    ],
+    attenzioni: [
+      "Yellow taxis have a meter: have it switched on or agree the price before getting in. Uber and Careem work and remove the problem.",
+      "Rainbow Street and the center are safe, but at midday in summer the sun is strong and there is no shade on the Citadel.",
+      "In Jordan Friday is the day of rest: many shops open late and museums may have shorter hours."
+    ],
+    // GUIDA-END
     esperienzeSlugs: ['cittadella-amman'],
     tripSlugs: ['giordania-itinerario'],
     imageAlt: "A white and ginger cat walking towards the camera on the hills of Amman, with the city's buildings behind",
@@ -56,6 +146,85 @@ export const destinazioniGiordania: Destinazione[] = [
     erroriDaEvitare: [],
     miaEsperienza:
       "Jerash was a nice surprise: one of the best-preserved Roman cities I've ever seen, with the colonnaded cardo stretching out of sight. Much more than a pass-through stop.",
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Hadrian's Arch and the Hippodrome",
+        "testo": "The monumental entrance to the south, built for the emperor Hadrian's visit in 129-130. A little further on is the hippodrome, among the best preserved of the Roman empire.",
+        "come": "The parking lot is next to the arch; the ticket office is close by.",
+        "quando": "Early morning, before the groups.",
+        "tempo": "30 minutes",
+        "costo": "Included in the Jordan Pass",
+        "url": "https://www.jordanpass.jo/"
+      },
+      {
+        "nome": "Oval Forum and Cardo Maximus",
+        "testo": "The oval plaza with Ionic columns and, from there, the long colonnaded street that crosses the ancient city. On the paving stones you can still see the ruts of the carts.",
+        "come": "Walked from south to north in about 15 minutes, with stops.",
+        "quando": "Early morning and late afternoon for the light on the columns.",
+        "tempo": "1 hour",
+        "costo": "Included in the Jordan Pass",
+        "url": "https://www.jordanpass.jo/",
+        "consiglio": "Look at the stones of the cardo: the cart ruts and drains show how the street worked."
+      },
+      {
+        "nome": "South Theater and Temple of Artemis",
+        "testo": "The large theater, with about 3,000 seats, where bagpipes and drums often play; then the temple of Artemis on the upper level, with columns visible from afar.",
+        "come": "From the forum, climb to the theater, then to the temple on the hill in about 20 minutes.",
+        "quando": "Late morning, when the light is high and the theater resonates.",
+        "tempo": "1 hour",
+        "costo": "Included in the Jordan Pass",
+        "url": "https://www.jordanpass.jo/"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "Half a day",
+        "tappe": [
+          "Hadrian's Arch and Hippodrome",
+          "Oval Forum",
+          "Cardo Maximus",
+          "South Theater",
+          "Temple of Artemis"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Amman",
+        "perChi": "those who visit as a day trip",
+        "testo": "Jerash is about an hour by road, so you go with a driver or on a tour from Amman. Sleeping in the city is easier."
+      },
+      {
+        "nome": "Jerash town",
+        "perChi": "those who want to see it at dawn",
+        "testo": "A few simple hotels near the site, useful to enter at opening before the groups."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Falafel and hummus",
+        "testo": "Near the site you find hot sandwiches and plates of chickpeas for a quick lunch."
+      },
+      {
+        "nome": "Mansaf",
+        "testo": "The lamb dish with rice and salty yogurt; restaurants in the modern town serve it all year."
+      },
+      {
+        "nome": "Sage tea",
+        "testo": "Many kiosks serve it with sugar and fresh leaves."
+      },
+      {
+        "nome": "Hot Arabic bread",
+        "testo": "Fresh from the neighborhood ovens, with zaatar and oil."
+      }
+    ],
+    attenzioni: [
+      "Some sellers offer improvised guides at the entrance: agree the price first, or skip it and read the panels.",
+      "There is no shade on the site: bring a hat, water and closed shoes, as the stones are uneven.",
+      "The stalls at the exit sell souvenirs at inflated prices: always haggle."
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['giordania-itinerario'],
     imageAlt: 'The colonnaded cardo of Jerash among green meadows, with the modern city in the background, Jordan',
@@ -88,6 +257,73 @@ export const destinazioniGiordania: Destinazione[] = [
     erroriDaEvitare: ['Heading toward the more conservative areas or the desert without having bought alcohol in Madaba (Soho or Hangover)'],
     miaEsperienza:
       "Floating at the surface of the water watching the sun go down behind the hills of the West Bank is an experience in itself. At sunset, I think, the Dead Sea gives more than you expect.",
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Swimming and mud at the Dead Sea",
+        "testo": "The sea lies about 430 meters below sea level and is so salty that you float with no effort. You lie at the surface, spread mud on your skin and let it dry.",
+        "come": "Enter from a resort with a private beach or from an equipped public beach. Go in slowly, without diving.",
+        "quando": "Sunset, with the light on the West Bank hills.",
+        "tempo": "1-2 hours in the water",
+        "consiglio": "Do not shave the day before, keep the water away from eyes and face, and rinse right away with fresh water."
+      },
+      {
+        "nome": "Madaba and the mosaic map",
+        "testo": "The city of Byzantine mosaics. In the Greek Orthodox church of St George is the 6th-century map showing Jerusalem and the Holy Land, made of about two million tesserae.",
+        "come": "Madaba is 30 minutes from Amman and about an hour from the Dead Sea; visited on foot in the center.",
+        "quando": "Morning, when the church is less crowded.",
+        "tempo": "1-2 hours",
+        "consiglio": "Combine it with dinner in an old-town restaurant, such as Haret Jdoudna."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: Madaba and the church of St George",
+          "Lunch in Madaba",
+          "Afternoon: transfer to the Dead Sea",
+          "Swim and mud, then sunset over the sea"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Resorts on the sea",
+        "perChi": "those who want direct beach access",
+        "testo": "Comfortable, with pools and spas. Food and drink prices are high and you often cannot bring food in from outside."
+      },
+      {
+        "nome": "Madaba",
+        "perChi": "those who want to spend less",
+        "testo": "Simpler hotels and local restaurants, with about an hour of transfer to the sea."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Maqluba",
+        "testo": "Rice, meat and vegetables flipped at the table, typical of Madaba and Jordanian homes."
+      },
+      {
+        "nome": "Jordan Valley dates",
+        "testo": "Sweet and soft, sold along the road and in the shops of Madaba."
+      },
+      {
+        "nome": "Zarb",
+        "testo": "Meat and vegetables cooked underground; found in restaurants that prepare it on request."
+      },
+      {
+        "nome": "Mud cosmetics",
+        "testo": "Creams and soaps with Dead Sea salts, in the shops of Madaba and the resorts."
+      }
+    ],
+    attenzioni: [
+      "The salt stings eyes and cuts: no diving, no splashing, and rinse right away if it happens.",
+      "In the cosmetics shops in front of the resorts prices are higher than in town: compare first.",
+      "Do not stay in the water more than 15-20 minutes at a time, and drink plenty.",
+      "Alcohol is bought in Madaba or dedicated shops, not along the roads to the desert."
+    ],
+    // GUIDA-END
     esperienzeSlugs: ['bagno-mar-morto'],
     tripSlugs: ['giordania-itinerario'],
     imageAlt: 'The veiled sun reflected in the Dead Sea at sunset, small silhouettes of bathers on the shore, Jordan',
@@ -114,6 +350,73 @@ export const destinazioniGiordania: Destinazione[] = [
     erroriDaEvitare: [],
     miaEsperienza:
       "Karak Castle is an imposing fortress and worth the visit. Mount Nebo, to be honest, left me indifferent: it counts more as a symbol (it's the place from which, according to tradition, Moses saw the Promised Land) than as a landscape, and it's the stop of the day I remember least.",
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Karak Castle",
+        "testo": "A 12th-century crusader fortress on a spur of rock, later passing to Saladin and the Mamluks. You walk dark corridors, vaults, cisterns and underground halls, with the modern town around.",
+        "come": "Reached from Madaba along the King's Highway in about 1.5 hours. You visit on your own, but some corridors are dark: bring a flashlight.",
+        "quando": "Morning, when there is less wind and the sun is still low.",
+        "tempo": "1-1.5 hours",
+        "costo": "Included in the Jordan Pass (figure from my trip)",
+        "url": "https://www.jordanpass.jo/"
+      },
+      {
+        "nome": "Mount Nebo",
+        "testo": "The hill from which, according to tradition, Moses saw the Promised Land. There is the memorial with Byzantine mosaics and a snake-shaped sculpture.",
+        "come": "On the road between Madaba and Karak, about 10 km from Madaba. You drive up to the parking lot.",
+        "quando": "A clear day, when from the terrace you see the Jordan Valley and sometimes the Dead Sea.",
+        "tempo": "45 minutes"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Leave Madaba or the Dead Sea",
+          "Mount Nebo",
+          "Lunch along the King's Highway",
+          "Karak Castle",
+          "Arrival at Wadi Musa"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Wadi Musa",
+        "perChi": "those continuing to Petra",
+        "testo": "The natural continuation of the route, about 2.5 hours from Karak."
+      },
+      {
+        "nome": "Karak",
+        "perChi": "those who want a quiet night",
+        "testo": "Few places, simple and cheap; in the evening the town goes quiet early."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Mansaf",
+        "testo": "The dish of the Karak Bedouin area: lamb, rice and salty yogurt."
+      },
+      {
+        "nome": "Falafel and shawarma",
+        "testo": "In the eateries of central Karak, for a lunch at 2-3 JOD."
+      },
+      {
+        "nome": "Shrak bread",
+        "testo": "Thin bread cooked on a convex stone, typical of the countryside."
+      },
+      {
+        "nome": "Bedouin tea",
+        "testo": "With sage or mint, served at stops along the road."
+      }
+    ],
+    attenzioni: [
+      "The King's Highway is scenic but winding: allow more time than the navigation says.",
+      "In the bars along the road prices are not displayed: ask first.",
+      "Mount Nebo is worth more for its meaning than the view: if time is short it can be dropped from the plan."
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['giordania-itinerario'],
     imageAlt: 'The stone walls of the Crusader fortress of Karak Castle, Jordan',
@@ -153,6 +456,112 @@ export const destinazioniGiordania: Destinazione[] = [
     erroriDaEvitare: ['Going without hiking shoes: they are indispensable, especially for the climb to the Monastery (over 800 steps)'],
     miaEsperienza:
       "Seeing the Treasury appear from the Siq without the usual crowd in front is worth the trip on its own. The climb to the Monastery pays back every step with a view even more imposing than the Treasury. Little Petra, the day before, was also beautiful: less crowded, it gave us the first rush of enthusiasm. Together with Wadi Rum, it's the thing not to miss on the whole trip.",
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "The Siq and the Treasury (Al-Khazneh)",
+        "testo": "The natural gorge about 1.2 km long between pink sandstone walls, which narrows until it suddenly shows the facade of the Treasury, about 40 meters high and carved into the rock.",
+        "come": "From the entrance to the Treasury you walk about 30-40 minutes. You can hire a horse, but it only covers the stretch up to the start of the Siq.",
+        "quando": "The very first hour, when the Siq is empty and the light reaches the Treasury around 9-10.",
+        "tempo": "45 minutes",
+        "costo": "Included in the Jordan Pass",
+        "url": "https://www.jordanpass.jo/",
+        "consiglio": "We found it almost deserted: seeing the Treasury appear from the Siq without a crowd is worth the trip on its own."
+      },
+      {
+        "nome": "Street of Facades and Theater",
+        "testo": "After the Treasury the valley opens onto tombs cut in the rock and a Nabataean theater carved from stone.",
+        "come": "On foot from the Treasury, all flat.",
+        "quando": "Morning.",
+        "tempo": "1 hour",
+        "costo": "Included in the Jordan Pass",
+        "url": "https://www.jordanpass.jo/"
+      },
+      {
+        "nome": "Royal Tombs",
+        "testo": "A group of monumental tombs cut into the mountain: the Urn Tomb, the Silk Tomb and the Palace Tomb. You can enter the chambers.",
+        "come": "A few minutes on foot from the theater.",
+        "quando": "Afternoon, when the red light lights up the walls.",
+        "tempo": "45 minutes",
+        "costo": "Included in the Jordan Pass",
+        "url": "https://www.jordanpass.jo/"
+      },
+      {
+        "nome": "Monastery (Ad-Deir)",
+        "testo": "A facade of about 45 meters, larger than the Treasury and plainer. You arrive after a climb of about 800 steps in the rock.",
+        "come": "Start from the center of Petra: about 40-45 minutes uphill. On the way there are stalls and a kiosk in front of the monument.",
+        "quando": "After midday, when the sun is on the facade (in the morning it is in shade).",
+        "tempo": "2-2.5 hours round trip",
+        "costo": "Included in the Jordan Pass",
+        "url": "https://www.jordanpass.jo/",
+        "consiglio": "Hiking shoes and water; the mint tea at the kiosk repays the climb."
+      },
+      {
+        "nome": "Little Petra (Siq al-Barid)",
+        "testo": "A small canyon about 8 km from Wadi Musa, with Nabataean buildings and cisterns. Less famous and quieter than Petra.",
+        "come": "By taxi or with the transfer from Wadi Musa in 15 minutes. You walk in the canyon.",
+        "quando": "Afternoon, the day before Petra.",
+        "tempo": "1.5-2 hours",
+        "consiglio": "Great for warming up before Petra, with few people."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day at Petra",
+        "tappe": [
+          "Enter at opening, Siq and Treasury",
+          "Street of Facades and Theater",
+          "Royal Tombs",
+          "Lunch near Qasr al-Bint",
+          "Climb to the Monastery in the early afternoon",
+          "Return"
+        ]
+      },
+      {
+        "titolo": "2 days",
+        "tappe": [
+          "Day 1: Little Petra and arrival at Wadi Musa",
+          "Day 2: Petra as above, with half a day more for the High Place of Sacrifice or for Petra by Night on the evenings it is open"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Wadi Musa",
+        "perChi": "those who want to enter at opening",
+        "testo": "The town below the entrance, with hotels in every range and restaurants. A few minutes from the site on foot or by shuttle."
+      },
+      {
+        "nome": "Little Petra / Beidha",
+        "perChi": "those who want silence",
+        "testo": "A few camps and guesthouses near the canyon, more isolated and with little going on in the evening."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Zarb",
+        "testo": "Meat and vegetables cooked in the sand, in some Wadi Musa restaurants on request."
+      },
+      {
+        "nome": "Maqluba",
+        "testo": "The upside-down dish of rice and meat, easy to find in the places on the main street."
+      },
+      {
+        "nome": "Hammam",
+        "testo": "At the end of the day a Turkish bath in Wadi Musa loosens the legs after the steps."
+      },
+      {
+        "nome": "Cardamom and sage tea",
+        "testo": "Served by the Bedouin along the paths of the site."
+      }
+    ],
+    attenzioni: [
+      "Those offering rides on horse, camel or donkey along the Siq often say the price is included: it is not in the ticket, agree beforehand.",
+      "Donkeys for the climb to the Monastery are discouraged for animal welfare.",
+      "Bring water and a hat: there are few water points in the site and in summer it is very hot.",
+      "Avoid evenings of strong wind for Petra by Night: the visit may be canceled."
+    ],
+    // GUIDA-END
     esperienzeSlugs: ['salita-monastero-petra', 'hammam-wadi-musa'],
     tripSlugs: ['giordania-itinerario'],
     imageAlt: 'The whole facade of the Treasury of Petra, with the pediment and the two orders of columns carved into the pink rock, Jordan',
@@ -195,6 +604,88 @@ export const destinazioniGiordania: Destinazione[] = [
     erroriDaEvitare: [],
     miaEsperienza:
       "The jeep safari among canyons and red dunes, the sandboarding, the sunset on the dunes on arrival at the camp and then the New Year's party under one of the most beautiful starry skies I've ever seen: hard to imagine a more absurd way of saying goodbye to the old year. Together with Petra, it's the thing not to miss on the trip to Jordan.",
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Jeep safari among canyons and dunes",
+        "testo": "The normal way to visit the desert: a Bedouin pickup with a guide, among red sandstone formations, canyons and dunes. The classic stops are Lawrence's Spring, the Khazali canyon with Nabataean inscriptions and the Umm Fruth rock bridge.",
+        "come": "Leave from Rum village with the camp's guide or from the visitor center. The trip is priced by length and agreed in advance.",
+        "quando": "A tour of 4-6 hours, starting in the morning or in the afternoon for the sunset.",
+        "tempo": "4-6 hours",
+        "costo": "Entrance included in the Jordan Pass",
+        "url": "https://www.jordanpass.jo/",
+        "consiglio": "Ask that the tour includes a sunset on the dunes."
+      },
+      {
+        "nome": "Camel in the desert",
+        "testo": "A walk of about 45 minutes on camelback, in the traditional way.",
+        "come": "Arranged from the camp.",
+        "quando": "Dawn or sunset.",
+        "tempo": "45 minutes",
+        "costo": "20 JOD (from my trip)"
+      },
+      {
+        "nome": "Night in a tented camp",
+        "testo": "The Bedouin camp with dinner cooked under the sand (zarb), music and a sky with no lights. Tents range from the simplest to transparent bubbles.",
+        "come": "The jeep transfer leaves from the village.",
+        "quando": "One night, better two if you want time to walk.",
+        "tempo": "One night",
+        "consiglio": "Bring a sweater: at night the temperature drops even in spring."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day and one night",
+        "tappe": [
+          "Arrival from Petra or Aqaba, jeep to the camp",
+          "4-6 hour tour among canyons and dunes",
+          "Sunset, Bedouin dinner and starry sky",
+          "Dawn on the dunes and return"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Traditional tented camp",
+        "perChi": "those who want the Bedouin experience",
+        "testo": "Simple tents, shared bathroom, dinner and breakfast included. Little electricity: charge your phones beforehand."
+      },
+      {
+        "nome": "Camp with private bathroom",
+        "perChi": "those who want more comfort",
+        "testo": "Tents and bubbles with bathroom, sometimes with air conditioning. They cost more."
+      },
+      {
+        "nome": "Rum village",
+        "perChi": "those who do not want to sleep in the desert",
+        "testo": "Simple guesthouses at the foot of the valley, from where the tours leave."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Zarb",
+        "testo": "Lamb, chicken and vegetables cooked for hours in an oven under the sand, served in the evening at the camp."
+      },
+      {
+        "nome": "Bedouin tea",
+        "testo": "With sage, sugar and embers; you drink it every time you arrive at a tent."
+      },
+      {
+        "nome": "Bread baked on embers",
+        "testo": "Thin, made on the fire by the camp hosts."
+      },
+      {
+        "nome": "Mansaf",
+        "testo": "Lamb with rice and salty yogurt, in some camps for festive evenings."
+      }
+    ],
+    attenzioni: [
+      "The jeep tour has fixed rates at the visitor center: compare them with the camp's price.",
+      "At night it is cold even in spring and autumn: bring heavy clothing.",
+      "Do not wander off alone from the camp in the evening, the tracks vanish in the dark.",
+      "Sandstorms can cancel tours: leave a margin in the plan."
+    ],
+    // GUIDA-END
     esperienzeSlugs: ['jeep-safari-wadi-rum', 'capodanno-deserto'],
     tripSlugs: ['giordania-itinerario'],
     imageAlt: 'A young Bedouin with a keffiyeh over his face in front of the red rocks of Wadi Rum, Jordan',
@@ -228,6 +719,71 @@ export const destinazioniGiordania: Destinazione[] = [
     erroriDaEvitare: [],
     miaEsperienza:
       "In Aqaba we also went diving: pleasant, but nothing special compared to other Red Sea spots more famous for diving (Egypt above all). It remains a nice day to unwind after the desert, between snorkeling and water sports.",
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Snorkeling and diving",
+        "testo": "The Red Sea a few dozen minutes from the desert, with coral reefs near the shore and very warm water. There is also the wreck of the Cedar Pride, sunk in 1985 as an underwater attraction.",
+        "come": "Book a diving center or a boat from the marina.",
+        "quando": "All year, but spring and autumn are the best months.",
+        "tempo": "Half a day",
+        "consiglio": "I found the dives pleasant but less spectacular than other points of the Red Sea."
+      },
+      {
+        "nome": "Seafront and beaches",
+        "testo": "The center is a seafront with cafes and an area of equipped beaches. You swim in a swimsuit in the facilities, with more modest dress outside.",
+        "come": "From the main hotels in 15 minutes by taxi.",
+        "quando": "All day, especially in the afternoon.",
+        "tempo": "Half a day"
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 day",
+        "tappe": [
+          "Morning: boat tour with snorkeling",
+          "Seafood lunch in the center",
+          "Afternoon at the beach",
+          "Dinner on the seafront"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Center and seafront",
+        "perChi": "those who want to be on foot",
+        "testo": "Mid-range hotels and restaurants near the sea."
+      },
+      {
+        "nome": "Resorts on the south coast",
+        "perChi": "those who want beach and diving",
+        "testo": "Luxury resorts with private beach and dive center, far from the center."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Grilled fish",
+        "testo": "In the seafront restaurants, grilled over coals with salad sides."
+      },
+      {
+        "nome": "Sayadieh",
+        "testo": "Fish with spiced rice and caramelized onions, a typical Aqaba dish."
+      },
+      {
+        "nome": "Falafel",
+        "testo": "In the places in the center, for a cheap lunch."
+      },
+      {
+        "nome": "Fresh fruit juices",
+        "testo": "Sold at the seafront kiosks."
+      }
+    ],
+    attenzioni: [
+      "Outside resort beaches a swimsuit is not appropriate: use a cover-up.",
+      "The sun on the sea is strong all year: high protection and water.",
+      "In Aqaba you can buy alcohol in dedicated shops, but elsewhere in Jordan it is hard."
+    ],
+    // GUIDA-END
     esperienzeSlugs: ['diving-aqaba'],
     tripSlugs: ['giordania-itinerario'],
     imageAlt: 'The coast of Aqaba on the Red Sea, Jordan',

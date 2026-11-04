@@ -94,6 +94,92 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     ],
     miaEsperienza:
       'Jeddah spiazza chi arriva convinto che l\'Arabia Saudita sia tutta uguale. È una città di mare, nei modi più mediterranea di quanto ci si aspetti, e la differenza con Riyadh si sente in mezza giornata. Al-Balad è il motivo principale per venirci, e va visto all\'ora giusta. Di giorno è un quartiere polveroso in restauro; nel tardo pomeriggio la luce bassa prende i rawashin, le facciate di legno intagliato, alcune alte quattro piani, fatte per far circolare l\'aria e per permettere alle donne di guardare fuori senza essere viste, e il quartiere cambia. Molte case sono puntellate e diverse sono crollate: il restauro va avanti a macchia, e chi vede Al-Balad oggi lo vede a metà strada. L\'altra cosa che resta è sociale più che monumentale: la Corniche il giovedì sera, con le famiglie che stendono i tappeti sul prato, i barbecue accesi e i bambini che giocano fino a mezzanotte. È lì, più che in qualsiasi museo, che si capisce meglio che paese sia questo.',
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Al-Balad",
+        "testo": "Il centro storico patrimonio UNESCO, con case-torre in pietra corallina e i rawashin, le facciate di legno intagliato alte anche quattro piani, fatte per far circolare l'aria. Molte case sono puntellate: il restauro procede a macchia.",
+        "come": "Si cammina a piedi nelle stradine; taxi o Uber fino a Bab Sharif o al souq Al-Alawi. In giro con una guida si capisce meglio cosa si guarda.",
+        "quando": "Tardo pomeriggio, quando la luce bassa prende il legno e il quartiere si anima. A mezzogiorno è polveroso e vuoto.",
+        "tempo": "2-3 ore",
+        "url": "https://www.visitsaudi.com/",
+        "consiglio": "Chiudere la visita nel souq Al-Alawi, ancora in attività, con un caffè arabo alla cardamomo."
+      },
+      {
+        "nome": "Casa Nassif",
+        "testo": "La più nota delle case-torre di Al-Balad, con la rampa interna costruita per far salire i cammelli carichi. Oggi è un museo con la storia della famiglia e della città.",
+        "come": "Dentro Al-Balad, a pochi minuti a piedi dal souq.",
+        "quando": "Mattina o fine pomeriggio.",
+        "tempo": "45 minuti"
+      },
+      {
+        "nome": "Corniche, Fontana di Re Fahd e moschea Al-Rahma",
+        "testo": "Il lungomare lungo decine di chilometri, con la fontana che spruzza l'acqua a oltre 300 metri e la piccola moschea galleggiante Al-Rahma, bianca sul mare. Il giovedì sera le famiglie stendono i tappeti sul prato e fanno il barbecue.",
+        "come": "Taxi o Uber dal centro. Si passeggia sul lungomare.",
+        "quando": "Tramonto e sera, soprattutto il giovedì.",
+        "tempo": "2 ore",
+        "consiglio": "Cenare a base di pesce grigliato sulla Corniche, come fanno i sauditi."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "1 giorno",
+        "tappe": [
+          "Pomeriggio: Al-Balad e Casa Nassif",
+          "Souq Al-Alawi al tramonto",
+          "Sera: Corniche, fontana e cena di pesce"
+        ]
+      },
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: come sopra",
+          "Giorno 2: mattina sul Mar Rosso con snorkeling o immersioni, poi quartieri d'arte contemporanea"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Al-Balad",
+        "perChi": "chi vuole dormire nel centro storico",
+        "testo": "Poche strutture, restaurate in case antiche. Vicino a tutto ma lontano dal mare."
+      },
+      {
+        "nome": "Corniche",
+        "perChi": "chi vuole mare e comodità",
+        "testo": "Hotel e resort sul lungomare, con ristoranti vicini."
+      },
+      {
+        "nome": "Quartieri nuovi",
+        "perChi": "chi preferisce hotel internazionali",
+        "testo": "Torri di vetro e catene globali, comodi ma anonimi."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Kabsa",
+        "testo": "Il piatto nazionale: riso speziato con carne o pollo."
+      },
+      {
+        "nome": "Mandi",
+        "testo": "Carne yemenita cotta in forno interrato, con riso affumicato."
+      },
+      {
+        "nome": "Foul",
+        "testo": "Fave in pentola per colazione, con pane caldo."
+      },
+      {
+        "nome": "Pesce alla griglia",
+        "testo": "Del Mar Rosso, sulla Corniche."
+      }
+    ],
+    attenzioni: [
+      "La Mecca è vietata ai non musulmani: i cartelli sull'autostrada indicano le deviazioni obbligatorie e ci sono controlli. Non è una regola da aggirare.",
+      "Al-Balad a mezzogiorno: il quartiere si anima nel tardo pomeriggio, quando la luce arriva sul legno.",
+      "Foto alle persone, soprattutto alle donne: chiedere sempre il permesso.",
+      "Regole su abbigliamento e comportamento in pubblico: controllare i canali ufficiali prima di partire."
+    ],
+    // GUIDA-END
     esperienzeSlugs: ['al-balad-jeddah'],
     tripSlugs: ['arabia-saudita-itinerario'],
     imageAlt: 'La porta in pietra con due torri all\'ingresso del quartiere storico di Al-Balad, Jeddah',
@@ -148,6 +234,94 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     ],
     miaEsperienza:
       'Hegra è il motivo per cui si prende l\'aereo per l\'Arabia Saudita, e mantiene quello che promette, a patto di aggiustare le aspettative. Chi arriva pensando a "Petra senza la folla" trova un\'altra cosa: le tombe sono centoundici contro le centinaia di Petra, non c\'è un Siq che prepari la sorpresa e non c\'è un Tesoro. In compenso c\'è quello che altrove non c\'è più. Si sta davanti a una facciata nabatea scolpita duemila anni fa, alta dieci metri, con le iscrizioni ancora leggibili sull\'architrave, e intorno non c\'è nessuno: niente venditori, niente cammelli, niente gruppi. La Qasr al-Farid, la tomba solitaria rimasta incompiuta, sta da sola in mezzo al deserto e mostra come lavoravano: scolpivano dall\'alto verso il basso, e lei si vede a metà. Il resto della zona vale quanto Hegra. Jabal Ikmah è una parete di roccia coperta di iscrizioni in quattro alfabeti, lasciate da chi passava di qui duemilacinquecento anni fa: una specie di registro pubblico scolpito nella pietra. Sul piano pratico conta una cosa: si entra solo con la guida e con la prenotazione, e ad AlUla gli alloggi sono pochi e cari.',
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Hegra (Mada'in Salih)",
+        "testo": "Il primo sito saudita patrimonio UNESCO: 111 tombe monumentali nabatee scolpite nell'arenaria duemila anni fa, con le iscrizioni ancora leggibili. La Qasr al-Farid, la tomba solitaria, resta incompiuta: si vede come scolpivano dall'alto verso il basso.",
+        "come": "Solo con visita guidata contingentata, da prenotare online. Navetta dal centro visitatori.",
+        "quando": "Mattina o tardo pomeriggio, con meno caldo.",
+        "tempo": "2-3 ore",
+        "url": "https://www.experiencealula.com/",
+        "consiglio": "Prenotare con settimane di anticipo nei mesi di punta. Non è «Petra senza la folla»: è più piccola e più silenziosa."
+      },
+      {
+        "nome": "Jabal Ikmah",
+        "testo": "La «biblioteca a cielo aperto»: una parete di roccia coperta di centinaia di iscrizioni in dadanitico, lihyanita, nabateo e arabo antico, lasciate da chi passava nell'oasi 2.500 anni fa.",
+        "come": "Dal centro di AlUla in auto, circa 20 minuti; si visita con guida.",
+        "quando": "Mattina presto, con la luce radente che fa risaltare le incisioni.",
+        "tempo": "1-1,5 ore",
+        "url": "https://www.experiencealula.com/"
+      },
+      {
+        "nome": "Dadan",
+        "testo": "La capitale dei regni di Dadan e Lihyan, più antica di Hegra, con tombe-leone scavate nella roccia e un santuario.",
+        "come": "In auto da AlUla, circa 15 minuti.",
+        "quando": "Mattina.",
+        "tempo": "1,5 ore",
+        "url": "https://www.experiencealula.com/",
+        "consiglio": "Di solito si abbina a Jabal Ikmah."
+      },
+      {
+        "nome": "Città vecchia di AlUla ed Elephant Rock",
+        "testo": "Le case di fango abbandonate, ora restaurate, e la roccia a forma di elefante dove ci si trova al tramonto.",
+        "come": "Elephant Rock in auto dal centro; la città vecchia a piedi.",
+        "quando": "Tramonto.",
+        "tempo": "2 ore",
+        "consiglio": "Al tramonto sotto Elephant Rock si riunisce la gente del posto."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: Hegra con visita guidata, tramonto a Elephant Rock",
+          "Giorno 2: Jabal Ikmah all'alba, Dadan, città vecchia"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Città nuova di AlUla",
+        "perChi": "chi vuole prezzi normali",
+        "testo": "Alberghi di quartiere e locali a prezzi più bassi, un po' lontani dai siti."
+      },
+      {
+        "nome": "Resort nel deserto",
+        "perChi": "chi vuole il lusso",
+        "testo": "Poche strutture di alto livello, molto care e a volte lontane da tutto."
+      },
+      {
+        "nome": "Città vecchia",
+        "perChi": "chi vuole l'atmosfera storica",
+        "testo": "Ristoranti e caffè nella parte restaurata, con alloggi limitati."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Datteri di AlUla",
+        "testo": "Il prodotto dell'oasi, da comprare dai produttori."
+      },
+      {
+        "nome": "Kabsa",
+        "testo": "Riso speziato con carne, nei locali di quartiere."
+      },
+      {
+        "nome": "Caffè arabo",
+        "testo": "Con cardamomo, servito con datteri."
+      },
+      {
+        "nome": "Pane di forno",
+        "testo": "Cotto nei forni di quartiere."
+      }
+    ],
+    attenzioni: [
+      "Presentarsi a Hegra senza prenotazione: gli accessi sono contingentati e nei mesi di punta si esauriscono.",
+      "Prenotare l'alloggio all'ultimo: ad AlUla ci sono poche strutture e in alta stagione si riempiono.",
+      "D'estate la temperatura supera i 40 gradi: la visita è impossibile.",
+      "Fermarsi a Hegra e saltare Jabal Ikmah e Dadan: sono altrettanto interessanti."
+    ],
+    // GUIDA-END
     esperienzeSlugs: ['hegra-alula'],
     tripSlugs: ['arabia-saudita-itinerario'],
     imageAlt: 'Un dromedario in primo piano sulla sabbia di AlUla, con un pinnacolo di arenaria e le rocce del deserto sullo sfondo',
@@ -196,6 +370,87 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     ],
     miaEsperienza:
       'Riyadh spiega il paese meglio di ogni altra città, ma per la velocità con cui è cambiata più che per quello che mostra. Il Masmak Fort, la fortezza di fango da cui nel 1902 partì la riconquista di Ibn Saud, è incastrato tra i grattacieli, e in mezzo ci sono poco più di cento anni. Quello che mi è rimasto, però, è Diriyah, mezz\'ora fuori città: la prima capitale dei Saud, costruita tutta in mattoni di fango, distrutta dagli ottomani nel 1818 e restaurata negli ultimi anni. Al tramonto i muri passano dall\'ocra all\'arancione, e il quartiere di At-Turaif, con i palazzi a più piani e i motivi triangolari sulle facciate, sembra fare tutt\'uno con la terra da cui è fatto. L\'altra tappa è l\'Edge of the World, e per una volta il nome non esagera. Dopo un\'ora e mezza di pista si arriva sul bordo di una scarpata che scende per trecento metri su una pianura che si perde all\'orizzonte, senza recinzioni, senza biglietto e con pochissima gente intorno. Servono un 4x4 e una guida, perché non c\'è segnaletica e il telefono non prende.',
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "At-Turaif a Diriyah",
+        "testo": "Il quartiere della prima capitale dei Saud, patrimonio UNESCO, costruito in mattoni di fango, distrutto dagli ottomani nel 1818 e restaurato. Al tramonto i muri passano dall'ocra all'arancione.",
+        "come": "A circa mezz'ora da Riyadh con taxi o Uber. Ingresso con biglietto, si cammina nel sito.",
+        "quando": "Ultima ora di luce.",
+        "tempo": "2 ore",
+        "url": "https://www.visitsaudi.com/",
+        "consiglio": "Cenare nei locali di Bujairi Terrace per vedere il sito illuminato."
+      },
+      {
+        "nome": "Museo Nazionale Saudita",
+        "testo": "Il museo più completo per capire la storia della penisola, dalla preistoria all'islam fino al regno.",
+        "come": "Taxi o Uber da Riyadh, dentro il complesso del Murabba.",
+        "quando": "Mattina.",
+        "tempo": "2 ore",
+        "url": "https://www.visitsaudi.com/"
+      },
+      {
+        "nome": "Masmak Fort",
+        "testo": "La fortezza di fango incastrata tra i grattacieli da cui nel 1902 partì la riconquista di Riyadh da parte di Ibn Saud.",
+        "come": "Taxi o Uber, nel centro.",
+        "quando": "Pomeriggio.",
+        "tempo": "45 minuti"
+      },
+      {
+        "nome": "Edge of the World",
+        "testo": "Il bordo di una scarpata che scende per trecento metri su una pianura infinita, senza recinzioni. Dopo circa un'ora e mezza di pista nel deserto.",
+        "come": "Solo con 4x4 e guida o con un tour organizzato: non c'è segnaletica e il telefono prende a tratti.",
+        "quando": "Mattina o tardo pomeriggio.",
+        "tempo": "Mezza giornata",
+        "consiglio": "Andare con un tour: la pista è l'ultima parte e da soli ci si perde."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "2 giorni",
+        "tappe": [
+          "Giorno 1: Museo Nazionale e Masmak Fort, sera nei quartieri nuovi",
+          "Giorno 2: mattina Edge of the World, pomeriggio Diriyah al tramonto"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Olaya / centro",
+        "perChi": "chi vuole stare vicino ai servizi",
+        "testo": "Hotel moderni e centri commerciali."
+      },
+      {
+        "nome": "Diriyah",
+        "perChi": "chi vuole dormire vicino al sito storico",
+        "testo": "Pochi hotel nuovi, tranquilli e curati."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Kabsa",
+        "testo": "Riso speziato con carne, il piatto principale del Najd."
+      },
+      {
+        "nome": "Jareesh",
+        "testo": "Grano spezzato cotto a lungo con carne, più asciutto della cucina di Jeddah."
+      },
+      {
+        "nome": "Mutabbaq",
+        "testo": "Sfoglia ripiena di carne o formaggio."
+      },
+      {
+        "nome": "Caffè arabo",
+        "testo": "Con cardamomo, ovunque."
+      }
+    ],
+    attenzioni: [
+      "Edge of the World da soli con un'auto normale: l'ultimo tratto è pista senza segnaletica.",
+      "Visitare Diriyah a mezzogiorno: il fango riverbera, il bello è nell'ultima ora di luce.",
+      "Aspettarsi una città storica: Riyadh è quasi tutta costruita dopo gli anni Settanta.",
+      "D'estate si superano i 45-50 gradi."
+    ],
+    // GUIDA-END
     esperienzeSlugs: ['diriyah', 'edge-of-the-world'],
     tripSlugs: ['arabia-saudita-itinerario'],
     imageAlt: 'Le mura in mattoni crudi e la torre d\'angolo della fortezza di Masmak, Riyadh',
@@ -244,6 +499,85 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     ],
     miaEsperienza:
       'Ci siamo arrivati con il volo interno su Abha, e lassù è cambiato tutto: montagne verdi, nebbie, terrazzamenti coltivati. Il primo pomeriggio l\'abbiamo passato ad Abha, tra le case dipinte e il mercato. Il qatt asiri, i motivi geometrici colorati che le donne dipingono sugli interni delle case, è patrimonio immateriale UNESCO e non ha niente in comune con l\'austerità del Najd. Il giorno dopo l\'ho dedicato a Rijal Almaa, il villaggio di pietra e quarzo su più piani con le facciate che luccicano al sole, e nel pomeriggio abbiamo fatto il giro dei villaggi di montagna in auto, tra terrazzamenti e nebbia, fino a Habala, sulla scarpata. L\'ultima giornata è stata la più lenta: la funivia, i sentieri sul Jebel Sawda e il mercato del bestiame e dei fiori, dove i venditori portano le ghirlande sul capo. Da sapere: qui la stagione buona è l\'estate, quando il resto del Regno è invivibile e i sauditi salgono in massa a prendere il fresco.',
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Rijal Almaa",
+        "testo": "Il villaggio di pietra e quarzo su più piani, con le facciate che luccicano al sole, candidato a patrimonio UNESCO. Nelle case restaurate c'è un museo.",
+        "come": "In auto da Abha, circa 1,5-2 ore.",
+        "quando": "Mattina.",
+        "tempo": "Una giornata"
+      },
+      {
+        "nome": "Jebel Sawda e funivia dell'Asir",
+        "testo": "Il punto più alto del paese, con sentieri e la funivia che sale tra le nebbie.",
+        "come": "In auto da Abha.",
+        "quando": "Mattina presto, quando le nuvole sono basse.",
+        "tempo": "Mezza giornata"
+      },
+      {
+        "nome": "Habala",
+        "testo": "Il villaggio sulla scarpata che un tempo si raggiungeva solo con scale di corda.",
+        "come": "In auto, lungo la strada dei villaggi di montagna.",
+        "quando": "Pomeriggio.",
+        "tempo": "1,5 ore"
+      },
+      {
+        "nome": "Abha: case dipinte e mercato",
+        "testo": "Le case con il qatt asiri, i motivi geometrici colorati che le donne dipingono sugli interni, patrimonio immateriale UNESCO, e il mercato del bestiame e dei fiori.",
+        "come": "A piedi o in taxi nel centro.",
+        "quando": "Mercato al mattino.",
+        "tempo": "2 ore",
+        "consiglio": "Il mercato è ancora l'evento sociale della settimana: i venditori portano ghirlande sul capo."
+      }
+    ],
+    programmi: [
+      {
+        "titolo": "3 giorni",
+        "tappe": [
+          "Giorno 1: Abha, case dipinte e mercato",
+          "Giorno 2: Rijal Almaa e giro dei villaggi fino a Habala",
+          "Giorno 3: funivia e sentieri sul Jebel Sawda"
+        ]
+      }
+    ],
+    zone: [
+      {
+        "nome": "Abha",
+        "perChi": "chi vuole una base con servizi",
+        "testo": "Hotel e ristoranti, vicino alla funivia e al mercato."
+      },
+      {
+        "nome": "Villaggi di montagna",
+        "perChi": "chi vuole quiete",
+        "testo": "Poche guesthouse, serve l'auto."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Areeka",
+        "testo": "Pane con miele e burro chiarificato."
+      },
+      {
+        "nome": "Miele dell'Asir",
+        "testo": "Il più pregiato della penisola, nei mercati."
+      },
+      {
+        "nome": "Cereali e verdure",
+        "testo": "La cucina di montagna ne usa più che nel resto del paese."
+      },
+      {
+        "nome": "Caffè arabo",
+        "testo": "Con cardamomo."
+      }
+    ],
+    attenzioni: [
+      "Qui la stagione buona è l'estate, fresca e verde; l'inverno è freddo e nebbioso.",
+      "Senza auto non si va: i villaggi sono sparsi su decine di chilometri.",
+      "Visitarla di corsa: in un giorno si vede solo la strada.",
+      "Evitare la zona di confine: seguire gli avvisi ufficiali."
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['arabia-saudita-itinerario'],
     imageAlt: 'Le case di Abha tra il verde, viste dall\'alto nella foschia delle montagne dell\'Asir',
@@ -290,6 +624,54 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     ],
     miaEsperienza:
       'Non ci sono ancora stato, e la scheda si ferma ai fatti invece di raccontare una giornata inventata. È in lista per un motivo che ha una scadenza. Questi reef sono tra i meno danneggiati del Mar Rosso perché fino al 2019 quasi nessun turista poteva arrivarci, e adesso su questa costa stanno nascendo alcuni dei più grandi progetti turistici mai avviati al mondo. Il periodo in cui Umluj resta un porto di pescatori con un centinaio di isole bianche davanti e nessuna struttura sarà, con ogni probabilità, breve. Va anche detto con onestà cosa comporta: niente servizi, pochi operatori, nessuno standard garantito, e le regole del paese valgono anche in spiaggia, dove sulle spiagge pubbliche si entra in acqua vestiti. Non è una meta balneare come la intendiamo noi: è una costa che si sta aprendo adesso.',
+    // GUIDA-START
+    luoghi: [
+      {
+        "nome": "Arcipelago di Umluj",
+        "testo": "Un centinaio di isole di sabbia bianca e banchi corallini al largo del porto di pescatori. È una costa dove i grandi progetti turistici non sono ancora arrivati.",
+        "come": "Si va in barca da Umluj.",
+        "quando": "Da ottobre ad aprile.",
+        "tempo": "Una giornata"
+      },
+      {
+        "nome": "Reef del Mar Rosso settentrionale",
+        "testo": "Reef con visibilità altissima e poco rovinati perché fino al 2019 quasi nessun turista poteva arrivarci. Snorkeling, immersioni e, in stagione, delfini e squali balena.",
+        "come": "Operatori locali, ancora pochi.",
+        "quando": "Da ottobre ad aprile.",
+        "tempo": "Mezza giornata"
+      }
+    ],
+    zone: [
+      {
+        "nome": "Umluj",
+        "perChi": "chi vuole una base semplice",
+        "testo": "Alloggi economici nel porto, senza strutture turistiche."
+      }
+    ],
+    sapori: [
+      {
+        "nome": "Pesce",
+        "testo": "Nei ristoranti dei porti e dei villaggi, a prezzi bassi."
+      },
+      {
+        "nome": "Riso e carne",
+        "testo": "Piatti semplici nei locali della costa."
+      },
+      {
+        "nome": "Caffè arabo",
+        "testo": "Con cardamomo."
+      },
+      {
+        "nome": "Datteri",
+        "testo": "Dalle oasi dell'interno."
+      }
+    ],
+    attenzioni: [
+      "Qui non ci sono ancora strutture turistiche: è il pregio e il limite della zona.",
+      "Operatori subacquei di livello internazionale: la scena è agli inizi, da valutare caso per caso.",
+      "Fuori dai resort chiusi valgono le regole del paese: nelle spiagge pubbliche si entra in acqua vestiti."
+    ],
+    // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: [],
     imageAlt: 'Le case basse e bianche di Umluj viste dall\'alto, con il Mar Rosso blu all\'orizzonte',
