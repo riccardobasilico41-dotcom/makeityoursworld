@@ -17,3 +17,5 @@
 - https://www.warmemo.or.kr/ (errore: URLError)
 - https://railway.gov.lk (errore: URLError)
 - https://cosituc.gob.pe/ (404)
+- https://www.1000islandsboatline.com/ (errore: URLError)
+- https://www.distillerydistrict.com/ (errore: URLError)
