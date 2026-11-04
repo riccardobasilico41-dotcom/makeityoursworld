@@ -39,6 +39,101 @@ export const destinazioniPanama: Destinazione[] = [
     ],
     miaEsperienza:
       "From the airport we went straight to the Casco Viejo, and the first impact was a skyline of skyscrapers that looked like nothing we'd seen in the previous three weeks. The next day, in the morning, the Miraflores Locks: the ship transit times need to be checked beforehand, because without a ship maneuvering you're looking at an empty concrete basin, while a container ship coming in with a few inches of margin on each side is worth the detour by itself. In the afternoon the ruins of Panamá Viejo and a walk in the Casco Viejo, where the most interesting thing to look at is the contrast between renovated buildings and facades still propped up. We had lunch at the Mercado de Mariscos with a ceviche in a plastic cup for a couple of dollars. Outside the tourist areas of the Casco, after sunset, it's better not to walk around.",
+      "luoghi": [
+        {
+          "nome": "Miraflores Locks",
+          "testo": "The Panama Canal locks where ships are raised and lowered between the two levels, with a visitor centre, museum and viewing terrace.",
+          "come": "Taxi or Uber from Panama City, about 20-30 minutes. Entry ticket at the visitor centre.",
+          "quando": "Morning: check ship transit times in advance, because without a ship in motion you are looking at an empty basin.",
+          "tempo": "2-3 hours",
+          "url": "https://pancanal.com/",
+          "consiglio": "A container ship entering with a few centimetres of clearance on each side is worth the detour alone."
+        },
+        {
+          "nome": "Casco Viejo",
+          "testo": "The colonial historic centre, a UNESCO site: Plaza de la Independencia, churches, restored palaces and façades still propped up, among cafés and rooftops.",
+          "come": "On foot once you arrive; the district can be seen in a day.",
+          "quando": "Morning and sunset; in the evening stay on the tourist streets.",
+          "tempo": "Half a day",
+          "consiglio": "The contrast between restored buildings and propped-up façades is the most interesting thing to look at. Outside the tourist areas, after sunset, better not to walk."
+        },
+        {
+          "nome": "Panamá Viejo",
+          "testo": "The ruins of the original city, founded in 1519 and destroyed by pirates in 1671, with the cathedral tower.",
+          "come": "Taxi from the centre, about 15-20 minutes.",
+          "quando": "Morning, before the heat.",
+          "tempo": "1.5 hours",
+          "url": "https://www.visitpanama.com/"
+        },
+        {
+          "nome": "Mercado de Mariscos",
+          "testo": "The fish market near Casco Viejo, with ceviche stalls served in cups.",
+          "come": "On foot from Casco Viejo, 10 minutes.",
+          "quando": "Lunch.",
+          "tempo": "1 hour",
+          "consiglio": "Ceviche in a plastic cup for a couple of dollars."
+        },
+        {
+          "nome": "Biomuseo",
+          "testo": "The museum designed by Frank Gehry on Calzada de Amador, about the rise of the isthmus of Panama and biodiversity.",
+          "come": "Taxi or Uber.",
+          "quando": "Morning.",
+          "tempo": "2 hours"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 day",
+          "tappe": [
+            "Morning: Miraflores Locks with a ship in transit",
+            "Lunch at the Mercado de Mariscos",
+            "Afternoon: Casco Viejo",
+            "Sunset over the sea from the Cinta Costera"
+          ]
+        },
+        {
+          "titolo": "2 days",
+          "tappe": [
+            "Day 1: Miraflores, Casco Viejo",
+            "Day 2: Panamá Viejo, Biomuseo, Calzada de Amador"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Casco Viejo",
+          "perChi": "atmosphere and venues",
+          "testo": "Hotels and restaurants in restored buildings, on foot. Pricier, noisy at night on weekends."
+        },
+        {
+          "nome": "Bella Vista and Obarrio",
+          "perChi": "services and prices",
+          "testo": "A district of skyscrapers, hotels and restaurants, well connected by taxi."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Ceviche",
+          "testo": "Raw fish marinated in lime, at the Mercado de Mariscos."
+        },
+        {
+          "nome": "Sancocho",
+          "testo": "Chicken soup with yuca and coriander, the national dish."
+        },
+        {
+          "nome": "Arroz con pollo",
+          "testo": "Chicken rice with vegetables, in the fondas."
+        },
+        {
+          "nome": "Patacones",
+          "testo": "Fried, flattened green plantain, to go with dishes."
+        }
+      ],
+      "attenzioni": [
+        "Outside the tourist Casco, after sunset, do not walk: use taxis or apps.",
+        "Before going to Miraflores check ship transit times.",
+        "Taxis without meter: agree the price before leaving or use Uber."
+      ],
     esperienzeSlugs: ['chiuse-miraflores'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: "The skyline of Panama City's skyscrapers seen from a terrace in the Casco Viejo",
@@ -81,6 +176,90 @@ export const destinazioniPanama: Destinazione[] = [
     ],
     miaEsperienza:
       "Getting there was the most demanding transfer of the second part: wake-up around five, almost three hours of 4x4 on a mountain road with steep grades to the port of Cartí, then the boat to the islands. It's worth knowing what you're getting into. Guna Yala is a self-governed territory: the Guna run the tourism and the entry fee is paid to them, in cash only, because there are no ATMs or cards on the islands. Our cabaña was basic by choice, run by a Guna family: electricity on a schedule, rationed fresh water, almost no wifi, meals included. We spent the full day on the boat among Isla Perro, with the wreck to snorkel, Isla Aguja, the Cayos Holandeses and the natural pools in the middle of the sea. The rules belong to the community: you ask permission before photographing people and houses, nothing is taken away from the islands and scuba diving is prohibited.",
+      "luoghi": [
+        {
+          "nome": "Isla Perro and the wreck",
+          "testo": "A small island with a shipwreck a few metres from shore, perfect for snorkelling in shallow, clear water.",
+          "come": "By boat from the islands where you sleep, on a day tour.",
+          "quando": "Morning, with calm sea.",
+          "tempo": "1-2 hours",
+          "consiglio": "You snorkel without tanks: scuba diving is banned by the community."
+        },
+        {
+          "nome": "Isla Aguja and Cayos Holandeses",
+          "testo": "Islets with palms and white sand, turquoise water and shallow seabeds.",
+          "come": "Boat tour among the islands, included in the package.",
+          "quando": "Morning, in clear light.",
+          "tempo": "Day"
+        },
+        {
+          "nome": "Natural pools in the middle of the sea",
+          "testo": "Sandbanks with knee-deep water, surrounded by open sea.",
+          "come": "By boat from the cabaña.",
+          "quando": "Morning.",
+          "tempo": "1 hour"
+        },
+        {
+          "nome": "Guna villages and molas",
+          "testo": "The Guna villages, where you buy molas, traditional hand-sewn textiles. Guna Yala is a self-governed territory.",
+          "come": "Visit from one of the inhabited islands, with the residents' permission.",
+          "quando": "Daytime.",
+          "tempo": "1-2 hours",
+          "consiglio": "Ask permission before photographing people and houses, and take nothing away from the islands."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 day",
+          "tappe": [
+            "Leave Panama City at dawn by 4x4 for Cartí",
+            "Boat to the islands, snorkelling at Isla Perro",
+            "Return towards evening, often too tight for a single day"
+          ]
+        },
+        {
+          "titolo": "2 days",
+          "tappe": [
+            "Day 1: 4x4 to Cartí, boat, night in a cabaña",
+            "Day 2: tour among Isla Perro, Isla Aguja, Cayos Holandeses, natural pools, then return"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Cabaña on a Guna island",
+          "perChi": "authentic experience",
+          "testo": "Basic by choice: electricity on a schedule, rationed fresh water, almost no wifi, meals included, run by a Guna family."
+        },
+        {
+          "nome": "Accommodation on the mainland at Cartí",
+          "perChi": "those who want to arrive at dawn",
+          "testo": "Less atmospheric, but avoids the night departure."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Grilled fish and lobster",
+          "testo": "The Guna catch, often included in meals."
+        },
+        {
+          "nome": "Rice and beans",
+          "testo": "The base of every meal, with fried plantain."
+        },
+        {
+          "nome": "Patacones",
+          "testo": "Fried plantain, as a side."
+        },
+        {
+          "nome": "Coconut",
+          "testo": "Fresh coconut water and pieces of flesh, gathered on the island."
+        }
+      ],
+      "attenzioni": [
+        "The Guna Yala entrance fee is paid to the Guna, in cash only: there are no ATMs or cards on the islands.",
+        "The trip from Panama City starts around 5 and takes almost three hours by 4x4 on a steep mountain road: if you get carsick, take a remedy.",
+        "Community rules: ask permission before photographing people and houses, take nothing from the islands, no scuba."
+      ],
     esperienzeSlugs: ['notte-isola-san-blas'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: "White sand islet with palm trees and huts in the San Blas archipelago, Panama",
@@ -126,6 +305,90 @@ export const destinazioniPanama: Destinazione[] = [
     ],
     miaEsperienza:
       "From Boquete we got to Bocas overland as far as Almirante and then by water taxi, and it was the opposite of San Blas: stilt houses, a much more social and noisy atmosphere, hostels and people who almost always stay longer than planned. The next day we did the boat tour among the islets: Cayo Zapatilla, often the most beautiful point of the whole tour, and Starfish Beach, which lives up to its name with sea stars in water barely over three feet deep, plus a snorkeling stop at Cayo Coral. Outings to the outer cayos get canceled in rough seas, and that's something to allow for. Two practical warnings: here the weather follows its own microclimate and not the dry season of the rest of Panama, and the sands are infested with chitres, sand flies that bite without you feeling it and leave marks for days. In the evening, in Bocas Town, live music and parties that often move by boat to the nearby islands.",
+      "luoghi": [
+        {
+          "nome": "Isla Colón and Bocas Town",
+          "testo": "The main town of the archipelago, with colourful wooden houses on stilts, hostels and nightlife.",
+          "come": "Arrive by water taxi from Almirante or by plane from Panama City.",
+          "quando": "Evening, for live music and parties.",
+          "tempo": "Half a day"
+        },
+        {
+          "nome": "Cayo Zapatilla",
+          "testo": "Two uninhabited islets in the Bastimentos marine park, with white sand and forest. Often the best stop on boat tours.",
+          "come": "With a boat tour from Bocas Town; park entry extra.",
+          "quando": "Morning, with calm sea.",
+          "tempo": "Half a day",
+          "consiglio": "Trips to the outer cayos are cancelled in rough sea: factor this in."
+        },
+        {
+          "nome": "Starfish Beach",
+          "testo": "The starfish beach: you see them in water just over a metre deep, and the name's promise is kept.",
+          "come": "Stop on boat tours or by water taxi.",
+          "quando": "Morning.",
+          "tempo": "45 minutes-1 hour",
+          "consiglio": "Do not touch or take the starfish out of the water."
+        },
+        {
+          "nome": "Cayo Coral and Isla Bastimentos",
+          "testo": "Shallow-water snorkelling at Cayo Coral; Bastimentos has the national marine park and Red Frog Beach.",
+          "come": "Boat tour from Bocas Town.",
+          "quando": "Morning.",
+          "tempo": "Half a day"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 day",
+          "tappe": [
+            "Morning: boat tour to Cayo Zapatilla, Starfish Beach, Cayo Coral",
+            "Afternoon: rest in Bocas Town",
+            "Evening: live music"
+          ]
+        },
+        {
+          "titolo": "2 days",
+          "tappe": [
+            "Day 1: tour of the cayos",
+            "Day 2: Red Frog Beach on Bastimentos and an evening boat ride to nearby islands"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Bocas Town",
+          "perChi": "social life",
+          "testo": "Hostels, bars and restaurants, noisy. People who almost always stay longer than planned."
+        },
+        {
+          "nome": "Bastimentos and Carenero",
+          "perChi": "quiet",
+          "testo": "Few services, more nature and silence."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Coconut fish",
+          "testo": "Caribbean dish with coconut milk and fish."
+        },
+        {
+          "nome": "Rondón",
+          "testo": "Fish, plantain and yuca stew in coconut milk."
+        },
+        {
+          "nome": "Patacones",
+          "testo": "Fried plantain with ceviche or cheese."
+        },
+        {
+          "nome": "Seafood",
+          "testo": "Crabs and lobster, in season and in seaside restaurants."
+        }
+      ],
+      "attenzioni": [
+        "Bocas has its own microclimate and rains, not the dry season of the rest of Panama.",
+        "Chitres, biting midges that sting without being noticed and leave marks for days, infest the sands: repellent.",
+        "Trips to the outer cayos are cancelled when the sea is rough."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: "Colorful little stilt houses and a wooden pier over the water at Bocas del Toro, Panama",
@@ -170,6 +433,97 @@ export const destinazioniPanama: Destinazione[] = [
     ],
     miaEsperienza:
       "We got there from San Blas via Panama City and the flight to David, and after the humid heat of the islands Boquete was a physical relief: you sleep with the window open and no fan, something that almost never happens in the rest of the trip. We did the tour of a coffee finca with tasting, and this is where you taste Geisha for a fraction of what it costs elsewhere. The next night we set out around midnight for Barú: eight miles (thirteen kilometers) of dirt track each way, in the dark, with the cold increasing, to reach the 3,475-meter summit before dawn. The view of the two oceans together only comes with a completely clear sky, that is on a few good days even in the dry season; even without that luck, the night climb with the valleys lit up below is worth the effort. By late morning we were back in Boquete.",
+      "luoghi": [
+        {
+          "nome": "Barú volcano",
+          "testo": "The highest peak in Panama (3,475 m), from which with clear skies you see the Pacific and Atlantic together. Night climb for sunrise.",
+          "come": "Departure around midnight by pick-up and 4x4 on 13 km of dirt track, or on foot with a guide.",
+          "quando": "Sunrise, with completely clear skies, which means few good days even in the dry season.",
+          "tempo": "Night-morning",
+          "consiglio": "Without the view of two oceans, the night climb with the lit valleys below is still worth the effort. Bring warm layers."
+        },
+        {
+          "nome": "Sendero Los Quetzales",
+          "testo": "One of the best places in the world to see the quetzal, in the cloud forest between Boquete and Cerro Punta.",
+          "come": "A trail of a few hours, with a guide or independently.",
+          "quando": "Early morning; the best period for the quetzal is the nesting season, roughly April-June.",
+          "tempo": "4-5 hours"
+        },
+        {
+          "nome": "Coffee finca tour",
+          "testo": "A visit to a plantation with tasting, including Geisha, Boquete's prized coffee, at a fraction of the price elsewhere.",
+          "come": "Half-day tour bookable in town.",
+          "quando": "Morning.",
+          "tempo": "2-3 hours",
+          "consiglio": "Geisha can be tasted here at a fraction of what it costs elsewhere."
+        },
+        {
+          "nome": "Waterfalls and Caldera Hot Springs",
+          "testo": "Lost Waterfalls, a route of three waterfalls, and the natural hot springs of Caldera.",
+          "come": "Car or taxi from Boquete.",
+          "quando": "Daytime.",
+          "tempo": "Half a day"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 day",
+          "tappe": [
+            "Coffee finca tour with tasting",
+            "Afternoon: Lost Waterfalls or Caldera Hot Springs"
+          ]
+        },
+        {
+          "titolo": "2 days",
+          "tappe": [
+            "Day 1: coffee and rest (Boquete is cool)",
+            "Day 2: Sendero Los Quetzales in the morning, night climb of Barú"
+          ]
+        },
+        {
+          "titolo": "3 days",
+          "tappe": [
+            "Day 1: coffee",
+            "Day 2: Sendero Los Quetzales",
+            "Day 3: Barú at dawn, then rest"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Boquete",
+          "perChi": "services and life",
+          "testo": "Restaurants, tours, hotels; cooler than the rest of Panama, you sleep with the window open."
+        },
+        {
+          "nome": "Surroundings and fincas",
+          "perChi": "nature and quiet",
+          "testo": "Lodges among coffee and forest, far from services."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Geisha coffee",
+          "testo": "The prized coffee of the area, to taste at a finca or in a Boquete café."
+        },
+        {
+          "nome": "Sancocho",
+          "testo": "Chicken soup with yuca and coriander."
+        },
+        {
+          "nome": "Trout",
+          "testo": "Farmed in highland rivers, in restaurants of the area."
+        },
+        {
+          "nome": "Strawberries and highland vegetables",
+          "testo": "Products of the Boquete markets."
+        }
+      ],
+      "attenzioni": [
+        "Barú is climbed at night: warm layers, torch and guide; the cold increases with altitude.",
+        "The view of two oceans from the summit is only possible with fully clear skies, on few good days.",
+        "Rain and fog can change plans: keep a day in hand."
+      ],
     esperienzeSlugs: ['alba-volcan-baru'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: "Rainbow over the green hills around Boquete, in the Chiriquí highlands, Panama",

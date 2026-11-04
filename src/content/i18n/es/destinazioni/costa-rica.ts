@@ -28,6 +28,93 @@ export const destinazioniCostaRica: Destinazione[] = [
     erroriDaEvitare: ['Evitar el centro de la ciudad después de anochecer: mejor moverse siempre en grupo o en Uber', 'Cambiar moneda solo en bancos o casas de cambio autorizadas, nunca en la calle'],
     miaEsperienza:
       'San José en sí ofrece poco al turista. La cena en el Jardín de Lolita, entre los food trucks y con todo el grupo sentado junto, nos hizo socializar desde la primera noche.',
+      "luoghi": [
+        {
+          "nome": "Mercado Central",
+          "testo": "El mercado cubierto del centro, fundado en 1880, con puestos de comida, café, artesanía y las sodas que sirven el casado del día.",
+          "come": "A pie desde el centro. Se entra por las calles laterales de la Avenida Central.",
+          "quando": "Mañana y mediodía; cierra por la tarde.",
+          "tempo": "1-1,5 horas",
+          "consiglio": "Comer en una soda dentro del mercado es la forma más barata de probar la cocina casera."
+        },
+        {
+          "nome": "Barrio Amón",
+          "testo": "Barrio de casas de madera y ladrillo de principios del siglo XX, antiguas casas de los barones del café, hoy con galerías, cafés y hoteles con encanto.",
+          "come": "A pie, al norte del centro, 10-15 minutos.",
+          "quando": "Mañana, con buena luz.",
+          "tempo": "1-2 horas",
+          "consiglio": "Mejor no caminar con el teléfono en la mano, y de noche son preferibles los taxis."
+        },
+        {
+          "nome": "Museo Nacional",
+          "testo": "Alojado en el antiguo Cuartel Bellavista, con salas de historia, arqueología y naturaleza del país, frente a la Asamblea Legislativa.",
+          "come": "A pie desde el centro.",
+          "quando": "Martes a domingo, por la mañana.",
+          "tempo": "1,5 horas",
+          "url": "https://www.sinac.go.cr/"
+        },
+        {
+          "nome": "Teatro Nacional",
+          "testo": "El teatro de ópera neoclásico de 1897, rico en frescos, en pleno centro. Merece la visita aunque sea por el café interior.",
+          "come": "A pie desde el centro, en la Plaza de la Cultura.",
+          "quando": "Mañana.",
+          "tempo": "1 hora",
+          "consiglio": "Reservar con antelación si se quiere asistir a un espectáculo."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 día",
+          "tappe": [
+            "Mercado Central y almuerzo en una soda",
+            "Teatro Nacional y Plaza de la Cultura",
+            "Barrio Amón por la tarde",
+            "Cena en un food truck del Jardín de Lolita"
+          ]
+        },
+        {
+          "titolo": "2 días",
+          "tappe": [
+            "Día 1 como arriba",
+            "Día 2: excursión a un volcán (Poás o Irazú) en el día, o café y Museo Nacional"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Barrio Amón y Otoya",
+          "perChi": "quien busca ambiente",
+          "testo": "Casas históricas, cafés y algo de vida nocturna; barrio para cruzar con cuidado después del atardecer."
+        },
+        {
+          "nome": "Cerca del aeropuerto (Alajuela)",
+          "perChi": "llegada o salida tarde",
+          "testo": "Hoteles cómodos para vuelos temprano o tarde; poco que ver."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Casado",
+          "testo": "El plato del día con arroz, frijoles, ensalada, plátano y carne o pescado. Se come en las sodas."
+        },
+        {
+          "nome": "Gallo pinto",
+          "testo": "Arroz y frijoles salteados con especias, para el desayuno con huevos y natilla."
+        },
+        {
+          "nome": "Chifrijo",
+          "testo": "Arroz, frijoles, chicharrón y pico de gallo, una botana de bar."
+        },
+        {
+          "nome": "Café costarricense",
+          "testo": "Se compra en cooperativas y tiendas del centro; entre los mejores de Centroamérica."
+        }
+      ],
+      "attenzioni": [
+        "San José ofrece poco al turista: es una base de un par de días, no un destino.",
+        "No caminar de noche fuera del centro turístico ni en los barrios detrás de la estación; usar taxis oficiales o apps.",
+        "Carteristas en mercados y buses: llevar solo lo necesario."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: 'El centro de San José, capital de Costa Rica',
@@ -61,6 +148,92 @@ export const destinazioniCostaRica: Destinazione[] = [
     erroriDaEvitare: ['Reservar el tour de Cahuita y el rafting en el Pacuaré con al menos una semana de antelación', 'De noche moverse siempre en grupo, sobre todo las chicas solas'],
     miaEsperienza:
       'Pedaleamos por la costa hasta Punta Uva, con los monos aulladores que se oían desde los árboles sobre la cabeza: para conocer el Caribe costarricense fue la forma más sencilla y más verdadera.',
+      "luoghi": [
+        {
+          "nome": "Parque Nacional Cahuita",
+          "testo": "Un sendero costero de unos 8 km entre playa, selva y el mar con su arrecife. Se ven perezosos, monos, mapaches y aves.",
+          "come": "Entrada por Cahuita o por el lado de Puerto Vargas. El sendero bordea la playa, en parte con vados.",
+          "quando": "Mañana temprano, cuando los animales están activos.",
+          "tempo": "3-4 horas",
+          "consiglio": "Con guía local se ven muchos más animales. Hay una ficha de experiencia dedicada a un tour completo con el guía José."
+        },
+        {
+          "nome": "Punta Uva y Playa Chiquita",
+          "testo": "Playas de arena clara al sur de Puerto Viejo, con palmeras y selva detrás. Desde aquí se oyen los monos aulladores en los árboles.",
+          "come": "En bici por la costa desde Puerto Viejo, unos 20-30 minutos; alquiler en el pueblo.",
+          "quando": "Mañana o última hora de la tarde.",
+          "tempo": "Media jornada",
+          "consiglio": "Pedalear por la costa es la forma más sencilla y más real de conocer el Caribe costarricense."
+        },
+        {
+          "nome": "Playa Cocles",
+          "testo": "La playa más larga y concurrida, con olas para surfear y bares en la arena.",
+          "come": "En bici o a pie desde el pueblo.",
+          "quando": "Última hora de la tarde para el happy hour.",
+          "tempo": "2-3 horas",
+          "consiglio": "Las corrientes son fuertes: bañarse con cuidado, normalmente sin vigilancia."
+        },
+        {
+          "nome": "Río Pacuare (rafting)",
+          "testo": "Un descenso por el río Pacuare, entre gargantas y selva, excursión opcional muy solicitada en la zona.",
+          "come": "Tour organizado desde Puerto Viejo, a reservar con una semana de antelación.",
+          "quando": "Consultar con el operador la mejor época.",
+          "tempo": "Día completo",
+          "consiglio": "Reservar con una semana de antelación."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 día",
+          "tappe": [
+            "Mañana: bici hasta Punta Uva",
+            "Almuerzo de comida caribeña",
+            "Tarde: Playa Cocles y happy hour"
+          ]
+        },
+        {
+          "titolo": "2 días",
+          "tappe": [
+            "Día 1: bici por la costa hasta Punta Uva",
+            "Día 2: Parque de Cahuita con guía, luego un baño"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Centro de Puerto Viejo",
+          "perChi": "vida social y restaurantes",
+          "testo": "Todo cerca pero música por la noche, a veces fuerte."
+        },
+        {
+          "nome": "Playa Cocles y Punta Uva",
+          "perChi": "calma y naturaleza",
+          "testo": "Cabañas en la selva, pero hace falta bici o taxi para cenar."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Rice and beans caribeño",
+          "testo": "Arroz y frijoles cocidos en leche de coco, con pollo o pescado."
+        },
+        {
+          "nome": "Pollo y pescado al coco",
+          "testo": "Especialidad caribeña, en pequeños locales del pueblo."
+        },
+        {
+          "nome": "Patacones y ceviche",
+          "testo": "Plátano frito y ceviche fresco, cerca de las playas."
+        },
+        {
+          "nome": "Pan bon",
+          "testo": "Pan dulce caribeño con fruta, típico de estas costas."
+        }
+      ],
+      "attenzioni": [
+        "Robos en playas y bungalows: no dejar nada sin vigilancia.",
+        "El mar y las corrientes en Playa Cocles son fuertes: bañarse con prudencia.",
+        "El tiempo caribeño es más lluvioso e imprevisible que el del Pacífico: dejar margen de días."
+      ],
     esperienzeSlugs: ['tour-cahuita'],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: 'La playa caribeña de Punta Uva cerca de Puerto Viejo, Costa Rica',
@@ -93,6 +266,90 @@ export const destinazioniCostaRica: Destinazione[] = [
     erroriDaEvitare: [],
     miaEsperienza:
       'El trayecto en barco de Moín a Tortuguero, entre canales de selva con cocodrilos y monos en las orillas, fue uno de los traslados más bonitos de todo el viaje, una experiencia en sí misma.',
+      "luoghi": [
+        {
+          "nome": "Canales de Tortuguero",
+          "testo": "Una red de canales de manglar y selva en el noreste, habitada por caimanes, cocodrilos, monos, garzas y martines pescadores. Se navega en barca con motor de bajo impacto.",
+          "come": "Barca desde Moín o desde la zona de Cariari-La Pavona, largas horas de traslado. El pueblo no tiene carreteras.",
+          "quando": "Mañana temprano, por los animales y la luz.",
+          "tempo": "2-3 horas",
+          "consiglio": "El traslado de Moín a Tortuguero, entre canales y selva, es uno de los más bonitos del viaje y vale como experiencia en sí."
+        },
+        {
+          "nome": "Kayak al amanecer en los manglares",
+          "testo": "Kayak en silencio por canales laterales, sin motor, para acercarse a aves y reptiles.",
+          "come": "Con guía del lodge, salida antes del amanecer. Hay una ficha de experiencia dedicada.",
+          "quando": "Amanecer.",
+          "tempo": "2 horas"
+        },
+        {
+          "nome": "Cerro Tortuguero",
+          "testo": "Una colina de unos 120 metros con vista a canales, mar y selva.",
+          "come": "Sendero corto desde el pueblo, para hacer por cuenta propia.",
+          "quando": "Mañana.",
+          "tempo": "1-1,5 horas",
+          "consiglio": "Llevar agua y repelente: en el bosque húmedo hay muchos mosquitos."
+        },
+        {
+          "nome": "Anidación de tortugas",
+          "testo": "Entre julio y octubre las tortugas verdes ponen huevos en la playa por la noche. Solo se observan con guías autorizados.",
+          "come": "Excursión nocturna con guía autorizado, en grupos pequeños y con reglas estrictas.",
+          "quando": "Noche; julio-octubre.",
+          "tempo": "2-3 horas",
+          "consiglio": "Sin luces ni flash: seguir al guía y mantener la distancia."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "2 días",
+          "tappe": [
+            "Día 1: barca desde Moín, llegada al pueblo, paseo a pie",
+            "Día 2: kayak al amanecer, canales en barca, Cerro Tortuguero"
+          ]
+        },
+        {
+          "titolo": "3 días",
+          "tappe": [
+            "Días 1-2 como arriba",
+            "Día 3: anidación nocturna (julio-octubre) o trekking en el parque"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Lodges en los canales",
+          "perChi": "quien quiere sumergirse en la naturaleza",
+          "testo": "Paquetes con comidas y excursiones, aislados y silenciosos. A menudo los únicos servicios son los del lodge."
+        },
+        {
+          "nome": "Pueblo de Tortuguero",
+          "perChi": "presupuesto",
+          "testo": "Cabinas sencillas y restaurantes, con el ruido del pueblo."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Casado caribeño",
+          "testo": "Arroz, frijoles, pescado o pollo al coco."
+        },
+        {
+          "nome": "Pescado de río y de mar",
+          "testo": "Camarones y pescado fresco, fritos o a la plancha."
+        },
+        {
+          "nome": "Fruta tropical",
+          "testo": "Papaya, piña y plátanos de los alrededores."
+        },
+        {
+          "nome": "Gallo pinto",
+          "testo": "Para el desayuno, con huevos y plátano."
+        }
+      ],
+      "attenzioni": [
+        "La región es muy lluviosa todo el año: chaqueta impermeable y fundas.",
+        "En el parque las reglas sobre la anidación son estrictas: sin luces ni flash, solo con guía autorizado.",
+        "Mosquitos y humedad: repelente y ropa ligera de manga larga."
+      ],
     esperienzeSlugs: ['barca-tortuguero', 'kayak-tortuguero'],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: 'Un canal de selva hacia el pueblo de Tortuguero, Costa Rica',
@@ -124,6 +381,84 @@ export const destinazioniCostaRica: Destinazione[] = [
     erroriDaEvitare: ['Hacer provisión de bebidas en el supermercado por el camino antes de llegar al lodge'],
     miaEsperienza:
       'La clase de cocina en el lodge, con las empanadas preparadas a mano que luego se convirtieron en nuestra cena, fue un momento de convivencia distinto del resto del viaje, más lento y más verdadero.',
+      "luoghi": [
+        {
+          "nome": "Rafting en el Río Sarapiquí",
+          "testo": "Un descenso por el río con rápidos moderados y selva, apto también para principiantes. Hay una ficha de experiencia dedicada.",
+          "come": "Tour organizado desde el lodge o con operadores locales, con guía y equipo.",
+          "quando": "Mañana; estación verde para más agua.",
+          "tempo": "Media jornada"
+        },
+        {
+          "nome": "Cataratas Bajas del Toro",
+          "testo": "Una cascada con sendero y mirador, inmersa en la selva. Excursión opcional.",
+          "come": "En coche o con tour desde el lodge, aproximadamente 1 hora.",
+          "quando": "Mañana.",
+          "tempo": "Media jornada"
+        },
+        {
+          "nome": "Clase de cocina en el lodge",
+          "testo": "Lección de cocina costarricense, típicamente empanadas hechas a mano que se convierten en la cena.",
+          "come": "Incluida en el paquete del lodge.",
+          "quando": "Tarde.",
+          "tempo": "2 horas",
+          "consiglio": "Un momento de convivencia, más lento y más real que el resto del viaje."
+        },
+        {
+          "nome": "Selva del lodge",
+          "testo": "Senderos en la selva alrededor del lodge, con aves, ranas y monos.",
+          "come": "A pie desde el lodge con guía.",
+          "quando": "Amanecer.",
+          "tempo": "1-2 horas"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 día",
+          "tappe": [
+            "Mañana: rafting",
+            "Almuerzo en el lodge",
+            "Tarde: clase de cocina"
+          ]
+        },
+        {
+          "titolo": "2 días",
+          "tappe": [
+            "Día 1: rafting y clase de cocina",
+            "Día 2: Cataratas Bajas del Toro, luego traslado hacia Arenal"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Lodge en la selva",
+          "perChi": "quien busca naturaleza",
+          "testo": "Alojamientos aislados, con actividades incluidas, pero lejos de los pueblos."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Empanadas",
+          "testo": "Hechas a mano en la clase de cocina."
+        },
+        {
+          "nome": "Casado",
+          "testo": "El plato del día con arroz y frijoles."
+        },
+        {
+          "nome": "Fruta tropical",
+          "testo": "Piña y plátanos de la región, gran productora."
+        },
+        {
+          "nome": "Café y cacao",
+          "testo": "Cultivados en la zona; para probar en los lodges."
+        }
+      ],
+      "attenzioni": [
+        "Rafting: usar siempre casco y chaleco proporcionados por el operador y seguir al guía.",
+        "La zona es lluviosa y húmeda: impermeable y ropa de repuesto.",
+        "Mosquitos e insectos: repelente."
+      ],
     esperienzeSlugs: ['rafting-sarapiqui'],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: 'La selva tropical alrededor de un lodge en Sarapiquí, Costa Rica',
@@ -158,6 +493,90 @@ export const destinazioniCostaRica: Destinazione[] = [
     erroriDaEvitare: ['En las aguas de El Choyin no hay vestuarios: bastan zapatos de río, bañador y linterna frontal, sin toallas'],
     miaEsperienza:
       'Las aguas termales gratuitas de El Choyin, en un tramo de río natural, nos parecieron mucho más auténticas que los baños de pago de la zona. Fue uno de los momentos más verdaderos de todo el viaje.',
+      "luoghi": [
+        {
+          "nome": "Cascada de La Fortuna",
+          "testo": "Cascada de unos 70 metros en una garganta de selva, con una larga escalera y una poza para bañarse. Hay una ficha de experiencia dedicada.",
+          "come": "Desde el pueblo de La Fortuna 10 minutos en coche o taxi, luego escaleras empinadas hasta la base.",
+          "quando": "Mañana, con menos gente.",
+          "tempo": "2 horas",
+          "consiglio": "El regreso es todo cuesta arriba: zapatos con agarre y agua."
+        },
+        {
+          "nome": "Aguas termales gratuitas de El Choyin",
+          "testo": "Un tramo de río caliente natural, de entrada libre, con pozas termales. Más auténtico que las termas de pago de la zona.",
+          "come": "En coche o taxi desde La Fortuna, luego un corto tramo a pie.",
+          "quando": "Mañana o tarde-noche.",
+          "tempo": "1-2 horas",
+          "consiglio": "Llevar zapatos de agua y una toalla: no hay servicios."
+        },
+        {
+          "nome": "Mirador El Silencio",
+          "testo": "Un trekking con vista al volcán Arenal, activo hasta 2010 y hoy dormido. Excursión opcional.",
+          "come": "En coche hacia el lado del volcán o con tour organizado.",
+          "quando": "Mañana temprano, para ver el volcán sin nubes.",
+          "tempo": "Media jornada"
+        },
+        {
+          "nome": "Puentes colgantes de Mistico",
+          "testo": "Un recorrido de puentes colgantes sobre la selva, con guía y un sendero seguro. Opcional.",
+          "come": "Entrada en la puerta; coche o tour.",
+          "quando": "Mañana.",
+          "tempo": "2 horas"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 día",
+          "tappe": [
+            "Mañana: cascada de La Fortuna",
+            "Almuerzo en La Fortuna",
+            "Tarde: aguas termales gratuitas de El Choyin"
+          ]
+        },
+        {
+          "titolo": "2 días",
+          "tappe": [
+            "Día 1: cascada y aguas termales",
+            "Día 2: Mirador El Silencio o puentes colgantes, canyoning opcional"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "La Fortuna",
+          "perChi": "servicios y tours",
+          "testo": "El pueblo tiene restaurantes, agencias y hoteles, con vista al volcán."
+        },
+        {
+          "nome": "Alrededores del volcán",
+          "perChi": "quien busca silencio",
+          "testo": "Lodges en la selva, con termas propias; hace falta coche para cenar."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Casado",
+          "testo": "Arroz, frijoles, ensalada y carne o pescado."
+        },
+        {
+          "nome": "Gallo pinto",
+          "testo": "Para el desayuno, con huevos."
+        },
+        {
+          "nome": "Olla de carne",
+          "testo": "Guiso de res con yuca, plátano y maíz, típico de las tierras altas."
+        },
+        {
+          "nome": "Pescado de lago",
+          "testo": "Tilapia frita, en restaurantes de la zona."
+        }
+      ],
+      "attenzioni": [
+        "La escalera a la cascada de La Fortuna es larga y el regreso es todo cuesta arriba.",
+        "Las termas de pago son caras: valorar las gratuitas.",
+        "Canyoning (Lost Canyon): muy adrenalínico y opcional, solo con operadores serios."
+      ],
     esperienzeSlugs: ['cascata-fortuna-termales'],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: 'El volcán Arenal visto desde La Fortuna, Costa Rica',
@@ -190,6 +609,92 @@ export const destinazioniCostaRica: Destinazione[] = [
     erroriDaEvitare: ['No tener miedo de pedirle al guía que acorte la caminata nocturna si dura demasiado: por la duración no gusta a todos por igual'],
     miaEsperienza:
       'La caminata nocturna por el bosque nuboso, con la fauna que se mueve solo después de anochecer, fue una de las experiencias más bonitas del viaje, aunque a alguien la duración (1h30) le pueda parecer larga.',
+      "luoghi": [
+        {
+          "nome": "Bosque nuboso de Monteverde",
+          "testo": "Un bosque lluvioso de altura, envuelto en nubes, con miles de especies de plantas, aves e insectos. Se camina por senderos y puentes.",
+          "come": "En taxi o shuttle desde el pueblo de Santa Elena, por un camino de tierra. Mejor con guía para reconocer a los animales.",
+          "quando": "Mañana temprano para las aves; la niebla es parte del paisaje.",
+          "tempo": "3-4 horas",
+          "url": "https://www.sinac.go.cr/"
+        },
+        {
+          "nome": "Caminata nocturna en el bosque",
+          "testo": "Excursión de noche con guía y linterna para ver ranas, insectos, tarántulas y otros animales nocturnos. Hay una ficha de experiencia dedicada.",
+          "come": "Salida después del atardecer con guía.",
+          "quando": "Noche, después de las 18.",
+          "tempo": "1,5 horas",
+          "consiglio": "A algunos la duración puede parecerles larga. Llevar chaqueta y zapatos cerrados."
+        },
+        {
+          "nome": "Plantación de café",
+          "testo": "Visita a una finca con degustación y explicación del proceso, de la planta a la taza.",
+          "come": "Tour de media jornada reservado en el lugar.",
+          "quando": "Mañana.",
+          "tempo": "2-3 horas"
+        },
+        {
+          "nome": "Zipline aventura",
+          "testo": "Un recorrido de tirolesas sobre el dosel, uno de los más conocidos del país. Hay una ficha de experiencia dedicada.",
+          "come": "Reserva con operador local, con traslado.",
+          "quando": "Mañana.",
+          "tempo": "2-3 horas",
+          "consiglio": "Preguntar siempre por el equipo y las medidas de seguridad del operador."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 día",
+          "tappe": [
+            "Mañana: bosque nuboso con guía",
+            "Almuerzo en Santa Elena",
+            "Tarde: café",
+            "Noche: caminata nocturna"
+          ]
+        },
+        {
+          "titolo": "2 días",
+          "tappe": [
+            "Día 1: bosque, café y caminata nocturna",
+            "Día 2: zipline, birdwatching al amanecer como opción"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Santa Elena",
+          "perChi": "servicios y presupuesto",
+          "testo": "Restaurantes, agencias y hoteles, a 20-30 minutos de la reserva."
+        },
+        {
+          "nome": "Cerca de la reserva",
+          "perChi": "quien busca naturaleza",
+          "testo": "Lodges y cabañas cerca del bosque, más aislados y más caros."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Casado",
+          "testo": "El plato del día con arroz, frijoles y pollo o pescado."
+        },
+        {
+          "nome": "Café de Monteverde",
+          "testo": "Cultivado en las tierras altas, con degustaciones en las fincas."
+        },
+        {
+          "nome": "Trucha",
+          "testo": "Criada en la zona, en varios restaurantes."
+        },
+        {
+          "nome": "Queso y dulces",
+          "testo": "Productos lácteos locales, por los que la zona es famosa."
+        }
+      ],
+      "attenzioni": [
+        "Hace frío y llueve por la noche: llevar chaqueta impermeable y suéter.",
+        "El camino a la reserva es de tierra y puede ser lento: dejar tiempo.",
+        "Para las aves y la fauna hace falta un guía: solo se ve mucho menos."
+      ],
     esperienzeSlugs: ['camminata-notturna-monteverde', 'zipline-monteverde'],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: 'El bosque nuboso de Monteverde, Costa Rica',
@@ -222,6 +727,92 @@ export const destinazioniCostaRica: Destinazione[] = [
     erroriDaEvitare: ['Reservar el whale watching solo a través de la agencia, evitando proveedores locales sin un seguro adecuado'],
     miaEsperienza:
       'La Cola de la Ballena, el banco de arena en forma de cola de ballena que se ve con la marea baja, sigue siendo uno de los paisajes más bonitos de todo el viaje, con independencia de cuántas ballenas se logre avistar en el mar.',
+      "luoghi": [
+        {
+          "nome": "Parque Nacional Marino Ballena y Cola de la Ballena",
+          "testo": "Un banco de arena con forma de cola de ballena que emerge con la marea baja, en el Parque Marino Ballena. Uno de los paisajes más bonitos del viaje.",
+          "come": "Entrada desde la playa de Playa Uvita; el banco se alcanza a pie con la marea baja.",
+          "quando": "Con marea baja, a consultar en las tablas de mareas.",
+          "tempo": "1-2 horas",
+          "consiglio": "Comprobar los horarios de marea: con marea alta el banco desaparece."
+        },
+        {
+          "nome": "Avistamiento de ballenas",
+          "testo": "Salida en barco para avistar ballenas jorobadas en los periodos de migración. Hay una ficha de experiencia dedicada.",
+          "come": "Tour desde Uvita en barca pequeña.",
+          "quando": "Julio-octubre y diciembre-marzo.",
+          "tempo": "3 horas",
+          "consiglio": "Los avistamientos no están garantizados, pero el paisaje merece la pena igual."
+        },
+        {
+          "nome": "Puente de Tárcoles",
+          "testo": "Un puente sobre el río Tárcoles, a lo largo de la carretera principal, desde el que se ven grandes cocodrilos en las orillas.",
+          "come": "Parada en la carretera Costanera, a pie por el puente.",
+          "quando": "De día, con luz.",
+          "tempo": "15-30 minutos",
+          "consiglio": "No bajar a la orilla: los cocodrilos son reales."
+        },
+        {
+          "nome": "Surf y yoga",
+          "testo": "Alquiler de tablas y clases en la playa, y yoga al atardecer en una terraza panorámica.",
+          "come": "Escuelas y terrazas en la zona de Uvita y Dominical.",
+          "quando": "Mañana para el surf, atardecer para el yoga.",
+          "tempo": "2 horas"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 día",
+          "tappe": [
+            "Mañana: Cola de la Ballena con marea baja",
+            "Almuerzo en Uvita",
+            "Tarde: surf",
+            "Atardecer: yoga en la terraza"
+          ]
+        },
+        {
+          "titolo": "2 días",
+          "tappe": [
+            "Día 1: Cola de la Ballena y playa",
+            "Día 2: avistamiento de ballenas en temporada, parada en el puente de Tárcoles hacia el norte"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Uvita",
+          "perChi": "playas y servicios",
+          "testo": "Restaurantes, tours y tiendas cerca de la playa, a poca distancia del parque."
+        },
+        {
+          "nome": "Colinas sobre la costa",
+          "perChi": "quien busca vistas y silencio",
+          "testo": "Lodges con vista al océano, pero lejos de los servicios."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Casado de pescado",
+          "testo": "Arroz, frijoles y pescado del día."
+        },
+        {
+          "nome": "Ceviche",
+          "testo": "Pescado crudo marinado en lima, en las playas."
+        },
+        {
+          "nome": "Fruta y batidos",
+          "testo": "Piña, papaya y mango, en los puestos."
+        },
+        {
+          "nome": "Pescado a la parrilla",
+          "testo": "En los restaurantes frente al mar de Uvita."
+        }
+      ],
+      "attenzioni": [
+        "Vigilar la marea: el banco de arena se sumerge con marea alta.",
+        "El mar del Pacífico tiene corrientes fuertes: nadar con prudencia.",
+        "Robos de coches aparcados en las playas: no dejar nada a la vista."
+      ],
     esperienzeSlugs: ['whale-watching-uvita'],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: 'El banco de arena de la Cola de la Ballena en Uvita, Costa Rica',
@@ -248,6 +839,85 @@ export const destinazioniCostaRica: Destinazione[] = [
     erroriDaEvitare: ['Olvidar que el parque cierra los martes: mejor comprobarlo antes y, si hace falta, adelantar la visita'],
     miaEsperienza:
       'Gracias al guía, Manuel Antonio fue una de las paradas con más avistamientos de todo el viaje: vimos de cerca perezosos, monos e iguanas por senderos que solos habríamos tenido mucha más dificultad para leer.',
+      "luoghi": [
+        {
+          "nome": "Parque Nacional Manuel Antonio",
+          "testo": "Un parque pequeño pero rico en vida: perezosos, monos capuchinos, iguanas y colibríes a lo largo de los senderos, con playas dentro del parque. Hay una ficha de experiencia dedicada.",
+          "come": "Se llega desde Quepos en bus o coche, unos 10 minutos. Con guía se ven muchos más animales.",
+          "quando": "Mañana temprano, cuando los animales están activos; el parque tiene un día de cierre semanal a comprobar.",
+          "tempo": "3-4 horas",
+          "consiglio": "Con el guía vimos de cerca perezosos, monos e iguanas a lo largo de senderos que solos habríamos tenido mucho más difícil de leer."
+        },
+        {
+          "nome": "Playa Manuel Antonio y Playa Espadilla Sur",
+          "testo": "Playas dentro del parque, con arena clara y agua calma. Se puede nadar después de la visita.",
+          "come": "Desde los senderos del parque.",
+          "quando": "Media mañana.",
+          "tempo": "1-2 horas",
+          "consiglio": "No dar de comer a los animales ni dejar mochilas sin vigilancia: los monos las abren."
+        },
+        {
+          "nome": "Puente de Tárcoles",
+          "testo": "En el trayecto desde Uvita, el puente con los grandes cocodrilos del río Tárcoles.",
+          "come": "Parada en la Costanera.",
+          "quando": "De día.",
+          "tempo": "20-30 minutos"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "Media jornada",
+          "tappe": [
+            "Llegar a la apertura del parque",
+            "Visita guiada de 2-3 horas",
+            "Baño en la playa",
+            "Almuerzo en Quepos y regreso"
+          ]
+        },
+        {
+          "titolo": "1 día",
+          "tappe": [
+            "Mañana: parque con guía",
+            "Tarde: playa pública de Manuel Antonio",
+            "Noche: atardecer en el mar"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Carretera entre Quepos y el parque",
+          "perChi": "vistas y comodidad",
+          "testo": "Hoteles con vista a la costa, pero tráfico de buses y taxis."
+        },
+        {
+          "nome": "Quepos",
+          "perChi": "presupuesto",
+          "testo": "Más barato, con restaurantes y mercado."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Casado de pescado",
+          "testo": "Arroz, frijoles y pescado del día."
+        },
+        {
+          "nome": "Ceviche",
+          "testo": "Pescado crudo marinado en lima, en restaurantes frente al mar."
+        },
+        {
+          "nome": "Fruta tropical",
+          "testo": "Piña, papaya y plátanos, en los puestos cerca del parque."
+        },
+        {
+          "nome": "Batidos",
+          "testo": "Con fruta fresca, en los puestos frente a la entrada."
+        }
+      ],
+      "attenzioni": [
+        "El parque tiene un día de cierre semanal: comprobar en el sitio oficial antes de ir.",
+        "Las entradas se compran online con antelación: no contar con comprarlas en la puerta.",
+        "No dar de comer a los animales y mantener los bolsos cerrados: monos y mapaches roban."
+      ],
     esperienzeSlugs: ['parco-manuel-antonio'],
     tripSlugs: ['costa-rica-itinerario'],
     imageAlt: 'Un perezoso entre los árboles del Parque Nacional Manuel Antonio, Costa Rica',

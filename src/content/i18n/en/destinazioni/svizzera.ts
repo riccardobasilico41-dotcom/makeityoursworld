@@ -37,6 +37,89 @@ export const destinazioniSvizzera: Destinazione[] = [
       'Shopping at the minimarkets in the valleys, much more expensive, instead of at the supermarkets in Interlaken',
       "Underestimating how much time the other zones take: Interlaken is the base, not the main destination of the trip",
     ],
+    luoghi: [
+      {
+        nome: "Harder Kulm",
+        testo: "The viewpoint above Interlaken, at 1,322 metres, with views of both lakes and, on a clear day, of Eiger, Mönch and Jungfrau. At the top are a suspended platform and a restaurant.",
+        come: "Funicular from Harder Bahn station, near Interlaken Ost, about 10 minutes.",
+        quando: "Late afternoon for the light on the lakes. Runs from spring to autumn.",
+        tempo: "2 hours",
+        consiglio: "Check the webcams before going up: with low cloud the view disappears."
+      },
+      {
+        nome: "Lake Brienz and Giessbach Falls",
+        testo: "The greener, less touristy lake, with the Giessbach falls dropping in 14 steps beside a historic hotel. Reached by boat.",
+        come: "Boat from Interlaken Ost or Brienz to the pier, then the historic Giessbach funicular.",
+        quando: "Morning, in spring when the falls are full.",
+        tempo: "half a day",
+        consiglio: "The short walk through the woods from the pier to the falls is pleasant."
+      },
+      {
+        nome: "Lake Thun",
+        testo: "The lake west of Interlaken, with Thun castle, shore villages and the historic steamer. Spiez has a castle on the lake.",
+        come: "Boat or train from Interlaken West; the boat between Interlaken and Thun takes about 2 hours.",
+        quando: "Summer.",
+        tempo: "half a day",
+        consiglio: "Take the boat to Thun and return by train, to see the lake and save time."
+      },
+      {
+        nome: "Iseltwald",
+        testo: "A small village on Lake Brienz, on a promontory with a private castle. Known as the set of a Korean series.",
+        come: "By car or bus from Interlaken Ost, about 20 minutes.",
+        quando: "Early morning, before the groups.",
+        tempo: "1-2 hours",
+        consiglio: "The pier is best at dawn."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 day",
+        tappe: [
+          "Harder Kulm in the morning",
+          "Boat on Lake Brienz",
+          "Giessbach in the afternoon",
+          "Dinner in Interlaken"
+        ]
+      },
+      {
+        titolo: "2 days",
+        tappe: [
+          "Day 1: Harder Kulm and Lake Thun",
+          "Day 2: Lake Brienz, Giessbach and Iseltwald"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Interlaken",
+        perChi: "for a convenient base",
+        testo: "Trains to all valleys. High prices and a very touristy centre, but convenient without a car."
+      },
+      {
+        nome: "Brienz and Iseltwald",
+        perChi: "for quiet",
+        testo: "On Lake Brienz, with fewer crowds; valley destinations need a car or train."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Rösti",
+        testo: "Grated, fried potatoes, often with egg or cheese, the base of German-Swiss cooking."
+      },
+      {
+        nome: "Cheese fondue",
+        testo: "Melted Gruyère and Emmental, eaten with bread from a shared pot."
+      },
+      {
+        nome: "Swiss chocolate",
+        testo: "From the town's shops and the Coop and Migros supermarkets, the cheapest."
+      }
+    ],
+    attenzioni: [
+      "Prices are very high: lunch from the Coop and Migros supermarkets cuts costs.",
+      "Boat tickets are included in the Swiss Travel Pass: check before paying.",
+      "To drive you need the motorway vignette, bought at the border or online."
+    ],
     esperienzeSlugs: ['giro-battello-laghi-thun-brienz'],
     tripSlugs: ['svizzera-alpi-van'],
     imageAlt: "Interlaken seen from above, with the emerald-colored Aare river crossing the town among the mountains, on the plain between lakes Thun and Brienz",
@@ -76,6 +159,75 @@ export const destinazioniSvizzera: Destinazione[] = [
       'Arriving at the Trümmelbachfälle without knowing they are closed from early November to early April',
       "Not planning for rain shoes: the waterfall tunnels are damp and slippery",
     ],
+    luoghi: [
+      {
+        nome: "Staubbach Falls",
+        testo: "A waterfall about 297 metres high dropping from a sheer wall above the village, often turned to mist by the wind. Beside it a path with rock tunnels climbs to a viewing terrace.",
+        come: "On foot from Lauterbrunnen station, a few minutes. The path goes up through a tunnel to a viewpoint.",
+        quando: "Morning, when sun enters the valley. Spring for peak flow.",
+        tempo: "45 minutes",
+        consiglio: "Bring a waterproof jacket: the wind carries the spray."
+      },
+      {
+        nome: "Trümmelbach Falls",
+        testo: "Ten glacial waterfalls running inside the mountain, seen from walkways and tunnels with an internal lift. Open from spring to autumn.",
+        come: "From Lauterbrunnen station by bus or a 30-minute walk.",
+        quando: "Early morning, with peak flow in June and July.",
+        tempo: "1-1.5 hours",
+        url: "https://www.truemmelbachfaelle.ch/",
+        consiglio: "Wear shoes with grippy soles: walkways are wet."
+      },
+      {
+        nome: "Wengen",
+        testo: "A car-free village on a high terrace, reached by cog railway. It gives access to Kleine Scheidegg and the line to Jungfraujoch.",
+        come: "Cog railway from Lauterbrunnen, about 15 minutes.",
+        quando: "All year.",
+        tempo: "2 hours",
+        consiglio: "Start here for the walk to Männlichen, with views of the Eiger group."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 day",
+        tappe: [
+          "Staubbach at opening",
+          "Trümmelbach Falls",
+          "Cog railway to Wengen",
+          "Panoramic walk and return"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Lauterbrunnen",
+        perChi: "to stay in the valley",
+        testo: "Campsites and lodgings on the valley floor, almost car-free at night; colder and quieter in the evening."
+      },
+      {
+        nome: "Wengen and Mürren",
+        perChi: "for plateau villages",
+        testo: "Car-free, with views from above, but you must reach them by cog railway or cable car with luggage."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Rösti",
+        testo: "Fried potatoes, with cheese or sausage."
+      },
+      {
+        nome: "Älplermagronen",
+        testo: "Pasta, potatoes, cheese and fried onions, an alpine-hut dish."
+      },
+      {
+        nome: "Alpine cheeses",
+        testo: "Bought from small shops and producers."
+      }
+    ],
+    attenzioni: [
+      "Cows graze on trails: do not approach mothers with calves.",
+      "Weather changes fast: fog and rain can hide the upper falls.",
+      "Drones are banned near the cliffs and waterfalls."
+    ],
     esperienzeSlugs: ['trummelbachfalle'],
     tripSlugs: ['svizzera-alpi-van'],
     imageAlt: "The Staubbach waterfall plunging from the rock wall above the chalets of Lauterbrunnen, among low clouds, in almost monochrome tones",
@@ -112,6 +264,74 @@ export const destinazioniSvizzera: Destinazione[] = [
     erroriDaEvitare: [
       "Going up to the First thinking the Bachalpsee is \"just around the corner\": the walk takes 2-3 hours round trip",
       'Underestimating the wind at the top, which on the Cliff Walk can be strong even with clear skies in the valley',
+    ],
+    luoghi: [
+      {
+        nome: "First and the Cliff Walk",
+        testo: "From Grindelwald the gondola climbs to First, at 2,168 metres, with views of Eiger, Mönch and Jungfrau. The Cliff Walk is a metal walkway hanging over the void along the wall.",
+        come: "Gondola from Grindelwald in about 25 minutes, with several sections. The Cliff Walk is included in the ticket.",
+        quando: "Morning, with the clearest sky. Closures and hours vary by season.",
+        tempo: "2-3 hours",
+        consiglio: "The first cabin of the morning has shorter queues; glaciers are clearer before midday."
+      },
+      {
+        nome: "Bachalpsee",
+        testo: "A high lake mirroring the Wetterhorn and Schreckhorn. From First the path is easy, gently uphill, about 50 minutes.",
+        come: "On foot from First station on the signed path.",
+        quando: "Morning, when the water is still and mirrors the mountains.",
+        tempo: "2 hours return",
+        consiglio: "Bring a warm layer: the wind blows even in July."
+      },
+      {
+        nome: "Lower Glacier (Unterer Gletscher)",
+        testo: "The glacier that descends to the valley above Grindelwald, with a deep gorge cut by the river. Reached on foot from the village.",
+        come: "Path from the village towards Pfingstegg, about 1 hour.",
+        quando: "Summer.",
+        tempo: "2-3 hours",
+        consiglio: "Do not step on the ice without a guide: there are hidden crevasses."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 day",
+        tappe: [
+          "Gondola to First in the morning",
+          "Cliff Walk",
+          "Walk to Bachalpsee",
+          "Descend on foot or by gondola"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Grindelwald",
+        perChi: "for hiking",
+        testo: "The village is at the foot of the Eiger north face, with services and direct access to the gondolas."
+      },
+      {
+        nome: "Interlaken",
+        perChi: "to save money",
+        testo: "Train from Interlaken Ost in about 35 minutes, with more lodging choice."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Rösti",
+        testo: "Fried potatoes, with eggs or cheese, in alpine restaurants."
+      },
+      {
+        nome: "Fondue",
+        testo: "Melted cheese in a pot, in huts and village restaurants."
+      },
+      {
+        nome: "Meringue with cream",
+        testo: "A dessert of meringues and mountain cream."
+      }
+    ],
+    attenzioni: [
+      "With low cloud the view from First disappears: check the webcams before buying the ticket.",
+      "The Cliff Walk platforms are not for people with vertigo.",
+      "Paths get snow from October; check trail conditions."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['svizzera-alpi-van'],
@@ -150,6 +370,76 @@ export const destinazioniSvizzera: Destinazione[] = [
       'Leaving in the early afternoon: clouds usually form after noon and block the view',
       "Not booking online: at the counter tickets usually cost more",
       'Underestimating the cold at altitude even in midsummer: you need a windbreaker and layers even in July',
+    ],
+    luoghi: [
+      {
+        nome: "Sphinx Terrace",
+        testo: "The observatory and terrace at 3,571 metres, reached by lift from the station. From here you see the Aletsch, the Mönch and, on clear days, the Black Forest and the Vosges.",
+        come: "Fast lift from the station (Top of Europe) to the platform.",
+        quando: "Morning, with fewer clouds. Closed in strong wind or storm.",
+        tempo: "45 minutes",
+        url: "https://www.jungfrau.ch/",
+        consiglio: "Check the webcam before leaving: on overcast days you see nothing."
+      },
+      {
+        nome: "Ice Palace",
+        testo: "A tunnel cut into the glacier, with ice sculptures, at about 3,450 metres. Slippery floor and below-zero temperature all year.",
+        come: "Included in the ticket, next to the station.",
+        quando: "All year.",
+        tempo: "30 minutes",
+        consiglio: "Wear non-slip shoes and gloves."
+      },
+      {
+        nome: "Aletsch Glacier and the Plateau walk",
+        testo: "The longest glacier in the Alps, about 22 kilometres, and the path on the ice towards the Mönchsjoch hut. The walk is easy but at altitude.",
+        come: "Leave the station and follow the signed path across the plateau.",
+        quando: "Morning; the snow is firmer and the weather better.",
+        tempo: "1 hour",
+        consiglio: "The air is thin: walk slowly and drink water."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 day",
+        tappe: [
+          "Leave Interlaken Ost by 8",
+          "Change at Kleine Scheidegg",
+          "Sphinx Terrace and Ice Palace",
+          "Walk on the plateau",
+          "Return in early afternoon"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Interlaken",
+        perChi: "for an early start",
+        testo: "A convenient base for the first train; lodging for every budget."
+      },
+      {
+        nome: "Grindelwald",
+        perChi: "for the direct train",
+        testo: "From Grindelwald the cog railway to Kleine Scheidegg means fewer changes."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Lindt chocolate",
+        testo: "There is a shop at the top, expensive and touristy, but a typical souvenir."
+      },
+      {
+        nome: "Mountain rösti",
+        testo: "At the station self-service."
+      },
+      {
+        nome: "Hot tea and soup",
+        testo: "To warm up between the two outings on the ice."
+      }
+    ],
+    attenzioni: [
+      "Altitude sickness can hit even at 3,400 metres: go up slowly, drink and stop if you have a headache.",
+      "The ticket is among the most expensive in the country: compare the Good Morning Ticket fares.",
+      "Do not keep documents in outer pockets: wind and gloves make them awkward to find."
     ],
     esperienzeSlugs: ['jungfraujoch-top-of-europe'],
     tripSlugs: ['svizzera-alpi-van'],
@@ -217,6 +507,76 @@ export const destinazioniSvizzera: Destinazione[] = [
           "For those with a van who also want to see the village of Mürren, the section from Stechelberg with an intermediate stop remains the easiest to organize in a single day.",
       },
     ],
+    luoghi: [
+      {
+        nome: "Schilthorn and Piz Gloria",
+        testo: "The peak at 2,970 metres with the revolving restaurant that features in a 1969 James Bond film. From the terrace you see Eiger, Mönch and Jungfrau.",
+        come: "Cable car from Stechelberg (valley) or from Mürren, in several sections. From the village the ride takes about 20 minutes.",
+        quando: "Morning, with the best light. Closed in high wind.",
+        tempo: "2-3 hours",
+        url: "https://www.schilthorn.ch/",
+        consiglio: "From the valley the ride is longer but gives views of the walls."
+      },
+      {
+        nome: "Mürren",
+        testo: "A car-free village on the plateau, facing the north face of the Eiger. A place for the view, not for monuments.",
+        come: "Cable car from Stechelberg or train from Grütschalp.",
+        quando: "All year.",
+        tempo: "2 hours",
+        consiglio: "Walk up to Allmendhubel for the mountain views."
+      },
+      {
+        nome: "Gimmelwald",
+        testo: "A tiny farming village halfway up the wall, car-free, reached by cable car or on foot from Mürren.",
+        come: "Downhill path from Mürren, about 30 minutes.",
+        quando: "Summer and autumn.",
+        tempo: "1.5 hours",
+        consiglio: "It is a living village: respect private property and do not enter the barns."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 day",
+        tappe: [
+          "Cable car to the Schilthorn in the morning",
+          "Breakfast at Piz Gloria",
+          "Descent to Mürren",
+          "Walk to Gimmelwald",
+          "Return to Stechelberg"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Mürren",
+        perChi: "for views and quiet",
+        testo: "On the plateau, car-free; few services and high prices."
+      },
+      {
+        nome: "Lauterbrunnen",
+        perChi: "to save money",
+        testo: "Valley floor, more services and cheaper, with a cable car to Mürren."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Rösti",
+        testo: "Fried potatoes with egg or cheese, in Mürren restaurants."
+      },
+      {
+        nome: "Berner Platte",
+        testo: "A Bernese dish of mixed meats and sauerkraut, in taverns."
+      },
+      {
+        nome: "Fondue",
+        testo: "Melted cheese, in the village restaurants."
+      }
+    ],
+    attenzioni: [
+      "With low cloud the Schilthorn is not visible: check the webcams.",
+      "The cable car stops early in the evening: note the last run.",
+      "Gimmelwald is a residential village: keep noise down in the evening."
+    ],
     esperienzeSlugs: ['via-ferrata-muerren-gimmelwald'],
     tripSlugs: ['svizzera-alpi-van'],
     imageAlt: "A Schilthorn cable car cabin suspended between Mürren and Birg, above the rock walls of the Lauterbrunnen valley",
@@ -252,6 +612,75 @@ export const destinazioniSvizzera: Destinazione[] = [
     erroriDaEvitare: [
       'Planning the transfer without first checking that the two passes are open, especially in early June or late October',
       "Not knowing that the Furka has an alternative by shuttle train (Furka Autoverlad) when the pass is closed to ordinary traffic",
+    ],
+    luoghi: [
+      {
+        nome: "Grimsel Pass",
+        testo: "A pass at 2,164 metres between Canton Bern and Valais, in a landscape of reservoirs, dams and granite smoothed by ice. The road has hairpins and lay-bys.",
+        come: "By car from Meiringen towards Gletsch, about 45 minutes. Usually open from June to October.",
+        quando: "Morning: less traffic and better light. Check opening in spring and autumn.",
+        tempo: "2 hours with stops",
+        consiglio: "Stop at the Räterichsboden dam and Lake Grimsel."
+      },
+      {
+        nome: "Rhône Glacier",
+        testo: "The source of the Rhône, flowing from the glacier opposite the Belvédère hotel. An ice grotto cut into the glacier can be visited in summer.",
+        come: "From the Gletsch car park, a few minutes on foot from the Belvédère.",
+        quando: "Summer.",
+        tempo: "1 hour",
+        consiglio: "The glacier has retreated a lot: signs show its position in different years."
+      },
+      {
+        nome: "Furka Pass",
+        testo: "A pass at 2,429 metres, with steep hairpins and views of the Rhône. The pass was a set for a James Bond film (Goldfinger, 1964).",
+        come: "By car from Gletsch, about 30 minutes.",
+        quando: "Summer.",
+        tempo: "1 hour",
+        consiglio: "The road has narrow sections: give way to uphill traffic."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 day",
+        tappe: [
+          "Meiringen",
+          "Grimsel Pass",
+          "Gletsch and Rhône Glacier",
+          "Furka Pass",
+          "Andermatt or return via Susten"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Meiringen",
+        perChi: "for those coming from Bern",
+        testo: "A town at the foot of the Grimsel, with hotels for every budget."
+      },
+      {
+        nome: "Andermatt",
+        perChi: "for continuing towards Ticino",
+        testo: "An alpine village on the Furka, convenient for heading on to the Gotthard."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Älplermagronen",
+        testo: "Pasta, potatoes and cheese, in huts."
+      },
+      {
+        nome: "Meiringen meringue",
+        testo: "The dessert born in the town, with cream."
+      },
+      {
+        nome: "Bergkäse",
+        testo: "Alpine cheese."
+      }
+    ],
+    attenzioni: [
+      "The passes are closed from October-November to June: check opening on official sites.",
+      "Bad weather and ice can close the pass during the day.",
+      "Fuel: petrol stations are rare at altitude, fill up in the valley."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['svizzera-alpi-van'],
@@ -290,6 +719,91 @@ export const destinazioniSvizzera: Destinazione[] = [
       'Trying to enter Zermatt by van or car: the ban exists and is checked',
       "Not allowing for the driving time to get there: over two hours from Interlaken even going via Grimsel-Furka",
       "Taking for granted that the Matterhorn is free of clouds: it makes its own even when the sky around is clear",
+    ],
+    luoghi: [
+      {
+        nome: "Gornergrat",
+        testo: "The highest open-air cog railway in Europe climbs to 3,089 metres. From the terrace you see the Matterhorn, Monte Rosa and the Gorner glacier.",
+        come: "Train from Zermatt station, about 33 minutes.",
+        quando: "Morning, with the clearest sky.",
+        tempo: "Half a day",
+        url: "https://www.gornergratbahn.ch/",
+        consiglio: "Get off at Rotenboden or Riffelberg for a walk."
+      },
+      {
+        nome: "Matterhorn Glacier Paradise",
+        testo: "The station at 3,883 metres reached by Europe's highest cable car. The Ice Palace is cut into the glacier.",
+        come: "Cable car from Zermatt, changing at Furi and Trockener Steg.",
+        quando: "Early morning for the clearest sky.",
+        tempo: "Half a day",
+        url: "https://www.matterhornparadise.ch/",
+        consiglio: "Bring sunglasses and a warm layer: it is cold at 3,800 metres."
+      },
+      {
+        nome: "Five Lakes Walk",
+        testo: "A hike from Blauherd to Zermatt along five alpine lakes that mirror the Matterhorn. One of the classic photos.",
+        come: "Cable car from Zermatt to Blauherd, then 9 km on foot downhill.",
+        quando: "Summer; the lakes reflect best in the morning.",
+        tempo: "3-4 hours",
+        consiglio: "Stellisee is the most photographed: arrive early."
+      },
+      {
+        nome: "Zermatt village",
+        testo: "The car-free centre, with dark wooden houses, shops and hotels. The small cemetery by the church remembers climbers who died on the Matterhorn.",
+        come: "On foot from the station.",
+        quando: "All year.",
+        tempo: "1-2 hours",
+        consiglio: "The Matterhorn Museum tells the story of the first ascent in 1865."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 day",
+        tappe: [
+          "Gornergrat in the morning",
+          "Lunch at Riffelberg",
+          "Walk towards Zermatt",
+          "Dinner in the village"
+        ]
+      },
+      {
+        titolo: "2 days",
+        tappe: [
+          "Day 1: Gornergrat and village",
+          "Day 2: Matterhorn Glacier Paradise or the Five Lakes Walk"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Zermatt",
+        perChi: "to stay in the centre",
+        testo: "Car-free; lodging at every price, but expensive."
+      },
+      {
+        nome: "Täsch and Randa",
+        perChi: "to save money",
+        testo: "Lower prices, with a shuttle train to Zermatt in 12 minutes."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Raclette",
+        testo: "Melted cheese scraped onto potatoes, typical of Valais."
+      },
+      {
+        nome: "Cheese fondue",
+        testo: "With Valais white wine."
+      },
+      {
+        nome: "Chocolate Matterhorn",
+        testo: "A sweet souvenir, in many shops."
+      }
+    ],
+    attenzioni: [
+      "Cars stop at Täsch: leave them in the car park and take the train.",
+      "Prices are high: buy sandwiches at supermarkets before going up.",
+      "On windy or cloudy days the cable cars can close: leave margin in the plan."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['svizzera-alpi-van'],

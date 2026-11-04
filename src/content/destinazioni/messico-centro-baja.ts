@@ -55,6 +55,119 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'Sottovalutare la quota nei primi due giorni',
       'Non prenotare la Casa Azul, che si esaurisce giorni prima',
     ],
+      "luoghi": [
+        {
+          "nome": "Zócalo, Cattedrale e Templo Mayor",
+          "testo": "La piazza centrale con la Cattedrale Metropolitana, il Palacio Nacional e, accanto, il Templo Mayor, il cuore azteco di Tenochtitlan, con il museo.",
+          "come": "Metro Zócalo. Il Templo Mayor ha ingresso INAH separato.",
+          "quando": "Mattina; il Templo Mayor di norma chiude il lunedì.",
+          "tempo": "3 ore",
+          "url": "https://www.inah.gob.mx/"
+        },
+        {
+          "nome": "Museo Nacional de Antropología",
+          "testo": "Il più grande museo archeologico del Paese, nel bosco di Chapultepec, con la Pietra del Sole e le sale delle culture mesoamericane.",
+          "come": "Metro Auditorio o Chapultepec.",
+          "quando": "Mattina; di norma chiuso il lunedì.",
+          "tempo": "3-4 ore",
+          "url": "https://www.inah.gob.mx/",
+          "consiglio": "Scegliere 3-4 sale: è troppo grande per vederlo tutto."
+        },
+        {
+          "nome": "Teotihuacán",
+          "testo": "La città dei Templi del Sole e della Luna e della Calzada de los Muertos, a circa 50 km dalla città, patrimonio UNESCO.",
+          "come": "Bus dal terminal Norte (circa 1 ora) o tour; ingresso INAH.",
+          "quando": "All'apertura, prima del caldo e dei gruppi.",
+          "tempo": "Mezza giornata",
+          "url": "https://www.inah.gob.mx/",
+          "consiglio": "Portare cappello e acqua: quasi nessuna ombra."
+        },
+        {
+          "nome": "Coyoacán e Casa Azul",
+          "testo": "Quartiere coloniale con piazze e mercato, e la Casa Azul di Frida Kahlo, oggi museo.",
+          "come": "Metro o Uber; per la Casa Azul biglietti da prenotare online in anticipo.",
+          "quando": "Mattina; il museo di norma chiude il lunedì.",
+          "tempo": "Mezza giornata",
+          "url": "https://www.museofridakahlo.org.mx/"
+        },
+        {
+          "nome": "Xochimilco",
+          "testo": "I canali con le trajineras colorate, resto del sistema lacustre azteco.",
+          "come": "Metro e tren ligero o Uber fino agli imbarcaderi.",
+          "quando": "Mattina nei giorni feriali, meno folla.",
+          "tempo": "2-3 ore",
+          "consiglio": "Concordare durata e prezzo della barca prima di salire."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Zócalo, Cattedrale e Templo Mayor",
+            "Palacio de Bellas Artes",
+            "Pranzo ai tacos",
+            "Museo Nacional de Antropología nel pomeriggio"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: centro storico e museo di Antropologia",
+            "Giorno 2: Teotihuacán all'apertura, Coyoacán nel pomeriggio"
+          ]
+        },
+        {
+          "titolo": "3 giorni",
+          "tappe": [
+            "Giorni 1-2 come sopra",
+            "Giorno 3: Xochimilco e Casa Azul, oppure Bellas Artes con i murales"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Centro storico",
+          "perChi": "a piedi da tutto",
+          "testo": "Zócalo e musei vicini, ma rumoroso e poco sicuro la notte lontano dalle vie principali."
+        },
+        {
+          "nome": "Roma e Condesa",
+          "perChi": "ristoranti e locali",
+          "testo": "Quartieri di caffè e vita serale, più sicuri a piedi, vicini a Chapultepec."
+        },
+        {
+          "nome": "Coyoacán",
+          "perChi": "calma e storia",
+          "testo": "Quartiere residenziale e coloniale, più lontano dal centro."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Tacos al pastor",
+          "testo": "Maiale al girarrosto con ananas, in ogni taquería."
+        },
+        {
+          "nome": "Tlacoyos e quesadillas",
+          "testo": "Tortillas di mais ripiene, dalle bancarelle."
+        },
+        {
+          "nome": "Chilaquiles",
+          "testo": "Tortilla in salsa piccante per colazione."
+        },
+        {
+          "nome": "Pozole",
+          "testo": "Zuppa di mais e carne, la domenica."
+        },
+        {
+          "nome": "Mole e tamales",
+          "testo": "Salse e tamales, nei mercati."
+        }
+      ],
+      "attenzioni": [
+        "Borseggi su metro e Zócalo: tenere gli oggetti davanti e non esibire telefoni.",
+        "Taxi di strada: usare Uber o taxi di sitio.",
+        "Altitudine (2.240 m): bere acqua e andare piano il primo giorno."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos', 'messico-cdmx-baja-california'],
     imageAlt: 'Il Palacio de Bellas Artes nel centro storico di Città del Messico',
@@ -93,6 +206,90 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'Visitare Cholula solo a mezzogiorno, quando la foschia spesso nasconde il vulcano',
       'Fare Puebla in giornata da Città del Messico senza dormire almeno una notte a Cholula',
     ],
+      "luoghi": [
+        {
+          "nome": "Centro storico di Puebla e Cattedrale",
+          "testo": "Patrimonio UNESCO, con la Cattedrale, lo Zócalo e case coperte di azulejos talavera.",
+          "come": "A piedi dallo Zócalo.",
+          "quando": "Mattina.",
+          "tempo": "3 ore"
+        },
+        {
+          "nome": "Biblioteca Palafoxiana e Capilla del Rosario",
+          "testo": "La prima biblioteca pubblica delle Americhe, del 1646, e una cappella barocca ricoperta d'oro (Templo de Santo Domingo).",
+          "come": "A piedi dal centro.",
+          "quando": "Mattina.",
+          "tempo": "1,5 ore"
+        },
+        {
+          "nome": "Gran Piramide di Cholula",
+          "testo": "La piramide più grande del mondo per volume, con tunnel visitabili e la chiesa della Virgen de los Remedios in cima.",
+          "come": "Autobus o Uber da Puebla (circa 20 minuti).",
+          "quando": "Mattina; tramonto per la vista sui vulcani.",
+          "tempo": "2-3 ore",
+          "url": "https://www.inah.gob.mx/",
+          "consiglio": "Salire alla chiesa in cima per il panorama sui vulcani Popocatépetl e Iztaccíhuatl."
+        },
+        {
+          "nome": "Tonantzintla e Acatepec",
+          "testo": "Chiese barocche indigene con facciate di azulejos e interni ricoperti di stucchi dorati.",
+          "come": "Uber o colectivo da Cholula.",
+          "quando": "Mattina.",
+          "tempo": "1-2 ore"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Mattina: Cattedrale, Capilla del Rosario",
+            "Pranzo con mole poblano",
+            "Pomeriggio: Cholula e piramide"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: centro di Puebla e Palafoxiana",
+            "Giorno 2: Cholula, piramide, Tonantzintla e Acatepec"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Centro storico di Puebla",
+          "perChi": "a piedi da tutto",
+          "testo": "Hotel in palazzi storici e ristoranti vicini."
+        },
+        {
+          "nome": "Cholula",
+          "perChi": "atmosfera di villaggio",
+          "testo": "Più tranquillo, con bar e vita studentesca."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Mole poblano",
+          "testo": "Salsa di peperoncini e cioccolato su pollo, simbolo della città."
+        },
+        {
+          "nome": "Chiles en nogada",
+          "testo": "Peperoni ripieni con salsa di noci, in agosto-settembre."
+        },
+        {
+          "nome": "Cemitas",
+          "testo": "Panini con carne, avocado e formaggio."
+        },
+        {
+          "nome": "Tacos árabes",
+          "testo": "Maiale alla griglia con pane arabo."
+        }
+      ],
+      "attenzioni": [
+        "I tunnel della piramide di Cholula sono stretti: non adatto a chi soffre di claustrofobia.",
+        "Taxi di strada: usare Uber.",
+        "Il vulcano Popocatépetl è attivo: possibili variazioni nel panorama."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos'],
     imageAlt: 'Il Santuario de la Virgen de los Remedios sulla piramide di Cholula con il vulcano innevato alle spalle',
@@ -136,6 +333,103 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'Fotografare persone e altari senza chiedere',
       'Non informarsi sui bloqueos prima degli spostamenti lunghi',
     ],
+      "luoghi": [
+        {
+          "nome": "Templo de Santo Domingo e giardino etnobotanico",
+          "testo": "Chiesa barocca con interni dorati, ex convento con museo e il giardino etnobotanico, visitabile solo con guida.",
+          "come": "A piedi dal centro.",
+          "quando": "Mattina.",
+          "tempo": "2-3 ore",
+          "url": "https://www.inah.gob.mx/",
+          "consiglio": "Il giardino etnobotanico si visita con tour guidato in orari fissi: prenotare."
+        },
+        {
+          "nome": "Monte Albán",
+          "testo": "Antica capitale zapoteca su una collina sopra la città, patrimonio UNESCO, con la grande piazza e le tombe.",
+          "come": "Navette o taxi da Oaxaca (circa 20-30 minuti); ingresso INAH.",
+          "quando": "All'apertura.",
+          "tempo": "2-3 ore",
+          "url": "https://www.inah.gob.mx/"
+        },
+        {
+          "nome": "Mercati 20 de Noviembre e Benito Juárez",
+          "testo": "Mercati con banchi di carne alla griglia, chapulines, cioccolato, mole e formaggio.",
+          "come": "A piedi dal centro.",
+          "quando": "Mattina e pranzo.",
+          "tempo": "1-2 ore"
+        },
+        {
+          "nome": "Cimitero di Santa Cruz Xoxocotlán e Panteón General",
+          "testo": "Le veglie del Día de Muertos (31 ottobre-2 novembre), con tombe decorate e candele.",
+          "come": "Taxi o tour; Panteón General a San Miguel.",
+          "quando": "Notte del 31 ottobre e 1-2 novembre.",
+          "tempo": "Serata",
+          "consiglio": "Rispettare le famiglie: non è uno spettacolo."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Santo Domingo",
+            "Mercati e pranzo con tlayuda",
+            "Monte Albán nel pomeriggio"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: centro e Santo Domingo",
+            "Giorno 2: Monte Albán, mercati, mezcalería"
+          ]
+        },
+        {
+          "titolo": "3 giorni",
+          "tappe": [
+            "Giorni 1-2 come sopra",
+            "Giorno 3: Valles Centrales (Teotitlán, Mitla, Hierve el Agua)"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Centro storico",
+          "perChi": "a piedi da tutto",
+          "testo": "Hotel in case coloniali, cultura e ristoranti, più rumoroso."
+        },
+        {
+          "nome": "Barrio Jalatlaco",
+          "perChi": "caffè e atmosfera",
+          "testo": "Quartiere di case colorate, più tranquillo, a 10-15 minuti."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Mole negro",
+          "testo": "Salsa scura di peperoncini, spezie e cioccolato."
+        },
+        {
+          "nome": "Tlayuda",
+          "testo": "Grande tortilla croccante con fagioli, formaggio e carne."
+        },
+        {
+          "nome": "Quesillo e tasajo",
+          "testo": "Formaggio a fili e carne secca alla griglia."
+        },
+        {
+          "nome": "Chapulines",
+          "testo": "Cavallette tostate con lime e peperoncino."
+        },
+        {
+          "nome": "Mezcal e cioccolato",
+          "testo": "Specialità della regione, nelle mezcalerie e nei laboratori."
+        }
+      ],
+      "attenzioni": [
+        "Durante il Día de Muertos Oaxaca è molto affollata: prenotare hotel e tour con mesi di anticipo.",
+        "Mezcal artigianale: comprare da produttori e botteghe affidabili.",
+        "Taxi senza tassametro: concordare il prezzo."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos'],
     imageAlt: 'Un altare di cempasúchil illuminato dalle candele nella notte dei morti a Oaxaca',
@@ -175,6 +469,92 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'Guidare dopo le degustazioni di mezcal',
       'Entrare negli altari delle case senza un invito',
     ],
+      "luoghi": [
+        {
+          "nome": "Árbol del Tule",
+          "testo": "Un cipresso di Montezuma di circa 2.000 anni con il tronco più largo del mondo, nel cortile della chiesa di Santa María del Tule.",
+          "come": "Autobus o taxi da Oaxaca (circa 15 minuti).",
+          "quando": "Mattina.",
+          "tempo": "30 minuti"
+        },
+        {
+          "nome": "Teotitlán del Valle",
+          "testo": "Villaggio zapoteco dei tappeti di lana tessuti a mano con tinture naturali (cocciniglia, indaco).",
+          "come": "Taxi o tour da Oaxaca.",
+          "quando": "Mattina.",
+          "tempo": "1-2 ore",
+          "consiglio": "Comprare nei laboratori di famiglia, dove si vede la lavorazione."
+        },
+        {
+          "nome": "Mitla",
+          "testo": "Sito zapoteco-mixteco con mosaici geometrici in pietra incastrata. Ingresso INAH.",
+          "come": "Colectivo o tour da Oaxaca (circa 1 ora).",
+          "quando": "Mattina.",
+          "tempo": "1,5 ore",
+          "url": "https://www.inah.gob.mx/"
+        },
+        {
+          "nome": "Hierve el Agua",
+          "testo": "Cascate pietrificate di calcare e pozze naturali panoramiche sulla valle. Gestite dalla comunità; l'apertura può cambiare.",
+          "come": "Tour da Oaxaca o auto (circa 1,5 ore).",
+          "quando": "Mattina, con meno gente; verificare l'apertura.",
+          "tempo": "2-3 ore",
+          "consiglio": "Dopo le piogge o per blocchi stradali può essere chiuso: controllare prima."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Árbol del Tule",
+            "Teotitlán del Valle",
+            "Mezcal a Santiago Matatlán",
+            "Mitla"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: Tule, Teotitlán e Mitla",
+            "Giorno 2: Hierve el Agua e Yagul"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Base a Oaxaca",
+          "perChi": "servizi",
+          "testo": "I Valles si visitano in giornata da Oaxaca."
+        },
+        {
+          "nome": "Teotitlán o Mitla",
+          "perChi": "chi vuole restare",
+          "testo": "Piccole locande di famiglia, calma e cultura locale."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Mezcal artigianale",
+          "testo": "Prodotto a Santiago Matatlán, con degustazione nei palenques."
+        },
+        {
+          "nome": "Tlayudas",
+          "testo": "Nei comedor di villaggio."
+        },
+        {
+          "nome": "Barbacoa",
+          "testo": "Carne di capra cotta nel forno di terra."
+        },
+        {
+          "nome": "Pane di yema",
+          "testo": "Pane dolce tipico dei villaggi."
+        }
+      ],
+      "attenzioni": [
+        "Hierve el Agua: gestita dalla comunità, può chiudere; verificare prima.",
+        "Comprare tappeti nei laboratori di famiglia, non da intermediari.",
+        "Il mezcal in degustazione è forte: non guidare."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos'],
     imageAlt: 'Le cascate pietrificate di Hierve el Agua sopra la valle',
@@ -214,6 +594,90 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'Scegliere tour della bioluminescenza a motore fino in fondo alla laguna',
       'Lasciare oggetti incustoditi in spiaggia la sera',
     ],
+      "luoghi": [
+        {
+          "nome": "Playa Zicatela",
+          "testo": "Una delle onde più potenti del Messico, la «Mexican Pipeline», per surfisti esperti; la spiaggia ha ristoranti e hotel.",
+          "come": "A piedi o taxi dal centro.",
+          "quando": "Alba e tramonto per guardare i surfisti; il bagno solo con grande prudenza.",
+          "tempo": "Mezza giornata",
+          "consiglio": "Correnti pericolose: non nuotare dove ci sono onde grandi."
+        },
+        {
+          "nome": "Carrizalillo, Manzanillo e Puerto Angelito",
+          "testo": "Calette riparate con acqua calma, adatte al bagno e allo snorkeling.",
+          "come": "Taxi o a piedi con una scalinata.",
+          "quando": "Mattina.",
+          "tempo": "Mezza giornata"
+        },
+        {
+          "nome": "Laguna di Manialtepec",
+          "testo": "Laguna con mangrovie e uccelli, con bioluminescenza notturna.",
+          "come": "Tour in barca da Puerto Escondido.",
+          "quando": "Alba o notte.",
+          "tempo": "2-3 ore"
+        },
+        {
+          "nome": "Mazunte, Zipolite e Punta Cometa",
+          "testo": "Villaggi della costa vicina: Mazunte per il centro delle tartarughe, Zipolite per la spiaggia libera, Punta Cometa per il tramonto.",
+          "come": "Auto o colectivo da Puerto Escondido (1-2 ore).",
+          "quando": "Tramonto a Punta Cometa.",
+          "tempo": "Giornata"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Mattina: Carrizalillo",
+            "Pranzo di pesce",
+            "Pomeriggio: Zicatela",
+            "Tramonto sulla spiaggia"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: calette e Zicatela",
+            "Giorno 2: Mazunte, Punta Cometa e Zipolite"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Zicatela",
+          "perChi": "surf e vita serale",
+          "testo": "Hotel, bar e ristoranti, rumorosi di notte."
+        },
+        {
+          "nome": "La Punta",
+          "perChi": "atmosfera tranquilla",
+          "testo": "Più tranquilla, con onde più basse, vicino alle calette."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Pesce fresco",
+          "testo": "Alla piastra, sulle spiagge."
+        },
+        {
+          "nome": "Tlayuda",
+          "testo": "Di Oaxaca, nei ristoranti locali."
+        },
+        {
+          "nome": "Ceviche e aguachile",
+          "testo": "Fresco, al mare."
+        },
+        {
+          "nome": "Tamales oaxaqueños",
+          "testo": "Avvolti in foglie di platano."
+        }
+      ],
+      "attenzioni": [
+        "Le correnti a Zicatela e Zipolite sono pericolose: nuotare solo dove indicato.",
+        "Furti sulla spiaggia: non lasciare nulla incustodito.",
+        "Strada da Oaxaca lunga e con curve: valutare il volo."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos'],
     imageAlt: 'La baia di Puerto Escondido vista dall\'alto tra i cactus',
@@ -249,6 +713,78 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'Spostarsi di notte fuori dalle strade principali',
       'Pensare di unire nello stesso viaggio Janitzio e le notti principali di Oaxaca: coincidono',
     ],
+      "luoghi": [
+        {
+          "nome": "Isola di Janitzio",
+          "testo": "Isola sul lago di Pátzcuaro con la statua di Morelos, famosa per la veglia di Día de Muertos nel cimitero, la notte del 1° novembre.",
+          "come": "Barca dal molo di Pátzcuaro (circa 20-30 minuti).",
+          "quando": "Notte del 1° novembre per la veglia.",
+          "tempo": "Mezza giornata",
+          "consiglio": "Rispettare le famiglie: la veglia non è uno spettacolo."
+        },
+        {
+          "nome": "Tzintzuntzan",
+          "testo": "Antica capitale purépecha, con le yácatas (piramidi circolari) e un cimitero decorato.",
+          "come": "Auto o colectivo da Pátzcuaro (circa 20 minuti).",
+          "quando": "Mattina.",
+          "tempo": "2 ore",
+          "url": "https://www.inah.gob.mx/"
+        },
+        {
+          "nome": "Piazze coloniali di Pátzcuaro",
+          "testo": "Plaza Vasco de Quiroga e Plaza Gertrudis Bocanegra, con portici e mercato di artigianato.",
+          "come": "A piedi.",
+          "quando": "Mattina.",
+          "tempo": "2-3 ore"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Mattina: Plaza Vasco de Quiroga e mercato",
+            "Pomeriggio: Tzintzuntzan",
+            "Sera: barca per Janitzio, veglia (1° novembre)"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: Pátzcuaro e Tzintzuntzan",
+            "Giorno 2: Janitzio e dintorni"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Centro di Pátzcuaro",
+          "perChi": "a piedi da tutto",
+          "testo": "Hotel in case coloniali, vicini alle piazze."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Pescado blanco",
+          "testo": "Pesce bianco del lago, fritto o alla piastra."
+        },
+        {
+          "nome": "Corundas e uchepos",
+          "testo": "Tamales di mais di tradizione purépecha."
+        },
+        {
+          "nome": "Sopa tarasca",
+          "testo": "Zuppa di fagioli e pomodoro con chile ancho."
+        },
+        {
+          "nome": "Carnitas",
+          "testo": "Maiale cotto lentamente, di Michoacán."
+        }
+      ],
+      "attenzioni": [
+        "Durante il Día de Muertos la zona è molto affollata: prenotare mesi prima.",
+        "Rispettare le famiglie durante le veglie: niente flash né foto invadenti.",
+        "Barca per Janitzio: concordare il prezzo."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos'],
     imageAlt: 'L\'isola di Janitzio nel lago di Pátzcuaro con il monumento a Morelos in cima, vista dall\'alto',
@@ -286,6 +822,90 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'Scegliere un operatore non autorizzato per lo squalo balena',
       'Non tenere un giorno di margine per il vento da nord',
     ],
+      "luoghi": [
+        {
+          "nome": "Malecón di La Paz",
+          "testo": "Lungomare di circa 5 km con sculture, caffè e il tramonto sul Mar di Cortez.",
+          "come": "A piedi dal centro.",
+          "quando": "Tramonto.",
+          "tempo": "1-2 ore"
+        },
+        {
+          "nome": "Playa Balandra",
+          "testo": "Una baia bassa dall'acqua turchese, nota per la roccia a fungo. Accesso contingentato per proteggere l'ecosistema.",
+          "come": "In auto o taxi da La Paz (circa 25 minuti); verificare le regole di accesso e il numero massimo di visitatori.",
+          "quando": "Mattina presto.",
+          "tempo": "Mezza giornata",
+          "consiglio": "Non si entra senza rispettare le regole del parco; verificare in anticipo."
+        },
+        {
+          "nome": "Isla Espíritu Santo e Los Islotes",
+          "testo": "Arcipelago patrimonio UNESCO con colonie di leoni marini e fondali per lo snorkeling. Si nuota con i leoni marini a Los Islotes.",
+          "come": "Tour in barca da La Paz con operatore autorizzato.",
+          "quando": "Mattina; tutto l'anno con orari variabili.",
+          "tempo": "Giornata intera"
+        },
+        {
+          "nome": "Squalo balena nella baia di La Paz",
+          "testo": "Incontro con gli squali balena, in stagione, con operatori autorizzati.",
+          "come": "Tour in barca da La Paz.",
+          "quando": "Da ottobre a marzo circa.",
+          "tempo": "Mezza giornata",
+          "consiglio": "Scegliere operatori che rispettano le distanze e i limiti di numero."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Mattina: Playa Balandra",
+            "Pranzo di pesce",
+            "Tramonto sul Malecón"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: Balandra e Malecón",
+            "Giorno 2: Espíritu Santo e Los Islotes"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Centro e Malecón",
+          "perChi": "a piedi da tutto",
+          "testo": "Hotel e ristoranti vicino al lungomare."
+        },
+        {
+          "nome": "Verso Balandra",
+          "perChi": "calma",
+          "testo": "Alberghi più tranquilli a nord, più lontani dal centro."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Tacos di pesce",
+          "testo": "Specialità di Baja, nelle taquerías."
+        },
+        {
+          "nome": "Almejas chocolatas",
+          "testo": "Vongole locali, fresche."
+        },
+        {
+          "nome": "Machaca",
+          "testo": "Carne secca sfilacciata con uova, di Baja."
+        },
+        {
+          "nome": "Ceviche",
+          "testo": "Con lime, nei ristoranti sul mare."
+        }
+      ],
+      "attenzioni": [
+        "Balandra ha accesso contingentato: verificare le regole e gli orari.",
+        "Per Los Islotes scegliere operatori autorizzati: le regole sui leoni marini sono severe.",
+        "Sole forte e vento: portare acqua e protezione."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
     imageAlt: 'Playa Balandra dall\'alto con l\'acqua bassa turchese, vicino a La Paz',
@@ -317,6 +937,83 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'Pianificare le uscite nel pomeriggio, quando il vento alza la laguna',
       'Guidare la sera sulla strada del ritorno',
     ],
+      "luoghi": [
+        {
+          "nome": "Avvistamento delle balene grigie",
+          "testo": "Le lagune di Bahía Magdalena ospitano ogni anno le balene grigie che vengono a partorire. Si esce in panga e le balene si avvicinano alla barca.",
+          "come": "Panga con operatore da Puerto Adolfo López Mateos o Puerto San Carlos.",
+          "quando": "Da gennaio a marzo, al mattino con meno vento.",
+          "tempo": "2-3 ore",
+          "consiglio": "Un'uscita al mattino, quando il vento è più debole."
+        },
+        {
+          "nome": "Dune delle isole barriera",
+          "testo": "Dune di sabbia sull'isola Magdalena, tra mare e deserto.",
+          "come": "In panga dalle lagune.",
+          "quando": "Mattina.",
+          "tempo": "Mezza giornata"
+        },
+        {
+          "nome": "Villaggi di pescatori",
+          "testo": "Puerto Adolfo López Mateos e Puerto San Carlos, villaggi di pescatori con mercato e pesce fresco.",
+          "come": "In auto da La Paz o Ciudad Constitución.",
+          "quando": "Giorno.",
+          "tempo": "Mezza giornata",
+          "consiglio": "Il Festival de la Ballena Gris si tiene a fine gennaio-febbraio a López Mateos."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Mattina: uscita in panga per le balene",
+            "Pranzo di pesce",
+            "Pomeriggio: dune"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: arrivo, uscita pomeridiana",
+            "Giorno 2: uscita mattutina e Festival della balena (se in data)"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Puerto Adolfo López Mateos",
+          "perChi": "natura",
+          "testo": "Pochi servizi, locande semplici."
+        },
+        {
+          "nome": "Puerto San Carlos",
+          "perChi": "servizi",
+          "testo": "Più grande, con alberghi."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Pesce e frutti di mare freschi",
+          "testo": "Dal pescato locale."
+        },
+        {
+          "nome": "Tacos di pesce",
+          "testo": "Nei chioschi del paese."
+        },
+        {
+          "nome": "Almejas",
+          "testo": "Vongole locali."
+        },
+        {
+          "nome": "Ceviche",
+          "testo": "Con lime."
+        }
+      ],
+      "attenzioni": [
+        "La stagione delle balene va da gennaio a marzo: fuori stagione non si vedono.",
+        "Il vento del pomeriggio rende il mare mosso: prenotare il mattino.",
+        "Pochi servizi: portare contanti."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
     imageAlt: 'Una balena grigia che emerge in verticale dall\'acqua al largo della Baja California Sur',
@@ -351,6 +1048,78 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'Arrivare a Loreto senza aver fatto benzina nel tratto da Ciudad Constitución',
       'Prenotare con operatori senza permesso del parco',
     ],
+      "luoghi": [
+        {
+          "nome": "Misión de Nuestra Señora de Loreto",
+          "testo": "La prima missione gesuita della Baja California, fondata nel 1697, con museo accanto alla chiesa.",
+          "come": "A piedi dal centro.",
+          "quando": "Mattina.",
+          "tempo": "1 ora",
+          "url": "https://www.inah.gob.mx/"
+        },
+        {
+          "nome": "Parco Nazionale Bahía de Loreto e Isla Coronado",
+          "testo": "Parco marino con isole, snorkeling e avvistamento di balene blu in stagione.",
+          "come": "Barca da Loreto con operatore autorizzato.",
+          "quando": "Mattina; mare calmo.",
+          "tempo": "Giornata intera"
+        },
+        {
+          "nome": "Misión San Javier",
+          "testo": "Missione gesuita del 1699 nella Sierra de la Giganta, raggiunta da una strada sterrata fra montagne e canyon.",
+          "come": "Auto o tour da Loreto (circa 1 ora e mezza).",
+          "quando": "Mattina.",
+          "tempo": "Mezza giornata",
+          "consiglio": "Strada sterrata: serve un mezzo adatto."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Mattina: Misión di Loreto",
+            "Pranzo di pesce",
+            "Pomeriggio: Isla Coronado"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: Loreto e Parque Nacional",
+            "Giorno 2: Misión San Javier"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Centro di Loreto",
+          "perChi": "a piedi da tutto",
+          "testo": "Hotel piccoli e ristoranti vicino al lungomare."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Tacos di pesce",
+          "testo": "Specialità di Baja."
+        },
+        {
+          "nome": "Machaca",
+          "testo": "Carne secca sfilacciata."
+        },
+        {
+          "nome": "Almejas",
+          "testo": "Vongole locali."
+        },
+        {
+          "nome": "Dolci di datteri",
+          "testo": "Prodotti della zona."
+        }
+      ],
+      "attenzioni": [
+        "La strada per San Javier è sterrata: valutare un mezzo adatto.",
+        "Sole forte e caldo estivo: andare presto.",
+        "Operatori autorizzati nel parco nazionale."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
     imageAlt: 'La Misión de Nuestra Señora de Loreto in pietra tra le palme, nel centro del paese',
@@ -373,6 +1142,78 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     comeArrivare: 'In auto da La Paz (circa 1 ora) o da Cabo San Lucas (circa 1 ora).',
     periodoMigliore: 'da novembre ad aprile.',
     erroriDaEvitare: ['Nuotare sulle spiagge aperte del Pacifico fuori da Cerritos: correnti forti'],
+      "luoghi": [
+        {
+          "nome": "Centro storico e gallerie",
+          "testo": "Pueblo Mágico con case coloniali, gallerie d'arte, boutique e caffè.",
+          "come": "A piedi.",
+          "quando": "Mattina e sera.",
+          "tempo": "Mezza giornata"
+        },
+        {
+          "nome": "Playa Cerritos",
+          "testo": "Spiaggia sul Pacifico con onde adatte al surf per principianti, scuole e noleggio tavole.",
+          "come": "Auto o taxi da Todos Santos (circa 15 minuti).",
+          "quando": "Mattina.",
+          "tempo": "Mezza giornata",
+          "consiglio": "Fuori da Cerritos le spiagge del Pacifico hanno correnti forti: non nuotare."
+        },
+        {
+          "nome": "Liberazione delle tartarughe",
+          "testo": "Progetti locali di tutela con liberazione dei piccoli nelle stagioni di schiusa.",
+          "come": "Con i progetti locali, in stagione.",
+          "quando": "Sera.",
+          "tempo": "1-2 ore",
+          "consiglio": "Rispettare le regole del progetto."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Mattina: centro e gallerie",
+            "Pomeriggio: Cerritos e lezione di surf",
+            "Tramonto sul Pacifico"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: centro e Cerritos",
+            "Giorno 2: tartarughe in stagione o un giorno a La Paz"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Centro storico",
+          "perChi": "charme",
+          "testo": "Piccoli hotel e guesthouse, a piedi dai ristoranti."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Tacos di pesce",
+          "testo": "Di Baja."
+        },
+        {
+          "nome": "Pesce alla griglia",
+          "testo": "Fresco, sulla costa."
+        },
+        {
+          "nome": "Cucina campesina",
+          "testo": "Prodotti degli orti locali."
+        },
+        {
+          "nome": "Caffè e dolci",
+          "testo": "Nei caffè del centro."
+        }
+      ],
+      "attenzioni": [
+        "Nuotare sulle spiagge aperte del Pacifico fuori da Cerritos: correnti forti.",
+        "Strada da La Paz e Cabo San Lucas: circa 1 ora.",
+        "Le gallerie chiudono a ore variabili: controllare."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
     imageAlt: 'La lunga spiaggia oceanica di Todos Santos vista dall\'alto',
@@ -403,6 +1244,89 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'Fermarsi con i venditori di multiproprietà in aeroporto e nella Marina',
       'Sottovalutare i prezzi, i più alti della Baja',
     ],
+      "luoghi": [
+        {
+          "nome": "El Arco e Playa del Amor",
+          "testo": "La formazione rocciosa dove il Mar di Cortez incontra il Pacifico, con la spiaggia dell'Amor nascosta dietro.",
+          "come": "Taxi acquatico dal molo di Cabo San Lucas.",
+          "quando": "Mattina.",
+          "tempo": "1-2 ore",
+          "consiglio": "Il mare è mosso: non sempre si può sbarcare."
+        },
+        {
+          "nome": "San José del Cabo",
+          "testo": "Centro coloniale con gallerie d'arte e l'Art Walk del giovedì sera (novembre-giugno).",
+          "come": "Auto o bus da Cabo San Lucas (circa 30 minuti).",
+          "quando": "Giovedì sera.",
+          "tempo": "Mezza giornata"
+        },
+        {
+          "nome": "Parco Nazionale Cabo Pulmo",
+          "testo": "L'unica barriera corallina dura del Golfo di California, patrimonio UNESCO, per snorkeling e immersioni.",
+          "come": "Auto da Los Cabos (circa 1,5-2 ore) e barca con operatore del paese.",
+          "quando": "Mattina.",
+          "tempo": "Giornata intera"
+        },
+        {
+          "nome": "Whale watching delle megattere",
+          "testo": "Avvistamento delle megattere nelle acque di Los Cabos.",
+          "come": "Barca da Cabo San Lucas o San José del Cabo.",
+          "quando": "Dicembre-aprile.",
+          "tempo": "2-3 ore"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Mattina: El Arco in taxi acquatico",
+            "Pranzo a Cabo San Lucas",
+            "Giovedì sera: Art Walk a San José del Cabo"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: El Arco e Cabo San Lucas",
+            "Giorno 2: Cabo Pulmo o balene (dicembre-aprile)"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "San José del Cabo",
+          "perChi": "tranquillità",
+          "testo": "Centro coloniale, più calmo e meno turistico."
+        },
+        {
+          "nome": "Cabo San Lucas",
+          "perChi": "vita serale",
+          "testo": "Marina, bar e locali, molto turistico."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Tacos di pesce",
+          "testo": "Di Baja."
+        },
+        {
+          "nome": "Ceviche",
+          "testo": "Fresco."
+        },
+        {
+          "nome": "Aragosta",
+          "testo": "Alla griglia, in stagione."
+        },
+        {
+          "nome": "Margarita",
+          "testo": "Bar e ristoranti sul mare."
+        }
+      ],
+      "attenzioni": [
+        "Cabo San Lucas è turistica e cara: confrontare i prezzi.",
+        "Offerte di time share: rifiutare chi ferma per strada.",
+        "Il Pacifico ha correnti forti: nuotare solo dove sicuro."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
     imageAlt: 'El Arco di Cabo San Lucas con una barca davanti alle rocce',

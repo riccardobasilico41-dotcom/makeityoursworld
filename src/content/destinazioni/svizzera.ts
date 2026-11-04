@@ -45,6 +45,89 @@ export const destinazioniSvizzera: Destinazione[] = [
       'Fare la spesa nei minimarket delle valli, molto più cari, invece che nei supermercati di Interlaken',
       'Sottovalutare quanto tempo prendano le altre zone: Interlaken è la base, non la meta principale del viaggio',
     ],
+    luoghi: [
+      {
+        nome: "Harder Kulm",
+        testo: "Il belvedere sopra Interlaken, a 1.322 metri, con vista sui due laghi e, in giornata limpida, su Eiger, Mönch e Jungfrau. In cima c'è una piattaforma sospesa e un ristorante.",
+        come: "Funicolare dalla stazione Harder Bahn, vicino a Interlaken Ost, circa 10 minuti.",
+        quando: "Tardo pomeriggio per la luce sui laghi. Funziona da primavera ad autunno.",
+        tempo: "2 ore",
+        consiglio: "Controllare le webcam prima di salire: con nuvole basse il panorama sparisce."
+      },
+      {
+        nome: "Lago di Brienz e cascate del Giessbach",
+        testo: "Il lago più verde e meno turistico, con le cascate del Giessbach che cadono a gradoni per 14 salti accanto a un albergo storico. Si arriva con il battello.",
+        come: "Battello da Interlaken Ost o da Brienz fino al molo, poi la funicolare storica del Giessbach.",
+        quando: "Mattina, in primavera quando le cascate sono piene.",
+        tempo: "mezza giornata",
+        consiglio: "Il tragitto a piedi nel bosco dal molo alle cascate è breve e piacevole."
+      },
+      {
+        nome: "Lago di Thun",
+        testo: "Il lago a ovest di Interlaken, con il castello di Thun, villaggi sulle rive e il battello a vapore storico. Il borgo di Spiez ha un castello sul lago.",
+        come: "Battello o treno da Interlaken West; il battello tra Interlaken e Thun richiede circa 2 ore.",
+        quando: "Estate.",
+        tempo: "mezza giornata",
+        consiglio: "Salire sul battello verso Thun e tornare in treno, per vedere il lago e risparmiare tempo."
+      },
+      {
+        nome: "Iseltwald",
+        testo: "Un piccolo villaggio sul lago di Brienz, sul promontorio con un castello privato. Noto per essere stato set di una serie coreana.",
+        come: "In auto o con il bus da Interlaken Ost, circa 20 minuti.",
+        quando: "Mattina presto, prima dei gruppi.",
+        tempo: "1-2 ore",
+        consiglio: "Il molo si vede meglio all'alba."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Harder Kulm in mattinata",
+          "Battello sul lago di Brienz",
+          "Giessbach nel pomeriggio",
+          "Cena a Interlaken"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: Harder Kulm e il lago di Thun",
+          "Giorno 2: lago di Brienz, Giessbach e Iseltwald"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Interlaken",
+        perChi: "chi vuole una base comoda",
+        testo: "Treni verso tutte le valli. Prezzi alti e centro molto turistico, ma comodo se non si ha l'auto."
+      },
+      {
+        nome: "Brienz e Iseltwald",
+        perChi: "chi cerca silenzio",
+        testo: "Sul lago di Brienz, con meno folla; le mete delle valli vanno raggiunte in auto o in treno."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Rösti",
+        testo: "Patate grattugiate e fritte, spesso con uovo o formaggio, la base della cucina svizzera tedesca."
+      },
+      {
+        nome: "Fondue al formaggio",
+        testo: "Gruyère ed Emmental fusi, da mangiare con pane in pentole comuni."
+      },
+      {
+        nome: "Cioccolato svizzero",
+        testo: "Dai negozi della città e dai supermercati Coop e Migros, il più economico."
+      }
+    ],
+    attenzioni: [
+      "I prezzi sono molto alti: pranzare nei supermercati Coop e Migros riduce la spesa.",
+      "Il biglietto dei battelli è compreso nello Swiss Travel Pass: controllare prima di pagare.",
+      "Per spostarsi in auto serve la vignetta autostradale, da acquistare alla frontiera o online."
+    ],
     esperienzeSlugs: ['giro-battello-laghi-thun-brienz'],
     tripSlugs: ['svizzera-alpi-van'],
     imageAlt: 'Interlaken vista dall\'alto, con il fiume Aare color smeraldo che attraversa la cittadina tra le montagne, nella piana tra i laghi di Thun e Brienz',
@@ -84,6 +167,75 @@ export const destinazioniSvizzera: Destinazione[] = [
       'Arrivare alle Trümmelbachfälle senza sapere che sono chiuse da inizio novembre a inizio aprile',
       'Non prevedere le scarpe da pioggia: le gallerie delle cascate sono umide e scivolose',
     ],
+    luoghi: [
+      {
+        nome: "Cascata dello Staubbach",
+        testo: "Una cascata di circa 297 metri che cade da una parete a picco sul paese, spesso dispersa in nebbia dal vento. Accanto c'è un sentiero con gallerie nella roccia.",
+        come: "A piedi dalla stazione di Lauterbrunnen, pochi minuti. Il sentiero sale in galleria fino a un terrazzo panoramico.",
+        quando: "Mattina, con il sole che entra nella valle. Primavera per il flusso massimo.",
+        tempo: "45 minuti",
+        consiglio: "Portare una giacca impermeabile: il vento porta gli spruzzi."
+      },
+      {
+        nome: "Cascate del Trümmelbach",
+        testo: "Dieci cascate glaciali che scorrono dentro la montagna, visibili da passerelle e gallerie con un ascensore interno. Aperto dalla primavera all'autunno.",
+        come: "Dalla stazione di Lauterbrunnen con il bus o in 30 minuti a piedi.",
+        quando: "Mattina presto, con la maggiore portata a giugno e luglio.",
+        tempo: "1-1 ora e mezza",
+        url: "https://www.truemmelbachfaelle.ch/",
+        consiglio: "Indossare scarpe con suola aderente: le passerelle sono bagnate."
+      },
+      {
+        nome: "Wengen",
+        testo: "Un villaggio senza auto su una terrazza alta, raggiungibile con la cremagliera. Dà accesso alla Kleine Scheidegg e alla linea per Jungfraujoch.",
+        come: "Treno a cremagliera da Lauterbrunnen, circa 15 minuti.",
+        quando: "Tutto l'anno.",
+        tempo: "2 ore",
+        consiglio: "Partire da qui per la camminata verso Männlichen, con la vista sul gruppo dell'Eiger."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Staubbach all'apertura",
+          "Cascate del Trümmelbach",
+          "Cremagliera fino a Wengen",
+          "Camminata panoramica e rientro"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Lauterbrunnen",
+        perChi: "chi vuole stare nella valle",
+        testo: "Campeggi e alloggi nel fondovalle, quasi senza auto di notte; più freddo e meno vita serale."
+      },
+      {
+        nome: "Wengen e Mürren",
+        perChi: "chi cerca villaggi sull'altopiano",
+        testo: "Senza auto, con viste dall'alto, ma da raggiungere con cremagliera o funivia con i bagagli."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Rösti",
+        testo: "Patate fritte, con formaggio o salsiccia."
+      },
+      {
+        nome: "Älplermagronen",
+        testo: "Pasta, patate, formaggio e cipolle fritte, piatto di malga."
+      },
+      {
+        nome: "Formaggi d'alpeggio",
+        testo: "Si comprano nei piccoli negozi e dai produttori."
+      }
+    ],
+    attenzioni: [
+      "Le mucche pascolano sui sentieri: non avvicinarsi alle madri con i vitelli.",
+      "Il tempo cambia in fretta: nebbia e pioggia possono nascondere le cascate in alto.",
+      "I droni sono vietati vicino alle pareti e alle cascate."
+    ],
     esperienzeSlugs: ['trummelbachfalle'],
     tripSlugs: ['svizzera-alpi-van'],
     imageAlt: 'La cascata Staubbach che precipita dalla parete di roccia sopra gli chalet di Lauterbrunnen, tra le nuvole basse, in toni quasi monocromi',
@@ -120,6 +272,74 @@ export const destinazioniSvizzera: Destinazione[] = [
     erroriDaEvitare: [
       'Salire al First credendo che il Bachalpsee sia «dietro l\'angolo»: la camminata richiede 2-3 ore andata e ritorno',
       'Sottovalutare il vento in cima, che sul Cliff Walk può essere forte anche con cielo sereno a valle',
+    ],
+    luoghi: [
+      {
+        nome: "First e il Cliff Walk",
+        testo: "Dalla funivia di Grindelwald si sale al First, a 2.168 metri, con vista su Eiger, Mönch e Jungfrau. Il Cliff Walk è una passerella metallica sospesa sul vuoto, lungo la parete.",
+        come: "Funivia da Grindelwald in circa 25 minuti, con più tronchi. Il Cliff Walk è incluso nel biglietto.",
+        quando: "Mattina, con il cielo più limpido. Chiusure e orari variano con la stagione.",
+        tempo: "2-3 ore",
+        consiglio: "La prima cabina del mattino ha meno coda; i ghiacciai si vedono meglio prima di mezzogiorno."
+      },
+      {
+        nome: "Bachalpsee",
+        testo: "Un lago d'alta quota che riflette il Wetterhorn e lo Schreckhorn. Dal First il sentiero è facile, in leggera salita, circa 50 minuti.",
+        come: "A piedi dalla stazione del First sul sentiero segnalato.",
+        quando: "Mattina, quando l'acqua è ferma e specchia le montagne.",
+        tempo: "2 ore andata e ritorno",
+        consiglio: "Portare uno strato caldo: soffia il vento, anche in luglio."
+      },
+      {
+        nome: "Ghiacciaio inferiore (Unterer Gletscher)",
+        testo: "Il ghiacciaio che scende fino alla valle sopra Grindelwald, con una gola profonda scavata dal fiume. Si arriva a piedi dal paese.",
+        come: "Sentiero dal paese verso la Pfingstegg, circa 1 ora.",
+        quando: "Estate.",
+        tempo: "2-3 ore",
+        consiglio: "Non salire sul ghiaccio senza guida: ci sono crepacci nascosti."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Funivia al First di mattina",
+          "Cliff Walk",
+          "Camminata al Bachalpsee",
+          "Discesa a piedi o in funivia"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Grindelwald",
+        perChi: "chi vuole fare escursioni",
+        testo: "Il paese si trova ai piedi della parete nord dell'Eiger, con servizi e accesso diretto alle funivie."
+      },
+      {
+        nome: "Interlaken",
+        perChi: "chi vuole risparmiare",
+        testo: "Treno da Interlaken Ost in circa 35 minuti, con più scelta di alloggi."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Rösti",
+        testo: "Patate fritte, con uova o formaggio, nei ristoranti d'alpe."
+      },
+      {
+        nome: "Fondue",
+        testo: "Formaggio fuso in pentola, in rifugi e ristoranti del paese."
+      },
+      {
+        nome: "Meringata con panna",
+        testo: "Un dolce di meringhe e panna di montagna."
+      }
+    ],
+    attenzioni: [
+      "Con nuvole basse la vista dal First sparisce: controllare le webcam prima di comprare il biglietto.",
+      "Le passerelle del Cliff Walk non sono adatte a chi soffre di vertigini.",
+      "I sentieri si innevano da ottobre; verificare lo stato dei sentieri."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['svizzera-alpi-van'],
@@ -158,6 +378,76 @@ export const destinazioniSvizzera: Destinazione[] = [
       'Partire nel primo pomeriggio: di solito le nuvole si formano dopo mezzogiorno e coprono la vista',
       'Non prenotare online: alla cassa i biglietti costano di solito di più',
       'Sottovalutare il freddo in quota anche in piena estate: servono giacca a vento e strati anche a luglio',
+    ],
+    luoghi: [
+      {
+        nome: "Terrazza della Sphinx",
+        testo: "L'osservatorio e la terrazza a 3.571 metri, raggiunti con un ascensore dalla stazione. Da qui si vedono l'Aletsch, il Mönch e, nelle giornate limpide, la Foresta Nera e i Vosgi.",
+        come: "Ascensore veloce dalla stazione (Top of Europe) alla piattaforma.",
+        quando: "Mattina, con meno nuvole. Chiusa in caso di vento forte o tempesta.",
+        tempo: "45 minuti",
+        url: "https://www.jungfrau.ch/",
+        consiglio: "Controllare la webcam prima di partire: nelle giornate coperte non si vede nulla."
+      },
+      {
+        nome: "Palazzo di ghiaccio",
+        testo: "Un tunnel scavato nel ghiacciaio, con sculture di ghiaccio, a circa 3.450 metri. Ha pavimento scivoloso e temperatura sotto zero tutto l'anno.",
+        come: "Incluso nel biglietto, accanto alla stazione.",
+        quando: "Tutto l'anno.",
+        tempo: "30 minuti",
+        consiglio: "Indossare scarpe con suola antiscivolo e guanti."
+      },
+      {
+        nome: "Ghiacciaio dell'Aletsch e passeggiata sul Plateau",
+        testo: "Il più lungo ghiacciaio delle Alpi, circa 22 chilometri, e il sentiero sul ghiaccio verso la capanna Mönchsjoch. La camminata è facile ma in alta quota.",
+        come: "Si esce dalla stazione e si segue il sentiero segnalato sul plateau.",
+        quando: "Mattina; la neve è più compatta e il tempo migliore.",
+        tempo: "1 ora",
+        consiglio: "L'aria è rarefatta: camminare piano e bere acqua."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Partenza da Interlaken Ost entro le 8",
+          "Cambio a Kleine Scheidegg",
+          "Terrazza della Sphinx e palazzo di ghiaccio",
+          "Passeggiata sul plateau",
+          "Rientro nel primo pomeriggio"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Interlaken",
+        perChi: "chi parte la mattina presto",
+        testo: "Base comoda per il primo treno; alloggi per ogni budget."
+      },
+      {
+        nome: "Grindelwald",
+        perChi: "chi vuole il treno diretto",
+        testo: "Da Grindelwald si sale con la cremagliera verso Kleine Scheidegg e in meno cambi."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Cioccolato Lindt",
+        testo: "Ce n'è un negozio in cima, caro e turistico, ma è un souvenir tipico."
+      },
+      {
+        nome: "Rösti di montagna",
+        testo: "Al self-service della stazione."
+      },
+      {
+        nome: "Tè caldo e zuppa",
+        testo: "Per scaldarsi tra le due uscite sul ghiaccio."
+      }
+    ],
+    attenzioni: [
+      "Il mal di quota può colpire anche a 3.400 metri: salire con calma, bere e fermarsi se si ha mal di testa.",
+      "Il biglietto è tra i più cari del Paese: confrontare le tariffe del Good Morning Ticket.",
+      "Non tenere i documenti nelle tasche esterne: vento e guanti rendono scomodo cercarli."
     ],
     esperienzeSlugs: ['jungfraujoch-top-of-europe'],
     tripSlugs: ['svizzera-alpi-van'],
@@ -225,6 +515,76 @@ export const destinazioniSvizzera: Destinazione[] = [
           'Per chi ha il van e vuole vedere anche il paese di Mürren, la tratta da Stechelberg con sosta intermedia resta la più semplice da organizzare in una sola giornata.',
       },
     ],
+    luoghi: [
+      {
+        nome: "Schilthorn e Piz Gloria",
+        testo: "La vetta a 2.970 metri con il ristorante girevole che compare in un film di James Bond del 1969. Dalla terrazza si vedono Eiger, Mönch e Jungfrau.",
+        come: "Funivia da Stechelberg (fondovalle) o da Mürren, con più tronchi. Dal paese la salita richiede circa 20 minuti.",
+        quando: "Mattina, con la luce migliore. Chiusa al vento forte.",
+        tempo: "2-3 ore",
+        url: "https://www.schilthorn.ch/",
+        consiglio: "Dal fondovalle la salita è più lunga ma regala vedute sulle pareti."
+      },
+      {
+        nome: "Mürren",
+        testo: "Un villaggio senza auto sull'altopiano, di fronte alla parete nord dell'Eiger. Un posto per la vista, non per i monumenti.",
+        come: "Funivia da Stechelberg o treno da Grütschalp.",
+        quando: "Tutto l'anno.",
+        tempo: "2 ore",
+        consiglio: "Camminare fino al Allmendhubel per la vista sulle montagne."
+      },
+      {
+        nome: "Gimmelwald",
+        testo: "Un minuscolo villaggio agricolo a metà parete, senza auto, raggiungibile in funivia o a piedi da Mürren.",
+        come: "Sentiero in discesa da Mürren, circa 30 minuti.",
+        quando: "Estate e autunno.",
+        tempo: "1 ora e mezza",
+        consiglio: "È un villaggio vivo: rispettare le proprietà e non entrare nelle stalle."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Funivia per lo Schilthorn di mattina",
+          "Colazione a Piz Gloria",
+          "Discesa a Mürren",
+          "Camminata a Gimmelwald",
+          "Rientro a Stechelberg"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Mürren",
+        perChi: "chi vuole vista e silenzio",
+        testo: "Sull'altopiano, senza auto; pochi servizi e prezzi alti."
+      },
+      {
+        nome: "Lauterbrunnen",
+        perChi: "chi vuole risparmiare",
+        testo: "Fondovalle, più servizi e meno cari, con funivia per Mürren."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Rösti",
+        testo: "Patate fritte con uovo o formaggio, nei ristoranti di Mürren."
+      },
+      {
+        nome: "Berner Platte",
+        testo: "Piatto bernese di carni miste e crauti, nelle trattorie."
+      },
+      {
+        nome: "Fondue",
+        testo: "Formaggio fuso, nei ristoranti del villaggio."
+      }
+    ],
+    attenzioni: [
+      "Con nuvole basse lo Schilthorn non si vede: controllare le webcam.",
+      "La sera la funivia ferma presto: segnarsi l'ultima corsa.",
+      "Gimmelwald è un villaggio residenziale: non fare rumore la sera."
+    ],
     esperienzeSlugs: ['via-ferrata-muerren-gimmelwald'],
     tripSlugs: ['svizzera-alpi-van'],
     imageAlt: 'Una cabina della funivia dello Schilthorn sospesa tra Mürren e Birg, sopra le pareti rocciose della valle di Lauterbrunnen',
@@ -260,6 +620,75 @@ export const destinazioniSvizzera: Destinazione[] = [
     erroriDaEvitare: [
       'Programmare il trasferimento senza controllare prima che i due passi siano aperti, soprattutto a inizio giugno o a fine ottobre',
       'Non sapere che il Furka ha un\'alternativa in treno-navetta (Furka Autoverlad) quando il passo è chiuso alla circolazione ordinaria',
+    ],
+    luoghi: [
+      {
+        nome: "Passo del Grimsel",
+        testo: "Un valico a 2.164 metri tra il Canton Berna e il Vallese, in un paesaggio di laghi artificiali, dighe e rocce di granito levigate dal ghiaccio. La strada ha tornanti e punti di sosta.",
+        come: "In auto da Meiringen verso Gletsch, circa 45 minuti. Strada aperta di norma da giugno a ottobre.",
+        quando: "Mattina: meno traffico e luce migliore. Controllare l'apertura in primavera e autunno.",
+        tempo: "2 ore con le soste",
+        consiglio: "Fermarsi alla diga del Räterichsboden e al lago del Grimsel."
+      },
+      {
+        nome: "Ghiacciaio del Rodano",
+        testo: "La sorgente del Rodano, che scende dal ghiacciaio di fronte all'Albergo Belvédère. Una grotta di ghiaccio scavata nel ghiacciaio si visita in estate.",
+        come: "Dal parcheggio di Gletsch, a pochi minuti a piedi dal Belvédère.",
+        quando: "Estate.",
+        tempo: "1 ora",
+        consiglio: "Il ghiacciaio si è ritirato molto: i cartelli mostrano la posizione in anni diversi."
+      },
+      {
+        nome: "Passo della Furka",
+        testo: "Un valico a 2.429 metri, con tornanti ripidi e panorami sul Rodano. Il passo è stato set di un film di James Bond (Goldfinger, 1964).",
+        come: "Da Gletsch in auto, circa 30 minuti.",
+        quando: "Estate.",
+        tempo: "1 ora",
+        consiglio: "La strada ha tratti stretti: precedenza a chi sale."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Meiringen",
+          "Passo del Grimsel",
+          "Gletsch e ghiacciaio del Rodano",
+          "Passo della Furka",
+          "Andermatt o rientro per il Susten"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Meiringen",
+        perChi: "chi arriva da Berna",
+        testo: "Cittadina ai piedi del Grimsel, con alberghi per ogni budget."
+      },
+      {
+        nome: "Andermatt",
+        perChi: "chi continua verso il Ticino",
+        testo: "Paese alpino sulla Furka, comodo per ripartire verso il Gottardo."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Älplermagronen",
+        testo: "Pasta, patate e formaggio, nei rifugi."
+      },
+      {
+        nome: "Meringata di Meiringen",
+        testo: "Il dolce nato nella cittadina, con panna."
+      },
+      {
+        nome: "Formaggio Bergkäse",
+        testo: "Formaggio d'alpeggio."
+      }
+    ],
+    attenzioni: [
+      "I passi sono chiusi da ottobre-novembre a giugno: controllare l'apertura sui siti ufficiali.",
+      "Il maltempo e il ghiaccio possono chiudere il passo in giornata.",
+      "Carburante: i distributori sono rari in quota, fare il pieno a valle."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['svizzera-alpi-van'],
@@ -298,6 +727,91 @@ export const destinazioniSvizzera: Destinazione[] = [
       'Provare a entrare a Zermatt in van o in auto: il divieto c\'è e viene controllato',
       'Non mettere in conto il tempo di guida per arrivarci: oltre due ore da Interlaken anche passando per Grimsel-Furka',
       'Dare per scontato il Cervino libero dalle nuvole: se ne forma di proprie anche quando intorno il cielo è pulito',
+    ],
+    luoghi: [
+      {
+        nome: "Gornergrat",
+        testo: "Il treno a cremagliera più alto d'Europa all'aperto sale a 3.089 metri. Dalla terrazza si vedono il Cervino, il Monte Rosa e il ghiacciaio del Gorner.",
+        come: "Treno dalla stazione di Zermatt, circa 33 minuti.",
+        quando: "Mattina, con il cielo più terso.",
+        tempo: "Mezza giornata",
+        url: "https://www.gornergratbahn.ch/",
+        consiglio: "Scendere a Rotenboden o Riffelberg per camminare un tratto a piedi."
+      },
+      {
+        nome: "Matterhorn Glacier Paradise",
+        testo: "La stazione a 3.883 metri raggiungibile con la funivia più alta d'Europa. Il Palazzo di ghiaccio è scavato nel ghiacciaio.",
+        come: "Funivia da Zermatt con cambio a Furi e Trockener Steg.",
+        quando: "Mattina presto per avere il cielo più terso.",
+        tempo: "Mezza giornata",
+        url: "https://www.matterhornparadise.ch/",
+        consiglio: "Portare occhiali da sole e uno strato caldo: a 3.800 metri fa freddo."
+      },
+      {
+        nome: "Sentiero dei cinque laghi",
+        testo: "Una camminata da Blauherd a Zermatt lungo cinque laghi alpini che riflettono il Cervino. È una delle foto classiche.",
+        come: "Funivia da Zermatt a Blauherd, poi 9 km a piedi in discesa.",
+        quando: "Estate; i laghi riflettono meglio al mattino.",
+        tempo: "3-4 ore",
+        consiglio: "Il lago Stellisee è il più fotografato: arrivare presto."
+      },
+      {
+        nome: "Villaggio di Zermatt",
+        testo: "Il centro senza auto, con case di legno scuro, negozi e hotel. Il piccolo cimitero accanto alla chiesa ricorda gli alpinisti morti sul Cervino.",
+        come: "Dalla stazione a piedi.",
+        quando: "Tutto l'anno.",
+        tempo: "1-2 ore",
+        consiglio: "Il museo del Cervino mostra la storia della prima salita nel 1865."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Gornergrat di mattina",
+          "Pranzo a Riffelberg",
+          "Camminata verso Zermatt",
+          "Cena in paese"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: Gornergrat e paese",
+          "Giorno 2: Matterhorn Glacier Paradise o sentiero dei cinque laghi"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Zermatt",
+        perChi: "chi vuole stare nel centro",
+        testo: "Senza auto; alloggi tutti i prezzi, ma cari."
+      },
+      {
+        nome: "Täsch e Randa",
+        perChi: "chi vuole risparmiare",
+        testo: "Prezzi più bassi, con navetta ferroviaria a Zermatt in 12 minuti."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Raclette",
+        testo: "Formaggio fuso raschiato su patate, tipico del Vallese."
+      },
+      {
+        nome: "Fondue al formaggio",
+        testo: "Con vino bianco del Vallese."
+      },
+      {
+        nome: "Cervino di cioccolato",
+        testo: "Souvenir dolce, in vari negozi."
+      }
+    ],
+    attenzioni: [
+      "Le auto si fermano a Täsch: lasciarle nel parcheggio e prendere il treno.",
+      "Prezzi alti: comprare panini nei supermercati prima di salire.",
+      "Nei giorni di vento o nuvole le funivie possono chiudere: tenere un margine nel programma."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['svizzera-alpi-van'],

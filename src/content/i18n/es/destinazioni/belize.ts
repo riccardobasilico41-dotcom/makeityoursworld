@@ -38,6 +38,98 @@ export const destinazioniBelize: Destinazione[] = [
     ],
     miaEsperienza:
       "Llegamos desde Belize City en el taxi acuático y el «Go Slow» escrito por todas partes describe la isla tal como es: nada de coches, solo carritos de golf y bicicletas, y en dos días el ritmo bajó solo. La playa caribeña clásica casi no existe, la costa es manglares y embarcaderos, y quien la espera se queda descolocado media jornada antes de entender que aquí el mar se hace mar adentro. Mar adentro, de hecho, está la barrera: con la salida en barca a Hol Chan y Shark Ray Alley estuvimos en el agua a un metro de tiburones nodriza y rayas que no hacían el menor caso a quien los miraba. La tarde la dejamos libre hasta el atardecer en el Split, donde se reúne toda la isla. Belice cuesta casi el doble que Guatemala, y aquí se nota.",
+      "luoghi": [
+        {
+          "nome": "The Split",
+          "testo": "El canal abierto por el huracán Hattie en 1961, que dividió la isla en dos. Hoy es el punto de encuentro de la isla: un bar en el muelle, saltos desde el puente y el atardecer visto por todos juntos.",
+          "come": "Al final de la calle principal, a 10 minutos a pie del muelle de los water taxi.",
+          "quando": "Última hora de la tarde hasta el atardecer.",
+          "tempo": "1-2 horas",
+          "consiglio": "En el canal hay corriente: se entra al agua por el lado más calmo y se vigilan las lanchas."
+        },
+        {
+          "nome": "Hol Chan Marine Reserve y Shark Ray Alley",
+          "testo": "Hol Chan es un canal natural en la barrera de coral, al sur de Ambergris, dentro de la primera área marina protegida de Belice. Shark Ray Alley es donde los pescadores limpiaban la pesca: hoy tiburones nodriza y rayas se acercan a la lancha.",
+          "come": "Excursión en barco de media jornada desde Caye Caulker, con guía y equipo. La tasa del parque marino a menudo no está incluida en el precio.",
+          "quando": "Por la mañana, con el mar más tranquilo; mejor época de diciembre a abril.",
+          "tempo": "4-5 horas",
+          "url": "https://www.travelbelize.org/",
+          "consiglio": "De quien ha ido: en el agua a un metro de tiburones nodriza y rayas que no hacen caso a quien los mira. Antes de reservar, preguntar qué incluye el precio."
+        },
+        {
+          "nome": "El Great Blue Hole desde el aire",
+          "testo": "Un sumidero marino de unos 300 metros de diámetro y 125 de profundidad, frente a Lighthouse Reef. El círculo perfecto solo se ve desde arriba.",
+          "come": "Vuelo panorámico en avioneta desde la isla o desde Belize City. La alternativa es una inmersión de día completo, más cara y más cansada.",
+          "quando": "Día despejado, mejor por la mañana.",
+          "tempo": "Media jornada",
+          "consiglio": "El vuelo cuesta mucho menos que la inmersión y muestra lo que prometen las fotos. Bajo el agua hay una pared azul con poca vida."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 día",
+          "tappe": [
+            "Paseo en bicicleta de un extremo a otro de la isla",
+            "Almuerzo en una barbacoa callejera",
+            "Snorkel en el arrecife a primera hora de la tarde",
+            "Atardecer en el Split"
+          ]
+        },
+        {
+          "titolo": "2 días",
+          "tappe": [
+            "Día 1: llegada en water taxi, paseo a pie, atardecer en el Split",
+            "Día 2: mañana en Hol Chan y Shark Ray Alley, tarde libre, cena de pescado en la calle principal"
+          ]
+        },
+        {
+          "titolo": "3 días",
+          "tappe": [
+            "Días 1 y 2 como arriba",
+            "Día 3: vuelo panorámico sobre el Blue Hole o kayak entre los manglares, luego water taxi a Ambergris"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Cerca del muelle",
+          "perChi": "vida social y precios bajos",
+          "testo": "Hostales y casas de huéspedes a pocos pasos de bares y restaurantes. Se duerme cerca de la música nocturna, mejor llevar tapones."
+        },
+        {
+          "nome": "Lado este y norte de la isla",
+          "perChi": "quien busca calma",
+          "testo": "Cabañas más tranquilas, con el mar delante. Para cenar se camina 10-15 minutos, de noche con linterna."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Rice and beans con stew chicken",
+          "testo": "Arroz y frijoles rojos cocidos en leche de coco con pollo guisado: el plato de todos los días. Se encuentra en los locales y puestos de la calle principal."
+        },
+        {
+          "nome": "Fry jacks",
+          "testo": "Masa frita inflada, para el desayuno con huevos, frijoles o miel."
+        },
+        {
+          "nome": "Ceviche de caracola (conch)",
+          "testo": "La caracola cruda marinada en lima con cebolla y cilantro. Es un producto local y se come fresco."
+        },
+        {
+          "nome": "Langosta",
+          "testo": "La temporada va de mediados de junio a finales de febrero: fuera de temporada, si está en el menú, es congelada."
+        },
+        {
+          "nome": "Barbacoa callejera",
+          "testo": "Por la tarde, pollo o pescado a la parrilla con arroz y frijoles, por pocos dólares."
+        }
+      ],
+      "attenzioni": [
+        "Belice es caro comparado con México y Guatemala, sobre todo en excursiones y actividades: preguntar siempre qué está incluido.",
+        "Las tasas de los parques marinos suelen estar excluidas del precio del tour y se pagan aparte.",
+        "Al atardecer aparecen los sandflies, mosquitos que pican: repelente y ropa larga.",
+        "No tocar ni dar de comer a tiburones y rayas durante el snorkel, aunque se acerquen."
+      ],
     esperienzeSlugs: ['hol-chan-shark-ray-alley'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Orilla con palmeras, embarcaderos de madera y agua poco profunda en Caye Caulker, Belice',
@@ -79,6 +171,101 @@ export const destinazioniBelize: Destinazione[] = [
     ],
     miaEsperienza:
       "Desde Caye Caulker nos trasladamos en barca a Ambergris, la isla más grande y desarrollada de Belice: comparada con Caye Caulker, en San Pedro hay más restaurantes, más centros de buceo, más carritos de golf. Es el lugar donde se decide cómo afrontar el Blue Hole. La inmersión de jornada completa cuesta bastante, suele exigir una titulación avanzada y bajo el agua muestra un muro azul con pocas estalactitas y pocos peces; la famosa foto del círculo perfecto solo se ve desde arriba, y el vuelo panorámico cuesta mucho menos y es más fiel a lo que uno se imagina. Para quien se queda en el agua está Secret Beach, con agua poquísimo profunda. La última mañana la dejamos libre, con un último baño y un seaweed shake en el paseo marítimo, antes de volver a Belize City para el vuelo.",
+      "luoghi": [
+        {
+          "nome": "Hol Chan y Shark Ray Alley desde San Pedro",
+          "testo": "El canal natural en el arrecife y el punto de los tiburones nodriza y las rayas, a pocos minutos en barco de San Pedro. Ambergris es la salida más cercana.",
+          "come": "Excursión en barco de media jornada reservada en San Pedro; equipo incluido. Tasa del parque a menudo aparte.",
+          "quando": "Por la mañana; diciembre-abril.",
+          "tempo": "4 horas",
+          "url": "https://www.travelbelize.org/",
+          "consiglio": "Se llega antes, así que en el mismo recorrido cabe otra parada de snorkel."
+        },
+        {
+          "nome": "Secret Beach",
+          "testo": "Una playa en el lado oeste de la isla, con agua muy poco profunda y arena clara, en el lado protegido del viento.",
+          "come": "Taxi golf cart o barco desde San Pedro; el último tramo es de tierra.",
+          "quando": "Mañana o tarde, con cielo despejado. Mejor en días sin viento fuerte del oeste.",
+          "tempo": "Media jornada",
+          "consiglio": "Se va para bañarse y comer junto al agua, no para surfear. Llevar efectivo."
+        },
+        {
+          "nome": "Great Blue Hole",
+          "testo": "Sumidero marino en Lighthouse Reef, patrimonio UNESCO. Desde San Pedro se va en barco para la inmersión o en avión para el vuelo panorámico.",
+          "come": "Inmersión: día completo, tres inmersiones, mar abierto, muchos operadores piden titulación avanzada. Vuelo panorámico: media jornada.",
+          "quando": "Días de mar calmo, más probables de diciembre a abril.",
+          "tempo": "Día completo",
+          "consiglio": "La mejor vista es desde el avión, y cuesta mucho menos. Bajo el agua es una pared azul con pocas estalactitas y poca vida."
+        },
+        {
+          "nome": "El centro de San Pedro",
+          "testo": "Calles de arena con casas de colores, cafés, restaurantes y centros de buceo. El malecón es el corazón del pueblo, con los muelles de salida de todas las excursiones.",
+          "come": "A pie desde el muelle principal. En la isla se circula en golf cart.",
+          "quando": "Mañana temprano para las reservas, noche para la vida del malecón.",
+          "tempo": "Media jornada"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 día",
+          "tappe": [
+            "Mañana en Hol Chan y Shark Ray Alley",
+            "Almuerzo en un comedor lejos del malecón",
+            "Tarde en Secret Beach",
+            "Cena en San Pedro"
+          ]
+        },
+        {
+          "titolo": "2 días",
+          "tappe": [
+            "Día 1: Hol Chan y Shark Ray Alley, atardecer en el malecón",
+            "Día 2: vuelo panorámico sobre el Blue Hole o jornada de buceo, luego Secret Beach"
+          ]
+        },
+        {
+          "titolo": "3 días",
+          "tappe": [
+            "Días 1 y 2 como arriba",
+            "Día 3: kitesurf o windsurf en el lado de barlovento, un último baño y salida hacia Belize City"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "San Pedro",
+          "perChi": "servicios y vida nocturna",
+          "testo": "Restaurantes, centros de buceo y todo a pie. Ruido por la noche y precios más altos en el malecón."
+        },
+        {
+          "nome": "Norte y sur de la isla",
+          "perChi": "resorts tranquilos",
+          "testo": "Playas más anchas y silencio. Para cenar hace falta golf cart o barco lanzadera."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Stew chicken en los comedor",
+          "testo": "Pollo guisado con arroz y frijoles, el mismo plato del malecón a una cuarta parte del precio, en las calles de atrás del pueblo."
+        },
+        {
+          "nome": "Conch fritters",
+          "testo": "Buñuelos de caracola, en temporada, cerca del muelle."
+        },
+        {
+          "nome": "Seaweed shake",
+          "testo": "Batido de algas con leche, especias y canela. Dicho así no convence, pero se bebe."
+        },
+        {
+          "nome": "Pescado a la parrilla",
+          "testo": "La pesca del día en los puestos de San Pedro, con tortillas de maíz hechas al momento."
+        }
+      ],
+      "attenzioni": [
+        "El malecón de San Pedro es caro: para comer mejor y gastar menos conviene ir a las calles interiores.",
+        "El Blue Hole exige experiencia adecuada: muchos operadores piden titulación avanzada o un número mínimo de inmersiones.",
+        "El snorkel en la superficie del Blue Hole muestra poco: no es una razón para gastar esa cifra.",
+        "Precios en dólares beliceños o USD: preguntar siempre en qué moneda está el presupuesto."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Un café en una casa amarilla con soportales a lo largo de una calle de San Pedro, Ambergris Caye, Belice',
@@ -122,6 +309,103 @@ export const destinazioniBelize: Destinazione[] = [
     ],
     miaEsperienza:
       "Llegamos a San Ignacio desde la frontera de Melchor de Mencos, con el primer contacto con el inglés y con los precios más altos de Belice. El día siguiente lo dedicamos a la cueva ATM, lo más impresionante de todo Belice: una caminata por la selva con tres vadeos, luego se entra a nado en un río subterráneo y se avanza durante horas en agua fría, con pasos en los que hay que girarse de lado. En la cámara superior uno se quita los zapatos y camina en calcetines entre cerámicas intactas y restos humanos dejados donde los mayas los habían depositado hace más de mil años, incluida la «Crystal Maiden». Nada de fotografías, prohibidas desde que una caída accidental dañó una pieza. El día siguiente fue más ligero: Xunantunich, al que se llega con un pequeño transbordador manual por el río Mopan, y por la tarde las pozas de Rio On en la Mountain Pine Ridge. Quien tenga problemas con los espacios estrechos o con el agua fría puede elegir Xunantunich, que es al aire libre.",
+      "luoghi": [
+        {
+          "nome": "Actun Tunichil Muknal (ATM)",
+          "testo": "Cueva arqueológica maya con cerámicas y restos humanos dejados donde los mayas los depositaron hace más de mil años, incluida la «Crystal Maiden». Se entra nadando por un río subterráneo.",
+          "come": "Solo con guía autorizado, tour desde San Ignacio con transporte: caminata por la selva con tres vados, luego horas en agua fría y pasos estrechos.",
+          "quando": "Mañana; diciembre-abril. Puede cerrar tras lluvias fuertes por el nivel del agua.",
+          "tempo": "Día completo (unas 8 horas)",
+          "url": "https://www.nichbelize.org/",
+          "consiglio": "Cámaras prohibidas para todos, sin excepciones. Quien sufra de claustrofobia o no soporte el agua fría, mejor que se la salte."
+        },
+        {
+          "nome": "Xunantunich",
+          "testo": "Sitio maya del periodo clásico con la pirámide El Castillo, de unos 40 metros, en una colina sobre el río Mopan. Se sube hasta la cima.",
+          "come": "Desde San Ignacio taxi hasta el Mopan, luego el ferry de cadena gratuito; al otro lado, 15 minutos de subida a pie.",
+          "quando": "Mañana, antes del calor.",
+          "tempo": "2 horas",
+          "url": "https://www.nichbelize.org/",
+          "consiglio": "Desde la cima se ve Guatemala. Se combina fácilmente con la cueva o con Rio On el mismo día."
+        },
+        {
+          "nome": "Caracol",
+          "testo": "El sitio maya más grande de Belice, en medio de la selva de Chiquibul. La pirámide Caana sigue siendo la estructura más alta del país.",
+          "come": "Excursión desde San Ignacio con guía, por un camino de tierra de 1h30-2 horas; el almuerzo suele estar incluido.",
+          "quando": "Mañana temprano. Estación seca por el camino.",
+          "tempo": "Día completo",
+          "url": "https://www.nichbelize.org/",
+          "consiglio": "Se va por el silencio y los monos aulladores, no por las multitudes de Tikal. Comprobar el estado del camino."
+        },
+        {
+          "nome": "Rio On Pools y Mountain Pine Ridge",
+          "testo": "Una serie de cascadas pequeñas y pozas naturales en el Rio On, en un bosque de pinos de altiplano. Se nada y se resbala por las rocas lisas.",
+          "come": "En coche o taxi desde San Ignacio (unos 45 minutos). Entrada gratuita.",
+          "quando": "Por la tarde, con el agua más tibia.",
+          "tempo": "1-2 horas",
+          "consiglio": "Zapatos de agua: las rocas resbalan."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 día",
+          "tappe": [
+            "Mañana: Xunantunich con el ferry sobre el Mopan",
+            "Almuerzo en el mercado de San Ignacio",
+            "Tarde: Rio On Pools"
+          ]
+        },
+        {
+          "titolo": "2 días",
+          "tappe": [
+            "Día 1: cueva ATM, día completo",
+            "Día 2: Xunantunich por la mañana, Rio On por la tarde, cena en San Ignacio"
+          ]
+        },
+        {
+          "titolo": "3 días",
+          "tappe": [
+            "Días 1 y 2 como arriba",
+            "Día 3: Caracol con guía, o un día en Tikal desde la frontera guatemalteca"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "San Ignacio",
+          "perChi": "precios y servicios",
+          "testo": "El pueblo tiene más restaurantes, agencias y el mercado. Todos los tours se organizan a pie."
+        },
+        {
+          "nome": "Lodges en el Macal o la Mountain Pine Ridge",
+          "perChi": "estar en la selva",
+          "testo": "Más silencio, aves y paseos, pero lejos de los restaurantes y atados a los traslados."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Mercado de San Ignacio",
+          "testo": "Sábado por la mañana: fruta, pupusas, tamales y cocina chino-beliceña. El sitio más barato para comer."
+        },
+        {
+          "nome": "Stew chicken y pollo a la parrilla",
+          "testo": "En los puestos nocturnos de la calle principal."
+        },
+        {
+          "nome": "Fry jacks",
+          "testo": "Desayuno con masa frita inflada."
+        },
+        {
+          "nome": "Cocina maya del Cayo",
+          "testo": "Tamales, tortillas de maíz y salsas picantes, más presentes aquí que en el resto de Belice."
+        }
+      ],
+      "attenzioni": [
+        "Reservar el tour ATM solo con operadores autorizados: el acceso es limitado y reservado a guías con licencia específica.",
+        "Sin cámaras en la cueva ATM: prohibidas desde hace años, desde que una caída dañó una pieza.",
+        "En la frontera con Guatemala (Benque Viejo/Melchor de Mencos): cambiar dinero solo en ventanillas oficiales, no con quien se acerca.",
+        "Tras lluvias fuertes la cueva ATM y algunos caminos, como el de Caracol, pueden cerrar."
+      ],
     esperienzeSlugs: ['grotta-atm'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'La pirámide El Castillo del sitio maya de Xunantunich, cerca de San Ignacio en el distrito del Cayo, Belice',
@@ -163,6 +447,106 @@ export const destinazioniBelize: Destinazione[] = [
     ],
     miaEsperienza:
       "Desde San Ignacio bajamos a Placencia por la Hummingbird y la Southern Highway, y allí encontramos por primera vez en el viaje la arena caribeña de postal, la que en las islas del norte falta casi por completo. La Placencia Sidewalk atraviesa a pie todo el pueblo; al día siguiente hicimos la excursión en barca a la Laughing Bird Caye, con agua poco profunda y arrecifes cerca de la costa. Luego Hopkins, a menos de una hora, que cuenta más por la cultura que por el mar. Los garífunas descienden de africanos que nunca fueron esclavos, deportados aquí desde el Caribe oriental, y tienen lengua, cocina y percusiones propias, reconocidas por la UNESCO. Una clase de tambor con un maestro del pueblo dice más que cualquier museo, y en la mesa el plato que hay que buscar es el hudut. Tras las intensas jornadas de Guatemala y del Cayo, Hopkins fue nuestro día de descompresión. Los tiburones ballena de Gladden Spit, en cambio, dependen de las lunas llenas entre marzo y junio: hay que tomarlos como un extra, no ponerlos en el centro del itinerario.",
+      "luoghi": [
+        {
+          "nome": "Placencia Sidewalk",
+          "testo": "El paseo peatonal de cemento que atraviesa el pueblo, en el borde de la península, con tiendas, bares y playa de arena fina a pocos pasos. Lo más parecido a una playa de postal caribeña en tierra firme.",
+          "come": "A pie desde el pueblo; la península también se recorre en bici o golf cart.",
+          "quando": "Mañana para la playa, última hora de la tarde para pasear.",
+          "tempo": "Media jornada"
+        },
+        {
+          "nome": "Laughing Bird Caye",
+          "testo": "Un islote-parque nacional en el atolón frente a Placencia, con arrecife cercano y agua poco profunda. Forma parte del sitio UNESCO de la barrera de coral.",
+          "come": "Excursión en barco de media jornada desde Placencia con uno de los operadores locales; tasa del parque aparte.",
+          "quando": "Mañana, mar calmo; estación seca.",
+          "tempo": "4-5 horas",
+          "url": "https://www.travelbelize.org/",
+          "consiglio": "Llevar protector solar apto para arrecifes y no tocar los corales."
+        },
+        {
+          "nome": "Hopkins y la cultura garífuna",
+          "testo": "Pueblo garífuna junto al mar. Los garífuna son descendientes de africanos que nunca fueron esclavizados, con lengua, cocina y percusiones propias, protegidas por la UNESCO.",
+          "come": "Desde Placencia 40-50 minutos en coche o lanzadera. En el pueblo se va a pie.",
+          "quando": "Tarde-noche para los tambores, mañana para la comida.",
+          "tempo": "Media jornada",
+          "consiglio": "Una clase de tambor con un maestro del pueblo dice más que cualquier museo. Preguntar en el pueblo."
+        },
+        {
+          "nome": "Cockscomb Basin Wildlife Sanctuary",
+          "testo": "La primera reserva del mundo dedicada a los jaguares, en un valle de selva húmeda con senderos a cascadas y miradores. El jaguar se ve raramente.",
+          "come": "Desde Hopkins o Placencia en coche hasta la entrada (unos 30-50 minutos); senderos de 1-4 horas, algunos con pozas para bañarse.",
+          "quando": "Mañana temprano; estación seca.",
+          "tempo": "Media jornada",
+          "url": "https://www.travelbelize.org/",
+          "consiglio": "Es más fácil ver aves y monos que jaguares: ir por la selva."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 día",
+          "tappe": [
+            "Mañana: playa y Placencia Sidewalk",
+            "Almuerzo de pescado en el pueblo",
+            "Tarde: excursión a Laughing Bird Caye"
+          ]
+        },
+        {
+          "titolo": "2 días",
+          "tappe": [
+            "Día 1: Placencia y Laughing Bird Caye",
+            "Día 2: Hopkins, clase de tambor, hudut para comer, luego Cockscomb Basin"
+          ]
+        },
+        {
+          "titolo": "3 días",
+          "tappe": [
+            "Días 1 y 2 como arriba",
+            "Día 3: estacional, excursión a los tiburones ballena en Gladden Spit (aprox. marzo-junio, alrededor de la luna llena)"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Placencia village",
+          "perChi": "vida social",
+          "testo": "Bares, restaurantes, tiendas y playa a pie. Más ruido y precios más turísticos."
+        },
+        {
+          "nome": "Península al norte",
+          "perChi": "resorts tranquilos",
+          "testo": "Arena ancha y silencio, pero hay que desplazarse para cenar."
+        },
+        {
+          "nome": "Hopkins",
+          "perChi": "ambiente de pueblo",
+          "testo": "Menos servicios, más cultura. El mar es más oscuro y la playa menos de postal."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Hudut",
+          "testo": "Pescado en leche de coco con puré de plátano verde. Largo de preparar, lo sirven sobre todo los restaurantes familiares de Hopkins."
+        },
+        {
+          "nome": "Chocolate del sur de Belice",
+          "testo": "Elaborado en pequeñas fincas alrededor de Punta Gorda, se vende en todo el país."
+        },
+        {
+          "nome": "Ceviche de caracola y pescado a la parrilla",
+          "testo": "En todas partes en Placencia, con la habitual diferencia de precio entre primera línea y calles interiores."
+        },
+        {
+          "nome": "Rice and beans con pollo",
+          "testo": "El plato básico beliceño, en los comedores del pueblo."
+        }
+      ],
+      "attenzioni": [
+        "Los tiburones ballena de Gladden Spit dependen de las lunas llenas entre marzo y junio: no construir el viaje en torno a ellos.",
+        "El bus por la Southern Highway tarda 4-5 horas: dejar buen margen si hay un vuelo.",
+        "Al atardecer llegan los sandflies a la playa: repelente.",
+        "Las excursiones en barco pueden cancelarse con el mar picado."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Palmeras, arena blanca y mar turquesa en la playa de Placencia, Belice',

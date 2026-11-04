@@ -43,6 +43,100 @@ export const destinazioniGuatemala: Destinazione[] = [
     ],
     miaEsperienza:
       'Siamo arrivati ad Antigua nel primo pomeriggio e la prima passeggiata fra le strade acciottolate l\'abbiamo fatta con i vulcani Agua, Fuego e Acatenango in fondo a ogni via. Il giorno dopo abbiamo girato il centro storico, dall\'Arco di Santa Catalina alle chiese in rovina, e siamo saliti al Cerro de la Cruz per il panorama. Quello che mi resta è l\'Acatenango: cinque-sei ore di salita fra i campi di mais e la pineta, sulla sabbia vulcanica che cede sotto i piedi, il tratto più faticoso di tutto il viaggio. Il campo era sopra le nuvole, il Fuego ha cominciato a eruttare prima del tramonto e di notte lo vedevamo buttare lava a un paio di chilometri senza uscire dal sacco a pelo, con un freddo vicino allo zero. La mattina siamo scesi scivolando sulla sabbia più che camminando. La lista delle cose fatte in Centro America comincia da lì.',
+      "luoghi": [
+        {
+          "nome": "Arco de Santa Catalina",
+          "testo": "L'arco giallo del XVII secolo sulla 5ª Avenida Norte, con il vulcano Agua incorniciato sullo sfondo. È la foto simbolo della città.",
+          "come": "A piedi dalla piazza centrale, 5 minuti. Ingresso libero.",
+          "quando": "Mattina presto, senza folla e con il vulcano limpido.",
+          "tempo": "15 minuti"
+        },
+        {
+          "nome": "Convento di Santa Clara e La Merced",
+          "testo": "Chiese e conventi coloniali rovinati dal terremoto del 1773, che costrinse a spostare la capitale. Antigua è patrimonio UNESCO per questo insieme.",
+          "come": "A piedi nel centro. Biglietto d'ingresso piccolo per le rovine di Santa Clara; La Merced è una chiesa ancora in uso.",
+          "quando": "Mattina; la luce del pomeriggio è buona sulla facciata di La Merced.",
+          "tempo": "2-3 ore per entrambe",
+          "url": "https://inguat.gob.gt/"
+        },
+        {
+          "nome": "Cerro de la Cruz",
+          "testo": "Un belvedere in collina con la città in primo piano e i vulcani Agua, Fuego e Acatenango dietro. Si raggiunge con una breve salita.",
+          "come": "A piedi in 20-30 minuti dal centro, ma meglio in gruppo o accompagnati dalla polizia turistica, presente in zona.",
+          "quando": "Mattina presto o tardo pomeriggio.",
+          "tempo": "1 ora",
+          "consiglio": "Non salire da soli e non portare oggetti di valore: la zona ha avuto problemi di sicurezza in passato."
+        },
+        {
+          "nome": "Vulcano Acatenango",
+          "testo": "Salita con campo base sopra le nuvole, davanti al Fuego che erutta. Il tratto più duro del viaggio in Guatemala.",
+          "come": "Tour di due giorni da Antigua con guida, tenda e pasti. Il cammino dura 5-6 ore di salita fra campi di mais, pineta e sabbia vulcanica.",
+          "quando": "Stagione secca (novembre-aprile); la mattina dopo si scende sulla sabbia.",
+          "tempo": "2 giorni, 1 notte",
+          "consiglio": "Il campo è vicino allo zero di notte: guanti, berretto, strati caldi. La discesa scivola più che camminare."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Mattina: Arco di Santa Catalina e rovine di La Merced",
+            "Mercato municipale e pranzo",
+            "Pomeriggio: Convento di Santa Clara",
+            "Tramonto al Cerro de la Cruz, con la polizia turistica"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: centro storico e Cerro de la Cruz",
+            "Giorno 2: Acatenango (2 giorni totali con la notte al campo)"
+          ]
+        },
+        {
+          "titolo": "3 giorni",
+          "tappe": [
+            "Giorno 1: città e rovine",
+            "Giorni 2-3: Acatenango con notte al campo",
+            "Se resta tempo, un laboratorio di cioccolato o di giada in città"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Centro storico",
+          "perChi": "chi vuole stare a piedi da tutto",
+          "testo": "Strade acciottolate, tutto vicino, ma rumore il fine settimana e prezzi più alti."
+        },
+        {
+          "nome": "Zone sopra la 5ª Calle e attorno ai conventi",
+          "perChi": "chi cerca più calma",
+          "testo": "Più tranquille di notte; si cammina 10-15 minuti al centro."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Pepián",
+          "testo": "Stufato di carne con semi di zucca, sesamo e peperoncino, il piatto nazionale. Nei comedor e nei ristoranti tipici."
+        },
+        {
+          "nome": "Tamales",
+          "testo": "Il sabato è il giorno dei tamales colorati, avvolti nelle foglie di platano. Nei mercati e nelle case."
+        },
+        {
+          "nome": "Hilachas",
+          "testo": "Carne sfilacciata in salsa di pomodoro e tomatillo, con patate. Piatto di famiglia."
+        },
+        {
+          "nome": "Cioccolato guatemalteco",
+          "testo": "Tazze di cioccolato e tavolette lavorate in città, venduto in negozi specializzati."
+        }
+      ],
+      "attenzioni": [
+        "Salita al Cerro de la Cruz: meglio in gruppo o con la polizia turistica.",
+        "Per l'Acatenango scegliere operatori affidabili con attrezzatura adeguata: di notte la temperatura scende a zero.",
+        "Il Fuego è attivo: seguire sempre le indicazioni della guida e i bollettini della protezione civile (CONRED)."
+      ],
     esperienzeSlugs: ['trekking-acatenango'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Strada acciottolata di Antigua Guatemala con case coloniali e il vulcano Agua sullo sfondo',
@@ -88,6 +182,103 @@ export const destinazioniGuatemala: Destinazione[] = [
     ],
     miaEsperienza:
       'Panajachel è il nodo dei trasporti, con la Calle Santander piena di artigianato, ma fermarsi solo lì è l\'errore più comune: il lago comincia quando si sale su una lancha. In una giornata abbiamo toccato San Juan la Laguna, con le cooperative tessili e i murales, San Marcos, il paese dello yoga, e San Pedro, e ogni dieci minuti di barca cambiava l\'atmosfera. Il giorno dopo ci siamo svegliati alle quattro per l\'Indian Nose e poi abbiamo preso la lancha per Santiago Atitlán, dove le donne portano ancora il tocoyal avvolto in testa. Abbiamo imparato in fretta a muoverci al mattino, perché dal primo pomeriggio si alza lo Xocomil e le traversate diventano mosse. L\'alba dall\'Indian Nose vale la sveglia solo col cielo sereno: nella stagione delle piogge si sale al buio per guardare una nuvola.',
+      "luoghi": [
+        {
+          "nome": "San Juan la Laguna",
+          "testo": "Il villaggio più curato del lago, con cooperative tessili di donne, murales sulle facciate e atelier d'arte.",
+          "come": "In lancha pubblica da Panajachel o San Pedro (circa 30-45 minuti), poi si cammina nelle stradine.",
+          "quando": "Mattina, quando le cooperative sono aperte.",
+          "tempo": "2-3 ore",
+          "consiglio": "Comprare nelle cooperative, dove il ricavato va alle tessitrici."
+        },
+        {
+          "nome": "San Marcos la Laguna",
+          "testo": "Il paese dello yoga e delle pratiche olistiche. Sul lungolago c'è la piattaforma per i tuffi di Cerro Tzankujil.",
+          "come": "In lancha da Panajachel o San Pedro.",
+          "quando": "Mattina, mare del lago più calmo.",
+          "tempo": "Mezza giornata"
+        },
+        {
+          "nome": "Santiago Atitlán",
+          "testo": "Il villaggio più grande e tradizionale, dove le donne portano il tocoyal avvolto in testa e si venera Maximón, figura sincretica.",
+          "come": "In lancha pubblica da Panajachel, circa 30-40 minuti.",
+          "quando": "Mattina.",
+          "tempo": "Mezza giornata",
+          "consiglio": "Prima di fotografare persone o la figura di Maximón, chiedere sempre il permesso e lasciare una piccola offerta."
+        },
+        {
+          "nome": "Indian Nose (Rostro Maya)",
+          "testo": "Un belvedere a 3.000 metri sopra San Juan la Laguna, per l'alba sul lago e sui vulcani.",
+          "come": "Sveglia verso le 4, partenza in pick-up e cammino di circa un'ora al buio con guida.",
+          "quando": "Alba, con cielo sereno.",
+          "tempo": "Mezza mattina",
+          "consiglio": "Nella stagione delle piogge si sale al buio per guardare una nuvola: controllare le previsioni."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Mattina presto: Indian Nose oppure lancha per San Juan la Laguna",
+            "San Marcos per un tuffo e pranzo",
+            "Rientro prima del vento del pomeriggio (Xocomil)"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: San Juan la Laguna, San Marcos e San Pedro in lancha",
+            "Giorno 2: Indian Nose all'alba, poi Santiago Atitlán"
+          ]
+        },
+        {
+          "titolo": "3 giorni",
+          "tappe": [
+            "Giorni 1 e 2 come sopra",
+            "Giorno 3: riserva naturale di Atitlán vicino a Panajachel, o giornata di pausa sul lago"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Panajachel",
+          "perChi": "nodo dei trasporti, prime notti",
+          "testo": "Servizi, ristoranti, Calle Santander piena di artigianato. Meno atmosfera del resto del lago."
+        },
+        {
+          "nome": "San Pedro la Laguna",
+          "perChi": "budget e vita serale",
+          "testo": "Economico, giovane, rumoroso la sera."
+        },
+        {
+          "nome": "San Marcos e San Juan",
+          "perChi": "calma e benessere",
+          "testo": "Più tranquilli e più cari; per yoga, silenzio e arte."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Pepián e caldo di pollo",
+          "testo": "Piatti caldi nelle comedor sul lago, dopo una mattina in barca."
+        },
+        {
+          "nome": "Pesce del lago",
+          "testo": "Tilapia e black bass fritti, in riva a Panajachel e Santiago."
+        },
+        {
+          "nome": "Tortillas e frijoles",
+          "testo": "La base di ogni pasto, nei comedor di villaggio."
+        },
+        {
+          "nome": "Caffè di Atitlán",
+          "testo": "Caffè coltivato sulle pendici del lago, da assaggiare nei piccoli caffè locali."
+        }
+      ],
+      "attenzioni": [
+        "Muoversi sul lago la mattina: dal primo pomeriggio si alza lo Xocomil e le traversate sono mosse.",
+        "Usare le lancha pubbliche ufficiali e concordare il prezzo prima di salire.",
+        "I sentieri fra i paesi, soprattutto a San Pedro, hanno avuto episodi di rapine: camminare in gruppo e di giorno."
+      ],
     esperienzeSlugs: ['lance-villaggi-atitlan'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Le acque blu del lago Atitlán con i vulcani sullo sfondo, visti da San Marcos La Laguna, Guatemala',
@@ -133,6 +324,107 @@ export const destinazioniGuatemala: Destinazione[] = [
     ],
     miaEsperienza:
       'Siamo partiti da Flores verso le tre del mattino e abbiamo camminato al buio fino al Tempio IV con la guida. L\'alba, nella stagione secca, è spesso velata dalla foschia; quello che vale la sveglia è il sonoro, il coro di scimmie urlatrici e uccelli che si sveglia col primo chiarore, prima che arrivino i pullman. Il resto della giornata l\'abbiamo passato fra la Gran Plaza, i Templi I e II e il Mundo Perdido, camminando per chilometri sotto la volta della foresta: è questo che distingue Tikal dagli altri siti maya. Flores, dove eravamo arrivati la sera prima, è un\'isola di case colorate con un lungolago tranquillo, che vive quasi solo del turismo verso Tikal.',
+      "luoghi": [
+        {
+          "nome": "Gran Plaza e Templi I e II",
+          "testo": "Il cuore di Tikal: i Templi I (del Gran Giaguaro) e II si fronteggiano sulla piazza cerimoniale, con acropoli ai lati. Patrimonio UNESCO nel Parco Nazionale Tikal.",
+          "come": "Dal parco si cammina nella foresta; entrata e sentieri fanno chilometri. Visita con guida consigliata, anche per la fauna.",
+          "quando": "Apertura del parco all'alba; mattina presto per fresco e animali.",
+          "tempo": "3-4 ore",
+          "url": "https://inguat.gob.gt/"
+        },
+        {
+          "nome": "Tempio IV",
+          "testo": "Il tempio più alto del sito, con una piattaforma in legno sopra la volta della foresta e vista sulle cime degli altri templi.",
+          "come": "Salita su scale di legno a fine percorso, con la torcia se si sale per l'alba.",
+          "quando": "Alba o tardo pomeriggio.",
+          "tempo": "1 ora",
+          "consiglio": "Nella stagione secca l'alba è spesso velata dalla foschia. Quello che vale la sveglia è il coro di scimmie urlatrici e uccelli prima dei pullman."
+        },
+        {
+          "nome": "Mundo Perdido",
+          "testo": "Il complesso più antico del sito, con una piramide e piattaforme che si vedono dall'alto di una scala ripida.",
+          "come": "A piedi dal parco, dopo la Gran Plaza.",
+          "quando": "Tardo pomeriggio per il tramonto, se l'accesso è consentito.",
+          "tempo": "1-1,5 ore"
+        },
+        {
+          "nome": "Isola di Flores",
+          "testo": "Un'isola di case colorate sul lago Petén Itzá, col lungolago tranquillo. Vive quasi solo del turismo verso Tikal.",
+          "come": "Ponte pedonale da Santa Elena. A piedi in 15 minuti da un capo all'altro.",
+          "quando": "Sera, per cena e lungolago.",
+          "tempo": "Mezza giornata"
+        },
+        {
+          "nome": "Yaxhá",
+          "testo": "Un sito maya meno visitato, con vista sul lago e tramonto dalla piramide, a un'ora e mezza da Flores.",
+          "come": "Tour da Flores o taxi; è un sito grande, con pochi turisti.",
+          "quando": "Tardo pomeriggio.",
+          "tempo": "Mezza giornata",
+          "url": "https://inguat.gob.gt/",
+          "consiglio": "Se Tikal è affollata, Yaxhá vale la deviazione."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Partenza da Flores alle 3 del mattino per il Tempio IV all'alba",
+            "Gran Plaza, Templi I e II",
+            "Mundo Perdido",
+            "Rientro a Flores nel pomeriggio, cena sul lungolago"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: arrivo a Flores, lungolago e cena",
+            "Giorno 2: Tikal all'alba e visita completa; il pomeriggio libero"
+          ]
+        },
+        {
+          "titolo": "3 giorni",
+          "tappe": [
+            "Giorni 1-2 come sopra",
+            "Giorno 3: Yaxhá al tramonto, o il confine con il Belize"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Isola di Flores",
+          "perChi": "atmosfera e comodità",
+          "testo": "Ristoranti e hotel in riva al lago, strade strette. Il rumore è basso, ma a Tikal si arriva con 1 ora di auto."
+        },
+        {
+          "nome": "El Remate",
+          "perChi": "chi vuole più calma e natura",
+          "testo": "Sul lago Petén Itzá, a 30 minuti da Tikal: piccole cabañas e il tramonto sul lago."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Pepián e caldo de gallina",
+          "testo": "Piatti tipici guatemaltechi, nei comedor di Flores."
+        },
+        {
+          "nome": "Pesce del lago Petén Itzá",
+          "testo": "Fritto o alla piastra sui lungolago."
+        },
+        {
+          "nome": "Tamales di Petén",
+          "testo": "Di mais e carne, avvolti nelle foglie di platano."
+        },
+        {
+          "nome": "Caffè e dolci di mais",
+          "testo": "Per la colazione, nei piccoli locali dell'isola."
+        }
+      ],
+      "attenzioni": [
+        "Chiedere sempre che cosa è incluso nel tour dell'alba: spesso l'ingresso al parco è a parte.",
+        "Nella stagione delle piogge l'alba spesso non si vede: valutare se vale la sveglia.",
+        "Nel sito si cammina per chilometri sotto la foresta: portare acqua, repellente e scarpe chiuse."
+      ],
     esperienzeSlugs: ['alba-tikal'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Piramide a gradoni del Mundo Perdido tra gli alberi del sito maya di Tikal, Guatemala',
@@ -175,6 +467,91 @@ export const destinazioniGuatemala: Destinazione[] = [
     ],
     miaEsperienza:
       'Arrivarci è metà del racconto: da Panajachel a Lanquín è stata la giornata di trasferimento più lunga del viaggio, con l\'ultimo tratto su una sterrata che scende lenta nella valle. Il giorno dopo abbiamo risalito le piscine dal basso verso l\'alto e poi siamo saliti al Mirador: la salita è ripida, ma senza la vista dall\'alto non si capisce come funziona il posto, con il fiume che sparisce sotto il ponte di roccia e riemerge trecento metri più in là. Nel pomeriggio siamo entrati nelle grotte di K\'anba, con una candela in mano e alcuni tratti da fare a nuoto al buio: la cosa meno turistica della zona e quella che ricordo di più. Chi soffre di claustrofobia le salti senza rimpianti.',
+      "luoghi": [
+        {
+          "nome": "Piscine naturali di Semuc Champey",
+          "testo": "Una serie di vasche turchesi a gradoni, formate dal calcare, sopra il fiume Cahabón che scorre sotto il ponte di roccia. Monumento naturale con ingresso a pagamento.",
+          "come": "Da Lanquín 30 minuti in pick-up lungo una sterrata. Dall'ingresso si cammina fino alle piscine.",
+          "quando": "Mattina, con meno gente e acqua più chiara; evitare dopo piogge forti, quando l'acqua si intorbida.",
+          "tempo": "2-3 ore",
+          "consiglio": "Si risale dal basso verso l'alto, poi si sale al Mirador: così si capisce come funziona il posto."
+        },
+        {
+          "nome": "Il Mirador",
+          "testo": "Il punto panoramico sopra le piscine. Da qui si vede come il fiume sparisce sotto il ponte di roccia e riemerge trecento metri più in là.",
+          "come": "Sentiero ripido di 30-45 minuti dall'ingresso, con scale e fango.",
+          "quando": "Mattina; evitare ore di pioggia, quando i gradini scivolano.",
+          "tempo": "1-1,5 ore",
+          "consiglio": "Scarpe con presa e acqua: la salita è dura, ma senza la vista dall'alto si perde il senso del posto."
+        },
+        {
+          "nome": "Grotte di K'anba",
+          "testo": "Una grotta con corridoi allagati da percorrere con una candela in mano e alcuni tratti a nuoto al buio. La cosa meno turistica della zona.",
+          "come": "Con guida, a poca distanza dall'ingresso del monumento naturale.",
+          "quando": "Dopo la visita alle piscine, nel pomeriggio.",
+          "tempo": "1-1,5 ore",
+          "consiglio": "Chi soffre di claustrofobia le salti: i passaggi sono stretti e al buio."
+        },
+        {
+          "nome": "Lanquín",
+          "testo": "Il villaggio base, ultimo avamposto prima di Semuc Champey, con ostelli e un solo asse stradale.",
+          "come": "Da Cobán o da Guatemala City con shuttle, 8-10 ore da Antigua o Atitlán.",
+          "quando": "Arrivo il giorno prima.",
+          "tempo": "Una notte"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Mattina: piscine e Mirador",
+            "Pranzo",
+            "Pomeriggio: grotte di K'anba"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: arrivo a Lanquín, sosta all'ingresso del parco",
+            "Giorno 2: piscine, Mirador, grotte; rientro in shuttle il giorno dopo"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Lanquín",
+          "perChi": "tutti",
+          "testo": "È il paese base: pochi alloggi, ostelli e guesthouse in fascia semplice, elettricità e connessione limitate."
+        },
+        {
+          "nome": "Dintorni del fiume Cahabón",
+          "perChi": "chi cerca natura",
+          "testo": "Alcuni lodge sul fiume, immersi nella foresta, ma lontani dai servizi."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Caldo di pollo e frijoles",
+          "testo": "Cucina semplice nei comedor del paese."
+        },
+        {
+          "nome": "Tortillas e uova",
+          "testo": "La colazione standard degli ostelli e dei comedor."
+        },
+        {
+          "nome": "Cardamomo",
+          "testo": "La Alta Verapaz è una zona produttrice: si trova in infusione e nei dolci."
+        },
+        {
+          "nome": "Frutta tropicale",
+          "testo": "Banane, papaya e ananas, a prezzi bassi nei mercatini."
+        }
+      ],
+      "attenzioni": [
+        "Arrivarci richiede un lungo trasferimento: pianificare almeno una notte a Lanquín.",
+        "Non lasciare cose di valore incustodite alle piscine e lungo i sentieri.",
+        "Dopo piogge forti le piscine perdono colore e alcuni tratti diventano pericolosi: chiedere in paese prima di partire."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Le piscine naturali turchesi a gradoni di Semuc Champey viste dall\'alto tra la giungla, Guatemala',
@@ -214,6 +591,85 @@ export const destinazioniGuatemala: Destinazione[] = [
     ],
     miaEsperienza:
       'Ci siamo arrivati da Antigua, tre ore di shuttle, in uno dei due giorni di mercato: fuori dal giovedì e dalla domenica il paese è tranquillo e poco interessante. Abbiamo girato fra le bancarelle di tessuti, maschere e ceramiche e mangiato in piedi ai banchi della parte alimentare, nelle vie laterali. Quello che mi è rimasto, però, è la scalinata di Santo Tomás: sui gradini di una chiesa cattolica si bruciano ancora copale e offerte secondo riti k\'iche\'. È un rito vero e si guarda con rispetto, senza fotografare le persone senza permesso. Nel tardo pomeriggio abbiamo proseguito verso il lago Atitlán.',
+      "luoghi": [
+        {
+          "nome": "Mercato di Chichicastenango",
+          "testo": "Uno dei mercati più grandi dell'America Centrale: tessuti, maschere, ceramiche e prodotti locali nella piazza, cibo e fiori nelle vie laterali.",
+          "come": "Nel centro del paese, a piedi. Shuttle da Antigua (circa 3 ore) o da Atitlán.",
+          "quando": "Giovedì e domenica. Fuori da quei giorni il paese è tranquillo e poco interessante.",
+          "tempo": "3-4 ore",
+          "consiglio": "Contrattare con calma. Mangiare in piedi ai banchi della parte alimentare, nelle vie laterali."
+        },
+        {
+          "nome": "Chiesa di Santo Tomás",
+          "testo": "Chiesa cattolica sulla piazza principale, sulla cui scalinata si bruciano copale e offerte secondo riti k'iche'. Un rito vero e non uno spettacolo.",
+          "come": "A piedi dalla piazza. Si può guardare dalla scalinata, ma l'interno ha regole proprie.",
+          "quando": "Giorni di mercato.",
+          "tempo": "1 ora",
+          "consiglio": "Non fotografare le persone senza permesso e mantenere distanza dai riti."
+        },
+        {
+          "nome": "Cimitero di Chichicastenango",
+          "testo": "Poco fuori dal centro, con tombe dipinte a colori vivaci e un'atmosfera molto diversa dal cimitero europeo.",
+          "come": "A piedi dal centro, circa 10 minuti.",
+          "quando": "Mattina.",
+          "tempo": "45 minuti",
+          "consiglio": "Rispetto e discrezione: è un luogo in uso, non un set."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Arrivo in mattinata col mercato già attivo",
+            "Pranzo ai banchi della parte alimentare",
+            "Santo Tomás e cimitero nel primo pomeriggio",
+            "Partenza nel tardo pomeriggio per Atitlán"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: mercato, chiesa, cimitero",
+            "Notte in paese, rientro il giorno dopo, quando il paese è tranquillo"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Centro",
+          "perChi": "chi dorme sul posto",
+          "testo": "Piccoli hotel e locande sulla piazza, rumorosi la notte prima del mercato."
+        },
+        {
+          "nome": "In giornata da Antigua o Atitlán",
+          "perChi": "la maggioranza",
+          "testo": "Il paese si vede bene in giornata: si arriva al mattino e si riparte nel pomeriggio."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Pepián e caldo di pollo",
+          "testo": "Piatti caldi nella parte alimentare del mercato."
+        },
+        {
+          "nome": "Tamales",
+          "testo": "Di mais, nei banchi delle vie laterali."
+        },
+        {
+          "nome": "Atol",
+          "testo": "Bevanda calda di mais, per la mattina fredda dell'altopiano."
+        },
+        {
+          "nome": "Frutta e fiori",
+          "testo": "I banchi di fiori sulla scalinata sono parte del colore del mercato."
+        }
+      ],
+      "attenzioni": [
+        "Il mercato si fa solo giovedì e domenica: programmare in anticipo.",
+        "Borseggi nella folla: tenere i valori davanti.",
+        "Rispettare i riti k'iche' sulla scalinata: niente foto senza permesso."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'L\'arco decorato a mosaico colorato su una strada acciottolata di Chichicastenango, Guatemala',

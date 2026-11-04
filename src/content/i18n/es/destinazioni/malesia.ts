@@ -47,6 +47,118 @@ export const destinazioniMalesia: Destinazione[] = [
     ],
     miaEsperienza:
       "Casi todos usan Kuala Lumpur como escala, y sin embargo aguanta dos días completos, a condición de recorrerla por barrios más que por monumentos. Las Petronas se miran desde abajo en la hora azul y está bien así: la subida al skybridge cuesta y devuelve menos de lo que promete. Las Cuevas Batu hay que hacerlas a las siete de la mañana, cuando los escalones de colores todavía están a la sombra y los fieles suben a rezar: dos horas después es una escalinata abrasadora con cientos de personas y los monos arrancando las botellas de las manos. El recuerdo que queda, sin embargo, es más sencillo: la noche en Jalan Alor, sentados en taburetes de plástico en medio de la calle, con una cocina china a la derecha, una malaya a la izquierda y un puesto indio enfrente. Es ahí donde se entiende de qué país se está hablando.",
+    luoghi: [
+      {
+        nome: "Petronas Twin Towers",
+        testo: "Las torres gemelas de 452 metros, durante mucho tiempo las más altas del mundo, son el símbolo de la ciudad. Se visita el skybridge en la planta 41 y el mirador más alto; a sus pies está el parque KLCC con la fuente y un espectáculo nocturno.",
+        come: "LRT hasta KLCC, con salida directa al centro comercial. Las entradas para la subida son con horario y se reservan online en el sitio oficial.",
+        quando: "Al atardecer, pero las plazas se agotan. Desde abajo las torres se ven mejor a la hora azul.",
+        tempo: "1 hora para la subida; el parque KLCC se recorre en media hora",
+        consiglio: "Quien no quiera gastar puede mirarlas desde abajo y ver la panorámica desde otra torre, la KL Tower."
+      },
+      {
+        nome: "Batu Caves",
+        testo: "Un santuario hindú en una cueva caliza, precedido por la estatua dorada de Murugan de 42 metros y por 272 escalones de colores. Dentro hay un gran salón con pequeños templos y monos en las escaleras.",
+        come: "Tren KTM Komuter desde KL Sentral hasta la terminal de Batu Caves, unos 30 minutos. La entrada es libre; a la Dark Cave se va con un tour de pago. Hombros y rodillas cubiertos.",
+        quando: "A las 7 de la mañana, con los fieles subiendo y los escalones en sombra. El Thaipusam, entre enero y febrero, trae a cientos de miles de personas.",
+        tempo: "2 horas",
+        costo: "entrada gratuita",
+        consiglio: "No llevar en la mano botellas, gafas ni comida: los monos las arrebatan."
+      },
+      {
+        nome: "Masjid Jamek y Merdeka Square",
+        testo: "La mezquita de 1909 está en la confluencia de los ríos Klang y Gombak, donde nació la ciudad. Un poco más allá, Merdeka Square, donde en 1957 se arrió la bandera británica, y el Sultan Abdul Samad Building.",
+        come: "LRT hasta Masjid Jamek. La mezquita se visita fuera de las horas de oración, con una túnica prestada en la entrada.",
+        quando: "Por la mañana.",
+        tempo: "1 hora y media",
+        consiglio: "Seguir a pie hasta Merdeka Square y Chinatown, todo en la misma tarde."
+      },
+      {
+        nome: "Chinatown, Petaling Street y Sri Mahamariamman",
+        testo: "El barrio chino con el mercado callejero y el templo hindú más antiguo de la ciudad, a pocos pasos uno del otro.",
+        come: "LRT hasta Pasar Seni. El mercado es al aire libre, el templo se visita descalzo.",
+        quando: "Por la mañana el templo; por la noche la calle, cuando el mercado está más vivo.",
+        tempo: "1 hora y media",
+        consiglio: "No comprar las falsificaciones: los precios iniciales son muy altos."
+      },
+      {
+        nome: "Museo de Artes Islámicas",
+        testo: "Uno de los museos más completos de Asia sobre el tema: tejidos, cerámicas, manuscritos y maquetas de mezquitas. Casi siempre casi vacío.",
+        come: "En el parque de los Lake Gardens, cerca de la Mezquita Nacional. A pie desde KL Sentral o en taxi.",
+        quando: "A primera hora de la tarde, en las horas más calurosas.",
+        tempo: "2 horas",
+        consiglio: "La cafetería del museo, climatizada y silenciosa, es una pausa excelente."
+      },
+      {
+        nome: "Jalan Alor",
+        testo: "Una calle cerrada al tráfico por la noche, con decenas de mesas al aire libre y cocinas china, malaya e india una junto a otra. El sitio donde comer la primera noche.",
+        come: "A pie desde Bukit Bintang o en monorraíl hasta Bukit Bintang.",
+        quando: "A partir de las 18.",
+        tempo: "1-2 horas",
+        consiglio: "Preguntar el precio antes de pedir el pescado, que se paga al peso."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 día",
+        tappe: [
+          "7:00 Batu Caves, con la subida en sombra",
+          "10:00 Regreso y desayuno en KL Sentral",
+          "Primera hora de la tarde: Museo de Artes Islámicas, al fresco",
+          "Última hora de la tarde: Masjid Jamek y Merdeka Square a pie, luego Chinatown",
+          "Hora azul: Petronas desde abajo",
+          "Noche: cena en Jalan Alor"
+        ]
+      },
+      {
+        titolo: "2 días",
+        tappe: [
+          "Día 1: como arriba sin Jalan Alor",
+          "Día 2: mañana en los Lake Gardens y el Perdana Botanical Garden, luego KL Tower; noche con cena en Jalan Alor y Bukit Bintang"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Bukit Bintang",
+        perChi: "quien quiere comida, tiendas y vida nocturna",
+        testo: "El centro de las compras, con muchísimas opciones de alojamiento y restaurantes. Es ruidoso y algo turístico, pero bien conectado."
+      },
+      {
+        nome: "KLCC",
+        perChi: "quien busca vistas a las torres y hoteles de gama alta",
+        testo: "Tranquilo, limpio, con restaurantes de calidad. Menos vida auténtica."
+      },
+      {
+        nome: "Chinatown y Pasar Seni",
+        perChi: "quien quiere ahorrar y estar cerca de mercados y estación",
+        testo: "Hostales y hoteles baratos, cerca del tren al aeropuerto. Ruidoso por la noche."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Nasi lemak",
+        testo: "Arroz con coco, anchoas fritas, huevo, pepino y sambal. El desayuno nacional; se encuentra en todas partes, desde los puestos callejeros."
+      },
+      {
+        nome: "Char kway teow",
+        testo: "Fideos de arroz salteados a fuego vivo con gambas, huevo y brotes de soja. Un plato callejero chino-malayo, excelente por la noche en Jalan Alor."
+      },
+      {
+        nome: "Bak kut teh",
+        testo: "Costillas de cerdo en caldo de especias y ajo, de origen chino. Se come en el desayuno o en el almuerzo en los locales de Klang y Chinatown."
+      },
+      {
+        nome: "Roti canai",
+        testo: "Pan indio plano, crujiente y grasiento, servido con curry de lentejas. Se come en los locales mamak abiertos toda la noche."
+      }
+    ],
+    attenzioni: [
+      "Robos con tirón desde moto: mantener el teléfono lejos del bordillo y el bolso en el lado opuesto a la calzada.",
+      "En Batu Caves, monos agresivos con la comida y los bolsos abiertos. En el santuario, hombros y rodillas cubiertos.",
+      "Taxis: usar Grab o taxis con taxímetro. Rechazar a quien proponga un «precio fijo» en la estación.",
+      "El calor y los chubascos de la tarde son casi diarios: las visitas al aire libre, por la mañana."
+    ],
     esperienzeSlugs: ['batu-caves'],
     tripSlugs: ['malesia-singapore'],
     imageAlt: 'El skyline de Kuala Lumpur al anochecer con las Torres Petronas iluminadas',
@@ -138,6 +250,114 @@ export const destinazioniMalesia: Destinazione[] = [
     ],
     miaEsperienza:
       "A Penang se va a comer, y quien diga lo contrario no ha estado. El casco histórico de George Town es bonito (shophouses desconchadas, letreros chinos, los Clan Jetties sobre pilotes donde todavía vive gente), pero lo que lo hace distinto de cualquier otra ciudad malasia es que cada comunidad ha traído aquí su propia cocina y ninguna la ha aguado. El assam laksa, con ese caldo ácido de pescado y tamarindo que a la primera cucharada descoloca, es el plato por el que vale la desviación. Hay que saber cómo funciona: los mejores puestos no tienen letreros en inglés, abren a horarios propios y cierran cuando se acaba, y puede pasar que uno se presente y se encuentre la persiana bajada a las dos de la tarde. En cuanto a la parte artística, los murales son simpáticos y ya hay colas para fotografiarse delante de los más famosos, pero la ciudad es Patrimonio de la UNESCO por otra cosa.",
+    luoghi: [
+      {
+        nome: "Centro histórico de George Town",
+        testo: "Patrimonio de la UNESCO por su mosaico de culturas: shophouses peranakan, templos chinos, mezquitas, iglesias y antiguas casas británicas. Se recorre a pie por las calles estrechas con los murales.",
+        come: "Desde la terminal de ferris o los hoteles, a pie. En el centro circulan autobuses gratuitos CAT. Muchas rutas a pie.",
+        quando: "A primera hora de la mañana y después de las cuatro de la tarde. Entre las once y las tres el calor es serio.",
+        tempo: "medio día",
+        consiglio: "Buscar los murales pero también los talleres de artesanos, y parar a tomar un café blanco en una vieja cafetería."
+      },
+      {
+        nome: "Clan Jetties",
+        testo: "Poblados sobre pilotes donde viven desde hace generaciones familias chinas agrupadas por clan. El más conocido es el Chew Jetty, con casas de madera, altares y tiendas.",
+        come: "A pie desde el paseo marítimo de George Town. Es un lugar donde se vive: caminar en silencio, preguntar antes de fotografiar.",
+        quando: "Por la mañana o a última hora de la tarde.",
+        tempo: "1 hora",
+        consiglio: "Comprar algo en una de las tiendas del muelle: es la única forma correcta de apoyar a quien vive allí."
+      },
+      {
+        nome: "Kek Lok Si",
+        testo: "El complejo budista más grande de Malasia, en la colina de Air Itam. Una pagoda de siete pisos combina estilos chino, tailandés y birmano, y arriba hay una estatua de Guanyin de 30 metros.",
+        come: "Autobús desde George Town (Rapid Penang) o taxi, unos 20 minutos. Un ascensor inclinado sube hasta la estatua.",
+        quando: "Por la mañana; en el Año Nuevo chino está lleno de farolillos y fieles.",
+        tempo: "1 hora y media",
+        costo: "entrada libre, el ascensor inclinado es de pago",
+        consiglio: "Subir hasta la estatua de Guanyin: la vista sobre Penang vale los escalones."
+      },
+      {
+        nome: "Cheong Fatt Tze Mansion (Blue Mansion)",
+        testo: "La mansión de un comerciante chino de finales del siglo XIX, con paredes de color índigo, patios interiores y mobiliario original. Ganó un premio de la UNESCO por su restauración.",
+        come: "A pie desde el centro de George Town. Solo se visita con tour guiado, a horas fijas.",
+        quando: "Por la mañana, con el tour en inglés.",
+        tempo: "1 hora",
+        consiglio: "Llegar a tiempo para el primer tour: los grupos son pequeños y el relato vale más que las salas."
+      },
+      {
+        nome: "Street of Harmony",
+        testo: "Un tramo de Lebuh Pantai y alrededores donde conviven cerca una mezquita, un templo chino, un templo hindú y una iglesia anglicana. Un ejemplo real de convivencia.",
+        come: "A pie por el centro histórico, en la zona de Jalan Masjid Kapitan Keling.",
+        quando: "Por la mañana. Las mezquitas están cerradas a los no musulmanes durante la oración.",
+        tempo: "1 hora",
+        costo: "gratuito",
+        consiglio: "Visitar la Kapitan Keling Mosque fuera de las horas de oración, con ropa cubierta."
+      },
+      {
+        nome: "Penang Hill",
+        testo: "Una colina de 833 metros sobre la ciudad, a la que se sube en funicular, con aire más fresco, un jardín botánico y vistas de George Town y del continente.",
+        come: "Autobús 204 desde Komtar hasta la estación del funicular. Subida de unos 10 minutos.",
+        quando: "Por la mañana, con menos neblina y menos colas.",
+        tempo: "3 horas",
+        consiglio: "Subir pronto: por la tarde las colas del funicular son largas."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "2 días",
+        tappe: [
+          "Día 1: mañana a pie por el centro histórico y Street of Harmony; almuerzo en un centro de comida; primera hora de la tarde Blue Mansion; última hora Clan Jetties; noche cena callejera",
+          "Día 2: mañana Kek Lok Si; almuerzo en Air Itam (assam laksa); tarde Penang Hill; noche libre"
+        ]
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Como los dos días, con el tercero dedicado a comer: desayuno tradicional, mercado, una ruta en busca de los mejores puestos y una cena final en un hawker"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Centro histórico de George Town",
+        perChi: "quien quiere hacerlo todo a pie",
+        testo: "Shophouses restauradas convertidas en casas de huéspedes y pequeños hoteles. Muy cómodo, algo ruidoso por la noche."
+      },
+      {
+        nome: "Batu Ferringhi",
+        perChi: "quien busca mar y resorts",
+        testo: "Una franja de playa con grandes hoteles. Mar mediocre, pero es la zona más cómoda para familias."
+      },
+      {
+        nome: "Komtar y Jalan Burma",
+        perChi: "quien quiere ahorrar",
+        testo: "Hoteles de gama media, fuera del corazón turístico pero a pocos minutos en autobús o taxi."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Assam laksa",
+        testo: "Fideos en caldo ácido de pescado y tamarindo con menta y piña. El plato por el que vale la pena el desvío; se come en Air Itam."
+      },
+      {
+        nome: "Char kway teow",
+        testo: "Fideos salteados a fuego alto con gambas, berberechos y huevo. En Penang la versión sabe a humo del fuego de carbón."
+      },
+      {
+        nome: "Nasi kandar",
+        testo: "Arroz con distintos currys por encima, de origen indio musulmán. Se pide en el mostrador y se señala qué va en el plato."
+      },
+      {
+        nome: "Cendol",
+        testo: "Hielo picado, leche de coco, almíbar de palma y gelatinas verdes. El postre de Penang."
+      }
+    ],
+    attenzioni: [
+      "Los mejores puestos no tienen carteles en inglés, abren a su hora y cierran cuando se les acaba: llegar pronto o no contar con sitio.",
+      "Evitar el centro entre las once y las tres: el calor es fuerte y la sombra escasa.",
+      "En templos y mezquitas, hombros y rodillas cubiertos, zapatos fuera.",
+      "En los puestos turísticos alrededor de los murales los precios de comida y recuerdos son el doble que en las calles laterales."
+    ],
     esperienzeSlugs: ['street-food-penang'],
     tripSlugs: ['malesia-singapore'],
     imageAlt: 'Los tejados de George Town, Weld Quay y los Clan Jetties vistos desde arriba, con el estrecho y Butterworth al fondo',
@@ -185,6 +405,106 @@ export const destinazioniMalesia: Destinazione[] = [
     ],
     miaEsperienza:
       "Malaca es una parada breve que rinde mucho más de lo que promete, con una condición: dormir allí. De día, sobre todo en fin de semana, el centro es un flujo continuo de visitantes de un día desde Kuala Lumpur y Singapur, con los trishaws decorados con luces LED que pasan a todo volumen: un nivel de kitsch que a la segunda vez resulta divertido. Por la noche, cuando los autocares se van, quedan las callejuelas de Chinatown, las casas peranakan con las puertas abiertas y el río iluminado. La colina de St. Paul, con la iglesia portuguesa sin techo y las lápidas holandesas apoyadas en las paredes, es el sitio donde los estratos de esta ciudad se entienden en dos minutos. Y la cocina nyonya, nacida del encuentro entre comerciantes chinos y mujeres malayas, es una de las cosas más interesantes que comí en todo el país.",
+    luoghi: [
+      {
+        nome: "Dutch Square, Christ Church y Stadthuys",
+        testo: "El centro holandés de la ciudad, con edificios de ladrillo rojo del siglo XVII: la iglesia de 1753 y el ayuntamiento, el edificio holandés más antiguo que sigue en pie en Asia.",
+        come: "A pie desde el centro histórico. El Stadthuys alberga un museo de historia y etnografía.",
+        quando: "Por la mañana, antes de la multitud.",
+        tempo: "1 hora",
+        consiglio: "Empezar aquí y subir hacia St. Paul por las escaleras laterales."
+      },
+      {
+        nome: "St. Paul's Hill y Porta de Santiago",
+        testo: "En la colina están las ruinas de la iglesia portuguesa de 1521, sin techo, con lápidas holandesas a lo largo de los muros. A sus pies está la Porta de Santiago, última parte de la fortaleza A Famosa.",
+        come: "A pie, con una breve subida. Desde la cima se ve el estrecho.",
+        quando: "Al atardecer, con la luz cayendo sobre el estrecho.",
+        tempo: "1 hora",
+        costo: "gratuito",
+        consiglio: "Leer las lápidas: son un resumen de la historia de la ciudad."
+      },
+      {
+        nome: "Jonker Street",
+        testo: "La calle principal de Chinatown, con tiendas de antigüedades, cafés y, los fines de semana, un mercado nocturno abarrotado.",
+        come: "A pie desde el centro. El mercado nocturno abre viernes, sábado y domingo por la noche.",
+        quando: "Entre semana para caminar con calma; el fin de semana para el mercado.",
+        tempo: "1-2 horas",
+        consiglio: "Comer en Jonker no siempre es la mejor opción: probar las calles laterales."
+      },
+      {
+        nome: "Baba & Nyonya Heritage Museum",
+        testo: "Una casa peranakan de 1861 conservada con el mobiliario original: madera taraceada, porcelanas y fotos de familia. Cuenta la historia de la comunidad chino-malaya nacida del encuentro de comerciantes chinos con mujeres locales.",
+        come: "A pie desde Jonker Street. Se visita con guía, a horas fijas.",
+        quando: "Por la mañana. La visita dura aproximadamente una hora.",
+        tempo: "1 hora",
+        consiglio: "Reservar el tour nada más llegar: los grupos son limitados."
+      },
+      {
+        nome: "Cheng Hoon Teng y Kampung Kling Mosque",
+        testo: "El templo chino más antiguo de Malasia y una mezquita de arquitectura sumatrana, a pocos pasos: tres culturas en la misma calle.",
+        come: "A pie, en Jalan Tukang Emas, conocida como Harmony Street.",
+        quando: "Por la mañana.",
+        tempo: "1 hora",
+        costo: "gratuito",
+        consiglio: "Visitar ambos en el mismo paseo, con la cabeza cubierta para la mezquita."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 día",
+        tappe: [
+          "Mañana: Dutch Square y Stadthuys",
+          "Media mañana: St. Paul's Hill y Porta de Santiago",
+          "Almuerzo: cocina nyonya",
+          "Primera hora de la tarde: Baba & Nyonya Museum",
+          "Última hora de la tarde: Cheng Hoon Teng y Kampung Kling",
+          "Noche: Jonker Street y el río iluminado"
+        ]
+      },
+      {
+        titolo: "2 días",
+        tappe: [
+          "Día 1: como arriba",
+          "Día 2: mañana paseando por Chinatown en día laborable, paseo en barco por el río y regreso por la tarde"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Chinatown y Jonker Street",
+        perChi: "quien quiere estar en el corazón de la ciudad",
+        testo: "Casas de huéspedes en casas históricas, muchas a pocas decenas de metros de todo. Ruidoso los fines de semana."
+      },
+      {
+        nome: "Orilla del río",
+        perChi: "quien busca vista al río",
+        testo: "Hoteles con vistas al río, más tranquilos. Algo más lejos de Jonker Street."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Chicken rice ball",
+        testo: "Arroz moldeado en bolas y servido con pollo hervido. La versión local del chicken rice."
+      },
+      {
+        nome: "Laksa nyonya",
+        testo: "Fideos en caldo de coco y gambas, típicos de la cocina peranakan."
+      },
+      {
+        nome: "Cendol",
+        testo: "Hielo picado, leche de coco, almíbar de palma y gelatinas verdes. El postre símbolo de Malaca."
+      },
+      {
+        nome: "Satay celup",
+        testo: "Brochetas que uno mismo cuece en una olla de salsa hirviendo. Una especialidad de Malaca."
+      }
+    ],
+    attenzioni: [
+      "De viernes a domingo la ciudad se llena de excursionistas: si se puede, venir entre semana.",
+      "Los trishaw decorados con luces y música alta son una atracción: acordar el precio antes de subir.",
+      "No hacerlo en una excursión de un día desde Kuala Lumpur: se pierde la noche, cuando se van los autocares.",
+      "El calor es fuerte a mediodía: llevar agua y cubrirse la cabeza."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['malesia-singapore'],
     imageAlt: 'El río de Malaca entre las casas de colores del casco histórico, con un barco turístico',
@@ -234,6 +554,95 @@ export const destinazioniMalesia: Destinazione[] = [
     ],
     miaEsperienza:
       "Las Cameron Highlands funcionan sobre todo por contraste: llegamos tras días de calor húmedo y por la noche dormimos bajo una manta, que a esas alturas parecía un lujo. Las plantaciones de té son bonitas, con las terrazas verdes que bajan en ondas, y el salón de té asomado a las colinas es una de esas cosas coloniales que aquí no desentonan. La mossy forest es la parte que más sorprende (un bosque enano a 2.000 metros todo cubierto de musgo, con la niebla entre las ramas) y a la vez aquella en la que conviene ser práctico: hay dos mossy forest, la de verdad y la pasarela turística junto al aparcamiento de la torre, y los tours más baratos llevan solo a la segunda. Está también el reverso de la medalla: la meseta es agrícola y en algunos tramos los invernaderos de plástico cubren laderas enteras. Es una zona cultivada con partes muy bonitas dentro, no un parque nacional.",
+    luoghi: [
+      {
+        nome: "Plantaciones de té de Sungai Palas y Bharat",
+        testo: "Colinas cubiertas de terrazas de té hasta donde alcanza la vista. La fábrica BOH en Sungai Palas ofrece una visita gratuita y una sala de té con vistas.",
+        come: "En coche o tour desde Tanah Rata o Brinchang, unos 30 minutos. Carreteras de montaña estrechas.",
+        quando: "Por la mañana, con menos niebla y menos gente.",
+        tempo: "2 horas",
+        costo: "visita a la fábrica gratuita",
+        consiglio: "Tomar el té en la terraza y mirar las colinas media hora: es la mejor parte."
+      },
+      {
+        nome: "Mossy Forest en el Gunung Brinchang",
+        testo: "Un bosque de altura a unos 2.000 metros, cubierto de musgo, helechos y orquídeas silvestres, con niebla entre las ramas. Se recorre por una pasarela de madera.",
+        come: "En todoterreno o con un tour guiado desde Tanah Rata o Brinchang. Pedir que lleven a la parte auténtica, no solo a la pasarela junto al aparcamiento de la torre.",
+        quando: "A primera hora de la mañana: la niebla sube hacia el mediodía.",
+        tempo: "2-3 horas",
+        consiglio: "Preferir un tour guiado con una hora más: los tours más baratos solo llevan a la pasarela abarrotada."
+      },
+      {
+        nome: "Granjas de fresas e invernaderos",
+        testo: "El cultivo de fresas y verduras es el segundo producto del altiplano. Se visitan los invernaderos, se comen fresas y se compra miel y té.",
+        come: "En coche o con un tour, por la carretera principal de Brinchang.",
+        quando: "Por la mañana.",
+        tempo: "1 hora",
+        consiglio: "No esperar un paisaje virgen: muchas zonas están cubiertas por invernaderos de plástico."
+      },
+      {
+        nome: "Brinchang y el mercado",
+        testo: "El pueblo más grande del altiplano, con el mercado de productos locales, un mercado nocturno el sábado y restaurantes donde se come steamboat.",
+        come: "A pie en Brinchang o en autobús desde Tanah Rata.",
+        quando: "A última hora de la tarde y por la noche.",
+        tempo: "2 horas",
+        consiglio: "Llevar una sudadera: por la noche hace frío."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 día",
+        tappe: [
+          "Primera hora de la mañana: Mossy Forest con tour guiado",
+          "Media mañana: plantación de té y fábrica BOH con té en la terraza",
+          "Almuerzo en Brinchang",
+          "Primera hora de la tarde: granja de fresas",
+          "Noche: steamboat en Brinchang"
+        ]
+      },
+      {
+        titolo: "2 días",
+        tappe: [
+          "Como arriba, y el segundo día senderismo ligero por los caminos de Tanah Rata y algo de tiempo libre"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Tanah Rata",
+        perChi: "quien quiere estar cerca de los senderos y los autobuses",
+        testo: "El centro con hostales y casas de huéspedes, cómodo para excursiones y restaurantes. Algo concurrido."
+      },
+      {
+        nome: "Brinchang",
+        perChi: "quien quiere estar cerca de la Mossy Forest y del mercado",
+        testo: "Más tranquilo, con hoteles de gama media y más frío por la noche."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Steamboat",
+        testo: "Una olla de caldo hirviendo en el centro de la mesa donde se cuecen carne, pescado y verduras. Ideal para las noches frías del altiplano."
+      },
+      {
+        nome: "Scones con fresas y nata",
+        testo: "Una herencia británica, servida en las salas de té de las plantaciones."
+      },
+      {
+        nome: "Té de plantación",
+        testo: "Té negro local, servido en las salas de té. BOH es la más conocida."
+      },
+      {
+        nome: "Murtabak",
+        testo: "Una torta rellena de carne y huevo, de origen indio musulmán. Se encuentra en los locales de Tanah Rata y Brinchang."
+      }
+    ],
+    attenzioni: [
+      "Los fines de semana y en vacaciones escolares malasias las carreteras de curvas se atascan: venir en día laborable.",
+      "Las noches son frías, unos 15 grados: llevar algo de abrigo.",
+      "Si uno se marea en coche: la carretera de subida tiene cientos de curvas cerradas.",
+      "Elegir un tour de la Mossy Forest que llegue a la parte auténtica y no solo a la pasarela junto al aparcamiento."
+    ],
     esperienzeSlugs: ['piantagioni-te-cameron'],
     tripSlugs: ['malesia-singapore'],
     imageAlt: 'Las colinas cubiertas de selva de las Cameron Highlands vistas desde un mirador',
@@ -282,6 +691,99 @@ export const destinazioniMalesia: Destinazione[] = [
     ],
     miaEsperienza:
       "Taman Negara hay que afrontarla con la expectativa correcta, porque es la parada que decepciona a quien llega pensando en un documental. La selva pluvial es densísima y de lado se ve a pocos metros: se oyen cigarras, gibones lejanos, pájaros, pero de animales grandes casi no se ve nada. Lo que la hace memorable son la travesía en barca larga para llegar, dos horas y media a contracorriente entre dos muros de verde, y la canopy walkway, la única forma de mirar la selva desde arriba y entender su estructura por estratos. Hay que hacerla a la apertura, porque más tarde se pasa de uno en uno con la cola detrás. La night walk es la parte que casi todos se saltan, y es la que vale: con la linterna se ven arañas, serpientes, ojos que reflejan en la oscuridad, y la selva de día silenciosa se vuelve ruidosísima. Una última cosa práctica: las sanguijuelas existen y suben por los pies, y los calcetines específicos no son un exceso de celo.",
+    luoghi: [
+      {
+        nome: "Canopy walkway",
+        testo: "Una pasarela suspendida a unos 40 metros entre los árboles, una de las más largas del mundo. Es la única forma de mirar el bosque desde arriba y entender su estructura por estratos.",
+        come: "A pie desde el pueblo de Kuala Tahan, unos 40 minutos de sendero. El permiso se compra en el centro de visitantes; se cruza de uno en uno.",
+        quando: "A la apertura: más tarde se va con cola detrás.",
+        tempo: "2-3 horas",
+        consiglio: "Ir a la apertura para tener la pasarela casi libre."
+      },
+      {
+        nome: "Bukit Teresek",
+        testo: "Una subida de unos 334 metros por encima de las copas del bosque, con escalones y raíces. Arriba se ve la extensión verde y el río.",
+        come: "A pie desde Kuala Tahan, por el mismo sendero de la canopy walkway, con un tramo más.",
+        quando: "A primera hora de la mañana, por el fresco.",
+        tempo: "2 horas",
+        consiglio: "Llevar agua y calcetines altos contra las sanguijuelas."
+      },
+      {
+        nome: "Lata Berkoh",
+        testo: "Rápidos río arriba en el Tembeling, a los que se llega en barca larga. El trayecto en barca, a contracorriente entre dos muros de bosque, ya forma parte de la visita.",
+        come: "En barca larga desde el pueblo, a horas acordadas con los operadores. El nivel del río decide si se puede ir.",
+        quando: "Por la mañana. En la temporada de lluvias las salidas se suspenden.",
+        tempo: "medio día",
+        consiglio: "Preguntar a varios operadores si la salida está confirmada antes de reservar."
+      },
+      {
+        nome: "Night walk",
+        testo: "Una caminata nocturna con guía y linterna por el bosque: arañas, insectos, serpientes y ranas, y con suerte algún mamífero. Es el momento en que el bosque cobra vida.",
+        come: "Con un guía del parque o de un operador autorizado, desde el pueblo.",
+        quando: "Después del atardecer, durante unas dos horas.",
+        tempo: "2 horas",
+        consiglio: "Es la parte que casi todos se saltan por cansancio y la que merece la pena."
+      },
+      {
+        nome: "Poblado Orang Asli y Gua Telinga",
+        testo: "Las comunidades indígenas de la península siguen viviendo en la zona; una visita con demostración de cerbatana es la forma más habitual. Gua Telinga es una cueva que se recorre arrastrándose, con murciélagos.",
+        come: "Con operadores autorizados, en barca. La visita a la cueva exige no tener problemas con los espacios estrechos.",
+        quando: "Por la mañana.",
+        tempo: "medio día",
+        consiglio: "Elegir un operador que lleve dinero a la comunidad y no haga un espectáculo."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "2 días",
+        tappe: [
+          "Día 1: llegada en barca desde Kuala Tembeling por la tarde, alojamiento, night walk",
+          "Día 2: canopy walkway a la apertura, Bukit Teresek, almuerzo en el pueblo, regreso por la tarde"
+        ]
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Como los 2 días, con el día adicional para Lata Berkoh o el poblado Orang Asli"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Kuala Tahan (lado del pueblo)",
+        perChi: "quien quiere una cama barata y restaurantes cerca",
+        testo: "Casas de huéspedes y chalés en el río frente al parque, con restaurantes flotantes. Ruidoso y sencillo."
+      },
+      {
+        nome: "Dentro del parque (Mutiara Taman Negara)",
+        perChi: "quien quiere alojarse dentro del parque",
+        testo: "Resort con chalés, cerca de los senderos. Más caro, con poca oferta de comida."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Pescado de río a la parrilla",
+        testo: "Pescado del Tembeling a la brasa, servido en los restaurantes flotantes de Kuala Tahan."
+      },
+      {
+        nome: "Nasi campur",
+        testo: "Arroz con muchos platitos a elegir, señalados en el mostrador. Una comida sencilla y barata."
+      },
+      {
+        nome: "Teh tarik",
+        testo: "Té con leche condensada «estirado» de un vaso a otro. Se pide en todas partes."
+      },
+      {
+        nome: "Mee goreng",
+        testo: "Fideos salteados con verduras y huevo. El plato que casi siempre hay."
+      }
+    ],
+    attenzioni: [
+      "Las sanguijuelas abundan en la estación húmeda: calcetines adecuados y revisar las piernas al final del día.",
+      "No esperar ver tigres ni elefantes: los avistamientos son rarísimos.",
+      "Casi no hay cajeros en el pueblo: llevar efectivo desde Kuala Lumpur o Jerantut.",
+      "De noviembre a enero las lluvias son fuertes y se suspenden algunas actividades."
+    ],
     esperienzeSlugs: ['canopy-walkway-taman-negara'],
     tripSlugs: ['malesia-singapore'],
     imageAlt: 'La selva pluvial de Taman Negara vista desde la colina de Teresek, con las montañas en el horizonte',
@@ -331,6 +833,104 @@ export const destinazioniMalesia: Destinazione[] = [
     ],
     miaEsperienza:
       "Langkawi es la isla cómoda de Malasia y hay que tomarla por lo que es: se llega en avión, se alquila una moto y se recorre libremente. Con el mar hay que bajar las expectativas. El agua suele ser verdosa y turbia, porque estamos en el estrecho y los ríos desembocan allí: quien busca el turquesa de las postales está mirando la costa equivocada de Malasia. Por sorpresa, lo que da sentido a la parada es la parte no playera: el paseo entre los manglares de Kilim, con las paredes calizas que se cierran sobre la barca, las cuevas de murciélagos y los cangrejos en el fango, es más interesante que cualquier playa de la isla. El Sky Bridge merece la subida a condición de hacerla pronto: hacia mediodía la bruma se lo come todo y queda la cola. Y está el detalle práctico que nadie anticipa: Langkawi es puerto franco, así que el alcohol cuesta un tercio que en el resto del país, y se nota enseguida cómo cambia el ambiente nocturno respecto al resto de Malasia.",
+    luoghi: [
+      {
+        nome: "Langkawi Sky Bridge y teleférico",
+        testo: "Un teleférico sube casi 700 metros en el Gunung Machinchang. Desde allí un puente peatonal curvo, colgado a 660 metros, ofrece vistas al mar, las islas y el bosque.",
+        come: "Desde la estación base en Oriental Village. Se toma el teleférico y un camino a pie lleva al puente.",
+        quando: "Por la mañana, cuando la neblina es menor y las colas más cortas.",
+        tempo: "3 horas",
+        consiglio: "Subir a la apertura: hacia el mediodía la neblina cubre la vista."
+      },
+      {
+        nome: "Manglares de Kilim",
+        testo: "Un geoparque UNESCO con paredes calizas, cuevas de murciélagos, monos y cangrejos en el fango. Se visita en barca.",
+        come: "En barca con operadores, desde el embarcadero de Kilim. El recorrido dura unas horas.",
+        quando: "Por la mañana.",
+        tempo: "medio día",
+        consiglio: "Preguntar antes si el operador da de comer a las águilas: es una práctica discutible."
+      },
+      {
+        nome: "Telaga Tujuh",
+        testo: "Una serie de pozas naturales en cascada, en el bosque, con agua fresca para un baño tras la subida.",
+        come: "En coche o scooter hasta el aparcamiento y luego unos 600 escalones hasta las pozas.",
+        quando: "A primera hora de la mañana.",
+        tempo: "1 hora y media",
+        consiglio: "Llevar bañador y calzado adecuado: los escalones resbalan."
+      },
+      {
+        nome: "Pantai Cenang",
+        testo: "La playa mejor equipada de la isla, con bares, restaurantes y tiendas. Mar a menudo turbio, pero con una bonita puesta de sol.",
+        come: "En scooter o taxi desde el aeropuerto, unos 10 minutos.",
+        quando: "El atardecer.",
+        tempo: "2 horas",
+        consiglio: "Quien busque el mar turquesa debe ir a las Perhentian: aquí hay vida de playa."
+      },
+      {
+        nome: "Pulau Dayang Bunting",
+        testo: "Una isla con un lago de agua dulce a pocos metros del mar, donde se puede nadar. La leyenda lo une a una princesa.",
+        come: "En barca con tours organizados desde Kuah o Pantai Cenang.",
+        quando: "Por la mañana.",
+        tempo: "medio día",
+        consiglio: "En el lago los hidropedales son más cómodos que nadar, pero nadar es la única forma de sentirlo vivo."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "2 días",
+        tappe: [
+          "Día 1: Sky Bridge a la apertura, Telaga Tujuh, almuerzo, Pantai Cenang al atardecer",
+          "Día 2: manglares de Kilim por la mañana, Dayang Bunting por la tarde"
+        ]
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Como los 2 días, con un tercer día libre: playas del norte, paseo en scooter entre arrozales, atardecer en Tanjung Rhu"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Pantai Cenang",
+        perChi: "quien quiere playa, bares y cenar fuera",
+        testo: "La zona más animada, con mucha oferta. Ruidosa y concurrida."
+      },
+      {
+        nome: "Pantai Tengah",
+        perChi: "quien busca algo de calma",
+        testo: "Junto a Cenang, más tranquila, con resorts y casas de huéspedes."
+      },
+      {
+        nome: "Kuah",
+        perChi: "quien llega en ferri o quiere ahorrar",
+        testo: "La capital, con el puerto y los precios más bajos, pero lejos de las playas."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Pescado a la parrilla",
+        testo: "Pescado fresco a la brasa con sambal, en los restaurantes junto al mar."
+      },
+      {
+        nome: "Laksa de Langkawi",
+        testo: "Fideos en caldo de pescado especiado. Se encuentra en puestos callejeros."
+      },
+      {
+        nome: "Nasi lemak",
+        testo: "Arroz con coco, anchoas fritas, huevo y sambal. El desayuno nacional."
+      },
+      {
+        nome: "Chocolate y productos libres de impuestos",
+        testo: "La isla es zona franca: chocolate, licores y perfumes cuestan menos que en el continente."
+      }
+    ],
+    attenzioni: [
+      "Mar a menudo turbio: quien busque agua turquesa se decepciona, mejor centrarse en los manglares y las excursiones.",
+      "Scooter: carné internacional y casco, los controles existen.",
+      "Águilas y monos en los manglares: no darles de comer y preguntar al operador si lo hace.",
+      "De agosto a septiembre puede llegar la neblina de los incendios de Indonesia: consultar las noticias."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['malesia-singapore'],
     imageAlt: 'El Sky Bridge de Langkawi suspendido entre las montañas cubiertas de selva',
@@ -379,6 +979,98 @@ export const destinazioniMalesia: Destinazione[] = [
     ],
     miaEsperienza:
       "Por las Perhentian vale la pena reorganizar un itinerario en Malasia: es la única costa donde el mar es el de las fotografías, turquesa y transparente, y basta entrar en el agua desde la playa para cruzarse con una tortuga que ramonea en el fondo sin darle importancia. Es también un lugar que se ha quedado atrás a propósito: chalets de madera, ventilador en lugar de aire acondicionado, electricidad por franjas, ningún cajero que funcione y cenas que a los tres días se repiten. Quien lo sabe de antemano lo disfruta, quien espera un resort no. Lo que hay que poner en la agenda antes que nada es el calendario: de noviembre a febrero el monzón del noreste cierra las islas, los ferris se detienen y los establecimientos echan el cierre. Más que temporada baja, está cerrado: es el error que hace saltar más itinerarios malasios que cualquier otro.",
+    luoghi: [
+      {
+        nome: "Perhentian Besar",
+        testo: "La isla grande, más tranquila, con las mejores playas y menos locales nocturnos. El sitio para quien quiere mar y silencio.",
+        come: "En lancha rápida desde Kuala Besut, unos 30-40 minutos. La tasa del parque marino se paga al embarcar.",
+        quando: "De abril a septiembre. Las islas cierran de noviembre a febrero.",
+        tempo: "al menos 2 noches",
+        costo: "tasa de conservación marina a pagar a la llegada",
+        consiglio: "Reservar chalé y barca con antelación en temporada alta."
+      },
+      {
+        nome: "Perhentian Kecil y Long Beach",
+        testo: "La isla pequeña, con la playa más animada (Long Beach), bares en la arena y vida nocturna. Al otro lado, Coral Bay, más tranquila.",
+        come: "Lancha rápida desde Kuala Besut; entre playas con taxi acuático.",
+        quando: "De abril a septiembre.",
+        tempo: "al menos 2 noches",
+        consiglio: "Quien busque silencio debe ir a Coral Bay o a Besar."
+      },
+      {
+        nome: "Shark Point y Turtle Point",
+        testo: "Dos puntos de snorkel donde se encuentran tiburones de punta negra y tortugas. En algunos puntos se entra directamente desde la playa.",
+        come: "En barca con los operadores de snorkel, medio día.",
+        quando: "Por la mañana, con el agua más clara.",
+        tempo: "medio día",
+        consiglio: "No tocar ni perseguir a las tortugas: se miran sin acercarse."
+      },
+      {
+        nome: "Romantic Beach y calas solo por mar",
+        testo: "Una laguna y calas accesibles solo en barca o por senderos cortos, con agua transparente y poquísima gente.",
+        come: "Con taxi acuático desde Kecil, o a pie por el bosque con sendero señalizado.",
+        quando: "Por la mañana.",
+        tempo: "medio día",
+        consiglio: "Llevar efectivo para el taxi acuático: en las islas los cajeros son muy pocos."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "3 días",
+        tappe: [
+          "Día 1: llegada, chalé, playa y atardecer",
+          "Día 2: salida de snorkel a Shark Point y Turtle Point",
+          "Día 3: Romantic Beach y regreso en barca"
+        ]
+      },
+      {
+        titolo: "4 días",
+        tappe: [
+          "Como los 3 días, con el cuarto para una inmersión o un día libre en la playa"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Long Beach (Kecil)",
+        perChi: "quien quiere vida nocturna y comodidad",
+        testo: "Chalés sencillos, bares, restaurantes, centros de buceo. Más ruidosa."
+      },
+      {
+        nome: "Coral Bay (Kecil)",
+        perChi: "quien quiere atardeceres y algo de calma",
+        testo: "En el lado oeste de Kecil, con bares en la playa y poca gente."
+      },
+      {
+        nome: "Perhentian Besar",
+        perChi: "quien quiere el mejor mar y silencio",
+        testo: "Pocos resorts y chalés, algunos restaurantes. Electricidad a ciertas horas."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Pescado a la parrilla",
+        testo: "Pesca del día a la brasa con arroz y verduras, en pequeños restaurantes en la playa."
+      },
+      {
+        nome: "Nasi goreng",
+        testo: "Arroz salteado con huevo y verduras. Casi siempre disponible."
+      },
+      {
+        nome: "Roti canai",
+        testo: "Pan plano servido con curry. Un desayuno básico."
+      },
+      {
+        nome: "Fruta fresca y agua de coco",
+        testo: "Coco y fruta tropical, vendidos en la playa."
+      }
+    ],
+    attenzioni: [
+      "Las islas cierran de noviembre a febrero por el monzón: comprobar las fechas antes de reservar.",
+      "Efectivo: pocos cajeros y a menudo vacíos, retirar en el continente.",
+      "Terengganu es un estado conservador: lejos de las playas, vestir ropa cubierta.",
+      "Electricidad a ciertas horas y sin aire acondicionado en muchos chalés."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['malesia-singapore'],
     imageAlt: 'Una playa de arena blanca y mar turquesa a los pies de la selva en Perhentian Kecil',

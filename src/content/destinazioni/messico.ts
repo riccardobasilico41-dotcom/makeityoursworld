@@ -41,6 +41,91 @@ export const destinazioniMessico: Destinazione[] = [
     ],
     miaEsperienza:
       'Cancún per me è stata soprattutto una base pratica: il primo assaggio di Messico con lo street food di Parque las Palapas e l\'ultima giornata libera in spiaggia prima del volo di rientro. Non è la tappa che ricordo di più, ma all\'inizio e alla fine dell\'itinerario funziona bene.',
+      "luoghi": [
+        {
+          "nome": "Isla Mujeres",
+          "testo": "Isola a 20 minuti di traghetto, con spiagge, snorkeling e un villaggio tranquillo, comoda per una gita in giornata.",
+          "come": "Traghetto da Puerto Juárez o Playa Tortugas; sull'isola si gira in golf cart a noleggio.",
+          "quando": "Mattina, per avere tempo.",
+          "tempo": "Giornata",
+          "consiglio": "In alternativa si prende la giornata organizzata in catamarano, più cara ma con soste di snorkeling comprese."
+        },
+        {
+          "nome": "Playa Marlin e Playa Gaviota",
+          "testo": "Spiagge pubbliche gratuite nel centro della zona hotelera, senza lettini a pagamento.",
+          "come": "Bus locale R1 dal centro.",
+          "quando": "Mattina.",
+          "tempo": "Mezza giornata"
+        },
+        {
+          "nome": "Parque las Palapas e Mercado 28",
+          "testo": "Piazza del centro con bancarelle di street food e musica serale, e il mercato con artigianato e ristorantini.",
+          "come": "A piedi dal centro, a nord della zona hotelera.",
+          "quando": "Sera.",
+          "tempo": "2-3 ore",
+          "consiglio": "Il primo assaggio di Messico con lo street food."
+        },
+        {
+          "nome": "Coco Bongo",
+          "testo": "Il locale con spettacolo più famoso della città.",
+          "come": "Biglietti da rivenditori.",
+          "quando": "Sera.",
+          "tempo": "Serata",
+          "consiglio": "Per gli ingressi provate a sentire Martin di Mexico Grand Tours: ha un po' di tutto."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Mattina: Isla Mujeres in traghetto",
+            "Pomeriggio: golf cart e snorkeling",
+            "Sera: Parque las Palapas"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: Isla Mujeres",
+            "Giorno 2: Playa Marlin, Mercado 28 e, se si vuole, Coco Bongo"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Centro (Downtown)",
+          "perChi": "budget e vita locale",
+          "testo": "Hotel economici, mercati e ristoranti, ma lontano dal mare."
+        },
+        {
+          "nome": "Zona Hotelera",
+          "perChi": "mare e resort",
+          "testo": "Spiagge e resort, ma prezzi alti e traffico turistico."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Tacos al pastor",
+          "testo": "Maiale marinato con ananas, nelle taquerías del centro."
+        },
+        {
+          "nome": "Cochinita pibil",
+          "testo": "Maiale cotto nel pibil, specialità dello Yucatán."
+        },
+        {
+          "nome": "Ceviche e aguachile",
+          "testo": "Pesce crudo marinato nel lime, sul mare."
+        },
+        {
+          "nome": "Marquesitas",
+          "testo": "Cialde ripiene di formaggio Edam e Nutella, di strada."
+        }
+      ],
+      "attenzioni": [
+        "In zona hotelera i prezzi di cibo e bevande sono molto alti: mangiare in centro.",
+        "Taxi senza tassametro: concordare il prezzo prima di salire.",
+        "Offerte di time share o tour a prezzi troppo bassi: non seguire chi ferma per strada."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-beach-life'],
     imageAlt: 'Spiaggia bianca e onde turchesi con gli hotel della zona hotelera di Cancún sullo sfondo',
@@ -72,6 +157,94 @@ export const destinazioniMessico: Destinazione[] = [
     ],
     miaEsperienza:
       'Valladolid è stata una sosta breve ma piacevole: una città molto tranquilla, dove la sera ho fatto una passeggiata dopo una giornata piena fra Río Lagartos, Ek Balam e il cenote Xcanché.',
+      "luoghi": [
+        {
+          "nome": "Chichén Itzá",
+          "testo": "Una delle meraviglie del mondo moderne, sito maya patrimonio UNESCO con il Castillo, il campo del gioco di palla e il cenote sacro.",
+          "come": "Da Valladolid circa 40 minuti in auto o taxi, oppure tour con guida.",
+          "quando": "Mattina, all'apertura, prima dei pullman e del caldo.",
+          "tempo": "3-4 ore",
+          "url": "https://www.inah.gob.mx/",
+          "consiglio": "Per Chichén Itzá consiglio una guida: Alejandro parla spagnolo e inglese, è nato a 20 minuti dal sito ed è preparatissimo."
+        },
+        {
+          "nome": "Ek Balam",
+          "testo": "Sito maya più piccolo e molto meno affollato, con un'acropoli su cui si può salire e decorazioni in stucco.",
+          "come": "Da Valladolid circa 30 minuti in taxi.",
+          "quando": "Mattina.",
+          "tempo": "2 ore",
+          "url": "https://www.inah.gob.mx/",
+          "consiglio": "Spesso sottovalutato: abbinarlo al cenote Xcanché lì accanto."
+        },
+        {
+          "nome": "Cenote Xcanché",
+          "testo": "Cenote a cielo aperto vicino a Ek Balam, con tuffi e liane.",
+          "come": "Taxi o bici da Ek Balam.",
+          "quando": "Mattina o primo pomeriggio.",
+          "tempo": "1-2 ore"
+        },
+        {
+          "nome": "Río Lagartos e Las Coloradas",
+          "testo": "Riserva con fenicotteri e laghi rosa, a nord di Valladolid.",
+          "come": "Tour o auto, lungo la strada per la costa.",
+          "quando": "Mattina.",
+          "tempo": "Mezza giornata",
+          "consiglio": "Spesso tappa lungo il percorso da Cancún."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Mattina: Ek Balam e cenote Xcanché",
+            "Pranzo in piazza",
+            "Pomeriggio: centro storico",
+            "Sera: passeggiata"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: Ek Balam, Xcanché, centro",
+            "Giorno 2: Chichén Itzá all'apertura, poi Río Lagartos"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Centro storico",
+          "perChi": "a piedi da tutto",
+          "testo": "Piazza principale, cantinas e loncherías vicine, hotel a pochi passi."
+        },
+        {
+          "nome": "Fuori dal centro",
+          "perChi": "chi ha l'auto",
+          "testo": "Haciendas e cenote, ma serve un mezzo."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Cochinita pibil e poc chuc",
+          "testo": "Maiale marinato e griglia di maiale con arance acide, tipici di Valladolid."
+        },
+        {
+          "nome": "Longaniza di Valladolid",
+          "testo": "Salsiccia speziata affumicata, specialità cittadina."
+        },
+        {
+          "nome": "Sopa de lima",
+          "testo": "Zuppa di pollo e lime, piatto yucateco."
+        },
+        {
+          "nome": "Panuchos e salbutes",
+          "testo": "Tortillas fritte ripiene di fagioli o pollo."
+        }
+      ],
+      "attenzioni": [
+        "Chichén Itzá: andare all'apertura, e non seguire i procacciatori all'ingresso.",
+        "Non salire sulle piramidi dove è vietato: le multe sono reali.",
+        "Cenote: seguire le regole su crema solare e doccia prima del bagno."
+      ],
     esperienzeSlugs: ['rio-lagartos', 'ek-balam-cenote-xcanche'],
     tripSlugs: ['messico-beach-life'],
     imageAlt: 'Portici e facciata gialla in stile coloniale nel centro di Valladolid, Yucatán',
@@ -110,6 +283,89 @@ export const destinazioniMessico: Destinazione[] = [
     ],
     miaEsperienza:
       'Mérida è stata la pausa giusta a metà viaggio: una giornata senza transfer fra Playa Progreso e il pig beach e una vera serata fuori nel centro storico.',
+      "luoghi": [
+        {
+          "nome": "Plaza Grande e centro storico",
+          "testo": "La piazza centrale con la cattedrale del XVI secolo, il Palazzo del Governo con murales e le case coloniali dei dintorni.",
+          "come": "A piedi dal centro.",
+          "quando": "Mattina e sera, quando c'è musica.",
+          "tempo": "Mezza giornata"
+        },
+        {
+          "nome": "Mercado municipal",
+          "testo": "Il mercato coperto con frutta, spezie e artigianato, da cui si compra lo yucateco.",
+          "come": "A piedi dal centro, a est della piazza.",
+          "quando": "Mattina.",
+          "tempo": "1-2 ore"
+        },
+        {
+          "nome": "Playa Progreso e pig beach",
+          "testo": "La spiaggia di Progreso a mezz'ora da Mérida, e la Playa de los Cerditos, poco battuta.",
+          "come": "Bus o auto da Mérida, circa 40 minuti.",
+          "quando": "Giornata.",
+          "tempo": "Giornata",
+          "consiglio": "Una pausa a metà viaggio senza transfer lunghi."
+        },
+        {
+          "nome": "Serata fra La Negrita e la Mezcalería",
+          "testo": "Locali con musica dal vivo e mezcal nel centro storico.",
+          "come": "A piedi dal centro.",
+          "quando": "Sera.",
+          "tempo": "Serata"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Mattina: Plaza Grande e mercato",
+            "Pomeriggio: Paseo de Montejo",
+            "Sera: La Negrita e Mezcalería"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: centro e mercato",
+            "Giorno 2: Playa Progreso e pig beach"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Centro storico",
+          "perChi": "a piedi da tutto",
+          "testo": "Hotel boutique in case coloniali, vicino ai ristoranti e alla piazza."
+        },
+        {
+          "nome": "Paseo de Montejo",
+          "perChi": "eleganza",
+          "testo": "Viale dei palazzi del Novecento, più tranquillo."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Sopa de lima",
+          "testo": "Zuppa di pollo e lime."
+        },
+        {
+          "nome": "Cochinita pibil",
+          "testo": "Maiale marinato nel pibil."
+        },
+        {
+          "nome": "Papadzules",
+          "testo": "Tortillas ripiene di uovo con salsa di semi di zucca."
+        },
+        {
+          "nome": "Salbutes e panuchos",
+          "testo": "Tortillas fritte ripiene."
+        }
+      ],
+      "attenzioni": [
+        "Il caldo e l'umidità sono forti: bere molto e visitare la mattina.",
+        "Taxi non ufficiali: usare Uber o taxi concordati.",
+        "Il centro di sera è sicuro nelle vie principali; fuori da lì chiedere consiglio."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-beach-life'],
     imageAlt: 'I portici del Palacio Municipal sulla piazza principale del centro storico di Mérida, Yucatán',
@@ -141,6 +397,77 @@ export const destinazioniMessico: Destinazione[] = [
     ],
     miaEsperienza:
       'Una tappa breve ma piacevole. La Piazza della Cattedrale è molto curata, coi tipici lustrascarpe, e la passeggiata fino al lungomare attraverso la Puerta del Mar è stata un bel modo per sgranchirmi dopo ore di van.',
+      "luoghi": [
+        {
+          "nome": "Piazza della Cattedrale",
+          "testo": "La piazza centrale del centro storico, molto curata, con la cattedrale e i lustrascarpe tipici.",
+          "come": "A piedi.",
+          "quando": "Mattina e sera.",
+          "tempo": "1 ora"
+        },
+        {
+          "nome": "Puerta del Mar e lungomare",
+          "testo": "La porta del mare delle antiche mura, da cui si arriva al lungomare. La passeggiata dalla cattedrale è un bel modo per sgranchirsi dopo ore di van.",
+          "come": "A piedi dalla piazza.",
+          "quando": "Pomeriggio e sera.",
+          "tempo": "1-2 ore"
+        },
+        {
+          "nome": "Mura e baluardi",
+          "testo": "Campeche è una città fortificata del XVII secolo, patrimonio UNESCO, con baluardi e forti costruiti contro i pirati.",
+          "come": "A piedi lungo le mura.",
+          "quando": "Mattina.",
+          "tempo": "2 ore",
+          "url": "https://www.inah.gob.mx/"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "Mezza giornata",
+          "tappe": [
+            "Piazza della Cattedrale",
+            "Puerta del Mar e lungomare",
+            "Cena nel centro storico"
+          ]
+        },
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Mattina: mura e baluardi",
+            "Pomeriggio: passeggiata e cena"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Centro storico fortificato",
+          "perChi": "a piedi da tutto",
+          "testo": "Hotel in case coloniali, vicinissimi alla cattedrale e al lungomare."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Pan de cazón",
+          "testo": "Tortillas con tonnetto e fagioli, specialità di Campeche."
+        },
+        {
+          "nome": "Camarones al coco",
+          "testo": "Gamberi in crosta di cocco."
+        },
+        {
+          "nome": "Pescado a la campechana",
+          "testo": "Pesce con salsa di pomodoro e olive."
+        },
+        {
+          "nome": "Cocktail di gamberi",
+          "testo": "Di strada, sul lungomare."
+        }
+      ],
+      "attenzioni": [
+        "Il giorno dopo il trasferimento verso Mahahual è molto lungo e si cambia fuso: partire presto.",
+        "Di sera il centro è tranquillo, ma evitare le strade deserte fuori mura.",
+        "Prezzi bassi: non pagare di più per tour improvvisati."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-beach-life'],
     imageAlt: 'Una porta delle antiche mura del centro storico di Campeche con una casa coloniale colorata sullo sfondo',
@@ -170,6 +497,81 @@ export const destinazioniMessico: Destinazione[] = [
     ],
     miaEsperienza:
       'Sono arrivato a Mahahual in serata, dopo il transfer più lungo del viaggio. Il giorno dopo è stato fra i più pieni dell\'itinerario, fra Bacalar, lo snorkeling con le tartarughe e il Temazcal: il dettaglio è nella pagina del viaggio.',
+      "luoghi": [
+        {
+          "nome": "Lungomare di Mahahual",
+          "testo": "Il lungomare del villaggio sul Caribe, con ristoranti, beach club e il molo delle navi da crociera, a sud della Riviera Maya.",
+          "come": "Da Campeche con il transfer più lungo dell'itinerario e cambio di fuso orario.",
+          "quando": "Pomeriggio e sera.",
+          "tempo": "Mezza giornata"
+        },
+        {
+          "nome": "Snorkeling con le tartarughe",
+          "testo": "Uscita in barca a pochi metri dalla costa, dove vivono tartarughe verdi nella barriera.",
+          "come": "Tour dal lungomare con operatore.",
+          "quando": "Mattina.",
+          "tempo": "2-3 ore"
+        },
+        {
+          "nome": "Temazcal nella selva",
+          "testo": "Rito del bagno di vapore di tradizione indigena, con guida, di sera, in un posto nella giungla.",
+          "come": "Prenotazione con una struttura della zona.",
+          "quando": "Sera.",
+          "tempo": "2-3 ore"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Mattina: snorkeling con le tartarughe",
+            "Pomeriggio: lungomare",
+            "Sera: temazcal"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: arrivo da Campeche, lungomare",
+            "Giorno 2: Bacalar in giornata, snorkeling e temazcal"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Sul lungomare",
+          "perChi": "a piedi da tutto",
+          "testo": "Hotel in tutte le fasce di prezzo, rumorosi nei giorni delle crociere."
+        },
+        {
+          "nome": "Fuori dal centro",
+          "perChi": "calma",
+          "testo": "Cabañas più isolate, lontano dalle navi."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Ceviche e pescado frito",
+          "testo": "Fresco, sul lungomare."
+        },
+        {
+          "nome": "Tacos di pesce",
+          "testo": "Di strada."
+        },
+        {
+          "nome": "Mariscos",
+          "testo": "Gamberi e aragosta, nei ristoranti sul mare."
+        },
+        {
+          "nome": "Agua fresca",
+          "testo": "Di frutta, per il caldo."
+        }
+      ],
+      "attenzioni": [
+        "Il giorno dell'arrivo ha ritmi serrati: se si sgarra sugli orari delle tappe precedenti (in particolare Balam Ku) salta il resto della giornata.",
+        "Nei giorni di crociera il lungomare è affollato e i prezzi salgono.",
+        "Sole forte: crema adatta alla barriera e acqua."
+      ],
     esperienzeSlugs: ['snorkeling-tartarughe-mahahual', 'temazcal'],
     tripSlugs: ['messico-beach-life'],
     imageAlt: 'Spiaggia di Mahahual con palme, tavolini e barche sul Mar dei Caraibi',
@@ -199,6 +601,91 @@ export const destinazioniMessico: Destinazione[] = [
     ],
     miaEsperienza:
       'L\'ho vista solo in giornata, con un tour in barca di 2 ore e un\'ora di kayak. Bellissima, ma il tempo stretto si è sentito: è una delle tappe che in un prossimo giro farei con più calma.',
+      "luoghi": [
+        {
+          "nome": "Laguna di Bacalar",
+          "testo": "La laguna dei sette colori, lunga circa 40 km, con acqua dalle sfumature di azzurro e turchese su fondale bianco.",
+          "come": "Da Mahahual in tour organizzato oppure in autonomia con van o auto.",
+          "quando": "Mattina, con luce piena.",
+          "tempo": "Mezza giornata o più",
+          "consiglio": "Il tempo in giornata è stretto: chi può, valuti una notte sul posto per goderla con calma."
+        },
+        {
+          "nome": "Tour in barca e kayak",
+          "testo": "Giro di 2 ore in barca sulla laguna e, nel mio caso, un'ora di kayak inclusa dopo il tour.",
+          "come": "Tour prenotato dall'hotel o dal lungolago.",
+          "quando": "Mattina.",
+          "tempo": "3 ore"
+        },
+        {
+          "nome": "Cenote Azul",
+          "testo": "Un cenote profondo e rotondo sulla riva della laguna.",
+          "come": "In taxi dal centro.",
+          "quando": "Mattina.",
+          "tempo": "1-2 ore"
+        },
+        {
+          "nome": "Fuerte San Felipe",
+          "testo": "Forte del XVIII secolo contro i pirati, oggi museo, sulla riva della laguna.",
+          "come": "A piedi dal centro.",
+          "quando": "Mattina.",
+          "tempo": "1 ora",
+          "url": "https://www.inah.gob.mx/"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Tour in barca di 2 ore",
+            "Kayak",
+            "Pranzo sul lago",
+            "Cenote Azul"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: tour in barca e Fuerte San Felipe",
+            "Giorno 2: kayak e cenote, poi partenza"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Lungolago di Bacalar",
+          "perChi": "vista sulla laguna",
+          "testo": "Hotel e cabañas direttamente sull'acqua, più cari."
+        },
+        {
+          "nome": "Centro del paese",
+          "perChi": "budget",
+          "testo": "Più economico, a pochi minuti dalla laguna."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Pesce fresco",
+          "testo": "Alla piastra sul lungolago."
+        },
+        {
+          "nome": "Tacos e quesadillas",
+          "testo": "Di strada, in centro."
+        },
+        {
+          "nome": "Ceviche",
+          "testo": "Con lime e coriandolo."
+        },
+        {
+          "nome": "Agua de Jamaica",
+          "testo": "Bevanda di ibisco, tipica messicana."
+        }
+      ],
+      "attenzioni": [
+        "In tour il tempo è poco: considerare una notte.",
+        "Proteggere la laguna: crema solare biodegradabile obbligatoria in molti punti.",
+        "Non camminare sugli stromatoliti: sono organismi fragili."
+      ],
     esperienzeSlugs: ['tour-barca-bacalar'],
     tripSlugs: ['messico-beach-life'],
     imageAlt: 'Acque turchesi e trasparenti della laguna di Bacalar con un pontile di legno tra la vegetazione',
@@ -237,6 +724,99 @@ export const destinazioniMessico: Destinazione[] = [
     ],
     miaEsperienza:
       'A Caleta Tankah all\'inizio il mare non era invitante, poi è uscito il sole e la giornata è cambiata, cenote compreso. Il sito archeologico sulla scogliera e Playa Paraíso restano fra i ricordi più forti del viaggio.',
+      "luoghi": [
+        {
+          "nome": "Sito archeologico di Tulum",
+          "testo": "Città maya sulla scogliera sopra il Caribe, l'unico sito maya del Messico affacciato sul mare. Il Castillo e il Tempio del Dio del Vento sono i punti chiave.",
+          "come": "Da Tulum paese in taxi o bici. Ingresso INAH; la spiaggia sotto il sito è accessibile.",
+          "quando": "Mattina, prima del caldo e dei pullman.",
+          "tempo": "2 ore",
+          "url": "https://www.inah.gob.mx/",
+          "consiglio": "Bagno nella caletta sotto la scogliera dopo la visita."
+        },
+        {
+          "nome": "Cenote Dos Ojos",
+          "testo": "Due cenote collegati in una grotta con stalattiti, nel sistema Sac Actun: diverso dai cenote a cielo aperto dello Yucatán.",
+          "come": "In auto o taxi da Tulum, circa 20 minuti a nord.",
+          "quando": "Mattina.",
+          "tempo": "2 ore",
+          "consiglio": "A Tulum sconsiglio i cenote più turistici e propongo Dos Ojos. Accanto ce n'è un altro bellissimo di cui ho dimenticato il nome."
+        },
+        {
+          "nome": "Caleta Tankah",
+          "testo": "Una cala con acqua turchese e un cenote, a ingresso a pagamento (300 MXN a persona, niente carte, nessun rimborso).",
+          "come": "Taxi da Tulum.",
+          "quando": "Giornata.",
+          "tempo": "Mezza giornata",
+          "consiglio": "All'inizio il mare non era invitante, poi è uscito il sole e la giornata è cambiata."
+        },
+        {
+          "nome": "Playa Paraíso",
+          "testo": "Spiaggia con beach club, tra le più consigliate della zona, con lettini a pagamento.",
+          "come": "Taxi da Tulum.",
+          "quando": "Pomeriggio.",
+          "tempo": "Mezza giornata"
+        },
+        {
+          "nome": "Xcacel",
+          "testo": "Spiaggia protetta con schiusa delle tartarughe da aprile a ottobre. Ingresso 100 MXN, cibo, alcolici e casse vietati, aperta dalle 10 alle 16, chiusa il lunedì.",
+          "come": "Taxi o auto da Tulum.",
+          "quando": "Mattina.",
+          "tempo": "2-3 ore"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Mattina: sito archeologico",
+            "Pranzo a Playa Paraíso",
+            "Pomeriggio: Dos Ojos o Gran Cenote"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: sito archeologico e Playa Paraíso",
+            "Giorno 2: Caleta Tankah, Dos Ojos e Xcacel"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Tulum paese",
+          "perChi": "servizi e prezzi",
+          "testo": "Alberghi in centro, ristoranti, vicino alle fermate dei bus."
+        },
+        {
+          "nome": "Zona hotelera sulla spiaggia",
+          "perChi": "mare",
+          "testo": "Hotel e beach club, più cari."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Cochinita pibil",
+          "testo": "Maiale marinato, specialità yucateca."
+        },
+        {
+          "nome": "Tacos al pastor",
+          "testo": "Al pastor e di pesce, di strada."
+        },
+        {
+          "nome": "Ceviche",
+          "testo": "Con lime e coriandolo, nei beach club."
+        },
+        {
+          "nome": "Agua de Jamaica",
+          "testo": "Ibisco, per il caldo."
+        }
+      ],
+      "attenzioni": [
+        "Sito archeologico: portare acqua e crema, il caldo è forte; vietato salire sulle strutture.",
+        "Cenote: seguire le regole su crema e doccia; i più turistici sono affollati.",
+        "Caleta Tankah: niente carte e nessun rimborso, nemmeno se si esce dopo pochi minuti."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-beach-life'],
     imageAlt: 'Gruppo in muta ed equipaggiamento da snorkeling in un cenote in grotta vicino a Dos Ojos, Tulum',
@@ -271,6 +851,90 @@ export const destinazioniMessico: Destinazione[] = [
     erroriDaEvitare: [],
     miaEsperienza:
       'L\'ho vista solo di sera, con una tappa al Clandestino: troppo poco per farmi un\'idea della città, che meriterebbe più tempo (magari con l\'escursione a Cozumel, che nel mio viaggio non abbiamo fatto).',
+      "luoghi": [
+        {
+          "nome": "5ta Avenida",
+          "testo": "La via pedonale principale, parallela al mare, con negozi, ristoranti e bar.",
+          "come": "A piedi dal centro.",
+          "quando": "Pomeriggio e sera.",
+          "tempo": "2 ore"
+        },
+        {
+          "nome": "Mamitas Beach, Playacar e Parque Fundadores",
+          "testo": "Le spiagge pubbliche del centro, con beach club e tratti gratuiti.",
+          "come": "A piedi dal centro.",
+          "quando": "Mattina.",
+          "tempo": "Mezza giornata"
+        },
+        {
+          "nome": "Cozumel in catamarano o in barca privata",
+          "testo": "Escursione di una giornata a Cozumel con snorkeling nelle barriere di Palancar, El Cielo ed El Cielito. In questo viaggio non l'abbiamo fatta, ma con più tempo la consiglio.",
+          "come": "Catamarano condiviso circa 1.670 MXN a persona con traghetto a/r, pranzo a Playa Mia, open bar; barca privata circa 700 MXN più traghetto circa 580 MXN a/r.",
+          "quando": "Mattina.",
+          "tempo": "Giornata"
+        },
+        {
+          "nome": "Clandestino",
+          "testo": "Locale serale in centro.",
+          "come": "A piedi dalla 5ta.",
+          "quando": "Sera.",
+          "tempo": "Serata",
+          "consiglio": "L'ho vista solo di sera, con una tappa al Clandestino."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Mattina: spiaggia pubblica",
+            "Pranzo sulla 5ta Avenida",
+            "Pomeriggio: shopping",
+            "Sera: Clandestino"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: spiagge e 5ta Avenida",
+            "Giorno 2: Cozumel in catamarano"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Centro (5ta Avenida)",
+          "perChi": "vita serale",
+          "testo": "Tutto a piedi, ma rumoroso e caro."
+        },
+        {
+          "nome": "Playacar",
+          "perChi": "resort",
+          "testo": "Zona recintata di resort, più tranquilla, vicino al traghetto."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Tacos al pastor e di pesce",
+          "testo": "Di strada."
+        },
+        {
+          "nome": "Ceviche",
+          "testo": "Con lime, nei ristoranti sul mare."
+        },
+        {
+          "nome": "Cochinita pibil",
+          "testo": "Maiale yucateco."
+        },
+        {
+          "nome": "Aguachile",
+          "testo": "Gamberi crudi in salsa piccante di lime."
+        }
+      ],
+      "attenzioni": [
+        "Sulla 5ta Avenida i prezzi sono turistici: spostarsi di una o due vie per mangiare meglio.",
+        "Procacciatori che vendono tour: non fermarsi.",
+        "Il traghetto per Cozumel ha orari fissi: controllare l'ultimo rientro."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-beach-life'],
     imageAlt: 'La spiaggia e il lungomare di Playa del Carmen visti dal mare, con barche e palme',
@@ -313,6 +977,96 @@ export const destinazioniMessico: Destinazione[] = [
     ],
     miaEsperienza:
       'Holbox è stata la chiusura giusta del viaggio. Se dovessi consigliare una sola attività di tutto l\'itinerario, sarebbe l\'escursione con lo squalo balena, che ho fatto proprio qui.',
+      "luoghi": [
+        {
+          "nome": "Squalo balena",
+          "testo": "Escursione in barca per nuotare con lo squalo balena, ammesso a gruppi piccoli. Esiste una scheda esperienza dedicata. Se dovessi consigliare una sola attività di tutto l'itinerario, sarebbe questa.",
+          "come": "Tour dal porto di Holbox, con guida.",
+          "quando": "Giugno-settembre, finestra in cui gli squali balena sono nelle acque di Holbox.",
+          "tempo": "Mezza giornata"
+        },
+        {
+          "nome": "Bioluminescenza a Punta Mosquito",
+          "testo": "Il plancton luminescente illumina l'acqua di notte. In autonomia con un «carrito» fino al punto; in kayak con guida (500 MXN a persona sopra le 8 persone, 400 sotto); o con un tour in barca.",
+          "come": "Chiedere sul posto il giorno stesso: dipende da fasi lunari e meteo.",
+          "quando": "Sera; si vede meglio da aprile a novembre.",
+          "tempo": "2 ore",
+          "consiglio": "A piedi è sconsigliato: circa un'ora di cammino per direzione, quasi tutta al buio."
+        },
+        {
+          "nome": "Tour delle 3 Islas",
+          "testo": "Giro condiviso in barca di circa 3 ore, con fenicotteri, delfini e uccelli: Isla Pájaros, cenote di Yalahau, Isla Pasión o Punta Mosquito.",
+          "come": "750-900 MXN a persona secondo l'operatore; alcuni includono il transfer dall'hotel (circa 1.100 MXN). Il cenote Yalahau si paga a parte, circa 200 MXN.",
+          "quando": "Mattina.",
+          "tempo": "3 ore"
+        },
+        {
+          "nome": "Cabo Catoche",
+          "testo": "Escursione alla punta più a nord dello Yucatán, dove si incontrano Golfo del Messico e Caraibi. Snorkeling su una barriera bassa, pesca e ceviche fresco. Nel viaggio non l'abbiamo fatta.",
+          "come": "Tour condiviso dalla mattina al tardo pomeriggio, 80-100 USD a persona circa; confrontare più operatori.",
+          "quando": "Giornata.",
+          "tempo": "Giornata"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Mattina: tour delle 3 Islas",
+            "Pomeriggio: spiaggia",
+            "Sera: bioluminescenza"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: squalo balena (stagione)",
+            "Giorno 2: 3 Islas e Punta Mosquito"
+          ]
+        },
+        {
+          "titolo": "3 giorni",
+          "tappe": [
+            "Giorni 1-2 come sopra",
+            "Giorno 3: Cabo Catoche o passeggiata a cavallo"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Centro del paese",
+          "perChi": "a piedi da tutto",
+          "testo": "Ristoranti, negozi e hotel vicini alla piazza, strade di sabbia senza auto."
+        },
+        {
+          "nome": "Spiaggia a nord-est",
+          "perChi": "calma",
+          "testo": "Hotel sul mare, più isolati."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Pizza di Holbox",
+          "testo": "Con aragosta, tipica dell'isola."
+        },
+        {
+          "nome": "Ceviche",
+          "testo": "Fresco di pesce."
+        },
+        {
+          "nome": "Tacos di pesce",
+          "testo": "Di strada."
+        },
+        {
+          "nome": "Aragosta e frutti di mare",
+          "testo": "Alla griglia, in stagione."
+        }
+      ],
+      "attenzioni": [
+        "Squalo balena: stagionale; non è garantito e dipende dall'operatore.",
+        "Bioluminescenza: dipende da fasi lunari e meteo, chiedere sul posto il giorno stesso.",
+        "Sulla spiaggia a Holbox ci sono sargassi in certi mesi: non è un difetto dell'isola ma va messo in conto."
+      ],
     esperienzeSlugs: ['squalo-balena-holbox', 'bioluminescenza-holbox', 'tour-3-islas-holbox', 'cabo-catoche'],
     tripSlugs: ['messico-beach-life'],
     imageAlt: "Una barca ancorata nell'acqua bassa e cristallina di Holbox, con la riva bianca e le palme all'orizzonte",

@@ -44,6 +44,101 @@ export const destinazioniPanama: Destinazione[] = [
     ],
     miaEsperienza:
       'Dall\'aeroporto siamo andati dritti al Casco Viejo, e il primo impatto è stato uno skyline di grattacieli che non somigliava a niente di quello visto nelle tre settimane prima. Il giorno dopo, al mattino, le chiuse di Miraflores: gli orari di transito delle navi vanno controllati prima, perché senza una nave in manovra si guarda una vasca di cemento vuota, mentre una portacontainer che entra con pochi centimetri di margine per lato vale da sola la deviazione. Nel pomeriggio le rovine di Panamá Viejo e una passeggiata nel Casco Viejo, dove la cosa più interessante da guardare è il contrasto fra palazzi ristrutturati e facciate ancora puntellate. Abbiamo pranzato al Mercado de Mariscos con un ceviche in bicchiere di plastica da un paio di dollari. Fuori dalle zone turistiche del Casco, dopo il tramonto, meglio non girare a piedi.',
+      "luoghi": [
+        {
+          "nome": "Chiuse di Miraflores",
+          "testo": "Le chiuse del Canale di Panama dove le navi vengono sollevate e abbassate fra i due livelli, con centro visitatori, museo e terrazza panoramica.",
+          "come": "Taxi o Uber da Panama City, circa 20-30 minuti. Biglietto d'ingresso al centro visitatori.",
+          "quando": "Mattina: gli orari di transito delle navi vanno controllati prima, perché senza una nave in manovra si guarda una vasca vuota.",
+          "tempo": "2-3 ore",
+          "url": "https://pancanal.com/",
+          "consiglio": "Una portacontainer che entra con pochi centimetri di margine per lato vale da sola la deviazione."
+        },
+        {
+          "nome": "Casco Viejo",
+          "testo": "Il centro storico coloniale, patrimonio UNESCO: Plaza de la Independencia, chiese, palazzi restaurati e facciate ancora puntellate, fra caffè e rooftop.",
+          "come": "A piedi dal taxi, il quartiere si gira in un giorno.",
+          "quando": "Mattina e tramonto; di sera restare nelle strade turistiche.",
+          "tempo": "Mezza giornata",
+          "consiglio": "Il contrasto fra palazzi restaurati e facciate puntellate è la cosa più interessante da guardare. Fuori dalle zone turistiche, dopo il tramonto, meglio non girare a piedi."
+        },
+        {
+          "nome": "Panamá Viejo",
+          "testo": "Le rovine della città originale, fondata nel 1519 e distrutta dai pirati nel 1671, con la torre della cattedrale.",
+          "come": "Taxi dal centro, circa 15-20 minuti.",
+          "quando": "Mattina, prima del caldo.",
+          "tempo": "1,5 ore",
+          "url": "https://www.visitpanama.com/"
+        },
+        {
+          "nome": "Mercado de Mariscos",
+          "testo": "Il mercato del pesce vicino al Casco Viejo, con banchi di ceviche serviti in bicchiere.",
+          "come": "A piedi dal Casco Viejo, 10 minuti.",
+          "quando": "Pranzo.",
+          "tempo": "1 ora",
+          "consiglio": "Ceviche in bicchiere di plastica per un paio di dollari."
+        },
+        {
+          "nome": "Biomuseo",
+          "testo": "Il museo progettato da Frank Gehry, a Calzada de Amador, sul sorgere dell'istmo di Panama e sulla biodiversità.",
+          "come": "Taxi o Uber.",
+          "quando": "Mattina.",
+          "tempo": "2 ore"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Mattina: chiuse di Miraflores con una nave in transito",
+            "Pranzo al Mercado de Mariscos",
+            "Pomeriggio: Casco Viejo",
+            "Tramonto sul mare dalla Cinta Costera"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: Miraflores, Casco Viejo",
+            "Giorno 2: Panamá Viejo, Biomuseo, Calzada de Amador"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Casco Viejo",
+          "perChi": "atmosfera e locali",
+          "testo": "Hotel e ristoranti in palazzi restaurati, a piedi. Più cari, rumorosi di notte nel weekend."
+        },
+        {
+          "nome": "Zona di Bella Vista e Obarrio",
+          "perChi": "servizi e prezzi",
+          "testo": "Quartiere di grattacieli, alberghi e ristoranti, ben collegato in taxi."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Ceviche",
+          "testo": "Pesce crudo marinato nel lime, al Mercado de Mariscos."
+        },
+        {
+          "nome": "Sancocho",
+          "testo": "Zuppa di pollo con yuca e coriandolo, il piatto nazionale."
+        },
+        {
+          "nome": "Arroz con pollo",
+          "testo": "Riso al pollo con verdure, nelle fondas."
+        },
+        {
+          "nome": "Patacones",
+          "testo": "Platano verde fritto e schiacciato, da accompagnare ai piatti."
+        }
+      ],
+      "attenzioni": [
+        "Nelle zone fuori dal Casco turistico, dopo il tramonto, non girare a piedi: usare taxi o app.",
+        "Prima di andare a Miraflores controllare gli orari dei transiti delle navi.",
+        "Taxi senza tassametro: concordare il prezzo prima di partire o usare Uber."
+      ],
     esperienzeSlugs: ['chiuse-miraflores'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Lo skyline dei grattacieli di Panama City visto da una terrazza del Casco Viejo',
@@ -86,6 +181,90 @@ export const destinazioniPanama: Destinazione[] = [
     ],
     miaEsperienza:
       'Arrivarci è stato il trasferimento più impegnativo della seconda parte: sveglia verso le cinque, quasi tre ore di 4x4 su una strada di montagna dalle pendenze ripide fino al porto di Cartí, poi la barca verso le isole. Conviene sapere in cosa si entra. Guna Yala è un territorio autogovernato: il turismo lo gestiscono i Guna e la tassa d\'ingresso si paga a loro, solo in contanti, perché sulle isole non ci sono bancomat né carte. La nostra cabaña era essenziale per scelta, gestita da una famiglia Guna: luce a orario, acqua dolce razionata, wifi quasi assente, pasti inclusi. Il giorno pieno l\'abbiamo passato in barca fra Isla Perro, col relitto da fare in snorkeling, Isla Aguja, i Cayos Holandeses e le piscine naturali in mezzo al mare. Le regole sono della comunità: si chiede il permesso prima di fotografare persone e case, dalle isole non si porta via niente e le immersioni con bombole sono vietate.',
+      "luoghi": [
+        {
+          "nome": "Isla Perro e il relitto",
+          "testo": "Isoletta con un relitto di nave a pochi metri dalla riva, perfetto per lo snorkeling in acqua bassa e chiara.",
+          "come": "In barca dalle isole dove si dorme, in un giro di giornata.",
+          "quando": "Mattina, con il mare calmo.",
+          "tempo": "1-2 ore",
+          "consiglio": "Si fa snorkeling senza bombole: le immersioni con bombole sono vietate dalla comunità."
+        },
+        {
+          "nome": "Isla Aguja e Cayos Holandeses",
+          "testo": "Isolotti con palme e sabbia bianca, con acqua turchese e fondali bassi.",
+          "come": "Giro in barca fra le isole, incluso nel pacchetto.",
+          "quando": "Mattina, con luce limpida.",
+          "tempo": "Giornata"
+        },
+        {
+          "nome": "Piscine naturali in mezzo al mare",
+          "testo": "Banchi di sabbia con acqua alta fino al ginocchio, circondati dal mare aperto.",
+          "come": "In barca dalla cabaña.",
+          "quando": "Mattina.",
+          "tempo": "1 ora"
+        },
+        {
+          "nome": "Villaggi Guna e mole",
+          "testo": "I villaggi Guna, dove si acquistano le mole, tessuti tradizionali cuciti a mano. Guna Yala è un territorio autogovernato.",
+          "come": "Visita da una delle isole abitate, con il permesso dei residenti.",
+          "quando": "Giorno.",
+          "tempo": "1-2 ore",
+          "consiglio": "Si chiede il permesso prima di fotografare persone e case, e dalle isole non si porta via niente."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Partenza all'alba da Panama City in 4x4 per Cartí",
+            "Barca verso le isole, snorkeling a Isla Perro",
+            "Rientro verso sera, spesso troppo stretto per un solo giorno"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: 4x4 fino a Cartí, barca, notte in cabaña",
+            "Giorno 2: giro fra Isla Perro, Isla Aguja, Cayos Holandeses, piscine naturali, poi rientro"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Cabaña su un'isola Guna",
+          "perChi": "esperienza autentica",
+          "testo": "Essenziale per scelta: luce a orario, acqua dolce razionata, wifi quasi assente, pasti inclusi, gestita da una famiglia Guna."
+        },
+        {
+          "nome": "Alloggio sul continente a Cartí",
+          "perChi": "chi vuole arrivare all'alba",
+          "testo": "Meno suggestivo, ma evita la partenza notturna."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Pesce e aragosta alla griglia",
+          "testo": "Il pescato dei Guna, spesso incluso nei pasti."
+        },
+        {
+          "nome": "Riso e fagioli",
+          "testo": "Base di ogni pasto, con platano fritto."
+        },
+        {
+          "nome": "Patacones",
+          "testo": "Platano fritto, come accompagnamento."
+        },
+        {
+          "nome": "Cocco",
+          "testo": "Acqua di cocco fresca e pezzi di polpa, raccolti sull'isola."
+        }
+      ],
+      "attenzioni": [
+        "La tassa d'ingresso a Guna Yala si paga ai Guna, solo in contanti: sulle isole non ci sono bancomat né carte.",
+        "Il viaggio da Panama City comincia verso le 5 e dura quasi tre ore di 4x4 su strada di montagna ripida: chi soffre l'auto prenda un rimedio.",
+        "Regole della comunità: chiedere il permesso prima di fotografare persone e case, niente prelievi dalle isole, niente bombole."
+      ],
     esperienzeSlugs: ['notte-isola-san-blas'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Isolotto di sabbia bianca con palme e capanne nell\'arcipelago di San Blas, Panama',
@@ -131,6 +310,90 @@ export const destinazioniPanama: Destinazione[] = [
     ],
     miaEsperienza:
       'Da Boquete siamo arrivati a Bocas via terra fino ad Almirante e poi in water taxi, ed è stato l\'opposto di San Blas: case su palafitte, un\'atmosfera molto più sociale e rumorosa, ostelli e gente che quasi sempre resta più del previsto. Il giorno dopo abbiamo fatto il giro in barca fra gli isolotti: Cayo Zapatilla, spesso il punto più bello di tutto il giro, e Starfish Beach, che mantiene la promessa del nome con le stelle marine in acqua alta poco più di un metro, più una sosta di snorkeling a Cayo Coral. Le uscite verso i cayos più esterni saltano col mare mosso, ed è un\'eventualità da mettere in conto. Due avvertenze pratiche: qui il meteo segue un microclima proprio e non la stagione secca del resto di Panama, e le sabbie sono infestate dai chitre, moscerini che pungono senza farsi sentire e lasciano segni per giorni. La sera, a Bocas Town, musica dal vivo e feste che spesso si spostano in barca sulle isole vicine.',
+      "luoghi": [
+        {
+          "nome": "Isla Colón e Bocas Town",
+          "testo": "La città principale dell'arcipelago, con case di legno colorate su palafitte, ostelli e vita serale.",
+          "come": "Arrivo in water taxi da Almirante o in aereo da Panama City.",
+          "quando": "Sera, per musica dal vivo e feste.",
+          "tempo": "Mezza giornata"
+        },
+        {
+          "nome": "Cayo Zapatilla",
+          "testo": "Due isolotti disabitati nel parco marino di Bastimentos, con sabbia bianca e foresta. Spesso la tappa più bella dei tour in barca.",
+          "come": "Con tour in barca da Bocas Town; ingresso al parco a parte.",
+          "quando": "Mattina, con mare calmo.",
+          "tempo": "Mezza giornata",
+          "consiglio": "Le uscite verso i cayos più esterni saltano col mare mosso: metterlo in conto."
+        },
+        {
+          "nome": "Starfish Beach",
+          "testo": "La spiaggia delle stelle marine: si vedono in acqua alta poco più di un metro, e la promessa del nome è mantenuta.",
+          "come": "Tappa nei tour in barca o in taxi acqueo.",
+          "quando": "Mattina.",
+          "tempo": "45 minuti-1 ora",
+          "consiglio": "Non toccare né togliere le stelle marine dall'acqua."
+        },
+        {
+          "nome": "Cayo Coral e Isla Bastimentos",
+          "testo": "Snorkeling in acqua bassa a Cayo Coral; Bastimentos ha il parco nazionale marino e Red Frog Beach.",
+          "come": "Tour in barca da Bocas Town.",
+          "quando": "Mattina.",
+          "tempo": "Mezza giornata"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Mattina: giro in barca a Cayo Zapatilla, Starfish Beach, Cayo Coral",
+            "Pomeriggio: riposo a Bocas Town",
+            "Sera: musica dal vivo"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: giro dei cayos",
+            "Giorno 2: Red Frog Beach a Bastimentos e serata in barca verso le isole vicine"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Bocas Town",
+          "perChi": "vita sociale",
+          "testo": "Ostelli, bar e ristoranti, rumorosa. Gente che quasi sempre resta più del previsto."
+        },
+        {
+          "nome": "Bastimentos e Carenero",
+          "perChi": "tranquillità",
+          "testo": "Pochi servizi, più natura e silenzio."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Pesce al cocco",
+          "testo": "Piatto caraibico con latte di cocco e pesce."
+        },
+        {
+          "nome": "Rondón",
+          "testo": "Stufato di pesce, platano e yuca nel latte di cocco."
+        },
+        {
+          "nome": "Patacones",
+          "testo": "Platano fritto con ceviche o formaggio."
+        },
+        {
+          "nome": "Frutti di mare",
+          "testo": "Granchi e aragosta, in stagione e nei ristoranti sul mare."
+        }
+      ],
+      "attenzioni": [
+        "Il microclima di Bocas segue le sue piogge, non la stagione secca del resto di Panama.",
+        "I chitre, moscerini che pungono senza farsi sentire e lasciano segni per giorni, infestano le sabbie: repellente.",
+        "Le uscite verso i cayos più esterni saltano col mare mosso."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Casette colorate su palafitte e pontile di legno sull\'acqua a Bocas del Toro, Panama',
@@ -175,6 +438,97 @@ export const destinazioniPanama: Destinazione[] = [
     ],
     miaEsperienza:
       'Ci siamo arrivati da San Blas passando per Panama City e il volo per David, e dopo il caldo umido delle isole Boquete è stato un sollievo fisico: si dorme con la finestra aperta e senza ventilatore, cosa che nel resto del viaggio non capita quasi mai. Abbiamo fatto il tour di una finca di caffè con degustazione, ed è qui che si assaggia il Geisha a una frazione di quello che costa altrove. La notte dopo siamo partiti attorno a mezzanotte per il Barú: tredici chilometri di pista sterrata per lato, al buio, col freddo che aumenta, per arrivare in vetta ai 3.475 metri prima dell\'alba. La vista sui due oceani insieme si ha solo con il cielo del tutto limpido, cioè in pochi giorni buoni anche in stagione secca; anche senza quella fortuna, la salita notturna con le valli illuminate sotto vale la fatica. In tarda mattinata eravamo di nuovo a Boquete.',
+      "luoghi": [
+        {
+          "nome": "Vulcano Barú",
+          "testo": "La vetta più alta di Panama (3.475 m), da cui con cielo limpido si vedono Pacifico e Atlantico insieme. Salita notturna per l'alba.",
+          "come": "Partenza verso mezzanotte con pick-up e 4x4 su 13 km di pista sterrata, o a piedi con guida.",
+          "quando": "Alba, con cielo del tutto limpido, cioè in pochi giorni buoni anche in stagione secca.",
+          "tempo": "Notte-mattina",
+          "consiglio": "Senza vista sui due oceani, la salita notturna con le valli illuminate sotto vale comunque la fatica. Portare strati caldi."
+        },
+        {
+          "nome": "Sendero Los Quetzales",
+          "testo": "Uno dei posti migliori al mondo per avvistare il quetzal, nella foresta nebulosa fra Boquete e Cerro Punta.",
+          "come": "Sentiero di alcune ore, con guida o in autonomia.",
+          "quando": "Mattina presto; il periodo migliore per il quetzal è la stagione di nidificazione, circa aprile-giugno.",
+          "tempo": "4-5 ore"
+        },
+        {
+          "nome": "Tour di una finca di caffè",
+          "testo": "Visita a una piantagione con degustazione, compreso il Geisha, il caffè pregiato di Boquete, a una frazione del prezzo di altrove.",
+          "come": "Tour di mezza giornata prenotabile in paese.",
+          "quando": "Mattina.",
+          "tempo": "2-3 ore",
+          "consiglio": "Il Geisha qui si assaggia a una frazione di quello che costa altrove."
+        },
+        {
+          "nome": "Cascate e Caldera Hot Springs",
+          "testo": "Lost Waterfalls, un percorso di tre cascate, e le sorgenti calde naturali di Caldera.",
+          "come": "Auto o taxi da Boquete.",
+          "quando": "Giorno.",
+          "tempo": "Mezza giornata"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Tour di una finca di caffè con degustazione",
+            "Pomeriggio: Lost Waterfalls o Caldera Hot Springs"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: caffè e riposo (Boquete è fresca)",
+            "Giorno 2: Sendero Los Quetzales al mattino, notte per il Barú"
+          ]
+        },
+        {
+          "titolo": "3 giorni",
+          "tappe": [
+            "Giorno 1: caffè",
+            "Giorno 2: Sendero Los Quetzales",
+            "Giorno 3: Barú all'alba, poi riposo"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Boquete",
+          "perChi": "servizi e vita",
+          "testo": "Ristoranti, tour, hotel; più fresco del resto di Panama, si dorme con la finestra aperta."
+        },
+        {
+          "nome": "Dintorni e fincas",
+          "perChi": "natura e silenzio",
+          "testo": "Lodge fra caffè e foresta, lontani dai servizi."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Caffè Geisha",
+          "testo": "Il caffè pregiato della zona, da assaggiare in una finca o in un caffè di Boquete."
+        },
+        {
+          "nome": "Sancocho",
+          "testo": "Zuppa di pollo con yuca e coriandolo."
+        },
+        {
+          "nome": "Trota",
+          "testo": "Allevata nei fiumi d'altura, nei ristoranti della zona."
+        },
+        {
+          "nome": "Fragole e verdure d'altura",
+          "testo": "Prodotti dei mercati di Boquete."
+        }
+      ],
+      "attenzioni": [
+        "Il Barú si sale di notte: strati caldi, torcia e guida; il freddo aumenta con la quota.",
+        "La vista sui due oceani dalla vetta si ha solo con cielo del tutto limpido, in pochi giorni buoni.",
+        "Pioggia e nebbia possono cambiare i piani: tenere un giorno di margine."
+      ],
     esperienzeSlugs: ['alba-volcan-baru'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Arcobaleno sulle colline verdi attorno a Boquete, negli altopiani di Chiriquí, Panama',

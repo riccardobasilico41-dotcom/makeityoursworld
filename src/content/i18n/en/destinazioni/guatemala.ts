@@ -39,6 +39,100 @@ export const destinazioniGuatemala: Destinazione[] = [
     ],
     miaEsperienza:
       "We arrived in Antigua in the early afternoon, and on our first walk along the cobblestone streets we had the volcanoes Agua, Fuego and Acatenango at the end of every street. The next day we walked around the historic center, from the Santa Catalina Arch to the ruined churches, and climbed Cerro de la Cruz for the view. What stays with me is Acatenango: five or six hours of climbing through cornfields and pine forest, on volcanic sand that gives way under your feet, the hardest stretch of the whole trip. The camp was above the clouds, Fuego started erupting before sunset, and at night we watched it throw lava a couple of kilometers away without leaving our sleeping bags, in cold close to freezing. In the morning we went down sliding on the sand more than walking. The list of things we did in Central America starts there.",
+      "luoghi": [
+        {
+          "nome": "Arco de Santa Catalina",
+          "testo": "The 17th-century yellow arch on 5ª Avenida Norte, with the Agua volcano framed behind it. It is the city's symbol photo.",
+          "come": "On foot from the central square, 5 minutes. Free entry.",
+          "quando": "Early morning, without crowds and with a clear volcano.",
+          "tempo": "15 minutes"
+        },
+        {
+          "nome": "Convento de Santa Clara and La Merced",
+          "testo": "Colonial churches and convents ruined by the 1773 earthquake, which forced the capital to move. Antigua is a UNESCO site for this ensemble.",
+          "come": "On foot in the centre. Small entry ticket for the Santa Clara ruins; La Merced is a church still in use.",
+          "quando": "Morning; afternoon light is good on the façade of La Merced.",
+          "tempo": "2-3 hours for both",
+          "url": "https://inguat.gob.gt/"
+        },
+        {
+          "nome": "Cerro de la Cruz",
+          "testo": "A hill viewpoint with the city in the foreground and the volcanoes Agua, Fuego and Acatenango behind. Reached by a short climb.",
+          "come": "On foot in 20-30 minutes from the centre, but better in a group or with the tourist police, who are present in the area.",
+          "quando": "Early morning or late afternoon.",
+          "tempo": "1 hour",
+          "consiglio": "Do not go up alone and do not carry valuables: the area has had safety problems in the past."
+        },
+        {
+          "nome": "Acatenango volcano",
+          "testo": "A climb with a base camp above the clouds, facing the erupting Fuego. The hardest stretch of the trip in Guatemala.",
+          "come": "Two-day tour from Antigua with guide, tent and meals. The walk is 5-6 hours uphill through corn fields, pine forest and volcanic sand.",
+          "quando": "Dry season (November-April); the next morning you descend on sand.",
+          "tempo": "2 days, 1 night",
+          "consiglio": "The camp is near freezing at night: gloves, hat, warm layers. The descent is more sliding than walking."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 day",
+          "tappe": [
+            "Morning: Arco de Santa Catalina and the ruins of La Merced",
+            "Municipal market and lunch",
+            "Afternoon: Convento de Santa Clara",
+            "Sunset at Cerro de la Cruz, with the tourist police"
+          ]
+        },
+        {
+          "titolo": "2 days",
+          "tappe": [
+            "Day 1: historic centre and Cerro de la Cruz",
+            "Day 2: Acatenango (2 days in total with the night at camp)"
+          ]
+        },
+        {
+          "titolo": "3 days",
+          "tappe": [
+            "Day 1: city and ruins",
+            "Days 2-3: Acatenango with a night at camp",
+            "If time is left, a chocolate or jade workshop in town"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Historic centre",
+          "perChi": "those who want everything on foot",
+          "testo": "Cobbled streets, everything close, but noise at weekends and higher prices."
+        },
+        {
+          "nome": "Areas above 5ª Calle and around the convents",
+          "perChi": "those who want more quiet",
+          "testo": "Quieter at night; a 10-15 minute walk to the centre."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Pepián",
+          "testo": "A meat stew with pumpkin seeds, sesame and chilli, the national dish. In comedores and typical restaurants."
+        },
+        {
+          "nome": "Tamales",
+          "testo": "Saturday is the day of colourful tamales wrapped in banana leaves. In markets and homes."
+        },
+        {
+          "nome": "Hilachas",
+          "testo": "Shredded meat in tomato and tomatillo sauce, with potatoes. A family dish."
+        },
+        {
+          "nome": "Guatemalan chocolate",
+          "testo": "Cups of chocolate and bars made in town, sold in specialist shops."
+        }
+      ],
+      "attenzioni": [
+        "Climb to Cerro de la Cruz: better in a group or with the tourist police.",
+        "For Acatenango choose reliable operators with proper equipment: at night the temperature drops to freezing.",
+        "Fuego is active: always follow the guide's instructions and the civil protection bulletins (CONRED)."
+      ],
     esperienzeSlugs: ['trekking-acatenango'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Cobblestone street in Antigua Guatemala with colonial houses and Volcán de Agua in the background',
@@ -84,6 +178,103 @@ export const destinazioniGuatemala: Destinazione[] = [
     ],
     miaEsperienza:
       "Panajachel is the transport hub, with Calle Santander full of handicrafts, but stopping only there is the most common mistake: the lake begins when you get on a lancha. In one day we touched San Juan la Laguna, with its textile cooperatives and murals, San Marcos, the yoga town, and San Pedro, and every ten minutes by boat the atmosphere changed. The next day we woke up at four for the Indian Nose and then took the lancha to Santiago Atitlán, where the women still wear the tocoyal wrapped around their heads. We quickly learned to travel in the morning, because from early afternoon the Xocomil picks up and the crossings get rough. The sunrise from the Indian Nose is worth the early wake-up only with a clear sky: in the rainy season you climb in the dark to look at a cloud.",
+      "luoghi": [
+        {
+          "nome": "San Juan la Laguna",
+          "testo": "The best-kept village on the lake, with women's weaving cooperatives, murals on the façades and art studios.",
+          "come": "By public lancha from Panajachel or San Pedro (about 30-45 minutes), then on foot through the lanes.",
+          "quando": "Morning, when the cooperatives are open.",
+          "tempo": "2-3 hours",
+          "consiglio": "Buy in the cooperatives, where the money goes to the weavers."
+        },
+        {
+          "nome": "San Marcos la Laguna",
+          "testo": "The village of yoga and holistic practices. On the shore is the Cerro Tzankujil diving platform.",
+          "come": "By lancha from Panajachel or San Pedro.",
+          "quando": "Morning, when the lake is calmer.",
+          "tempo": "Half a day"
+        },
+        {
+          "nome": "Santiago Atitlán",
+          "testo": "The largest and most traditional village, where women wear the tocoyal wrapped on their heads and Maximón, a syncretic figure, is venerated.",
+          "come": "By public lancha from Panajachel, about 30-40 minutes.",
+          "quando": "Morning.",
+          "tempo": "Half a day",
+          "consiglio": "Before photographing people or the Maximón figure, always ask permission and leave a small offering."
+        },
+        {
+          "nome": "Indian Nose (Rostro Maya)",
+          "testo": "A viewpoint at 3,000 metres above San Juan la Laguna, for sunrise over the lake and the volcanoes.",
+          "come": "Wake-up around 4, pick-up departure and a walk of about an hour in the dark with a guide.",
+          "quando": "Sunrise, with clear sky.",
+          "tempo": "Half a morning",
+          "consiglio": "In the rainy season you climb in the dark to look at a cloud: check the forecast."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 day",
+          "tappe": [
+            "Early morning: Indian Nose or lancha to San Juan la Laguna",
+            "San Marcos for a dive and lunch",
+            "Back before the afternoon wind (Xocomil)"
+          ]
+        },
+        {
+          "titolo": "2 days",
+          "tappe": [
+            "Day 1: San Juan la Laguna, San Marcos and San Pedro by lancha",
+            "Day 2: Indian Nose at dawn, then Santiago Atitlán"
+          ]
+        },
+        {
+          "titolo": "3 days",
+          "tappe": [
+            "Days 1 and 2 as above",
+            "Day 3: Atitlán nature reserve near Panajachel, or a rest day on the lake"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Panajachel",
+          "perChi": "transport hub, first nights",
+          "testo": "Services, restaurants, Calle Santander full of crafts. Less atmosphere than the rest of the lake."
+        },
+        {
+          "nome": "San Pedro la Laguna",
+          "perChi": "budget and nightlife",
+          "testo": "Cheap, young, noisy in the evening."
+        },
+        {
+          "nome": "San Marcos and San Juan",
+          "perChi": "calm and wellbeing",
+          "testo": "Quieter and pricier; for yoga, silence and art."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Pepián and chicken broth",
+          "testo": "Hot dishes in the lakeside comedores after a morning on a boat."
+        },
+        {
+          "nome": "Lake fish",
+          "testo": "Fried tilapia and black bass, on the shore at Panajachel and Santiago."
+        },
+        {
+          "nome": "Tortillas and frijoles",
+          "testo": "The base of every meal, in village comedores."
+        },
+        {
+          "nome": "Atitlán coffee",
+          "testo": "Coffee grown on the slopes of the lake, to try in small local cafés."
+        }
+      ],
+      "attenzioni": [
+        "Move around the lake in the morning: from early afternoon the Xocomil wind rises and crossings are rough.",
+        "Use official public lanchas and agree the price before boarding.",
+        "Trails between villages, especially at San Pedro, have seen robberies: walk in a group and by day."
+      ],
     esperienzeSlugs: ['lance-villaggi-atitlan'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'The blue waters of Lake Atitlán with volcanoes in the background, seen from San Marcos La Laguna, Guatemala',
@@ -129,6 +320,107 @@ export const destinazioniGuatemala: Destinazione[] = [
     ],
     miaEsperienza:
       "We left Flores around three in the morning and walked in the dark to Temple IV with the guide. The sunrise, in the dry season, is often veiled by haze; what's worth the early wake-up is the sound, the chorus of howler monkeys and birds waking up at first light, before the buses arrive. We spent the rest of the day among the Gran Plaza, Temples I and II and the Mundo Perdido, walking for kilometers under the forest canopy: that's what sets Tikal apart from other Maya sites. Flores, where we had arrived the evening before, is an island of colorful houses with a quiet lakefront, living almost entirely off tourism to Tikal.",
+      "luoghi": [
+        {
+          "nome": "Gran Plaza and Temples I and II",
+          "testo": "The heart of Tikal: Temples I (of the Great Jaguar) and II face each other across the ceremonial plaza, with acropolises on the sides. A UNESCO site within Tikal National Park.",
+          "come": "From the park you walk in the forest; entrance and trails add up to kilometres. A guided visit is recommended, also for the wildlife.",
+          "quando": "The park opens at dawn; early morning for coolness and animals.",
+          "tempo": "3-4 hours",
+          "url": "https://inguat.gob.gt/"
+        },
+        {
+          "nome": "Temple IV",
+          "testo": "The tallest temple of the site, with a wooden platform above the forest canopy and a view of the tops of the other temples.",
+          "come": "Climb on wooden stairs at the end of the route, with a torch if you go up for sunrise.",
+          "quando": "Sunrise or late afternoon.",
+          "tempo": "1 hour",
+          "consiglio": "In the dry season the sunrise is often hazy. What justifies the early start is the chorus of howler monkeys and birds before the coaches arrive."
+        },
+        {
+          "nome": "Mundo Perdido",
+          "testo": "The oldest complex on the site, with a pyramid and platforms seen from the top of a steep stairway.",
+          "come": "On foot from the park, after the Gran Plaza.",
+          "quando": "Late afternoon for sunset, if access is allowed.",
+          "tempo": "1-1.5 hours"
+        },
+        {
+          "nome": "Flores island",
+          "testo": "An island of colourful houses on Lake Petén Itzá, with a quiet waterfront. It lives almost only from tourism to Tikal.",
+          "come": "Footbridge from Santa Elena. A 15-minute walk from one end to the other.",
+          "quando": "Evening, for dinner and the waterfront.",
+          "tempo": "Half a day"
+        },
+        {
+          "nome": "Yaxhá",
+          "testo": "A less visited Maya site, with a lake view and sunset from the pyramid, about an hour from Flores.",
+          "come": "Tour from Flores or taxi; a large site with few tourists.",
+          "quando": "Late afternoon.",
+          "tempo": "Half a day",
+          "url": "https://inguat.gob.gt/",
+          "consiglio": "If Tikal is crowded, Yaxhá is worth the detour."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 day",
+          "tappe": [
+            "Leave Flores at 3 am for Temple IV at sunrise",
+            "Gran Plaza, Temples I and II",
+            "Mundo Perdido",
+            "Back in Flores in the afternoon, dinner on the waterfront"
+          ]
+        },
+        {
+          "titolo": "2 days",
+          "tappe": [
+            "Day 1: arrive in Flores, waterfront and dinner",
+            "Day 2: Tikal at dawn and a full visit; free afternoon"
+          ]
+        },
+        {
+          "titolo": "3 days",
+          "tappe": [
+            "Days 1-2 as above",
+            "Day 3: Yaxhá at sunset, or the border with Belize"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Flores island",
+          "perChi": "atmosphere and convenience",
+          "testo": "Restaurants and hotels on the lake shore, narrow streets. Little noise, but Tikal is a 1-hour drive away."
+        },
+        {
+          "nome": "El Remate",
+          "perChi": "those who want more calm and nature",
+          "testo": "On Lake Petén Itzá, 30 minutes from Tikal: small cabañas and the lake sunset."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Pepián and caldo de gallina",
+          "testo": "Typical Guatemalan dishes, in Flores' comedores."
+        },
+        {
+          "nome": "Lake Petén Itzá fish",
+          "testo": "Fried or grilled on the waterfronts."
+        },
+        {
+          "nome": "Petén tamales",
+          "testo": "Made with corn and meat, wrapped in banana leaves."
+        },
+        {
+          "nome": "Coffee and corn sweets",
+          "testo": "For breakfast, in small places on the island."
+        }
+      ],
+      "attenzioni": [
+        "Always ask what the sunrise tour includes: the park entrance is often separate.",
+        "In the rainy season you often do not see the sunrise: decide whether it is worth the early start.",
+        "On the site you walk for kilometres under the forest: bring water, repellent and closed shoes."
+      ],
     esperienzeSlugs: ['alba-tikal'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Stepped pyramid of the Mundo Perdido among the trees at the Maya site of Tikal, Guatemala',
@@ -171,6 +463,91 @@ export const destinazioniGuatemala: Destinazione[] = [
     ],
     miaEsperienza:
       "Getting there is half the story: from Panajachel to Lanquín was the longest transfer day of the trip, with the last stretch on a dirt road that slowly descends into the valley. The next day we climbed up the pools from the bottom and then went up to the Mirador: the climb is steep, but without the view from above you can't understand how the place works, with the river disappearing under the rock bridge and re-emerging three hundred meters further on. In the afternoon we entered the K'anba caves, with a candle in hand and some stretches to swim in the dark: the least touristy thing in the area and the one I remember most. If you're claustrophobic, skip them without regrets.",
+      "luoghi": [
+        {
+          "nome": "Semuc Champey natural pools",
+          "testo": "A series of terraced turquoise pools formed by limestone, above the Cahabón river that flows beneath the rock bridge. A natural monument with a paid entrance.",
+          "come": "From Lanquín 30 minutes by pick-up on a dirt road. From the entrance you walk to the pools.",
+          "quando": "Morning, with fewer people and clearer water; avoid after heavy rain, when the water turns murky.",
+          "tempo": "2-3 hours",
+          "consiglio": "Go from the bottom to the top, then climb to the Mirador: that is how you understand how the place works."
+        },
+        {
+          "nome": "The Mirador",
+          "testo": "The viewpoint above the pools. From here you see how the river disappears under the rock bridge and re-emerges three hundred metres further on.",
+          "come": "A steep path of 30-45 minutes from the entrance, with stairs and mud.",
+          "quando": "Morning; avoid rainy hours, when steps are slippery.",
+          "tempo": "1-1.5 hours",
+          "consiglio": "Shoes with grip and water: the climb is hard, but without the view from above you lose the sense of the place."
+        },
+        {
+          "nome": "K'anba caves",
+          "testo": "A cave with flooded corridors to walk with a candle in hand and some stretches swum in the dark. The least touristy thing in the area.",
+          "come": "With a guide, a short way from the natural monument's entrance.",
+          "quando": "After visiting the pools, in the afternoon.",
+          "tempo": "1-1.5 hours",
+          "consiglio": "If you are claustrophobic skip them: passages are tight and dark."
+        },
+        {
+          "nome": "Lanquín",
+          "testo": "The base village, the last outpost before Semuc Champey, with hostels and a single main road.",
+          "come": "From Cobán or Guatemala City by shuttle, 8-10 hours from Antigua or Atitlán.",
+          "quando": "Arrive the day before.",
+          "tempo": "One night"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 day",
+          "tappe": [
+            "Morning: pools and Mirador",
+            "Lunch",
+            "Afternoon: K'anba caves"
+          ]
+        },
+        {
+          "titolo": "2 days",
+          "tappe": [
+            "Day 1: arrive in Lanquín, stop at the park entrance",
+            "Day 2: pools, Mirador, caves; shuttle back the following day"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Lanquín",
+          "perChi": "everyone",
+          "testo": "The base town: few places to stay, simple hostels and guesthouses, limited electricity and connection."
+        },
+        {
+          "nome": "Around the Cahabón river",
+          "perChi": "those who want nature",
+          "testo": "A few lodges on the river, in the forest, but far from services."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Caldo de pollo and frijoles",
+          "testo": "Simple cooking in the village comedores."
+        },
+        {
+          "nome": "Tortillas and eggs",
+          "testo": "The standard breakfast at hostels and comedores."
+        },
+        {
+          "nome": "Cardamom",
+          "testo": "Alta Verapaz is a producing area: found in infusions and sweets."
+        },
+        {
+          "nome": "Tropical fruit",
+          "testo": "Bananas, papaya and pineapple, cheap in small markets."
+        }
+      ],
+      "attenzioni": [
+        "Getting there takes a long transfer: plan at least one night in Lanquín.",
+        "Do not leave valuables unattended at the pools and along the trails.",
+        "After heavy rain the pools lose colour and some stretches become dangerous: ask in the village before leaving."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'The turquoise terraced natural pools of Semuc Champey seen from above among the jungle, Guatemala',
@@ -210,6 +587,85 @@ export const destinazioniGuatemala: Destinazione[] = [
     ],
     miaEsperienza:
       "We got there from Antigua, three hours by shuttle, on one of the two market days: outside Thursday and Sunday the town is quiet and not very interesting. We wandered among the stalls of textiles, masks and ceramics and ate standing at the stalls in the food section, in the side streets. What stayed with me, though, is the Santo Tomás staircase: on the steps of a Catholic church, copal and offerings are still burned according to K'iche' rites. It's a real ritual and you watch it with respect, without photographing people without permission. In the late afternoon we continued toward Lake Atitlán.",
+      "luoghi": [
+        {
+          "nome": "Chichicastenango market",
+          "testo": "One of the largest markets in Central America: textiles, masks, ceramics and local products in the square, food and flowers in the side streets.",
+          "come": "In the centre of town, on foot. Shuttle from Antigua (about 3 hours) or from Atitlán.",
+          "quando": "Thursday and Sunday. Outside those days the town is quiet and uninteresting.",
+          "tempo": "3-4 hours",
+          "consiglio": "Haggle calmly. Eat standing at the stalls in the food section, in the side streets."
+        },
+        {
+          "nome": "Church of Santo Tomás",
+          "testo": "A Catholic church on the main square, on whose steps copal and offerings are burned according to K'iche' rites. A real ritual and not a show.",
+          "come": "On foot from the square. You can watch from the steps, but the interior has its own rules.",
+          "quando": "Market days.",
+          "tempo": "1 hour",
+          "consiglio": "Do not photograph people without permission and keep a distance from the rituals."
+        },
+        {
+          "nome": "Chichicastenango cemetery",
+          "testo": "Just outside the centre, with tombs painted in bright colours and an atmosphere very different from a European cemetery.",
+          "come": "On foot from the centre, about 10 minutes.",
+          "quando": "Morning.",
+          "tempo": "45 minutes",
+          "consiglio": "Respect and discretion: it is a place in use, not a set."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 day",
+          "tappe": [
+            "Arrive in the morning with the market already active",
+            "Lunch at the stalls in the food section",
+            "Santo Tomás and cemetery in the early afternoon",
+            "Late afternoon departure for Atitlán"
+          ]
+        },
+        {
+          "titolo": "2 days",
+          "tappe": [
+            "Day 1: market, church, cemetery",
+            "Night in town, leave the next day, when the town is quiet"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Centre",
+          "perChi": "those sleeping on site",
+          "testo": "Small hotels and inns on the square, noisy the night before the market."
+        },
+        {
+          "nome": "As a day trip from Antigua or Atitlán",
+          "perChi": "most people",
+          "testo": "The town is easy to see in a day: arrive in the morning and leave in the afternoon."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Pepián and chicken broth",
+          "testo": "Hot dishes in the food section of the market."
+        },
+        {
+          "nome": "Tamales",
+          "testo": "Made of corn, at the stalls in the side streets."
+        },
+        {
+          "nome": "Atol",
+          "testo": "A hot corn drink, for the cold highland morning."
+        },
+        {
+          "nome": "Fruit and flowers",
+          "testo": "The flower stalls on the steps are part of the market's colour."
+        }
+      ],
+      "attenzioni": [
+        "The market takes place only on Thursday and Sunday: plan ahead.",
+        "Pickpockets in the crowd: keep valuables in front of you.",
+        "Respect the K'iche' rites on the steps: no photos without permission."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'The colorful mosaic-decorated arch over a cobblestone street in Chichicastenango, Guatemala',

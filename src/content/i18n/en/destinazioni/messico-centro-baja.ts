@@ -42,6 +42,119 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'Underestimating the altitude in the first two days',
       "Not booking the Casa Azul, which sells out days ahead",
     ],
+      "luoghi": [
+        {
+          "nome": "Zócalo, Cathedral and Templo Mayor",
+          "testo": "The central square with the Metropolitan Cathedral, the Palacio Nacional and, beside it, the Templo Mayor, the Aztec heart of Tenochtitlan, with its museum.",
+          "come": "Metro Zócalo. The Templo Mayor has a separate INAH entry.",
+          "quando": "Morning; the Templo Mayor usually closes on Monday.",
+          "tempo": "3 hours",
+          "url": "https://www.inah.gob.mx/"
+        },
+        {
+          "nome": "National Museum of Anthropology",
+          "testo": "The country's largest archaeological museum, in Chapultepec forest, with the Sun Stone and the rooms of Mesoamerican cultures.",
+          "come": "Metro Auditorio or Chapultepec.",
+          "quando": "Morning; usually closed on Monday.",
+          "tempo": "3-4 hours",
+          "url": "https://www.inah.gob.mx/",
+          "consiglio": "Choose 3-4 rooms: it is too big to see it all."
+        },
+        {
+          "nome": "Teotihuacán",
+          "testo": "The city of the Temples of the Sun and Moon and the Calzada de los Muertos, about 50 km from the city, a UNESCO site.",
+          "come": "Bus from the Norte terminal (about 1 hour) or tour; INAH entry.",
+          "quando": "At opening, before the heat and groups.",
+          "tempo": "Half a day",
+          "url": "https://www.inah.gob.mx/",
+          "consiglio": "Bring a hat and water: almost no shade."
+        },
+        {
+          "nome": "Coyoacán and Casa Azul",
+          "testo": "A colonial district with squares and a market, and Frida Kahlo's Casa Azul, now a museum.",
+          "come": "Metro or Uber; for Casa Azul tickets must be booked online in advance.",
+          "quando": "Morning; the museum usually closes on Monday.",
+          "tempo": "Half a day",
+          "url": "https://www.museofridakahlo.org.mx/"
+        },
+        {
+          "nome": "Xochimilco",
+          "testo": "The canals with colourful trajineras, a remnant of the Aztec lake system.",
+          "come": "Metro and light rail or Uber to the landing stages.",
+          "quando": "Weekday mornings, fewer crowds.",
+          "tempo": "2-3 hours",
+          "consiglio": "Agree the length and price of the boat before boarding."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 day",
+          "tappe": [
+            "Zócalo, Cathedral and Templo Mayor",
+            "Palacio de Bellas Artes",
+            "Lunch of tacos",
+            "Museo Nacional de Antropología in the afternoon"
+          ]
+        },
+        {
+          "titolo": "2 days",
+          "tappe": [
+            "Day 1: historic centre and Anthropology museum",
+            "Day 2: Teotihuacán at opening, Coyoacán in the afternoon"
+          ]
+        },
+        {
+          "titolo": "3 days",
+          "tappe": [
+            "Days 1-2 as above",
+            "Day 3: Xochimilco and Casa Azul, or Bellas Artes with the murals"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Historic centre",
+          "perChi": "on foot to everything",
+          "testo": "Zócalo and museums nearby, but noisy and unsafe at night away from the main streets."
+        },
+        {
+          "nome": "Roma and Condesa",
+          "perChi": "restaurants and venues",
+          "testo": "Neighbourhoods of cafés and nightlife, safer on foot, near Chapultepec."
+        },
+        {
+          "nome": "Coyoacán",
+          "perChi": "calm and history",
+          "testo": "A residential and colonial district, farther from the centre."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Tacos al pastor",
+          "testo": "Spit-roasted pork with pineapple, in every taquería."
+        },
+        {
+          "nome": "Tlacoyos and quesadillas",
+          "testo": "Filled corn tortillas, from stalls."
+        },
+        {
+          "nome": "Chilaquiles",
+          "testo": "Tortilla in spicy sauce for breakfast."
+        },
+        {
+          "nome": "Pozole",
+          "testo": "Corn and meat soup, on Sundays."
+        },
+        {
+          "nome": "Mole and tamales",
+          "testo": "Sauces and tamales, in the markets."
+        }
+      ],
+      "attenzioni": [
+        "Pickpockets on the metro and at the Zócalo: keep items in front and do not show phones.",
+        "Street taxis: use Uber or sitio taxis.",
+        "Altitude (2,240 m): drink water and go slowly on the first day."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos', 'messico-cdmx-baja-california'],
     imageAlt: 'The Palacio de Bellas Artes in the historic center of Mexico City',
@@ -80,6 +193,90 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'Visiting Cholula only at midday, when haze often hides the volcano',
       'Doing Puebla as a day trip from Mexico City without sleeping at least one night in Cholula',
     ],
+      "luoghi": [
+        {
+          "nome": "Puebla historic centre and Cathedral",
+          "testo": "A UNESCO site, with the Cathedral, the Zócalo and houses covered in talavera azulejos.",
+          "come": "On foot from the Zócalo.",
+          "quando": "Morning.",
+          "tempo": "3 hours"
+        },
+        {
+          "nome": "Palafoxiana Library and Capilla del Rosario",
+          "testo": "The first public library in the Americas, of 1646, and a baroque chapel covered in gold (Templo de Santo Domingo).",
+          "come": "On foot from the centre.",
+          "quando": "Morning.",
+          "tempo": "1.5 hours"
+        },
+        {
+          "nome": "Great Pyramid of Cholula",
+          "testo": "The largest pyramid in the world by volume, with visitable tunnels and the Virgen de los Remedios church on top.",
+          "come": "Bus or Uber from Puebla (about 20 minutes).",
+          "quando": "Morning; sunset for the view of the volcanoes.",
+          "tempo": "2-3 hours",
+          "url": "https://www.inah.gob.mx/",
+          "consiglio": "Climb to the church on top for the panorama of the Popocatépetl and Iztaccíhuatl volcanoes."
+        },
+        {
+          "nome": "Tonantzintla and Acatepec",
+          "testo": "Indigenous baroque churches with azulejo façades and interiors covered in gilded stucco.",
+          "come": "Uber or colectivo from Cholula.",
+          "quando": "Morning.",
+          "tempo": "1-2 hours"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 day",
+          "tappe": [
+            "Morning: Cathedral, Capilla del Rosario",
+            "Lunch of mole poblano",
+            "Afternoon: Cholula and pyramid"
+          ]
+        },
+        {
+          "titolo": "2 days",
+          "tappe": [
+            "Day 1: Puebla centre and Palafoxiana",
+            "Day 2: Cholula, pyramid, Tonantzintla and Acatepec"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Puebla historic centre",
+          "perChi": "on foot to everything",
+          "testo": "Hotels in historic buildings and restaurants nearby."
+        },
+        {
+          "nome": "Cholula",
+          "perChi": "village atmosphere",
+          "testo": "Quieter, with bars and student life."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Mole poblano",
+          "testo": "A chilli and chocolate sauce on chicken, symbol of the city."
+        },
+        {
+          "nome": "Chiles en nogada",
+          "testo": "Stuffed peppers with walnut sauce, in August-September."
+        },
+        {
+          "nome": "Cemitas",
+          "testo": "Sandwiches with meat, avocado and cheese."
+        },
+        {
+          "nome": "Tacos árabes",
+          "testo": "Grilled pork with Arab bread."
+        }
+      ],
+      "attenzioni": [
+        "The Cholula pyramid tunnels are narrow: not for the claustrophobic.",
+        "Street taxis: use Uber.",
+        "Popocatépetl volcano is active: the panorama may vary."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos'],
     imageAlt: 'The Santuario de la Virgen de los Remedios on the Cholula pyramid with the snow-capped volcano behind',
@@ -123,6 +320,103 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'Photographing people and altars without asking',
       'Not checking on bloqueos before long trips',
     ],
+      "luoghi": [
+        {
+          "nome": "Templo de Santo Domingo and ethnobotanical garden",
+          "testo": "A baroque church with golden interiors, an ex-convent with a museum and the ethnobotanical garden, visitable only with a guide.",
+          "come": "On foot from the centre.",
+          "quando": "Morning.",
+          "tempo": "2-3 hours",
+          "url": "https://www.inah.gob.mx/",
+          "consiglio": "The ethnobotanical garden is visited on a guided tour at fixed times: book ahead."
+        },
+        {
+          "nome": "Monte Albán",
+          "testo": "The ancient Zapotec capital on a hill above the city, a UNESCO site, with the great plaza and the tombs.",
+          "come": "Shuttle or taxi from Oaxaca (about 20-30 minutes); INAH entry.",
+          "quando": "At opening.",
+          "tempo": "2-3 hours",
+          "url": "https://www.inah.gob.mx/"
+        },
+        {
+          "nome": "20 de Noviembre and Benito Juárez markets",
+          "testo": "Markets with stalls of grilled meat, chapulines, chocolate, mole and cheese.",
+          "come": "On foot from the centre.",
+          "quando": "Morning and lunch.",
+          "tempo": "1-2 hours"
+        },
+        {
+          "nome": "Santa Cruz Xoxocotlán cemetery and Panteón General",
+          "testo": "The Día de Muertos vigils (31 October-2 November), with decorated tombs and candles.",
+          "come": "Taxi or tour; Panteón General at San Miguel.",
+          "quando": "Night of 31 October and 1-2 November.",
+          "tempo": "An evening",
+          "consiglio": "Respect the families: it is not a show."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 day",
+          "tappe": [
+            "Santo Domingo",
+            "Markets and lunch of tlayuda",
+            "Monte Albán in the afternoon"
+          ]
+        },
+        {
+          "titolo": "2 days",
+          "tappe": [
+            "Day 1: centre and Santo Domingo",
+            "Day 2: Monte Albán, markets, mezcalería"
+          ]
+        },
+        {
+          "titolo": "3 days",
+          "tappe": [
+            "Days 1-2 as above",
+            "Day 3: Central Valleys (Teotitlán, Mitla, Hierve el Agua)"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Historic centre",
+          "perChi": "on foot to everything",
+          "testo": "Hotels in colonial houses, culture and restaurants, noisier."
+        },
+        {
+          "nome": "Jalatlaco district",
+          "perChi": "cafés and atmosphere",
+          "testo": "A district of colourful houses, quieter, 10-15 minutes away."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Mole negro",
+          "testo": "A dark sauce of chillies, spices and chocolate."
+        },
+        {
+          "nome": "Tlayuda",
+          "testo": "A large crisp tortilla with beans, cheese and meat."
+        },
+        {
+          "nome": "Quesillo and tasajo",
+          "testo": "Stringy cheese and dried grilled meat."
+        },
+        {
+          "nome": "Chapulines",
+          "testo": "Toasted grasshoppers with lime and chilli."
+        },
+        {
+          "nome": "Mezcal and chocolate",
+          "testo": "Specialities of the region, in mezcalerías and workshops."
+        }
+      ],
+      "attenzioni": [
+        "During Día de Muertos Oaxaca is very crowded: book hotels and tours months ahead.",
+        "Craft mezcal: buy from reliable producers and shops.",
+        "Taxis without meter: agree the price."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos'],
     imageAlt: 'A cempasúchil altar lit by candles on the night of the dead in Oaxaca',
@@ -162,6 +456,92 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'Driving after mezcal tastings',
       'Entering home altars without an invitation',
     ],
+      "luoghi": [
+        {
+          "nome": "Árbol del Tule",
+          "testo": "A Montezuma cypress about 2,000 years old with the widest trunk in the world, in the churchyard of Santa María del Tule.",
+          "come": "Bus or taxi from Oaxaca (about 15 minutes).",
+          "quando": "Morning.",
+          "tempo": "30 minutes"
+        },
+        {
+          "nome": "Teotitlán del Valle",
+          "testo": "A Zapotec village of hand-woven wool rugs with natural dyes (cochineal, indigo).",
+          "come": "Taxi or tour from Oaxaca.",
+          "quando": "Morning.",
+          "tempo": "1-2 hours",
+          "consiglio": "Buy in the family workshops, where you see the work."
+        },
+        {
+          "nome": "Mitla",
+          "testo": "A Zapotec-Mixtec site with geometric mosaics of fitted stone. INAH entry.",
+          "come": "Colectivo or tour from Oaxaca (about 1 hour).",
+          "quando": "Morning.",
+          "tempo": "1.5 hours",
+          "url": "https://www.inah.gob.mx/"
+        },
+        {
+          "nome": "Hierve el Agua",
+          "testo": "Petrified limestone waterfalls and natural pools with views of the valley. Run by the community; opening may change.",
+          "come": "Tour from Oaxaca or by car (about 1.5 hours).",
+          "quando": "Morning, with fewer people; check opening.",
+          "tempo": "2-3 hours",
+          "consiglio": "After rain or road blockades it can be closed: check first."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 day",
+          "tappe": [
+            "Árbol del Tule",
+            "Teotitlán del Valle",
+            "Mezcal at Santiago Matatlán",
+            "Mitla"
+          ]
+        },
+        {
+          "titolo": "2 days",
+          "tappe": [
+            "Day 1: Tule, Teotitlán and Mitla",
+            "Day 2: Hierve el Agua and Yagul"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Base in Oaxaca",
+          "perChi": "services",
+          "testo": "The Valleys are visited as a day trip from Oaxaca."
+        },
+        {
+          "nome": "Teotitlán or Mitla",
+          "perChi": "those who want to stay",
+          "testo": "Small family inns, calm and local culture."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Craft mezcal",
+          "testo": "Made in Santiago Matatlán, with tastings in the palenques."
+        },
+        {
+          "nome": "Tlayudas",
+          "testo": "In village comedores."
+        },
+        {
+          "nome": "Barbacoa",
+          "testo": "Goat meat cooked in an earth oven."
+        },
+        {
+          "nome": "Pan de yema",
+          "testo": "Sweet bread typical of the villages."
+        }
+      ],
+      "attenzioni": [
+        "Hierve el Agua: run by the community, it can close; check first.",
+        "Buy rugs in family workshops, not from middlemen.",
+        "Mezcal tastings are strong: do not drive."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos'],
     imageAlt: 'The petrified waterfalls of Hierve el Agua above the valley',
@@ -201,6 +581,90 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'Choosing bioluminescence tours that motor all the way to the end of the lagoon',
       'Leaving belongings unattended on the beach in the evening',
     ],
+      "luoghi": [
+        {
+          "nome": "Playa Zicatela",
+          "testo": "One of the most powerful waves in Mexico, the «Mexican Pipeline», for experienced surfers; the beach has restaurants and hotels.",
+          "come": "On foot or taxi from the centre.",
+          "quando": "Dawn and sunset to watch surfers; swim only with great caution.",
+          "tempo": "Half a day",
+          "consiglio": "Dangerous currents: do not swim where there are big waves."
+        },
+        {
+          "nome": "Carrizalillo, Manzanillo and Puerto Angelito",
+          "testo": "Sheltered coves with calm water, good for swimming and snorkelling.",
+          "come": "Taxi or on foot with a staircase.",
+          "quando": "Morning.",
+          "tempo": "Half a day"
+        },
+        {
+          "nome": "Manialtepec Lagoon",
+          "testo": "A lagoon with mangroves and birds, with nocturnal bioluminescence.",
+          "come": "Boat tour from Puerto Escondido.",
+          "quando": "Dawn or night.",
+          "tempo": "2-3 hours"
+        },
+        {
+          "nome": "Mazunte, Zipolite and Punta Cometa",
+          "testo": "Villages of the nearby coast: Mazunte for the turtle centre, Zipolite for the free beach, Punta Cometa for sunset.",
+          "come": "Car or colectivo from Puerto Escondido (1-2 hours).",
+          "quando": "Sunset at Punta Cometa.",
+          "tempo": "Full day"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 day",
+          "tappe": [
+            "Morning: Carrizalillo",
+            "Seafood lunch",
+            "Afternoon: Zicatela",
+            "Sunset on the beach"
+          ]
+        },
+        {
+          "titolo": "2 days",
+          "tappe": [
+            "Day 1: coves and Zicatela",
+            "Day 2: Mazunte, Punta Cometa and Zipolite"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Zicatela",
+          "perChi": "surf and nightlife",
+          "testo": "Hotels, bars and restaurants, noisy at night."
+        },
+        {
+          "nome": "La Punta",
+          "perChi": "quiet atmosphere",
+          "testo": "Quieter, with smaller waves, near the coves."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Fresh fish",
+          "testo": "Grilled, on the beaches."
+        },
+        {
+          "nome": "Tlayuda",
+          "testo": "From Oaxaca, in local restaurants."
+        },
+        {
+          "nome": "Ceviche and aguachile",
+          "testo": "Fresh, by the sea."
+        },
+        {
+          "nome": "Oaxacan tamales",
+          "testo": "Wrapped in banana leaves."
+        }
+      ],
+      "attenzioni": [
+        "Currents at Zicatela and Zipolite are dangerous: swim only where indicated.",
+        "Thefts on the beach: leave nothing unattended.",
+        "The road from Oaxaca is long and winding: consider the flight."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos'],
     imageAlt: 'The bay of Puerto Escondido seen from above among the cacti',
@@ -236,6 +700,78 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'Traveling at night off the main roads',
       "Thinking you can combine Janitzio and Oaxaca's main nights on the same trip: they coincide",
     ],
+      "luoghi": [
+        {
+          "nome": "Janitzio Island",
+          "testo": "An island on Lake Pátzcuaro with a statue of Morelos, famous for the Día de Muertos vigil in the cemetery on the night of 1 November.",
+          "come": "Boat from the Pátzcuaro pier (about 20-30 minutes).",
+          "quando": "Night of 1 November for the vigil.",
+          "tempo": "Half a day",
+          "consiglio": "Respect the families: the vigil is not a show."
+        },
+        {
+          "nome": "Tzintzuntzan",
+          "testo": "An ancient Purépecha capital, with the yácatas (round pyramids) and a decorated cemetery.",
+          "come": "Car or colectivo from Pátzcuaro (about 20 minutes).",
+          "quando": "Morning.",
+          "tempo": "2 hours",
+          "url": "https://www.inah.gob.mx/"
+        },
+        {
+          "nome": "Colonial squares of Pátzcuaro",
+          "testo": "Plaza Vasco de Quiroga and Plaza Gertrudis Bocanegra, with arcades and a crafts market.",
+          "come": "On foot.",
+          "quando": "Morning.",
+          "tempo": "2-3 hours"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 day",
+          "tappe": [
+            "Morning: Plaza Vasco de Quiroga and market",
+            "Afternoon: Tzintzuntzan",
+            "Evening: boat to Janitzio, vigil (1 November)"
+          ]
+        },
+        {
+          "titolo": "2 days",
+          "tappe": [
+            "Day 1: Pátzcuaro and Tzintzuntzan",
+            "Day 2: Janitzio and surroundings"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Pátzcuaro centre",
+          "perChi": "on foot to everything",
+          "testo": "Hotels in colonial houses, near the squares."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Pescado blanco",
+          "testo": "White fish from the lake, fried or grilled."
+        },
+        {
+          "nome": "Corundas and uchepos",
+          "testo": "Corn tamales of Purépecha tradition."
+        },
+        {
+          "nome": "Sopa tarasca",
+          "testo": "Bean and tomato soup with ancho chilli."
+        },
+        {
+          "nome": "Carnitas",
+          "testo": "Slow-cooked pork from Michoacán."
+        }
+      ],
+      "attenzioni": [
+        "During Día de Muertos the area is very crowded: book months ahead.",
+        "Respect the families during the vigils: no flash or intrusive photos.",
+        "Boat to Janitzio: agree the price."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos'],
     imageAlt: 'The island of Janitzio in Lake Pátzcuaro with the Morelos monument on top, seen from above',
@@ -273,6 +809,90 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'Choosing an unauthorized whale shark operator',
       'Not keeping a spare day for the north wind',
     ],
+      "luoghi": [
+        {
+          "nome": "La Paz Malecón",
+          "testo": "A seafront of about 5 km with sculptures, cafés and sunset over the Sea of Cortez.",
+          "come": "On foot from the centre.",
+          "quando": "Sunset.",
+          "tempo": "1-2 hours"
+        },
+        {
+          "nome": "Playa Balandra",
+          "testo": "A shallow bay with turquoise water, known for the mushroom rock. Access is limited to protect the ecosystem.",
+          "come": "By car or taxi from La Paz (about 25 minutes); check the access rules and maximum number of visitors.",
+          "quando": "Early morning.",
+          "tempo": "Half a day",
+          "consiglio": "Entry requires respecting the park rules; check in advance."
+        },
+        {
+          "nome": "Espíritu Santo Island and Los Islotes",
+          "testo": "A UNESCO archipelago with sea lion colonies and seabeds for snorkelling. You swim with sea lions at Los Islotes.",
+          "come": "Boat tour from La Paz with an authorised operator.",
+          "quando": "Morning; year-round with varying times.",
+          "tempo": "Full day"
+        },
+        {
+          "nome": "Whale sharks in La Paz bay",
+          "testo": "A meeting with whale sharks, in season, with authorised operators.",
+          "come": "Boat tour from La Paz.",
+          "quando": "Roughly October to March.",
+          "tempo": "Half a day",
+          "consiglio": "Choose operators who respect distances and number limits."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 day",
+          "tappe": [
+            "Morning: Playa Balandra",
+            "Seafood lunch",
+            "Sunset on the Malecón"
+          ]
+        },
+        {
+          "titolo": "2 days",
+          "tappe": [
+            "Day 1: Balandra and Malecón",
+            "Day 2: Espíritu Santo and Los Islotes"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Centre and Malecón",
+          "perChi": "on foot to everything",
+          "testo": "Hotels and restaurants near the seafront."
+        },
+        {
+          "nome": "Towards Balandra",
+          "perChi": "calm",
+          "testo": "Quieter hotels to the north, farther from the centre."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Fish tacos",
+          "testo": "A Baja speciality, in taquerías."
+        },
+        {
+          "nome": "Almejas chocolatas",
+          "testo": "Local clams, fresh."
+        },
+        {
+          "nome": "Machaca",
+          "testo": "Shredded dried meat with eggs, from Baja."
+        },
+        {
+          "nome": "Ceviche",
+          "testo": "With lime, in seaside restaurants."
+        }
+      ],
+      "attenzioni": [
+        "Balandra has limited access: check the rules and times.",
+        "For Los Islotes choose authorised operators: the sea lion rules are strict.",
+        "Strong sun and wind: bring water and protection."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
     imageAlt: 'Playa Balandra from above with turquoise shallow water, near La Paz',
@@ -304,6 +924,83 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'Planning outings in the afternoon, when the wind churns up the lagoon',
       'Driving in the evening on the road back',
     ],
+      "luoghi": [
+        {
+          "nome": "Grey whale watching",
+          "testo": "The lagoons of Bahía Magdalena host the grey whales that come to give birth each year. You go out in a panga and the whales come up to the boat.",
+          "come": "Panga with an operator from Puerto Adolfo López Mateos or Puerto San Carlos.",
+          "quando": "January to March, in the morning with less wind.",
+          "tempo": "2-3 hours",
+          "consiglio": "A morning trip, when the wind is weakest."
+        },
+        {
+          "nome": "Barrier island dunes",
+          "testo": "Sand dunes on Magdalena island, between sea and desert.",
+          "come": "By panga from the lagoons.",
+          "quando": "Morning.",
+          "tempo": "Half a day"
+        },
+        {
+          "nome": "Fishing villages",
+          "testo": "Puerto Adolfo López Mateos and Puerto San Carlos, fishing villages with a market and fresh fish.",
+          "come": "By car from La Paz or Ciudad Constitución.",
+          "quando": "Daytime.",
+          "tempo": "Half a day",
+          "consiglio": "The Grey Whale Festival is held in late January-February at López Mateos."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 day",
+          "tappe": [
+            "Morning: panga trip for the whales",
+            "Seafood lunch",
+            "Afternoon: dunes"
+          ]
+        },
+        {
+          "titolo": "2 days",
+          "tappe": [
+            "Day 1: arrival, afternoon trip",
+            "Day 2: morning trip and Whale Festival (if in date)"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Puerto Adolfo López Mateos",
+          "perChi": "nature",
+          "testo": "Few services, simple inns."
+        },
+        {
+          "nome": "Puerto San Carlos",
+          "perChi": "services",
+          "testo": "Larger, with hotels."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Fresh fish and seafood",
+          "testo": "From the local catch."
+        },
+        {
+          "nome": "Fish tacos",
+          "testo": "At the town's stalls."
+        },
+        {
+          "nome": "Almejas",
+          "testo": "Local clams."
+        },
+        {
+          "nome": "Ceviche",
+          "testo": "With lime."
+        }
+      ],
+      "attenzioni": [
+        "Whale season runs from January to March: out of season you do not see them.",
+        "Afternoon wind makes the sea rough: book mornings.",
+        "Few services: bring cash."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
     imageAlt: 'A gray whale rising vertically out of the water off Baja California Sur',
@@ -338,6 +1035,78 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'Arriving in Loreto without having filled up on the stretch from Ciudad Constitución',
       'Booking with operators without a park permit',
     ],
+      "luoghi": [
+        {
+          "nome": "Mission of Nuestra Señora de Loreto",
+          "testo": "The first Jesuit mission in Baja California, founded in 1697, with a museum beside the church.",
+          "come": "On foot from the centre.",
+          "quando": "Morning.",
+          "tempo": "1 hour",
+          "url": "https://www.inah.gob.mx/"
+        },
+        {
+          "nome": "Bahía de Loreto National Park and Isla Coronado",
+          "testo": "A marine park with islands, snorkelling and blue whale watching in season.",
+          "come": "Boat from Loreto with an authorised operator.",
+          "quando": "Morning; calm sea.",
+          "tempo": "Full day"
+        },
+        {
+          "nome": "San Javier Mission",
+          "testo": "A Jesuit mission of 1699 in the Sierra de la Giganta, reached by a dirt road among mountains and canyons.",
+          "come": "Car or tour from Loreto (about 1.5 hours).",
+          "quando": "Morning.",
+          "tempo": "Half a day",
+          "consiglio": "Dirt road: a suitable vehicle is needed."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 day",
+          "tappe": [
+            "Morning: Loreto Mission",
+            "Seafood lunch",
+            "Afternoon: Isla Coronado"
+          ]
+        },
+        {
+          "titolo": "2 days",
+          "tappe": [
+            "Day 1: Loreto and the National Park",
+            "Day 2: San Javier Mission"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Loreto centre",
+          "perChi": "on foot to everything",
+          "testo": "Small hotels and restaurants near the seafront."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Fish tacos",
+          "testo": "A Baja speciality."
+        },
+        {
+          "nome": "Machaca",
+          "testo": "Shredded dried meat."
+        },
+        {
+          "nome": "Almejas",
+          "testo": "Local clams."
+        },
+        {
+          "nome": "Date sweets",
+          "testo": "Products of the area."
+        }
+      ],
+      "attenzioni": [
+        "The road to San Javier is dirt: consider a suitable vehicle.",
+        "Strong sun and summer heat: go early.",
+        "Authorised operators in the national park."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
     imageAlt: 'The stone Misión de Nuestra Señora de Loreto among the palms, in the center of town',
@@ -360,6 +1129,78 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     comeArrivare: 'By car from La Paz (about 1 hour) or from Cabo San Lucas (about 1 hour).',
     periodoMigliore: 'November to April.',
     erroriDaEvitare: ['Swimming on the open Pacific beaches outside Cerritos: strong currents'],
+      "luoghi": [
+        {
+          "nome": "Historic centre and galleries",
+          "testo": "A Pueblo Mágico with colonial houses, art galleries, boutiques and cafés.",
+          "come": "On foot.",
+          "quando": "Morning and evening.",
+          "tempo": "Half a day"
+        },
+        {
+          "nome": "Playa Cerritos",
+          "testo": "A Pacific beach with waves suitable for beginner surfing, schools and board rental.",
+          "come": "By car or taxi from Todos Santos (about 15 minutes).",
+          "quando": "Morning.",
+          "tempo": "Half a day",
+          "consiglio": "Outside Cerritos the Pacific beaches have strong currents: do not swim."
+        },
+        {
+          "nome": "Turtle release",
+          "testo": "Local conservation projects with release of hatchlings in the hatching seasons.",
+          "come": "With local projects, in season.",
+          "quando": "Evening.",
+          "tempo": "1-2 hours",
+          "consiglio": "Respect the project rules."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 day",
+          "tappe": [
+            "Morning: centre and galleries",
+            "Afternoon: Cerritos and surf lesson",
+            "Sunset over the Pacific"
+          ]
+        },
+        {
+          "titolo": "2 days",
+          "tappe": [
+            "Day 1: centre and Cerritos",
+            "Day 2: turtles in season or a day in La Paz"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Historic centre",
+          "perChi": "charm",
+          "testo": "Small hotels and guesthouses, on foot from restaurants."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Fish tacos",
+          "testo": "From Baja."
+        },
+        {
+          "nome": "Grilled fish",
+          "testo": "Fresh, on the coast."
+        },
+        {
+          "nome": "Campesina cooking",
+          "testo": "Produce of the local gardens."
+        },
+        {
+          "nome": "Coffee and sweets",
+          "testo": "In the centre's cafés."
+        }
+      ],
+      "attenzioni": [
+        "Swimming on open Pacific beaches outside Cerritos: strong currents.",
+        "Road from La Paz and Cabo San Lucas: about 1 hour.",
+        "Galleries close at varying hours: check."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
     imageAlt: 'The long ocean beach of Todos Santos seen from above',
@@ -390,6 +1231,89 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'Stopping for timeshare salespeople at the airport and in the Marina',
       'Underestimating the prices, the highest in Baja',
     ],
+      "luoghi": [
+        {
+          "nome": "El Arco and Playa del Amor",
+          "testo": "The rock formation where the Sea of Cortez meets the Pacific, with Lover's Beach hidden behind.",
+          "come": "Water taxi from the Cabo San Lucas pier.",
+          "quando": "Morning.",
+          "tempo": "1-2 hours",
+          "consiglio": "The sea is rough: you cannot always land."
+        },
+        {
+          "nome": "San José del Cabo",
+          "testo": "A colonial centre with art galleries and the Thursday evening Art Walk (November-June).",
+          "come": "By car or bus from Cabo San Lucas (about 30 minutes).",
+          "quando": "Thursday evening.",
+          "tempo": "Half a day"
+        },
+        {
+          "nome": "Cabo Pulmo National Park",
+          "testo": "The only hard coral reef in the Gulf of California, a UNESCO site, for snorkelling and diving.",
+          "come": "Car from Los Cabos (about 1.5-2 hours) and boat with a village operator.",
+          "quando": "Morning.",
+          "tempo": "Full day"
+        },
+        {
+          "nome": "Humpback whale watching",
+          "testo": "Watching humpbacks in the waters of Los Cabos.",
+          "come": "Boat from Cabo San Lucas or San José del Cabo.",
+          "quando": "December-April.",
+          "tempo": "2-3 hours"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 day",
+          "tappe": [
+            "Morning: El Arco by water taxi",
+            "Lunch in Cabo San Lucas",
+            "Thursday evening: Art Walk in San José del Cabo"
+          ]
+        },
+        {
+          "titolo": "2 days",
+          "tappe": [
+            "Day 1: El Arco and Cabo San Lucas",
+            "Day 2: Cabo Pulmo or whales (December-April)"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "San José del Cabo",
+          "perChi": "quiet",
+          "testo": "A colonial centre, calmer and less touristy."
+        },
+        {
+          "nome": "Cabo San Lucas",
+          "perChi": "nightlife",
+          "testo": "Marina, bars and venues, very touristy."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Fish tacos",
+          "testo": "From Baja."
+        },
+        {
+          "nome": "Ceviche",
+          "testo": "Fresh."
+        },
+        {
+          "nome": "Lobster",
+          "testo": "Grilled, in season."
+        },
+        {
+          "nome": "Margarita",
+          "testo": "Bars and restaurants by the sea."
+        }
+      ],
+      "attenzioni": [
+        "Cabo San Lucas is touristy and expensive: compare prices.",
+        "Time-share offers: refuse people who stop you in the street.",
+        "The Pacific has strong currents: swim only where safe."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
     imageAlt: 'El Arco at Cabo San Lucas with a boat in front of the rocks',

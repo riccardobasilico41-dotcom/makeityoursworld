@@ -38,6 +38,98 @@ export const destinazioniBelize: Destinazione[] = [
     ],
     miaEsperienza:
       "We got there from Belize City by water taxi and the \"Go Slow\" written everywhere describes the island as it is: no cars, only golf carts and bicycles, and within two days the rhythm slowed down by itself. The classic Caribbean beach is almost absent, the coast is mangroves and piers, and those who expect one are thrown for half a day before understanding that here the sea is done offshore. Offshore, in fact, is the reef: on the boat trip to Hol Chan and Shark Ray Alley we were in the water a meter from nurse sharks and rays that paid not the slightest attention to those watching. We left the afternoon free until sunset at the Split, where the whole island gathers. Belize costs almost double Guatemala, and here you feel it.",
+      "luoghi": [
+        {
+          "nome": "The Split",
+          "testo": "The channel opened by Hurricane Hattie in 1961, which cut the island in two. Today it is the island's meeting point: a bar on the dock, jumps off the bridge and the sunset watched by everyone together.",
+          "come": "At the end of the main street, a 10-minute walk from the water taxi dock.",
+          "quando": "Late afternoon until sunset.",
+          "tempo": "1-2 hours",
+          "consiglio": "There is a current in the channel: enter the water from the calmer side and keep an eye on the boats."
+        },
+        {
+          "nome": "Hol Chan Marine Reserve and Shark Ray Alley",
+          "testo": "Hol Chan is a natural channel in the barrier reef, south of Ambergris, inside the first marine protected area of Belize. Shark Ray Alley is where fishermen used to clean their catch: nurse sharks and rays now swim up to the boat.",
+          "come": "Half-day boat trip from Caye Caulker with guide and gear. The marine park fee is often not included in the price.",
+          "quando": "Morning, when the sea is calmest; best season December-April.",
+          "tempo": "4-5 hours",
+          "url": "https://www.travelbelize.org/",
+          "consiglio": "From people who have been: in the water a metre from nurse sharks and rays that pay no attention to who is watching. Before booking, ask what the price includes."
+        },
+        {
+          "nome": "The Great Blue Hole from above",
+          "testo": "A marine sinkhole about 300 metres wide and 125 deep, off Lighthouse Reef. The perfect circle can only be seen from above.",
+          "come": "Scenic flight in a small plane from the island or from Belize City. The alternative is a full-day dive, which costs more and is more tiring.",
+          "quando": "Clear day, preferably in the morning.",
+          "tempo": "Half a day",
+          "consiglio": "The flight costs far less than the dive and shows what the photos promise. Underwater you get a blue wall with little marine life."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 day",
+          "tappe": [
+            "Bike ride from one end of the island to the other",
+            "Lunch from a street barbecue",
+            "Snorkelling on the reef in the early afternoon",
+            "Sunset at the Split"
+          ]
+        },
+        {
+          "titolo": "2 days",
+          "tappe": [
+            "Day 1: arrive by water taxi, walk around, sunset at the Split",
+            "Day 2: Hol Chan and Shark Ray Alley in the morning, free afternoon, seafood dinner on the main street"
+          ]
+        },
+        {
+          "titolo": "3 days",
+          "tappe": [
+            "Days 1 and 2 as above",
+            "Day 3: scenic flight over the Blue Hole or kayaking in the mangroves, then water taxi to Ambergris"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Near the dock",
+          "perChi": "social life and low prices",
+          "testo": "Hostels and guesthouses a few steps from bars and restaurants. You sleep near the evening music, so bring earplugs."
+        },
+        {
+          "nome": "East and north side of the island",
+          "perChi": "those who want quiet",
+          "testo": "Quieter cabañas with the sea in front. For dinner you walk 10-15 minutes, in the evening with a torch."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Rice and beans with stew chicken",
+          "testo": "Rice and red beans cooked in coconut milk with stewed chicken: the everyday dish. Found in the restaurants and stalls on the main street."
+        },
+        {
+          "nome": "Fry jacks",
+          "testo": "Puffy fried dough, eaten at breakfast with eggs, beans or honey."
+        },
+        {
+          "nome": "Conch ceviche",
+          "testo": "Raw conch marinated in lime with onion and coriander. It is a local product and eaten fresh."
+        },
+        {
+          "nome": "Lobster",
+          "testo": "Season runs from mid-June to the end of February: out of season, if it is on the menu, it is frozen."
+        },
+        {
+          "nome": "Street barbecue",
+          "testo": "In the afternoon, grilled chicken or fish with rice and beans, for a few dollars."
+        }
+      ],
+      "attenzioni": [
+        "Belize is expensive compared with Mexico and Guatemala, especially for excursions and activities: always ask what is included.",
+        "Marine park fees are often excluded from the tour price and paid separately.",
+        "At sunset sandflies appear, biting midges: use repellent and long clothes.",
+        "Do not touch or feed sharks and rays while snorkelling, even if they come close."
+      ],
     esperienzeSlugs: ['hol-chan-shark-ray-alley'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Shore with palm trees, wooden piers and shallow water at Caye Caulker, Belize',
@@ -79,6 +171,101 @@ export const destinazioniBelize: Destinazione[] = [
     ],
     miaEsperienza:
       "From Caye Caulker we moved by boat to Ambergris, the largest and most developed island in Belize: compared to Caye Caulker, San Pedro has more restaurants, more dive centers, more golf carts. It's where you decide how to approach the Blue Hole. The full-day dive costs quite a lot, often requires an advanced certification and underwater shows a blue wall with few stalactites and little fish; the famous photo of the perfect circle is seen only from above, and the scenic flight costs much less and is truer to what you imagine. For those staying on the water there's Secret Beach, with very shallow water. The last morning we kept free, with one last swim and a seaweed shake on the waterfront, before going back to Belize City for the flight.",
+      "luoghi": [
+        {
+          "nome": "Hol Chan and Shark Ray Alley from San Pedro",
+          "testo": "The natural channel in the reef and the spot for nurse sharks and rays, a few minutes by boat from San Pedro. Ambergris is the closest departure point.",
+          "come": "Half-day boat trip booked in San Pedro; gear included. Park fee often extra.",
+          "quando": "Morning; December-April.",
+          "tempo": "4 hours",
+          "url": "https://www.travelbelize.org/",
+          "consiglio": "You get there sooner, so another snorkelling stop can fit in the same trip."
+        },
+        {
+          "nome": "Secret Beach",
+          "testo": "A beach on the west side of the island, with very shallow water and pale sand, on the side sheltered from the wind.",
+          "come": "Golf-cart taxi or boat from San Pedro; the last stretch is on a dirt road.",
+          "quando": "Morning or afternoon, with clear sky. Better on days without strong west wind.",
+          "tempo": "Half a day",
+          "consiglio": "You go for swimming and eating by the water, not for surf. Bring cash."
+        },
+        {
+          "nome": "Great Blue Hole",
+          "testo": "A marine sinkhole in Lighthouse Reef, a UNESCO site. From San Pedro you go by boat for the dive or by plane for the scenic flight.",
+          "come": "Dive: full day, three dives, open sea, many operators require an advanced certification. Scenic flight: half a day.",
+          "quando": "Calm-sea days, more likely from December to April.",
+          "tempo": "Full day",
+          "consiglio": "The best view is from the plane, and it costs far less. Underwater it is a blue wall with few stalactites and little marine life."
+        },
+        {
+          "nome": "San Pedro town",
+          "testo": "Sandy streets with colourful houses, cafés, restaurants and dive centres. The waterfront is the heart of the town, with the departure piers for all excursions.",
+          "come": "On foot from the main pier. On the island you get around by golf cart.",
+          "quando": "Early morning for bookings, evening for waterfront life.",
+          "tempo": "Half a day"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 day",
+          "tappe": [
+            "Morning at Hol Chan and Shark Ray Alley",
+            "Lunch in a comedor away from the waterfront",
+            "Afternoon at Secret Beach",
+            "Dinner in San Pedro"
+          ]
+        },
+        {
+          "titolo": "2 days",
+          "tappe": [
+            "Day 1: Hol Chan and Shark Ray Alley, sunset on the waterfront",
+            "Day 2: scenic flight over the Blue Hole or a day of diving, then Secret Beach"
+          ]
+        },
+        {
+          "titolo": "3 days",
+          "tappe": [
+            "Days 1 and 2 as above",
+            "Day 3: kitesurfing or windsurfing on the windward side, a last swim and departure for Belize City"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "San Pedro",
+          "perChi": "services and nightlife",
+          "testo": "Restaurants, dive centres and everything on foot. Noise in the evening and higher prices on the waterfront."
+        },
+        {
+          "nome": "North and south of the island",
+          "perChi": "quiet resorts",
+          "testo": "Wider beaches and silence. For dinner you need a golf cart or shuttle boat."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Stew chicken in the comedores",
+          "testo": "Stewed chicken with rice and beans, the same dish as on the waterfront at a quarter of the price, in the streets behind the town."
+        },
+        {
+          "nome": "Conch fritters",
+          "testo": "Conch fritters, in season, near the pier."
+        },
+        {
+          "nome": "Seaweed shake",
+          "testo": "A seaweed smoothie with milk, spices and cinnamon. It sounds unconvincing, but you drink it."
+        },
+        {
+          "nome": "Grilled fish",
+          "testo": "The catch of the day at San Pedro's stalls, with corn tortillas made on the spot."
+        }
+      ],
+      "attenzioni": [
+        "The San Pedro waterfront is expensive: to eat better and spend less, move to the inner streets.",
+        "The Blue Hole requires adequate diving experience: many operators ask for an advanced certification or a minimum number of dives.",
+        "Snorkelling at the Blue Hole surface shows little: it is not a reason to spend that much.",
+        "Prices in Belize dollars or USD: always ask in which currency the quote is."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'A café in a yellow house with porches along a street in San Pedro, Ambergris Caye, Belize',
@@ -122,6 +309,103 @@ export const destinazioniBelize: Destinazione[] = [
     ],
     miaEsperienza:
       "We arrived in San Ignacio from the Melchor de Mencos border, with the first encounter with English and with the highest prices in Belize. The next day we devoted to the ATM cave, the most impressive thing in all of Belize: a hike through the jungle with three river crossings, then you enter by swimming into an underground river and go on for hours in cold water, with passages where you have to turn sideways. In the upper chamber you take off your shoes and walk in socks among intact ceramics and human remains left where the Maya had laid them more than a thousand years ago, including the \"Crystal Maiden\". No photos, forbidden since an accidental fall damaged an artifact. The following day was lighter: Xunantunich, reached by a small hand-cranked ferry on the Mopan River, and in the afternoon the pools of Rio On on the Mountain Pine Ridge. Those with problems with tight spaces or cold water can choose Xunantunich, which is outdoors.",
+      "luoghi": [
+        {
+          "nome": "Actun Tunichil Muknal (ATM)",
+          "testo": "A Maya archaeological cave with pottery and human remains left where the Maya placed them over a thousand years ago, including the \"Crystal Maiden\". You enter by swimming in an underground river.",
+          "come": "Only with an authorised guide, tour from San Ignacio with transport: a walk in the jungle with three river crossings, then hours in cold water and tight passages.",
+          "quando": "Morning; December-April. It can close after heavy rain because of the water level.",
+          "tempo": "Full day (about 8 hours)",
+          "url": "https://www.nichbelize.org/",
+          "consiglio": "Cameras are banned for everyone, with no exceptions. If you are claustrophobic or bothered by cold water, skip it."
+        },
+        {
+          "nome": "Xunantunich",
+          "testo": "A Classic-period Maya site with the El Castillo pyramid, about 40 metres high, on a hill above the Mopan river. You can climb to the top.",
+          "come": "From San Ignacio taxi to the Mopan, then the free hand-cranked ferry; on the other side a 15-minute uphill walk.",
+          "quando": "Morning, before the heat.",
+          "tempo": "2 hours",
+          "url": "https://www.nichbelize.org/",
+          "consiglio": "From the top you can see Guatemala. It combines easily with the cave or with Rio On on the same day."
+        },
+        {
+          "nome": "Caracol",
+          "testo": "The largest Maya site in Belize, in the middle of the Chiquibul forest. The Caana pyramid is still the tallest structure in the country.",
+          "come": "Excursion from San Ignacio with a guide, along a dirt road of about 1.5-2 hours; lunch is usually included.",
+          "quando": "Early morning. Dry season for the road.",
+          "tempo": "Full day",
+          "url": "https://www.nichbelize.org/",
+          "consiglio": "You go for the silence and the howler monkeys, not for the crowds of Tikal. Check the road conditions."
+        },
+        {
+          "nome": "Rio On Pools and the Mountain Pine Ridge",
+          "testo": "A series of small waterfalls and natural pools on the Rio On, in a highland pine forest. You swim and slide on smooth rocks.",
+          "come": "By car or taxi from San Ignacio (about 45 minutes). Free entry.",
+          "quando": "Afternoon, when the water is warmest.",
+          "tempo": "1-2 hours",
+          "consiglio": "Water shoes: the rocks are slippery."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 day",
+          "tappe": [
+            "Morning: Xunantunich with the ferry across the Mopan",
+            "Lunch at the San Ignacio market",
+            "Afternoon: Rio On Pools"
+          ]
+        },
+        {
+          "titolo": "2 days",
+          "tappe": [
+            "Day 1: ATM cave, full day",
+            "Day 2: Xunantunich in the morning, Rio On in the afternoon, dinner in San Ignacio"
+          ]
+        },
+        {
+          "titolo": "3 days",
+          "tappe": [
+            "Days 1 and 2 as above",
+            "Day 3: Caracol with a guide, or a day at Tikal from the Guatemalan border"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "San Ignacio",
+          "perChi": "prices and services",
+          "testo": "The town has more restaurants, agencies and the market. All tours can be arranged on foot."
+        },
+        {
+          "nome": "Lodges on the Macal or the Mountain Pine Ridge",
+          "perChi": "staying in the jungle",
+          "testo": "More quiet, birds and walks, but far from restaurants and tied to transfers."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "San Ignacio market",
+          "testo": "Saturday morning: fruit, pupusas, tamales and Chinese-Belizean food. The cheapest place to eat."
+        },
+        {
+          "nome": "Stew chicken and grilled chicken",
+          "testo": "At the evening stalls on the main street."
+        },
+        {
+          "nome": "Fry jacks",
+          "testo": "Breakfast of puffy fried dough."
+        },
+        {
+          "nome": "Maya food of the Cayo",
+          "testo": "Tamales, corn tortillas and spicy sauces, more present here than in the rest of Belize."
+        }
+      ],
+      "attenzioni": [
+        "Book the ATM tour only with authorised operators: access is limited and reserved to guides with a specific licence.",
+        "No cameras in the ATM cave: banned for years, since a fall damaged an artefact.",
+        "At the Guatemalan border (Benque Viejo/Melchor de Mencos): change money only at official counters, not with people who approach you.",
+        "After heavy rain the ATM cave and some roads, such as the one to Caracol, can close."
+      ],
     esperienzeSlugs: ['grotta-atm'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'The El Castillo pyramid at the Maya site of Xunantunich, near San Ignacio in the Cayo District, Belize',
@@ -163,6 +447,106 @@ export const destinazioniBelize: Destinazione[] = [
     ],
     miaEsperienza:
       "From San Ignacio we went down to Placencia along the Hummingbird and the Southern Highway, and there for the first time on the trip we found postcard Caribbean sand, the kind the northern islands almost entirely lack. The Placencia Sidewalk runs on foot through the whole village; the next day we took the boat trip to Laughing Bird Caye, with shallow water and reefs close to shore. Then Hopkins, less than an hour away, which counts more for the culture than for the sea. The Garifuna descend from Africans who were never enslaved, deported here from the eastern Caribbean, and have their own language, cuisine and percussion, recognized by UNESCO. A drum lesson with a master from the village says more than any museum, and at the table the dish to look for is hudut. After the intense days in Guatemala and the Cayo, Hopkins was our decompression day. The whale sharks of Gladden Spit, on the other hand, depend on the full moons between March and June: take them as a bonus, don't put them at the center of the itinerary.",
+      "luoghi": [
+        {
+          "nome": "Placencia Sidewalk",
+          "testo": "The concrete pedestrian walkway through the village, on the edge of the peninsula, with shops, bars and fine-sand beach a few steps away. The closest thing to a Caribbean postcard beach on the mainland.",
+          "come": "On foot from the village; the peninsula can also be covered by bike or golf cart.",
+          "quando": "Morning for the beach, late afternoon for walking.",
+          "tempo": "Half a day"
+        },
+        {
+          "nome": "Laughing Bird Caye",
+          "testo": "A tiny national-park island on the atoll off Placencia, with a reef close by and shallow water. Part of the UNESCO barrier reef site.",
+          "come": "Half-day boat trip from Placencia with one of the local operators; park fee extra.",
+          "quando": "Morning, calm sea; dry season.",
+          "tempo": "4-5 hours",
+          "url": "https://www.travelbelize.org/",
+          "consiglio": "Bring reef-safe sunscreen and do not touch the corals."
+        },
+        {
+          "nome": "Hopkins and Garifuna culture",
+          "testo": "A Garifuna seaside village. The Garifuna are descendants of Africans who were never enslaved, with their own language, cuisine and drumming, protected by UNESCO.",
+          "come": "From Placencia 40-50 minutes by car or shuttle. In the village you walk.",
+          "quando": "Evening for drums, morning for the food.",
+          "tempo": "Half a day",
+          "consiglio": "A drum lesson with a master of the village says more than any museum. Ask in the village."
+        },
+        {
+          "nome": "Cockscomb Basin Wildlife Sanctuary",
+          "testo": "The first reserve in the world dedicated to jaguars, in a rainforest valley with trails to waterfalls and viewpoints. The jaguar is rarely seen.",
+          "come": "From Hopkins or Placencia by car to the entrance (about 30-50 minutes); trails of 1-4 hours, some with swimming pools.",
+          "quando": "Early morning; dry season.",
+          "tempo": "Half a day",
+          "url": "https://www.travelbelize.org/",
+          "consiglio": "Birds and monkeys are easier to see than jaguars: go for the forest."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 day",
+          "tappe": [
+            "Morning: beach and the Placencia Sidewalk",
+            "Seafood lunch in the village",
+            "Afternoon: trip to Laughing Bird Caye"
+          ]
+        },
+        {
+          "titolo": "2 days",
+          "tappe": [
+            "Day 1: Placencia and Laughing Bird Caye",
+            "Day 2: Hopkins, drum lesson, hudut for lunch, then Cockscomb Basin"
+          ]
+        },
+        {
+          "titolo": "3 days",
+          "tappe": [
+            "Days 1 and 2 as above",
+            "Day 3: seasonal, whale shark trip to Gladden Spit (roughly March-June, around full moons)"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Placencia village",
+          "perChi": "social life",
+          "testo": "Bars, restaurants, shops and beach on foot. More noise and more tourist prices."
+        },
+        {
+          "nome": "Peninsula to the north",
+          "perChi": "quiet resorts",
+          "testo": "Wide sand and silence, but you have to travel to dine."
+        },
+        {
+          "nome": "Hopkins",
+          "perChi": "village atmosphere",
+          "testo": "Fewer services, more culture. The sea is darker and the beach less postcard."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Hudut",
+          "testo": "Fish in coconut milk with mashed green plantain. Long to prepare, it is served mostly by family restaurants in Hopkins."
+        },
+        {
+          "nome": "Southern Belize chocolate",
+          "testo": "Made in small farms around Punta Gorda, sold throughout the country."
+        },
+        {
+          "nome": "Conch ceviche and grilled fish",
+          "testo": "Everywhere in Placencia, with the usual price difference between beachfront and inner streets."
+        },
+        {
+          "nome": "Rice and beans with chicken",
+          "testo": "The basic Belizean dish, in the village eateries."
+        }
+      ],
+      "attenzioni": [
+        "Whale sharks at Gladden Spit depend on full moons between March and June: do not build the trip around them.",
+        "The bus on the Southern Highway takes 4-5 hours: leave a good margin if you have a flight.",
+        "Sunset brings sandflies on the beach: repellent.",
+        "Boat trips may be cancelled when the sea is rough."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Palm trees, white sand and turquoise sea on the beach at Placencia, Belize',

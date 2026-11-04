@@ -28,6 +28,75 @@ export const destinazioniCroazia: Destinazione[] = [
     comeSpostarsi: 'A piedi, in tram e con la funicolare per la Città Alta.',
     periodoMigliore: 'aprile-ottobre; dicembre per l\'Avvento.',
     erroriDaEvitare: ['Saltarla del tutto per correre al mare'],
+    luoghi: [
+      {
+        nome: "Città Alta (Gornji grad)",
+        testo: "Il nucleo medievale su una collina, con la chiesa di San Marco dal tetto a tegole colorate, la torre Lotrščak (dove un cannone spara ogni giorno a mezzogiorno) e vicoli di lampioni a gas.",
+        come: "Dalla Città Bassa a piedi o con la funicolare, tra le più brevi del mondo (circa 60 metri).",
+        quando: "Mattina o tardo pomeriggio. Il cannone spara a mezzogiorno.",
+        tempo: "2 ore",
+        consiglio: "Salire a piedi da via Tkalčićeva e scendere con la funicolare."
+      },
+      {
+        nome: "Mercato di Dolac",
+        testo: "Il mercato all'aperto della città, sopra piazza Jelačić, con banchi di frutta e verdura sotto gli ombrelloni rossi e formaggi nel mercato coperto sotto.",
+        come: "A piedi dal centro, a pochi minuti da piazza Jelačić.",
+        quando: "Mattina, fino a metà giornata; la domenica è più tranquillo e molti banchi chiudono.",
+        tempo: "1 ora",
+        consiglio: "Provare il formaggio fresco di panna (sir i vrhnje) con il pane caldo."
+      },
+      {
+        nome: "Museo delle Relazioni Interrotte",
+        testo: "Un piccolo museo con oggetti donati da persone di tutto il mondo, ciascuno con la storia di una relazione finita. Divertente e a tratti commovente.",
+        come: "A piedi dalla Città Alta, in via Ćirilometodska.",
+        quando: "Mattina o pomeriggio, evitando il fine settimana.",
+        tempo: "1 ora",
+        consiglio: "Si legge tutto in inglese: prevedere il tempo per leggere le didascalie."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Mercato di Dolac al mattino",
+          "Cattedrale e Città Alta",
+          "Pranzo con štrukli",
+          "Museo delle Relazioni Interrotte",
+          "Aperitivo in via Tkalčićeva"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Città Bassa",
+        perChi: "chi vuole stazione e tram",
+        testo: "Alberghi e appartamenti a piedi da tutto; la sera il centro è vivace e un po' rumoroso."
+      },
+      {
+        nome: "Vicino a piazza Jelačić",
+        perChi: "chi ha poco tempo",
+        testo: "Tutto raggiungibile a piedi; i prezzi sono un po' più alti."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Štrukli",
+        testo: "Pasta ripiena di formaggio fresco, lessata o al forno, il piatto più tipico della città."
+      },
+      {
+        nome: "Purica s mlincima",
+        testo: "Tacchino arrosto con pasta sottile, un piatto della cucina di casa croata."
+      },
+      {
+        nome: "Kremšnita",
+        testo: "Dolce di crema e panna tra due sfoglie, tipico di Samobor, vicino alla città."
+      }
+    ],
+    attenzioni: [
+      "In taxi, usare le app (Bolt, Uber) o le auto con tariffa esposta: alla stazione i prezzi variano.",
+      "A Natale i prezzi degli alloggi salgono: prenotare in anticipo.",
+      "Nei fine settimana del mercatino d'Avvento il centro si affolla molto: meglio un giorno feriale."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['croazia-itinerario'],
     imageAlt: 'La chiesa di San Marco con il tetto a piastrelle colorate a Zagabria',
@@ -55,6 +124,82 @@ export const destinazioniCroazia: Destinazione[] = [
       'Arrivare a metà mattina in alta stagione',
       'Non prenotare online la fascia d\'ingresso',
       'Pensare di fare il bagno: è vietato',
+    ],
+    luoghi: [
+      {
+        nome: "Laghi superiori e Kozjak",
+        testo: "Sedici laghi collegati da cascate su terrazze di travertino, con passerelle di legno sull'acqua turchese. Patrimonio UNESCO dal 1979.",
+        come: "Ingresso 2 per i laghi superiori. Sentieri segnati con lettere (A-K) e battello elettrico sul Kozjak incluso nel biglietto.",
+        quando: "All'apertura o dopo le 15, per evitare le ore dei pullman. Il periodo più verde è tra maggio e giugno; in autunno i colori sono più intensi.",
+        tempo: "4-6 ore per un percorso completo",
+        url: "https://np-plitvicka-jezera.hr/en/",
+        consiglio: "In alta stagione il biglietto è a orario e va prenotato sul sito ufficiale."
+      },
+      {
+        nome: "Veliki slap",
+        testo: "La cascata più alta del parco, circa 78 metri, alla fine dei laghi inferiori. Si vede dalla passerella in basso o dal sentiero in alto.",
+        come: "Ingresso 1 per i laghi inferiori e la Veliki slap, a piedi con scale.",
+        quando: "Mattina presto o fine pomeriggio.",
+        tempo: "1 ora",
+        consiglio: "Un'ottima ultima tappa: poi si risale con il trenino panoramico."
+      },
+      {
+        nome: "Laghi inferiori e canyon",
+        testo: "Un tratto più selvaggio e meno affollato, con pareti di roccia, grotte e cascate che escono dal calcare.",
+        come: "A piedi dall'ingresso 1 lungo il sentiero indicato.",
+        quando: "Mattina.",
+        tempo: "2 ore",
+        consiglio: "Scarpe con suola antiscivolo: le passerelle sono bagnate."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Ingresso 2 all'apertura",
+          "Laghi superiori e Kozjak in battello",
+          "Pranzo al parco",
+          "Laghi inferiori e Veliki slap nel pomeriggio"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: laghi superiori e Kozjak",
+          "Giorno 2: laghi inferiori, canyon e sentieri meno battuti"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Mukinje e Rastovača",
+        perChi: "chi vuole stare vicino",
+        testo: "Pensioni e camere vicino all'ingresso, comode per la mattina presto."
+      },
+      {
+        nome: "Grabovac",
+        perChi: "chi cerca prezzi più bassi",
+        testo: "Più economico, in auto a pochi minuti dall'ingresso."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Agnello alla brace",
+        testo: "Si prepara nei ristoranti lungo la strada per il parco, con patate."
+      },
+      {
+        nome: "Trota",
+        testo: "Dei fiumi della zona, cotta alla griglia o fritta."
+      },
+      {
+        nome: "Štrukli e crema di formaggio",
+        testo: "Si trovano nelle trattorie vicine all'ingresso."
+      }
+    ],
+    attenzioni: [
+      "Il bagno nei laghi è vietato e vigilato: non uscire dai sentieri.",
+      "Senza prenotazione in estate si rischia di non entrare: prenotare l'orario.",
+      "Portare cibo e acqua: dentro i servizi sono pochi e costosi."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['croazia-itinerario'],
@@ -84,6 +229,93 @@ export const destinazioniCroazia: Destinazione[] = [
     periodoMigliore: 'maggio-giugno e settembre.',
     costi: 'Krka circa 40 € in estate, molto meno in bassa stagione.',
     erroriDaEvitare: ['Aspettarsi di fare il bagno sotto le cascate del Krka: è vietato dal 2021'],
+    luoghi: [
+      {
+        nome: "Zara: Organo marino e Saluto al Sole",
+        testo: "Due installazioni sul lungomare della città vecchia: l'Organo marino suona con le onde che entrano in tubi sotto i gradini, accanto un disco di vetro cattura la luce del tramonto. Sono opera dell'architetto Nikola Bašić.",
+        come: "A piedi dalla città vecchia, lungo la Riva.",
+        quando: "Al tramonto, quando suona e illumina.",
+        tempo: "1 ora",
+        consiglio: "Sedersi sui gradini: il suono cambia con il vento e le onde."
+      },
+      {
+        nome: "Città vecchia di Zara",
+        testo: "Una penisola con il Foro romano, la rotonda di San Donato (IX secolo) e chiese romaniche. Molto danneggiata nella Seconda guerra mondiale e ricostruita.",
+        come: "A piedi dai parcheggi esterni alle mura.",
+        quando: "Mattina o sera.",
+        tempo: "2 ore",
+        consiglio: "Il mercato del pesce e della frutta, vicino alle mura, è una buona colazione."
+      },
+      {
+        nome: "Cascate di Skradinski buk (Krka)",
+        testo: "Una serie di cascate e vasche su terrazze di travertino nel Parco Nazionale della Krka. Si cammina su passerelle e si prende un battello da Skradin.",
+        come: "Da Sebenico circa 45 minuti. Si parte dall'ingresso di Skradin con battello incluso nel biglietto.",
+        quando: "Mattina presto o fine giornata. Maggio-giugno e settembre.",
+        tempo: "3-4 ore",
+        url: "https://np-krka.hr/en/",
+        consiglio: "Il bagno ai piedi delle cascate non è più consentito."
+      },
+      {
+        nome: "Cattedrale di San Giacomo, Sebenico",
+        testo: "Cattedrale rinascimentale in pietra, iscritta all'UNESCO, costruita senza malta con blocchi incastrati. Sul fregio esterno corrono oltre 70 volti scolpiti.",
+        come: "A piedi dal centro storico.",
+        quando: "Mattina.",
+        tempo: "45 minuti",
+        consiglio: "Guardare i volti sull'abside: sono ritratti di abitanti della città."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Zara al mattino",
+          "Pranzo in città",
+          "Tramonto all'Organo marino"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: Zara e tramonto sulla Riva",
+          "Giorno 2: Krka al mattino, Sebenico nel pomeriggio"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Zara città vecchia",
+        perChi: "chi vuole il centro",
+        testo: "Alloggi in pietra a pochi passi da tutto; di notte è vivace nella zona della Riva."
+      },
+      {
+        nome: "Sebenico",
+        perChi: "chi vuole raggiungere la Krka",
+        testo: "Più tranquilla di Spalato, comoda per l'autostrada e il parco."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Maraschino",
+        testo: "Liquore di ciliegie marasche tipico di Zara."
+      },
+      {
+        nome: "Paška janjetina",
+        testo: "Agnello dell'isola di Pag, arrosto."
+      },
+      {
+        nome: "Sir iz mišine",
+        testo: "Formaggio di Pag stagionato."
+      },
+      {
+        nome: "Pesce di Sebenico",
+        testo: "Cucina semplice di mare nelle konobe del porto."
+      }
+    ],
+    attenzioni: [
+      "Alla Krka non si può più fare il bagno: chiedere agli sportelli se ci sono limitazioni.",
+      "In luglio e agosto le cascate si riempiono: arrivare all'apertura.",
+      "I parcheggi vicino alla città vecchia sono a pagamento e con limiti di tempo."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['croazia-itinerario'],
     imageAlt: 'Lo Skradinski buk nel Parco Nazionale del Krka',
@@ -113,6 +345,93 @@ export const destinazioniCroazia: Destinazione[] = [
     periodoMigliore: 'maggio-giugno e settembre-ottobre.',
     costi: 'Sotterranei del palazzo 10-15 €.',
     erroriDaEvitare: ['Girare in costume nel centro storico: si prende la multa'],
+    luoghi: [
+      {
+        nome: "Palazzo di Diocleziano",
+        testo: "Il palazzo-fortezza dell'imperatore romano Diocleziano, costruito attorno al 305 d.C., dentro cui oggi vive la città vecchia. Peristilio, mausoleo trasformato in cattedrale e sotterranei sono il cuore della visita.",
+        come: "A piedi dalla Riva, attraverso la Porta d'Argento o la Porta di Bronzo. Entrata libera alle strade; si paga per cattedrale, campanile e sotterranei.",
+        quando: "Mattina presto o sera: tra le 11 e le 16 i vicoli sono pieni.",
+        tempo: "2-3 ore",
+        consiglio: "Sotterranei: aperti con ingresso a pagamento, quasi vuoti, e fotogenici."
+      },
+      {
+        nome: "Cattedrale di San Doimo e campanile",
+        testo: "Il mausoleo ottagonale di Diocleziano, divenuto cattedrale nel VII secolo, è uno degli edifici più antichi al mondo ancora usati come chiesa. Il campanile alto 57 metri dà la vista sui tetti.",
+        come: "Dentro il Peristilio. Biglietto per cattedrale e salita al campanile.",
+        quando: "Mattina.",
+        tempo: "1 ora",
+        consiglio: "Salire al campanile per la vista: i gradini sono molti e stretti."
+      },
+      {
+        nome: "Collina di Marjan",
+        testo: "Il parco boscoso sopra la città, con sentieri, chiesette e un belvedere sul porto e sulle isole.",
+        come: "A piedi dal quartiere Veli Varoš, circa 20 minuti di salita fino al belvedere.",
+        quando: "Tardo pomeriggio.",
+        tempo: "2 ore",
+        consiglio: "Portare acqua: lungo la salita non ci sono bar."
+      },
+      {
+        nome: "Traù",
+        testo: "Una città-isola piccola e medievale a 30 km da Spalato, con la cattedrale di San Lorenzo e il suo portale scolpito da Radovan. Patrimonio UNESCO.",
+        come: "In auto o con il bus 37 da Spalato, circa 1 ora. Si visita a piedi.",
+        quando: "Mattina.",
+        tempo: "3 ore",
+        consiglio: "Il pomeriggio si ferma a prendere un gelato sulla Riva."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Palazzo di Diocleziano al mattino",
+          "Pranzo in città vecchia",
+          "Salita a Marjan nel pomeriggio",
+          "Cena sulla Riva"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: palazzo, cattedrale e sotterranei",
+          "Giorno 2: Traù al mattino, Klis o Salona nel pomeriggio"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Città vecchia",
+        perChi: "chi vuole il centro",
+        testo: "Camere dentro il palazzo, a piedi da tutto; la sera c'è rumore fino a tardi."
+      },
+      {
+        nome: "Veli Varoš",
+        perChi: "chi cerca un quartiere tranquillo",
+        testo: "Case di pescatori a 10 minuti dal centro, sotto Marjan."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Pašticada",
+        testo: "Manzo stufato in salsa di vino e prugne, con gnocchi."
+      },
+      {
+        nome: "Soparnik",
+        testo: "Torta di bietole salata della Dalmazia, cotta sotto la cenere."
+      },
+      {
+        nome: "Crni rižot",
+        testo: "Risotto nero al nero di seppia."
+      },
+      {
+        nome: "Rožata",
+        testo: "Crema caramellata della Dalmazia, dal tipico gusto di rosolio."
+      }
+    ],
+    attenzioni: [
+      "I taxi non segnalati a Spalato possono far pagare molto più della tariffa: usare Bolt o Uber.",
+      "Per i traghetti in estate prenotare il posto per l'auto con Jadrolinija.",
+      "Attenzione ai ristoranti in piazza con menu turistici e prezzi alti: allontanarsi di una strada riduce il costo."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['croazia-itinerario'],
     imageAlt: 'Le colonne e gli archi del Peristilio del palazzo di Diocleziano a Spalato',
@@ -136,6 +455,80 @@ export const destinazioniCroazia: Destinazione[] = [
     periodoMigliore: 'giugno e settembre; lavanda in fiore tra giugno e luglio.',
     costi: 'Taxi-boat per le Pakleni 10-15 € andata e ritorno.',
     erroriDaEvitare: ['Bere per strada o girare in costume in città: multe severe', 'Arrivare in agosto senza alloggio prenotato'],
+    luoghi: [
+      {
+        nome: "Hvar città e fortezza Spagnola",
+        testo: "Una cittadina veneziana sul mare con una piazza grande quanto un campo da calcio, la cattedrale e, sopra, la fortezza (Fortica) del Cinquecento con vista sulle isole Pakleni.",
+        come: "A piedi dal porto. Fortezza con salita di circa 15 minuti.",
+        quando: "Fortezza al mattino o tardo pomeriggio, per il caldo.",
+        tempo: "2-3 ore",
+        consiglio: "Salire alla fortezza al tramonto e cenare dopo, in un vicolo fuori dalla piazza."
+      },
+      {
+        nome: "Isole Pakleni",
+        testo: "Un arcipelago di isolotti con baie e acque limpide davanti a Hvar città. Si raggiungono con taxi-barca in 10-15 minuti.",
+        come: "Taxi-barca dal porto di Hvar, andata e ritorno a orari.",
+        quando: "Mattina; le baie sono più calme prima di mezzogiorno.",
+        tempo: "mezza giornata",
+        consiglio: "Concordare l'orario di ritorno con il barcaiolo."
+      },
+      {
+        nome: "Piana di Stari Grad",
+        testo: "Un paesaggio agricolo con muretti e campi divisi dai coloni greci nel IV secolo a.C., rimasti quasi uguali; è patrimonio UNESCO.",
+        come: "Da Stari Grad in bici o a piedi, per sentieri tra uliveti e vigneti.",
+        quando: "Primavera e autunno.",
+        tempo: "2-3 ore",
+        consiglio: "Il traghetto da Spalato arriva a Stari Grad, non a Hvar città."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Hvar città al mattino",
+          "Isole Pakleni, mare",
+          "Fortezza al tramonto"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: Hvar città e fortezza",
+          "Giorno 2: Stari Grad e la sua piana, poi Jelsa o Vrboska"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Hvar città",
+        perChi: "chi vuole vita e comodità",
+        testo: "Alberghi, locali e il porto, ma più caro e rumoroso d'estate."
+      },
+      {
+        nome: "Stari Grad e Jelsa",
+        perChi: "chi cerca calma",
+        testo: "Più tranquille e meno care, bus per Hvar città."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Gregada",
+        testo: "Zuppa di pesce con patate e olio, cucina dei pescatori."
+      },
+      {
+        nome: "Lavanda",
+        testo: "Olio essenziale e miele, in vendita ovunque sull'isola."
+      },
+      {
+        nome: "Vini Plavac e Bogdanuša",
+        testo: "Rosso e bianco locali, dalle cantine dell'isola."
+      }
+    ],
+    attenzioni: [
+      "Il traghetto da Spalato porta a Stari Grad; da lì servono bus o taxi per Hvar città.",
+      "In estate le camere nei weekend finiscono presto: prenotare con mesi di anticipo.",
+      "Sugli scogli servono scarpette da mare: i ricci sono comuni."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['croazia-itinerario'],
     imageAlt: 'La baia di Hvar e le isole Pakleni dalla fortezza spagnola',
@@ -158,6 +551,86 @@ export const destinazioniCroazia: Destinazione[] = [
     comeArrivare: 'Catamarano da Spalato, Hvar o Dubrovnik; traghetto da Orebić sulla penisola di Pelješac.',
     periodoMigliore: 'giugno e settembre.',
     erroriDaEvitare: ['Visitarla solo in giornata dalle crociere, perdendo la sera'],
+    luoghi: [
+      {
+        nome: "Città vecchia di Curzola",
+        testo: "Una penisola fortificata dalla pianta «a lisca di pesce», con vicoli pensati per riparare dal vento. Mura veneziane e torri, e la cattedrale di San Marco con l'altare di Tintoretto.",
+        come: "A piedi dal porto, dopo la Porta di Terra.",
+        quando: "Mattina o sera.",
+        tempo: "2 ore",
+        consiglio: "Salire sulla torre della cattedrale per i tetti."
+      },
+      {
+        nome: "Casa di Marco Polo",
+        testo: "Secondo la tradizione locale Marco Polo sarebbe nato a Curzola. Una casa-torre medievale ospita una piccola mostra.",
+        come: "Nel centro storico, con scalini ripidi.",
+        quando: "Mattina.",
+        tempo: "30 minuti",
+        consiglio: "La nascita a Curzola è una tradizione, non un fatto documentato."
+      },
+      {
+        nome: "Moreška",
+        testo: "Una danza con spade che mette in scena la lotta tra mori e cristiani, eseguita a Curzola da secoli. In estate si vede una volta a settimana.",
+        come: "Di sera all'aperto o in sala, con biglietto.",
+        quando: "Estate, ore serali.",
+        tempo: "1 ora",
+        consiglio: "Controllare giorno e orari sul posto: variano."
+      },
+      {
+        nome: "Penisola di Sabbioncello (Pelješac)",
+        testo: "La lunga penisola di fronte, con piccoli produttori di Plavac mali. Da Orebić si arriva a Curzola con il traghetto in circa 15 minuti.",
+        come: "In auto, con visita alle cantine di Dingač e Potomje.",
+        quando: "Primavera e autunno.",
+        tempo: "mezza giornata",
+        consiglio: "Prenotare le degustazioni, soprattutto in alta stagione."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Città vecchia al mattino",
+          "Pranzo sul mare",
+          "Spiaggia di Lumbarda o gita in barca",
+          "Moreška la sera, se in programma"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Città vecchia",
+        perChi: "chi vuole atmosfera",
+        testo: "Camere nel centro storico; la sera c'è musica e passeggio, ma si dorme bene."
+      },
+      {
+        nome: "Lumbarda",
+        perChi: "chi cerca spiagge",
+        testo: "Villaggio con spiagge di sabbia e vigneti, a 6 km."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Grk",
+        testo: "Vino bianco secco dell'area di Lumbarda."
+      },
+      {
+        nome: "Pošip",
+        testo: "Bianco profumato della zona, ottimo con il pesce."
+      },
+      {
+        nome: "Plavac mali",
+        testo: "Rosso potente di Pelješac."
+      },
+      {
+        nome: "Zrnovski makaruli",
+        testo: "Pasta fresca locale, con sugo di carne."
+      }
+    ],
+    attenzioni: [
+      "Il traghetto da Spalato e da Dubrovnik va prenotato in alta stagione.",
+      "Con il vento di bora i collegamenti possono saltare.",
+      "Nei ristoranti sul molo controllare il prezzo del pesce a peso."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['croazia-itinerario'],
     imageAlt: 'La città vecchia di Curzola sulla penisola fortificata',
@@ -191,6 +664,94 @@ export const destinazioniCroazia: Destinazione[] = [
       'Salire sulle mura nelle ore centrali, con caldo e folla delle crociere',
       'Prenotare dentro le mura senza considerare le scale con i bagagli',
       'Arrivare in auto e cercare parcheggio vicino alla città vecchia',
+    ],
+    luoghi: [
+      {
+        nome: "Mura di Dubrovnik",
+        testo: "Un anello di mura medievali lungo quasi due chilometri intorno alla città vecchia, con torri e bastioni. È il percorso più bello per vedere i tetti rossi e il mare.",
+        come: "Si sale dalla Porta Pile o dal lato del porto; il percorso è a senso unico.",
+        quando: "All'apertura o nel tardo pomeriggio: a mezzogiorno è caldo e affollato.",
+        tempo: "1 ora e mezza-2 ore",
+        consiglio: "Portare acqua e un cappello: ci sono pochi punti d'ombra."
+      },
+      {
+        nome: "Stradun e città vecchia",
+        testo: "La via principale in pietra levigata, lunga circa 300 metri, con la fontana di Onofrio, il Palazzo del Rettore e la chiesa di San Biagio. Dopo il terremoto del 1667 fu ricostruita in forme barocche.",
+        come: "A piedi dalla Porta Pile. L'auto non entra.",
+        quando: "Presto la mattina o la sera.",
+        tempo: "2-3 ore",
+        consiglio: "Un giro dopo le 20, quando i gruppi sono ripartiti, è molto diverso."
+      },
+      {
+        nome: "Funivia e monte Srđ",
+        testo: "Dalla stazione sotto le mura la funivia sale in pochi minuti sul monte Srđ, con la vista su tutta la città e le isole.",
+        come: "Dalla stazione vicino a Porta Buža, a piedi.",
+        quando: "Tardo pomeriggio per il tramonto.",
+        tempo: "1-2 ore",
+        consiglio: "Prenotare l'ora di salita al tramonto: le code possono essere lunghe."
+      },
+      {
+        nome: "Ston e le ostriche di Mali Ston",
+        testo: "Le mura di Ston, lunghe circa 5,5 km, sono tra le più lunghe d'Europa. Qui si allevano le ostriche e le cozze di Mali Ston.",
+        come: "In auto da Dubrovnik, circa 1 ora, attraverso il ponte di Pelješac.",
+        quando: "Mattina per le mura e pranzo con le ostriche.",
+        tempo: "mezza giornata",
+        consiglio: "Le mura si salgono a pagamento, ma la camminata è faticosa."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Mura all'apertura",
+          "Stradun e Palazzo del Rettore",
+          "Pranzo fuori dalle mura",
+          "Funivia al tramonto"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: mura, Stradun e funivia",
+          "Giorno 2: Ston e ostriche, oppure Lokrum in barca"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Città vecchia",
+        perChi: "chi vuole stare dentro le mura",
+        testo: "Camere dentro la città, ma rumorosa, con folla di giorno e pochi servizi per le auto."
+      },
+      {
+        nome: "Lapad e Babin Kuk",
+        perChi: "chi cerca spiagge",
+        testo: "Penisole a pochi km, con alberghi, spiagge e bus per il centro."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Ostriche di Mali Ston",
+        testo: "Piccole e salate, allevate nella baia vicina."
+      },
+      {
+        nome: "Rožata",
+        testo: "Crema caramellata della città."
+      },
+      {
+        nome: "Crni rižot",
+        testo: "Risotto nero al nero di seppia."
+      },
+      {
+        nome: "Dingač",
+        testo: "Rosso intenso della penisola di Pelješac."
+      }
+    ],
+    attenzioni: [
+      "In alta stagione la città è molto affollata, con limiti per le navi da crociera: evitare le ore centrali.",
+      "I ristoranti sullo Stradun costano di più: andare nei vicoli laterali o fuori dalle mura.",
+      "Nei parcheggi dentro e fuori città si paga a ore e si applicano multe per chi resta oltre.",
+      "Il ponte di Pelješac evita il passaggio in Bosnia a Neum, quindi nessun controllo di frontiera."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['croazia-itinerario'],

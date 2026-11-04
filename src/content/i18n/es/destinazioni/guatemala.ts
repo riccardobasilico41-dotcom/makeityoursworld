@@ -39,6 +39,100 @@ export const destinazioniGuatemala: Destinazione[] = [
     ],
     miaEsperienza:
       'Llegamos a Antigua a primera hora de la tarde y el primer paseo por las calles empedradas lo hicimos con los volcanes Agua, Fuego y Acatenango al fondo de cada calle. Al día siguiente recorrimos el centro histórico, del Arco de Santa Catalina a las iglesias en ruinas, y subimos al Cerro de la Cruz para ver el panorama. Lo que me queda es el Acatenango: cinco o seis horas de subida entre campos de maíz y pinar, sobre la arena volcánica que cede bajo los pies, el tramo más duro de todo el viaje. El campamento estaba por encima de las nubes, el Fuego empezó a entrar en erupción antes del atardecer y de noche lo veíamos lanzar lava a un par de kilómetros sin salir del saco de dormir, con un frío cercano a cero. Por la mañana bajamos más deslizándonos por la arena que caminando. La lista de cosas hechas en Centroamérica empieza ahí.',
+      "luoghi": [
+        {
+          "nome": "Arco de Santa Catalina",
+          "testo": "El arco amarillo del siglo XVII en la 5ª Avenida Norte, con el volcán de Agua enmarcado al fondo. Es la foto símbolo de la ciudad.",
+          "come": "A pie desde la plaza central, 5 minutos. Entrada libre.",
+          "quando": "Mañana temprano, sin multitudes y con el volcán despejado.",
+          "tempo": "15 minutos"
+        },
+        {
+          "nome": "Convento de Santa Clara y La Merced",
+          "testo": "Iglesias y conventos coloniales arruinados por el terremoto de 1773, que obligó a trasladar la capital. Antigua es patrimonio UNESCO por este conjunto.",
+          "come": "A pie por el centro. Pequeña entrada para las ruinas de Santa Clara; La Merced es una iglesia aún en uso.",
+          "quando": "Mañana; la luz de la tarde es buena en la fachada de La Merced.",
+          "tempo": "2-3 horas para ambas",
+          "url": "https://inguat.gob.gt/"
+        },
+        {
+          "nome": "Cerro de la Cruz",
+          "testo": "Un mirador en la colina con la ciudad en primer plano y los volcanes Agua, Fuego y Acatenango detrás. Se llega con una subida corta.",
+          "come": "A pie en 20-30 minutos desde el centro, pero mejor en grupo o con la policía turística, presente en la zona.",
+          "quando": "Mañana temprano o última hora de la tarde.",
+          "tempo": "1 hora",
+          "consiglio": "No subir solo ni llevar objetos de valor: la zona ha tenido problemas de seguridad en el pasado."
+        },
+        {
+          "nome": "Volcán Acatenango",
+          "testo": "Una subida con campamento sobre las nubes, frente al Fuego en erupción. El tramo más duro del viaje por Guatemala.",
+          "come": "Tour de dos días desde Antigua con guía, tienda y comidas. La caminata es de 5-6 horas de subida entre milpas, pinar y arena volcánica.",
+          "quando": "Estación seca (noviembre-abril); a la mañana siguiente se baja por la arena.",
+          "tempo": "2 días, 1 noche",
+          "consiglio": "El campamento está casi a cero de noche: guantes, gorro, capas de abrigo. La bajada es más deslizarse que caminar."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 día",
+          "tappe": [
+            "Mañana: Arco de Santa Catalina y ruinas de La Merced",
+            "Mercado municipal y almuerzo",
+            "Tarde: Convento de Santa Clara",
+            "Atardecer en el Cerro de la Cruz, con la policía turística"
+          ]
+        },
+        {
+          "titolo": "2 días",
+          "tappe": [
+            "Día 1: centro histórico y Cerro de la Cruz",
+            "Día 2: Acatenango (2 días en total con la noche en el campamento)"
+          ]
+        },
+        {
+          "titolo": "3 días",
+          "tappe": [
+            "Día 1: ciudad y ruinas",
+            "Días 2-3: Acatenango con noche en el campamento",
+            "Si queda tiempo, un taller de chocolate o jade en la ciudad"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Centro histórico",
+          "perChi": "quien quiere ir a pie a todo",
+          "testo": "Calles empedradas, todo cerca, pero ruido el fin de semana y precios más altos."
+        },
+        {
+          "nome": "Zonas sobre la 5ª Calle y alrededor de los conventos",
+          "perChi": "quien busca más calma",
+          "testo": "Más tranquilas de noche; 10-15 minutos a pie al centro."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Pepián",
+          "testo": "Guiso de carne con semillas de calabaza, ajonjolí y chile, el plato nacional. En comedores y restaurantes típicos."
+        },
+        {
+          "nome": "Tamales",
+          "testo": "El sábado es el día de los tamales de colores envueltos en hojas de plátano. En mercados y casas."
+        },
+        {
+          "nome": "Hilachas",
+          "testo": "Carne deshilachada en salsa de tomate y tomatillo, con papas. Plato de familia."
+        },
+        {
+          "nome": "Chocolate guatemalteco",
+          "testo": "Tazas de chocolate y tabletas elaboradas en la ciudad, vendidas en tiendas especializadas."
+        }
+      ],
+      "attenzioni": [
+        "Subida al Cerro de la Cruz: mejor en grupo o con la policía turística.",
+        "Para el Acatenango elegir operadores fiables con equipo adecuado: de noche la temperatura baja a cero.",
+        "El Fuego está activo: seguir siempre las indicaciones del guía y los boletines de protección civil (CONRED)."
+      ],
     esperienzeSlugs: ['trekking-acatenango'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Calle empedrada de Antigua Guatemala con casas coloniales y el volcán de Agua al fondo',
@@ -84,6 +178,103 @@ export const destinazioniGuatemala: Destinazione[] = [
     ],
     miaEsperienza:
       'Panajachel es el nudo de transportes, con la Calle Santander llena de artesanía, pero quedarse solo allí es el error más común: el lago empieza cuando uno se sube a una lancha. En una jornada tocamos San Juan la Laguna, con las cooperativas textiles y los murales, San Marcos, el pueblo del yoga, y San Pedro, y cada diez minutos de barca cambiaba el ambiente. Al día siguiente nos levantamos a las cuatro para la Nariz del Indio y luego cogimos la lancha a Santiago Atitlán, donde las mujeres todavía llevan el tocoyal enrollado en la cabeza. Aprendimos rápido a movernos por la mañana, porque desde primera hora de la tarde se levanta el Xocomil y las travesías se agitan. El amanecer desde la Nariz del Indio solo merece el madrugón con el cielo despejado: en la estación de lluvias se sube en la oscuridad para mirar una nube.',
+      "luoghi": [
+        {
+          "nome": "San Juan la Laguna",
+          "testo": "El pueblo más cuidado del lago, con cooperativas textiles de mujeres, murales en las fachadas y talleres de arte.",
+          "come": "En lancha pública desde Panajachel o San Pedro (unos 30-45 minutos), luego a pie por las callejuelas.",
+          "quando": "Mañana, cuando las cooperativas están abiertas.",
+          "tempo": "2-3 horas",
+          "consiglio": "Comprar en las cooperativas, donde lo recaudado va a las tejedoras."
+        },
+        {
+          "nome": "San Marcos la Laguna",
+          "testo": "El pueblo del yoga y las prácticas holísticas. En la orilla está la plataforma de saltos del Cerro Tzankujil.",
+          "come": "En lancha desde Panajachel o San Pedro.",
+          "quando": "Mañana, con el lago más calmado.",
+          "tempo": "Media jornada"
+        },
+        {
+          "nome": "Santiago Atitlán",
+          "testo": "El pueblo más grande y tradicional, donde las mujeres llevan el tocoyal enrollado en la cabeza y se venera a Maximón, figura sincrética.",
+          "come": "En lancha pública desde Panajachel, unos 30-40 minutos.",
+          "quando": "Mañana.",
+          "tempo": "Media jornada",
+          "consiglio": "Antes de fotografiar a personas o la figura de Maximón, pedir siempre permiso y dejar una pequeña ofrenda."
+        },
+        {
+          "nome": "Indian Nose (Rostro Maya)",
+          "testo": "Un mirador a 3.000 metros sobre San Juan la Laguna, para el amanecer sobre el lago y los volcanes.",
+          "come": "Despertar sobre las 4, salida en pick-up y caminata de aproximadamente una hora en la oscuridad con guía.",
+          "quando": "Amanecer, con cielo despejado.",
+          "tempo": "Media mañana",
+          "consiglio": "En temporada de lluvias se sube a oscuras para mirar una nube: consultar el pronóstico."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 día",
+          "tappe": [
+            "Mañana temprano: Indian Nose o lancha a San Juan la Laguna",
+            "San Marcos para un salto y almuerzo",
+            "Regreso antes del viento de la tarde (Xocomil)"
+          ]
+        },
+        {
+          "titolo": "2 días",
+          "tappe": [
+            "Día 1: San Juan la Laguna, San Marcos y San Pedro en lancha",
+            "Día 2: Indian Nose al amanecer, luego Santiago Atitlán"
+          ]
+        },
+        {
+          "titolo": "3 días",
+          "tappe": [
+            "Días 1 y 2 como arriba",
+            "Día 3: reserva natural de Atitlán cerca de Panajachel, o día de descanso en el lago"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Panajachel",
+          "perChi": "nudo de transportes, primeras noches",
+          "testo": "Servicios, restaurantes, la Calle Santander llena de artesanía. Menos ambiente que el resto del lago."
+        },
+        {
+          "nome": "San Pedro la Laguna",
+          "perChi": "presupuesto y vida nocturna",
+          "testo": "Barato, joven, ruidoso de noche."
+        },
+        {
+          "nome": "San Marcos y San Juan",
+          "perChi": "calma y bienestar",
+          "testo": "Más tranquilos y más caros; para yoga, silencio y arte."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Pepián y caldo de pollo",
+          "testo": "Platos calientes en los comedores del lago, tras una mañana en barca."
+        },
+        {
+          "nome": "Pescado del lago",
+          "testo": "Tilapia y black bass fritos, a la orilla en Panajachel y Santiago."
+        },
+        {
+          "nome": "Tortillas y frijoles",
+          "testo": "La base de cada comida, en los comedores de los pueblos."
+        },
+        {
+          "nome": "Café de Atitlán",
+          "testo": "Café cultivado en las laderas del lago, para probar en pequeños cafés locales."
+        }
+      ],
+      "attenzioni": [
+        "Moverse por el lago por la mañana: desde primera hora de la tarde se levanta el Xocomil y las travesías son movidas.",
+        "Usar las lanchas públicas oficiales y acordar el precio antes de subir.",
+        "En los senderos entre pueblos, sobre todo en San Pedro, ha habido robos: caminar en grupo y de día."
+      ],
     esperienzeSlugs: ['lance-villaggi-atitlan'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Las aguas azules del lago de Atitlán con los volcanes al fondo, vistas desde San Marcos La Laguna, Guatemala',
@@ -129,6 +320,107 @@ export const destinazioniGuatemala: Destinazione[] = [
     ],
     miaEsperienza:
       'Salimos de Flores hacia las tres de la madrugada y caminamos en la oscuridad hasta el Templo IV con el guía. El amanecer, en la estación seca, suele quedar velado por la bruma; lo que merece el madrugón es el sonido, el coro de monos aulladores y pájaros que se despierta con la primera claridad, antes de que lleguen los autocares. El resto del día lo pasamos entre la Gran Plaza, los Templos I y II y el Mundo Perdido, caminando kilómetros bajo la bóveda del bosque: es lo que distingue a Tikal de los otros sitios mayas. Flores, adonde habíamos llegado la tarde anterior, es una isla de casas de colores con un paseo tranquilo junto al lago, que vive casi solo del turismo hacia Tikal.',
+      "luoghi": [
+        {
+          "nome": "Gran Plaza y Templos I y II",
+          "testo": "El corazón de Tikal: los Templos I (del Gran Jaguar) y II se enfrentan en la plaza ceremonial, con acrópolis a los lados. Patrimonio UNESCO dentro del Parque Nacional Tikal.",
+          "come": "Desde la entrada del parque se camina por la selva; entrada y senderos suman kilómetros. Se recomienda visita con guía, también por la fauna.",
+          "quando": "El parque abre al amanecer; mañana temprano por el fresco y los animales.",
+          "tempo": "3-4 horas",
+          "url": "https://inguat.gob.gt/"
+        },
+        {
+          "nome": "Templo IV",
+          "testo": "El templo más alto del sitio, con una plataforma de madera sobre el dosel de la selva y vista de las cimas de los otros templos.",
+          "come": "Subida por escaleras de madera al final del recorrido, con linterna si se sube para el amanecer.",
+          "quando": "Amanecer o última hora de la tarde.",
+          "tempo": "1 hora",
+          "consiglio": "En estación seca el amanecer suele estar velado por la bruma. Lo que justifica madrugar es el coro de monos aulladores y aves antes de que lleguen los autocares."
+        },
+        {
+          "nome": "Mundo Perdido",
+          "testo": "El complejo más antiguo del sitio, con una pirámide y plataformas que se ven desde lo alto de una escalera empinada.",
+          "come": "A pie desde el parque, después de la Gran Plaza.",
+          "quando": "Última hora de la tarde para el atardecer, si se permite el acceso.",
+          "tempo": "1-1,5 horas"
+        },
+        {
+          "nome": "Isla de Flores",
+          "testo": "Una isla de casas coloridas en el lago Petén Itzá, con malecón tranquilo. Vive casi solo del turismo hacia Tikal.",
+          "come": "Puente peatonal desde Santa Elena. 15 minutos a pie de un extremo al otro.",
+          "quando": "Noche, para cenar y pasear por el malecón.",
+          "tempo": "Media jornada"
+        },
+        {
+          "nome": "Yaxhá",
+          "testo": "Un sitio maya menos visitado, con vista al lago y atardecer desde la pirámide, a una hora de Flores.",
+          "come": "Tour desde Flores o taxi; es un sitio grande, con pocos turistas.",
+          "quando": "Última hora de la tarde.",
+          "tempo": "Media jornada",
+          "url": "https://inguat.gob.gt/",
+          "consiglio": "Si Tikal está llena, Yaxhá merece el desvío."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 día",
+          "tappe": [
+            "Salida de Flores a las 3 de la madrugada para el Templo IV al amanecer",
+            "Gran Plaza, Templos I y II",
+            "Mundo Perdido",
+            "Regreso a Flores por la tarde, cena en el malecón"
+          ]
+        },
+        {
+          "titolo": "2 días",
+          "tappe": [
+            "Día 1: llegada a Flores, malecón y cena",
+            "Día 2: Tikal al amanecer y visita completa; tarde libre"
+          ]
+        },
+        {
+          "titolo": "3 días",
+          "tappe": [
+            "Días 1-2 como arriba",
+            "Día 3: Yaxhá al atardecer, o la frontera con Belice"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Isla de Flores",
+          "perChi": "ambiente y comodidad",
+          "testo": "Restaurantes y hoteles a orillas del lago, calles estrechas. Poco ruido, pero Tikal está a 1 hora en coche."
+        },
+        {
+          "nome": "El Remate",
+          "perChi": "quien quiere más calma y naturaleza",
+          "testo": "En el lago Petén Itzá, a 30 minutos de Tikal: pequeñas cabañas y el atardecer en el lago."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Pepián y caldo de gallina",
+          "testo": "Platos típicos guatemaltecos, en los comedores de Flores."
+        },
+        {
+          "nome": "Pescado del lago Petén Itzá",
+          "testo": "Frito o a la plancha en los malecones."
+        },
+        {
+          "nome": "Tamales de Petén",
+          "testo": "De maíz y carne, envueltos en hojas de plátano."
+        },
+        {
+          "nome": "Café y dulces de maíz",
+          "testo": "Para el desayuno, en pequeños locales de la isla."
+        }
+      ],
+      "attenzioni": [
+        "Preguntar siempre qué incluye el tour del amanecer: la entrada al parque suele ir aparte.",
+        "En temporada de lluvias el amanecer a menudo no se ve: valorar si merece madrugar.",
+        "En el sitio se camina kilómetros bajo la selva: llevar agua, repelente y zapatos cerrados."
+      ],
     esperienzeSlugs: ['alba-tikal'],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Pirámide escalonada del Mundo Perdido entre los árboles del sitio maya de Tikal, Guatemala',
@@ -171,6 +463,91 @@ export const destinazioniGuatemala: Destinazione[] = [
     ],
     miaEsperienza:
       "Llegar es la mitad del relato: de Panajachel a Lanquín fue la jornada de traslado más larga del viaje, con el último tramo por un camino de tierra que baja lento al valle. Al día siguiente remontamos las piscinas de abajo hacia arriba y luego subimos al Mirador: la subida es empinada, pero sin la vista desde arriba no se entiende cómo funciona el lugar, con el río que desaparece bajo el puente de roca y reaparece trescientos metros más allá. Por la tarde entramos en las cuevas de K'anba, con una vela en la mano y algunos tramos a nado en la oscuridad: lo menos turístico de la zona y lo que más recuerdo. Quien sufra claustrofobia puede saltárselas sin arrepentirse.",
+      "luoghi": [
+        {
+          "nome": "Pozas naturales de Semuc Champey",
+          "testo": "Una serie de pozas turquesas en terrazas, formadas por la caliza, sobre el río Cahabón que corre bajo el puente de roca. Monumento natural con entrada de pago.",
+          "come": "Desde Lanquín 30 minutos en pick-up por un camino de tierra. Desde la entrada se camina hasta las pozas.",
+          "quando": "Mañana, con menos gente y agua más clara; evitar tras lluvias fuertes, cuando el agua se enturbia.",
+          "tempo": "2-3 horas",
+          "consiglio": "Se sube desde abajo hacia arriba y luego al Mirador: así se entiende cómo funciona el lugar."
+        },
+        {
+          "nome": "El Mirador",
+          "testo": "El mirador sobre las pozas. Desde aquí se ve cómo el río desaparece bajo el puente de roca y reaparece trescientos metros más allá.",
+          "come": "Sendero empinado de 30-45 minutos desde la entrada, con escaleras y barro.",
+          "quando": "Mañana; evitar las horas de lluvia, cuando los escalones resbalan.",
+          "tempo": "1-1,5 horas",
+          "consiglio": "Zapatos con agarre y agua: la subida es dura, pero sin la vista desde arriba se pierde el sentido del lugar."
+        },
+        {
+          "nome": "Cuevas de K'anba",
+          "testo": "Una cueva con pasillos inundados que se recorren con una vela en la mano y algunos tramos a nado en la oscuridad. Lo menos turístico de la zona.",
+          "come": "Con guía, a poca distancia de la entrada del monumento natural.",
+          "quando": "Después de visitar las pozas, por la tarde.",
+          "tempo": "1-1,5 horas",
+          "consiglio": "Quien sufra de claustrofobia que se las salte: los pasos son estrechos y oscuros."
+        },
+        {
+          "nome": "Lanquín",
+          "testo": "El pueblo base, último puesto antes de Semuc Champey, con hostales y una sola calle principal.",
+          "come": "Desde Cobán o Ciudad de Guatemala en shuttle, 8-10 horas desde Antigua o Atitlán.",
+          "quando": "Llegar el día anterior.",
+          "tempo": "Una noche"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 día",
+          "tappe": [
+            "Mañana: pozas y Mirador",
+            "Almuerzo",
+            "Tarde: cuevas de K'anba"
+          ]
+        },
+        {
+          "titolo": "2 días",
+          "tappe": [
+            "Día 1: llegada a Lanquín, parada en la entrada del parque",
+            "Día 2: pozas, Mirador, cuevas; regreso en shuttle al día siguiente"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Lanquín",
+          "perChi": "todos",
+          "testo": "El pueblo base: pocos alojamientos, hostales y casas de huéspedes sencillas, electricidad y conexión limitadas."
+        },
+        {
+          "nome": "Alrededores del río Cahabón",
+          "perChi": "quien busca naturaleza",
+          "testo": "Algunos lodges en el río, en plena selva, pero lejos de los servicios."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Caldo de pollo y frijoles",
+          "testo": "Cocina sencilla en los comedores del pueblo."
+        },
+        {
+          "nome": "Tortillas y huevos",
+          "testo": "El desayuno estándar de hostales y comedores."
+        },
+        {
+          "nome": "Cardamomo",
+          "testo": "Alta Verapaz es zona productora: se encuentra en infusiones y dulces."
+        },
+        {
+          "nome": "Fruta tropical",
+          "testo": "Plátanos, papaya y piña, baratos en los mercadillos."
+        }
+      ],
+      "attenzioni": [
+        "Llegar requiere un largo traslado: planificar al menos una noche en Lanquín.",
+        "No dejar objetos de valor sin vigilancia en las pozas ni en los senderos.",
+        "Tras lluvias fuertes las pozas pierden color y algunos tramos se vuelven peligrosos: preguntar en el pueblo antes de salir."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'Las piscinas naturales turquesa escalonadas de Semuc Champey vistas desde arriba entre la selva, Guatemala',
@@ -210,6 +587,85 @@ export const destinazioniGuatemala: Destinazione[] = [
     ],
     miaEsperienza:
       "Llegamos desde Antigua, tres horas de shuttle, en uno de los dos días de mercado: fuera del jueves y el domingo el pueblo está tranquilo y es poco interesante. Anduvimos entre los puestos de tejidos, máscaras y cerámicas y comimos de pie en los puestos de la parte alimentaria, en las calles laterales. Lo que me ha quedado, sin embargo, es la escalinata de Santo Tomás: en los escalones de una iglesia católica todavía se queman copal y ofrendas según ritos k'iche'. Es un rito de verdad y se mira con respeto, sin fotografiar a las personas sin permiso. A última hora de la tarde seguimos hacia el lago de Atitlán.",
+      "luoghi": [
+        {
+          "nome": "Mercado de Chichicastenango",
+          "testo": "Uno de los mercados más grandes de Centroamérica: textiles, máscaras, cerámicas y productos locales en la plaza, comida y flores en las calles laterales.",
+          "come": "En el centro del pueblo, a pie. Shuttle desde Antigua (unas 3 horas) o desde Atitlán.",
+          "quando": "Jueves y domingo. Fuera de esos días el pueblo está tranquilo y es poco interesante.",
+          "tempo": "3-4 horas",
+          "consiglio": "Regatear con calma. Comer de pie en los puestos de la parte de alimentos, en las calles laterales."
+        },
+        {
+          "nome": "Iglesia de Santo Tomás",
+          "testo": "Iglesia católica en la plaza principal, en cuya escalinata se queman copal y ofrendas según ritos k'iche'. Un rito real y no un espectáculo.",
+          "come": "A pie desde la plaza. Se puede mirar desde la escalinata, pero el interior tiene sus propias reglas.",
+          "quando": "Días de mercado.",
+          "tempo": "1 hora",
+          "consiglio": "No fotografiar a las personas sin permiso y mantener distancia de los ritos."
+        },
+        {
+          "nome": "Cementerio de Chichicastenango",
+          "testo": "Poco fuera del centro, con tumbas pintadas de colores vivos y un ambiente muy distinto al de un cementerio europeo.",
+          "come": "A pie desde el centro, unos 10 minutos.",
+          "quando": "Mañana.",
+          "tempo": "45 minutos",
+          "consiglio": "Respeto y discreción: es un lugar en uso, no un escenario."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 día",
+          "tappe": [
+            "Llegada por la mañana con el mercado ya activo",
+            "Almuerzo en los puestos de la parte de alimentos",
+            "Santo Tomás y cementerio a primera hora de la tarde",
+            "Salida a última hora de la tarde hacia Atitlán"
+          ]
+        },
+        {
+          "titolo": "2 días",
+          "tappe": [
+            "Día 1: mercado, iglesia, cementerio",
+            "Noche en el pueblo, regreso al día siguiente, cuando está tranquilo"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Centro",
+          "perChi": "quien duerme en el sitio",
+          "testo": "Pequeños hoteles y posadas en la plaza, ruidosos la noche antes del mercado."
+        },
+        {
+          "nome": "De excursión desde Antigua o Atitlán",
+          "perChi": "la mayoría",
+          "testo": "El pueblo se ve bien en un día: se llega por la mañana y se sale por la tarde."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Pepián y caldo de pollo",
+          "testo": "Platos calientes en la parte de alimentos del mercado."
+        },
+        {
+          "nome": "Tamales",
+          "testo": "De maíz, en los puestos de las calles laterales."
+        },
+        {
+          "nome": "Atol",
+          "testo": "Bebida caliente de maíz, para la mañana fría del altiplano."
+        },
+        {
+          "nome": "Fruta y flores",
+          "testo": "Los puestos de flores en la escalinata forman parte del color del mercado."
+        }
+      ],
+      "attenzioni": [
+        "El mercado se hace solo jueves y domingo: planificar con antelación.",
+        "Carteristas entre la multitud: llevar los objetos de valor delante.",
+        "Respetar los ritos k'iche' en la escalinata: sin fotos sin permiso."
+      ],
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],
     imageAlt: 'El arco decorado con mosaico de colores en una calle empedrada de Chichicastenango, Guatemala',

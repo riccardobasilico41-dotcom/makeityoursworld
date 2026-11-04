@@ -240,6 +240,115 @@ export const destinazioniFrancia: Destinazione[] = [
     ],
     miaEsperienza:
       'In due anni ad Antibes ho imparato una cosa che le guide non scrivono: la Costa Azzurra ha due stagioni, ed è il contrario di come la si immagina. Da giugno a settembre è un posto difficile. Il traffico sulla costiera non si ferma mai, trovare parcheggio è una battaglia quotidiana, le spiagge sono piene e i prezzi salgono ovunque. Da ottobre a maggio è uno dei posti più piacevoli d\'Europa: c\'è il sole, i sentieri sul mare sono deserti, i mercati tornano a essere mercati di quartiere, e a febbraio la mimosa è in fiore mentre a un\'ora e mezza di macchina si scia. Chi ci vive, in agosto, parte o sale nell\'entroterra. La seconda cosa è il treno. La linea costiera passa ogni pochi minuti, costa pochi euro, collega tutto da Cannes a Mentone e non conosce ingorghi, eppure quasi nessun turista lo usa: noleggiano l\'auto e passano la vacanza a cercare posto. La terza è che la costa si esaurisce in fretta, l\'entroterra no. Dieci chilometri più in là ci sono villaggi in pietra dove si mangia spendendo la metà, e a un\'ora e mezza c\'è un parco nazionale con i camosci. E poi il Cap d\'Antibes, che finisci per rifare cento volte: un sentiero pubblico e gratuito che gira la punta del capo sul mare, con le onde sotto e le ville nascoste dietro i muri. D\'inverno non c\'è nessuno.',
+    luoghi: [
+      {
+        nome: "Nizza: Vieux Nice e Cours Saleya",
+        testo: "Il centro storico color ocra, fra vicoli stretti, chiese barocche e il mercato dei fiori e della frutta sul Cours Saleya. Da qui si sale alla Colline du Château per la vista sulla Promenade des Anglais.",
+        come: "A piedi dalla stazione tram o dal lungomare. La salita alla collina è gratuita, a piedi o con l'ascensore.",
+        quando: "Il mercato è la mattina; il lunedì sul Cours Saleya si tiene il mercato delle antichità.",
+        tempo: "mezza giornata",
+        consiglio: "Per un pranzo economico: socca e pissaladière nelle botteghe del Vieux Nice."
+      },
+      {
+        nome: "Antibes e Cap d'Antibes",
+        testo: "Città vecchia dentro i bastioni, con il Marché Provençal al mattino e il Musée Picasso nel Château Grimaldi. Sul Cap parte un sentiero costiero gratuito che gira la punta, vicino al mare.",
+        come: "Antibes ha la stazione dei treni; il sentiero parte dalla spiaggia della Garoupe, a 3 km dal centro.",
+        quando: "Mercato di mattina, sentiero con la luce del pomeriggio.",
+        tempo: "mezza giornata per ciascuno",
+        consiglio: "Il sentiero è gratuito e quasi deserto fuori stagione: scarpe chiuse, in alcuni punti è roccioso."
+      },
+      {
+        nome: "Èze e Sentier Nietzsche",
+        testo: "Un borgo medievale arroccato a 427 metri, con un giardino esotico sulla cima. Dal mare sale il sentiero Nietzsche, ripido, in circa 1 ora e mezza.",
+        come: "Bus 82 da Nizza o treno fino a Èze-sur-Mer e poi sentiero.",
+        quando: "Mattina presto in estate.",
+        tempo: "2-3 ore",
+        consiglio: "Il sentiero si fa in salita al mattino: scendere con il bus."
+      },
+      {
+        nome: "Villefranche e Cap Ferrat",
+        testo: "La rada profonda di Villefranche, con la cappella di Saint-Pierre decorata da Cocteau, e a Saint-Jean-Cap-Ferrat la Villa Ephrussi de Rothschild, con giardini e vista su due baie.",
+        come: "Bus 15 da Nizza o treno fino a Villefranche.",
+        quando: "Mattina.",
+        tempo: "mezza giornata",
+        consiglio: "Il sentiero costiero di Cap Ferrat è pianeggiante e dura circa 2 ore."
+      },
+      {
+        nome: "Isole di Lerino",
+        testo: "Di fronte a Cannes: Sainte-Marguerite con il Fort Royal e la cella della «Maschera di ferro», e Saint-Honorat, dove vivono i monaci cistercensi.",
+        come: "Traghetti dal porto di Cannes, circa 15 minuti.",
+        quando: "Primavera e autunno; in estate le barche sono piene.",
+        tempo: "mezza giornata",
+        consiglio: "Portare cibo: ci sono pochi punti ristoro."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Vieux Nice e Cours Saleya al mattino",
+          "Colline du Château",
+          "Pranzo con socca",
+          "Tramonto sulla Promenade des Anglais"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: Nizza, Cours Saleya, Colline du Château, Musei Matisse o Chagall",
+          "Giorno 2: Villefranche, Cap Ferrat e Èze"
+        ]
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorno 1: Nizza",
+          "Giorno 2: Villefranche, Cap Ferrat, Èze",
+          "Giorno 3: Antibes, Cap d'Antibes e le isole di Lerino da Cannes"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Nizza",
+        perChi: "chi non ha l'auto",
+        testo: "Treni e tram per tutta la costa, ristoranti e musei. Più caro in estate; il centro è rumoroso la sera."
+      },
+      {
+        nome: "Antibes",
+        perChi: "chi vuole una città di mare più raccolta",
+        testo: "Mura, porto e spiagge, con treno diretto per Nizza e Cannes. Alloggi cari in luglio e agosto."
+      },
+      {
+        nome: "Menton",
+        perChi: "chi cerca prezzi più bassi e calma",
+        testo: "Verso il confine con l'Italia, più tranquilla e meno cara. Il treno per Nizza impiega circa 30 minuti."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Socca",
+        testo: "Frittella di farina di ceci cotta nel forno a legna, il cibo di strada di Nizza."
+      },
+      {
+        nome: "Pissaladière",
+        testo: "Focaccia con cipolle caramellate, acciughe e olive."
+      },
+      {
+        nome: "Salade niçoise",
+        testo: "Pomodori, uova, tonno, acciughe e olive, senza patate nella versione tradizionale."
+      },
+      {
+        nome: "Pan bagnat",
+        testo: "Panino rotondo con gli stessi ingredienti della salade niçoise."
+      }
+    ],
+    attenzioni: [
+      "Da giugno a settembre il traffico sulla costa è lento e i parcheggi sono pieni: meglio treno e bus.",
+      "Furti di borse e telefoni sul lungomare e nei treni locali: tenere tutto davanti.",
+      "Sul lungomare di Nizza lasciare l'auto vuota di oggetti visibili: i furti sono frequenti.",
+      "Le spiagge libere sono poche e piccole: nelle spiagge private lettino e ombrellone costano molto."
+    ],
     esperienzeSlugs: ['sentiero-cap-antibes', 'mercato-provenzale-antibes', 'museo-picasso-antibes', 'sentiero-nietzsche-eze', 'fondation-maeght', 'isole-lerino'],
     tripSlugs: ['costa-azzurra'],
     imageAlt: 'Il bastione di pietra della città vecchia di Antibes affacciato sul mare sotto un cielo limpido, Costa Azzurra',
@@ -438,6 +547,129 @@ export const destinazioniFrancia: Destinazione[] = [
     ],
     miaEsperienza:
       'A Parigi i primi due giorni li ho passati nei posti che conoscevo già prima di arrivare, e il viaggio vero è cominciato il terzo. Il momento in cui la città cambia è quasi sempre lo stesso: esci da un museo grande, sei stanco, prendi una direzione a caso invece di andare verso il monumento successivo e finisci in un quartiere dove non c\'è niente da vedere. Belleville, il Canal Saint-Martin, la parte alta del decimo: la gente seduta sul bordo dell\'acqua, la fila davanti alle boulangerie, nessuno che fotografa niente. Da lì in poi la città funziona. La seconda cosa che ho imparato è la gestione del tempo. Sulla mappa della metropolitana tutto sembra vicino, perché comprime le distanze e inganna, e tre grandi musei in un giorno vogliono dire non vederne nessuno. Due cose grandi al giorno, mai tre. Poi ci sono le regole piccole che cambiano il rapporto con la città: si dice bonjour entrando ovunque, il caffè si beve al banco, dove costa la metà, e la Tour Eiffel si guarda da lontano. Da lassù al panorama manca proprio la torre.',
+    luoghi: [
+      {
+        nome: "Louvre",
+        testo: "Il museo più grande del mondo, in un palazzo reale. Il percorso essenziale tocca la Vittoria di Samotracia, la Venere di Milo e la Gioconda. Impossibile vederlo tutto: meglio scegliere due o tre ali.",
+        come: "Metro Palais Royal-Musée du Louvre. Si entra con biglietto a orario prenotato online; ingresso anche dalla Pyramide, Passage Richelieu o dal Carrousel.",
+        quando: "Chiuso il martedì. Aperto fino a sera il venerdì. Arrivare all'apertura o in tardo pomeriggio.",
+        tempo: "3-4 ore",
+        url: "https://www.louvre.fr/",
+        consiglio: "La Gioconda è nella sala più affollata: andarci subito all'apertura o a fine giornata."
+      },
+      {
+        nome: "Musée d'Orsay",
+        testo: "Una vecchia stazione ferroviaria del 1900 trasformata in museo, con la più grande raccolta di impressionisti al mondo. Le sale di Monet, Renoir, Degas e Van Gogh sono all'ultimo piano.",
+        come: "Metro Solférino o RER C Musée d'Orsay. Biglietto con orario prenotato.",
+        quando: "Chiuso il lunedì.",
+        tempo: "2-3 ore",
+        url: "https://www.musee-orsay.fr/",
+        consiglio: "Dall'orologio gigante dell'ultimo piano si vede il Sacré-Cœur."
+      },
+      {
+        nome: "Sainte-Chapelle",
+        testo: "Una cappella gotica del Duecento con quindici vetrate alte quindici metri, costruita per custodire le reliquie della Passione. Con il sole di mattina il colore è unico.",
+        come: "Sull'Île de la Cité, dentro il Palais de Justice; si passa un controllo di sicurezza.",
+        quando: "Mattina, con il sole che attraversa le vetrate.",
+        tempo: "45 minuti",
+        url: "https://www.sainte-chapelle.fr/",
+        consiglio: "Prenotare l'orario: le file sono lunghe."
+      },
+      {
+        nome: "Notre-Dame",
+        testo: "Riaperta nel dicembre 2024 dopo l'incendio del 2019. L'interno, ripulito, è chiaro e luminoso. L'ingresso è gratuito.",
+        come: "Sull'Île de la Cité. Si può prenotare la visita online per saltare la coda.",
+        quando: "Mattina presto.",
+        tempo: "1 ora",
+        url: "https://www.notredamedeparis.fr/",
+        consiglio: "Le torri e il tesoro hanno biglietti a parte."
+      },
+      {
+        nome: "Tour Eiffel",
+        testo: "Il monumento simbolo di Parigi, 330 metri di ferro. La salita in ascensore o a piedi arriva al secondo piano o alla cima.",
+        come: "Metro Bir-Hakeim o RER C Champ de Mars. Biglietti online con orario.",
+        quando: "Tramonto per la luce; i punti panoramici migliori per guardarla sono il Trocadéro e l'Arc de Triomphe.",
+        tempo: "2-3 ore",
+        url: "https://www.toureiffel.paris/",
+        consiglio: "Chi vuole la vista senza fila può salire sulla Tour Montparnasse."
+      },
+      {
+        nome: "Reggia di Versailles",
+        testo: "La residenza dei re di Francia fino al 1789, con la Galleria degli Specchi, gli appartamenti reali e i giardini. Il parco è immenso.",
+        come: "RER C da Parigi a Versailles-Château, circa 40 minuti.",
+        quando: "Chiusa il lunedì. Mattina all'apertura; i giardini musicali in alcuni giorni.",
+        tempo: "giornata intera",
+        url: "https://www.chateauversailles.fr/",
+        consiglio: "Prenotare l'ingresso e portare un pranzo al sacco per il parco."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Notre-Dame e Sainte-Chapelle",
+          "Pranzo sull'Île Saint-Louis",
+          "Louvre nel pomeriggio",
+          "Tramonto alla Tour Eiffel"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: Île de la Cité, Louvre, Tuileries",
+          "Giorno 2: Orsay, Montmartre e Sacré-Cœur"
+        ]
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorno 1: Île de la Cité e Louvre",
+          "Giorno 2: Orsay, Eiffel e Champs-Élysées",
+          "Giorno 3: Versailles o Canal Saint-Martin e Belleville"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Marais e Île Saint-Louis",
+        perChi: "chi vuole un quartiere vivace e centrale",
+        testo: "A piedi da molti musei, con ristoranti e vicoli. Più caro e affollato nel fine settimana."
+      },
+      {
+        nome: "Quartiere Latino e Saint-Germain",
+        perChi: "chi vuole un'atmosfera classica",
+        testo: "Caffè, librerie e metro vicina. I prezzi sono alti e la sera c'è rumore."
+      },
+      {
+        nome: "Canal Saint-Martin",
+        perChi: "chi cerca locali e meno turisti",
+        testo: "Quartiere giovane con bar e botteghe, a 20 minuti dal centro."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Croissant e pain au chocolat",
+        testo: "Dalle boulangerie di quartiere, appena sfornati."
+      },
+      {
+        nome: "Croque-monsieur",
+        testo: "Toast con prosciutto e formaggio, da caffè e brasserie."
+      },
+      {
+        nome: "Crêpes",
+        testo: "Dolci o salate, nei crêperie bretoni a Montparnasse."
+      },
+      {
+        nome: "Soupe à l'oignon",
+        testo: "Zuppa di cipolle gratinata, tipica delle brasserie."
+      }
+    ],
+    attenzioni: [
+      "Borseggi su metro, RER e davanti ai monumenti: zaino davanti e telefono fuori dalla tasca posteriore.",
+      "Truffe del braccialetto ai piedi del Sacré-Cœur: rifiutare e andare avanti.",
+      "Le «petizioni» presentate da persone con una tavoletta intorno alla Tour Eiffel servono a distrarre per rubare.",
+      "Biglietti per i musei: comprarli solo sui siti ufficiali, non da rivenditori che ne alzano il prezzo."
+    ],
     esperienzeSlugs: ['louvre-strategia', 'sainte-chapelle', 'montmartre-alba', 'catacombe-parigi', 'pere-lachaise'],
     tripSlugs: ['parigi-5-giorni'],
     imageAlt: 'I tetti di Parigi visti dalla collina di Montmartre accanto alla cupola del Sacré-Cœur, con la Tour Eiffel all\'orizzonte',
@@ -571,6 +803,123 @@ export const destinazioniFrancia: Destinazione[] = [
     ],
     miaEsperienza:
       'Delle spiagge dello sbarco mi ha spiazzato quanto siano normali. Omaha Beach, in una giornata di vento, è una spiaggia larghissima di sabbia chiara, con qualche bagnante e qualche cane. Nel paesaggio non c\'è niente di drammatico, ed è proprio questo che la rende difficile da reggere: guardi quella distesa piatta, pensi a cosa voleva dire attraversarla di corsa sotto il fuoco delle postazioni sulla scarpata, e capisci che non c\'è niente da vedere perché il problema era la geografia. Poi si sale alla Pointe du Hoc, dove il terreno è rimasto com\'era, con i crateri delle bombe uno dentro l\'altro e i bunker spaccati, e lì l\'effetto è opposto e immediato. L\'ordine giusto è questo: prima un museo che spieghi, poi le spiagge. Al contrario si guarda il mare e basta. Il Mont-Saint-Michel è l\'altra faccia della regione, e il suo problema sono gli orari più che la folla. Alle undici del mattino la via principale è una fila in salita tra i negozi di souvenir; alle sette di sera è vuota, con il vento e il rumore dell\'acqua. Chi ci passa mezza giornata nelle ore centrali torna dicendo che è sopravvalutato, ma ha visto un altro posto.',
+    luoghi: [
+      {
+        nome: "Spiagge dello sbarco e cimitero americano",
+        testo: "Utah, Omaha, Gold, Juno e Sword furono le cinque spiagge dello sbarco del 6 giugno 1944. Sopra Omaha, a Colleville-sur-Mer, c'è il cimitero americano, con quasi 9.400 tombe.",
+        come: "In auto da Bayeux, circa 30 minuti. Il cimitero è gratuito e si visita da soli. Il centro visitatori è accanto.",
+        quando: "Mattina, con meno gruppi.",
+        tempo: "3-4 ore",
+        consiglio: "Il cimitero ha controlli di sicurezza: niente zaini grandi."
+      },
+      {
+        nome: "Pointe du Hoc",
+        testo: "Una scogliera dove i Ranger americani scalarono le pareti il 6 giugno 1944. Il terreno è ancora segnato da crateri e dai bunker tedeschi.",
+        come: "In auto, a circa 15 minuti da Omaha. Si cammina sul prato tra i crateri.",
+        quando: "Mattina.",
+        tempo: "1 ora",
+        consiglio: "Rispettare le transenne: le scogliere franano."
+      },
+      {
+        nome: "Mémorial de Caen",
+        testo: "Il museo che inquadra la guerra dal 1918 alla Guerra fredda, in un edificio nuovo sopra i bunker tedeschi di Caen. Va visto prima delle spiagge, per capirne il senso.",
+        come: "In auto o con il bus dal centro di Caen.",
+        quando: "Tutto l'anno; aperto tutti i giorni salvo festività.",
+        tempo: "3 ore",
+        consiglio: "Se il tempo è poco, vedere solo le sezioni sulla Seconda guerra mondiale."
+      },
+      {
+        nome: "Arazzo di Bayeux",
+        testo: "Settanta metri di ricamo dell'XI secolo sulla conquista normanna dell'Inghilterra nel 1066, iscritto nel registro UNESCO Memoria del mondo. Mostra Guglielmo, Aroldo e la cometa di Halley.",
+        come: "Nel centro di Bayeux, a piedi dalla stazione. Il museo è in ristrutturazione e l'arazzo è annunciato in prestito al British Museum di Londra tra il 2026 e il 2027: verificare sul sito ufficiale prima di andare.",
+        quando: "Controllare date e aperture.",
+        tempo: "1 ora",
+        url: "https://www.bayeuxmuseum.com/",
+        consiglio: "Visitare la cattedrale di Bayeux nello stesso giro."
+      },
+      {
+        nome: "Mont-Saint-Michel",
+        testo: "Un'isola con abbazia benedettina in cima, circondata da maree che arrivano a 14 metri. Il villaggio sotto è una sola via di negozi. Patrimonio UNESCO.",
+        come: "Parcheggio sulla terraferma e navetta gratuita fino al ponte-passerella.",
+        quando: "Alba o tramonto. Marea alta nei giorni di luna nuova e piena: controllare le tabelle.",
+        tempo: "mezza giornata",
+        consiglio: "Salire all'abbazia per le sale e le terrazze, non per i negozi."
+      },
+      {
+        nome: "Étretat e Honfleur",
+        testo: "Étretat: falesie di gesso con tre archi e un ago di roccia, con sentieri in cima. Honfleur: un porto vecchio con case alte e strette, la chiesa di Sainte-Catherine tutta in legno.",
+        come: "In auto o con bus; Étretat è a 1 ora da Honfleur.",
+        quando: "Étretat al tramonto; Honfleur di mattina.",
+        tempo: "mezza giornata ciascuno",
+        consiglio: "Il sentiero in cima alle falesie di Étretat ha vento forte: tenere la distanza dal bordo."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Spiagge dello sbarco e cimitero americano",
+          "Pointe du Hoc",
+          "Pranzo a Bayeux",
+          "Arazzo di Bayeux o cattedrale"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: Mémorial di Caen, spiagge dello sbarco",
+          "Giorno 2: Mont-Saint-Michel"
+        ]
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorno 1: Mémorial e spiagge",
+          "Giorno 2: Bayeux e Mont-Saint-Michel",
+          "Giorno 3: Honfleur e Étretat"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Bayeux",
+        perChi: "chi visita le spiagge",
+        testo: "Cittadina intatta, a 30 minuti dalle spiagge, con alberghi e ristoranti."
+      },
+      {
+        nome: "Caen",
+        perChi: "chi vuole città e musei",
+        testo: "Più grande, più cara e con più servizi."
+      },
+      {
+        nome: "Dintorni di Mont-Saint-Michel",
+        perChi: "chi vuole vedere l'alba",
+        testo: "Case di campagna e piccoli hotel a pochi km, utili per evitare le ore dei pullman."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Camembert",
+        testo: "Formaggio a pasta molle di latte vaccino, nato a Camembert."
+      },
+      {
+        nome: "Sidro e calvados",
+        testo: "Il sidro si beve nelle crêperie; il calvados è un distillato di mela."
+      },
+      {
+        nome: "Moules à la normande",
+        testo: "Cozze con panna e sidro."
+      },
+      {
+        nome: "Tarte normande",
+        testo: "Torta di mele con crema, nelle pasticcerie."
+      }
+    ],
+    attenzioni: [
+      "Nei fine settimana d'estate Mont-Saint-Michel è pieno: andare all'alba o dopo le 17.",
+      "Le maree in baia sono veloci: non camminare sulle sabbie senza guida.",
+      "I bunker e le dune lungo le spiagge sono luoghi di memoria: non salire sui resti."
+    ],
     esperienzeSlugs: ['spiagge-sbarco', 'mont-saint-michel', 'arazzo-bayeux', 'giverny'],
     tripSlugs: ['normandia-bretagna'],
     imageAlt: 'Le falesie di gesso bianco di Étretat con l\'arco della Porte d\'Aval e una barca arancione sulla spiaggia di ciottoli, Normandia',
@@ -674,6 +1023,114 @@ export const destinazioniFrancia: Destinazione[] = [
     ],
     miaEsperienza:
       'La Bretagna l\'ho capita il primo giorno sul GR34, quando mi sono reso conto che il sentiero non finisce. Gira tutta la penisola, un promontorio dopo l\'altro, e da qualunque paese della costa si parta ci si può mettere a camminare e andare avanti per settimane. È nato per un motivo pratico, sorvegliare i contrabbandieri, e si vede dalla traccia: sta il più vicino possibile all\'acqua, sul bordo delle falesie, e non prende mai scorciatoie. In un paio d\'ore si passa da una spiaggia a una scogliera, da un bosco di pini a un porticciolo con le barche in secca sul fango, perché la marea se n\'è andata. Ed è la marea la cosa che colpisce di più. Qui l\'escursione è tra le più ampie d\'Europa, e due volte al giorno il paesaggio cambia del tutto: un\'insenatura piena d\'acqua diventa una distesa di sabbia dove la gente raccoglie le vongole. La seconda cosa è Carnac, da affrontare sapendo cosa si sta guardando: tremila pietre alzate in file parallele per chilometri, seimila anni fa, cioè prima delle piramidi, da persone che non avevano il metallo. Non sappiamo perché. È uno dei pochi posti in Europa dove l\'unica reazione onesta è ammettere di non capire.',
+    luoghi: [
+      {
+        nome: "Allineamenti di Carnac",
+        testo: "Migliaia di menhir in file parallele lunghe chilometri, eretti nel Neolitico, più antichi di Stonehenge. Le tre zone principali sono Ménec, Kermario e Kerlescan.",
+        come: "In auto da Auray, circa 20 minuti. Da ottobre ad aprile si cammina libera tra le pietre; in estate l'accesso è controllato.",
+        quando: "Mattina presto o tardo pomeriggio.",
+        tempo: "2 ore",
+        consiglio: "La Maison des Mégalithes spiega le pietre e le regole di accesso."
+      },
+      {
+        nome: "Saint-Malo",
+        testo: "La città corsara dentro le mura, distrutta nel 1944 e ricostruita pietra su pietra. Il camminamento sui bastioni dà la vista sul mare e sulle isolette; con la bassa marea si raggiunge a piedi il Grand Bé.",
+        come: "Treno diretto da Parigi, circa 2 ore e mezza. Si visita a piedi.",
+        quando: "Mattina; guardare le maree prima di camminare sul Grand Bé.",
+        tempo: "mezza giornata",
+        consiglio: "Controllare l'orario della bassa marea: l'isolotto si raggiunge solo allora."
+      },
+      {
+        nome: "Côte de Granit Rose",
+        testo: "Blocchi di granito rosa erosi in forme strane, tra Ploumanac'h e Perros-Guirec. Il sentiero doganiere (GR34) li attraversa.",
+        come: "In auto fino a Ploumanac'h; il sentiero costiero parte dal paese.",
+        quando: "Tramonto, con la luce che accende il colore.",
+        tempo: "2-3 ore",
+        consiglio: "Il tratto fino al faro di Mean Ruz è facile e adatto a tutti."
+      },
+      {
+        nome: "Pointe du Raz",
+        testo: "Un promontorio su una scogliera a picco sull'Atlantico, uno dei punti più occidentali della Francia. Sentieri sulla punta e un faro in mare.",
+        come: "In auto da Quimper, circa 1 ora. Parcheggio a pagamento.",
+        quando: "Giornata limpida; con la nebbia non si vede nulla.",
+        tempo: "1-2 ore",
+        consiglio: "Stare sui sentieri segnati: le scogliere sono instabili."
+      },
+      {
+        nome: "Golfo del Morbihan e Gavrinis",
+        testo: "Un mare interno con una quarantina di isole. L'isola di Gavrinis ospita un tumulo neolitico con pietre incise in modo straordinario.",
+        come: "Barca da Larmor-Baden; la visita a Gavrinis è guidata e con numero limitato.",
+        quando: "Primavera e autunno; prenotare prima.",
+        tempo: "mezza giornata",
+        consiglio: "I posti a Gavrinis sono limitati: prenotare."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Saint-Malo al mattino",
+          "Cancale per le ostriche",
+          "Pointe du Grouin",
+          "Rientro per la costa"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: Saint-Malo e Dinan",
+          "Giorno 2: Côte de Granit Rose"
+        ]
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorno 1: Saint-Malo",
+          "Giorno 2: Côte de Granit Rose e GR34",
+          "Giorno 3: Carnac e Golfo del Morbihan"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Saint-Malo",
+        perChi: "chi vuole una città murata",
+        testo: "Alberghi e appartamenti dentro le mura; d'estate è affollata."
+      },
+      {
+        nome: "Perros-Guirec",
+        perChi: "chi vuole il granito rosa",
+        testo: "Paese di mare, sentiero GR34 e spiagge, più tranquillo."
+      },
+      {
+        nome: "Vannes o Auray",
+        perChi: "chi vuole Carnac e il Morbihan",
+        testo: "Basi comode per i megaliti e il golfo."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Crêpes e galettes",
+        testo: "Dolci di frumento e salate di grano saraceno, con prosciutto, uova e formaggio."
+      },
+      {
+        nome: "Far breton",
+        testo: "Dolce denso con prugne."
+      },
+      {
+        nome: "Kouign-amann",
+        testo: "Dolce burroso e caramellato, specialità di Douarnenez."
+      },
+      {
+        nome: "Ostriche di Cancale",
+        testo: "Servite al mercato del porto."
+      }
+    ],
+    attenzioni: [
+      "Le maree sono molto forti: controllare la tabella prima di camminare su isolotti e spiagge.",
+      "Il tempo cambia più volte al giorno: portare giacca impermeabile anche in estate.",
+      "In luglio e agosto Carnac e Saint-Malo sono affollate: arrivare presto."
+    ],
     esperienzeSlugs: ['gr34-sentiero-doganieri', 'carnac-megaliti', 'saint-malo-bastioni'],
     tripSlugs: ['normandia-bretagna'],
     imageAlt: 'Il faro di Ploumanac\'h in granito rosa tra i massi levigati della Côte de Granit Rose, Bretagna',
@@ -825,6 +1282,117 @@ export const destinazioniFrancia: Destinazione[] = [
     ],
     miaEsperienza:
       'In Loira quasi tutti fanno lo stesso errore: la trattano come una lista. Due castelli il primo giorno, tre il secondo, e al quarto si entra in una sala di rappresentanza del Cinquecento senza più reagire. Sono tutti bianchi, con le finestre a crociera, i camini enormi e le targhette. La valle funziona in un altro modo: un castello al giorno, la mattina, e il resto del tempo lungo il fiume. È lì che si capisce perché l\'UNESCO abbia iscritto **il paesaggio** e non i monumenti. La Loira è l\'ultimo grande fiume europeo rimasto in gran parte non canalizzato, con i banchi di sabbia che si spostano e le isole che cambiano, e i castelli stanno lì per via del fiume. La cosa migliore da fare è noleggiare una bici per una giornata. Il percorso sull\'argine è piatto, attraversa paesi che non hanno un castello e quindi non hanno nessuno, e si arriva al monumento successivo dopo due ore di pedalata invece che dopo venti minuti di auto e mezz\'ora a cercare parcheggio. La seconda scoperta sono le cantine nel tufo. La pietra bianca dei castelli è stata cavata nella collina dietro, e quelle gallerie oggi sono cantine: si scende a dodici gradi costanti, con le bottiglie nelle nicchie, e chi versa il vino spiega che il buco nel muro è vecchio quanto la facciata del castello sull\'altra riva.',
+    luoghi: [
+      {
+        nome: "Chambord",
+        testo: "Il castello più grande della Loira, voluto da Francesco I, con 440 stanze e la scala a doppia elica attribuita a Leonardo. È circondato da un parco recintato più grande di Parigi.",
+        come: "In auto da Blois, circa 20 minuti. Si visita da soli o con audioguida.",
+        quando: "Mattina, per i giardini e le terrazze. Chiuso il 1° gennaio e il 25 dicembre.",
+        tempo: "3 ore",
+        url: "https://www.chambord.org/",
+        consiglio: "Salire sulle terrazze per vedere i camini e le torrette da vicino."
+      },
+      {
+        nome: "Chenonceau",
+        testo: "Il castello sopra il fiume Cher, con la galleria a ponte. Fu amministrato da donne: Diane de Poitiers e Caterina de' Medici.",
+        come: "Treno fino a Chenonceaux, a pochi minuti dal castello.",
+        quando: "Mattina; in autunno i giardini hanno colori più forti.",
+        tempo: "2-3 ore",
+        url: "https://www.chenonceau.com/",
+        consiglio: "Dedicare tempo ai giardini e alle cucine, non solo alla galleria."
+      },
+      {
+        nome: "Villandry",
+        testo: "Il castello è meno noto dei giardini: l'orto rinascimentale a disegni geometrici, il giardino dell'amore e quello d'acqua, rifatti sul modello cinquecentesco.",
+        come: "In auto da Tours, circa 25 minuti.",
+        quando: "Primavera ed estate per la fioritura.",
+        tempo: "2 ore",
+        url: "https://www.chateauvillandry.fr/",
+        consiglio: "Salire alla torre per vedere i disegni dall'alto."
+      },
+      {
+        nome: "Amboise e Clos Lucé",
+        testo: "Amboise ha un castello sul fiume. Il Clos Lucé è la casa dove Leonardo da Vinci visse gli ultimi tre anni e morì nel 1519; contiene modelli delle sue macchine.",
+        come: "Treno da Tours, circa 20 minuti. I due siti sono a 10 minuti a piedi.",
+        quando: "Mattina.",
+        tempo: "mezza giornata",
+        url: "https://www.vinci-closluce.com/",
+        consiglio: "La tomba di Leonardo è nella cappella di Saint-Hubert, nel parco del castello."
+      },
+      {
+        nome: "Azay-le-Rideau e Cheverny",
+        testo: "Azay-le-Rideau è un castello su un'isola dell'Indre che si specchia nell'acqua. Cheverny è abitato da secoli dalla stessa famiglia ed è arredato.",
+        come: "In auto da Tours; Cheverny è a 40 minuti da Chambord.",
+        quando: "Mattina.",
+        tempo: "2 ore ciascuno",
+        consiglio: "Cheverny ha il canile dei cani da caccia: l'ora del pasto è un'attrazione."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Chambord al mattino",
+          "Pranzo a Blois",
+          "Chenonceau nel pomeriggio"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: Chambord e Cheverny",
+          "Giorno 2: Chenonceau e Amboise"
+        ]
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorno 1: Chambord",
+          "Giorno 2: Chenonceau e Villandry",
+          "Giorno 3: Amboise, Clos Lucé e Azay-le-Rideau"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Tours",
+        perChi: "chi usa i treni",
+        testo: "Città grande, ben collegata, con alberghi e ristoranti."
+      },
+      {
+        nome: "Amboise",
+        perChi: "chi vuole un paese sulla Loira",
+        testo: "Piccolo centro con il castello e il Clos Lucé a piedi."
+      },
+      {
+        nome: "Blois",
+        perChi: "chi vuole Chambord e Cheverny",
+        testo: "Base comoda per i castelli a est."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Rillettes di Tours",
+        testo: "Maiale lessato e sminuzzato, spalmato sul pane."
+      },
+      {
+        nome: "Vini della Loira",
+        testo: "Vouvray, Chinon e Sancerre, in cantine e ristoranti."
+      },
+      {
+        nome: "Tarte Tatin",
+        testo: "Torta di mele rovesciata, nata a Lamotte-Beuvron."
+      },
+      {
+        nome: "Formaggi di capra",
+        testo: "Sainte-Maure e Valençay, tipici della zona."
+      }
+    ],
+    attenzioni: [
+      "Non fare più di un castello al mattino e uno al pomeriggio: dopo il terzo si finisce per non guardare.",
+      "Molti castelli chiudono in inverno o a mezzogiorno: controllare gli orari.",
+      "Il noleggio bici è comodo ma i dislivelli e i venti si sentono: valutare la distanza tra i castelli."
+    ],
     esperienzeSlugs: ['chambord', 'chenonceau', 'loira-in-bicicletta', 'cantina-troglodita-loira'],
     tripSlugs: ['castelli-loira'],
     imageAlt: 'Il castello di Amboise sopra le case della città, riflesso nelle acque della Loira',
@@ -959,6 +1527,106 @@ export const destinazioniFrancia: Destinazione[] = [
     ],
     miaEsperienza:
       'Bordeaux tiene insieme due cose che di solito non vanno d\'accordo: la città si gira a piedi, il territorio senza auto non si vede. La prima sorpresa è proprio la città. Ha fama di posto serio e noioso, e invece è uno degli insiemi urbani più belli di Francia: chilometri di facciate settecentesche della stessa pietra chiara, tenute pulite, e una vita studentesca che le impedisce di diventare un museo. La seconda è quanto poco il vigneto somigli all\'immagine che se ne ha. Nel Médoc non ci sono colline: è una pianura di ghiaia con i castelli in fila lungo una strada, e il fascino sta nel capire cosa fa quella ghiaia. Drena, scalda, e fa sì che una vite a duecento metri di distanza dia un vino che vale dieci volte l\'altro. La terza cosa, quella che mi è rimasta, è il Sauternes. Siamo arrivati in una proprietà a settembre e ci hanno mostrato i grappoli: orribili, acini raggrinziti e coperti di muffa grigia, che qualunque agricoltore normale butterebbe. Invece è proprio quello che aspettavano tutto l\'anno, e la squadra ripassa nello stesso filare cinque o sei volte, in settimane diverse, per raccogliere solo gli acini arrivati al punto. È una delle cose più controintuitive dell\'agricoltura europea, e per crederci bisogna vederla sul posto.',
+    luoghi: [
+      {
+        nome: "Place de la Bourse e Miroir d'eau",
+        testo: "La piazza settecentesca sulla Garonna e, davanti, il Miroir d'eau: una lastra d'acqua di pochi millimetri che riflette la facciata e ogni tanto si trasforma in nebbia.",
+        come: "A piedi dal centro o con il tram fino alla fermata Place de la Bourse.",
+        quando: "Sera o notte, quando la facciata è illuminata.",
+        tempo: "45 minuti",
+        consiglio: "Per le foto, camminare sul bordo dell'acqua nei momenti in cui è piena."
+      },
+      {
+        nome: "Centro storico e Tour Pey-Berland",
+        testo: "Facciate settecentesche in pietra chiara, la cattedrale di Saint-André e la torre staccata Pey-Berland, da salire per il panorama.",
+        come: "A piedi dal tram, con la Grosse Cloche e le rue Sainte-Catherine.",
+        quando: "Mattina.",
+        tempo: "mezza giornata",
+        consiglio: "La rue Sainte-Catherine è piena di negozi; i vicoli laterali hanno più carattere."
+      },
+      {
+        nome: "La Cité du Vin",
+        testo: "Museo del vino sulla Garonna in un edificio a forma di bicchiere. Il percorso spiega le regioni del mondo e termina con un bicchiere al belvedere al piano alto.",
+        come: "Tram B fino a Cité du Vin.",
+        quando: "Pomeriggio.",
+        tempo: "2-3 ore",
+        consiglio: "Il bicchiere finale si beve nel belvedere al piano alto con vista sul fiume."
+      },
+      {
+        nome: "Saint-Émilion",
+        testo: "Un borgo medievale tra i vigneti, patrimonio UNESCO dal 1999 come paesaggio vitivinicolo. La chiesa monolitica è scavata nella roccia.",
+        come: "Treno diretto da Bordeaux Saint-Jean in circa 40 minuti. La chiesa monolitica si visita con guida dall'ufficio del turismo.",
+        quando: "Mattina o tardo pomeriggio.",
+        tempo: "mezza giornata",
+        consiglio: "Camminare tra le vigne fuori dal borgo, a 10 minuti dal centro."
+      },
+      {
+        nome: "Médoc e i castelli",
+        testo: "La strada dei vini a nord, con castelli aziendali in fila (Margaux, Pauillac, Saint-Julien).",
+        come: "In auto da Bordeaux, 30-60 minuti. Le degustazioni si prenotano.",
+        quando: "Primavera e autunno, vendemmia a settembre-ottobre.",
+        tempo: "giornata intera",
+        consiglio: "Serve un autista che non beva, o un tour organizzato."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Centro storico al mattino",
+          "Miroir d'eau",
+          "Cité du Vin nel pomeriggio",
+          "Cena in un bistrot dei Chartrons"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: città e Cité du Vin",
+          "Giorno 2: Saint-Émilion o Médoc"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Centro storico",
+        perChi: "chi vuole tutto a piedi",
+        testo: "Alloggi vicino al tram, vivace anche la sera."
+      },
+      {
+        nome: "Chartrons",
+        perChi: "chi cerca un quartiere meno turistico",
+        testo: "Ex magazzini del vino, con bistrot e antiquari."
+      },
+      {
+        nome: "Saint-Émilion",
+        perChi: "chi vuole dormire tra le vigne",
+        testo: "Pochi alloggi, belle camere ma più cari."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Vino di Bordeaux",
+        testo: "Rossi di Médoc e Saint-Émilion; bianchi dolci del Sauternes."
+      },
+      {
+        nome: "Canelés",
+        testo: "Piccoli dolci al rum e vaniglia con crosta caramellata."
+      },
+      {
+        nome: "Entrecôte alla bordolese",
+        testo: "Controfiletto con salsa al vino rosso e midollo."
+      },
+      {
+        nome: "Ostriche di Arcachon",
+        testo: "Piccole, mangiate con limone e pane al burro."
+      }
+    ],
+    attenzioni: [
+      "Le degustazioni nei castelli del Médoc vanno prenotate: molti non ricevono senza appuntamento.",
+      "Il Miroir d'eau si ferma in inverno o durante la manutenzione: verificare.",
+      "Parcheggi in centro cari e stretti: usare il tram e i parcheggi di interscambio."
+    ],
     esperienzeSlugs: ['saint-emilion', 'sauternes-muffa-nobile', 'dune-du-pilat', 'ostriche-arcachon'],
     tripSlugs: ['bordeaux-e-vigneti'],
     imageAlt: 'La Place de la Bourse di Bordeaux illuminata di notte e riflessa nel Miroir d\'eau',
@@ -1129,6 +1797,105 @@ export const destinazioniFrancia: Destinazione[] = [
     ],
     miaEsperienza:
       'Il mio modo di guardare il vino francese è cambiato camminando, più che in una cantina. In Borgogna, lungo la Côte de Nuits, un sentiero passa tra i vigneti e attraversa i grandi cru uno dopo l\'altro, con i cartelli di pietra all\'angolo di ogni parcella. In venti minuti a piedi si passa da una denominazione regionale a un grand cru che vale cento volte tanto, e in mezzo c\'è un muro a secco alto un metro. Il terreno dalle due parti sembra identico. Non lo è: cambiano la pendenza, il drenaggio, l\'esposizione al sole del mattino. Ma la differenza è così sottile da essere invisibile, e solo il vino la registra. In Italia l\'idea esiste, ma nessuno l\'ha mai codificata così, e vederla disegnata sul terreno con i muretti è la lezione più utile di tutto il viaggio. L\'altra scoperta è che le regioni trattano chi arriva in modi opposti. In Alsazia entri in cantina, ti accolgono, assaggi sei vini, paghi poco o niente e chiacchieri. In Borgogna la stessa richiesta, senza un contatto preso settimane prima, riceve un no gentile: il produttore fa diecimila bottiglie l\'anno, le ha già vendute tutte, e ricevere visitatori non è il suo lavoro. Saperlo prima evita di scambiare per scortesia una questione di scala.',
+    luoghi: [
+      {
+        nome: "Champagne: Reims ed Épernay",
+        testo: "La cattedrale di Reims, dove venivano incoronati i re, con le vetrate di Chagall. A Épernay l'Avenue de Champagne ha chilometri di gallerie scavate nel gesso sotto le case delle grandi maison.",
+        come: "Treno da Parigi Est a Reims in circa 45 minuti; da Reims a Épernay 30 minuti in treno.",
+        quando: "Primavera e autunno; vendemmia a fine agosto-settembre.",
+        tempo: "1-2 giorni",
+        consiglio: "Le visite delle cantine si prenotano: molte non ricevono senza appuntamento."
+      },
+      {
+        nome: "Borgogna: Côte de Nuits e Côte de Beaune",
+        testo: "I climats della Borgogna, iscritti all'UNESCO nel 2015: oltre mille parcelle delimitate da muretti a secco. A Beaune, gli Hospices con il tetto di tegole colorate.",
+        come: "Treno da Parigi a Dijon, poi in auto o bici lungo la Route des Grands Crus.",
+        quando: "Primavera e autunno.",
+        tempo: "2 giorni",
+        consiglio: "La pista ciclabile della Voie des Vignes collega Beaune e Santenay in circa 20 km."
+      },
+      {
+        nome: "Alsazia: la Route des Vins",
+        testo: "Circa 170 km di strada tra i Vosgi e la pianura, con villaggi a graticcio come Colmar, Riquewihr, Eguisheim e Kaysersberg.",
+        come: "In auto da Strasburgo o Basilea. Treni verso Colmar.",
+        quando: "Settembre-ottobre per i colori; dicembre per i mercatini di Natale.",
+        tempo: "2 giorni",
+        consiglio: "Eguisheim e Riquewihr sono più tranquille di Colmar."
+      },
+      {
+        nome: "Valle del Rodano",
+        testo: "A nord i pendii terrazzati di Côte-Rôtie e Hermitage, tra i più ripidi d'Europa; a sud Châteauneuf-du-Pape, con le pietre arrotondate tra i filari.",
+        come: "Treno fino a Valence o Avignone; poi auto o bici.",
+        quando: "Primavera e autunno.",
+        tempo: "1-2 giorni",
+        consiglio: "Châteauneuf-du-Pape si raggiunge in 20 minuti da Avignone."
+      },
+      {
+        nome: "Giura",
+        testo: "Una regione piccola e fuori dai circuiti, famosa per il vin jaune, che matura sei anni e tre mesi in botte sotto un velo di lieviti, senza rabbocco.",
+        come: "In auto da Besançon o Lons-le-Saunier.",
+        quando: "Tutto l'anno; la festa Percée du vin jaune a febbraio.",
+        tempo: "1 giorno",
+        consiglio: "Il vin jaune si abbina al formaggio comté."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: Reims e la cattedrale, cantine di Épernay",
+          "Giorno 2: Avenue de Champagne e sentieri tra le vigne"
+        ]
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorno 1: Beaune e gli Hospices",
+          "Giorno 2: Côte de Nuits in bici o auto",
+          "Giorno 3: Dijon e rientro"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Reims",
+        perChi: "chi visita la Champagne",
+        testo: "Città con la cattedrale, ristoranti e cantine in centro."
+      },
+      {
+        nome: "Beaune",
+        perChi: "chi visita la Borgogna",
+        testo: "Cittadina murata, vicina ai vigneti e ai migliori cru."
+      },
+      {
+        nome: "Colmar",
+        perChi: "chi visita l'Alsazia",
+        testo: "Centro di case a graticcio, base comoda per la Route des Vins."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Champagne",
+        testo: "Vino spumante delle maison di Reims ed Épernay."
+      },
+      {
+        nome: "Boeuf bourguignon",
+        testo: "Manzo stufato nel vino rosso con cipolle e funghi."
+      },
+      {
+        nome: "Choucroute alsaziana",
+        testo: "Crauti con salsicce e carni di maiale."
+      },
+      {
+        nome: "Vin jaune e comté",
+        testo: "Vino ossidativo del Giura con un formaggio stagionato."
+      }
+    ],
+    attenzioni: [
+      "Non guidare dopo le degustazioni: portare un autista designato o usare le bici elettriche.",
+      "In vendemmia (settembre-ottobre) le cantine sono molto prese: prenotare con anticipo.",
+      "Molte cantine chiudono a pranzo e la domenica: controllare gli orari."
+    ],
     esperienzeSlugs: ['cantina-champagne', 'route-des-vins-alsazia', 'climats-borgogna'],
     tripSlugs: ['rotte-dei-vini-francia'],
     imageAlt: 'I filari dei vigneti grand cru di Verzenay sulla Montagne de Reims, con la terra chiara di gesso, Champagne',
@@ -1265,6 +2032,114 @@ export const destinazioniFrancia: Destinazione[] = [
     ],
     miaEsperienza:
       'In Provenza le aspettative si sistemano in un giorno, a patto di fare una cosa: uscire dal Luberon. I villaggi arroccati sono bellissimi, ma è lì che si concentra tutto. In agosto a Gordes si gira quaranta minuti per parcheggiare e poi si cammina in fila per una via di negozi. A un\'ora di distanza ci sono le Gole del Verdon, il canyon più profondo d\'Europa, che quasi nessuno mette in programma. Si cammina sul fondo tra pareti verticali di centinaia di metri, con l\'acqua verde smeraldo accanto e tunnel scavati nella roccia da attraversare con la torcia. Oppure ci sono i romani. L\'arena di Nîmes è l\'anfiteatro romano meglio conservato del mondo e ci fanno ancora gli spettacoli; il Pont du Gard faceva parte di un acquedotto che portava l\'acqua per cinquanta chilometri con una pendenza media di venticinque centimetri al chilometro, un margine d\'errore che oggi si ottiene con il laser. Sulla lavanda c\'è una sola cosa da sapere: ha un calendario, e il calendario non aspetta. Fiorisce e viene tagliata, e chi arriva ad agosto pensando ai campi viola trova le stoppie e non ci crede.',
+    luoghi: [
+      {
+        nome: "Gole del Verdon",
+        testo: "Il canyon più profondo d'Europa, con pareti verticali di centinaia di metri e acqua verde. La strada panoramica sul bordo ha belvedere.",
+        come: "In auto da Moustiers-Sainte-Marie o Castellane. Si può camminare sul fondo con i sentieri del Sentier de l'Imbut.",
+        quando: "Primavera ed estate; in luglio e agosto è molto affollato.",
+        tempo: "giornata intera",
+        consiglio: "Il giro in pedalò o kayak sul lago di Sainte-Croix si fa in mattinata."
+      },
+      {
+        nome: "Luberon: Gordes, Roussillon, Bonnieux",
+        testo: "Villaggi arroccati di pietra chiara. A Roussillon le cave di ocra danno colori rosso e giallo; il Sentier des Ocres si percorre in 40 minuti.",
+        come: "In auto: in agosto il parcheggio è difficile.",
+        quando: "Primavera e autunno; luglio e agosto folla.",
+        tempo: "2 giorni",
+        consiglio: "Visitare i villaggi al mattino presto, prima dei pullman."
+      },
+      {
+        nome: "Altopiano di Valensole e lavanda",
+        testo: "Il grande paesaggio della lavanda, che fiorisce tra fine giugno e metà luglio e si taglia subito dopo.",
+        come: "In auto da Riez o Valensole.",
+        quando: "Alba o tramonto, durante la fioritura.",
+        tempo: "mezza giornata",
+        consiglio: "Non entrare nei campi coltivati: i contadini perdono il raccolto."
+      },
+      {
+        nome: "Avignone e il Palazzo dei Papi",
+        testo: "Il palazzo gotico più grande del mondo, residenza dei papi nel Trecento. Il ponte Saint-Bénézet, interrotto a metà, è il simbolo della città.",
+        come: "Treno da Marsiglia o Parigi. Si visita a piedi.",
+        quando: "Mattina.",
+        tempo: "mezza giornata",
+        url: "https://www.palais-des-papes.com/",
+        consiglio: "Passeggiare sulle mura prima o dopo la visita."
+      },
+      {
+        nome: "Arles",
+        testo: "Un anfiteatro romano ancora in uso per spettacoli, gli Alyscamps e i luoghi dipinti da Van Gogh. In città non c'è nessun suo quadro.",
+        come: "Treno da Avignone in circa 20 minuti.",
+        quando: "Mattina; il mercato è sabato.",
+        tempo: "mezza giornata",
+        consiglio: "Seguire il percorso Van Gogh tra i luoghi dipinti."
+      },
+      {
+        nome: "Nîmes",
+        testo: "L'arena romana meglio conservata al mondo e la Maison Carrée, tempio romano iscritto all'UNESCO nel 2023.",
+        come: "Treno da Avignone in 30 minuti.",
+        quando: "Mattina.",
+        tempo: "mezza giornata",
+        consiglio: "Un biglietto unico include arena e altri monumenti romani."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: Avignone e Palazzo dei Papi, Arles",
+          "Giorno 2: Luberon e Roussillon"
+        ]
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorno 1: Avignone e Arles",
+          "Giorno 2: Luberon",
+          "Giorno 3: Valensole e Gole del Verdon"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Avignone",
+        perChi: "chi non ha l'auto",
+        testo: "Centro murato con treni per Arles e Nîmes."
+      },
+      {
+        nome: "Luberon",
+        perChi: "chi vuole i villaggi",
+        testo: "Mas e piccoli hotel; serve l'auto."
+      },
+      {
+        nome: "Arles",
+        perChi: "chi vuole una città a misura d'uomo",
+        testo: "Più economica di Avignone, con arena e mercati."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Ratatouille",
+        testo: "Verdure stufate di stagione."
+      },
+      {
+        nome: "Bouillabaisse",
+        testo: "Zuppa di pesce di Marsiglia."
+      },
+      {
+        nome: "Tapenade",
+        testo: "Pasta di olive nere, capperi e acciughe."
+      },
+      {
+        nome: "Rosé di Provenza",
+        testo: "Il vino rosato più bevuto in Francia."
+      }
+    ],
+    attenzioni: [
+      "Nel Luberon in agosto il traffico e il parcheggio sono pesanti: arrivare presto.",
+      "Il mistral può soffiare forte per giorni: portare una giacca.",
+      "Nei campi di lavanda non entrare: sono proprietà private e le api sono molte."
+    ],
     esperienzeSlugs: ['lavanda-provenza', 'gole-verdon', 'calanques-marsiglia', 'pont-du-gard'],
     tripSlugs: ['provenza-camargue'],
     imageAlt: 'Il villaggio di Gordes arroccato sulla collina con le case in pietra chiara e il castello in cima, Provenza',
@@ -1320,6 +2195,88 @@ export const destinazioniFrancia: Destinazione[] = [
     ],
     miaEsperienza:
       'La Camargue è il posto che meno somiglia al resto della Francia, e quello che delude più facilmente chi arriva con le aspettative sbagliate. Non ci sono panorami. È piatta, l\'orizzonte è una linea continua, e da qualunque punto si vedono acqua, canne e cielo. Bisogna abbassare lo sguardo, e allora cominciano ad apparire le cose: i fenicotteri che filtrano il fango con il becco rovesciato all\'ingiù, una postura assurda da vedere; i cavalli bianchi in gruppo nell\'acqua bassa; gli aironi; e al tramonto una quantità di uccelli che si spostano tutti insieme. Poi c\'è la gente. I gardians non sono una messinscena per turisti: sono mandriani che governano a cavallo, con un tridente, tori semibradi, e il mestiere esiste ancora perché esiste ancora l\'allevamento. Una course camarguaise in un\'arena di paese, dove il toro non si uccide e la folla applaude l\'animale più del raseteur, è il modo più diretto per capire che qui il rapporto con quegli animali è diverso da come lo si immagina. E una nota pratica che vale più di molte altre: d\'estate, dopo il tramonto, le zanzare sono un problema serio, non una battuta.',
+    luoghi: [
+      {
+        nome: "Parc ornithologique de Pont de Gau",
+        testo: "Un parco con stagni e sentieri dove si vedono da vicino i fenicotteri rosa, aironi e cicogne. È un buon punto per capire la zona prima di uscire sui sentieri.",
+        come: "In auto da Saintes-Maries-de-la-Mer, a pochi minuti.",
+        quando: "Mattina presto o tardo pomeriggio; i fenicotteri sono più numerosi in primavera ed estate.",
+        tempo: "2 ore",
+        url: "https://www.parcornithologique.com/",
+        consiglio: "Portare un binocolo e repellente per le zanzare."
+      },
+      {
+        nome: "Saintes-Maries-de-la-Mer",
+        testo: "Il paese di mare con la chiesa fortificata, meta a fine maggio del pellegrinaggio dei Rom per Sara la Nera. Le spiagge sono lunghe e sabbiose.",
+        come: "In auto da Arles, circa 45 minuti.",
+        quando: "Fine maggio per il pellegrinaggio; estate per le spiagge.",
+        tempo: "mezza giornata",
+        consiglio: "Evitare il weekend del pellegrinaggio se si cerca calma."
+      },
+      {
+        nome: "Aigues-Mortes",
+        testo: "La città murata voluta da Luigi IX come porto per le crociate, con mura intatte e la Tour de Constance. Accanto ci sono le saline rosa.",
+        come: "Treno e bus da Nîmes o Montpellier, o auto.",
+        quando: "Mattina.",
+        tempo: "mezza giornata",
+        consiglio: "Percorrere il camminamento sulle mura al tramonto."
+      },
+      {
+        nome: "Cavalli e tori delle manades",
+        testo: "I cavalli bianchi camarguesi e i tori neri allevati allo stato brado, con i gardian a cavallo. Si visitano le fattorie con passeggiate a cavallo.",
+        come: "Prenotare una visita in una manade lungo la strada D570.",
+        quando: "Primavera, autunno.",
+        tempo: "2 ore",
+        consiglio: "Scegliere fattorie che rispettano gli animali e non fanno spettacoli forzati."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Pont de Gau al mattino",
+          "Pranzo a Saintes-Maries-de-la-Mer",
+          "Passeggiata a cavallo nel pomeriggio",
+          "Aigues-Mortes al tramonto"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Arles",
+        perChi: "chi vuole un centro",
+        testo: "Base per la Camargue e per la Provenza."
+      },
+      {
+        nome: "Saintes-Maries-de-la-Mer",
+        perChi: "chi vuole il mare",
+        testo: "Alloggi sulla spiaggia; affollata nel weekend del pellegrinaggio."
+      },
+      {
+        nome: "Aigues-Mortes",
+        perChi: "chi cerca la città murata",
+        testo: "Mura e saline; più tranquilla la sera."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Taureau de Camargue",
+        testo: "Carne di toro in umido, con riso rosso."
+      },
+      {
+        nome: "Riso di Camargue",
+        testo: "Riso locale, anche rosso."
+      },
+      {
+        nome: "Fleur de sel",
+        testo: "Sale delle saline di Aigues-Mortes."
+      }
+    ],
+    attenzioni: [
+      "Le zanzare sono molte da maggio a settembre: repellente e maniche lunghe la sera.",
+      "Non avvicinarsi ai tori e ai cavalli sul sentiero: sono animali semiselvatici.",
+      "Non uscire dai sentieri nelle zone di riserva naturale."
+    ],
     esperienzeSlugs: ['camargue-a-cavallo', 'fenicotteri-camargue', 'aigues-mortes'],
     tripSlugs: ['provenza-camargue'],
     imageAlt: 'Cavalli bianchi della Camargue al pascolo tra le canne della palude, con uno stormo di fenicotteri in volo',
@@ -1375,6 +2332,113 @@ export const destinazioniFrancia: Destinazione[] = [
     ],
     miaEsperienza:
       'L\'Occitania risponde a una domanda che quasi nessuno si fa: dove andare nel sud della Francia quando la Provenza è piena e cara. I paesaggi sono gli stessi (calcare, vigne, cipressi, luce), i prezzi un terzo e i turisti quasi assenti. Però quello che mi è rimasto è la storia catara, più del risparmio. Si sale a Peyrepertuse o a Quéribus, castelli costruiti su creste calcaree strettissime a centinaia di metri d\'altezza, con un vento che non smette mai, e sotto c\'è una valle vuota. Lassù, nel Duecento, si rifugiò una comunità religiosa contro cui il papato bandì una crociata: contro cristiani dello stesso paese, non contro musulmani. La campagna durò vent\'anni e finì con uno sterminio. Di quella gente sono rimasti solo queste rocce e i nomi dei luoghi. In Italia questa storia non si studia; qui è dappertutto, nei cartelli, nei musei di paese, nelle insegne. Carcassonne, al contrario, va presa per quello che è: un restauro ottocentesco molto discusso, che ha inventato tetti a punta che probabilmente non erano mai esistiti. Impressiona comunque, e la sera, quando i pullman sono ripartiti, si cammina tra le due cinte murarie senza incontrare nessuno.',
+    luoghi: [
+      {
+        nome: "Carcassonne",
+        testo: "La cité fortificata: cinquantadue torri e doppia cinta di mura, restaurata nell'Ottocento da Viollet-le-Duc con criteri molto discussi. Dentro ci sono vicoli, botteghe e il castello.",
+        come: "Treno diretto da Tolosa in circa 45 minuti. La cité è a 15 minuti a piedi dalla stazione.",
+        quando: "Sera o primo mattino, quando le comitive sono assenti.",
+        tempo: "mezza giornata",
+        consiglio: "Camminare lungo la cinta esterna è gratuito e dà una buona idea della struttura."
+      },
+      {
+        nome: "Canal du Midi",
+        testo: "Un canale seicentesco di oltre 240 km che collega l'Atlantico al Mediterraneo, patrimonio UNESCO, con alberi di platano sulle rive.",
+        come: "A piedi o in bici lungo l'alzaia; barche a noleggio da Carcassonne o Castelnaudary.",
+        quando: "Primavera e autunno.",
+        tempo: "mezza giornata",
+        consiglio: "L'alzaia è pianeggiante e adatta alla bici."
+      },
+      {
+        nome: "Castelli catari",
+        testo: "Quéribus, Peyrepertuse e Montségur sono arroccati su creste calcaree a centinaia di metri, ultimi rifugi dei catari nel Duecento.",
+        come: "In auto dalla zona di Carcassonne. Salita a piedi di 20-30 minuti.",
+        quando: "Mattina; il vento è forte e non c'è ombra.",
+        tempo: "3 ore ciascuno",
+        consiglio: "Portare acqua, cappello e scarpe da trekking."
+      },
+      {
+        nome: "Albi",
+        testo: "La cattedrale di Sainte-Cécile, la più grande chiesa in mattoni del mondo, che dall'esterno sembra una fortezza. Nel palazzo della Berbie c'è il museo Toulouse-Lautrec.",
+        come: "Treno da Tolosa in circa 1 ora.",
+        quando: "Mattina.",
+        tempo: "mezza giornata",
+        consiglio: "All'interno guardare il Giudizio finale affrescato."
+      },
+      {
+        nome: "Tolosa",
+        testo: "La «ville rose» di mattoni, con la basilica di Saint-Sernin, la più grande chiesa romanica conservata d'Europa, e la piazza del Capitole.",
+        come: "Aeroporto e treni da tutta la Francia.",
+        quando: "Mattina o sera.",
+        tempo: "1 giorno",
+        consiglio: "Il mercato Victor Hugo al mattino è una buona colazione."
+      },
+      {
+        nome: "Collioure",
+        testo: "Il porto catalano dove Matisse e Derain inventarono il fauvismo in un'estate, con il castello e la chiesa sul mare.",
+        come: "Treno da Perpignan in circa 30 minuti.",
+        quando: "Primavera e autunno.",
+        tempo: "mezza giornata",
+        consiglio: "Seguire il percorso dei pittori con le riproduzioni dei quadri."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: Carcassonne e Canal du Midi",
+          "Giorno 2: castelli catari"
+        ]
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorno 1: Tolosa",
+          "Giorno 2: Albi e Carcassonne",
+          "Giorno 3: Castelli catari e Collioure"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Carcassonne",
+        perChi: "chi cerca il centro",
+        testo: "Alloggi nella Bastide o nella cité; la sera la cité è tranquilla."
+      },
+      {
+        nome: "Tolosa",
+        perChi: "chi usa i treni",
+        testo: "Città grande, molto vitale, con aeroporto."
+      },
+      {
+        nome: "Collioure",
+        perChi: "chi vuole il mare",
+        testo: "Piccolo porto sul Mediterraneo, un po' più caro."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Cassoulet",
+        testo: "Fagioli bianchi con anatra e salsiccia, il piatto di Castelnaudary."
+      },
+      {
+        nome: "Foie gras",
+        testo: "Fegato grasso d'oca o anatra."
+      },
+      {
+        nome: "Fougasse",
+        testo: "Pane con ciccioli o formaggio."
+      },
+      {
+        nome: "Vini della Linguadoca",
+        testo: "Rossi e rosati economici e buoni, da cantine locali."
+      }
+    ],
+    attenzioni: [
+      "Il vento (tramontana, cers) è forte ai castelli catari: portare una giacca.",
+      "In piena estate il caldo è pesante: andare al mattino.",
+      "Il parcheggio nella cité di Carcassonne è limitato: usare i parcheggi esterni."
+    ],
     esperienzeSlugs: ['castelli-catari', 'canal-du-midi', 'carcassonne'],
     tripSlugs: ['provenza-camargue'],
     imageAlt: 'La cittadella fortificata di Carcassonne sulla collina vista dalle rive dell\'Aude, con gli archi del Pont-Vieux',
@@ -1594,6 +2658,85 @@ export const destinazioniFrancia: Destinazione[] = [
     ],
     miaEsperienza:
       'La prima volta che sono arrivato in una stazione integrata francese sono rimasto perplesso. Si sale in valle tra i boschi, si passa un tornante e compare un blocco di edifici degli anni Settanta a duemila metri, senza un campanile, senza una piazza, con gli sci appoggiati ovunque. Poi la mattina dopo esci dal portone con gli sci ai piedi, due spinte e sei sulla seggiovia, e alle nove e un quarto stai già sciando su una neve che a quella quota c\'è sempre. Al terzo giorno la questione estetica è sparita. Sono state costruite proprio per questo, e per chi scia sul serio funzionano meglio di qualunque villaggio da cartolina. Il rovescio si vede nei giorni di brutto tempo, quando gli impianti alti chiudono per il vento: in una stazione integrata non c\'è nient\'altro da fare, e la giornata è persa. Però le due cose che cambiano di più la settimana non riguardano lo sci, sono burocrazia. La prima è il calendario delle vacanze scolastiche, diviso in tre zone: le stesse piste, la stessa neve, la stessa settimana di febbraio possono costare il doppio e avere il triplo della gente, a seconda di quale zona è in vacanza. La seconda è l\'assicurazione del soccorso: qui il soccorso sulle piste si paga, e la polizza venduta con lo skipass costa pochi euro al giorno.',
+    luoghi: [
+      {
+        nome: "Les Trois Vallées",
+        testo: "Il comprensorio collegato più esteso del mondo, con Courchevel, Méribel, Val Thorens, Les Menuires e Saint-Martin-de-Belleville. Val Thorens è la stazione più alta d'Europa.",
+        come: "Treno fino a Moûtiers e navetta; Aeroporto di Lione o Ginevra con transfer.",
+        quando: "Dicembre-aprile; Val Thorens ha neve più a lungo.",
+        tempo: "minimo 4-5 giorni",
+        consiglio: "Scegliere la base in base al livello: Méribel al centro, Val Thorens in quota."
+      },
+      {
+        nome: "Paradiski",
+        testo: "La Plagne e Les Arcs collegate dal Vanoise Express, una funivia a due piani che attraversa la valle in pochi minuti.",
+        come: "Treno fino a Bourg-Saint-Maurice e navetta.",
+        quando: "Dicembre-aprile.",
+        tempo: "4-5 giorni",
+        consiglio: "Les Arcs 1950 è un villaggio pedonale con atmosfera più vivace."
+      },
+      {
+        nome: "Tignes e Val d'Isère",
+        testo: "Due stazioni ad alta quota, collegate nell'Espace Killy, con ghiacciai e neve più lunga della stagione. Val d'Isère ha più atmosfera, Tignes ha impianti moderni.",
+        come: "Treno a Bourg-Saint-Maurice e navetta.",
+        quando: "Dicembre-aprile; ghiacciaio anche in estate.",
+        tempo: "4-5 giorni",
+        consiglio: "Tignes ha neve più sicura a inizio e fine stagione."
+      },
+      {
+        nome: "Chamonix",
+        testo: "Una valle, più che un comprensorio collegato, ai piedi del Monte Bianco, capitale dell'alpinismo. Per sciatori esperti, con la Vallée Blanche dalla Aiguille du Midi.",
+        come: "Treno da Ginevra o Parigi; i bus collegano i settori.",
+        quando: "Gennaio-aprile.",
+        tempo: "4-5 giorni",
+        consiglio: "La Vallée Blanche va fatta con una guida."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "5 giorni",
+        tappe: [
+          "Giorno 1: arrivo e ritiro attrezzatura",
+          "Giorno 2-4: sci tra le valli collegate",
+          "Giorno 5: riposo o gita fuori pista con guida"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Stazioni integrate",
+        perChi: "chi vuole sciare dal portone",
+        testo: "Alloggi ski-in/ski-out, brutti ma comodi, con tutto vicino."
+      },
+      {
+        nome: "Villaggi storici",
+        perChi: "chi vuole atmosfera",
+        testo: "Chalet e ristoranti, ma serve la navetta per le piste."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Tartiflette",
+        testo: "Patate, lardo, cipolla e reblochon gratinati."
+      },
+      {
+        nome: "Fondue savoiarda",
+        testo: "Beaufort, comté ed emmental fusi, con pane."
+      },
+      {
+        nome: "Raclette",
+        testo: "Formaggio fuso su patate e salumi."
+      },
+      {
+        nome: "Vin chaud",
+        testo: "Vino caldo speziato, sulle piste."
+      }
+    ],
+    attenzioni: [
+      "Lo skipass si compra online prima: alla cassa costa di più e c'è coda.",
+      "Il soccorso in pista è a pagamento in molti casi: avere un'assicurazione.",
+      "Fuori pista è pericoloso senza guida e attrezzatura: valanghe."
+    ],
     esperienzeSlugs: ['vallee-blanche', 'aiguille-du-midi', 'scialpinismo-francia'],
     tripSlugs: ['settimana-bianca-francia'],
     imageAlt: 'Una pista innevata sopra Chamonix con le guglie del massiccio del Monte Bianco sullo sfondo',
@@ -1752,6 +2895,89 @@ export const destinazioniFrancia: Destinazione[] = [
     ],
     miaEsperienza:
       'In montagna, in Francia, c\'è una cosa che si nota subito e cambia il modo di stare in quota: **il soccorso pubblico è gratuito**. Sembra una nota amministrativa, ma ha un effetto concreto: nessuno esita a chiamare, e il rapporto con il rischio è più sereno che nei paesi dove un intervento in elicottero vuol dire una fattura da migliaia di euro. Poi c\'è la rete dei GR, che esiste dagli anni Quaranta ed è segnata con due bandierine, una bianca e una rossa, dipinte su rocce, alberi e muri per migliaia di chilometri: puoi partire da un paese qualunque e camminare per un mese seguendo dei tratti di vernice. Del Tour du Mont Blanc mi ha spiazzato quanto è internazionale. In rifugio dormi con persone di dieci nazionalità che fanno lo stesso giro in senso opposto, e le ritrovi tre giorni dopo su un colle. E poi quanto cambia il paesaggio girando intorno a una sola montagna. Il versante francese è verticale e ghiacciato; quello italiano si apre su prati larghissimi, con il massiccio come una parete continua; quello svizzero è ordinato e verde. Tre modi diversi di stare sotto la stessa cima. La cosa più dura da guardare è la Mer de Glace. Scendi la scala verso la grotta di ghiaccio e ai lati ci sono i cartelli con gli anni e il livello del ghiacciaio in quegli anni: 1990 qui, 2000 più sotto, 2010 ancora più sotto. E continui a scendere.',
+    luoghi: [
+      {
+        nome: "Tour du Mont Blanc",
+        testo: "Circa 170 km intorno al massiccio, tra Francia, Italia e Svizzera, con circa 10.000 metri di dislivello. Si fa di solito in 7-11 giorni, da rifugio a rifugio.",
+        come: "Partenza da Les Houches o Chamonix; bus e treni per i rientri.",
+        quando: "Luglio-metà settembre; i rifugi sono aperti solo in estate.",
+        tempo: "7-11 giorni",
+        consiglio: "I rifugi vanno prenotati con mesi di anticipo."
+      },
+      {
+        nome: "Lac Blanc e Grand Balcon",
+        testo: "Escursione sopra Chamonix con vista sul massiccio del Monte Bianco, che si specchia nel lago. Il Grand Balcon Nord è un sentiero panoramico a mezza costa.",
+        come: "Funivia fino a La Flégère, poi sentiero di circa 1 ora fino al lago.",
+        quando: "Mattina; luglio-settembre.",
+        tempo: "mezza giornata",
+        consiglio: "Partire presto per non trovare folla al lago."
+      },
+      {
+        nome: "Mer de Glace e Montenvers",
+        testo: "Il più grande ghiacciaio di Francia, raggiungibile con il trenino a cremagliera del Montenvers. Lungo la scala per scendere sul ghiaccio, cartelli mostrano quanto si è ritirato.",
+        come: "Trenino dalla stazione di Chamonix, circa 20 minuti.",
+        quando: "Mattina; estate e autunno.",
+        tempo: "mezza giornata",
+        consiglio: "Il ghiacciaio si è abbassato di decine di metri: i cartelli lo mostrano."
+      },
+      {
+        nome: "Parco della Vanoise",
+        testo: "Il primo parco nazionale francese, istituito nel 1963. Sul versante alpino occidentale lo stambecco è facile da vedere.",
+        come: "In auto da Pralognan-la-Vanoise o Bonneval-sur-Arc.",
+        quando: "Estate e inizio autunno.",
+        tempo: "2-3 giorni",
+        consiglio: "Portare un binocolo per vedere gli stambecchi."
+      },
+      {
+        nome: "Cirque de Gavarnie (Pirenei)",
+        testo: "Un anfiteatro glaciale con pareti di centinaia di metri e una delle cascate più alte d'Europa. Patrimonio UNESCO.",
+        come: "In auto fino a Gavarnie, poi a piedi circa 1 ora e mezza fino al circo.",
+        quando: "Estate, mattina presto.",
+        tempo: "mezza giornata",
+        consiglio: "Salire presto: il sentiero è fangoso in primavera."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorno 1: Chamonix e Lac Blanc",
+          "Giorno 2: Mer de Glace",
+          "Giorno 3: tappa del Tour du Mont Blanc"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Chamonix",
+        perChi: "chi vuole la montagna",
+        testo: "Ben servita, con funivie e treni."
+      },
+      {
+        nome: "Les Houches",
+        perChi: "chi vuole risparmiare",
+        testo: "Più tranquillo, partenza del tour."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Tartiflette",
+        testo: "Patate, lardo, cipolla e reblochon gratinati."
+      },
+      {
+        nome: "Fondue savoiarda",
+        testo: "Formaggi fusi con pane."
+      },
+      {
+        nome: "Diots",
+        testo: "Salsicce di maiale della Savoia."
+      }
+    ],
+    attenzioni: [
+      "Fuori dalle aree sciistiche il soccorso in montagna in Francia è gratuito: in emergenza chiamare il 112. Un'assicurazione resta consigliata.",
+      "Il tempo cambia in fretta: partire presto e controllare le previsioni di Météo-France.",
+      "Segnalare la propria escursione al rifugio o a un amico."
+    ],
     esperienzeSlugs: ['tour-du-mont-blanc', 'gr20-corsica', 'mer-de-glace'],
     tripSlugs: ['tour-du-mont-blanc'],
     imageAlt: 'Il Mont Pourri innevato e l\'Aiguille Rouge sopra i boschi e i pascoli di Sainte-Foy-Tarentaise, nelle Alpi francesi',

@@ -51,6 +51,102 @@ export const destinazioniBorneo: Destinazione[] = [
     ],
     miaEsperienza:
       'Kota Kinabalu in sé è una città più funzionale che bella, ricostruita dopo i bombardamenti della seconda guerra mondiale, e in mezza giornata la si è capita. Il motivo per venire sta alle spalle. Il Kinabalu si sale in due giorni. Il primo è una scalinata senza fine nella foresta pluviale, sei chilometri di gradini irregolari con l\'umidità addosso, fino al rifugio di Laban Rata a 3.270 metri, dove siamo arrivati nel primo pomeriggio. Il secondo comincia alle due di notte, al buio, sul granito nudo, tenendosi a una corda fissa. La quota si sente: si parte da meno di duemila metri e in poco più di un giorno si è sopra i quattromila, senza acclimatamento, e il mal di testa è la regola più che l\'eccezione. Poi il sole sorge sulla piattaforma di granito, e sotto c\'è tutto il Borneo, con le nuvole sotto i piedi. Il consiglio pratico che conta più di tutti: i permessi sono poco più di centosessanta al giorno e vanno prenotati mesi prima, non settimane.',
+    luoghi: [
+      {
+        nome: "Monte Kinabalu",
+        testo: "4.095 metri, la montagna più alta del Borneo e del sud-est asiatico insulare. Si sale in due giorni: il primo fino al rifugio di Laban Rata a 3.270 metri, il secondo con partenza nella notte per l'alba sul granito nudo della vetta.",
+        come: "La salita è consentita solo con guida obbligatoria e un permesso nominale, prenotato con mesi di anticipo attraverso Sabah Parks e operatori autorizzati. Dalla città al Timpohon Gate sono circa 2 ore e mezza di strada.",
+        quando: "Da marzo a settembre. Con il maltempo la montagna chiude. Prenotare con margine.",
+        tempo: "2 giorni, 1 notte a Laban Rata",
+        url: "https://www.sabahparks.org.my/",
+        consiglio: "Dormire vicino al parco la sera prima della salita e non a Kota Kinabalu, per partire riposati."
+      },
+      {
+        nome: "Kinabalu Park",
+        testo: "Il parco, patrimonio UNESCO, ha una biodiversità tra le più alte del mondo. Si visita anche senza salire in vetta, con sentieri nella foresta, orchidee e un centro botanico.",
+        come: "In bus o auto da Kota Kinabalu verso Ranau, circa 2 ore. Sentieri a piedi dalla sede del parco.",
+        quando: "Al mattino.",
+        tempo: "mezza giornata",
+        url: "https://www.sabahparks.org.my/",
+        consiglio: "Un giorno nel parco è la scelta giusta per chi non fa la salita."
+      },
+      {
+        nome: "Poring Hot Springs e canopy walkway",
+        testo: "Sorgenti termali in un parco a 40 minuti dal Kinabalu, con una passerella sospesa a 40 metri nella foresta nella foresta.",
+        come: "In auto o in taxi dal Kinabalu Park, circa 40 minuti.",
+        quando: "Al mattino per la passerella; il pomeriggio per le vasche.",
+        tempo: "3 ore",
+        consiglio: "Combinare con il Kinabalu Park nello stesso giorno."
+      },
+      {
+        nome: "Parco marino Tunku Abdul Rahman",
+        testo: "Cinque isole a venti minuti di barca dalla città, con spiagge, snorkeling e acqua limpida. La scelta giusta per un pomeriggio di mare dopo la montagna.",
+        come: "In barca dal molo di Jesselton Point, a orari liberi. Si paga la tassa del parco.",
+        quando: "Al mattino, con il mare più calmo.",
+        tempo: "mezza giornata",
+        url: "https://www.sabahparks.org.my/",
+        consiglio: "Mamutik e Manukan sono le più comode; Sapi è la più frequentata."
+      },
+      {
+        nome: "Lungomare, Filipino Market e tramonto",
+        testo: "Il lungomare di Kota Kinabalu, con il mercato del pesce, i banchi serali del Filipino Market e i bar dove si guarda il tramonto sulle isole.",
+        come: "A piedi dal centro. Il mercato è attivo la sera.",
+        quando: "Il tramonto e la sera.",
+        tempo: "2 ore",
+        consiglio: "Mangiare pesce alla griglia ai banchi serali, scegliendolo dal ghiaccio."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno in città",
+        tappe: [
+          "Mattina: barca per Mamutik o Manukan, snorkeling",
+          "Pranzo sull'isola o in città",
+          "Pomeriggio: riposo",
+          "Tramonto sul lungomare e cena ai banchi del Filipino Market"
+        ]
+      },
+      {
+        titolo: "3 giorni con la salita",
+        tappe: [
+          "Giorno 1: arrivo a Kota Kinabalu, trasferimento al Kinabalu Park, notte vicino al parco",
+          "Giorno 2: salita fino a Laban Rata, riposo e cena",
+          "Giorno 3: partenza alle 2, vetta all'alba, discesa e rientro a Kota Kinabalu"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Centro di Kota Kinabalu",
+        perChi: "chi vuole comodità e il lungomare",
+        testo: "Alberghi di ogni fascia vicino al porto e ai ristoranti. Rumoroso la sera."
+      },
+      {
+        nome: "Vicino al Kinabalu Park (Kundasang)",
+        perChi: "chi sale in vetta",
+        testo: "Lodge e guesthouse a 2 ore dalla città, vicino al Timpohon Gate. Fresco la sera."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Hinava",
+        testo: "Pesce crudo marinato in lime con cipolla e zenzero, un piatto tradizionale dei Kadazan-Dusun."
+      },
+      {
+        nome: "Tuaran mee",
+        testo: "Noodles fritti all'uovo con carne e verdure, specialità di Tuaran vicino a Kota Kinabalu."
+      },
+      {
+        nome: "Pesce alla griglia",
+        testo: "Pesce cotto alla brace con sambal, nei banchi del lungomare."
+      }
+    ],
+    attenzioni: [
+      "I permessi per il Kinabalu sono limitati e finiscono mesi prima: non pensare di prenotare sul posto.",
+      "La quota si sente: si sale da 1.866 a 4.095 metri in poco più di un giorno, e il mal di montagna colpisce anche chi è allenato.",
+      "Controllare gli avvisi di viaggio sulla costa orientale del Sabah prima di spostarsi oltre la zona di Kota Kinabalu.",
+      "Portare contanti per i piccoli esercizi: fuori città le carte non sempre funzionano."
+    ],
     esperienzeSlugs: ['monte-kinabalu'],
     tripSlugs: ['borneo-itinerario'],
     imageAlt: 'La cupola e i minareti della moschea cittadina di Kota Kinabalu sotto un cielo temporalesco',
@@ -199,6 +295,90 @@ export const destinazioniBorneo: Destinazione[] = [
     ],
     miaEsperienza:
       'A Sepilok gli oranghi si vedono con più sicurezza che altrove, e conviene dire subito cosa significa. Sono animali orfani o confiscati al commercio illegale, in riabilitazione e abituati alle persone, e le piattaforme servono a integrare il cibo che non sanno ancora trovarsi da soli. Non è natura, e il centro non finge che lo sia. Detto questo, vedere un orango attraversare una corda tesa sopra la testa, a tre metri, con quel modo di muoversi lentissimo e all\'apparenza ragionato, basta a giustificare un viaggio. Il consiglio più utile è andare a entrambe le poppate, perché in certe stagioni la foresta dà abbastanza frutta e non arriva quasi nessuno. Poi c\'è quello che quasi tutti saltano: il centro dei sun bear a duecento metri, con gli orsi più piccoli del mondo salvati dal commercio di animali domestici, e il Sandakan Memorial Park, dove abbiamo passato una mattina, sul sito del campo di prigionia da cui partirono le marce della morte del 1945. Su duemilaquattrocento prigionieri alleati ne sopravvissero sei.',
+    luoghi: [
+      {
+        nome: "Sepilok Orangutan Rehabilitation Centre",
+        testo: "Centro che accoglie oranghi orfani o confiscati al commercio illegale, in riabilitazione prima del ritorno alla foresta. Dalle piattaforme si vedono gli animali arrivare a mangiare, dopo la poppata di frutta.",
+        come: "A 25 km da Sandakan, in taxi o bus. Si cammina su passerelle di legno fino alla piattaforma.",
+        quando: "Due poppate al giorno, al mattino e a primo pomeriggio. Andare a entrambe raddoppia le probabilità.",
+        tempo: "2-3 ore",
+        url: "https://www.sabahtourism.com/",
+        consiglio: "Portare zaino chiuso e niente cibo in mano: i macachi strappano tutto."
+      },
+      {
+        nome: "Bornean Sun Bear Conservation Centre",
+        testo: "Accanto a Sepilok, ospita gli orsi del sole, i più piccoli al mondo, salvati dal commercio di animali. Spesso viene saltato, ed è altrettanto interessante.",
+        come: "A piedi o in taxi da Sepilok, pochi minuti.",
+        quando: "Al mattino o a primo pomeriggio.",
+        tempo: "1 ora",
+        consiglio: "Visitarlo nello stesso giorno degli oranghi."
+      },
+      {
+        nome: "Rainforest Discovery Centre",
+        testo: "Una foresta con passerelle sospese, una torre e sentieri, ottima per vedere uccelli all'alba.",
+        come: "A piedi dal centro di Sepilok o in taxi.",
+        quando: "All'alba per gli uccelli.",
+        tempo: "2 ore",
+        consiglio: "Binocolo e partenza all'alba: è il momento in cui la foresta è più viva."
+      },
+      {
+        nome: "Sandakan Memorial Park",
+        testo: "Il sito del campo di prigionia giapponese della seconda guerra mondiale, da cui partirono le marce della morte verso Ranau. Un parco con un piccolo museo e un percorso nella foresta. Una delle memorie più forti del sud-est asiatico.",
+        come: "A pochi chilometri da Sandakan, in taxi.",
+        quando: "Al mattino.",
+        tempo: "1 ora e mezza",
+        consiglio: "Non saltarlo perché «è solo un parco»: merita il tempo."
+      },
+      {
+        nome: "Agnes Keith House e baia di Sandakan",
+        testo: "La casa coloniale di Agnes Newton Keith, scrittrice americana che raccontò il Borneo e la prigionia. Dalla collina si vede la baia con le case su palafitte.",
+        come: "A piedi o in taxi dal centro di Sandakan.",
+        quando: "Al pomeriggio.",
+        tempo: "1 ora",
+        consiglio: "Salire i 100 Steps per vedere la città dall'alto."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: poppata del mattino a Sepilok, Sun Bear Centre, pranzo, Rainforest Discovery Centre, poppata del pomeriggio",
+          "Giorno 2: Sandakan Memorial Park e Agnes Keith House, poi trasferimento per il Kinabatangan"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Sepilok",
+        perChi: "chi vuole essere vicino al centro degli oranghi",
+        testo: "Lodge e guesthouse nella foresta, vicino ai centri. Tranquillo e senza vita serale."
+      },
+      {
+        nome: "Sandakan",
+        perChi: "chi arriva in aereo o vuole servizi",
+        testo: "Alberghi e ristoranti in città, a 25 km da Sepilok. Più comodo per partire."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Pesce fresco alla griglia",
+        testo: "Pescato di Sandakan, cotto alla brace nei ristoranti sul mare."
+      },
+      {
+        nome: "Hainan chicken rice",
+        testo: "Pollo bollito con riso al brodo, una specialità cinese diffusa."
+      },
+      {
+        nome: "Teh tarik",
+        testo: "Tè con latte condensato, ovunque."
+      }
+    ],
+    attenzioni: [
+      "Nella stagione dei frutti della foresta (dicembre-febbraio circa) gli oranghi trovano cibo da soli e alle poppate ne arrivano meno.",
+      "I macachi strappano zaini aperti, bottiglie e cibo: tenere tutto chiuso.",
+      "Sepilok non è foresta selvatica: gli oranghi sono abituati alle persone. Per la fauna selvatica serve il Kinabatangan.",
+      "Controllare gli avvisi di viaggio per la costa orientale del Sabah."
+    ],
     esperienzeSlugs: ['sepilok-oranghi'],
     tripSlugs: ['borneo-itinerario'],
     imageAlt: 'Due oranghi al Sepilok Orangutan Rehabilitation Centre, ripresi da vicino mentre si nutrono',
@@ -248,6 +428,82 @@ export const destinazioniBorneo: Destinazione[] = [
     ],
     miaEsperienza:
       'Sul Kinabatangan il Borneo mantiene tutte le promesse, e allo stesso tempo si capisce cosa è successo a quest\'isola. Siamo arrivati nel pomeriggio, e la prima uscita al tramonto l\'abbiamo fatta la sera stessa. Si esce in barca all\'alba, si risale il fiume con il motore al minimo e in due ore si vedono nasiche che saltano tra gli alberi, buceri che passano in coppia, macachi e, con un po\' di fortuna, un orango selvatico che si muove lentissimo su un ramo. Poi la barca svolta in un affluente, la fascia di foresta si assottiglia e dietro compaiono le file ordinate delle palme da olio, a perdita d\'occhio. Lì si capisce perché gli animali sono tutti concentrati in una striscia larga poche centinaia di metri. Non è una riserva ben riuscita, è quello che è rimasto. Due cose pratiche contano più delle altre. Restare almeno due notti, perché ogni uscita è una lotteria e quattro biglietti valgono più di due. E portare un binocolo: si guarda quasi sempre a venti metri, e senza si perde metà di quello che la guida indica.',
+    luoghi: [
+      {
+        nome: "Crociera all'alba sul fiume",
+        testo: "Si risale il fiume con il motore al minimo nell'ora più attiva. Si vedono nasiche, macachi, buceri e con fortuna oranghi selvatici sugli alberi.",
+        come: "In barca con il lodge, a orari fissi. I pacchetti comprendono trasferimento, pensione completa e uscite in barca.",
+        quando: "All'alba: la luce è bassa e gli animali sono attivi.",
+        tempo: "2 ore",
+        consiglio: "Un binocolo cambia la giornata più di qualsiasi teleobiettivo."
+      },
+      {
+        nome: "Uscita al tramonto e notturna",
+        testo: "Gli oranghi costruiscono il nido per la notte, le nasiche si radunano sugli alberi in riva e di notte si vedono coccodrilli, civette e altri animali notturni.",
+        come: "In barca con il lodge, a orari fissi.",
+        quando: "Al tramonto e dopo cena.",
+        tempo: "2 ore per uscita",
+        consiglio: "Il repellente ad alta concentrazione serve sul serio: le zanzare sono aggressive."
+      },
+      {
+        nome: "Elefanti pigmei e fauna del fiume",
+        testo: "Gli elefanti pigmei del Borneo, i più piccoli al mondo, si spostano in branco lungo le rive. Il fiume ospita anche coccodrilli d'estuario, otto specie di bucero e macachi.",
+        come: "Si vedono dalla barca, di solito in controluce e a venti-trenta metri.",
+        quando: "Tutto l'anno ma con più probabilità tra marzo e ottobre.",
+        tempo: "durante le uscite",
+        consiglio: "Fare almeno quattro o sei uscite: con due si dipende dalla fortuna."
+      },
+      {
+        nome: "Gomantong Caves",
+        testo: "Grotte enormi con milioni di pipistrelli e rondini, dove si raccolgono i nidi per la zuppa. Si cammina su passerelle di legno tra guano e scarafaggi.",
+        come: "In auto dal lodge o dalla strada principale, circa un'ora. Si visita a piedi con una passerella.",
+        quando: "Al pomeriggio per l'uscita serale dei pipistrelli.",
+        tempo: "2 ore",
+        consiglio: "Portare scarpe chiuse, torcia e mascherina: l'odore è forte."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "2-3 notti",
+        tappe: [
+          "Giorno 1: arrivo a metà giornata, uscita al tramonto",
+          "Giorno 2: crociera all'alba, mattina libera, Gomantong Caves nel pomeriggio, uscita notturna",
+          "Giorno 3: ultima crociera all'alba e partenza"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Sukau",
+        perChi: "chi vuole essere vicino alle uscite sul fiume principale",
+        testo: "Lodge sul fiume con pensione completa. Il luogo classico, un po' più caro."
+      },
+      {
+        nome: "Bilit",
+        perChi: "chi vuole risparmiare",
+        testo: "Lodge più semplici, in un tratto più isolato del fiume. Un po' meno comodo da raggiungere."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Cucina del lodge",
+        testo: "Pasti a buffet o serviti, con riso, pesce e verdure. È l'unica scelta e cambia secondo il lodge."
+      },
+      {
+        nome: "Pesce di fiume",
+        testo: "Il pesce locale è cotto alla griglia o fritto con sambal."
+      },
+      {
+        nome: "Ulam",
+        testo: "Insalata di erbe fresche mangiate con il riso e il sambal."
+      }
+    ],
+    attenzioni: [
+      "Portare contanti: lungo il fiume non ci sono bancomat e molti servizi si pagano solo in ringgit.",
+      "Gli animali si vedono da venti-trenta metri e in controluce: non aspettarsi vicinanza.",
+      "Una notte sola non basta: con due uscite si dipende dalla fortuna.",
+      "Nella stagione delle piogge il fiume sale e gli animali si disperdono: meno avvistamenti."
+    ],
     esperienzeSlugs: ['crociera-kinabatangan'],
     tripSlugs: ['borneo-itinerario'],
     imageAlt: 'Barche di legno colorate ormeggiate sulla riva fangosa del fiume Kinabatangan, con la foresta pluviale sull\'altra sponda',
@@ -294,6 +550,74 @@ export const destinazioniBorneo: Destinazione[] = [
     ],
     miaEsperienza:
       'Non ci sono ancora stato, e per onestà la scheda si ferma alle informazioni verificabili invece di raccontare una giornata inventata. È in lista per due motivi precisi. Il primo è che la foresta primaria non è un dettaglio da naturalisti: alberi emergenti oltre gli ottanta metri e una struttura a strati completa nel sud-est asiatico non esistono quasi più, e la Danum è uno dei pochissimi posti dove si vedono ancora. Il secondo è che è l\'esatto rovescio del Kinabatangan: là gli animali si vedono facilmente perché sono schiacciati in una striscia di verde tra le palme da olio, qui si vedono poco proprio perché hanno ancora quarantatremila ettari in cui stare. Costa parecchio e bisogna mettere in conto almeno tre notti: chi ci va per una passa il tempo quasi solo nei trasferimenti.',
+    luoghi: [
+      {
+        nome: "Canopy walkway",
+        testo: "Una passerella sospesa a 26 metri tra le chiome della foresta primaria. Permette di vedere uccelli e scimmie a livello delle cime.",
+        come: "A piedi dal lodge con una guida, su sentiero segnato.",
+        quando: "All'alba per gli uccelli.",
+        tempo: "2 ore",
+        consiglio: "Andare con una guida: vede ciò che il visitatore perde."
+      },
+      {
+        nome: "Alberi emergenti e foresta primaria",
+        testo: "Alberi che superano gli 80 metri in una foresta con struttura a strati completa, rara nel sud-est asiatico. Quarantatremila ettari protetti.",
+        come: "Con sentieri e uscite guidate dal lodge.",
+        quando: "Al mattino e dopo la pioggia.",
+        tempo: "mezza giornata",
+        consiglio: "Camminare piano e in silenzio: si vede di più di quanto sembri."
+      },
+      {
+        nome: "Night drive e night walk",
+        testo: "Uscite notturne con torcia in fuoristrada o a piedi. È il momento in cui compaiono civette, galagoni, serpenti e, con fortuna, qualche mammifero.",
+        come: "Con le guide del lodge, a orari fissi.",
+        quando: "Dopo il tramonto.",
+        tempo: "2 ore",
+        consiglio: "Non lasciare le uscite notturne per l'ultima sera."
+      },
+      {
+        nome: "Bukit Fatimah e sepolture sulla roccia",
+        testo: "Un belvedere con vista continua sulla foresta e, nel parco, antiche sepolture sulla parete di roccia lasciate secoli fa dalle popolazioni locali.",
+        come: "A piedi con guida, partendo dal lodge.",
+        quando: "Al mattino.",
+        tempo: "3 ore",
+        consiglio: "Chiedere alle guide la storia delle sepolture."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "3 notti",
+        tappe: [
+          "Giorno 1: trasferimento da Lahad Datu, pomeriggio sentiero vicino al lodge, night walk",
+          "Giorno 2: alba sulla canopy walkway, mattina in foresta, pomeriggio belvedere, night drive",
+          "Giorno 3: sentiero lungo con le guide e rientro il giorno dopo"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Borneo Rainforest Lodge",
+        perChi: "chi vuole il lodge dentro la riserva",
+        testo: "Il lodge principale, con pensione completa e attività guidate. Costoso e senza connessione."
+      },
+      {
+        nome: "Danum Valley Field Centre",
+        perChi: "chi cerca una sistemazione semplice",
+        testo: "Ostello del centro di ricerca, con prezzi più bassi e confort minimo."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Cucina del lodge",
+        testo: "Pasti a buffet o serviti, con riso, pesce e verdure. Non c'è altra scelta."
+      }
+    ],
+    attenzioni: [
+      "Non ci si va per gli oranghi: ci sono, ma vederli è imprevedibile. Si va per la foresta.",
+      "Le sanguisughe sono numerose nella stagione umida: calze apposite.",
+      "Non c'è connessione, ed è parte del fascino.",
+      "Una notte sola non ha senso: tolti i trasferimenti rimangono poche ore."
+    ],
     esperienzeSlugs: [],
     tripSlugs: [],
     imageAlt: 'Un fiume che scorre nella foresta pluviale di pianura della Danum Valley, Sabah',
@@ -344,6 +668,88 @@ export const destinazioniBorneo: Destinazione[] = [
     ],
     miaEsperienza:
       'Sipadan regge la sua fama, cosa rara per un posto così celebrato. Si scende lungo una parete che continua nel blu senza un fondo visibile, e dopo pochi minuti passa un banco di barracuda che si avvita in una spirale larga come una casa; le tartarughe sono così tante che dopo la quinta si smette di fotografarle. Prima di prenotare, però, bisogna capire che il permesso decide tutto. Sono poco più di duecentocinquanta al giorno, non si comprano da privati: li assegna Sabah Parks agli operatori, che poi li distribuiscono tra gli ospiti a rotazione, e la rotazione premia chi resta più a lungo. Prenotare due notti e sperare è il modo più sicuro per non immergersi affatto. La sorpresa, comunque, è stata un\'altra: Mabul, che tutti trattano come una base d\'appoggio, è uno dei posti migliori al mondo per il muck diving, e cercare su una gorgonia un cavalluccio pigmeo grande come un\'unghia è divertente quanto un banco di barracuda. Un\'ultima cosa, che turistica non è: intorno alle palafitte vivono i Bajau Laut, spesso senza la cittadinanza di nessuno stato, e il contrasto con i resort a cinquanta metri merita che ci si fermi a pensare.',
+    luoghi: [
+      {
+        nome: "Sipadan",
+        testo: "Un'isola oceanica che sale da una parete di oltre 600 metri. Le immersioni sono tra le più famose al mondo, con Barracuda Point, Drop Off e Turtle Tomb.",
+        come: "Solo con operatori autorizzati che hanno i permessi di Sabah Parks. Ogni permesso dà diritto a tre immersioni sull'isola nello stesso giorno.",
+        quando: "Da aprile a settembre. I permessi (circa 250 al giorno) vanno prenotati mesi prima.",
+        tempo: "1 giorno per permesso",
+        url: "https://www.sabahparks.org.my/",
+        consiglio: "Prenotare 4-5 notti: la rotazione dei permessi premia i soggiorni più lunghi."
+      },
+      {
+        nome: "Mabul",
+        testo: "Una piccola isola famosa per il muck diving: cavallucci marini pigmei, polpi mimetici, nudibranchi e pesci rana su fondali sabbiosi.",
+        come: "Dai resort su palafitte, in barca per le immersioni.",
+        quando: "Da aprile a settembre.",
+        tempo: "2-3 giorni",
+        consiglio: "Dormire a Mabul, non a Semporna, per essere vicino ai siti."
+      },
+      {
+        nome: "Kapalai",
+        testo: "Un banco di sabbia con resort su palafitte nell'acqua, con snorkeling e immersioni da ottime a eccellenti.",
+        come: "Con le barche dei resort da Mabul.",
+        quando: "Da aprile a settembre.",
+        tempo: "mezza giornata",
+        consiglio: "Informarsi se il resort è ancora aperto prima di prenotare."
+      },
+      {
+        nome: "Comunità Bajau Laut",
+        testo: "I «nomadi del mare» vivono su barche e palafitte, spesso senza cittadinanza. A Semporna si vedono i bambini che remano in barca per chiedere l'elemosina.",
+        come: "Con operatori che lavorano con le comunità, non per fare foto.",
+        quando: "Tutto l'anno.",
+        tempo: "mezza giornata",
+        consiglio: "Non dare soldi ai bambini in barca: incoraggia a non andare a scuola."
+      },
+      {
+        nome: "Bohey Dulang",
+        testo: "L'isola con un cratere vulcanico e un sentiero panoramico sulla laguna, nel parco marino Tun Sakaran.",
+        come: "In barca da Semporna con tour organizzati.",
+        quando: "Al mattino.",
+        tempo: "mezza giornata",
+        url: "https://www.sabahparks.org.my/",
+        consiglio: "Portare scarpe da trekking e acqua: il sentiero è ripido."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "4-5 giorni",
+        tappe: [
+          "Giorno 1: arrivo a Tawau, trasferimento a Semporna e Mabul",
+          "Giorno 2-4: immersioni a Sipadan quando c'è il permesso, muck diving a Mabul negli altri giorni",
+          "Giorno 5: Kapalai o Bohey Dulang, rientro a Semporna"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Mabul",
+        perChi: "chi fa immersioni e vuole stare vicino ai siti",
+        testo: "Resort e lodge su palafitte, spesso con pacchetti completi. Costoso e senza altra scelta."
+      },
+      {
+        nome: "Semporna",
+        perChi: "chi vuole risparmiare",
+        testo: "Alberghi in città, con trasferimenti in barca ai siti. Meno comodo e più rumoroso."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Pesce alla griglia",
+        testo: "Pescato fresco nei ristoranti sul molo di Semporna."
+      },
+      {
+        nome: "Curry di pesce",
+        testo: "Curry piccante di pesce con riso, nei locali di Semporna."
+      }
+    ],
+    attenzioni: [
+      "I permessi per Sipadan non si comprano da privati: li dà Sabah Parks agli operatori, e due notti non bastano.",
+      "Controllare gli avvisi di sicurezza sulla costa orientale del Sabah: la zona è presidiata, ma va controllata prima di partire.",
+      "Non dare soldi ai bambini Bajau in barca.",
+      "Da novembre a febbraio il mare è più mosso e alcune uscite saltano."
+    ],
     esperienzeSlugs: ['diving-sipadan'],
     tripSlugs: ['borneo-itinerario'],
     imageAlt: 'Un banco di pesci e il reef corallino nelle acque di Sipadan, illuminati dai raggi del sole',
@@ -393,6 +799,109 @@ export const destinazioniBorneo: Destinazione[] = [
     ],
     miaEsperienza:
       'Kuching è la sorpresa del Borneo: una città di fiume tranquilla, con il lungofiume pedonale, le case cinesi basse e una vivibilità che nessun\'altra città malese di queste dimensioni ha. Il Sarawak laksa a colazione, in una di quelle sale con i ventilatori al soffitto, è una delle cose migliori di tutta la Malesia. Bako è il parco che rende. Si arriva solo in barca, con gli orari decisi dalla marea, e in un\'ora di sentiero si incontrano le nasiche, le scimmie dal naso enorme che esistono solo su quest\'isola: si guardano da pochi metri mentre mangiano foglie, senza badare a chi passa. Su Semenggoh, invece, meglio essere chiari: gli oranghi sono liberi e tornano alle piattaforme solo quando la foresta offre poco, quindi tra novembre e marzo può non arrivare nessuno, e la riserva lo scrive all\'ingresso. Chi ha già visto Sepilok non venga nel Sarawak per questo: ci venga per Bako, per le longhouse e per la città.',
+    luoghi: [
+      {
+        nome: "Lungofiume di Kuching",
+        testo: "Il lungofiume pedonale sul fiume Sarawak, con vecchie shophouse cinesi, il Fort Margherita sull'altra sponda e le barche. Una città tranquilla e vivibile.",
+        come: "A piedi dal centro. I sampan attraversano il fiume per pochi ringgit.",
+        quando: "La sera, con le luci accese.",
+        tempo: "2 ore",
+        consiglio: "Prendere un sampan per il Fort Margherita e tornare a piedi."
+      },
+      {
+        nome: "Sarawak Museum e Borneo Cultures Museum",
+        testo: "Due musei etnografici tra i migliori della regione: gli oggetti delle popolazioni dayak e un museo nuovo, aperto di recente, con collezioni e ricostruzioni di longhouse.",
+        come: "Nel centro di Kuching, a piedi o in taxi.",
+        quando: "Al mattino o nelle ore più calde.",
+        tempo: "2 ore",
+        url: "https://sarawaktourism.com/",
+        consiglio: "Visitarli prima di andare in una longhouse: aiuta a capire cosa si sta vedendo."
+      },
+      {
+        nome: "Parco nazionale di Bako",
+        testo: "Un parco sul mare con nasiche, macachi, maiali barbuti e formazioni di arenaria sulla costa. Un'ora di sentiero porta a vedere le nasiche a pochi metri.",
+        come: "Bus da Kuching fino a Kampung Bako, poi barca di 20-30 minuti. Gli orari dipendono dalla marea.",
+        quando: "Al mattino, con la marea giusta.",
+        tempo: "1 giorno",
+        consiglio: "Controllare gli orari delle maree: si rischia di restare bloccati."
+      },
+      {
+        nome: "Semenggoh Nature Reserve",
+        testo: "Una riserva con oranghi riabilitati ormai liberi, che tornano alle piattaforme solo quando manca frutta nella foresta.",
+        come: "In taxi o tour da Kuching, circa 45 minuti.",
+        quando: "Due sessioni al giorno, mattina e pomeriggio. Da aprile a ottobre le probabilità sono molto più alte.",
+        tempo: "2-3 ore",
+        consiglio: "Non andarci tra novembre e marzo contando di vederli."
+      },
+      {
+        nome: "Sarawak Cultural Village",
+        testo: "Un villaggio-museo con le case tradizionali dei diversi gruppi etnici del Sarawak, con dimostrazioni di artigianato e danze.",
+        come: "In bus o tour da Kuching, circa 35 minuti.",
+        quando: "Al mattino.",
+        tempo: "mezza giornata",
+        consiglio: "È una ricostruzione: va visto come introduzione, non al posto di una longhouse vera."
+      },
+      {
+        nome: "Grotte di Niah",
+        testo: "Grotte con tracce di presenza umana di quarantamila anni fa, nel Sarawak settentrionale.",
+        come: "Da Miri, circa 2 ore di strada, poi una passerella nella foresta.",
+        quando: "Al mattino.",
+        tempo: "mezza giornata",
+        consiglio: "Si raggiungono con una deviazione dal nord: valutare il tempo."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorno 1: lungofiume, musei e Sarawak laksa a colazione",
+          "Giorno 2: Bako con la barca del mattino, ritorno nel pomeriggio",
+          "Giorno 3: Semenggoh al mattino, Sarawak Cultural Village al pomeriggio"
+        ]
+      },
+      {
+        titolo: "4 giorni",
+        tappe: [
+          "Come i 3 giorni, con il quarto per una longhouse o una escursione fuori città"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Centro di Kuching (Waterfront)",
+        perChi: "chi vuole fare tutto a piedi",
+        testo: "Alberghi e guesthouse vicino al lungofiume e ai ristoranti. Comodissimo, rumoroso la sera."
+      },
+      {
+        nome: "Dintorni di Bako",
+        perChi: "chi vuole svegliarsi nella foresta",
+        testo: "Pochi lodge vicino al parco, per vedere gli animali all'alba."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Sarawak laksa",
+        testo: "Noodles in brodo di spezie e cocco con gamberi, pollo e uovo. È la colazione di Kuching ed è tra le cose migliori della Malesia."
+      },
+      {
+        nome: "Kolo mee",
+        testo: "Noodles conditi con carne e salsa, serviti a colazione."
+      },
+      {
+        nome: "Midin",
+        testo: "Una felce selvatica saltata con aglio, tipica del Sarawak."
+      },
+      {
+        nome: "Pesce in foglia di banana",
+        testo: "Pesce marinato e cotto in foglia, cucina dei dayak."
+      }
+    ],
+    attenzioni: [
+      "Il Sarawak ha una propria immigrazione: un nuovo timbro sul passaporto anche arrivando dalla penisola o dal Sabah.",
+      "A Bako gli orari dipendono dalla marea: controllare prima.",
+      "A Semenggoh gli oranghi non sono garantiti: tra novembre e marzo mangiano nella foresta.",
+      "Scegliere con cura la longhouse: le esperienze vanno dalla visita costruita al soggiorno vero."
+    ],
     esperienzeSlugs: ['bako-nasiche'],
     tripSlugs: [],
     imageAlt: 'Il monte Santubong nella foschia oltre il fiume Sarawak, vicino a Kuching',
@@ -442,6 +951,79 @@ export const destinazioniBorneo: Destinazione[] = [
     ],
     miaEsperienza:
       'Non ci sono ancora stato, e la scheda si ferma ai fatti invece di raccontare una giornata che non c\'è stata. È però in lista per un motivo preciso: le dimensioni. La Sarawak Chamber è la camera sotterranea più grande conosciuta (nei paragoni che si trovano in giro ci starebbero dentro diversi aerei di linea affiancati), e la Deer Cave ha un\'imboccatura così ampia che l\'uscita serale dei pipistrelli sembra una colonna di fumo scuro che si arrotola sopra la foresta. Prima di sognarci sopra bisogna sapere una cosa di logistica: al Mulu si arriva solo in aereo, i posti letto nel parco sono pochi e limitano i visitatori, e quindi si prenota al contrario del solito: prima il letto, poi il volo.',
+    luoghi: [
+      {
+        nome: "Deer Cave e uscita dei pipistrelli",
+        testo: "Una delle grotte più grandi del mondo, con un'imboccatura enorme. La sera milioni di pipistrelli escono a spirale verso la foresta, come una colonna di fumo.",
+        come: "A piedi dal quartier generale del parco su passerella. Si vede la Deer Cave con un tour insieme alla Lang Cave; l'uscita dei pipistrelli si osserva da una piattaforma.",
+        quando: "Al tramonto. Se piove i pipistrelli non escono.",
+        tempo: "mezza giornata",
+        url: "https://www.mulupark.com/",
+        consiglio: "Non pianificare l'uscita come l'unica sera: con la pioggia può saltare."
+      },
+      {
+        nome: "Lang Cave",
+        testo: "Una grotta più piccola e ricca di concrezioni, stalattiti e stalagmiti illuminate.",
+        come: "Con tour guidato dal quartier generale.",
+        quando: "Al mattino.",
+        tempo: "1 ora e mezza",
+        consiglio: "Si abbina alla Deer Cave nello stesso tour."
+      },
+      {
+        nome: "Clearwater Cave e Wind Cave",
+        testo: "Grotte raggiungibili in barca lungo il fiume. La Clearwater Cave ha un fiume sotterraneo e la Wind Cave fresche gallerie con formazioni.",
+        come: "In barca dal quartier generale, poi a piedi con una guida.",
+        quando: "Al mattino.",
+        tempo: "mezza giornata",
+        url: "https://www.mulupark.com/",
+        consiglio: "Portare un costume: nelle pozze del fiume ci si può bagnare."
+      },
+      {
+        nome: "Pinnacoli del Gunung Api",
+        testo: "Lame di calcare alte decine di metri sul versante della montagna. Un trekking su roccia e scale a pioli, tra i più impegnativi della regione.",
+        come: "Solo con guida del parco, con limiti di tempo fissi e una notte in un campo base.",
+        quando: "Nella stagione più asciutta.",
+        tempo: "2-3 giorni",
+        consiglio: "Sottovalutarlo è l'errore più comune: serve allenamento."
+      },
+      {
+        nome: "Canopy skywalk",
+        testo: "Una passerella sospesa tra le chiome della foresta, tra le più lunghe al mondo.",
+        come: "A piedi dal quartier generale.",
+        quando: "Al mattino presto.",
+        tempo: "1 ora",
+        consiglio: "Combinarla con una camminata in foresta."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorno 1: arrivo in aereo, Deer Cave, Lang Cave e uscita dei pipistrelli",
+          "Giorno 2: barca per Clearwater Cave e Wind Cave, canopy skywalk",
+          "Giorno 3: mattina libera e volo di rientro"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Dentro il parco (vicino al quartier generale)",
+        perChi: "tutti: i posti letto sono pochi",
+        testo: "Lodge, ostello e un resort vicino all'ingresso. Si prenota prima il letto, poi il volo."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Cucina del lodge",
+        testo: "Pasti semplici, con riso, pesce e verdure."
+      }
+    ],
+    attenzioni: [
+      "Si arriva solo in aereo e i posti letto nel parco sono pochi: prenotare prima l'alloggio, poi il volo.",
+      "L'uscita dei pipistrelli non è garantita: se piove, restano dentro.",
+      "Il trekking dei Pinnacoli è duro: roccia e scale a pioli, con limiti di tempo.",
+      "Una notte sola non basta: tra voli e distanze resterebbe poco tempo."
+    ],
     esperienzeSlugs: [],
     tripSlugs: [],
   },

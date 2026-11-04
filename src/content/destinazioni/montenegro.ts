@@ -36,6 +36,99 @@ export const destinazioniMontenegro: Destinazione[] = [
       'Salire alle mura con il caldo e senza acqua',
       'Dormire in città vecchia con l\'auto: i parcheggi sono pochi e cari',
     ],
+    luoghi: [
+      {
+        nome: "Città vecchia di Kotor",
+        testo: "Un labirinto di vicoli medievali veneziani dentro mura del Trecento, patrimonio UNESCO. Piazze minuscole, chiese romaniche e la cattedrale di San Trifone, consacrata nel 1166.",
+        come: "Si arriva in auto o bus fino ai parcheggi fuori dalle mura e si entra dalla Porta del Mare. Si visita a piedi da soli.",
+        quando: "Presto la mattina o la sera: tra le 10 e le 16, con le navi da crociera in porto, i vicoli si riempiono.",
+        tempo: "2-3 ore",
+        consiglio: "Perdersi nei vicoli senza mappa: la città è piccola e ci si ritrova sempre."
+      },
+      {
+        nome: "Fortezza di San Giovanni",
+        testo: "Le mura salgono lungo la montagna fino alla fortezza a circa 260 metri sopra la città. Dall'alto si vede tutta la baia, con la sua forma a fiordo.",
+        come: "Il sentiero parte dalla città vecchia ed è fatto di scalini irregolari: circa 1.350. Scarpe chiuse e acqua.",
+        quando: "All'apertura o nel tardo pomeriggio, mai nelle ore calde d'estate. In alto non c'è ombra.",
+        tempo: "1 ora e mezza tra salita, sosta e discesa",
+        consiglio: "Controllare gli orari di apertura della biglietteria: esiste anche una salita da un ingresso laterale, meno affollata."
+      },
+      {
+        nome: "Perast e le isole",
+        testo: "Un paese barocco in una sola fila di palazzi sull'acqua. Davanti ci sono due isolotti: lo scoglio della Madonna dello Scarpello, artificiale, e San Giorgio, con il monastero benedettino.",
+        come: "Da Kotor a Perast sono circa 12 km di strada costiera. Dal molo partono le barche dei pescatori per le isole, 10 minuti di traversata.",
+        quando: "Mattina o fine pomeriggio. Le barche partono quando sono piene.",
+        tempo: "2-3 ore con la traversata",
+        consiglio: "Fissare il prezzo della barca prima di salire, e andata e ritorno insieme."
+      },
+      {
+        nome: "Risan e i mosaici romani",
+        testo: "Il più antico insediamento della baia. Sotto le case sono rimasti i mosaici di una villa romana, con la scena di Ipnos, il dio del sonno.",
+        come: "Da Kotor 17 km sulla strada per Herceg Novi. Si visita in pochi minuti.",
+        quando: "Tutto l'anno, di mattina.",
+        tempo: "30 minuti",
+        consiglio: "Tappa breve sulla strada per Perast, non una giornata a sé."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Kotor all'apertura, con la salita alla fortezza",
+          "Pranzo in città vecchia",
+          "Perast e barca per la Madonna dello Scarpello nel pomeriggio",
+          "Tramonto sulla riva di Dobrota"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: Kotor, mura e fortezza al mattino, città vecchia nel pomeriggio",
+          "Giorno 2: Risan, Perast e giro in barca nelle isole, poi Prčanj e Dobrota"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Città vecchia di Kotor",
+        perChi: "chi vuole l'atmosfera",
+        testo: "Si dorme dentro le mura, a piedi da tutto. Di giorno è rumorosa per le crociere e la sera i locali restano aperti fino a tardi. Le auto non entrano: si lascia la macchina fuori."
+      },
+      {
+        nome: "Dobrota, Muo e Prčanj",
+        perChi: "chi viaggia in auto",
+        testo: "Sulla riva a 2-4 km da Kotor, con parcheggio più facile e meno folla. Il centro si raggiunge con un'ora a piedi o un bus locale."
+      },
+      {
+        nome: "Perast",
+        perChi: "chi cerca silenzio",
+        testo: "Pochi alberghi e palazzi trasformati in camere. Dopo le 17, quando partono i gruppi, il paese è quasi vuoto. Pochi ristoranti."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Pesce alla griglia",
+        testo: "Orata, branzino e calamari, di solito a peso, nelle konobe lungo la baia (Dobrota, Prčanj, Perast)."
+      },
+      {
+        nome: "Crni rižot",
+        testo: "Risotto nero al nero di seppia, piatto tipico della costa, da provare nelle trattorie familiari."
+      },
+      {
+        nome: "Pršut e formaggio di Njeguši",
+        testo: "Prosciutto affumicato e formaggio stagionato, che arrivano dalla montagna sopra Kotor."
+      },
+      {
+        nome: "Vranac",
+        testo: "Rosso corposo del Montenegro, quasi sempre disponibile al bicchiere."
+      }
+    ],
+    attenzioni: [
+      "Con le navi da crociera in porto (di solito da maggio a ottobre) Kotor è congestionata dalle 10 alle 16: si evita arrivando presto.",
+      "Taxi non ufficiali all'aeroporto di Tivat: usare quelli con tariffa esposta o concordare il prezzo prima di salire.",
+      "Parcheggi a Kotor e Perast spesso a pagamento e con controlli frequenti: usare i parcheggi indicati e conservare lo scontrino.",
+      "Nella baia il traghetto Kamenari-Lepetani evita il giro lungo di circa 40 km; d'estate la coda può durare a lungo."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['montenegro-itinerario'],
     imageAlt: 'I tetti di tegole rosse della città vecchia di Kotor e le cupole della chiesa di San Nicola',
@@ -62,6 +155,82 @@ export const destinazioniMontenegro: Destinazione[] = [
     periodoMigliore: 'maggio-ottobre; d\'inverno la strada del mausoleo può essere innevata.',
     costi: 'Ingresso al parco nazionale e al mausoleo pochi euro ciascuno.',
     erroriDaEvitare: ['Affrontare le serpentine con un camper grande o di notte', 'Salire con le nuvole basse: la vista sparisce'],
+    luoghi: [
+      {
+        nome: "Strada delle 25 serpentine",
+        testo: "La vecchia strada austro-ungarica che sale da Kotor al Lovćen con 25 tornanti numerati. In pochi chilometri si passa dal mare a 1.000 metri, con la baia sempre più piccola sotto.",
+        come: "Si percorre in auto da Kotor, circa 1 ora fino a Njeguši con le soste. Strada stretta, con molti pullman.",
+        quando: "Mattina, per avere luce sulla baia e meno traffico.",
+        tempo: "1 ora con le soste",
+        consiglio: "Le soste panoramiche sono poche e piccole: fermarsi dove c'è spazio sicuro."
+      },
+      {
+        nome: "Njeguši",
+        testo: "Il villaggio d'origine della dinastia Petrović-Njegoš, a 900 metri. Qui si mangiano il prosciutto affumicato e il formaggio che hanno reso famosa la zona.",
+        come: "Sulla strada tra Kotor e il Lovćen. Si pranza in una delle trattorie.",
+        quando: "Ora di pranzo, tutto l'anno.",
+        tempo: "1 ora",
+        consiglio: "Il pršut si compra anche intero o a fette sottovuoto, per portarlo a casa."
+      },
+      {
+        nome: "Mausoleo di Njegoš",
+        testo: "In cima al Jezerski vrh, a 1.657 metri, la tomba del principe-vescovo e poeta Petar II Petrović-Njegoš. Si sale per 461 gradini scavati nella roccia. Dalla terrazza si vedono la baia, il lago di Scutari e, nei giorni limpidi, l'Adriatico.",
+        come: "In auto dal parcheggio, con l'ultimo tratto a piedi dopo il tunnel.",
+        quando: "Mattina presto o tardo pomeriggio. In inverno la strada può essere chiusa dalla neve.",
+        tempo: "1 ora e mezza",
+        consiglio: "Controllare il meteo: con nuvole basse non si vede nulla."
+      },
+      {
+        nome: "Cetinje",
+        testo: "L'antica capitale storica del Montenegro, con palazzi di ambasciate dell'Ottocento e il piccolo palazzo del re Nicola. Il monastero di Cetinje custodisce le reliquie di San Pietro e il Museo Nazionale la Biljarda, dove visse Njegoš.",
+        come: "Da Njeguši circa 25 minuti in auto. In città si cammina.",
+        quando: "Mattina. Molti musei chiudono il lunedì e nei giorni festivi: da verificare.",
+        tempo: "2-3 ore",
+        consiglio: "Il Museo del Re Nicola e la Biljarda si visitano con guida in italiano o inglese."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Salita alle 25 serpentine da Kotor",
+          "Pranzo a Njeguši",
+          "Mausoleo di Njegoš",
+          "Cetinje nel pomeriggio e rientro per la strada di Budva"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Cetinje",
+        perChi: "chi vuole una base fuori dal mare",
+        testo: "Città universitaria e tranquilla, a 30-40 minuti da Kotor e Budva. Pochi alberghi, vita serale limitata."
+      },
+      {
+        nome: "Kotor",
+        perChi: "chi fa la gita in giornata",
+        testo: "Più comodo per gli orari e per i ristoranti. Si sale in auto la mattina e si rientra la sera."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Pršut di Njeguši",
+        testo: "Prosciutto crudo di maiale affumicato con legno di faggio e stagionato in quota."
+      },
+      {
+        nome: "Formaggio njeguški",
+        testo: "Formaggio vaccino stagionato, sapido, tipico dell'area."
+      },
+      {
+        nome: "Njeguški steak",
+        testo: "Cotoletta di vitello farcita con prosciutto e formaggio, servita nelle trattorie del villaggio."
+      }
+    ],
+    attenzioni: [
+      "La strada delle serpentine ha curve strette e pullman: precedenza a chi sale e attenzione ai tornanti.",
+      "Evitare i giorni di nebbia: le curve sono fitte e la visibilità cala.",
+      "Le trattorie lungo la strada a volte fanno pagare di più le porzioni «a peso»: chiedere il prezzo prima di ordinare."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['montenegro-itinerario'],
     imageAlt: 'Prati e alberi sull\'altopiano del parco nazionale del Lovćen',
@@ -87,6 +256,74 @@ export const destinazioniMontenegro: Destinazione[] = [
     periodoMigliore: 'giugno e settembre.',
     costi: 'Lettini e ombrelloni 15-30 € al giorno in alta stagione.',
     erroriDaEvitare: ['Aspettarsi una Budva tranquilla in agosto', 'Contare sulla visita dell\'isola di Sveti Stefan: è riservata agli ospiti del resort'],
+    luoghi: [
+      {
+        nome: "Città vecchia di Budva",
+        testo: "Un nucleo fortificato su una penisola, con mura veneziane del Quattrocento, la cittadella e vicoli di pietra. Fu in gran parte ricostruita dopo il terremoto del 1979.",
+        come: "A piedi dai parcheggi della Riviera. La Cittadella ha un ingresso a pagamento per il panorama.",
+        quando: "Sera per l'atmosfera, mattina per la luce sul mare.",
+        tempo: "1-2 ore",
+        consiglio: "Evitare i ristoranti con camerieri che invitano ad entrare."
+      },
+      {
+        nome: "Sveti Stefan",
+        testo: "Un isolotto-villaggio di pietra collegato a terra da un istmo, trasformato in resort di lusso. Il celebre colpo d'occhio è dal belvedere sulla strada sopra la baia.",
+        come: "Da Budva circa 6 km. L'isola è accessibile solo agli ospiti dell'albergo e ai clienti dei suoi ristoranti.",
+        quando: "Tardo pomeriggio, con la luce dorata sulle pietre.",
+        tempo: "30 minuti per la sosta panoramica",
+        consiglio: "Si può scendere alla spiaggia ai lati dell'istmo, ma è a pagamento in estate."
+      },
+      {
+        nome: "Petrovac",
+        testo: "Una baia più raccolta, 17 km a sud di Budva, con lungomare, forte veneziano e un paio di isolotti. Più tranquilla e per famiglie.",
+        come: "Da Budva in auto in 20 minuti o con il bus costiero.",
+        quando: "Giugno e settembre per mare e prezzi più bassi.",
+        tempo: "mezza giornata",
+        consiglio: "Una buona base per chi vuole mare senza la vita notturna di Budva."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Città vecchia di Budva al mattino",
+          "Pranzo sul mare",
+          "Belvedere di Sveti Stefan nel pomeriggio",
+          "Bagno e cena a Petrovac"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Budva",
+        perChi: "chi cerca vita notturna",
+        testo: "Alberghi, locali e spiagge affollate. Più rumore e traffico d'estate."
+      },
+      {
+        nome: "Petrovac e Pržno",
+        perChi: "chi vuole tranquillità",
+        testo: "Baie più piccole, ristoranti sul mare, meno locali."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Pesce e frutti di mare",
+        testo: "Calamari, branzino e gamberi alla griglia, nelle konobe sulle baie."
+      },
+      {
+        nome: "Burek e pita",
+        testo: "Pasta sfoglia ripiena di formaggio o carne, per uno spuntino veloce."
+      },
+      {
+        nome: "Rakija",
+        testo: "Grappa di frutta, offerta spesso a fine pasto."
+      }
+    ],
+    attenzioni: [
+      "In luglio e agosto la strada della Riviera è congestionata: partire presto o la sera.",
+      "Le spiagge in concessione fanno pagare lettini e ombrelloni anche con prezzi molto diversi tra una baia e l'altra: chiedere prima.",
+      "Ristoranti con menu senza prezzi: chiedere sempre il conto indicativo prima di ordinare pesce a peso."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['montenegro-itinerario'],
     imageAlt: 'La riviera di Budva vista dall\'alto, con l\'isola di San Nicola e la città vecchia',
@@ -112,6 +349,74 @@ export const destinazioniMontenegro: Destinazione[] = [
     periodoMigliore: 'maggio-ottobre; primavera e autunno per gli uccelli.',
     costi: 'Parco nazionale circa 5 €; giro in barca 15-30 € a persona.',
     erroriDaEvitare: ['Salire su barche senza licenza del parco', 'Percorrere la strada del lago di sera: è stretta e senza illuminazione'],
+    luoghi: [
+      {
+        nome: "Virpazar e il giro in barca",
+        testo: "Il paese di pescatori sulla riva nord del lago, da cui partono le barche tra ninfee, canneti e pellicani. Il Parco Nazionale del Lago di Scutari è la più grande riserva di uccelli d'acqua dei Balcani.",
+        come: "Da Podgorica 30 minuti in auto. Le barche partono dal molo e dalle agenzie del paese.",
+        quando: "Mattina o tardo pomeriggio per vedere gli uccelli. Ninfee in fiore da giugno a luglio.",
+        tempo: "2-3 ore",
+        consiglio: "Concordare durata, percorso e prezzo prima di salire."
+      },
+      {
+        nome: "Pavlova Strana",
+        testo: "Un belvedere sulla strada sopra il lago dove un'ansa del fiume Crnojević disegna una forma a cuore. Il panorama più fotografato della zona.",
+        come: "In auto da Virpazar per una strada di montagna, circa 20 minuti.",
+        quando: "Tardo pomeriggio.",
+        tempo: "30 minuti",
+        consiglio: "Il parcheggio è piccolo: arrivare presto."
+      },
+      {
+        nome: "Rijeka Crnojevića",
+        testo: "Un borgo sul fiume, con un ponte di pietra ottomano e il vecchio porto. Le barche per il lago partono da qui.",
+        come: "Da Cetinje 30 minuti in auto.",
+        quando: "Mattina.",
+        tempo: "1 ora e mezza",
+        consiglio: "Provare il pesce di lago nelle trattorie lungo il fiume."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Virpazar e giro in barca la mattina",
+          "Pranzo con pesce di lago",
+          "Pavlova Strana nel pomeriggio",
+          "Cantina familiare per una degustazione"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Virpazar",
+        perChi: "chi vuole il lago",
+        testo: "Camere in case di famiglia, ristoranti di pesce e partenze delle barche a piedi."
+      },
+      {
+        nome: "Rijeka Crnojevića",
+        perChi: "chi cerca silenzio",
+        testo: "Pochissimi alloggi, ma luce serale bellissima e nessun turismo organizzato."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Carpa e anguilla del lago",
+        testo: "Cotti in umido o fritti, nelle trattorie sul lago."
+      },
+      {
+        nome: "Vranac e kratošija",
+        testo: "I vini rossi della zona di Crmnica, in cantine familiari."
+      },
+      {
+        nome: "Lozova rakija",
+        testo: "Distillato d'uva, spesso fatto in casa."
+      }
+    ],
+    attenzioni: [
+      "I prezzi dei giri in barca variano molto: chiedere il prezzo per persona e la durata prima.",
+      "Le zanzare sono tante da giugno ad agosto: portare repellente.",
+      "Il parco richiede un biglietto d'ingresso: acquistarlo solo in punti ufficiali e conservarlo."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['montenegro-itinerario'],
     imageAlt: 'Il vecchio ponte in pietra di Rijeka Crnojevića sul fiume che scende al lago di Scutari',
@@ -135,6 +440,57 @@ export const destinazioniMontenegro: Destinazione[] = [
     periodoMigliore: 'tutto l\'anno; affollato a metà maggio per la festa di San Basilio e nei fine settimana d\'estate.',
     costi: 'Ingresso libero, offerte ben accette.',
     erroriDaEvitare: ['Arrivare con spalle o gambe scoperte', 'Fotografare all\'interno delle cappelle'],
+    luoghi: [
+      {
+        nome: "Monastero superiore",
+        testo: "Una chiesa e le celle scavate nella parete verticale della roccia, a circa 900 metri. Fu fondato nel Seicento da San Basilio di Ostrog, le cui reliquie sono nella cappella-grotta. È il santuario ortodosso più visitato del Paese.",
+        come: "In auto da Podgorica o Nikšić fino ai parcheggi, poi a piedi. L'ultimo tratto di strada è stretto e ripido, a senso alternato.",
+        quando: "Mattina presto, per evitare le file. A metà maggio (festa di San Basilio) è affollatissimo.",
+        tempo: "1-2 ore",
+        consiglio: "Abiti coprenti: spalle e ginocchia coperte, niente pantaloncini."
+      },
+      {
+        nome: "Monastero inferiore",
+        testo: "Più piccolo, a 3 km dal santuario, con una chiesa dell'Ottocento e affreschi. Molti pellegrini si fermano qui prima di salire.",
+        come: "Lungo la strada che sale al monastero superiore.",
+        quando: "Tutto l'anno.",
+        tempo: "30 minuti",
+        consiglio: "Visitarlo di ritorno, quando il parcheggio è meno tranquillo."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "mezza giornata",
+        tappe: [
+          "Partenza da Podgorica al mattino",
+          "Monastero inferiore",
+          "Salita al monastero superiore",
+          "Pranzo sulla strada del ritorno"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Podgorica",
+        perChi: "chi visita in giornata",
+        testo: "Base pratica per Ostrog (circa 1 ora). Il monastero non ha alloggi per turisti."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Kačamak",
+        testo: "Polenta di mais e patate con formaggio, da assaggiare nelle trattorie del territorio."
+      },
+      {
+        nome: "Formaggio di montagna",
+        testo: "Si compra dai produttori lungo la strada."
+      }
+    ],
+    attenzioni: [
+      "La strada finale è stretta e ripida, a tratti con senso alternato: precedenza a chi sale.",
+      "È un luogo di culto: abbigliamento coprente, voce bassa e nessuna foto dentro la cappella.",
+      "Nel fine settimana d'estate e nei giorni di festa il parcheggio si riempie: arrivare presto."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['montenegro-itinerario'],
     imageAlt: 'Il monastero di Ostrog incastonato nella parete di roccia',
@@ -163,6 +519,94 @@ export const destinazioniMontenegro: Destinazione[] = [
       'Partire tardi per il Bobotov Kuk: i temporali pomeridiani sono frequenti',
       'Percorrere la strada panoramica fuori stagione o con nebbia',
       'Scegliere il rafting più economico senza verificare attrezzatura e guide',
+    ],
+    luoghi: [
+      {
+        nome: "Lago Nero (Crno jezero)",
+        testo: "Un lago glaciale tra pini e pareti del Međed, a 1.416 metri e a 3 km da Žabljak. Il giro intorno al lago è un sentiero facile, con panorami sulle vette.",
+        come: "Dal centro di Žabljak a piedi in circa 40 minuti, o in auto fino al parcheggio. Ingresso al parco con biglietto.",
+        quando: "Mattina, quando il lago è calmo e riflette le montagne.",
+        tempo: "1-2 ore per il giro",
+        consiglio: "Portare una giacca: anche d'estate la sera fa fresco."
+      },
+      {
+        nome: "Bobotov Kuk",
+        testo: "La cima più alta del massiccio del Durmitor, 2.523 metri. L'escursione è lunga e richiede un giorno, con alcuni passaggi esposti.",
+        come: "Dal rifugio sul Sedlo, circa 6-7 ore di cammino andata e ritorno. Con una guida locale in caso di dubbio.",
+        quando: "Luglio-settembre; prima la neve resta nei canaloni.",
+        tempo: "giornata intera",
+        consiglio: "Partire all'alba: i temporali pomeridiani sono frequenti."
+      },
+      {
+        nome: "Canyon del Tara",
+        testo: "Con i suoi 1.300 metri di profondità massima è tra i più profondi d'Europa. Il fiume ha scavato pareti verticali rivestite di pini.",
+        come: "Si guarda dai belvedere sulla strada e si scende sul fiume con le escursioni di rafting da Brštanovica.",
+        quando: "Rafting da primavera a inizio autunno, con acqua più alta a maggio-giugno.",
+        tempo: "mezza giornata per il rafting",
+        consiglio: "Chi non vuole fare rafting può comunque fermarsi ai belvedere sulla strada Žabljak-Šćepan Polje."
+      },
+      {
+        nome: "Ponte di Đurđevića Tara",
+        testo: "Un ponte ad arco in cemento alto circa 172 metri, costruito nel 1940, con cinque archi. Durante la guerra uno degli archi fu fatto saltare dai partigiani.",
+        come: "Sulla strada Žabljak-Pljevlja, circa 20 km. A pagamento la zipline.",
+        quando: "Mattina.",
+        tempo: "45 minuti",
+        consiglio: "Da qui si guarda il canyon dall'alto e si può fare la zipline."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Lago Nero al mattino",
+          "Pranzo a Žabljak",
+          "Strada panoramica del Sedlo",
+          "Belvedere del canyon del Tara"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1: Lago Nero e strada del Sedlo",
+          "Giorno 2: Ponte di Đurđevića Tara e rafting tra Brštanovica e Šćepan Polje"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Žabljak",
+        perChi: "chi vuole il Durmitor",
+        testo: "Il paese è a 1.450 metri: guesthouse, ristoranti e partenze dei sentieri a pochi minuti. Freddo di notte anche d'estate."
+      },
+      {
+        nome: "Lungo il Tara",
+        perChi: "chi fa rafting",
+        testo: "Campi e alloggi semplici vicino alla partenza del rafting, lontani dal paese."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Kačamak",
+        testo: "Polenta di mais e patate con formaggio e panna."
+      },
+      {
+        nome: "Cicvara",
+        testo: "Crema di farina di mais, formaggio e panna acida."
+      },
+      {
+        nome: "Agnello sotto la campana",
+        testo: "Agnello e patate cotti sotto una cupola di ferro coperta di brace; si ordina in anticipo."
+      },
+      {
+        nome: "Formaggi di malga",
+        testo: "Prodotti nelle capanne di alta quota e venduti a Žabljak."
+      }
+    ],
+    attenzioni: [
+      "Il meteo in montagna cambia in fretta: partire presto e portare strati e giacca impermeabile.",
+      "Le strade di montagna possono essere chiuse dalla neve da novembre ad aprile.",
+      "Operatori di rafting: scegliere società con attrezzatura certificata e guide, e confrontare i prezzi prima.",
+      "Tracciati lunghi come il Bobotov Kuk non hanno segnaletica ovunque: con la nebbia meglio rientrare."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['montenegro-itinerario'],

@@ -47,6 +47,102 @@ export const destinazioniBorneo: Destinazione[] = [
     ],
     miaEsperienza:
       "Kota Kinabalu en sí es una ciudad más funcional que bonita, reconstruida tras los bombardeos de la Segunda Guerra Mundial, y en media jornada se la ha entendido. El motivo para venir está detrás. El Kinabalu se sube en dos días. El primero es una escalera sin fin en la selva tropical, seis kilómetros de escalones irregulares con la humedad encima, hasta el refugio de Laban Rata a 3.270 metros, adonde llegamos a primera hora de la tarde. El segundo empieza a las dos de la madrugada, a oscuras, sobre el granito desnudo, agarrado a una cuerda fija. La altura se nota: se parte de menos de dos mil metros y en poco más de un día se está por encima de los cuatro mil, sin aclimatación, y el dolor de cabeza es la regla más que la excepción. Luego el sol sale sobre la plataforma de granito, y debajo está todo Borneo, con las nubes bajo los pies. El consejo práctico que cuenta más que ninguno: los permisos son poco más de ciento sesenta al día y hay que reservarlos con meses de antelación, no semanas.",
+    luoghi: [
+      {
+        nome: "Monte Kinabalu",
+        testo: "4.095 metros, la montaña más alta de Borneo y del sudeste asiático insular. Se sube en dos días: el primero hasta el refugio de Laban Rata a 3.270 metros, el segundo saliendo de noche para el amanecer sobre el granito desnudo de la cima.",
+        come: "La subida solo está permitida con guía obligatorio y un permiso nominal, reservado con meses de antelación a través de Sabah Parks y operadores autorizados. De la ciudad al Timpohon Gate son unas 2 horas y media por carretera.",
+        quando: "De marzo a septiembre. Con mal tiempo la montaña cierra. Reservar con margen.",
+        tempo: "2 días, 1 noche en Laban Rata",
+        url: "https://www.sabahparks.org.my/",
+        consiglio: "Dormir cerca del parque la noche anterior a la subida y no en Kota Kinabalu, para salir descansado."
+      },
+      {
+        nome: "Kinabalu Park",
+        testo: "El parque, Patrimonio de la UNESCO, tiene una de las mayores biodiversidades del mundo. Se visita también sin subir a la cima, con senderos en el bosque, orquídeas y un centro botánico.",
+        come: "En autobús o coche desde Kota Kinabalu hacia Ranau, unas 2 horas. Senderos a pie desde la sede del parque.",
+        quando: "Por la mañana.",
+        tempo: "medio día",
+        url: "https://www.sabahparks.org.my/",
+        consiglio: "Un día en el parque es la opción adecuada para quien no hace la subida."
+      },
+      {
+        nome: "Poring Hot Springs y canopy walkway",
+        testo: "Aguas termales en un parque a 40 minutos del Kinabalu, con una pasarela colgante a 40 metros en el bosque en el bosque.",
+        come: "En coche o taxi desde Kinabalu Park, unos 40 minutos.",
+        quando: "Por la mañana la pasarela; por la tarde las pozas.",
+        tempo: "3 horas",
+        consiglio: "Combinar con Kinabalu Park el mismo día."
+      },
+      {
+        nome: "Parque marino Tunku Abdul Rahman",
+        testo: "Cinco islas a veinte minutos en barca de la ciudad, con playas, snorkel y agua clara. La elección adecuada para una tarde de mar tras la montaña.",
+        come: "En barca desde el muelle de Jesselton Point, a horas libres. Se paga la tasa del parque.",
+        quando: "Por la mañana, con el mar más calmado.",
+        tempo: "medio día",
+        url: "https://www.sabahparks.org.my/",
+        consiglio: "Mamutik y Manukan son las más cómodas; Sapi es la más concurrida."
+      },
+      {
+        nome: "Paseo marítimo, Filipino Market y atardecer",
+        testo: "El paseo marítimo de Kota Kinabalu, con el mercado de pescado, los puestos nocturnos del Filipino Market y los bares donde se ve el atardecer sobre las islas.",
+        come: "A pie desde el centro. El mercado está activo por la noche.",
+        quando: "El atardecer y la noche.",
+        tempo: "2 horas",
+        consiglio: "Comer pescado a la parrilla en los puestos nocturnos, eligiéndolo del hielo."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 día en la ciudad",
+        tappe: [
+          "Mañana: barca a Mamutik o Manukan, snorkel",
+          "Almuerzo en la isla o en la ciudad",
+          "Tarde: descanso",
+          "Atardecer en el paseo marítimo y cena en los puestos del Filipino Market"
+        ]
+      },
+      {
+        titolo: "3 días con la subida",
+        tappe: [
+          "Día 1: llegada a Kota Kinabalu, traslado a Kinabalu Park, noche cerca del parque",
+          "Día 2: subida a Laban Rata, descanso y cena",
+          "Día 3: salida a las 2, cima al amanecer, descenso y regreso a Kota Kinabalu"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Centro de Kota Kinabalu",
+        perChi: "quien quiere comodidad y el paseo marítimo",
+        testo: "Hoteles de todas las gamas cerca del puerto y los restaurantes. Ruidoso por la noche."
+      },
+      {
+        nome: "Cerca de Kinabalu Park (Kundasang)",
+        perChi: "quien sube a la cima",
+        testo: "Lodges y casas de huéspedes a 2 horas de la ciudad, cerca del Timpohon Gate. Fresco por la noche."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Hinava",
+        testo: "Pescado crudo marinado en lima con cebolla y jengibre, un plato tradicional de los Kadazan-Dusun."
+      },
+      {
+        nome: "Tuaran mee",
+        testo: "Fideos de huevo fritos con carne y verduras, especialidad de Tuaran, cerca de Kota Kinabalu."
+      },
+      {
+        nome: "Pescado a la parrilla",
+        testo: "Pescado a la brasa con sambal, en los puestos del paseo marítimo."
+      }
+    ],
+    attenzioni: [
+      "Los permisos del Kinabalu son limitados y se agotan con meses de antelación: no contar con reservar sobre la marcha.",
+      "La altitud se nota: se sube de 1.866 a 4.095 metros en poco más de un día, y el mal de altura afecta incluso a quien está entrenado.",
+      "Consultar los avisos de viaje de la costa oriental de Sabah antes de moverse más allá de la zona de Kota Kinabalu.",
+      "Llevar efectivo para los pequeños negocios: fuera de la ciudad las tarjetas no siempre funcionan."
+    ],
     esperienzeSlugs: ['monte-kinabalu'],
     tripSlugs: ['borneo-itinerario'],
     imageAlt: "La cúpula y los minaretes de la mezquita de la ciudad de Kota Kinabalu bajo un cielo tormentoso",
@@ -195,6 +291,90 @@ export const destinazioniBorneo: Destinazione[] = [
     ],
     miaEsperienza:
       "En Sepilok los orangutanes se ven con más seguridad que en otros sitios, y conviene decir enseguida lo que significa. Son animales huérfanos o confiscados del comercio ilegal, en rehabilitación y habituados a las personas, y las plataformas sirven para complementar la comida que todavía no saben encontrar por sí solos. No es naturaleza, y el centro no finge que lo sea. Dicho esto, ver a un orangután cruzar una cuerda tendida sobre la cabeza, a tres metros, con ese modo de moverse lentísimo y aparentemente meditado, basta para justificar un viaje. El consejo más útil es ir a las dos sesiones de alimentación, porque en ciertas épocas la selva da suficiente fruta y casi no llega nadie. Luego está lo que casi todos se saltan: el centro de los osos malayos a doscientos metros, con los osos más pequeños del mundo rescatados del comercio de mascotas, y el Sandakan Memorial Park, donde pasamos una mañana, en el lugar del campo de prisioneros del que partieron las marchas de la muerte de 1945. De dos mil cuatrocientos prisioneros aliados sobrevivieron seis.",
+    luoghi: [
+      {
+        nome: "Sepilok Orangutan Rehabilitation Centre",
+        testo: "Centro que acoge orangutanes huérfanos o confiscados al comercio ilegal, en rehabilitación antes de volver al bosque. Desde las plataformas se ve a los animales llegar a comer tras la ración de fruta.",
+        come: "A 25 km de Sandakan, en taxi o autobús. Se camina por pasarelas de madera hasta la plataforma.",
+        quando: "Dos raciones al día, por la mañana y a primera hora de la tarde. Ir a ambas duplica las probabilidades.",
+        tempo: "2-3 horas",
+        url: "https://www.sabahtourism.com/",
+        consiglio: "Llevar la mochila cerrada y sin comida en la mano: los macacos arrebatan todo."
+      },
+      {
+        nome: "Bornean Sun Bear Conservation Centre",
+        testo: "Junto a Sepilok, acoge a los osos malayos, los más pequeños del mundo, rescatados del comercio de animales. A menudo se salta, y es igual de interesante.",
+        come: "A pie o en taxi desde Sepilok, unos minutos.",
+        quando: "Por la mañana o a primera hora de la tarde.",
+        tempo: "1 hora",
+        consiglio: "Visitarlo el mismo día que los orangutanes."
+      },
+      {
+        nome: "Rainforest Discovery Centre",
+        testo: "Un bosque con pasarelas colgantes, una torre y senderos, excelente para observar aves al amanecer.",
+        come: "A pie desde el centro de Sepilok o en taxi.",
+        quando: "Al amanecer para las aves.",
+        tempo: "2 horas",
+        consiglio: "Prismáticos y salida al amanecer: es cuando el bosque está más vivo."
+      },
+      {
+        nome: "Sandakan Memorial Park",
+        testo: "El lugar del campo de prisioneros japonés de la Segunda Guerra Mundial, de donde partieron las marchas de la muerte hacia Ranau. Un parque con un pequeño museo y un recorrido por el bosque. Uno de los memoriales más fuertes del sudeste asiático.",
+        come: "A pocos kilómetros de Sandakan, en taxi.",
+        quando: "Por la mañana.",
+        tempo: "1 hora y media",
+        consiglio: "No saltárselo por ser «solo un parque»: merece el tiempo."
+      },
+      {
+        nome: "Agnes Keith House y bahía de Sandakan",
+        testo: "La casa colonial de Agnes Newton Keith, la escritora estadounidense que contó Borneo y el cautiverio. Desde la colina se ve la bahía con sus casas sobre pilotes.",
+        come: "A pie o en taxi desde el centro de Sandakan.",
+        quando: "Por la tarde.",
+        tempo: "1 hora",
+        consiglio: "Subir los 100 Steps para ver la ciudad desde arriba."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "2 días",
+        tappe: [
+          "Día 1: ración de la mañana en Sepilok, Sun Bear Centre, almuerzo, Rainforest Discovery Centre, ración de la tarde",
+          "Día 2: Sandakan Memorial Park y Agnes Keith House, luego traslado al Kinabatangan"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Sepilok",
+        perChi: "quien quiere estar cerca del centro de orangutanes",
+        testo: "Lodges y casas de huéspedes en el bosque, cerca de los centros. Tranquilo y sin vida nocturna."
+      },
+      {
+        nome: "Sandakan",
+        perChi: "quien llega en avión o quiere servicios",
+        testo: "Hoteles y restaurantes en la ciudad, a 25 km de Sepilok. Más cómodo para salir."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Pescado fresco a la parrilla",
+        testo: "Pesca de Sandakan, a la brasa en los restaurantes junto al mar."
+      },
+      {
+        nome: "Hainan chicken rice",
+        testo: "Pollo hervido con arroz en caldo, una especialidad china muy extendida."
+      },
+      {
+        nome: "Teh tarik",
+        testo: "Té con leche condensada, en todas partes."
+      }
+    ],
+    attenzioni: [
+      "En la temporada de frutos del bosque (aproximadamente diciembre-febrero) los orangutanes encuentran comida por sí solos y llegan menos a las raciones.",
+      "Los macacos arrebatan mochilas abiertas, botellas y comida: llevar todo cerrado.",
+      "Sepilok no es bosque salvaje: los orangutanes están acostumbrados a la gente. Para la fauna salvaje hace falta el Kinabatangan.",
+      "Consultar los avisos de viaje de la costa oriental de Sabah."
+    ],
     esperienzeSlugs: ['sepilok-oranghi'],
     tripSlugs: ['borneo-itinerario'],
     imageAlt: "Dos orangutanes en el Sepilok Orangutan Rehabilitation Centre, fotografiados de cerca mientras comen",
@@ -244,6 +424,82 @@ export const destinazioniBorneo: Destinazione[] = [
     ],
     miaEsperienza:
       "En el Kinabatangan Borneo cumple todas sus promesas, y al mismo tiempo se entiende lo que le ha pasado a esta isla. Llegamos por la tarde, y la primera salida al atardecer la hicimos esa misma noche. Se sale en barca al amanecer, se remonta el río con el motor al ralentí y en dos horas se ven monos narigudos que saltan entre los árboles, cálaos que pasan en pareja, macacos y, con un poco de suerte, un orangután salvaje que se mueve lentísimo en una rama. Luego la barca gira hacia un afluente, la franja de selva se adelgaza y detrás aparecen las hileras ordenadas de las palmas aceiteras, a pérdida de vista. Ahí se entiende por qué los animales están todos concentrados en una franja de unos pocos cientos de metros de ancho. No es una reserva bien lograda, es lo que ha quedado. Dos cosas prácticas cuentan más que las demás. Quedarse al menos dos noches, porque cada salida es una lotería y cuatro boletos valen más que dos. Y llevar unos prismáticos: se mira casi siempre a veinte metros, y sin ellos se pierde la mitad de lo que señala el guía.",
+    luoghi: [
+      {
+        nome: "Crucero al amanecer por el río",
+        testo: "Se remonta el río con el motor al ralentí en la hora más activa. Se ven monos narigudos, macacos, cálaos y, con suerte, orangutanes salvajes en los árboles.",
+        come: "En barca con el lodge, a horas fijas. Los paquetes incluyen traslado, pensión completa y salidas en barca.",
+        quando: "Al amanecer: la luz es baja y los animales están activos.",
+        tempo: "2 horas",
+        consiglio: "Unos prismáticos cambian el día más que cualquier teleobjetivo."
+      },
+      {
+        nome: "Salida al atardecer y nocturna",
+        testo: "Los orangutanes construyen su nido para la noche, los monos narigudos se reúnen en los árboles de la orilla y de noche se ven cocodrilos, búhos y otros animales nocturnos.",
+        come: "En barca con el lodge, a horas fijas.",
+        quando: "Al atardecer y después de cenar.",
+        tempo: "2 horas por salida",
+        consiglio: "El repelente de alta concentración hace falta de verdad: los mosquitos son agresivos."
+      },
+      {
+        nome: "Elefantes pigmeos y fauna del río",
+        testo: "Los elefantes pigmeos de Borneo, los más pequeños del mundo, se desplazan en manada por las orillas. El río alberga también cocodrilos de estuario, ocho especies de cálao y macacos.",
+        come: "Se ven desde la barca, normalmente a contraluz y a veinte o treinta metros.",
+        quando: "Todo el año pero con más probabilidad entre marzo y octubre.",
+        tempo: "durante las salidas",
+        consiglio: "Hacer al menos cuatro o seis salidas: con dos se depende de la suerte."
+      },
+      {
+        nome: "Gomantong Caves",
+        testo: "Cuevas enormes con millones de murciélagos y vencejos, donde se recogen los nidos para la sopa. Se camina por pasarelas de madera entre guano y cucarachas.",
+        come: "En coche desde el lodge o la carretera principal, aproximadamente una hora. Se visita a pie con una pasarela.",
+        quando: "Por la tarde para la salida nocturna de los murciélagos.",
+        tempo: "2 horas",
+        consiglio: "Llevar calzado cerrado, linterna y mascarilla: el olor es fuerte."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "2-3 noches",
+        tappe: [
+          "Día 1: llegada a mediodía, salida al atardecer",
+          "Día 2: crucero al amanecer, mañana libre, Gomantong Caves por la tarde, salida nocturna",
+          "Día 3: último crucero al amanecer y salida"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Sukau",
+        perChi: "quien quiere estar cerca de las salidas en el río principal",
+        testo: "Lodges en el río con pensión completa. El lugar clásico, algo más caro."
+      },
+      {
+        nome: "Bilit",
+        perChi: "quien quiere ahorrar",
+        testo: "Lodges más sencillos, en un tramo más aislado del río. Algo menos cómodo de alcanzar."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Cocina del lodge",
+        testo: "Comidas en buffet o servidas, con arroz, pescado y verduras. Es la única opción y varía según el lodge."
+      },
+      {
+        nome: "Pescado de río",
+        testo: "El pescado local se hace a la parrilla o frito con sambal."
+      },
+      {
+        nome: "Ulam",
+        testo: "Ensalada de hierbas frescas que se come con arroz y sambal."
+      }
+    ],
+    attenzioni: [
+      "Llevar efectivo: a lo largo del río no hay cajeros y muchos servicios se pagan solo en ringgit.",
+      "Los animales se ven a veinte o treinta metros y a contraluz: no esperar cercanía.",
+      "Una sola noche no basta: con dos salidas se depende de la suerte.",
+      "En la estación de lluvias el río sube y los animales se dispersan: menos avistamientos."
+    ],
     esperienzeSlugs: ['crociera-kinabatangan'],
     tripSlugs: ['borneo-itinerario'],
     imageAlt: "Barcas de madera de colores amarradas en la orilla fangosa del río Kinabatangan, con la selva tropical en la otra orilla",
@@ -290,6 +546,74 @@ export const destinazioniBorneo: Destinazione[] = [
     ],
     miaEsperienza:
       "Todavía no he estado, y por honestidad la ficha se detiene en la información verificable en lugar de contar una jornada inventada. Está en la lista por dos motivos precisos. El primero es que la selva primaria no es un detalle de naturalistas: árboles emergentes de más de ochenta metros y una estructura en estratos completa en el sudeste asiático casi ya no existen, y Danum es uno de los poquísimos lugares donde todavía se ven. El segundo es que es justo lo contrario del Kinabatangan: allí los animales se ven con facilidad porque están aplastados en una franja de verde entre las palmas aceiteras, aquí se ven poco precisamente porque todavía tienen cuarenta y tres mil hectáreas donde estar. Cuesta bastante y hay que contar al menos tres noches: quien va por una pasa el tiempo casi solo en traslados.",
+    luoghi: [
+      {
+        nome: "Canopy walkway",
+        testo: "Una pasarela colgante a 26 metros entre las copas del bosque primario. Permite ver aves y monos a la altura de las copas.",
+        come: "A pie desde el lodge con un guía, por sendero señalizado.",
+        quando: "Al amanecer para las aves.",
+        tempo: "2 horas",
+        consiglio: "Ir con un guía: ve lo que el visitante pasa por alto."
+      },
+      {
+        nome: "Árboles emergentes y bosque primario",
+        testo: "Árboles que superan los 80 metros en un bosque con estructura completa por estratos, rara en el sudeste asiático. Cuarenta y tres mil hectáreas protegidas.",
+        come: "Con senderos y salidas guiadas desde el lodge.",
+        quando: "Por la mañana y después de la lluvia.",
+        tempo: "medio día",
+        consiglio: "Caminar despacio y en silencio: se ve más de lo que parece."
+      },
+      {
+        nome: "Night drive y night walk",
+        testo: "Salidas nocturnas con linterna en todoterreno o a pie. Es el momento en que aparecen búhos, loris lentos, serpientes y, con suerte, algún mamífero.",
+        come: "Con los guías del lodge, a horas fijas.",
+        quando: "Después del atardecer.",
+        tempo: "2 horas",
+        consiglio: "No dejar las salidas nocturnas para la última noche."
+      },
+      {
+        nome: "Bukit Fatimah y sepulturas en la roca",
+        testo: "Un mirador con vista continua sobre el bosque y, en el parque, antiguas sepulturas en la pared de roca dejadas hace siglos por los pueblos locales.",
+        come: "A pie con guía, desde el lodge.",
+        quando: "Por la mañana.",
+        tempo: "3 horas",
+        consiglio: "Preguntar a los guías por la historia de las sepulturas."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "3 noches",
+        tappe: [
+          "Día 1: traslado desde Lahad Datu, sendero por la tarde cerca del lodge, night walk",
+          "Día 2: amanecer en la canopy walkway, mañana en el bosque, mirador por la tarde, night drive",
+          "Día 3: sendero largo con los guías y regreso al día siguiente"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Borneo Rainforest Lodge",
+        perChi: "quien quiere el lodge dentro de la reserva",
+        testo: "El lodge principal, con pensión completa y actividades guiadas. Caro y sin conexión."
+      },
+      {
+        nome: "Danum Valley Field Centre",
+        perChi: "quien busca un alojamiento sencillo",
+        testo: "El albergue del centro de investigación, con precios más bajos y confort mínimo."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Cocina del lodge",
+        testo: "Comidas en buffet o servidas, con arroz, pescado y verduras. No hay otra opción."
+      }
+    ],
+    attenzioni: [
+      "No se va por los orangutanes: están, pero verlos es impredecible. Se va por el bosque.",
+      "Las sanguijuelas abundan en la estación húmeda: calcetines adecuados.",
+      "No hay conexión, y es parte del encanto.",
+      "Una sola noche no tiene sentido: descontados los traslados quedan pocas horas."
+    ],
     esperienzeSlugs: [],
     tripSlugs: [],
     imageAlt: "Un río que fluye por la selva tropical de tierras bajas de Danum Valley, Sabah",
@@ -340,6 +664,88 @@ export const destinazioniBorneo: Destinazione[] = [
     ],
     miaEsperienza:
       "Sipadan hace honor a su fama, algo raro para un lugar tan celebrado. Se baja por una pared que continúa en el azul sin un fondo visible, y a los pocos minutos pasa un banco de barracudas que se enrosca en una espiral ancha como una casa; las tortugas son tantas que después de la quinta uno deja de fotografiarlas. Antes de reservar, sin embargo, hay que entender que el permiso lo decide todo. Son poco más de doscientos cincuenta al día, no se compran como particular: los asigna Sabah Parks a los operadores, que luego los reparten entre los huéspedes de forma rotativa, y la rotación premia a quien se queda más tiempo. Reservar dos noches y esperar es la manera más segura de no bucear en absoluto. La sorpresa, de todos modos, fue otra: Mabul, que todos tratan como una base de apoyo, es uno de los mejores lugares del mundo para el muck diving, y buscar en una gorgonia un caballito de mar pigmeo del tamaño de una uña es tan divertido como un banco de barracudas. Una última cosa, que de turística no tiene nada: alrededor de las palafitas viven los bajau laut, a menudo sin la nacionalidad de ningún Estado, y el contraste con los resorts a cincuenta metros merece que uno se detenga a pensar.",
+    luoghi: [
+      {
+        nome: "Sipadan",
+        testo: "Una isla oceánica que sube desde una pared de más de 600 metros. Las inmersiones son de las más famosas del mundo, con Barracuda Point, Drop Off y Turtle Tomb.",
+        come: "Solo con operadores autorizados que tengan permisos de Sabah Parks. Cada permiso da derecho a tres inmersiones en la isla el mismo día.",
+        quando: "De abril a septiembre. Los permisos (unos 250 al día) deben reservarse con meses de antelación.",
+        tempo: "1 día por permiso",
+        url: "https://www.sabahparks.org.my/",
+        consiglio: "Reservar 4-5 noches: la rotación de permisos premia las estancias más largas."
+      },
+      {
+        nome: "Mabul",
+        testo: "Una pequeña isla famosa por el muck diving: caballitos de mar pigmeos, pulpos mimético, nudibranquios y peces rana en fondos arenosos.",
+        come: "Desde los resorts sobre pilotes, en barca para las inmersiones.",
+        quando: "De abril a septiembre.",
+        tempo: "2-3 días",
+        consiglio: "Dormir en Mabul, no en Semporna, para estar cerca de los sitios."
+      },
+      {
+        nome: "Kapalai",
+        testo: "Un banco de arena con resorts sobre pilotes en el agua, con snorkel e inmersiones de muy buenas a excelentes.",
+        come: "Con las barcas de los resorts desde Mabul.",
+        quando: "De abril a septiembre.",
+        tempo: "medio día",
+        consiglio: "Informarse de si el resort sigue abierto antes de reservar."
+      },
+      {
+        nome: "Comunidades Bajau Laut",
+        testo: "Los «nómadas del mar» viven en barcas y casas sobre pilotes, a menudo sin ciudadanía. En Semporna se ve a niños remando en barca para pedir limosna.",
+        come: "Con operadores que trabajan con las comunidades, no para hacer fotos.",
+        quando: "Todo el año.",
+        tempo: "medio día",
+        consiglio: "No dar dinero a los niños en las barcas: fomenta que no vayan a la escuela."
+      },
+      {
+        nome: "Bohey Dulang",
+        testo: "La isla con un cráter volcánico y un sendero panorámico sobre la laguna, en el parque marino Tun Sakaran.",
+        come: "En barca desde Semporna con tours organizados.",
+        quando: "Por la mañana.",
+        tempo: "medio día",
+        url: "https://www.sabahparks.org.my/",
+        consiglio: "Llevar calzado de senderismo y agua: el sendero es empinado."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "4-5 días",
+        tappe: [
+          "Día 1: llegada a Tawau, traslado a Semporna y Mabul",
+          "Día 2-4: inmersiones en Sipadan cuando hay permiso, muck diving en Mabul los demás días",
+          "Día 5: Kapalai o Bohey Dulang, regreso a Semporna"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Mabul",
+        perChi: "quien bucea y quiere estar cerca de los sitios",
+        testo: "Resorts y lodges sobre pilotes, a menudo con paquetes completos. Caro y sin otra opción."
+      },
+      {
+        nome: "Semporna",
+        perChi: "quien quiere ahorrar",
+        testo: "Hoteles en la ciudad, con traslados en barca a los sitios. Menos cómodo y más ruidoso."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Pescado a la parrilla",
+        testo: "Pesca fresca en los restaurantes del muelle de Semporna."
+      },
+      {
+        nome: "Curry de pescado",
+        testo: "Curry picante de pescado con arroz, en los locales de Semporna."
+      }
+    ],
+    attenzioni: [
+      "Los permisos de Sipadan no los pueden comprar particulares: los da Sabah Parks a los operadores, y dos noches no bastan.",
+      "Consultar los avisos de seguridad de la costa oriental de Sabah: la zona está vigilada, pero conviene comprobarlo antes de partir.",
+      "No dar dinero a los niños bajau en las barcas.",
+      "De noviembre a febrero el mar está más agitado y se cancelan algunas salidas."
+    ],
     esperienzeSlugs: ['diving-sipadan'],
     tripSlugs: ['borneo-itinerario'],
     imageAlt: "Un banco de peces y el arrecife de coral en las aguas de Sipadan, iluminados por los rayos del sol",
@@ -389,6 +795,109 @@ export const destinazioniBorneo: Destinazione[] = [
     ],
     miaEsperienza:
       "Kuching es la sorpresa de Borneo: una ciudad de río tranquila, con el paseo fluvial peatonal, las casas chinas bajas y una habitabilidad que ninguna otra ciudad malaya de este tamaño tiene. El Sarawak laksa en el desayuno, en una de esas salas con ventiladores en el techo, es una de las mejores cosas de toda Malasia. Bako es el parque que más compensa. Se llega solo en barca, con los horarios decididos por la marea, y en una hora de sendero se encuentran los monos narigudos, los monos de nariz enorme que solo existen en esta isla: se los mira desde pocos metros mientras comen hojas, sin hacer caso de quien pasa. Sobre Semenggoh, en cambio, mejor ser claros: los orangutanes son libres y vuelven a las plataformas solo cuando la selva ofrece poco, así que entre noviembre y marzo puede no llegar nadie, y la reserva lo escribe a la entrada. Quien ya ha visto Sepilok que no venga a Sarawak por esto: que venga por Bako, por las casas largas y por la ciudad.",
+    luoghi: [
+      {
+        nome: "Paseo fluvial de Kuching",
+        testo: "El paseo peatonal junto al río Sarawak, con viejas shophouses chinas, el Fort Margherita en la otra orilla y las barcas. Una ciudad tranquila y habitable.",
+        come: "A pie desde el centro. Los sampan cruzan el río por unos pocos ringgit.",
+        quando: "Por la noche, con las luces encendidas.",
+        tempo: "2 horas",
+        consiglio: "Tomar un sampan hasta el Fort Margherita y volver a pie."
+      },
+      {
+        nome: "Sarawak Museum y Borneo Cultures Museum",
+        testo: "Dos museos etnográficos entre los mejores de la región: objetos de los pueblos dayak y un museo nuevo, abierto hace poco, con colecciones y reconstrucciones de casas largas.",
+        come: "En el centro de Kuching, a pie o en taxi.",
+        quando: "Por la mañana o en las horas de más calor.",
+        tempo: "2 horas",
+        url: "https://sarawaktourism.com/",
+        consiglio: "Visitarlos antes de ir a una casa larga: ayuda a entender lo que se ve."
+      },
+      {
+        nome: "Parque nacional de Bako",
+        testo: "Un parque junto al mar con monos narigudos, macacos, cerdos barbudos y formaciones de arenisca en la costa. Una hora de sendero lleva a ver monos narigudos a pocos metros.",
+        come: "Autobús de Kuching a Kampung Bako y luego barca de 20-30 minutos. Los horarios dependen de la marea.",
+        quando: "Por la mañana, con la marea adecuada.",
+        tempo: "1 día",
+        consiglio: "Comprobar los horarios de las mareas: se corre el riesgo de quedarse atrapado."
+      },
+      {
+        nome: "Semenggoh Nature Reserve",
+        testo: "Una reserva con orangutanes rehabilitados ya libres, que vuelven a las plataformas solo cuando falta fruta en el bosque.",
+        come: "En taxi o tour desde Kuching, unos 45 minutos.",
+        quando: "Dos sesiones al día, mañana y tarde. De abril a octubre las probabilidades son mucho más altas.",
+        tempo: "2-3 horas",
+        consiglio: "No ir entre noviembre y marzo contando con verlos."
+      },
+      {
+        nome: "Sarawak Cultural Village",
+        testo: "Un pueblo-museo con las casas tradicionales de los distintos grupos étnicos de Sarawak, con demostraciones de artesanía y danzas.",
+        come: "En autobús o tour desde Kuching, unos 35 minutos.",
+        quando: "Por la mañana.",
+        tempo: "medio día",
+        consiglio: "Es una reconstrucción: verlo como introducción, no en lugar de una casa larga auténtica."
+      },
+      {
+        nome: "Cuevas de Niah",
+        testo: "Cuevas con huellas de presencia humana de hace cuarenta mil años, en el norte de Sarawak.",
+        come: "Desde Miri, unas 2 horas por carretera, luego una pasarela en el bosque.",
+        quando: "Por la mañana.",
+        tempo: "medio día",
+        consiglio: "Se llega con un desvío desde el norte: valorar el tiempo."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "3 días",
+        tappe: [
+          "Día 1: paseo fluvial, museos y Sarawak laksa de desayuno",
+          "Día 2: Bako con la barca de la mañana, regreso por la tarde",
+          "Día 3: Semenggoh por la mañana, Sarawak Cultural Village por la tarde"
+        ]
+      },
+      {
+        titolo: "4 días",
+        tappe: [
+          "Como los 3 días, con el cuarto para una casa larga o una excursión fuera de la ciudad"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Centro de Kuching (Waterfront)",
+        perChi: "quien quiere hacerlo todo a pie",
+        testo: "Hoteles y casas de huéspedes cerca del paseo fluvial y los restaurantes. Muy cómodo, ruidoso por la noche."
+      },
+      {
+        nome: "Alrededores de Bako",
+        perChi: "quien quiere despertar en el bosque",
+        testo: "Pocos lodges cerca del parque, para ver los animales al amanecer."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Sarawak laksa",
+        testo: "Fideos en caldo de especias y coco con gambas, pollo y huevo. Es el desayuno de Kuching y está entre lo mejor de Malasia."
+      },
+      {
+        nome: "Kolo mee",
+        testo: "Fideos aliñados con carne y salsa, servidos en el desayuno."
+      },
+      {
+        nome: "Midin",
+        testo: "Un helecho silvestre salteado con ajo, típico de Sarawak."
+      },
+      {
+        nome: "Pescado en hoja de plátano",
+        testo: "Pescado marinado y cocinado en hoja, cocina de los dayak."
+      }
+    ],
+    attenzioni: [
+      "Sarawak tiene su propia inmigración: un nuevo sello en el pasaporte incluso llegando desde la península o Sabah.",
+      "En Bako los horarios dependen de la marea: comprobarlos antes.",
+      "En Semenggoh no se garantizan los orangutanes: entre noviembre y marzo comen en el bosque.",
+      "Elegir con cuidado la casa larga: las experiencias van de la visita montada a la estancia auténtica."
+    ],
     esperienzeSlugs: ['bako-nasiche'],
     tripSlugs: [],
     imageAlt: "El monte Santubong entre la bruma al otro lado del río Sarawak, cerca de Kuching",
@@ -437,6 +946,79 @@ export const destinazioniBorneo: Destinazione[] = [
     ],
     miaEsperienza:
       "Todavía no he estado, y la ficha se detiene en los hechos en lugar de contar una jornada que no ha existido. Está en la lista, sin embargo, por un motivo preciso: las dimensiones. La Sarawak Chamber es la cámara subterránea más grande conocida (en las comparaciones que circulan cabrían dentro varios aviones de línea en fila), y la Deer Cave tiene una boca tan amplia que la salida vespertina de los murciélagos parece una columna de humo oscuro que se enrosca sobre la selva. Antes de soñar con ello hay que saber una cosa de logística: a Mulu se llega solo en avión, las camas del parque son pocas y limitan a los visitantes, y por tanto se reserva al revés de lo habitual: primero la cama, luego el vuelo.",
+    luoghi: [
+      {
+        nome: "Deer Cave y salida de los murciélagos",
+        testo: "Una de las cuevas más grandes del mundo, con una boca enorme. Por la tarde millones de murciélagos salen en espiral hacia el bosque, como una columna de humo.",
+        come: "A pie desde la sede del parque por pasarela. La Deer Cave se ve en un tour junto con la Lang Cave; la salida de los murciélagos se observa desde una plataforma.",
+        quando: "Al atardecer. Si llueve los murciélagos no salen.",
+        tempo: "medio día",
+        url: "https://www.mulupark.com/",
+        consiglio: "No planear la salida como única noche: con lluvia puede cancelarse."
+      },
+      {
+        nome: "Lang Cave",
+        testo: "Una cueva más pequeña y rica en formaciones, estalactitas y estalagmitas iluminadas.",
+        come: "Con tour guiado desde la sede.",
+        quando: "Por la mañana.",
+        tempo: "1 hora y media",
+        consiglio: "Se combina con la Deer Cave en el mismo tour."
+      },
+      {
+        nome: "Clearwater Cave y Wind Cave",
+        testo: "Cuevas a las que se llega en barca por el río. La Clearwater Cave tiene un río subterráneo y la Wind Cave galerías frescas con formaciones.",
+        come: "En barca desde la sede y luego a pie con guía.",
+        quando: "Por la mañana.",
+        tempo: "medio día",
+        url: "https://www.mulupark.com/",
+        consiglio: "Llevar bañador: en las pozas del río se puede nadar."
+      },
+      {
+        nome: "Pináculos del Gunung Api",
+        testo: "Hojas de caliza de decenas de metros de altura en la ladera de la montaña. Un trekking sobre roca y escaleras de mano, de los más exigentes de la región.",
+        come: "Solo con guía del parque, con límites de tiempo fijos y una noche en un campamento base.",
+        quando: "En la estación más seca.",
+        tempo: "2-3 días",
+        consiglio: "Subestimarlo es el error más común: hace falta entrenamiento."
+      },
+      {
+        nome: "Canopy skywalk",
+        testo: "Una pasarela suspendida entre las copas del bosque, entre las más largas del mundo.",
+        come: "A pie desde la sede.",
+        quando: "A primera hora de la mañana.",
+        tempo: "1 hora",
+        consiglio: "Combinarla con un paseo por el bosque."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "3 días",
+        tappe: [
+          "Día 1: llegada en avión, Deer Cave, Lang Cave y salida de los murciélagos",
+          "Día 2: barca a Clearwater Cave y Wind Cave, canopy skywalk",
+          "Día 3: mañana libre y vuelo de regreso"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Dentro del parque (cerca de la sede)",
+        perChi: "todos: las camas son pocas",
+        testo: "Lodge, albergue y un resort cerca de la entrada. Se reserva primero la cama y luego el vuelo."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Cocina del lodge",
+        testo: "Comidas sencillas, con arroz, pescado y verduras."
+      }
+    ],
+    attenzioni: [
+      "Se llega solo en avión y las camas del parque son pocas: reservar primero el alojamiento y luego el vuelo.",
+      "La salida de los murciélagos no está garantizada: si llueve, se quedan dentro.",
+      "El trekking de los Pináculos es duro: roca y escaleras de mano, con límites de tiempo.",
+      "Una sola noche no basta: entre vuelos y distancias quedaría poco tiempo."
+    ],
     esperienzeSlugs: [],
     tripSlugs: [],
   },

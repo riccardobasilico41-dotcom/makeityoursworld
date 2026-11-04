@@ -87,6 +87,107 @@ export const destinazioniIndonesia: Destinazione[] = [
     ],
     miaEsperienza:
       "It's the island almost nobody puts on the itinerary, and they're wrong. At Bukit Lawang we climbed up through the mud holding on to roots, in a heat that took your breath away, and after three hours without seeing anything I started to doubt I hadn't wasted a day. Then an orangutan came down onto a branch a few meters away, stayed looking for a few seconds and went back to eating, and the doubt vanished. There's an uncomfortable side too: some guides lure the animals with food to guarantee the sighting, and this must be explicitly refused when you book. Lake Toba, afterward, was the decompression: big as a province, silent, with a rhythm that slows down by itself.",
+    luoghi: [
+      {
+        nome: "Bukit Lawang and the Gunung Leuser",
+        testo: "The village on the Bohorok river at the gates of Gunung Leuser National Park, one of the last habitats of Sumatran orangutans. In the area live former rehabilitated orangutans now wild. Leuser is the last ecosystem in the world where orangutans, tigers, rhinos and elephants coexist.",
+        come: "From Medan by car or minibus, 3-4 hours. The trek is done only with a certified guide, on foot in the jungle, for half a day or several days.",
+        quando: "From June to September, the driest season. Set out at dawn.",
+        tempo: "2-3 days",
+        consiglio: "Explicitly refuse, already when booking, guides who lure animals with food."
+      },
+      {
+        nome: "Lake Toba",
+        testo: "The largest volcanic lake in the world, born of an enormous eruption. Cool water, green shores, villages and a large island in the middle, Samosir.",
+        come: "From Medan by car or bus to Parapat (4-5 hours), then ferry to Tuk Tuk on Samosir island.",
+        quando: "All year, better in the morning and in the dry season.",
+        tempo: "2-3 days",
+        consiglio: "After Bukit Lawang it is the ideal decompression: slow pace, no hurry."
+      },
+      {
+        nome: "Samosir Island and the Batak villages",
+        testo: "The Batak are Christian and live in saddle-roofed houses with carved facades. At Tomok are the stone tombs of the Sidabutar kings, at Ambarita the stone assembly chairs.",
+        come: "By rented scooter or car from Tuk Tuk, along the road that circles the island.",
+        quando: "In the morning. Some ceremonies and Sigale-gale dances are held on particular days.",
+        tempo: "1 day",
+        consiglio: "Rent a scooter and circle the island slowly, stopping in villages."
+      },
+      {
+        nome: "Gunung Sibayak and Berastagi",
+        testo: "An active but calm volcano above the town of Berastagi, with a climb of a few hours and fumaroles at the top. Afterward, hot springs for resting.",
+        come: "From Berastagi on foot or by motorbike to the trailhead. Better with a guide.",
+        quando: "In the early morning hours.",
+        tempo: "half a day",
+        consiglio: "End the trek with a soak in the hot springs."
+      },
+      {
+        nome: "Medan: Istana Maimun and markets",
+        testo: "The starting city of almost every trip to northern Sumatra. The palace of the Sultan of Deli, from 1888, and the markets are the most interesting stops.",
+        come: "The palace is in the centre, by taxi or Grab.",
+        quando: "In the morning.",
+        tempo: "2 hours",
+        consiglio: "Do not stay more than one night: the good part is outside the city."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "7 days",
+        tappe: [
+          "Day 1: arrival in Medan, transfer to Bukit Lawang",
+          "Day 2-3: trek in Leuser with a certified guide",
+          "Day 4: transfer to Berastagi, Sibayak",
+          "Day 5-6: Lake Toba and Samosir",
+          "Day 7: return to Medan"
+        ]
+      },
+      {
+        titolo: "10 days",
+        tappe: [
+          "As the 7 days, with an extra day at Bukit Lawang and two at Lake Toba"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Bukit Lawang",
+        perChi: "anyone doing the trek",
+        testo: "Guesthouses along the Bohorok river. Simple and convenient for an early start."
+      },
+      {
+        nome: "Tuk Tuk (Samosir)",
+        perChi: "anyone going to Lake Toba",
+        testo: "Homestays and guesthouses on the Tuk Tuk peninsula, on the lake. Quiet, low cost."
+      },
+      {
+        nome: "Berastagi",
+        perChi: "anyone going to the volcano",
+        testo: "A highland town with cheap lodging, cooler."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Nasi padang",
+        testo: "Rice with ten or fifteen ready dishes in a display: you point to what you want and pay for what you touch. Born in West Sumatra."
+      },
+      {
+        nome: "Sumatran coffee",
+        testo: "Among the best in the country, drunk in the warungs on the road to Berastagi for a few cents."
+      },
+      {
+        nome: "Batak pork",
+        testo: "Around Lake Toba, because the Batak are Christian. Rare in the rest of Muslim Indonesia."
+      },
+      {
+        nome: "Mie goreng",
+        testo: "Stir-fried noodles with vegetables and egg. Almost always available."
+      }
+    ],
+    attenzioni: [
+      "Trek only with certified guides: unregulated close contact is dangerous for you and for the orangutans.",
+      "On mountain roads journey times are much longer than they look.",
+      "The Bohorok river can swell with rain: follow local advice.",
+      "Law: Indonesia has very severe drug laws. Carry nothing that is not your own."
+    ],
     esperienzeSlugs: ['trekking-oranghi-bukit-lawang'],
     tripSlugs: ['indonesia-itinerario', 'sumatra-mentawai'],
     imageAlt: "Lake Toba seen from above among green hills and forest, Sumatra",
@@ -132,6 +233,124 @@ export const destinazioniIndonesia: Destinazione[] = [
     ],
     miaEsperienza:
       "Java is the part of Indonesia that feels least like a vacation and leaves the sharpest memory. Ijen above all: we set off at one in the morning and climbed in the dark with the gas mask on. Down in the crater, the blue flames were smaller than they look in photos; everything else was enormous. Miners walked past with baskets of eighty kilos of sulfur on their shoulders, barefoot or nearly, and in there tourism takes on a different weight. At Bromo the opposite happened: dawn from Penanjakan is spectacular, but it's also a parking lot with hundreds of jeeps and rows of people holding up their phones. It's still worth it, as long as you know beforehand. Borobudur at dawn is one of the few things that lives up to its myth, but the ticket to climb the structure is limited in number and sells out well in advance.",
+    luoghi: [
+      {
+        nome: "Borobudur",
+        testo: "The largest Buddhist temple in the world, from the 9th century, with nine terraces and hundreds of stone reliefs. At dawn, with mist on the plain, it is one of the few places that lives up to its myth.",
+        come: "From Yogyakarta by car or bus, about 1.5 hours. Climbing the structure has limited places, with guide and special sandals: booked online on the official site well in advance.",
+        quando: "At dawn or sunset. Tickets to climb sell out.",
+        tempo: "3 hours",
+        url: "https://borobudurpark.com/",
+        consiglio: "Book the climbing ticket well ahead, because places are limited."
+      },
+      {
+        nome: "Prambanan",
+        testo: "The largest Hindu temple complex in Indonesia, from the 9th century, with towers dedicated to Shiva, Vishnu and Brahma. The reliefs tell the Ramayana.",
+        come: "From Yogyakarta by Trans Jogja bus or taxi, about 40 minutes. Visited alone or with a guide.",
+        quando: "In the morning or at sunset. On scheduled evenings, an open-air Ramayana ballet.",
+        tempo: "2 hours",
+        url: "https://borobudurpark.com/",
+        consiglio: "Check ballet dates: in some periods it is held at sunset with the towers lit."
+      },
+      {
+        nome: "Yogyakarta Kraton and Taman Sari",
+        testo: "The sultan's palace, still in use, with a museum and gamelan performances. A few steps away, Taman Sari, the 18th-century water garden.",
+        come: "On foot or by becak from Malioboro.",
+        quando: "In the morning. The Kraton has reduced hours on ceremony days.",
+        tempo: "2 hours",
+        consiglio: "Visit both on the same walk, then get lost in the batik district streets."
+      },
+      {
+        nome: "Gunung Bromo",
+        testo: "A smoking crater inside the Tengger caldera, surrounded by the Sea of Sand. Dawn from the Penanjakan viewpoint is one of Java's most famous images.",
+        come: "From Cemoro Lawang or Surabaya by 4x4 jeep booked the evening before. You leave in the dead of night. The ticket is bought online on the park's official site.",
+        quando: "At dawn; from April to October the sky is clearer.",
+        tempo: "half a day",
+        url: "https://bromotenggersemeru.id/",
+        consiglio: "Dawn from Penanjakan is spectacular but crowded with jeeps: go knowing it."
+      },
+      {
+        nome: "Kawah Ijen and the blue fire",
+        testo: "A crater with a turquoise lake of sulfuric acid and, at night, the blue flames of burning gases. Sulfur miners work at the bottom, with baskets of eighty kilos.",
+        come: "From Banyuwangi or Licin by car, then a climb on foot of about 3 hours. Gas mask mandatory.",
+        quando: "Departure at 1 a.m. to see the blue fire, then dawn over the lake.",
+        tempo: "half a day",
+        consiglio: "Bring a real gas mask and not a scarf; do not photograph the miners without asking."
+      },
+      {
+        nome: "Malioboro and batik workshops",
+        testo: "Yogyakarta's shopping street and the batik workshops where you can learn the wax and dye technique.",
+        come: "On foot. Courses are booked at workshops in the Taman Sari district.",
+        quando: "Afternoon and evening.",
+        tempo: "2-3 hours",
+        consiglio: "A batik course is a good way to see a living craft."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "3 days",
+        tappe: [
+          "Day 1: Yogyakarta, Kraton and Taman Sari, dinner on Malioboro",
+          "Day 2: dawn at Borobudur, Prambanan in the afternoon",
+          "Day 3: train to Surabaya or Probolinggo, night at Cemoro Lawang"
+        ]
+      },
+      {
+        titolo: "6-8 days",
+        tappe: [
+          "Days 1-3 as above",
+          "Day 4: dawn at Bromo, transfer toward Banyuwangi",
+          "Day 5: Ijen in the night, rest",
+          "Days 6-8: Bali or return"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Prawirotaman (Yogyakarta)",
+        perChi: "anyone who wants to be quieter",
+        testo: "A district of cafés and guesthouses, less chaotic than Malioboro."
+      },
+      {
+        nome: "Malioboro",
+        perChi: "anyone who wants the tourist heart",
+        testo: "Near the station and stalls. Noisy."
+      },
+      {
+        nome: "Cemoro Lawang",
+        perChi: "anyone going to Bromo",
+        testo: "A village on the crater rim, with simple lodging. Cold at night."
+      },
+      {
+        nome: "Banyuwangi or Licin",
+        perChi: "anyone going to Ijen",
+        testo: "Simple lodging for a 1 a.m. start."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Gudeg",
+        testo: "Sweet jackfruit stew, Yogyakarta's signature dish. It divides those who taste it."
+      },
+      {
+        nome: "Nasi goreng and mie goreng",
+        testo: "Fried rice and noodles, from evening carts."
+      },
+      {
+        nome: "Sate ayam",
+        testo: "Chicken skewers with peanut sauce."
+      },
+      {
+        nome: "Tempeh",
+        testo: "Fermented soy, invented right in Java, fried and eaten as a snack."
+      }
+    ],
+    attenzioni: [
+      "Ijen: without a gas mask the sulfur fumes are dangerous.",
+      "Jakarta traffic makes journey times unpredictable.",
+      "Bromo: agree the jeep price before leaving; Penanjakan is crowded.",
+      "Unofficial taxis at stations ask high fares: use Grab or metered taxis."
+    ],
     esperienzeSlugs: ['alba-bromo-jeep'],
     tripSlugs: ['indonesia-itinerario', 'giava-bali-gili'],
     imageAlt: "A stone Buddha head at Borobudur, seen from behind, in front of the valley wrapped in dawn mist, Java",
@@ -178,6 +397,121 @@ export const destinazioniIndonesia: Destinazione[] = [
     ],
     miaEsperienza:
       "Bali is two different islands depending on where you sleep, and that's why it gets opposite verdicts. The south between Canggu and Seminyak is made of concrete, traffic and places designed for people coming from outside: you can have fun, but Indonesia is elsewhere. Twenty kilometers inland is enough and the flower offerings in front of the houses, renewed every morning, reappear, along with temples in use rather than on display: the island becomes what you came looking for. More than any rice paddy or beach, what stayed with me is the Kecak dance at Uluwatu at sunset, with seventy men sitting in a circle making all the music with their voices. Nusa Penida, on the other hand, is by now a victim of its own success (Kelingking at midday is a line of people on a steep path) and it's best to be on the first boat in the morning.",
+    luoghi: [
+      {
+        nome: "Ubud and the Tegalalang rice terraces",
+        testo: "The cultural heart of Bali, with temples, workshops, dances and terraced rice fields around. Tegalalang is the most photographed, but the interior has less-trodden valleys.",
+        come: "From Denpasar or the south by car with driver or scooter, about an hour and a half. The rice fields are visited on foot.",
+        quando: "In the morning, before the groups.",
+        tempo: "1 day",
+        consiglio: "Twenty kilometers inland are enough to find flower offerings in front of houses and temples in use again."
+      },
+      {
+        nome: "Ubud Monkey Forest",
+        testo: "A forest with temples and hundreds of macaques. They are used to visitors and steal glasses, bags and food.",
+        come: "On foot from the centre of Ubud.",
+        quando: "In the morning.",
+        tempo: "1 hour",
+        consiglio: "Bring no food or dangling items: the macaques grab everything."
+      },
+      {
+        nome: "Uluwatu Temple and Kecak dance",
+        testo: "A temple on a cliff above the sea. At sunset, in the amphitheatre, the Kecak dance is held: seventy men seated in a circle make all the music with their voices.",
+        come: "From Canggu or Seminyak by car or scooter, about an hour. Macaques are everywhere.",
+        quando: "At sunset.",
+        tempo: "2-3 hours",
+        consiglio: "Arrive early to get a good seat in the amphitheatre."
+      },
+      {
+        nome: "Tanah Lot",
+        testo: "A temple on an offshore rock, surrounded by the tide. One of the most photographed sunset spots in Bali.",
+        come: "By car from Canggu, about 30 minutes. At low tide you can reach the base of the rock.",
+        quando: "At sunset, but it is crowded.",
+        tempo: "1.5 hours",
+        consiglio: "Check the tide: at low tide it is more striking."
+      },
+      {
+        nome: "Sunrise on Gunung Batur",
+        testo: "A night trek to the volcano top for sunrise over the caldera and lake. A climb of about two hours.",
+        come: "With a mandatory guide, leaving from Toya Bungkah or nearby villages around 3 a.m.",
+        quando: "Leaving in the dead of night, sunrise from 6.",
+        tempo: "half a day",
+        consiglio: "Bring a jacket: it is cold at the top."
+      },
+      {
+        nome: "Nusa Penida: Kelingking Beach",
+        testo: "A dinosaur-shaped cliff above a beach, the island's most photographed spot. With Angel's Billabong and Manta Bay it completes the tour.",
+        come: "By fast boat from Sanur or Padang Bai, about 45 minutes, then car or scooter on the island.",
+        quando: "On the first boat in the morning, to avoid the queue on the steep path.",
+        tempo: "1 day",
+        consiglio: "Sleeping a night on Nusa Penida avoids the double crossing in one day."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "3 days",
+        tappe: [
+          "Day 1: Ubud, Monkey Forest and Tegalalang rice fields",
+          "Day 2: sunrise on Batur, free afternoon",
+          "Day 3: Uluwatu at sunset with the Kecak dance"
+        ]
+      },
+      {
+        titolo: "7 days",
+        tappe: [
+          "Days 1-3 as above",
+          "Day 4: Tanah Lot at sunset",
+          "Days 5-6: Nusa Penida, with a night on the island",
+          "Day 7: return and rest"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Ubud",
+        perChi: "anyone seeking culture and rice fields",
+        testo: "Cultural heart, with guesthouses among the fields. Very touristy by day."
+      },
+      {
+        nome: "Canggu",
+        perChi: "anyone seeking surf and nightlife",
+        testo: "Bars, cafés and black beaches. Heavy traffic and concrete."
+      },
+      {
+        nome: "Uluwatu",
+        perChi: "anyone seeking cliffs and relative calm",
+        testo: "Beaches under cliffs and sunsets. Quieter but far from everything."
+      },
+      {
+        nome: "Sanur or Nusa Dua",
+        perChi: "families",
+        testo: "A calmer pace and sheltered sea."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Babi guling",
+        testo: "Spit-roasted suckling pig, the Balinese dish par excellence. Found in specialized places that open at lunch and close when they run out."
+      },
+      {
+        nome: "Bebek betutu",
+        testo: "Duck cooked for hours in spices, often to order the day before."
+      },
+      {
+        nome: "Nasi campur",
+        testo: "Rice with small tastes of meat, vegetables and fritters, in neighborhood warungs."
+      },
+      {
+        nome: "Sate lilit",
+        testo: "Skewers of minced fish or meat wrapped around bamboo or lemongrass."
+      }
+    ],
+    attenzioni: [
+      "Scooters: an international licence is needed, checks are frequent and fines high.",
+      "Traffic between Canggu and Seminyak at peak hours: leave plenty of margin.",
+      "Money changers and cocktails: use official exchanges and drink at reliable venues. Methanol in drinks is a risk flagged by authorities.",
+      "Nusa Penida: book the boat ahead in high season and leave early."
+    ],
     esperienzeSlugs: ['giornata-nusa-penida'],
     tripSlugs: ['indonesia-itinerario', 'giava-bali-gili'],
     imageAlt: 'The Jatiluwih rice terraces in Bali, glistening with water to the horizon, seen from the drone',
@@ -220,6 +554,102 @@ export const destinazioniIndonesia: Destinazione[] = [
     ],
     miaEsperienza:
       "Tana Toraja is the most different thing I saw in Indonesia, and it's not a postcard place. A Toraja funeral lasts days, gathers hundreds of people and involves the sacrifice of buffalo in front of everyone. It has nothing of the sobriety we're used to: it's an enormously expensive celebration, for which families save for years. As an outsider you can attend (you bring a gift, usually sugar or cigarettes, and stay where the guide indicates), but you have to be ready to see things that hit hard. Bunaken is the other side: coral walls dropping straight down for hundreds of meters, where you turn onto your back and there's no bottom below. Between the two, the one that changed something in me is Toraja.",
+    luoghi: [
+      {
+        nome: "Rantepao and the tongkonan villages",
+        testo: "The heart of Tana Toraja, with boat-roofed houses (tongkonan) and rice fields. Kete Kesu is the best-preserved village, with houses, granaries and tombs.",
+        come: "From Makassar by night bus or car, about 8 hours, or by domestic flight. Villages are visited with a guide.",
+        quando: "From May to October. In the dry months funerals are concentrated.",
+        tempo: "2-3 days",
+        consiglio: "Take a local guide who explains the symbols: without one you lose half the meaning."
+      },
+      {
+        nome: "Rock tombs: Londa and Lemo",
+        testo: "Tombs carved into the cliff face, with «tau tau», wooden effigies of the dead, watching from balconies. At Londa there are coffins in a cave.",
+        come: "With the guide from Rantepao, by car or scooter.",
+        quando: "In the morning.",
+        tempo: "half a day",
+        consiglio: "Bring a torch for the caves and respect the tombs: do not touch bones."
+      },
+      {
+        nome: "A Toraja funeral",
+        testo: "A funeral lasts days, gathers hundreds of people and includes buffalo sacrifice. Families save for years. It is an extremely expensive celebration, not a sober mourning.",
+        come: "Only with a guide who explains the etiquette. You bring a gift, usually sugar or cigarettes, and stay where the guide says.",
+        quando: "Especially from July to September.",
+        tempo: "half a day",
+        consiglio: "Be prepared to see striking things. To organize the trip: Wale Adventure (wale-adventure.com), a local operator."
+      },
+      {
+        nome: "Bunaken National Marine Park",
+        testo: "Coral walls dropping sheer for hundreds of meters. Among the best places in the world for snorkeling and boat dives.",
+        come: "From Manado by boat from the pier, about 40-60 minutes. Packages of one or more nights.",
+        quando: "From May to October.",
+        tempo: "2-3 days",
+        consiglio: "Whoever arrives after Toraja experiences it as a counterweight: two different faces of the island."
+      },
+      {
+        nome: "Fort Rotterdam and Makassar",
+        testo: "The 17th-century Dutch fort on the harbor, with a museum. The city is the starting point for Toraja.",
+        come: "On foot or by taxi from the centre of Makassar.",
+        quando: "In the morning.",
+        tempo: "1-2 hours",
+        consiglio: "Eat coto makassar in the morning and grilled fish on the waterfront in the evening."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "7-9 days",
+        tappe: [
+          "Day 1: arrival in Makassar, Fort Rotterdam",
+          "Day 2: transfer to Rantepao",
+          "Day 3-4: tongkonan, Londa and Lemo, a funeral if there is one",
+          "Day 5: return to Makassar or flight to Manado",
+          "Day 6-8: Bunaken",
+          "Day 9: return"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Rantepao",
+        perChi: "anyone visiting Tana Toraja",
+        testo: "A small town with guesthouses and restaurants, base for the villages."
+      },
+      {
+        nome: "Manado",
+        perChi: "anyone going to Bunaken",
+        testo: "A port city with hotels, from where boats leave for the island."
+      },
+      {
+        nome: "Bunaken Island",
+        perChi: "anyone diving",
+        testo: "Homestays and resorts on the island. Simple."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Coto makassar",
+        testo: "Beef soup, served for breakfast in Makassar."
+      },
+      {
+        nome: "Pa'piong",
+        testo: "Meat cooked in a bamboo tube, typical of Toraja. Must be ordered hours ahead."
+      },
+      {
+        nome: "Rica-rica",
+        testo: "A very spicy dish of the north, around Manado."
+      },
+      {
+        nome: "Grilled fish",
+        testo: "On the Makassar waterfront, in the evening."
+      }
+    ],
+    attenzioni: [
+      "Funeral ceremonies: do not show up without a guide; they are private events with rules of respect.",
+      "Tana Toraja is Christian: pork appears, which elsewhere in Indonesia is rare.",
+      "Roads to Toraja are long and winding; the night bus is uncomfortable.",
+      "Diving packages at Bunaken cost more than average: compare operators."
+    ],
     esperienzeSlugs: ['diving-bunaken-national-park'],
     tripSlugs: ['indonesia-itinerario'],
     imageAlt: "A tongkonan with a ship's-prow roof in a Toraja village near Rantepao, Sulawesi",
@@ -263,6 +693,115 @@ export const destinazioniIndonesia: Destinazione[] = [
     ],
     miaEsperienza:
       "The Rinjani is the hardest trek I did in Indonesia, and comparison with the others doesn't hold up. The climb to the crater rim is long and exposed, and ends on volcanic sand where for every three steps you lose one. We pitched camp on the rim, in the wind, and you sleep little and badly. Waking up above Lake Segara Anak with the clouds below, though, repays everything. The Gilis are perfect right afterward: no cars or scooters, you walk around in an hour and the turtles can be seen from the beach, with no boat or guide. Trawangan at night is more of a party than some expect, Meno is the opposite: better to know before booking.",
+    luoghi: [
+      {
+        nome: "The Gili islands: Trawangan, Meno and Air",
+        testo: "Three islands with no cars or scooters, explored on foot, by bike or by horse cart (cidomo). Trawangan is the party island, Air the most mixed, Meno the quietest. Turtles are seen straight from the beach.",
+        come: "Fast boat from Bali (Padang Bai or Sanur) or from Bangsal, the port on Lombok's north coast. On the Gilis you walk or take a cidomo.",
+        quando: "From April to November. Quieter during the day.",
+        tempo: "2-3 days",
+        consiglio: "Choose the island by character: party on Trawangan, calm on Meno."
+      },
+      {
+        nome: "Snorkeling with turtles",
+        testo: "Green turtles graze on the sandy bottoms near the shore on all three islands. No boat or guide needed.",
+        come: "You enter the water from the beach, with rented mask and fins.",
+        quando: "In the morning, with calmer water.",
+        tempo: "1-2 hours",
+        consiglio: "Do not touch or chase the turtles: keep your distance."
+      },
+      {
+        nome: "Trek to Gunung Rinjani",
+        testo: "Indonesia's second highest volcano, 3,726 meters. From the crater rim you see Segara Anak lake. The route is long and exposed and ends on volcanic sand.",
+        come: "From Senaru or Sembalun, with a guide required by law. Packages of 2-4 days with porters and tents.",
+        quando: "From April to December; closed in the rainy season.",
+        tempo: "2-4 days",
+        url: "https://rinjaninationalpark.com/",
+        consiglio: "The camp on the rim is windy and you sleep little: waking above the clouds with the lake below pays off everything."
+      },
+      {
+        nome: "Senaru waterfalls",
+        testo: "Sendang Gile and Tiu Kelep are two waterfalls in the forest at the foot of Rinjani, reached by a short walk. A great rest day before or after the trek.",
+        come: "On foot from Senaru, with a guide.",
+        quando: "In the morning.",
+        tempo: "3 hours",
+        consiglio: "Wear shoes that can get wet."
+      },
+      {
+        nome: "Southern beaches: Kuta, Tanjung Aan, Selong Belanak",
+        testo: "Bays of pale sand and surf waves, much less crowded than Bali.",
+        come: "By scooter or car from Kuta Lombok. From the airport about 30 minutes.",
+        quando: "In the morning or at sunset.",
+        tempo: "1 day",
+        consiglio: "Selong Belanak is the best for beginner surfers."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "6-8 days",
+        tappe: [
+          "Day 1: arrival in Lombok, Senaru",
+          "Day 2-4: Rinjani trek",
+          "Day 5: rest, Senaru waterfalls",
+          "Day 6-7: Gili, snorkeling with turtles",
+          "Day 8: departure"
+        ]
+      },
+      {
+        titolo: "Without Rinjani",
+        tappe: [
+          "Day 1-2: Kuta Lombok and the southern beaches",
+          "Day 3-5: Gili",
+          "Day 6: return"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Gili Trawangan",
+        perChi: "anyone who wants nightlife",
+        testo: "Bars, restaurants and venues. Louder than many expect."
+      },
+      {
+        nome: "Gili Meno",
+        perChi: "anyone seeking calm",
+        testo: "The quietest, with few services and lovely sunsets."
+      },
+      {
+        nome: "Senaru or Sembalun",
+        perChi: "anyone doing Rinjani",
+        testo: "Villages on the volcano's slopes with simple guesthouses."
+      },
+      {
+        nome: "Kuta Lombok",
+        perChi: "anyone seeking beaches and surf",
+        testo: "A quiet town with cheap lodging."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Ayam taliwang",
+        testo: "Grilled chicken in a chili sauce that does not spare you. In Sasak the island's name means chili."
+      },
+      {
+        nome: "Grilled fish at Trawangan night market",
+        testo: "Fish is displayed on ice, you choose and wait for it to be grilled. The best and cheapest spot on the Gilis."
+      },
+      {
+        nome: "Plecing kangkung",
+        testo: "Water spinach with spicy tomato sauce, a typical Lombok side dish."
+      },
+      {
+        nome: "Sate rembiga",
+        testo: "Spicy beef skewers, typical of Lombok."
+      }
+    ],
+    attenzioni: [
+      "Rinjani: guide required by law. Underestimating the effort and altitude is the most common mistake.",
+      "Trawangan in the evening is more party than it looks; Meno is the opposite. Choose one by character.",
+      "Crossings from Bali: the sea can be rough; avoid booking overly tight transfers.",
+      "On the Gilis, currents and boats: do not swim far from the shore."
+    ],
     esperienzeSlugs: ['trekking-gunung-rinjani'],
     tripSlugs: ['indonesia-itinerario', 'giava-bali-gili'],
     imageAlt: 'A white sand islet off Lombok, with outrigger boats moored and the hills behind',
@@ -306,6 +845,102 @@ export const destinazioniIndonesia: Destinazione[] = [
     ],
     miaEsperienza:
       "The dragons almost always stay still. They are huge animals that spend the day in the shade and move little, and anyone expecting a documentary scene is thrown off: what impresses is the size and the fact that the ranger holds only a forked stick. Rinca is wilder and less crowded than Komodo island, and it's worth asking for it specifically. The best moment is Padar at dawn: a short, steep climb along a ridge, and below, three bays with three different sands all together. It has to be done very early, because from eight the line on the path is continuous and the heat makes itself felt.",
+    luoghi: [
+      {
+        nome: "Rinca Island",
+        testo: "One of the two islands where Komodo dragons live, wilder and less crowded than Komodo island. The dragons are almost always still in the shade, but they are dangerous predators.",
+        come: "By boat from Labuan Bajo, about 2 hours. You walk on trails with a ranger, who carries only a forked stick.",
+        quando: "In the morning, in the cooler hours.",
+        tempo: "half a day",
+        url: "https://komodonationalpark.org/",
+        consiglio: "Ask explicitly for Rinca in the tour: it is wilder than Komodo island."
+      },
+      {
+        nome: "Komodo Island and Loh Liang",
+        testo: "The island that gives the park its name. Short trails start from Loh Liang and lead to areas where dragons are seen.",
+        come: "By boat from Labuan Bajo, about 3-4 hours. With a mandatory ranger.",
+        quando: "In the morning.",
+        tempo: "half a day",
+        url: "https://komodonationalpark.org/",
+        consiglio: "Never approach without the ranger and never leave the trail."
+      },
+      {
+        nome: "Padar Island",
+        testo: "A short steep climb on a ridge, and below three bays with sands of different colors: the park's most famous viewpoint.",
+        come: "By boat from Labuan Bajo with a tour, often as the first stop of the morning.",
+        quando: "At dawn, very early: from eight the queue on the trail is continuous and the heat is felt.",
+        tempo: "1.5 hours",
+        consiglio: "Going up at first light is the only way to have the view without the queue."
+      },
+      {
+        nome: "Pink Beach",
+        testo: "A pinkish beach from coral fragments mixed with the sand, with excellent snorkeling.",
+        come: "By boat as a stop on the tour.",
+        quando: "Morning or early afternoon.",
+        tempo: "1-2 hours",
+        consiglio: "Snorkel: the seabed is more interesting than the beach."
+      },
+      {
+        nome: "Kanawa, Kelor and Manta Point",
+        testo: "Islands and snorkeling spots with coral reef and, in some places, manta rays.",
+        come: "By boat on one-day or multi-day tours.",
+        quando: "From April to December, with calmer sea.",
+        tempo: "half a day",
+        consiglio: "Strong currents between islands: listen to the crew's instructions."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 day",
+        tappe: [
+          "Dawn: Padar",
+          "Morning: Pink Beach and snorkeling",
+          "Lunch on board",
+          "Afternoon: Rinca or Komodo with the rangers",
+          "Sunset: return to Labuan Bajo"
+        ]
+      },
+      {
+        titolo: "3 days (boat)",
+        tappe: [
+          "Day 1: Kanawa, Rinca, night on board",
+          "Day 2: Padar at dawn, Pink Beach, Manta Point",
+          "Day 3: Komodo island and return"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Labuan Bajo",
+        perChi: "anyone doing day tours",
+        testo: "A port with hotels of every range, seaside restaurants and the evening fish market. Base for all tours."
+      },
+      {
+        nome: "On board (liveaboard)",
+        perChi: "anyone wanting to see more",
+        testo: "Sleeping on the boat lets you be at Padar at dawn, before the groups. Costs more."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Grilled fish from the evening market",
+        testo: "The day's catch displayed on Labuan Bajo's waterfront and grilled to order. Costs far less than the restaurants with a harbor view."
+      },
+      {
+        nome: "Boat cooking",
+        testo: "On board the crew cooks: rice, fish and vegetables, simple but good."
+      },
+      {
+        nome: "Flores coffee",
+        testo: "Home-roasted and served unfiltered."
+      }
+    ],
+    attenzioni: [
+      "Approach the dragons only with a ranger: they are dangerous predators.",
+      "Rough sea and strong currents between islands: listen to the crew and do not swim alone.",
+      "At Padar the queue on the trail from eight onward: climb at dawn.",
+      "Check the official park fees and permits before booking."
+    ],
     esperienzeSlugs: ['trekking-draghi-komodo'],
     tripSlugs: ['indonesia-itinerario'],
     imageAlt: "The hills and bays of Padar island seen from the viewpoint, Komodo National Park",
@@ -349,6 +984,102 @@ export const destinazioniIndonesia: Destinazione[] = [
     ],
     miaEsperienza:
       "Flores is the part of Indonesia that has stayed behind, and that is exactly what makes it the most interesting for me. The Trans-Flores looks short on the map, but it's really an endless succession of curves: two hundred kilometers is a whole day, and anyone short on time would do better to give it up. Kelimutu at dawn is worth the three a.m. alarm anyway. The colors of the three lakes change over time and there's no way to know beforehand what you'll find, and that's the point of the place. Wae Rebo is the strongest thing on the island: three hours of climbing in the forest, then seven conical houses in a clearing among the mountains and nothing else. It's an inhabited village, and you stay by its rules.",
+    luoghi: [
+      {
+        nome: "Kelimutu",
+        testo: "Three crater lakes in the same mountain, of different colors that change over time. There is no way to know in advance which colors you will find, and that is the point of the place.",
+        come: "From Moni village, about 40 minutes by motorbike or car to the car park, then a short walk. Wake-up at three.",
+        quando: "At dawn, before the mist rises.",
+        tempo: "3 hours",
+        consiglio: "They deserve the three a.m. wake-up: the dawn light on the lakes is the best part."
+      },
+      {
+        nome: "Bena",
+        testo: "A traditional village at the foot of the Inerie volcano, with rows of thatched houses and megalithic stone monuments. The Ngada people still live here.",
+        come: "From Bajawa, about 20 minutes by car. An offering is left at the entrance.",
+        quando: "In the morning.",
+        tempo: "1-2 hours",
+        consiglio: "Leave a small offering and ask before photographing people."
+      },
+      {
+        nome: "Wae Rebo",
+        testo: "A remote village with seven conical houses in a clearing in the mountains. It is inhabited and you stay by its rules. One of the strongest things on the island.",
+        come: "From Denge, a three-hour climb in the forest. You sleep in the village with a welcome ceremony. Arranged through the village committee or an operator.",
+        quando: "From April to October; with rains the trail is muddy.",
+        tempo: "2 days (1 night)",
+        consiglio: "Bring a modest gift for the community and respect the village rules."
+      },
+      {
+        nome: "Riung and the 17 islands",
+        testo: "An archipelago of small islands with beaches, snorkeling and fruit bats.",
+        come: "From Bajawa or Ruteng to Riung by car, then boat. Half-day or day tours.",
+        quando: "From May to October.",
+        tempo: "half a day",
+        consiglio: "Come with the right time: distances on the Trans-Flores are deceptive."
+      },
+      {
+        nome: "Cancar and Ruteng spiderweb rice fields",
+        testo: "Rice fields laid out in a radial pattern like a spiderweb, following the ancient land division. The best viewpoint is on a hill a few minutes from the village.",
+        come: "From Ruteng, about 20 km by car.",
+        quando: "In the morning or at sunset.",
+        tempo: "1 hour",
+        consiglio: "Combine with a stop in Ruteng, a cool highland town, and its coffee."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "5-7 days (east-west)",
+        tappe: [
+          "Day 1: Maumere or Ende, Moni",
+          "Day 2: Kelimutu at dawn, Trans-Flores toward Bajawa",
+          "Day 3: Bena and Ngada villages",
+          "Day 4: road to Ruteng, Cancar",
+          "Day 5: Denge and climb to Wae Rebo",
+          "Day 6: Wae Rebo, descent and return to Labuan Bajo"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Moni",
+        perChi: "anyone seeing Kelimutu",
+        testo: "A village of simple guesthouses. Dinner is ordered in the afternoon."
+      },
+      {
+        nome: "Bajawa",
+        perChi: "anyone going to Bena",
+        testo: "A highland town with all kinds of lodging, cooler."
+      },
+      {
+        nome: "Labuan Bajo",
+        perChi: "anyone departing or arriving",
+        testo: "A port with more services, base for Komodo."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Se'i",
+        testo: "Smoked meat typical of the eastern islands."
+      },
+      {
+        nome: "Flores coffee",
+        testo: "Home-roasted and served unfiltered, everywhere."
+      },
+      {
+        nome: "Village warungs",
+        testo: "Rice, fish or chicken and stir-fried vegetables: the offer is minimal, and that is part of the trip."
+      },
+      {
+        nome: "Sayur rebus",
+        testo: "Boiled vegetables with sambal, simple and common."
+      }
+    ],
+    attenzioni: [
+      "The Trans-Flores is long and winding: two hundred kilometers is a full day.",
+      "At Wae Rebo and Bena you are a guest: ask before photographing and respect local rules.",
+      "Guesthouses have few places: book for the main stops.",
+      "Carry cash: ATMs are rare outside Labuan Bajo."
+    ],
     esperienzeSlugs: ['alba-kelimutu'],
     tripSlugs: ['indonesia-itinerario'],
     imageAlt: "The conical mbaru niang houses of the village of Wae Rebo among the mountains of Flores",
@@ -456,6 +1187,97 @@ export const destinazioniIndonesia: Destinazione[] = [
     ],
     miaEsperienza:
       "It's the most beautiful place I've seen underwater, and also the hardest to reach: two flights, a ferry and a boat, with costs that look nothing like the rest of Indonesia. The difference shows at the first snorkel, though: a density of fish like the reef at Arborek, twenty meters from shore, doesn't exist anywhere else anymore. The currents are strong and must be taken seriously: certain spots can only be done at the right times. Sleeping in homestays rather than resorts is the choice worth making, because that model, even more than the price, is what keeps the park's protection going. Piaynemo at sunset, with the wooden stairs and the crowded platform, is the only moment you meet anyone else. We were there in August 2026, which every guidebook marks as the wrong season. In part it is, but not in the way you expect: the sea was amazing all the same, ten days without seeing a drop of rain. The wind, though, made itself felt: it lengthened a couple of transfers between islands and made us skip an outing in a more exposed area. The other thing to count is the big pelagics: mantas and sharks are much rarer in summer, because the upwelling of plankton-rich water that draws them is mainly a winter phenomenon. With reefs full of fish anyway and very few other tourists around, it was a trade-off I don't regret.",
+    luoghi: [
+      {
+        nome: "Piaynemo",
+        testo: "Raja Ampat's iconic viewpoint, with mushroom-shaped limestone islands rising from a turquoise lagoon. Reached by a wooden staircase.",
+        come: "By boat from the islands of Waisai or from homestays. The marine park permit (PIN Raja Ampat) is paid.",
+        quando: "At sunset, but it is the only time you meet anyone else.",
+        tempo: "half a day",
+        consiglio: "Go up early or at the end of the day to avoid the crowded platform."
+      },
+      {
+        nome: "Wayag",
+        testo: "The other famous viewpoint, in the north, with dozens of limestone islets in a lagoon. Farther, it takes more time and more money.",
+        come: "By liveaboard or private boat, far from Waisai. Depends on wind and sea.",
+        quando: "From October to April, with calmer sea.",
+        tempo: "1 day or more",
+        consiglio: "Allow a buffer day: wind can cancel the trip."
+      },
+      {
+        nome: "Arborek",
+        testo: "A stilt village with a reef accessible straight from the beach. A density of fish, twenty meters from the shore, that is no longer found elsewhere.",
+        come: "By boat from the rest of the islands. You sleep in the village homestays.",
+        quando: "All year; better in the morning.",
+        tempo: "1-2 days",
+        consiglio: "Sleep in homestays, not resorts: that model is what keeps the park's protection going."
+      },
+      {
+        nome: "Dampier Strait and manta spots",
+        testo: "The park's pristine reefs, with mantas at cleaning stations and a huge variety of fish. Currents are strong and must be respected.",
+        come: "By boat with operators, at the right times for currents.",
+        quando: "From October to April for mantas and big pelagics; in summer they are much rarer.",
+        tempo: "1-2 days",
+        consiglio: "Certain spots can only be done with the right current: follow the guide's instructions."
+      },
+      {
+        nome: "Misool",
+        testo: "The south of the park, with more remote reefs and limestone islands and calmer areas. Less traveled.",
+        come: "By liveaboard or resort, far from Waisai.",
+        quando: "From October to April; in summer the wind raises the sea toward Misool.",
+        tempo: "2 days or more",
+        consiglio: "From May to September transfers toward Misool can be cancelled: keep margin."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "5-7 days",
+        tappe: [
+          "Day 1: flight to Sorong, ferry to Waisai",
+          "Day 2-3: Arborek and snorkeling on nearby reefs",
+          "Day 4: Piaynemo",
+          "Day 5-6: manta spots or Wayag, if the sea allows",
+          "Day 7: return to Sorong"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Homestays (Arborek, Gam, Kri)",
+        perChi: "anyone who wants to save and support communities",
+        testo: "You sleep in families' homes, eat what they cook, without electricity at all hours."
+      },
+      {
+        nome: "Liveaboard",
+        perChi: "anyone who wants to cover more areas",
+        testo: "A boat with bunks, to reach Wayag and Misool. Expensive."
+      },
+      {
+        nome: "Waisai",
+        perChi: "anyone arriving and leaving",
+        testo: "The district capital, with few services and a logistics stop."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Fresh fish with rice",
+        testo: "Freshly caught fish with rice and vegetables, in homestays. Good and monotonous."
+      },
+      {
+        nome: "Papeda",
+        testo: "Sago glue, typical of Papua, served with yellow fish soup."
+      },
+      {
+        nome: "Seasonal fruit",
+        testo: "Whatever there is, on the islands."
+      }
+    ],
+    attenzioni: [
+      "The marine park permit (PIN Raja Ampat) is mandatory: work out its cost and time.",
+      "Wind from May to September can lengthen transfers and cancel trips to exposed areas.",
+      "There are no ATMs on the islands: withdraw in Sorong or Waisai.",
+      "Currents are strong: always follow the guide's instructions."
+    ],
     esperienzeSlugs: ['diving-liveaboard-raja-ampat'],
     tripSlugs: [],
     imageAlt: "Limestone islets covered in forest in the turquoise lagoon of Piaynemo, Raja Ampat",
@@ -503,6 +1325,89 @@ export const destinazioniIndonesia: Destinazione[] = [
     ],
     miaEsperienza:
       "I went with Mentawai Tribe, a Padang operator that works with guides from Siberut, and I spent a few days in the jungle with a Mentawai family. These places are unreal. It's not for everyone, though: there's mud everywhere, there are insects, there's no electricity and you sleep on a mat. And there's an ethical side to face honestly. It's not a human zoo, you're a guest in someone's home. You ask before photographing, the guide arranges the gifts, the money has to reach the community: that's why it matters to choose an operator with Mentawai guides. It also helps to know that for decades the state suppressed their traditions, burning ritual objects and arresting the shamans. After the jungle there are the beaches, beautiful, and the surf of Sipora, which is the reason almost everyone comes all the way here.",
+    luoghi: [
+      {
+        nome: "Siberut jungle and a Mentawai family's uma",
+        testo: "You go up the river by motorized canoe to the uma, a family's longhouse, and spend a few days in the jungle. Mud everywhere, insects, no electricity, you sleep on a mat. It is not a human zoo: you are a guest in someone's home.",
+        come: "From the port of Muara Siberut, by motorized canoe and on foot in the forest. With Mentawai guides from local operators in Padang.",
+        quando: "From May to early September. From November to January it rains a lot.",
+        tempo: "3-8 days",
+        consiglio: "Ask before photographing, agree gifts with the guide and choose an operator with Mentawai guides, so the money reaches the community."
+      },
+      {
+        nome: "Tuapejat and Sipora",
+        testo: "The capital of the Mentawai and the island with the nicest beaches. After the Siberut jungle it is the sea and rest part.",
+        come: "Mentawai Fast ferry from Padang, about 3.5 hours. Times and prices change often: check them on the operator's page.",
+        quando: "From May to September.",
+        tempo: "2-3 days",
+        consiglio: "Leave days of margin: with the Syahbandar red flag the ferries do not sail."
+      },
+      {
+        nome: "Sipora beaches",
+        testo: "Beautiful, little-visited beaches with clear water.",
+        come: "By scooter or with organized transfers from Tuapejat.",
+        quando: "From May to September.",
+        tempo: "1-2 days",
+        consiglio: "Bring everything you need: services on the island are few."
+      },
+      {
+        nome: "Surf breaks: Lance's Left, HTs, Telescopes",
+        testo: "Among the most celebrated waves in the world, the reason almost everyone comes this far. Lance's Left and HTs are in the south of Sipora, Telescopes in the north.",
+        come: "By private boat or transfers organized by surf camps. Mandatory surf fee.",
+        quando: "From May to September, when swells are biggest.",
+        tempo: "at least 5 days",
+        consiglio: "The famous reefs are not for beginners: choose breaks by level."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "7-8 days",
+        tappe: [
+          "Day 1: Padang, ferry to Siberut",
+          "Day 2-5: jungle with the Mentawai family",
+          "Day 6: return and ferry to Tuapejat",
+          "Day 7-8: beaches or surf at Sipora",
+          "Day 9: return to Padang"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Siberut (uma or homestay)",
+        perChi: "anyone doing the jungle",
+        testo: "You sleep with the family or in a simple camp. No electricity."
+      },
+      {
+        nome: "Tuapejat",
+        perChi: "anyone arriving by ferry",
+        testo: "Simple hotels and restaurants. A logistics point."
+      },
+      {
+        nome: "Sipora surf camps",
+        perChi: "surfers",
+        testo: "Dedicated facilities, with boats for the breaks."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Fish and rice",
+        testo: "The basic meal in the jungle and on the islands."
+      },
+      {
+        nome: "Sago",
+        testo: "A traditional Mentawai food, prepared by families."
+      },
+      {
+        nome: "Nasi padang in Padang",
+        testo: "Before or after the islands, the dish of the departure city."
+      }
+    ],
+    attenzioni: [
+      "Do not treat the visit as a show: you are a guest, you ask before photographing and you do not pay for poses or costumes.",
+      "With a red flag the ferries do not sail: leave with days of margin.",
+      "Tough conditions: mud, mosquitoes, no electricity, humid heat.",
+      "Insurance that covers evacuation and a visit to a travel-medicine clinic for malaria."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['sumatra-mentawai'],
     imageAlt: 'The Siberut jungle and the beaches of Sipora, Mentawai Islands',
