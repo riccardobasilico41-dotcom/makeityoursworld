@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import Link from '@/components/ui/Link'
+import { Consigliati } from '@/components/Consigliati'
 import { Filigrana } from '@/components/Filigrana'
 import { SalvaBottone } from '@/components/SalvaBottone'
 import { FirmaAutore } from '@/components/FirmaAutore'
@@ -305,6 +306,8 @@ export default async function DestinazionePage({
               <Ricordo testo={destinazione.miaEsperienza} />
             </div>
           )}
+
+          <Consigliati chiave={`${paeseSlug}/${destinazione.slug}`} lingua={lingua} />
 
           {foto.length >= 2 && (
             <div>
