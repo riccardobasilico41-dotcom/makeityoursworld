@@ -11,27 +11,27 @@ import type { Lingua } from '@/lib/i18n/config'
 const T = {
   it: {
     titolo: 'Informativa privacy',
-    desc: 'Chi tratta i dati su Make It Yours World, quali (solo log tecnici ed email di chi scrive), perché, per quanto tempo e come esercitare i tuoi diritti.',
+    desc: 'Chi tratta i dati su Make It Yours World, quali (log tecnici, email di chi scrive, nome e testo delle domande sotto i viaggi), perché, per quanto tempo e come esercitare i tuoi diritti.',
     crumb: 'Privacy',
-    lead: 'Questo è un blog di viaggio personale: niente account, moduli, newsletter, commenti, pubblicità o statistiche. Qui sotto trovi i pochi dati che passano comunque dal sito e cosa ne succede.',
+    lead: 'Questo è un blog di viaggio personale: niente account, newsletter, pubblicità o statistiche. L’unico modulo è quello per fare una domanda sotto un viaggio. Qui sotto trovi i pochi dati che passano comunque dal sito e cosa ne succede.',
     daInserire: (s: string) => `[${s} da inserire]`,
     indirizzo: 'indirizzo',
     email: 'email',
   },
   en: {
     titolo: 'Privacy notice',
-    desc: 'Who processes data on Make It Yours World, which data (only technical logs and the emails of people who write), why, for how long and how to exercise your rights.',
+    desc: 'Who processes data on Make It Yours World, which data (technical logs, emails of people who write, name and text of the questions under the trips), why, for how long and how to exercise your rights.',
     crumb: 'Privacy',
-    lead: 'This is a personal travel blog: no accounts, forms, newsletters, comments, advertising or analytics. Below you will find the few data items that still pass through the site and what happens to them.',
+    lead: 'This is a personal travel blog: no accounts, newsletters, advertising or analytics. The only form is the one for asking a question under a trip. Below you will find the few data items that still pass through the site and what happens to them.',
     daInserire: (s: string) => `[${s} to be added]`,
     indirizzo: 'address',
     email: 'email',
   },
   es: {
     titolo: 'Política de privacidad',
-    desc: 'Quién trata los datos en Make It Yours World, cuáles (solo registros técnicos y los correos de quien escribe), por qué, durante cuánto tiempo y cómo ejercer tus derechos.',
+    desc: 'Quién trata los datos en Make It Yours World, cuáles (registros técnicos, correos de quien escribe, nombre y texto de las preguntas bajo los viajes), por qué, durante cuánto tiempo y cómo ejercer tus derechos.',
     crumb: 'Privacidad',
-    lead: 'Este es un blog de viajes personal: sin cuentas, formularios, boletines, comentarios, publicidad ni estadísticas. Aquí abajo encuentras los pocos datos que pasan igualmente por el sitio y qué se hace con ellos.',
+    lead: 'Este es un blog de viajes personal: sin cuentas, boletines, publicidad ni estadísticas. El único formulario es el de hacer una pregunta bajo un viaje. Aquí abajo encuentras los pocos datos que pasan igualmente por el sitio y qué se hace con ellos.',
     daInserire: (s: string) => `[${s} por añadir]`,
     indirizzo: 'dirección',
     email: 'correo electrónico',
@@ -68,7 +68,7 @@ const CORPO: Record<Lingua, (lingua: Lingua) => ReactNode> = {
   it: (lingua) => (
     <>
       <p>
-        <em>Ultimo aggiornamento: 30 ottobre 2026</em>
+        <em>Ultimo aggiornamento: 4 novembre 2026</em>
       </p>
       <p>
         Informativa resa ai sensi dell&apos;art. 13 del Regolamento (UE) 2016/679 (GDPR) a chi visita{' '}
@@ -98,9 +98,19 @@ const CORPO: Record<Lingua, (lingua: Lingua) => ReactNode> = {
         Se scrivi all&apos;indirizzo email del sito, riceviamo il tuo indirizzo, il nome se lo indichi e quello che scrivi nel
         messaggio. Ti chiediamo di non inviare dati particolari (per esempio sulla salute) se non servono.
       </p>
+      <h3 id="domande">Domande sotto i viaggi</h3>
+      <p>
+        Se usi il modulo «Fai una domanda» in fondo a un viaggio, salviamo solo il <strong>nome che scegli</strong> (anche
+        un soprannome), il <strong>testo della domanda</strong>, la lingua e la pagina del viaggio, e la data. Non chiediamo
+        email né altri recapiti e non salviamo il tuo indirizzo IP: per frenare lo spam il server conta gli invii solo in
+        memoria, con un codice ricavato dall&apos;IP che non viene scritto da nessuna parte e sparisce al più tardi dopo 24
+        ore. La domanda non è pubblica finché non la leggo e rispondo; se la pubblico, nome, domanda e risposta sono
+        visibili a tutti sulla pagina del viaggio. Non scrivere nella domanda dati personali tuoi o di altri.
+      </p>
       <h3>Cosa non trattiamo</h3>
       <p>
-        Il sito non usa cookie, strumenti di statistica, pixel pubblicitari o di social network, mappe o video incorporati
+        Il sito non usa cookie per chi lo visita (l&apos;unico cookie, tecnico, serve solo all&apos;autore per entrare
+        nella pagina di moderazione delle domande), né strumenti di statistica, pixel pubblicitari o di social network, mappe o video incorporati
         da altri servizi. Font, foto e video sono ospitati sul sito stesso, quindi aprire una pagina non manda richieste a
         Google o ad altri terzi. Per l&apos;unica informazione salvata nel browser vedi la{' '}
         <Link href="/cookie">cookie policy</Link>.
@@ -118,6 +128,11 @@ const CORPO: Record<Lingua, (lingua: Lingua) => ReactNode> = {
           misure richieste dall&apos;interessato (art. 6, par. 1, lett. b) o, per i semplici messaggi, il legittimo
           interesse a rispondere (art. 6, par. 1, lett. f).
         </li>
+        <li>
+          <strong>Pubblicare le domande dei lettori con la risposta</strong>, perché siano utili anche ad altri
+          viaggiatori. Base giuridica: il tuo consenso, dato con la casella del modulo (art. 6, par. 1, lett. a), che
+          puoi revocare in qualsiasi momento chiedendo di togliere la domanda.
+        </li>
       </ul>
       <p>Non c&apos;è alcun processo decisionale automatizzato né profilazione.</p>
 
@@ -130,6 +145,10 @@ const CORPO: Record<Lingua, (lingua: Lingua) => ReactNode> = {
         <li>
           <strong>Email:</strong> per il tempo necessario a gestire la richiesta e poi cancellate, al più tardi entro 24
           mesi dall&apos;ultimo scambio, salvo che servano per tutelare un diritto in giudizio.
+        </li>
+        <li>
+          <strong>Domande sotto i viaggi:</strong> finché la domanda resta pubblicata o finché chiedi di toglierla. Le
+          domande scartate o senza risposta vengono cancellate al più tardi dopo 12 mesi.
         </li>
       </ul>
 
@@ -147,6 +166,10 @@ const CORPO: Record<Lingua, (lingua: Lingua) => ReactNode> = {
           </a>
           ).
         </li>
+        <li>
+          Lo stesso Vercel conserva le domande sotto i viaggi nel servizio <strong>Vercel Blob</strong>, in un archivio
+          privato che si trova nell&apos;Unione europea (Francoforte, Germania).
+        </li>
         <li>Il fornitore della casella di posta usata per l&apos;indirizzo email del sito, solo per i messaggi ricevuti.</li>
       </ul>
       <p>I dati possono essere comunicati alle autorità solo se lo impone la legge.</p>
@@ -159,6 +182,10 @@ const CORPO: Record<Lingua, (lingua: Lingua) => ReactNode> = {
       </p>
 
       <h2>7. I tuoi diritti</h2>
+      <p>
+        Per far togliere o correggere una tua domanda basta scrivere all&apos;indirizzo email indicato sopra, con il
+        viaggio e il nome usato: la cancelliamo dall&apos;archivio, non solo dalla pagina.
+      </p>
       <p>In qualsiasi momento puoi chiedere al titolare, scrivendo all&apos;indirizzo email indicato sopra:</p>
       <ul>
         <li>l&apos;accesso ai tuoi dati e una copia (art. 15);</li>
@@ -208,7 +235,7 @@ const CORPO: Record<Lingua, (lingua: Lingua) => ReactNode> = {
   en: (lingua) => (
     <>
       <p>
-        <em>Last updated: October 30, 2026</em>
+        <em>Last updated: November 4, 2026</em>
       </p>
       <p>
         Notice provided under Article 13 of Regulation (EU) 2016/679 (GDPR) to those who visit{' '}
@@ -239,9 +266,20 @@ const CORPO: Record<Lingua, (lingua: Lingua) => ReactNode> = {
         If you write to the site&apos;s email address, we receive your address, your name if you give it, and what you write
         in the message. Please do not send special categories of data (for example about health) unless necessary.
       </p>
+      <h3 id="domande">Questions under the trips</h3>
+      <p>
+        If you use the «Ask a question» form at the end of a trip, we store only the <strong>name you choose</strong> (a
+        nickname is fine), the <strong>text of the question</strong>, the language and trip page, and the date. We do not ask
+        for an email or other contact details and we do not store your IP address: to curb spam the server counts
+        submissions only in memory, with a code derived from the IP that is never written anywhere and disappears after
+        24 hours at the latest. The question is not public until I read it and reply; if I publish it, the name, question
+        and answer are visible to everyone on the trip page. Please do not put personal data about yourself or others in
+        the question.
+      </p>
       <h3>What we do not process</h3>
       <p>
-        The site uses no cookies, analytics tools, advertising or social network pixels, or maps or videos embedded from
+        The site uses no cookies for visitors (the only cookie, a technical one, is used solely by the author to sign in
+        to the question moderation page), and no analytics tools, advertising or social network pixels, or maps or videos embedded from
         other services. Fonts, photos and videos are hosted on the site itself, so opening a page does not send requests to
         Google or other third parties. For the only item saved in your browser, see the{' '}
         <Link href="/cookie">cookie policy</Link>.
@@ -259,6 +297,11 @@ const CORPO: Record<Lingua, (lingua: Lingua) => ReactNode> = {
           measures requested by the data subject (Article 6(1)(b)) or, for simple messages, the legitimate interest in
           replying (Article 6(1)(f)).
         </li>
+        <li>
+          <strong>Publishing readers&apos; questions with the answer</strong>, so they can help other travelers too. Legal
+          basis: your consent, given with the form checkbox (Article 6(1)(a)), which you can withdraw at any time by
+          asking for the question to be removed.
+        </li>
       </ul>
       <p>There is no automated decision-making or profiling.</p>
 
@@ -271,6 +314,10 @@ const CORPO: Record<Lingua, (lingua: Lingua) => ReactNode> = {
         <li>
           <strong>Emails:</strong> for the time needed to handle the request and then deleted, at the latest within 24
           months of the last exchange, unless they are needed to defend a legal claim.
+        </li>
+        <li>
+          <strong>Questions under the trips:</strong> for as long as the question stays published or until you ask for it
+          to be removed. Discarded or unanswered questions are deleted after 12 months at the latest.
         </li>
       </ul>
 
@@ -287,6 +334,10 @@ const CORPO: Record<Lingua, (lingua: Lingua) => ReactNode> = {
           </a>
           ).
         </li>
+        <li>
+          Vercel also stores the questions under the trips in its <strong>Vercel Blob</strong> service, in a private store
+          located in the European Union (Frankfurt, Germany).
+        </li>
         <li>The provider of the mailbox used for the site&apos;s email address, only for the messages received.</li>
       </ul>
       <p>The data may be disclosed to the authorities only if the law requires it.</p>
@@ -299,6 +350,10 @@ const CORPO: Record<Lingua, (lingua: Lingua) => ReactNode> = {
       </p>
 
       <h2>7. Your rights</h2>
+      <p>
+        To have one of your questions removed or corrected, just write to the email address given above with the trip
+        and the name you used: we delete it from the archive, not only from the page.
+      </p>
       <p>At any time you can ask the controller, by writing to the email address given above, for:</p>
       <ul>
         <li>access to your data and a copy (Article 15);</li>
@@ -347,7 +402,7 @@ const CORPO: Record<Lingua, (lingua: Lingua) => ReactNode> = {
   es: (lingua) => (
     <>
       <p>
-        <em>Última actualización: 30 de octubre de 2026</em>
+        <em>Última actualización: 4 de noviembre de 2026</em>
       </p>
       <p>
         Información facilitada conforme al art. 13 del Reglamento (UE) 2016/679 (RGPD) a quienes visitan{' '}
@@ -378,9 +433,20 @@ const CORPO: Record<Lingua, (lingua: Lingua) => ReactNode> = {
         Si escribes a la dirección de correo del sitio, recibimos tu dirección, tu nombre si lo indicas y lo que escribas
         en el mensaje. Te pedimos que no envíes datos especiales (por ejemplo, sobre la salud) si no hacen falta.
       </p>
+      <h3 id="domande">Preguntas bajo los viajes</h3>
+      <p>
+        Si usas el formulario «Haz una pregunta» al final de un viaje, guardamos solo el <strong>nombre que elijas</strong>{' '}
+        (también un apodo), el <strong>texto de la pregunta</strong>, el idioma y la página del viaje, y la fecha. No pedimos
+        correo ni otros datos de contacto y no guardamos tu dirección IP: para frenar el spam el servidor cuenta los envíos
+        solo en memoria, con un código derivado de la IP que no se escribe en ningún sitio y desaparece como máximo a las 24
+        horas. La pregunta no es pública hasta que la leo y respondo; si la publico, el nombre, la pregunta y la respuesta
+        son visibles para todos en la página del viaje. No escribas en la pregunta datos personales tuyos ni de otras
+        personas.
+      </p>
       <h3>Qué no tratamos</h3>
       <p>
-        El sitio no usa cookies, herramientas de estadística, píxeles publicitarios o de redes sociales, ni mapas o vídeos
+        El sitio no usa cookies para quien lo visita (la única cookie, técnica, la usa solo el autor para entrar en la
+        página de moderación de las preguntas), ni herramientas de estadística, píxeles publicitarios o de redes sociales, ni mapas o vídeos
         incrustados de otros servicios. Las fuentes, las fotos y los vídeos están alojados en el propio sitio, así que abrir
         una página no envía solicitudes a Google ni a otros terceros. Para el único dato guardado en el navegador consulta
         la <Link href="/cookie">política de cookies</Link>.
@@ -398,6 +464,11 @@ const CORPO: Record<Lingua, (lingua: Lingua) => ReactNode> = {
           medidas solicitadas por el interesado (art. 6, apdo. 1, letra b) o, para los mensajes simples, el interés
           legítimo en responder (art. 6, apdo. 1, letra f).
         </li>
+        <li>
+          <strong>Publicar las preguntas de los lectores con la respuesta</strong>, para que sirvan también a otros
+          viajeros. Base jurídica: tu consentimiento, dado con la casilla del formulario (art. 6, apdo. 1, letra a), que
+          puedes retirar en cualquier momento pidiendo que se quite la pregunta.
+        </li>
       </ul>
       <p>No hay ninguna decisión automatizada ni elaboración de perfiles.</p>
 
@@ -411,6 +482,10 @@ const CORPO: Record<Lingua, (lingua: Lingua) => ReactNode> = {
           <strong>Correos electrónicos:</strong> durante el tiempo necesario para gestionar la solicitud y después
           borrados, como máximo a los 24 meses del último intercambio, salvo que hagan falta para defender un derecho en
           juicio.
+        </li>
+        <li>
+          <strong>Preguntas bajo los viajes:</strong> mientras la pregunta siga publicada o hasta que pidas quitarla. Las
+          preguntas descartadas o sin respuesta se borran como máximo a los 12 meses.
         </li>
       </ul>
 
@@ -427,6 +502,10 @@ const CORPO: Record<Lingua, (lingua: Lingua) => ReactNode> = {
           </a>
           ).
         </li>
+        <li>
+          La propia Vercel conserva las preguntas bajo los viajes en su servicio <strong>Vercel Blob</strong>, en un
+          archivo privado ubicado en la Unión Europea (Fráncfort, Alemania).
+        </li>
         <li>El proveedor del buzón de correo usado para la dirección del sitio, solo para los mensajes recibidos.</li>
       </ul>
       <p>Los datos solo pueden comunicarse a las autoridades si la ley lo exige.</p>
@@ -439,6 +518,10 @@ const CORPO: Record<Lingua, (lingua: Lingua) => ReactNode> = {
       </p>
 
       <h2>7. Tus derechos</h2>
+      <p>
+        Para que se quite o se corrija una de tus preguntas basta con escribir a la dirección de correo indicada arriba,
+        con el viaje y el nombre que usaste: la borramos del archivo, no solo de la página.
+      </p>
       <p>En cualquier momento puedes pedir al responsable, escribiendo a la dirección de correo indicada arriba:</p>
       <ul>
         <li>el acceso a tus datos y una copia (art. 15);</li>

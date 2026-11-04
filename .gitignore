@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# domande dei lettori in sviluppo locale (fallback senza BLOB_READ_WRITE_TOKEN)
+/.data/

@@ -36,6 +36,9 @@ import { articoloViaggioJsonLd, breadcrumbJsonLd, faqJsonLd } from '@/lib/struct
 import type { EditorialMeta } from '@/content/viaggi-editorial'
 import { getHeroVideo } from '@/content/viaggi-hero-video'
 import { pageMetadata } from '@/lib/seo'
+import { DomandeViaggio } from '@/components/domande/DomandeViaggio'
+import { domandePubblicate } from '@/lib/domande/archivio'
+import type { Domanda } from '@/lib/domande/tipi'
 
 const T = {
   it: {
@@ -199,6 +202,8 @@ export default async function ViaggioPage({ params }: { params: Promise<{ slug: 
   if (!meta) notFound()
   const copertina = copertinaViaggio(viaggio.slug, lingua)
   const editorial = editoriale(viaggio.slug, lingua)
+  // domande dei lettori già moderate: lette in cache, la pagina resta statica (la moderazione la rigenera)
+  const domande = await domandePubblicate(viaggio.slug, lingua)
 
   const cosaVedereSezione = viaggio.sezioni.find((s) => /^(Cosa vedere|What to see|Qué ver)/i.test(s.titolo))
   const consigliSezione = viaggio.sezioni.find((s) => /^(Consigli pratici|Practical tips|Consejos prácticos)/i.test(s.titolo))
@@ -253,6 +258,7 @@ export default async function ViaggioPage({ params }: { params: Promise<{ slug: 
               { domanda: t.faqGiorni(nomePaese), risposta: [viaggio.durata, meta.ritmo].filter(Boolean).join('. ') },
               { domanda: t.faqCosto(nomePaese), risposta: meta.budgetTotale },
               { domanda: t.faqQuando(nomePaese), risposta: viaggio.periodo },
+              ...domande.map((d) => ({ domanda: d.testo, risposta: d.risposta?.testo })),
             ],
             lingua,
           ),
@@ -271,6 +277,7 @@ export default async function ViaggioPage({ params }: { params: Promise<{ slug: 
         cosaVedereSezione={cosaVedereSezione}
         consigliSezione={consigliSezione}
         altreSezioni={altreSezioni}
+        domande={domande}
       />
     </>
   )
@@ -295,6 +302,7 @@ function SignatureViaggioContent({
   cosaVedereSezione,
   consigliSezione,
   altreSezioni,
+  domande,
 }: {
   lingua: Lingua
   viaggio: Viaggio
@@ -306,6 +314,7 @@ function SignatureViaggioContent({
   cosaVedereSezione?: SezioneViaggio
   consigliSezione?: SezioneViaggio
   altreSezioni: SezioneViaggio[]
+  domande: Domanda[]
 }) {
   const t = T[lingua]
   return (
@@ -519,6 +528,7 @@ function SignatureViaggioContent({
               lista={listaPerViaggio(viaggio.slug, lingua)}
             />
             <FirmaAutore />
+            <DomandeViaggio viaggio={viaggio.slug} lingua={lingua} domande={domande} />
           </div>
 
         </Container>
