@@ -80,6 +80,140 @@ export const destinazioniLituania: Destinazione[] = [
         ],
       },
     ],
+    luoghi: [
+      {
+        nome: "Cattedrale di Vilnius e Piazza della Cattedrale",
+        testo: "Cattedrale neoclassica con il campanile separato a torre e le cripte reali dei granduchi di Lituania. La piazza è il luogo d'incontro della città, ai piedi della collina di Gediminas.",
+        come: "A piedi dalla Città Vecchia (10 minuti).",
+        quando: "Mattina, per la luce e meno folla.",
+        tempo: "45 minuti",
+        costo: "ingresso libero",
+        consiglio: "Fermarsi sulla pietra «Stebuklas», dove i vilnesi esprimono un desiderio."
+      },
+      {
+        nome: "Colle e Torre di Gediminas",
+        testo: "Il simbolo della città, con i resti del Castello Superiore e la torre che ospita il museo. Si sale a piedi o in funicolare; dall'alto si vede la Città Vecchia.",
+        come: "A piedi dalla Piazza della Cattedrale; funicolare a pagamento.",
+        quando: "Tardo pomeriggio, per la luce sul tetto rosso della Città Vecchia.",
+        tempo: "1,5 ore",
+        costo: "torre circa 8 euro, funicolare 2-3 euro (dato del sito, da ricontrollare)",
+        url: "https://www.lnm.lt",
+        consiglio: "Salire a piedi e scendere in funicolare, se si vuole risparmiare."
+      },
+      {
+        nome: "Porta dell'Aurora",
+        testo: "L'unica porta rimasta delle mura medievali, con la cappella che custodisce l'icona della Madonna di Ostra Brama, meta di pellegrinaggio. Passando sotto si può sentire la messa dall'esterno.",
+        come: "A piedi, a 10 minuti dalla Piazza del Municipio.",
+        quando: "Mattina.",
+        tempo: "30 minuti",
+        costo: "ingresso libero",
+        consiglio: "Togliersi il cappello sotto la porta, come fanno i fedeli."
+      },
+      {
+        nome: "Užupis",
+        testo: "Il quartiere bohémien al di là del torrente, autoproclamatosi repubblica il 1° aprile 1997. Sul muro della via Paupio sono le targhe con i 41 articoli della sua «costituzione», tradotte in decine di lingue.",
+        come: "A piedi dalla Città Vecchia, attraversando il ponte.",
+        quando: "Giorno; il 1° aprile è la festa dell'indipendenza.",
+        tempo: "1-2 ore",
+        costo: "ingresso libero",
+        consiglio: "Cercare l'Angelo di Užupis, la statuetta simbolo."
+      },
+      {
+        nome: "Chiesa di Sant'Anna e Bernardini",
+        testo: "La chiesa gotica di mattoni rossi di Sant'Anna, accanto alla più grande Chiesa di San Francesco e Bernardino. Insieme formano uno degli scorci più fotografati.",
+        come: "A piedi dalla Cattedrale (10 minuti).",
+        quando: "Mattina o sera.",
+        tempo: "30-45 minuti",
+        costo: "ingresso libero",
+        consiglio: "Il lato migliore per la foto è dal cortile della Chiesa dei Bernardini."
+      },
+      {
+        nome: "Università di Vilnius",
+        testo: "Fondata nel 1579, ha tredici cortili collegati, la chiesa barocca di San Giovanni e una biblioteca storica. Si visita in autonomia, con biglietto.",
+        come: "A piedi, in Pilies gatvė.",
+        quando: "Mattina nei giorni feriali.",
+        tempo: "1 ora",
+        url: "https://www.vu.lt",
+        consiglio: "Salire sul campanile di San Giovanni per la vista sulla Città Vecchia."
+      },
+      {
+        nome: "Palazzo dei Granduchi e Museo dell'Occupazione",
+        testo: "Il Palazzo, ricostruito sulle rovine del castello reale, racconta il Granducato. A breve distanza, il Museo delle Occupazioni e delle Lotte per la Libertà, nell'ex sede KGB, documenta il periodo sovietico.",
+        come: "A piedi: il Palazzo ai piedi della collina, il Museo in Gedimino prospektas.",
+        quando: "Mattina; il museo KGB è chiuso il lunedì.",
+        tempo: "2 ore per ognuno",
+        url: "https://www.genocid.lt",
+        consiglio: "Le celle nel sotterraneo del KGB sono dure da visitare, ma importanti."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Mattina: Cattedrale e Colle di Gediminas",
+          "Pranzo con cepelinai",
+          "Pomeriggio: Porta dell'Aurora e Pilies gatvė",
+          "Sera: Užupis"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1 come sopra",
+          "Giorno 2: Università e Sant'Anna",
+          "Palazzo dei Granduchi",
+          "Museo KGB"
+        ]
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: gita a Trakai (vedi scheda)"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Città Vecchia",
+        perChi: "Chi vuole stare a piedi vicino a tutto",
+        testo: "Vie di ciottoli e vita serale; caro e rumoroso nel weekend."
+      },
+      {
+        nome: "Užupis",
+        perChi: "Chi cerca un'atmosfera da artisti",
+        testo: "Tranquillo, a pochi minuti a piedi; pochi alberghi."
+      },
+      {
+        nome: "Naujamiestis",
+        perChi: "Chi vuole risparmiare",
+        testo: "Quartiere ottocentesco appena fuori dal centro, collegato a piedi o in bus."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Cepelinai",
+        testo: "Grandi gnocchi di patate ripieni di carne o formaggio, con panna e pancetta."
+      },
+      {
+        nome: "Šaltibarščiai",
+        testo: "Zuppa fredda di barbabietola e kefir, rosa, tipica d'estate."
+      },
+      {
+        nome: "Kibinai",
+        testo: "Pasticcini ripieni di carne, specialità caraimi (soprattutto a Trakai)."
+      },
+      {
+        nome: "Kepta duona",
+        testo: "Pane di segale fritto con aglio e formaggio, spuntino da birra."
+      }
+    ],
+    attenzioni: [
+      "Taxi: usare Bolt, che è molto diffuso e economico.",
+      "Alcol: la vendita nei negozi è limitata a certe ore e alla sera non si compra.",
+      "Borseggiatori vicino alla stazione e nei mercati.",
+      "D'inverno marciapiedi ghiacciati: scarpe adatte."
+    ],
     esperienzeSlugs: ['uzupis-repubblica-passeggiata'],
     tripSlugs: ['capitali-baltiche'],
     imageAlt: 'Il centro storico di Vilnius tra il verde, con le cupole e i tetti delle chiese e le colline boscose sullo sfondo',
@@ -120,6 +254,48 @@ export const destinazioniLituania: Destinazione[] = [
       'Partire senza controllare gli orari: il castello chiude un giorno a settimana e in bassa stagione ha orari più corti',
       'Fermarsi al ponte pedonale senza entrare nel museo: le sale interne, anche quelle sulla storia del Granducato, valgono il biglietto',
       'Pensare di cavarsela in pochi minuti: tra andata, visita e ritorno serve mezza giornata piena',
+    ],
+    luoghi: [
+      {
+        nome: "Castello dell'isola di Trakai",
+        testo: "Castello gotico di mattoni rossi sull'isola del lago Galvė, costruito nel XIV-XV secolo dai granduchi Kęstutis e Vytautas e ricostruito nel Novecento. Ospita il Museo Storico di Trakai.",
+        come: "Dal paese, ponte di legno pedonale dalla riva.",
+        quando: "Mattina nei giorni feriali; ottobre-marzo meno folla.",
+        tempo: "2-3 ore",
+        costo: "12 euro in bassa stagione, 14 in alta; gratuito l'ultima domenica del mese (dati del sito, da ricontrollare)",
+        consiglio: "Salire sulla torre principale per il panorama sul lago."
+      },
+      {
+        nome: "Quartiere caraimo",
+        testo: "Il quartiere della minoranza caraimita, con le case di legno a tre finestre in Karaimų gatvė (una per la strada, una per il cortile, una per Dio) e la kenesa, il tempio. Qui si mangiano i kibinai.",
+        come: "A piedi dal centro, lungo la via.",
+        quando: "Pranzo.",
+        tempo: "1 ora",
+        consiglio: "Provare i kibinai alla carne in uno dei ristoranti caraimiti."
+      },
+      {
+        nome: "Lago Galvė",
+        testo: "Il più grande dei lagi intorno a Trakai, con rive attrezzate per camminare e per noleggiare barche e canoe. Dall'acqua si vede il castello in una cornice classica.",
+        come: "A piedi dal paese; noleggio sul lungolago.",
+        quando: "Estate, mattina o tardo pomeriggio.",
+        tempo: "1-2 ore",
+        consiglio: "Affittare una barca a remi è il modo più semplice per vedere il castello dall'acqua."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Kibinai",
+        testo: "Pasticcini caraimiti ripieni di carne di agnello o manzo e cipolla."
+      },
+      {
+        nome: "Birra e kvas",
+        testo: "Bevande locali nei ristoranti del lago."
+      }
+    ],
+    attenzioni: [
+      "Trakai è una gita di mezza giornata da Vilnius: treni e bus partono dalla stazione e impiegano circa 30-40 minuti.",
+      "In estate i parcheggi e i ristoranti sul lago si riempiono nei weekend.",
+      "I ristoranti di fronte al castello sono più cari di quelli nel quartiere caraimo."
     ],
     esperienzeSlugs: ['trakai-castello-lago-galve'],
     tripSlugs: ['capitali-baltiche'],

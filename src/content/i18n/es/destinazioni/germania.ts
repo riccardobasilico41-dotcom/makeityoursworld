@@ -47,6 +47,159 @@ export const destinazioniGermania: Destinazione[] = [
       "Subestimar las distancias: Berlín es mucho más extensa que otras capitales europeas, y moverse entre Mitte y Friedrichshain requiere siempre transporte público",
       "Tratar los lugares de la memoria (Muro, Topografía del Terror, Memorial del Holocausto) como paradas fotográficas cualquiera: están pensados para una visita silenciosa e informada",
     ],
+    luoghi: [
+      {
+        nome: "Reichstag y cúpula",
+        testo: "Sede del Bundestag, con la cúpula de cristal diseñada por Norman Foster y terminada en 1999. Una rampa en espiral lleva arriba, con vistas de la ciudad y del Parlamento bajo los pies.",
+        come: "Entrada gratuita pero con registro online obligatorio en la web del Bundestag; llevar documento de identidad. Controles de seguridad a la entrada.",
+        quando: "Tarde, por las luces de la ciudad; registrarse con días de antelación.",
+        tempo: "1,5 horas",
+        costo: "entrada gratuita, registro obligatorio",
+        url: "https://www.bundestag.de",
+        consiglio: "La audioguía es gratuita e incluida."
+      },
+      {
+        nome: "Puerta de Brandeburgo",
+        testo: "El monumento neoclásico de 1791 con la Cuadriga en lo alto, desde 1989 símbolo de la reunificación alemana. En la Pariser Platz hay embajadas y hoteles de lujo.",
+        come: "A pie desde la estación de S-Bahn Brandenburger Tor.",
+        quando: "Temprano por la mañana o al atardecer, para fotos sin multitudes.",
+        tempo: "30 minutos",
+        costo: "entrada libre",
+        consiglio: "Cuidado con los falsos soldados que piden dinero por las fotos."
+      },
+      {
+        nome: "Memorial del Holocausto",
+        testo: "Un campo de 2.711 estelas de hormigón de Peter Eisenman, en el que se camina por un paisaje desorientador. Bajo el memorial hay un centro de información con historias personales.",
+        come: "A pie desde la Puerta de Brandeburgo (5 minutos).",
+        quando: "Todo el día, siempre abierto; el centro de información cierra los lunes.",
+        tempo: "1 hora",
+        costo: "entrada libre",
+        url: "https://www.stiftung-denkmal.de",
+        consiglio: "Entrar con respeto: es un lugar de conmemoración, no un parque de juegos."
+      },
+      {
+        nome: "Memorial del Muro de Berlín (Bernauer Straße)",
+        testo: "El tramo mejor conservado del Muro, con la franja de la muerte original, la torre de vigilancia y el centro de documentación. Una pasarela sobre la franja muestra cómo era la división.",
+        come: "S-Bahn hasta Nordbahnhof, 5 minutos a pie.",
+        quando: "Mañana; centro de documentación cerrado los lunes.",
+        tempo: "1,5-2 horas",
+        costo: "entrada libre",
+        url: "https://www.stiftung-berliner-mauer.de",
+        consiglio: "Subir a la plataforma del centro de documentación para ver el trazado."
+      },
+      {
+        nome: "Topografía del Terror",
+        testo: "El centro de documentación en el lugar de las antiguas sedes de la Gestapo y las SS, con un tramo del Muro. La exposición cuenta cómo funcionaba la represión nazi.",
+        come: "A pie desde Potsdamer Platz (10 minutos).",
+        quando: "Mañana entre semana.",
+        tempo: "1,5-2 horas",
+        costo: "entrada libre",
+        url: "https://www.topographie.de",
+        consiglio: "Fácil de combinar con el tramo de Muro justo al lado."
+      },
+      {
+        nome: "Isla de los Museos",
+        testo: "Patrimonio de la UNESCO desde 1999, con cinco museos entre ellos el Neues Museum (con el busto de Nefertiti), el Altes Museum y la Alte Nationalgalerie. El Pergamonmuseum está en obras de renovación: comprobar qué salas están abiertas.",
+        come: "S-Bahn hasta Hackescher Markt, 10 minutos a pie. Existe una entrada combinada para la isla.",
+        quando: "Mañana entre semana; reservar online la hora de entrada.",
+        tempo: "media jornada",
+        url: "https://www.smb.museum",
+        consiglio: "Reservar con antelación el Neues Museum: la entrada para Nefertiti es con hora."
+      },
+      {
+        nome: "East Side Gallery",
+        testo: "1,3 km de Muro que quedan en pie junto al Spree en Friedrichshain, pintados por más de cien artistas en 1990: la galería de arte al aire libre más larga del mundo.",
+        come: "S-Bahn hasta Ostbahnhof o Warschauer Straße.",
+        quando: "Mañana o última hora de la noche, con menos gente.",
+        tempo: "1-1,5 horas",
+        costo: "entrada libre",
+        consiglio: "No escribir sobre las obras: es un delito y daña los murales."
+      },
+      {
+        nome: "Mauerpark",
+        testo: "Un parque sobre el antiguo trazado del Muro, conocido por el mercadillo de los domingos y el karaoke al aire libre.",
+        come: "U-Bahn hasta Bernauer Straße o Eberswalder Straße.",
+        quando: "Domingo, de 10 a 18.",
+        tempo: "2 horas",
+        costo: "entrada libre",
+        consiglio: "El karaoke en el anfiteatro es una experiencia de locales."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 día",
+        tappe: [
+          "Mañana: Reichstag y Puerta de Brandeburgo",
+          "Memorial del Holocausto",
+          "Almuerzo con currywurst",
+          "Tarde: Topografía del Terror",
+          "Noche: East Side Gallery"
+        ]
+      },
+      {
+        titolo: "2 días",
+        tappe: [
+          "Día 1 como arriba",
+          "Día 2: Isla de los Museos",
+          "Memorial del Muro (Bernauer Straße)",
+          "Noche en Prenzlauer Berg"
+        ]
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Días 1-2 como arriba",
+          "Día 3: Mauerpark el domingo, Charlottenburg o Potsdam"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Mitte",
+        perChi: "Quien tiene poco tiempo y quiere las atracciones a pie",
+        testo: "Cerca de la Isla de los Museos y Alexanderplatz; precios altos y zonas turísticas."
+      },
+      {
+        nome: "Prenzlauer Berg",
+        perChi: "Quien busca un barrio tranquilo y cafés",
+        testo: "Casas bien cuidadas, restaurantes y parques; buenas conexiones de metro."
+      },
+      {
+        nome: "Kreuzberg y Friedrichshain",
+        perChi: "Quien quiere vida nocturna y arte urbano",
+        testo: "Locales, comida callejera y murales; más ruido y precios más bajos."
+      },
+      {
+        nome: "Charlottenburg",
+        perChi: "Quien prefiere un ambiente clásico",
+        testo: "Tiendas y avenidas elegantes, cerca del Zoo y el Palacio de Charlottenburg."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Currywurst",
+        testo: "Salchicha en rodajas con salsa de curry y kétchup, que se come de pie en los quioscos."
+      },
+      {
+        nome: "Döner Kebab",
+        testo: "El invento berlinés del kebab en pan: la versión callejera más famosa de la ciudad."
+      },
+      {
+        nome: "Berliner (Pfannkuchen)",
+        testo: "El buñuelo relleno de mermelada, típico de bares y panaderías."
+      },
+      {
+        nome: "Eisbein y Schnitzel",
+        testo: "Codillo de cerdo y escalope, clásicos de cervecerías y restaurantes tradicionales."
+      }
+    ],
+    attenzioni: [
+      "Billetes BVG: validar los de papel y llevar el título encima, la multa es de 60 euros.",
+      "Efectivo: en muchos locales no se aceptan tarjetas, llevar algo.",
+      "Carteristas en Alexanderplatz, Kottbusser Tor y Brandenburger Tor.",
+      "Falsos soldados y peticiones (a menudo firmas para sordos) cerca de los monumentos: ignorarlos.",
+      "Los domingos casi todas las tiendas están cerradas."
+    ],
     esperienzeSlugs: ['reichstag-cupola', 'museumsinsel-pergamon', 'east-side-gallery', 'berlino-clubbing'],
     tripSlugs: ['berlino-weekend'],
     imageAlt: 'El edificio del Reichstag en Berlín con la cúpula de cristal y la bandera alemana, visto desde el césped de delante',

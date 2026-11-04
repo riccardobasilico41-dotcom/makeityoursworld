@@ -62,6 +62,144 @@ export const destinazioniNorvegia: Destinazione[] = [
     ],
     miaEsperienza:
       'Oslo per me è stata una tappa breve ma piacevole su entrambi i lati del viaggio: un pomeriggio di passeggiata tranquilla il primo giorno, e un\'ultima cena rilassata da Café Sara al rientro, dopo una settimana di trekking.',
+    luoghi: [
+      {
+        nome: "Parco Vigeland (Frognerparken)",
+        testo: "Il più grande parco di sculture di un solo artista: oltre 200 figure in bronzo, granito e ferro di Gustav Vigeland, tra cui il Monolite alto 14 metri con 121 corpi intrecciati. È il luogo più visitato della Norvegia.",
+        come: "Metropolitana o tram fino a Majorstuen/Vigelandsparken, poi 10 minuti a piedi. Si cammina in un asse di circa 850 metri dal cancello al monolite.",
+        quando: "Aperto sempre, ingresso libero. Mattina presto o sera d'estate per avere le sculture senza folla.",
+        tempo: "1,5-2 ore",
+        costo: "ingresso libero",
+        url: "https://www.vigeland.museum.no",
+        consiglio: "Il museo Vigeland, accanto al parco, ha gli studi dell'artista: utile per un'ora in caso di pioggia."
+      },
+      {
+        nome: "Oslo Opera House",
+        testo: "Teatro dell'opera e del balletto sul fiordo, aperto nel 2008, progettato da Snøhetta con un tetto di marmo inclinato su cui si cammina. La vista sulla città e sul mare vale la salita.",
+        come: "A piedi dalla stazione centrale (circa 5 minuti). Il tetto è sempre aperto, anche senza biglietto per gli spettacoli.",
+        quando: "Al tramonto, o con cielo limpido per la vista dell'Oslofjord.",
+        tempo: "45 minuti-1 ora",
+        costo: "tetto: ingresso libero",
+        url: "https://www.operaen.no",
+        consiglio: "Dopo la salita, tè caldo al bar interno: è il modo migliore per riscaldarsi."
+      },
+      {
+        nome: "Fortezza di Akershus",
+        testo: "Fortezza medievale del 1300 sul porto, poi castello rinascimentale. Il parco è gratuito e le mura offrono una bella veduta sul porto di Oslo; dentro ci sono il museo militare e quello della Resistenza.",
+        come: "A piedi dal centro in 10-15 minuti; ingresso libero al parco.",
+        quando: "Giorno intero; il cambio della guardia nella piazza esterna è attrazione gratuita.",
+        tempo: "1,5 ore",
+        costo: "parco libero; musei e castello con biglietto separato",
+        consiglio: "Salire sulle mura al tramonto: la luce sul fiordo è la migliore."
+      },
+      {
+        nome: "Penisola di Bygdøy: Fram e Kon-Tiki",
+        testo: "Il Fram Museum custodisce la nave polare di Nansen e Amundsen, intatta e visitabile a bordo. Accanto il Kon-Tiki Museum espone la zattera con cui Thor Heyerdahl attraversò il Pacifico nel 1947. Il museo delle navi vichinghe è chiuso per rinnovo fino al 2027: controllare la riapertura.",
+        come: "In estate il traghetto per Bygdøy parte da Rådhusbryggen; in alternativa il bus 30. I musei sono a pochi minuti l'uno dall'altro.",
+        quando: "Mattina, per avere le sale con meno gruppi.",
+        tempo: "3-4 ore",
+        url: "https://www.frammuseum.no",
+        consiglio: "I due musei si vedono bene in mezza giornata; evitare il lunedì festivo, quando è affollato."
+      },
+      {
+        nome: "Munch e Nasjonalmuseet",
+        testo: "Il museo Munch, a Bjørvika, raccoglie gran parte dell'opera di Edvard Munch; il Nasjonalmuseet, il più grande museo d'arte del Nord Europa, ha un'altra versione dell'Urlo (1893). Due edifici vicini al fiordo, nel quartiere più nuovo.",
+        come: "Munch a 10 minuti a piedi dalla stazione; il Nasjonalmuseet a 15 minuti dal centro.",
+        quando: "Mattina nei giorni feriali; prenotare online per gli ingressi con orario.",
+        tempo: "2-3 ore per ognuno",
+        url: "https://www.munchmuseet.no",
+        consiglio: "Confrontare le versioni dell'Urlo: le differenze si vedono dal vivo."
+      },
+      {
+        nome: "Holmenkollen",
+        testo: "Il trampolino di salto con gli sci di Oslo, con museo dello sci e simulatore, sopra la città. La vista sul fiordo e sulla foresta è la ragione per salire.",
+        come: "Metropolitana linea 1 fino a Holmenkollen, circa 30 minuti dal centro. Il percorso fino al trampolino è a piedi.",
+        quando: "Giorno, con cielo limpido; in inverno spesso c'è neve.",
+        tempo: "2 ore",
+        url: "https://www.holmenkollen.com",
+        consiglio: "Salire dal tram del pomeriggio e scendere a piedi nel bosco."
+      },
+      {
+        nome: "Aker Brygge e Astrup Fearnley",
+        testo: "L'ex area dei cantieri navali, oggi lungomare con ristoranti, e il museo d'arte contemporanea Astrup Fearnley, edificio di Renzo Piano. Il Tjuvholmen vicino ha sculture all'aperto.",
+        come: "A piedi dal Palazzo Reale lungo il lungomare, circa 20 minuti.",
+        quando: "Sera d'estate, per i tavoli all'aperto sul fiordo.",
+        tempo: "2 ore",
+        url: "https://www.afmuseet.no",
+        consiglio: "Camminare fino a Tjuvholmen: la spiaggia urbana è gratuita."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Mattina: Parco Vigeland",
+          "Pranzo in centro",
+          "Opera House (tetto)",
+          "Passeggiata a Aker Brygge",
+          "Cena a Aker Brygge"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1 come sopra",
+          "Giorno 2: Bygdøy (Fram e Kon-Tiki)",
+          "Pomeriggio al Munch o al Nasjonalmuseet",
+          "Akershus al tramonto"
+        ]
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: Holmenkollen la mattina",
+          "Crociera sull'Oslofjord di due ore",
+          "Ultima cena in centro"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Sentrum e Oslo S",
+        perChi: "Chi arriva in treno o ha poco tempo",
+        testo: "Vicino alla stazione, all'Opera e ai bus per l'aeroporto. Il Citybox dove ho dormito è a 5 minuti dalla stazione. Zone rumorose di sera vicino alla stazione."
+      },
+      {
+        nome: "Grünerløkka",
+        perChi: "Chi cerca bar, caffè e vita notturna",
+        testo: "Il quartiere più giovane, a 15 minuti a piedi dal centro. Molti locali, più rumore nel weekend."
+      },
+      {
+        nome: "Frogner e Majorstuen",
+        perChi: "Chi vuole tranquillità e il parco",
+        testo: "Quartiere residenziale vicino al Vigeland; alloggi un po' più cari, buoni collegamenti."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Brunost",
+        testo: "Formaggio bruno e dolce di siero di latte, a fette sul pane o sulle cialde."
+      },
+      {
+        nome: "Fårikål",
+        testo: "Il piatto nazionale: agnello e cavolo bollito con pepe in grani, tipico d'autunno."
+      },
+      {
+        nome: "Gamberi al porto (reker)",
+        testo: "Si comprano freschi dalle barche al porto, ad Aker Brygge, con pane e maionese."
+      },
+      {
+        nome: "Kanelboller",
+        testo: "Girelle alla cannella e cardamomo, da provare nei forni del centro."
+      }
+    ],
+    attenzioni: [
+      "L'alcol forte si vende solo da Vinmonopolet; i supermercati vendono birra fino a 4,7% e solo in orari limitati (chiusi la domenica).",
+      "Pickpocket intorno alla stazione e a Karl Johans gate: tenere borsa e telefono davanti.",
+      "Il traffico elettrico e i monopattini sfrecciano sulle piste ciclabili: guardare prima di attraversare.",
+      "La metropolitana si usa con i biglietti dell'app Ruter: comprare prima di salire, i controlli ci sono."
+    ],
     esperienzeSlugs: ['vigeland-park-oslo', 'bygdoy-musei-fram-kontiki', 'oslofjord-crociera'],
     tripSlugs: ['lofoten-estate-2025', 'capitali-nordiche'],
     imageAlt: 'Facciata in vetro e marmo dell\'Oslo Opera House, con persone sul tetto spiovente',
@@ -92,6 +230,48 @@ export const destinazioniNorvegia: Destinazione[] = [
     erroriDaEvitare: ['Mettere in conto il servizio lento da Melkebaren se si ha poco tempo tra un traghetto e l\'altro'],
     miaEsperienza:
       'Per noi è stata una tappa logistica sia all\'andata che al ritorno, ma con abbastanza da fare (spiaggia di Mjelle, il punto panoramico di Nyholms Fort) da non sembrare tempo perso.',
+    luoghi: [
+      {
+        nome: "Nyholms Fort",
+        testo: "Un forte del Settecento sulla punta del porto di Bodø, oggi con vista sul porto e sulle isole. Si raggiunge in 10 minuti a piedi dal porto.",
+        come: "A piedi dal porto.",
+        quando: "Tardo pomeriggio, con la luce sulle isole.",
+        tempo: "1 ora",
+        costo: "ingresso libero",
+        consiglio: "Il punto più comodo per una foto panoramica prima dell'imbarco."
+      },
+      {
+        nome: "Spiaggia di Mjelle",
+        testo: "Una lunga spiaggia di sabbia chiara a nord del centro, tra dune e mare. D'estate si cammina anche di sera con la luce lunga.",
+        come: "In auto o con bus locale da Bodø.",
+        quando: "Estate, sera.",
+        tempo: "1-2 ore",
+        costo: "ingresso libero",
+        consiglio: "Portare giacca antivento: il vento da nord è forte."
+      },
+      {
+        nome: "Saltstraumen",
+        testo: "Uno degli stretti con la corrente di marea più forte del mondo, circa 30 km da Bodø: l'acqua passa a oltre 30 km/h formando vortici. Non l'ho visitato, ma è la gita classica da Bodø.",
+        come: "In auto o con bus da Bodø, circa 40 minuti.",
+        quando: "Controllare le tabelle delle maree: la corrente è più forte a mezzo flusso, circa ogni sei ore.",
+        tempo: "2-3 ore",
+        consiglio: "Da guardare dal ponte; non si fa il bagno."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Panini da asporto",
+        testo: "Da Bryggerikaia si mangiano panini farciti da portare al punto panoramico."
+      },
+      {
+        nome: "Colazione",
+        testo: "Da Melkebaren, anche se il servizio è lento."
+      }
+    ],
+    attenzioni: [
+      "Se si va alle Lofoten in traghetto, arrivare con 30-40 minuti d'anticipo: in estate le code sono lunghe.",
+      "In estate gli alloggi di Bodø si riempiono in anticipo: prenotare presto."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['lofoten-estate-2025'],
     imageAlt: 'Vista dall\'alto del porto di Bodø, con casette rosse sul molo e la strada costiera',
@@ -120,6 +300,61 @@ export const destinazioniNorvegia: Destinazione[] = [
     erroriDaEvitare: ['Prenotare per tempo sia il Trollfjord sia una cena da Paleo Arctic: sono le due esperienze più richieste della zona'],
     miaEsperienza:
       'Svolvær è stata la base giusta per le prime giornate: comoda per il Trollfjord e per Henningsvær, e lì abbiamo fatto la cena migliore di tutto il viaggio, al Paleo Arctic.',
+    luoghi: [
+      {
+        nome: "Porto di Svolvær",
+        testo: "Il porto della capitale delle Lofoten, con vecchi capannoni da pesca (rorbuer) e barche. Da qui partono i RIB per il Trollfjord e i battelli per le isole.",
+        come: "A piedi dal centro.",
+        quando: "Sera, per la luce e il pesce in banchina.",
+        tempo: "1 ora",
+        costo: "ingresso libero",
+        consiglio: "Appartamento con vista sul porto: scelta pratica per cucinare e riposare."
+      },
+      {
+        nome: "Trollfjord",
+        testo: "Un fiordo stretto di circa 2 km con pareti ripide e aquile di mare. In estate il giro in RIB (gommone veloce) è il modo più diffuso per entrarci.",
+        come: "Escursione prenotata con operatore da Svolvær, 2-3 ore.",
+        quando: "Estate, con cielo sereno.",
+        tempo: "2-3 ore",
+        consiglio: "Prenotare in anticipo: i RIB si riempiono."
+      },
+      {
+        nome: "Svolværgeita",
+        testo: "Una roccia a due corna sopra il paese, sfida classica per gli alpinisti che saltano da un corno all'altro. Si raggiunge con un sentiero di salita ripida di circa un'ora e mezza.",
+        come: "Sentiero dal paese, ben segnato ma ripido.",
+        quando: "Giornata sgombra da nuvole.",
+        tempo: "3-4 ore",
+        consiglio: "Non è per chi soffre di vertigini."
+      },
+      {
+        nome: "Kabelvåg e Lofotr",
+        testo: "Poco fuori Svolvær, il Lofotmuseet nel vecchio porto di Kabelvåg racconta la pesca; a Borg c'è il Lofotr Viking Museum con una ricostruzione di casa da capo vichingo.",
+        come: "In auto, circa 10 minuti per Kabelvåg e 55 per Borg.",
+        quando: "Giorno pieno.",
+        tempo: "2-3 ore",
+        url: "https://lofotr.no",
+        consiglio: "Il Lofotr Viking Museum si visita in autonomia; in estate ci sono attività dal vivo."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Stoccafisso (tørrfisk)",
+        testo: "Merluzzo essiccato all'aria sui tradizionali stendi di legno; lo si mangia in zuppa o con patate."
+      },
+      {
+        nome: "Skrei",
+        testo: "Merluzzo artico della stagione invernale, da gennaio ad aprile, nei ristoranti locali."
+      },
+      {
+        nome: "Paleo Arctic",
+        testo: "Il ristorante dove ho cenato meglio in tutto il viaggio: da prenotare per tempo."
+      }
+    ],
+    attenzioni: [
+      "In Norvegia le strade delle Lofoten sono strette e con molti ponti: attenzione agli autobus e ai camper.",
+      "Prenotare il Trollfjord e le cene con anticipo in estate.",
+      "Per l'accesso alla natura vale il diritto di libero accesso, ma niente campeggio vicino a case e bivacchi nei parcheggi dei villaggi."
+    ],
     esperienzeSlugs: ['trollfjord-rib'],
     tripSlugs: ['lofoten-estate-2025'],
     imageAlt: 'La chiesa di Svolvær con le case rosse del porto sullo sfondo di un cielo tempestoso, Lofoten',
@@ -150,6 +385,49 @@ export const destinazioniNorvegia: Destinazione[] = [
     erroriDaEvitare: ['Non prenotare Fiskekrogen: nelle ore di punta il ristorante si riempie in fretta'],
     miaEsperienza:
       'Henningsvær è stata una delle sorprese del viaggio: il pranzo sul canale, il campo da calcio e, nel pomeriggio, il Festvågtind, un trekking più selvaggio e meno affollato del Reinebringen.',
+    luoghi: [
+      {
+        nome: "Campo da calcio di Henningsvær",
+        testo: "Un campo a erba sintetica costruito su una piccola isola di roccia, circondato dal mare. Dall'alto con il drone o dal ponte di accesso è una delle foto più note delle Lofoten.",
+        come: "Si arriva in auto da Svolvær (circa 30 minuti) e si parcheggia nel villaggio.",
+        quando: "Mattina presto o sera, con luce morbida.",
+        tempo: "30 minuti",
+        costo: "ingresso libero",
+        consiglio: "Non entrare in campo durante le partite o gli allenamenti."
+      },
+      {
+        nome: "Canale e porto",
+        testo: "Il villaggio si sviluppa su piccole isole unite da ponti, con case di legno colorate e vecchi magazzini del pesce. L'atmosfera da piccola Venezia c'è davvero sul canale.",
+        come: "A piedi dal parcheggio.",
+        quando: "Mattina, prima dei gruppi.",
+        tempo: "1-2 ore",
+        costo: "ingresso libero",
+        consiglio: "Pranzo da Fiskekrogen sul canale: prenotare e chiedere un tavolo vicino alla finestra."
+      },
+      {
+        nome: "Festvågtind",
+        testo: "Una cima di circa 540 metri sopra il paese, con vista sul mare aperto e sulle isole. Il sentiero è più selvaggio e meno affollato del Reinebringen.",
+        come: "Il punto di partenza è vicino al paese; sentiero con tratti ripidi.",
+        quando: "Pomeriggio con cielo limpido.",
+        tempo: "3-4 ore",
+        costo: "ingresso libero",
+        consiglio: "È stata una delle sorprese del viaggio: meno turisti, più silenzio."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Fiskekrogen",
+        testo: "Ristorante sul canale con pesce fresco della zona: ottimo, da prenotare."
+      },
+      {
+        nome: "Merluzzo al forno",
+        testo: "Piatto semplice con patate e burro, cucina tradizionale."
+      }
+    ],
+    attenzioni: [
+      "Il parcheggio nel villaggio è piccolo e a pagamento: arrivare presto.",
+      "Per il sentiero Festvågtind servono scarpe da trekking: dopo la pioggia è scivoloso."
+    ],
     esperienzeSlugs: ['festvagtind-trail'],
     tripSlugs: ['lofoten-estate-2025'],
     imageAlt: "Henningsvær dal drone: il campo da calcio sullo scoglio, le rastrelliere del merluzzo e l'arcipelago di isolotti verdi",
@@ -183,6 +461,58 @@ export const destinazioniNorvegia: Destinazione[] = [
     ],
     miaEsperienza:
       'Reine è stata il punto più intenso del viaggio: il Reinebringen (1h50 il mio tempo totale, tra salita, sosta e discesa) e il giorno dopo la spiaggia di Bunes, raggiungibile solo in traghetto. Di tutte le tappe, sono i due ricordi che mi sono portato a casa.',
+    luoghi: [
+      {
+        nome: "Reinebringen",
+        testo: "La salita più famosa delle Lofoten: circa 450 metri di dislivello su una scalinata di pietra costruita dagli sherpa nepalesi. Dalla cima si vede Reine con i fiordi e le montagne intorno.",
+        come: "Parcheggio nel villaggio, sentiero ben segnato; salita ripida ma breve.",
+        quando: "Con cielo sereno e senza pioggia, per evitare gradini scivolosi. Mattina presto o sera.",
+        tempo: "circa 1h50 tra salita, sosta e discesa",
+        costo: "parcheggio 200 NOK per 3 ore (viaggio 2025, da ricontrollare)",
+        consiglio: "Controllare le previsioni prima: con nuvole non si vede nulla dalla cima."
+      },
+      {
+        nome: "Reine e Hamnøy",
+        testo: "Villaggio di pescatori con rorbuer rossi su rocce a picco sul mare, tra le viste più fotografate della Norvegia. A pochi minuti di strada c'è Hamnøy, con le stesse case e il ponte.",
+        come: "A piedi nel villaggio; Hamnøy in auto, 5 minuti.",
+        quando: "Mattina, con luce morbida.",
+        tempo: "1-2 ore",
+        costo: "ingresso libero",
+        consiglio: "Il supermercato Coop Prix di Reine è comodo per preparare un pranzo al sacco."
+      },
+      {
+        nome: "Spiaggia di Bunes",
+        testo: "Una spiaggia di sabbia bianca raggiungibile solo in traghetto da Reine, con una camminata di circa mezz'ora sulle montagne. È uno dei luoghi più belli e meno accessibili dell'arcipelago.",
+        come: "Traghetto stagionale da Reine, poi sentiero a piedi.",
+        quando: "Estate, con l'orario del traghetto verificato in anticipo.",
+        tempo: "mezza giornata",
+        consiglio: "Insieme al Reinebringen, è il ricordo che mi sono portato a casa."
+      },
+      {
+        nome: "Lofotr Viking Museum a Borg",
+        testo: "La più grande casa vichinga mai scavata, lunga 83 metri, ricostruita sul posto con barche, laboratori e animali. Si trova sulla strada tra Svolvær e Reine.",
+        come: "In auto, circa 55 minuti da Svolvær; sosta ideale lungo il trasferimento.",
+        quando: "Giorno pieno.",
+        tempo: "2 ore",
+        url: "https://lofotr.no",
+        consiglio: "Una sosta utile se piove."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Tørrfisk",
+        testo: "Merluzzo essiccato, simbolo delle Lofoten: si può comprare in confezioni nei negozi."
+      },
+      {
+        nome: "Pranzo al sacco",
+        testo: "La Coop Prix di Reine è la soluzione più pratica prima delle escursioni."
+      }
+    ],
+    attenzioni: [
+      "Reinebringen: i gradini sono molti e il sentiero è affollato; non scendere con fretta, soprattutto con la pioggia.",
+      "Il traghetto per Bunes ha orari ridotti e può essere cancellato: verificare il giorno prima.",
+      "Parcheggio e traffico nel villaggio sono limitati: non lasciare l'auto lungo la strada."
+    ],
     esperienzeSlugs: ['reinebringen', 'spiaggia-di-bunes', 'viking-museum-borg'],
     tripSlugs: ['lofoten-estate-2025'],
     imageAlt: 'Vista aerea dal Reinebringen sul villaggio di Reine e i fiordi circostanti',
@@ -214,6 +544,43 @@ export const destinazioniNorvegia: Destinazione[] = [
     erroriDaEvitare: ['Il supermercato di Ramberg non vende vino/superalcolici, solo birra: pianificare la spesa di conseguenza'],
     miaEsperienza:
       'Il rorbu di Nesland è stato il posto più silenzioso di tutto il viaggio: nessuna luce artificiale, il fiordo a pochi passi, e una serata di barbecue tra le più rilassate della settimana.',
+    luoghi: [
+      {
+        nome: "Passeggiata Nesland-Nusfjord",
+        testo: "Un sentiero panoramico che segue la costa del fiordo da Nesland fino al villaggio di Nusfjord, con vista sul mare e sulle montagne di Flakstadøya.",
+        come: "Dal rorbu a piedi, circa un'ora di cammino a tratta.",
+        quando: "Sera d'estate, con la luce lunga.",
+        tempo: "2-3 ore andata e ritorno",
+        consiglio: "Il silenzio e le poche luci del posto sono la parte migliore."
+      },
+      {
+        nome: "Nusfjord",
+        testo: "Uno dei villaggi di pescatori più antichi della Norvegia, protetto e conservato come museo vivente, con rorbuer rossi e un piccolo porto.",
+        come: "In auto da Nesland, 10 minuti; l'ingresso al villaggio può essere a pagamento.",
+        quando: "Mattina o sera, evitando i gruppi.",
+        tempo: "1 ora",
+        consiglio: "Passeggiata corta, ma da fare con tempo calmo."
+      },
+      {
+        nome: "Ramberg e le spiagge di Flakstadøya",
+        testo: "Ramberg ha una lunga spiaggia di sabbia chiara, e poco più avanti si trovano Skagsanden e Haukland, tra le più belle delle Lofoten. L'acqua è fredda ma il colore è caraibico.",
+        come: "In auto, 10-20 minuti da Nesland.",
+        quando: "Estate, con sole.",
+        tempo: "1-2 ore",
+        costo: "ingresso libero",
+        consiglio: "Al supermercato di Ramberg si vende solo birra, niente vino né superalcolici."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Barbecue nel rorbu",
+        testo: "Spesa al supermercato di Ramberg: salmone, verdure e contorni sono la cena più semplice."
+      }
+    ],
+    attenzioni: [
+      "Ramberg: il supermercato vende solo birra, per il vino bisogna andare al Vinmonopolet di Leknes.",
+      "Il rorbu è isolato: portare spesa sufficiente e torcia."
+    ],
     esperienzeSlugs: ['nesland-nusfjord'],
     tripSlugs: ['lofoten-estate-2025'],
     imageAlt: 'Rorbu rosse tradizionali con una montagna avvolta dalla nebbia sullo sfondo, Lofoten',
@@ -241,6 +608,47 @@ export const destinazioniNorvegia: Destinazione[] = [
     erroriDaEvitare: [],
     miaEsperienza:
       'Å mi ha colpito anche sotto la pioggia: il Museo dei Pescatori, con la visita guidata in inglese, racconta bene una parte di storia locale che altrove nel viaggio si vede solo di sfuggita.',
+    luoghi: [
+      {
+        nome: "Museo dei Pescatori (Norsk Fiskeværsmuseum)",
+        testo: "Il museo del villaggio di Å, con case, magazzini e un forno storico, raccontano la vita dei pescatori delle Lofoten. La visita guidata in inglese spiega bene la storia locale.",
+        come: "Da Nesland circa 50 minuti d'auto; il museo si visita con guida o in autonomia.",
+        quando: "Mattina, con visita guidata.",
+        tempo: "1,5-2 ore",
+        url: "https://www.museumnord.no",
+        consiglio: "Con la pioggia, come quando ci sono stato, è comunque una buona visita al coperto."
+      },
+      {
+        nome: "Panificio storico di Å",
+        testo: "Una panetteria in funzione dal 1844, con cannella e dolci fatti sul posto; pochi posti a sedere ma ottimo.",
+        come: "A piedi nel villaggio.",
+        quando: "Mattina.",
+        tempo: "30 minuti",
+        consiglio: "Prendere una girella alla cannella: è la cosa tipica."
+      },
+      {
+        nome: "Sakrisøy e Anita's Seafood",
+        testo: "Sul percorso verso Å c'è Sakrisøy, villaggio di casette gialle, e Anita's Seafood, dove si mangiano zuppe, panini e sushi. Si ordina al bancone, senza servizio al tavolo.",
+        come: "In auto, lungo la strada verso Å.",
+        quando: "Pranzo.",
+        tempo: "1 ora",
+        consiglio: "Vista sul fiordo dal tavolo esterno."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Cinnamon rolls dal panificio",
+        testo: "Girelle fresche del panificio storico."
+      },
+      {
+        nome: "Zuppa di pesce da Anita's",
+        testo: "Zuppa e panini con vista sul fiordo."
+      }
+    ],
+    attenzioni: [
+      "Å è la fine della strada E10: non c'è altro oltre, parcheggiare con calma.",
+      "Il tempo cambia in fretta: portare impermeabile."
+    ],
     esperienzeSlugs: ['museo-dei-pescatori'],
     tripSlugs: ['lofoten-estate-2025'],
     imageAlt: 'Rastrelliere tradizionali per l\'essiccazione dello stoccafisso al tramonto, con montagne innevate sullo sfondo, Lofoten',
@@ -284,6 +692,126 @@ export const destinazioniNorvegia: Destinazione[] = [
     ],
     miaEsperienza:
       'Di questo viaggio mi sono rimasti dei flash più che un diario dettagliato: il freddo pungente appena scesi dall\'aereo, il buio della notte polare, e l\'aurora vista muoversi nel cielo per la prima volta durante l\'aurora chase in minibus. Le attività fatte, però, le ricordo bene, e qui sotto trovi tutto quello che serve per organizzarle allo stesso modo, o meglio.',
+    luoghi: [
+      {
+        nome: "Cattedrale Artica (Ishavskatedralen)",
+        testo: "Chiesa del 1965 a forma di iceberg, sul lato opposto del ponte rispetto al centro. La vetrata a mosaico che ricopre la facciata est è tra le più grandi d'Europa.",
+        come: "A piedi attraverso il ponte (circa 25 minuti) o con bus 24 dal centro.",
+        quando: "Mattina o pomeriggio; la sera si tengono concerti.",
+        tempo: "45 minuti",
+        url: "https://ishavskatedralen.no",
+        consiglio: "Se c'è un concerto di mezzanotte in estate, meglio prenotare."
+      },
+      {
+        nome: "Fjellheisen e Storsteinen",
+        testo: "La funivia che sale in pochi minuti sopra la città; in cima c'è un belvedere sui fiordi e sulle isole. D'inverno è un posto per vedere l'aurora senza spostarsi.",
+        come: "Dal centro con il bus 28 o con una passeggiata di 15 minuti; la cabina parte circa ogni 30 minuti.",
+        quando: "Sera in inverno per le luci della città, giorno in estate.",
+        tempo: "1-2 ore",
+        url: "https://www.fjellheisen.no",
+        consiglio: "Salita rapida, ma vestirsi caldo in cima."
+      },
+      {
+        nome: "Polaria",
+        testo: "Il centro artico con acquari di specie del Mare del Nord, vasche con foche e un cinema panoramico sul clima polare.",
+        come: "A piedi dal centro, accanto al porto.",
+        quando: "Giorno, in particolare se piove.",
+        tempo: "1,5 ore",
+        url: "https://polaria.no",
+        consiglio: "Orari delle alimentazioni delle foche sul sito."
+      },
+      {
+        nome: "Polar Museum",
+        testo: "Museo ospitato in un edificio storico del porto, sulla storia delle spedizioni polari norvegesi di Amundsen e dei cacciatori di foche artici.",
+        come: "A piedi dal centro.",
+        quando: "Giorno.",
+        tempo: "1 ora",
+        url: "https://uit.no/tmu/polarmuseet",
+        consiglio: "Più interessante di quanto sembri, per chi ama la storia delle esplorazioni."
+      },
+      {
+        nome: "Mack's Ølhallen",
+        testo: "Il pub storico della birreria Mack, la più settentrionale del mondo, con birra alla spina. Un posto da locali, senza pretese.",
+        come: "A piedi dal centro, in Storgata.",
+        quando: "Sera.",
+        tempo: "1 ora",
+        consiglio: "Provare una birra locale: si ordina al bancone."
+      },
+      {
+        nome: "Caccia all'aurora in minibus",
+        testo: "Un'uscita serale con guida fuori città, lontano dalle luci, per cercare l'aurora in cielo sereno. Il tour più frequente dura 5-6 ore.",
+        come: "Prenotato con operatore, partenza dal centro in minibus.",
+        quando: "Da fine settembre a fine marzo, notte con poche nuvole.",
+        tempo: "5-6 ore",
+        consiglio: "È stata la prima volta che ho visto l'aurora muoversi nel cielo."
+      },
+      {
+        nome: "Husky e renne sami",
+        testo: "A Tromsø Villmarkssenter si può guidare una slitta di husky; altre aziende organizzano visite a un campo sami con le renne e racconti della cultura locale.",
+        come: "Prenotazione con operatore; trasferimento in minibus.",
+        quando: "Inverno, con la neve.",
+        tempo: "mezza giornata",
+        consiglio: "Vestirsi a strati: ci si ferma spesso."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Cattedrale Artica",
+          "Fjellheisen",
+          "Polaria o Polar Museum",
+          "Cena in centro"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1 come sopra",
+          "Giorno 2: husky sledding o renne",
+          "Sera: caccia all'aurora in minibus"
+        ]
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: whale watching a Skjervøy (non fatto) o relax in centro",
+          "Ultima sera: Mack's Ølhallen"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Centro (Storgata e porto)",
+        perChi: "Chi non ha l'auto",
+        testo: "A pochi passi da negozi, bar e dal punto di ritrovo delle escursioni. Doppie in alta stagione da 140-170 euro a notte."
+      },
+      {
+        nome: "Tromsdalen",
+        perChi: "Chi vuole un po' di tranquillità",
+        testo: "Dall'altra parte del ponte, vicino alla Cattedrale Artica e alla funivia; si va in centro in bus."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Granchio reale (kongekrabbe)",
+        testo: "Dalla zona di Storgata si mangiano gambe di granchio reale, ricco e dolce."
+      },
+      {
+        nome: "Stoccafisso (tørrfisk)",
+        testo: "Merluzzo essiccato, cucina tipica del nord."
+      },
+      {
+        nome: "Renna",
+        testo: "Servita in stufato o in padella, tipica della cucina sami."
+      }
+    ],
+    attenzioni: [
+      "Aurora: non è garantita, serve cielo sereno e attività solare; prevedere più sere.",
+      "Il freddo pungente e le giornate di notte polare richiedono strati termici veri.",
+      "Prezzi alti: confrontare i tour prima di prenotare."
+    ],
     esperienzeSlugs: ['aurora-chase-minibus-tromso', 'husky-sledding-tromso', 'sami-renne-lavvu-tromso', 'whale-watching-tromso', 'glass-igloo-lyngen'],
     tripSlugs: ['tromso'],
     imageAlt: 'Cattedrale Artica di Tromsø illuminata di sera con aurora boreale sullo sfondo',

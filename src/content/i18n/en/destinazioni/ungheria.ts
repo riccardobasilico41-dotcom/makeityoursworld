@@ -45,6 +45,147 @@ export const destinazioniUngheria: Destinazione[] = [
       "Underestimating the baths as a relaxing one-hour break: between entry, changing room and locker queues, less than two and a half to three hours is not enough to enjoy them",
       'Planning the weekend without booking the Parliament tour in advance, which has limited entries and often sells out days ahead in high season',
     ],
+    luoghi: [
+      {
+        nome: "Buda Castle and Royal Palace",
+        testo: "Buda Hill above the Danube, with the Royal Palace, today home to museums (National Gallery, History Museum). You go up by the Sikló funicular or on foot.",
+        come: "Funicular from Clark Ádám tér or bus 16 from Széll Kálmán tér.",
+        quando: "Morning, to avoid the groups; the courtyards are free.",
+        tempo: "2-3 hours",
+        consiglio: "From the south side of the hill you get the best view of the Danube."
+      },
+      {
+        nome: "Fisherman's Bastion and Matthias Church",
+        testo: "The Bastion is a neo-Romanesque terrace of 1902 (never a real bastion) with seven turrets recalling the Magyar tribes. Next to it, Matthias Church has a roof of coloured tiles.",
+        come: "On foot from the Castle (5 minutes).",
+        quando: "Dawn or evening, for photos without crowds; lots of people in the middle of the day.",
+        tempo: "1-1.5 hours",
+        url: "https://www.fishermansbastion.com",
+        consiglio: "The lower terraces are free; only the upper part has a ticket."
+      },
+      {
+        nome: "Hungarian Parliament",
+        testo: "Completed in 1904, among the largest parliaments in the world, in neo-Gothic style on the Danube. The guided visit includes the Holy Crown of St Stephen.",
+        come: "Tram 2 or metro M2 to Kossuth Lajos tér. Tickets are booked online for a time.",
+        quando: "Morning; bring ID.",
+        tempo: "1 hour",
+        url: "https://www.parlament.hu",
+        consiglio: "Book days ahead, especially in high season."
+      },
+      {
+        nome: "Chain Bridge and riverfront",
+        testo: "The first permanent bridge between Buda and Pest, opened in 1849, lit up at night. On the Pest bank are the Shoes on the Danube, a memorial to Jewish victims of 1944-45.",
+        come: "On foot from the centre; tram 2 along the bank.",
+        quando: "Evening, when the bridge and Parliament are lit.",
+        tempo: "1 hour",
+        costo: "free entry",
+        consiglio: "Walk along the Danube from Pest at sunset."
+      },
+      {
+        nome: "Széchenyi Baths",
+        testo: "The largest thermal complex in Europe, with 18 pools and water between 27 and 38 degrees, in a yellow neo-baroque building in Városliget. Locals and tourists mix.",
+        come: "Metro M1 to Széchenyi fürdő.",
+        quando: "Weekday morning; summer evenings have parties.",
+        tempo: "3-4 hours",
+        url: "https://www.szechenyibath.hu",
+        consiglio: "Bring flip-flops and a towel, or rent them; cabins are booked at the entrance."
+      },
+      {
+        nome: "Great Market Hall",
+        testo: "An early-twentieth-century market with paprika, salamis, strudel and lángos upstairs. Closed on Sunday.",
+        come: "Tram 47/49 to Fővám tér.",
+        quando: "Weekday morning; closed on Sunday.",
+        tempo: "1-1.5 hours",
+        url: "https://www.csarnok.hu",
+        consiglio: "Pay in forints, the exchange counters here are expensive."
+      },
+      {
+        nome: "Dohány Street Synagogue",
+        testo: "The largest synagogue in Europe, in Moorish style, with the memorial garden and the Tree of Life sculpture. It is part of the Jewish quarter.",
+        come: "Metro M2 to Astoria or tram 47/49.",
+        quando: "Closed on Saturday and holidays; weekday morning.",
+        tempo: "1.5 hours",
+        consiglio: "Combined ticket for synagogue and museum."
+      },
+      {
+        nome: "Jewish quarter and ruin bars",
+        testo: "The VII district is the heart of the evening scene, with bars born in abandoned buildings, like Szimpla Kert. By day it is a quiet district with cafes.",
+        come: "On foot from the centre.",
+        quando: "Evening.",
+        tempo: "2-3 hours",
+        consiglio: "Szimpla Kert on Sundays also has a farmers' market."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 day",
+        tappe: [
+          "Morning: Buda Castle",
+          "Fisherman's Bastion",
+          "Lunch with lángos",
+          "Afternoon: Chain Bridge",
+          "Evening: lit-up Parliament"
+        ]
+      },
+      {
+        titolo: "2 days",
+        tappe: [
+          "Day 1 as above",
+          "Day 2: Széchenyi in the morning",
+          "Great Market Hall",
+          "Synagogue and Jewish quarter, ruin bars"
+        ]
+      },
+      {
+        titolo: "3 days",
+        tappe: [
+          "Days 1-2 as above",
+          "Day 3: Margaret Island, Gellért Hill, House of Terror"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Pest (V and VI district)",
+        perChi: "Those who want to be a step from everything",
+        testo: "Near Váci utca and the Basilica; higher prices and evening noise."
+      },
+      {
+        nome: "Jewish quarter (VII)",
+        perChi: "Those seeking nightlife",
+        testo: "Full of bars, noisy at weekends."
+      },
+      {
+        nome: "Buda (I and II district)",
+        perChi: "Those who prefer quiet",
+        testo: "Near the Castle, quiet streets; fewer cheap restaurants."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Gulyás",
+        testo: "Beef and paprika soup, in traditional restaurants."
+      },
+      {
+        nome: "Lángos",
+        testo: "Fried flatbread with sour cream and cheese, typical of the Market."
+      },
+      {
+        nome: "Kürtőskalács",
+        testo: "Spiral cake cooked over embers, with sugar and cinnamon."
+      },
+      {
+        nome: "Dobos torta",
+        testo: "Layer cake with chocolate cream and caramel."
+      }
+    ],
+    attenzioni: [
+      "Taxis: use Bolt or Főtaxi, avoid those without a meter near stations.",
+      "Bars with a 'consumption' charge in central Pest: venues that inflate the bill; better to choose bars with a displayed menu.",
+      "Exchange: use bank ATMs and refuse to be charged in euros.",
+      "Public transport: tickets to be validated or with the BudapestGO app; inspectors fine tourists.",
+      "Service (12-15%) is often already included: check the bill."
+    ],
     esperienzeSlugs: ['terme-szechenyi', 'terme-gellert', 'crociera-danubio', 'ruin-bar-tour'],
     tripSlugs: ['budapest-weekend'],
     imageAlt: "The white conical towers of the Fisherman's Bastion on Buda Hill, under a blue sky",

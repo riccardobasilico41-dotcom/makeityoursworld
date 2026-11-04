@@ -53,6 +53,143 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       'Fotografare le vetrine o le persone che lavorano nel Quartiere a Luci Rosse: è vietato in gran parte dell\'area e culturalmente molto mal visto',
       'Sottovalutare le code al Rijksmuseum e al Van Gogh Museum in alta stagione: conviene prenotare online in anticipo i biglietti con fascia oraria',
     ],
+    luoghi: [
+      {
+        nome: "Rijksmuseum",
+        testo: "Il museo nazionale olandese, con la Ronda di notte di Rembrandt, i Vermeer e le navi in miniatura. L'edificio ha un giardino gratuito con sculture e una piazza dove si fanno le foto.",
+        come: "Tram 2 o 12 fino al Rijksmuseum, 10 minuti dal centro. Biglietto online con orario.",
+        quando: "Mattina presto o pomeriggio tardi, per evitare la ressa davanti alla Ronda di notte.",
+        tempo: "3 ore",
+        url: "https://www.rijksmuseum.nl",
+        consiglio: "Cominciare dal piano degli Anni d'oro: in un'ora si vedono le sale più importanti."
+      },
+      {
+        nome: "Museo Van Gogh",
+        testo: "La più grande collezione di Van Gogh: dipinti, disegni e lettere in ordine cronologico, dai Mangiatori di patate ai Girasoli. Si capisce l'evoluzione dell'artista.",
+        come: "Tram 2 o 5 fino a Van Baerlestraat; biglietti a orario.",
+        quando: "Mattina presto, con biglietto già acquistato.",
+        tempo: "2 ore",
+        url: "https://www.vangoghmuseum.nl",
+        consiglio: "Prenotare con anticipo, soprattutto nei weekend: le fasce si esauriscono."
+      },
+      {
+        nome: "Casa di Anne Frank",
+        testo: "L'alloggio segreto dove Anne Frank e la famiglia si nascosero dal 1942 al 1944, sopra la ditta del padre. Il percorso è stretto e silenzioso; non è permesso fotografare.",
+        come: "I biglietti si vendono solo online sul sito ufficiale, con settimane di anticipo; non si compra all'ingresso.",
+        quando: "Prenotare appena si decidono le date; a Prinsengracht, 15 minuti dal centro.",
+        tempo: "1-1,5 ore",
+        url: "https://www.annefrank.org",
+        consiglio: "Diffidare dei rivenditori: il sito ufficiale è l'unico affidabile."
+      },
+      {
+        nome: "Canali del Seicento",
+        testo: "L'anello dei canali (Grachtengordel) è patrimonio UNESCO dal 2010, con case a timpano, ponti e barche. I tratti più belli sono Prinsengracht, Keizersgracht e Herengracht.",
+        come: "A piedi, con battello o con noleggio di barca; meglio a piedi.",
+        quando: "Sera, con le luci sull'acqua.",
+        tempo: "2-3 ore",
+        consiglio: "Tour in battello al tramonto per vedere le case illuminate."
+      },
+      {
+        nome: "Jordaan e Begijnhof",
+        testo: "Il Jordaan è un quartiere di strade strette, caffè e negozi d'artigianato. Il Begijnhof è un cortile segreto con case del Medioevo e un giardino aperto al pubblico.",
+        come: "A piedi dal centro (10-15 minuti).",
+        quando: "Mattina, con luce soffusa e meno gente.",
+        tempo: "2 ore",
+        costo: "Begijnhof: ingresso libero",
+        consiglio: "Il Begijnhof è un luogo di vita: parlare piano e non fotografare le porte."
+      },
+      {
+        nome: "Vondelpark",
+        testo: "Il parco più grande della città, con laghetti, prati e chioschi; d'estate ci sono concerti all'aperto. Un buon posto per fare una pausa dopo i musei.",
+        come: "Accanto al museo Van Gogh, a pochi minuti a piedi.",
+        quando: "Pomeriggio d'estate.",
+        tempo: "1-2 ore",
+        costo: "ingresso libero",
+        consiglio: "Noleggiare una bici per girare il parco."
+      },
+      {
+        nome: "Mercato Albert Cuyp",
+        testo: "Il più grande mercato di strada all'aperto della città: frutta, formaggi, stroopwafel caldi e gadget. Ideale per spuntini economici.",
+        come: "Tram 3 o 24 fino a Albert Cuypstraat, a De Pijp.",
+        quando: "Dal lunedì al sabato, mattina.",
+        tempo: "1 ora",
+        consiglio: "Provare stroopwafel caldi e aringhe con cipolle."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Mattina: Rijksmuseum",
+          "Pranzo da Albert Cuyp",
+          "Canali al pomeriggio",
+          "Sera: Jordaan"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1 come sopra",
+          "Giorno 2: Casa di Anne Frank prenotata",
+          "Van Gogh Museum",
+          "Vondelpark e cena"
+        ]
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: gita a Keukenhof (primavera) o Zaanse Schans"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Centro storico (Centrum)",
+        perChi: "Chi vuole fare tutto a piedi",
+        testo: "Canali e musei vicini, ma prezzi altissimi e rumore, soprattutto verso De Wallen."
+      },
+      {
+        nome: "Jordaan e Canal Ring",
+        perChi: "Chi cerca atmosfera e strade tranquille",
+        testo: "Zone belle e più calme, ma care."
+      },
+      {
+        nome: "De Pijp",
+        perChi: "Chi vuole bar, ristoranti e vita locale",
+        testo: "Quartiere vivace vicino a Albert Cuyp; meno turistico, prezzi un po' più bassi."
+      },
+      {
+        nome: "Amsterdam Oost e Noord",
+        perChi: "Chi cerca di risparmiare",
+        testo: "Fuori dal centro, in tram o traghetto gratuito per Noord."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Stroopwafel",
+        testo: "Cialda con sciroppo di caramello, da mangiare calda ai mercati."
+      },
+      {
+        nome: "Haring",
+        testo: "Aringa cruda con cipolla e sottaceti, dai chioschi (haringhandel)."
+      },
+      {
+        nome: "Bitterballen",
+        testo: "Crocchette di ragù fritte, con senape, tipiche dei pub."
+      },
+      {
+        nome: "Poffertjes e pannenkoeken",
+        testo: "Mini frittelle e crêpe olandesi, nei ristoranti di pancake."
+      }
+    ],
+    attenzioni: [
+      "Biciclette: sono il pericolo maggiore per i pedoni; non camminare sulle piste ciclabili rosse.",
+      "Borseggiatori a Centraal Station, in Dam e sui tram affollati.",
+      "Biglietti falsi o rivenditori non ufficiali per Anne Frank e musei: comprare solo dal sito ufficiale.",
+      "A De Wallen è vietato fotografare le lavoratrici; in alcune zone è vietato fumare cannabis per strada.",
+      "I taxi non sempre sono economici: meglio tram o piedi."
+    ],
     esperienzeSlugs: ['amsterdam-in-bicicletta', 'crociera-sui-canali-amsterdam', 'casa-di-anna-frank'],
     tripSlugs: ['amsterdam-weekend'],
     imageAlt: 'Un vecchio ponte ad arco in mattoni sul canale Reguliersgracht ad Amsterdam, con le case a schiera e gli alberi spogli lungo le rive',

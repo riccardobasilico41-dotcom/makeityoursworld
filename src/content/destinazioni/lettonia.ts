@@ -53,6 +53,132 @@ export const destinazioniLettonia: Destinazione[] = [
       'Programmare Jūrmala senza guardare il meteo: è una gita al mare e ha senso soprattutto da giugno ad agosto',
       'Pensare che il russo non serva: lo parla ancora la consistente minoranza russofona della città, e in certe situazioni quotidiane fuori dal centro turistico è più utile dell\'inglese',
     ],
+    luoghi: [
+      {
+        nome: "Cattedrale di Riga e Piazza del Duomo",
+        testo: "La cattedrale luterana più grande dei Paesi baltici, fondata nel 1211, con uno storico organo. La piazza è circondata da caffè.",
+        come: "A piedi dalla Città Vecchia.",
+        quando: "Mattina; la sera ci sono spesso concerti d'organo.",
+        tempo: "1 ora",
+        url: "https://doms.lv",
+        consiglio: "Chiedere gli orari dei concerti d'organo."
+      },
+      {
+        nome: "Chiesa di San Pietro",
+        testo: "Chiesa gotica la cui guglia ha una piattaforma panoramica a 72 metri, la vista più alta sulla Città Vecchia e sulla Daugava. Si sale con l'ascensore.",
+        come: "A piedi, vicino alla Piazza del Municipio.",
+        quando: "Giorno sereno.",
+        tempo: "45 minuti",
+        costo: "9 euro per la piattaforma (dato del sito, da ricontrollare)",
+        consiglio: "Meglio salire al mattino, quando la luce è chiara."
+      },
+      {
+        nome: "Casa delle Teste Nere",
+        testo: "Facciata rinascimentale fiamminga, distrutta nella Seconda guerra mondiale e ricostruita. Apparteneva alla confraternita dei mercanti celibi.",
+        come: "Sulla Piazza del Municipio.",
+        quando: "Mattina, per le foto.",
+        tempo: "30 minuti",
+        url: "https://www.melngalvjunams.lv",
+        consiglio: "La piazza del municipio è il punto più bello per le foto."
+      },
+      {
+        nome: "Le Tre Sorelle",
+        testo: "Tre case in fila su via Mazā Pils, tra gli edifici in pietra più antichi della città, di epoche diverse, dal Quattrocento al tardo Seicento.",
+        come: "A piedi dalla Città Vecchia.",
+        quando: "Giorno.",
+        tempo: "15 minuti",
+        costo: "ingresso libero",
+        consiglio: "Dentro c'è il Museo dell'Architettura."
+      },
+      {
+        nome: "Quartiere Art Nouveau",
+        testo: "Alberta iela, Elizabetes iela e Strēlnieku iela, con centinaia di facciate decorate con maschere, volti e motivi floreali, molte opera dell'architetto Mikhail Eisenstein.",
+        come: "A piedi o in tram dal centro (15 minuti).",
+        quando: "Mattina, con luce piena sulle facciate.",
+        tempo: "1-2 ore",
+        costo: "ingresso libero",
+        consiglio: "Alzare lo sguardo: i dettagli sono sopra il primo piano."
+      },
+      {
+        nome: "Mercato Centrale",
+        testo: "Cinque padiglioni ricavati dagli hangar dei dirigibili tedeschi della Prima guerra mondiale, aperti nel 1930. Uno dei più grandi mercati coperti d'Europa.",
+        come: "A piedi dalla stazione ferroviaria.",
+        quando: "Mattina.",
+        tempo: "1-2 ore",
+        consiglio: "Assaggiare il pesce affumicato nel padiglione del pesce."
+      },
+      {
+        nome: "Monumento alla Libertà e Museo dell'Occupazione",
+        testo: "Il monumento del 1935 è il simbolo dell'indipendenza lettone, con una guardia d'onore. Il Museo dell'Occupazione, in Piazza del Municipio, racconta la storia sovietica e nazista.",
+        come: "A piedi dalla Città Vecchia (10 minuti).",
+        quando: "Mattina.",
+        tempo: "1,5 ore",
+        url: "https://okupacijasmuzejs.lv",
+        consiglio: "Controllare orari e condizioni d'ingresso del Museo dell'Occupazione sul sito."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Mattina: Duomo e San Pietro",
+          "Casa delle Teste Nere",
+          "Pranzo al Mercato Centrale",
+          "Pomeriggio: Art Nouveau",
+          "Sera: Città Vecchia"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1 come sopra",
+          "Giorno 2: Museo dell'Occupazione",
+          "Monumento alla Libertà",
+          "Gita a Jūrmala (vedi scheda)"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Città Vecchia (Vecrīga)",
+        perChi: "Chi vuole stare a due passi dalle attrazioni",
+        testo: "Vicino a tutto, ma rumoroso la sera; molti bar."
+      },
+      {
+        nome: "Centro Art Nouveau",
+        perChi: "Chi cerca atmosfera e ristoranti",
+        testo: "Tranquillo, con edifici belli; a 10 minuti dalla Città Vecchia."
+      },
+      {
+        nome: "Āgenskalns",
+        perChi: "Chi preferisce un quartiere locale",
+        testo: "Oltre il fiume, più economico; collegato con il tram."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Rupjmaize",
+        testo: "Pane di segale scuro e dolce, base della cucina lettone."
+      },
+      {
+        nome: "Pelēkie zirņi ar speķi",
+        testo: "Piselli grigi con pancetta, piatto tradizionale."
+      },
+      {
+        nome: "Rīgas Melnais balzams",
+        testo: "Liquore di erbe nero, da provare nei bar della Città Vecchia."
+      },
+      {
+        nome: "Pesce affumicato",
+        testo: "Ottimo al Mercato Centrale: salmone, anguilla, sprat."
+      }
+    ],
+    attenzioni: [
+      "Locali di notte in Città Vecchia: alcuni gonfiano il conto, controllare il menu prima di ordinare.",
+      "Taxi: usare Bolt o Eco Taxi, non quelli parcheggiati vicino alla stazione.",
+      "Borseggiatori in Città Vecchia e al Mercato Centrale.",
+      "D'inverno marciapiedi ghiacciati: scarpe adatte."
+    ],
     esperienzeSlugs: ['riga-art-nouveau-passeggiata', 'riga-mercato-centrale-tour'],
     tripSlugs: ['capitali-baltiche'],
     imageAlt: 'Lo skyline della Città Vecchia di Riga visto dalla Daugava, con le guglie di San Pietro e della Cattedrale sopra il lungofiume',
@@ -91,6 +217,59 @@ export const destinazioniLettonia: Destinazione[] = [
       'Andarci fuori stagione aspettandosi la vita balneare dell\'estate: da ottobre a maggio la spiaggia è quasi deserta e molti locali chiudono',
       'Restare solo in spiaggia senza girare per le vie residenziali: sono le ville di legno decorate a rendere Jūrmala diversa da "un\'altra spiaggia"',
       'Sottovalutare l\'acqua bassa e fresca del Golfo di Riga, molto diversa da un bagno nel Mediterraneo',
+    ],
+    luoghi: [
+      {
+        nome: "Spiaggia di Jūrmala",
+        testo: "Una spiaggia di sabbia bianca continua per circa 32 km, tra le più larghe e pulite del Baltico, sulla costa del Golfo di Riga.",
+        come: "Treno da Riga a Majori (circa 30 minuti).",
+        quando: "Estate, quando fa caldo; d'inverno è deserta e suggestiva.",
+        tempo: "mezza giornata",
+        costo: "ingresso libero",
+        consiglio: "Il treno è più comodo dell'auto: in estate si paga un pedaggio per entrare con il veicolo."
+      },
+      {
+        nome: "Jomas iela",
+        testo: "La via pedonale di Majori, il centro della cittadina, con negozi, caffè e gelaterie. D'estate è molto animata.",
+        come: "A piedi dalla stazione di Majori (5 minuti).",
+        quando: "Pomeriggio e sera d'estate.",
+        tempo: "1-2 ore",
+        costo: "ingresso libero",
+        consiglio: "Scegliere un caffè nelle strade laterali per prezzi migliori."
+      },
+      {
+        nome: "Ville di legno Art Nouveau",
+        testo: "Nelle vie residenziali di Majori e Dzintari, ville di legno con intagli e verande vetrate, esempi di architettura in legno dell'inizio Novecento.",
+        come: "A piedi, dietro Jomas iela.",
+        quando: "Giorno, con buona luce.",
+        tempo: "1 ora",
+        costo: "ingresso libero",
+        consiglio: "Si guarda da fuori: sono residenze private."
+      },
+      {
+        nome: "Sala da concerti Dzintari",
+        testo: "La sala all'aperto tra i pini, sede storica di festival e concerti estivi, con la musica classica e pop.",
+        come: "Treno fino a Dzintari.",
+        quando: "Estate, la sera.",
+        tempo: "2 ore",
+        url: "https://www.dzintarukoncertzale.lv",
+        consiglio: "Controllare il programma per i concerti in cartellone."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Pesce alla griglia",
+        testo: "Salmone e spratto serviti nei chioschi sulla spiaggia."
+      },
+      {
+        nome: "Gelato",
+        testo: "Chioschi sul lungomare, in estate, anche a basso costo."
+      }
+    ],
+    attenzioni: [
+      "Per entrare a Jūrmala in auto in estate si paga una tassa: la gita in treno è più semplice.",
+      "La spiaggia ha il vento: portare una felpa anche d'estate.",
+      "Nei weekend estivi i ristoranti sono pieni: prenotare."
     ],
     esperienzeSlugs: ['jurmala-spiaggia-ville-liberty'],
     tripSlugs: ['capitali-baltiche'],

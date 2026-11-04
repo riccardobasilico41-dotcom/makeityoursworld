@@ -43,6 +43,139 @@ export const destinazioniPolonia: Destinazione[] = [
       "Underestimating the line to climb the tower of St. Mary's Basilica or to enter Wawel Cathedral in high season: it's best to arrive early",
       'Scheduling Auschwitz-Birkenau like any other stop squeezed between two museums: it is a day that has to be set apart and approached with the right frame of mind',
     ],
+    luoghi: [
+      {
+        nome: "Rynek Główny and the Cloth Hall",
+        testo: "The medieval market square, one of the largest in Europe, with the Cloth Hall (Sukiennice) at the centre and the town hall tower. Around it stand St Mary's Basilica and cafes with outdoor tables.",
+        come: "From the central station on foot, 10 minutes.",
+        quando: "Early morning or evening, when the lights come on; crowded by day.",
+        tempo: "1-2 hours",
+        costo: "free entry",
+        consiglio: "The underground museum beneath the square tells the story of the old city."
+      },
+      {
+        nome: "St Mary's Basilica",
+        testo: "A Gothic church with the large wooden altarpiece by Veit Stoss and two unequal towers. From the taller one, every hour, plays the Hejnał mariacki, the trumpet melody that breaks off suddenly.",
+        come: "On the square; the interior ticket is bought at the side.",
+        quando: "Morning; for the Hejnał stand on the square on the hour.",
+        tempo: "45 minutes",
+        url: "https://www.mariacki.com",
+        consiglio: "The altarpiece is seen open only at the hours given on the site."
+      },
+      {
+        nome: "Wawel Hill",
+        testo: "The hill above the Vistula with the Royal Castle, the Cathedral where Polish kings were crowned and buried, the Sigismund Bell and the Dragon's Den. The ticket is split among the different routes.",
+        come: "On foot from the centre (15 minutes). Tickets are bought in the courtyard or on the site.",
+        quando: "Early morning; many routes sell out on busy days.",
+        tempo: "3 hours",
+        url: "https://wawel.krakow.pl",
+        consiglio: "Book routes online: those without booking are few."
+      },
+      {
+        nome: "Kazimierz",
+        testo: "The former autonomous Jewish town founded in 1335, with the Old Synagogue (the oldest in Poland), the Remuh synagogue and the cemetery. Today it is also the district of cafes, galleries and venues.",
+        come: "On foot or by tram from Stare Miasto (10 minutes).",
+        quando: "Daytime for the synagogues; evening for the venues.",
+        tempo: "3 hours",
+        url: "https://www.jewishkrakow.net",
+        consiglio: "Plac Nowy is known for zapiekanki, the long sandwiches."
+      },
+      {
+        nome: "Schindler's Factory and Podgórze",
+        testo: "The museum in Oskar Schindler's former factory tells of Nazi-occupied Kraków. Nearby is Ghetto Heroes Square, with rows of empty metal chairs recalling the ghetto.",
+        come: "Tram 3/9/19/24 to Zabłocie or on foot from Kazimierz (15 minutes).",
+        quando: "Morning; timed tickets.",
+        tempo: "2-3 hours",
+        url: "https://muzeumkrakow.pl",
+        consiglio: "Book days ahead, especially in summer."
+      },
+      {
+        nome: "Wieliczka Salt Mine",
+        testo: "A thirteenth-century salt mine, a UNESCO site, 30 minutes from Kraków. The tourist route descends to 135 metres, with chapels carved in salt, underground lakes and the Chapel of St Kinga.",
+        come: "Train or bus from Kraków (30 minutes), then on foot to the entrance.",
+        quando: "All day; book online.",
+        tempo: "3-4 hours",
+        url: "https://www.wieliczka-saltmine.com",
+        consiglio: "Bring a jacket: underground it is 14 degrees all year."
+      },
+      {
+        nome: "Planty and Barbican",
+        testo: "The ring of parks on the line of the demolished walls, surrounding the old town, with the Barbican and St Florian's Gate as the last surviving stretch of the fortifications.",
+        come: "On foot, around the centre.",
+        quando: "Morning or evening, with soft light.",
+        tempo: "1 hour",
+        costo: "free entry",
+        consiglio: "A free walk to get your bearings."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 day",
+        tappe: [
+          "Morning: Rynek Główny and St Mary's",
+          "Wawel",
+          "Lunch in Kazimierz",
+          "Evening: Planty"
+        ]
+      },
+      {
+        titolo: "2 days",
+        tappe: [
+          "Day 1 as above",
+          "Day 2: Schindler's Factory and Podgórze",
+          "Afternoon in Kazimierz"
+        ]
+      },
+      {
+        titolo: "3 days",
+        tappe: [
+          "Days 1-2 as above",
+          "Day 3: Wieliczka Salt Mine or Auschwitz-Birkenau (see dedicated entry)"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Stare Miasto",
+        perChi: "Those who want to be near the sights",
+        testo: "The historic heart, close to everything; night noise near the venues."
+      },
+      {
+        nome: "Kazimierz",
+        perChi: "Those seeking atmosphere and evening life",
+        testo: "A district of cafes and venues, charming lodgings; livelier in the evening."
+      },
+      {
+        nome: "Podgórze",
+        perChi: "Those who want quiet and lower prices",
+        testo: "Across the Vistula, 15 minutes on foot from the centre."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Pierogi",
+        testo: "Dumplings filled with cheese and potato, meat, or cabbage and mushrooms."
+      },
+      {
+        nome: "Zapiekanka",
+        testo: "A half baguette gratinated with mushrooms and cheese, Plac Nowy street food."
+      },
+      {
+        nome: "Obwarzanek krakowski",
+        testo: "A braided bread ring, sold by street carts."
+      },
+      {
+        nome: "Żurek",
+        testo: "Sour rye soup with sausage and egg, served in a bread bowl."
+      }
+    ],
+    attenzioni: [
+      "Taxis: use Bolt or iTaxi and not those parked near the square.",
+      "Horse carriages: high and unclear fares, agree beforehand.",
+      "Exchange: use ATMs and refuse to pay in euros.",
+      "Wawel and Schindler sell out: book ahead.",
+      "Pickpockets in the crowded venues of Kazimierz and on trams."
+    ],
     esperienzeSlugs: ['wieliczka-miniera-di-sale', 'kazimierz-food-vodka-tour'],
     tripSlugs: ['cracovia-weekend'],
     imageAlt: "The Sukiennice lit up in the evening on Krakow's Market Square, with the Gothic tower of St. Mary's Basilica on the left",
@@ -84,6 +217,40 @@ export const destinazioniPolonia: Destinazione[] = [
       'Underestimating the time: a full visit to both sites takes at least 3-4 hours, plus round-trip transport from Krakow: you need a whole day, with no other stops',
       "Dressing or behaving as you would at any tourist attraction: the Museum's rules require respectful clothing and behavior, and some areas forbid photographs",
       'Bringing bulky luggage: there is a size limit for backpacks allowed inside, with paid storage for larger ones',
+    ],
+    luoghi: [
+      {
+        nome: "Auschwitz I (Museum)",
+        testo: "The first camp, with the 'Arbeit macht frei' sign at the entrance, the museum blocks with national exhibitions and the display cases of victims' personal belongings. It is the place of memory where you grasp the scale of the extermination.",
+        come: "From Kraków bus station, bus or shuttle to Oświęcim (about 1.5 hours); visit with the pass, on your own or with a guide.",
+        quando: "Early morning, when it is less crowded; booking is required.",
+        tempo: "3.5 hours for the guided route",
+        costo: "entry is free but requires a time-slot pass",
+        url: "https://www.auschwitz.org",
+        consiglio: "Large bags are not allowed: check the sizes on the website before leaving."
+      },
+      {
+        nome: "Auschwitz II-Birkenau",
+        testo: "The actual extermination camp, much larger, with the entrance railway, the selection ramp and the surviving wooden barracks. The international monument among the remains of the crematoria remembers the victims.",
+        come: "Free shuttle from Auschwitz I (about 3 km).",
+        quando: "After the visit to Auschwitz I.",
+        tempo: "1.5-2 hours",
+        url: "https://www.auschwitz.org",
+        consiglio: "A place to visit in silence, without selfies."
+      },
+      {
+        nome: "Booking and visiting rules",
+        testo: "The Museum runs a system of time-slot passes; guided visits are available in Italian. At some hours the guided tour is mandatory.",
+        come: "Tickets are bought only from the official website, weeks ahead in summer.",
+        quando: "Avoid weekends and holidays.",
+        url: "https://www.auschwitz.org",
+        consiglio: "Beware of resellers: the official site is the only reliable one."
+      }
+    ],
+    attenzioni: [
+      "Children under 14 are not recommended: the exhibitions are very hard.",
+      "Allow for the visit being emotionally heavy: plan the rest of the day calmly.",
+      "On site you cannot film or photograph in certain rooms: follow the signs."
     ],
     esperienzeSlugs: ['auschwitz-birkenau-visita-guidata'],
     tripSlugs: ['cracovia-weekend'],

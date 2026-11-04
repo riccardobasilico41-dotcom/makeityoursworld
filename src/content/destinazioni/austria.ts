@@ -51,6 +51,149 @@ export const destinazioniAustria: Destinazione[] = [
       'Abbassare la guardia sulla linea U3 della metropolitana nelle ore di punta: è la linea più segnalata per i borseggi in città',
       'Sottovalutare le dimensioni di Schönbrunn: il solo giro del palazzo e dei giardini principali richiede una buona mezza giornata',
     ],
+    luoghi: [
+      {
+        nome: "Palazzo di Schönbrunn",
+        testo: "La residenza estiva degli Asburgo, patrimonio UNESCO, con 1.441 stanze e giardini barocchi. Si visitano gli appartamenti di Francesco Giuseppe e di Sissi, con diversi tour.",
+        come: "Metro U4 fino a Schönbrunn (20 minuti dal centro). Biglietti online con orario.",
+        quando: "Mattina presto, per anticipare i gruppi; il parco è aperto più a lungo.",
+        tempo: "3-4 ore",
+        url: "https://www.schoenbrunn.at",
+        consiglio: "Il biglietto «Imperial Tour» è più breve del «Grand Tour»: scegliere in base al tempo."
+      },
+      {
+        nome: "Hofburg e Museo Sisi",
+        testo: "Il palazzo imperiale in centro, con appartamenti imperiali, la collezione delle argenterie e il museo dedicato a Sissi. Il complesso ospita anche la Scuola Spagnola di Equitazione.",
+        come: "Metro U3 fino a Herrengasse, poi a piedi (5 minuti).",
+        quando: "Mattina nei giorni feriali.",
+        tempo: "2 ore",
+        url: "https://www.hofburg-wien.at",
+        consiglio: "Combinare con una passeggiata nel Volksgarten lì accanto."
+      },
+      {
+        nome: "Cattedrale di Santo Stefano (Stephansdom)",
+        testo: "Il simbolo di Vienna, in stile gotico, con il tetto di tegole colorate e la torre sud di 137 metri. Si può salire sulla torre con circa 343 gradini.",
+        come: "Metro U1/U3 fino a Stephansplatz. Nel transetto l'ingresso è gratuito; torre e catacombe a pagamento.",
+        quando: "Mattina presto o sera, per la luce sul tetto.",
+        tempo: "1 ora",
+        url: "https://www.stephanskirche.at",
+        consiglio: "Se si ha poco tempo, salire sulla torre nord con ascensore."
+      },
+      {
+        nome: "Belvedere",
+        testo: "Due palazzi barocchi con il giardino all'italiana, sede della più grande collezione di Klimt, incluso «Il bacio». Il parco è bello anche da solo.",
+        come: "Tram D fino a Schloss Belvedere. Biglietti per il Belvedere superiore.",
+        quando: "Mattina presto, per vedere «Il bacio» senza folla.",
+        tempo: "2 ore",
+        url: "https://www.belvedere.at",
+        consiglio: "Prenotare online per saltare la fila."
+      },
+      {
+        nome: "Kunsthistorisches Museum",
+        testo: "Il grande museo d'arte degli Asburgo, con Bruegel, Raffaello, Tiziano e Vermeer. L'edificio stesso, con la cupola e la scalinata, è un'opera d'arte.",
+        come: "Metro U2 o U3 fino a Volkstheater, accanto al Naturhistorisches Museum.",
+        quando: "Mattina nei giorni feriali; verificare i giorni di chiusura sul sito.",
+        tempo: "2-3 ore",
+        url: "https://www.khm.at",
+        consiglio: "La sala Bruegel è la più famosa, ma da sola vale metà museo."
+      },
+      {
+        nome: "Opera di Stato (Staatsoper)",
+        testo: "Uno dei teatri lirici più importanti del mondo. Si può visitare con un tour guidato o assistere a uno spettacolo con i biglietti in piedi, molto economici.",
+        come: "Metro U1/U2/U4 fino a Karlsplatz. I biglietti in piedi si vendono poco prima dell'inizio.",
+        quando: "Sera; arrivare con anticipo per i biglietti in piedi.",
+        tempo: "3 ore",
+        url: "https://www.wiener-staatsoper.at",
+        consiglio: "Le sale con i posti in piedi hanno vista limitata ma acustica ottima."
+      },
+      {
+        nome: "Prater e Riesenrad",
+        testo: "Il grande parco con la ruota panoramica del 1897, celebre dal film «Il terzo uomo». Ci sono giostre storiche e il lungo viale alberato.",
+        come: "Metro U1 fino a Praterstern.",
+        quando: "Pomeriggio o sera, per la vista sulla città.",
+        tempo: "2 ore",
+        costo: "ingresso al parco libero",
+        url: "https://www.wienerriesenrad.com",
+        consiglio: "Salire sulla ruota al tramonto."
+      },
+      {
+        nome: "Naschmarkt",
+        testo: "Il mercato più famoso di Vienna: bancarelle di frutta, spezie, olive e ristoranti. Il sabato c'è anche il mercato delle pulci.",
+        come: "Metro U4 fino a Kettenbrückengasse.",
+        quando: "Dal lunedì al sabato; la domenica è chiuso.",
+        tempo: "1-2 ore",
+        consiglio: "Il sabato mattina è il momento più vivace."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Mattina: Stephansdom",
+          "Pranzo con Schnitzel",
+          "Hofburg e Museo Sisi",
+          "Sera: Naschmarkt o caffè"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1 come sopra",
+          "Giorno 2: Schönbrunn al mattino",
+          "Belvedere e Klimt",
+          "Sera: opera in piedi"
+        ]
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: Kunsthistorisches Museum, Prater e Riesenrad"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Innere Stadt (centro)",
+        perChi: "Chi vuole tutto a piedi",
+        testo: "Vicino a Stephansdom e Hofburg; prezzi alti, rumore di sera."
+      },
+      {
+        nome: "Neubau e Mariahilf",
+        perChi: "Chi cerca vita culturale e caffè",
+        testo: "Quartieri creativi vicini al MuseumsQuartier, buoni collegamenti."
+      },
+      {
+        nome: "Leopoldstadt",
+        perChi: "Chi vuole risparmiare e il Prater",
+        testo: "Quartiere multiculturale, vicino al Prater, con metro diretta."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Wiener Schnitzel",
+        testo: "Cotoletta di vitello impanata, la specialità viennese; si trova ovunque."
+      },
+      {
+        nome: "Sachertorte",
+        testo: "Torta al cioccolato con marmellata di albicocche, del Café Sacher e del Demel."
+      },
+      {
+        nome: "Apfelstrudel",
+        testo: "Strudel di mele, servito caldo con salsa alla vaniglia o panna."
+      },
+      {
+        nome: "Tafelspitz",
+        testo: "Lesso di manzo con rafano e mele, piatto tradizionale della cucina asburgica."
+      }
+    ],
+    attenzioni: [
+      "Falsi venditori di biglietti in costume da Mozart davanti ai teatri: comprare solo in biglietteria o sul sito.",
+      "I Fiaker (carrozze) sono cari: chiedere il prezzo prima.",
+      "Biglietti dei mezzi: convalidare quelli di carta, i controlli sono frequenti.",
+      "La domenica i negozi sono chiusi, supermercati compresi.",
+      "Nei caffè si lascia il 5-10% di mancia, non è inclusa."
+    ],
     esperienzeSlugs: ['vienna-schonbrunn-biglietto', 'vienna-opera-stehplatz', 'vienna-giro-caffe-storici'],
     tripSlugs: ['vienna-weekend'],
     imageAlt: 'Il tetto in tegole smaltate a zig-zag colorate della Cattedrale di Santo Stefano a Vienna, tra le guglie gotiche',

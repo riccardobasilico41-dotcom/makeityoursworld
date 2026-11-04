@@ -35,6 +35,53 @@ export const destinazioniIslanda: Destinazione[] = [
     erroriDaEvitare: ['L\'ultima corsa del bus 55 parte poco dopo le 23: da non perdere per rientrare in hotel'],
     miaEsperienza:
       'Keflavík è stata una tappa breve, ma è legata a uno dei ricordi più forti dell\'Islanda: durante il viaggio, sulla penisola di Reykjanes, a pochi minuti da qui, ho visto da vicino un vulcano in eruzione, andandoci in autonomia, senza tour. Il giorno esatto non me lo sono segnato.',
+    luoghi: [
+      {
+        nome: "Penisola di Reykjanes e area vulcanica",
+        testo: "La punta sud-ovest dell'isola, a pochi minuti dall'aeroporto: campi di lava, crateri e fumarole su una dorsale tra due placche tettoniche. Dal 2021 la zona ha avuto una serie di eruzioni, e i sentieri e le aree accessibili cambiano di volta in volta.",
+        come: "In auto da Keflavík. Prima di partire controllare lo stato dei sentieri e delle chiusure sui siti ufficiali; con un'eruzione in corso si va solo dove le autorità lo consentono.",
+        quando: "Con cielo sereno e vento calmo; d'estate la luce lunga permette di arrivare anche la sera.",
+        tempo: "mezza giornata",
+        url: "https://safetravel.is",
+        consiglio: "Ci sono andato in autonomia, senza tour: prima di partire guardare sempre gas, vento e chiusure."
+      },
+      {
+        nome: "Ponte tra i continenti (Midlina)",
+        testo: "Un piccolo ponte pedonale sulla faglia tra la placca nordamericana e quella eurasiatica, a Sandvík. È un attraversamento simbolico, comodo per una sosta di mezz'ora tra aeroporto e Reykjanes.",
+        come: "In auto, circa 15 minuti da Keflavík; parcheggio gratuito vicino al ponte.",
+        quando: "Qualsiasi ora; è all'aperto e sempre accessibile.",
+        tempo: "30 minuti",
+        costo: "ingresso libero",
+        consiglio: "Si abbina bene al faro di Reykjanesviti e alla zona geotermica di Gunnuhver."
+      },
+      {
+        nome: "Centro di Keflavík e lungomare",
+        testo: "Una cittadina portuale tranquilla, con il lungomare, la costa rocciosa e il museo del Rock'n'Roll d'Islanda. Per chi arriva la sera è il posto dove cenare senza spostarsi.",
+        come: "A piedi dal centro o con il bus 55 dall'aeroporto (circa 20 minuti).",
+        quando: "Al tramonto, in estate molto tardi.",
+        tempo: "1-2 ore",
+        consiglio: "Ultima corsa del bus 55 poco dopo le 23: tenerne conto per rientrare."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Pesce misto",
+        testo: "Merluzzo, eglefino e salmerino alla piastra o in zuppa sono la base dei locali del porto; a Kaffi Duus è quello che abbiamo mangiato."
+      },
+      {
+        nome: "Skyr",
+        testo: "Latticino denso simile allo yogurt, in vendita in ogni supermercato: colazione economica e proteica."
+      },
+      {
+        nome: "Hot dog islandese (pylsur)",
+        testo: "Salsiccia di agnello con cipolla cruda e fritta e salse; si trova nelle stazioni di servizio e nei chioschi, a poco prezzo."
+      }
+    ],
+    attenzioni: [
+      "Vulcano e gas: durante le eruzioni seguire solo le indicazioni ufficiali (safetravel.is, vedur.is) e non avvicinarsi alle colate.",
+      "Con il noleggio d'auto controllare le coperture per sabbia, cenere e ghiaia, spesso escluse dall'assicurazione base.",
+      "Fare il pieno prima di lasciare la zona di Reykjavík: nell'Est e nel Nord le pompe sono rare e spesso senza personale."
+    ],
     esperienzeSlugs: ['vulcano-reykjanes'],
     tripSlugs: ['islanda-2024'],
     imageAlt: 'Colata di lava incandescente durante un\'eruzione notturna sulla penisola di Reykjanes, vicino Keflavík',
@@ -70,6 +117,81 @@ export const destinazioniIslanda: Destinazione[] = [
     ],
     miaEsperienza:
       'A fine luglio a mezzanotte c\'era ancora luce, così dopo cena ho deciso all\'ultimo di non andare a dormire e di raggiungere il relitto a piedi. Dopo una giornata già piena è stata una sfacchinata, ma è probabilmente il momento più assurdo del viaggio, e quello che ricordo meglio.',
+    luoghi: [
+      {
+        nome: "Þingvellir",
+        testo: "Parco nazionale e sito UNESCO nella spaccatura tra due placche tettoniche, dove nel 930 si riunì il primo parlamento islandese. Si cammina tra pareti di basalto e il lago, con la faglia Almannagjá come passaggio.",
+        come: "In auto da Reykjavík (circa 45-50 minuti) o da Keflavík. Sentieri segnati dal centro visitatori, senza guida necessaria.",
+        quando: "Mattina presto o sera, per evitare i pullman; d'estate aperto a tutte le ore.",
+        tempo: "1-2 ore",
+        url: "https://www.thingvellir.is",
+        consiglio: "Parcheggio e centro visitatori sono a pagamento: controllare le tariffe aggiornate sul sito ufficiale."
+      },
+      {
+        nome: "Geysir e Strokkur",
+        testo: "Zona geotermica sul Golden Circle. Il Geysir storico è quasi inattivo, ma lo Strokkur erutta a getti alti 15-20 metri ogni pochi minuti.",
+        come: "Sosta dalla strada, ingresso libero al campo geotermico; i sentieri sono corti.",
+        quando: "Con il vento che porta il vapore lontano dal pubblico; sempre aperto.",
+        tempo: "45 minuti",
+        costo: "ingresso libero",
+        consiglio: "Stare sopravvento e a distanza dalle pozze: l'acqua è a quasi 100 gradi."
+      },
+      {
+        nome: "Gullfoss",
+        testo: "La «cascata dorata»: due salti (circa 11 e 21 metri) in una gola stretta del fiume Hvítá. Una passerella porta fino al bordo, nel vapore.",
+        come: "Parcheggio vicino; due livelli di sentieri, quello basso porta al bordo e spesso è chiuso in inverno per il ghiaccio.",
+        quando: "Prima mattina o sera, con la luce radente.",
+        tempo: "45 minuti",
+        costo: "ingresso libero",
+        consiglio: "Impermeabile addosso: lo spruzzo arriva fino ai percorsi."
+      },
+      {
+        nome: "Seljalandsfoss e Gljúfrabúi",
+        testo: "Seljalandsfoss cade per 60 metri e si può aggirare con un sentiero scivoloso che passa dietro il getto. A 500 metri, nascosta in una fessura, c'è Gljúfrabúi, che si vede entrando nel fiume.",
+        come: "Parcheggio a pagamento (700 ISK quando ci sono stato); percorso breve su sentiero fangoso.",
+        quando: "Sera d'estate, con il sole che colpisce la caduta da ovest.",
+        tempo: "1 ora",
+        costo: "parcheggio 700 ISK (dato personale, da ricontrollare)",
+        consiglio: "Scarpe impermeabili per entrare nella gola di Gljúfrabúi."
+      },
+      {
+        nome: "Skógafoss",
+        testo: "Cascata larga 25 metri e alta 60, sul bordo della scogliera vecchia della costa. Una scala laterale sale in cima e continua verso il sentiero di Fimmvörðuháls.",
+        come: "Parcheggio ai piedi; il campeggio accanto è comodo per la sera.",
+        quando: "Pomeriggio, per l'arcobaleno quando c'è sole.",
+        tempo: "45 minuti",
+        costo: "ingresso libero",
+        consiglio: "Salire dalla scala di legno per la vista dall'alto: dalla piattaforma si vede anche la costa."
+      },
+      {
+        nome: "Relitto del DC-3 a Sólheimasandur",
+        testo: "Un aereo militare americano caduto nel 1973 su una pianura di sabbia nera. L'area è spoglia e battuta dal vento; da qualche anno non si arriva più con l'auto.",
+        come: "Parcheggio sulla Ring Road e 4 km a piedi a tratta (40-60 minuti) su sabbia piatta. Niente guida necessaria.",
+        quando: "Tardi in estate, quando il sole sfiora l'orizzonte; di notte serve una torcia.",
+        tempo: "2-3 ore andata e ritorno",
+        consiglio: "Ci siamo andati a mezzanotte con la luce di fine luglio: portare acqua e un power bank, il percorso non ha punti di riferimento."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Kjötsúpa",
+        testo: "Zuppa di agnello con radici, tipica dei giorni di vento: la si trova ai chioschi delle cascate e nei bar delle stazioni di servizio."
+      },
+      {
+        nome: "Pane di segale (rúgbrauð)",
+        testo: "Pane scuro e dolce cotto sottoterra dal calore geotermico, servito con burro e trota affumicata a Laugarvatn."
+      },
+      {
+        nome: "Pranzo al sacco",
+        testo: "In Islanda i supermercati Bónus e Krónan sono i più economici: spesa e cucina in campeggio per dimezzare i costi."
+      }
+    ],
+    attenzioni: [
+      "A Reynisfjara e sulle altre spiagge nere le onde anomale (sneaker waves) arrivano senza preavviso: non voltare le spalle al mare.",
+      "Le strade F e i guadi senza ponte richiedono un 4x4 e di solito non sono coperti dall'assicurazione base del noleggio.",
+      "Il campeggio libero con la tenda è molto limitato: usare i campeggi (costi bassi, servizi puliti) e rispettare i cartelli.",
+      "Fuori dalla zona di Reykjavík molte pompe di benzina sono automatiche: avere carta con PIN."
+    ],
     esperienzeSlugs: ['relitto-aereo-solheimasandur', 'golden-circle'],
     tripSlugs: ['islanda-2024'],
     imageAlt: 'Relitto dell\'aereo DC-3 abbandonato sulla sabbia nera di Sólheimasandur, Islanda',
@@ -106,6 +228,71 @@ export const destinazioniIslanda: Destinazione[] = [
     erroriDaEvitare: ['A Reynisfjara seguire sempre le indicazioni di sicurezza: le onde sono imprevedibili'],
     miaEsperienza:
       'Il trekking sul ghiacciaio e il kayak tra gli iceberg sono state due delle esperienze più intense del viaggio. Il trekking l\'ho fatto con Troll Expeditions; l\'operatore del kayak, le durate e i prezzi esatti non li ho annotati.',
+    luoghi: [
+      {
+        nome: "Dyrhólaey",
+        testo: "Promontorio con un arco di lava nera nel mare e un faro, molto bello per la vista sulla costa del sud. In primavera parte dell'area chiude per la nidificazione degli uccelli, e fra maggio e agosto si vedono i pulcinella di mare.",
+        come: "In auto, strada sterrata da percorrere con cautela fino al parcheggio alto.",
+        quando: "Fine primavera e estate per i pulcinella; al tramonto per la luce.",
+        tempo: "1 ora",
+        costo: "ingresso libero",
+        consiglio: "Controllare le chiusure stagionali prima di salire."
+      },
+      {
+        nome: "Reynisfjara",
+        testo: "Spiaggia di sabbia nera con colonne di basalto e le torri di Reynisdrangar nel mare. È una delle più fotogeniche e pericolose d'Islanda per le onde improvvise.",
+        come: "Parcheggio e sentiero breve; ci sono cartelli con un sistema a semaforo per le condizioni del mare.",
+        quando: "Mattina presto, quando ci sono meno pullman.",
+        tempo: "1 ora",
+        costo: "ingresso libero",
+        consiglio: "Rispettare le indicazioni di sicurezza: le onde arrivano molto più in alto di quanto sembri."
+      },
+      {
+        nome: "Fjaðrárgljúfur",
+        testo: "Un canyon sinuoso di quasi 100 metri di profondità e circa 2 km di lunghezza, con pareti coperte di muschio. Il sentiero sale sul bordo con vista continua.",
+        come: "Parcheggio vicino alla strada; sentiero ben tenuto da fare a piedi.",
+        quando: "Estate, con il fiume basso; in primavera può essere chiuso per il fango.",
+        tempo: "1 ora",
+        costo: "ingresso libero",
+        consiglio: "Restare sul sentiero: la protezione del muschio è stata una delle ragioni delle chiusure passate."
+      },
+      {
+        nome: "Skaftafell e Svartifoss",
+        testo: "Nel parco nazionale del Vatnajökull, sentieri tra betulle e lingue di ghiaccio. Il più battuto porta alla cascata Svartifoss, circondata da colonne di basalto.",
+        come: "Dal centro visitatori di Skaftafell circa 1,5 km a salire, 45 minuti a tratta.",
+        quando: "Estate, con la luce lunga; il sentiero è chiuso o ghiacciato nei mesi freddi.",
+        tempo: "2-3 ore",
+        url: "https://www.vatnajokulsthjodgardur.is",
+        consiglio: "Il parcheggio è a pagamento; il centro visitatori ha caffè e informazioni sul meteo."
+      },
+      {
+        nome: "Laguna glaciale di Jökulsárlón e Diamond Beach",
+        testo: "Laguna con iceberg staccati dal ghiacciaio Breiðamerkurjökull, che escono in mare attraverso un canale. Sulla spiaggia di sabbia nera dall'altra parte della strada i blocchi di ghiaccio brillano come diamanti.",
+        come: "Parcheggio gratuito vicino alla laguna. Si può fare un giro in barca anfibia o gommone con operatori della zona; il kayak si prenota in anticipo.",
+        quando: "Mattina presto o sera; in estate la luce non cala.",
+        tempo: "2-3 ore",
+        url: "https://www.vatnajokulsthjodgardur.is",
+        consiglio: "Il kayak tra gli iceberg è tra i miei ricordi più forti: non ho annotato operatore e prezzo, controllare le offerte aggiornate."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno da Vík a Höfn",
+        tappe: [
+          "Partenza presto da Vík verso est",
+          "Dyrhólaey e Reynisfjara",
+          "Fjaðrárgljúfur",
+          "Skaftafell (Svartifoss) o trekking sul ghiacciaio",
+          "Jökulsárlón e Diamond Beach",
+          "Arrivo a Höfn per la notte"
+        ]
+      }
+    ],
+    attenzioni: [
+      "Reynisfjara: onde anomale, restare lontani dall'acqua.",
+      "Sul ghiacciaio andare solo con guide autorizzate: ramponi e piccozza servono davvero.",
+      "Controllare il vento prima di partire: raffiche forti possono rovinare le portiere dell'auto, danno non coperto dall'assicurazione base."
+    ],
     esperienzeSlugs: ['trekking-ghiacciaio-vatnajokull', 'kayak-jokulsarlon'],
     tripSlugs: ['islanda-2024'],
     imageAlt: 'Un grande iceberg azzurro galleggia sulla laguna glaciale di Jökulsárlón, con le montagne del Vatnajökull sullo sfondo',
@@ -132,6 +319,47 @@ export const destinazioniIslanda: Destinazione[] = [
     costi: 'Campeggio Vestrahorn ~2.800 ISK/notte, campeggio comunale ~1.800 ISK/notte.',
     erroriDaEvitare: [],
     miaEsperienza: 'Dopo la giornata più intensa del viaggio, Höfn è stata una tappa tranquilla, comoda per riposare prima del lungo tratto verso i fiordi dell\'Est del giorno dopo.',
+    luoghi: [
+      {
+        nome: "Vestrahorn e Stokksnes",
+        testo: "Una montagna di gabbro da 454 metri che si specchia nelle dune nere della spiaggia di Stokksnes. È uno dei posti più fotografati dell'Islanda.",
+        come: "Dopo la strada per Stokksnes c'è un ingresso a pagamento gestito dal privato che possiede il terreno; poi pochi minuti a piedi.",
+        quando: "Alba o tramonto, con acqua bassa per i riflessi.",
+        tempo: "1-2 ore",
+        costo: "ingresso a pagamento (tariffa da verificare sul posto)",
+        consiglio: "L'ingresso comprende il Viking Village: le due cose si fanno insieme."
+      },
+      {
+        nome: "Viking Village",
+        testo: "Un villaggio vichingo costruito nel 2010 come set di un film mai girato, oggi lasciato al pascolo dei cavalli. Accanto c'è il campeggio ai piedi di Vestrahorn.",
+        come: "Si arriva dalla stessa strada di Stokksnes.",
+        quando: "Ora di luce bassa, quando si vede bene Vestrahorn sullo sfondo.",
+        tempo: "30 minuti",
+        consiglio: "I cavalli sono liberi: non dare cibo, non avvicinarsi troppo."
+      },
+      {
+        nome: "Porto di Höfn e aragosta",
+        testo: "Cittadina di pescatori nota per l'aragosta (in realtà scampi islandesi), con un piccolo porto e belle vedute sul ghiacciaio Vatnajökull dal lungomare.",
+        come: "A piedi dal campeggio comunale.",
+        quando: "Cena: i ristoranti riempiono presto in estate.",
+        tempo: "1-2 ore",
+        consiglio: "Prenotare la cena a Höfn d'estate."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Aragosta islandese (humar)",
+        testo: "Scampi piccoli e dolci, serviti in zuppa, grigliati o con burro all'aglio: tipica di Höfn."
+      },
+      {
+        nome: "Zuppa di pesce",
+        testo: "Zuppa con panna e pesce del giorno, a volte con pane di segale."
+      }
+    ],
+    attenzioni: [
+      "In alta stagione Höfn è piena: prenotare campeggio e cena con anticipo.",
+      "Il tratto di Ring Road a est ha poche pompe: fare il pieno a Höfn."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['islanda-2024'],
     imageAlt: 'Montagna Vestrahorn e spiaggia di sabbia nera vicino Höfn, Islanda',
@@ -161,6 +389,55 @@ export const destinazioniIslanda: Destinazione[] = [
     costi: 'Campeggio circa 2.000 ISK a persona.',
     erroriDaEvitare: [],
     miaEsperienza: 'I Vök Baths sono arrivati al momento giusto: dopo due giorni tra trekking e vento, è stato il primo vero bagno caldo del viaggio.',
+    luoghi: [
+      {
+        nome: "Fiordi dell'Est",
+        testo: "La strada costiera della Route 1 tra Höfn ed Egilsstaðir segue ogni fiordo, con montagne ripide, cascate e villaggi di pescatori. Circa 250 km: in 4-5 ore con le soste.",
+        come: "In auto; non ci sono scorciatoie e il meteo cambia in fretta.",
+        quando: "Estate, con visibilità; in inverno la passa di Öxi può chiudere.",
+        tempo: "una giornata",
+        url: "https://safetravel.is",
+        consiglio: "Prevedere pause nei villaggi come Djúpivogur, e fare benzina prima."
+      },
+      {
+        nome: "Seyðisfjörður",
+        testo: "Villaggio di artisti in un fiordo profondo, con case di legno colorate, la chiesa azzurra e la strada con l'arcobaleno. Si arriva scendendo da un passo montano (Fjarðarheiði) con belle cascate.",
+        come: "Circa 30 minuti d'auto da Egilsstaðir; è anche il porto del traghetto dalle Fær Øer e dalla Danimarca.",
+        quando: "Estate; il passo può essere chiuso dalla neve da autunno a primavera.",
+        tempo: "mezza giornata",
+        consiglio: "Passeggiata alle cascate lungo la strada, con più soste."
+      },
+      {
+        nome: "Vök Baths",
+        testo: "Piscine termali galleggianti sul lago Urriðavatn, a poca distanza da Egilsstaðir, con un bar sull'acqua. Il primo bagno caldo vero dopo giorni di trekking e vento.",
+        come: "In auto, circa 10 minuti da Egilsstaðir. Si prenota meglio online nei weekend.",
+        quando: "Sera, per la luce e il vapore sull'acqua.",
+        tempo: "2 ore",
+        consiglio: "Controllare i prezzi aggiornati sul sito ufficiale prima di andare."
+      },
+      {
+        nome: "Lagarfljót e foresta di Hallormsstaður",
+        testo: "La foresta più grande d'Islanda, con alberi alti e sentieri sul lago lungo e stretto Lagarfljót. Una vera sorpresa in un paese quasi senza alberi.",
+        come: "Circa 30 minuti d'auto da Egilsstaðir.",
+        quando: "Estate e inizio autunno per i colori.",
+        tempo: "2 ore",
+        consiglio: "Piccolo e tranquillo, ideale come pausa dalla guida."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Renna (hreindýr)",
+        testo: "Nell'Est si trova carne di renna nei ristoranti locali: cotta alla piastra o in stufato."
+      },
+      {
+        nome: "Pane e dolci dei panifici",
+        testo: "Nei piccoli villaggi i forni sono ottimi: kleina (dolce fritto) e vínarbrauð (sfoglia con crema)."
+      }
+    ],
+    attenzioni: [
+      "Strade di montagna come Fjarðarheiði e Öxi possono chiudere per neve o nebbia: controllare road.is.",
+      "Le pompe di benzina nei fiordi sono lontane: pieno quando si può."
+    ],
     esperienzeSlugs: ['terme-naturali-islanda'],
     tripSlugs: ['islanda-2024'],
     imageAlt: 'Villaggio di Seyðisfjörður tra le montagne innevate di un fiordo dell\'Est islandese',
@@ -195,6 +472,48 @@ export const destinazioniIslanda: Destinazione[] = [
     costi: 'il prezzo del campeggio non me lo sono segnato: conviene controllarlo al momento di prenotare',
     erroriDaEvitare: ['Non prenotare il campeggio in alta stagione: la zona è molto remota e le alternative sono poche'],
     miaEsperienza: 'Dettifoss si sente prima di vederla: il boato e la forza dell\'acqua fangosa sono tra i ricordi più fisici del viaggio.',
+    luoghi: [
+      {
+        nome: "Stuðlagil",
+        testo: "Un canyon con colonne di basalto alte fino a 30 metri e acqua turchese, noto solo dal 2017, quando la costruzione di una diga ha abbassato il fiume. Ci sono due accessi, uno con piattaforma panoramica e uno con sentiero fino al letto del fiume.",
+        come: "Ultimo tratto su sterrato dall'asfalto; sentieri brevi e ben tenuti.",
+        quando: "Estate, con il fiume basso e la luce piena.",
+        tempo: "1-2 ore",
+        consiglio: "Il sentiero fino al fiume è più bello della piattaforma ma richiede scarpe adatte."
+      },
+      {
+        nome: "Dettifoss",
+        testo: "Cascata larga 100 metri e alta 44, considerata la più potente d'Europa per portata. L'acqua è fangosa, grigia, e il rumore si sente da lontano.",
+        come: "Dalla Route 862 (asfaltata) sul lato ovest, la vista migliore; sentiero di circa 1 km dal parcheggio.",
+        quando: "Estate; in primavera la piena è al massimo.",
+        tempo: "1 ora",
+        costo: "ingresso libero",
+        url: "https://www.vatnajokulsthjodgardur.is",
+        consiglio: "Il boato si sente prima di vederla: restare dietro le catene, il bordo è scivoloso."
+      },
+      {
+        nome: "Canyon di Ásbyrgi",
+        testo: "Una gola a forma di ferro di cavallo lunga 3,5 km e larga 1, con pareti fino a 100 metri e una foresta di betulle sul fondo. Secondo la leggenda è l'impronta dello zoccolo del cavallo di Odino.",
+        come: "Dal parcheggio un sentiero pianeggiante porta fino allo stagno Botnstjörn.",
+        quando: "Sera o mattina, con luce radente sulle pareti.",
+        tempo: "2 ore",
+        costo: "ingresso libero",
+        url: "https://www.vatnajokulsthjodgardur.is",
+        consiglio: "Il campeggio del parco nazionale è sul fondo del canyon, con ottimi servizi."
+      },
+      {
+        nome: "Hljóðaklettar",
+        testo: "Colonne di basalto cresciute in cerchio, che da sopra sembrano una roccia fiorita, vicino a Ásbyrgi. Una passeggiata corta, la più bella dell'area per chi ama la geologia.",
+        come: "A pochi chilometri da Ásbyrgi; sentiero ben segnato.",
+        quando: "Estate.",
+        tempo: "1 ora",
+        consiglio: "Combinabile con Ásbyrgi in mattinata."
+      }
+    ],
+    attenzioni: [
+      "La zona è remota: pieno di benzina e spesa a Húsavík o Akureyri.",
+      "Le strade sterrate vicino a Dettifoss est richiedono un 4x4; la Route 862 ovest è asfaltata."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['islanda-2024'],
     imageAlt: 'Vista aerea del canyon di Ásbyrgi a forma di ferro di cavallo, Islanda',
@@ -229,6 +548,64 @@ export const destinazioniIslanda: Destinazione[] = [
     costi: 'Campeggio Hamrar ~1.500 ISK/persona + quota tenda.',
     erroriDaEvitare: [],
     miaEsperienza: 'Whale watching al mattino e zona geotermica al pomeriggio: è stata una delle giornate più varie del viaggio, dal mare aperto allo zolfo in poche ore.',
+    luoghi: [
+      {
+        nome: "Whale watching da Húsavík",
+        testo: "La baia di Skjálfandi è tra i posti migliori d'Europa per vedere megattere e balenottere azzurre in estate. I tour partono dal porto di Húsavík e durano circa 3 ore.",
+        come: "Si prenota online con l'operatore; barche tradizionali o veloci.",
+        quando: "Da giugno a agosto; mattina presto per il mare calmo.",
+        tempo: "3 ore",
+        consiglio: "Vestirsi a strati: in barca fa freddo anche d'estate."
+      },
+      {
+        nome: "Goðafoss",
+        testo: "La «cascata degli dei», larga 30 metri e alta 12, dove nell'anno 1000 un capo islandese avrebbe gettato le statue dei vecchi dei dopo la conversione al cristianesimo.",
+        come: "Sosta lungo la Ring Road, con due lati e sentieri corti.",
+        quando: "Sera d'estate o mattina presto.",
+        tempo: "30-45 minuti",
+        costo: "ingresso libero",
+        consiglio: "Il lato ovest ha meno gente e una vista migliore."
+      },
+      {
+        nome: "Zona geotermica di Mývatn",
+        testo: "Il lago è circondato da fenomeni vulcanici: i crateri di Hverfjall, le fumarole di Hverir con odore di zolfo e il labirinto di lava di Dimmuborgir. In pochi chilometri si vedono tre scenari diversi.",
+        come: "In auto intorno al lago; sentieri brevi e ben segnati.",
+        quando: "Mattina, prima dei gruppi; d'estate i mosconi sono fastidiosi.",
+        tempo: "mezza giornata",
+        consiglio: "Portare una retina antizanzare: il nome del lago significa «lago dei moscerini»."
+      },
+      {
+        nome: "Grjótagjá",
+        testo: "Una grotta di lava con una sorgente calda, nota per una scena di Game of Thrones. Oggi non si può fare il bagno perché la temperatura è troppo variabile.",
+        come: "Piccolo parcheggio e pochi passi.",
+        quando: "Qualsiasi ora.",
+        tempo: "20 minuti",
+        costo: "ingresso libero",
+        consiglio: "Si può guardare, non bagnarsi."
+      },
+      {
+        nome: "Akureyri città",
+        testo: "La seconda città dell'Islanda, ai piedi di un fiordo lungo, con chiesa moderna, giardino botanico a nord del cerchio polare e una bella vista dei monti.",
+        come: "A piedi dal centro; il giardino botanico Lystigarðurinn è gratuito.",
+        quando: "Giorno intero; sera per i caffè.",
+        tempo: "2-3 ore",
+        consiglio: "Fare la spesa qui: i supermercati sono più forniti e meno cari della media del Nord."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Barbecue in campeggio",
+        testo: "Spesa ad Akureyri e cucina condivisa o griglia nel campeggio: la scelta più semplice per risparmiare."
+      },
+      {
+        nome: "Gelato al latte islandese",
+        testo: "In Islanda i gelati si fanno con il latte e si mangiano tutto l'anno, anche con il freddo: provare quello della fattoria Efstidalur o dei bar del centro."
+      }
+    ],
+    attenzioni: [
+      "Il tour delle balene può essere annullato per il meteo: lasciare un giorno di margine.",
+      "Intorno a Mývatn i moscerini sono molti in estate: portare un copricapo."
+    ],
     esperienzeSlugs: ['whale-watching-husavik', 'zona-geotermale-myvatn'],
     tripSlugs: ['islanda-2024'],
     imageAlt: 'Pozza termale fumante nel terreno colorato di zolfo della zona geotermica vicino al lago Mývatn',
@@ -258,6 +635,46 @@ export const destinazioniIslanda: Destinazione[] = [
     costi: 'il prezzo del campeggio non me lo sono segnato: conviene controllarlo prima di partire',
     erroriDaEvitare: ['Mettere in conto 6-7 ore di guida con le soste: è il trasferimento più lungo di tutto il viaggio'],
     miaEsperienza: 'L\'ultima cena in tenda, con vista sul Kirkjufell e sul fiordo, è stata un bel modo di chiudere la parte «on the road» del viaggio, prima delle due notti finali in hotel.',
+    luoghi: [
+      {
+        nome: "Kirkjufell e Kirkjufellsfoss",
+        testo: "La montagna più fotografata d'Islanda, alta 463 metri e a forma di cappello, con una cascata ai piedi. Il parcheggio è accanto alla caduta e non serve camminare.",
+        come: "In auto dalla Route 54; sosta breve.",
+        quando: "Tramonto, soprattutto in estate; in inverno di notte per l'aurora.",
+        tempo: "1 ora",
+        costo: "ingresso libero",
+        consiglio: "Il campeggio ai piedi della montagna offre la vista migliore senza spostarsi."
+      },
+      {
+        nome: "Arnarstapi e Hellnar",
+        testo: "Due ex villaggi di pescatori sulla costa sud di Snæfellsnes, uniti da un sentiero di 2,5 km tra scogliere, archi di basalto e nidi di uccelli marini.",
+        come: "Parcheggio nei due villaggi; il sentiero si fa a piedi.",
+        quando: "Estate.",
+        tempo: "1-2 ore",
+        consiglio: "Portare giacca antivento: il mare è aperto."
+      },
+      {
+        nome: "Djúpalónssandur",
+        testo: "Spiaggia di ciottoli neri con resti di un naufragio e pietre di prova per i pescatori. Il sentiero scende tra la lava.",
+        come: "Piccolo parcheggio sulla Route 574; breve discesa.",
+        quando: "Mattina o sera.",
+        tempo: "1 ora",
+        consiglio: "Non toccare i ferri arrugginiti del relitto: sono ancora pericolosi."
+      },
+      {
+        nome: "Guðrúnarlaug",
+        testo: "Una piscina termale naturale in Laugar, nella valle di Sælingsdalur, ricostruita su un'antica sorgente. È ancora poco battuta e gratuita.",
+        come: "Poco fuori dalla Route 60.",
+        quando: "Sera.",
+        tempo: "1 ora",
+        costo: "ingresso libero",
+        consiglio: "Spogliatoio essenziale: portare asciugamano e infradito."
+      }
+    ],
+    attenzioni: [
+      "Il tratto Akureyri-Snæfellsnes è la giornata più lunga di guida: 6-7 ore con soste.",
+      "Le piscine termali naturali sono spesso senza spogliatoi: rispettare le regole e lasciare tutto pulito."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['islanda-2024'],
     imageAlt: 'Montagna Kirkjufell e la cascata Kirkjufellsfoss, Islanda',
@@ -286,6 +703,119 @@ export const destinazioniIslanda: Destinazione[] = [
     costi: 'i costi dell\'ultima tappa non li ho annotati',
     erroriDaEvitare: [],
     miaEsperienza: 'Dopo sei notti in tenda, l\'ultima notte in un letto vero a Reykjavík è stata quasi surreale: un buon modo per festeggiare la fine del viaggio prima del volo di rientro da Keflavík.',
+    luoghi: [
+      {
+        nome: "Hallgrímskirkja",
+        testo: "Chiesa luterana in cemento ispirata ai fianchi di basalto, iniziata nel 1945 e finita nel 1986. La torre di 74 metri ha un belvedere sulla città.",
+        come: "In centro, a piedi. L'ingresso alla chiesa e alla torre è separato.",
+        quando: "Mattina, quando le luci sono più morbide; la torre chiude alla sera.",
+        tempo: "45 minuti",
+        url: "https://hallgrimskirkja.is",
+        consiglio: "Controllare orari della torre sul sito ufficiale: possono cambiare per concerti e funzioni."
+      },
+      {
+        nome: "Harpa e il lungomare",
+        testo: "Sala concerti di vetro sul porto, aperta nel 2011, con facciata a cellule. Il lungomare porta alla scultura Sólfar e alla baia di Faxaflói.",
+        come: "A piedi dal centro; l'ingresso al foyer è libero.",
+        quando: "Tramonto, quando il vetro riflette il cielo.",
+        tempo: "1 ora",
+        costo: "ingresso libero al foyer",
+        url: "https://www.harpa.is",
+        consiglio: "Prenotare i biglietti dei concerti in anticipo."
+      },
+      {
+        nome: "Perlan e museo Wonders of Iceland",
+        testo: "Un edificio con cupola di vetro su sei cisterne dell'acqua calda, con una grotta di ghiaccio artificiale, un planetario e una terrazza panoramica.",
+        come: "Fuori dal centro, con bus o auto; comodo in giornata di pioggia.",
+        quando: "Giorno, quando il tempo è brutto.",
+        tempo: "2-3 ore",
+        url: "https://perlan.is",
+        consiglio: "Si prenota online per evitare le code."
+      },
+      {
+        nome: "Centro storico e street art",
+        testo: "Strade colorate intorno a Skólavörðustígur, con negozi di design, gallerie e murales. Il quartiere Þingholt ha case di lamiera dipinte.",
+        come: "A piedi; il tratto in salita parte dalla chiesa.",
+        quando: "Mattina o pomeriggio.",
+        tempo: "2 ore",
+        consiglio: "Il sabato e la domenica c'è il mercatino delle pulci Kolaportið."
+      },
+      {
+        nome: "Kolaportið",
+        testo: "Mercato coperto delle pulci vicino al porto, il sabato e la domenica: usato, libri, souvenir e un banco di pesce essiccato, il cibo islandese più autentico.",
+        come: "A piedi dal centro, accanto al porto vecchio.",
+        quando: "Weekend, 11-17.",
+        tempo: "1 ora",
+        consiglio: "Provare lo harðfiskur (pesce secco) con burro."
+      },
+      {
+        nome: "Terme e piscine pubbliche",
+        testo: "Le piscine geotermiche sono parte della vita sociale locale: Sundhöllin in centro, Laugardalslaug la più grande, Vesturbæjarlaug a pochi passi dal mare.",
+        come: "Bus o a piedi; ingresso a pagamento, doccia nuda obbligatoria prima di entrare.",
+        quando: "Sera, quando i locali si ritrovano.",
+        tempo: "2 ore",
+        consiglio: "Fare la doccia senza costume: è una regola di igiene che gli islandesi prendono sul serio."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Hallgrímskirkja e passeggiata a Skólavörðustígur",
+          "Pranzo in centro",
+          "Harpa e lungomare",
+          "Sera alla piscina geotermica"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1 come sopra",
+          "Giorno 2: Golden Circle (Þingvellir, Geysir, Gullfoss) in auto o tour",
+          "Cena in centro"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Centro (101)",
+        perChi: "Chi vuole girare a piedi",
+        testo: "Vicino a Hallgrímskirkja, ristoranti e locali. Più rumoroso nel weekend sera, camere piccole."
+      },
+      {
+        nome: "Laugardalur",
+        perChi: "Chi cerca tranquillità e prezzi più bassi",
+        testo: "Vicino alle piscine e all'ostello HI; 20 minuti a piedi dal centro, con il bus."
+      },
+      {
+        nome: "Vicino al porto",
+        perChi: "Chi arriva con traghetti o tour",
+        testo: "Ha hotel moderni, vicino a Harpa."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Bæjarins Beztu Pylsur",
+        testo: "Il chiosco di hot dog più famoso della città, vicino al porto, aperto da decenni."
+      },
+      {
+        nome: "Skyr e pasticcini",
+        testo: "Nei forni del centro: kleina, snúður (girella alla cannella)."
+      },
+      {
+        nome: "Pesce fresco al porto",
+        testo: "Le zuppe di pesce e il merluzzo al forno nei ristoranti del vecchio porto."
+      },
+      {
+        nome: "Plokkfiskur",
+        testo: "Purè di merluzzo e patate, piatto casalingo che si trova nei ristoranti tradizionali."
+      }
+    ],
+    attenzioni: [
+      "Prezzi alti: pranzare con zuppa o hot dog e cenare nei bar con piatto del giorno per risparmiare.",
+      "I tassisti sono onesti, ma i taxi sono cari: meglio bus o auto.",
+      "Nei locali del centro il sabato sera i prezzi dell'alcol sono alti: controllare lo scontrino."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['islanda-2024'],
     imageAlt: 'Guglia in stile Art Déco della chiesa di Hallgrímskirkja a Reykjavík',

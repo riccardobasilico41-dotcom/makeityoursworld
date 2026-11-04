@@ -61,6 +61,130 @@ export const destinazioniSvezia: Destinazione[] = [
     erroriDaEvitare: [],
     miaEsperienza:
       'Stoccolma per me è stata solo una tappa logistica, all\'andata e al ritorno: giusto il tempo di dormire tra un volo e l\'altro.',
+    luoghi: [
+      {
+        nome: "Gamla Stan e Palazzo Reale",
+        testo: "Il centro storico medievale su un'isola, con vicoli stretti, case colorate e la piazza di Stortorget. Il Palazzo Reale è uno dei più grandi d'Europa ancora in uso, con il cambio della guardia nel cortile esterno.",
+        come: "A piedi dalla stazione centrale (10 minuti) o con la metro fino a Gamla stan.",
+        quando: "Mattina presto, prima dei gruppi; il cambio della guardia è a mezzogiorno nei giorni indicati dal sito reale.",
+        tempo: "2-3 ore",
+        url: "https://www.kungligaslotten.se",
+        consiglio: "I vicoli Mårten Trotzigs gränd e Västerlånggatan sono i più fotografati: andarci all'alba."
+      },
+      {
+        nome: "Museo Vasa",
+        testo: "Una nave da guerra del 1628 affondata dopo 1.300 metri nel porto durante il viaggio inaugurale e recuperata quasi intatta nel 1961. È una delle navi antiche meglio conservate del mondo, esposta in una sala con nove livelli di passerelle.",
+        come: "Tram 7 o bus 67 fino a Djurgården, oppure traghetto dal centro. Visita libera, con tour guidati in inglese.",
+        quando: "Mattina nei giorni feriali; è il museo più visitato della Scandinavia.",
+        tempo: "2 ore",
+        url: "https://www.vasamuseet.se",
+        consiglio: "Prenotare online il biglietto in alta stagione."
+      },
+      {
+        nome: "Stadshuset",
+        testo: "Il Municipio in mattoni rossi del 1923 sull'acqua, sede del banchetto dei Premi Nobel nella Sala Blu e della Sala Dorata con 18 milioni di tessere dorate. La torre ha un belvedere stagionale.",
+        come: "A piedi dalla stazione (10 minuti); la visita è solo guidata.",
+        quando: "Mattina, con tour in inglese; la torre è aperta in estate.",
+        tempo: "1 ora",
+        url: "https://stadshuset.stockholm",
+        consiglio: "Controllare orari e disponibilità dei tour sul sito prima di andare."
+      },
+      {
+        nome: "Skansen e Djurgården",
+        testo: "Il più antico museo all'aperto del mondo (1891), con case storiche da tutta la Svezia, animali nordici e artigiani in costume. Sull'isola ci sono anche ABBA The Museum e il parco Gröna Lund.",
+        come: "Tram 7 dal centro. Il biglietto copre il parco, non le attrazioni a parte.",
+        quando: "Primavera ed estate; in inverno ci sono mercatini di Natale.",
+        tempo: "3-4 ore",
+        url: "https://www.skansen.se",
+        consiglio: "Salire in funicolare sul colle per la vista sulla città."
+      },
+      {
+        nome: "Palazzo di Drottningholm",
+        testo: "La residenza della famiglia reale, patrimonio UNESCO, con giardini barocchi e un teatro del Settecento ancora funzionante. È la visita migliore fuori dal centro.",
+        come: "In metro fino a Brommaplan e poi bus, o in battello da Stadshuset (estate), circa 1 ora.",
+        quando: "Primavera-estate, con il battello.",
+        tempo: "mezza giornata",
+        url: "https://www.kungligaslotten.se",
+        consiglio: "Il battello da Stadshuset è l'ingresso più bello al palazzo."
+      },
+      {
+        nome: "Arcipelago di Stoccolma",
+        testo: "Oltre 30.000 isole e isolotti che si aprono a est della città verso il Baltico. Il battello di linea porta a Vaxholm, Grinda o Sandhamn, con sentieri, spiagge di roccia e piccoli caffè.",
+        come: "Traghetti Waxholmsbolaget da Strömkajen; biglietto e orari sul sito del trasporto pubblico.",
+        quando: "Maggio-settembre, con le giornate lunghe.",
+        tempo: "giornata intera",
+        url: "https://www.waxholmsbolaget.se",
+        consiglio: "Per chi ha poco tempo, Fjäderholmarna è a soli 25 minuti dal centro."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Mattina: Gamla Stan e Palazzo Reale",
+          "Pranzo con fika a Gamla Stan",
+          "Pomeriggio: Museo Vasa",
+          "Sera: passeggiata a Södermalm"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1 come sopra",
+          "Giorno 2: Stadshuset",
+          "Skansen e Djurgården",
+          "Cena a Östermalm"
+        ]
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: Drottningholm o arcipelago in battello"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Gamla Stan",
+        perChi: "Chi vuole il fascino del centro storico",
+        testo: "Vicoli di ciottoli e locali, ma camere piccole e caro. Rumore di sera nelle vie principali."
+      },
+      {
+        nome: "Norrmalm (vicino alla stazione)",
+        perChi: "Chi ha poco tempo o parte presto",
+        testo: "Comodo per i treni e l'aeroporto. Poca atmosfera, molti uffici."
+      },
+      {
+        nome: "Södermalm",
+        perChi: "Chi cerca bar e quartieri giovani",
+        testo: "Un'isola con ristoranti, vecchi pub e vista dal Fjällgatan; a pochi minuti in metro dal centro."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Köttbullar",
+        testo: "Le polpette svedesi con salsa di panna, purè e mirtilli rossi: il piatto più famoso."
+      },
+      {
+        nome: "Fika e kanelbullar",
+        testo: "La pausa del caffè con girelle alla cannella o al cardamomo, in ogni caffè."
+      },
+      {
+        nome: "Semla",
+        testo: "Panino al cardamomo con mandorle e panna, tra febbraio e Pasqua."
+      },
+      {
+        nome: "Gravlax",
+        testo: "Salmone marinato con aneto e senape dolce, da provare nei ristoranti tradizionali."
+      }
+    ],
+    attenzioni: [
+      "Quasi tutto si paga con carta: molti locali non accettano contanti.",
+      "L'alcol forte si compra solo da Systembolaget, chiuso la domenica.",
+      "Dall'aeroporto di Arlanda conviene l'Arlanda Express o il treno: i taxi non prezzati in anticipo possono costare molto.",
+      "Borseggiatori nella stazione centrale e sulla metro nelle ore di punta."
+    ],
     esperienzeSlugs: ['vasamuseet-stoccolma', 'gamla-stan-passeggiata', 'abba-museum-stoccolma', 'arcipelago-stoccolma-in-barca'],
     tripSlugs: ['lapponia-svedese-abisko', 'capitali-nordiche'],
     imageAlt: 'Case colorate del centro storico di Stoccolma affacciate sull\'acqua in inverno',
@@ -97,6 +221,60 @@ export const destinazioniSvezia: Destinazione[] = [
     erroriDaEvitare: [],
     miaEsperienza:
       'Kiruna per me è stata una base pratica più che una meta: all\'andata l\'essenzialità dello STF, al ritorno la spa dell\'Elite Hotel Frost, e sullo sfondo la chiesa rossa e il centro in trasformazione.',
+    luoghi: [
+      {
+        nome: "Chiesa di Kiruna",
+        testo: "Chiesa in legno rossa del 1912 di Gustaf Wickman, considerata una delle più grandi costruzioni di legno della Svezia. Nel 2025 è stata spostata nel nuovo centro della città, per via dell'espansione della miniera.",
+        come: "In città, a piedi dal centro; controllare l'ubicazione aggiornata prima di andare.",
+        quando: "Giorno, con luce diurna d'inverno breve.",
+        tempo: "30 minuti-1 ora",
+        consiglio: "Il nuovo centro è in costruzione: un'occasione di vedere una città che si sposta."
+      },
+      {
+        nome: "Miniera di ferro LKAB",
+        testo: "La più grande miniera di ferro sotterranea del mondo; il tour guidato di circa 3 ore scende fino a 540 metri di profondità. Spiega perché Kiruna sta traslocando.",
+        come: "Tour prenotato da Kiruna, con trasferimento in bus; chiedere a LKAB le date.",
+        quando: "Tutto l'anno.",
+        tempo: "3 ore",
+        consiglio: "Portare abiti caldi: sotto terra la temperatura è bassa."
+      },
+      {
+        nome: "ICEHOTEL a Jukkasjärvi",
+        testo: "L'hotel di ghiaccio rifatto ogni inverno con sculture e suite a tema. Si visita anche senza dormirci, con un tour di un'ora, e c'è un ghiaccio-bar.",
+        come: "Circa 20 minuti d'auto o bus da Kiruna.",
+        quando: "Da dicembre ad aprile.",
+        tempo: "1-2 ore",
+        url: "https://www.icehotel.com",
+        consiglio: "Anche chi non dorma lì può visitare le sale e il bar."
+      },
+      {
+        nome: "Elite Hotel Frost e spa",
+        testo: "La spa nel nostro albergo di Kiruna, ideale per recuperare dopo le giornate nel freddo di Abisko.",
+        come: "In centro a Kiruna.",
+        quando: "Sera, dopo il rientro da Abisko.",
+        tempo: "2 ore",
+        consiglio: "Una delle esperienze che meritano dopo la fase più fredda."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Renna",
+        testo: "Renskav (carne di renna a fettine con purè e mirtilli rossi), il piatto tipico del Nord."
+      },
+      {
+        nome: "Mirtilli di palude (hjortron)",
+        testo: "Frutti arancio tipici della Lapponia, in marmellata o con gelato."
+      },
+      {
+        nome: "Salmerino alpino",
+        testo: "Pesce d'acqua dolce servito affumicato o alla piastra."
+      }
+    ],
+    attenzioni: [
+      "In inverno la temperatura può scendere sotto -30 gradi: abbigliamento tecnico a strati, non cotone.",
+      "La miniera e l'ICEHOTEL si prenotano in anticipo nei mesi di punta.",
+      "L'aurora non è garantita: prevedere più sere in zona."
+    ],
     esperienzeSlugs: ['icehotel-jukkasjarvi', 'miniera-lkab-kiruna'],
     tripSlugs: ['lapponia-svedese-abisko'],
     imageAlt: 'Chiesa di legno rossa di Kiruna sotto un cielo invernale svedese',
@@ -135,6 +313,57 @@ export const destinazioniSvezia: Destinazione[] = [
     ],
     miaEsperienza:
       'Abisko è stato il cuore del viaggio: la cena in quota alla Aurora Sky Station, la motoslitta sul lago ghiacciato e l\'husky sledding sotto un cielo che a un certo punto si è acceso sul serio. Sono i ricordi più forti della settimana.',
+    luoghi: [
+      {
+        nome: "Aurora Sky Station",
+        testo: "Una stazione in cima al monte Nuolja, raggiungibile con una seggiovia, da cui si osserva l'aurora in uno dei posti più sereni di Svezia. C'è anche una cena panoramica.",
+        come: "Seggiovia dal Abisko Turiststation; la prenotazione include cena e salita.",
+        quando: "Inverno, notti con cielo sereno.",
+        tempo: "3-4 ore",
+        url: "https://www.auroraskystation.se",
+        consiglio: "Ho cenato lassù: è tra i ricordi più forti della settimana."
+      },
+      {
+        nome: "Lago ghiacciato Torneträsk e motoslitta",
+        testo: "Il grande lago di Abisko ghiaccia in inverno e si percorre in motoslitta con una guida, anche di sera sotto l'aurora.",
+        come: "Escursione con operatore locale, partenza da Abisko.",
+        quando: "Inverno, da gennaio a marzo.",
+        tempo: "2-3 ore",
+        consiglio: "Servono patente di guida e abiti caldi; ci si ferma spesso a guardare il cielo."
+      },
+      {
+        nome: "Husky sledding",
+        testo: "Guidare una slitta con cani husky nel parco, con una sosta per il tè e la caccia all'aurora. Si impara in pochi minuti.",
+        come: "Prenotazione con operatore locale; trasferimento in minibus.",
+        quando: "Inverno, con la neve.",
+        tempo: "mezza giornata",
+        consiglio: "Sotto l'aurora è un'emozione che resta."
+      },
+      {
+        nome: "Parco nazionale di Abisko e Lapporten",
+        testo: "Il parco ai piedi della montagna, punto di partenza del Kungsleden, con il canyon di Abiskojåkka e la valle a U di Lapporten, la «porta della Lapponia». La stazione turistica STF è la base.",
+        come: "Treno da Kiruna (poco più di un'ora) fino alla stazione di Abisko Turiststation.",
+        quando: "Estate per il trekking, inverno per l'aurora.",
+        tempo: "giornata intera",
+        costo: "ingresso al parco libero",
+        consiglio: "I sentieri sono sempre aperti, ma in inverno servono ramponcini o ciaspole."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Cena all'Aurora Sky Station",
+        testo: "Menu fisso con ingredienti locali, in cima alla montagna."
+      },
+      {
+        nome: "Colazione STF",
+        testo: "Le strutture STF includono spesso la colazione: buffet semplice e abbondante."
+      }
+    ],
+    attenzioni: [
+      "Aurora Sky Station e seggiovia possono chiudere con vento forte o tempesta.",
+      "Chi guida una motoslitta risponde dei danni: controllare franchigia e assicurazione.",
+      "Nessun negozio vero ad Abisko: portare spesa e contanti per l'essenziale."
+    ],
     esperienzeSlugs: ['aurora-sky-station', 'motoslitta-lago-ghiacciato', 'husky-sledding-caccia-aurora'],
     tripSlugs: ['lapponia-svedese-abisko'],
     imageAlt: 'Aurora boreale verde sopra le montagne innevate del parco nazionale di Abisko',

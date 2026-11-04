@@ -47,6 +47,147 @@ export const destinazioniDanimarca: Destinazione[] = [
       "Underestimating the possible disappointment of the Little Mermaid: it's a small statue, often surrounded by crowds, to be seen during a waterfront walk rather than as a destination in itself",
       "Assuming you pay in euros: Denmark is not in the eurozone, you pay in Danish kroner (DKK)",
     ],
+    luoghi: [
+      {
+        nome: "Nyhavn",
+        testo: "The seventeenth-century canal with the colourful facades of merchants' houses, now a line of cafes and restaurants on the quay. It is the most photographed spot in the city, and boats for the canals leave from here.",
+        come: "On foot from Kongens Nytorv (5 minutes) or by metro (M1/M2) to Kongens Nytorv.",
+        quando: "Early morning for photos; evening for tables on the quay, which are pricier.",
+        tempo: "1 hour",
+        costo: "free entry",
+        consiglio: "The venues on the sunny side are very expensive: it often pays to eat a street further."
+      },
+      {
+        nome: "Rosenborg Castle",
+        testo: "A Renaissance castle built by Christian IV between 1606 and 1634, with the crown jewels in the basement and the Kongens Have gardens. The rooms keep original furnishings.",
+        come: "Metro or on foot to Nørreport (10 minutes from the centre).",
+        quando: "Weekday morning; the park is open to everyone, free.",
+        tempo: "1.5 hours",
+        consiglio: "The Kongens Have is a good place for a free picnic."
+      },
+      {
+        nome: "Amalienborg",
+        testo: "Four rococo palaces around an octagonal square, the royal family's residence. The changing of the guard takes place at noon, with a march from Rosenborg.",
+        come: "On foot from Nyhavn, along the waterfront (10 minutes).",
+        quando: "Noon for the ceremony.",
+        tempo: "1 hour",
+        costo: "changing of the guard free",
+        url: "https://www.kongernessamling.dk",
+        consiglio: "Climb the nearby Marble Church for the dome and the view."
+      },
+      {
+        nome: "Tivoli Gardens",
+        testo: "Opened in 1843, it is one of the oldest amusement parks in the world still operating, in the middle of the city. Landscaped gardens, historic wooden roller coasters and lights at dusk.",
+        come: "On foot from the central station (5 minutes). Open seasonally: summer, Halloween and Christmas.",
+        quando: "Evening, when the lights come on.",
+        tempo: "3-4 hours",
+        url: "https://www.tivoli.dk",
+        consiglio: "The entrance ticket is separate from the rides: check the packages on the website."
+      },
+      {
+        nome: "Christianshavn and Vor Frelsers Kirke",
+        testo: "A district with minor canals, houseboats and the Church of Our Saviour, famous for the gilded external spiral stair climbing the steeple. The climb is narrow and steep, with a view over all of Copenhagen.",
+        come: "Metro M1/M2 to Christianshavn or on foot from the centre (15 minutes).",
+        quando: "Clear day; the tower closes in strong wind, snow or ice.",
+        tempo: "1-2 hours",
+        url: "https://www.vorfrelserskirke.dk",
+        consiglio: "The climb is not suitable for those with a fear of heights."
+      },
+      {
+        nome: "Christiania",
+        testo: "A 'free town' born in 1971 in a former military area: self-built houses, murals, studios and venues. It has its own rules: no photos on Pusher Street and no running.",
+        come: "On foot from Christianshavn, entrance from Prinsessegade.",
+        quando: "Daytime; evening is less advisable for casual visitors.",
+        tempo: "1-2 hours",
+        costo: "free entry",
+        url: "https://www.christiania.org",
+        consiglio: "Respect the rules at the entrance and do not photograph the stalls."
+      },
+      {
+        nome: "Louisiana Museum of Modern Art",
+        testo: "In Humlebæk, north of Copenhagen, Denmark's best-loved modern art museum: pavilions by the sea with collections by Giacometti, Picasso and contemporary art, and a sculpture garden by the sea.",
+        come: "Train from Copenhagen H to Humlebæk (about 35-40 minutes), then a 10-minute walk.",
+        quando: "All day, with lunch at the cafe with a sea view.",
+        tempo: "half a day",
+        url: "https://www.louisiana.dk",
+        consiglio: "Book your entry online at weekends."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 day",
+        tappe: [
+          "Nyhavn in the morning",
+          "Amalienborg at noon",
+          "Rosenborg and Kongens Have",
+          "Afternoon canal boat",
+          "Evening at Tivoli"
+        ]
+      },
+      {
+        titolo: "2 days",
+        tappe: [
+          "Day 1 as above",
+          "Day 2: Christianshavn (Vor Frelsers Kirke)",
+          "Christiania",
+          "Torvehallerne for lunch",
+          "Evening: Vesterbro"
+        ]
+      },
+      {
+        titolo: "3 days",
+        tappe: [
+          "Days 1-2 as above",
+          "Day 3: Louisiana or Kronborg Castle in Helsingør"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Indre By (centre)",
+        perChi: "Those short of time",
+        testo: "Near Nyhavn and Strøget; small rooms and high prices, evening noise in the pedestrian streets."
+      },
+      {
+        nome: "Vesterbro",
+        perChi: "Those who want nightlife and restaurants",
+        testo: "Near the central station, with food and venues. The station area is livelier."
+      },
+      {
+        nome: "Nørrebro",
+        perChi: "Those who prefer a real neighbourhood and mid prices",
+        testo: "Multicultural, with cafes and shops; 15 minutes by bike from the centre."
+      },
+      {
+        nome: "Christianshavn",
+        perChi: "Those who want canal atmosphere",
+        testo: "Calm and picturesque, near Christiania; fewer cheap restaurants."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Smørrebrød",
+        testo: "Rye bread with fish, meat or egg, the traditional Danish lunch; try it at Torvehallerne."
+      },
+      {
+        nome: "Wienerbrød",
+        testo: "Danish puff pastry, in cinnamon (kanelsnegl) or custard versions."
+      },
+      {
+        nome: "Røde pølser",
+        testo: "The red sausage of the kiosks (pølsevogn), with mustard and fried onion."
+      },
+      {
+        nome: "Frikadeller",
+        testo: "Baked pork meatballs with potatoes and red cabbage."
+      }
+    ],
+    attenzioni: [
+      "Bicycles: stay out of the bike lanes and look before stepping off the pavement.",
+      "Pickpockets on Strøget, at the central station and in Nyhavn.",
+      "Christiania: do not photograph Pusher Street, and do not buy anything from illegal stalls.",
+      "Nyhavn venues with inflated prices: check the menu before sitting."
+    ],
     esperienzeSlugs: ['nyhavn-giro-in-barca', 'copenaghen-tour-in-bicicletta', 'christiania-visita', 'smorrebrod-tour-torvehallerne'],
     tripSlugs: ['capitali-nordiche'],
     imageAlt: "Central Copenhagen lit up at night seen from above, with the City Hall square and streets full of lights",

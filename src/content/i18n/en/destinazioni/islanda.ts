@@ -26,6 +26,53 @@ export const destinazioniIslanda: Destinazione[] = [
     erroriDaEvitare: ["The last bus 55 leaves just after 11 p.m.: don't miss it to get back to the hotel"],
     miaEsperienza:
       "Keflavík was a short stop, but it's tied to one of my strongest memories of Iceland: during the trip, on the Reykjanes peninsula, a few minutes from here, I saw an erupting volcano up close, going on my own, without a tour.",
+    luoghi: [
+      {
+        nome: "Reykjanes Peninsula and volcanic area",
+        testo: "The south-west tip of the island, a few minutes from the airport: lava fields, craters and steam vents along a ridge between two tectonic plates. Since 2021 the area has seen a series of eruptions, and the accessible trails change from time to time.",
+        come: "By car from Keflavík. Check trail status and closures on the official sites before leaving; during an eruption go only where the authorities allow.",
+        quando: "In clear, calm weather; in summer the long daylight lets you go in the evening too.",
+        tempo: "half a day",
+        url: "https://safetravel.is",
+        consiglio: "I went on my own, without a tour: always check gas, wind and closures before leaving."
+      },
+      {
+        nome: "Bridge Between Continents (Midlina)",
+        testo: "A small footbridge over the rift between the North American and Eurasian plates, at Sandvík. A symbolic crossing, handy for a half-hour stop between the airport and Reykjanes.",
+        come: "By car, about 15 minutes from Keflavík; free parking near the bridge.",
+        quando: "Any time; it is outdoors and always open.",
+        tempo: "30 minutes",
+        costo: "free entry",
+        consiglio: "Easy to combine with the Reykjanesviti lighthouse and the Gunnuhver geothermal area."
+      },
+      {
+        nome: "Keflavík centre and waterfront",
+        testo: "A quiet port town with a seafront, a rocky coast and the Icelandic Museum of Rock'n'Roll. For late arrivals it is the place to eat without going far.",
+        come: "On foot from the centre or by bus 55 from the airport (about 20 minutes).",
+        quando: "At sunset, very late in summer.",
+        tempo: "1-2 hours",
+        consiglio: "The last bus 55 leaves just after 23:00: plan your return accordingly."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Mixed fish",
+        testo: "Cod, haddock and Arctic char pan-fried or in soup are the staples of the harbour restaurants; at Kaffi Duus that is what we ate."
+      },
+      {
+        nome: "Skyr",
+        testo: "A thick dairy product similar to yogurt, sold in every supermarket: a cheap, high-protein breakfast."
+      },
+      {
+        nome: "Icelandic hot dog (pylsur)",
+        testo: "A lamb sausage with raw and fried onion and sauces; found at gas stations and kiosks, cheap."
+      }
+    ],
+    attenzioni: [
+      "Volcano and gas: during eruptions follow only official guidance (safetravel.is, vedur.is) and never approach lava flows.",
+      "With a rental car, check cover for sand, ash and gravel damage, which the basic insurance often excludes.",
+      "Fill up before leaving the Reykjavík area: in the East and North, pumps are rare and often unmanned."
+    ],
     esperienzeSlugs: ['vulcano-reykjanes'],
     tripSlugs: ['islanda-2024'],
     imageAlt: "Glowing lava flow during a night eruption on the Reykjanes peninsula, near Keflavík",
@@ -61,6 +108,81 @@ export const destinazioniIslanda: Destinazione[] = [
     ],
     miaEsperienza:
       "At the end of July at midnight there was still light, so after dinner I decided at the last minute not to go to bed and to reach the wreck on foot. After an already full day it was a slog, but it's probably the most absurd moment of the trip, and the one I remember best.",
+    luoghi: [
+      {
+        nome: "Þingvellir",
+        testo: "A national park and UNESCO site in the rift between two tectonic plates, where the first Icelandic parliament met in 930. You walk between basalt walls and the lake, with the Almannagjá fault as the passage.",
+        come: "By car from Reykjavík (about 45-50 minutes) or from Keflavík. Trails start from the visitor centre; no guide needed.",
+        quando: "Early morning or evening, to avoid the buses; in summer open at all hours.",
+        tempo: "1-2 hours",
+        url: "https://www.thingvellir.is",
+        consiglio: "Parking and the visitor centre are paid: check current rates on the official site."
+      },
+      {
+        nome: "Geysir and Strokkur",
+        testo: "A geothermal area on the Golden Circle. The original Geysir is almost dormant, but Strokkur erupts jets 15-20 metres high every few minutes.",
+        come: "Stop from the road, free access to the geothermal field; the paths are short.",
+        quando: "When the wind blows the steam away from the crowd; always open.",
+        tempo: "45 minutes",
+        costo: "free entry",
+        consiglio: "Stay upwind and away from the pools: the water is close to 100 degrees."
+      },
+      {
+        nome: "Gullfoss",
+        testo: "The 'golden waterfall': two drops (about 11 and 21 metres) into a narrow gorge of the Hvítá river. A walkway leads to the edge, in the spray.",
+        come: "Parking nearby; two levels of paths, the lower one reaching the edge is often closed in winter because of ice.",
+        quando: "Early morning or evening, with low-angle light.",
+        tempo: "45 minutes",
+        costo: "free entry",
+        consiglio: "Wear a waterproof: the spray reaches the paths."
+      },
+      {
+        nome: "Seljalandsfoss and Gljúfrabúi",
+        testo: "Seljalandsfoss falls 60 metres and you can go around it on a slippery path behind the curtain. 500 metres away, hidden in a crack, Gljúfrabúi can be seen by wading into the stream.",
+        come: "Paid parking (700 ISK when I went); short path, often muddy.",
+        quando: "Summer evening, when the sun hits the fall from the west.",
+        tempo: "1 hour",
+        costo: "parking 700 ISK (my own figure, to be rechecked)",
+        consiglio: "Waterproof shoes to get inside the Gljúfrabúi gorge."
+      },
+      {
+        nome: "Skógafoss",
+        testo: "A waterfall 25 metres wide and 60 high, on the old sea cliff. A side staircase climbs to the top and continues toward the Fimmvörðuháls trail.",
+        come: "Parking at the foot; the campsite next door is handy for the evening.",
+        quando: "Afternoon, for the rainbow when it is sunny.",
+        tempo: "45 minutes",
+        costo: "free entry",
+        consiglio: "Climb the wooden stairs for the view from above: the platform also shows the coast."
+      },
+      {
+        nome: "DC-3 wreck at Sólheimasandur",
+        testo: "A US military plane that crashed in 1973 on a plain of black sand. The area is bare and windswept; in recent years you can no longer drive there.",
+        come: "Park on the Ring Road and walk 4 km each way (40-60 minutes) on flat sand. No guide needed.",
+        quando: "Late in summer, when the sun grazes the horizon; at night you need a torch.",
+        tempo: "2-3 hours round trip",
+        consiglio: "We went at midnight in late-July light: bring water and a power bank, the route has no landmarks."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Kjötsúpa",
+        testo: "Lamb soup with root vegetables, typical of windy days: found at the waterfall kiosks and gas station cafes."
+      },
+      {
+        nome: "Rye bread (rúgbrauð)",
+        testo: "Dark, sweet bread baked underground by geothermal heat, served with butter and smoked trout at Laugarvatn."
+      },
+      {
+        nome: "Packed lunch",
+        testo: "The supermarkets Bónus and Krónan are the cheapest in Iceland: shop and cook at the campsite to halve your costs."
+      }
+    ],
+    attenzioni: [
+      "At Reynisfjara and other black beaches sneaker waves arrive without warning: never turn your back on the sea.",
+      "F-roads and unbridged fords require a 4x4 and are usually not covered by basic rental insurance.",
+      "Wild camping with a tent is very limited: use campsites (low cost, clean facilities) and respect signs.",
+      "Outside the Reykjavík area many fuel pumps are automatic: carry a card with a PIN."
+    ],
     esperienzeSlugs: ['relitto-aereo-solheimasandur', 'golden-circle'],
     tripSlugs: ['islanda-2024'],
     imageAlt: "DC-3 plane wreck abandoned on the black sand of Sólheimasandur, Iceland",
@@ -97,6 +219,71 @@ export const destinazioniIslanda: Destinazione[] = [
     erroriDaEvitare: ['At Reynisfjara always follow the safety signs: the waves are unpredictable'],
     miaEsperienza:
       "The glacier trek and the kayaking among the icebergs were two of the most intense experiences of the trip. I did the trek with Troll Expeditions.",
+    luoghi: [
+      {
+        nome: "Dyrhólaey",
+        testo: "A headland with a lava arch in the sea and a lighthouse, with a great view of the south coast. In spring part of the area closes for bird nesting, and between May and August you can see puffins.",
+        come: "By car, gravel road to drive with care up to the high parking lot.",
+        quando: "Late spring and summer for puffins; at sunset for the light.",
+        tempo: "1 hour",
+        costo: "free entry",
+        consiglio: "Check seasonal closures before going up."
+      },
+      {
+        nome: "Reynisfjara",
+        testo: "A black sand beach with basalt columns and the Reynisdrangar sea stacks. One of the most photogenic and dangerous beaches in Iceland because of sudden waves.",
+        come: "Parking and a short path; signs with a traffic-light system show sea conditions.",
+        quando: "Early morning, when there are fewer buses.",
+        tempo: "1 hour",
+        costo: "free entry",
+        consiglio: "Follow the safety instructions: the waves reach much higher than it looks."
+      },
+      {
+        nome: "Fjaðrárgljúfur",
+        testo: "A winding canyon nearly 100 metres deep and about 2 km long, with moss-covered walls. The trail climbs the rim with continuous views.",
+        come: "Parking close to the road; a well-kept trail to walk.",
+        quando: "Summer, with the river low; in spring it may be closed because of mud.",
+        tempo: "1 hour",
+        costo: "free entry",
+        consiglio: "Stay on the path: protecting the moss was one of the reasons for past closures."
+      },
+      {
+        nome: "Skaftafell and Svartifoss",
+        testo: "In Vatnajökull National Park, trails among birches and glacier tongues. The most popular one leads to the Svartifoss waterfall, framed by basalt columns.",
+        come: "From the Skaftafell visitor centre about 1.5 km uphill, 45 minutes each way.",
+        quando: "Summer, with long daylight; the trail is closed or icy in the cold months.",
+        tempo: "2-3 hours",
+        url: "https://www.vatnajokulsthjodgardur.is",
+        consiglio: "Parking is paid; the visitor centre has a cafe and weather information."
+      },
+      {
+        nome: "Jökulsárlón glacier lagoon and Diamond Beach",
+        testo: "A lagoon with icebergs calved from the Breiðamerkurjökull glacier, which drift out to sea through a channel. On the black sand beach across the road the ice blocks sparkle like diamonds.",
+        come: "Free parking near the lagoon. You can take an amphibious boat or Zodiac tour with local operators; kayaking must be booked ahead.",
+        quando: "Early morning or evening; in summer the light never fades.",
+        tempo: "2-3 hours",
+        url: "https://www.vatnajokulsthjodgardur.is",
+        consiglio: "Kayaking among the icebergs is among my strongest memories: I did not note the operator and price, so check current offers."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 day from Vík to Höfn",
+        tappe: [
+          "Early start from Vík heading east",
+          "Dyrhólaey and Reynisfjara",
+          "Fjaðrárgljúfur",
+          "Skaftafell (Svartifoss) or a glacier trek",
+          "Jökulsárlón and Diamond Beach",
+          "Arrive in Höfn for the night"
+        ]
+      }
+    ],
+    attenzioni: [
+      "Reynisfjara: sneaker waves, stay away from the water.",
+      "On the glacier go only with licensed guides: crampons and ice axe are really needed.",
+      "Check the wind before leaving: strong gusts can damage car doors, a damage not covered by basic insurance."
+    ],
     esperienzeSlugs: ['trekking-ghiacciaio-vatnajokull', 'kayak-jokulsarlon'],
     tripSlugs: ['islanda-2024'],
     imageAlt: 'A large blue iceberg floating on the Jökulsárlón glacier lagoon, with the Vatnajökull mountains behind',
@@ -123,6 +310,47 @@ export const destinazioniIslanda: Destinazione[] = [
     costi: "Vestrahorn campsite ~2,800 ISK/night, municipal campsite ~1,800 ISK/night.",
     erroriDaEvitare: [],
     miaEsperienza: "After the most intense day of the trip, Höfn was a quiet stop, handy for resting before the long stretch toward the East Fjords the next day.",
+    luoghi: [
+      {
+        nome: "Vestrahorn and Stokksnes",
+        testo: "A 454 metre gabbro mountain mirrored in the black dunes of Stokksnes beach. One of the most photographed places in Iceland.",
+        come: "After the road to Stokksnes there is a paid entrance run by the private landowner; then a few minutes on foot.",
+        quando: "Sunrise or sunset, with shallow water for reflections.",
+        tempo: "1-2 hours",
+        costo: "paid entrance (rate to be checked on site)",
+        consiglio: "The ticket includes the Viking Village: you do the two together."
+      },
+      {
+        nome: "Viking Village",
+        testo: "A Viking village built in 2010 as a film set for a movie never made, now left to horses to graze. Next to it is the campsite at the foot of Vestrahorn.",
+        come: "Reached from the same road as Stokksnes.",
+        quando: "Low-light hour, when Vestrahorn stands out in the background.",
+        tempo: "30 minutes",
+        consiglio: "The horses roam free: do not feed them or get too close."
+      },
+      {
+        nome: "Höfn harbour and langoustine",
+        testo: "A fishing town known for its langoustine (called lobster), with a small harbour and beautiful views of the Vatnajökull glacier from the waterfront.",
+        come: "On foot from the municipal campsite.",
+        quando: "Dinner: restaurants fill up early in summer.",
+        tempo: "1-2 hours",
+        consiglio: "Book dinner in Höfn in summer."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Icelandic langoustine (humar)",
+        testo: "Small, sweet prawns served in soup, grilled or with garlic butter: typical of Höfn."
+      },
+      {
+        nome: "Fish soup",
+        testo: "A creamy soup with the catch of the day, sometimes with rye bread."
+      }
+    ],
+    attenzioni: [
+      "In high season Höfn is full: book campsite and dinner ahead.",
+      "The eastern stretch of the Ring Road has few pumps: fill up in Höfn."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['islanda-2024'],
     imageAlt: 'Vestrahorn mountain and black sand beach near Höfn, Iceland',
@@ -152,6 +380,55 @@ export const destinazioniIslanda: Destinazione[] = [
     costi: "Campsite about 2,000 ISK per person.",
     erroriDaEvitare: [],
     miaEsperienza: "The Vök Baths came at just the right moment: after two days of hiking and wind, it was the first real hot bath of the trip.",
+    luoghi: [
+      {
+        nome: "East Fjords",
+        testo: "The coastal Route 1 between Höfn and Egilsstaðir follows every fjord, with steep mountains, waterfalls and fishing villages. About 250 km: 4-5 hours with stops.",
+        come: "By car; there are no shortcuts and the weather changes fast.",
+        quando: "Summer, for visibility; in winter the Öxi pass may close.",
+        tempo: "a full day",
+        url: "https://safetravel.is",
+        consiglio: "Plan breaks in villages like Djúpivogur, and fill up beforehand."
+      },
+      {
+        nome: "Seyðisfjörður",
+        testo: "An artists' village in a deep fjord, with colourful wooden houses, the blue church and the rainbow street. You arrive by descending a mountain pass (Fjarðarheiði) with beautiful waterfalls.",
+        come: "About 30 minutes by car from Egilsstaðir; it is also the port for the ferry from the Faroe Islands and Denmark.",
+        quando: "Summer; the pass can be closed by snow from autumn to spring.",
+        tempo: "half a day",
+        consiglio: "Walk to the waterfalls along the road, with several stops."
+      },
+      {
+        nome: "Vök Baths",
+        testo: "Floating geothermal pools on Lake Urriðavatn, a short drive from Egilsstaðir, with a bar on the water. The first real hot bath after days of trekking and wind.",
+        come: "By car, about 10 minutes from Egilsstaðir. Better to book online at weekends.",
+        quando: "Evening, for the light and the steam on the water.",
+        tempo: "2 hours",
+        consiglio: "Check current prices on the official site before going."
+      },
+      {
+        nome: "Lagarfljót and Hallormsstaður forest",
+        testo: "The largest forest in Iceland, with tall trees and trails along the long, narrow Lagarfljót lake. A real surprise in a country almost without trees.",
+        come: "About 30 minutes by car from Egilsstaðir.",
+        quando: "Summer and early autumn for the colours.",
+        tempo: "2 hours",
+        consiglio: "Small and quiet, ideal as a break from driving."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Reindeer (hreindýr)",
+        testo: "In the East reindeer meat is on the menu in local restaurants: pan-seared or in a stew."
+      },
+      {
+        nome: "Bakery bread and pastries",
+        testo: "In small villages the bakeries are excellent: kleina (fried dough) and vínarbrauð (pastry with cream)."
+      }
+    ],
+    attenzioni: [
+      "Mountain roads like Fjarðarheiði and Öxi can close due to snow or fog: check road.is.",
+      "Fuel pumps in the fjords are far apart: fill up when you can."
+    ],
     esperienzeSlugs: ['terme-naturali-islanda'],
     tripSlugs: ['islanda-2024'],
     imageAlt: "Village of Seyðisfjörður among the snow-covered mountains of an Icelandic East fjord",
@@ -186,6 +463,48 @@ export const destinazioniIslanda: Destinazione[] = [
     costi: "check the campsite price when booking",
     erroriDaEvitare: ["Don't leave the campsite unbooked in high season: the area is very remote and alternatives are few"],
     miaEsperienza: "You hear Dettifoss before you see it: the roar and the force of the muddy water are among the most physical memories of the trip.",
+    luoghi: [
+      {
+        nome: "Stuðlagil",
+        testo: "A canyon with basalt columns up to 30 metres high and turquoise water, known only since 2017, when a dam lowered the river. There are two accesses, one with a viewing platform and one with a trail down to the riverbed.",
+        come: "Last stretch on a gravel road from the asphalt; short, well-kept trails.",
+        quando: "Summer, with the river low and full light.",
+        tempo: "1-2 hours",
+        consiglio: "The trail down to the river is better than the platform but needs suitable shoes."
+      },
+      {
+        nome: "Dettifoss",
+        testo: "A waterfall 100 metres wide and 44 high, considered the most powerful in Europe by volume. The water is muddy and grey, and the noise carries far.",
+        come: "From Route 862 (paved) on the west side, the best view; a path of about 1 km from the parking lot.",
+        quando: "Summer; in spring the flow is at its peak.",
+        tempo: "1 hour",
+        costo: "free entry",
+        url: "https://www.vatnajokulsthjodgardur.is",
+        consiglio: "You hear it before you see it: stay behind the chains, the edge is slippery."
+      },
+      {
+        nome: "Ásbyrgi canyon",
+        testo: "A horseshoe-shaped gorge 3.5 km long and 1 wide, with walls up to 100 metres and a birch forest on the floor. According to legend it is the hoofprint of Odin's horse.",
+        come: "From the parking lot a flat trail leads to the Botnstjörn pond.",
+        quando: "Evening or morning, with low light on the walls.",
+        tempo: "2 hours",
+        costo: "free entry",
+        url: "https://www.vatnajokulsthjodgardur.is",
+        consiglio: "The national park campsite is on the canyon floor, with excellent facilities."
+      },
+      {
+        nome: "Hljóðaklettar",
+        testo: "Basalt columns grown in a circle, which from above look like a flower in stone, near Ásbyrgi. A short walk, the best in the area for geology lovers.",
+        come: "A few kilometres from Ásbyrgi; a well-marked path.",
+        quando: "Summer.",
+        tempo: "1 hour",
+        consiglio: "Easy to combine with Ásbyrgi in the morning."
+      }
+    ],
+    attenzioni: [
+      "The area is remote: fill up with fuel and groceries in Húsavík or Akureyri.",
+      "Gravel roads near Dettifoss east require a 4x4; Route 862 west is paved."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['islanda-2024'],
     imageAlt: 'Aerial view of the horseshoe-shaped Ásbyrgi canyon, Iceland',
@@ -220,6 +539,64 @@ export const destinazioniIslanda: Destinazione[] = [
     costi: "Hamrar campsite ~1,500 ISK/person + tent fee.",
     erroriDaEvitare: [],
     miaEsperienza: "Whale watching in the morning and the geothermal area in the afternoon: it was one of the most varied days of the trip, from open sea to sulfur in a few hours.",
+    luoghi: [
+      {
+        nome: "Whale watching from Húsavík",
+        testo: "Skjálfandi Bay is among the best places in Europe to see humpback and blue whales in summer. Tours leave from Húsavík harbour and last about 3 hours.",
+        come: "Book online with the operator; traditional or fast boats.",
+        quando: "June to August; early morning for calm seas.",
+        tempo: "3 hours",
+        consiglio: "Dress in layers: it is cold on the boat even in summer."
+      },
+      {
+        nome: "Goðafoss",
+        testo: "The 'waterfall of the gods', 30 metres wide and 12 high, where in the year 1000 an Icelandic chieftain is said to have thrown the statues of the old gods after converting to Christianity.",
+        come: "A stop along the Ring Road, with two sides and short paths.",
+        quando: "Summer evening or early morning.",
+        tempo: "30-45 minutes",
+        costo: "free entry",
+        consiglio: "The west side has fewer people and a better view."
+      },
+      {
+        nome: "Mývatn geothermal area",
+        testo: "The lake is ringed by volcanic features: the Hverfjall craters, the sulphur-smelling fumaroles of Hverir and the lava maze of Dimmuborgir. In a few kilometres you see three different landscapes.",
+        come: "By car around the lake; short, well-marked trails.",
+        quando: "Morning, before the groups; in summer the midges are annoying.",
+        tempo: "half a day",
+        consiglio: "Bring a head net: the lake's name means 'midge lake'."
+      },
+      {
+        nome: "Grjótagjá",
+        testo: "A lava cave with a hot spring, known for a Game of Thrones scene. Today you cannot bathe because the temperature is too variable.",
+        come: "Small parking lot and a few steps.",
+        quando: "Any time.",
+        tempo: "20 minutes",
+        costo: "free entry",
+        consiglio: "You can look, not swim."
+      },
+      {
+        nome: "Akureyri town",
+        testo: "The second city of Iceland, at the foot of a long fjord, with a modern church, a botanical garden near the Arctic Circle and a fine mountain view.",
+        come: "On foot from the centre; the Lystigarðurinn botanical garden is free.",
+        quando: "Daytime; evening for the cafes.",
+        tempo: "2-3 hours",
+        consiglio: "Do your shopping here: the supermarkets are better stocked and cheaper than elsewhere in the North."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Campsite barbecue",
+        testo: "Groceries from Akureyri and the shared kitchen or grill at the campsite: the simplest way to save."
+      },
+      {
+        nome: "Icelandic milk ice cream",
+        testo: "In Iceland ice cream is made with milk and eaten all year, even in the cold: try the one from Efstidalur farm or the cafes in the centre."
+      }
+    ],
+    attenzioni: [
+      "The whale tour can be cancelled because of weather: leave a spare day.",
+      "Around Mývatn there are many midges in summer: bring a head cover."
+    ],
     esperienzeSlugs: ['whale-watching-husavik', 'zona-geotermale-myvatn'],
     tripSlugs: ['islanda-2024'],
     imageAlt: 'Steaming hot pool in the sulfur-colored ground of the geothermal area near Lake Mývatn',
@@ -249,6 +626,46 @@ export const destinazioniIslanda: Destinazione[] = [
     costi: "check the campsite price before leaving",
     erroriDaEvitare: ["Allow 6-7 hours of driving with stops: it's the longest transfer of the whole trip"],
     miaEsperienza: "The last dinner in the tent, with a view of Kirkjufell and the fjord, was a nice way to close the \"on the road\" part of the trip, before the final two nights in hotels.",
+    luoghi: [
+      {
+        nome: "Kirkjufell and Kirkjufellsfoss",
+        testo: "The most photographed mountain in Iceland, 463 metres high and hat-shaped, with a waterfall at its foot. The parking lot is next to the falls and no walking is needed.",
+        come: "By car from Route 54; a short stop.",
+        quando: "Sunset, especially in summer; in winter at night for the aurora.",
+        tempo: "1 hour",
+        costo: "free entry",
+        consiglio: "The campsite at the foot of the mountain has the best view without moving."
+      },
+      {
+        nome: "Arnarstapi and Hellnar",
+        testo: "Two former fishing villages on the south coast of Snæfellsnes, joined by a 2.5 km path among cliffs, basalt arches and seabird nests.",
+        come: "Parking in both villages; the path is on foot.",
+        quando: "Summer.",
+        tempo: "1-2 hours",
+        consiglio: "Bring a windproof jacket: it is open sea."
+      },
+      {
+        nome: "Djúpalónssandur",
+        testo: "A black pebble beach with the remains of a shipwreck and lifting stones used to test fishermen. The path descends through lava.",
+        come: "Small parking lot on Route 574; short descent.",
+        quando: "Morning or evening.",
+        tempo: "1 hour",
+        consiglio: "Do not touch the rusty iron of the wreck: it is still dangerous."
+      },
+      {
+        nome: "Guðrúnarlaug",
+        testo: "A natural hot pool at Laugar, in the Sælingsdalur valley, rebuilt on an old spring. It is still little visited and free.",
+        come: "Just off Route 60.",
+        quando: "Evening.",
+        tempo: "1 hour",
+        costo: "free entry",
+        consiglio: "Basic changing room: bring a towel and flip-flops."
+      }
+    ],
+    attenzioni: [
+      "The Akureyri to Snæfellsnes leg is the longest day of driving: 6-7 hours with stops.",
+      "Natural hot pools often have no changing rooms: respect the rules and leave everything clean."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['islanda-2024'],
     imageAlt: 'Kirkjufell mountain and the Kirkjufellsfoss waterfall, Iceland',
@@ -277,6 +694,119 @@ export const destinazioniIslanda: Destinazione[] = [
     costi: "",
     erroriDaEvitare: [],
     miaEsperienza: "After six nights in a tent, the last night in a real bed in Reykjavík was almost surreal: a good way to celebrate the end of the trip before the flight home from Keflavík.",
+    luoghi: [
+      {
+        nome: "Hallgrímskirkja",
+        testo: "A concrete Lutheran church inspired by basalt columns, started in 1945 and finished in 1986. The 74 metre tower has a viewing deck over the city.",
+        come: "In the centre, on foot. Entry to the church and to the tower is separate.",
+        quando: "Morning, when the light is softer; the tower closes in the evening.",
+        tempo: "45 minutes",
+        url: "https://hallgrimskirkja.is",
+        consiglio: "Check the tower hours on the official site: they can change for concerts and services."
+      },
+      {
+        nome: "Harpa and the waterfront",
+        testo: "A glass concert hall on the harbour, opened in 2011, with a honeycomb facade. The waterfront leads to the Sólfar sculpture and the Faxaflói bay.",
+        come: "On foot from the centre; entry to the foyer is free.",
+        quando: "Sunset, when the glass reflects the sky.",
+        tempo: "1 hour",
+        costo: "free entry to the foyer",
+        url: "https://www.harpa.is",
+        consiglio: "Book concert tickets ahead."
+      },
+      {
+        nome: "Perlan and Wonders of Iceland",
+        testo: "A glass-domed building on top of six hot water tanks, with an artificial ice cave, a planetarium and a panoramic terrace.",
+        come: "Outside the centre, by bus or car; handy on a rainy day.",
+        quando: "Daytime, when the weather is bad.",
+        tempo: "2-3 hours",
+        url: "https://perlan.is",
+        consiglio: "Book online to avoid queues."
+      },
+      {
+        nome: "Old town and street art",
+        testo: "Colourful streets around Skólavörðustígur, with design shops, galleries and murals. The Þingholt district has painted corrugated-iron houses.",
+        come: "On foot; the uphill stretch starts at the church.",
+        quando: "Morning or afternoon.",
+        tempo: "2 hours",
+        consiglio: "On Saturdays and Sundays there is the Kolaportið flea market."
+      },
+      {
+        nome: "Kolaportið",
+        testo: "A covered flea market near the harbour on Saturdays and Sundays: second-hand goods, books, souvenirs and a dried fish stall, the most authentic Icelandic food.",
+        come: "On foot from the centre, next to the old harbour.",
+        quando: "Weekends, 11-17.",
+        tempo: "1 hour",
+        consiglio: "Try harðfiskur (dried fish) with butter."
+      },
+      {
+        nome: "Public geothermal pools",
+        testo: "Geothermal pools are part of local social life: Sundhöllin in the centre, Laugardalslaug the largest, Vesturbæjarlaug a short walk from the sea.",
+        come: "By bus or on foot; paid entry, a naked shower is mandatory before getting in.",
+        quando: "Evening, when locals gather.",
+        tempo: "2 hours",
+        consiglio: "Shower without swimwear: it is a hygiene rule Icelanders take seriously."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 day",
+        tappe: [
+          "Hallgrímskirkja and a walk along Skólavörðustígur",
+          "Lunch in the centre",
+          "Harpa and the waterfront",
+          "Evening at a geothermal pool"
+        ]
+      },
+      {
+        titolo: "2 days",
+        tappe: [
+          "Day 1 as above",
+          "Day 2: Golden Circle (Þingvellir, Geysir, Gullfoss) by car or tour",
+          "Dinner in the centre"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Centre (101)",
+        perChi: "Those who want to walk everywhere",
+        testo: "Near Hallgrímskirkja, restaurants and bars. Noisier on weekend evenings, small rooms."
+      },
+      {
+        nome: "Laugardalur",
+        perChi: "Those seeking quiet and lower prices",
+        testo: "Near the pools and the HI hostel; 20 minutes on foot from the centre, with the bus."
+      },
+      {
+        nome: "Near the harbour",
+        perChi: "Those arriving with ferries or tours",
+        testo: "Has modern hotels, close to Harpa."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Bæjarins Beztu Pylsur",
+        testo: "The city's most famous hot dog stand, near the harbour, open for decades."
+      },
+      {
+        nome: "Skyr and pastries",
+        testo: "In the bakeries of the centre: kleina, snúður (cinnamon swirl)."
+      },
+      {
+        nome: "Fresh fish at the harbour",
+        testo: "Fish soups and baked cod in the restaurants of the old harbour."
+      },
+      {
+        nome: "Plokkfiskur",
+        testo: "Mashed cod and potatoes, a home dish found in traditional restaurants."
+      }
+    ],
+    attenzioni: [
+      "High prices: have soup or a hot dog for lunch and eat dinner at bars with a dish of the day to save.",
+      "Taxi drivers are honest, but taxis are expensive: take the bus or drive.",
+      "In the centre's bars on Saturday night alcohol prices are high: check your bill."
+    ],
     esperienzeSlugs: [],
     tripSlugs: ['islanda-2024'],
     imageAlt: 'Art Deco-style spire of the Hallgrímskirkja church in Reykjavík',

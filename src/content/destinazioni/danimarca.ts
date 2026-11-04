@@ -55,6 +55,147 @@ export const destinazioniDanimarca: Destinazione[] = [
       'Sottovalutare la delusione possibile della Sirenetta: è una statua piccola, spesso circondata da folla, da vedere durante una passeggiata sul lungomare più che come meta a sé',
       'Dare per scontato che si paghi in euro: la Danimarca non è nell\'eurozona, si paga in corone danesi (DKK)',
     ],
+    luoghi: [
+      {
+        nome: "Nyhavn",
+        testo: "Il canale del Seicento con le facciate colorate delle case dei mercanti, oggi una fila di caffè e ristoranti sul molo. È il punto più fotografato della città, e da qui partono i battelli per i canali.",
+        come: "A piedi da Kongens Nytorv (5 minuti) o in metro (M1/M2) fino a Kongens Nytorv.",
+        quando: "Mattina presto per le foto; sera per i tavoli sul molo, più cari.",
+        tempo: "1 ora",
+        costo: "ingresso libero",
+        consiglio: "I locali sul lato soleggiato costano molto: spesso conviene cenare una strada più in là."
+      },
+      {
+        nome: "Castello di Rosenborg",
+        testo: "Castello rinascimentale costruito da Cristiano IV tra il 1606 e il 1634, con i gioielli della corona nel sotterraneo e i giardini del Kongens Have. Le sale conservano arredi originali.",
+        come: "Metro o a piedi fino a Nørreport (10 minuti dal centro).",
+        quando: "Mattina nei giorni feriali; parco aperto a tutti, gratuito.",
+        tempo: "1,5 ore",
+        consiglio: "Il Kongens Have è un buon posto per un picnic gratuito."
+      },
+      {
+        nome: "Amalienborg",
+        testo: "Quattro palazzi rococò attorno a una piazza ottagonale, residenza della famiglia reale. Il cambio della guardia si svolge a mezzogiorno, con una marcia che parte da Rosenborg.",
+        come: "A piedi da Nyhavn, lungo il lungomare (10 minuti).",
+        quando: "Mezzogiorno per la cerimonia.",
+        tempo: "1 ora",
+        costo: "cambio della guardia gratuito",
+        url: "https://www.kongernessamling.dk",
+        consiglio: "Salire sul Marmorkirken lì vicino per la cupola e la vista."
+      },
+      {
+        nome: "Tivoli Gardens",
+        testo: "Aperto nel 1843, è uno dei parchi divertimento più antichi del mondo ancora in funzione, in pieno centro. Giardini curati, montagne russe storiche in legno e luci al tramonto.",
+        come: "A piedi dalla stazione centrale (5 minuti). Aperto a stagioni: estate, Halloween e Natale.",
+        quando: "Sera, quando si accendono le luci.",
+        tempo: "3-4 ore",
+        url: "https://www.tivoli.dk",
+        consiglio: "Il biglietto d'ingresso è separato da quello delle giostre: controllare le formule sul sito."
+      },
+      {
+        nome: "Christianshavn e Vor Frelsers Kirke",
+        testo: "Quartiere con canali minori, case galleggianti e la chiesa del Salvatore, famosa per la scala a spirale esterna dorata che sale sul campanile. La salita è stretta e ripida, con vista su tutta Copenaghen.",
+        come: "Metro M1/M2 fino a Christianshavn o a piedi dal centro (15 minuti).",
+        quando: "Giorno sereno; la torre chiude con vento forte, neve o ghiaccio.",
+        tempo: "1-2 ore",
+        url: "https://www.vorfrelserskirke.dk",
+        consiglio: "La salita non è adatta a chi soffre di vertigini."
+      },
+      {
+        nome: "Christiania",
+        testo: "Una «città libera» nata nel 1971 in un'ex area militare: case autocostruite, murales, atelier e locali. Ha regole proprie: niente foto in Pusher Street e niente corse.",
+        come: "A piedi da Christianshavn, ingresso dalla Prinsessegade.",
+        quando: "Giorno; la sera è meno consigliabile per i visitatori occasionali.",
+        tempo: "1-2 ore",
+        costo: "ingresso libero",
+        url: "https://www.christiania.org",
+        consiglio: "Rispettare le regole all'ingresso e non fotografare le bancarelle."
+      },
+      {
+        nome: "Louisiana Museum of Modern Art",
+        testo: "A Humlebæk, a nord di Copenaghen, il museo d'arte moderna più amato di Danimarca: padiglioni sul mare con collezioni di Giacometti, Picasso e arte contemporanea, giardino di sculture sul mare.",
+        come: "Treno da Copenhagen H fino a Humlebæk (circa 35-40 minuti), poi 10 minuti a piedi.",
+        quando: "Giorno intero, con pranzo al caffè con vista sul mare.",
+        tempo: "mezza giornata",
+        url: "https://www.louisiana.dk",
+        consiglio: "Prenotare l'ingresso online nei weekend."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Nyhavn al mattino",
+          "Amalienborg a mezzogiorno",
+          "Rosenborg e Kongens Have",
+          "Pomeriggio in battello sui canali",
+          "Sera a Tivoli"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1 come sopra",
+          "Giorno 2: Christianshavn (Vor Frelsers Kirke)",
+          "Christiania",
+          "Torvehallerne a pranzo",
+          "Sera: Vesterbro"
+        ]
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: Louisiana o castello di Kronborg a Helsingør"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Indre By (centro)",
+        perChi: "Chi ha poco tempo",
+        testo: "Vicino a Nyhavn e Strøget; camere piccole e prezzi alti, rumore di sera nelle vie pedonali."
+      },
+      {
+        nome: "Vesterbro",
+        perChi: "Chi vuole vita notturna e ristoranti",
+        testo: "Vicino alla stazione centrale, con cibo e locali. Zona della stazione più movimentata."
+      },
+      {
+        nome: "Nørrebro",
+        perChi: "Chi preferisce un quartiere vero e prezzi medi",
+        testo: "Multiculturale, con caffè e negozi; 15 minuti in bicicletta dal centro."
+      },
+      {
+        nome: "Christianshavn",
+        perChi: "Chi cerca atmosfera di canale",
+        testo: "Calmo e pittoresco, vicino a Christiania; meno ristoranti economici."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Smørrebrød",
+        testo: "Pane di segale con pesce, carne o uova, il pranzo tradizionale danese; si assaggia ai Torvehallerne."
+      },
+      {
+        nome: "Wienerbrød",
+        testo: "La pasta sfoglia danese, in versione cannella (kanelsnegl) o con crema."
+      },
+      {
+        nome: "Røde pølser",
+        testo: "Il würstel rosso dei chioschi (pølsevogn), con senape e cipolla fritta."
+      },
+      {
+        nome: "Frikadeller",
+        testo: "Polpette di maiale al forno con patate e cavolo rosso."
+      }
+    ],
+    attenzioni: [
+      "Biciclette: restare fuori dalle corsie ciclabili e guardare prima di scendere dal marciapiede.",
+      "Borseggiatori su Strøget, alla stazione centrale e a Nyhavn.",
+      "Christiania: non fotografare Pusher Street, e non comprare nulla da bancarelle illegali.",
+      "Locali di Nyhavn con prezzi gonfiati: controllare il menu prima di sedersi."
+    ],
     esperienzeSlugs: ['nyhavn-giro-in-barca', 'copenaghen-tour-in-bicicletta', 'christiania-visita', 'smorrebrod-tour-torvehallerne'],
     tripSlugs: ['capitali-nordiche'],
     imageAlt: 'Il centro di Copenaghen illuminato di notte visto dall\'alto, con la piazza del Municipio e le strade piene di luci',

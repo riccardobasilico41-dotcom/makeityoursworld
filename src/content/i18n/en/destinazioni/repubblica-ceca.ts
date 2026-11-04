@@ -44,6 +44,147 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       "Exchanging currency or paying in euros counting on a favorable \"automatic\" rate: the Czech Republic is not in the eurozone, and the \"converted\" prices displayed in tourist venues are almost always unfavorable",
       "Underestimating the line for the Astronomical Clock or for St. Vitus Cathedral in high season: it's best to arrive early or toward evening",
     ],
+    luoghi: [
+      {
+        nome: "Old Town Square and Orloj",
+        testo: "The central square with the Astronomical Clock tower (1410), the third-oldest astronomical clock in the world still working. Every hour from 9 to 23 the Apostles parade and Death pulls the rope.",
+        come: "On foot, metro A to Staroměstská. The Orloj can be seen from the square, free.",
+        quando: "On the hour, but arrive 10 minutes early; the Town Hall tower has a paid viewing deck.",
+        tempo: "1 hour",
+        costo: "square and show free",
+        url: "https://www.prague.eu",
+        consiglio: "Climb the Town Hall tower for the view of the square."
+      },
+      {
+        nome: "Charles Bridge",
+        testo: "The 516 metre Gothic bridge begun in 1357 for Charles IV, with over 30 baroque statues (copies). It joins the Old Town to Malá Strana and the Castle.",
+        come: "On foot; always open.",
+        quando: "Dawn, when it is empty, or after 21:00.",
+        tempo: "30-45 minutes",
+        costo: "free entry",
+        consiglio: "Pickpockets are active at peak hours; keep your bag in front."
+      },
+      {
+        nome: "Prague Castle and St Vitus Cathedral",
+        testo: "The largest castle complex in the world, with the Gothic St Vitus Cathedral, the Old Royal Palace, St George's Basilica and Golden Lane. The courtyard and gardens are free to enter.",
+        come: "Tram 22 to Pražský hrad, then on foot. Tickets for the circuits at the entrance or online.",
+        quando: "Early morning, at opening; the changing of the guard at noon.",
+        tempo: "3-4 hours",
+        url: "https://www.hrad.cz",
+        consiglio: "For circuits A or B, compare what each ticket includes on the official site."
+      },
+      {
+        nome: "Malá Strana and the John Lennon Wall",
+        testo: "The baroque district at the foot of the Castle, with St Nicholas Church and Kampa island. The Lennon Wall, covered with graffiti since the 1980s, is in the Velkopřevorské náměstí garden.",
+        come: "On foot from Charles Bridge (5 minutes).",
+        quando: "Morning or late afternoon.",
+        tempo: "2 hours",
+        costo: "free entry",
+        consiglio: "Leave the wall as it is: no more drawings are needed."
+      },
+      {
+        nome: "Josefov and the Jewish Museum",
+        testo: "The former Jewish quarter in the heart of Staré Město, with six historic sites: the Old-New Synagogue, the Spanish Synagogue and the Old Jewish Cemetery. One ticket covers the Jewish Museum sites.",
+        come: "Metro A to Staroměstská, then 5 minutes.",
+        quando: "Closed on Saturday and Jewish holidays; morning.",
+        tempo: "2-3 hours",
+        url: "https://www.jewishmuseum.cz",
+        consiglio: "The Old-New Synagogue has a separate ticket."
+      },
+      {
+        nome: "Vyšehrad",
+        testo: "The hilltop fortress to the south, less visited than the Castle, with the Basilica of Saints Peter and Paul and the cemetery of great Czechs (Dvořák, Smetana). The view over the Vltava is excellent.",
+        come: "Metro C to Vyšehrad, then 10 minutes on foot.",
+        quando: "Afternoon.",
+        tempo: "1.5 hours",
+        costo: "park free",
+        url: "https://www.praha-vysehrad.cz",
+        consiglio: "Better than the Castle for those who want to walk in silence."
+      },
+      {
+        nome: "Petřín Hill",
+        testo: "The green hill with the lookout tower (a miniature replica of the Eiffel Tower), the rose garden and a mirror maze. The 1891 funicular climbs from Malá Strana.",
+        come: "Funicular from Újezd; public transport ticket.",
+        quando: "Clear day.",
+        tempo: "2 hours",
+        consiglio: "Walk down through the orchards."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 day",
+        tappe: [
+          "Morning: Prague Castle",
+          "Lunch in Malá Strana",
+          "Charles Bridge",
+          "Old Town Square and Orloj",
+          "Dinner with Czech beer"
+        ]
+      },
+      {
+        titolo: "2 days",
+        tappe: [
+          "Day 1 as above",
+          "Day 2: Josefov",
+          "Petřín or Vyšehrad",
+          "Evening: Vinohrady"
+        ]
+      },
+      {
+        titolo: "3 days",
+        tappe: [
+          "Days 1-2 as above",
+          "Day 3: trip to Kutná Hora or Karlštejn"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Staré Město",
+        perChi: "Those who want to be near the sights",
+        testo: "The tourist heart, very crowded and pricey; noise at night."
+      },
+      {
+        nome: "Malá Strana",
+        perChi: "Those seeking a picturesque district",
+        testo: "Near the Castle, quiet streets; pricier restaurants."
+      },
+      {
+        nome: "Vinohrady",
+        perChi: "Those who want a local atmosphere and better prices",
+        testo: "A residential district with cafes and parks, tram connections."
+      },
+      {
+        nome: "Žižkov",
+        perChi: "Those seeking pubs and nightlife at low prices",
+        testo: "A lively and less touristy district."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Svíčková",
+        testo: "Beef sirloin in vegetable and cream sauce with bread dumplings."
+      },
+      {
+        nome: "Goulash with dumplings",
+        testo: "Beef stew with dumplings, in traditional pubs."
+      },
+      {
+        nome: "Pivo",
+        testo: "Czech beer: Pilsner Urquell, Budvar, Kozel, often served at a low price."
+      },
+      {
+        nome: "Smažený sýr",
+        testo: "Breaded fried cheese, with chips and tartar sauce."
+      }
+    ],
+    attenzioni: [
+      "Currency exchange: avoid the '0% commission' booths in the centre; withdraw from ATMs and refuse to pay in euros.",
+      "Taxis: use Bolt or Liftago, not the ones on the street near tourist squares.",
+      "Pickpockets on Charles Bridge, on tram 22 and near the Orloj.",
+      "Trdelník is not a Czech sweet but a tourist product; local bakeries offer better.",
+      "Transit tickets must be validated or bought with the app."
+    ],
     esperienzeSlugs: ['praga-castello-biglietto', 'praga-josefov-jewish-town', 'praga-degustazione-birra'],
     tripSlugs: ['praga-weekend'],
     imageAlt: "Prague Castle and St. Vitus Cathedral lit up at blue hour, with Charles Bridge and the Vltava in the foreground",

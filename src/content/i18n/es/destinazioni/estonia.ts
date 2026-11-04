@@ -45,6 +45,135 @@ export const destinazioniEstonia: Destinazione[] = [
       'Dar por hecho que el estonio se parece al lituano o al letón: es una lengua ugrofinesa, emparentada con el finés y totalmente ajena a la familia báltica de las otras dos capitales',
       'Ir a Telliskivi el domingo por la noche o el lunes, cuando varios locales y tiendas independientes están cerrados',
     ],
+    luoghi: [
+      {
+        nome: "Plaza del Ayuntamiento (Raekoja plats)",
+        testo: "El corazón medieval de la ciudad, con el Ayuntamiento gótico de 1404, el más antiguo aún en uso del Báltico. En verano tiene mesas al aire libre; en diciembre acoge el mercadillo de Navidad.",
+        come: "A pie desde el puerto (10-15 minutos).",
+        quando: "Temprano por la mañana, para la plaza sin multitudes; el Ayuntamiento abre solo en verano.",
+        tempo: "1 hora",
+        url: "https://www.tallinn.ee",
+        consiglio: "Comprobar los días de cruceros: la plaza se llena de grupos."
+      },
+      {
+        nome: "Toompea y Catedral Alexander Nevsky",
+        testo: "La colina sobre la ciudad baja, con el Castillo de Toompea (sede del Parlamento) y la catedral ortodoxa rusa de 1900, con cúpulas de cebolla. La subida es corta pero panorámica.",
+        come: "A pie desde la Plaza del Ayuntamiento, subiendo por Pikk jalg.",
+        quando: "Mañana.",
+        tempo: "1,5 horas",
+        costo: "entrada libre a la catedral",
+        consiglio: "Para fotos de la ciudad desde arriba, las plataformas de Kohtuotsa y Patkuli."
+      },
+      {
+        nome: "Plataformas panorámicas de Kohtuotsa y Patkuli",
+        testo: "Dos terrazas en Toompea con las vistas clásicas de la ciudad baja, el puerto y el Golfo de Finlandia, con tejados rojos y agujas.",
+        come: "A pie, 5 minutos de la catedral.",
+        quando: "Atardecer, por la luz sobre los tejados.",
+        tempo: "30 minutos",
+        costo: "entrada libre",
+        consiglio: "Kohtuotsa es la más fotografiada, Patkuli es más tranquila."
+      },
+      {
+        nome: "Murallas y torres medievales",
+        testo: "Unos 1,85 km de murallas todavía en pie con una veintena de torres, entre ellas la Kiek in de Kök, torre-cañón cuyo nombre significa «mira en la cocina». Se puede subir a algunas torres.",
+        come: "A pie, por Müürivahe.",
+        quando: "De día, con buenas condiciones.",
+        tempo: "1-2 horas",
+        costo: "12 euros por la entrada a las cuatro torres (dato del sitio, a revisar)",
+        url: "https://www.linnamuuseum.ee",
+        consiglio: "La entrada combinada compensa para varias torres."
+      },
+      {
+        nome: "Iglesia de San Olaf (Oleviste kirik)",
+        testo: "Iglesia con una aguja de 124 metros que en el siglo XVI fue por un tiempo el edificio más alto del mundo. Se sube a la torre por la vista.",
+        come: "A pie, al final de la Plaza del Ayuntamiento.",
+        quando: "Día despejado.",
+        tempo: "45 minutos",
+        url: "https://www.oleviste.ee",
+        consiglio: "Subir a la torre para ver el puerto."
+      },
+      {
+        nome: "Parque y Palacio de Kadriorg, KUMU",
+        testo: "El Palacio, mandado construir por Pedro el Grande en 1718 para su esposa Catalina I, con el parque y el Kumu, el museo de arte estonio, en un edificio moderno en el mismo parque.",
+        come: "Tranvía 1 o 3 hasta Kadriorg, 10 minutos del centro.",
+        quando: "Tarde; el parque es libre.",
+        tempo: "3 horas",
+        costo: "KUMU 12-16 euros según la exposición (dato del sitio, a revisar)",
+        url: "https://kumu.ekm.ee",
+        consiglio: "El parque es un buen lugar para pasear fuera del centro."
+      },
+      {
+        nome: "Telliskivi Creative City",
+        testo: "El antiguo complejo industrial soviético, desde 2009 barrio creativo con arte urbano, estudios, tiendas independientes y restaurantes. El sábado hay un mercadillo.",
+        come: "A pie desde el casco antiguo (15 minutos) o en tranvía.",
+        quando: "Noche, por los locales; sábado por el mercado.",
+        tempo: "2 horas",
+        costo: "entrada libre",
+        consiglio: "Aquí se come muy bien a precios razonables."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 día",
+        tappe: [
+          "Mañana: Plaza del Ayuntamiento",
+          "Toompea y Catedral Nevsky",
+          "Murallas y torres",
+          "Almuerzo en un restaurante medieval",
+          "Noche: Telliskivi"
+        ]
+      },
+      {
+        titolo: "2 días",
+        tappe: [
+          "Día 1 como arriba",
+          "Día 2: Kadriorg y KUMU",
+          "Iglesia de San Olaf",
+          "Noche en el casco antiguo"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Casco antiguo (Vanalinn)",
+        perChi: "Quien quiere ir a pie entre las atracciones",
+        testo: "Calles empedradas y ambiente, pero precios altos y ruido nocturno."
+      },
+      {
+        nome: "Kalamaja",
+        perChi: "Quien busca un barrio de cafés y casas de madera",
+        testo: "Cerca de Telliskivi y del puerto, a 15 minutos del centro."
+      },
+      {
+        nome: "Kesklinn",
+        perChi: "Quien quiere comodidad y centros comerciales",
+        testo: "Moderno, a pocos minutos del casco antiguo."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Leib (pan negro)",
+        testo: "Pan de centeno oscuro, base de la cocina estonia."
+      },
+      {
+        nome: "Kama",
+        testo: "Harina de cereales tostados con kéfir, un postre típico."
+      },
+      {
+        nome: "Verivorst",
+        testo: "Morcilla con cebada, típica de Navidad."
+      },
+      {
+        nome: "Mazapán",
+        testo: "Mazapán estonio, en la confitería Maiasmokk, la cafetería más antigua de la ciudad."
+      }
+    ],
+    attenzioni: [
+      "Los restaurantes con trajes medievales son caros y turísticos: comparar con los de Telliskivi.",
+      "Taxis: usar Bolt, nacido en Estonia, y no los cercanos al puerto de cruceros.",
+      "Los días de cruceros el casco antiguo está abarrotado: ir temprano.",
+      "En invierno el hielo hace peligrosos los adoquines: calzado adecuado."
+    ],
     esperienzeSlugs: ['tallinn-kadriorg-kumu', 'tallinn-telliskivi-creative-city'],
     tripSlugs: ['capitali-baltiche'],
     imageAlt: 'Las casas medievales de colores pastel con tejados a dos aguas en el lado este de la Plaza del Ayuntamiento de Tallin, con las mesas de las cafeterías al aire libre',

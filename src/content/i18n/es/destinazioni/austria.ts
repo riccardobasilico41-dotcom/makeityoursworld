@@ -44,6 +44,149 @@ export const destinazioniAustria: Destinazione[] = [
       "Bajar la guardia en la línea U3 del metro en las horas punta: es la línea más señalada por los carteristas en la ciudad",
       "Subestimar las dimensiones de Schönbrunn: solo la vuelta por el palacio y los jardines principales requiere una buena media jornada",
     ],
+    luoghi: [
+      {
+        nome: "Palacio de Schönbrunn",
+        testo: "La residencia de verano de los Habsburgo, Patrimonio de la UNESCO, con 1.441 salas y jardines barrocos. Se visitan los aposentos de Francisco José y de Sissi, con varios tours.",
+        come: "Metro U4 hasta Schönbrunn (20 minutos del centro). Entradas online con hora.",
+        quando: "Temprano por la mañana, para adelantarse a los grupos; el parque cierra más tarde.",
+        tempo: "3-4 horas",
+        url: "https://www.schoenbrunn.at",
+        consiglio: "La entrada «Imperial Tour» es más corta que la «Grand Tour»: elegir según el tiempo."
+      },
+      {
+        nome: "Hofburg y Museo Sissi",
+        testo: "El palacio imperial en el centro, con aposentos imperiales, la colección de platería y el museo dedicado a Sissi. El complejo alberga también la Escuela Española de Equitación.",
+        come: "Metro U3 hasta Herrengasse, luego a pie (5 minutos).",
+        quando: "Mañana entre semana.",
+        tempo: "2 horas",
+        url: "https://www.hofburg-wien.at",
+        consiglio: "Combinar con un paseo por el Volksgarten, justo al lado."
+      },
+      {
+        nome: "Catedral de San Esteban (Stephansdom)",
+        testo: "El símbolo de Viena, de estilo gótico, con el tejado de tejas de colores y la torre sur de 137 metros. Se puede subir a la torre, unos 343 escalones.",
+        come: "Metro U1/U3 hasta Stephansplatz. La entrada al crucero es gratuita; torre y catacumbas de pago.",
+        quando: "Temprano por la mañana o al atardecer, por la luz en el tejado.",
+        tempo: "1 hora",
+        url: "https://www.stephanskirche.at",
+        consiglio: "Si hay poco tiempo, subir a la torre norte en ascensor."
+      },
+      {
+        nome: "Belvedere",
+        testo: "Dos palacios barrocos con jardín a la italiana, sede de la mayor colección de Klimt, incluido «El beso». El parque es bonito por sí solo.",
+        come: "Tranvía D hasta Schloss Belvedere. Entradas para el Belvedere Superior.",
+        quando: "Temprano por la mañana, para ver «El beso» sin multitudes.",
+        tempo: "2 horas",
+        url: "https://www.belvedere.at",
+        consiglio: "Reservar online para saltarse la cola."
+      },
+      {
+        nome: "Kunsthistorisches Museum",
+        testo: "El gran museo de arte de los Habsburgo, con Bruegel, Rafael, Tiziano y Vermeer. El propio edificio, con su cúpula y escalinata, es una obra de arte.",
+        come: "Metro U2 o U3 hasta Volkstheater, junto al Naturhistorisches Museum.",
+        quando: "Mañana entre semana; comprobar los días de cierre en la web.",
+        tempo: "2-3 horas",
+        url: "https://www.khm.at",
+        consiglio: "La sala de Bruegel es la más famosa, pero por sí sola vale medio museo."
+      },
+      {
+        nome: "Ópera Estatal (Staatsoper)",
+        testo: "Uno de los teatros líricos más importantes del mundo. Se puede visitar con un tour guiado o asistir a un espectáculo con entradas de pie, muy económicas.",
+        come: "Metro U1/U2/U4 hasta Karlsplatz. Las entradas de pie se venden poco antes del comienzo.",
+        quando: "Noche; llegar con antelación para las entradas de pie.",
+        tempo: "3 horas",
+        url: "https://www.wiener-staatsoper.at",
+        consiglio: "Las zonas de pie tienen vista limitada pero acústica excelente."
+      },
+      {
+        nome: "Prater y Riesenrad",
+        testo: "El gran parque con la noria de 1897, célebre por la película «El tercer hombre». Hay atracciones históricas y la larga avenida arbolada.",
+        come: "Metro U1 hasta Praterstern.",
+        quando: "Tarde o noche, por la vista de la ciudad.",
+        tempo: "2 horas",
+        costo: "entrada al parque libre",
+        url: "https://www.wienerriesenrad.com",
+        consiglio: "Subir a la noria al atardecer."
+      },
+      {
+        nome: "Naschmarkt",
+        testo: "El mercado más famoso de Viena: puestos de fruta, especias, aceitunas y restaurantes. Los sábados hay también mercadillo de pulgas.",
+        come: "Metro U4 hasta Kettenbrückengasse.",
+        quando: "De lunes a sábado; el domingo cierra.",
+        tempo: "1-2 horas",
+        consiglio: "El sábado por la mañana es el momento más animado."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 día",
+        tappe: [
+          "Mañana: Stephansdom",
+          "Almuerzo con Schnitzel",
+          "Hofburg y Museo Sissi",
+          "Noche: Naschmarkt o café"
+        ]
+      },
+      {
+        titolo: "2 días",
+        tappe: [
+          "Día 1 como arriba",
+          "Día 2: Schönbrunn por la mañana",
+          "Belvedere y Klimt",
+          "Noche: ópera de pie"
+        ]
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Días 1-2 como arriba",
+          "Día 3: Kunsthistorisches Museum, Prater y Riesenrad"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Innere Stadt (centro)",
+        perChi: "Quien quiere todo a pie",
+        testo: "Cerca de Stephansdom y Hofburg; precios altos, ruido nocturno."
+      },
+      {
+        nome: "Neubau y Mariahilf",
+        perChi: "Quien busca vida cultural y cafés",
+        testo: "Barrios creativos cerca del MuseumsQuartier, buenas conexiones."
+      },
+      {
+        nome: "Leopoldstadt",
+        perChi: "Quien quiere ahorrar y el Prater",
+        testo: "Barrio multicultural, cerca del Prater, con metro directo."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Wiener Schnitzel",
+        testo: "Escalope de ternera empanado, la especialidad vienesa; se encuentra por todas partes."
+      },
+      {
+        nome: "Sachertorte",
+        testo: "Tarta de chocolate con mermelada de albaricoque, del Café Sacher y del Demel."
+      },
+      {
+        nome: "Apfelstrudel",
+        testo: "Strudel de manzana, servido caliente con salsa de vainilla o nata."
+      },
+      {
+        nome: "Tafelspitz",
+        testo: "Carne de vaca hervida con rábano picante y manzana, plato tradicional de la cocina de los Habsburgo."
+      }
+    ],
+    attenzioni: [
+      "Falsos vendedores de entradas con traje de Mozart frente a los teatros: comprar solo en taquilla o en la web.",
+      "Los Fiaker (carruajes) son caros: preguntar el precio antes.",
+      "Billetes de transporte: validar los de papel, los controles son frecuentes.",
+      "Los domingos las tiendas están cerradas, supermercados incluidos.",
+      "En los cafés se deja un 5-10% de propina, no está incluida."
+    ],
     esperienzeSlugs: ['vienna-schonbrunn-biglietto', 'vienna-opera-stehplatz', 'vienna-giro-caffe-storici'],
     tripSlugs: ['vienna-weekend'],
     imageAlt: 'El tejado de tejas esmaltadas en zigzag de colores de la Catedral de San Esteban en Viena, entre las agujas góticas',

@@ -29,6 +29,86 @@ export const destinazioniTransilvania: Destinazione[] = [
     erroriDaEvitare: ['Running out of cash: it is best to withdraw as soon as you land, because many traditional restaurants only accept lei in cash'],
     miaEsperienza:
       "The Palace of the Parliament, with its out-of-scale size, tells the megalomania of the Ceaușescu regime before you even go in. It was one of the most impressive guided visits of the trip.",
+    luoghi: [
+      {
+        nome: "Palace of the Parliament",
+        testo: "The heaviest administrative building in the world, wanted by Ceaușescu and built in the 1980s with a quarter of the historic centre demolished. You visit only on a guided tour, among marble halls, chandeliers and giant carpets.",
+        come: "Metro to Izvor; entrance from the Izvor side. Bring your passport and book ahead.",
+        quando: "Weekday morning; the state rooms may be closed for events.",
+        tempo: "1-1.5 hours",
+        costo: "about 12.5 euros per person (trip figure, to be rechecked)",
+        consiglio: "The oversized scale tells the regime's megalomania even before you go in."
+      },
+      {
+        nome: "Romanian Athenaeum",
+        testo: "The neoclassical concert hall of 1888, with the dome and the circular fresco telling the history of Romania. Home of the George Enescu Philharmonic.",
+        come: "On foot, at Piața Revoluției.",
+        quando: "Morning or on a concert evening.",
+        tempo: "30-45 minutes",
+        costo: "about 2 euros per person (trip figure, to be rechecked)",
+        consiglio: "If possible, attend a concert: the acoustics are excellent."
+      },
+      {
+        nome: "Old Town (Lipscani)",
+        testo: "The historic district of alleys, venues and old inns, today the heart of restaurants and evening life. By day it is quiet, in the evening it explodes with music.",
+        come: "On foot, near Piața Unirii.",
+        quando: "Evening.",
+        tempo: "2 hours",
+        consiglio: "Check menu prices: some places are designed for tourists."
+      },
+      {
+        nome: "Caru' cu Bere",
+        testo: "The beer hall of 1879 with neo-Gothic interiors and painted ceilings, famous for traditional Romanian cooking and folk music shows.",
+        come: "In the centre, Strada Stavropoleos.",
+        quando: "Dinner; book.",
+        tempo: "1.5-2 hours",
+        url: "https://www.carucubere.ro",
+        consiglio: "Try the sarmale and the papanași."
+      },
+      {
+        nome: "Village Museum",
+        testo: "An open-air museum on Lake Herăstrău, with peasant houses from all regions of Romania, rebuilt in the park. You understand rural architecture well.",
+        come: "Metro to Aviatorilor, 10 minutes on foot.",
+        quando: "Morning; the park is pleasant.",
+        tempo: "1.5-2 hours",
+        url: "https://www.muzeul-satului.ro",
+        consiglio: "Combine with a walk in Herăstrău park."
+      },
+      {
+        nome: "Bucharest Thermal Baths (Therme)",
+        testo: "The large thermal and water park at the edge of the city, with pools, saunas and slides. Handy for resting on the last day.",
+        come: "By taxi or shuttle from Bucharest (about 20 minutes).",
+        quando: "All day, especially the last day.",
+        tempo: "full day",
+        costo: "about 35 euros for the full day (trip figure, to be rechecked)",
+        url: "https://therme.ro",
+        consiglio: "Book online to skip the queue."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Sarmale",
+        testo: "Cabbage rolls stuffed with meat and rice, served with sour cream."
+      },
+      {
+        nome: "Mici",
+        testo: "Grilled spiced sausages, eaten with mustard."
+      },
+      {
+        nome: "Papanași",
+        testo: "Fried doughnuts with sour cream and berry jam."
+      },
+      {
+        nome: "Ciorbă",
+        testo: "Traditional sour soup, in tripe or vegetable versions."
+      }
+    ],
+    attenzioni: [
+      "Taxis: use Bolt or Uber or official taxis; from the airport with Cobălcescu or Cris Taxi the fare does not exceed 60 LEI.",
+      "To drive in Romania you need the road vignette (rovinieta), bought online on the official site.",
+      "Pickpockets at Gara de Nord and on the metro.",
+      "The Palace of the Parliament requires a passport: bring it."
+    ],
     esperienzeSlugs: ['palazzo-parlamento', 'terme-bucarest'],
     tripSlugs: ['transilvania-express'],
     imageAlt: 'The Palace of the Parliament in Bucharest, Romania',
@@ -63,6 +143,55 @@ export const destinazioniTransilvania: Destinazione[] = [
     erroriDaEvitare: ["Trusting the prices of the stalls and restaurants around Bran Castle: they are tourist traps"],
     miaEsperienza:
       "In terms of architecture Peleș is perhaps the most beautiful castle of the trip, with interiors cared for down to the details in a way Bran, as fascinating as it is, is not. Bran's link with Dracula is more a tourist invention than a historical fact, but the castle is worth the visit on its own.",
+    luoghi: [
+      {
+        nome: "Peleș Castle",
+        testo: "The summer residence of Carol I, king of Romania, built between 1873 and 1914 in German neo-Renaissance style, with more than 160 rooms. For architecture it is perhaps the most beautiful castle of the trip, with interiors cared for in the smallest details.",
+        come: "Train or car from Bucharest to Sinaia (about 2 hours); from the centre of Sinaia 15 minutes on foot.",
+        quando: "Early morning, to avoid the crush; check closing days on the website.",
+        tempo: "1.5 hours",
+        costo: "about 20 euros per person for first and second floor (trip figure, to be rechecked)",
+        url: "https://peles.ro",
+        consiglio: "Visit first and second floors: the price difference is worth it."
+      },
+      {
+        nome: "Sinaia Monastery",
+        testo: "The monastery founded in 1695 that gives the town its name, with the old and new churches. A short stop before Peleș.",
+        come: "On foot from the centre of Sinaia.",
+        quando: "Morning.",
+        tempo: "45 minutes",
+        costo: "free entry",
+        consiglio: "Silence inside."
+      },
+      {
+        nome: "Bran Castle",
+        testo: "The fourteenth-century medieval fortress on the rock, famous for its link with Dracula. In fact the link is more a tourist invention than a historical fact, but the castle is worth the visit on its own.",
+        come: "From the centre of Brașov, about half an hour by car. Tickets are bought online.",
+        quando: "Early morning; on Monday it opens later.",
+        tempo: "1-1.5 hours",
+        url: "https://www.bran-castle.com",
+        consiglio: "The official 30-40 minute guide is paid in cash on site."
+      },
+      {
+        nome: "Cantacuzino Castle at Bușteni",
+        testo: "A neo-Brâncovenesc castle of 1911 at the foot of the Bucegi. An optional photo stop on the road.",
+        come: "By car or train, about 10 minutes from Sinaia.",
+        quando: "Daytime.",
+        tempo: "30 minutes",
+        consiglio: "Only for those with time."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Lunch in Sinaia",
+        testo: "Restaurant Bucegi with a terrace, or a packed lunch to save time."
+      }
+    ],
+    attenzioni: [
+      "Early morning: the castles fill with groups after 10:00.",
+      "Tickets for Bran are bought online and the guide is paid in cash on site.",
+      "Check closing days: Peleș is closed at least one day a week."
+    ],
     esperienzeSlugs: ['castello-peles', 'castello-bran'],
     tripSlugs: ['transilvania-express'],
     imageAlt: "Bran Castle, \"Dracula's Castle\", in Transylvania, Romania",
@@ -95,6 +224,69 @@ export const destinazioniTransilvania: Destinazione[] = [
     erroriDaEvitare: ["Not booking the smaller traditional restaurants in time"],
     miaEsperienza:
       "The Râșnov Fortress, with the \"RASNOV\" Hollywood-style sign visible from the rock, has more of a Lord of the Rings atmosphere than a Dracula one. It was one of the least touristy gems of the whole trip.",
+    luoghi: [
+      {
+        nome: "Piața Sfatului",
+        testo: "The central square, with the Council House and the Clock Tower, ringed by colourful baroque houses and cafes. Here in the Middle Ages the fate of the city was decided.",
+        come: "On foot, from the centre.",
+        quando: "Morning and evening, when it lights up.",
+        tempo: "1 hour",
+        costo: "free entry",
+        consiglio: "Lunch with soup in a bread bowl at Sergiana."
+      },
+      {
+        nome: "Black Church (Biserica Neagră)",
+        testo: "The largest Gothic church in Romania, built between 1383 and 1477, blackened by the fire of 1689. It has a large organ and a collection of Anatolian carpets.",
+        come: "On foot from Piața Sfatului.",
+        quando: "Morning.",
+        tempo: "45 minutes",
+        consiglio: "The summer organ concerts are a great chance to see it."
+      },
+      {
+        nome: "Mount Tâmpa and the BRAȘOV sign",
+        testo: "The hill above the centre with the Hollywood-style sign and a cable car. From the top you see the whole city.",
+        come: "Cable car or a footpath of about 30 minutes.",
+        quando: "Late afternoon.",
+        tempo: "1.5-2 hours",
+        consiglio: "The walk up is easy but steep in places."
+      },
+      {
+        nome: "Rope Street (Strada Sforii)",
+        testo: "An alley just over a metre wide, considered among the narrowest in Europe, connecting two streets. A quick curiosity in the centre.",
+        come: "On foot, behind Strada Mureșenilor.",
+        quando: "Daytime.",
+        tempo: "10 minutes",
+        costo: "free entry",
+        consiglio: "To combine with a walk around the centre."
+      },
+      {
+        nome: "Râșnov Fortress",
+        testo: "A fortified peasant citadel, with the 'RASNOV' Hollywood-style sign visible from the fortress. The atmosphere is more Lord of the Rings than Dracula, and it is among the least touristy gems of the trip.",
+        come: "About 15 km from Brașov; go up by cable car or on foot.",
+        quando: "Late afternoon, for the light on the fortress.",
+        tempo: "1.5-2 hours",
+        consiglio: "Go up by cable car and down on foot, or vice versa."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Soup in a bread bowl",
+        testo: "Ciorbă served inside a hollowed bread, a Sergiana speciality."
+      },
+      {
+        nome: "Paprika stews",
+        testo: "Traditional meat dishes, as at the Casa Românească inn."
+      },
+      {
+        nome: "Wine and palinka",
+        testo: "They cost more than the local average."
+      }
+    ],
+    attenzioni: [
+      "Prices: wine and palinka in the centre's venues are above average.",
+      "Râșnov Fortress and Brașov are close: organise them in one day.",
+      "In winter there is ice on the Tâmpa path."
+    ],
     esperienzeSlugs: ['fortezza-rasnov'],
     tripSlugs: ['transilvania-express'],
     imageAlt: 'The Râșnov Fortress on a rock near Brașov, Romania',
@@ -132,6 +324,59 @@ export const destinazioniTransilvania: Destinazione[] = [
     erroriDaEvitare: ['Going over on time: it is the longest day behind the wheel of the whole trip (5 hours in total)'],
     miaEsperienza:
       "Salina Turda was one of the nicest surprises of the trip. From a salt mine I didn't expect to go down and find a navigable lake, and even a table football.",
+    luoghi: [
+      {
+        nome: "Sighișoara Citadel and Clock Tower",
+        testo: "One of the last inhabited medieval citadels in Europe, a UNESCO site since 1999. The 64 metre Clock Tower houses a history museum, with a view of the town.",
+        come: "On foot from the car park below; steep lanes.",
+        quando: "Early morning, when it is quiet.",
+        tempo: "2 hours",
+        consiglio: "Climb the tower for the view: the coloured houses from above."
+      },
+      {
+        nome: "Dracula's birthplace and Covered Stairway",
+        testo: "The house where Vlad Țepeș is said to have been born (today a restaurant) and the long wooden staircase of 1642 that climbs to the church on the hill. A short stop among the coloured houses.",
+        come: "On foot in the citadel.",
+        quando: "Morning.",
+        tempo: "1 hour",
+        costo: "birthplace 5 LEI (trip figure, to be rechecked)",
+        consiglio: "The Vlad Dracul restaurant serves local cooking."
+      },
+      {
+        nome: "Viscri and the Fortified Church",
+        testo: "A Saxon village with a fortified church, a UNESCO site, among the best preserved in Transylvania. An optional visit along the route.",
+        come: "About 1h20 by car from Brașov.",
+        quando: "Morning.",
+        tempo: "1-1.5 hours",
+        costo: "12 LEI per person (trip figure, to be rechecked)",
+        consiglio: "An optional but very authentic stop."
+      },
+      {
+        nome: "Salina Turda",
+        testo: "A salt mine that is today an underground park, with a navigable lake, table football, ping pong and a Ferris wheel. It was one of the best surprises of the trip.",
+        come: "By car, about 2 hours from Sighișoara. Entry with ticket; the guide is paid in cash.",
+        quando: "Morning; big groups at weekends.",
+        tempo: "2 hours",
+        costo: "10 euros on weekdays, 12 at weekends; guide 100 LEI in cash (trip figures, to be rechecked)",
+        url: "https://salinaturda.eu",
+        consiglio: "Dress in layers: inside the temperature is low all year."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Gasthaus Altepost",
+        testo: "Local cooking in Sighișoara, mentioned for lunch."
+      },
+      {
+        nome: "Mămăligă",
+        testo: "Polenta with cheese and sour cream, served in local restaurants."
+      }
+    ],
+    attenzioni: [
+      "It is the longest day at the wheel: leave early.",
+      "Tickets for Salina Turda are bought at the entrance; the guide is paid in cash.",
+      "Park outside the Sighișoara citadel."
+    ],
     esperienzeSlugs: ['salina-turda'],
     tripSlugs: ['transilvania-express'],
     imageAlt: 'The colorful houses and cobbled streets of the old town of Sighișoara, Romania',
@@ -168,6 +413,66 @@ export const destinazioniTransilvania: Destinazione[] = [
     erroriDaEvitare: ['Leaving without having checked on the official website that the Transfăgărășan is open', "Feeding the bears or getting out of the car if you spot one"],
     miaEsperienza:
       "The Transfăgărășan lives up to its fame: the hairpin turns climbing up to Lake Bâlea are among the most beautiful roads I've ever driven. The long return to Bucharest on the same day, though, takes its toll.",
+    luoghi: [
+      {
+        nome: "Piața Mare and Brukenthal Museum",
+        testo: "Sibiu's great square, among the most beautiful in Romania, with the Brukenthal Museum, the oldest museum in the country, opened in 1817.",
+        come: "On foot from the centre.",
+        quando: "Morning.",
+        tempo: "2 hours",
+        url: "https://www.brukenthalmuseum.ro",
+        consiglio: "A two-hour city tour with a local guide helps understand the history."
+      },
+      {
+        nome: "Bridge of Lies (Podul Minciunilor)",
+        testo: "The first iron bridge in Romania, from 1859. According to tradition, it creaks if someone tells a lie.",
+        come: "On foot in the old town.",
+        quando: "Evening.",
+        tempo: "15 minutes",
+        costo: "free entry",
+        consiglio: "Take the photo from below, in the lane underneath."
+      },
+      {
+        nome: "Transfăgărășan road",
+        testo: "The mountain road built in the 1970s by Ceaușescu: hairpin bends that climb to Lake Bâlea, among the best roads I have ever driven. Closed in winter.",
+        come: "By car, from Sibiu or Curtea de Argeș. Open roughly from 20 June to 31 October.",
+        quando: "Summer and early autumn; returning to Bucharest on the same day is very long.",
+        tempo: "full day",
+        consiglio: "Leave early: the long return to Bucharest the same day takes its toll."
+      },
+      {
+        nome: "Lake Bâlea",
+        testo: "The glacial lake at 2,034 metres on the Transfăgărășan, with a restaurant and a hut. You arrive by road or by cable car in some seasons.",
+        come: "By car along the road.",
+        quando: "Summer, in clear weather.",
+        tempo: "1 hour",
+        consiglio: "At the Balea Lac Restaurant you eat with a view of the lake."
+      },
+      {
+        nome: "Vidraru Dam",
+        testo: "A 166 metre arch dam on the Argeș river, with a large artificial lake. A panoramic stop on the southern side of the Transfăgărășan.",
+        come: "By car along the road.",
+        quando: "Daytime.",
+        tempo: "30 minutes",
+        costo: "free entry",
+        consiglio: "It can be seen from the road too."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Crama Sibiul Vechi",
+        testo: "Rustic cellar with few tables, booking required."
+      },
+      {
+        nome: "Saxon cuisine",
+        testo: "The city keeps traditional dishes and craft beers."
+      }
+    ],
+    attenzioni: [
+      "The Transfăgărășan is closed from November to June because of snow: check the status before leaving.",
+      "Book a table at the Crama, it has few tables.",
+      "Drive carefully: tight bends and truck and motorbike traffic."
+    ],
     esperienzeSlugs: ['transfagarasan'],
     tripSlugs: ['transilvania-express'],
     imageAlt: 'The hairpin turns of the Transfăgărășan among the mountains of Romania',

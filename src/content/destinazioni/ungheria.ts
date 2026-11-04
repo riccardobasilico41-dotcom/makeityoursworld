@@ -54,6 +54,147 @@ export const destinazioniUngheria: Destinazione[] = [
       'Sottovalutare le terme come una parentesi rilassante da un\'ora: tra ingresso, spogliatoio e code per gli armadietti, meno di due ore e mezza-tre non bastano per goderle',
       'Programmare il weekend senza prenotare in anticipo il tour del Parlamento, che ha ingressi contingentati e va spesso esaurito con giorni di anticipo in alta stagione',
     ],
+    luoghi: [
+      {
+        nome: "Castello di Buda e Palazzo Reale",
+        testo: "Il colle di Buda sopra il Danubio, con il Palazzo Reale, oggi sede di musei (Galleria Nazionale, Museo di Storia). Si sale con la funicolare Sikló o a piedi.",
+        come: "Funicolare da Clark Ádám tér o bus 16 da Széll Kálmán tér.",
+        quando: "Mattina, per evitare i gruppi; i cortili sono liberi.",
+        tempo: "2-3 ore",
+        consiglio: "Dal lato sud del colle si ha la vista migliore sul Danubio."
+      },
+      {
+        nome: "Bastione dei Pescatori e Chiesa di Mattia",
+        testo: "Il Bastione è una terrazza neoromanica del 1902 (mai un vero bastione) con sette torrette che ricordano le tribù magiare. Accanto, la chiesa di Mattia ha il tetto in tegole policrome.",
+        come: "A piedi dal Castello (5 minuti).",
+        quando: "Alba o sera, per le foto senza folla; molta gente a metà giornata.",
+        tempo: "1-1,5 ore",
+        url: "https://www.fishermansbastion.com",
+        consiglio: "Le terrazze più basse sono libere; solo la parte alta ha un biglietto."
+      },
+      {
+        nome: "Parlamento ungherese",
+        testo: "Completato nel 1904, tra i parlamenti più grandi del mondo, in stile neogotico sul Danubio. La visita guidata include la Sacra Corona di Santo Stefano.",
+        come: "Tram 2 o metro M2 fino a Kossuth Lajos tér. I biglietti si prenotano online per un orario.",
+        quando: "Mattina; portare un documento d'identità.",
+        tempo: "1 ora",
+        url: "https://www.parlament.hu",
+        consiglio: "Prenotare con giorni di anticipo, soprattutto in alta stagione."
+      },
+      {
+        nome: "Ponte delle Catene e lungofiume",
+        testo: "Il primo ponte permanente tra Buda e Pest, aperto nel 1849, illuminato di sera. Sulla riva di Pest si trovano le Scarpe sul Danubio, memoriale delle vittime ebree del 1944-45.",
+        come: "A piedi dal centro; tram 2 lungo la riva.",
+        quando: "Sera, quando il ponte e il Parlamento sono illuminati.",
+        tempo: "1 ora",
+        costo: "ingresso libero",
+        consiglio: "Camminare lungo il Danubio da Pest al tramonto."
+      },
+      {
+        nome: "Terme Széchenyi",
+        testo: "Il più grande complesso termale d'Europa, con 18 piscine e acqua tra 27 e 38 gradi, in un edificio giallo neobarocco nel Városliget. Si mescolano gente del posto e turisti.",
+        come: "Metro M1 fino a Széchenyi fürdő.",
+        quando: "Mattina nei giorni feriali; le serate in estate hanno feste.",
+        tempo: "3-4 ore",
+        url: "https://www.szechenyibath.hu",
+        consiglio: "Portare ciabatte e asciugamano, o noleggiarli; le cabine si prenotano all'ingresso."
+      },
+      {
+        nome: "Grande Mercato Coperto",
+        testo: "Un mercato di inizio Novecento con paprika, salami, strudel e il lángos al piano superiore. Chiuso la domenica.",
+        come: "Tram 47/49 fino a Fővám tér.",
+        quando: "Mattina nei giorni feriali; chiuso la domenica.",
+        tempo: "1-1,5 ore",
+        url: "https://www.csarnok.hu",
+        consiglio: "Pagare in fiorini, gli sportelli di cambio qui sono cari."
+      },
+      {
+        nome: "Grande Sinagoga di Via Dohány",
+        testo: "La più grande sinagoga d'Europa, in stile moresco, con il giardino memoriale e la scultura Albero della vita. Fa parte del quartiere ebraico.",
+        come: "Metro M2 fino a Astoria o tram 47/49.",
+        quando: "Chiusa il sabato e nelle feste; mattina nei giorni feriali.",
+        tempo: "1,5 ore",
+        consiglio: "Biglietto cumulativo per sinagoga e museo."
+      },
+      {
+        nome: "Quartiere ebraico e ruin bar",
+        testo: "Il VII distretto è il cuore della vita serale, con bar nati in edifici abbandonati, come lo Szimpla Kert. Di giorno è un quartiere tranquillo con caffè.",
+        come: "A piedi dal centro.",
+        quando: "Sera.",
+        tempo: "2-3 ore",
+        consiglio: "Szimpla Kert la domenica ha anche un mercato contadino."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 giorno",
+        tappe: [
+          "Mattina: Castello di Buda",
+          "Bastione dei Pescatori",
+          "Pranzo con lángos",
+          "Pomeriggio: Ponte delle Catene",
+          "Sera: Parlamento illuminato"
+        ]
+      },
+      {
+        titolo: "2 giorni",
+        tappe: [
+          "Giorno 1 come sopra",
+          "Giorno 2: Széchenyi al mattino",
+          "Grande Mercato Coperto",
+          "Sinagoga e quartiere ebraico, ruin bar"
+        ]
+      },
+      {
+        titolo: "3 giorni",
+        tappe: [
+          "Giorni 1-2 come sopra",
+          "Giorno 3: Isola Margherita, Collina Gellért, House of Terror"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Pest (V e VI distretto)",
+        perChi: "Chi vuole stare a due passi da tutto",
+        testo: "Vicino a Váci utca e Basilica; prezzi più alti e rumore di sera."
+      },
+      {
+        nome: "Quartiere ebraico (VII)",
+        perChi: "Chi cerca vita notturna",
+        testo: "Pieno di bar, rumoroso nel weekend."
+      },
+      {
+        nome: "Buda (I e II distretto)",
+        perChi: "Chi preferisce la tranquillità",
+        testo: "Vicino al Castello, strade silenziose; meno ristoranti economici."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Gulyás",
+        testo: "La zuppa di manzo e paprika, nei ristoranti tradizionali."
+      },
+      {
+        nome: "Lángos",
+        testo: "Focaccia fritta con panna acida e formaggio, tipica del Mercato."
+      },
+      {
+        nome: "Kürtőskalács",
+        testo: "Dolce a spirale cotto sulla brace, con zucchero e cannella."
+      },
+      {
+        nome: "Dobos torta",
+        testo: "Torta a strati con crema al cioccolato e caramello."
+      }
+    ],
+    attenzioni: [
+      "Taxi: usare Bolt o Főtaxi, evitare quelli senza tassametro vicino alle stazioni.",
+      "Bar con «consumazione» in centro a Pest: locali che gonfiano il conto; meglio scegliere bar con menu esposto.",
+      "Cambio: usare gli ATM bancari e rifiutare l'addebito in euro.",
+      "Mezzi pubblici: biglietti da convalidare o con l'app BudapestGO; i controllori multano i turisti.",
+      "Il servizio (12-15%) spesso è già incluso: controllare il conto."
+    ],
     esperienzeSlugs: ['terme-szechenyi', 'terme-gellert', 'crociera-danubio', 'ruin-bar-tour'],
     tripSlugs: ['budapest-weekend'],
     imageAlt: 'Le torri bianche a cono del Bastione dei Pescatori sul colle di Buda, sotto un cielo azzurro',

@@ -71,6 +71,140 @@ export const destinazioniLituania: Destinazione[] = [
         ],
       },
     ],
+    luoghi: [
+      {
+        nome: "Catedral de Vilna y Plaza de la Catedral",
+        testo: "Catedral neoclásica con el campanario separado en forma de torre y las criptas reales de los grandes duques de Lituania. La plaza es el lugar de encuentro de la ciudad, al pie de la colina de Gediminas.",
+        come: "A pie desde el casco antiguo (10 minutos).",
+        quando: "Mañana, por la luz y menos gente.",
+        tempo: "45 minutos",
+        costo: "entrada libre",
+        consiglio: "Detenerse en la piedra «Stebuklas», donde los vilnenses piden un deseo."
+      },
+      {
+        nome: "Colina y Torre de Gediminas",
+        testo: "El símbolo de la ciudad, con los restos del Castillo Superior y la torre que alberga el museo. Se sube a pie o en funicular; desde arriba se ve el casco antiguo.",
+        come: "A pie desde la Plaza de la Catedral; el funicular es de pago.",
+        quando: "Última hora de la tarde, por la luz sobre los tejados rojos del casco antiguo.",
+        tempo: "1,5 horas",
+        costo: "torre unos 8 euros, funicular 2-3 euros (dato del sitio, a revisar)",
+        url: "https://www.lnm.lt",
+        consiglio: "Subir a pie y bajar en funicular, si se quiere ahorrar."
+      },
+      {
+        nome: "Puerta del Amanecer",
+        testo: "La única puerta que queda de las murallas medievales, con la capilla que guarda el icono de la Virgen de la Puerta del Amanecer, lugar de peregrinación. Pasando por debajo se puede oír misa desde fuera.",
+        come: "A pie, a 10 minutos de la Plaza del Ayuntamiento.",
+        quando: "Mañana.",
+        tempo: "30 minutos",
+        costo: "entrada libre",
+        consiglio: "Quitarse el sombrero bajo la puerta, como hacen los fieles."
+      },
+      {
+        nome: "Užupis",
+        testo: "El barrio bohemio al otro lado del arroyo, autoproclamado república el 1 de abril de 1997. En el muro de la calle Paupio están las placas con los 41 artículos de su «constitución», traducidas a decenas de lenguas.",
+        come: "A pie desde el casco antiguo, cruzando el puente.",
+        quando: "De día; el 1 de abril es la fiesta de la independencia.",
+        tempo: "1-2 horas",
+        costo: "entrada libre",
+        consiglio: "Buscar el Ángel de Užupis, la estatuilla símbolo."
+      },
+      {
+        nome: "Iglesias de Santa Ana y Bernardinos",
+        testo: "La iglesia gótica de ladrillo rojo de Santa Ana, junto a la mayor Iglesia de San Francisco y San Bernardino. Juntas forman una de las vistas más fotografiadas.",
+        come: "A pie desde la Catedral (10 minutos).",
+        quando: "Mañana o tarde.",
+        tempo: "30-45 minutos",
+        costo: "entrada libre",
+        consiglio: "El mejor lado para la foto es desde el patio de la iglesia de los Bernardinos."
+      },
+      {
+        nome: "Universidad de Vilna",
+        testo: "Fundada en 1579, tiene trece patios comunicados, la iglesia barroca de San Juan y una biblioteca histórica. Se visita por libre, con entrada.",
+        come: "A pie, en Pilies gatvė.",
+        quando: "Mañana entre semana.",
+        tempo: "1 hora",
+        url: "https://www.vu.lt",
+        consiglio: "Subir al campanario de San Juan para ver el casco antiguo."
+      },
+      {
+        nome: "Palacio de los Grandes Duques y Museo de las Ocupaciones",
+        testo: "El Palacio, reconstruido sobre las ruinas del castillo real, cuenta el Gran Ducado. A poca distancia, el Museo de las Ocupaciones y las Luchas por la Libertad, en la antigua sede del KGB, documenta el periodo soviético.",
+        come: "A pie: el Palacio al pie de la colina, el Museo en Gedimino prospektas.",
+        quando: "Mañana; el museo del KGB cierra los lunes.",
+        tempo: "2 horas cada uno",
+        url: "https://www.genocid.lt",
+        consiglio: "Las celdas del sótano del KGB son duras de visitar, pero importantes."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 día",
+        tappe: [
+          "Mañana: Catedral y Colina de Gediminas",
+          "Almuerzo con cepelinai",
+          "Tarde: Puerta del Amanecer y Pilies gatvė",
+          "Noche: Užupis"
+        ]
+      },
+      {
+        titolo: "2 días",
+        tappe: [
+          "Día 1 como arriba",
+          "Día 2: Universidad y Santa Ana",
+          "Palacio de los Grandes Duques",
+          "Museo del KGB"
+        ]
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Días 1-2 como arriba",
+          "Día 3: excursión a Trakai (ver ficha)"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Casco antiguo",
+        perChi: "Quien quiere ir a pie cerca de todo",
+        testo: "Calles empedradas y vida nocturna; caro y ruidoso los fines de semana."
+      },
+      {
+        nome: "Užupis",
+        perChi: "Quien busca ambiente de artistas",
+        testo: "Tranquilo, a pocos minutos a pie; pocos hoteles."
+      },
+      {
+        nome: "Naujamiestis",
+        perChi: "Quien quiere ahorrar",
+        testo: "Barrio decimonónico justo fuera del centro, conectado a pie o en bus."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Cepelinai",
+        testo: "Grandes albóndigas de patata rellenas de carne o queso, con nata y panceta."
+      },
+      {
+        nome: "Šaltibarščiai",
+        testo: "Sopa fría de remolacha y kéfir, rosa, típica del verano."
+      },
+      {
+        nome: "Kibinai",
+        testo: "Empanadillas rellenas de carne, especialidad caraíta (sobre todo en Trakai)."
+      },
+      {
+        nome: "Kepta duona",
+        testo: "Pan de centeno frito con ajo y queso, tentempié de cerveza."
+      }
+    ],
+    attenzioni: [
+      "Taxis: usar Bolt, muy extendido y económico.",
+      "Alcohol: la venta en tiendas está limitada a ciertas horas y por la noche no se compra.",
+      "Carteristas cerca de la estación y en los mercados.",
+      "En invierno las aceras están heladas: calzado adecuado."
+    ],
     esperienzeSlugs: ['uzupis-repubblica-passeggiata'],
     tripSlugs: ['capitali-baltiche'],
     imageAlt: 'El casco antiguo de Vilna entre el verde, con las cúpulas y los tejados de las iglesias y las colinas boscosas al fondo',
@@ -111,6 +245,48 @@ export const destinazioniLituania: Destinazione[] = [
       "Salir sin comprobar los horarios: el castillo cierra un día a la semana y en temporada baja tiene horarios más cortos",
       "Quedarse en el puente peatonal sin entrar en el museo: las salas interiores, también las de la historia del Gran Ducado, valen la entrada",
       "Pensar que se despacha en pocos minutos: entre ida, visita y vuelta hace falta una media jornada completa",
+    ],
+    luoghi: [
+      {
+        nome: "Castillo de la isla de Trakai",
+        testo: "Castillo gótico de ladrillo rojo en la isla del lago Galvė, construido en los siglos XIV-XV por los grandes duques Kęstutis y Vytautas y reconstruido en el siglo XX. Alberga el Museo Histórico de Trakai.",
+        come: "Desde el pueblo, puente de madera peatonal desde la orilla.",
+        quando: "Mañana entre semana; de octubre a marzo menos gente.",
+        tempo: "2-3 horas",
+        costo: "12 euros en temporada baja, 14 en alta; gratis el último domingo del mes (datos del sitio, a revisar)",
+        consiglio: "Subir a la torre principal para ver el lago."
+      },
+      {
+        nome: "Barrio caraíta",
+        testo: "El barrio de la minoría caraíta, con las casas de madera de tres ventanas en Karaimų gatvė (una para la calle, una para el patio, una para Dios) y la kenesa, el templo. Aquí se comen los kibinai.",
+        come: "A pie desde el centro, por la calle.",
+        quando: "Almuerzo.",
+        tempo: "1 hora",
+        consiglio: "Probar los kibinai de carne en uno de los restaurantes caraítas."
+      },
+      {
+        nome: "Lago Galvė",
+        testo: "El mayor de los lagos alrededor de Trakai, con orillas acondicionadas para caminar y alquilar barcas y canoas. Desde el agua se ve el castillo en un marco clásico.",
+        come: "A pie desde el pueblo; alquiler en el paseo del lago.",
+        quando: "Verano, mañana o última hora de la tarde.",
+        tempo: "1-2 horas",
+        consiglio: "Alquilar una barca de remos es la forma más sencilla de ver el castillo desde el agua."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Kibinai",
+        testo: "Empanadillas caraítas rellenas de cordero o ternera y cebolla."
+      },
+      {
+        nome: "Cerveza y kvas",
+        testo: "Bebidas locales en los restaurantes del lago."
+      }
+    ],
+    attenzioni: [
+      "Trakai es una excursión de media jornada desde Vilna: trenes y buses salen de la estación y tardan unos 30-40 minutos.",
+      "En verano los aparcamientos y los restaurantes del lago se llenan los fines de semana.",
+      "Los restaurantes frente al castillo son más caros que los del barrio caraíta."
     ],
     esperienzeSlugs: ['trakai-castello-lago-galve'],
     tripSlugs: ['capitali-baltiche'],

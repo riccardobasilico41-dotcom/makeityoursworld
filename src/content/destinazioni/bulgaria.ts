@@ -30,6 +30,67 @@ export const destinazioniBulgaria: Destinazione[] = [
     erroriDaEvitare: ['Comprare lo skipass alla cassa: online, con qualche giorno di anticipo, costa meno', 'Aspettarsi piste da Alpi: a Bansko si va per l\'esperienza e per il prezzo, non per il livello del comprensorio'],
     miaEsperienza:
       'Non mi aspettavo grandi cose dallo sci in Bulgaria, ed è quello che ho trovato: piste carine e ben tenute, niente di esagerato rispetto alle Alpi. Il bello sta proprio qui. Ci si va per l\'esperienza esotica di sciare in un angolo d\'Europa fuori dai soliti circuiti, più che per lo sci in sé.',
+    luoghi: [
+      {
+        nome: "Comprensorio sciistico di Bansko",
+        testo: "Il comprensorio è raggiunto da una lunga gondola che parte dal paese. Le piste sono ben tenute e con neve artificiale garantita su oltre il 90%, ma più tranquille di quelle alpine. Ci si va per l'esperienza esotica in un angolo d'Europa fuori dai circuiti più noti.",
+        come: "Stazione della gondola a pochi minuti a piedi dal centro; skipass giornaliero in biglietteria o online.",
+        quando: "Dicembre-metà aprile; alla mattina presto la gondola ha code.",
+        tempo: "giornata intera",
+        costo: "skipass giornaliero 35-40 euro, online fino al 25% in meno (dato del viaggio, da ricontrollare)",
+        url: "https://banskoski.com",
+        consiglio: "Prenotare lo skipass online per evitare la fila e risparmiare."
+      },
+      {
+        nome: "Discesa notturna illuminata",
+        testo: "Una pista illuminata di 7,5 km per sciare di sera, scendendo fino al paese. È una delle attrazioni più particolari di Bansko.",
+        come: "Gondola fino alla stazione intermedia e discesa; orari sul sito del comprensorio.",
+        quando: "Sera, nei giorni di apertura notturna.",
+        tempo: "1-2 ore",
+        url: "https://banskoski.com",
+        consiglio: "Dopo la discesa, après-ski al Sopranos o all'Happy End Bar, alla base della gondola."
+      },
+      {
+        nome: "Todorka Peak",
+        testo: "Il punto panoramico a 2.560 metri sopra il comprensorio, con vista sui monti Pirin. Si arriva con gli impianti di risalita.",
+        come: "Gondola e seggiovie.",
+        quando: "Giorno sereno, in inverno.",
+        tempo: "1 ora",
+        consiglio: "Mettere in conto il vento e il freddo in cima."
+      },
+      {
+        nome: "Centro storico di Bansko",
+        testo: "Case di pietra e legno della «scuola di Bansko» (il revival bulgaro dell'Ottocento), la chiesa della Santa Trinità e le mehane tipiche con kapama, banitsa e shopska salata. È più vivace la sera.",
+        come: "A piedi dalla stazione della gondola.",
+        quando: "Sera.",
+        tempo: "2 ore",
+        consiglio: "Mangiare nelle mehane del centro storico, non sulla strada principale."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Kapama",
+        testo: "Stufato di maiale e salsicce con cavolo, cotto lentamente in un coccio."
+      },
+      {
+        nome: "Banitsa",
+        testo: "Sfoglia al formaggio, la colazione più diffusa in Bulgaria."
+      },
+      {
+        nome: "Shopska salata",
+        testo: "Insalata di pomodori, cetrioli e feta grattugiata."
+      },
+      {
+        nome: "Rakia",
+        testo: "Grappa di frutta, da bere prima dei pasti."
+      }
+    ],
+    attenzioni: [
+      "La Bulgaria usa l'euro dal 1° gennaio 2026: confrontare con i prezzi in lev dei vecchi dati.",
+      "Da Sofia sono circa 2-2h30 di strada (160 km): usare transfer prenotati, non taxi di strada.",
+      "Il comprensorio ha code in alta stagione: arrivare presto alla gondola.",
+      "In auto d'inverno servono gomme invernali e catene a bordo."
+    ],
     esperienzeSlugs: ['sci-bansko', 'discesa-notturna-bansko'],
     tripSlugs: ['bulgaria-bansko-rila'],
     imageAlt: 'Le piste innevate del comprensorio sciistico di Bansko, Bulgaria',
@@ -60,6 +121,46 @@ export const destinazioniBulgaria: Destinazione[] = [
     erroriDaEvitare: ['Entrare in chiesa con spalle e ginocchia scoperte', 'Fare foto o video dentro gli edifici religiosi: non è permesso'],
     miaEsperienza:
       'Dopo le giornate sulla neve, il monastero è stato il colpo di scena del viaggio. Gli affreschi coloratissimi della Chiesa della Natività della Vergine e il silenzio della montagna intorno sono il ricordo più vivido di tutto il tour.',
+    luoghi: [
+      {
+        nome: "Complesso del Monastero di Rila",
+        testo: "Il più grande monastero bulgaro, patrimonio UNESCO, fondato nel X secolo da San Giovanni di Rila e ricostruito nell'Ottocento. Le mura di pietra alte 24 metri chiudono un cortile a portici in bianco e nero.",
+        come: "In auto o bus da Sofia (circa 2-2,5 ore) o come deviazione sulla strada tra Bansko e Sofia.",
+        quando: "Mattina presto, prima dei bus turistici.",
+        tempo: "1,5-2 ore",
+        costo: "ingresso libero",
+        consiglio: "È un luogo di culto: abiti che coprano spalle e ginocchia."
+      },
+      {
+        nome: "Chiesa della Natività della Vergine",
+        testo: "La chiesa a cinque cupole con affreschi coloratissimi nel portico e all'interno, opera di pittori bulgari dell'Ottocento (tra cui Zahari Zograf). All'interno non si può fotografare.",
+        come: "Dentro il cortile del monastero.",
+        quando: "Mattina.",
+        tempo: "30-45 minuti",
+        costo: "ingresso libero",
+        consiglio: "Il silenzio della montagna intorno è la parte più bella."
+      },
+      {
+        nome: "Museo di Storia Ecclesiastica e Croce di Rafail",
+        testo: "Il museo del monastero conserva reliquie e la Croce di Rafail, intagliata con oltre 1.500 figure bibliche in miniatura. È piccolo ma ricco.",
+        come: "Nel complesso, ingresso a parte.",
+        quando: "Giorno.",
+        tempo: "45 minuti",
+        costo: "circa 8 BGN, 4 euro (dato del viaggio, da ricontrollare)",
+        consiglio: "Il biglietto è facile da perdere: tenerlo in tasca."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Pasto al sacco",
+        testo: "Al monastero non ci sono ristoranti d'obbligo: pranzo prima o dopo."
+      }
+    ],
+    attenzioni: [
+      "Abbigliamento modesto: spalle e ginocchia coperte, niente cappello dentro la chiesa.",
+      "Non fotografare dentro la chiesa e non gridare.",
+      "Strada di montagna: in inverno servono gomme da neve."
+    ],
     esperienzeSlugs: ['visita-monastero-rila'],
     tripSlugs: ['bulgaria-bansko-rila'],
     imageAlt: 'La facciata affrescata della Chiesa della Natività della Vergine al Monastero di Rila, Bulgaria',

@@ -44,6 +44,147 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       "Cambiar moneda o pagar en euros contando con un cambio «automático» ventajoso: la República Checa no está en la eurozona, y los precios «convertidos» que se muestran en los locales turísticos son casi siempre desfavorables",
       "Subestimar la cola para el Reloj Astronómico o para la Catedral de San Vito en temporada alta: conviene llegar temprano o hacia la tarde",
     ],
+    luoghi: [
+      {
+        nome: "Plaza de la Ciudad Vieja y Orloj",
+        testo: "La plaza central con la torre del Reloj Astronómico (1410), el tercer reloj astronómico más antiguo del mundo aún en funcionamiento. Cada hora, de 9 a 23, desfilan los Apóstoles y la Muerte tira de la cuerda.",
+        come: "A pie, metro A hasta Staroměstská. El Orloj se ve desde la plaza, gratis.",
+        quando: "A la hora en punto, pero llegar 10 minutos antes; la torre del ayuntamiento tiene un mirador de pago.",
+        tempo: "1 hora",
+        costo: "plaza y espectáculo gratuitos",
+        url: "https://www.prague.eu",
+        consiglio: "Subir a la torre del ayuntamiento para ver la plaza."
+      },
+      {
+        nome: "Puente de Carlos",
+        testo: "El puente gótico de 516 metros iniciado en 1357 para Carlos IV, con más de 30 estatuas barrocas (copias). Une la Ciudad Vieja con Malá Strana y el Castillo.",
+        come: "A pie; siempre abierto.",
+        quando: "Al amanecer, cuando está vacío, o después de las 21.",
+        tempo: "30-45 minutos",
+        costo: "entrada libre",
+        consiglio: "Los carteristas están activos en las horas punta; llevar el bolso por delante."
+      },
+      {
+        nome: "Castillo de Praga y Catedral de San Vito",
+        testo: "El mayor complejo de castillo del mundo, con la Catedral gótica de San Vito, el Antiguo Palacio Real, la Basílica de San Jorge y el Callejón del Oro. El patio y los jardines se pueden visitar gratis.",
+        come: "Tranvía 22 hasta Pražský hrad, luego a pie. Entradas para los circuitos en la entrada u online.",
+        quando: "Temprano por la mañana, a la apertura; el cambio de guardia a mediodía.",
+        tempo: "3-4 horas",
+        url: "https://www.hrad.cz",
+        consiglio: "Para los circuitos A o B, comparar qué incluye cada entrada en el sitio oficial."
+      },
+      {
+        nome: "Malá Strana y Muro de John Lennon",
+        testo: "El barrio barroco al pie del Castillo, con la iglesia de San Nicolás y la isla de Kampa. El Muro de Lennon, cubierto de grafitis desde los años ochenta, está en el jardín de Velkopřevorské náměstí.",
+        come: "A pie desde el Puente de Carlos (5 minutos).",
+        quando: "Mañana o última hora de la tarde.",
+        tempo: "2 horas",
+        costo: "entrada libre",
+        consiglio: "Dejar el muro como está: no hacen falta más dibujos."
+      },
+      {
+        nome: "Josefov y Museo Judío",
+        testo: "El antiguo barrio judío en el corazón de Staré Město, con seis sitios históricos: la sinagoga Vieja-Nueva, la Española y el Antiguo Cementerio Judío. La entrada es única para los sitios del Museo Judío.",
+        come: "Metro A hasta Staroměstská, luego 5 minutos.",
+        quando: "Cerrado el sábado y en las fiestas judías; mañana.",
+        tempo: "2-3 horas",
+        url: "https://www.jewishmuseum.cz",
+        consiglio: "La sinagoga Vieja-Nueva tiene una entrada aparte."
+      },
+      {
+        nome: "Vyšehrad",
+        testo: "La fortaleza en la colina al sur, menos visitada que el Castillo, con la basílica de los Santos Pedro y Pablo y el cementerio de los grandes checos (Dvořák, Smetana). La vista sobre el Moldava es excelente.",
+        come: "Metro C hasta Vyšehrad, luego 10 minutos a pie.",
+        quando: "Tarde.",
+        tempo: "1,5 horas",
+        costo: "parque libre",
+        url: "https://www.praha-vysehrad.cz",
+        consiglio: "Mejor que el Castillo para quien quiere caminar en silencio."
+      },
+      {
+        nome: "Colina de Petřín",
+        testo: "La colina verde con la torre mirador (réplica en miniatura de la Torre Eiffel), el jardín de rosas y un laberinto de espejos. El funicular de 1891 sube desde Malá Strana.",
+        come: "Funicular desde Újezd; billete del transporte público.",
+        quando: "Día despejado.",
+        tempo: "2 horas",
+        consiglio: "Bajar a pie por los huertos."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 día",
+        tappe: [
+          "Mañana: Castillo de Praga",
+          "Almuerzo en Malá Strana",
+          "Puente de Carlos",
+          "Plaza de la Ciudad Vieja y Orloj",
+          "Cena con cerveza checa"
+        ]
+      },
+      {
+        titolo: "2 días",
+        tappe: [
+          "Día 1 como arriba",
+          "Día 2: Josefov",
+          "Petřín o Vyšehrad",
+          "Noche: Vinohrady"
+        ]
+      },
+      {
+        titolo: "3 días",
+        tappe: [
+          "Días 1-2 como arriba",
+          "Día 3: excursión a Kutná Hora o Karlštejn"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Staré Město",
+        perChi: "Quien quiere estar cerca de las atracciones",
+        testo: "El corazón turístico, muy concurrido y caro; ruido de noche."
+      },
+      {
+        nome: "Malá Strana",
+        perChi: "Quien busca un barrio pintoresco",
+        testo: "Cerca del Castillo, calles silenciosas; restaurantes más caros."
+      },
+      {
+        nome: "Vinohrady",
+        perChi: "Quien quiere ambiente local y mejores precios",
+        testo: "Barrio residencial con cafés y parques, conexiones en tranvía."
+      },
+      {
+        nome: "Žižkov",
+        perChi: "Quien busca pubs y vida nocturna a precios bajos",
+        testo: "Barrio animado y menos turístico."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Svíčková",
+        testo: "Solomillo de ternera en salsa de verduras y nata con albóndigas de pan."
+      },
+      {
+        nome: "Gulash con knedlíky",
+        testo: "Estofado de ternera con albóndigas de pan, en los pubs tradicionales."
+      },
+      {
+        nome: "Pivo",
+        testo: "La cerveza checa: Pilsner Urquell, Budvar, Kozel, a menudo a bajo precio."
+      },
+      {
+        nome: "Smažený sýr",
+        testo: "Queso empanado y frito, con patatas fritas y salsa tártara."
+      }
+    ],
+    attenzioni: [
+      "Cambio de divisas: evitar las casetas «0% comisión» del centro; sacar de cajeros y rechazar pagar en euros.",
+      "Taxis: usar Bolt o Liftago, no los de la calle cerca de las plazas turísticas.",
+      "Carteristas en el Puente de Carlos, en el tranvía 22 y cerca del Orloj.",
+      "El trdelník no es un dulce checo sino un producto turístico; las panaderías locales ofrecen algo mejor.",
+      "Los billetes del transporte deben validarse o comprarse con la app."
+    ],
     esperienzeSlugs: ['praga-castello-biglietto', 'praga-josefov-jewish-town', 'praga-degustazione-birra'],
     tripSlugs: ['praga-weekend'],
     imageAlt: "El Castillo de Praga y la Catedral de San Vito iluminados en la hora azul, con el Puente de Carlos y el Moldava en primer plano",

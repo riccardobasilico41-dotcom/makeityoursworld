@@ -44,6 +44,149 @@ export const destinazioniAustria: Destinazione[] = [
       'Letting your guard down on the U3 subway line at rush hour: it is the most reported line for pickpocketing in the city',
       "Underestimating the size of Schönbrunn: just touring the palace and the main gardens takes a good half day",
     ],
+    luoghi: [
+      {
+        nome: "Schönbrunn Palace",
+        testo: "The Habsburgs' summer residence, a UNESCO site, with 1,441 rooms and baroque gardens. You visit the apartments of Franz Joseph and Sisi, with different tours.",
+        come: "Metro U4 to Schönbrunn (20 minutes from the centre). Timed tickets online.",
+        quando: "Early morning, to get ahead of the groups; the park stays open longer.",
+        tempo: "3-4 hours",
+        url: "https://www.schoenbrunn.at",
+        consiglio: "The 'Imperial Tour' ticket is shorter than the 'Grand Tour': choose according to time."
+      },
+      {
+        nome: "Hofburg and Sisi Museum",
+        testo: "The imperial palace in the centre, with imperial apartments, the silver collection and the museum dedicated to Sisi. The complex also houses the Spanish Riding School.",
+        come: "Metro U3 to Herrengasse, then on foot (5 minutes).",
+        quando: "Weekday morning.",
+        tempo: "2 hours",
+        url: "https://www.hofburg-wien.at",
+        consiglio: "Combine with a walk in the Volksgarten next door."
+      },
+      {
+        nome: "St Stephen's Cathedral (Stephansdom)",
+        testo: "The symbol of Vienna, in Gothic style, with the coloured-tile roof and the 137 metre south tower. You can climb the tower, about 343 steps.",
+        come: "Metro U1/U3 to Stephansplatz. Entry to the transept is free; tower and catacombs are paid.",
+        quando: "Early morning or evening, for the light on the roof.",
+        tempo: "1 hour",
+        url: "https://www.stephanskirche.at",
+        consiglio: "If short of time, take the lift up the north tower."
+      },
+      {
+        nome: "Belvedere",
+        testo: "Two baroque palaces with an Italian garden, home to the largest Klimt collection, including 'The Kiss'. The park is beautiful on its own.",
+        come: "Tram D to Schloss Belvedere. Tickets for the Upper Belvedere.",
+        quando: "Early morning, to see 'The Kiss' without crowds.",
+        tempo: "2 hours",
+        url: "https://www.belvedere.at",
+        consiglio: "Book online to skip the queue."
+      },
+      {
+        nome: "Kunsthistorisches Museum",
+        testo: "The Habsburgs' great art museum, with Bruegel, Raphael, Titian and Vermeer. The building itself, with its dome and staircase, is a work of art.",
+        come: "Metro U2 or U3 to Volkstheater, next to the Naturhistorisches Museum.",
+        quando: "Weekday morning; check closing days on the website.",
+        tempo: "2-3 hours",
+        url: "https://www.khm.at",
+        consiglio: "The Bruegel room is the most famous, but on its own is worth half the museum."
+      },
+      {
+        nome: "State Opera (Staatsoper)",
+        testo: "One of the most important opera houses in the world. You can visit with a guided tour or attend a performance with very cheap standing tickets.",
+        come: "Metro U1/U2/U4 to Karlsplatz. Standing tickets are sold shortly before the start.",
+        quando: "Evening; arrive early for standing tickets.",
+        tempo: "3 hours",
+        url: "https://www.wiener-staatsoper.at",
+        consiglio: "The standing-room areas have a limited view but excellent acoustics."
+      },
+      {
+        nome: "Prater and Riesenrad",
+        testo: "The big park with the 1897 Ferris wheel, famous from the film 'The Third Man'. There are historic rides and the long tree-lined avenue.",
+        come: "Metro U1 to Praterstern.",
+        quando: "Afternoon or evening, for the view of the city.",
+        tempo: "2 hours",
+        costo: "park entry free",
+        url: "https://www.wienerriesenrad.com",
+        consiglio: "Ride the wheel at sunset."
+      },
+      {
+        nome: "Naschmarkt",
+        testo: "Vienna's most famous market: stalls of fruit, spices, olives and restaurants. On Saturdays there is also a flea market.",
+        come: "Metro U4 to Kettenbrückengasse.",
+        quando: "Monday to Saturday; closed on Sunday.",
+        tempo: "1-2 hours",
+        consiglio: "Saturday morning is the liveliest time."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 day",
+        tappe: [
+          "Morning: Stephansdom",
+          "Lunch with Schnitzel",
+          "Hofburg and Sisi Museum",
+          "Evening: Naschmarkt or cafe"
+        ]
+      },
+      {
+        titolo: "2 days",
+        tappe: [
+          "Day 1 as above",
+          "Day 2: Schönbrunn in the morning",
+          "Belvedere and Klimt",
+          "Evening: opera standing"
+        ]
+      },
+      {
+        titolo: "3 days",
+        tappe: [
+          "Days 1-2 as above",
+          "Day 3: Kunsthistorisches Museum, Prater and Riesenrad"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Innere Stadt (centre)",
+        perChi: "Those who want everything on foot",
+        testo: "Near Stephansdom and Hofburg; high prices, evening noise."
+      },
+      {
+        nome: "Neubau and Mariahilf",
+        perChi: "Those seeking cultural life and cafes",
+        testo: "Creative districts near the MuseumsQuartier, good links."
+      },
+      {
+        nome: "Leopoldstadt",
+        perChi: "Those who want to save and the Prater",
+        testo: "A multicultural district near the Prater, with a direct metro."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Wiener Schnitzel",
+        testo: "Breaded veal cutlet, the Viennese speciality; found everywhere."
+      },
+      {
+        nome: "Sachertorte",
+        testo: "Chocolate cake with apricot jam, from Café Sacher and Demel."
+      },
+      {
+        nome: "Apfelstrudel",
+        testo: "Apple strudel, served hot with vanilla sauce or cream."
+      },
+      {
+        nome: "Tafelspitz",
+        testo: "Boiled beef with horseradish and apple, a traditional Habsburg dish."
+      }
+    ],
+    attenzioni: [
+      "Fake ticket sellers in Mozart costume outside theatres: buy only at the box office or on the website.",
+      "Fiaker (carriages) are expensive: ask the price first.",
+      "Transit tickets: validate paper ones, inspections are frequent.",
+      "On Sundays shops are closed, supermarkets included.",
+      "In cafes you leave 5-10% as a tip, it is not included."
+    ],
     esperienzeSlugs: ['vienna-schonbrunn-biglietto', 'vienna-opera-stehplatz', 'vienna-giro-caffe-storici'],
     tripSlugs: ['vienna-weekend'],
     imageAlt: "The glazed zigzag-patterned colored tile roof of St. Stephen's Cathedral in Vienna, among the Gothic spires",

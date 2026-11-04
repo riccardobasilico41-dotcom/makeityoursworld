@@ -45,6 +45,135 @@ export const destinazioniEstonia: Destinazione[] = [
       "Assuming Estonian resembles Lithuanian or Latvian: it's a Finno-Ugric language, related to Finnish and entirely foreign to the Baltic family of the other two capitals",
       "Going to Telliskivi on Sunday evening or Monday, when several venues and independent shops are closed",
     ],
+    luoghi: [
+      {
+        nome: "Town Hall Square (Raekoja plats)",
+        testo: "The medieval heart of the city, with the Gothic Town Hall of 1404, the oldest still in use in the Baltic. In summer it has outdoor tables; in December it hosts the Christmas market.",
+        come: "On foot from the port (10-15 minutes).",
+        quando: "Early morning, for the square without crowds; the Town Hall is open only in summer.",
+        tempo: "1 hour",
+        url: "https://www.tallinn.ee",
+        consiglio: "Check cruise days: the square fills with groups."
+      },
+      {
+        nome: "Toompea and Alexander Nevsky Cathedral",
+        testo: "The hill above the lower town, with Toompea Castle (seat of Parliament) and the Russian Orthodox cathedral of 1900, with onion domes. The climb is short but scenic.",
+        come: "On foot from Town Hall Square, climbing Pikk jalg.",
+        quando: "Morning.",
+        tempo: "1.5 hours",
+        costo: "cathedral entry free",
+        consiglio: "For photos of the city from above, the Kohtuotsa and Patkuli platforms."
+      },
+      {
+        nome: "Kohtuotsa and Patkuli viewing platforms",
+        testo: "Two terraces on Toompea with the classic views of the lower town, the port and the Gulf of Finland, with red roofs and spires.",
+        come: "On foot, 5 minutes from the cathedral.",
+        quando: "Sunset, for the light on the roofs.",
+        tempo: "30 minutes",
+        costo: "free entry",
+        consiglio: "Kohtuotsa is the most photographed, Patkuli is quieter."
+      },
+      {
+        nome: "Medieval walls and towers",
+        testo: "About 1.85 km of walls still standing with some twenty towers, including Kiek in de Kök, a cannon tower whose name means 'peep into the kitchen'. You can climb some towers.",
+        come: "On foot, along Müürivahe.",
+        quando: "Daytime, in good conditions.",
+        tempo: "1-2 hours",
+        costo: "12 euros for entry to the four towers (site figure, to be rechecked)",
+        url: "https://www.linnamuuseum.ee",
+        consiglio: "The combined ticket is worth it for several towers."
+      },
+      {
+        nome: "St Olaf's Church (Oleviste kirik)",
+        testo: "A church with a 124 metre spire that in the sixteenth century was for a time the tallest building in the world. You climb the tower for the view.",
+        come: "On foot, at the bottom of Town Hall Square.",
+        quando: "Clear day.",
+        tempo: "45 minutes",
+        url: "https://www.oleviste.ee",
+        consiglio: "Climb the tower for the view of the port."
+      },
+      {
+        nome: "Kadriorg Park and Palace, KUMU",
+        testo: "The Palace, commissioned by Peter the Great in 1718 for his wife Catherine I, with the park and Kumu, the Estonian art museum, in a modern building in the same park.",
+        come: "Tram 1 or 3 to Kadriorg, 10 minutes from the centre.",
+        quando: "Afternoon; the park is free.",
+        tempo: "3 hours",
+        costo: "KUMU 12-16 euros depending on the exhibition (site figure, to be rechecked)",
+        url: "https://kumu.ekm.ee",
+        consiglio: "The park is a nice place to stroll outside the centre."
+      },
+      {
+        nome: "Telliskivi Creative City",
+        testo: "The former Soviet industrial complex, since 2009 a creative district with street art, studios, independent shops and restaurants. On Saturday there is a flea market.",
+        come: "On foot from the Old Town (15 minutes) or by tram.",
+        quando: "Evening, for the venues; Saturday for the market.",
+        tempo: "2 hours",
+        costo: "free entry",
+        consiglio: "You eat very well here at reasonable prices."
+      }
+    ],
+    programmi: [
+      {
+        titolo: "1 day",
+        tappe: [
+          "Morning: Town Hall Square",
+          "Toompea and Nevsky Cathedral",
+          "Walls and towers",
+          "Lunch in a medieval restaurant",
+          "Evening: Telliskivi"
+        ]
+      },
+      {
+        titolo: "2 days",
+        tappe: [
+          "Day 1 as above",
+          "Day 2: Kadriorg and KUMU",
+          "St Olaf's Church",
+          "Evening in the Old Town"
+        ]
+      }
+    ],
+    zone: [
+      {
+        nome: "Old Town (Vanalinn)",
+        perChi: "Those who want to stay on foot among the sights",
+        testo: "Cobbled streets and atmosphere, but high prices and evening noise."
+      },
+      {
+        nome: "Kalamaja",
+        perChi: "Those seeking a district of cafes and wooden houses",
+        testo: "Near Telliskivi and the port, 15 minutes from the centre."
+      },
+      {
+        nome: "Kesklinn",
+        perChi: "Those who want convenience and shopping centres",
+        testo: "Modern, a few minutes from the Old Town."
+      }
+    ],
+    sapori: [
+      {
+        nome: "Leib (black bread)",
+        testo: "Dark rye bread, the base of Estonian cooking."
+      },
+      {
+        nome: "Kama",
+        testo: "Toasted cereal flour with kefir, a typical dessert."
+      },
+      {
+        nome: "Verivorst",
+        testo: "Blood sausage with barley, typical of Christmas."
+      },
+      {
+        nome: "Marzipan",
+        testo: "Estonian marzipan, at the Maiasmokk confectionery, the oldest cafe in the city."
+      }
+    ],
+    attenzioni: [
+      "Medieval-costume restaurants are pricey and touristy: compare with those in Telliskivi.",
+      "Taxis: use Bolt, born in Estonia, and not those near the cruise port.",
+      "On cruise days the Old Town is extremely crowded: go early.",
+      "In winter ice makes the cobbles dangerous: suitable shoes."
+    ],
     esperienzeSlugs: ['tallinn-kadriorg-kumu', 'tallinn-telliskivi-creative-city'],
     tripSlugs: ['capitali-baltiche'],
     imageAlt: "The pastel-colored medieval houses with pointed roofs on the east side of Town Hall Square in Tallinn, with outdoor café tables",
