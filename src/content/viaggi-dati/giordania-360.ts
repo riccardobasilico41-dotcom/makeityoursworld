@@ -69,8 +69,8 @@ export const giordania360Meta: TripMeta = {
       statoPernottamento: 'da-confermare',
       intensita: 'intenso',
       destinazioneSlug: 'karak-monte-nebo',
-      immagine: '/images/viaggi/giordania-360/giorno-3-karak-castle.jpg',
-      imageAlt: 'Le mura in pietra del castello crociato di Karak, arroccato sulla collina',
+      immagine: '/images/giordania/little-petra-facciata-riccardo.jpg',
+      imageAlt: "Una facciata nabatea con colonne scolpita nell'arenaria di Little Petra, tra le rocce erose",
     },
     {
       titoloGiorno: 'Giorno 4 — Petra, giornata intera',

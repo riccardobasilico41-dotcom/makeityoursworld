@@ -108,8 +108,8 @@ export const destinazioniIslanda: Destinazione[] = [
       'Il trekking sul ghiacciaio e il kayak tra gli iceberg sono state due delle esperienze più intense del viaggio. Il trekking l\'ho fatto con Troll Expeditions; l\'operatore del kayak, le durate e i prezzi esatti non li ho annotati.',
     esperienzeSlugs: ['trekking-ghiacciaio-vatnajokull', 'kayak-jokulsarlon'],
     tripSlugs: ['islanda-2024'],
-    imageAlt: 'Iceberg blu che galleggiano nella laguna glaciale di Jökulsárlón, Islanda',
-    immagine: '/images/islanda/jokulsarlon-stock.jpg',
+    imageAlt: 'Un grande iceberg azzurro galleggia sulla laguna glaciale di Jökulsárlón, con le montagne del Vatnajökull sullo sfondo',
+    immagine: '/images/islanda/jokulsarlon-iceberg-riccardo.jpg',
   },
   {
     slug: 'hofn',

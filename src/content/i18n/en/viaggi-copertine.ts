@@ -10,16 +10,16 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     imageAlt: "Tallinn's Old Town seen from the Patkuli viewing platform, with the spire of St. Olaf's Church and the towers of the city walls among the autumn trees",
   },
   'lofoten-estate-2025': {
-    immagine: '/images/copertine/lofoten-estate-2025.jpg',
-    imageAlt: "Reine from above: the blue fjord, the rock walls of the Lofoten Islands and the fishing village spread across islets linked by bridges",
+    immagine: '/images/norvegia/henningsvaer-punta-riccardo.jpg',
+    imageAlt: 'The granite tip of Henningsvær with the stadium, the stockfish racks and the Lofoten islets in the blue sea',
   },
   'islanda-2024': {
-    immagine: '/images/copertine/islanda-2024.jpg',
-    imageAlt: "Blue icebergs floating in the Jökulsárlón glacier lagoon, Iceland",
+    immagine: '/images/islanda/jokulsarlon-laguna-riccardo.jpg',
+    imageAlt: 'Jökulsárlón glacier lagoon from the drone: blue icebergs on still water and the glacier tongue in the distance',
   },
   'messico-beach-life': {
-    immagine: '/images/messico/chichen-itza.jpg',
-    imageAlt: "The pyramid of Chichén Itzá in the Yucatán, Mexico",
+    immagine: '/images/messico/chichen-itza-castillo-riccardo.jpg',
+    imageAlt: 'El Castillo, the pyramid of Kukulcán at Chichén Itzá, seen at three-quarters under the white clouds of Yucatán',
   },
   'lapponia-svedese-abisko': {
     immagine: '/images/copertine/lapponia-svedese-abisko.jpg',
@@ -43,7 +43,7 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
   },
   thailandia: {
     immagine: '/images/copertine/thailandia.jpg',
-    imageAlt: "Long-tail boat in a turquoise bay among the limestone stacks of southern Thailand",
+    imageAlt: 'A longtail boat in a turquoise bay among the limestone sea stacks of southern Thailand',
   },
   'marocco-itinerario': {
     immagine: '/images/marocco/merzouga-carovana-dune-riccardo.jpg',
@@ -106,8 +106,8 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     imageAlt: "The carved wooden balconies (rawashin) of a traditional house in Al-Balad, the old town of Jeddah",
   },
   'dolomiti-roadtrip': {
-    immagine: '/images/copertine/dolomiti-roadtrip.jpg',
-    imageAlt: "The Tre Cime di Lavaredo among the clouds, Dolomites, Italy",
+    immagine: '/images/italia/tre-cime-valle-rienza-riccardo.jpg',
+    imageAlt: 'The Tre Cime di Lavaredo lit by the first sun at the head of the Rienza valley, still in shadow, Dolomites',
   },
   'parigi-5-giorni': {
     immagine: '/images/copertine/parigi-5-giorni.jpg',

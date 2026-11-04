@@ -135,8 +135,8 @@ export const destinazioniNorvegia: Destinazione[] = [
       "Henningsvær was one of the surprises of the trip: lunch on the canal, the soccer field and, in the afternoon, Festvågtind, a wilder and less crowded hike than Reinebringen.",
     esperienzeSlugs: ['festvagtind-trail'],
     tripSlugs: ['lofoten-estate-2025'],
-    imageAlt: "Aerial view of the famous Henningsvær soccer field set between the sea and the mountains",
-    immagine: '/images/norvegia/henningsvaer-stock.jpg',
+    imageAlt: 'Henningsvær from the drone: the football pitch on the rock, the stockfish racks and the archipelago of green islets',
+    immagine: '/images/norvegia/henningsvaer-stadio-riccardo.jpg',
   },
   {
     slug: 'reine',

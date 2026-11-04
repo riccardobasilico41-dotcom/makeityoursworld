@@ -76,8 +76,8 @@ export const giappone360Meta: TripMeta = {
       statoPernottamento: 'provato',
       intensita: 'medio',
       destinazioneSlug: 'kyoto',
-      immagine: '/images/viaggi/giappone-360/giorno-4-shinkansen.jpg',
-      imageAlt: 'Un Shinkansen N700 parado en la estación de Kioto listo para salir',
+      immagine: '/images/giappone/fuji-dallo-shinkansen-riccardo.jpg',
+      imageAlt: 'El monte Fuji nevado más allá de los arrozales, visto desde la ventanilla del Shinkansen entre Tokio y Kioto',
     },
     {
       titoloGiorno: 'Día 5 (10.04) — Kioto: Arashiyama, el bosque de bambú y Gion',
@@ -160,8 +160,8 @@ export const giappone360Meta: TripMeta = {
       statoPernottamento: 'provato',
       intensita: 'leggero',
       destinazioneSlug: 'tokyo',
-      immagine: '/images/viaggi/giappone-360/giorno-12-tokyo-skyline.jpg',
-      imageAlt: 'El skyline de Tokio al atardecer con la Tokyo Skytree y el monte Fuji al fondo',
+      immagine: '/images/giappone/tokyo-tower-dall-alto-riccardo.jpg',
+      imageAlt: 'Tokio desde lo alto al atardecer, con la Tokyo Tower roja y blanca entre los rascacielos',
     },
   ],
   budget: [

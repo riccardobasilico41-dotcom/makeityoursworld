@@ -102,8 +102,8 @@ export const provenzaCamargueMeta: TripMeta = {
       intensita: 'medio',
       costiNoti: 'check the state of the bloom a few days before',
       destinazioneSlug: 'provenza',
-      immagine: '/images/viaggi/provenza-camargue/giorno-6-lavanda.jpg',
-      imageAlt: 'A lavender field in bloom on the Valensole plateau, with a stone farmhouse in the background',
+      immagine: '/images/francia/provenza-lavanda-riccardo.jpg',
+      imageAlt: 'Rows of flowering lavender and a white road curving through the fields of Provence, seen from the drone',
     },
     {
       titoloGiorno: 'Day 7 — The Gorges du Verdon',

@@ -94,8 +94,8 @@ export const thailandiaMeta: TripMeta = {
       statoPernottamento: 'provato',
       intensita: 'medio',
       destinazioneSlug: 'khao-sok',
-      immagine: '/images/viaggi/thailandia/giorno-5-cheow-lan-lake.jpg',
-      imageAlt: 'Le torri calcaree del lago Cheow Lan che emergono dalle acque, con alberi sommersi in primo piano',
+      immagine: '/images/thailandia/cheow-lan-isola-riccardo.jpg',
+      imageAlt: "Un'isola di giungla emerge dall'acqua smeraldo del lago Cheow Lan",
     },
     {
       titoloGiorno: 'Giorno 6 — Khao Sok-Krabi',
@@ -124,8 +124,8 @@ export const thailandiaMeta: TripMeta = {
       statoPernottamento: 'da-confermare',
       intensita: 'medio',
       destinazioneSlug: 'koh-phi-phi',
-      immagine: '/images/viaggi/thailandia/giorno-8-koh-phi-phi-viewpoint.jpg',
-      imageAlt: 'La baia turchese di Koh Phi Phi vista dal punto panoramico, tra le palme e le barche a coda lunga',
+      immagine: '/images/thailandia/maya-bay-faraglioni-riccardo.jpg',
+      imageAlt: "Dalla vegetazione si apre Maya Bay, con i faraglioni e l'acqua turchese di Koh Phi Phi Leh",
     },
     {
       titoloGiorno: 'Giorno 9 — Koh Phi Phi-Krabi',
@@ -154,8 +154,8 @@ export const thailandiaMeta: TripMeta = {
       statoPernottamento: 'da-confermare',
       intensita: 'leggero',
       destinazioneSlug: 'bangkok',
-      immagine: '/images/viaggi/thailandia/giorno-11-wat-pho.jpg',
-      imageAlt: 'Il volto dorato del Buddha sdraiato nel tempio di Wat Pho a Bangkok',
+      immagine: '/images/thailandia/wat-pho-buddha-riccardo.jpg',
+      imageAlt: "Un restauratore sull'impalcatura ai piedi d'oro del Buddha sdraiato del Wat Pho, a Bangkok",
     },
   ],
   budget: [

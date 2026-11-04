@@ -32,8 +32,8 @@ export const destinazioniGiordania: Destinazione[] = [
       'La Ciudadela, con la vista sobre toda la ciudad vieja, fue una parada bonita para cerrar el viaje antes del vuelo de regreso, aunque no es lo que más recuerdo de Jordania.',
     esperienzeSlugs: ['cittadella-amman'],
     tripSlugs: ['giordania-itinerario'],
-    imageAlt: 'Las columnas del Templo de Hércules en la Ciudadela de Amán, Jordania',
-    immagine: '/images/giordania/amman-stock.jpg',
+    imageAlt: 'Un gato blanco y naranja avanza hacia la cámara en las colinas de Amán, con los edificios de la ciudad al fondo',
+    immagine: '/images/giordania/amman-gatto-skyline-riccardo.jpg',
   },
   {
     slug: 'jerash',

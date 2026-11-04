@@ -45,8 +45,8 @@ export const islanda2024Meta: TripMeta = {
       intensita: 'medio',
       costiNoti: 'Bus 55: €4 per person each way',
       destinazioneSlug: 'keflavik',
-      immagine: '/images/viaggi/islanda-2024/giorno-1-eruzione-reykjanes.jpg',
-      imageAlt: "Fountains of glowing lava spurting from an eruptive fissure on the Reykjanes peninsula, at night",
+      immagine: '/images/islanda/eruzione-litli-hrutur-piana-riccardo.jpg',
+      imageAlt: 'The Litli-Hrútur eruption from the drone: red lava and a plume of smoke in the middle of the Reykjanes plain',
     },
     {
       titoloGiorno: 'Day 2 — Golden Circle: Geysir and Gullfoss',
@@ -67,8 +67,8 @@ export const islanda2024Meta: TripMeta = {
       intensita: 'intenso',
       costiNoti: 'Lunch at Reynisfjara 2-3,000 ISK',
       destinazioneSlug: 'skaftafell-jokulsarlon',
-      immagine: '/images/viaggi/islanda-2024/giorno-3-reynisfjara.jpg',
-      imageAlt: 'The basalt columns of the black sand beach of Reynisfjara, with the sea stack in the background',
+      immagine: '/images/islanda/jokulsarlon-arco-riccardo.jpg',
+      imageAlt: 'An arch-shaped iceberg on the Jökulsárlón glacier lagoon, the last stop of the day',
     },
     {
       titoloGiorno: 'Day 4 — Viking Village, the East Fjords and Egilsstaðir',
@@ -88,8 +88,8 @@ export const islanda2024Meta: TripMeta = {
       statoPernottamento: 'provato',
       intensita: 'intenso',
       destinazioneSlug: 'asbyrgi',
-      immagine: '/images/viaggi/islanda-2024/giorno-5-studlagil.jpg',
-      imageAlt: "The hexagonal basalt columns of Stuðlagil canyon reflected in the turquoise water of the river",
+      immagine: '/images/islanda/studlagil-basalto-riccardo.jpg',
+      imageAlt: 'The wall of basalt columns in the Stuðlagil canyon above the glacial river',
     },
     {
       titoloGiorno: 'Day 6 — Húsavík, whale watching and Lake Mývatn',
@@ -99,8 +99,8 @@ export const islanda2024Meta: TripMeta = {
       intensita: 'intenso',
       costiNoti: 'Campsite ~1,500 ISK/person + tent fee',
       destinazioneSlug: 'akureyri',
-      immagine: '/images/viaggi/islanda-2024/giorno-6-husavik.jpg',
-      imageAlt: 'The harbor of Húsavík with whale watching boats moored and snow-covered mountains in the background',
+      immagine: '/images/islanda/hverfjall-myvatn-riccardo.jpg',
+      imageAlt: 'From the rim of the Hverfjall crater, Lake Mývatn and its islets open up below',
     },
     {
       titoloGiorno: 'Day 7 — Toward the Snæfellsnes peninsula',

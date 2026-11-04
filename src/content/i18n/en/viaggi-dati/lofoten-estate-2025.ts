@@ -66,8 +66,8 @@ export const lofotenEstate2025Meta: TripMeta = {
       statoPernottamento: 'provato',
       intensita: 'intenso',
       destinazioneSlug: 'svolvaer',
-      immagine: '/images/viaggi/lofoten-estate-2025/giorno-3-henningsvaer.jpg',
-      imageAlt: 'Aerial view of Henningsvær, the fishing village spread over islets connected by bridges, with snowy mountains in the background',
+      immagine: '/images/norvegia/henningsvaer-isolotti-riccardo.jpg',
+      imageAlt: 'Green islets in the blue sea above the Henningsvær stadium, in the Lofoten',
     },
     {
       titoloGiorno: 'Day 4 — Svolvær → Reine → Nesland',

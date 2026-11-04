@@ -77,8 +77,8 @@ export const dolomitiRoadtripMeta: TripMeta = {
       intensita: 'leggero',
       costiNoti: 'parcheggi ai passi 3-8€/ora in alta stagione; nessun pedaggio sulla strada',
       destinazioneSlug: 'dolomiti',
-      immagine: '/images/viaggi/dolomiti-roadtrip/giorno-4-rifugio-nuvolau.jpg',
-      imageAlt: 'Il Rifugio Nuvolau in vetta, con gli escursionisti in arrivo dalle Cinque Torri',
+      immagine: '/images/italia/gruppo-sella-pascoli-riccardo.jpg',
+      imageAlt: "Il Gruppo del Sella sopra i pascoli arrossati d'autunno, lungo il giro dei Quattro Passi",
     },
     {
       titoloGiorno: 'Il Lagazuoi e le trincee della Grande Guerra',
@@ -95,8 +95,8 @@ export const dolomitiRoadtripMeta: TripMeta = {
       intensita: 'medio',
       costiNoti: 'funivia Malga Ciapela-Punta Rocca circa 35-38€ A/R',
       destinazioneSlug: 'dolomiti',
-      immagine: '/images/viaggi/dolomiti-roadtrip/marmolada.jpg',
-      imageAlt: 'Il ghiacciaio della Marmolada visto dal Lago di Fedaia, con la diga in primo piano',
+      immagine: '/images/italia/marmolada-cresta-riccardo.jpg',
+      imageAlt: 'La cresta della Marmolada sopra un mare di vette dolomitiche, vista dal drone',
     },
     {
       titoloGiorno: 'La Valle di Braies',
@@ -114,8 +114,8 @@ export const dolomitiRoadtripMeta: TripMeta = {
       intensita: 'medio',
       costiNoti: 'pedaggio strada Tre Cime circa 40€ per auto (12 ore), prenotazione online obbligatoria dal 2026',
       destinazioneSlug: 'dolomiti',
-      immagine: '/images/viaggi/dolomiti-roadtrip/giorno-3-tre-cime.jpg',
-      imageAlt: 'Le Tre Cime di Lavaredo al tramonto viste dal Rifugio Locatelli',
+      immagine: '/images/italia/tre-cime-alba-riccardo.jpg',
+      imageAlt: "Le Tre Cime di Lavaredo dorate all'alba sopra la valle in ombra, viste dal drone",
     },
     {
       titoloGiorno: 'Brunico e la Val Pusteria',

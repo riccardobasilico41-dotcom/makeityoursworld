@@ -205,8 +205,8 @@ export const destinazioniItalia: Destinazione[] = [
       'Nelle Dolomiti il paragone con il resto del mondo smette di funzionare, e il campanilismo non c\'entra: pareti verticali, prati alti e una rete così fitta di rifugi con cucina e letti non li ho trovati insieme da nessun\'altra parte. Si cammina otto ore con uno zaino da trenta litri e la sera si mangia polenta e formaggio fuso a duemilacinquecento metri, mentre la parete diventa rosa. L\'enrosadira sembra una trovata da dépliant, invece è un fenomeno reale legato alla composizione della dolomia: la prima volta che si vede una parete accendersi così si capisce perché a questi monti abbiano dato un nome proprio. Detto questo, va detto chiaro che a luglio e agosto certi punti sono diventati impraticabili. Il giro delle Tre Cime nel pieno di agosto è una fila indiana, i parcheggi si esauriscono all\'alba, e nel 2026 hanno dovuto mettere la prenotazione obbligatoria sulla strada. Rinunciare non serve: basta andare a settembre, quando i rifugi sono ancora aperti e c\'è un terzo delle persone, oppure spostarsi di venti chilometri verso le valli che nessuno fotografa.',
     esperienzeSlugs: ['alta-via-1', 'tre-cime-lavaredo', 'via-ferrata-dolomiti'],
     tripSlugs: ['dolomiti-roadtrip'],
-    imageAlt: 'Le Tre Cime di Lavaredo riflesse in un laghetto alpino circondato da larici in autunno, Dolomiti',
-    immagine: '/images/italia/dolomiti.jpg',
+    imageAlt: 'Le guglie delle Pale di San Martino che escono dalle nuvole sopra i prati del Passo Rolle, Dolomiti',
+    immagine: '/images/italia/pale-san-martino-passo-rolle-riccardo.jpg',
   },
   {
     slug: 'sciare-in-italia',

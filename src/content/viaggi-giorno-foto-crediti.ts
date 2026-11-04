@@ -75,25 +75,10 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       licenza: 'CC BY 2.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Vinicunca,_Rainbow_Mountain.jpg',
     },
-    'Giorno 8 — In treno verso Machu Picchu': {
-      autore: 'Sashimi-b (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Peru_Rail_above_Urubamba_River.jpg',
-    },
-    'Giorno 10 — Da Cusco a Puno sull\'altopiano': {
-      autore: 'Ellywa (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Raqchi_Peru,_Temple_of_Wiracocha.jpg',
-    },
     'Giorno 12 — Amantaní all\'alba e ritorno a Puno': {
       autore: 'H.dav.are (Wikimedia Commons)',
       licenza: 'CC BY-SA 4.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Landscape_of_Amantan%C3%AD_Island_from_Pachatata_temple.jpg',
-    },
-    'Giorno 14 — Arequipa, la città bianca': {
-      autore: 'Josep M. Gracia (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:ARE_-_Blue_corridor_in_Santa_Catalina_Monastery,_Arequipa,_Peru,_2013.jpg',
     },
     'Giorno 15 — Verso il Canyon del Colca': {
       autore: 'Nad Hemnani / Unsplash (Wikimedia Commons)',
@@ -216,11 +201,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       autore: 'CEphoto / Uwe Aranas (Wikimedia Commons)',
       licenza: 'CC BY-SA 3.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Yogyakarta_Indonesia_Kraton-the-Sultans-Palace-01.jpg',
-    },
-    'Giorno 9 — In treno verso Surabaya e trasferimento a Cemoro Lawang': {
-      autore: 'Hugo van den Bos (Wikimedia Commons)',
-      licenza: 'CC BY 2.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Cemoro_Lawang_from_Mount_Penanjakan.jpg',
     },
     'Giorno 11 — Il fuoco blu del Kawah Ijen': {
       autore: 'Jakub Hałun (Wikimedia Commons)',
@@ -455,26 +435,10 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       licenza: 'CC BY-SA 3.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Lago_Verde_Fanes_03.JPG',
     },
-    'I Quattro Passi e il Sella Ronda': {
-      autore: 'gogolander (Wikimedia Commons)',
-      licenza: 'CC BY-SA 3.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Rifugio_Nuvolau_Dolomiti.JPG',
-    },
     'Il Lagazuoi e le trincee della Grande Guerra': {
       autore: 'Luca Lorenzi (Wikimedia Commons)',
       licenza: 'CC BY-SA 3.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Gallerie_del_Lagazuoi.JPG',
-    },
-    'La Marmolada, la Regina delle Dolomiti': {
-      autore: 'Marco Manfroi (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Marmolada_lago_fedaia.jpg',
-    },
-    'Le Tre Cime di Lavaredo e San Candido': {
-      autore: 'Alessandro Drago (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl:
-        'https://commons.wikimedia.org/wiki/File:Le_Tre_Cime_dopo_il_tramonto,_dal_Rifugio_Locatelli.jpg',
     },
     'Brunico e la Val Pusteria': {
       autore: '-wuppertaler (Wikimedia Commons)',
@@ -594,12 +558,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       licenza: 'CC BY 4.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Khao_Sok,_Forest_and_hills,_Surat_Thani,_Thailand.jpg',
     },
-    'Giorno 5 — Khao Sok, il lago Cheow Lan': {
-      autore: 'Vyacheslav Argenberg (Wikimedia Commons)',
-      licenza: 'CC BY 4.0',
-      fonteUrl:
-        'https://commons.wikimedia.org/wiki/File:Karst_landscape_of_Cheow_Lan_Lake,_Surat_Thani,_Thailand.jpg',
-    },
     'Giorno 6 — Khao Sok-Krabi': {
       autore: 'Satdeep Gill (Wikimedia Commons)',
       licenza: 'CC BY-SA 4.0',
@@ -609,11 +567,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       autore: 'DSN18 (Wikimedia Commons)',
       licenza: 'CC BY-SA 4.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:James_Bond_Island_Thailand.jpg',
-    },
-    'Giorno 8 — Krabi-Koh Phi Phi': {
-      autore: 'Caitriana Nicholson (Wikimedia Commons)',
-      licenza: 'CC BY-SA 2.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Koh_Phi_Phi_viewpoint_(4463475153).jpg',
     },
     'Giorno 9 — Koh Phi Phi-Krabi': {
       autore: 'Christophe95 (Wikimedia Commons)',
@@ -625,11 +578,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       licenza: 'CC BY-SA 4.0',
       fonteUrl:
         'https://commons.wikimedia.org/wiki/File:Limestone_karst_cliff_and_longtail_boats_at_Railay_West_Beach_Krabi.jpg',
-    },
-    'Giorno 11 — Bangkok': {
-      autore: 'Tomasz Swatowski (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Wat_Pho_Reclining_Buddha.jpg',
     },
   },
   'borneo-itinerario': {
@@ -773,11 +721,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       fonteUrl:
         'https://commons.wikimedia.org/wiki/File:Svolv%C3%A6r_Harbour_at_blue_hour_with_Hurtigruten_Ship,_Lofoten,_Norway.jpg',
     },
-    'Giorno 3 — Svolvær → Henningsvær': {
-      autore: 'Giladtop (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Henningsv%C3%A6r_and_the_surrounding_islands.jpg',
-    },
     'Giorno 4 — Svolvær → Reine → Nesland': {
       autore: 'Wolfgang Hägele (Wikimedia Commons)',
       licenza: 'CC BY-SA 4.0',
@@ -800,35 +743,15 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
     },
   },
   'islanda-2024': {
-    "Giorno 1 — Arrivo a Keflavík e l'eruzione vista da vicino": {
-      autore: 'Gylfi Gylfason (Pexels)',
-      licenza: 'Pexels License',
-      fonteUrl: 'https://www.pexels.com/photo/majestic-lava-eruption-in-icelandic-volcano-34315894/',
-    },
     'Giorno 2 — Golden Circle: Geysir e Gullfoss': {
       autore: 'Andreas Tille (Wikimedia Commons)',
       licenza: 'CC BY-SA',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Strokkur_geyser_eruption,_close-up_view.jpg',
     },
-    'Giorno 3 — Dyrhólaey, Reynisfjara e la laguna glaciale': {
-      autore: 'Jakub Hałun (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Reynisfjara,_Iceland,_20230501_1639_4044.jpg',
-    },
     "Giorno 4 — Viking Village, fiordi dell'Est ed Egilsstaðir": {
       autore: 'Eric Kilby (Wikimedia Commons)',
       licenza: 'CC BY-SA 2.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Coastline_Looking_South_-_Eastfjords.jpg',
-    },
-    'Giorno 5 — Stuðlagil, Dettifoss e Ásbyrgi': {
-      autore: 'Syrio (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Canyon_di_Stu%C3%B0lagil_01.jpg',
-    },
-    'Giorno 6 — Húsavík, whale watching e il lago Mývatn': {
-      autore: 'Dabydeen (Wikimedia Commons)',
-      licenza: 'CC BY-SA 3.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:H%C3%BAsav%C3%ADk_harbour.JPG',
     },
     'Giorno 7 — Verso la penisola di Snæfellsnes': {
       autore: 'Jakub Hałun (Wikimedia Commons)',
@@ -951,11 +874,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       licenza: 'CC BY 4.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Chureito_Pagoda_and_Mount_Fuji_2023-03-07.jpg',
     },
-    'Giorno 4 (09.04) — Tokyo-Kyoto': {
-      autore: 'John Gillespie (Wikimedia Commons)',
-      licenza: 'CC BY-SA 2.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Shinkansen_N700_at_Kyoto_Station_2015-10-18_01.jpg',
-    },
     'Giorno 10 (15.04) — Osaka-Tokyo: Harajuku e Shibuya': {
       autore: 'Benh LIEU SONG (Wikimedia Commons)',
       licenza: 'CC BY-SA 2.0',
@@ -965,11 +883,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       autore: 'Basile Morin (Wikimedia Commons)',
       licenza: 'CC BY-SA 4.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Colorful_neon_street_signs_in_Kabukich%C5%8D,_Shinjuku,_Tokyo.jpg',
-    },
-    'Giorno 12 (17.04) — Check out': {
-      autore: 'Fred Cherrygarden (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Tokyo_-_Sunset_Skyline.jpg',
     },
   },
   'sicilia-itinerario': {
@@ -1097,12 +1010,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       autore: 'peuplier (Wikimedia Commons)',
       licenza: 'CC BY 2.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Jordanie_Amman_th%C3%A9%C3%A2tre_vu_de_la_citadelle_(3572940445).jpg',
-    },
-    'Giorno 3 — Karak, Monte Nebo e Little Petra': {
-      autore: 'Petar Milošević (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl:
-        'https://commons.wikimedia.org/wiki/File:Karak_Castle,_Jordan_(%D9%82%D9%84%D8%B9%D8%A9_%D8%A7%D9%84%D9%83%D8%B1%D9%83).jpg',
     },
     'Giorno 6 — Alba nel deserto e mare ad Aqaba': {
       autore: 'Adeeb Atwan (Wikimedia Commons)',
@@ -1440,16 +1347,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       licenza: 'CC BY-SA 4.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:A_river_through_the_mountain.jpg',
     },
-    'Notte Adam\'s Peak — la sfida fisica del viaggio': {
-      autore: 'Lasitha Sandeepa Kurukula Arachchi (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Sripada-crowd.jpg',
-    },
-    'Giorno 7 — Hatton-Nuwara Eliya: piantagioni di tè': {
-      autore: 'Curved.kiwix (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Tea_picker_in_the_highland_region_of_Nuwara_Eliya.jpg',
-    },
     'Giorno 10 — Hikkaduwa: giornata di mare': {
       autore: 'Dinusha Chathuranga (Wikimedia Commons)',
       licenza: 'CC BY-SA 4.0',
@@ -1739,17 +1636,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       licenza: 'CC BY-SA 4.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Playa-del-carmen-beach.jpg',
     },
-    'Giorno 10 — Verso Holbox: 3 Islas e bioluminescenza': {
-      autore: 'Bruno Rijsman (Wikimedia Commons)',
-      licenza: 'CC BY-SA 2.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:A_touristic_beach_on_Holbox_Island,_Mexico,_june_2018.jpg',
-    },
-    'Giorno 11 — Holbox: squalo balena': {
-      autore: 'dronepicr (Wikimedia Commons)',
-      licenza: 'CC BY 2.0',
-      fonteUrl:
-        'https://commons.wikimedia.org/wiki/File:Whale_shark_Holbox_island_Mexico_Walhai_(20179364025).jpg',
-    },
     'Giorno 12 — Rientro a Cancún': {
       autore: 'Antony-22 (Wikimedia Commons)',
       licenza: 'CC BY-SA 4.0',
@@ -1776,11 +1662,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       autore: 'Benh LIEU SONG (Wikimedia Commons)',
       licenza: 'CC BY-SA 3.0',
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Gorges_Verdon_Barrage_Sainte_Croix.jpg',
-    },
-    'Giorno 6 — Il Luberon e la lavanda (se in stagione)': {
-      autore: 'Einaz80 (Wikimedia Commons)',
-      licenza: 'CC BY-SA 4.0',
-      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Lavender_field_near_Valensole_3.jpg',
     },
     'Giorno 5 — Aigues-Mortes e le Alpilles': {
       autore: 'Benjamin Smith (Wikimedia Commons)',
@@ -3250,11 +3131,6 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       autore: 'Aamir Ahmad (Unsplash)',
       licenza: 'Unsplash License',
       fonteUrl: 'https://unsplash.com/photos/qutub-minar-stands-tall-under-a-bright-cloudy-sky-7hmAhQww2oE',
-    },
-    'Giorno 5 — Sarnath e il treno notturno per Agra': {
-      autore: 'Rohit Dey (Unsplash)',
-      licenza: 'Unsplash License',
-      fonteUrl: 'https://unsplash.com/photos/ancient-brick-ruins-with-a-large-stupa-in-background-hBR4rerbBQs',
     },
     'Giorno 9 — Jaipur: i bazar e la strada per Pushkar': {
       autore: 'Vivek (Unsplash)',

@@ -108,8 +108,8 @@ export const esperienzeGiordania: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['giordania-itinerario'],
-    imageAlt: 'A 4x4 pickup with tourists in the back crossing the red sand of Wadi Rum',
-    immagine: '/images/giordania/jeep-safari-wadi-rum.jpg',
+    imageAlt: 'Boys playing football on the red sand of Wadi Rum among the camels, with the sandstone mountains on the horizon',
+    immagine: '/images/giordania/wadi-rum-calcio-dromedari-riccardo.jpg',
   },
   {
     slug: 'capodanno-deserto',

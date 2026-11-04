@@ -32,8 +32,8 @@ export const destinazioniGiordania: Destinazione[] = [
       "The Citadel, with its view over the whole old city, was a nice stop to close the trip before the return flight, even though it isn't what I remember most from Jordan.",
     esperienzeSlugs: ['cittadella-amman'],
     tripSlugs: ['giordania-itinerario'],
-    imageAlt: 'The columns of the Temple of Hercules on the Amman Citadel, Jordan',
-    immagine: '/images/giordania/amman-stock.jpg',
+    imageAlt: "A white and ginger cat walking towards the camera on the hills of Amman, with the city's buildings behind",
+    immagine: '/images/giordania/amman-gatto-skyline-riccardo.jpg',
   },
   {
     slug: 'jerash',

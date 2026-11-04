@@ -111,8 +111,8 @@ export const esperienzeGiordania: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['giordania-itinerario'],
-    imageAlt: 'Un pick-up 4x4 con i turisti sul cassone che attraversa la sabbia rossa di Wadi Rum',
-    immagine: '/images/giordania/jeep-safari-wadi-rum.jpg',
+    imageAlt: "Ragazzi giocano a calcio sulla sabbia rossa del Wadi Rum tra i dromedari, con le montagne di arenaria all'orizzonte",
+    immagine: '/images/giordania/wadi-rum-calcio-dromedari-riccardo.jpg',
   },
   {
     slug: 'capodanno-deserto',

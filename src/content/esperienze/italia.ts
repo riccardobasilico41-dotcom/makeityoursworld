@@ -67,8 +67,8 @@ export const esperienzeItalia: Esperienza[] = [
       'Salire alle Tre Cime a piedi dalla Val Fiscalina, evitando pedaggio e prenotazione',
     ],
     tripSlugs: ['dolomiti-roadtrip'],
-    imageAlt: 'Le Tre Cime di Lavaredo viste da Misurina sopra i boschi di abeti, Dolomiti',
-    immagine: '/images/italia/tre-cime-lavaredo.jpg',
+    imageAlt: "Le Tre Cime di Lavaredo dorate all'alba sopra la valle in ombra, viste dal drone",
+    immagine: '/images/italia/tre-cime-alba-riccardo.jpg',
   },
   {
     slug: 'via-ferrata-dolomiti',
@@ -129,8 +129,8 @@ export const esperienzeItalia: Esperienza[] = [
       'Una giornata concentrata su una sola valle, per chi vuole sciare invece che spostarsi',
     ],
     tripSlugs: ['settimana-bianca'],
-    imageAlt: 'Il Sassolungo innevato visto da una pista del Sellaronda sopra Canazei, Dolomiti',
-    immagine: '/images/italia/sellaronda.jpg',
+    imageAlt: "Il Gruppo del Sella sopra i tornanti del passo e i pascoli d'autunno, sul giro del Sellaronda",
+    immagine: '/images/italia/gruppo-sella-tornanti-riccardo.jpg',
   },
   {
     slug: 'scialpinismo-ciaspole',

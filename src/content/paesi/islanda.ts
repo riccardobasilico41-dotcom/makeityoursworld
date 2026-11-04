@@ -36,7 +36,7 @@ export const islanda: Paese = {
     aggiornatoAl: 'settembre 2026',
   },
   stileViaggio: ['natura', 'avventura', 'campeggio', 'on the road'],
-  heroImageAlt: 'Iceberg blu che galleggiano nella laguna glaciale di Jökulsárlón, Islanda',
-  heroImage: '/images/islanda/jokulsarlon-stock.jpg',
+  heroImageAlt: 'Un grande iceberg azzurro galleggia sulla laguna glaciale di Jökulsárlón, con le montagne del Vatnajökull sullo sfondo',
+  heroImage: '/images/islanda/jokulsarlon-iceberg-riccardo.jpg',
   tripPrincipaleSlug: 'islanda-2024',
 }

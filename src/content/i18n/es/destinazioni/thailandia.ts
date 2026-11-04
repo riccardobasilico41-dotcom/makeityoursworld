@@ -122,8 +122,8 @@ export const destinazioniThailandia: Destinazione[] = [
       "El crucero al atardecer por el lago Cheow Lan, entre las formaciones calizas que emergen del agua, es una de las mejores experiencias de toda Tailandia. El resort flotante es básico, pero forma parte del encanto de dormir en un lugar tan aislado.",
     esperienzeSlugs: ['crociera-cheow-lan'],
     tripSlugs: ['thailandia'],
-    imageAlt: "Las torres calizas que emergen del lago Cheow Lan en Khao Sok, Tailandia",
-    immagine: '/images/thailandia/khao-sok-stock.jpg',
+    imageAlt: 'La proa de la barca apunta a las torres kársticas del lago Cheow Lan, en el parque de Khao Sok',
+    immagine: '/images/thailandia/cheow-lan-prua-riccardo.jpg',
   },
   {
     slug: 'krabi',
@@ -185,8 +185,8 @@ export const destinazioniThailandia: Destinazione[] = [
       "El turismo de masas se ve, sobre todo en Tonsai Village. La vista desde arriba, desde el mirador, sigue siendo sin embargo increíble, y hace entender por qué la isla se ha convertido en un icono.",
     esperienzeSlugs: [],
     tripSlugs: ['thailandia'],
-    imageAlt: "Las bahías de Koh Phi Phi vistas desde el mirador, Tailandia",
-    immagine: '/images/thailandia/koh-phi-phi-stock.jpg',
+    imageAlt: 'El farallón oscuro a la entrada de Maya Bay, en Koh Phi Phi Leh, con bañistas a contraluz en la orilla',
+    immagine: '/images/thailandia/maya-bay-faraglione-riccardo.jpg',
   },
   {
     slug: 'chiang-mai',

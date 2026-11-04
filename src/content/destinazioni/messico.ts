@@ -315,7 +315,7 @@ export const destinazioniMessico: Destinazione[] = [
       'Holbox è stata la chiusura giusta del viaggio. Se dovessi consigliare una sola attività di tutto l\'itinerario, sarebbe l\'escursione con lo squalo balena, che ho fatto proprio qui.',
     esperienzeSlugs: ['squalo-balena-holbox', 'bioluminescenza-holbox', 'tour-3-islas-holbox', 'cabo-catoche'],
     tripSlugs: ['messico-beach-life'],
-    imageAlt: 'Spiaggia bianca e acqua bassa turchese dell\'isola di Holbox',
-    immagine: '/images/messico/holbox-barche.jpg',
+    imageAlt: "Una barca ancorata nell'acqua bassa e cristallina di Holbox, con la riva bianca e le palme all'orizzonte",
+    immagine: '/images/messico/holbox-barca-acqua-bassa-riccardo.jpg',
   },
 ]

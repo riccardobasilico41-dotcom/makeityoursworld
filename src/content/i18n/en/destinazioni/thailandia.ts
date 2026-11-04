@@ -122,8 +122,8 @@ export const destinazioniThailandia: Destinazione[] = [
       "The sunset cruise on Cheow Lan Lake, among the limestone formations rising out of the water, is one of the most beautiful experiences in all of Thailand. The floating resort is basic, but it is part of the charm of sleeping somewhere so isolated.",
     esperienzeSlugs: ['crociera-cheow-lan'],
     tripSlugs: ['thailandia'],
-    imageAlt: 'The limestone towers rising out of Cheow Lan Lake in Khao Sok, Thailand',
-    immagine: '/images/thailandia/khao-sok-stock.jpg',
+    imageAlt: 'The bow of the boat heads towards the karst towers of Cheow Lan Lake, in Khao Sok park',
+    immagine: '/images/thailandia/cheow-lan-prua-riccardo.jpg',
   },
   {
     slug: 'krabi',
@@ -185,8 +185,8 @@ export const destinazioniThailandia: Destinazione[] = [
       "Mass tourism shows, especially in Tonsai Village. The view from above, from the viewpoint, is still crazy though, and makes you understand why the island became an icon.",
     esperienzeSlugs: [],
     tripSlugs: ['thailandia'],
-    imageAlt: 'The bays of Koh Phi Phi seen from the viewpoint, Thailand',
-    immagine: '/images/thailandia/koh-phi-phi-stock.jpg',
+    imageAlt: 'The dark sea stack at the mouth of Maya Bay, on Koh Phi Phi Leh, with swimmers backlit on the shore',
+    immagine: '/images/thailandia/maya-bay-faraglione-riccardo.jpg',
   },
   {
     slug: 'chiang-mai',

@@ -311,7 +311,7 @@ export const destinazioniMessico: Destinazione[] = [
       "Holbox was the right ending for the trip. If I had to recommend a single activity from the whole itinerary, it would be the whale shark excursion, which I did right here.",
     esperienzeSlugs: ['squalo-balena-holbox', 'bioluminescenza-holbox', 'tour-3-islas-holbox', 'cabo-catoche'],
     tripSlugs: ['messico-beach-life'],
-    imageAlt: 'White beach and shallow turquoise water of the island of Holbox',
-    immagine: '/images/messico/holbox-barche.jpg',
+    imageAlt: 'A boat anchored in the shallow, crystal-clear water of Holbox, with the white shore and palm trees on the horizon',
+    immagine: '/images/messico/holbox-barca-acqua-bassa-riccardo.jpg',
   },
 ]

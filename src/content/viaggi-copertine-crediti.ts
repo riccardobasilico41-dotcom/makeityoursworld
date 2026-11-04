@@ -71,11 +71,6 @@ export const creditiCopertine: Record<string, CreditoImmagine> = {
     licenza: 'CC BY 2.0',
     fonteUrl: 'https://commons.wikimedia.org/wiki/File:Green_woodwork_in_old_Jeddah_(Al_Balad)_October_8_2021.jpg',
   },
-  'dolomiti-roadtrip': {
-    autore: 'Daniele Bonaldo',
-    licenza: 'CC BY-SA 4.0',
-    fonteUrl: 'https://commons.wikimedia.org/wiki/File:Tre_cime_di_Lavaredo.jpg',
-  },
   'parigi-5-giorni': {
     autore: 'Benh Lieu Song',
     licenza: 'Pubblico dominio / CC BY-SA 3.0',

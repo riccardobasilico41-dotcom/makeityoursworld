@@ -46,8 +46,8 @@ export const esperienzeIslanda: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['islanda-2024'],
-    imageAlt: "La fisura eruptiva y las coladas de lava incandescente en la noche durante la erupción de diciembre de 2023 en la península de Reykjanes, Islandia",
-    immagine: '/images/islanda/vulcano-reykjanes.jpg',
+    imageAlt: 'La boca eruptiva del Litli-Hrútur, en la península de Reykjanes, con la lava naranja y el humo sobre el campo de lava negra',
+    immagine: '/images/islanda/eruzione-litli-hrutur-riccardo.jpg',
   },
   {
     slug: 'trekking-ghiacciaio-vatnajokull',
@@ -92,8 +92,8 @@ export const esperienzeIslanda: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ["Mirador gratuito en la orilla de la laguna, sin kayak"],
     tripSlugs: ['islanda-2024'],
-    imageAlt: "Icebergs azulados flotando en la laguna glaciar de Jökulsárlón y reflejándose en el agua en calma, con las montañas nevadas al fondo, Islandia",
-    immagine: '/images/islanda/kayak-jokulsarlon.jpg',
+    imageAlt: 'Una fila de kayaks de colores rema junto a un gran iceberg azul en la laguna de Jökulsárlón',
+    immagine: '/images/islanda/kayak-jokulsarlon-riccardo.jpg',
   },
   {
     slug: 'relitto-aereo-solheimasandur',
@@ -115,8 +115,8 @@ export const esperienzeIslanda: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['islanda-2024'],
-    imageAlt: "El pecio del Douglas DC-3 abandonado sobre la arena negra de Sólheimasandur bajo un cielo nublado, Islandia",
-    immagine: '/images/islanda/relitto-aereo-solheimasandur.jpg',
+    imageAlt: 'Los restos del DC-3 en la arena negra de Sólheimasandur vistos desde el dron, con el mar en el horizonte',
+    immagine: '/images/islanda/relitto-dc3-solheimasandur-riccardo.jpg',
   },
   {
     slug: 'golden-circle',
@@ -182,8 +182,8 @@ export const esperienzeIslanda: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: [],
     tripSlugs: ['islanda-2024'],
-    imageAlt: "Una fumarola que resopla vapor entre el terreno ocre de la zona geotérmica de Hverir, a los pies del Námafjall, Islandia",
-    immagine: '/images/islanda/zona-geotermale-myvatn.jpg',
+    imageAlt: 'Las pozas de barro hirviendo de Hverir, cerca del lago Mývatn, entre azufre, arcilla y vapor',
+    immagine: '/images/islanda/hverir-myvatn-riccardo.jpg',
   },
   {
     slug: 'terme-naturali-islanda',

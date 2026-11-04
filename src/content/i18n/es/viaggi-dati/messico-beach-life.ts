@@ -149,8 +149,8 @@ export const messicoBeachLifeMeta: TripMeta = {
       statoPernottamento: 'da-confermare',
       intensita: 'intenso',
       destinazioneSlug: 'holbox',
-      immagine: '/images/viaggi/messico-beach-life/giorno-10-holbox-acqua-bassa.jpg',
-      imageAlt: "El agua poco profunda y turquesa de Holbox con la playa blanca, donde también se circula en bicicleta",
+      immagine: '/images/messico/holbox-riva-riccardo.jpg',
+      imageAlt: 'El agua transparente en la orilla blanca de Holbox, con las palmeras y las palapas en el horizonte',
     },
     {
       titoloGiorno: 'Día 11 — Holbox: tiburón ballena',
@@ -159,8 +159,8 @@ export const messicoBeachLifeMeta: TripMeta = {
       statoPernottamento: 'da-confermare',
       intensita: 'medio',
       destinazioneSlug: 'holbox',
-      immagine: '/images/viaggi/messico-beach-life/giorno-11-holbox-squalo-balena.jpg',
-      imageAlt: 'Un tiburón ballena aflora a la superficie mientras unos buceadores con snorkel nadan a su lado, con la barca del tour al fondo',
+      immagine: '/images/messico/squalo-balena-nuoto-riccardo.jpg',
+      imageAlt: 'Un tiburón ballena entero nada bajo los bañistas en el agua verde de Holbox',
     },
     {
       titoloGiorno: 'Día 12 — Regreso a Cancún',

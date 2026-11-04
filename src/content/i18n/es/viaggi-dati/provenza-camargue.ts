@@ -102,8 +102,8 @@ export const provenzaCamargueMeta: TripMeta = {
       intensita: 'medio',
       costiNoti: 'comprobar el estado de la floración pocos días antes',
       destinazioneSlug: 'provenza',
-      immagine: '/images/viaggi/provenza-camargue/giorno-6-lavanda.jpg',
-      imageAlt: 'Un campo de lavanda en flor en la meseta de Valensole, con una casa de piedra al fondo',
+      immagine: '/images/francia/provenza-lavanda-riccardo.jpg',
+      imageAlt: 'Hileras de lavanda en flor y un camino blanco que curva entre los campos de la Provenza, vistos desde el dron',
     },
     {
       titoloGiorno: 'Día 7 — Las Gargantas del Verdon',

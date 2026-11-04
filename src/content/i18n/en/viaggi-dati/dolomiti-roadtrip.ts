@@ -69,8 +69,8 @@ export const dolomitiRoadtripMeta: TripMeta = {
       intensita: 'leggero',
       costiNoti: 'parking at the passes 3-8€/hour in high season; no toll on the road',
       destinazioneSlug: 'dolomiti',
-      immagine: '/images/viaggi/dolomiti-roadtrip/giorno-4-rifugio-nuvolau.jpg',
-      imageAlt: 'The Rifugio Nuvolau at the summit, with hikers arriving from the Cinque Torri',
+      immagine: '/images/italia/gruppo-sella-pascoli-riccardo.jpg',
+      imageAlt: 'The Sella Group above the reddening autumn pastures, along the Four Passes loop',
     },
     {
       titoloGiorno: 'Lagazuoi and the Great War trenches',
@@ -87,8 +87,8 @@ export const dolomitiRoadtripMeta: TripMeta = {
       intensita: 'medio',
       costiNoti: 'Malga Ciapela-Punta Rocca cable car about 35-38€ round trip',
       destinazioneSlug: 'dolomiti',
-      immagine: '/images/viaggi/dolomiti-roadtrip/marmolada.jpg',
-      imageAlt: 'The Marmolada glacier seen from Lago di Fedaia, with the dam in the foreground',
+      immagine: '/images/italia/marmolada-cresta-riccardo.jpg',
+      imageAlt: 'The Marmolada ridge above a sea of Dolomite peaks, seen from the drone',
     },
     {
       titoloGiorno: 'The Braies Valley',
@@ -106,8 +106,8 @@ export const dolomitiRoadtripMeta: TripMeta = {
       intensita: 'medio',
       costiNoti: 'Tre Cime road toll about 40€ per car (12 hours), mandatory online booking since 2026',
       destinazioneSlug: 'dolomiti',
-      immagine: '/images/viaggi/dolomiti-roadtrip/giorno-3-tre-cime.jpg',
-      imageAlt: 'The Tre Cime di Lavaredo at sunset seen from the Rifugio Locatelli',
+      immagine: '/images/italia/tre-cime-alba-riccardo.jpg',
+      imageAlt: 'The Tre Cime di Lavaredo golden at dawn above the shaded valley, seen from the drone',
     },
     {
       titoloGiorno: 'Brunico and the Val Pusteria',

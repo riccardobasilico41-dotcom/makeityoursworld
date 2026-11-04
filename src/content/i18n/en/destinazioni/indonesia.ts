@@ -180,8 +180,8 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Bali is two different islands depending on where you sleep, and that's why it gets opposite verdicts. The south between Canggu and Seminyak is made of concrete, traffic and places designed for people coming from outside: you can have fun, but Indonesia is elsewhere. Twenty kilometers inland is enough and the flower offerings in front of the houses, renewed every morning, reappear, along with temples in use rather than on display: the island becomes what you came looking for. More than any rice paddy or beach, what stayed with me is the Kecak dance at Uluwatu at sunset, with seventy men sitting in a circle making all the music with their voices. Nusa Penida, on the other hand, is by now a victim of its own success (Kelingking at midday is a line of people on a steep path) and it's best to be on the first boat in the morning.",
     esperienzeSlugs: ['giornata-nusa-penida'],
     tripSlugs: ['indonesia-itinerario', 'giava-bali-gili'],
-    imageAlt: "Terraced rice paddies with palm trees at the entrance of the Gunung Kawi temple at Tampaksiring, Bali",
-    immagine: '/images/indonesia/bali.jpg',
+    imageAlt: 'The Jatiluwih rice terraces in Bali, glistening with water to the horizon, seen from the drone',
+    immagine: '/images/indonesia/jatiluwih-terrazze-riccardo.jpg',
   },
   {
     slug: 'sulawesi',
@@ -265,8 +265,8 @@ export const destinazioniIndonesia: Destinazione[] = [
       "The Rinjani is the hardest trek I did in Indonesia, and comparison with the others doesn't hold up. The climb to the crater rim is long and exposed, and ends on volcanic sand where for every three steps you lose one. We pitched camp on the rim, in the wind, and you sleep little and badly. Waking up above Lake Segara Anak with the clouds below, though, repays everything. The Gilis are perfect right afterward: no cars or scooters, you walk around in an hour and the turtles can be seen from the beach, with no boat or guide. Trawangan at night is more of a party than some expect, Meno is the opposite: better to know before booking.",
     esperienzeSlugs: ['trekking-gunung-rinjani'],
     tripSlugs: ['indonesia-itinerario', 'giava-bali-gili'],
-    imageAlt: "The Rinjani massif on Lombok seen from the beach of Gili Trawangan, with Gili Meno in the foreground",
-    immagine: '/images/indonesia/lombok-gili.jpg',
+    imageAlt: 'A white sand islet off Lombok, with outrigger boats moored and the hills behind',
+    immagine: '/images/indonesia/gili-isolotto-barche-riccardo.jpg',
   },
   {
     slug: 'komodo',

@@ -46,8 +46,8 @@ export const esperienzeIslanda: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['islanda-2024'],
-    imageAlt: 'The eruptive fissure and glowing lava flows at night during the December 2023 eruption on the Reykjanes peninsula, Iceland',
-    immagine: '/images/islanda/vulcano-reykjanes.jpg',
+    imageAlt: 'The Litli-Hrútur eruptive vent on the Reykjanes peninsula, with orange lava and smoke over the black lava field',
+    immagine: '/images/islanda/eruzione-litli-hrutur-riccardo.jpg',
   },
   {
     slug: 'trekking-ghiacciaio-vatnajokull',
@@ -92,8 +92,8 @@ export const esperienzeIslanda: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: ['Free viewpoint on the shore of the lagoon, without a kayak'],
     tripSlugs: ['islanda-2024'],
-    imageAlt: 'Blue icebergs floating in the Jökulsárlón glacial lagoon and reflected in the calm water, with snow-covered mountains in the background, Iceland',
-    immagine: '/images/islanda/kayak-jokulsarlon.jpg',
+    imageAlt: 'A line of colourful kayaks paddling past a large blue iceberg in the Jökulsárlón lagoon',
+    immagine: '/images/islanda/kayak-jokulsarlon-riccardo.jpg',
   },
   {
     slug: 'relitto-aereo-solheimasandur',
@@ -115,8 +115,8 @@ export const esperienzeIslanda: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['islanda-2024'],
-    imageAlt: 'The wreck of the Douglas DC-3 abandoned on the black sand of Sólheimasandur under a cloudy sky, Iceland',
-    immagine: '/images/islanda/relitto-aereo-solheimasandur.jpg',
+    imageAlt: 'The DC-3 wreck on the black sand of Sólheimasandur seen from the drone, with the sea on the horizon',
+    immagine: '/images/islanda/relitto-dc3-solheimasandur-riccardo.jpg',
   },
   {
     slug: 'golden-circle',
@@ -182,8 +182,8 @@ export const esperienzeIslanda: Esperienza[] = [
     giudizio: 'la-rifarei',
     alternative: [],
     tripSlugs: ['islanda-2024'],
-    imageAlt: 'A fumarole puffing steam among the ocher ground of the Hverir geothermal area, at the foot of Námafjall, Iceland',
-    immagine: '/images/islanda/zona-geotermale-myvatn.jpg',
+    imageAlt: 'The boiling mud pools of Hverir, near Lake Mývatn, among sulphur, clay and steam',
+    immagine: '/images/islanda/hverir-myvatn-riccardo.jpg',
   },
   {
     slug: 'terme-naturali-islanda',

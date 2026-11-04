@@ -40,8 +40,8 @@ export const destinazioniGiappone: Destinazione[] = [
       "We came for the sakura bloom but a few days off the peak: in early April the cherry trees in Tokyo were already near the end, with petals falling like pink snow (hanafubuki) and the branches more bare. It was a different way of experiencing the bloom, and beautiful all the same.",
     esperienzeSlugs: ['sakura-chasing-tokyo', 'shibuya-crossing'],
     tripSlugs: ['giappone-itinerario'],
-    imageAlt: 'Shibuya Crossing lit up in the evening in Tokyo, Japan',
-    immagine: '/images/giappone/tokyo-stock.jpg',
+    imageAlt: 'Tokyo from above at sunset, with the red and white Tokyo Tower among the skyscrapers',
+    immagine: '/images/giappone/tokyo-tower-dall-alto-riccardo.jpg',
   },
   {
     slug: 'kamakura',
@@ -244,8 +244,8 @@ export const destinazioniGiappone: Destinazione[] = [
       "Osaka was the culinary surprise of the trip: between kushikatsu, okonomiyaki and takoyaki in the Shinsekai area, the street food here has a different energy from the more composed one of Tokyo and Kyoto.",
     esperienzeSlugs: [],
     tripSlugs: ['giappone-itinerario'],
-    imageAlt: 'The Dotonbori district lit up in the evening in Osaka, Japan',
-    immagine: '/images/giappone/osaka-stock.jpg',
+    imageAlt: 'A yellow boat on the Dotonbori canal in Osaka, among the lights of the buildings at dusk',
+    immagine: '/images/giappone/dotonbori-canale-riccardo.jpg',
   },
   {
     slug: 'nara',

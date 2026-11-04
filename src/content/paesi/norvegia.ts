@@ -35,7 +35,7 @@ export const norvegia: Paese = {
     aggiornatoAl: 'settembre 2026',
   },
   stileViaggio: ['natura', 'avventura', 'on the road'],
-  heroImageAlt: 'La chiesa di Svolvær con le case rosse del porto sullo sfondo di un cielo tempestoso, Lofoten',
-  heroImage: '/images/norvegia/svolvaer-stock.jpg',
+  heroImageAlt: "Gli scogli e il faro di Henningsvær, con le montagne delle Lofoten all'orizzonte",
+  heroImage: '/images/norvegia/henningsvaer-faro-montagne-riccardo.jpg',
   tripPrincipaleSlug: 'lofoten-estate-2025',
 }

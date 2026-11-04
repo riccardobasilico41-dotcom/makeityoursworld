@@ -64,8 +64,8 @@ export const esperienzeItalia: Esperienza[] = [
       'Walking up to the Tre Cime from the Val Fiscalina, avoiding toll and booking',
     ],
     tripSlugs: ['dolomiti-roadtrip'],
-    imageAlt: 'The Tre Cime di Lavaredo seen from Misurina above the fir forests, Dolomites',
-    immagine: '/images/italia/tre-cime-lavaredo.jpg',
+    imageAlt: 'The Tre Cime di Lavaredo golden at dawn above the shaded valley, seen from the drone',
+    immagine: '/images/italia/tre-cime-alba-riccardo.jpg',
   },
   {
     slug: 'via-ferrata-dolomiti',
@@ -126,8 +126,8 @@ export const esperienzeItalia: Esperienza[] = [
       'A day focused on a single valley, for those who want to ski instead of travel',
     ],
     tripSlugs: ['settimana-bianca'],
-    imageAlt: 'The snow-covered Sassolungo seen from a Sellaronda slope above Canazei, Dolomites',
-    immagine: '/images/italia/sellaronda.jpg',
+    imageAlt: 'The Sella Group above the pass hairpins and autumn pastures, on the Sellaronda loop',
+    immagine: '/images/italia/gruppo-sella-tornanti-riccardo.jpg',
   },
   {
     slug: 'scialpinismo-ciaspole',

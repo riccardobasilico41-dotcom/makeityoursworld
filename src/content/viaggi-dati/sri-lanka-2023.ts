@@ -113,8 +113,8 @@ export const sriLanka2023Meta: TripMeta = {
       statoPernottamento: 'provato',
       intensita: 'intenso',
       destinazioneSlug: 'nallathanniya',
-      immagine: '/images/viaggi/sri-lanka-2023/notte-adams-peak.jpg',
-      imageAlt: "La scalinata affollata di centinaia di pellegrini infreddoliti vicino alla vetta dell'Adam's Peak, poco dopo l'alba",
+      immagine: '/images/sri-lanka/adams-peak-alba-santuario-riccardo.jpg',
+      imageAlt: "Il santuario sulla vetta di Sri Pada all'alba, sopra le valli ancora in ombra",
     },
     {
       titoloGiorno: 'Giorno 7 — Hatton-Nuwara Eliya: piantagioni di tè',
@@ -124,8 +124,8 @@ export const sriLanka2023Meta: TripMeta = {
       intensita: 'medio',
       costiNoti: 'Attività a Nuwara Eliya 5.000-8.000 LKR',
       destinazioneSlug: 'nuwara-eliya',
-      immagine: '/images/viaggi/sri-lanka-2023/giorno-7-tea-pickers.jpg',
-      imageAlt: "Due raccoglitrici di tè tra i filari verdi di una piantagione sulle colline di Nuwara Eliya",
+      immagine: '/images/sri-lanka/cascata-colline-te-riccardo.jpg',
+      imageAlt: 'Una cascata a gradoni tra le colline delle piantagioni di tè, sulla strada tra Hatton e Nuwara Eliya',
     },
     {
       titoloGiorno: 'Giorno 8 — Nuwara Eliya-Ella: il treno panoramico',

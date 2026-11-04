@@ -455,8 +455,8 @@ export const destinazioniPeru: Destinazione[] = [
       'Siamo entrati in Amazzonia da Puerto Maldonado, col volo da Lima e poi la barca lungo il fiume fino a un lodge nella riserva di Tambopata. Non è il documentario che ci si aspetta: nella foresta fitta si sente molto più di quanto si veda. Abbiamo fatto la canopy walkway fra le chiome degli alberi e la navigazione fino al lago Sandoval, quello delle lontre giganti. Il momento che ha ribaltato tutto è stato l\'alba alla collpa, quando centinaia di pappagalli e ara sono arrivati insieme sulla parete d\'argilla e per venti minuti non siamo riusciti a guardare altro. L\'altra cosa che conta più di quanto sembri è la distanza dalla città: dai lodge vicini, comodi, si vede pochissimo, mentre qualche ora di barca in più cambia l\'esperienza. Al caldo umido non mi sono mai abituato del tutto, ma se si riesce, all\'Amazzonia va dedicato tempo: è incredibile.',
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario'],
-    imageAlt: 'La foresta pluviale che scende fino alle acque del fiume Madre de Dios, nell\'Amazzonia peruviana',
-    immagine: '/images/peru/amazzonia-peruviana.jpg',
+    imageAlt: "Un fiume dell'Amazzonia peruviana che corre dritto nella foresta, visto dal drone sotto il cielo azzurro",
+    immagine: '/images/peru/amazzonia-fiume-foresta-riccardo.jpg',
   },
   {
     slug: 'lago-titicaca',

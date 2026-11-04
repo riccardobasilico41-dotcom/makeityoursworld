@@ -149,8 +149,8 @@ export const messicoBeachLifeMeta: TripMeta = {
       statoPernottamento: 'da-confermare',
       intensita: 'intenso',
       destinazioneSlug: 'holbox',
-      immagine: '/images/viaggi/messico-beach-life/giorno-10-holbox-acqua-bassa.jpg',
-      imageAlt: "The shallow turquoise water of Holbox with the white beach, where you also get around by bicycle",
+      immagine: '/images/messico/holbox-riva-riccardo.jpg',
+      imageAlt: 'Clear water on the white shore of Holbox, with palm trees and palapas on the horizon',
     },
     {
       titoloGiorno: 'Day 11 — Holbox: whale shark',
@@ -159,8 +159,8 @@ export const messicoBeachLifeMeta: TripMeta = {
       statoPernottamento: 'da-confermare',
       intensita: 'medio',
       destinazioneSlug: 'holbox',
-      immagine: '/images/viaggi/messico-beach-life/giorno-11-holbox-squalo-balena.jpg',
-      imageAlt: 'A whale shark surfaces as snorkelers swim alongside, with the tour boat in the background',
+      immagine: '/images/messico/squalo-balena-nuoto-riccardo.jpg',
+      imageAlt: 'A whole whale shark swimming beneath the snorkellers in the green water of Holbox',
     },
     {
       titoloGiorno: 'Day 12 — Return to Cancún',

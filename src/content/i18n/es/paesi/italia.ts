@@ -41,7 +41,7 @@ export const italia: Paese = {
     emergenze: "Número único europeo 112. Rescate alpino a través del 112, indicando la posición: las apps que transmiten las coordenadas exactas son tan útiles como un seguro.",
     aggiornatoAl: 'septiembre de 2026',
   },
-  heroImage: '/images/italia/italia-paese.jpg',
-  heroImageAlt: "Prados de alta montaña y paredes de roca de los Dolomitas vistos desde el Monte Piana bajo un cielo de nubes",
+  heroImage: '/images/italia/sassolungo-passo-sella-riccardo.jpg',
+  heroImageAlt: 'Las tres puntas del Sassolungo sobre los pastos y pedreras del Paso Sella, Dolomitas',
   tripPrincipaleSlug: 'dolomiti-roadtrip',
 }

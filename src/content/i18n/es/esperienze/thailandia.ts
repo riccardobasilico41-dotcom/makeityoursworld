@@ -42,8 +42,8 @@ export const esperienzeThailandia: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['thailandia'],
-    imageAlt: "Las aguas tranquilas y las montañas del parque nacional de Khao Sok bajo un cielo nublado, vistas desde un kayak",
-    immagine: '/images/thailandia/crociera-cheow-lan.jpg',
+    imageAlt: 'Torres kársticas y nubes blancas sobre el agua esmeralda del lago Cheow Lan, entre las salpicaduras de la barca',
+    immagine: '/images/thailandia/cheow-lan-torri-riccardo.jpg',
   },
   {
     slug: 'bond-island-canoa',

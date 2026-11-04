@@ -107,8 +107,8 @@ export const provenzaCamargueMeta: TripMeta = {
       intensita: 'medio',
       costiNoti: 'verificare stato della fioritura pochi giorni prima',
       destinazioneSlug: 'provenza',
-      immagine: '/images/viaggi/provenza-camargue/giorno-6-lavanda.jpg',
-      imageAlt: 'Un campo di lavanda in fiore nell\'altopiano di Valensole, con un casale in pietra sullo sfondo',
+      immagine: '/images/francia/provenza-lavanda-riccardo.jpg',
+      imageAlt: 'Righe di lavanda in fiore e una strada bianca che curva tra i campi della Provenza, viste dal drone',
     },
     {
       titoloGiorno: 'Giorno 7 — Le Gole del Verdon',

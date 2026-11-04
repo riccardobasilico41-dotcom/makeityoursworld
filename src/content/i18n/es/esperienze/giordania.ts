@@ -108,8 +108,8 @@ export const esperienzeGiordania: Esperienza[] = [
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['giordania-itinerario'],
-    imageAlt: 'Una camioneta 4x4 con turistas en la caja que atraviesa la arena roja de Wadi Rum',
-    immagine: '/images/giordania/jeep-safari-wadi-rum.jpg',
+    imageAlt: 'Chicos juegan al fútbol en la arena roja del Wadi Rum entre los dromedarios, con las montañas de arenisca en el horizonte',
+    immagine: '/images/giordania/wadi-rum-calcio-dromedari-riccardo.jpg',
   },
   {
     slug: 'capodanno-deserto',

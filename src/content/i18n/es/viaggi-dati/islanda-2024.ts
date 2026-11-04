@@ -45,8 +45,8 @@ export const islanda2024Meta: TripMeta = {
       intensita: 'medio',
       costiNoti: "Autobús 55: 4 € por persona y trayecto",
       destinazioneSlug: 'keflavik',
-      immagine: '/images/viaggi/islanda-2024/giorno-1-eruzione-reykjanes.jpg',
-      imageAlt: "Fuentes de lava incandescente que brotan de una fisura eruptiva en la península de Reykjanes, de noche",
+      immagine: '/images/islanda/eruzione-litli-hrutur-piana-riccardo.jpg',
+      imageAlt: 'La erupción del Litli-Hrútur desde el dron: la lava roja y el penacho de humo en medio de la llanura de Reykjanes',
     },
     {
       titoloGiorno: "Día 2 — Golden Circle: Geysir y Gullfoss",
@@ -67,8 +67,8 @@ export const islanda2024Meta: TripMeta = {
       intensita: 'intenso',
       costiNoti: "Comida en Reynisfjara 2-3.000 ISK",
       destinazioneSlug: 'skaftafell-jokulsarlon',
-      immagine: '/images/viaggi/islanda-2024/giorno-3-reynisfjara.jpg',
-      imageAlt: "Las columnas de basalto de la playa de arena negra de Reynisfjara, con el farallón al fondo",
+      immagine: '/images/islanda/jokulsarlon-arco-riccardo.jpg',
+      imageAlt: 'Un iceberg en forma de arco en la laguna glaciar de Jökulsárlón, la última parada del día',
     },
     {
       titoloGiorno: "Día 4 — Viking Village, fiordos del Este y Egilsstaðir",
@@ -88,8 +88,8 @@ export const islanda2024Meta: TripMeta = {
       statoPernottamento: 'provato',
       intensita: 'intenso',
       destinazioneSlug: 'asbyrgi',
-      immagine: '/images/viaggi/islanda-2024/giorno-5-studlagil.jpg',
-      imageAlt: "Las columnas hexagonales de basalto del cañón de Stuðlagil reflejadas en el agua turquesa del río",
+      immagine: '/images/islanda/studlagil-basalto-riccardo.jpg',
+      imageAlt: 'El muro de columnas de basalto del cañón de Stuðlagil sobre el río glaciar',
     },
     {
       titoloGiorno: "Día 6 — Húsavík, avistamiento de ballenas y el lago Mývatn",
@@ -99,8 +99,8 @@ export const islanda2024Meta: TripMeta = {
       intensita: 'intenso',
       costiNoti: "Camping ~1.500 ISK/persona + tarifa por la tienda",
       destinazioneSlug: 'akureyri',
-      immagine: '/images/viaggi/islanda-2024/giorno-6-husavik.jpg',
-      imageAlt: "El puerto de Húsavík con los barcos de avistamiento de ballenas amarrados y las montañas nevadas al fondo",
+      immagine: '/images/islanda/hverfjall-myvatn-riccardo.jpg',
+      imageAlt: 'Desde el borde del cráter Hverfjall se abre el lago Mývatn con sus islotes',
     },
     {
       titoloGiorno: "Día 7 — Hacia la península de Snæfellsnes",

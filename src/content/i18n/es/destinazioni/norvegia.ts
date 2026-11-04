@@ -135,8 +135,8 @@ export const destinazioniNorvegia: Destinazione[] = [
       'Henningsvær fue una de las sorpresas del viaje: la comida junto al canal, el campo de fútbol y, por la tarde, el Festvågtind, un trekking más salvaje y menos concurrido que el Reinebringen.',
     esperienzeSlugs: ['festvagtind-trail'],
     tripSlugs: ['lofoten-estate-2025'],
-    imageAlt: 'Vista aérea del célebre campo de fútbol de Henningsvær encajado entre el mar y las montañas',
-    immagine: '/images/norvegia/henningsvaer-stock.jpg',
+    imageAlt: 'Henningsvær desde el dron: el campo de fútbol sobre la roca, los secaderos de bacalao y el archipiélago de islotes verdes',
+    immagine: '/images/norvegia/henningsvaer-stadio-riccardo.jpg',
   },
   {
     slug: 'reine',

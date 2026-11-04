@@ -69,8 +69,8 @@ export const dolomitiRoadtripMeta: TripMeta = {
       intensita: 'leggero',
       costiNoti: 'aparcamientos en los puertos 3-8 €/hora en temporada alta; sin peaje en la carretera',
       destinazioneSlug: 'dolomiti',
-      immagine: '/images/viaggi/dolomiti-roadtrip/giorno-4-rifugio-nuvolau.jpg',
-      imageAlt: "El Rifugio Nuvolau en la cumbre, con los excursionistas que llegan desde las Cinque Torri",
+      immagine: '/images/italia/gruppo-sella-pascoli-riccardo.jpg',
+      imageAlt: 'El Grupo del Sella sobre los pastos enrojecidos de otoño, en la vuelta de los Cuatro Pasos',
     },
     {
       titoloGiorno: 'El Lagazuoi y las trincheras de la Gran Guerra',
@@ -87,8 +87,8 @@ export const dolomitiRoadtripMeta: TripMeta = {
       intensita: 'medio',
       costiNoti: 'teleférico Malga Ciapela-Punta Rocca unos 35-38 € ida y vuelta',
       destinazioneSlug: 'dolomiti',
-      immagine: '/images/viaggi/dolomiti-roadtrip/marmolada.jpg',
-      imageAlt: "El glaciar de la Marmolada visto desde el Lago di Fedaia, con la presa en primer plano",
+      immagine: '/images/italia/marmolada-cresta-riccardo.jpg',
+      imageAlt: 'La cresta de la Marmolada sobre un mar de cumbres dolomíticas, vista desde el dron',
     },
     {
       titoloGiorno: 'El Valle de Braies',
@@ -106,8 +106,8 @@ export const dolomitiRoadtripMeta: TripMeta = {
       intensita: 'medio',
       costiNoti: 'peaje carretera Tre Cime unos 40 € por coche (12 horas), reserva online obligatoria desde 2026',
       destinazioneSlug: 'dolomiti',
-      immagine: '/images/viaggi/dolomiti-roadtrip/giorno-3-tre-cime.jpg',
-      imageAlt: "Las Tre Cime di Lavaredo al atardecer vistas desde el Rifugio Locatelli",
+      immagine: '/images/italia/tre-cime-alba-riccardo.jpg',
+      imageAlt: 'Las Tre Cime di Lavaredo doradas al amanecer sobre el valle en sombra, vistas desde el dron',
     },
     {
       titoloGiorno: 'Brunico y el Val Pusteria',

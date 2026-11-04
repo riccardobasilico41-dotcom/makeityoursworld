@@ -37,7 +37,7 @@ export const messico: Paese = {
     aggiornatoAl: 'septiembre de 2026',
   },
   stileViaggio: ['mare', 'natura', 'cultura', 'nightlife'],
-  heroImageAlt: 'Playa blanca y agua poco profunda turquesa de la isla de Holbox',
-  heroImage: '/images/messico/holbox-barche.jpg',
+  heroImageAlt: 'Una lancha anclada en el agua baja y cristalina de Holbox, con la orilla blanca y las palmeras en el horizonte',
+  heroImage: '/images/messico/holbox-barca-acqua-bassa-riccardo.jpg',
   tripPrincipaleSlug: 'messico-beach-life',
 }

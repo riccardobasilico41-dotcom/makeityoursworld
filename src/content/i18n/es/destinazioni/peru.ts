@@ -448,8 +448,8 @@ export const destinazioniPeru: Destinazione[] = [
       "Entramos en la Amazonia por Puerto Maldonado, con el vuelo desde Lima y luego la barca por el río hasta un lodge en la reserva de Tambopata. No es el documental que uno espera: en la selva espesa se oye mucho más de lo que se ve. Hicimos la canopy walkway entre las copas de los árboles y la navegación hasta el lago Sandoval, el de las nutrias gigantes. El momento que lo dio todo la vuelta fue el amanecer en la collpa, cuando cientos de loros y guacamayos llegaron juntos a la pared de arcilla y durante veinte minutos no conseguimos mirar otra cosa. La otra cosa que cuenta más de lo que parece es la distancia de la ciudad: desde los lodges cercanos, cómodos, se ve poquísimo, mientras que unas horas más de barca cambian la experiencia. Al calor húmedo nunca me acostumbré del todo, pero si se puede, a la Amazonia hay que dedicarle tiempo: es increíble.",
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario'],
-    imageAlt: "La selva tropical que baja hasta las aguas del río Madre de Dios, en la Amazonia peruana",
-    immagine: '/images/peru/amazzonia-peruviana.jpg',
+    imageAlt: 'Un río de la Amazonía peruana que corre recto por la selva, visto desde el dron bajo el cielo azul',
+    immagine: '/images/peru/amazzonia-fiume-foresta-riccardo.jpg',
   },
   {
     slug: 'lago-titicaca',

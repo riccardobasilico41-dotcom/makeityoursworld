@@ -36,8 +36,8 @@ export const destinazioniGiordania: Destinazione[] = [
       'La Cittadella, con la vista su tutta la città vecchia, è stata una tappa carina per chiudere il viaggio prima del volo di rientro, anche se non è quello che ricordo di più della Giordania.',
     esperienzeSlugs: ['cittadella-amman'],
     tripSlugs: ['giordania-itinerario'],
-    imageAlt: 'Le colonne del Tempio di Ercole sulla Cittadella di Amman, Giordania',
-    immagine: '/images/giordania/amman-stock.jpg',
+    imageAlt: "Un gatto bianco e arancio avanza verso l'obiettivo sulle colline di Amman, con i palazzi della città sullo sfondo",
+    immagine: '/images/giordania/amman-gatto-skyline-riccardo.jpg',
   },
   {
     slug: 'jerash',

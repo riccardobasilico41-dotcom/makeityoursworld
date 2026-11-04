@@ -36,7 +36,7 @@ export const islanda: Paese = {
     aggiornatoAl: 'September 2026',
   },
   stileViaggio: ['natura', 'avventura', 'campeggio', 'on the road'],
-  heroImageAlt: 'Blue icebergs floating in the Jökulsárlón glacial lagoon, Iceland',
-  heroImage: '/images/islanda/jokulsarlon-stock.jpg',
+  heroImageAlt: 'A large blue iceberg floating on the Jökulsárlón glacier lagoon, with the Vatnajökull mountains behind',
+  heroImage: '/images/islanda/jokulsarlon-iceberg-riccardo.jpg',
   tripPrincipaleSlug: 'islanda-2024',
 }

@@ -199,8 +199,8 @@ export const destinazioniItalia: Destinazione[] = [
       "En las Dolomitas la comparación con el resto del mundo deja de funcionar, y no es cuestión de campanilismo: paredes verticales, prados altos y una red tan densa de refugios con cocina y camas no los he encontrado juntos en ningún otro sitio. Se camina ocho horas con una mochila de treinta litros y por la noche se come polenta y queso fundido a dos mil quinientos metros, mientras la pared se vuelve rosa. El enrosadira parece un invento de folleto, pero es un fenómeno real ligado a la composición de la dolomía: la primera vez que ves encenderse así una pared entiendes por qué a estos montes les dieron un nombre propio. Dicho esto, hay que decir claro que en julio y agosto ciertos puntos se han vuelto impracticables. La vuelta a las Tre Cime en pleno agosto es una fila india, los aparcamientos se agotan al amanecer, y en 2026 han tenido que poner la reserva obligatoria en la carretera. No hace falta renunciar: basta ir en septiembre, cuando los refugios siguen abiertos y hay un tercio de la gente, o desplazarse veinte kilómetros hacia los valles que nadie fotografía.",
     esperienzeSlugs: ['alta-via-1', 'tre-cime-lavaredo', 'via-ferrata-dolomiti'],
     tripSlugs: ['dolomiti-roadtrip'],
-    imageAlt: "Las Tre Cime di Lavaredo reflejadas en un pequeño lago alpino rodeado de alerces en otoño, Dolomitas",
-    immagine: '/images/italia/dolomiti.jpg',
+    imageAlt: 'Las agujas de las Pale di San Martino saliendo de las nubes sobre los prados del Paso Rolle, Dolomitas',
+    immagine: '/images/italia/pale-san-martino-passo-rolle-riccardo.jpg',
   },
   {
     slug: 'sciare-in-italia',

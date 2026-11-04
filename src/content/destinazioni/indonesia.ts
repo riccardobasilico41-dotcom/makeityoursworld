@@ -192,8 +192,8 @@ export const destinazioniIndonesia: Destinazione[] = [
       'Bali è due isole diverse a seconda di dove si dorme, ed è il motivo per cui riceve giudizi opposti. Il sud tra Canggu e Seminyak è fatto di cemento, traffico e locali pensati per chi arriva da fuori: ci si può divertire, ma l\'Indonesia è altrove. Bastano venti chilometri verso l\'interno e ricompaiono le offerte di fiori davanti alle case, rinnovate ogni mattina, e i templi in uso invece che in mostra: l\'isola torna quella che si veniva a cercare. Più di qualsiasi risaia o spiaggia mi è rimasta impressa la danza Kecak a Uluwatu al tramonto, con settanta uomini seduti in cerchio che fanno tutta la musica con la voce. Nusa Penida invece è ormai vittima del proprio successo (Kelingking a metà giornata è una coda di persone su un sentiero ripido) e conviene essere sulla prima barca del mattino.',
     esperienzeSlugs: ['giornata-nusa-penida'],
     tripSlugs: ['indonesia-itinerario', 'giava-bali-gili'],
-    imageAlt: 'Le risaie a terrazze con le palme all\'ingresso del tempio di Gunung Kawi a Tampaksiring, Bali',
-    immagine: '/images/indonesia/bali.jpg',
+    imageAlt: "Le risaie a terrazze di Jatiluwih, a Bali, lucide d'acqua fino all'orizzonte, viste dal drone",
+    immagine: '/images/indonesia/jatiluwih-terrazze-riccardo.jpg',
   },
   {
     slug: 'sulawesi',
@@ -277,8 +277,8 @@ export const destinazioniIndonesia: Destinazione[] = [
       'Il Rinjani è il trekking più duro che ho fatto in Indonesia, e il paragone con gli altri non regge. La salita al bordo del cratere è lunga ed esposta, e finisce su sabbia vulcanica dove ogni tre passi se ne perde uno. Il campo l\'abbiamo montato sul ciglio, col vento, e la notte si dorme poco e male. Svegliarsi sopra il lago Segara Anak con le nuvole sotto, però, ripaga tutto. Le Gili sono perfette subito dopo: niente auto né scooter, si gira a piedi in un\'ora e le tartarughe si vedono partendo dalla spiaggia, senza barca né guida. Trawangan la sera è più festaiola di quanto qualcuno si aspetti, Meno è l\'opposto: meglio saperlo prima di prenotare.',
     esperienzeSlugs: ['trekking-gunung-rinjani'],
     tripSlugs: ['indonesia-itinerario', 'giava-bali-gili'],
-    imageAlt: 'Il massiccio del Rinjani di Lombok visto dalla spiaggia di Gili Trawangan, con Gili Meno in primo piano',
-    immagine: '/images/indonesia/lombok-gili.jpg',
+    imageAlt: 'Un isolotto di sabbia bianca al largo di Lombok, con le barche a bilanciere ormeggiate e le colline sullo sfondo',
+    immagine: '/images/indonesia/gili-isolotto-barche-riccardo.jpg',
   },
   {
     slug: 'komodo',

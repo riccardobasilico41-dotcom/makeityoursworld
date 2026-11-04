@@ -448,8 +448,8 @@ export const destinazioniPeru: Destinazione[] = [
       "We entered the Amazon from Puerto Maldonado, with the flight from Lima and then the boat along the river to a lodge in the Tambopata reserve. It's not the documentary you expect: in the dense forest you hear much more than you see. We did the canopy walkway among the treetops and the boat trip to Lake Sandoval, the one with the giant otters. The moment that turned everything around was dawn at the collpa, when hundreds of parrots and macaws arrived together on the clay wall and for twenty minutes we couldn't look at anything else. The other thing that matters more than it seems is the distance from the city: from the nearby, comfortable lodges you see very little, while a few more hours by boat change the experience. I never got fully used to the humid heat, but if you manage it, the Amazon deserves time: it's incredible.",
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario'],
-    imageAlt: 'The rainforest running down to the waters of the Madre de Dios River, in the Peruvian Amazon',
-    immagine: '/images/peru/amazzonia-peruviana.jpg',
+    imageAlt: 'A river in the Peruvian Amazon running straight through the forest, seen from the drone under a blue sky',
+    immagine: '/images/peru/amazzonia-fiume-foresta-riccardo.jpg',
   },
   {
     slug: 'lago-titicaca',

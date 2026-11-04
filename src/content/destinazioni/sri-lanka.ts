@@ -184,8 +184,8 @@ export const destinazioniSriLanka: Destinazione[] = [
       'La notte sull\'Adam\'s Peak, in fila indiana con centinaia di pellegrini locali su una scalinata tutta illuminata, è stata la vera prova fisica del viaggio. In cima il freddo taglia, ma salire insieme a chi lo fa per fede, e non per turismo, conta più dell\'alba stessa.',
     esperienzeSlugs: ['rafting-kitulgala', 'scalata-adams-peak'],
     tripSlugs: ['sri-lanka-2023'],
-    imageAlt: 'La scalinata di pellegrinaggio illuminata che sale verso la cima dell\'Adam\'s Peak, Sri Lanka',
-    immagine: '/images/sri-lanka/adams-peak-stock.jpg',
+    imageAlt: "Il santuario sulla vetta dell'Adam's Peak e la scalinata dei pellegrini sul costone verde, tra le nubi basse",
+    immagine: '/images/sri-lanka/adams-peak-vetta-riccardo.jpg',
   },
   {
     slug: 'nuwara-eliya',

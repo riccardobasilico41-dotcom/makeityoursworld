@@ -76,8 +76,8 @@ export const giappone360Meta: TripMeta = {
       statoPernottamento: 'provato',
       intensita: 'medio',
       destinazioneSlug: 'kyoto',
-      immagine: '/images/viaggi/giappone-360/giorno-4-shinkansen.jpg',
-      imageAlt: 'An N700 Shinkansen stopped at Kyoto station, ready to depart',
+      immagine: '/images/giappone/fuji-dallo-shinkansen-riccardo.jpg',
+      imageAlt: 'Snow-capped Mount Fuji beyond the rice fields, seen from the Shinkansen window between Tokyo and Kyoto',
     },
     {
       titoloGiorno: 'Day 5 (10.04) — Kyoto: Arashiyama, the Bamboo Forest and Gion',
@@ -160,8 +160,8 @@ export const giappone360Meta: TripMeta = {
       statoPernottamento: 'provato',
       intensita: 'leggero',
       destinazioneSlug: 'tokyo',
-      immagine: '/images/viaggi/giappone-360/giorno-12-tokyo-skyline.jpg',
-      imageAlt: 'The Tokyo skyline at sunset with the Tokyo Skytree and Mount Fuji in the background',
+      immagine: '/images/giappone/tokyo-tower-dall-alto-riccardo.jpg',
+      imageAlt: 'Tokyo from above at sunset, with the red and white Tokyo Tower among the skyscrapers',
     },
   ],
   budget: [

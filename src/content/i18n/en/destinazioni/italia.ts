@@ -199,8 +199,8 @@ export const destinazioniItalia: Destinazione[] = [
       "In the Dolomites, comparisons with the rest of the world stop working, and it's not local pride: vertical walls, high meadows and a network of huts with kitchens and beds this dense are something I haven't found together anywhere else. You walk eight hours with a thirty-liter pack and in the evening you eat polenta and melted cheese at two thousand five hundred meters while the wall turns pink. The enrosadira sounds like a brochure gimmick, but it's a real phenomenon tied to the composition of the dolomite: the first time you see a wall light up like that, you understand why these mountains were given a name of their own. That said, let's be clear that in July and August some spots have become impossible. The Tre Cime loop in the middle of August is a single-file line, the parking lots fill up at dawn, and in 2026 they had to make booking mandatory on the road. Giving up isn't necessary: just go in September, when the huts are still open and there's a third of the people, or move twenty kilometers toward the valleys nobody photographs.",
     esperienzeSlugs: ['alta-via-1', 'tre-cime-lavaredo', 'via-ferrata-dolomiti'],
     tripSlugs: ['dolomiti-roadtrip'],
-    imageAlt: "The Tre Cime di Lavaredo reflected in an alpine pond surrounded by larches in autumn, Dolomites",
-    immagine: '/images/italia/dolomiti.jpg',
+    imageAlt: 'The spires of the Pale di San Martino rising out of the clouds above the meadows of Passo Rolle, Dolomites',
+    immagine: '/images/italia/pale-san-martino-passo-rolle-riccardo.jpg',
   },
   {
     slug: 'sciare-in-italia',

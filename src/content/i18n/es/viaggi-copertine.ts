@@ -10,16 +10,16 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     imageAlt: "El casco antiguo de Tallin visto desde el mirador de Patkuli, con la aguja de la iglesia de San Olaf y las torres de la muralla entre los árboles otoñales",
   },
   'lofoten-estate-2025': {
-    immagine: '/images/copertine/lofoten-estate-2025.jpg',
-    imageAlt: "Reine desde lo alto: el fiordo azul, las paredes de roca de las Lofoten y el pueblo de pescadores repartido entre los islotes unidos por puentes",
+    immagine: '/images/norvegia/henningsvaer-punta-riccardo.jpg',
+    imageAlt: 'La punta de granito de Henningsvær con el estadio, los secaderos de bacalao y los islotes de las Lofoten en el mar azul',
   },
   'islanda-2024': {
-    immagine: '/images/copertine/islanda-2024.jpg',
-    imageAlt: "Icebergs azules flotando en la laguna glaciar de Jökulsárlón, Islandia",
+    immagine: '/images/islanda/jokulsarlon-laguna-riccardo.jpg',
+    imageAlt: 'La laguna glaciar de Jökulsárlón desde el dron: icebergs azules sobre el agua quieta y la lengua del glaciar al fondo',
   },
   'messico-beach-life': {
-    immagine: '/images/messico/chichen-itza.jpg',
-    imageAlt: "La pirámide de Chichén Itzá en Yucatán, México",
+    immagine: '/images/messico/chichen-itza-castillo-riccardo.jpg',
+    imageAlt: 'El Castillo, la pirámide de Kukulcán en Chichén Itzá, de tres cuartos bajo las nubes blancas de Yucatán',
   },
   'lapponia-svedese-abisko': {
     immagine: '/images/copertine/lapponia-svedese-abisko.jpg',
@@ -43,7 +43,7 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
   },
   thailandia: {
     immagine: '/images/copertine/thailandia.jpg',
-    imageAlt: "Barca de cola larga en una bahía turquesa entre los farallones calizos del sur de Tailandia",
+    imageAlt: 'Una barca de cola larga en una bahía turquesa entre los farallones calizos del sur de Tailandia',
   },
   'marocco-itinerario': {
     immagine: '/images/marocco/merzouga-carovana-dune-riccardo.jpg',
@@ -106,8 +106,8 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     imageAlt: "Los balcones de madera tallada (rawashin) de una casa tradicional en Al-Balad, el casco antiguo de Yeda",
   },
   'dolomiti-roadtrip': {
-    immagine: '/images/copertine/dolomiti-roadtrip.jpg',
-    imageAlt: "Las Tres Cimas de Lavaredo entre las nubes, Dolomitas, Italia",
+    immagine: '/images/italia/tre-cime-valle-rienza-riccardo.jpg',
+    imageAlt: 'Las Tre Cime di Lavaredo encendidas por el primer sol al fondo del valle del Rienza, aún en sombra, Dolomitas',
   },
   'parigi-5-giorni': {
     immagine: '/images/copertine/parigi-5-giorni.jpg',

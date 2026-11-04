@@ -180,8 +180,8 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Bali son dos islas distintas según dónde se duerma, y es el motivo por el que recibe juicios opuestos. El sur, entre Canggu y Seminyak, está hecho de cemento, tráfico y locales pensados para quien llega de fuera: uno se puede divertir, pero Indonesia está en otra parte. Bastan veinte kilómetros hacia el interior y reaparecen las ofrendas de flores delante de las casas, renovadas cada mañana, y los templos en uso en lugar de en exposición: la isla vuelve a ser la que se venía a buscar. Más que cualquier arrozal o playa, me quedó grabada la danza Kecak en Uluwatu al atardecer, con setenta hombres sentados en círculo que hacen toda la música con la voz. Nusa Penida, en cambio, es ya víctima de su propio éxito (Kelingking a media jornada es una cola de gente en un sendero empinado) y conviene ir en la primera barca de la mañana.",
     esperienzeSlugs: ['giornata-nusa-penida'],
     tripSlugs: ['indonesia-itinerario', 'giava-bali-gili'],
-    imageAlt: "Los arrozales en terrazas con las palmeras a la entrada del templo de Gunung Kawi en Tampaksiring, Bali",
-    immagine: '/images/indonesia/bali.jpg',
+    imageAlt: 'Las terrazas de arroz de Jatiluwih, en Bali, brillantes de agua hasta el horizonte, vistas desde el dron',
+    immagine: '/images/indonesia/jatiluwih-terrazze-riccardo.jpg',
   },
   {
     slug: 'sulawesi',
@@ -265,8 +265,8 @@ export const destinazioniIndonesia: Destinazione[] = [
       "El Rinjani es el trekking más duro que he hecho en Indonesia, y la comparación con los demás no se sostiene. La subida al borde del cráter es larga y expuesta, y acaba en arena volcánica donde cada tres pasos se pierde uno. El campamento lo montamos en el filo, con viento, y por la noche se duerme poco y mal. Despertarse sobre el lago Segara Anak con las nubes debajo, sin embargo, lo compensa todo. Las Gili son perfectas justo después: sin coches ni motos, se recorren a pie en una hora y las tortugas se ven desde la playa, sin barca ni guía. Trawangan por la noche es más fiestera de lo que alguien se espera, Meno es lo contrario: mejor saberlo antes de reservar.",
     esperienzeSlugs: ['trekking-gunung-rinjani'],
     tripSlugs: ['indonesia-itinerario', 'giava-bali-gili'],
-    imageAlt: "El macizo del Rinjani de Lombok visto desde la playa de Gili Trawangan, con Gili Meno en primer plano",
-    immagine: '/images/indonesia/lombok-gili.jpg',
+    imageAlt: 'Un islote de arena blanca frente a Lombok, con las barcas de balancín amarradas y las colinas al fondo',
+    immagine: '/images/indonesia/gili-isolotto-barche-riccardo.jpg',
   },
   {
     slug: 'komodo',

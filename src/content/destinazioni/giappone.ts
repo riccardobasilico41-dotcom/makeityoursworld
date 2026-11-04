@@ -45,8 +45,8 @@ export const destinazioniGiappone: Destinazione[] = [
       'Siamo arrivati per la fioritura dei sakura ma con qualche giorno di scarto rispetto al picco: a inizio aprile i ciliegi di Tokyo erano già verso la fine, tra petali che cadevano come neve rosa (lo hanafubuki) e i rami più spogli. È stato un modo diverso di vivere la fioritura, e bello lo stesso.',
     esperienzeSlugs: ['sakura-chasing-tokyo', 'shibuya-crossing'],
     tripSlugs: ['giappone-itinerario'],
-    imageAlt: 'Shibuya Crossing illuminato di sera a Tokyo, Giappone',
-    immagine: '/images/giappone/tokyo-stock.jpg',
+    imageAlt: "Tokyo dall'alto al tramonto, con la Tokyo Tower rossa e bianca tra i grattacieli",
+    immagine: '/images/giappone/tokyo-tower-dall-alto-riccardo.jpg',
   },
   {
     slug: 'kamakura',
@@ -249,8 +249,8 @@ export const destinazioniGiappone: Destinazione[] = [
       'Osaka è stata la sorpresa gastronomica del viaggio: tra kushikatsu, okonomiyaki e takoyaki nella zona di Shinsekai, il cibo di strada qui ha un\'energia diversa da quella più composta di Tokyo e Kyoto.',
     esperienzeSlugs: [],
     tripSlugs: ['giappone-itinerario'],
-    imageAlt: 'Il quartiere di Dotonbori illuminato di sera a Osaka, Giappone',
-    immagine: '/images/giappone/osaka-stock.jpg',
+    imageAlt: "Un battello giallo sul canale di Dotonbori, a Osaka, tra le luci dei palazzi all'imbrunire",
+    immagine: '/images/giappone/dotonbori-canale-riccardo.jpg',
   },
   {
     slug: 'nara',

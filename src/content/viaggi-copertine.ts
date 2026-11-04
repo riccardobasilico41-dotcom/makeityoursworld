@@ -31,16 +31,16 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     imageAlt: 'La Città Vecchia di Tallinn vista dalla piattaforma panoramica di Patkuli, con la guglia della Chiesa di Sant\'Olaf e le torri delle mura cittadine tra gli alberi autunnali',
   },
   'lofoten-estate-2025': {
-    immagine: '/images/copertine/lofoten-estate-2025.jpg',
-    imageAlt: 'Reine dall\'alto: il fiordo blu, le pareti di roccia delle Lofoten e il villaggio di pescatori sparso tra gli isolotti collegati dai ponti',
+    immagine: '/images/norvegia/henningsvaer-punta-riccardo.jpg',
+    imageAlt: 'La punta di granito di Henningsvær con lo stadio, le rastrelliere del merluzzo e gli isolotti delle Lofoten nel mare blu',
   },
   'islanda-2024': {
-    immagine: '/images/copertine/islanda-2024.jpg',
-    imageAlt: 'Iceberg blu che galleggiano nella laguna glaciale di Jökulsárlón, Islanda',
+    immagine: '/images/islanda/jokulsarlon-laguna-riccardo.jpg',
+    imageAlt: "La laguna glaciale di Jökulsárlón dal drone: iceberg azzurri sull'acqua ferma e la lingua del ghiacciaio in fondo",
   },
   'messico-beach-life': {
-    immagine: '/images/messico/chichen-itza.jpg',
-    imageAlt: 'La piramide di Chichén Itzá nello Yucatán, Messico',
+    immagine: '/images/messico/chichen-itza-castillo-riccardo.jpg',
+    imageAlt: 'El Castillo, la piramide di Kukulcán a Chichén Itzá, di tre quarti sotto le nuvole bianche dello Yucatán',
   },
   'lapponia-svedese-abisko': {
     immagine: '/images/copertine/lapponia-svedese-abisko.jpg',
@@ -127,8 +127,8 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     imageAlt: 'I balconi in legno intagliato (rawashin) di una casa tradizionale ad Al-Balad, la città vecchia di Gedda',
   },
   'dolomiti-roadtrip': {
-    immagine: '/images/copertine/dolomiti-roadtrip.jpg',
-    imageAlt: 'Le Tre Cime di Lavaredo tra le nuvole, Dolomiti, Italia',
+    immagine: '/images/italia/tre-cime-valle-rienza-riccardo.jpg',
+    imageAlt: 'Le Tre Cime di Lavaredo accese dal primo sole in fondo alla valle della Rienza, ancora in ombra, Dolomiti',
   },
   'parigi-5-giorni': {
     immagine: '/images/copertine/parigi-5-giorni.jpg',

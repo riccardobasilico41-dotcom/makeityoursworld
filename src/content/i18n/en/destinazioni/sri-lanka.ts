@@ -182,8 +182,8 @@ export const destinazioniSriLanka: Destinazione[] = [
       "The night on Adam's Peak, in single file with hundreds of local pilgrims on a fully lit staircase, was the real physical test of the trip. At the top the cold cuts, but climbing alongside people who do it out of faith, not for tourism, counts more than the sunrise itself.",
     esperienzeSlugs: ['rafting-kitulgala', 'scalata-adams-peak'],
     tripSlugs: ['sri-lanka-2023'],
-    imageAlt: "The lit pilgrimage staircase climbing toward the top of Adam's Peak, Sri Lanka",
-    immagine: '/images/sri-lanka/adams-peak-stock.jpg',
+    imageAlt: "The shrine on the summit of Adam's Peak and the pilgrims' stairway on the green ridge, among low clouds",
+    immagine: '/images/sri-lanka/adams-peak-vetta-riccardo.jpg',
   },
   {
     slug: 'nuwara-eliya',

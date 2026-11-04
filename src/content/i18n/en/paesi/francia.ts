@@ -43,7 +43,7 @@ export const francia: Paese = {
       "Single European number **112**. Alternatively: 15 SAMU (medical emergency), 17 police, 18 pompiers. For mountain rescue call 112 giving the most precise position possible.",
     aggiornatoAl: 'September 2026',
   },
-  heroImage: '/images/francia/francia-paese.jpg',
-  heroImageAlt: 'The Port Vauban in Antibes with the moored yachts and the old town on the ramparts, seen from the Fort Carré',
+  heroImage: '/images/francia/provenza-lavanda-riccardo.jpg',
+  heroImageAlt: 'Rows of flowering lavender and a white road curving through the fields of Provence, seen from the drone',
   tripPrincipaleSlug: 'costa-azzurra',
 }

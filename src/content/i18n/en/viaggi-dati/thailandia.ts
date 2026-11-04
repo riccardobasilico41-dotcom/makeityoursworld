@@ -82,8 +82,8 @@ export const thailandiaMeta: TripMeta = {
       statoPernottamento: 'provato',
       intensita: 'medio',
       destinazioneSlug: 'khao-sok',
-      immagine: '/images/viaggi/thailandia/giorno-5-cheow-lan-lake.jpg',
-      imageAlt: 'The limestone towers of Cheow Lan Lake rising out of the water, with submerged trees in the foreground',
+      immagine: '/images/thailandia/cheow-lan-isola-riccardo.jpg',
+      imageAlt: 'A jungle island rising from the emerald water of Cheow Lan Lake',
     },
     {
       titoloGiorno: 'Day 6 — Khao Sok-Krabi',
@@ -109,8 +109,8 @@ export const thailandiaMeta: TripMeta = {
       statoPernottamento: 'da-confermare',
       intensita: 'medio',
       destinazioneSlug: 'koh-phi-phi',
-      immagine: '/images/viaggi/thailandia/giorno-8-koh-phi-phi-viewpoint.jpg',
-      imageAlt: 'The turquoise bay of Koh Phi Phi seen from the viewpoint, among palm trees and longtail boats',
+      immagine: '/images/thailandia/maya-bay-faraglioni-riccardo.jpg',
+      imageAlt: 'Maya Bay opens up beyond the vegetation, with the sea stacks and turquoise water of Koh Phi Phi Leh',
     },
     {
       titoloGiorno: 'Day 9 — Koh Phi Phi-Krabi',
@@ -136,8 +136,8 @@ export const thailandiaMeta: TripMeta = {
       statoPernottamento: 'da-confermare',
       intensita: 'leggero',
       destinazioneSlug: 'bangkok',
-      immagine: '/images/viaggi/thailandia/giorno-11-wat-pho.jpg',
-      imageAlt: 'The golden face of the reclining Buddha in the Wat Pho temple in Bangkok',
+      immagine: '/images/thailandia/wat-pho-buddha-riccardo.jpg',
+      imageAlt: 'A restorer on the scaffolding at the golden feet of the Reclining Buddha at Wat Pho, Bangkok',
     },
   ],
   budget: [

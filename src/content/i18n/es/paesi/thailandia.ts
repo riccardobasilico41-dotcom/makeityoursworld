@@ -36,7 +36,7 @@ export const thailandia: Paese = {
     aggiornatoAl: 'settembre 2026',
   },
   stileViaggio: ['mare', 'giungla', 'cibo', 'isole'],
-  heroImageAlt: "Barca de cola larga en una bahía turquesa entre los farallones calizos del sur de Tailandia",
+  heroImageAlt: 'Una barca de cola larga en una bahía turquesa entre los farallones calizos del sur de Tailandia',
   heroImage: '/images/copertine/thailandia.jpg',
   tripPrincipaleSlug: 'thailandia',
 }
