@@ -12,7 +12,7 @@ export function richNodes(text?: string | null): ReactNode[] {
   if (!text) return []
   return text.split(TOKEN).map((part, i) => {
     if (!part) return null
-    if (part.startsWith('**') && part.endsWith('**')) return <strong key={i} className="font-semibold text-ink">{part.slice(2, -2)}</strong>
+    if (part.startsWith('**') && part.endsWith('**')) return <strong key={i} className="font-semibold text-current">{part.slice(2, -2)}</strong>
     if (part.startsWith('*') && part.endsWith('*') && part.length > 2) return <em key={i}>{part.slice(1, -1)}</em>
     const link = part.match(/^\[([^\]]+)\]\(([^)\s]+)\)$/)
     if (link) {

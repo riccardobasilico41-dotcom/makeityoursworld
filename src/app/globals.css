@@ -13,7 +13,7 @@
   --color-cream-dark: oklch(91.5% 0.022 78);  /* #E9E0CF */
   --color-rosso: oklch(50.5% 0.18 27);        /* #B3261E sindoor */
   --color-rosso-dark: oklch(42% 0.15 27);     /* #8E1D17 */
-  --color-stone: oklch(39.5% 0.012 70);       /* #4A4640 */
+  --color-stone: oklch(33% 0.012 70);         /* #3B3833, più scuro per leggere sopra le filigrane */
   --color-ink: oklch(19% 0.006 60);           /* #161412 */
 
   --ease-out: cubic-bezier(0.16, 1, 0.3, 1);

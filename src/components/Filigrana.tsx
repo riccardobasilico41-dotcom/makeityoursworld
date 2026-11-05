@@ -12,12 +12,12 @@ export function Filigrana({ paese }: { paese?: string }) {
   return (
     <div aria-hidden className="pointer-events-none fixed inset-0 -z-10 overflow-hidden print:hidden">
       {f.a && (
-        <div className="absolute -left-[2vw] top-[6vh] h-[62vh] w-[48vw] max-w-[820px] opacity-45 sm:opacity-50">
+        <div className="absolute -left-[2vw] top-[6vh] h-[62vh] w-[48vw] max-w-[820px] opacity-[0.26] sm:opacity-30">
           <Image src={f.a.src} alt="" fill sizes="62vw" className="object-contain object-left-top" />
         </div>
       )}
       {f.b && (
-        <div className="absolute -bottom-[2vh] -right-[2vw] h-[68vh] w-[46vw] max-w-[820px] opacity-40 sm:opacity-45">
+        <div className="absolute -bottom-[2vh] -right-[2vw] h-[68vh] w-[46vw] max-w-[820px] opacity-[0.24] sm:opacity-[0.28]">
           <Image src={f.b.src} alt="" fill sizes="55vw" className="object-contain object-right-bottom" />
         </div>
       )}

@@ -64,7 +64,9 @@ export function NavPrincipale({ gruppi }: { gruppi: GruppoMenu[] }) {
       {/* Desktop */}
       <nav aria-label={t.principale} className="hidden min-[1440px]:block">
         <ul className="flex items-center gap-x-4 2xl:gap-x-5">
-          {gruppi.map((g) => {
+          {gruppi.map((g, indice) => {
+            // le prime aree si aprono verso destra, le ultime verso sinistra: il pannello non esce dallo schermo
+            const versoDestra = indice < gruppi.length / 2
             const id = `menu-${g.nome.replace(/\W+/g, '-').toLowerCase()}`
             const isOpen = aperto === g.nome
             return (
@@ -106,7 +108,7 @@ export function NavPrincipale({ gruppi }: { gruppi: GruppoMenu[] }) {
                 <div
                   id={id}
                   hidden={!isOpen}
-                  className="absolute right-0 top-full z-50 pt-2"
+                  className={`absolute top-full z-50 max-w-[calc(100vw-2rem)] pt-2 ${versoDestra ? 'left-0' : 'right-0'}`}
                 >
                   <div className="border-2 border-ink bg-cream p-5 shadow-[6px_6px_0_0_var(--color-ink)]">
                     <ul className={`gap-x-8 ${colonne(g.voci.length)}`}>
