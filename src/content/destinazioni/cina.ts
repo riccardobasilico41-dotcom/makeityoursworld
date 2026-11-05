@@ -104,8 +104,8 @@ export const destinazioniCina: Destinazione[] = [
       {
         nome: "Città Proibita",
         testo: "Il complesso di palazzi imperiali in legno più grande del mondo, con quasi mille edifici, residenza di ventiquattro imperatori Ming e Qing dal 1420 al 1912. Si attraversa cortile dopo cortile lungo l'asse centrale, dalla Porta del Meridiano fino all'uscita nord, davanti alla collina di Jingshan.",
-        come: "Metro linea 1 fino a Tiananmen East, ingresso dalla Porta del Meridiano. Biglietto solo online, sul sito di prenotazione ufficiale, con il numero di passaporto: il giorno stesso non si vendono biglietti. Portare con sé il passaporto usato per prenotare.",
-        quando: "Chiusa il lunedì, salvo i lunedì festivi. Da aprile a ottobre 8.30-17, ultimo ingresso alle 16; da novembre a marzo 8.30-16.30, ultimo ingresso alle 15.30. Gli ingressi sono a numero chiuso: prenotare appena possibile.",
+        come: "Metro linea 1 fino a Tiananmen East, ingresso dalla Porta del Meridiano. Biglietto solo online, sul sito di prenotazione ufficiale, con il numero di passaporto: il giorno stesso non si vendono biglietti. All'ingresso serve l'originale del passaporto usato per prenotare.",
+        quando: "Chiusa il lunedì, salvo i lunedì festivi. Da aprile a ottobre 8.30-17, ultimo ingresso alle 16; da novembre a marzo 8.30-16.30, ultimo ingresso alle 15.30. Gli ingressi sono a numero chiuso: i biglietti escono 7 giorni prima, alle 20 ora di Pechino, e conviene prenotare appena aprono.",
         tempo: "3-4 ore",
         costo: "60 yuan da aprile a ottobre, 40 yuan da novembre a marzo; Galleria dei Tesori e Galleria degli Orologi 10 yuan ciascuna (2025)",
         url: "https://www.dpm.org.cn/",
@@ -168,7 +168,7 @@ export const destinazioniCina: Destinazione[] = [
       { nome: "Noodles dello Shanxi", testo: "Noodles fatti a mano, tirati o tagliati al coltello." },
     ],
     attenzioni: [
-      "Presentarsi alla Città Proibita senza prenotazione: il giorno stesso non si vendono biglietti e gli ingressi sono a numero chiuso.",
+      "Presentarsi alla Città Proibita senza prenotazione: il giorno stesso non si vendono biglietti, gli ingressi sono a numero chiuso e i biglietti escono 7 giorni prima, alle 20 ora di Pechino.",
       "Andare alla Città Proibita di lunedì: è chiusa, salvo i lunedì festivi.",
       "Scegliere Badaling: è il tratto più restaurato e affollato della Muraglia.",
       "Seguire sconosciuti gentili che invitano a una degustazione di tè o in un bar: è la truffa classica delle zone turistiche, alla fine arriva un conto altissimo.",
@@ -786,7 +786,7 @@ export const destinazioniCina: Destinazione[] = [
       },
       {
         nome: "Parco del Popolo",
-        testo: "Il parco dove la città si incontra: pensionati che ballano, cori improvvisati e case da tè all'aperto sotto gli alberi, dove si passa il pomeriggio davanti a un bicchiere di tè.",
+        testo: "Il parco dove la città si incontra: pensionati che ballano, cori improvvisati e case da tè all'aperto sotto gli alberi, tra cui la centenaria Heming, dove si passa il pomeriggio davanti a un bicchiere di tè.",
         come: "Metro linea 2 fino a People's Park.",
         quando: "Pomeriggio, meglio nei giorni feriali.",
         tempo: "2 ore",
@@ -995,7 +995,7 @@ export const destinazioniCina: Destinazione[] = [
       },
       {
         nome: "Baisha",
-        testo: "Villaggio Naxi a nord di Lijiang, centro della regione prima di Lijiang. Conserva affreschi di epoca Ming nei templi e un ritmo da paese vero, con le campagne attorno e la montagna sullo sfondo.",
+        testo: "Villaggio Naxi circa 15 chilometri a nord di Lijiang, centro della regione prima di Lijiang. Conserva affreschi di epoca Ming nei templi e un ritmo da paese vero, con le campagne attorno e la montagna sullo sfondo.",
         come: "Bicicletta o taxi da Lijiang.",
         quando: "Mattina.",
         tempo: "Mezza giornata",
@@ -1022,7 +1022,7 @@ export const destinazioniCina: Destinazione[] = [
     ],
     attenzioni: [
       "Giudicare Dayan a fine giornata, nell'ora di punta: è il suo momento peggiore.",
-      "Ignorare la quota: Lijiang è in alta quota, i primi giorni si cammina più lenti.",
+      "Ignorare la quota: Lijiang è a circa 2.400 metri, i primi giorni si cammina più lenti.",
       "Saltare Baisha e Shuhe.",
       "Comprare argento, tè pu'er o giada nei negozi della città vecchia senza contrattare.",
     ],
@@ -1229,7 +1229,7 @@ export const destinazioniCina: Destinazione[] = [
       },
       {
         nome: "Fiume Yulong",
-        testo: "Affluente del Li, più piccolo e tranquillo, tra risaie, bufali e ponti di pietra; il Ponte del Drago di Giada è uno dei più famosi. Si scende su zattere di bambù spinte a mano con la pertica.",
+        testo: "Affluente del Li, più piccolo e tranquillo, tra risaie, bufali e ponti di pietra; il Ponte del Drago di Giada, di pietra, ha circa quattrocento anni ed è uno dei più famosi. Si scende su zattere di bambù spinte a mano con la pertica.",
         come: "In bici o bici elettrica da Yangshuo, lungo le stradine di campagna.",
         quando: "Giornata, in primavera o autunno.",
         tempo: "Mezza giornata",
@@ -1335,7 +1335,7 @@ export const destinazioniCina: Destinazione[] = [
       {
         nome: "Star Ferry",
         testo: "Il traghetto verde e bianco che dal 1888 attraversa il porto tra Tsim Sha Tsui e Central. La traversata è breve ed è il modo più bello e più economico di vedere lo skyline dall'acqua.",
-        come: "Moli di Tsim Sha Tsui e di Central; si paga con la carta Octopus, in contanti o alle macchinette. Corsa singola 5 HK$ al piano superiore nei feriali, 6,5 HK$ nel fine settimana (2026).",
+        come: "Molo di Tsim Sha Tsui e molo 7 di Central; si paga con la carta Octopus, in contanti o alle macchinette. Corsa singola 5 HK$ al piano superiore nei feriali, 6,5 HK$ nel fine settimana (2026).",
         quando: "Al tramonto o di sera.",
         tempo: "30 minuti",
         url: "https://www.starferry.com.hk/",
@@ -1360,7 +1360,7 @@ export const destinazioniCina: Destinazione[] = [
       },
       {
         nome: "Sheung Wan e scale mobili",
-        testo: "Il sistema di scale mobili coperte Central-Mid-Levels, lungo circa 800 metri, sale dalla città bassa alla collina attraverso Soho. Intorno, a Sheung Wan, ci sono le botteghe di erbe medicinali e frutti di mare secchi e il tempio di Man Mo.",
+        testo: "Il sistema di scale mobili coperte Central-Mid-Levels, lungo circa 800 metri, sale dalla città bassa alla collina attraverso Soho. Intorno, a Sheung Wan, ci sono le botteghe di erbe medicinali e frutti di mare secchi e il tempio di Man Mo, del 1847, il più grande di Hong Kong dedicato a Man e Mo.",
         come: "Metro fino a Central o Sheung Wan, poi a piedi.",
         quando: "Di giorno: le scale scendono al mattino presto e salgono dalla metà mattina alla sera.",
         tempo: "2 ore",

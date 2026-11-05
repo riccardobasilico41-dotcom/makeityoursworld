@@ -226,7 +226,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Alhambra and Generalife",
         "testo": "The citadel of the Nasrid sultans on the Sabika hill: the Nasrid Palaces with stuccoes and stalactite ceilings, the military Alcazaba, the Renaissance palace of Charles V and the Generalife gardens. The Court of the Lions and the Hall of the Two Sisters are the best-known spots.",
-        "come": "On foot uphill from the centre or by city minibus. Entry is by named ticket and for the Nasrid Palaces the time slot printed on it applies: arrive early, not late. Bring ID and confirmation.",
+        "come": "On foot uphill from the centre or by city minibus 30 or 32 from Plaza Isabel la Católica. Entry is by named ticket and for the Nasrid Palaces the time slot printed on it applies: arrive early, not late. Bring ID and confirmation.",
         "quando": "Open every day: 8:30am-8pm from 1 April to 14 October, 8:30am-6pm from 15 October to 31 March. Closed on 25 December and 1 January. Tickets are sold through the official channel (online, by phone or at the ticket machines) and in high season they sell out weeks ahead.",
         "tempo": "3-4 hours, half a day to see everything",
         "costo": "22.27 euros for the daytime Alhambra General ticket, plus a fee for online purchases (2026)",
@@ -244,7 +244,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Mirador de San Nicolás",
         "testo": "Granada's best-known viewpoint: the Alhambra opens in front and the peaks of the Sierra Nevada rise behind. At sunset it fills with people, musicians and vendors.",
-        "come": "A walk uphill from Plaza Nueva, or the city minibus that climbs to the Albaicín. Free entry.",
+        "come": "A walk uphill from Plaza Nueva, or the city minibus C31 or C32 that climbs to the Albaicín. Free entry.",
         "quando": "At sunset. Alternatively at dawn, almost with no one.",
         "tempo": "30-60 minutes",
         "consiglio": "For the same view with fewer crowds, climb to the nearby Mirador de San Cristóbal or the Carmen de los Mártires."
@@ -261,7 +261,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Sacromonte and the Cave Museum",
         "testo": "The district of cave houses on the hill facing the Alhambra, historically inhabited by the Roma community. The zambra was born here, a more ritual, group-based flamenco, seen in some cuevas.",
-        "come": "On foot along the Camino del Sacromonte from the Albaicín, or by city minibus. The road is long and uphill.",
+        "come": "On foot along the Camino del Sacromonte from the Albaicín, or by city minibus C34 from the centre. The road is long and uphill.",
         "quando": "Shows in the evening. By day you visit the museum and stroll through the landscape of caves.",
         "tempo": "2-3 hours, plus an evening for a show",
         "consiglio": "Before booking a zambra, read recent reviews: very touristy shows cost the same as the serious ones."
@@ -1239,7 +1239,7 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Cap de Formentor e Pollença",
-        "testo": "The island's northernmost peninsula, with sheer cliffs and a lighthouse at the end of a long scenic road above Port de Pollença. Along the road is the Mirador des Colomer. Pollença has a main square with bars and the long Calvari stairway.",
+        "testo": "The island's northernmost peninsula, with sheer cliffs and a lighthouse at the end of a long scenic road above Port de Pollença. Along the road is the Mirador des Colomer. Pollença has a main square with bars and the 365-step Calvari stairway.",
         "come": "From Port de Pollença by car on the Ma-2210 towards the lighthouse, within the seasonal rules below. From Palma to Pollença by car or bus.",
         "quando": "At sunset for the light on the lighthouse. From 15 May to 18 October (2026 dates), from 10am to 10pm, the road to the lighthouse is closed to private cars: you go up on TIB bus 334 from Alcúdia and Port de Pollença or by bike. You can drive to the Formentor beach car park until it is full.",
         "tempo": "half a day",
@@ -1585,7 +1585,7 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Torre d'en Galmés",
-        "testo": "One of the largest Talayotic settlements in the Balearics, with three talayots, the taula enclosure and Bronze and Iron Age houses, lived in from about 1400 BC until Roman times. It is part of the Talayotic Menorca site, a UNESCO World Heritage site.",
+        "testo": "One of the largest Talayotic settlements in the Balearics, with three talayots, the taula enclosure and Bronze and Iron Age houses, lived in from about 1400 BC until Roman times. It is part of the Talayotic Menorca site, a UNESCO World Heritage site since 2023.",
         "come": "By car from Maó or Ciutadella, in the middle of the island. Self-guided, with panels. There is an entry ticket.",
         "quando": "Early morning or late afternoon, for the heat and the light.",
         "tempo": "1-1.5 hours",
@@ -1754,7 +1754,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Masca",
         "testo": "A village in a deep gorge in the Teno mountains, with stone houses and ocean views. The Masca ravine leads down on foot to the sea.",
-        "come": "Via the TF-436 from Santiago del Teide, with tight bends. Access to the ravine trail may be regulated: check conditions on the Cabildo de Tenerife website before going.",
+        "come": "Via the TF-436 from Santiago del Teide, with tight bends. Access to the ravine trail is booked on the official site caminobarrancodemasca.com, where you also book, separately, the compulsory boat back from the beach; check there too whether the trail is open.",
         "quando": "Morning, to avoid the coaches. The path is closed in rain or alerts.",
         "tempo": "1 hour in the village, half a day for the path",
         "consiglio": "Don't do the trail in walking shoes, and check beforehand how to get back from the sea: there is no road from the beach."
@@ -2115,7 +2115,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Playa Papagayo e Los Ajaches",
         "testo": "Pale sand coves and turquoise water in the Los Ajaches nature park, in the south. Papagayo is the best known; the others (Caleta del Congrio, Playa Mujeres) are quieter.",
-        "come": "By car from Playa Blanca on a dirt road. Walk from the car parks.",
+        "come": "By car from Playa Blanca on a dirt road; there is an access fee for cars (charged by Yaiza town council). Walk from the car parks.",
         "quando": "Morning in summer, with little wind. Wind kicks up the sand.",
         "tempo": "half a day",
         "consiglio": "Bring a parasol, water and food: the coves have no services."

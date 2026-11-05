@@ -148,7 +148,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Skógafoss",
-        testo: "Cascada de 25 metros de ancho y 60 de alto, en el borde del antiguo acantilado de la costa. Una larga escalera lateral sube hasta arriba, donde empieza el sendero hacia el paso de Fimmvörðuháls.",
+        testo: "Cascada de 25 metros de ancho y 60 de alto, en el borde del antiguo acantilado de la costa. Una escalera lateral de 527 peldaños sube hasta arriba, donde empieza el sendero hacia el paso de Fimmvörðuháls.",
         come: "Aparcamiento a los pies; el camping de al lado es cómodo para la noche.",
         quando: "Tarde, para el arcoíris cuando hay sol.",
         tempo: "45 minutos",
@@ -395,7 +395,7 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "Seyðisfjörður",
         testo: "Pueblo de artistas en un fiordo profundo, con casas de madera de colores, la iglesia azul y la calle del arcoíris. Se llega bajando de un puerto de montaña (Fjarðarheiði) con bonitas cascadas.",
-        come: "En coche desde Egilsstaðir, cruzando el puerto de montaña.",
+        come: "En coche desde Egilsstaðir (27 km), cruzando el puerto de Fjarðarheiði. Cada semana, de mediados de marzo a finales de noviembre, llega aquí el ferry Norröna de Smyril Line desde Hirtshals (Dinamarca) y Tórshavn (Feroe).",
         quando: "Verano; el paso puede estar cerrado por nieve de otoño a primavera.",
         tempo: "media jornada",
         consiglio: "Paseo a las cascadas a lo largo de la carretera, con varias paradas."
@@ -410,8 +410,8 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Lagarfljót y bosque de Hallormsstaður",
-        testo: "Uno de los bosques más extensos de Islandia, con árboles altos y un sendero junto al Lagarfljót. Una verdadera sorpresa en un país casi sin árboles.",
-        come: "En coche desde Egilsstaðir, junto al lago, en el valle de Fljótsdalur.",
+        testo: "Uno de los bosques más extensos de Islandia, 740 hectáreas de árboles altos y un sendero junto al Lagarfljót. Una verdadera sorpresa en un país casi sin árboles.",
+        come: "En coche, a unos 25 km de Egilsstaðir junto al lago, en el valle de Fljótsdalur.",
         quando: "Verano y principios de otoño por los colores.",
         tempo: "2 horas",
         consiglio: "Pequeño y tranquilo, ideal como pausa de la conducción."
@@ -476,8 +476,8 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Dettifoss",
-        testo: "Cascada de 100 metros de ancho y 44 de alto, considerada entre las más potentes de Europa. El agua es turbia y gris, y el ruido se oye desde lejos.",
-        come: "Desde la Route 862 (asfaltada) por el lado oeste, la mejor vista; sendero corto desde el aparcamiento.",
+        testo: "Cascada de 100 metros de ancho y 44 de alto, considerada la más potente de Europa. El agua es turbia y gris, y el ruido se oye desde lejos.",
+        come: "Desde la Route 862 (asfaltada) por el lado oeste, la mejor vista; del aparcamiento al mirador hay 1 km a pie por trayecto.",
         quando: "Verano; en primavera el caudal está al máximo.",
         tempo: "1 hora",
         costo: "entrada libre",
@@ -493,6 +493,15 @@ export const destinazioniIslanda: Destinazione[] = [
         costo: "entrada libre",
         url: "https://www.vatnajokulsthjodgardur.is",
         consiglio: "El camping del parque nacional está en el fondo del cañón, con excelentes servicios."
+      },
+      {
+        nome: "Hljóðaklettar",
+        testo: "Las «rocas del eco» en Vesturdalur, parte de una fila de cráteres de unos 6 km que entró en erupción hace 8.000-9.000 años. Las crecidas del río Jökulsá se llevaron el material suelto y dejaron al descubierto el basalto formado por el magma solidificado en los conductos volcánicos.",
+        come: "En Vesturdalur, a unos 15 km al sur de Ásbyrgi, por carretera asfaltada. Senderos señalizados desde el aparcamiento.",
+        tempo: "de 30 minutos a 1,5 horas",
+        costo: "entrada libre",
+        url: "https://www.vatnajokulsthjodgardur.is/en/areas/jokulsargljufur/hljodaklettar",
+        consiglio: "El sendero V2 (1,2 km, unos 30 minutos, fácil) basta para ver las rocas; el circuito V3 tiene 3 km, 1-1,5 horas, y es más exigente."
       },
     ],
     attenzioni: [
@@ -641,8 +650,8 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Djúpalónssandur",
-        testo: "Playa de guijarros negros con restos de un naufragio, a la que se llega por un sendero corto entre la lava.",
-        come: "Pequeño aparcamiento y bajada corta a pie.",
+        testo: "Playa de guijarros negros con los restos del pesquero británico Epine GY7, naufragado en 1948, y las cuatro piedras con las que se medía la fuerza de los pescadores, de Amlóði (23 kg) a Fullsterkur (154 kg). Se llega por un sendero corto entre la lava.",
+        come: "Pequeño aparcamiento en la Route 574 y bajada corta a pie.",
         quando: "Mañana o tarde.",
         tempo: "1 hora",
         consiglio: "Las olas son fuertes: no acercarse demasiado al agua."
@@ -737,7 +746,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Piscinas termales públicas",
-        testo: "Las piscinas geotérmicas forman parte de la vida social local: Sundhöllin en el centro, Laugardalslaug en el parque de Laugardalur, Vesturbæjarlaug cerca del mar.",
+        testo: "Las piscinas geotérmicas forman parte de la vida social local: Sundhöllin en el centro, Laugardalslaug en el parque de Laugardalur, el mayor complejo de piscinas convencionales de Islandia, Vesturbæjarlaug cerca del mar.",
         come: "En bus o a pie; entrada de pago, ducha desnudo obligatoria antes de entrar.",
         quando: "Tarde, cuando se reúnen los locales.",
         tempo: "2 horas",
@@ -783,7 +792,7 @@ export const destinazioniIslanda: Destinazione[] = [
     sapori: [
       {
         nome: "Perrito caliente (pylsur)",
-        testo: "La comida callejera más común: salchicha con cebolla cruda y frita y salsas, en los quioscos del centro."
+        testo: "La comida callejera más común: salchicha con cebolla cruda y frita y salsas, en los quioscos del centro. El más conocido es Bæjarins Beztu Pylsur, en marcha desde 1937, con el quiosco principal en Tryggvagata, frente al Harpa."
       },
       {
         nome: "Skyr y pasteles",

@@ -779,7 +779,7 @@ export const destinazioniIndia: Destinazione[] = [
     luoghi: [
       {
         nome: "Mehrangarh Fort",
-        testo: "The Rathore fort on a rock spur above the blue city, begun in 1459. Inside is one of the best-kept museums in India, with galleries of palanquins, weapons, howdahs and paintings. It's run by a foundation of the royal family.",
+        testo: "The Rathore fort on a rock spur above the blue city, begun in 1459. Inside is one of the best-kept museums in India, with galleries of palanquins, weapons, howdahs, royal cradles and paintings. It's run by a foundation of the royal family.",
         come: "By tuk-tuk or on foot from the old city, up a steep climb. At the entrance there's an elevator to the upper part (50 rupees one way, 2026). The museum route is signposted.",
         quando: "The museum is open every day from 9 a.m. to 5 p.m. Go at opening time, before the heat and the groups.",
         tempo: "2-3 hours",
@@ -1656,7 +1656,7 @@ export const destinazioniIndia: Destinazione[] = [
         nome: "Meenakshi Amman Temple",
         testo: "A temple-city with fourteen gopurams covered in thousands of painted statues, dedicated to the goddess Meenakshi and to Shiva (Sundareswarar). Inside are the Golden Lotus tank and the Hall of a Thousand Pillars, which actually has 985 carved ones, and ceremonies throughout the day.",
         come: "Four entrances, one on each side. Shoes go to the deposit; phone at the deposit or switched off according to the current rules, photos banned. Clothes covering shoulders and legs. The main shrines are reserved for Hindus.",
-        quando: "Usually open from early morning to midday and from afternoon to evening; times change during festivals. Every evening a procession carries Shiva's footprints in a palanquin to Meenakshi's chamber.",
+        quando: "Usually open from 5 am until the middle of the day and from 4 pm to 9.30 pm (Incredible India, 2026); times change during festivals. Every evening a procession carries Shiva's footprints in a palanquin to Meenakshi's chamber.",
         tempo: "2-3 hours",
         costo: "free entry; small fee for the phone deposit",
         consiglio: "Go twice: in the morning for the architecture and in the evening for the ceremonies."
@@ -1797,7 +1797,7 @@ export const destinazioniIndia: Destinazione[] = [
       {
         nome: "Kolukkumalai",
         testo: "A tea plantation at about 2,170 metres, among the highest in the world, on the Tamil Nadu side but reached only from Munnar. At dawn the hills rise out of the clouds.",
-        come: "By 4x4 jeep from Suryanelli, on a steep dirt track. Jeeps are booked through the hotel.",
+        come: "By 4x4 jeep from Suryanelli, on about 17 kilometres of steep dirt track. Jeeps are booked through the hotel.",
         quando: "Departure before dawn, in the dark.",
         tempo: "half a day",
         consiglio: "Agree clearly on what the jeep price includes: waiting time, entry to the estate and the ride back."
@@ -1924,7 +1924,7 @@ export const destinazioniIndia: Destinazione[] = [
         nome: "The snake boat races",
         testo: "Boats more than 30 metres long with dozens of rowers singing in chorus. The most famous is the Nehru Trophy, on Lake Punnamada, over a course of about 1.4 kilometres.",
         come: "Paid stands on Lake Punnamada in Alappuzha; details on the race's official website.",
-        quando: "The Nehru Trophy is usually held in August, during the monsoon (traditionally on the second Saturday of the month, but the date changes: in 2024 it was postponed to September).",
+        quando: "The Nehru Trophy is usually held in August, during the monsoon (traditionally on the second Saturday of the month, but the date changes: in 2024 it was postponed to September, in 2026 it was held on 22 August).",
         tempo: "a full day",
         consiglio: "If you're traveling in August, it's worth the trip on its own."
       }
@@ -2190,7 +2190,7 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Cars cannot go beyond the car park: you get there by electric vehicle or on foot. ASI ticket at the ticket office.",
         quando: "At opening time, before the strong sun and the groups. Sources give different hours: check them at the ticket office.",
         tempo: "1.5 hours",
-        costo: "ASI ticket for foreigners; rate and validity for the Zenana Enclosure at the ticket office",
+        costo: "about 600 rupees for foreigners, rate subject to change (Karnataka Tourism, 2026); validity for the Zenana Enclosure at the ticket office",
         url: "https://asi.nic.in/",
         consiglio: "Walk there from the bazaar along the river: a couple of kilometres among ruins and boulders."
       },

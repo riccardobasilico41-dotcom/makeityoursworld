@@ -599,7 +599,7 @@ export const destinazioniItalia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Sellaronda",
-        "testo": "The ski circuit around the Sella massif: four passes (Gardena, Sella, Pordoi, Campolongo) and four valleys (Val Gardena, Val di Fassa, Arabba, Alta Badia). The circuit alternates pistes and lifts, mostly easy and intermediate runs, with views over the Dolomites all the way round.",
+        "testo": "The ski circuit around the Sella massif: four passes (Gardena, Sella, Pordoi, Campolongo) and four valleys (Val Gardena, Val di Fassa, Arabba, Alta Badia). The circuit, about 40 km, alternates pistes and lifts, mostly easy and intermediate runs, with views over the Dolomites all the way round.",
         "come": "Start from any village around the Sella (Selva, Canazei, Arabba, Corvara) with a Dolomiti Superski pass. The clockwise direction is marked with orange signs, the anticlockwise one with green signs.",
         "quando": "In season, December to mid April. Start early and reach the last lift before closing: anyone who arrives late has to take a taxi back.",
         "tempo": "a full day: 4-5 hours on skis plus breaks",
@@ -627,7 +627,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Cervinia and Zermatt",
-        "testo": "A high-altitude ski area: from Breuil-Cervinia you climb to the Plateau Rosà and can ski on the glacier even in summer. With the international pass you cross into Switzerland and ski down to Zermatt, under the Matterhorn.",
+        "testo": "A high-altitude ski area: from Breuil-Cervinia (about 2,050 m) you climb to the Plateau Rosà (about 3,480 m) and can ski on the glacier even in summer. With the international pass you cross into Switzerland and ski down to Zermatt, under the Matterhorn.",
         "come": "From Aosta drive or take the bus to Breuil-Cervinia. The lifts start from the village. For Zermatt you need the extended pass.",
         "quando": "November to May for snow at altitude; the link to Zermatt depends on the weather and wind.",
         "tempo": "3-5 days; the Cervinia-Zermatt trip takes a full day",
@@ -861,7 +861,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Appian Way (Appia Antica)",
         "testo": "The queen of Roman roads, built in 312 BC. You find original paving stones, tombs, villas and aqueducts, and the catacombs of San Callisto and San Sebastiano below the road. The Appian Way Park is one of the few large green areas near the centre.",
-        "come": "From the centre by city bus and on foot; or rent a bike. On Sundays and holidays the Appia is closed to motor vehicles from Porta San Sebastiano onwards, 9:00-16:00 in winter time and 9:00-18:00 in summer time.",
+        "come": "From the centre by bus 118 (Circo Massimo or Colosseum stop) or bus 660 (from Arco di Travertino on metro line A), then on foot; or rent a bike. On Sundays and holidays the Appia is closed to motor vehicles from Porta San Sebastiano onwards, 9:00-16:00 in winter time and 9:00-18:00 in summer time.",
         "quando": "Sunday, the best day because it is closed to cars. The catacombs have different closing days: check them on their websites before going.",
         "tempo": "half a day",
         "url": "https://www.parcoappiaantica.it/",
@@ -888,7 +888,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Trastevere and the Jewish Ghetto",
         "testo": "Two neighbourhoods where Rome is still lived in. Trastevere has alleys, osterias and the basilica of Santa Maria in Trastevere with its golden mosaics. The Jewish Ghetto, near the Portico d'Ottavia, is the place for carciofo alla giudia.",
-        "come": "On foot from the centre across the Tiber via Tiber Island, or by tram from Largo Argentina.",
+        "come": "On foot from the centre across the Tiber via Tiber Island, or by tram 8 (from Piazza Venezia, via Largo Argentina).",
         "quando": "Morning for the alleys; evening for dinner. Trastevere on Saturday night is very crowded.",
         "tempo": "half a day",
         "consiglio": "To eat well, move away from restaurants with waiters inviting you in. In Testaccio, Pigneto or San Lorenzo you get a well-made cacio e pepe, often for a fraction of the price near the monuments."
@@ -1289,7 +1289,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "San Giorgio Maggiore",
         "testo": "The island in front of San Marco with Palladio's church and a bell tower from which you see the city and the lagoon. It is one of the best viewpoints, usually with little queue.",
-        "come": "From the San Zaccaria stop take the vaporetto to San Giorgio, a few minutes. The bell tower has a lift.",
+        "come": "From the San Zaccaria stop take the line 2 vaporetto to San Giorgio, a few minutes. The bell tower has a lift.",
         "quando": "Every day; late afternoon gives the best light on San Marco. Check the lift hours.",
         "tempo": "1 hour",
         "consiglio": "From the bell tower you see San Marco and the whole lagoon with a fraction of the crowd on the campanile in the square."
@@ -1297,7 +1297,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Torcello",
         "testo": "The island where Venice began. The basilica of Santa Maria Assunta, from the 7th century, has a mosaic of the Last Judgement covering an entire wall. Only a few dozen people live here now.",
-        "come": "From Fondamente Nove by vaporetto to Burano, and from there to Torcello.",
+        "come": "From Fondamente Nove by vaporetto line 12 to Burano, and from there line 9 to Torcello.",
         "quando": "Every day; the morning is quiet. Check the basilica's opening hours.",
         "tempo": "half a day, combined with Burano",
         "consiglio": "I went in the middle of the day and there were twenty people: this is where Venice began, before Venice existed."
@@ -1305,7 +1305,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Murano and Burano",
         "testo": "Murano is the glass island, with the Glass Museum and the furnaces. Burano has houses painted in bright colours and a lace tradition. Both are heavily photographed and visited by groups.",
-        "come": "By vaporetto from Fondamente Nove. At the Glass Museum you see the historic pieces.",
+        "come": "By vaporetto from Fondamente Nove: line 12 stops at Murano and continues to Burano. At the Glass Museum you see the historic pieces.",
         "quando": "All year; early morning is less crowded. In winter the islands are quiet.",
         "tempo": "half a day each",
         "consiglio": "Avoid furnaces that bring tourists in with free demonstrations and then push them to buy: buy glass carrying the Vetro Artistico Murano mark."
@@ -1664,7 +1664,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "The Last Supper (Cenacolo Vinciano)",
-        "testo": "Leonardo's Last Supper, painted on a wall of the refectory of Santa Maria delle Grazie. The experimental technique began to deteriorate while he was still alive. Visitors enter in small groups, in a humidity-controlled room.",
+        "testo": "Leonardo's Last Supper, painted on a wall of the refectory of Santa Maria delle Grazie. The experimental technique began to deteriorate while he was still alive. Visitors enter in groups of up to 40 people, for 15-minute slots, in a humidity-controlled room.",
         "come": "Metro M1 Conciliazione or M2 Cadorna, then a few minutes on foot. Visit on your own, at the time set on the ticket.",
         "quando": "Tuesday to Sunday 8:15-19:00, last entry 18:45; closed on Mondays, 1 January and 25 December. Booking is compulsory for all tickets, even free ones: without it you don't get in. Collect the ticket at the office next to the entrance at least 30 minutes before your slot, with ID.",
         "tempo": "15 minutes inside, an hour with waiting and checks",
@@ -1932,7 +1932,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Monreale Cathedral",
         "testo": "A 12th-century Norman cathedral with thousands of square metres of Byzantine gold mosaics and a cloister where every capital is different. Inside you understand how Sicily held together all the cultures that conquered it.",
-        "come": "From Palermo by city bus from Piazza Indipendenza (a short walk from the Palazzo dei Normanni) or by taxi. The cathedral is self-guided; the cloister has a separate entrance.",
+        "come": "From Palermo by AMAT bus 389 from Piazza Indipendenza (a short walk from the Palazzo dei Normanni) or by taxi. The cathedral is self-guided; the cloister has a separate entrance.",
         "quando": "Early morning or early afternoon. The schedule has a midday break: check first.",
         "tempo": "2 hours",
         "consiglio": "Go up to the roof terrace, if open: you walk above the nave and see Palermo."
@@ -2265,8 +2265,8 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "La Pelosa, Stintino",
-        "testo": "A beach of white sand and shallow water, facing the Aragonese tower and Piana island. It is among the most photographed in Italy. To protect it, access is regulated: check the current rules.",
-        "come": "By car to Stintino, in the northwest, then on foot from the car parks. Access rules and booking are on the Stintino town website.",
+        "testo": "A beach of white sand and shallow water, facing the Aragonese tower and Piana island. It is among the most photographed in Italy. To protect it, from 15 May to 15 October 2026 entry is by booking only: 1,500 places a day, €3.50 per person (2026), free under 12, checks from 8:00 to 18:00.",
+        "come": "By car to Stintino, in the northwest, then on foot from the car parks. Book on the official site spiaggialapelosa.it, up to 4 people per booking: 1,000 of the places open two days before, at 9:00.",
         "quando": "Early morning. June and September, avoiding July and August. With the mistral the sea is rough and the beach partly closed.",
         "tempo": "Half a day",
         "consiglio": "Check the access rules a few days ahead and bring a mat for the sand."
@@ -2377,7 +2377,7 @@ export const destinazioniItalia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Some beaches and coves have regulated access, sometimes with booking (for example La Pelosa and Cala Goloritzé): check the season's rules before going.",
+      "Some beaches and coves have regulated access, sometimes with booking (for example La Pelosa, booking from 15 May to 15 October and €3.50 in 2026, and Cala Goloritzé): check the season's rules before going.",
       "Taking away sand, pebbles and shells is forbidden: fines are heavy and there are checks at ports and airports.",
       "Car ferries for summer are booked months ahead and prices rise in July and August.",
       "Treks such as Gorropu and Goloritzé: it is hot in summer, you need plenty of water, proper shoes, and after storms the streams can block the way.",
@@ -3396,7 +3396,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Basilica di Superga and the rack tram",
         "testo": "Juvarra's basilica on the hill east of the Po, with the Savoy tombs in the crypt. At the back is the Grande Torino memorial, where the plane crashed in 1949. From the terrace you see the city and the Alps.",
-        "come": "Historic rack railway from Sassi station, reached by tram from the centre, with hourly departures. On Wednesdays the railway does not run.",
+        "come": "Historic rack railway from Sassi station, reached by GTT public transport from the centre, with hourly departures. On Wednesdays the railway does not run.",
         "quando": "Departures from Sassi every hour from 10:00 to 18:00, last ride down from Superga at 18:30; updated times on the GTT website. A clear day, ideally the afternoon for the light on the Alps.",
         "tempo": "2-3 hours including the ride",
         "url": "https://www.gtt.to.it/cms/turismo/sassisup",
@@ -3609,7 +3609,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Sentiero degli Dei",
-        "testo": "One of the finest scenic walks on the coast, from Bomerano (Agerola) to Nocelle, at mid-height, with Positano and Capri on the horizon. It takes about three hours, mostly downhill.",
+        "testo": "One of the finest scenic walks on the coast, from Bomerano (Agerola) to Nocelle, at mid-height, with Positano and Capri on the horizon. It is about 8 km, between 630 and 30 metres above sea level, and takes three to four hours, mostly downhill.",
         "come": "SITA bus from Amalfi to Bomerano, then walk to Nocelle. From Nocelle a long staircase goes down to Positano, or you stop and take the bus.",
         "quando": "Spring and autumn. In summer start at dawn: the path has little shade.",
         "tempo": "3-4 hours plus the descent to Positano",
@@ -3852,7 +3852,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Monte Solaro e Scala Fenicia",
-        "testo": "Capri's highest point, 589 metres, reached from Anacapri by chairlift. From the top you see both gulfs, Naples and Salerno together. Below, the Phoenician Steps, a long stairway, are the old route between Marina Grande and Anacapri.",
+        "testo": "Capri's highest point, 589 metres, reached from Anacapri by chairlift. From the top you see both gulfs, Naples and Salerno together. Below, the Phoenician Steps, 921 steps over about 1.7 km, are the old route between Marina Grande and Anacapri.",
         "come": "Chairlift from the square in Anacapri. To come down on foot you can take the Scala Fenicia, in comfortable shoes.",
         "quando": "Morning, with clear air. The chairlift stops in strong wind.",
         "tempo": "2-3 hours",
@@ -4321,7 +4321,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Duomo di Monreale",
         "testo": "The 12th-century Norman masterpiece: thousands of square metres of gold-ground mosaics, with the great Christ Pantocrator in the apse. Next door the cloister has a colonnade of paired little columns, and every capital is different. The terraces above look over the Conca d'Oro.",
-        "come": "City bus from Palermo (piazza Indipendenza or corso Calatafimi). The cloister and the terraces have their own tickets.",
+        "come": "AMAT bus 389 from Palermo (piazza Indipendenza or corso Calatafimi). The cloister and the terraces have their own tickets.",
         "quando": "Early morning, before the coaches. Hours vary with services: check beforehand.",
         "tempo": "2 hours",
         "consiglio": "Climb the terraces to see the roof and Palermo; bring a sweater for the cool inside."

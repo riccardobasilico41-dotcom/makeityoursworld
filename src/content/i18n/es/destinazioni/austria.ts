@@ -48,7 +48,7 @@ export const destinazioniAustria: Destinazione[] = [
       {
         nome: "Palacio de Schönbrunn",
         testo: "La residencia de verano de los Habsburgo, patrimonio de la UNESCO, con 1.441 habitaciones y jardines barrocos. Se visitan los aposentos imperiales, con varios recorridos.",
-        come: "En metro desde el centro hasta la parada Schönbrunn. Entradas en línea con hora.",
+        come: "Metro U4 hasta Schönbrunn, o tranvía 10 o 60 y autobús 10A hasta Schloss Schönbrunn. Entradas en línea con hora.",
         quando: "Palacio todos los días de 8:30 a 17, jardines desde las 6:30; temprano para adelantarse a los grupos.",
         tempo: "3-4 horas",
         costo: "Palace Ticket 42 € adultos (2026), solo en línea en la web oficial; jardines libres",
@@ -58,7 +58,7 @@ export const destinazioniAustria: Destinazione[] = [
       {
         nome: "Hofburg y Museo Sissi",
         testo: "El palacio imperial en el centro, con aposentos imperiales, la colección de platería y el museo dedicado a Sissi. El complejo alberga también la Escuela Española de Equitación.",
-        come: "En el centro, a pie.",
+        come: "En el centro, a pie; la parada de metro más cercana es Herrengasse (U3).",
         quando: "Horarios en la web oficial; el Museo Sisi renovado reabre el 19 de noviembre de 2026. Por la mañana entre semana.",
         tempo: "2 horas",
         costo: "Museo Sissi 15 €, con visita guiada a los apartamentos 33 € (2026)",
@@ -68,7 +68,7 @@ export const destinazioniAustria: Destinazione[] = [
       {
         nome: "Catedral de San Esteban (Stephansdom)",
         testo: "El símbolo de Viena, de estilo gótico, con el tejado de tejas de colores y la torre sur de 136 metros, que se sube a pie. En la torre norte inacabada hay una plataforma con la campana Pummerin; bajo la iglesia están las catacumbas.",
-        come: "Metro hasta Stephansplatz. Torres y catacumbas de pago: tarifas en la web oficial.",
+        come: "Metro U1 o U3 hasta Stephansplatz. Torres y catacumbas de pago: tarifas en la web oficial.",
         quando: "Visitas turísticas lun-sáb de 9 a 11:30 y de 13 a 16:30, domingos y festivos de 13 a 16:30, salvo oficios. Temprano o al atardecer para la luz sobre el tejado.",
         tempo: "1 hora",
         url: "https://www.stephanskirche.at",
@@ -80,7 +80,7 @@ export const destinazioniAustria: Destinazione[] = [
         come: "Tranvía D hasta Schloss Belvedere. Entradas para el Belvedere Superior.",
         quando: "Todos los días de 9 a 18; temprano para ver «El beso» sin multitudes.",
         tempo: "2 horas",
-        costo: "Belvedere superior 23 € adultos (2026, precio del día)",
+        costo: "Belvedere superior 23 € adultos (2026, precio del día); gratis para menores de 19 años",
         url: "https://www.belvedere.at",
         consiglio: "Descuentos y horarios de verano en la web oficial."
       },
@@ -97,7 +97,7 @@ export const destinazioniAustria: Destinazione[] = [
       {
         nome: "Ópera Estatal (Staatsoper)",
         testo: "Uno de los teatros líricos más importantes del mundo. Se puede visitar con un tour guiado o asistir a un espectáculo con entradas de pie, muy económicas.",
-        come: "En el Ring, en el centro, a pie. Las entradas de pie solo se venden el día de la función, desde las 10.",
+        come: "En el Ring, en el centro: metro U1, U2 o U4 hasta Karlsplatz, salida norte hacia la Ópera. Las entradas de pie solo se venden el día de la función, desde las 10.",
         quando: "Noche; las entradas de pie se compran esa misma mañana, en cuanto abre la venta.",
         tempo: "3 horas",
         url: "https://www.wiener-staatsoper.at",
@@ -106,17 +106,18 @@ export const destinazioniAustria: Destinazione[] = [
       {
         nome: "Prater y Riesenrad",
         testo: "El gran parque con la noria de 1897, célebre por la película «El tercer hombre». Hay atracciones históricas y la larga avenida arbolada.",
-        come: "En transporte público desde el centro.",
-        quando: "Tarde o noche, por la vista de la ciudad.",
+        come: "Metro U1 o U2 hasta Praterstern, junto a la entrada principal.",
+        quando: "Tarde o noche, por la vista de la ciudad. Las atracciones abren de mediados de marzo a finales de octubre, más o menos de 11 a 1 de la madrugada; en invierno solo una parte.",
         tempo: "2 horas",
+        costo: "entrada libre al parque, atracciones de pago (normalmente 3,50-8 €, 2026)",
         url: "https://www.wienerriesenrad.com",
         consiglio: "Subir a la noria al atardecer."
       },
       {
         nome: "Naschmarkt",
-        testo: "Un gran mercado al aire libre: puestos de fruta, especias, aceitunas y restaurantes.",
-        come: "A pie desde el centro, cerca de Karlsplatz.",
-        quando: "Por la mañana; comprobar días y horarios antes de ir.",
+        testo: "Un gran mercado al aire libre a lo largo de la Wienzeile: puestos de fruta, especias, aceitunas y restaurantes. Los sábados, hacia el Kettenbrücke, hay también un mercadillo de las pulgas (6:30-15).",
+        come: "A pie desde el centro, cerca de Karlsplatz; metro U4 hasta Kettenbrückengasse.",
+        quando: "Puestos lun-vie de 6 a 21 y sábado de 6 a 18 (horario máximo fijado por el Ayuntamiento); los domingos solo abren restaurantes y bares, de 9 a 21. Mejor por la mañana.",
         tempo: "1-2 horas",
         consiglio: "Ir por la mañana, cuando los puestos están llenos."
       }

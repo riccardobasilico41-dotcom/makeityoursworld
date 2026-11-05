@@ -605,7 +605,7 @@ export const destinazioniItalia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Sellaronda",
-        "testo": "Il giro sugli sci attorno al Gruppo del Sella: quattro passi (Gardena, Sella, Pordoi, Campolongo) e quattro valli (Val Gardena, Val di Fassa, Arabba, Alta Badia). Il giro alterna piste e impianti, con le piste facili e medie quasi sempre in alto, e panorami sulle Dolomiti per tutto il percorso.",
+        "testo": "Il giro sugli sci attorno al Gruppo del Sella: quattro passi (Gardena, Sella, Pordoi, Campolongo) e quattro valli (Val Gardena, Val di Fassa, Arabba, Alta Badia). Il giro, circa 40 km, alterna piste e impianti, con le piste facili e medie quasi sempre in alto, e panorami sulle Dolomiti per tutto il percorso.",
         "come": "Si parte da qualunque paese attorno al Sella (Selva, Canazei, Arabba, Corvara) con lo skipass Dolomiti Superski. Il senso orario è segnato con cartelli arancioni, quello antiorario con cartelli verdi.",
         "quando": "In stagione, da dicembre a metà aprile. Partire presto e arrivare all'ultimo impianto prima della chiusura: chi arriva tardi deve rientrare con il taxi.",
         "tempo": "una giornata intera: 4-5 ore sugli sci più pause",
@@ -633,7 +633,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Cervinia e Zermatt",
-        "testo": "Un comprensorio d'alta quota: da Breuil-Cervinia si sale al Plateau Rosà e si scia anche d'estate sul ghiacciaio. Con lo skipass internazionale si attraversa il confine con la Svizzera e si scende a Zermatt, sotto il Cervino.",
+        "testo": "Un comprensorio d'alta quota: da Breuil-Cervinia (circa 2.050 m) si sale al Plateau Rosà (circa 3.480 m) e si scia anche d'estate sul ghiacciaio. Con lo skipass internazionale si attraversa il confine con la Svizzera e si scende a Zermatt, sotto il Cervino.",
         "come": "Da Aosta si va a Breuil-Cervinia in auto o con i bus. Gli impianti partono dal paese. Per Zermatt serve lo skipass esteso.",
         "quando": "Da novembre a maggio per la neve in quota; il collegamento con Zermatt dipende dal meteo e dal vento.",
         "tempo": "3-5 giorni; il giro Cervinia-Zermatt richiede una giornata intera",
@@ -867,7 +867,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Appia Antica",
         "testo": "La regina delle strade romane, costruita nel 312 a.C. Ci sono i basoli originali, tombe, ville e acquedotti, e le catacombe di San Callisto e San Sebastiano sotto la strada. Il Parco dell'Appia Antica è una delle poche aree verdi grandi vicine al centro.",
-        "come": "Dal centro con i bus urbani e a piedi; in alternativa in bici a noleggio. La domenica e nei festivi l'Appia è chiusa ai veicoli a motore da Porta San Sebastiano in poi, dalle 9 alle 16 con l'ora solare e dalle 9 alle 18 con l'ora legale.",
+        "come": "Dal centro con il bus 118 (fermata Circo Massimo o Colosseo) o con il 660 (dalla metro A Arco di Travertino), poi a piedi; in alternativa in bici a noleggio. La domenica e nei festivi l'Appia è chiusa ai veicoli a motore da Porta San Sebastiano in poi, dalle 9 alle 16 con l'ora solare e dalle 9 alle 18 con l'ora legale.",
         "quando": "Domenica, che è il giorno migliore perché è chiusa alle auto. Le catacombe hanno giorni di chiusura diversi: controllarli sui loro siti prima di andare.",
         "tempo": "mezza giornata",
         "url": "https://www.parcoappiaantica.it/",
@@ -894,7 +894,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Trastevere e Ghetto ebraico",
         "testo": "Due rioni dove Roma è ancora abitata. Trastevere ha vicoli, osterie e la basilica di Santa Maria in Trastevere con i mosaici dorati. Il Ghetto ebraico, vicino al Portico d'Ottavia, è il posto del carciofo alla giudia.",
-        "come": "A piedi dal centro attraversando il Tevere sull'isola Tiberina, oppure con il tram da Largo Argentina.",
+        "come": "A piedi dal centro attraversando il Tevere sull'isola Tiberina, oppure con il tram 8 (da piazza Venezia, passando per Largo Argentina).",
         "quando": "Mattina per i vicoli; sera per cena. Trastevere il sabato sera è molto affollata.",
         "tempo": "mezza giornata",
         "consiglio": "Per mangiare bene allontanarsi dai ristoranti con camerieri che invitano a entrare. A Testaccio, al Pigneto o a San Lorenzo si mangia una cacio e pepe fatta bene, spesso a una frazione del prezzo dei locali vicino ai monumenti."
@@ -1295,7 +1295,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "San Giorgio Maggiore",
         "testo": "L'isola davanti a San Marco con la chiesa di Palladio e un campanile da cui si vede la città e la laguna. È uno dei punti panoramici migliori, di solito con poca coda.",
-        "come": "Dalla fermata San Zaccaria si prende il vaporetto per San Giorgio, in pochi minuti. Il campanile ha l'ascensore.",
+        "come": "Dalla fermata San Zaccaria si prende il vaporetto della linea 2 per San Giorgio, in pochi minuti. Il campanile ha l'ascensore.",
         "quando": "Tutti i giorni; il tardo pomeriggio dà la luce migliore su San Marco. Controllare l'orario dell'ascensore.",
         "tempo": "1 ora",
         "consiglio": "Dal campanile si vede San Marco e tutta la laguna con una frazione della folla che c'è sul campanile in piazza."
@@ -1303,7 +1303,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Torcello",
         "testo": "L'isola dove Venezia è cominciata. La basilica di Santa Maria Assunta, del VII secolo, ha un mosaico del Giudizio Universale che copre una parete intera. Oggi vivono poche decine di persone.",
-        "come": "Da Fondamente Nove in vaporetto fino a Burano, e da lì a Torcello.",
+        "come": "Da Fondamente Nove con il vaporetto 12 fino a Burano, e da lì con la linea 9 a Torcello.",
         "quando": "Tutti i giorni; la mattina è tranquilla. Controllare l'orario della basilica.",
         "tempo": "mezza giornata, abbinata a Burano",
         "consiglio": "Ci sono andato in pieno giorno e c'erano venti persone: è lì che Venezia è cominciata, prima che esistesse Venezia."
@@ -1311,7 +1311,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Murano e Burano",
         "testo": "Murano è l'isola del vetro, con il Museo del Vetro e le fornaci. Burano ha le case dipinte in colori vivaci e la tradizione del pizzo. Sono molto fotografate e frequentate dai gruppi.",
-        "come": "In vaporetto da Fondamente Nove. Al Museo del Vetro si vedono i pezzi storici.",
+        "come": "In vaporetto da Fondamente Nove: la linea 12 ferma a Murano e prosegue per Burano. Al Museo del Vetro si vedono i pezzi storici.",
         "quando": "Tutto l'anno; la mattina presto è meno affollato. In inverno l'isola è tranquilla.",
         "tempo": "mezza giornata ciascuna",
         "consiglio": "Evitare le fornaci che portano i turisti con lance gratuite e poi spingono ad acquistare: acquistare il vetro marchiato Vetro Artistico Murano."
@@ -1670,7 +1670,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Cenacolo Vinciano",
-        "testo": "L'Ultima Cena di Leonardo, dipinta su una parete del refettorio di Santa Maria delle Grazie. La tecnica sperimentale ha iniziato a rovinarsi quando lui era ancora vivo. Si entra a piccoli gruppi, con ambiente a umidità controllata.",
+        "testo": "L'Ultima Cena di Leonardo, dipinta su una parete del refettorio di Santa Maria delle Grazie. La tecnica sperimentale ha iniziato a rovinarsi quando lui era ancora vivo. Si entra in gruppi di 40 persone al massimo, per turni di 15 minuti, in un ambiente a umidità controllata.",
         "come": "Metro M1 Conciliazione o M2 Cadorna, poi pochi minuti a piedi. Visita da soli, a orario fissato sul biglietto.",
         "quando": "Da martedì a domenica 8:15-19, ultimo ingresso alle 18:45; chiuso il lunedì, il 1 gennaio e il 25 dicembre. Prenotazione obbligatoria per tutti i biglietti, anche gratuiti: senza non si entra. Il biglietto si ritira alla biglietteria accanto all'ingresso almeno 30 minuti prima del turno, con un documento.",
         "tempo": "15 minuti dentro, un'ora con attesa e controlli",
@@ -1938,7 +1938,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Duomo di Monreale",
         "testo": "Una cattedrale normanna del XII secolo con migliaia di metri quadrati di mosaici dorati bizantini e un chiostro dove ogni capitello è diverso. Dentro si capisce come la Sicilia abbia tenuto insieme tutte le culture che l'hanno conquistata.",
-        "come": "Da Palermo con l'autobus urbano da Piazza Indipendenza (a due passi dal Palazzo dei Normanni) o in taxi. Il duomo si visita da soli; il chiostro ha ingresso separato.",
+        "come": "Da Palermo con l'autobus AMAT 389 da Piazza Indipendenza (a due passi dal Palazzo dei Normanni) o in taxi. Il duomo si visita da soli; il chiostro ha ingresso separato.",
         "quando": "Mattina presto o nel primo pomeriggio. L'orario ha una pausa a metà giornata: controllare prima.",
         "tempo": "2 ore",
         "consiglio": "Salire sulla terrazza sui tetti, se aperta: si cammina sopra la navata e si vede Palermo."
@@ -2271,8 +2271,8 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "La Pelosa, Stintino",
-        "testo": "Una spiaggia di sabbia bianca e acqua bassa, di fronte alla torre aragonese e all'isola Piana. È fra le più fotografate d'Italia. Per proteggerla l'accesso è regolato: controllare le regole in vigore.",
-        "come": "In auto fino a Stintino, nel nord-ovest, poi a piedi dai parcheggi. Modalità di accesso e prenotazione si controllano sul sito del Comune di Stintino.",
+        "testo": "Una spiaggia di sabbia bianca e acqua bassa, di fronte alla torre aragonese e all'isola Piana. È fra le più fotografate d'Italia. Per proteggerla, dal 15 maggio al 15 ottobre 2026 si entra solo prenotando: 1.500 posti al giorno, 3,50 € a persona (2026), gratis sotto i 12 anni, controlli dalle 8 alle 18.",
+        "come": "In auto fino a Stintino, nel nord-ovest, poi a piedi dai parcheggi. Si prenota sul sito ufficiale spiaggialapelosa.it, al massimo 4 persone per prenotazione: 1.000 posti si aprono due giorni prima, alle 9.",
         "quando": "Mattina presto. Giugno e settembre, evitando luglio e agosto. Con il maestrale il mare è mosso e la spiaggia chiusa a tratti.",
         "tempo": "Mezza giornata",
         "consiglio": "Controllare le regole di accesso qualche giorno prima e portare una stuoia per la sabbia."
@@ -2383,7 +2383,7 @@ export const destinazioniItalia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Alcune spiagge e cale hanno accessi regolati, a volte con prenotazione (per esempio La Pelosa e Cala Goloritzé): controllare le regole della stagione prima di andare.",
+      "Alcune spiagge e cale hanno accessi regolati, a volte con prenotazione (per esempio La Pelosa, con prenotazione dal 15 maggio al 15 ottobre e 3,50 € nel 2026, e Cala Goloritzé): controllare le regole della stagione prima di andare.",
       "È vietato portare via sabbia, ciottoli e conchiglie: le multe sono salate e i controlli ai porti e agli aeroporti ci sono.",
       "I traghetti con l'auto per l'estate si prenotano con mesi di anticipo e i prezzi salgono a luglio e agosto.",
       "Trekking come Gorropu e Goloritzé: in estate fa caldo, l'acqua serve in abbondanza, le scarpe devono essere adatte e dopo temporali i torrenti possono impedire il passaggio.",
@@ -3402,7 +3402,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Basilica di Superga e tranvia a dentiera",
         "testo": "Basilica di Juvarra sulla collina a est del Po, con le tombe dei Savoia nella cripta. Sul retro c'è il memoriale del Grande Torino, nel punto dove si schiantò l'aereo nel 1949. Dalla terrazza si vedono la città e le Alpi.",
-        "come": "Tranvia storica a dentiera dalla stazione Sassi, raggiungibile in tram dal centro, con partenze ogni ora. Il mercoledì la tranvia è ferma.",
+        "come": "Tranvia storica a dentiera dalla stazione Sassi, raggiungibile con i mezzi GTT dal centro, con partenze ogni ora. Il mercoledì la tranvia è ferma.",
         "quando": "Partenze da Sassi ogni ora dalle 10 alle 18, ultima discesa da Superga alle 18:30; orari aggiornati sul sito GTT. Giornata limpida, meglio il pomeriggio per la luce sulle Alpi.",
         "tempo": "2-3 ore compresa la salita",
         "url": "https://www.gtt.to.it/cms/turismo/sassisup",
@@ -3615,7 +3615,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Sentiero degli Dei",
-        "testo": "Uno dei percorsi panoramici più belli della costa, da Bomerano (Agerola) a Nocelle, a mezza quota, con Positano e Capri all'orizzonte. Si fa in circa tre ore, quasi tutto in discesa.",
+        "testo": "Uno dei percorsi panoramici più belli della costa, da Bomerano (Agerola) a Nocelle, a mezza quota, con Positano e Capri all'orizzonte. Sono circa 8 km, tra i 630 e i 30 metri di quota, e si fanno in tre-quattro ore, quasi tutto in discesa.",
         "come": "Bus SITA da Amalfi a Bomerano, poi si cammina fino a Nocelle. Da Nocelle si scende a Positano per una lunga scalinata, oppure ci si ferma e si prende il bus.",
         "quando": "Primavera e autunno. D'estate partire all'alba: il sentiero ha poca ombra.",
         "tempo": "3-4 ore più la discesa a Positano",
@@ -3858,7 +3858,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Monte Solaro e Scala Fenicia",
-        "testo": "Il punto più alto di Capri, 589 metri, raggiungibile da Anacapri con una seggiovia. Dalla cima si vedono i due golfi, Napoli e Salerno insieme. In basso la Scala Fenicia, una lunga scalinata, è l'antica via tra Marina Grande e Anacapri.",
+        "testo": "Il punto più alto di Capri, 589 metri, raggiungibile da Anacapri con una seggiovia. Dalla cima si vedono i due golfi, Napoli e Salerno insieme. In basso la Scala Fenicia, 921 gradini per circa 1,7 km, è l'antica via tra Marina Grande e Anacapri.",
         "come": "Seggiovia dalla piazza di Anacapri. Per scendere a piedi si può prendere la Scala Fenicia, con scarpe comode.",
         "quando": "Mattina, con aria limpida. La seggiovia si ferma con il vento forte.",
         "tempo": "2-3 ore",
@@ -4327,7 +4327,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Duomo di Monreale",
         "testo": "Il capolavoro normanno del Dodicesimo secolo: migliaia di metri quadrati di mosaici a fondo oro, con il grande Cristo Pantocratore nell'abside. Accanto il chiostro ha un colonnato di colonnine binate, e ogni capitello è diverso dagli altri. Le terrazze sopra danno sulla Conca d'Oro.",
-        "come": "Bus urbano da Palermo (piazza Indipendenza o corso Calatafimi). Il chiostro e le terrazze hanno biglietti propri.",
+        "come": "Bus AMAT 389 da Palermo (piazza Indipendenza o corso Calatafimi). Il chiostro e le terrazze hanno biglietti propri.",
         "quando": "Primo mattino, prima dei pullman. Orari variano con le funzioni: controllare prima.",
         "tempo": "2 ore",
         "consiglio": "Salire sulle terrazze per vedere il tetto e Palermo; portare una felpa per il fresco dentro."

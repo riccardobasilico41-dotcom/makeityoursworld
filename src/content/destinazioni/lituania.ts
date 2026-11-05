@@ -111,7 +111,7 @@ export const destinazioniLituania: Destinazione[] = [
       },
       {
         nome: "Užupis",
-        testo: "Il quartiere bohémien al di là del torrente, autoproclamatosi repubblica il 1° aprile 1997. Sul muro della via Paupio sono le targhe con gli articoli della sua «costituzione», in molte lingue.",
+        testo: "Il quartiere bohémien al di là del torrente, autoproclamatosi repubblica il 1° aprile 1997. Sul muro della via Paupio sono le targhe con i 38 articoli e i 3 motti della sua «costituzione», in oltre venti lingue.",
         come: "A piedi dalla Città Vecchia, attraversando il ponte.",
         quando: "Giorno; il 1° aprile è la festa dell'indipendenza.",
         tempo: "1-2 ore",
@@ -129,7 +129,7 @@ export const destinazioniLituania: Destinazione[] = [
       },
       {
         nome: "Università di Vilnius",
-        testo: "Fondata nel 1579, ha numerosi cortili collegati, la chiesa barocca di San Giovanni e una biblioteca storica. Orari e biglietti sul sito dell'università.",
+        testo: "Fondata nel 1579, ha circa tredici cortili collegati, la chiesa barocca di San Giovanni e una biblioteca storica. Orari e biglietti sul sito dell'università.",
         come: "A piedi, in Pilies gatvė.",
         quando: "Mattina nei giorni feriali.",
         tempo: "1 ora",
@@ -259,9 +259,9 @@ export const destinazioniLituania: Destinazione[] = [
         nome: "Castello dell'isola di Trakai",
         testo: "Castello gotico di mattoni rossi sull'isola del lago Galvė, iniziato nel Trecento dal granduca Kęstutis e completato dal figlio Vytautas, che vi morì nel 1430. Ricostruito nel Novecento, ospita il Museo Storico di Trakai.",
         come: "Dal paese, ponte di legno pedonale dalla riva.",
-        quando: "Mattina nei giorni feriali; ottobre-marzo meno folla.",
+        quando: "Mattina nei giorni feriali; ottobre-marzo meno folla. Da maggio a settembre aperto tutti i giorni 10-19; marzo-aprile e ottobre-novembre chiuso il lunedì, dicembre-febbraio chiuso lunedì e martedì (10-18).",
         tempo: "2-3 ore",
-        costo: "biglietti e prezzi sul sito del Museo Storico di Trakai",
+        costo: "14 € aprile-settembre, 12 € ottobre-marzo; ridotto 7/6 € (2026)",
         consiglio: "Entrare nelle sale del museo: raccontano la storia del Granducato."
       },
       {

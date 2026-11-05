@@ -543,7 +543,7 @@ export const destinazioniMarocco: Destinazione[] = [
         "nome": "Zoco El Had",
         "testo": "El gran mercado cubierto de Agadir, dentro de murallas con muchas puertas: fruta, especias, aceite de argán, cerámica y ropa, con muchos más marroquíes que turistas. Es el sitio para comprar argán y amlou a precios normales.",
         "come": "En taxi desde el paseo marítimo.",
-        "quando": "Por la mañana. Horario y día de cierre, a comprobar en el lugar.",
+        "quando": "Por la mañana. Cerrado los lunes; suele abrir de 9 a 18 (2026), pero cada puesto tiene su propio horario.",
         "tempo": "1,5-2 horas",
         "consiglio": "Los puestos de fruta y verdura son la parte más animada."
       }

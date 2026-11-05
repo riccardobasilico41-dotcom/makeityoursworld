@@ -53,7 +53,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Hol Chan Marine Reserve e Shark Ray Alley",
-          "testo": "Hol Chan è un canale naturale nella barriera corallina, a sud di Ambergris, dentro una riserva marina che fa parte del sito UNESCO della barriera del Belize. Shark Ray Alley è il punto dove i pescatori pulivano le reti: gli scarti attiravano squali nutrice e razze, che oggi si avvicinano alla barca.",
+          "testo": "Hol Chan è un canale naturale nella barriera corallina, a sud di Ambergris, dentro una riserva marina istituita nel 1987, che fa parte del sito UNESCO della barriera del Belize. Shark Ray Alley è il punto dove i pescatori pulivano le reti: gli scarti attiravano squali nutrice e razze, che oggi si avvicinano alla barca.",
           "come": "Escursione in barca di mezza giornata da Caye Caulker, con guida e attrezzatura. La tassa del parco marino spesso non è nel prezzo.",
           "quando": "Mattina, con il mare più calmo; stagione migliore dicembre-aprile.",
           "tempo": "Mezza giornata",
@@ -63,7 +63,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Il Great Blue Hole dall'alto",
-          "testo": "Una voragine marina larga più di 300 metri e profonda circa 124, al centro di Lighthouse Reef, un atollo al largo della costa. Il cerchio perfetto si vede solo dall'alto.",
+          "testo": "Una voragine marina larga più di 300 metri e profonda circa 124, al centro di Lighthouse Reef, un atollo a circa 70 km dalla costa. Il cerchio perfetto si vede solo dall'alto.",
           "come": "Volo panoramico con partenza dall'isola o da Belize City, con un piccolo aereo. In alternativa un'immersione di giornata, più cara e più faticosa.",
           "quando": "Giornata limpida, meglio al mattino.",
           "tempo": "Mezza giornata",
@@ -326,7 +326,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Xunantunich",
-          "testo": "Sito maya del periodo classico con la piramide El Castillo su una collina sopra il fiume Mopan. Si sale sulla cima.",
+          "testo": "Sito maya del periodo classico con la piramide El Castillo, alta circa 40 metri, su una collina sopra il fiume Mopan. Si sale sulla cima.",
           "come": "Da San Ignacio taxi fino al Mopan, poi traghetto a mano; dall'altra parte si sale a piedi.",
           "quando": "Mattina, prima del caldo.",
           "tempo": "2 ore",
@@ -334,7 +334,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Caracol",
-          "testo": "Una delle più grandi città maya, sull'altopiano di Vaca ai piedi delle Maya Mountains. La piramide Caana è alta 43 metri.",
+          "testo": "Una delle più grandi città maya, sull'altopiano di Vaca ai piedi delle Maya Mountains. La piramide Caana, alta 43 metri, è ancora la struttura costruita dall'uomo più alta del Belize.",
           "come": "Escursione da San Ignacio con guida, lungo una lunga strada in parte sterrata; in genere il pranzo è incluso.",
           "quando": "Mattina presto. Stagione secca per la strada.",
           "tempo": "Giornata intera",
@@ -477,7 +477,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Cockscomb Basin Wildlife Sanctuary",
-          "testo": "Riserva creata per proteggere il giaguaro, in una valle di foresta pluviale con sentieri per cascate e belvedere. Il giaguaro si vede di rado.",
+          "testo": "Riserva istituita nel 1986 come prima area protetta per il giaguaro, in una valle di foresta pluviale con sentieri per cascate e belvedere. Il giaguaro si vede di rado.",
           "come": "Da Hopkins o Placencia in auto fino all'ingresso; sentieri da una a qualche ora, alcuni con pozze per il bagno.",
           "quando": "Mattina presto; stagione secca.",
           "tempo": "Mezza giornata",

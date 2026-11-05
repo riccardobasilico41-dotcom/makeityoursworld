@@ -49,7 +49,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Hol Chan Marine Reserve y Shark Ray Alley",
-          "testo": "Hol Chan es un canal natural en el arrecife, al sur de Ambergris, dentro de una reserva marina que forma parte del sitio UNESCO del arrecife de Belice. Shark Ray Alley es donde los pescadores limpiaban las redes: los restos atraían tiburones nodriza y rayas, que hoy se acercan a la lancha.",
+          "testo": "Hol Chan es un canal natural en el arrecife, al sur de Ambergris, dentro de una reserva marina creada en 1987 que forma parte del sitio UNESCO del arrecife de Belice. Shark Ray Alley es donde los pescadores limpiaban las redes: los restos atraían tiburones nodriza y rayas, que hoy se acercan a la lancha.",
           "come": "Excursión en barco de media jornada desde Caye Caulker, con guía y equipo. La tasa del parque marino a menudo no está incluida en el precio.",
           "quando": "Por la mañana, con el mar más tranquilo; mejor época de diciembre a abril.",
           "tempo": "Media jornada",
@@ -59,7 +59,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "El Great Blue Hole desde el aire",
-          "testo": "Una dolina marina de más de 300 metros de ancho y unos 124 de profundidad, en el centro de Lighthouse Reef, un atolón mar adentro. El círculo perfecto solo se ve desde arriba.",
+          "testo": "Una dolina marina de más de 300 metros de ancho y unos 124 de profundidad, en el centro de Lighthouse Reef, un atolón a unos 70 km de la costa. El círculo perfecto solo se ve desde arriba.",
           "come": "Vuelo panorámico en avioneta desde la isla o desde Belize City. La alternativa es una inmersión de día completo, más cara y más cansada.",
           "quando": "Día despejado, mejor por la mañana.",
           "tempo": "Media jornada",
@@ -322,7 +322,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Xunantunich",
-          "testo": "Sitio maya del periodo clásico con la pirámide El Castillo en una colina sobre el río Mopan. Se sube hasta la cima.",
+          "testo": "Sitio maya del periodo clásico con la pirámide El Castillo, de unos 40 metros, en una colina sobre el río Mopan. Se sube hasta la cima.",
           "come": "Desde San Ignacio taxi hasta el Mopan, luego el ferry de cadena; al otro lado se sube a pie.",
           "quando": "Mañana, antes del calor.",
           "tempo": "2 horas",
@@ -330,7 +330,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Caracol",
-          "testo": "Una de las mayores ciudades mayas, en la meseta de Vaca, al pie de las Maya Mountains. La pirámide Caana mide 43 metros.",
+          "testo": "Una de las mayores ciudades mayas, en la meseta de Vaca, al pie de las Maya Mountains. La pirámide Caana, de 43 metros, sigue siendo la estructura hecha por el hombre más alta de Belice.",
           "come": "Excursión desde San Ignacio con guía, por una carretera larga y en parte de tierra; en general el almuerzo está incluido.",
           "quando": "Mañana temprano. Estación seca por el camino.",
           "tempo": "Día completo",
@@ -473,7 +473,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Cockscomb Basin Wildlife Sanctuary",
-          "testo": "Reserva creada para proteger al jaguar, en un valle de selva tropical con senderos a cascadas y miradores. El jaguar se ve muy pocas veces.",
+          "testo": "Reserva creada en 1986 como la primera área protegida para el jaguar, en un valle de selva tropical con senderos a cascadas y miradores. El jaguar se ve muy pocas veces.",
           "come": "Desde Hopkins o Placencia en coche hasta la entrada; senderos de una a pocas horas, algunos con pozas para bañarse.",
           "quando": "Mañana temprano; estación seca.",
           "tempo": "Media jornada",

@@ -53,7 +53,7 @@ export const destinazioniMalesia: Destinazione[] = [
     luoghi: [
       {
         nome: "Petronas Twin Towers",
-        testo: "Le torri gemelle sono il simbolo della città. Si visita lo skybridge che unisce le due torri e la piattaforma panoramica più in alto; ai piedi c'è il parco KLCC con la fontana.",
+        testo: "Le torri gemelle, alte 452 metri e le più alte del mondo dal 1998 al 2004, sono il simbolo della città. Si visita lo skybridge al 41° piano, che unisce le due torri, e la piattaforma panoramica all'86° piano; ai piedi c'è il parco KLCC con la fontana.",
         come: "LRT fino a KLCC, uscita diretta nel centro commerciale. I biglietti per la salita sono a orario e si prenotano online sul sito ufficiale.",
         quando: "Da martedì a domenica, 9-21; chiuso il lunedì salvo festivi (2025). Il tramonto è l'orario più richiesto e i posti finiscono. Dal basso le torri si guardano meglio all'ora blu.",
         tempo: "1 ora per la salita; il parco KLCC si gira in mezz'ora",
@@ -62,7 +62,7 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "Batu Caves",
-        testo: "Un santuario indù in una grotta calcarea, preceduto dalla statua dorata di Murugan alta quasi 43 metri e da una lunga scalinata colorata. Dentro c'è un grande salone con piccoli templi, la luce che scende da un'apertura nel soffitto e scimmie sui gradini.",
+        testo: "Un santuario indù in una grotta calcarea, preceduto dalla statua dorata di Murugan alta quasi 43 metri e da 272 gradini colorati. Dentro c'è un grande salone con piccoli templi, la luce che scende da un'apertura nel soffitto e scimmie sui gradini.",
         come: "Treno Komuter da KL Sentral fino al capolinea Batu Caves. L'ingresso alla grotta principale è libero. La Dark Cave, la grotta interna protetta, si visita solo con le uscite educative della Malaysian Nature Society, quando sono attive. Spalle e ginocchia coperte.",
         quando: "Presto la mattina, con i fedeli che salgono e i gradini in ombra. Durante la festa del Thaipusam le folle sono enormi.",
         tempo: "2 ore",
@@ -71,7 +71,7 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "Masjid Jamek",
-        testo: "La moschea sorge alla confluenza dei fiumi Klang e Gombak, dove è nata la città. Poco più in là c'è il Sultan Abdul Samad Building.",
+        testo: "La moschea, del 1909, sorge alla confluenza dei fiumi Klang e Gombak, dove è nata la città. Poco più in là c'è Merdeka Square, dove il 31 agosto 1957 fu ammainata la bandiera britannica e alzata per la prima volta quella malese, con accanto il Sultan Abdul Samad Building.",
         come: "LRT fino a Masjid Jamek. La moschea si visita fuori dagli orari di preghiera, con veste prestata all'ingresso.",
         quando: "Al mattino.",
         tempo: "1 ora",
@@ -268,7 +268,7 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "Kek Lok Si",
-        testo: "Un grande complesso buddista ai piedi della collina di Air Itam. La pagoda dei Diecimila Buddha ha la base cinese, la parte centrale thailandese e la cupola birmana; più in alto c'è una grande statua di Guanyin in bronzo.",
+        testo: "Il tempio buddista più grande della Malesia, ai piedi della collina di Air Itam. La pagoda dei Diecimila Buddha, a sette piani, ha la base cinese, la parte centrale thailandese e la cupola birmana; più in alto c'è una grande statua di Guanyin in bronzo.",
         come: "Bus Rapid Penang da George Town o taxi. Degli ascensori inclinati portano alla statua.",
         quando: "Al mattino; durante il Capodanno cinese è affollato di lanterne e fedeli.",
         tempo: "1 ora e mezza",
@@ -295,7 +295,7 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "Penang Hill",
-        testo: "Una collina sopra la città, raggiunta da una funicolare, con aria più fresca, un giardino botanico e viste su George Town e il continente.",
+        testo: "Una collina che sale fino a 833 metri sopra la città, raggiunta da una funicolare che arriva in cima in 5-10 minuti, con aria più fresca, un giardino botanico e viste su George Town e il continente.",
         come: "In autobus da Komtar o in taxi fino alla stazione della funicolare, poi la salita in funicolare.",
         quando: "Aperta tutti i giorni dalle 6:15 alle 21:45. Al mattino c'è meno nebbia e ci sono meno code.",
         tempo: "3 ore",
@@ -409,7 +409,7 @@ export const destinazioniMalesia: Destinazione[] = [
     luoghi: [
       {
         nome: "Dutch Square, Christ Church e Stadthuys",
-        testo: "Il centro olandese della città, con gli edifici rosso mattone: la Christ Church e lo Stadthuys, l'antica sede del governo olandese.",
+        testo: "Il centro olandese della città, con gli edifici rosso mattone: la Christ Church, completata nel 1753, e lo Stadthuys, l'antica sede del governo olandese, costruita nel 1650.",
         come: "A piedi dal centro storico. Il Stadthuys ospita un museo di storia ed etnografia.",
         quando: "Al mattino, prima della folla.",
         tempo: "1 ora",
@@ -417,7 +417,7 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "St. Paul's Hill e Porta de Santiago",
-        testo: "Sulla collina stanno le rovine della chiesa nata come cappella portoghese, con lapidi olandesi lungo i muri. Ai piedi c'è la Porta de Santiago, ultima parte della fortezza A Famosa.",
+        testo: "Sulla collina stanno le rovine della chiesa nata come cappella portoghese nel 1521, con lapidi olandesi lungo i muri. Ai piedi c'è la Porta de Santiago, ultima parte della fortezza A Famosa.",
         come: "A piedi, con una breve salita. Dalla cima si vede lo stretto.",
         quando: "Al tramonto, con la luce che scende sullo stretto.",
         tempo: "1 ora",
@@ -443,8 +443,8 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "Cheng Hoon Teng",
-        testo: "Un tempio cinese storico, ancora in funzione; nelle vie vicine ci sono anche una moschea e un tempio indù: tre culture a pochi passi.",
-        come: "A piedi, nel centro storico, nella zona detta Harmony Street.",
+        testo: "Un tempio cinese storico, ancora in funzione; nelle vie vicine ci sono anche il tempio indù Sri Poyatha Moorthi e la Kampung Kling Mosque, fondata nel 1748 e ricostruita in mattoni nel 1872, con un'architettura che mescola elementi sumatrani, cinesi, indù e malesi: tre culture a pochi passi.",
+        come: "A piedi, nel centro storico, in Jalan Tukang Emas, detta Harmony Street.",
         quando: "Al mattino.",
         tempo: "1 ora",
         costo: "gratuito",
@@ -558,7 +558,7 @@ export const destinazioniMalesia: Destinazione[] = [
     luoghi: [
       {
         nome: "Piantagioni di tè",
-        testo: "Colline coperte di terrazze di tè a perdita d'occhio. Alcune piantagioni hanno una sala da tè con vista.",
+        testo: "Colline coperte di terrazze di tè a perdita d'occhio, come la piantagione BOH di Sungai Palas, da cui parte anche il sentiero per la foresta muschiosa. Alcune piantagioni hanno una sala da tè con vista.",
         come: "In auto o in tour da Tanah Rata o Brinchang. Strade di montagna strette.",
         quando: "Al mattino, con meno nebbia e meno gente.",
         tempo: "2 ore",
@@ -737,7 +737,7 @@ export const destinazioniMalesia: Destinazione[] = [
       {
         titolo: "2 giorni",
         tappe: [
-          "Giorno 1: arrivo in barca da Kuala Tembeling, sistemazione, night walk",
+          "Giorno 1: arrivo in barca da Kuala Tembeling (circa 2 ore e mezza sul fiume), sistemazione, night walk",
           "Giorno 2: canopy walkway all'apertura, Bukit Teresek, pranzo in paese, rientro nel pomeriggio"
         ]
       },
@@ -833,12 +833,20 @@ export const destinazioniMalesia: Destinazione[] = [
     luoghi: [
       {
         nome: "Langkawi Sky Bridge e funivia",
-        testo: "La funivia sale verso la cima del Gunung Mat Cincang. Da lì si scende al ponte pedonale curvo, sospeso nel vuoto, con vista su mare, isole e foresta.",
+        testo: "La funivia sale verso la cima del Gunung Mat Cincang. Da lì si scende al ponte pedonale curvo, sospeso nel vuoto a 660 metri sul livello del mare, con vista su mare, isole e foresta.",
         come: "Dalla stazione base si prende la funivia fino alla stazione alta, poi l'ascensore inclinato SkyGlide o un sentiero porta al ponte.",
         quando: "Al mattino, quando la foschia è minore e le code più corte.",
         tempo: "3 ore",
         url: "https://www.panoramalangkawi.com/",
         consiglio: "Salire all'apertura: verso mezzogiorno la foschia copre la vista."
+      },
+      {
+        nome: "Telaga Tujuh (Seven Wells)",
+        testo: "Una serie di pozze naturali nella roccia, in cima a una cascata di circa 90 metri, nella foresta sopra Oriental Village. Acqua fresca per un bagno dopo la salita.",
+        come: "A circa 1,5 km a nord di Oriental Village, la base della funivia: in scooter o auto fino al parcheggio, poi a piedi.",
+        quando: "Al mattino presto.",
+        tempo: "1 ora e mezza",
+        consiglio: "Si abbina alla funivia nella stessa mattinata. Scarpe adatte: le rocce bagnate sono scivolose."
       },
       {
         nome: "Mangrovie di Kilim",
@@ -897,6 +905,10 @@ export const destinazioniMalesia: Destinazione[] = [
       {
         nome: "Laksa di Langkawi",
         testo: "Noodles in brodo di pesce speziato. Si trova nei banchi di strada."
+      },
+      {
+        nome: "Prodotti in zona franca",
+        testo: "Langkawi è un'isola duty free: cioccolato, alcolici e profumi costano meno che sulla terraferma."
       },
       {
         nome: "Nasi lemak",
@@ -964,6 +976,7 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "In speedboat dal molo di Kuala Besut.",
         quando: "Nei mesi fuori monsone. Con il monsone di nord-est quasi tutti i resort e i traghetti si fermano.",
         tempo: "almeno 2 notti",
+        costo: "Tassa di conservazione del parco marino: 30 RM per gli stranieri (2022), da pagare all'ufficio del molo di Kuala Besut.",
         consiglio: "Prenotare chalet e barca in anticipo in alta stagione."
       },
       {

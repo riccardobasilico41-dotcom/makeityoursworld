@@ -110,7 +110,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "Lago Toba",
-        testo: "Il più grande lago vulcanico del mondo, nato da un'eruzione enorme. Acqua fresca, rive verdi, villaggi e un'isola grande al centro, Samosir.",
+        testo: "Il più grande lago vulcanico del mondo, circa 1.130 km², nato da un'eruzione enorme. Acqua fresca, rive verdi, villaggi e un'isola grande al centro, Samosir.",
         come: "Da Medan in auto o bus fino a Parapat, diverse ore di strada, poi traghetto per Tuk Tuk sull'isola di Samosir.",
         quando: "Tutto l'anno, meglio al mattino e nella stagione secca.",
         tempo: "2-3 giorni",
@@ -248,7 +248,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     luoghi: [
       {
         nome: "Borobudur",
-        testo: "Il tempio buddista più grande del mondo, del IX secolo, con nove piattaforme sovrapposte, sei quadrate e tre circolari, e migliaia di rilievi in pietra. All'alba, con la nebbia sulla pianura, è uno dei pochi luoghi che regge il proprio mito.",
+        testo: "Il tempio buddista più grande del mondo, del IX secolo, con nove piattaforme sovrapposte, sei quadrate e tre circolari, 2.672 pannelli in rilievo e in origine 504 statue del Buddha. All'alba, con la nebbia sulla pianura, è uno dei pochi luoghi che regge il proprio mito.",
         come: "Da Yogyakarta in auto o bus. La salita alla struttura è a numero chiuso, con guida e sandali speciali: si prenota online sul sito ufficiale con largo anticipo.",
         quando: "All'alba o al tramonto, con pacchetti dedicati a pagamento. La salita sulla struttura è divisa in fasce orarie a numero chiuso e si esaurisce.",
         tempo: "3 ore",
@@ -258,7 +258,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "Prambanan",
-        testo: "Il più grande complesso di templi induisti dell'Indonesia, della metà del IX secolo, con le torri dedicate a Shiva, Vishnu e Brahma; quella di Shiva è la più alta del complesso. I rilievi del tempio di Shiva e di quello di Brahma raccontano il Ramayana.",
+        testo: "Il più grande complesso di templi induisti dell'Indonesia, della metà del IX secolo, con le torri dedicate a Shiva, Vishnu e Brahma; quella di Shiva, alta 47 metri, è la più alta del complesso. I rilievi del tempio di Shiva e di quello di Brahma raccontano il Ramayana.",
         come: "Poco fuori Yogyakarta, in bus urbano o taxi. Si visita da soli o con guida.",
         quando: "Al mattino o al tramonto. Il lunedì, per manutenzione, si visita solo il parco intorno ai templi: controllare sul sito ufficiale. In alcune serate si tiene il balletto del Ramayana.",
         tempo: "2 ore",
@@ -449,7 +449,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "Alba sul Gunung Batur",
-        testo: "Un trekking notturno che porta in cima al vulcano per l'alba sulla caldera e sul lago Batur. La salita è di qualche ora e non è tecnica.",
+        testo: "Un trekking notturno che porta in cima al vulcano, 1.717 metri, per l'alba sulla caldera e sul lago Batur. La salita è di qualche ora e non è tecnica.",
         come: "Con una guida locale, partendo da Toya Bungkah o dai villaggi vicini nel cuore della notte.",
         quando: "Partenza nel cuore della notte per essere in cima all'alba.",
         tempo: "mezza giornata",
@@ -583,7 +583,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "Tombe nella roccia",
-        testo: "Tombe scavate nella parete di roccia e grotte funerarie. In alcuni siti le «tau tau», le effigi lignee dei defunti, guardano dai balconi.",
+        testo: "Tombe scavate nella parete di roccia e grotte funerarie, come il cimitero di Lemo, ricavato nella roccia a strapiombo. In alcuni siti le «tau tau», le effigi lignee dei defunti, guardano dai balconi.",
         come: "Con la guida da Rantepao, in auto o scooter.",
         quando: "Al mattino.",
         tempo: "mezza giornata",
@@ -730,7 +730,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "Trekking al Gunung Rinjani",
-        testo: "Il secondo vulcano più alto dell'Indonesia. Dall'orlo del cratere si vede il lago Segara Anak, dentro la caldera. Il percorso è lungo ed esposto e finisce su sabbia vulcanica.",
+        testo: "Il secondo vulcano più alto dell'Indonesia, 3.726 metri. Dall'orlo del cratere si vede il lago Segara Anak, dentro la caldera, a circa 2.000 metri di quota. Il percorso è lungo ed esposto e finisce su sabbia vulcanica.",
         come: "Da Senaru o Sembalun, solo con un operatore autorizzato e una guida. Bisogna registrarsi online sul sistema ufficiale eRinjani, che indica anche i documenti richiesti; dal 2026 ogni guida può accompagnare al massimo quattro escursionisti. Pacchetti di più giorni con portatori e tende.",
         quando: "Nella stagione secca. Con le piogge, il maltempo o dopo incidenti il parco può chiudere i sentieri: controllare su eRinjani prima di prenotare.",
         tempo: "più giorni",
@@ -869,6 +869,7 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "In barca da Labuan Bajo: il tempo dipende dal tipo di barca. Si cammina su sentieri con un ranger, che ha in mano solo un bastone biforcuto.",
         quando: "Al mattino, nelle ore più fresche.",
         tempo: "mezza giornata",
+        url: "https://www.komodonationalpark.org/",
         consiglio: "Chiedere espressamente Rinca nel tour: è più selvaggia dell'isola di Komodo."
       },
       {
@@ -877,6 +878,7 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "In barca da Labuan Bajo, più lontana di Rinca. Con un ranger obbligatorio.",
         quando: "Al mattino.",
         tempo: "mezza giornata",
+        url: "https://www.komodonationalpark.org/",
         consiglio: "Mai avvicinarsi senza il ranger e mai lasciare il sentiero."
       },
       {
@@ -1018,8 +1020,8 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "Wae Rebo",
-        testo: "Un villaggio remoto con sette case coniche (mbaru niang) disposte in cerchio attorno all'altare, in una radura tra le montagne. È abitato e si sta alle sue regole, a cominciare dal rito di benvenuto. Una delle cose più forti dell'isola.",
-        come: "Dall'area di Denge, alcune ore di salita nella foresta. Si dorme nelle case per gli ospiti del villaggio, in dormitorio. Si organizza tramite il comitato del villaggio o un operatore.",
+        testo: "Un villaggio remoto con sette case coniche (mbaru niang) disposte in cerchio attorno all'altare, in una radura tra le montagne, a circa 1.200 metri. È abitato e si sta alle sue regole, a cominciare dal rito di benvenuto. Una delle cose più forti dell'isola.",
+        come: "Dall'area di Denge e Dintor, circa 4,5 km di sentiero nella foresta: 2,5-3 ore di salita (2022). Si dorme nelle case per gli ospiti del villaggio, in dormitorio. Si organizza tramite il comitato del villaggio o un operatore.",
         quando: "Nella stagione secca; con le piogge il sentiero è fangoso.",
         tempo: "2 giorni (1 notte)",
         consiglio: "Portare un dono modesto per la comunità e rispettare le regole del villaggio."

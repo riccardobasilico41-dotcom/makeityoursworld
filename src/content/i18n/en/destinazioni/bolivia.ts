@@ -87,7 +87,7 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Chacaltaya",
-        "testo": "It was a high-altitude ski area. The glacier had completely disappeared by 2009; the area lies near Huayna Potosí.",
+        "testo": "It was the highest ski area in the world; the summit is at about 5,400 metres. The glacier had completely disappeared by 2009; the area lies near Huayna Potosí.",
         "come": "Half-day tour from La Paz.",
         "quando": "Early morning.",
         "tempo": "Half a day",
@@ -150,7 +150,7 @@ export const destinazioniBolivia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Landing at El Alto, at very high altitude, and planning something demanding the same day.",
+      "Landing at El Alto, above 4,000 metres, and planning something demanding the same day.",
       "Road blockades: they can isolate the city for days and cancel flights and transfers.",
       "Unofficial taxis, especially in the evening: use radio taxis or apps.",
       "Pickpockets in crowded markets: no valuables in view.",
@@ -207,7 +207,7 @@ export const destinazioniBolivia: Destinazione[] = [
     luoghi: [
       {
         "nome": "The Uyuni salt flat",
-        "testo": "A vast, high-altitude salt flat. With no reference points you cannot tell if a mountain is five or fifty kilometres away, which is why forced-perspective photos work.",
+        "testo": "The largest salt flat in the world, over 10,000 km² at about 3,650 metres. With no reference points you cannot tell if a mountain is five or fifty kilometres away, which is why forced-perspective photos work.",
         "come": "Only by 4x4 with a driver, as part of an organised tour leaving from Uyuni.",
         "quando": "In the dry season the salt flat is dry and passable throughout. In the rainy season (roughly December-April) it turns into a mirror of water, but some stops are lost.",
         "tempo": "Half a day or a day",
@@ -239,8 +239,8 @@ export const destinazioniBolivia: Destinazione[] = [
         "consiglio": "The second day in the Sud Lípez is the one that stayed most with Rick, more than the salt: red lagoons full of flamingos above four thousand metres."
       },
       {
-        "nome": "Sol de Mañana geysers and hot springs",
-        "testo": "Geysers at about 4,900 metres that puff at dawn and, along the same route, open-air hot pools.",
+        "nome": "Sol de Mañana geysers and Polques hot springs",
+        "testo": "Geysers at about 4,900 metres that puff at dawn and, along the same route, the open-air Polques hot springs, at about 4,400 metres, with water around 29 °C.",
         "come": "Stops on the 4x4 tour.",
         "quando": "At dawn, with temperatures below zero.",
         "tempo": "1-2 hours",
@@ -248,7 +248,7 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Laguna Verde",
-        "testo": "A lagoon in the far south-west, near the Chilean border.",
+        "testo": "A lagoon in the far south-west, at the foot of the Licancabur volcano, near the Chilean border.",
         "come": "Last stop of the 4x4 tour before San Pedro de Atacama.",
         "quando": "Morning.",
         "tempo": "1 hour",
@@ -269,7 +269,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "tappe": [
           "Day 1: salt flat, Isla Incahuasi, night in a salt hotel",
           "Day 2: Sud Lípez lagoons, Laguna Colorada",
-          "Day 3: geysers at dawn, hot springs, Laguna Verde, return to Uyuni or onward to San Pedro de Atacama"
+          "Day 3: geysers at dawn, Polques hot springs, Laguna Verde, return to Uyuni or onward to San Pedro de Atacama"
         ]
       }
     ],
@@ -368,12 +368,12 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "On foot from the centre, a short but steep climb.",
         "quando": "Sunset.",
         "tempo": "1-2 hours",
-        "consiglio": "At this altitude the climb tires: go slowly."
+        "consiglio": "At about 3,800 metres the climb tires: go slowly."
       },
       {
         "nome": "Isla del Sol: Chincana and Roca Sagrada",
         "testo": "The Chincana ruins and the Roca Sagrada, at the northern end of the island where tradition says the sun and the first Inca were born.",
-        "come": "Shared boat from Copacabana.",
+        "come": "Shared boat from Copacabana. There are no motor vehicles or paved roads on the island.",
         "quando": "Morning and sunset.",
         "tempo": "Half a day",
         "costo": "Boat plus small entry fees collected by the communities: carry cash",
@@ -490,7 +490,7 @@ export const destinazioniBolivia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Colonial centre of Sucre and Casa de la Libertad",
-        "testo": "The constitutional capital, a white colonial city on the UNESCO list, lower than La Paz. The republic was founded in the Casa de la Libertad.",
+        "testo": "The constitutional capital, a white colonial city on the UNESCO list, at about 2,800 metres, lower than La Paz. The republic was founded in the Casa de la Libertad.",
         "come": "On foot from the centre.",
         "quando": "By day.",
         "tempo": "Half a day",
@@ -518,7 +518,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "On foot from the centre of Potosí.",
         "quando": "Morning.",
         "tempo": "1-2 hours",
-        "consiglio": "At this altitude even walking in the centre is tiring."
+        "consiglio": "Above 4,000 metres even walking in the centre is tiring."
       },
       {
         "nome": "Cerro Rico mines",
@@ -582,7 +582,7 @@ export const destinazioniBolivia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "In Potosí the altitude weighs: even walking in the centre tires.",
+      "In Potosí the altitude (over 4,000 metres) weighs: even walking in the centre tires.",
       "The mines are a workplace, not an ordinary attraction: very harsh conditions.",
       "Bring a small gift for the miners (coca leaves, soft drinks) bought at the miners' market.",
       "Road blockades: they can block connections for days."

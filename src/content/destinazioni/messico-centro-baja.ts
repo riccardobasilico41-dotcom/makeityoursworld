@@ -62,12 +62,12 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
           "come": "Metro Zócalo. Il Templo Mayor ha ingresso INAH separato.",
           "quando": "Mattina; museo e zona archeologica del Templo Mayor sono aperti da martedì a domenica, 9-17, e chiudono il lunedì.",
           "tempo": "3 ore",
-          "costo": "Templo Mayor: 210 MXN per gli stranieri (2026).",
+          "costo": "Templo Mayor: 210 MXN per gli stranieri (2026); la domenica è gratis solo per i cittadini messicani.",
           "url": "https://www.inah.gob.mx/"
         },
         {
           "nome": "Museo Nacional de Antropología",
-          "testo": "Grande museo archeologico nel bosco di Chapultepec, con la Pietra del Sole e le sale delle culture mesoamericane.",
+          "testo": "Il museo più grande e più visitato del Messico, nel bosco di Chapultepec, con la Pietra del Sole e le sale delle culture mesoamericane.",
           "come": "Metro Auditorio o Chapultepec.",
           "quando": "Mattina; di norma chiuso il lunedì.",
           "tempo": "3-4 ore",
@@ -77,7 +77,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         },
         {
           "nome": "Teotihuacán",
-          "testo": "La città dei Templi del Sole e della Luna e della Calzada de los Muertos, fuori città, patrimonio UNESCO.",
+          "testo": "La città dei Templi del Sole e della Luna e della Calzada de los Muertos, circa 40 km a nord-est della capitale, patrimonio UNESCO.",
           "come": "Bus dal Terminal Norte o tour; ingresso INAH.",
           "quando": "All'apertura delle 8 (aperto tutti i giorni fino alle 17), prima del caldo e dei gruppi.",
           "tempo": "Mezza giornata",
@@ -220,14 +220,14 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         },
         {
           "nome": "Biblioteca Palafoxiana e Capilla del Rosario",
-          "testo": "Una biblioteca storica fondata nel Seicento e una cappella barocca ricoperta d'oro (Templo de Santo Domingo).",
+          "testo": "La prima biblioteca pubblica delle Americhe, fondata nel 1646, e una cappella barocca ricoperta d'oro (Templo de Santo Domingo).",
           "come": "A piedi dal centro.",
           "quando": "Mattina.",
           "tempo": "1,5 ore"
         },
         {
           "nome": "Gran Piramide di Cholula",
-          "testo": "Un'enorme piramide preispanica, quasi nascosta sotto una collina d'erba, con la chiesa della Virgen de los Remedios in cima. I tunnel interni hanno riaperto a marzo 2026, con visite a gruppi.",
+          "testo": "La piramide più grande del mondo per volume, quasi nascosta sotto una collina d'erba, con la chiesa della Virgen de los Remedios in cima. I tunnel interni hanno riaperto a marzo 2026 dopo sei anni di chiusura, con visite a gruppi.",
           "come": "Autobus o Uber da Puebla, poco lontano.",
           "quando": "Mattina; tramonto per la vista sui vulcani.",
           "tempo": "2-3 ore",
@@ -477,8 +477,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Árbol del Tule",
-          "testo": "Un cipresso di Montezuma con un tronco enorme, nel cortile della chiesa di Santa María del Tule. Le stime più serie gli danno fra 1.400 e 1.600 anni.",
-          "come": "Autobus o taxi da Oaxaca, poco a est, sulla strada per Mitla.",
+          "testo": "Un cipresso di Montezuma con il tronco più massiccio del mondo, nel cortile della chiesa di Santa María del Tule. Le stime più serie gli danno fra 1.400 e 1.600 anni.",
+          "come": "Autobus o taxi da Oaxaca, circa 9 km a est, sulla strada per Mitla.",
           "quando": "Mattina.",
           "tempo": "Breve sosta"
         },

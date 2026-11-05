@@ -102,7 +102,7 @@ export const destinazioniQatar: Destinazione[] = [
     luoghi: [
       {
         "nome": "Museo di Arte Islamica",
-        "testo": "L'edificio di pietra calcarea color crema di I.M. Pei, inaugurato nel 2008 su un'isola artificiale davanti alla Corniche. Dentro, manoscritti, ceramiche, metalli e tessuti da tutto il mondo musulmano.",
+        "testo": "L'edificio di pietra calcarea color crema di I.M. Pei, che lo progettò a 91 anni, inaugurato nel 2008 su un'isola artificiale davanti alla Corniche. Dentro, manoscritti, ceramiche, metalli e tessuti da tutto il mondo musulmano.",
         "come": "Taxi o Uber dal centro; il museo indica anche una navetta gratuita. Si cammina nel parco.",
         "quando": "Chiuso il mercoledì. Sabato-martedì 9-19, giovedì 9-21, venerdì 13.30-19 (2026); chiusure straordinarie sul sito. Al tramonto, dalla scalinata esterna, si guarda lo skyline di West Bay.",
         "tempo": "2-3 ore",
@@ -111,8 +111,8 @@ export const destinazioniQatar: Destinazione[] = [
       },
       {
         "nome": "Souq Waqif",
-        "testo": "Il mercato storico, ricostruito nel Duemila in stile tradizionale demolendo gli edifici moderni. Funziona: si vendono ancora tessuti, spezie, incenso e falchi da caccia, nel souq dei falchi. La sera i vicoli e i ristoranti all'aperto si riempiono di famiglie qatariote.",
-        "come": "Metro fino a Souq Waqif, oppure Msheireb; si cammina nei vicoli.",
+        "testo": "Il mercato storico, in gran parte distrutto da un incendio nel 2003 e ricostruito tra il 2006 e il 2008 in stile tradizionale, demolendo gli edifici moderni. Funziona: si vendono ancora tessuti, spezie, incenso e falchi da caccia, nel souq dei falchi, dove si possono fotografare e tenere sul braccio sotto lo sguardo dei venditori. Vicino c'è l'ospedale dei falchi gestito dallo Stato, che cura gli uccelli feriti. La sera i vicoli e i ristoranti all'aperto si riempiono di famiglie qatariote.",
+        "come": "Metro, linea oro, fino a Souq Waqif, oppure Msheireb, dove si incrociano le tre linee; si cammina nei vicoli.",
         "quando": "La sera, quando i vicoli si animano. Il souq dei falchi ha orari spezzati tra mattina e sera: controllarli su Visit Qatar.",
         "tempo": "2 ore",
         "consiglio": "Il posto dove si vede meglio la vita qatariota, soprattutto la sera."
@@ -135,7 +135,7 @@ export const destinazioniQatar: Destinazione[] = [
       {
         "nome": "Mathaf, museo arabo d'arte moderna",
         "testo": "Il museo di Qatar Museums dedicato all'arte moderna e contemporanea del mondo arabo, in un'ex scuola della Education City ristrutturata da Jean-François Bodin. Le mostre cambiano spesso e mettono insieme artisti del mondo arabo che in Europa si vedono poco.",
-        "come": "In taxi o Uber dal centro, oppure metro fino a Education City.",
+        "come": "In taxi o Uber dal centro, oppure metro, linea verde, fino a Education City.",
         "quando": "Orari sul sito di Qatar Museums. Buono per le ore calde.",
         "tempo": "1-1,5 ore",
         "costo": "Ingresso libero per tutti, con biglietto da prenotare (2026)",
@@ -144,7 +144,7 @@ export const destinazioniQatar: Destinazione[] = [
       {
         "nome": "Katara Cultural Village",
         "testo": "Un quartiere culturale sul mare tra West Bay e The Pearl, con un anfiteatro di marmo, due moschee decorate (la Moschea d'Oro e la Moschea di Katara a mosaici turchesi e viola), gallerie, piccionaie tradizionali e una spiaggia pubblica. È dove i qatarioti vengono la sera a passeggiare e a cena.",
-        "come": "Taxi o metro fino a Katara Cultural Village, poi a piedi.",
+        "come": "Taxi o metro, linea rossa, fino a Katara, poi a piedi.",
         "quando": "Sera, quando cala il caldo e si accendono le luci dell'anfiteatro.",
         "tempo": "1,5-2 ore",
         "costo": "Ingresso al quartiere libero",
@@ -266,15 +266,16 @@ export const destinazioniQatar: Destinazione[] = [
       {
         "nome": "Khor Al Adaid (inland sea)",
         "testo": "Un braccio di Golfo che entra nel deserto, con le dune che scendono dritte in acqua, al confine con l'Arabia Saudita. Il Qatar l'ha inserito nella sua lista propositiva UNESCO.",
-        "come": "Con un tour in fuoristrada e un autista esperto da Doha: l'ultimo tratto è sulla sabbia. Si scollina l'ultima duna e sotto c'è il mare.",
+        "come": "Circa 78 km a sud di Doha. Non c'è strada: si arriva solo in 4x4 con un autista esperto di fuoristrada, sgonfiando le gomme a 18-20 psi prima di lasciare Mesaieed, oppure con un tour. Si scollina l'ultima duna e sotto c'è il mare.",
         "quando": "Pomeriggio, fino al tramonto.",
         "tempo": "Mezza giornata",
+        "costo": "Ingresso libero (2026)",
         "consiglio": "Non fare dune bashing subito dopo mangiato: è più movimentato di quanto sembri."
       },
       {
         "nome": "Forte di Al Zubarah",
         "testo": "Patrimonio UNESCO dal 2013: la città portuale che fiorì alla fine del Settecento, oggi un campo di scavi, e il forte costruito nel 1938 poco distante.",
-        "come": "In auto da Doha, verso nord-ovest.",
+        "come": "In auto da Doha, circa 105 km verso nord-ovest.",
         "quando": "Mattina.",
         "tempo": "1-1,5 ore",
         "consiglio": "Portare acqua e pranzo: nel nord i servizi sono pochi."
@@ -343,7 +344,7 @@ export const destinazioniQatar: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Andare a Khor Al Adaid da soli: si attraversano dune di sabbia, meglio un autista esperto.",
+      "Andare a Khor Al Adaid con un'auto normale: non c'è strada e serve un 4x4 con un autista esperto di fuoristrada.",
       "Fare dune bashing dopo mangiato.",
       "Andare al nord senza acqua e senza pranzo: i servizi sono pochi.",
       "Programmare il deserto tra giugno e settembre."

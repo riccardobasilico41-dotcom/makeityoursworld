@@ -55,8 +55,8 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Cimitero di Mirogoj",
-        testo: "Il cimitero monumentale della città, aperto nel 1876, con l'edificio principale disegnato dall'architetto Hermann Bollé. Le lunghe arcate con le cupole racchiudono tombe di ogni fede, una accanto all'altra. È uno dei posti più belli e tranquilli di Zagabria, e pochi turisti ci arrivano.",
-        come: "Con i bus urbani da Kaptol, vicino alla cattedrale, oppure a piedi in salita.",
+        testo: "Il cimitero monumentale della città, aperto nel 1876, con l'edificio principale disegnato dall'architetto Hermann Bollé. Le lunghe arcate con le cupole, costruite tra il 1879 e il 1929, racchiudono tombe di ogni fede, una accanto all'altra. È uno dei posti più belli e tranquilli di Zagabria, e pochi turisti ci arrivano.",
+        come: "Con il bus ZET 106 dal capolinea di Kaptol, vicino alla cattedrale (circa ogni 20 minuti negli orari di apertura), oppure a piedi in salita.",
         quando: "Mattina o tardo pomeriggio; a inizio novembre è pieno di lumini.",
         tempo: "1 ora",
         costo: "Gratuito.",
@@ -708,7 +708,7 @@ export const destinazioniCroazia: Destinazione[] = [
         come: "Dalla stazione vicino a Porta Buža, a piedi.",
         quando: "Tardo pomeriggio per il tramonto.",
         tempo: "1-2 ore",
-        costo: "Biglietto andata e ritorno, prezzi sul sito ufficiale.",
+        costo: "30 € andata e ritorno, 17 € solo andata (sito ufficiale, 2026). Chiusa a dicembre e da gennaio a marzo; ultima corsa 30 minuti prima della chiusura.",
         consiglio: "Prenotare l'ora di salita al tramonto: le code possono essere lunghe."
       },
       {

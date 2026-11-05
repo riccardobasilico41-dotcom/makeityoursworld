@@ -311,7 +311,7 @@ export const destinazioniPortogallo: Destinazione[] = [
       },
       {
         "nome": "Cabo da Roca",
-        "testo": "Il punto più occidentale dell'Europa continentale, con un faro su scogliere a picco sull'Atlantico. Il monumento ricorda il verso con cui Camões descrisse il luogo «dove la terra finisce e il mare comincia».",
+        "testo": "Il punto più occidentale dell'Europa continentale, con un faro su scogliere a picco sull'Atlantico, a circa 140 metri sul mare. Il monumento ricorda il verso con cui Camões descrisse il luogo «dove la terra finisce e il mare comincia».",
         "come": "Dal centro di Sintra con il bus di linea verso Cascais (orari sull'app di Carris Metropolitana) o in auto.",
         "quando": "Al tramonto con vento forte; portare una giacca anche d'estate.",
         "tempo": "1 ora",

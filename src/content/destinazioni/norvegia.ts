@@ -65,8 +65,8 @@ export const destinazioniNorvegia: Destinazione[] = [
     luoghi: [
       {
         nome: "Parco Vigeland (Frognerparken)",
-        testo: "Un grande parco con più di 200 sculture in bronzo e granito di Gustav Vigeland, tra cui il Monolite, una colonna di corpi intrecciati. È una delle attrazioni più visitate di Oslo.",
-        come: "Metropolitana o tram fino a Majorstuen/Vigelandsparken, poi pochi minuti a piedi. Si cammina lungo l'asse centrale dal cancello al Monolite.",
+        testo: "Il più grande parco di sculture fatto da un solo artista: 212 sculture in bronzo e granito di Gustav Vigeland, tra cui il Monolite, alto 14 metri, con 121 figure umane intrecciate. Lo visitano ogni anno da 1 a 2 milioni di persone.",
+        come: "Metropolitana o tram fino a Majorstuen/Vigelandsparken, poi pochi minuti a piedi. Si cammina lungo l'asse centrale di circa 850 metri, dal cancello principale alla Ruota della vita, passando per il Monolite.",
         quando: "Aperto sempre, ingresso libero. Mattina presto o sera d'estate per avere le sculture senza folla.",
         tempo: "1,5-2 ore",
         costo: "ingresso libero",
@@ -115,7 +115,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       {
         nome: "Holmenkollen",
         testo: "Il trampolino di salto con gli sci di Oslo, con museo dello sci e simulatore, sopra la città. La vista sul fiordo e sulla foresta è la ragione per salire.",
-        come: "Metropolitana fino a Holmenkollen. Il percorso fino al trampolino è a piedi.",
+        come: "Metropolitana linea 1 fino a Holmenkollen. Il percorso fino al trampolino è a piedi.",
         quando: "Giorno, con cielo limpido; in inverno spesso c'è neve.",
         tempo: "2 ore",
         url: "https://www.holmenkollen.com",
@@ -490,7 +490,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Lofotr Viking Museum a Borg",
-        testo: "La ricostruzione a grandezza naturale della casa lunga di un capo vichingo, con navi, fucina e rievocazioni. Aperto dal 1° maggio al 15 settembre. Si trova sulla strada tra Svolvær e Reine.",
+        testo: "La ricostruzione a grandezza naturale della casa lunga di un capo vichingo, la più lunga casa lunga ricostruita al mondo, con navi, fucina e rievocazioni. Aperto dal 1° maggio al 15 settembre; fuori stagione solo alcuni giorni (novembre-dicembre 2026: mercoledì e sabato 11-17). Si trova sulla strada tra Svolvær e Reine.",
         come: "In auto da Svolvær; sosta ideale lungo il trasferimento.",
         quando: "Giorno pieno.",
         tempo: "2 ore",
@@ -705,7 +705,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       {
         nome: "Fjellheisen e Storsteinen",
         testo: "La funivia che sale in pochi minuti sopra la città; in cima c'è un belvedere sui fiordi e sulle isole. D'inverno è un posto per vedere l'aurora senza spostarsi.",
-        come: "Dal centro in bus o a piedi attraverso il ponte; orari della funivia sul sito ufficiale.",
+        come: "Dal centro con il bus 26 da Torgsenteret fino alla fermata Fjellheisen, oppure a piedi attraverso il ponte (circa 45 minuti). La cabina parte ogni mezz'ora, all'ora piena e alla mezza, dalle 9 a mezzanotte.",
         quando: "Sera in inverno per le luci della città, giorno in estate.",
         tempo: "1-2 ore",
         costo: "645 NOK andata e ritorno adulti, 310 NOK bambini 3-15 anni (2026)",

@@ -689,7 +689,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       },
       {
         nome: "Jagalchi Market",
-        testo: "Busan's big fish market, on Nampo harbour. The sellers, Jagalchi's famous ajumma, offer live fish, octopus and shellfish; you choose, pay and can have it cooked in the market's restaurants.",
+        testo: "Busan's big fish market, considered the largest in South Korea, on Nampo harbour. The sellers, Jagalchi's famous ajumma, offer live fish, octopus and shellfish; you choose, pay and can have it cooked in the market's restaurants.",
         come: "Metro line 1 to Jagalchi.",
         quando: "Morning, when the market is busiest, or at lunchtime.",
         tempo: "1.5 hours",
@@ -818,9 +818,9 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       },
       {
         nome: "Nambu Market",
-        testo: "The traditional market next to Pungnammun gate, where for breakfast people eat kongnamul gukbap, the bean sprout soup typical of Jeonju.",
+        testo: "The traditional market next to Pungnammun gate, where for breakfast people eat kongnamul gukbap, the bean sprout soup typical of Jeonju. On the second floor is the Youth Mall, with small shops and eateries run by young locals, and the market also hosts a night market.",
         come: "On foot from the hanok village.",
-        quando: "Morning, for the soup at breakfast.",
+        quando: "Morning, for the soup at breakfast. At dawn, from about 4 to 10 am, the Dokkaebi farmers' market sets up along the stream in front of the market. Youth Mall shops each keep their own hours.",
         tempo: "1 hour",
       },
     ],

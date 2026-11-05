@@ -50,8 +50,8 @@ export const destinazioniDanimarca: Destinazione[] = [
     luoghi: [
       {
         nome: "Nyhavn",
-        testo: "El canal excavado en el siglo XVII, con antiguas casas de colores, hoy una hilera de cafés y restaurantes en el muelle. Es uno de los lugares más fotografiados de la ciudad, y de aquí salen los barcos por los canales.",
-        come: "En metro hasta Kongens Nytorv y luego unos pasos a pie.",
+        testo: "El canal excavado entre 1670 y 1675 para Cristián V, con antiguas casas de colores, hoy una hilera de cafés y restaurantes en el muelle. Es uno de los lugares más fotografiados de la ciudad, y de aquí salen los barcos por los canales.",
+        come: "Metro M1, M2, M3 o M4 hasta Kongens Nytorv y luego unos pasos a pie.",
         quando: "Temprano por la mañana para las fotos; por la noche para las mesas en el muelle, más caras.",
         tempo: "1 hora",
         costo: "entrada libre",
@@ -69,7 +69,7 @@ export const destinazioniDanimarca: Destinazione[] = [
         nome: "Amalienborg",
         testo: "Cuatro palacios iguales, con interiores rococó, alrededor de una plaza octogonal: es la residencia de la familia real. Cada día hay cambio de guardia, que llega desfilando desde Rosenborg.",
         come: "A pie desde Nyhavn, por el paseo marítimo.",
-        quando: "A la hora del cambio de guardia, hacia mediodía.",
+        quando: "A mediodía, para el cambio de guardia; el desfile sale del cuartel de Gothersgade 100, junto a Rosenborg.",
         tempo: "1 hora",
         costo: "cambio de guardia gratuito",
         consiglio: "La cúpula de la cercana Marmorkirken se puede visitar: horarios en la web de la iglesia."
@@ -86,9 +86,10 @@ export const destinazioniDanimarca: Destinazione[] = [
       {
         nome: "Christianshavn y Vor Frelsers Kirke",
         testo: "Barrio de canales pequeños, casas flotantes y la iglesia del Salvador, famosa por su aguja negra y dorada con escalera de caracol: primero se sube dentro de la torre, por escalones estrechos y empinados, y luego al aire libre por la espiral, con vistas a todo Copenhague.",
-        come: "En metro hasta Christianshavn o a pie desde el centro.",
-        quando: "Un día despejado; con mal tiempo la torre puede cerrar.",
+        come: "Metro M1 o M2 hasta Christianshavn o a pie desde el centro.",
+        quando: "Un día despejado. Torre abierta todos los días de 9 a 20, última entrada 30 minutos antes, cerrada en enero; cierra un rato con lluvia, nieve o viento fuerte, porque los escalones de cobre resbalan. En total son 400 escalones, los últimos 150 al aire libre.",
         tempo: "1-2 horas",
+        costo: "torre 70 DKK adultos, 20 DKK niños (2026)",
         url: "https://www.vorfrelserskirke.dk",
         consiglio: "Reservar online: las plazas son limitadas. El último tramo es expuesto, desaconsejado para quien sufre de vértigo."
       },
@@ -105,9 +106,10 @@ export const destinazioniDanimarca: Destinazione[] = [
       {
         nome: "Louisiana Museum of Modern Art",
         testo: "En Humlebæk, al norte de Copenhague, un gran museo de arte moderno y contemporáneo: pabellones sobre el Øresund con obras de Giacometti, Picasso, Warhol y Hockney, y un jardín de esculturas (Moore, Calder) que baja hacia el mar.",
-        come: "Fuera de la ciudad, hacia el norte por la costa; cómo llegar en transporte público en la web oficial.",
-        quando: "Todo el día, con almuerzo en la cafetería con vista al mar.",
+        come: "Tren de la costa desde Copenhagen H hasta Humlebæk (unos 40 minutos) y luego 10-15 minutos a pie.",
+        quando: "Todo el día, con almuerzo en la cafetería con vista al mar. Abre mar-vie de 11 a 22, sáb-dom de 11 a 18, cerrado los lunes.",
         tempo: "media jornada",
+        costo: "145 DKK adultos (2026)",
         url: "https://www.louisiana.dk",
         consiglio: "Entradas y horarios en la web oficial."
       }
@@ -129,7 +131,7 @@ export const destinazioniDanimarca: Destinazione[] = [
           "Día 1 como arriba",
           "Día 2: Christianshavn (Vor Frelsers Kirke)",
           "Christiania",
-          "Comida en el centro",
+          "Comida en el mercado cubierto Torvehallerne, en Nørreport",
           "Noche: Vesterbro"
         ]
       },

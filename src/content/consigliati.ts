@@ -334,4 +334,17 @@ export const CONSIGLIATI: Record<string, Consigliato[]> = {
       },
     },
   ],
+  'brasile/rio-de-janeiro': [
+    {
+      nome: 'Sylvain',
+      cosa: { it: 'Favela, calcio di strada e biglietti per le partite', en: 'Favela visits, street football and match tickets', es: 'Favelas, fútbol callejero y entradas para partidos' },
+      whatsapp: '+55 21 99349-2184',
+      fatto: true,
+      testo: {
+        it: "A Rio per la favela, il calcio di strada e i biglietti per le partite potete contattare Sylvain.",
+        en: "In Rio, for the favela, street football and match tickets you can get in touch with Sylvain.",
+        es: "En Río, para la favela, el fútbol callejero y las entradas para los partidos podéis contactar con Sylvain.",
+      },
+    },
+  ],
 }

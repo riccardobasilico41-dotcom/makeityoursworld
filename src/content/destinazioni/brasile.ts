@@ -45,11 +45,11 @@ export const destinazioniBrasile: Destinazione[] = [
     luoghi: [
       {
         "nome": "Cristo Redentor",
-        "testo": "La statua sul Corcovado, a circa 700 metri sopra la città. Dall'alto si capisce la forma di Rio: le spiagge, la laguna Rodrigo de Freitas e il Pão de Açúcar all'ingresso della baia.",
+        "testo": "La statua di 30 metri (38 con il piedistallo) sul Corcovado, a circa 700 metri sopra la città. Dall'alto si capisce la forma di Rio: le spiagge, la laguna Rodrigo de Freitas e il Pão de Açúcar all'ingresso della baia.",
         "come": "Con il trenino a cremagliera da Cosme Velho o con le van ufficiali da Paineiras. Il biglietto si compra online scegliendo giorno e orario.",
         "quando": "Prima corsa del mattino, prima delle nuvole e della folla. A mezzogiorno spesso la statua è tra le nuvole.",
         "tempo": "3-4 ore tra salita, visita e discesa",
-        "costo": "Il prezzo cambia secondo il punto di partenza (van o trenino): tariffe aggiornate sul sito ufficiale",
+        "costo": "Trenino dal Cosme Velho 139 R$ per adulti, 112 R$ per i bambini 7-11 anni (sito del trenino, 2026); per le van tariffe sul sito ufficiale",
         "url": "https://paineirascorcovado.com.br/",
         "consiglio": "Vai la mattina e porta una giacca leggera: in cima c'è vento."
       },
@@ -205,7 +205,7 @@ export const destinazioniBrasile: Destinazione[] = [
     luoghi: [
       {
         "nome": "Centro storico di Paraty",
-        "testo": "Città coloniale, antico porto dell'oro di Minas Gerais, patrimonio UNESCO. Il centro è chiuso alle auto, con case bianche dalle porte colorate e strade di ciottoli che con l'alta marea a volte si allagano.",
+        "testo": "Città coloniale, antico porto dell'oro di Minas Gerais, patrimonio UNESCO dal 2019. Il centro è chiuso alle auto, con case bianche dalle porte colorate e strade di ciottoli che con l'alta marea a volte si allagano.",
         "come": "Bus diretti dalla rodoviária Novo Rio.",
         "quando": "La sera è tranquilla, con ristoranti e musica dal vivo.",
         "tempo": "Mezza giornata o una sera",
@@ -479,7 +479,7 @@ export const destinazioniBrasile: Destinazione[] = [
       },
       {
         "nome": "Elevador Lacerda e Mercado Modelo",
-        "testo": "L'ascensore pubblico storico collega la città alta alla città bassa. In basso c'è il Mercado Modelo, mercato di artigianato.",
+        "testo": "L'ascensore pubblico del 1873, alto 72 metri, collega la città alta alla città bassa. In basso c'è il Mercado Modelo, mercato di artigianato.",
         "come": "L'ascensore parte dalla Praça Tomé de Souza.",
         "quando": "Mattina.",
         "tempo": "1-2 ore",
@@ -610,7 +610,7 @@ export const destinazioniBrasile: Destinazione[] = [
       },
       {
         "nome": "Cachoeira da Fumaça",
-        "testo": "Una cascata altissima: il vento spesso disperde l'acqua in nebbia prima che tocchi terra.",
+        "testo": "Una cascata di circa 340 metri: il vento spesso disperde l'acqua in nebbia prima che tocchi terra.",
         "come": "Dalla valle del Capão con un sentiero di andata e ritorno di alcune ore e una salita iniziale ripida.",
         "quando": "Nelle giornate limpide: con le nuvole basse dall'alto si vede poco.",
         "tempo": "Mezza giornata",
@@ -720,7 +720,7 @@ export const destinazioniBrasile: Destinazione[] = [
     luoghi: [
       {
         "nome": "Circuito della Lagoa Azul",
-        "testo": "Le prime lagune: acqua piovana trasparente e tiepida, raccolta tra dune di sabbia bianca. Si cammina scalzi e si fa il bagno.",
+        "testo": "Le prime lagune: acqua piovana trasparente e tiepida, raccolta tra dune di sabbia bianca alte fino a 40 metri. Si cammina scalzi e si fa il bagno.",
         "come": "In jardineira, il fuoristrada con panche sul cassone che attraversa il fiume su una zattera e prende il sentiero di sabbia.",
         "quando": "Tramonto, quando la sabbia cambia colore. Le lagune si riempiono con le piogge, che cadono più o meno da gennaio a giugno, ed evaporano nei mesi secchi: informati sul livello dell'acqua prima di partire.",
         "tempo": "Mezza giornata",
@@ -753,7 +753,7 @@ export const destinazioniBrasile: Destinazione[] = [
       },
       {
         "nome": "Centro storico di São Luís",
-        "testo": "Fondata dai francesi, ha un centro storico patrimonio UNESCO con case coperte di azulejos portoghesi.",
+        "testo": "Unica capitale di uno stato brasiliano fondata dai francesi (1612), ha un centro storico patrimonio UNESCO dal 1997 con case coperte di azulejos portoghesi.",
         "come": "In app o a piedi nella Praia Grande.",
         "quando": "Prima di partire per Barreirinhas o all'arrivo.",
         "tempo": "Mezza giornata",
@@ -868,7 +868,7 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "Volo da São Paulo o Brasília.",
         "quando": "Giorno di arrivo e di partenza.",
         "tempo": "Una notte",
-        "consiglio": "Il Mato Grosso ha un fuso orario diverso da Rio: controlla gli orari dei voli."
+        "consiglio": "Il Mato Grosso è a UTC-4, un'ora indietro rispetto a Rio: controlla gli orari dei voli."
       }
     ],
     programmi: [

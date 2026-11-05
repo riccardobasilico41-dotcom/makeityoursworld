@@ -92,7 +92,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Rainbow Mountain (Vinicunca)",
-        "testo": "La montagna a strisce color ocra, rosa e turchese, a quota molto alta. Si raggiunge in una giornata da Cusco, con una camminata finale in quota dura per il fiato più che per la distanza.",
+        "testo": "La montagna a strisce color ocra, rosa e turchese, sopra i 5.000 metri. Si raggiunge in una giornata da Cusco, con una camminata finale in quota dura per il fiato più che per la distanza.",
         "come": "Escursione di un giorno con partenza notturna da Cusco, qualche ora di strada e una camminata in salita. Si va con un'agenzia.",
         "quando": "Stagione secca. Partenza prima dell'alba per avere meno folla.",
         "tempo": "Giornata intera",
@@ -227,7 +227,7 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Ollantaytambo",
         "testo": "Un villaggio con un reticolo di strade di origine inca e alcune delle abitazioni abitate senza interruzione più antiche del Sud America, sotto una fortezza a terrazze. Da qui parte la maggior parte dei treni per Machu Picchu.",
-        "come": "In auto o collettivo da Cusco. Si visita a piedi. Il sito è incluso nel Boleto Turístico.",
+        "come": "In auto o collettivo da Cusco, circa 72 km di strada. Si visita a piedi. Il sito è incluso nel Boleto Turístico.",
         "quando": "Il sito la mattina; il paese dà il meglio la sera, quando i pullman dei tour sono ripartiti.",
         "tempo": "2-3 ore per il sito, una notte per il paese",
         "consiglio": "Dormici la sera prima del treno per Machu Picchu: dormi di più che partendo da Cusco.",
@@ -912,7 +912,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Iquitos e Pacaya-Samiria",
-        "testo": "Iquitos è una città che non si raggiunge in strada. Dalla città partono le spedizioni verso la riserva Pacaya-Samiria, dove Rick è stato con Ruth Amazon Expedition: notti nelle case dei contadini e in tenda nella foresta.",
+        "testo": "Iquitos è la città più grande al mondo, fuori dalle isole, che non si raggiunge in strada: ci si arriva solo in aereo o in barca. Dalla città partono le spedizioni verso la riserva Pacaya-Samiria, dove Rick è stato con Ruth Amazon Expedition: notti nelle case dei contadini e in tenda nella foresta.",
         "come": "Volo da Lima o barca lungo il fiume. Da Iquitos i tour partono dalle agenzie e dagli alloggi.",
         "quando": "Tutto l'anno; la stagione secca rende i sentieri più facili.",
         "tempo": "3-4 giorni per una spedizione",
@@ -1069,7 +1069,7 @@ export const destinazioniPeru: Destinazione[] = [
     luoghi: [
       {
         "nome": "Puno",
-        "testo": "La base del lago, in alta quota. Ha un centro vivace e il porto da cui partono le barche. È più in alto di Cusco: il mal d'altitudine è più probabile.",
+        "testo": "La base del lago, che è a 3.812 metri. Ha un centro vivace e il porto da cui partono le barche. È più in alto di Cusco: il mal d'altitudine è più probabile.",
         "come": "Da Cusco bus turistico con soste (una giornata), treno turistico o volo su Juliaca. Bus anche da Arequipa.",
         "quando": "Stagione secca, per il sole.",
         "tempo": "1-2 giorni",
@@ -1085,7 +1085,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Taquile",
-        "testo": "Isola con villaggio e tessitura tradizionale. Si pranza con vista sul lago.",
+        "testo": "Isola con villaggio e tessitura tradizionale, riconosciuta dall'UNESCO. Si pranza con vista sul lago.",
         "come": "Barca da Puno, qualche ora di navigazione, poi a piedi in salita.",
         "quando": "Mattina e pranzo.",
         "tempo": "Mezza giornata",
@@ -1376,7 +1376,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Cruz del Cóndor",
-        "testo": "Il punto di avvistamento dei condor andini nel Canyon del Colca. I condor passano vicini alle pareti del canyon.",
+        "testo": "Il punto di avvistamento dei condor andini nel Canyon del Colca, uno dei più profondi al mondo. I condor passano vicini alle pareti del canyon.",
         "come": "Tour organizzato da Arequipa o bus di linea fino a Chivay e Cabanaconde, con trasferimento al belvedere.",
         "quando": "Prime ore del mattino, tutto l'anno.",
         "tempo": "1-2 ore sul punto",
@@ -1502,7 +1502,7 @@ export const destinazioniPeru: Destinazione[] = [
     luoghi: [
       {
         "nome": "Laguna 69",
-        "testo": "La laguna turchese in alta quota, dal colore che sembra ritoccato. È il trek di giornata classico della Cordillera Blanca, duro per la quota più che per la distanza.",
+        "testo": "La laguna turchese a 4.600 metri, dal colore che sembra ritoccato. È il trek di giornata classico della Cordillera Blanca, duro per la quota più che per la distanza.",
         "come": "Escursione di un giorno con partenza all'alba da Huaraz, qualche ora di strada e poi qualche ora di cammino in salita. Si fa con agenzia o in collettivo.",
         "quando": "Stagione secca. Parti presto per avere il cielo pulito.",
         "tempo": "Giornata intera",

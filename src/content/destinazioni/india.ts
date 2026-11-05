@@ -791,7 +791,7 @@ export const destinazioniIndia: Destinazione[] = [
     luoghi: [
       {
         nome: "Forte di Mehrangarh",
-        testo: "Il forte dei Rathore su uno sperone di roccia che domina la città blu, iniziato nel 1459. Dentro c'è uno dei musei meglio tenuti dell'India, con le gallerie dei palanchini, delle armi, degli howdah e dei dipinti. Lo gestisce una fondazione della famiglia reale.",
+        testo: "Il forte dei Rathore su uno sperone di roccia che domina la città blu, iniziato nel 1459. Dentro c'è uno dei musei meglio tenuti dell'India, con le gallerie dei palanchini, delle armi, degli howdah, delle culle reali e dei dipinti. Lo gestisce una fondazione della famiglia reale.",
         come: "In tuk-tuk o a piedi dalla città vecchia, su per una salita ripida. All'ingresso c'è un ascensore per la parte alta (50 rupie a tratta, 2026). Il percorso del museo è segnalato.",
         quando: "Il museo è aperto tutti i giorni dalle 9 alle 17. All'apertura, prima del caldo e dei gruppi.",
         tempo: "2-3 ore",
@@ -1668,7 +1668,7 @@ export const destinazioniIndia: Destinazione[] = [
         nome: "Tempio di Meenakshi Amman",
         testo: "Un tempio-città con quattordici gopuram coperti di migliaia di statue dipinte, dedicato alla dea Meenakshi e a Shiva (Sundareswarar). Dentro ci sono la vasca del loto d'oro e la sala delle mille colonne, che in realtà ne ha 985 scolpite, e cerimonie per tutta la giornata.",
         come: "Quattro ingressi, uno per lato. Scarpe al deposito; telefono al deposito o spento secondo le regole del momento, foto vietate. Vestiti che coprono spalle e gambe. I santuari principali sono riservati agli induisti.",
-        quando: "Di solito aperto dalla mattina presto a mezzogiorno e dal pomeriggio alla sera; gli orari cambiano nelle feste. Ogni sera una processione porta in palanchino le impronte di Shiva alla camera di Meenakshi.",
+        quando: "Di solito aperto dalle 5 del mattino fino a metà giornata e dalle 16 alle 21.30 (Incredible India, 2026); gli orari cambiano nelle feste. Ogni sera una processione porta in palanchino le impronte di Shiva alla camera di Meenakshi.",
         tempo: "2-3 ore",
         costo: "ingresso libero; piccola tariffa per il deposito dei telefoni",
         consiglio: "Tornarci due volte, al mattino per l'architettura e la sera per le cerimonie."
@@ -1809,7 +1809,7 @@ export const destinazioniIndia: Destinazione[] = [
       {
         nome: "Kolukkumalai",
         testo: "Una piantagione di tè a circa 2.170 metri, tra le più alte del mondo, sul lato del Tamil Nadu ma raggiungibile solo da Munnar. All'alba le colline escono dalle nuvole.",
-        come: "In jeep 4x4 da Suryanelli, su una pista sterrata e ripida. Le jeep si prenotano con l'hotel.",
+        come: "In jeep 4x4 da Suryanelli, su circa 17 chilometri di pista sterrata e ripida. Le jeep si prenotano con l'hotel.",
         quando: "Partenza prima dell'alba, al buio.",
         tempo: "mezza giornata",
         consiglio: "Fissare con chiarezza cosa comprende il prezzo della jeep: attesa, ingresso alla tenuta e ritorno."
@@ -1936,7 +1936,7 @@ export const destinazioniIndia: Destinazione[] = [
         nome: "Le gare delle barche-serpente",
         testo: "Barche lunghe oltre 30 metri con decine di rematori che cantano in coro. La più famosa è la Nehru Trophy, sul lago Punnamada, su un percorso di circa 1,4 chilometri.",
         come: "Tribune a pagamento sul lago Punnamada ad Alappuzha; informazioni sul sito ufficiale della gara.",
-        quando: "La Nehru Trophy si corre di solito ad agosto, durante il monsone (per tradizione il secondo sabato del mese, ma la data cambia: nel 2024 fu rinviata a settembre).",
+        quando: "La Nehru Trophy si corre di solito ad agosto, durante il monsone (per tradizione il secondo sabato del mese, ma la data cambia: nel 2024 fu rinviata a settembre, nel 2026 si è corsa il 22 agosto).",
         tempo: "una giornata",
         consiglio: "Per chi viaggia ad agosto vale il viaggio da sola."
       }
@@ -2202,7 +2202,7 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Dal parcheggio le auto non passano: ci si arriva con i veicoli elettrici o a piedi. Biglietto ASI alla biglietteria.",
         quando: "All'apertura, prima del sole forte e dei gruppi. Le fonti danno orari diversi: verificarli alla biglietteria.",
         tempo: "1 ora e mezza",
-        costo: "biglietto ASI per gli stranieri; tariffa e validità per il recinto delle regine alla biglietteria",
+        costo: "circa 600 rupie per gli stranieri, tariffa soggetta a modifiche (Karnataka Tourism, 2026); validità per il recinto delle regine alla biglietteria",
         url: "https://asi.nic.in/",
         consiglio: "Andarci a piedi dal bazar lungo il fiume: un paio di chilometri tra rovine e massi."
       },

@@ -39,7 +39,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Barrio Amón",
-          "testo": "Barrio de casas históricas de madera y ladrillo, antiguas casas de los barones del café, hoy con galerías, cafés y hoteles con encanto.",
+          "testo": "Barrio de casas de madera y ladrillo construidas entre finales del siglo XIX y principios del XX, antiguas casas de los barones del café, hoy con galerías, cafés y hoteles con encanto.",
           "come": "A pie, al norte del centro.",
           "quando": "Mañana, con buena luz.",
           "tempo": "1-2 horas",
@@ -404,6 +404,15 @@ export const destinazioniCostaRica: Destinazione[] = [
           "come": "A pie desde el lodge con guía.",
           "quando": "Amanecer.",
           "tempo": "1-2 horas"
+        },
+        {
+          "nome": "Catarata del Toro",
+          "testo": "Una catarata que cae dentro de un antiguo cráter volcánico, en el bosque de Bajos del Toro, con cuatro miradores arriba. Excursión opcional.",
+          "come": "En coche o con un tour; está más o menos a mitad de camino entre el aeropuerto de San José y La Fortuna, por carretera asfaltada. No hace falta reservar.",
+          "quando": "De lunes a sábado de 7 a 17; cerrada los domingos.",
+          "tempo": "Media jornada",
+          "costo": "15 USD (web oficial, 2026).",
+          "url": "https://www.catarata-del-toro.com/"
         }
       ],
       "programmi": [
@@ -490,7 +499,7 @@ export const destinazioniCostaRica: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Cascada de La Fortuna",
-          "testo": "Una catarata alta en un cañón de bosque, con unos 530 escalones entre bajada y subida y una poza para bañarse. Hay una ficha de experiencia dedicada.",
+          "testo": "Una catarata de unos 70 metros en un cañón de bosque, con unos 530 escalones entre bajada y subida y una poza para bañarse. Hay una ficha de experiencia dedicada.",
           "come": "A pocos minutos en coche o taxi del pueblo de La Fortuna, luego escaleras empinadas hasta la base.",
           "quando": "Abierta todos los días de 7 a 17 h; mejor en la mañana, con menos gente.",
           "tempo": "2 horas",
@@ -505,6 +514,15 @@ export const destinazioniCostaRica: Destinazione[] = [
           "quando": "Temprano por la mañana: los fines de semana y festivos está lleno.",
           "tempo": "1-2 horas",
           "consiglio": "No hay duchas, taquillas ni servicios: escarpines, toalla y nada de valor en el coche."
+        },
+        {
+          "nome": "Puentes colgantes de Místico",
+          "testo": "Un sendero de unos 3,2 km por el bosque cerca del Arenal, con 16 puentes, 6 de ellos colgantes; los más altos pasan a unos 45 metros sobre el bosque.",
+          "come": "En coche o taxi desde La Fortuna; se va por libre o con un guía, que hay que reservar.",
+          "quando": "Abierto todos los días desde las 6; último acceso al sendero a las 15:50. Mejor temprano por la mañana, por los animales.",
+          "tempo": "2-3 horas",
+          "costo": "Desde 32 USD más impuestos por libre, desde 44 USD con guía (web oficial, 2026).",
+          "url": "https://www.misticopark.com/"
         }
       ],
       "programmi": [
@@ -520,7 +538,7 @@ export const destinazioniCostaRica: Destinazione[] = [
           "titolo": "2 días",
           "tappe": [
             "Día 1: cascada y aguas termales",
-            "Día 2: caminata con vista al volcán, canyoning opcional"
+            "Día 2: puentes colgantes de Místico o caminata con vista al volcán, canyoning opcional"
           ]
         }
       ],
@@ -720,7 +738,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Avistamiento de ballenas",
-          "testo": "Salida en barca en el Parque Nacional Marino Ballena, para ver las ballenas jorobadas que vienen aquí a reproducirse. Hay una ficha de experiencia dedicada.",
+          "testo": "Salida en barca en el Parque Nacional Marino Ballena, creado en 1989, para ver las ballenas jorobadas que vienen aquí a reproducirse. Hay una ficha de experiencia dedicada.",
           "come": "Tour desde Uvita en barca pequeña.",
           "quando": "Dos temporadas: de diciembre a abril llegan las jorobadas del hemisferio norte, de julio a noviembre las del sur.",
           "tempo": "3 horas",

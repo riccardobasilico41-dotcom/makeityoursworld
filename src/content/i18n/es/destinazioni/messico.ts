@@ -422,17 +422,18 @@ export const destinazioniMessico: Destinazione[] = [
           "nome": "Fuerte de San Miguel",
           "testo": "Fuerte en la colina al suroeste del centro, con foso y cañones hacia el Golfo. Dentro está el museo arqueológico con las máscaras de jade de Calakmul; desde las murallas se ve el atardecer sobre el mar.",
           "come": "Taxi desde el centro.",
-          "quando": "Al final de la tarde; horarios y días de cierre en el sitio del INAH.",
+          "quando": "De martes a domingo de 8 a 17, cerrado los lunes (ficha del INAH); al final de la tarde para el atardecer.",
+          "costo": "145 MXN para extranjeros (ficha del INAH, 2026).",
           "tempo": "1-2 horas",
-          "url": "https://www.inah.gob.mx/"
+          "url": "https://lugares.inah.gob.mx/en/node/4261"
         },
         {
           "nome": "Edzná",
           "testo": "Sitio maya tierra adentro con el Edificio de los Cinco Pisos, una pirámide escalonada sobre una gran plaza. Recibe pocos visitantes comparado con los sitios de Yucatán.",
           "come": "Coche, taxi o tour desde Campeche.",
-          "quando": "Abierto todos los días de 8 a 17 (ficha del INAH). Temprano, antes del calor.",
+          "quando": "Abierto todos los días de 8 a 17, último acceso a las 16:30 (ficha del INAH). Temprano, antes del calor.",
           "tempo": "Medio día",
-          "url": "https://www.inah.gob.mx/",
+          "url": "https://lugares.inah.gob.mx/en/node/5755",
           "consiglio": "Llevar agua y sombrero: hay poca sombra.",
           "costo": "210 MXN para extranjeros (tarifas INAH 2026); el museo de sitio está incluido."
         }
@@ -632,7 +633,7 @@ export const destinazioniMessico: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Laguna de Bacalar",
-          "testo": "La laguna de los siete colores, de decenas de kilómetros de largo y estrecha, con agua en tonos azules y turquesa sobre fondo blanco. Alberga estromatolitos, formaciones rocosas antiquísimas creadas por microorganismos.",
+          "testo": "La laguna de los siete colores, de decenas de kilómetros de largo y estrecha, con agua en tonos azules y turquesa sobre fondo blanco. Alberga el sistema de estromatolitos de agua dulce más extenso del mundo: formaciones rocosas creadas por microorganismos, de miles de años.",
           "come": "Desde Mahahual en tour organizado o por cuenta propia en van o coche.",
           "quando": "Mañana, con luz plena.",
           "tempo": "Media jornada o más",

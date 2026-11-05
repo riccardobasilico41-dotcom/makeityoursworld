@@ -65,7 +65,7 @@ export const destinazioniUngheria: Destinazione[] = [
       {
         nome: "Parlamento húngaro",
         testo: "Terminado en 1904, es un gran edificio neogótico sobre el Danubio. Solo se visita con tour guiado, que pasa por la sala central donde desde el año 2000 se expone la Sagrada Corona.",
-        come: "Transporte público hasta Kossuth Lajos tér. Las entradas se reservan online para una hora.",
+        come: "Metro M2 o tranvía 2 hasta Kossuth Lajos tér. Las entradas se reservan online para una hora.",
         quando: "Mañana; hay control de seguridad en la entrada.",
         tempo: "1 hora",
         url: "https://www.parlament.hu",
@@ -82,8 +82,8 @@ export const destinazioniUngheria: Destinazione[] = [
       },
       {
         nome: "Termas Széchenyi",
-        testo: "Uno de los complejos termales más conocidos de Europa, abierto en 1913, con piscinas interiores y exteriores de agua caliente en un edificio amarillo neobarroco en Városliget. Se mezclan locales y turistas.",
-        come: "Metro hasta la parada Széchenyi fürdő, en el parque Városliget.",
+        testo: "Uno de los complejos termales más conocidos de Europa, abierto en 1913, con 18 piscinas (15 interiores y 3 exteriores); las exteriores están entre 27 y 38 grados. El edificio es amarillo, neobarroco, en un edificio amarillo neobarroco en Városliget. Se mezclan locales y turistas.",
+        come: "Metro M1 (línea amarilla) hasta la parada Széchenyi fürdő, en el centro del parque Városliget.",
         quando: "Mañana entre semana; las noches de verano tienen fiestas.",
         tempo: "media jornada",
         url: "https://www.szechenyibath.hu",
@@ -92,15 +92,15 @@ export const destinazioniUngheria: Destinazione[] = [
       {
         nome: "Gran Mercado Central",
         testo: "Un mercado cubierto abierto en 1897, al final de Váci utca, con pimentón, salchichones y strudel; en el piso superior hay puestos de comida y recuerdos. Cerrado el domingo.",
-        come: "A pie desde Váci utca, hasta Fővám tér.",
+        come: "Metro M4 o tranvía 2, 47 y 49 hasta Fővám tér, o a pie desde Váci utca.",
         quando: "Mañana entre semana; cerrado el domingo.",
         tempo: "1-1,5 horas",
         consiglio: "Pagar en forintos, las casas de cambio aquí son caras."
       },
       {
         nome: "Gran Sinagoga de la calle Dohány",
-        testo: "Una de las mayores sinagogas del mundo, de estilo neomorisco. En el patio está el parque memorial Raoul Wallenberg con el Árbol de la vida de Imre Varga, un sauce de metal con los nombres de las víctimas en las hojas.",
-        come: "A pie desde el centro, cerca de Astoria.",
+        testo: "La mayor sinagoga de Europa, de estilo neomorisco, con casi 3.000 plazas. En el patio está el parque memorial Raoul Wallenberg con el Árbol de la vida de Imre Varga, un sauce de metal con los nombres de las víctimas en las hojas.",
+        come: "Metro M2 o tranvía 47 y 49 hasta Astoria, luego unos pasos a pie.",
         quando: "Mañana entre semana; días de cierre en la web oficial.",
         tempo: "1,5 horas",
         consiglio: "En el complejo también está el Museo Judío Húngaro."
@@ -181,7 +181,7 @@ export const destinazioniUngheria: Destinazione[] = [
       "Taxis: usar compañías conocidas; desconfiar de los taxistas que recomiendan un bar o local, algunos están de acuerdo con quien infla la cuenta.",
       "Bares y restaurantes que inflan la cuenta, a veces acompañando a los turistas al cajero: pedir siempre la carta con precios antes de pedir.",
       "Cambio: usar cajeros bancarios y rechazar que se cobre en euros.",
-      "Transporte público: billetes a validar o a comprar con la app oficial de transporte; los revisores multan a los turistas.",
+      "Transporte público: billetes a validar o a comprar con BudapestGO, la app oficial de BKK; los revisores multan a los turistas.",
       "El servicio a veces ya está incluido: revisar la cuenta."
     ],
     esperienzeSlugs: ['terme-szechenyi', 'terme-gellert', 'crociera-danubio', 'ruin-bar-tour'],

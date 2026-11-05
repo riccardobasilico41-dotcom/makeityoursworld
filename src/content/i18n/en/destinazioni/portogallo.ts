@@ -302,7 +302,7 @@ export const destinazioniPortogallo: Destinazione[] = [
       },
       {
         "nome": "Cabo da Roca",
-        "testo": "The westernmost point of continental Europe, with a lighthouse on cliffs dropping into the Atlantic. The monument recalls Camões's line describing the place \"where the land ends and the sea begins\".",
+        "testo": "The westernmost point of continental Europe, with a lighthouse on cliffs dropping into the Atlantic, about 140 metres above the sea. The monument recalls Camões's line describing the place \"where the land ends and the sea begins\".",
         "come": "From Sintra centre by the scheduled bus towards Cascais (times on the Carris Metropolitana app) or by car.",
         "quando": "At sunset in strong wind; bring a jacket even in summer.",
         "tempo": "1 hour",

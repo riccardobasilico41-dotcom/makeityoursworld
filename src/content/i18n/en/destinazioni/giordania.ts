@@ -152,7 +152,7 @@ export const destinazioniGiordania: Destinazione[] = [
     luoghi: [
       {
         "nome": "Hadrian's Arch and the Hippodrome",
-        "testo": "The monumental southern gateway, built for Emperor Hadrian's visit in 129-130. Just beyond is the hippodrome.",
+        "testo": "The monumental southern gateway, built for Emperor Hadrian's visit in 129-130. Just beyond is the hippodrome, which could seat about 15,000 spectators for chariot races.",
         "come": "The parking lot is next to the arch; the ticket office is close by.",
         "quando": "Open 8am-5pm (2026). Best early in the morning, before the groups.",
         "tempo": "30 minutes",
@@ -165,11 +165,11 @@ export const destinazioniGiordania: Destinazione[] = [
         "come": "You walk it from south to north.",
         "quando": "Early morning and late afternoon for the light on the columns.",
         "tempo": "1 hour",
-        "consiglio": "Look at the paving of the cardo: the original stones show how the street worked."
+        "consiglio": "Look at the paving of the cardo: the stones are still the original ones and you can see the ruts worn by chariots."
       },
       {
         "nome": "South Theater and Temple of Artemis",
-        "testo": "The large theatre, where a voice from the centre of the orchestra carries to every tier, and pipers and drummers often play; then the sanctuary of Artemis on the highest level, with columns visible from afar.",
+        "testo": "The large theatre, with more than 3,000 seats, where a voice from the centre of the orchestra carries to every tier, and pipers and drummers often play; then the sanctuary of Artemis on the highest level, with columns visible from afar.",
         "come": "From the forum you climb to the theatre, then to the temple on the hill.",
         "quando": "Late morning, when the light is high and the theater resonates.",
         "tempo": "1 hour"
@@ -382,7 +382,7 @@ export const destinazioniGiordania: Destinazione[] = [
         "come": "On the King's Highway between Karak and Petra. You visit on your own; bring a torch for the tunnel.",
         "quando": "Open 8am-5pm (2026). Handy as a stop on the way to Petra.",
         "tempo": "1 hour",
-        "costo": "Included in the Jordan Pass",
+        "costo": "1 JOD for foreigners, or included in the Jordan Pass (2026)",
         "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx"
       }
     ],
@@ -479,7 +479,7 @@ export const destinazioniGiordania: Destinazione[] = [
       {
         "nome": "The Siq and the Treasury (Al-Khazneh)",
         "testo": "The natural gorge, about 1.2 km long between sandstone walls up to 180 metres high and in places only 3 metres wide, which narrows until it suddenly reveals the façade of the Treasury, about 37 metres high and carved into the rock.",
-        "come": "From the entrance to the Treasury it is a walk of half an hour or a little more. You can ride a horse on the first stretch, before the Siq.",
+        "come": "From the visitor centre to the Treasury it is a walk of half an hour up to an hour, depending on your pace. You can ride a horse on the first stretch, before the Siq.",
         "quando": "The site opens at 6am and closes at 5pm (2026). Go in at the very first hour, when the Siq is empty; the sun reaches the Treasury mid-morning.",
         "tempo": "45 minutes",
         "costo": "JOD 50 for 1 day, 55 for 2, 60 for 3 if you stay at least one night in Jordan; JOD 90 as a day trip without an overnight stay (2026). Included in the Jordan Pass.",
@@ -575,7 +575,7 @@ export const destinazioniGiordania: Destinazione[] = [
       "For horses, camels and donkeys always agree the price before getting on, even when you are told it is included.",
       "For the animals' welfare, it is better to walk up to the Monastery.",
       "Bring water and a hat: there are few water points in the site and in summer it is very hot.",
-      "Petra by Night runs only on some evenings: check the schedule on official channels."
+      "Petra by Night: from 8.30pm to about 10.30pm, starting at the visitor centre, 30 JOD per person, free under 10 (2026). You also need a daytime ticket or the Jordan Pass, and it cannot be booked. It runs only on some evenings and official sources disagree on the days (Monday, Wednesday and Thursday, or Sunday to Thursday): check at the visitor centre."
     ],
     // GUIDA-END
     esperienzeSlugs: ['salita-monastero-petra', 'hammam-wadi-musa'],
@@ -739,7 +739,7 @@ export const destinazioniGiordania: Destinazione[] = [
     luoghi: [
       {
         "nome": "Snorkeling and diving",
-        "testo": "The Red Sea a few hours from the desert, with coral reefs close to shore and warm water. There is also the wreck of the Cedar Pride, one of the best-known dive sites.",
+        "testo": "The Red Sea a few hours from the desert, with coral reefs close to shore and warm water. There is also the wreck of the Cedar Pride, scuttled for divers on 16 November 1985: it is one of the best-known dive sites.",
         "come": "Book a diving center or a boat from the marina.",
         "quando": "All year, but spring and autumn are the best months.",
         "tempo": "Half a day",

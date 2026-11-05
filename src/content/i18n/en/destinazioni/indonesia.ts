@@ -98,7 +98,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "Lake Toba",
-        testo: "The largest volcanic lake in the world, born of an enormous eruption. Cool water, green shores, villages and a large island in the middle, Samosir.",
+        testo: "The largest volcanic lake in the world, about 1,130 km², born of an enormous eruption. Cool water, green shores, villages and a large island in the middle, Samosir.",
         come: "From Medan by car or bus to Parapat, several hours on the road, then a ferry to Tuk Tuk on Samosir Island.",
         quando: "All year, better in the morning and in the dry season.",
         tempo: "2-3 days",
@@ -236,7 +236,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     luoghi: [
       {
         nome: "Borobudur",
-        testo: "The largest Buddhist temple in the world, from the 9th century, with nine stacked platforms, six square and three circular, and thousands of stone relief panels. At dawn, with mist over the plain, it's one of the few places that lives up to its legend.",
+        testo: "The largest Buddhist temple in the world, from the 9th century, with nine stacked platforms, six square and three circular, 2,672 relief panels and originally 504 Buddha statues. At dawn, with mist over the plain, it's one of the few places that lives up to its legend.",
         come: "From Yogyakarta by car or bus. Climbing the monument is capped, with a guide and special sandals: book online on the official website well in advance.",
         quando: "At sunrise or sunset, with dedicated paid packages. Climbing the structure is split into time slots with a fixed quota and sells out.",
         tempo: "3 hours",
@@ -246,7 +246,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "Prambanan",
-        testo: "The largest Hindu temple complex in Indonesia, from the mid-9th century, with towers dedicated to Shiva, Vishnu and Brahma; Shiva's is the tallest of the complex. The reliefs of the Shiva and Brahma temples tell the Ramayana.",
+        testo: "The largest Hindu temple complex in Indonesia, from the mid-9th century, with towers dedicated to Shiva, Vishnu and Brahma; Shiva's, 47 metres high, is the tallest of the complex. The reliefs of the Shiva and Brahma temples tell the Ramayana.",
         come: "Just outside Yogyakarta, by city bus or taxi. Visit on your own or with a guide.",
         quando: "In the morning or at sunset. On Mondays, for maintenance, only the park around the temples can be visited: check the official website. On some evenings the Ramayana ballet is staged.",
         tempo: "2 hours",
@@ -437,7 +437,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "Sunrise on Gunung Batur",
-        testo: "A night trek to the top of the volcano for sunrise over the caldera and Lake Batur. The climb takes a few hours and isn't technical.",
+        testo: "A night trek to the top of the volcano, 1,717 metres, for sunrise over the caldera and Lake Batur. The climb takes a few hours and isn't technical.",
         come: "With a local guide, starting from Toya Bungkah or nearby villages in the middle of the night.",
         quando: "Start in the middle of the night to be at the top for sunrise.",
         tempo: "half a day",
@@ -571,7 +571,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "Rock tombs",
-        testo: "Tombs carved into the rock face and burial caves. At some sites the «tau tau», wooden effigies of the dead, watch from balconies.",
+        testo: "Tombs carved into the rock face and burial caves, such as the Lemo cemetery, set in a steep rock wall. At some sites the «tau tau», wooden effigies of the dead, watch from balconies.",
         come: "With the guide from Rantepao, by car or scooter.",
         quando: "In the morning.",
         tempo: "half a day",
@@ -718,7 +718,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "Trek to Gunung Rinjani",
-        testo: "Indonesia's second-highest volcano. From the crater rim you see Lake Segara Anak, inside the caldera. The route is long and exposed and ends on volcanic sand.",
+        testo: "Indonesia's second-highest volcano, 3,726 metres. From the crater rim you see Lake Segara Anak, inside the caldera, at about 2,000 metres. The route is long and exposed and ends on volcanic sand.",
         come: "From Senaru or Sembalun, only with a licensed operator and a guide. You must register online on the official eRinjani system, which also lists the documents required; since 2026 each guide can take at most four trekkers. Multi-day packages with porters and tents.",
         quando: "In the dry season. With rain, bad weather or after accidents the park may close the trails: check eRinjani before booking.",
         tempo: "several days",
@@ -857,6 +857,7 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "By boat from Labuan Bajo: the time depends on the type of boat. You walk the trails with a ranger, who carries only a forked stick.",
         quando: "In the morning, in the cooler hours.",
         tempo: "half a day",
+        url: "https://www.komodonationalpark.org/",
         consiglio: "Ask explicitly for Rinca in the tour: it is wilder than Komodo island."
       },
       {
@@ -865,6 +866,7 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "By boat from Labuan Bajo, farther than Rinca. With a compulsory ranger.",
         quando: "In the morning.",
         tempo: "half a day",
+        url: "https://www.komodonationalpark.org/",
         consiglio: "Never approach without the ranger and never leave the trail."
       },
       {
@@ -1006,8 +1008,8 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "Wae Rebo",
-        testo: "A remote village with seven conical houses (mbaru niang) arranged in a circle around the altar, in a clearing among the mountains. It's inhabited and you follow its rules, starting with the welcome ritual. One of the most powerful things on the island.",
-        come: "From the Denge area, a few hours uphill through the forest. You sleep in the village guest houses, dormitory-style. It's arranged through the village committee or an operator.",
+        testo: "A remote village with seven conical houses (mbaru niang) arranged in a circle around the altar, in a clearing among the mountains, at about 1,200 metres. It's inhabited and you follow its rules, starting with the welcome ritual. One of the most powerful things on the island.",
+        come: "From the Denge and Dintor area, about 4.5 km of forest trail: 2.5-3 hours uphill (2022). You sleep in the village guest houses, dormitory-style. It's arranged through the village committee or an operator.",
         quando: "In the dry season; when it rains the trail is muddy.",
         tempo: "2 days (1 night)",
         consiglio: "Bring a modest gift for the community and respect the village rules."

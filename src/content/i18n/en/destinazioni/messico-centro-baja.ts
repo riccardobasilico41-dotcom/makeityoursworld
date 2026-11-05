@@ -49,12 +49,12 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
           "come": "Metro Zócalo. The Templo Mayor has a separate INAH entry.",
           "quando": "Morning; the Templo Mayor museum and archaeological zone open Tuesday to Sunday, 9am-5pm, and close on Mondays.",
           "tempo": "3 hours",
-          "costo": "Templo Mayor: 210 MXN for foreigners (2026).",
+          "costo": "Templo Mayor: 210 MXN for foreigners (2026); on Sundays it is free only for Mexican citizens.",
           "url": "https://www.inah.gob.mx/"
         },
         {
           "nome": "National Museum of Anthropology",
-          "testo": "A great archaeological museum in Chapultepec forest, with the Sun Stone and the rooms of Mesoamerican cultures.",
+          "testo": "Mexico's largest and most visited museum, in Chapultepec forest, with the Sun Stone and the rooms of Mesoamerican cultures.",
           "come": "Metro Auditorio or Chapultepec.",
           "quando": "Morning; usually closed on Monday.",
           "tempo": "3-4 hours",
@@ -64,7 +64,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         },
         {
           "nome": "Teotihuacán",
-          "testo": "The city of the Temples of the Sun and Moon and the Calzada de los Muertos, outside the city, a UNESCO site.",
+          "testo": "The city of the Temples of the Sun and Moon and the Calzada de los Muertos, about 40 km north-east of the capital, a UNESCO site.",
           "come": "Bus from Terminal Norte or tour; INAH entry.",
           "quando": "At the 8am opening (open daily until 5pm), before the heat and the groups.",
           "tempo": "Half a day",
@@ -207,14 +207,14 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         },
         {
           "nome": "Palafoxiana Library and Capilla del Rosario",
-          "testo": "A historic library founded in the 17th century and a baroque chapel covered in gold (Templo de Santo Domingo).",
+          "testo": "The first public library in the Americas, founded in 1646, and a baroque chapel covered in gold (Templo de Santo Domingo).",
           "come": "On foot from the centre.",
           "quando": "Morning.",
           "tempo": "1.5 hours"
         },
         {
           "nome": "Great Pyramid of Cholula",
-          "testo": "A huge pre-Hispanic pyramid, almost hidden under a grassy hill, with the church of the Virgen de los Remedios on top. The inner tunnels reopened in March 2026, with group visits.",
+          "testo": "The largest pyramid in the world by volume, almost hidden under a grassy hill, with the church of the Virgen de los Remedios on top. The inner tunnels reopened in March 2026 after six years of closure, with group visits.",
           "come": "Bus or Uber from Puebla, a short ride.",
           "quando": "Morning; sunset for the view of the volcanoes.",
           "tempo": "2-3 hours",
@@ -464,8 +464,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Árbol del Tule",
-          "testo": "A Montezuma cypress with a huge trunk, in the churchyard of Santa María del Tule. The most serious estimates put it at 1,400 to 1,600 years old.",
-          "come": "Bus or taxi from Oaxaca, a short way east, on the road to Mitla.",
+          "testo": "A Montezuma cypress with the stoutest trunk in the world, in the churchyard of Santa María del Tule. The most serious estimates put it at 1,400 to 1,600 years old.",
+          "come": "Bus or taxi from Oaxaca, about 9 km east, on the road to Mitla.",
           "quando": "Morning.",
           "tempo": "Short stop"
         },

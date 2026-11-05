@@ -389,7 +389,7 @@ export const destinazioniSingapore: Destinazione[] = [
       {
         nome: "MacRitchie Reservoir e TreeTop Walk",
         testo: "Un bacino circondato da foresta pluviale con sentieri e una passerella sospesa di 250 metri, alta 25 metri nel punto più alto, che attraversa la volta degli alberi. Macachi, varani e scoiattoli sui sentieri.",
-        come: "In autobus o taxi fino all'ingresso del parco. La passerella si raggiunge solo a piedi, con diversi chilometri di sentiero nella foresta.",
+        come: "In autobus o taxi fino all'ingresso del parco. La passerella si raggiunge solo a piedi, con diversi chilometri di sentiero nella foresta: i percorsi del parco vanno da 3 a 11 km.",
         quando: "Al mattino presto, per il fresco e per essere in tempo: il TreeTop Walk è chiuso il lunedì (salvo festivi), ha orari di apertura diurni e si percorre in un solo senso. Orari sul sito NParks.",
         tempo: "3-4 ore",
         costo: "gratuito",
@@ -398,7 +398,7 @@ export const destinazioniSingapore: Destinazione[] = [
       },
       {
         nome: "Bukit Timah Nature Reserve",
-        testo: "Foresta pluviale primaria attorno alla collina più alta dell'isola. È una delle aree più estese di foresta primaria rimaste a Singapore, con macachi e uccelli.",
+        testo: "Foresta pluviale primaria attorno alla collina più alta dell'isola, circa 165 metri. È una delle aree più estese di foresta primaria rimaste a Singapore, con macachi e uccelli.",
         come: "In MRT e autobus o in taxi. Sentieri segnati di varie lunghezze, con scale e pendenze.",
         quando: "Al mattino presto.",
         tempo: "2-3 ore",
@@ -409,7 +409,7 @@ export const destinazioniSingapore: Destinazione[] = [
       {
         nome: "Pulau Ubin",
         testo: "Isola a una decina di minuti di barca, dove restano poche decine di abitanti nelle case di legno del vecchio kampong. Non ci sono mezzi pubblici: si noleggia una bici e si gira tra mangrovie, vecchie cave di granito allagate e sentieri.",
-        come: "Bumboat dal terminal di Changi Point Ferry. La barca parte quando ha dodici passeggeri, oppure si paga la barca intera. Biciclette a noleggio sull'isola.",
+        come: "Bumboat dal terminal di Changi Point Ferry. La traversata dura circa 10 minuti e la barca parte quando ha dodici passeggeri: 4 SGD a persona a tratta, oppure 48 SGD per la barca intera (tariffe in vigore dal 2020). Biciclette a noleggio sull'isola.",
         quando: "Al mattino. L'ultima barca di ritorno è la sera: controllare l'orario all'arrivo.",
         tempo: "mezza giornata",
         consiglio: "Noleggiare una bici e andare verso Chek Jawa, la zona umida con la passerella sul mare."

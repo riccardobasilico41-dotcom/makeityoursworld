@@ -312,7 +312,7 @@ export const destinazioniTanzania: Destinazione[] = [
       },
       {
         "nome": "Mto wa Mbu",
-        "testo": "El pueblo cerca de la entrada del Lago Manyara, en la carretera al Ngorongoro, para recorrer con un guía local.",
+        "testo": "El pueblo cerca de la entrada del Lago Manyara, en la carretera al Ngorongoro, donde el plátano es el cultivo principal, para recorrer con un guía local.",
         "come": "A pie o en bici con un guía local.",
         "quando": "Mañana.",
         "tempo": "1-2 horas"
@@ -542,8 +542,8 @@ export const destinazioniTanzania: Destinazione[] = [
         "costo": "Tarifa de entrada TANAPA para visitantes extranjeros: precios actualizados en la web oficial; preguntar al operador si el presupuesto incluye tasas e IVA"
       },
       {
-        "nome": "Aldeas del café cerca de Moshi",
-        "testo": "Las aldeas en las laderas del Kilimanjaro alrededor de Moshi, con plantaciones de café y cascadas para visitar con guías locales.",
+        "nome": "Materuni y aldeas del café cerca de Moshi",
+        "testo": "Las aldeas en las laderas del Kilimanjaro alrededor de Moshi, con plantaciones de café y cascadas para visitar con guías locales; la más conocida es Materuni, famosa por sus cascadas.",
         "come": "En coche desde Moshi.",
         "quando": "Mañana.",
         "tempo": "Medio día"
@@ -554,7 +554,7 @@ export const destinazioniTanzania: Destinazione[] = [
         "titolo": "1 día",
         "tappe": [
           "Mañana: parque nacional de Arusha",
-          "Tarde: aldeas del café cerca de Moshi"
+          "Tarde: cascadas de Materuni y café"
         ]
       }
     ],

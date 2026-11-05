@@ -41,7 +41,7 @@ export const destinazioniGiappone: Destinazione[] = [
     luoghi: [
       {
         nome: "Senso-ji y Asakusa",
-        testo: "Antiguo templo budista de Tokio, con la puerta Kaminarimon y la calle de puestos Nakamise que lleva al pabellón principal. Alrededor quedan callejas de tiendas y locales a la antigua.",
+        testo: "El templo budista más antiguo de Tokio según la tradición, que sitúa sus orígenes en el año 628, con la puerta Kaminarimon y la calle de puestos Nakamise que lleva al pabellón principal. Alrededor quedan callejas de tiendas y locales a la antigua.",
         come: "Metro Ginza o Asakusa hasta la estación de Asakusa. Se recorre el recinto libremente, sin entrada y sin guía.",
         quando: "Los patios están siempre abiertos; el pabellón principal cierra por la tarde. Al amanecer o hacia el anochecer hay mucha menos gente que a mediodía, sobre todo los fines de semana.",
         tempo: "1,5-2 horas",
@@ -51,7 +51,7 @@ export const destinazioniGiappone: Destinazione[] = [
       },
       {
         nome: "Meiji-Jingu y Harajuku",
-        testo: "El santuario sintoísta dedicado al emperador Meiji, dentro de un gran bosque plantado por el hombre. Parece lejísimos de la ciudad, y está a dos pasos de Takeshita Street y del caos de Harajuku.",
+        testo: "El santuario sintoísta dedicado al emperador Meiji, inaugurado en 1920 dentro de un bosque de unos 120.000 árboles donados desde todo Japón. Parece lejísimos de la ciudad, y está a dos pasos de Takeshita Street y del caos de Harajuku.",
         come: "JR Yamanote hasta Harajuku. Desde el torii de entrada se camina por el bosque en un paseo de grava hasta el santuario.",
         quando: "Abierto del amanecer al atardecer. A primera hora hay silencio; los fines de semana se ven a menudo cortejos de boda.",
         tempo: "1-1,5 horas",
@@ -69,15 +69,15 @@ export const destinazioniGiappone: Destinazione[] = [
       },
       {
         nome: "Shinjuku Gyoen y el foso de Chidorigafuchi",
-        testo: "Dos lugares para ver los sakura en Tokio. Shinjuku Gyoen es un gran parque con jardines japonés, francés e inglés. Chidorigafuchi es el foso del palacio imperial, con los cerezos reflejados en el agua.",
-        come: "Shinjuku Gyoen: metro Marunouchi hasta Shinjuku-gyoenmae. Chidorigafuchi: en metro hasta la zona del palacio imperial y luego a pie a lo largo del foso.",
+        testo: "Dos lugares para ver los sakura en Tokio. Shinjuku Gyoen es un parque de 58 hectáreas con jardines japonés, francés e inglés. Chidorigafuchi es el foso del palacio imperial, con los cerezos reflejados en el agua.",
+        come: "Shinjuku Gyoen: metro Marunouchi hasta Shinjuku-gyoenmae, o JR hasta Sendagaya. Chidorigafuchi: en metro hasta la zona del palacio imperial y luego a pie a lo largo del foso.",
         quando: "Finales de marzo-principios de abril para la floración. Shinjuku Gyoen cierra los lunes (el día siguiente si el lunes es festivo) y del 29 de diciembre al 3 de enero, pero de finales de marzo a finales de abril y en la primera mitad de noviembre abre todos los días; precio de la entrada en la web oficial. Fuera de temporada siguen siendo parques tranquilos.",
         tempo: "2 horas cada uno",
         consiglio: "Cuando llegamos, a principios de abril, los pétalos ya caían como nieve rosa (hanafubuki): otra forma de ver la floración, igual de bonita.",
       },
       {
         nome: "Golden Gai y Hoppy Street",
-        testo: "Golden Gai es un entramado de callejones en Shinjuku llenos de bares diminutos, con pocas plazas cada uno. Hoppy Street, en Asakusa, es una calle de izakaya con mesas al aire libre.",
+        testo: "Golden Gai es un entramado de seis callejones en Shinjuku con más de doscientos bares y locales diminutos, con pocas plazas cada uno. Hoppy Street, en Asakusa, es una calle de izakaya con mesas al aire libre.",
         come: "Golden Gai: JR o metro hasta Shinjuku y luego a pie. Hoppy Street está en el barrio de Asakusa, cerca del Senso-ji.",
         quando: "Por la noche. Algunos bares de Golden Gai pueden cobrar una entrada y algunos solo aceptan clientes habituales: mejor preguntar antes de sentarse.",
         tempo: "1,5-2 horas",
@@ -93,7 +93,7 @@ export const destinazioniGiappone: Destinazione[] = [
       },
       {
         nome: "Mercado de Tsukiji (outer market)",
-        testo: "El mercado mayorista se trasladó a Toyosu. Queda el outer market de Tsukiji, con tiendas y puestos de pescado, tamagoyaki, sushi y cuchillos de cocina.",
+        testo: "El mercado mayorista se trasladó a Toyosu en 2018. Queda el outer market de Tsukiji, con tiendas y puestos de pescado, tamagoyaki, sushi y cuchillos de cocina.",
         come: "Metro Hibiya hasta Tsukiji, o línea Oedo hasta Tsukijishijo. Se recorre a pie entre las callejuelas.",
         quando: "Por la mañana. Muchos puestos cierran a primera hora de la tarde y el mercado tiene días de descanso: comprobar el calendario en la web oficial.",
         tempo: "1,5-2 horas",
@@ -169,7 +169,7 @@ export const destinazioniGiappone: Destinazione[] = [
     luoghi: [
       {
         nome: "Gran Buda de Kotoku-in",
-        testo: "Gran estatua de bronce de Amida, sentada al aire libre desde que el pabellón que la albergaba quedó destruido. Con un pequeño suplemento se puede entrar también en su interior.",
+        testo: "Estatua de bronce de Amida de hacia 1252, de unos 13 metros de altura con el pedestal, sentada al aire libre desde que el tsunami de 1498 arrasó el pabellón que la albergaba. Con un pequeño suplemento se puede entrar también en su interior.",
         come: "Desde la estación de Kamakura en el tren Enoden hasta Hase, y luego a pie. Visita por libre.",
         quando: "Abierto todos los días: 8:00-17:30 de abril a septiembre, 8:00-17:00 de octubre a marzo; el interior de la estatua cierra a las 16:30. Por la mañana hay menos gente.",
         tempo: "45 minutos",
@@ -179,7 +179,7 @@ export const destinazioniGiappone: Destinazione[] = [
       },
       {
         nome: "Engaku-ji",
-        testo: "Gran templo zen junto a la estación de Kita-Kamakura, con la puerta Sanmon y la gran campana.",
+        testo: "Gran templo zen fundado en 1282 junto a la estación de Kita-Kamakura, con la puerta Sanmon y la gran campana.",
         come: "JR Yokosuka desde Tokio hasta Kita-Kamakura: el templo está junto a la estación.",
         quando: "A primera hora, antes de los grupos.",
         tempo: "1 hora",
@@ -187,7 +187,7 @@ export const destinazioniGiappone: Destinazione[] = [
       },
       {
         nome: "Kencho-ji",
-        testo: "Uno de los grandes templos zen de Kamakura. Dentro están el Butsuden y, detrás, el sendero que sube al santuario de Hansobo.",
+        testo: "El primero de los cinco grandes templos zen de Kamakura, terminado en 1253. Dentro están el Butsuden y, detrás, el sendero que sube al santuario de Hansobo.",
         come: "A pie desde Kita-Kamakura, por la calle de los templos.",
         quando: "Por la mañana está más tranquilo; horarios en la web del templo.",
         tempo: "1-1,5 horas",
@@ -205,7 +205,7 @@ export const destinazioniGiappone: Destinazione[] = [
       {
         nome: "Komachi-dori y Shichirigahama",
         testo: "Komachi-dori es la calle peatonal de comida callejera y tiendecitas cerca de la estación. A poca distancia está la playa de Shichirigahama, el lado menos conocido de Kamakura.",
-        come: "Komachi-dori está a pocos pasos de la estación de Kamakura. Para Shichirigahama se toma el tren Enoden, que recorre la costa.",
+        come: "Komachi-dori está a pocos pasos de la estación de Kamakura. Para Shichirigahama se toma el tren Enoden, que recorre la costa, hasta la estación del mismo nombre.",
         quando: "Komachi-dori se llena los fines de semana; la playa, con sol y después de los templos.",
         tempo: "2 horas",
         consiglio: "Poca gente sabe que en Kamakura se está a dos pasos del mar: tras la mañana de templos, la playa fue una bonita sorpresa.",
@@ -259,8 +259,8 @@ export const destinazioniGiappone: Destinazione[] = [
     luoghi: [
       {
         nome: "Pagoda Chureito y parque Arakurayama Sengen",
-        testo: "Pagoda roja de cinco pisos sobre la ciudad de Fujiyoshida, con el Fuji detrás: una de las vistas más fotografiadas de Japón. Se llega subiendo una larga escalinata en el parque Arakurayama Sengen.",
-        come: "Desde Tokio en tren hasta Shimoyoshida, y luego a pie hasta la escalinata. Se sube por libre.",
+        testo: "Pagoda roja de cinco pisos sobre la ciudad de Fujiyoshida, con el Fuji detrás: una de las vistas más fotografiadas de Japón. Se llega subiendo los 398 escalones de la escalinata del parque Arakurayama Sengen.",
+        come: "Desde Tokio en tren hasta Shimoyoshida, y luego unos 10 minutos a pie hasta la escalinata. Se sube por libre.",
         quando: "A primera hora: la luz es mejor y hay menos gente. Con la floración de los cerezos (mediados de abril) la vista es aún más bonita.",
         tempo: "1,5-2 horas",
         consiglio: "Llegar cuanto antes: más tarde hay colas en la terraza para la foto.",
@@ -295,7 +295,7 @@ export const destinazioniGiappone: Destinazione[] = [
     attenzioni: [
       "Llegar tarde a la pagoda: demasiada gente y peor luz.",
       "Contar con que se verá el Fuji: con nubes no se ve, y a veces no se ve en días.",
-      "La escalinata es larga: calzado cómodo y agua.",
+      "La escalinata tiene 398 escalones: calzado cómodo y agua.",
     ],
     esperienzeSlugs: ['chureito-monte-fuji'],
     tripSlugs: [],
@@ -352,7 +352,7 @@ export const destinazioniGiappone: Destinazione[] = [
       },
       {
         nome: "Kinkaku-ji, el Pabellón Dorado",
-        testo: "El templo zen cubierto de pan de oro que se refleja en el estanque. El pabellón actual es una reconstrucción, después de que el original fuera destruido por un incendio.",
+        testo: "El templo zen cubierto de pan de oro que se refleja en el estanque. El pabellón actual es una reconstrucción de 1955: el original, de finales del siglo XIV, fue destruido por un incendio provocado en 1950.",
         come: "Bus desde Kyoto Station o metro hasta Kitaoji y luego bus. La visita sigue un recorrido de sentido único.",
         quando: "Abierto todos los días, 9:00-17:00. A la apertura o al final del día, cuando el sol está bajo.",
         tempo: "45 minutos",
@@ -361,9 +361,9 @@ export const destinazioniGiappone: Destinazione[] = [
       },
       {
         nome: "Kiyomizudera",
-        testo: "Antiguo templo budista en la colina de Higashiyama, con la gran terraza de madera suspendida sobre el valle. La subida pasa por las callejuelas de Ninenzaka y Sannenzaka.",
+        testo: "Templo budista fundado en el año 778 en la colina de Higashiyama, con la gran terraza de madera suspendida sobre el valle; el pabellón principal está construido sin un solo clavo. La subida pasa por las callejuelas de Ninenzaka y Sannenzaka.",
         come: "Bus desde Kyoto Station hasta Gojo-zaka, y luego a pie cuesta arriba. Se visita por libre.",
-        quando: "A la hora de apertura, temprano por la mañana, antes de los grupos. Horarios en la web oficial.",
+        quando: "A la hora de apertura, temprano por la mañana, antes de los grupos. Horarios en la web oficial; en 2026 hay aperturas nocturnas hasta las 21.30 del 27 de marzo al 5 de abril, del 14 al 16 de agosto y del 21 al 30 de noviembre.",
         tempo: "1-1,5 horas",
         url: "https://www.kiyomizudera.or.jp/en/",
         consiglio: "Bajar por Ninenzaka con calma: tiendas, cafés y la luz del final de la tarde.",
@@ -387,7 +387,7 @@ export const destinazioniGiappone: Destinazione[] = [
       },
       {
         nome: "Camino de la Filosofía",
-        testo: "Un recorrido junto a un canal entre Ginkaku-ji y Nanzen-ji, con cerezos que a principios de abril forman un túnel de pétalos. Paseo tranquilo.",
+        testo: "Un recorrido junto a un canal entre Ginkaku-ji y Nanzen-ji, con cerezos que a principios de abril forman un túnel de pétalos. Paseo tranquilo de una media hora, sin contar las paradas.",
         come: "Autobús hasta Ginkaku-ji y luego a pie hacia el sur hasta Nanzen-ji.",
         quando: "Principios de abril para los sakura; si no, a primera hora.",
         tempo: "1,5 horas",
@@ -403,7 +403,7 @@ export const destinazioniGiappone: Destinazione[] = [
       },
       {
         nome: "Mercado de Nishiki",
-        testo: "Una larga galería cubierta con tiendas de encurtidos, pescado, tofu, dulces y street food, llamada «la cocina de Kioto».",
+        testo: "Una galería cubierta de unos 390 metros, con tiendas de encurtidos, pescado, tofu, dulces y street food, llamada «la cocina de Kioto».",
         come: "Metro hasta Shijo o Karasuma, y luego a pie.",
         quando: "Mañana y primera hora de la tarde; muchos puestos cierran a última hora de la tarde.",
         tempo: "1 hora",
@@ -559,7 +559,7 @@ export const destinazioniGiappone: Destinazione[] = [
     luoghi: [
       {
         nome: "Castillo de Himeji",
-        testo: "Uno de los castillos feudales mejor conservados de Japón, patrimonio de la UNESCO, apodado «Garza Blanca» por sus muros blanquísimos. Dentro de la torre principal se sube por empinadas escaleras de madera.",
+        testo: "Uno de los castillos feudales mejor conservados de Japón, patrimonio de la UNESCO desde 1993, apodado «Garza Blanca» por sus muros blanquísimos. La torre principal tiene seis pisos más un sótano y se sube por empinadas escaleras de madera.",
         come: "JR Tokaido-Sanyo hasta Himeji, y luego a pie por la avenida que lleva directamente al castillo.",
         quando: "A primera hora, antes de la multitud. Abierto de 9:00 a 17:00, última entrada a las 16:00; cerrado el 29 y 30 de diciembre.",
         tempo: "2 horas",
@@ -568,7 +568,7 @@ export const destinazioniGiappone: Destinazione[] = [
       },
       {
         nome: "Jardines Kokoen",
-        testo: "Una serie de jardines de estilo japonés junto al castillo, con estanques de koi.",
+        testo: "Nueve jardines de estilo japonés junto al castillo, con estanques de koi.",
         come: "A pie desde el castillo, a pocos minutos.",
         quando: "Por la mañana o a última hora de la tarde.",
         tempo: "45 minutos",
@@ -642,7 +642,7 @@ export const destinazioniGiappone: Destinazione[] = [
       },
       {
         nome: "Castillo de Osaka",
-        testo: "El castillo de Toyotomi Hideyoshi, reconstruido en hormigón en el siglo XX, con un museo dentro y una vista panorámica desde la última planta. El parque que lo rodea está lleno de cerezos.",
+        testo: "El castillo de Toyotomi Hideyoshi, reconstruido en hormigón en 1931, con un museo dentro y una vista panorámica desde la última planta. El parque que lo rodea está lleno de cerezos.",
         come: "JR Loop Line hasta Osakajokoen o metro hasta Tanimachi 4-chome y luego a pie por el parque.",
         quando: "Por la mañana; a principios de abril, los cerezos.",
         tempo: "2 horas",
@@ -651,7 +651,7 @@ export const destinazioniGiappone: Destinazione[] = [
       },
       {
         nome: "Shinsekai y Torre Tsutenkaku",
-        testo: "Barrio de locales populares y kushikatsu, dominado por la torre Tsutenkaku. Ambiente de la vieja Osaka.",
+        testo: "Barrio de locales populares y kushikatsu, dominado por la torre Tsutenkaku (la primera es de 1912, la actual de 1956). Ambiente de la vieja Osaka.",
         come: "Metro hasta Dobutsuen-mae o Ebisucho.",
         quando: "Por la noche, con las luces.",
         tempo: "1,5 horas",
@@ -729,7 +729,7 @@ export const destinazioniGiappone: Destinazione[] = [
     luoghi: [
       {
         nome: "Todaiji y el Gran Buda",
-        testo: "Un enorme edificio de madera que alberga un gran Buda de bronce. Patrimonio de la UNESCO.",
+        testo: "Un enorme edificio de madera, el más grande del mundo hasta 1998, que alberga un Buda de bronce de unos 15 metros, terminado en el año 751. Patrimonio de la UNESCO.",
         come: "A pie, unos 30 minutos desde la estación Kintetsu-Nara, atravesando el parque. Visita por libre.",
         quando: "Abierto todos los días: 7:30-17:30 de abril a octubre, 8:00-17:00 de noviembre a marzo. A primera hora hay menos gente.",
         tempo: "1,5 horas",
@@ -739,11 +739,11 @@ export const destinazioniGiappone: Destinazione[] = [
       },
       {
         nome: "Kasuga Taisha",
-        testo: "Santuario sintoísta con miles de faroles de piedra y de bronce a lo largo de los senderos del bosque.",
+        testo: "Santuario sintoísta con más de tres mil faroles de piedra y de bronce a lo largo de los senderos del bosque.",
         come: "A pie desde el parque, pasando por Todaiji.",
         quando: "Por la mañana o a última hora de la tarde, la luz es más bonita.",
         tempo: "1-1,5 horas",
-        consiglio: "En algunas fiestas del año se encienden los faroles: fechas en la web oficial.",
+        consiglio: "Todos los faroles se encienden a la vez solo en dos fiestas: el 3 de febrero (Setsubun Mantoro) y el 14-15 de agosto (Chugen Mantoro).",
       },
       {
         nome: "Parque de Nara y los ciervos",

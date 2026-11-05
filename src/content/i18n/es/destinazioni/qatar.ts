@@ -98,7 +98,7 @@ export const destinazioniQatar: Destinazione[] = [
     luoghi: [
       {
         "nome": "Museo de Arte Islámico",
-        "testo": "El edificio de piedra caliza color crema de I. M. Pei, inaugurado en 2008 en una isla artificial frente a la Corniche. Dentro, manuscritos, cerámicas, metales y tejidos de todo el mundo musulmán.",
+        "testo": "El edificio de piedra caliza color crema de I. M. Pei, que lo proyectó a los 91 años, inaugurado en 2008 en una isla artificial frente a la Corniche. Dentro, manuscritos, cerámicas, metales y tejidos de todo el mundo musulmán.",
         "come": "Taxi o Uber desde el centro; el museo indica también un autobús lanzadera gratuito. Se camina por el parque.",
         "quando": "Cerrado los miércoles. De sábado a martes 9-19, jueves 9-21, viernes 13.30-19 (2026); cierres extraordinarios en la web. Al atardecer, desde la escalinata exterior, se mira el skyline de West Bay.",
         "tempo": "2-3 horas",
@@ -107,8 +107,8 @@ export const destinazioniQatar: Destinazione[] = [
       },
       {
         "nome": "Zoco Waqif",
-        "testo": "El mercado histórico, reconstruido en los años 2000 en estilo tradicional tras demoler los edificios modernos. Sigue funcionando: se venden telas, especias, incienso y halcones de caza, en el zoco de los halcones. Por la noche los callejones y los restaurantes al aire libre se llenan de familias cataríes.",
-        "come": "Metro hasta Souq Waqif o Msheireb; se camina por los callejones.",
+        "testo": "El mercado histórico, destruido en gran parte por un incendio en 2003 y reconstruido entre 2006 y 2008 en estilo tradicional, tras demoler los edificios modernos. Sigue funcionando: se venden telas, especias, incienso y halcones de caza, en el zoco de los halcones, donde se pueden fotografiar y sostener en el brazo bajo la mirada de los vendedores. Cerca está el hospital de halcones gestionado por el Estado, que cura a las aves heridas. Por la noche los callejones y los restaurantes al aire libre se llenan de familias cataríes.",
+        "come": "Metro, línea dorada, hasta Souq Waqif, o Msheireb, donde se cruzan las tres líneas; se camina por los callejones.",
         "quando": "Por la noche, cuando los callejones se animan. El zoco de los halcones tiene horario partido, de mañana y de tarde: consultarlo en Visit Qatar.",
         "tempo": "2 horas",
         "consiglio": "El lugar donde mejor se ve la vida catarí, sobre todo por la noche."
@@ -131,7 +131,7 @@ export const destinazioniQatar: Destinazione[] = [
       {
         "nome": "Mathaf, museo árabe de arte moderno",
         "testo": "El museo de Qatar Museums dedicado al arte moderno y contemporáneo del mundo árabe, en una antigua escuela de Education City reformada por Jean-François Bodin. Las exposiciones cambian a menudo y reúnen a artistas del mundo árabe que en Europa se ven poco.",
-        "come": "En taxi o Uber desde el centro, o metro hasta Education City.",
+        "come": "En taxi o Uber desde el centro, o metro, línea verde, hasta Education City.",
         "quando": "Horarios en la web de Qatar Museums. Bueno para las horas de calor.",
         "tempo": "1-1,5 horas",
         "costo": "Entrada libre para todos, con entrada que reservar (2026)",
@@ -140,7 +140,7 @@ export const destinazioniQatar: Destinazione[] = [
       {
         "nome": "Katara Cultural Village",
         "testo": "Un barrio cultural junto al mar entre West Bay y The Pearl, con un anfiteatro de mármol, dos mezquitas decoradas (la Mezquita Dorada y la Mezquita de Katara con mosaicos turquesa y violeta), galerías, palomares tradicionales y una playa pública. Es donde los cataríes vienen por la tarde a pasear y a cenar.",
-        "come": "Taxi o metro hasta Katara Cultural Village, luego a pie.",
+        "come": "Taxi o metro, línea roja, hasta Katara, luego a pie.",
         "quando": "Por la noche, cuando baja el calor y se encienden las luces del anfiteatro.",
         "tempo": "1,5-2 horas",
         "costo": "Entrada libre al barrio",
@@ -262,15 +262,16 @@ export const destinazioniQatar: Destinazione[] = [
       {
         "nome": "Khor Al Adaid (mar interior)",
         "testo": "Un brazo del Golfo que entra en el desierto, con las dunas que bajan directas al agua, en la frontera con Arabia Saudí. Catar lo ha incluido en su lista indicativa de la UNESCO.",
-        "come": "Con una excursión en todoterreno y un conductor experto desde Doha: el último tramo es sobre arena. Se corona la última duna y abajo está el mar.",
+        "come": "A unos 78 km al sur de Doha. No hay carretera: solo se llega en 4x4 con un conductor experto en todoterreno, desinflando los neumáticos a 18-20 psi antes de salir de Mesaieed, o con una excursión. Se corona la última duna y abajo está el mar.",
         "quando": "Tarde, hasta el atardecer.",
         "tempo": "Medio día",
+        "costo": "Entrada gratuita (2026)",
         "consiglio": "No hacer dune bashing justo después de comer: es más movido de lo que parece."
       },
       {
         "nome": "Fuerte de Al Zubarah",
         "testo": "Patrimonio de la UNESCO desde 2013: la ciudad portuaria que floreció a finales del siglo XVIII, hoy un campo de excavaciones, y el fuerte construido en 1938 muy cerca.",
-        "come": "En coche desde Doha, hacia el noroeste.",
+        "come": "En coche desde Doha, unos 105 km hacia el noroeste.",
         "quando": "Mañana.",
         "tempo": "1-1,5 horas",
         "consiglio": "Llevar agua y comida: en el norte hay pocos servicios."
@@ -339,7 +340,7 @@ export const destinazioniQatar: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Ir a Khor Al Adaid por libre: se cruzan dunas de arena, mejor con un conductor experto.",
+      "Ir a Khor Al Adaid con un coche normal: no hay carretera y hace falta un 4x4 con un conductor experto en todoterreno.",
       "Hacer dune bashing después de comer.",
       "Ir al norte sin agua ni comida: hay pocos servicios.",
       "Planear el desierto entre junio y septiembre."

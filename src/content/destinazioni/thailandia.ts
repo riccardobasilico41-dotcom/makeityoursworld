@@ -45,7 +45,7 @@ export const destinazioniThailandia: Destinazione[] = [
     luoghi: [
       {
         nome: "Grand Palace e Wat Phra Kaew",
-        testo: "L'antica residenza dei re del Siam, con sale cerimoniali, padiglioni dorati e il Tempio del Buddha di Smeraldo, molto venerato. Il complesso è grande e molto affollato.",
+        testo: "La residenza ufficiale dei re del Siam dal 1782, con sale cerimoniali, padiglioni dorati e il Tempio del Buddha di Smeraldo, molto venerato. Il complesso è grande e molto affollato.",
         come: "Barca sul Chao Phraya fino al molo Tha Chang, poi pochi minuti a piedi. Ingresso unico, visita autonoma; guide ufficiali all'ingresso.",
         quando: "Tutti i giorni dalle 8:30; biglietteria fino alle 15:30, chiusura alle 16:30. Può chiudere senza preavviso per cerimonie reali: controllare sul sito ufficiale. Spalle e ginocchia coperte, niente pantaloncini né canottiere.",
         tempo: "2-3 ore",
@@ -55,7 +55,7 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Wat Pho",
-        testo: "Il tempio del grande Buddha sdraiato rivestito d'oro, con le piante dei piedi intarsiate di madreperla. È anche la sede storica della scuola di massaggio tradizionale thai, che offre ancora massaggi nel recinto. È vicino al Grand Palace.",
+        testo: "Il tempio del grande Buddha sdraiato rivestito d'oro, lungo 46 metri e alto 15, con le piante dei piedi intarsiate di madreperla. È anche la sede storica della scuola di massaggio tradizionale thai, che offre ancora massaggi nel recinto. È vicino al Grand Palace.",
         come: "A piedi dal Grand Palace o dal molo Tha Tien.",
         quando: "Tutti i giorni, 8:00-18:30; più tranquillo nel pomeriggio. Spalle e ginocchia coperte.",
         tempo: "1-1,5 ore",
@@ -73,7 +73,7 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Chatuchak Market",
-        testo: "Un enorme mercato con migliaia di bancarelle di vestiti, piante, artigianato e cibo, divise in settori numerati.",
+        testo: "Il mercato più grande della Thailandia: oltre 15.000 bancarelle di vestiti, piante, artigianato e cibo, divise in 27 settori numerati.",
         come: "BTS fino a Mo Chit o metro fino a Chatuchak Park.",
         quando: "Sabato e domenica, dalla mattina al tardo pomeriggio. Arrivare presto, prima del caldo.",
         tempo: "Mezza giornata",
@@ -309,7 +309,7 @@ export const destinazioniThailandia: Destinazione[] = [
     luoghi: [
       {
         nome: "Lago Cheow Lan",
-        testo: "Un lago artificiale nato dalla diga di Ratchaprapha nel parco nazionale di Khao Sok. Le pareti calcaree coperte di giungla salgono dritte dall'acqua verde, con isolotti, insenature e grotte. Ci si muove solo in long-tail, e si dorme nei resort galleggianti.",
+        testo: "Un lago artificiale di circa 185 km², nato dalla diga di Ratchaprapha, inaugurata nel 1987 nel parco nazionale di Khao Sok. Le pareti calcaree coperte di giungla salgono dritte dall'acqua verde, con isolotti, insenature e grotte. Ci si muove solo in long-tail, e si dorme nei resort galleggianti.",
         come: "In long-tail dal molo della diga di Ratchaprapha fino ai resort galleggianti.",
         quando: "Mattina e tramonto; stagione secca.",
         tempo: "1-2 giorni",
@@ -394,7 +394,7 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Bond Island e Koh Ping Gun",
-        testo: "Isolotti di roccia a fungo nella baia di Phang Nga. Khao Phing Kan e il pinnacolo di Ko Tapu sono diventati famosi con il film di James Bond «L'uomo dalla pistola d'oro». Il giro comprende grotte e lagune interne da visitare in canoa.",
+        testo: "Isolotti di roccia a fungo nella baia di Phang Nga. Khao Phing Kan e il pinnacolo di Ko Tapu sono diventati famosi con il film di James Bond «L'uomo dalla pistola d'oro» (1974). Il giro comprende grotte e lagune interne da visitare in canoa.",
         come: "Escursione di giornata in barca con tour, canoa fino alle grotte (Tham Lot).",
         quando: "Giornata intera, dal mattino.",
         tempo: "Giornata intera",
@@ -678,7 +678,7 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Big Buddha",
-        testo: "Una grande statua del Buddha seduto in cemento rivestito di marmo bianco, sulla collina di Nakkerd vicino a Chalong. Dalla terrazza si vedono la baia di Chalong e le spiagge del sud. È stata costruita soprattutto con le donazioni dei fedeli.",
+        testo: "Una grande statua del Buddha seduto alta 45 metri, in cemento rivestito di marmo bianco birmano, sulla collina di Nakkerd vicino a Chalong. Dalla terrazza si vedono la baia di Chalong e le spiagge del sud. È stata costruita soprattutto con le donazioni dei fedeli.",
         come: "In taxi o scooter, su una strada di montagna ripida.",
         quando: "Mattina o tramonto; spalle e ginocchia coperte.",
         tempo: "1 ora",
@@ -755,7 +755,7 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Parco marino di Ang Thong",
-        testo: "Un arcipelago di decine di isole calcaree coperte di giungla al largo di Koh Samui, protetto come parco nazionale marino. Il giro classico comprende un belvedere su Koh Wua Talab e il lago salato interno di Koh Mae Ko, color smeraldo, che si guarda dall'alto dopo una salita. Si fa kayak tra le grotte e lo snorkeling nelle baie.",
+        testo: "Un arcipelago di 42 isole calcaree coperte di giungla al largo di Koh Samui, protetto come parco nazionale marino. Il giro classico comprende un belvedere su Koh Wua Talab e il lago salato interno di Koh Mae Ko, color smeraldo, che si guarda dall'alto dopo una salita. Si fa kayak tra le grotte e lo snorkeling nelle baie.",
         come: "Gita in barca di giornata da Koh Samui (anche da Koh Phangan), solo con operatori autorizzati.",
         quando: "Con il mare calmo; nei mesi di monsone e di maltempo le uscite saltano spesso.",
         tempo: "Giornata intera",

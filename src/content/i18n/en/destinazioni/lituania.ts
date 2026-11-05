@@ -102,7 +102,7 @@ export const destinazioniLituania: Destinazione[] = [
       },
       {
         nome: "Užupis",
-        testo: "The bohemian district across the stream, which proclaimed itself a republic on 1 April 1997. On the wall of Paupio street are the plaques with the articles of its 'constitution', in many languages.",
+        testo: "The bohemian district across the stream, which proclaimed itself a republic on 1 April 1997. On the wall of Paupio street are the plaques with the 38 articles and 3 mottos of its 'constitution', in more than twenty languages.",
         come: "On foot from the Old Town, across the bridge.",
         quando: "Daytime; 1 April is the independence festival.",
         tempo: "1-2 hours",
@@ -120,7 +120,7 @@ export const destinazioniLituania: Destinazione[] = [
       },
       {
         nome: "Vilnius University",
-        testo: "Founded in 1579, it has many linked courtyards, the baroque St John's church and a historic library. Hours and tickets on the university website.",
+        testo: "Founded in 1579, it has about thirteen linked courtyards, the baroque St John's church and a historic library. Hours and tickets on the university website.",
         come: "On foot, on Pilies gatvė.",
         quando: "Weekday morning.",
         tempo: "1 hour",
@@ -250,9 +250,9 @@ export const destinazioniLituania: Destinazione[] = [
         nome: "Trakai Island Castle",
         testo: "A red-brick Gothic castle on an island in Lake Galvė, begun in the 14th century by Grand Duke Kęstutis and completed by his son Vytautas, who died there in 1430. Rebuilt in the 20th century, it houses the Trakai History Museum.",
         come: "From the town, pedestrian wooden bridge from the shore.",
-        quando: "Weekday morning; October-March fewer crowds.",
+        quando: "Weekday morning; October-March fewer crowds. From May to September open daily 10-19; March-April and October-November closed on Mondays, December-February closed Mondays and Tuesdays (10-18).",
         tempo: "2-3 hours",
-        costo: "tickets and prices on the Trakai History Museum website",
+        costo: "14 € April-September, 12 € October-March; reduced 7/6 € (2026)",
         consiglio: "Go into the museum rooms: they tell the story of the Grand Duchy."
       },
       {

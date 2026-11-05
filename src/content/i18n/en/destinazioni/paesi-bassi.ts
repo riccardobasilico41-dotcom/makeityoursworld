@@ -85,7 +85,7 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       },
       {
         nome: "Jordaan and Begijnhof",
-        testo: "The Jordaan is a district of narrow streets, cafés and craft shops. The Begijnhof is a courtyard of medieval origin, with old façades and one of the oldest wooden houses in the city.",
+        testo: "The Jordaan is a district of narrow streets, cafés and craft shops. The Begijnhof is a courtyard of medieval origin, with old façades and Het Houten Huys, from around 1420, considered the oldest wooden house in Amsterdam.",
         come: "On foot from the centre.",
         quando: "Morning, with soft light and fewer people.",
         tempo: "2 hours",
@@ -93,7 +93,7 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       },
       {
         nome: "Vondelpark",
-        testo: "The city's big park, with ponds, lawns and kiosks; in summer the open-air theatre (Openluchttheater) hosts performances. A good place for a break after the museums.",
+        testo: "The city's big park, 47 hectares of ponds, lawns and kiosks; from May to September the open-air theatre (Openluchttheater) hosts shows almost every weekend, free of charge with an optional donation. A good place for a break after the museums.",
         come: "Next to the Van Gogh museum, a few minutes on foot.",
         quando: "Summer afternoon.",
         tempo: "1-2 hours",
@@ -102,9 +102,9 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       },
       {
         nome: "Albert Cuyp Market",
-        testo: "A big street market in the De Pijp district: fruit, vegetables, fish, clothes and freshly made stroopwafels. Ideal for cheap snacks.",
-        come: "In the De Pijp district, by tram or metro.",
-        quando: "Morning; check the opening days before you go.",
+        testo: "A big street market in the De Pijp district, running since 1905: fruit, vegetables, fish, clothes and freshly made stroopwafels. Ideal for cheap snacks.",
+        come: "Noord/Zuidlijn metro from Centraal to De Pijp, or by tram.",
+        quando: "Monday-Saturday 9:30am-5pm; closed on Sundays and public holidays. Mornings are best.",
         tempo: "1 hour",
         consiglio: "Try hot stroopwafels and herring with onions."
       }
@@ -155,7 +155,7 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       {
         nome: "Amsterdam Oost and Noord",
         perChi: "Those trying to save",
-        testo: "Outside the centre, by tram or, for Noord, by ferry."
+        testo: "Outside the centre, by tram or, for Noord, by the GVB ferries from behind Centraal, free for pedestrians and cyclists."
       }
     ],
     sapori: [

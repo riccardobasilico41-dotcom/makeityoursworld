@@ -157,7 +157,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Skógafoss",
-        testo: "Cascata larga 25 metri e alta 60, sul bordo della scogliera vecchia della costa. Una lunga scala laterale sale in cima, dove parte il sentiero per il passo di Fimmvörðuháls.",
+        testo: "Cascata larga 25 metri e alta 60, sul bordo della scogliera vecchia della costa. Una scala laterale di 527 gradini sale in cima, dove parte il sentiero per il passo di Fimmvörðuháls.",
         come: "Parcheggio ai piedi; il campeggio accanto è comodo per la sera.",
         quando: "Pomeriggio, per l'arcobaleno quando c'è sole.",
         tempo: "45 minuti",
@@ -404,7 +404,7 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "Seyðisfjörður",
         testo: "Villaggio di artisti in un fiordo profondo, con case di legno colorate, la chiesa azzurra e la strada con l'arcobaleno. Si arriva scendendo da un passo montano (Fjarðarheiði) con belle cascate.",
-        come: "In auto da Egilsstaðir, superando il passo.",
+        come: "In auto da Egilsstaðir (27 km), superando il passo Fjarðarheiði. Ogni settimana, da metà marzo a fine novembre, qui arriva il traghetto Norröna della Smyril Line da Hirtshals (Danimarca) e Tórshavn (Fær Øer).",
         quando: "Estate; il passo può essere chiuso dalla neve da autunno a primavera.",
         tempo: "mezza giornata",
         consiglio: "Passeggiata alle cascate lungo la strada, con più soste."
@@ -419,8 +419,8 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Lagarfljót e foresta di Hallormsstaður",
-        testo: "Una delle foreste più estese d'Islanda, con alberi alti e un sentiero lungo il Lagarfljót. Una vera sorpresa in un paese quasi senza alberi.",
-        come: "In auto da Egilsstaðir, lungo il lago, nella valle di Fljótsdalur.",
+        testo: "Una delle foreste più estese d'Islanda, 740 ettari di alberi alti e un sentiero lungo il Lagarfljót. Una vera sorpresa in un paese quasi senza alberi.",
+        come: "In auto, circa 25 km da Egilsstaðir lungo il lago, nella valle di Fljótsdalur.",
         quando: "Estate e inizio autunno per i colori.",
         tempo: "2 ore",
         consiglio: "Piccolo e tranquillo, ideale come pausa dalla guida."
@@ -485,8 +485,8 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Dettifoss",
-        testo: "Cascata larga 100 metri e alta 44, considerata tra le più potenti d'Europa. L'acqua è fangosa, grigia, e il rumore si sente da lontano.",
-        come: "Dalla Route 862 (asfaltata) sul lato ovest, la vista migliore; breve sentiero dal parcheggio.",
+        testo: "Cascata larga 100 metri e alta 44, considerata la più potente d'Europa. L'acqua è fangosa, grigia, e il rumore si sente da lontano.",
+        come: "Dalla Route 862 (asfaltata) sul lato ovest, la vista migliore; dal parcheggio al belvedere 1 km a piedi a tratta.",
         quando: "Estate; in primavera la piena è al massimo.",
         tempo: "1 ora",
         costo: "ingresso libero",
@@ -502,6 +502,15 @@ export const destinazioniIslanda: Destinazione[] = [
         costo: "ingresso libero",
         url: "https://www.vatnajokulsthjodgardur.is",
         consiglio: "Il campeggio del parco nazionale è sul fondo del canyon, con ottimi servizi."
+      },
+      {
+        nome: "Hljóðaklettar",
+        testo: "Le «rocce dell'eco» nel Vesturdalur, parte di una fila di crateri lunga circa 6 km che eruttò 8.000-9.000 anni fa. Le piene del fiume Jökulsá hanno portato via il materiale sciolto e lasciato a nudo le rocce di basalto nate dal magma solidificato nei condotti vulcanici.",
+        come: "Nel Vesturdalur, circa 15 km a sud di Ásbyrgi, su strada asfaltata. Sentieri segnati dal parcheggio.",
+        tempo: "da 30 minuti a 1,5 ore",
+        costo: "ingresso libero",
+        url: "https://www.vatnajokulsthjodgardur.is/en/areas/jokulsargljufur/hljodaklettar",
+        consiglio: "Il sentiero V2 (1,2 km, circa 30 minuti, facile) basta per vedere le rocce; l'anello V3 è di 3 km, 1-1,5 ore, più impegnativo."
       },
     ],
     attenzioni: [
@@ -650,8 +659,8 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Djúpalónssandur",
-        testo: "Spiaggia di ciottoli neri con i resti di un naufragio, raggiunta da un breve sentiero tra la lava.",
-        come: "Piccolo parcheggio e breve discesa a piedi.",
+        testo: "Spiaggia di ciottoli neri con i resti del peschereccio britannico Epine GY7, naufragato nel 1948, e le quattro pietre con cui si misurava la forza dei pescatori, da Amlóði (23 kg) a Fullsterkur (154 kg). Si raggiunge con un breve sentiero tra la lava.",
+        come: "Piccolo parcheggio sulla Route 574 e breve discesa a piedi.",
         quando: "Mattina o sera.",
         tempo: "1 ora",
         consiglio: "Le onde sono forti: non avvicinarsi troppo all'acqua."
@@ -746,7 +755,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Terme e piscine pubbliche",
-        testo: "Le piscine geotermiche sono parte della vita sociale locale: Sundhöllin in centro, Laugardalslaug nel parco di Laugardalur, Vesturbæjarlaug a pochi passi dal mare.",
+        testo: "Le piscine geotermiche sono parte della vita sociale locale: Sundhöllin in centro, Laugardalslaug nel parco di Laugardalur, il più grande complesso di piscine tradizionali d'Islanda, Vesturbæjarlaug a pochi passi dal mare.",
         come: "Bus o a piedi; ingresso a pagamento, doccia nuda obbligatoria prima di entrare.",
         quando: "Sera, quando i locali si ritrovano.",
         tempo: "2 ore",
@@ -792,7 +801,7 @@ export const destinazioniIslanda: Destinazione[] = [
     sapori: [
       {
         nome: "Hot dog (pylsur)",
-        testo: "Il cibo di strada più diffuso: salsiccia con cipolla cruda e fritta e salse, nei chioschi del centro."
+        testo: "Il cibo di strada più diffuso: salsiccia con cipolla cruda e fritta e salse, nei chioschi del centro. Il più noto è Bæjarins Beztu Pylsur, attivo dal 1937, con il chiosco principale in Tryggvagata, davanti all'Harpa."
       },
       {
         nome: "Skyr e pasticcini",

@@ -239,7 +239,7 @@ export const destinazioniCanada: Destinazione[] = [
       {
         nome: "Crociera tra le Mille Isole",
         testo: "Il fiume San Lorenzo esce dal lago Ontario e si divide in 1.864 isole, alcune grandi come un prato con una sola casa. Si vedono ville storiche e rimesse per barche.",
-        come: "Le crociere partono da Gananoque e si prenotano online.",
+        come: "Le crociere partono da Gananoque e da Kingston e si prenotano online.",
         quando: "Nella bella stagione: date sui siti degli operatori. L'estate è piena, l'autunno è più calmo.",
         tempo: "1-3 ore",
         consiglio: "Scegli la crociera lunga se vuoi vedere davvero le isole più interne.",
@@ -770,7 +770,7 @@ export const destinazioniCanada: Destinazione[] = [
     luoghi: [
       {
         nome: "Tundra Buggy e orsi polari",
-        testo: "Veicoli alti con grandi ruote che portano i visitatori nella tundra intorno al paese, dove in autunno gli orsi polari si radunano sulla costa in attesa che il mare ghiacci.",
+        testo: "Veicoli alti con grandi ruote che portano i visitatori nella Churchill Wildlife Management Area, la tundra protetta sulla costa della baia di Hudson, dove in autunno gli orsi polari si radunano sulla costa in attesa che il mare ghiacci.",
         come: "Si prenota con una compagnia autorizzata, come Frontiers North Adventures.",
         quando: "Ottobre e novembre.",
         tempo: "una giornata",

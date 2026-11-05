@@ -48,7 +48,7 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "nome": "Hagia Sophia",
         "testo": "Justinian's basilica, consecrated in 537, then a mosque from 1453, a museum from 1935 and a mosque again since 2020, with Byzantine mosaics beneath the great dome.",
-        "come": "Tram to Sultanahmet. Modest clothing, as in any mosque; access rules for tourists change, so check them beforehand.",
+        "come": "T1 tram to Sultanahmet. Since 15 January 2024 foreign visitors pay for a ticket and go up to the upper galleries, reopened in 2024, while most of the ground floor is reserved for worshippers. Modest clothing; women must cover their heads.",
         "quando": "Early morning, outside prayer times.",
         "tempo": "1-1.5 hours",
         "consiglio": "Check the hours on the official site beforehand, as they change with the access rules.",
@@ -58,8 +58,11 @@ export const destinazioniTurchia: Destinazione[] = [
         "nome": "Blue Mosque and the Hippodrome",
         "testo": "The Sultanahmet Mosque, built between 1609 and 1617, with six minarets and more than twenty thousand Iznik tiles inside. In front, the square of the ancient hippodrome with the Egyptian obelisk.",
         "come": "On foot from Hagia Sophia. Shoes off, shoulders and legs covered; women with the head covered.",
-        "quando": "Outside prayer times, when entry is reserved for worshippers.",
-        "tempo": "45 minutes"
+        "quando": "Open daily 8.30am-7pm from April to September and 8.30am-5pm from October to March, last entry 30 minutes before; on Fridays visits start at 2.30pm. Closed to visitors for the midday and afternoon prayers, from 30 minutes before the call to 15 minutes after the end (2026).",
+        "tempo": "45 minutes",
+        "url": "https://sultanahmetcami.org/",
+        "consiglio": "If your clothes are not suitable, borrow some from the loan counter at the entrance and return them there.",
+        "costo": "Free entry (2026)"
       },
       {
         "nome": "Topkapı Palace and Harem",
@@ -82,8 +85,8 @@ export const destinazioniTurchia: Destinazione[] = [
       },
       {
         "nome": "Grand Bazaar and Spice Bazaar",
-        "testo": "The covered market with thousands of shops selling carpets, ceramics and jewellery; a little further on, the spice market with tea, Turkish sweets and dried fruit.",
-        "come": "Tram to Beyazıt-Kapalıçarşı, or on foot from Hagia Sophia.",
+        "testo": "The covered market with over 4,000 shops selling carpets, ceramics and jewellery; a little further on, the spice market with tea, Turkish sweets and dried fruit.",
+        "come": "T1 tram to Beyazıt-Kapalıçarşı, or on foot from Hagia Sophia.",
         "quando": "In the morning, before the crowds; the Grand Bazaar is closed on Sundays.",
         "tempo": "2 hours",
         "consiglio": "At the Spice Bazaar, taste before you buy."
@@ -91,7 +94,7 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "nome": "Galata Tower",
         "testo": "The Genoese stone tower completed in 1348 above Karaköy, about 63 metres high. From the terrace at the top you see the Golden Horn, the Bosphorus and the historic peninsula with its domes and minarets. Since 2020 it has been a museum.",
-        "come": "Tram to Karaköy, then walk up the narrow streets; or take the historic Tünel funicular.",
+        "come": "T1 tram to Karaköy, then walk up the narrow streets; or take the historic Tünel funicular. Inside, a lift goes to the sixth floor, then stairs climb to the terrace, at about 40 metres.",
         "quando": "Open daily 8:30am-6:30pm, ticket office until about 6:15pm (2026). Best at opening or in the last hour: at midday there is a queue.",
         "tempo": "1 hour",
         "costo": "Price for foreign visitors on the official website",
@@ -442,7 +445,7 @@ export const destinazioniTurchia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Ephesus",
-        "testo": "The great Greco-Roman city with the Library of Celsus (2nd century AD), the great theatre, Curetes Street and the Terrace Houses, Roman homes with mosaics and frescoes under a protective roof.",
+        "testo": "The great Greco-Roman city with the Library of Celsus (2nd century AD), the great theatre for about 24,000-25,000 spectators, Curetes Street and the Terrace Houses, six Roman homes with mosaics and frescoes under a protective roof.",
         "come": "From Selçuk by taxi or dolmuş; the upper entrance saves the climb.",
         "quando": "Open daily 8am-6pm, ticket office until 5:30pm (November 2026). At opening, especially when cruise ships arrive from Kuşadası.",
         "tempo": "2-3 hours",
@@ -468,7 +471,7 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "nome": "Şirince",
         "testo": "A small village of stone houses on a hill, with fruit wines and shops.",
-        "come": "Dolmuş or taxi from Selçuk.",
+        "come": "Dolmuş or taxi from Selçuk, about 7 km.",
         "quando": "Afternoon.",
         "tempo": "1-2 hours",
         "consiglio": "Taste the fruit wines before buying."
@@ -577,7 +580,7 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "nome": "Kayaköy",
         "testo": "A Greek village emptied by the 1923 population exchange, with about 500 ruined stone houses on the slope.",
-        "come": "Dolmuş from Fethiye.",
+        "come": "Dolmuş from Fethiye, about 8 km.",
         "quando": "Morning or afternoon, in low light.",
         "tempo": "1-1.5 hours"
       },

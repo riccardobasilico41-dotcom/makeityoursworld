@@ -41,7 +41,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Barrio Amón",
-          "testo": "Quartiere con case storiche in legno e mattoni, ex dimore dei baroni del caffè, ora con gallerie, caffè e hotel di charme.",
+          "testo": "Quartiere con case in legno e mattoni costruite fra fine Ottocento e inizio Novecento, ex dimore dei baroni del caffè, ora con gallerie, caffè e hotel di charme.",
           "come": "A piedi, a nord del centro.",
           "quando": "Mattina, a luce buona.",
           "tempo": "1-2 ore",
@@ -406,6 +406,15 @@ export const destinazioniCostaRica: Destinazione[] = [
           "come": "A piedi dal lodge con guida.",
           "quando": "Alba.",
           "tempo": "1-2 ore"
+        },
+        {
+          "nome": "Catarata del Toro",
+          "testo": "Una cascata che cade dentro un antico cratere vulcanico, nella foresta di Bajos del Toro, con quattro belvedere in alto. Escursione opzionale.",
+          "come": "In auto o con un tour; si trova circa a metà strada fra l'aeroporto di San José e La Fortuna, su strada asfaltata. Non serve prenotare.",
+          "quando": "Da lunedì a sabato 7-17; chiusa la domenica.",
+          "tempo": "Mezza giornata",
+          "costo": "15 USD (sito ufficiale, 2026).",
+          "url": "https://www.catarata-del-toro.com/"
         }
       ],
       "programmi": [
@@ -492,7 +501,7 @@ export const destinazioniCostaRica: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Cascada de La Fortuna",
-          "testo": "Cascata alta in una gola di foresta, con circa 530 gradini fra discesa e risalita e una pozza per il bagno. Esiste una scheda esperienza dedicata.",
+          "testo": "Cascata di circa 70 metri in una gola di foresta, con circa 530 gradini fra discesa e risalita e una pozza per il bagno. Esiste una scheda esperienza dedicata.",
           "come": "Pochi minuti in auto o taxi dal paese di La Fortuna, poi scale ripide fino alla base.",
           "quando": "Aperta tutti i giorni dalle 7 alle 17; meglio la mattina, con meno folla.",
           "tempo": "2 ore",
@@ -507,6 +516,15 @@ export const destinazioniCostaRica: Destinazione[] = [
           "quando": "Mattina presto: nei fine settimana e nei festivi è pieno.",
           "tempo": "1-2 ore",
           "consiglio": "Non ci sono docce, armadietti né servizi: scarpe da acqua, asciugamano e niente oggetti di valore in auto."
+        },
+        {
+          "nome": "Ponti sospesi di Mistico",
+          "testo": "Un sentiero di circa 3,2 km nella foresta vicino all'Arenal, con 16 ponti, di cui 6 sospesi; i più alti passano a circa 45 metri sopra la foresta.",
+          "come": "In auto o taxi da La Fortuna; si va da soli o con una guida, che va prenotata.",
+          "quando": "Aperto tutti i giorni dalle 6; ultimo ingresso al sentiero alle 15.50. Meglio la mattina presto, per gli animali.",
+          "tempo": "2-3 ore",
+          "costo": "Da 32 USD più tasse da soli, da 44 USD con la guida (sito ufficiale, 2026).",
+          "url": "https://www.misticopark.com/"
         }
       ],
       "programmi": [
@@ -522,7 +540,7 @@ export const destinazioniCostaRica: Destinazione[] = [
           "titolo": "2 giorni",
           "tappe": [
             "Giorno 1: Cascada e terme",
-            "Giorno 2: escursione con vista sul vulcano, canyoning opzionale"
+            "Giorno 2: ponti sospesi di Mistico o escursione con vista sul vulcano, canyoning opzionale"
           ]
         }
       ],
@@ -722,7 +740,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Whale watching",
-          "testo": "Uscita in barca nel Parco Marino Ballena, per avvistare le megattere che vengono qui a riprodursi. Esiste una scheda esperienza dedicata.",
+          "testo": "Uscita in barca nel Parco Marino Ballena, creato nel 1989, per avvistare le megattere che vengono qui a riprodursi. Esiste una scheda esperienza dedicata.",
           "come": "Tour da Uvita con barca di piccole dimensioni.",
           "quando": "Due stagioni: da dicembre ad aprile arrivano le megattere dell'emisfero nord, da luglio a novembre quelle dell'emisfero sud.",
           "tempo": "3 ore",

@@ -545,7 +545,7 @@ export const destinazioniMarocco: Destinazione[] = [
         "nome": "Souk El Had",
         "testo": "Il grande mercato coperto di Agadir, dentro mura con molte porte: frutta, spezie, olio d'argan, ceramiche e vestiti, con molti più marocchini che turisti. È il posto giusto per comprare argan e amlou a prezzi normali.",
         "come": "In taxi dal lungomare.",
-        "quando": "Mattina. Orari e giorno di chiusura da verificare sul posto.",
+        "quando": "Mattina. Chiuso il lunedì; aperto di solito dalle 9 alle 18 (2026), ma i singoli banchi hanno orari propri.",
         "tempo": "1,5-2 ore",
         "consiglio": "Le bancarelle di frutta e verdura sono la parte più viva."
       }

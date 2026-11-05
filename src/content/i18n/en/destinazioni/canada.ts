@@ -230,7 +230,7 @@ export const destinazioniCanada: Destinazione[] = [
       {
         nome: "Thousand Islands cruise",
         testo: "The St. Lawrence leaves Lake Ontario and splits into 1,864 islands, some no bigger than a lawn with a single house. You see historic villas and boathouses.",
-        come: "Cruises leave from Gananoque and are booked online.",
+        come: "Cruises leave from Gananoque and from Kingston and are booked online.",
         quando: "In the warm season: dates on the operators' websites. Summer is full; autumn is quieter.",
         tempo: "1-3 hours",
         consiglio: "Choose the long cruise if you want to see the inner islands.",
@@ -761,7 +761,7 @@ export const destinazioniCanada: Destinazione[] = [
     luoghi: [
       {
         nome: "Tundra Buggy and polar bears",
-        testo: "High vehicles with big wheels carry visitors onto the tundra around the town, where in autumn polar bears gather on the coast waiting for the sea to freeze.",
+        testo: "High vehicles with big wheels carry visitors into the Churchill Wildlife Management Area, the protected tundra on the Hudson Bay coast, where in autumn polar bears gather on the coast waiting for the sea to freeze.",
         come: "Book with an authorised operator such as Frontiers North Adventures.",
         quando: "October and November.",
         tempo: "a full day",

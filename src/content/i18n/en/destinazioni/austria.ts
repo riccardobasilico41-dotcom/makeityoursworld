@@ -48,7 +48,7 @@ export const destinazioniAustria: Destinazione[] = [
       {
         nome: "Schönbrunn Palace",
         testo: "The Habsburgs' summer residence, a UNESCO site, with 1,441 rooms and baroque gardens. The imperial apartments can be visited on several routes.",
-        come: "By metro from the centre to Schönbrunn station. Timed tickets online.",
+        come: "U4 metro to Schönbrunn, or tram 10 or 60 and bus 10A to Schloss Schönbrunn. Timed tickets online.",
         quando: "Palace daily 8:30am-5pm, gardens from 6:30am; early morning to beat the groups.",
         tempo: "3-4 hours",
         costo: "Palace Ticket €42 adults (2026), online only on the official site; gardens free",
@@ -58,7 +58,7 @@ export const destinazioniAustria: Destinazione[] = [
       {
         nome: "Hofburg and Sisi Museum",
         testo: "The imperial palace in the centre, with imperial apartments, the silver collection and the museum dedicated to Sisi. The complex also houses the Spanish Riding School.",
-        come: "In the centre, on foot.",
+        come: "In the centre, on foot; the nearest metro stop is Herrengasse (U3).",
         quando: "Opening times on the official website; the redesigned Sisi Museum reopens on 19 November 2026. Weekday mornings.",
         tempo: "2 hours",
         costo: "Sisi Museum €15, with guided tour of the apartments €33 (2026)",
@@ -68,7 +68,7 @@ export const destinazioniAustria: Destinazione[] = [
       {
         nome: "St Stephen's Cathedral (Stephansdom)",
         testo: "The symbol of Vienna, in Gothic style, with its roof of coloured tiles and the 136-metre south tower, climbed on foot. The unfinished north tower has a platform with the Pummerin bell; beneath the church are the catacombs.",
-        come: "Metro to Stephansplatz. Towers and catacombs are paid: prices on the official website.",
+        come: "U1 or U3 metro to Stephansplatz. Towers and catacombs are paid: prices on the official website.",
         quando: "Tourist visits Mon-Sat 9-11:30am and 1-4:30pm, Sundays and holidays 1-4:30pm, services permitting. Early morning or evening for the light on the roof.",
         tempo: "1 hour",
         url: "https://www.stephanskirche.at",
@@ -80,7 +80,7 @@ export const destinazioniAustria: Destinazione[] = [
         come: "Tram D to Schloss Belvedere. Tickets for the Upper Belvedere.",
         quando: "Daily 9am-6pm; early morning to see 'The Kiss' without crowds.",
         tempo: "2 hours",
-        costo: "Upper Belvedere €23 adults (2026, day price)",
+        costo: "Upper Belvedere €23 adults (2026, day price); free under 19",
         url: "https://www.belvedere.at",
         consiglio: "Discounts and summer hours on the official website."
       },
@@ -97,7 +97,7 @@ export const destinazioniAustria: Destinazione[] = [
       {
         nome: "State Opera (Staatsoper)",
         testo: "One of the most important opera houses in the world. You can visit with a guided tour or attend a performance with very cheap standing tickets.",
-        come: "On the Ring, in the centre, on foot. Standing tickets are sold only on the day of the performance, from 10am.",
+        come: "On the Ring, in the centre: U1, U2 or U4 metro to Karlsplatz, north exit towards the Opera. Standing tickets are sold only on the day of the performance, from 10am.",
         quando: "Evening; buy standing places that same morning, as soon as sales open.",
         tempo: "3 hours",
         url: "https://www.wiener-staatsoper.at",
@@ -106,17 +106,18 @@ export const destinazioniAustria: Destinazione[] = [
       {
         nome: "Prater and Riesenrad",
         testo: "The big park with the 1897 Ferris wheel, famous from the film 'The Third Man'. There are historic rides and the long tree-lined avenue.",
-        come: "By public transport from the centre.",
-        quando: "Afternoon or evening, for the view of the city.",
+        come: "U1 or U2 metro to Praterstern, next to the main entrance.",
+        quando: "Afternoon or evening, for the view of the city. Rides open from mid-March to late October, roughly 11am to 1am; in winter only some of them.",
         tempo: "2 hours",
+        costo: "free entry to the park, rides extra (usually €3.50-8, 2026)",
         url: "https://www.wienerriesenrad.com",
         consiglio: "Ride the wheel at sunset."
       },
       {
         nome: "Naschmarkt",
-        testo: "A large open-air market: stalls of fruit, spices, olives and restaurants.",
-        come: "On foot from the centre, near Karlsplatz.",
-        quando: "Morning; check days and opening times before you go.",
+        testo: "A large open-air market along the Wienzeile: stalls of fruit, spices, olives and restaurants. On Saturdays, towards the Kettenbrücke, there is also a flea market (6:30am-3pm).",
+        come: "On foot from the centre, near Karlsplatz; U4 metro to Kettenbrückengasse.",
+        quando: "Stalls Mon-Fri 6am-9pm and Saturday 6am-6pm (maximum hours set by the city); on Sundays only restaurants and bars open, 9am-9pm. Mornings are best.",
         tempo: "1-2 hours",
         consiglio: "Go in the morning, when the stalls are full."
       }

@@ -50,10 +50,10 @@ export const destinazioniFlorida: Destinazione[] = [
       {
         nome: "Art Deco District di Miami Beach",
         testo: "Un quartiere di edifici Art Déco in colori pastello, lungo Ocean Drive e Collins Avenue. È il centro storico di South Beach.",
-        come: "A piedi lungo Ocean Drive; i tour guidati a piedi partono dall'Art Deco Welcome Center, su Ocean Drive.",
+        come: "A piedi lungo Ocean Drive; i tour guidati a piedi partono ogni giorno dall'Art Deco Welcome Center, al 1001 di Ocean Drive, e durano circa 2 ore.",
         quando: "Al mattino presto o al tramonto, quando i locali sono meno rumorosi. La sera è molto vivace.",
         tempo: "1-2 ore",
-        costo: "Tour guidato a pagamento: prezzo e orari sul sito della MDPL",
+        costo: "Tour guidato 50 $ per adulti (18-64 anni), 40 $ dai 65 anni, gratis fino a 12 anni (MDPL, 2026)",
         url: "https://www.mdpl.org/",
         consiglio: "Ocean Drive di sera è chiassosa e cara. Per vedere gli edifici con calma conviene il mattino.",
       },
@@ -244,7 +244,7 @@ export const destinazioniFlorida: Destinazione[] = [
       {
         nome: "Everglades National Park",
         testo: "Una palude di acque basse ed erba alta, una vasta area selvaggia subtropicale. Ci vivono alligatori, uccelli come aironi e spatole, e in inverno i lamantini.",
-        come: "Il parco ha diversi ingressi. Shark Valley è sulla Tamiami Trail, a ovest di Miami. Nel parco si guida e si cammina sui sentieri su passerelle.",
+        come: "Il parco ha diversi ingressi. Shark Valley è sulla Tamiami Trail, circa 50 km a ovest di Miami. Nel parco si guida e si cammina sui sentieri su passerelle.",
         quando: "Mattina presto, prima del caldo; l'inverno è la stagione secca, la migliore per vedere gli animali.",
         tempo: "mezza giornata",
         costo: "35 $ per veicolo, 7 giorni (NPS). I visitatori non residenti negli USA di 16 anni e più pagano anche 100 $ a persona, a meno di avere il pass annuale (NPS, 2026)",
@@ -253,7 +253,7 @@ export const destinazioniFlorida: Destinazione[] = [
       },
       {
         nome: "Shark Valley",
-        testo: "Un anello asfaltato nella palude, con una torre panoramica a metà percorso. Si fa in bicicletta, a piedi o con il tram guidato.",
+        testo: "Un anello asfaltato di circa 24 km nella palude, con una torre panoramica a metà percorso. Si fa in bicicletta, a piedi o con il tram guidato.",
         come: "Entrata dalla Tamiami Trail. Il tram guidato e il noleggio delle biciclette sono gestiti dal concessionario del parco. Non ci sono mezzi pubblici e con Uber il ritorno non è garantito.",
         quando: "Mattina, per evitare il caldo; in inverno per più fauna.",
         tempo: "2-3 ore",

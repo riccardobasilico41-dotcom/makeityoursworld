@@ -60,7 +60,7 @@ export const destinazioniMontenegro: Destinazione[] = [
       },
       {
         nome: "Risan y los mosaicos romanos",
-        testo: "Uno de los asentamientos más antiguos de la bahía. De época romana quedan los mosaicos del suelo de una villa, el resto más valioso de la ciudad antigua.",
+        testo: "La antigua Rhizon, considerada el asentamiento más antiguo de las Bocas de Kotor. De época romana quedan los mosaicos del suelo de una villa, el resto más valioso de la ciudad antigua.",
         come: "En la carretera de Kotor a Herceg Novi, en la parte más interior de la bahía. La visita dura pocos minutos.",
         quando: "Todo el año, por la mañana.",
         tempo: "30 minutos",
@@ -552,7 +552,7 @@ export const destinazioniMontenegro: Destinazione[] = [
       },
       {
         nome: "Puente de Đurđevića Tara",
-        testo: "Un puente de hormigón de cinco arcos, con la calzada a unos 172 metros sobre el río, terminado en 1940. Durante la guerra los partisanos volaron uno de los arcos.",
+        testo: "Un puente de hormigón de cinco arcos, de 365 metros de largo, con la calzada a unos 172 metros sobre el río, terminado en 1940. Durante la guerra los partisanos volaron uno de los arcos.",
         come: "En la carretera de Žabljak hacia Pljevlja y Mojkovac. La tirolina es de pago.",
         quando: "Por la mañana.",
         tempo: "45 minutos",

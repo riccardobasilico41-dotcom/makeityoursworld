@@ -50,8 +50,8 @@ export const destinazioniBorneo: Destinazione[] = [
     luoghi: [
       {
         nome: "Monte Kinabalu",
-        testo: "4.095 metros, la montaña más alta de Borneo. Se sube en dos días: el primero hasta el refugio de Laban Rata, a más de 3.200 metros, el segundo saliendo de noche para el amanecer sobre el granito desnudo de la cima.",
-        come: "La subida solo se permite con guía registrado (uno cada cinco adultos) y un permiso nominal, que se reserva con meses de antelación junto con la cama en Laban Rata, a través de Sabah Parks u operadores autorizados. Se sale del Timpohon Gate: el sendero de Mesilau está cerrado.",
+        testo: "4.095 metros, la montaña más alta de Borneo. Se sube en dos días: el primero hasta el refugio de Laban Rata, a 3.270 metros, el segundo saliendo de noche para el amanecer sobre el granito desnudo de la cima.",
+        come: "La subida solo se permite con guía registrado (uno cada cinco adultos) y un permiso nominal, que se reserva con meses de antelación junto con la cama en Laban Rata, a través de Sabah Parks u operadores autorizados. Se sale del Timpohon Gate, a 1.866 metros: el sendero de Mesilau está cerrado.",
         quando: "En los meses más secos; con mal tiempo la montaña cierra. Reservar con margen.",
         tempo: "2 días, 1 noche en Laban Rata",
         costo: "Permiso de subida 400 RM para adultos extranjeros, guía 350 RM cada cinco personas, seguro 10 RM (tarifas de Sabah Parks vigentes desde 2023); refugio y entrada al parque aparte.",
@@ -60,7 +60,7 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Kinabalu Park",
-        testo: "El parque, Patrimonio de la UNESCO, tiene una biodiversidad riquísima. Se visita también sin subir a la cima, con senderos en el bosque, orquídeas y un centro botánico.",
+        testo: "El parque, Patrimonio de la UNESCO desde 2000, tiene una biodiversidad riquísima. Se visita también sin subir a la cima, con senderos en el bosque, orquídeas y un centro botánico.",
         come: "En autobús o coche desde Kota Kinabalu hacia Ranau. Senderos a pie desde la sede del parque.",
         quando: "Por la mañana.",
         tempo: "medio día",
@@ -69,7 +69,7 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Poring Hot Springs y canopy walkway",
-        testo: "Aguas termales en otra zona del parque, lejos de la sede principal, con una pasarela colgante entre los árboles de la selva.",
+        testo: "Aguas termales en otra zona del parque, a unos 40 km al sureste de la sede principal, con una pasarela colgante entre los árboles de la selva: unos 158 metros de largo, a 41 metros de altura.",
         come: "En coche o taxi desde el Kinabalu Park.",
         quando: "Por la mañana la pasarela; por la tarde las pozas.",
         tempo: "3 horas",
@@ -296,8 +296,8 @@ export const destinazioniBorneo: Destinazione[] = [
       {
         nome: "Sepilok Orangutan Rehabilitation Centre",
         testo: "Centro que acoge orangutanes huérfanos o confiscados al comercio ilegal, en rehabilitación antes de volver al bosque. Desde las plataformas se ve a los animales llegar a comer tras la ración de fruta.",
-        come: "A las afueras de Sandakan, en taxi o autobús. Se camina por pasarelas de madera hasta la plataforma.",
-        quando: "Tomas de comida por la mañana y por la tarde: horarios actualizados en taquilla, llegar con antelación. Ir a las dos tomas duplica las probabilidades.",
+        come: "A unos 25 km al oeste de Sandakan, en taxi o autobús. Se camina por pasarelas de madera hasta la plataforma.",
+        quando: "Tomas de comida a las 10 y a las 15 (Sabah Wildlife Department): llegar media hora antes y comprobar en taquilla posibles cambios. Ir a las dos tomas duplica las probabilidades.",
         tempo: "2-3 horas",
         costo: "Precios actualizados en taquilla o en la web del Sabah Wildlife Department; llevar efectivo.",
         url: "https://wildlife.sabah.gov.my/",
@@ -323,11 +323,19 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Sandakan Memorial Park",
-        testo: "El lugar del campo de prisioneros japonés de la Segunda Guerra Mundial, de donde partieron las marchas de la muerte hacia Ranau. Un parque con un pequeño museo y un recorrido por el bosque.",
+        testo: "El lugar del campo de prisioneros japonés de la Segunda Guerra Mundial, de donde partieron en 1945 las marchas de la muerte hacia Ranau: murieron unos 2.400 prisioneros aliados y solo sobrevivieron seis australianos, todos evadidos. Un parque con un pequeño museo y un recorrido por el bosque.",
         come: "A pocos kilómetros de Sandakan, en taxi.",
         quando: "Por la mañana.",
         tempo: "1 hora y media",
         consiglio: "No saltárselo por ser «solo un parque»: merece el tiempo."
+      },
+      {
+        nome: "Agnes Keith House",
+        testo: "La casa colonial de Agnes Newton Keith, escritora estadounidense que contó Borneo y su internamiento durante la guerra. Restaurada por el Sabah Museum, está abierta al público desde 2004, con salas sobre la vida de los Keith y sobre el Sandakan colonial de la primera mitad del siglo XX.",
+        come: "En taxi desde el centro de Sandakan.",
+        quando: "Por la tarde.",
+        tempo: "1 hora",
+        consiglio: "Se combina con el Memorial Park el mismo día en Sandakan."
       },
     ],
     programmi: [
@@ -442,6 +450,14 @@ export const destinazioniBorneo: Destinazione[] = [
         quando: "Los elefantes se desplazan mucho: los avistamientos no están garantizados en ningún periodo; preguntar al lodge dónde se han visto últimamente.",
         tempo: "durante las salidas",
         consiglio: "Hacer al menos cuatro o seis salidas: con dos se depende de la suerte."
+      },
+      {
+        nome: "Gomantong Caves",
+        testo: "Cuevas dentro de la colina de Gomantong, el mayor afloramiento calizo del bajo Kinabatangan, con colonias de murciélagos (un recuento de 2012 estimó unos 275.000) y de salanganas. Los nidos se recogen dos veces al año, de febrero a abril y de julio a septiembre, solo por recolectores autorizados. Dentro se recorre una pasarela de madera.",
+        come: "En coche, normalmente con el traslado o una salida del lodge. Se visita la cueva Simud Hitam, a pocos minutos a pie de la entrada; la Simud Putih está cerrada al público.",
+        quando: "Por la tarde, hacia la salida nocturna de los murciélagos.",
+        tempo: "2 horas",
+        consiglio: "Zapatos cerrados y linterna: el suelo está cubierto de guano y el olor es fuerte."
       }
     ],
     programmi: [
@@ -542,7 +558,7 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Árboles emergentes y bosque primario",
-        testo: "Una vasta selva primaria con árboles altísimos. Aquí se midió en 2019 Menara, un meranti amarillo de 97,6 metros: es el árbol tropical vivo más alto conocido.",
+        testo: "Unos 438 km² de selva tropical de llanura casi intacta, con un dosel que en algunos puntos supera los 70 metros. Aquí se midió en 2019 Menara, un meranti amarillo de 97,6 metros: es el árbol tropical vivo más alto conocido.",
         come: "Con senderos y salidas guiadas desde el lodge.",
         quando: "Por la mañana y después de la lluvia.",
         tempo: "medio día",
@@ -652,7 +668,7 @@ export const destinazioniBorneo: Destinazione[] = [
     luoghi: [
       {
         nome: "Sipadan",
-        testo: "Una isla oceánica que se alza desde fondos muy profundos. Las inmersiones están entre las más famosas del mundo, con Barracuda Point, Drop Off y la Turtle Tomb, una cueva bajo la isla con esqueletos de tortugas.",
+        testo: "Una isla oceánica que se alza 600 metros desde el fondo. Las inmersiones están entre las más famosas del mundo, con Barracuda Point, Drop Off y la Turtle Tomb, una cueva bajo la isla con esqueletos de tortugas.",
         come: "Solo con operadores autorizados que tengan permisos de Sabah Parks. En la isla no se duerme: las instalaciones cerraron en 2004 y se sale en barca desde Mabul, Kapalai o Semporna. El número de inmersiones por permiso lo fija Sabah Parks: preguntarlo al operador.",
         quando: "Los permisos diarios tienen cupo y Sabah Parks los asigna a los operadores, que pueden reservarlos hasta con seis meses de antelación. Normalmente la isla cierra en noviembre para proteger el arrecife.",
         tempo: "1 día por permiso",
@@ -662,7 +678,7 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Mabul",
-        testo: "Una pequeña isla famosa por el muck diving: caballitos de mar pigmeos, pulpos mimético, nudibranquios y peces rana en fondos arenosos.",
+        testo: "Una pequeña isla a unos 15 km al norte de Sipadan, famosa por el muck diving: caballitos de mar pigmeos, pulpos mimético, nudibranquios y peces rana en fondos arenosos.",
         come: "Desde los resorts sobre pilotes, en barca para las inmersiones.",
         quando: "Todo el año; preguntar a los operadores por el estado del mar.",
         tempo: "2-3 días",
@@ -802,7 +818,7 @@ export const destinazioniBorneo: Destinazione[] = [
       {
         nome: "Parque nacional de Bako",
         testo: "Un parque junto al mar con monos narigudos, macacos, jabalíes barbudos y farallones de arenisca esculpidos por las olas. Es uno de los mejores lugares de Sarawak para ver monos narigudos.",
-        come: "Autobús desde Kuching hasta Kampung Bako, luego un breve trayecto en barca. Los horarios dependen de la marea.",
+        come: "Desde Kuching (unos 40 km) en autobús hasta Kampung Bako, luego unos 20 minutos de barca. Los horarios dependen de la marea.",
         quando: "Por la mañana, con la marea adecuada.",
         tempo: "1 día",
         consiglio: "Comprobar los horarios de las mareas: se corre el riesgo de quedarse atrapado."
@@ -825,7 +841,7 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Cuevas de Niah",
-        testo: "Cuevas enormes en el norte de Sarawak con huellas de presencia humana de hace decenas de miles de años, pinturas rupestres en la Painted Cave y recolectores de nidos de salangana trabajando en las paredes. Desde 2024 son patrimonio de la UNESCO.",
+        testo: "Cuevas enormes en el norte de Sarawak con restos humanos de hace unos 40.000 años, pinturas rupestres de unos 1.200 años en la Painted Cave y recolectores de nidos de salangana trabajando en las paredes. Desde 2024 son patrimonio de la UNESCO.",
         come: "Desde Miri en coche, luego una pasarela por la selva.",
         quando: "Por la mañana.",
         tempo: "medio día",
@@ -952,7 +968,7 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Clearwater Cave y Wind Cave",
-        testo: "Cuevas a las que se llega en barca por el río. La Clearwater forma parte de un sistema de cuevas muy extenso; la Wind Cave tiene frescas galerías con formaciones.",
+        testo: "Cuevas a las que se llega en barca por el río. La Clearwater es el sistema de cuevas más largo del sudeste asiático, con más de 227 km de galerías exploradas (2018); la Wind Cave tiene frescas galerías con formaciones.",
         come: "En barca desde la sede y luego a pie con guía.",
         quando: "Por la mañana.",
         tempo: "medio día",

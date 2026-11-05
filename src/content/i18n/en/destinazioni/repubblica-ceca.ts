@@ -22,7 +22,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       "Vyšehrad, the hilltop fortress south of the center, less visited than the Castle but with over a thousand years of history (according to the founding legend of Prague, it's where Princess Libuše prophesied its birth) and some of the widest views over the city and the Vltava",
     ],
     cosaFare: [
-      "Stop in Old Town Square on the hour, between 9 and 23, for the procession of the Orloj's mechanical Apostles and the skeleton of Death pulling the rope",
+      "Stop in Old Town Square on the hour, between 8 and 23, for the procession of the Orloj's mechanical Apostles and the skeleton of Death pulling the rope",
       "Cross Charles Bridge early, before 8, to avoid the bulk of the crowd that fills it during the day",
       "Climb the Lesser Town Bridge Tower (Malostranská mostecká věž), at the end of Charles Bridge on the Malá Strana side, for a view from above that is less crowded than the one from the Old Town tower",
       "Walk along the Vyšehrad walls at sunset, for a view of the city that is much quieter than the one from the Castle",
@@ -49,7 +49,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
         nome: "Old Town Square and Orloj",
         testo: "The main square with the Astronomical Clock Tower (1410), one of the oldest astronomical clocks in the world still working. On the hour the skeleton of Death rings the bell and the twelve Apostles parade past the little windows.",
         come: "On foot; the nearest metro stop is Staroměstská. The Orloj can be watched from the square for free.",
-        quando: "On the hour, arriving a few minutes early; the town hall tower has a paid viewpoint.",
+        quando: "Every hour from 8am to 11pm, arriving a few minutes early; the town hall tower has a paid viewpoint.",
         tempo: "1 hour",
         costo: "square and show free",
         url: "https://www.prague.eu",
@@ -66,9 +66,9 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       },
       {
         nome: "Prague Castle and St Vitus Cathedral",
-        testo: "One of the largest castle complexes in the world, with the Gothic St Vitus Cathedral, the Old Royal Palace, St George's Basilica and Golden Lane.",
-        come: "By tram to the stops near the Castle, or on foot uphill from Malá Strana. Tickets at the entrance or online.",
-        quando: "Early morning, at opening; changing of the guard times on the official site.",
+        testo: "For Guinness World Records the largest ancient castle in the world, covering almost 70,000 m² around three courtyards: inside are the Gothic St Vitus Cathedral, the Old Royal Palace, St George's Basilica and Golden Lane.",
+        come: "Tram 22 to the Pražský hrad stop, or on foot uphill from Malá Strana. The complex is open daily 6am-10pm; entering the buildings needs a ticket (at the entrance or online, valid for 2 days).",
+        quando: "Early morning, at opening. Changing of the guard every hour from 9am to 6pm at the gates; the ceremonial one, with fanfare, at noon in the first courtyard.",
         tempo: "3-4 hours",
         url: "https://www.hrad.cz",
         consiglio: "There are several ticket types: compare what each includes on the official site."
@@ -95,7 +95,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       {
         nome: "Vyšehrad",
         testo: "The hilltop fortress to the south, less visited than the Castle, with the Basilica of Saints Peter and Paul and the cemetery of great Czechs (Dvořák, Smetana). The view over the Vltava is excellent.",
-        come: "By public transport from the centre, then on foot.",
+        come: "Metro line C to Vyšehrad, or by tram to Albertov or the Rašínovo nábřeží embankment, then on foot.",
         quando: "Afternoon.",
         tempo: "1.5 hours",
         costo: "park free",
@@ -184,7 +184,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       "Taxis: use a known company or an app rather than hailing one in the street, check the rates shown on the side and avoid unmarked cars.",
       "Pickpockets on trams to the Castle, on transport from the airport and in crowded tourist areas. Be wary of fake plainclothes police asking to see your money and passport.",
       "Trdelník is not a Czech sweet but a tourist product; local bakeries offer better.",
-      "Public transport tickets must be validated before boarding (not those bought from machines on board): without validation you risk an on-the-spot fine."
+      "Public transport tickets must be validated before boarding (not those bought from machines on board): without validation you risk a fine: CZK 1,200 if paid to the inspector on the spot, 1,500 within 15 days, otherwise 2,000 (2026)."
     ],
     esperienzeSlugs: ['praga-castello-biglietto', 'praga-josefov-jewish-town', 'praga-degustazione-birra'],
     tripSlugs: ['praga-weekend'],

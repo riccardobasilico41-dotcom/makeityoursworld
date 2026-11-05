@@ -33,9 +33,9 @@ export const destinazioniBulgaria: Destinazione[] = [
     luoghi: [
       {
         nome: "Comprensorio sciistico di Bansko",
-        testo: "Il comprensorio si raggiunge con una lunga gondola che parte dal paese e sale alla base di Banderishka Polyana; gli impianti salgono in alta quota. Le piste sono più tranquille di quelle alpine. Ci si va per l'esperienza esotica in un angolo d'Europa fuori dai circuiti più noti.",
+        testo: "Il comprensorio si raggiunge con una lunga gondola, in funzione dal 2003, che parte dal paese e sale alla base di Banderishka Polyana; gli impianti arrivano a 2.600 metri e le piste sono circa 75 km. Le piste sono più tranquille di quelle alpine. Ci si va per l'esperienza esotica in un angolo d'Europa fuori dai circuiti più noti.",
         come: "Stazione della gondola a pochi minuti a piedi dal centro; skipass in biglietteria o online.",
-        quando: "Inverno, date della stagione sul sito ufficiale; alla mattina presto la gondola ha code.",
+        quando: "Inverno, date della stagione sul sito ufficiale; gondola 8:30-17, seggiovie 8:45-16:15. Alla mattina presto la gondola ha code.",
         tempo: "giornata intera",
         costo: "prezzi degli skipass sul sito ufficiale",
         url: "https://banskoski.com",
@@ -87,7 +87,7 @@ export const destinazioniBulgaria: Destinazione[] = [
     ],
     attenzioni: [
       "La Bulgaria usa l'euro dal 1° gennaio 2026: confrontare con i prezzi in lev dei vecchi dati.",
-      "Da Sofia: usare transfer prenotati, non taxi di strada.",
+      "Da Sofia sono circa 160 km: usare transfer prenotati, non taxi di strada.",
       "Il comprensorio ha code in alta stagione: arrivare presto alla gondola.",
       "In auto d'inverno serve l'attrezzatura invernale (gomme da neve, catene se richieste)."
     ],

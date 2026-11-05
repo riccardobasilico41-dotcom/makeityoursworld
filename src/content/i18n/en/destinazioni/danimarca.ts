@@ -50,8 +50,8 @@ export const destinazioniDanimarca: Destinazione[] = [
     luoghi: [
       {
         nome: "Nyhavn",
-        testo: "The canal dug in the 17th century, lined with old coloured houses and now a row of cafés and restaurants on the quay. It is one of the most photographed spots in the city, and canal boats leave from here.",
-        come: "Metro to Kongens Nytorv, then a few steps on foot.",
+        testo: "The canal dug between 1670 and 1675 for Christian V, lined with old coloured houses and now a row of cafés and restaurants on the quay. It is one of the most photographed spots in the city, and canal boats leave from here.",
+        come: "Metro M1, M2, M3 or M4 to Kongens Nytorv, then a few steps on foot.",
         quando: "Early morning for photos; evening for tables on the quay, which are pricier.",
         tempo: "1 hour",
         costo: "free entry",
@@ -69,7 +69,7 @@ export const destinazioniDanimarca: Destinazione[] = [
         nome: "Amalienborg",
         testo: "Four identical palaces with rococo interiors around an octagonal square: the residence of the royal family. Every day there is the changing of the guard, which marches over from Rosenborg.",
         come: "On foot from Nyhavn, along the waterfront.",
-        quando: "At the time of the changing of the guard, around the middle of the day.",
+        quando: "At noon, for the changing of the guard; the march sets off from the barracks at Gothersgade 100, next to Rosenborg.",
         tempo: "1 hour",
         costo: "changing of the guard free",
         consiglio: "The dome of the nearby Marble Church can be visited: times on the church's website."
@@ -86,9 +86,10 @@ export const destinazioniDanimarca: Destinazione[] = [
       {
         nome: "Christianshavn and Vor Frelsers Kirke",
         testo: "A district of smaller canals, houseboats and the Church of Our Saviour, famous for its black and gold spire with an outside spiral staircase: you climb first inside the tower, on narrow and steep steps, then outdoors along the spiral, with a view over all of Copenhagen.",
-        come: "Metro to Christianshavn or on foot from the centre.",
-        quando: "A clear day; in bad weather the tower may close.",
+        come: "Metro M1 or M2 to Christianshavn or on foot from the centre.",
+        quando: "A clear day. Tower open daily 9am-8pm, last entry 30 minutes before closing, closed in January; it closes for a while in rain, snow or strong wind, because the copper steps get slippery. There are 400 steps in all, the last 150 outdoors.",
         tempo: "1-2 hours",
+        costo: "tower DKK 70 adults, DKK 20 children (2026)",
         url: "https://www.vorfrelserskirke.dk",
         consiglio: "Book online: places are limited. The last stretch is exposed, not advised if you fear heights."
       },
@@ -105,9 +106,10 @@ export const destinazioniDanimarca: Destinazione[] = [
       {
         nome: "Louisiana Museum of Modern Art",
         testo: "In Humlebæk, north of Copenhagen, a major museum of modern and contemporary art: pavilions on the Øresund with works by Giacometti, Picasso, Warhol and Hockney, and a sculpture garden (Moore, Calder) sloping down to the sea.",
-        come: "Outside the city, north along the coast; how to get there by public transport on the official website.",
-        quando: "All day, with lunch at the cafe with a sea view.",
+        come: "Coastal train from Copenhagen H to Humlebæk (about 40 minutes), then a 10-15 minute walk.",
+        quando: "All day, with lunch at the cafe with a sea view. Open Tue-Fri 11am-10pm, Sat-Sun 11am-6pm, closed on Mondays.",
         tempo: "half a day",
+        costo: "DKK 145 adults (2026)",
         url: "https://www.louisiana.dk",
         consiglio: "Tickets and hours on the official website."
       }
@@ -129,7 +131,7 @@ export const destinazioniDanimarca: Destinazione[] = [
           "Day 1 as above",
           "Day 2: Christianshavn (Vor Frelsers Kirke)",
           "Christiania",
-          "Lunch in the centre",
+          "Lunch at the Torvehallerne food halls, at Nørreport",
           "Evening: Vesterbro"
         ]
       },

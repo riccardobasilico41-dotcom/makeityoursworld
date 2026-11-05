@@ -107,8 +107,8 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
         "tempo": "45 minutos"
       },
       {
-        "nome": "Corniche y Fuente del Rey Fahd",
-        "testo": "El paseo marítimo de la ciudad, con la Fuente del Rey Fahd que se ve desde lejos. Por la noche las familias pasean y hacen pícnic.",
+        "nome": "Corniche, Fuente del Rey Fahd y mezquita Al-Rahma",
+        "testo": "El paseo marítimo de la ciudad, con la Fuente del Rey Fahd, el chorro de agua más alto del mundo según el Guinness (312 metros), y la mezquita Al-Rahma, llamada «flotante» porque está construida en la orilla y con la marea alta parece apoyada sobre el agua. Por la noche las familias pasean y hacen pícnic.",
         "come": "Taxi o Uber desde el centro. Se pasea por el paseo marítimo.",
         "quando": "Atardecer y noche, sobre todo el fin de semana.",
         "tempo": "2 horas",
@@ -397,8 +397,8 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       },
       {
         "nome": "Edge of the World",
-        "testo": "Un largo escarpe sobre la llanura desértica a las afueras de Riad, con vistas muy amplias.",
-        "come": "Con una excursión organizada o un guía local.",
+        "testo": "Un largo escarpe de la cordillera de Tuwaiq sobre la llanura desértica, a unos 100 km de Riad, con vistas muy amplias.",
+        "come": "Con una excursión organizada o un guía local. Quien vaya por su cuenta necesita un 4x4, porque las carreteras son malas, y todo lo necesario: la zona es salvaje y no tiene servicios.",
         "quando": "Mañana o última hora de la tarde.",
         "tempo": "Medio día",
         "consiglio": "Ir con una excursión y mantenerse lejos del borde."
@@ -503,8 +503,8 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     luoghi: [
       {
         "nome": "Rijal Almaa",
-        "testo": "La aldea de casas-torre de piedra, arcilla y madera en las montañas de Asir, con un museo del patrimonio.",
-        "come": "En coche desde Abha, por carretera de montaña.",
+        "testo": "La aldea de unas sesenta casas-torre de piedra, arcilla y madera en las montañas de Asir, algunas de hasta ocho plantas, con un museo del patrimonio de más de dos mil objetos y documentos.",
+        "come": "En coche desde Abha, unos 50 km al oeste, por carretera de montaña.",
         "quando": "Mañana.",
         "tempo": "Medio día"
       },

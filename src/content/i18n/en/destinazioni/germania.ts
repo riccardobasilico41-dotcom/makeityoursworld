@@ -52,11 +52,11 @@ export const destinazioniGermania: Destinazione[] = [
         nome: "Reichstag and dome",
         testo: "Seat of the Bundestag, with the glass dome designed by Norman Foster and completed in 1999. A spiral ramp winds up and down inside the dome, with views of the city and of the parliament chamber below.",
         come: "Free entry with mandatory registration on the Bundestag website (name and date of birth of every visitor). At the entrance, security checks and original photo ID.",
-        quando: "Evening, for the city lights; opening times and entry slots on the Bundestag website. Register several days ahead.",
+        quando: "Evening, for the city lights; entry every quarter of an hour, last admission 9:45pm (closed on 24 December). Register several days ahead.",
         tempo: "1.5 hours",
         costo: "free entry, registration required",
         url: "https://www.bundestag.de",
-        consiglio: "There is an audio guide in the dome that describes the surrounding buildings."
+        consiglio: "There is a 20-minute audio guide in the dome, in twelve languages, that describes the surrounding buildings."
       },
       {
         nome: "Brandenburg Gate",
@@ -71,7 +71,7 @@ export const destinazioniGermania: Destinazione[] = [
         nome: "Holocaust Memorial",
         testo: "A field of over 2,700 concrete stelae by Peter Eisenman, in which you walk in a disorienting landscape. Below the memorial is an information centre with personal stories.",
         come: "On foot from the Brandenburg Gate.",
-        quando: "The field is open day and night; opening times of the (free) information centre on the official website.",
+        quando: "The field is open day and night; the (free) information centre is open Tue-Sun 10am-6pm, last entry 45 minutes before closing, closed on Mondays.",
         tempo: "1 hour",
         costo: "free entry",
         url: "https://www.stiftung-denkmal.de",
@@ -80,8 +80,8 @@ export const destinazioniGermania: Destinazione[] = [
       {
         nome: "Berlin Wall Memorial (Bernauer Straße)",
         testo: "A preserved stretch of the Wall, with the original death strip, the watchtower and the documentation centre. A walkway above the strip shows what the division was like.",
-        come: "S-Bahn to Nordbahnhof or U-Bahn to Bernauer Straße.",
-        quando: "Morning. Opening times of the outdoor exhibition and the documentation centre on the official website.",
+        come: "S-Bahn S1, S2, S25 or S26 to Nordbahnhof, or U-Bahn U8 to Bernauer Straße.",
+        quando: "Morning. The outdoor exhibition is open daily 8am-10pm; documentation centre and visitor centre Tue-Sun 10am-6pm.",
         tempo: "1.5-2 hours",
         costo: "free entry",
         url: "https://www.stiftung-berliner-mauer.de",
@@ -91,7 +91,7 @@ export const destinazioniGermania: Destinazione[] = [
         nome: "Topography of Terror",
         testo: "The documentation centre on the site of the former Gestapo and SS headquarters. The exhibition explains how Nazi repression worked.",
         come: "On foot from Potsdamer Platz.",
-        quando: "Opening times on the official website.",
+        quando: "Daily 10am-8pm; outdoor areas until dusk, 8pm at the latest.",
         tempo: "1.5-2 hours",
         costo: "free entry",
         url: "https://www.topographie.de",
@@ -100,16 +100,16 @@ export const destinazioniGermania: Destinazione[] = [
       {
         nome: "Museum Island",
         testo: "A UNESCO site since 1999, with five museums including the Neues Museum (with the bust of Nefertiti), the Altes Museum and the Alte Nationalgalerie. The Pergamonmuseum has been fully closed since 2023: the north wing with the Pergamon Altar reopens on 4 June 2027, the south wing with the Ishtar Gate around 2037. Meanwhile, Pergamonmuseum. Das Panorama, opposite the island, shows the panorama of ancient Pergamon.",
-        come: "By public transport to the stops near the island, then on foot. Single and combined tickets on the official website.",
-        quando: "Weekday mornings. Opening times and closing days of each museum on the official website.",
+        come: "U-Bahn to Museumsinsel or S-Bahn to Hackescher Markt or Friedrichstraße, then on foot; the Neues Museum entrance is through the James-Simon-Galerie. Single and combined tickets on the official website.",
+        quando: "Weekday mornings. The Neues Museum is open Tue-Sun 10am-6pm, closed on Mondays; opening times of the other museums on the official website.",
         tempo: "half a day",
         url: "https://www.smb.museum",
         consiglio: "Nefertiti is in the north dome hall of the Neues Museum: tickets and prices on the official website."
       },
       {
         nome: "East Side Gallery",
-        testo: "A long stretch of the Wall still standing along the Spree in Friedrichshain, painted in 1990 by artists from many countries: one of the best-known open-air galleries in the world.",
-        come: "Walk it along the Spree, up to the Oberbaumbrücke.",
+        testo: "1,316 metres of the Wall still standing along the Spree in Friedrichshain, the longest surviving stretch, painted in spring 1990 by 118 artists from 21 countries: one of the largest open-air art galleries in the world.",
+        come: "On Mühlenstraße, between Ostbahnhof station and the Oberbaumbrücke: walk it along the Spree.",
         quando: "Morning or late evening, with fewer people.",
         tempo: "1-1.5 hours",
         costo: "free entry",
@@ -117,7 +117,7 @@ export const destinazioniGermania: Destinazione[] = [
       },
       {
         nome: "Mauerpark",
-        testo: "A park on the old line of the Wall, known for its Sunday flea market and for Bearpit Karaoke on Sunday afternoons, weather permitting, from spring to autumn.",
+        testo: "A park on the old line of the Wall, known for its flea market, held every Sunday since 2004, and for Bearpit Karaoke on Sunday afternoons, weather permitting, from spring to autumn.",
         come: "On foot from the Berlin Wall Memorial on Bernauer Straße.",
         quando: "Sunday.",
         tempo: "2 hours",

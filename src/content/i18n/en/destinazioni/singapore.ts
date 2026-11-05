@@ -385,7 +385,7 @@ export const destinazioniSingapore: Destinazione[] = [
       {
         nome: "MacRitchie Reservoir and TreeTop Walk",
         testo: "A reservoir surrounded by rainforest, with trails and a 250-metre suspension bridge, 25 metres high at its highest point, crossing the tree canopy. Macaques, monitor lizards and squirrels along the trails.",
-        come: "By bus or taxi to the park entrance. The bridge can only be reached on foot, along several kilometres of forest trail.",
+        come: "By bus or taxi to the park entrance. The bridge can only be reached on foot, along several kilometres of forest trail: the park's routes range from 3 to 11 km.",
         quando: "Early in the morning, for the cool and to be in time: the TreeTop Walk is closed on Mondays (except public holidays), has daytime opening hours and is walked one way only. Hours on the NParks website.",
         tempo: "3-4 hours",
         costo: "free",
@@ -394,7 +394,7 @@ export const destinazioniSingapore: Destinazione[] = [
       },
       {
         nome: "Bukit Timah Nature Reserve",
-        testo: "Primary rainforest around the island's highest hill. It's one of the largest areas of primary forest left in Singapore, with macaques and birds.",
+        testo: "Primary rainforest around the island's highest hill, about 165 metres. It's one of the largest areas of primary forest left in Singapore, with macaques and birds.",
         come: "By MRT and bus, or by taxi. Marked trails of various lengths, with steps and slopes.",
         quando: "Early morning.",
         tempo: "2-3 hours",
@@ -405,7 +405,7 @@ export const destinazioniSingapore: Destinazione[] = [
       {
         nome: "Pulau Ubin",
         testo: "An island about ten minutes away by boat, where a few dozen people still live in the wooden houses of the old kampong. There's no public transport: you rent a bike and ride among mangroves, flooded old granite quarries and trails.",
-        come: "Bumboat from Changi Point Ferry Terminal. The boat leaves when it has twelve passengers, or you can pay for the whole boat. Bikes for rent on the island.",
+        come: "Bumboat from Changi Point Ferry Terminal. The crossing takes about 10 minutes and the boat leaves when it has twelve passengers: SGD 4 per person each way, or SGD 48 for the whole boat (fares in force since 2020). Bikes for rent on the island.",
         quando: "In the morning. The last boat back is in the evening: check the time on arrival.",
         tempo: "half a day",
         consiglio: "Rent a bike and head to Chek Jawa, the wetland with the boardwalk over the sea."

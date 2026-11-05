@@ -56,7 +56,7 @@ export const destinazioniLettonia: Destinazione[] = [
     luoghi: [
       {
         nome: "Cattedrale di Riga e Piazza del Duomo",
-        testo: "Considerata tra le più grandi chiese medievali dei Paesi baltici, fondata nel 1211, con un grande organo storico. La piazza è circondata da caffè.",
+        testo: "Considerata tra le più grandi chiese medievali dei Paesi baltici, fondata nel 1211, con l'organo Walcker inaugurato nel 1884, 6.718 canne. La piazza è circondata da caffè.",
         come: "A piedi dalla Città Vecchia.",
         quando: "Mattina.",
         tempo: "1 ora",
@@ -220,12 +220,12 @@ export const destinazioniLettonia: Destinazione[] = [
     luoghi: [
       {
         nome: "Spiaggia di Jūrmala",
-        testo: "Una spiaggia di sabbia bianca di quarzo lunga e continua, sulla costa del Golfo di Riga.",
+        testo: "Una spiaggia di sabbia bianca di quarzo lunga 33 km, sulla costa del Golfo di Riga.",
         come: "Treno da Riga a Majori, sulla linea Riga-Tukums.",
         quando: "Estate, quando fa caldo; d'inverno è deserta e suggestiva.",
         tempo: "mezza giornata",
         costo: "ingresso libero",
-        consiglio: "Il treno è più comodo dell'auto: chi non è residente paga un pedaggio per entrare a Jūrmala con il veicolo."
+        consiglio: "Il treno è più comodo dell'auto: chi non è residente paga un pedaggio per entrare a Jūrmala con il veicolo, tutto l'anno: 5 € al giorno per un'auto (2026)."
       },
       {
         nome: "Jomas iela",
@@ -266,7 +266,7 @@ export const destinazioniLettonia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Per entrare a Jūrmala in auto i non residenti pagano un pedaggio: la gita in treno è più semplice.",
+      "Per entrare a Jūrmala in auto i non residenti pagano un pedaggio tutto l'anno, 5 € al giorno (2026): la gita in treno è più semplice.",
       "La spiaggia ha il vento: portare una felpa anche d'estate.",
       "Nei weekend estivi i ristoranti sono pieni: prenotare."
     ],

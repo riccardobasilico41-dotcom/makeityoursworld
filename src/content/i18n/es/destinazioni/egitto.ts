@@ -65,7 +65,7 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Ciudadela de Saladino y mezquita de Muhammad Ali",
-        "testo": "La fortaleza mandada construir por Saladino en el siglo XII, en la colina que domina la ciudad, con la mezquita otomana de Muhammad Ali. Desde el borde, en los días despejados, la vista llega hasta las pirámides.",
+        "testo": "La fortaleza que Saladino mandó empezar en 1176, en la colina que domina la ciudad, con la mezquita otomana de Muhammad Ali. Desde el borde, en los días despejados, la vista llega hasta las pirámides.",
         "come": "Taxi o Uber hasta la entrada. Se camina dentro de la ciudadela, con calzado cómodo.",
         "quando": "Abierta todos los días de 8 a 17 (2026). Por la tarde hay mejor luz.",
         "tempo": "2 horas",
@@ -204,7 +204,7 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Saqqara",
-        "testo": "La pirámide escalonada de Zoser, considerada la primera gran construcción de piedra tallada, y las tumbas de los nobles, como la mastaba de Mereruka, con relieves muy bellos.",
+        "testo": "La pirámide escalonada de Zoser, considerada la primera gran construcción de piedra tallada, y las tumbas de los nobles, como las mastabas de Mereruka y de Ti, alto funcionario de la V dinastía, con relieves muy bellos de agricultura, pesca, caza en los pantanos y construcción de barcos. La mastaba de Ti no aparece en las entradas oficiales: preguntar en taquilla si está abierta.",
         "come": "En coche con conductor desde Guiza o El Cairo.",
         "quando": "Abierto todos los días de 8 a 16 (2026). Mejor por la mañana.",
         "tempo": "2-3 horas",
@@ -367,10 +367,10 @@ export const destinazioniEgitto: Destinazione[] = [
         "nome": "Medinet Habu y Colosos de Memnón",
         "testo": "El templo de Ramsés III, con relieves aún coloreados y menos visitantes que los grandes templos, cerca de los dos colosos de Amenhotep III que vigilan la llanura.",
         "come": "En la orilla oeste, en taxi con las otras paradas.",
-        "quando": "Media mañana o última hora de la tarde.",
+        "quando": "Medinet Habu abierto todos los días de 6 a 17 (2026). Media mañana o última hora de la tarde.",
         "tempo": "1-1,5 horas",
         "consiglio": "Medinet Habu suele pasarse por alto, pero merece la parada.",
-        "costo": "Medinet Habu es de pago: precios en la web oficial egymonuments.gov.eg o en taquilla; los Colosos se ven desde la carretera"
+        "costo": "Medinet Habu 230 EGP adultos extranjeros, 110 estudiantes (2026); los Colosos se ven desde la carretera"
       }
     ],
     programmi: [
@@ -473,8 +473,8 @@ export const destinazioniEgitto: Destinazione[] = [
     luoghi: [
       {
         "nome": "Abu Simbel",
-        "testo": "Los dos templos de Ramsés II y Nefertari excavados en la roca, con las estatuas colosales en la entrada. En los años sesenta se cortaron en bloques y se trasladaron para salvarlos del lago Nasser. El 22 de febrero y el 22 de octubre el sol entra hasta el santuario.",
-        "come": "Desde Asuán por carretera, saliendo antes del amanecer, o en avión.",
+        "testo": "Los dos templos de Ramsés II y Nefertari excavados en la roca, con las estatuas colosales en la entrada. Entre 1963 y 1968 se cortaron en bloques y se trasladaron para salvarlos del lago Nasser. El 22 de febrero y el 22 de octubre el sol entra hasta el santuario.",
+        "come": "Desde Asuán unos 300 km por carretera, saliendo antes del amanecer, o en avión.",
         "quando": "Abierto todos los días de 6 a 17 (2026). Llegar a la apertura, antes de los autobuses de grupos.",
         "tempo": "1,5-2 horas en el lugar",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/abu-simbel/",
@@ -489,6 +489,14 @@ export const destinazioniEgitto: Destinazione[] = [
         "tempo": "1,5 horas",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/philae/",
         "costo": "550 EGP adultos extranjeros, 275 estudiantes, más la barca desde el muelle, a acordar (2026)"
+      },
+      {
+        "nome": "Aldea nubia de Gharb Soheil",
+        "testo": "Una aldea nubia en la orilla oeste del Nilo, a pocos kilómetros de la presa de Asuán, nacida hace cerca de un siglo cuando la antigua presa de 1902 inundó las aldeas más al sur. Las familias nubias reciben a los visitantes en casa para comer y, si se quiere, para dormir.",
+        "come": "Desde Asuán: preguntar en el hotel o en el embarcadero cómo llegar y acordar el precio antes.",
+        "quando": "Por la tarde, con regreso al atardecer.",
+        "tempo": "2-3 horas",
+        "consiglio": "Comer o cenar en una casa nubia es la mejor manera de conocer la zona."
       },
       {
         "nome": "Falúa al atardecer",
@@ -523,7 +531,7 @@ export const destinazioniEgitto: Destinazione[] = [
     sapori: [
       {
         "nome": "Cocina nubia",
-        "testo": "Platos especiados de pollo, pescado y arroz, en las aldeas nubias de los alrededores de Asuán."
+        "testo": "Platos especiados de pollo, pescado y arroz, en las aldeas nubias de los alrededores de Asuán, como Gharb Soheil."
       },
       {
         "nome": "Karkadé",
@@ -603,8 +611,8 @@ export const destinazioniEgitto: Destinazione[] = [
         "tempo": "1 hora"
       },
       {
-        "nome": "Desierto, lagos salados y manantiales",
-        "testo": "Excursión en todoterreno hacia el Gran Mar de Arena con sandboard, atardecer en las dunas y baño en los manantiales y los lagos salados.",
+        "nome": "Desierto, lagos salados y manantial de Cleopatra",
+        "testo": "Excursión en todoterreno hacia el Gran Mar de Arena con sandboard, atardecer en las dunas y baño en los manantiales, como el antiguo manantial natural llamado Baño de Cleopatra, y en los lagos salados.",
         "come": "Solo con un operador local, que tiene el permiso para el desierto.",
         "quando": "Tarde, con regreso al atardecer.",
         "tempo": "Medio día",
@@ -616,7 +624,7 @@ export const destinazioniEgitto: Destinazione[] = [
         "titolo": "3 días",
         "tappe": [
           "Día 1: llegada, fortaleza de Shali, atardecer",
-          "Día 2: Aghurmi, manantiales, desierto y noche en tienda",
+          "Día 2: Aghurmi, Baño de Cleopatra, desierto y noche en tienda",
           "Día 3: bicicleta por el oasis, regreso"
         ]
       }
@@ -697,9 +705,9 @@ export const destinazioniEgitto: Destinazione[] = [
     luoghi: [
       {
         "nome": "Hurghada",
-        "testo": "Uno de los principales destinos turísticos de la costa, con excursiones en barco para hacer snorkel en las islas y arrecifes de alta mar.",
+        "testo": "Uno de los principales destinos turísticos de la costa, con excursiones en barco para hacer snorkel y buceo en las islas Giftun y los arrecifes de alta mar.",
         "come": "Excursiones que se reservan con un operador local desde el propio hotel.",
-        "quando": "Todo el año, con el agua más fresca en invierno.",
+        "quando": "Todo el año; de diciembre a marzo el agua baja a 21-23 °C, en agosto llega a 28 °C.",
         "tempo": "Un día"
       },
       {
@@ -767,7 +775,7 @@ export const destinazioniEgitto: Destinazione[] = [
       "No tocar ni pisar el coral y no llevarse conchas ni corales.",
       "Del Sinaí a Luxor casi siempre hace falta un vuelo vía El Cairo: no contar con la carretera.",
       "Para los cruceros de buceo preguntar al operador qué titulación y experiencia piden.",
-      "En invierno el agua está más fresca y suele haber viento: hace falta un neopreno más grueso.",
+      "De diciembre a marzo el agua está a unos 21-23 °C y suele haber viento: hace falta un neopreno más grueso.",
       "Sinaí: el gobierno británico (octubre de 2026) desaconseja cualquier viaje al Sinaí del Norte y los no esenciales al interior del Sinaí del Sur más allá de la carretera Santa Catalina-Nuweiba; las costas, incluida Sharm el-Sheij, quedan fuera."
     ],
     // GUIDA-END

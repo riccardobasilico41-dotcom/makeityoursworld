@@ -41,7 +41,7 @@ export const destinazioniSvizzera: Destinazione[] = [
       {
         nome: "Harder Kulm",
         testo: "El mirador sobre Interlaken, a 1.322 metros, con vistas a los dos lagos y, en día claro, al Eiger, Mönch y Jungfrau. Arriba hay una plataforma panorámica y un restaurante en un edificio con aire de castillo.",
-        come: "Funicular desde la estación Harder Bahn, cerca de Interlaken Ost.",
+        come: "Funicular desde la estación Harder Bahn, cerca de Interlaken Ost: unos 10 minutos de subida.",
         quando: "Final de la tarde por la luz sobre los lagos. Solo funciona en temporada: fechas en la web oficial.",
         tempo: "2 horas",
         consiglio: "Mirar las webcams antes de subir: con nubes bajas la vista desaparece."
@@ -278,7 +278,7 @@ export const destinazioniSvizzera: Destinazione[] = [
       {
         nome: "First y el Cliff Walk",
         testo: "Desde Grindelwald el teleférico sube a First, a 2.166 metros, con vistas al Eiger, Mönch y Jungfrau. El Cliff Walk es una pasarela metálica de 45 metros colgada sobre el vacío, a lo largo de la pared.",
-        come: "Teleférico desde Grindelwald, con varios tramos. El Cliff Walk está incluido en la entrada.",
+        come: "Teleférico desde Grindelwald, unos 25 minutos con paradas en Bort y Schreckfeld. El Cliff Walk está incluido en la entrada.",
         quando: "Por la mañana, con el cielo más despejado. Cierres y horarios varían según la temporada.",
         tempo: "2-3 horas",
         costo: "Precios en la web oficial; descuentos con Swiss Travel Pass o Half Fare Card.",
@@ -396,7 +396,7 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "Ascensor rápido desde la estación (Top of Europe) a la plataforma.",
         quando: "Por la mañana, con menos nubes. Cerrada con viento fuerte o tormenta.",
         tempo: "45 minutos",
-        costo: "Billete caro, con precios que cambian según la fecha y la temporada; descuentos con Swiss Travel Pass o Half Fare Card. Precios y ofertas en la web oficial.",
+        costo: "Billete caro, con precios que cambian según la fecha y la temporada; descuentos con Swiss Travel Pass o Half Fare Card. Asiento reservado 10 CHF; el Good Morning Ticket del primer tren tiene un 15% de descuento del 1 de mayo al 31 de octubre de 2026. Precios y ofertas en la web oficial.",
         url: "https://www.jungfrau.ch/",
         consiglio: "Mirar la webcam antes de salir: en días cubiertos no se ve nada."
       },
@@ -418,7 +418,7 @@ export const destinazioniSvizzera: Destinazione[] = [
       },
       {
         nome: "Parada Eismeer",
-        testo: "En la subida el tren va en túnel por dentro del Eiger y del Mönch y para en la estación Eismeer, a unos 3.160 metros. Desde ventanales excavados en la roca se mira el glaciar de abajo. Dura pocos minutos, pero es cuando se entiende la hazaña del ferrocarril, terminado en 1912.",
+        testo: "En la subida el tren va en túnel por dentro del Eiger y del Mönch y para en la estación Eismeer, a unos 3.160 metros. Desde ventanales excavados en la roca se mira el glaciar de abajo. La parada dura unos 5 minutos, pero es cuando se entiende la hazaña del ferrocarril, terminado en 1912.",
         come: "Parada breve incluida en el viaje, solo en la subida.",
         quando: "Todo el año.",
         tempo: "pocos minutos",
@@ -541,7 +541,7 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "Teleférico desde Stechelberg (valle) o desde Mürren, en varios tramos.",
         quando: "Por la mañana, con la mejor luz. Cerrado con viento fuerte.",
         tempo: "2-3 horas",
-        costo: "Precios en la web oficial, según la estación de salida; grandes descuentos con el Swiss Travel Pass.",
+        costo: "Ida y vuelta 115 CHF desde Stechelberg y 91,40 CHF desde Mürren, válidos hasta el 12/12/2026 (web oficial); grandes descuentos con el Swiss Travel Pass.",
         url: "https://www.schilthorn.ch/",
         consiglio: "Desde el valle la subida es más larga pero da vistas de las paredes."
       },

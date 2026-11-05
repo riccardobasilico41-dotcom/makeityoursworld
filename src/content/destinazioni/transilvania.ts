@@ -34,7 +34,7 @@ export const destinazioniTransilvania: Destinazione[] = [
     luoghi: [
       {
         nome: "Palazzo del Parlamento",
-        testo: "Un edificio enorme, voluto da Ceaușescu negli anni Ottanta dopo la demolizione di una vasta parte del vecchio centro. Si visita solo con tour guidato, tra sale di marmo, lampadari e tappeti giganti.",
+        testo: "Un edificio enorme, voluto da Ceaușescu e costruito tra il 1984 e il 1997 dopo la demolizione di una vasta parte del vecchio centro: 365.000 m², considerato l'edificio più pesante del mondo. Si visita solo con tour guidato, tra sale di marmo, lampadari e tappeti giganti.",
         come: "Ingresso visitatori indicato sul sito ufficiale. Portare il passaporto e prenotare in anticipo.",
         quando: "Mattina nei giorni feriali; le sale di rappresentanza possono essere chiuse per eventi.",
         tempo: "1-1,5 ore",
@@ -150,11 +150,11 @@ export const destinazioniTransilvania: Destinazione[] = [
         nome: "Castello di Peleș",
         testo: "Residenza estiva di Carlo I, re di Romania, costruita tra il 1873 e il 1914 in stile neorinascimentale tedesco. Per architettura è forse il castello più bello del viaggio, con interni curati nei minimi dettagli.",
         come: "Da Bucarest a Sinaia; dal centro di Sinaia si sale a piedi.",
-        quando: "Mattina presto, per evitare la ressa. Chiuso dal 2 novembre al 1° dicembre 2026 per pulizie e conservazione; giorni di chiusura settimanali sul sito.",
+        quando: "Mattina presto, per evitare la ressa. Chiuso dal 2 novembre al 1° dicembre 2026 per pulizie e conservazione. Chiuso lunedì e martedì; mercoledì 10-17, giovedì-domenica 9:15-17, ultimo ingresso alle 16.",
         tempo: "1,5 ore",
-        costo: "biglietti sul sito ufficiale",
+        costo: "100 lei adulti, piano terra e primo piano (2026)",
         url: "https://peles.ro",
-        consiglio: "Se c'è la visita al piano superiore, vale il biglietto in più."
+        consiglio: "I biglietti, su bilete.peles.ro, hanno una fascia oraria e non si possono spostare."
       },
       {
         nome: "Monastero di Sinaia",
@@ -169,8 +169,9 @@ export const destinazioniTransilvania: Destinazione[] = [
         nome: "Castello di Bran",
         testo: "La fortezza sulla roccia, documentata dal 1377, famosa per il legame con Dracula. In realtà il legame è più un'invenzione turistica che un fatto storico, ma il castello vale la visita anche da solo.",
         come: "A sud-ovest di Brașov, in auto. Biglietti sul sito ufficiale.",
-        quando: "Mattina presto; orari sul sito ufficiale.",
+        quando: "Mattina presto; il lunedì apre alle 12, gli altri giorni alle 9. Chiude alle 19 da aprile a ottobre, alle 18 da novembre a marzo.",
         tempo: "1-1,5 ore",
+        costo: "100 lei adulti, visita standard (novembre-dicembre 2026); spesso esaurito: meglio online",
         url: "https://www.bran-castle.com",
         consiglio: "Il castello non ha mai ospitato Vlad l'Impalatore: il legame con Dracula è nato per il turismo."
       },
@@ -191,7 +192,7 @@ export const destinazioniTransilvania: Destinazione[] = [
     ],
     attenzioni: [
       "Mattina presto: i castelli si riempiono di gruppi in tarda mattinata.",
-      "Per Bran e Peleș controllare biglietti e chiusure sui siti ufficiali."
+      "Peleș è chiuso il lunedì e il martedì; Bran il lunedì apre solo alle 12. Biglietti sui siti ufficiali."
     ],
     esperienzeSlugs: ['castello-peles', 'castello-bran'],
     tripSlugs: ['transilvania-express'],
@@ -237,7 +238,7 @@ export const destinazioniTransilvania: Destinazione[] = [
       },
       {
         nome: "Chiesa Nera (Biserica Neagră)",
-        testo: "Una grande chiesa gotica, costruita tra Tre e Quattrocento e annerita dall'incendio del 1689. Ha un grande organo ottocentesco e una ricca collezione di tappeti orientali.",
+        testo: "La principale chiesa gotica della Romania, iniziata nel 1383 e completata nel Quattrocento. Ha un organo Buchholz del 1839 con circa 4.000 canne e la più grande collezione di «tappeti transilvani», tappeti anatolici donati dai mercanti sassoni tra Quattro e Seicento.",
         come: "A piedi dalla Piața Sfatului.",
         quando: "Mattina.",
         tempo: "45 minuti",
@@ -328,7 +329,7 @@ export const destinazioniTransilvania: Destinazione[] = [
     luoghi: [
       {
         nome: "Cittadella di Sighișoara e Torre dell'Orologio",
-        testo: "Una delle ultime cittadelle medievali abitate d'Europa, patrimonio UNESCO dal 1999. La Torre dell'Orologio ospita un museo di storia, con vista sulla città.",
+        testo: "Una delle ultime cittadelle medievali abitate d'Europa, patrimonio UNESCO dal 1999. La Torre dell'Orologio, alta 64 metri, ospita dal 1898 il Museo di storia, con vista sulla città.",
         come: "A piedi dal parcheggio in basso; vicoli ripidi.",
         quando: "Mattina presto, quando è tranquilla.",
         tempo: "2 ore",
@@ -356,9 +357,9 @@ export const destinazioniTransilvania: Destinazione[] = [
         nome: "Salina Turda",
         testo: "Una miniera di sale che oggi è un parco sotterraneo, con un lago sotterraneo, un ascensore panoramico, la sala dell'eco e un antico argano ancora al suo posto. È stata una delle sorprese più belle del viaggio.",
         come: "In auto da Sighișoara. Biglietti all'ingresso o online.",
-        quando: "Mattina; gruppi numerosi nel weekend.",
+        quando: "Tutti i giorni 9-17, ultimo ingresso 16:20; gruppi numerosi nel weekend.",
         tempo: "2 ore",
-        costo: "tariffe sul sito ufficiale",
+        costo: "75 lei dal lunedì al venerdì, 90 nel weekend e festivi (2026); guida su richiesta 205 lei",
         url: "https://salinaturda.eu",
         consiglio: "Vestirsi a strati: dentro la temperatura è bassa tutto l'anno."
       }
@@ -443,7 +444,7 @@ export const destinazioniTransilvania: Destinazione[] = [
       },
       {
         nome: "Lago Bâlea",
-        testo: "Il lago di montagna in quota sulla Transfăgărășan, con rifugi. D'estate si arriva in auto, nel resto dell'anno con la funivia da Bâlea Cascadă.",
+        testo: "Il lago glaciale a 2.034 metri sulla Transfăgărășan, con rifugi. D'estate si arriva in auto, nel resto dell'anno con la funivia da Bâlea Cascadă.",
         come: "In auto lungo la strada.",
         quando: "Estate, con cielo sereno.",
         tempo: "1 ora",
@@ -451,7 +452,7 @@ export const destinazioniTransilvania: Destinazione[] = [
       },
       {
         nome: "Diga di Vidraru",
-        testo: "Una grande diga ad arco sul fiume Argeș, con un grande lago artificiale. Una sosta panoramica sul lato sud della Transfăgărășan.",
+        testo: "Una diga ad arco alta 166 metri, completata nel 1966, sul fiume Argeș, con un grande lago artificiale. Una sosta panoramica sul lato sud della Transfăgărășan.",
         come: "In auto lungo la strada.",
         quando: "Giorno.",
         tempo: "30 minuti",

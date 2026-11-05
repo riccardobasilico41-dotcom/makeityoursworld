@@ -48,10 +48,10 @@ export const destinazioniFlorida: Destinazione[] = [
       {
         nome: "Art Deco District of Miami Beach",
         testo: "A district of Art Deco buildings in pastel colours along Ocean Drive and Collins Avenue. It is the historic centre of South Beach.",
-        come: "On foot along Ocean Drive; guided walking tours start from the Art Deco Welcome Center on Ocean Drive.",
+        come: "On foot along Ocean Drive; guided walking tours start daily from the Art Deco Welcome Center, 1001 Ocean Drive, and last about 2 hours.",
         quando: "Early morning or sunset, when the bars are quieter. The evening is very lively.",
         tempo: "1-2 hours",
-        costo: "Paid guided tour: price and times on the MDPL website",
+        costo: "Guided tour $50 for adults (18-64), $40 for 65+, free up to age 12 (MDPL, 2026)",
         url: "https://www.mdpl.org/",
         consiglio: "Ocean Drive at night is loud and pricey. To see the buildings in peace the morning is better.",
       },
@@ -242,7 +242,7 @@ export const destinazioniFlorida: Destinazione[] = [
       {
         nome: "Everglades National Park",
         testo: "A marsh of shallow water and tall sawgrass, a vast subtropical wilderness. Alligators live here, with birds such as herons and spoonbills, and manatees in winter.",
-        come: "The park has several entrances. Shark Valley is on the Tamiami Trail, west of Miami. In the park you drive and walk trails on boardwalks.",
+        come: "The park has several entrances. Shark Valley is on the Tamiami Trail, about 30 miles (50 km) west of Miami. In the park you drive and walk trails on boardwalks.",
         quando: "Early morning, before the heat; winter is the dry season, the best for seeing animals.",
         tempo: "half a day",
         costo: "35 $ per vehicle, 7 days (NPS). Visitors who are not US residents, aged 16 and over, also pay 100 $ each unless they hold an annual pass (NPS, 2026)",
@@ -251,7 +251,7 @@ export const destinazioniFlorida: Destinazione[] = [
       },
       {
         nome: "Shark Valley",
-        testo: "A paved loop in the marsh, with an observation tower halfway round. You do it by bike, on foot or on the guided tram.",
+        testo: "A paved loop of 15 miles (24 km) in the marsh, with an observation tower halfway round. You do it by bike, on foot or on the guided tram.",
         come: "Entrance from the Tamiami Trail. The guided tram and bike hire are run by the park concessionaire. There is no public transport, and with Uber a ride back is not guaranteed.",
         quando: "Morning, to avoid the heat; in winter for more wildlife.",
         tempo: "2-3 hours",

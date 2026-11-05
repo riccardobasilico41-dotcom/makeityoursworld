@@ -313,7 +313,7 @@ export const destinazioniTanzania: Destinazione[] = [
       },
       {
         "nome": "Mto wa Mbu",
-        "testo": "The town near the Lake Manyara entrance, on the road to Ngorongoro, best explored with a local guide.",
+        "testo": "The town near the Lake Manyara entrance, on the road to Ngorongoro, where bananas are the main crop, best explored with a local guide.",
         "come": "On foot or by bike with a local guide.",
         "quando": "Morning.",
         "tempo": "1-2 hours"
@@ -543,8 +543,8 @@ export const destinazioniTanzania: Destinazione[] = [
         "costo": "TANAPA entry fee for foreign visitors: current prices on the official site; ask your operator whether the quote includes taxes and VAT"
       },
       {
-        "nome": "Coffee villages near Moshi",
-        "testo": "The villages on the slopes of Kilimanjaro around Moshi, with coffee farms and waterfalls to visit with local guides.",
+        "nome": "Materuni and coffee villages near Moshi",
+        "testo": "The villages on the slopes of Kilimanjaro around Moshi, with coffee farms and waterfalls to visit with local guides; the best known is Materuni, famous for its waterfalls.",
         "come": "By car from Moshi.",
         "quando": "Morning.",
         "tempo": "Half a day"
@@ -555,7 +555,7 @@ export const destinazioniTanzania: Destinazione[] = [
         "titolo": "1 day",
         "tappe": [
           "Morning: Arusha National Park",
-          "Afternoon: coffee villages near Moshi"
+          "Afternoon: Materuni waterfalls and coffee"
         ]
       }
     ],

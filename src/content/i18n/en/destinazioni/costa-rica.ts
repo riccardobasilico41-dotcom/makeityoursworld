@@ -39,7 +39,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Barrio Amón",
-          "testo": "A neighbourhood of historic wooden and brick houses, former homes of the coffee barons, now with galleries, cafés and boutique hotels.",
+          "testo": "A neighbourhood of wooden and brick houses built between the late 19th and early 20th centuries, former homes of the coffee barons, now with galleries, cafés and boutique hotels.",
           "come": "On foot, north of the centre.",
           "quando": "Morning, in good light.",
           "tempo": "1-2 hours",
@@ -404,6 +404,15 @@ export const destinazioniCostaRica: Destinazione[] = [
           "come": "On foot from the lodge with a guide.",
           "quando": "Dawn.",
           "tempo": "1-2 hours"
+        },
+        {
+          "nome": "Catarata del Toro",
+          "testo": "A waterfall dropping into an old volcanic crater, in the forest of Bajos del Toro, with four lookouts at the top. Optional trip.",
+          "come": "By car or on a tour; it lies roughly halfway between San José airport and La Fortuna, on a paved road. No booking needed.",
+          "quando": "Monday to Saturday 7am-5pm; closed on Sundays.",
+          "tempo": "Half a day",
+          "costo": "15 USD (official website, 2026).",
+          "url": "https://www.catarata-del-toro.com/"
         }
       ],
       "programmi": [
@@ -490,7 +499,7 @@ export const destinazioniCostaRica: Destinazione[] = [
       "luoghi": [
         {
           "nome": "La Fortuna waterfall",
-          "testo": "A tall waterfall in a forest gorge, with about 530 steps down and back up and a pool for a swim. There is a dedicated experience card.",
+          "testo": "A waterfall about 70 metres high in a forest gorge, with about 530 steps down and back up and a pool for a swim. There is a dedicated experience card.",
           "come": "A few minutes by car or taxi from La Fortuna town, then steep stairs to the base.",
           "quando": "Open daily 7am-5pm; mornings are less crowded.",
           "tempo": "2 hours",
@@ -505,6 +514,15 @@ export const destinazioniCostaRica: Destinazione[] = [
           "quando": "Early morning: at weekends and on holidays it is packed.",
           "tempo": "1-2 hours",
           "consiglio": "No showers, lockers or facilities: water shoes, a towel and no valuables left in the car."
+        },
+        {
+          "nome": "Mistico hanging bridges",
+          "testo": "A trail of about 3.2 km through the forest near Arenal, with 16 bridges, 6 of them hanging; the highest pass about 45 metres above the forest.",
+          "come": "By car or taxi from La Fortuna; you can go on your own or with a guide, who must be booked.",
+          "quando": "Open daily from 6am; last entry to the trail at 3:50pm. Best early in the morning, for the wildlife.",
+          "tempo": "2-3 hours",
+          "costo": "From 32 USD plus tax self-guided, from 44 USD with a guide (official website, 2026).",
+          "url": "https://www.misticopark.com/"
         }
       ],
       "programmi": [
@@ -520,7 +538,7 @@ export const destinazioniCostaRica: Destinazione[] = [
           "titolo": "2 days",
           "tappe": [
             "Day 1: waterfall and hot springs",
-            "Day 2: a hike with views of the volcano, optional canyoning"
+            "Day 2: Mistico hanging bridges or a hike with views of the volcano, optional canyoning"
           ]
         }
       ],
@@ -720,7 +738,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Whale watching",
-          "testo": "A boat trip in Marino Ballena National Park, to spot the humpback whales that come here to breed. There is a dedicated experience card.",
+          "testo": "A boat trip in Marino Ballena National Park, created in 1989, to spot the humpback whales that come here to breed. There is a dedicated experience card.",
           "come": "Tour from Uvita on a small boat.",
           "quando": "Two seasons: from December to April the northern-hemisphere humpbacks arrive, from July to November the southern ones.",
           "tempo": "3 hours",

@@ -144,8 +144,8 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     luoghi: [
       {
         "nome": "Dubai Creek, abra and Deira souqs",
-        "testo": "The old trading port, still active, with wooden boats loaded with goods. The abra, the wooden ferry, crosses the creek and lands near the spice souq and the gold souq.",
-        "come": "Metro to Al Ras or Al Ghubaiba, then walk to the abra stations.",
+        "testo": "The old trading port, still active, with wooden boats loaded with goods. The abra, the wooden ferry, crosses the creek for 1 dirham, paid to the boatman, and lands near the spice souq and the gold souq.",
+        "come": "Metro Green Line to Al Ras or Al Ghubaiba, then walk to the abra stations.",
         "quando": "Morning or late afternoon, less heat.",
         "tempo": "2-3 hours",
         "costo": "The abra crossing is cheap, paid on board",
@@ -162,7 +162,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       {
         "nome": "Burj Khalifa",
         "testo": "The tallest building in the world, 828 metres. The At the Top decks on floors 124-125 and At the Top Sky on floor 148 look over the city and the desert.",
-        "come": "Metro to Burj Khalifa/Dubai Mall. Timed ticket, best bought online.",
+        "come": "Metro Red Line to Burj Khalifa/Dubai Mall. Timed ticket, best bought online.",
         "quando": "Sunset, the most requested slot: book it ahead.",
         "tempo": "1-1.5 hours",
         "url": "https://www.burjkhalifa.ae/",
@@ -179,7 +179,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       {
         "nome": "Museum of the Future",
         "testo": "The ring-shaped building on Sheikh Zayed Road, clad in 1,024 steel panels that form Arabic calligraphy. Inside, five floors of exhibits framed as a journey to 2071: a space station, a floor on nature, one on wellbeing. It is worth it above all for the architecture, which you can photograph from outside without going in.",
-        "come": "Metro to Emirates Towers.",
+        "come": "Metro Red Line to Emirates Towers.",
         "quando": "As of November 2026 the museum is temporarily closed for a new set-up: check the official website before going. In the evening the lit calligraphy looks better in photos.",
         "tempo": "1.5-2 hours",
         "url": "https://museumofthefuture.ae/",
@@ -329,18 +329,26 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       },
       {
         "nome": "Qasr Al Watan",
-        "testo": "The presidential palace, open to the public since 2019. You visit the Great Hall beneath the central dome, the hall where the government meets and the House of Knowledge with gifts received from heads of state.",
+        "testo": "The presidential palace, open to the public since 2019. You visit the Great Hall beneath the central dome, 37 metres across, with a chandelier of 350,000 crystals, the hall where the government meets and the House of Knowledge with gifts received from heads of state.",
         "come": "Taxi or Uber.",
         "quando": "Morning. Opening hours and tickets on the official website.",
         "tempo": "1.5-2 hours",
         "url": "https://www.qasralwatan.ae/"
       },
       {
-        "nome": "Corniche",
-        "testo": "A long seafront with a public beach, cycling and walking paths and views of the skyline.",
+        "nome": "Corniche and Heritage Village",
+        "testo": "A long seafront with a public beach, cycling and walking paths and views of the skyline. On the breakwater, a short walk from Marina Mall, the Heritage Village recreates life before oil: an old souq, a mosque, a camp, craftspeople doing sadu weaving and glass-blowing, and a small museum on the pearl divers.",
         "come": "Taxi to the Corniche, then on foot or by bike.",
         "quando": "From late afternoon to sunset, when the skyline lights up.",
-        "tempo": "2 hours"
+        "tempo": "2 hours",
+        "costo": "Heritage Village free entry (2026)"
+      },
+      {
+        "nome": "Mina Zayed fish market",
+        "testo": "The fish market at the port of Mina Zayed, still open and one of the most authentic spots in the city, next to the area's other long-standing markets. You see fresh Gulf fish just off the boats.",
+        "come": "Taxi from the center.",
+        "quando": "Early morning or late afternoon.",
+        "tempo": "1 hour"
       }
     ],
     programmi: [
@@ -438,7 +446,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     luoghi: [
       {
         "nome": "Moreeb dunes and Liwa",
-        "testo": "The edge of the Rub' al-Khali, the sand desert of the southern Arabian Peninsula, with very high dunes; Moreeb, south of the Liwa oasis, is one of the best known. There are no evening safaris here: you need a night in the desert.",
+        "testo": "The edge of the Rub' al-Khali, the sand desert of the southern Arabian Peninsula, with very high dunes; Moreeb, about 25 km south of the Liwa oasis and about 300 metres high, is the tallest in the Emirates. There are no evening safaris here: you need a night in the desert.",
         "come": "By car or on a tour from Abu Dhabi; off-road you need a 4x4 and experience.",
         "quando": "Dawn and sunset.",
         "tempo": "1-2 days",
@@ -453,14 +461,14 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       },
       {
         "nome": "Al Jahili Fort and the Hili sites",
-        "testo": "Al Jahili Fort, from the late 19th century, with its watchtowers, and the Hili Archaeological Park, one of the main Bronze Age sites in the Emirates, with tombs from the 3rd millennium BC, part of the UNESCO World Heritage Site.",
+        "testo": "Al Jahili Fort, built around 1891, with its watchtowers, and the Hili Archaeological Park, one of the main Bronze Age sites in the Emirates, with tombs from the 3rd millennium BC, part of the UNESCO World Heritage Site.",
         "come": "By car from Al Ain.",
         "quando": "Morning.",
         "tempo": "2 hours"
       },
       {
         "nome": "Jebel Hafeet",
-        "testo": "The mountain above Al Ain, with a winding scenic road up to the viewpoint at the top, overlooking the city.",
+        "testo": "The mountain above Al Ain, with an 11.7 km scenic road of 60 bends up to the car park at the top, overlooking the city.",
         "come": "By car from Al Ain.",
         "quando": "Sunset.",
         "tempo": "1-2 hours"

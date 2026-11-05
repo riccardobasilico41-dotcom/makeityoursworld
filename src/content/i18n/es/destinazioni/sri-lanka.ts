@@ -611,7 +611,7 @@ export const destinazioniSriLanka: Destinazione[] = [
       {
         "nome": "Hatton",
         "perChi": "más comodidad",
-        "testo": "Ciudad cercana con más oferta de alojamiento y restaurantes, pero más lejos del inicio del sendero."
+        "testo": "Ciudad cercana con más oferta de alojamiento y restaurantes, pero más lejos del inicio del sendero: la cumbre está a unos 32 km."
       }
     ],
     sapori: [

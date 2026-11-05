@@ -64,7 +64,7 @@ export const destinazioniMontenegro: Destinazione[] = [
       },
       {
         nome: "Risan e i mosaici romani",
-        testo: "Uno degli insediamenti più antichi della baia. Dell'epoca romana sono rimasti i mosaici pavimentali di una villa, il resto più prezioso della città antica.",
+        testo: "L'antica Rhizon, considerata l'insediamento più antico delle Bocche di Cattaro. Dell'epoca romana sono rimasti i mosaici pavimentali di una villa, il resto più prezioso della città antica.",
         come: "Sulla strada da Kotor a Herceg Novi, nella parte più interna della baia. Si visita in pochi minuti.",
         quando: "Tutto l'anno, di mattina.",
         tempo: "30 minuti",
@@ -556,7 +556,7 @@ export const destinazioniMontenegro: Destinazione[] = [
       },
       {
         nome: "Ponte di Đurđevića Tara",
-        testo: "Un ponte in cemento a cinque archi, con la carreggiata a circa 172 metri sopra il fiume, finito nel 1940. Durante la guerra i partigiani fecero saltare uno degli archi.",
+        testo: "Un ponte in cemento a cinque archi, lungo 365 metri, con la carreggiata a circa 172 metri sopra il fiume, finito nel 1940. Durante la guerra i partigiani fecero saltare uno degli archi.",
         come: "Sulla strada da Žabljak verso Pljevlja e Mojkovac. A pagamento la zipline.",
         quando: "Mattina.",
         tempo: "45 minuti",

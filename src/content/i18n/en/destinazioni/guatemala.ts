@@ -42,14 +42,14 @@ export const destinazioniGuatemala: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Arco de Santa Catalina",
-          "testo": "The yellow Baroque arch of 1693, built so the cloistered nuns of the Santa Catalina convent could pass between buildings without going into the street. With the Agua volcano behind it, it is the city's signature photo.",
+          "testo": "The yellow Baroque arch of 1693 on 5ª Avenida Norte, built so the cloistered nuns of the Santa Catalina convent could pass between buildings without going into the street. With the Agua volcano behind it, it is the city's signature photo.",
           "come": "On foot from the main square, a few minutes. Free, it is a street.",
           "quando": "Early morning, without crowds and with a clear volcano.",
           "tempo": "15 minutes"
         },
         {
           "nome": "Convento de Santa Clara and La Merced",
-          "testo": "Colonial churches and convents ruined by the 18th-century earthquakes, after which the capital was moved. Antigua has been a UNESCO site since 1979 for this ensemble.",
+          "testo": "Colonial churches and convents ruined by the 18th-century earthquakes, above all the Santa Marta earthquakes of 1773, after which the capital was moved. Antigua has been a UNESCO site since 1979 for this ensemble.",
           "come": "On foot in the centre. The Santa Clara ruins have an entry ticket; La Merced is a church still in use.",
           "quando": "Morning; afternoon light is good on the façade of La Merced.",
           "tempo": "2-3 hours for both",
@@ -354,7 +354,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         },
         {
           "nome": "Yaxhá",
-          "testo": "Guatemala's third-largest Maya site, after Tikal and El Mirador, on the north shore of Lake Yaxhá. Less visited, with the sunset over the lake seen from the top of a pyramid.",
+          "testo": "Guatemala's third-largest Maya site, after Tikal and El Mirador, on the north shore of Lake Yaxhá, about 30 km south-east of Tikal. Less visited, with the sunset over the lake seen from the top of a pyramid.",
           "come": "Tour from Flores or taxi; it is a large site, inside Yaxhá-Nakum-Naranjo National Park.",
           "quando": "Late afternoon.",
           "tempo": "Half a day",
@@ -482,6 +482,14 @@ export const destinazioniGuatemala: Destinazione[] = [
           "consiglio": "Shoes with grip and water: the climb is hard, but without the view from above you lose the sense of the place."
         },
         {
+          "nome": "K'anba Caves",
+          "testo": "A cave with flooded passages walked with a guide by candlelight, with some stretches to swim.",
+          "come": "With a guide; the turn-off is about a kilometre before Semuc Champey, just before the large bridge over the river.",
+          "quando": "After visiting the pools.",
+          "tempo": "About 2 hours",
+          "consiglio": "Bring a waterproof torch: candles alone light very little. Groups can be very crowded; skip it if you are claustrophobic."
+        },
+        {
           "nome": "Lanquín",
           "testo": "The Q'eqchi' village that serves as the base for Semuc Champey, with hostels and few services.",
           "come": "From Cobán or by shuttle from Antigua or Atitlán: it is a long day on the road.",
@@ -495,14 +503,14 @@ export const destinazioniGuatemala: Destinazione[] = [
           "tappe": [
             "Morning: pools and Mirador",
             "Lunch",
-            "Afternoon: back to Lanquín"
+            "Afternoon: K'anba Caves, then back to Lanquín"
           ]
         },
         {
           "titolo": "2 days",
           "tappe": [
             "Day 1: arrive in Lanquín, stop at the park entrance",
-            "Day 2: pools and Mirador; shuttle back the following day"
+            "Day 2: pools, Mirador and K'anba Caves; shuttle back the following day"
           ]
         }
       ],

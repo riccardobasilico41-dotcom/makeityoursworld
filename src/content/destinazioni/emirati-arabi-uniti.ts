@@ -149,8 +149,8 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     luoghi: [
       {
         "nome": "Dubai Creek, abra e souq di Deira",
-        "testo": "Il vecchio porto commerciale, ancora attivo, con barche di legno cariche di merci. L'abra, il traghetto di legno, attraversa il creek e sbarca vicino al souq delle spezie e a quello dell'oro.",
-        "come": "Metro fino ad Al Ras o Al Ghubaiba, poi a piedi agli imbarchi degli abra.",
+        "testo": "Il vecchio porto commerciale, ancora attivo, con barche di legno cariche di merci. L'abra, il traghetto di legno, attraversa il creek per 1 dirham, pagato al barcaiolo, e sbarca vicino al souq delle spezie e a quello dell'oro.",
+        "come": "Metro, linea verde, fino ad Al Ras o Al Ghubaiba, poi a piedi agli imbarchi degli abra.",
         "quando": "Mattina o tardo pomeriggio, meno caldo.",
         "tempo": "2-3 ore",
         "costo": "Traversata in abra economica, si paga a bordo",
@@ -167,7 +167,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       {
         "nome": "Burj Khalifa",
         "testo": "Il grattacielo più alto del mondo, 828 metri. Le terrazze At the Top ai piani 124-125 e At the Top Sky al 148 danno la vista sulla città e sul deserto.",
-        "come": "Metro fino a Burj Khalifa/Dubai Mall. Biglietto con fascia oraria, meglio online.",
+        "come": "Metro, linea rossa, fino a Burj Khalifa/Dubai Mall. Biglietto con fascia oraria, meglio online.",
         "quando": "Tramonto, la fascia più richiesta: prenotarla con anticipo.",
         "tempo": "1-1,5 ore",
         "url": "https://www.burjkhalifa.ae/",
@@ -184,7 +184,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       {
         "nome": "Museo del Futuro",
         "testo": "L'edificio ad anello sulla Sheikh Zayed Road, rivestito di 1.024 pannelli d'acciaio che formano una calligrafia araba. Dentro, cinque piani di mostre presentate come un viaggio nel 2071: una stazione spaziale, un piano sulla natura, uno sul benessere. Vale soprattutto per l'architettura, che si fotografa da fuori anche senza entrare.",
-        "come": "Metro fino a Emirates Towers.",
+        "come": "Metro, linea rossa, fino a Emirates Towers.",
         "quando": "A novembre 2026 il museo è chiuso temporaneamente per un nuovo allestimento: controllare il sito ufficiale prima di andare. La sera la scritta illuminata rende di più nelle foto.",
         "tempo": "1,5-2 ore",
         "url": "https://museumofthefuture.ae/",
@@ -334,18 +334,26 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       },
       {
         "nome": "Qasr Al Watan",
-        "testo": "Il palazzo presidenziale, aperto al pubblico dal 2019. Si visitano la Grande Sala sotto la cupola centrale, la sala dove si riunisce il governo e la House of Knowledge con i doni ricevuti dai capi di Stato.",
+        "testo": "Il palazzo presidenziale, aperto al pubblico dal 2019. Si visitano la Grande Sala sotto la cupola centrale, di 37 metri di diametro, con un lampadario di 350.000 cristalli, la sala dove si riunisce il governo e la House of Knowledge con i doni ricevuti dai capi di Stato.",
         "come": "Taxi o Uber.",
         "quando": "Mattina. Orari e biglietti sul sito ufficiale.",
         "tempo": "1,5-2 ore",
         "url": "https://www.qasralwatan.ae/"
       },
       {
-        "nome": "Corniche",
-        "testo": "Un lungo lungomare con spiaggia pubblica, percorsi per bici e pedoni e la vista sui grattacieli.",
+        "nome": "Corniche e Heritage Village",
+        "testo": "Un lungo lungomare con spiaggia pubblica, percorsi per bici e pedoni e la vista sui grattacieli. Sul frangiflutti, a pochi passi dal Marina Mall, l'Heritage Village ricostruisce la vita di prima del petrolio: un vecchio souq, una moschea, un accampamento, artigiani che tessono il sadu e soffiano il vetro, e un piccolo museo sui pescatori di perle.",
         "come": "Taxi fino alla Corniche, poi a piedi o in bici.",
         "quando": "Dal tardo pomeriggio al tramonto, quando si accende lo skyline.",
-        "tempo": "2 ore"
+        "tempo": "2 ore",
+        "costo": "Heritage Village a ingresso libero (2026)"
+      },
+      {
+        "nome": "Mercato del pesce di Mina Zayed",
+        "testo": "Il mercato del pesce del porto di Mina Zayed, ancora aperto e tra i più autentici della città, accanto agli altri mercati storici della zona. Si vede il pesce fresco del Golfo appena sbarcato.",
+        "come": "Taxi dal centro.",
+        "quando": "Mattina presto o tardo pomeriggio.",
+        "tempo": "1 ora"
       }
     ],
     programmi: [
@@ -443,7 +451,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     luoghi: [
       {
         "nome": "Dune di Moreeb e Liwa",
-        "testo": "Il bordo del Rub' al-Khali, il deserto di sabbia del sud della penisola arabica, con dune molto alte; Moreeb, a sud dell'oasi di Liwa, è una delle più note. Qui non ci sono safari serali: serve una notte nel deserto.",
+        "testo": "Il bordo del Rub' al-Khali, il deserto di sabbia del sud della penisola arabica, con dune molto alte; Moreeb, circa 25 km a sud dell'oasi di Liwa, alta circa 300 metri, è la più alta degli Emirati. Qui non ci sono safari serali: serve una notte nel deserto.",
         "come": "In auto o con tour da Abu Dhabi; fuori pista serve un 4x4 con esperienza.",
         "quando": "Alba e tramonto.",
         "tempo": "1-2 giorni",
@@ -458,14 +466,14 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       },
       {
         "nome": "Forte Al Jahili e siti di Hili",
-        "testo": "Il forte Al Jahili, della fine dell'Ottocento, con le sue torri di guardia, e il parco archeologico di Hili, uno dei principali siti dell'età del bronzo degli Emirati, con tombe del III millennio a.C., parte del patrimonio UNESCO.",
+        "testo": "Il forte Al Jahili, costruito intorno al 1891, con le sue torri di guardia, e il parco archeologico di Hili, uno dei principali siti dell'età del bronzo degli Emirati, con tombe del III millennio a.C., parte del patrimonio UNESCO.",
         "come": "In auto da Al Ain.",
         "quando": "Mattina.",
         "tempo": "2 ore"
       },
       {
         "nome": "Jebel Hafeet",
-        "testo": "La montagna sopra Al Ain, con una strada panoramica a tornanti fino al belvedere in cima, da cui si vede la città.",
+        "testo": "La montagna sopra Al Ain, con una strada panoramica di 11,7 km e 60 curve fino al parcheggio in cima, da cui si vede la città.",
         "come": "In auto da Al Ain.",
         "quando": "Tramonto.",
         "tempo": "1-2 ore"

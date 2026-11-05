@@ -230,7 +230,7 @@ export const destinazioniCanada: Destinazione[] = [
       {
         nome: "Crucero por las Mil Islas",
         testo: "El San Lorenzo sale del lago Ontario y se divide en 1.864 islas, algunas del tamaño de un césped con una sola casa. Se ven villas históricas y cobertizos para barcas.",
-        come: "Los cruceros salen de Gananoque y se reservan online.",
+        come: "Los cruceros salen de Gananoque y de Kingston y se reservan online.",
         quando: "En la temporada buena: fechas en las webs de los operadores. El verano está lleno, el otoño es más tranquilo.",
         tempo: "1-3 horas",
         consiglio: "Elige el crucero largo si quieres ver de verdad las islas interiores.",
@@ -761,7 +761,7 @@ export const destinazioniCanada: Destinazione[] = [
     luoghi: [
       {
         nome: "Tundra Buggy y osos polares",
-        testo: "Vehículos altos con grandes ruedas llevan a los visitantes a la tundra alrededor del pueblo, donde en otoño los osos polares se reúnen en la costa esperando que el mar se hiele.",
+        testo: "Vehículos altos con grandes ruedas llevan a los visitantes a la Churchill Wildlife Management Area, la tundra protegida en la costa de la bahía de Hudson, donde en otoño los osos polares se reúnen en la costa esperando que el mar se hiele.",
         come: "Se reserva con una compañía autorizada, como Frontiers North Adventures.",
         quando: "Octubre y noviembre.",
         tempo: "un día entero",

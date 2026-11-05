@@ -93,7 +93,7 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       },
       {
         nome: "Jordaan e Begijnhof",
-        testo: "Il Jordaan è un quartiere di strade strette, caffè e negozi d'artigianato. Il Begijnhof è un cortile di origine medievale, con facciate antiche e una delle case di legno più vecchie della città.",
+        testo: "Il Jordaan è un quartiere di strade strette, caffè e negozi d'artigianato. Il Begijnhof è un cortile di origine medievale, con facciate antiche e Het Houten Huys, del 1420 circa, ritenuta la casa di legno più antica di Amsterdam.",
         come: "A piedi dal centro.",
         quando: "Mattina, con luce soffusa e meno gente.",
         tempo: "2 ore",
@@ -101,7 +101,7 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       },
       {
         nome: "Vondelpark",
-        testo: "Il grande parco della città, con laghetti, prati e chioschi; d'estate il teatro all'aperto (Openluchttheater) ospita spettacoli. Un buon posto per fare una pausa dopo i musei.",
+        testo: "Il grande parco della città, 47 ettari di laghetti, prati e chioschi; da maggio a settembre il teatro all'aperto (Openluchttheater) ospita spettacoli quasi ogni weekend, a ingresso libero con offerta facoltativa. Un buon posto per fare una pausa dopo i musei.",
         come: "Accanto al museo Van Gogh, a pochi minuti a piedi.",
         quando: "Pomeriggio d'estate.",
         tempo: "1-2 ore",
@@ -110,9 +110,9 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       },
       {
         nome: "Mercato Albert Cuyp",
-        testo: "Un grande mercato di strada nel quartiere De Pijp: frutta, verdura, pesce, vestiti e stroopwafel fatti al momento. Ideale per spuntini economici.",
-        come: "Nel quartiere De Pijp, in tram o metro.",
-        quando: "Mattina; controllare i giorni di apertura prima di andare.",
+        testo: "Un grande mercato di strada nel quartiere De Pijp, attivo dal 1905: frutta, verdura, pesce, vestiti e stroopwafel fatti al momento. Ideale per spuntini economici.",
+        come: "Metro Noord/Zuidlijn da Centraal fino a De Pijp, oppure in tram.",
+        quando: "Lunedì-sabato 9:30-17; chiuso la domenica e nei giorni festivi. Meglio la mattina.",
         tempo: "1 ora",
         consiglio: "Provare stroopwafel caldi e aringhe con cipolle."
       }
@@ -163,7 +163,7 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       {
         nome: "Amsterdam Oost e Noord",
         perChi: "Chi cerca di risparmiare",
-        testo: "Fuori dal centro, in tram o, per Noord, in traghetto."
+        testo: "Fuori dal centro, in tram o, per Noord, con i traghetti GVB da dietro Centraal, gratuiti per pedoni e ciclisti."
       }
     ],
     sapori: [

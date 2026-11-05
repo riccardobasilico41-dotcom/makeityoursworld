@@ -39,11 +39,11 @@ export const destinazioniBrasile: Destinazione[] = [
     luoghi: [
       {
         "nome": "Christ the Redeemer",
-        "testo": "The statue on Corcovado, about 700 metres above the city. From the top you understand Rio's shape: the beaches, the Rodrigo de Freitas lagoon and Sugarloaf at the mouth of the bay.",
+        "testo": "The 30-metre statue (38 with its pedestal) on Corcovado, about 700 metres above the city. From the top you understand Rio's shape: the beaches, the Rodrigo de Freitas lagoon and Sugarloaf at the mouth of the bay.",
         "come": "By the rack railway from Cosme Velho or by the official vans from Paineiras. The ticket is bought online choosing day and time.",
         "quando": "First run of the morning, before clouds and crowds. At midday the statue is often in cloud.",
         "tempo": "3-4 hours including the ride up, the visit and the way down",
-        "costo": "The price depends on the starting point (van or cog train): current fares on the official website",
+        "costo": "Cog train from Cosme Velho R$139 for adults, R$112 for children aged 7-11 (train website, 2026); van fares on the official website",
         "url": "https://paineirascorcovado.com.br/",
         "consiglio": "Go in the morning and bring a light jacket: it is windy at the top."
       },
@@ -199,7 +199,7 @@ export const destinazioniBrasile: Destinazione[] = [
     luoghi: [
       {
         "nome": "Historic centre of Paraty",
-        "testo": "A colonial town, once the gold port of Minas Gerais, a UNESCO World Heritage site. The centre is closed to cars, with white houses with coloured doors and cobbled streets that sometimes flood at high tide.",
+        "testo": "A colonial town, once the gold port of Minas Gerais, a UNESCO World Heritage site since 2019. The centre is closed to cars, with white houses with coloured doors and cobbled streets that sometimes flood at high tide.",
         "come": "Direct buses from the Novo Rio bus station.",
         "quando": "The evening is quiet, with restaurants and live music.",
         "tempo": "Half a day or an evening",
@@ -473,7 +473,7 @@ export const destinazioniBrasile: Destinazione[] = [
       },
       {
         "nome": "Elevador Lacerda and Mercado Modelo",
-        "testo": "The historic public lift links the upper town to the lower town. Below is the Mercado Modelo, a craft market.",
+        "testo": "The public lift of 1873, 72 metres high, links the upper town to the lower town. Below is the Mercado Modelo, a craft market.",
         "come": "The lift starts at Praça Tomé de Souza.",
         "quando": "Morning.",
         "tempo": "1-2 hours",
@@ -604,7 +604,7 @@ export const destinazioniBrasile: Destinazione[] = [
       },
       {
         "nome": "Cachoeira da Fumaça",
-        "testo": "A very high waterfall: the wind often scatters the water into mist before it reaches the ground.",
+        "testo": "A waterfall of about 340 metres: the wind often scatters the water into mist before it reaches the ground.",
         "come": "From the Capão valley on an out-and-back trail of a few hours with a steep initial climb.",
         "quando": "On clear days: with low cloud you see little from the top.",
         "tempo": "Half a day",
@@ -714,7 +714,7 @@ export const destinazioniBrasile: Destinazione[] = [
     luoghi: [
       {
         "nome": "Lagoa Azul circuit",
-        "testo": "The first lagoons: clear, warm rainwater collected between white sand dunes. You walk barefoot and swim.",
+        "testo": "The first lagoons: clear, warm rainwater collected between white sand dunes up to 40 metres high. You walk barefoot and swim.",
         "come": "By jardineira, the 4x4 with benches on the bed that crosses the river on a raft and takes the sand track.",
         "quando": "Sunset, when the sand changes colour. The lagoons fill with the rains, which fall roughly from January to June, and evaporate in the dry months: check the water level before you go.",
         "tempo": "Half a day",
@@ -747,7 +747,7 @@ export const destinazioniBrasile: Destinazione[] = [
       },
       {
         "nome": "Historic centre of São Luís",
-        "testo": "Founded by the French, it has a historic centre on the UNESCO list with houses covered in Portuguese azulejos.",
+        "testo": "The only Brazilian state capital founded by the French (1612), it has a historic centre on the UNESCO list since 1997 with houses covered in Portuguese azulejos.",
         "come": "By app or on foot in the Praia Grande.",
         "quando": "Before leaving for Barreirinhas or on arrival.",
         "tempo": "Half a day",
@@ -862,7 +862,7 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "Flight from São Paulo or Brasília.",
         "quando": "Arrival and departure day.",
         "tempo": "One night",
-        "consiglio": "Mato Grosso is in a different time zone from Rio: check your flight times."
+        "consiglio": "Mato Grosso is on UTC-4, one hour behind Rio: check your flight times."
       }
     ],
     programmi: [

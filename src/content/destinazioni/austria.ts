@@ -55,7 +55,7 @@ export const destinazioniAustria: Destinazione[] = [
       {
         nome: "Palazzo di Schönbrunn",
         testo: "La residenza estiva degli Asburgo, patrimonio UNESCO, con 1.441 stanze e giardini barocchi. Si visitano gli appartamenti imperiali, con diversi percorsi.",
-        come: "In metro dal centro fino alla fermata Schönbrunn. Biglietti online con orario.",
+        come: "Metro U4 fino a Schönbrunn, oppure tram 10 o 60 e bus 10A fino a Schloss Schönbrunn. Biglietti online con orario.",
         quando: "Palazzo tutti i giorni 8:30-17, giardini dalle 6:30; mattina presto per anticipare i gruppi.",
         tempo: "3-4 ore",
         costo: "Palace Ticket 42 € adulti (2026), solo online sul sito ufficiale; giardini liberi",
@@ -65,7 +65,7 @@ export const destinazioniAustria: Destinazione[] = [
       {
         nome: "Hofburg e Museo Sisi",
         testo: "Il palazzo imperiale in centro, con appartamenti imperiali, la collezione delle argenterie e il museo dedicato a Sissi. Il complesso ospita anche la Scuola Spagnola di Equitazione.",
-        come: "In centro, a piedi.",
+        come: "In centro, a piedi; la fermata della metro più vicina è Herrengasse (U3).",
         quando: "Orari sul sito ufficiale; il Museo Sisi riallestito riapre il 19 novembre 2026. Mattina nei giorni feriali.",
         tempo: "2 ore",
         costo: "Museo Sisi 15 €, con visita guidata agli appartamenti 33 € (2026)",
@@ -75,7 +75,7 @@ export const destinazioniAustria: Destinazione[] = [
       {
         nome: "Cattedrale di Santo Stefano (Stephansdom)",
         testo: "Il simbolo di Vienna, in stile gotico, con il tetto di tegole colorate e la torre sud di 136 metri, che si sale a piedi. Sulla torre nord incompiuta c'è una piattaforma con la campana Pummerin; sotto la chiesa ci sono le catacombe.",
-        come: "Metro fino a Stephansplatz. Torri e catacombe a pagamento: tariffe sul sito ufficiale.",
+        come: "Metro U1 o U3 fino a Stephansplatz. Torri e catacombe a pagamento: tariffe sul sito ufficiale.",
         quando: "Visite turistiche lun-sab 9-11:30 e 13-16:30, domenica e festivi 13-16:30, salvo funzioni. Mattina presto o sera per la luce sul tetto.",
         tempo: "1 ora",
         url: "https://www.stephanskirche.at",
@@ -87,7 +87,7 @@ export const destinazioniAustria: Destinazione[] = [
         come: "Tram D fino a Schloss Belvedere. Biglietti per il Belvedere superiore.",
         quando: "Tutti i giorni 9-18; mattina presto per vedere «Il bacio» senza folla.",
         tempo: "2 ore",
-        costo: "Belvedere superiore 23 € adulti (2026, prezzo del giorno)",
+        costo: "Belvedere superiore 23 € adulti (2026, prezzo del giorno); gratis sotto i 19 anni",
         url: "https://www.belvedere.at",
         consiglio: "Riduzioni e orari estivi sul sito ufficiale."
       },
@@ -104,7 +104,7 @@ export const destinazioniAustria: Destinazione[] = [
       {
         nome: "Opera di Stato (Staatsoper)",
         testo: "Uno dei teatri lirici più importanti del mondo. Si può visitare con un tour guidato o assistere a uno spettacolo con i biglietti in piedi, molto economici.",
-        come: "Sul Ring, in centro, a piedi. I biglietti in piedi si vendono solo il giorno dello spettacolo, dalle 10.",
+        come: "Sul Ring, in centro: metro U1, U2 o U4 fino a Karlsplatz, uscita nord verso l'Opera. I biglietti in piedi si vendono solo il giorno dello spettacolo, dalle 10.",
         quando: "Sera; i posti in piedi vanno comprati la mattina stessa, appena si aprono le vendite.",
         tempo: "3 ore",
         url: "https://www.wiener-staatsoper.at",
@@ -113,17 +113,18 @@ export const destinazioniAustria: Destinazione[] = [
       {
         nome: "Prater e Riesenrad",
         testo: "Il grande parco con la ruota panoramica del 1897, celebre dal film «Il terzo uomo». Ci sono giostre storiche e il lungo viale alberato.",
-        come: "Con i mezzi pubblici dal centro.",
-        quando: "Pomeriggio o sera, per la vista sulla città.",
+        come: "Metro U1 o U2 fino a Praterstern, accanto all'ingresso principale.",
+        quando: "Pomeriggio o sera, per la vista sulla città. Le attrazioni aprono da metà marzo a fine ottobre, più o meno dalle 11 all'1 di notte; d'inverno solo una parte.",
         tempo: "2 ore",
+        costo: "ingresso al parco libero, giostre a pagamento (di solito 3,50-8 €, 2026)",
         url: "https://www.wienerriesenrad.com",
         consiglio: "Salire sulla ruota al tramonto."
       },
       {
         nome: "Naschmarkt",
-        testo: "Un grande mercato all'aperto: bancarelle di frutta, spezie, olive e ristoranti.",
-        come: "A piedi dal centro, vicino a Karlsplatz.",
-        quando: "Mattina; giorni e orari da controllare prima di andare.",
+        testo: "Un grande mercato all'aperto lungo la Wienzeile: bancarelle di frutta, spezie, olive e ristoranti. Il sabato, verso la Kettenbrücke, c'è anche il mercato delle pulci (6:30-15).",
+        come: "A piedi dal centro, vicino a Karlsplatz; metro U4 fino a Kettenbrückengasse.",
+        quando: "Bancarelle lun-ven 6-21 e sabato 6-18 (orari massimi fissati dal Comune); la domenica restano aperti solo ristoranti e bar, 9-21. Meglio la mattina.",
         tempo: "1-2 ore",
         consiglio: "Andarci la mattina, quando i banchi sono pieni."
       }

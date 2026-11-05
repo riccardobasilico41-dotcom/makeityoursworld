@@ -99,8 +99,8 @@ export const destinazioniCina: Destinazione[] = [
       {
         nome: "Ciudad Prohibida",
         testo: "El mayor conjunto de palacios imperiales de madera del mundo, con casi mil edificios, residencia de veinticuatro emperadores Ming y Qing entre 1420 y 1912. Se recorre patio tras patio por el eje central, desde la Puerta del Meridiano hasta la salida norte, frente a la colina de Jingshan.",
-        come: "Metro línea 1 hasta Tiananmen East, entrada por la Puerta del Meridiano. Entradas solo online, en la web oficial de reservas, con el número de pasaporte: el mismo día no se venden entradas. Llevar el pasaporte usado para reservar.",
-        quando: "Cerrada los lunes, salvo los lunes festivos. De abril a octubre 8:30-17:00, última entrada a las 16:00; de noviembre a marzo 8:30-16:30, última entrada a las 15:30. El aforo diario es limitado: reservar cuanto antes.",
+        come: "Metro línea 1 hasta Tiananmen East, entrada por la Puerta del Meridiano. Entradas solo online, en la web oficial de reservas, con el número de pasaporte: el mismo día no se venden entradas. En la entrada se pide el original del pasaporte usado para reservar.",
+        quando: "Cerrada los lunes, salvo los lunes festivos. De abril a octubre 8:30-17:00, última entrada a las 16:00; de noviembre a marzo 8:30-16:30, última entrada a las 15:30. El aforo diario es limitado: las entradas salen 7 días antes, a las 20:00 hora de Pekín, y conviene reservar en cuanto se abren.",
         tempo: "3-4 horas",
         costo: "60 yuanes de abril a octubre, 40 yuanes de noviembre a marzo; Galería del Tesoro y Galería de los Relojes 10 yuanes cada una (2025)",
         url: "https://www.dpm.org.cn/",
@@ -163,7 +163,7 @@ export const destinazioniCina: Destinazione[] = [
       { nome: "Fideos de Shanxi", testo: "Fideos hechos a mano, estirados o cortados a cuchillo." },
     ],
     attenzioni: [
-      "Presentarse en la Ciudad Prohibida sin reserva: el mismo día no se venden entradas y el aforo es limitado.",
+      "Presentarse en la Ciudad Prohibida sin reserva: el mismo día no se venden entradas, el aforo es limitado y las entradas salen 7 días antes, a las 20:00 hora de Pekín.",
       "Ir a la Ciudad Prohibida en lunes: está cerrada, salvo los lunes festivos.",
       "Elegir Badaling: es el tramo de Muralla más restaurado y abarrotado.",
       "Seguir a desconocidos amables que invitan a una cata de té o a un bar: es la estafa clásica de las zonas turísticas y termina con una cuenta altísima.",
@@ -781,7 +781,7 @@ export const destinazioniCina: Destinazione[] = [
       },
       {
         nome: "Parque del Pueblo",
-        testo: "El parque donde se encuentra la ciudad: jubilados que bailan, coros improvisados y casas de té al aire libre bajo los árboles, donde se pasa la tarde delante de un vaso de té.",
+        testo: "El parque donde se encuentra la ciudad: jubilados que bailan, coros improvisados y casas de té al aire libre bajo los árboles, entre ellas la centenaria Heming, donde se pasa la tarde delante de un vaso de té.",
         come: "Metro línea 2 hasta People's Park.",
         quando: "Por la tarde, mejor entre semana.",
         tempo: "2 horas",
@@ -990,7 +990,7 @@ export const destinazioniCina: Destinazione[] = [
       },
       {
         nome: "Baisha",
-        testo: "Pueblo naxi al norte de Lijiang, centro de la región antes de Lijiang. Conserva frescos de época Ming en los templos y un ritmo de pueblo de verdad, con el campo alrededor y la montaña al fondo.",
+        testo: "Pueblo naxi a unos 15 kilómetros al norte de Lijiang, centro de la región antes de Lijiang. Conserva frescos de época Ming en los templos y un ritmo de pueblo de verdad, con el campo alrededor y la montaña al fondo.",
         come: "Bicicleta o taxi desde Lijiang.",
         quando: "Por la mañana.",
         tempo: "Media jornada",
@@ -1017,7 +1017,7 @@ export const destinazioniCina: Destinazione[] = [
     ],
     attenzioni: [
       "Juzgar Dayan al final del día, en la hora punta: es su peor momento.",
-      "Ignorar la altitud: Lijiang está en altura, los primeros días se camina más despacio.",
+      "Ignorar la altitud: Lijiang está a unos 2.400 metros, los primeros días se camina más despacio.",
       "Saltarse Baisha y Shuhe.",
       "Comprar plata, té pu'er o jade en las tiendas de la ciudad vieja sin regatear.",
     ],
@@ -1224,7 +1224,7 @@ export const destinazioniCina: Destinazione[] = [
       },
       {
         nome: "Río Yulong",
-        testo: "Afluente del Li, más pequeño y tranquilo, entre arrozales, búfalos y puentes de piedra; el Puente del Dragón de Jade es uno de los más famosos. Se baja en balsas de bambú empujadas a mano con pértiga.",
+        testo: "Afluente del Li, más pequeño y tranquilo, entre arrozales, búfalos y puentes de piedra; el Puente del Dragón de Jade, de piedra, tiene unos cuatrocientos años y es uno de los más famosos. Se baja en balsas de bambú empujadas a mano con pértiga.",
         come: "En bici o bici eléctrica desde Yangshuo, por caminos rurales.",
         quando: "Jornada, en primavera u otoño.",
         tempo: "Medio día",
@@ -1330,7 +1330,7 @@ export const destinazioniCina: Destinazione[] = [
       {
         nome: "Star Ferry",
         testo: "El ferry verde y blanco que desde 1888 cruza el puerto entre Tsim Sha Tsui y Central. La travesía es corta y es la forma más bonita y barata de ver el skyline desde el agua.",
-        come: "Muelles de Tsim Sha Tsui y de Central; se paga con la tarjeta Octopus, en efectivo o en las máquinas. Trayecto 5 HK$ en la cubierta superior los laborables, 6,5 HK$ el fin de semana (2026).",
+        come: "Muelle de Tsim Sha Tsui y muelle 7 de Central; se paga con la tarjeta Octopus, en efectivo o en las máquinas. Trayecto 5 HK$ en la cubierta superior los laborables, 6,5 HK$ el fin de semana (2026).",
         quando: "Al atardecer o de noche.",
         tempo: "30 minutos",
         url: "https://www.starferry.com.hk/",
@@ -1355,7 +1355,7 @@ export const destinazioniCina: Destinazione[] = [
       },
       {
         nome: "Sheung Wan y escaleras mecánicas",
-        testo: "El sistema de escaleras mecánicas cubiertas Central-Mid-Levels, de unos 800 metros, sube de la ciudad baja a la colina atravesando Soho. Alrededor, en Sheung Wan, están las tiendas de hierbas medicinales y marisco seco y el templo de Man Mo.",
+        testo: "El sistema de escaleras mecánicas cubiertas Central-Mid-Levels, de unos 800 metros, sube de la ciudad baja a la colina atravesando Soho. Alrededor, en Sheung Wan, están las tiendas de hierbas medicinales y marisco seco y el templo de Man Mo, de 1847, el más grande de Hong Kong dedicado a Man y Mo.",
         come: "Metro hasta Central o Sheung Wan, luego a pie.",
         quando: "De día: las escaleras bajan a primera hora y suben desde media mañana hasta la noche.",
         tempo: "2 horas",

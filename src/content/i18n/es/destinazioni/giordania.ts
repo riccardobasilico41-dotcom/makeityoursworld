@@ -152,7 +152,7 @@ export const destinazioniGiordania: Destinazione[] = [
     luoghi: [
       {
         "nome": "Arco de Adriano e Hipódromo",
-        "testo": "La entrada monumental del sur, construida para la visita del emperador Adriano en 129-130. Un poco más allá está el hipódromo.",
+        "testo": "La entrada monumental del sur, construida para la visita del emperador Adriano en 129-130. Un poco más allá está el hipódromo, con capacidad para unos 15.000 espectadores en las carreras de carros.",
         "come": "El aparcamiento está junto al arco; la taquilla queda cerca.",
         "quando": "Abierto de 8 a 17 (2026). Mejor a primera hora, antes de los grupos.",
         "tempo": "30 minutos",
@@ -165,11 +165,11 @@ export const destinazioniGiordania: Destinazione[] = [
         "come": "Se recorre a pie de sur a norte.",
         "quando": "A primera hora y al final de la tarde por la luz sobre las columnas.",
         "tempo": "1 hora",
-        "consiglio": "Mirar el empedrado del cardo: las piedras originales muestran cómo funcionaba la calle."
+        "consiglio": "Mirar el empedrado del cardo: las piedras siguen siendo las originales y se ven los surcos que dejaron los carros."
       },
       {
         "nome": "Teatro Sur y Templo de Artemisa",
-        "testo": "El teatro grande, donde la voz se oye en todas las gradas hablando desde el centro de la orquesta, y a menudo tocan gaitas y tambores; después el santuario de Artemisa en la parte más alta, con columnas que se ven de lejos.",
+        "testo": "El teatro grande, con más de 3.000 asientos, donde la voz se oye en todas las gradas hablando desde el centro de la orquesta, y a menudo tocan gaitas y tambores; después el santuario de Artemisa en la parte más alta, con columnas que se ven de lejos.",
         "come": "Desde el foro se sube al teatro y luego al templo en la colina.",
         "quando": "Media mañana, cuando la luz es alta y el teatro resuena.",
         "tempo": "1 hora"
@@ -382,7 +382,7 @@ export const destinazioniGiordania: Destinazione[] = [
         "come": "En la King's Highway entre Karak y Petra. Se visita por libre; para el túnel hace falta linterna.",
         "quando": "Abierto de 8 a 17 (2026). Buena parada camino de Petra.",
         "tempo": "1 hora",
-        "costo": "Incluido en el Jordan Pass",
+        "costo": "1 JOD para extranjeros, o incluido en el Jordan Pass (2026)",
         "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx"
       }
     ],
@@ -479,7 +479,7 @@ export const destinazioniGiordania: Destinazione[] = [
       {
         "nome": "El Siq y el Tesoro (Al-Khazneh)",
         "testo": "El desfiladero natural de unos 1,2 km entre paredes de arenisca de hasta 180 metros, de apenas 3 metros de ancho en algunos puntos, que se estrecha hasta mostrar de golpe la fachada del Tesoro, de unos 37 metros de alto y tallada en la roca.",
-        "come": "De la entrada al Tesoro se camina media hora o algo más. Se puede ir a caballo en el primer tramo, antes del Siq.",
+        "come": "Del centro de visitantes al Tesoro se camina entre media hora y una hora, según el ritmo. Se puede ir a caballo en el primer tramo, antes del Siq.",
         "quando": "El sitio abre a las 6 y cierra a las 17 (2026). Entrar a primerísima hora, cuando el Siq está vacío; el sol llega al Tesoro a media mañana.",
         "tempo": "45 minutos",
         "costo": "50 JOD por 1 día, 55 por 2, 60 por 3 para quien duerme al menos una noche en Jordania; 90 JOD en el día sin pernoctar (2026). Incluido en el Jordan Pass.",
@@ -575,7 +575,7 @@ export const destinazioniGiordania: Destinazione[] = [
       "Para caballos, camellos y burros acordar siempre el precio antes de subir, incluso cuando dicen que está incluido.",
       "Por el bienestar de los animales, mejor subir al Monasterio a pie.",
       "Llevar agua y gorra: en el sitio hay pocas fuentes y en verano hace mucho calor.",
-      "Petra by Night solo se celebra algunas noches: consultar el calendario en los canales oficiales."
+      "Petra by Night: de 20.30 a 22.30 aproximadamente, salida del centro de visitantes, 30 JOD por persona, gratis para menores de 10 años (2026). Hace falta también la entrada de día o el Jordan Pass, y no se reserva. Solo se celebra algunas noches y las fuentes oficiales no coinciden en los días (lunes, miércoles y jueves, o de domingo a jueves): consultar en el centro de visitantes."
     ],
     // GUIDA-END
     esperienzeSlugs: ['salita-monastero-petra', 'hammam-wadi-musa'],
@@ -739,7 +739,7 @@ export const destinazioniGiordania: Destinazione[] = [
     luoghi: [
       {
         "nome": "Snorkel e inmersiones",
-        "testo": "El mar Rojo a pocas horas del desierto, con arrecifes de coral cerca de la orilla y aguas cálidas. También está el pecio del Cedar Pride, uno de los puntos de buceo más conocidos.",
+        "testo": "El mar Rojo a pocas horas del desierto, con arrecifes de coral cerca de la orilla y aguas cálidas. También está el pecio del Cedar Pride, hundido a propósito para los buceadores el 16 de noviembre de 1985: es uno de los puntos de buceo más conocidos.",
         "come": "Se reserva un centro de buceo o un barco en la marina.",
         "quando": "Todo el año, pero primavera y otoño son los mejores meses.",
         "tempo": "Medio día",

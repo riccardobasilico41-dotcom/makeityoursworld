@@ -543,7 +543,7 @@ export const destinazioniMarocco: Destinazione[] = [
         "nome": "Souk El Had",
         "testo": "Agadir's big covered market, inside walls with many gates: fruit, spices, argan oil, ceramics and clothes, with far more Moroccans than tourists. It is the right place to buy argan and amlou at normal prices.",
         "come": "By taxi from the seafront.",
-        "quando": "Morning. Check opening hours and closing day locally.",
+        "quando": "Morning. Closed on Mondays; usually open 9am-6pm (2026), but individual stalls keep their own hours.",
         "tempo": "1.5-2 hours",
         "consiglio": "The fruit and vegetable stalls are the liveliest part."
       }

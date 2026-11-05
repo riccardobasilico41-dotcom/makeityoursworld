@@ -41,7 +41,7 @@ export const destinazioniSvizzera: Destinazione[] = [
       {
         nome: "Harder Kulm",
         testo: "The viewpoint above Interlaken, at 1,322 metres, with views of both lakes and, on a clear day, of Eiger, Mönch and Jungfrau. At the top are an observation platform and a restaurant in a castle-like building.",
-        come: "Funicular from Harder Bahn station, near Interlaken Ost.",
+        come: "Funicular from Harder Bahn station, near Interlaken Ost: about 10 minutes up.",
         quando: "Late afternoon for the light on the lakes. Seasonal: dates on the official website.",
         tempo: "2 hours",
         consiglio: "Check the webcams before going up: with low cloud the view disappears."
@@ -278,7 +278,7 @@ export const destinazioniSvizzera: Destinazione[] = [
       {
         nome: "First and the Cliff Walk",
         testo: "From Grindelwald the gondola climbs to First, at 2,166 metres, with views of Eiger, Mönch and Jungfrau. The Cliff Walk is a 45-metre metal walkway hanging over the void along the wall.",
-        come: "Gondola from Grindelwald, with several sections. The Cliff Walk is included in the ticket.",
+        come: "Gondola from Grindelwald, about 25 minutes with stops at Bort and Schreckfeld. The Cliff Walk is included in the ticket.",
         quando: "Morning, with the clearest sky. Closures and hours vary by season.",
         tempo: "2-3 hours",
         costo: "Prices on the official site; discounts with the Swiss Travel Pass or Half Fare Card.",
@@ -396,7 +396,7 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "Fast lift from the station (Top of Europe) to the platform.",
         quando: "Morning, with fewer clouds. Closed in strong wind or storm.",
         tempo: "45 minutes",
-        costo: "An expensive ticket, with prices that vary by date and season; discounts with the Swiss Travel Pass or Half Fare Card. Prices and offers on the official site.",
+        costo: "An expensive ticket, with prices that vary by date and season; discounts with the Swiss Travel Pass or Half Fare Card. Seat reservation CHF 10; the Good Morning Ticket for the first train is 15% off from 1 May to 31 October 2026. Prices and offers on the official site.",
         url: "https://www.jungfrau.ch/",
         consiglio: "Check the webcam before leaving: on overcast days you see nothing."
       },
@@ -418,7 +418,7 @@ export const destinazioniSvizzera: Destinazione[] = [
       },
       {
         nome: "Eismeer stop",
-        testo: "On the way up the train runs in a tunnel inside the Eiger and the Mönch and stops at Eismeer station, at about 3,160 metres. Through windows cut into the rock you look down on the glacier. It lasts a few minutes, but it is when you grasp the feat of the railway, completed in 1912.",
+        testo: "On the way up the train runs in a tunnel inside the Eiger and the Mönch and stops at Eismeer station, at about 3,160 metres. Through windows cut into the rock you look down on the glacier. The stop lasts about 5 minutes, but it is when you grasp the feat of the railway, completed in 1912.",
         come: "A short stop included in the journey, uphill only.",
         quando: "All year.",
         tempo: "a few minutes",
@@ -541,7 +541,7 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "Cable car from Stechelberg (valley) or from Mürren, in several sections.",
         quando: "Morning, with the best light. Closed in high wind.",
         tempo: "2-3 hours",
-        costo: "Prices on the official site, depending on the departure station; big discounts with the Swiss Travel Pass.",
+        costo: "Return CHF 115 from Stechelberg and CHF 91.40 from Mürren, valid until 12/12/2026 (official site); big discounts with the Swiss Travel Pass.",
         url: "https://www.schilthorn.ch/",
         consiglio: "From the valley the ride is longer but gives views of the walls."
       },

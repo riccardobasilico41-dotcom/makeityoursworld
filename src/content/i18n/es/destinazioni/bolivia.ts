@@ -87,7 +87,7 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Chacaltaya",
-        "testo": "Era una estación de esquí de gran altura. El glaciar desapareció por completo en 2009; la zona está cerca del Huayna Potosí.",
+        "testo": "Era la estación de esquí más alta del mundo; la cima está a unos 5.400 metros. El glaciar desapareció por completo en 2009; la zona está cerca del Huayna Potosí.",
         "come": "Tour de medio día desde La Paz.",
         "quando": "Temprano por la mañana.",
         "tempo": "Medio día",
@@ -150,7 +150,7 @@ export const destinazioniBolivia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Aterrizar en El Alto, a gran altura, y planear algo exigente el mismo día.",
+      "Aterrizar en El Alto, a más de 4.000 metros, y planear algo exigente el mismo día.",
       "Bloqueos de carreteras: pueden aislar la ciudad durante días y cancelar vuelos y traslados.",
       "Taxis no oficiales, sobre todo de noche: usa radiotaxis o apps.",
       "Carteristas en mercados abarrotados: sin objetos de valor a la vista.",
@@ -207,7 +207,7 @@ export const destinazioniBolivia: Destinazione[] = [
     luoghi: [
       {
         "nome": "El salar de Uyuni",
-        "testo": "Una inmensa extensión de sal a gran altura. Sin referencias no se sabe si una montaña está a cinco o a cincuenta kilómetros, y por eso funcionan las fotos en perspectiva.",
+        "testo": "La mayor extensión de sal del mundo, más de 10.000 km² a unos 3.650 metros. Sin referencias no se sabe si una montaña está a cinco o a cincuenta kilómetros, y por eso funcionan las fotos en perspectiva.",
         "come": "Solo en 4x4 con conductor, dentro del tour organizado, con salida desde Uyuni.",
         "quando": "En la temporada seca el salar está seco y se recorre entero. En la temporada de lluvias (más o menos de diciembre a abril) se convierte en un espejo de agua, pero algunas paradas se pierden.",
         "tempo": "Medio día o un día",
@@ -239,8 +239,8 @@ export const destinazioniBolivia: Destinazione[] = [
         "consiglio": "El segundo día en el Sud Lípez es el que más se le quedó a Rick, más que la sal: lagunas rojas llenas de flamencos por encima de los cuatro mil metros."
       },
       {
-        "nome": "Géiseres Sol de Mañana y termas",
-        "testo": "Géiseres a unos 4.900 metros que humean al amanecer y, en el mismo recorrido, pozas termales al aire libre.",
+        "nome": "Géiseres Sol de Mañana y termas de Polques",
+        "testo": "Géiseres a unos 4.900 metros que humean al amanecer y, en el mismo recorrido, las termas al aire libre de Polques, a unos 4.400 metros, con agua a unos 29 °C.",
         "come": "Paradas del tour en 4x4.",
         "quando": "Al amanecer, con temperaturas bajo cero.",
         "tempo": "1-2 horas",
@@ -248,7 +248,7 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Laguna Verde",
-        "testo": "Laguna del extremo suroeste, cerca de la frontera con Chile.",
+        "testo": "Laguna del extremo suroeste, al pie del volcán Licancabur, cerca de la frontera con Chile.",
         "come": "Última parada del tour en 4x4 antes de San Pedro de Atacama.",
         "quando": "Mañana.",
         "tempo": "1 hora",
@@ -269,7 +269,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "tappe": [
           "Día 1: salar, Isla Incahuasi, noche en un hotel de sal",
           "Día 2: lagunas del Sud Lípez, Laguna Colorada",
-          "Día 3: géiseres al amanecer, termas, Laguna Verde, regreso a Uyuni o continuación a San Pedro de Atacama"
+          "Día 3: géiseres al amanecer, termas de Polques, Laguna Verde, regreso a Uyuni o continuación a San Pedro de Atacama"
         ]
       }
     ],
@@ -368,12 +368,12 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "A pie desde el centro, con una subida corta pero empinada.",
         "quando": "Atardecer.",
         "tempo": "1-2 horas",
-        "consiglio": "A esta altura la subida cansa: ve despacio."
+        "consiglio": "A unos 3.800 metros la subida cansa: ve despacio."
       },
       {
         "nome": "Isla del Sol: Chincana y Roca Sagrada",
         "testo": "Las ruinas de Chincana y la Roca Sagrada, en el extremo norte de la isla donde según la tradición nacieron el sol y el primer Inca.",
-        "come": "Lancha colectiva desde Copacabana.",
+        "come": "Lancha colectiva desde Copacabana. En la isla no hay vehículos a motor ni carreteras asfaltadas.",
         "quando": "Mañana y atardecer.",
         "tempo": "Medio día",
         "costo": "Lancha y pequeñas tasas de entrada cobradas por las comunidades: lleva efectivo",
@@ -490,7 +490,7 @@ export const destinazioniBolivia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Centro colonial de Sucre y Casa de la Libertad",
-        "testo": "La capital constitucional, ciudad colonial blanca patrimonio de la UNESCO, a menor altura que La Paz. En la Casa de la Libertad se fundó la república.",
+        "testo": "La capital constitucional, ciudad colonial blanca patrimonio de la UNESCO, a unos 2.800 metros, más baja que La Paz. En la Casa de la Libertad se fundó la república.",
         "come": "A pie desde el centro.",
         "quando": "De día.",
         "tempo": "Medio día",
@@ -518,7 +518,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "A pie desde el centro de Potosí.",
         "quando": "Mañana.",
         "tempo": "1-2 horas",
-        "consiglio": "A esta altura hasta caminar por el centro cansa."
+        "consiglio": "A más de 4.000 metros hasta caminar por el centro cansa."
       },
       {
         "nome": "Minas del Cerro Rico",
@@ -582,7 +582,7 @@ export const destinazioniBolivia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "En Potosí la altura pesa: hasta caminar por el centro cansa.",
+      "En Potosí la altura (más de 4.000 metros) pesa: hasta caminar por el centro cansa.",
       "Las minas son un lugar de trabajo, no una atracción cualquiera: condiciones durísimas.",
       "Lleva un pequeño regalo para los mineros (hojas de coca, bebidas) comprado en el mercado de los mineros.",
       "Bloqueos de carreteras: pueden cortar las conexiones durante días."

@@ -47,7 +47,7 @@ export const destinazioniLettonia: Destinazione[] = [
     luoghi: [
       {
         nome: "Catedral de Riga y Plaza del Domo",
-        testo: "Considerada entre las mayores iglesias medievales de los países bálticos, fundada en 1211, con un gran órgano histórico. La plaza está rodeada de cafés.",
+        testo: "Considerada entre las mayores iglesias medievales de los países bálticos, fundada en 1211, con el órgano Walcker inaugurado en 1884, de 6.718 tubos. La plaza está rodeada de cafés.",
         come: "A pie desde el casco antiguo.",
         quando: "Mañana.",
         tempo: "1 hora",
@@ -211,12 +211,12 @@ export const destinazioniLettonia: Destinazione[] = [
     luoghi: [
       {
         nome: "Playa de Jūrmala",
-        testo: "Una playa de arena blanca de cuarzo larga y continua, en la costa del Golfo de Riga.",
+        testo: "Una playa de arena blanca de cuarzo de 33 km, en la costa del Golfo de Riga.",
         come: "Tren desde Riga a Majori, en la línea Riga-Tukums.",
         quando: "Verano, cuando hace calor; en invierno está desierta y evocadora.",
         tempo: "media jornada",
         costo: "entrada libre",
-        consiglio: "El tren es más cómodo que el coche: los no residentes pagan un peaje para entrar en Jūrmala en vehículo."
+        consiglio: "El tren es más cómodo que el coche: los no residentes pagan un peaje para entrar en Jūrmala en vehículo, todo el año: 5 € al día por coche (2026)."
       },
       {
         nome: "Jomas iela",
@@ -257,7 +257,7 @@ export const destinazioniLettonia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Para entrar en coche en Jūrmala los no residentes pagan un peaje: la excursión en tren es más sencilla.",
+      "Para entrar en coche en Jūrmala los no residentes pagan un peaje todo el año, 5 € al día (2026): la excursión en tren es más sencilla.",
       "La playa tiene viento: llevar una sudadera incluso en verano.",
       "Los fines de semana de verano los restaurantes están llenos: reservar."
     ],

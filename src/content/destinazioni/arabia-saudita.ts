@@ -112,8 +112,8 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
         "tempo": "45 minuti"
       },
       {
-        "nome": "Corniche e fontana di Re Fahd",
-        "testo": "Il lungomare della città, con la fontana di Re Fahd che si vede da lontano. La sera le famiglie passeggiano e fanno picnic.",
+        "nome": "Corniche, fontana di Re Fahd e moschea Al-Rahma",
+        "testo": "Il lungomare della città, con la fontana di Re Fahd, il getto d'acqua più alto del mondo secondo il Guinness (312 metri), e la moschea Al-Rahma, detta «galleggiante» perché costruita sulla riva e con l'alta marea sembra posata sull'acqua. La sera le famiglie passeggiano e fanno picnic.",
         "come": "Taxi o Uber dal centro. Si passeggia sul lungomare.",
         "quando": "Tramonto e sera, soprattutto nel fine settimana.",
         "tempo": "2 ore",
@@ -402,8 +402,8 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       },
       {
         "nome": "Edge of the World",
-        "testo": "Una lunga scarpata sopra la pianura desertica fuori Riyadh, con viste molto ampie.",
-        "come": "Con un tour organizzato o una guida locale.",
+        "testo": "Una lunga scarpata della catena del Tuwaiq sopra la pianura desertica, a circa 100 km da Riyadh, con viste molto ampie.",
+        "come": "Con un tour organizzato o una guida locale. Chi va da solo ha bisogno di un 4x4, perché le strade sono sconnesse, e di tutto il necessario: la zona è selvaggia e senza servizi.",
         "quando": "Mattina o tardo pomeriggio.",
         "tempo": "Mezza giornata",
         "consiglio": "Andare con un tour e stare lontani dal bordo."
@@ -508,8 +508,8 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     luoghi: [
       {
         "nome": "Rijal Almaa",
-        "testo": "Il villaggio di case-torre in pietra, argilla e legno sulle montagne dell'Asir, con un museo del patrimonio.",
-        "come": "In auto da Abha, su strada di montagna.",
+        "testo": "Il villaggio di una sessantina di case-torre in pietra, argilla e legno sulle montagne dell'Asir, alcune fino a otto piani, con un museo del patrimonio di oltre duemila oggetti e documenti.",
+        "come": "In auto da Abha, circa 50 km a ovest, su strada di montagna.",
         "quando": "Mattina.",
         "tempo": "Mezza giornata"
       },

@@ -70,7 +70,7 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Cittadella di Saladino e moschea di Muhammad Ali",
-        "testo": "La fortezza voluta da Saladino nel XII secolo, sulla collina che domina la città, con la moschea ottomana di Muhammad Ali. Dal bordo, nelle giornate limpide, la vista arriva fino alle piramidi.",
+        "testo": "La fortezza che Saladino fece iniziare nel 1176, sulla collina che domina la città, con la moschea ottomana di Muhammad Ali. Dal bordo, nelle giornate limpide, la vista arriva fino alle piramidi.",
         "come": "Taxi o Uber fino all'ingresso. Si gira a piedi dentro la cittadella, con scarpe comode.",
         "quando": "Aperta tutti i giorni 8-17 (2026). Il pomeriggio ha la luce migliore.",
         "tempo": "2 ore",
@@ -209,7 +209,7 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Saqqara",
-        "testo": "La piramide a gradoni di Djoser, considerata la prima grande costruzione in pietra tagliata, e le tombe dei nobili, come la mastaba di Mereruka, con rilievi molto belli.",
+        "testo": "La piramide a gradoni di Djoser, considerata la prima grande costruzione in pietra tagliata, e le tombe dei nobili, come le mastabe di Mereruka e di Ti, alto funzionario della V dinastia, con rilievi molto belli di agricoltura, pesca, caccia nelle paludi e costruzione di barche. La mastaba di Ti non compare nei biglietti ufficiali: chiedere in biglietteria se è aperta.",
         "come": "In auto con autista da Giza o dal Cairo.",
         "quando": "Aperto tutti i giorni 8-16 (2026). Meglio la mattina.",
         "tempo": "2-3 ore",
@@ -372,10 +372,10 @@ export const destinazioniEgitto: Destinazione[] = [
         "nome": "Medinet Habu e Colossi di Memnone",
         "testo": "Il tempio di Ramses III, con rilievi ancora colorati e meno visitatori dei grandi templi, vicino ai due colossi di Amenhotep III che sorvegliano la piana.",
         "come": "Sulla riva ovest, in taxi con le altre tappe.",
-        "quando": "Metà mattina o fine pomeriggio.",
+        "quando": "Medinet Habu aperto tutti i giorni 6-17 (2026). Metà mattina o fine pomeriggio.",
         "tempo": "1-1,5 ore",
         "consiglio": "Medinet Habu è spesso trascurato, ma merita la sosta.",
-        "costo": "Medinet Habu a pagamento: prezzi sul sito ufficiale egymonuments.gov.eg o in biglietteria; i Colossi si vedono dalla strada"
+        "costo": "Medinet Habu 230 EGP per adulti stranieri, 110 per studenti (2026); i Colossi si vedono dalla strada"
       }
     ],
     programmi: [
@@ -478,8 +478,8 @@ export const destinazioniEgitto: Destinazione[] = [
     luoghi: [
       {
         "nome": "Abu Simbel",
-        "testo": "I due templi di Ramses II e Nefertari scavati nella roccia, con le statue colossali all'ingresso. Negli anni Sessanta furono tagliati a blocchi e spostati per salvarli dal lago Nasser. Il 22 febbraio e il 22 ottobre il sole entra fino al santuario.",
-        "come": "Da Assuan in auto, con partenza prima dell'alba, oppure in aereo.",
+        "testo": "I due templi di Ramses II e Nefertari scavati nella roccia, con le statue colossali all'ingresso. Tra il 1963 e il 1968 furono tagliati a blocchi e spostati per salvarli dal lago Nasser. Il 22 febbraio e il 22 ottobre il sole entra fino al santuario.",
+        "come": "Da Assuan circa 300 km di strada, con partenza prima dell'alba, oppure in aereo.",
         "quando": "Aperto tutti i giorni 6-17 (2026). Arrivare all'apertura, prima dei bus dei gruppi.",
         "tempo": "1,5-2 ore sul posto",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/abu-simbel/",
@@ -494,6 +494,14 @@ export const destinazioniEgitto: Destinazione[] = [
         "tempo": "1,5 ore",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/philae/",
         "costo": "550 EGP per adulti stranieri, 275 per studenti, più la barca dal molo da concordare (2026)"
+      },
+      {
+        "nome": "Villaggio nubiano di Gharb Soheil",
+        "testo": "Un villaggio nubiano sulla riva ovest del Nilo, a pochi chilometri dalla diga di Assuan, nato circa un secolo fa quando la vecchia diga del 1902 sommerse i villaggi più a sud. Le famiglie nubiane accolgono i visitatori in casa per mangiare e, volendo, per dormire.",
+        "come": "Da Assuan: chiedere in hotel o al molo come arrivarci e concordare il prezzo prima.",
+        "quando": "Pomeriggio, con rientro al tramonto.",
+        "tempo": "2-3 ore",
+        "consiglio": "Pranzare o cenare in una casa nubiana è il modo migliore per conoscere la zona."
       },
       {
         "nome": "Feluca al tramonto",
@@ -528,7 +536,7 @@ export const destinazioniEgitto: Destinazione[] = [
     sapori: [
       {
         "nome": "Cucina nubiana",
-        "testo": "Piatti di pollo, pesce e riso speziati, nei villaggi nubiani intorno ad Assuan."
+        "testo": "Piatti di pollo, pesce e riso speziati, nei villaggi nubiani intorno ad Assuan, come Gharb Soheil."
       },
       {
         "nome": "Karkadè",
@@ -608,8 +616,8 @@ export const destinazioniEgitto: Destinazione[] = [
         "tempo": "1 ora"
       },
       {
-        "nome": "Deserto, laghi salati e sorgenti",
-        "testo": "Gita in fuoristrada verso il Grande Mare di Sabbia con sandboarding, tramonto sulle dune e bagno nelle sorgenti e nei laghi salati.",
+        "nome": "Deserto, laghi salati e sorgente di Cleopatra",
+        "testo": "Gita in fuoristrada verso il Grande Mare di Sabbia con sandboarding, tramonto sulle dune e bagno nelle sorgenti, come l'antica sorgente naturale detta Bagno di Cleopatra, e nei laghi salati.",
         "come": "Solo con un operatore locale, che ha il permesso per il deserto.",
         "quando": "Pomeriggio, con rientro al tramonto.",
         "tempo": "Mezza giornata",
@@ -621,7 +629,7 @@ export const destinazioniEgitto: Destinazione[] = [
         "titolo": "3 giorni",
         "tappe": [
           "Giorno 1: arrivo, fortezza di Shali, tramonto",
-          "Giorno 2: Aghurmi, sorgenti, deserto e notte in tenda",
+          "Giorno 2: Aghurmi, Bagno di Cleopatra, deserto e notte in tenda",
           "Giorno 3: bicicletta nell'oasi, rientro"
         ]
       }
@@ -702,9 +710,9 @@ export const destinazioniEgitto: Destinazione[] = [
     luoghi: [
       {
         "nome": "Hurghada",
-        "testo": "Una delle principali località turistiche della costa, con escursioni in barca per lo snorkeling sulle isole e sui reef al largo.",
+        "testo": "Una delle principali località turistiche della costa, con escursioni in barca per lo snorkeling e le immersioni sulle isole Giftun e sui reef al largo.",
         "come": "Escursioni da prenotare con un operatore locale dal proprio hotel.",
-        "quando": "Tutto l'anno, con acqua più fresca in inverno.",
+        "quando": "Tutto l'anno; da dicembre a marzo l'acqua scende a 21-23 °C, ad agosto arriva a 28 °C.",
         "tempo": "Giornata"
       },
       {
@@ -772,7 +780,7 @@ export const destinazioniEgitto: Destinazione[] = [
       "Non toccare né calpestare il corallo e non portare via conchiglie o coralli.",
       "Dal Sinai a Luxor serve quasi sempre un volo via Cairo: non fare il conto sulla strada.",
       "Per le crociere subacquee chiedere all'operatore il brevetto e l'esperienza richiesti.",
-      "D'inverno l'acqua è più fresca e c'è spesso vento: serve una muta più spessa.",
+      "Da dicembre a marzo l'acqua è sui 21-23 °C e c'è spesso vento: serve una muta più spessa.",
       "Sinai: il governo britannico (ottobre 2026) sconsiglia ogni viaggio nel Nord Sinai e i viaggi non essenziali nell'interno del Sud Sinai oltre la strada Santa Caterina-Nuweiba; le coste, compresa Sharm el-Sheikh, ne sono escluse."
     ],
     // GUIDA-END

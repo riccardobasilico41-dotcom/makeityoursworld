@@ -32,7 +32,7 @@ export const destinazioniTransilvania: Destinazione[] = [
     luoghi: [
       {
         nome: "Palace of the Parliament",
-        testo: "A huge building, wanted by Ceaușescu in the 1980s after a large part of the old centre was demolished. You visit only on a guided tour, among marble halls, chandeliers and giant carpets.",
+        testo: "A huge building, wanted by Ceaușescu and built between 1984 and 1997 after a large part of the old centre was demolished: 365,000 m², considered the heaviest building in the world. You visit only on a guided tour, among marble halls, chandeliers and giant carpets.",
         come: "Visitor entrance shown on the official website. Bring your passport and book ahead.",
         quando: "Weekday morning; the state rooms may be closed for events.",
         tempo: "1-1.5 hours",
@@ -148,11 +148,11 @@ export const destinazioniTransilvania: Destinazione[] = [
         nome: "Peleș Castle",
         testo: "The summer residence of Carol I, king of Romania, built between 1873 and 1914 in German neo-Renaissance style. For architecture it is perhaps the most beautiful castle of the trip, with interiors cared for in the smallest details.",
         come: "From Bucharest to Sinaia; from the centre of Sinaia walk up.",
-        quando: "Early morning, to avoid the crush. Closed from 2 November to 1 December 2026 for cleaning and conservation; weekly closing days on the website.",
+        quando: "Early morning, to avoid the crush. Closed from 2 November to 1 December 2026 for cleaning and conservation. Closed Monday and Tuesday; Wednesday 10-17, Thursday-Sunday 9:15-17, last entry at 16.",
         tempo: "1.5 hours",
-        costo: "tickets on the official website",
+        costo: "100 lei adults, ground and first floor (2026)",
         url: "https://peles.ro",
-        consiglio: "If the upper-floor visit is available, it is worth the extra ticket."
+        consiglio: "Tickets, on bilete.peles.ro, have a time slot and cannot be rescheduled."
       },
       {
         nome: "Sinaia Monastery",
@@ -167,8 +167,9 @@ export const destinazioniTransilvania: Destinazione[] = [
         nome: "Bran Castle",
         testo: "The fortress on the rock, documented since 1377, famous for its link with Dracula. In fact the link is more a tourist invention than a historical fact, but the castle is worth the visit on its own.",
         come: "South-west of Brașov, by car. Tickets on the official website.",
-        quando: "Early morning; hours on the official website.",
+        quando: "Early morning; on Mondays it opens at 12, other days at 9. Closes at 19 from April to October, at 18 from November to March.",
         tempo: "1-1.5 hours",
+        costo: "100 lei adults, standard tour (November-December 2026); often sold out: better online",
         url: "https://www.bran-castle.com",
         consiglio: "Vlad the Impaler never lived here: the Dracula link was born for tourism."
       },
@@ -189,7 +190,7 @@ export const destinazioniTransilvania: Destinazione[] = [
     ],
     attenzioni: [
       "Early morning: the castles fill with groups by late morning.",
-      "For Bran and Peleș check tickets and closures on the official websites."
+      "Peleș is closed on Mondays and Tuesdays; Bran opens only at 12 on Mondays. Tickets on the official websites."
     ],
     esperienzeSlugs: ['castello-peles', 'castello-bran'],
     tripSlugs: ['transilvania-express'],
@@ -235,7 +236,7 @@ export const destinazioniTransilvania: Destinazione[] = [
       },
       {
         nome: "Black Church (Biserica Neagră)",
-        testo: "A large Gothic church, built between the 14th and 15th centuries and blackened by the fire of 1689. It has a great 19th-century organ and a rich collection of oriental carpets.",
+        testo: "The main Gothic church in Romania, begun in 1383 and completed in the 15th century. It has an 1839 Buchholz organ with about 4,000 pipes and the largest collection of ‘Transylvanian rugs’, Anatolian carpets donated by Saxon merchants between the 15th and 17th centuries.",
         come: "On foot from Piața Sfatului.",
         quando: "Morning.",
         tempo: "45 minutes",
@@ -326,7 +327,7 @@ export const destinazioniTransilvania: Destinazione[] = [
     luoghi: [
       {
         nome: "Sighișoara Citadel and Clock Tower",
-        testo: "One of the last inhabited medieval citadels in Europe, a UNESCO site since 1999. The Clock Tower houses a history museum, with a view of the town.",
+        testo: "One of the last inhabited medieval citadels in Europe, a UNESCO site since 1999. The Clock Tower, 64 metres tall, has housed the History Museum since 1898, with a view of the town.",
         come: "On foot from the car park below; steep lanes.",
         quando: "Early morning, when it is quiet.",
         tempo: "2 hours",
@@ -354,9 +355,9 @@ export const destinazioniTransilvania: Destinazione[] = [
         nome: "Salina Turda",
         testo: "A salt mine that is today an underground park, with an underground lake, a panoramic lift, the echo chamber and an old winch still in place. It was one of the best surprises of the trip.",
         come: "By car from Sighișoara. Tickets at the entrance or online.",
-        quando: "Morning; big groups at weekends.",
+        quando: "Daily 9-17, last entry 16:20; big groups at weekends.",
         tempo: "2 hours",
-        costo: "prices on the official website",
+        costo: "75 lei Monday to Friday, 90 at weekends and holidays (2026); guide on request 205 lei",
         url: "https://salinaturda.eu",
         consiglio: "Dress in layers: inside the temperature is low all year."
       }
@@ -441,7 +442,7 @@ export const destinazioniTransilvania: Destinazione[] = [
       },
       {
         nome: "Lake Bâlea",
-        testo: "The high mountain lake on the Transfăgărășan, with chalets. In summer you arrive by car, the rest of the year by cable car from Bâlea Cascadă.",
+        testo: "The glacial lake at 2,034 metres on the Transfăgărășan, with chalets. In summer you arrive by car, the rest of the year by cable car from Bâlea Cascadă.",
         come: "By car along the road.",
         quando: "Summer, in clear weather.",
         tempo: "1 hour",
@@ -449,7 +450,7 @@ export const destinazioniTransilvania: Destinazione[] = [
       },
       {
         nome: "Vidraru Dam",
-        testo: "A large arch dam on the Argeș river, with a large artificial lake. A panoramic stop on the southern side of the Transfăgărășan.",
+        testo: "A 166-metre arch dam, completed in 1966, on the Argeș river, with a large artificial lake. A panoramic stop on the southern side of the Transfăgărășan.",
         come: "By car along the road.",
         quando: "Daytime.",
         tempo: "30 minutes",

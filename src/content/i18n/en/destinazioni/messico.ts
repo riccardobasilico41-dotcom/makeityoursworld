@@ -422,17 +422,18 @@ export const destinazioniMessico: Destinazione[] = [
           "nome": "Fuerte de San Miguel",
           "testo": "A fort on the hill south-west of the centre, with a moat and cannons facing the Gulf. Inside is the archaeological museum with the jade masks from Calakmul; from its ramparts you can watch the sunset over the sea.",
           "come": "Taxi from the centre.",
-          "quando": "Late afternoon; hours and closing days on the INAH website.",
+          "quando": "Tuesday to Sunday 8:00-17:00, closed on Mondays (INAH listing); late afternoon for the sunset.",
+          "costo": "145 MXN for foreigners (INAH listing, 2026).",
           "tempo": "1-2 hours",
-          "url": "https://www.inah.gob.mx/"
+          "url": "https://lugares.inah.gob.mx/en/node/4261"
         },
         {
           "nome": "Edzná",
           "testo": "An inland Maya site with the Building of the Five Storeys, a terraced pyramid on a large plaza. It sees few visitors compared with the Yucatán sites.",
           "come": "Car, taxi or tour from Campeche.",
-          "quando": "Open daily 8:00-17:00 (INAH listing). Early morning, before the heat.",
+          "quando": "Open daily 8:00-17:00, last entry at 16:30 (INAH listing). Early morning, before the heat.",
           "tempo": "Half a day",
-          "url": "https://www.inah.gob.mx/",
+          "url": "https://lugares.inah.gob.mx/en/node/5755",
           "consiglio": "Bring water and a hat: there is little shade.",
           "costo": "210 MXN for foreigners (INAH 2026 rates); the site museum is included."
         }
@@ -632,7 +633,7 @@ export const destinazioniMessico: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Bacalar Lagoon",
-          "testo": "The lagoon of seven colours, tens of kilometres long and narrow, with shades of blue and turquoise over a white bottom. It is home to stromatolites, very ancient rock formations built by microorganisms.",
+          "testo": "The lagoon of seven colours, tens of kilometres long and narrow, with shades of blue and turquoise over a white bottom. It is home to the world's most extensive freshwater stromatolite system: rock formations built by microorganisms, thousands of years old.",
           "come": "From Mahahual on an organised tour or independently by van or car.",
           "quando": "Morning, with full light.",
           "tempo": "Half a day or more",

@@ -47,7 +47,7 @@ export const destinazioniLettonia: Destinazione[] = [
     luoghi: [
       {
         nome: "Riga Cathedral and Dome Square",
-        testo: "Considered among the largest medieval churches in the Baltic states, founded in 1211, with a great historic organ. The square is ringed with cafes.",
+        testo: "Considered among the largest medieval churches in the Baltic states, founded in 1211, with the Walcker organ inaugurated in 1884, 6,718 pipes. The square is ringed with cafes.",
         come: "On foot from the Old Town.",
         quando: "Morning.",
         tempo: "1 hour",
@@ -211,12 +211,12 @@ export const destinazioniLettonia: Destinazione[] = [
     luoghi: [
       {
         nome: "Jūrmala beach",
-        testo: "A white quartz-sand beach long and continuous, on the coast of the Gulf of Riga.",
+        testo: "A white quartz-sand beach 33 km long, on the coast of the Gulf of Riga.",
         come: "Train from Riga to Majori, on the Riga-Tukums line.",
         quando: "Summer, when it is warm; in winter it is deserted and atmospheric.",
         tempo: "half a day",
         costo: "free entry",
-        consiglio: "The train is easier than the car: non-residents pay a toll to enter Jūrmala by vehicle."
+        consiglio: "The train is easier than the car: non-residents pay a toll to enter Jūrmala by vehicle, all year round: 5 € a day for a car (2026)."
       },
       {
         nome: "Jomas iela",
@@ -257,7 +257,7 @@ export const destinazioniLettonia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "To enter Jūrmala by car non-residents pay a toll: the train trip is simpler.",
+      "To enter Jūrmala by car non-residents pay a toll all year round, 5 € a day (2026): the train trip is simpler.",
       "The beach is windy: bring a sweatshirt even in summer.",
       "On summer weekends the restaurants are full: book."
     ],

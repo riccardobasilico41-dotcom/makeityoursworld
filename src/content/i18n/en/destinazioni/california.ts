@@ -61,7 +61,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Cable cars and Fisherman's Wharf",
         testo: "The city's historic cable cars, with the Powell-Hyde line climbing the hills and descending towards the waterfront. Fisherman's Wharf is the tourist harbour area, with seafood stalls, Pier 39 and the sea lions.",
-        come: "The cable cars start from Powell Street, near Union Square. Tickets and fares on the official Muni website.",
+        come: "The cable cars start from Powell Street, near Union Square. A single ride is $9 (2026), paid with the MuniMobile app, a Clipper card or exact cash; at the Powell & Market, Bay & Taylor and Hyde & Beach terminals you pay before boarding.",
         quando: "At peak times there is a queue: better early in the morning.",
         tempo: "2-3 hours",
         url: "https://www.sfmta.com/getting-around/muni/cable-cars",
@@ -69,7 +69,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         nome: "Muir Woods",
-        testo: "A coastal redwood forest, protected as a National Monument, north of San Francisco beyond the Golden Gate. Trails pass under trees up to 79 metres tall.",
+        testo: "A coastal redwood forest, protected as a National Monument, about 12 miles (19 km) north of San Francisco beyond the Golden Gate. Trails pass under trees up to 79 metres tall.",
         come: "You must book parking or the shuttle in advance on the National Park Service site. The main trail is flat.",
         quando: "Early morning, to avoid groups and fog.",
         tempo: "1.5-2 hours",
@@ -711,7 +711,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Point Lobos and 17-Mile Drive",
         testo: "Point Lobos is a nature reserve with coastal trails, sea lions and cypresses. The 17-Mile Drive is a scenic road through Pebble Beach.",
-        come: "By car from Carmel. Entry fees and tolls on the official sites.",
+        come: "By car from Carmel. Point Lobos costs $10 per vehicle, is open 8 a.m. to 5 p.m. (last entry 4:30 p.m.) and vehicles over 21 ft cannot enter (California State Parks, 2026). The 17-Mile Drive toll is on the Pebble Beach website.",
         quando: "Morning for Point Lobos; afternoon for the 17-Mile Drive.",
         tempo: "half a day",
         url: "https://www.parks.ca.gov/?page_id=571",

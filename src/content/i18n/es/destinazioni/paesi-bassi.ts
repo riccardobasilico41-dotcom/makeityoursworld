@@ -85,7 +85,7 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       },
       {
         nome: "Jordaan y Begijnhof",
-        testo: "El Jordaan es un barrio de calles estrechas, cafés y tiendas de artesanía. El Begijnhof es un patio de origen medieval, con fachadas antiguas y una de las casas de madera más viejas de la ciudad.",
+        testo: "El Jordaan es un barrio de calles estrechas, cafés y tiendas de artesanía. El Begijnhof es un patio de origen medieval, con fachadas antiguas y Het Houten Huys, de hacia 1420, considerada la casa de madera más antigua de Ámsterdam.",
         come: "A pie desde el centro.",
         quando: "Mañana, con luz suave y menos gente.",
         tempo: "2 horas",
@@ -93,7 +93,7 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       },
       {
         nome: "Vondelpark",
-        testo: "El gran parque de la ciudad, con estanques, praderas y quioscos; en verano el teatro al aire libre (Openluchttheater) acoge espectáculos. Un buen sitio para descansar después de los museos.",
+        testo: "El gran parque de la ciudad, 47 hectáreas de estanques, praderas y quioscos; de mayo a septiembre el teatro al aire libre (Openluchttheater) acoge espectáculos casi todos los fines de semana, con entrada libre y donativo voluntario. Un buen sitio para descansar después de los museos.",
         come: "Junto al museo Van Gogh, a pocos minutos a pie.",
         quando: "Tarde de verano.",
         tempo: "1-2 horas",
@@ -102,9 +102,9 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       },
       {
         nome: "Mercado Albert Cuyp",
-        testo: "Un gran mercado callejero en el barrio de De Pijp: fruta, verdura, pescado, ropa y stroopwafels hechos al momento. Ideal para picar algo barato.",
-        come: "En el barrio De Pijp, en tranvía o metro.",
-        quando: "Por la mañana; comprobar los días de apertura antes de ir.",
+        testo: "Un gran mercado callejero en el barrio de De Pijp, activo desde 1905: fruta, verdura, pescado, ropa y stroopwafels hechos al momento. Ideal para picar algo barato.",
+        come: "Metro Noord/Zuidlijn desde Centraal hasta De Pijp, o en tranvía.",
+        quando: "Lunes a sábado de 9:30 a 17; cerrado los domingos y festivos. Mejor por la mañana.",
         tempo: "1 hora",
         consiglio: "Probar stroopwafels calientes y arenque con cebolla."
       }
@@ -155,7 +155,7 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       {
         nome: "Amsterdam Oost y Noord",
         perChi: "Quien intenta ahorrar",
-        testo: "Fuera del centro, en tranvía o, para Noord, en ferry."
+        testo: "Fuera del centro, en tranvía o, para Noord, con los ferris GVB desde detrás de Centraal, gratuitos para peatones y ciclistas."
       }
     ],
     sapori: [

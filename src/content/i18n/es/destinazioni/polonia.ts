@@ -84,19 +84,21 @@ export const destinazioniPolonia: Destinazione[] = [
         nome: "Fábrica de Schindler y Podgórze",
         testo: "El museo en la antigua fábrica de Oskar Schindler cuenta la Cracovia ocupada por los nazis. Cerca está la Plaza de los Héroes del Gueto, con las sillas vacías en recuerdo del gueto.",
         come: "En tranvía hasta el barrio de Zabłocie o a pie desde Kazimierz.",
-        quando: "Mañana.",
+        quando: "Mañana. Cerrado el primer martes de cada mes.",
         tempo: "2-3 horas",
+        costo: "60 PLN normal, 45 reducida (2026); los lunes entrada gratuita, pero sin reserva",
         url: "https://muzeumkrakow.pl",
         consiglio: "Entradas y horarios en la web del Museo de Cracovia; en verano comprarlas con antelación."
       },
       {
         nome: "Mina de sal de Wieliczka",
-        testo: "Una mina de sal excavada desde el siglo XIII, en la primera lista de la UNESCO de 1978, en la localidad de Wieliczka cerca de Cracovia. El recorrido turístico pasa por capillas talladas en sal, lagos de salmuera y la capilla de Santa Kinga, donde también se celebran bodas.",
+        testo: "Una mina de sal excavada desde el siglo XIII, en la primera lista de la UNESCO de 1978, en la localidad de Wieliczka cerca de Cracovia. El recorrido turístico, de unos 3,5 km, baja hasta 135 metros y pasa por capillas talladas en sal, lagos de salmuera y la capilla de Santa Kinga, donde también se celebran bodas.",
         come: "Tren o bus desde Cracovia, luego a pie hasta la entrada.",
         quando: "Reservar online con antelación.",
-        tempo: "media jornada",
+        tempo: "2-3 horas de visita, más el viaje",
+        costo: "desde 121 PLN (2026)",
         url: "https://www.wieliczka-saltmine.com",
-        consiglio: "Llevar una chaqueta: bajo tierra hace fresco incluso en verano."
+        consiglio: "Llevar una chaqueta: bajo tierra hay 17-18 grados incluso en verano. El recorrido tiene unos 800 escalones."
       },
       {
         nome: "Planty y Barbacana",
@@ -224,7 +226,7 @@ export const destinazioniPolonia: Destinazione[] = [
         testo: "El primer campo, con el cartel «Arbeit macht frei» a la entrada, los bloques-museo con las exposiciones nacionales y las vitrinas de objetos personales de las víctimas. Es el lugar de memoria donde se comprende la escala del exterminio.",
         come: "Desde la estación de autobuses de Cracovia, bus o minibús hasta Oświęcim, o tren hasta la estación y luego autobús o a pie.",
         quando: "El pase nominativo se reserva online; durante gran parte del día solo se entra con guía.",
-        tempo: "media jornada",
+        tempo: "media jornada; el tour guiado estándar dura unas tres horas y media",
         costo: "la entrada es libre pero requiere el pase por franja horaria",
         url: "https://www.auschwitz.org",
         consiglio: "Mochilas y bolsos no pueden superar 35x25x15 cm: los más grandes se dejan fuera."

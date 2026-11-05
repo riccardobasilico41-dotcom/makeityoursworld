@@ -51,8 +51,8 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Mirogoj Cemetery",
-        testo: "The city's monumental cemetery, opened in 1876, with the main building designed by architect Hermann Bollé. The long arcades and cupolas enclose graves of every faith, side by side. It is one of the most beautiful and peaceful places in Zagreb, and few tourists get there.",
-        come: "By city bus from Kaptol, near the cathedral, or uphill on foot.",
+        testo: "The city's monumental cemetery, opened in 1876, with the main building designed by architect Hermann Bollé. The long arcades and cupolas, built between 1879 and 1929, enclose graves of every faith, side by side. It is one of the most beautiful and peaceful places in Zagreb, and few tourists get there.",
+        come: "By ZET bus 106 from the Kaptol terminus, near the cathedral (about every 20 minutes during opening hours), or uphill on foot.",
         quando: "Morning or late afternoon; in early November it is full of candles.",
         tempo: "1 hour",
         costo: "Free.",
@@ -704,7 +704,7 @@ export const destinazioniCroazia: Destinazione[] = [
         come: "From the station near Buža Gate, on foot.",
         quando: "Late afternoon for sunset.",
         tempo: "1-2 hours",
-        costo: "Return ticket, prices on the official site.",
+        costo: "€30 return, €17 one way (official site, 2026). Closed in December and from January to March; last ride up 30 minutes before closing.",
         consiglio: "Book a sunset slot: queues can be long."
       },
       {

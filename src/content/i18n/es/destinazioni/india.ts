@@ -778,7 +778,7 @@ export const destinazioniIndia: Destinazione[] = [
     luoghi: [
       {
         nome: "Fuerte de Mehrangarh",
-        testo: "El fuerte de los Rathore sobre un espolón de roca que domina la ciudad azul, empezado en 1459. Dentro está uno de los museos mejor cuidados de la India, con las galerías de palanquines, armas, howdahs y pinturas. Lo gestiona una fundación de la familia real.",
+        testo: "El fuerte de los Rathore sobre un espolón de roca que domina la ciudad azul, empezado en 1459. Dentro está uno de los museos mejor cuidados de la India, con las galerías de palanquines, armas, howdahs, cunas reales y pinturas. Lo gestiona una fundación de la familia real.",
         come: "En tuk-tuk o a pie desde la ciudad vieja, por una cuesta empinada. En la entrada hay un ascensor para la parte alta (50 rupias por trayecto, 2026). El recorrido del museo está señalizado.",
         quando: "El museo abre todos los días de 9 a 17. A la hora de apertura, antes del calor y de los grupos.",
         tempo: "2-3 horas",
@@ -1653,7 +1653,7 @@ export const destinazioniIndia: Destinazione[] = [
         nome: "Templo de Meenakshi Amman",
         testo: "Un templo-ciudad con catorce gopurams cubiertos de miles de estatuas pintadas, dedicado a la diosa Meenakshi y a Shiva (Sundareswarar). Dentro están el estanque del loto de oro y la sala de las mil columnas, que en realidad tiene 985 talladas, y ceremonias durante todo el día.",
         come: "Cuatro entradas, una por lado. Zapatos en la consigna; teléfono en la consigna o apagado según las normas del momento, fotos prohibidas. Ropa que cubra hombros y piernas. Los santuarios principales están reservados a los hindúes.",
-        quando: "Normalmente abierto desde primera hora hasta mediodía y desde la tarde hasta la noche; los horarios cambian en las fiestas. Cada noche una procesión lleva en palanquín las huellas de Shiva a la cámara de Meenakshi.",
+        quando: "Normalmente abierto desde las 5 de la mañana hasta mediodía y de 16 a 21.30 (Incredible India, 2026); los horarios cambian en las fiestas. Cada noche una procesión lleva en palanquín las huellas de Shiva a la cámara de Meenakshi.",
         tempo: "2-3 horas",
         costo: "entrada libre; pequeña tarifa por la consigna de teléfonos",
         consiglio: "Volver dos veces: por la mañana para la arquitectura y por la noche para las ceremonias."
@@ -1794,7 +1794,7 @@ export const destinazioniIndia: Destinazione[] = [
       {
         nome: "Kolukkumalai",
         testo: "Una plantación de té a unos 2.170 metros, entre las más altas del mundo, del lado de Tamil Nadu pero accesible solo desde Munnar. Al amanecer las colinas salen de las nubes.",
-        come: "En jeep 4x4 desde Suryanelli, por una pista de tierra empinada. Los jeeps se reservan con el hotel.",
+        come: "En jeep 4x4 desde Suryanelli, por unos 17 kilómetros de pista de tierra empinada. Los jeeps se reservan con el hotel.",
         quando: "Salida antes del amanecer, de noche.",
         tempo: "medio día",
         consiglio: "Dejar muy claro qué incluye el precio del jeep: espera, entrada a la finca y vuelta."
@@ -1921,7 +1921,7 @@ export const destinazioniIndia: Destinazione[] = [
         nome: "Las regatas de barcas serpiente",
         testo: "Barcas de más de 30 metros con decenas de remeros que cantan en coro. La más famosa es la Nehru Trophy, en el lago Punnamada, en un recorrido de unos 1,4 kilómetros.",
         come: "Tribunas de pago en el lago Punnamada, en Alappuzha; información en la web oficial de la regata.",
-        quando: "La Nehru Trophy se corre normalmente en agosto, durante el monzón (por tradición el segundo sábado del mes, pero la fecha cambia: en 2024 se aplazó a septiembre).",
+        quando: "La Nehru Trophy se corre normalmente en agosto, durante el monzón (por tradición el segundo sábado del mes, pero la fecha cambia: en 2024 se aplazó a septiembre, en 2026 se corrió el 22 de agosto).",
         tempo: "una jornada",
         consiglio: "Para quien viaja en agosto, ya justifica el viaje por sí sola."
       }
@@ -2187,7 +2187,7 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Desde el aparcamiento no pasan los coches: se llega en los vehículos eléctricos o a pie. Entrada ASI en la taquilla.",
         quando: "A la apertura, antes del sol fuerte y de los grupos. Las fuentes dan horarios distintos: comprobarlos en la taquilla.",
         tempo: "1 hora y media",
-        costo: "entrada ASI para extranjeros; tarifa y validez para el recinto de las reinas en la taquilla",
+        costo: "unas 600 rupias para extranjeros, tarifa sujeta a cambios (Karnataka Tourism, 2026); validez para el recinto de las reinas en la taquilla",
         url: "https://asi.nic.in/",
         consiglio: "Ir a pie desde el bazar por la orilla del río: un par de kilómetros entre ruinas y rocas."
       },

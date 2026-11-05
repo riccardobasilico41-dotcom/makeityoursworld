@@ -48,8 +48,8 @@ export const destinazioniNorvegia: Destinazione[] = [
     luoghi: [
       {
         nome: "Vigeland Park (Frognerparken)",
-        testo: "A large park with more than 200 bronze and granite sculptures by Gustav Vigeland, including the Monolith, a column of intertwined bodies. It is one of Oslo's most visited sights.",
-        come: "Metro or tram to Majorstuen/Vigelandsparken, then a short walk. You follow the central axis from the gate to the Monolith.",
+        testo: "The largest sculpture park made by a single artist: 212 bronze and granite sculptures by Gustav Vigeland, including the 14-metre Monolith with 121 intertwined human figures. Between 1 and 2 million people visit it every year.",
+        come: "Metro or tram to Majorstuen/Vigelandsparken, then a short walk. You follow the central axis, about 850 metres long, from the main gate to the Wheel of Life, past the Monolith.",
         quando: "Always open, free entry. Early morning or summer evening for the sculptures without crowds.",
         tempo: "1.5-2 hours",
         costo: "free entry",
@@ -98,7 +98,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       {
         nome: "Holmenkollen",
         testo: "Oslo's ski jump, with a ski museum and simulator, above the city. The view over the fjord and the forest is the reason to go up.",
-        come: "Metro to Holmenkollen. The last stretch to the ski jump is on foot.",
+        come: "Metro line 1 to Holmenkollen. The last stretch to the ski jump is on foot.",
         quando: "Daytime, in clear weather; in winter there is often snow.",
         tempo: "2 hours",
         url: "https://www.holmenkollen.com",
@@ -473,7 +473,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Lofotr Viking Museum at Borg",
-        testo: "A full-size reconstruction of a Viking chieftain's longhouse, with ships, a forge and re-enactments. Open from 1 May to 15 September. It lies on the road between Svolvær and Reine.",
+        testo: "A full-size reconstruction of a Viking chieftain's longhouse, the longest reconstructed longhouse in the world, with ships, a forge and re-enactments. Open from 1 May to 15 September; off-season only on some days (November-December 2026: Wednesday and Saturday 11am-5pm). It lies on the road between Svolvær and Reine.",
         come: "By car from Svolvær; an ideal stop on the transfer.",
         quando: "Full day.",
         tempo: "2 hours",
@@ -688,7 +688,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       {
         nome: "Fjellheisen and Storsteinen",
         testo: "The cable car that rises in a few minutes above the city; at the top there is a viewpoint over the fjords and islands. In winter it is a place to see the aurora without travelling.",
-        come: "From the centre by bus or on foot across the bridge; cable car times on the official website.",
+        come: "From the centre take bus 26 from Torgsenteret to the Fjellheisen stop, or walk across the bridge (about 45 minutes). The cabin leaves every half hour, on the hour and at half past, from 9am to midnight.",
         quando: "Evening in winter for the city lights, daytime in summer.",
         tempo: "1-2 hours",
         costo: "645 NOK return for adults, 310 NOK for children aged 3-15 (2026)",

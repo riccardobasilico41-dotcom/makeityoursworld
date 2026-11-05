@@ -426,17 +426,18 @@ export const destinazioniMessico: Destinazione[] = [
           "nome": "Fuerte de San Miguel",
           "testo": "Forte sulla collina a sud-ovest del centro, con fossato e cannoni rivolti al Golfo. Dentro c'è il museo archeologico con le maschere di giada di Calakmul; dagli spalti si vede il tramonto sul mare.",
           "come": "Taxi dal centro.",
-          "quando": "Tardo pomeriggio; orari e giorni di chiusura sul sito dell'INAH.",
+          "quando": "Da martedì a domenica 8-17, chiuso il lunedì (scheda INAH); tardo pomeriggio per il tramonto.",
+          "costo": "145 MXN per gli stranieri (scheda INAH, 2026).",
           "tempo": "1-2 ore",
-          "url": "https://www.inah.gob.mx/"
+          "url": "https://lugares.inah.gob.mx/en/node/4261"
         },
         {
           "nome": "Edzná",
           "testo": "Sito maya nell'entroterra con l'Edificio dei Cinque Piani, una piramide a terrazze su una grande piazza. È poco visitato rispetto ai siti dello Yucatán.",
           "come": "Auto, taxi o tour da Campeche.",
-          "quando": "Aperto ogni giorno 8-17 (scheda INAH). Mattina presto, prima del caldo.",
+          "quando": "Aperto ogni giorno 8-17, ultimo ingresso alle 16.30 (scheda INAH). Mattina presto, prima del caldo.",
           "tempo": "Mezza giornata",
-          "url": "https://www.inah.gob.mx/",
+          "url": "https://lugares.inah.gob.mx/en/node/5755",
           "consiglio": "Portare acqua e cappello: l'ombra è poca.",
           "costo": "210 MXN per gli stranieri (tariffe INAH 2026); il museo del sito è compreso."
         }
@@ -636,7 +637,7 @@ export const destinazioniMessico: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Laguna di Bacalar",
-          "testo": "La laguna dei sette colori, lunga decine di chilometri e stretta, con acqua dalle sfumature di azzurro e turchese su fondale bianco. Ospita stromatoliti, formazioni rocciose antichissime create da microrganismi.",
+          "testo": "La laguna dei sette colori, lunga decine di chilometri e stretta, con acqua dalle sfumature di azzurro e turchese su fondale bianco. Ospita il più esteso sistema di stromatoliti d'acqua dolce al mondo: formazioni rocciose create da microrganismi, vecchie di migliaia di anni.",
           "come": "Da Mahahual in tour organizzato oppure in autonomia con van o auto.",
           "quando": "Mattina, con luce piena.",
           "tempo": "Mezza giornata o più",

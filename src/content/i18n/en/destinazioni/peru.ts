@@ -85,7 +85,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Rainbow Mountain (Vinicunca)",
-        "testo": "The striped mountain in ochre, pink and turquoise, at very high altitude. A day trip from Cusco, with a final walk at altitude that is hard on your breath more than on distance.",
+        "testo": "The striped mountain in ochre, pink and turquoise, above 16,400 feet (5,000 metres). A day trip from Cusco, with a final walk at altitude that is hard on your breath more than on distance.",
         "come": "A day trip leaving Cusco at night, a few hours on the road and an uphill walk. You go with an agency.",
         "quando": "Dry season. Leave before dawn for fewer crowds.",
         "tempo": "Full day",
@@ -220,7 +220,7 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Ollantaytambo",
         "testo": "A village with a grid of Inca-origin streets and some of the oldest continuously occupied dwellings in South America, below a terraced fortress. Most trains to Machu Picchu leave from here.",
-        "come": "By car or shared van from Cusco. You visit on foot. The site is included in the Boleto Turístico.",
+        "come": "By car or shared van from Cusco, about 72 km by road. You visit on foot. The site is included in the Boleto Turístico.",
         "quando": "The site in the morning; the town is at its best in the evening, when the tour buses have left.",
         "tempo": "2-3 hours for the site, one night for the town",
         "consiglio": "Sleep here the night before the train to Machu Picchu: you sleep longer than if you leave from Cusco.",
@@ -905,7 +905,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Iquitos and Pacaya-Samiria",
-        "testo": "Iquitos is a city you cannot reach by road. From the city, expeditions leave for the Pacaya-Samiria reserve, where Rick went with Ruth Amazon Expedition: nights in farmers' houses and in tents in the forest.",
+        "testo": "Iquitos is the largest city in the world, outside islands, that cannot be reached by road: you arrive only by air or by river. From the city, expeditions leave for the Pacaya-Samiria reserve, where Rick went with Ruth Amazon Expedition: nights in farmers' houses and in tents in the forest.",
         "come": "Flight from Lima or boat along the river. From Iquitos tours leave from agencies and lodgings.",
         "quando": "All year; the dry season makes the trails easier.",
         "tempo": "3-4 days for an expedition",
@@ -1062,7 +1062,7 @@ export const destinazioniPeru: Destinazione[] = [
     luoghi: [
       {
         "nome": "Puno",
-        "testo": "The base for the lake, at high altitude. It has a lively centre and the port the boats leave from. It is higher than Cusco: altitude sickness is more likely.",
+        "testo": "The base for the lake, which lies at 3,812 metres. It has a lively centre and the port the boats leave from. It is higher than Cusco: altitude sickness is more likely.",
         "come": "From Cusco by tourist bus with stops (a full day), a tourist train or a flight to Juliaca. Buses also from Arequipa.",
         "quando": "Dry season, for the sun.",
         "tempo": "1-2 days",
@@ -1078,7 +1078,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Taquile",
-        "testo": "An island with a village and traditional weaving. Lunch with a view of the lake.",
+        "testo": "An island with a village and traditional weaving, recognised by UNESCO. Lunch with a view of the lake.",
         "come": "Boat from Puno, a few hours' sailing, then uphill on foot.",
         "quando": "Morning and lunch.",
         "tempo": "Half a day",
@@ -1369,7 +1369,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Cruz del Cóndor",
-        "testo": "The Andean condor viewpoint in the Colca Canyon. The condors fly close past the canyon walls.",
+        "testo": "The Andean condor viewpoint in the Colca Canyon, one of the deepest in the world. The condors fly close past the canyon walls.",
         "come": "Organised tour from Arequipa or scheduled bus to Chivay and Cabanaconde, with transfer to the viewpoint.",
         "quando": "Early morning, all year.",
         "tempo": "1-2 hours at the spot",
@@ -1495,7 +1495,7 @@ export const destinazioniPeru: Destinazione[] = [
     luoghi: [
       {
         "nome": "Laguna 69",
-        "testo": "The high-altitude turquoise lake, with a colour that looks retouched. It is the classic day trek of the Cordillera Blanca, hard because of altitude more than distance.",
+        "testo": "The turquoise lake at 4,600 metres, with a colour that looks retouched. It is the classic day trek of the Cordillera Blanca, hard because of altitude more than distance.",
         "come": "A day trip leaving Huaraz at dawn, a few hours on the road and then a few hours' uphill walk. Done with an agency or by shared van.",
         "quando": "Dry season. Leave early for a clear sky.",
         "tempo": "Full day",

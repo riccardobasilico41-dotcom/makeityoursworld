@@ -689,7 +689,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       },
       {
         nome: "Mercado de Jagalchi",
-        testo: "El gran mercado de pescado de Busan, en el puerto de Nampo. Las vendedoras, las célebres ajumma de Jagalchi, ofrecen pescado, pulpos y marisco vivos; se elige, se paga y se puede hacer cocinar en los restaurantes del mercado.",
+        testo: "El gran mercado de pescado de Busan, considerado el más grande de Corea del Sur, en el puerto de Nampo. Las vendedoras, las célebres ajumma de Jagalchi, ofrecen pescado, pulpos y marisco vivos; se elige, se paga y se puede hacer cocinar en los restaurantes del mercado.",
         come: "Metro línea 1 hasta Jagalchi.",
         quando: "Por la mañana, cuando el mercado está más vivo, o a mediodía.",
         tempo: "1,5 horas",
@@ -818,9 +818,9 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       },
       {
         nome: "Mercado de Nambu",
-        testo: "El mercado tradicional junto a la puerta Pungnammun, donde para desayunar se come el kongnamul gukbap, la sopa de brotes de soja típica de Jeonju.",
+        testo: "El mercado tradicional junto a la puerta Pungnammun, donde para desayunar se come el kongnamul gukbap, la sopa de brotes de soja típica de Jeonju. En el segundo piso está el Youth Mall, con pequeñas tiendas y locales abiertos por jóvenes del lugar, y el mercado organiza también un mercado nocturno.",
         come: "A pie desde la aldea de hanok.",
-        quando: "Por la mañana, para la sopa del desayuno.",
+        quando: "Por la mañana, para la sopa del desayuno. Al amanecer, de las 4 a las 10 aproximadamente, junto al arroyo delante del mercado se monta el Dokkaebi, el mercado de los agricultores. Las tiendas del Youth Mall tienen horarios distintos.",
         tempo: "1 hora",
       },
     ],

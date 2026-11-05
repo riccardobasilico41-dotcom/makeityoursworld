@@ -84,19 +84,21 @@ export const destinazioniPolonia: Destinazione[] = [
         nome: "Schindler's Factory and Podgórze",
         testo: "The museum in Oskar Schindler's former factory tells of Nazi-occupied Kraków. Nearby is Ghetto Heroes Square, with empty chairs recalling the ghetto.",
         come: "By tram to the Zabłocie district or on foot from Kazimierz.",
-        quando: "Morning.",
+        quando: "Morning. Closed on the first Tuesday of the month.",
         tempo: "2-3 hours",
+        costo: "60 PLN full, 45 reduced (2026); free on Mondays, but without booking",
         url: "https://muzeumkrakow.pl",
         consiglio: "Tickets and hours on the Museum of Kraków website; in summer buy ahead."
       },
       {
         nome: "Wieliczka Salt Mine",
-        testo: "A salt mine dug from the 13th century, on the first UNESCO list of 1978, in the town of Wieliczka near Kraków. The tourist route passes chapels carved in salt, brine lakes and the Chapel of St Kinga, where weddings are also held.",
+        testo: "A salt mine dug from the 13th century, on the first UNESCO list of 1978, in the town of Wieliczka near Kraków. The tourist route, about 3.5 km long, goes down to 135 metres and passes chapels carved in salt, brine lakes and the Chapel of St Kinga, where weddings are also held.",
         come: "Train or bus from Kraków, then on foot to the entrance.",
         quando: "All day; book online.",
-        tempo: "half a day",
+        tempo: "2-3 hours of visit, plus the journey",
+        costo: "from 121 PLN (2026)",
         url: "https://www.wieliczka-saltmine.com",
-        consiglio: "Bring a jacket: underground it is cool even in summer."
+        consiglio: "Bring a jacket: underground it is 17-18 degrees even in summer. The route has about 800 steps."
       },
       {
         nome: "Planty and Barbican",
@@ -224,7 +226,7 @@ export const destinazioniPolonia: Destinazione[] = [
         testo: "The first camp, with the 'Arbeit macht frei' sign at the entrance, the museum blocks with national exhibitions and the display cases of victims' personal belongings. It is the place of memory where you grasp the scale of the extermination.",
         come: "From Kraków bus station, bus or minibus to Oświęcim, or train to the station and then bus or on foot.",
         quando: "The personal pass must be booked online; for most of the day entry is only with a guide.",
-        tempo: "half a day",
+        tempo: "half a day; the standard guided tour lasts about three and a half hours",
         costo: "entry is free but requires a time-slot pass",
         url: "https://www.auschwitz.org",
         consiglio: "Backpacks and bags cannot exceed 35x25x15 cm: larger ones must be left outside."

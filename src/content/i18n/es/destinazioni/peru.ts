@@ -85,7 +85,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Montaña de Siete Colores (Vinicunca)",
-        "testo": "La montaña a rayas ocre, rosa y turquesa, a muchísima altura. Excursión de un día desde Cusco, con una caminata final en altura dura para el aliento más que por la distancia.",
+        "testo": "La montaña a rayas ocre, rosa y turquesa, por encima de los 5.000 metros. Excursión de un día desde Cusco, con una caminata final en altura dura para el aliento más que por la distancia.",
         "come": "Excursión de un día con salida de madrugada desde Cusco, unas horas de carretera y una caminata cuesta arriba. Se va con agencia.",
         "quando": "Temporada seca. Salida antes del amanecer para encontrar menos gente.",
         "tempo": "Día completo",
@@ -220,7 +220,7 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Ollantaytambo",
         "testo": "Un pueblo con una trama de calles de origen inca y algunas de las viviendas habitadas sin interrupción más antiguas de Sudamérica, bajo una fortaleza en terrazas. De aquí sale la mayoría de los trenes a Machu Picchu.",
-        "come": "En coche o colectivo desde Cusco. Se visita a pie. El sitio está incluido en el Boleto Turístico.",
+        "come": "En coche o colectivo desde Cusco, unos 72 km de carretera. Se visita a pie. El sitio está incluido en el Boleto Turístico.",
         "quando": "El sitio por la mañana; el pueblo luce más de noche, cuando los buses de los tours se han ido.",
         "tempo": "2-3 horas para el sitio, una noche para el pueblo",
         "consiglio": "Duerme aquí la noche antes del tren a Machu Picchu: duermes más que saliendo desde Cusco.",
@@ -905,7 +905,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Iquitos y Pacaya-Samiria",
-        "testo": "Iquitos es una ciudad a la que no se llega por carretera. Desde la ciudad salen expediciones hacia la reserva Pacaya-Samiria, donde Rick fue con Ruth Amazon Expedition: noches en casas de campesinos y en carpa en el bosque.",
+        "testo": "Iquitos es la ciudad más grande del mundo, fuera de las islas, a la que no se llega por carretera: solo en avión o en barco. Desde la ciudad salen expediciones hacia la reserva Pacaya-Samiria, donde Rick fue con Ruth Amazon Expedition: noches en casas de campesinos y en carpa en el bosque.",
         "come": "Vuelo desde Lima o barca por el río. Desde Iquitos los tours salen de agencias y alojamientos.",
         "quando": "Todo el año; la temporada seca hace más fáciles los senderos.",
         "tempo": "3-4 días para una expedición",
@@ -1062,7 +1062,7 @@ export const destinazioniPeru: Destinazione[] = [
     luoghi: [
       {
         "nome": "Puno",
-        "testo": "La base del lago, a gran altura. Tiene un centro animado y el puerto de donde salen los barcos. Está más alto que Cusco: el mal de altura es más probable.",
+        "testo": "La base del lago, que está a 3.812 metros. Tiene un centro animado y el puerto de donde salen los barcos. Está más alto que Cusco: el mal de altura es más probable.",
         "come": "Desde Cusco en bus turístico con paradas (un día), un tren turístico o vuelo a Juliaca. También hay buses desde Arequipa.",
         "quando": "Temporada seca, por el sol.",
         "tempo": "1-2 días",
@@ -1078,7 +1078,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Taquile",
-        "testo": "Isla con pueblo y tejido tradicional. Se almuerza con vista al lago.",
+        "testo": "Isla con pueblo y tejido tradicional, reconocido por la UNESCO. Se almuerza con vista al lago.",
         "come": "Barca desde Puno, unas horas de navegación, luego a pie cuesta arriba.",
         "quando": "Mañana y almuerzo.",
         "tempo": "Medio día",
@@ -1369,7 +1369,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Cruz del Cóndor",
-        "testo": "El mirador de los cóndores andinos en el Cañón del Colca. Los cóndores pasan cerca de las paredes del cañón.",
+        "testo": "El mirador de los cóndores andinos en el Cañón del Colca, uno de los más profundos del mundo. Los cóndores pasan cerca de las paredes del cañón.",
         "come": "Tour organizado desde Arequipa o bus de línea hasta Chivay y Cabanaconde, con traslado al mirador.",
         "quando": "Primeras horas de la mañana, todo el año.",
         "tempo": "1-2 horas en el punto",
@@ -1495,7 +1495,7 @@ export const destinazioniPeru: Destinazione[] = [
     luoghi: [
       {
         "nome": "Laguna 69",
-        "testo": "La laguna turquesa de alta montaña, con un color que parece retocado. Es el trek de un día clásico de la Cordillera Blanca, duro por la altura más que por la distancia.",
+        "testo": "La laguna turquesa a 4.600 metros, con un color que parece retocado. Es el trek de un día clásico de la Cordillera Blanca, duro por la altura más que por la distancia.",
         "come": "Excursión de un día con salida al amanecer desde Huaraz, unas horas de carretera y luego unas horas de caminata cuesta arriba. Se hace con agencia o en colectivo.",
         "quando": "Temporada seca. Sal temprano para tener el cielo despejado.",
         "tempo": "Día completo",

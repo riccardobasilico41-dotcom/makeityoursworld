@@ -50,7 +50,7 @@ export const destinazioniMalesia: Destinazione[] = [
     luoghi: [
       {
         nome: "Petronas Twin Towers",
-        testo: "The twin towers are the symbol of the city. You visit the skybridge linking the two towers and the highest observation deck; at the foot there is KLCC park with its fountain.",
+        testo: "The twin towers, 452 metres high and the tallest buildings in the world from 1998 to 2004, are the symbol of the city. You visit the skybridge on the 41st floor, linking the two towers, and the observation deck on the 86th floor; at the foot there is KLCC park with its fountain.",
         come: "LRT to KLCC, with a direct exit into the shopping centre. Tickets for the climb are timed and booked online on the official site.",
         quando: "Tuesday to Sunday, 9:00-21:00; closed on Mondays except public holidays (2025). Sunset is the most requested time and slots sell out. From below the towers look best at blue hour.",
         tempo: "1 hour for the climb; KLCC park takes half an hour",
@@ -59,7 +59,7 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "Batu Caves",
-        testo: "A Hindu shrine in a limestone cave, preceded by the golden statue of Murugan, almost 43 meters tall, and a long colorful staircase. Inside there is a large hall with small temples, light falling through an opening in the roof and monkeys on the steps.",
+        testo: "A Hindu shrine in a limestone cave, preceded by the golden statue of Murugan, almost 43 meters tall, and 272 colorful steps. Inside there is a large hall with small temples, light falling through an opening in the roof and monkeys on the steps.",
         come: "Komuter train from KL Sentral to the Batu Caves terminus. Entry to the main cave is free. The Dark Cave, the protected inner cave, can only be visited on the Malaysian Nature Society's educational trips, when they run. Shoulders and knees covered.",
         quando: "Early in the morning, with worshippers climbing and the steps in shade. During the Thaipusam festival the crowds are huge.",
         tempo: "2 hours",
@@ -68,7 +68,7 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "Masjid Jamek",
-        testo: "The mosque stands at the confluence of the Klang and Gombak rivers, where the city began. A little further on is the Sultan Abdul Samad Building.",
+        testo: "The mosque, from 1909, stands at the confluence of the Klang and Gombak rivers, where the city began. A little further on is Merdeka Square, where on 31 August 1957 the British flag was lowered and the Malayan flag raised for the first time, with the Sultan Abdul Samad Building beside it.",
         come: "LRT to Masjid Jamek. The mosque is visited outside prayer times, with a robe lent at the entrance.",
         quando: "In the morning.",
         tempo: "1 hour",
@@ -265,7 +265,7 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "Kek Lok Si",
-        testo: "A large Buddhist temple complex at the foot of Air Itam hill. The Ten Thousand Buddhas Pagoda has a Chinese base, a Thai middle section and a Burmese dome; higher up is a large bronze statue of Guanyin.",
+        testo: "The largest Buddhist temple in Malaysia, at the foot of Air Itam hill. The seven-storey Ten Thousand Buddhas Pagoda has a Chinese base, a Thai middle section and a Burmese dome; higher up is a large bronze statue of Guanyin.",
         come: "Rapid Penang bus from George Town or taxi. Inclined lifts take you up to the statue.",
         quando: "In the morning; during Chinese New Year it is crowded with lanterns and worshippers.",
         tempo: "1.5 hours",
@@ -292,7 +292,7 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "Penang Hill",
-        testo: "A hill above the city, reached by a funicular, with cooler air, a botanic garden and views over George Town and the mainland.",
+        testo: "A hill rising to 833 metres above the city, reached by a funicular that gets to the top in 5-10 minutes, with cooler air, a botanic garden and views over George Town and the mainland.",
         come: "By bus from Komtar or by taxi to the funicular station, then up by funicular.",
         quando: "Open daily from 6:15am to 9:45pm. In the morning there's less mist and shorter queues.",
         tempo: "3 hours",
@@ -406,7 +406,7 @@ export const destinazioniMalesia: Destinazione[] = [
     luoghi: [
       {
         nome: "Dutch Square, Christ Church and Stadthuys",
-        testo: "The Dutch centre of the city, with its brick-red buildings: Christ Church and the Stadthuys, the old seat of the Dutch government.",
+        testo: "The Dutch centre of the city, with its brick-red buildings: Christ Church, completed in 1753, and the Stadthuys, the old seat of the Dutch government, built in 1650.",
         come: "On foot from the historic centre. The Stadthuys houses a history and ethnography museum.",
         quando: "In the morning, before the crowd.",
         tempo: "1 hour",
@@ -414,7 +414,7 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "St. Paul's Hill and Porta de Santiago",
-        testo: "On the hill stand the ruins of the church that began as a Portuguese chapel, with Dutch tombstones along the walls. At the foot is the Porta de Santiago, the last part of the A Famosa fortress.",
+        testo: "On the hill stand the ruins of the church that began as a Portuguese chapel in 1521, with Dutch tombstones along the walls. At the foot is the Porta de Santiago, the last part of the A Famosa fortress.",
         come: "On foot, with a short climb. From the top you see the strait.",
         quando: "At sunset, with the light falling over the strait.",
         tempo: "1 hour",
@@ -440,8 +440,8 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "Cheng Hoon Teng",
-        testo: "A historic Chinese temple, still in use; in the nearby streets there are also a mosque and a Hindu temple: three cultures a few steps apart.",
-        come: "On foot, in the old town, in the area known as Harmony Street.",
+        testo: "A historic Chinese temple, still in use; in the nearby streets there are also the Sri Poyatha Moorthi Hindu temple and the Kampung Kling Mosque, founded in 1748 and rebuilt in brick in 1872, with architecture mixing Sumatran, Chinese, Hindu and Malay elements: three cultures a few steps apart.",
+        come: "On foot, in the old town, on Jalan Tukang Emas, known as Harmony Street.",
         quando: "In the morning.",
         tempo: "1 hour",
         costo: "free",
@@ -555,7 +555,7 @@ export const destinazioniMalesia: Destinazione[] = [
     luoghi: [
       {
         nome: "Tea plantations",
-        testo: "Hills covered in tea terraces as far as the eye can see. Some plantations have a tea room with a view.",
+        testo: "Hills covered in tea terraces as far as the eye can see, such as the BOH Sungai Palas plantation, where the trail to the mossy forest also starts. Some plantations have a tea room with a view.",
         come: "By car or tour from Tanah Rata or Brinchang. Narrow mountain roads.",
         quando: "In the morning, with less mist and fewer people.",
         tempo: "2 hours",
@@ -734,7 +734,7 @@ export const destinazioniMalesia: Destinazione[] = [
       {
         titolo: "2 days",
         tappe: [
-          "Day 1: arrive by boat from Kuala Tembeling, check in, night walk",
+          "Day 1: arrive by boat from Kuala Tembeling (about 2.5 hours on the river), check in, night walk",
           "Day 2: canopy walkway at opening, Bukit Teresek, lunch in the village, return in the afternoon"
         ]
       },
@@ -830,12 +830,20 @@ export const destinazioniMalesia: Destinazione[] = [
     luoghi: [
       {
         nome: "Langkawi Sky Bridge and cable car",
-        testo: "The cable car climbs towards the top of Gunung Mat Cincang. From there you go down to the curved pedestrian bridge, hanging over the void, with views over sea, islands and forest.",
+        testo: "The cable car climbs towards the top of Gunung Mat Cincang. From there you go down to the curved pedestrian bridge, hanging over the void at 660 metres above sea level, with views over sea, islands and forest.",
         come: "From the base station take the cable car to the top station, then the SkyGlide inclined lift or a path takes you to the bridge.",
         quando: "In the morning, when haze is lower and queues shorter.",
         tempo: "3 hours",
         url: "https://www.panoramalangkawi.com/",
         consiglio: "Go up at opening: around midday haze covers the view."
+      },
+      {
+        nome: "Telaga Tujuh (Seven Wells)",
+        testo: "A series of natural rock pools at the top of a waterfall of about 90 metres, in the forest above Oriental Village. Cool water for a swim after the climb.",
+        come: "About 1.5 km north of Oriental Village, the cable car base: by scooter or car to the car park, then on foot.",
+        quando: "Early morning.",
+        tempo: "1 hour and a half",
+        consiglio: "Pair it with the cable car on the same morning. Wear proper shoes: wet rocks are slippery."
       },
       {
         nome: "Kilim mangroves",
@@ -894,6 +902,10 @@ export const destinazioniMalesia: Destinazione[] = [
       {
         nome: "Langkawi laksa",
         testo: "Noodles in a spicy fish broth. Found at street stalls."
+      },
+      {
+        nome: "Duty-free goods",
+        testo: "Langkawi is a duty-free island: chocolate, alcohol and perfume cost less than on the mainland."
       },
       {
         nome: "Nasi lemak",
@@ -961,6 +973,7 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "By speedboat from the Kuala Besut jetty.",
         quando: "Outside the monsoon months. During the northeast monsoon almost all resorts and ferries stop.",
         tempo: "at least 2 nights",
+        costo: "Marine park conservation fee: RM30 for foreigners (2022), paid at the office on the Kuala Besut jetty.",
         consiglio: "Book chalets and boat in advance in high season."
       },
       {

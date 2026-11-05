@@ -37,7 +37,7 @@ export const destinazioniThailandia: Destinazione[] = [
     luoghi: [
       {
         nome: "Grand Palace e Wat Phra Kaew",
-        testo: "La antigua residencia de los reyes de Siam, con salas ceremoniales, pabellones dorados y el Templo del Buda Esmeralda, muy venerado. El complejo es grande y está muy concurrido.",
+        testo: "La residencia oficial de los reyes de Siam desde 1782, con salas ceremoniales, pabellones dorados y el Templo del Buda Esmeralda, muy venerado. El complejo es grande y está muy concurrido.",
         come: "Barco por el Chao Phraya hasta el muelle de Tha Chang y unos minutos a pie. Entrada única, visita por libre; hay guías oficiales en la puerta.",
         quando: "Todos los días desde las 8:30; taquilla hasta las 15:30, cierre a las 16:30. Puede cerrar sin aviso por ceremonias reales: consultar la web oficial. Hombros y rodillas cubiertos, nada de pantalón corto ni camisetas de tirantes.",
         tempo: "2-3 horas",
@@ -47,7 +47,7 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Wat Pho",
-        testo: "El templo del gran Buda reclinado cubierto de oro, con las plantas de los pies con incrustaciones de nácar. También es la sede histórica de la escuela de masaje tradicional tailandés, que todavía ofrece masajes dentro del recinto. Está cerca del Gran Palacio.",
+        testo: "El templo del gran Buda reclinado cubierto de oro, de 46 metros de largo y 15 de alto, con las plantas de los pies con incrustaciones de nácar. También es la sede histórica de la escuela de masaje tradicional tailandés, que todavía ofrece masajes dentro del recinto. Está cerca del Gran Palacio.",
         come: "A pie desde el Grand Palace o desde el muelle de Tha Tien.",
         quando: "Todos los días, 8:00-18:30; más tranquilo por la tarde. Hombros y rodillas cubiertos.",
         tempo: "1-1,5 horas",
@@ -65,7 +65,7 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Chatuchak Market",
-        testo: "Un mercado enorme con miles de puestos de ropa, plantas, artesanía y comida, divididos en sectores numerados.",
+        testo: "El mercado más grande de Tailandia: más de 15.000 puestos de ropa, plantas, artesanía y comida, divididos en 27 sectores numerados.",
         come: "BTS hasta Mo Chit o metro hasta Chatuchak Park.",
         quando: "Sábado y domingo, de la mañana a última hora de la tarde. Llegar pronto, antes del calor.",
         tempo: "Media jornada",
@@ -301,7 +301,7 @@ export const destinazioniThailandia: Destinazione[] = [
     luoghi: [
       {
         nome: "Lago Cheow Lan",
-        testo: "Un lago artificial nacido con la presa de Ratchaprapha en el parque nacional de Khao Sok. Las paredes calizas cubiertas de selva se alzan rectas sobre el agua verde, con islotes, ensenadas y cuevas. Uno se mueve solo en long-tail, y se duerme en los resorts flotantes.",
+        testo: "Un lago artificial de unos 185 km², nacido con la presa de Ratchaprapha, inaugurada en 1987 en el parque nacional de Khao Sok. Las paredes calizas cubiertas de selva se alzan rectas sobre el agua verde, con islotes, ensenadas y cuevas. Uno se mueve solo en long-tail, y se duerme en los resorts flotantes.",
         come: "En long-tail desde el muelle de la presa de Ratchaprapha hasta los resorts flotantes.",
         quando: "Mañana y atardecer; temporada seca.",
         tempo: "1-2 días",
@@ -386,7 +386,7 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Bond Island y Koh Ping Gun",
-        testo: "Islotes de roca en forma de seta en la bahía de Phang Nga. Khao Phing Kan y el pináculo de Ko Tapu se hicieron famosos con la película de James Bond «El hombre de la pistola de oro». La excursión incluye cuevas y lagunas interiores que se visitan en canoa.",
+        testo: "Islotes de roca en forma de seta en la bahía de Phang Nga. Khao Phing Kan y el pináculo de Ko Tapu se hicieron famosos con la película de James Bond «El hombre de la pistola de oro» (1974). La excursión incluye cuevas y lagunas interiores que se visitan en canoa.",
         come: "Excursión de un día en barco con tour, canoa hasta las cuevas (Tham Lot).",
         quando: "Día completo, desde la mañana.",
         tempo: "Día completo",
@@ -670,7 +670,7 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Big Buddha",
-        testo: "Una gran estatua de Buda sentado de hormigón revestido de mármol blanco, en la colina de Nakkerd cerca de Chalong. Desde la terraza se ven la bahía de Chalong y las playas del sur. Se construyó sobre todo con las donaciones de los fieles.",
+        testo: "Una gran estatua de Buda sentado de 45 metros, de hormigón revestido de mármol blanco birmano, en la colina de Nakkerd cerca de Chalong. Desde la terraza se ven la bahía de Chalong y las playas del sur. Se construyó sobre todo con las donaciones de los fieles.",
         come: "En taxi o scooter, por una carretera de montaña empinada.",
         quando: "Por la mañana o al atardecer; hombros y rodillas cubiertos.",
         tempo: "1 hora",
@@ -747,7 +747,7 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Parque marino de Ang Thong",
-        testo: "Un archipiélago de decenas de islas calizas cubiertas de selva frente a Koh Samui, protegido como parque nacional marino. La excursión clásica incluye un mirador en Koh Wua Talab y el lago salado interior de Koh Mae Ko, de color esmeralda, que se ve desde arriba tras una subida. Se hace kayak entre cuevas y esnórquel en las bahías.",
+        testo: "Un archipiélago de 42 islas calizas cubiertas de selva frente a Koh Samui, protegido como parque nacional marino. La excursión clásica incluye un mirador en Koh Wua Talab y el lago salado interior de Koh Mae Ko, de color esmeralda, que se ve desde arriba tras una subida. Se hace kayak entre cuevas y esnórquel en las bahías.",
         come: "Excursión en barco de un día desde Koh Samui (también desde Koh Phangan), solo con operadores autorizados.",
         quando: "Con el mar en calma; en los meses de monzón y con mal tiempo las salidas se suspenden a menudo.",
         tempo: "Día entero",

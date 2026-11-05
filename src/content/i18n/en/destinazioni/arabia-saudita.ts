@@ -107,8 +107,8 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
         "tempo": "45 minutes"
       },
       {
-        "nome": "Corniche and King Fahd Fountain",
-        "testo": "The city's seafront, with the King Fahd Fountain visible from afar. In the evening families stroll and picnic.",
+        "nome": "Corniche, King Fahd Fountain and Al-Rahma Mosque",
+        "testo": "The city's seafront, with the King Fahd Fountain, the world's highest water jet according to Guinness (312 metres), and Al-Rahma Mosque, known as the «floating mosque» because it is built on the shoreline and at high tide seems to rest on the water. In the evening families stroll and picnic.",
         "come": "Taxi or Uber from the center. You stroll the waterfront.",
         "quando": "Sunset and evening, especially at weekends.",
         "tempo": "2 hours",
@@ -397,8 +397,8 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       },
       {
         "nome": "Edge of the World",
-        "testo": "A long escarpment above the desert plain outside Riyadh, with sweeping views.",
-        "come": "On an organised tour or with a local guide.",
+        "testo": "A long escarpment of the Tuwaiq range above the desert plain, about 100 km from Riyadh, with sweeping views.",
+        "come": "On an organised tour or with a local guide. If you go on your own you need a 4x4, because the roads are rough, and everything you need: the area is wild and has no services.",
         "quando": "Morning or late afternoon.",
         "tempo": "Half a day",
         "consiglio": "Go with a tour and keep away from the edge."
@@ -503,8 +503,8 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     luoghi: [
       {
         "nome": "Rijal Almaa",
-        "testo": "The village of stone, clay and wood tower houses in the Asir mountains, with a heritage museum.",
-        "come": "By car from Abha, on a mountain road.",
+        "testo": "The village of some sixty stone, clay and wood tower houses in the Asir mountains, some up to eight storeys, with a heritage museum of more than two thousand objects and documents.",
+        "come": "By car from Abha, about 50 km to the west, on a mountain road.",
         "quando": "Morning.",
         "tempo": "Half a day"
       },

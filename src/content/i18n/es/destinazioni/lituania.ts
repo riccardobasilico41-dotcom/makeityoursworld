@@ -102,7 +102,7 @@ export const destinazioniLituania: Destinazione[] = [
       },
       {
         nome: "Užupis",
-        testo: "El barrio bohemio al otro lado del arroyo, autoproclamado república el 1 de abril de 1997. En el muro de la calle Paupio están las placas con los artículos de su «constitución», en muchas lenguas.",
+        testo: "El barrio bohemio al otro lado del arroyo, autoproclamado república el 1 de abril de 1997. En el muro de la calle Paupio están las placas con los 38 artículos y los 3 lemas de su «constitución», en más de veinte lenguas.",
         come: "A pie desde el casco antiguo, cruzando el puente.",
         quando: "De día; el 1 de abril es la fiesta de la independencia.",
         tempo: "1-2 horas",
@@ -120,7 +120,7 @@ export const destinazioniLituania: Destinazione[] = [
       },
       {
         nome: "Universidad de Vilna",
-        testo: "Fundada en 1579, tiene numerosos patios comunicados, la iglesia barroca de San Juan y una biblioteca histórica. Horarios y entradas en la web de la universidad.",
+        testo: "Fundada en 1579, tiene unos trece patios comunicados, la iglesia barroca de San Juan y una biblioteca histórica. Horarios y entradas en la web de la universidad.",
         come: "A pie, en Pilies gatvė.",
         quando: "Mañana entre semana.",
         tempo: "1 hora",
@@ -250,9 +250,9 @@ export const destinazioniLituania: Destinazione[] = [
         nome: "Castillo de la isla de Trakai",
         testo: "Castillo gótico de ladrillo rojo en la isla del lago Galvė, iniciado en el siglo XIV por el gran duque Kęstutis y terminado por su hijo Vytautas, que murió allí en 1430. Reconstruido en el siglo XX, alberga el Museo Histórico de Trakai.",
         come: "Desde el pueblo, puente de madera peatonal desde la orilla.",
-        quando: "Mañana entre semana; de octubre a marzo menos gente.",
+        quando: "Mañana entre semana; de octubre a marzo menos gente. De mayo a septiembre abierto todos los días 10-19; marzo-abril y octubre-noviembre cerrado los lunes, diciembre-febrero cerrado lunes y martes (10-18).",
         tempo: "2-3 horas",
-        costo: "entradas y precios en la web del Museo Histórico de Trakai",
+        costo: "14 € abril-septiembre, 12 € octubre-marzo; reducida 7/6 € (2026)",
         consiglio: "Entrar en las salas del museo: cuentan la historia del Gran Ducado."
       },
       {

@@ -62,7 +62,7 @@ export const destinazioniPanama: Destinazione[] = [
           "nome": "Panamá Viejo",
           "testo": "The ruins of the original city, founded in 1519 and destroyed in 1671 during the attack of the privateer Henry Morgan, by a fire whose author is still uncertain. Together with Casco Viejo it has been a UNESCO site since 1997.",
           "come": "Ride-hailing taxi from the centre.",
-          "quando": "Tuesday to Sunday, 8:30am-5:30pm; closed on Mondays. Morning, before the heat.",
+          "quando": "Tuesday to Sunday, 8:30am-5:30pm (ticket office until 4:30pm); closed on Mondays. Morning, before the heat.",
           "tempo": "1-2 hours",
           "url": "https://www.patronatopanamaviejo.org/"
         },
@@ -78,7 +78,7 @@ export const destinazioniPanama: Destinazione[] = [
           "nome": "Biomuseo",
           "testo": "The museum designed by Frank Gehry on the Amador Causeway, about the rise of the isthmus of Panama and biodiversity. The building with coloured canopies is visible from afar; inside, the rooms tell how the isthmus, joining two continents, changed animals and currents.",
           "come": "Taxi or Uber.",
-          "quando": "Tuesday to Sunday; closed on Mondays. Hours on the official website.",
+          "quando": "Tuesday to Friday 9am-3pm, Saturday and Sunday 10am-3pm; closed on Mondays.",
           "tempo": "2 hours",
           "costo": "20 USD for non-resident adults (2026).",
           "url": "https://biomuseo.org/"
@@ -121,7 +121,7 @@ export const destinazioniPanama: Destinazione[] = [
         },
         {
           "nome": "Sancocho",
-          "testo": "Chicken soup with yuca and coriander, a typical dish of the country."
+          "testo": "Chicken soup with yuca and coriander, the national dish."
         },
         {
           "nome": "Arroz con pollo",
@@ -318,7 +318,7 @@ export const destinazioniPanama: Destinazione[] = [
         },
         {
           "nome": "Cayo Zapatilla",
-          "testo": "The uninhabited islets of Cayos Zapatilla, inside Isla Bastimentos National Marine Park, with white sand and forest. Often the best stop on boat tours.",
+          "testo": "The uninhabited islets of Cayos Zapatilla, inside Isla Bastimentos National Marine Park, created in 1988, with white sand and forest. Often the best stop on boat tours.",
           "come": "With a boat tour from Bocas Town; park entry extra.",
           "quando": "Morning, with calm sea.",
           "tempo": "Half a day",
@@ -439,7 +439,7 @@ export const destinazioniPanama: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Barú volcano",
-          "testo": "The volcano of Chiriquí (3,475 m), from where on a clear day you see the Pacific and the Caribbean together, which happens rarely. Night climb for sunrise.",
+          "testo": "The volcano of Chiriquí and the highest peak in Panama (3,475 m), from where on a clear day you see the Pacific and the Caribbean together, which happens rarely. Night climb for sunrise.",
           "come": "Start around midnight, on foot with a guide on a long, steep trail, or with 4x4 tours to the top.",
           "quando": "Sunrise, with completely clear skies, which means few good days even in the dry season.",
           "tempo": "Night-morning",
@@ -460,6 +460,14 @@ export const destinazioniPanama: Destinazione[] = [
           "quando": "Morning.",
           "tempo": "2-3 hours",
           "consiglio": "Geisha can be tasted here at a fraction of what it costs elsewhere."
+        },
+        {
+          "nome": "Lost Waterfalls",
+          "testo": "A trail in the cloud forest of Los Naranjos, near Boquete, linking three waterfalls, each reached by a short detour.",
+          "come": "By car or taxi from Boquete to the entrance; a trail of about 3.2 km, of moderate difficulty.",
+          "quando": "By day, best in the morning.",
+          "tempo": "Half a day",
+          "url": "https://www.tourismpanama.com/blog/post/trails-and-waterfalls-to-enjoy-in-boquete/"
         }
       ],
       "programmi": [
@@ -467,7 +475,7 @@ export const destinazioniPanama: Destinazione[] = [
           "titolo": "1 day",
           "tappe": [
             "Coffee finca tour with tasting",
-            "Afternoon: a stroll around town"
+            "Afternoon: Lost Waterfalls or a stroll around town"
           ]
         },
         {

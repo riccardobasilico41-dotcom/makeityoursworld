@@ -63,11 +63,11 @@ export const destinazioniGermania: Destinazione[] = [
         nome: "Reichstag e cupola",
         testo: "Sede del Bundestag, con la cupola di vetro progettata da Norman Foster e completata nel 1999. Una rampa a spirale sale e scende dentro la cupola, con vista sulla città e sull'aula del Parlamento sotto di sé.",
         come: "Ingresso gratuito con registrazione obbligatoria sul sito del Bundestag (nome e data di nascita di ogni visitatore). All'ingresso controlli di sicurezza e documento d'identità originale.",
-        quando: "Sera, per le luci della città; orari e fasce d'ingresso sul sito del Bundestag. Registrarsi con giorni di anticipo.",
+        quando: "Sera, per le luci della città; ingressi ogni quarto d'ora, l'ultimo alle 21:45 (chiuso il 24 dicembre). Registrarsi con giorni di anticipo.",
         tempo: "1,5 ore",
         costo: "ingresso gratuito, registrazione obbligatoria",
         url: "https://www.bundestag.de",
-        consiglio: "Nella cupola c'è un'audioguida che racconta gli edifici intorno."
+        consiglio: "Nella cupola c'è un'audioguida di 20 minuti in dodici lingue, italiano compreso, che racconta gli edifici intorno."
       },
       {
         nome: "Porta di Brandeburgo",
@@ -82,7 +82,7 @@ export const destinazioniGermania: Destinazione[] = [
         nome: "Memoriale dell'Olocausto",
         testo: "Un campo di oltre 2.700 stele di cemento di Peter Eisenman, in cui si cammina in un paesaggio che disorienta. Sotto il memoriale c'è un centro di informazione con storie personali.",
         come: "A piedi dalla Porta di Brandeburgo.",
-        quando: "Il campo è aperto giorno e notte; orari del centro di informazione (gratuito) sul sito ufficiale.",
+        quando: "Il campo è aperto giorno e notte; il centro di informazione (gratuito) è aperto mar-dom 10-18, ultimo ingresso 45 minuti prima, chiuso il lunedì.",
         tempo: "1 ora",
         costo: "ingresso libero",
         url: "https://www.stiftung-denkmal.de",
@@ -91,8 +91,8 @@ export const destinazioniGermania: Destinazione[] = [
       {
         nome: "Memoriale del Muro di Berlino (Bernauer Straße)",
         testo: "Un tratto conservato del Muro, con la striscia della morte originale, la torre di guardia e il centro di documentazione. Una passerella sopra la striscia mostra come era la divisione.",
-        come: "S-Bahn fino a Nordbahnhof o U-Bahn fino a Bernauer Straße.",
-        quando: "Mattina. Orari della mostra all'aperto e del centro di documentazione sul sito ufficiale.",
+        come: "S-Bahn S1, S2, S25 o S26 fino a Nordbahnhof, oppure U-Bahn U8 fino a Bernauer Straße.",
+        quando: "Mattina. La mostra all'aperto è visitabile tutti i giorni 8-22; centro di documentazione e centro visitatori mar-dom 10-18.",
         tempo: "1,5-2 ore",
         costo: "ingresso libero",
         url: "https://www.stiftung-berliner-mauer.de",
@@ -102,7 +102,7 @@ export const destinazioniGermania: Destinazione[] = [
         nome: "Topografia del Terrore",
         testo: "Il centro di documentazione sul sito delle ex sedi della Gestapo e delle SS. La mostra racconta il funzionamento della repressione nazista.",
         come: "A piedi dal Potsdamer Platz.",
-        quando: "Orari sul sito ufficiale.",
+        quando: "Tutti i giorni 10-20; le aree all'aperto fino al tramonto, al massimo fino alle 20.",
         tempo: "1,5-2 ore",
         costo: "ingresso libero",
         url: "https://www.topographie.de",
@@ -111,16 +111,16 @@ export const destinazioniGermania: Destinazione[] = [
       {
         nome: "Isola dei Musei",
         testo: "Patrimonio UNESCO dal 1999, con cinque musei tra cui il Neues Museum (con il busto di Nefertiti), l'Altes Museum e la Alte Nationalgalerie. Il Pergamonmuseum è chiuso del tutto dal 2023: l'ala nord con l'Altare di Pergamo riapre il 4 giugno 2027, l'ala sud con la Porta di Ishtar intorno al 2037. Nel frattempo, il Pergamonmuseum. Das Panorama, di fronte all'isola, mostra il plastico dell'antica Pergamo.",
-        come: "Con i mezzi pubblici fino alle fermate vicine all'isola, poi a piedi. Biglietti singoli e cumulativi sul sito ufficiale.",
-        quando: "Mattina nei giorni feriali. Orari e giorni di chiusura di ogni museo sul sito ufficiale.",
+        come: "U-Bahn fino a Museumsinsel oppure S-Bahn fino a Hackescher Markt o Friedrichstraße, poi a piedi; l'ingresso del Neues Museum è dalla James-Simon-Galerie. Biglietti singoli e cumulativi sul sito ufficiale.",
+        quando: "Mattina nei giorni feriali. Il Neues Museum è aperto mar-dom 10-18, chiuso il lunedì; orari degli altri musei sul sito ufficiale.",
         tempo: "mezza giornata",
         url: "https://www.smb.museum",
         consiglio: "Nefertiti è nella sala della cupola nord del Neues Museum: biglietti e prezzi sul sito ufficiale."
       },
       {
         nome: "East Side Gallery",
-        testo: "Un lungo tratto di Muro rimasto in piedi lungo la Sprea a Friedrichshain, dipinto nel 1990 da artisti di molti paesi: una delle gallerie d'arte all'aperto più note al mondo.",
-        come: "Si percorre a piedi lungo la Sprea, fino all'Oberbaumbrücke.",
+        testo: "1.316 metri di Muro rimasti in piedi lungo la Sprea a Friedrichshain, il tratto superstite più lungo, dipinti nella primavera del 1990 da 118 artisti di 21 paesi: una delle gallerie d'arte all'aperto più grandi del mondo.",
+        come: "Sulla Mühlenstraße, tra la stazione Ostbahnhof e l'Oberbaumbrücke: si percorre a piedi lungo la Sprea.",
         quando: "Mattina o tarda sera, con meno gente.",
         tempo: "1-1,5 ore",
         costo: "ingresso libero",
@@ -128,7 +128,7 @@ export const destinazioniGermania: Destinazione[] = [
       },
       {
         nome: "Mauerpark",
-        testo: "Un parco sul vecchio tracciato del Muro, noto per il mercatino delle pulci della domenica e per il Bearpit Karaoke, la domenica pomeriggio quando il tempo lo permette, dalla primavera all'autunno.",
+        testo: "Un parco sul vecchio tracciato del Muro, noto per il mercatino delle pulci, ogni domenica dal 2004, e per il Bearpit Karaoke, la domenica pomeriggio quando il tempo lo permette, dalla primavera all'autunno.",
         come: "A piedi dal Memoriale del Muro di Bernauer Straße.",
         quando: "Domenica.",
         tempo: "2 ore",

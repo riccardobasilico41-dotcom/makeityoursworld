@@ -22,7 +22,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       "Vyšehrad, la fortaleza en una colina al sur del centro, menos frecuentada que el Castillo pero con más de mil años de historia (según la leyenda fundacional de Praga, aquí la princesa Libuše profetizó su nacimiento) y algunos de los panoramas más amplios sobre la ciudad y el Moldava",
     ],
     cosaFare: [
-      "Pararse en la Plaza de la Ciudad Vieja cuando da la hora, entre las 9 y las 23, para ver la procesión de los Apóstoles mecánicos del Orloj y el esqueleto de la Muerte que tira de la cuerda",
+      "Pararse en la Plaza de la Ciudad Vieja cuando da la hora, entre las 8 y las 23, para ver la procesión de los Apóstoles mecánicos del Orloj y el esqueleto de la Muerte que tira de la cuerda",
       "Cruzar el Puente de Carlos temprano, antes de las 8, para evitar la mayor parte de la multitud que lo llena de día",
       "Subir a la Torre de la Ciudad Pequeña (Malostranská mostecká věž), en el extremo del Puente de Carlos del lado de Malá Strana, para una vista desde arriba menos concurrida que la de la torre de la Ciudad Vieja",
       "Caminar por las murallas de Vyšehrad al atardecer, para un panorama de la ciudad mucho más tranquilo que el del Castillo",
@@ -49,7 +49,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
         nome: "Plaza de la Ciudad Vieja y Orloj",
         testo: "La plaza central con la Torre del Reloj Astronómico (1410), uno de los relojes astronómicos más antiguos del mundo todavía en funcionamiento. A cada hora en punto el esqueleto de la Muerte toca la campana y los doce Apóstoles desfilan por las ventanitas.",
         come: "A pie; la parada de metro más cercana es Staroměstská. El Orloj se ve desde la plaza, gratis.",
-        quando: "A la hora en punto, llegando unos minutos antes; la torre del ayuntamiento tiene un mirador de pago.",
+        quando: "Cada hora de 8 a 23, llegando unos minutos antes; la torre del ayuntamiento tiene un mirador de pago.",
         tempo: "1 hora",
         costo: "plaza y espectáculo gratuitos",
         url: "https://www.prague.eu",
@@ -66,9 +66,9 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       },
       {
         nome: "Castillo de Praga y Catedral de San Vito",
-        testo: "Uno de los conjuntos de castillo más grandes del mundo, con la Catedral gótica de San Vito, el Antiguo Palacio Real, la Basílica de San Jorge y el Callejón del Oro.",
-        come: "En tranvía hasta las paradas cercanas al Castillo, o a pie cuesta arriba desde Malá Strana. Entradas en la entrada o en línea.",
-        quando: "Temprano por la mañana, a la apertura; horarios del cambio de guardia en el sitio oficial.",
+        testo: "Para el Guinness de los récords el mayor castillo antiguo del mundo, sobre casi 70.000 m² en torno a tres patios: dentro están la Catedral gótica de San Vito, el Antiguo Palacio Real, la Basílica de San Jorge y el Callejón del Oro.",
+        come: "Tranvía 22 hasta la parada Pražský hrad, o a pie cuesta arriba desde Malá Strana. El conjunto abre todos los días de 6 a 22; para entrar en los edificios hace falta entrada (en la taquilla o en línea, válida 2 días).",
+        quando: "Temprano por la mañana, a la apertura. Cambio de guardia cada hora de 9 a 18 en las puertas; el solemne, con fanfarria, a mediodía en el primer patio.",
         tempo: "3-4 horas",
         url: "https://www.hrad.cz",
         consiglio: "Hay varios tipos de entrada: comparar en el sitio oficial qué incluye cada una."
@@ -95,7 +95,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       {
         nome: "Vyšehrad",
         testo: "La fortaleza en la colina al sur, menos visitada que el Castillo, con la basílica de los Santos Pedro y Pablo y el cementerio de los grandes checos (Dvořák, Smetana). La vista sobre el Moldava es excelente.",
-        come: "En transporte público desde el centro y luego a pie.",
+        come: "Metro línea C hasta Vyšehrad, o en tranvía hasta Albertov o el malecón Rašínovo nábřeží, y luego a pie.",
         quando: "Tarde.",
         tempo: "1,5 horas",
         costo: "parque libre",
@@ -184,7 +184,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       "Taxis: usar una compañía conocida o una app en lugar de pararlos en la calle, revisar las tarifas en el lateral y evitar los coches sin distintivos.",
       "Carteristas en los tranvías hacia el Castillo, en el transporte desde el aeropuerto y en las zonas turísticas llenas. Desconfiar de los falsos policías de paisano que piden ver el dinero y el pasaporte.",
       "El trdelník no es un dulce checo sino un producto turístico; las panaderías locales ofrecen algo mejor.",
-      "Los billetes del transporte deben validarse antes de subir (no los comprados en las máquinas a bordo): sin validar se arriesga una multa en el acto."
+      "Los billetes del transporte deben validarse antes de subir (no los comprados en las máquinas a bordo): sin validar se arriesga una multa: 1.200 CZK si se paga al revisor en el acto, 1.500 en 15 días, si no 2.000 (2026)."
     ],
     esperienzeSlugs: ['praga-castello-biglietto', 'praga-josefov-jewish-town', 'praga-degustazione-birra'],
     tripSlugs: ['praga-weekend'],

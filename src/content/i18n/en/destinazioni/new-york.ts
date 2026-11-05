@@ -32,7 +32,7 @@ export const destinazioniNewYork: Destinazione[] = [
       {
         nome: "Times Square",
         testo: "The brightest crossing in Manhattan, between 42nd and 47th Street, with LED billboards on every side. It is pedestrian and always open, but it is the most crowded place in the city.",
-        come: "By subway to Times Sq-42 St station. You explore on foot, no ticket.",
+        come: "By subway (lines 1, 2, 3, 7, N, Q, R, W and the S shuttle) to Times Sq-42 St station. You explore on foot, no ticket.",
         quando: "In the evening, after sunset, when the billboards are lit. By day it is far less striking.",
         tempo: "30-45 minutes",
         costo: "Free",
@@ -128,7 +128,7 @@ export const destinazioniNewYork: Destinazione[] = [
       {
         nome: "Apollo Theater",
         testo: "The Harlem theatre where James Brown, Ella Fitzgerald and Aretha Franklin sang. It is famous for its Wednesday Amateur Night, with an audience that cheers or boos the amateurs.",
-        come: "On 125th Street. By subway to 125 St. Shows are booked on the theatre's website, and there are guided tours of the hall.",
+        come: "On 125th Street. By subway (A, B, C, D lines) to 125 St. Shows are booked on the theatre's website, and there are guided tours of the hall.",
         quando: "The historic theatre is being renovated: programme, Amateur Night and tours on the official website.",
         tempo: "1-2 hours",
         url: "https://www.apollotheater.org/",
@@ -335,7 +335,7 @@ export const destinazioniNewYork: Destinazione[] = [
       {
         nome: "Wall Street and the Charging Bull",
         testo: "The financial heart of New York: the bronze bull statue, the Stock Exchange and Trinity Church. The bull stands in Bowling Green.",
-        come: "By subway to Bowling Green or Wall St. You walk around.",
+        come: "Subway 4 or 5 to Bowling Green or Wall St. You walk around.",
         quando: "On weekdays the area is full of office workers; at weekends it is calm.",
         tempo: "1 hour",
         costo: "Free",
@@ -435,7 +435,7 @@ export const destinazioniNewYork: Destinazione[] = [
       {
         nome: "DUMBO",
         testo: "The Brooklyn neighbourhood under the Manhattan Bridge, in former warehouses. At the corner of Water Street and Washington Street the bridge slots between the brick buildings: it is Brooklyn's most photographed view.",
-        come: "By subway to York Street, or on foot after the Brooklyn Bridge. Jane's Carousel is in Brooklyn Bridge Park.",
+        come: "Subway F to York Street, or on foot after the Brooklyn Bridge. Jane's Carousel is in Brooklyn Bridge Park.",
         quando: "Early morning for the photo without people; at sunset for the light.",
         tempo: "2-3 hours",
         url: "https://www.brooklynbridgepark.org/",

@@ -52,7 +52,7 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "nome": "Santa Sofia",
         "testo": "La basilica di Giustiniano, inaugurata nel 537, poi moschea dal 1453, museo dal 1935 e di nuovo moschea dal 2020, con i mosaici bizantini sotto la grande cupola.",
-        "come": "Tram fino a Sultanahmet. Abbigliamento coprente, come in ogni moschea; le regole di accesso per i turisti cambiano, quindi controllarle prima.",
+        "come": "Tram T1 fino a Sultanahmet. Dal 15 gennaio 2024 i visitatori stranieri pagano un biglietto e salgono alle gallerie superiori, riaperte nel 2024, mentre gran parte del piano terra è riservata ai fedeli. Abbigliamento coprente; le donne devono coprire il capo.",
         "quando": "Mattina presto, fuori dagli orari di preghiera.",
         "tempo": "1-1,5 ore",
         "consiglio": "Controllare prima gli orari sul sito ufficiale, che cambiano con le regole di accesso.",
@@ -62,8 +62,11 @@ export const destinazioniTurchia: Destinazione[] = [
         "nome": "Moschea Blu e Ippodromo",
         "testo": "La moschea di Sultanahmet, costruita tra il 1609 e il 1617, con sei minareti e oltre ventimila piastrelle di Iznik all'interno. Davanti, la piazza dell'antico ippodromo con l'obelisco egizio.",
         "come": "A piedi da Santa Sofia. Scarpe tolte, spalle e gambe coperte; donne con il capo coperto.",
-        "quando": "Fuori dagli orari di preghiera, quando l'ingresso è riservato ai fedeli.",
-        "tempo": "45 minuti"
+        "quando": "Aperta ogni giorno 8.30-19 da aprile a settembre e 8.30-17 da ottobre a marzo, ultimo ingresso 30 minuti prima; il venerdì si entra dalle 14.30. Chiusa alle visite per le preghiere di mezzogiorno e del pomeriggio, da 30 minuti prima del richiamo a 15 minuti dopo la fine (2026).",
+        "tempo": "45 minuti",
+        "url": "https://sultanahmetcami.org/",
+        "consiglio": "Chi non ha abiti adatti li prende in prestito all'apposito banco all'ingresso e li riconsegna lì.",
+        "costo": "Ingresso libero (2026)"
       },
       {
         "nome": "Palazzo Topkapı e Harem",
@@ -86,8 +89,8 @@ export const destinazioniTurchia: Destinazione[] = [
       },
       {
         "nome": "Gran Bazar e Bazar delle Spezie",
-        "testo": "Il mercato coperto con migliaia di negozi di tappeti, ceramiche e gioielli; poco più in là, quello delle spezie con tè, dolci turchi e frutta secca.",
-        "come": "Tram fino a Beyazıt-Kapalıçarşı, oppure a piedi da Santa Sofia.",
+        "testo": "Il mercato coperto con oltre 4.000 negozi di tappeti, ceramiche e gioielli; poco più in là, quello delle spezie con tè, dolci turchi e frutta secca.",
+        "come": "Tram T1 fino a Beyazıt-Kapalıçarşı, oppure a piedi da Santa Sofia.",
         "quando": "In mattinata, prima della folla; il Gran Bazar è chiuso la domenica.",
         "tempo": "2 ore",
         "consiglio": "Al Bazar delle Spezie assaggiare prima di comprare."
@@ -95,7 +98,7 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "nome": "Torre di Galata",
         "testo": "La torre di pietra genovese completata nel 1348 sopra Karaköy, alta circa 63 metri. Dalla terrazza in cima si vedono il Corno d'Oro, il Bosforo e la penisola storica con le cupole e i minareti. Dal 2020 è un museo.",
-        "come": "Tram fino a Karaköy, poi salita a piedi per le stradine; oppure la funicolare storica Tünel.",
+        "come": "Tram T1 fino a Karaköy, poi salita a piedi per le stradine; oppure la funicolare storica Tünel. Dentro, un ascensore porta al sesto piano, poi una scala sale alla terrazza, a circa 40 metri.",
         "quando": "Aperta tutti i giorni 8.30-18.30, biglietteria fino alle 18.15 circa (2026). Meglio all'apertura o nell'ultima ora: a metà giornata c'è coda.",
         "tempo": "1 ora",
         "costo": "Prezzo per i visitatori stranieri sul sito ufficiale",
@@ -446,7 +449,7 @@ export const destinazioniTurchia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Efeso",
-        "testo": "La grande città greco-romana con la biblioteca di Celso (II secolo d.C.), il grande teatro, la via dei Cureti e le Case a terrazza, residenze romane con mosaici e affreschi sotto una copertura.",
+        "testo": "La grande città greco-romana con la biblioteca di Celso (II secolo d.C.), il grande teatro da circa 24.000-25.000 posti, la via dei Cureti e le Case a terrazza, sei residenze romane con mosaici e affreschi sotto una copertura.",
         "come": "Da Selçuk in taxi o dolmuş; l'ingresso alto evita la salita.",
         "quando": "Aperto tutti i giorni 8-18, biglietteria fino alle 17.30 (novembre 2026). All'apertura, soprattutto quando arrivano le navi da crociera da Kuşadası.",
         "tempo": "2-3 ore",
@@ -472,7 +475,7 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "nome": "Şirince",
         "testo": "Piccolo villaggio di case di pietra in collina, con vini di frutta e botteghe.",
-        "come": "Dolmuş o taxi da Selçuk.",
+        "come": "Dolmuş o taxi da Selçuk, circa 7 km.",
         "quando": "Pomeriggio.",
         "tempo": "1-2 ore",
         "consiglio": "Assaggiare i vini di frutta prima di comprare."
@@ -581,7 +584,7 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "nome": "Kayaköy",
         "testo": "Un villaggio greco svuotato con lo scambio di popolazioni del 1923, con circa 500 case di pietra in rovina sul pendio.",
-        "come": "Dolmuş da Fethiye.",
+        "come": "Dolmuş da Fethiye, circa 8 km.",
         "quando": "Mattina o pomeriggio, con luce bassa.",
         "tempo": "1-1,5 ore"
       },

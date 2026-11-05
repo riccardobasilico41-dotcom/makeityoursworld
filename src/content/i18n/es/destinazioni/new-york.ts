@@ -32,7 +32,7 @@ export const destinazioniNewYork: Destinazione[] = [
       {
         nome: "Times Square",
         testo: "El cruce más luminoso de Manhattan, entre las calles 42 y 47, con vallas de LED por todos lados. Es peatonal y está siempre abierta, pero es el lugar más concurrido de la ciudad.",
-        come: "En metro hasta la estación Times Sq-42 St. Se recorre a pie, sin entrada.",
+        come: "En metro (líneas 1, 2, 3, 7, N, Q, R, W y lanzadera S) hasta la estación Times Sq-42 St. Se recorre a pie, sin entrada.",
         quando: "Por la noche, después de la puesta de sol, cuando los carteles están encendidos. De día impresiona mucho menos.",
         tempo: "30-45 minutos",
         costo: "Gratuito",
@@ -128,7 +128,7 @@ export const destinazioniNewYork: Destinazione[] = [
       {
         nome: "Apollo Theater",
         testo: "El teatro de Harlem donde cantaron James Brown, Ella Fitzgerald y Aretha Franklin. Es famoso por la Amateur Night de los miércoles, con un público que aplaude o abuchea a los aficionados.",
-        come: "Está en la calle 125. En metro hasta 125 St. Los espectáculos se reservan en la web del teatro, y hay visitas guiadas de la sala.",
+        come: "Está en la calle 125. En metro (líneas A, B, C, D) hasta 125 St. Los espectáculos se reservan en la web del teatro, y hay visitas guiadas de la sala.",
         quando: "El teatro histórico está en obras: programa, Amateur Night y visitas en la web oficial.",
         tempo: "1-2 horas",
         url: "https://www.apollotheater.org/",
@@ -335,7 +335,7 @@ export const destinazioniNewYork: Destinazione[] = [
       {
         nome: "Wall Street y el Charging Bull",
         testo: "El corazón financiero de Nueva York: la estatua del toro de bronce, la Bolsa y Trinity Church. El toro está en Bowling Green.",
-        come: "En metro hasta Bowling Green o Wall St. Se recorre a pie.",
+        come: "Metro 4 o 5 hasta Bowling Green o Wall St. Se recorre a pie.",
         quando: "En días laborables la zona está llena de oficinistas; el fin de semana está tranquila.",
         tempo: "1 hora",
         costo: "Gratuito",
@@ -435,7 +435,7 @@ export const destinazioniNewYork: Destinazione[] = [
       {
         nome: "DUMBO",
         testo: "El barrio bajo el puente de Manhattan en Brooklyn, en antiguos almacenes. En el cruce de Water Street con Washington Street el puente encaja entre los edificios de ladrillo: es la imagen más fotografiada de Brooklyn.",
-        come: "En metro hasta York Street, o a pie después del Brooklyn Bridge. Jane's Carousel está en el Brooklyn Bridge Park.",
+        come: "Metro F hasta York Street, o a pie después del Brooklyn Bridge. Jane's Carousel está en el Brooklyn Bridge Park.",
         quando: "A primera hora para la foto sin gente; al atardecer por la luz.",
         tempo: "2-3 horas",
         url: "https://www.brooklynbridgepark.org/",

@@ -98,7 +98,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "Lago Toba",
-        testo: "El mayor lago volcánico del mundo, nacido de una erupción enorme. Agua fresca, orillas verdes, pueblos y una gran isla en el centro, Samosir.",
+        testo: "El mayor lago volcánico del mundo, unos 1.130 km², nacido de una erupción enorme. Agua fresca, orillas verdes, pueblos y una gran isla en el centro, Samosir.",
         come: "Desde Medan en coche o autobús hasta Parapat, varias horas de carretera, luego ferri a Tuk Tuk en la isla de Samosir.",
         quando: "Todo el año, mejor por la mañana y en la estación seca.",
         tempo: "2-3 días",
@@ -236,7 +236,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     luoghi: [
       {
         nome: "Borobudur",
-        testo: "El templo budista más grande del mundo, del siglo IX, con nueve plataformas superpuestas, seis cuadradas y tres circulares, y miles de relieves de piedra. Al amanecer, con la niebla sobre la llanura, es uno de los pocos lugares que está a la altura de su mito.",
+        testo: "El templo budista más grande del mundo, del siglo IX, con nueve plataformas superpuestas, seis cuadradas y tres circulares, 2.672 paneles en relieve y en origen 504 estatuas de Buda. Al amanecer, con la niebla sobre la llanura, es uno de los pocos lugares que está a la altura de su mito.",
         come: "Desde Yogyakarta en coche o autobús. La subida a la estructura tiene cupo, con guía y sandalias especiales: se reserva online en la web oficial con mucha antelación.",
         quando: "Al amanecer o al atardecer, con paquetes específicos de pago. La subida a la estructura se divide en franjas horarias con cupo y se agota.",
         tempo: "3 horas",
@@ -246,7 +246,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "Prambanan",
-        testo: "El mayor conjunto de templos hindúes de Indonesia, de mediados del siglo IX, con las torres dedicadas a Shiva, Visnú y Brahma; la de Shiva es la más alta del conjunto. Los relieves de los templos de Shiva y de Brahma narran el Ramayana.",
+        testo: "El mayor conjunto de templos hindúes de Indonesia, de mediados del siglo IX, con las torres dedicadas a Shiva, Visnú y Brahma; la de Shiva, de 47 metros, es la más alta del conjunto. Los relieves de los templos de Shiva y de Brahma narran el Ramayana.",
         come: "A las afueras de Yogyakarta, en autobús urbano o taxi. Se visita solo o con guía.",
         quando: "Por la mañana o al atardecer. Los lunes, por mantenimiento, solo se visita el parque alrededor de los templos: consultar la web oficial. Algunas noches se representa el ballet del Ramayana.",
         tempo: "2 horas",
@@ -437,7 +437,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "Amanecer en el Gunung Batur",
-        testo: "Un trekking nocturno que lleva a la cima del volcán para el amanecer sobre la caldera y el lago Batur. La subida es de unas horas y no es técnica.",
+        testo: "Un trekking nocturno que lleva a la cima del volcán, 1.717 metros, para el amanecer sobre la caldera y el lago Batur. La subida es de unas horas y no es técnica.",
         come: "Con un guía local, saliendo de Toya Bungkah o de los pueblos cercanos en plena noche.",
         quando: "Salida en plena noche para estar en la cima al amanecer.",
         tempo: "medio día",
@@ -571,7 +571,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "Tumbas en la roca",
-        testo: "Tumbas excavadas en la pared de roca y cuevas funerarias. En algunos sitios las «tau tau», efigies de madera de los difuntos, miran desde balcones.",
+        testo: "Tumbas excavadas en la pared de roca y cuevas funerarias, como el cementerio de Lemo, en una pared de roca escarpada. En algunos sitios las «tau tau», efigies de madera de los difuntos, miran desde balcones.",
         come: "Con el guía desde Rantepao, en coche o scooter.",
         quando: "Por la mañana.",
         tempo: "medio día",
@@ -718,7 +718,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "Trekking al Gunung Rinjani",
-        testo: "El segundo volcán más alto de Indonesia. Desde el borde del cráter se ve el lago Segara Anak, dentro de la caldera. El recorrido es largo y expuesto y termina en arena volcánica.",
+        testo: "El segundo volcán más alto de Indonesia, 3.726 metros. Desde el borde del cráter se ve el lago Segara Anak, dentro de la caldera, a unos 2.000 metros. El recorrido es largo y expuesto y termina en arena volcánica.",
         come: "Desde Senaru o Sembalun, solo con un operador autorizado y un guía. Hay que registrarse online en el sistema oficial eRinjani, que indica también los documentos necesarios; desde 2026 cada guía puede llevar como máximo cuatro excursionistas. Paquetes de varios días con porteadores y tiendas.",
         quando: "En la estación seca. Con lluvias, mal tiempo o tras accidentes el parque puede cerrar los senderos: comprobarlo en eRinjani antes de reservar.",
         tempo: "varios días",
@@ -857,6 +857,7 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "En barco desde Labuan Bajo: el tiempo depende del tipo de barco. Se camina por senderos con un ranger, que solo lleva un palo bifurcado.",
         quando: "Por la mañana, en las horas más frescas.",
         tempo: "medio día",
+        url: "https://www.komodonationalpark.org/",
         consiglio: "Pedir expresamente Rinca en el tour: es más salvaje que la isla de Komodo."
       },
       {
@@ -865,6 +866,7 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "En barco desde Labuan Bajo, más lejos que Rinca. Con ranger obligatorio.",
         quando: "Por la mañana.",
         tempo: "medio día",
+        url: "https://www.komodonationalpark.org/",
         consiglio: "Nunca acercarse sin el guarda y nunca salir del sendero."
       },
       {
@@ -1006,8 +1008,8 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "Wae Rebo",
-        testo: "Un pueblo remoto con siete casas cónicas (mbaru niang) dispuestas en círculo alrededor del altar, en un claro entre las montañas. Está habitado y se siguen sus reglas, empezando por el rito de bienvenida. Una de las cosas más fuertes de la isla.",
-        come: "Desde la zona de Denge, algunas horas de subida por el bosque. Se duerme en las casas de huéspedes del pueblo, en dormitorio. Se organiza a través del comité del pueblo o de un operador.",
+        testo: "Un pueblo remoto con siete casas cónicas (mbaru niang) dispuestas en círculo alrededor del altar, en un claro entre las montañas, a unos 1.200 metros. Está habitado y se siguen sus reglas, empezando por el rito de bienvenida. Una de las cosas más fuertes de la isla.",
+        come: "Desde la zona de Denge y Dintor, unos 4,5 km de sendero por el bosque: 2,5-3 horas de subida (2022). Se duerme en las casas de huéspedes del pueblo, en dormitorio. Se organiza a través del comité del pueblo o de un operador.",
         quando: "En la estación seca; con las lluvias el sendero está embarrado.",
         tempo: "2 días (1 noche)",
         consiglio: "Llevar un regalo modesto para la comunidad y respetar las normas del pueblo."

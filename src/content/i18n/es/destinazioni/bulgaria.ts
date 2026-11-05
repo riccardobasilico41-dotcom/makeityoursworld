@@ -31,9 +31,9 @@ export const destinazioniBulgaria: Destinazione[] = [
     luoghi: [
       {
         nome: "Zona de esquí de Bansko",
-        testo: "A la zona se llega con una larga góndola desde el pueblo hasta la base de Banderishka Polyana; los remontes suben a gran altura. Las pistas son más tranquilas que las alpinas. Se va por la experiencia exótica en un rincón de Europa fuera de los circuitos más conocidos.",
+        testo: "A la zona se llega con una larga góndola, en servicio desde 2003, desde el pueblo hasta la base de Banderishka Polyana; los remontes llegan a 2.600 metros y hay unos 75 km de pistas. Las pistas son más tranquilas que las alpinas. Se va por la experiencia exótica en un rincón de Europa fuera de los circuitos más conocidos.",
         come: "Estación de la góndola a pocos minutos a pie del centro; forfait en taquilla u online.",
-        quando: "Invierno, fechas de la temporada en la web oficial; por la mañana temprano la góndola tiene colas.",
+        quando: "Invierno, fechas de la temporada en la web oficial; góndola 8:30-17, telesillas 8:45-16:15. Por la mañana temprano la góndola tiene colas.",
         tempo: "jornada completa",
         costo: "precios de los forfaits en la web oficial",
         url: "https://banskoski.com",
@@ -85,7 +85,7 @@ export const destinazioniBulgaria: Destinazione[] = [
     ],
     attenzioni: [
       "Bulgaria usa el euro desde el 1 de enero de 2026: comparar con los precios en lev de datos antiguos.",
-      "Desde Sofía: usar traslados reservados, no taxis de la calle.",
+      "Desde Sofía hay unos 160 km: usar traslados reservados, no taxis de la calle.",
       "La zona de esquí tiene colas en temporada alta: llegar pronto a la góndola.",
       "En coche en invierno hace falta equipo de invierno (neumáticos de nieve, cadenas si se exigen)."
     ],

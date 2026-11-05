@@ -60,7 +60,7 @@ export const destinazioniMontenegro: Destinazione[] = [
       },
       {
         nome: "Risan and the Roman mosaics",
-        testo: "One of the oldest settlements in the bay. From Roman times the floor mosaics of a villa survive, the most valuable remains of the ancient town.",
+        testo: "Ancient Rhizon, considered the oldest settlement in the Bay of Kotor. From Roman times the floor mosaics of a villa survive, the most valuable remains of the ancient town.",
         come: "On the road from Kotor to Herceg Novi, in the innermost part of the bay. A visit takes a few minutes.",
         quando: "All year, in the morning.",
         tempo: "30 minutes",
@@ -552,7 +552,7 @@ export const destinazioniMontenegro: Destinazione[] = [
       },
       {
         nome: "Đurđevića Tara Bridge",
-        testo: "A five-arch concrete bridge, its roadway about 172 metres above the river, completed in 1940. During the war partisans blew up one of the arches.",
+        testo: "A five-arch concrete bridge, 365 metres long, its roadway about 172 metres above the river, completed in 1940. During the war partisans blew up one of the arches.",
         come: "On the road from Žabljak towards Pljevlja and Mojkovac. The zipline is paid.",
         quando: "Morning.",
         tempo: "45 minutes",

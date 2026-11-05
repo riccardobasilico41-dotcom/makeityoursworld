@@ -62,7 +62,7 @@ export const destinazioniPanama: Destinazione[] = [
           "nome": "Panamá Viejo",
           "testo": "Las ruinas de la ciudad original, fundada en 1519 y destruida en 1671 durante el asalto del corsario Henry Morgan, por un incendio cuyo autor sigue sin estar claro. Junto con el Casco Viejo es patrimonio UNESCO desde 1997.",
           "come": "Taxi por aplicación desde el centro.",
-          "quando": "Martes a domingo, de 8:30 a 17:30; cerrado los lunes. En la mañana, antes del calor.",
+          "quando": "Martes a domingo, de 8:30 a 17:30 (taquilla hasta las 16:30); cerrado los lunes. En la mañana, antes del calor.",
           "tempo": "1-2 horas",
           "url": "https://www.patronatopanamaviejo.org/"
         },
@@ -78,7 +78,7 @@ export const destinazioniPanama: Destinazione[] = [
           "nome": "Biomuseo",
           "testo": "El museo diseñado por Frank Gehry en la Calzada de Amador, sobre el surgimiento del istmo de Panamá y la biodiversidad. El edificio de techos de colores se ve desde lejos; dentro, las salas cuentan cómo el istmo, al unir dos continentes, cambió animales y corrientes.",
           "come": "Taxi o Uber.",
-          "quando": "Martes a domingo; cerrado los lunes. Horarios en la web oficial.",
+          "quando": "De martes a viernes de 9 a 15, sábados y domingos de 10 a 15; cerrado los lunes.",
           "tempo": "2 horas",
           "costo": "20 USD para adultos no residentes (2026).",
           "url": "https://biomuseo.org/"
@@ -121,7 +121,7 @@ export const destinazioniPanama: Destinazione[] = [
         },
         {
           "nome": "Sancocho",
-          "testo": "Sopa de pollo con yuca y culantro, plato típico del país."
+          "testo": "Sopa de pollo con yuca y culantro, el plato nacional."
         },
         {
           "nome": "Arroz con pollo",
@@ -318,7 +318,7 @@ export const destinazioniPanama: Destinazione[] = [
         },
         {
           "nome": "Cayo Zapatilla",
-          "testo": "Los islotes deshabitados de Cayos Zapatilla, dentro del Parque Nacional Marino Isla Bastimentos, con arena blanca y bosque. A menudo la mejor parada de los tours en barca.",
+          "testo": "Los islotes deshabitados de Cayos Zapatilla, dentro del Parque Nacional Marino Isla Bastimentos, creado en 1988, con arena blanca y bosque. A menudo la mejor parada de los tours en barca.",
           "come": "Con tour en barca desde Bocas Town; entrada al parque aparte.",
           "quando": "Mañana, con mar calmo.",
           "tempo": "Media jornada",
@@ -439,7 +439,7 @@ export const destinazioniPanama: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Volcán Barú",
-          "testo": "El volcán de Chiriquí (3.475 m), desde donde con cielo despejado se ven el Pacífico y el Caribe a la vez, cosa que pasa pocas veces. Subida nocturna para el amanecer.",
+          "testo": "El volcán de Chiriquí y la cima más alta de Panamá (3.475 m), desde donde con cielo despejado se ven el Pacífico y el Caribe a la vez, cosa que pasa pocas veces. Subida nocturna para el amanecer.",
           "come": "Salida hacia medianoche, a pie con guía por un sendero largo y empinado, o con tours en 4x4 hasta la cima.",
           "quando": "Amanecer, con cielo del todo despejado, es decir pocos días buenos incluso en estación seca.",
           "tempo": "Noche-mañana",
@@ -460,6 +460,14 @@ export const destinazioniPanama: Destinazione[] = [
           "quando": "Mañana.",
           "tempo": "2-3 horas",
           "consiglio": "El Geisha se prueba aquí a una fracción de lo que cuesta en otros lugares."
+        },
+        {
+          "nome": "Lost Waterfalls",
+          "testo": "Un sendero en el bosque nuboso de Los Naranjos, cerca de Boquete, que une tres cascadas, cada una con un pequeño desvío.",
+          "come": "En coche o taxi desde Boquete hasta la entrada; sendero de unos 3,2 km, de dificultad moderada.",
+          "quando": "De día, mejor por la mañana.",
+          "tempo": "Media jornada",
+          "url": "https://www.tourismpanama.com/blog/post/trails-and-waterfalls-to-enjoy-in-boquete/"
         }
       ],
       "programmi": [
@@ -467,7 +475,7 @@ export const destinazioniPanama: Destinazione[] = [
           "titolo": "1 día",
           "tappe": [
             "Tour de una finca de café con degustación",
-            "Tarde: paseo por el pueblo"
+            "Tarde: Lost Waterfalls o paseo por el pueblo"
           ]
         },
         {

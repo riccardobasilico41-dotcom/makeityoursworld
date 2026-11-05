@@ -49,7 +49,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Hol Chan Marine Reserve and Shark Ray Alley",
-          "testo": "Hol Chan is a natural channel in the reef, south of Ambergris, inside a marine reserve that is part of the UNESCO Belize reef site. Shark Ray Alley is where fishermen used to clean their nets: the scraps drew nurse sharks and rays, which now swim up to the boat.",
+          "testo": "Hol Chan is a natural channel in the reef, south of Ambergris, inside a marine reserve set up in 1987 that is part of the UNESCO Belize reef site. Shark Ray Alley is where fishermen used to clean their nets: the scraps drew nurse sharks and rays, which now swim up to the boat.",
           "come": "Half-day boat trip from Caye Caulker with guide and gear. The marine park fee is often not included in the price.",
           "quando": "Morning, when the sea is calmest; best season December-April.",
           "tempo": "Half a day",
@@ -59,7 +59,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "The Great Blue Hole from above",
-          "testo": "A marine sinkhole more than 300 metres wide and about 124 deep, in the middle of Lighthouse Reef, an offshore atoll. The perfect circle can only be seen from above.",
+          "testo": "A marine sinkhole more than 300 metres wide and about 124 deep, in the middle of Lighthouse Reef, an atoll about 70 km off the coast. The perfect circle can only be seen from above.",
           "come": "Scenic flight in a small plane from the island or from Belize City. The alternative is a full-day dive, which costs more and is more tiring.",
           "quando": "Clear day, preferably in the morning.",
           "tempo": "Half a day",
@@ -322,7 +322,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Xunantunich",
-          "testo": "A Classic-period Maya site with the El Castillo pyramid on a hill above the Mopan river. You can climb to the top.",
+          "testo": "A Classic-period Maya site with the El Castillo pyramid, about 40 metres high, on a hill above the Mopan river. You can climb to the top.",
           "come": "From San Ignacio taxi to the Mopan, then the hand-cranked ferry; on the other side you walk uphill.",
           "quando": "Morning, before the heat.",
           "tempo": "2 hours",
@@ -330,7 +330,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Caracol",
-          "testo": "One of the largest Maya cities, on the Vaca Plateau at the foot of the Maya Mountains. The Caana pyramid is 43 metres high.",
+          "testo": "One of the largest Maya cities, on the Vaca Plateau at the foot of the Maya Mountains. The Caana pyramid, 43 metres high, is still the tallest man-made structure in Belize.",
           "come": "Guided trip from San Ignacio along a long, partly unpaved road; lunch is usually included.",
           "quando": "Early morning. Dry season for the road.",
           "tempo": "Full day",
@@ -473,7 +473,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Cockscomb Basin Wildlife Sanctuary",
-          "testo": "A reserve created to protect the jaguar, in a rainforest valley with trails to waterfalls and viewpoints. Jaguars are rarely seen.",
+          "testo": "A reserve set up in 1986 as the first protected area for the jaguar, in a rainforest valley with trails to waterfalls and viewpoints. Jaguars are rarely seen.",
           "come": "From Hopkins or Placencia by car to the entrance; trails from one to a few hours, some with pools for a swim.",
           "quando": "Early morning; dry season.",
           "tempo": "Half a day",

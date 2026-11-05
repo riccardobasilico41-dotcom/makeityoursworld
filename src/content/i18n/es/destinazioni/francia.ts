@@ -578,7 +578,7 @@ export const destinazioniFrancia: Destinazione[] = [
         come: "En la Île de la Cité. Se puede reservar en línea para evitar la cola.",
         quando: "A primera hora.",
         tempo: "1 hora",
-        costo: "Entrada gratuita a la catedral.",
+        costo: "Entrada gratuita a la catedral; torres 16 € (424 escalones), gratis para residentes en la UE menores de 26 años.",
         url: "https://www.notredamedeparis.fr/",
         consiglio: "Las torres y el tesoro tienen entradas aparte."
       },
@@ -1311,6 +1311,7 @@ export const destinazioniFrancia: Destinazione[] = [
         come: "En coche desde Tours o Amboise.",
         quando: "Por la mañana; en otoño los jardines tienen colores más fuertes.",
         tempo: "2-3 horas",
+        costo: "19 € con el folleto-guía, 24 € con la audioguía (web oficial, 2026).",
         url: "https://www.chenonceau.com/",
         consiglio: "Dedicar tiempo a los jardines y las cocinas, no solo a la galería."
       },
@@ -2093,7 +2094,9 @@ export const destinazioniFrancia: Destinazione[] = [
         testo: "Una de las arenas romanas mejor conservadas del mundo, aún usada para conciertos y corridas, y la Maison Carrée, templo romano casi intacto inscrito en la UNESCO en 2023.",
         come: "Tren desde Aviñón.",
         quando: "Por la mañana.",
-        tempo: "media jornada"
+        tempo: "media jornada",
+        url: "https://www.arenes-nimes.com/",
+        consiglio: "La entrada combinada 3 Monumentos incluye la arena, la Maison Carrée y la Tour Magne."
       }
     ],
     programmi: [
@@ -2683,7 +2686,7 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Paradiski",
-        testo: "La Plagne y Les Arcs unidas por el Vanoise Express, el teleférico que cruza el valle.",
+        testo: "La Plagne y Les Arcs unidas por el Vanoise Express, el teleférico de dos pisos que cruza el valle a 380 metros de altura en unos 4 minutos.",
         come: "Tren hasta Bourg-Saint-Maurice y lanzadera.",
         quando: "Diciembre-abril.",
         tempo: "4-5 días",

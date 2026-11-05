@@ -37,7 +37,7 @@ export const destinazioniThailandia: Destinazione[] = [
     luoghi: [
       {
         nome: "Grand Palace and Wat Phra Kaew",
-        testo: "The former residence of the kings of Siam, with ceremonial halls, gilded pavilions and the Temple of the Emerald Buddha, deeply revered. The complex is large and very crowded.",
+        testo: "The official residence of the kings of Siam since 1782, with ceremonial halls, gilded pavilions and the Temple of the Emerald Buddha, deeply revered. The complex is large and very crowded.",
         come: "Take a boat on the Chao Phraya to Tha Chang pier, then walk a few minutes. One ticket, self-guided visit; official guides wait at the entrance.",
         quando: "Daily from 8:30; ticket office until 15:30, closing at 16:30. It can close without notice for royal ceremonies: check the official website. Shoulders and knees covered, no shorts or tank tops.",
         tempo: "2-3 hours",
@@ -47,7 +47,7 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Wat Pho",
-        testo: "The temple of the huge gold-covered Reclining Buddha, with the soles of the feet inlaid with mother-of-pearl. It is also the historic home of the traditional Thai massage school, which still offers massages inside the grounds. It is close to the Grand Palace.",
+        testo: "The temple of the huge gold-covered Reclining Buddha, 46 metres long and 15 high, with the soles of the feet inlaid with mother-of-pearl. It is also the historic home of the traditional Thai massage school, which still offers massages inside the grounds. It is close to the Grand Palace.",
         come: "On foot from the Grand Palace or from Tha Tien pier.",
         quando: "Daily, 8:00am-6:30pm; quieter in the afternoon. Shoulders and knees covered.",
         tempo: "1-1.5 hours",
@@ -65,7 +65,7 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Chatuchak Market",
-        testo: "A huge market with thousands of stalls of clothes, plants, crafts and food, split into numbered sections.",
+        testo: "The largest market in Thailand: more than 15,000 stalls of clothes, plants, crafts and food, split into 27 numbered sections.",
         come: "BTS to Mo Chit or metro to Chatuchak Park.",
         quando: "Saturday and Sunday, from morning to late afternoon. Arrive early, before the heat.",
         tempo: "Half a day",
@@ -301,7 +301,7 @@ export const destinazioniThailandia: Destinazione[] = [
     luoghi: [
       {
         nome: "Cheow Lan Lake",
-        testo: "An artificial lake created by the Ratchaprapha dam in Khao Sok National Park. Jungle-covered limestone walls rise straight out of the green water, with islets, inlets and caves. You get around only by long-tail, and you sleep in floating resorts.",
+        testo: "An artificial lake of about 185 km², created by the Ratchaprapha dam, inaugurated in 1987 in Khao Sok National Park. Jungle-covered limestone walls rise straight out of the green water, with islets, inlets and caves. You get around only by long-tail, and you sleep in floating resorts.",
         come: "By long-tail from the Ratchaprapha dam pier to the floating resorts.",
         quando: "Morning and sunset; dry season.",
         tempo: "1-2 days",
@@ -386,7 +386,7 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Bond Island and Koh Ping Gun",
-        testo: "Mushroom-shaped rock islets in Phang Nga Bay. Khao Phing Kan and the pinnacle of Ko Tapu became famous with the James Bond film \"The Man with the Golden Gun\". The tour includes caves and inner lagoons visited by canoe.",
+        testo: "Mushroom-shaped rock islets in Phang Nga Bay. Khao Phing Kan and the pinnacle of Ko Tapu became famous with the James Bond film \"The Man with the Golden Gun\" (1974). The tour includes caves and inner lagoons visited by canoe.",
         come: "Day trip by boat with a tour, canoe to the caves (Tham Lot).",
         quando: "Full day, starting in the morning.",
         tempo: "Full day",
@@ -670,7 +670,7 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Big Buddha",
-        testo: "A large seated Buddha statue in concrete clad with white marble, on Nakkerd Hill near Chalong. From the terrace you can see Chalong Bay and the southern beaches. It was built mainly with donations from the faithful.",
+        testo: "A 45-metre seated Buddha statue in concrete clad with white Burmese marble, on Nakkerd Hill near Chalong. From the terrace you can see Chalong Bay and the southern beaches. It was built mainly with donations from the faithful.",
         come: "By taxi or scooter, on a steep mountain road.",
         quando: "Morning or sunset; shoulders and knees covered.",
         tempo: "1 hour",
@@ -747,7 +747,7 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Ang Thong Marine Park",
-        testo: "An archipelago of dozens of jungle-covered limestone islands off Koh Samui, protected as a marine national park. The classic tour includes a viewpoint on Koh Wua Talab and the emerald inland saltwater lake of Koh Mae Ko, seen from above after a climb. You kayak among caves and snorkel in the bays.",
+        testo: "An archipelago of 42 jungle-covered limestone islands off Koh Samui, protected as a marine national park. The classic tour includes a viewpoint on Koh Wua Talab and the emerald inland saltwater lake of Koh Mae Ko, seen from above after a climb. You kayak among caves and snorkel in the bays.",
         come: "Day boat trip from Koh Samui (also from Koh Phangan), only with authorised operators.",
         quando: "When the sea is calm; in the monsoon months and in bad weather trips are often cancelled.",
         tempo: "Full day",

@@ -50,8 +50,8 @@ export const destinazioniBorneo: Destinazione[] = [
     luoghi: [
       {
         nome: "Mount Kinabalu",
-        testo: "4,095 meters, the highest mountain of Borneo. The climb takes two days: the first to Laban Rata hut, above 3,200 meters, the second starting in the night for the sunrise on the bare granite summit.",
-        come: "The climb is allowed only with a registered guide (one per five adults) and a named permit, booked months ahead together with a bed at Laban Rata, through Sabah Parks or authorized operators. You start from Timpohon Gate: the Mesilau trail is closed.",
+        testo: "4,095 meters, the highest mountain of Borneo. The climb takes two days: the first to Laban Rata hut, at 3,270 meters, the second starting in the night for the sunrise on the bare granite summit.",
+        come: "The climb is allowed only with a registered guide (one per five adults) and a named permit, booked months ahead together with a bed at Laban Rata, through Sabah Parks or authorized operators. You start from Timpohon Gate, at 1,866 meters: the Mesilau trail is closed.",
         quando: "In the drier months; in bad weather the mountain closes. Book with some margin.",
         tempo: "2 days, 1 night at Laban Rata",
         costo: "Climbing permit RM 400 for foreign adults, guide RM 350 per five people, insurance RM 10 (Sabah Parks rates in force since 2023); hut and park entry extra.",
@@ -60,7 +60,7 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Kinabalu Park",
-        testo: "The park, a UNESCO site, has extraordinarily rich biodiversity. It can be visited without climbing to the summit, with forest trails, orchids and a botanical centre.",
+        testo: "The park, a UNESCO site since 2000, has extraordinarily rich biodiversity. It can be visited without climbing to the summit, with forest trails, orchids and a botanical centre.",
         come: "By bus or car from Kota Kinabalu towards Ranau. Trails on foot from park headquarters.",
         quando: "In the morning.",
         tempo: "half a day",
@@ -69,7 +69,7 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Poring Hot Springs and canopy walkway",
-        testo: "Hot springs in another section of the park, far from the main headquarters, with a walkway suspended among the forest trees.",
+        testo: "Hot springs in another section of the park, about 40 km south-east of the main headquarters, with a walkway suspended among the forest trees: about 158 metres long and 41 metres high.",
         come: "By car or taxi from Kinabalu Park.",
         quando: "In the morning for the walkway; in the afternoon for the pools.",
         tempo: "3 hours",
@@ -296,8 +296,8 @@ export const destinazioniBorneo: Destinazione[] = [
       {
         nome: "Sepilok Orangutan Rehabilitation Centre",
         testo: "A centre that takes in orphaned orangutans or ones confiscated from the illegal trade, in rehabilitation before returning to the forest. From the platforms you see the animals arrive to eat after the fruit feeding.",
-        come: "Just outside Sandakan, by taxi or bus. You walk on wooden boardwalks to the platform.",
-        quando: "Feedings in the morning and afternoon: current times at the ticket office, arrive early. Going to both feedings doubles your chances.",
+        come: "About 25 km west of Sandakan, by taxi or bus. You walk on wooden boardwalks to the platform.",
+        quando: "Feedings at 10am and 3pm (Sabah Wildlife Department): arrive half an hour early and check any changes at the ticket office. Going to both feedings doubles your chances.",
         tempo: "2-3 hours",
         costo: "Current prices at the ticket office or on the Sabah Wildlife Department website; bring cash.",
         url: "https://wildlife.sabah.gov.my/",
@@ -323,11 +323,19 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Sandakan Memorial Park",
-        testo: "The site of the Japanese prison camp of the Second World War, from which the death marches to Ranau departed. A park with a small museum and a path through the forest.",
+        testo: "The site of the Japanese prison camp of the Second World War, from which the 1945 death marches to Ranau departed: about 2,400 Allied prisoners died and only six Australians survived, all of them escapees. A park with a small museum and a path through the forest.",
         come: "A few kilometers from Sandakan, by taxi.",
         quando: "In the morning.",
         tempo: "1.5 hours",
         consiglio: "Do not skip it because it is «just a park»: it deserves the time."
+      },
+      {
+        nome: "Agnes Keith House",
+        testo: "The colonial home of Agnes Newton Keith, the American writer who wrote about Borneo and her wartime internment. Restored by the Sabah Museum, it has been open to the public since 2004, with rooms on the Keiths' life and on colonial Sandakan in the first half of the 20th century.",
+        come: "By taxi from central Sandakan.",
+        quando: "In the afternoon.",
+        tempo: "1 hour",
+        consiglio: "Pair it with the Memorial Park on the same day in Sandakan."
       },
     ],
     programmi: [
@@ -442,6 +450,14 @@ export const destinazioniBorneo: Destinazione[] = [
         quando: "Elephants move around a lot: sightings aren't guaranteed at any time of year; ask the lodge where they've been seen recently.",
         tempo: "during the trips",
         consiglio: "Do at least four to six trips: with two you depend on luck."
+      },
+      {
+        nome: "Gomantong Caves",
+        testo: "Caves inside Gomantong Hill, the largest limestone outcrop of the lower Kinabatangan, with colonies of bats (a 2012 count estimated about 275,000) and swiftlets. The nests are harvested twice a year, February to April and July to September, by licensed collectors only. Inside you walk on a wooden boardwalk.",
+        come: "By car, usually with the lodge transfer or an outing. You visit Simud Hitam cave, a few minutes' walk from the entrance; Simud Putih is closed to the public.",
+        quando: "In the afternoon, towards the evening bat exodus.",
+        tempo: "2 hours",
+        consiglio: "Closed shoes and a torch: the floor is covered in guano and the smell is strong."
       }
     ],
     programmi: [
@@ -542,7 +558,7 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Emergent trees and primary forest",
-        testo: "A vast primary forest with towering trees. Here in 2019 Menara was measured, a yellow meranti of 97.6 metres: the tallest known living tropical tree.",
+        testo: "About 438 km² of almost undisturbed lowland rainforest, with a canopy that in places exceeds 70 metres. Here in 2019 Menara was measured, a yellow meranti of 97.6 metres: the tallest known living tropical tree.",
         come: "With trails and guided outings from the lodge.",
         quando: "In the morning and after rain.",
         tempo: "half a day",
@@ -652,7 +668,7 @@ export const destinazioniBorneo: Destinazione[] = [
     luoghi: [
       {
         nome: "Sipadan",
-        testo: "An oceanic island rising from very deep water. The dives are among the most famous in the world, with Barracuda Point, Drop Off and the Turtle Tomb, a cave beneath the island holding turtle skeletons.",
+        testo: "An oceanic island rising 600 metres from the seabed. The dives are among the most famous in the world, with Barracuda Point, Drop Off and the Turtle Tomb, a cave beneath the island holding turtle skeletons.",
         come: "Only with authorized operators holding Sabah Parks permits. You cannot stay on the island: its facilities closed in 2004, and boats leave from Mabul, Kapalai or Semporna. The number of dives per permit is set by Sabah Parks: ask your operator.",
         quando: "Daily permits are capped and allocated by Sabah Parks to operators, who can book them up to six months ahead. The island usually closes in November to protect the reef.",
         tempo: "1 day per permit",
@@ -662,7 +678,7 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Mabul",
-        testo: "A small island famous for muck diving: pygmy seahorses, mimic octopus, nudibranchs and frogfish on sandy bottoms.",
+        testo: "A small island about 15 km north of Sipadan, famous for muck diving: pygmy seahorses, mimic octopus, nudibranchs and frogfish on sandy bottoms.",
         come: "From stilt resorts, by boat for dives.",
         quando: "Year-round; ask the operators about sea conditions.",
         tempo: "2-3 days",
@@ -802,7 +818,7 @@ export const destinazioniBorneo: Destinazione[] = [
       {
         nome: "Bako National Park",
         testo: "A seaside park with proboscis monkeys, macaques, bearded pigs and wave-carved sandstone stacks. It's one of the best places in Sarawak to see proboscis monkeys.",
-        come: "Bus from Kuching to Kampung Bako, then a short boat ride. Times depend on the tide.",
+        come: "From Kuching (about 40 km) by bus to Kampung Bako, then about 20 minutes by boat. Times depend on the tide.",
         quando: "In the morning, with the right tide.",
         tempo: "1 day",
         consiglio: "Check tide times: you risk getting stuck."
@@ -825,7 +841,7 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Niah Caves",
-        testo: "Huge caves in northern Sarawak with traces of human presence from tens of thousands of years ago, rock paintings in the Painted Cave and swiftlet-nest collectors at work on the walls. They have been a UNESCO World Heritage Site since 2024.",
+        testo: "Huge caves in northern Sarawak with human remains from about 40,000 years ago, rock paintings about 1,200 years old in the Painted Cave and swiftlet-nest collectors at work on the walls. They have been a UNESCO World Heritage Site since 2024.",
         come: "From Miri by car, then a boardwalk through the forest.",
         quando: "In the morning.",
         tempo: "half a day",
@@ -952,7 +968,7 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Clearwater Cave and Wind Cave",
-        testo: "Caves reached by boat along the river. Clearwater is part of a very extensive cave system; Wind Cave has cool galleries with formations.",
+        testo: "Caves reached by boat along the river. Clearwater is the longest cave system in Southeast Asia, with over 227 km of passages explored (2018); Wind Cave has cool galleries with formations.",
         come: "By boat from headquarters, then on foot with a guide.",
         quando: "In the morning.",
         tempo: "half a day",

@@ -611,7 +611,7 @@ export const destinazioniSriLanka: Destinazione[] = [
       {
         "nome": "Hatton",
         "perChi": "more comfort",
-        "testo": "Nearby town with more choice of lodging and restaurants, but further from the trailhead."
+        "testo": "Nearby town with more choice of lodging and restaurants, but further from the trailhead: the peak is about 32 km away."
       }
     ],
     sapori: [

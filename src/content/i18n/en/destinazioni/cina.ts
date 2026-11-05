@@ -99,8 +99,8 @@ export const destinazioniCina: Destinazione[] = [
       {
         nome: "Forbidden City",
         testo: "The largest complex of wooden imperial palaces in the world, with nearly a thousand buildings, home to twenty-four Ming and Qing emperors from 1420 to 1912. You cross it courtyard after courtyard along the central axis, from the Meridian Gate to the north exit, opposite Jingshan hill.",
-        come: "Metro line 1 to Tiananmen East, entrance through the Meridian Gate. Tickets online only, on the official booking site, with your passport number: no tickets are sold on the day. Bring the passport you booked with.",
-        quando: "Closed on Mondays, except Mondays that are public holidays. April to October 8:30-17:00, last entry 16:00; November to March 8:30-16:30, last entry 15:30. Daily numbers are capped: book as early as you can.",
+        come: "Metro line 1 to Tiananmen East, entrance through the Meridian Gate. Tickets online only, on the official booking site, with your passport number: no tickets are sold on the day. At the entrance you need the original of the passport you booked with.",
+        quando: "Closed on Mondays, except Mondays that are public holidays. April to October 8:30-17:00, last entry 16:00; November to March 8:30-16:30, last entry 15:30. Daily numbers are capped: tickets go on sale 7 days ahead, at 8 pm Beijing time, and it pays to book as soon as they open.",
         tempo: "3-4 hours",
         costo: "60 yuan April to October, 40 yuan November to March; Treasure Gallery and Clock Gallery 10 yuan each (2025)",
         url: "https://www.dpm.org.cn/",
@@ -163,7 +163,7 @@ export const destinazioniCina: Destinazione[] = [
       { nome: "Shanxi noodles", testo: "Handmade noodles, pulled or knife-cut." },
     ],
     attenzioni: [
-      "Turning up at the Forbidden City without a booking: no tickets are sold on the day and daily numbers are capped.",
+      "Turning up at the Forbidden City without a booking: no tickets are sold on the day, daily numbers are capped and tickets go on sale 7 days ahead, at 8 pm Beijing time.",
       "Going to the Forbidden City on a Monday: it is closed, except on Mondays that are public holidays.",
       "Choosing Badaling: it is the most restored and crowded section of the Wall.",
       "Following friendly strangers who invite you to a tea tasting or a bar: it is the classic scam of the tourist areas, and it ends with a huge bill.",
@@ -781,7 +781,7 @@ export const destinazioniCina: Destinazione[] = [
       },
       {
         nome: "People's Park",
-        testo: "The park where the city meets: retirees dancing, impromptu choirs and open-air teahouses under the trees, where afternoons are spent over a glass of tea.",
+        testo: "The park where the city meets: retirees dancing, impromptu choirs and open-air teahouses under the trees, including the century-old Heming, where afternoons are spent over a glass of tea.",
         come: "Metro line 2 to People's Park.",
         quando: "Afternoon, ideally on a weekday.",
         tempo: "2 hours",
@@ -990,7 +990,7 @@ export const destinazioniCina: Destinazione[] = [
       },
       {
         nome: "Baisha",
-        testo: "A Naxi village north of Lijiang, the centre of the region before Lijiang. It keeps Ming-era frescoes in its temples and the pace of a real village, with countryside around it and the mountain in the background.",
+        testo: "A Naxi village about 15 kilometres north of Lijiang, the centre of the region before Lijiang. It keeps Ming-era frescoes in its temples and the pace of a real village, with countryside around it and the mountain in the background.",
         come: "Bike or taxi from Lijiang.",
         quando: "Morning.",
         tempo: "Half a day",
@@ -1017,7 +1017,7 @@ export const destinazioniCina: Destinazione[] = [
     ],
     attenzioni: [
       "Judging Dayan at the end of the day, at rush hour: it is its worst moment.",
-      "Ignoring the altitude: Lijiang is high up, so walk more slowly the first days.",
+      "Ignoring the altitude: Lijiang is at about 2,400 metres, so walk more slowly the first days.",
       "Skipping Baisha and Shuhe.",
       "Buying silver, pu'er tea or jade in old-town shops without bargaining.",
     ],
@@ -1224,7 +1224,7 @@ export const destinazioniCina: Destinazione[] = [
       },
       {
         nome: "Yulong River",
-        testo: "A tributary of the Li, smaller and quieter, among rice paddies, water buffalo and stone bridges; the Yulong (Jade Dragon) Bridge is one of the best known. You float down on bamboo rafts pushed by hand with a pole.",
+        testo: "A tributary of the Li, smaller and quieter, among rice paddies, water buffalo and stone bridges; the Yulong (Jade Dragon) Bridge, a stone bridge about four hundred years old, is one of the best known. You float down on bamboo rafts pushed by hand with a pole.",
         come: "By bike or e-bike from Yangshuo, along country lanes.",
         quando: "A full day, in spring or autumn.",
         tempo: "Half a day",
@@ -1330,7 +1330,7 @@ export const destinazioniCina: Destinazione[] = [
       {
         nome: "Star Ferry",
         testo: "The green and white ferry that has crossed the harbour between Tsim Sha Tsui and Central since 1888. The crossing is short and is the loveliest and cheapest way to see the skyline from the water.",
-        come: "Tsim Sha Tsui and Central piers; pay with an Octopus card, cash or at the ticket machines. Single ride HK$5 on the upper deck on weekdays, HK$6.5 at weekends (2026).",
+        come: "Tsim Sha Tsui pier and Central Pier 7; pay with an Octopus card, cash or at the ticket machines. Single ride HK$5 on the upper deck on weekdays, HK$6.5 at weekends (2026).",
         quando: "At sunset or in the evening.",
         tempo: "30 minutes",
         url: "https://www.starferry.com.hk/",
@@ -1355,7 +1355,7 @@ export const destinazioniCina: Destinazione[] = [
       },
       {
         nome: "Sheung Wan and the escalators",
-        testo: "The Central-Mid-Levels covered escalator system, about 800 metres long, climbs from the lower city up the hill through Soho. Around it, in Sheung Wan, are shops selling medicinal herbs and dried seafood, and Man Mo Temple.",
+        testo: "The Central-Mid-Levels covered escalator system, about 800 metres long, climbs from the lower city up the hill through Soho. Around it, in Sheung Wan, are shops selling medicinal herbs and dried seafood, and Man Mo Temple, built in 1847, the largest in Hong Kong dedicated to Man and Mo.",
         come: "Metro to Central or Sheung Wan, then on foot.",
         quando: "By day: the escalators run downhill early in the morning and uphill from mid-morning to evening.",
         tempo: "2 hours",

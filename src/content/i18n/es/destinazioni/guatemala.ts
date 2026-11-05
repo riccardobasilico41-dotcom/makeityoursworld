@@ -42,14 +42,14 @@ export const destinazioniGuatemala: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Arco de Santa Catalina",
-          "testo": "El arco amarillo barroco de 1693, construido para que las monjas de clausura del convento de Santa Catalina pasaran de un edificio a otro sin salir a la calle. Con el volcán de Agua al fondo es la foto símbolo de la ciudad.",
+          "testo": "El arco amarillo barroco de 1693 en la 5ª Avenida Norte, construido para que las monjas de clausura del convento de Santa Catalina pasaran de un edificio a otro sin salir a la calle. Con el volcán de Agua al fondo es la foto símbolo de la ciudad.",
           "come": "A pie desde la plaza central, pocos minutos. Gratis, es una calle.",
           "quando": "Mañana temprano, sin multitudes y con el volcán despejado.",
           "tempo": "15 minutos"
         },
         {
           "nome": "Convento de Santa Clara y La Merced",
-          "testo": "Iglesias y conventos coloniales arruinados por los terremotos del siglo XVIII, tras los cuales se trasladó la capital. Antigua es patrimonio UNESCO desde 1979 por este conjunto.",
+          "testo": "Iglesias y conventos coloniales arruinados por los terremotos del siglo XVIII, sobre todo los de Santa Marta de 1773, tras los cuales se trasladó la capital. Antigua es patrimonio UNESCO desde 1979 por este conjunto.",
           "come": "A pie por el centro. Las ruinas de Santa Clara tienen entrada; La Merced es una iglesia todavía en uso.",
           "quando": "Mañana; la luz de la tarde es buena en la fachada de La Merced.",
           "tempo": "2-3 horas para ambas",
@@ -354,7 +354,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         },
         {
           "nome": "Yaxhá",
-          "testo": "El tercer sitio maya de Guatemala por tamaño, después de Tikal y El Mirador, en la orilla norte de la laguna Yaxhá. Menos visitado, con el atardecer sobre la laguna visto desde lo alto de una pirámide.",
+          "testo": "El tercer sitio maya de Guatemala por tamaño, después de Tikal y El Mirador, en la orilla norte de la laguna Yaxhá, a unos 30 km al sureste de Tikal. Menos visitado, con el atardecer sobre la laguna visto desde lo alto de una pirámide.",
           "come": "Tour desde Flores o taxi; es un sitio grande, dentro del parque nacional Yaxhá-Nakum-Naranjo.",
           "quando": "Última hora de la tarde.",
           "tempo": "Media jornada",
@@ -482,6 +482,14 @@ export const destinazioniGuatemala: Destinazione[] = [
           "consiglio": "Zapatos con agarre y agua: la subida es dura, pero sin la vista desde arriba se pierde el sentido del lugar."
         },
         {
+          "nome": "Cuevas de K'anba",
+          "testo": "Una cueva con pasillos inundados que se recorren con guía a la luz de las velas, con algunos tramos a nado.",
+          "come": "Con guía; el desvío está a un kilómetro antes de Semuc Champey, justo antes del gran puente sobre el río.",
+          "quando": "Después de visitar las pozas.",
+          "tempo": "Unas 2 horas",
+          "consiglio": "Llevar una linterna impermeable: con las velas solas se ve poco. Los grupos pueden ir muy llenos; quien sufra claustrofobia, mejor que se las salte."
+        },
+        {
           "nome": "Lanquín",
           "testo": "El pueblo q'eqchi' que sirve de base para Semuc Champey, con hostales y pocos servicios.",
           "come": "Desde Cobán o en shuttle desde Antigua o Atitlán: es un día largo de carretera.",
@@ -495,14 +503,14 @@ export const destinazioniGuatemala: Destinazione[] = [
           "tappe": [
             "Mañana: pozas y Mirador",
             "Almuerzo",
-            "Tarde: regreso a Lanquín"
+            "Tarde: cuevas de K'anba y regreso a Lanquín"
           ]
         },
         {
           "titolo": "2 días",
           "tappe": [
             "Día 1: llegada a Lanquín, parada en la entrada del parque",
-            "Día 2: pozas y Mirador; regreso en shuttle al día siguiente"
+            "Día 2: pozas, Mirador y cuevas de K'anba; regreso en shuttle al día siguiente"
           ]
         }
       ],

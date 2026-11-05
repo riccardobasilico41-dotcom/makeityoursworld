@@ -52,11 +52,11 @@ export const destinazioniGermania: Destinazione[] = [
         nome: "Reichstag y cúpula",
         testo: "Sede del Bundestag, con la cúpula de cristal diseñada por Norman Foster y terminada en 1999. Una rampa en espiral sube y baja dentro de la cúpula, con vistas a la ciudad y al pleno del Parlamento debajo.",
         come: "Entrada gratuita con registro obligatorio en la web del Bundestag (nombre y fecha de nacimiento de cada visitante). En la entrada, controles de seguridad y documento de identidad original.",
-        quando: "Por la noche, por las luces de la ciudad; horarios y franjas de entrada en la web del Bundestag. Registrarse con días de antelación.",
+        quando: "Por la noche, por las luces de la ciudad; entradas cada cuarto de hora, la última a las 21:45 (cerrado el 24 de diciembre). Registrarse con días de antelación.",
         tempo: "1,5 horas",
         costo: "entrada gratuita, registro obligatorio",
         url: "https://www.bundestag.de",
-        consiglio: "En la cúpula hay una audioguía que explica los edificios de alrededor."
+        consiglio: "En la cúpula hay una audioguía de 20 minutos en doce idiomas, español incluido, que explica los edificios de alrededor."
       },
       {
         nome: "Puerta de Brandeburgo",
@@ -71,7 +71,7 @@ export const destinazioniGermania: Destinazione[] = [
         nome: "Memorial del Holocausto",
         testo: "Un campo de más de 2.700 estelas de hormigón de Peter Eisenman, en el que se camina por un paisaje desorientador. Bajo el memorial hay un centro de información con historias personales.",
         come: "A pie desde la Puerta de Brandeburgo.",
-        quando: "El campo está abierto día y noche; horarios del centro de información (gratuito) en la web oficial.",
+        quando: "El campo está abierto día y noche; el centro de información (gratuito) abre mar-dom de 10 a 18, última entrada 45 minutos antes, cerrado los lunes.",
         tempo: "1 hora",
         costo: "entrada libre",
         url: "https://www.stiftung-denkmal.de",
@@ -80,8 +80,8 @@ export const destinazioniGermania: Destinazione[] = [
       {
         nome: "Memorial del Muro de Berlín (Bernauer Straße)",
         testo: "Un tramo conservado del Muro, con la franja de la muerte original, la torre de vigilancia y el centro de documentación. Una pasarela sobre la franja muestra cómo era la división.",
-        come: "S-Bahn hasta Nordbahnhof o U-Bahn hasta Bernauer Straße.",
-        quando: "Por la mañana. Horarios de la exposición al aire libre y del centro de documentación en la web oficial.",
+        come: "S-Bahn S1, S2, S25 o S26 hasta Nordbahnhof, o U-Bahn U8 hasta Bernauer Straße.",
+        quando: "Por la mañana. La exposición al aire libre se visita todos los días de 8 a 22; centro de documentación y centro de visitantes mar-dom de 10 a 18.",
         tempo: "1,5-2 horas",
         costo: "entrada libre",
         url: "https://www.stiftung-berliner-mauer.de",
@@ -91,7 +91,7 @@ export const destinazioniGermania: Destinazione[] = [
         nome: "Topografía del Terror",
         testo: "El centro de documentación en el lugar de las antiguas sedes de la Gestapo y las SS. La exposición explica cómo funcionaba la represión nazi.",
         come: "A pie desde Potsdamer Platz.",
-        quando: "Horarios en la web oficial.",
+        quando: "Todos los días de 10 a 20; las zonas al aire libre hasta el anochecer, como máximo hasta las 20.",
         tempo: "1,5-2 horas",
         costo: "entrada libre",
         url: "https://www.topographie.de",
@@ -100,16 +100,16 @@ export const destinazioniGermania: Destinazione[] = [
       {
         nome: "Isla de los Museos",
         testo: "Patrimonio de la UNESCO desde 1999, con cinco museos entre ellos el Neues Museum (con el busto de Nefertiti), el Altes Museum y la Alte Nationalgalerie. El Pergamonmuseum está cerrado del todo desde 2023: el ala norte con el Altar de Pérgamo reabre el 4 de junio de 2027, el ala sur con la Puerta de Ishtar hacia 2037. Mientras tanto, el Pergamonmuseum. Das Panorama, frente a la isla, muestra el panorama de la antigua Pérgamo.",
-        come: "En transporte público hasta las paradas cercanas a la isla y luego a pie. Entradas sueltas y combinadas en la web oficial.",
-        quando: "Por la mañana entre semana. Horarios y días de cierre de cada museo en la web oficial.",
+        come: "U-Bahn hasta Museumsinsel o S-Bahn hasta Hackescher Markt o Friedrichstraße, y luego a pie; al Neues Museum se entra por la James-Simon-Galerie. Entradas sueltas y combinadas en la web oficial.",
+        quando: "Por la mañana entre semana. El Neues Museum abre mar-dom de 10 a 18, cerrado los lunes; horarios de los demás museos en la web oficial.",
         tempo: "media jornada",
         url: "https://www.smb.museum",
         consiglio: "Nefertiti está en la sala de la cúpula norte del Neues Museum: entradas y precios en la web oficial."
       },
       {
         nome: "East Side Gallery",
-        testo: "Un largo tramo del Muro que sigue en pie junto al Spree en Friedrichshain, pintado en 1990 por artistas de muchos países: una de las galerías al aire libre más conocidas del mundo.",
-        come: "Se recorre a pie junto al Spree, hasta el Oberbaumbrücke.",
+        testo: "1.316 metros del Muro que siguen en pie junto al Spree en Friedrichshain, el tramo superviviente más largo, pintados en la primavera de 1990 por 118 artistas de 21 países: una de las galerías de arte al aire libre más grandes del mundo.",
+        come: "En la Mühlenstraße, entre la estación Ostbahnhof y el Oberbaumbrücke: se recorre a pie junto al Spree.",
         quando: "Mañana o última hora de la noche, con menos gente.",
         tempo: "1-1,5 horas",
         costo: "entrada libre",
@@ -117,7 +117,7 @@ export const destinazioniGermania: Destinazione[] = [
       },
       {
         nome: "Mauerpark",
-        testo: "Un parque sobre el antiguo trazado del Muro, conocido por el mercadillo del domingo y por el Bearpit Karaoke, los domingos por la tarde si el tiempo lo permite, de primavera a otoño.",
+        testo: "Un parque sobre el antiguo trazado del Muro, conocido por el mercadillo, todos los domingos desde 2004, y por el Bearpit Karaoke, los domingos por la tarde si el tiempo lo permite, de primavera a otoño.",
         come: "A pie desde el Memorial del Muro de Bernauer Straße.",
         quando: "Domingo.",
         tempo: "2 horas",

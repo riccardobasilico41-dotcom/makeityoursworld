@@ -99,7 +99,7 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Chacaltaya",
-        "testo": "Era una stazione sciistica d'alta quota. Il ghiacciaio è scomparso del tutto nel 2009; la zona è vicina allo Huayna Potosí.",
+        "testo": "Era la stazione sciistica più alta del mondo; la cima è a circa 5.400 metri. Il ghiacciaio è scomparso del tutto nel 2009; la zona è vicina allo Huayna Potosí.",
         "come": "Tour di mezza giornata da La Paz.",
         "quando": "Mattina presto.",
         "tempo": "Mezza giornata",
@@ -162,7 +162,7 @@ export const destinazioniBolivia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Arrivare a El Alto, a una quota molto alta, e programmare qualcosa di impegnativo il giorno stesso.",
+      "Arrivare a El Alto, oltre i 4.000 metri, e programmare qualcosa di impegnativo il giorno stesso.",
       "Blocchi stradali: possono isolare la città per giorni e far saltare voli e trasferimenti.",
       "Taxi non ufficiali, soprattutto di sera: usa radio-taxi o app.",
       "Borseggi nei mercati affollati: niente oggetti di valore in vista.",
@@ -219,7 +219,7 @@ export const destinazioniBolivia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Il salar di Uyuni",
-        "testo": "Un'immensa distesa di sale ad alta quota. Senza riferimenti non si capisce se una montagna è a cinque chilometri o a cinquanta, ed è per questo che funzionano le foto prospettiche.",
+        "testo": "La distesa di sale più grande del mondo, oltre 10.000 km² a circa 3.650 metri. Senza riferimenti non si capisce se una montagna è a cinque chilometri o a cinquanta, ed è per questo che funzionano le foto prospettiche.",
         "come": "Solo in 4x4 con autista, nell'ambito del tour organizzato, in partenza da Uyuni.",
         "quando": "Nella stagione secca il salar è asciutto e percorribile per intero. Nella stagione delle piogge (circa dicembre-aprile) diventa uno specchio d'acqua, ma alcune tappe saltano.",
         "tempo": "Mezza giornata o un giorno",
@@ -251,8 +251,8 @@ export const destinazioniBolivia: Destinazione[] = [
         "consiglio": "Il secondo giorno nel Sud Lípez è quello che a Rick è rimasto più impresso, più del sale: lagune rosse piene di fenicotteri oltre i quattromila metri."
       },
       {
-        "nome": "Geyser Sol de Mañana e terme",
-        "testo": "Geyser a circa 4.900 metri che sbuffano all'alba e, lungo lo stesso percorso, pozze termali all'aperto.",
+        "nome": "Geyser Sol de Mañana e terme di Polques",
+        "testo": "Geyser a circa 4.900 metri che sbuffano all'alba e, lungo lo stesso percorso, le terme all'aperto di Polques, a circa 4.400 metri, con acqua intorno ai 29 °C.",
         "come": "Tappe del tour in 4x4.",
         "quando": "All'alba, con temperature sotto zero.",
         "tempo": "1-2 ore",
@@ -260,7 +260,7 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Laguna Verde",
-        "testo": "Laguna dell'estremo sud-ovest, vicino al confine con il Cile.",
+        "testo": "Laguna dell'estremo sud-ovest, ai piedi del vulcano Licancabur, vicino al confine con il Cile.",
         "come": "Ultima tappa del tour in 4x4 prima di San Pedro de Atacama.",
         "quando": "Mattina.",
         "tempo": "1 ora",
@@ -281,7 +281,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "tappe": [
           "Giorno 1: salar, Isla Incahuasi, notte in un hotel di sale",
           "Giorno 2: lagune del Sud Lípez, Laguna Colorada",
-          "Giorno 3: geyser all'alba, terme, Laguna Verde, rientro a Uyuni o proseguimento per San Pedro de Atacama"
+          "Giorno 3: geyser all'alba, terme di Polques, Laguna Verde, rientro a Uyuni o proseguimento per San Pedro de Atacama"
         ]
       }
     ],
@@ -380,12 +380,12 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "A piedi dal centro, con una salita breve ma ripida.",
         "quando": "Tramonto.",
         "tempo": "1-2 ore",
-        "consiglio": "In quota la salita stanca: vai piano."
+        "consiglio": "A circa 3.800 metri la salita stanca: vai piano."
       },
       {
         "nome": "Isla del Sol: Chincana e Roca Sagrada",
         "testo": "Le rovine di Chincana e la Roca Sagrada, sull'estremità nord dell'isola dove secondo la tradizione nacquero il sole e il primo Inca.",
-        "come": "Barca collettiva da Copacabana.",
+        "come": "Barca collettiva da Copacabana. Sull'isola non ci sono veicoli a motore né strade asfaltate.",
         "quando": "Mattina e tramonto.",
         "tempo": "Mezza giornata",
         "costo": "Barca e piccole tasse d'ingresso riscosse dalle comunità: tieni contanti",
@@ -502,7 +502,7 @@ export const destinazioniBolivia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Centro coloniale di Sucre e Casa de la Libertad",
-        "testo": "La capitale costituzionale, città coloniale bianca patrimonio UNESCO, a una quota più bassa di La Paz. Nella Casa de la Libertad fu fondata la repubblica.",
+        "testo": "La capitale costituzionale, città coloniale bianca patrimonio UNESCO, a circa 2.800 metri, più in basso di La Paz. Nella Casa de la Libertad fu fondata la repubblica.",
         "come": "A piedi dal centro.",
         "quando": "Di giorno.",
         "tempo": "Mezza giornata",
@@ -530,7 +530,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "A piedi dal centro di Potosí.",
         "quando": "Mattina.",
         "tempo": "1-2 ore",
-        "consiglio": "In quota anche camminare in centro è faticoso."
+        "consiglio": "A oltre 4.000 metri anche camminare in centro è faticoso."
       },
       {
         "nome": "Miniere del Cerro Rico",
@@ -594,7 +594,7 @@ export const destinazioniBolivia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "A Potosí la quota pesa: anche camminare in centro stanca.",
+      "A Potosí la quota (oltre 4.000 metri) pesa: anche camminare in centro stanca.",
       "Le miniere sono un luogo di lavoro, non un'attrazione qualunque: condizioni durissime.",
       "Porta un piccolo dono ai minatori (foglie di coca, bibite) comprato al mercato dei minatori.",
       "Blocchi stradali: possono bloccare i collegamenti per giorni."

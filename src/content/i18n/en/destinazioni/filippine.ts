@@ -57,7 +57,7 @@ export const destinazioniFilippine: Destinazione[] = [
       },
       {
         "nome": "Nacpan Beach",
-        "testo": "Four kilometres of pale sand and palms, about 17 km north of town. It is calmer than the beaches near town and good for sunset.",
+        "testo": "Four kilometres of pale sand and palms, about 17 km north of town, joined at one end to its twin beach, Calitang, by a sand spit. It is calmer than the beaches near town and good for sunset.",
         "come": "By tricycle or scooter from El Nido, about 45 minutes.",
         "quando": "Afternoon until sunset.",
         "tempo": "half a day",
@@ -66,7 +66,7 @@ export const destinazioniFilippine: Destinazione[] = [
       },
       {
         "nome": "Taraw Cliff and Canopy Walk",
-        "testo": "The limestone wall above the town, with the widest view over El Nido and Bacuit Bay. The free climb to the summit has been marked by accidents, and the DENR, the environment agency, has not authorised any guides or operators. The official alternative is the Canopy Walk (El Nido Via Ferrata): walkways and hanging bridges over the rocks, done in a harness.",
+        "testo": "The limestone wall above the town, with the widest view over El Nido and Bacuit Bay. The free climb to the summit has been marked by accidents, and the DENR, the environment agency, has not authorised any guides or operators. The official alternative is the Canopy Walk (El Nido Via Ferrata): walkways and hanging bridges over the rocks, done with harness, helmet and guide included in the ticket.",
         "come": "On foot from the Canopy Walk entrance in town; you go up in a group with the harness provided.",
         "quando": "Usually open daily from 8 am to 5 pm; best early or in the late afternoon, because of the heat.",
         "tempo": "about 1.5 hours",
@@ -185,7 +185,7 @@ export const destinazioniFilippine: Destinazione[] = [
     luoghi: [
       {
         "nome": "Kayangan Lake",
-        "testo": "A lake of fresh and brackish water enclosed by limestone rock. From the viewpoint on the entrance stairs you see the bay: it is the symbol image of Coron.",
+        "testo": "A lake of fresh and brackish water enclosed by limestone rock, considered one of the cleanest in the Philippines. From the viewpoint on the entrance stairs you see the bay: it is the symbol image of Coron.",
         "come": "By boat on the island-hopping tours; from the landing a steep staircase up to the viewpoint. A life jacket is mandatory for swimming in the lake.",
         "quando": "At opening time or late in the day: around mid-morning all the boats arrive together.",
         "tempo": "1 hour",
@@ -202,7 +202,7 @@ export const destinazioniFilippine: Destinazione[] = [
       },
       {
         "nome": "Twin Lagoon",
-        "testo": "Two lagoons separated by a rock wall. You pass from one to the other by swimming through a narrow gap in the rock.",
+        "testo": "Two lagoons separated by a rock wall. You pass from one to the other by swimming: at low tide through a narrow gap in the rock, at high tide under the wall.",
         "come": "By boat on island-hopping tours.",
         "quando": "Early, before the tour boats arrive.",
         "tempo": "45 minutes",
@@ -333,7 +333,7 @@ export const destinazioniFilippine: Destinazione[] = [
       },
       {
         "nome": "Pescador Island",
-        "testo": "A small island about 3 km off the coast, Moalboal's best-known dive site, with an underwater cave called the Cathedral. Turtles are often seen around it, and snorkellers stay over the reef. It is Moalboal's second classic outing after the sardines.",
+        "testo": "A small island about 3 km off the coast, Moalboal's best-known dive site, with a coral wall dropping to about 40 metres and an underwater cave called the Cathedral. Turtles are often seen around it, and snorkellers stay over the reef. It is Moalboal's second classic outing after the sardines.",
         "come": "By boat from Panagsama Beach.",
         "quando": "Afternoon or morning, with calm sea.",
         "tempo": "half a day",
@@ -341,7 +341,7 @@ export const destinazioniFilippine: Destinazione[] = [
       },
       {
         "nome": "Canyoning at Kawasan Falls",
-        "testo": "You descend the river gorge for a few hours, with jumps from the rocks (the high ones are optional), natural slides and swimming stretches, down to the turquoise falls. In 2023 the Province of Cebu revoked the permits of unlicensed operators: go only with authorised guides.",
+        "testo": "You descend the gorge of the Matutinao river for a few hours, with jumps from the rocks (the high ones are optional), natural slides and swimming stretches, down to the turquoise falls. In 2023 the Province of Cebu revoked the permits of unlicensed operators: go only with authorised guides.",
         "come": "From Moalboal to Badian, about 20 km, in 30-40 minutes. You go with a guide, with helmet and life jacket.",
         "quando": "Leave early to avoid the crowds.",
         "tempo": "half a day or a little more",
@@ -534,7 +534,7 @@ export const destinazioniFilippine: Destinazione[] = [
       "Tarsiers: avoid the roadside \"sanctuaries\" with caged animals. The Corella centre is run by a foundation.",
       "No flash with tarsiers: they are nocturnal animals and visits stress them.",
       "Scooters: tourists mostly get hurt on bikes. Wear a helmet and do not ride at night.",
-      "Cebu-Tagbilaran ferry: in 2026 OceanJet changed fares several times because of the fuel surcharge (tourist class between 880 and 1,000 PHP) and cancelled some sailings in April. Check fares and times first."
+      "Cebu-Tagbilaran ferry: in 2026 OceanJet changed fares several times because of the fuel surcharge (tourist class between 880 and 1,000 PHP; the crossing takes about 2 hours in calm sea) and cancelled some sailings in April. Check fares and times first."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['filippine-itinerario'],

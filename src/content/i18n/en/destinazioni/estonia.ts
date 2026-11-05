@@ -48,7 +48,7 @@ export const destinazioniEstonia: Destinazione[] = [
     luoghi: [
       {
         nome: "Town Hall Square (Raekoja plats)",
-        testo: "The medieval heart of the city, with the Gothic Town Hall finished in 1404, now a museum and concert venue. In summer it has outdoor tables; in December it hosts the Christmas market.",
+        testo: "The medieval heart of the city, with the Gothic Town Hall finished in 1404, the oldest in the Baltic Sea region and Scandinavia, now a museum and concert venue. In summer it has outdoor tables; in December it hosts the Christmas market.",
         come: "On foot from the port.",
         quando: "Early morning, for the square without crowds; visiting hours of the Town Hall and its tower on the official website.",
         tempo: "1 hour",
@@ -74,17 +74,17 @@ export const destinazioniEstonia: Destinazione[] = [
       },
       {
         nome: "Medieval walls and towers",
-        testo: "A long stretch of walls still standing, with many medieval towers, including Kiek in de Kök, a 15th-century artillery tower. You can also visit the Maiden Tower, the Short Leg gate tower and the underground bastion passages.",
+        testo: "A long stretch of walls still standing, with many medieval towers, including Kiek in de Kök, a 15th-century artillery tower whose Low German name means ‘peek into the kitchen’. You can also visit the Maiden Tower, the Short Leg gate tower and the underground bastion passages.",
         come: "On foot, along Müürivahe.",
         quando: "Daytime, in good conditions.",
         tempo: "1-2 hours",
-        costo: "tickets and prices on the City Museum website",
+        costo: "Kiek in de Kök 16 €, bastion passages 10 € (2026); from October to April closed on Mondays, open 11-18",
         url: "https://www.linnamuuseum.ee",
         consiglio: "Combine Kiek in de Kök and the bastion passages in one visit."
       },
       {
         nome: "St Olaf's Church (Oleviste kirik)",
-        testo: "A Gothic church with a tall spire. The tower has a viewing platform.",
+        testo: "A Gothic church with a spire about 124 metres tall, the tallest church in Estonia. The tower has a viewing platform at 60 metres.",
         come: "On foot, at the bottom of Town Hall Square.",
         quando: "Clear day.",
         tempo: "45 minutes",
@@ -94,10 +94,10 @@ export const destinazioniEstonia: Destinazione[] = [
       {
         nome: "Kadriorg Park and Palace, KUMU",
         testo: "The Palace, commissioned by Peter the Great in 1718 for his wife Catherine I, with the park and Kumu, the Estonian art museum, in a modern building in the same park.",
-        come: "By public transport or on foot from the centre.",
-        quando: "Afternoon; the park is free. Kumu's days and hours on the official website.",
+        come: "Tram 1 or 3 to the Kadriorg terminus, or on foot from the centre.",
+        quando: "Afternoon; the park is free. Kumu is closed on Mondays; open 10-18, Thursdays until 20.",
         tempo: "3 hours",
-        costo: "Kumu tickets on the official website",
+        costo: "Kumu 16 € full, 11 € reduced, 32 € family (2026)",
         url: "https://kumu.ekm.ee",
         consiglio: "The park is a nice place to stroll outside the centre."
       },

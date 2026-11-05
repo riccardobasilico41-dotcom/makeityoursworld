@@ -58,8 +58,8 @@ export const destinazioniDanimarca: Destinazione[] = [
     luoghi: [
       {
         nome: "Nyhavn",
-        testo: "Il canale scavato nel Seicento, con case colorate antiche, oggi una fila di caffè e ristoranti sul molo. È uno dei punti più fotografati della città, e da qui partono i battelli per i canali.",
-        come: "In metro fino a Kongens Nytorv, poi pochi passi a piedi.",
+        testo: "Il canale scavato tra il 1670 e il 1675 per Cristiano V, con case colorate antiche, oggi una fila di caffè e ristoranti sul molo. È uno dei punti più fotografati della città, e da qui partono i battelli per i canali.",
+        come: "Metro M1, M2, M3 o M4 fino a Kongens Nytorv, poi pochi passi a piedi.",
         quando: "Mattina presto per le foto; sera per i tavoli sul molo, più cari.",
         tempo: "1 ora",
         costo: "ingresso libero",
@@ -77,7 +77,7 @@ export const destinazioniDanimarca: Destinazione[] = [
         nome: "Amalienborg",
         testo: "Quattro palazzi uguali, con interni rococò, attorno a una piazza ottagonale: è la residenza della famiglia reale. Ogni giorno c'è il cambio della guardia, che arriva in marcia da Rosenborg.",
         come: "A piedi da Nyhavn, lungo il lungomare.",
-        quando: "All'ora del cambio della guardia, verso metà giornata.",
+        quando: "A mezzogiorno, per il cambio della guardia; la marcia parte dalla caserma di Gothersgade 100, accanto a Rosenborg.",
         tempo: "1 ora",
         costo: "cambio della guardia gratuito",
         consiglio: "La cupola della vicina Marmorkirken si può visitare: orari sul sito della chiesa."
@@ -94,9 +94,10 @@ export const destinazioniDanimarca: Destinazione[] = [
       {
         nome: "Christianshavn e Vor Frelsers Kirke",
         testo: "Quartiere con canali minori, case galleggianti e la chiesa del Salvatore, famosa per la guglia nera e oro con la scala a spirale: si sale prima dentro la torre, con gradini stretti e ripidi, poi all'aperto lungo la spirale, con vista su tutta Copenaghen.",
-        come: "In metro fino a Christianshavn o a piedi dal centro.",
-        quando: "Giorno sereno; con il maltempo la torre può chiudere.",
+        come: "Metro M1 o M2 fino a Christianshavn o a piedi dal centro.",
+        quando: "Giorno sereno. Torre aperta tutti i giorni 9-20, ultimo ingresso 30 minuti prima, chiusa a gennaio; chiude per un po' con pioggia, neve o vento forte, perché i gradini di rame diventano scivolosi. In tutto sono 400 gradini, gli ultimi 150 all'aperto.",
         tempo: "1-2 ore",
+        costo: "torre 70 DKK adulti, 20 DKK bambini (2026)",
         url: "https://www.vorfrelserskirke.dk",
         consiglio: "Prenotare online: i posti sono limitati. L'ultimo tratto è esposto, sconsigliato a chi soffre di vertigini."
       },
@@ -113,9 +114,10 @@ export const destinazioniDanimarca: Destinazione[] = [
       {
         nome: "Louisiana Museum of Modern Art",
         testo: "A Humlebæk, a nord di Copenaghen, un grande museo d'arte moderna e contemporanea: padiglioni sull'Øresund con opere di Giacometti, Picasso, Warhol e Hockney, e un giardino di sculture (Moore, Calder) che scende verso il mare.",
-        come: "Fuori città, verso nord lungo la costa; come arrivarci con i mezzi pubblici sul sito ufficiale.",
-        quando: "Giorno intero, con pranzo al caffè con vista sul mare.",
+        come: "Treno della costa da Copenhagen H fino a Humlebæk (circa 40 minuti), poi 10-15 minuti a piedi.",
+        quando: "Giorno intero, con pranzo al caffè con vista sul mare. Aperto mar-ven 11-22, sab-dom 11-18, chiuso il lunedì.",
         tempo: "mezza giornata",
+        costo: "145 DKK adulti (2026)",
         url: "https://www.louisiana.dk",
         consiglio: "Biglietti e orari sul sito ufficiale."
       }
@@ -137,7 +139,7 @@ export const destinazioniDanimarca: Destinazione[] = [
           "Giorno 1 come sopra",
           "Giorno 2: Christianshavn (Vor Frelsers Kirke)",
           "Christiania",
-          "Pranzo in centro",
+          "Pranzo al mercato coperto Torvehallerne, a Nørreport",
           "Sera: Vesterbro"
         ]
       },

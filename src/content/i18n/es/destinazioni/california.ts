@@ -61,7 +61,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Cable cars y Fisherman's Wharf",
         testo: "Los históricos tranvías de cable de la ciudad, con la línea Powell-Hyde que sube a las colinas y baja hacia el puerto. Fisherman's Wharf es la zona turística del puerto, con los puestos de pescado, el Pier 39 y los leones marinos.",
-        come: "Los cable cars salen de Powell Street, cerca de Union Square. Billetes y tarifas en la web oficial de Muni.",
+        come: "Los cable cars salen de Powell Street, cerca de Union Square. El viaje sencillo cuesta 9 $ (2026), con la app MuniMobile, la tarjeta Clipper o en efectivo con el importe exacto; en las cabeceras de Powell & Market, Bay & Taylor y Hyde & Beach se paga antes de subir.",
         quando: "En horas punta hay cola: mejor a primera hora de la mañana.",
         tempo: "2-3 horas",
         url: "https://www.sfmta.com/getting-around/muni/cable-cars",
@@ -69,7 +69,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         nome: "Muir Woods",
-        testo: "Un bosque de secuoyas costeras, protegido como National Monument, al norte de San Francisco, al otro lado del Golden Gate. Los senderos pasan bajo árboles de hasta 79 metros.",
+        testo: "Un bosque de secuoyas costeras, protegido como National Monument, unos 19 km al norte de San Francisco, al otro lado del Golden Gate. Los senderos pasan bajo árboles de hasta 79 metros.",
         come: "Hay que reservar con antelación el aparcamiento o la lanzadera en la web del National Park Service. El sendero principal es llano.",
         quando: "A primera hora, para evitar grupos y niebla.",
         tempo: "1,5-2 horas",
@@ -711,7 +711,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Point Lobos y 17-Mile Drive",
         testo: "Point Lobos es una reserva natural con senderos junto al mar, leones marinos y cipreses. La 17-Mile Drive es una carretera panorámica que atraviesa Pebble Beach.",
-        come: "En coche desde Carmel. Entradas y peajes en los sitios oficiales.",
+        come: "En coche desde Carmel. Point Lobos cuesta 10 $ por vehículo, abre de 8 a 17 h (última entrada 16.30) y los vehículos de más de 6,4 m no pueden entrar (California State Parks, 2026). El peaje de la 17-Mile Drive está en la web de Pebble Beach.",
         quando: "Por la mañana para Point Lobos; por la tarde para la 17-Mile Drive.",
         tempo: "medio día",
         url: "https://www.parks.ca.gov/?page_id=571",

@@ -578,7 +578,7 @@ export const destinazioniFrancia: Destinazione[] = [
         come: "On the Île de la Cité. You can book online to skip the queue.",
         quando: "Early morning.",
         tempo: "1 hour",
-        costo: "Free entry to the cathedral.",
+        costo: "Free entry to the cathedral; towers €16 (424 steps), free for EU residents under 26.",
         url: "https://www.notredamedeparis.fr/",
         consiglio: "Towers and treasury have separate tickets."
       },
@@ -1311,6 +1311,7 @@ export const destinazioniFrancia: Destinazione[] = [
         come: "By car from Tours or Amboise.",
         quando: "Morning; in autumn the gardens have stronger colours.",
         tempo: "2-3 hours",
+        costo: "€19 with the guide leaflet, €24 with the audio guide (official site, 2026).",
         url: "https://www.chenonceau.com/",
         consiglio: "Spend time on the gardens and kitchens, not only the gallery."
       },
@@ -2093,7 +2094,9 @@ export const destinazioniFrancia: Destinazione[] = [
         testo: "One of the best-preserved Roman arenas in the world, still used for concerts and bullfights, and the Maison Carrée, an almost intact Roman temple UNESCO-listed in 2023.",
         come: "Train from Avignon.",
         quando: "Morning.",
-        tempo: "half a day"
+        tempo: "half a day",
+        url: "https://www.arenes-nimes.com/",
+        consiglio: "The 3-Monument Pass covers the arena, the Maison Carrée and the Tour Magne."
       }
     ],
     programmi: [
@@ -2683,7 +2686,7 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Paradiski",
-        testo: "La Plagne and Les Arcs linked by the Vanoise Express, the cable car across the valley.",
+        testo: "La Plagne and Les Arcs linked by the Vanoise Express, the double-decker cable car that crosses the valley 380 metres up in about 4 minutes.",
         come: "Train to Bourg-Saint-Maurice and shuttle.",
         quando: "December-April.",
         tempo: "4-5 days",

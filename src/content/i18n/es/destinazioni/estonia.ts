@@ -48,7 +48,7 @@ export const destinazioniEstonia: Destinazione[] = [
     luoghi: [
       {
         nome: "Plaza del Ayuntamiento (Raekoja plats)",
-        testo: "El corazón medieval de la ciudad, con el Ayuntamiento gótico terminado en 1404, hoy museo y sala de conciertos. En verano tiene mesas al aire libre; en diciembre acoge el mercadillo de Navidad.",
+        testo: "El corazón medieval de la ciudad, con el Ayuntamiento gótico terminado en 1404, el más antiguo de la región del mar Báltico y Escandinavia, hoy museo y sala de conciertos. En verano tiene mesas al aire libre; en diciembre acoge el mercadillo de Navidad.",
         come: "A pie desde el puerto.",
         quando: "Temprano por la mañana, para la plaza sin multitudes; horarios de visita del Ayuntamiento y su torre en la web oficial.",
         tempo: "1 hora",
@@ -74,17 +74,17 @@ export const destinazioniEstonia: Destinazione[] = [
       },
       {
         nome: "Murallas y torres medievales",
-        testo: "Un largo tramo de murallas todavía en pie, con muchas torres medievales, entre ellas la Kiek in de Kök, torre de artillería del siglo XV. También se visitan la Torre de la Doncella, la torre de la puerta de Lühike jalg y los pasadizos subterráneos de los bastiones.",
+        testo: "Un largo tramo de murallas todavía en pie, con muchas torres medievales, entre ellas la Kiek in de Kök, torre de artillería del siglo XV, cuyo nombre en bajo alemán significa «mira en la cocina». También se visitan la Torre de la Doncella, la torre de la puerta de Lühike jalg y los pasadizos subterráneos de los bastiones.",
         come: "A pie, por Müürivahe.",
         quando: "De día, con buenas condiciones.",
         tempo: "1-2 horas",
-        costo: "entradas y precios en la web del Museo de la ciudad",
+        costo: "Kiek in de Kök 16 €, pasadizos de los bastiones 10 € (2026); de octubre a abril cerrado los lunes, abierto 11-18",
         url: "https://www.linnamuuseum.ee",
         consiglio: "Juntar Kiek in de Kök y los pasadizos de los bastiones en la misma visita."
       },
       {
         nome: "Iglesia de San Olaf (Oleviste kirik)",
-        testo: "Iglesia gótica con una alta aguja. En la torre hay una plataforma panorámica.",
+        testo: "Iglesia gótica con una aguja de unos 124 metros, la iglesia más alta de Estonia. En la torre hay una plataforma panorámica a 60 metros.",
         come: "A pie, al final de la Plaza del Ayuntamiento.",
         quando: "Día despejado.",
         tempo: "45 minutos",
@@ -94,10 +94,10 @@ export const destinazioniEstonia: Destinazione[] = [
       {
         nome: "Parque y Palacio de Kadriorg, KUMU",
         testo: "El Palacio, mandado construir por Pedro el Grande en 1718 para su esposa Catalina I, con el parque y el Kumu, el museo de arte estonio, en un edificio moderno en el mismo parque.",
-        come: "En transporte público o a pie desde el centro.",
-        quando: "Tarde; el parque es libre. Días y horarios del Kumu en la web oficial.",
+        come: "Tranvía 1 o 3 hasta la terminal Kadriorg, o a pie desde el centro.",
+        quando: "Tarde; el parque es libre. El Kumu cierra los lunes; abre 10-18, los jueves hasta las 20.",
         tempo: "3 horas",
-        costo: "entradas del Kumu en la web oficial",
+        costo: "Kumu 16 € normal, 11 € reducida, 32 € familiar (2026)",
         url: "https://kumu.ekm.ee",
         consiglio: "El parque es un buen lugar para pasear fuera del centro."
       },

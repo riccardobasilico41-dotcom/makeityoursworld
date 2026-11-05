@@ -61,7 +61,7 @@ export const destinazioniFilippine: Destinazione[] = [
       },
       {
         "nome": "Spiaggia di Nacpan",
-        "testo": "Quattro chilometri di sabbia chiara e palme, a circa 17 km a nord del paese. È più calma delle spiagge del paese e adatta al tramonto.",
+        "testo": "Quattro chilometri di sabbia chiara e palme, a circa 17 km a nord del paese, unita a un'estremità alla spiaggia gemella di Calitang da una lingua di sabbia. È più calma delle spiagge del paese e adatta al tramonto.",
         "come": "In tricycle o scooter da El Nido, circa 45 minuti.",
         "quando": "Pomeriggio fino al tramonto.",
         "tempo": "mezza giornata",
@@ -70,7 +70,7 @@ export const destinazioniFilippine: Destinazione[] = [
       },
       {
         "nome": "Taraw Cliff e Canopy Walk",
-        "testo": "La parete di calcare sopra il paese, con la vista più ampia su El Nido e sulla baia di Bacuit. La salita libera fino alla cima è stata segnata da incidenti e la DENR, l'ente per l'ambiente, non ha autorizzato guide né operatori. L'alternativa ufficiale è la Canopy Walk (El Nido Via Ferrata): passerelle e ponti sospesi sulle rocce, da percorrere con l'imbrago.",
+        "testo": "La parete di calcare sopra il paese, con la vista più ampia su El Nido e sulla baia di Bacuit. La salita libera fino alla cima è stata segnata da incidenti e la DENR, l'ente per l'ambiente, non ha autorizzato guide né operatori. L'alternativa ufficiale è la Canopy Walk (El Nido Via Ferrata): passerelle e ponti sospesi sulle rocce, da percorrere con imbrago, casco e guida compresi nel biglietto.",
         "come": "Dall'ingresso della Canopy Walk in paese, a piedi; si sale in gruppo con l'imbrago fornito.",
         "quando": "Aperta di solito tutti i giorni dalle 8 alle 17; meglio presto o nel tardo pomeriggio, per il caldo.",
         "tempo": "circa 1 ora e mezza",
@@ -189,7 +189,7 @@ export const destinazioniFilippine: Destinazione[] = [
     luoghi: [
       {
         "nome": "Lago Kayangan",
-        "testo": "Un lago d'acqua dolce e salmastra chiusa tra rocce calcaree. Dal belvedere sulla scala d'ingresso si vede la baia: è l'immagine simbolo di Coron.",
+        "testo": "Un lago d'acqua dolce e salmastra chiusa tra rocce calcaree, considerato tra i più puliti delle Filippine. Dal belvedere sulla scala d'ingresso si vede la baia: è l'immagine simbolo di Coron.",
         "come": "In barca nei tour di island hopping; dall'approdo una scalinata ripida fino al belvedere. Per nuotare nel lago il giubbotto di salvataggio è obbligatorio.",
         "quando": "Appena aperto o a fine giornata: a metà mattina arrivano tutte le barche insieme.",
         "tempo": "1 ora",
@@ -206,7 +206,7 @@ export const destinazioniFilippine: Destinazione[] = [
       },
       {
         "nome": "Twin Lagoon",
-        "testo": "Due lagune separate da una parete di roccia. Si passa dall'una all'altra a nuoto, attraverso un varco stretto nella roccia.",
+        "testo": "Due lagune separate da una parete di roccia. Si passa dall'una all'altra a nuoto: con la bassa marea attraverso un varco stretto nella roccia, con l'alta marea passando sotto la parete.",
         "come": "In barca nei tour di island hopping.",
         "quando": "Presto, prima che arrivino le barche dei tour.",
         "tempo": "45 minuti",
@@ -337,7 +337,7 @@ export const destinazioniFilippine: Destinazione[] = [
       },
       {
         "nome": "Pescador Island",
-        "testo": "Un isolotto a circa 3 km dalla costa, il sito d'immersione più noto di Moalboal, con una grotta sottomarina chiamata la Cattedrale. Intorno si incontrano spesso le tartarughe e in superficie si fa snorkeling sul reef. È la seconda uscita classica di Moalboal dopo le sardine.",
+        "testo": "Un isolotto a circa 3 km dalla costa, il sito d'immersione più noto di Moalboal, con un muro di corallo che scende fino a circa 40 metri e una grotta sottomarina chiamata la Cattedrale. Intorno si incontrano spesso le tartarughe e in superficie si fa snorkeling sul reef. È la seconda uscita classica di Moalboal dopo le sardine.",
         "come": "In barca da Panagsama Beach.",
         "quando": "Pomeriggio o mattina, con mare calmo.",
         "tempo": "mezza giornata",
@@ -345,7 +345,7 @@ export const destinazioniFilippine: Destinazione[] = [
       },
       {
         "nome": "Canyoning alle cascate di Kawasan",
-        "testo": "Si scende la gola del fiume per alcune ore, tra salti dalle rocce (quelli alti sono facoltativi), scivoli naturali e tratti a nuoto, fino alle cascate color turchese. Nel 2023 la Provincia di Cebu ha revocato i permessi agli operatori senza licenza: si va solo con guide autorizzate.",
+        "testo": "Si scende la gola del fiume Matutinao per alcune ore, tra salti dalle rocce (quelli alti sono facoltativi), scivoli naturali e tratti a nuoto, fino alle cascate color turchese. Nel 2023 la Provincia di Cebu ha revocato i permessi agli operatori senza licenza: si va solo con guide autorizzate.",
         "come": "Da Moalboal a Badian, circa 20 km, in 30-40 minuti. Si va con una guida, con casco e giubbotto.",
         "quando": "Partire presto per evitare la folla.",
         "tempo": "mezza giornata o poco più",
@@ -538,7 +538,7 @@ export const destinazioniFilippine: Destinazione[] = [
       "Tarsi: evitare i «santuari» lungo la strada con animali in gabbia. Il centro di Corella è gestito da una fondazione.",
       "Niente flash con i tarsi: sono animali notturni e le visite li stressano.",
       "Scooter: i turisti si fanno male soprattutto in moto. Casco e niente guida di notte.",
-      "Traghetto Cebu-Tagbilaran: nel 2026 OceanJet ha cambiato più volte le tariffe per il supplemento carburante (classe turistica tra 880 e 1.000 PHP) e ad aprile ha cancellato alcune corse. Controllare prezzo e orari prima."
+      "Traghetto Cebu-Tagbilaran: nel 2026 OceanJet ha cambiato più volte le tariffe per il supplemento carburante (classe turistica tra 880 e 1.000 PHP; traversata di circa 2 ore col mare calmo) e ad aprile ha cancellato alcune corse. Controllare prezzo e orari prima."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['filippine-itinerario'],

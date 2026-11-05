@@ -48,7 +48,7 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "nome": "Santa Sofía",
         "testo": "La basílica de Justiniano, inaugurada en 537, luego mezquita desde 1453, museo desde 1935 y de nuevo mezquita desde 2020, con los mosaicos bizantinos bajo la gran cúpula.",
-        "come": "Tranvía hasta Sultanahmet. Ropa que cubra, como en cualquier mezquita; las normas de acceso para turistas cambian, así que conviene consultarlas antes.",
+        "come": "Tranvía T1 hasta Sultanahmet. Desde el 15 de enero de 2024 los visitantes extranjeros pagan entrada y suben a las galerías superiores, reabiertas en 2024, mientras que gran parte de la planta baja se reserva a los fieles. Ropa que cubra; las mujeres deben cubrirse la cabeza.",
         "quando": "A primera hora, fuera de las horas de oración.",
         "tempo": "1-1,5 horas",
         "consiglio": "Comprobar antes los horarios en el sitio oficial, que cambian con las normas de acceso.",
@@ -58,8 +58,11 @@ export const destinazioniTurchia: Destinazione[] = [
         "nome": "Mezquita Azul e Hipódromo",
         "testo": "La mezquita de Sultanahmet, construida entre 1609 y 1617, con seis minaretes y más de veinte mil azulejos de Iznik en el interior. Delante, la plaza del antiguo hipódromo con el obelisco egipcio.",
         "come": "A pie desde Santa Sofía. Zapatos fuera, hombros y piernas cubiertos; mujeres con la cabeza cubierta.",
-        "quando": "Fuera de las horas de oración, cuando la entrada se reserva a los fieles.",
-        "tempo": "45 minutos"
+        "quando": "Abierta todos los días de 8.30 a 19 de abril a septiembre y de 8.30 a 17 de octubre a marzo, última entrada 30 minutos antes; los viernes se entra desde las 14.30. Cerrada a las visitas durante las oraciones del mediodía y de la tarde, desde 30 minutos antes de la llamada hasta 15 minutos después del final (2026).",
+        "tempo": "45 minutos",
+        "url": "https://sultanahmetcami.org/",
+        "consiglio": "Quien no lleve ropa adecuada puede tomarla prestada en el puesto de la entrada y devolverla allí.",
+        "costo": "Entrada gratuita (2026)"
       },
       {
         "nome": "Palacio de Topkapı y Harén",
@@ -82,8 +85,8 @@ export const destinazioniTurchia: Destinazione[] = [
       },
       {
         "nome": "Gran Bazar y Bazar de las Especias",
-        "testo": "El mercado cubierto con miles de tiendas de alfombras, cerámica y joyas; un poco más allá, el de las especias con té, dulces turcos y frutos secos.",
-        "come": "Tranvía hasta Beyazıt-Kapalıçarşı, o a pie desde Santa Sofía.",
+        "testo": "El mercado cubierto con más de 4.000 tiendas de alfombras, cerámica y joyas; un poco más allá, el de las especias con té, dulces turcos y frutos secos.",
+        "come": "Tranvía T1 hasta Beyazıt-Kapalıçarşı, o a pie desde Santa Sofía.",
         "quando": "Por la mañana, antes de la multitud; el Gran Bazar cierra los domingos.",
         "tempo": "2 horas",
         "consiglio": "En el Bazar de las Especias, probar antes de comprar."
@@ -91,7 +94,7 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "nome": "Torre de Gálata",
         "testo": "La torre de piedra genovesa terminada en 1348 sobre Karaköy, de unos 63 metros. Desde la terraza de arriba se ven el Cuerno de Oro, el Bósforo y la península histórica con cúpulas y minaretes. Desde 2020 es un museo.",
-        "come": "Tranvía hasta Karaköy y luego subida a pie por las callejuelas; o el funicular histórico Tünel.",
+        "come": "Tranvía T1 hasta Karaköy y luego subida a pie por las callejuelas; o el funicular histórico Tünel. Dentro, un ascensor lleva a la sexta planta y luego una escalera sube a la terraza, a unos 40 metros.",
         "quando": "Abierta todos los días de 8.30 a 18.30, taquilla hasta las 18.15 aprox. (2026). Mejor a la apertura o en la última hora: a mediodía hay cola.",
         "tempo": "1 hora",
         "costo": "Precio para visitantes extranjeros en la web oficial",
@@ -442,7 +445,7 @@ export const destinazioniTurchia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Éfeso",
-        "testo": "La gran ciudad grecorromana con la biblioteca de Celso (siglo II d. C.), el gran teatro, la vía de los Curetes y las Casas en terraza, residencias romanas con mosaicos y frescos bajo una cubierta.",
+        "testo": "La gran ciudad grecorromana con la biblioteca de Celso (siglo II d. C.), el gran teatro de unas 24.000-25.000 plazas, la vía de los Curetes y las Casas en terraza, seis residencias romanas con mosaicos y frescos bajo una cubierta.",
         "come": "Desde Selçuk en taxi o dolmuş; la entrada superior evita la subida.",
         "quando": "Abierto todos los días de 8 a 18, taquilla hasta las 17.30 (noviembre de 2026). A la apertura, sobre todo cuando llegan los cruceros de Kuşadası.",
         "tempo": "2-3 horas",
@@ -468,7 +471,7 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "nome": "Şirince",
         "testo": "Pequeño pueblo de casas de piedra en la colina, con vinos de fruta y tiendas.",
-        "come": "Dolmuş o taxi desde Selçuk.",
+        "come": "Dolmuş o taxi desde Selçuk, unos 7 km.",
         "quando": "Tarde.",
         "tempo": "1-2 horas",
         "consiglio": "Probar los vinos de fruta antes de comprar."
@@ -577,7 +580,7 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "nome": "Kayaköy",
         "testo": "Un pueblo griego vaciado con el intercambio de población de 1923, con unas 500 casas de piedra en ruinas en la ladera.",
-        "come": "Dolmuş desde Fethiye.",
+        "come": "Dolmuş desde Fethiye, unos 8 km.",
         "quando": "Mañana o tarde, con luz baja.",
         "tempo": "1-1,5 horas"
       },

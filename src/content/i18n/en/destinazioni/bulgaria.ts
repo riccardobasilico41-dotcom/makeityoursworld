@@ -31,9 +31,9 @@ export const destinazioniBulgaria: Destinazione[] = [
     luoghi: [
       {
         nome: "Bansko ski area",
-        testo: "The area is reached by a long gondola from the town to the Banderishka Polyana base; the lifts climb high into the mountains. The slopes are quieter than the Alps. People go for the exotic experience in a corner of Europe off the better-known circuits.",
+        testo: "The area is reached by a long gondola, running since 2003, from the town to the Banderishka Polyana base; the lifts reach 2,600 metres and there are about 75 km of slopes. The slopes are quieter than the Alps. People go for the exotic experience in a corner of Europe off the better-known circuits.",
         come: "Gondola station a few minutes on foot from the centre; ski pass at the ticket office or online.",
-        quando: "Winter, season dates on the official website; in the early morning the gondola has queues.",
+        quando: "Winter, season dates on the official website; gondola 8:30-17, chairlifts 8:45-16:15. In the early morning the gondola has queues.",
         tempo: "full day",
         costo: "ski pass prices on the official website",
         url: "https://banskoski.com",
@@ -85,7 +85,7 @@ export const destinazioniBulgaria: Destinazione[] = [
     ],
     attenzioni: [
       "Bulgaria has used the euro since 1 January 2026: compare with older lev prices.",
-      "From Sofia: use pre-booked transfers, not street taxis.",
+      "Sofia is about 160 km away: use pre-booked transfers, not street taxis.",
       "The ski area has queues in high season: reach the gondola early.",
       "By car in winter you need winter equipment (snow tyres, chains if required)."
     ],

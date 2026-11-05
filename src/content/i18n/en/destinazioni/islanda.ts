@@ -148,7 +148,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Skógafoss",
-        testo: "A waterfall 25 metres wide and 60 high, on the edge of the old coastal cliff. A long staircase on the side climbs to the top, where the trail to the Fimmvörðuháls pass begins.",
+        testo: "A waterfall 25 metres wide and 60 high, on the edge of the old coastal cliff. A 527-step staircase on the side climbs to the top, where the trail to the Fimmvörðuháls pass begins.",
         come: "Parking at the foot; the campsite next door is handy for the evening.",
         quando: "Afternoon, for the rainbow when it is sunny.",
         tempo: "45 minutes",
@@ -395,7 +395,7 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "Seyðisfjörður",
         testo: "An artists' village in a deep fjord, with colourful wooden houses, the blue church and the rainbow street. You arrive by descending a mountain pass (Fjarðarheiði) with beautiful waterfalls.",
-        come: "By car from Egilsstaðir, over the pass.",
+        come: "By car from Egilsstaðir (27 km), over the Fjarðarheiði pass. Every week from mid-March to late November the Smyril Line ferry Norröna arrives here from Hirtshals (Denmark) and Tórshavn (Faroe Islands).",
         quando: "Summer; the pass can be closed by snow from autumn to spring.",
         tempo: "half a day",
         consiglio: "Walk to the waterfalls along the road, with several stops."
@@ -410,8 +410,8 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Lagarfljót and Hallormsstaður forest",
-        testo: "One of Iceland's largest forests, with tall trees and a trail along the Lagarfljót. A real surprise in an almost treeless country.",
-        come: "By car from Egilsstaðir, along the lake, in the Fljótsdalur valley.",
+        testo: "One of Iceland's largest forests, 740 hectares of tall trees and a trail along the Lagarfljót. A real surprise in an almost treeless country.",
+        come: "By car, about 25 km from Egilsstaðir along the lake, in the Fljótsdalur valley.",
         quando: "Summer and early autumn for the colours.",
         tempo: "2 hours",
         consiglio: "Small and quiet, ideal as a break from driving."
@@ -476,8 +476,8 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Dettifoss",
-        testo: "A waterfall 100 metres wide and 44 high, considered among the most powerful in Europe. The water is muddy and grey, and the noise carries far.",
-        come: "From Route 862 (paved) on the west side, the best view; short path from the car park.",
+        testo: "A waterfall 100 metres wide and 44 high, considered the most powerful in Europe. The water is muddy and grey, and the noise carries far.",
+        come: "From Route 862 (paved) on the west side, the best view; from the car park to the viewpoint it is a 1 km walk each way.",
         quando: "Summer; in spring the flow is at its peak.",
         tempo: "1 hour",
         costo: "free entry",
@@ -493,6 +493,15 @@ export const destinazioniIslanda: Destinazione[] = [
         costo: "free entry",
         url: "https://www.vatnajokulsthjodgardur.is",
         consiglio: "The national park campsite is on the canyon floor, with excellent facilities."
+      },
+      {
+        nome: "Hljóðaklettar",
+        testo: "The 'echo rocks' in Vesturdalur, part of a row of craters about 6 km long that erupted 8,000-9,000 years ago. Floods from the Jökulsá river washed away the loose material and laid bare the basalt formed by magma that solidified in the volcanic conduits.",
+        come: "In Vesturdalur, about 15 km south of Ásbyrgi, on a paved road. Marked trails from the car park.",
+        tempo: "30 minutes to 1.5 hours",
+        costo: "free entry",
+        url: "https://www.vatnajokulsthjodgardur.is/en/areas/jokulsargljufur/hljodaklettar",
+        consiglio: "Trail V2 (1.2 km, about 30 minutes, easy) is enough to see the rocks; the V3 loop is 3 km, 1-1.5 hours, and more demanding."
       },
     ],
     attenzioni: [
@@ -641,8 +650,8 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Djúpalónssandur",
-        testo: "A black pebble beach with the remains of a shipwreck, reached by a short path through the lava.",
-        come: "Small car park and a short walk down.",
+        testo: "A black pebble beach with the remains of the British trawler Epine GY7, wrecked in 1948, and the four stones once used to test fishermen's strength, from Amlóði (23 kg) to Fullsterkur (154 kg). It is reached by a short path through the lava.",
+        come: "Small car park on Route 574 and a short walk down.",
         quando: "Morning or evening.",
         tempo: "1 hour",
         consiglio: "The waves are strong: don't get too close to the water."
@@ -737,7 +746,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Public geothermal pools",
-        testo: "Geothermal pools are part of local social life: Sundhöllin in the centre, Laugardalslaug in Laugardalur park, Vesturbæjarlaug near the sea.",
+        testo: "Geothermal pools are part of local social life: Sundhöllin in the centre, Laugardalslaug in Laugardalur park, the largest conventional pool complex in Iceland, Vesturbæjarlaug near the sea.",
         come: "By bus or on foot; paid entry, a naked shower is mandatory before getting in.",
         quando: "Evening, when locals gather.",
         tempo: "2 hours",
@@ -783,7 +792,7 @@ export const destinazioniIslanda: Destinazione[] = [
     sapori: [
       {
         nome: "Hot dog (pylsur)",
-        testo: "The most common street food: a sausage with raw and fried onion and sauces, from kiosks in the centre."
+        testo: "The most common street food: a sausage with raw and fried onion and sauces, from kiosks in the centre. The best known is Bæjarins Beztu Pylsur, running since 1937, with its main stand on Tryggvagata, opposite Harpa."
       },
       {
         nome: "Skyr and pastries",

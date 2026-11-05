@@ -584,7 +584,7 @@ export const destinazioniFrancia: Destinazione[] = [
         come: "Sull'Île de la Cité. Si può prenotare la visita online per saltare la coda.",
         quando: "Mattina presto.",
         tempo: "1 ora",
-        costo: "Ingresso gratuito alla cattedrale.",
+        costo: "Ingresso gratuito alla cattedrale; torri 16 € (424 gradini), gratis per i residenti UE sotto i 26 anni.",
         url: "https://www.notredamedeparis.fr/",
         consiglio: "Le torri e il tesoro hanno biglietti a parte."
       },
@@ -1317,6 +1317,7 @@ export const destinazioniFrancia: Destinazione[] = [
         come: "In auto da Tours o da Amboise.",
         quando: "Mattina; in autunno i giardini hanno colori più forti.",
         tempo: "2-3 ore",
+        costo: "19 € con il pieghevole-guida, 24 € con l'audioguida (sito ufficiale, 2026).",
         url: "https://www.chenonceau.com/",
         consiglio: "Dedicare tempo ai giardini e alle cucine, non solo alla galleria."
       },
@@ -2099,7 +2100,9 @@ export const destinazioniFrancia: Destinazione[] = [
         testo: "Un'arena romana tra le meglio conservate al mondo, ancora usata per concerti e corride, e la Maison Carrée, tempio romano quasi intatto iscritto all'UNESCO nel 2023.",
         come: "Treno da Avignone.",
         quando: "Mattina.",
-        tempo: "mezza giornata"
+        tempo: "mezza giornata",
+        url: "https://www.arenes-nimes.com/",
+        consiglio: "Il biglietto unico 3 Monuments comprende arena, Maison Carrée e Tour Magne."
       }
     ],
     programmi: [
@@ -2689,7 +2692,7 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Paradiski",
-        testo: "La Plagne e Les Arcs collegate dal Vanoise Express, la funivia che attraversa la valle.",
+        testo: "La Plagne e Les Arcs collegate dal Vanoise Express, la funivia a due piani che attraversa la valle a 380 metri d'altezza in circa 4 minuti.",
         come: "Treno fino a Bourg-Saint-Maurice e navetta.",
         quando: "Dicembre-aprile.",
         tempo: "4-5 giorni",

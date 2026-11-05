@@ -65,7 +65,7 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Saladin's Citadel and the Muhammad Ali Mosque",
-        "testo": "The fortress built by Saladin in the 12th century, on the hill above the city, with the Ottoman Muhammad Ali Mosque. On clear days the view from the edge reaches the pyramids.",
+        "testo": "The fortress Saladin began in 1176, on the hill above the city, with the Ottoman Muhammad Ali Mosque. On clear days the view from the edge reaches the pyramids.",
         "come": "Taxi or Uber to the entrance. You walk inside the citadel, in comfortable shoes.",
         "quando": "Open daily 8am-5pm (2026). The afternoon has the best light.",
         "tempo": "2 hours",
@@ -204,7 +204,7 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Saqqara",
-        "testo": "Djoser's Step Pyramid, considered the first large building in cut stone, and the nobles' tombs, such as the mastaba of Mereruka, with very fine reliefs.",
+        "testo": "Djoser's Step Pyramid, considered the first large building in cut stone, and the nobles' tombs, such as the mastabas of Mereruka and of Ti, a senior Fifth Dynasty official, with very fine reliefs of farming, fishing, marsh hunting and boat building. The mastaba of Ti is not listed on the official tickets: ask at the ticket office whether it is open.",
         "come": "By car with a driver from Giza or Cairo.",
         "quando": "Open daily 8am-4pm (2026). Best in the morning.",
         "tempo": "2-3 hours",
@@ -367,10 +367,10 @@ export const destinazioniEgitto: Destinazione[] = [
         "nome": "Medinet Habu and the Colossi of Memnon",
         "testo": "The temple of Ramesses III, with reliefs that still keep their colour and fewer visitors than the big temples, near the two colossi of Amenhotep III watching over the plain.",
         "come": "On the west bank, by taxi with the other stops.",
-        "quando": "Mid-morning or late afternoon.",
+        "quando": "Medinet Habu open daily 6am-5pm (2026). Mid-morning or late afternoon.",
         "tempo": "1-1.5 hours",
         "consiglio": "Medinet Habu is often skipped, but it is well worth the stop.",
-        "costo": "Medinet Habu has an entry fee: prices on the official site egymonuments.gov.eg or at the ticket office; the Colossi can be seen from the road"
+        "costo": "Medinet Habu EGP 230 for foreign adults, 110 for students (2026); the Colossi can be seen from the road"
       }
     ],
     programmi: [
@@ -473,8 +473,8 @@ export const destinazioniEgitto: Destinazione[] = [
     luoghi: [
       {
         "nome": "Abu Simbel",
-        "testo": "The two rock-cut temples of Ramesses II and Nefertari, with colossal statues at the entrance. In the 1960s they were cut into blocks and moved to save them from Lake Nasser. On 22 February and 22 October the sun reaches the sanctuary.",
-        "come": "From Aswan by road, leaving before dawn, or by plane.",
+        "testo": "The two rock-cut temples of Ramesses II and Nefertari, with colossal statues at the entrance. Between 1963 and 1968 they were cut into blocks and moved to save them from Lake Nasser. On 22 February and 22 October the sun reaches the sanctuary.",
+        "come": "From Aswan about 300 km by road, leaving before dawn, or by plane.",
         "quando": "Open daily 6am-5pm (2026). Arrive at opening, before the tour buses.",
         "tempo": "1.5-2 hours on site",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/abu-simbel/",
@@ -489,6 +489,14 @@ export const destinazioniEgitto: Destinazione[] = [
         "tempo": "1.5 hours",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/philae/",
         "costo": "EGP 550 for foreign adults, 275 for students, plus the boat from the jetty, to be agreed (2026)"
+      },
+      {
+        "nome": "Nubian village of Gharb Soheil",
+        "testo": "A Nubian village on the west bank of the Nile, a few kilometres from the Aswan Dam, founded about a century ago when the old 1902 dam flooded the villages further south. Nubian families welcome visitors into their homes for a meal and, if you like, to stay the night.",
+        "come": "From Aswan: ask at your hotel or at the jetty how to get there and agree the price first.",
+        "quando": "Afternoon, returning at sunset.",
+        "tempo": "2-3 hours",
+        "consiglio": "Lunch or dinner in a Nubian home is the best way to get to know the area."
       },
       {
         "nome": "Felucca at sunset",
@@ -523,7 +531,7 @@ export const destinazioniEgitto: Destinazione[] = [
     sapori: [
       {
         "nome": "Nubian cuisine",
-        "testo": "Spiced chicken, fish and rice dishes, in the Nubian villages around Aswan."
+        "testo": "Spiced chicken, fish and rice dishes, in the Nubian villages around Aswan, such as Gharb Soheil."
       },
       {
         "nome": "Karkade",
@@ -603,8 +611,8 @@ export const destinazioniEgitto: Destinazione[] = [
         "tempo": "1 hour"
       },
       {
-        "nome": "Desert, salt lakes and springs",
-        "testo": "A 4x4 trip towards the Great Sand Sea with sandboarding, sunset on the dunes and a swim in the springs and salt lakes.",
+        "nome": "Desert, salt lakes and Cleopatra's Spring",
+        "testo": "A 4x4 trip towards the Great Sand Sea with sandboarding, sunset on the dunes and a swim in the springs, such as the ancient natural spring known as Cleopatra's Bath, and in the salt lakes.",
         "come": "Only with a local operator, who holds the desert permit.",
         "quando": "Afternoon, back at sunset.",
         "tempo": "Half a day",
@@ -616,7 +624,7 @@ export const destinazioniEgitto: Destinazione[] = [
         "titolo": "3 days",
         "tappe": [
           "Day 1: arrival, Shali Fortress, sunset",
-          "Day 2: Aghurmi, springs, desert and a night in a tent",
+          "Day 2: Aghurmi, Cleopatra's Bath, desert and a night in a tent",
           "Day 3: bicycle in the oasis, return"
         ]
       }
@@ -697,9 +705,9 @@ export const destinazioniEgitto: Destinazione[] = [
     luoghi: [
       {
         "nome": "Hurghada",
-        "testo": "One of the main resort towns on the coast, with snorkelling boat trips to the offshore islands and reefs.",
+        "testo": "One of the main resort towns on the coast, with boat trips for snorkelling and diving to the Giftun Islands and the offshore reefs.",
         "come": "Excursions to book with a local operator from your hotel.",
-        "quando": "Year-round, with cooler water in winter.",
+        "quando": "Year-round; from December to March the water drops to 21-23 °C, in August it reaches 28 °C.",
         "tempo": "A full day"
       },
       {
@@ -767,7 +775,7 @@ export const destinazioniEgitto: Destinazione[] = [
       "Do not touch or step on coral, and do not take shells or coral away.",
       "From Sinai to Luxor you almost always need a flight via Cairo: do not count on the road.",
       "For dive liveaboards ask the operator which certification and experience are required.",
-      "In winter the water is cooler and it is often windy: you need a thicker wetsuit.",
+      "From December to March the water is around 21-23 °C and it is often windy: you need a thicker wetsuit.",
       "Sinai: the UK government (October 2026) advises against all travel to North Sinai and all but essential travel to inland South Sinai beyond the St Catherine-Nuweiba road; the coasts, including Sharm el-Sheikh, are excluded."
     ],
     // GUIDA-END

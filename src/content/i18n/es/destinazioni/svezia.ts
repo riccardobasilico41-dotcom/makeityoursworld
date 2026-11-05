@@ -54,8 +54,8 @@ export const destinazioniSvezia: Destinazione[] = [
       },
       {
         nome: "Museo Vasa",
-        testo: "Un buque de guerra de 1628 que se hundió en el puerto en su viaje inaugural, poco después de zarpar, y fue rescatado casi intacto en 1961. Se expone en una gran sala con pasarelas en varios niveles, desde la quilla hasta la altura de la cubierta.",
-        come: "Tranvía o ferry desde el centro hasta Djurgården. Visita libre.",
+        testo: "Un buque de guerra de 1628 que se hundió en el puerto el 10 de agosto de 1628, tras unos 1.300 metros de viaje inaugural, y fue rescatado casi intacto en 1961. Es el barco del siglo XVII mejor conservado del mundo y se expone en una gran sala con pasarelas en varios niveles, desde la quilla hasta la altura de la cubierta.",
+        come: "Tranvía 7 o autobús 67 hasta la parada Nordiska museet/Vasamuseet, o ferry 80 desde Nybroplan u 82 desde Slussen hasta Allmänna gränd, a 8 minutos a pie. Visita libre.",
         quando: "Mañana entre semana, cuando hay menos gente.",
         tempo: "2 horas",
         costo: "195 SEK adultos en temporada baja (2026), más en verano",
@@ -64,7 +64,7 @@ export const destinazioniSvezia: Destinazione[] = [
       },
       {
         nome: "Stadshuset (Ayuntamiento)",
-        testo: "El Ayuntamiento de ladrillo rojo de 1923 junto al agua, sede del banquete de los Premios Nobel en la Sala Azul y con la Sala Dorada cubierta de mosaicos de oro. Desde la torre se ve toda la ciudad.",
+        testo: "El Ayuntamiento de ladrillo rojo de 1923 junto al agua, sede del banquete de los Premios Nobel en la Sala Azul y con la Sala Dorada cubierta por más de 18 millones de teselas de mosaico dorado. La torre mide 106 metros, con una escalera de 365 peldaños y un ascensor: desde lo alto se ve toda la ciudad.",
         come: "A pie desde la estación; el interior solo se visita con guía.",
         quando: "Mañana; horarios de tours y de la torre en la web oficial, donde se compran las entradas.",
         tempo: "1 hora",
@@ -74,7 +74,7 @@ export const destinazioniSvezia: Destinazione[] = [
       {
         nome: "Skansen y Djurgården",
         testo: "El museo al aire libre más antiguo de Suecia, abierto en 1891, con casas históricas de toda Suecia, animales nórdicos y artesanos con trajes. En la isla están también ABBA The Museum y el parque Gröna Lund.",
-        come: "Tranvía o ferry desde el centro. La entrada cubre el parque, no las atracciones aparte.",
+        come: "Tranvía 7 o ferry desde el centro. La entrada cubre el parque, no las atracciones aparte.",
         quando: "Primavera y verano; en invierno hay mercadillos de Navidad.",
         tempo: "3-4 horas",
         url: "https://www.skansen.se",
@@ -163,8 +163,8 @@ export const destinazioniSvezia: Destinazione[] = [
     ],
     attenzioni: [
       "Casi todo se paga con tarjeta: muchos locales no aceptan efectivo.",
-      "El alcohol por encima de cierta graduación solo se compra en Systembolaget: comprobar los horarios de las tiendas.",
-      "Desde el aeropuerto de Arlanda hay trenes y autobuses al centro: los taxis sin precio pactado pueden salir muy caros.",
+      "Las bebidas de más del 3,5% de alcohol solo se compran en Systembolaget, cerrado los domingos y festivos.",
+      "Desde el aeropuerto de Arlanda el Arlanda Express llega al centro en 18 minutos, con salidas cada 12-15 minutos; hay también otros trenes y autobuses: los taxis sin precio pactado pueden salir muy caros.",
       "Carteristas en la estación central y en el metro en hora punta."
     ],
     esperienzeSlugs: ['vasamuseet-stoccolma', 'gamla-stan-passeggiata', 'abba-museum-stoccolma', 'arcipelago-stoccolma-in-barca'],
@@ -216,8 +216,8 @@ export const destinazioniSvezia: Destinazione[] = [
       },
       {
         nome: "Mina de hierro de LKAB",
-        testo: "Una de las mayores minas de hierro subterráneas del mundo; la visita guiada baja al centro de visitantes bajo tierra y explica por qué Kiruna se está trasladando.",
-        come: "Visita guiada de Kiruna Lapland con autobús desde el Kiruna Tourist Center; los días y los idiomas cambian según la temporada.",
+        testo: "La mina de hierro subterránea más grande y moderna del mundo; la visita guiada, de unas 3 horas, baja al centro de visitantes de LKAB a 540 metros de profundidad y explica por qué Kiruna se está trasladando.",
+        come: "Visita guiada de Kiruna Lapland con autobús desde el Kiruna Tourist Center (Malmvägen 9B); los días y los idiomas cambian según la temporada.",
         quando: "Todo el año; en invierno las plazas se agotan pronto.",
         tempo: "3 horas",
         costo: "590 SEK adultos (2026), con traslado, guía y café",

@@ -50,7 +50,7 @@ export const destinazioniMalesia: Destinazione[] = [
     luoghi: [
       {
         nome: "Petronas Twin Towers",
-        testo: "Las torres gemelas son el símbolo de la ciudad. Se visita el skybridge que une las dos torres y el mirador más alto; a sus pies está el parque KLCC con la fuente.",
+        testo: "Las torres gemelas, de 452 metros y las más altas del mundo entre 1998 y 2004, son el símbolo de la ciudad. Se visita el skybridge del piso 41, que une las dos torres, y el mirador del piso 86; a sus pies está el parque KLCC con la fuente.",
         come: "LRT hasta KLCC, con salida directa al centro comercial. Las entradas para la subida son con horario y se reservan online en el sitio oficial.",
         quando: "De martes a domingo, 9-21; cerrado los lunes salvo festivos (2025). El atardecer es la hora más solicitada y las plazas se acaban. Desde abajo las torres se ven mejor a la hora azul.",
         tempo: "1 hora para la subida; el parque KLCC se recorre en media hora",
@@ -59,7 +59,7 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "Batu Caves",
-        testo: "Un santuario hindú en una cueva caliza, precedido por la estatua dorada de Murugan, de casi 43 metros, y por una larga escalinata de colores. Dentro hay un gran salón con pequeños templos, la luz que entra por una abertura del techo y monos en las escaleras.",
+        testo: "Un santuario hindú en una cueva caliza, precedido por la estatua dorada de Murugan, de casi 43 metros, y por 272 escalones de colores. Dentro hay un gran salón con pequeños templos, la luz que entra por una abertura del techo y monos en las escaleras.",
         come: "Tren Komuter desde KL Sentral hasta la terminal de Batu Caves. La entrada a la cueva principal es libre. La Dark Cave, la cueva interior protegida, solo se visita con las salidas educativas de la Malaysian Nature Society, cuando están activas. Hombros y rodillas cubiertos.",
         quando: "Temprano por la mañana, con los fieles subiendo y los escalones a la sombra. Durante la fiesta del Thaipusam las multitudes son enormes.",
         tempo: "2 horas",
@@ -68,7 +68,7 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "Masjid Jamek",
-        testo: "La mezquita está en la confluencia de los ríos Klang y Gombak, donde nació la ciudad. Un poco más allá está el Sultan Abdul Samad Building.",
+        testo: "La mezquita, de 1909, está en la confluencia de los ríos Klang y Gombak, donde nació la ciudad. Un poco más allá está Merdeka Square, donde el 31 de agosto de 1957 se arrió la bandera británica y se izó por primera vez la malaya, con el Sultan Abdul Samad Building al lado.",
         come: "LRT hasta Masjid Jamek. La mezquita se visita fuera de las horas de oración, con una túnica prestada en la entrada.",
         quando: "Por la mañana.",
         tempo: "1 hora",
@@ -265,7 +265,7 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "Kek Lok Si",
-        testo: "Un gran conjunto budista al pie de la colina de Air Itam. La pagoda de los Diez Mil Budas tiene la base china, la parte central tailandesa y la cúpula birmana; más arriba hay una gran estatua de Guanyin de bronce.",
+        testo: "El mayor templo budista de Malasia, al pie de la colina de Air Itam. La pagoda de los Diez Mil Budas, de siete pisos, tiene la base china, la parte central tailandesa y la cúpula birmana; más arriba hay una gran estatua de Guanyin de bronce.",
         come: "Autobús Rapid Penang desde George Town o taxi. Unos ascensores inclinados suben hasta la estatua.",
         quando: "Por la mañana; en el Año Nuevo chino está lleno de farolillos y fieles.",
         tempo: "1 hora y media",
@@ -292,7 +292,7 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "Penang Hill",
-        testo: "Una colina sobre la ciudad, a la que se sube en funicular, con aire más fresco, un jardín botánico y vistas sobre George Town y el continente.",
+        testo: "Una colina que llega a 833 metros sobre la ciudad, a la que se sube en un funicular que tarda 5-10 minutos, con aire más fresco, un jardín botánico y vistas sobre George Town y el continente.",
         come: "En autobús desde Komtar o en taxi hasta la estación del funicular, luego la subida en funicular.",
         quando: "Abierta todos los días de 6:15 a 21:45. Por la mañana hay menos niebla y menos colas.",
         tempo: "3 horas",
@@ -406,7 +406,7 @@ export const destinazioniMalesia: Destinazione[] = [
     luoghi: [
       {
         nome: "Dutch Square, Christ Church y Stadthuys",
-        testo: "El centro holandés de la ciudad, con los edificios rojo ladrillo: la Christ Church y el Stadthuys, la antigua sede del gobierno holandés.",
+        testo: "El centro holandés de la ciudad, con los edificios rojo ladrillo: la Christ Church, terminada en 1753, y el Stadthuys, la antigua sede del gobierno holandés, construida en 1650.",
         come: "A pie desde el centro histórico. El Stadthuys alberga un museo de historia y etnografía.",
         quando: "Por la mañana, antes de la multitud.",
         tempo: "1 hora",
@@ -414,7 +414,7 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "St. Paul's Hill y Porta de Santiago",
-        testo: "En la colina están las ruinas de la iglesia nacida como capilla portuguesa, con lápidas holandesas en los muros. Al pie está la Porta de Santiago, última parte de la fortaleza A Famosa.",
+        testo: "En la colina están las ruinas de la iglesia nacida como capilla portuguesa en 1521, con lápidas holandesas en los muros. Al pie está la Porta de Santiago, última parte de la fortaleza A Famosa.",
         come: "A pie, con una breve subida. Desde la cima se ve el estrecho.",
         quando: "Al atardecer, con la luz cayendo sobre el estrecho.",
         tempo: "1 hora",
@@ -440,8 +440,8 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "Cheng Hoon Teng",
-        testo: "Un templo chino histórico, todavía en uso; en las calles cercanas hay también una mezquita y un templo hindú: tres culturas a pocos pasos.",
-        come: "A pie, en el casco histórico, en la zona conocida como Harmony Street.",
+        testo: "Un templo chino histórico, todavía en uso; en las calles cercanas están también el templo hindú Sri Poyatha Moorthi y la Kampung Kling Mosque, fundada en 1748 y reconstruida en ladrillo en 1872, con una arquitectura que mezcla elementos sumatranos, chinos, hindúes y malayos: tres culturas a pocos pasos.",
+        come: "A pie, en el casco histórico, en Jalan Tukang Emas, conocida como Harmony Street.",
         quando: "Por la mañana.",
         tempo: "1 hora",
         costo: "gratuito",
@@ -555,7 +555,7 @@ export const destinazioniMalesia: Destinazione[] = [
     luoghi: [
       {
         nome: "Plantaciones de té",
-        testo: "Colinas cubiertas de terrazas de té hasta donde alcanza la vista. Algunas plantaciones tienen un salón de té con vistas.",
+        testo: "Colinas cubiertas de terrazas de té hasta donde alcanza la vista, como la plantación BOH de Sungai Palas, de donde sale también el sendero hacia el bosque musgoso. Algunas plantaciones tienen un salón de té con vistas.",
         come: "En coche o con tour desde Tanah Rata o Brinchang. Carreteras de montaña estrechas.",
         quando: "Por la mañana, con menos niebla y menos gente.",
         tempo: "2 horas",
@@ -734,7 +734,7 @@ export const destinazioniMalesia: Destinazione[] = [
       {
         titolo: "2 días",
         tappe: [
-          "Día 1: llegada en barca desde Kuala Tembeling, instalación, night walk",
+          "Día 1: llegada en barca desde Kuala Tembeling (unas 2 horas y media por el río), instalación, night walk",
           "Día 2: canopy walkway a la apertura, Bukit Teresek, almuerzo en el pueblo, regreso por la tarde"
         ]
       },
@@ -830,12 +830,20 @@ export const destinazioniMalesia: Destinazione[] = [
     luoghi: [
       {
         nome: "Langkawi Sky Bridge y teleférico",
-        testo: "El teleférico sube hacia la cima del Gunung Mat Cincang. Desde allí se baja al puente peatonal curvo, suspendido en el vacío, con vistas al mar, las islas y la selva.",
+        testo: "El teleférico sube hacia la cima del Gunung Mat Cincang. Desde allí se baja al puente peatonal curvo, suspendido en el vacío a 660 metros sobre el nivel del mar, con vistas al mar, las islas y la selva.",
         come: "Desde la estación base se toma el teleférico hasta la estación superior, luego el ascensor inclinado SkyGlide o un sendero llevan al puente.",
         quando: "Por la mañana, cuando la neblina es menor y las colas más cortas.",
         tempo: "3 horas",
         url: "https://www.panoramalangkawi.com/",
         consiglio: "Subir a la apertura: hacia el mediodía la neblina cubre la vista."
+      },
+      {
+        nome: "Telaga Tujuh (Seven Wells)",
+        testo: "Una serie de pozas naturales en la roca, en lo alto de una cascada de unos 90 metros, en la selva sobre Oriental Village. Agua fresca para un baño después de la subida.",
+        come: "A unos 1,5 km al norte de Oriental Village, la base del teleférico: en scooter o coche hasta el aparcamiento, luego a pie.",
+        quando: "A primera hora de la mañana.",
+        tempo: "1 hora y media",
+        consiglio: "Se combina con el teleférico la misma mañana. Calzado adecuado: las rocas mojadas resbalan."
       },
       {
         nome: "Manglares de Kilim",
@@ -894,6 +902,10 @@ export const destinazioniMalesia: Destinazione[] = [
       {
         nome: "Laksa de Langkawi",
         testo: "Fideos en caldo de pescado especiado. Se encuentra en puestos callejeros."
+      },
+      {
+        nome: "Productos libres de impuestos",
+        testo: "Langkawi es una isla duty free: chocolate, alcohol y perfumes cuestan menos que en el continente."
       },
       {
         nome: "Nasi lemak",
@@ -961,6 +973,7 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "En lancha rápida desde el muelle de Kuala Besut.",
         quando: "En los meses fuera del monzón. Con el monzón del noreste casi todos los resorts y ferris paran.",
         tempo: "al menos 2 noches",
+        costo: "Tasa de conservación del parque marino: 30 RM para extranjeros (2022), se paga en la oficina del muelle de Kuala Besut.",
         consiglio: "Reservar chalé y barca con antelación en temporada alta."
       },
       {

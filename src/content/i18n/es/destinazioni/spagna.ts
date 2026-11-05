@@ -226,7 +226,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Alhambra y Generalife",
         "testo": "Ciudadela de los sultanes nazaríes en la colina de la Sabika: los Palacios Nazaríes con yeserías y techos de mocárabes, la Alcazaba militar, el palacio renacentista de Carlos V y los jardines del Generalife. El Patio de los Leones y la Sala de las Dos Hermanas son los puntos más conocidos.",
-        "come": "A pie cuesta arriba desde el centro o en minibús urbano. La entrada es con billete nominal y para los Palacios Nazaríes vale la franja horaria impresa: llegar con antelación, no tarde. Hacen falta documento y confirmación.",
+        "come": "A pie cuesta arriba desde el centro o en el minibús urbano 30 o 32 desde la Plaza Isabel la Católica. La entrada es con billete nominal y para los Palacios Nazaríes vale la franja horaria impresa: llegar con antelación, no tarde. Hacen falta documento y confirmación.",
         "quando": "Abierta todos los días: de 8:30 a 20 h del 1 de abril al 14 de octubre y de 8:30 a 18 h del 15 de octubre al 31 de marzo. Cerrada el 25 de diciembre y el 1 de enero. Las entradas se compran en el canal oficial (online, por teléfono o en los cajeros) y en temporada alta se agotan con semanas de antelación.",
         "tempo": "3-4 horas, media jornada para verlo todo",
         "costo": "22,27 euros la Alhambra General diurna, más una comisión en la compra online (2026)",
@@ -244,7 +244,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Mirador de San Nicolás",
         "testo": "El mirador más conocido de Granada: delante se abre la Alhambra y detrás las cumbres de Sierra Nevada. Al atardecer se llena de gente, con músicos y vendedores.",
-        "come": "Subida a pie desde la Plaza Nueva, o con el minibús urbano que sube al Albaicín. Entrada libre.",
+        "come": "Subida a pie desde la Plaza Nueva, o con el minibús urbano C31 o C32 que sube al Albaicín. Entrada libre.",
         "quando": "Al atardecer. Como alternativa, al amanecer, casi sin gente.",
         "tempo": "30-60 minutos",
         "consiglio": "Quien busque la misma vista con menos gente puede subir al cercano Mirador de San Cristóbal o al Carmen de los Mártires."
@@ -261,7 +261,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Sacromonte y Museo Cuevas del Sacromonte",
         "testo": "El barrio de casas-cueva en la colina frente a la Alhambra, habitado históricamente por la comunidad gitana. Aquí nació la zambra, un flamenco más ritual y de grupo, que se ve en algunas cuevas.",
-        "come": "A pie por el Camino del Sacromonte desde el Albaicín, o en minibús urbano. El camino es largo y en cuesta.",
+        "come": "A pie por el Camino del Sacromonte desde el Albaicín, o en el minibús urbano C34 desde el centro. El camino es largo y en cuesta.",
         "quando": "Espectáculos por la noche. De día se visita el museo y se pasea por el paisaje de las cuevas.",
         "tempo": "2-3 horas, más la noche para un espectáculo",
         "consiglio": "Antes de reservar una zambra, leer reseñas recientes: los espectáculos muy turísticos cuestan igual que los serios."
@@ -1238,7 +1238,7 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Cap de Formentor e Pollença",
-        "testo": "La península más al norte de la isla, con acantilados cortados a pico y un faro al final de una larga carretera panorámica sobre el Port de Pollença. Por el camino está el Mirador des Colomer. Pollença tiene una plaza mayor con bares y la larga escalinata del Calvari.",
+        "testo": "La península más al norte de la isla, con acantilados cortados a pico y un faro al final de una larga carretera panorámica sobre el Port de Pollença. Por el camino está el Mirador des Colomer. Pollença tiene una plaza mayor con bares y la escalinata de 365 escalones del Calvari.",
         "come": "Desde el Port de Pollença en coche por la Ma-2210 hacia el faro, dentro de las normas de temporada indicadas abajo. De Palma a Pollença en coche o autobús.",
         "quando": "Al atardecer por la luz sobre el faro. Del 15 de mayo al 18 de octubre (fechas de 2026), de 10 a 22 h, la carretera del faro está cerrada a los coches particulares: se sube con el bus TIB 334 desde Alcúdia y Port de Pollença o en bici. Al aparcamiento de la playa de Formentor se llega en coche hasta que se llena.",
         "tempo": "media jornada",
@@ -1584,7 +1584,7 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Torre d'en Galmés",
-        "testo": "Uno de los mayores poblados talayóticos de Baleares, con tres talayots, el recinto de taula y casas de la Edad del Bronce y del Hierro, habitado desde hacia el 1400 a.C. hasta época romana. Forma parte de la Menorca Talayótica, patrimonio UNESCO.",
+        "testo": "Uno de los mayores poblados talayóticos de Baleares, con tres talayots, el recinto de taula y casas de la Edad del Bronce y del Hierro, habitado desde hacia el 1400 a.C. hasta época romana. Forma parte de la Menorca Talayótica, patrimonio UNESCO desde 2023.",
         "come": "En coche desde Maó o Ciutadella, en el centro de la isla. Se visita por libre, con paneles. Tiene entrada de pago.",
         "quando": "A primera hora o al final de la tarde, por el calor y la luz.",
         "tempo": "1-1,5 horas",
@@ -1753,7 +1753,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Masca",
         "testo": "Un caserío en un barranco profundo de las montañas de Teno, con casas de piedra y vistas al océano. El barranco de Masca baja a pie hasta el mar.",
-        "come": "Por la TF-436 desde Santiago del Teide, con curvas cerradas. El acceso al sendero del barranco puede estar regulado: consultar las condiciones en la web del Cabildo de Tenerife antes de ir.",
+        "come": "Por la TF-436 desde Santiago del Teide, con curvas cerradas. El acceso al sendero del barranco se reserva en la web oficial caminobarrancodemasca.com, donde también se reserva aparte el barco obligatorio para volver desde la playa; comprobar allí si el sendero está abierto.",
         "quando": "Por la mañana, para evitar los autocares. El sendero se cierra con lluvia o alertas.",
         "tempo": "1 hora en el pueblo, media jornada para el sendero",
         "consiglio": "No hacer el sendero con calzado de paseo e informarse antes de cómo volver desde el mar: desde la playa no hay carretera."
@@ -2114,7 +2114,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Playa Papagayo e Los Ajaches",
         "testo": "Calas de arena clara y agua turquesa en el parque natural de Los Ajaches, al sur. Papagayo es la más conocida; las otras (Caleta del Congrio, Playa Mujeres) son más tranquilas.",
-        "come": "En coche desde Playa Blanca por una pista de tierra. Se camina desde los aparcamientos.",
+        "come": "En coche desde Playa Blanca por una pista de tierra; la entrada en coche es de pago (tasa del Ayuntamiento de Yaiza). Se camina desde los aparcamientos.",
         "quando": "Por la mañana en verano, con poco viento. El viento levanta la arena.",
         "tempo": "media jornada",
         "consiglio": "Llevar sombrilla, agua y comida: en las calas no hay servicios."
