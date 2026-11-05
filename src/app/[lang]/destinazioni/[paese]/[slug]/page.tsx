@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import Link from '@/components/ui/Link'
 import { Consigliati } from '@/components/Consigliati'
 import { LuoghiGuida, ProgrammiGuida, ZoneSaporiAttenzioni } from '@/components/scheda/MiniGuida'
+import { MINI_GUIDE_VERIFICATE } from '@/content/mini-guide-verificate'
 import { Filigrana } from '@/components/Filigrana'
 import { SalvaBottone } from '@/components/SalvaBottone'
 import { FirmaAutore } from '@/components/FirmaAutore'
@@ -161,7 +162,11 @@ export async function generateMetadata({
   const { paese: paeseSlug, slug } = await params
   const lingua = await linguaCorrente()
   const t = T[lingua]
-  const destinazione = getDestinazione(paeseSlug, slug, lingua)
+  const trovata = getDestinazione(paeseSlug, slug, lingua)
+  // mini guida solo per i Paesi verificati per intero: gli altri tornano alla scheda breve
+  const destinazione = trovata && !MINI_GUIDE_VERIFICATE.has(paeseSlug)
+    ? { ...trovata, luoghi: undefined, programmi: undefined, zone: undefined, sapori: undefined, attenzioni: undefined }
+    : trovata
   if (!destinazione) return {}
   const nome = destinazione.nome
   // «3-4 giorni», «1 giorno»: solo se è una durata vera, non «modulare» o una frase.
@@ -198,7 +203,11 @@ export default async function DestinazionePage({
   const lingua = await linguaCorrente()
   const t = T[lingua]
   const paese = getPaese(paeseSlug, lingua)
-  const destinazione = getDestinazione(paeseSlug, slug, lingua)
+  const trovata = getDestinazione(paeseSlug, slug, lingua)
+  // mini guida solo per i Paesi verificati per intero: gli altri tornano alla scheda breve
+  const destinazione = trovata && !MINI_GUIDE_VERIFICATE.has(paeseSlug)
+    ? { ...trovata, luoghi: undefined, programmi: undefined, zone: undefined, sapori: undefined, attenzioni: undefined }
+    : trovata
   if (!paese || !destinazione) notFound()
 
   const esperienze = getEsperienzeDiDestinazione(destinazione, lingua)
