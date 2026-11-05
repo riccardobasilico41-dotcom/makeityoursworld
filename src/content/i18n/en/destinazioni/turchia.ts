@@ -47,9 +47,9 @@ export const destinazioniTurchia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Hagia Sophia",
-        "testo": "Justinian's basilica, inaugurated in 537, for centuries the largest church in the world, then a mosque from 1453, a museum from 1935 and a mosque again since 2020. Foreign tourists visit the upper galleries with the Byzantine mosaics.",
-        "come": "Tram T1 to Sultanahmet. Separate entrance for tourists; covered clothing, women with the head covered.",
-        "quando": "Early morning. Closed to tourists during prayers, especially Friday at midday.",
+        "testo": "Justinian's basilica, consecrated in 537, then a mosque from 1453, a museum from 1935 and a mosque again since 2020, with Byzantine mosaics beneath the great dome.",
+        "come": "Tram to Sultanahmet. Modest clothing, as in any mosque; access rules for tourists change, so check them beforehand.",
+        "quando": "Early morning, outside prayer times.",
         "tempo": "1-1.5 hours",
         "consiglio": "Check the hours on the official site beforehand, as they change with the access rules.",
         "costo": "Paid ticket for foreign visitors: price on official channels"
@@ -59,8 +59,7 @@ export const destinazioniTurchia: Destinazione[] = [
         "testo": "The Sultanahmet Mosque, built between 1609 and 1617, with six minarets and more than twenty thousand Iznik tiles inside. In front, the square of the ancient hippodrome with the Egyptian obelisk.",
         "come": "On foot from Hagia Sophia. Shoes off, shoulders and legs covered; women with the head covered.",
         "quando": "Outside prayer times, when entry is reserved for worshippers.",
-        "tempo": "45 minutes",
-        "costo": "Free entry"
+        "tempo": "45 minutes"
       },
       {
         "nome": "Topkapı Palace and Harem",
@@ -84,20 +83,20 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "nome": "Grand Bazaar and Spice Bazaar",
         "testo": "The covered market with thousands of shops selling carpets, ceramics and jewellery; a little further on, the spice market with tea, Turkish sweets and dried fruit.",
-        "come": "Tram T1 to Beyazıt-Kapalıçarşı, or on foot from Hagia Sophia.",
-        "quando": "Grand Bazaar 9am-7pm, closed on Sundays and public holidays.",
+        "come": "Tram to Beyazıt-Kapalıçarşı, or on foot from Hagia Sophia.",
+        "quando": "In the morning, before the crowds; the Grand Bazaar is closed on Sundays.",
         "tempo": "2 hours",
-        "consiglio": "The Spice Bazaar is less touristy: take it slowly and taste before buying."
+        "consiglio": "At the Spice Bazaar, taste before you buy."
       },
       {
         "nome": "Galata Tower",
         "testo": "The Genoese stone tower completed in 1348 above Karaköy, about 63 metres high. From the terrace at the top you see the Golden Horn, the Bosphorus and the historic peninsula with its domes and minarets. Since 2020 it has been a museum.",
-        "come": "Tram T1 to Karaköy, then walk up the lanes; or take the historic Tünel funicular. Two lifts go up to the sixth floor, then you continue on foot.",
+        "come": "Tram to Karaköy, then walk up the narrow streets; or take the historic Tünel funicular.",
         "quando": "Open daily 8:30am-6:30pm, ticket office until about 6:15pm (2026). Best at opening or in the last hour: at midday there is a queue.",
         "tempo": "1 hour",
         "costo": "Price for foreign visitors on the official website",
         "url": "https://muze.gov.tr/",
-        "consiglio": "The best view of the historic peninsula is on the south side of the terrace."
+        "consiglio": "Walk all the way round the terrace: each side has a different view."
       }
     ],
     programmi: [
@@ -151,7 +150,7 @@ export const destinazioniTurchia: Destinazione[] = [
       },
       {
         "nome": "Baklava and lokum",
-        "testo": "Sweets with pistachio and honey, at Karaköy Güllüoğlu and in historic pastry shops."
+        "testo": "Sweets with pistachio and honey, in the old pastry shops."
       }
     ],
     attenzioni: [
@@ -210,7 +209,7 @@ export const destinazioniTurchia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Göreme Open-Air Museum",
-        "testo": "A group of rock-cut churches and monasteries carved into the cones, with frescoes mostly from the 10th and 11th centuries, open to visitors since 1967. The Dark Church (Karanlık) is one of the finest.",
+        "testo": "A cluster of rock-cut churches and monasteries carved into the stone cones, with frescoes mostly from the 10th and 11th centuries. The Dark Church (Karanlık) is one of the finest.",
         "come": "From Göreme on foot or by shuttle.",
         "quando": "Open daily 8am-5pm, ticket office until 4:15pm (November 2026). At opening, before the groups.",
         "tempo": "1.5-2 hours",
@@ -223,7 +222,7 @@ export const destinazioniTurchia: Destinazione[] = [
         "testo": "The flight over the valleys and fairy chimneys at sunrise is the reason many come here.",
         "come": "Book with a licensed operator, with hotel pickup before dawn.",
         "quando": "At dawn, when the weather allows: in strong wind flights are cancelled.",
-        "tempo": "1 hour flying, 3-4 hours total",
+        "tempo": "About an hour in the air, half a morning in total",
         "consiglio": "Book for the first days and keep one in reserve: flights are canceled in wind."
       },
       {
@@ -387,7 +386,7 @@ export const destinazioniTurchia: Destinazione[] = [
       },
       {
         "nome": "Denizli kebab",
-        "testo": "Meat cooked over coals with salad and warm bread."
+        "testo": "Lamb slow-cooked in a wood-fired oven, served with bread."
       },
       {
         "nome": "Ayran",
@@ -443,12 +442,12 @@ export const destinazioniTurchia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Ephesus",
-        "testo": "The great Greco-Roman city with the Library of Celsus (around AD 125), the theatre with about 25,000 seats, Curetes Street and the Terrace Houses, six Roman residences with mosaics and frescoes under a protective roof.",
+        "testo": "The great Greco-Roman city with the Library of Celsus (2nd century AD), the great theatre, Curetes Street and the Terrace Houses, Roman homes with mosaics and frescoes under a protective roof.",
         "come": "From Selçuk by taxi or dolmuş; the upper entrance saves the climb.",
         "quando": "Open daily 8am-6pm, ticket office until 5:30pm (November 2026). At opening, especially when cruise ships arrive from Kuşadası.",
         "tempo": "2-3 hours",
         "url": "https://muze.gov.tr/",
-        "consiglio": "The Terrace Houses are the finest part of the site: check at the ticket office whether they are included.",
+        "consiglio": "The Terrace Houses are among the best parts of the site: check at the ticket office whether they are included.",
         "costo": "The ticket also includes the Ephesus Experience Museum; price for foreigners on the official website"
       },
       {
@@ -461,7 +460,7 @@ export const destinazioniTurchia: Destinazione[] = [
       },
       {
         "nome": "House of the Virgin Mary (Meryem Ana)",
-        "testo": "The shrine in the hills about 7 km from Selçuk that Catholic tradition, since the 19th century, regards as the Virgin Mary's last home. Three popes have visited.",
+        "testo": "The shrine in the hills above Selçuk that Catholic tradition, since the 19th century, regards as the Virgin Mary's last home. Three popes have visited.",
         "come": "By taxi or on a tour from Selçuk.",
         "quando": "Morning.",
         "tempo": "45 minutes"
@@ -518,7 +517,7 @@ export const destinazioniTurchia: Destinazione[] = [
     ],
     attenzioni: [
       "Entering mid-morning in high season means meeting the cruise ships: better at opening.",
-      "Skipping the Terrace Houses to save money is a mistake: they are the best part.",
+      "Skipping the Terrace Houses to save money is a mistake: they are among the best parts.",
       "Guides on site: agree the price and duration before starting."
     ],
     // GUIDA-END
@@ -569,23 +568,23 @@ export const destinazioniTurchia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Ölüdeniz and Butterfly Valley",
-        "testo": "The turquoise lagoon, a protected nature reserve with a Blue Flag beach, one of the most photographed in Turkey. A little further on is Butterfly Valley.",
-        "come": "Dolmuş from Fethiye, about 14 km.",
+        "testo": "The turquoise lagoon, a protected nature area, with Butterfly Valley just beyond.",
+        "come": "Dolmuş from Fethiye.",
         "quando": "Morning, before the bathers arrive.",
         "tempo": "Half a day",
-        "consiglio": "Paragliding from Babadağ is the most famous thing to do here."
+        "consiglio": "Paragliding flights from Mount Babadağ land here."
       },
       {
         "nome": "Kayaköy",
         "testo": "A Greek village emptied by the 1923 population exchange, with about 500 ruined stone houses on the slope.",
-        "come": "Dolmuş from Fethiye, 8 km.",
+        "come": "Dolmuş from Fethiye.",
         "quando": "Morning or afternoon, in low light.",
         "tempo": "1-1.5 hours"
       },
       {
         "nome": "Saklıkent",
-        "testo": "A gorge about 300 metres deep where you walk in cold snowmelt water between rock walls; the walkable stretch opens from April.",
-        "come": "By car from Fethiye, about 50 km.",
+        "testo": "A gorge around 300 metres deep where you wade through cold water between rock walls; the walking section only opens when the water level allows.",
+        "come": "By car from Fethiye.",
         "quando": "Summer, when it is hot.",
         "tempo": "2-3 hours",
         "consiglio": "Rent water shoes on site."
@@ -679,7 +678,7 @@ export const destinazioniTurchia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Kaleiçi",
-        "testo": "The walled old town, with thousands of traditional red-roofed houses, Hadrian's Gate, built for the emperor's visit in 130, and the ancient harbour, now a marina. In the evening it is full of restaurants.",
+        "testo": "The old town inside the walls, with traditional red-roofed houses, Hadrian's Gate, built for the emperor's visit in 130, and the old harbour, now a marina. In the evening it is full of restaurants.",
         "come": "On foot from the modern centre.",
         "quando": "Afternoon and evening.",
         "tempo": "2 hours"
@@ -694,8 +693,8 @@ export const destinazioniTurchia: Destinazione[] = [
       },
       {
         "nome": "Aspendos and Perge",
-        "testo": "The theatre of Aspendos, built in 155, is considered the best preserved of antiquity and still hosts a summer opera and ballet festival. Perge, about 15 km from Antalya, has the stadium, the large South Baths and the main street with a water channel down the middle.",
-        "come": "By car with a driver or on a tour: Aspendos is about 40 km from Antalya, Perge on the way.",
+        "testo": "The theatre of Aspendos, built in 155, is considered one of the best preserved of antiquity and still hosts a summer opera and ballet festival. Perge, near Antalya, has the stadium, the large South Baths and the main street with a water channel down the middle.",
+        "come": "By car with a driver or on a tour from Antalya: Perge is on the way to Aspendos.",
         "quando": "Open daily 8am-5pm, ticket office until 4:30pm (November 2026). Early morning.",
         "tempo": "Half a day for both",
         "url": "https://muze.gov.tr/",

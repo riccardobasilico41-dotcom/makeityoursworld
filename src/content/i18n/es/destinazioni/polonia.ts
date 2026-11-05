@@ -17,7 +17,7 @@ export const destinazioniPolonia: Destinazione[] = [
       "Rynek Główny, la plaza del mercado medieval, de las más grandes de Europa, con en el centro la Sukiennice (Cloth Hall), la antigua lonja de los tejidos, hoy mercado cubierto de souvenirs en la planta baja y galería de pintura polaca del siglo XIX en la planta superior",
       "La Basílica de Santa María, gótica, con el gran altar de madera de Veit Stoss (Wit Stwosz) y las dos torres desiguales: desde la más alta, cada hora, suena el Hejnał mariacki, la breve melodía de trompeta tocada en directo hacia los cuatro puntos cardinales e interrumpida de golpe a media nota, en memoria del legendario guardia alcanzado por una flecha mientras daba la alarma durante una invasión tártara",
       "La colina de Wawel, con el Castillo Real (las Salas de Estado, los Aposentos Reales, el Tesoro y la Armería) y la Catedral, lugar de coronación y sepultura de los reyes polacos, con la Campana de Segismundo y las tumbas reales en las criptas",
-      "Kazimierz, la antigua ciudad autónoma fundada en 1335 y convertida desde 1495 en el centro de la vida judía de Cracovia durante siglos: la Old Synagogue (la más antigua de Polonia), la Remuh Synagogue con el cementerio adyacente, y Plac Nowy, la plaza en torno a la que hoy se concentran los bares de la ciudad",
+      "Kazimierz, la ciudad fundada en 1335 y durante siglos centro de la vida judía de Cracovia: la Old Synagogue, entre las sinagogas más antiguas de Polonia, y Plac Nowy, la plaza en torno a la que hoy se concentran los bares de la ciudad",
       "La Barbacana y los restos de las murallas medievales, en el extremo norte del casco antiguo",
       "El barrio de Podgórze, al otro lado del Vístula, con la Plaza de los Héroes del Gueto (Plac Bohaterów Getta), donde filas de sillas de metal vacías recuerdan el gueto judío instituido aquí por los nazis en 1941, y la antigua Fábrica de Oskar Schindler, hoy museo",
     ],
@@ -29,14 +29,14 @@ export const destinazioniPolonia: Destinazione[] = [
       "Una noche entre los bares de Plac Nowy en Kazimierz, o un tour enogastronómico (véase la ficha de experiencia dedicada)",
     ],
     doveDormire:
-      "El casco antiguo (Stare Miasto) dentro de las Planty, las antiguas avenidas que siguen el trazado de las murallas derribadas, es la opción más cómoda y concentra la mayor parte de la oferta turística. Kazimierz es la alternativa más viva y menos cara, a diez-quince minutos a pie de Rynek Główny, con una vida nocturna propia.",
+      "El casco antiguo (Stare Miasto) dentro de las Planty, las antiguas avenidas que siguen el trazado de las murallas derribadas, es la opción más cómoda y concentra la mayor parte de la oferta turística. Kazimierz es la alternativa más viva y menos cara, a poca distancia a pie de Rynek Główny, con una vida nocturna propia.",
     doveMangiare:
-      "Los pierogi siguen siendo el plato símbolo, en decenas de variantes dulces y saladas; el żurek, sopa a base de harina de centeno fermentada, a menudo servida dentro de una hogaza ahuecada; el bigos, el estofado de col y carne; las zapiekanki, la versión polaca de la comida callejera de horno, nacida precisamente en Kazimierz en la Plac Nowy. Los bary mleczne («bares de leche»), comedores económicos heredados de la época comunista y todavía hoy subvencionados, siguen siendo la forma más sencilla y económica de comer cocina polaca de todos los días. Para beber, el vodka polaco, a menudo aromatizado (la żubrówka, con hierba de bisonte, entre las más conocidas).",
+      "Los pierogi siguen siendo el plato símbolo, en decenas de variantes dulces y saladas; el żurek, sopa a base de harina de centeno fermentada, a menudo servida dentro de una hogaza ahuecada; el bigos, el estofado de col y carne; las zapiekanki, la versión polaca de la comida callejera de horno, muy extendida en Kazimierz en la Plac Nowy. Los bary mleczne («bares de leche»), comedores económicos heredados de la época comunista y todavía hoy subvencionados, siguen siendo la forma más sencilla y económica de comer cocina polaca de todos los días. Para beber, el vodka polaco, a menudo aromatizado (la żubrówka, con hierba de bisonte, entre las más conocidas).",
     comeArrivare:
-      "Aeropuerto John Paul II (KRK, Balice), a unos 15 km del centro: tren directo (línea SKA1) en 17-20 minutos hasta la estación central Kraków Główny, o autobús de línea (300 y el nocturno 902). En tren desde Italia no existe una conexión directa cómoda: por lo general se llega en avión. Desde Varsovia, tren de alta velocidad en unas 2 h 15-2 h 30.",
+      "Aeropuerto John Paul II (KRK, Balice), fuera de la ciudad: tren directo hasta la estación central Kraków Główny, o autobús de línea. En tren desde Italia no existe una conexión directa cómoda: por lo general se llega en avión. Desde Varsovia hay trenes rápidos directos.",
     comeSpostarsi: "Casco antiguo todo a pie. Para el resto de la ciudad, tranvías y autobuses de la red KMK, con billetes por tiempo económicos. No hace falta coche.",
     periodoMigliore: "abril-mayo y septiembre-octubre por el clima suave y la menor afluencia; junio-agosto es temporada alta, concurrida y más calurosa; de noviembre a marzo hace frío pero es llevadero, con los mercadillos de Navidad en diciembre",
-    costi: "ciudad barata: museos y entradas sueltas pocos euros, cena normal 10-15 € por persona, transporte público pocos PLN por viaje",
+    costi: "ciudad barata: museos, restaurantes y transporte público cuestan menos que en Europa occidental",
     erroriDaEvitare: [
       "Cambiar moneda en los kantor del cartel llamativo cerca de Rynek Główny sin comprobar bien la tasa: algunos muestran tasas ventajosas para monedas que no se están cambiando",
       "Seguir a quien te aborda por la calle proponiéndote «un bar fantástico» por los alrededores de Rynek Główny, la calle Floriańska o Kazimierz: es el esquema clásico que lleva a cuentas hinchadas hasta lo desmesurado",
@@ -46,12 +46,12 @@ export const destinazioniPolonia: Destinazione[] = [
     luoghi: [
       {
         nome: "Rynek Główny y Sukiennice",
-        testo: "La plaza del mercado medieval, casi 4 hectáreas, a menudo citada entre las mayores de Europa, con la Lonja de los Paños (Sukiennice) en el centro y la torre aislada del antiguo ayuntamiento, derribado en el siglo XIX. Alrededor están la Basílica de Santa María y los cafés con mesas al aire libre.",
-        come: "Desde la estación central a pie, 10 minutos.",
+        testo: "La plaza del mercado medieval, a menudo citada entre las mayores de Europa, con la Lonja de los Paños (Sukiennice) en el centro y la torre aislada del antiguo ayuntamiento, derribado en el siglo XIX. Alrededor están la Basílica de Santa María y los cafés con mesas al aire libre.",
+        come: "Desde la estación central a pie.",
         quando: "Temprano por la mañana o por la noche, cuando se encienden las luces; de día está concurrida.",
         tempo: "1-2 horas",
         costo: "entrada libre",
-        consiglio: "Bajo la plaza hay un museo subterráneo construido sobre los cimientos de las antiguas casas de pesaje."
+        consiglio: "Bajo la plaza hay un museo subterráneo con los restos del mercado medieval."
       },
       {
         nome: "Basílica de Santa María",
@@ -60,12 +60,12 @@ export const destinazioniPolonia: Destinazione[] = [
         quando: "Mañana; para el Hejnał estar en la plaza a la hora en punto.",
         tempo: "45 minutos",
         url: "https://www.mariacki.com",
-        consiglio: "El retablo se ve abierto solo en las horas indicadas por el sitio."
+        consiglio: "Horarios de visita y de apertura del retablo en la web oficial."
       },
       {
         nome: "Colina de Wawel",
-        testo: "La colina sobre el Vístula con el Castillo Real y la Catedral donde de 1320 a 1764 se coronó a los reyes polacos, que es también su principal lugar de sepultura. En la torre de Segismundo cuelga la campana de 1521, casi 13 toneladas, que solo suena en las grandes ocasiones. Exposiciones y recorridos tienen entradas distintas.",
-        come: "A pie desde el centro (15 minutos). Las entradas se compran en el lugar o online en la web oficial.",
+        testo: "La colina sobre el Vístula con el Castillo Real y la Catedral donde de 1320 a 1764 se coronó a los reyes polacos, que es también su principal lugar de sepultura. En la torre de Segismundo cuelga la campana de 1521, que solo suena en las grandes ocasiones. Exposiciones y recorridos tienen entradas distintas.",
+        come: "A pie desde el centro. Las entradas se compran en el lugar o online en la web oficial.",
         quando: "Temprano por la mañana, antes de los grupos.",
         tempo: "3 horas",
         url: "https://wawel.krakow.pl",
@@ -73,8 +73,8 @@ export const destinazioniPolonia: Destinazione[] = [
       },
       {
         nome: "Kazimierz",
-        testo: "La ciudad fundada en 1335 por Casimiro el Grande y durante siglos corazón de la vida judía de Cracovia, con la Sinagoga Vieja (la sinagoga más antigua que se conserva en Polonia), la sinagoga Remuh y el cementerio. Hoy es también el barrio de los cafés, galerías y locales.",
-        come: "A pie o en tranvía desde Stare Miasto (10 minutos).",
+        testo: "La ciudad fundada en 1335 por Casimiro el Grande y durante siglos corazón de la vida judía de Cracovia, con la Sinagoga Vieja, entre las más antiguas de Polonia, y otras sinagogas históricas. Hoy es también el barrio de los cafés, galerías y locales.",
+        come: "A pie o en tranvía desde Stare Miasto.",
         quando: "De día para las sinagogas; por la noche para los locales.",
         tempo: "3 horas",
         url: "https://www.jewishkrakow.net",
@@ -82,7 +82,7 @@ export const destinazioniPolonia: Destinazione[] = [
       },
       {
         nome: "Fábrica de Schindler y Podgórze",
-        testo: "El museo en la antigua fábrica de Oskar Schindler cuenta la Cracovia ocupada por los nazis. Cerca está la Plaza de los Héroes del Gueto, con 70 sillas vacías en recuerdo del gueto.",
+        testo: "El museo en la antigua fábrica de Oskar Schindler cuenta la Cracovia ocupada por los nazis. Cerca está la Plaza de los Héroes del Gueto, con las sillas vacías en recuerdo del gueto.",
         come: "En tranvía hasta el barrio de Zabłocie o a pie desde Kazimierz.",
         quando: "Mañana.",
         tempo: "2-3 horas",
@@ -91,16 +91,16 @@ export const destinazioniPolonia: Destinazione[] = [
       },
       {
         nome: "Mina de sal de Wieliczka",
-        testo: "Una mina de sal excavada desde el siglo XIII, en la primera lista de la UNESCO de 1978, en la localidad de Wieliczka cerca de Cracovia. El recorrido turístico, unos 2,2 km en los tres primeros niveles, pasa por capillas talladas en sal, lagos de salmuera y la capilla de Santa Kinga, donde también se celebran bodas.",
+        testo: "Una mina de sal excavada desde el siglo XIII, en la primera lista de la UNESCO de 1978, en la localidad de Wieliczka cerca de Cracovia. El recorrido turístico pasa por capillas talladas en sal, lagos de salmuera y la capilla de Santa Kinga, donde también se celebran bodas.",
         come: "Tren o bus desde Cracovia, luego a pie hasta la entrada.",
-        quando: "Todo el día; reservar online.",
-        tempo: "3-4 horas",
+        quando: "Reservar online con antelación.",
+        tempo: "media jornada",
         url: "https://www.wieliczka-saltmine.com",
         consiglio: "Llevar una chaqueta: bajo tierra hace fresco incluso en verano."
       },
       {
         nome: "Planty y Barbacana",
-        testo: "El anillo de parques sobre el trazado de las murallas demolidas, que rodea el casco antiguo, con la Puerta de San Florián y la Barbacana, salvadas cuando se derribaron las murallas en el siglo XIX: la Barbacana es uno de los tres puestos fortificados de este tipo que quedan en Europa.",
+        testo: "El anillo de parques sobre el trazado de las murallas demolidas, que rodea el casco antiguo, con la Puerta de San Florián y la Barbacana, salvadas cuando se derribaron las murallas en el siglo XIX: la Barbacana es un raro puesto fortificado gótico todavía en pie.",
         come: "A pie, alrededor del centro.",
         quando: "Mañana o tarde, con luz suave.",
         tempo: "1 hora",
@@ -148,7 +148,7 @@ export const destinazioniPolonia: Destinazione[] = [
       {
         nome: "Podgórze",
         perChi: "Quien quiere tranquilidad y precios más bajos",
-        testo: "Al otro lado del Vístula, a 15 minutos a pie del centro."
+        testo: "Al otro lado del Vístula, a poca distancia a pie del centro."
       }
     ],
     sapori: [
@@ -190,7 +190,7 @@ export const destinazioniPolonia: Destinazione[] = [
     giorniConsigliati: "medio día, como excursión desde Cracovia",
     visitataPersonalmente: true,
     introduzione:
-      "El antiguo campo de concentración y exterminio nazi alemán, en funcionamiento de 1940 a 1945 cerca de la ciudad polaca de Oświęcim, unos 66 km al oeste de Cracovia. Se compone de dos sitios distintos conectados por un servicio de lanzadera: Auschwitz I, el campo original y hoy sede del museo principal, y Auschwitz II-Birkenau, el campo de exterminio más extenso construido a partir de 1941 a unos 3 km de distancia. Desde 1947 el sitio es un museo estatal polaco, desde 1979 Patrimonio de la Humanidad de la UNESCO.",
+      "El antiguo campo de concentración y exterminio nazi alemán, en funcionamiento de 1940 a 1945 cerca de la ciudad polaca de Oświęcim, al oeste de Cracovia. Se compone de dos sitios distintos conectados por un servicio de lanzadera: Auschwitz I, el campo original y hoy sede del museo principal, y Auschwitz II-Birkenau, el campo de exterminio más extenso construido a partir de 1941 a poca distancia. Desde 1947 el sitio es un museo estatal polaco, desde 1979 Patrimonio de la Humanidad de la UNESCO.",
     percheAndarci:
       "Porque es el lugar símbolo del exterminio nazi de los judíos de Europa y de otros grupos perseguidos, y porque la visita, con los testimonios materiales conservados en el lugar, ayuda a entender la historia como ningún libro consigue hacer del todo. Requiere tiempo, preparación y el estado de ánimo adecuado.",
     cosaVedere: [
@@ -198,33 +198,33 @@ export const destinazioniPolonia: Destinazione[] = [
       "Los bloques-museo de Auschwitz I, con las exposiciones permanentes y nacionales (incluidas las vitrinas con objetos personales de las víctimas: maletas, gafas, zapatos, cabello)",
       "El Bloque 11 y el muro de las ejecuciones",
       "La cámara de gas y el horno crematorio conservados en Auschwitz I",
-      "La extensión de Auschwitz II-Birkenau, mucho más amplia, con la entrada ferroviaria de la «Judenrampe» donde se hacía la selección, los barracones en su mayoría de madera y los restos de las cámaras de gas que los alemanes hicieron saltar por los aires en su retirada en 1945",
+      "La extensión de Auschwitz II-Birkenau, mucho más amplia, con la entrada ferroviaria y la rampa donde se hacía la selección, los barracones en su mayoría de madera y los restos de las cámaras de gas que los alemanes hicieron saltar por los aires en su retirada en 1945",
       "El monumento internacional a las víctimas, entre las ruinas de los crematorios de Birkenau",
     ],
     cosaFare: [],
     doveDormire: "Se visita en el día desde Cracovia: no está pensada como parada con pernoctación en Oświęcim.",
     doveMangiare: "En la zona del centro de visitantes de Auschwitz I hay un pequeño bar/autoservicio; la mayoría de los visitantes come al volver a Cracovia.",
     comeArrivare:
-      "Desde Cracovia: autobús directo desde la estación central de autobuses (1 h 30 aprox., salidas cada 20-40 minutos, billete en torno a 34 PLN por trayecto) hasta el aparcamiento del Museo, o tren regional hasta la estación de Oświęcim (1 h 40 aprox.) y luego 20-30 minutos a pie o un breve autobús lanzadera hasta la entrada. Existen también tours organizados con traslado, guía y entrada incluidos, con salida desde Cracovia (1 h-1 h 30 de viaje aprox.).",
-    comeSpostarsi: "Entre Auschwitz I y Birkenau (unos 3 km) funciona una lanzadera gratuita frecuente; a pie se camina mucho, por un terreno en gran parte descubierto.",
+      "Desde Cracovia: autobuses directos desde la estación de autobuses hasta el aparcamiento del Museo, o tren regional hasta la estación de Oświęcim y luego a pie o en autobús hasta la entrada. Existen también tours organizados con traslado, guía y entrada incluidos, con salida desde Cracovia.",
+    comeSpostarsi: "Entre Auschwitz I y Birkenau funciona una lanzadera gratuita frecuente; a pie se camina mucho, por un terreno en gran parte descubierto.",
     periodoMigliore:
       "todo el año, con consideraciones distintas: en verano hace calor y los recorridos (sobre todo en Birkenau, casi sin sombra) resultan fatigosos; en invierno el frío intenso devuelve quizá más que ninguna otra estación la dureza del lugar. La temporada alta (junio-agosto) es también el periodo con más dificultad para encontrar una plaza de entrada libre.",
     costi:
       "La entrada al sitio es gratuita. El coste, cuando lo hay, es el del transporte (autobús/tren) o el del tour organizado con guía, que suele costar algunas decenas de euros por persona.",
     erroriDaEvitare: [
-      "Presentarse sin reserva en línea: las entry card, gratuitas, hay que reservarlas con antelación en el sitio oficial visit.auschwitz.org (hasta con tres meses de antelación, y en todo caso con al menos una semana para las plazas sin guía): ya no se compran en el lugar",
-      "No comprobar los horarios de temporada: en las horas centrales del día (aproximadamente desde las 7:30 hasta primera hora de la tarde o última hora de la tarde según el mes) la entrada solo se permite con un guía-educador del Museo o con un tour organizado; la visita libre sin guía solo es posible en las franjas horarias restantes, más tarde por la tarde según la estación",
+      "Presentarse sin reserva en línea: las entry card, gratuitas, hay que reservarlas con antelación en el sitio oficial visit.auschwitz.org: ya no se compran en el lugar",
+      "No comprobar los horarios de temporada: en las horas centrales del día la entrada solo se permite con un guía-educador del Museo o con un tour organizado; la visita libre sin guía solo es posible en las franjas horarias restantes, más tarde por la tarde según la estación",
       "Subestimar los tiempos: una visita completa a los dos sitios requiere al menos 3-4 horas, más el transporte de ida y vuelta desde Cracovia: hace falta un día entero, sin otras paradas",
-      "Vestirse o comportarse como se haría en cualquier atracción turística: el reglamento del Museo exige una vestimenta y un comportamiento respetuosos, y algunas zonas prohíben las fotografías",
-      "Llevar equipajes voluminosos: hay un límite de tamaño para las mochilas admitidas en el interior, con consigna de pago para las más grandes",
+      "Vestirse o comportarse como se haría en cualquier atracción turística: el reglamento del Museo exige una vestimenta y un comportamiento respetuosos, y para fotos y grabaciones hay que seguir las indicaciones del lugar",
+      "Llevar equipajes voluminosos: hay un límite de tamaño para las mochilas admitidas en el interior, con consigna para las más grandes",
     ],
     luoghi: [
       {
         nome: "Auschwitz I (Museo)",
         testo: "El primer campo, con el cartel «Arbeit macht frei» a la entrada, los bloques-museo con las exposiciones nacionales y las vitrinas de objetos personales de las víctimas. Es el lugar de memoria donde se comprende la escala del exterminio.",
-        come: "Desde la estación de autobuses de Cracovia, bus o minibús hasta Oświęcim; el museo está a unos 2 km de la estación de tren.",
+        come: "Desde la estación de autobuses de Cracovia, bus o minibús hasta Oświęcim, o tren hasta la estación y luego autobús o a pie.",
         quando: "El pase nominativo se reserva online; durante gran parte del día solo se entra con guía.",
-        tempo: "3,5 horas para el recorrido guiado",
+        tempo: "media jornada",
         costo: "la entrada es libre pero requiere el pase por franja horaria",
         url: "https://www.auschwitz.org",
         consiglio: "Mochilas y bolsos no pueden superar 35x25x15 cm: los más grandes se dejan fuera."
@@ -240,7 +240,7 @@ export const destinazioniPolonia: Destinazione[] = [
       },
       {
         nome: "Reserva y normas de visita",
-        testo: "El Museo gestiona un sistema de pases nominativos, en número limitado. Las visitas guiadas para individuales (unas 3,5 horas) existen también en español. Durante gran parte del día solo se entra con guía; sin guía, con el pase gratuito, solo en las horas indicadas en la web (de abril a septiembre desde las 17).",
+        testo: "El Museo gestiona un sistema de pases nominativos, en número limitado. Las visitas guiadas para individuales existen en varios idiomas. Durante gran parte del día solo se entra con guía; sin guía, con el pase gratuito, solo en las horas indicadas en la web.",
         come: "Las reservas se hacen solo online, en visit.auschwitz.org; en verano con mucha antelación.",
         quando: "Evitar fines de semana y festivos.",
         url: "https://www.auschwitz.org",
@@ -250,7 +250,7 @@ export const destinazioniPolonia: Destinazione[] = [
     attenzioni: [
       "Las exposiciones son muy duras: pensarlo bien antes de llevar niños.",
       "Tener en cuenta que la visita es emocionalmente pesada: planificar con calma el resto del día.",
-      "Para fotos y grabaciones seguir los carteles: en algunos espacios no se permiten."
+      "Para fotos y grabaciones seguir los carteles y las indicaciones del personal."
     ],
     esperienzeSlugs: ['auschwitz-birkenau-visita-guidata'],
     tripSlugs: ['cracovia-weekend'],

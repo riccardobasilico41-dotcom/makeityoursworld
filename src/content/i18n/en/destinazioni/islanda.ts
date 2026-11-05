@@ -48,10 +48,10 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "Keflavík centre and waterfront",
         testo: "A quiet port town with a seafront, a rocky coast and the Icelandic Museum of Rock'n'Roll. For late arrivals it is the place to eat without going far.",
-        come: "On foot from the centre or by bus 55 from the airport.",
+        come: "On foot in the centre; from the airport by bus or taxi.",
         quando: "At sunset, very late in summer.",
         tempo: "1-2 hours",
-        consiglio: "Check the time of the last bus 55 before going out in the evening."
+        consiglio: "Check the time of the last bus before heading out in the evening."
       }
     ],
     sapori: [
@@ -65,7 +65,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Icelandic hot dog (pylsur)",
-        testo: "A lamb sausage with raw and fried onion and sauces; found at gas stations and kiosks, cheap."
+        testo: "A sausage made largely with lamb, with raw and fried onion and sauces; sold cheaply at petrol stations and kiosks."
       }
     ],
     attenzioni: [
@@ -148,7 +148,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Skógafoss",
-        testo: "A waterfall 25 metres wide and 60 high, on the old sea cliff. A side staircase of 527 steps climbs to the top, where the trail to the Fimmvörðuháls pass begins.",
+        testo: "A waterfall 25 metres wide and 60 high, on the edge of the old coastal cliff. A long staircase on the side climbs to the top, where the trail to the Fimmvörðuháls pass begins.",
         come: "Parking at the foot; the campsite next door is handy for the evening.",
         quando: "Afternoon, for the rainbow when it is sunny.",
         tempo: "45 minutes",
@@ -158,7 +158,7 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "DC-3 wreck at Sólheimasandur",
         testo: "A US Navy plane that came down in November 1973 on a plain of black sand, with no victims. The area is bare and windswept; since 2016 the landowners have banned driving there.",
-        come: "Park on the Ring Road and walk about 3-4 km each way on flat sand. No guide needed.",
+        come: "Car park on the Ring Road, then a long walk across flat sand. No guide needed.",
         quando: "Late in summer, when the sun grazes the horizon; at night you need a torch.",
         tempo: "2-3 hours round trip",
         consiglio: "We went at midnight in late-July light: bring water and a power bank, the route has no landmarks."
@@ -171,17 +171,17 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Rye bread (rúgbrauð)",
-        testo: "Dark, sweet bread baked underground by geothermal heat, served with butter and smoked trout at Laugarvatn."
+        testo: "Dark, sweet bread baked slowly, sometimes using geothermal heat; eaten with butter or smoked fish."
       },
       {
         nome: "Packed lunch",
-        testo: "The supermarkets Bónus and Krónan are the cheapest in Iceland: shop and cook at the campsite to halve your costs."
+        testo: "Discount supermarkets such as Bónus and Krónan are the cheapest option: shop and cook at the campsite to save money."
       }
     ],
     attenzioni: [
       "At Reynisfjara and other black beaches sneaker waves arrive without warning: never turn your back on the sea.",
       "F-roads and unbridged fords require a 4x4 and are usually not covered by basic rental insurance.",
-      "Wild camping with a tent is very limited: use campsites (low cost, clean facilities) and respect signs.",
+      "Wild camping with a tent is very restricted: use campsites and respect the signs.",
       "Outside the Reykjavík area many fuel pumps are automatic: carry a card with a PIN."
     ],
     esperienzeSlugs: ['relitto-aereo-solheimasandur', 'golden-circle'],
@@ -223,17 +223,17 @@ export const destinazioniIslanda: Destinazione[] = [
     luoghi: [
       {
         nome: "Dyrhólaey",
-        testo: "A headland with a lava arch in the sea and a lighthouse, with a great view of the south coast. In spring part of the area closes for bird nesting, and in summer puffins nest on the cliffs. The lighthouse dates from 1927.",
+        testo: "A headland with a black lava arch in the sea and a lighthouse, with a fine view of the south coast. In summer puffins nest on the cliffs. The lighthouse dates from 1927.",
         come: "By car, gravel road to drive with care up to the high parking lot.",
         quando: "Late spring and summer for puffins; at sunset for the light.",
         tempo: "1 hour",
         costo: "free entry",
-        consiglio: "Check seasonal closures before going up."
+        consiglio: "Stay on the marked paths: the cliffs are high and crumbly."
       },
       {
         nome: "Reynisfjara",
         testo: "A black sand beach with basalt columns and the Reynisdrangar sea stacks. One of the most photogenic and dangerous beaches in Iceland because of sudden waves.",
-        come: "Parking and a short path; signs with a traffic-light system show sea conditions.",
+        come: "Car park and a short path; there are signs about sea conditions at the entrance.",
         quando: "Early morning, when there are fewer buses.",
         tempo: "1 hour",
         costo: "free entry",
@@ -315,20 +315,20 @@ export const destinazioniIslanda: Destinazione[] = [
     luoghi: [
       {
         nome: "Vestrahorn and Stokksnes",
-        testo: "A 454 metre gabbro mountain mirrored in the black dunes of Stokksnes beach. One of the most photographed places in Iceland.",
+        testo: "A steep, dark mountain reflected in the black dunes of Stokksnes beach. It is one of the most photographed spots in Iceland.",
         come: "After the road to Stokksnes there is a paid entrance run by the private landowner; then a few minutes on foot.",
         quando: "Sunrise or sunset, with shallow water for reflections.",
         tempo: "1-2 hours",
         costo: "paid entrance (rate to be checked on site)",
-        consiglio: "The ticket includes the Viking Village: you do the two together."
+        consiglio: "The Viking Village is on the same road: do both together."
       },
       {
         nome: "Viking Village",
-        testo: "A Viking village built in 2010 as a film set for a movie never made, now left to horses to graze. Next to it is the campsite at the foot of Vestrahorn.",
+        testo: "A Viking village built as a film set at the foot of Vestrahorn. The wood and turf houses with the mountain behind make a good photo subject.",
         come: "Reached from the same road as Stokksnes.",
         quando: "Low-light hour, when Vestrahorn stands out in the background.",
         tempo: "30 minutes",
-        consiglio: "The horses roam free: do not feed them or get too close."
+        consiglio: "If horses are roaming free, don't feed them or get too close."
       },
       {
         nome: "Höfn harbour and langoustine",
@@ -395,7 +395,7 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "Seyðisfjörður",
         testo: "An artists' village in a deep fjord, with colourful wooden houses, the blue church and the rainbow street. You arrive by descending a mountain pass (Fjarðarheiði) with beautiful waterfalls.",
-        come: "By car from Egilsstaðir; it is also the port for the ferry from the Faroe Islands and Denmark.",
+        come: "By car from Egilsstaðir, over the pass.",
         quando: "Summer; the pass can be closed by snow from autumn to spring.",
         tempo: "half a day",
         consiglio: "Walk to the waterfalls along the road, with several stops."
@@ -410,8 +410,8 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Lagarfljót and Hallormsstaður forest",
-        testo: "One of the largest forests in Iceland, 740 hectares, with tall trees and a trail along the Lagarfljót. A real surprise in a country almost without trees.",
-        come: "About 25 km from Egilsstaðir, in the Fljótsdalur valley.",
+        testo: "One of Iceland's largest forests, with tall trees and a trail along the Lagarfljót. A real surprise in an almost treeless country.",
+        come: "By car from Egilsstaðir, along the lake, in the Fljótsdalur valley.",
         quando: "Summer and early autumn for the colours.",
         tempo: "2 hours",
         consiglio: "Small and quiet, ideal as a break from driving."
@@ -468,7 +468,7 @@ export const destinazioniIslanda: Destinazione[] = [
     luoghi: [
       {
         nome: "Stuðlagil",
-        testo: "A canyon with basalt columns and turquoise water that stayed almost unknown until 2016: the Kárahnjúkar dam, finished in 2009, cut the river's flow and exposed the walls. There are two accesses: the viewing platform on the west bank and, on the east bank, a trail of about 5 km.",
+        testo: "A canyon with basalt columns and turquoise water that was almost unknown until a few years ago: the Kárahnjúkar dam upstream reduced the river's flow and exposed the walls. There are two approaches: the viewing platform on the west bank and, on the east bank, a longer trail.",
         come: "Last stretch on a gravel road from the asphalt; short, well-kept trails.",
         quando: "Summer, with the river low and full light.",
         tempo: "1-2 hours",
@@ -477,7 +477,7 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "Dettifoss",
         testo: "A waterfall 100 metres wide and 44 high, considered among the most powerful in Europe. The water is muddy and grey, and the noise carries far.",
-        come: "From Route 862 (paved) on the west side, the best view; a path of about 1 km from the parking lot.",
+        come: "From Route 862 (paved) on the west side, the best view; short path from the car park.",
         quando: "Summer; in spring the flow is at its peak.",
         tempo: "1 hour",
         costo: "free entry",
@@ -494,14 +494,6 @@ export const destinazioniIslanda: Destinazione[] = [
         url: "https://www.vatnajokulsthjodgardur.is",
         consiglio: "The national park campsite is on the canyon floor, with excellent facilities."
       },
-      {
-        nome: "Hljóðaklettar",
-        testo: "Basalt columns grown in a circle, which from above look like a flower in stone, near Ásbyrgi. A short walk, the best in the area for geology lovers.",
-        come: "A few kilometres from Ásbyrgi; a well-marked path.",
-        quando: "Summer.",
-        tempo: "1 hour",
-        consiglio: "Easy to combine with Ásbyrgi in the morning."
-      }
     ],
     attenzioni: [
       "The area is remote: fill up with fuel and groceries in Húsavík or Akureyri.",
@@ -544,7 +536,7 @@ export const destinazioniIslanda: Destinazione[] = [
     luoghi: [
       {
         nome: "Whale watching from Húsavík",
-        testo: "Skjálfandi Bay is among the best places in Europe to see humpback and blue whales in summer. Tours leave from Húsavík harbour and last about 3 hours.",
+        testo: "Skjálfandi Bay is one of Iceland's best-known whale-watching spots: in summer humpback whales are often seen. Tours leave from Húsavík harbour and last about 3 hours.",
         come: "Book online with the operator; traditional or fast boats.",
         quando: "Daily trips from March to November; June-August is the best period. Early morning for calm seas.",
         tempo: "3 hours",
@@ -570,20 +562,20 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Grjótagjá",
-        testo: "A lava cave with a hot spring, known for a Game of Thrones scene. Today you cannot bathe because the temperature is too variable.",
+        testo: "A small lava cave with a hot spring, known from a Game of Thrones scene.",
         come: "Small parking lot and a few steps.",
         quando: "Any time.",
         tempo: "20 minutes",
         costo: "free entry",
-        consiglio: "You can look, not swim."
+        consiglio: "Follow the signs on site: the water can be very hot."
       },
       {
         nome: "Akureyri town",
         testo: "The largest town outside the capital region, at the end of a long fjord and about 100 km from the Arctic Circle, with Akureyrarkirkja church, the botanical garden and a fine mountain view.",
-        come: "On foot from the centre; the Lystigarðurinn botanical garden is on Spítalavegur.",
+        come: "On foot from the centre, including the Lystigarðurinn botanical garden.",
         quando: "Daytime; evening for the cafes.",
         tempo: "2-3 hours",
-        consiglio: "Do your shopping here: the supermarkets are better stocked and cheaper than elsewhere in the North."
+        consiglio: "Stock up here: the supermarkets are better supplied than in the northern villages."
       }
     ],
     sapori: [
@@ -593,7 +585,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Icelandic milk ice cream",
-        testo: "In Iceland ice cream is made with milk and eaten all year, even in the cold: try the one from Efstidalur farm or the cafes in the centre."
+        testo: "In Iceland ice cream is eaten all year round, even in the cold: try it in the cafés and ice-cream shops in the centre."
       }
     ],
     attenzioni: [
@@ -641,7 +633,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Arnarstapi and Hellnar",
-        testo: "Two former fishing villages on the south coast of Snæfellsnes, joined by a 2.5 km path among cliffs, basalt arches and seabird nests.",
+        testo: "Two former fishing villages on the south coast of Snæfellsnes, linked by a coastal path past cliffs, basalt arches and seabird nests.",
         come: "Parking in both villages; the path is on foot.",
         quando: "Summer.",
         tempo: "1-2 hours",
@@ -649,23 +641,23 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Djúpalónssandur",
-        testo: "A black pebble beach with the remains of a shipwreck and lifting stones used to test fishermen. The path descends through lava.",
-        come: "Small parking lot on Route 574; short descent.",
+        testo: "A black pebble beach with the remains of a shipwreck, reached by a short path through the lava.",
+        come: "Small car park and a short walk down.",
         quando: "Morning or evening.",
         tempo: "1 hour",
-        consiglio: "Do not touch the rusty iron of the wreck: it is still dangerous."
+        consiglio: "The waves are strong: don't get too close to the water."
       },
       {
         nome: "Guðrúnarlaug",
         testo: "A rebuilt hot pool at Laugar, in the Sælingsdalur valley, at the spot described in the Laxdæla saga: it is named after the heroine Guðrún Ósvífursdóttir. It is still little visited.",
-        come: "Just off Route 60.",
+        come: "By car, in the Sælingsdalur valley.",
         quando: "Evening.",
         tempo: "1 hour",
         consiglio: "Basic changing room: bring a towel and flip-flops."
       }
     ],
     attenzioni: [
-      "The Akureyri to Snæfellsnes leg is the longest day of driving: 6-7 hours with stops.",
+      "The Akureyri-Snæfellsnes leg is one of the longest driving days of the trip: set off early.",
       "Natural hot pools often have no changing rooms: respect the rules and leave everything clean."
     ],
     esperienzeSlugs: [],
@@ -719,7 +711,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Perlan and Wonders of Iceland",
-        testo: "A glass-domed building on top of six hot water tanks, with an artificial ice cave, a planetarium and a panoramic terrace.",
+        testo: "A glass-domed building on top of the city's hot-water tanks, with an artificial ice cave, a planetarium and a viewing deck.",
         come: "Outside the centre, by bus or car; handy on a rainy day.",
         quando: "Exhibitions open daily 9am-9pm; ideal on bad-weather days.",
         tempo: "2-3 hours",
@@ -736,7 +728,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Kolaportið",
-        testo: "A covered flea market near the harbour on Saturdays and Sundays: second-hand goods, books, souvenirs and a dried fish stall, the most authentic Icelandic food.",
+        testo: "An indoor flea market near the harbour, on Saturdays and Sundays: second-hand goods, books, souvenirs and a stall of dried fish and other traditional food.",
         come: "On foot from the centre, next to the old harbour.",
         quando: "Saturday and Sunday, all year; hours on the official website.",
         tempo: "1 hour",
@@ -745,7 +737,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Public geothermal pools",
-        testo: "Geothermal pools are part of local social life: Sundhöllin in the centre, Laugardalslaug the largest, Vesturbæjarlaug a short walk from the sea.",
+        testo: "Geothermal pools are part of local social life: Sundhöllin in the centre, Laugardalslaug in Laugardalur park, Vesturbæjarlaug near the sea.",
         come: "By bus or on foot; paid entry, a naked shower is mandatory before getting in.",
         quando: "Evening, when locals gather.",
         tempo: "2 hours",
@@ -780,7 +772,7 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "Laugardalur",
         perChi: "Those seeking quiet and lower prices",
-        testo: "Near the pools and the HI hostel; 20 minutes on foot from the centre, with the bus."
+        testo: "Near the pools and the park; further from the centre, served by buses."
       },
       {
         nome: "Near the harbour",
@@ -790,8 +782,8 @@ export const destinazioniIslanda: Destinazione[] = [
     ],
     sapori: [
       {
-        nome: "Bæjarins Beztu Pylsur",
-        testo: "The city's most famous hot dog stand, near the harbour, open for decades."
+        nome: "Hot dog (pylsur)",
+        testo: "The most common street food: a sausage with raw and fried onion and sauces, from kiosks in the centre."
       },
       {
         nome: "Skyr and pastries",
@@ -808,7 +800,7 @@ export const destinazioniIslanda: Destinazione[] = [
     ],
     attenzioni: [
       "High prices: have soup or a hot dog for lunch and eat dinner at bars with a dish of the day to save.",
-      "Taxi drivers are honest, but taxis are expensive: take the bus or drive.",
+      "Taxis are expensive: buses or a car are better.",
       "In the centre's bars on Saturday night alcohol prices are high: check your bill."
     ],
     esperienzeSlugs: [],

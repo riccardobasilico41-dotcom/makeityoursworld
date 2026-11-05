@@ -42,14 +42,14 @@ export const destinazioniGuatemala: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Arco de Santa Catalina",
-          "testo": "El arco amarillo barroco de 1693 en la 5ª Avenida Norte, construido para que las monjas de clausura del convento de Santa Catalina pasaran de un edificio a otro sin salir a la calle. Con el volcán de Agua al fondo es la foto símbolo de la ciudad.",
+          "testo": "El arco amarillo barroco de 1693, construido para que las monjas de clausura del convento de Santa Catalina pasaran de un edificio a otro sin salir a la calle. Con el volcán de Agua al fondo es la foto símbolo de la ciudad.",
           "come": "A pie desde la plaza central, pocos minutos. Gratis, es una calle.",
           "quando": "Mañana temprano, sin multitudes y con el volcán despejado.",
           "tempo": "15 minutos"
         },
         {
           "nome": "Convento de Santa Clara y La Merced",
-          "testo": "Iglesias y conventos coloniales arruinados por los terremotos de 1773, tras los cuales se trasladó la capital. Antigua es patrimonio UNESCO desde 1979 por este conjunto.",
+          "testo": "Iglesias y conventos coloniales arruinados por los terremotos del siglo XVIII, tras los cuales se trasladó la capital. Antigua es patrimonio UNESCO desde 1979 por este conjunto.",
           "come": "A pie por el centro. Las ruinas de Santa Clara tienen entrada; La Merced es una iglesia todavía en uso.",
           "quando": "Mañana; la luz de la tarde es buena en la fachada de La Merced.",
           "tempo": "2-3 horas para ambas",
@@ -58,10 +58,10 @@ export const destinazioniGuatemala: Destinazione[] = [
         {
           "nome": "Cerro de la Cruz",
           "testo": "Un mirador en la colina con la ciudad en primer plano y los volcanes Agua, Fuego y Acatenango detrás. Se llega con una subida corta.",
-          "come": "A pie desde el centro con una subida corta, pero mejor en grupo o acompañados por la policía turística, presente en la zona.",
+          "come": "A pie desde el centro con una subida corta, mejor en grupo y de día.",
           "quando": "Mañana temprano o última hora de la tarde.",
           "tempo": "1 hora",
-          "consiglio": "No subir solo ni llevar objetos de valor: la zona ha tenido problemas de seguridad en el pasado."
+          "consiglio": "No subir solo ni llevar objetos de valor."
         },
         {
           "nome": "Volcán Acatenango",
@@ -79,7 +79,7 @@ export const destinazioniGuatemala: Destinazione[] = [
             "Mañana: Arco de Santa Catalina y ruinas de La Merced",
             "Mercado municipal y almuerzo",
             "Tarde: Convento de Santa Clara",
-            "Atardecer en el Cerro de la Cruz, con la policía turística"
+            "Atardecer en el Cerro de la Cruz, en grupo"
           ]
         },
         {
@@ -105,9 +105,9 @@ export const destinazioniGuatemala: Destinazione[] = [
           "testo": "Calles empedradas, todo cerca, pero ruido el fin de semana y precios más altos."
         },
         {
-          "nome": "Zonas sobre la 5ª Calle y alrededor de los conventos",
+          "nome": "Zonas en los márgenes del centro histórico",
           "perChi": "quien busca más calma",
-          "testo": "Más tranquilas de noche; 10-15 minutos a pie al centro."
+          "testo": "Más tranquilas de noche, a poca distancia a pie del centro."
         }
       ],
       "sapori": [
@@ -129,7 +129,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         }
       ],
       "attenzioni": [
-        "Subida al Cerro de la Cruz: mejor en grupo o con la policía turística.",
+        "Subida al Cerro de la Cruz: mejor en grupo y de día.",
         "Para el Acatenango elige operadores serios: el Foreign Office británico advierte que los organizadores locales tienden a subestimar los riesgos, que ha habido muertos y que no existe rescate de montaña.",
         "El Fuego está activo: antes de salir consulta los boletines de CONRED e INSIVUMEH y sigue siempre al guía."
       ],
@@ -181,7 +181,7 @@ export const destinazioniGuatemala: Destinazione[] = [
       "luoghi": [
         {
           "nome": "San Juan la Laguna",
-          "testo": "El pueblo más cuidado del lago, con cooperativas textiles de mujeres, murales en las fachadas y talleres de arte.",
+          "testo": "Un pueblo cuidado, con cooperativas textiles de mujeres, murales en las fachadas y talleres de arte.",
           "come": "En lancha pública desde Panajachel o San Pedro, luego se camina por las callejuelas.",
           "quando": "Mañana, cuando las cooperativas están abiertas.",
           "tempo": "2-3 horas",
@@ -196,7 +196,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         },
         {
           "nome": "Santiago Atitlán",
-          "testo": "El pueblo más grande del lago, tz'utujil y muy tradicional, donde algunas mujeres todavía llevan el tocoyal enrollado en la cabeza y se venera a Maximón, figura sincrética.",
+          "testo": "Un pueblo grande tz'utujil y muy tradicional, donde algunas mujeres todavía llevan el tocoyal enrollado en la cabeza y se venera a Maximón, figura sincrética.",
           "come": "En lancha pública desde Panajachel.",
           "quando": "Mañana.",
           "tempo": "Media jornada",
@@ -204,7 +204,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         },
         {
           "nome": "Indian Nose (Rostro Maya)",
-          "testo": "Un mirador sobre San Juan la Laguna, para el amanecer sobre el lago y los volcanes Atitlán, Tolimán y San Pedro. La cima es un prado estrecho entre árboles: se llega a oscuras y se ve la luz encender el lago.",
+          "testo": "Un mirador sobre San Juan la Laguna, para el amanecer sobre el lago y los volcanes Atitlán, Tolimán y San Pedro.",
           "come": "Despertador antes del amanecer, traslado y caminata a oscuras con guía.",
           "quando": "Amanecer, con cielo despejado.",
           "tempo": "Media mañana",
@@ -259,7 +259,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         },
         {
           "nome": "Pescado del lago",
-          "testo": "Tilapia y black bass fritos, a la orilla en Panajachel y Santiago."
+          "testo": "Pescado frito, a menudo tilapia de criadero, en los comedores a la orilla del lago."
         },
         {
           "nome": "Tortillas y frijoles",
@@ -354,7 +354,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         },
         {
           "nome": "Yaxhá",
-          "testo": "El tercer sitio maya de Guatemala por tamaño, después de Tikal y El Mirador, en la orilla norte de la laguna Yaxhá, a unos 30 km de Tikal. Menos visitado, con el atardecer sobre la laguna visto desde lo alto de una pirámide.",
+          "testo": "El tercer sitio maya de Guatemala por tamaño, después de Tikal y El Mirador, en la orilla norte de la laguna Yaxhá. Menos visitado, con el atardecer sobre la laguna visto desde lo alto de una pirámide.",
           "come": "Tour desde Flores o taxi; es un sitio grande, dentro del parque nacional Yaxhá-Nakum-Naranjo.",
           "quando": "Última hora de la tarde.",
           "tempo": "Media jornada",
@@ -482,14 +482,6 @@ export const destinazioniGuatemala: Destinazione[] = [
           "consiglio": "Zapatos con agarre y agua: la subida es dura, pero sin la vista desde arriba se pierde el sentido del lugar."
         },
         {
-          "nome": "Cuevas de K'anba",
-          "testo": "Una cueva con pasillos inundados que se recorren con una vela en la mano y algunos tramos a nado en la oscuridad. Lo menos turístico de la zona.",
-          "come": "Con guía, a poca distancia de la entrada del monumento natural.",
-          "quando": "Después de visitar las pozas, por la tarde.",
-          "tempo": "1-1,5 horas",
-          "consiglio": "Quien sufra de claustrofobia que se las salte: los pasos son estrechos y oscuros."
-        },
-        {
           "nome": "Lanquín",
           "testo": "El pueblo q'eqchi' que sirve de base para Semuc Champey, con hostales y pocos servicios.",
           "come": "Desde Cobán o en shuttle desde Antigua o Atitlán: es un día largo de carretera.",
@@ -503,14 +495,14 @@ export const destinazioniGuatemala: Destinazione[] = [
           "tappe": [
             "Mañana: pozas y Mirador",
             "Almuerzo",
-            "Tarde: cuevas de K'anba"
+            "Tarde: regreso a Lanquín"
           ]
         },
         {
           "titolo": "2 días",
           "tappe": [
             "Día 1: llegada a Lanquín, parada en la entrada del parque",
-            "Día 2: pozas, Mirador, cuevas; regreso en shuttle al día siguiente"
+            "Día 2: pozas y Mirador; regreso en shuttle al día siguiente"
           ]
         }
       ],
@@ -518,7 +510,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         {
           "nome": "Lanquín",
           "perChi": "todos",
-          "testo": "El pueblo base: pocos alojamientos, hostales y casas de huéspedes sencillas, electricidad y conexión limitadas."
+          "testo": "El pueblo base: pocos alojamientos, hostales y casas de huéspedes sencillas, servicios limitados."
         },
         {
           "nome": "Alrededores del río Cahabón",
@@ -599,7 +591,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         },
         {
           "nome": "Iglesia de Santo Tomás",
-          "testo": "Iglesia de unos cuatro siglos en la plaza principal, construida sobre una plataforma precolombina. En sus 20 gradas, que según se dice representan los meses del calendario maya, los sacerdotes k'iche' queman incienso y velas. Un rito real, no un espectáculo.",
+          "testo": "Iglesia colonial en la plaza principal, construida sobre una plataforma precolombina. En sus 20 gradas, que según se dice representan los meses del calendario maya, los sacerdotes k'iche' queman incienso y velas. Un rito real, no un espectáculo.",
           "come": "A pie desde la plaza. Se puede mirar desde la escalinata, pero el interior tiene sus propias reglas.",
           "quando": "Días de mercado.",
           "tempo": "1 hora",

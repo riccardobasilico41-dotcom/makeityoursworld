@@ -44,11 +44,11 @@ export const destinazioniBolivia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Mi Teleférico",
-        "testo": "The urban cable-car network linking La Paz and El Alto. It is public transport and also the best viewpoint over the basin: the red and yellow lines give the finest view.",
+        "testo": "The urban cable-car network linking La Paz and El Alto. It is public transport and also a great viewpoint over the basin, especially from the red and yellow lines.",
         "come": "Stations are all over the city; you buy the ticket at the station.",
         "quando": "At sunset, when the basin lights up.",
         "tempo": "1-2 hours",
-        "costo": "3 bolivianos per ride, less than half a euro (2025-2026)",
+        "costo": "Cheap ticket, bought at the station: fares on the official website",
         "url": "https://www.miteleferico.bo/",
         "consiglio": "Rick recommends them to everyone: they cost very little and give the best view over the basin."
       },
@@ -63,15 +63,15 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         "nome": "Valle de la Luna",
         "testo": "Eroded clay formations a few kilometres from the centre, with short paths among spires and canyons.",
-        "come": "Bus or taxi to the southern part of La Paz, near Mallasa.",
+        "come": "Bus or taxi to the southern part of La Paz.",
         "quando": "Morning, with better light.",
         "tempo": "1-2 hours",
         "consiglio": "At this altitude even a short walk tires you: go slowly."
       },
       {
         "nome": "El Alto and the cholitas luchadoras",
-        "testo": "El Alto's 16 de Julio fair (Thursday and Sunday) is one of the largest street markets in Latin America. On Sunday you can also watch Aymara women wrestle in traditional skirts.",
-        "come": "By cable car (red line) to El Alto.",
+        "testo": "El Alto's 16 de Julio fair (Thursday and Sunday) is a huge street market. In El Alto you can also watch the cholitas' wrestling, Aymara women in traditional skirts.",
+        "come": "By cable car to El Alto.",
         "quando": "Thursday and Sunday for the market.",
         "tempo": "Half a day",
         "consiglio": "Keep bags and phone in front: the market is crowded."
@@ -87,11 +87,11 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Chacaltaya",
-        "testo": "It was the highest lift-served ski area in the world. The glacier had completely disappeared by 2009; the area lies near Huayna Potosí.",
+        "testo": "It was a high-altitude ski area. The glacier had completely disappeared by 2009; the area lies near Huayna Potosí.",
         "come": "Half-day tour from La Paz.",
         "quando": "Early morning.",
         "tempo": "Half a day",
-        "consiglio": "Go up only after at least two days in La Paz: the summit is above 5,000 metres."
+        "consiglio": "Go up only after at least two days in La Paz: the altitude is very high."
       }
     ],
     programmi: [
@@ -150,7 +150,7 @@ export const destinazioniBolivia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Landing at El Alto (over 4,000 metres) and planning something demanding the same day.",
+      "Landing at El Alto, at very high altitude, and planning something demanding the same day.",
       "Road blockades: they can isolate the city for days and cancel flights and transfers.",
       "Unofficial taxis, especially in the evening: use radio taxis or apps.",
       "Pickpockets in crowded markets: no valuables in view.",
@@ -207,7 +207,7 @@ export const destinazioniBolivia: Destinazione[] = [
     luoghi: [
       {
         "nome": "The Uyuni salt flat",
-        "testo": "The largest salt flat in the world, over 10,000 square kilometres at 3,650 metres. With no reference points you cannot tell if a mountain is five or fifty kilometres away, which is why forced-perspective photos work.",
+        "testo": "A vast, high-altitude salt flat. With no reference points you cannot tell if a mountain is five or fifty kilometres away, which is why forced-perspective photos work.",
         "come": "Only by 4x4 with a driver, as part of an organised tour leaving from Uyuni.",
         "quando": "In the dry season the salt flat is dry and passable throughout. In the rainy season (roughly December-April) it turns into a mirror of water, but some stops are lost.",
         "tempo": "Half a day or a day",
@@ -232,15 +232,15 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Laguna Colorada",
-        "testo": "A lagoon coloured red by sediments and algae, with many flamingos, mostly James's flamingos, in the Sud Lípez.",
+        "testo": "A lagoon coloured red by sediments and algae, with many flamingos, in the Sud Lípez.",
         "come": "A stop on the second day of the 4x4 tour.",
         "quando": "Early morning.",
         "tempo": "1-2 hours",
         "consiglio": "The second day in the Sud Lípez is the one that stayed most with Rick, more than the salt: red lagoons full of flamingos above four thousand metres."
       },
       {
-        "nome": "Sol de Mañana geysers and Polques hot springs",
-        "testo": "Geysers at about 4,900 metres that puff at dawn, and the open-air Polques hot springs.",
+        "nome": "Sol de Mañana geysers and hot springs",
+        "testo": "Geysers at about 4,900 metres that puff at dawn and, along the same route, open-air hot pools.",
         "come": "Stops on the 4x4 tour.",
         "quando": "At dawn, with temperatures below zero.",
         "tempo": "1-2 hours",
@@ -248,7 +248,7 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Laguna Verde",
-        "testo": "A lagoon at the foot of the Licancabur volcano, on the Chilean border.",
+        "testo": "A lagoon in the far south-west, near the Chilean border.",
         "come": "Last stop of the 4x4 tour before San Pedro de Atacama.",
         "quando": "Morning.",
         "tempo": "1 hour",
@@ -269,7 +269,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "tappe": [
           "Day 1: salt flat, Isla Incahuasi, night in a salt hotel",
           "Day 2: Sud Lípez lagoons, Laguna Colorada",
-          "Day 3: geysers at dawn, Polques hot springs, Laguna Verde, return to Uyuni or onward to San Pedro de Atacama"
+          "Day 3: geysers at dawn, hot springs, Laguna Verde, return to Uyuni or onward to San Pedro de Atacama"
         ]
       }
     ],
@@ -282,7 +282,7 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         "nome": "Sud Lípez lodgings",
         "perChi": "Those on the 3-day tour",
-        "testo": "Very basic, often without heating above 4,000 metres. You sleep below zero."
+        "testo": "Very basic, often without heating at high altitude. You sleep below zero."
       },
       {
         "nome": "Salt hotel",
@@ -305,7 +305,7 @@ export const destinazioniBolivia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Choosing the operator on price alone: vehicles and maintenance make a real difference on tracks at 4,500 metres.",
+      "Choosing the operator on price alone: vehicles and maintenance make a real difference on high-altitude tracks.",
       "Night cold below zero: the sleeping bag is not always included.",
       "Arriving in Uyuni unacclimatised: on day two you climb almost to 5,000 metres.",
       "Rainy season (roughly December-April): mirror effect, but several stops are lost."
@@ -364,16 +364,16 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Cerro Calvario",
-        "testo": "The hill above the town, with the stations of the cross, for sunset over the lake.",
+        "testo": "The hill above the town, for sunset over the lake.",
         "come": "On foot from the centre, a short but steep climb.",
         "quando": "Sunset.",
         "tempo": "1-2 hours",
-        "consiglio": "At 3,800 metres the climb tires: go slowly."
+        "consiglio": "At this altitude the climb tires: go slowly."
       },
       {
         "nome": "Isla del Sol: Chincana and Roca Sagrada",
         "testo": "The Chincana ruins and the Roca Sagrada, at the northern end of the island where tradition says the sun and the first Inca were born.",
-        "come": "Shared boat from Copacabana. There are no motor vehicles or paved roads on the island.",
+        "come": "Shared boat from Copacabana.",
         "quando": "Morning and sunset.",
         "tempo": "Half a day",
         "costo": "Boat plus small entry fees collected by the communities: carry cash",
@@ -382,7 +382,7 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         "nome": "The Isla del Sol ridge path",
         "testo": "The path along the island's ridge from north to south among terraces and ruins.",
-        "come": "On foot, always uphill and at almost 4,000 metres.",
+        "come": "On foot, always uphill and at high altitude.",
         "quando": "Morning and sunset.",
         "tempo": "3-4 hours",
         "consiglio": "Sleeping one night on the island changes everything: day boats arrive and leave all together, and then the island goes quiet again."
@@ -417,7 +417,7 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         "nome": "Copacabana",
         "perChi": "Those who want connections and convenience",
-        "testo": "More convenient for transport. Cold nights at 3,800 metres."
+        "testo": "More convenient for transport. Cold nights at altitude."
       },
       {
         "nome": "Isla del Sol",
@@ -442,7 +442,7 @@ export const destinazioniBolivia: Destinazione[] = [
     attenzioni: [
       "Planning Isla del Sol as a day trip: you miss the best part.",
       "Access to the whole island is not guaranteed: ask locally.",
-      "Underestimating altitude: you walk uphill at almost 4,000 metres.",
+      "Underestimating altitude: you walk uphill high up.",
       "Kasani/Yunguyo border: hours and formalities change, check them again before you go."
     ],
     esperienzeSlugs: [],
@@ -490,7 +490,7 @@ export const destinazioniBolivia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Colonial centre of Sucre and Casa de la Libertad",
-        "testo": "The constitutional capital, a white colonial city on the UNESCO list since 1991, at about 2,800 metres. The republic was founded in the Casa de la Libertad.",
+        "testo": "The constitutional capital, a white colonial city on the UNESCO list, lower than La Paz. The republic was founded in the Casa de la Libertad.",
         "come": "On foot from the centre.",
         "quando": "By day.",
         "tempo": "Half a day",
@@ -518,7 +518,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "On foot from the centre of Potosí.",
         "quando": "Morning.",
         "tempo": "1-2 hours",
-        "consiglio": "At 4,000 metres even walking in the centre is tiring."
+        "consiglio": "At this altitude even walking in the centre is tiring."
       },
       {
         "nome": "Cerro Rico mines",
@@ -559,12 +559,12 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         "nome": "Historic centre of Sucre",
         "perChi": "Those staying a few days",
-        "testo": "The most pleasant city to stay in all of Bolivia."
+        "testo": "A pleasant city to stay a few days."
       },
       {
         "nome": "Centre of Potosí",
         "perChi": "Those visiting the mines",
-        "testo": "Basic lodgings at 4,000 metres. Cold nights."
+        "testo": "Basic lodgings at high altitude. Cold nights."
       }
     ],
     sapori: [
@@ -578,11 +578,11 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Potosí soups",
-        "testo": "Hearty, suited to four thousand metres."
+        "testo": "Hearty, suited to the altitude."
       }
     ],
     attenzioni: [
-      "In Potosí the altitude (4,000 metres) weighs: even walking in the centre tires.",
+      "In Potosí the altitude weighs: even walking in the centre tires.",
       "The mines are a workplace, not an ordinary attraction: very harsh conditions.",
       "Bring a small gift for the miners (coca leaves, soft drinks) bought at the miners' market.",
       "Road blockades: they can block connections for days."
@@ -691,7 +691,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "quando": "In the dry season.",
         "tempo": "3-4 days",
         "costo": "Depends on the lodge and the length: ask the lodge or agency directly",
-        "consiglio": "Choose a lodge run by indigenous communities, such as Chalalán or San Miguel del Bala."
+        "consiglio": "Choose a lodge run by indigenous communities."
       },
       {
         "nome": "Pink dolphins and sunsets over the pampas",
@@ -703,7 +703,7 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "La Paz-Rurrenabaque flight",
-        "testo": "A flight of about 45 minutes to an hour on small planes, which can be cancelled for weather, taking you from 4,000 metres down to forest level.",
+        "testo": "A flight of about 45 minutes to an hour on small planes, which can be cancelled for weather, taking you from the altiplano down to forest level.",
         "come": "Book with a margin; the alternative is a bus of about 18 hours.",
         "quando": "All year.",
         "tempo": "45 minutes to 1 hour",

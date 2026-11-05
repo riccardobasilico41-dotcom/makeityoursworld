@@ -55,10 +55,10 @@ export const destinazioniSpagna: Destinazione[] = [
     luoghi: [
       {
         "nome": "Cattedrale di Siviglia e Giralda",
-        "testo": "La più grande cattedrale gotica del mondo, costruita dopo la Reconquista sul sito della grande moschea almohade. Dentro c'è il monumento funebre di Cristoforo Colombo. Il campanile, la Giralda, è l'ex minareto: si sale con una rampa e non con le scale, e dalla cima si vedono i tetti e l'Alcázar.",
+        "testo": "Una delle più grandi cattedrali gotiche del mondo, costruita dopo la Reconquista sul sito della grande moschea almohade. Dentro c'è il monumento funebre di Cristoforo Colombo. Il campanile, la Giralda, è l'ex minareto: si sale con una rampa e non con le scale, e dalla cima si vedono i tetti e l'Alcázar.",
         "come": "Si trova in pieno centro, a piedi da Santa Cruz o dalla Plaza Nueva. Il biglietto unico comprende cattedrale e Giralda: la visita comincia dalla torre, che ha un controllo di accessi a parte.",
         "quando": "Lunedì-sabato 10:45-18:00 (biglietteria fino alle 17), domenica 14:30-19:00 (biglietteria fino alle 18); orari 2026, che cambiano per funzioni ed eventi: controllare il calendario del sito. Meglio all'apertura.",
-        "tempo": "circa 75 minuti, 2 ore con calma",
+        "tempo": "1-2 ore",
         "costo": "13 euro online, 14 euro in biglietteria (dal 1 gennaio 2026); il biglietto comprende anche la chiesa del Salvador",
         "url": "https://www.catedraldesevilla.es/",
         "consiglio": "Comprare il biglietto online la sera prima: in primavera la coda in biglietteria è lunga. Si entra prima nella Giralda, quindi conviene salire subito, quando le gambe sono fresche."
@@ -118,11 +118,11 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "titolo": "1 giorno",
         "tappe": [
-          "8:30 Cattedrale e Giralda con biglietto online già comprato, prima dei gruppi.",
-          "11:00 Real Alcázar, con la prima fascia disponibile o con l'audioguida.",
-          "14:00 Pranzo tardo a Santa Cruz o in un bar del centro: tapas e salmorejo.",
-          "16:30 Passeggiata a Plaza de España e nel Parque de María Luisa, dove l'ombra aiuta.",
-          "20:00 Attraversare il Puente de Triana, cena di tapas sul fiume e, se si riesce, flamenco acustico."
+          "Mattina: Cattedrale e Giralda con biglietto online già comprato, prima dei gruppi.",
+          "Tarda mattinata: Real Alcázar, con la prima fascia disponibile o con l'audioguida.",
+          "Primo pomeriggio: Pranzo tardo a Santa Cruz o in un bar del centro: tapas e salmorejo.",
+          "Pomeriggio: Passeggiata a Plaza de España e nel Parque de María Luisa, dove l'ombra aiuta.",
+          "Sera: Attraversare il Puente de Triana, cena di tapas sul fiume e, se si riesce, flamenco acustico."
         ]
       },
       {
@@ -139,7 +139,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "titolo": "3 giorni",
         "tappe": [
           "Giorni 1 e 2: come sopra.",
-          "Giorno 3, mattina: gita a Córdoba in treno AVE, in meno di un'ora, per la Mezquita.",
+          "Giorno 3, mattina: gita a Córdoba in treno AVE per la Mezquita.",
           "Giorno 3, pomeriggio: ritorno a Siviglia e ultima passeggiata nel parco di María Luisa oppure Santa Cruz di sera."
         ]
       }
@@ -279,7 +279,7 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Alcaicería e Corral del Carbón",
-        "testo": "L'Alcaicería era il vecchio mercato della seta nasride: oggi è un dedalo di botteghe per turisti. Il Corral del Carbón, accanto, è un fondaco dei primi del Trecento, magazzino e locanda per i mercanti: l'unico di epoca nasride rimasto nella penisola iberica.",
+        "testo": "L'Alcaicería era il vecchio mercato della seta nasride: oggi è un dedalo di botteghe per turisti. Il Corral del Carbón, accanto, è un raro fondaco di epoca nasride, del Trecento, che faceva da magazzino e locanda per i mercanti.",
         "come": "A piedi, a pochi passi dalla cattedrale. L'ingresso al Corral è libero negli orari di apertura.",
         "quando": "Al mattino, quando le botteghe aprono e le strade sono più libere.",
         "tempo": "30-45 minuti",
@@ -290,11 +290,11 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "titolo": "1 giorno",
         "tappe": [
-          "8:30 Alhambra con biglietto già prenotato e fascia del mattino per i Palazzi Nasridi.",
-          "13:30 Pranzo in centro con tapas gratuite con la bibita.",
-          "16:00 Cattedrale e Capilla Real.",
-          "18:30 Salita all'Albaicín e Mirador de San Nicolás per il tramonto.",
-          "21:00 Giro di bar per tapas in centro o in Calle Navas."
+          "Mattina: Alhambra con biglietto già prenotato e fascia del mattino per i Palazzi Nasridi.",
+          "Primo pomeriggio: Pranzo in centro con tapas gratuite con la bibita.",
+          "Pomeriggio: Cattedrale e Capilla Real.",
+          "Tardo pomeriggio: Salita all'Albaicín e Mirador de San Nicolás per il tramonto.",
+          "Sera: Giro di bar per tapas in centro o in Calle Navas."
         ]
       },
       {
@@ -431,7 +431,7 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Ponte Romano e Torre della Calahorra",
-        "testo": "Ponte di origine romana sul Guadalquivir, rifatto più volte: oggi ha 16 arcate ed è pedonale dal 2004. Per duemila anni è stato l'unico ponte della città. Dalla riva opposta si ha la vista classica sulla Mezquita. La torre della Calahorra, all'estremità sud, ospita un museo.",
+        "testo": "Ponte di origine romana sul Guadalquivir, rifatto più volte: oggi ha 16 arcate ed è pedonale. Per secoli è stato l'unico ponte della città. Dalla riva opposta si ha la vista classica sulla Mezquita. La torre della Calahorra, all'estremità sud, ospita un museo.",
         "come": "A piedi, a due passi dalla Mezquita. Il ponte è solo pedonale.",
         "quando": "Al tramonto o dopo il buio, quando la Mezquita è illuminata.",
         "tempo": "30-45 minuti",
@@ -450,11 +450,11 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "titolo": "1 giorno",
         "tappe": [
-          "8:30 Mezquita nella fascia gratuita del mattino, entrando prima delle 9:20.",
-          "10:30 Judería e Calleja de las Flores.",
-          "12:30 Alcázar de los Reyes Cristianos.",
-          "14:00 Pranzo con salmorejo e rabo de toro, poi pausa nelle ore calde.",
-          "18:30 Ponte Romano e riva opposta, quando la luce è migliore."
+          "Mattina: Mezquita nella fascia gratuita del mattino, entrando prima delle 9:20.",
+          "Mattina: Judería e Calleja de las Flores.",
+          "Tarda mattinata: Alcázar de los Reyes Cristianos.",
+          "Primo pomeriggio: Pranzo con salmorejo e rabo de toro, poi pausa nelle ore calde.",
+          "Tardo pomeriggio: Ponte Romano e riva opposta, quando la luce è migliore."
         ]
       },
       {
@@ -554,7 +554,7 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Plaza de Toros",
-        "testo": "L'arena di Ronda, inaugurata nel 1785, è una delle prime costruite interamente in pietra ed è legata alla famiglia Romero, e soprattutto a Pedro Romero, tra i padri della corrida a piedi. All'interno c'è un museo con costumi e armi. Si può entrare anche come semplice luogo architettonico, senza assistere a corride.",
+        "testo": "L'arena di Ronda, inaugurata nel 1785, è tra le più antiche di Spagna ed è legata alla famiglia Romero, e soprattutto a Pedro Romero, tra i padri della corrida a piedi. All'interno c'è un museo con costumi e armi. Si può entrare anche come semplice luogo architettonico, senza assistere a corride.",
         "come": "A piedi dal Puente Nuevo, verso il quartiere del Mercadillo.",
         "quando": "Controllare orari e giorni di apertura sul sito del gestore, cambiano per stagione.",
         "tempo": "1 ora",
@@ -581,11 +581,11 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "titolo": "1 giorno",
         "tappe": [
-          "9:30 Puente Nuevo e passeggiata nel quartiere moresco.",
-          "11:00 Baños Árabes e sentiero di discesa nella gola.",
-          "13:30 Pranzo con rabo de toro o agnello.",
-          "16:00 Plaza de Toros e museo.",
-          "19:00 Tramonto dai belvedere sulla gola."
+          "Mattina: Puente Nuevo e passeggiata nel quartiere moresco.",
+          "Tarda mattinata: Baños Árabes e sentiero di discesa nella gola.",
+          "Primo pomeriggio: Pranzo con rabo de toro o agnello.",
+          "Pomeriggio: Plaza de Toros e museo.",
+          "Tardo pomeriggio: Tramonto dai belvedere sulla gola."
         ]
       },
       {
@@ -697,7 +697,7 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Monte Igueldo",
-        "testo": "La collina a ovest della baia, con un parco divertimenti e un belvedere. Si sale con la funicolare inaugurata nel 1912, la più antica dei Paesi Baschi.",
+        "testo": "La collina a ovest della baia, con un parco divertimenti e un belvedere. Si sale con la funicolare inaugurata nel 1912.",
         "come": "Funicolare dalla base, raggiungibile in bus urbano dal centro. In alternativa si sale a piedi.",
         "quando": "Al tramonto. Controllare la stagione e gli orari della funicolare sul sito ufficiale.",
         "tempo": "1-1 ora e mezza",
@@ -732,12 +732,12 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "titolo": "1 giorno",
         "tappe": [
-          "9:00 Passeggiata sul Paseo de la Concha fino al Peine del Viento.",
-          "11:00 Monte Urgull a piedi, panorama sul porto.",
-          "13:00 Pranzo con giro di pintxos nella Parte Vieja.",
-          "16:00 Spiaggia della Concha o riposo.",
-          "19:00 Funicolare del Monte Igueldo per il tramonto.",
-          "21:00 Seconda tornata di pintxos."
+          "Mattina: Passeggiata sul Paseo de la Concha fino al Peine del Viento.",
+          "Tarda mattinata: Monte Urgull a piedi, panorama sul porto.",
+          "Primo pomeriggio: Pranzo con giro di pintxos nella Parte Vieja.",
+          "Pomeriggio: Spiaggia della Concha o riposo.",
+          "Tardo pomeriggio: Funicolare del Monte Igueldo per il tramonto.",
+          "Sera: Seconda tornata di pintxos."
         ]
       },
       {
@@ -893,12 +893,12 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "titolo": "1 giorno",
         "tappe": [
-          "9:30 Guggenheim, al mattino.",
-          "12:30 Passeggiata lungo il Nervión fino al Casco Viejo.",
-          "14:00 Mercado de la Ribera e pranzo di pintxos.",
-          "16:30 Siete Calles e cattedrale.",
-          "19:00 Funicolare di Artxanda per il tramonto.",
-          "21:00 Cena nel Casco Viejo."
+          "Mattina: Guggenheim, al mattino.",
+          "Tarda mattinata: Passeggiata lungo il Nervión fino al Casco Viejo.",
+          "Primo pomeriggio: Mercado de la Ribera e pranzo di pintxos.",
+          "Pomeriggio: Siete Calles e cattedrale.",
+          "Tardo pomeriggio: Funicolare di Artxanda per il tramonto.",
+          "Sera: Cena nel Casco Viejo."
         ]
       },
       {
@@ -1015,7 +1015,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Centro storico e Mercado de Abastos",
         "testo": "Il centro storico, patrimonio UNESCO, è fatto di vie in pietra, portici e piazze come la Quintana e Praza das Praterías. Il Mercado de Abastos, il mercato coperto, ha banchi di pesce, formaggi e polpo.",
-        "come": "A piedi. Il mercato è a 5 minuti dalla cattedrale.",
+        "come": "A piedi. Il mercato è a pochi minuti dalla cattedrale.",
         "quando": "Il mercato al mattino. La pioggia è frequente: portare un impermeabile.",
         "tempo": "2-3 ore",
         "consiglio": "Mangiare il polpo a feira nei locali accanto al mercato, che cucinano su richiesta."
@@ -1041,12 +1041,12 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "titolo": "1 giorno",
         "tappe": [
-          "9:00 Praza do Obradoiro e Pórtico da Gloria.",
-          "11:00 Cattedrale e cripta.",
-          "12:00 Messa del pellegrino (fino a nuovo avviso nella chiesa di San Agustín).",
-          "14:00 Pranzo con polpo e pimientos de Padrón.",
-          "16:00 Ufficio del Pellegrino se si è arrivati a piedi.",
-          "18:00 Passeggiata nel centro storico e nel parco dell'Alameda."
+          "Mattina: Praza do Obradoiro e Pórtico da Gloria.",
+          "Tarda mattinata: Cattedrale e cripta.",
+          "Tarda mattinata: Messa del pellegrino (fino a nuovo avviso nella chiesa di San Agustín).",
+          "Primo pomeriggio: Pranzo con polpo e pimientos de Padrón.",
+          "Pomeriggio: Ufficio del Pellegrino se si è arrivati a piedi.",
+          "Tardo pomeriggio: Passeggiata nel centro storico e nel parco dell'Alameda."
         ]
       },
       {
@@ -1205,7 +1205,7 @@ export const destinazioniSpagna: Destinazione[] = [
     luoghi: [
       {
         "nome": "Cattedrale di Palma (La Seu)",
-        "testo": "Cattedrale gotica iniziata nel 1229, dopo la conquista di Giacomo I, e finita nel 1601, proprio sul lungomare. Il rosone, di circa 13 metri di diametro, è il più grande rosone originale delle cattedrali gotiche europee. Dentro ci sono il baldacchino di Antoni Gaudí sopra l'altare e la cappella di San Pietro rifatta da Miquel Barceló.",
+        "testo": "Cattedrale gotica iniziata nel 1229, dopo la conquista di Giacomo I, e finita nel 1601, proprio sul lungomare. Il rosone, di circa 13 metri di diametro, è tra i più grandi rosoni gotici d'Europa. Dentro ci sono il baldacchino di Antoni Gaudí sopra l'altare e la cappella di San Pietro rifatta da Miquel Barceló.",
         "come": "A piedi dal centro di Palma, di fronte al Parc de la Mar. Ingresso dal lato della Plaça de la Seu.",
         "quando": "Gli orari cambiano per stagione e la domenica si celebrano le messe: controllare il calendario sul sito ufficiale. Al mattino la luce passa meglio dal rosone.",
         "tempo": "1-1 ora e mezza",
@@ -1241,7 +1241,7 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Sa Calobra e Torrent de Pareis",
-        "testo": "Calanca di ciottoli alla foce del Torrent de Pareis, un canyon stretto tra pareti altissime. La strada Ma-2141 che scende a Sa Calobra ha un tornante ad anello detto «nodo di cravatta» ed è una delle più fotografate dell'isola. Una galleria porta dal molo alla spiaggetta e al canyon.",
+        "testo": "Calanca di ciottoli alla foce del Torrent de Pareis, un canyon stretto tra pareti altissime. La strada Ma-2141 che scende a Sa Calobra ha un tornante ad anello ed è molto fotografata. Una galleria porta dal molo alla spiaggetta e al canyon.",
         "come": "In auto sulla Ma-2141 dalla Ma-10, una lunga discesa tutta curve, oppure in barca da Port de Sóller.",
         "quando": "Il canyon si visita in autunno e primavera con più calma. Il Torrent de Pareis è chiuso o sconsigliato con pioggia e piena: guardare il meteo.",
         "tempo": "2-3 ore",
@@ -1596,7 +1596,7 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Torre d'en Galmés",
-        "testo": "Uno dei più grandi insediamenti talayotici delle Baleari, con tre talayot, il recinto della taula e case dell'Età del Bronzo e del Ferro, abitato dal 1400 a.C. circa fino all'epoca romana. Fa parte del sito Menorca Talayotica, patrimonio UNESCO dal 2023.",
+        "testo": "Uno dei più grandi insediamenti talayotici delle Baleari, con tre talayot, il recinto della taula e case dell'Età del Bronzo e del Ferro, abitato dal 1400 a.C. circa fino all'epoca romana. Fa parte del sito Menorca Talayotica, patrimonio UNESCO.",
         "come": "In auto da Maó o Ciutadella, al centro dell'isola. Si visita da soli, con pannelli. Il sito ha un biglietto d'ingresso.",
         "quando": "Primo mattino o tardo pomeriggio, per il caldo e la luce.",
         "tempo": "1-1 ora e mezza",
@@ -1765,7 +1765,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Masca",
         "testo": "Un villaggio in una gola profonda tra le montagne di Teno, con case di pietra e vista sull'oceano. Il barranco di Masca scende a piedi fino al mare.",
-        "come": "Dalla strada TF-436 da Santiago del Teide, con curve strette. L'accesso al sentiero del barranco è regolato dal Cabildo (prenotazione e giorni di apertura): controllare il suo sito prima di andare.",
+        "come": "Dalla strada TF-436 da Santiago del Teide, con curve strette. L'accesso al sentiero del barranco può essere regolato: controllare le condizioni sul sito del Cabildo di Tenerife prima di andare.",
         "quando": "Mattina, per evitare i pullman. Il sentiero è chiuso con pioggia o allerta.",
         "tempo": "1 ora al villaggio, mezza giornata per il sentiero",
         "consiglio": "Non fare il sentiero con scarpe da passeggio e informarsi prima su come si rientra dal mare: dalla spiaggia non c'è strada."
@@ -2126,7 +2126,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Playa Papagayo e Los Ajaches",
         "testo": "Calette di sabbia chiara e acqua turchese nel parco naturale di Los Ajaches, a sud. Papagayo è la più nota; le altre (Caleta del Congrio, Playa Mujeres) sono più tranquille.",
-        "come": "In auto da Playa Blanca su una strada sterrata. L'accesso al parco in auto è a pagamento. Si cammina dai parcheggi.",
+        "come": "In auto da Playa Blanca su una strada sterrata. Si cammina dai parcheggi.",
         "quando": "Mattina in estate, con poco vento. Il vento alza la sabbia.",
         "tempo": "mezza giornata",
         "consiglio": "Portare ombrellone, acqua e cibo: nelle calette non ci sono servizi."

@@ -12,15 +12,15 @@ export const destinazioniEstonia: Destinazione[] = [
     introduzione:
       "Estonia's capital is the northernmost of the three Baltic capitals and looks out on the Gulf of Finland. The Old Town, a UNESCO site since 1997, is one of the best-preserved medieval centers in northern Europe: up top is Toompea, the fortified hill where power sat, below is the city of the Hanseatic merchants. Outside the walls, the baroque Kadriorg park and the former industrial complex of Telliskivi tell of two different Estonias, the tsarist one and the newer, digital and creative one.",
     percheAndarci:
-      "The old center is the real thing: walls, towers and the square with the oldest town hall in the Baltics have come down to us almost intact. And just outside those walls Tallinn changes face, with a Russian imperial park on one side and a creative district born in a Soviet factory on the other.",
+      "The old center is the real thing: walls, towers and the square with the Gothic town hall have come down to us almost intact. And just outside those walls Tallinn changes face, with a Russian imperial park on one side and a creative district born in a Soviet factory on the other.",
     cosaVedere: [
-      "Town Hall Square (Raekoja plats), with Tallinn Town Hall, from 1404, the oldest one still in use in the Baltics",
+      "Town Hall Square (Raekoja plats), with Tallinn Town Hall, from 1404, still in use",
       "Toompea hill, with Toompea Castle (now the seat of the Estonian parliament, the Riigikogu) and the Alexander Nevsky Orthodox Cathedral, with its golden onion domes",
       "The Kohtuotsa and Patkuli viewing platforms on Toompea, the two classic views over the lower town, the port and the Gulf of Finland",
-      "The medieval city walls, about 1.85 km still standing with the surviving towers, including Kiek in de Kök, the cannon tower whose name means \"peek into the kitchen\": one of the best-preserved defensive systems in Europe",
-      "St. Olaf's Church (Oleviste kirik): in the 16th century, with its spire, it was for a time the tallest building in the world",
-      "Kadriorg Park, with Kadriorg Palace, built in 1718 by Peter the Great for his wife Catherine I to a design by the Italian architect Niccolò Michetti, now home to the foreign art museum; a few steps away is KUMU, the Estonian art museum in a contemporary building, European Museum of the Year in 2008",
-      "Telliskivi Creative City, the former Soviet-era industrial and railway complex that has been a creative district since 2009, with street art, design studios, independent shops and venues",
+      "The medieval city walls, with a long stretch still standing and the surviving towers, including Kiek in de Kök, the large artillery tower",
+      "St. Olaf's Church (Oleviste kirik), Gothic, with its tall spire rising over the lower town",
+      "Kadriorg Park, with Kadriorg Palace, built in 1718 by Peter the Great for his wife Catherine I to a design by the Italian architect Niccolò Michetti, now home to the foreign art museum; a few steps away is KUMU, the Estonian art museum in a contemporary building",
+      "Telliskivi Creative City, the former Soviet-era industrial and railway complex that is now a creative district, with street art, design studios, independent shops and venues",
     ],
     cosaFare: [
       "Climb Toompea to the Kohtuotsa and Patkuli platforms for the view over the lower town",
@@ -33,23 +33,23 @@ export const destinazioniEstonia: Destinazione[] = [
     doveMangiare:
       "Verivorst (blood sausage) with lingonberries is a traditional dish, especially at Christmas; kiluvõileib, an open sandwich with marinated sprats, butter and hard-boiled egg, is the Estonian snack par excellence. Telliskivi has the city's youngest food scene, with street food, craft breweries and weekend food markets.",
     comeArrivare:
-      "Tallinn Lennart Meri Airport (TLL) is about 4 km from the center: 15-20 minutes by tram or a few minutes by taxi/Bolt, one of the closest airports to a city center in Europe. From some Italian airports there are direct low-cost flights, seasonal or year-round; otherwise you connect through a European hub. From Riga: bus in about 4 to 4.5 hours, with several companies, including Lux Express, and several departures a day. From Helsinki: ferry in about 2 hours, a classic extension for anyone with a few extra days.",
+      "Tallinn Lennart Meri Airport (TLL) is close to the center: tram, or a taxi or ride-hailing app. From some Italian airports there are direct low-cost flights, seasonal or year-round; otherwise you connect through a European hub. From Riga: direct buses, with several companies and several departures a day. From Helsinki: regular ferries, a classic extension for anyone with a few extra days.",
     comeSpostarsi:
-      "The old center is all walkable. Public trams and buses take you from the center to Kadriorg and Telliskivi in a few minutes, with cheap tickets to buy in the app or at ticket offices.",
+      "The old center is all walkable. Public transport links the center with Kadriorg and Telliskivi, with cheap tickets to buy in the app or at ticket offices.",
     periodoMigliore:
       "May to September, for the milder weather and very long days near the solstice; June to August is the busiest season in the Old Town. Winter (November to March) is cold and dark, but the snow on the medieval roofs and the Christmas market in Town Hall Square have their charm.",
-    costi: "a bit pricier than Vilnius and Riga: entry to the four towers of the city walls €12, entry to KUMU €12-16 depending on the exhibition, a normal dinner €12-18 per person.",
+    costi: "a bit pricier than Vilnius and Riga: current prices for towers and museums on the official websites.",
     erroriDaEvitare: [
       "Stopping at the Old Town: Kadriorg and Telliskivi show the tsarist and the contemporary Tallinn, which the medieval center alone doesn't tell",
       "Going up Toompea and skipping the two viewing platforms (Kohtuotsa and Patkuli): they're a few steps from each other and look at the lower town from different angles",
       "Assuming Estonian resembles Lithuanian or Latvian: it's a Finno-Ugric language, related to Finnish and entirely foreign to the Baltic family of the other two capitals",
-      "Going to Telliskivi on Sunday evening or Monday, when several venues and independent shops are closed",
+      "Going to Telliskivi without checking opening hours: venues and independent shops don't all open the same way every day",
     ],
     luoghi: [
       {
         nome: "Town Hall Square (Raekoja plats)",
-        testo: "The medieval heart of the city, with the Gothic Town Hall finished in 1404, the oldest in the Baltic Sea region and Scandinavia, now a museum and concert venue. In summer it has outdoor tables; in December it hosts the Christmas market.",
-        come: "On foot from the port (10-15 minutes).",
+        testo: "The medieval heart of the city, with the Gothic Town Hall finished in 1404, now a museum and concert venue. In summer it has outdoor tables; in December it hosts the Christmas market.",
+        come: "On foot from the port.",
         quando: "Early morning, for the square without crowds; visiting hours of the Town Hall and its tower on the official website.",
         tempo: "1 hour",
         url: "https://www.tallinn.ee",
@@ -57,7 +57,7 @@ export const destinazioniEstonia: Destinazione[] = [
       },
       {
         nome: "Toompea and Alexander Nevsky Cathedral",
-        testo: "The hill above the lower town, with Toompea Castle (seat of Parliament) and the Orthodox Alexander Nevsky Cathedral, built 1894-1900, with five onion domes. The climb is short but scenic.",
+        testo: "The hill above the lower town, with Toompea Castle (seat of Parliament) and the Orthodox Alexander Nevsky Cathedral, built at the end of the 19th century, with onion domes. The climb is short but scenic.",
         come: "On foot from Town Hall Square, climbing Pikk jalg.",
         quando: "Morning.",
         tempo: "1.5 hours",
@@ -66,15 +66,15 @@ export const destinazioniEstonia: Destinazione[] = [
       {
         nome: "Kohtuotsa and Patkuli viewing platforms",
         testo: "Two terraces on Toompea with the classic views of the lower town, the port and the Gulf of Finland, with red roofs and spires.",
-        come: "On foot, 5 minutes from the cathedral.",
+        come: "On foot from the cathedral.",
         quando: "Sunset, for the light on the roofs.",
         tempo: "30 minutes",
         costo: "free entry",
-        consiglio: "Kohtuotsa is the most photographed, Patkuli is quieter."
+        consiglio: "Kohtuotsa is often crowded, Patkuli usually quieter."
       },
       {
         nome: "Medieval walls and towers",
-        testo: "About 1.85 km of walls still standing, out of the original 2.35, with 28 medieval towers, including Kiek in de Kök, an artillery tower of 1475-1483 whose name means 'peep into the kitchen'. You can also visit the Maiden Tower, the Short Leg gate tower and the underground bastion passages.",
+        testo: "A long stretch of walls still standing, with many medieval towers, including Kiek in de Kök, a 15th-century artillery tower. You can also visit the Maiden Tower, the Short Leg gate tower and the underground bastion passages.",
         come: "On foot, along Müürivahe.",
         quando: "Daytime, in good conditions.",
         tempo: "1-2 hours",
@@ -84,7 +84,7 @@ export const destinazioniEstonia: Destinazione[] = [
       },
       {
         nome: "St Olaf's Church (Oleviste kirik)",
-        testo: "A church with a spire of almost 124 metres, for a long time the highest point in the city. The tower has a viewing platform at 60 metres.",
+        testo: "A Gothic church with a tall spire. The tower has a viewing platform.",
         come: "On foot, at the bottom of Town Hall Square.",
         quando: "Clear day.",
         tempo: "45 minutes",
@@ -94,8 +94,8 @@ export const destinazioniEstonia: Destinazione[] = [
       {
         nome: "Kadriorg Park and Palace, KUMU",
         testo: "The Palace, commissioned by Peter the Great in 1718 for his wife Catherine I, with the park and Kumu, the Estonian art museum, in a modern building in the same park.",
-        come: "By tram to Kadriorg.",
-        quando: "Afternoon; the park is free. Kumu is closed on Mondays, opens 10-18 and until 20 on Thursdays.",
+        come: "By public transport or on foot from the centre.",
+        quando: "Afternoon; the park is free. Kumu's days and hours on the official website.",
         tempo: "3 hours",
         costo: "Kumu tickets on the official website",
         url: "https://kumu.ekm.ee",
@@ -104,7 +104,7 @@ export const destinazioniEstonia: Destinazione[] = [
       {
         nome: "Telliskivi Creative City",
         testo: "The former workshops where locomotives were repaired, now a creative district with street art, studios, independent shops and restaurants.",
-        come: "On foot from the Old Town (15 minutes) or by tram.",
+        come: "On foot from the Old Town or by public transport.",
         quando: "Evening, for the venues; Saturday for the shops.",
         tempo: "2 hours",
         costo: "free entry",
@@ -141,7 +141,7 @@ export const destinazioniEstonia: Destinazione[] = [
       {
         nome: "Kalamaja",
         perChi: "Those seeking a district of cafes and wooden houses",
-        testo: "Near Telliskivi and the port, 15 minutes from the centre."
+        testo: "Near Telliskivi and the port, a short way from the centre."
       },
       {
         nome: "Kesklinn",
@@ -164,12 +164,12 @@ export const destinazioniEstonia: Destinazione[] = [
       },
       {
         nome: "Marzipan",
-        testo: "Estonian marzipan, at the Maiasmokk confectionery, the oldest cafe in the city."
+        testo: "Estonian marzipan, at the Maiasmokk confectionery, a historic cafe in the city."
       }
     ],
     attenzioni: [
       "Medieval-costume restaurants are pricey and touristy: compare with those in Telliskivi.",
-      "Taxis: use Bolt, born in Estonia, and not those near the cruise port.",
+      "Taxis: use a recognised app, and not those near the cruise port.",
       "On cruise days the Old Town is extremely crowded: go early.",
       "In winter ice makes the cobbles dangerous: suitable shoes."
     ],

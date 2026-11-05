@@ -238,7 +238,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Nice: Vieux Nice and Cours Saleya",
         testo: "The ochre old town, with narrow lanes, baroque churches and the flower and produce market on Cours Saleya. From here you climb to Colline du Château for the view of the Promenade des Anglais.",
-        come: "On foot from the tram stop or seafront. The hill climb is free, on foot or by lift.",
+        come: "On foot from the tram stop or seafront. The hill climb is free.",
         quando: "The market is in the morning; on Mondays the Cours Saleya hosts the antiques market.",
         tempo: "half a day",
         consiglio: "For a cheap lunch: socca and pissaladière in the Vieux Nice shops."
@@ -270,7 +270,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Lérins Islands",
         testo: "Opposite Cannes: Sainte-Marguerite with the Fort Royal and the cell of the \"Man in the Iron Mask\", and Saint-Honorat, home of Cistercian monks.",
-        come: "Ferries from Cannes harbour: about 15 minutes to Sainte-Marguerite; the monks run the boats to Saint-Honorat.",
+        come: "Ferries from Cannes harbour to Sainte-Marguerite; the monks run the boats to Saint-Honorat.",
         quando: "Spring and autumn; in summer the boats are full.",
         tempo: "half a day",
         consiglio: "Bring food: there are few places to eat."
@@ -544,7 +544,7 @@ export const destinazioniFrancia: Destinazione[] = [
     luoghi: [
       {
         nome: "Louvre",
-        testo: "The world's largest museum, in a royal palace. The essential route covers the Winged Victory of Samothrace, the Venus de Milo and the Mona Lisa. You cannot see it all: pick two or three wings.",
+        testo: "One of the largest museums in the world, in a royal palace. The essential route covers the Winged Victory of Samothrace, the Venus de Milo and the Mona Lisa. You cannot see it all: pick two or three wings.",
         come: "Metro Palais Royal-Musée du Louvre. Booking an entry time online is advisable, even for free entry; you go in through the Pyramid or the Carrousel gallery.",
         quando: "Closed on Tuesday, 1 January, 1 May and 25 December. Open until 9 pm on Wednesday and Friday. Arrive at opening (9 am) or late afternoon.",
         tempo: "3-4 hours",
@@ -554,7 +554,7 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Musée d'Orsay",
-        testo: "A former railway station finished for the 1900 World's Fair and turned into a museum, with the world's largest collection of Impressionist and Post-Impressionist masterpieces: Monet, Renoir, Degas, Van Gogh.",
+        testo: "A former railway station finished for the 1900 World's Fair and turned into a museum, with one of the world's largest collections of Impressionist and Post-Impressionist masterpieces: Monet, Renoir, Degas, Van Gogh.",
         come: "Metro Solférino or RER C Musée d'Orsay. Booking a time slot is advised in high season and required on the first Sunday of the month.",
         quando: "Closed on Monday. Open 9.30 am to 6 pm, until 9.45 pm on Thursday: the evening is the quietest time.",
         tempo: "2-3 hours",
@@ -568,7 +568,7 @@ export const destinazioniFrancia: Destinazione[] = [
         come: "On the Île de la Cité, inside the Palais de Justice; you pass a security check.",
         quando: "Morning, with the sun through the glass.",
         tempo: "45 minutes",
-        costo: "€22 for visitors from outside the European Economic Area, €16 for EU/EEA (2026); combined ticket with the Conciergerie available.",
+        costo: "€22 for visitors from outside the European Economic Area, €16 for EU/EEA (2026).",
         url: "https://www.sainte-chapelle.fr/",
         consiglio: "Book a slot: queues are long."
       },
@@ -578,7 +578,7 @@ export const destinazioniFrancia: Destinazione[] = [
         come: "On the Île de la Cité. You can book online to skip the queue.",
         quando: "Early morning.",
         tempo: "1 hour",
-        costo: "Free entry to the cathedral; the towers are paid.",
+        costo: "Free entry to the cathedral.",
         url: "https://www.notredamedeparis.fr/",
         consiglio: "Towers and treasury have separate tickets."
       },
@@ -1071,10 +1071,10 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Gulf of Morbihan and Gavrinis",
         testo: "An inland sea with about forty islands. Gavrinis island has a Neolithic cairn with extraordinary carved stones.",
-        come: "Boat from Larmor-Baden; the Gavrinis visit is guided and limited in numbers.",
+        come: "Boat from Larmor-Baden; how to visit and book Gavrinis is on the official site.",
         quando: "Spring and autumn; book ahead.",
         tempo: "half a day",
-        consiglio: "Places at Gavrinis are limited: book."
+        consiglio: "Check in advance how to book the Gavrinis visit."
       }
     ],
     programmi: [
@@ -1308,7 +1308,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Chenonceau",
         testo: "The château over the river Cher, with its bridge gallery. It was run by women: Diane de Poitiers and Catherine de' Medici.",
-        come: "Train to Chenonceaux, a few minutes from the château.",
+        come: "By car from Tours or Amboise.",
         quando: "Morning; in autumn the gardens have stronger colours.",
         tempo: "2-3 hours",
         url: "https://www.chenonceau.com/",
@@ -2065,7 +2065,7 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Valensole Plateau and lavender",
-        testo: "The great lavender landscape: a plateau of purple rows alternating with wheat fields, with the odd stone farmhouse in between. It blooms from late June to mid-July and is cut right after, so dates matter. The fields are private: photograph from the edge, without walking into the rows.",
+        testo: "The great lavender landscape: a plateau of purple rows alternating with wheat fields, with the odd stone farmhouse in between. It blooms in summer and is cut right after, so dates matter: check them each year. The fields are private: photograph from the edge, without walking into the rows.",
         come: "By car from Riez or Valensole.",
         quando: "Dawn or sunset, during bloom.",
         tempo: "half a day",
@@ -2073,7 +2073,7 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Avignon and the Palais des Papes",
-        testo: "One of the largest medieval Gothic buildings in Europe, home of the popes in the 14th century. The Saint-Bénézet bridge, broken off midstream, is the city's symbol.",
+        testo: "The great Gothic palace that was home of the popes in the 14th century. The Saint-Bénézet bridge, broken off midstream, is the city's symbol.",
         come: "Train from Marseille or Paris. Visited on foot.",
         quando: "Morning.",
         tempo: "half a day",
@@ -2093,8 +2093,7 @@ export const destinazioniFrancia: Destinazione[] = [
         testo: "One of the best-preserved Roman arenas in the world, still used for concerts and bullfights, and the Maison Carrée, an almost intact Roman temple UNESCO-listed in 2023.",
         come: "Train from Avignon.",
         quando: "Morning.",
-        tempo: "half a day",
-        consiglio: "A single ticket covers the arena and other Roman monuments."
+        tempo: "half a day"
       }
     ],
     programmi: [
@@ -2238,7 +2237,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Horses and bulls of the manades",
         testo: "The white Camargue horses and the black bulls reared free, with mounted gardians. You visit farms with horse rides.",
-        come: "Book a visit to a manade along the D570 road.",
+        come: "Book a visit to a local manade.",
         quando: "Spring, autumn.",
         tempo: "2 hours",
         consiglio: "Choose farms that respect the animals and do not stage forced shows."
@@ -2676,7 +2675,7 @@ export const destinazioniFrancia: Destinazione[] = [
     luoghi: [
       {
         nome: "Les Trois Vallées",
-        testo: "The largest linked ski area in the world, with Courchevel, Méribel, Val Thorens, Les Menuires and Saint-Martin-de-Belleville. Val Thorens is the highest resort in Europe.",
+        testo: "A huge linked ski area, with Courchevel, Méribel, Val Thorens, Les Menuires and Saint-Martin-de-Belleville. Val Thorens is among the highest resorts in Europe.",
         come: "Train to Moûtiers and shuttle; Lyon or Geneva airport with transfer.",
         quando: "December-April; Val Thorens keeps snow longer.",
         tempo: "at least 4-5 days",
@@ -2684,11 +2683,11 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Paradiski",
-        testo: "La Plagne and Les Arcs linked by the Vanoise Express, a double-deck cable car that crosses the valley in a few minutes.",
+        testo: "La Plagne and Les Arcs linked by the Vanoise Express, the cable car across the valley.",
         come: "Train to Bourg-Saint-Maurice and shuttle.",
         quando: "December-April.",
         tempo: "4-5 days",
-        consiglio: "Les Arcs 1950 is a pedestrian village with livelier atmosphere."
+        consiglio: "Les Arcs has several high villages, each with its own character: choose the base carefully."
       },
       {
         nome: "Tignes and Val d'Isère",
@@ -2749,7 +2748,7 @@ export const destinazioniFrancia: Destinazione[] = [
     ],
     attenzioni: [
       "Buy the ski pass online beforehand: at the ticket office it costs more and queues are long.",
-      "Piste rescue is paid in many cases: have insurance.",
+      "Piste rescue may be charged: have insurance.",
       "Off-piste is dangerous without a guide and equipment: avalanches."
     ],
     esperienzeSlugs: ['vallee-blanche', 'aiguille-du-midi', 'scialpinismo-francia'],
@@ -2929,7 +2928,7 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Mer de Glace and Montenvers",
-        testo: "France's largest glacier, reached by the Montenvers cog train. Along the stairs down to the ice, signs show how far it has retreated.",
+        testo: "One of France's largest glaciers, reached by the Montenvers cog train. Along the stairs down to the ice, signs show how far it has retreated.",
         come: "The Montenvers rack railway, leaving from Chamonix.",
         quando: "Morning; summer and autumn.",
         tempo: "half a day",

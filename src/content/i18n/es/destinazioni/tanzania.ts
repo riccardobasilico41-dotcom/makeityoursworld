@@ -50,7 +50,7 @@ export const destinazioniTanzania: Destinazione[] = [
         "tempo": "1 día o más",
         "url": "https://www.tanzaniaparks.go.tz/serengeti",
         "consiglio": "Hice el safari con Suricata Safaris, que además tiene experiencias en tienda dentro del parque: las recomiendo.",
-        "costo": "Entrada TANAPA 70 $ adultos extranjeros y 20 $ niños, según la web oficial (2026); preguntar al operador si el presupuesto incluye impuestos adicionales"
+        "costo": "Tarifa de entrada TANAPA para visitantes extranjeros: precios actualizados en la web oficial; preguntar al operador si el presupuesto incluye tasas e IVA"
       },
       {
         "nome": "Llanuras del sur y Ndutu",
@@ -71,7 +71,7 @@ export const destinazioniTanzania: Destinazione[] = [
       },
       {
         "nome": "Globo aerostático al amanecer",
-        "testo": "Un vuelo sobre la llanura al salir el sol, seguido de un desayuno en la sabana.",
+        "testo": "Un vuelo sobre la llanura al amanecer, normalmente seguido de un desayuno en la sabana.",
         "come": "Se reserva con un operador, saliendo del campamento antes del amanecer.",
         "quando": "Amanecer.",
         "tempo": "3-4 horas"
@@ -179,7 +179,7 @@ export const destinazioniTanzania: Destinazione[] = [
     luoghi: [
       {
         "nome": "Fondo del cráter",
-        "testo": "El fondo de una caldera volcánica intacta de unos 260 km², de unos 610 metros de profundidad, con el lago salado Magadi y pantanos. Viven leones, elefantes, hipopótamos y una pequeña población de rinocerontes negros, que volvió a 55 ejemplares en 2018.",
+        "testo": "El fondo de una caldera volcánica intacta de unos 260 km², de unos 610 metros de profundidad, con el lago salado Magadi y pantanos. Viven aquí leones, elefantes, hipopótamos y una pequeña población de rinocerontes negros.",
         "come": "Se baja por una carretera empinada en todoterreno con guía. Cada bajada paga una tasa por vehículo.",
         "quando": "Amanecer: los primeros vehículos entran temprano y encuentran el cráter más vacío.",
         "tempo": "Medio día",
@@ -293,13 +293,13 @@ export const destinazioniTanzania: Destinazione[] = [
     luoghi: [
       {
         "nome": "Parque nacional de Tarangire",
-        "testo": "Baobabs, algunos de más de mil años, miles de elefantes, la población más densa de Tanzania según TANAPA, y animales que se concentran junto al río en la estación seca.",
+        "testo": "Baobabs, miles de elefantes, la población más densa de Tanzania según TANAPA, y animales que se concentran junto al río en la estación seca.",
         "come": "Safari en todoterreno con guía.",
         "quando": "Estación seca, cuando los animales se reúnen junto al agua. Las puertas cierran a las 18.",
         "tempo": "1 día",
         "url": "https://www.tanzaniaparks.go.tz/tarangire",
         "consiglio": "En la estación seca vale por sí solo el viaje: no saltárselo por correr hacia el Serengeti.",
-        "costo": "Entrada TANAPA 70 $ adultos extranjeros y 20 $ niños, según la web oficial (2026); preguntar al operador si el presupuesto incluye impuestos adicionales"
+        "costo": "Tarifa de entrada TANAPA para visitantes extranjeros: precios actualizados en la web oficial; preguntar al operador si el presupuesto incluye tasas e IVA"
       },
       {
         "nome": "Lago Manyara",
@@ -308,11 +308,11 @@ export const destinazioniTanzania: Destinazione[] = [
         "quando": "Mañana.",
         "tempo": "Medio día",
         "url": "https://www.tanzaniaparks.go.tz/lake-manyara",
-        "costo": "Entrada TANAPA 70 $ adultos extranjeros y 20 $ niños, según la web oficial (2026); preguntar al operador si el presupuesto incluye impuestos adicionales"
+        "costo": "Tarifa de entrada TANAPA para visitantes extranjeros: precios actualizados en la web oficial; preguntar al operador si el presupuesto incluye tasas e IVA"
       },
       {
         "nome": "Mto wa Mbu",
-        "testo": "El pueblo a la entrada de Manyara, con el mercado y las plantaciones de plátanos.",
+        "testo": "El pueblo cerca de la entrada del Lago Manyara, en la carretera al Ngorongoro, para recorrer con un guía local.",
         "come": "A pie o en bici con un guía local.",
         "quando": "Mañana.",
         "tempo": "1-2 horas"
@@ -346,7 +346,7 @@ export const destinazioniTanzania: Destinazione[] = [
       },
       {
         "nome": "Plátanos fritos",
-        "testo": "Del pueblo de Mto wa Mbu."
+        "testo": "Tentempié habitual en los mercados de la zona."
       },
       {
         "nome": "Pilau",
@@ -415,21 +415,21 @@ export const destinazioniTanzania: Destinazione[] = [
       },
       {
         "nome": "Nungwi y Kendwa",
-        "testo": "Las playas del norte, donde la marea se nota menos.",
+        "testo": "Las playas del norte de la isla.",
         "come": "Taxi o dala dala desde Stone Town.",
         "quando": "Todo el año.",
         "tempo": "Un día entero"
       },
       {
         "nome": "Paje y Jambiani",
-        "testo": "La costa este, con la marea baja que deja al descubierto la laguna durante cientos de metros. Kitesurf en Paje.",
+        "testo": "La costa este, con playas amplias y una laguna poco profunda donde la marea cambia mucho el paisaje: conviene consultar sus horarios. Kitesurf en Paje.",
         "come": "En coche desde Stone Town.",
         "quando": "Con marea alta para el baño.",
         "tempo": "Un día entero"
       },
       {
         "nome": "Bosque de Jozani y atolón de Mnemba",
-        "testo": "El bosque de Jozani, en el único parque nacional de Zanzíbar, con el colobo rojo de Zanzíbar, un mono que solo vive en la isla y está en peligro; y el atolón de Mnemba, famoso por el snorkel.",
+        "testo": "El bosque de Jozani, en el parque nacional Jozani-Chwaka Bay, con el colobo rojo de Zanzíbar, un mono que solo vive en la isla y está en peligro; y el atolón de Mnemba, famoso por el snorkel.",
         "come": "Jozani en coche; Mnemba en barco desde el noreste.",
         "quando": "Mañana.",
         "tempo": "Medio día cada uno"
@@ -453,13 +453,13 @@ export const destinazioniTanzania: Destinazione[] = [
       },
       {
         "nome": "Norte (Nungwi, Kendwa)",
-        "perChi": "quien quiere bañarse siempre",
-        "testo": "Poca marea, locales y vida nocturna."
+        "perChi": "quien quiere playa y locales",
+        "testo": "Playas, locales y vida nocturna."
       },
       {
         "nome": "Este (Paje, Jambiani)",
         "perChi": "quien quiere kitesurf y ambiente",
-        "testo": "Playas amplias con marea fuerte, más tranquilo."
+        "testo": "Playas amplias, más tranquilo; el baño depende de las mareas."
       }
     ],
     sapori: [
@@ -481,7 +481,7 @@ export const destinazioniTanzania: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Elegir la costa este sin saber de la marea: con la marea baja el mar se retira cientos de metros.",
+      "Elegir la costa este sin consultar las mareas: con la marea baja bañarse puede ser difícil.",
       "Pasear por Stone Town en bañador o camiseta de tirantes: fuera de las playas se cubren hombros y rodillas.",
       "Llegar sin el seguro obligatorio de Zanzíbar (ZIC): se compra online en visitzanzibar.go.tz o a la llegada, y vale para toda la estancia.",
       "Vendedores de excursiones en la playa: comparar precios con el hotel."
@@ -530,20 +530,20 @@ export const destinazioniTanzania: Destinazione[] = [
         "tempo": "5-8 días",
         "url": "https://www.tanzaniaparks.go.tz/kilimanjaro",
         "consiglio": "Más días significan más aclimatación y más posibilidades de llegar a la cima.",
-        "costo": "Entrada TANAPA 70 $ adultos extranjeros y 20 $ niños, según la web oficial (2026); preguntar al operador si el presupuesto incluye impuestos adicionales"
+        "costo": "Tarifa de entrada TANAPA para visitantes extranjeros: precios actualizados en la web oficial; preguntar al operador si el presupuesto incluye tasas e IVA"
       },
       {
         "nome": "Parque nacional de Arusha",
         "testo": "El parque al pie del monte Meru (4.566 metros, la segunda cumbre de Tanzania): la llanura de «Serengeti Ndogo» con búfalos, cebras y jirafas, los lagos Momella con hipopótamos y aves acuáticas, y paseos con un ranger.",
-        "come": "En coche desde Arusha; las caminatas se organizan en una de las dos puertas.",
+        "come": "En coche desde Arusha; las caminatas con guarda se organizan en la entrada.",
         "quando": "Mañana.",
         "tempo": "Un día entero",
         "url": "https://www.tanzaniaparks.go.tz/arusha",
-        "costo": "Entrada TANAPA 70 $ adultos extranjeros y 20 $ niños, según la web oficial (2026); preguntar al operador si el presupuesto incluye impuestos adicionales"
+        "costo": "Tarifa de entrada TANAPA para visitantes extranjeros: precios actualizados en la web oficial; preguntar al operador si el presupuesto incluye tasas e IVA"
       },
       {
-        "nome": "Cascadas de Materuni y café",
-        "testo": "Una cascada cerca de Moshi y una plantación de café donde se ve todo el proceso.",
+        "nome": "Aldeas del café cerca de Moshi",
+        "testo": "Las aldeas en las laderas del Kilimanjaro alrededor de Moshi, con plantaciones de café y cascadas para visitar con guías locales.",
         "come": "En coche desde Moshi.",
         "quando": "Mañana.",
         "tempo": "Medio día"
@@ -554,7 +554,7 @@ export const destinazioniTanzania: Destinazione[] = [
         "titolo": "1 día",
         "tappe": [
           "Mañana: parque nacional de Arusha",
-          "Tarde: Materuni y café"
+          "Tarde: aldeas del café cerca de Moshi"
         ]
       }
     ],

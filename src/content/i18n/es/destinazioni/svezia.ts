@@ -46,7 +46,7 @@ export const destinazioniSvezia: Destinazione[] = [
       {
         nome: "Gamla Stan y Palacio Real",
         testo: "El casco antiguo medieval en una isla, con callejones estrechos, casas de colores y la plaza de Stortorget. El Palacio Real, residencia oficial del rey con más de 1.400 salas, acoge el cambio de guardia en el patio exterior.",
-        come: "A pie desde la estación central (10 minutos) o en metro hasta Gamla stan.",
+        come: "A pie desde la estación central o en metro hasta Gamla stan.",
         quando: "Temprano por la mañana, antes de los grupos; el cambio de guardia es a mediodía los días indicados en el sitio real.",
         tempo: "2-3 horas",
         url: "https://www.kungligaslotten.se",
@@ -54,8 +54,8 @@ export const destinazioniSvezia: Destinazione[] = [
       },
       {
         nome: "Museo Vasa",
-        testo: "Un buque de guerra de 1628 que se hundió tras 1.300 metros en el puerto en su viaje inaugural y fue recuperado casi intacto en 1961. Es el barco del siglo XVII mejor conservado del mundo, expuesto en una gran sala con pasarelas en varios niveles, desde la quilla hasta la altura de la cubierta.",
-        come: "Tranvía 7 hasta Djurgården, o ferri desde el centro. Visita libre, con tours guiados en inglés.",
+        testo: "Un buque de guerra de 1628 que se hundió en el puerto en su viaje inaugural, poco después de zarpar, y fue rescatado casi intacto en 1961. Se expone en una gran sala con pasarelas en varios niveles, desde la quilla hasta la altura de la cubierta.",
+        come: "Tranvía o ferry desde el centro hasta Djurgården. Visita libre.",
         quando: "Mañana entre semana, cuando hay menos gente.",
         tempo: "2 horas",
         costo: "195 SEK adultos en temporada baja (2026), más en verano",
@@ -64,8 +64,8 @@ export const destinazioniSvezia: Destinazione[] = [
       },
       {
         nome: "Stadshuset (Ayuntamiento)",
-        testo: "El Ayuntamiento de ladrillo rojo de 1923 junto al agua, sede del banquete de los Premios Nobel en el Salón Azul y del Salón Dorado con más de 18 millones de teselas de mosaico. La torre, de 106 metros, se sube en ascensor o por 365 escalones.",
-        come: "A pie desde la estación (10 minutos); la visita es solo guiada.",
+        testo: "El Ayuntamiento de ladrillo rojo de 1923 junto al agua, sede del banquete de los Premios Nobel en la Sala Azul y con la Sala Dorada cubierta de mosaicos de oro. Desde la torre se ve toda la ciudad.",
+        come: "A pie desde la estación; el interior solo se visita con guía.",
         quando: "Mañana; horarios de tours y de la torre en la web oficial, donde se compran las entradas.",
         tempo: "1 hora",
         url: "https://stadshuset.stockholm",
@@ -74,29 +74,29 @@ export const destinazioniSvezia: Destinazione[] = [
       {
         nome: "Skansen y Djurgården",
         testo: "El museo al aire libre más antiguo de Suecia, abierto en 1891, con casas históricas de toda Suecia, animales nórdicos y artesanos con trajes. En la isla están también ABBA The Museum y el parque Gröna Lund.",
-        come: "Tranvía 7 desde el centro. La entrada cubre el parque, no las atracciones aparte.",
+        come: "Tranvía o ferry desde el centro. La entrada cubre el parque, no las atracciones aparte.",
         quando: "Primavera y verano; en invierno hay mercadillos de Navidad.",
         tempo: "3-4 horas",
         url: "https://www.skansen.se",
-        consiglio: "Subir con el funicular de 1897 a la colina para ver la ciudad; en diciembre hay mercadillo de Navidad."
+        consiglio: "Subir a la colina para ver la ciudad; en diciembre hay mercadillo de Navidad."
       },
       {
         nome: "Palacio de Drottningholm",
-        testo: "Desde 1981 el rey y la reina viven en el ala sur; el resto está abierto al público. Patrimonio de la UNESCO desde 1991, tiene jardines barrocos y un teatro del siglo XVIII todavía en uso, con un festival de ópera en verano. Es la mejor visita fuera del centro.",
-        come: "En la isla de Lovön: en metro hasta Brommaplan y luego bus, o en verano en barco desde el centro.",
-        quando: "Primavera-verano, en barco.",
+        testo: "Desde 1981 el rey y la reina viven en el ala sur; el resto está abierto al público. Patrimonio de la UNESCO desde 1991, tiene jardines barrocos y un teatro del siglo XVIII todavía en uso, con un festival de ópera en verano.",
+        come: "En la isla de Lovön, fuera de la ciudad; cómo llegar en transporte público en la web oficial.",
+        quando: "Primavera y verano, por los jardines.",
         tempo: "media jornada",
         url: "https://www.kungligaslotten.se",
-        consiglio: "El barco desde Stadshuset es la forma más bonita de llegar al palacio."
+        consiglio: "Dejar tiempo para los jardines: son la parte más agradable de la visita."
       },
       {
         nome: "Archipiélago de Estocolmo",
         testo: "Decenas de miles de islas e islotes que se abren al este de la ciudad hacia el Báltico. El barco de línea lleva a Vaxholm, Grinda o Sandhamn, con senderos, playas de roca y pequeños cafés.",
-        come: "Ferris Waxholmsbolaget desde Strömkajen; billetes y horarios en el sitio del transporte público.",
+        come: "Barcos de línea desde el centro; billetes y horarios en la web de Waxholmsbolaget.",
         quando: "De mayo a septiembre, con los días largos.",
         tempo: "jornada completa",
         url: "https://www.waxholmsbolaget.se",
-        consiglio: "Para quien tiene poco tiempo, las islas Fjäderholmarna son las más cercanas al centro."
+        consiglio: "Para quien tiene poco tiempo, las islas Fjäderholmarna están cerca del centro."
       }
     ],
     programmi: [
@@ -154,7 +154,7 @@ export const destinazioniSvezia: Destinazione[] = [
       },
       {
         nome: "Semla",
-        testo: "Bollo de cardamomo con almendras y nata, entre febrero y Semana Santa."
+        testo: "Bollo de cardamomo con almendra y nata, típico del invierno, en torno al martes de Carnaval."
       },
       {
         nome: "Gravlax",
@@ -163,8 +163,8 @@ export const destinazioniSvezia: Destinazione[] = [
     ],
     attenzioni: [
       "Casi todo se paga con tarjeta: muchos locales no aceptan efectivo.",
-      "El alcohol fuerte solo se compra en Systembolaget, cerrado los domingos.",
-      "Desde el aeropuerto de Arlanda conviene el Arlanda Express o el tren: los taxis sin precio pactado pueden costar mucho.",
+      "El alcohol por encima de cierta graduación solo se compra en Systembolaget: comprobar los horarios de las tiendas.",
+      "Desde el aeropuerto de Arlanda hay trenes y autobuses al centro: los taxis sin precio pactado pueden salir muy caros.",
       "Carteristas en la estación central y en el metro en hora punta."
     ],
     esperienzeSlugs: ['vasamuseet-stoccolma', 'gamla-stan-passeggiata', 'abba-museum-stoccolma', 'arcipelago-stoccolma-in-barca'],
@@ -216,8 +216,8 @@ export const destinazioniSvezia: Destinazione[] = [
       },
       {
         nome: "Mina de hierro de LKAB",
-        testo: "La mayor mina de hierro subterránea del mundo; el tour guiado de unas 3 horas baja hasta 540 metros. Explica por qué Kiruna se está mudando.",
-        come: "Tour guiado de Kiruna Lapland en bus desde el Kiruna Tourist Center (Malmvägen 9B); días e idiomas cambian según la temporada.",
+        testo: "Una de las mayores minas de hierro subterráneas del mundo; la visita guiada baja al centro de visitantes bajo tierra y explica por qué Kiruna se está trasladando.",
+        come: "Visita guiada de Kiruna Lapland con autobús desde el Kiruna Tourist Center; los días y los idiomas cambian según la temporada.",
         quando: "Todo el año; en invierno las plazas se agotan pronto.",
         tempo: "3 horas",
         costo: "590 SEK adultos (2026), con traslado, guía y café",
@@ -231,7 +231,7 @@ export const destinazioniSvezia: Destinazione[] = [
         quando: "De diciembre a abril.",
         tempo: "1-2 horas",
         url: "https://www.icehotel.com",
-        consiglio: "Incluso quien no duerme allí puede visitar las salas y el bar."
+        consiglio: "Aunque no se duerma allí, se pueden visitar las salas y el bar."
       },
       {
         nome: "Elite Hotel Frost y spa",
@@ -248,7 +248,7 @@ export const destinazioniSvezia: Destinazione[] = [
         testo: "Renskav (finas lonchas de reno con puré y arándanos rojos), el plato típico del Norte."
       },
       {
-        nome: "Moras árticas (hjortron)",
+        nome: "Mora de los pantanos (hjortron)",
         testo: "Frutos naranjas típicos de Laponia, en mermelada o con helado."
       },
       {
@@ -316,11 +316,11 @@ export const destinazioniSvezia: Destinazione[] = [
         come: "Excursión con operador local, salida desde Abisko.",
         quando: "Invierno, cuando el lago está helado: fechas con el operador.",
         tempo: "2-3 horas",
-        consiglio: "Hacen falta carné de conducir y ropa de abrigo; se hacen paradas para mirar el cielo."
+        consiglio: "Hace falta ropa de abrigo; los requisitos para conducir, en la web del operador. Se para a menudo para mirar el cielo."
       },
       {
         nome: "Trineo de huskies",
-        testo: "Conducir un trineo con perros husky en el parque, con una parada para el té y la caza de auroras. Se aprende en pocos minutos.",
+        testo: "Conducir un trineo de perros husky en los alrededores de Abisko, con una parada para el té y la búsqueda de la aurora.",
         come: "Reserva con operador local; traslado en minibús.",
         quando: "Invierno, con nieve.",
         tempo: "media jornada",
@@ -328,7 +328,7 @@ export const destinazioniSvezia: Destinazione[] = [
       },
       {
         nome: "Parque nacional de Abisko y Lapporten",
-        testo: "El parque al pie de la montaña, punto de partida del Kungsleden, con el cañón de Abiskojåkka y el valle en U de Lapporten, la «puerta de Laponia». La estación turística STF es la base.",
+        testo: "El parque a los pies de las montañas, con el valle en U de Lapporten, la «puerta de Laponia», al fondo. La estación turística STF es la base para los senderos.",
         come: "Tren desde Kiruna hasta la estación de Abisko Turiststation.",
         quando: "Verano para el trekking, invierno para la aurora.",
         tempo: "jornada completa",

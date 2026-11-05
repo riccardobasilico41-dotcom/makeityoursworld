@@ -54,9 +54,9 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
     luoghi: [
       {
         nome: "Piazza della Città Vecchia e Orloj",
-        testo: "La piazza centrale con la Torre dell'Orologio Astronomico (1410), il terzo orologio astronomico più antico al mondo e il più antico ancora in funzione. Allo scoccare dell'ora lo scheletro della Morte suona la campana e alle finestrelle sfilano i dodici Apostoli.",
-        come: "A piedi, in metro A fino a Staroměstská. L'Orloj si vede dalla piazza, gratis.",
-        quando: "In punto, ma arrivare 10 minuti prima; la torre del municipio ha un belvedere a pagamento.",
+        testo: "La piazza centrale con la Torre dell'Orologio Astronomico (1410), uno dei più antichi orologi astronomici al mondo ancora in funzione. Allo scoccare dell'ora lo scheletro della Morte suona la campana e alle finestrelle sfilano i dodici Apostoli.",
+        come: "A piedi; la fermata della metro più vicina è Staroměstská. L'Orloj si vede dalla piazza, gratis.",
+        quando: "Allo scoccare dell'ora, arrivando qualche minuto prima; la torre del municipio ha un belvedere a pagamento.",
         tempo: "1 ora",
         costo: "piazza e spettacolo gratuiti",
         url: "https://www.prague.eu",
@@ -66,15 +66,15 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
         nome: "Ponte Carlo",
         testo: "Il ponte gotico di 516 metri iniziato nel 1357 per Carlo IV, con oltre 30 statue barocche (copie). Collega la Città Vecchia a Malá Strana e al Castello.",
         come: "A piedi; sempre aperto.",
-        quando: "Alba, quando è vuoto, o dopo le 21.",
+        quando: "All'alba, quando è vuoto, o a tarda sera.",
         tempo: "30-45 minuti",
         costo: "ingresso libero",
         consiglio: "I borseggiatori sono attivi nelle ore di punta; tenere la borsa davanti."
       },
       {
         nome: "Castello di Praga e Cattedrale di San Vito",
-        testo: "Per il Guinness dei primati il castello antico più grande del mondo, quasi 70.000 metri quadrati, con la Cattedrale gotica di San Vito, il Palazzo Reale Vecchio, la Basilica di San Giorgio e il Vicolo d'Oro. Il cortile e i giardini sono accessibili gratuitamente.",
-        come: "Tram 22 fino a Pražský hrad, poi a piedi. Biglietti all'ingresso o online.",
+        testo: "Uno dei complessi di castello più grandi del mondo, con la Cattedrale gotica di San Vito, il Palazzo Reale Vecchio, la Basilica di San Giorgio e il Vicolo d'Oro.",
+        come: "In tram fino alle fermate vicine al Castello, oppure a piedi in salita da Malá Strana. Biglietti all'ingresso o online.",
         quando: "Mattina presto, con l'apertura; orari del cambio della guardia sul sito ufficiale.",
         tempo: "3-4 ore",
         url: "https://www.hrad.cz",
@@ -83,7 +83,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       {
         nome: "Malá Strana e Muro di John Lennon",
         testo: "Il quartiere barocco ai piedi del Castello, con la Chiesa di San Nicola e l'isola di Kampa. Il Muro di Lennon, coperto di graffiti dagli anni Ottanta, è sulla piazzetta Velkopřevorské náměstí, vicino all'isola di Kampa.",
-        come: "A piedi dal Ponte Carlo (5 minuti).",
+        come: "A piedi dal Ponte Carlo.",
         quando: "Mattina o tardo pomeriggio.",
         tempo: "2 ore",
         costo: "ingresso libero",
@@ -92,7 +92,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       {
         nome: "Josefov e Museo Ebraico",
         testo: "L'ex quartiere ebraico nel cuore di Staré Město, con cinque sinagoghe e l'Antico Cimitero Ebraico gestiti dal Museo Ebraico, tra cui la sinagoga Spagnola e la Pinkas. Un solo biglietto copre tutti i siti del museo; la sinagoga Vecchia-Nuova, ancora in uso per il culto, si visita con un biglietto a parte o combinato.",
-        come: "Metro A fino a Staroměstská, poi 5 minuti.",
+        come: "A piedi dalla Piazza della Città Vecchia.",
         quando: "Aperto tutti i giorni tranne il sabato e le feste ebraiche; mattina presto, prima dei gruppi.",
         tempo: "2-3 ore",
         costo: "600 CZK adulti per tutti i siti del Museo Ebraico (2026)",
@@ -102,7 +102,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       {
         nome: "Vyšehrad",
         testo: "La fortezza sulla collina a sud, meno battuta del Castello, con la basilica dei Santi Pietro e Paolo e il cimitero dei grandi cechi (Dvořák, Smetana). La vista sulla Moldava è ottima.",
-        come: "Metro C fino a Vyšehrad, poi 10 minuti a piedi.",
+        come: "Con i mezzi pubblici dal centro, poi a piedi.",
         quando: "Pomeriggio.",
         tempo: "1,5 ore",
         costo: "parco libero",
@@ -191,7 +191,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       "Taxi: usare una compagnia nota o un'app invece di fermarli per strada, controllare le tariffe esposte sulla fiancata ed evitare le auto senza insegne.",
       "Borseggiatori sui tram verso il Castello, sui mezzi dall'aeroporto e nelle zone turistiche affollate. Diffidare dei falsi poliziotti in borghese che chiedono di vedere soldi e passaporto.",
       "Trdelník non è un dolce ceco ma un prodotto turistico; la panetteria locale offre di meglio.",
-      "I biglietti dei mezzi vanno convalidati prima di salire (non quelli comprati alle macchinette a bordo): la multa sul posto è di 1.000 CZK."
+      "I biglietti dei mezzi vanno convalidati prima di salire (non quelli comprati alle macchinette a bordo): senza convalida si rischia una multa sul posto."
     ],
     esperienzeSlugs: ['praga-castello-biglietto', 'praga-josefov-jewish-town', 'praga-degustazione-birra'],
     tripSlugs: ['praga-weekend'],

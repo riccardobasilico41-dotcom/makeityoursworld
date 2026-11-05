@@ -49,17 +49,17 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       {
         nome: "Rijksmuseum",
         testo: "The Dutch national museum, with Rembrandt's Night Watch, the Vermeers and the miniature ships. The building has a free garden with sculptures and a square for photos.",
-        come: "On Museumplein, a 10-minute walk from the canals. The entry time must be booked, even with a Museumkaart; the desk sells only if places remain.",
+        come: "On Museumplein. It is best to book an entry time online; the desk only sells tickets if there is space left.",
         quando: "Daily 9am-5pm, holidays included; early morning or late afternoon to avoid the crowd in front of The Night Watch.",
         tempo: "3 hours",
-        costo: "€25 adults (2026; €26.50 from 2027), free up to 18",
+        costo: "€25 adults (2026), free under 18",
         url: "https://www.rijksmuseum.nl",
         consiglio: "Start from the Golden Age floor: in an hour you see the most important rooms."
       },
       {
         nome: "Van Gogh Museum",
-        testo: "The largest Van Gogh collection in the world: about 200 paintings, 400 drawings and 700 letters, from The Potato Eaters (1885) to the Sunflowers (1889). You follow the artist's evolution.",
-        come: "Tram to the Van Baerlestraat/Museumplein stop. Tickets on the official website.",
+        testo: "A huge collection of Van Gogh's work, with paintings, drawings and letters, from The Potato Eaters (1885) to the Sunflowers (1889). You follow the artist's development.",
+        come: "On Museumplein, next to the Rijksmuseum. Tickets on the official website.",
         quando: "Early morning, with a ticket already bought.",
         tempo: "2 hours",
         url: "https://www.vangoghmuseum.nl",
@@ -69,7 +69,7 @@ export const destinazioniPaesiBassi: Destinazione[] = [
         nome: "Anne Frank House",
         testo: "The secret annex where Anne Frank and her family hid for over two years, from 1942 to 1944, at the back of her father's company building, Prinsengracht 263. The route is narrow and silent.",
         come: "Tickets are sold only online on the official website: every Tuesday at 10am the tickets for visits six weeks later are released. None are sold at the door.",
-        quando: "Book as soon as you decide the dates; on Prinsengracht, 15 minutes from the centre.",
+        quando: "Book as soon as your dates are set.",
         tempo: "1-1.5 hours",
         costo: "€16.50 adults, including a €1 booking fee (official site, 2026)",
         url: "https://www.annefrank.org",
@@ -85,16 +85,15 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       },
       {
         nome: "Jordaan and Begijnhof",
-        testo: "The Jordaan is a district of narrow streets, cafes and craft shops. The Begijnhof is the only courtyard in Amsterdam founded in the Middle Ages: 17th- and 18th-century facades, and the Wooden House from about 1420, the oldest in the city.",
-        come: "On foot from the centre (10-15 minutes).",
+        testo: "The Jordaan is a district of narrow streets, cafés and craft shops. The Begijnhof is a courtyard of medieval origin, with old façades and one of the oldest wooden houses in the city.",
+        come: "On foot from the centre.",
         quando: "Morning, with soft light and fewer people.",
         tempo: "2 hours",
-        costo: "Begijnhof: free entry",
         consiglio: "The Begijnhof is lived in: speak quietly and respect the residents' privacy."
       },
       {
         nome: "Vondelpark",
-        testo: "The city's best-known park, 47 hectares of ponds, lawns and kiosks; from June to August the open-air theatre (Openluchttheater) has free shows. A good place for a break after the museums.",
+        testo: "The city's big park, with ponds, lawns and kiosks; in summer the open-air theatre (Openluchttheater) hosts performances. A good place for a break after the museums.",
         come: "Next to the Van Gogh museum, a few minutes on foot.",
         quando: "Summer afternoon.",
         tempo: "1-2 hours",
@@ -103,9 +102,9 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       },
       {
         nome: "Albert Cuyp Market",
-        testo: "The busiest market in the Netherlands, open six days a week since 1912: fruit, vegetables, fish, clothes and freshly made stroopwafels. Ideal for cheap snacks.",
+        testo: "A big street market in the De Pijp district: fruit, vegetables, fish, clothes and freshly made stroopwafels. Ideal for cheap snacks.",
         come: "In the De Pijp district, by tram or metro.",
-        quando: "Monday to Saturday, morning.",
+        quando: "Morning; check the opening days before you go.",
         tempo: "1 hour",
         consiglio: "Try hot stroopwafels and herring with onions."
       }
@@ -156,7 +155,7 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       {
         nome: "Amsterdam Oost and Noord",
         perChi: "Those trying to save",
-        testo: "Outside the centre, by tram or the free ferry to Noord."
+        testo: "Outside the centre, by tram or, for Noord, by ferry."
       }
     ],
     sapori: [
@@ -181,7 +180,7 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       "Bicycles: they are the biggest danger for pedestrians, ride fast and often ignore red lights; do not walk on the red bike lanes.",
       "Pickpockets in the centre and around Centraal Station, also in gangs on trains and trams to and from Schiphol.",
       "Unofficial resellers for Anne Frank and museums: buy only from the official site. Also beware of fake police officers asking for cash or cards.",
-      "In De Wallen do not photograph the workers. Smoking cannabis in public places is illegal: it is tolerated only in coffeeshops.",
+      "In De Wallen do not photograph the sex workers and do not smoke cannabis in the street: it is banned.",
       "Taxis are not always cheap: better by tram or on foot."
     ],
     esperienzeSlugs: ['amsterdam-in-bicicletta', 'crociera-sui-canali-amsterdam', 'casa-di-anna-frank'],

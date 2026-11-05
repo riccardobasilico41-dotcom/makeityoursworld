@@ -11,30 +11,30 @@ export const destinazioniBulgaria: Destinazione[] = [
     tipologia: ['sci', 'montagna'],
     giorniConsigliati: '4 giorni, tre pieni sulle piste',
     visitataPersonalmente: true,
-    introduzione: 'Il comprensorio sciistico più famoso di Bulgaria: circa 70-75 km di piste sui Monti Pirin e un centro storico di case in pietra e legno.',
+    introduzione: 'Uno dei comprensori sciistici più noti della Bulgaria, sui Monti Pirin, con un centro storico di case in pietra e legno.',
     percheAndarci: 'Per sciare in un angolo d\'Europa che compare di rado nei programmi delle vacanze bianche, a prezzi molto più bassi delle Alpi.',
-    cosaVedere: ['Il centro storico di Bansko, tra le case della "scuola di Bansko" e la parte più moderna', 'La vista dal Todorka Peak (2.560 metri)'],
+    cosaVedere: ['Il centro storico di Bansko, tra le case della "scuola di Bansko" e la parte più moderna', 'La vista dal Todorka Peak'],
     cosaFare: [
       'Sci sulle piste di Bansko Ski Zone (c\'è la scheda esperienza dedicata)',
-      'La discesa illuminata di 7,5 km per lo sci notturno (c\'è la scheda esperienza dedicata)',
-      'Après-ski da Sopranos o all\'Happy End Bar, alla base della gondola',
+      'La discesa illuminata per lo sci notturno (c\'è la scheda esperienza dedicata)',
+      'Après-ski nei locali alla base della gondola',
       'Cena in una mehana tipica del centro storico',
     ],
     doveDormire:
-      'Ho scelto un hotel a pochi minuti a piedi dalla stazione della gondola: la mattina arrivavo alle piste in fretta e la sera ero a due passi dal centro storico. Non era una struttura di marca né particolarmente ricercata, solo una base pratica per la settimana sulla neve.\n\nAlternative vicino alla gondola. Economiche: Hotel Dumanov (circa 150 metri dalla stazione a valle), La Vien Guest House (5 minuti a piedi, gestione familiare). Fascia media: Hotel Ida (piscina interna e idromassaggio), MPM Hotel Sport (accesso quasi diretto alle piste). Lusso: Kempinski Hotel Grand Arena Bansko (l\'unico vero ski-in/ski-out del paese), Premier Luxury Mountain Resort.',
+      'Ho scelto un hotel a pochi minuti a piedi dalla stazione della gondola: la mattina arrivavo alle piste in fretta e la sera ero a due passi dal centro storico. Non era una struttura di marca né particolarmente ricercata, solo una base pratica per la settimana sulla neve.\n\nAlternative vicino alla gondola. Economiche: Hotel Dumanov (vicino alla stazione a valle), La Vien Guest House (5 minuti a piedi, gestione familiare). Fascia media: Hotel Ida (piscina interna e idromassaggio), MPM Hotel Sport (accesso quasi diretto alle piste). Lusso: Kempinski Hotel Grand Arena Bansko (accanto alla gondola), Premier Luxury Mountain Resort.',
     doveMangiare: 'Abbiamo mangiato nelle mehane del centro storico: kapama, banitsa e shopska salata, sempre con la rakia.',
-    comeArrivare: 'Da Sofia sono circa 2-2h30 di auto (160 km). In alternativa ci sono shuttle e transfer privati, il bus pubblico o il treno più minibus.',
-    comeSpostarsi: 'Una gondola a 8 posti porta dal centro alle piste; tra una pista e l\'altra ci si sposta con gli sci.',
-    periodoMigliore: '1 dicembre - metà aprile, con innevamento artificiale garantito su oltre il 90% delle piste',
-    costi: 'Skipass giornaliero 35-40€ (online fino al 25% in meno); birra al rifugio 1,50-2€; cena in mehana 15-20€ a testa.',
+    comeArrivare: 'Da Sofia si arriva in auto in qualche ora. In alternativa ci sono shuttle e transfer privati, il bus pubblico o il treno più minibus.',
+    comeSpostarsi: 'Una gondola porta dal centro alle piste; tra una pista e l\'altra ci si sposta con gli sci.',
+    periodoMigliore: 'da dicembre alla primavera, con innevamento artificiale; date della stagione sul sito ufficiale',
+    costi: 'Prezzi degli skipass sul sito ufficiale, dove di solito costano meno che in cassa; birra e cene in mehana più economiche che sulle Alpi.',
     erroriDaEvitare: ['Comprare lo skipass alla cassa: online, con qualche giorno di anticipo, costa meno', 'Aspettarsi piste da Alpi: a Bansko si va per l\'esperienza e per il prezzo, non per il livello del comprensorio'],
     miaEsperienza:
       'Non mi aspettavo grandi cose dallo sci in Bulgaria, ed è quello che ho trovato: piste carine e ben tenute, niente di esagerato rispetto alle Alpi. Il bello sta proprio qui. Ci si va per l\'esperienza esotica di sciare in un angolo d\'Europa fuori dai soliti circuiti, più che per lo sci in sé.',
     luoghi: [
       {
         nome: "Comprensorio sciistico di Bansko",
-        testo: "Dal 2003 il comprensorio si raggiunge con una lunga gondola che parte dal paese e sale alla base di Banderishka Polyana; gli impianti arrivano intorno ai 2.600 metri. Le piste sono più tranquille di quelle alpine. Ci si va per l'esperienza esotica in un angolo d'Europa fuori dai circuiti più noti.",
-        come: "Stazione della gondola a pochi minuti a piedi dal centro; skipass in biglietteria o online. Gondola 8:30-17, seggiovie 8:45-16:15.",
+        testo: "Il comprensorio si raggiunge con una lunga gondola che parte dal paese e sale alla base di Banderishka Polyana; gli impianti salgono in alta quota. Le piste sono più tranquille di quelle alpine. Ci si va per l'esperienza esotica in un angolo d'Europa fuori dai circuiti più noti.",
+        come: "Stazione della gondola a pochi minuti a piedi dal centro; skipass in biglietteria o online.",
         quando: "Inverno, date della stagione sul sito ufficiale; alla mattina presto la gondola ha code.",
         tempo: "giornata intera",
         costo: "prezzi degli skipass sul sito ufficiale",
@@ -43,7 +43,7 @@ export const destinazioniBulgaria: Destinazione[] = [
       },
       {
         nome: "Discesa notturna illuminata",
-        testo: "La pista di rientro verso il paese, lunga circa 7-8 km, viene illuminata per sciare di sera, ma non tutti i giorni. È una delle attrazioni più particolari di Bansko.",
+        testo: "La pista di rientro verso il paese, viene illuminata per sciare di sera, ma non tutti i giorni. È una delle attrazioni più particolari di Bansko.",
         come: "Gondola fino alla stazione intermedia e discesa; orari sul sito del comprensorio.",
         quando: "Sera, nei giorni di apertura notturna.",
         tempo: "1-2 ore",
@@ -52,7 +52,7 @@ export const destinazioniBulgaria: Destinazione[] = [
       },
       {
         nome: "Todorka Peak",
-        testo: "La stazione in quota di Todorka, intorno ai 2.550 metri, con vista sui monti Pirin. Si arriva con gli impianti di risalita.",
+        testo: "La stazione in quota di Todorka, con vista sui monti Pirin. Si arriva con gli impianti di risalita.",
         come: "Gondola e seggiovie.",
         quando: "Giorno sereno, in inverno.",
         tempo: "1 ora",
@@ -60,7 +60,7 @@ export const destinazioniBulgaria: Destinazione[] = [
       },
       {
         nome: "Centro storico di Bansko",
-        testo: "Case di pietra e legno della «scuola di Bansko» (il revival bulgaro dell'Ottocento), la chiesa della Santa Trinità, costruita dagli abitanti nel 1835, e le mehane tipiche con kapama, banitsa e shopska salata. È più vivace la sera.",
+        testo: "Case di pietra e legno della «scuola di Bansko» (il revival bulgaro dell'Ottocento), la chiesa della Santa Trinità, costruita dagli abitanti nell'Ottocento, e le mehane tipiche con kapama, banitsa e shopska salata. È più vivace la sera.",
         come: "A piedi dalla stazione della gondola.",
         quando: "Sera.",
         tempo: "2 ore",
@@ -74,7 +74,7 @@ export const destinazioniBulgaria: Destinazione[] = [
       },
       {
         nome: "Banitsa",
-        testo: "Sfoglia al formaggio, la colazione più diffusa in Bulgaria."
+        testo: "Sfoglia al formaggio, una colazione tipica in Bulgaria."
       },
       {
         nome: "Shopska salata",
@@ -87,9 +87,9 @@ export const destinazioniBulgaria: Destinazione[] = [
     ],
     attenzioni: [
       "La Bulgaria usa l'euro dal 1° gennaio 2026: confrontare con i prezzi in lev dei vecchi dati.",
-      "Da Sofia sono circa 160 km di strada: usare transfer prenotati, non taxi di strada.",
+      "Da Sofia: usare transfer prenotati, non taxi di strada.",
       "Il comprensorio ha code in alta stagione: arrivare presto alla gondola.",
-      "In auto d'inverno servono gomme invernali e catene a bordo."
+      "In auto d'inverno serve l'attrezzatura invernale (gomme da neve, catene se richieste)."
     ],
     esperienzeSlugs: ['sci-bansko', 'discesa-notturna-bansko'],
     tripSlugs: ['bulgaria-bansko-rila'],
@@ -118,14 +118,14 @@ export const destinazioniBulgaria: Destinazione[] = [
     comeSpostarsi: 'A piedi, dentro il complesso monastico.',
     periodoMigliore: 'tutto l\'anno',
     costi: 'Ingresso al complesso e alla chiesa gratuito; Museo di Storia Ecclesiastica circa 4 € (dal 2026 la Bulgaria usa l\'euro).',
-    erroriDaEvitare: ['Entrare in chiesa con spalle e ginocchia scoperte', 'Fare foto o video dentro gli edifici religiosi: non è permesso'],
+    erroriDaEvitare: ['Entrare in chiesa con spalle e ginocchia scoperte', 'Fare foto o video dentro gli edifici religiosi senza seguire le regole del monastero'],
     miaEsperienza:
       'Dopo le giornate sulla neve, il monastero è stato il colpo di scena del viaggio. Gli affreschi coloratissimi della Chiesa della Natività della Vergine e il silenzio della montagna intorno sono il ricordo più vivido di tutto il tour.',
     luoghi: [
       {
         nome: "Complesso del Monastero di Rila",
         testo: "Il più grande e famoso monastero ortodosso della Bulgaria, patrimonio UNESCO, fondato nel X secolo secondo la tradizione da San Giovanni di Rila e ricostruito tra il 1834 e il 1862 dopo un incendio. Le alte mura di pietra, quasi da fortezza, chiudono un cortile a portici a strisce bianche e nere.",
-        come: "In auto o bus da Sofia, 117 km a nord, o come deviazione sulla strada tra Bansko e Sofia.",
+        come: "In auto o bus da Sofia, a sud della capitale, o come deviazione sulla strada tra Bansko e Sofia.",
         quando: "Mattina presto, prima dei bus turistici.",
         tempo: "1,5-2 ore",
         costo: "ingresso libero",

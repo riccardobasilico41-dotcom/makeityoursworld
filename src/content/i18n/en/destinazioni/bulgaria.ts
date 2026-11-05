@@ -9,30 +9,30 @@ export const destinazioniBulgaria: Destinazione[] = [
     tipologia: ['skiing', 'mountains'],
     giorniConsigliati: '4 days, three full ones on the slopes',
     visitataPersonalmente: true,
-    introduzione: "Bulgaria's most famous ski area: about 70-75 km of slopes in the Pirin Mountains and an old town of stone and wood houses.",
+    introduzione: "One of Bulgaria's best-known ski areas, in the Pirin Mountains, with an old town of stone and wood houses.",
     percheAndarci: "To ski in a corner of Europe that rarely shows up in winter holiday brochures, at prices much lower than the Alps.",
-    cosaVedere: ['The old town of Bansko, between the houses of the "Bansko school" and the more modern part', 'The view from Todorka Peak (2,560 meters)'],
+    cosaVedere: ['The old town of Bansko, between the houses of the "Bansko school" and the more modern part', 'The view from Todorka Peak'],
     cosaFare: [
       "Skiing on the Bansko Ski Zone slopes (there is a dedicated experience page)",
-      "The 7.5 km lit run for night skiing (there is a dedicated experience page)",
-      "Après-ski at Sopranos or at the Happy End Bar, at the base of the gondola",
+      "The lit run for night skiing (there is a dedicated experience page)",
+      "Après-ski in the bars at the base of the gondola",
       "Dinner in a traditional mehana in the old town",
     ],
     doveDormire:
-      "I chose a hotel a few minutes' walk from the gondola station: in the morning I got to the slopes quickly and in the evening I was a couple of steps from the old town. It wasn't a branded or particularly refined place, just a practical base for the week on the snow.\n\nAlternatives near the gondola. Budget: Hotel Dumanov (about 150 meters from the lower station), La Vien Guest House (5 minutes on foot, family-run). Mid-range: Hotel Ida (indoor pool and hot tub), MPM Hotel Sport (almost direct access to the slopes). Luxury: Kempinski Hotel Grand Arena Bansko (the only true ski-in/ski-out in town), Premier Luxury Mountain Resort.",
+      "I chose a hotel a few minutes' walk from the gondola station: in the morning I got to the slopes quickly and in the evening I was a couple of steps from the old town. It wasn't a branded or particularly refined place, just a practical base for the week on the snow.\n\nAlternatives near the gondola. Budget: Hotel Dumanov (near the lower station), La Vien Guest House (5 minutes on foot, family-run). Mid-range: Hotel Ida (indoor pool and hot tub), MPM Hotel Sport (almost direct access to the slopes). Luxury: Kempinski Hotel Grand Arena Bansko (next to the gondola), Premier Luxury Mountain Resort.",
     doveMangiare: "We ate in the mehanas of the old town: kapama, banitsa and shopska salata, always with rakia.",
-    comeArrivare: "From Sofia it's about 2-2.5 hours by car (160 km). Alternatively there are shuttles and private transfers, the public bus, or the train plus a minibus.",
-    comeSpostarsi: "An 8-seat gondola takes you from the center to the slopes; between one run and the next you get around on your skis.",
-    periodoMigliore: "December 1 - mid-April, with guaranteed artificial snow on over 90% of the slopes",
-    costi: "Day ski pass €35-40 (up to 25% less online); beer at the mountain hut €1.50-2; dinner in a mehana €15-20 per person.",
+    comeArrivare: "From Sofia it's a few hours by car. Alternatively there are shuttles and private transfers, the public bus, or the train plus a minibus.",
+    comeSpostarsi: "A gondola takes you from the center to the slopes; between one run and the next you get around on your skis.",
+    periodoMigliore: "from December to spring, with artificial snow; season dates on the official website",
+    costi: "Ski pass prices on the official website, where they usually cost less than at the ticket office; beer and dinners in mehanas cheaper than in the Alps.",
     erroriDaEvitare: ["Buying the ski pass at the ticket window: online, a few days ahead, it costs less", "Expecting Alpine slopes: you go to Bansko for the experience and the price, not for the level of the ski area"],
     miaEsperienza:
       "I didn't expect much from skiing in Bulgaria, and that's what I found: nice, well-kept slopes, nothing over the top compared to the Alps. That's exactly the charm. You go for the exotic experience of skiing in a corner of Europe off the usual circuits, more than for the skiing itself.",
     luoghi: [
       {
         nome: "Bansko ski area",
-        testo: "Since 2003 the area has been reached by a long gondola from the town to the Banderishka Polyana base; the lifts reach about 2,600 metres. The slopes are quieter than the Alps. People go for the exotic experience in a corner of Europe off the better-known circuits.",
-        come: "Gondola station a few minutes on foot from the centre; ski pass at the ticket office or online. Gondola 8:30-17, chairlifts 8:45-16:15.",
+        testo: "The area is reached by a long gondola from the town to the Banderishka Polyana base; the lifts climb high into the mountains. The slopes are quieter than the Alps. People go for the exotic experience in a corner of Europe off the better-known circuits.",
+        come: "Gondola station a few minutes on foot from the centre; ski pass at the ticket office or online.",
         quando: "Winter, season dates on the official website; in the early morning the gondola has queues.",
         tempo: "full day",
         costo: "ski pass prices on the official website",
@@ -41,7 +41,7 @@ export const destinazioniBulgaria: Destinazione[] = [
       },
       {
         nome: "Illuminated night run",
-        testo: "The run back down to the town, about 7-8 km long, is lit for evening skiing, but not every day. It is one of the most distinctive attractions of Bansko.",
+        testo: "The run back down to the town, is lit for evening skiing, but not every day. It is one of the most distinctive attractions of Bansko.",
         come: "Gondola to the middle station and descent; hours on the ski area website.",
         quando: "Evening, on night-opening days.",
         tempo: "1-2 hours",
@@ -50,7 +50,7 @@ export const destinazioniBulgaria: Destinazione[] = [
       },
       {
         nome: "Todorka Peak",
-        testo: "The Todorka top station, at about 2,550 metres, with a view of the Pirin mountains. You get there by lifts.",
+        testo: "The Todorka top station, with a view of the Pirin mountains. You get there by lifts.",
         come: "Gondola and chairlifts.",
         quando: "Clear day, in winter.",
         tempo: "1 hour",
@@ -58,7 +58,7 @@ export const destinazioniBulgaria: Destinazione[] = [
       },
       {
         nome: "Bansko old town",
-        testo: "Stone and wood houses of the 'Bansko school' (the nineteenth-century Bulgarian revival), the Holy Trinity church, built by the townspeople in 1835, and typical mehanas with kapama, banitsa and shopska salata. It is livelier in the evening.",
+        testo: "Stone and wood houses of the 'Bansko school' (the nineteenth-century Bulgarian revival), the Holy Trinity church, built by the townspeople in the 19th century, and typical mehanas with kapama, banitsa and shopska salata. It is livelier in the evening.",
         come: "On foot from the gondola station.",
         quando: "Evening.",
         tempo: "2 hours",
@@ -72,7 +72,7 @@ export const destinazioniBulgaria: Destinazione[] = [
       },
       {
         nome: "Banitsa",
-        testo: "Cheese pastry, the most common breakfast in Bulgaria."
+        testo: "Cheese pastry, a typical breakfast in Bulgaria."
       },
       {
         nome: "Shopska salata",
@@ -85,9 +85,9 @@ export const destinazioniBulgaria: Destinazione[] = [
     ],
     attenzioni: [
       "Bulgaria has used the euro since 1 January 2026: compare with older lev prices.",
-      "From Sofia it is about 160 km by road: use pre-booked transfers, not street taxis.",
+      "From Sofia: use pre-booked transfers, not street taxis.",
       "The ski area has queues in high season: reach the gondola early.",
-      "By car in winter you need winter tyres and chains on board."
+      "By car in winter you need winter equipment (snow tyres, chains if required)."
     ],
     esperienzeSlugs: ['sci-bansko', 'discesa-notturna-bansko'],
     tripSlugs: ['bulgaria-bansko-rila'],
@@ -116,14 +116,14 @@ export const destinazioniBulgaria: Destinazione[] = [
     comeSpostarsi: "On foot, inside the monastery complex.",
     periodoMigliore: "all year",
     costi: "Entrance to the complex and the church is free; Museum of Ecclesiastical History about €4 (Bulgaria has used the euro since 2026).",
-    erroriDaEvitare: ["Entering the church with bare shoulders and knees", "Taking photos or video inside the religious buildings: it's not allowed"],
+    erroriDaEvitare: ["Entering the church with bare shoulders and knees", "Taking photos or video inside the religious buildings without following the monastery's rules"],
     miaEsperienza:
       "After the days on the snow, the monastery was the twist of the trip. The brightly colored frescoes of the Church of the Nativity of the Virgin and the silence of the mountain around are the most vivid memory of the whole tour.",
     luoghi: [
       {
         nome: "Rila Monastery complex",
         testo: "The largest and best-known Orthodox monastery in Bulgaria, a UNESCO site, founded in the 10th century, by tradition by St John of Rila and rebuilt between 1834 and 1862 after a fire. The high, almost fortress-like stone walls enclose a courtyard of black-and-white striped arcades.",
-        come: "By car or bus from Sofia, 117 km to the north, or as a detour on the road between Bansko and Sofia.",
+        come: "By car or bus from Sofia, south of the capital, or as a detour on the road between Bansko and Sofia.",
         quando: "Early morning, before the tourist buses.",
         tempo: "1.5-2 hours",
         costo: "free entry",

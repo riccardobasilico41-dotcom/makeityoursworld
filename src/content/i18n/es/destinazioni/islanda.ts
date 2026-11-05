@@ -48,10 +48,10 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "Centro de Keflavík y paseo marítimo",
         testo: "Una ciudad portuaria tranquila, con paseo marítimo, costa rocosa y el museo del Rock'n'Roll de Islandia. Para quien llega de noche es el lugar donde cenar sin moverse.",
-        come: "A pie desde el centro o con el bus 55 desde el aeropuerto.",
+        come: "A pie por el centro; desde el aeropuerto en autobús o taxi.",
         quando: "Al atardecer, muy tarde en verano.",
         tempo: "1-2 horas",
-        consiglio: "Comprobar la hora del último bus 55 antes de salir por la noche."
+        consiglio: "Comprobar la hora del último autobús antes de salir por la noche."
       }
     ],
     sapori: [
@@ -65,7 +65,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Hot dog islandés (pylsur)",
-        testo: "Salchicha de cordero con cebolla cruda y frita y salsas; se encuentra en gasolineras y quioscos, a buen precio."
+        testo: "Salchicha hecha en buena parte con cordero, con cebolla cruda y frita y salsas; se encuentra barata en gasolineras y quioscos."
       }
     ],
     attenzioni: [
@@ -148,7 +148,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Skógafoss",
-        testo: "Cascada de 25 metros de ancho y 60 de alto, en el borde del antiguo acantilado marino. Una escalera lateral de 527 escalones sube a lo alto, donde empieza el sendero al paso de Fimmvörðuháls.",
+        testo: "Cascada de 25 metros de ancho y 60 de alto, en el borde del antiguo acantilado de la costa. Una larga escalera lateral sube hasta arriba, donde empieza el sendero hacia el paso de Fimmvörðuháls.",
         come: "Aparcamiento a los pies; el camping de al lado es cómodo para la noche.",
         quando: "Tarde, para el arcoíris cuando hay sol.",
         tempo: "45 minutos",
@@ -158,7 +158,7 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "Restos del DC-3 en Sólheimasandur",
         testo: "Un avión de la Marina estadounidense caído en noviembre de 1973 en una llanura de arena negra, sin víctimas. La zona es desnuda y azotada por el viento; desde 2016 los propietarios del terreno prohíben el acceso en coche.",
-        come: "Aparcamiento en la Ring Road y unos 3-4 km a pie por tramo sobre arena plana. No hace falta guía.",
+        come: "Aparcamiento en la Ring Road y una larga caminata por arena llana. No hace falta guía.",
         quando: "Tarde en verano, cuando el sol roza el horizonte; de noche hace falta una linterna.",
         tempo: "2-3 horas ida y vuelta",
         consiglio: "Fuimos a medianoche con la luz de finales de julio: llevar agua y una batería externa, el recorrido no tiene puntos de referencia."
@@ -171,17 +171,17 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Pan de centeno (rúgbrauð)",
-        testo: "Pan oscuro y dulce cocido bajo tierra con el calor geotérmico, servido con mantequilla y trucha ahumada en Laugarvatn."
+        testo: "Pan oscuro y dulce, cocido lentamente, a veces con calor geotérmico; se come con mantequilla o pescado ahumado."
       },
       {
         nome: "Comida de picnic",
-        testo: "Los supermercados Bónus y Krónan son los más baratos de Islandia: comprar y cocinar en el camping para reducir a la mitad los costes."
+        testo: "Los supermercados de descuento como Bónus y Krónan son la opción más económica: comprar y cocinar en el camping para ahorrar."
       }
     ],
     attenzioni: [
       "En Reynisfjara y otras playas negras las olas anómalas (sneaker waves) llegan sin avisar: no dar nunca la espalda al mar.",
       "Las carreteras F y los vados sin puente requieren un 4x4 y normalmente no están cubiertos por el seguro básico del alquiler.",
-      "El camping libre con tienda está muy limitado: usar los campings (costes bajos, servicios limpios) y respetar las señales.",
+      "La acampada libre con tienda está muy limitada: usar los campings y respetar los carteles.",
       "Fuera de la zona de Reikiavik muchas gasolineras son automáticas: llevar tarjeta con PIN."
     ],
     esperienzeSlugs: ['relitto-aereo-solheimasandur', 'golden-circle'],
@@ -223,17 +223,17 @@ export const destinazioniIslanda: Destinazione[] = [
     luoghi: [
       {
         nome: "Dyrhólaey",
-        testo: "Promontorio con un arco de lava negra en el mar y un faro, muy bonito por la vista de la costa sur. En primavera parte de la zona cierra por la nidificación de aves, y en verano anidan frailecillos en los acantilados. El faro es de 1927.",
+        testo: "Promontorio con un arco de lava negra en el mar y un faro, con una bonita vista de la costa sur. En verano anidan frailecillos en los acantilados. El faro es de 1927.",
         come: "En coche, camino de grava para recorrer con cuidado hasta el aparcamiento alto.",
         quando: "Finales de primavera y verano para los frailecillos; al atardecer por la luz.",
         tempo: "1 hora",
         costo: "entrada libre",
-        consiglio: "Comprobar los cierres estacionales antes de subir."
+        consiglio: "Quedarse en los senderos señalizados: los acantilados son altos y se desmoronan."
       },
       {
         nome: "Reynisfjara",
         testo: "Playa de arena negra con columnas de basalto y los farallones de Reynisdrangar en el mar. Es una de las más fotogénicas y peligrosas de Islandia por las olas repentinas.",
-        come: "Aparcamiento y sendero corto; hay carteles con un sistema de semáforo para las condiciones del mar.",
+        come: "Aparcamiento y sendero corto; en la entrada hay carteles sobre el estado del mar.",
         quando: "Temprano por la mañana, cuando hay menos autocares.",
         tempo: "1 hora",
         costo: "entrada libre",
@@ -315,20 +315,20 @@ export const destinazioniIslanda: Destinazione[] = [
     luoghi: [
       {
         nome: "Vestrahorn y Stokksnes",
-        testo: "Una montaña de gabro de 454 metros que se refleja en las dunas negras de la playa de Stokksnes. Es uno de los lugares más fotografiados de Islandia.",
+        testo: "Una montaña empinada y oscura que se refleja en las dunas negras de la playa de Stokksnes. Es uno de los lugares más fotografiados de Islandia.",
         come: "Tras la carretera a Stokksnes hay una entrada de pago gestionada por el dueño privado del terreno; luego unos minutos a pie.",
         quando: "Amanecer o atardecer, con agua baja para los reflejos.",
         tempo: "1-2 horas",
         costo: "entrada de pago (tarifa a comprobar in situ)",
-        consiglio: "La entrada incluye el Viking Village: las dos cosas se hacen juntas."
+        consiglio: "El Viking Village está en el mismo camino: se visitan juntos."
       },
       {
         nome: "Viking Village",
-        testo: "Un pueblo vikingo construido en 2010 como decorado de una película que nunca se rodó, hoy dejado al pasto de los caballos. Al lado está el camping a los pies de Vestrahorn.",
+        testo: "Un poblado vikingo construido como decorado de cine, a los pies de Vestrahorn. Las casas de madera y turba con la montaña detrás son un buen motivo fotográfico.",
         come: "Se llega por la misma carretera de Stokksnes.",
         quando: "Hora de luz baja, cuando se ve bien Vestrahorn al fondo.",
         tempo: "30 minutos",
-        consiglio: "Los caballos están sueltos: no darles comida ni acercarse demasiado."
+        consiglio: "Si hay caballos sueltos, no darles comida ni acercarse demasiado."
       },
       {
         nome: "Puerto de Höfn y langostino",
@@ -395,7 +395,7 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "Seyðisfjörður",
         testo: "Pueblo de artistas en un fiordo profundo, con casas de madera de colores, la iglesia azul y la calle del arcoíris. Se llega bajando de un puerto de montaña (Fjarðarheiði) con bonitas cascadas.",
-        come: "En coche desde Egilsstaðir; es también el puerto del ferri desde las Islas Feroe y Dinamarca.",
+        come: "En coche desde Egilsstaðir, cruzando el puerto de montaña.",
         quando: "Verano; el paso puede estar cerrado por nieve de otoño a primavera.",
         tempo: "media jornada",
         consiglio: "Paseo a las cascadas a lo largo de la carretera, con varias paradas."
@@ -410,8 +410,8 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Lagarfljót y bosque de Hallormsstaður",
-        testo: "Uno de los bosques más grandes de Islandia, 740 hectáreas, con árboles altos y un sendero junto al Lagarfljót. Una verdadera sorpresa en un país casi sin árboles.",
-        come: "A unos 25 km de Egilsstaðir, en el valle de Fljótsdalur.",
+        testo: "Uno de los bosques más extensos de Islandia, con árboles altos y un sendero junto al Lagarfljót. Una verdadera sorpresa en un país casi sin árboles.",
+        come: "En coche desde Egilsstaðir, junto al lago, en el valle de Fljótsdalur.",
         quando: "Verano y principios de otoño por los colores.",
         tempo: "2 horas",
         consiglio: "Pequeño y tranquilo, ideal como pausa de la conducción."
@@ -468,7 +468,7 @@ export const destinazioniIslanda: Destinazione[] = [
     luoghi: [
       {
         nome: "Stuðlagil",
-        testo: "Un cañón con columnas de basalto y agua turquesa que siguió casi desconocido hasta 2016: la presa de Kárahnjúkar, terminada en 2009, redujo el caudal del río y dejó al descubierto las paredes. Hay dos accesos: la plataforma panorámica en la orilla oeste y, en la orilla este, un sendero de unos 5 km.",
+        testo: "Un cañón con columnas de basalto y agua turquesa que era casi desconocido hasta hace pocos años: la presa de Kárahnjúkar, río arriba, redujo el caudal y dejó a la vista las paredes. Hay dos accesos: la plataforma panorámica en la orilla oeste y, en la orilla este, un sendero más largo.",
         come: "Último tramo por camino de grava desde el asfalto; senderos cortos y bien cuidados.",
         quando: "Verano, con el río bajo y luz plena.",
         tempo: "1-2 horas",
@@ -477,7 +477,7 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "Dettifoss",
         testo: "Cascada de 100 metros de ancho y 44 de alto, considerada entre las más potentes de Europa. El agua es turbia y gris, y el ruido se oye desde lejos.",
-        come: "Por la Route 862 (asfaltada) del lado oeste, la mejor vista; sendero de unos 1 km desde el aparcamiento.",
+        come: "Desde la Route 862 (asfaltada) por el lado oeste, la mejor vista; sendero corto desde el aparcamiento.",
         quando: "Verano; en primavera el caudal está al máximo.",
         tempo: "1 hora",
         costo: "entrada libre",
@@ -494,14 +494,6 @@ export const destinazioniIslanda: Destinazione[] = [
         url: "https://www.vatnajokulsthjodgardur.is",
         consiglio: "El camping del parque nacional está en el fondo del cañón, con excelentes servicios."
       },
-      {
-        nome: "Hljóðaklettar",
-        testo: "Columnas de basalto crecidas en círculo, que desde arriba parecen una flor de piedra, cerca de Ásbyrgi. Un paseo corto, el más bonito de la zona para quien ama la geología.",
-        come: "A pocos kilómetros de Ásbyrgi; sendero bien señalizado.",
-        quando: "Verano.",
-        tempo: "1 hora",
-        consiglio: "Fácil de combinar con Ásbyrgi por la mañana."
-      }
     ],
     attenzioni: [
       "La zona es remota: repostar y hacer la compra en Húsavík o Akureyri.",
@@ -544,7 +536,7 @@ export const destinazioniIslanda: Destinazione[] = [
     luoghi: [
       {
         nome: "Avistamiento de ballenas desde Húsavík",
-        testo: "La bahía de Skjálfandi es de los mejores lugares de Europa para ver yubartas y ballenas azules en verano. Los tours salen del puerto de Húsavík y duran unas 3 horas.",
+        testo: "La bahía de Skjálfandi es uno de los lugares más conocidos de Islandia para ver ballenas: en verano se ven a menudo yubartas. Los tours salen del puerto de Húsavík y duran unas 3 horas.",
         come: "Se reserva online con el operador; barcos tradicionales o rápidos.",
         quando: "Salidas diarias de marzo a noviembre; junio-agosto es la mejor época. Temprano por la mañana para el mar en calma.",
         tempo: "3 horas",
@@ -570,20 +562,20 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Grjótagjá",
-        testo: "Una cueva de lava con una fuente caliente, conocida por una escena de Juego de Tronos. Hoy no se puede nadar porque la temperatura es demasiado variable.",
+        testo: "Una pequeña cueva de lava con un manantial caliente, conocida por una escena de Juego de Tronos.",
         come: "Pequeño aparcamiento y pocos pasos.",
         quando: "A cualquier hora.",
         tempo: "20 minutos",
         costo: "entrada libre",
-        consiglio: "Se puede mirar, no bañarse."
+        consiglio: "Respetar los carteles del lugar: el agua puede estar muy caliente."
       },
       {
         nome: "Ciudad de Akureyri",
         testo: "La mayor localidad fuera de la región de la capital, al fondo de un largo fiordo y a unos 100 km del Círculo Polar Ártico, con la iglesia Akureyrarkirkja, el jardín botánico y una bonita vista de las montañas.",
-        come: "A pie desde el centro; el jardín botánico Lystigarðurinn está en Spítalavegur.",
+        come: "A pie desde el centro, también el jardín botánico Lystigarðurinn.",
         quando: "De día; por la tarde para las cafeterías.",
         tempo: "2-3 horas",
-        consiglio: "Hacer aquí la compra: los supermercados están mejor surtidos y son más baratos que en el resto del Norte."
+        consiglio: "Hacer la compra aquí: los supermercados están mejor surtidos que en los pueblos del norte."
       }
     ],
     sapori: [
@@ -593,7 +585,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Helado de leche islandesa",
-        testo: "En Islandia los helados se hacen con leche y se comen todo el año, incluso con frío: probar el de la granja Efstidalur o el de los cafés del centro."
+        testo: "En Islandia el helado se come todo el año, incluso con frío: probarlo en los bares y heladerías del centro."
       }
     ],
     attenzioni: [
@@ -641,7 +633,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Arnarstapi y Hellnar",
-        testo: "Dos antiguos pueblos de pescadores en la costa sur de Snæfellsnes, unidos por un sendero de 2,5 km entre acantilados, arcos de basalto y nidos de aves marinas.",
+        testo: "Dos antiguos pueblos pesqueros en la costa sur de Snæfellsnes, unidos por un sendero costero entre acantilados, arcos de basalto y nidos de aves marinas.",
         come: "Aparcamiento en los dos pueblos; el sendero se hace a pie.",
         quando: "Verano.",
         tempo: "1-2 horas",
@@ -649,23 +641,23 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Djúpalónssandur",
-        testo: "Playa de guijarros negros con restos de un naufragio y piedras de prueba de los pescadores. El sendero baja entre la lava.",
-        come: "Pequeño aparcamiento en la Route 574; bajada corta.",
+        testo: "Playa de guijarros negros con restos de un naufragio, a la que se llega por un sendero corto entre la lava.",
+        come: "Pequeño aparcamiento y bajada corta a pie.",
         quando: "Mañana o tarde.",
         tempo: "1 hora",
-        consiglio: "No tocar los hierros oxidados del naufragio: siguen siendo peligrosos."
+        consiglio: "Las olas son fuertes: no acercarse demasiado al agua."
       },
       {
         nome: "Guðrúnarlaug",
         testo: "Una poza termal reconstruida en Laugar, en el valle de Sælingsdalur, en el lugar que describe la saga de Laxdæla: lleva el nombre de la protagonista Guðrún Ósvífursdóttir. Todavía es poco frecuentada.",
-        come: "Poco después de la Route 60.",
+        come: "En coche, en el valle de Sælingsdalur.",
         quando: "Tarde.",
         tempo: "1 hora",
         consiglio: "Vestuario básico: llevar toalla y chancletas."
       }
     ],
     attenzioni: [
-      "El tramo Akureyri-Snæfellsnes es la jornada más larga de conducción: 6-7 horas con paradas.",
+      "El tramo Akureyri-Snæfellsnes es uno de los días de conducción más largos del viaje: salir temprano.",
       "Las pozas termales naturales suelen estar sin vestuarios: respetar las normas y dejar todo limpio."
     ],
     esperienzeSlugs: [],
@@ -719,7 +711,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Perlan y museo Wonders of Iceland",
-        testo: "Un edificio con cúpula de cristal sobre seis depósitos de agua caliente, con una cueva de hielo artificial, un planetario y una terraza panorámica.",
+        testo: "Un edificio con cúpula de cristal sobre los depósitos de agua caliente de la ciudad, con una cueva de hielo artificial, un planetario y una terraza panorámica.",
         come: "Fuera del centro, en bus o coche; cómodo en un día de lluvia.",
         quando: "Exposiciones abiertas todos los días de 9 a 21; ideal en días de mal tiempo.",
         tempo: "2-3 horas",
@@ -736,7 +728,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Kolaportið",
-        testo: "Mercado cubierto de pulgas cerca del puerto, sábados y domingos: segunda mano, libros, souvenirs y un puesto de pescado seco, la comida islandesa más auténtica.",
+        testo: "Mercadillo cubierto cerca del puerto, los sábados y domingos: segunda mano, libros, recuerdos y un puesto de pescado seco y otras comidas tradicionales.",
         come: "A pie desde el centro, junto al puerto viejo.",
         quando: "Sábado y domingo, todo el año; horarios en la web oficial.",
         tempo: "1 hora",
@@ -745,7 +737,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Piscinas termales públicas",
-        testo: "Las piscinas geotérmicas forman parte de la vida social local: Sundhöllin en el centro, Laugardalslaug la más grande, Vesturbæjarlaug a pocos pasos del mar.",
+        testo: "Las piscinas geotérmicas forman parte de la vida social local: Sundhöllin en el centro, Laugardalslaug en el parque de Laugardalur, Vesturbæjarlaug cerca del mar.",
         come: "En bus o a pie; entrada de pago, ducha desnudo obligatoria antes de entrar.",
         quando: "Tarde, cuando se reúnen los locales.",
         tempo: "2 horas",
@@ -780,7 +772,7 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "Laugardalur",
         perChi: "Quien busca tranquilidad y precios más bajos",
-        testo: "Cerca de las piscinas y del albergue HI; a 20 minutos a pie del centro, con el bus."
+        testo: "Cerca de las piscinas y del parque; más lejos del centro, con autobuses."
       },
       {
         nome: "Cerca del puerto",
@@ -790,8 +782,8 @@ export const destinazioniIslanda: Destinazione[] = [
     ],
     sapori: [
       {
-        nome: "Bæjarins Beztu Pylsur",
-        testo: "El quiosco de hot dogs más famoso de la ciudad, cerca del puerto, abierto desde hace décadas."
+        nome: "Perrito caliente (pylsur)",
+        testo: "La comida callejera más común: salchicha con cebolla cruda y frita y salsas, en los quioscos del centro."
       },
       {
         nome: "Skyr y pasteles",
@@ -808,7 +800,7 @@ export const destinazioniIslanda: Destinazione[] = [
     ],
     attenzioni: [
       "Precios altos: comer sopa o un hot dog al mediodía y cenar en bares con plato del día para ahorrar.",
-      "Los taxistas son honestos, pero los taxis son caros: mejor bus o coche.",
+      "Los taxis son caros: mejor autobús o coche.",
       "En los locales del centro el sábado por la noche el alcohol es caro: revisar la cuenta."
     ],
     esperienzeSlugs: [],

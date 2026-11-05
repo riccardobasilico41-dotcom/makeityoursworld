@@ -42,14 +42,14 @@ export const destinazioniGuatemala: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Arco de Santa Catalina",
-          "testo": "The yellow Baroque arch of 1693 on 5a Avenida Norte, built so the cloistered nuns of the Santa Catalina convent could pass between buildings without going into the street. With the Agua volcano behind it, it is the city's signature photo.",
+          "testo": "The yellow Baroque arch of 1693, built so the cloistered nuns of the Santa Catalina convent could pass between buildings without going into the street. With the Agua volcano behind it, it is the city's signature photo.",
           "come": "On foot from the main square, a few minutes. Free, it is a street.",
           "quando": "Early morning, without crowds and with a clear volcano.",
           "tempo": "15 minutes"
         },
         {
           "nome": "Convento de Santa Clara and La Merced",
-          "testo": "Colonial churches and convents ruined by the 1773 earthquakes, after which the capital was moved. Antigua has been a UNESCO site since 1979 for this ensemble.",
+          "testo": "Colonial churches and convents ruined by the 18th-century earthquakes, after which the capital was moved. Antigua has been a UNESCO site since 1979 for this ensemble.",
           "come": "On foot in the centre. The Santa Clara ruins have an entry ticket; La Merced is a church still in use.",
           "quando": "Morning; afternoon light is good on the façade of La Merced.",
           "tempo": "2-3 hours for both",
@@ -58,10 +58,10 @@ export const destinazioniGuatemala: Destinazione[] = [
         {
           "nome": "Cerro de la Cruz",
           "testo": "A hill viewpoint with the city in the foreground and the volcanoes Agua, Fuego and Acatenango behind. Reached by a short climb.",
-          "come": "On foot from the centre with a short climb, but better in a group or with the tourist police, who are present in the area.",
+          "come": "On foot from the centre with a short climb, better in a group and by day.",
           "quando": "Early morning or late afternoon.",
           "tempo": "1 hour",
-          "consiglio": "Do not go up alone and do not carry valuables: the area has had safety problems in the past."
+          "consiglio": "Do not go up alone and do not carry valuables."
         },
         {
           "nome": "Acatenango volcano",
@@ -79,7 +79,7 @@ export const destinazioniGuatemala: Destinazione[] = [
             "Morning: Arco de Santa Catalina and the ruins of La Merced",
             "Municipal market and lunch",
             "Afternoon: Convento de Santa Clara",
-            "Sunset at Cerro de la Cruz, with the tourist police"
+            "Sunset at Cerro de la Cruz, in a group"
           ]
         },
         {
@@ -105,9 +105,9 @@ export const destinazioniGuatemala: Destinazione[] = [
           "testo": "Cobbled streets, everything close, but noise at weekends and higher prices."
         },
         {
-          "nome": "Areas above 5ª Calle and around the convents",
+          "nome": "Areas on the edge of the historic centre",
           "perChi": "those who want more quiet",
-          "testo": "Quieter at night; a 10-15 minute walk to the centre."
+          "testo": "Quieter at night, a short walk from the centre."
         }
       ],
       "sapori": [
@@ -129,7 +129,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         }
       ],
       "attenzioni": [
-        "Climb to Cerro de la Cruz: better in a group or with the tourist police.",
+        "Climb to Cerro de la Cruz: better in a group and by day.",
         "For Acatenango choose serious operators: the UK Foreign Office warns that local organisers tend to underestimate the risks, that deaths have occurred and that there is no mountain rescue service.",
         "Fuego is active: before going check the CONRED and INSIVUMEH bulletins and always follow the guide."
       ],
@@ -181,7 +181,7 @@ export const destinazioniGuatemala: Destinazione[] = [
       "luoghi": [
         {
           "nome": "San Juan la Laguna",
-          "testo": "The best-kept village on the lake, with women's weaving cooperatives, murals on the façades and art studios.",
+          "testo": "A well-kept village, with women's weaving cooperatives, murals on the façades and art studios.",
           "come": "By public lancha from Panajachel or San Pedro, then a walk through the lanes.",
           "quando": "Morning, when the cooperatives are open.",
           "tempo": "2-3 hours",
@@ -196,7 +196,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         },
         {
           "nome": "Santiago Atitlán",
-          "testo": "The largest town on the lake, Tz'utujil and very traditional, where some women still wear the tocoyal wrapped around their heads and Maximón, a syncretic figure, is venerated.",
+          "testo": "A large Tz'utujil town and very traditional, where some women still wear the tocoyal wrapped around their heads and Maximón, a syncretic figure, is venerated.",
           "come": "By public lancha from Panajachel.",
           "quando": "Morning.",
           "tempo": "Half a day",
@@ -204,7 +204,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         },
         {
           "nome": "Indian Nose (Rostro Maya)",
-          "testo": "A viewpoint above San Juan la Laguna, for sunrise over the lake and the Atitlán, Tolimán and San Pedro volcanoes. The top is a narrow meadow among the trees: you arrive in the dark and watch the light come up over the lake.",
+          "testo": "A viewpoint above San Juan la Laguna, for sunrise over the lake and the Atitlán, Tolimán and San Pedro volcanoes.",
           "come": "Wake-up before dawn, transfer and a walk in the dark with a guide.",
           "quando": "Sunrise, with clear sky.",
           "tempo": "Half a morning",
@@ -259,7 +259,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         },
         {
           "nome": "Lake fish",
-          "testo": "Fried tilapia and black bass, on the shore at Panajachel and Santiago."
+          "testo": "Fried fish, often farmed tilapia, in the comedores on the lakeshore."
         },
         {
           "nome": "Tortillas and frijoles",
@@ -354,7 +354,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         },
         {
           "nome": "Yaxhá",
-          "testo": "Guatemala's third-largest Maya site, after Tikal and El Mirador, on the north shore of Lake Yaxhá, about 30 km from Tikal. Less visited, with the sunset over the lake seen from the top of a pyramid.",
+          "testo": "Guatemala's third-largest Maya site, after Tikal and El Mirador, on the north shore of Lake Yaxhá. Less visited, with the sunset over the lake seen from the top of a pyramid.",
           "come": "Tour from Flores or taxi; it is a large site, inside Yaxhá-Nakum-Naranjo National Park.",
           "quando": "Late afternoon.",
           "tempo": "Half a day",
@@ -482,14 +482,6 @@ export const destinazioniGuatemala: Destinazione[] = [
           "consiglio": "Shoes with grip and water: the climb is hard, but without the view from above you lose the sense of the place."
         },
         {
-          "nome": "K'anba caves",
-          "testo": "A cave with flooded corridors to walk with a candle in hand and some stretches swum in the dark. The least touristy thing in the area.",
-          "come": "With a guide, a short way from the natural monument's entrance.",
-          "quando": "After visiting the pools, in the afternoon.",
-          "tempo": "1-1.5 hours",
-          "consiglio": "If you are claustrophobic skip them: passages are tight and dark."
-        },
-        {
           "nome": "Lanquín",
           "testo": "The Q'eqchi' village that serves as the base for Semuc Champey, with hostels and few services.",
           "come": "From Cobán or by shuttle from Antigua or Atitlán: it is a long day on the road.",
@@ -503,14 +495,14 @@ export const destinazioniGuatemala: Destinazione[] = [
           "tappe": [
             "Morning: pools and Mirador",
             "Lunch",
-            "Afternoon: K'anba caves"
+            "Afternoon: back to Lanquín"
           ]
         },
         {
           "titolo": "2 days",
           "tappe": [
             "Day 1: arrive in Lanquín, stop at the park entrance",
-            "Day 2: pools, Mirador, caves; shuttle back the following day"
+            "Day 2: pools and Mirador; shuttle back the following day"
           ]
         }
       ],
@@ -518,7 +510,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         {
           "nome": "Lanquín",
           "perChi": "everyone",
-          "testo": "The base town: few places to stay, simple hostels and guesthouses, limited electricity and connection."
+          "testo": "The base town: few places to stay, simple hostels and guesthouses, limited services."
         },
         {
           "nome": "Around the Cahabón river",
@@ -599,7 +591,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         },
         {
           "nome": "Church of Santo Tomás",
-          "testo": "A church about four centuries old on the main square, built on a pre-Columbian platform. On its 20 steps, said to represent the months of the Maya calendar, K'iche' priests burn incense and candles. A real ritual, not a show.",
+          "testo": "A colonial church on the main square, built on a pre-Columbian platform. On its 20 steps, said to represent the months of the Maya calendar, K'iche' priests burn incense and candles. A real ritual, not a show.",
           "come": "On foot from the square. You can watch from the steps, but the interior has its own rules.",
           "quando": "Market days.",
           "tempo": "1 hour",

@@ -61,7 +61,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Cable cars y Fisherman's Wharf",
         testo: "Los históricos tranvías de cable de la ciudad, con la línea Powell-Hyde que sube a las colinas y baja hacia el puerto. Fisherman's Wharf es la zona turística del puerto, con los puestos de pescado, el Pier 39 y los leones marinos.",
-        come: "Los cable cars salen de Powell Street, cerca de Union Square. La entrada se compra con la app MuniMobile o en las cabeceras.",
+        come: "Los cable cars salen de Powell Street, cerca de Union Square. Billetes y tarifas en la web oficial de Muni.",
         quando: "En horas punta hay cola: mejor a primera hora de la mañana.",
         tempo: "2-3 horas",
         url: "https://www.sfmta.com/getting-around/muni/cable-cars",
@@ -69,7 +69,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         nome: "Muir Woods",
-        testo: "Un bosque de secuoyas costeras, protegido como National Monument, a unos 19 km al norte de San Francisco, al otro lado del Golden Gate. Los senderos pasan bajo árboles de hasta 79 metros.",
+        testo: "Un bosque de secuoyas costeras, protegido como National Monument, al norte de San Francisco, al otro lado del Golden Gate. Los senderos pasan bajo árboles de hasta 79 metros.",
         come: "Hay que reservar con antelación el aparcamiento o la lanzadera en la web del National Park Service. El sendero principal es llano.",
         quando: "A primera hora, para evitar grupos y niebla.",
         tempo: "1,5-2 horas",
@@ -103,8 +103,8 @@ export const destinazioniCalifornia: Destinazione[] = [
     sapori: [
       { nome: "Burrito de la Mission", testo: "Burrito grande con arroz y frijoles, nacido en el barrio de la Mission." },
       { nome: "Clam chowder en pan", testo: "Sopa de almejas servida en una hogaza de pan de masa madre, en Fisherman's Wharf." },
-      { nome: "Dim sum de Chinatown", testo: "Una de las comunidades chinas más antiguas de Estados Unidos." },
-      { nome: "Ferry Building", testo: "Mercado de productos locales, el sábado por la mañana está más animado." },
+      { nome: "Dim sum de Chinatown", testo: "Pequeños platos chinos al vapor o fritos, en los locales de Chinatown." },
+      { nome: "Ferry Building", testo: "Mercado cubierto de productos locales, junto al puerto." },
     ],
     attenzioni: [
       "No dejes nada a la vista en el coche: las ventanillas rotas son muy frecuentes, incluso a plena luz del día.",
@@ -172,7 +172,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Glacier Point",
         testo: "Un mirador a 975 metros sobre el valle, con vista frontal del Half Dome y de las cascadas Nevada y Vernal.",
-        come: "En coche por la Glacier Point Road, a una hora del valle. La carretera suele abrir en mayo (en 2026 el 9 de mayo) y cierra con la nieve en otoño. También puede cerrar por incendios, como pasó a finales de septiembre de 2026.",
+        come: "En coche por la Glacier Point Road, desde el valle. La carretera suele abrir en mayo (en 2026 el 9 de mayo) y cierra con la nieve en otoño. También puede cerrar por incendios, como pasó a finales de septiembre de 2026.",
         quando: "Al atardecer o a primera hora; en verano está muy lleno.",
         tempo: "1,5-2 horas",
         url: "https://www.nps.gov/yose/",
@@ -181,7 +181,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Mariposa Grove",
         testo: "El bosque de secuoyas gigantes en la parte sur del parque, con más de 500 secuoyas adultas y el Grizzly Giant, que según el National Park Service tiene unos 3.000 años.",
-        come: "Se deja el coche en el Welcome Plaza junto a la entrada sur (unas 300 plazas, a menudo llenas a media mañana) y se sube en la lanzadera gratuita, que en 2026 funciona del 3 de mayo al 30 de noviembre, cada 15 minutos aproximadamente. Sin lanzadera se sube a pie, unos 3 km por trayecto y 150 metros de desnivel. Los senderos son casi llanos.",
+        come: "Se deja el coche en el Welcome Plaza junto a la entrada sur (unas 300 plazas, a menudo llenas a media mañana) y se sube en la lanzadera gratuita, que en 2026 funciona del 3 de mayo al 30 de noviembre. Sin lanzadera se sube a pie, unos 3 km por trayecto. Los senderos son casi llanos.",
         quando: "A primera hora, para evitar el calor.",
         tempo: "2-3 horas",
         url: "https://www.nps.gov/yose/",
@@ -202,14 +202,13 @@ export const destinazioniCalifornia: Destinazione[] = [
     ],
     zone: [
       { nome: "Yosemite Valley", perChi: "Quien quiere dormir en el parque", testo: "Lodges y tiendas en el corazón del valle, que hay que reservar con muchos meses de antelación. Menos desplazamientos en coche." },
-      { nome: "Mariposa y El Portal", perChi: "Quien busca precios más bajos", testo: "A 30-60 minutos del parque, con moteles y B&B." },
+      { nome: "Mariposa y El Portal", perChi: "Quien busca precios más bajos", testo: "Fuera del parque, con moteles y B&B." },
       { nome: "Groveland y Oakhurst", perChi: "Quien llega desde el oeste o el sur", testo: "Más baratos, pero lejos del valle." },
     ],
     sapori: [
       { nome: "Cocina de los lodges", testo: "Restaurantes y cafés en el valle." },
       { nome: "Comida para llevar", testo: "Se compra en las tiendas de Yosemite Village, lejos de los cubos abiertos." },
       { nome: "Productos californianos", testo: "Fruta y quesos en los pueblos cercanos." },
-      { nome: "Cervezas artesanales", testo: "Cervecerías de Mariposa y alrededores." },
     ],
     attenzioni: [
       "Los no residentes en EE. UU. de 16 años o más pagan 100 $ más por persona además de la entrada, salvo que tengan el pase anual para no residentes (NPS, 2026).",
@@ -303,15 +302,14 @@ export const destinazioniCalifornia: Destinazione[] = [
       ] },
     ],
     zone: [
-      { nome: "Dentro de los parques", perChi: "Quien quiere despertarse entre las secuoyas", testo: "Wuksachi Lodge y John Muir Lodge. Precios altos, que hay que reservar pronto." },
-      { nome: "Three Rivers", perChi: "Quien entra por el sur", testo: "Pueblo pequeño con moteles y restaurantes, a 15 minutos de la entrada." },
-      { nome: "Fresno y Visalia", perChi: "Quien busca más oferta", testo: "Ciudades mayores a 1-1,5 horas de los parques." },
+      { nome: "Dentro de los parques", perChi: "Quien quiere despertarse entre las secuoyas", testo: "Lodges dentro de los parques. Precios altos, que hay que reservar pronto." },
+      { nome: "Three Rivers", perChi: "Quien entra por el sur", testo: "Pueblo pequeño con moteles y restaurantes, cerca de la entrada sur." },
+      { nome: "Fresno y Visalia", perChi: "Quien busca más oferta", testo: "Ciudades mayores, más lejos de los parques." },
     ],
     sapori: [
       { nome: "Fruta del Central Valley", testo: "Cítricos y uva de los puestos junto a la carretera." },
       { nome: "Comida para llevar", testo: "Se compra en Three Rivers antes de subir." },
       { nome: "Cocina mexicana", testo: "Locales de Visalia y Fresno." },
-      { nome: "Cervezas locales", testo: "Cervecerías de Three Rivers." },
     ],
     attenzioni: [
       "Los no residentes en EE. UU. de 16 años o más pagan 100 $ más además de la entrada, salvo pase anual para no residentes (NPS, 2026).",
@@ -358,8 +356,8 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Zabriskie Point",
         testo: "Un mirador sobre colinas de barro amarillo y dorado, esculpidas por la erosión. Al amanecer la luz rosa da el mejor color.",
-        come: "En coche, a unos 10 minutos de Furnace Creek. El paseo es corto.",
-        quando: "Al amanecer; es uno de los puntos más fotografiados del parque.",
+        come: "En coche, cerca de Furnace Creek. El paseo es corto.",
+        quando: "Al amanecer.",
         tempo: "30-45 minutos",
         costo: "Entrada al parque 30 $ por coche, válida 7 días (NPS, 2026)",
         url: "https://www.nps.gov/deva/",
@@ -368,7 +366,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Badwater Basin",
         testo: "El punto más bajo de Norteamérica, a 86 metros bajo el nivel del mar, con una extensión de sal blanca.",
-        come: "En coche desde Furnace Creek, unos 30 minutos. Se camina sobre las salinas.",
+        come: "En coche desde Furnace Creek. Se camina sobre las salinas.",
         quando: "A primera hora o después del atardecer; en verano el calor es extremo.",
         tempo: "45 minutos",
         url: "https://www.nps.gov/deva/",
@@ -385,7 +383,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         nome: "Artists Drive y Artist's Palette",
-        testo: "Una carretera panorámica de sentido único entre colinas de colores distintos, debidos a los minerales. Artist's Palette es el punto más colorido.",
+        testo: "Una carretera panorámica entre colinas de colores distintos, debidos a los minerales. Artist's Palette es el punto más colorido.",
         come: "En coche desde Furnace Creek, con parada en Artist's Palette.",
         quando: "Por la tarde, con luz rasante.",
         tempo: "1 hora",
@@ -416,9 +414,9 @@ export const destinazioniCalifornia: Destinazione[] = [
       ] },
     ],
     zone: [
-      { nome: "Furnace Creek", perChi: "Quien quiere dormir en el centro del parque", testo: "The Oasis at Death Valley: cómodo pero caro." },
+      { nome: "Furnace Creek", perChi: "Quien quiere dormir en el centro del parque", testo: "Hoteles y resorts en el centro del parque: cómodos pero caros." },
       { nome: "Stovepipe Wells", perChi: "Quien busca precios bajos", testo: "Motel sencillo cerca de las dunas." },
-      { nome: "Beatty y Lone Pine", perChi: "Quien duerme fuera del parque", testo: "A una hora en coche, más baratos." },
+      { nome: "Beatty y Lone Pine", perChi: "Quien duerme fuera del parque", testo: "Fuera del parque, más baratos." },
     ],
     sapori: [
       { nome: "Cocina americana de los lodges", testo: "Restaurantes de Furnace Creek y Stovepipe Wells." },
@@ -427,7 +425,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       { nome: "Agua", testo: "Lleva mucha agua: en el parque cuesta mucho." },
     ],
     attenzioni: [
-      "Caminar en verano después de las 10 de la mañana es peligroso: el calor mata cada año.",
+      "Caminar en verano en las horas de calor es peligroso: el calor mata cada año.",
       "Llena el depósito antes de entrar: en el parque las gasolineras son pocas y caras.",
       "No sigas el navegador por caminos de tierra: muchos requieren un 4x4.",
       "Entrada: 30 $ por coche durante 7 días (NPS), igual para los no residentes.",
@@ -466,7 +464,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Hidden Valley",
         testo: "Un circuito de unos 1,6 km entre grandes rocas, donde según la leyenda se escondían los ladrones de ganado. Se ven muchos árboles de Josué y a menudo escaladores en las rocas.",
-        come: "En coche desde la West Entrance, unos 30 minutos. El sendero es fácil.",
+        come: "En coche desde la West Entrance. El sendero es fácil.",
         quando: "Mañana o tarde; en verano hace demasiado calor.",
         tempo: "1 hora",
         costo: "Entrada al parque 30 $ por coche, válida 7 días (NPS, 2026)",
@@ -484,7 +482,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         nome: "Keys View",
-        testo: "Un mirador en altura sobre el valle de Coachella, con la falla de San Andrés y las montañas de San Jacinto. En días claros se ve Palm Springs.",
+        testo: "Un mirador en altura sobre el valle de Coachella. En días claros la vista llega lejos.",
         come: "En coche, al final de la Keys View Road. El aparcamiento está a pocos pasos del mirador.",
         quando: "El atardecer, con aire limpio.",
         tempo: "30 minutos",
@@ -493,7 +491,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         nome: "Palm Springs Aerial Tramway",
-        testo: "El teleférico que sube de Palm Springs por el monte San Jacinto, de la Valley Station (806 m) a la Mountain Station (2.596 m), casi 1.800 metros de desnivel. El suelo de la cabina gira durante el trayecto de unos 10 minutos. La cima de verdad está más arriba y solo se alcanza a pie.",
+        testo: "El teleférico que sube de Palm Springs por el monte San Jacinto, de la Valley Station (806 m) a la Mountain Station (2.596 m), casi 1.800 metros de desnivel. El suelo de la cabina gira durante el trayecto. La cima de verdad está más arriba y solo se alcanza a pie.",
         come: "Desde la Valley Station en Tramway Road, en Palm Springs. La entrada se compra online.",
         quando: "Por la mañana, con menos cola. Arriba hace frío: lleva una chaqueta. Cada año cierra por mantenimiento entre septiembre y principios de octubre (en 2026 del 8 de septiembre al 4 de octubre).",
         tempo: "3-4 horas",
@@ -515,7 +513,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     ],
     zone: [
       { nome: "Joshua Tree y Twentynine Palms", perChi: "Quien quiere dormir cerca del parque", testo: "Moteles y casas en el desierto, con cielo oscuro." },
-      { nome: "Yucca Valley", perChi: "Quien busca más servicios", testo: "Supermercados y restaurantes, a 20 minutos de la entrada." },
+      { nome: "Yucca Valley", perChi: "Quien busca más servicios", testo: "Supermercados y restaurantes, cerca del parque." },
       { nome: "Palm Springs", perChi: "Quien quiere piscina y hoteles", testo: "Hoteles modernos y piscinas, más lejos del parque." },
     ],
     sapori: [
@@ -527,7 +525,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     attenzioni: [
       "No te salgas de los senderos entre las rocas sin agua y sin cobertura.",
       "No toques los cholla: las espinas se pegan a la piel.",
-      "En verano se superan los 40 °C: evita las horas centrales.",
+      "En verano el calor es extremo: evita las horas centrales.",
       "Entrada: 30 $ por coche durante 7 días (NPS), igual para los no residentes.",
     ],
     esperienzeSlugs: [],
@@ -575,7 +573,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Getty Center",
         testo: "Un museo de arte con arquitectura moderna en una colina sobre Los Ángeles, con jardines y vista de la ciudad.",
-        come: "El aparcamiento está bajo el complejo y se sube en tranvía. La entrada es gratuita, el aparcamiento de pago.",
+        come: "En coche, con aparcamiento de pago: acceso y tarifas en el sitio oficial. La entrada es gratuita.",
         quando: "Días y horarios de apertura en la web oficial. Por la tarde por la luz.",
         tempo: "3-4 horas",
         costo: "Entrada gratuita, aparcamiento de pago",
@@ -594,7 +592,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Warner Bros. Studio Tour",
         testo: "El tour de los estudios de cine de Burbank, con platós históricos y carritos eléctricos.",
-        come: "En coche a Burbank, a unos 30 minutos de Hollywood. La entrada se compra online.",
+        come: "En coche a Burbank, cerca de Hollywood. La entrada se compra online.",
         quando: "Por la mañana; los fines de semana está lleno.",
         tempo: "3 horas",
         costo: "Desde 79 $ (web oficial, 2026)",
@@ -621,7 +619,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     zone: [
       { nome: "Santa Monica", perChi: "Quien quiere el mar", testo: "Paseo junto al océano, restaurantes y bicis. Precios altos." },
       { nome: "West Hollywood", perChi: "Quien quiere el centro", testo: "Posición central y vida nocturna, más ruido." },
-      { nome: "Pasadena", perChi: "Quien busca calma", testo: "Más tranquila, a 25 minutos del centro." },
+      { nome: "Pasadena", perChi: "Quien busca calma", testo: "Más tranquila, pero fuera del centro." },
     ],
     sapori: [
       { nome: "Tacos de food truck", testo: "Cocina mexicana callejera, en toda la ciudad." },
@@ -630,7 +628,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       { nome: "Pescado en Malibu", testo: "Restaurantes frente al mar." },
     ],
     attenzioni: [
-      "El tráfico es denso entre las 7 y las 10 y entre las 15 y las 19: planifica los desplazamientos.",
+      "El tráfico es denso en las horas punta de la mañana y de la tarde: planifica los desplazamientos.",
       "No dejes objetos a la vista en el coche aparcado.",
       "No planifiques demasiadas zonas en un día: los tiempos en coche son largos.",
       "Mayo y junio son el periodo del «June Gloom», con cielo gris por la mañana.",
@@ -712,12 +710,12 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         nome: "Point Lobos y 17-Mile Drive",
-        testo: "Point Lobos es una reserva natural con senderos junto al mar, leones marinos y cipreses. La 17-Mile Drive es una carretera panorámica de peaje que atraviesa Pebble Beach.",
-        come: "En coche desde Carmel. Ambas tienen entrada de pago por coche.",
+        testo: "Point Lobos es una reserva natural con senderos junto al mar, leones marinos y cipreses. La 17-Mile Drive es una carretera panorámica que atraviesa Pebble Beach.",
+        come: "En coche desde Carmel. Entradas y peajes en los sitios oficiales.",
         quando: "Por la mañana para Point Lobos; por la tarde para la 17-Mile Drive.",
         tempo: "medio día",
         url: "https://www.parks.ca.gov/?page_id=571",
-        consiglio: "Llega pronto a Point Lobos: el aparcamiento tiene pocas plazas y cierra cuando está lleno.",
+        consiglio: "Llega pronto a Point Lobos: los días de más afluencia el aparcamiento se llena pronto.",
       },
     ],
     programmi: [

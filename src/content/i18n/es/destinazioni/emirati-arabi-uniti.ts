@@ -144,17 +144,17 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     luoghi: [
       {
         "nome": "Dubai Creek, abra y zocos de Deira",
-        "testo": "El viejo puerto comercial, aún activo, con barcos de madera cargados de mercancías para Irán y la India. El abra, el ferri de madera, cruza el creek por un dírham y desembarca en el zoco de las especias y en el del oro.",
-        "come": "Metro, línea verde, hasta Al Ras o Al Ghubaiba, luego a pie a los embarcaderos de las abra.",
+        "testo": "El viejo puerto comercial, aún activo, con barcos de madera cargados de mercancías. El abra, el ferri de madera, cruza el creek y desembarca cerca del zoco de las especias y del oro.",
+        "come": "Metro hasta Al Ras o Al Ghubaiba, luego a pie a los embarcaderos de las abra.",
         "quando": "Mañana o última hora de la tarde, menos calor.",
         "tempo": "2-3 horas",
-        "costo": "Abra 1 dírham, se paga al barquero",
+        "costo": "El cruce en abra es barato, se paga a bordo",
         "consiglio": "Sentarse en el abra entre quienes van al trabajo: es la parte de Dubái que nadie busca."
       },
       {
         "nome": "Al Fahidi",
-        "testo": "El barrio histórico construido desde finales del siglo XIX por comerciantes llegados de Persia, con torres de viento y callejones estrechos, restaurado desde 2005. Se entiende cómo era Dubái antes del petróleo. Hay pequeños museos, como el del café, y cafés en los patios.",
-        "come": "Metro, línea verde, hasta Sharaf DG o Al Ghubaiba, luego a pie.",
+        "testo": "El barrio histórico construido desde finales del siglo XIX por mercaderes llegados de Persia, con torres de viento y callejones estrechos, hoy restaurado. Se entiende cómo era Dubái antes del petróleo. Hay pequeños museos, como el del café, y cafés en los patios.",
+        "come": "Metro hasta Sharaf DG o Al Ghubaiba, luego a pie.",
         "quando": "Mañana, antes del calor.",
         "tempo": "1-2 horas",
         "consiglio": "Combina bien con el recorrido del creek en la misma mañana."
@@ -162,7 +162,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       {
         "nome": "Burj Khalifa",
         "testo": "El rascacielos más alto del mundo, 828 metros. Las terrazas At the Top en las plantas 124-125 y At the Top Sky en la 148 dan vistas a la ciudad y al desierto.",
-        "come": "Metro, línea roja, hasta Burj Khalifa/Dubai Mall. Entrada con franja horaria, mejor online.",
+        "come": "Metro hasta Burj Khalifa/Dubai Mall. Entrada con franja horaria, mejor online.",
         "quando": "Atardecer, la franja más solicitada: reservarla con antelación.",
         "tempo": "1-1,5 horas",
         "url": "https://www.burjkhalifa.ae/",
@@ -170,7 +170,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       },
       {
         "nome": "Safari por el desierto",
-        "testo": "Una tarde en 4x4 por las dunas, con atardecer, cena en campamento de tiendas y noche bajo las estrellas. Es la experiencia de «desierto» más vendida alrededor de Dubái.",
+        "testo": "Una tarde en 4x4 por las dunas, con atardecer, cena en un campamento y noche bajo las estrellas. Es una de las experiencias de «desierto» más vendidas alrededor de Dubái.",
         "come": "Operadores con recogida en el hotel. Las dunas de los safaris de tarde están a poca distancia de la ciudad.",
         "quando": "Tarde y noche, en los meses frescos.",
         "tempo": "5-6 horas",
@@ -179,7 +179,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       {
         "nome": "Museo del Futuro",
         "testo": "El edificio en forma de anillo en Sheikh Zayed Road, revestido de 1.024 paneles de acero que forman una caligrafía árabe. Dentro, cinco plantas de exposiciones planteadas como un viaje a 2071: una estación espacial, una planta sobre la naturaleza, otra sobre el bienestar. Vale sobre todo por la arquitectura, que se fotografía desde fuera sin entrar.",
-        "come": "Metro, línea roja, hasta Emirates Towers.",
+        "come": "Metro hasta Emirates Towers.",
         "quando": "En noviembre de 2026 el museo está cerrado temporalmente por un nuevo montaje: consultar la web oficial antes de ir. Por la noche la caligrafía iluminada queda mejor en las fotos.",
         "tempo": "1,5-2 horas",
         "url": "https://museumofthefuture.ae/",
@@ -329,26 +329,18 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       },
       {
         "nome": "Qasr Al Watan",
-        "testo": "El palacio presidencial, abierto al público desde 2019. Se visitan el Gran Salón, bajo una cúpula de unos 37 metros, la sala donde se reúne el gobierno y la House of Knowledge con los regalos de jefes de Estado.",
+        "testo": "El palacio presidencial, abierto al público desde 2019. Se visitan el Gran Salón bajo la cúpula central, la sala donde se reúne el gobierno y la House of Knowledge con los regalos recibidos de jefes de Estado.",
         "come": "Taxi o Uber.",
         "quando": "Mañana. Horarios y entradas en la web oficial.",
         "tempo": "1,5-2 horas",
         "url": "https://www.qasralwatan.ae/"
       },
       {
-        "nome": "Mercado de pescado de Al Mina",
-        "testo": "El mercado del puerto: se elige el pescado en el puesto y se lleva a los restaurantes de al lado, que lo cocinan por un precio.",
-        "come": "Taxi desde el centro.",
-        "quando": "A primera hora o última de la tarde.",
-        "tempo": "1 hora"
-      },
-      {
-        "nome": "Corniche y Heritage Village",
-        "testo": "Ocho kilómetros de paseo marítimo con playa pública, carriles separados para bicis y peatones y vistas a los rascacielos. En el rompeolas, el Heritage Village recrea un pueblo de antes del petróleo, con talleres de artesanos y vistas a la ciudad.",
-        "come": "Taxi hasta la Corniche, luego a pie o en bici. El Heritage Village está en el rompeolas, hacia el Marina Mall.",
+        "nome": "Corniche",
+        "testo": "Un largo paseo marítimo con playa pública, carriles para bicis y peatones y vistas a los rascacielos.",
+        "come": "Taxi hasta la Corniche, luego a pie o en bici.",
         "quando": "De última hora de la tarde al atardecer, cuando se ilumina el skyline.",
-        "tempo": "2 horas",
-        "costo": "Corniche de acceso libre; Heritage Village: condiciones en el lugar"
+        "tempo": "2 horas"
       }
     ],
     programmi: [
@@ -375,11 +367,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     sapori: [
       {
         "nome": "Cocina india y paquistaní",
-        "testo": "La mejor y más barata, en los barrios alrededor del centro."
-      },
-      {
-        "nome": "Pescado de Al Mina",
-        "testo": "Se elige en el mostrador y se cocina al lado."
+        "testo": "Buena y económica, en los barrios alrededor del centro."
       },
       {
         "nome": "Machboos",
@@ -394,7 +382,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       "Ropa inadecuada en la Gran Mezquita: leer las normas de vestimenta en la web oficial antes de ir.",
       "Visitar la mezquita a mediodía: el mármol deslumbra y se asa uno.",
       "Reservar el Louvre con antelación los fines de semana.",
-      "Principios de diciembre: el Gran Premio de Fórmula 1 de Abu Dabi (6 de diciembre de 2026) llena la ciudad y sube los precios de los hoteles.",
+      "Principios de diciembre: el Gran Premio de Fórmula 1 de Abu Dabi llena la ciudad y sube los precios de los hoteles.",
       "Tensiones en la región: los gobiernos europeos avisan de posibles cancelaciones de vuelos y cierres del espacio aéreo con poco aviso (gov.uk, octubre de 2026). Consultar las recomendaciones oficiales de viaje antes de salir."
     ],
     // GUIDA-END
@@ -450,8 +438,8 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     luoghi: [
       {
         "nome": "Dunas de Moreeb y Liwa",
-        "testo": "El borde del Rub al-Jali, el desierto de arena del sur de la península arábiga, con dunas de hasta 250 metros; en Moreeb, a unos 25 km al sur del oasis de Liwa, está una de las más altas. Aquí no hay safaris de tarde: hace falta una noche en el desierto.",
-        "come": "En coche o con tour desde Abu Dabi, unos 250 km; fuera de pista hace falta un 4x4 y experiencia.",
+        "testo": "El borde del Rub al-Jali, el desierto de arena del sur de la península arábiga, con dunas muy altas; Moreeb, al sur del oasis de Liwa, es una de las más conocidas. Aquí no hay safaris de tarde: hace falta una noche en el desierto.",
+        "come": "En coche o con excursión desde Abu Dabi; fuera de pista hace falta un 4x4 y experiencia.",
         "quando": "Amanecer y atardecer.",
         "tempo": "1-2 días",
         "consiglio": "No conducir por la arena sin experiencia y sin un segundo vehículo."
@@ -459,20 +447,20 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       {
         "nome": "Oasis de Al Ain",
         "testo": "Parte del patrimonio UNESCO de los Sitios culturales de Al Ain desde 2011: más de 147.000 palmeras datileras en más de 1.200 hectáreas, regadas por los canales falaj, un sistema de miles de años. Se camina a la sombra oyendo correr el agua.",
-        "come": "Al Ain está a una hora y media en coche de Abu Dabi. El oasis se recorre a pie.",
+        "come": "En coche desde Abu Dabi. El oasis se recorre a pie.",
         "quando": "Mañana.",
         "tempo": "2 horas"
       },
       {
         "nome": "Fuerte Al Jahili y sitios de Hili",
-        "testo": "El fuerte Al Jahili, construido hacia 1891 con sus torres de vigía, y el parque arqueológico de Hili, el mayor yacimiento de la Edad del Bronce de los Emiratos, con tumbas del III milenio a.C., parte del patrimonio UNESCO.",
+        "testo": "El fuerte Al Jahili, de finales del siglo XIX, con sus torres de vigilancia, y el parque arqueológico de Hili, uno de los principales yacimientos de la Edad del Bronce de los Emiratos, con tumbas del III milenio a. C., parte del patrimonio de la UNESCO.",
         "come": "En coche desde Al Ain.",
         "quando": "Mañana.",
         "tempo": "2 horas"
       },
       {
         "nome": "Jebel Hafeet",
-        "testo": "Una montaña de unos 1.240 metros que se eleva 900 metros sobre la llanura. La carretera, construida en 1980, hace 60 curvas en 11,7 km hasta el mirador de la cima, desde el que se ve Al Ain.",
+        "testo": "La montaña sobre Al Ain, con una carretera panorámica de curvas hasta el mirador de la cima, desde donde se ve la ciudad.",
         "come": "En coche desde Al Ain.",
         "quando": "Atardecer.",
         "tempo": "1-2 horas"

@@ -90,9 +90,9 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
     luoghi: [
       {
         nome: "Gyeongbokgung",
-        testo: "The main palace of the Joseon dynasty, built in 1395 and largely rebuilt after the Japanese occupation. In front of the Gwanghwamun gate there is a changing of the guard in costume.",
+        testo: "The main palace of the Joseon dynasty, built in 1395 and largely rebuilt after the Japanese occupation. During the day there is a changing of the guard in period costume.",
         come: "Metro line 3 to Gyeongbokgung. You visit on your own; anyone wearing a hanbok gets in free.",
-        quando: "Closed on Tuesdays (Changdeokgung and the other palaces close on Mondays); if the closing day is a public holiday, it closes on the next working day instead. Changing of the guard at 10:00 and 14:00 in front of Gwanghwamun gate.",
+        quando: "Closed on Tuesdays (Changdeokgung and the other palaces close on Mondays); if the closing day is a holiday, it closes on the first working day after. Changing of the guard at 10 am and 2 pm.",
         tempo: "2 hours",
         costo: "3,000 won adults; free for visitors wearing hanbok (2026)",
         url: "https://royal.khs.go.kr/",
@@ -110,7 +110,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       {
         nome: "Bukchon Hanok Village",
         testo: "A district of traditional Korean houses between Gyeongbokgung and Changdeokgung, still lived in. Uphill lanes with views over the rooftops and the modern city.",
-        come: "On foot from Anguk (line 3), about 10 minutes.",
+        come: "On foot from Anguk (line 3).",
         quando: "In the central part of the district tourists may enter only from 10:00 to 17:00, with fines of up to 100,000 won for breaking the curfew (since March 2025). Go at 10:00 on a weekday.",
         tempo: "1-1.5 hours",
         consiglio: "People live in this neighborhood: speak quietly.",
@@ -142,7 +142,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       },
       {
         nome: "Jjimjilbang",
-        testo: "The Korean sauna, open 24 hours, with baths, saunas and shared areas where you can also sleep.",
+        testo: "The Korean sauna, often open through the night, with baths, saunas and common areas where you can even sleep.",
         come: "Found in many parts of the city; you wear the uniform provided.",
         quando: "Evening or night.",
         tempo: "2-3 hours",
@@ -159,7 +159,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       { nome: "Seongsu / Itaewon", perChi: "For those who want a more grown-up pace", testo: "More refined venues." },
     ],
     sapori: [
-      { nome: "Banchan", testo: "Free side dishes that come with every meal and are refilled at no cost." },
+      { nome: "Banchan", testo: "Small side dishes that come with the meal, included in the price and often refilled when they run out." },
       { nome: "Korean barbecue", testo: "You turn the meat yourself on the grill set into the table." },
       { nome: "Gomtang and samgyetang", testo: "Beef soup and chicken soup with ginseng." },
       { nome: "Naengmyeon", testo: "Cold noodles, worth trying in summer." },
@@ -273,7 +273,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       {
         nome: "Imjingak",
         testo: "A memorial park a few kilometres from the demarcation line, just outside the controlled zone. Here are the Freedom Bridge, crossed by released prisoners of war at the end of the conflict, and the bullet-riddled locomotive recovered from the demilitarised zone, now a listed heritage item. On the fence Koreans tie ribbons with messages for relatives left in the North.",
-        come: "On a tour from Seoul (about an hour by coach) or by train on the Gyeongui line, with a short walk from the station.",
+        come: "On a tour from Seoul or by train on the Gyeongui line, with a short walk from the station.",
         quando: "Open all day; tours leave in the morning.",
         tempo: "45 minutes",
         costo: "Free entry to the park",
@@ -312,7 +312,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       { nome: "No need to stay overnight", perChi: "Day tour from Seoul", testo: "The whole visit is done on a tour from Seoul." },
     ],
     sapori: [
-      { nome: "Tofu and doenjang from the Jangdan area", testo: "Lunch is almost always included in the tour." },
+      { nome: "Tofu and doenjang from the Jangdan area", testo: "Jangdan soybeans, from the Paju area, are used for tofu and for doenjang, fermented soybean paste." },
     ],
     attenzioni: [
       "Forgetting your original passport: without it you cannot pass the checkpoint.",
@@ -371,13 +371,13 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
     luoghi: [
       {
         nome: "Seoraksan National Park",
-        testo: "Korea's most famous national park, a granite massif of ridges, valleys, waterfalls and temples. At the Seorak-dong entrance stands Sinheungsa temple, with a large bronze Buddha seated in the open. From here leave the cable car to Gwongeumseong and the trail to Ulsanbawi.",
+        testo: "One of Korea's best-known national parks, a granite massif of ridges, valleys, waterfalls and temples. At the Seorak-dong entrance is Sinheungsa temple, with a large bronze Buddha seated outdoors. From here leave the cable car to Gwongeumseong and the trail to Ulsanbawi.",
         come: "City bus from Sokcho to the Seorak-dong entrance, or taxi.",
         quando: "Spring and autumn; in mid-October the foliage draws huge crowds. At times in spring and autumn the high trails close to prevent fires.",
         tempo: "Full day",
         costo: "Free entry to the park; the temple fee was also abolished on 4 May 2023",
         url: "https://www.knps.or.kr/",
-        consiglio: "Avoid October weekends: the access road jams and cable car queues last hours.",
+        consiglio: "Avoid October weekends: the access road jams and the cable car queues are very long.",
       },
       {
         nome: "Gwongeumseong",
@@ -390,9 +390,9 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       {
         nome: "Ulsanbawi",
         testo: "A six-peaked granite ridge 873 metres high, reached by a long metal stairway up the rock face. From the top you see the sea at Sokcho and the Seorak ridges.",
-        come: "On foot from the Seorak-dong entrance, about 4 hours there and back.",
+        come: "On foot from the Seorak-dong entrance, there and back on the same trail.",
         quando: "Morning, in good weather; in strong wind the last section may be closed.",
-        tempo: "4 hours",
+        tempo: "Half a day",
         consiglio: "The descent is harder than the climb: mind your knees, wear proper shoes and carry water.",
       },
       {
@@ -494,7 +494,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       {
         nome: "Buyongdae",
         testo: "The cliff on the opposite bank of the Nakdong, from which you look down on the river's S-bend and the whole village, with its tiled and thatched roofs.",
-        come: "By boat from the village when the service is running, or by car round to the other bank.",
+        come: "By car or taxi, going round to the opposite bank of the river.",
         quando: "Afternoon.",
         tempo: "1 hour",
         consiglio: "From above you can read the village like a map: go up after walking round it, not before.",
@@ -511,7 +511,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       { nome: "Heotjesatbap", testo: "Ceremonial bibimbap without chili." },
     ],
     attenzioni: [
-      "Doing Hahoe as a day trip from Seoul: train plus bus take about three hours each way and you see everything in a rush.",
+      "Doing Hahoe as a day trip from Seoul: the journey is long and you see everything in a rush.",
       "Not checking the time of the last bus from Hahoe: evening departures are few.",
       "Treating the village as a museum: people live there and many houses are private.",
       "Walking into courtyards without the sign that opens them to visitors.",
@@ -587,7 +587,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       {
         nome: "Seokguram",
         testo: "An 8th-century artificial granite grotto high on Mount Toham, with a large seated Buddha facing the East Sea. It is one of the masterpieces of Korean Buddhist art; you view it from behind glass.",
-        come: "Bus 12 from Bulguksa (few departures) or taxi, then about 10 minutes on foot through the woods. Return buses leave on the hour.",
+        come: "Bus 12 from Bulguksa (few services) or taxi, then about 10 minutes on foot through the woods.",
         quando: "Early morning: on clear days you can watch the sunrise over the sea from the terrace.",
         tempo: "1 hour",
         costo: "Free since 2023",
@@ -596,10 +596,10 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       {
         nome: "Donggung Palace and Wolji Pond (Anapji)",
         testo: "The secondary palace of the Silla kings, with the artificial pond dug in 674. At night the rebuilt pavilions light up and are mirrored in the water: it is Gyeongju's postcard.",
-        come: "On foot or by bike from the centre, about twenty minutes from Daereungwon.",
+        come: "On foot or by bike from the centre and from Daereungwon.",
         quando: "After sunset, until late evening.",
         tempo: "1 hour",
-        consiglio: "Lit up, it is the most beautiful thing in the city.",
+        consiglio: "Lit up, it is one of the highlights of the visit.",
       },
       {
         nome: "Templestay",
@@ -689,19 +689,18 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       },
       {
         nome: "Jagalchi Market",
-        testo: "Korea's largest fish market, on the port of Nampo. On the ground floor the vendors, Jagalchi's famous ajumma, sell live fish, octopus and shellfish; you choose, pay and have it cooked at the restaurants upstairs.",
+        testo: "Busan's big fish market, on Nampo harbour. The sellers, Jagalchi's famous ajumma, offer live fish, octopus and shellfish; you choose, pay and can have it cooked in the market's restaurants.",
         come: "Metro line 1 to Jagalchi.",
         quando: "Morning, when the market is busiest, or at lunchtime.",
         tempo: "1.5 hours",
-        consiglio: "Ask the price per kilo before choosing, and how much the cooking upstairs costs, as it is paid separately.",
+        consiglio: "Ask the price per kilo before choosing, and how much the cooking costs, which is paid separately.",
       },
       {
         nome: "Haedong Yonggungsa",
         testo: "A Buddhist temple built on rocks above the sea in the east of the city, founded according to tradition in 1376. You go down a stairway among statues and lanterns to the pavilions by the water.",
-        come: "Donghae train to OSIRIA, then about 25-30 minutes on foot, or bus from Haeundae.",
+        come: "Donghae train to OSIRIA, then on foot, or bus from Haeundae.",
         quando: "At dawn or on weekdays; at weekends you walk in single file.",
         tempo: "1.5 hours",
-        costo: "Free",
         consiglio: "Go down to the lowest pavilion, beside the rocks: that is where you hear the sea. At dawn the light comes up from behind the water.",
       },
       {
@@ -726,10 +725,10 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
     ],
     zone: [
       { nome: "Haeundae", perChi: "For those who want the beach", testo: "A tourist area with hotels." },
-      { nome: "Seomyeon / Nampo", perChi: "For those who want the metro and nightlife", testo: "Central." },
+      { nome: "Seomyeon / Nampo", perChi: "For those who want the metro and nightlife", testo: "Central areas, well connected by metro, with shops and bars." },
     ],
     sapori: [
-      { nome: "Dwaeji gukbap", testo: "Pork soup with rice, born during the war." },
+      { nome: "Dwaeji gukbap", testo: "Pork soup served with rice, one of Busan's signature dishes." },
       { nome: "Milmyeon", testo: "Cold wheat-flour noodles." },
     ],
     attenzioni: [
@@ -786,7 +785,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
     luoghi: [
       {
         nome: "Hanok Village",
-        testo: "The largest district of traditional Korean houses still lived in, with more than eight hundred hanok under curved tiled roofs, grown up around the old city walls. The main street is full of shops, hanbok rentals and street food.",
+        testo: "One of the largest still-inhabited districts of traditional Korean houses, with more than eight hundred hanok with curved tiled roofs, grown up around the old city walls. The main street is full of shops, hanbok rentals and street food.",
         come: "KTX from Seoul to Jeonju, then bus or taxi.",
         quando: "A weekday.",
         tempo: "3 hours",
@@ -807,7 +806,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
         come: "At the entrance to the Hanok Village, on foot.",
         quando: "All day, outside mass times.",
         tempo: "30 minutes",
-        consiglio: "At sunset, with the light on the bricks, it is the best photo in the district.",
+        consiglio: "At sunset, with the light on the bricks, it is one of the best photos in the district.",
       },
       {
         nome: "Omokdae",
@@ -819,11 +818,10 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       },
       {
         nome: "Nambu Market",
-        testo: "The traditional market next to Pungnammun gate, where at breakfast you eat kongnamul gukbap, the bean-sprout soup that is Jeonju's morning dish. On Friday and Saturday evenings there is a night market with street-food stalls.",
-        come: "10 minutes on foot from the Hanok Village.",
-        quando: "Morning for the soup; Friday and Saturday evenings for the night market.",
+        testo: "The traditional market next to Pungnammun gate, where for breakfast people eat kongnamul gukbap, the bean sprout soup typical of Jeonju.",
+        come: "On foot from the hanok village.",
+        quando: "Morning, for the soup at breakfast.",
         tempo: "1 hour",
-        consiglio: "Upstairs is the Youth Mall, with small cafés and shops run by local young people.",
       },
     ],
     programmi: [
@@ -834,7 +832,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
     ],
     sapori: [
       { nome: "Jeonju bibimbap", testo: "Rice cooked in beef broth, in a brass bowl." },
-      { nome: "Makgeolli", testo: "Served in large jugs." },
+      { nome: "Makgeolli", testo: "Cloudy, lightly sparkling rice wine, often served in jugs." },
       { nome: "Kongnamul gukbap", testo: "Soybean sprout soup." },
     ],
     attenzioni: [
@@ -981,7 +979,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       {
         nome: "Seongsan Ilchulbong",
         testo: "A volcanic cone born of an undersea eruption, about 180 metres high, rising from the sea at the island's eastern tip. At the top is a wide, grassy crater. It has been a UNESCO site since 2007 together with Hallasan and the lava tubes.",
-        come: "By car or bus from Jeju City; the climb up steps takes up to half an hour.",
+        come: "By car or bus from Jeju City, then a stepped climb to the crater.",
         quando: "At dawn: the name means 'sunrise peak'.",
         tempo: "2 hours",
         url: "https://www.visitjeju.net/",
@@ -989,7 +987,7 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       },
       {
         nome: "Hallasan",
-        testo: "The volcano at the centre of the island, 1,947 metres, the highest mountain in South Korea. The Seongpanak and Gwaneumsa trails reach the crater lake, Baengnokdam; the shorter Yeongsil trail stops before the summit but is the most scenic.",
+        testo: "The volcano at the centre of the island, 1,947 metres, the highest mountain in South Korea. The Seongpanak and Gwaneumsa trails reach the crater lake, Baengnokdam; the shorter Yeongsil trail stops before the summit but is very scenic.",
         come: "By car or bus to the trailhead. The two summit trails, Seongpanak and Gwaneumsa, require an online reservation, with a daily cap. Tuesday is the mountain's rest day, and the trails also close at Seollal and Chuseok.",
         quando: "A full day in good weather. There are cut-off times for passing the intermediate points: latecomers are turned back.",
         tempo: "6-9 hours",
@@ -1020,11 +1018,11 @@ export const destinazioniCoreaDelSud: Destinazione[] = [
       { titolo: "3 days: Jeju", tappe: ["Day 1: haenyeo and Seongsan","Day 2: Hallasan","Day 3: Manjanggul and the Peace Park"] },
     ],
     zone: [
-      { nome: "Jeju City", perChi: "For those who want transport", testo: "The airport is close." },
+      { nome: "Jeju City", perChi: "For those who want transport", testo: "Handy for the airport and the island's buses." },
       { nome: "Seogwipo", perChi: "For those who want the south", testo: "Quieter." },
     ],
     sapori: [
-      { nome: "Black pork", testo: "Grilled, the most famous dish." },
+      { nome: "Black pork", testo: "Grilled Jeju black pork, one of the island's best-known dishes." },
       { nome: "Galchi", testo: "Grilled or stewed cutlassfish." },
     ],
     attenzioni: [

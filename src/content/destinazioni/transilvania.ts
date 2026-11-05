@@ -12,7 +12,7 @@ export const destinazioniTransilvania: Destinazione[] = [
     giorniConsigliati: '1 giorno all\'arrivo, 1-2 al rientro',
     visitataPersonalmente: true,
     introduzione: 'Il punto di arrivo e di rientro del viaggio: il Palazzo del Parlamento, il quartiere storico di Lipscani e, l\'ultimo giorno, le Terme.',
-    percheAndarci: 'Per il Palazzo del Parlamento, il secondo edificio più grande al mondo dopo il Pentagono, e l\'atmosfera del centro storico di Lipscani.',
+    percheAndarci: 'Per il Palazzo del Parlamento, uno degli edifici amministrativi più grandi al mondo, e l\'atmosfera del centro storico di Lipscani.',
     cosaVedere: ['Il Palazzo del Parlamento', 'Il Romanian Athenaeum', 'Il quartiere storico di Lipscani'],
     cosaFare: [
       'Visita guidata al Palazzo del Parlamento (c\'è una scheda esperienza dedicata)',
@@ -21,21 +21,21 @@ export const destinazioniTransilvania: Destinazione[] = [
       'Terme di Bucarest l\'ultimo giorno (c\'è una scheda esperienza dedicata)',
     ],
     doveDormire:
-      'All\'arrivo abbiamo dormito all\'Hotel Duke Romana (zona Piața Romană), un 3 stelle con recensioni miste ma nel complesso positive: colazione buona, letti comodi e buon rapporto qualità-prezzo, con qualche lamentela sulle camere mansardate. Al rientro, all\'Hotel Continental Forum (zona Palazzo del Parlamento), un 4 stelle rinnovato nel 2021, con recensioni molto positive su colazione, staff e camere.\n\nAlternative arrivo: economiche: Hello Hotels Bucharest, Trianon Hotel · fascia media: Casa Mendeleev · lusso (contenuto): Epoque Hotel, Grand Hotel Continental.\n\nAlternative rientro: economiche: Hotel Parliament, Volo Hotel Bucharest · fascia media: Filitti Boutique Hotel · lusso (contenuto): Radisson Blu Hotel Bucharest, JW Marriott Bucharest Grand Hotel.',
+      'All\'arrivo abbiamo dormito all\'Hotel Duke Romana (zona Piața Romană), un 3 stelle con recensioni miste ma nel complesso positive: colazione buona, letti comodi e buon rapporto qualità-prezzo, con qualche lamentela sulle camere mansardate. Al rientro, all\'Hotel Continental Forum (zona Palazzo del Parlamento), un 4 stelle, con recensioni molto positive su colazione, staff e camere.\n\nAlternative arrivo: economiche: Hello Hotels Bucharest, Trianon Hotel · fascia media: Casa Mendeleev · lusso (contenuto): Epoque Hotel, Grand Hotel Continental.\n\nAlternative rientro: economiche: Hotel Parliament, Volo Hotel Bucharest · fascia media: Filitti Boutique Hotel · lusso (contenuto): Radisson Blu Hotel Bucharest, JW Marriott Bucharest Grand Hotel.',
     doveMangiare: 'Caru\' cu Bere per la cena di benvenuto; Hanu\' lui Manuc o Excalibur per la cena di arrivederci.',
     usciteSerali: 'Il quartiere di Lipscani, pieno di bar e locali con musica fino a tardi; Freddo, St. Patrick, il giardino di Grădina Dorobanți.',
-    comeArrivare: 'Volo internazionale su Bucarest, poi taxi dall\'aeroporto (con Cobălcescu o Cris Taxi la tariffa non supera i 60 LEI).',
+    comeArrivare: 'Volo internazionale su Bucarest, poi taxi dall\'aeroporto (meglio taxi ufficiali o app di trasporto).',
     comeSpostarsi: 'A piedi in centro, Uber, Bolt o taxi per il resto.',
     periodoMigliore: 'ponte di Halloween o inizio novembre',
-    costi: 'Palazzo del Parlamento circa 12,5€/pax; Romanian Athenaeum 2€/pax; Terme 35€ per l\'intera giornata.',
-    erroriDaEvitare: ['Restare senza contanti: conviene prelevare appena atterrati, perché molti ristoranti tipici accettano solo lei in contanti'],
+    costi: 'Biglietti di Palazzo del Parlamento, Ateneo Romeno e Terme sui siti ufficiali.',
+    erroriDaEvitare: ['Restare senza contanti: conviene prelevare appena atterrati, perché alcuni locali tipici preferiscono i contanti in lei'],
     miaEsperienza:
       'Il Palazzo del Parlamento, con le sue dimensioni fuori scala, racconta la megalomania del regime di Ceaușescu prima ancora di entrare. È stata una delle visite guidate più impressionanti del viaggio.',
     luoghi: [
       {
         nome: "Palazzo del Parlamento",
-        testo: "L'edificio più pesante del mondo, voluto da Ceaușescu e costruito tra il 1984 e il 1997, dopo la demolizione di circa 7 km² del vecchio centro e lo spostamento di 40.000 persone. Si visita solo con tour guidato, tra sale di marmo, lampadari e tappeti giganti.",
-        come: "Metro fino a Izvor; ingresso dal lato dell'Izvor. Portare il passaporto e prenotare in anticipo.",
+        testo: "Un edificio enorme, voluto da Ceaușescu negli anni Ottanta dopo la demolizione di una vasta parte del vecchio centro. Si visita solo con tour guidato, tra sale di marmo, lampadari e tappeti giganti.",
+        come: "Ingresso visitatori indicato sul sito ufficiale. Portare il passaporto e prenotare in anticipo.",
         quando: "Mattina nei giorni feriali; le sale di rappresentanza possono essere chiuse per eventi.",
         tempo: "1-1,5 ore",
         costo: "tariffe dei tour sul sito ufficiale",
@@ -69,7 +69,7 @@ export const destinazioniTransilvania: Destinazione[] = [
       },
       {
         nome: "Museo del Villaggio",
-        testo: "Un museo all'aperto aperto nel 1936, con oltre 300 edifici contadini dal Seicento al Novecento portati da tutte le regioni della Romania. Si capisce bene l'architettura rurale.",
+        testo: "Un museo all'aperto aperto nel 1936, con molti edifici contadini dal Seicento al Novecento portati da tutte le regioni della Romania. Si capisce bene l'architettura rurale.",
         come: "Nel parco Re Michele I (ex Herăstrău), a nord del centro, in metro o bus.",
         quando: "Mattina; il parco è piacevole.",
         tempo: "1,5-2 ore",
@@ -107,7 +107,7 @@ export const destinazioniTransilvania: Destinazione[] = [
     ],
     attenzioni: [
       "Taxi: usare Bolt, Uber o i taxi ufficiali con tariffa esposta.",
-      "Per guidare in Romania serve la vignetta stradale (rovinieta), da comprare online sul sito ufficiale.",
+      "Per guidare in Romania serve la vignetta stradale (rovinieta), da avere prima di mettersi in strada.",
       "Borseggiatori alla Gara de Nord e in metro.",
       "Il Palazzo del Parlamento richiede il passaporto: portarlo."
     ],
@@ -127,9 +127,9 @@ export const destinazioniTransilvania: Destinazione[] = [
     introduzione: 'Il Castello di Peleș, forse il più bello del viaggio per architettura, e il Castello di Bran, il famoso "Castello di Dracula".',
     percheAndarci: 'Per vedere nella stessa giornata due dei castelli più famosi della Romania: lo sfarzo neorinascimentale di Peleș e l\'aria gotica di Bran.',
     cosaVedere: [
-      'Il Castello di Peleș, residenza estiva di Carlo I con oltre 160 stanze',
+      'Il Castello di Peleș, residenza estiva di Carlo I',
       'Il Monastero di Sinaia',
-      'Il Castello di Bran, la fortezza medievale del XIII secolo',
+      'Il Castello di Bran, la fortezza medievale sulla roccia',
       'Il Castello di Cantacuzino (sosta fotografica facoltativa)',
     ],
     cosaFare: [
@@ -138,7 +138,7 @@ export const destinazioniTransilvania: Destinazione[] = [
     ],
     doveDormire: 'Qui non abbiamo dormito: era una tappa di passaggio tra Bucarest e Brașov.',
     doveMangiare: 'Restaurant Bucegi (con terrazza) a Sinaia, oppure pranzo al sacco o street food per guadagnare tempo.',
-    comeArrivare: 'Circa 2h di auto da Bucarest a Sinaia, poi circa 1h da Sinaia a Bran.',
+    comeArrivare: 'In auto da Bucarest a Sinaia, poi da Sinaia a Bran.',
     comeSpostarsi: 'Auto a noleggio.',
     periodoMigliore: 'mattina, per evitare la ressa ai castelli',
     costi: 'Biglietti e tariffe di Peleș e Bran sui siti ufficiali.',
@@ -148,8 +148,8 @@ export const destinazioniTransilvania: Destinazione[] = [
     luoghi: [
       {
         nome: "Castello di Peleș",
-        testo: "Residenza estiva di Carlo I, re di Romania, costruita tra il 1873 e il 1914 in stile neorinascimentale tedesco, con oltre 170 stanze. Per architettura è forse il castello più bello del viaggio, con interni curati nei minimi dettagli.",
-        come: "Treno o auto da Bucarest a Sinaia; dal centro di Sinaia si sale a piedi.",
+        testo: "Residenza estiva di Carlo I, re di Romania, costruita tra il 1873 e il 1914 in stile neorinascimentale tedesco. Per architettura è forse il castello più bello del viaggio, con interni curati nei minimi dettagli.",
+        come: "Da Bucarest a Sinaia; dal centro di Sinaia si sale a piedi.",
         quando: "Mattina presto, per evitare la ressa. Chiuso dal 2 novembre al 1° dicembre 2026 per pulizie e conservazione; giorni di chiusura settimanali sul sito.",
         tempo: "1,5 ore",
         costo: "biglietti sul sito ufficiale",
@@ -168,7 +168,7 @@ export const destinazioniTransilvania: Destinazione[] = [
       {
         nome: "Castello di Bran",
         testo: "La fortezza sulla roccia, documentata dal 1377, famosa per il legame con Dracula. In realtà il legame è più un'invenzione turistica che un fatto storico, ma il castello vale la visita anche da solo.",
-        come: "Circa 25 km a sud-ovest di Brașov, in auto. Biglietti sul sito ufficiale.",
+        come: "A sud-ovest di Brașov, in auto. Biglietti sul sito ufficiale.",
         quando: "Mattina presto; orari sul sito ufficiale.",
         tempo: "1-1,5 ore",
         url: "https://www.bran-castle.com",
@@ -190,9 +190,8 @@ export const destinazioniTransilvania: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Mattina presto: i castelli si riempiono di gruppi dopo le 10.",
-      "Per Bran e Peleș controllare biglietti e chiusure sui siti ufficiali.",
-      "Controllare i giorni di chiusura: Peleș è chiuso almeno un giorno a settimana."
+      "Mattina presto: i castelli si riempiono di gruppi in tarda mattinata.",
+      "Per Bran e Peleș controllare biglietti e chiusure sui siti ufficiali."
     ],
     esperienzeSlugs: ['castello-peles', 'castello-bran'],
     tripSlugs: ['transilvania-express'],
@@ -213,14 +212,14 @@ export const destinazioniTransilvania: Destinazione[] = [
       'La Fortezza di Râșnov',
       'La scritta "RASNOV" in stile hollywoodiano',
       'Piața Sfatului e la Torre dell\'Orologio',
-      'La Chiesa Nera (Biserica Neagră), la più grande chiesa gotica della Romania',
+      'La Chiesa Nera (Biserica Neagră), la grande chiesa gotica della città',
     ],
-    cosaFare: ['Fortezza di Râșnov, a piedi o in cabinovia (c\'è una scheda esperienza dedicata)', 'Passeggiata nel centro storico'],
+    cosaFare: ['Fortezza di Râșnov (c\'è una scheda esperienza dedicata)', 'Passeggiata nel centro storico'],
     doveDormire:
-      'Curtea Brașoveana, a una decina di minuti a piedi dal centro storico, tra le strutture più apprezzate della città (9,4 su Booking con quasi 600 recensioni): staff molto disponibile, camere pulite, bel giardino.\n\nAlternative: economiche: Drachenhaus, Pensiunea Casa Cranta · fascia media: Vila Katharina · lusso (contenuto): Casa Wagner, Radisson Blu Aurum Hotel Brașov.',
+      'Curtea Brașoveana, a piedi dal centro storico, con ottime recensioni: staff molto disponibile, camere pulite, bel giardino.\n\nAlternative: economiche: Drachenhaus, Pensiunea Casa Cranta · fascia media: Vila Katharina · lusso (contenuto): Casa Wagner, Radisson Blu Aurum Hotel Brașov.',
     doveMangiare: 'Sergiana (zuppe fumanti in pagnotte scavate, stufati alla paprika) o Casa Românească; dopocena al Deane\'s Irish Pub & Grill o al Musik Cafe.',
-    comeArrivare: 'Circa mezz\'ora di auto da Bran.',
-    comeSpostarsi: 'A piedi o in cabinovia per la Fortezza di Râșnov.',
+    comeArrivare: 'Poco distante da Bran, in auto.',
+    comeSpostarsi: 'A piedi in centro; in auto fino a Râșnov.',
     periodoMigliore: 'tardo pomeriggio, per la luce sulla rocca',
     costi: 'I prezzi di Sergiana non me li sono segnati; vino e palinka però costano più della media.',
     erroriDaEvitare: ['Non prenotare per tempo i ristoranti tipici più piccoli'],
@@ -238,7 +237,7 @@ export const destinazioniTransilvania: Destinazione[] = [
       },
       {
         nome: "Chiesa Nera (Biserica Neagră)",
-        testo: "Il più grande edificio di culto gotico dell'Europa sud-orientale, costruito tra il 1383 e il 1477 e annerito dall'incendio del 1689. Ha un organo Buchholz del 1839 con circa 4.000 canne e una delle più ricche collezioni di tappeti orientali d'Europa.",
+        testo: "Una grande chiesa gotica, costruita tra Tre e Quattrocento e annerita dall'incendio del 1689. Ha un grande organo ottocentesco e una ricca collezione di tappeti orientali.",
         come: "A piedi dalla Piața Sfatului.",
         quando: "Mattina.",
         tempo: "45 minuti",
@@ -255,7 +254,7 @@ export const destinazioniTransilvania: Destinazione[] = [
       {
         nome: "Strada Sforii",
         testo: "Un vicolo largo poco più di un metro, considerato tra i più stretti d'Europa, che collega due vie. Una curiosità veloce nel centro.",
-        come: "A piedi, vicino alla Porta Șchei; larga da 111 a 135 centimetri.",
+        come: "A piedi, vicino alla Porta Șchei.",
         quando: "Giorno.",
         tempo: "10 minuti",
         costo: "ingresso libero",
@@ -273,11 +272,11 @@ export const destinazioniTransilvania: Destinazione[] = [
     sapori: [
       {
         nome: "Zuppa in pagnotta",
-        testo: "Ciorbă servita dentro un pane scavato, specialità da Sergiana."
+        testo: "Ciorbă servita dentro un pane scavato, specialità dei ristoranti tradizionali di Brașov."
       },
       {
         nome: "Stufati alla paprika",
-        testo: "Piatti di carne tradizionali, come all'osteria Casa Românească."
+        testo: "Piatti di carne tradizionali delle osterie locali."
       },
       {
         nome: "Vino e palinka",
@@ -300,7 +299,7 @@ export const destinazioniTransilvania: Destinazione[] = [
     ordine: 4,
     nome: 'Sighișoara e Salina Turda',
     tipologia: ['storia', 'unesco'],
-    giorniConsigliati: '1 giorno, il più lungo al volante (5 ore totali)',
+    giorniConsigliati: '1 giorno, il più lungo al volante',
     visitataPersonalmente: true,
     introduzione: 'Il borgo medievale UNESCO di Sighișoara, casa natale del Conte Dracula, e le saline sotterranee di Salina Turda.',
     percheAndarci: 'Per Salina Turda, una delle cose più sorprendenti di tutto il viaggio, e per le vie acciottolate di Sighișoara.',
@@ -319,17 +318,17 @@ export const destinazioniTransilvania: Destinazione[] = [
     ],
     doveDormire: 'Qui non abbiamo dormito: era una giornata di passaggio verso Sibiu.',
     doveMangiare: 'Gasthaus Altepost o Vlad Dracul Restaurant a Sighișoara.',
-    comeArrivare: 'Circa 1h20 da Brașov a Viscri, poi verso Sighișoara; circa 2h di auto da Sighișoara a Salina Turda.',
+    comeArrivare: 'In auto da Brașov a Viscri, poi verso Sighișoara e da lì a Salina Turda.',
     comeSpostarsi: 'Auto a noleggio; a piedi nei centri storici.',
     periodoMigliore: 'partenza presto: è la giornata più lunga al volante del viaggio',
-    costi: 'Viscri 12 LEI a persona; casa natale di Dracula 5 LEI; Salina Turda 10€ nei giorni feriali, 12€ nel weekend; guida a Salina Turda 100 LEI in contanti.',
-    erroriDaEvitare: ['Sforare con i tempi: è la giornata più lunga al volante di tutto il viaggio (5 ore totali)'],
+    costi: 'Biglietti di Viscri, casa natale e Salina Turda sul posto o sui siti ufficiali; la guida a Salina Turda si paga a parte.',
+    erroriDaEvitare: ['Sforare con i tempi: è la giornata più lunga al volante di tutto il viaggio'],
     miaEsperienza:
       'Salina Turda è stata una delle sorprese più belle del viaggio. Da una miniera di sale non mi aspettavo di scendere e trovare un laghetto navigabile, e perfino un biliardino.',
     luoghi: [
       {
         nome: "Cittadella di Sighișoara e Torre dell'Orologio",
-        testo: "Una delle ultime cittadelle medievali abitate d'Europa, patrimonio UNESCO dal 1999. La Torre dell'Orologio di 64 metri ospita un museo di storia, con vista sulla città.",
+        testo: "Una delle ultime cittadelle medievali abitate d'Europa, patrimonio UNESCO dal 1999. La Torre dell'Orologio ospita un museo di storia, con vista sulla città.",
         come: "A piedi dal parcheggio in basso; vicoli ripidi.",
         quando: "Mattina presto, quando è tranquilla.",
         tempo: "2 ore",
@@ -337,16 +336,16 @@ export const destinazioniTransilvania: Destinazione[] = [
       },
       {
         nome: "Casa natale di Dracula e Scalinata Coperta",
-        testo: "La casa dove sarebbe nato Vlad Țepeș (oggi ristorante) e la lunga scala coperta di legno che sale alla chiesa sulla collina. Una breve tappa tra le case colorate.",
+        testo: "La casa dove sarebbe nato Vlad Țepeș e la lunga scala coperta di legno che sale alla chiesa sulla collina. Una breve tappa tra le case colorate.",
         come: "A piedi nella cittadella.",
         quando: "Mattina.",
         tempo: "1 ora",
         costo: "biglietto sul posto",
-        consiglio: "Il ristorante Vlad Dracul serve cucina locale."
+        consiglio: "Abbinarla alla salita sulla Scalinata Coperta."
       },
       {
         nome: "Viscri e Chiesa Fortificata",
-        testo: "Un villaggio sassone con una chiesa fortificata patrimonio UNESCO, tra i meglio conservati della Transilvania. Visita facoltativa lungo il percorso.",
+        testo: "Un villaggio sassone con una chiesa fortificata patrimonio UNESCO, ben conservato. Visita facoltativa lungo il percorso.",
         come: "In auto da Brașov, verso Sighișoara.",
         quando: "Mattina.",
         tempo: "1-1,5 ore",
@@ -355,7 +354,7 @@ export const destinazioniTransilvania: Destinazione[] = [
       },
       {
         nome: "Salina Turda",
-        testo: "Una miniera di sale che oggi è un parco sotterraneo, con un lago sotterraneo profondo fino a 8 metri, un ascensore panoramico, la sala dell'eco e un argano del 1881 ancora al suo posto. È stata una delle sorprese più belle del viaggio.",
+        testo: "Una miniera di sale che oggi è un parco sotterraneo, con un lago sotterraneo, un ascensore panoramico, la sala dell'eco e un antico argano ancora al suo posto. È stata una delle sorprese più belle del viaggio.",
         come: "In auto da Sighișoara. Biglietti all'ingresso o online.",
         quando: "Mattina; gruppi numerosi nel weekend.",
         tempo: "2 ore",
@@ -366,8 +365,8 @@ export const destinazioniTransilvania: Destinazione[] = [
     ],
     sapori: [
       {
-        nome: "Gasthaus Altepost",
-        testo: "Cucina locale a Sighișoara, citata per il pranzo."
+        nome: "Cucina della cittadella",
+        testo: "Piatti locali nei ristoranti di Sighișoara, comodi per il pranzo."
       },
       {
         nome: "Mămăligă",
@@ -390,9 +389,9 @@ export const destinazioniTransilvania: Destinazione[] = [
     ordine: 5,
     nome: 'Sibiu e Transfăgărășan',
     tipologia: ['storia', 'natura', 'strada panoramica'],
-    giorniConsigliati: '1 giorno, con un lungo tratto di guida (fino a 3h45 senza soste)',
+    giorniConsigliati: '1 giorno, con un lungo tratto di guida',
     visitataPersonalmente: true,
-    introduzione: 'Il centro storico UNESCO di Sibiu e la Transfăgărășan, una delle strade panoramiche più famose al mondo, con tornanti fino a 2.000 metri di quota.',
+    introduzione: 'Il centro storico UNESCO di Sibiu e la Transfăgărășan, una celebre strada panoramica, con tornanti che salgono in alta quota.',
     percheAndarci: 'Per la Transfăgărășan, con il Lago Bâlea e la possibilità (rara) di avvistare orsi lungo la strada.',
     cosaVedere: [
       'Piața Mare e il Museo Brukenthal a Sibiu',
@@ -401,16 +400,16 @@ export const destinazioniTransilvania: Destinazione[] = [
       'La Diga di Vidraru',
     ],
     cosaFare: [
-      'City tour di Sibiu con guida locale (2h)',
+      'City tour di Sibiu con guida locale',
       'Percorrere la Transfăgărășan (c\'è una scheda esperienza dedicata)',
       'Sosta al Balea Lac Restaurant sul Lago Bâlea',
     ],
     doveDormire:
-      'MyContinental Sibiu, struttura moderna vicino al centro storico (8,5 su Booking). Le cose più citate sono le camere ai piani alti con vista sulla città e la colazione abbondante; qualcuno si lamenta del wifi lento e degli ascensori.\n\nAlternative: economiche: Casa Timpuri Vechi, Pensiunea Central Sibiu · fascia media: Casa Luxemburg · lusso (contenuto): Noblesse Boutique Hotel, Mina Luxury Boutique Hotel.',
+      'MyContinental Sibiu, struttura moderna vicino al centro storico. Le cose più citate sono le camere ai piani alti con vista sulla città e la colazione abbondante; qualcuno si lamenta del wifi lento e degli ascensori.\n\nAlternative: economiche: Casa Timpuri Vechi, Pensiunea Central Sibiu · fascia media: Casa Luxemburg · lusso (contenuto): Noblesse Boutique Hotel, Mina Luxury Boutique Hotel.',
     doveMangiare: 'Crama Sibiul Vechi (cantina rustica, pochi tavoli, prenotazione obbligatoria), La Dobrun o Crama Ileana; dopocena Oldie\'s Pub o Geea Caffe.',
-    comeArrivare: 'Circa 1h30 di auto da Salina Turda a Sibiu.',
+    comeArrivare: 'In auto da Salina Turda a Sibiu.',
     comeSpostarsi: 'Auto a noleggio per la Transfăgărășan, a piedi nel centro di Sibiu.',
-    periodoMigliore: '20 giugno - 31 ottobre, quando la Transfăgărășan è percorribile in auto',
+    periodoMigliore: 'estate e inizio autunno, quando la Transfăgărășan è aperta alle auto (date secondo la neve)',
     costi: 'Non mi sono segnato i prezzi.',
     erroriDaEvitare: ['Partire senza aver controllato sul sito ufficiale che la Transfăgărășan sia aperta', 'Dare da mangiare agli orsi o scendere dall\'auto se se ne avvista uno'],
     miaEsperienza:
@@ -418,16 +417,16 @@ export const destinazioniTransilvania: Destinazione[] = [
     luoghi: [
       {
         nome: "Piața Mare e Museo Brukenthal",
-        testo: "La grande piazza di Sibiu, tra le più belle della Romania, con il Museo Brukenthal, il più antico museo del Paese, aperto nel 1817.",
+        testo: "La grande piazza di Sibiu, tra le più belle della Romania, con il Museo Brukenthal, tra i musei più antichi del Paese, aperto nel 1817.",
         come: "A piedi dal centro.",
         quando: "Mattina.",
         tempo: "2 ore",
         url: "https://www.brukenthalmuseum.ro",
-        consiglio: "City tour di due ore con guida locale per capire la storia."
+        consiglio: "Un city tour con guida locale per capire la storia."
       },
       {
         nome: "Ponte delle Bugie (Podul Minciunilor)",
-        testo: "Il primo ponte di ferro della Romania, del 1859. Secondo la tradizione, scricchiola se qualcuno dice una bugia.",
+        testo: "Un ponte di ferro del 1859. Secondo la tradizione, scricchiola se qualcuno dice una bugia.",
         come: "A piedi nel centro storico.",
         quando: "Sera.",
         tempo: "15 minuti",
@@ -444,7 +443,7 @@ export const destinazioniTransilvania: Destinazione[] = [
       },
       {
         nome: "Lago Bâlea",
-        testo: "Il lago di montagna a 2.034 metri sulla Transfăgărășan, con due rifugi aperti tutto l'anno. D'estate si arriva in auto, nel resto dell'anno con la funivia da Bâlea Cascadă.",
+        testo: "Il lago di montagna in quota sulla Transfăgărășan, con rifugi. D'estate si arriva in auto, nel resto dell'anno con la funivia da Bâlea Cascadă.",
         come: "In auto lungo la strada.",
         quando: "Estate, con cielo sereno.",
         tempo: "1 ora",
@@ -452,7 +451,7 @@ export const destinazioniTransilvania: Destinazione[] = [
       },
       {
         nome: "Diga di Vidraru",
-        testo: "Una diga ad arco di 166 metri sul fiume Argeș, con un grande lago artificiale. Una sosta panoramica sul lato sud della Transfăgărășan.",
+        testo: "Una grande diga ad arco sul fiume Argeș, con un grande lago artificiale. Una sosta panoramica sul lato sud della Transfăgărășan.",
         come: "In auto lungo la strada.",
         quando: "Giorno.",
         tempo: "30 minuti",
@@ -462,8 +461,8 @@ export const destinazioniTransilvania: Destinazione[] = [
     ],
     sapori: [
       {
-        nome: "Crama Sibiul Vechi",
-        testo: "Cantina rustica con pochi tavoli, prenotazione obbligatoria."
+        nome: "Cucina romena in cantina",
+        testo: "Piatti tradizionali nelle cantine rustiche del centro, spesso con pochi tavoli: meglio prenotare."
       },
       {
         nome: "Cucina sassone",
@@ -472,7 +471,7 @@ export const destinazioniTransilvania: Destinazione[] = [
     ],
     attenzioni: [
       "La Transfăgărășan è di solito chiusa da fine ottobre a fine giugno per la neve: controllare lo stato prima di partire.",
-      "Prenotare il tavolo alla Crama, ha pochi tavoli.",
+      "Prenotare nei ristoranti piccoli del centro, che hanno pochi tavoli.",
       "Guidare con prudenza: tornanti stretti e traffico di camion e moto."
     ],
     esperienzeSlugs: ['transfagarasan'],

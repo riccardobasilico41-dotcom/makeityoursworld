@@ -49,21 +49,21 @@ export const destinazioniMessico: Destinazione[] = [
         {
           "nome": "Playa Marlin y Playa Gaviota",
           "testo": "Playas públicas gratuitas en el centro de la zona hotelera, sin camastros de pago. Son de los pocos accesos libres al mar en esta parte de la ciudad; el mar está más movido que en Isla Mujeres, así que antes de bañarse conviene mirar la bandera de los salvavidas.",
-          "come": "Bus local R1 desde el centro.",
+          "come": "Bus local desde el centro.",
           "quando": "Mañana.",
           "tempo": "Media jornada"
         },
         {
           "nome": "Parque las Palapas y Mercado 28",
           "testo": "Plaza del centro con puestos de comida callejera y música por la noche, y el mercado con artesanía y pequeños restaurantes.",
-          "come": "A pie desde el centro, al norte de la zona hotelera.",
+          "come": "A pie, en el centro.",
           "quando": "Noche.",
           "tempo": "2-3 horas",
           "consiglio": "El primer bocado de México con comida callejera."
         },
         {
           "nome": "Coco Bongo",
-          "testo": "El local con espectáculo más famoso de la ciudad, en la zona hotelera: acróbatas, música en vivo y números inspirados en películas, hasta muy tarde. El precio cambia mucho según la ubicación (de pie, en la barra o en mesa), así que conviene saber qué incluye el boleto antes de comprarlo.",
+          "testo": "Local con espectáculo muy conocido, en la zona hotelera: acróbatas, música en vivo y números inspirados en películas, hasta muy tarde. El precio cambia mucho según la ubicación (de pie, en la barra o en mesa), así que conviene saber qué incluye el boleto antes de comprarlo.",
           "come": "Entradas con revendedores.",
           "quando": "Noche.",
           "tempo": "Una velada",
@@ -157,7 +157,7 @@ export const destinazioniMessico: Destinazione[] = [
         {
           "nome": "Chichén Itzá",
           "testo": "Una de las nuevas maravillas del mundo, sitio maya patrimonio UNESCO con El Castillo, el juego de pelota y el cenote sagrado.",
-          "come": "Desde Valladolid en coche o taxi, menos de una hora, o con tour guiado.",
+          "come": "Desde Valladolid en coche o taxi, o con tour guiado.",
           "quando": "Mañana, a la apertura, antes de los autocares y del calor.",
           "tempo": "3-4 horas",
           "costo": "697 MXN para extranjeros, con boleto único federal y estatal en una sola taquilla desde el 27 de marzo de 2026; los domingos es gratis solo para mexicanos y residentes.",
@@ -176,7 +176,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Cenote Xcanché",
-          "testo": "Cenote a cielo abierto cerca de Ek Balam, con saltos y lianas. Se baja por una escalera en la roca hasta el agua, rodeada de raíces y plantas colgantes; alrededor hay renta de bicis y un pequeño restaurante.",
+          "testo": "Cenote a cielo abierto cerca de Ek Balam. Se baja por una escalera en la roca hasta el agua, rodeada de raíces y plantas colgantes.",
           "come": "Taxi o bici desde Ek Balam.",
           "quando": "Mañana o primera hora de la tarde.",
           "tempo": "1-2 horas"
@@ -291,15 +291,15 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Mercado municipal",
-          "testo": "El mercado cubierto con fruta, especias y artesanía, donde se compra lo yucateco.",
-          "come": "A pie desde el centro, unas cuadras al sur de la plaza.",
+          "testo": "El mercado cubierto con fruta, especias, artesanía y productos yucatecos.",
+          "come": "A pie desde el centro.",
           "quando": "Mañana.",
           "tempo": "1-2 horas"
         },
         {
           "nome": "Playa Progreso",
-          "testo": "La playa de Progreso, en el Golfo de México, el puerto de Mérida, con un muelle larguísimo que entra en el mar y clubes de playa en la arena.",
-          "come": "Bus o coche desde Mérida, algo más de media hora.",
+          "testo": "La playa de Progreso, en el Golfo de México, el puerto de Mérida, con un largo muelle que entra en el mar y clubes de playa en la arena.",
+          "come": "Bus o coche desde Mérida.",
           "quando": "De día.",
           "tempo": "Día completo",
           "consiglio": "Una pausa a mitad de viaje sin traslados largos."
@@ -338,7 +338,7 @@ export const destinazioniMessico: Destinazione[] = [
         {
           "nome": "Paseo de Montejo",
           "perChi": "elegancia",
-          "testo": "Avenida de mansiones del siglo XX, más tranquila."
+          "testo": "Avenida de mansiones históricas, más tranquila."
         }
       ],
       "sapori": [
@@ -420,7 +420,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Fuerte de San Miguel",
-          "testo": "Fuerte en la colina al suroeste del centro, con foso y cañones hacia el Golfo. Dentro está el museo arqueológico con las máscaras de jade de Calakmul; desde las murallas, el atardecer sobre el mar es de los mejores de la ciudad.",
+          "testo": "Fuerte en la colina al suroeste del centro, con foso y cañones hacia el Golfo. Dentro está el museo arqueológico con las máscaras de jade de Calakmul; desde las murallas se ve el atardecer sobre el mar.",
           "come": "Taxi desde el centro.",
           "quando": "Al final de la tarde; horarios y días de cierre en el sitio del INAH.",
           "tempo": "1-2 horas",
@@ -428,9 +428,9 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Edzná",
-          "testo": "Sitio maya tierra adentro con el Edificio de los Cinco Pisos, una pirámide escalonada sobre una gran plaza. Recibe pocos visitantes comparado con los sitios de Yucatán y se recorre casi a solas, entre iguanas y silencio.",
+          "testo": "Sitio maya tierra adentro con el Edificio de los Cinco Pisos, una pirámide escalonada sobre una gran plaza. Recibe pocos visitantes comparado con los sitios de Yucatán.",
           "come": "Coche, taxi o tour desde Campeche.",
-          "quando": "Abierto todos los días de 8 a 17, último acceso a las 16:30 (ficha del INAH). Temprano, antes del calor.",
+          "quando": "Abierto todos los días de 8 a 17 (ficha del INAH). Temprano, antes del calor.",
           "tempo": "Medio día",
           "url": "https://www.inah.gob.mx/",
           "consiglio": "Llevar agua y sombrero: hay poca sombra.",
@@ -525,21 +525,21 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Snorkel con tortugas",
-          "testo": "Salida en lancha a pocos metros de la costa, donde viven tortugas verdes en el arrecife. Aquí el arrecife está muy cerca de la orilla y mucho menos concurrido que en la Riviera Maya: se ven también rayas, peces loro y corales blandos.",
+          "testo": "Salida en lancha al arrecife cerca de la costa, donde se pueden encontrar tortugas. Aquí el arrecife está cerca de la orilla y menos concurrido que en la Riviera Maya.",
           "come": "Tour desde el malecón con operador.",
           "quando": "Mañana.",
           "tempo": "2-3 horas"
         },
         {
           "nome": "Temazcal en la selva",
-          "testo": "Rito de baño de vapor de tradición indígena, con guía, de noche, en un lugar de la selva.",
+          "testo": "Rito de baño de vapor de tradición indígena, con un guía.",
           "come": "Reserva con un alojamiento de la zona.",
           "quando": "Noche.",
           "tempo": "2-3 horas"
         },
         {
           "nome": "Banco Chinchorro",
-          "testo": "Reserva de la biosfera frente a Mahahual, un atolón coralino de unos 800 km² con al menos nueve naufragios, entre ellos dos galeones españoles. Es la mejor excursión de la zona, pero también la que más depende del tiempo: con viento fuerte se cancelan las salidas.",
+          "testo": "Reserva de la biosfera frente a Mahahual, un atolón coralino de unos 800 km² con al menos nueve naufragios. Es una excursión que depende mucho del tiempo: con viento fuerte se cancelan las salidas.",
           "come": "Solo con operadores autorizados desde Mahahual o Xcalak, en lancha rápida.",
           "quando": "Mañana, con mar en calma; mejor en los meses secos.",
           "tempo": "Día completo",
@@ -632,7 +632,7 @@ export const destinazioniMessico: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Laguna de Bacalar",
-          "testo": "La laguna de los siete colores, de decenas de kilómetros de largo y estrecha, con agua en tonos azules y turquesa sobre fondo blanco. Tiene uno de los sistemas de estromatolitos de agua dulce más extensos del mundo, formaciones de miles de años.",
+          "testo": "La laguna de los siete colores, de decenas de kilómetros de largo y estrecha, con agua en tonos azules y turquesa sobre fondo blanco. Alberga estromatolitos, formaciones rocosas antiquísimas creadas por microorganismos.",
           "come": "Desde Mahahual en tour organizado o por cuenta propia en van o coche.",
           "quando": "Mañana, con luz plena.",
           "tempo": "Media jornada o más",
@@ -654,7 +654,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Fuerte San Felipe",
-          "testo": "El fuerte que construyeron los españoles para defender Bacalar de los piratas ingleses y de los mayas rebeldes, a orillas de la laguna. Hoy se puede visitar.",
+          "testo": "Fuerte que construyeron los españoles para defender Bacalar de los piratas, a orillas de la laguna. Horarios y entrada en el sitio del INAH.",
           "come": "A pie desde el centro.",
           "quando": "Mañana.",
           "tempo": "1 hora",
@@ -788,7 +788,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Xcacel",
-          "testo": "Playa protegida, de las últimas de la costa sin hoteles, donde las tortugas desovan entre primavera y verano. Las reglas son estrictas: nada de comida, alcohol ni bocinas; la entrada, el horario y los días de cierre hay que verificarlos en el lugar.",
+          "testo": "Playa protegida, sin hoteles, donde las tortugas desovan entre primavera y verano. Las reglas son estrictas: nada de comida, alcohol ni bocinas; la entrada, el horario y los días de cierre hay que verificarlos en el lugar.",
           "come": "Taxi o coche desde Tulum.",
           "quando": "Mañana.",
           "tempo": "2-3 horas"
@@ -1024,15 +1024,15 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Tour de las 3 Islas",
-          "testo": "Recorrido compartido en barca de unas 3 horas, con flamencos, delfines y aves: Isla Pájaros, cenote de Yalahau, Isla Pasión o Punta Mosquito.",
+          "testo": "Recorrido compartido en barca, con flamencos, delfines y aves: Isla Pájaros, cenote de Yalahau, Isla Pasión o Punta Mosquito.",
           "come": "Precios distintos según el operador, algunos con traslado desde el hotel. El cenote Yalahau se paga aparte.",
           "quando": "Mañana.",
-          "tempo": "3 horas"
+          "tempo": "Medio día"
         },
         {
           "nome": "Cabo Catoche",
-          "testo": "Excursión a la punta nororiental de la península de Yucatán, entre el Golfo de México y el Caribe. Snorkel en un arrecife poco profundo, pesca y ceviche fresco. En el viaje no la hicimos.",
-          "come": "Tour compartido de la mañana a la tarde; compara varios operadores.",
+          "testo": "Excursión en barca hacia la punta nororiental de la península de Yucatán, entre el Golfo de México y el Caribe, normalmente con paradas de snorkel. En el viaje no la hicimos.",
+          "come": "Tour compartido en barca; compara varios operadores y qué incluye el precio.",
           "quando": "Día completo.",
           "tempo": "Día completo"
         }
@@ -1068,7 +1068,7 @@ export const destinazioniMessico: Destinazione[] = [
           "testo": "Restaurantes, tiendas y hoteles cerca de la plaza, calles de arena sin coches."
         },
         {
-          "nome": "Playa al noreste",
+          "nome": "Playa fuera del pueblo",
           "perChi": "calma",
           "testo": "Hoteles frente al mar, más aislados."
         }

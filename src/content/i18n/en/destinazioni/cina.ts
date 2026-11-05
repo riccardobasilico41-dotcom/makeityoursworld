@@ -118,7 +118,7 @@ export const destinazioniCina: Destinazione[] = [
         nome: "Temple of Heaven",
         testo: "The complex where the Ming and Qing emperors prayed for good harvests, built in 1420 together with the Forbidden City and a UNESCO World Heritage Site. The Hall of Prayer is round, with three blue roofs, all in wood; further south are the Echo Wall and the marble Circular Mound Altar. The park around it is where the neighbourhood's pensioners meet every morning.",
         come: "Metro line 5 to Tiantandongmen.",
-        quando: "Early morning: in the park hundreds of retirees dance, sing and play cards.",
+        quando: "Early morning: in the park many retirees dance, sing and play cards.",
         tempo: "2-3 hours",
         consiglio: "The park in the early morning is worth as much as the temple.",
       },
@@ -153,14 +153,14 @@ export const destinazioniCina: Destinazione[] = [
       { titolo: "3 days: add the Great Wall", tappe: ["Days 1-2: as above","Day 3: Great Wall at Jinshanling"] },
     ],
     zone: [
-      { nome: "Dongcheng / Wangfujing", perChi: "For those who want to get around on foot", testo: "Convenient for the metro and for the lanes around Houhai." },
+      { nome: "Dongcheng / Wangfujing", perChi: "For those who want to get around on foot", testo: "Handy for the metro, the Forbidden City and the central hutong." },
       { nome: "Sanlitun", perChi: "For those who want the modern side", testo: "Restaurants and nightlife." },
     ],
     sapori: [
       { nome: "Peking duck", testo: "Order it whole, carved at the table." },
-      { nome: "Jianbing", testo: "The savoury morning crepe." },
+      { nome: "Jianbing", testo: "A savoury crêpe with egg, sold on the street in the morning." },
       { nome: "Jiaozi and baozi", testo: "Steamed dumplings." },
-      { nome: "Shanxi noodles", testo: "Pulled by hand." },
+      { nome: "Shanxi noodles", testo: "Handmade noodles, pulled or knife-cut." },
     ],
     attenzioni: [
       "Turning up at the Forbidden City without a booking: no tickets are sold on the day and daily numbers are capped.",
@@ -276,16 +276,16 @@ export const destinazioniCina: Destinazione[] = [
       },
       {
         nome: "Giant Wild Goose Pagoda",
-        testo: "A Buddhist pagoda built in 652 to hold the texts the monk Xuanzang had brought back from India. It stands in the Da Ci'en temple; to the north is a large square with musical fountains, to the south the long avenue of Datang Everbright City, which fills with lights and costumed shows in the evening.",
+        testo: "A Buddhist pagoda built in 652 to hold the texts the monk Xuanzang had brought back from India. It stands in Da Ci'en temple; around it are a large square with fountains and pedestrian avenues that light up in the evening.",
         come: "Metro lines 3 or 4 to Dayanta.",
         quando: "The pagoda by day; fountains and the lit avenue after sunset.",
         tempo: "1.5-2 hours",
-        consiglio: "Stay into the evening and walk along Datang Everbright City: it is the most theatrical avenue in the city.",
+        consiglio: "Stay until evening: once the lights come on, the area around the pagoda changes completely.",
       },
       {
         nome: "Shaanxi History Museum",
         testo: "One of China's most important museums, with gold, bronzes, ceramics and frescoes from the Zhou to the Tang dynasties. The Tang rooms tell the story of Xi'an as imperial capital and starting point of the Silk Road. There is also a separate branch, the Qin-Han Gallery, about 40 kilometres away in the Xixian New Area: check which one you are booking.",
-        come: "Metro lines 2 or 3 to Xiaozhai, then 10 minutes on foot. Free entry, but with a ticket in your name booked through the official WeChat mini-program; bring the passport you booked with.",
+        come: "Metro lines 2 or 3 to Xiaozhai, then on foot. Free entry but with a named ticket booked on the official WeChat mini-program; bring the passport you booked with.",
         quando: "Main building 8:30-19:00 (2026). Last entry 18:00. Bookings open 5 days ahead, at 17:00 China time (2026).",
         tempo: "2-3 hours",
         costo: "Free entry with booking; the Tang tomb murals gallery has a separate ticket",
@@ -303,7 +303,7 @@ export const destinazioniCina: Destinazione[] = [
       { nome: "Roujiamo", testo: "A stewed pork sandwich." },
       { nome: "Biang biang noodles", testo: "A noodle as wide as a belt." },
       { nome: "Yangrou paomo", testo: "Lamb soup with bread." },
-      { nome: "Liangpi", testo: "Cold and spicy." },
+      { nome: "Liangpi", testo: "Cold wheat or rice noodles, dressed with vinegar and chilli." },
     ],
     attenzioni: [
       "Turning up at the Terracotta Army without a ticket in your name: it is booked online in advance and sells out during holidays.",
@@ -414,7 +414,7 @@ export const destinazioniCina: Destinazione[] = [
       {
         nome: "The Bund",
         testo: "A mile of riverfront lined with banks, customs houses and hotels built between the late 19th century and the 1930s, when Shanghai was the city of foreign trade. Across the Huangpu stands the Pudong skyline. The promenade is free.",
-        come: "Metro lines 2 or 10 to East Nanjing Road, then 10 minutes on foot.",
+        come: "Metro lines 2 or 10 to East Nanjing Road, then on foot.",
         quando: "At sunset and in the evening, when both banks light up; early in the morning people do tai chi.",
         tempo: "1-2 hours",
         costo: "Free",
@@ -439,24 +439,24 @@ export const destinazioniCina: Destinazione[] = [
       {
         nome: "Shanghai Tower",
         testo: "At 632 metres it is the tallest building in China. The main observatory is on the 118th floor, at 546 metres, reached by some of the fastest lifts in the world. Next to it stand the Shanghai World Financial Center and the Jin Mao Tower, the three giants of Lujiazui.",
-        come: "Metro line 2 to Lujiazui, then 10 minutes on foot.",
+        come: "Metro line 2 to Lujiazui, then on foot.",
         quando: "On a clear day, often after a windy or rainy one. With smog or low cloud you see little.",
         tempo: "1-1.5 hours",
-        costo: "180 yuan adults (2025)",
+        costo: "Paid entry: prices on the official website",
         url: "https://www.shanghaitower.com/",
         consiglio: "Go up an hour before sunset and stay until dark: you see the city by day and lit up.",
       },
       {
         nome: "Suzhou",
-        testo: "A city of canals and classical gardens, a UNESCO World Heritage Site: the Humble Administrator's Garden is the largest, the Master of the Nets the most refined. A few minutes away is Pingjiang Road, a canal-side street with white houses, stone bridges and teahouses.",
-        come: "High-speed train from Shanghai Hongqiao or Shanghai station: about 30 minutes.",
+        testo: "A city of canals and classical gardens, a UNESCO World Heritage Site: the Humble Administrator's Garden is the largest, the Master of the Nets Garden one of the most refined. Not far away is Pingjiang Road, a canal-side street with white houses, stone bridges and teahouses.",
+        come: "High-speed train from Shanghai Hongqiao or Shanghai station: it is a short ride.",
         quando: "A weekday, when the gardens open; at weekends and holidays they are packed.",
         tempo: "Full day",
         consiglio: "Pick two gardens, not four: after the second they blur together. Book tickets for the most famous gardens online, as they sell out in high season.",
       },
       {
         nome: "Water towns",
-        testo: "Villages of canals, stone bridges and white houses around Shanghai. Zhujiajiao is the closest and is reached by metro; Zhouzhuang and Tongli are near Suzhou; Wuzhen, further away, is the best kept. You explore them on foot or by rowing boat.",
+        testo: "Canal towns of stone bridges and white houses around Shanghai. Zhujiajiao is the closest and can be reached by metro; Zhouzhuang and Tongli are near Suzhou; Wuzhen, further away, is very well kept. You explore them on foot or by rowing boat.",
         come: "Zhujiajiao by metro line 17; the others by bus or on a tour from Shanghai or Suzhou.",
         quando: "Early morning, or with an overnight stay: groups arrive from late morning.",
         tempo: "Half a day",
@@ -468,12 +468,12 @@ export const destinazioniCina: Destinazione[] = [
       { titolo: "2 days: add Suzhou", tappe: ["Day 1: as above","Day 2: Suzhou"] },
     ],
     zone: [
-      { nome: "Former French Concession", perChi: "For those who want atmosphere", testo: "Pleasant on foot." },
-      { nome: "Bund area", perChi: "For those who want a view", testo: "More expensive." },
+      { nome: "Former French Concession", perChi: "For those who want atmosphere", testo: "Quiet tree-lined streets, pleasant to explore on foot." },
+      { nome: "Bund area", perChi: "For those who want a view", testo: "Close to the riverfront and the metro, with hotels that are generally pricier." },
     ],
     sapori: [
-      { nome: "Xiaolongbao", testo: "Dumplings filled with broth." },
-      { nome: "Shengjianbao", testo: "Pan-fried on the griddle." },
+      { nome: "Xiaolongbao", testo: "Steamed dumplings filled with meat and broth inside." },
+      { nome: "Shengjianbao", testo: "Pork-filled buns, pan-fried and then steamed." },
     ],
     attenzioni: [
       "Accepting an invitation from friendly strangers to a tea or a bar: it is the classic scam of the tourist areas, and it ends with a huge bill.",
@@ -575,7 +575,7 @@ export const destinazioniCina: Destinazione[] = [
         nome: "Bailong Elevator",
         testo: "A glass lift built onto the rock face, rising 326 metres in about a minute and a half. It links the valley floor at Shuirao Simen with the Yuanjiajie plateau and saves hours of steps. It is controversial, being a huge structure inside a UNESCO site, but it is the fastest way up.",
         come: "Inside the park, from the Shuirao Simen area, with a separate ticket.",
-        quando: "At opening time or early afternoon: at peak hours the queue can last an hour.",
+        quando: "At opening time or in the early afternoon: at peak times the queue can be long.",
         tempo: "1 hour with the queue",
         costo: "65 yuan one way (2025)",
         consiglio: "Ride up and walk down: the descent between the pillars is one of the finest stretches.",
@@ -609,15 +609,15 @@ export const destinazioniCina: Destinazione[] = [
       { titolo: "2 days: Zhangjiajie", tappe: ["Day 1: Yuanjiajie, Tianzi Shan","Day 2: Tianmen Shan"] },
     ],
     zone: [
-      { nome: "Wulingyuan", perChi: "For those who want to be near the park", testo: "It saves a two-hour transfer." },
+      { nome: "Wulingyuan", perChi: "For those who want to be near the park", testo: "At the park entrance: saves the transfer from town every morning." },
     ],
     sapori: [
-      { nome: "Chilli pork", testo: "Hunan cuisine." },
-      { nome: "Stinky tofu", testo: "Fried." },
+      { nome: "Chilli pork", testo: "Pork stir-fried with fresh chilli: a classic of Hunan's spicy cooking." },
+      { nome: "Stinky tofu", testo: "Strong-smelling fermented tofu, fried and served with spicy sauce." },
     ],
     attenzioni: [
       "Planning a single day: the park is huge, and the ticket lasts four days for a reason.",
-      "Arriving without a booking: since 2025 each day of park entry must be reserved in advance, with your passport.",
+      "Arriving without checking the entry rules: booking and required documents can change, check them before you go.",
       "Going during the October Golden Week or early May: hours of queuing at the lifts and cable cars.",
       "Staying in Zhangjiajie city: Wulingyuan, at the park entrance, saves hours on the road.",
       "Feeding the monkeys or keeping food in sight.",
@@ -672,14 +672,14 @@ export const destinazioniCina: Destinazione[] = [
       {
         nome: "Waterfall and walkway",
         testo: "The town is built on the edge of a large waterfall that plunges into the river. A stone walkway runs behind the curtain of water: you walk between the rock and the falls, with the noise drowning out everything. In the evening the falls are lit up.",
-        come: "Fast train from Zhangjiajie West to Furongzhen station (about half an hour), then bus or taxi, about 10 minutes; in town you walk down the stairways.",
+        come: "Fast train from Zhangjiajie West to Furongzhen station (about half an hour), then bus or taxi; in the village you walk down the stone steps.",
         quando: "By day for the walkway; in the evening from the opposite bank, with the lights on.",
         tempo: "1 hour",
         consiglio: "You come out wet: a light waterproof and a pouch for your phone.",
       },
       {
         nome: "Tujia houses",
-        testo: "Wooden houses on stilts, clinging to the edge of the cliff above the river, home of the Tujia minority. The town's stone lanes step down towards the water, past shops selling tofu, rice sweets and silver. It is the part of town to see slowly, once the day groups have left.",
+        testo: "The village is an old Tujia minority town, with wooden houses overlooking the cliff above the river. Its stone lanes step down towards the water, between shops and small eateries. This is the part of town to see slowly, once the day groups have left.",
         come: "On foot in the town.",
         quando: "Evening and early morning.",
         tempo: "2-3 hours",
@@ -690,7 +690,7 @@ export const destinazioniCina: Destinazione[] = [
       { titolo: "1 night: Furong Zhen", tappe: ["Arrive in the afternoon","Waterfall","Evening in the lit-up village","Early morning"] },
     ],
     zone: [
-      { nome: "Guesthouse on the river", perChi: "For those who want to see the village when it is empty", testo: "Very cheap." },
+      { nome: "Guesthouse on the river", perChi: "For those who want to see the village when it is empty", testo: "Staying in the village lets you see it in the evening and at dawn, without the day-trip groups." },
     ],
     sapori: [
       { nome: "River fish", testo: "Braised." },
@@ -761,15 +761,15 @@ export const destinazioniCina: Destinazione[] = [
         tempo: "3-4 hours",
         costo: "55 yuan adults (2026)",
         url: "https://www.panda.org.cn/",
-        consiglio: "Head straight to the adult enclosures: after ten almost all of them are asleep.",
+        consiglio: "Head straight to the adult enclosures: by mid-morning many are already asleep.",
       },
       {
         nome: "Wenshu Monastery",
-        testo: "A Buddhist monastery founded under the Sui and rebuilt in the late 17th century, under the Qing, still busy with worshippers and monks, incense and prayer. In the courtyard there is an open-air teahouse.",
+        testo: "A Buddhist monastery founded in the Sui dynasty and rebuilt in the late seventeenth century under the Qing, still used by worshippers and monks, amid incense and prayers.",
         come: "Metro line 1 to Wenshu Monastery.",
         quando: "Morning, during prayers.",
         tempo: "1.5 hours",
-        consiglio: "Stop for tea in the courtyard: it costs little and is the most Chengdu thing you can do.",
+        consiglio: "It is an active place of worship: go in quietly and do not disturb people praying.",
       },
       {
         nome: "Kuanzhai Alleys",
@@ -781,7 +781,7 @@ export const destinazioniCina: Destinazione[] = [
       },
       {
         nome: "People's Park",
-        testo: "The park where the city meets: pensioners dancing, impromptu choirs and the 'marriage market' corner, where parents post profiles of their single children. The Heming teahouse, under the trees, is Chengdu's most famous: you choose your tea, call over the ear cleaner and let the afternoon go by.",
+        testo: "The park where the city meets: retirees dancing, impromptu choirs and open-air teahouses under the trees, where afternoons are spent over a glass of tea.",
         come: "Metro line 2 to People's Park.",
         quando: "Afternoon, ideally on a weekday.",
         tempo: "2 hours",
@@ -794,19 +794,19 @@ export const destinazioniCina: Destinazione[] = [
         quando: "Early morning on a weekday: the stairway is done in a queue.",
         tempo: "Full day",
         costo: "80 yuan park ticket (2025); boat extra",
-        consiglio: "Go in at opening time and do the stairway first: by mid-morning the wait can exceed an hour.",
+        consiglio: "Go in at opening time and do the staircase first: by mid-morning the wait can get long.",
       },
     ],
     programmi: [
       { titolo: "2 days: Chengdu", tappe: ["Day 1: pandas, Wenshu","Day 2: People's Park, hot pot"] },
     ],
     zone: [
-      { nome: "Centre", perChi: "For those who want convenience", testo: "Close to the lines." },
+      { nome: "Centre", perChi: "For those who want convenience", testo: "Close to the metro lines and the main sights." },
     ],
     sapori: [
-      { nome: "Hot pot", testo: "A divided broth." },
-      { nome: "Mapo tofu", testo: "A classic." },
-      { nome: "Gongbao", testo: "Chicken." },
+      { nome: "Hot pot", testo: "A spicy broth of chilli and Sichuan pepper in which meat and vegetables are cooked; you can ask for a split pot, half spicy and half mild." },
+      { nome: "Mapo tofu", testo: "Tofu in a spicy sauce with minced meat and Sichuan pepper." },
+      { nome: "Gongbao", testo: "Diced chicken stir-fried with peanuts and chilli." },
     ],
     attenzioni: [
       "Reaching the pandas mid-morning: they are asleep and all you see is backs.",
@@ -896,12 +896,12 @@ export const destinazioniCina: Destinazione[] = [
         come: "Xinhua Road station, near Jiefangbei, to the south bank.",
         quando: "At sunset or after dark.",
         tempo: "30 minutes, plus the queue",
-        consiglio: "The queue can top an hour: go on a weekday or late in the evening.",
+        consiglio: "The queue can be long: go on a weekday or late in the evening.",
       },
       {
         nome: "Wulong",
-        testo: "The Wulong karst park, a UNESCO site among the landscapes of the South China Karst. The Three Natural Bridges are gigantic rock arches above a gorge, visited from below by going down in a lift and walking along the stream.",
-        come: "Train from Chongqing to Wulong and then a shuttle, or a day tour: allow 2-3 hours each way.",
+        testo: "Wulong karst park, a UNESCO World Heritage Site among the South China Karst landscapes. The Three Natural Bridges are gigantic rock arches above a gorge, visited from below by walking along the stream.",
+        come: "Train from Chongqing to Wulong and then a shuttle, or a day tour: the journey is long, so start early.",
         quando: "A full day, outside holiday weeks.",
         tempo: "Full day",
         consiglio: "Leave early: between travel and visit the day is full, and the gorge trail needs comfortable shoes.",
@@ -911,17 +911,17 @@ export const destinazioniCina: Destinazione[] = [
       { titolo: "1-2 days: Chongqing", tappe: ["Liziba","Cable car","Hongya Dong at night","Hot pot"] },
     ],
     zone: [
-      { nome: "Jiefangbei", perChi: "For those who want the centre", testo: "Convenient." },
+      { nome: "Jiefangbei", perChi: "For those who want the centre", testo: "The centre, handy for the metro, the cable car and Hongya Dong." },
     ],
     sapori: [
       { nome: "Chongqing hot pot", testo: "Spicy red broth." },
-      { nome: "Xiaomian", testo: "Spicy noodles." },
+      { nome: "Xiaomian", testo: "Noodles in a spicy broth with chilli and Sichuan pepper." },
     ],
     attenzioni: [
       "Seeing Hongya Cave only from inside: the show is visible from the other bank.",
       "Trusting walking times on maps: the city is built in layers, and two nearby points can be tens of metres apart in height.",
       "Going in July and August: the heat is stifling.",
-      "Ordering hot pot without asking for 'mild' (wei la): Chongqing's is the fiercest in the country.",
+      "Ordering hot pot without asking for 'mildly spicy' (wei la): Chongqing's is very spicy.",
     ],
     esperienzeSlugs: ['hongya-dong-notte'],
     tripSlugs: ['cina-paesaggi'],
@@ -974,11 +974,11 @@ export const destinazioniCina: Destinazione[] = [
     luoghi: [
       {
         nome: "Dayan Old Town",
-        testo: "Lijiang's old town, a UNESCO site since 1997: paved lanes, wooden houses of the Naxi minority and running-water canals. At its heart is Sifang Square. By day and evening it is a crowded shopping street; at dawn it becomes a village again.",
+        testo: "Lijiang's old town, a UNESCO World Heritage Site since 1997: paved lanes, wooden houses of the Naxi minority and channels of running water. By day and in the evening it is a crowded shopping street; at dawn it becomes a village again.",
         come: "On foot; cars cannot enter.",
-        quando: "At dawn, before eight.",
+        quando: "At dawn, before the shops open.",
         tempo: "Morning",
-        consiglio: "At six it is a different place. Black Dragon Pool, just to the north, reflects Jade Dragon Mountain in the morning if the sky is clear.",
+        consiglio: "At dawn it is a different place. Black Dragon Pool, just to the north, reflects Jade Dragon Mountain in the morning if the sky is clear.",
       },
       {
         nome: "Lion Hill",
@@ -990,16 +990,16 @@ export const destinazioniCina: Destinazione[] = [
       },
       {
         nome: "Baisha",
-        testo: "A Naxi village 8-10 kilometres north, the region's centre before Lijiang. It keeps Ming-era murals in its temples and the pace of a real village, with fields around it and the mountain behind.",
+        testo: "A Naxi village north of Lijiang, the centre of the region before Lijiang. It keeps Ming-era frescoes in its temples and the pace of a real village, with countryside around it and the mountain in the background.",
         come: "Bike or taxi from Lijiang.",
         quando: "Morning.",
         tempo: "Half a day",
-        consiglio: "Hardly anyone goes: it is the place to understand what Lijiang was like before tourism.",
+        consiglio: "Far fewer people go there than to Dayan: it is the right place to understand what Lijiang was like before tourism.",
       },
       {
         nome: "Shuhe",
         testo: "An old stop on the Tea Horse Road, north of Lijiang. It is smaller and quieter than Dayan, with canals and small guesthouses.",
-        come: "Bike, or taxi in about 20 minutes.",
+        come: "By bicycle or taxi from Lijiang.",
         quando: "Morning.",
         tempo: "1.5 hours",
         consiglio: "Go by bike and carry on to Baisha: they are on the same road.",
@@ -1012,11 +1012,11 @@ export const destinazioniCina: Destinazione[] = [
       { nome: "Old town", perChi: "For those who want to sleep among the canals", testo: "Better than just passing through." },
     ],
     sapori: [
-      { nome: "\"Across the bridge\" noodles", testo: "Boiling broth." },
-      { nome: "Goat cheese", testo: "Made by the Bai." },
+      { nome: "\"Across the bridge\" noodles", testo: "Boiling broth in which rice noodles, meat and vegetables are cooked at the table: a typical Yunnan dish." },
+      { nome: "Goat cheese", testo: "Goat's cheese from the Bai tradition, often served fried or grilled." },
     ],
     attenzioni: [
-      "Judging Dayan at six in the evening: it is its worst hour.",
+      "Judging Dayan at the end of the day, at rush hour: it is its worst moment.",
       "Ignoring the altitude: Lijiang is high up, so walk more slowly the first days.",
       "Skipping Baisha and Shuhe.",
       "Buying silver, pu'er tea or jade in old-town shops without bargaining.",
@@ -1115,7 +1115,7 @@ export const destinazioniCina: Destinazione[] = [
       {
         nome: "Jade Dragon Snow Mountain",
         testo: "The Jade Dragon Snow Mountain massif, towering over Lijiang. A cable car climbs to the Glacier Park at 4,506 metres, where a wooden walkway leads among rock and ice. Lower down is Blue Moon Valley, with terraced turquoise lakes.",
-        come: "Tour or car from Lijiang, about an hour. Glacier cable car tickets are capped and must be booked ahead.",
+        come: "Tour or car from Lijiang. Tickets for the glacier cable car are limited and must be booked in advance.",
         quando: "Early morning: in the afternoon cloud and wind build up.",
         tempo: "Full day",
         consiglio: "Acclimatise for a couple of days in Lijiang before going up, and move slowly at the top.",
@@ -1139,7 +1139,7 @@ export const destinazioniCina: Destinazione[] = [
       {
         nome: "Shangri-La",
         testo: "The town of Zhongdian, renamed Shangri-La, on the Tibetan plateau at about 3,200 metres. Songzanlin Monastery, from the 17th century, is the largest in Yunnan; the old town of Dukezong was largely rebuilt after the 2014 fire.",
-        come: "Train or bus from Lijiang; the train takes under two hours.",
+        come: "Train or bus from Lijiang.",
         quando: "May to October; winter is very cold.",
         tempo: "1-2 days",
         consiglio: "The monastery at opening time, when the monks are at work. Go easy: you feel the altitude.",
@@ -1149,11 +1149,11 @@ export const destinazioniCina: Destinazione[] = [
       { titolo: "3 days: beyond Lijiang", tappe: ["Day 1: Impression Lijiang","Day 2: Yulong Xueshan","Day 3: Tiger Leaping Gorge"] },
     ],
     zone: [
-      { nome: "Guesthouse along the gorge", perChi: "For those doing the trek", testo: "A simple set menu." },
+      { nome: "Guesthouse along the gorge", perChi: "For those doing the trek", testo: "Simple guesthouses along the high trail, with home cooking." },
     ],
     sapori: [
-      { nome: "Yak butter tea", testo: "The first sip is disconcerting." },
-      { nome: "Momo", testo: "Steamed." },
+      { nome: "Yak butter tea", testo: "Tibetan tea with butter and salt: the first sip is a surprise." },
+      { nome: "Momo", testo: "Tibetan steamed dumplings, with meat or vegetables." },
     ],
     attenzioni: [
       "Going up to 4,506 metres straight off the plane: better a couple of days in Lijiang first.",
@@ -1227,7 +1227,7 @@ export const destinazioniCina: Destinazione[] = [
         testo: "A tributary of the Li, smaller and quieter, among rice paddies, water buffalo and stone bridges; the Yulong (Jade Dragon) Bridge is one of the best known. You float down on bamboo rafts pushed by hand with a pole.",
         come: "By bike or e-bike from Yangshuo, along country lanes.",
         quando: "A full day, in spring or autumn.",
-        tempo: "5 hours",
+        tempo: "Half a day",
         consiglio: "Rent a bike and go without a plan: there is always a bridge, a village or a fruit stall.",
       },
       {
@@ -1241,7 +1241,7 @@ export const destinazioniCina: Destinazione[] = [
       {
         nome: "Longji Rice Terraces",
         testo: "The Dragon's Backbone rice terraces, carved into the mountains by Zhuang and Yao villages. You walk between Ping'an and Dazhai, with viewpoints over paddies stepping down to the valley floor.",
-        come: "Tour or car: about 2 hours from Guilin, longer from Yangshuo.",
+        come: "Tour or car from Guilin; from Yangshuo the journey is longer.",
         quando: "May-June with water in the paddies, September-October with golden rice.",
         tempo: "Full day, better with a night",
         consiglio: "Sleep in a terrace village: early in the morning you walk alone.",
@@ -1251,11 +1251,11 @@ export const destinazioniCina: Destinazione[] = [
       { titolo: "2 days: Yangshuo", tappe: ["Day 1: Xingping by raft, Yulong by bike","Day 2: sunrise at Xianggong, Longji"] },
     ],
     zone: [
-      { nome: "Countryside", perChi: "For those who want silence", testo: "Better than West Street." },
+      { nome: "Countryside", perChi: "For those who want silence", testo: "Guesthouses among rice fields and hills, quieter than West Street." },
     ],
     sapori: [
-      { nome: "Beer fish", testo: "With beer and peppers." },
-      { nome: "Guilin noodles", testo: "For breakfast." },
+      { nome: "Beer fish", testo: "River fish cooked with beer, tomatoes and peppers: Yangshuo's signature dish." },
+      { nome: "Guilin noodles", testo: "Rice noodles in broth or dressed, eaten for breakfast too." },
     ],
     attenzioni: [
       "Taking the long cruise from Guilin thinking it is the best option.",
@@ -1364,7 +1364,7 @@ export const destinazioniCina: Destinazione[] = [
       {
         nome: "Dim sum",
         testo: "The Cantonese lunch of small steamed and fried dishes, eaten with tea (yum cha). In traditional halls the dishes come round on trolleys and you choose by sight; in more modern places you tick a sheet.",
-        come: "In a traditional hall: the oldest are in Central and Sheung Wan.",
+        come: "In a traditional dining hall, for example in Central or Sheung Wan.",
         quando: "From early morning to early afternoon.",
         tempo: "1 hour",
         consiglio: "Leave the teapot lid propped open or to one side: it is the signal for more hot water.",
@@ -1374,11 +1374,11 @@ export const destinazioniCina: Destinazione[] = [
       { titolo: "2 days: Hong Kong", tappe: ["Day 1: Star Ferry, Tsim Sha Tsui, Symphony of Lights","Day 2: Peak, Sheung Wan, Dragon's Back"] },
     ],
     zone: [
-      { nome: "Tsim Sha Tsui", perChi: "For those who want a view", testo: "Expensive." },
-      { nome: "Sheung Wan", perChi: "For those who want local life", testo: "Central." },
+      { nome: "Tsim Sha Tsui", perChi: "For those who want a view", testo: "Handy for the Star Ferry and the waterfront, with often expensive hotels." },
+      { nome: "Sheung Wan", perChi: "For those who want local life", testo: "A central district, close to the metro and the streets of traditional shops." },
     ],
     sapori: [
-      { nome: "Dim sum", testo: "Trolleys." },
+      { nome: "Dim sum", testo: "Small steamed or fried dishes, eaten with tea." },
       { nome: "Cha chaan teng", testo: "An Anglo-Cantonese diner." },
     ],
     attenzioni: [
@@ -1441,12 +1441,12 @@ export const destinazioniCina: Destinazione[] = [
       {
         nome: "Ruins of St. Paul's",
         testo: "The stone façade of the Jesuit church of Mater Dei, built in the early 17th century and destroyed by fire in 1835. Only the front still stands, at the top of a flight of steps, with carvings that mix Christian and Chinese symbols. It is the emblem of the Historic Centre of Macao, a UNESCO site since 2005.",
-        come: "On foot from Senado Square, 10 minutes.",
+        come: "On foot from Largo do Senado.",
         quando: "Early morning, before the groups.",
         tempo: "45 minutes",
         costo: "Free",
         url: "https://www.wh.mo/",
-        consiglio: "Behind the façade there is a small crypt with a museum of sacred art that hardly anyone visits.",
+        consiglio: "Behind the façade is a small crypt with the museum of sacred art, often overlooked.",
       },
       {
         nome: "Senado Square",
@@ -1476,10 +1476,10 @@ export const destinazioniCina: Destinazione[] = [
       {
         nome: "Cotai",
         testo: "The strip of casino resorts built on land reclaimed from the sea between Taipa and Coloane, with copies of Venice, Paris and London. It is huge and a little surreal, but worth an evening to grasp the scale.",
-        come: "Hotel shuttles from the ferry terminals and the border crossing.",
+        come: "Bus or taxi from the ferry terminals and the border.",
         quando: "Evening.",
         tempo: "2 hours",
-        consiglio: "You move between resorts on the hotel shuttles, barely stepping outdoors.",
+        consiglio: "One evening is enough to get the idea.",
       },
       {
         nome: "A-Ma Temple",
@@ -1495,12 +1495,12 @@ export const destinazioniCina: Destinazione[] = [
       { titolo: "1 day: Macao", tappe: ["Historic centre","Macanese lunch","Taipa","Cotai"] },
     ],
     zone: [
-      { nome: "No need to sleep there", perChi: "A day trip from Hong Kong", testo: "Half a day." },
+      { nome: "No need to sleep there", perChi: "A day trip from Hong Kong", testo: "It can be visited as a day trip from Hong Kong." },
     ],
     sapori: [
-      { nome: "Galinha à africana", testo: "Chicken." },
+      { nome: "Galinha à africana", testo: "Chicken in a spiced coconut and chilli sauce, a dish of Macanese cooking." },
       { nome: "Minchi", testo: "Meat with potatoes and egg." },
-      { nome: "Pastéis de nata", testo: "Pastries." },
+      { nome: "Pastéis de nata", testo: "Puff pastry tarts with egg custard, of Portuguese origin." },
     ],
     attenzioni: [
       "Seeing only the casinos: the historic centre is the reason to come.",

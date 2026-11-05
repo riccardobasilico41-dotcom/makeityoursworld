@@ -50,8 +50,8 @@ export const destinazioniDanimarca: Destinazione[] = [
     luoghi: [
       {
         nome: "Nyhavn",
-        testo: "The canal dug between 1670 and 1675, with colourful houses from the 17th and early 18th centuries, now a line of cafes and restaurants on the quay. It is the most photographed spot in the city, and boats for the canals leave from here.",
-        come: "On foot from Kongens Nytorv (5 minutes) or by metro (M1/M2) to Kongens Nytorv.",
+        testo: "The canal dug in the 17th century, lined with old coloured houses and now a row of cafés and restaurants on the quay. It is one of the most photographed spots in the city, and canal boats leave from here.",
+        come: "Metro to Kongens Nytorv, then a few steps on foot.",
         quando: "Early morning for photos; evening for tables on the quay, which are pricier.",
         tempo: "1 hour",
         costo: "free entry",
@@ -59,26 +59,25 @@ export const destinazioniDanimarca: Destinazione[] = [
       },
       {
         nome: "Rosenborg Castle",
-        testo: "A Renaissance castle built by Christian IV between 1606 and 1624, first as a summer residence. The treasury holds the Danish crown jewels and regalia; around it is Kongens Have, the oldest royal garden in the country.",
-        come: "Metro or on foot to Nørreport (10 minutes from the centre).",
+        testo: "A Renaissance castle built by Christian IV between 1606 and 1624 as a summer residence. The treasury holds the Danish crown jewels and regalia; around it lies Kongens Have, the historic royal garden.",
+        come: "Metro to Nørreport or on foot from the centre.",
         quando: "Weekday morning; the park is open to everyone, free.",
         tempo: "1.5 hours",
         consiglio: "The Kongens Have is a good place for a free picnic."
       },
       {
         nome: "Amalienborg",
-        testo: "Four identical palaces with rococo interiors around an octagonal square: the royal family's residence. Every day the guard marches from Rosenborg at 11:30 and changes in front of Amalienborg at noon.",
-        come: "On foot from Nyhavn, along the waterfront (10 minutes).",
-        quando: "Noon for the ceremony.",
+        testo: "Four identical palaces with rococo interiors around an octagonal square: the residence of the royal family. Every day there is the changing of the guard, which marches over from Rosenborg.",
+        come: "On foot from Nyhavn, along the waterfront.",
+        quando: "At the time of the changing of the guard, around the middle of the day.",
         tempo: "1 hour",
         costo: "changing of the guard free",
-        url: "https://www.kongernessamling.dk",
-        consiglio: "The dome of the nearby Marble Church can be visited on guided tours at weekends, no booking: times on the church's website."
+        consiglio: "The dome of the nearby Marble Church can be visited: times on the church's website."
       },
       {
         nome: "Tivoli Gardens",
-        testo: "Opened in 1843, it is the second-oldest amusement park in the world still operating, in the middle of the city. Landscaped gardens, the 1914 wooden roller coaster Rutschebanen and lights at dusk.",
-        come: "On foot from the central station (5 minutes). Open seasonally: summer, Halloween and Christmas.",
+        testo: "Opened in 1843, it is one of the oldest amusement parks in the world, right in the centre. Neat gardens, the historic wooden roller coaster Rutschebanen and lights at dusk.",
+        come: "On foot from the central station. Open in seasons: summer, Halloween and Christmas.",
         quando: "Evening, when the lights come on.",
         tempo: "3-4 hours",
         url: "https://www.tivoli.dk",
@@ -86,9 +85,9 @@ export const destinazioniDanimarca: Destinazione[] = [
       },
       {
         nome: "Christianshavn and Vor Frelsers Kirke",
-        testo: "A district with minor canals, houseboats and the Church of Our Saviour, famous for its black and gold spire with a spiral stair: 400 steps, narrow and steep inside the tower, then the last 150 outdoors, with a view over all of Copenhagen.",
-        come: "Metro M1/M2 to Christianshavn or on foot from the centre (15 minutes).",
-        quando: "Clear day; the tower closes in rain, snow or strong wind, and is closed in January.",
+        testo: "A district of smaller canals, houseboats and the Church of Our Saviour, famous for its black and gold spire with an outside spiral staircase: you climb first inside the tower, on narrow and steep steps, then outdoors along the spiral, with a view over all of Copenhagen.",
+        come: "Metro to Christianshavn or on foot from the centre.",
+        quando: "A clear day; in bad weather the tower may close.",
         tempo: "1-2 hours",
         url: "https://www.vorfrelserskirke.dk",
         consiglio: "Book online: places are limited. The last stretch is exposed, not advised if you fear heights."
@@ -105,8 +104,8 @@ export const destinazioniDanimarca: Destinazione[] = [
       },
       {
         nome: "Louisiana Museum of Modern Art",
-        testo: "In Humlebæk, north of Copenhagen, Scandinavia's most visited museum of modern and contemporary art: pavilions on the Øresund with works by Giacometti, Picasso, Warhol and Hockney, and a sculpture garden (Moore, Calder) sloping down to the sea.",
-        come: "Train from Copenhagen H to Humlebæk, then a 10-15 minute walk.",
+        testo: "In Humlebæk, north of Copenhagen, a major museum of modern and contemporary art: pavilions on the Øresund with works by Giacometti, Picasso, Warhol and Hockney, and a sculpture garden (Moore, Calder) sloping down to the sea.",
+        come: "Outside the city, north along the coast; how to get there by public transport on the official website.",
         quando: "All day, with lunch at the cafe with a sea view.",
         tempo: "half a day",
         url: "https://www.louisiana.dk",
@@ -130,7 +129,7 @@ export const destinazioniDanimarca: Destinazione[] = [
           "Day 1 as above",
           "Day 2: Christianshavn (Vor Frelsers Kirke)",
           "Christiania",
-          "Torvehallerne for lunch",
+          "Lunch in the centre",
           "Evening: Vesterbro"
         ]
       },
@@ -138,7 +137,7 @@ export const destinazioniDanimarca: Destinazione[] = [
         titolo: "3 days",
         tappe: [
           "Days 1-2 as above",
-          "Day 3: Louisiana or Kronborg Castle in Helsingør"
+          "Day 3: Louisiana Museum in Humlebæk"
         ]
       }
     ],
@@ -156,7 +155,7 @@ export const destinazioniDanimarca: Destinazione[] = [
       {
         nome: "Nørrebro",
         perChi: "Those who prefer a real neighbourhood and mid prices",
-        testo: "Multicultural, with cafes and shops; 15 minutes by bike from the centre."
+        testo: "Multicultural, with cafés and shops; close to the centre by bike."
       },
       {
         nome: "Christianshavn",
@@ -167,7 +166,7 @@ export const destinazioniDanimarca: Destinazione[] = [
     sapori: [
       {
         nome: "Smørrebrød",
-        testo: "Rye bread with fish, meat or egg, the traditional Danish lunch; try it at Torvehallerne."
+        testo: "Rye bread topped with fish, meat or eggs, the traditional Danish lunch; served in cafés and traditional restaurants."
       },
       {
         nome: "Wienerbrød",

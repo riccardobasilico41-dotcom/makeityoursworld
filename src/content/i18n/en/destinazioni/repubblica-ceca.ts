@@ -47,9 +47,9 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
     luoghi: [
       {
         nome: "Old Town Square and Orloj",
-        testo: "The central square with the Astronomical Clock tower (1410), the third-oldest astronomical clock in the world and the oldest still working. On the hour the skeleton of Death rings the bell and the twelve Apostles pass by the little windows.",
-        come: "On foot, metro A to Staroměstská. The Orloj can be seen from the square, free.",
-        quando: "On the hour, but arrive 10 minutes early; the Town Hall tower has a paid viewing deck.",
+        testo: "The main square with the Astronomical Clock Tower (1410), one of the oldest astronomical clocks in the world still working. On the hour the skeleton of Death rings the bell and the twelve Apostles parade past the little windows.",
+        come: "On foot; the nearest metro stop is Staroměstská. The Orloj can be watched from the square for free.",
+        quando: "On the hour, arriving a few minutes early; the town hall tower has a paid viewpoint.",
         tempo: "1 hour",
         costo: "square and show free",
         url: "https://www.prague.eu",
@@ -59,15 +59,15 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
         nome: "Charles Bridge",
         testo: "The 516 metre Gothic bridge begun in 1357 for Charles IV, with over 30 baroque statues (copies). It joins the Old Town to Malá Strana and the Castle.",
         come: "On foot; always open.",
-        quando: "Dawn, when it is empty, or after 21:00.",
+        quando: "At dawn, when it is empty, or late in the evening.",
         tempo: "30-45 minutes",
         costo: "free entry",
         consiglio: "Pickpockets are active at peak hours; keep your bag in front."
       },
       {
         nome: "Prague Castle and St Vitus Cathedral",
-        testo: "According to Guinness World Records the largest ancient castle in the world, almost 70,000 square metres, with the Gothic St Vitus Cathedral, the Old Royal Palace, St George's Basilica and Golden Lane. The courtyard and gardens are free to enter.",
-        come: "Tram 22 to Pražský hrad, then on foot. Tickets at the entrance or online.",
+        testo: "One of the largest castle complexes in the world, with the Gothic St Vitus Cathedral, the Old Royal Palace, St George's Basilica and Golden Lane.",
+        come: "By tram to the stops near the Castle, or on foot uphill from Malá Strana. Tickets at the entrance or online.",
         quando: "Early morning, at opening; changing of the guard times on the official site.",
         tempo: "3-4 hours",
         url: "https://www.hrad.cz",
@@ -76,7 +76,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       {
         nome: "Malá Strana and the John Lennon Wall",
         testo: "The baroque district at the foot of the Castle, with St Nicholas Church and Kampa island. The Lennon Wall, covered with graffiti since the 1980s, is on the small square Velkopřevorské náměstí, near Kampa island.",
-        come: "On foot from Charles Bridge (5 minutes).",
+        come: "On foot from Charles Bridge.",
         quando: "Morning or late afternoon.",
         tempo: "2 hours",
         costo: "free entry",
@@ -85,7 +85,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       {
         nome: "Josefov and the Jewish Museum",
         testo: "The former Jewish quarter in the heart of Staré Město, with five synagogues and the Old Jewish Cemetery run by the Jewish Museum, including the Spanish and Pinkas synagogues. One ticket covers all the museum's sites; the Old-New Synagogue, still used for worship, needs a separate or combined ticket.",
-        come: "Metro A to Staroměstská, then 5 minutes.",
+        come: "On foot from Old Town Square.",
         quando: "Open every day except Saturdays and Jewish holidays; early morning, before the groups.",
         tempo: "2-3 hours",
         costo: "CZK 600 adults for all Jewish Museum sites (2026)",
@@ -95,7 +95,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       {
         nome: "Vyšehrad",
         testo: "The hilltop fortress to the south, less visited than the Castle, with the Basilica of Saints Peter and Paul and the cemetery of great Czechs (Dvořák, Smetana). The view over the Vltava is excellent.",
-        come: "Metro C to Vyšehrad, then 10 minutes on foot.",
+        come: "By public transport from the centre, then on foot.",
         quando: "Afternoon.",
         tempo: "1.5 hours",
         costo: "park free",
@@ -184,7 +184,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       "Taxis: use a known company or an app rather than hailing one in the street, check the rates shown on the side and avoid unmarked cars.",
       "Pickpockets on trams to the Castle, on transport from the airport and in crowded tourist areas. Be wary of fake plainclothes police asking to see your money and passport.",
       "Trdelník is not a Czech sweet but a tourist product; local bakeries offer better.",
-      "Transit tickets must be validated before boarding (not those bought from machines on board): the on-the-spot fine is 1,000 CZK."
+      "Public transport tickets must be validated before boarding (not those bought from machines on board): without validation you risk an on-the-spot fine."
     ],
     esperienzeSlugs: ['praga-castello-biglietto', 'praga-josefov-jewish-town', 'praga-degustazione-birra'],
     tripSlugs: ['praga-weekend'],

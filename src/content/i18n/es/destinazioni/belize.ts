@@ -49,17 +49,17 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Hol Chan Marine Reserve y Shark Ray Alley",
-          "testo": "Hol Chan es un canal natural en el arrecife, al sur de Ambergris, dentro de una reserva marina creada en 1987 y parte del sitio UNESCO del arrecife de Belice. Shark Ray Alley es donde los pescadores limpiaban las redes: los restos atraían tiburones nodriza y rayas, que hoy se acercan a la lancha.",
+          "testo": "Hol Chan es un canal natural en el arrecife, al sur de Ambergris, dentro de una reserva marina que forma parte del sitio UNESCO del arrecife de Belice. Shark Ray Alley es donde los pescadores limpiaban las redes: los restos atraían tiburones nodriza y rayas, que hoy se acercan a la lancha.",
           "come": "Excursión en barco de media jornada desde Caye Caulker, con guía y equipo. La tasa del parque marino a menudo no está incluida en el precio.",
           "quando": "Por la mañana, con el mar más tranquilo; mejor época de diciembre a abril.",
-          "tempo": "4-5 horas",
+          "tempo": "Media jornada",
           "costo": "Tasa de la reserva 15 USD por persona (desde 2024), a menudo no incluida en el precio del tour.",
           "url": "https://www.travelbelize.org/",
           "consiglio": "De quien ha ido: en el agua a un metro de tiburones nodriza y rayas que no hacen caso a quien los mira. Antes de reservar, preguntar qué incluye el precio."
         },
         {
           "nome": "El Great Blue Hole desde el aire",
-          "testo": "Una dolina marina de más de 300 metros de ancho y unos 124 de profundidad, en el centro de Lighthouse Reef, un atolón a unos 70 km de la costa. El círculo perfecto solo se ve desde arriba.",
+          "testo": "Una dolina marina de más de 300 metros de ancho y unos 124 de profundidad, en el centro de Lighthouse Reef, un atolón mar adentro. El círculo perfecto solo se ve desde arriba.",
           "come": "Vuelo panorámico en avioneta desde la isla o desde Belize City. La alternativa es una inmersión de día completo, más cara y más cansada.",
           "quando": "Día despejado, mejor por la mañana.",
           "tempo": "Media jornada",
@@ -100,7 +100,7 @@ export const destinazioniBelize: Destinazione[] = [
         {
           "nome": "Lado este y norte de la isla",
           "perChi": "quien busca calma",
-          "testo": "Cabañas más tranquilas, con el mar delante. Para cenar se camina 10-15 minutos, de noche con linterna."
+          "testo": "Cabañas más tranquilas, con el mar delante. Para cenar hay que caminar un poco, de noche con linterna."
         }
       ],
       "sapori": [
@@ -178,16 +178,16 @@ export const destinazioniBelize: Destinazione[] = [
           "testo": "El canal natural en el arrecife y el punto de los tiburones nodriza y las rayas, a pocos minutos en barco de San Pedro. Ambergris es la salida más cercana.",
           "come": "Excursión en barco de media jornada reservada en San Pedro; equipo incluido. Tasa del parque a menudo aparte.",
           "quando": "Por la mañana; diciembre-abril.",
-          "tempo": "4 horas",
+          "tempo": "Media jornada",
           "costo": "Tasa de la reserva 15 USD por persona (desde 2024), a menudo no incluida en el precio del tour.",
           "url": "https://www.travelbelize.org/",
           "consiglio": "Se llega antes, así que en el mismo recorrido cabe otra parada de snorkel."
         },
         {
           "nome": "Secret Beach",
-          "testo": "Una playa en el lado oeste de la isla, con agua muy poco profunda y arena clara, en el lado protegido del viento.",
-          "come": "Taxi golf cart o barco desde San Pedro; el último tramo es de tierra.",
-          "quando": "Mañana o tarde, con cielo despejado. Mejor en días sin viento fuerte del oeste.",
+          "testo": "Una playa lejos del centro de San Pedro, con agua muy poco profunda y arena clara.",
+          "come": "Taxi golf cart o barco desde San Pedro; preguntar en el pueblo por el estado del camino.",
+          "quando": "Mañana o tarde, con cielo despejado.",
           "tempo": "Media jornada",
           "consiglio": "Se va para bañarse y comer junto al agua, no para surfear. Llevar efectivo."
         },
@@ -247,11 +247,11 @@ export const destinazioniBelize: Destinazione[] = [
       "sapori": [
         {
           "nome": "Stew chicken en los comedor",
-          "testo": "Pollo guisado con arroz y frijoles, el mismo plato del malecón a una cuarta parte del precio, en las calles de atrás del pueblo."
+          "testo": "Pollo guisado con arroz y frijoles, el mismo plato del malecón por mucho menos, en las calles de atrás del pueblo."
         },
         {
           "nome": "Conch fritters",
-          "testo": "Buñuelos de caracola, en temporada, cerca del muelle."
+          "testo": "Buñuelos de caracola, en temporada."
         },
         {
           "nome": "Seaweed shake",
@@ -318,32 +318,29 @@ export const destinazioniBelize: Destinazione[] = [
           "come": "Las entradas las venden solo operadores autorizados, con guía y transporte desde San Ignacio: caminata por la selva con vados, luego horas en agua fría y pasos estrechos.",
           "quando": "Mañana; diciembre-abril. Puede cerrar tras lluvias fuertes por el nivel del agua.",
           "tempo": "Día completo",
-          "url": "https://ticketing.nichbelize.org/",
           "consiglio": "Las cámaras están prohibidas a los visitantes desde 2012, cuando una cámara caída agrietó un cráneo. Si sufres claustrofobia o llevas mal el agua fría, sáltala."
         },
         {
           "nome": "Xunantunich",
-          "testo": "Sitio maya del periodo clásico con la pirámide El Castillo, de unos 40 metros, en una colina sobre el río Mopan. Se sube hasta la cima.",
-          "come": "Desde San Ignacio taxi hasta el Mopan, luego el ferry de cadena gratuito; al otro lado, 15 minutos de subida a pie.",
+          "testo": "Sitio maya del periodo clásico con la pirámide El Castillo en una colina sobre el río Mopan. Se sube hasta la cima.",
+          "come": "Desde San Ignacio taxi hasta el Mopan, luego el ferry de cadena; al otro lado se sube a pie.",
           "quando": "Mañana, antes del calor.",
           "tempo": "2 horas",
-          "url": "https://ticketing.nichbelize.org/",
           "consiglio": "Desde la cima se ve Guatemala. Se combina fácilmente con la cueva o con Rio On el mismo día."
         },
         {
           "nome": "Caracol",
-          "testo": "Una de las mayores ciudades mayas, en la meseta de Vaca, al pie de las Maya Mountains. La pirámide Caana, de 43 metros, sigue siendo la estructura construida por el hombre más alta de Belice.",
+          "testo": "Una de las mayores ciudades mayas, en la meseta de Vaca, al pie de las Maya Mountains. La pirámide Caana mide 43 metros.",
           "come": "Excursión desde San Ignacio con guía, por una carretera larga y en parte de tierra; en general el almuerzo está incluido.",
           "quando": "Mañana temprano. Estación seca por el camino.",
           "tempo": "Día completo",
-          "url": "https://ticketing.nichbelize.org/",
           "consiglio": "Se va por el silencio y los monos aulladores, no por las multitudes de Tikal. Comprobar el estado del camino."
         },
         {
           "nome": "Rio On Pools y Mountain Pine Ridge",
           "testo": "Una serie de cascadas pequeñas y pozas naturales en el Rio On, en un bosque de pinos de altiplano. Se nada y se resbala por las rocas lisas.",
           "come": "En coche o taxi desde San Ignacio, subiendo hacia la Mountain Pine Ridge.",
-          "quando": "Por la tarde, con el agua más tibia.",
+          "quando": "De día, en la estación seca.",
           "tempo": "1-2 horas",
           "consiglio": "Zapatos de agua: las rocas resbalan."
         }
@@ -459,10 +456,10 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Laughing Bird Caye",
-          "testo": "Un islote parque nacional a unos 19 km de Placencia, sobre una larga dorsal de coral, con arrecife cerca y agua poco profunda. Forma parte del sitio UNESCO del arrecife de Belice.",
+          "testo": "Un islote parque nacional frente a Placencia, con arrecife cerca y agua poco profunda. Forma parte del sitio UNESCO del arrecife de Belice.",
           "come": "Excursión en barco de media jornada desde Placencia con uno de los operadores locales; tasa del parque aparte.",
           "quando": "Mañana, mar calmo; estación seca.",
-          "tempo": "4-5 horas",
+          "tempo": "Media jornada",
           "url": "https://www.travelbelize.org/",
           "consiglio": "Llevar protector solar apto para arrecifes y no tocar los corales."
         },
@@ -476,7 +473,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Cockscomb Basin Wildlife Sanctuary",
-          "testo": "Reserva creada en los años ochenta, la primera área protegida pensada para el jaguar, en un valle de selva tropical con senderos a cascadas y miradores. El jaguar se ve muy pocas veces.",
+          "testo": "Reserva creada para proteger al jaguar, en un valle de selva tropical con senderos a cascadas y miradores. El jaguar se ve muy pocas veces.",
           "come": "Desde Hopkins o Placencia en coche hasta la entrada; senderos de una a pocas horas, algunos con pozas para bañarse.",
           "quando": "Mañana temprano; estación seca.",
           "tempo": "Media jornada",

@@ -54,8 +54,8 @@ export const destinazioniAustria: Destinazione[] = [
     luoghi: [
       {
         nome: "Palazzo di Schönbrunn",
-        testo: "La residenza estiva degli Asburgo, patrimonio UNESCO, con 1.441 stanze e giardini barocchi. Si visitano gli appartamenti di Francesco Giuseppe e di Sissi, con diversi tour.",
-        come: "Metro U4 fino a Schönbrunn (20 minuti dal centro). Biglietti online con orario.",
+        testo: "La residenza estiva degli Asburgo, patrimonio UNESCO, con 1.441 stanze e giardini barocchi. Si visitano gli appartamenti imperiali, con diversi percorsi.",
+        come: "In metro dal centro fino alla fermata Schönbrunn. Biglietti online con orario.",
         quando: "Palazzo tutti i giorni 8:30-17, giardini dalle 6:30; mattina presto per anticipare i gruppi.",
         tempo: "3-4 ore",
         costo: "Palace Ticket 42 € adulti (2026), solo online sul sito ufficiale; giardini liberi",
@@ -65,8 +65,8 @@ export const destinazioniAustria: Destinazione[] = [
       {
         nome: "Hofburg e Museo Sisi",
         testo: "Il palazzo imperiale in centro, con appartamenti imperiali, la collezione delle argenterie e il museo dedicato a Sissi. Il complesso ospita anche la Scuola Spagnola di Equitazione.",
-        come: "Metro U3 fino a Herrengasse, poi a piedi (5 minuti).",
-        quando: "Tutti i giorni 10-16:30; il Museo Sisi riallestito riapre il 19 novembre 2026. Mattina nei giorni feriali.",
+        come: "In centro, a piedi.",
+        quando: "Orari sul sito ufficiale; il Museo Sisi riallestito riapre il 19 novembre 2026. Mattina nei giorni feriali.",
         tempo: "2 ore",
         costo: "Museo Sisi 15 €, con visita guidata agli appartamenti 33 € (2026)",
         url: "https://www.sisimuseum-hofburg.at",
@@ -74,8 +74,8 @@ export const destinazioniAustria: Destinazione[] = [
       },
       {
         nome: "Cattedrale di Santo Stefano (Stephansdom)",
-        testo: "Il simbolo di Vienna, in stile gotico, con il tetto di 230.000 tegole colorate e la torre sud di 136 metri, che si sale a piedi. Sulla torre nord incompiuta c'è una piattaforma con la campana Pummerin; sotto, le catacombe con i resti di oltre 11.000 persone.",
-        come: "Metro U1/U3 fino a Stephansplatz. Torri e catacombe a pagamento: tariffe sul sito ufficiale.",
+        testo: "Il simbolo di Vienna, in stile gotico, con il tetto di tegole colorate e la torre sud di 136 metri, che si sale a piedi. Sulla torre nord incompiuta c'è una piattaforma con la campana Pummerin; sotto la chiesa ci sono le catacombe.",
+        come: "Metro fino a Stephansplatz. Torri e catacombe a pagamento: tariffe sul sito ufficiale.",
         quando: "Visite turistiche lun-sab 9-11:30 e 13-16:30, domenica e festivi 13-16:30, salvo funzioni. Mattina presto o sera per la luce sul tetto.",
         tempo: "1 ora",
         url: "https://www.stephanskirche.at",
@@ -89,7 +89,7 @@ export const destinazioniAustria: Destinazione[] = [
         tempo: "2 ore",
         costo: "Belvedere superiore 23 € adulti (2026, prezzo del giorno)",
         url: "https://www.belvedere.at",
-        consiglio: "Fino a 19 anni l'ingresso è gratuito; d'estate (metà luglio-agosto) apre fino alle 19."
+        consiglio: "Riduzioni e orari estivi sul sito ufficiale."
       },
       {
         nome: "Kunsthistorisches Museum",
@@ -99,12 +99,12 @@ export const destinazioniAustria: Destinazione[] = [
         tempo: "2-3 ore",
         costo: "22 € online, 24 € in cassa (2026); dall'8 settembre 2026 ingresso solo a fascia oraria",
         url: "https://www.khm.at",
-        consiglio: "La sala Bruegel è la più famosa, ma da sola vale metà museo."
+        consiglio: "La sala Bruegel da sola vale la visita."
       },
       {
         nome: "Opera di Stato (Staatsoper)",
         testo: "Uno dei teatri lirici più importanti del mondo. Si può visitare con un tour guidato o assistere a uno spettacolo con i biglietti in piedi, molto economici.",
-        come: "Metro U1/U2/U4 fino a Karlsplatz. I biglietti in piedi si vendono solo il giorno dello spettacolo, dalle 10.",
+        come: "Sul Ring, in centro, a piedi. I biglietti in piedi si vendono solo il giorno dello spettacolo, dalle 10.",
         quando: "Sera; i posti in piedi vanno comprati la mattina stessa, appena si aprono le vendite.",
         tempo: "3 ore",
         url: "https://www.wiener-staatsoper.at",
@@ -113,20 +113,19 @@ export const destinazioniAustria: Destinazione[] = [
       {
         nome: "Prater e Riesenrad",
         testo: "Il grande parco con la ruota panoramica del 1897, celebre dal film «Il terzo uomo». Ci sono giostre storiche e il lungo viale alberato.",
-        come: "Metro U1 fino a Praterstern.",
+        come: "Con i mezzi pubblici dal centro.",
         quando: "Pomeriggio o sera, per la vista sulla città.",
         tempo: "2 ore",
-        costo: "ingresso al parco libero",
         url: "https://www.wienerriesenrad.com",
         consiglio: "Salire sulla ruota al tramonto."
       },
       {
         nome: "Naschmarkt",
-        testo: "Il mercato più famoso di Vienna: bancarelle di frutta, spezie, olive e ristoranti. Il sabato c'è anche il mercato delle pulci.",
-        come: "Metro U4 fino a Kettenbrückengasse.",
-        quando: "Dal lunedì al sabato; la domenica è chiuso.",
+        testo: "Un grande mercato all'aperto: bancarelle di frutta, spezie, olive e ristoranti.",
+        come: "A piedi dal centro, vicino a Karlsplatz.",
+        quando: "Mattina; giorni e orari da controllare prima di andare.",
         tempo: "1-2 ore",
-        consiglio: "Il sabato mattina è il momento più vivace."
+        consiglio: "Andarci la mattina, quando i banchi sono pieni."
       }
     ],
     programmi: [
@@ -195,7 +194,6 @@ export const destinazioniAustria: Destinazione[] = [
       "Concerti: comprare i biglietti in biglietteria o sui siti ufficiali, non dai venditori in costume per strada.",
       "I Fiaker (carrozze) sono cari: chiedere il prezzo prima.",
       "Biglietti dei mezzi: convalidare quelli di carta prima di salire, altrimenti si rischia una multa sul posto.",
-      "La domenica i negozi sono chiusi, supermercati compresi.",
       "Borseggiatori nei centri affollati, sui mezzi e nelle stazioni principali; più attenzione nei parchi dopo il tramonto."
     ],
     esperienzeSlugs: ['vienna-schonbrunn-biglietto', 'vienna-opera-stehplatz', 'vienna-giro-caffe-storici'],

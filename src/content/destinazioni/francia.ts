@@ -244,7 +244,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Nizza: Vieux Nice e Cours Saleya",
         testo: "Il centro storico color ocra, fra vicoli stretti, chiese barocche e il mercato dei fiori e della frutta sul Cours Saleya. Da qui si sale alla Colline du Château per la vista sulla Promenade des Anglais.",
-        come: "A piedi dalla stazione tram o dal lungomare. La salita alla collina è gratuita, a piedi o con l'ascensore.",
+        come: "A piedi dalla stazione tram o dal lungomare. La salita alla collina è gratuita.",
         quando: "Il mercato è la mattina; il lunedì sul Cours Saleya si tiene il mercato delle antichità.",
         tempo: "mezza giornata",
         consiglio: "Per un pranzo economico: socca e pissaladière nelle botteghe del Vieux Nice."
@@ -276,7 +276,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Isole di Lerino",
         testo: "Di fronte a Cannes: Sainte-Marguerite con il Fort Royal e la cella della «Maschera di ferro», e Saint-Honorat, dove vivono i monaci cistercensi.",
-        come: "Traghetti dal porto di Cannes: circa 15 minuti per Sainte-Marguerite; per Saint-Honorat ci sono le barche dei monaci.",
+        come: "Traghetti dal porto di Cannes per Sainte-Marguerite; per Saint-Honorat ci sono le barche dei monaci.",
         quando: "Primavera e autunno; in estate le barche sono piene.",
         tempo: "mezza giornata",
         consiglio: "Portare cibo: ci sono pochi punti ristoro."
@@ -550,7 +550,7 @@ export const destinazioniFrancia: Destinazione[] = [
     luoghi: [
       {
         nome: "Louvre",
-        testo: "Il museo più grande del mondo, in un palazzo reale. Il percorso essenziale tocca la Vittoria di Samotracia, la Venere di Milo e la Gioconda. Impossibile vederlo tutto: meglio scegliere due o tre ali.",
+        testo: "Uno dei musei più grandi del mondo, in un palazzo reale. Il percorso essenziale tocca la Vittoria di Samotracia, la Venere di Milo e la Gioconda. Impossibile vederlo tutto: meglio scegliere due o tre ali.",
         come: "Metro Palais Royal-Musée du Louvre. Conviene prenotare online l'orario d'ingresso, anche per chi entra gratis; si entra dalla Pyramide o dalla galleria del Carrousel.",
         quando: "Chiuso il martedì, il 1° gennaio, il 1° maggio e il 25 dicembre. Il mercoledì e il venerdì resta aperto fino alle 21. Arrivare all'apertura (9) o nel tardo pomeriggio.",
         tempo: "3-4 ore",
@@ -560,7 +560,7 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Musée d'Orsay",
-        testo: "Una vecchia stazione ferroviaria finita per l'Esposizione universale del 1900 e trasformata in museo, con la più grande raccolta al mondo di capolavori impressionisti e postimpressionisti: Monet, Renoir, Degas, Van Gogh.",
+        testo: "Una vecchia stazione ferroviaria finita per l'Esposizione universale del 1900 e trasformata in museo, con una delle più grandi raccolte al mondo di capolavori impressionisti e postimpressionisti: Monet, Renoir, Degas, Van Gogh.",
         come: "Metro Solférino o RER C Musée d'Orsay. Prenotare l'orario è consigliato in alta stagione e obbligatorio la prima domenica del mese.",
         quando: "Chiuso il lunedì. Aperto dalle 9.30 alle 18, il giovedì fino alle 21.45: la sera è il momento più tranquillo.",
         tempo: "2-3 ore",
@@ -574,7 +574,7 @@ export const destinazioniFrancia: Destinazione[] = [
         come: "Sull'Île de la Cité, dentro il Palais de Justice; si passa un controllo di sicurezza.",
         quando: "Mattina, con il sole che attraversa le vetrate.",
         tempo: "45 minuti",
-        costo: "22 € per chi viene da fuori dello Spazio economico europeo, 16 € per UE/SEE (2026); biglietto combinato con la Conciergerie.",
+        costo: "22 € per chi viene da fuori dello Spazio economico europeo, 16 € per UE/SEE (2026).",
         url: "https://www.sainte-chapelle.fr/",
         consiglio: "Prenotare l'orario: le file sono lunghe."
       },
@@ -584,7 +584,7 @@ export const destinazioniFrancia: Destinazione[] = [
         come: "Sull'Île de la Cité. Si può prenotare la visita online per saltare la coda.",
         quando: "Mattina presto.",
         tempo: "1 ora",
-        costo: "Ingresso gratuito alla cattedrale; torri a pagamento.",
+        costo: "Ingresso gratuito alla cattedrale.",
         url: "https://www.notredamedeparis.fr/",
         consiglio: "Le torri e il tesoro hanno biglietti a parte."
       },
@@ -1077,10 +1077,10 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Golfo del Morbihan e Gavrinis",
         testo: "Un mare interno con una quarantina di isole. L'isola di Gavrinis ospita un tumulo neolitico con pietre incise in modo straordinario.",
-        come: "Barca da Larmor-Baden; la visita a Gavrinis è guidata e con numero limitato.",
+        come: "Barca da Larmor-Baden; modalità di visita e prenotazione di Gavrinis sul sito ufficiale.",
         quando: "Primavera e autunno; prenotare prima.",
         tempo: "mezza giornata",
-        consiglio: "I posti a Gavrinis sono limitati: prenotare."
+        consiglio: "Controllare in anticipo come si prenota la visita a Gavrinis."
       }
     ],
     programmi: [
@@ -1314,7 +1314,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Chenonceau",
         testo: "Il castello sopra il fiume Cher, con la galleria a ponte. Fu amministrato da donne: Diane de Poitiers e Caterina de' Medici.",
-        come: "Treno fino a Chenonceaux, a pochi minuti dal castello.",
+        come: "In auto da Tours o da Amboise.",
         quando: "Mattina; in autunno i giardini hanno colori più forti.",
         tempo: "2-3 ore",
         url: "https://www.chenonceau.com/",
@@ -2071,7 +2071,7 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Altopiano di Valensole e lavanda",
-        testo: "Il grande paesaggio della lavanda: un altopiano di file viola alternate a campi di grano, con qualche casale in pietra in mezzo. Fiorisce tra fine giugno e metà luglio e si taglia subito dopo, quindi le date contano. I campi sono privati: si fotografa dal bordo, senza entrare nei filari.",
+        testo: "Il grande paesaggio della lavanda: un altopiano di file viola alternate a campi di grano, con qualche casale in pietra in mezzo. Fiorisce in estate e si taglia subito dopo, quindi le date contano: controllarle ogni anno. I campi sono privati: si fotografa dal bordo, senza entrare nei filari.",
         come: "In auto da Riez o Valensole.",
         quando: "Alba o tramonto, durante la fioritura.",
         tempo: "mezza giornata",
@@ -2079,7 +2079,7 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Avignone e il Palazzo dei Papi",
-        testo: "Uno dei più grandi edifici gotici del Medioevo in Europa, residenza dei papi nel Trecento. Il ponte Saint-Bénézet, interrotto a metà, è il simbolo della città.",
+        testo: "Il grande palazzo gotico che fu residenza dei papi nel Trecento. Il ponte Saint-Bénézet, interrotto a metà, è il simbolo della città.",
         come: "Treno da Marsiglia o Parigi. Si visita a piedi.",
         quando: "Mattina.",
         tempo: "mezza giornata",
@@ -2099,8 +2099,7 @@ export const destinazioniFrancia: Destinazione[] = [
         testo: "Un'arena romana tra le meglio conservate al mondo, ancora usata per concerti e corride, e la Maison Carrée, tempio romano quasi intatto iscritto all'UNESCO nel 2023.",
         come: "Treno da Avignone.",
         quando: "Mattina.",
-        tempo: "mezza giornata",
-        consiglio: "Un biglietto unico include arena e altri monumenti romani."
+        tempo: "mezza giornata"
       }
     ],
     programmi: [
@@ -2244,7 +2243,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Cavalli e tori delle manades",
         testo: "I cavalli bianchi camarguesi e i tori neri allevati allo stato brado, con i gardian a cavallo. Si visitano le fattorie con passeggiate a cavallo.",
-        come: "Prenotare una visita in una manade lungo la strada D570.",
+        come: "Prenotare una visita in una manade della zona.",
         quando: "Primavera, autunno.",
         tempo: "2 ore",
         consiglio: "Scegliere fattorie che rispettano gli animali e non fanno spettacoli forzati."
@@ -2682,7 +2681,7 @@ export const destinazioniFrancia: Destinazione[] = [
     luoghi: [
       {
         nome: "Les Trois Vallées",
-        testo: "Il comprensorio collegato più esteso del mondo, con Courchevel, Méribel, Val Thorens, Les Menuires e Saint-Martin-de-Belleville. Val Thorens è la stazione più alta d'Europa.",
+        testo: "Un grande comprensorio collegato, con Courchevel, Méribel, Val Thorens, Les Menuires e Saint-Martin-de-Belleville. Val Thorens è tra le stazioni più alte d'Europa.",
         come: "Treno fino a Moûtiers e navetta; Aeroporto di Lione o Ginevra con transfer.",
         quando: "Dicembre-aprile; Val Thorens ha neve più a lungo.",
         tempo: "minimo 4-5 giorni",
@@ -2690,11 +2689,11 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Paradiski",
-        testo: "La Plagne e Les Arcs collegate dal Vanoise Express, una funivia a due piani che attraversa la valle in pochi minuti.",
+        testo: "La Plagne e Les Arcs collegate dal Vanoise Express, la funivia che attraversa la valle.",
         come: "Treno fino a Bourg-Saint-Maurice e navetta.",
         quando: "Dicembre-aprile.",
         tempo: "4-5 giorni",
-        consiglio: "Les Arcs 1950 è un villaggio pedonale con atmosfera più vivace."
+        consiglio: "Les Arcs ha più villaggi in quota, ognuno con un carattere diverso: scegliere la base con calma."
       },
       {
         nome: "Tignes e Val d'Isère",
@@ -2755,7 +2754,7 @@ export const destinazioniFrancia: Destinazione[] = [
     ],
     attenzioni: [
       "Lo skipass si compra online prima: alla cassa costa di più e c'è coda.",
-      "Il soccorso in pista è a pagamento in molti casi: avere un'assicurazione.",
+      "Il soccorso in pista può essere a pagamento: avere un'assicurazione.",
       "Fuori pista è pericoloso senza guida e attrezzatura: valanghe."
     ],
     esperienzeSlugs: ['vallee-blanche', 'aiguille-du-midi', 'scialpinismo-francia'],
@@ -2935,7 +2934,7 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Mer de Glace e Montenvers",
-        testo: "Il più grande ghiacciaio di Francia, raggiungibile con il trenino a cremagliera del Montenvers. Lungo la scala per scendere sul ghiaccio, cartelli mostrano quanto si è ritirato.",
+        testo: "Uno dei più grandi ghiacciai di Francia, raggiungibile con il trenino a cremagliera del Montenvers. Lungo la scala per scendere sul ghiaccio, cartelli mostrano quanto si è ritirato.",
         come: "Trenino a cremagliera del Montenvers, con partenza da Chamonix.",
         quando: "Mattina; estate e autunno.",
         tempo: "mezza giornata",

@@ -47,8 +47,8 @@ export const destinazioniAustria: Destinazione[] = [
     luoghi: [
       {
         nome: "Palacio de Schönbrunn",
-        testo: "La residencia de verano de los Habsburgo, Patrimonio de la UNESCO, con 1.441 salas y jardines barrocos. Se visitan los aposentos de Francisco José y de Sissi, con varios tours.",
-        come: "Metro U4 hasta Schönbrunn (20 minutos del centro). Entradas online con hora.",
+        testo: "La residencia de verano de los Habsburgo, patrimonio de la UNESCO, con 1.441 habitaciones y jardines barrocos. Se visitan los aposentos imperiales, con varios recorridos.",
+        come: "En metro desde el centro hasta la parada Schönbrunn. Entradas en línea con hora.",
         quando: "Palacio todos los días de 8:30 a 17, jardines desde las 6:30; temprano para adelantarse a los grupos.",
         tempo: "3-4 horas",
         costo: "Palace Ticket 42 € adultos (2026), solo en línea en la web oficial; jardines libres",
@@ -58,8 +58,8 @@ export const destinazioniAustria: Destinazione[] = [
       {
         nome: "Hofburg y Museo Sissi",
         testo: "El palacio imperial en el centro, con aposentos imperiales, la colección de platería y el museo dedicado a Sissi. El complejo alberga también la Escuela Española de Equitación.",
-        come: "Metro U3 hasta Herrengasse, luego a pie (5 minutos).",
-        quando: "Todos los días de 10 a 16:30; el Museo Sissi renovado reabre el 19 de noviembre de 2026. Mañanas entre semana.",
+        come: "En el centro, a pie.",
+        quando: "Horarios en la web oficial; el Museo Sisi renovado reabre el 19 de noviembre de 2026. Por la mañana entre semana.",
         tempo: "2 horas",
         costo: "Museo Sissi 15 €, con visita guiada a los apartamentos 33 € (2026)",
         url: "https://www.sisimuseum-hofburg.at",
@@ -67,8 +67,8 @@ export const destinazioniAustria: Destinazione[] = [
       },
       {
         nome: "Catedral de San Esteban (Stephansdom)",
-        testo: "El símbolo de Viena, de estilo gótico, con un tejado de 230.000 tejas de colores y la torre sur de 136 metros, que se sube a pie. En la torre norte inacabada hay una plataforma con la campana Pummerin; debajo, las catacumbas con los restos de más de 11.000 personas.",
-        come: "Metro U1/U3 hasta Stephansplatz. Torres y catacumbas de pago: tarifas en la web oficial.",
+        testo: "El símbolo de Viena, de estilo gótico, con el tejado de tejas de colores y la torre sur de 136 metros, que se sube a pie. En la torre norte inacabada hay una plataforma con la campana Pummerin; bajo la iglesia están las catacumbas.",
+        come: "Metro hasta Stephansplatz. Torres y catacumbas de pago: tarifas en la web oficial.",
         quando: "Visitas turísticas lun-sáb de 9 a 11:30 y de 13 a 16:30, domingos y festivos de 13 a 16:30, salvo oficios. Temprano o al atardecer para la luz sobre el tejado.",
         tempo: "1 hora",
         url: "https://www.stephanskirche.at",
@@ -82,7 +82,7 @@ export const destinazioniAustria: Destinazione[] = [
         tempo: "2 horas",
         costo: "Belvedere superior 23 € adultos (2026, precio del día)",
         url: "https://www.belvedere.at",
-        consiglio: "Hasta los 19 años la entrada es gratuita; en verano (de mediados de julio a agosto) abre hasta las 19."
+        consiglio: "Descuentos y horarios de verano en la web oficial."
       },
       {
         nome: "Kunsthistorisches Museum",
@@ -92,12 +92,12 @@ export const destinazioniAustria: Destinazione[] = [
         tempo: "2-3 horas",
         costo: "22 € en línea, 24 € en taquilla (2026); desde el 8 de septiembre de 2026 entrada solo por franja horaria",
         url: "https://www.khm.at",
-        consiglio: "La sala de Bruegel es la más famosa, pero por sí sola vale medio museo."
+        consiglio: "La sala Bruegel por sí sola merece la visita."
       },
       {
         nome: "Ópera Estatal (Staatsoper)",
         testo: "Uno de los teatros líricos más importantes del mundo. Se puede visitar con un tour guiado o asistir a un espectáculo con entradas de pie, muy económicas.",
-        come: "Metro U1/U2/U4 hasta Karlsplatz. Las entradas de pie se venden solo el día de la función, desde las 10.",
+        come: "En el Ring, en el centro, a pie. Las entradas de pie solo se venden el día de la función, desde las 10.",
         quando: "Noche; las entradas de pie se compran esa misma mañana, en cuanto abre la venta.",
         tempo: "3 horas",
         url: "https://www.wiener-staatsoper.at",
@@ -106,20 +106,19 @@ export const destinazioniAustria: Destinazione[] = [
       {
         nome: "Prater y Riesenrad",
         testo: "El gran parque con la noria de 1897, célebre por la película «El tercer hombre». Hay atracciones históricas y la larga avenida arbolada.",
-        come: "Metro U1 hasta Praterstern.",
+        come: "En transporte público desde el centro.",
         quando: "Tarde o noche, por la vista de la ciudad.",
         tempo: "2 horas",
-        costo: "entrada al parque libre",
         url: "https://www.wienerriesenrad.com",
         consiglio: "Subir a la noria al atardecer."
       },
       {
         nome: "Naschmarkt",
-        testo: "El mercado más famoso de Viena: puestos de fruta, especias, aceitunas y restaurantes. Los sábados hay también mercadillo de pulgas.",
-        come: "Metro U4 hasta Kettenbrückengasse.",
-        quando: "De lunes a sábado; el domingo cierra.",
+        testo: "Un gran mercado al aire libre: puestos de fruta, especias, aceitunas y restaurantes.",
+        come: "A pie desde el centro, cerca de Karlsplatz.",
+        quando: "Por la mañana; comprobar días y horarios antes de ir.",
         tempo: "1-2 horas",
-        consiglio: "El sábado por la mañana es el momento más animado."
+        consiglio: "Ir por la mañana, cuando los puestos están llenos."
       }
     ],
     programmi: [
@@ -188,7 +187,6 @@ export const destinazioniAustria: Destinazione[] = [
       "Conciertos: comprar las entradas en taquilla o en las webs oficiales, no a los vendedores disfrazados en la calle.",
       "Los Fiaker (carruajes) son caros: preguntar el precio antes.",
       "Billetes de transporte: validar los de papel antes de subir, o se arriesga una multa en el acto.",
-      "Los domingos las tiendas están cerradas, supermercados incluidos.",
       "Carteristas en los centros concurridos, en el transporte y en las estaciones principales; más cuidado en los parques al anochecer."
     ],
     esperienzeSlugs: ['vienna-schonbrunn-biglietto', 'vienna-opera-stehplatz', 'vienna-giro-caffe-storici'],

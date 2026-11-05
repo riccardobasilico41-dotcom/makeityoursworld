@@ -21,15 +21,15 @@ export const destinazioniEstonia: Destinazione[] = [
     introduzione:
       'La capitale dell\'Estonia è la più settentrionale delle tre capitali baltiche e si affaccia sul Golfo di Finlandia. La Città Vecchia, patrimonio UNESCO dal 1997, è uno dei centri medievali meglio conservati del nord Europa: in alto la Toompea, la collina fortificata dove risiedeva il potere, in basso la città dei mercanti anseatici. Fuori dalle mura, il parco barocco di Kadriorg e l\'ex complesso industriale di Telliskivi raccontano due Estonie diverse, quella zarista e quella più recente, digitale e creativa.',
     percheAndarci:
-      'Il centro storico è autentico: mura, torri e la piazza con il municipio più antico del Baltico sono arrivate fino a oggi quasi intatte. E appena fuori da quelle mura Tallinn cambia faccia, con un parco imperiale russo da una parte e un distretto creativo nato in una fabbrica sovietica dall\'altra.',
+      'Il centro storico è autentico: mura, torri e la piazza con il municipio gotico sono arrivate fino a oggi quasi intatte. E appena fuori da quelle mura Tallinn cambia faccia, con un parco imperiale russo da una parte e un distretto creativo nato in una fabbrica sovietica dall\'altra.',
     cosaVedere: [
-      'La Piazza del Municipio (Raekoja plats), con il Municipio di Tallinn, del 1404, il più antico ancora in uso del Baltico',
+      'La Piazza del Municipio (Raekoja plats), con il Municipio di Tallinn, del 1404, ancora in uso',
       'La collina di Toompea, con il Castello di Toompea (oggi sede del parlamento estone, il Riigikogu) e la Cattedrale ortodossa di Alexander Nevsky, con le cupole a cipolla dorate',
       'Le piattaforme panoramiche di Kohtuotsa e Patkuli su Toompea, le due viste classiche sulla città bassa, sul porto e sul Golfo di Finlandia',
-      'Le mura cittadine medievali, circa 1,85 km ancora in piedi con le torri superstiti, fra cui la Kiek in de Kök, la torre-cannone il cui nome significa «sbircia in cucina»: uno dei sistemi difensivi meglio conservati d\'Europa',
-      'La Chiesa di Sant\'Olaf (Oleviste kirik): nel Cinquecento, con la sua guglia, fu per un periodo l\'edificio più alto del mondo',
-      'Il Parco di Kadriorg, con il Palazzo di Kadriorg, fatto costruire nel 1718 da Pietro il Grande per la moglie Caterina I su progetto dell\'architetto italiano Niccolò Michetti, oggi sede del museo d\'arte straniera; a pochi passi il KUMU, il museo d\'arte estone in un edificio contemporaneo, Museo Europeo dell\'Anno nel 2008',
-      'Telliskivi Creative City, l\'ex complesso industriale e ferroviario di epoca sovietica diventato dal 2009 un quartiere creativo, con street art, studi di design, negozi indipendenti e locali',
+      'Le mura cittadine medievali, con un lungo tratto ancora in piedi e le torri superstiti, fra cui la Kiek in de Kök, la grande torre d\'artiglieria',
+      'La Chiesa di Sant\'Olaf (Oleviste kirik), gotica, con la sua alta guglia che domina la città bassa',
+      'Il Parco di Kadriorg, con il Palazzo di Kadriorg, fatto costruire nel 1718 da Pietro il Grande per la moglie Caterina I su progetto dell\'architetto italiano Niccolò Michetti, oggi sede del museo d\'arte straniera; a pochi passi il KUMU, il museo d\'arte estone in un edificio contemporaneo',
+      'Telliskivi Creative City, l\'ex complesso industriale e ferroviario di epoca sovietica diventato un quartiere creativo, con street art, studi di design, negozi indipendenti e locali',
     ],
     cosaFare: [
       'Salire su Toompea fino alle piattaforme di Kohtuotsa e Patkuli per il panorama sulla città bassa',
@@ -42,23 +42,23 @@ export const destinazioniEstonia: Destinazione[] = [
     doveMangiare:
       'La verivorst (sanguinaccio) con mirtilli rossi è un piatto tradizionale, soprattutto a Natale; il kiluvõileib, un tramezzino aperto con spratti marinati, burro e uovo sodo, è lo spuntino estone per eccellenza. A Telliskivi c\'è la scena gastronomica più giovane della città, fra street food, birrifici artigianali e mercati alimentari nei fine settimana.',
     comeArrivare:
-      'L\'aeroporto di Tallinn-Lennart Meri (TLL) è a circa 4 km dal centro: 15-20 minuti di tram o pochi minuti di taxi/Bolt, uno degli aeroporti più vicini al centro città in Europa. Da alcuni aeroporti italiani ci sono voli diretti low-cost, stagionali o tutto l\'anno; altrimenti si fa scalo su un hub europeo. Da Riga: bus in circa 4-4h30, con più compagnie, tra cui Lux Express, e diverse corse al giorno. Da Helsinki: traghetto in circa 2 ore, un\'estensione classica per chi ha qualche giorno in più.',
+      'L\'aeroporto di Tallinn-Lennart Meri (TLL) è vicino al centro: tram, oppure taxi o app di trasporto. Da alcuni aeroporti italiani ci sono voli diretti low-cost, stagionali o tutto l\'anno; altrimenti si fa scalo su un hub europeo. Da Riga: bus diretti, con più compagnie e diverse corse al giorno. Da Helsinki: traghetti regolari, un\'estensione classica per chi ha qualche giorno in più.',
     comeSpostarsi:
-      'Il centro storico si gira tutto a piedi. Tram e bus pubblici portano dal centro a Kadriorg e Telliskivi in pochi minuti, con biglietti economici da comprare in app o alle biglietterie.',
+      'Il centro storico si gira tutto a piedi. I mezzi pubblici collegano il centro a Kadriorg e Telliskivi, con biglietti economici da comprare in app o alle biglietterie.',
     periodoMigliore:
       'maggio-settembre, per il clima più mite e le giornate lunghissime vicino al solstizio; giugno-agosto è la stagione più affollata nella Città Vecchia. L\'inverno (novembre-marzo) è freddo e buio, ma la neve sui tetti medievali e i mercatini di Natale in Piazza del Municipio hanno il loro fascino.',
-    costi: 'un po\' più cara di Vilnius e Riga: ingresso alle quattro torri delle mura cittadine 12€, ingresso al KUMU 12-16€ secondo la mostra, cena normale 12-18€ a testa.',
+    costi: 'un po\' più cara di Vilnius e Riga: prezzi di torri e musei aggiornati sui siti ufficiali.',
     erroriDaEvitare: [
       'Fermarsi alla Città Vecchia: Kadriorg e Telliskivi mostrano la Tallinn zarista e quella contemporanea, che il centro medievale da solo non racconta',
       'Salire su Toompea e saltare le due piattaforme panoramiche (Kohtuotsa e Patkuli): sono a pochi passi l\'una dall\'altra e guardano la città bassa da angolazioni diverse',
       'Dare per scontato che l\'estone somigli al lituano o al lettone: è una lingua ugrofinnica, imparentata con il finlandese e del tutto estranea alla famiglia baltica delle altre due capitali',
-      'Andare a Telliskivi la domenica sera o il lunedì, quando diversi locali e negozi indipendenti sono chiusi',
+      'Andare a Telliskivi senza controllare gli orari: locali e negozi indipendenti non aprono tutti allo stesso modo ogni giorno',
     ],
     luoghi: [
       {
         nome: "Piazza del Municipio (Raekoja plats)",
-        testo: "Il cuore medievale della città, con il Municipio gotico finito nel 1404, il più antico della regione baltica e della Scandinavia, oggi museo e sala concerti. In estate ha tavoli all'aperto; a dicembre ospita il mercatino di Natale.",
-        come: "A piedi dal porto (10-15 minuti).",
+        testo: "Il cuore medievale della città, con il Municipio gotico finito nel 1404, oggi museo e sala concerti. In estate ha tavoli all'aperto; a dicembre ospita il mercatino di Natale.",
+        come: "A piedi dal porto.",
         quando: "Mattina presto, per la piazza senza folla; orari di visita del Municipio e della sua torre sul sito ufficiale.",
         tempo: "1 ora",
         url: "https://www.tallinn.ee",
@@ -66,7 +66,7 @@ export const destinazioniEstonia: Destinazione[] = [
       },
       {
         nome: "Toompea e Cattedrale Alexander Nevsky",
-        testo: "Il colle sopra la città bassa, con il Castello di Toompea (sede del Parlamento) e la Cattedrale ortodossa Alexander Nevsky, costruita tra il 1894 e il 1900, con cinque cupole a cipolla. La salita è corta ma panoramica.",
+        testo: "Il colle sopra la città bassa, con il Castello di Toompea (sede del Parlamento) e la Cattedrale ortodossa Alexander Nevsky, costruita a fine Ottocento, con le cupole a cipolla. La salita è corta ma panoramica.",
         come: "A piedi dalla Piazza del Municipio, salendo da Pikk jalg.",
         quando: "Mattina.",
         tempo: "1,5 ore",
@@ -75,15 +75,15 @@ export const destinazioniEstonia: Destinazione[] = [
       {
         nome: "Piattaforme panoramiche di Kohtuotsa e Patkuli",
         testo: "Due terrazze su Toompea con le viste classiche sulla città bassa, sul porto e sul Golfo di Finlandia, con i tetti rossi e le guglie.",
-        come: "A piedi, 5 minuti dalla cattedrale.",
+        come: "A piedi dalla cattedrale.",
         quando: "Tramonto, per la luce sui tetti.",
         tempo: "30 minuti",
         costo: "ingresso libero",
-        consiglio: "Kohtuotsa è la più fotografata, Patkuli è più tranquilla."
+        consiglio: "Kohtuotsa è spesso affollata, Patkuli di solito più tranquilla."
       },
       {
         nome: "Mura e torri medievali",
-        testo: "Circa 1,85 km di mura ancora in piedi, sui 2,35 originari, con 28 torri medievali, tra cui la Kiek in de Kök, torre d'artiglieria del 1475-1483 il cui nome significa «sbircia in cucina». Si visitano anche la Torre della Fanciulla, la torre della porta di Lühike jalg e i passaggi sotterranei dei bastioni.",
+        testo: "Un lungo tratto di mura ancora in piedi, con molte torri medievali, tra cui la Kiek in de Kök, torre d'artiglieria del Quattrocento. Si visitano anche la Torre della Fanciulla, la torre della porta di Lühike jalg e i passaggi sotterranei dei bastioni.",
         come: "A piedi, lungo Müürivahe.",
         quando: "Giorno, con buone condizioni.",
         tempo: "1-2 ore",
@@ -93,7 +93,7 @@ export const destinazioniEstonia: Destinazione[] = [
       },
       {
         nome: "Chiesa di Sant'Olaf (Oleviste kirik)",
-        testo: "Chiesa con una guglia di quasi 124 metri, a lungo il punto più alto della città. Nella torre c'è una piattaforma panoramica a 60 metri.",
+        testo: "Chiesa gotica con un'alta guglia. Nella torre c'è una piattaforma panoramica.",
         come: "A piedi, in fondo alla Piazza del Municipio.",
         quando: "Giorno sereno.",
         tempo: "45 minuti",
@@ -103,8 +103,8 @@ export const destinazioniEstonia: Destinazione[] = [
       {
         nome: "Parco e Palazzo di Kadriorg, KUMU",
         testo: "Il Palazzo, voluto da Pietro il Grande nel 1718 per la moglie Caterina I, con il parco e il Kumu, il museo d'arte estone, in un edificio moderno nello stesso parco.",
-        come: "In tram fino a Kadriorg.",
-        quando: "Pomeriggio; il parco è libero. Il Kumu è chiuso il lunedì, apre 10-18 e il giovedì fino alle 20.",
+        come: "Con i mezzi pubblici o a piedi dal centro.",
+        quando: "Pomeriggio; il parco è libero. Giorni e orari del Kumu sul sito ufficiale.",
         tempo: "3 ore",
         costo: "biglietti del Kumu sul sito ufficiale",
         url: "https://kumu.ekm.ee",
@@ -113,7 +113,7 @@ export const destinazioniEstonia: Destinazione[] = [
       {
         nome: "Telliskivi Creative City",
         testo: "Le ex officine dove si riparavano le locomotive, oggi quartiere creativo con street art, studi, negozi indipendenti e ristoranti.",
-        come: "A piedi dalla Città Vecchia (15 minuti) o in tram.",
+        come: "A piedi dalla Città Vecchia o con i mezzi pubblici.",
         quando: "Sera, per i locali; il sabato per i negozi.",
         tempo: "2 ore",
         costo: "ingresso libero",
@@ -150,7 +150,7 @@ export const destinazioniEstonia: Destinazione[] = [
       {
         nome: "Kalamaja",
         perChi: "Chi cerca un quartiere di caffè e case di legno",
-        testo: "Vicino a Telliskivi e al porto, a 15 minuti dal centro."
+        testo: "Vicino a Telliskivi e al porto, a breve distanza dal centro."
       },
       {
         nome: "Kesklinn",
@@ -173,12 +173,12 @@ export const destinazioniEstonia: Destinazione[] = [
       },
       {
         nome: "Marzapane",
-        testo: "Marzapane estone, nella pasticceria Maiasmokk, la più antica caffetteria della città."
+        testo: "Marzapane estone, nella pasticceria Maiasmokk, caffetteria storica della città."
       }
     ],
     attenzioni: [
       "I ristoranti in costume medievale sono cari e turistici: confrontare con quelli di Telliskivi.",
-      "Taxi: usare Bolt, nato in Estonia, e non quelli vicino al porto delle crociere.",
+      "Taxi: usare un'app riconosciuta, e non quelli vicino al porto delle crociere.",
       "Nei giorni di crociere la Città Vecchia è affollatissima: andare presto.",
       "D'inverno il ghiaccio rende pericolosi i ciottoli: scarpe adatte."
     ],

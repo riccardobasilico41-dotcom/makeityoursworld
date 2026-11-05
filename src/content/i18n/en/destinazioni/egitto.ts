@@ -65,7 +65,7 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Saladin's Citadel and the Muhammad Ali Mosque",
-        "testo": "The fortress ordered by Saladin in 1176 and completed in 1207, on the hill above the city, with the Ottoman-style Mosque of Muhammad Ali. From the edge, on clear days, the view reaches the pyramids.",
+        "testo": "The fortress built by Saladin in the 12th century, on the hill above the city, with the Ottoman Muhammad Ali Mosque. On clear days the view from the edge reaches the pyramids.",
         "come": "Taxi or Uber to the entrance. You walk inside the citadel, in comfortable shoes.",
         "quando": "Open daily 8am-5pm (2026). The afternoon has the best light.",
         "tempo": "2 hours",
@@ -127,7 +127,7 @@ export const destinazioniEgitto: Destinazione[] = [
     sapori: [
       {
         "nome": "Koshari",
-        "testo": "Rice, lentils, pasta, chickpeas and spicy tomato sauce: the national street dish, at Abou Tarek in Downtown."
+        "testo": "Rice, lentils, pasta, chickpeas and spicy tomato sauce: the national street dish, served in specialised eateries all over the city."
       },
       {
         "nome": "Ful and taameya",
@@ -204,17 +204,17 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Saqqara",
-        "testo": "The Step Pyramid of Djoser, considered the earliest large-scale cut-stone building, and the painted mastabas of Ti and Mereruka with very fine reliefs.",
-        "come": "By car with a driver, 45-60 minutes from Giza.",
+        "testo": "Djoser's Step Pyramid, considered the first large building in cut stone, and the nobles' tombs, such as the mastaba of Mereruka, with very fine reliefs.",
+        "come": "By car with a driver from Giza or Cairo.",
         "quando": "Open daily 8am-4pm (2026). Best in the morning.",
         "tempo": "2-3 hours",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/saqqara/",
-        "consiglio": "The painted tombs are worth more than the pyramid itself and have very few people.",
+        "consiglio": "The painted tombs are as worthwhile as the pyramid and are usually less crowded.",
         "costo": "EGP 600 for the area for foreign adults; inclusive ticket with the Imhotep Museum, Nobles' and New Kingdom tombs, Mereruka and Mehu EGP 1,400 (2026)"
       },
       {
         "nome": "Dahshur",
-        "testo": "The Red Pyramid and the Bent Pyramid, both Sneferu's: the attempts that led to the true smooth-sided pyramid. Very few people.",
+        "testo": "The Red Pyramid and the Bent Pyramid, built by Sneferu: the attempts that led to the true smooth-sided pyramid. Usually quiet.",
         "come": "By car with a driver, near Saqqara.",
         "quando": "Open daily 8am-5pm (2026). Best in the morning, when it is cooler.",
         "tempo": "1-2 hours",
@@ -268,7 +268,7 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Baladi bread",
-        "testo": "Flat bread baked on the spot in the ovens of nearby villages."
+        "testo": "Egyptian flatbread, baked in neighbourhood ovens."
       }
     ],
     attenzioni: [
@@ -337,7 +337,7 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Luxor Temple",
-        "testo": "A smaller temple in the middle of the city, with colossal statues of Ramesses II and one of a pair of 25-metre obelisks: the other has stood in Paris, on the Place de la Concorde, since 1836. Lit up in the evening, it is beautiful.",
+        "testo": "A smaller temple in the middle of town, with colossal statues of Ramesses II and one of the two entrance obelisks: the other has stood in Paris, on the Place de la Concorde, since 1836. Lit up at night it is beautiful.",
         "come": "On foot from the riverfront on the east bank.",
         "quando": "Open daily 6am-8pm (2026). Sunset and evening.",
         "tempo": "1 hour",
@@ -356,7 +356,7 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Temple of Hatshepsut",
-        "testo": "The mortuary temple of the queen-pharaoh at Deir el-Bahari, in terraces under the rock wall. The architecture looks very modern.",
+        "testo": "The mortuary temple of the queen-pharaoh at Deir el-Bahari, built in terraces below the cliff, with architecture that looks modern.",
         "come": "On the west bank, near the Valley of the Kings.",
         "quando": "Open daily 6am-5pm (2026). Early morning.",
         "tempo": "1 hour",
@@ -365,12 +365,12 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Medinet Habu and the Colossi of Memnon",
-        "testo": "The temple of Ramses III with reliefs still colored and very few visitors, near the two colossi of Amenhotep III that guard the plain.",
+        "testo": "The temple of Ramesses III, with reliefs that still keep their colour and fewer visitors than the big temples, near the two colossi of Amenhotep III watching over the plain.",
         "come": "On the west bank, by taxi with the other stops.",
         "quando": "Mid-morning or late afternoon.",
         "tempo": "1-1.5 hours",
-        "consiglio": "Medinet Habu is the most underrated temple in Luxor.",
-        "costo": "Medinet Habu: price at the ticket office; the Colossi are seen from the road"
+        "consiglio": "Medinet Habu is often skipped, but it is well worth the stop.",
+        "costo": "Medinet Habu has an entry fee: prices on the official site egymonuments.gov.eg or at the ticket office; the Colossi can be seen from the road"
       }
     ],
     programmi: [
@@ -406,7 +406,7 @@ export const destinazioniEgitto: Destinazione[] = [
     sapori: [
       {
         "nome": "Stuffed pigeon",
-        "testo": "Luxor's most typical dish, in the west bank restaurants."
+        "testo": "A typical Egyptian dish, also served in the West Bank restaurants."
       },
       {
         "nome": "Meat tagine",
@@ -473,8 +473,8 @@ export const destinazioniEgitto: Destinazione[] = [
     luoghi: [
       {
         "nome": "Abu Simbel",
-        "testo": "The two rock-cut temples of Ramesses II and Nefertari, with colossal statues at the entrance. Between 1963 and 1968 they were cut into blocks and moved to save them from Lake Nasser. On 22 February and 22 October the sun reaches the sanctuary.",
-        "come": "From Aswan about 300 km by road, leaving before dawn, or by plane.",
+        "testo": "The two rock-cut temples of Ramesses II and Nefertari, with colossal statues at the entrance. In the 1960s they were cut into blocks and moved to save them from Lake Nasser. On 22 February and 22 October the sun reaches the sanctuary.",
+        "come": "From Aswan by road, leaving before dawn, or by plane.",
         "quando": "Open daily 6am-5pm (2026). Arrive at opening, before the tour buses.",
         "tempo": "1.5-2 hours on site",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/abu-simbel/",
@@ -491,16 +491,8 @@ export const destinazioniEgitto: Destinazione[] = [
         "costo": "EGP 550 for foreign adults, 275 for students, plus the boat from the jetty, to be agreed (2026)"
       },
       {
-        "nome": "Nubian village of Gharb Soheil",
-        "testo": "A village of colorful houses on the island near Aswan, with restaurants and Nubian families.",
-        "come": "By boat from the riverfront.",
-        "quando": "Late afternoon.",
-        "tempo": "2 hours",
-        "consiglio": "Having lunch in a Nubian house is the best way to understand the area."
-      },
-      {
         "nome": "Felucca at sunset",
-        "testo": "The traditional sailing boat around Elephantine Island and the garden islands, for a ride of an hour or two.",
+        "testo": "The traditional sailing boat around Elephantine Island, for a trip of an hour or two.",
         "come": "From the Aswan riverfront.",
         "quando": "Sunset.",
         "tempo": "1-2 hours",
@@ -525,13 +517,13 @@ export const destinazioniEgitto: Destinazione[] = [
       {
         "nome": "Abu Simbel",
         "perChi": "those who want dawn at the temples",
-        "testo": "Few hotels and a single village: useful to avoid the night-time alarm."
+        "testo": "Few places to stay: useful to avoid the night-time wake-up call."
       }
     ],
     sapori: [
       {
         "nome": "Nubian cuisine",
-        "testo": "Dishes of spiced chicken, fish and rice, in the houses of Gharb Soheil."
+        "testo": "Spiced chicken, fish and rice dishes, in the Nubian villages around Aswan."
       },
       {
         "nome": "Karkade",
@@ -611,8 +603,8 @@ export const destinazioniEgitto: Destinazione[] = [
         "tempo": "1 hour"
       },
       {
-        "nome": "Desert, salt lakes and Cleopatra's Spring",
-        "testo": "An off-road trip towards the Great Sand Sea with sandboarding, sunset on the dunes and a swim in the springs, such as the one called Cleopatra's, and the salt lakes.",
+        "nome": "Desert, salt lakes and springs",
+        "testo": "A 4x4 trip towards the Great Sand Sea with sandboarding, sunset on the dunes and a swim in the springs and salt lakes.",
         "come": "Only with a local operator, who holds the desert permit.",
         "quando": "Afternoon, back at sunset.",
         "tempo": "Half a day",
@@ -624,7 +616,7 @@ export const destinazioniEgitto: Destinazione[] = [
         "titolo": "3 days",
         "tappe": [
           "Day 1: arrival, Shali Fortress, sunset",
-          "Day 2: Aghurmi, Cleopatra's Spring, desert and a night in a tent",
+          "Day 2: Aghurmi, springs, desert and a night in a tent",
           "Day 3: bicycle in the oasis, return"
         ]
       }
@@ -648,15 +640,7 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Olive oil",
-        "testo": "Pressed in the oasis, used in cooking and for the skin."
-      },
-      {
-        "nome": "Mint tea",
-        "testo": "Served at the town's kiosks."
-      },
-      {
-        "nome": "Siwa bread",
-        "testo": "Flat and round, baked in wood ovens."
+        "testo": "Made in the oasis from local olives."
       }
     ],
     attenzioni: [
@@ -712,23 +696,23 @@ export const destinazioniEgitto: Destinazione[] = [
     // GUIDA-START
     luoghi: [
       {
-        "nome": "Hurghada and the Giftun Islands",
-        "testo": "The largest resort hub, with snorkelling boats to the Giftun islands and Orange Bay.",
+        "nome": "Hurghada",
+        "testo": "One of the main resort towns on the coast, with snorkelling boat trips to the offshore islands and reefs.",
         "come": "Excursions to book with a local operator from your hotel.",
         "quando": "Year-round, with cooler water in winter.",
         "tempo": "A full day"
       },
       {
         "nome": "Marsa Alam and Abu Dabbab",
-        "testo": "Further south and quieter: Abu Dabbab bay with turtles and dolphins, and a little further south Wadi el-Gemal National Park, home to dugongs and green turtles too. The airport receives tourist flights from Italy among others.",
+        "testo": "Further south and quieter: Abu Dabbab bay, known for its sea turtles, and further south Wadi el-Gemal National Park, home to dugongs and green turtles. The airport also gets tourist flights from Italy.",
         "come": "By car from Luxor or on direct flights.",
         "quando": "Early morning, with fewer boats.",
         "tempo": "A full day",
-        "consiglio": "The best choice for quality snorkeling."
+        "consiglio": "A good choice if snorkelling is the priority."
       },
       {
         "nome": "Sharm el-Sheikh and Ras Mohammed",
-        "testo": "Diving and snorkelling in Ras Mohammed National Park, with the Thistlegorm wreck nearby, and in the Strait of Tiran, with some of the finest reefs in the Red Sea.",
+        "testo": "Diving and snorkelling in Ras Mohammed National Park, with the Thistlegorm wreck not far away.",
         "come": "Direct flights from Europe and Cairo.",
         "quando": "All year.",
         "tempo": "A full day"
@@ -739,7 +723,7 @@ export const destinazioniEgitto: Destinazione[] = [
         "titolo": "3 days",
         "tappe": [
           "Day 1: snorkeling from the resort shore",
-          "Day 2: boat to the islands or Ras Mohammed",
+          "Day 2: boat to the offshore reefs or Ras Mohammed",
           "Day 3: course or dives"
         ]
       }

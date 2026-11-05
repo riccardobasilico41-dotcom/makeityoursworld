@@ -46,14 +46,14 @@ export const destinazioniGuatemala: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Arco de Santa Catalina",
-          "testo": "L'arco giallo barocco del 1693 sulla 5ª Avenida Norte, costruito perché le suore di clausura del convento di Santa Catalina passassero da un edificio all'altro senza uscire in strada. Con il vulcano Agua sullo sfondo è la foto simbolo della città.",
+          "testo": "L'arco giallo barocco del 1693, costruito perché le suore di clausura del convento di Santa Catalina passassero da un edificio all'altro senza uscire in strada. Con il vulcano Agua sullo sfondo è la foto simbolo della città.",
           "come": "A piedi dalla piazza centrale, pochi minuti. Ingresso libero, è una strada.",
           "quando": "Mattina presto, senza folla e con il vulcano limpido.",
           "tempo": "15 minuti"
         },
         {
           "nome": "Convento di Santa Clara e La Merced",
-          "testo": "Chiese e conventi coloniali rovinati dai terremoti del 1773, dopo i quali la capitale fu spostata. Antigua è patrimonio UNESCO dal 1979 per questo insieme.",
+          "testo": "Chiese e conventi coloniali rovinati dai terremoti del Settecento, dopo i quali la capitale fu spostata. Antigua è patrimonio UNESCO dal 1979 per questo insieme.",
           "come": "A piedi nel centro. Le rovine di Santa Clara hanno un biglietto d'ingresso; La Merced è una chiesa ancora in uso.",
           "quando": "Mattina; la luce del pomeriggio è buona sulla facciata di La Merced.",
           "tempo": "2-3 ore per entrambe",
@@ -62,10 +62,10 @@ export const destinazioniGuatemala: Destinazione[] = [
         {
           "nome": "Cerro de la Cruz",
           "testo": "Un belvedere in collina con la città in primo piano e i vulcani Agua, Fuego e Acatenango dietro. Si raggiunge con una breve salita.",
-          "come": "A piedi dal centro con una breve salita, ma meglio in gruppo o accompagnati dalla polizia turistica, presente in zona.",
+          "come": "A piedi dal centro con una breve salita, meglio in gruppo e di giorno.",
           "quando": "Mattina presto o tardo pomeriggio.",
           "tempo": "1 ora",
-          "consiglio": "Non salire da soli e non portare oggetti di valore: la zona ha avuto problemi di sicurezza in passato."
+          "consiglio": "Non salire da soli e non portare oggetti di valore."
         },
         {
           "nome": "Vulcano Acatenango",
@@ -83,7 +83,7 @@ export const destinazioniGuatemala: Destinazione[] = [
             "Mattina: Arco di Santa Catalina e rovine di La Merced",
             "Mercato municipale e pranzo",
             "Pomeriggio: Convento di Santa Clara",
-            "Tramonto al Cerro de la Cruz, con la polizia turistica"
+            "Tramonto al Cerro de la Cruz, in gruppo"
           ]
         },
         {
@@ -109,9 +109,9 @@ export const destinazioniGuatemala: Destinazione[] = [
           "testo": "Strade acciottolate, tutto vicino, ma rumore il fine settimana e prezzi più alti."
         },
         {
-          "nome": "Zone sopra la 5ª Calle e attorno ai conventi",
+          "nome": "Zone ai margini del centro storico",
           "perChi": "chi cerca più calma",
-          "testo": "Più tranquille di notte; si cammina 10-15 minuti al centro."
+          "testo": "Più tranquille di notte, a breve distanza a piedi dal centro."
         }
       ],
       "sapori": [
@@ -133,7 +133,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         }
       ],
       "attenzioni": [
-        "Salita al Cerro de la Cruz: meglio in gruppo o con la polizia turistica.",
+        "Salita al Cerro de la Cruz: meglio in gruppo e di giorno.",
         "Per l'Acatenango scegliere operatori seri: il Foreign Office britannico avverte che gli organizzatori locali tendono a sottovalutare i rischi, che ci sono stati morti e che non esiste un soccorso alpino.",
         "Il Fuego è attivo: prima di partire controllare i bollettini di CONRED e INSIVUMEH e seguire sempre la guida."
       ],
@@ -185,7 +185,7 @@ export const destinazioniGuatemala: Destinazione[] = [
       "luoghi": [
         {
           "nome": "San Juan la Laguna",
-          "testo": "Il villaggio più curato del lago, con cooperative tessili di donne, murales sulle facciate e atelier d'arte.",
+          "testo": "Un villaggio curato, con cooperative tessili di donne, murales sulle facciate e atelier d'arte.",
           "come": "In lancha pubblica da Panajachel o San Pedro, poi si cammina nelle stradine.",
           "quando": "Mattina, quando le cooperative sono aperte.",
           "tempo": "2-3 ore",
@@ -195,12 +195,12 @@ export const destinazioniGuatemala: Destinazione[] = [
           "nome": "San Marcos la Laguna",
           "testo": "Il paese dello yoga e delle pratiche olistiche. Sul lungolago c'è la piattaforma per i tuffi di Cerro Tzankujil.",
           "come": "In lancha da Panajachel o San Pedro.",
-          "quando": "Mattina, mare del lago più calmo.",
+          "quando": "Mattina, con il lago più calmo.",
           "tempo": "Mezza giornata"
         },
         {
           "nome": "Santiago Atitlán",
-          "testo": "Il paese più grande del lago, tz'utujil e molto tradizionale, dove alcune donne portano ancora il tocoyal avvolto in testa e si venera Maximón, figura sincretica.",
+          "testo": "Un grande paese tz'utujil e molto tradizionale, dove alcune donne portano ancora il tocoyal avvolto in testa e si venera Maximón, figura sincretica.",
           "come": "In lancha pubblica da Panajachel.",
           "quando": "Mattina.",
           "tempo": "Mezza giornata",
@@ -208,7 +208,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         },
         {
           "nome": "Indian Nose (Rostro Maya)",
-          "testo": "Un belvedere sopra San Juan la Laguna, per l'alba sul lago e sui vulcani Atitlán, Tolimán e San Pedro. La cima è un prato stretto fra gli alberi: si arriva al buio e si guarda la luce accendere il lago.",
+          "testo": "Un belvedere sopra San Juan la Laguna, per l'alba sul lago e sui vulcani Atitlán, Tolimán e San Pedro.",
           "come": "Sveglia prima dell'alba, trasferimento e cammino al buio con guida.",
           "quando": "Alba, con cielo sereno.",
           "tempo": "Mezza mattina",
@@ -263,7 +263,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         },
         {
           "nome": "Pesce del lago",
-          "testo": "Tilapia e black bass fritti, in riva a Panajachel e Santiago."
+          "testo": "Pesce fritto, spesso tilapia d'allevamento, nei comedor in riva al lago."
         },
         {
           "nome": "Tortillas e frijoles",
@@ -358,7 +358,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         },
         {
           "nome": "Yaxhá",
-          "testo": "Il terzo sito maya del Guatemala per grandezza, dopo Tikal ed El Mirador, sulla riva nord del lago Yaxhá, a circa 30 km da Tikal. Meno visitato, con il tramonto sul lago visto dall'alto di una piramide.",
+          "testo": "Il terzo sito maya del Guatemala per grandezza, dopo Tikal ed El Mirador, sulla riva nord del lago Yaxhá. Meno visitato, con il tramonto sul lago visto dall'alto di una piramide.",
           "come": "Tour da Flores o taxi; è un sito grande, dentro il parco nazionale Yaxhá-Nakum-Naranjo.",
           "quando": "Tardo pomeriggio.",
           "tempo": "Mezza giornata",
@@ -486,14 +486,6 @@ export const destinazioniGuatemala: Destinazione[] = [
           "consiglio": "Scarpe con presa e acqua: la salita è dura, ma senza la vista dall'alto si perde il senso del posto."
         },
         {
-          "nome": "Grotte di K'anba",
-          "testo": "Una grotta con corridoi allagati da percorrere con una candela in mano e alcuni tratti a nuoto al buio. La cosa meno turistica della zona.",
-          "come": "Con guida, a poca distanza dall'ingresso del monumento naturale.",
-          "quando": "Dopo la visita alle piscine, nel pomeriggio.",
-          "tempo": "1-1,5 ore",
-          "consiglio": "Chi soffre di claustrofobia le salti: i passaggi sono stretti e al buio."
-        },
-        {
           "nome": "Lanquín",
           "testo": "Il villaggio q'eqchi' che fa da base per Semuc Champey, con ostelli e pochi servizi.",
           "come": "Da Cobán o con shuttle da Antigua o Atitlán: è una lunga giornata di strada.",
@@ -507,14 +499,14 @@ export const destinazioniGuatemala: Destinazione[] = [
           "tappe": [
             "Mattina: piscine e Mirador",
             "Pranzo",
-            "Pomeriggio: grotte di K'anba"
+            "Pomeriggio: rientro a Lanquín"
           ]
         },
         {
           "titolo": "2 giorni",
           "tappe": [
             "Giorno 1: arrivo a Lanquín, sosta all'ingresso del parco",
-            "Giorno 2: piscine, Mirador, grotte; rientro in shuttle il giorno dopo"
+            "Giorno 2: piscine e Mirador; rientro in shuttle il giorno dopo"
           ]
         }
       ],
@@ -522,7 +514,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         {
           "nome": "Lanquín",
           "perChi": "tutti",
-          "testo": "È il paese base: pochi alloggi, ostelli e guesthouse in fascia semplice, elettricità e connessione limitate."
+          "testo": "È il paese base: pochi alloggi, ostelli e guesthouse semplici, servizi limitati."
         },
         {
           "nome": "Dintorni del fiume Cahabón",
@@ -603,7 +595,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         },
         {
           "nome": "Chiesa di Santo Tomás",
-          "testo": "Chiesa di circa quattro secoli sulla piazza principale, costruita sopra una piattaforma precolombiana. Sui suoi 20 gradini, che si dice rappresentino i mesi del calendario maya, i sacerdoti k'iche' bruciano incenso e candele. Un rito vero e non uno spettacolo.",
+          "testo": "Chiesa coloniale sulla piazza principale, costruita sopra una piattaforma precolombiana. Sui suoi 20 gradini, che si dice rappresentino i mesi del calendario maya, i sacerdoti k'iche' bruciano incenso e candele. Un rito vero e non uno spettacolo.",
           "come": "A piedi dalla piazza. Si può guardare dalla scalinata, ma l'interno ha regole proprie.",
           "quando": "Giorni di mercato.",
           "tempo": "1 ora",

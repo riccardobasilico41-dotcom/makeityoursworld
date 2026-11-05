@@ -39,11 +39,11 @@ export const destinazioniBrasile: Destinazione[] = [
     luoghi: [
       {
         "nome": "Cristo Redentor",
-        "testo": "La estatua de 30 metros sobre el Corcovado, a unos 700 metros sobre la ciudad. Desde arriba se entiende la forma de Río: las playas, la laguna Rodrigo de Freitas y el Pan de Azúcar a la entrada de la bahía.",
+        "testo": "La estatua sobre el Corcovado, a unos 700 metros sobre la ciudad. Desde arriba se entiende la forma de Río: las playas, la laguna Rodrigo de Freitas y el Pan de Azúcar a la entrada de la bahía.",
         "come": "Con el tren de cremallera desde Cosme Velho o con las vans oficiales desde Paineiras. La entrada se compra en línea eligiendo día y hora.",
         "quando": "Primer viaje de la mañana, antes de las nubes y la multitud. A mediodía la estatua suele estar entre nubes.",
         "tempo": "3-4 horas entre subida, visita y bajada",
-        "costo": "87 R$ con la van desde el centro de visitantes Paineiras, 132 R$ con la van desde Copacabana o Largo do Machado, 134 R$ con el tren de cremallera desde Cosme Velho; precio único todo el año (2026)",
+        "costo": "El precio cambia según el punto de salida (van o tren de cremallera): tarifas actualizadas en la web oficial",
         "url": "https://paineirascorcovado.com.br/",
         "consiglio": "Ve por la mañana y lleva una chaqueta ligera: arriba hace viento."
       },
@@ -53,13 +53,13 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "Teleférico desde la estación de Praia Vermelha, en el barrio de Urca. Quien camina puede subir a pie hasta Urca por un sendero corto y tomar el teleférico solo para el segundo tramo.",
         "quando": "Última hora de la tarde, para el atardecer sobre la bahía y la ciudad que se enciende.",
         "tempo": "2-3 horas",
-        "costo": "Unos 205 R$ la entrada completa (2026); existe una tarifa promocional reservada a los brasileños",
+        "costo": "Billete del teleférico: precios actualizados en la web oficial",
         "url": "https://www.bondinho.com.br/",
         "consiglio": "Llega una hora antes del atardecer para no hacer cola."
       },
       {
         "nome": "Copacabana, Ipanema y el Arpoador",
-        "testo": "Las dos playas urbanas más conocidas del mundo, divididas en «postos», las torres de los salvavidas que marcan también la tribu de cada tramo. Entre ambas está la Pedra do Arpoador, donde la gente aplaude el atardecer.",
+        "testo": "Las dos playas urbanas más famosas de Río, divididas en «postos», las torres de los salvavidas que marcan también la tribu de cada tramo. Entre ambas está la Pedra do Arpoador, donde la gente aplaude el atardecer.",
         "come": "En metro (Cardeal Arcoverde, Siqueira Campos y Cantagalo para Copacabana, General Osório para Ipanema) o a pie por el paseo marítimo.",
         "quando": "Mañana para la playa; atardecer en el Arpoador.",
         "tempo": "Medio día",
@@ -67,7 +67,7 @@ export const destinazioniBrasile: Destinazione[] = [
       },
       {
         "nome": "Santa Teresa y la Escadaria Selarón",
-        "testo": "El barrio de la colina con villas del siglo XIX, talleres y el tranvía amarillo (bondinho). La Escadaria Selarón, escalinata cubierta de azulejos de colores, baja hacia Lapa.",
+        "testo": "El barrio de la colina con villas históricas, talleres y el tranvía amarillo (bondinho). La Escadaria Selarón, escalinata cubierta de azulejos de colores, baja hacia Lapa.",
         "come": "En app o taxi hasta Santa Teresa, luego a pie; la escalinata se baja hacia Lapa.",
         "quando": "De día.",
         "tempo": "2-3 horas",
@@ -75,9 +75,9 @@ export const destinazioniBrasile: Destinazione[] = [
       },
       {
         "nome": "Centro histórico y Museu do Amanhã",
-        "testo": "El centro tiene la Confeitaria Colombo, el Theatro Municipal, la catedral en forma de cono y el Real Gabinete Português de Leitura, una de las bibliotecas más bellas del mundo. En el puerto, la plaza Mauá con el Museu do Amanhã y el Boulevard Olímpico lleno de murales.",
+        "testo": "El centro tiene la Confeitaria Colombo, el Theatro Municipal, la catedral en forma de cono y la biblioteca del Real Gabinete Português de Leitura. En el puerto, la plaza Mauá con el Museu do Amanhã y el Boulevard Olímpico lleno de murales.",
         "come": "En metro desde Ipanema y Copacabana.",
-        "quando": "En días laborables, de día. Muchas atracciones cierran el domingo y el centro se vacía.",
+        "quando": "En días laborables, de día: el fin de semana el centro se vacía.",
         "tempo": "Medio día",
         "consiglio": "El centro se recorre de día: por la noche y el fin de semana se vacía."
       },
@@ -199,7 +199,7 @@ export const destinazioniBrasile: Destinazione[] = [
     luoghi: [
       {
         "nome": "Centro histórico de Paraty",
-        "testo": "Ciudad colonial del siglo XVIII, puerto del oro de Minas Gerais, patrimonio UNESCO desde 2019. El centro está cerrado a los coches, con casas blancas de puertas de colores y calles de adoquines que con la marea alta a veces se inundan.",
+        "testo": "Ciudad colonial, antiguo puerto del oro de Minas Gerais, patrimonio de la UNESCO. El centro está cerrado a los coches, con casas blancas de puertas de colores y calles de adoquines que con la marea alta a veces se inundan.",
         "come": "Buses directos desde la rodoviária Novo Rio.",
         "quando": "La noche es tranquila, con restaurantes y música en vivo.",
         "tempo": "Medio día o una noche",
@@ -210,12 +210,12 @@ export const destinazioniBrasile: Destinazione[] = [
         "testo": "La bahía tiene decenas de islas y playas a las que solo se llega por mar. Las escunas hacen un paseo de unas horas con paradas para bañarse.",
         "come": "Embarque en el puerto de Paraty. Las lanchas privadas cuestan más pero eligen dónde parar.",
         "quando": "Mañana.",
-        "tempo": "4-5 horas",
+        "tempo": "Medio día",
         "consiglio": "Si quieres evitar la multitud, elige una lancha."
       },
       {
         "nome": "Cascadas de Cunha y alambiques",
-        "testo": "En el camino de Cunha hay cascadas como la Cachoeira do Tobogã, donde los chicos del lugar se deslizan por la roca, y alambiques de cachaça.",
+        "testo": "En el camino de Cunha hay cascadas y alambiques de cachaça.",
         "come": "En taxi o con un tour desde el centro de Paraty.",
         "quando": "Tarde, después del paseo en barca.",
         "tempo": "Medio día",
@@ -239,11 +239,11 @@ export const destinazioniBrasile: Destinazione[] = [
       },
       {
         "nome": "Lopes Mendes, Lagoa Azul y Lagoa Verde",
-        "testo": "Lopes Mendes está considerada una de las playas más bonitas de Brasil: una larga franja de arena blanca, mar abierto y selva detrás. La Lagoa Azul y la Lagoa Verde se visitan en barco para hacer snorkel.",
-        "come": "En barco hasta Pouso y luego un tramo corto a pie, o un sendero largo por la selva.",
+        "testo": "Lopes Mendes es una larga franja de arena blanca, con mar abierto y selva detrás. La Lagoa Azul y la Lagoa Verde se visitan en barco para hacer snorkel.",
+        "come": "En barco y luego un tramo a pie, o por un sendero en la selva.",
         "quando": "Mañana. El baño debe hacerse con prudencia por olas y corrientes.",
         "tempo": "Día completo",
-        "consiglio": "En Lopes Mendes no hay servicios: lleva agua y comida."
+        "consiglio": "Lleva agua y comida desde Vila do Abraão."
       }
     ],
     programmi: [
@@ -297,7 +297,7 @@ export const destinazioniBrasile: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Sin servicios en Lopes Mendes: lleva agua y comida.",
+      "Para Lopes Mendes, lleva agua y comida desde Vila do Abraão.",
       "Mar abierto con olas y corrientes: baño con prudencia.",
       "Reserva el traslado al aeropuerto el día anterior.",
       "Calles de adoquines con la marea alta: posibles inundaciones."
@@ -337,7 +337,7 @@ export const destinazioniBrasile: Destinazione[] = [
     luoghi: [
       {
         "nome": "Lado brasileño de las cataratas",
-        "testo": "Da la vista de conjunto: un sendero de un kilómetro y medio a lo largo del cañón, hasta la pasarela que entra bajo la Garganta do Diabo, donde uno se moja por completo.",
+        "testo": "Da la vista de conjunto: un sendero a lo largo del cañón lleva a la pasarela que entra bajo la Garganta do Diabo, donde uno se moja por completo.",
         "come": "Buses urbanos o taxi desde Foz do Iguaçu; se entra por el centro de visitantes y se sube con el bus del parque.",
         "quando": "Abierto todos los días: 9-16 de lunes a viernes, 8.30-16 sábados y domingos. Llega a la hora de apertura.",
         "tempo": "2-3 horas",
@@ -347,11 +347,11 @@ export const destinazioniBrasile: Destinazione[] = [
       },
       {
         "nome": "Lado argentino de las cataratas",
-        "testo": "Se camina dentro de las cataratas: tres circuitos de pasarelas (Superior, Inferior y la Garganta del Diablo, a la que se llega con un tren en el bosque) llegan sobre el salto más grande, donde la niebla de agua sube decenas de metros.",
+        "testo": "Se camina dentro de las cataratas: tres circuitos de pasarelas (Superior, Inferior y la Garganta del Diablo, a la que se llega con un tren en el bosque) llegan sobre el salto más grande, envuelto en niebla de agua.",
         "come": "La frontera se pasa en taxi, en bus o con un traslado, mostrando el pasaporte y haciendo los sellos de salida y entrada.",
-        "quando": "Llega a la apertura: la pasarela de la Garganta se llena a media mañana.",
+        "quando": "Llega a la apertura: la pasarela de la Garganta se llena rápido.",
         "tempo": "Día completo",
-        "costo": "60.000 pesos argentinos para extranjeros no residentes (unos 40 dólares) desde el 1 de junio de 2026",
+        "costo": "Entrada en pesos argentinos, con tarifa distinta para extranjeros no residentes: precio actualizado en la web oficial",
         "url": "https://www.iguazuargentina.com/",
         "consiglio": "Lleva el pasaporte y pesos o tarjeta."
       },
@@ -403,7 +403,7 @@ export const destinazioniBrasile: Destinazione[] = [
       {
         "nome": "Hotel dentro del parque brasileño",
         "perChi": "Quien busca la vista desde la habitación",
-        "testo": "El único hotel dentro del parque es de gama alta."
+        "testo": "Hotel de gama alta dentro del parque."
       }
     ],
     sapori: [
@@ -473,7 +473,7 @@ export const destinazioniBrasile: Destinazione[] = [
       },
       {
         "nome": "Elevador Lacerda y Mercado Modelo",
-        "testo": "El ascensor público de 1873 une la ciudad alta con la ciudad baja. Abajo está el Mercado Modelo, mercado de artesanía.",
+        "testo": "El ascensor público histórico une la ciudad alta con la ciudad baja. Abajo está el Mercado Modelo, mercado de artesanía.",
         "come": "El ascensor parte de la Praça Tomé de Souza.",
         "quando": "Mañana.",
         "tempo": "1-2 horas",
@@ -485,7 +485,7 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "En app o taxi desde el centro.",
         "quando": "Mañana.",
         "tempo": "1 hora",
-        "consiglio": "No aceptes las cintas «regaladas» en la calle: luego piden dinero."
+        "consiglio": "Si alguien te ofrece una cinta en la calle y no la quieres, recházala con amabilidad."
       },
       {
         "nome": "Rio Vermelho y el acarajé",
@@ -497,7 +497,7 @@ export const destinazioniBrasile: Destinazione[] = [
       },
       {
         "nome": "Farol da Barra",
-        "testo": "El faro en la punta de la ciudad, con el atardecer más bello sobre la bahía.",
+        "testo": "El faro en la punta de la ciudad, con el atardecer sobre la bahía.",
         "come": "En app o bus desde Barra.",
         "quando": "Atardecer.",
         "tempo": "1-2 horas",
@@ -560,7 +560,7 @@ export const destinazioniBrasile: Destinazione[] = [
     ],
     attenzioni: [
       "El Pelourinho de noche: alejarse de las calles principales es arriesgado.",
-      "Cintas del Bonfim «regaladas» en la calle: luego piden dinero.",
+      "Vendedores insistentes alrededor de los lugares turísticos: rechaza con amabilidad lo que no quieras.",
       "Delincuencia menor: robos de teléfonos y tirones.",
       "Usa apps en lugar de caminar de noche."
     ],
@@ -604,7 +604,7 @@ export const destinazioniBrasile: Destinazione[] = [
       },
       {
         "nome": "Cachoeira da Fumaça",
-        "testo": "Una de las cascadas más altas de Brasil, unos 340 metros. La caída es tan alta que el viento a menudo deshace el agua en niebla antes de que toque el suelo.",
+        "testo": "Una cascada altísima: el viento a menudo deshace el agua en niebla antes de que toque el suelo.",
         "come": "Desde el valle del Capão por un sendero de ida y vuelta de unas horas con una subida inicial empinada.",
         "quando": "En días despejados: con nubes bajas se ve poco desde arriba.",
         "tempo": "Medio día",
@@ -625,7 +625,7 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "Recorrido clásico con guía y coche.",
         "quando": "Día completo.",
         "tempo": "Un día",
-        "consiglio": "Ve con guía: en las grutas hace falta para orientarse y a menudo es obligatoria."
+        "consiglio": "Ve con guía: en las grutas ayuda a orientarse."
       },
       {
         "nome": "Vale do Pati",
@@ -714,7 +714,7 @@ export const destinazioniBrasile: Destinazione[] = [
     luoghi: [
       {
         "nome": "Circuito de la Lagoa Azul",
-        "testo": "Las primeras lagunas: agua de lluvia transparente y tibia, recogida entre dunas de arena blanca de hasta 40 metros. Se camina descalzo y se hace baño.",
+        "testo": "Las primeras lagunas: agua de lluvia transparente y tibia, recogida entre dunas de arena blanca. Se camina descalzo y se hace baño.",
         "come": "En jardineira, el todoterreno con bancos en la caja que cruza el río en una balsa y toma el camino de arena.",
         "quando": "Al atardecer, cuando la arena cambia de color. Las lagunas se llenan con las lluvias, que caen más o menos de enero a junio, y se evaporan en los meses secos: infórmate del nivel del agua antes de ir.",
         "tempo": "Medio día",
@@ -747,7 +747,7 @@ export const destinazioniBrasile: Destinazione[] = [
       },
       {
         "nome": "Centro histórico de São Luís",
-        "testo": "Fundada por los franceses en 1612, es la única capital de estado brasileña de origen francés. El centro histórico, patrimonio de la UNESCO desde 1997, tiene casas cubiertas de azulejos portugueses.",
+        "testo": "Fundada por los franceses, tiene un centro histórico patrimonio de la UNESCO con casas cubiertas de azulejos portugueses.",
         "come": "En app o a pie por la Praia Grande.",
         "quando": "Antes de salir hacia Barreirinhas o a la llegada.",
         "tempo": "Medio día",
@@ -841,7 +841,7 @@ export const destinazioniBrasile: Destinazione[] = [
       },
       {
         "nome": "Porto Jofre y los jaguares",
-        "testo": "El Pantanal tiene una de las mayores poblaciones de jaguares del mundo. En la temporada seca, en los ríos Cuiabá, Três Irmãos y Piquiri, se ven a menudo en las orillas.",
+        "testo": "El Pantanal es una de las zonas donde se ven jaguares. En la temporada seca, en los ríos Cuiabá, Três Irmãos y Piquiri, se ven a menudo en las orillas.",
         "come": "Salidas en barca con piloteiro al amanecer y por la tarde.",
         "quando": "Temporada seca.",
         "tempo": "1-2 días de salidas",
@@ -862,7 +862,7 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "Vuelo desde São Paulo o Brasília.",
         "quando": "Día de llegada y de salida.",
         "tempo": "Una noche",
-        "consiglio": "Huso horario UTC-4, una hora menos que Río."
+        "consiglio": "Mato Grosso tiene un huso horario distinto al de Río: revisa los horarios de los vuelos."
       }
     ],
     programmi: [
@@ -988,9 +988,9 @@ export const destinazioniBrasile: Destinazione[] = [
         "testo": "Desde Manaus se puede remontar el río Amazonas hasta Tabatinga, en la frontera con Colombia y Perú, y continuar a Leticia o Iquitos.",
         "come": "En avión, o en barco rápido o lento: el barco lento tarda varios días.",
         "quando": "Todo el año; los horarios de las barcas cambian a menudo.",
-        "tempo": "1-7 días según el medio",
+        "tempo": "De un día a varios días, según el medio",
         "costo": "Precios de los barcos en el puerto de Manaos o en las compañías",
-        "consiglio": "Haz los sellos de salida en la Polícia Federal de Tabatinga."
+        "consiglio": "Antes de pasar a Colombia o Perú, infórmate sobre los trámites de salida de Brasil."
       }
     ],
     programmi: [
@@ -1040,7 +1040,7 @@ export const destinazioniBrasile: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Sellos de salida en la Polícia Federal de Tabatinga: olvidarlos complica la entrada a Colombia y Perú.",
+      "Triple frontera: infórmate con antelación sobre los trámites de salida de Brasil antes de entrar en Colombia o Perú.",
       "Vacuna contra la fiebre amarilla: recomendada para toda la Amazonía.",
       "Horarios de barcas no fijos: deja margen.",
       "Efectivo en la moneda del país antes de embarcar."

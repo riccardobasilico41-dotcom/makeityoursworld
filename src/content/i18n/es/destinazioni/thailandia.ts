@@ -15,17 +15,17 @@ export const destinazioniThailandia: Destinazione[] = [
       "El Gran Palacio y el Wat Phra Kaew",
       "Wat Pho, con el gran Buda reclinado dorado",
       "Wat Arun, el Templo del Amanecer",
-      "Chatuchak Market, el mercado más grande del sudeste asiático",
+      "Chatuchak Market, el gran mercado del fin de semana",
     ],
     cosaFare: [
       "Rooftop bars al atardecer (Vertigo & Moon Bar, Lebua at State Tower, MahaNakhon SkyWalk)",
-      "Comida callejera en Jay Fai, el único puesto del mundo con estrella Michelin (hay una ficha de experiencia dedicada)",
+      "Comida callejera en Jay Fai, el puesto callejero con estrella Michelin (hay una ficha de experiencia dedicada)",
       "Muay Thai en directo en los estadios Rajadamnern o Lumpinee",
       "Noche en Khao San Road",
       "Excursión de un día a Ayutthaya",
     ],
     doveDormire: "No tengo un hotel fijo que recomendar: en Bangkok he estado varias veces, en ocasiones distintas.",
-    doveMangiare: "Jay Fai, Thipsamai (el pad thai más famoso), Nai Ek Roll Noodle en Chinatown, Charoen Saeng para el khao kha moo.",
+    doveMangiare: "Jay Fai, Thipsamai (pad thai), Nai Ek Roll Noodle en Chinatown, Charoen Saeng para el khao kha moo.",
     usciteSerali: "Khao San Road para un ambiente mochilero; Thonglor/Ekkamai para locales más cuidados; Rot Fai Night Market y Asiatique The Riverfront para las compras nocturnas.",
     comeArrivare: "Vuelo internacional a Bangkok (aeropuertos BKK o Don Mueang).",
     comeSpostarsi: "Grab para taxis y mototaxis, barca para Wat Arun.",
@@ -37,7 +37,7 @@ export const destinazioniThailandia: Destinazione[] = [
     luoghi: [
       {
         nome: "Grand Palace e Wat Phra Kaew",
-        testo: "La residencia de los reyes de Siam desde 1782, con salas ceremoniales, pabellones dorados y el Templo del Buda Esmeralda, el más sagrado del país. El complejo es grande y está muy concurrido.",
+        testo: "La antigua residencia de los reyes de Siam, con salas ceremoniales, pabellones dorados y el Templo del Buda Esmeralda, muy venerado. El complejo es grande y está muy concurrido.",
         come: "Barco por el Chao Phraya hasta el muelle de Tha Chang y unos minutos a pie. Entrada única, visita por libre; hay guías oficiales en la puerta.",
         quando: "Todos los días desde las 8:30; taquilla hasta las 15:30, cierre a las 16:30. Puede cerrar sin aviso por ceremonias reales: consultar la web oficial. Hombros y rodillas cubiertos, nada de pantalón corto ni camisetas de tirantes.",
         tempo: "2-3 horas",
@@ -47,7 +47,7 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Wat Pho",
-        testo: "El templo del Buda reclinado, de 46 metros de largo y cubierto de oro, con las plantas de los pies con incrustaciones de nácar. También es la sede histórica de la escuela de masaje tradicional tailandés, que todavía ofrece masajes dentro del recinto. A pocos cientos de metros del Gran Palacio.",
+        testo: "El templo del gran Buda reclinado cubierto de oro, con las plantas de los pies con incrustaciones de nácar. También es la sede histórica de la escuela de masaje tradicional tailandés, que todavía ofrece masajes dentro del recinto. Está cerca del Gran Palacio.",
         come: "A pie desde el Grand Palace o desde el muelle de Tha Tien.",
         quando: "Todos los días, 8:00-18:30; más tranquilo por la tarde. Hombros y rodillas cubiertos.",
         tempo: "1-1,5 horas",
@@ -58,14 +58,14 @@ export const destinazioniThailandia: Destinazione[] = [
         nome: "Wat Arun",
         testo: "El Templo del Amanecer en la orilla oeste del río, con la torre central de estilo jemer cubierta de fragmentos de porcelana china de colores. Se sube un tramo por las escaleras empinadas del prang, con vistas al río y, en la otra orilla, al Wat Pho.",
         come: "Desde el muelle de Tha Tien, en el ferri que cruza el río en pocos minutos.",
-        quando: "Abierto de 8:30 a 18, últimas entradas a las 17:40. A última hora de la tarde la luz es la mejor; el templo iluminado al atardecer se ve desde la orilla opuesta.",
+        quando: "Abierto de día; horarios en la entrada. A última hora de la tarde la luz es la mejor; el templo iluminado al atardecer se ve desde la orilla opuesta.",
         tempo: "1 hora",
         costo: "200 THB para extranjeros (2025).",
         consiglio: "El atardecer con vistas al río compensa la subida.",
       },
       {
         nome: "Chatuchak Market",
-        testo: "Uno de los mercados más grandes del mundo: más de 15.000 puestos de ropa, plantas, artesanía y comida, divididos en 27 sectores numerados.",
+        testo: "Un mercado enorme con miles de puestos de ropa, plantas, artesanía y comida, divididos en sectores numerados.",
         come: "BTS hasta Mo Chit o metro hasta Chatuchak Park.",
         quando: "Sábado y domingo, de la mañana a última hora de la tarde. Llegar pronto, antes del calor.",
         tempo: "Media jornada",
@@ -83,7 +83,7 @@ export const destinazioniThailandia: Destinazione[] = [
         nome: "Jay Fai y street food",
         testo: "El puesto-restaurante con estrella Michelin, famoso por la tortilla de cangrejo. Para otros sabores: Thipsamai para el pad thai, Nai Ek Roll Noodle en Chinatown, Charoen Saeng para el khao kha moo.",
         come: "En taxi o Grab; Jay Fai está en la ciudad vieja, en Phra Nakhon.",
-        quando: "Abierto de miércoles a sábado, más o menos de 9 a 19 (2025); cerrado de domingo a martes. No acepta reservas: hay que llegar pronto y apuntarse en la lista. Las novedades salen en el perfil de Instagram @jayfaibangkok.",
+        quando: "Abierto de miércoles a sábado, más o menos de 9 a 19 (2025); cerrado de domingo a martes. No acepta reservas: hay que llegar pronto y apuntarse en la lista.",
         tempo: "1-2 horas",
         consiglio: "La cola es larga: en Jay Fai no conviene llegar tarde.",
       },
@@ -106,13 +106,13 @@ export const destinazioniThailandia: Destinazione[] = [
       { nome: "Rattanakosin / Khao San", perChi: "Para quien quiere estar cerca de los templos", testo: "Zona histórica, barata y animada. Algo lejos del BTS, así que se usan barcos y taxis." },
     ],
     sapori: [
-      { nome: "Pad thai", testo: "Fideos de arroz salteados con huevo, gambas y cacahuetes: Thipsamai es su templo." },
-      { nome: "Khao kha moo", testo: "Codillo de cerdo estofado sobre arroz, típico de Chinatown y de Charoen Saeng." },
+      { nome: "Pad thai", testo: "Fideos de arroz salteados con huevo, gambas y cacahuetes." },
+      { nome: "Khao kha moo", testo: "Codillo de cerdo estofado sobre arroz." },
       { nome: "Tortilla de cangrejo", testo: "El plato que hizo famosa a Jay Fai." },
-      { nome: "Fideos de Chinatown", testo: "Nai Ek Roll Noodle: fideos en caldo y rollitos." },
+      { nome: "Fideos de Chinatown", testo: "Fideos en caldo y rollitos en los locales de Chinatown." },
     ],
     attenzioni: [
-      "«El palacio está cerrado hoy»: es la estafa más conocida ante los templos. Consulta los horarios en la web oficial e ignora a quien te pare en la calle.",
+      "«El palacio está cerrado hoy»: es una estafa conocida ante los templos. Consulta los horarios en la web oficial e ignora a quien te pare en la calle.",
       "Tuk-tuk a precio «rebajado» que te llevan a joyerías o sastrerías: acuerda el precio o usa Grab.",
       "Código de vestimenta de templos y azoteas: pantalón largo y hombros cubiertos.",
       "Taxis sin taxímetro: pide «meter» o usa Grab.",
@@ -146,7 +146,7 @@ export const destinazioniThailandia: Destinazione[] = [
     luoghi: [
       {
         nome: "Mercado flotante",
-        testo: "Alrededor de Hua Hin hay mercados flotantes construidos para los visitantes, como el Hua Hin Floating Market y el Sam Phan Nam: canales, pasarelas de madera y barcas que venden fruta, fideos y dulces. No son mercados históricos sino atracciones, con precios de turista. El más famoso, Damnoen Saduak, está de camino a Bangkok y se suele combinar con el mercado del tren.",
+        testo: "Alrededor de Hua Hin hay mercados flotantes construidos para los visitantes, como el Hua Hin Floating Market y el Sam Phan Nam: canales, pasarelas de madera y barcas que venden fruta, fideos y dulces. No son mercados históricos sino atracciones, con precios de turista. Damnoen Saduak, muy conocido, está de camino a Bangkok y se suele combinar con el mercado del tren.",
         come: "En taxi o songthaew desde Hua Hin.",
         quando: "Por la mañana, antes de la multitud.",
         tempo: "1-1,5 horas",
@@ -156,7 +156,7 @@ export const destinazioniThailandia: Destinazione[] = [
         nome: "Mercado del tren de Maeklong",
         testo: "En Samut Songkhram los puestos de fruta, pescado y verdura están sobre las vías de la línea hacia Bangkok. Cuando llega el tren los vendedores recogen toldos y cajas y el convoy pasa despacio a pocos centímetros de la mercancía; justo después todo vuelve a su sitio. El resto del tiempo es un auténtico mercado de barrio.",
         come: "Desde Hua Hin en coche o con un tour, unas 2,5-3 horas: conviene parar en el trayecto de ida o vuelta a Bangkok.",
-        quando: "Por el tramo de Maeklong pasan solo cuatro trenes al día en cada sentido. Los horarios cambian: consultarlos en la estación o preguntar a los vendedores.",
+        quando: "Por el tramo de Maeklong pasan pocos trenes al día. Los horarios cambian: consultarlos en la estación o preguntar a los vendedores.",
         tempo: "1 hora",
         consiglio: "Ver el tren rozando los puestos sigue siendo divertido, aunque sea muy turístico.",
       },
@@ -170,7 +170,7 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Khao Takiab y la playa",
-        testo: "La playa de Hua Hin se extiende kilómetros hacia el sur hasta la colina de Khao Takiab, con un templo en lo alto, un gran Buda de pie mirando al mar y colonias de macacos. Desde arriba se ve toda la bahía. Es el sitio para un paseo al atardecer, lejos de los mercados.",
+        testo: "La playa de Hua Hin se extiende kilómetros hacia el sur hasta la colina de Khao Takiab, con un templo en lo alto y colonias de macacos. Desde arriba se ve toda la bahía. Es el sitio para un paseo al atardecer, lejos de los mercados.",
         come: "En taxi o songthaew desde el centro, unos pocos kilómetros al sur; luego a pie por la colina.",
         quando: "Última hora de la tarde.",
         tempo: "1-2 horas",
@@ -206,7 +206,7 @@ export const destinazioniThailandia: Destinazione[] = [
     giorniConsigliati: "1 día",
     visitataPersonalmente: true,
     introduzione: "El Parque Nacional de Sam Roi Yot, con la Cueva de Phra Nakorn y su pabellón real, y el safari en Kui Buri para gaures y elefantes salvajes.",
-    percheAndarci: "Por uno de los rincones más fotografiados de Tailandia, la cueva, y por un safari que hay que tomar sabiendo sus límites.",
+    percheAndarci: "Por un rincón muy fotografiado, la cueva, y por un safari que hay que tomar sabiendo sus límites.",
     cosaVedere: ["La playa de Laem Sala", "La Cueva de Phra Nakorn, con el pabellón real iluminado desde arriba"],
     cosaFare: [
       "Trekking o barca hasta la playa de Laem Sala",
@@ -216,7 +216,7 @@ export const destinazioniThailandia: Destinazione[] = [
     doveDormire: "Aquí no dormimos: era una etapa de paso hacia Chumphon.",
     doveMangiare: "Almuerzo hacia el mediodía, después del relax en la playa.",
     comeArrivare: "Van desde Hua Hin, por la mañana temprano.",
-    comeSpostarsi: "Barca (15 min) o trekking (40 min) hasta Laem Sala; vehículo dedicado para el safari en Kui Buri.",
+    comeSpostarsi: "Barca o trekking hasta Laem Sala; vehículo dedicado para el safari en Kui Buri.",
     periodoMigliore: "por la mañana, para la mejor luz en la Cueva de Phra Nakorn",
     costi: "Entrada a Sam Roi Yot 200 THB para adultos extranjeros (2025); Kui Buri 200 THB más la camioneta obligatoria con guía, que se paga por vehículo.",
     erroriDaEvitare: ["Esperar un safari «africano»: en Kui Buri los animales a menudo se ven solo de lejos, y a veces no se ven en absoluto"],
@@ -235,8 +235,8 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Cueva de Phra Nakhon",
-        testo: "Una gran caverna con una abertura en el techo y, en el centro, el pabellón real Kuha Karuhas, construido en 1890 para el rey Chulalongkorn (Rama V). A ciertas horas un haz de luz entra por la abertura e ilumina el pabellón. Se llega con una subida empinada por el bosque.",
-        come: "Desde Bang Pu en barca o a pie hasta Laem Sala, luego 430 metros de sendero empinado de subida.",
+        testo: "Una gran caverna con una abertura en el techo y, en el centro, el pabellón real Kuha Karuhas, construido para el rey Chulalongkorn (Rama V). A ciertas horas un haz de luz entra por la abertura e ilumina el pabellón. Se llega con una subida empinada por el bosque.",
+        come: "Desde Bang Pu en barca o a pie hasta Laem Sala, luego un sendero corto y empinado de subida.",
         quando: "Por la mañana, para ver mejor la luz sobre el pabellón.",
         tempo: "2 horas",
         costo: "Incluida en la entrada del parque (200 THB para adultos extranjeros, 2025).",
@@ -281,7 +281,7 @@ export const destinazioniThailandia: Destinazione[] = [
     tipologia: ['natura', 'giungla'],
     giorniConsigliati: "2 días, 1 noche en el lago",
     visitataPersonalmente: true,
-    introduzione: "La selva pluvial más antigua del mundo y el lago Cheow Lan, con sus torres calizas que emergen del agua, a menudo comparado con una pequeña Guilin.",
+    introduzione: "Una antigua selva pluvial y el lago Cheow Lan, con sus torres calizas que emergen del agua, a menudo comparado con una pequeña Guilin.",
     percheAndarci: "Es uno de los escenarios más bonitos de toda Tailandia, y nosotros pasamos allí una noche en un resort flotante en el lago.",
     cosaVedere: ["El lago Cheow Lan y sus formaciones calizas", "El resort flotante en el lago"],
     cosaFare: [
@@ -291,17 +291,17 @@ export const destinazioniThailandia: Destinazione[] = [
     doveDormire:
       "Smiley Bungalows (base en tierra) y una noche en un resort flotante básico en el lago Cheow Lan (sin cobertura telefónica garantizada, wifi solo a veces en recepción).",
     doveMangiare: "Bamboo Bistro Khao Sok.",
-    comeArrivare: "Van desde Chumphon, unas 4 h 30 con dos paradas.",
-    comeSpostarsi: "Barca en el lago (unas 1 h 30 de navegación).",
+    comeArrivare: "Van desde Chumphon, con paradas en el camino.",
+    comeSpostarsi: "Barca en el lago.",
     periodoMigliore: "estación seca",
-    costi: "Entrada al parque 300 THB para adultos extranjeros (2025); propina opcional para guía/conductor de unos 500 baht por coche.",
-    erroriDaEvitare: ["Reservar las actividades con proveedores externos no autorizados: mejor pasar por el hotel, con al menos 24 h de antelación", "Ignorar las reglas del resort flotante: nada de ruido después de la cena, nada de cerveza traída de fuera"],
+    costi: "Entrada al parque 300 THB para adultos extranjeros (2025); propina opcional para guía y conductor.",
+    erroriDaEvitare: ["Reservar las actividades con proveedores externos no autorizados: mejor pasar por el hotel, con antelación", "Ignorar las reglas del resort flotante: nada de ruido después de la cena, nada de cerveza traída de fuera"],
     miaEsperienza:
       "El crucero al atardecer por el lago Cheow Lan, entre las formaciones calizas que emergen del agua, es una de las mejores experiencias de toda Tailandia. El resort flotante es básico, pero forma parte del encanto de dormir en un lugar tan aislado.",
     luoghi: [
       {
         nome: "Lago Cheow Lan",
-        testo: "Un lago artificial de unos 165 km², nacido a principios de los años ochenta con la presa de Ratchaprapha en el parque nacional de Khao Sok. Las paredes calizas cubiertas de selva se alzan rectas sobre el agua verde, con islotes, ensenadas y cuevas. Uno se mueve solo en long-tail, y se duerme en los resorts flotantes.",
+        testo: "Un lago artificial nacido con la presa de Ratchaprapha en el parque nacional de Khao Sok. Las paredes calizas cubiertas de selva se alzan rectas sobre el agua verde, con islotes, ensenadas y cuevas. Uno se mueve solo en long-tail, y se duerme en los resorts flotantes.",
         come: "En long-tail desde el muelle de la presa de Ratchaprapha hasta los resorts flotantes.",
         quando: "Mañana y atardecer; temporada seca.",
         tempo: "1-2 días",
@@ -319,7 +319,7 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Selva de Khao Sok",
-        testo: "Trekking, bamboo rafting y safari nocturno en la selva del parque, considerada más antigua que la amazónica. Se ven gibones y otros monos y, de noche, ranas, arañas y serpientes. En el parque crece la rafflesia (bua phut), una de las flores más grandes del mundo, que solo florece en algunos periodos.",
+        testo: "Trekking, bamboo rafting y safari nocturno en la selva del parque, muy antigua. Se ven gibones y otros monos y, de noche, ranas, arañas y serpientes. En el parque crece la rafflesia (bua phut), una flor enorme, que solo florece en algunos periodos.",
         come: "Reservar con el hotel, al menos el día antes.",
         quando: "Por la mañana o por la noche.",
         tempo: "Media jornada",
@@ -335,7 +335,7 @@ export const destinazioniThailandia: Destinazione[] = [
     ],
     sapori: [
       { nome: "Cocina tailandesa de resort", testo: "Comidas sencillas incluidas en el paquete del lago." },
-      { nome: "Bamboo Bistro", testo: "Local en Khao Sok con cocina tailandesa." },
+      { nome: "Curry tailandés", testo: "Curris y platos tailandeses en los restaurantes cerca de la entrada del parque." },
     ],
     attenzioni: [
       "Reservar actividades con proveedores externos no autorizados: mejor a través del hotel.",
@@ -367,7 +367,7 @@ export const destinazioniThailandia: Destinazione[] = [
     doveDormire: "No apunté el nombre del hotel.",
     doveMangiare: "Last Fisherman, Sea Salt Krabi Restaurant, Reeve Beach Club Krabi.",
     usciteSerali: "Carlito's o Slinky (más discoteca).",
-    comeArrivare: "Desde Khao Sok: 1 h de barca + 2 h de carretera.",
+    comeArrivare: "Desde Khao Sok: un tramo en barca y luego por carretera.",
     comeSpostarsi: "Barca para Railay Beach y las excursiones, a pie en la ciudad.",
     periodoMigliore: "noviembre-abril, estación seca",
     costi: "Barca de Ao Nang a Railay 100 THB por tramo (2025).",
@@ -377,16 +377,16 @@ export const destinazioniThailandia: Destinazione[] = [
     luoghi: [
       {
         nome: "Railay y Phra Nang Beach",
-        testo: "Península rodeada de paredes calizas a la que solo se llega en barca. Phra Nang es la playa más bonita, con la cueva de la princesa llena de ofrendas votivas y paredes para escalar. Railay West es la playa del atardecer; Railay East tiene manglares y barro con la marea baja.",
-        come: "Long-tail desde Ao Nang, unos 15 minutos. Desde Krabi ciudad se va primero a Ao Nang en autobús o songthaew.",
+        testo: "Península rodeada de paredes calizas a la que solo se llega en barca. Phra Nang es una playa espléndida, con la cueva de la princesa llena de ofrendas votivas y paredes para escalar. Railay West es la playa del atardecer; Railay East tiene manglares y barro con la marea baja.",
+        come: "Long-tail desde Ao Nang, un trayecto corto. Desde Krabi ciudad se va primero a Ao Nang en autobús o songthaew.",
         quando: "A primera hora; de noviembre a abril.",
         tempo: "Media jornada",
-        costo: "Long-tail desde Ao Nang 100 THB por persona y trayecto (2024-2025), servicio regular de 8 a 18; después de las 18 solo barcas privadas, con tarifa más alta.",
+        costo: "Long-tail desde Ao Nang 100 THB por persona y trayecto (2024-2025), servicio regular de día; por la noche solo barcas privadas, con tarifa más alta.",
         consiglio: "Comprobar la hora de la última barca de vuelta: con mar picado las salidas se reducen.",
       },
       {
         nome: "Bond Island y Koh Ping Gun",
-        testo: "Islotes de roca en forma de seta en la bahía de Phang Nga. Khao Phing Kan y el pináculo de Ko Tapu se hicieron famosos con la película de James Bond «El hombre de la pistola de oro», de 1974. La excursión incluye cuevas y lagunas interiores que se visitan en canoa.",
+        testo: "Islotes de roca en forma de seta en la bahía de Phang Nga. Khao Phing Kan y el pináculo de Ko Tapu se hicieron famosos con la película de James Bond «El hombre de la pistola de oro». La excursión incluye cuevas y lagunas interiores que se visitan en canoa.",
         come: "Excursión de un día en barco con tour, canoa hasta las cuevas (Tham Lot).",
         quando: "Día completo, desde la mañana.",
         tempo: "Día completo",
@@ -394,7 +394,7 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Koh Panyee",
-        testo: "Pueblo de pescadores sobre palafitos en la provincia de Phang Nga, a la sombra de una gran roca caliza, habitado por unas 1.600 personas de familias musulmanas. Tiene una mezquita, una escuela y el famoso campo de fútbol flotante construido por los chicos con tablas y balsas. Vestir de forma cubierta y respetar las costumbres del pueblo.",
+        testo: "Pueblo de pescadores sobre palafitos en la provincia de Phang Nga, a la sombra de una gran roca caliza, habitado por familias musulmanas. Tiene una mezquita, una escuela y el famoso campo de fútbol flotante construido por los chicos con tablas y balsas. Vestir de forma cubierta y respetar las costumbres del pueblo.",
         come: "Con tour en barco desde Krabi o Phuket.",
         quando: "A la hora de comer.",
         tempo: "1-2 horas",
@@ -425,8 +425,8 @@ export const destinazioniThailandia: Destinazione[] = [
       { nome: "Railay", perChi: "Para quien quiere naturaleza y escalada", testo: "Aislada y tranquila, sin carreteras. Más cara." },
     ],
     sapori: [
-      { nome: "Pescado a la parrilla", testo: "Last Fisherman y Sea Salt Krabi." },
-      { nome: "Beach club", testo: "Reeve Beach Club Krabi." },
+      { nome: "Pescado a la parrilla", testo: "Pescado fresco a la parrilla en los restaurantes junto al mar de Ao Nang." },
+      { nome: "Beach club", testo: "Aperitivo al atardecer en los beach clubs junto al mar." },
     ],
     attenzioni: [
       "Tours masificados: elige grupos pequeños.",
@@ -457,19 +457,19 @@ export const destinazioniThailandia: Destinazione[] = [
     doveDormire: "No apunté el nombre del hotel.",
     doveMangiare: "Dow Restaurant o ACQUA Restaurant.",
     usciteSerali: "Reggae Bar o Backpacker Bar.",
-    comeArrivare: "Ferri desde Ao Nopparat Thara Pier (Krabi), unas 2 h 30.",
+    comeArrivare: "Ferri desde Ao Nopparat Thara Pier (Krabi).",
     comeSpostarsi: "A pie en Tonsai Village, barca para las demás bahías.",
     periodoMigliore: "noviembre-abril",
     costi: "No apunté los precios.",
-    erroriDaEvitare: ["Llegar al ferri en el último momento: el check-in hay que hacerlo al menos 30 minutos antes de la salida"],
+    erroriDaEvitare: ["Llegar al ferri en el último momento: el check-in hay que hacerlo con buena antelación"],
     miaEsperienza:
       "El turismo de masas se ve, sobre todo en Tonsai Village. La vista desde arriba, desde el mirador, sigue siendo sin embargo increíble, y hace entender por qué la isla se ha convertido en un icono.",
     luoghi: [
       {
         nome: "Maya Bay",
-        testo: "La bahía de la película La playa, cerrada de 2018 a 2022 para recuperar los corales y reabierta con accesos limitados. Las barcas atracan por detrás, en Loh Samah, y se entra a pie por una pasarela. En la bahía no se nada: solo se entra en el agua hasta las rodillas.",
+        testo: "La bahía de la película La playa, cerrada varios años para recuperar los corales y reabierta con accesos limitados. Las barcas atracan por detrás, en Loh Samah, y se entra a pie por una pasarela. En la bahía no se nada: solo se entra en el agua hasta las rodillas.",
         come: "Barco desde Tonsai o con tour desde Phuket y Krabi.",
-        quando: "Cierra cada año en agosto y septiembre para su recuperación y reabre el 1 de octubre. El resto del año, a primera hora, antes de los grupos.",
+        quando: "Cierra cada año en agosto y septiembre para su recuperación. El resto del año, a primera hora, antes de los grupos.",
         tempo: "1-2 horas",
         costo: "Tasa del parque nacional 400 THB para adultos extranjeros (2025), a menudo incluida en el precio del tour.",
         consiglio: "El número de barcos y de visitantes es limitado: ve pronto.",
@@ -498,8 +498,7 @@ export const destinazioniThailandia: Destinazione[] = [
       { nome: "Tonsai Village", perChi: "Para quien quiere estar cerca del puerto y de los locales", testo: "Cómodo, pero ruidoso y turístico. No recordamos el nombre del hotel." },
     ],
     sapori: [
-      { nome: "Dow Restaurant", testo: "Cocina tailandesa y pescado." },
-      { nome: "ACQUA Restaurant", testo: "Cocina mediterránea y tailandesa." },
+      { nome: "Cocina tailandesa y pescado", testo: "Restaurantes de cocina tailandesa y pescado en Tonsai Village." },
     ],
     attenzioni: [
       "Llegar al ferri en el último momento: el check-in hay que hacerlo con bastante antelación.",
@@ -523,7 +522,7 @@ export const destinazioniThailandia: Destinazione[] = [
     percheAndarci: "La atmósfera es distinta de la de Bangkok y el sur: más lenta, más verde, de montaña.",
     cosaVedere: [
       "Wat Phra Singh, Wat Chedi Luang y Wat Sri Suphan en la Ciudad Vieja",
-      "Wat Phra That Doi Suthep, con la escalinata de 306 peldaños flanqueada por nagas",
+      "Wat Phra That Doi Suthep, con la larga escalinata flanqueada por nagas",
       "Wat Pha Lat, el templo «escondido» en la selva",
     ],
     cosaFare: [
@@ -553,11 +552,11 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Wat Phra That Doi Suthep",
-        testo: "El templo más sagrado del norte, en la montaña a unos 15 km de la ciudad, con una estupa dorada que según la tradición guarda una reliquia de Buda, llevada hasta aquí por un elefante blanco. Se llega por una escalinata de más de trescientos escalones flanqueada por nagas. Desde la terraza se ve todo Chiang Mai.",
-        come: "Songthaew, moto o tour desde Chiang Mai (unos 30 minutos).",
+        testo: "Un templo muy venerado del norte, en la montaña sobre la ciudad, con una estupa dorada que según la tradición guarda una reliquia de Buda, llevada hasta aquí por un elefante blanco. Se llega por una escalinata de más de trescientos escalones flanqueada por nagas. Desde la terraza se ve todo Chiang Mai.",
+        come: "Songthaew, moto o tour desde Chiang Mai.",
         quando: "A primera hora, cuando hay menos gente.",
         tempo: "2 horas",
-        costo: "Entrada para extranjeros; el funicular se paga aparte. Tarifas en la entrada.",
+        costo: "Tarifas en la entrada; el funicular se paga aparte.",
         consiglio: "Se puede tomar el funicular en lugar de subir los peldaños.",
       },
       {
@@ -572,7 +571,7 @@ export const destinazioniThailandia: Destinazione[] = [
       {
         nome: "Elephant Nature Park",
         testo: "Santuario ético de elefantes, fundado por Lek Chailert, donde viven elefantes rescatados de circos, trekkings y la tala. Se observan de cerca, se les prepara la comida y se les ve bañarse en el río, sin montarlos nunca. También acoge perros, búfalos y otros animales rescatados.",
-        come: "En la furgoneta del parque desde Chiang Mai (una hora y media más o menos).",
+        come: "En la furgoneta del parque desde Chiang Mai.",
         quando: "Día completo, hay que reservar con antelación.",
         tempo: "Día completo",
         url: "https://www.elephantnaturepark.org/",
@@ -580,7 +579,7 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Mercados nocturnos",
-        testo: "El Night Bazaar es el mercado más turístico. Lo mejor son los mercados a pie del fin de semana: la Sunday Walking Street en Ratchadamnoen Road, desde la Tha Phae Gate hacia el Wat Phra Singh, y el Saturday Walking Street de Wualai, la calle de los plateros. Entrada libre; artesanía, música y comida callejera del norte.",
+        testo: "El Night Bazaar es muy turístico. Lo mejor son los mercados a pie del fin de semana: la Sunday Walking Street en Ratchadamnoen Road, desde la Tha Phae Gate hacia el Wat Phra Singh, y el Saturday Walking Street de Wualai, la calle de los plateros. Entrada libre; artesanía, música y comida callejera del norte.",
         come: "En el centro, a pie.",
         quando: "Por la tarde-noche, de las 16 aproximadamente a las 22-23: el sábado en Wualai, el domingo en Ratchadamnoen Road.",
         tempo: "2 horas",
@@ -616,8 +615,8 @@ export const destinazioniThailandia: Destinazione[] = [
     tipologia: ['mare', 'isole'],
     giorniConsigliati: "3-4 días, viaje separado",
     visitataPersonalmente: true,
-    introduzione: "El gran hub del suroeste y, mar adentro, el parque marino deshabitado de las Similan, quizá el mejor snorkel y buceo alcanzable en el día en toda Tailandia.",
-    percheAndarci: "Por el mar más bonito del país, en un parque marino protegido sin hoteles ni vida nocturna.",
+    introduzione: "El gran hub del suroeste y, mar adentro, el parque marino deshabitado de las Similan, con un snorkel y un buceo excelentes alcanzables en el día.",
+    percheAndarci: "Por un mar espléndido, en un parque marino protegido sin hoteles ni vida nocturna.",
     cosaVedere: ["Las playas de Patong, Kata y Karon en Phuket", "Las aguas cristalinas y el granito blanco de las islas Similan"],
     cosaFare: [
       "Excursión en barca a las islas Similan desde Phuket o Khao Lak (hay una ficha de experiencia dedicada)",
@@ -637,7 +636,7 @@ export const destinazioniThailandia: Destinazione[] = [
     luoghi: [
       {
         nome: "Islas Similan",
-        testo: "Archipiélago en el mar de Andamán con rocas de granito blanco, playas de arena finísima y arrecifes de coral, el mejor de la costa para snorkel y buceo. Su símbolo es la Sail Rock de la isla n.º 8, con el mirador sobre la bahía. El número de visitantes diarios está limitado.",
+        testo: "Archipiélago en el mar de Andamán con rocas de granito blanco, playas de arena finísima y arrecifes de coral, muy apreciado para snorkel y buceo. Su símbolo es una gran roca de granito en forma de vela, con el mirador sobre la bahía. El número de visitantes diarios está limitado.",
         come: "Excursión en barco desde Phuket o Khao Lak, de un día o en crucero.",
         quando: "Abiertas del 15 de octubre al 15 de mayo; cerradas el resto del año por el monzón y la protección del arrecife.",
         tempo: "Día completo",
@@ -647,7 +646,7 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Playas de Phuket",
-        testo: "Patong es la playa más grande y concurrida, con sombrillas y deportes acuáticos. Kata y Karon, más al sur, tienen arena clara y un ambiente más tranquilo; Nai Harn, en la punta, es la más recogida. De mayo a octubre el mar está picado y hay banderas rojas.",
+        testo: "Patong es una playa grande y concurrida, con sombrillas y deportes acuáticos. Kata y Karon, más al sur, tienen arena clara y un ambiente más tranquilo; Nai Harn, en la punta, es más recogida. De mayo a octubre el mar está picado y hay banderas rojas.",
         come: "Taxi o scooter.",
         quando: "Por la mañana o a última hora de la tarde.",
         tempo: "Media jornada",
@@ -663,19 +662,19 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Phuket Old Town",
-        testo: "El casco histórico de Phuket Town, con las coloridas shophouses chino-portuguesas de Thalang Road y Soi Romanee, construidas en la época de las minas de estaño. Cafés, santuarios chinos y murales. En 2015 Phuket fue la primera ciudad del sudeste asiático nombrada Ciudad de la Gastronomía por la UNESCO.",
-        come: "En taxi o Grab desde Patong, unos 30 minutos; luego a pie.",
+        testo: "El casco histórico de Phuket Town, con las coloridas shophouses chino-portuguesas de Thalang Road y Soi Romanee, construidas en la época de las minas de estaño. Cafés, santuarios chinos y murales. Phuket es Ciudad Creativa de la Gastronomía de la UNESCO.",
+        come: "En taxi o Grab desde Patong; luego a pie.",
         quando: "A primera hora, antes del calor, o por la tarde-noche.",
         tempo: "2-3 horas",
         consiglio: "Parar a comer los noodles locales, mee hokkien, en una de las tiendas antiguas.",
       },
       {
         nome: "Big Buddha",
-        testo: "Una gran estatua de Buda sentado, de 45 metros de altura, de hormigón revestido de mármol blanco birmano, en la colina de Nakkerd cerca de Chalong. Desde la terraza se ven la bahía de Chalong y las playas del sur. Se construyó sobre todo con las donaciones de los fieles.",
+        testo: "Una gran estatua de Buda sentado de hormigón revestido de mármol blanco, en la colina de Nakkerd cerca de Chalong. Desde la terraza se ven la bahía de Chalong y las playas del sur. Se construyó sobre todo con las donaciones de los fieles.",
         come: "En taxi o scooter, por una carretera de montaña empinada.",
         quando: "Por la mañana o al atardecer; hombros y rodillas cubiertos.",
         tempo: "1 hora",
-        consiglio: "Combinarlo con el Wat Chalong, el templo más importante de la isla, a pocos minutos.",
+        consiglio: "Combinarlo con el Wat Chalong, un templo muy visitado, no muy lejos.",
       },
     ],
     programmi: [
@@ -724,7 +723,7 @@ export const destinazioniThailandia: Destinazione[] = [
     luoghi: [
       {
         nome: "Koh Samui",
-        testo: "La más grande de las tres islas, con aeropuerto propio. Chaweng es la playa larga y animada, Lamai más tranquila, Bophut tiene el viejo pueblo de pescadores (Fisherman's Village) con su mercado nocturno. Al noreste está el Big Buddha dorado del Wat Phra Yai, de 12 metros, en el islote de Ko Phan unido por una breve calzada sobre el mar.",
+        testo: "La más grande de las tres islas, con aeropuerto propio. Chaweng es la playa larga y animada, Lamai más tranquila, Bophut tiene el viejo pueblo de pescadores (Fisherman's Village) con su mercado nocturno. Al noreste está el Big Buddha dorado del Wat Phra Yai, en el islote de Ko Phan unido por una breve calzada sobre el mar.",
         come: "Avión o ferri desde Surat Thani.",
         quando: "Febrero-abril son los meses más secos; entre octubre y diciembre llueve más, con el pico en noviembre.",
         tempo: "2-3 días",
@@ -732,7 +731,7 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Koh Phangan y la Full Moon Party",
-        testo: "Isla famosa por la fiesta de luna llena en la playa de Haad Rin Sunrise, que en cada luna llena reúne de unos miles a treinta mil personas, con cubos de alcohol y música hasta el amanecer. El resto de la isla es otra cosa: Thong Nai Pan y Bottle Beach, al norte, son bahías tranquilas con la selva detrás.",
+        testo: "Isla famosa por la fiesta de luna llena en la playa de Haad Rin Sunrise, que en cada luna llena reúne a miles de personas, con cubos de alcohol y música hasta el amanecer. El resto de la isla es otra cosa: Thong Nai Pan y Bottle Beach, al norte, son bahías tranquilas con la selva detrás.",
         come: "Ferri desde Koh Samui.",
         quando: "La noche de luna llena para la fiesta (el calendario lunar se conoce de antemano); los meses más secos son febrero-abril.",
         tempo: "2 días",
@@ -740,15 +739,15 @@ export const destinazioniThailandia: Destinazione[] = [
       },
       {
         nome: "Koh Tao",
-        testo: "La isla más pequeña, uno de los destinos más conocidos para bucear a buen precio, con agua cálida y buena visibilidad. Tiene bahías con coral cerca de la orilla, como Shark Bay y Aow Leuk, y enfrente Koh Nang Yuan: tres islotes unidos por una lengua de arena, con un mirador.",
-        come: "Ferri desde Koh Phangan, unas 1,5-2 horas.",
+        testo: "La isla más pequeña, uno de los destinos más conocidos para bucear a buen precio, con agua cálida y buena visibilidad. Tiene bahías con coral cerca de la orilla y enfrente Koh Nang Yuan: tres islotes unidos por una lengua de arena, con un mirador.",
+        come: "Ferri desde Koh Phangan.",
         quando: "Febrero-abril son los meses más secos; entre octubre y diciembre llueve más y la visibilidad bajo el agua disminuye.",
         tempo: "2-3 días",
         consiglio: "No la hemos visitado en persona.",
       },
       {
         nome: "Parque marino de Ang Thong",
-        testo: "Un archipiélago de 42 islas calizas cubiertas de selva, a unos 28 km de Koh Samui, parque nacional desde 1980. La excursión clásica incluye un mirador en Koh Wua Talab y el lago salado interior de Koh Mae Ko, de color esmeralda, que se ve desde arriba tras una subida. Se hace kayak entre cuevas y esnórquel en las bahías.",
+        testo: "Un archipiélago de decenas de islas calizas cubiertas de selva frente a Koh Samui, protegido como parque nacional marino. La excursión clásica incluye un mirador en Koh Wua Talab y el lago salado interior de Koh Mae Ko, de color esmeralda, que se ve desde arriba tras una subida. Se hace kayak entre cuevas y esnórquel en las bahías.",
         come: "Excursión en barco de un día desde Koh Samui (también desde Koh Phangan), solo con operadores autorizados.",
         quando: "Con el mar en calma; en los meses de monzón y con mal tiempo las salidas se suspenden a menudo.",
         tempo: "Día entero",

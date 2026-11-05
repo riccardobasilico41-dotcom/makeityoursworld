@@ -61,7 +61,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Cable cars and Fisherman's Wharf",
         testo: "The city's historic cable cars, with the Powell-Hyde line climbing the hills and descending towards the waterfront. Fisherman's Wharf is the tourist harbour area, with seafood stalls, Pier 39 and the sea lions.",
-        come: "The cable cars start from Powell Street, near Union Square. Buy the ticket with the MuniMobile app or at the termini.",
+        come: "The cable cars start from Powell Street, near Union Square. Tickets and fares on the official Muni website.",
         quando: "At peak times there is a queue: better early in the morning.",
         tempo: "2-3 hours",
         url: "https://www.sfmta.com/getting-around/muni/cable-cars",
@@ -69,7 +69,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         nome: "Muir Woods",
-        testo: "A coastal redwood forest, protected as a National Monument, about 19 km north of San Francisco beyond the Golden Gate. Trails pass under trees up to 79 metres tall.",
+        testo: "A coastal redwood forest, protected as a National Monument, north of San Francisco beyond the Golden Gate. Trails pass under trees up to 79 metres tall.",
         come: "You must book parking or the shuttle in advance on the National Park Service site. The main trail is flat.",
         quando: "Early morning, to avoid groups and fog.",
         tempo: "1.5-2 hours",
@@ -103,8 +103,8 @@ export const destinazioniCalifornia: Destinazione[] = [
     sapori: [
       { nome: "Mission burrito", testo: "A big burrito with rice and beans, born in the Mission district." },
       { nome: "Clam chowder in bread", testo: "Clam soup served in a sourdough loaf, at Fisherman's Wharf." },
-      { nome: "Chinatown dim sum", testo: "One of the oldest Chinese communities in the United States." },
-      { nome: "Ferry Building", testo: "A market of local produce, liveliest on Saturday mornings." },
+      { nome: "Chinatown dim sum", testo: "Small steamed or fried Chinese dishes, in Chinatown's restaurants." },
+      { nome: "Ferry Building", testo: "A covered market of local produce, on the waterfront." },
     ],
     attenzioni: [
       "Don't leave anything in view in the car: broken windows are very frequent, even in broad daylight.",
@@ -172,7 +172,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Glacier Point",
         testo: "A viewpoint 975 metres above the valley, with a front view of Half Dome and of Nevada and Vernal Falls.",
-        come: "By car on Glacier Point Road, about an hour from the valley. The road usually opens in May (on May 9 in 2026) and closes with the autumn snow. It can also close for wildfires, as it did in late September 2026.",
+        come: "By car on Glacier Point Road, from the valley. The road usually opens in May (on May 9 in 2026) and closes with the autumn snow. It can also close for wildfires, as it did in late September 2026.",
         quando: "At sunset or early morning; in summer it is very crowded.",
         tempo: "1.5-2 hours",
         url: "https://www.nps.gov/yose/",
@@ -181,7 +181,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Mariposa Grove",
         testo: "The giant sequoia grove in the southern part of the park, with over 500 mature sequoias and the Grizzly Giant, about 3,000 years old according to the National Park Service.",
-        come: "You leave the car at the Welcome Plaza near the South Entrance (about 300 spaces, often full by mid-morning) and ride the free shuttle, which in 2026 runs from May 3 to November 30, about every 15 minutes. Without the shuttle you walk up, about 3 km each way with 150 metres of climb. The trails are mostly flat.",
+        come: "You leave the car at the Welcome Plaza near the South Entrance (about 300 spaces, often full by mid-morning) and ride the free shuttle, which in 2026 runs from May 3 to November 30. Without the shuttle you walk up, about 3 km each way. The trails are mostly flat.",
         quando: "Early morning, to avoid the heat.",
         tempo: "2-3 hours",
         url: "https://www.nps.gov/yose/",
@@ -202,14 +202,13 @@ export const destinazioniCalifornia: Destinazione[] = [
     ],
     zone: [
       { nome: "Yosemite Valley", perChi: "Those who want to sleep in the park", testo: "Lodges and tents in the heart of the valley, to be booked many months ahead. Fewer drives." },
-      { nome: "Mariposa and El Portal", perChi: "Those who want lower prices", testo: "30-60 minutes from the park, with motels and B&Bs." },
+      { nome: "Mariposa and El Portal", perChi: "Those who want lower prices", testo: "Outside the park, with motels and B&Bs." },
       { nome: "Groveland and Oakhurst", perChi: "Those arriving from the west or south", testo: "Cheaper, but far from the valley." },
     ],
     sapori: [
       { nome: "Lodge cooking", testo: "Restaurants and cafés in the valley." },
       { nome: "Packed lunches", testo: "Buy them in the Yosemite Village stores, away from open bins." },
       { nome: "Californian produce", testo: "Fruit and cheese in the nearby towns." },
-      { nome: "Craft beer", testo: "Breweries in Mariposa and around." },
     ],
     attenzioni: [
       "Non-US residents aged 16 and over pay 100 $ more per person on top of entry, unless they hold the non-resident annual pass (NPS, 2026).",
@@ -303,15 +302,14 @@ export const destinazioniCalifornia: Destinazione[] = [
       ] },
     ],
     zone: [
-      { nome: "Inside the parks", perChi: "Those who want to wake up among the sequoias", testo: "Wuksachi Lodge and John Muir Lodge. High prices, to be booked early." },
-      { nome: "Three Rivers", perChi: "Those entering from the south", testo: "Small town with motels and restaurants, 15 minutes from the entrance." },
-      { nome: "Fresno and Visalia", perChi: "Those who want more choice", testo: "Bigger cities 1-1.5 hours from the parks." },
+      { nome: "Inside the parks", perChi: "Those who want to wake up among the sequoias", testo: "Lodges inside the parks. High prices, to be booked early." },
+      { nome: "Three Rivers", perChi: "Those entering from the south", testo: "Small town with motels and restaurants, near the south entrance." },
+      { nome: "Fresno and Visalia", perChi: "Those who want more choice", testo: "Bigger cities, further from the parks." },
     ],
     sapori: [
       { nome: "Central Valley fruit", testo: "Citrus and grapes from roadside stalls." },
       { nome: "Packed lunch", testo: "Buy it in Three Rivers before going up." },
       { nome: "Mexican food", testo: "Places in Visalia and Fresno." },
-      { nome: "Local beers", testo: "Breweries in Three Rivers." },
     ],
     attenzioni: [
       "Non-US residents aged 16 and over pay 100 $ more on top of entry, unless they hold the non-resident annual pass (NPS, 2026).",
@@ -358,8 +356,8 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Zabriskie Point",
         testo: "A viewpoint over hills of yellow and golden mud, sculpted by erosion. At dawn the pink light gives the best colour.",
-        come: "By car, about 10 minutes from Furnace Creek. The walk is short.",
-        quando: "At dawn; it is one of the most photographed spots in the park.",
+        come: "By car, near Furnace Creek. The walk is short.",
+        quando: "At dawn.",
         tempo: "30-45 minutes",
         costo: "Park entry $30 per car, valid 7 days (NPS, 2026)",
         url: "https://www.nps.gov/deva/",
@@ -368,7 +366,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Badwater Basin",
         testo: "The lowest point in North America, 86 metres below sea level, with a white expanse of salt.",
-        come: "By car from Furnace Creek, about 30 minutes. You walk on the salt flats.",
+        come: "By car from Furnace Creek. You walk on the salt flats.",
         quando: "Early morning or after sunset; in summer the heat is extreme.",
         tempo: "45 minutes",
         url: "https://www.nps.gov/deva/",
@@ -385,7 +383,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         nome: "Artists Drive and Artist's Palette",
-        testo: "A one-way scenic road among hills of different colours, due to minerals. Artist's Palette is the most colourful spot.",
+        testo: "A scenic road among hills of different colours, due to minerals. Artist's Palette is the most colourful spot.",
         come: "By car from Furnace Creek, with a stop at Artist's Palette.",
         quando: "Afternoon, with low-angle light.",
         tempo: "1 hour",
@@ -416,9 +414,9 @@ export const destinazioniCalifornia: Destinazione[] = [
       ] },
     ],
     zone: [
-      { nome: "Furnace Creek", perChi: "Those who want to sleep in the middle of the park", testo: "The Oasis at Death Valley: handy but expensive." },
+      { nome: "Furnace Creek", perChi: "Those who want to sleep in the middle of the park", testo: "Hotels and resorts in the middle of the park: handy but expensive." },
       { nome: "Stovepipe Wells", perChi: "Those on a budget", testo: "Simple motel near the dunes." },
-      { nome: "Beatty and Lone Pine", perChi: "Those staying outside the park", testo: "About an hour's drive, cheaper." },
+      { nome: "Beatty and Lone Pine", perChi: "Those staying outside the park", testo: "Outside the park, cheaper." },
     ],
     sapori: [
       { nome: "Lodge American cooking", testo: "Restaurants at Furnace Creek and Stovepipe Wells." },
@@ -427,7 +425,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       { nome: "Water", testo: "Bring plenty of water: in the park it costs a lot." },
     ],
     attenzioni: [
-      "Walking in summer after 10 a.m. is dangerous: the heat kills every year.",
+      "Walking in summer in the hot hours is dangerous: the heat kills every year.",
       "Fill up before entering: in the park filling stations are few and expensive.",
       "Don't follow the satnav onto dirt roads: many need a 4x4.",
       "Entry: 30 $ per car for 7 days (NPS), the same for non-residents.",
@@ -466,7 +464,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Hidden Valley",
         testo: "A loop of about 1.6 km among large boulders, where legend says cattle rustlers hid. You see many Joshua trees and often climbers on the rocks.",
-        come: "By car from the West Entrance, about 30 minutes. The trail is easy.",
+        come: "By car from the West Entrance. The trail is easy.",
         quando: "Morning or afternoon; in summer it is too hot.",
         tempo: "1 hour",
         costo: "Park entry $30 per car, valid 7 days (NPS, 2026)",
@@ -484,7 +482,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         nome: "Keys View",
-        testo: "A high viewpoint over the Coachella Valley, with the San Andreas fault and the San Jacinto mountains. On clear days you see Palm Springs.",
+        testo: "A high viewpoint over the Coachella Valley. On clear days the view reaches far.",
         come: "By car, at the end of Keys View Road. The car park is a few steps from the viewpoint.",
         quando: "Sunset, with clear air.",
         tempo: "30 minutes",
@@ -493,7 +491,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         nome: "Palm Springs Aerial Tramway",
-        testo: "The cable car rising from Palm Springs up Mount San Jacinto, from the Valley Station (806 m) to the Mountain Station (2,596 m), a gain of almost 1,800 metres. The cabin floor rotates during the ride of about 10 minutes. The true summit is higher and reached only on foot.",
+        testo: "The cable car rising from Palm Springs up Mount San Jacinto, from the Valley Station (806 m) to the Mountain Station (2,596 m), a gain of almost 1,800 metres. The cabin floor rotates during the ride. The true summit is higher and reached only on foot.",
         come: "From the Valley Station on Tramway Road in Palm Springs. Buy the ticket online.",
         quando: "In the morning, with shorter queues. It's cold up there: bring a jacket. It closes every year for maintenance between September and early October (in 2026 from September 8 to October 4).",
         tempo: "3-4 hours",
@@ -515,7 +513,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     ],
     zone: [
       { nome: "Joshua Tree and Twentynine Palms", perChi: "Those who want to sleep near the park", testo: "Motels and houses in the desert, with dark skies." },
-      { nome: "Yucca Valley", perChi: "Those who want more services", testo: "Supermarkets and restaurants, 20 minutes from the entrance." },
+      { nome: "Yucca Valley", perChi: "Those who want more services", testo: "Supermarkets and restaurants, close to the park." },
       { nome: "Palm Springs", perChi: "Those who want a pool and hotels", testo: "Modern hotels and pools, further from the park." },
     ],
     sapori: [
@@ -527,7 +525,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     attenzioni: [
       "Don't leave the trails among the boulders without water and without signal.",
       "Don't touch the cholla: the spines stick to the skin.",
-      "In summer temperatures exceed 40 °C: avoid the middle of the day.",
+      "In summer the heat is extreme: avoid the middle of the day.",
       "Entry: 30 $ per car for 7 days (NPS), the same for non-residents.",
     ],
     esperienzeSlugs: [],
@@ -575,7 +573,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Getty Center",
         testo: "An art museum with modern architecture on a hill above Los Angeles, with gardens and a view of the city.",
-        come: "The car park is below the complex and you go up by tram. Entry is free, parking is paid.",
+        come: "By car, with paid parking: access and rates on the official site. Entry is free.",
         quando: "Opening days and hours on the official site. The afternoon for the light.",
         tempo: "3-4 hours",
         costo: "Free entry, paid parking",
@@ -594,7 +592,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Warner Bros. Studio Tour",
         testo: "The tour of the Burbank film studios, with historic sets and electric carts.",
-        come: "By car to Burbank, about 30 minutes from Hollywood. Buy the ticket online.",
+        come: "By car to Burbank, near Hollywood. Buy the ticket online.",
         quando: "In the morning; weekends are full.",
         tempo: "3 hours",
         costo: "From $79 (official site, 2026)",
@@ -621,7 +619,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     zone: [
       { nome: "Santa Monica", perChi: "Those who want the sea", testo: "Ocean promenade, restaurants and bikes. High prices." },
       { nome: "West Hollywood", perChi: "Those who want the centre", testo: "Central position and nightlife, more noise." },
-      { nome: "Pasadena", perChi: "Those who want calm", testo: "Quieter, 25 minutes from the centre." },
+      { nome: "Pasadena", perChi: "Those who want calm", testo: "Quieter, but outside the centre." },
     ],
     sapori: [
       { nome: "Food-truck tacos", testo: "Mexican street food, everywhere in the city." },
@@ -630,7 +628,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       { nome: "Seafood in Malibu", testo: "Restaurants by the sea." },
     ],
     attenzioni: [
-      "Traffic is heavy between 7 and 10 and between 15 and 19: plan your journeys.",
+      "Traffic is heavy in the morning and afternoon rush hours: plan your journeys.",
       "Don't leave objects in view in the parked car.",
       "Don't plan too many areas in a day: driving times are long.",
       "May and June are the «June Gloom» period, with grey skies in the morning.",
@@ -712,12 +710,12 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         nome: "Point Lobos and 17-Mile Drive",
-        testo: "Point Lobos is a nature reserve with coastal trails, sea lions and cypresses. The 17-Mile Drive is a toll scenic road through Pebble Beach.",
-        come: "By car from Carmel. Both have a per-car entry fee.",
+        testo: "Point Lobos is a nature reserve with coastal trails, sea lions and cypresses. The 17-Mile Drive is a scenic road through Pebble Beach.",
+        come: "By car from Carmel. Entry fees and tolls on the official sites.",
         quando: "Morning for Point Lobos; afternoon for the 17-Mile Drive.",
         tempo: "half a day",
         url: "https://www.parks.ca.gov/?page_id=571",
-        consiglio: "Arrive early at Point Lobos: the car park has few spaces and closes when full.",
+        consiglio: "Arrive early at Point Lobos: on busy days the car park fills up early.",
       },
     ],
     programmi: [

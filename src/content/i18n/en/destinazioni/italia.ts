@@ -202,14 +202,14 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Tre Cime di Lavaredo",
         "testo": "Three dolomite towers rising from a plateau of scree: the symbol of the Dolomites. The loop around their base passes the Auronzo, Lavaredo and Locatelli huts, with the north face right overhead.",
         "come": "From Cortina or Dobbiaco, drive to Auronzo or Misurina, then take the toll road up to the Rifugio Auronzo (2,320 m), where the loop starts. A shuttle also runs from Misurina.",
-        "quando": "From late spring to autumn, while the road is open: in 2026 it reopened on 23 May, and dates are on the booking portal. Arrive at opening time or late in the afternoon: in the middle of the day in July and August the trail is one continuous line.",
+        "quando": "From late spring to autumn, while the road is open: dates are on the booking portal. Arrive at opening time or late in the afternoon: in the middle of the day in July and August the trail is one continuous line.",
         "tempo": "3-4 hours for the full loop (about 10 km)",
-        "costo": "40 euros per car and 26 per motorbike, 2026; online booking is compulsory and the ticket is valid for 12 hours from the chosen time. The shuttle from Misurina to the Rifugio Auronzo costs 10 euros per person per day",
+        "costo": "40 euros per car, 2026; online booking is compulsory and the ticket is valid for 12 hours from the chosen time. The shuttle from Misurina to the Rifugio Auronzo costs 10 euros per person per day",
         "consiglio": "I did the loop in August and it felt like walking in single file: in September you walk with a third of the people. If you start early, go clockwise and climb to the Locatelli in the low morning light."
       },
       {
         "nome": "Lago di Braies",
-        "testo": "The most photographed alpine lake in South Tyrol, emerald green, at the foot of the Croda del Becco. The path around the lake is easy and flat. The Alta Via 1 also starts here.",
+        "testo": "One of the most photographed alpine lakes in South Tyrol, emerald green, at the foot of the Croda del Becco. The path around the lake is easy and flat. The Alta Via 1 also starts here.",
         "come": "From Dobbiaco take the Braies valley road to the car park by the lake. In summer car access is limited and needs a booking in the middle of the day: dates and times on the Braies municipality website. Buses and shuttles also run from Dobbiaco and Villabassa.",
         "quando": "June to October. At dawn or late in the afternoon you have the lake without the crowds; at midday in summer it is packed.",
         "tempo": "1 hour around the lake, 3-4 hours with the path up to the Forcella del Lago",
@@ -249,8 +249,8 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Pale di San Martino",
-        "testo": "The Trentino group that looks like the moon: a rock plateau above 2,500 metres, without trees or meadows, ringed by spires. For the quality of its scenery it is one of the least crowded places in the Dolomites.",
-        "come": "From San Martino di Castrozza the Colverde and Rosetta cable cars lead to 2,600 m, to the Rifugio Rosetta. From there you walk across the plateau.",
+        "testo": "The Trentino group that looks like the moon: a high rock plateau, without trees or meadows, ringed by spires. For the quality of its scenery it is one of the least crowded places in the Dolomites.",
+        "come": "From San Martino di Castrozza the Colverde and Rosetta cable cars lead to the Rifugio Rosetta. From there you walk across the plateau.",
         "quando": "Late June to late September. The weather changes fast: leave early in the morning.",
         "tempo": "a full day",
         "consiglio": "There are no landmarks on the plateau and in fog it is easy to get lost: carry a map or a downloaded GPS track."
@@ -344,9 +344,9 @@ export const destinazioniItalia: Destinazione[] = [
     attenzioni: [
       "Book car access to the Tre Cime and to Braies online before you leave: without a booking the road or car park may be closed and you will be turned back. Check dates and times on the operator's website.",
       "Afternoon thunderstorms are frequent in summer: be at the hut or in the valley before 3 pm. Check the South Tyrol or Veneto weather bulletin the evening before and in the morning.",
-      "Huts: book from January-February for July-August, bring cash (cards often do not work) and a sleeping-bag liner, which is compulsory.",
+      "Huts: book well ahead for July and August, bring cash and a sleeping-bag liner, which many huts require.",
       "In some regions mountain rescue is paid for; take insurance that covers trekking and helicopter rescue.",
-      "On via ferrata use a complete approved kit (helmet, harness, energy absorber) and do not go alone without experience: most rescue call-outs involve via ferrata.",
+      "On via ferrata use a complete approved kit (helmet, harness, energy absorber) and do not go alone without experience.",
       "Parking: at the best-known spots in summer the spaces are gone early in the morning. Many pass roads have time limits or motorbike bans on certain days: read the signs."
     ],
     esperienzeSlugs: ['alta-via-1', 'tre-cime-lavaredo', 'via-ferrata-dolomiti'],
@@ -599,13 +599,13 @@ export const destinazioniItalia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Sellaronda",
-        "testo": "The ski circuit around the Sella massif: four passes (Gardena, Sella, Pordoi, Campolongo) and four valleys (Val Gardena, Val di Fassa, Arabba, Alta Badia). It is about 40 km of pistes and lifts, mostly easy and intermediate runs, with views over the Dolomites all the way round.",
+        "testo": "The ski circuit around the Sella massif: four passes (Gardena, Sella, Pordoi, Campolongo) and four valleys (Val Gardena, Val di Fassa, Arabba, Alta Badia). The circuit alternates pistes and lifts, mostly easy and intermediate runs, with views over the Dolomites all the way round.",
         "come": "Start from any village around the Sella (Selva, Canazei, Arabba, Corvara) with a Dolomiti Superski pass. The clockwise direction is marked with orange signs, the anticlockwise one with green signs.",
-        "quando": "In season, December to mid April. Start by 9:30 and reach the last lift before closing (usually around 4 pm): anyone who arrives late has to take a taxi back.",
+        "quando": "In season, December to mid April. Start early and reach the last lift before closing: anyone who arrives late has to take a taxi back.",
         "tempo": "a full day: 4-5 hours on skis plus breaks",
         "costo": "Dolomiti Superski pass prices change every season: check them on the official site before leaving",
         "url": "https://www.dolomitisuperski.com/",
-        "consiglio": "Check the last-lift times for each pass the same morning. The Arabba-Corvara section is the longest stretch with nowhere to stop: carry something to eat in your pocket."
+        "consiglio": "Check the last-lift times for each pass the same morning and carry something to eat in your pocket."
       },
       {
         "nome": "Alta Badia and Gran Risa",
@@ -627,7 +627,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Cervinia and Zermatt",
-        "testo": "The highest ski area in Italy: from Breuil-Cervinia (2,050 m) you climb above 3,400 metres to the Plateau Rosà and can ski on the glacier even in summer. With the international pass you cross into Switzerland and ski down to Zermatt, under the Matterhorn.",
+        "testo": "A high-altitude ski area: from Breuil-Cervinia you climb to the Plateau Rosà and can ski on the glacier even in summer. With the international pass you cross into Switzerland and ski down to Zermatt, under the Matterhorn.",
         "come": "From Aosta drive or take the bus to Breuil-Cervinia. The lifts start from the village. For Zermatt you need the extended pass.",
         "quando": "November to May for snow at altitude; the link to Zermatt depends on the weather and wind.",
         "tempo": "3-5 days; the Cervinia-Zermatt trip takes a full day",
@@ -645,7 +645,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Via Lattea (Sestriere and Sauze d'Oulx)",
-        "testo": "A Piedmont ski area of about 400 km of pistes linking Sestriere, Sauze d'Oulx, Sansicario, Cesana and Claviere, with a crossing into France at Montgenèvre. Sestriere hosted the 2006 Olympics. The runs are varied and the feel is less luxurious than in the Dolomites.",
+        "testo": "A large Piedmont ski area linking Sestriere, Sauze d'Oulx, Sansicario, Cesana and Claviere, with a crossing into France at Montgenèvre. Sestriere hosted the 2006 Olympics. The runs are varied and the feel is less luxurious than in the Dolomites.",
         "come": "From Turin by car up the Susa valley. There is also a train to Oulx, then a bus to Sauze or Sestriere.",
         "quando": "December to April. Altitudes are lower than Cervinia: snow is less certain at the start and end of the season.",
         "tempo": "3-5 days",
@@ -663,7 +663,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Marmolada",
-        "testo": "The longest run in the Dolomites descends from the glacier for about 12 km, from Punta Rocca to Malga Ciapela, with a huge vertical drop. It is a high-altitude run, open depending on snow conditions.",
+        "testo": "A long run descends from the glacier, from Punta Rocca to Malga Ciapela, with a huge vertical drop. It is a high-altitude run, open depending on snow conditions.",
         "come": "From Malga Ciapela, in the Alto Agordino, a cable car in three sections goes up to Punta Rocca. From there you ski down the run. The lifts are part of Dolomiti Superski.",
         "quando": "December to April, often with good snow in spring. The lifts depend on the weather.",
         "tempo": "half a day for the descent",
@@ -675,9 +675,9 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "titolo": "1 day",
         "tappe": [
-          "By 8:30 be at the cable car in Corvara or Selva, with a Dolomiti Superski pass and a map in your pocket.",
-          "Do the Sellaronda clockwise or anticlockwise, stopping for a quick lunch in a hut around 12:30.",
-          "Check the last-lift times for each pass and be back by 4 pm."
+          "Early in the morning be at the cable car in Corvara or Selva, with a Dolomiti Superski pass and a map in your pocket.",
+          "Do the Sellaronda clockwise or anticlockwise, stopping for a quick lunch in a hut around midday.",
+          "Check the last-lift times for each pass and be back before closing."
         ]
       },
       {
@@ -752,9 +752,9 @@ export const destinazioniItalia: Destinazione[] = [
     attenzioni: [
       "By law anyone doing ski touring, off-piste or snowshoeing in snowy terrain outside groomed pistes must carry an avalanche transceiver, shovel and probe. A helmet is compulsory for under-18s and third-party liability insurance is compulsory for all skiers.",
       "On many mountain roads snow chains on board or winter tyres are required, normally from 15 October to 15 April. Check the order for the specific road: dates vary.",
-      "Rescue on and off the piste in Italy is paid for: a helicopter can cost thousands of euros. Check what your ski pass covers and take out insurance.",
-      "At Christmas, New Year and in February weeks prices rise by up to 40 percent and the pistes are very crowded. Book early or choose January after Epiphany or March.",
-      "Below 1,800 metres natural snow is not guaranteed: check webcams and the snow report before booking.",
+      "Rescue on and off the piste in Italy may be charged, and a helicopter is very expensive. Check what your ski pass covers and take out insurance.",
+      "At Christmas, New Year and in February weeks prices rise sharply and the pistes are very crowded. Book early or choose January after Epiphany or March.",
+      "In lower resorts natural snow is not guaranteed: check webcams and the snow report before booking.",
       "At Cervinia wind and fog often close the high lifts: keep a plan B at lower altitude. At Livigno there are customs checks on leaving."
     ],
     esperienzeSlugs: ['sellaronda', 'scialpinismo-ciaspole'],
@@ -834,7 +834,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "St Peter's Basilica and dome",
-        "testo": "The largest church in Christendom, with Michelangelo's Pietà, Bernini's baldachin and the dome Michelangelo designed. From the dome you see all of Rome.",
+        "testo": "One of the largest churches in the world, with Michelangelo's Pietà, Bernini's baldachin and the dome Michelangelo designed. From the dome you see all of Rome.",
         "come": "Metro A to Ottaviano and walk. You go through security checks; entry to the basilica is free, the climb to the dome is paid. Shoulders and knees must be covered.",
         "quando": "Every day, but closed during papal ceremonies; on Wednesday morning there is the general audience and the area is very crowded. Early in the morning.",
         "tempo": "1-2 hours, plus 1 hour for the dome",
@@ -861,16 +861,16 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Appian Way (Appia Antica)",
         "testo": "The queen of Roman roads, built in 312 BC. You find original paving stones, tombs, villas and aqueducts, and the catacombs of San Callisto and San Sebastiano below the road. The Appian Way Park is one of the few large green areas near the centre.",
-        "come": "From the centre by city bus (the 118 passes Porta Capena and Porta San Sebastiano, the 660 reaches Cecilia Metella) and on foot; or rent a bike. On Sundays and holidays the Appia is closed to motor vehicles from Porta San Sebastiano onwards, 9:00-16:00 in winter time and 9:00-18:00 in summer time.",
+        "come": "From the centre by city bus and on foot; or rent a bike. On Sundays and holidays the Appia is closed to motor vehicles from Porta San Sebastiano onwards, 9:00-16:00 in winter time and 9:00-18:00 in summer time.",
         "quando": "Sunday, the best day because it is closed to cars. The catacombs have different closing days: check them on their websites before going.",
         "tempo": "half a day",
         "url": "https://www.parcoappiaantica.it/",
-        "consiglio": "The Appian Way on Sunday is half an hour from the Colosseum and almost nobody goes. You walk on original paving stones among tombs and pines, with the aqueducts in the distance. Bring water: there are few places to refuel along the road."
+        "consiglio": "The Appian Way on Sunday is not far from the Colosseum and almost nobody goes. You walk on original paving stones among tombs and pines, with the aqueducts in the distance. Bring water: there are few places to refuel along the road."
       },
       {
         "nome": "Basilica of San Clemente",
         "testo": "A 12th-century church built on top of a 4th-century basilica, itself above Roman buildings and a 2nd-century Mithraeum. Going down you cross a thousand years of the city's history across three levels.",
-        "come": "Five minutes on foot from the Colosseum, on via Labicana. The upper basilica can be visited freely, the underground levels with a ticket.",
+        "come": "A few minutes on foot from the Colosseum, on via Labicana. The upper basilica can be visited freely, the underground levels with a ticket.",
         "quando": "Hours include a break in the middle of the day; check the website. The underground rooms are damp and cool even in summer.",
         "tempo": "1 hour",
         "url": "https://www.basilicasanclemente.com/",
@@ -888,7 +888,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Trastevere and the Jewish Ghetto",
         "testo": "Two neighbourhoods where Rome is still lived in. Trastevere has alleys, osterias and the basilica of Santa Maria in Trastevere with its golden mosaics. The Jewish Ghetto, near the Portico d'Ottavia, is the place for carciofo alla giudia.",
-        "come": "On foot from the centre across the Tiber via Tiber Island, or by tram 8 from Largo Argentina when it is running.",
+        "come": "On foot from the centre across the Tiber via Tiber Island, or by tram from Largo Argentina.",
         "quando": "Morning for the alleys; evening for dinner. Trastevere on Saturday night is very crowded.",
         "tempo": "half a day",
         "consiglio": "To eat well, move away from restaurants with waiters inviting you in. In Testaccio, Pigneto or San Lorenzo you get a well-made cacio e pepe, often for a fraction of the price near the monuments."
@@ -898,7 +898,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "titolo": "1 day",
         "tappe": [
-          "8:30, Colosseum and Roman Forum with a booked ticket, before the crowds.",
+          "Morning: Colosseum and Roman Forum with a booked ticket, before the crowds.",
           "Lunch away from the monuments, in Monti or Testaccio.",
           "Afternoon at the Pantheon and San Luigi dei Francesi.",
           "Stroll through Piazza Navona and, at sunset, Ponte Sant'Angelo.",
@@ -971,7 +971,7 @@ export const destinazioniItalia: Destinazione[] = [
     ],
     attenzioni: [
       "The Colosseum ticket is named and you need ID at the entrance. Buy only on the official website: street sellers and many unofficial sites charge extra.",
-      "Pickpockets work on metro A and B, on bus 64 to St Peter's, at Termini and near monuments. Keep bags closed and in front, phone in an inside pocket.",
+      "Pickpockets work on metro A and B, on buses to St Peter's, at Termini and near monuments. Keep bags closed and in front, phone in an inside pocket.",
       "Avoid restaurants with photos of dishes outside or with someone inviting you in. Check the cover charge and extras on the bill before ordering.",
       "Taxis: take only white licensed ones, with a fixed fare from Fiumicino airport to the centre inside the Aurelian Walls. Refuse anyone offering a negotiated price at arrivals.",
       "Fake centurions and people who put bracelets or roses in your hand ask for money afterwards: say no firmly. Do not enter the fountains, there is a fine.",
@@ -1044,7 +1044,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Museo dell'Opera del Duomo",
         "testo": "The museum of the Duomo complex, which many skip and is among the best in the city. Inside are the original Baptistery doors (the ones in the square are copies), Michelangelo's Bandini Pietà, Donatello's Magdalene and the models of the dome.",
-        "come": "Two steps from the Duomo, behind it, at piazza del Duomo 9. The combined Duomo complex ticket includes dome, baptistery, bell tower, crypt and museum.",
+        "come": "Two steps from the Duomo, behind it. The combined Duomo complex ticket includes dome, baptistery, bell tower, crypt and museum.",
         "quando": "Every day; check hours on the website. Early morning it is almost empty.",
         "tempo": "1.5-2 hours",
         "url": "https://www.duomo.firenze.it/",
@@ -1052,7 +1052,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Uffizi Gallery",
-        "testo": "Italy's most important painting museum: Botticelli's Birth of Venus and Primavera, Giotto's Ognissanti Madonna, Leonardo, Raphael, Michelangelo, Caravaggio. The route follows the history of painting from the Middle Ages to the 18th century.",
+        "testo": "One of Italy's most important painting museums: Botticelli's Birth of Venus and Primavera, Giotto's Ognissanti Madonna, Leonardo, Raphael, Michelangelo, Caravaggio. The route follows the history of painting from the Middle Ages to the 18th century.",
         "come": "On foot from Piazza della Signoria. Entry is by booking: the queue without a ticket is long even in low season. The visit is linear and there is no shortcut: choose the rooms beforehand.",
         "quando": "Tuesday to Sunday 8:15-18:30, last entry 17:30; closed on Mondays, 1 January and 25 December. First slot in the morning or late afternoon.",
         "tempo": "3 hours",
@@ -1089,11 +1089,11 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "San Miniato al Monte",
         "testo": "The 11th-century Romanesque church on the hill south of the Arno, with a facade inlaid with white and green marble and a floor with zodiac motifs. The Olivetan monks sing Gregorian chant in the afternoon.",
-        "come": "On foot from the Ponte Vecchio, via Porta San Niccolò and the steps, or by bus 12 or 13. Just above Piazzale Michelangelo.",
+        "come": "On foot from the Ponte Vecchio, via Porta San Niccolò and the steps, or by bus. Just above Piazzale Michelangelo.",
         "quando": "Every day. Late afternoon, for sunset and the monks' chant. Check service times on the website.",
         "tempo": "1 hour",
         "url": "https://www.sanminiatoalmonte.it/",
-        "consiglio": "A hundred metres from Piazzale Michelangelo, which at that hour is a car park with vendors, there is the same view with fewer people. In the crypt the monks sing Gregorian chant in the afternoon."
+        "consiglio": "Just above Piazzale Michelangelo, which at that hour is a car park with vendors, there is the same view with fewer people. In the crypt the monks sing Gregorian chant in the afternoon."
       },
       {
         "nome": "Oltrarno: Santo Spirito and the workshops",
@@ -1108,17 +1108,17 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "titolo": "1 day",
         "tappe": [
-          "8:30, climb Brunelleschi's dome with a booking.",
-          "10:30, Museo dell'Opera del Duomo.",
-          "13:00, lunch with a lampredotto sandwich or in a Sant'Ambrogio trattoria.",
-          "15:00, Uffizi with the afternoon fare (room by room, without trying to see everything).",
+          "Morning: climb Brunelleschi's dome with a booking.",
+          "Morning: Museo dell'Opera del Duomo.",
+          "Early afternoon: lunch with a lampredotto sandwich or in a Sant'Ambrogio trattoria.",
+          "Early afternoon: Uffizi (room by room, without trying to see everything).",
           "Sunset at San Miniato al Monte, then dinner in the Oltrarno."
         ]
       },
       {
         "titolo": "2 days",
         "tappe": [
-          "Day 1: dome at 8:30, Museo dell'Opera del Duomo, lunch in Sant'Ambrogio, Uffizi in the afternoon.",
+          "Day 1: dome early in the morning, Museo dell'Opera del Duomo, lunch in Sant'Ambrogio, Uffizi in the afternoon.",
           "Day 2: Accademia and the David at the first slot; Oltrarno with the Brancacci Chapel and Santo Spirito; sunset at San Miniato."
         ]
       },
@@ -1273,23 +1273,23 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Rialto and the fish market",
         "testo": "The oldest bridge over the Grand Canal, in stone since 1591, with the historic commercial district around it. At the Pescheria, on the San Polo side, lagoon and sea fish are sold to residents in the morning; nearby are fruit and vegetables.",
-        "come": "On foot from the station or San Marco, or by vaporetto 1 to Rialto. The market is a few minutes from the bridge.",
-        "quando": "Early morning. The Pescheria is usually closed on Sundays and Mondays: check. The bridge fills up by late morning.",
+        "come": "On foot from the station or San Marco, or by vaporetto to Rialto. The market is a few minutes from the bridge.",
+        "quando": "Early morning. Check the Pescheria's opening days. The bridge fills up by late morning.",
         "tempo": "1 hour",
         "consiglio": "After the market, go and eat cicheti at the nearby bacari. See the bridge at dawn, when it is empty."
       },
       {
         "nome": "Cannaregio and the Ghetto",
-        "testo": "The most lived-in sestiere, with wide canals and osterias where Venetians eat. The Ghetto, established in 1516, is the first Jewish ghetto in Europe: the buildings are tall because the area could not be enlarged. You can visit the synagogues and the Jewish museum.",
+        "testo": "The most lived-in sestiere, with wide canals and osterias where Venetians eat. The Ghetto, established in 1516, is one of the first Jewish ghettos in Europe: the buildings are tall because the area could not be enlarged. You can visit the synagogues and the Jewish museum.",
         "come": "On foot from the railway station. The Jewish museum runs guided tours of the synagogues.",
-        "quando": "Open all year; the Jewish museum is closed on Saturdays and Jewish holidays.",
+        "quando": "Open all year; Jewish museum hours and closures on its website.",
         "tempo": "half a day",
         "consiglio": "Get lost in the calli away from the station-Rialto axis: in Cannaregio it is easy to find Venice as the residents live it."
       },
       {
         "nome": "San Giorgio Maggiore",
-        "testo": "The island in front of San Marco with Palladio's church and a bell tower from which you see the city and the lagoon. It is the best viewpoint, with almost no queue.",
-        "come": "From the San Zaccaria stop take vaporetto 2 to San Giorgio, a few minutes. The bell tower has a lift.",
+        "testo": "The island in front of San Marco with Palladio's church and a bell tower from which you see the city and the lagoon. It is one of the best viewpoints, usually with little queue.",
+        "come": "From the San Zaccaria stop take the vaporetto to San Giorgio, a few minutes. The bell tower has a lift.",
         "quando": "Every day; late afternoon gives the best light on San Marco. Check the lift hours.",
         "tempo": "1 hour",
         "consiglio": "From the bell tower you see San Marco and the whole lagoon with a fraction of the crowd on the campanile in the square."
@@ -1297,7 +1297,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Torcello",
         "testo": "The island where Venice began. The basilica of Santa Maria Assunta, from the 7th century, has a mosaic of the Last Judgement covering an entire wall. Only a few dozen people live here now.",
-        "come": "From Fondamente Nove take vaporetto 12 to Burano, then line 9 to Torcello.",
+        "come": "From Fondamente Nove by vaporetto to Burano, and from there to Torcello.",
         "quando": "Every day; the morning is quiet. Check the basilica's opening hours.",
         "tempo": "half a day, combined with Burano",
         "consiglio": "I went in the middle of the day and there were twenty people: this is where Venice began, before Venice existed."
@@ -1305,7 +1305,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Murano and Burano",
         "testo": "Murano is the glass island, with the Glass Museum and the furnaces. Burano has houses painted in bright colours and a lace tradition. Both are heavily photographed and visited by groups.",
-        "come": "By vaporetto from Fondamente Nove (lines 4.1 and 4.2 for Murano; the 12 for Burano). At the Glass Museum you see the historic pieces.",
+        "come": "By vaporetto from Fondamente Nove. At the Glass Museum you see the historic pieces.",
         "quando": "All year; early morning is less crowded. In winter the islands are quiet.",
         "tempo": "half a day each",
         "consiglio": "Avoid furnaces that bring tourists in with free demonstrations and then push them to buy: buy glass carrying the Vetro Artistico Murano mark."
@@ -1315,12 +1315,12 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "titolo": "1 day",
         "tappe": [
-          "7:00, early walk from Rialto to San Marco, when the calli are empty.",
-          "9:00, St Mark's Basilica with a booked entry.",
-          "10:30, Doge's Palace.",
-          "13:00, bacari crawl in Cannaregio or Castello.",
-          "15:00, Scuola Grande di San Rocco.",
-          "Sunset on vaporetto 1 along the whole Grand Canal."
+          "Morning: early walk from Rialto to San Marco, when the calli are empty.",
+          "Morning: St Mark's Basilica with a booked entry.",
+          "Morning: Doge's Palace.",
+          "Early afternoon: bacari crawl in Cannaregio or Castello.",
+          "Early afternoon: Scuola Grande di San Rocco.",
+          "Sunset by vaporetto along the whole Grand Canal."
         ]
       },
       {
@@ -1390,7 +1390,7 @@ export const destinazioniItalia: Destinazione[] = [
     attenzioni: [
       "Access fee for day visitors who do not stay overnight: the 2026 trial ended on 27 July. For 2027 the city has already set 72 days between 26 March and 15 August, with the fee due from 8:30 to 16:30; amounts and exemptions are published on cda.ve.it. Check the calendar before leaving.",
       "Since 2024 tour groups are limited to 25 people and loudspeakers are banned.",
-      "Pickpocketing on crowded vaporetto 1 and 2, at Rialto and at San Marco. Keep bags closed and in front.",
+      "Pickpocketing on crowded vaporetti, at Rialto and at San Marco. Keep bags closed and in front.",
       "The single vaporetto ticket is expensive and time passes pay off if you make several trips a day. Always validate the ticket before boarding.",
       "Restaurants around San Marco and Rialto with tourist menus and high cover charges: check the bill. The gondola has fares set by the city; agree the price before boarding.",
       "High water in autumn and winter: the MOSE protects the lagoon, but the walkways are still set up when the tide goes above a certain threshold. Bring light rubber boots. Bans: swimming in the canals, sitting on bridges and eating on the steps of monuments."
@@ -1477,7 +1477,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Underground Naples and the catacombs",
-        "testo": "Beneath the city lie Greek quarries, Roman aqueducts and wartime air-raid shelters. The Catacombs of San Gennaro, in the Sanità district, are the largest in southern Italy, with early Christian frescoes.",
+        "testo": "Beneath the city lie Greek quarries, Roman aqueducts and wartime air-raid shelters. The Catacombs of San Gennaro, in the Sanità district, are among the largest in southern Italy, with early Christian frescoes.",
         "come": "Napoli Sotterranea is entered from Piazza San Gaetano, with guided tours at set times. The catacombs of San Gennaro are in the Sanità district, walkable from the MANN.",
         "quando": "All year, rain included. It is cool underground: bring a sweater.",
         "tempo": "1.5 hours per visit",
@@ -1667,7 +1667,7 @@ export const destinazioniItalia: Destinazione[] = [
         "testo": "Leonardo's Last Supper, painted on a wall of the refectory of Santa Maria delle Grazie. The experimental technique began to deteriorate while he was still alive. Visitors enter in small groups, in a humidity-controlled room.",
         "come": "Metro M1 Conciliazione or M2 Cadorna, then a few minutes on foot. Visit on your own, at the time set on the ticket.",
         "quando": "Tuesday to Sunday 8:15-19:00, last entry 18:45; closed on Mondays, 1 January and 25 December. Booking is compulsory for all tickets, even free ones: without it you don't get in. Collect the ticket at the office next to the entrance at least 30 minutes before your slot, with ID.",
-        "tempo": "15 minutes inside (slots of up to 40 people), an hour with waiting and checks",
+        "tempo": "15 minutes inside, an hour with waiting and checks",
         "costo": "15 euros full price, 2 euros for ages 18-25, free under 18 (official site, 2026)",
         "url": "https://cenacolovinciano.org/",
         "consiglio": "Check the official site months ahead for new sales openings and book as soon as they appear: it is the most common mistake in Milan."
@@ -1694,7 +1694,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Galleria Vittorio Emanuele II and La Scala",
         "testo": "The 19th-century glass-and-iron arcade links Piazza Duomo to Piazza della Scala. Next to it is the theater, with a museum of costumes, instruments and documents.",
-        "come": "On foot from the Duomo, two minutes. The La Scala museum is in Largo Ghiringhelli.",
+        "come": "A short walk from the Duomo. The La Scala museum is in Largo Ghiringhelli.",
         "quando": "The Galleria is always open. The La Scala museum has its own hours: check first. Evening for the lit shop windows.",
         "tempo": "1 hour for the Galleria and square, one more hour with the museum",
         "consiglio": "The cafes in the Galleria are expensive: have coffee in a side street and use the Galleria only for a stroll."
@@ -1797,7 +1797,7 @@ export const destinazioniItalia: Destinazione[] = [
       "Last Supper: without a reservation you do not get in. Sales open in batches: check the official site months ahead.",
       "Area B and Area C limit car access to the center, with cameras: whoever enters without knowing gets the fine.",
       "Salone del Mobile (April) and fashion weeks: accommodation prices rise sharply, book months ahead.",
-      "Pickpockets on the metro (M1, M3), in front of the Duomo and at Central Station: bag closed in front, never in a back pocket.",
+      "Pickpockets on the metro, in front of the Duomo and at Central Station: bag closed in front, never in a back pocket.",
       "People offering bird feed or bracelets in Piazza Duomo then ask for money: refuse without taking anything in your hand.",
       "Frequent transport strikes (ATM and trains): check the calendar before going to the lakes."
     ],
@@ -1931,7 +1931,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Monreale Cathedral",
-        "testo": "A 12th-century Norman cathedral with over six thousand square metres of Byzantine gold mosaics and a cloister where every capital is different. Inside you understand how Sicily held together all the cultures that conquered it.",
+        "testo": "A 12th-century Norman cathedral with thousands of square metres of Byzantine gold mosaics and a cloister where every capital is different. Inside you understand how Sicily held together all the cultures that conquered it.",
         "come": "From Palermo by city bus from Piazza Indipendenza (a short walk from the Palazzo dei Normanni) or by taxi. The cathedral is self-guided; the cloister has a separate entrance.",
         "quando": "Early morning or early afternoon. The schedule has a midday break: check first.",
         "tempo": "2 hours",
@@ -1956,7 +1956,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Segesta and Selinunte",
-        "testo": "Segesta has an unfinished Doric temple and a theater on the hill. Selinunte is one of the largest archaeological parks in the Mediterranean, with fallen temples and the acropolis by the sea. They get a fraction of Agrigento's visitors.",
+        "testo": "Segesta has an unfinished Doric temple and a theater on the hill. Selinunte is a very large archaeological park, with fallen temples and the acropolis by the sea. They get a fraction of Agrigento's visitors.",
         "come": "By car from Palermo, with Segesta closer and Selinunte farther. From the Segesta car park a shuttle goes up to the theatre.",
         "quando": "Morning, because of the heat. Selinunte at sunset is very beautiful.",
         "tempo": "2 hours at Segesta, 3 at Selinunte",
@@ -2095,7 +2095,7 @@ export const destinazioniItalia: Destinazione[] = [
       "Extreme heat in July and August, which can exceed 40 degrees inland and at shadeless archaeological sites: water, a hat, visits at dawn or sunset.",
       "Etna: above a certain altitude a guide is mandatory and access depends on the volcano's activity and the weather. Check the park's notices before leaving.",
       "Pickpockets in the markets and the centers of Palermo and Catania: bag in front, phone in pocket.",
-      "Travel times are longer than expected on inland state roads: add a third to what the map says.",
+      "Travel times are longer than expected on inland state roads: allow extra time beyond what the map says.",
       "Tourist tax in the main cities: paid at the hotel, check the municipality's amount."
     ],
     esperienzeSlugs: ['etna'],
@@ -2241,7 +2241,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Gorropu Gorge",
         "testo": "A cleft carved by the Rio Flumineddu between limestone walls up to 500 meters high, in the Supramonte. You walk on boulders as big as cars, with a strip of sky overhead. It looks like an American canyon and it is in Barbagia.",
-        "come": "By car from Dorgali or Urzulei to Sa Barva, then a long trail to the gorge entrance, with a river crossing. Access has rules and a ticket: check beforehand.",
+        "come": "By car from Dorgali or Urzulei to Sa Barva, then a long trail to the gorge entrance, with a river crossing. Access may have rules and a ticket: check beforehand.",
         "quando": "Spring and autumn. In summer it is hot and the gorge fills up. After heavy rain the stream can block the way.",
         "tempo": "Half a day, a full day for the long trek",
         "consiglio": "Learn the access rules and consider a guide: the trail disappears in the riverbed."
@@ -2265,11 +2265,11 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "La Pelosa, Stintino",
-        "testo": "A beach of white sand and shallow water, facing the Aragonese tower and Piana island. It is among the most photographed in Italy. To protect it, access is capped.",
-        "come": "By car to Stintino, in the northwest, then on foot from the car parks. Booking is mandatory and paid, with a mat under the towel.",
+        "testo": "A beach of white sand and shallow water, facing the Aragonese tower and Piana island. It is among the most photographed in Italy. To protect it, access is regulated: check the current rules.",
+        "come": "By car to Stintino, in the northwest, then on foot from the car parks. Access rules and booking are on the Stintino town website.",
         "quando": "Early morning. June and September, avoiding July and August. With the mistral the sea is rough and the beach partly closed.",
         "tempo": "Half a day",
-        "consiglio": "Book days ahead and bring the mat: without it you cannot sit on the sand."
+        "consiglio": "Check the access rules a few days ahead and bring a mat for the sand."
       },
       {
         "nome": "La Maddalena archipelago",
@@ -2282,7 +2282,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Alghero and Neptune's Grotto",
         "testo": "Alghero has a Catalan-style centre, with sea bastions and the language still spoken. At nearby Capo Caccia, Neptune's Grotto is a large cave with stalactites and an inner lake.",
-        "come": "Alghero by plane or car. For the grotto: a boat from Alghero's port or on foot down the Escala del Cabirol, a 654-step staircase cut into the cliff.",
+        "come": "Alghero by plane or car. For the grotto: a boat from Alghero's port or on foot down the Escala del Cabirol, the long staircase cut into the cliff.",
         "quando": "Morning. The boat does not sail in rough seas. The sunset over Alghero's ramparts is lovely.",
         "tempo": "Half a day for the grotto, a full day with Alghero",
         "consiglio": "Choose the stairs or the boat according to the sea: if it is rough the grotto may be closed."
@@ -2290,7 +2290,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Porto Flavia and the Piscinas dunes",
         "testo": "In the Sulcis-Iglesiente, the disused mines form a geo-mining landscape. Porto Flavia is a port dug into the Masua cliff to load minerals onto ships. At Piscinas, on the Costa Verde, the dunes are among the highest in Europe.",
-        "come": "By car from Iglesias: Masua is close, Piscinas farther, with a dirt stretch. Porto Flavia is visited with booking and a guide.",
+        "come": "By car from Iglesias: Masua is close, Piscinas farther, with a dirt stretch. For Porto Flavia, check beforehand how visits work.",
         "quando": "Spring and autumn. In summer the dunes are scorching.",
         "tempo": "Half a day each",
         "consiglio": "Visit the dunes at the end of the day, when the sand has lost its heat."
@@ -2377,12 +2377,12 @@ export const destinazioniItalia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Several beaches and coves have capped access with paid booking (La Pelosa, Cala Goloritzé and some in the Gulf of Orosei): check and book first, without it you do not get in.",
+      "Some beaches and coves have regulated access, sometimes with booking (for example La Pelosa and Cala Goloritzé): check the season's rules before going.",
       "Taking away sand, pebbles and shells is forbidden: fines are heavy and there are checks at ports and airports.",
       "Car ferries for summer are booked months ahead and prices rise in July and August.",
       "Treks such as Gorropu and Goloritzé: it is hot in summer, you need plenty of water, proper shoes, and after storms the streams can block the way.",
       "Summer fires: open flames and barbecues are banned in the scrub, and roads can close. Respect the municipalities' bans.",
-      "Narrow, winding inland roads with sheep and blind bends: halve the speed your navigator suggests and fill up before entering the Supramonte."
+      "Narrow, winding inland roads with sheep and blind bends: allow more time than your navigator suggests and fill up before entering the Supramonte."
     ],
     esperienzeSlugs: ['gorropu', 'cala-goloritze'],
     tripSlugs: ['sardegna-due-anime'],
@@ -2675,7 +2675,7 @@ export const destinazioniItalia: Destinazione[] = [
     attenzioni: [
       "In July and August the minor islands are saturated and prices multiply: book lodging and ferries months ahead or go in June and September.",
       "Rough seas block hydrofoils and ferries: do not plan tight connections with flights or trains on the same day.",
-      "Stromboli: the climb to the crater is allowed only with authorized guides and up to the altitude set by ordinance, which changes. Anyone who climbs alone risks fines and danger.",
+      "Stromboli: the climb is regulated by an ordinance that changes with the volcano's activity (permitted altitude, guide requirement): check it first. Anyone who ignores it risks fines and danger.",
       "Many islands limit or ban cars landing in summer: bringing the car is almost always pointless and expensive.",
       "Fresh water is scarce and arrives by tanker ships: use it sparingly.",
       "Off season (November-March) many businesses are closed and connections reduced: check what is open before leaving."
@@ -2875,7 +2875,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Val Grande",
-        "testo": "The largest wilderness area in Italy, with no roads or inhabited villages, between Lake Maggiore and Switzerland. There are abandoned alpine pastures retaken by the forest and poorly marked trails. Not for beginners.",
+        "testo": "One of the largest wilderness areas in Italy, with no roads or inhabited villages, between Lake Maggiore and Switzerland. There are abandoned alpine pastures retaken by the forest and poorly marked trails. Not for beginners.",
         "come": "Access starts from Cicogna, Premosello and the Val d'Ossola. You need self-sufficiency, maps and water: the bivouacs are essential and there is no signal.",
         "quando": "Late spring to autumn. After rain the trails can be impassable.",
         "tempo": "2-4 days of trekking",
@@ -3365,7 +3365,7 @@ export const destinazioniItalia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Museo Egizio",
-        "testo": "The most important Egyptian collection outside Cairo, born in 1824 from the nucleus gathered by consul Drovetti. The piece not to miss is the tomb of Kha and Merit, found intact in 1906 with all its grave goods. Then the Temple of Ellesiya, the Gallery of the Kings and the Papyrus of the Gold Mines.",
+        "testo": "One of the most important Egyptian collections outside Cairo, born in 1824 from the nucleus gathered by consul Drovetti. The piece not to miss is the tomb of Kha and Merit, found intact in 1906 with all its grave goods. Then the Temple of Ellesiya, the Gallery of the Kings and the Papyrus of the Gold Mines.",
         "come": "Right in the centre, on foot from Piazza Castello or Piazza San Carlo. Tickets must be bought online, with a time slot. Audioguide or app to understand the pieces.",
         "quando": "Open every day: Monday 9-14, Tuesday-Friday and Sunday 9-18:30, Saturday 9-20; on some days there are special evening openings, on the website. Early morning or Saturday evening to avoid the crowds. The Historic Rooms have been temporarily closed since 12 December 2025: see the notice on the website.",
         "tempo": "3 hours, better 4",
@@ -3396,7 +3396,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Basilica di Superga and the rack tram",
         "testo": "Juvarra's basilica on the hill east of the Po, with the Savoy tombs in the crypt. At the back is the Grande Torino memorial, where the plane crashed in 1949. From the terrace you see the city and the Alps.",
-        "come": "Historic rack railway from Sassi station (tram 15 from the centre), with hourly departures. On Wednesdays the railway does not run; on holidays there is also the Superga Express bus from piazza Vittorio Veneto.",
+        "come": "Historic rack railway from Sassi station, reached by tram from the centre, with hourly departures. On Wednesdays the railway does not run.",
         "quando": "Departures from Sassi every hour from 10:00 to 18:00, last ride down from Superga at 18:30; updated times on the GTT website. A clear day, ideally the afternoon for the light on the Alps.",
         "tempo": "2-3 hours including the ride",
         "url": "https://www.gtt.to.it/cms/turismo/sassisup",
@@ -3414,7 +3414,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Roman Quadrilateral and Porta Palazzo",
-        "testo": "The oldest part of the city, with the Roman orthogonal grid and the first-century Porta Palatina, with its towers still standing. Nearby is Porta Palazzo, the largest open-air market in Europe.",
+        "testo": "The oldest part of the city, with the Roman orthogonal grid and the first-century Porta Palatina, with its towers still standing. Nearby is Porta Palazzo, one of the largest open-air markets in Europe.",
         "come": "On foot from Piazza Castello. The market is in Piazza della Repubblica.",
         "quando": "Market in the morning, Monday to Saturday. In the evening the Quadrilateral is the aperitivo district.",
         "tempo": "2 hours",
@@ -3600,7 +3600,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Ravello: Villa Rufolo e Villa Cimbrone",
-        "testo": "Ravello sits over 300 metres above the coast and moves at another pace: silence, gardens and viewpoints. Villa Rufolo, from the 13th century, has the Moorish tower and the garden over the void where the music festival is held. Villa Cimbrone has the Terrace of Infinity, with statues looking out to sea.",
+        "testo": "Ravello sits high above the coast and moves at another pace: silence, gardens and viewpoints. Villa Rufolo, from the 13th century, has the Moorish tower and the garden over the void where the music festival is held. Villa Cimbrone has the Terrace of Infinity, with statues looking out to sea.",
         "come": "From Amalfi by SITA bus, or on foot via the Scala Fenicia (a path with many steps). The two villas are linked on foot through the centre.",
         "quando": "Villa Rufolo is open daily, with longer hours in season. After 5 pm the light on the Belvedere is best. The festival changes closing times.",
         "tempo": "half a day",
@@ -3609,7 +3609,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Sentiero degli Dei",
-        "testo": "The finest scenic walk on the coast, from Bomerano (Agerola) to Nocelle: about 7-8 km at mid-height, with Positano and Capri on the horizon. It takes about three hours, mostly downhill.",
+        "testo": "One of the finest scenic walks on the coast, from Bomerano (Agerola) to Nocelle, at mid-height, with Positano and Capri on the horizon. It takes about three hours, mostly downhill.",
         "come": "SITA bus from Amalfi to Bomerano, then walk to Nocelle. From Nocelle a long staircase goes down to Positano, or you stop and take the bus.",
         "quando": "Spring and autumn. In summer start at dawn: the path has little shade.",
         "tempo": "3-4 hours plus the descent to Positano",
@@ -3852,7 +3852,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Monte Solaro e Scala Fenicia",
-        "testo": "Capri's highest point, 589 metres, reached from Anacapri by chairlift. From the top you see both gulfs, Naples and Salerno together. Below, the Phoenician Steps, 921 of them, are the old route between Marina Grande and Anacapri.",
+        "testo": "Capri's highest point, 589 metres, reached from Anacapri by chairlift. From the top you see both gulfs, Naples and Salerno together. Below, the Phoenician Steps, a long stairway, are the old route between Marina Grande and Anacapri.",
         "come": "Chairlift from the square in Anacapri. To come down on foot you can take the Scala Fenicia, in comfortable shoes.",
         "quando": "Morning, with clear air. The chairlift stops in strong wind.",
         "tempo": "2-3 hours",
@@ -3942,7 +3942,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Anacapri (Capri)",
         "perChi": "those who want Capri without Piazzetta prices",
-        "testo": "Costs less than Capri town, is quieter in the evening and has Monte Solaro. A bus goes down to Marina Grande and Capri; after 9 pm connections are sparse."
+        "testo": "Costs less than Capri town, is quieter in the evening and has Monte Solaro. A bus goes down to Marina Grande and Capri; late in the evening connections are sparse."
       },
       {
         "nome": "Forio and Sant'Angelo (Ischia)",
@@ -3984,7 +3984,7 @@ export const destinazioniItalia: Destinazione[] = [
     ],
     attenzioni: [
       "Boat tours and boatmen's fares in Capri should be agreed before boarding: ask the total price and what it includes.",
-      "The Grotta Azzurra closes in rough seas, and tickets are paid in cash on the spot: don't prepay to anyone who stops you at the port.",
+      "The Grotta Azzurra closes in rough seas, and tickets are paid on the spot: don't prepay to anyone who stops you at the port.",
       "In high season non-residents' cars cannot enter Capri: you move by funicular, bus and taxi.",
       "The Capri funicular has long queues at midday in summer: plan the return well ahead of the last hydrofoil.",
       "Ferry strikes and rough seas cancel runs: don't book a flight or train for the same evening you return from the islands.",
@@ -4320,7 +4320,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Duomo di Monreale",
-        "testo": "The 12th-century Norman masterpiece: over six thousand square metres of gold-ground mosaics, with the great Christ Pantocrator in the apse. Next door the cloister has 228 little columns, and every capital is different. The terraces above look over the Conca d'Oro.",
+        "testo": "The 12th-century Norman masterpiece: thousands of square metres of gold-ground mosaics, with the great Christ Pantocrator in the apse. Next door the cloister has a colonnade of paired little columns, and every capital is different. The terraces above look over the Conca d'Oro.",
         "come": "City bus from Palermo (piazza Indipendenza or corso Calatafimi). The cloister and the terraces have their own tickets.",
         "quando": "Early morning, before the coaches. Hours vary with services: check beforehand.",
         "tempo": "2 hours",

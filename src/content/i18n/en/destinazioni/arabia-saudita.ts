@@ -93,7 +93,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     luoghi: [
       {
         "nome": "Al-Balad",
-        "testo": "The historic centre, UNESCO World Heritage since 2014 as \"Historic Jeddah, the Gate to Makkah\", with tower houses rising over 30 metres and roshan, the large carved wooden windows. The restoration, announced in 2019, is patchy: some houses have become hotels, others are still propped up.",
+        "testo": "The old town, a UNESCO World Heritage Site since 2014 as \"Historic Jeddah, the Gate to Makkah\", with coral-stone tower houses and roshan, the large carved wooden windows. Restoration is patchy: some houses have become hotels, others are still propped up.",
         "come": "You explore the lanes on foot; taxi or Uber to the edge of the district. With a guide you understand better what you are looking at.",
         "quando": "Late afternoon, when the low light catches the wood and the district comes alive. At midday it is dusty and empty.",
         "tempo": "2-3 hours",
@@ -101,18 +101,18 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       },
       {
         "nome": "Nassif House",
-        "testo": "One of the most famous and oldest tower houses in Al-Balad, in the Al-Yemen quarter.",
+        "testo": "One of the best-known tower houses in Al-Balad.",
         "come": "Inside Al-Balad, on foot.",
         "quando": "Morning or late afternoon. Check interior opening times on site.",
         "tempo": "45 minutes"
       },
       {
-        "nome": "Corniche, King Fahd Fountain and Al-Rahma Mosque",
-        "testo": "The city's long waterfront, with King Fahd's Fountain, the world's tallest water jet according to Guinness (312 metres), and the small Al-Rahma mosque, white over the sea. In the evening families spread rugs on the grass and barbecue.",
+        "nome": "Corniche and King Fahd Fountain",
+        "testo": "The city's seafront, with the King Fahd Fountain visible from afar. In the evening families stroll and picnic.",
         "come": "Taxi or Uber from the center. You stroll the waterfront.",
         "quando": "Sunset and evening, especially at weekends.",
         "tempo": "2 hours",
-        "consiglio": "Have dinner of grilled fish on the Corniche, as the Saudis do."
+        "consiglio": "Have a fish dinner in one of the restaurants in the area."
       }
     ],
     programmi: [
@@ -243,7 +243,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       },
       {
         "nome": "Jabal Ikmah",
-        "testo": "A canyon with about 300 inscriptions cut into the sandstone, mostly in Dadanitic and other Ancient North Arabian languages, nearly all from the second half of the 1st millennium BC. UNESCO calls it the world's largest concentration of well-preserved Dadanitic inscriptions.",
+        "testo": "A canyon with hundreds of inscriptions carved into the sandstone, mostly in Dadanitic and other ancient North Arabian languages, nearly all from the second half of the 1st millennium BC.",
         "come": "With the Dadan and Jabal Ikmah tour: you park for free at AlUla's Winter Park and a coach takes you to the Dadan visitor centre, then to Jabal Ikmah and back.",
         "quando": "Morning, when the low light brings out the carvings.",
         "tempo": "1-1.5 hours",
@@ -263,7 +263,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       {
         "nome": "AlUla Old Town and Elephant Rock",
         "testo": "The village of lanes and mudbrick houses, inhabited from the 12th century on the pilgrim route between Damascus and Mecca, now restored with shops and restaurants; and the elephant-shaped rock, where people gather at sunset.",
-        "come": "The old town is explored on foot; Elephant Rock is a 20-minute drive north-east, with free parking and a wooden walkway.",
+        "come": "The old town is explored on foot; Elephant Rock is a short drive out of town, with free parking and a wooden boardwalk.",
         "quando": "Old Town from afternoon to evening; Elephant Rock open daily from 4pm to midnight (2026), best at sunset.",
         "tempo": "2 hours",
         "consiglio": "Climbing the rock is not allowed; desert evenings are cold and there are fire pits.",
@@ -383,7 +383,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       },
       {
         "nome": "Saudi National Museum",
-        "testo": "The most complete museum for understanding the peninsula's history: eight halls, from geology and prehistory to the pre-Islamic kingdoms, Islam, the two Saudi states and the unification of the kingdom.",
+        "testo": "A comprehensive museum for understanding the history of the peninsula: eight halls, from geology and prehistory to the pre-Islamic kingdoms, Islam, the two Saudi states and the unification of the kingdom.",
         "come": "Taxi or Uber, in the Al-Murabba district, inside the King Abdulaziz Historical Centre.",
         "quando": "Morning. Check opening hours locally or on official channels.",
         "tempo": "2 hours"
@@ -397,11 +397,11 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       },
       {
         "nome": "Edge of the World",
-        "testo": "The edge of an escarpment that drops hundreds of metres onto an endless plain, with no fences. The last stretch is a long desert track.",
-        "come": "With a 4x4 and guide or on an organised tour: the track has no signs.",
+        "testo": "A long escarpment above the desert plain outside Riyadh, with sweeping views.",
+        "come": "On an organised tour or with a local guide.",
         "quando": "Morning or late afternoon.",
         "tempo": "Half a day",
-        "consiglio": "Go with a tour: the track is the last stretch and alone you get lost."
+        "consiglio": "Go with a tour and keep away from the edge."
       }
     ],
     programmi: [
@@ -445,9 +445,9 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     ],
     attenzioni: [
       "Safety: as of November 2026 the UK government advises against all but essential travel to the whole of Saudi Arabia and against all travel within 10 km of the Yemen border, because of missile and drone attacks (including on Riyadh airport). Check your government's travel advice and your insurance before leaving.",
-      "Edge of the World alone in an ordinary car: the last stretch is an unsigned track.",
+      "Edge of the World: better to go on an organised tour than on your own.",
       "Visiting Diriyah at midday: the mud reflects heat, the beauty is in the last hour of light.",
-      "Expecting a historic city: Riyadh was almost all built after the 1970s.",
+      "Expecting a historic city: Riyadh is largely modern.",
       "Summer heat is extreme: come between November and March."
     ],
     // GUIDA-END
@@ -503,14 +503,14 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     luoghi: [
       {
         "nome": "Rijal Almaa",
-        "testo": "The village of about sixty buildings in stone, clay and wood, some up to eight storeys, about 50 km from Abha. The Al Alwan palace houses the heritage museum, with more than two thousand objects.",
-        "come": "By car from Abha, about 50 km of mountain road.",
+        "testo": "The village of stone, clay and wood tower houses in the Asir mountains, with a heritage museum.",
+        "come": "By car from Abha, on a mountain road.",
         "quando": "Morning.",
         "tempo": "Half a day"
       },
       {
         "nome": "Jebel Sawda and the Asir cable car",
-        "testo": "Officially the highest point in the country for the Saudi authorities, 3,207 metres (a 2018 survey measured it lower). You get there by car or cable car.",
+        "testo": "Regarded as the country's highest peak, although measurements of its height disagree. You get there by car or by cable car.",
         "come": "By car from Abha.",
         "quando": "Early morning, when the clouds are low.",
         "tempo": "Half a day"
@@ -518,13 +518,13 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       {
         "nome": "Habala",
         "testo": "The village in a valley below the escarpment, once reachable only by rope ladders: the name comes from the Arabic word for \"rope\". Today you go down by cable car.",
-        "come": "By car from Abha, about an hour, then the cable car.",
-        "quando": "Afternoon. The cable car has shorter hours in low season.",
+        "come": "By car from Abha, then cable car.",
+        "quando": "Afternoon; check the cable car times locally.",
         "tempo": "1.5 hours"
       },
       {
-        "nome": "Abha: painted houses and market",
-        "testo": "Houses with al-qatt al-asiri, the colourful geometric patterns women paint on interior walls, UNESCO intangible heritage since 2017, and the market in the centre.",
+        "nome": "Abha and the painted houses",
+        "testo": "Al-Qatt Al-Asiri, the colourful geometric patterns women paint on the inside walls of houses, on UNESCO's intangible heritage list since 2017.",
         "come": "On foot or by taxi in the center.",
         "quando": "Morning.",
         "tempo": "2 hours"
@@ -534,7 +534,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       {
         "titolo": "3 days",
         "tappe": [
-          "Day 1: Abha, painted houses and market",
+          "Day 1: Abha and the painted houses",
           "Day 2: Rijal Almaa",
           "Day 3: Habala by cable car and Jebel Sawda"
         ]
@@ -544,7 +544,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       {
         "nome": "Abha",
         "perChi": "those who want a base with services",
-        "testo": "Hotels and restaurants, a base for the cable car and the market."
+        "testo": "Hotels and restaurants, a base for mountain trips."
       },
       {
         "nome": "Mountain villages",
@@ -628,8 +628,8 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     luoghi: [
       {
         "nome": "Umluj archipelago",
-        "testo": "The white-sand islands and coral banks off the fishing port. It is a coast the big tourism projects have not reached yet.",
-        "come": "By boat from Umluj.",
+        "testo": "Sandy islands and coral banks off Umluj, a small town on the coast. Tourism here is still little developed.",
+        "come": "By boat from Umluj, with local operators.",
         "quando": "In the cooler months.",
         "tempo": "A full day"
       },

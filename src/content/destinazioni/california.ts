@@ -65,7 +65,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Cable car e Fisherman's Wharf",
         testo: "Le funicolari storiche della città, con la linea Powell-Hyde che sale sulle colline e scende verso il porto. Fisherman's Wharf è la zona turistica del porto, con i banchi di pesce, il Pier 39 e i leoni marini.",
-        come: "Le funicolari partono da Powell Street, vicino a Union Square. Il biglietto si compra con l'app MuniMobile o ai capolinea.",
+        come: "Le funicolari partono da Powell Street, vicino a Union Square. Biglietti e tariffe sul sito ufficiale della Muni.",
         quando: "Nelle ore di punta c'è coda: meglio il mattino presto.",
         tempo: "2-3 ore",
         url: "https://www.sfmta.com/getting-around/muni/cable-cars",
@@ -73,7 +73,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         nome: "Muir Woods",
-        testo: "Una foresta di sequoie costiere, protetta come National Monument, circa 19 km a nord di San Francisco, oltre il Golden Gate. I sentieri passano sotto alberi alti fino a 79 metri.",
+        testo: "Una foresta di sequoie costiere, protetta come National Monument, a nord di San Francisco, oltre il Golden Gate. I sentieri passano sotto alberi alti fino a 79 metri.",
         come: "Serve prenotare in anticipo il parcheggio o la navetta, sul sito del National Park Service. Il sentiero principale è in piano.",
         quando: "La mattina presto, per evitare gruppi e nebbia.",
         tempo: "1,5-2 ore",
@@ -107,8 +107,8 @@ export const destinazioniCalifornia: Destinazione[] = [
     sapori: [
       { nome: "Burrito della Mission", testo: "Burrito grande con riso e fagioli, nato nel quartiere della Mission." },
       { nome: "Clam chowder nel pane", testo: "Zuppa di vongole servita in una pagnotta di pane acido, a Fisherman's Wharf." },
-      { nome: "Dim sum di Chinatown", testo: "Una delle comunità cinesi più antiche degli Stati Uniti." },
-      { nome: "Ferry Building", testo: "Mercato di prodotti locali, il sabato mattina è più vivo." },
+      { nome: "Dim sum di Chinatown", testo: "Piccoli piatti cinesi al vapore o fritti, nei locali di Chinatown." },
+      { nome: "Ferry Building", testo: "Mercato coperto di prodotti locali, sul porto." },
     ],
     attenzioni: [
       "Non lasciare nulla in vista in auto: i vetri rotti sono molto frequenti, anche in pieno giorno.",
@@ -176,7 +176,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Glacier Point",
         testo: "Un belvedere a 975 metri sopra la valle, con vista frontale sull'Half Dome e sulle cascate Nevada e Vernal.",
-        come: "In auto sulla Glacier Point Road, circa un'ora dalla valle. La strada apre di solito a maggio (nel 2026 il 9 maggio) e chiude con la neve in autunno. Può chiudere anche per incendi, come è successo a fine settembre 2026.",
+        come: "In auto sulla Glacier Point Road, dalla valle. La strada apre di solito a maggio (nel 2026 il 9 maggio) e chiude con la neve in autunno. Può chiudere anche per incendi, come è successo a fine settembre 2026.",
         quando: "Al tramonto o al mattino presto; d'estate è molto affollato.",
         tempo: "1,5-2 ore",
         url: "https://www.nps.gov/yose/",
@@ -185,7 +185,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Mariposa Grove",
         testo: "Il bosco di sequoie giganti nella parte sud del parco, con più di 500 sequoie adulte e il Grizzly Giant, che secondo il National Park Service ha circa 3.000 anni.",
-        come: "Si lascia l'auto al Welcome Plaza vicino all'ingresso sud (circa 300 posti, spesso pieni a metà mattina) e si sale con la navetta gratuita, che nel 2026 gira dal 3 maggio al 30 novembre, ogni 15 minuti circa. Senza navetta si sale a piedi, circa 3 km per tratto e 150 metri di dislivello. I sentieri sono in gran parte pianeggianti.",
+        come: "Si lascia l'auto al Welcome Plaza vicino all'ingresso sud (circa 300 posti, spesso pieni a metà mattina) e si sale con la navetta gratuita, che nel 2026 gira dal 3 maggio al 30 novembre. Senza navetta si sale a piedi, circa 3 km per tratto. I sentieri sono in gran parte pianeggianti.",
         quando: "La mattina presto, per evitare il caldo.",
         tempo: "2-3 ore",
         url: "https://www.nps.gov/yose/",
@@ -206,14 +206,13 @@ export const destinazioniCalifornia: Destinazione[] = [
     ],
     zone: [
       { nome: "Yosemite Valley", perChi: "Chi vuole dormire nel parco", testo: "Lodge e tende nel cuore della valle, da prenotare con molti mesi di anticipo. Meno spostamenti in auto." },
-      { nome: "Mariposa e El Portal", perChi: "Chi cerca prezzi più bassi", testo: "A 30-60 minuti dal parco, con motel e B&B." },
+      { nome: "Mariposa e El Portal", perChi: "Chi cerca prezzi più bassi", testo: "Fuori dal parco, con motel e B&B." },
       { nome: "Groveland e Oakhurst", perChi: "Chi arriva da ovest o da sud", testo: "Più economici, ma lontani dalla valle." },
     ],
     sapori: [
       { nome: "Cucina dei lodge", testo: "Ristoranti e caffè nella valle." },
       { nome: "Pasti al sacco", testo: "Si compra nei negozi di Yosemite Village, lontano dai cestini aperti." },
       { nome: "Prodotti californiani", testo: "Frutta e formaggi nei paesi vicini." },
-      { nome: "Birre artigianali", testo: "Birrifici di Mariposa e dintorni." },
     ],
     attenzioni: [
       "I non residenti negli USA di 16 anni e più pagano 100 $ in più a persona oltre all'ingresso, a meno di avere il pass annuale per non residenti (NPS, 2026).",
@@ -307,15 +306,14 @@ export const destinazioniCalifornia: Destinazione[] = [
       ] },
     ],
     zone: [
-      { nome: "Dentro i parchi", perChi: "Chi vuole svegliarsi tra le sequoie", testo: "Wuksachi Lodge e John Muir Lodge. Prezzi alti, da prenotare presto." },
-      { nome: "Three Rivers", perChi: "Chi entra dal lato sud", testo: "Piccolo paese con motel e ristoranti, a 15 minuti dall'ingresso." },
-      { nome: "Fresno e Visalia", perChi: "Chi cerca più scelta", testo: "Città più grandi a 1-1,5 ore dai parchi." },
+      { nome: "Dentro i parchi", perChi: "Chi vuole svegliarsi tra le sequoie", testo: "Lodge dentro i parchi. Prezzi alti, da prenotare presto." },
+      { nome: "Three Rivers", perChi: "Chi entra dal lato sud", testo: "Piccolo paese con motel e ristoranti, vicino all'ingresso sud." },
+      { nome: "Fresno e Visalia", perChi: "Chi cerca più scelta", testo: "Città più grandi, più lontane dai parchi." },
     ],
     sapori: [
       { nome: "Frutta della Central Valley", testo: "Agrumi e uva dai banchi lungo la strada." },
       { nome: "Pranzo al sacco", testo: "Si compra a Three Rivers prima di salire." },
       { nome: "Cucina messicana", testo: "Locali di Visalia e Fresno." },
-      { nome: "Birre locali", testo: "Birrifici di Three Rivers." },
     ],
     attenzioni: [
       "I non residenti negli USA di 16 anni e più pagano 100 $ in più oltre all'ingresso, salvo pass annuale per non residenti (NPS, 2026).",
@@ -362,8 +360,8 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Zabriskie Point",
         testo: "Un belvedere su colline di fango giallo e dorato, scolpite dall'erosione. All'alba la luce rosa dà il colore migliore.",
-        come: "In auto, a circa 10 minuti da Furnace Creek. Il sentiero è breve.",
-        quando: "All'alba; è uno dei punti più fotografati del parco.",
+        come: "In auto, vicino a Furnace Creek. Il sentiero è breve.",
+        quando: "All'alba.",
         tempo: "30-45 minuti",
         costo: "Ingresso al parco 30 $ per auto, valido 7 giorni (NPS, 2026)",
         url: "https://www.nps.gov/deva/",
@@ -372,7 +370,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Badwater Basin",
         testo: "Il punto più basso del Nord America, a 86 metri sotto il livello del mare, con una distesa di sale bianco.",
-        come: "In auto da Furnace Creek, circa 30 minuti. Si cammina sulle saline.",
+        come: "In auto da Furnace Creek. Si cammina sulle saline.",
         quando: "Al mattino presto o dopo il tramonto; d'estate il caldo è estremo.",
         tempo: "45 minuti",
         url: "https://www.nps.gov/deva/",
@@ -389,7 +387,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         nome: "Artists Drive e Artist's Palette",
-        testo: "Una strada panoramica a senso unico tra colline di colori diversi, dovuti ai minerali. L'Artist's Palette è il punto più colorato.",
+        testo: "Una strada panoramica tra colline di colori diversi, dovuti ai minerali. L'Artist's Palette è il punto più colorato.",
         come: "In auto da Furnace Creek, con sosta all'Artist's Palette.",
         quando: "Il pomeriggio, con la luce radente.",
         tempo: "1 ora",
@@ -420,9 +418,9 @@ export const destinazioniCalifornia: Destinazione[] = [
       ] },
     ],
     zone: [
-      { nome: "Furnace Creek", perChi: "Chi vuole dormire nel centro del parco", testo: "The Oasis at Death Valley: comodo ma caro." },
+      { nome: "Furnace Creek", perChi: "Chi vuole dormire nel centro del parco", testo: "Hotel e resort nel centro del parco: comodi ma cari." },
       { nome: "Stovepipe Wells", perChi: "Chi cerca prezzi bassi", testo: "Motel semplice vicino alle dune." },
-      { nome: "Beatty e Lone Pine", perChi: "Chi dorme fuori dal parco", testo: "A circa un'ora di auto, più economici." },
+      { nome: "Beatty e Lone Pine", perChi: "Chi dorme fuori dal parco", testo: "Fuori dal parco, più economici." },
     ],
     sapori: [
       { nome: "Cucina americana dei lodge", testo: "Ristoranti di Furnace Creek e Stovepipe Wells." },
@@ -431,7 +429,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       { nome: "Acqua", testo: "Porta molta acqua: nel parco costa molto." },
     ],
     attenzioni: [
-      "Camminare d'estate dopo le 10 del mattino è pericoloso: il caldo uccide ogni anno.",
+      "Camminare d'estate nelle ore calde è pericoloso: il caldo uccide ogni anno.",
       "Fai il pieno prima di entrare: nel parco i distributori sono pochi e cari.",
       "Non seguire il navigatore su strade sterrate: molte richiedono un 4x4.",
       "Ingresso: 30 $ per auto per 7 giorni (NPS), uguale per i non residenti.",
@@ -488,7 +486,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         nome: "Keys View",
-        testo: "Un belvedere in quota sulla valle di Coachella, con la faglia di San Andreas e le montagne di San Jacinto. Nelle giornate limpide si vede Palm Springs.",
+        testo: "Un belvedere in quota sulla valle di Coachella. Nelle giornate limpide la vista arriva lontano.",
         come: "In auto, in fondo alla Keys View Road. Il parcheggio è a pochi passi dal punto panoramico.",
         quando: "Il tramonto, con aria limpida.",
         tempo: "30 minuti",
@@ -497,7 +495,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         nome: "Palm Springs Aerial Tramway",
-        testo: "La funivia che sale da Palm Springs sul monte San Jacinto, dalla Valley Station (806 m) alla Mountain Station (2.596 m), quasi 1.800 metri di dislivello. Il pavimento della cabina ruota durante la salita di circa 10 minuti. La vetta vera è più in alto e si raggiunge solo a piedi.",
+        testo: "La funivia che sale da Palm Springs sul monte San Jacinto, dalla Valley Station (806 m) alla Mountain Station (2.596 m), quasi 1.800 metri di dislivello. Il pavimento della cabina ruota durante la salita. La vetta vera è più in alto e si raggiunge solo a piedi.",
         come: "Dal Valley Station sulla Tramway Road, a Palm Springs. Il biglietto si compra online.",
         quando: "Al mattino, con meno coda. Lassù fa freddo: porta una giacca. Ogni anno chiude per manutenzione tra settembre e inizio ottobre (nel 2026 dall'8 settembre al 4 ottobre).",
         tempo: "3-4 ore",
@@ -519,7 +517,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     ],
     zone: [
       { nome: "Joshua Tree e Twentynine Palms", perChi: "Chi vuole dormire vicino al parco", testo: "Motel e case nel deserto, con cielo scuro." },
-      { nome: "Yucca Valley", perChi: "Chi cerca più servizi", testo: "Supermercati e ristoranti, a 20 minuti dall'ingresso." },
+      { nome: "Yucca Valley", perChi: "Chi cerca più servizi", testo: "Supermercati e ristoranti, vicino al parco." },
       { nome: "Palm Springs", perChi: "Chi vuole piscina e hotel", testo: "Hotel moderni e piscine, più lontano dal parco." },
     ],
     sapori: [
@@ -531,7 +529,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     attenzioni: [
       "Non lasciare i sentieri tra i massi senza acqua e senza segnale.",
       "Non toccare i cholla: le spine si attaccano alla pelle.",
-      "D'estate si superano i 40 °C: evita le ore centrali.",
+      "D'estate il caldo è estremo: evita le ore centrali.",
       "Ingresso: 30 $ per auto per 7 giorni (NPS), uguale per i non residenti.",
     ],
     esperienzeSlugs: [],
@@ -579,7 +577,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Getty Center",
         testo: "Un museo d'arte con architettura moderna su una collina sopra Los Angeles, con giardini e vista sulla città.",
-        come: "Il parcheggio è sotto il complesso e si sale con un tram. L'ingresso è gratuito, il parcheggio a pagamento.",
+        come: "In auto, con parcheggio a pagamento: accesso e tariffe sul sito ufficiale. L'ingresso è gratuito.",
         quando: "Orari e giorni di apertura sul sito ufficiale. Il pomeriggio per la luce.",
         tempo: "3-4 ore",
         costo: "Ingresso gratuito, parcheggio a pagamento",
@@ -598,7 +596,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Warner Bros. Studio Tour",
         testo: "Il tour degli studi cinematografici di Burbank, con set storici e carrelli elettrici.",
-        come: "In auto a Burbank, circa 30 minuti da Hollywood. Il biglietto si compra online.",
+        come: "In auto a Burbank, vicino a Hollywood. Il biglietto si compra online.",
         quando: "Al mattino; i fine settimana sono pieni.",
         tempo: "3 ore",
         costo: "Da 79 $ (sito ufficiale, 2026)",
@@ -625,7 +623,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     zone: [
       { nome: "Santa Monica", perChi: "Chi vuole il mare", testo: "Passeggiata sull'oceano, ristoranti e bici. Prezzi alti." },
       { nome: "West Hollywood", perChi: "Chi vuole il centro", testo: "Posizione centrale e vita serale, più rumore." },
-      { nome: "Pasadena", perChi: "Chi cerca calma", testo: "Più tranquilla e a 25 minuti dal centro." },
+      { nome: "Pasadena", perChi: "Chi cerca calma", testo: "Più tranquilla, ma fuori dal centro." },
     ],
     sapori: [
       { nome: "Tacos dei food truck", testo: "Cucina messicana da strada, ovunque in città." },
@@ -634,7 +632,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       { nome: "Pesce a Malibu", testo: "Ristoranti sul mare." },
     ],
     attenzioni: [
-      "Il traffico è pesante tra le 7 e le 10 e tra le 15 e le 19: pianifica gli spostamenti.",
+      "Il traffico è pesante nelle ore di punta del mattino e del pomeriggio: pianifica gli spostamenti.",
       "Non lasciare oggetti in vista nell'auto parcheggiata.",
       "Non pianificare troppe zone in un giorno: i tempi in auto sono lunghi.",
       "Maggio-giugno è il periodo del «June Gloom», con cielo grigio al mattino.",
@@ -716,12 +714,12 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         nome: "Point Lobos e 17-Mile Drive",
-        testo: "Point Lobos è una riserva naturale con sentieri sul mare, leoni marini e cipressi. La 17-Mile Drive è una strada panoramica a pedaggio che attraversa Pebble Beach.",
-        come: "In auto da Carmel. Entrambe hanno ingresso a pagamento per auto.",
+        testo: "Point Lobos è una riserva naturale con sentieri sul mare, leoni marini e cipressi. La 17-Mile Drive è una strada panoramica che attraversa Pebble Beach.",
+        come: "In auto da Carmel. Ingressi e pedaggi sui siti ufficiali.",
         quando: "Al mattino per Point Lobos; il pomeriggio per la 17-Mile Drive.",
         tempo: "mezza giornata",
         url: "https://www.parks.ca.gov/?page_id=571",
-        consiglio: "Arriva presto a Point Lobos: il parcheggio ha pochi posti e chiude quando è pieno.",
+        consiglio: "Arriva presto a Point Lobos: nei giorni di punta il parcheggio si riempie presto.",
       },
     ],
     programmi: [

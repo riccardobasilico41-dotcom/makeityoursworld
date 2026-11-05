@@ -98,7 +98,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     luoghi: [
       {
         "nome": "Al-Balad",
-        "testo": "Il centro storico, patrimonio UNESCO dal 2014 come «Jeddah storica, porta della Mecca», con case-torre alte anche oltre 30 metri e le roshan, le grandi finestre di legno intagliato. Il restauro, annunciato nel 2019, procede a macchia: alcune case sono diventate hotel, altre sono ancora puntellate.",
+        "testo": "Il centro storico, patrimonio UNESCO dal 2014 come «Jeddah storica, porta della Mecca», con le case-torre in pietra corallina e le roshan, le grandi finestre di legno intagliato. Il restauro procede a macchia: alcune case sono diventate hotel, altre sono ancora puntellate.",
         "come": "Si gira a piedi nelle stradine; taxi o Uber fino al margine del quartiere. Con una guida si capisce meglio cosa si guarda.",
         "quando": "Tardo pomeriggio, quando la luce bassa prende il legno e il quartiere si anima. A mezzogiorno è polveroso e vuoto.",
         "tempo": "2-3 ore",
@@ -106,18 +106,18 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       },
       {
         "nome": "Casa Nassif",
-        "testo": "Una delle case-torre più famose e più antiche di Al-Balad, nel quartiere di Al-Yemen.",
+        "testo": "Una delle case-torre più note di Al-Balad.",
         "come": "Dentro Al-Balad, a piedi.",
         "quando": "Mattina o fine pomeriggio. Orari di apertura degli interni da verificare sul posto.",
         "tempo": "45 minuti"
       },
       {
-        "nome": "Corniche, Fontana di Re Fahd e moschea Al-Rahma",
-        "testo": "Il lungo lungomare della città, con la fontana di Re Fahd, il getto d'acqua più alto del mondo per il Guinness (312 metri), e la piccola moschea Al-Rahma, bianca sul mare. La sera le famiglie stendono i tappeti sul prato e fanno il barbecue.",
+        "nome": "Corniche e fontana di Re Fahd",
+        "testo": "Il lungomare della città, con la fontana di Re Fahd che si vede da lontano. La sera le famiglie passeggiano e fanno picnic.",
         "come": "Taxi o Uber dal centro. Si passeggia sul lungomare.",
         "quando": "Tramonto e sera, soprattutto nel fine settimana.",
         "tempo": "2 ore",
-        "consiglio": "Cenare a base di pesce grigliato sulla Corniche, come fanno i sauditi."
+        "consiglio": "Cenare a base di pesce in uno dei ristoranti della zona."
       }
     ],
     programmi: [
@@ -248,7 +248,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       },
       {
         "nome": "Jabal Ikmah",
-        "testo": "Un canyon con circa 300 iscrizioni incise nell'arenaria, soprattutto in dadanitico e in altre antiche lingue nord-arabiche, quasi tutte della seconda metà del I millennio a.C. Per l'UNESCO è la più grande concentrazione al mondo di iscrizioni dadanitiche ben conservate.",
+        "testo": "Un canyon con centinaia di iscrizioni incise nell'arenaria, soprattutto in dadanitico e in altre antiche lingue nord-arabiche, quasi tutte della seconda metà del I millennio a.C.",
         "come": "Con il tour Dadan e Jabal Ikmah: si parcheggia gratis al Winter Park di AlUla e un bus porta al centro visitatori di Dadan, poi a Jabal Ikmah e ritorno.",
         "quando": "Mattina, quando la luce radente fa risaltare le incisioni.",
         "tempo": "1-1,5 ore",
@@ -268,7 +268,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       {
         "nome": "Città vecchia di AlUla ed Elephant Rock",
         "testo": "Il borgo di vicoli e case di fango, abitato dal XII secolo sulla via dei pellegrini tra Damasco e la Mecca, oggi restaurato con negozi e ristoranti; e la roccia a forma di elefante, dove ci si trova al tramonto.",
-        "come": "La città vecchia si gira a piedi; Elephant Rock è a 20 minuti d'auto a nord-est, con parcheggio gratuito e una passerella di legno.",
+        "come": "La città vecchia si gira a piedi; Elephant Rock è poco fuori città, in auto, con parcheggio gratuito e una passerella di legno.",
         "quando": "Città vecchia dal pomeriggio alla sera; Elephant Rock aperta tutti i giorni dalle 16 a mezzanotte (2026), al meglio al tramonto.",
         "tempo": "2 ore",
         "consiglio": "Sulla roccia non si sale; la sera nel deserto fa freddo e ci sono bracieri accesi.",
@@ -388,7 +388,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       },
       {
         "nome": "Museo Nazionale Saudita",
-        "testo": "Il museo più completo per capire la storia della penisola: otto sale, dalla geologia e dalla preistoria ai regni preislamici, all'islam, ai due Stati sauditi e all'unificazione del regno.",
+        "testo": "Un museo completo per capire la storia della penisola: otto sale, dalla geologia e dalla preistoria ai regni preislamici, all'islam, ai due Stati sauditi e all'unificazione del regno.",
         "come": "Taxi o Uber, nel quartiere di Al-Murabba, dentro il Centro storico Re Abdulaziz.",
         "quando": "Mattina. Orari sul posto o sui canali ufficiali.",
         "tempo": "2 ore"
@@ -402,11 +402,11 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       },
       {
         "nome": "Edge of the World",
-        "testo": "Il bordo di una scarpata che precipita per centinaia di metri su una pianura infinita, senza recinzioni. L'ultimo tratto è una lunga pista nel deserto.",
-        "come": "Con 4x4 e guida o con un tour organizzato: la pista non ha segnaletica.",
+        "testo": "Una lunga scarpata sopra la pianura desertica fuori Riyadh, con viste molto ampie.",
+        "come": "Con un tour organizzato o una guida locale.",
         "quando": "Mattina o tardo pomeriggio.",
         "tempo": "Mezza giornata",
-        "consiglio": "Andare con un tour: la pista è l'ultima parte e da soli ci si perde."
+        "consiglio": "Andare con un tour e stare lontani dal bordo."
       }
     ],
     programmi: [
@@ -450,9 +450,9 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     ],
     attenzioni: [
       "Sicurezza: a novembre 2026 il governo britannico sconsiglia i viaggi non essenziali in tutta l'Arabia Saudita e qualsiasi viaggio entro 10 km dal confine con lo Yemen, per gli attacchi con missili e droni (anche sull'aeroporto di Riyadh). Controllare viaggiaresicuri.it e l'assicurazione prima di partire.",
-      "Edge of the World da soli con un'auto normale: l'ultimo tratto è pista senza segnaletica.",
+      "Edge of the World: meglio andarci con un tour organizzato invece che da soli.",
       "Visitare Diriyah a mezzogiorno: il fango riverbera, il bello è nell'ultima ora di luce.",
-      "Aspettarsi una città storica: Riyadh è quasi tutta costruita dopo gli anni Settanta.",
+      "Aspettarsi una città storica: Riyadh è in gran parte moderna.",
       "D'estate il caldo è estremo: venire tra novembre e marzo."
     ],
     // GUIDA-END
@@ -508,14 +508,14 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     luoghi: [
       {
         "nome": "Rijal Almaa",
-        "testo": "Il villaggio di una sessantina di edifici in pietra, argilla e legno, alcuni fino a otto piani, a circa 50 km da Abha. Nel palazzo Al Alwan c'è il museo del patrimonio, con oltre duemila oggetti.",
-        "come": "In auto da Abha, circa 50 km di strada di montagna.",
+        "testo": "Il villaggio di case-torre in pietra, argilla e legno sulle montagne dell'Asir, con un museo del patrimonio.",
+        "come": "In auto da Abha, su strada di montagna.",
         "quando": "Mattina.",
         "tempo": "Mezza giornata"
       },
       {
         "nome": "Jebel Sawda e funivia dell'Asir",
-        "testo": "Per le autorità saudite il punto più alto del paese, 3.207 metri ufficiali (una misura del 2018 lo dà più basso). Ci si arriva in auto o con la funivia.",
+        "testo": "Considerata la cima più alta del Paese, anche se le misure della quota non concordano. Ci si arriva in auto o con la funivia.",
         "come": "In auto da Abha.",
         "quando": "Mattina presto, quando le nuvole sono basse.",
         "tempo": "Mezza giornata"
@@ -523,13 +523,13 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       {
         "nome": "Habala",
         "testo": "Il villaggio in una valle sotto la scarpata, che un tempo si raggiungeva solo con scale di corda: il nome viene dalla parola araba per «corda». Oggi ci si scende in funivia.",
-        "come": "In auto da Abha, circa un'ora, poi funivia.",
-        "quando": "Pomeriggio. Funivia aperta con orari ridotti in bassa stagione.",
+        "come": "In auto da Abha, poi funivia.",
+        "quando": "Pomeriggio; orari della funivia da verificare sul posto.",
         "tempo": "1,5 ore"
       },
       {
-        "nome": "Abha: case dipinte e mercato",
-        "testo": "Le case con il qatt asiri, i motivi geometrici colorati che le donne dipingono sulle pareti interne, patrimonio immateriale UNESCO dal 2017, e il mercato del centro.",
+        "nome": "Abha e le case dipinte",
+        "testo": "Il qatt asiri, i motivi geometrici colorati che le donne dipingono sulle pareti interne delle case, patrimonio immateriale UNESCO dal 2017.",
         "come": "A piedi o in taxi nel centro.",
         "quando": "Mattina.",
         "tempo": "2 ore"
@@ -539,7 +539,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       {
         "titolo": "3 giorni",
         "tappe": [
-          "Giorno 1: Abha, case dipinte e mercato",
+          "Giorno 1: Abha e case dipinte",
           "Giorno 2: Rijal Almaa",
           "Giorno 3: Habala in funivia e Jebel Sawda"
         ]
@@ -549,7 +549,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       {
         "nome": "Abha",
         "perChi": "chi vuole una base con servizi",
-        "testo": "Hotel e ristoranti, base per la funivia e il mercato."
+        "testo": "Hotel e ristoranti, base per le gite in montagna."
       },
       {
         "nome": "Villaggi di montagna",
@@ -633,8 +633,8 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     luoghi: [
       {
         "nome": "Arcipelago di Umluj",
-        "testo": "Le isole di sabbia bianca e i banchi corallini al largo del porto di pescatori. È una costa dove i grandi progetti turistici non sono ancora arrivati.",
-        "come": "Si va in barca da Umluj.",
+        "testo": "Isole di sabbia e banchi corallini al largo di Umluj, cittadina sulla costa. Il turismo qui è ancora poco sviluppato.",
+        "come": "In barca da Umluj, con operatori locali.",
         "quando": "Nei mesi più freschi.",
         "tempo": "Una giornata"
       },

@@ -55,8 +55,8 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Cimitero di Mirogoj",
-        testo: "Il cimitero monumentale della città, aperto nel 1876, con l'edificio principale disegnato dall'architetto Hermann Bollé. Le lunghe arcate con le cupole, costruite tra il 1879 e il 1929, racchiudono tombe di ogni fede, una accanto all'altra. È uno dei posti più belli e tranquilli di Zagabria, e pochi turisti ci arrivano.",
-        come: "Con il bus 106 dal capolinea di Kaptol, vicino alla cattedrale, oppure a piedi in salita.",
+        testo: "Il cimitero monumentale della città, aperto nel 1876, con l'edificio principale disegnato dall'architetto Hermann Bollé. Le lunghe arcate con le cupole racchiudono tombe di ogni fede, una accanto all'altra. È uno dei posti più belli e tranquilli di Zagabria, e pochi turisti ci arrivano.",
+        come: "Con i bus urbani da Kaptol, vicino alla cattedrale, oppure a piedi in salita.",
         quando: "Mattina o tardo pomeriggio; a inizio novembre è pieno di lumini.",
         tempo: "1 ora",
         costo: "Gratuito.",
@@ -383,7 +383,7 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Traù",
-        testo: "Una città-isola piccola e medievale a circa 27 km da Spalato, con la cattedrale di San Lorenzo e il suo portale scolpito da Radovan. Patrimonio UNESCO.",
+        testo: "Una città-isola piccola e medievale a ovest di Spalato, con la cattedrale di San Lorenzo e il suo portale scolpito da Radovan. Patrimonio UNESCO.",
         come: "In auto o in bus da Spalato. Si visita a piedi.",
         quando: "Mattina.",
         tempo: "3 ore",
@@ -417,7 +417,7 @@ export const destinazioniCroazia: Destinazione[] = [
       {
         nome: "Veli Varoš",
         perChi: "chi cerca un quartiere tranquillo",
-        testo: "Case di pescatori a 10 minuti dal centro, sotto Marjan."
+        testo: "Case di pescatori a pochi passi dal centro, sotto Marjan."
       }
     ],
     sapori: [
@@ -688,10 +688,10 @@ export const destinazioniCroazia: Destinazione[] = [
       {
         nome: "Mura di Dubrovnik",
         testo: "Un anello di mura medievali lungo quasi due chilometri intorno alla città vecchia, con torri e bastioni. È il percorso più bello per vedere i tetti rossi e il mare.",
-        come: "Si sale dalla Porta Pile o dal lato del porto, seguendo il senso di marcia indicato.",
+        come: "Si sale dalla Porta Pile o dal lato del porto, seguendo le indicazioni sul posto.",
         quando: "All'apertura o nel tardo pomeriggio: a mezzogiorno è caldo e affollato.",
         tempo: "1 ora e mezza-2 ore",
-        costo: "Circa 40 € (2026).",
+        costo: "Biglietto d'ingresso, prezzi sul sito ufficiale.",
         consiglio: "Portare acqua e un cappello: ci sono pochi punti d'ombra."
       },
       {
@@ -704,11 +704,11 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Funivia e monte Srđ",
-        testo: "Dalla stazione sopra le mura la funivia sale in pochi minuti sul monte Srđ, alto 412 metri, con la vista su tutta la città e le isole. In cima c'è il Forte Imperiale, costruito dai francesi nel 1810, che ospita il museo sulla guerra degli anni Novanta, quando la città fu assediata. Al tramonto i tetti rossi e Lokrum si colorano, ed è il momento migliore.",
+        testo: "Dalla stazione sopra le mura la funivia sale in pochi minuti sul monte Srđ, alto 412 metri, con la vista su tutta la città e le isole. In cima c'è il Forte Imperiale, costruito dai francesi all'inizio dell'Ottocento, che ospita il museo sulla guerra degli anni Novanta, quando la città fu assediata. Al tramonto i tetti rossi e Lokrum si colorano, ed è il momento migliore.",
         come: "Dalla stazione vicino a Porta Buža, a piedi.",
         quando: "Tardo pomeriggio per il tramonto.",
         tempo: "1-2 ore",
-        costo: "Circa 30 € andata e ritorno (2026).",
+        costo: "Biglietto andata e ritorno, prezzi sul sito ufficiale.",
         consiglio: "Prenotare l'ora di salita al tramonto: le code possono essere lunghe."
       },
       {

@@ -39,11 +39,11 @@ export const destinazioniBrasile: Destinazione[] = [
     luoghi: [
       {
         "nome": "Christ the Redeemer",
-        "testo": "The 30-metre statue on Corcovado, about 700 metres above the city. From the top you understand Rio's shape: the beaches, the Rodrigo de Freitas lagoon and Sugarloaf at the mouth of the bay.",
+        "testo": "The statue on Corcovado, about 700 metres above the city. From the top you understand Rio's shape: the beaches, the Rodrigo de Freitas lagoon and Sugarloaf at the mouth of the bay.",
         "come": "By the rack railway from Cosme Velho or by the official vans from Paineiras. The ticket is bought online choosing day and time.",
         "quando": "First run of the morning, before clouds and crowds. At midday the statue is often in cloud.",
         "tempo": "3-4 hours including the ride up, the visit and the way down",
-        "costo": "R$87 with the van from the Paineiras visitor centre, R$132 with the van from Copacabana or Largo do Machado, R$134 with the cog train from Cosme Velho; a single price all year (2026)",
+        "costo": "The price depends on the starting point (van or cog train): current fares on the official website",
         "url": "https://paineirascorcovado.com.br/",
         "consiglio": "Go in the morning and bring a light jacket: it is windy at the top."
       },
@@ -53,13 +53,13 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "Cable car from the Praia Vermelha station in the Urca district. Walkers can climb to Urca on a short path and take the cable car only for the second stage.",
         "quando": "Late afternoon, for sunset over the bay and the city lighting up.",
         "tempo": "2-3 hours",
-        "costo": "About 205 R$ for a full ticket (2026); there is a promotional fare reserved for Brazilians",
+        "costo": "Cable car ticket: current prices on the official website",
         "url": "https://www.bondinho.com.br/",
         "consiglio": "Arrive an hour before sunset to avoid the queue."
       },
       {
         "nome": "Copacabana, Ipanema and Arpoador",
-        "testo": "The two best-known urban beaches in the world, divided into \"postos\", the lifeguard towers that also mark the tribe of each stretch. Between them is Pedra do Arpoador, where people applaud the sunset.",
+        "testo": "Rio's two most famous urban beaches, divided into \"postos\", the lifeguard towers that also mark the tribe of each stretch. Between them is Pedra do Arpoador, where people applaud the sunset.",
         "come": "By metro (Cardeal Arcoverde, Siqueira Campos and Cantagalo for Copacabana, General Osório for Ipanema) or on foot along the seafront.",
         "quando": "Morning for the beach; sunset at Arpoador.",
         "tempo": "Half a day",
@@ -67,7 +67,7 @@ export const destinazioniBrasile: Destinazione[] = [
       },
       {
         "nome": "Santa Teresa and the Escadaria Selarón",
-        "testo": "The hillside district with 19th-century villas, studios and the yellow tram (bondinho). The Escadaria Selarón, a staircase covered in colourful tiles, goes down towards Lapa.",
+        "testo": "The hillside district with historic villas, studios and the yellow tram (bondinho). The Escadaria Selarón, a staircase covered in colourful tiles, goes down towards Lapa.",
         "come": "By app or taxi to Santa Teresa, then on foot; the staircase is walked down towards Lapa.",
         "quando": "By day.",
         "tempo": "2-3 hours",
@@ -75,9 +75,9 @@ export const destinazioniBrasile: Destinazione[] = [
       },
       {
         "nome": "Historic centre and Museu do Amanhã",
-        "testo": "The centre has Confeitaria Colombo, the Theatro Municipal, the cone-shaped cathedral and the Real Gabinete Português de Leitura, one of the most beautiful libraries in the world. At the port, Praça Mauá with the Museu do Amanhã and the Boulevard Olímpico full of murals.",
+        "testo": "The centre has Confeitaria Colombo, the Theatro Municipal, the cone-shaped cathedral and the library of the Real Gabinete Português de Leitura. At the port, Praça Mauá with the Museu do Amanhã and the Boulevard Olímpico full of murals.",
         "come": "By metro from Ipanema and Copacabana.",
-        "quando": "On weekdays, by day. Many attractions close on Sunday and the centre empties.",
+        "quando": "On weekdays, by day: at weekends the centre empties.",
         "tempo": "Half a day",
         "consiglio": "The centre is for daytime: in the evening and at weekends it empties."
       },
@@ -199,7 +199,7 @@ export const destinazioniBrasile: Destinazione[] = [
     luoghi: [
       {
         "nome": "Historic centre of Paraty",
-        "testo": "An 18th-century colonial town, gold port of Minas Gerais, UNESCO heritage since 2019. The centre is closed to cars, with white houses with coloured doors and cobbled streets that sometimes flood at high tide.",
+        "testo": "A colonial town, once the gold port of Minas Gerais, a UNESCO World Heritage site. The centre is closed to cars, with white houses with coloured doors and cobbled streets that sometimes flood at high tide.",
         "come": "Direct buses from the Novo Rio bus station.",
         "quando": "The evening is quiet, with restaurants and live music.",
         "tempo": "Half a day or an evening",
@@ -210,12 +210,12 @@ export const destinazioniBrasile: Destinazione[] = [
         "testo": "The bay has dozens of islands and beaches reachable only by sea. The escunas do a trip of a few hours with swimming stops.",
         "come": "Boarding at Paraty port. Private lanchas cost more but choose where to stop.",
         "quando": "Morning.",
-        "tempo": "4-5 hours",
+        "tempo": "Half a day",
         "consiglio": "If you want to avoid the crowd, choose a lancha."
       },
       {
         "nome": "Cunha waterfalls and alambiques",
-        "testo": "On the road to Cunha there are waterfalls such as Cachoeira do Tobogã, where local kids slide down the rock, and cachaça distilleries.",
+        "testo": "On the road to Cunha there are waterfalls and cachaça distilleries.",
         "come": "By taxi or on a tour from the centre of Paraty.",
         "quando": "Afternoon, after the boat trip.",
         "tempo": "Half a day",
@@ -239,11 +239,11 @@ export const destinazioniBrasile: Destinazione[] = [
       },
       {
         "nome": "Lopes Mendes, Lagoa Azul and Lagoa Verde",
-        "testo": "Lopes Mendes is considered one of Brazil's most beautiful beaches: a long strip of white sand, open sea, forest behind. Lagoa Azul and Lagoa Verde are visited by boat for snorkelling.",
-        "come": "By boat to Pouso and then a short walk, or a long trail through the forest.",
+        "testo": "Lopes Mendes is a long strip of white sand, with open sea and forest behind. Lagoa Azul and Lagoa Verde are visited by boat for snorkelling.",
+        "come": "By boat and then a walk, or along a trail through the forest.",
         "quando": "Morning. Swim with caution because of waves and currents.",
         "tempo": "Full day",
-        "consiglio": "There are no services at Lopes Mendes: bring water and food."
+        "consiglio": "Bring water and food from Vila do Abraão."
       }
     ],
     programmi: [
@@ -297,7 +297,7 @@ export const destinazioniBrasile: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "No services at Lopes Mendes: bring water and food.",
+      "For Lopes Mendes, bring water and food from Vila do Abraão.",
       "Open sea with waves and currents: swim with caution.",
       "Book the airport transfer the day before.",
       "Cobbled streets at high tide: possible flooding."
@@ -337,7 +337,7 @@ export const destinazioniBrasile: Destinazione[] = [
     luoghi: [
       {
         "nome": "Brazilian side of the falls",
-        "testo": "It gives the overall view: a path of about a kilometre and a half along the canyon, up to the walkway that goes under the Garganta do Diabo, where you get completely wet.",
+        "testo": "It gives the overall view: a path along the canyon leads to the walkway that goes under the Garganta do Diabo, where you get completely wet.",
         "come": "City buses or taxi from Foz do Iguaçu; you enter by the visitor centre and go up with the park bus.",
         "quando": "Open every day: 9am-4pm Monday to Friday, 8.30am-4pm Saturday and Sunday. Arrive at opening time.",
         "tempo": "2-3 hours",
@@ -347,11 +347,11 @@ export const destinazioniBrasile: Destinazione[] = [
       },
       {
         "nome": "Argentine side of the falls",
-        "testo": "You walk inside the falls: three walkway circuits (Superior, Inferior and the Garganta del Diablo, reached by a train in the forest) reach above the biggest drop, where the water mist rises tens of metres.",
+        "testo": "You walk inside the falls: three walkway circuits (Superior, Inferior and the Garganta del Diablo, reached by a train in the forest) reach above the biggest drop, wrapped in water mist.",
         "come": "The border is crossed by taxi, bus or transfer, showing the passport and doing exit and entry stamps.",
-        "quando": "Arrive at opening: the Garganta walkway fills up by mid-morning.",
+        "quando": "Arrive at opening: the Garganta walkway fills up quickly.",
         "tempo": "Full day",
-        "costo": "60,000 Argentine pesos for non-resident foreigners (about 40 dollars) from 1 June 2026",
+        "costo": "Ticket in Argentine pesos, with a separate fare for non-resident foreigners: current price on the official website",
         "url": "https://www.iguazuargentina.com/",
         "consiglio": "Bring your passport and pesos or a card."
       },
@@ -403,7 +403,7 @@ export const destinazioniBrasile: Destinazione[] = [
       {
         "nome": "Hotel inside the Brazilian park",
         "perChi": "Those who want the view from the room",
-        "testo": "The only hotel inside the park is high-end."
+        "testo": "A high-end hotel inside the park."
       }
     ],
     sapori: [
@@ -473,7 +473,7 @@ export const destinazioniBrasile: Destinazione[] = [
       },
       {
         "nome": "Elevador Lacerda and Mercado Modelo",
-        "testo": "The public lift of 1873 links the upper town to the lower town. Below is the Mercado Modelo, a craft market.",
+        "testo": "The historic public lift links the upper town to the lower town. Below is the Mercado Modelo, a craft market.",
         "come": "The lift starts at Praça Tomé de Souza.",
         "quando": "Morning.",
         "tempo": "1-2 hours",
@@ -485,7 +485,7 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "By app or taxi from the centre.",
         "quando": "Morning.",
         "tempo": "1 hour",
-        "consiglio": "Do not accept ribbons \"given\" on the street: they then ask for money."
+        "consiglio": "If someone offers you a ribbon on the street and you do not want it, decline politely."
       },
       {
         "nome": "Rio Vermelho and acarajé",
@@ -497,7 +497,7 @@ export const destinazioniBrasile: Destinazione[] = [
       },
       {
         "nome": "Farol da Barra",
-        "testo": "The lighthouse at the tip of the city, with the most beautiful sunset over the bay.",
+        "testo": "The lighthouse at the tip of the city, with the sunset over the bay.",
         "come": "By app or bus from Barra.",
         "quando": "Sunset.",
         "tempo": "1-2 hours",
@@ -560,7 +560,7 @@ export const destinazioniBrasile: Destinazione[] = [
     ],
     attenzioni: [
       "The Pelourinho at night: leaving the main streets is risky.",
-      "Bonfim ribbons \"given\" on the street: they then ask for money.",
+      "Pushy vendors around the sights: politely turn down what you do not want.",
       "Petty crime: phone thefts and bag snatching.",
       "Use apps rather than walking at night."
     ],
@@ -604,7 +604,7 @@ export const destinazioniBrasile: Destinazione[] = [
       },
       {
         "nome": "Cachoeira da Fumaça",
-        "testo": "One of the highest waterfalls in Brazil, about 340 metres. The drop is so high that the wind often scatters the water into mist before it reaches the ground.",
+        "testo": "A very high waterfall: the wind often scatters the water into mist before it reaches the ground.",
         "come": "From the Capão valley on an out-and-back trail of a few hours with a steep initial climb.",
         "quando": "On clear days: with low cloud you see little from the top.",
         "tempo": "Half a day",
@@ -625,7 +625,7 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "Classic tour with guide and car.",
         "quando": "Full day.",
         "tempo": "A day",
-        "consiglio": "Go with a guide: in the caves you need one to find your way and it is often required."
+        "consiglio": "Go with a guide: in the caves it helps you find your way."
       },
       {
         "nome": "Vale do Pati",
@@ -714,7 +714,7 @@ export const destinazioniBrasile: Destinazione[] = [
     luoghi: [
       {
         "nome": "Lagoa Azul circuit",
-        "testo": "The first lagoons: clear, warm rainwater collected between white sand dunes up to 40 metres high. You walk barefoot and swim.",
+        "testo": "The first lagoons: clear, warm rainwater collected between white sand dunes. You walk barefoot and swim.",
         "come": "By jardineira, the 4x4 with benches on the bed that crosses the river on a raft and takes the sand track.",
         "quando": "Sunset, when the sand changes colour. The lagoons fill with the rains, which fall roughly from January to June, and evaporate in the dry months: check the water level before you go.",
         "tempo": "Half a day",
@@ -747,7 +747,7 @@ export const destinazioniBrasile: Destinazione[] = [
       },
       {
         "nome": "Historic centre of São Luís",
-        "testo": "Founded by the French in 1612, it is the only Brazilian state capital of French origin. The historic centre, a UNESCO site since 1997, has houses covered in Portuguese azulejos.",
+        "testo": "Founded by the French, it has a historic centre on the UNESCO list with houses covered in Portuguese azulejos.",
         "come": "By app or on foot in the Praia Grande.",
         "quando": "Before leaving for Barreirinhas or on arrival.",
         "tempo": "Half a day",
@@ -841,7 +841,7 @@ export const destinazioniBrasile: Destinazione[] = [
       },
       {
         "nome": "Porto Jofre and the jaguars",
-        "testo": "The Pantanal has one of the largest jaguar populations in the world. In the dry season, on the Cuiabá, Três Irmãos and Piquiri rivers, they are often seen on the banks.",
+        "testo": "The Pantanal is one of the places to see jaguars. In the dry season, on the Cuiabá, Três Irmãos and Piquiri rivers, they are often seen on the banks.",
         "come": "Boat outings with a piloteiro at dawn and in the afternoon.",
         "quando": "Dry season.",
         "tempo": "1-2 days of outings",
@@ -862,7 +862,7 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "Flight from São Paulo or Brasília.",
         "quando": "Arrival and departure day.",
         "tempo": "One night",
-        "consiglio": "Time zone UTC-4, an hour behind Rio."
+        "consiglio": "Mato Grosso is in a different time zone from Rio: check your flight times."
       }
     ],
     programmi: [
@@ -988,9 +988,9 @@ export const destinazioniBrasile: Destinazione[] = [
         "testo": "From Manaus you can go up the Amazon River to Tabatinga, on the border with Colombia and Peru, and continue to Leticia or Iquitos.",
         "come": "By air, or by fast or slow boat: the slow boat takes several days.",
         "quando": "All year; boat schedules change often.",
-        "tempo": "1-7 days depending on the means",
+        "tempo": "From one day to several days, depending on the means",
         "costo": "Boat prices at the port of Manaus or from the companies",
-        "consiglio": "Get your exit stamps at the Polícia Federal in Tabatinga."
+        "consiglio": "Before crossing into Colombia or Peru, check the formalities for leaving Brazil."
       }
     ],
     programmi: [
@@ -1040,7 +1040,7 @@ export const destinazioniBrasile: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Exit stamps at the Polícia Federal in Tabatinga: forgetting them complicates entry into Colombia and Peru.",
+      "Triple border: check the formalities for leaving Brazil before entering Colombia or Peru.",
       "Yellow fever vaccine: recommended for all of the Amazon.",
       "Boat schedules are not fixed: keep some margin.",
       "Cash in the country's currency before boarding."

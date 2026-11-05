@@ -49,21 +49,21 @@ export const destinazioniMessico: Destinazione[] = [
         {
           "nome": "Playa Marlin and Playa Gaviota",
           "testo": "Free public beaches in the middle of the hotel zone, with no paid loungers. They are among the few free accesses to the sea in this part of the city; the water is rougher than on Isla Mujeres, so check the lifeguards' flag before swimming.",
-          "come": "Local R1 bus from the centre.",
+          "come": "Local bus from the centre.",
           "quando": "Morning.",
           "tempo": "Half a day"
         },
         {
           "nome": "Parque las Palapas and Mercado 28",
           "testo": "A town square with street-food stalls and evening music, and the market with crafts and small restaurants.",
-          "come": "On foot from the centre, north of the hotel zone.",
+          "come": "On foot, in the centre.",
           "quando": "Evening.",
           "tempo": "2-3 hours",
           "consiglio": "The first taste of Mexico with street food."
         },
         {
           "nome": "Coco Bongo",
-          "testo": "The most famous show club in the city, in the hotel zone: acrobats, live music and film-inspired acts until late at night. The price varies a lot depending on where you stand or sit (general, bar or table), so check what the ticket includes before buying.",
+          "testo": "A well-known show club in the hotel zone: acrobats, live music and film-inspired acts until late at night. The price varies a lot depending on where you stand or sit (general, bar or table), so check what the ticket includes before buying.",
           "come": "Tickets from resellers.",
           "quando": "Evening.",
           "tempo": "An evening",
@@ -157,7 +157,7 @@ export const destinazioniMessico: Destinazione[] = [
         {
           "nome": "Chichén Itzá",
           "testo": "One of the new wonders of the world, a UNESCO Maya site with El Castillo, the ball court and the sacred cenote.",
-          "come": "From Valladolid by car or taxi, under an hour, or on a guided tour.",
+          "come": "From Valladolid by car or taxi, or on a guided tour.",
           "quando": "Morning, at opening, before the coaches and the heat.",
           "tempo": "3-4 hours",
           "costo": "697 MXN for foreigners, with a single federal and state ticket at one desk since 27 March 2026; Sundays are free only for Mexicans and residents.",
@@ -176,7 +176,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Cenote Xcanché",
-          "testo": "An open-air cenote near Ek Balam, with jumps and lianas. You go down a stairway in the rock to the water, surrounded by hanging roots and plants; there is bike rental and a small restaurant around it.",
+          "testo": "An open-air cenote near Ek Balam. You go down a stairway in the rock to the water, surrounded by hanging roots and plants.",
           "come": "Taxi or bike from Ek Balam.",
           "quando": "Morning or early afternoon.",
           "tempo": "1-2 hours"
@@ -291,15 +291,15 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Municipal market",
-          "testo": "The covered market with fruit, spices and crafts, where you buy Yucatecan goods.",
-          "come": "On foot from the centre, a few blocks south of the square.",
+          "testo": "The covered market with fruit, spices, crafts and Yucatecan products.",
+          "come": "On foot from the centre.",
           "quando": "Morning.",
           "tempo": "1-2 hours"
         },
         {
           "nome": "Playa Progreso",
           "testo": "The beach at Progreso, on the Gulf of Mexico, Mérida's port, with a very long pier running out to sea and beach clubs on the sand.",
-          "come": "Bus or car from Mérida, just over half an hour.",
+          "come": "Bus or car from Mérida.",
           "quando": "Daytime.",
           "tempo": "Full day",
           "consiglio": "A mid-trip break without long transfers."
@@ -338,7 +338,7 @@ export const destinazioniMessico: Destinazione[] = [
         {
           "nome": "Paseo de Montejo",
           "perChi": "elegance",
-          "testo": "Avenue of 20th-century mansions, quieter."
+          "testo": "Avenue of historic mansions, quieter."
         }
       ],
       "sapori": [
@@ -420,7 +420,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Fuerte de San Miguel",
-          "testo": "A fort on the hill south-west of the centre, with a moat and cannons facing the Gulf. Inside is the archaeological museum with the jade masks from Calakmul; the sunset over the sea from its ramparts is one of the best in town.",
+          "testo": "A fort on the hill south-west of the centre, with a moat and cannons facing the Gulf. Inside is the archaeological museum with the jade masks from Calakmul; from its ramparts you can watch the sunset over the sea.",
           "come": "Taxi from the centre.",
           "quando": "Late afternoon; hours and closing days on the INAH website.",
           "tempo": "1-2 hours",
@@ -428,9 +428,9 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Edzná",
-          "testo": "An inland Maya site with the Building of the Five Storeys, a terraced pyramid on a large plaza. It sees few visitors compared with the Yucatán sites, and you walk it almost alone, among iguanas and silence.",
+          "testo": "An inland Maya site with the Building of the Five Storeys, a terraced pyramid on a large plaza. It sees few visitors compared with the Yucatán sites.",
           "come": "Car, taxi or tour from Campeche.",
-          "quando": "Open daily 8:00-17:00, last entry 16:30 (INAH listing). Early morning, before the heat.",
+          "quando": "Open daily 8:00-17:00 (INAH listing). Early morning, before the heat.",
           "tempo": "Half a day",
           "url": "https://www.inah.gob.mx/",
           "consiglio": "Bring water and a hat: there is little shade.",
@@ -525,21 +525,21 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Snorkelling with turtles",
-          "testo": "A boat trip a few metres off the coast, where green turtles live on the reef. Here the reef is very close to shore and far less busy than on the Riviera Maya: you also see rays, parrotfish and soft corals.",
+          "testo": "A boat trip to the reef near the coast, where you may meet turtles. Here the reef is close to shore and less busy than on the Riviera Maya.",
           "come": "Tour from the waterfront with an operator.",
           "quando": "Morning.",
           "tempo": "2-3 hours"
         },
         {
           "nome": "Temazcal in the jungle",
-          "testo": "A steam-bath ritual of indigenous tradition, with a guide, in the evening, in a spot in the jungle.",
+          "testo": "A steam-bath ritual of indigenous tradition, with a guide.",
           "come": "Booking with a local property.",
           "quando": "Evening.",
           "tempo": "2-3 hours"
         },
         {
           "nome": "Banco Chinchorro",
-          "testo": "A biosphere reserve off Mahahual, a coral atoll of about 800 km² with at least nine wrecks, including two Spanish galleons. It is the best trip in the area, but also the most weather-dependent: with strong wind trips are cancelled.",
+          "testo": "A biosphere reserve off Mahahual, a coral atoll of about 800 km² with at least nine wrecks. The trip depends heavily on the weather: with strong wind trips are cancelled.",
           "come": "Only with authorised operators from Mahahual or Xcalak, by fast boat.",
           "quando": "Morning, with a calm sea; best in the dry months.",
           "tempo": "Full day",
@@ -632,7 +632,7 @@ export const destinazioniMessico: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Bacalar Lagoon",
-          "testo": "The lagoon of seven colours, tens of kilometres long and narrow, with shades of blue and turquoise over a white bottom. It has one of the world's largest freshwater stromatolite systems, formations thousands of years old.",
+          "testo": "The lagoon of seven colours, tens of kilometres long and narrow, with shades of blue and turquoise over a white bottom. It is home to stromatolites, very ancient rock formations built by microorganisms.",
           "come": "From Mahahual on an organised tour or independently by van or car.",
           "quando": "Morning, with full light.",
           "tempo": "Half a day or more",
@@ -654,7 +654,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Fuerte San Felipe",
-          "testo": "The fort the Spanish built to defend Bacalar from English pirates and Maya rebels, on the lagoon shore. Today it can be visited.",
+          "testo": "A fort the Spanish built to defend Bacalar from pirates, on the lagoon shore. Hours and entry on the INAH website.",
           "come": "On foot from the centre.",
           "quando": "Morning.",
           "tempo": "1 hour",
@@ -788,7 +788,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Xcacel",
-          "testo": "A protected beach, one of the last on the coast without hotels, where turtles lay their eggs between spring and summer. The rules are strict: no food, alcohol or speakers; entry fee, hours and closing days should be checked locally.",
+          "testo": "A protected beach without hotels, where turtles lay their eggs between spring and summer. The rules are strict: no food, alcohol or speakers; entry fee, hours and closing days should be checked locally.",
           "come": "Taxi or car from Tulum.",
           "quando": "Morning.",
           "tempo": "2-3 hours"
@@ -1024,15 +1024,15 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "3 Islas tour",
-          "testo": "A shared boat trip of about 3 hours, with flamingos, dolphins and birds: Isla Pájaros, Yalahau cenote, Isla Pasión or Punta Mosquito.",
+          "testo": "A shared boat trip, with flamingos, dolphins and birds: Isla Pájaros, Yalahau cenote, Isla Pasión or Punta Mosquito.",
           "come": "Prices vary by operator, some include hotel transfer. The Yalahau cenote is paid separately.",
           "quando": "Morning.",
-          "tempo": "3 hours"
+          "tempo": "Half a day"
         },
         {
           "nome": "Cabo Catoche",
-          "testo": "A trip to the north-eastern tip of the Yucatán peninsula, between the Gulf of Mexico and the Caribbean. Snorkelling on a shallow reef, fishing and fresh ceviche. We didn't do it on this trip.",
-          "come": "Shared tour from morning to late afternoon; compare several operators.",
+          "testo": "A boat trip towards the north-eastern tip of the Yucatán peninsula, between the Gulf of Mexico and the Caribbean, usually with snorkelling stops. We didn't do it on this trip.",
+          "come": "Shared boat tour; compare several operators and what the price includes.",
           "quando": "Full day.",
           "tempo": "Full day"
         }
@@ -1068,7 +1068,7 @@ export const destinazioniMessico: Destinazione[] = [
           "testo": "Restaurants, shops and hotels near the square, sandy streets without cars."
         },
         {
-          "nome": "Beach to the north-east",
+          "nome": "Beach outside the village",
           "perChi": "calm",
           "testo": "Seaside hotels, more isolated."
         }

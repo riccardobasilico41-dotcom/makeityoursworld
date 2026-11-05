@@ -49,7 +49,7 @@ export const destinazioniSvizzera: Destinazione[] = [
       {
         nome: "Harder Kulm",
         testo: "Il belvedere sopra Interlaken, a 1.322 metri, con vista sui due laghi e, in giornata limpida, su Eiger, Mönch e Jungfrau. In cima ci sono una piattaforma panoramica e un ristorante in un edificio a forma di castello.",
-        come: "Funicolare dalla stazione Harder Bahn, vicino a Interlaken Ost: 8 minuti di salita.",
+        come: "Funicolare dalla stazione Harder Bahn, vicino a Interlaken Ost.",
         quando: "Tardo pomeriggio per la luce sui laghi. Funziona solo in stagione: date sul sito ufficiale.",
         tempo: "2 ore",
         consiglio: "Controllare le webcam prima di salire: con nuvole basse il panorama sparisce."
@@ -189,7 +189,7 @@ export const destinazioniSvizzera: Destinazione[] = [
       {
         nome: "Wengen",
         testo: "Un villaggio senza auto su una terrazza alta, raggiungibile con la cremagliera. Dà accesso alla Kleine Scheidegg e alla linea per Jungfraujoch.",
-        come: "Treno a cremagliera da Lauterbrunnen, circa 15 minuti.",
+        come: "Treno a cremagliera da Lauterbrunnen.",
         quando: "Tutto l'anno.",
         tempo: "2 ore",
         consiglio: "Partire da qui per la camminata verso Männlichen, con la vista sul gruppo dell'Eiger."
@@ -286,15 +286,15 @@ export const destinazioniSvizzera: Destinazione[] = [
       {
         nome: "First e il Cliff Walk",
         testo: "Dalla funivia di Grindelwald si sale al First, a 2.166 metri, con vista su Eiger, Mönch e Jungfrau. Il Cliff Walk è una passerella metallica di 45 metri sospesa sul vuoto, lungo la parete.",
-        come: "Funivia da Grindelwald in circa 25 minuti, con più tronchi. Il Cliff Walk è incluso nel biglietto.",
+        come: "Funivia da Grindelwald, con più tronchi. Il Cliff Walk è incluso nel biglietto.",
         quando: "Mattina, con il cielo più limpido. Chiusure e orari variano con la stagione.",
         tempo: "2-3 ore",
-        costo: "Circa 76 CHF andata e ritorno (2026); metà prezzo con Swiss Travel Pass o abbonamento metà prezzo.",
+        costo: "Prezzi sul sito ufficiale; sconti con Swiss Travel Pass o abbonamento metà prezzo.",
         consiglio: "La prima cabina del mattino ha meno coda; i ghiacciai si vedono meglio prima di mezzogiorno."
       },
       {
         nome: "Bachalpsee",
-        testo: "Un lago d'alta quota che riflette il Wetterhorn e lo Schreckhorn. Dal First il sentiero è facile, in leggera salita, meno di un'ora.",
+        testo: "Un lago d'alta quota che riflette il Wetterhorn e lo Schreckhorn. Dal First il sentiero è facile, in leggera salita.",
         come: "A piedi dalla stazione del First sul sentiero segnalato.",
         quando: "Mattina, quando l'acqua è ferma e specchia le montagne.",
         tempo: "2 ore andata e ritorno",
@@ -310,7 +310,7 @@ export const destinazioniSvizzera: Destinazione[] = [
       },
       {
         nome: "Männlichen e il sentiero panoramico",
-        testo: "La cresta tra Grindelwald e Wengen, raggiunta in cabinovia dal Grindelwald Terminal. Dalla stazione si sale in pochi minuti al belvedere a forma di corona del Royal Walk, poi parte il sentiero panoramico verso la Kleine Scheidegg, quasi tutto in discesa e di fronte a Eiger, Mönch e Jungfrau. È la passeggiata con la vista più ampia della zona per lo sforzo richiesto.",
+        testo: "La cresta tra Grindelwald e Wengen, raggiunta in cabinovia dal Grindelwald Terminal. Dalla stazione si sale in pochi minuti al belvedere a forma di corona del Royal Walk, poi parte il sentiero panoramico verso la Kleine Scheidegg, quasi tutto in discesa e di fronte a Eiger, Mönch e Jungfrau.",
         come: "Cabinovia Männlichen dal Grindelwald Terminal; dalla Kleine Scheidegg si torna in treno a Grindelwald o a Wengen.",
         quando: "Estate, di mattina; orari e chiusure stagionali della cabinovia sul sito ufficiale.",
         tempo: "mezza giornata",
@@ -404,7 +404,7 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "Ascensore veloce dalla stazione (Top of Europe) alla piattaforma.",
         quando: "Mattina, con meno nuvole. Chiusa in caso di vento forte o tempesta.",
         tempo: "45 minuti",
-        costo: "Oltre 200 CHF andata e ritorno da Interlaken Ost in alta stagione, con prezzi che cambiano per data e forti sconti con Swiss Travel Pass o metà prezzo (2026); posto riservato 10 CHF. Il Good Morning Ticket dei primi treni ha il 15% di sconto (maggio-ottobre 2026).",
+        costo: "Biglietto caro, con prezzi che cambiano per data e stagione; sconti con Swiss Travel Pass o abbonamento metà prezzo. Prezzi e offerte sul sito ufficiale.",
         url: "https://www.jungfrau.ch/",
         consiglio: "Controllare la webcam prima di partire: nelle giornate coperte non si vede nulla."
       },
@@ -427,9 +427,9 @@ export const destinazioniSvizzera: Destinazione[] = [
       {
         nome: "Fermata Eismeer",
         testo: "Sulla salita il treno corre in galleria dentro l'Eiger e il Mönch e si ferma alla stazione Eismeer, a circa 3.160 metri. Dalle vetrate scavate nella roccia si guarda il ghiacciaio sottostante. Dura pochi minuti, ma è il momento in cui si capisce l'impresa della ferrovia, finita nel 1912.",
-        come: "Sosta di circa 5 minuti compresa nel viaggio, solo in salita.",
+        come: "Breve sosta compresa nel viaggio, solo in salita.",
         quando: "Tutto l'anno.",
-        tempo: "5 minuti",
+        tempo: "pochi minuti",
         consiglio: "Sedersi in modo da scendere subito: le vetrate sono poche e si affollano."
       }
     ],
@@ -549,7 +549,7 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "Funivia da Stechelberg (fondovalle) o da Mürren, con più tronchi.",
         quando: "Mattina, con la luce migliore. Chiusa al vento forte.",
         tempo: "2-3 ore",
-        costo: "Circa 115 CHF andata e ritorno da Stechelberg, circa 91 CHF da Mürren (2026); forti sconti con Swiss Travel Pass.",
+        costo: "Prezzi sul sito ufficiale, diversi secondo la stazione di partenza; forti sconti con Swiss Travel Pass.",
         url: "https://www.schilthorn.ch/",
         consiglio: "Dal fondovalle la salita è più lunga ma regala vedute sulle pareti."
       },
@@ -662,7 +662,7 @@ export const destinazioniSvizzera: Destinazione[] = [
       {
         nome: "Passo del Grimsel",
         testo: "Un valico a 2.164 metri tra il Canton Berna e il Vallese, in un paesaggio di laghi artificiali, dighe e rocce di granito levigate dal ghiaccio. La strada ha tornanti e punti di sosta.",
-        come: "In auto da Meiringen verso Gletsch, circa 38 km. Strada aperta di norma da giugno a ottobre.",
+        come: "In auto da Meiringen verso Gletsch. Strada aperta di norma da giugno a ottobre.",
         quando: "Mattina: meno traffico e luce migliore. Controllare l'apertura in primavera e autunno.",
         tempo: "2 ore con le soste",
         consiglio: "Fermarsi alla diga del Räterichsboden e al lago del Grimsel."
@@ -768,8 +768,8 @@ export const destinazioniSvizzera: Destinazione[] = [
     luoghi: [
       {
         nome: "Gornergrat",
-        testo: "Il treno a cremagliera più alto d'Europa all'aperto sale a 3.089 metri. Dalla terrazza si vedono il Cervino, il Monte Rosa e il ghiacciaio del Gorner.",
-        come: "Treno a cremagliera dalla stazione della Gornergrat Bahn a Zermatt; in estate parte ogni 24 minuti.",
+        testo: "Il treno a cremagliera sale fino a 3.089 metri. Dalla terrazza si vedono il Cervino, il Monte Rosa e il ghiacciaio del Gorner.",
+        come: "Treno a cremagliera dalla stazione della Gornergrat Bahn a Zermatt; in estate le corse sono frequenti.",
         quando: "Mattina, con il cielo più terso.",
         tempo: "Mezza giornata",
         costo: "Andata e ritorno 132 CHF da maggio a ottobre 2026 e 102 CHF da novembre 2026 ad aprile 2027; metà prezzo con Swiss Travel Pass o abbonamento metà prezzo.",
@@ -778,7 +778,7 @@ export const destinazioniSvizzera: Destinazione[] = [
       },
       {
         nome: "Matterhorn Glacier Paradise",
-        testo: "La stazione a 3.820 metri, sotto la vetta del Piccolo Cervino (3.883 m): è il punto più alto d'Europa raggiungibile in funivia. Nel ghiacciaio è scavata una grotta di ghiaccio.",
+        testo: "La stazione a 3.820 metri, sotto la vetta del Piccolo Cervino (3.883 m): tra i punti più alti d'Europa raggiungibili in funivia. Nel ghiacciaio è scavata una grotta di ghiaccio.",
         come: "Funivia da Zermatt con cambio a Furi e Trockener Steg.",
         quando: "Mattina presto per avere il cielo più terso.",
         tempo: "Mezza giornata",
@@ -789,10 +789,10 @@ export const destinazioniSvizzera: Destinazione[] = [
       {
         nome: "Sentiero dei cinque laghi",
         testo: "Una camminata da Blauherd verso Sunnegga lungo cinque laghi alpini (Stellisee, Grindjisee, Grünsee, Moosjisee e Leisee) che riflettono il Cervino. È una delle foto classiche.",
-        come: "Funicolare per Sunnegga e cabinovia per Blauherd, poi circa 11 km a piedi, più in discesa che in salita.",
+        come: "Funicolare per Sunnegga e cabinovia per Blauherd, poi a piedi, più in discesa che in salita.",
         quando: "Estate; i laghi riflettono meglio al mattino.",
         tempo: "3-4 ore",
-        consiglio: "Il lago Stellisee è il più fotografato: arrivare presto."
+        consiglio: "Lo Stellisee è molto frequentato: arrivare presto."
       },
       {
         nome: "Villaggio di Zermatt",

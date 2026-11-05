@@ -9,30 +9,30 @@ export const destinazioniBulgaria: Destinazione[] = [
     tipologia: ['sci', 'montagna'],
     giorniConsigliati: '4 días, tres completos en las pistas',
     visitataPersonalmente: true,
-    introduzione: 'El dominio esquiable más famoso de Bulgaria: unos 70-75 km de pistas en los montes Pirin y un centro histórico de casas de piedra y madera.',
+    introduzione: 'Uno de los dominios esquiables más conocidos de Bulgaria, en los montes Pirin, con un centro histórico de casas de piedra y madera.',
     percheAndarci: 'Para esquiar en un rincón de Europa que rara vez aparece en los planes de vacaciones blancas, a precios mucho más bajos que en los Alpes.',
-    cosaVedere: ['El centro histórico de Bansko, entre las casas de la «escuela de Bansko» y la parte más moderna', 'La vista desde el Todorka Peak (2.560 metros)'],
+    cosaVedere: ['El centro histórico de Bansko, entre las casas de la «escuela de Bansko» y la parte más moderna', 'La vista desde el Todorka Peak'],
     cosaFare: [
       'Esquí en las pistas de Bansko Ski Zone (hay una ficha de experiencia dedicada)',
-      'La bajada iluminada de 7,5 km para el esquí nocturno (hay una ficha de experiencia dedicada)',
-      'Après-ski en Sopranos o en el Happy End Bar, en la base de la góndola',
+      'La bajada iluminada para el esquí nocturno (hay una ficha de experiencia dedicada)',
+      'Après-ski en los locales de la base de la góndola',
       'Cena en una mehana típica del centro histórico',
     ],
     doveDormire:
-      'Elegí un hotel a pocos minutos a pie de la estación de la góndola: por la mañana llegaba rápido a las pistas y por la noche estaba a dos pasos del centro histórico. No era un establecimiento de marca ni especialmente refinado, solo una base práctica para la semana en la nieve.\n\nAlternativas cerca de la góndola. Económicas: Hotel Dumanov (unos 150 metros de la estación inferior), La Vien Guest House (5 minutos a pie, gestión familiar). Gama media: Hotel Ida (piscina interior y jacuzzi), MPM Hotel Sport (acceso casi directo a las pistas). Lujo: Kempinski Hotel Grand Arena Bansko (el único verdadero ski-in/ski-out del pueblo), Premier Luxury Mountain Resort.',
+      'Elegí un hotel a pocos minutos a pie de la estación de la góndola: por la mañana llegaba rápido a las pistas y por la noche estaba a dos pasos del centro histórico. No era un establecimiento de marca ni especialmente refinado, solo una base práctica para la semana en la nieve.\n\nAlternativas cerca de la góndola. Económicas: Hotel Dumanov (cerca de la estación inferior), La Vien Guest House (5 minutos a pie, gestión familiar). Gama media: Hotel Ida (piscina interior y jacuzzi), MPM Hotel Sport (acceso casi directo a las pistas). Lujo: Kempinski Hotel Grand Arena Bansko (junto a la góndola), Premier Luxury Mountain Resort.',
     doveMangiare: 'Comimos en las mehane del centro histórico: kapama, banitsa y shopska salata, siempre con rakia.',
-    comeArrivare: 'Desde Sofía son unas 2-2 h 30 en coche (160 km). Como alternativa hay shuttles y transfers privados, el autobús público o el tren más minibús.',
-    comeSpostarsi: 'Una góndola de 8 plazas lleva del centro a las pistas; de una pista a otra uno se mueve con los esquís.',
-    periodoMigliore: '1 de diciembre - mediados de abril, con nieve artificial garantizada en más del 90 % de las pistas',
-    costi: 'Forfait diario 35-40 € (en línea hasta un 25 % menos); cerveza en el refugio 1,50-2 €; cena en mehana 15-20 € por cabeza.',
+    comeArrivare: 'Desde Sofía se llega en coche en pocas horas. Como alternativa hay shuttles y transfers privados, el autobús público o el tren más minibús.',
+    comeSpostarsi: 'Una góndola lleva del centro a las pistas; de una pista a otra uno se mueve con los esquís.',
+    periodoMigliore: 'de diciembre a la primavera, con nieve artificial; fechas de la temporada en la web oficial',
+    costi: 'Precios del forfait en la web oficial, donde suelen ser más bajos que en taquilla; cerveza y cenas en las mehanas más baratas que en los Alpes.',
     erroriDaEvitare: ['Comprar el forfait en taquilla: en línea, con unos días de antelación, cuesta menos', 'Esperar pistas de Alpes: a Bansko se va por la experiencia y por el precio, no por el nivel del dominio'],
     miaEsperienza:
       'No esperaba grandes cosas del esquí en Bulgaria, y es lo que encontré: pistas bonitas y bien cuidadas, nada exagerado comparado con los Alpes. Lo bueno está justo ahí. Se va por la experiencia exótica de esquiar en un rincón de Europa fuera de los circuitos habituales, más que por el esquí en sí.',
     luoghi: [
       {
         nome: "Zona de esquí de Bansko",
-        testo: "Desde 2003 a la zona se llega con una larga góndola desde el pueblo hasta la base de Banderishka Polyana; los remontes llegan a unos 2.600 metros. Las pistas son más tranquilas que las alpinas. Se va por la experiencia exótica en un rincón de Europa fuera de los circuitos más conocidos.",
-        come: "Estación de la góndola a pocos minutos a pie del centro; forfait en taquilla u online. Góndola 8:30-17, telesillas 8:45-16:15.",
+        testo: "A la zona se llega con una larga góndola desde el pueblo hasta la base de Banderishka Polyana; los remontes suben a gran altura. Las pistas son más tranquilas que las alpinas. Se va por la experiencia exótica en un rincón de Europa fuera de los circuitos más conocidos.",
+        come: "Estación de la góndola a pocos minutos a pie del centro; forfait en taquilla u online.",
         quando: "Invierno, fechas de la temporada en la web oficial; por la mañana temprano la góndola tiene colas.",
         tempo: "jornada completa",
         costo: "precios de los forfaits en la web oficial",
@@ -41,7 +41,7 @@ export const destinazioniBulgaria: Destinazione[] = [
       },
       {
         nome: "Bajada nocturna iluminada",
-        testo: "La pista de vuelta al pueblo, de unos 7-8 km, se ilumina para esquiar de noche, pero no todos los días. Es una de las atracciones más particulares de Bansko.",
+        testo: "La pista de vuelta al pueblo, se ilumina para esquiar de noche, pero no todos los días. Es una de las atracciones más particulares de Bansko.",
         come: "Góndola hasta la estación intermedia y descenso; horarios en la web de la zona.",
         quando: "Noche, en los días de apertura nocturna.",
         tempo: "1-2 horas",
@@ -50,7 +50,7 @@ export const destinazioniBulgaria: Destinazione[] = [
       },
       {
         nome: "Todorka Peak",
-        testo: "La estación superior de Todorka, a unos 2.550 metros, con vista a los montes Pirin. Se llega con los remontes.",
+        testo: "La estación superior de Todorka, con vista a los montes Pirin. Se llega con los remontes.",
         come: "Góndola y telesillas.",
         quando: "Día despejado, en invierno.",
         tempo: "1 hora",
@@ -58,7 +58,7 @@ export const destinazioniBulgaria: Destinazione[] = [
       },
       {
         nome: "Casco antiguo de Bansko",
-        testo: "Casas de piedra y madera de la «escuela de Bansko» (el renacimiento búlgaro del siglo XIX), la iglesia de la Santísima Trinidad, construida por los vecinos en 1835, y las mehanas típicas con kapama, banitsa y shopska salata. Es más animado por la noche.",
+        testo: "Casas de piedra y madera de la «escuela de Bansko» (el renacimiento búlgaro del siglo XIX), la iglesia de la Santísima Trinidad, construida por los vecinos en el siglo XIX, y las mehanas típicas con kapama, banitsa y shopska salata. Es más animado por la noche.",
         come: "A pie desde la estación de la góndola.",
         quando: "Noche.",
         tempo: "2 horas",
@@ -72,7 +72,7 @@ export const destinazioniBulgaria: Destinazione[] = [
       },
       {
         nome: "Banitsa",
-        testo: "Hojaldre de queso, el desayuno más común de Bulgaria."
+        testo: "Hojaldre de queso, un desayuno típico de Bulgaria."
       },
       {
         nome: "Shopska salata",
@@ -85,9 +85,9 @@ export const destinazioniBulgaria: Destinazione[] = [
     ],
     attenzioni: [
       "Bulgaria usa el euro desde el 1 de enero de 2026: comparar con los precios en lev de datos antiguos.",
-      "Desde Sofía son unos 160 km por carretera: usar traslados reservados, no taxis de la calle.",
+      "Desde Sofía: usar traslados reservados, no taxis de la calle.",
       "La zona de esquí tiene colas en temporada alta: llegar pronto a la góndola.",
-      "En coche en invierno hacen falta neumáticos de invierno y cadenas a bordo."
+      "En coche en invierno hace falta equipo de invierno (neumáticos de nieve, cadenas si se exigen)."
     ],
     esperienzeSlugs: ['sci-bansko', 'discesa-notturna-bansko'],
     tripSlugs: ['bulgaria-bansko-rila'],
@@ -116,14 +116,14 @@ export const destinazioniBulgaria: Destinazione[] = [
     comeSpostarsi: 'A pie, dentro del conjunto monástico.',
     periodoMigliore: 'todo el año',
     costi: 'Entrada al conjunto y a la iglesia gratuita; Museo de Historia Eclesiástica unos 4 € (Bulgaria usa el euro desde 2026).',
-    erroriDaEvitare: ['Entrar en la iglesia con hombros y rodillas descubiertos', 'Hacer fotos o vídeos dentro de los edificios religiosos: no está permitido'],
+    erroriDaEvitare: ['Entrar en la iglesia con hombros y rodillas descubiertos', 'Hacer fotos o vídeos dentro de los edificios religiosos sin seguir las normas del monasterio'],
     miaEsperienza:
       'Después de los días en la nieve, el monasterio fue el golpe de efecto del viaje. Los frescos coloridísimos de la Iglesia de la Natividad de la Virgen y el silencio de la montaña alrededor son el recuerdo más vivo de todo el recorrido.',
     luoghi: [
       {
         nome: "Complejo del Monasterio de Rila",
         testo: "El mayor y más famoso monasterio ortodoxo de Bulgaria, Patrimonio de la UNESCO, fundado en el siglo X, según la tradición, por San Juan de Rila y reconstruido entre 1834 y 1862 tras un incendio. Las altas murallas de piedra, casi de fortaleza, encierran un patio de pórticos con franjas blancas y negras.",
-        come: "En coche o bus desde Sofía, 117 km al norte, o como desvío en la carretera entre Bansko y Sofía.",
+        come: "En coche o bus desde Sofía, al sur de la capital, o como desvío en la carretera entre Bansko y Sofía.",
         quando: "Temprano por la mañana, antes de los autobuses turísticos.",
         tempo: "1,5-2 horas",
         costo: "entrada libre",

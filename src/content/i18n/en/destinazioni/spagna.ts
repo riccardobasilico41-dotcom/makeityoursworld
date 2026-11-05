@@ -44,10 +44,10 @@ export const destinazioniSpagna: Destinazione[] = [
     luoghi: [
       {
         "nome": "Seville Cathedral and Giralda",
-        "testo": "The largest Gothic cathedral in the world, built after the Reconquista on the site of the great Almohad mosque. Inside is the funerary monument to Christopher Columbus. The bell tower, the Giralda, is the former minaret: you climb it by a ramp, not stairs, and from the top you see the rooftops and the Alcázar.",
+        "testo": "One of the largest Gothic cathedrals in the world, built after the Reconquista on the site of the great Almohad mosque. Inside is the funerary monument to Christopher Columbus. The bell tower, the Giralda, is the former minaret: you climb it by a ramp, not stairs, and from the top you see the rooftops and the Alcázar.",
         "come": "It stands in the middle of the old town, a short walk from Santa Cruz or Plaza Nueva. A single ticket covers the cathedral and the Giralda: the visit starts at the tower, which has its own access control.",
         "quando": "Monday-Saturday 10:45-18:00 (ticket office until 17:00), Sunday 14:30-19:00 (ticket office until 18:00); 2026 hours, which change for services and events: check the calendar on the website. Best at opening.",
-        "tempo": "about 75 minutes, 2 hours at a relaxed pace",
+        "tempo": "1-2 hours",
         "costo": "€13 online, €14 at the ticket office (from 1 January 2026); the ticket also covers the church of El Salvador",
         "url": "https://www.catedraldesevilla.es/",
         "consiglio": "Buy the ticket online the night before: in spring the ticket office queue is long. The visit starts with the Giralda, so climb it straight away while your legs are fresh."
@@ -107,11 +107,11 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "titolo": "1 day",
         "tappe": [
-          "8:30 Cathedral and Giralda with an online ticket already bought, before the groups.",
-          "11:00 Real Alcázar, in the first available slot or with the audio guide.",
-          "14:00 Late lunch in Santa Cruz or a bar in the center: tapas and salmorejo.",
-          "16:30 Stroll through Plaza de España and Parque de María Luisa, where shade helps.",
-          "20:00 Cross the Triana Bridge, tapas dinner by the river and, if possible, acoustic flamenco."
+          "Morning: Cathedral and Giralda with an online ticket already bought, before the groups.",
+          "Late morning: Real Alcázar, in the first available slot or with the audio guide.",
+          "Early afternoon: Late lunch in Santa Cruz or a bar in the center: tapas and salmorejo.",
+          "Afternoon: Stroll through Plaza de España and Parque de María Luisa, where shade helps.",
+          "Evening: Cross the Triana Bridge, tapas dinner by the river and, if possible, acoustic flamenco."
         ]
       },
       {
@@ -128,7 +128,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "titolo": "3 days",
         "tappe": [
           "Days 1 and 2: as above.",
-          "Day 3, morning: day trip to Córdoba by AVE train, under an hour, for the Mezquita.",
+          "Day 3, morning: day trip to Córdoba by AVE train for the Mezquita.",
           "Day 3, afternoon: back in Seville for a last walk in the María Luisa park or Santa Cruz in the evening."
         ]
       }
@@ -268,7 +268,7 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Alcaicería and Corral del Carbón",
-        "testo": "The Alcaicería was the old Nasrid silk market: today it is a maze of tourist shops. The Corral del Carbón, next to it, is an early 14th-century funduq, a warehouse and inn for merchants: the only one from the Nasrid period left in the Iberian Peninsula.",
+        "testo": "The Alcaicería was the old Nasrid silk market: today it is a maze of tourist shops. The Corral del Carbón, next to it, is a rare Nasrid-era funduq from the 14th century, once a warehouse and inn for merchants.",
         "come": "On foot, a few steps from the cathedral. Entry to the Corral is free during opening hours.",
         "quando": "In the morning, when shops open and the streets are clearer.",
         "tempo": "30-45 minutes",
@@ -279,11 +279,11 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "titolo": "1 day",
         "tappe": [
-          "8:30 Alhambra with a pre-booked ticket and the morning slot for the Nasrid Palaces.",
-          "13:30 Lunch in the center with free tapas with your drink.",
-          "16:00 Cathedral and Royal Chapel.",
-          "18:30 Climb to the Albaicín and Mirador de San Nicolás for sunset.",
-          "21:00 Tapas bar crawl in the center or on Calle Navas."
+          "Morning: Alhambra with a pre-booked ticket and the morning slot for the Nasrid Palaces.",
+          "Early afternoon: Lunch in the center with free tapas with your drink.",
+          "Afternoon: Cathedral and Royal Chapel.",
+          "Late afternoon: Climb to the Albaicín and Mirador de San Nicolás for sunset.",
+          "Evening: Tapas bar crawl in the center or on Calle Navas."
         ]
       },
       {
@@ -420,7 +420,7 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Puente Romano and Torre de la Calahorra",
-        "testo": "A bridge of Roman origin over the Guadalquivir, rebuilt many times: today it has 16 arches and has been pedestrian since 2004. For two thousand years it was the city's only bridge. From the far bank you get the classic view of the Mezquita. The Calahorra tower, at the south end, houses a museum.",
+        "testo": "A bridge of Roman origin over the Guadalquivir, rebuilt many times: today it has 16 arches and is pedestrian. For centuries it was the city's only bridge. From the far bank you get the classic view of the Mezquita. The Calahorra tower, at the south end, houses a museum.",
         "come": "On foot, a step from the Mezquita. The bridge is pedestrian only.",
         "quando": "At sunset or after dark, when the Mezquita is lit.",
         "tempo": "30-45 minutes",
@@ -439,11 +439,11 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "titolo": "1 day",
         "tappe": [
-          "8:30 Mezquita in the free morning slot, entering before 9:20.",
-          "10:30 Judería and Calleja de las Flores.",
-          "12:30 Alcázar de los Reyes Cristianos.",
-          "14:00 Lunch with salmorejo and rabo de toro, then a break in the hot hours.",
-          "18:30 Roman Bridge and the opposite bank, when the light is best."
+          "Morning: Mezquita in the free morning slot, entering before 9:20.",
+          "Morning: Judería and Calleja de las Flores.",
+          "Late morning: Alcázar de los Reyes Cristianos.",
+          "Early afternoon: Lunch with salmorejo and rabo de toro, then a break in the hot hours.",
+          "Late afternoon: Roman Bridge and the opposite bank, when the light is best."
         ]
       },
       {
@@ -543,7 +543,7 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Plaza de Toros",
-        "testo": "Ronda's bullring, opened in 1785, is one of the first built entirely of stone and is tied to the Romero family, above all to Pedro Romero, one of the fathers of bullfighting on foot. Inside is a museum of costumes and weapons. You can visit it simply as architecture, without attending a bullfight.",
+        "testo": "Ronda's bullring, opened in 1785, is one of the oldest in Spain and is tied to the Romero family, above all to Pedro Romero, one of the fathers of bullfighting on foot. Inside is a museum of costumes and weapons. You can visit it simply as architecture, without attending a bullfight.",
         "come": "On foot from the Puente Nuevo, towards the Mercadillo quarter.",
         "quando": "Check hours and opening days on the operator's website; they change by season.",
         "tempo": "1 hour",
@@ -570,11 +570,11 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "titolo": "1 day",
         "tappe": [
-          "9:30 Puente Nuevo and a walk in the Moorish quarter.",
-          "11:00 Baños Árabes and the path down into the gorge.",
-          "13:30 Lunch with rabo de toro or lamb.",
-          "16:00 Plaza de Toros and museum.",
-          "19:00 Sunset from the viewpoints over the gorge."
+          "Morning: Puente Nuevo and a walk in the Moorish quarter.",
+          "Late morning: Baños Árabes and the path down into the gorge.",
+          "Early afternoon: Lunch with rabo de toro or lamb.",
+          "Afternoon: Plaza de Toros and museum.",
+          "Late afternoon: Sunset from the viewpoints over the gorge."
         ]
       },
       {
@@ -686,7 +686,7 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Monte Igueldo",
-        "testo": "The hill west of the bay, with an amusement park and a viewpoint. You go up on the funicular opened in 1912, the oldest in the Basque Country.",
+        "testo": "The hill west of the bay, with an amusement park and a viewpoint. You go up on the funicular opened in 1912.",
         "come": "Funicular from the base, reached by city bus from the centre. Or walk up.",
         "quando": "At sunset. Check the season and funicular hours on the official site.",
         "tempo": "1-1.5 hours",
@@ -721,12 +721,12 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "titolo": "1 day",
         "tappe": [
-          "9:00 Walk on the Paseo de la Concha to the Peine del Viento.",
-          "11:00 Monte Urgull on foot, view over the port.",
-          "13:00 Lunch with a pintxos crawl in the Parte Vieja.",
-          "16:00 La Concha beach or rest.",
-          "19:00 Monte Igueldo funicular for sunset.",
-          "21:00 Second round of pintxos."
+          "Morning: Walk on the Paseo de la Concha to the Peine del Viento.",
+          "Late morning: Monte Urgull on foot, view over the port.",
+          "Early afternoon: Lunch with a pintxos crawl in the Parte Vieja.",
+          "Afternoon: La Concha beach or rest.",
+          "Late afternoon: Monte Igueldo funicular for sunset.",
+          "Evening: Second round of pintxos."
         ]
       },
       {
@@ -882,12 +882,12 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "titolo": "1 day",
         "tappe": [
-          "9:30 Guggenheim, in the morning.",
-          "12:30 Walk along the Nervión to the Casco Viejo.",
-          "14:00 Mercado de la Ribera and pintxos lunch.",
-          "16:30 Siete Calles and cathedral.",
-          "19:00 Artxanda funicular for sunset.",
-          "21:00 Dinner in the Casco Viejo."
+          "Morning: Guggenheim, in the morning.",
+          "Late morning: Walk along the Nervión to the Casco Viejo.",
+          "Early afternoon: Mercado de la Ribera and pintxos lunch.",
+          "Afternoon: Siete Calles and cathedral.",
+          "Late afternoon: Artxanda funicular for sunset.",
+          "Evening: Dinner in the Casco Viejo."
         ]
       },
       {
@@ -1004,7 +1004,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Old town and Mercado de Abastos",
         "testo": "The old town, a UNESCO site, is made of stone streets, arcades and squares such as the Quintana and Praza das Praterías. The Mercado de Abastos, the covered market, has fish, cheese and octopus stalls.",
-        "come": "On foot. The market is 5 minutes from the cathedral.",
+        "come": "On foot. The market is a few minutes from the cathedral.",
         "quando": "The market in the morning. Rain is frequent: bring a raincoat.",
         "tempo": "2-3 hours",
         "consiglio": "Eat pulpo á feira in the places next to the market, which cook to order."
@@ -1030,12 +1030,12 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "titolo": "1 day",
         "tappe": [
-          "9:00 Praza do Obradoiro and Pórtico da Gloria.",
-          "11:00 Cathedral and crypt.",
-          "12:00 Pilgrim mass (until further notice in the church of San Agustín).",
-          "14:00 Lunch with octopus and pimientos de Padrón.",
-          "16:00 Pilgrim's Office if you arrived on foot.",
-          "18:00 Walk in the old town and the Alameda park."
+          "Morning: Praza do Obradoiro and Pórtico da Gloria.",
+          "Late morning: Cathedral and crypt.",
+          "Late morning: Pilgrim mass (until further notice in the church of San Agustín).",
+          "Early afternoon: Lunch with octopus and pimientos de Padrón.",
+          "Afternoon: Pilgrim's Office if you arrived on foot.",
+          "Late afternoon: Walk in the old town and the Alameda park."
         ]
       },
       {
@@ -1194,7 +1194,7 @@ export const destinazioniSpagna: Destinazione[] = [
     luoghi: [
       {
         "nome": "Cattedrale di Palma (La Seu)",
-        "testo": "A Gothic cathedral begun in 1229, after the conquest by James I, and finished in 1601, right on the seafront. Its rose window, about 13 metres across, is the largest original rose window of any European Gothic cathedral. Inside are Antoni Gaudí's canopy over the altar and the chapel of Saint Peter remade by Miquel Barceló.",
+        "testo": "A Gothic cathedral begun in 1229, after the conquest by James I, and finished in 1601, right on the seafront. Its rose window, about 13 metres across, is among the largest Gothic rose windows in Europe. Inside are Antoni Gaudí's canopy over the altar and the chapel of Saint Peter remade by Miquel Barceló.",
         "come": "On foot from central Palma, opposite the Parc de la Mar. Entrance on the Plaça de la Seu side.",
         "quando": "Opening hours change by season and Sunday is for services: check the calendar on the official site. The rose window is best in the morning light.",
         "tempo": "1-1.5 hours",
@@ -1230,7 +1230,7 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Sa Calobra e Torrent de Pareis",
-        "testo": "A pebble cove at the mouth of the Torrent de Pareis, a narrow canyon between towering walls. The Ma-2141 road down to Sa Calobra has a looping bend called the \"tie knot\" and is one of the most photographed on the island. A tunnel leads from the jetty to the little beach and the canyon.",
+        "testo": "A pebble cove at the mouth of the Torrent de Pareis, a narrow canyon between towering walls. The Ma-2141 road down to Sa Calobra has a looping bend and is much photographed. A tunnel leads from the jetty to the little beach and the canyon.",
         "come": "By car on the Ma-2141 from the Ma-10, a long descent of bends, or by boat from Port de Sóller.",
         "quando": "Spring and autumn are calmer for the canyon. The Torrent de Pareis is closed or not advisable in rain and flood: check the forecast.",
         "tempo": "2-3 hours",
@@ -1585,7 +1585,7 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Torre d'en Galmés",
-        "testo": "One of the largest Talayotic settlements in the Balearics, with three talayots, the taula enclosure and Bronze and Iron Age houses, lived in from about 1400 BC until Roman times. It is part of the Talayotic Menorca site, UNESCO-listed since 2023.",
+        "testo": "One of the largest Talayotic settlements in the Balearics, with three talayots, the taula enclosure and Bronze and Iron Age houses, lived in from about 1400 BC until Roman times. It is part of the Talayotic Menorca site, a UNESCO World Heritage site.",
         "come": "By car from Maó or Ciutadella, in the middle of the island. Self-guided, with panels. There is an entry ticket.",
         "quando": "Early morning or late afternoon, for the heat and the light.",
         "tempo": "1-1.5 hours",
@@ -1754,7 +1754,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Masca",
         "testo": "A village in a deep gorge in the Teno mountains, with stone houses and ocean views. The Masca ravine leads down on foot to the sea.",
-        "come": "Via the TF-436 from Santiago del Teide, with tight bends. Access to the ravine trail is regulated by the Cabildo (booking and opening days): check its website before going.",
+        "come": "Via the TF-436 from Santiago del Teide, with tight bends. Access to the ravine trail may be regulated: check conditions on the Cabildo de Tenerife website before going.",
         "quando": "Morning, to avoid the coaches. The path is closed in rain or alerts.",
         "tempo": "1 hour in the village, half a day for the path",
         "consiglio": "Don't do the trail in walking shoes, and check beforehand how to get back from the sea: there is no road from the beach."
@@ -2115,7 +2115,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Playa Papagayo e Los Ajaches",
         "testo": "Pale sand coves and turquoise water in the Los Ajaches nature park, in the south. Papagayo is the best known; the others (Caleta del Congrio, Playa Mujeres) are quieter.",
-        "come": "By car from Playa Blanca on a dirt road. Car access to the park is paid. Walk from the car parks.",
+        "come": "By car from Playa Blanca on a dirt road. Walk from the car parks.",
         "quando": "Morning in summer, with little wind. Wind kicks up the sand.",
         "tempo": "half a day",
         "consiglio": "Bring a parasol, water and food: the coves have no services."

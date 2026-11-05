@@ -32,7 +32,7 @@ export const destinazioniNewYork: Destinazione[] = [
       {
         nome: "Times Square",
         testo: "The brightest crossing in Manhattan, between 42nd and 47th Street, with LED billboards on every side. It is pedestrian and always open, but it is the most crowded place in the city.",
-        come: "By subway (lines 1, 2, 3, N, Q, R, W, S and 7 stop at Times Sq-42 St). You explore on foot, no ticket.",
+        come: "By subway to Times Sq-42 St station. You explore on foot, no ticket.",
         quando: "In the evening, after sunset, when the billboards are lit. By day it is far less striking.",
         tempo: "30-45 minutes",
         costo: "Free",
@@ -60,7 +60,7 @@ export const destinazioniNewYork: Destinazione[] = [
       {
         nome: "Bryant Park and Grand Central Terminal",
         testo: "A park with a lawn and chairs under the skyscrapers, beside the public library. A little to the east, Grand Central station, with the starry ceiling of the main hall.",
-        come: "On foot from Times Square, about 10 minutes to the park and 15 to the station. Entry is free.",
+        come: "On foot from Times Square. Entry is free.",
         quando: "The park by day; the station in rush hour to watch the commuters, or in the afternoon for photos.",
         tempo: "1-2 hours",
         costo: "Free",
@@ -71,7 +71,7 @@ export const destinazioniNewYork: Destinazione[] = [
     programmi: [
       { titolo: "1 day", tappe: [
         "Morning: Bryant Park and Grand Central",
-        "Lunch at Junior's or a Shake Shack",
+        "Quick lunch in Midtown",
         "Afternoon: Empire State Building",
         "Evening: a musical on Broadway",
         "After the show: Times Square lit up",
@@ -80,19 +80,19 @@ export const destinazioniNewYork: Destinazione[] = [
     zone: [
       { nome: "Theater District", perChi: "Those who want theatres and evening life on foot", testo: "I slept here, at the Paramount: the location is very handy but the rooms are very small and there is noise. It saves travel time." },
       { nome: "Midtown East and Murray Hill", perChi: "Those who prefer more quiet", testo: "Residential areas a few minutes from Grand Central. Fewer restaurants open late." },
-      { nome: "Chelsea and Hell's Kitchen", perChi: "Those who want local bars and restaurants", testo: "Ten minutes from Times Square, with a less touristy nightlife." },
+      { nome: "Chelsea and Hell's Kitchen", perChi: "Those who want local bars and restaurants", testo: "Close to Times Square, with a less touristy nightlife." },
     ],
     sapori: [
-      { nome: "Junior's cheesecake", testo: "New York's emblematic dessert, classic and dense; at Junior's near Times Square." },
+      { nome: "New York cheesecake", testo: "Cream cheese cake on a biscuit base, classic and dense." },
       { nome: "Cart hot dog", testo: "The most immediate street food; found on every corner." },
-      { nome: "Neapolitan pizza at Kesté", testo: "A Neapolitan-style pizzeria in the Theater District." },
-      { nome: "Shake Shack", testo: "New York burgers, with several branches in Midtown." },
+      { nome: "Pizza by the slice", testo: "Wide, thin pizza sold by the slice, eaten standing up." },
+      { nome: "Burger", testo: "Grilled beef in a bun, served with fries." },
     ],
     attenzioni: [
       "People on the street hand out flyers for show tickets or tours: street sellers are not official. Buy only from the theatre sites or TKTS.",
       "The costumed characters in Times Square ask for a tip after the photo: if you don't want to pay, don't take one.",
       "In the Times Square crowd keep bag and phone within reach.",
-      "Check whether the tip (18-20%) is already included in the bill before adding it.",
+      "Check whether the tip is already included in the bill before adding it.",
     ],
     esperienzeSlugs: ['musical-broadway'],
     tripSlugs: ['new-york-itinerario'],
@@ -128,7 +128,7 @@ export const destinazioniNewYork: Destinazione[] = [
       {
         nome: "Apollo Theater",
         testo: "The Harlem theatre where James Brown, Ella Fitzgerald and Aretha Franklin sang. It is famous for its Wednesday Amateur Night, with an audience that cheers or boos the amateurs.",
-        come: "On 125th Street. Subway A, B, C, D to 125 St. Shows are booked on the theatre's website, and there are guided tours of the hall.",
+        come: "On 125th Street. By subway to 125 St. Shows are booked on the theatre's website, and there are guided tours of the hall.",
         quando: "The historic theatre is being renovated: programme, Amateur Night and tours on the official website.",
         tempo: "1-2 hours",
         url: "https://www.apollotheater.org/",
@@ -173,12 +173,12 @@ export const destinazioniNewYork: Destinazione[] = [
     zone: [
       { nome: "Harlem", perChi: "Those who want to live the neighbourhood", testo: "Local atmosphere, restaurants and music, lower prices than Midtown. Check the distance from the subway before booking." },
       { nome: "Upper West Side", perChi: "Those who want to be near Central Park", testo: "Quiet residential area with excellent restaurants." },
-      { nome: "Midtown", perChi: "Those who want to be close to everything", testo: "Convenient but expensive and noisy; Harlem is 20-30 minutes away by subway." },
+      { nome: "Midtown", perChi: "Those who want to be close to everything", testo: "Convenient but expensive and noisy; Harlem is reached by subway." },
     ],
     sapori: [
       { nome: "Soul food", testo: "Fried chicken, macaroni and cheese and braised greens, the neighbourhood's cooking." },
-      { nome: "Breakfast in Harlem", testo: "Places like The Monkey Cup, for a coffee and a relaxed breakfast." },
-      { nome: "Gray's Papaya hot dog", testo: "A cheap New York classic." },
+      { nome: "Cornbread", testo: "Sweet corn bread, a typical Southern side dish." },
+      { nome: "Hot dog", testo: "A cheap classic of New York street food." },
       { nome: "Street pretzel", testo: "Baked in carts and served hot." },
     ],
     attenzioni: [
@@ -222,7 +222,7 @@ export const destinazioniNewYork: Destinazione[] = [
       {
         nome: "MoMA",
         testo: "The Museum of Modern Art holds Van Gogh's Starry Night, Picasso's Les Demoiselles d'Avignon and Monet's Water Lilies. The collection is spread over several floors in chronological order.",
-        come: "Entrance at 11 West 53rd Street. Buy an online ticket to skip the queue. Map and audio guide are in the Bloomberg Connects app, to be downloaded beforehand.",
+        come: "Entrance at 11 West 53rd Street. Buy an online ticket to skip the queue.",
         quando: "Open every day from 10:30 am to 5:30 pm, Fridays until 8:30 pm; closed only on Thanksgiving and Christmas. Early morning is best.",
         tempo: "2-3 hours",
         costo: "$30 for adults, free up to age 16 (official site, 2026)",
@@ -252,7 +252,7 @@ export const destinazioniNewYork: Destinazione[] = [
       {
         nome: "Hudson Yards and The Vessel",
         testo: "The new skyscraper district with the great structure called The Vessel, a honeycomb of staircases. The climb is open again, with safety netting, and only with a timed ticket.",
-        come: "On foot from the end of the High Line, or by subway with the 7 line to 34 St-Hudson Yards.",
+        come: "On foot from the end of the High Line, or by subway to 34 St-Hudson Yards.",
         quando: "Sunset, for the light. The climb usually opens 11 am to 7 pm: check the day's hours on the website.",
         tempo: "1 hour",
         costo: "From $14 for general admission (official site, 2026)",
@@ -272,16 +272,15 @@ export const destinazioniNewYork: Destinazione[] = [
     zone: [
       { nome: "Midtown", perChi: "Those who want the central base", testo: "Near MoMA and Rockefeller Center, but expensive." },
       { nome: "Chelsea", perChi: "Those who want bars and galleries", testo: "Quiet and on foot from the High Line." },
-      { nome: "Hell's Kitchen", perChi: "Those who want good restaurants", testo: "Ten minutes from Times Square, prices slightly lower." },
+      { nome: "Hell's Kitchen", perChi: "Those who want good restaurants", testo: "Close to Times Square, prices slightly lower." },
     ],
     sapori: [
       { nome: "Lunch at Chelsea Market", testo: "Covered market with food stalls of every kind." },
-      { nome: "Shake Shack", testo: "New York burgers, with several branches in Midtown." },
-      { nome: "Five Guys", testo: "Burgers and fries near MoMA." },
+      { nome: "Burger", testo: "Grilled beef in a bun with fries, the quick Midtown lunch." },
+      { nome: "Pastrami on rye", testo: "Rye bread sandwich with beef pastrami, a deli classic." },
       { nome: "Bagel", testo: "The typical breakfast with salmon and cream cheese." },
     ],
     attenzioni: [
-      "Download the Bloomberg Connects app before entering MoMA: map and audio guide are online only.",
       "MoMA is open every day except Thanksgiving and Christmas: check the day's hours on the website.",
       "The Vessel can only be climbed with a timed ticket: book on the official site and check the day's hours.",
       "Buy tickets only from the museum's official website.",
@@ -336,7 +335,7 @@ export const destinazioniNewYork: Destinazione[] = [
       {
         nome: "Wall Street and the Charging Bull",
         testo: "The financial heart of New York: the bronze bull statue, the Stock Exchange and Trinity Church. The bull stands in Bowling Green.",
-        come: "Subway 4 or 5 to Bowling Green or Wall St. You walk around.",
+        come: "By subway to Bowling Green or Wall St. You walk around.",
         quando: "On weekdays the area is full of office workers; at weekends it is calm.",
         tempo: "1 hour",
         costo: "Free",
@@ -345,14 +344,14 @@ export const destinazioniNewYork: Destinazione[] = [
       {
         nome: "Chinatown, Little Italy and SoHo",
         testo: "Chinatown has alleys like Doyers Street and Pell Street, where you can eat noodles and dim sum. Little Italy has shrunk to a few streets, mainly Mulberry Street. SoHo has shops and American-style pizzerias.",
-        come: "On foot from Canal Street, subway N, Q, R, W, J, Z, 6.",
+        come: "On foot from Canal Street subway station.",
         quando: "From lunch to evening, when the places are open.",
         tempo: "2 hours",
         consiglio: "Little Italy today is little more than the iconic sign: to eat well stay in Chinatown or SoHo.",
       },
       {
         nome: "One World Trade Center and the Oculus",
-        testo: "The Oculus is the station designed by Santiago Calatrava, white and with winged ribs. Beside it is One World Trade Center, the city's tallest skyscraper.",
+        testo: "The Oculus is the station designed by Santiago Calatrava, white and with winged ribs. Beside it is One World Trade Center, the skyscraper at the heart of the new World Trade Center.",
         come: "Subway to World Trade Center, a few minutes from Wall Street.",
         quando: "At any time; afternoon light is best for the inside of the Oculus.",
         tempo: "30 minutes",
@@ -375,10 +374,10 @@ export const destinazioniNewYork: Destinazione[] = [
       { nome: "Chinatown", perChi: "Those who want to spend less", testo: "Lower prices, noise and movement until late." },
     ],
     sapori: [
-      { nome: "Liberty Bagels bagel", testo: "Bagel with salmon and cream cheese, a classic breakfast." },
-      { nome: "Prince Street Pizza", testo: "American-style pepperoni pizza in SoHo." },
-      { nome: "Pizza at Lombardi's", testo: "A historic place in Little Italy: not memorable, but a classic choice." },
-      { nome: "Noodles in Chinatown", testo: "Small places like Me La Wa and Uncle Lo, with queues." },
+      { nome: "Bagel with lox", testo: "Bagel with smoked salmon and cream cheese, a classic breakfast." },
+      { nome: "Pepperoni pizza", testo: "American-style pizza with spicy salami." },
+      { nome: "Cannoli in Little Italy", testo: "Fried pastry shells filled with ricotta, in the pastry shops of Mulberry Street." },
+      { nome: "Noodles and dim sum in Chinatown", testo: "Small places serving noodles, dumplings and dim sum." },
     ],
     attenzioni: [
       "Buy the Statue ferry only from Statue City Cruises or the NPS site: sellers on the quay offering tours are not official.",
@@ -436,7 +435,7 @@ export const destinazioniNewYork: Destinazione[] = [
       {
         nome: "DUMBO",
         testo: "The Brooklyn neighbourhood under the Manhattan Bridge, in former warehouses. At the corner of Water Street and Washington Street the bridge slots between the brick buildings: it is Brooklyn's most photographed view.",
-        come: "Subway F to York Street, or on foot after the Brooklyn Bridge. Jane's Carousel is in Brooklyn Bridge Park.",
+        come: "By subway to York Street, or on foot after the Brooklyn Bridge. Jane's Carousel is in Brooklyn Bridge Park.",
         quando: "Early morning for the photo without people; at sunset for the light.",
         tempo: "2-3 hours",
         url: "https://www.brooklynbridgepark.org/",
@@ -476,9 +475,9 @@ export const destinazioniNewYork: Destinazione[] = [
       { nome: "Midtown", perChi: "Those who prefer convenience", testo: "Closer to Top of the Rock." },
     ],
     sapori: [
-      { nome: "Pisillo sandwiches", testo: "Italian sandwiches in the Financial District." },
-      { nome: "Breakfast at Bluestone Lane", testo: "Australian-style café in DUMBO." },
-      { nome: "Dinner at Vinegar Hill House", testo: "A restaurant near DUMBO." },
+      { nome: "Deli sandwiches", testo: "Sandwiches made to order, the quick lunch of the Financial District." },
+      { nome: "Brunch", testo: "Eggs, pancakes and coffee, the weekend ritual in Brooklyn cafés." },
+      { nome: "Brooklyn pizza", testo: "Oven-baked pizza, a neighbourhood tradition." },
       { nome: "Brooklyn ice cream", testo: "Small craft shops in the neighbourhood." },
     ],
     attenzioni: [

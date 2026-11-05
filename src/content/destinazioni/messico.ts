@@ -53,21 +53,21 @@ export const destinazioniMessico: Destinazione[] = [
         {
           "nome": "Playa Marlin e Playa Gaviota",
           "testo": "Spiagge pubbliche gratuite nel centro della zona hotelera, senza lettini a pagamento. Sono fra i pochi accessi liberi al mare di questa parte della città; il mare è più mosso che a Isla Mujeres, quindi prima del bagno conviene guardare la bandiera dei bagnini.",
-          "come": "Bus locale R1 dal centro.",
+          "come": "Bus locale dal centro.",
           "quando": "Mattina.",
           "tempo": "Mezza giornata"
         },
         {
           "nome": "Parque las Palapas e Mercado 28",
           "testo": "Piazza del centro con bancarelle di street food e musica serale, e il mercato con artigianato e ristorantini.",
-          "come": "A piedi dal centro, a nord della zona hotelera.",
+          "come": "A piedi, in centro.",
           "quando": "Sera.",
           "tempo": "2-3 ore",
           "consiglio": "Il primo assaggio di Messico con lo street food."
         },
         {
           "nome": "Coco Bongo",
-          "testo": "Il locale con spettacolo più famoso della città, nella zona hotelera: acrobati, musica dal vivo e numeri ispirati ai film, fino a notte fonda. Il prezzo cambia molto in base alla posizione (in piedi, al bancone o al tavolo), quindi conviene capire cosa include il biglietto prima di comprarlo.",
+          "testo": "Locale con spettacolo molto noto, nella zona hotelera: acrobati, musica dal vivo e numeri ispirati ai film, fino a notte fonda. Il prezzo cambia molto in base alla posizione (in piedi, al bancone o al tavolo), quindi conviene capire cosa include il biglietto prima di comprarlo.",
           "come": "Biglietti da rivenditori.",
           "quando": "Sera.",
           "tempo": "Serata",
@@ -161,7 +161,7 @@ export const destinazioniMessico: Destinazione[] = [
         {
           "nome": "Chichén Itzá",
           "testo": "Una delle meraviglie del mondo moderne, sito maya patrimonio UNESCO con il Castillo, il campo del gioco di palla e il cenote sacro.",
-          "come": "Da Valladolid in auto o taxi, meno di un'ora, oppure tour con guida.",
+          "come": "Da Valladolid in auto o taxi, oppure tour con guida.",
           "quando": "Mattina, all'apertura, prima dei pullman e del caldo.",
           "tempo": "3-4 ore",
           "costo": "697 MXN per gli stranieri, con biglietto unico federale e statale in un'unica cassa dal 27 marzo 2026; la domenica gratis solo per messicani e residenti.",
@@ -180,7 +180,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Cenote Xcanché",
-          "testo": "Cenote a cielo aperto vicino a Ek Balam, con tuffi e liane. Si scende per una scala nella roccia fino all'acqua, circondata da radici e piante pendenti; intorno ci sono noleggio bici e un piccolo ristorante.",
+          "testo": "Cenote a cielo aperto vicino a Ek Balam. Si scende per una scala nella roccia fino all'acqua, circondata da radici e piante pendenti.",
           "come": "Taxi o bici da Ek Balam.",
           "quando": "Mattina o primo pomeriggio.",
           "tempo": "1-2 ore"
@@ -295,15 +295,15 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Mercado municipal",
-          "testo": "Il mercato coperto con frutta, spezie e artigianato, da cui si compra lo yucateco.",
-          "come": "A piedi dal centro, pochi isolati a sud della piazza.",
+          "testo": "Il mercato coperto con frutta, spezie, artigianato e prodotti yucatechi.",
+          "come": "A piedi dal centro.",
           "quando": "Mattina.",
           "tempo": "1-2 ore"
         },
         {
           "nome": "Playa Progreso",
-          "testo": "La spiaggia di Progreso, sul Golfo del Messico, il porto di Mérida, con un molo lunghissimo che entra nel mare e beach club sulla sabbia.",
-          "come": "Bus o auto da Mérida, poco più di mezz'ora.",
+          "testo": "La spiaggia di Progreso, sul Golfo del Messico, il porto di Mérida, con un lungo molo che entra nel mare e beach club sulla sabbia.",
+          "come": "Bus o auto da Mérida.",
           "quando": "Giornata.",
           "tempo": "Giornata",
           "consiglio": "Una pausa a metà viaggio senza transfer lunghi."
@@ -342,7 +342,7 @@ export const destinazioniMessico: Destinazione[] = [
         {
           "nome": "Paseo de Montejo",
           "perChi": "eleganza",
-          "testo": "Viale dei palazzi del Novecento, più tranquillo."
+          "testo": "Viale di palazzi storici, più tranquillo."
         }
       ],
       "sapori": [
@@ -424,7 +424,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Fuerte de San Miguel",
-          "testo": "Forte sulla collina a sud-ovest del centro, con fossato e cannoni rivolti al Golfo. Dentro c'è il museo archeologico con le maschere di giada di Calakmul; dagli spalti il tramonto sul mare è uno dei migliori della città.",
+          "testo": "Forte sulla collina a sud-ovest del centro, con fossato e cannoni rivolti al Golfo. Dentro c'è il museo archeologico con le maschere di giada di Calakmul; dagli spalti si vede il tramonto sul mare.",
           "come": "Taxi dal centro.",
           "quando": "Tardo pomeriggio; orari e giorni di chiusura sul sito dell'INAH.",
           "tempo": "1-2 ore",
@@ -432,9 +432,9 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Edzná",
-          "testo": "Sito maya nell'entroterra con l'Edificio dei Cinque Piani, una piramide a terrazze su una grande piazza. È poco visitato rispetto ai siti dello Yucatán e si gira quasi da soli, fra iguane e silenzio.",
+          "testo": "Sito maya nell'entroterra con l'Edificio dei Cinque Piani, una piramide a terrazze su una grande piazza. È poco visitato rispetto ai siti dello Yucatán.",
           "come": "Auto, taxi o tour da Campeche.",
-          "quando": "Aperto ogni giorno 8-17, ultimo ingresso alle 16.30 (scheda INAH). Mattina presto, prima del caldo.",
+          "quando": "Aperto ogni giorno 8-17 (scheda INAH). Mattina presto, prima del caldo.",
           "tempo": "Mezza giornata",
           "url": "https://www.inah.gob.mx/",
           "consiglio": "Portare acqua e cappello: l'ombra è poca.",
@@ -529,21 +529,21 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Snorkeling con le tartarughe",
-          "testo": "Uscita in barca a pochi metri dalla costa, dove vivono tartarughe verdi nella barriera. La barriera qui è vicinissima alla riva e poco frequentata rispetto alla Riviera Maya: si vedono anche razze, pesci pappagallo e coralli molli.",
+          "testo": "Uscita in barca sulla barriera vicino alla costa, dove si possono incontrare le tartarughe. Qui la barriera è vicina alla riva e meno frequentata che nella Riviera Maya.",
           "come": "Tour dal lungomare con operatore.",
           "quando": "Mattina.",
           "tempo": "2-3 ore"
         },
         {
           "nome": "Temazcal nella selva",
-          "testo": "Rito del bagno di vapore di tradizione indigena, con guida, di sera, in un posto nella giungla.",
+          "testo": "Rito del bagno di vapore di tradizione indigena, con una guida.",
           "come": "Prenotazione con una struttura della zona.",
           "quando": "Sera.",
           "tempo": "2-3 ore"
         },
         {
           "nome": "Banco Chinchorro",
-          "testo": "Riserva della biosfera al largo di Mahahual, un atollo corallino di circa 800 km² con almeno nove relitti, fra cui due galeoni spagnoli. È la gita più bella della zona, ma anche la più legata al meteo: con vento forte le uscite si annullano.",
+          "testo": "Riserva della biosfera al largo di Mahahual, un atollo corallino di circa 800 km² con almeno nove relitti. È una gita molto legata al meteo: con vento forte le uscite si annullano.",
           "come": "Solo con operatori autorizzati da Mahahual o Xcalak, in barca veloce.",
           "quando": "Mattina, con mare calmo; meglio nei mesi secchi.",
           "tempo": "Giornata intera",
@@ -636,7 +636,7 @@ export const destinazioniMessico: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Laguna di Bacalar",
-          "testo": "La laguna dei sette colori, lunga decine di chilometri e stretta, con acqua dalle sfumature di azzurro e turchese su fondale bianco. Ospita uno dei più estesi sistemi di stromatoliti d'acqua dolce del mondo, formazioni di migliaia di anni.",
+          "testo": "La laguna dei sette colori, lunga decine di chilometri e stretta, con acqua dalle sfumature di azzurro e turchese su fondale bianco. Ospita stromatoliti, formazioni rocciose antichissime create da microrganismi.",
           "come": "Da Mahahual in tour organizzato oppure in autonomia con van o auto.",
           "quando": "Mattina, con luce piena.",
           "tempo": "Mezza giornata o più",
@@ -658,7 +658,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Fuerte San Felipe",
-          "testo": "Il forte costruito dagli spagnoli per difendere Bacalar dai pirati inglesi e dai maya ribelli, sulla riva della laguna. Oggi si visita.",
+          "testo": "Forte costruito dagli spagnoli per difendere Bacalar dai pirati, sulla riva della laguna. Orari e ingresso sul sito dell'INAH.",
           "come": "A piedi dal centro.",
           "quando": "Mattina.",
           "tempo": "1 ora",
@@ -792,7 +792,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Xcacel",
-          "testo": "Spiaggia protetta, fra le ultime della costa senza hotel, dove le tartarughe depongono le uova fra primavera ed estate. Le regole sono severe: niente cibo, alcolici né casse; ingresso, orari e giorni di chiusura vanno verificati sul posto.",
+          "testo": "Spiaggia protetta, senza hotel, dove le tartarughe depongono le uova fra primavera ed estate. Le regole sono severe: niente cibo, alcolici né casse; ingresso, orari e giorni di chiusura vanno verificati sul posto.",
           "come": "Taxi o auto da Tulum.",
           "quando": "Mattina.",
           "tempo": "2-3 ore"
@@ -1028,15 +1028,15 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Tour delle 3 Islas",
-          "testo": "Giro condiviso in barca di circa 3 ore, con fenicotteri, delfini e uccelli: Isla Pájaros, cenote di Yalahau, Isla Pasión o Punta Mosquito.",
+          "testo": "Giro condiviso in barca, con fenicotteri, delfini e uccelli: Isla Pájaros, cenote di Yalahau, Isla Pasión o Punta Mosquito.",
           "come": "Prezzi diversi secondo l'operatore, alcuni con il transfer dall'hotel. Il cenote Yalahau si paga a parte.",
           "quando": "Mattina.",
-          "tempo": "3 ore"
+          "tempo": "Mezza giornata"
         },
         {
           "nome": "Cabo Catoche",
-          "testo": "Escursione alla punta nord-orientale della penisola dello Yucatán, fra Golfo del Messico e Caraibi. Snorkeling su una barriera bassa, pesca e ceviche fresco. Nel viaggio non l'abbiamo fatta.",
-          "come": "Tour condiviso dalla mattina al tardo pomeriggio; confrontare più operatori.",
+          "testo": "Escursione in barca verso la punta nord-orientale della penisola dello Yucatán, fra Golfo del Messico e Caraibi, di solito con soste per lo snorkeling. Nel viaggio non l'abbiamo fatta.",
+          "come": "Tour condiviso in barca; confrontare più operatori e cosa include il prezzo.",
           "quando": "Giornata.",
           "tempo": "Giornata"
         }
@@ -1072,7 +1072,7 @@ export const destinazioniMessico: Destinazione[] = [
           "testo": "Ristoranti, negozi e hotel vicini alla piazza, strade di sabbia senza auto."
         },
         {
-          "nome": "Spiaggia a nord-est",
+          "nome": "Spiaggia fuori dal paese",
           "perChi": "calma",
           "testo": "Hotel sul mare, più isolati."
         }

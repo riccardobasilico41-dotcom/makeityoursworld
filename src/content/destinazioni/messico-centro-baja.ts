@@ -23,7 +23,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     giorniConsigliati: '4-5 giorni',
     visitataPersonalmente: true,
     introduzione:
-      'La capitale sta a 2.240 metri sul fondo di un lago prosciugato, sopra le rovine di Tenochtitlán. Venti milioni di abitanti, un centro storico patrimonio UNESCO, il museo archeologico più importante delle Americhe e una cucina di strada tra le più ricche del mondo.',
+      'La capitale sta a oltre 2.000 metri sul fondo di un lago prosciugato, sopra le rovine di Tenochtitlán. Venti milioni di abitanti, un centro storico patrimonio UNESCO, un grande museo archeologico e una cucina di strada tra le più ricche del mondo.',
     percheAndarci:
       'Perché è la chiave per capire il resto del paese: le civiltà preispaniche al Museo di Antropologia e a Teotihuacán, la storia coloniale nello Zócalo, il Messico di oggi nei quartieri di Roma, Condesa e Coyoacán. A fine ottobre è anche il punto di partenza del Día de los Muertos, con la processione delle Catrinas e le grandi ofrendas pubbliche.',
     cosaVedere: [
@@ -35,20 +35,20 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'I canali di Xochimilco',
     ],
     cosaFare: [
-      'Teotihuacán all\'apertura delle 9, o in mongolfiera all\'alba',
+      'Teotihuacán all\'apertura, o in mongolfiera all\'alba',
       'Un giro in trajinera a Xochimilco, concordando il prezzo all\'ora prima di salire',
-      'Una serata di lucha libre all\'Arena México (martedì, venerdì e domenica)',
+      'Una serata di lucha libre all\'Arena México',
       'Tacos al pastor e de suadero nelle taquerías di quartiere',
       'A fine ottobre, la Mega Procesión de Catrinas lungo il Paseo de la Reforma',
     ],
     doveDormire:
-      'Roma Norte o Condesa, quartieri alberati e sicuri a 20-30 minuti dal centro. Economico 600-1.200 MXN a notte, medio 1.800-3.500 MXN, alto oltre 5.000 MXN. Il Centro Histórico è comodo di giorno ma vuoto la sera.',
+      'Roma Norte o Condesa, quartieri alberati e tranquilli, non lontani dal centro. Il Centro Histórico è comodo di giorno ma vuoto la sera.',
     doveMangiare:
       'Taquerías, mercati (Coyoacán, San Juan), tamales e atole a colazione, churros con cioccolata. I ristoranti d\'autore di Roma e Polanco vanno prenotati con settimane di anticipo.',
     comeArrivare: 'Aeroporto internazionale Benito Juárez (AICM), con voli diretti o via una capitale europea; in città con taxi prepagato o app.',
-    comeSpostarsi: 'Metro (5 MXN a corsa), Metrobús e app di trasporto; per Teotihuacán bus dalla Terminal del Norte. Niente taxi presi per strada.',
+    comeSpostarsi: 'Metro, Metrobús e app di trasporto; per Teotihuacán bus dalla Terminal del Norte. Niente taxi presi per strada.',
     periodoMigliore: 'da ottobre ad aprile, stagione secca; fine ottobre per il Día de los Muertos.',
-    costi: 'Teotihuacán e Museo di Antropologia circa 210 MXN ciascuno per gli stranieri dal 2026; metro 5 MXN; trajinera 600-700 MXN all\'ora a barca.',
+    costi: 'Teotihuacán e Museo di Antropologia circa 210 MXN ciascuno per gli stranieri (2026); la trajinera si paga a ora e a barca, con prezzo da concordare prima di salire.',
     erroriDaEvitare: [
       'Prendere taxi per strada invece di taxi prepagati, di sitio o app',
       'Programmare Museo di Antropologia o Templo Mayor di lunedì, quando sono chiusi',
@@ -62,22 +62,22 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
           "come": "Metro Zócalo. Il Templo Mayor ha ingresso INAH separato.",
           "quando": "Mattina; museo e zona archeologica del Templo Mayor sono aperti da martedì a domenica, 9-17, e chiudono il lunedì.",
           "tempo": "3 ore",
-          "costo": "Templo Mayor: 210 MXN per gli stranieri (2026); la domenica gratis solo per messicani e residenti.",
+          "costo": "Templo Mayor: 210 MXN per gli stranieri (2026).",
           "url": "https://www.inah.gob.mx/"
         },
         {
           "nome": "Museo Nacional de Antropología",
-          "testo": "Il più grande museo archeologico del Paese, nel bosco di Chapultepec, con la Pietra del Sole e le sale delle culture mesoamericane.",
+          "testo": "Grande museo archeologico nel bosco di Chapultepec, con la Pietra del Sole e le sale delle culture mesoamericane.",
           "come": "Metro Auditorio o Chapultepec.",
           "quando": "Mattina; di norma chiuso il lunedì.",
           "tempo": "3-4 ore",
           "costo": "210 MXN per gli stranieri (2026).",
           "url": "https://www.inah.gob.mx/",
-          "consiglio": "Scegliere 3-4 sale: è troppo grande per vederlo tutto."
+          "consiglio": "Scegliere alcune sale: è troppo grande per vederlo tutto."
         },
         {
           "nome": "Teotihuacán",
-          "testo": "La città dei Templi del Sole e della Luna e della Calzada de los Muertos, a circa 50 km dalla città, patrimonio UNESCO.",
+          "testo": "La città dei Templi del Sole e della Luna e della Calzada de los Muertos, fuori città, patrimonio UNESCO.",
           "come": "Bus dal Terminal Norte o tour; ingresso INAH.",
           "quando": "All'apertura delle 8 (aperto tutti i giorni fino alle 17), prima del caldo e dei gruppi.",
           "tempo": "Mezza giornata",
@@ -170,7 +170,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       "attenzioni": [
         "Borseggi su metro e Zócalo: tenere gli oggetti davanti e non esibire telefoni.",
         "Taxi di strada: usare Uber o taxi di sitio.",
-        "Altitudine (2.240 m): bere acqua e andare piano il primo giorno."
+        "Altitudine: bere acqua e andare piano il primo giorno."
       ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-dia-de-los-muertos', 'messico-cdmx-baja-california'],
@@ -186,12 +186,12 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     giorniConsigliati: '2 giorni',
     visitataPersonalmente: true,
     introduzione:
-      'Puebla è una città coloniale patrimonio UNESCO, con le facciate rivestite di talavera e una delle cucine più importanti del paese. A mezz\'ora c\'è Cholula, con la piramide più grande del mondo per volume e, in cima, il santuario della Virgen de los Remedios con il Popocatépetl sullo sfondo.',
+      'Puebla è una città coloniale patrimonio UNESCO, con le facciate rivestite di talavera e una delle cucine più importanti del paese. Poco lontano c\'è Cholula, con un\'enorme piramide preispanica e, in cima, il santuario della Virgen de los Remedios con il Popocatépetl sullo sfondo.',
     percheAndarci:
       'Per l\'immagine della chiesa gialla sulla piramide con il vulcano che fuma alle spalle, per il barocco poblano e per il mole. È anche la tappa naturale tra Città del Messico e Oaxaca.',
     cosaVedere: [
       'Il centro storico di Puebla con la Cattedrale e la Capilla del Rosario',
-      'La Biblioteca Palafoxiana, la prima biblioteca pubblica delle Americhe',
+      'La Biblioteca Palafoxiana, storica biblioteca del Seicento',
       'La Gran Piramide di Cholula, i suoi tunnel e il Santuario de la Virgen de los Remedios',
       'Le chiese barocche indigene di Tonantzintla e Acatepec',
     ],
@@ -201,9 +201,9 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'Assaggiare mole poblano, cemitas e i dolci della Calle de los Dulces',
     ],
     doveDormire:
-      'A Puebla il centro intorno allo Zócalo, con molti hotel in edifici coloniali (fascia media 1.200-2.500 MXN). A Cholula ostelli e piccoli hotel ai piedi della piramide da circa 700 MXN.',
-    doveMangiare: 'Mole poblano, chalupas, cemitas e molotes; i chiles en nogada sono un piatto di agosto-settembre.',
-    comeArrivare: 'Bus ADO da Città del Messico (circa 2 ore, 200-300 MXN); da Puebla a Cholula taxi o colectivo (20-30 minuti).',
+      'A Puebla il centro intorno allo Zócalo, con molti hotel in edifici coloniali. A Cholula ostelli e piccoli hotel ai piedi della piramide.',
+    doveMangiare: 'Mole poblano, chalupas, cemitas e molotes; i chiles en nogada sono un piatto stagionale di fine estate.',
+    comeArrivare: 'Bus ADO da Città del Messico; da Puebla a Cholula taxi o colectivo.',
     comeSpostarsi: 'A piedi nei centri; taxi e app tra Puebla e Cholula.',
     periodoMigliore: 'da ottobre ad aprile; le mattine limpide di novembre-febbraio sono le migliori per vedere i vulcani.',
     erroriDaEvitare: [
@@ -220,14 +220,14 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         },
         {
           "nome": "Biblioteca Palafoxiana e Capilla del Rosario",
-          "testo": "La prima biblioteca pubblica delle Americhe, del 1646, e una cappella barocca ricoperta d'oro (Templo de Santo Domingo).",
+          "testo": "Una biblioteca storica fondata nel Seicento e una cappella barocca ricoperta d'oro (Templo de Santo Domingo).",
           "come": "A piedi dal centro.",
           "quando": "Mattina.",
           "tempo": "1,5 ore"
         },
         {
           "nome": "Gran Piramide di Cholula",
-          "testo": "La piramide più grande del mondo per volume, quasi nascosta sotto una collina d'erba, con la chiesa della Virgen de los Remedios in cima. I tunnel interni hanno riaperto a marzo 2026 dopo sei anni di chiusura, con visite a gruppi e in orari fissi.",
+          "testo": "Un'enorme piramide preispanica, quasi nascosta sotto una collina d'erba, con la chiesa della Virgen de los Remedios in cima. I tunnel interni hanno riaperto a marzo 2026, con visite a gruppi.",
           "come": "Autobus o Uber da Puebla, poco lontano.",
           "quando": "Mattina; tramonto per la vista sui vulcani.",
           "tempo": "2-3 ore",
@@ -278,7 +278,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         },
         {
           "nome": "Chiles en nogada",
-          "testo": "Peperoni ripieni con salsa di noci, in agosto-settembre."
+          "testo": "Peperoni ripieni con salsa di noci, piatto stagionale di fine estate."
         },
         {
           "nome": "Cemitas",
@@ -308,7 +308,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     giorniConsigliati: '4-5 giorni, di più nei giorni della festa',
     visitataPersonalmente: true,
     introduzione:
-      'Capitale dello stato più indigeno del Messico, a 1.550 metri, con un centro coloniale di pietra verde patrimonio UNESCO, mercati enormi e la cucina dei sette moli. Tra il 31 ottobre e il 2 novembre è il luogo dove il Día de los Muertos è più vivo e più vario.',
+      'Capitale di uno stato con una forte presenza indigena, in altura, con un centro coloniale di pietra verde patrimonio UNESCO, mercati enormi e la cucina dei moli. Tra il 31 ottobre e il 2 novembre è il luogo dove il Día de los Muertos è più vivo e più vario.',
     percheAndarci:
       'Per le notti della festa nei cimiteri e nei paesi intorno, per il mezcal, per i mercati e per Monte Albán, la capitale zapoteca sulla cima di una montagna.',
     cosaVedere: [
@@ -325,12 +325,12 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'Assaggiare tlayudas, mole negro, tejate e chapulines',
     ],
     doveDormire:
-      'Il centro tra Santo Domingo e Jalatlaco. Nelle notti della festa i prezzi salgono di due o tre volte: ostelli 400-800 MXN a posto letto, fascia media 1.500-3.500 MXN, alta oltre 5.000 MXN. Prenotare 4-6 mesi prima.',
+      'Il centro tra Santo Domingo e Jalatlaco. Nelle notti della festa i prezzi salgono molto: prenotare con molti mesi di anticipo.',
     doveMangiare: 'I mercati per tlayudas, mole e cioccolata; le mezcalerías del centro per il mezcal artigianale.',
-    comeArrivare: 'Bus ADO da Puebla (circa 4 ore e mezza) o da Città del Messico (6-7 ore); volo da Città del Messico (circa 1 ora).',
+    comeArrivare: 'Bus ADO da Puebla o da Città del Messico; voli da Città del Messico.',
     comeSpostarsi: 'A piedi in centro; colectivos e taxi per i paesi; tour organizzati per le notti della festa, quando i taxi scarseggiano.',
-    periodoMigliore: 'da ottobre ad aprile; 28 ottobre-2 novembre per il Día de los Muertos; luglio per la Guelaguetza.',
-    costi: 'Tour serali ai cimiteri 600-1.200 MXN; ingresso ai panteones libero.',
+    periodoMigliore: 'da ottobre ad aprile; fine ottobre-inizio novembre per il Día de los Muertos; luglio per la Guelaguetza.',
+    costi: 'Ingresso ai panteones libero; tour serali ai cimiteri a prezzi variabili.',
     erroriDaEvitare: [
       'Prenotare l\'alloggio per la festa a poche settimane dalla partenza',
       'Pagare tour che promettono un "accesso" ai cimiteri, che è libero',
@@ -465,22 +465,22 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'La muerteada di San Agustín Etla (a nord di Oaxaca) la notte del 1° novembre',
       'Fare il bagno nelle piscine naturali di Hierve el Agua',
     ],
-    comeArrivare: 'In tour di gruppo da Oaxaca (600-900 MXN), con auto e autista o in colectivo lungo la 190.',
+    comeArrivare: 'In tour di gruppo da Oaxaca, con auto e autista o in colectivo lungo la 190.',
     comeSpostarsi: 'Colectivos tra i paesi; da Mitla camionetas condivise per Hierve el Agua.',
     periodoMigliore: 'tutto l\'anno; fine ottobre-inizio novembre per gli altari nelle case e le comparsas.',
-    costi: 'Hierve el Agua 50-100 MXN in contanti tra quota comunitaria e ingresso; Mitla biglietto INAH; degustazioni nei palenques gratuite o a pochi pesos.',
+    costi: 'Hierve el Agua con quota comunitaria in contanti; Mitla biglietto INAH; degustazioni nei palenques spesso gratuite.',
     erroriDaEvitare: [
-      'Partire per Hierve el Agua senza verificare che sia aperto: le chiusure per dispute tra comunità sono frequenti',
+      'Partire per Hierve el Agua senza verificare che sia aperto: le chiusure sono possibili',
       'Guidare dopo le degustazioni di mezcal',
       'Entrare negli altari delle case senza un invito',
     ],
       "luoghi": [
         {
           "nome": "Árbol del Tule",
-          "testo": "Un cipresso di Montezuma con il tronco più massiccio di qualsiasi albero conosciuto, nel cortile della chiesa di Santa María del Tule. Le stime più serie gli danno fra 1.400 e 1.600 anni.",
-          "come": "Autobus o taxi da Oaxaca: circa 9 km verso est, sulla strada per Mitla.",
+          "testo": "Un cipresso di Montezuma con un tronco enorme, nel cortile della chiesa di Santa María del Tule. Le stime più serie gli danno fra 1.400 e 1.600 anni.",
+          "come": "Autobus o taxi da Oaxaca, poco a est, sulla strada per Mitla.",
           "quando": "Mattina.",
-          "tempo": "30 minuti"
+          "tempo": "Breve sosta"
         },
         {
           "nome": "Teotitlán del Valle",
@@ -495,7 +495,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
           "testo": "Sito zapoteco-mixteco con mosaici geometrici in pietra incastrata. Ingresso INAH.",
           "come": "Colectivo o tour da Oaxaca.",
           "quando": "Mattina.",
-          "tempo": "1,5 ore",
+          "tempo": "1-2 ore",
           "url": "https://www.inah.gob.mx/"
         },
         {
@@ -548,7 +548,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         },
         {
           "nome": "Barbacoa",
-          "testo": "Carne di capra cotta nel forno di terra."
+          "testo": "Carne cotta lentamente in un forno scavato nella terra."
         },
         {
           "nome": "Pane di yema",
@@ -574,7 +574,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     giorniConsigliati: '3-5 giorni',
     visitataPersonalmente: true,
     introduzione:
-      'Una città di surf sul Pacifico, con l\'onda di Zicatela tra le più potenti del mondo, calette tranquille, lagune con la bioluminescenza e, verso est, i villaggi di Mazunte e Zipolite. Dal 2024 la nuova autostrada l\'ha portata a circa tre ore da Oaxaca.',
+      'Una città di surf sul Pacifico, con la famosa onda di Zicatela, calette tranquille, lagune con la bioluminescenza e, verso est, i villaggi di Mazunte e Zipolite. Una nuova autostrada ha accorciato il viaggio da Oaxaca.',
     percheAndarci: 'Per chiudere un viaggio culturale con oceano, surf, tramonti e natura costiera.',
     cosaVedere: [
       'Playa Zicatela e La Punta',
@@ -584,16 +584,16 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     ],
     cosaFare: [
       'Una lezione di surf a Carrizalillo o alla Punta',
-      'La liberazione delle tartarughe al tramonto a Playa Bacocho, in stagione',
+      'La liberazione delle tartarughe con i progetti locali, in stagione',
       'La bioluminescenza a Manialtepec in una notte senza luna',
     ],
     doveDormire:
-      'La Punta per ostelli e budget (da 600 MXN), Zicatela per la fascia media e la vita serale (1.500-3.000 MXN), Carrizalillo e Rinconada per la quiete e qualche hotel di fascia alta.',
+      'La Punta per ostelli e budget, Zicatela per la fascia media e la vita serale, Carrizalillo e Rinconada per la quiete e qualche hotel di fascia alta.',
     doveMangiare: 'Pescado a la talla, ceviche, tiritas e tacos de pescado nelle palapas sulla spiaggia.',
-    comeArrivare: 'Bus o van da Oaxaca (3-3,5 ore sulla Barranca Larga-Ventanilla); voli diretti da Città del Messico (circa 1 ora).',
+    comeArrivare: 'Bus o van da Oaxaca sulla nuova autostrada; voli diretti da Città del Messico.',
     comeSpostarsi: 'Taxi e colectivos lungo la costiera 200.',
     periodoMigliore: 'da novembre ad aprile, stagione secca; da giugno a ottobre piogge e possibili uragani.',
-    costi: 'Lezione di surf 600-900 MXN; tour della laguna 500-900 MXN.',
+    costi: 'Lezioni di surf e tour della laguna a prezzi variabili: confrontare sul posto.',
     erroriDaEvitare: [
       'Nuotare a Zicatela, dove le correnti di risacca sono pericolose',
       'Scegliere tour della bioluminescenza a motore fino in fondo alla laguna',
@@ -602,7 +602,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Playa Zicatela",
-          "testo": "Una delle onde più potenti del Messico, la «Mexican Pipeline», per surfisti esperti; la spiaggia ha ristoranti e hotel.",
+          "testo": "Un'onda potente e famosa, la «Mexican Pipeline», per surfisti esperti; la spiaggia ha ristoranti e hotel.",
           "come": "A piedi o taxi dal centro.",
           "quando": "Alba e tramonto per guardare i surfisti; il bagno solo con grande prudenza.",
           "tempo": "Mezza giornata",
@@ -699,7 +699,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     introduzione:
       'Pátzcuaro è una cittadina coloniale purépecha sul lago omonimo, nello stato del Michoacán. Sull\'isola di Janitzio, la notte del 1° novembre, il cimitero si accende di candele e dalle rive arrivano le barche: è l\'immagine più famosa del Día de los Muertos.',
     percheAndarci:
-      'Per la notte di Janitzio e per i cimiteri dei paesi del lago, come Tzintzuntzan e Ihuatzio. È una tappa da valutare con attenzione: il Michoacán è al livello 4 degli avvisi di viaggio USA e tra gli stati sconsigliati dalla Svizzera nel 2026.',
+      'Per la notte di Janitzio e per i cimiteri dei paesi del lago, come Tzintzuntzan e Ihuatzio. È una tappa da valutare con attenzione: il Michoacán ha avvisi di sicurezza severi da parte di diversi governi: leggere quelli aggiornati prima di decidere.',
     cosaVedere: [
       'L\'isola di Janitzio e il suo cimitero la notte del 1° novembre',
       'Il cimitero e le yácatas di Tzintzuntzan, l\'antica capitale purépecha',
@@ -710,7 +710,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'La traversata in lancia dal Muelle General per Janitzio',
       'Il tianguis artigianale della Noche de Ánimas',
     ],
-    comeArrivare: 'Bus da Città del Messico via Morelia sull\'autostrada 15D (4-5 ore).',
+    comeArrivare: 'Bus da Città del Messico via Morelia sull\'autostrada 15D.',
     comeSpostarsi: 'Lance dal Muelle General per Janitzio; taxi e colectivos per i paesi del lago.',
     periodoMigliore: 'dal 30 ottobre al 2 novembre per la Noche de Ánimas.',
     erroriDaEvitare: [
@@ -805,7 +805,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     giorniConsigliati: '3-4 giorni',
     visitataPersonalmente: true,
     introduzione:
-      'La capitale della Baja California Sur ha i ritmi di una città di provincia, un lungomare di cinque chilometri sul Mar di Cortez e, davanti, l\'arcipelago disabitato di Espíritu Santo, patrimonio UNESCO. D\'inverno nella baia si nutre lo squalo balena.',
+      'La capitale della Baja California Sur ha i ritmi di una città di provincia, un lungo lungomare sul Mar di Cortez e, davanti, l\'arcipelago disabitato di Espíritu Santo, patrimonio UNESCO. D\'inverno nella baia si nutre lo squalo balena.',
     percheAndarci: 'Per nuotare con lo squalo balena e con i leoni marini di Los Islotes, e per Playa Balandra.',
     cosaVedere: [
       'Il Malecón al tramonto',
@@ -813,16 +813,16 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       'L\'arcipelago di Espíritu Santo e Los Islotes',
     ],
     cosaFare: [
-      'Nuotare con lo squalo balena con un operatore autorizzato CONANP (ottobre-novembre/aprile)',
+      'Nuotare con lo squalo balena con un operatore autorizzato CONANP, in stagione',
       'Snorkeling con i leoni marini a Los Islotes',
       'Kayak e pranzo in spiaggia a Ensenada Grande',
     ],
-    doveDormire: 'Il Malecón o il centro, tutto a piedi. Economico 700-1.200 MXN, medio 1.800-3.000 MXN, alto oltre 4.500 MXN nei resort verso Pichilingue.',
+    doveDormire: 'Il Malecón o il centro, tutto a piedi; resort più tranquilli verso Pichilingue.',
     doveMangiare: 'Tacos de pescado e de camarón, ceviche, aguachile, almejas chocolatas.',
-    comeArrivare: 'Volo da Città del Messico (circa 2 ore e 15); traghetto Baja Ferries da Mazatlán o Topolobampo a Pichilingue.',
+    comeArrivare: 'Volo da Città del Messico; traghetto Baja Ferries da Mazatlán o Topolobampo a Pichilingue.',
     comeSpostarsi: 'Auto a noleggio per spiagge e dintorni; barche dei tour per le isole.',
-    periodoMigliore: 'da novembre ad aprile per lo squalo balena; febbraio-marzo per unire anche le balene grigie.',
-    costi: 'Squalo balena 1.500-2.500 MXN più quota parco; Espíritu Santo 2.500-3.500 MXN; Balandra circa 120 MXN a turno.',
+    periodoMigliore: 'fra l\'autunno e la primavera per lo squalo balena, quando la CONANP apre la stagione.',
+    costi: 'Squalo balena ed Espíritu Santo con tour a prezzi variabili, più la quota del parco; Balandra ha una quota d\'ingresso da verificare prima di partire.',
     erroriDaEvitare: [
       'Andare a Balandra senza aver prenotato il turno',
       'Scegliere un operatore non autorizzato per lo squalo balena',
@@ -843,7 +843,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
           "quando": "Mattina presto.",
           "tempo": "Mezza giornata",
           "consiglio": "Arrivare presto e portare acqua e cibo: in spiaggia non si vende niente, e i rifiuti si riportano indietro.",
-          "costo": "120 MXN per nazionali e stranieri (quota riportata nel 2025): verificare prima di partire."
+          "costo": "Quota d'ingresso dell'area protetta: verificare l'importo con la CONANP prima di partire."
         },
         {
           "nome": "Isla Espíritu Santo e Los Islotes",
@@ -927,18 +927,17 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     giorniConsigliati: '1-2 giorni',
     visitataPersonalmente: true,
     introduzione:
-      'Una grande baia del Pacifico protetta da isole di sabbia, a circa tre ore da La Paz, con i villaggi di pescatori di Puerto Adolfo López Mateos e Puerto San Carlos. Da gennaio ad aprile le balene grigie vi partoriscono e allattano i piccoli.',
+      'Una grande baia del Pacifico protetta da isole di sabbia, raggiungibile in auto da La Paz, con i villaggi di pescatori di Puerto Adolfo López Mateos e Puerto San Carlos. D\'inverno le balene grigie vi partoriscono e allattano i piccoli.',
     percheAndarci: 'Per vedere da vicino le madri di balena grigia con i piccoli, dalle pangas delle cooperative locali.',
     cosaVedere: ['Le lagune delle balene grigie', 'Le dune delle isole barriera', 'I villaggi di pescatori'],
     cosaFare: [
       'Un\'uscita in panga al mattino, quando il vento è più debole',
-      'Il Festival de la Ballena Gris a fine gennaio-febbraio a López Mateos',
     ],
-    doveDormire: 'Alloggi semplici e piccoli motel nei due villaggi (700-1.500 MXN); campi tendati a pacchetto sulle isole.',
+    doveDormire: 'Alloggi semplici e piccoli motel nei due villaggi; campi tendati a pacchetto sulle isole.',
     doveMangiare: 'Pesce e frutti di mare dei pescatori in ristoranti familiari.',
-    comeArrivare: 'In auto da La Paz (circa 3 ore) o da Loreto (circa 2,5-3 ore), via Ciudad Constitución.',
-    periodoMigliore: 'da metà febbraio a fine marzo; stagione ufficiale gennaio-aprile.',
-    costi: 'Panga indicativamente 1.500-2.000 MXN all\'ora per barca (6-8 persone), solo contanti.',
+    comeArrivare: 'In auto da La Paz o da Loreto, via Ciudad Constitución.',
+    periodoMigliore: 'l\'inverno, nella stagione delle balene grigie: verificare le date con le cooperative.',
+    costi: 'Uscite in panga con prezzo per barca da concordare, solo contanti.',
     erroriDaEvitare: [
       'Arrivare senza contanti',
       'Pianificare le uscite nel pomeriggio, quando il vento alza la laguna',
@@ -949,7 +948,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
           "nome": "Avvistamento delle balene grigie",
           "testo": "Le lagune di Bahía Magdalena ospitano ogni anno le balene grigie che vengono a partorire. Si esce in panga e le balene si avvicinano alla barca.",
           "come": "Panga con operatore da Puerto Adolfo López Mateos o Puerto San Carlos.",
-          "quando": "Da gennaio a marzo, al mattino con meno vento.",
+          "quando": "In inverno, nella stagione delle balene; al mattino, con meno vento.",
           "tempo": "2-3 ore",
           "consiglio": "Un'uscita al mattino, quando il vento è più debole."
         },
@@ -1017,7 +1016,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         }
       ],
       "attenzioni": [
-        "La stagione delle balene va da gennaio a marzo: fuori stagione non si vedono.",
+        "Le balene grigie ci sono solo d'inverno: verificare la stagione prima di partire.",
         "Il vento del pomeriggio rende il mare mosso: prenotare il mattino.",
         "Pochi servizi: portare contanti.",
         "Le uscite con le balene sono regolate: solo con pangas autorizzate, con tempi e distanze limitati.",
@@ -1038,22 +1037,22 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     giorniConsigliati: '2 giorni',
     visitataPersonalmente: true,
     introduzione:
-      'Un Pueblo Mágico sul Mar di Cortez fondato nel 1697 dai gesuiti, con la prima missione delle Californie e un parco nazionale marino dove d\'inverno passa la balenottera azzurra.',
-    percheAndarci: 'Per la balenottera azzurra (metà gennaio-fine marzo), per le isole del parco e per la tranquillità del paese.',
+      'Un Pueblo Mágico sul Mar di Cortez fondato nel 1697 dai gesuiti, con la storica missione gesuita e un parco nazionale marino dove in stagione si avvistano le balene.',
+    percheAndarci: 'Per le balene in stagione, per le isole del parco e per la tranquillità del paese.',
     cosaVedere: [
       'La Misión de Nuestra Señora de Loreto',
       'Il Parque Nacional Bahía de Loreto e Isla Coronado',
       'La Misión de San Javier nella Sierra de la Giganta',
     ],
     cosaFare: [
-      'Un\'uscita di circa cinque ore per la balenottera azzurra con lancheros autorizzati',
+      'Un\'uscita in barca per le balene, in stagione, con lancheros autorizzati',
       'Snorkeling e spiaggia a Isla Coronado',
     ],
-    doveDormire: 'Il centro storico vicino alla missione (fascia media 1.200-2.500 MXN); resort a Nopoló per la fascia alta.',
+    doveDormire: 'Il centro storico vicino alla missione; resort a Nopoló per la fascia alta.',
     doveMangiare: 'Pesce del giorno e almejas sul malecón.',
-    comeArrivare: 'In auto da La Paz (4,5-5 ore) o da Bahía Magdalena (2,5-3 ore); piccolo aeroporto con voli soprattutto da Stati Uniti e Tijuana.',
-    periodoMigliore: 'da metà gennaio a fine marzo per la balenottera azzurra.',
-    costi: 'Uscita per la balenottera azzurra da circa 3.000 MXN a persona.',
+    comeArrivare: 'In auto da La Paz o da Bahía Magdalena; piccolo aeroporto con voli soprattutto da Stati Uniti e Tijuana.',
+    periodoMigliore: 'l\'inverno per le balene: verificare la stagione con gli operatori.',
+    costi: 'Uscite per le balene e per le isole con operatori autorizzati, a prezzi variabili.',
     erroriDaEvitare: [
       'Arrivare a Loreto senza aver fatto benzina nel tratto da Ciudad Constitución',
       'Prenotare con operatori senza permesso del parco',
@@ -1061,7 +1060,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Misión de Nuestra Señora de Loreto",
-          "testo": "La prima missione stabile della Baja California, fondata dal gesuita Juan María de Salvatierra nel 1697, con il museo delle missioni accanto alla chiesa. Da qui partì l'espansione verso tutta la penisola; la chiesa in pietra, costruita fra il 1740 e il 1744, è ancora il centro della vita del paese.",
+          "testo": "La missione gesuita di Loreto, fondata dal gesuita Juan María de Salvatierra nel 1697, con il museo delle missioni accanto alla chiesa. Da qui partì l'espansione verso tutta la penisola; la chiesa in pietra, costruita fra il 1740 e il 1744, è ancora il centro della vita del paese.",
           "come": "A piedi dal centro.",
           "quando": "Mattina.",
           "tempo": "1 ora",
@@ -1069,14 +1068,14 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         },
         {
           "nome": "Parco Nazionale Bahía de Loreto e Isla Coronado",
-          "testo": "Parco marino creato nel 1996 e parte del sito UNESCO del Golfo di California, con isole, snorkeling e balene in stagione. Isla Coronado, una delle isole principali, ha una spiaggia bianca, acqua trasparente e leoni marini sugli scogli; in barca capita di incrociare delfini.",
+          "testo": "Parco marino, parte del sito UNESCO del Golfo di California, con isole, snorkeling e balene in stagione. Isla Coronado, una delle isole principali, ha una spiaggia bianca, acqua trasparente e leoni marini sugli scogli; in barca capita di incrociare delfini.",
           "come": "Barca da Loreto con operatore autorizzato.",
           "quando": "Mattina; mare calmo.",
           "tempo": "Giornata intera"
         },
         {
           "nome": "Misión San Javier",
-          "testo": "Missione gesuita fondata nel 1699 nella Sierra de la Giganta, raggiunta da una strada di montagna fra canyon e oasi di palme. La chiesa in pietra, costruita fra il 1744 e il 1758, è considerata il gioiello delle missioni della Baja ed è curata dall'INAH.",
+          "testo": "Missione gesuita fondata nel 1699 nella Sierra de la Giganta, raggiunta da una strada di montagna fra canyon e oasi di palme. La chiesa in pietra, costruita fra il 1744 e il 1758 ed è curata dall'INAH.",
           "come": "Auto o tour da Loreto, attraverso la sierra.",
           "quando": "Mattina.",
           "tempo": "Mezza giornata",
@@ -1110,7 +1109,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       "sapori": [
         {
           "nome": "Almejas tatemadas",
-          "testo": "Le vongole chocolatas cotte sotto un fuoco di erbe secche, direttamente sulla sabbia: la specialità di Loreto. Si mangiano con lime e salsa."
+          "testo": "Le vongole chocolatas cotte sotto un fuoco di erbe secche, direttamente sulla sabbia: un piatto tipico di Loreto. Si mangiano con lime e salsa."
         },
         {
           "nome": "Tacos di pesce",
@@ -1145,12 +1144,12 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     giorniConsigliati: '1-2 giorni',
     visitataPersonalmente: true,
     introduzione:
-      'Un Pueblo Mágico sul Pacifico proprio sul Tropico del Cancro, con case coloniali, gallerie e caffè, e spiagge di surf come Playa Cerritos. Più tranquillo e meno caro di Los Cabos, a un\'ora di strada.',
+      'Un Pueblo Mágico sul Pacifico proprio sul Tropico del Cancro, con case coloniali, gallerie e caffè, e spiagge di surf come Playa Cerritos. Più tranquillo e meno caro di Los Cabos.',
     percheAndarci: 'Per una sosta lenta tra La Paz e Cabo, surf a Cerritos e le liberazioni di tartarughe in stagione.',
     cosaVedere: ['Il centro storico e le gallerie', 'Playa Cerritos', 'Le spiagge del Pacifico al tramonto'],
     cosaFare: ['Lezione di surf a Cerritos', 'Liberazione delle tartarughe con i progetti locali, nelle stagioni di schiusa'],
-    doveDormire: 'Centro storico, con piccoli hotel di charme (2.000-5.000 MXN) e qualche guesthouse economica.',
-    comeArrivare: 'In auto da La Paz (circa 1 ora) o da Cabo San Lucas (circa 1 ora).',
+    doveDormire: 'Centro storico, con piccoli hotel di charme e qualche guesthouse economica.',
+    comeArrivare: 'In auto da La Paz o da Cabo San Lucas.',
     periodoMigliore: 'da novembre ad aprile.',
     erroriDaEvitare: ['Nuotare sulle spiagge aperte del Pacifico fuori da Cerritos: correnti forti'],
       "luoghi": [
@@ -1222,7 +1221,6 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       ],
       "attenzioni": [
         "Nuotare sulle spiagge aperte del Pacifico fuori da Cerritos: correnti forti.",
-        "Strada da La Paz e da Cabo San Lucas: circa un'ora di auto.",
         "Le gallerie chiudono a ore variabili: controllare.",
         "Da metà maggio a novembre è la stagione degli uragani del Pacifico: controllare i bollettini prima di partire."
       ],
@@ -1240,21 +1238,21 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     giorniConsigliati: '2-3 giorni',
     visitataPersonalmente: true,
     introduzione:
-      'La punta della penisola, con due città molto diverse: Cabo San Lucas, turistica e notturna, con El Arco dove il Mar di Cortez incontra il Pacifico, e San José del Cabo, coloniale e tranquilla. A nord-est, Cabo Pulmo ha l\'unica barriera corallina dura del Golfo di California.',
-    percheAndarci: 'Per le megattere (dicembre-aprile), El Arco e Cabo Pulmo, e per l\'aeroporto di rientro.',
+      'La punta della penisola, con due città molto diverse: Cabo San Lucas, turistica e notturna, con El Arco dove il Mar di Cortez incontra il Pacifico, e San José del Cabo, coloniale e tranquilla. A nord-est, Cabo Pulmo ha una delle rare barriere coralline della costa occidentale del Nord America.',
+    percheAndarci: 'Per le megattere d\'inverno, El Arco e Cabo Pulmo, e per l\'aeroporto di rientro.',
     cosaVedere: ['El Arco e Playa del Amor', 'Il centro e il quartiere delle gallerie di San José del Cabo', 'Il parco nazionale di Cabo Pulmo'],
     cosaFare: [
       'Whale watching per le megattere',
       'L\'Art Walk del giovedì sera a San José del Cabo (novembre-giugno)',
       'Snorkeling a Cabo Pulmo con operatori del paese',
     ],
-    doveDormire: 'San José del Cabo per la fascia media (1.800-3.500 MXN); il Corridor per i resort di fascia alta, spesso oltre 7.000 MXN; Cabo San Lucas per la vita notturna.',
-    comeArrivare: 'Aeroporto di San José del Cabo (SJD), con voli per Città del Messico e diretti per gli Stati Uniti; in auto da Todos Santos (circa 1 ora).',
-    periodoMigliore: 'da dicembre ad aprile per le megattere.',
-    costi: 'Whale watching 1.000-2.000 MXN a persona.',
+    doveDormire: 'San José del Cabo per la fascia media; il Corridor per i resort di fascia alta; Cabo San Lucas per la vita notturna.',
+    comeArrivare: 'Aeroporto di San José del Cabo (SJD), con voli per Città del Messico e diretti per gli Stati Uniti; in auto da Todos Santos.',
+    periodoMigliore: 'l\'inverno per le megattere.',
+    costi: 'Whale watching e taxi acquatici a prezzi variabili: confrontare gli operatori.',
     erroriDaEvitare: [
       'Fermarsi con i venditori di multiproprietà in aeroporto e nella Marina',
-      'Sottovalutare i prezzi, i più alti della Baja',
+      'Sottovalutare i prezzi, molto alti',
     ],
       "luoghi": [
         {
@@ -1274,7 +1272,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         },
         {
           "nome": "Parco Nazionale Cabo Pulmo",
-          "testo": "La più antica delle sole tre barriere coralline della costa occidentale del Nord America, nel parco nazionale creato nel 1995 e parte del sito UNESCO del Golfo di California. Snorkeling e immersioni con banchi di pesci enormi.",
+          "testo": "La più antica delle sole tre barriere coralline della costa occidentale del Nord America, in un parco nazionale parte del sito UNESCO del Golfo di California. Snorkeling e immersioni con banchi di pesci enormi.",
           "come": "Auto da Los Cabos, poi barca con un operatore del paese.",
           "quando": "Mattina.",
           "tempo": "Giornata intera"
@@ -1283,7 +1281,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
           "nome": "Whale watching delle megattere",
           "testo": "Avvistamento delle megattere nelle acque di Los Cabos. D'inverno arrivano qui per riprodursi e partorire: dalla barca si vedono salti, colpi di coda e, con un po' di fortuna, madri con il piccolo.",
           "come": "Barca da Cabo San Lucas o San José del Cabo.",
-          "quando": "Dicembre-aprile.",
+          "quando": "D'inverno, in stagione.",
           "tempo": "2-3 ore"
         }
       ],
@@ -1300,7 +1298,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
           "titolo": "2 giorni",
           "tappe": [
             "Giorno 1: El Arco e Cabo San Lucas",
-            "Giorno 2: Cabo Pulmo o balene (dicembre-aprile)"
+            "Giorno 2: Cabo Pulmo o balene (d'inverno)"
           ]
         }
       ],
@@ -1331,7 +1329,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         },
         {
           "nome": "Margarita",
-          "testo": "Tequila, lime e triple sec con il sale sul bordo, nei bar di Cabo San Lucas. L'happy hour del pomeriggio dimezza il conto."
+          "testo": "Tequila, lime e triple sec con il sale sul bordo, nei bar di Cabo San Lucas."
         }
       ],
       "attenzioni": [

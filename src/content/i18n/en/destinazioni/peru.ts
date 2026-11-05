@@ -44,7 +44,7 @@ export const destinazioniPeru: Destinazione[] = [
     luoghi: [
       {
         "nome": "Plaza de Armas and Cathedral",
-        "testo": "The colonial heart of Cusco: arcades, wooden balconies and a Cathedral built over almost a century with blocks taken from Sacsayhuamán. In the evening, with the churches lit up, it is the place to catch your breath after the arrival day.",
+        "testo": "The colonial heart of Cusco: arcades, wooden balconies and a Cathedral built with blocks taken from Sacsayhuamán. In the evening, with the churches lit up, it is the place to catch your breath after the arrival day.",
         "come": "In the centre, a walk from almost every hotel. The Cathedral has its own ticket, not included in the general Boleto Turístico.",
         "quando": "The square is best at dawn and after sunset, when tour groups are elsewhere.",
         "tempo": "1-2 hours with the Cathedral",
@@ -69,7 +69,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "San Blas and the Stone of Twelve Angles",
-        "testo": "The artisans' quarter, all steep lanes, workshops and cafés. In Calle Hatun Rumiyoc is the twelve-angled stone, an Inca block fitted perfectly among the others, the most photographed wall in Cusco.",
+        "testo": "The artisans' quarter, all steep lanes, workshops and cafés. In Calle Hatun Rumiyoc is the twelve-angled stone, an Inca block fitted perfectly among the others.",
         "come": "On foot from the square. The streets are steep and cobbled.",
         "quando": "All day; the workshops are livelier in the afternoon.",
         "tempo": "1-2 hours",
@@ -85,11 +85,11 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Rainbow Mountain (Vinicunca)",
-        "testo": "The striped mountain in ochre, pink and turquoise, above 5,000 metres. A day trip from Cusco, with a final walk at altitude that is hard on your breath more than on distance.",
+        "testo": "The striped mountain in ochre, pink and turquoise, at very high altitude. A day trip from Cusco, with a final walk at altitude that is hard on your breath more than on distance.",
         "come": "A day trip leaving Cusco at night, a few hours on the road and an uphill walk. You go with an agency.",
         "quando": "Dry season. Leave before dawn for fewer crowds.",
         "tempo": "Full day",
-        "consiglio": "Do it after at least 3-4 days of acclimatisation. Rick also did Humantay lake and other lakes nearby, always after getting used to the altitude."
+        "consiglio": "Do it after a few days of acclimatisation. Rick also did Humantay lake and other lakes nearby, always after getting used to the altitude."
       }
     ],
     programmi: [
@@ -99,7 +99,7 @@ export const destinazioniPeru: Destinazione[] = [
           "Morning: Plaza de Armas and Cathedral",
           "Qorikancha and lunch at San Pedro market",
           "Afternoon: San Blas and the Stone of Twelve Angles",
-          "Evening: light dinner and early bed, at 3,400 metres"
+          "Evening: light dinner and early bed, you are at altitude"
         ]
       },
       {
@@ -212,7 +212,7 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Pisac",
         "testo": "A town with a craft market and, on the hill, an Inca site with terraces and a ceremonial quarter. The site is less visited than Machu Picchu and you walk it almost alone.",
-        "come": "From Cusco by shared van or car, about 32 km. The archaeological site is included in the Boleto Turístico; the market is in the village.",
+        "come": "From Cusco by shared van or car. The archaeological site is included in the Boleto Turístico; the market is in the village.",
         "quando": "Early morning for the site, then the market. The market runs on Tuesday, Thursday and Sunday; the biggest is on Sunday.",
         "tempo": "Half a day",
         "consiglio": "If you have only one day, go to the site in the morning and come down to the market for lunch."
@@ -223,7 +223,7 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "By car or shared van from Cusco. You visit on foot. The site is included in the Boleto Turístico.",
         "quando": "The site in the morning; the town is at its best in the evening, when the tour buses have left.",
         "tempo": "2-3 hours for the site, one night for the town",
-        "consiglio": "Sleep here the night before the train to Machu Picchu: you gain more than an hour of sleep compared with leaving from Cusco.",
+        "consiglio": "Sleep here the night before the train to Machu Picchu: you sleep longer than if you leave from Cusco.",
         "url": "https://cosituccusco.pe/tarifario/"
       },
       {
@@ -485,13 +485,13 @@ export const destinazioniPeru: Destinazione[] = [
     luoghi: [
       {
         "nome": "The citadel and the visiting circuits",
-        "testo": "The 15th-century Inca complex with agricultural terraces, the Temple of the Sun, the Royal Enclosure and the Intihuatana, the ritual stone linked to the sun, one of the few to survive colonial destruction.",
-        "come": "You reach Aguas Calientes by train or on foot, then the shuttle bus or a climb on foot. Inside the site the route is fixed: you choose the circuit when you buy and cannot wander freely. A guide is compulsory.",
+        "testo": "The 15th-century Inca complex with agricultural terraces, the Temple of the Sun, the Royal Enclosure and the Intihuatana, the ritual stone linked to the sun.",
+        "come": "You reach Aguas Calientes by train or on foot, then the shuttle bus or a climb on foot. Inside the site the route is fixed: you choose the circuit when you buy and cannot wander freely. Rules on guides and circuits are on the official portal.",
         "quando": "The first slot is the quietest and repays the early alarm. The dry season is also when tickets sell out first.",
         "tempo": "3-4 hours",
-        "costo": "152 soles for foreign adults on the circuits without a mountain (2026); an 11-sol increase was announced from 1 May 2026. Tickets only on the official portal",
+        "costo": "152 soles for foreign adults on the circuits without a mountain (2026). Check the current fare on the official portal, the only place to buy",
         "url": "https://tuboleto.cultura.pe/",
-        "consiglio": "Sleep in Aguas Calientes to enter at the first slot. You cannot eat inside: bring water and a snack to eat before entering."
+        "consiglio": "Sleep in Aguas Calientes to enter at the first slot. Bring water and a snack to eat before entering."
       },
       {
         "nome": "Huayna Picchu",
@@ -499,7 +499,7 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Separate ticket with timed entry and very limited places. The climb starts inside the site: allow plenty of time, it is steep.",
         "quando": "Morning time slots. Book well ahead, especially in peak months.",
         "tempo": "2-3 hours",
-        "costo": "200 soles for foreign adults (route 3-A, 2026)",
+        "costo": "Separate from the citadel-only ticket: fare on the official portal",
         "url": "https://tuboleto.cultura.pe/",
         "consiglio": "Rick did it: it is beautiful, but anyone with vertigo should think hard."
       },
@@ -507,9 +507,9 @@ export const destinazioniPeru: Destinazione[] = [
         "nome": "Machu Picchu Mountain",
         "testo": "The mountain behind the citadel, an alternative to Huayna Picchu, with a wider view and a longer but less exposed route.",
         "come": "Separate limited-entry ticket, same booking rules as Huayna Picchu. The climb starts from the site.",
-        "quando": "Morning slots; book months ahead.",
+        "quando": "Morning slots; book well ahead.",
         "tempo": "3-4 hours up and down",
-        "costo": "200 soles for foreign adults (route 1-A, 2026)",
+        "costo": "Separate from the citadel-only ticket: fare on the official portal",
         "url": "https://tuboleto.cultura.pe/",
         "consiglio": "If Huayna Picchu is sold out or you fear exposed stretches, this is the alternative."
       },
@@ -532,7 +532,7 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Getting there: train, Inca Trail, Salkantay, Hidroeléctrica",
         "testo": "How you go weighs on the budget more than the entry fee. Rick arrived by train in economy class, by minibus to Hidroeléctrica and then on foot, and on a five-day trek.",
-        "come": "PeruRail or IncaRail train from Ollantaytambo or Cusco; Salkantay trek without capped permits; Inca Trail only with an authorised agency and permits that sell out months ahead.",
+        "come": "PeruRail or IncaRail train from Ollantaytambo or Cusco; Salkantay trek without capped permits; Inca Trail only with an authorised agency and permits that sell out well ahead.",
         "quando": "The Inca Trail is closed in February. The dry season is the most in demand.",
         "tempo": "From 1 day (train) to 4-5 days (trek)",
         "consiglio": "With fixed dates: train from Ollantaytambo and a night in Aguas Calientes. With 4-5 days, the Salkantay."
@@ -698,7 +698,7 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "The citadel of Choquequirao",
         "testo": "An Inca citadel called Machu Picchu's \"sister city\" for its layout and architecture, only partly excavated (30-40%). Few people get here, because there is no way but walking.",
-        "come": "Only on foot from Cachora, after two days of walking. You camp near the site; a guide is not mandatory but advised.",
+        "come": "Only on foot from Cachora, after two days of walking. You camp near the site; a guide is advised.",
         "quando": "Dry season. In the rainy season the trail is dangerous.",
         "tempo": "A morning or a full day; two nights is best",
         "costo": "Site entry paid at the control point before the citadel; fare on the Ministry of Culture site",
@@ -722,7 +722,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Marampata and the camps along the trail",
-        "testo": "The village closest to the site, with some families renting tent space and basic services. Lower down, Chiquisca and Santa Rosa are the classic stops.",
+        "testo": "The village just before the site, with some families renting tent space and basic services. Lower down, Chiquisca and Santa Rosa are the classic stops.",
         "come": "Along the trail, shortly before the site.",
         "quando": "As an evening stop, before the last climb.",
         "tempo": "One night",
@@ -897,7 +897,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Sandoval Lake",
-        "testo": "A horseshoe lake where you see giant otters, caimans and birds. You reach it with a walk in the forest and then by canoe.",
+        "testo": "A forest lake where you see birds and caimans and, with some luck, giant otters. You reach it with a walk in the forest and then by canoe.",
         "come": "Excursion organised by the lodges, on foot plus canoe.",
         "quando": "Morning or late afternoon.",
         "tempo": "Half a day",
@@ -905,7 +905,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Iquitos and Pacaya-Samiria",
-        "testo": "Iquitos is the largest city in the world not reachable by road. From the city, expeditions leave for the Pacaya-Samiria reserve, where Rick went with Ruth Amazon Expedition: nights in farmers' houses and in tents in the forest.",
+        "testo": "Iquitos is a city you cannot reach by road. From the city, expeditions leave for the Pacaya-Samiria reserve, where Rick went with Ruth Amazon Expedition: nights in farmers' houses and in tents in the forest.",
         "come": "Flight from Lima or boat along the river. From Iquitos tours leave from agencies and lodgings.",
         "quando": "All year; the dry season makes the trails easier.",
         "tempo": "3-4 days for an expedition",
@@ -915,8 +915,8 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Manu",
-        "testo": "The Manu National Park, one of the richest protected areas for wildlife on the planet, with long and difficult access.",
-        "come": "From Cusco by road and then by boat, with two days of transfer.",
+        "testo": "The Manu National Park, a protected area very rich in wildlife, with long and difficult access.",
+        "come": "From Cusco by road and then by boat, with a long transfer.",
         "quando": "Dry season.",
         "tempo": "6-8 days",
         "consiglio": "Choose it only with at least a week and a high budget."
@@ -967,7 +967,7 @@ export const destinazioniPeru: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Yellow fever vaccination: recommended and required by some lodges.",
+      "Yellow fever vaccination: recommended for the Amazon, ask your doctor before you go.",
       "Repellent, headlamp and waterproof bags for electronics.",
       "Two nights are too few: the first and last days go in transfers.",
       "Areas bordering Ecuador, Colombia and Brazil: higher risk from drug-related crime, follow official travel advice.",
@@ -1062,15 +1062,15 @@ export const destinazioniPeru: Destinazione[] = [
     luoghi: [
       {
         "nome": "Puno",
-        "testo": "The base for the lake, at about 3,800 metres. It has a lively centre and the port the boats leave from. It is higher than Cusco: altitude sickness is more likely.",
-        "come": "From Cusco by tourist bus with stops (a full day), the Andean Explorer luxury train or a flight to Juliaca. Buses also from Arequipa.",
+        "testo": "The base for the lake, at high altitude. It has a lively centre and the port the boats leave from. It is higher than Cusco: altitude sickness is more likely.",
+        "come": "From Cusco by tourist bus with stops (a full day), a tourist train or a flight to Juliaca. Buses also from Arequipa.",
         "quando": "Dry season, for the sun.",
         "tempo": "1-2 days",
         "consiglio": "Arrive already acclimatised and do not plan anything heavy on the first day."
       },
       {
         "nome": "Uros islands",
-        "testo": "Floating totora reed islands, built by the communities that still live on them. The visit is touristy: half an hour of explanation about how an island is built.",
+        "testo": "Floating totora reed islands, built by the communities that still live on them. The visit is touristy: a short explanation about how an island is built.",
         "come": "Boat from Puno, a short ride.",
         "quando": "Morning.",
         "tempo": "1-2 hours",
@@ -1078,7 +1078,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Taquile",
-        "testo": "An island with a village and traditional weaving, UNESCO heritage. Lunch with a view of the Bolivian side of the lake.",
+        "testo": "An island with a village and traditional weaving. Lunch with a view of the lake.",
         "come": "Boat from Puno, a few hours' sailing, then uphill on foot.",
         "quando": "Morning and lunch.",
         "tempo": "Half a day",
@@ -1122,7 +1122,7 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Puno centre",
         "perChi": "Those who need logistics",
-        "testo": "Lodging, agencies and restaurants, but at 3,800 metres nights are cold."
+        "testo": "Lodging, agencies and restaurants, but at this altitude nights are cold."
       },
       {
         "nome": "Amantaní (homestay)",
@@ -1226,7 +1226,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Larco Museum",
-        "testo": "One of the country's most important collections of pre-Columbian art, in a viceregal house with gardens.",
+        "testo": "A large collection of pre-Columbian art, in a viceregal house with gardens.",
         "come": "By taxi or app, in Pueblo Libre.",
         "quando": "Morning, to avoid groups. Check hours and days on the site.",
         "tempo": "2 hours",
@@ -1295,7 +1295,7 @@ export const destinazioniPeru: Destinazione[] = [
       "Unofficial taxis at the airport exit: one of the places where thefts are most frequent. Only booked taxis or apps.",
       "Robberies even in tourist areas such as Miraflores and Barranco: no valuables on show, phone away from the roadside, ATMs only inside banks or buildings.",
       "Traffic is heavy: always add time.",
-      "Book high-end restaurants weeks ahead."
+      "Book high-end restaurants ahead."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario', 'peru-due-settimane'],
@@ -1347,7 +1347,7 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "On foot from the historic centre.",
         "quando": "Evening, with warm light on the sillar.",
         "tempo": "1 hour",
-        "consiglio": "Arequipa is at 2,300 metres: the right stop to acclimatise before Cusco or Puno."
+        "consiglio": "Arequipa is lower than Cusco and Puno: the right stop to acclimatise before Cusco or Puno."
       },
       {
         "nome": "Santa Catalina Monastery",
@@ -1361,7 +1361,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Andean Sanctuaries Museum and the mummy Juanita",
-        "testo": "A museum with the mummy of an Inca girl sacrificed on the Ampato volcano, found in a perfect state of preservation.",
+        "testo": "A museum with the mummy of an Inca girl sacrificed on the Ampato volcano, found very well preserved.",
         "come": "On foot from the centre. Guided visit.",
         "quando": "Check hours and closing days before going.",
         "tempo": "1 hour",
@@ -1369,8 +1369,8 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Cruz del Cóndor",
-        "testo": "The Andean condor viewpoint in the Colca Canyon, one of the deepest in the world. The condors fly close past the canyon walls.",
-        "come": "Organised tour from Arequipa (the canyon is about 160 km away) or scheduled bus to Chivay and Cabanaconde, with transfer to the viewpoint.",
+        "testo": "The Andean condor viewpoint in the Colca Canyon. The condors fly close past the canyon walls.",
+        "come": "Organised tour from Arequipa or scheduled bus to Chivay and Cabanaconde, with transfer to the viewpoint.",
         "quando": "Early morning, all year.",
         "tempo": "1-2 hours at the spot",
         "consiglio": "Sleep in Chivay or Cabanaconde the night before to arrive early."
@@ -1418,18 +1418,18 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Chivay",
         "perChi": "Those visiting the canyon without trekking",
-        "testo": "The largest town in the valley, with hot springs and a market. Above 3,500 metres, cold at night."
+        "testo": "The largest town in the valley, with hot springs and a market. At altitude, cold at night."
       },
       {
         "nome": "Cabanaconde",
         "perChi": "Those who want to hike",
-        "testo": "The town closest to the Cruz del Cóndor and the path to Sangalle. Simple lodging."
+        "testo": "The town near the Cruz del Cóndor and the path to Sangalle. Simple lodging."
       }
     ],
     sapori: [
       {
         "nome": "Rocoto relleno",
-        "testo": "Stuffed hot pepper with meat and cheese, the signature dish of Arequipa."
+        "testo": "Stuffed hot pepper with meat and cheese, a typical Arequipa dish."
       },
       {
         "nome": "Adobo",
@@ -1446,7 +1446,7 @@ export const destinazioniPeru: Destinazione[] = [
     ],
     attenzioni: [
       "Night buses: choose only main companies.",
-      "Altitude in the Colca: villages and viewpoints sit above 3,000 metres.",
+      "Altitude in the Colca: villages and viewpoints are at high altitude.",
       "The Sangalle trek is very hot at the bottom in summer.",
       "Do not buy very cheap tours: stops are often skipped."
     ],
@@ -1495,7 +1495,7 @@ export const destinazioniPeru: Destinazione[] = [
     luoghi: [
       {
         "nome": "Laguna 69",
-        "testo": "The turquoise lake at 4,600 metres, with a colour that looks retouched. It is the classic day trek of the Cordillera Blanca, hard because of altitude more than distance.",
+        "testo": "The high-altitude turquoise lake, with a colour that looks retouched. It is the classic day trek of the Cordillera Blanca, hard because of altitude more than distance.",
         "come": "A day trip leaving Huaraz at dawn, a few hours on the road and then a few hours' uphill walk. Done with an agency or by shared van.",
         "quando": "Dry season. Leave early for a clear sky.",
         "tempo": "Full day",
@@ -1503,7 +1503,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Santa Cruz trek",
-        "testo": "Four days in the range among peaks over 6,000 metres, with tent camps and the Punta Unión pass, the highest point of the route.",
+        "testo": "A multi-day trek in the range among very high peaks, with tent camps and the Punta Unión pass.",
         "come": "With an agency, with mules and a cook, from Huaraz, with a long transfer at the start.",
         "quando": "Dry season.",
         "tempo": "4 days",
@@ -1511,7 +1511,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Laguna Parón",
-        "testo": "The largest lake in the Cordillera Blanca, at about 4,150 metres, ringed by peaks, with turquoise water.",
+        "testo": "A high-altitude lake in the Cordillera Blanca, ringed by peaks, with turquoise water.",
         "come": "Shared van or day tour from Huaraz, with a stretch on dirt road.",
         "quando": "Early morning.",
         "tempo": "Half day or full day",
@@ -1527,7 +1527,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Pastoruri glacier",
-        "testo": "One of the few glaciers reachable in a day, at almost 5,000 metres, in strong retreat.",
+        "testo": "A glacier reachable in a day, at high altitude, in strong retreat.",
         "come": "Day tour, with a short final walk.",
         "quando": "Morning.",
         "tempo": "Full day",

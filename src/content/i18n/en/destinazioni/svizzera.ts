@@ -41,7 +41,7 @@ export const destinazioniSvizzera: Destinazione[] = [
       {
         nome: "Harder Kulm",
         testo: "The viewpoint above Interlaken, at 1,322 metres, with views of both lakes and, on a clear day, of Eiger, Mönch and Jungfrau. At the top are an observation platform and a restaurant in a castle-like building.",
-        come: "Funicular from Harder Bahn station, near Interlaken Ost: an 8-minute ride.",
+        come: "Funicular from Harder Bahn station, near Interlaken Ost.",
         quando: "Late afternoon for the light on the lakes. Seasonal: dates on the official website.",
         tempo: "2 hours",
         consiglio: "Check the webcams before going up: with low cloud the view disappears."
@@ -181,7 +181,7 @@ export const destinazioniSvizzera: Destinazione[] = [
       {
         nome: "Wengen",
         testo: "A car-free village on a high terrace, reached by cog railway. It gives access to Kleine Scheidegg and the line to Jungfraujoch.",
-        come: "Cog railway from Lauterbrunnen, about 15 minutes.",
+        come: "Cog railway from Lauterbrunnen.",
         quando: "All year.",
         tempo: "2 hours",
         consiglio: "Start here for the walk to Männlichen, with views of the Eiger group."
@@ -278,15 +278,15 @@ export const destinazioniSvizzera: Destinazione[] = [
       {
         nome: "First and the Cliff Walk",
         testo: "From Grindelwald the gondola climbs to First, at 2,166 metres, with views of Eiger, Mönch and Jungfrau. The Cliff Walk is a 45-metre metal walkway hanging over the void along the wall.",
-        come: "Gondola from Grindelwald in about 25 minutes, with several sections. The Cliff Walk is included in the ticket.",
+        come: "Gondola from Grindelwald, with several sections. The Cliff Walk is included in the ticket.",
         quando: "Morning, with the clearest sky. Closures and hours vary by season.",
         tempo: "2-3 hours",
-        costo: "About CHF 76 return (2026); half price with the Swiss Travel Pass or Half Fare Card.",
+        costo: "Prices on the official site; discounts with the Swiss Travel Pass or Half Fare Card.",
         consiglio: "The first cabin of the morning has shorter queues; glaciers are clearer before midday."
       },
       {
         nome: "Bachalpsee",
-        testo: "A high lake mirroring the Wetterhorn and Schreckhorn. From First the path is easy, gently uphill, under an hour.",
+        testo: "A high lake mirroring the Wetterhorn and Schreckhorn. From First the path is easy, gently uphill.",
         come: "On foot from First station on the signed path.",
         quando: "Morning, when the water is still and mirrors the mountains.",
         tempo: "2 hours return",
@@ -302,7 +302,7 @@ export const destinazioniSvizzera: Destinazione[] = [
       },
       {
         nome: "Männlichen and the panorama trail",
-        testo: "The ridge between Grindelwald and Wengen, reached by gondola from Grindelwald Terminal. From the station a short climb leads to the crown-shaped viewpoint of the Royal Walk, then the panorama trail sets off towards Kleine Scheidegg, almost all downhill and facing the Eiger, Mönch and Jungfrau. It is the walk with the widest view in the area for the effort it takes.",
+        testo: "The ridge between Grindelwald and Wengen, reached by gondola from Grindelwald Terminal. From the station a short climb leads to the crown-shaped viewpoint of the Royal Walk, then the panorama trail sets off towards Kleine Scheidegg, almost all downhill and facing the Eiger, Mönch and Jungfrau.",
         come: "Männlichen gondola from Grindelwald Terminal; from Kleine Scheidegg take the train back to Grindelwald or Wengen.",
         quando: "Summer, in the morning; gondola times and seasonal closures on the official website.",
         tempo: "half a day",
@@ -396,7 +396,7 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "Fast lift from the station (Top of Europe) to the platform.",
         quando: "Morning, with fewer clouds. Closed in strong wind or storm.",
         tempo: "45 minutes",
-        costo: "Over CHF 200 return from Interlaken Ost in high season, with prices varying by date and big discounts with the Swiss Travel Pass or Half Fare Card (2026); seat reservation CHF 10. The Good Morning Ticket on the first trains is 15% off (May-October 2026).",
+        costo: "An expensive ticket, with prices that vary by date and season; discounts with the Swiss Travel Pass or Half Fare Card. Prices and offers on the official site.",
         url: "https://www.jungfrau.ch/",
         consiglio: "Check the webcam before leaving: on overcast days you see nothing."
       },
@@ -419,9 +419,9 @@ export const destinazioniSvizzera: Destinazione[] = [
       {
         nome: "Eismeer stop",
         testo: "On the way up the train runs in a tunnel inside the Eiger and the Mönch and stops at Eismeer station, at about 3,160 metres. Through windows cut into the rock you look down on the glacier. It lasts a few minutes, but it is when you grasp the feat of the railway, completed in 1912.",
-        come: "About a 5-minute stop included in the journey, uphill only.",
+        come: "A short stop included in the journey, uphill only.",
         quando: "All year.",
-        tempo: "5 minutes",
+        tempo: "a few minutes",
         consiglio: "Sit so you can get off quickly: there are few windows and they get crowded."
       }
     ],
@@ -541,7 +541,7 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "Cable car from Stechelberg (valley) or from Mürren, in several sections.",
         quando: "Morning, with the best light. Closed in high wind.",
         tempo: "2-3 hours",
-        costo: "About CHF 115 return from Stechelberg, about CHF 91 from Mürren (2026); big discounts with the Swiss Travel Pass.",
+        costo: "Prices on the official site, depending on the departure station; big discounts with the Swiss Travel Pass.",
         url: "https://www.schilthorn.ch/",
         consiglio: "From the valley the ride is longer but gives views of the walls."
       },
@@ -654,7 +654,7 @@ export const destinazioniSvizzera: Destinazione[] = [
       {
         nome: "Grimsel Pass",
         testo: "A pass at 2,164 metres between Canton Bern and Valais, in a landscape of reservoirs, dams and granite smoothed by ice. The road has hairpins and lay-bys.",
-        come: "By car from Meiringen towards Gletsch, about 38 km. Usually open from June to October.",
+        come: "By car from Meiringen towards Gletsch. Usually open from June to October.",
         quando: "Morning: less traffic and better light. Check opening in spring and autumn.",
         tempo: "2 hours with stops",
         consiglio: "Stop at the Räterichsboden dam and Lake Grimsel."
@@ -760,8 +760,8 @@ export const destinazioniSvizzera: Destinazione[] = [
     luoghi: [
       {
         nome: "Gornergrat",
-        testo: "The highest open-air cog railway in Europe climbs to 3,089 metres. From the terrace you see the Matterhorn, Monte Rosa and the Gorner glacier.",
-        come: "Rack train from the Gornergrat Bahn station in Zermatt; in summer one leaves every 24 minutes.",
+        testo: "The cog railway climbs to 3,089 metres. From the terrace you see the Matterhorn, Monte Rosa and the Gorner glacier.",
+        come: "Rack train from the Gornergrat Bahn station in Zermatt; frequent departures in summer.",
         quando: "Morning, with the clearest sky.",
         tempo: "Half a day",
         costo: "Return CHF 132 from May to October 2026 and CHF 102 from November 2026 to April 2027; half price with the Swiss Travel Pass or Half Fare Card.",
@@ -770,7 +770,7 @@ export const destinazioniSvizzera: Destinazione[] = [
       },
       {
         nome: "Matterhorn Glacier Paradise",
-        testo: "The station at 3,820 metres, below the Klein Matterhorn summit (3,883 m): the highest point in Europe you can reach by cable car. An ice grotto is cut into the glacier.",
+        testo: "The station at 3,820 metres, below the Klein Matterhorn summit (3,883 m): one of the highest points in Europe you can reach by cable car. An ice grotto is cut into the glacier.",
         come: "Cable car from Zermatt, changing at Furi and Trockener Steg.",
         quando: "Early morning for the clearest sky.",
         tempo: "Half a day",
@@ -781,10 +781,10 @@ export const destinazioniSvizzera: Destinazione[] = [
       {
         nome: "Five Lakes Walk",
         testo: "A hike from Blauherd towards Sunnegga along five alpine lakes (Stellisee, Grindjisee, Grünsee, Moosjisee and Leisee) that mirror the Matterhorn. One of the classic photos.",
-        come: "Funicular to Sunnegga and gondola to Blauherd, then about 11 km on foot, more downhill than up.",
+        come: "Funicular to Sunnegga and gondola to Blauherd, then on foot, more downhill than up.",
         quando: "Summer; the lakes reflect best in the morning.",
         tempo: "3-4 hours",
-        consiglio: "Stellisee is the most photographed: arrive early."
+        consiglio: "Stellisee gets very busy: arrive early."
       },
       {
         nome: "Zermatt village",

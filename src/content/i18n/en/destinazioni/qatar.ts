@@ -98,7 +98,7 @@ export const destinazioniQatar: Destinazione[] = [
     luoghi: [
       {
         "nome": "Museum of Islamic Art",
-        "testo": "The cream limestone building by I.M. Pei, who took on the project at 91, opened in 2008 on an artificial island in front of the Corniche. Inside, manuscripts, ceramics, metals and textiles from the whole Muslim world.",
+        "testo": "I.M. Pei's cream limestone building, opened in 2008 on an artificial island off the Corniche. Inside, manuscripts, ceramics, metalwork and textiles from across the Muslim world.",
         "come": "Taxi or Uber from the centre; the museum also lists a free shuttle bus. You walk through the park.",
         "quando": "Closed on Wednesdays. Saturday-Tuesday 9am-7pm, Thursday 9am-9pm, Friday 1:30-7pm (2026); special closures on the website. At sunset, from the outside steps, you look at the West Bay skyline.",
         "tempo": "2-3 hours",
@@ -107,16 +107,16 @@ export const destinazioniQatar: Destinazione[] = [
       },
       {
         "nome": "Souq Waqif",
-        "testo": "The market largely destroyed by a fire in 2003 and restored between 2006 and 2008, with the modern buildings demolished. It works: textiles, spices, incense and hunting falcons are still sold, in the falcon souq, and next to it there is a falcon hospital. In the evening the alleys and open-air restaurants fill with Qatari families.",
-        "come": "Metro, Gold Line, to Souq Waqif, or Msheireb; you walk the alleys.",
+        "testo": "The historic market, rebuilt in the 2000s in traditional style after the modern buildings were demolished. It is still a working souq: textiles, spices, incense and hunting falcons, in the falcon souq. In the evening the lanes and open-air restaurants fill with Qatari families.",
+        "come": "Metro to Souq Waqif or Msheireb; then walk the lanes.",
         "quando": "In the evening, when the alleys come alive. The falcon souq has split hours, morning and evening: check them on Visit Qatar.",
         "tempo": "2 hours",
-        "consiglio": "The strangest and most Qatari place in the city."
+        "consiglio": "The best place to see everyday Qatari life, especially in the evening."
       },
       {
         "nome": "National Museum of Qatar",
         "testo": "Jean Nouvel's building with intersecting discs inspired by the desert rose. Inside, the country's history from the desert to pearls to gas.",
-        "come": "Metro, Gold Line, to National Museum of Qatar station, or taxi.",
+        "come": "Metro to National Museum of Qatar station, or taxi.",
         "quando": "Closed on Tuesdays. Other days 9am-7pm, Thursday until 9pm, Friday 1:30-7pm; last entry 45 minutes before closing (2026). Some galleries may be closed for works. Best in the morning.",
         "tempo": "2 hours",
         "url": "https://nmoq.org.qa/en/visit/"
@@ -131,7 +131,7 @@ export const destinazioniQatar: Destinazione[] = [
       {
         "nome": "Mathaf: Arab Museum of Modern Art",
         "testo": "The Qatar Museums institution devoted to modern and contemporary art from the Arab world, in a former school in Education City redesigned by Jean-François Bodin. Exhibitions change often and bring together Arab artists rarely seen in Europe.",
-        "come": "By taxi or Uber from the centre, or metro, Green Line, to Education City.",
+        "come": "By taxi or Uber from the centre, or metro to Education City.",
         "quando": "Hours on the Qatar Museums site. Good for the hot hours.",
         "tempo": "1-1.5 hours",
         "costo": "Free for everyone, but a ticket must be booked (2026)",
@@ -140,7 +140,7 @@ export const destinazioniQatar: Destinazione[] = [
       {
         "nome": "Katara Cultural Village",
         "testo": "A cultural district on the sea between West Bay and The Pearl, with a marble amphitheatre, two decorated mosques (the Golden Mosque and the Katara Mosque with turquoise and purple mosaics), galleries, traditional pigeon towers and a public beach. It is where Qataris come in the evening to walk and eat.",
-        "come": "Taxi or metro, Red Line, to Katara Cultural Village, then on foot.",
+        "come": "Taxi or metro to Katara Cultural Village, then on foot.",
         "quando": "Evening, when the heat drops and the amphitheatre lights come on.",
         "tempo": "1.5-2 hours",
         "costo": "Free entry to the district",
@@ -261,8 +261,8 @@ export const destinazioniQatar: Destinazione[] = [
     luoghi: [
       {
         "nome": "Khor Al Adaid (inland sea)",
-        "testo": "An arm of the Gulf that runs into the desert, with dunes dropping straight into the water, on the border with Saudi Arabia. Few places in the world look like this; Qatar has put it forward for UNESCO World Heritage.",
-        "come": "Only by 4x4 with a driver: tires are deflated at the start of the track, then about half an hour of sand. You crest the last dune and below is the sea.",
+        "testo": "An arm of the Gulf reaching into the desert, with dunes running straight down into the water, on the border with Saudi Arabia. Qatar has put it on its UNESCO tentative list.",
+        "come": "On a 4x4 tour from Doha with an experienced driver: the last stretch is on sand. You crest the final dune and the sea is below.",
         "quando": "Afternoon, until sunset.",
         "tempo": "Half a day",
         "consiglio": "Do not do dune bashing right after eating: it is livelier than it looks."
@@ -270,14 +270,14 @@ export const destinazioniQatar: Destinazione[] = [
       {
         "nome": "Al Zubarah Fort",
         "testo": "UNESCO World Heritage since 2013: the port town that flourished in the late 18th century, now an excavation site, and the fort built in 1938 nearby.",
-        "come": "By car from Doha, about 105 km to the north-west.",
+        "come": "By car from Doha, heading north-west.",
         "quando": "Morning.",
         "tempo": "1-1.5 hours",
-        "consiglio": "Bring water and lunch: in the north there is nothing for tens of kilometers."
+        "consiglio": "Bring water and lunch: there are few services in the north."
       },
       {
         "nome": "East-West/West-East by Richard Serra",
-        "testo": "Four steel plates from 2014, between 14.8 and 16.7 metres high, lined up over just under a kilometre in a valley between two gypsum plateaus in the Brouq reserve. You reach them on a track, with no ticket.",
+        "testo": "Four huge steel plates from 2014, lined up over hundreds of metres in a valley in the Brouq reserve. They are reached on a dirt track.",
         "come": "By car, preferably a 4x4, towards the west coast.",
         "quando": "Sunset, when the steel changes color.",
         "tempo": "1-2 hours",
@@ -285,8 +285,8 @@ export const destinazioniQatar: Destinazione[] = [
       },
       {
         "nome": "Al Thakhira mangroves",
-        "testo": "The coast between Al Thakhira and Al Khor has the densest mangroves in Qatar. You paddle a kayak through the channels, with herons, egrets and terns; at low tide the exposed mud is full of crabs.",
-        "come": "By car from Doha, about 60 km north. Kayaks for hire from local operators, best booked.",
+        "testo": "The coast between Al Thakhira and Al Khor has extensive mangroves. You paddle a kayak through the channels, with herons and other birds; at low tide the exposed mud is full of crabs.",
+        "come": "By car from Doha, heading north. Kayaks for hire from local operators, best booked ahead.",
         "quando": "At high tide, early morning or late afternoon, in the cooler months.",
         "tempo": "2-3 hours",
         "consiglio": "Check the tide times before setting off: at low tide the kayaks are left on the mud."
@@ -339,9 +339,9 @@ export const destinazioniQatar: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Reaching Khor Al Adaid with an ordinary car: you get stuck, and it is a classic.",
+      "Going to Khor Al Adaid on your own: the route crosses sand dunes, so an experienced driver is better.",
       "Dune bashing after a meal.",
-      "Going north without water and lunch: there is nothing for tens of kilometers.",
+      "Heading north without water or lunch: services are few.",
       "Planning the desert between June and September."
     ],
     // GUIDA-END

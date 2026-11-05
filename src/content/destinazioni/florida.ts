@@ -40,19 +40,19 @@ export const destinazioniFlorida: Destinazione[] = [
     luoghi: [
       {
         nome: "Little Havana e Calle Ocho",
-        testo: "Il quartiere degli esuli cubani, lungo la Calle Ocho (SW 8th Street): botteghe di sigari, caffè con il caffè cubano e il Domino Park, dove gli anziani giocano a domino ogni giorno.",
-        come: "In auto o con Uber da Miami Beach, circa 20-25 minuti. Si gira a piedi, e l'ingresso al Domino Park è libero.",
-        quando: "Di giorno per il Domino Park. L'ultimo venerdì del mese, da mezzogiorno, sulla Calle Ocho c'è la festa di Viernes Culturales: date sul sito.",
+        testo: "Il quartiere degli esuli cubani, lungo la Calle Ocho (SW 8th Street): botteghe di sigari, caffè con il caffè cubano e il Domino Park, dove gli anziani giocano a domino.",
+        come: "In auto o con Uber da Miami Beach. Si gira a piedi, e l'ingresso al Domino Park è libero.",
+        quando: "Di giorno per il Domino Park. L'ultimo venerdì del mese sulla Calle Ocho c'è la festa di Viernes Culturales: date sul sito.",
         tempo: "2-3 ore",
         costo: "Gratuito (Domino Park)",
         consiglio: "Per me è stata la chicca meno turistica di Miami: un pezzo di vita quotidiana lontano dai circuiti più battuti. Guarda il domino con rispetto e senza fotografare i giocatori da vicino.",
       },
       {
         nome: "Art Deco District di Miami Beach",
-        testo: "Un quartiere di edifici Art Déco anni Trenta e Quaranta, in colori pastello, lungo Ocean Drive e Collins Avenue. È il centro storico di South Beach.",
-        come: "A piedi lungo Ocean Drive; il tour guidato a piedi parte ogni giorno dall'Art Deco Welcome Center, al 1001 di Ocean Drive.",
+        testo: "Un quartiere di edifici Art Déco in colori pastello, lungo Ocean Drive e Collins Avenue. È il centro storico di South Beach.",
+        come: "A piedi lungo Ocean Drive; i tour guidati a piedi partono dall'Art Deco Welcome Center, su Ocean Drive.",
         quando: "Al mattino presto o al tramonto, quando i locali sono meno rumorosi. La sera è molto vivace.",
-        tempo: "1,5 ore",
+        tempo: "1-2 ore",
         costo: "Tour guidato a pagamento: prezzo e orari sul sito della MDPL",
         url: "https://www.mdpl.org/",
         consiglio: "Ocean Drive di sera è chiassosa e cara. Per vedere gli edifici con calma conviene il mattino.",
@@ -60,7 +60,7 @@ export const destinazioniFlorida: Destinazione[] = [
       {
         nome: "Wynwood Walls e i murales di Wynwood",
         testo: "Un quartiere di ex magazzini dove i muri sono coperti da murales di artisti internazionali. Il cuore è il Wynwood Walls, un cortile con opere che cambiano nel tempo.",
-        come: "In auto o Uber da South Beach, 15 minuti. Si gira a piedi.",
+        come: "In auto o Uber da South Beach. Si gira a piedi.",
         quando: "Di giorno per la luce. Il fine settimana è affollato e c'è musica.",
         tempo: "1,5-2 ore",
         costo: "12 $ per adulti (sito ufficiale, 2026)",
@@ -69,8 +69,8 @@ export const destinazioniFlorida: Destinazione[] = [
       },
       {
         nome: "Vizcaya Museum and Gardens",
-        testo: "Una villa in stile rinascimentale italiano costruita negli anni Dieci del Novecento per l'industriale James Deering, con giardini formali sulla baia di Biscayne, nel quartiere di Coconut Grove.",
-        come: "In auto o Uber da South Beach, circa 20 minuti. Si visitano la villa e i giardini.",
+        testo: "Una villa in stile rinascimentale italiano costruita all'inizio del Novecento per l'industriale James Deering, con giardini formali sulla baia di Biscayne, nel quartiere di Coconut Grove.",
+        come: "In auto o Uber da South Beach. Si visitano la villa e i giardini.",
         quando: "Aperto tutti i giorni tranne il martedì, 9.30-16.30 (sito ufficiale, 2026). Meglio il mattino, per il caldo.",
         tempo: "2-3 ore",
         url: "https://vizcaya.org/",
@@ -98,12 +98,12 @@ export const destinazioniFlorida: Destinazione[] = [
     ],
     sapori: [
       { nome: "Cafecito cubano", testo: "Caffè corto e dolcissimo, bevuto al banco nei caffè di Little Havana." },
-      { nome: "Ceviche peruviano", testo: "Pesce marinato con lime, tra i piatti più amati della città, per esempio da CVI.CHE 105." },
+      { nome: "Ceviche peruviano", testo: "Pesce marinato con lime, tra i piatti più amati della città." },
       { nome: "Sandwich cubano", testo: "Pane pressato con prosciutto, maiale arrosto, formaggio e sottaceti." },
       { nome: "Frutta tropicale e frullati", testo: "Mango, guaiava e canna da zucchero dai banchi di Little Havana." },
     ],
     attenzioni: [
-      "Controlla se la mancia (18-20%) è già inclusa nel conto prima di aggiungerla.",
+      "Controlla se la mancia è già inclusa nel conto prima di aggiungerla.",
       "Molti hotel di Miami Beach aggiungono una resort fee al prezzo: guarda il totale prima di prenotare.",
       "Parcheggiare è caro e le multe sono rapide: usa i parcheggi segnalati e le app di pagamento.",
       "Di sera, nei locali di Ocean Drive controlla i prezzi sul menu prima di ordinare: i conti possono essere alti.",
@@ -148,10 +148,9 @@ export const destinazioniFlorida: Destinazione[] = [
     luoghi: [
       {
         nome: "Seven Mile Bridge",
-        testo: "Il ponte lungo circa 11 chilometri sull'Overseas Highway, che attraversa il mare tra due sfumature di azzurro. È uno dei tratti di guida più belli degli Stati Uniti.",
+        testo: "Il ponte lungo circa 11 chilometri sull'Overseas Highway, che attraversa il mare tra due sfumature di azzurro.",
         come: "Si percorre in auto sulla US-1, da Marathon verso Key West. Le soste fotografiche si fanno prima e dopo il ponte, non sopra.",
         quando: "Con il cielo sereno, quando l'acqua ha i colori più vivi.",
-        tempo: "15 minuti di guida",
         costo: "Gratuito",
         consiglio: "Avvicinandosi la strada diventa sempre più bella: ferma l'auto prima o dopo il ponte, mai sopra.",
       },
@@ -175,7 +174,7 @@ export const destinazioniFlorida: Destinazione[] = [
       },
       {
         nome: "Bahia Honda State Park",
-        testo: "Un parco statale con una lunga spiaggia di sabbia bianca, nel 1992 votata la migliore degli Stati Uniti, e un tratto del vecchio ponte ferroviario da cui si vedono le isole intorno.",
+        testo: "Un parco statale con una lunga spiaggia di sabbia bianca e un tratto del vecchio ponte ferroviario da cui si vedono le isole intorno.",
         come: "In auto sulla US-1, circa 19 km a ovest di Marathon. Ingresso a pagamento. Nel parco ci sono uscite in barca per lo snorkeling sulla barriera e il noleggio dell'attrezzatura.",
         quando: "Al mattino, prima del caldo.",
         tempo: "3-4 ore",
@@ -206,7 +205,7 @@ export const destinazioniFlorida: Destinazione[] = [
     attenzioni: [
       "Prenota con anticipo lo snorkeling a Bahia Honda e arriva prima di mezzogiorno per il tour del pomeriggio.",
       "In alta stagione gli alloggi a Key West sono cari e si esauriscono: prenota presto.",
-      "Il sole è forte e la crema solare è obbligatoria; in acqua usa quella compatibile con i coralli.",
+      "Il sole è forte e serve la crema solare; in acqua usa quella compatibile con i coralli.",
       "Controlla il livello di benzina: i distributori sulla strada sono distanziati.",
     ],
     esperienzeSlugs: ['hemingway-home', 'snorkeling-bahia-honda'],
@@ -244,9 +243,9 @@ export const destinazioniFlorida: Destinazione[] = [
     luoghi: [
       {
         nome: "Everglades National Park",
-        testo: "Una palude di acque basse ed erba alta, la più grande area selvaggia subtropicale degli Stati Uniti. Ci vivono alligatori, uccelli come aironi e spatole, e in inverno i lamantini.",
+        testo: "Una palude di acque basse ed erba alta, una vasta area selvaggia subtropicale. Ci vivono alligatori, uccelli come aironi e spatole, e in inverno i lamantini.",
         come: "Il parco ha diversi ingressi. Shark Valley è sulla Tamiami Trail, a ovest di Miami. Nel parco si guida e si cammina sui sentieri su passerelle.",
-        quando: "Mattina presto, prima del caldo; in inverno (dicembre-aprile) è la stagione secca, la migliore per vedere gli animali.",
+        quando: "Mattina presto, prima del caldo; l'inverno è la stagione secca, la migliore per vedere gli animali.",
         tempo: "mezza giornata",
         costo: "35 $ per veicolo, 7 giorni (NPS). I visitatori non residenti negli USA di 16 anni e più pagano anche 100 $ a persona, a meno di avere il pass annuale (NPS, 2026)",
         url: "https://www.nps.gov/ever/",
@@ -254,8 +253,8 @@ export const destinazioniFlorida: Destinazione[] = [
       },
       {
         nome: "Shark Valley",
-        testo: "Un anello asfaltato di circa 24 km nella palude, con una torre panoramica a metà percorso. Si fa in bicicletta, a piedi o con il tram guidato.",
-        come: "Entrata dalla Tamiami Trail. Il tram guidato e il noleggio delle biciclette sono di Shark Valley Tram Tours, il concessionario del parco. Non ci sono mezzi pubblici e con Uber il ritorno non è garantito.",
+        testo: "Un anello asfaltato nella palude, con una torre panoramica a metà percorso. Si fa in bicicletta, a piedi o con il tram guidato.",
+        come: "Entrata dalla Tamiami Trail. Il tram guidato e il noleggio delle biciclette sono gestiti dal concessionario del parco. Non ci sono mezzi pubblici e con Uber il ritorno non è garantito.",
         quando: "Mattina, per evitare il caldo; in inverno per più fauna.",
         tempo: "2-3 ore",
         url: "https://www.nps.gov/ever/",
@@ -264,7 +263,7 @@ export const destinazioniFlorida: Destinazione[] = [
       {
         nome: "Airboat tour",
         testo: "Barche piatte con grande elica che scivolano sulla palude fuori dal parco, tra alligatori e uccelli. Il rumore è forte e si fa con le cuffie.",
-        come: "Si prenota con gli operatori lungo la Tamiami Trail, a 15-20 minuti a est di Shark Valley.",
+        come: "Si prenota con gli operatori lungo la Tamiami Trail, a est di Shark Valley.",
         quando: "Mattina o fine pomeriggio. Gli animali sono più attivi con il caldo moderato.",
         tempo: "1-2 ore",
         consiglio: "È un'esperienza turistica ma divertente; controlla le recensioni e scegli un operatore con guida che spiega la fauna.",
@@ -272,7 +271,7 @@ export const destinazioniFlorida: Destinazione[] = [
       {
         nome: "Naples Pier e 5th Avenue South",
         testo: "Naples è una cittadina elegante sulla costa del Golfo, con un pontile di legno sul mare e una via di negozi e ristoranti, la 5th Avenue South.",
-        come: "In auto dalle Everglades, circa un'ora e mezza. Si gira a piedi.",
+        come: "In auto dalle Everglades. Si gira a piedi.",
         quando: "Il tramonto dal pontile; la sera la 5th Avenue.",
         tempo: "3-4 ore",
         costo: "Gratuito (pontile)",
@@ -293,16 +292,13 @@ export const destinazioniFlorida: Destinazione[] = [
       { nome: "Vicino alle Everglades", perChi: "Chi parte molto presto", testo: "Pochi hotel, soprattutto a Homestead o Florida City, più economici." },
     ],
     sapori: [
-      { nome: "Pasta fresca da Alberto's on 5th", testo: "Ristorante italiano sulla 5th Avenue, consigliato per la pasta." },
-      { nome: "Tacos da Taqueria San Julian", testo: "Cucina messicana semplice a Naples." },
-      { nome: "Costine alla griglia da Michelbob's", testo: "Cucina americana di carne, a Naples." },
       { nome: "Gamberi e pesce del Golfo", testo: "Ristoranti sul mare di Naples." },
     ],
     attenzioni: [
       "Alle Everglades i visitatori non residenti negli USA di 16 anni e più pagano 100 $ a persona oltre all'ingresso (NPS, 2026): il pass annuale per non residenti lo evita.",
       "Zanzare e caldo sono forti: repellente, cappello e acqua.",
       "Non avvicinarti agli alligatori e non dar loro da mangiare.",
-      "Per l'airboat scegli un operatore autorizzato: il sito del parco indica le concessioni lungo la Tamiami Trail.",
+      "Per l'airboat scegli un operatore autorizzato e con buone recensioni.",
     ],
     esperienzeSlugs: ['everglades-airboat'],
     tripSlugs: ['florida-road-trip'],
@@ -336,8 +332,8 @@ export const destinazioniFlorida: Destinazione[] = [
     luoghi: [
       {
         nome: "Universal Orlando Resort",
-        testo: "Tre parchi a tema, Universal Studios Florida, Islands of Adventure ed Epic Universe (aperto a maggio 2025), più il parco acquatico Volcano Bay, con i mondi di Harry Potter, Jurassic Park e Marvel. La sera c'è la zona ristoranti CityWalk.",
-        come: "In auto dagli alloggi della zona di Kissimmee o ChampionsGate, circa 30 minuti. Il biglietto si compra online prima; il parcheggio a pagamento (26 $ a Universal Studios, dal viaggio).",
+        testo: "Tre parchi a tema, Universal Studios Florida, Islands of Adventure ed Epic Universe (aperto nel 2025), più il parco acquatico Volcano Bay, con i mondi di Harry Potter, Jurassic Park e Marvel. La sera c'è la zona ristoranti CityWalk.",
+        come: "In auto dagli alloggi della zona di Kissimmee o ChampionsGate. Il biglietto si compra online prima; il parcheggio a pagamento (26 $ a Universal Studios, dal viaggio).",
         quando: "Arriva almeno un'ora prima dell'apertura. I giorni feriali fuori stagione sono meno affollati.",
         tempo: "1 giornata per parco",
         costo: "Prezzo variabile secondo la data e il numero di parchi: controlla sul sito ufficiale",
@@ -360,7 +356,7 @@ export const destinazioniFlorida: Destinazione[] = [
         quando: "Il tramonto o la sera, per la passeggiata.",
         tempo: "1 ora",
         costo: "Gratuito",
-        consiglio: "Dopo una giornata nei parchi è un posto tranquillo dove cenare in centro, a Gringos Locos o simili.",
+        consiglio: "Dopo una giornata nei parchi è un posto tranquillo dove cenare in centro.",
       },
     ],
     programmi: [
@@ -387,8 +383,6 @@ export const destinazioniFlorida: Destinazione[] = [
     ],
     sapori: [
       { nome: "Burger e ali di pollo", testo: "I ristoranti di cucina americana dentro ai parchi e a CityWalk." },
-      { nome: "Mango's Tropical Café", testo: "Locale con spettacolo serale, tra caraibico e latino." },
-      { nome: "Gringos Locos", testo: "Cucina messicana in centro a Orlando." },
       { nome: "Dolci dei parchi", testo: "Churro e gelati, venduti nei carretti." },
     ],
     attenzioni: [
@@ -436,7 +430,7 @@ export const destinazioniFlorida: Destinazione[] = [
       {
         nome: "Kennedy Space Center Visitor Complex",
         testo: "Il museo e centro visitatori della NASA, con il Rocket Garden, gli edifici dedicati allo Space Shuttle e la storia della corsa alla Luna.",
-        come: "In auto da Orlando, circa un'ora. Il biglietto si compra sul sito ufficiale. All'interno c'è un bus gratuito tra i diversi siti.",
+        come: "In auto da Orlando. Il biglietto si compra sul sito ufficiale. All'interno c'è un bus gratuito tra i diversi siti.",
         quando: "Arriva all'apertura. Controlla il calendario dei lanci prima: a volte si può vedere un lancio dal vivo.",
         tempo: "una giornata",
         costo: "77 $ per adulti, 67 $ per bambini 3-11 anni, biglietto di un giorno, tasse escluse (sito ufficiale, 2026)",
@@ -454,12 +448,11 @@ export const destinazioniFlorida: Destinazione[] = [
       },
       {
         nome: "Atlantis e lo Space Shuttle",
-        testo: "Lo Space Shuttle Atlantis, vero, esposto in una grande sala con la baia del carico aperta e simulatori della missione.",
+        testo: "Lo Space Shuttle Atlantis, vero, esposto in una grande sala con la baia del carico aperta.",
         come: "Dentro il complesso principale, a piedi.",
-        quando: "Al mattino, per evitare le code per i simulatori.",
+        quando: "Al mattino, con meno gente.",
         tempo: "1,5 ore",
         url: "https://www.kennedyspacecenter.com/",
-        consiglio: "Passa dal simulatore con calma: le code si formano nel pomeriggio.",
       },
     ],
     programmi: [
@@ -467,16 +460,15 @@ export const destinazioniFlorida: Destinazione[] = [
         "Mattina: arrivo all'apertura e Rocket Garden",
         "Bus per l'Apollo/Saturn V Center",
         "Pranzo nel complesso",
-        "Pomeriggio: Atlantis e simulatori",
+        "Pomeriggio: Atlantis",
         "Rientro a Orlando o a Cocoa Beach",
       ] },
     ],
     zone: [
       { nome: "Cocoa Beach", perChi: "Chi vuole il mare vicino", testo: "Cittadina di spiaggia vicina al Kennedy Space Center, con motel." },
-      { nome: "Orlando", perChi: "Chi fa la gita in giornata", testo: "Più scelta di hotel, a un'ora dal Kennedy." },
+      { nome: "Orlando", perChi: "Chi fa la gita in giornata", testo: "Più scelta di hotel; il Kennedy si visita in giornata." },
     ],
     sapori: [
-      { nome: "Colazione da Keke's", testo: "Catena di colazioni americane con pancake e uova." },
       { nome: "Pesce a Cocoa Beach", testo: "Ristoranti sul mare." },
       { nome: "Sandwich del centro visitatori", testo: "Pranzo veloce dentro al complesso." },
     ],

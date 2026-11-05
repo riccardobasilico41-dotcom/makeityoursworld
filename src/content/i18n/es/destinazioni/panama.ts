@@ -62,8 +62,8 @@ export const destinazioniPanama: Destinazione[] = [
           "nome": "Panamá Viejo",
           "testo": "Las ruinas de la ciudad original, fundada en 1519 y destruida en 1671 durante el asalto del corsario Henry Morgan, por un incendio cuyo autor sigue sin estar claro. Junto con el Casco Viejo es patrimonio UNESCO desde 1997.",
           "come": "Taxi por aplicación desde el centro.",
-          "quando": "Martes a domingo, de 8:30 a 17:30 (taquilla hasta las 16:30); cerrado los lunes. En la mañana, antes del calor.",
-          "tempo": "1,5 horas",
+          "quando": "Martes a domingo, de 8:30 a 17:30; cerrado los lunes. En la mañana, antes del calor.",
+          "tempo": "1-2 horas",
           "url": "https://www.patronatopanamaviejo.org/"
         },
         {
@@ -78,7 +78,7 @@ export const destinazioniPanama: Destinazione[] = [
           "nome": "Biomuseo",
           "testo": "El museo diseñado por Frank Gehry en la Calzada de Amador, sobre el surgimiento del istmo de Panamá y la biodiversidad. El edificio de techos de colores se ve desde lejos; dentro, las salas cuentan cómo el istmo, al unir dos continentes, cambió animales y corrientes.",
           "come": "Taxi o Uber.",
-          "quando": "Martes a viernes de 9 a 15 h, sábado y domingo de 10 a 15 h; cerrado los lunes.",
+          "quando": "Martes a domingo; cerrado los lunes. Horarios en la web oficial.",
           "tempo": "2 horas",
           "costo": "20 USD para adultos no residentes (2026).",
           "url": "https://biomuseo.org/"
@@ -121,7 +121,7 @@ export const destinazioniPanama: Destinazione[] = [
         },
         {
           "nome": "Sancocho",
-          "testo": "Sopa de pollo con yuca y culantro, el plato nacional."
+          "testo": "Sopa de pollo con yuca y culantro, plato típico del país."
         },
         {
           "nome": "Arroz con pollo",
@@ -182,7 +182,7 @@ export const destinazioniPanama: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Isla Perro y el naufragio",
-          "testo": "Un islote con el naufragio de un barco a pocos metros de la orilla, perfecto para hacer snorkel en agua poco profunda y clara.",
+          "testo": "Un islote con el naufragio de un barco para ver haciendo snorkel.",
           "come": "En barca desde las islas donde se duerme, en un recorrido de día.",
           "quando": "Mañana, con el mar calmo.",
           "tempo": "1-2 horas",
@@ -197,10 +197,10 @@ export const destinazioniPanama: Destinazione[] = [
         },
         {
           "nome": "Piscinas naturales en medio del mar",
-          "testo": "Bancos de arena con agua hasta la rodilla, rodeados de mar abierto.",
+          "testo": "Bancos de arena con agua poco profunda, rodeados de mar abierto.",
           "come": "En barca desde la cabaña.",
           "quando": "Mañana.",
-          "tempo": "1 hora"
+          "tempo": "Parada breve"
         },
         {
           "nome": "Pueblos guna y molas",
@@ -318,7 +318,7 @@ export const destinazioniPanama: Destinazione[] = [
         },
         {
           "nome": "Cayo Zapatilla",
-          "testo": "Los islotes deshabitados de Cayos Zapatilla, dentro del Parque Nacional Marino Isla Bastimentos (1988), con arena blanca y bosque. A menudo la mejor parada de los tours en barca.",
+          "testo": "Los islotes deshabitados de Cayos Zapatilla, dentro del Parque Nacional Marino Isla Bastimentos, con arena blanca y bosque. A menudo la mejor parada de los tours en barca.",
           "come": "Con tour en barca desde Bocas Town; entrada al parque aparte.",
           "quando": "Mañana, con mar calmo.",
           "tempo": "Media jornada",
@@ -329,7 +329,7 @@ export const destinazioniPanama: Destinazione[] = [
           "testo": "La playa de las estrellas de mar: se ven en agua poco profunda cerca de la orilla, y el nombre cumple lo que promete.",
           "come": "Parada en los tours en barca o en taxi acuático.",
           "quando": "Mañana.",
-          "tempo": "45 minutos-1 hora",
+          "tempo": "Parada breve",
           "consiglio": "No tocar ni sacar las estrellas de mar del agua."
         },
         {
@@ -439,7 +439,7 @@ export const destinazioniPanama: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Volcán Barú",
-          "testo": "La cima más alta de Panamá (3.475 m), desde donde con cielo despejado se ven el Pacífico y el Caribe a la vez, cosa que pasa pocas veces. Subida nocturna para el amanecer.",
+          "testo": "El volcán de Chiriquí (3.475 m), desde donde con cielo despejado se ven el Pacífico y el Caribe a la vez, cosa que pasa pocas veces. Subida nocturna para el amanecer.",
           "come": "Salida hacia medianoche, a pie con guía por un sendero largo y empinado, o con tours en 4x4 hasta la cima.",
           "quando": "Amanecer, con cielo del todo despejado, es decir pocos días buenos incluso en estación seca.",
           "tempo": "Noche-mañana",
@@ -447,7 +447,7 @@ export const destinazioniPanama: Destinazione[] = [
         },
         {
           "nome": "Sendero Los Quetzales",
-          "testo": "El sendero más recorrido del parque del Barú, en el bosque nuboso entre Boquete y Cerro Punta, en la ladera del volcán. Es uno de los lugares más conocidos de Panamá para buscar el quetzal.",
+          "testo": "Un sendero del parque del Barú, en el bosque nuboso entre Boquete y Cerro Punta, en la ladera del volcán. Es un buen lugar para buscar el quetzal.",
           "come": "Sendero de unas horas, con guía o por cuenta propia.",
           "quando": "Temprano por la mañana, cuando las aves están más activas. El sendero cierra a veces por mal tiempo o árboles caídos (reabierto en noviembre de 2025): consulta con MiAmbiente.",
           "tempo": "Unas 6 horas",
@@ -460,13 +460,6 @@ export const destinazioniPanama: Destinazione[] = [
           "quando": "Mañana.",
           "tempo": "2-3 horas",
           "consiglio": "El Geisha se prueba aquí a una fracción de lo que cuesta en otros lugares."
-        },
-        {
-          "nome": "Cascadas y Caldera Hot Springs",
-          "testo": "El sendero de las Lost Waterfalls, con varias cascadas en el bosque, y las aguas termales naturales de Caldera, más abajo.",
-          "come": "Coche o taxi desde Boquete.",
-          "quando": "De día.",
-          "tempo": "Media jornada"
         }
       ],
       "programmi": [
@@ -474,7 +467,7 @@ export const destinazioniPanama: Destinazione[] = [
           "titolo": "1 día",
           "tappe": [
             "Tour de una finca de café con degustación",
-            "Tarde: Lost Waterfalls o Caldera Hot Springs"
+            "Tarde: paseo por el pueblo"
           ]
         },
         {

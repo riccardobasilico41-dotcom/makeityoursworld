@@ -48,10 +48,10 @@ export const destinazioniMontenegro: Destinazione[] = [
       {
         nome: "Fortezza di San Giovanni",
         testo: "Le mura salgono lungo la montagna fino alla fortezza a circa 280 metri d'altezza. Dall'alto si vede tutta la baia, con la sua forma a fiordo.",
-        come: "Il sentiero parte dalla città vecchia ed è fatto di scalini irregolari: circa 1.350. Scarpe chiuse e acqua.",
+        come: "Il sentiero parte dalla città vecchia ed è fatto di scalini irregolari. Scarpe chiuse e acqua.",
         quando: "All'apertura o nel tardo pomeriggio, mai nelle ore calde d'estate. In alto non c'è ombra.",
         tempo: "1 ora e mezza tra salita, sosta e discesa",
-        costo: "Circa 15 € a persona (2026); meglio avere contanti.",
+        costo: "Biglietto d'ingresso, prezzi sul sito ufficiale; meglio avere contanti.",
         consiglio: "Entrare solo dagli ingressi ufficiali della città vecchia: i varchi non ufficiali nelle mura vengono chiusi o sorvegliati."
       },
       {
@@ -64,7 +64,7 @@ export const destinazioniMontenegro: Destinazione[] = [
       },
       {
         nome: "Risan e i mosaici romani",
-        testo: "Il più antico insediamento della baia. Dell'epoca romana sono rimasti i mosaici pavimentali di una villa, il resto più prezioso della città antica.",
+        testo: "Uno degli insediamenti più antichi della baia. Dell'epoca romana sono rimasti i mosaici pavimentali di una villa, il resto più prezioso della città antica.",
         come: "Sulla strada da Kotor a Herceg Novi, nella parte più interna della baia. Si visita in pochi minuti.",
         quando: "Tutto l'anno, di mattina.",
         tempo: "30 minuti",
@@ -160,7 +160,7 @@ export const destinazioniMontenegro: Destinazione[] = [
       {
         nome: "Strada delle 25 serpentine",
         testo: "La vecchia strada austro-ungarica che sale da Kotor al Lovćen con 25 tornanti numerati. In pochi chilometri si sale dal livello del mare all'altopiano di Njeguši, con la baia sempre più piccola sotto.",
-        come: "Si percorre in auto da Kotor, circa 1 ora fino a Njeguši con le soste. Strada stretta, con molti pullman.",
+        come: "Si percorre in auto da Kotor. Strada stretta, con molti pullman.",
         quando: "Mattina, per avere luce sulla baia e meno traffico.",
         tempo: "1 ora con le soste",
         consiglio: "Le soste panoramiche sono poche e piccole: fermarsi dove c'è spazio sicuro."

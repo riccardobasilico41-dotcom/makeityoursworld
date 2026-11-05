@@ -53,17 +53,17 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Hol Chan Marine Reserve e Shark Ray Alley",
-          "testo": "Hol Chan è un canale naturale nella barriera corallina, a sud di Ambergris, dentro una riserva marina istituita nel 1987 e parte del sito UNESCO della barriera del Belize. Shark Ray Alley è il punto dove i pescatori pulivano le reti: gli scarti attiravano squali nutrice e razze, che oggi si avvicinano alla barca.",
+          "testo": "Hol Chan è un canale naturale nella barriera corallina, a sud di Ambergris, dentro una riserva marina che fa parte del sito UNESCO della barriera del Belize. Shark Ray Alley è il punto dove i pescatori pulivano le reti: gli scarti attiravano squali nutrice e razze, che oggi si avvicinano alla barca.",
           "come": "Escursione in barca di mezza giornata da Caye Caulker, con guida e attrezzatura. La tassa del parco marino spesso non è nel prezzo.",
           "quando": "Mattina, con il mare più calmo; stagione migliore dicembre-aprile.",
-          "tempo": "4-5 ore",
+          "tempo": "Mezza giornata",
           "costo": "Tassa della riserva 15 USD a persona (dal 2024), spesso esclusa dal prezzo del tour.",
           "url": "https://www.travelbelize.org/",
           "consiglio": "Da chi ci è stato: in acqua a un metro da squali nutrice e razze che non badano a chi li guarda. Prima di prenotare chiedere che cosa include il prezzo."
         },
         {
           "nome": "Il Great Blue Hole dall'alto",
-          "testo": "Una voragine marina larga più di 300 metri e profonda circa 124, al centro di Lighthouse Reef, un atollo a circa 70 km dalla costa. Il cerchio perfetto si vede solo dall'alto.",
+          "testo": "Una voragine marina larga più di 300 metri e profonda circa 124, al centro di Lighthouse Reef, un atollo al largo della costa. Il cerchio perfetto si vede solo dall'alto.",
           "come": "Volo panoramico con partenza dall'isola o da Belize City, con un piccolo aereo. In alternativa un'immersione di giornata, più cara e più faticosa.",
           "quando": "Giornata limpida, meglio al mattino.",
           "tempo": "Mezza giornata",
@@ -104,7 +104,7 @@ export const destinazioniBelize: Destinazione[] = [
         {
           "nome": "Lato est e nord dell'isola",
           "perChi": "chi cerca calma",
-          "testo": "Cabañas più tranquille, con il mare davanti. Per cenare si cammina 10-15 minuti, di sera con una torcia."
+          "testo": "Cabañas più tranquille, con il mare davanti. Per cenare si cammina un po', di sera con una torcia."
         }
       ],
       "sapori": [
@@ -182,16 +182,16 @@ export const destinazioniBelize: Destinazione[] = [
           "testo": "Il canale naturale nella barriera e il punto degli squali nutrice e delle razze, a pochi minuti di barca da San Pedro. Ambergris è la partenza più vicina.",
           "come": "Escursione in barca di mezza giornata prenotata a San Pedro; attrezzatura inclusa. Tassa del parco spesso a parte.",
           "quando": "Mattina; dicembre-aprile.",
-          "tempo": "4 ore",
+          "tempo": "Mezza giornata",
           "costo": "Tassa della riserva 15 USD a persona (dal 2024), spesso esclusa dal prezzo del tour.",
           "url": "https://www.travelbelize.org/",
           "consiglio": "Da qui si arriva prima, quindi si può abbinare un'altra sosta di snorkeling nello stesso giro."
         },
         {
           "nome": "Secret Beach",
-          "testo": "Una spiaggia sul lato ovest dell'isola, con acqua bassissima e sabbia chiara, sul lato protetto dal vento.",
-          "come": "Taxi-golf cart o barca da San Pedro; l'ultimo tratto è su strada sterrata.",
-          "quando": "Mattina o pomeriggio, con cielo sereno. Meglio nei giorni senza vento forte da ovest.",
+          "testo": "Una spiaggia lontana dal centro di San Pedro, con acqua bassissima e sabbia chiara.",
+          "come": "Taxi-golf cart o barca da San Pedro; chiedere in paese lo stato della strada.",
+          "quando": "Mattina o pomeriggio, con cielo sereno.",
           "tempo": "Mezza giornata",
           "consiglio": "Si va per il bagno e per mangiare in riva al mare, non per il surf. Portare contanti."
         },
@@ -251,11 +251,11 @@ export const destinazioniBelize: Destinazione[] = [
       "sapori": [
         {
           "nome": "Stew chicken nei comedor",
-          "testo": "Pollo stufato con riso e fagioli, lo stesso piatto del lungomare a un quarto del prezzo, nelle strade dietro il paese."
+          "testo": "Pollo stufato con riso e fagioli, lo stesso piatto del lungomare a prezzi molto più bassi, nelle strade dietro il paese."
         },
         {
           "nome": "Conch fritter",
-          "testo": "Frittelle di lambi, in stagione, vicino al molo."
+          "testo": "Frittelle di lambi, in stagione."
         },
         {
           "nome": "Seaweed shake",
@@ -322,32 +322,29 @@ export const destinazioniBelize: Destinazione[] = [
           "come": "I biglietti li vendono solo i tour operator autorizzati, con guida e trasporto da San Ignacio: cammino nella giungla con guadi, poi ore in acqua fredda e passaggi stretti.",
           "quando": "Mattina; dicembre-aprile. Può chiudere dopo piogge forti per il livello dell'acqua.",
           "tempo": "Giornata intera",
-          "url": "https://ticketing.nichbelize.org/",
           "consiglio": "Le fotocamere sono vietate ai visitatori dal 2012, da quando una macchina caduta ha incrinato un cranio. Chi soffre di claustrofobia o ha problemi con l'acqua fredda salti."
         },
         {
           "nome": "Xunantunich",
-          "testo": "Sito maya del periodo classico con la piramide El Castillo, alta circa 40 metri, su una collina sopra il fiume Mopan. Si sale sulla cima.",
-          "come": "Da San Ignacio taxi fino al Mopan, poi traghetto a mano gratuito; dall'altra parte si sale a piedi per 15 minuti.",
+          "testo": "Sito maya del periodo classico con la piramide El Castillo su una collina sopra il fiume Mopan. Si sale sulla cima.",
+          "come": "Da San Ignacio taxi fino al Mopan, poi traghetto a mano; dall'altra parte si sale a piedi.",
           "quando": "Mattina, prima del caldo.",
           "tempo": "2 ore",
-          "url": "https://ticketing.nichbelize.org/",
           "consiglio": "Dalla cima si vede il Guatemala. Abbinabile alla grotta o a Rio On nello stesso giorno."
         },
         {
           "nome": "Caracol",
-          "testo": "Una delle più grandi città maya, sull'altopiano di Vaca ai piedi delle Maya Mountains. La piramide Caana, alta 43 metri, è ancora la struttura costruita dall'uomo più alta del Belize.",
+          "testo": "Una delle più grandi città maya, sull'altopiano di Vaca ai piedi delle Maya Mountains. La piramide Caana è alta 43 metri.",
           "come": "Escursione da San Ignacio con guida, lungo una lunga strada in parte sterrata; in genere il pranzo è incluso.",
           "quando": "Mattina presto. Stagione secca per la strada.",
           "tempo": "Giornata intera",
-          "url": "https://ticketing.nichbelize.org/",
           "consiglio": "Si va per il silenzio e per le scimmie urlatrici, non per le folle di Tikal. Controllare lo stato della strada."
         },
         {
           "nome": "Rio On Pools e Mountain Pine Ridge",
           "testo": "Una serie di cascatelle e pozze naturali sul Rio On, in una foresta di pini dell'altopiano. Si fa il bagno e si scivola sulle rocce lisce.",
           "come": "In auto o taxi da San Ignacio, salendo verso la Mountain Pine Ridge.",
-          "quando": "Pomeriggio, con l'acqua più calda.",
+          "quando": "Di giorno, nella stagione secca.",
           "tempo": "1-2 ore",
           "consiglio": "Scarpe da acqua: le rocce sono scivolose."
         }
@@ -463,10 +460,10 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Laughing Bird Caye",
-          "testo": "Un'isoletta parco nazionale a circa 19 km da Placencia, su una lunga dorsale di corallo, con barriera vicina e acqua bassa. Fa parte del sito UNESCO della barriera corallina del Belize.",
+          "testo": "Un'isoletta parco nazionale al largo di Placencia, con barriera vicina e acqua bassa. Fa parte del sito UNESCO della barriera corallina del Belize.",
           "come": "Gita in barca di mezza giornata da Placencia con uno degli operatori della zona; tassa del parco a parte.",
           "quando": "Mattina, mare calmo; stagione secca.",
-          "tempo": "4-5 ore",
+          "tempo": "Mezza giornata",
           "url": "https://www.travelbelize.org/",
           "consiglio": "Portare crema solare adatta alle barriere coralline e non toccare i coralli."
         },
@@ -480,7 +477,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Cockscomb Basin Wildlife Sanctuary",
-          "testo": "Riserva nata negli anni Ottanta, la prima area protetta creata per il giaguaro, in una valle di foresta pluviale con sentieri per cascate e belvedere. Il giaguaro si vede di rado.",
+          "testo": "Riserva creata per proteggere il giaguaro, in una valle di foresta pluviale con sentieri per cascate e belvedere. Il giaguaro si vede di rado.",
           "come": "Da Hopkins o Placencia in auto fino all'ingresso; sentieri da una a qualche ora, alcuni con pozze per il bagno.",
           "quando": "Mattina presto; stagione secca.",
           "tempo": "Mezza giornata",

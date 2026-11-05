@@ -10,22 +10,22 @@ export const destinazioniLituania: Destinazione[] = [
     giorniConsigliati: '3 days, including the day trip to Trakai',
     visitataPersonalmente: true,
     introduzione:
-      "It's the capital of Lithuania and the most populous of the three Baltic capitals. The historic center, a UNESCO site since 1994, is one of the largest Baroque centers in Central and Eastern Europe: over 1,500 historic buildings among Baroque churches, Renaissance courtyards and medieval alleys. On the other bank of the Vilnia river, inside the same historic center, the Užupis neighborhood declared itself an independent republic in 1997, with an honorary constitution, flag and president.",
+      "It's the capital of Lithuania and the most populous of the three Baltic capitals. The historic center, a UNESCO site since 1994, is one of the largest Baroque centers in Central and Eastern Europe, among Baroque churches, Renaissance courtyards and medieval alleys. On the other bank of the Vilnia river, inside the same historic center, the Užupis neighborhood declared itself an independent republic in 1997, with an honorary constitution, flag and president.",
     percheAndarci:
-      "In an area you can cover on foot there's Gediminas Hill, which dominates the city, the highest concentration of Baroque architecture in the Baltics, and a bohemian neighborhood that makes fun of its own institutions with the same seriousness with which it respects them. It's also the natural base for the country's classic day trip, the island castle at Trakai.",
+      "In an area you can cover on foot there's Gediminas Hill, which dominates the city, a wealth of Baroque architecture, and a bohemian neighborhood that makes fun of its own institutions with the same seriousness with which it respects them. It's also the natural base for the country's classic day trip, the island castle at Trakai.",
     cosaVedere: [
       "Vilnius Cathedral (Vilniaus katedra), neoclassical, in Cathedral Square, with the separate bell tower and the royal crypts of the Grand Duchy of Lithuania",
-      "Gediminas Hill, with the remains of the Upper Castle and Gediminas Tower (you climb up on foot or by funicular): it's the symbol of the city and the highest viewpoint over the historic center",
-      "The Užupis neighborhood, with the Constitution Wall (the 41 articles of the neighborhood's \"constitution\", translated into dozens of languages on as many plaques) and the Angel of Užupis, the statue that symbolizes the district",
+      "Gediminas Hill, with the remains of the Upper Castle and Gediminas Tower (you climb up on foot or by funicular): it's the symbol of the city and a viewpoint over the historic center",
+      "The Užupis neighborhood, with the Constitution Wall (the articles of the neighborhood's \"constitution\", translated into dozens of languages on as many plaques) and the Angel of Užupis, the statue that symbolizes the district",
       "St. Anne's Church, Gothic in red brick, and the nearby Church of St. Francis and St. Bernard: together they're one of the most photographed Gothic views in the city",
-      "The University Courtyard of Vilnius University, founded in 1579 and one of the oldest universities in Central and Eastern Europe, with thirteen connected courtyards and astronomical frescoes",
-      "The Gate of Dawn (Aušros Vartai), the only gate left of the old walls, with the chapel of the Black Madonna icon, a pilgrimage destination",
+      "The University Courtyard of Vilnius University, founded in 1579 and one of the oldest universities in Central and Eastern Europe, with many connected courtyards and astronomical frescoes",
+      "The Gate of Dawn (Aušros Vartai), the only gate left of the old walls, with the chapel of the icon of the Mother of Mercy, a pilgrimage destination",
       "The Palace of the Grand Dukes of Lithuania, rebuilt on the archaeological remains of the medieval royal castle, now a museum on the history of the Grand Duchy",
     ],
     cosaFare: [
       "Take the funicular (or walk) up to Gediminas Tower for the view over the red roofs of the Old Town",
       "Wander through the art galleries, cafés and small craft workshops of Užupis, looking for the plaques of the Constitution Wall",
-      "Cross the thirteen courtyards of Vilnius University, with a stop at the University Library and St. John's Church",
+      "Cross the courtyards of Vilnius University, with a stop at the University Library and St. John's Church",
       "Take an evening stroll among the bars of the historic center around Pilies Street, the pedestrian street that runs from Cathedral Square to the Gate of Dawn",
     ],
     doveDormire:
@@ -33,12 +33,12 @@ export const destinazioniLituania: Destinazione[] = [
     doveMangiare:
       "The national dish is cepelinai, big potato dumplings stuffed with meat or cheese. In summer the symbol of Lithuanian cooking is šaltibarščiai, a bright pink cold beetroot soup served with boiled potatoes. The kibinas, the stuffed pastry brought to Lithuania by the Karaim community of Trakai, can also be found in Vilnius. Several restaurants in the historic center do contemporary Lithuanian cooking at prices that are still low compared to Western Europe.",
     comeArrivare:
-      "Vilnius International Airport (VNO) is about 7 km from the center: train or public bus in 10-20 minutes, or a taxi or Bolt in a few minutes. There are direct low-cost flights from some Italian airports, seasonal or year-round; otherwise you connect through a European hub.",
+      "Vilnius International Airport (VNO) is close to the center: train or public bus, or a taxi or ride-hailing app. There are direct low-cost flights from some Italian airports, seasonal or year-round; otherwise you connect through a European hub.",
     comeSpostarsi:
-      "You can walk the whole historic center. For the rest of the city, public buses and trolleybuses are cheap and frequent. For Trakai there's the regional train (about 34 minutes) or the bus (about 35 minutes) from the central station.",
+      "You can walk the whole historic center. For the rest of the city, public buses and trolleybuses are cheap and frequent. For Trakai there's the regional train or the bus from the central station.",
     periodoMigliore:
       "May to September, for the mild weather and long days. June to August is the warmest and busiest season, with the solstice peak at the end of June. Winter (November to March) is cold, but the city holds up well and in December there are Christmas markets.",
-    costi: "a cheap city by Western European standards: Gediminas Tower entrance €8 plus €2-3 for the funicular, regular dinner €10-15 per person, local beer €3-5.",
+    costi: "a cheap city by Western European standards: admissions, restaurants and beer cost less than in Western Europe; current prices on the official websites.",
     erroriDaEvitare: [
       "Thinking that Lithuanian speakers understand Latvian (the language of nearby Riga): they're distantly related Baltic languages, but you can't understand one starting from the other",
       "Crossing Užupis in a hurry: the point of the place is to stop, read the Constitution Wall and wander aimlessly among the galleries",
@@ -52,8 +52,8 @@ export const destinazioniLituania: Destinazione[] = [
         opzioni: [
           {
             nome: 'Regional train',
-            sintesi: "The most direct and punctual connection; Trakai station is about 3 km from the castle.",
-            durata: 'about 34 minutes',
+            sintesi: "The most direct and punctual connection; Trakai station is a few kilometres from the castle.",
+            durata: 'under an hour',
             costo: 'a few euros each way',
             pro: ['Punctual and frequent', 'No traffic risk'],
             contro: ["Trakai station is farther from the castle than the bus stop", 'Fewer departures than the bus'],
@@ -62,9 +62,9 @@ export const destinazioniLituania: Destinazione[] = [
           {
             nome: 'Intercity bus',
             sintesi: "More frequent than the train, and the stop is closer to the castle.",
-            durata: 'about 35 minutes',
-            costo: 'about €5-6 each way',
-            pro: ['More frequent departures, up to 50 a day on weekdays', 'Stop about 2.3 km from the castle, a bit closer than the train station'],
+            durata: 'under an hour',
+            costo: 'a few euros each way',
+            pro: ['Frequent departures', 'Stop a bit closer to the castle than the train station'],
             contro: ['Subject to traffic on the main road', 'Slightly more expensive than the train'],
             perChi: 'anyone who wants more freedom with timing, especially on weekends',
           },
@@ -74,8 +74,8 @@ export const destinazioniLituania: Destinazione[] = [
     luoghi: [
       {
         nome: "Vilnius Cathedral and Cathedral Square",
-        testo: "A cathedral with a neoclassical look, from Laurynas Gucevičius's late-18th-century rebuilding, with a 57-metre freestanding bell tower that grew from a Lower Castle tower. Grand dukes and queens rest in the crypts and the royal mausoleum. The square is the city's meeting place, at the foot of Gediminas Hill.",
-        come: "On foot from the Old Town (10 minutes).",
+        testo: "A cathedral with a neoclassical look, from Laurynas Gucevičius's late-18th-century rebuilding, with a freestanding bell tower that grew from a Lower Castle tower. Grand dukes and queens rest in the crypts and the royal mausoleum. The square is the city's meeting place, at the foot of Gediminas Hill.",
+        come: "On foot from the Old Town.",
         quando: "Morning, for the light and fewer crowds.",
         tempo: "45 minutes",
         costo: "free entry",
@@ -94,7 +94,7 @@ export const destinazioniLituania: Destinazione[] = [
       {
         nome: "Gate of Dawn",
         testo: "The only part of the walls left intact after their demolition in 1799-1805, with the chapel housing the icon of the Mother of Mercy, held to be miraculous: one of the main Catholic pilgrimage sites in Lithuania.",
-        come: "On foot, 10 minutes from Town Hall Square.",
+        come: "On foot from Town Hall Square.",
         quando: "Morning.",
         tempo: "30 minutes",
         costo: "free entry",
@@ -102,7 +102,7 @@ export const destinazioniLituania: Destinazione[] = [
       },
       {
         nome: "Užupis",
-        testo: "The bohemian district across the stream, which proclaimed itself a republic on 1 April 1997. On the wall of Paupio street are the plaques with the articles of its 'constitution', in more than twenty languages.",
+        testo: "The bohemian district across the stream, which proclaimed itself a republic on 1 April 1997. On the wall of Paupio street are the plaques with the articles of its 'constitution', in many languages.",
         come: "On foot from the Old Town, across the bridge.",
         quando: "Daytime; 1 April is the independence festival.",
         tempo: "1-2 hours",
@@ -112,7 +112,7 @@ export const destinazioniLituania: Destinazione[] = [
       {
         nome: "St Anne's and Bernardine churches",
         testo: "The red-brick Gothic St Anne's church, next to the larger Church of St Francis and St Bernard. Together they form one of the most photographed views.",
-        come: "On foot from the Cathedral (10 minutes).",
+        come: "On foot from the Cathedral.",
         quando: "Morning or evening.",
         tempo: "30-45 minutes",
         costo: "free entry",
@@ -120,17 +120,17 @@ export const destinazioniLituania: Destinazione[] = [
       },
       {
         nome: "Vilnius University",
-        testo: "Founded in 1579, it has about thirteen linked courtyards, the baroque St John's church and a historic library. Hours and tickets on the university website.",
+        testo: "Founded in 1579, it has many linked courtyards, the baroque St John's church and a historic library. Hours and tickets on the university website.",
         come: "On foot, on Pilies gatvė.",
         quando: "Weekday morning.",
         tempo: "1 hour",
         url: "https://www.vu.lt",
-        consiglio: "In the Grand Courtyard stands the bell tower of St John's, the tallest in Vilnius."
+        consiglio: "In the Grand Courtyard stands the bell tower of St John's, rising above the centre."
       },
       {
         nome: "Palace of the Grand Dukes and Museum of Occupations",
         testo: "The Palace, rebuilt on the ruins of the royal castle, tells of the Grand Duchy. A short distance away, the Museum of Occupations and Freedom Fights, in the former KGB building, documents the Soviet period.",
-        come: "On foot: the Palace at the foot of the hill, the Museum on Gedimino prospektas.",
+        come: "On foot: the Palace at the foot of the hill, the Museum a short way off in the centre.",
         quando: "Morning; opening hours and closing days on the official website.",
         tempo: "2 hours each",
         url: "https://www.genocid.lt",
@@ -201,7 +201,6 @@ export const destinazioniLituania: Destinazione[] = [
     ],
     attenzioni: [
       "Taxis: use a recognised app or a registered taxi with the meter on.",
-      "Alcohol: shops sell it only at certain hours, so don't count on buying it late in the evening.",
       "Pickpockets in busy places and on public transport; in bars do not leave drinks unattended.",
       "In winter pavements are icy: suitable shoes."
     ],
@@ -219,14 +218,14 @@ export const destinazioniLituania: Destinazione[] = [
     giorniConsigliati: 'half a day, as a day trip from Vilnius',
     visitataPersonalmente: true,
     introduzione:
-      "Before Vilnius it was the capital of the Grand Duchy of Lithuania, and it sits about 28 km west of the current capital. The red-brick Gothic castle rises on an island in Lake Galvė, connected to the mainland by a wooden footbridge, in the middle of some of the most beautiful lakes in the country: there are over two hundred around Trakai. The Karaim community has lived here for centuries; Grand Duke Vytautas brought them in during the 14th century as his personal guard, and they still have their own language, religion and cuisine.",
+      "Before Vilnius it was the capital of the Grand Duchy of Lithuania, and it sits west of the current capital. The red-brick Gothic castle rises on an island in Lake Galvė, connected to the mainland by a wooden footbridge, in the middle of some of the most beautiful lakes in the country. The Karaim community has lived here for centuries; Grand Duke Vytautas brought them in during the 14th century as his personal guard, and they still have their own language, religion and cuisine.",
     percheAndarci:
       "It's the most photographed day trip in Lithuania, with good reason: a real medieval castle that looks like it's floating on an island, reachable in half a day from Vilnius without a car.",
     cosaVedere: [
       "Trakai Island Castle (Trakų salos pilis), built in the 14th-15th century by Grand Dukes Kęstutis and Vytautas. Today it houses the Trakai History Museum, with rooms on the history of the Grand Duchy and the main tower overlooking the lake",
       "The wooden footbridge between the mainland and the castle island, the town's classic photo",
-      "The Karaim district, with the traditional three-windowed wooden houses on Karaimų street (according to local tradition one window faces the street, one the courtyard and one God) and the Kenesa, the Karaim temple that's still active",
-      "Lake Galvė, the largest of the lakes around Trakai, with shores set up for walking and for renting boats and canoes",
+      "The Karaim district, with the traditional three-windowed wooden houses on the main street (according to local tradition one window faces the street, one the courtyard and one God) and the Kenesa, the Karaim temple that's still active",
+      "Lake Galvė, around the castle, with shores set up for walking and for renting boats and canoes",
     ],
     cosaFare: [
       "Visit the museum inside the castle and climb the main tower for the view over Lake Galvė",
@@ -237,19 +236,19 @@ export const destinazioniLituania: Destinazione[] = [
     doveDormire: "On this itinerary Trakai is visited in half a day from Vilnius, without staying overnight.",
     doveMangiare:
       "Karaim kibinai, the town's dish, can be found at several historic places near the castle. For a full meal there are the lakeside restaurants, with a view of the castle and Lithuanian and Karaim cooking.",
-    comeArrivare: "From Vilnius central station by regional train (about 34 minutes; the station is about 3 km from the castle) or by intercity bus (about 35 minutes; the stop is about 2.3 km from the castle).",
-    comeSpostarsi: "From the station or bus stop to the center of Trakai and the castle it's a relaxed 30-40 minute walk along the lake; alternatively there's a short local bus ride.",
+    comeArrivare: "From Vilnius central station by regional train or by intercity bus; station and stop are a few kilometres from the castle.",
+    comeSpostarsi: "From the station or bus stop to the center of Trakai and the castle there's a relaxed walk along the lake; alternatively there's a short local bus ride.",
     periodoMigliore: "May to September, when the lake shows its colors and you can rent a boat. The castle is open all year and has a different charm under the snow.",
-    costi: "entrance to the castle History Museum €12 in low season (October-March) and €14 in high season (April-September); free on the last Sunday of the month.",
+    costi: "tickets and prices of the castle History Museum on the official website.",
     erroriDaEvitare: [
-      "Leaving without checking opening hours: the castle closes one day a week and has shorter hours in low season",
+      "Leaving without checking opening hours: the castle's opening days and hours change with the season",
       "Stopping at the footbridge without going into the museum: the inside rooms, including those on the history of the Grand Duchy, are worth the ticket",
       "Thinking you'll get by in a few minutes: between getting there, the visit and the return you need a full half day",
     ],
     luoghi: [
       {
         nome: "Trakai Island Castle",
-        testo: "A red-brick Gothic castle on an island in Lake Galvė, begun in the 14th century by Grand Duke Kęstutis and completed around 1409 by his son Vytautas, who died there in 1430. Rebuilt in 15th-century style between 1951 and 1961, it houses the Trakai History Museum.",
+        testo: "A red-brick Gothic castle on an island in Lake Galvė, begun in the 14th century by Grand Duke Kęstutis and completed by his son Vytautas, who died there in 1430. Rebuilt in the 20th century, it houses the Trakai History Museum.",
         come: "From the town, pedestrian wooden bridge from the shore.",
         quando: "Weekday morning; October-March fewer crowds.",
         tempo: "2-3 hours",
@@ -258,7 +257,7 @@ export const destinazioniLituania: Destinazione[] = [
       },
       {
         nome: "Karaite quarter",
-        testo: "The district of the Karaite minority, with the typical three-window wooden houses and the kenesa, a rare wooden temple with an interior dome. Here you eat kibinai.",
+        testo: "The district of the Karaite minority, with the typical three-window wooden houses and the kenesa, the Karaim temple. Here you eat kibinai.",
         come: "On foot from the centre, along the street.",
         quando: "Lunch.",
         tempo: "1 hour",
@@ -266,7 +265,7 @@ export const destinazioniLituania: Destinazione[] = [
       },
       {
         nome: "Lake Galvė",
-        testo: "The deepest lake in the area, with 21 islands, with shores equipped for walking and for renting boats and canoes. From the water you see the castle in a classic frame.",
+        testo: "The lake around the castle, dotted with islands, with shores equipped for walking and for renting boats and canoes. From the water you see the castle in a classic frame.",
         come: "On foot from the town; rental on the lakefront.",
         quando: "Summer, morning or late afternoon.",
         tempo: "1-2 hours",
@@ -284,7 +283,7 @@ export const destinazioniLituania: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Trakai, 28 km from Vilnius, is a half-day trip: trains and buses leave from the station.",
+      "Trakai, west of Vilnius, is a half-day trip: trains and buses leave from the station.",
       "In summer parking and lakeside restaurants fill up at weekends.",
       "Restaurants facing the castle are pricier than those in the Karaite quarter."
     ],

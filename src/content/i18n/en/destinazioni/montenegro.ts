@@ -44,10 +44,10 @@ export const destinazioniMontenegro: Destinazione[] = [
       {
         nome: "St John's Fortress",
         testo: "The walls climb the mountain to the fortress, at a height of about 280 metres. From the top you see the whole bay with its fjord-like shape.",
-        come: "The path starts in the old town and is made of uneven steps, around 1,350. Closed shoes and water.",
+        come: "The path starts in the old town and is made of uneven steps. Closed shoes and water.",
         quando: "At opening or in the late afternoon, never in the summer midday heat. There is no shade at the top.",
         tempo: "1.5 hours up, rest and down",
-        costo: "About €15 per person (2026); bring cash.",
+        costo: "Entry ticket, prices on the official site; bring cash.",
         consiglio: "Enter only through the official gates in the old town: the unofficial gaps in the walls are being blocked or guarded."
       },
       {
@@ -60,7 +60,7 @@ export const destinazioniMontenegro: Destinazione[] = [
       },
       {
         nome: "Risan and the Roman mosaics",
-        testo: "The oldest settlement in the bay. From Roman times the floor mosaics of a villa survive, the most valuable remains of the ancient town.",
+        testo: "One of the oldest settlements in the bay. From Roman times the floor mosaics of a villa survive, the most valuable remains of the ancient town.",
         come: "On the road from Kotor to Herceg Novi, in the innermost part of the bay. A visit takes a few minutes.",
         quando: "All year, in the morning.",
         tempo: "30 minutes",
@@ -156,7 +156,7 @@ export const destinazioniMontenegro: Destinazione[] = [
       {
         nome: "The 25-hairpin road",
         testo: "The old Austro-Hungarian road climbing from Kotor to Lovćen with 25 numbered bends. In a few kilometres you climb from sea level to the Njeguši plateau, with the bay shrinking below.",
-        come: "Drive from Kotor, about 1 hour to Njeguši with stops. Narrow road, many coaches.",
+        come: "Drive from Kotor. Narrow road, many coaches.",
         quando: "Morning, for light on the bay and less traffic.",
         tempo: "1 hour with stops",
         consiglio: "Viewpoints are few and small: stop only where it is safe."

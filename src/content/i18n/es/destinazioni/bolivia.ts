@@ -44,11 +44,11 @@ export const destinazioniBolivia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Mi Teleférico",
-        "testo": "La red de teleféricos urbanos que une La Paz y El Alto. Es transporte público y a la vez el mejor mirador de la hoya: las líneas roja y amarilla dan la vista más bella.",
+        "testo": "La red de teleféricos urbanos que une La Paz y El Alto. Es transporte público y a la vez un gran mirador sobre la hoya, sobre todo desde las líneas roja y amarilla.",
         "come": "Las estaciones están por toda la ciudad; el billete se compra en la estación.",
         "quando": "Al atardecer, cuando la hoya se ilumina.",
         "tempo": "1-2 horas",
-        "costo": "3 bolivianos por viaje, menos de medio euro (2025-2026)",
+        "costo": "Billete económico, se compra en la estación: tarifas en la web oficial",
         "url": "https://www.miteleferico.bo/",
         "consiglio": "Rick las recomienda a todos: cuestan muy poco y dan la mejor vista de la hoya."
       },
@@ -63,15 +63,15 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         "nome": "Valle de la Luna",
         "testo": "Formaciones de arcilla erosionada a pocos kilómetros del centro, con senderos cortos entre agujas y cañones.",
-        "come": "Bus o taxi hacia la zona sur de La Paz, por Mallasa.",
+        "come": "Bus o taxi hacia la zona sur de La Paz.",
         "quando": "Mañana, con mejor luz.",
         "tempo": "1-2 horas",
         "consiglio": "A esta altura hasta un paseo corto cansa: ve despacio."
       },
       {
         "nome": "El Alto y las cholitas luchadoras",
-        "testo": "La feria 16 de Julio de El Alto (jueves y domingo) es uno de los mercados populares más grandes de América Latina. El domingo también se puede ver la lucha libre de las mujeres aymaras con pollera.",
-        "come": "En teleférico (línea roja) hasta El Alto.",
+        "testo": "La feria 16 de Julio de El Alto (jueves y domingo) es un enorme mercado popular. En El Alto también se puede ver la lucha libre de las cholitas, las mujeres aymaras con pollera.",
+        "come": "En teleférico hasta El Alto.",
         "quando": "Jueves y domingo para el mercado.",
         "tempo": "Medio día",
         "consiglio": "Lleva bolsos y teléfono por delante: el mercado está abarrotado."
@@ -87,11 +87,11 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Chacaltaya",
-        "testo": "Fue la estación de esquí con remontes más alta del mundo. El glaciar desapareció por completo en 2009; la zona está cerca del Huayna Potosí.",
+        "testo": "Era una estación de esquí de gran altura. El glaciar desapareció por completo en 2009; la zona está cerca del Huayna Potosí.",
         "come": "Tour de medio día desde La Paz.",
         "quando": "Temprano por la mañana.",
         "tempo": "Medio día",
-        "consiglio": "Sube solo tras al menos dos días en La Paz: la cima supera los 5.000 metros."
+        "consiglio": "Sube solo tras al menos dos días en La Paz: la altura es muy elevada."
       }
     ],
     programmi: [
@@ -150,7 +150,7 @@ export const destinazioniBolivia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Aterrizar en El Alto (más de 4.000 metros) y planear algo exigente el mismo día.",
+      "Aterrizar en El Alto, a gran altura, y planear algo exigente el mismo día.",
       "Bloqueos de carreteras: pueden aislar la ciudad durante días y cancelar vuelos y traslados.",
       "Taxis no oficiales, sobre todo de noche: usa radiotaxis o apps.",
       "Carteristas en mercados abarrotados: sin objetos de valor a la vista.",
@@ -207,7 +207,7 @@ export const destinazioniBolivia: Destinazione[] = [
     luoghi: [
       {
         "nome": "El salar de Uyuni",
-        "testo": "La mayor extensión de sal del mundo, más de 10.000 km cuadrados a 3.650 metros. Sin referencias no se sabe si una montaña está a cinco o a cincuenta kilómetros, y por eso funcionan las fotos en perspectiva.",
+        "testo": "Una inmensa extensión de sal a gran altura. Sin referencias no se sabe si una montaña está a cinco o a cincuenta kilómetros, y por eso funcionan las fotos en perspectiva.",
         "come": "Solo en 4x4 con conductor, dentro del tour organizado, con salida desde Uyuni.",
         "quando": "En la temporada seca el salar está seco y se recorre entero. En la temporada de lluvias (más o menos de diciembre a abril) se convierte en un espejo de agua, pero algunas paradas se pierden.",
         "tempo": "Medio día o un día",
@@ -232,15 +232,15 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Laguna Colorada",
-        "testo": "Laguna roja por los sedimentos y las algas, con muchos flamencos, sobre todo de la especie de James, en el Sud Lípez.",
+        "testo": "Laguna roja por los sedimentos y las algas, con muchos flamencos, en el Sud Lípez.",
         "come": "Parada del segundo día del tour en 4x4.",
         "quando": "Temprano por la mañana.",
         "tempo": "1-2 horas",
         "consiglio": "El segundo día en el Sud Lípez es el que más se le quedó a Rick, más que la sal: lagunas rojas llenas de flamencos por encima de los cuatro mil metros."
       },
       {
-        "nome": "Géiseres Sol de Mañana y termas de Polques",
-        "testo": "Géiseres a unos 4.900 metros que humean al amanecer, y las termas al aire libre de Polques.",
+        "nome": "Géiseres Sol de Mañana y termas",
+        "testo": "Géiseres a unos 4.900 metros que humean al amanecer y, en el mismo recorrido, pozas termales al aire libre.",
         "come": "Paradas del tour en 4x4.",
         "quando": "Al amanecer, con temperaturas bajo cero.",
         "tempo": "1-2 horas",
@@ -248,7 +248,7 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Laguna Verde",
-        "testo": "Laguna al pie del volcán Licancabur, en la frontera chilena.",
+        "testo": "Laguna del extremo suroeste, cerca de la frontera con Chile.",
         "come": "Última parada del tour en 4x4 antes de San Pedro de Atacama.",
         "quando": "Mañana.",
         "tempo": "1 hora",
@@ -269,7 +269,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "tappe": [
           "Día 1: salar, Isla Incahuasi, noche en un hotel de sal",
           "Día 2: lagunas del Sud Lípez, Laguna Colorada",
-          "Día 3: géiseres al amanecer, termas de Polques, Laguna Verde, regreso a Uyuni o continuación a San Pedro de Atacama"
+          "Día 3: géiseres al amanecer, termas, Laguna Verde, regreso a Uyuni o continuación a San Pedro de Atacama"
         ]
       }
     ],
@@ -282,7 +282,7 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         "nome": "Alojamientos del Sud Lípez",
         "perChi": "Quien hace el tour de 3 días",
-        "testo": "Muy básicos, a menudo sin calefacción a más de 4.000 metros. Se duerme bajo cero."
+        "testo": "Muy básicos, a menudo sin calefacción a gran altura. Se duerme bajo cero."
       },
       {
         "nome": "Hotel de sal",
@@ -305,7 +305,7 @@ export const destinazioniBolivia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Elegir al operador solo por el precio: los vehículos y su mantenimiento marcan una diferencia real en pistas a 4.500 metros.",
+      "Elegir al operador solo por el precio: los vehículos y su mantenimiento marcan una diferencia real en pistas de gran altura.",
       "Frío nocturno bajo cero: el saco de dormir no siempre está incluido.",
       "Llegar a Uyuni sin aclimatarse: el segundo día se sube casi a 5.000 metros.",
       "Temporada de lluvias (más o menos de diciembre a abril): efecto espejo, pero varias paradas se pierden."
@@ -364,16 +364,16 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Cerro Calvario",
-        "testo": "La colina sobre el pueblo, con el vía crucis, para el atardecer sobre el lago.",
+        "testo": "La colina sobre el pueblo, para el atardecer sobre el lago.",
         "come": "A pie desde el centro, con una subida corta pero empinada.",
         "quando": "Atardecer.",
         "tempo": "1-2 horas",
-        "consiglio": "A 3.800 metros la subida cansa: ve despacio."
+        "consiglio": "A esta altura la subida cansa: ve despacio."
       },
       {
         "nome": "Isla del Sol: Chincana y Roca Sagrada",
         "testo": "Las ruinas de Chincana y la Roca Sagrada, en el extremo norte de la isla donde según la tradición nacieron el sol y el primer Inca.",
-        "come": "Lancha colectiva desde Copacabana. En la isla no hay vehículos a motor ni calles asfaltadas.",
+        "come": "Lancha colectiva desde Copacabana.",
         "quando": "Mañana y atardecer.",
         "tempo": "Medio día",
         "costo": "Lancha y pequeñas tasas de entrada cobradas por las comunidades: lleva efectivo",
@@ -382,7 +382,7 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         "nome": "El sendero del lomo de la Isla del Sol",
         "testo": "El sendero que recorre el lomo de la isla de norte a sur entre terrazas y ruinas.",
-        "come": "A pie, siempre cuesta arriba y a casi 4.000 metros.",
+        "come": "A pie, siempre cuesta arriba y a gran altura.",
         "quando": "Mañana y atardecer.",
         "tempo": "3-4 horas",
         "consiglio": "Dormir una noche en la isla lo cambia todo: las barcas del día llegan y se van todas juntas, y luego la isla vuelve al silencio."
@@ -417,7 +417,7 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         "nome": "Copacabana",
         "perChi": "Quien busca conexiones y comodidad",
-        "testo": "Más cómoda para el transporte. Noches frías a 3.800 metros."
+        "testo": "Más cómoda para el transporte. Noches frías en la altura."
       },
       {
         "nome": "Isla del Sol",
@@ -442,7 +442,7 @@ export const destinazioniBolivia: Destinazione[] = [
     attenzioni: [
       "Planear la Isla del Sol en el día: se pierde la mejor parte.",
       "El acceso a toda la isla no está garantizado: pregunta en el lugar.",
-      "Subestimar la altura: se camina cuesta arriba a casi 4.000 metros.",
+      "Subestimar la altura: se camina cuesta arriba a gran altura.",
       "Frontera de Kasani/Yunguyo: horarios y trámites cambian, vuelve a comprobarlos antes de salir."
     ],
     esperienzeSlugs: [],
@@ -490,7 +490,7 @@ export const destinazioniBolivia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Centro colonial de Sucre y Casa de la Libertad",
-        "testo": "La capital constitucional, ciudad colonial blanca patrimonio de la UNESCO desde 1991, a unos 2.800 metros. En la Casa de la Libertad se fundó la república.",
+        "testo": "La capital constitucional, ciudad colonial blanca patrimonio de la UNESCO, a menor altura que La Paz. En la Casa de la Libertad se fundó la república.",
         "come": "A pie desde el centro.",
         "quando": "De día.",
         "tempo": "Medio día",
@@ -518,7 +518,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "A pie desde el centro de Potosí.",
         "quando": "Mañana.",
         "tempo": "1-2 horas",
-        "consiglio": "A 4.000 metros hasta caminar por el centro cansa."
+        "consiglio": "A esta altura hasta caminar por el centro cansa."
       },
       {
         "nome": "Minas del Cerro Rico",
@@ -559,12 +559,12 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         "nome": "Centro histórico de Sucre",
         "perChi": "Quien se queda unos días",
-        "testo": "La ciudad más agradable donde detenerse en toda Bolivia."
+        "testo": "Una ciudad agradable donde quedarse unos días."
       },
       {
         "nome": "Centro de Potosí",
         "perChi": "Quien visita las minas",
-        "testo": "Alojamientos básicos a 4.000 metros. Noches frías."
+        "testo": "Alojamientos básicos a gran altura. Noches frías."
       }
     ],
     sapori: [
@@ -578,11 +578,11 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Sopas de Potosí",
-        "testo": "Contundentes, adecuadas a los cuatro mil metros."
+        "testo": "Contundentes, adecuadas a la altura."
       }
     ],
     attenzioni: [
-      "En Potosí la altura (4.000 metros) pesa: hasta caminar por el centro cansa.",
+      "En Potosí la altura pesa: hasta caminar por el centro cansa.",
       "Las minas son un lugar de trabajo, no una atracción cualquiera: condiciones durísimas.",
       "Lleva un pequeño regalo para los mineros (hojas de coca, bebidas) comprado en el mercado de los mineros.",
       "Bloqueos de carreteras: pueden cortar las conexiones durante días."
@@ -691,7 +691,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "quando": "En la temporada seca.",
         "tempo": "3-4 días",
         "costo": "Depende del lodge y de la duración: pregunta el precio directamente al lodge o a la agencia",
-        "consiglio": "Elige un lodge gestionado por comunidades indígenas, como Chalalán o San Miguel del Bala."
+        "consiglio": "Elige un lodge gestionado por comunidades indígenas."
       },
       {
         "nome": "Delfines rosados y atardeceres en las pampas",
@@ -703,7 +703,7 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Vuelo La Paz-Rurrenabaque",
-        "testo": "Un vuelo de unos 45 minutos a una hora en aviones pequeños, que puede cancelarse por el clima y lleva de los 4.000 metros al nivel de la selva.",
+        "testo": "Un vuelo de unos 45 minutos a una hora en aviones pequeños, que puede cancelarse por el clima y lleva del altiplano al nivel de la selva.",
         "come": "Reserva con margen; la alternativa es un bus de unas 18 horas.",
         "quando": "Todo el año.",
         "tempo": "45 minutos a 1 hora",

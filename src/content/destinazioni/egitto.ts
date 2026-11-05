@@ -70,7 +70,7 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Cittadella di Saladino e moschea di Muhammad Ali",
-        "testo": "La fortezza voluta da Saladino nel 1176 e completata nel 1207, sulla collina che domina la città, con la moschea ottomana di Muhammad Ali. Dal bordo, nelle giornate limpide, la vista arriva fino alle piramidi.",
+        "testo": "La fortezza voluta da Saladino nel XII secolo, sulla collina che domina la città, con la moschea ottomana di Muhammad Ali. Dal bordo, nelle giornate limpide, la vista arriva fino alle piramidi.",
         "come": "Taxi o Uber fino all'ingresso. Si gira a piedi dentro la cittadella, con scarpe comode.",
         "quando": "Aperta tutti i giorni 8-17 (2026). Il pomeriggio ha la luce migliore.",
         "tempo": "2 ore",
@@ -132,7 +132,7 @@ export const destinazioniEgitto: Destinazione[] = [
     sapori: [
       {
         "nome": "Koshari",
-        "testo": "Riso, lenticchie, pasta, ceci e salsa piccante di pomodoro: il piatto di strada nazionale, da Abou Tarek a Downtown."
+        "testo": "Riso, lenticchie, pasta, ceci e salsa piccante di pomodoro: il piatto di strada nazionale, nelle trattorie specializzate di tutta la città."
       },
       {
         "nome": "Ful e taameya",
@@ -209,17 +209,17 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Saqqara",
-        "testo": "La piramide a gradoni di Djoser, considerata la prima grande costruzione in pietra tagliata, e le mastabe dipinte di Ti e Mereruka con rilievi molto belli.",
-        "come": "In auto con autista, 45-60 minuti da Giza.",
+        "testo": "La piramide a gradoni di Djoser, considerata la prima grande costruzione in pietra tagliata, e le tombe dei nobili, come la mastaba di Mereruka, con rilievi molto belli.",
+        "come": "In auto con autista da Giza o dal Cairo.",
         "quando": "Aperto tutti i giorni 8-16 (2026). Meglio la mattina.",
         "tempo": "2-3 ore",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/saqqara/",
-        "consiglio": "Le tombe dipinte valgono più della piramide stessa e hanno pochissima gente.",
+        "consiglio": "Le tombe dipinte valgono quanto la piramide e di solito hanno meno gente.",
         "costo": "600 EGP l'area per adulti stranieri; biglietto cumulativo con museo Imhotep, tombe dei nobili e del Nuovo Regno, Mereruka e Mehu 1.400 EGP (2026)"
       },
       {
         "nome": "Dahshur",
-        "testo": "La piramide Rossa e la piramide Romboidale, di Snefru: i tentativi che portarono alla vera piramide liscia. Pochissima gente.",
+        "testo": "La piramide Rossa e la piramide Romboidale, di Snefru: i tentativi che portarono alla vera piramide liscia. Di solito c'è poca gente.",
         "come": "In auto con autista, vicino a Saqqara.",
         "quando": "Aperto tutti i giorni 8-17 (2026). Meglio la mattina, con meno caldo.",
         "tempo": "1-2 ore",
@@ -273,7 +273,7 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Pane baladi",
-        "testo": "Pane piatto cotto sul posto nei forni dei villaggi vicini."
+        "testo": "Pane piatto egiziano, cotto nei forni di quartiere."
       }
     ],
     attenzioni: [
@@ -342,7 +342,7 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Tempio di Luxor",
-        "testo": "Un tempio più piccolo, in mezzo alla città, con le statue colossali di Ramses II e uno dei due obelischi di 25 metri: l'altro è a Parigi, in place de la Concorde, dal 1836. La sera, illuminato, è bellissimo.",
+        "testo": "Un tempio più piccolo, in mezzo alla città, con le statue colossali di Ramses II e uno dei due obelischi dell'ingresso: l'altro è a Parigi, in place de la Concorde, dal 1836. La sera, illuminato, è bellissimo.",
         "come": "A piedi dal lungofiume sulla riva est.",
         "quando": "Aperto tutti i giorni 6-20 (2026). Tramonto e sera.",
         "tempo": "1 ora",
@@ -361,7 +361,7 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Tempio di Hatshepsut",
-        "testo": "Il tempio funerario della regina-faraone a Deir el-Bahari, a terrazze sotto la parete di roccia. L'architettura è molto moderna.",
+        "testo": "Il tempio funerario della regina-faraone a Deir el-Bahari, a terrazze sotto la parete di roccia, con un'architettura che sembra moderna.",
         "come": "Sulla riva ovest, vicino alla Valle dei Re.",
         "quando": "Aperto tutti i giorni 6-17 (2026). Mattina presto.",
         "tempo": "1 ora",
@@ -370,12 +370,12 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Medinet Habu e Colossi di Memnone",
-        "testo": "Il tempio di Ramses III con rilievi ancora colorati e pochissimi visitatori, vicino ai due colossi di Amenhotep III che sorvegliano la piana.",
+        "testo": "Il tempio di Ramses III, con rilievi ancora colorati e meno visitatori dei grandi templi, vicino ai due colossi di Amenhotep III che sorvegliano la piana.",
         "come": "Sulla riva ovest, in taxi con le altre tappe.",
         "quando": "Metà mattina o fine pomeriggio.",
         "tempo": "1-1,5 ore",
-        "consiglio": "Medinet Habu è il tempio più sottovalutato di Luxor.",
-        "costo": "Medinet Habu: prezzo in biglietteria; i Colossi si vedono dalla strada"
+        "consiglio": "Medinet Habu è spesso trascurato, ma merita la sosta.",
+        "costo": "Medinet Habu a pagamento: prezzi sul sito ufficiale egymonuments.gov.eg o in biglietteria; i Colossi si vedono dalla strada"
       }
     ],
     programmi: [
@@ -411,7 +411,7 @@ export const destinazioniEgitto: Destinazione[] = [
     sapori: [
       {
         "nome": "Piccione ripieno",
-        "testo": "Il piatto più tipico di Luxor, nei ristoranti della riva ovest."
+        "testo": "Piatto tipico egiziano, servito anche nei ristoranti della riva ovest."
       },
       {
         "nome": "Tagine di carne",
@@ -478,8 +478,8 @@ export const destinazioniEgitto: Destinazione[] = [
     luoghi: [
       {
         "nome": "Abu Simbel",
-        "testo": "I due templi di Ramses II e Nefertari scavati nella roccia, con le statue colossali all'ingresso. Tra il 1963 e il 1968 furono tagliati a blocchi e spostati per salvarli dal lago Nasser. Il 22 febbraio e il 22 ottobre il sole entra fino al santuario.",
-        "come": "Da Assuan circa 300 km di strada, con partenza prima dell'alba, oppure in aereo.",
+        "testo": "I due templi di Ramses II e Nefertari scavati nella roccia, con le statue colossali all'ingresso. Negli anni Sessanta furono tagliati a blocchi e spostati per salvarli dal lago Nasser. Il 22 febbraio e il 22 ottobre il sole entra fino al santuario.",
+        "come": "Da Assuan in auto, con partenza prima dell'alba, oppure in aereo.",
         "quando": "Aperto tutti i giorni 6-17 (2026). Arrivare all'apertura, prima dei bus dei gruppi.",
         "tempo": "1,5-2 ore sul posto",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/abu-simbel/",
@@ -496,16 +496,8 @@ export const destinazioniEgitto: Destinazione[] = [
         "costo": "550 EGP per adulti stranieri, 275 per studenti, più la barca dal molo da concordare (2026)"
       },
       {
-        "nome": "Villaggio nubiano di Gharb Soheil",
-        "testo": "Un villaggio di case colorate sull'isola vicino ad Assuan, con ristoranti e famiglie nubiane.",
-        "come": "In barca dal lungofiume.",
-        "quando": "Tardo pomeriggio.",
-        "tempo": "2 ore",
-        "consiglio": "Pranzare in una casa nubiana è il modo migliore per capire la zona."
-      },
-      {
         "nome": "Feluca al tramonto",
-        "testo": "La barca a vela tradizionale intorno all'isola Elefantina e alle isole dei giardini, per un giro di un'ora o due.",
+        "testo": "La barca a vela tradizionale intorno all'isola Elefantina, per un giro di un'ora o due.",
         "come": "Dal lungofiume di Assuan.",
         "quando": "Tramonto.",
         "tempo": "1-2 ore",
@@ -530,13 +522,13 @@ export const destinazioniEgitto: Destinazione[] = [
       {
         "nome": "Abu Simbel",
         "perChi": "chi vuole l'alba ai templi",
-        "testo": "Pochi hotel e un solo villaggio: utile per evitare la sveglia notturna."
+        "testo": "Poche strutture: utile per evitare la sveglia notturna."
       }
     ],
     sapori: [
       {
         "nome": "Cucina nubiana",
-        "testo": "Piatti di pollo, pesce e riso speziati, nelle case di Gharb Soheil."
+        "testo": "Piatti di pollo, pesce e riso speziati, nei villaggi nubiani intorno ad Assuan."
       },
       {
         "nome": "Karkadè",
@@ -616,8 +608,8 @@ export const destinazioniEgitto: Destinazione[] = [
         "tempo": "1 ora"
       },
       {
-        "nome": "Deserto, laghi salati e sorgente di Cleopatra",
-        "testo": "Gita in fuoristrada verso il Grande Mare di Sabbia con sandboarding, tramonto sulle dune e bagno nelle sorgenti, come quella detta di Cleopatra, e nei laghi salati.",
+        "nome": "Deserto, laghi salati e sorgenti",
+        "testo": "Gita in fuoristrada verso il Grande Mare di Sabbia con sandboarding, tramonto sulle dune e bagno nelle sorgenti e nei laghi salati.",
         "come": "Solo con un operatore locale, che ha il permesso per il deserto.",
         "quando": "Pomeriggio, con rientro al tramonto.",
         "tempo": "Mezza giornata",
@@ -629,7 +621,7 @@ export const destinazioniEgitto: Destinazione[] = [
         "titolo": "3 giorni",
         "tappe": [
           "Giorno 1: arrivo, fortezza di Shali, tramonto",
-          "Giorno 2: Aghurmi, sorgente di Cleopatra, deserto e notte in tenda",
+          "Giorno 2: Aghurmi, sorgenti, deserto e notte in tenda",
           "Giorno 3: bicicletta nell'oasi, rientro"
         ]
       }
@@ -653,15 +645,7 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Olio d'oliva",
-        "testo": "Pressato nell'oasi, usato in cucina e per la pelle."
-      },
-      {
-        "nome": "Tè al cammello e menta",
-        "testo": "Servito ai chioschi del paese."
-      },
-      {
-        "nome": "Pane di Siwa",
-        "testo": "Piatto e rotondo, cotto nei forni a legna."
+        "testo": "Prodotto nell'oasi con le olive locali."
       }
     ],
     attenzioni: [
@@ -717,23 +701,23 @@ export const destinazioniEgitto: Destinazione[] = [
     // GUIDA-START
     luoghi: [
       {
-        "nome": "Hurghada e le isole Giftun",
-        "testo": "Il polo turistico più grande, con barche per lo snorkeling alle isole Giftun e alla baia di Orange Bay.",
+        "nome": "Hurghada",
+        "testo": "Una delle principali località turistiche della costa, con escursioni in barca per lo snorkeling sulle isole e sui reef al largo.",
         "come": "Escursioni da prenotare con un operatore locale dal proprio hotel.",
         "quando": "Tutto l'anno, con acqua più fresca in inverno.",
         "tempo": "Giornata"
       },
       {
         "nome": "Marsa Alam e Abu Dabbab",
-        "testo": "Più a sud e più tranquilla: la baia di Abu Dabbab con tartarughe e delfini, e poco più a sud il parco nazionale di Wadi el-Gemal, dove vivono anche dugonghi e tartarughe verdi. L'aeroporto riceve voli turistici anche dall'Italia.",
+        "testo": "Più a sud e più tranquilla: la baia di Abu Dabbab, nota per le tartarughe marine, e più a sud il parco nazionale di Wadi el-Gemal, dove vivono anche dugonghi e tartarughe verdi. L'aeroporto riceve voli turistici anche dall'Italia.",
         "come": "In auto da Luxor o con voli diretti.",
         "quando": "Mattina presto, con meno barche.",
         "tempo": "Giornata",
-        "consiglio": "Per snorkeling di qualità la scelta migliore."
+        "consiglio": "Una buona scelta per chi cerca soprattutto lo snorkeling."
       },
       {
         "nome": "Sharm el-Sheikh e Ras Mohammed",
-        "testo": "Immersioni e snorkeling nel parco nazionale di Ras Mohammed, con il relitto del Thistlegorm poco lontano, e allo stretto di Tiran, con alcuni dei reef più belli del Mar Rosso.",
+        "testo": "Immersioni e snorkeling nel parco nazionale di Ras Mohammed, con il relitto del Thistlegorm non lontano.",
         "come": "Voli diretti dall'Europa e dal Cairo.",
         "quando": "Tutto l'anno.",
         "tempo": "Giornata"
@@ -744,7 +728,7 @@ export const destinazioniEgitto: Destinazione[] = [
         "titolo": "3 giorni",
         "tappe": [
           "Giorno 1: snorkeling dalla riva del resort",
-          "Giorno 2: barca per le isole o Ras Mohammed",
+          "Giorno 2: barca per i reef al largo o Ras Mohammed",
           "Giorno 3: corso o immersioni"
         ]
       }

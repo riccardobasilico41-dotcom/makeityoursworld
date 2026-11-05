@@ -47,8 +47,8 @@ export const destinazioniAustria: Destinazione[] = [
     luoghi: [
       {
         nome: "Schönbrunn Palace",
-        testo: "The Habsburgs' summer residence, a UNESCO site, with 1,441 rooms and baroque gardens. You visit the apartments of Franz Joseph and Sisi, with different tours.",
-        come: "Metro U4 to Schönbrunn (20 minutes from the centre). Timed tickets online.",
+        testo: "The Habsburgs' summer residence, a UNESCO site, with 1,441 rooms and baroque gardens. The imperial apartments can be visited on several routes.",
+        come: "By metro from the centre to Schönbrunn station. Timed tickets online.",
         quando: "Palace daily 8:30am-5pm, gardens from 6:30am; early morning to beat the groups.",
         tempo: "3-4 hours",
         costo: "Palace Ticket €42 adults (2026), online only on the official site; gardens free",
@@ -58,8 +58,8 @@ export const destinazioniAustria: Destinazione[] = [
       {
         nome: "Hofburg and Sisi Museum",
         testo: "The imperial palace in the centre, with imperial apartments, the silver collection and the museum dedicated to Sisi. The complex also houses the Spanish Riding School.",
-        come: "Metro U3 to Herrengasse, then on foot (5 minutes).",
-        quando: "Daily 10am-4:30pm; the redesigned Sisi Museum reopens on 19 November 2026. Weekday mornings.",
+        come: "In the centre, on foot.",
+        quando: "Opening times on the official website; the redesigned Sisi Museum reopens on 19 November 2026. Weekday mornings.",
         tempo: "2 hours",
         costo: "Sisi Museum €15, with guided tour of the apartments €33 (2026)",
         url: "https://www.sisimuseum-hofburg.at",
@@ -67,8 +67,8 @@ export const destinazioniAustria: Destinazione[] = [
       },
       {
         nome: "St Stephen's Cathedral (Stephansdom)",
-        testo: "The symbol of Vienna, in Gothic style, with a roof of 230,000 coloured tiles and the 136 metre south tower, climbed on foot. On the unfinished north tower a platform holds the Pummerin bell; below lie the catacombs with the remains of over 11,000 people.",
-        come: "Metro U1/U3 to Stephansplatz. Towers and catacombs are paid: prices on the official website.",
+        testo: "The symbol of Vienna, in Gothic style, with its roof of coloured tiles and the 136-metre south tower, climbed on foot. The unfinished north tower has a platform with the Pummerin bell; beneath the church are the catacombs.",
+        come: "Metro to Stephansplatz. Towers and catacombs are paid: prices on the official website.",
         quando: "Tourist visits Mon-Sat 9-11:30am and 1-4:30pm, Sundays and holidays 1-4:30pm, services permitting. Early morning or evening for the light on the roof.",
         tempo: "1 hour",
         url: "https://www.stephanskirche.at",
@@ -82,7 +82,7 @@ export const destinazioniAustria: Destinazione[] = [
         tempo: "2 hours",
         costo: "Upper Belvedere €23 adults (2026, day price)",
         url: "https://www.belvedere.at",
-        consiglio: "Entry is free up to 19; in summer (mid-July to August) it opens until 7pm."
+        consiglio: "Discounts and summer hours on the official website."
       },
       {
         nome: "Kunsthistorisches Museum",
@@ -92,12 +92,12 @@ export const destinazioniAustria: Destinazione[] = [
         tempo: "2-3 hours",
         costo: "€22 online, €24 on site (2026); since 8 September 2026 entry by time slot only",
         url: "https://www.khm.at",
-        consiglio: "The Bruegel room is the most famous, but on its own is worth half the museum."
+        consiglio: "The Bruegel room alone is worth the visit."
       },
       {
         nome: "State Opera (Staatsoper)",
         testo: "One of the most important opera houses in the world. You can visit with a guided tour or attend a performance with very cheap standing tickets.",
-        come: "Metro U1/U2/U4 to Karlsplatz. Standing tickets are sold only on the day of the performance, from 10am.",
+        come: "On the Ring, in the centre, on foot. Standing tickets are sold only on the day of the performance, from 10am.",
         quando: "Evening; buy standing places that same morning, as soon as sales open.",
         tempo: "3 hours",
         url: "https://www.wiener-staatsoper.at",
@@ -106,20 +106,19 @@ export const destinazioniAustria: Destinazione[] = [
       {
         nome: "Prater and Riesenrad",
         testo: "The big park with the 1897 Ferris wheel, famous from the film 'The Third Man'. There are historic rides and the long tree-lined avenue.",
-        come: "Metro U1 to Praterstern.",
+        come: "By public transport from the centre.",
         quando: "Afternoon or evening, for the view of the city.",
         tempo: "2 hours",
-        costo: "park entry free",
         url: "https://www.wienerriesenrad.com",
         consiglio: "Ride the wheel at sunset."
       },
       {
         nome: "Naschmarkt",
-        testo: "Vienna's most famous market: stalls of fruit, spices, olives and restaurants. On Saturdays there is also a flea market.",
-        come: "Metro U4 to Kettenbrückengasse.",
-        quando: "Monday to Saturday; closed on Sunday.",
+        testo: "A large open-air market: stalls of fruit, spices, olives and restaurants.",
+        come: "On foot from the centre, near Karlsplatz.",
+        quando: "Morning; check days and opening times before you go.",
         tempo: "1-2 hours",
-        consiglio: "Saturday morning is the liveliest time."
+        consiglio: "Go in the morning, when the stalls are full."
       }
     ],
     programmi: [
@@ -188,7 +187,6 @@ export const destinazioniAustria: Destinazione[] = [
       "Concerts: buy tickets at the box office or on official websites, not from costumed sellers in the street.",
       "Fiaker (carriages) are expensive: ask the price first.",
       "Transit tickets: validate paper ones before boarding, or risk an on-the-spot fine.",
-      "On Sundays shops are closed, supermarkets included.",
       "Pickpockets in crowded centres, on transport and at main stations; take more care in parks after dark."
     ],
     esperienzeSlugs: ['vienna-schonbrunn-biglietto', 'vienna-opera-stehplatz', 'vienna-giro-caffe-storici'],

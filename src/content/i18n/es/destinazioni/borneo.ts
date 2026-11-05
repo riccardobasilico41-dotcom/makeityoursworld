@@ -10,29 +10,29 @@ export const destinazioniBorneo: Destinazione[] = [
     giorniConsigliati: "1 día en la ciudad, más 2-3 para la subida al Kinabalu",
     visitataPersonalmente: true,
     introduzione:
-      "La puerta de entrada de Sabah: una ciudad portuaria sin grandes pretensiones, con los mejores atardeceres de Borneo y cinco islas a veinte minutos en barca. Detrás está el Monte Kinabalu, 4.095 metros, la cima más alta del sudeste asiático entre el Himalaya y Nueva Guinea.",
+      "La puerta de entrada de Sabah: una ciudad portuaria sin grandes pretensiones, con atardeceres muy bonitos sobre el mar y cinco islas a poca distancia en barca. Detrás está el Monte Kinabalu, 4.095 metros, la cima más alta de Borneo.",
     percheAndarci:
-      "En Sabah todo parte de aquí. Y el Kinabalu es una de las pocas cumbres del mundo por encima de los 4.000 metros que se suben sin experiencia alpinista, siempre que se tenga el permiso, que tiene cupo y hay que reservar con meses de antelación.",
+      "En Sabah todo parte de aquí. Y el Kinabalu es una cumbre de más de 4.000 metros que se sube sin experiencia alpinista, siempre que se tenga el permiso, que tiene cupo y hay que reservar con mucha antelación.",
     cosaVedere: [
       "El Monte Kinabalu, con los senderos que parten de la Timpohon Gate y el refugio de Laban Rata",
       "El Parque Kinabalu, Patrimonio de la UNESCO, que se visita también sin subir a la cima",
       "Las aguas termales de Poring y la pasarela en el dosel del parque",
-      "El parque marino de Tunku Abdul Rahman, cinco islas a veinte minutos en barca de la ciudad",
+      "El parque marino de Tunku Abdul Rahman, cinco islas a poca distancia en barca de la ciudad",
       "El mercado de pescado y el Filipino Market en el paseo marítimo, con los puestos de la noche",
       "La mezquita de la ciudad en Likas, que parece flotar sobre el agua",
     ],
     cosaFare: [
       "Subir el Kinabalu en dos días con la noche en Laban Rata (hay una ficha de experiencia dedicada)",
-      "La vía ferrata desde la cresta en la cima, la más alta del mundo, para quien ya tiene el permiso de subida",
+      "La vía ferrata cerca de la cima, para quien ya tiene el permiso de subida",
       "Un día de snorkel en las islas del parque marino",
       "El atardecer en el paseo marítimo, que en Kota Kinabalu es un rito colectivo",
     ],
     doveDormire:
-      "En la ciudad la zona más cómoda es el paseo marítimo. Para la subida al Kinabalu se duerme en Kundasang o dentro del parque, porque se sale al amanecer y desde Kota Kinabalu son dos horas de carretera: hacerlo en el día significa levantarse a las tres.",
+      "En la ciudad la zona más cómoda es el paseo marítimo. Para la subida al Kinabalu se duerme en Kundasang o dentro del parque, porque se sale al amanecer y desde Kota Kinabalu hay un largo trayecto por carretera: hacerlo en el día significa levantarse en plena noche.",
     doveMangiare:
       "En Kota Kinabalu se come junto al mar. En el Filipino Market se elige el pescado en el puesto y se hace a la parrilla al momento: es la cena más típica de la ciudad, a precios bajos. Hay que probar el hinava, el pescado crudo marinado en lima de los kadazan-dusun, y el tuaran mee, los fideos hechos a mano de la zona. En las ciudades de Sabah la cocina china es excelente y está por todas partes.",
     comeArrivare:
-      "En avión a Kota Kinabalu (BKI) desde Kuala Lumpur, unas 2h30, con decenas de vuelos al día. A la llegada se pasa el control de pasaportes de Sabah, que tiene una inmigración propia incluso para quien llega desde la península.",
+      "En avión a Kota Kinabalu (BKI) desde Kuala Lumpur, con muchos vuelos al día. A la llegada se pasa el control de pasaportes de Sabah, que tiene una inmigración propia incluso para quien llega desde la península.",
     comeSpostarsi:
       "En la ciudad a pie y con Grab. Para el parque del Kinabalu y para Sandakan hacen falta minibuses interurbanos o traslados privados: las carreteras son lentas y en el mapa las distancias engañan.",
     periodoMigliore:
@@ -40,18 +40,18 @@ export const destinazioniBorneo: Destinazione[] = [
     costi:
       "la subida al Kinabalu es cara y no hay forma de ahorrar: permiso, guía obligatorio, noche en Laban Rata y traslados se pagan en paquete, y es una de las partidas más altas de todo el viaje. Las islas del parque marino, en cambio, cuestan muy poco.",
     erroriDaEvitare: [
-      "Pensar en reservar la subida al Kinabalu sobre el terreno: los permisos diarios son poco más de ciento sesenta y se agotan con meses de antelación",
-      "Subestimar la altura: se parte de 1.866 metros y se llega a 4.095 en poco más de 24 horas, sin aclimatación, y el mal de altura afecta también a quien está entrenado",
+      "Pensar en reservar la subida al Kinabalu sobre el terreno: los permisos diarios son pocos y se agotan con mucha antelación",
+      "Subestimar la altura: se parte de menos de dos mil metros y se llega a 4.095 en poco más de un día, sin aclimatación, y el mal de altura afecta también a quien está entrenado",
       "Dormir en Kota Kinabalu la noche antes de la subida",
-      "Usar la ciudad solo como escala: el atardecer en el paseo marítimo y las islas a veinte minutos valen un día",
+      "Usar la ciudad solo como escala: el atardecer en el paseo marítimo y las islas cercanas valen un día",
     ],
     miaEsperienza:
       "Kota Kinabalu en sí es una ciudad más funcional que bonita, reconstruida tras los bombardeos de la Segunda Guerra Mundial, y en media jornada se la ha entendido. El motivo para venir está detrás. El Kinabalu se sube en dos días. El primero es una escalera sin fin en la selva tropical, seis kilómetros de escalones irregulares con la humedad encima, hasta el refugio de Laban Rata a 3.270 metros, adonde llegamos a primera hora de la tarde. El segundo empieza a las dos de la madrugada, a oscuras, sobre el granito desnudo, agarrado a una cuerda fija. La altura se nota: se parte de menos de dos mil metros y en poco más de un día se está por encima de los cuatro mil, sin aclimatación, y el dolor de cabeza es la regla más que la excepción. Luego el sol sale sobre la plataforma de granito, y debajo está todo Borneo, con las nubes bajo los pies. El consejo práctico que cuenta más que ninguno: los permisos son poco más de ciento sesenta al día y hay que reservarlos con meses de antelación, no semanas.",
     luoghi: [
       {
         nome: "Monte Kinabalu",
-        testo: "4.095 metros, la montaña más alta de Borneo y del sudeste asiático insular. Se sube en dos días: el primero hasta el refugio de Laban Rata a 3.270 metros, el segundo saliendo de noche para el amanecer sobre el granito desnudo de la cima.",
-        come: "La subida solo se permite con guía registrado (uno cada cinco adultos) y un permiso nominal, que se reserva con meses de antelación junto con la cama en Laban Rata, a través de Sabah Parks u operadores autorizados. Se sale del Timpohon Gate: el sendero de Mesilau está cerrado. Desde la ciudad hay unas 2 horas de carretera.",
+        testo: "4.095 metros, la montaña más alta de Borneo. Se sube en dos días: el primero hasta el refugio de Laban Rata, a más de 3.200 metros, el segundo saliendo de noche para el amanecer sobre el granito desnudo de la cima.",
+        come: "La subida solo se permite con guía registrado (uno cada cinco adultos) y un permiso nominal, que se reserva con meses de antelación junto con la cama en Laban Rata, a través de Sabah Parks u operadores autorizados. Se sale del Timpohon Gate: el sendero de Mesilau está cerrado.",
         quando: "En los meses más secos; con mal tiempo la montaña cierra. Reservar con margen.",
         tempo: "2 días, 1 noche en Laban Rata",
         costo: "Permiso de subida 400 RM para adultos extranjeros, guía 350 RM cada cinco personas, seguro 10 RM (tarifas de Sabah Parks vigentes desde 2023); refugio y entrada al parque aparte.",
@@ -60,8 +60,8 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Kinabalu Park",
-        testo: "El parque, Patrimonio de la UNESCO, tiene una de las mayores biodiversidades del mundo. Se visita también sin subir a la cima, con senderos en el bosque, orquídeas y un centro botánico.",
-        come: "En autobús o coche desde Kota Kinabalu hacia Ranau, unas 2 horas. Senderos a pie desde la sede del parque.",
+        testo: "El parque, Patrimonio de la UNESCO, tiene una biodiversidad riquísima. Se visita también sin subir a la cima, con senderos en el bosque, orquídeas y un centro botánico.",
+        come: "En autobús o coche desde Kota Kinabalu hacia Ranau. Senderos a pie desde la sede del parque.",
         quando: "Por la mañana.",
         tempo: "medio día",
         url: "https://www.sabahparks.org.my/",
@@ -69,7 +69,7 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Poring Hot Springs y canopy walkway",
-        testo: "Aguas termales en una zona del parque a unos 40 km de la sede principal, con una pasarela colgante entre los árboles de la selva.",
+        testo: "Aguas termales en otra zona del parque, lejos de la sede principal, con una pasarela colgante entre los árboles de la selva.",
         come: "En coche o taxi desde el Kinabalu Park.",
         quando: "Por la mañana la pasarela; por la tarde las pozas.",
         tempo: "3 horas",
@@ -77,13 +77,13 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Parque marino Tunku Abdul Rahman",
-        testo: "Cinco islas a poca distancia en barco de la ciudad, Gaya, Manukan, Mamutik, Sapi y Sulug, con playas, esnórquel y agua transparente. Gaya es la más grande, Manukan la más equipada. La elección adecuada para una tarde de mar después de la montaña.",
-        come: "En barca desde el muelle de Jesselton Point, a horas libres. Se paga la tasa del parque.",
+        testo: "Cinco islas a poca distancia en barco de la ciudad, Gaya, Manukan, Mamutik, Sapi y Sulug, con playas, esnórquel y agua transparente. Gaya es la más grande. La elección adecuada para una tarde de mar después de la montaña.",
+        come: "En barca desde el muelle de Jesselton Point. Se paga la tasa del parque.",
         quando: "El parque abre todos los días, 8-17. Por la mañana el mar está más tranquilo.",
         tempo: "medio día",
         costo: "Entrada al parque 25 RM al día para adultos extranjeros (Sabah Parks), más la barca.",
         url: "https://www.sabahparks.org.my/",
-        consiglio: "Mamutik y Manukan son las más cómodas; Sapi es la más concurrida."
+        consiglio: "Manukan, Mamutik y Sapi son los destinos más habituales para un día."
       },
       {
         nome: "Paseo marítimo, Filipino Market y atardecer",
@@ -109,7 +109,7 @@ export const destinazioniBorneo: Destinazione[] = [
         tappe: [
           "Día 1: llegada a Kota Kinabalu, traslado a Kinabalu Park, noche cerca del parque",
           "Día 2: subida a Laban Rata, descanso y cena",
-          "Día 3: salida a las 2, cima al amanecer, descenso y regreso a Kota Kinabalu"
+          "Día 3: salida de noche, cima al amanecer, descenso y regreso a Kota Kinabalu"
         ]
       }
     ],
@@ -122,7 +122,7 @@ export const destinazioniBorneo: Destinazione[] = [
       {
         nome: "Cerca de Kinabalu Park (Kundasang)",
         perChi: "quien sube a la cima",
-        testo: "Lodges y casas de huéspedes a 2 horas de la ciudad, cerca del Timpohon Gate. Fresco por la noche."
+        testo: "Lodges y casas de huéspedes lejos de la ciudad, cerca del Timpohon Gate. Fresco por la noche."
       }
     ],
     sapori: [
@@ -141,7 +141,7 @@ export const destinazioniBorneo: Destinazione[] = [
     ],
     attenzioni: [
       "Los permisos del Kinabalu son limitados y se agotan con meses de antelación: no contar con reservar sobre la marcha.",
-      "La altitud se nota: se sube de 1.866 a 4.095 metros en poco más de un día, y el mal de altura afecta incluso a quien está entrenado.",
+      "La altitud se nota: se sube de menos de dos mil a 4.095 metros en poco más de un día, y el mal de altura afecta incluso a quien está entrenado.",
       "Consultar los avisos de viaje de la costa oriental de Sabah antes de moverse más allá de la zona de Kota Kinabalu.",
       "Llevar efectivo para los pequeños negocios: fuera de la ciudad las tarjetas no siempre funcionan."
     ],
@@ -160,20 +160,19 @@ export const destinazioniBorneo: Destinazione[] = [
     giorniConsigliati: "2 días",
     visitataPersonalmente: true,
     introduzione:
-      "Aquí está el centro de rehabilitación de orangutanes más conocido del mundo, donde los animales huérfanos o confiscados son devueltos poco a poco a la selva, y al lado el centro de los osos malayos, los osos más pequeños del planeta. A media hora, la ciudad de Sandakan conserva la memoria de uno de los capítulos más duros de la guerra del Pacífico.",
+      "Aquí está un conocido centro de rehabilitación de orangutanes, donde los animales huérfanos o confiscados son devueltos poco a poco a la selva, y al lado el centro de los osos malayos, los osos más pequeños del planeta. No muy lejos, la ciudad de Sandakan conserva la memoria de uno de los capítulos más duros de la guerra del Pacífico.",
     percheAndarci:
-      "Es el lugar donde es más probable ver orangutanes de cerca, y la base natural para el Kinabatangan. El Sandakan Memorial Park, además, cuenta las marchas de la muerte de 1945: de 2.400 prisioneros aliados sobrevivieron seis.",
+      "Es el lugar donde es más probable ver orangutanes de cerca, y la base natural para el Kinabatangan. El Sandakan Memorial Park, además, cuenta las marchas de la muerte de 1945, a las que sobrevivieron poquísimos prisioneros aliados.",
     cosaVedere: [
       "El Sepilok Orangutan Rehabilitation Centre, con las plataformas donde se deja la comida",
       "El Bornean Sun Bear Conservation Centre, al lado, a menudo omitido y igual de interesante",
       "El Rainforest Discovery Centre, con una pasarela en el dosel excelente para la observación de aves al amanecer",
       "El Sandakan Memorial Park, en el lugar del campo de prisioneros japonés",
-      "La Agnes Keith House y la vista sobre la bahía de Sandakan",
     ],
     cosaFare: [
       "Asistir a las sesiones de alimentación en el centro de Sepilok (hay una ficha de experiencia dedicada)",
       "La pasarela en el dosel del Rainforest Discovery Centre al amanecer, cuando pasan los cálaos",
-      "El centro de los osos malayos, a doscientos metros, que casi nadie incluye en el programa",
+      "El centro de los osos malayos, al lado, que casi nadie incluye en el programa",
       "Una excursión a las islas de las tortugas de Selingan, para ver de noche la puesta de huevos",
     ],
     doveDormire:
@@ -181,27 +180,27 @@ export const destinazioniBorneo: Destinazione[] = [
     doveMangiare:
       "En Sandakan se come pescado y cocina china, ambos de buen nivel: la ciudad tiene una comunidad china histórica, y el sitio adecuado son los restaurantes de marisco del paseo marítimo. En Sepilok solo están los restaurantes de los lodges, sencillos y con menús fijos.",
     comeArrivare:
-      "Vuelo de Kota Kinabalu a Sandakan (unos 45 minutos) o 6 horas de carretera. De Sandakan a Sepilok son 25 kilómetros.",
+      "Vuelo de Kota Kinabalu a Sandakan o un largo viaje por carretera. Sepilok está a las afueras de Sandakan.",
     comeSpostarsi: "Taxi o traslados organizados por los lodges. Hay transporte público, pero pasa raramente y con equipaje es incómodo.",
     periodoMigliore:
-      "todo el año para los centros, con una precisión importante: en la temporada de frutos de la selva (más o menos entre diciembre y febrero, pero con variaciones) los orangutanes encuentran comida por sí solos y a las sesiones de alimentación llegan muchos menos. De abril a octubre las probabilidades son más altas.",
-    costi: "Sepilok unos 30 ringgit más el permiso para la cámara; centro de los osos malayos 50 ringgit (2025); Rainforest Discovery Centre con entrada aparte.",
+      "todo el año para los centros, con una precisión importante: en la temporada de frutos de la selva, que varía de un año a otro, los orangutanes encuentran comida por sí solos y a las sesiones de alimentación llegan muchos menos.",
+    costi: "Sepilok con entrada (precios actualizados en taquilla); centro de los osos malayos 50 ringgit (2025); Rainforest Discovery Centre con entrada aparte.",
     erroriDaEvitare: [
-      "Ir a una sola sesión de alimentación: son dos al día, y en una temporada desfavorable dos intentos duplican las probabilidades",
+      "Ir a una sola sesión de alimentación: en una temporada desfavorable dos intentos duplican las probabilidades",
       "Llevar mochilas abiertas, botellas o comida en la mano: los macacos los arrebatan, y ocurre a menudo",
       "Quedarse en Sepilok y saltarse el Kinabatangan convencidos de haber visto la fauna de Borneo: aquí los orangutanes son semisalvajes y están habituados a las personas",
-      "Saltarse el Sandakan Memorial Park porque «es solo un parque»: es uno de los lugares de memoria más fuertes del sudeste asiático",
+      "Saltarse el Sandakan Memorial Park porque «es solo un parque»: es un lugar de memoria muy intenso",
     ],
     confronti: [
       {
         titolo: "Dónde ver orangutanes: Borneo o Sumatra",
         introduzione:
-          "Los orangutanes salvajes viven solo en dos islas del mundo, Borneo y Sumatra, y son dos especies distintas; tres, contando el tapanuli, descubierto en 2017 y reducido a unos pocos cientos de individuos. Es la elección que cambia el viaje más que ninguna otra, porque en los lugares principales probabilidad de avistamiento, costes y autenticidad son completamente diferentes. En general, cuanto más salvaje es el encuentro, menos garantizado está y más cuesta llegar.",
+          "Los orangutanes salvajes viven solo en dos islas del mundo, Borneo y Sumatra, y son dos especies distintas; tres, contando el tapanuli, descrito hace poco y con poquísimos individuos. Es la elección que cambia el viaje más que ninguna otra, porque en los lugares principales probabilidad de avistamiento, costes y autenticidad son completamente diferentes. En general, cuanto más salvaje es el encuentro, menos garantizado está y más cuesta llegar.",
         opzioni: [
           {
             nome: "Sepilok (Sabah)",
             sintesi: "Centro de rehabilitación para huérfanos y animales confiscados, con dos sesiones de alimentación al día en plataformas accesibles por pasarelas.",
-            costo: "unos 30 ringgit de entrada",
+            costo: "entrada, precios en taquilla",
             durata: "media jornada; se duerme al lado",
             pro: [
               "La probabilidad más alta de ver orangutanes de cerca, en cualquier época",
@@ -219,11 +218,11 @@ export const destinazioniBorneo: Destinazione[] = [
           {
             nome: "Río Kinabatangan (Sabah)",
             sintesi: "Salidas en barca al amanecer y al atardecer a lo largo del río, donde los animales se concentran en la franja de selva que queda en las orillas.",
-            costo: "paquetes en lodge desde unos 100€ por noche, con comidas y salidas incluidas",
+            costo: "paquetes en lodge con comidas y salidas incluidas",
             durata: "2-3 noches",
             pro: [
               "Orangutanes completamente salvajes, junto con monos narigudos, elefantes pigmeos, cocodrilos y cálaos",
-              "La mejor relación entre probabilidad de avistamiento y coste de todo Borneo",
+              "Una muy buena relación entre probabilidad de avistamiento y coste",
               "Con dos o tres noches las probabilidades suben bastante",
             ],
             contro: [
@@ -235,7 +234,7 @@ export const destinazioniBorneo: Destinazione[] = [
           },
           {
             nome: "Danum Valley (Sabah)",
-            sintesi: "Selva primaria nunca talada, con un centro de investigación y un lodge de alta gama, senderos y una pasarela en el dosel a 26 metros.",
+            sintesi: "Selva primaria nunca talada, con un centro de investigación y un lodge de alta gama, senderos y una pasarela en el dosel.",
             costo: "la etapa más cara de Borneo, con paquetes de varias noches",
             durata: "al menos 3 noches, para que tenga sentido",
             pro: [
@@ -253,13 +252,13 @@ export const destinazioniBorneo: Destinazione[] = [
           {
             nome: "Bukit Lawang (Sumatra, Indonesia)",
             sintesi: "La otra isla: trekking en la jungla del Gunung Leuser, con los orangutanes de Sumatra, una especie distinta de la de Borneo y en peligro crítico.",
-            costo: "con diferencia el más económico: trekkings guiados de 1-3 días por unas pocas decenas de euros",
+            costo: "con diferencia el más económico: trekkings guiados a precios bajos",
             durata: "1-3 días de trekking",
             pro: [
               "Se camina dentro de la selva y se los busca a pie, en lugar de mirarlos desde una plataforma o una barca",
               "Las probabilidades de verlos son altas, porque en la zona viven animales antes rehabilitados y ya salvajes",
               "Costes bajísimos respecto a cualquier opción de Borneo: alojamientos, guías y trekkings cuestan una fracción",
-              "La jungla del Leuser es el último lugar del mundo donde orangutanes, tigres, rinocerontes y elefantes viven en el mismo ecosistema",
+              "La jungla del Leuser es uno de los últimos lugares del mundo donde orangutanes, tigres, rinocerontes y elefantes viven en el mismo ecosistema",
             ],
             contro: [
               "El problema ético existe y hay que conocerlo antes: algunos guías atraen a los animales con comida para garantizar el avistamiento, una práctica que hay que rechazar de forma explícita al reservar",
@@ -275,12 +274,12 @@ export const destinazioniBorneo: Destinazione[] = [
             costo: "pocos ringgit",
             durata: "2-3 horas, en el día desde Kuching",
             pro: [
-              "Comodísima: a media hora de Kuching, se hace en media mañana",
+              "Comodísima: está cerca de Kuching y se hace en una mañana",
               "Los animales son libres y semisalvajes, no están en recintos",
               "En la temporada adecuada pueden llegar bastantes a la vez",
             ],
             contro: [
-              "En la temporada de frutos (más o menos noviembre-marzo) puede no llegar nadie, y la reserva lo dice abiertamente",
+              "En la temporada de frutos puede no llegar nadie, y la reserva lo dice abiertamente",
               "Muy concurrida, y la parada dura poco",
               "Está en Sarawak: solo tiene sentido si el viaje pasa por Kuching",
             ],
@@ -297,10 +296,10 @@ export const destinazioniBorneo: Destinazione[] = [
       {
         nome: "Sepilok Orangutan Rehabilitation Centre",
         testo: "Centro que acoge orangutanes huérfanos o confiscados al comercio ilegal, en rehabilitación antes de volver al bosque. Desde las plataformas se ve a los animales llegar a comer tras la ración de fruta.",
-        come: "A 25 km de Sandakan, en taxi o autobús. Se camina por pasarelas de madera hasta la plataforma.",
-        quando: "Tomas de comida a las 10 y a las 15: llegar media hora antes. El centro abre de 9 a 12 y de 14 a 16; el viernes por la mañana cierra a las 11. Ir a las dos tomas duplica las probabilidades.",
+        come: "A las afueras de Sandakan, en taxi o autobús. Se camina por pasarelas de madera hasta la plataforma.",
+        quando: "Tomas de comida por la mañana y por la tarde: horarios actualizados en taquilla, llegar con antelación. Ir a las dos tomas duplica las probabilidades.",
         tempo: "2-3 horas",
-        costo: "30 RM para adultos extranjeros, más una pequeña tasa por la cámara; a menudo solo efectivo (dato repetido en las fuentes de 2025, a confirmar en taquilla).",
+        costo: "Precios actualizados en taquilla o en la web del Sabah Wildlife Department; llevar efectivo.",
         url: "https://wildlife.sabah.gov.my/",
         consiglio: "Llevar la mochila cerrada y sin comida en la mano: los macacos arrebatan todo."
       },
@@ -310,7 +309,7 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "A pie o en taxi desde Sepilok, unos minutos.",
         quando: "Por la mañana o a primera hora de la tarde.",
         tempo: "1 hora",
-        costo: "50 RM para adultos extranjeros, 25 RM de 2 a 17 años (2025).",
+        costo: "50 RM para adultos extranjeros (2025).",
         url: "https://www.bsbcc.org.my/",
         consiglio: "Visitarlo el mismo día que los orangutanes."
       },
@@ -324,27 +323,19 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Sandakan Memorial Park",
-        testo: "El lugar del campo de prisioneros japonés de la Segunda Guerra Mundial, de donde partieron las marchas de la muerte hacia Ranau. Un parque con un pequeño museo y un recorrido por el bosque. Uno de los memoriales más fuertes del sudeste asiático.",
+        testo: "El lugar del campo de prisioneros japonés de la Segunda Guerra Mundial, de donde partieron las marchas de la muerte hacia Ranau. Un parque con un pequeño museo y un recorrido por el bosque.",
         come: "A pocos kilómetros de Sandakan, en taxi.",
         quando: "Por la mañana.",
         tempo: "1 hora y media",
         consiglio: "No saltárselo por ser «solo un parque»: merece el tiempo."
       },
-      {
-        nome: "Agnes Keith House y bahía de Sandakan",
-        testo: "La casa colonial de Agnes Newton Keith, la escritora estadounidense que contó Borneo y el cautiverio. Desde la colina se ve la bahía con sus casas sobre pilotes.",
-        come: "A pie o en taxi desde el centro de Sandakan.",
-        quando: "Por la tarde.",
-        tempo: "1 hora",
-        consiglio: "Subir los 100 Steps para ver la ciudad desde arriba."
-      }
     ],
     programmi: [
       {
         titolo: "2 días",
         tappe: [
           "Día 1: ración de la mañana en Sepilok, Sun Bear Centre, almuerzo, Rainforest Discovery Centre, ración de la tarde",
-          "Día 2: Sandakan Memorial Park y Agnes Keith House, luego traslado al Kinabatangan"
+          "Día 2: Sandakan Memorial Park, luego traslado al Kinabatangan"
         ]
       }
     ],
@@ -357,7 +348,7 @@ export const destinazioniBorneo: Destinazione[] = [
       {
         nome: "Sandakan",
         perChi: "quien llega en avión o quiere servicios",
-        testo: "Hoteles y restaurantes en la ciudad, a 25 km de Sepilok. Más cómodo para salir."
+        testo: "Hoteles y restaurantes en la ciudad, no lejos de Sepilok. Más cómodo para salir."
       }
     ],
     sapori: [
@@ -394,29 +385,27 @@ export const destinazioniBorneo: Destinazione[] = [
     giorniConsigliati: "2-3 noches",
     visitataPersonalmente: true,
     introduzione:
-      "El río más largo de Sabah, con una franja de selva que queda a lo largo de las orillas y plantaciones de palma aceitera por todo alrededor. Esta compresión es una tragedia ecológica, y es también el motivo por el que aquí se ve más fauna salvaje que en cualquier otro lugar del sudeste asiático: los animales no tienen otro sitio adonde ir.",
+      "El río más largo de Sabah, con una franja de selva que queda a lo largo de las orillas y plantaciones de palma aceitera por todo alrededor. Esta compresión es una tragedia ecológica, y es también el motivo por el que aquí se ve tanta fauna salvaje: los animales no tienen otro sitio adonde ir.",
     percheAndarci:
-      "En dos días de salidas al amanecer y al atardecer se ven orangutanes salvajes, monos narigudos, elefantes pigmeos de Borneo, cocodrilos, macacos, cálaos y martines pescadores, con la mejor relación entre probabilidad de avistamiento y coste de toda la isla.",
+      "En dos días de salidas al amanecer y al atardecer se ven orangutanes salvajes, monos narigudos, elefantes pigmeos de Borneo, cocodrilos, macacos, cálaos y martines pescadores, con una muy buena relación entre probabilidad de avistamiento y coste.",
     cosaVedere: [
       "Los orangutanes salvajes en los árboles de las orillas, que al atardecer se construyen el nido para la noche",
       "Los monos narigudos, los monos de nariz enorme que solo existen en Borneo",
-      "Los elefantes pigmeos de Borneo, los más pequeños del mundo, que se desplazan en manada a lo largo del río",
+      "Los elefantes pigmeos de Borneo, que se desplazan en manada a lo largo del río",
       "Los cocodrilos de estuario, que se ven mejor en las salidas nocturnas",
-      "Los ocho tipos de cálao de Borneo, incluido el cálao rinoceronte de casco naranja",
-      "Las Cuevas de Gomantong, con millones de murciélagos y los nidos de vencejo recogidos para la sopa",
+      "Diversas especies de cálao, incluido el cálao rinoceronte de casco naranja",
     ],
     cosaFare: [
       "Las salidas en barca al amanecer y al atardecer, el corazón de la experiencia (hay una ficha de experiencia dedicada)",
       "Una salida nocturna en barca con linternas, para cocodrilos, búhos y lechuzas",
       "Un trekking guiado por la selva detrás del lodge, con los calcetines antisanguijuelas",
-      "Las Cuevas de Gomantong, con la salida vespertina de los murciélagos",
     ],
     doveDormire:
       "En los lodges a lo largo del río, casi todos en torno a Sukau y Bilit, que se reservan en paquete con comidas y salidas en barca incluidas: es la única forma sensata de organizarse. Los hay desde muy básicos hasta confortables, y la diferencia de precio está más en la habitación que en los guías.",
     doveMangiare:
       "No hay elección, y es normal: se come en el lodge, en buffet, tres veces al día. Cocina malaya sencilla: arroz, pollo, pescado de río, verduras salteadas, fruta. Buena y repetitiva. Tiendas no hay: el agua, los snacks y sobre todo el efectivo hay que comprarlos en Sandakan antes de salir.",
     comeArrivare:
-      "Unas 2 horas de carretera desde Sandakan hasta Sukau o Bilit, luego la barca hasta el lodge. Casi todos los paquetes incluyen el traslado desde Sandakan o directamente desde el aeropuerto.",
+      "Unas horas de carretera desde Sandakan hasta Sukau o Bilit, luego la barca hasta el lodge. Casi todos los paquetes incluyen el traslado desde Sandakan o directamente desde el aeropuerto.",
     comeSpostarsi: "Solo en barca, con las salidas organizadas por el lodge: a lo largo del río no hay carreteras.",
     periodoMigliore:
       "de marzo a octubre. En la estación de lluvias el río sube y los animales se dispersan por la selva inundada en lugar de concentrarse en las orillas: las probabilidades de verlos bajan bastante.",
@@ -424,7 +413,7 @@ export const destinazioniBorneo: Destinazione[] = [
     erroriDaEvitare: [
       "Quedarse una sola noche: con dos salidas se depende de la suerte, con cuatro o seis las probabilidades cambian por completo",
       "Llegar sin efectivo: a lo largo del río no hay cajeros, y muchos lodges y servicios extra se pagan solo en ringgit",
-      "Esperar a los animales cerca: se ven desde la barca, a menudo a veinte o treinta metros y a contraluz. Unos prismáticos cambian el día más que cualquier objetivo fotográfico",
+      "Esperar a los animales cerca: se ven desde la barca, a menudo lejos y a contraluz. Unos prismáticos cambian el día más que cualquier objetivo fotográfico",
       "Subestimar los mosquitos en las salidas de la tarde: aquí el repelente de alta concentración sirve de verdad",
     ],
     miaEsperienza:
@@ -453,14 +442,6 @@ export const destinazioniBorneo: Destinazione[] = [
         quando: "Los elefantes se desplazan mucho: los avistamientos no están garantizados en ningún periodo; preguntar al lodge dónde se han visto últimamente.",
         tempo: "durante las salidas",
         consiglio: "Hacer al menos cuatro o seis salidas: con dos se depende de la suerte."
-      },
-      {
-        nome: "Gomantong Caves",
-        testo: "Cuevas enormes con millones de murciélagos y vencejos, donde se recogen los nidos para la sopa. Se camina por pasarelas de madera entre guano y cucarachas.",
-        come: "En coche desde los lodges o la carretera principal. Se visita a pie por una pasarela.",
-        quando: "Por la tarde para la salida nocturna de los murciélagos.",
-        tempo: "2 horas",
-        consiglio: "Llevar calzado cerrado, linterna y mascarilla: el olor es fuerte."
       }
     ],
     programmi: [
@@ -468,7 +449,7 @@ export const destinazioniBorneo: Destinazione[] = [
         titolo: "2-3 noches",
         tappe: [
           "Día 1: llegada a mediodía, salida al atardecer",
-          "Día 2: crucero al amanecer, mañana libre, Gomantong Caves por la tarde, salida nocturna",
+          "Día 2: crucero al amanecer, mañana libre, trekking guiado por la tarde, salida nocturna",
           "Día 3: último crucero al amanecer y salida"
         ]
       }
@@ -518,15 +499,14 @@ export const destinazioniBorneo: Destinazione[] = [
     giorniConsigliati: "3 noches como mínimo",
     visitataPersonalmente: false,
     introduzione:
-      "Cuarenta y tres mil hectáreas de selva tropical primaria nunca talada, una de las pocas que quedan en el sudeste asiático: árboles de ochenta metros, una pasarela en el dosel suspendida a veintiséis metros y un silencio que por la mañana temprano solo rompen los gibones. No hay pueblos ni carreteras públicas.",
+      "Una vasta selva tropical primaria nunca talada, una de las pocas que quedan en el sudeste asiático: árboles altísimos, una pasarela suspendida entre las copas y un silencio que por la mañana temprano solo rompen los gibones. No hay pueblos ni carreteras públicas.",
     percheAndarci:
       "Es lo más parecido al Borneo de antes de la deforestación. La diferencia entre selva primaria y secundaria, que sobre el papel parece un detalle técnico, aquí se ve a simple vista: árboles de tamaños que en otros sitios ya no existen y una estructura en estratos completa.",
     cosaVedere: [
-      "La pasarela en el dosel suspendida a 26 metros entre las copas",
-      "Los árboles emergentes, que superan los 80 metros",
+      "La pasarela en el dosel suspendida entre las copas",
+      "Los árboles emergentes, entre ellos Menara, un meranti amarillo de 97,6 metros",
       "La fauna de la selva primaria: gibones, orangutanes salvajes, ciervos, osos malayos y, para poquísimos afortunados, leopardos nublados",
-      "El mirador de Bukit Fatimah, con la vista sobre la selva sin interrupciones",
-      "Las sepulturas en la pared de roca, dejadas hace siglos por las poblaciones locales",
+      "Un mirador con la vista sobre la selva sin interrupciones",
     ],
     cosaFare: [
       "Trekkings guiados de día y de noche con naturalistas que viven allí",
@@ -535,10 +515,10 @@ export const destinazioniBorneo: Destinazione[] = [
       "El baño en el río Danum, con el que se cierra cada jornada",
     ],
     doveDormire:
-      "Solo hay dos posibilidades, ambas dentro del valle: el centro de investigación, básico y más económico, y el lodge de alta gama. Alternativas no hay y no se puede venir en el día: es la etapa más cara de cualquier viaje a Borneo.",
-    doveMangiare: "Pensión completa incluida en el paquete, sin alternativas: en decenas de kilómetros a la redonda no hay nada más.",
+      "Solo se duerme dentro del valle: en el centro de investigación, básico y más económico, o en el lodge de alta gama. No se puede venir en el día: es la etapa más cara de cualquier viaje a Borneo.",
+    doveMangiare: "Pensión completa incluida en el paquete, sin alternativas: alrededor no hay nada más.",
     comeArrivare:
-      "Vuelo a Lahad Datu, luego unas 2-3 horas de pista forestal con el traslado organizado por el alojamiento. No se llega por cuenta propia y no hay transporte público.",
+      "Vuelo a Lahad Datu, luego un largo tramo de pista forestal con el traslado organizado por el alojamiento. No se llega por cuenta propia y no hay transporte público.",
     comeSpostarsi: "A pie por los senderos, siempre con guía, y en todoterreno para los night drives.",
     periodoMigliore:
       "de marzo a octubre, el periodo más seco. Llueve de todos modos: es selva tropical ecuatorial, y la lluvia forma parte del paquete.",
@@ -562,7 +542,7 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Árboles emergentes y bosque primario",
-        testo: "Una selva primaria de unas 43.800 hectáreas, con un dosel que en algunos puntos supera los 70 metros. Aquí se midió en 2019 Menara, un meranti amarillo de 97,6 metros: es el árbol tropical vivo más alto conocido.",
+        testo: "Una vasta selva primaria con árboles altísimos. Aquí se midió en 2019 Menara, un meranti amarillo de 97,6 metros: es el árbol tropical vivo más alto conocido.",
         come: "Con senderos y salidas guiadas desde el lodge.",
         quando: "Por la mañana y después de la lluvia.",
         tempo: "medio día",
@@ -577,12 +557,12 @@ export const destinazioniBorneo: Destinazione[] = [
         consiglio: "No dejar las salidas nocturnas para la última noche."
       },
       {
-        nome: "Bukit Fatimah y sepulturas en la roca",
-        testo: "Un mirador con vista continua sobre la selva y, en el parque, antiguos enterramientos en la pared de roca dejados por los pueblos locales.",
+        nome: "Mirador sobre la selva",
+        testo: "Un mirador con vista continua sobre la selva, al que se llega a pie con guía.",
         come: "A pie con guía, desde el lodge.",
         quando: "Por la mañana.",
         tempo: "3 horas",
-        consiglio: "Preguntar a los guías por la historia de las sepulturas."
+        consiglio: "Salir temprano, antes del calor."
       }
     ],
     programmi: [
@@ -597,12 +577,12 @@ export const destinazioniBorneo: Destinazione[] = [
     ],
     zone: [
       {
-        nome: "Borneo Rainforest Lodge",
-        perChi: "quien quiere el lodge dentro de la reserva",
-        testo: "El lodge principal, con pensión completa y actividades guiadas. Caro y sin conexión."
+        nome: "Lodge dentro de la reserva",
+        perChi: "quien quiere comodidad dentro de la selva",
+        testo: "El lodge de alta gama, con pensión completa y actividades guiadas. Caro y sin conexión."
       },
       {
-        nome: "Danum Valley Field Centre",
+        nome: "Centro de investigación",
         perChi: "quien busca un alojamiento sencillo",
         testo: "El albergue del centro de investigación, con precios más bajos y confort mínimo."
       }
@@ -634,12 +614,12 @@ export const destinazioniBorneo: Destinazione[] = [
     giorniConsigliati: "4-5 días, para tener una posibilidad real de conseguir el permiso",
     visitataPersonalmente: true,
     introduzione:
-      "La costa sudoriental de Sabah, con la isla de Sipadan mar adentro: un pináculo coralino que se eleva desde 600 metros de profundidad y que muchos consideran el mejor sitio de buceo del mundo. El acceso tiene cupo, en la isla no se duerme y el permiso solo se consigue a través de un operador.",
+      "La costa sudoriental de Sabah, con la isla de Sipadan mar adentro: un pináculo coralino que se eleva desde fondos muy profundos y que muchos consideran entre los mejores sitios de buceo del mundo. El acceso tiene cupo, en la isla no se duerme y el permiso solo se consigue a través de un operador.",
     percheAndarci:
-      "Por Sipadan, y no es una exageración de folleto: bancos de barracudas en espiral, cientos de tortugas, tiburones de arrecife y paredes que bajan al azul. Y por Mabul y Kapalai, que son lo contrario: fondos bajos y arenosos donde se buscan los animales más pequeños y extraños del océano.",
+      "Por Sipadan, y no es una exageración de folleto: bancos de barracudas en espiral, muchísimas tortugas, tiburones de arrecife y paredes que bajan al azul. Y por Mabul y Kapalai, que son lo contrario: fondos bajos y arenosos donde se buscan los animales más pequeños y extraños del océano.",
     cosaVedere: [
       "Sipadan, con los puntos Barracuda Point, Drop Off y Turtle Tomb",
-      "Mabul, capital mundial del muck diving: caballitos de mar pigmeos, pulpos mimético, nudibranquios, peces rana",
+      "Mabul, famosa por el muck diving: caballitos de mar pigmeos, pulpos mimético, nudibranquios, peces rana",
       "Kapalai, con las palafitas sobre el banco de arena",
       "Las comunidades bajau laut, los «nómadas del mar», que viven en barcas y palafitas, a menudo sin nacionalidad",
       "Bohey Dulang, el cráter volcánico de la isla, con el sendero panorámico sobre la laguna",
@@ -655,14 +635,14 @@ export const destinazioniBorneo: Destinazione[] = [
     doveMangiare:
       "En los resorts se come con pensión completa, incluida en el paquete. En la ciudad de Semporna hay restaurantes de pescado en el paseo marítimo, excelentes y económicos, donde la captura del día se elige en el puesto.",
     comeArrivare:
-      "Vuelo a Tawau, luego aproximadamente una hora y media de carretera hasta Semporna y la barca a Mabul (unos 45 minutos). Casi todos los resorts organizan el traslado completo.",
+      "Vuelo a Tawau, luego la carretera hasta Semporna y la barca a Mabul. Casi todos los resorts organizan el traslado completo.",
     comeSpostarsi: "Solo en barca, con las salidas organizadas por el centro de buceo.",
     periodoMigliore:
       "de abril a septiembre, con el mar más en calma y la mejor visibilidad. De noviembre a febrero el mar está más agitado y algunas salidas se cancelan.",
     costi:
       "paquetes de buceo de varias noches con pensión completa; el permiso de Sipadan se paga aparte y es la partida que lo decide todo. El número de inmersiones por permiso lo fija Sabah Parks y cambia con el tiempo: preguntarlo al operador.",
     erroriDaEvitare: [
-      "Presentarse esperando bucear en Sipadan sin haber reservado meses antes: los permisos diarios son poco más de doscientos cincuenta, Sabah Parks los asigna a los operadores y estos los reparten entre los huéspedes, casi siempre de forma rotativa y premiando las estancias más largas",
+      "Presentarse esperando bucear en Sipadan sin haber reservado meses antes: los permisos diarios son pocos, Sabah Parks los asigna a los operadores y estos los reparten entre los huéspedes, casi siempre de forma rotativa y premiando las estancias más largas",
       "Reservar solo dos noches y contar con Sipadan: la rotación favorece a quien se queda 4-5 noches, y por eso el itinerario hay que construirlo así",
       "Intentar comprar un permiso por cuenta propia: no se dan a particulares, solo a los operadores autorizados",
       "Ignorar los avisos de seguridad sobre la costa oriental de Sabah: la zona está vigilada y el turismo funciona con normalidad, pero la situación hay que comprobarla antes de reservar",
@@ -672,7 +652,7 @@ export const destinazioniBorneo: Destinazione[] = [
     luoghi: [
       {
         nome: "Sipadan",
-        testo: "Una isla oceánica que se alza unos 600 metros desde el fondo. Las inmersiones están entre las más famosas del mundo, con Barracuda Point, Drop Off y la Turtle Tomb, una cueva bajo la isla con esqueletos de tortugas.",
+        testo: "Una isla oceánica que se alza desde fondos muy profundos. Las inmersiones están entre las más famosas del mundo, con Barracuda Point, Drop Off y la Turtle Tomb, una cueva bajo la isla con esqueletos de tortugas.",
         come: "Solo con operadores autorizados que tengan permisos de Sabah Parks. En la isla no se duerme: las instalaciones cerraron en 2004 y se sale en barca desde Mabul, Kapalai o Semporna. El número de inmersiones por permiso lo fija Sabah Parks: preguntarlo al operador.",
         quando: "Los permisos diarios tienen cupo y Sabah Parks los asigna a los operadores, que pueden reservarlos hasta con seis meses de antelación. Normalmente la isla cierra en noviembre para proteger el arrecife.",
         tempo: "1 día por permiso",
@@ -767,14 +747,14 @@ export const destinazioniBorneo: Destinazione[] = [
     introduzione:
       "La capital de Sarawak está a orillas del río, con un paseo fluvial ordenado y una historia particular: durante un siglo fue el reino privado de los «rajás blancos», la dinastía inglesa de los Brooke. Alrededor están el parque nacional de Bako con los monos narigudos, los poblados de casas largas iban y las cuevas prehistóricas de Niah.",
     percheAndarci:
-      "Es probablemente la ciudad más agradable de Malasia. Y Sarawak tiene una historia y una composición étnica del todo distintas a las de Sabah: aquí domina la cultura iban, con las casas largas, viviendas comunales de cientos de metros de largo donde viven decenas de familias.",
+      "Es una de las ciudades más agradables de Malasia. Y Sarawak tiene una historia y una composición étnica del todo distintas a las de Sabah: aquí domina la cultura iban, con las casas largas, viviendas comunales larguísimas donde viven muchas familias.",
     cosaVedere: [
       "El paseo fluvial de Kuching y las antiguas shophouses del centro",
-      "El Sarawak Museum y el Borneo Cultures Museum, entre los mejores museos etnográficos de la región",
+      "El Sarawak Museum y el Borneo Cultures Museum, dos ricos museos etnográficos",
       "El parque nacional de Bako, con los monos narigudos, los macacos y las formaciones de arenisca junto al mar",
       "El Sarawak Cultural Village, con las casas tradicionales de los distintos grupos étnicos",
       "La Semenggoh Nature Reserve, con orangutanes rehabilitados y ya libres",
-      "Las cuevas de Niah, con huellas de presencia humana de hace cuarenta mil años",
+      "Las cuevas de Niah, con huellas de presencia humana de hace decenas de miles de años",
     ],
     cosaFare: [
       "Un día en Bako, accesible solo en barca, con senderos entre la selva y los acantilados",
@@ -787,14 +767,14 @@ export const destinazioniBorneo: Destinazione[] = [
     doveMangiare:
       "En Kuching se come muy bien, y de forma distinta al resto de Malasia. El plato que hay que probar es el Sarawak laksa, en el desayuno, con un caldo de gambas y especias que no se parece ni al de Penang ni al nyonya. Luego el kolo mee, los fideos secos, y el midin, un helecho de selva salteado con ajo que solo se encuentra aquí. Los sitios adecuados son el mercado nocturno de Chinatown y los food courts del río.",
     comeArrivare:
-      "Vuelo a Kuching (KCH) desde Kuala Lumpur (unas 1h45) o desde Kota Kinabalu. También aquí hay un control de pasaportes propio: Sarawak tiene una inmigración separada incluso respecto a Sabah.",
+      "Vuelo a Kuching (KCH) desde Kuala Lumpur o desde Kota Kinabalu. También aquí hay un control de pasaportes propio: Sarawak tiene una inmigración separada incluso respecto a Sabah.",
     comeSpostarsi:
-      "Kuching se recorre a pie y con Grab. Para Bako hacen falta un autobús y luego una barca, con horarios ligados a la marea; para Semenggoh, autobús o Grab en media hora.",
+      "Kuching se recorre a pie y con Grab. Para Bako hacen falta un autobús y luego una barca, con horarios ligados a la marea; para Semenggoh, autobús o Grab.",
     periodoMigliore:
       "de marzo a octubre. En Semenggoh la temporada cuenta bastante: de abril a octubre las probabilidades de ver orangutanes son mucho más altas, mientras que en la temporada de frutos de la selva pueden no dejarse ver en absoluto.",
     costi: "Bako con entrada al parque más la barca; Semenggoh con una entrada pequeña; museos gratis o casi. Kuching es barata incluso para los estándares malasios.",
     erroriDaEvitare: [
-      "Ir a Semenggoh entre noviembre y marzo contando con verlos: en la temporada de frutos los orangutanes comen en la selva, y la reserva lo dice abiertamente",
+      "Ir a Semenggoh en la temporada de frutos contando con verlos: en la temporada de frutos los orangutanes comen en la selva, y la reserva lo dice abiertamente",
       "Hacer Bako en el día sin mirar las mareas: las barcas van y vuelven según el agua, y es fácil quedarse bloqueado",
       "Esperar que Sarawak sea como Sabah: son dos estados con historia, poblaciones e inmigración separadas, y pasar de uno a otro significa un nuevo sello en el pasaporte",
       "Reservar una casa larga «turística» sin informarse: las experiencias cambian muchísimo, de la visita montada a la estancia real en una comunidad",
@@ -812,7 +792,7 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Sarawak Museum y Borneo Cultures Museum",
-        testo: "Dos museos etnográficos entre los mejores de la región: los objetos de los pueblos dayak y el Borneo Cultures Museum, el más reciente, con colecciones y reconstrucciones de longhouses.",
+        testo: "Dos museos etnográficos: los objetos de los pueblos dayak y el Borneo Cultures Museum, el más reciente, con colecciones y reconstrucciones de longhouses.",
         come: "En el centro de Kuching, a pie o en taxi.",
         quando: "Por la mañana o en las horas de más calor.",
         tempo: "2 horas",
@@ -821,8 +801,8 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Parque nacional de Bako",
-        testo: "Un parque junto al mar con monos narigudos, macacos, jabalíes barbudos y farallones de arenisca esculpidos por las olas (el famoso con forma de cabeza de cobra se derrumbó en 2024). Se considera el mejor lugar de Sarawak para ver monos narigudos.",
-        come: "Autobús desde Kuching hasta Kampung Bako, luego unos 20 minutos en barca. Los horarios dependen de la marea.",
+        testo: "Un parque junto al mar con monos narigudos, macacos, jabalíes barbudos y farallones de arenisca esculpidos por las olas. Es uno de los mejores lugares de Sarawak para ver monos narigudos.",
+        come: "Autobús desde Kuching hasta Kampung Bako, luego un breve trayecto en barca. Los horarios dependen de la marea.",
         quando: "Por la mañana, con la marea adecuada.",
         tempo: "1 día",
         consiglio: "Comprobar los horarios de las mareas: se corre el riesgo de quedarse atrapado."
@@ -845,8 +825,8 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Cuevas de Niah",
-        testo: "Cuevas enormes en el norte de Sarawak con huellas de presencia humana de hace unos cuarenta mil años, pinturas rupestres en la Painted Cave y recolectores de nidos de salangana trabajando en las paredes. Desde 2024 son patrimonio de la UNESCO.",
-        come: "Desde Miri, un par de horas por carretera, luego una pasarela por la selva.",
+        testo: "Cuevas enormes en el norte de Sarawak con huellas de presencia humana de hace decenas de miles de años, pinturas rupestres en la Painted Cave y recolectores de nidos de salangana trabajando en las paredes. Desde 2024 son patrimonio de la UNESCO.",
+        come: "Desde Miri en coche, luego una pasarela por la selva.",
         quando: "Por la mañana.",
         tempo: "medio día",
         consiglio: "Se llega con un desvío desde el norte: valorar el tiempo."
@@ -919,15 +899,15 @@ export const destinazioniBorneo: Destinazione[] = [
     visitataPersonalmente: false,
     imageAlt: "Los Pinnacles de Gunung Mulu: agujas de caliza gris de decenas de metros entre la selva tropical y la niebla",
     introduzione:
-      "Un parque nacional Patrimonio de la UNESCO en el interior de Sarawak, accesible solo en avión, con algunos de los sistemas de cuevas más grandes del planeta. La Sarawak Chamber es la cámara subterránea más grande conocida del mundo, y cada tarde de la Deer Cave salen millones de murciélagos en formaciones en espiral.",
+      "Un parque nacional Patrimonio de la UNESCO en el interior de Sarawak, al que se llega normalmente en avión, con algunos de los sistemas de cuevas más grandes del planeta. La Sarawak Chamber está entre las cámaras subterráneas más grandes conocidas, y casi cada tarde de la Deer Cave salen millones de murciélagos en formaciones en espiral.",
     percheAndarci:
-      "Por las cuevas, que por dimensiones no tienen comparación en el mundo, y por los Pináculos, hojas de caliza de cincuenta metros de altura en la ladera de la montaña, accesibles con uno de los trekkings más duros del sudeste asiático.",
+      "Por las cuevas, que por dimensiones no tienen comparación en el mundo, y por los Pináculos, hojas de caliza de decenas de metros de altura en la ladera de la montaña, accesibles con un trekking muy exigente.",
     cosaVedere: [
       "La Deer Cave, con la salida vespertina de millones de murciélagos",
-      "La Lang Cave, la más rica en concreciones",
+      "La Lang Cave, rica en concreciones",
       "La Clearwater Cave y la Wind Cave, accesibles en barca por el río",
       "Los Pináculos del Gunung Api, las hojas de caliza en la ladera de la montaña",
-      "La pasarela en el dosel del parque, entre las más largas del mundo",
+      "La pasarela en el dosel del parque, de 480 metros",
     ],
     cosaFare: [
       "Ver al atardecer la salida de los murciélagos de la Deer Cave, desde el observatorio específico",
@@ -936,10 +916,10 @@ export const destinazioniBorneo: Destinazione[] = [
       "La pasarela en el dosel y los senderos por la selva en torno al cuartel general del parque",
     ],
     doveDormire:
-      "Dentro del parque, en los alojamientos que gestiona el propio parque, o en el único resort externo. Las posibilidades son pocas y hay que reservarlas con antelación, porque las camas limitan de hecho el número de visitantes.",
+      "Dentro del parque, en los alojamientos que gestiona el propio parque, o en un resort externo. Las posibilidades son pocas y hay que reservarlas con antelación, porque las camas limitan de hecho el número de visitantes.",
     doveMangiare: "El restaurante del parque y el del resort, sin alternativas. Como en las demás etapas en la selva, lo que haga falta hay que traerlo de fuera.",
     comeArrivare:
-      "Solo en avión, con vuelos desde Miri, Kuching o Kota Kinabalu: ninguna carretera llega al parque. Es el motivo principal por el que esta etapa hay que organizarla antes que todo lo demás.",
+      "Normalmente en avión, con vuelos internos desde Miri y otras ciudades de Borneo: ninguna carretera llega al parque, la alternativa es un largo trayecto río arriba en barca. Es el motivo principal por el que esta etapa hay que organizarla antes que todo lo demás.",
     comeSpostarsi: "A pie por las pasarelas del parque y en barca por el río para las cuevas más lejanas.",
     periodoMigliore:
       "todo el año, pero la salida de los murciélagos no está garantizada: si al atardecer llueve, se quedan dentro. El trekking a los Pináculos es más seguro en la estación más seca.",
@@ -947,7 +927,7 @@ export const destinazioniBorneo: Destinazione[] = [
     erroriDaEvitare: [
       "Reservar el vuelo antes que el alojamiento: las plazas dentro del parque son limitadas, y sin alojamiento no se va a ninguna parte",
       "Programar una sola noche: entre vuelos y distancias internas quedaría poco tiempo",
-      "Apuntarse al trekking de los Pináculos subestimándolo: es una subida por roca y escaleras de mano entre las más exigentes de la región, con límites de tiempo fijados por los guías",
+      "Apuntarse al trekking de los Pináculos subestimándolo: es una subida muy exigente por roca y escaleras de mano, con límites de tiempo fijados por los guías",
       "Contar con la salida de los murciélagos: si llueve no salen, y ocurre a menudo",
     ],
     miaEsperienza:
@@ -972,7 +952,7 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Clearwater Cave y Wind Cave",
-        testo: "Cuevas a las que se llega en barca por el río. La Clearwater forma parte del sistema de cuevas más largo del sudeste asiático, con más de 200 km de galerías exploradas; la Wind Cave tiene frescas galerías con formaciones.",
+        testo: "Cuevas a las que se llega en barca por el río. La Clearwater forma parte de un sistema de cuevas muy extenso; la Wind Cave tiene frescas galerías con formaciones.",
         come: "En barca desde la sede y luego a pie con guía.",
         quando: "Por la mañana.",
         tempo: "medio día",
@@ -981,8 +961,8 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Pináculos del Gunung Api",
-        testo: "Hojas de caliza de decenas de metros de altura en la ladera de la montaña. Un trekking sobre roca y escaleras de mano, de los más exigentes de la región.",
-        come: "Solo con guía del parque: tres días y dos noches, con barca hasta Kuala Berar, 7,8 km a pie hasta el Camp 5 y la última subida de 1,2 km con 1.200 metros de desnivel, entre cuerdas y escaleras.",
+        testo: "Hojas de caliza de decenas de metros de altura en la ladera de la montaña. Un trekking muy exigente sobre roca y escaleras de mano.",
+        come: "Solo con guía del parque: tres días y dos noches, con un tramo en barca, una larga caminata hasta el Camp 5 y la última subida empinadísima entre cuerdas y escaleras.",
         quando: "En la estación más seca.",
         tempo: "3 días, 2 noches",
         consiglio: "Subestimarlo es el error más común: hace falta entrenamiento."

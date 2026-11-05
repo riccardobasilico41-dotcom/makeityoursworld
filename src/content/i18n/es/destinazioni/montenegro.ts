@@ -44,10 +44,10 @@ export const destinazioniMontenegro: Destinazione[] = [
       {
         nome: "Fortaleza de San Juan",
         testo: "Las murallas suben por la montaña hasta la fortaleza, a unos 280 metros de altura. Desde arriba se ve toda la bahía, con forma de fiordo.",
-        come: "El sendero parte del casco antiguo y son escalones irregulares: unos 1.350. Calzado cerrado y agua.",
+        come: "El sendero parte del casco antiguo y son escalones irregulares. Calzado cerrado y agua.",
         quando: "A la apertura o a última hora de la tarde, nunca en las horas de calor del verano. Arriba no hay sombra.",
         tempo: "1 hora y media entre subida, descanso y bajada",
-        costo: "Unos 15 € por persona (2026); mejor llevar efectivo.",
+        costo: "Entrada de pago, precios en la web oficial; mejor llevar efectivo.",
         consiglio: "Entrar solo por los accesos oficiales del casco antiguo: los huecos no oficiales en las murallas se están cerrando o vigilando."
       },
       {
@@ -60,7 +60,7 @@ export const destinazioniMontenegro: Destinazione[] = [
       },
       {
         nome: "Risan y los mosaicos romanos",
-        testo: "El asentamiento más antiguo de la bahía. De época romana quedan los mosaicos del suelo de una villa, el resto más valioso de la ciudad antigua.",
+        testo: "Uno de los asentamientos más antiguos de la bahía. De época romana quedan los mosaicos del suelo de una villa, el resto más valioso de la ciudad antigua.",
         come: "En la carretera de Kotor a Herceg Novi, en la parte más interior de la bahía. La visita dura pocos minutos.",
         quando: "Todo el año, por la mañana.",
         tempo: "30 minutos",
@@ -156,7 +156,7 @@ export const destinazioniMontenegro: Destinazione[] = [
       {
         nome: "Carretera de las 25 curvas",
         testo: "La antigua carretera austrohúngara que sube de Kotor al Lovćen con 25 curvas numeradas. En pocos kilómetros se sube del nivel del mar a la meseta de Njeguši, con la bahía cada vez más pequeña.",
-        come: "En coche desde Kotor, 1 hora hasta Njeguši con paradas. Carretera estrecha con muchos autocares.",
+        come: "En coche desde Kotor. Carretera estrecha con muchos autocares.",
         quando: "Por la mañana, para tener luz sobre la bahía y menos tráfico.",
         tempo: "1 hora con paradas",
         consiglio: "Los miradores son pocos y pequeños: parar solo donde sea seguro."

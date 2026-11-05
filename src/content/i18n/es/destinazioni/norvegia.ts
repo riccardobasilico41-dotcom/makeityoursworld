@@ -48,8 +48,8 @@ export const destinazioniNorvegia: Destinazione[] = [
     luoghi: [
       {
         nome: "Parque Vigeland (Frognerparken)",
-        testo: "El mayor parque de esculturas de un solo artista: 212 esculturas de bronce y granito de Gustav Vigeland, incluido el Monolito de 14 metros con 121 cuerpos entrelazados. El Frognerparken es la atracción turística más visitada de Noruega.",
-        come: "Metro o tranvía hasta Majorstuen/Vigelandsparken, luego 10 minutos a pie. Se camina por un eje de unos 850 metros desde la puerta al monolito.",
+        testo: "Un gran parque con más de 200 esculturas de bronce y granito de Gustav Vigeland, entre ellas el Monolito, una columna de cuerpos entrelazados. Es uno de los lugares más visitados de Oslo.",
+        come: "Metro o tranvía hasta Majorstuen/Vigelandsparken y luego un breve paseo. Se recorre el eje central desde la verja hasta el Monolito.",
         quando: "Siempre abierto, entrada libre. Temprano por la mañana o tarde de verano para ver las esculturas sin multitudes.",
         tempo: "1,5-2 horas",
         costo: "entrada libre",
@@ -59,7 +59,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       {
         nome: "Ópera de Oslo",
         testo: "Teatro de ópera y ballet junto al fiordo, abierto en 2008 y diseñado por Snøhetta, con un tejado de mármol inclinado por el que se camina. La vista de la ciudad y el mar compensa la subida.",
-        come: "A pie desde la estación central (unos 5 minutos). El tejado está siempre abierto, incluso sin entrada para los espectáculos.",
+        come: "A pie desde la estación central. El tejado está siempre abierto, aunque no se tenga entrada para un espectáculo.",
         quando: "Al atardecer, o con cielo despejado por la vista del Oslofjord.",
         tempo: "45 minutos-1 hora",
         costo: "tejado: entrada libre",
@@ -69,7 +69,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       {
         nome: "Fortaleza de Akershus",
         testo: "Fortaleza medieval de 1300 sobre el puerto, luego castillo renacentista. El parque es gratuito y las murallas ofrecen una bonita vista del puerto de Oslo; dentro están el museo militar y el de la Resistencia.",
-        come: "A pie desde el centro en 10-15 minutos; entrada libre al parque.",
+        come: "A pie desde el centro; entrada libre al recinto.",
         quando: "De día; la fortaleza la vigila la Guardia Real. Dentro están también el Museo de las Fuerzas Armadas y el de la Resistencia.",
         tempo: "1,5 horas",
         costo: "parque libre; museos y castillo con entrada aparte",
@@ -78,17 +78,17 @@ export const destinazioniNorvegia: Destinazione[] = [
       {
         nome: "Península de Bygdøy: Fram y Kon-Tiki",
         testo: "El Museo Fram guarda el barco polar de Nansen y Amundsen, intacto y visitable a bordo. Al lado el Museo Kon-Tiki expone la balsa con la que Thor Heyerdahl cruzó el Pacífico en 1947. El museo de los barcos vikingos está cerrado por reforma hasta 2027: comprobar la reapertura.",
-        come: "En verano el ferri a Bygdøy sale de Rådhusbryggen; alternativamente el bus 30. Los museos están a pocos minutos uno del otro.",
+        come: "En transporte público desde el centro (rutas y billetes en la app Ruter). Los museos están a pocos minutos unos de otros.",
         quando: "Mañana, para tener las salas con menos grupos.",
         tempo: "3-4 horas",
         costo: "Museo Fram 180 NOK adultos (2026); Kon-Tiki con entrada aparte",
         url: "https://www.frammuseum.no",
-        consiglio: "Los dos museos caben bien en media jornada; evitar los lunes festivos, cuando está concurrido."
+        consiglio: "Los dos museos se ven bien en medio día."
       },
       {
         nome: "Munch y Nasjonalmuseet",
-        testo: "El museo Munch, en Bjørvika, reúne gran parte de la obra de Edvard Munch; el Nasjonalmuseet, la mayor colección de arte, arquitectura y diseño de Noruega, tiene otra versión de El grito (1893). Dos edificios cerca del fiordo, en el barrio más nuevo.",
-        come: "Munch a 10 minutos a pie de la estación; el Nasjonalmuseet a 15 minutos del centro.",
+        testo: "El museo Munch, en Bjørvika, reúne gran parte de la obra de Edvard Munch; el Nasjonalmuseet, la mayor colección de arte, arquitectura y diseño de Noruega, tiene otra versión de El grito (1893). Dos edificios nuevos cerca del fiordo.",
+        come: "El Munch, a pie desde la estación; el Nasjonalmuseet, a pie desde el centro, cerca del ayuntamiento.",
         quando: "Mañana entre semana; reservar online para las entradas con hora.",
         tempo: "2-3 horas cada uno",
         costo: "Munch 220 NOK adultos (2026)",
@@ -98,7 +98,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       {
         nome: "Holmenkollen",
         testo: "El trampolín de salto de esquí de Oslo, con museo del esquí y simulador, sobre la ciudad. La vista del fiordo y del bosque es la razón para subir.",
-        come: "Metro línea 1 hasta Holmenkollen. El camino hasta el trampolín es a pie.",
+        come: "Metro hasta Holmenkollen. El tramo hasta el trampolín se hace a pie.",
         quando: "De día, con cielo despejado; en invierno suele haber nieve.",
         tempo: "2 horas",
         url: "https://www.holmenkollen.com",
@@ -107,7 +107,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       {
         nome: "Aker Brygge y Astrup Fearnley",
         testo: "La antigua zona de astilleros, hoy paseo marítimo con restaurantes, y el museo de arte contemporáneo Astrup Fearnley, edificio de Renzo Piano. Tjuvholmen, cerca, tiene esculturas al aire libre.",
-        come: "A pie desde el Palacio Real por el paseo marítimo, unos 20 minutos.",
+        come: "A pie desde el Palacio Real por el paseo marítimo.",
         quando: "Tarde de verano, por las mesas al aire libre sobre el fiordo.",
         tempo: "2 horas",
         url: "https://www.afmuseet.no",
@@ -138,7 +138,7 @@ export const destinazioniNorvegia: Destinazione[] = [
         titolo: "3 días",
         tappe: [
           "Días 1-2 como arriba",
-          "Día 3: Holmenkollen por la mañana",
+          "Crucero por el Oslofjord",
           "Crucero de dos horas por el Oslofjord",
           "Última cena en el centro"
         ]
@@ -153,7 +153,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       {
         nome: "Grünerløkka",
         perChi: "Quien busca bares, cafés y vida nocturna",
-        testo: "El barrio más joven, a 15 minutos a pie del centro. Muchos locales, más ruido los fines de semana."
+        testo: "Barrio joven, a pie desde el centro. Muchos locales, más ruido el fin de semana."
       },
       {
         nome: "Frogner y Majorstuen",
@@ -172,7 +172,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Gambas del puerto (reker)",
-        testo: "Se compran frescas en los barcos de Aker Brygge, con pan y mayonesa."
+        testo: "Gambas cocidas para comer con pan, mayonesa y limón; en verano se venden frescas en el puerto."
       },
       {
         nome: "Kanelboller",
@@ -180,7 +180,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "El alcohol fuerte se vende solo en Vinmonopolet; en los supermercados la cerveza se vende hasta las 20 entre semana y hasta las 18 los sábados.",
+      "Las bebidas fuertes solo se venden en Vinmonopolet; en los supermercados la cerveza solo se vende en ciertas franjas horarias y no los domingos.",
       "Carteristas en torno a la estación y Karl Johans gate: llevar bolso y móvil por delante.",
       "Los patinetes eléctricos y las bicis corren por los carriles bici: mirar antes de cruzar.",
       "El metro se usa con billetes de la app Ruter: comprar antes de subir, los controles existen."
@@ -218,7 +218,7 @@ export const destinazioniNorvegia: Destinazione[] = [
     luoghi: [
       {
         nome: "Nyholms Fort",
-        testo: "Un viejo fuerte en la punta del puerto de Bodø, hoy con vista del puerto y las islas. Se llega en 10 minutos a pie desde el puerto.",
+        testo: "Un antiguo fuerte en la punta del puerto de Bodø, hoy con vistas al puerto y a las islas.",
         come: "A pie desde el puerto.",
         quando: "Última hora de la tarde, con luz sobre las islas.",
         tempo: "1 hora",
@@ -254,7 +254,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Si se va a las Lofoten en ferri, llegar 30-40 minutos antes: en verano las colas son largas.",
+      "Si se va a las Lofoten en ferry, llegar con bastante antelación: en verano las colas son largas.",
       "En verano los alojamientos de Bodø se llenan pronto: reservar con antelación."
     ],
     esperienzeSlugs: [],
@@ -298,14 +298,13 @@ export const destinazioniNorvegia: Destinazione[] = [
       {
         nome: "Trollfjord",
         testo: "Un fiordo estrecho de unos 2 km, con paredes empinadas y una boca de apenas un centenar de metros. En verano el paseo en RIB (lancha rápida) es la forma más habitual de entrar.",
-        come: "Excursión reservada con operador desde Svolvær, 2-3 horas.",
+        come: "Excursión reservada con un operador desde Svolvær.",
         quando: "Verano, con cielo despejado.",
-        tempo: "2-3 horas",
         consiglio: "Reservar con antelación: los RIB se llenan."
       },
       {
         nome: "Svolværgeita",
-        testo: "Una roca de dos cuernos, Storhorn y Lillehorn, sobre el pueblo: los escaladores saltan el vacío de metro y medio entre ambos, con el cementerio 300 metros más abajo. A la base se llega por un sendero empinado.",
+        testo: "Una roca con dos cuernos, Storhorn y Lillehorn, sobre el pueblo: los escaladores saltan de uno a otro sobre el vacío. A la base se llega por un sendero empinado.",
         come: "Sendero desde el pueblo, bien señalizado pero empinado.",
         quando: "Un día sin nubes.",
         tempo: "3-4 horas",
@@ -314,7 +313,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       {
         nome: "Kabelvåg y Lofotr",
         testo: "A las afueras de Svolvær, el Lofotmuseet en el antiguo puerto de Kabelvåg cuenta la pesca; en Borg el Lofotr Viking Museum tiene una reconstrucción de una casa de jefe vikingo, abierta del 1 de mayo al 15 de septiembre.",
-        come: "En coche, unos 10 minutos a Kabelvåg y 55 a Borg.",
+        come: "En coche desde Svolvær; Kabelvåg está muy cerca, Borg más lejos, hacia el oeste.",
         quando: "Jornada completa.",
         tempo: "2-3 horas",
         url: "https://lofotr.no",
@@ -374,7 +373,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       {
         nome: "Campo de fútbol de Henningsvær",
         testo: "Un campo de césped artificial construido en una pequeña isla de roca, rodeado por el mar. Desde arriba con dron o desde el puente de acceso es una de las fotos más conocidas de las Lofoten.",
-        come: "Se llega en coche desde Svolvær (unos 30 minutos) y se aparca en el pueblo.",
+        come: "Se llega en coche desde Svolvær y se aparca en el pueblo.",
         quando: "Temprano por la mañana o al atardecer, con luz suave.",
         tempo: "30 minutos",
         costo: "entrada libre",
@@ -391,7 +390,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Festvågtind",
-        testo: "Una cima de unos 540 metros sobre el pueblo, con vistas al mar abierto y las islas. El sendero es más salvaje y menos concurrido que el del Reinebringen.",
+        testo: "Una cima sobre el pueblo, con vistas al mar abierto y a las islas. El sendero es más salvaje y menos concurrido que el Reinebringen.",
         come: "El punto de partida está cerca del pueblo; sendero con tramos empinados.",
         quando: "Tarde con cielo despejado.",
         tempo: "3-4 horas",
@@ -410,7 +409,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "El aparcamiento del pueblo es pequeño y de pago: llegar pronto.",
+      "El aparcamiento del pueblo es pequeño: llegar temprano.",
       "Para el sendero Festvågtind hacen falta botas de trekking: tras la lluvia resbala."
     ],
     esperienzeSlugs: ['festvagtind-trail'],
@@ -452,14 +451,13 @@ export const destinazioniNorvegia: Destinazione[] = [
         testo: "La subida más famosa de las Lofoten: una cima de 448 metros a la que sube una escalera de piedra construida entre 2016 y 2019. Desde la cima se ve Reine con los fiordos y las montañas alrededor.",
         come: "Aparcamiento en el pueblo, sendero bien señalizado; subida empinada pero corta.",
         quando: "Con cielo despejado y sin lluvia, para evitar escalones resbaladizos. Temprano por la mañana o por la tarde.",
-        tempo: "unas 1h50 entre subida, descanso y bajada",
-        costo: "aparcamiento de pago en el pueblo",
+        tempo: "unas 2 horas entre subida, descanso y bajada",
         consiglio: "Comprobar la previsión antes: con nubes no se ve nada desde la cima."
       },
       {
         nome: "Reine y Hamnøy",
         testo: "Pueblo de pescadores con rorbuer rojos sobre rocas que caen al mar, entre las vistas más fotografiadas de Noruega. A pocos minutos de carretera está Hamnøy, con las mismas casas y el puente.",
-        come: "A pie en el pueblo; Hamnøy en coche, 5 minutos.",
+        come: "A pie por el pueblo; Hamnøy, a poca distancia en coche.",
         quando: "Mañana, con luz suave.",
         tempo: "1-2 horas",
         costo: "entrada libre",
@@ -475,8 +473,8 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Lofotr Viking Museum en Borg",
-        testo: "El mayor edificio vikingo hallado en Noruega, de 83 metros de largo, reconstruido a tamaño real con barcos, fragua y recreaciones. Abierto del 1 de mayo al 15 de septiembre. Está en la carretera entre Svolvær y Reine.",
-        come: "En coche, unos 55 minutos desde Svolvær; parada ideal en el trayecto.",
+        testo: "La reconstrucción a tamaño real de la casa larga de un jefe vikingo, con barcos, forja y recreaciones. Abierto del 1 de mayo al 15 de septiembre. Está en la carretera entre Svolvær y Reine.",
+        come: "En coche desde Svolvær; parada ideal durante el traslado.",
         quando: "Jornada completa.",
         tempo: "2 horas",
         url: "https://lofotr.no",
@@ -533,7 +531,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       {
         nome: "Paseo Nesland-Nusfjord",
         testo: "Un sendero panorámico que sigue la costa del fiordo de Nesland hasta el pueblo de Nusfjord, con vistas al mar y a las montañas de Flakstadøya.",
-        come: "A pie desde el rorbu, aproximadamente una hora por tramo.",
+        come: "A pie desde el rorbu, por la costa.",
         quando: "Tarde de verano, con la luz larga.",
         tempo: "2-3 horas ida y vuelta",
         consiglio: "El silencio y las pocas luces del lugar son lo mejor."
@@ -541,7 +539,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       {
         nome: "Nusfjord",
         testo: "Un pueblo de pescadores bien conservado en la costa sur de Flakstadøya, con rorbuer rojos y un pequeño puerto.",
-        come: "En coche desde Nesland, 10 minutos; la entrada al pueblo puede ser de pago.",
+        come: "En coche desde Nesland, a poca distancia.",
         quando: "Mañana o tarde, evitando los grupos.",
         tempo: "1 hora",
         consiglio: "Paseo corto, pero mejor con tiempo en calma."
@@ -553,7 +551,7 @@ export const destinazioniNorvegia: Destinazione[] = [
         quando: "Verano, con sol.",
         tempo: "1-2 horas",
         costo: "entrada libre",
-        consiglio: "El supermercado de Ramberg vende solo cerveza, ni vino ni licores."
+        consiglio: "En los supermercados solo se vende cerveza: vino y licores, solo en el Vinmonopolet."
       }
     ],
     sapori: [
@@ -563,7 +561,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Ramberg: el supermercado vende solo cerveza; para el vino hay que ir al Vinmonopolet de Leknes.",
+      "Ramberg: el supermercado solo vende cerveza; para el vino hay que ir al Vinmonopolet más cercano.",
       "El rorbu está aislado: llevar compra suficiente y una linterna."
     ],
     esperienzeSlugs: ['nesland-nusfjord'],
@@ -596,9 +594,9 @@ export const destinazioniNorvegia: Destinazione[] = [
     luoghi: [
       {
         nome: "Museo de los Pescadores (Norsk Fiskeværsmuseum)",
-        testo: "El museo del pueblo de Å, con casas, almacenes y un horno histórico, cuenta la vida de los pescadores de las Lofoten. La visita guiada en inglés explica bien la historia local.",
-        come: "Unos 50 minutos en coche desde Nesland; el museo se visita con guía o por libre.",
-        quando: "Mañana, con visita guiada.",
+        testo: "El museo del pueblo de Å, con casas, almacenes y un horno histórico, cuenta la vida de los pescadores de las Lofoten.",
+        come: "En coche desde Nesland; horarios y forma de visita en la web oficial.",
+        quando: "Por la mañana.",
         tempo: "1,5-2 horas",
         url: "https://www.museumnord.no",
         consiglio: "Con lluvia, como cuando fui, sigue siendo una buena visita bajo techo."
@@ -690,7 +688,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       {
         nome: "Fjellheisen y Storsteinen",
         testo: "El teleférico que sube en pocos minutos sobre la ciudad; arriba hay un mirador sobre los fiordos y las islas. En invierno es un sitio para ver la aurora sin desplazarse.",
-        come: "Desde el centro con el bus 28 o con un paseo de 15 minutos; la cabina sale aproximadamente cada 30 minutos.",
+        come: "Desde el centro en autobús o a pie cruzando el puente; horarios del teleférico en la web oficial.",
         quando: "Tarde en invierno por las luces de la ciudad, de día en verano.",
         tempo: "1-2 horas",
         costo: "645 NOK ida y vuelta adultos, 310 NOK niños de 3 a 15 años (2026)",
@@ -699,7 +697,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Polaria",
-        testo: "El centro ártico con acuarios de fauna marina local y de Svalbard, la piscina de las focas barbudas con un túnel bajo el agua y un cine panorámico de cinco pantallas.",
+        testo: "El centro ártico con acuarios de fauna marina local y de Svalbard, un estanque de focas y un cine panorámico.",
         come: "A pie desde el centro, junto al puerto.",
         quando: "De día, sobre todo si llueve.",
         tempo: "1,5 horas",
@@ -708,7 +706,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Museo Polar",
-        testo: "Museo en un edificio histórico del puerto, sobre la historia de las expediciones polares noruegas de Amundsen y los cazadores de focas árticos.",
+        testo: "Un pequeño museo junto al puerto dedicado a las expediciones polares y a la caza en el Ártico.",
         come: "A pie desde el centro.",
         quando: "De día.",
         tempo: "1 hora",
@@ -718,7 +716,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       {
         nome: "Mack's Ølhallen",
         testo: "El pub histórico de la cervecera Mack, fundada en 1877 y durante décadas una de las más septentrionales del mundo, con cerveza de grifo. Un lugar de locales, sin pretensiones.",
-        come: "A pie desde el centro, en Storgata.",
+        come: "A pie desde el centro.",
         quando: "Noche.",
         tempo: "1 hora",
         consiglio: "Probar una cerveza local: se pide en la barra."
@@ -728,7 +726,7 @@ export const destinazioniNorvegia: Destinazione[] = [
         testo: "Una salida nocturna con guía fuera de la ciudad, lejos de las luces, para buscar la aurora con cielo despejado. Los tours suelen durar varias horas.",
         come: "Reservado con operador, salida en minibús desde el centro.",
         quando: "De finales de septiembre a finales de marzo, noche con pocas nubes.",
-        tempo: "5-6 horas",
+        tempo: "una noche",
         consiglio: "Fue la primera vez que vi la aurora moverse en el cielo."
       },
       {
@@ -782,7 +780,7 @@ export const destinazioniNorvegia: Destinazione[] = [
     sapori: [
       {
         nome: "Cangrejo real (kongekrabbe)",
-        testo: "Por la zona de Storgata se comen patas de cangrejo real, rico y dulce."
+        testo: "En los restaurantes del centro se comen patas de cangrejo real, sabroso y dulce."
       },
       {
         nome: "Bacalao seco (tørrfisk)",

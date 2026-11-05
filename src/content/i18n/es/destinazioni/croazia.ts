@@ -51,8 +51,8 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Cementerio de Mirogoj",
-        testo: "El cementerio monumental de la ciudad, abierto en 1876, con el edificio principal diseñado por el arquitecto Hermann Bollé. Las largas arcadas con cúpulas, construidas entre 1879 y 1929, encierran tumbas de todas las religiones, una al lado de otra. Es uno de los lugares más bonitos y tranquilos de Zagreb, y pocos turistas llegan.",
-        come: "Autobús 106 desde la terminal de Kaptol, junto a la catedral, o a pie cuesta arriba.",
+        testo: "El cementerio monumental de la ciudad, abierto en 1876, con el edificio principal diseñado por el arquitecto Hermann Bollé. Las largas arcadas con cúpulas encierran tumbas de todas las religiones, una al lado de otra. Es uno de los lugares más bonitos y tranquilos de Zagreb, y pocos turistas llegan.",
+        come: "En autobús urbano desde Kaptol, junto a la catedral, o a pie cuesta arriba.",
         quando: "Mañana o última hora de la tarde; a principios de noviembre está lleno de velas.",
         tempo: "1 hora",
         costo: "Gratis.",
@@ -379,7 +379,7 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Trogir",
-        testo: "Una pequeña ciudad-isla medieval a unos 27 km de Split, con la catedral de San Lorenzo y su portal esculpido por Radovan. Patrimonio UNESCO.",
+        testo: "Una pequeña ciudad-isla medieval al oeste de Split, con la catedral de San Lorenzo y su portal esculpido por Radovan. Patrimonio UNESCO.",
         come: "En coche o en autobús desde Split. Se visita a pie.",
         quando: "Por la mañana.",
         tempo: "3 horas",
@@ -413,7 +413,7 @@ export const destinazioniCroazia: Destinazione[] = [
       {
         nome: "Veli Varoš",
         perChi: "para un barrio tranquilo",
-        testo: "Casas de pescadores a 10 minutos del centro, bajo Marjan."
+        testo: "Casas de pescadores a un paso del centro, bajo Marjan."
       }
     ],
     sapori: [
@@ -684,10 +684,10 @@ export const destinazioniCroazia: Destinazione[] = [
       {
         nome: "Murallas de Dubrovnik",
         testo: "Un anillo de murallas medievales de casi dos kilómetros alrededor del casco antiguo, con torres y baluartes. El mejor recorrido para ver los tejados rojos y el mar.",
-        come: "Se sube por la Puerta Pile o por el lado del puerto, siguiendo el sentido indicado.",
+        come: "Se sube por la Puerta Pile o por el lado del puerto, siguiendo las indicaciones en el lugar.",
         quando: "A la apertura o al final de la tarde: a mediodía hace calor y hay mucha gente.",
         tempo: "1 hora y media-2 horas",
-        costo: "Unos 40 € (2026).",
+        costo: "Entrada de pago, precios en la web oficial.",
         consiglio: "Llevar agua y gorra: hay poca sombra."
       },
       {
@@ -700,11 +700,11 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Teleférico y monte Srđ",
-        testo: "Desde la estación sobre las murallas el teleférico sube en pocos minutos al monte Srđ, de 412 metros, con vistas a toda la ciudad y las islas. Arriba está el Fuerte Imperial, construido por los franceses en 1810, que alberga el museo de la guerra de los años noventa, cuando la ciudad fue sitiada. Al atardecer los tejados rojos y Lokrum se tiñen de color, y es el mejor momento.",
+        testo: "Desde la estación sobre las murallas el teleférico sube en pocos minutos al monte Srđ, de 412 metros, con vistas a toda la ciudad y las islas. Arriba está el Fuerte Imperial, construido por los franceses a principios del siglo XIX, que alberga el museo de la guerra de los años noventa, cuando la ciudad fue sitiada. Al atardecer los tejados rojos y Lokrum se tiñen de color, y es el mejor momento.",
         come: "Desde la estación cerca de la Puerta Buža, a pie.",
         quando: "Final de la tarde para el atardecer.",
         tempo: "1-2 horas",
-        costo: "Unos 30 € ida y vuelta (2026).",
+        costo: "Billete de ida y vuelta, precios en la web oficial.",
         consiglio: "Reservar horario de atardecer: las colas pueden ser largas."
       },
       {

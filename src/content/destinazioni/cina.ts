@@ -123,7 +123,7 @@ export const destinazioniCina: Destinazione[] = [
         nome: "Tempio del Cielo",
         testo: "Il complesso dove gli imperatori Ming e Qing pregavano per il buon raccolto, costruito nel 1420 insieme alla Città Proibita e patrimonio UNESCO. La Sala della Preghiera è circolare, a tre tetti blu, tutta in legno; più a sud ci sono il Muro dell'Eco e l'Altare circolare di marmo. Il parco attorno è il ritrovo mattutino dei pensionati del quartiere.",
         come: "Metro linea 5 fino a Tiantandongmen.",
-        quando: "Mattino presto: nel parco centinaia di pensionati ballano, cantano e giocano a carte.",
+        quando: "Mattino presto: nel parco molti pensionati ballano, cantano e giocano a carte.",
         tempo: "2-3 ore",
         consiglio: "Il parco al mattino presto vale quanto il tempio.",
       },
@@ -158,14 +158,14 @@ export const destinazioniCina: Destinazione[] = [
       { titolo: "3 giorni: aggiungere la Muraglia", tappe: ["Giorni 1-2: come sopra","Giorno 3: Muraglia a Jinshanling"] },
     ],
     zone: [
-      { nome: "Dongcheng / Wangfujing", perChi: "Chi vuole muoversi a piedi", testo: "Comoda per la metro e per i vicoli di Houhai." },
+      { nome: "Dongcheng / Wangfujing", perChi: "Chi vuole muoversi a piedi", testo: "Comoda per la metro, per la Città Proibita e per i vicoli del centro." },
       { nome: "Sanlitun", perChi: "Chi vuole la parte moderna", testo: "Ristoranti e vita serale." },
     ],
     sapori: [
       { nome: "Anatra laccata", testo: "Da ordinare intera, tagliata al tavolo." },
-      { nome: "Jianbing", testo: "Crêpe salata del mattino." },
+      { nome: "Jianbing", testo: "Crêpe salata con uovo, venduta per strada al mattino." },
       { nome: "Jiaozi e baozi", testo: "Ravioli al vapore." },
-      { nome: "Noodles dello Shanxi", testo: "Tirati a mano." },
+      { nome: "Noodles dello Shanxi", testo: "Noodles fatti a mano, tirati o tagliati al coltello." },
     ],
     attenzioni: [
       "Presentarsi alla Città Proibita senza prenotazione: il giorno stesso non si vendono biglietti e gli ingressi sono a numero chiuso.",
@@ -281,16 +281,16 @@ export const destinazioniCina: Destinazione[] = [
       },
       {
         nome: "Grande Pagoda dell'Oca Selvatica",
-        testo: "Pagoda buddhista costruita nel 652 per custodire i testi che il monaco Xuanzang aveva portato dall'India. Sta nel tempio Da Ci'en; a nord c'è una grande piazza con le fontane musicali, a sud il lungo viale di Datang Everbright City, che di sera si riempie di luci e spettacoli in costume.",
+        testo: "Pagoda buddhista costruita nel 652 per custodire i testi che il monaco Xuanzang aveva portato dall'India. Sta nel tempio Da Ci'en; intorno ci sono una grande piazza con le fontane e viali pedonali che di sera si illuminano.",
         come: "Metro linee 3 o 4 fino a Dayanta.",
         quando: "La pagoda di giorno; fontane e viale illuminato dopo il tramonto.",
         tempo: "1,5-2 ore",
-        consiglio: "Restare fino a sera e camminare lungo Datang Everbright City: è il viale più scenografico della città.",
+        consiglio: "Restare fino a sera: con le luci accese la zona attorno alla pagoda cambia del tutto.",
       },
       {
         nome: "Museo di Storia dello Shaanxi",
         testo: "Uno dei musei più importanti della Cina, con ori, bronzi, ceramiche e affreschi dalle dinastie Zhou ai Tang. Le sale dei Tang raccontano Xi'an capitale dell'impero e punto di partenza della Via della Seta. Esiste anche una sede distaccata, il Padiglione Qin-Han, a circa 40 chilometri, nella nuova area di Xixian: controllare quale si sta prenotando.",
-        come: "Metro linee 2 o 3 fino a Xiaozhai, poi 10 minuti a piedi. Ingresso gratuito ma con biglietto nominale da prenotare sul mini-programma WeChat ufficiale; portare il passaporto usato per prenotare.",
+        come: "Metro linee 2 o 3 fino a Xiaozhai, poi a piedi. Ingresso gratuito ma con biglietto nominale da prenotare sul mini-programma WeChat ufficiale; portare il passaporto usato per prenotare.",
         quando: "Sede principale 8.30-19 (2026). Ultimo ingresso alle 18. Le prenotazioni aprono 5 giorni prima, alle 17 ora cinese (2026).",
         tempo: "2-3 ore",
         costo: "Ingresso gratuito con prenotazione; la sala degli affreschi delle tombe Tang ha un biglietto a parte",
@@ -308,7 +308,7 @@ export const destinazioniCina: Destinazione[] = [
       { nome: "Roujiamo", testo: "Panino di maiale stufato." },
       { nome: "Biang biang noodles", testo: "Tagliatella larga come una cintura." },
       { nome: "Yangrou paomo", testo: "Zuppa di agnello con pane." },
-      { nome: "Liangpi", testo: "Freddo e piccante." },
+      { nome: "Liangpi", testo: "Noodles freddi di pasta di frumento o di riso, conditi con aceto e peperoncino." },
     ],
     attenzioni: [
       "Presentarsi all'Esercito di Terracotta senza biglietto nominale: si prenota online in anticipo e nei periodi di festa finisce.",
@@ -419,7 +419,7 @@ export const destinazioniCina: Destinazione[] = [
       {
         nome: "Il Bund",
         testo: "Circa 1,6 chilometri di lungofiume con i palazzi di banche, dogane e hotel costruiti tra fine Ottocento e anni Trenta, quando Shanghai era la città dei commerci stranieri. Dall'altra parte dello Huangpu c'è lo skyline di Pudong. La passeggiata è libera.",
-        come: "Metro linee 2 o 10 fino a East Nanjing Road, poi 10 minuti a piedi.",
+        come: "Metro linee 2 o 10 fino a East Nanjing Road, poi a piedi.",
         quando: "Al tramonto e la sera, quando si accendono le luci su entrambe le rive; al mattino presto c'è chi fa tai chi.",
         tempo: "1-2 ore",
         costo: "Ingresso libero",
@@ -444,24 +444,24 @@ export const destinazioniCina: Destinazione[] = [
       {
         nome: "Shanghai Tower",
         testo: "Con 632 metri è il grattacielo più alto della Cina. L'osservatorio principale è al 118° piano, a 546 metri, e ci si arriva con ascensori tra i più veloci del mondo. Accanto ci sono lo Shanghai World Financial Center e la Jin Mao Tower, i tre giganti di Lujiazui.",
-        come: "Metro linea 2 fino a Lujiazui, poi 10 minuti a piedi.",
+        come: "Metro linea 2 fino a Lujiazui, poi a piedi.",
         quando: "Con il cielo limpido, spesso dopo una giornata di vento o pioggia. Con lo smog o le nuvole basse si vede poco.",
         tempo: "1-1,5 ore",
-        costo: "180 yuan adulti (2025)",
+        costo: "Biglietto a pagamento: tariffe sul sito ufficiale",
         url: "https://www.shanghaitower.com/",
         consiglio: "Salire un'ora prima del tramonto e restare fino al buio: si vede la città di giorno e con le luci.",
       },
       {
         nome: "Suzhou",
-        testo: "Città di canali e giardini classici, patrimonio UNESCO: il Giardino dell'Umile Amministratore è il più grande, quello del Maestro delle Reti il più raffinato. A pochi minuti c'è Pingjiang Road, una via lungo il canale con case bianche, ponti di pietra e sale da tè.",
-        come: "Treno ad alta velocità da Shanghai Hongqiao o dalla stazione di Shanghai: circa 30 minuti.",
+        testo: "Città di canali e giardini classici, patrimonio UNESCO: il Giardino dell'Umile Amministratore è il più grande, quello del Maestro delle Reti uno dei più raffinati. Non lontano c'è Pingjiang Road, una via lungo il canale con case bianche, ponti di pietra e sale da tè.",
+        come: "Treno ad alta velocità da Shanghai Hongqiao o dalla stazione di Shanghai: il viaggio è breve.",
         quando: "Un giorno feriale, all'apertura dei giardini; nei weekend e nelle feste sono pieni.",
         tempo: "Giornata",
         consiglio: "Scegliere due giardini, non quattro: dopo il secondo si confondono. Prenotare online i biglietti dei giardini più famosi, che in alta stagione finiscono.",
       },
       {
         nome: "Villaggi d'acqua",
-        testo: "Borghi di canali, ponti di pietra e case bianche attorno a Shanghai. Zhujiajiao è il più vicino e si raggiunge in metro; Zhouzhuang e Tongli sono vicino a Suzhou; Wuzhen, più lontano, è il più curato. Si girano a piedi o in barca a remi.",
+        testo: "Borghi di canali, ponti di pietra e case bianche attorno a Shanghai. Zhujiajiao è il più vicino e si raggiunge in metro; Zhouzhuang e Tongli sono vicino a Suzhou; Wuzhen, più lontano, è molto curato. Si girano a piedi o in barca a remi.",
         come: "Zhujiajiao con la metro linea 17; gli altri in bus o con un tour da Shanghai o Suzhou.",
         quando: "Mattina presto, oppure con un pernottamento: dal tardo mattino arrivano i gruppi.",
         tempo: "Mezza giornata",
@@ -473,12 +473,12 @@ export const destinazioniCina: Destinazione[] = [
       { titolo: "2 giorni: aggiungere Suzhou", tappe: ["Giorno 1: come sopra","Giorno 2: Suzhou"] },
     ],
     zone: [
-      { nome: "Ex Concessione Francese", perChi: "Chi vuole atmosfera", testo: "Piacevole a piedi." },
-      { nome: "Zona del Bund", perChi: "Chi vuole vista", testo: "Più cara." },
+      { nome: "Ex Concessione Francese", perChi: "Chi vuole atmosfera", testo: "Vie alberate e tranquille, piacevoli da girare a piedi." },
+      { nome: "Zona del Bund", perChi: "Chi vuole vista", testo: "Vicina al lungofiume e alla metro, con hotel in genere più cari." },
     ],
     sapori: [
-      { nome: "Xiaolongbao", testo: "Ravioli al brodo." },
-      { nome: "Shengjianbao", testo: "Scottati sulla piastra." },
+      { nome: "Xiaolongbao", testo: "Ravioli al vapore con ripieno di carne e brodo all'interno." },
+      { nome: "Shengjianbao", testo: "Panini ripieni di maiale, scottati sulla piastra e poi cotti al vapore." },
     ],
     attenzioni: [
       "Accettare l'invito di sconosciuti gentili a bere un tè o in un bar: è la truffa classica delle zone turistiche, alla fine arriva un conto altissimo.",
@@ -580,7 +580,7 @@ export const destinazioniCina: Destinazione[] = [
         nome: "Ascensore di Bailong",
         testo: "Un ascensore panoramico costruito sulla parete di roccia, che sale per 326 metri in circa un minuto e mezzo. Collega il fondovalle di Shuirao Simen all'altopiano di Yuanjiajie e risparmia ore di scalini. È discusso, perché è un'opera enorme dentro un sito UNESCO, ma è il modo più rapido per salire.",
         come: "Dentro il parco, dalla zona di Shuirao Simen, con biglietto a parte.",
-        quando: "All'apertura o nel primo pomeriggio: nelle ore di punta la coda dura anche un'ora.",
+        quando: "All'apertura o nel primo pomeriggio: nelle ore di punta la coda può essere lunga.",
         tempo: "1 ora con la coda",
         costo: "65 yuan a tratta (2025)",
         consiglio: "Salire con l'ascensore e scendere a piedi: la discesa tra i pilastri è uno dei tratti più belli.",
@@ -614,15 +614,15 @@ export const destinazioniCina: Destinazione[] = [
       { titolo: "2 giorni: Zhangjiajie", tappe: ["Giorno 1: Yuanjiajie, Tianzi Shan","Giorno 2: Tianmen Shan"] },
     ],
     zone: [
-      { nome: "Wulingyuan", perChi: "Chi vuole stare vicino al parco", testo: "Evita due ore di trasferimento." },
+      { nome: "Wulingyuan", perChi: "Chi vuole stare vicino al parco", testo: "All'ingresso del parco: evita il trasferimento dalla città ogni mattina." },
     ],
     sapori: [
-      { nome: "Maiale al peperoncino", testo: "Cucina dello Hunan." },
-      { nome: "Tofu puzzolente", testo: "Fritto." },
+      { nome: "Maiale al peperoncino", testo: "Maiale saltato con peperoncino fresco: un classico della cucina piccante dello Hunan." },
+      { nome: "Tofu puzzolente", testo: "Tofu fermentato dall'odore forte, fritto e servito con salsa piccante." },
     ],
     attenzioni: [
       "Programmare un solo giorno: il parco è enorme, e il biglietto vale quattro giorni per un motivo.",
-      "Arrivare senza prenotazione: dal 2025 ogni giorno di visita al parco va prenotato in anticipo, con il passaporto.",
+      "Arrivare senza aver controllato le regole d'ingresso: prenotazione e documenti richiesti possono cambiare, verificarli prima di partire.",
       "Andare nella Golden Week di ottobre o a inizio maggio: code di ore agli ascensori e alle funivie.",
       "Dormire in città a Zhangjiajie: Wulingyuan, all'ingresso del parco, fa risparmiare ore di strada.",
       "Dare da mangiare alle scimmie o tenere cibo in vista.",
@@ -677,14 +677,14 @@ export const destinazioniCina: Destinazione[] = [
       {
         nome: "Cascata e camminamento",
         testo: "Il borgo è costruito sul bordo di una grande cascata che si getta nel fiume. Un camminamento di pietra passa dietro il velo d'acqua: si cammina tra la roccia e la cascata, con il rumore che copre tutto. Di sera la cascata è illuminata.",
-        come: "Treno veloce da Zhangjiajie Ovest fino alla stazione di Furongzhen (circa mezz'ora), poi bus o taxi, circa 10 minuti; nel borgo si scende a piedi lungo le scalinate.",
+        come: "Treno veloce da Zhangjiajie Ovest fino alla stazione di Furongzhen (circa mezz'ora), poi bus o taxi; nel borgo si scende a piedi lungo le scalinate.",
         quando: "Di giorno per il camminamento; la sera dalla riva opposta, con le luci accese.",
         tempo: "1 ora",
         consiglio: "Si esce bagnati: giacca leggera impermeabile e custodia per il telefono.",
       },
       {
         nome: "Case Tujia",
-        testo: "Case di legno su palafitte, aggrappate al bordo della scarpata sopra il fiume, dove vive la minoranza Tujia. Le vie in pietra del borgo scendono a gradini verso l'acqua, tra botteghe di tofu, dolci di riso e argento. È la parte del paese da vedere con calma, quando i gruppi in giornata se ne sono andati.",
+        testo: "Il borgo è un antico paese della minoranza Tujia, con case di legno affacciate sulla scarpata sopra il fiume. Le vie in pietra scendono a gradini verso l'acqua, tra botteghe e piccoli locali. È la parte del paese da vedere con calma, quando i gruppi in giornata se ne sono andati.",
         come: "A piedi nel borgo.",
         quando: "Sera e mattina presto.",
         tempo: "2-3 ore",
@@ -695,7 +695,7 @@ export const destinazioniCina: Destinazione[] = [
       { titolo: "1 notte: Furong Zhen", tappe: ["Arrivo nel pomeriggio","Cascata","Sera nel borgo illuminato","Mattina presto"] },
     ],
     zone: [
-      { nome: "Guesthouse sul fiume", perChi: "Chi vuole vedere il borgo vuoto", testo: "Molto economiche." },
+      { nome: "Guesthouse sul fiume", perChi: "Chi vuole vedere il borgo vuoto", testo: "Dormire nel borgo permette di vederlo la sera e all'alba, senza i gruppi in giornata." },
     ],
     sapori: [
       { nome: "Pesce di fiume", testo: "In umido." },
@@ -766,15 +766,15 @@ export const destinazioniCina: Destinazione[] = [
         tempo: "3-4 ore",
         costo: "55 yuan adulti (2026)",
         url: "https://www.panda.org.cn/",
-        consiglio: "Andare subito ai recinti degli adulti: dopo le dieci quasi tutti dormono.",
+        consiglio: "Andare subito ai recinti degli adulti: a metà mattina molti già dormono.",
       },
       {
         nome: "Monastero di Wenshu",
-        testo: "Monastero buddhista fondato in epoca Sui e ricostruito a fine Seicento, sotto i Qing, ancora frequentato da fedeli e monaci, tra incenso e preghiere. Nel cortile c'è una casa da tè all'aperto.",
+        testo: "Monastero buddhista fondato in epoca Sui e ricostruito a fine Seicento, sotto i Qing, ancora frequentato da fedeli e monaci, tra incenso e preghiere.",
         come: "Metro linea 1 fino a Wenshu Monastery.",
         quando: "Mattina, durante le preghiere.",
         tempo: "1,5 ore",
-        consiglio: "Fermarsi per un tè nel cortile: costa poco ed è la cosa più chengduese che si possa fare.",
+        consiglio: "È un luogo di culto attivo: entrare in silenzio e non disturbare chi prega.",
       },
       {
         nome: "Kuanzhai Xiangzi",
@@ -786,7 +786,7 @@ export const destinazioniCina: Destinazione[] = [
       },
       {
         nome: "Parco del Popolo",
-        testo: "Il parco dove la città si incontra: pensionati che ballano, cori improvvisati e l'angolo del 'mercato matrimoniale', dove i genitori espongono i profili dei figli single. La casa da tè Heming, sotto gli alberi, è la più famosa di Chengdu: si sceglie il tè, si chiama il pulitore di orecchie, si passa il pomeriggio.",
+        testo: "Il parco dove la città si incontra: pensionati che ballano, cori improvvisati e case da tè all'aperto sotto gli alberi, dove si passa il pomeriggio davanti a un bicchiere di tè.",
         come: "Metro linea 2 fino a People's Park.",
         quando: "Pomeriggio, meglio nei giorni feriali.",
         tempo: "2 ore",
@@ -799,19 +799,19 @@ export const destinazioniCina: Destinazione[] = [
         quando: "Mattina presto, in un giorno feriale: la scalinata si fa in coda.",
         tempo: "Giornata",
         costo: "80 yuan il biglietto del parco (2025); battello a parte",
-        consiglio: "Entrare all'apertura e fare subito la scalinata: a metà mattina l'attesa può superare l'ora.",
+        consiglio: "Entrare all'apertura e fare subito la scalinata: a metà mattina l'attesa può diventare lunga.",
       },
     ],
     programmi: [
       { titolo: "2 giorni: Chengdu", tappe: ["Giorno 1: panda, Wenshu","Giorno 2: Parco del Popolo, hot pot"] },
     ],
     zone: [
-      { nome: "Centro", perChi: "Chi vuole comodità", testo: "Vicino alle linee." },
+      { nome: "Centro", perChi: "Chi vuole comodità", testo: "Vicino alle linee della metro e ai luoghi principali." },
     ],
     sapori: [
-      { nome: "Hot pot", testo: "Brodo diviso." },
-      { nome: "Mapo tofu", testo: "Classico." },
-      { nome: "Gongbao", testo: "Pollo." },
+      { nome: "Hot pot", testo: "Brodo piccante al peperoncino e pepe di Sichuan in cui si cuociono carne e verdure; si può chiedere il brodo diviso, metà piccante e metà no." },
+      { nome: "Mapo tofu", testo: "Tofu in salsa piccante con carne macinata e pepe di Sichuan." },
+      { nome: "Gongbao", testo: "Pollo a dadini saltato con arachidi e peperoncino." },
     ],
     attenzioni: [
       "Arrivare ai panda a metà mattina: dormono, e si vedono solo schiene.",
@@ -901,12 +901,12 @@ export const destinazioniCina: Destinazione[] = [
         come: "Stazione di Xinhua Road, vicino a Jiefangbei, fino alla riva sud.",
         quando: "Al tramonto o dopo il buio.",
         tempo: "30 minuti, più la coda",
-        consiglio: "La coda può superare l'ora: andare in un giorno feriale o la sera tardi.",
+        consiglio: "La coda può essere lunga: andare in un giorno feriale o la sera tardi.",
       },
       {
         nome: "Wulong",
-        testo: "Il parco carsico di Wulong, patrimonio UNESCO tra i paesaggi del Carso della Cina meridionale. I Tre Ponti Naturali sono archi di roccia giganteschi sopra una gola, che si visitano dal basso, scendendo con un ascensore e camminando lungo il torrente.",
-        come: "Treno da Chongqing fino a Wulong e poi navetta, oppure tour in giornata: contare 2-3 ore di viaggio a tratta.",
+        testo: "Il parco carsico di Wulong, patrimonio UNESCO tra i paesaggi del Carso della Cina meridionale. I Tre Ponti Naturali sono archi di roccia giganteschi sopra una gola, che si visitano dal basso camminando lungo il torrente.",
+        come: "Treno da Chongqing fino a Wulong e poi navetta, oppure tour in giornata: il viaggio è lungo, conviene partire presto.",
         quando: "Giornata intera, fuori dalle settimane di festa.",
         tempo: "Giornata",
         consiglio: "Partire presto: tra viaggio e visita la giornata è piena, e il sentiero nella gola richiede scarpe comode.",
@@ -916,17 +916,17 @@ export const destinazioniCina: Destinazione[] = [
       { titolo: "1-2 giorni: Chongqing", tappe: ["Liziba","Funivia","Hongya Dong di notte","Hot pot"] },
     ],
     zone: [
-      { nome: "Jiefangbei", perChi: "Chi vuole il centro", testo: "Comodo." },
+      { nome: "Jiefangbei", perChi: "Chi vuole il centro", testo: "Il centro, comodo per la metro, la funivia e Hongya Dong." },
     ],
     sapori: [
       { nome: "Hot pot di Chongqing", testo: "Brodo rosso piccante." },
-      { nome: "Xiaomian", testo: "Noodles piccanti." },
+      { nome: "Xiaomian", testo: "Noodles in brodo piccante con peperoncino e pepe di Sichuan." },
     ],
     attenzioni: [
       "Guardare Hongya Dong solo da dentro: lo spettacolo si vede dall'altra riva.",
       "Fidarsi dei tempi a piedi delle mappe: la città è a strati, e due punti vicini possono essere separati da decine di metri di dislivello.",
       "Andare in luglio e agosto: il caldo è soffocante.",
-      "Ordinare l'hot pot senza chiedere 'poco piccante' (wei la): quello di Chongqing è il più forte del paese.",
+      "Ordinare l'hot pot senza chiedere 'poco piccante' (wei la): quello di Chongqing è molto piccante.",
     ],
     esperienzeSlugs: ['hongya-dong-notte'],
     tripSlugs: ['cina-paesaggi'],
@@ -979,11 +979,11 @@ export const destinazioniCina: Destinazione[] = [
     luoghi: [
       {
         nome: "Città vecchia di Dayan",
-        testo: "La città vecchia di Lijiang, patrimonio UNESCO dal 1997: vicoli lastricati, case di legno della minoranza Naxi e canali d'acqua corrente. Al centro c'è la piazza Sifang. Di giorno e di sera è una via commerciale piena di gente; all'alba torna un borgo.",
+        testo: "La città vecchia di Lijiang, patrimonio UNESCO dal 1997: vicoli lastricati, case di legno della minoranza Naxi e canali d'acqua corrente. Di giorno e di sera è una via commerciale piena di gente; all'alba torna un borgo.",
         come: "A piedi; le auto non entrano.",
-        quando: "All'alba, prima delle otto.",
+        quando: "All'alba, prima che aprano i negozi.",
         tempo: "Mattina",
-        consiglio: "Alle sei è un altro posto. Lo Stagno del Drago Nero, appena a nord, al mattino riflette la Montagna di Giada se il cielo è pulito.",
+        consiglio: "All'alba è un altro posto. Lo Stagno del Drago Nero, appena a nord, al mattino riflette la Montagna di Giada se il cielo è pulito.",
       },
       {
         nome: "Collina del Leone",
@@ -995,16 +995,16 @@ export const destinazioniCina: Destinazione[] = [
       },
       {
         nome: "Baisha",
-        testo: "Villaggio Naxi a 8-10 chilometri a nord, centro della regione prima di Lijiang. Conserva affreschi di epoca Ming nei templi e un ritmo da paese vero, con le campagne attorno e la montagna sullo sfondo.",
+        testo: "Villaggio Naxi a nord di Lijiang, centro della regione prima di Lijiang. Conserva affreschi di epoca Ming nei templi e un ritmo da paese vero, con le campagne attorno e la montagna sullo sfondo.",
         come: "Bicicletta o taxi da Lijiang.",
         quando: "Mattina.",
         tempo: "Mezza giornata",
-        consiglio: "Quasi nessuno ci va: è il posto giusto per capire com'era Lijiang prima del turismo.",
+        consiglio: "Ci va molta meno gente che a Dayan: è il posto giusto per capire com'era Lijiang prima del turismo.",
       },
       {
         nome: "Shuhe",
         testo: "Antica tappa sulla Via del Tè e dei Cavalli, a nord di Lijiang. È più piccola e tranquilla di Dayan, con canali e piccole guesthouse.",
-        come: "Bicicletta, o taxi in circa 20 minuti.",
+        come: "In bicicletta o in taxi da Lijiang.",
         quando: "Mattina.",
         tempo: "1,5 ore",
         consiglio: "Andarci in bici e proseguire poi verso Baisha: sono sulla stessa strada.",
@@ -1017,11 +1017,11 @@ export const destinazioniCina: Destinazione[] = [
       { nome: "Città vecchia", perChi: "Chi vuole dormire tra i canali", testo: "Meglio che passarci." },
     ],
     sapori: [
-      { nome: "Noodles «attraverso il ponte»", testo: "Brodo bollente." },
-      { nome: "Formaggio di capra", testo: "Dei Bai." },
+      { nome: "Noodles «attraverso il ponte»", testo: "Brodo bollente in cui si cuociono al tavolo noodles di riso, carne e verdure: un piatto tipico dello Yunnan." },
+      { nome: "Formaggio di capra", testo: "Formaggio di capra della tradizione Bai, spesso servito fritto o alla griglia." },
     ],
     attenzioni: [
-      "Giudicare Dayan alle sei di sera: è la sua ora peggiore.",
+      "Giudicare Dayan a fine giornata, nell'ora di punta: è il suo momento peggiore.",
       "Ignorare la quota: Lijiang è in alta quota, i primi giorni si cammina più lenti.",
       "Saltare Baisha e Shuhe.",
       "Comprare argento, tè pu'er o giada nei negozi della città vecchia senza contrattare.",
@@ -1120,7 +1120,7 @@ export const destinazioniCina: Destinazione[] = [
       {
         nome: "Yulong Xueshan",
         testo: "Il massiccio della Montagna di Neve del Drago di Giada, che domina Lijiang. Una funivia sale al Parco del Ghiacciaio fino a 4.506 metri, dove una passerella di legno porta tra rocce e ghiaccio. Più in basso c'è la Valle della Luna Blu, con laghi turchesi a terrazze.",
-        come: "Tour o auto da Lijiang, circa un'ora. I biglietti della funivia del ghiacciaio sono contingentati e vanno prenotati in anticipo.",
+        come: "Tour o auto da Lijiang. I biglietti della funivia del ghiacciaio sono contingentati e vanno prenotati in anticipo.",
         quando: "Mattina presto: nel pomeriggio salgono nuvole e vento.",
         tempo: "Giornata",
         consiglio: "Acclimatarsi un paio di giorni a Lijiang prima di salire e, in cima, muoversi lentamente.",
@@ -1144,7 +1144,7 @@ export const destinazioniCina: Destinazione[] = [
       {
         nome: "Shangri-La",
         testo: "La città di Zhongdian, ribattezzata Shangri-La, sull'altopiano tibetano a circa 3.200 metri. Il monastero di Songzanlin, del Seicento, è il più grande dello Yunnan; la città vecchia di Dukezong è stata in gran parte ricostruita dopo l'incendio del 2014.",
-        come: "Treno o bus da Lijiang; il treno impiega meno di due ore.",
+        come: "Treno o bus da Lijiang.",
         quando: "Da maggio a ottobre; d'inverno fa molto freddo.",
         tempo: "1-2 giorni",
         consiglio: "Il monastero all'apertura, quando i monaci sono al lavoro. Salire con calma: la quota si sente.",
@@ -1154,11 +1154,11 @@ export const destinazioniCina: Destinazione[] = [
       { titolo: "3 giorni: oltre Lijiang", tappe: ["Giorno 1: Impression Lijiang","Giorno 2: Yulong Xueshan","Giorno 3: Gola del Salto della Tigre"] },
     ],
     zone: [
-      { nome: "Guesthouse lungo la gola", perChi: "Chi fa il trek", testo: "Menu fisso semplice." },
+      { nome: "Guesthouse lungo la gola", perChi: "Chi fa il trek", testo: "Guesthouse semplici lungo il sentiero alto, con cucina casalinga." },
     ],
     sapori: [
-      { nome: "Tè al burro di yak", testo: "Primo sorso spiazzante." },
-      { nome: "Momo", testo: "Al vapore." },
+      { nome: "Tè al burro di yak", testo: "Tè tibetano con burro e sale: il primo sorso spiazza." },
+      { nome: "Momo", testo: "Ravioli tibetani al vapore, di carne o verdure." },
     ],
     attenzioni: [
       "Salire a 4.506 metri appena arrivati in aereo: meglio un paio di giorni a Lijiang prima.",
@@ -1232,7 +1232,7 @@ export const destinazioniCina: Destinazione[] = [
         testo: "Affluente del Li, più piccolo e tranquillo, tra risaie, bufali e ponti di pietra; il Ponte del Drago di Giada è uno dei più famosi. Si scende su zattere di bambù spinte a mano con la pertica.",
         come: "In bici o bici elettrica da Yangshuo, lungo le stradine di campagna.",
         quando: "Giornata, in primavera o autunno.",
-        tempo: "5 ore",
+        tempo: "Mezza giornata",
         consiglio: "Noleggiare una bici e andare senza programma: si trova sempre un ponte, un villaggio o un banco di frutta.",
       },
       {
@@ -1246,7 +1246,7 @@ export const destinazioniCina: Destinazione[] = [
       {
         nome: "Terrazze di Longji",
         testo: "Le risaie a terrazze del Dorso del Drago, scavate sulle montagne dai villaggi Zhuang e Yao. Si cammina tra Ping'an e Dazhai, con belvedere sulle risaie che scendono a gradoni fino al fondovalle.",
-        come: "Tour o auto: circa 2 ore da Guilin, di più da Yangshuo.",
+        come: "Tour o auto da Guilin; da Yangshuo il viaggio è più lungo.",
         quando: "Maggio-giugno con l'acqua nelle risaie, settembre-ottobre con il riso giallo.",
         tempo: "Giornata, meglio con una notte",
         consiglio: "Dormire in un villaggio delle terrazze: al mattino presto si cammina da soli.",
@@ -1256,11 +1256,11 @@ export const destinazioniCina: Destinazione[] = [
       { titolo: "2 giorni: Yangshuo", tappe: ["Giorno 1: Xingping in zattera, Yulong in bici","Giorno 2: alba a Xianggong, Longji"] },
     ],
     zone: [
-      { nome: "Campagna", perChi: "Chi vuole silenzio", testo: "Meglio della West Street." },
+      { nome: "Campagna", perChi: "Chi vuole silenzio", testo: "Guesthouse tra risaie e colline, più tranquille della West Street." },
     ],
     sapori: [
-      { nome: "Pesce birra", testo: "Con birra e peperoni." },
-      { nome: "Noodles di Guilin", testo: "A colazione." },
+      { nome: "Pesce birra", testo: "Pesce di fiume cotto con birra, pomodori e peperoni: il piatto tipico di Yangshuo." },
+      { nome: "Noodles di Guilin", testo: "Noodles di riso in brodo o conditi, mangiati anche a colazione." },
     ],
     attenzioni: [
       "Prendere la crociera lunga da Guilin pensando che sia la scelta migliore.",
@@ -1369,7 +1369,7 @@ export const destinazioniCina: Destinazione[] = [
       {
         nome: "Dim sum",
         testo: "Il pranzo cantonese di piccoli piatti al vapore e fritti, accompagnati dal tè (yum cha). Nelle sale tradizionali i piatti passano su carrelli e si sceglie guardando; nei locali più moderni si spunta un foglio.",
-        come: "In una sala tradizionale: le più antiche sono a Central e Sheung Wan.",
+        come: "In una sala tradizionale, per esempio a Central o a Sheung Wan.",
         quando: "Dalla mattina presto all'inizio del pomeriggio.",
         tempo: "1 ora",
         consiglio: "Lasciare il coperchio della teiera sollevato o di lato: è il segnale per chiedere altra acqua calda.",
@@ -1379,11 +1379,11 @@ export const destinazioniCina: Destinazione[] = [
       { titolo: "2 giorni: Hong Kong", tappe: ["Giorno 1: Star Ferry, Tsim Sha Tsui, Symphony of Lights","Giorno 2: Peak, Sheung Wan, Dragon's Back"] },
     ],
     zone: [
-      { nome: "Tsim Sha Tsui", perChi: "Chi vuole vista", testo: "Cara." },
-      { nome: "Sheung Wan", perChi: "Chi vuole vita locale", testo: "Centrale." },
+      { nome: "Tsim Sha Tsui", perChi: "Chi vuole vista", testo: "Comoda per lo Star Ferry e il lungomare, con hotel spesso cari." },
+      { nome: "Sheung Wan", perChi: "Chi vuole vita locale", testo: "Quartiere centrale, vicino alla metro e alle vie delle botteghe tradizionali." },
     ],
     sapori: [
-      { nome: "Dim sum", testo: "Carrelli." },
+      { nome: "Dim sum", testo: "Piccoli piatti al vapore o fritti, da mangiare con il tè." },
       { nome: "Cha chaan teng", testo: "Tavola calda anglo-cantonese." },
     ],
     attenzioni: [
@@ -1446,12 +1446,12 @@ export const destinazioniCina: Destinazione[] = [
       {
         nome: "Rovine di San Paolo",
         testo: "La facciata in pietra della chiesa gesuita di Madre de Deus, costruita all'inizio del Seicento e distrutta da un incendio nel 1835. Resta in piedi solo il fronte, in cima a una scalinata, con sculture che mescolano simboli cristiani e cinesi. È il simbolo del Centro Storico di Macao, patrimonio UNESCO dal 2005.",
-        come: "A piedi dal Largo do Senado, in 10 minuti.",
+        come: "A piedi dal Largo do Senado.",
         quando: "Mattina presto, prima dei gruppi.",
         tempo: "45 minuti",
         costo: "Ingresso libero",
         url: "https://www.wh.mo/",
-        consiglio: "Dietro la facciata c'è una piccola cripta con il museo di arte sacra, che quasi nessuno visita.",
+        consiglio: "Dietro la facciata c'è una piccola cripta con il museo di arte sacra, spesso trascurata.",
       },
       {
         nome: "Largo do Senado",
@@ -1481,10 +1481,10 @@ export const destinazioniCina: Destinazione[] = [
       {
         nome: "Cotai",
         testo: "La striscia di resort-casinò costruita su terreni strappati al mare tra Taipa e Coloane, con copie di Venezia, Parigi e Londra. È enorme e un po' surreale, ma vale una sera per capirne la scala.",
-        come: "Navette degli hotel dai terminal dei traghetti e dalla frontiera.",
+        come: "Bus o taxi dai terminal dei traghetti e dalla frontiera.",
         quando: "Sera.",
         tempo: "2 ore",
-        consiglio: "Ci si sposta con le navette degli hotel da un resort all'altro, quasi senza uscire all'aperto.",
+        consiglio: "Una sera basta per farsene un'idea.",
       },
       {
         nome: "Tempio di A-Ma",
@@ -1500,12 +1500,12 @@ export const destinazioniCina: Destinazione[] = [
       { titolo: "1 giorno: Macao", tappe: ["Centro storico","Pranzo macanese","Taipa","Cotai"] },
     ],
     zone: [
-      { nome: "Non serve dormirci", perChi: "Gita da Hong Kong", testo: "Mezza giornata." },
+      { nome: "Non serve dormirci", perChi: "Gita da Hong Kong", testo: "Si visita in giornata da Hong Kong." },
     ],
     sapori: [
-      { nome: "Galinha à africana", testo: "Pollo." },
+      { nome: "Galinha à africana", testo: "Pollo in salsa speziata con cocco e peperoncino, piatto della cucina macanese." },
       { nome: "Minchi", testo: "Carne con patate e uovo." },
-      { nome: "Pastéis de nata", testo: "Dolci." },
+      { nome: "Pastéis de nata", testo: "Tortine di pasta sfoglia con crema all'uovo, di origine portoghese." },
     ],
     attenzioni: [
       "Vedere solo i casinò: il centro storico è la ragione per venire.",

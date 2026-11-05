@@ -10,34 +10,34 @@ export const destinazioniLettonia: Destinazione[] = [
     giorniConsigliati: '3 días, incluida la excursión a Jūrmala',
     visitataPersonalmente: true,
     introduzione:
-      "Es la capital de Letonia y la mayor de las tres capitales bálticas. El casco histórico medieval, patrimonio UNESCO desde 1997, se asoma al río Daugava con las agujas de las iglesias hanseáticas y la Casa de las Cabezas Negras. Justo fuera de las murallas, el barrio construido entre los siglos XIX y XX tiene una de las densidades de arquitectura Art Nouveau más altas del mundo. Un poco más allá, el Mercado Central, hecho con cinco antiguos hangares para dirigibles, sigue siendo el mayor bazar cubierto de Europa.",
+      "Es la capital de Letonia y la mayor de las tres capitales bálticas. El casco histórico medieval, patrimonio UNESCO desde 1997, se asoma al río Daugava con las agujas de las iglesias hanseáticas y la Casa de las Cabezas Negras. Justo fuera de las murallas, el barrio construido entre los siglos XIX y XX es famoso por sus edificios Art Nouveau. Un poco más allá, el Mercado Central, hecho con cinco antiguos hangares para dirigibles, es uno de los grandes mercados cubiertos de Europa.",
     percheAndarci:
       "En un espacio pequeño hay un centro medieval auténtico, todo un barrio Art Nouveau para mirar con la nariz al aire y un mercado que es un monumento industrial donde todavía se hace la compra cada día. Desde aquí sale además la excursión más clásica de la costa letona, la playa de Jūrmala.",
     cosaVedere: [
-      "La Plaza de la Catedral (Doma laukums) con la Catedral de Riga (Rīgas Doms), la iglesia más grande del Báltico, y su histórico órgano",
-      "La Iglesia de San Pedro, con la plataforma panorámica en la aguja a 72 metros: es la vista más alta sobre la Ciudad Vieja y el río Daugava",
-      "La Casa de las Cabezas Negras (Melngalvju nams), la fachada renacentista más fotografiada de la plaza del ayuntamiento, reconstruida tras la destrucción de la guerra",
-      "Los Tres Hermanos (Trīs brāļi), tres casas medievales y barrocas en fila en la calle Mazā Pils, entre los edificios de piedra más antiguos de la ciudad",
-      "El barrio Art Nouveau, a lo largo de Alberta iela, Elizabetes iela y Strēlnieku iela: cientos de fachadas decoradas con máscaras, rostros esculpidos y motivos florales, muchas del arquitecto Mihails Eizenšteins, padre del director Serguéi Eisenstein",
-      "El Mercado Central (Centrāltirgus): cinco pabellones hechos con hangares para dirigibles alemanes de la Primera Guerra Mundial, abierto en 1930, cuando era el más grande y moderno de Europa. Forma parte del sitio UNESCO junto con la Ciudad Vieja",
+      "La Plaza de la Catedral (Doma laukums) con la Catedral de Riga (Rīgas Doms), la gran iglesia medieval de la ciudad, y su histórico órgano",
+      "La Iglesia de San Pedro, con la plataforma panorámica en la aguja a 72 metros, con vistas sobre la Ciudad Vieja y el río Daugava",
+      "La Casa de las Cabezas Negras (Melngalvju nams), la célebre fachada renacentista de la plaza del ayuntamiento, reconstruida tras la destrucción de la guerra",
+      "Los Tres Hermanos (Trīs brāļi), tres casas de épocas distintas en fila en la calle Mazā Pils, en la Ciudad Vieja",
+      "El barrio Art Nouveau, a lo largo de Alberta iela y las calles cercanas: cientos de fachadas decoradas con máscaras, rostros esculpidos y motivos florales, muchas del arquitecto Mihails Eizenšteins, padre del director Serguéi Eisenstein",
+      "El Mercado Central (Centrāltirgus): cinco pabellones hechos con hangares para dirigibles alemanes de la Primera Guerra Mundial, abierto en 1930. Forma parte del sitio UNESCO junto con la Ciudad Vieja",
     ],
     cosaFare: [
       "Subir a la torre de la Iglesia de San Pedro para el panorama sobre la Ciudad Vieja y el Daugava",
       "Caminar por Alberta iela con la nariz al aire, buscando las fachadas más elaboradas del barrio Art Nouveau",
       "Pasear entre los puestos del Mercado Central, en los pabellones de pescado, carne, lácteos y verdura, parándose a probar las especialidades locales",
-      "Pasar una noche entre bares y restaurantes de la Ciudad Vieja, con una parada en el Bar Skyline o en otro rooftop para ver los tejados",
+      "Pasar una noche entre bares y restaurantes de la Ciudad Vieja, con una parada en un rooftop para ver los tejados",
     ],
     doveDormire:
       "En la Ciudad Vieja (Vecrīga) se tiene todo a pie, vida nocturna incluida. El barrio Art Nouveau, justo fuera de las murallas hacia el norte, es más tranquilo e igual de céntrico, y allí se puede dormir dentro de un edificio modernista.",
     doveMangiare:
       "El plato invernal más identitario es el pelēkie zirņi ar speķi, guisantes grises con panceta. El rupjmaize, el pan de centeno negro, está en la base de buena parte de la cocina letona, incluido el rupjmaizes kārtojums, un postre en capas con nata y frutos del bosque. Para probar los productos locales, del queso ahumado al pescado del Báltico, los puestos del Mercado Central son la forma más económica y auténtica.",
     comeArrivare:
-      "El Aeropuerto Internacional de Riga (RIX), el principal aeropuerto del Báltico, está a unos 10 km del centro: autobús o tranvía en 20-30 minutos, o taxi o Bolt en pocos minutos. Desde algunos aeropuertos italianos hay vuelos directos low cost, estacionales o durante todo el año; si no, se hace escala en un hub europeo. Desde Vilna se llega en autobús en unas 4 horas, con varias compañías (entre ellas Lux Express) y muchos servicios al día.",
+      "El Aeropuerto Internacional de Riga (RIX), está fuera de la ciudad: autobús público, o taxi o app de transporte. Desde algunos aeropuertos italianos hay vuelos directos low cost, estacionales o durante todo el año; si no, se hace escala en un hub europeo. Desde Vilna hay autobuses directos, con varias compañías y muchos servicios al día.",
     comeSpostarsi:
-      "El casco histórico se recorre todo a pie. Tranvías, trolebuses y autobuses de la red Rīgas satiksme cubren el resto de la ciudad, con billetes por tiempo económicos. Para Jūrmala está el tren regional desde la estación central, unos 30 minutos, con salidas al menos cada media hora.",
+      "El casco histórico se recorre todo a pie. Tranvías, trolebuses y autobuses de la red Rīgas satiksme cubren el resto de la ciudad, con billetes por tiempo económicos. Para Jūrmala está el tren regional desde la estación central, con salidas frecuentes.",
     periodoMigliore:
       "mayo-septiembre, por el clima suave y, en pleno verano, la posibilidad de unir la ciudad con un baño en Jūrmala. Junio-agosto es la temporada más concurrida. El invierno (noviembre-marzo) es frío y a menudo ventoso, pero la Ciudad Vieja aguanta bien y en diciembre está el mercadillo de Navidad en la Plaza de la Catedral.",
-    costi: "ciudad económica para los estándares de Europa occidental: entrada a la torre de San Pedro 9 €, cena normal 10-16 € por persona, tren a Jūrmala unos 2 € por trayecto.",
+    costi: "ciudad económica para los estándares de Europa occidental: entradas, restaurantes y trenes cuestan menos que en Europa occidental; precios actualizados en las webs oficiales.",
     erroriDaEvitare: [
       "Quedarse en la Ciudad Vieja: el barrio Art Nouveau justo fuera de las murallas es una parte central de la arquitectura de Riga tanto como el centro medieval",
       "Ir al Mercado Central el fin de semana después de comer: los mejores puestos se vacían pronto, y la mañana, con los vendedores locales, es el momento más auténtico",
@@ -47,7 +47,7 @@ export const destinazioniLettonia: Destinazione[] = [
     luoghi: [
       {
         nome: "Catedral de Riga y Plaza del Domo",
-        testo: "Considerada la mayor iglesia medieval de los países bálticos, fundada en 1211, con el órgano Walcker inaugurado en 1884: 6.718 tubos. La plaza está rodeada de cafés.",
+        testo: "Considerada entre las mayores iglesias medievales de los países bálticos, fundada en 1211, con un gran órgano histórico. La plaza está rodeada de cafés.",
         come: "A pie desde el casco antiguo.",
         quando: "Mañana.",
         tempo: "1 hora",
@@ -56,7 +56,7 @@ export const destinazioniLettonia: Destinazione[] = [
       },
       {
         nome: "Iglesia de San Pedro",
-        testo: "Iglesia gótica cuya aguja tiene una plataforma panorámica a 72 metros, la vista más alta del casco antiguo y del Daugava. Se sube en ascensor.",
+        testo: "Iglesia gótica cuya aguja tiene una plataforma panorámica a 72 metros, con vistas al casco antiguo y al Daugava. Se sube en ascensor.",
         come: "A pie, cerca de la Plaza del Ayuntamiento.",
         quando: "Día despejado.",
         tempo: "45 minutos",
@@ -64,7 +64,7 @@ export const destinazioniLettonia: Destinazione[] = [
       },
       {
         nome: "Casa de los Cabezas Negras",
-        testo: "Desde el siglo XV sede de la cofradía de los Cabezas Negras, gremio de mercaderes solteros y armadores, con la fachada decorada a principios del XVII. Bombardeada en 1941 y demolida por los soviéticos en 1948, se reconstruyó entre 1996 y 2000.",
+        testo: "Desde el siglo XV sede de la cofradía de los Cabezas Negras, gremio de mercaderes solteros y armadores, con la fachada decorada a principios del XVII. Destruida en la Segunda Guerra Mundial y demolida en la época soviética, se reconstruyó a finales del siglo XX.",
         come: "En la Plaza del Ayuntamiento.",
         quando: "Mañana, para las fotos.",
         tempo: "30 minutos",
@@ -73,7 +73,7 @@ export const destinazioniLettonia: Destinazione[] = [
       },
       {
         nome: "Los Tres Hermanos",
-        testo: "Tres casas en fila en los números 17, 19 y 21 de la calle Mazā Pils, el conjunto de viviendas más antiguo de Riga: la primera, con el frontón escalonado, es de finales del siglo XV, la segunda de 1646, la tercera barroca de finales del XVII.",
+        testo: "Tres casas en fila en los números 17, 19 y 21 de la calle Mazā Pils, viviendas de épocas distintas: la primera, con el frontón escalonado, es medieval, la tercera es barroca.",
         come: "A pie desde el casco antiguo.",
         quando: "De día.",
         tempo: "15 minutos",
@@ -82,8 +82,8 @@ export const destinazioniLettonia: Destinazione[] = [
       },
       {
         nome: "Barrio Art Nouveau",
-        testo: "Alberta iela y las calles de alrededor, con fachadas decoradas con máscaras, rostros y motivos florales, muchas proyectadas por el arquitecto Mijaíl Eisenstein. Cerca de un tercio de los edificios del centro de Riga es Art Nouveau.",
-        come: "A pie o en tranvía desde el centro (15 minutos).",
+        testo: "Alberta iela y las calles de alrededor, con fachadas decoradas con máscaras, rostros y motivos florales, muchas proyectadas por el arquitecto Mijaíl Eisenstein.",
+        come: "A pie o en tranvía desde el centro.",
         quando: "Mañana, con luz plena sobre las fachadas.",
         tempo: "1-2 horas",
         costo: "entrada libre",
@@ -91,7 +91,7 @@ export const destinazioniLettonia: Destinazione[] = [
       },
       {
         nome: "Mercado Central",
-        testo: "Cinco pabellones hechos con los hangares de zepelines alemanes de la Primera Guerra Mundial, abiertos en 1930. Se considera el mayor mercado de Europa.",
+        testo: "Cinco pabellones hechos con los hangares de zepelines alemanes de la Primera Guerra Mundial, abiertos en 1930.",
         come: "A pie desde la estación de ferrocarril.",
         quando: "Mañana.",
         tempo: "1-2 horas",
@@ -99,12 +99,12 @@ export const destinazioniLettonia: Destinazione[] = [
       },
       {
         nome: "Monumento a la Libertad y Museo de la Ocupación",
-        testo: "El monumento, inaugurado en 1935, es el símbolo de la independencia letona; la guardia de honor, retirada por los soviéticos, volvió en 1992 y no hace guardia con frío o calor extremos. El Museo de la Ocupación, en Latviešu strēlnieku laukums en la Ciudad Vieja, cuenta la historia soviética y nazi.",
-        come: "A pie desde el casco antiguo (10 minutos).",
+        testo: "El monumento, inaugurado en 1935, es el símbolo de la independencia letona; la guardia de honor, retirada por los soviéticos, volvió en 1992. El Museo de la Ocupación, en la Ciudad Vieja, cuenta la historia soviética y nazi.",
+        come: "A pie desde el casco antiguo.",
         quando: "Mañana.",
         tempo: "1,5 horas",
         url: "https://okupacijasmuzejs.lv",
-        consiglio: "El Museo de la Ocupación abre todos los días 10-18; entradas en la web oficial."
+        consiglio: "Horarios y entradas del Museo de la Ocupación en la web oficial."
       }
     ],
     programmi: [
@@ -137,7 +137,7 @@ export const destinazioniLettonia: Destinazione[] = [
       {
         nome: "Centro Art Nouveau",
         perChi: "Quien busca ambiente y restaurantes",
-        testo: "Tranquilo, con edificios bonitos; a 10 minutos del casco antiguo."
+        testo: "Tranquilo, con edificios bonitos; a pie desde el casco antiguo."
       },
       {
         nome: "Āgenskalns",
@@ -183,14 +183,14 @@ export const destinazioniLettonia: Destinazione[] = [
     giorniConsigliati: 'media jornada, como excursión desde Riga',
     visitataPersonalmente: true,
     introduzione:
-      "La ciudad balnearia histórica de Letonia: unos 32 km de arena blanca finísima en el Golfo de Riga, a 20 km y media hora de tren de la capital. Desde los tiempos de los zares hasta la época soviética, cuando iba a veranear la élite de la URSS, en Jūrmala surgieron cientos de villas de madera Art Nouveau y Art Déco. Muchas hoy están restauradas y son casas privadas, hoteles o pequeños museos.",
+      "La ciudad balnearia histórica de Letonia: una larga playa de arena blanca finísima en el Golfo de Riga, poco al oeste de la capital y accesible en tren. Desde los tiempos de los zares hasta la época soviética, cuando iba a veranear la élite de la URSS, en Jūrmala surgieron cientos de villas de madera Art Nouveau y Art Déco. Muchas hoy están restauradas y son casas privadas, hoteles o pequeños museos.",
     percheAndarci:
       "Es la playa más fácil de alcanzar partiendo de una capital de este itinerario. Detrás de la arena, además, las calles residenciales llenas de villas de madera decoradas son un museo difuso de arquitectura balnearia con más de un siglo de historia letona.",
     cosaVedere: [
-      "La playa de arena blanca, continua durante unos 32 km, entre las más anchas y limpias del Báltico",
+      "La playa de arena blanca, larga y continua",
       "Jomas iela, la calle peatonal de Majori, el centro de la localidad, con tiendas, cafés y heladerías",
       "Las villas de madera Art Nouveau y Art Déco en las calles residenciales de Majori y Dzintari, muchas con tallas hechas a mano y verandas acristaladas",
-      "La Dzintari Concert Hall, la sala de conciertos al aire libre entre los pinos, sede histórica de festivales y eventos de verano",
+      "La Dzintari Concert Hall, la sala de conciertos al aire libre, sede histórica de festivales y eventos de verano",
     ],
     cosaFare: [
       "Caminar largo rato por la playa, desde la estación de Majori hacia Dzintari o Bulduri",
@@ -199,19 +199,19 @@ export const destinazioniLettonia: Destinazione[] = [
     ],
     doveDormire: "En este itinerario Jūrmala se visita en media jornada desde Riga, sin dormir allí. Quien quiera quedarse unos días junto al mar puede añadirla como ampliación.",
     doveMangiare: "A lo largo de Jomas iela restaurantes y cafés hacen cocina letona e internacional; en verano varios chiringuitos de la playa sirven pescado a la parrilla y helado.",
-    comeArrivare: "Desde Riga con el tren regional desde la estación central (Rīga Centrālā stacija) hasta Majori: unos 30 minutos, con salidas al menos cada media hora.",
+    comeArrivare: "Desde Riga con el tren regional desde la estación central (Rīga Centrālā stacija) hasta Majori, con salidas frecuentes.",
     comeSpostarsi: "El centro de Majori y la playa se recorren a pie. Para Dzintari o las zonas más lejanas se puede volver a tomar el mismo tren regional, que para en varios puntos a lo largo de la costa.",
     periodoMigliore: "junio-agosto para bañarse. En las estaciones intermedias el paseo por la playa y entre las villas de madera sigue siendo agradable, con menos gente.",
-    costi: "excursión económica: tren unos 2 € por trayecto, playa gratuita, comida en un café del paseo marítimo 8-15 €.",
+    costi: "excursión económica: tren barato, playa gratuita, cafés y restaurantes en el paseo marítimo.",
     erroriDaEvitare: [
-      "Ir fuera de temporada esperando la vida playera del verano: de octubre a mayo la playa está casi desierta y muchos locales cierran",
+      "Ir fuera de temporada esperando la vida playera del verano: fuera del verano la playa está casi desierta y muchos locales cierran",
       "Quedarse solo en la playa sin pasear por las calles residenciales: son las villas de madera decoradas las que hacen que Jūrmala sea distinta de «otra playa»",
       "Subestimar el agua baja y fresca del Golfo de Riga, muy distinta de un baño en el Mediterráneo",
     ],
     luoghi: [
       {
         nome: "Playa de Jūrmala",
-        testo: "Una playa de arena blanca de cuarzo de unos 33 km, en la costa del Golfo de Riga.",
+        testo: "Una playa de arena blanca de cuarzo larga y continua, en la costa del Golfo de Riga.",
         come: "Tren desde Riga a Majori, en la línea Riga-Tukums.",
         quando: "Verano, cuando hace calor; en invierno está desierta y evocadora.",
         tempo: "media jornada",
@@ -221,7 +221,7 @@ export const destinazioniLettonia: Destinazione[] = [
       {
         nome: "Jomas iela",
         testo: "La calle peatonal de Majori, el centro del pueblo, con tiendas, cafés y heladerías. En verano está muy animada.",
-        come: "A pie desde la estación de Majori (5 minutos).",
+        come: "A pie desde la estación de Majori.",
         quando: "Tarde y noche de verano.",
         tempo: "1-2 horas",
         costo: "entrada libre",
@@ -238,7 +238,7 @@ export const destinazioniLettonia: Destinazione[] = [
       },
       {
         nome: "Sala de conciertos Dzintari",
-        testo: "La sala al aire libre entre los pinos, sede histórica de festivales y conciertos de verano, con música clásica y pop.",
+        testo: "La sala al aire libre, sede histórica de festivales y conciertos de verano, con música clásica y pop.",
         come: "Tren hasta Dzintari.",
         quando: "Verano, por la noche.",
         tempo: "2 horas",

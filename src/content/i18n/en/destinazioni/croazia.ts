@@ -51,8 +51,8 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Mirogoj Cemetery",
-        testo: "The city's monumental cemetery, opened in 1876, with the main building designed by architect Hermann Bollé. The long arcades and cupolas, built between 1879 and 1929, enclose graves of every faith, side by side. It is one of the most beautiful and peaceful places in Zagreb, and few tourists get there.",
-        come: "Bus 106 from the Kaptol terminal near the cathedral, or uphill on foot.",
+        testo: "The city's monumental cemetery, opened in 1876, with the main building designed by architect Hermann Bollé. The long arcades and cupolas enclose graves of every faith, side by side. It is one of the most beautiful and peaceful places in Zagreb, and few tourists get there.",
+        come: "By city bus from Kaptol, near the cathedral, or uphill on foot.",
         quando: "Morning or late afternoon; in early November it is full of candles.",
         tempo: "1 hour",
         costo: "Free.",
@@ -379,7 +379,7 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Trogir",
-        testo: "A small medieval island-town about 27 km from Split, with St Lawrence cathedral and its portal carved by Radovan. UNESCO site.",
+        testo: "A small medieval island-town west of Split, with St Lawrence cathedral and its portal carved by Radovan. UNESCO site.",
         come: "By car or bus from Split. Visited on foot.",
         quando: "Morning.",
         tempo: "3 hours",
@@ -413,7 +413,7 @@ export const destinazioniCroazia: Destinazione[] = [
       {
         nome: "Veli Varoš",
         perChi: "for a quiet district",
-        testo: "Fishermen's houses 10 minutes from the centre, below Marjan."
+        testo: "Fishermen's houses a short walk from the centre, below Marjan."
       }
     ],
     sapori: [
@@ -684,10 +684,10 @@ export const destinazioniCroazia: Destinazione[] = [
       {
         nome: "Dubrovnik Walls",
         testo: "A ring of medieval walls nearly two kilometres long around the old town, with towers and bastions. The best route to see the red roofs and the sea.",
-        come: "Climb from Pile Gate or the harbour side, following the marked direction.",
+        come: "Climb from Pile Gate or the harbour side, following the signs on site.",
         quando: "At opening or late afternoon: midday is hot and crowded.",
         tempo: "1.5-2 hours",
-        costo: "About €40 (2026).",
+        costo: "Entry ticket, prices on the official site.",
         consiglio: "Bring water and a hat: there is little shade."
       },
       {
@@ -700,11 +700,11 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Cable car and Mount Srđ",
-        testo: "From the station above the walls the cable car climbs in a few minutes to Mount Srđ, 412 metres high, with views over the whole city and the islands. At the top stands Fort Imperial, built by the French in 1810, which houses the museum of the 1990s war, when the city was besieged. At sunset the red roofs and Lokrum take on colour, and it is the best moment.",
+        testo: "From the station above the walls the cable car climbs in a few minutes to Mount Srđ, 412 metres high, with views over the whole city and the islands. At the top stands Fort Imperial, built by the French in the early 19th century, which houses the museum of the 1990s war, when the city was besieged. At sunset the red roofs and Lokrum take on colour, and it is the best moment.",
         come: "From the station near Buža Gate, on foot.",
         quando: "Late afternoon for sunset.",
         tempo: "1-2 hours",
-        costo: "About €30 return (2026).",
+        costo: "Return ticket, prices on the official site.",
         consiglio: "Book a sunset slot: queues can be long."
       },
       {

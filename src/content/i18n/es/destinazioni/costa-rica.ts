@@ -32,14 +32,14 @@ export const destinazioniCostaRica: Destinazione[] = [
         {
           "nome": "Mercado Central",
           "testo": "El histórico mercado cubierto del centro, con puestos de comida, café, artesanía y las sodas que sirven el casado del día.",
-          "come": "A pie desde el centro. Se entra por las calles laterales de la Avenida Central.",
+          "come": "A pie desde el centro.",
           "quando": "Mañana y mediodía, cuando las sodas tienen más movimiento.",
           "tempo": "1-1,5 horas",
           "consiglio": "Comer en una soda dentro del mercado es la forma más barata de probar la cocina casera."
         },
         {
           "nome": "Barrio Amón",
-          "testo": "Barrio de casas de madera y ladrillo de principios del siglo XX, antiguas casas de los barones del café, hoy con galerías, cafés y hoteles con encanto.",
+          "testo": "Barrio de casas históricas de madera y ladrillo, antiguas casas de los barones del café, hoy con galerías, cafés y hoteles con encanto.",
           "come": "A pie, al norte del centro.",
           "quando": "Mañana, con buena luz.",
           "tempo": "1-2 horas",
@@ -50,12 +50,12 @@ export const destinazioniCostaRica: Destinazione[] = [
           "testo": "Alojado en el antiguo Cuartel Bellavista, con salas de historia, arqueología y naturaleza del país, frente a la Asamblea Legislativa.",
           "come": "A pie desde el centro.",
           "quando": "Martes a sábado de 8:30 a 16:30, domingo de 9 a 16:30; cerrado los lunes.",
-          "tempo": "1,5 horas",
+          "tempo": "1-2 horas",
           "url": "https://www.museocostarica.go.cr/"
         },
         {
           "nome": "Teatro Nacional",
-          "testo": "El teatro neoclásico inaugurado en 1897 con el Fausto, pagado con un impuesto al café. Dentro está la famosa pintura de la alegoría del café y el banano, que acabó en el billete de cinco colones.",
+          "testo": "El teatro neoclásico inaugurado en 1897 con el Fausto, pagado con un impuesto al café. Dentro está la famosa pintura de la alegoría del café y el banano.",
           "come": "A pie desde el centro, en la Plaza de la Cultura.",
           "quando": "Mañana.",
           "tempo": "1 hora",
@@ -70,7 +70,7 @@ export const destinazioniCostaRica: Destinazione[] = [
             "Mercado Central y almuerzo en una soda",
             "Teatro Nacional y Plaza de la Cultura",
             "Barrio Amón por la tarde",
-            "Cena en un food truck en el Jardín de Lolita"
+            "Cena en el centro"
           ]
         },
         {
@@ -108,7 +108,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Café costarricense",
-          "testo": "Se compra en cooperativas y tiendas del centro; entre los mejores de Centroamérica."
+          "testo": "Se compra en cooperativas y tiendas del centro."
         }
       ],
       "attenzioni": [
@@ -152,7 +152,7 @@ export const destinazioniCostaRica: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Parque Nacional Cahuita",
-          "testo": "Sendero costero entre playa, bosque y mar, con un arrecife de coral frente a la costa. Se ven perezosos, monos aulladores y carablancas, mapaches y aves. Es el único parque nacional de Costa Rica donde en la entrada de Cahuita no se paga entrada sino que se deja un donativo.",
+          "testo": "Sendero costero entre playa, bosque y mar, con un arrecife de coral frente a la costa. Se ven perezosos, monos aulladores y carablancas, mapaches y aves. En la entrada de Cahuita no se paga entrada sino que se deja un donativo.",
           "come": "Entrada principal en Cahuita, o por el lado de Puerto Vargas. El sendero bordea la playa, en parte con vados.",
           "quando": "Mañana temprano, cuando los animales están activos.",
           "tempo": "3-4 horas",
@@ -168,11 +168,11 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Playa Cocles",
-          "testo": "La playa más larga y concurrida, con olas para surfear y bares en la arena.",
+          "testo": "Playa concurrida cerca del pueblo, con olas para surfear y bares en la arena.",
           "come": "En bici o a pie desde el pueblo.",
           "quando": "Última hora de la tarde para el happy hour.",
           "tempo": "2-3 horas",
-          "consiglio": "Las corrientes son fuertes: bañarse con cuidado, normalmente sin vigilancia."
+          "consiglio": "Las corrientes son fuertes: bañarse con cuidado."
         },
         {
           "nome": "Río Pacuare (rafting)",
@@ -285,7 +285,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Cerro Tortuguero",
-          "testo": "La colina más alta de la zona, con vistas a canales, mar y bosque.",
+          "testo": "Colina con vistas a canales, mar y bosque.",
           "come": "Breve cruce en lancha desde el pueblo hasta el inicio del sendero; preguntar en el lodge las reglas de acceso y la tarifa vigentes.",
           "quando": "Mañana.",
           "tempo": "1-1,5 horas",
@@ -293,9 +293,9 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Anidación de tortugas",
-          "testo": "Entre julio y octubre las tortugas verdes ponen huevos en la playa por la noche. Solo se observan con guías autorizados.",
+          "testo": "En temporada las tortugas verdes ponen huevos en la playa por la noche. Solo se observan con guías autorizados.",
           "come": "Excursión nocturna con guía autorizado, en grupos pequeños y con reglas estrictas.",
-          "quando": "Noche; julio-octubre.",
+          "quando": "Noche, en la temporada de anidación.",
           "tempo": "2-3 horas",
           "consiglio": "Sin luces ni flash: seguir al guía y mantener la distancia."
         }
@@ -312,7 +312,7 @@ export const destinazioniCostaRica: Destinazione[] = [
           "titolo": "3 días",
           "tappe": [
             "Días 1-2 como arriba",
-            "Día 3: anidación nocturna (julio-octubre) o trekking en el parque"
+            "Día 3: anidación nocturna (en temporada) o trekking en el parque"
           ]
         }
       ],
@@ -385,15 +385,8 @@ export const destinazioniCostaRica: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Rafting en el Río Sarapiquí",
-          "testo": "Un descenso por el río con rápidos moderados y selva, apto también para principiantes. Hay una ficha de experiencia dedicada.",
+          "testo": "Un descenso por el río con rápidos y selva. Hay una ficha de experiencia dedicada.",
           "come": "Tour organizado desde el lodge o con operadores locales, con guía y equipo.",
-          "quando": "Mañana; estación verde para más agua.",
-          "tempo": "Media jornada"
-        },
-        {
-          "nome": "Catarata del Toro (Bajos del Toro)",
-          "testo": "Una cascada con sendero y mirador, inmersa en la selva. Excursión opcional.",
-          "come": "En coche o con tour desde el lodge.",
           "quando": "Mañana.",
           "tempo": "Media jornada"
         },
@@ -426,7 +419,7 @@ export const destinazioniCostaRica: Destinazione[] = [
           "titolo": "2 días",
           "tappe": [
             "Día 1: rafting y clase de cocina",
-            "Día 2: Cataratas Bajas del Toro, luego traslado hacia Arenal"
+            "Día 2: senderos en el bosque del lodge, luego traslado hacia Arenal"
           ]
         }
       ],
@@ -448,7 +441,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Fruta tropical",
-          "testo": "Piña y plátanos de la región, gran productora."
+          "testo": "Piña y plátanos de la región."
         },
         {
           "nome": "Café y cacao",
@@ -497,7 +490,7 @@ export const destinazioniCostaRica: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Cascada de La Fortuna",
-          "testo": "Una catarata de más de 70 metros en un cañón de bosque, con unos 530 escalones entre bajada y subida y una poza para bañarse. Hay una ficha de experiencia dedicada.",
+          "testo": "Una catarata alta en un cañón de bosque, con unos 530 escalones entre bajada y subida y una poza para bañarse. Hay una ficha de experiencia dedicada.",
           "come": "A pocos minutos en coche o taxi del pueblo de La Fortuna, luego escaleras empinadas hasta la base.",
           "quando": "Abierta todos los días de 7 a 17 h; mejor en la mañana, con menos gente.",
           "tempo": "2 horas",
@@ -512,20 +505,6 @@ export const destinazioniCostaRica: Destinazione[] = [
           "quando": "Temprano por la mañana: los fines de semana y festivos está lleno.",
           "tempo": "1-2 horas",
           "consiglio": "No hay duchas, taquillas ni servicios: escarpines, toalla y nada de valor en el coche."
-        },
-        {
-          "nome": "Mirador El Silencio",
-          "testo": "Un trekking con vista al volcán Arenal, activo hasta 2010 y hoy dormido. Excursión opcional.",
-          "come": "En coche hacia el lado del volcán o con tour organizado.",
-          "quando": "Mañana temprano, para ver el volcán sin nubes.",
-          "tempo": "Media jornada"
-        },
-        {
-          "nome": "Puentes colgantes de Mistico",
-          "testo": "Un recorrido de puentes colgantes sobre la selva, con guía y un sendero seguro. Opcional.",
-          "come": "Entrada en la puerta; coche o tour.",
-          "quando": "Mañana.",
-          "tempo": "2 horas"
         }
       ],
       "programmi": [
@@ -541,7 +520,7 @@ export const destinazioniCostaRica: Destinazione[] = [
           "titolo": "2 días",
           "tappe": [
             "Día 1: cascada y aguas termales",
-            "Día 2: Mirador El Silencio o puentes colgantes, canyoning opcional"
+            "Día 2: caminata con vista al volcán, canyoning opcional"
           ]
         }
       ],
@@ -568,7 +547,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Olla de carne",
-          "testo": "Guiso de res con yuca, plátano y maíz, típico de las tierras altas."
+          "testo": "Guiso de res con yuca, plátano y maíz."
         },
         {
           "nome": "Pescado de lago",
@@ -578,7 +557,7 @@ export const destinazioniCostaRica: Destinazione[] = [
       "attenzioni": [
         "La escalera a la cascada de La Fortuna es larga y el regreso es todo cuesta arriba.",
         "Las termas de pago son caras: valorar las gratuitas.",
-        "Canyoning (Lost Canyon): muy adrenalínico y opcional, solo con operadores serios."
+        "Canyoning: muy adrenalínico y opcional, solo con operadores serios."
       ],
     esperienzeSlugs: ['cascata-fortuna-termales'],
     tripSlugs: ['costa-rica-itinerario'],
@@ -626,7 +605,7 @@ export const destinazioniCostaRica: Destinazione[] = [
           "testo": "Excursión de noche con guía y linterna para ver ranas, insectos, tarántulas y otros animales nocturnos. Hay una ficha de experiencia dedicada.",
           "come": "Salida después del atardecer con guía.",
           "quando": "Noche: en la reserva la caminata nocturna sale a las 18:00.",
-          "tempo": "1,5 horas",
+          "tempo": "1-2 horas",
           "consiglio": "A algunos la duración puede parecerles larga. Llevar chaqueta y zapatos cerrados."
         },
         {
@@ -638,7 +617,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Zipline aventura",
-          "testo": "Un recorrido de tirolesas sobre el dosel, uno de los más conocidos del país. Hay una ficha de experiencia dedicada.",
+          "testo": "Un recorrido de tirolesas sobre el dosel. Hay una ficha de experiencia dedicada.",
           "come": "Reserva con operador local, con traslado.",
           "quando": "Mañana.",
           "tempo": "2-3 horas",
@@ -690,7 +669,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Queso y dulces",
-          "testo": "Productos lácteos locales, por los que la zona es famosa."
+          "testo": "Productos lácteos locales."
         }
       ],
       "attenzioni": [
@@ -741,7 +720,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Avistamiento de ballenas",
-          "testo": "Salida en barca en el Parque Nacional Marino Ballena, creado en 1989, para ver las ballenas jorobadas que vienen aquí a reproducirse. Hay una ficha de experiencia dedicada.",
+          "testo": "Salida en barca en el Parque Nacional Marino Ballena, para ver las ballenas jorobadas que vienen aquí a reproducirse. Hay una ficha de experiencia dedicada.",
           "come": "Tour desde Uvita en barca pequeña.",
           "quando": "Dos temporadas: de diciembre a abril llegan las jorobadas del hemisferio norte, de julio a noviembre las del sur.",
           "tempo": "3 horas",

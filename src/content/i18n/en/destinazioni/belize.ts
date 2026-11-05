@@ -49,17 +49,17 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Hol Chan Marine Reserve and Shark Ray Alley",
-          "testo": "Hol Chan is a natural channel in the reef, south of Ambergris, inside a marine reserve created in 1987 and part of the UNESCO Belize reef site. Shark Ray Alley is where fishermen used to clean their nets: the scraps drew nurse sharks and rays, which now swim up to the boat.",
+          "testo": "Hol Chan is a natural channel in the reef, south of Ambergris, inside a marine reserve that is part of the UNESCO Belize reef site. Shark Ray Alley is where fishermen used to clean their nets: the scraps drew nurse sharks and rays, which now swim up to the boat.",
           "come": "Half-day boat trip from Caye Caulker with guide and gear. The marine park fee is often not included in the price.",
           "quando": "Morning, when the sea is calmest; best season December-April.",
-          "tempo": "4-5 hours",
+          "tempo": "Half a day",
           "costo": "Reserve fee 15 USD per person (since 2024), often not included in the tour price.",
           "url": "https://www.travelbelize.org/",
           "consiglio": "From people who have been: in the water a metre from nurse sharks and rays that pay no attention to who is watching. Before booking, ask what the price includes."
         },
         {
           "nome": "The Great Blue Hole from above",
-          "testo": "A marine sinkhole more than 300 metres wide and about 124 deep, in the middle of Lighthouse Reef, an atoll about 70 km off the coast. The perfect circle can only be seen from above.",
+          "testo": "A marine sinkhole more than 300 metres wide and about 124 deep, in the middle of Lighthouse Reef, an offshore atoll. The perfect circle can only be seen from above.",
           "come": "Scenic flight in a small plane from the island or from Belize City. The alternative is a full-day dive, which costs more and is more tiring.",
           "quando": "Clear day, preferably in the morning.",
           "tempo": "Half a day",
@@ -100,7 +100,7 @@ export const destinazioniBelize: Destinazione[] = [
         {
           "nome": "East and north side of the island",
           "perChi": "those who want quiet",
-          "testo": "Quieter cabañas with the sea in front. For dinner you walk 10-15 minutes, in the evening with a torch."
+          "testo": "Quieter cabañas with the sea in front. For dinner you walk a little way, in the evening with a torch."
         }
       ],
       "sapori": [
@@ -178,16 +178,16 @@ export const destinazioniBelize: Destinazione[] = [
           "testo": "The natural channel in the reef and the spot for nurse sharks and rays, a few minutes by boat from San Pedro. Ambergris is the closest departure point.",
           "come": "Half-day boat trip booked in San Pedro; gear included. Park fee often extra.",
           "quando": "Morning; December-April.",
-          "tempo": "4 hours",
+          "tempo": "Half a day",
           "costo": "Reserve fee 15 USD per person (since 2024), often not included in the tour price.",
           "url": "https://www.travelbelize.org/",
           "consiglio": "You get there sooner, so another snorkelling stop can fit in the same trip."
         },
         {
           "nome": "Secret Beach",
-          "testo": "A beach on the west side of the island, with very shallow water and pale sand, on the side sheltered from the wind.",
-          "come": "Golf-cart taxi or boat from San Pedro; the last stretch is on a dirt road.",
-          "quando": "Morning or afternoon, with clear sky. Better on days without strong west wind.",
+          "testo": "A beach away from the centre of San Pedro, with very shallow water and pale sand.",
+          "come": "Golf-cart taxi or boat from San Pedro; ask locally about the state of the road.",
+          "quando": "Morning or afternoon, with clear sky.",
           "tempo": "Half a day",
           "consiglio": "You go for swimming and eating by the water, not for surf. Bring cash."
         },
@@ -247,11 +247,11 @@ export const destinazioniBelize: Destinazione[] = [
       "sapori": [
         {
           "nome": "Stew chicken in the comedores",
-          "testo": "Stewed chicken with rice and beans, the same dish as on the waterfront at a quarter of the price, in the streets behind the town."
+          "testo": "Stewed chicken with rice and beans, the same dish as on the waterfront for much less, in the streets behind the town."
         },
         {
           "nome": "Conch fritters",
-          "testo": "Conch fritters, in season, near the pier."
+          "testo": "Conch fritters, in season."
         },
         {
           "nome": "Seaweed shake",
@@ -318,32 +318,29 @@ export const destinazioniBelize: Destinazione[] = [
           "come": "Tickets are sold only by licensed tour operators, with guide and transport from San Ignacio: a jungle walk with river crossings, then hours in cold water and tight passages.",
           "quando": "Morning; December-April. It can close after heavy rain because of the water level.",
           "tempo": "Full day",
-          "url": "https://ticketing.nichbelize.org/",
           "consiglio": "Cameras have been banned for visitors since 2012, when a dropped camera cracked a skull. Skip it if you are claustrophobic or struggle with cold water."
         },
         {
           "nome": "Xunantunich",
-          "testo": "A Classic-period Maya site with the El Castillo pyramid, about 40 metres high, on a hill above the Mopan river. You can climb to the top.",
-          "come": "From San Ignacio taxi to the Mopan, then the free hand-cranked ferry; on the other side a 15-minute uphill walk.",
+          "testo": "A Classic-period Maya site with the El Castillo pyramid on a hill above the Mopan river. You can climb to the top.",
+          "come": "From San Ignacio taxi to the Mopan, then the hand-cranked ferry; on the other side you walk uphill.",
           "quando": "Morning, before the heat.",
           "tempo": "2 hours",
-          "url": "https://ticketing.nichbelize.org/",
           "consiglio": "From the top you can see Guatemala. It combines easily with the cave or with Rio On on the same day."
         },
         {
           "nome": "Caracol",
-          "testo": "One of the largest Maya cities, on the Vaca Plateau at the foot of the Maya Mountains. The Caana pyramid, 43 metres high, is still the tallest man-made structure in Belize.",
+          "testo": "One of the largest Maya cities, on the Vaca Plateau at the foot of the Maya Mountains. The Caana pyramid is 43 metres high.",
           "come": "Guided trip from San Ignacio along a long, partly unpaved road; lunch is usually included.",
           "quando": "Early morning. Dry season for the road.",
           "tempo": "Full day",
-          "url": "https://ticketing.nichbelize.org/",
           "consiglio": "You go for the silence and the howler monkeys, not for the crowds of Tikal. Check the road conditions."
         },
         {
           "nome": "Rio On Pools and the Mountain Pine Ridge",
           "testo": "A series of small waterfalls and natural pools on the Rio On, in a highland pine forest. You swim and slide on smooth rocks.",
           "come": "By car or taxi from San Ignacio, climbing up to the Mountain Pine Ridge.",
-          "quando": "Afternoon, when the water is warmest.",
+          "quando": "During the day, in the dry season.",
           "tempo": "1-2 hours",
           "consiglio": "Water shoes: the rocks are slippery."
         }
@@ -459,10 +456,10 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Laughing Bird Caye",
-          "testo": "A tiny national-park island about 19 km off Placencia, on a long coral ridge, with reef nearby and shallow water. It is part of the UNESCO Belize Barrier Reef site.",
+          "testo": "A tiny national-park island off Placencia, with reef nearby and shallow water. It is part of the UNESCO Belize Barrier Reef site.",
           "come": "Half-day boat trip from Placencia with one of the local operators; park fee extra.",
           "quando": "Morning, calm sea; dry season.",
-          "tempo": "4-5 hours",
+          "tempo": "Half a day",
           "url": "https://www.travelbelize.org/",
           "consiglio": "Bring reef-safe sunscreen and do not touch the corals."
         },
@@ -476,7 +473,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Cockscomb Basin Wildlife Sanctuary",
-          "testo": "A reserve created in the 1980s, the first protected area set up for the jaguar, in a rainforest valley with trails to waterfalls and viewpoints. Jaguars are rarely seen.",
+          "testo": "A reserve created to protect the jaguar, in a rainforest valley with trails to waterfalls and viewpoints. Jaguars are rarely seen.",
           "come": "From Hopkins or Placencia by car to the entrance; trails from one to a few hours, some with pools for a swim.",
           "quando": "Early morning; dry season.",
           "tempo": "Half a day",
