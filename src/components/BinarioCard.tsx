@@ -57,7 +57,7 @@ export function BinarioCard({ children, etichetta }: { children: ReactNode; etic
         role="region"
         aria-label={etichetta}
         tabIndex={0}
-        className="-mx-6 flex snap-x snap-mandatory scroll-px-6 gap-5 overflow-x-auto scroll-smooth px-6 pb-2 sm:-mx-8 sm:scroll-px-8 sm:px-8 [scrollbar-width:none] focus-visible:outline-none [&::-webkit-scrollbar]:hidden"
+        className="-mx-6 flex snap-x snap-mandatory scroll-px-6 gap-6 overflow-x-auto scroll-smooth px-6 pb-4 pt-2 sm:-mx-8 sm:scroll-px-8 sm:px-8 [scrollbar-width:none] focus-visible:outline-none [&::-webkit-scrollbar]:hidden"
       >
         {Children.map(children, (figlio) => (
           <div className="flex w-[82%] shrink-0 snap-start sm:w-[22rem] [&>*]:w-full">{figlio}</div>

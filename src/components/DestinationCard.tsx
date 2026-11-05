@@ -39,12 +39,12 @@ export async function DestinationCard({ destinazione, paeseSlug }: { destinazion
   return (
     <Link
       href={`/destinazioni/${paeseSlug}/${destinazione.slug}`}
-      className="group flex flex-col overflow-hidden rounded-none border border-alpine/10 bg-white transition-[border-color,transform] duration-150 ease-out hover:border-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-alpine focus-visible:ring-offset-2 active:scale-[0.99] motion-reduce:active:scale-100"
+      className="group flex flex-col overflow-hidden rounded-none border-2 border-ink bg-white shadow-[6px_6px_0_var(--color-rosso)] transition-[transform,box-shadow] duration-150 ease-out hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-[9px_9px_0_var(--color-rosso)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-alpine focus-visible:ring-offset-2 active:scale-[0.99] motion-reduce:active:scale-100"
     >
       <div
         role={destinazione.immagine ? undefined : 'img'}
         aria-label={destinazione.immagine ? undefined : destinazione.imageAlt}
-        className={`relative flex min-h-[10rem] items-end overflow-hidden bg-gradient-to-br p-5 text-cream ${gradient}`}
+        className={`relative flex min-h-[13rem] items-end overflow-hidden border-b-2 border-ink bg-gradient-to-br p-5 text-cream ${gradient}`}
       >
         {destinazione.immagine ? (
           <Image

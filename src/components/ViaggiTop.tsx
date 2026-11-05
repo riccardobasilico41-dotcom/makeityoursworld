@@ -68,11 +68,11 @@ export function ViaggiTop({ lingua }: { lingua: Lingua }) {
             {schede.map(({ v, meta, paese, tappe, cop }, i) => (
               <article
                 key={v.slug}
-                className="group relative flex h-full flex-col overflow-hidden border border-alpine/10 bg-white transition-[border-color,transform] duration-200 hover:-translate-y-1 hover:border-ink"
+                className="group relative flex h-full flex-col overflow-hidden border-2 border-ink bg-white shadow-[6px_6px_0_var(--color-rosso)] transition-[transform,box-shadow] duration-200 hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-[9px_9px_0_var(--color-rosso)]"
               >
                 {/* tutta la card porta all'itinerario; il link al Paese resta cliccabile sopra */}
                 <Link href={`/viaggi/${v.slug}`} aria-label={`${t.leggi}: ${v.titolo}`} className="absolute inset-0 z-10" />
-                <div className={`relative w-full shrink-0 overflow-hidden bg-alpine-dark ${ALTEZZE[i % ALTEZZE.length]}`}>
+                <div className={`relative w-full shrink-0 overflow-hidden border-b-2 border-ink bg-alpine-dark ${ALTEZZE[i % ALTEZZE.length]}`}>
                   {cop && (
                     <Image
                       src={cop.immagine}
@@ -99,7 +99,7 @@ export function ViaggiTop({ lingua }: { lingua: Lingua }) {
                       ))}
                     </ul>
                   )}
-                  <div className="mt-5 space-y-2 border-t border-alpine/10 pt-5 text-xs text-stone">
+                  <div className="mt-5 space-y-2 border-t-2 border-ink pt-5 text-xs text-stone">
                     {v.durataBreve && (
                       <p className="flex items-center gap-2">
                         <Clock size={14} aria-hidden className="text-rosso" />
