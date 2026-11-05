@@ -1,6 +1,5 @@
 import Link from '@/components/ui/Link'
 import Image from 'next/image'
-import { ArrowUpRight } from 'lucide-react'
 import { Container } from '@/components/ui/Container'
 import { Reveal } from '@/components/Reveal'
 import { FieldDossier } from './FieldDossier'
@@ -12,9 +11,9 @@ import { etichetta } from '@/lib/i18n/etichette'
 import type { Lingua } from '@/lib/i18n/config'
 
 const T = {
-  it: { archivio: "L'archivio dei viaggi", tutti: 'Vedi tutti i viaggi' },
-  en: { archivio: 'The trip archive', tutti: 'See all trips' },
-  es: { archivio: 'El archivo de viajes', tutti: 'Ver todos los viajes' },
+  it: { archivio: "L'archivio dei viaggi" },
+  en: { archivio: 'The trip archive' },
+  es: { archivio: 'El archivo de viajes' },
 } satisfies Record<Lingua, Record<string, string>>
 
 /**
@@ -36,17 +35,11 @@ export async function VisualArchive({
   return (
     <section className="border-t border-alpine/10 py-24 sm:py-32">
       <Container className="mb-10">
+        {/* la CTA «tutti i viaggi» è subito sotto, nella sezione della Home: qui non si ripete */}
         <div className="flex flex-wrap items-end justify-between gap-4">
           <h2 className="max-w-xl font-display text-[clamp(2rem,3.4vw,3rem)] text-balance text-alpine">
             {t.archivio}
           </h2>
-          <Link
-            href="/viaggi"
-            className="group inline-flex items-center gap-2 text-sm font-medium text-rosso hover:underline"
-          >
-            {t.tutti}
-            <ArrowUpRight size={15} className="transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
-          </Link>
         </div>
       </Container>
 

@@ -19,7 +19,7 @@ const T = {
  * resta fermo sul primo fotogramma. Sul telefono carica la versione leggera.
  * Durante l'apertura del video (il titolo «WORLD.» battuto a macchina, fino a
  * `introFino` secondi) segna la sezione con `data-intro="true"`, così l'hero
- * può tenere nascosto il proprio titolo e non sovrapporlo a quello del video.
+ * può scurire il fotogramma (il testo dell'hero resta sempre visibile).
  */
 export function HeroVideo({
   src,
@@ -40,7 +40,7 @@ export function HeroVideo({
   // Il fotogramma d'apertura è l'elemento LCP: si chiede subito, dal <head>, con priorità alta.
   preload(poster, { as: 'image', fetchPriority: 'high' })
 
-  // Prima del primo disegno: niente lampo del titolo sopra «WORLD.».
+  // Prima del primo disegno: il velo dell'apertura c'è già, niente lampo.
   useLayoutEffect(() => {
     const video = ref.current
     const sezione = video?.closest('section')
@@ -67,10 +67,18 @@ export function HeroVideo({
     const video = ref.current
     if (!video) return
     const fermo = window.matchMedia('(prefers-reduced-motion: reduce)').matches
+    // Su schermi larghi il testo dell'hero sta sopra il video: si salta il titolo «WORLD»
+    // già impresso nei primi secondi, che finirebbe sotto l'H1 (anche a ogni giro del loop).
+    const largo = window.matchMedia('(min-width: 901px)').matches
+    const partenza = largo ? introFino : 0
+    const saltaTitolo = () => {
+      if (video && largo && introFino && video.currentTime < introFino - 0.5) video.currentTime = introFino
+    }
+    video.addEventListener('timeupdate', saltaTitolo)
 
     function dallInizio() {
       if (!video) return
-      video.currentTime = 0
+      video.currentTime = partenza
       if (fermo) return
       video.play().then(() => setInPausa(false)).catch(() => setInPausa(true))
     }
@@ -81,8 +89,11 @@ export function HeroVideo({
 
     dallInizio()
     window.addEventListener('pageshow', alRitorno)
-    return () => window.removeEventListener('pageshow', alRitorno)
-  }, [])
+    return () => {
+      window.removeEventListener('pageshow', alRitorno)
+      video.removeEventListener('timeupdate', saltaTitolo)
+    }
+  }, [introFino])
 
   function alterna() {
     const video = ref.current

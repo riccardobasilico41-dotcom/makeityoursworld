@@ -3,7 +3,7 @@ import { getAllPaesi } from '@/lib/geo'
 import { getAllMeraviglie } from '@/lib/meraviglie'
 import { Marchio } from './Marchio'
 import { AREE } from '@/lib/aree'
-import { NavPrincipale, type GruppoMenu } from './NavPrincipale'
+import { NavPrincipale, type GruppoMenu, type Menu } from './NavPrincipale'
 import { Ricerca } from './Ricerca'
 import { SalvatiContatore } from './SalvatiContatore'
 import { SelettoreLingua } from './SelettoreLingua'
@@ -19,6 +19,9 @@ const T = {
       'Nord e Centro America': 'Nord e Centro America',
       'Sud America': 'Sud America',
     },
+    viaggi: 'Viaggi',
+    destinazioni: 'Destinazioni',
+    chiSono: 'Chi sono',
     meraviglie: 'Meraviglie',
     tuttiPaesi: 'Tutti i Paesi',
     tuttaArea: (a: string) => `Tutto su ${a}: Paesi e destinazioni`,
@@ -32,6 +35,9 @@ const T = {
       'Nord e Centro America': 'North & Central America',
       'Sud America': 'South America',
     },
+    viaggi: 'Trips',
+    destinazioni: 'Destinations',
+    chiSono: 'About',
     meraviglie: 'Wonders',
     tuttiPaesi: 'All countries',
     tuttaArea: (a: string) => `All of ${a}: countries and destinations`,
@@ -45,16 +51,19 @@ const T = {
       'Nord e Centro America': 'Norte y Centroamérica',
       'Sud America': 'Sudamérica',
     },
+    viaggi: 'Viajes',
+    destinazioni: 'Destinos',
+    chiSono: 'Sobre mí',
     meraviglie: 'Maravillas',
     tuttiPaesi: 'Todos los países',
     tuttaArea: (a: string) => `Todo ${a}: países y destinos`,
     sette: 'Las siete maravillas',
   },
-} satisfies Record<Lingua, { aree: Record<string, string>; meraviglie: string; tuttiPaesi: string; tuttaArea: (a: string) => string; sette: string }>
+} satisfies Record<Lingua, { aree: Record<string, string>; viaggi: string; destinazioni: string; chiSono: string; meraviglie: string; tuttiPaesi: string; tuttaArea: (a: string) => string; sette: string }>
 
 
-/* Testata: marchio a macchina da scrivere a sinistra, menu per area a destra
- * (ogni area apre l'elenco dei suoi Paesi), poi «Cerca» e il cuore dei salvati,
+/* Testata: marchio a macchina da scrivere a sinistra, a destra il menu
+ * (Viaggi, Destinazioni con aree e Paesi, Meraviglie, Chi sono), poi «Cerca» e il cuore dei salvati,
  * filo nero sotto. Non sticky:
  * StickyTableOfContents porta l'orientamento nelle pagine lunghe. */
 export async function Header() {
@@ -76,20 +85,26 @@ export async function Header() {
   const sud = gruppi[AREE.findIndex((a) => a.slug === 'sud-america')]
   sud?.voci.unshift({ nome: { it: 'Amazzonia', en: 'Amazon', es: 'Amazonía' }[lingua], href: '/amazzonia' })
 
-  gruppi.push({
-    nome: t.meraviglie,
-    voci: getAllMeraviglie(lingua).map((m) => ({ nome: m.nome, href: `/meraviglie/${m.slug}` })),
-    tutti: { nome: t.sette, href: '/meraviglie' },
-  })
+  const menu: Menu = {
+    viaggi: { nome: t.viaggi, href: '/viaggi' },
+    destinazioni: { nome: t.destinazioni, href: '/destinazioni', aree: gruppi },
+    meraviglie: {
+      nome: t.meraviglie,
+      href: '/meraviglie',
+      voci: getAllMeraviglie(lingua).map((m) => ({ nome: m.nome, href: `/meraviglie/${m.slug}` })),
+      tutti: { nome: t.sette, href: '/meraviglie' },
+    },
+    chiSono: { nome: t.chiSono, href: '/chi-sono' },
+  }
 
   return (
     <header className="relative z-40 border-b border-ink/15 bg-cream">
-      <div className="flex items-center justify-between gap-x-3 px-4 py-4 sm:px-8 lg:px-12 min-[1440px]:gap-x-10">
-        <Link href="/" className="shrink-0 text-[1.2rem] text-ink min-[420px]:text-[1.35rem] sm:text-[1.6rem] min-[1440px]:text-[1.35rem] min-[1680px]:text-[1.6rem]">
+      <div className="flex items-center justify-between gap-x-3 px-4 py-4 sm:px-8 lg:px-12 xl:gap-x-6 2xl:gap-x-10">
+        <Link href="/" className="shrink-0 text-[1.2rem] text-ink min-[420px]:text-[1.35rem] sm:text-[1.6rem] xl:text-[1.35rem] min-[1680px]:text-[1.6rem]">
           <Marchio />
         </Link>
         <div className="flex shrink-0 items-center gap-x-1 min-[420px]:gap-x-3 sm:gap-x-5 xl:gap-x-4 2xl:gap-x-5">
-          <NavPrincipale gruppi={gruppi} />
+          <NavPrincipale menu={menu} />
           <SelettoreLingua className="hidden min-[420px]:flex" />
           <Ricerca />
           <SalvatiContatore />

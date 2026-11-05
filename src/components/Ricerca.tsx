@@ -87,6 +87,9 @@ const ICONE: Record<TipoVoce, LucideIcon> = {
   meraviglia: Landmark,
 }
 
+/** Evento globale che apre il pannello (es. dalla voce «Cerca» del menu mobile). */
+export const APRI_RICERCA = 'ricerca:apri'
+
 function campoModificabile(t: EventTarget | null) {
   if (!(t instanceof HTMLElement)) return false
   return t.isContentEditable || ['INPUT', 'TEXTAREA', 'SELECT'].includes(t.tagName)
@@ -160,8 +163,13 @@ export function Ricerca() {
         apriRef.current()
       }
     }
+    const daEvento = () => apriRef.current()
     document.addEventListener('keydown', tasto)
-    return () => document.removeEventListener('keydown', tasto)
+    window.addEventListener(APRI_RICERCA, daEvento)
+    return () => {
+      document.removeEventListener('keydown', tasto)
+      window.removeEventListener(APRI_RICERCA, daEvento)
+    }
   }, [])
 
   // Pagina sotto ferma mentre il pannello è aperto.

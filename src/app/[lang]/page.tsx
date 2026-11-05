@@ -36,7 +36,7 @@ const T = {
     vediMeraviglie: 'Vedi tutte le meraviglie',
     scorrimento: 'Le meraviglie, una per scheda',
     prossimo: 'Il prossimo viaggio da dove comincia?',
-    vediViaggi: 'Vedi tutti i viaggi',
+    vediPaesi: 'Sfoglia per Paese',
   },
   en: {
     sottotitolo: 'A travel journal with day-by-day itineraries, checked and double-checked, not copied from other guides.',
@@ -51,7 +51,7 @@ const T = {
     vediMeraviglie: 'See all the wonders',
     scorrimento: 'The wonders, one card each',
     prossimo: 'Where does your next trip begin?',
-    vediViaggi: 'See all trips',
+    vediPaesi: 'Browse by country',
   },
   es: {
     sottotitolo: 'Diario de viaje con itinerarios día a día, comprobados y recomprobados, no copiados de otras guías.',
@@ -66,7 +66,7 @@ const T = {
     vediMeraviglie: 'Ver todas las maravillas',
     scorrimento: 'Las maravillas, una por ficha',
     prossimo: '¿Por dónde empieza tu próximo viaje?',
-    vediViaggi: 'Ver todos los viajes',
+    vediPaesi: 'Explora por país',
   },
 } satisfies Record<Lingua, Record<string, string | ((n: number) => string)>>
 
@@ -144,11 +144,12 @@ export default async function HomePage() {
         routeTappe={ROTTA_DECORATIVA}
       />
 
+      {/* subito dopo l'apertura: la fila dei viaggi top («Da qui si parte») */}
+      <ViaggiTop lingua={lingua} />
+
       <VoltoDelProgetto />
 
       <MappaMondoSezione />
-
-      <ViaggiTop lingua={lingua} />
 
       {primo && primoMeta && (
         <FeaturedJourney
@@ -240,11 +241,12 @@ export default async function HomePage() {
             <p className="max-w-md font-display text-3xl font-medium leading-tight text-balance text-alpine sm:text-4xl">
               {t.prossimo}
             </p>
+            {/* «tutti i viaggi» ha già la sua CTA dopo l'archivio: qui la porta per Paese */}
             <Link
-              href="/viaggi"
+              href="/destinazioni"
               className="group mt-6 inline-flex items-center gap-2 text-sm font-medium text-rosso hover:underline"
             >
-              {t.vediViaggi}
+              {t.vediPaesi}
               <ArrowRight size={15} className="transition-transform group-hover:translate-x-1" />
             </Link>
           </Reveal>

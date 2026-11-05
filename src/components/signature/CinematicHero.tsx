@@ -1,31 +1,25 @@
-import Link from '@/components/ui/Link'
-import { ArrowRight } from 'lucide-react'
 import type { PuntoTappa } from './geo'
 import { HeroVideo } from './HeroVideo'
+import { HeroFinder } from './HeroFinder'
 import { linguaCorrente } from '@/lib/i18n/server'
 import type { Lingua } from '@/lib/i18n/config'
 
 const T = {
   it: {
     label: 'Runaway: montaggio video dei nostri viaggi in giro per il mondo',
-    scopri: 'Scopri gli itinerari',
-    sfoglia: 'Sfoglia per Paese',
   },
   en: {
     label: 'Runaway: a video montage of our trips around the world',
-    scopri: 'Discover the itineraries',
-    sfoglia: 'Browse by country',
   },
   es: {
     label: 'Runaway: montaje de vídeo de nuestros viajes por el mundo',
-    scopri: 'Descubre los itinerarios',
-    sfoglia: 'Explora por país',
   },
 } satisfies Record<Lingua, Record<string, string>>
 
 /**
  * Apertura della Home: il montaggio «Runaway» dei nostri viaggi a tutto
- * schermo, sempre in orizzontale, con titolo e azioni sopra. Su schermi
+ * schermo, sempre in orizzontale, con titolo e Travel Finder sopra, visibili
+ * da subito. Su schermi
  * orizzontali il video riempie la finestra e una sfumatura scura tiene
  * leggibile il testo; sul telefono in verticale il video resta 16:9 a tutta
  * larghezza (niente ritaglio in verticale) e il testo parte dal suo bordo
@@ -36,7 +30,7 @@ export const HERO_VIDEO = {
   srcMobile: '/videos/runaway-hero-mobile-40s.mp4',
   poster: '/videos/runaway-hero-poster.jpg',
   label: 'Runaway: montaggio video dei nostri viaggi in giro per il mondo',
-  /** Secondi dell'apertura del video con il titolo «WORLD. make it yours». */
+  /** Secondi dell'apertura del video con il titolo «WORLD. make it yours»: solo un velo più scuro, il testo resta visibile. */
   introFino: 17,
 }
 
@@ -75,31 +69,26 @@ export async function CinematicHero({
         />
         <div
           aria-hidden="true"
-          className="pointer-events-none absolute inset-0 z-10 hidden bg-gradient-to-r transition-opacity duration-700 group-data-[intro=true]/hero:opacity-0 from-ink/60 via-ink/15 to-transparent landscape:md:block"
+          className="pointer-events-none absolute inset-0 z-10 hidden bg-gradient-to-r from-ink/70 via-ink/25 to-transparent landscape:md:block"
+        />
+        {/* Durante l'apertura del video («WORLD. make it yours») il fotogramma si abbassa:
+            il titolo del video resta un effetto di sfondo e non compete con H1 e ricerca. */}
+        <div
+          aria-hidden="true"
+          className="pointer-events-none absolute inset-0 z-10 bg-ink/0 transition-colors duration-700 motion-reduce:transition-none landscape:md:group-data-[intro=true]/hero:bg-ink/45"
         />
       </div>
 
-      <div className="relative z-10 px-4 pt-6 pb-10 transition-opacity duration-700 sm:px-8 sm:pt-8 landscape:md:pt-0 landscape:md:mt-auto landscape:md:px-12 landscape:md:pb-14 landscape:md:group-data-[intro=true]/hero:pointer-events-none landscape:md:group-data-[intro=true]/hero:opacity-0">
-        <h1 className="max-w-[16ch] font-display text-[clamp(2.4rem,6.4vw,6.5rem)] text-balance text-cream [text-shadow:0_2px_24px_rgb(0_0_0/0.45)]">
-          {inizio} {fine && <span className="text-[oklch(70%_0.16_32)]">{fine}</span>}
+      {/* Testo e Travel Finder visibili da subito, anche durante l'apertura del video. */}
+      <div className="relative z-10 px-4 pt-5 pb-8 sm:px-8 sm:pt-8 sm:pb-10 landscape:md:mt-auto landscape:md:px-12 landscape:md:pt-0 landscape:md:pb-12">
+        <h1 className="max-w-[22ch] font-display text-[clamp(2rem,4.6vw,4.75rem)] leading-[1.02] text-balance text-cream [text-shadow:0_2px_24px_rgb(0_0_0/0.55)]">
+          {inizio} {fine && <span className="text-[oklch(72%_0.16_32)]">{fine}</span>}
         </h1>
-        <p className="mt-5 max-w-[38ch] text-lg leading-relaxed text-cream/85 [text-shadow:0_1px_12px_rgb(0_0_0/0.5)] sm:text-xl">
+        <p className="mt-3 max-w-[46ch] text-base leading-snug text-cream/90 [text-shadow:0_1px_12px_rgb(0_0_0/0.6)] sm:mt-4 sm:text-lg sm:leading-relaxed">
           {subtext}
         </p>
-        <div className="mt-7 flex flex-wrap items-center gap-6">
-          <Link
-            href="/viaggi"
-            className="inline-flex min-h-12 items-center gap-2 bg-rosso px-6 py-3 text-[0.95rem] font-semibold text-cream transition-colors duration-150 hover:bg-rosso-dark focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cream focus-visible:ring-offset-2 focus-visible:ring-offset-ink"
-          >
-            {t.scopri}
-            <ArrowRight size={16} aria-hidden="true" />
-          </Link>
-          <Link
-            href="/destinazioni"
-            className="text-[0.95rem] font-semibold text-cream underline decoration-rosso decoration-2 underline-offset-[6px] hover:text-[oklch(80%_0.12_32)]"
-          >
-            {t.sfoglia}
-          </Link>
+        <div className="mt-5 sm:mt-6">
+          <HeroFinder />
         </div>
       </div>
     </section>

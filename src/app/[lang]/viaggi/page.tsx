@@ -11,6 +11,7 @@ import { raccoltaJsonLd } from '@/lib/structured-data'
 import { linguaCorrente } from '@/lib/i18n/server'
 import type { Lingua } from '@/lib/i18n/config'
 import { copertine } from '@/lib/i18n/contenuti'
+import { datiFiltroViaggio, opzioniPaesi } from '@/lib/viaggi-filtri'
 
 const T = {
   it: {
@@ -83,7 +84,14 @@ export default async function ViaggiIndexPage() {
       />
       <section className="py-14 sm:py-20">
         <Container>
-          <TripFilters viaggi={viaggi.map((v) => ({ ...riduciPerScheda(v), copertina: copertineViaggi[v.slug] }))} />
+          <TripFilters
+            viaggi={viaggi.map((v) => ({
+              ...riduciPerScheda(v),
+              ...datiFiltroViaggio(v, lingua),
+              copertina: copertineViaggi[v.slug],
+            }))}
+            paesi={opzioniPaesi(lingua)}
+          />
         </Container>
       </section>
     </>

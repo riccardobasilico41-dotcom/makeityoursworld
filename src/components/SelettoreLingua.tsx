@@ -1,7 +1,7 @@
 'use client'
 
 import NextLink from 'next/link'
-import { usePathname } from 'next/navigation'
+import { usePathname, useRouter } from 'next/navigation'
 import { LINGUE_PUBBLICATE, LOCALE } from '@/lib/i18n/config'
 import { canonico, localizza } from '@/lib/i18n/percorsi'
 import { useLingua } from '@/lib/i18n/LinguaProvider'
@@ -13,6 +13,7 @@ import { useLingua } from '@/lib/i18n/LinguaProvider'
 export function SelettoreLingua({ className = '' }: { className?: string }) {
   const lingua = useLingua()
   const pathname = usePathname() ?? '/'
+  const router = useRouter()
   const { percorso } = canonico(pathname)
   if (LINGUE_PUBBLICATE.length < 2) return null
 
@@ -27,10 +28,16 @@ export function SelettoreLingua({ className = '' }: { className?: string }) {
             lang={LOCALE[l].html}
             aria-current={l === lingua ? 'true' : undefined}
             title={LOCALE[l].nome}
-            onClick={() => {
+            onClick={(e) => {
               try {
                 document.cookie = `lingua=${l}; path=/; max-age=31536000; samesite=lax`
               } catch {}
+              // tiene filtri e ancora (es. /viaggi?paese=giappone#giorno-3) nella nuova lingua
+              const resto = location.search + location.hash
+              if (resto && !e.metaKey && !e.ctrlKey && !e.shiftKey) {
+                e.preventDefault()
+                router.push(localizza(percorso, l) + resto)
+              }
             }}
             className={`inline-flex min-h-11 min-w-8 items-center justify-center text-sm font-semibold transition-colors hover:text-rosso ${
               l === lingua ? 'text-ink underline decoration-rosso decoration-2 underline-offset-4' : 'text-stone'

@@ -9,8 +9,7 @@ import { DestinationCard } from '@/components/DestinationCard'
 import { JsonLd } from '@/components/JsonLd'
 import { AREE, getArea } from '@/lib/aree'
 import { getAllPaesi, getDestinazioniByPaese } from '@/lib/geo'
-import { getAllViaggi } from '@/lib/viaggi'
-import { getContinente } from '@/lib/utils'
+import { contaViaggiNellArea } from '@/lib/viaggi-filtri'
 import { pageMetadata } from '@/lib/seo'
 import { breadcrumbJsonLd, raccoltaJsonLd } from '@/lib/structured-data'
 import { linguaCorrente } from '@/lib/i18n/server'
@@ -23,6 +22,7 @@ import type { Lingua } from '@/lib/i18n/config'
 
 const T = {
   it: {
+    home: 'Home',
     destinazioni: 'Destinazioni',
     seoTitle: (a: string) => `${a}: Paesi e destinazioni da scoprire`,
     seoDesc: (a: string, p: number, d: number, v: number) =>
@@ -34,8 +34,11 @@ const T = {
     esplora: 'Esplora il Paese',
     nDest: (n: number) => `${n} ${n === 1 ? 'destinazione' : 'destinazioni'}`,
     vediPaese: 'Apri il Paese',
+    tuttiIViaggi: (a: string) => `Tutti i viaggi in ${a}`,
+    nViaggi: (n: number) => `${n} ${n === 1 ? 'itinerario' : 'itinerari'} giorno per giorno`,
   },
   en: {
+    home: 'Home',
     destinazioni: 'Destinations',
     seoTitle: (a: string) => `${a}: countries and destinations to explore`,
     seoDesc: (a: string, p: number, d: number, v: number) =>
@@ -47,8 +50,11 @@ const T = {
     esplora: 'Explore the country',
     nDest: (n: number) => `${n} ${n === 1 ? 'destination' : 'destinations'}`,
     vediPaese: 'Open the country',
+    tuttiIViaggi: (a: string) => `All trips in ${a}`,
+    nViaggi: (n: number) => `${n} day-by-day ${n === 1 ? 'itinerary' : 'itineraries'}`,
   },
   es: {
+    home: 'Inicio',
     destinazioni: 'Destinos',
     seoTitle: (a: string) => `${a}: países y destinos para descubrir`,
     seoDesc: (a: string, p: number, d: number, v: number) =>
@@ -60,6 +66,8 @@ const T = {
     esplora: 'Explorar el país',
     nDest: (n: number) => `${n} ${n === 1 ? 'destino' : 'destinos'}`,
     vediPaese: 'Abrir el país',
+    tuttiIViaggi: (a: string) => `Todos los viajes en ${a}`,
+    nViaggi: (n: number) => `${n} ${n === 1 ? 'itinerario' : 'itinerarios'} día a día`,
   },
 } satisfies Record<Lingua, unknown>
 
@@ -75,7 +83,7 @@ function datiArea(slug: string, lingua: Lingua) {
     .sort((x, y) => x.nome.localeCompare(y.nome, lingua))
   const conDest = paesi.map((p) => ({ paese: p, destinazioni: getDestinazioniByPaese(p.slug, lingua) }))
   const nDest = conDest.reduce((n, x) => n + x.destinazioni.length, 0)
-  const nViaggi = getAllViaggi(lingua).filter((v) => area.continenti.includes(getContinente(v.categorie))).length
+  const nViaggi = contaViaggiNellArea(area.slug)
   return { area, conDest, nDest, nViaggi }
 }
 
@@ -124,7 +132,7 @@ export default async function AreaPage({ params }: { params: Promise<{ area: str
       />
       <PageHeader
         pieno
-        crumbs={[{ label: 'Home', href: '/' }, { label: t.destinazioni, href: '/destinazioni' }, { label: nome }]}
+        crumbs={[{ label: t.home, href: '/' }, { label: t.destinazioni, href: '/destinazioni' }, { label: nome }]}
         eyebrow={t.eyebrow(d.conDest.length, d.nDest)}
         title={nome}
         lead={t.lead(nome)}
@@ -167,6 +175,18 @@ export default async function AreaPage({ params }: { params: Promise<{ area: str
               </li>
             ))}
           </ul>
+          {d.nViaggi > 0 && (
+            <Link
+              href={`/viaggi?area=${slug}`}
+              className="group mt-10 flex flex-wrap items-center justify-between gap-4 border-2 border-ink bg-white p-6 shadow-[6px_6px_0_var(--color-rosso)] transition-[transform,box-shadow] duration-150 hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-[9px_9px_0_var(--color-rosso)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-rosso focus-visible:ring-offset-2 sm:p-8"
+            >
+              <span>
+                <span className="block text-[11px] font-semibold uppercase tracking-[0.18em] text-rosso">{t.nViaggi(d.nViaggi)}</span>
+                <span className="mt-1 block font-display text-[clamp(1.4rem,2.4vw,2rem)] text-alpine">{t.tuttiIViaggi(nome)}</span>
+              </span>
+              <ArrowUpRight size={22} aria-hidden className="text-rosso transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
+            </Link>
+          )}
         </Container>
       </section>
 

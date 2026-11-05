@@ -19,6 +19,7 @@ import { JsonLd } from '@/components/JsonLd'
 import { breadcrumbJsonLd } from '@/lib/structured-data'
 import { getAllPaesi, getPaese, getDestinazioniByPaese, getEsperienzeByPaese, getTripMeta } from '@/lib/geo'
 import { getViaggioBySlug } from '@/lib/viaggi'
+import { contaViaggiNelPaese } from '@/lib/viaggi-filtri'
 import { pageMetadata } from '@/lib/seo'
 import { seoPaese } from '@/lib/i18n/contenuti'
 import { linguaCorrente } from '@/lib/i18n/server'
@@ -60,6 +61,7 @@ const T = {
     errori: 'Errori da evitare',
     nonRifare: 'Cosa non rifare',
     home: 'Home',
+    tuttiIViaggi: (nome: string) => `Tutti i viaggi in ${nome}`,
   },
   en: {
     itinerarioCompleto: "The full itinerary, day by day, including what I'd do again and what I'd change.",
@@ -95,6 +97,7 @@ const T = {
     errori: 'Mistakes to avoid',
     nonRifare: "What I wouldn't repeat",
     home: 'Home',
+    tuttiIViaggi: (nome: string) => `All trips in ${nome}`,
   },
   es: {
     itinerarioCompleto: 'El itinerario completo, día a día, con lo que repetiría y lo que cambiaría.',
@@ -130,6 +133,7 @@ const T = {
     errori: 'Errores que evitar',
     nonRifare: 'Lo que no repetiría',
     home: 'Inicio',
+    tuttiIViaggi: (nome: string) => `Todos los viajes en ${nome}`,
   },
 } satisfies Record<Lingua, Record<string, string | ((nome: string) => string)>>
 
@@ -168,6 +172,7 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
   const esperienze = getEsperienzeByPaese(paeseSlug, lingua)
   const tripPrincipale = getViaggioBySlug(paese.tripPrincipaleSlug, lingua)
   const tripMeta = getTripMeta(paese.tripPrincipaleSlug, lingua)
+  const nViaggiPaese = contaViaggiNelPaese(paeseSlug)
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -261,6 +266,15 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
                       {t.leggiViaggio}
                     </Link>
                   </div>
+                  {nViaggiPaese >= 2 && (
+                    <Link
+                      href={`/viaggi?paese=${paeseSlug}`}
+                      className="mt-5 inline-flex min-h-11 items-center gap-2 text-sm font-semibold text-rosso underline-offset-4 hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-rosso focus-visible:ring-offset-2"
+                    >
+                      {t.tuttiIViaggi(paese.nome)} ({nViaggiPaese})
+                      <ArrowRight size={15} aria-hidden="true" />
+                    </Link>
+                  )}
                 </div>
 
                 {tripMeta && (

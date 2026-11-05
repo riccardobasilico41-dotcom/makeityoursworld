@@ -49,6 +49,8 @@ export type ViaggioScheda = Pick<
 > & {
   /** Copertina nella lingua della pagina (foto + testo alternativo), se il viaggio ne ha una. */
   copertina?: { immagine: string; imageAlt: string }
+  /** Paesi del viaggio già tradotti («Guatemala · Belize · Panama»): se c'è, sostituisce il continente nell'occhiello. */
+  luogo?: string
 }
 
 export function riduciPerScheda(v: Viaggio): ViaggioScheda {
@@ -101,7 +103,7 @@ export function TripCard({ viaggio, featured = false }: { viaggio: ViaggioScheda
           />
         )}
         <p className="relative z-10 text-xs font-semibold uppercase tracking-[0.18em] text-cream/70">
-          {etichetta(continente, lingua)}
+          {viaggio.luogo ?? etichetta(continente, lingua)}
         </p>
       </div>
       <div className="flex flex-1 flex-col gap-3 p-6">
