@@ -6,13 +6,12 @@ import { Reveal } from '@/components/Reveal'
 import { CinematicHero } from '@/components/signature/CinematicHero'
 import { VoltoDelProgetto } from '@/components/signature/VoltoDelProgetto'
 import { MappaMondoSezione } from '@/components/MappaMondoSezione'
-import { GeographyIndex } from '@/components/signature/GeographyIndex'
+import { ViaggiTop } from '@/components/ViaggiTop'
 import { FeaturedJourney } from '@/components/signature/FeaturedJourney'
 import { VisualArchive } from '@/components/signature/VisualArchive'
 import { getAllViaggi, type Viaggio } from '@/lib/viaggi'
 import { getAllMeraviglie } from '@/lib/meraviglie'
-import { getAllPaesi, getDestinazioniByPaese, getTripMeta } from '@/lib/geo'
-import { raggruppaPerContinente } from '@/lib/utils'
+import { getTripMeta } from '@/lib/geo'
 import { copertine } from '@/lib/i18n/contenuti'
 import { linguaCorrente } from '@/lib/i18n/server'
 import { SITO } from '@/lib/i18n/sito'
@@ -134,8 +133,6 @@ export default async function HomePage() {
     (v): v is Viaggio => v !== undefined && v.slug !== primo?.slug
   )
   const meraviglie = getAllMeraviglie(lingua)
-  const paesi = getAllPaesi(lingua)
-  const gruppiPaesi = raggruppaPerContinente(paesi, (p) => p.continente)
   const primoMeta = primo ? getTripMeta(primo.slug, lingua) : undefined
 
   return (
@@ -151,10 +148,7 @@ export default async function HomePage() {
 
       <MappaMondoSezione />
 
-      <GeographyIndex
-        gruppi={gruppiPaesi}
-        conteggioDestinazioni={(slug) => getDestinazioniByPaese(slug, lingua).length}
-      />
+      <ViaggiTop lingua={lingua} />
 
       {primo && primoMeta && (
         <FeaturedJourney
