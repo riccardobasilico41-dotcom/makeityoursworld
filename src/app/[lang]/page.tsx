@@ -6,9 +6,10 @@ import { Reveal } from '@/components/Reveal'
 import { CinematicHero } from '@/components/signature/CinematicHero'
 import { VoltoDelProgetto } from '@/components/signature/VoltoDelProgetto'
 import { MappaMondoSezione } from '@/components/MappaMondoSezione'
-import { ViaggiTop } from '@/components/ViaggiTop'
+import { ViaggiTop, TOP } from '@/components/ViaggiTop'
 import { FeaturedJourney } from '@/components/signature/FeaturedJourney'
-import { VisualArchive } from '@/components/signature/VisualArchive'
+import { EsploraAree } from '@/components/EsploraAree'
+import { QuestoMese } from '@/components/QuestoMese'
 import { getAllViaggi, type Viaggio } from '@/lib/viaggi'
 import { getAllMeraviglie } from '@/lib/meraviglie'
 import { getTripMeta } from '@/lib/geo'
@@ -21,14 +22,13 @@ import { JsonLd } from '@/components/JsonLd'
 import { autoreJsonLd } from '@/lib/structured-data'
 import Link from '@/components/ui/Link'
 import { ArrowRight } from 'lucide-react'
+import { PREFISSO_TAPPA } from '@/lib/riepilogo-viaggio'
+import { plain } from '@/components/ui/Rich'
 
 const T = {
   it: {
     sottotitolo: 'Diario di viaggio con itinerari giorno per giorno, verificati e riverificati, non copiati da altre guide.',
-    apertura: 'Apertura',
-    ritmo: 'Il ritmo',
-    puntoForte: 'Il punto forte',
-    otto: (n: number) => `Questi sono otto viaggi scelti a mano. L'archivio completo ne racconta ${n}.`,
+    archivio: (n: number) => `L'archivio completo racconta ${n} viaggi, filtrabili per area, Paese, durata e stile.`,
     esplora: (n: number) => `Esplora tutti i ${n} viaggi`,
     meraviglieTitolo: 'Le sette meraviglie del mondo',
     meraviglieTesto:
@@ -36,14 +36,10 @@ const T = {
     vediMeraviglie: 'Vedi tutte le meraviglie',
     scorrimento: 'Le meraviglie, una per scheda',
     prossimo: 'Il prossimo viaggio da dove comincia?',
-    vediPaesi: 'Sfoglia per Paese',
   },
   en: {
     sottotitolo: 'A travel journal with day-by-day itineraries, checked and double-checked, not copied from other guides.',
-    apertura: 'Opening',
-    ritmo: 'The pace',
-    puntoForte: 'The highlight',
-    otto: (n: number) => `These are eight trips picked by hand. The full archive tells the story of ${n}.`,
+    archivio: (n: number) => `The full archive tells the story of ${n} trips, filterable by region, country, length and style.`,
     esplora: (n: number) => `Explore all ${n} trips`,
     meraviglieTitolo: 'The seven wonders of the world',
     meraviglieTesto:
@@ -51,14 +47,10 @@ const T = {
     vediMeraviglie: 'See all the wonders',
     scorrimento: 'The wonders, one card each',
     prossimo: 'Where does your next trip begin?',
-    vediPaesi: 'Browse by country',
   },
   es: {
     sottotitolo: 'Diario de viaje con itinerarios día a día, comprobados y recomprobados, no copiados de otras guías.',
-    apertura: 'Apertura',
-    ritmo: 'El ritmo',
-    puntoForte: 'Lo mejor',
-    otto: (n: number) => `Estos son ocho viajes elegidos a mano. El archivo completo cuenta ${n}.`,
+    archivio: (n: number) => `El archivo completo cuenta ${n} viajes, que se pueden filtrar por región, país, duración y estilo.`,
     esplora: (n: number) => `Explora los ${n} viajes`,
     meraviglieTitolo: 'Las siete maravillas del mundo',
     meraviglieTesto:
@@ -66,7 +58,6 @@ const T = {
     vediMeraviglie: 'Ver todas las maravillas',
     scorrimento: 'Las maravillas, una por ficha',
     prossimo: '¿Por dónde empieza tu próximo viaje?',
-    vediPaesi: 'Explora por país',
   },
 } satisfies Record<Lingua, Record<string, string | ((n: number) => string)>>
 
@@ -87,11 +78,11 @@ const ROTTA_DECORATIVA = [
   { nome: 'Messico' },
 ]
 
-// Selezione editoriale per l'archivio visivo della Home: 8 viaggi scelti a
-// mano (non i 47 al completo, che restano su /viaggi) per varietà geografica
-// e narrativa. Il "viaggio in evidenza" ruota tra questi (vedi `viaggioDelGiorno`)
-// non è duplicato qui. Aggiornare questa lista è una decisione editoriale,
-// non un criterio automatico (durata, data, ecc.).
+// Viaggi che possono andare «in evidenza» in Home, uno al giorno a rotazione. Erano anche
+// la selezione di VisualArchive, tolta dalla Home perché 5 viaggi su 8 erano già nella fila
+// ViaggiTop: qui restano solo quelli che la fila non mostra (vedi `viaggioDelGiorno`), così
+// Cina dei paesaggi, Marocco e Sicilia hanno ancora un posto in Home senza doppioni.
+// Aggiornare la lista è una decisione editoriale, non un criterio automatico.
 const VIAGGI_HOME_SLUGS = [
   'lofoten-estate-2025', // Lofoten
   'islanda-2024', // Islanda in tenda / Ring Road
@@ -106,34 +97,36 @@ const VIAGGI_HOME_SLUGS = [
 // La Home si rigenera una volta al giorno: il viaggio in evidenza cambia ogni giorno.
 export const revalidate = 86400
 
-/** Il viaggio in evidenza ruota tra le scelte della Home, uno al giorno, in ordine. */
+/** Il viaggio in evidenza ruota, uno al giorno, tra le scelte della Home che non sono già in ViaggiTop. */
 function viaggioDelGiorno(viaggi: Viaggio[], lingua: Lingua): Viaggio | undefined {
-  const candidati = VIAGGI_HOME_SLUGS.map((slug) => viaggi.find((v) => v.slug === slug)).filter(
-    (v): v is Viaggio => v !== undefined && (getTripMeta(v.slug, lingua)?.tappeMappa.length ?? 0) > 1
-  )
-  if (candidati.length === 0) return viaggi[0]
+  const inFila = new Set(TOP)
+  const valide = (slugs: string[]) =>
+    slugs
+      .map((slug) => viaggi.find((v) => v.slug === slug))
+      .filter((v): v is Viaggio => v !== undefined && (getTripMeta(v.slug, lingua)?.tappeMappa.length ?? 0) > 1)
+  // se la lista editoriale finisse tutta dentro la fila, meglio un doppione che nessun viaggio
+  const candidati = valide(VIAGGI_HOME_SLUGS.filter((s) => !inFila.has(s)))
+  const lista = candidati.length > 0 ? candidati : valide(VIAGGI_HOME_SLUGS)
+  if (lista.length === 0) return viaggi[0]
   const giorno = Math.floor(Date.now() / 86_400_000)
-  return candidati[giorno % candidati.length]
+  return lista[giorno % lista.length]
 }
 
-/* Signature Editorial · macrostructure: Field Archive
- * Sostituisce l'homepage fotografica singola (Hallmark, 08 Photographic) con
- * una sequenza a più registri: apertura tipografica su campo scuro, manifesto
- * asimmetrico, indice di geografia, viaggio in evidenza a scena fissa,
- * archivio orizzontale, meraviglie (invariate, fuori scope di questa
- * iterazione), chiusura silenziosa. Vedi la direzione creativa approvata
- * "VIAGGI 360 — SIGNATURE EDITORIAL" per il razionale sezione per sezione. */
+/* Ordine della Home (audit UX P1): apertura con il cercaviaggi → viaggi top → porte per
+ * area → mappa del mondo → un viaggio in evidenza in una schermata → meraviglie → chi
+ * scrive → una sola chiusura. Niente sezioni che ripetono gli stessi viaggi: l'archivio
+ * orizzontale (VisualArchive) è uscito perché ridondante con ViaggiTop. */
 export default async function HomePage() {
   const lingua = await linguaCorrente()
   const t = T[lingua]
   const copertineViaggi = copertine(lingua)
   const viaggi = getAllViaggi(lingua)
   const primo = viaggioDelGiorno(viaggi, lingua)
-  const selezioneHome = VIAGGI_HOME_SLUGS.map((slug) => viaggi.find((v) => v.slug === slug)).filter(
-    (v): v is Viaggio => v !== undefined && v.slug !== primo?.slug
-  )
   const meraviglie = getAllMeraviglie(lingua)
   const primoMeta = primo ? getTripMeta(primo.slug, lingua) : undefined
+  const primoTappe = primoMeta
+    ? primoMeta.tappeMappa.map((tp) => tp.nome.replace(PREFISSO_TAPPA, '')).filter((n, i, a) => a.indexOf(n) === i)
+    : []
 
   return (
     <>
@@ -147,64 +140,28 @@ export default async function HomePage() {
       {/* subito dopo l'apertura: la fila dei viaggi top («Da qui si parte») */}
       <ViaggiTop lingua={lingua} />
 
-      <VoltoDelProgetto />
+      {/* le cinque aree, con quanti Paesi e viaggi: la porta per chi parte dalla geografia */}
+      <EsploraAree lingua={lingua} />
+
+      {/* i viaggi che ho fatto nel mese corrente (solo se sono almeno 2) */}
+      <QuestoMese lingua={lingua} />
 
       <MappaMondoSezione />
 
-      {primo && primoMeta && (
+      {primo && (
         <FeaturedJourney
+          lingua={lingua}
           titolo={primo.titolo}
           href={`/viaggi/${primo.slug}`}
-          tappe={primoMeta.tappeMappa}
-          paeseSlug={primoMeta.paeseSlug}
+          apertura={plain(primo.apertura ?? primo.descrizione)}
+          tappe={primoTappe}
+          durata={primo.durataBreve || undefined}
+          periodo={primo.periodoBreve || undefined}
           copertina={copertineViaggi[primo.slug]}
-          battute={[
-            {
-              eyebrow: t.apertura,
-              contenuto: (
-                <p className="font-display text-xl italic leading-relaxed text-alpine sm:text-2xl lg:text-3xl">
-                  {primo.apertura ?? primo.descrizione}
-                </p>
-              ),
-            },
-            {
-              eyebrow: t.ritmo,
-              contenuto: <p className="text-lg leading-relaxed text-stone">{primoMeta.ritmo}</p>,
-            },
-            {
-              eyebrow: t.puntoForte,
-              contenuto: (
-                <p className="text-lg leading-relaxed text-stone">
-                  {primoMeta.puntiForti[0] ?? primo.descrizione}
-                </p>
-              ),
-            },
-          ]}
         />
       )}
 
-      <VisualArchive viaggi={selezioneHome} copertine={copertineViaggi} />
-
-      <section className="border-t border-alpine/10 py-16 sm:py-20">
-        <Container>
-          <Reveal>
-            <div className="flex flex-col items-center gap-5 text-center">
-              <p className="max-w-md text-base leading-relaxed text-stone">
-                {t.otto(viaggi.length)}
-              </p>
-              <Link
-                href="/viaggi"
-                className="inline-flex items-center gap-2 rounded-none bg-alpine px-7 py-3.5 text-sm font-medium text-cream transition-colors duration-150 hover:bg-alpine-dark"
-              >
-                {t.esplora(viaggi.length)}
-                <ArrowRight size={15} />
-              </Link>
-            </div>
-          </Reveal>
-        </Container>
-      </section>
-
-      <section className="border-t border-alpine/10 bg-cream-dark/40 py-24 sm:py-32">
+      <section className="border-t border-alpine/10 bg-cream-dark/40 py-16 sm:py-24">
         <Container>
           <div className="flex flex-wrap items-end justify-between gap-4">
             <div>
@@ -217,7 +174,7 @@ export default async function HomePage() {
             </div>
             <Link
               href="/meraviglie"
-              className="group inline-flex items-center gap-2 text-sm font-medium text-rosso hover:underline"
+              className="group inline-flex min-h-11 items-center gap-2 text-sm font-medium text-rosso hover:underline"
             >
               {t.vediMeraviglie}
               <ArrowRight size={15} className="transition-transform group-hover:translate-x-1" />
@@ -235,20 +192,28 @@ export default async function HomePage() {
         </Container>
       </section>
 
-      <section className="border-t border-alpine/10 py-24 sm:py-32">
+      <VoltoDelProgetto />
+
+      {/* una sola chiusura: prima c'erano due CTA in fila («tutti i viaggi» e «per Paese»);
+          la porta per Paese ora è la sezione delle aree, qui resta l'archivio completo */}
+      <section className="border-t border-alpine/10 py-16 sm:py-24">
         <Container>
           <Reveal>
-            <p className="max-w-md font-display text-3xl font-medium leading-tight text-balance text-alpine sm:text-4xl">
-              {t.prossimo}
-            </p>
-            {/* «tutti i viaggi» ha già la sua CTA dopo l'archivio: qui la porta per Paese */}
-            <Link
-              href="/destinazioni"
-              className="group mt-6 inline-flex items-center gap-2 text-sm font-medium text-rosso hover:underline"
-            >
-              {t.vediPaesi}
-              <ArrowRight size={15} className="transition-transform group-hover:translate-x-1" />
-            </Link>
+            <div className="flex flex-col items-start gap-6 border-2 border-ink bg-white p-6 shadow-[6px_6px_0_var(--color-rosso)] sm:flex-row sm:items-center sm:justify-between sm:p-10">
+              <div>
+                <p className="max-w-md font-display text-3xl font-medium leading-tight text-balance text-alpine sm:text-4xl">
+                  {t.prossimo}
+                </p>
+                <p className="mt-3 max-w-md text-sm leading-relaxed text-stone">{t.archivio(viaggi.length)}</p>
+              </div>
+              <Link
+                href="/viaggi"
+                className="inline-flex min-h-12 shrink-0 items-center gap-2 bg-rosso px-6 py-3 text-[0.95rem] font-semibold text-cream transition-colors duration-150 hover:bg-rosso-dark focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-rosso focus-visible:ring-offset-2"
+              >
+                {t.esplora(viaggi.length)}
+                <ArrowRight size={15} aria-hidden />
+              </Link>
+            </div>
           </Reveal>
         </Container>
       </section>

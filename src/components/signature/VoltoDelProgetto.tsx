@@ -90,18 +90,18 @@ const T = {
 export async function VoltoDelProgetto() {
   const t = T[await linguaCorrente()]
   return (
-    <section id="chi-sono" aria-labelledby="volto-titolo" className="border-t border-alpine/10 py-24 sm:py-32">
+    <section id="chi-sono" aria-labelledby="volto-titolo" className="border-t border-alpine/10 py-16 sm:py-24">
       <Container>
-        <div className="grid items-center gap-12 lg:grid-cols-[5fr_7fr] lg:gap-20">
+        <div className="grid items-center gap-10 lg:grid-cols-[5fr_7fr] lg:gap-20">
           <Reveal>
-            <div className="relative mx-auto max-w-md lg:mx-0">
+            <div className="relative mx-auto max-w-[15rem] sm:max-w-sm lg:mx-0 lg:max-w-md">
               <div aria-hidden="true" className="absolute -bottom-4 -right-4 h-full w-full border-2 border-rosso" />
               <Image
                 src="/images/chi-sono/riccardo-basilico-taj-mahal.jpg"
                 alt={t.alt}
                 width={920}
                 height={1150}
-                sizes="(min-width: 1024px) 28rem, calc(100vw - 3rem)"
+                sizes="(min-width: 1024px) 28rem, (min-width: 640px) 24rem, 15rem"
                 className="relative block h-auto w-full border-2 border-ink"
               />
             </div>
@@ -112,7 +112,7 @@ export async function VoltoDelProgetto() {
             <h2 id="volto-titolo" className="mt-3 font-display text-[clamp(2.25rem,4.5vw,4rem)] leading-[1.05] text-ink">
               {t.titolo}
             </h2>
-            <dl className="mt-10 grid gap-6 md:grid-cols-3 md:gap-8 lg:grid-cols-1 xl:grid-cols-3">
+            <dl className="mt-8 grid gap-6 md:grid-cols-3 md:gap-8 lg:grid-cols-1 xl:grid-cols-3">
               {t.ruoli.map((r) => (
                 <div key={r.nome} className="border-t-2 border-ink pt-4">
                   <dt className="font-display text-lg text-ink">{r.nome}</dt>
@@ -120,7 +120,7 @@ export async function VoltoDelProgetto() {
                 </div>
               ))}
             </dl>
-            <div className="mt-10 border-l-4 border-rosso pl-6">
+            <div className="mt-8 border-l-4 border-rosso pl-6">
               <p className="font-display text-2xl text-ink sm:text-3xl">{t.soprattutto}</p>
               <p className="mt-3 max-w-[52ch] text-lg leading-relaxed text-stone">
                 {t.diario}

@@ -12,7 +12,7 @@ import { localizza } from '@/lib/i18n/percorsi'
 import { LOCALE, type Lingua } from '@/lib/i18n/config'
 import { autore } from '@/lib/structured-data'
 import { getAllViaggi } from '@/lib/viaggi'
-import { getAllPaesi } from '@/lib/geo'
+import { contaPaesi, getAllPaesi } from '@/lib/geo'
 
 /*
  * Chi scrive il sito (E-E-A-T): la persona, cosa fa di mestiere, come viaggia e perché
@@ -107,7 +107,7 @@ export default async function ChiSonoPage() {
   const lingua = await linguaCorrente()
   const t = T[lingua]
   const nViaggi = getAllViaggi(lingua).length
-  const nPaesi = getAllPaesi(lingua).length
+  const nPaesi = contaPaesi(getAllPaesi(lingua))
   const url = `${siteConfig.url}${localizza('/chi-sono', lingua)}`
 
   return (

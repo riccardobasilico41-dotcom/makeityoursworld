@@ -4,6 +4,8 @@ export const florida: Paese = {
   slug: 'florida',
   nome: 'Florida',
   continente: 'Nord America',
+  tipo: 'regione',
+  stato: 'Stati Uniti',
   titolo: 'Florida in 10 giorni: dalle Keys a Orlando, on the road tra alligatori, spiagge e razzi',
   descrizione:
     'Dieci giorni e quasi 1.800 km al volante: il turchese delle Keys, la palude delle Everglades, il kitsch dorato di Orlando e i razzi della NASA a Cape Canaveral, e per finire le spiagge e la vita notturna di Miami Beach.',

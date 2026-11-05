@@ -9,7 +9,7 @@ export type VoceIndice = {
   tipo: TipoVoce
   nome: string
   href: string
-  /** Paese (o continente per viaggi e Paesi): secondo campo di ricerca. */
+  /** Paese (Paesi veri del viaggio; per i Paesi lo Stato delle regioni e il continente): secondo campo di ricerca. */
   paese: string
   /** Riga breve sotto il nome nei risultati. */
   dettaglio: string
@@ -56,10 +56,13 @@ export function preparaIndice(voci: VoceIndice[]): VoceNormalizzata[] {
   }))
 }
 
+/** Sotto questa lunghezza un termine vale solo a inizio parola: «ski» non deve pescare dentro altre parole. */
+const MIN_DENTRO = 4
+
 /** Punteggio di un termine in un campo (già con spazio iniziale): inizio parola > contenuto. */
 function punti(campo: string, termine: string, pesoInizio: number, pesoDentro: number): number {
   if (campo.includes(` ${termine}`)) return pesoInizio
-  if (campo.includes(termine)) return pesoDentro
+  if (termine.length >= MIN_DENTRO && campo.includes(termine)) return pesoDentro
   return 0
 }
 

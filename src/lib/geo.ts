@@ -399,7 +399,7 @@ function registro(lingua: Lingua): Registro {
   const tr = lingua === 'en' ? EN : ES
   const metaTr = new Map(tr.tripMeta.map((m) => [m.tripSlug, m]))
   const r: Registro = {
-    paesi: sovrapponi(PAESI, tr.paesi, (p) => p.slug, ['slug', 'continente', 'heroImage', 'tripPrincipaleSlug']),
+    paesi: sovrapponi(PAESI, tr.paesi, (p) => p.slug, ['slug', 'continente', 'tipo', 'heroImage', 'tripPrincipaleSlug']),
     destinazioni: sovrapponi(DESTINAZIONI, tr.destinazioni, (d) => `${d.paeseSlug}/${d.slug}`, ['slug', 'paeseSlug', 'ordine', 'immagine', 'tripSlugs', 'esperienzeSlugs', 'visitataPersonalmente', 'tipologia']),
     esperienze: sovrapponi(ESPERIENZE, tr.esperienze, (e) => `${e.paeseSlug}/${e.slug}`, ['slug', 'paeseSlug', 'destinazioneSlug', 'giudizio', 'tripSlugs', 'immagine']),
     tripMeta: TRIP_META.map((m) => (metaTr.has(m.tripSlug) ? sovrapponiMeta(m, metaTr.get(m.tripSlug)!) : m)),
@@ -487,4 +487,35 @@ export function getEsperienzeDiDestinazione(destinazione: Destinazione, lingua: 
   return destinazione.esperienzeSlugs
     .map((slug) => tutte.find((e) => e.slug === slug))
     .filter((e): e is Esperienza => Boolean(e))
+}
+
+// --- Paesi e regioni ---
+
+/** «Transilvania · Romania» per le regioni, il nome e basta per i Paesi. */
+export function nomeConStato(p: Paese): string {
+  return p.tipo === 'regione' && p.stato ? `${p.nome} · ${p.stato}` : p.nome
+}
+
+/** Il Paese ha almeno un viaggio (come principale nei dati di viaggio) o una destinazione? */
+function haContenuti(p: Paese): boolean {
+  return TRIP_META.some((m) => m.paeseSlug === p.slug) || DESTINAZIONI.some((d) => d.paeseSlug === p.slug)
+}
+
+/**
+ * Quanti Stati sovrani ci sono in una lista di schede, per i contatori «N Paesi»: contano
+ * solo le schede con almeno un viaggio o una destinazione; una regione (`tipo: 'regione'`)
+ * non conta da sola ma vale per il suo Stato, una volta sola e solo se lo Stato non ha già
+ * una sua scheda nella lista (Borneo malese + Malesia = 1, Florida + New York + California
+ * = 1 per gli Stati Uniti). Funziona con le schede di qualunque lingua.
+ */
+export function contaPaesi(lista: Paese[]): number {
+  const conContenuti = lista.filter(haContenuti)
+  const nomi = new Set(conContenuti.filter((p) => p.tipo !== 'regione').map((p) => p.nome.toLowerCase()))
+  const stati = new Set(
+    conContenuti
+      .filter((p) => p.tipo === 'regione')
+      .map((p) => (p.stato ?? p.nome).toLowerCase())
+      .filter((s) => !nomi.has(s)),
+  )
+  return nomi.size + stati.size
 }

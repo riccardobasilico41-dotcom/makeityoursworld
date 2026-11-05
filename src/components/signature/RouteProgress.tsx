@@ -42,7 +42,7 @@ export function RouteProgress({
   )
 
   return (
-    <div className="hidden lg:flex lg:items-start lg:gap-3">
+    <div className="flex items-start gap-3">
       <div className="relative h-40 w-px shrink-0 bg-alpine/15">
         <motion.div
           aria-hidden="true"

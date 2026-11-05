@@ -9,7 +9,6 @@ import { listaPerViaggio, copertina as copertinaViaggio, editoriale } from '@/li
 import { linguaCorrente } from '@/lib/i18n/server'
 import { LOCALE, type Lingua } from '@/lib/i18n/config'
 import { etichetta } from '@/lib/i18n/etichette'
-import { localizza } from '@/lib/i18n/percorsi'
 
 /** Vecchi indirizzi con «-360» (titoli rinominati il 30/10/2026): redirect permanente al nuovo. */
 import { Prose } from '@/components/Prose'
@@ -21,6 +20,12 @@ import { minutiDiLettura, PREFISSO_TAPPA } from '@/lib/riepilogo-viaggio'
 import { Clock } from 'lucide-react'
 import { BudgetBreakdown } from '@/components/BudgetBreakdown'
 import type { TocItem } from '@/components/StickyTableOfContents'
+import { GiorniBarraMobile, type VoceGiorno } from '@/components/signature/GiorniBarraMobile'
+import { IndiceViaggio } from '@/components/signature/IndiceViaggio'
+import { idGiorno, numeroGiorno, partiGiorno, tappeDeiGiorni } from '@/components/signature/giorni-ancore'
+import { AltreGuidePaese } from '@/components/AltreGuidePaese'
+import { areaDelPaese, paesiDelViaggio } from '@/lib/viaggi-filtri'
+import { AREE } from '@/lib/aree'
 import { PageHeader } from '@/components/ui/PageHeader'
 import { creditiCopertine } from '@/content/viaggi-copertine-crediti'
 import { creditiHeroVideo } from '@/content/viaggi-hero-video-crediti'
@@ -229,6 +234,19 @@ export default async function ViaggioPage({ params }: { params: Promise<{ slug: 
   }
   if (meta) toc.push({ href: '#organizza', label: t.organizza })
 
+  // Home › Viaggi › Area › Paese › titolo: per i viaggi multi-Paese il primo Paese (il principale)
+  const primoPaese = paesiDelViaggio(viaggio.slug)[0] ?? meta.paeseSlug
+  const paese = getPaese(primoPaese, lingua)
+  const areaSlug = areaDelPaese(primoPaese)
+  const area = areaSlug ? AREE.find((a) => a.slug === areaSlug) : undefined
+  const briciole: { nome: string; percorso: string }[] = [
+    { nome: t.home, percorso: '/' },
+    { nome: t.viaggi, percorso: '/viaggi' },
+    ...(area ? [{ nome: area.nome[lingua], percorso: `/aree/${area.slug}` }] : []),
+    ...(paese ? [{ nome: paese.nome, percorso: `/destinazioni/${paese.slug}` }] : []),
+    { nome: viaggio.titolo, percorso: `/viaggi/${viaggio.slug}` },
+  ]
+
   // il luogo del titolo («Rome in 4 days…» → Rome), altrimenti il Paese
   const nomePaese = viaggio.titolo.match(/^(.+?)\s+(?:in|en)\s+\d/i)?.[1] ?? getPaese(meta.paeseSlug, lingua)?.nome ?? viaggio.titolo
 
@@ -245,14 +263,7 @@ export default async function ViaggioPage({ params }: { params: Promise<{ slug: 
             },
             lingua,
           ),
-          breadcrumbJsonLd(
-            [
-              { nome: t.home, percorso: '/' },
-              { nome: t.viaggi, percorso: '/viaggi' },
-              { nome: viaggio.titolo, percorso: `/viaggi/${viaggio.slug}` },
-            ],
-            lingua,
-          ),
+          breadcrumbJsonLd(briciole, lingua),
           // domande che si cercano davvero («how many days», «trip cost»), con le risposte già in pagina
           faqJsonLd(
             [
@@ -275,6 +286,7 @@ export default async function ViaggioPage({ params }: { params: Promise<{ slug: 
         video={getHeroVideo(viaggio.slug)}
         editorial={editorial}
         toc={toc}
+        briciole={briciole}
         cosaVedereSezione={cosaVedereSezione}
         consigliSezione={consigliSezione}
         altreSezioni={altreSezioni}
@@ -300,6 +312,7 @@ function SignatureViaggioContent({
   video,
   editorial,
   toc,
+  briciole,
   cosaVedereSezione,
   consigliSezione,
   altreSezioni,
@@ -312,17 +325,48 @@ function SignatureViaggioContent({
   video?: { src: string; poster: string }
   editorial: EditorialMeta
   toc: TocItem[]
+  briciole: { nome: string; percorso: string }[]
   cosaVedereSezione?: SezioneViaggio
   consigliSezione?: SezioneViaggio
   altreSezioni: SezioneViaggio[]
   domande: Domanda[]
 }) {
   const t = T[lingua]
+
+  // indice: le sezioni nell'ordine in cui compaiono in pagina (serve per segnare quella che si
+  // legge), una voce per ancora; i giorni con numero, data e luogo dal titolo del markdown
+  const ordine = [
+    '#il-viaggio-in-breve',
+    '#scheda-pratica',
+    '#mappa',
+    '#itinerario-giorno-per-giorno',
+    cosaVedereSezione ? `#${slugify(cosaVedereSezione.titolo)}` : '',
+    '#dove-dormire',
+    '#dove-mangiare',
+    '#budget',
+    consigliSezione ? `#${slugify(consigliSezione.titolo)}` : '',
+    '#organizza',
+  ]
+  const sezioni = [...(viaggio.schedaPratica ? [{ href: '#scheda-pratica', label: t.schedaPratica }] : []), ...toc]
+    .filter((v, i, a) => a.findIndex((x) => x.href === v.href) === i)
+    .sort((a, b) => ordine.indexOf(a.href) - ordine.indexOf(b.href))
+  const giorniIndice: VoceGiorno[] = viaggio.giorni.map((g, i) => {
+    const { data, luogo } = partiGiorno(g.titolo)
+    return { numero: numeroGiorno(g.titolo, i), id: idGiorno(i), data, luogo }
+  })
+  const tappeGiorni = tappeDeiGiorni(
+    viaggio.giorni.map((g) => ({
+      titolo: g.titolo,
+      destinazioneSlug: meta.giorni.find((m) => m.titoloGiorno === g.titolo)?.destinazioneSlug,
+    })),
+    meta.tappeMappa,
+  )
+
   return (
     <>
       <Filigrana paese={meta.paeseSlug} />
       <PageHeader
-        crumbs={[{ label: t.home, href: '/' }, { label: t.viaggi, href: '/viaggi' }, { label: viaggio.titolo }]}
+        crumbs={briciole.map((b, i) => (i === briciole.length - 1 ? { label: b.nome } : { label: b.nome, href: b.percorso }))}
         eyebrow={etichetta(getContinente(viaggio.categorie), lingua)}
         title={editorial.editorialHeadline ?? viaggio.titolo}
         lead={
@@ -357,29 +401,27 @@ function SignatureViaggioContent({
         }
       />
 
-      {/* Durata, periodo, budget, ritmo, spostamenti, tappe, con chi: prima erano sparsi tra
-          la riga sotto il titolo e la «Scheda riassuntiva», ora stanno solo qui. */}
+      {/* Durata, periodo, budget, ritmo, spostamenti, Paesi e area, tappe, tipo di viaggio, con chi:
+          prima erano sparsi tra la riga sotto il titolo e la «Scheda riassuntiva», ora stanno solo qui. */}
       <RiepilogoViaggio viaggio={viaggio} meta={meta} />
 
-      <section className="py-16 sm:py-20">
+      {/* Indice: da lg una colonna laterale sticky (sezioni + giorni), sotto lg una barra sticky
+          «Giorno 3 di 12 ▾» + «Mappa» in cima all'articolo. Prima era una fila di pulsanti fissa qui. */}
+      <section className="pb-16 sm:pb-20">
         <Container>
-          <div className="space-y-16">
-            {toc.length > 0 && (
-              <nav aria-label={t.inQuestaPagina} className="-mt-6 flex flex-wrap items-center gap-2 text-sm">
-                <span className="mr-1 text-xs font-semibold uppercase tracking-[0.18em] text-stone/85">{t.inQuestaPagina}</span>
-                {[...(viaggio.schedaPratica ? [{ href: '#scheda-pratica', label: t.schedaPratica }] : []), ...toc]
-                  .filter((v, i, a) => a.findIndex((x) => x.href === v.href) === i)
-                  .map((v) => (
-                    <a
-                      key={v.href + v.label}
-                      href={v.href}
-                      className="inline-flex min-h-9 items-center border border-ink/25 bg-cream px-3 font-medium text-ink transition-colors hover:border-ink hover:bg-ink hover:text-cream"
-                    >
-                      {v.label}
-                    </a>
-                  ))}
-              </nav>
-            )}
+          <div className="lg:grid lg:grid-cols-[12.5rem_minmax(0,1fr)] lg:gap-12">
+          <aside className="hidden pt-16 lg:block">
+            <IndiceViaggio sezioni={sezioni} giorni={giorniIndice} unitaLabel={meta.unitaGiorniLabel} />
+          </aside>
+          <div className="min-w-0 space-y-16">
+            <GiorniBarraMobile
+              giorni={giorniIndice}
+              sezioni={sezioni}
+              unitaLabel={meta.unitaGiorniLabel}
+              tappe={meta.tappeMappa}
+              tappeGiorni={tappeGiorni}
+              paeseSlug={meta.paeseSlug}
+            />
             {viaggio.apertura && (
               <p className="font-display text-xl italic leading-relaxed text-alpine sm:text-2xl lg:text-3xl">
                 {viaggio.apertura}
@@ -457,6 +499,8 @@ function SignatureViaggioContent({
                     meta={meta.giorni}
                     paeseSlug={meta.paeseSlug}
                     unitaLabel={meta.unitaGiorniLabel}
+                    tappe={meta.tappeMappa}
+                    tappeGiorni={tappeGiorni}
                   />
                 </div>
               </div>
@@ -530,7 +574,9 @@ function SignatureViaggioContent({
             />
             <FirmaAutore />
             <ProssimaDestinazione slug={viaggio.slug} lingua={lingua} />
+            <AltreGuidePaese slug={viaggio.slug} lingua={lingua} />
             <DomandeViaggio viaggio={viaggio.slug} lingua={lingua} domande={domande} />
+          </div>
           </div>
 
         </Container>

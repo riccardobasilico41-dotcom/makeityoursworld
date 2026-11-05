@@ -4,6 +4,8 @@ export const newYork: Paese = {
   slug: 'new-york',
   nome: 'New York',
   continente: 'Nord America',
+  tipo: 'regione',
+  stato: 'United States',
   titolo: 'New York: Skyscrapers, Neighborhoods and a Game Each, Between Baseball and Basketball',
   descrizione:
     "Six days in New York, 9-12 miles (15-20 km) on foot a day: Times Square at night, sunset from Top of the Rock, the Statue of Liberty, a Broadway musical, DUMBO with the Manhattan Bridge in the background and a live game, baseball in the thick of the playoff race or WNBA basketball with the New York Liberty. The program is fuller than you can manage in a week, on purpose: you have to pick your priorities.",

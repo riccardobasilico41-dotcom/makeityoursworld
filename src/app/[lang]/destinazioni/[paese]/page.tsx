@@ -6,7 +6,9 @@ import { ArrowRight } from 'lucide-react'
 import { Container } from '@/components/ui/Container'
 import { SectionHeading } from '@/components/ui/SectionHeading'
 import { Reveal, RevealGroup, RevealItem } from '@/components/Reveal'
-import { CountryHero } from '@/components/CountryHero'
+import { CountryHero, InBrevePaese } from '@/components/CountryHero'
+import { riduciPerScheda } from '@/components/TripCard'
+import { ProssimaScheda } from '@/components/ProssimaScheda'
 import { RouteTimeline } from '@/components/RouteTimeline'
 import { DestinationCard } from '@/components/DestinationCard'
 import { BinarioCard } from '@/components/BinarioCard'
@@ -18,8 +20,10 @@ import { MappaPaeseSezione } from '@/components/MappaPaeseSezione'
 import { JsonLd } from '@/components/JsonLd'
 import { breadcrumbJsonLd } from '@/lib/structured-data'
 import { getAllPaesi, getPaese, getDestinazioniByPaese, getEsperienzeByPaese, getTripMeta } from '@/lib/geo'
-import { getViaggioBySlug } from '@/lib/viaggi'
-import { contaViaggiNelPaese } from '@/lib/viaggi-filtri'
+import { getAllViaggi, getViaggioBySlug } from '@/lib/viaggi'
+import { areaDelPaese, datiFiltroViaggio, paesiDelViaggio } from '@/lib/viaggi-filtri'
+import { getArea } from '@/lib/aree'
+import { copertine } from '@/lib/i18n/contenuti'
 import { pageMetadata } from '@/lib/seo'
 import { seoPaese } from '@/lib/i18n/contenuti'
 import { linguaCorrente } from '@/lib/i18n/server'
@@ -30,7 +34,8 @@ const T = {
   it: {
     itinerarioCompleto: 'Itinerario completo, giorno per giorno — con quello che rifarei e quello che cambierei.',
     durata: 'Durata',
-    giorni13: '13 giorni',
+    altriViaggi: 'Gli altri viaggi nel Paese',
+    altriViaggiDesc: (nome: string) => `Altri itinerari giorno per giorno che passano da ${nome}.`,
     trasporti: 'Trasporti',
     stile: 'Stile',
     ritmo: 'Ritmo',
@@ -66,7 +71,8 @@ const T = {
   en: {
     itinerarioCompleto: "The full itinerary, day by day, including what I'd do again and what I'd change.",
     durata: 'Length',
-    giorni13: '13 days',
+    altriViaggi: 'More trips in the country',
+    altriViaggiDesc: (nome: string) => `Other day-by-day itineraries that pass through ${nome}.`,
     trasporti: 'Transport',
     stile: 'Style',
     ritmo: 'Pace',
@@ -102,7 +108,8 @@ const T = {
   es: {
     itinerarioCompleto: 'El itinerario completo, día a día, con lo que repetiría y lo que cambiaría.',
     durata: 'Duración',
-    giorni13: '13 días',
+    altriViaggi: 'Otros viajes en el país',
+    altriViaggiDesc: (nome: string) => `Otros itinerarios día a día que pasan por ${nome}.`,
     trasporti: 'Transporte',
     stile: 'Estilo',
     ritmo: 'Ritmo',
@@ -172,7 +179,17 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
   const esperienze = getEsperienzeByPaese(paeseSlug, lingua)
   const tripPrincipale = getViaggioBySlug(paese.tripPrincipaleSlug, lingua)
   const tripMeta = getTripMeta(paese.tripPrincipaleSlug, lingua)
-  const nViaggiPaese = contaViaggiNelPaese(paeseSlug)
+  // tutti i viaggi che toccano il Paese (stesso criterio del filtro ?paese=), il principale a parte
+  const viaggiPaese = getAllViaggi(lingua).filter((v) => paesiDelViaggio(v.slug).includes(paeseSlug))
+  const nViaggiPaese = viaggiPaese.length
+  const copertineViaggi = copertine(lingua)
+  const altriViaggi = viaggiPaese
+    .filter((v) => v.slug !== tripPrincipale?.slug)
+    .slice(0, 3)
+    .map((v) => ({ ...riduciPerScheda(v), copertina: copertineViaggi[v.slug], luogo: datiFiltroViaggio(v, lingua).luogo }))
+  const areaSlug = areaDelPaese(paeseSlug)
+  const areaDati = areaSlug ? getArea(areaSlug) : undefined
+  const area = areaDati ? { slug: areaDati.slug, nome: areaDati.nome[lingua] } : undefined
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -191,6 +208,7 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
           breadcrumbJsonLd([
             { nome: t.home, percorso: '/' },
             { nome: t.destinazioni, percorso: '/destinazioni' },
+            ...(area ? [{ nome: area.nome, percorso: `/aree/${area.slug}` }] : []),
             { nome: paese.nome, percorso: `/destinazioni/${paeseSlug}` },
           ], lingua),
         ]}
@@ -198,15 +216,18 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
       <CountryHero
         paese={paese}
         tripHref={tripPrincipale ? `/viaggi/${tripPrincipale.slug}` : '/viaggi'}
-        destinazioniHref="#destinazioni"
-      />
-
-      {/* Mappa: destinazioni ed esperienze sul contorno vero del Paese */}
-      <MappaPaeseSezione
-        paeseSlug={paeseSlug}
-        nomePaese={paese.nome}
-        destinazioni={destinazioni}
-        esperienze={esperienze}
+        destinazioniHref={destinazioni.length > 0 ? '#destinazioni' : undefined}
+        area={area}
+        viaggio={
+          tripPrincipale
+            ? {
+                durata: tripPrincipale.durataBreve,
+                periodo: tripPrincipale.periodoBreve,
+                budget: tripMeta?.budgetTotale,
+                stile: tripMeta?.stile.slice(0, 4),
+              }
+            : undefined
+        }
       />
 
       {/* Il viaggio che ho fatto io */}
@@ -230,10 +251,12 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
                     </p>
                   )}
                   <dl className="mt-6 flex flex-wrap gap-x-8 gap-y-3 text-sm">
-                    <div>
-                      <dt className="text-xs font-semibold uppercase tracking-wider text-stone/85">{t.durata}</dt>
-                      <dd className="text-ink">{tripPrincipale.durataBreve || t.giorni13}</dd>
-                    </div>
+                    {tripPrincipale.durataBreve && (
+                      <div>
+                        <dt className="text-xs font-semibold uppercase tracking-wider text-stone/85">{t.durata}</dt>
+                        <dd className="text-ink">{tripPrincipale.durataBreve}</dd>
+                      </div>
+                    )}
                     {tripMeta && (
                       <>
                         <div>
@@ -254,27 +277,18 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
                   <div className="mt-8 flex flex-wrap gap-3">
                     <Link
                       href={`/viaggi/${tripPrincipale.slug}`}
-                      className="inline-flex items-center gap-2 rounded-none bg-alpine px-6 py-3 text-sm font-medium text-cream transition-colors hover:bg-alpine-dark"
+                      className="inline-flex min-h-11 items-center gap-2 rounded-none bg-alpine px-6 py-3 text-sm font-medium text-cream transition-colors hover:bg-alpine-dark"
                     >
                       {t.copiaItinerario}
                       <ArrowRight size={15} />
                     </Link>
                     <Link
                       href={`/viaggi/${tripPrincipale.slug}#itinerario-giorno-per-giorno`}
-                      className="inline-flex items-center gap-2 rounded-none border border-alpine/30 px-6 py-3 text-sm font-medium text-alpine transition-colors hover:bg-alpine/5"
+                      className="inline-flex min-h-11 items-center gap-2 rounded-none border border-alpine/30 px-6 py-3 text-sm font-medium text-alpine transition-colors hover:bg-alpine/5"
                     >
                       {t.leggiViaggio}
                     </Link>
                   </div>
-                  {nViaggiPaese >= 2 && (
-                    <Link
-                      href={`/viaggi?paese=${paeseSlug}`}
-                      className="mt-5 inline-flex min-h-11 items-center gap-2 text-sm font-semibold text-rosso underline-offset-4 hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-rosso focus-visible:ring-offset-2"
-                    >
-                      {t.tuttiIViaggi(paese.nome)} ({nViaggiPaese})
-                      <ArrowRight size={15} aria-hidden="true" />
-                    </Link>
-                  )}
                 </div>
 
                 {tripMeta && (
@@ -285,11 +299,36 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
                 )}
               </div>
             </Reveal>
+
+            {/* gli altri viaggi del Paese, se ce ne sono: card come nell'archivio, poi il filtro completo */}
+            {altriViaggi.length > 0 && (
+              <div className="mt-14">
+                <h3 className="font-display text-[clamp(1.4rem,2.4vw,2rem)] text-alpine">{t.altriViaggi}</h3>
+                <p className="mt-2 max-w-2xl text-sm leading-relaxed text-stone">{t.altriViaggiDesc(paese.nome)}</p>
+                <ul className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+                  {altriViaggi.map((v) => (
+                    <li key={v.slug} className="flex">
+                      <ProssimaScheda viaggio={v} />
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+            {nViaggiPaese >= 2 && (
+              <Link
+                href={`/viaggi?paese=${paeseSlug}`}
+                className="mt-6 inline-flex min-h-11 items-center gap-2 text-sm font-semibold text-rosso underline-offset-4 hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-rosso focus-visible:ring-offset-2"
+              >
+                {t.tuttiIViaggi(paese.nome)} ({nViaggiPaese})
+                <ArrowRight size={15} aria-hidden="true" />
+              </Link>
+            )}
           </Container>
         </section>
       )}
 
       {/* Destinazioni */}
+      {destinazioni.length > 0 && (
       <section id="destinazioni" className="scroll-mt-24 border-t border-alpine/10 py-20 sm:py-28">
         <Container>
           <div className="flex items-end justify-between gap-6">
@@ -307,8 +346,10 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
           </Reveal>
         </Container>
       </section>
+      )}
 
       {/* Esperienze */}
+      {esperienze.length > 0 && (
       <section id="esperienze" className="scroll-mt-24 border-t border-alpine/10 py-20 sm:py-28">
         <Container>
           <SectionHeading
@@ -324,8 +365,22 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
           </RevealGroup>
         </Container>
       </section>
+      )}
+
+      {/* Mappa dopo destinazioni ed esperienze: in alto spingeva il viaggio e le card una
+          schermata più giù; qui riassume sul contorno del Paese quello che si è appena visto */}
+      <MappaPaeseSezione
+        paeseSlug={paeseSlug}
+        nomePaese={paese.nome}
+        destinazioni={destinazioni}
+        esperienze={esperienze}
+      />
 
       <FaqPaese paese={paese} />
+
+      {/* le voci consultive del Paese (periodo migliore, durata, budget, stile): prima stavano
+          sotto l'apertura, ora aprono la parte pratica */}
+      <InBrevePaese paese={paese} />
 
       {/* Organizza il viaggio: in fondo, a tendine, per chi cerca il dettaglio pratico */}
       <section id="organizza-il-viaggio" className="scroll-mt-24 border-t border-alpine/10 bg-cream-dark/30 py-20 sm:py-28">

@@ -9,6 +9,8 @@ export const california: Paese = {
   slug: 'california',
   nome: 'California',
   continente: 'Nord America',
+  tipo: 'regione',
+  stato: 'Stati Uniti',
   titolo: 'California on the road: San Francisco, i parchi nazionali, Los Angeles e la Highway 1',
   descrizione:
     'Un anello in auto tra San Francisco, le pareti di granito di Yosemite, le sequoie giganti, il deserto della Death Valley e di Joshua Tree, Los Angeles e la costa di Big Sur: il road trip americano classico, da organizzare tenendo conto di stagioni, strade chiuse e prenotazioni.',

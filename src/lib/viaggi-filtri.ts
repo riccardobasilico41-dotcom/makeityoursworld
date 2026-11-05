@@ -2,7 +2,7 @@ import { AREE } from './aree'
 import { getAllPaesi, getPaese, getTripMeta } from './geo'
 import { getAllViaggi, getViaggioBySlug, type Viaggio } from './viaggi'
 import type { Lingua } from './i18n/config'
-import { giorniDaDurata, normalizza, stiliDaCategorie, type OpzionePaese } from './viaggi-filtri-stato'
+import { giorniDaDurata, mesiDaPeriodo, normalizza, stiliDaCategorie, type OpzionePaese } from './viaggi-filtri-stato'
 
 /*
  * Filtri dell'archivio /viaggi, lato server: Paesi e aree di ogni viaggio. La parte che
@@ -55,6 +55,27 @@ export function contaViaggiNellArea(areaSlug: string): number {
 }
 
 /**
+ * Viaggi il cui periodo si legge come un mese preciso ma è la finestra scelta per
+ * l'itinerario, non quella in cui è stato fatto: brasile spiega perché luglio-agosto
+ * («quando le lagune… sono piene») e non ha ricordi personali; rotte-dei-vini ha il periodo
+ * in grassetto come tutte le finestre consigliate («settembre-ottobre, in vendemmia»).
+ * Restano senza mese finché l'autore non conferma; elenco completo in docs/ux/mesi-viaggi.md.
+ */
+const MESI_DA_CONFERMARE = new Set(['brasile-itinerario', 'rotte-dei-vini-itinerario'])
+
+/** Mesi (1-12) in cui è stato fatto il viaggio, dal «Periodo del viaggio» italiano. Vuoto se non è certo. */
+export function mesiDelViaggio(slug: string): number[] {
+  if (MESI_DA_CONFERMARE.has(slug)) return []
+  const v = getViaggioBySlug(slug, 'it')
+  return v ? mesiDaPeriodo(v.periodo) : []
+}
+
+/** Viaggi fatti in un mese (1-12), nell'ordine dell'archivio. Per la home («Dove sono stato a luglio»). */
+export function viaggiDelMese(mese: number, lingua: Lingua): Viaggio[] {
+  return getAllViaggi(lingua).filter((v) => mesiDelViaggio(v.slug).includes(mese))
+}
+
+/**
  * Campi per i filtri di un viaggio. Giorni e stili si leggono dal markdown italiano (le
  * categorie e i tag italiani sono le chiavi degli stili), i testi della ricerca dalla lingua.
  */
@@ -68,6 +89,7 @@ export function datiFiltroViaggio(v: Viaggio, lingua: Lingua) {
     aree: areeDelViaggio(v.slug),
     giorni: giorniDaDurata(it.durata),
     stili: stiliDaCategorie(it.categorie, it.tags),
+    mesi: mesiDelViaggio(v.slug),
     ricerca: normalizza([v.titolo, v.descrizione, ...nomiPaesi, ...tappe].join(' ')),
     luogo: nomiPaesi.length ? nomiPaesi.join(' · ') : undefined,
   }

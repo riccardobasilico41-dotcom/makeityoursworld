@@ -1,189 +1,116 @@
-'use client'
-
-import { useRef, useEffect, useState } from 'react'
 import Link from '@/components/ui/Link'
 import Image from 'next/image'
-import { ArrowRight } from 'lucide-react'
+import { ArrowRight, CalendarDays, Clock } from 'lucide-react'
 import { Container } from '@/components/ui/Container'
-import { RouteLine } from './RouteLine'
-import type { PuntoTappa } from './geo'
-import { useLingua } from '@/lib/i18n/LinguaProvider'
+import { Reveal } from '@/components/Reveal'
 import type { Lingua } from '@/lib/i18n/config'
 
 const T = {
-  it: { inEvidenza: 'Il viaggio in evidenza', leggi: "Leggi l'itinerario completo" },
-  en: { inEvidenza: 'Featured trip', leggi: 'Read the full itinerary' },
-  es: { inEvidenza: 'El viaje destacado', leggi: 'Lee el itinerario completo' },
-} satisfies Record<Lingua, Record<string, string>>
-
-// gsap si scarica solo dove serve il pin (schermi larghi, senza riduzione del movimento):
-// sul telefono non arriva mai, e non pesa sulle altre pagine che precaricano la Home.
-const QUERY_PIN = '(min-width: 1024px) and (prefers-reduced-motion: no-preference)'
-
-export type BeatViaggio = {
-  eyebrow: string
-  contenuto: React.ReactNode
-}
+  it: { inEvidenza: 'Il viaggio in evidenza', tappe: 'Le tappe', leggi: "Leggi l'itinerario completo", altre: (n: number) => `e altre ${n}` },
+  en: { inEvidenza: 'Featured trip', tappe: 'The stops', leggi: 'Read the full itinerary', altre: (n: number) => `and ${n} more` },
+  es: { inEvidenza: 'El viaje destacado', tappe: 'Las paradas', leggi: 'Lee el itinerario completo', altre: (n: number) => `y ${n} más` },
+} satisfies Record<Lingua, Record<string, string | ((n: number) => string)>>
 
 /**
- * Racconto in scena fissa del viaggio in evidenza: tre battute (apertura →
- * percorso → giorno più forte) che si alternano mentre la sezione resta
- * ancorata a schermo per un tratto di scroll. Motivazione dell'animazione:
- * imita il ritmo di uno storytelling a capitoli invece di far scorrere tre
- * blocchi in sequenza — è l'unico punto del sito che usa il pin dello
- * scroll, perché è l'unico caso in cui il pin comunica qualcosa (la
- * sensazione di "un unico viaggio in tre atti") che uno scroll normale no.
- *
- * Il pin è attivo solo da `lg` in su e solo senza `prefers-reduced-motion`:
- * sotto quella soglia (mobile, o riduzione del movimento richiesta) le tre
- * battute si leggono in sequenza normale, senza alcun pin — non è l'effetto
- * desktop "disattivato", è la versione dell'esperienza pensata per quel
- * contesto.
+ * Il viaggio in evidenza della Home, in una schermata: foto, apertura, le prime tappe e
+ * la CTA verso l'itinerario. Prima era un racconto in tre battute con lo scroll ancorato
+ * (gsap, 270vh): ritmo e punto forte restano nella pagina del viaggio, qui non si ripetono.
  */
 export function FeaturedJourney({
+  lingua,
   titolo,
   href,
+  apertura,
   tappe,
-  paeseSlug,
-  battute,
+  durata,
+  periodo,
   copertina,
 }: {
+  lingua: Lingua
   titolo: string
   href: string
-  tappe: PuntoTappa[]
-  paeseSlug?: string
-  battute: [BeatViaggio, BeatViaggio, BeatViaggio]
-  /** Foto di copertina del viaggio, sopra il percorso. */
+  apertura: string
+  /** Nomi delle tappe, già senza doppioni, nell'ordine del viaggio. */
+  tappe: string[]
+  durata?: string
+  periodo?: string
   copertina?: { immagine: string; imageAlt: string }
 }) {
-  const t = T[useLingua()]
-  const wrapperRef = useRef<HTMLDivElement>(null)
-  const beatRefs = useRef<(HTMLDivElement | null)[]>([])
-  const [pinAttivo, setPinAttivo] = useState(false)
-
-  useEffect(() => {
-    if (!wrapperRef.current) return
-
-    const mq = window.matchMedia(QUERY_PIN)
-    let annullato = false
-    let caricato = false
-    let revert: (() => void) | undefined
-
-    async function avvia() {
-      if (caricato || !mq.matches) return
-      caricato = true
-      const [{ gsap }, { ScrollTrigger }] = await Promise.all([import('gsap'), import('gsap/ScrollTrigger')])
-      if (annullato) return
-      gsap.registerPlugin(ScrollTrigger)
-
-      const mm = gsap.matchMedia()
-      revert = () => mm.revert()
-
-      mm.add(
-        { pinnable: QUERY_PIN },
-        (context) => {
-          const { pinnable } = context.conditions as { pinnable: boolean }
-          if (!pinnable) {
-            setPinAttivo(false)
-            return
-          }
-          setPinAttivo(true)
-
-          const ctx = gsap.context(() => {
-            const beats = beatRefs.current.filter((b): b is HTMLDivElement => b !== null)
-            gsap.set(beats.slice(1), { autoAlpha: 0, y: 24 })
-
-            const tl = gsap.timeline({
-              scrollTrigger: {
-                trigger: wrapperRef.current,
-                start: 'top top',
-                end: `+=${beats.length * 90}%`,
-                pin: true,
-                scrub: 0.6,
-              },
-            })
-
-            beats.forEach((beat, i) => {
-              if (i === 0) return
-              tl.to(beats[i - 1], { autoAlpha: 0, y: -24, duration: 0.4 }, i - 0.5)
-              tl.to(beat, { autoAlpha: 1, y: 0, duration: 0.4 }, i - 0.5)
-            })
-          }, wrapperRef)
-
-          return () => ctx.revert()
-        }
-      )
-    }
-
-    avvia()
-    mq.addEventListener('change', avvia)
-    return () => {
-      annullato = true
-      mq.removeEventListener('change', avvia)
-      revert?.()
-    }
-  }, [])
+  const t = T[lingua]
+  const prime = tappe.slice(0, 4)
+  const resto = tappe.length - prime.length
 
   return (
-    <section className="border-t border-alpine/10 bg-cream-dark/40">
-      <Container className="py-16 sm:py-20">
-        <p className="text-xs font-semibold uppercase tracking-[0.2em] text-rosso">{t.inEvidenza}</p>
-        <h2 className="mt-3 max-w-2xl font-display text-[clamp(2rem,3.4vw,3rem)] text-balance text-alpine">
-          {titolo}
-        </h2>
-      </Container>
-
-      <div ref={wrapperRef} className={pinAttivo ? 'relative h-[270vh]' : 'relative'}>
-        <div className={pinAttivo ? 'sticky top-0 flex min-h-[100dvh] items-center overflow-hidden' : 'space-y-16 py-4'}>
-          <Container className="w-full">
-            <div className="grid gap-10 lg:grid-cols-[1.3fr_1fr] lg:items-center">
-              <div className={pinAttivo ? 'relative' : 'space-y-12'}>
-                {battute.map((beat, i) => (
-                  <div
-                    key={beat.eyebrow}
-                    ref={(el) => {
-                      beatRefs.current[i] = el
-                    }}
-                    className={pinAttivo && i > 0 ? 'absolute inset-x-0 top-0' : ''}
-                  >
-                    <p className="font-mono text-xs uppercase tracking-[0.2em] text-stone/85">{beat.eyebrow}</p>
-                    <div className="mt-4">{beat.contenuto}</div>
-                  </div>
-                ))}
-              </div>
-
-              <div className="text-stone">
-                {copertina && (
-                  <div className="relative mb-6 aspect-[4/3] w-full overflow-hidden border-2 border-ink">
-                    <Image
-                      src={copertina.immagine}
-                      alt={copertina.imageAlt}
-                      fill
-                      sizes="(min-width: 1024px) 40vw, 100vw"
-                      className="object-cover"
-                    />
-                  </div>
-                )}
-                <RouteLine
-                  tappe={tappe}
-                  paeseSlug={paeseSlug}
-                  strokeClassName="stroke-alpine/50"
-                  labelClassName="text-alpine"
-                  className="h-40"
+    <section aria-labelledby="evidenza-titolo" className="border-t border-alpine/10 bg-cream-dark/40 py-14 sm:py-20">
+      <Container>
+        <Reveal>
+          <div className="grid gap-8 lg:grid-cols-[1fr_1.1fr] lg:items-center lg:gap-14">
+            {copertina && (
+              <Link
+                href={href}
+                tabIndex={-1}
+                aria-hidden="true"
+                className="relative block aspect-[4/3] w-full overflow-hidden border-2 border-ink shadow-[6px_6px_0_var(--color-rosso)]"
+              >
+                <Image
+                  src={copertina.immagine}
+                  alt={copertina.imageAlt}
+                  fill
+                  sizes="(min-width: 1024px) 34rem, calc(100vw - 3rem)"
+                  className="object-cover"
                 />
-              </div>
-            </div>
+              </Link>
+            )}
 
-            <Link
-              href={href}
-              className="group mt-10 inline-flex items-center gap-2 text-sm font-medium text-rosso hover:text-rosso-dark"
-            >
-              {t.leggi}
-              <ArrowRight size={15} className="transition-transform group-hover:translate-x-1" />
-            </Link>
-          </Container>
-        </div>
-      </div>
+            <div className="min-w-0">
+              <p className="text-xs font-semibold uppercase tracking-[0.2em] text-rosso">{t.inEvidenza}</p>
+              <h2 id="evidenza-titolo" className="mt-3 font-display text-[clamp(1.8rem,3vw,2.6rem)] leading-tight text-balance text-alpine">
+                {titolo}
+              </h2>
+              {(durata || periodo) && (
+                <p className="mt-3 flex flex-wrap gap-x-5 gap-y-1 text-xs text-stone">
+                  {durata && (
+                    <span className="inline-flex items-center gap-1.5">
+                      <Clock size={14} aria-hidden className="text-rosso" />
+                      {durata}
+                    </span>
+                  )}
+                  {periodo && (
+                    <span className="inline-flex items-center gap-1.5">
+                      <CalendarDays size={14} aria-hidden className="text-rosso" />
+                      {periodo}
+                    </span>
+                  )}
+                </p>
+              )}
+              <p className="mt-5 line-clamp-5 font-display text-lg italic leading-relaxed text-alpine sm:text-xl">{apertura}</p>
+
+              {prime.length > 0 && (
+                <div className="mt-6">
+                  <p className="font-mono text-xs uppercase tracking-[0.2em] text-stone/85">{t.tappe}</p>
+                  <ol className="mt-3 flex flex-wrap items-center gap-2 text-sm text-ink">
+                    {prime.map((nome, i) => (
+                      <li key={nome} className="inline-flex max-w-full items-center gap-2 border-2 border-ink bg-white px-2.5 py-1">
+                        <span className="font-mono text-[11px] text-rosso">{String(i + 1).padStart(2, '0')}</span>
+                        {nome}
+                      </li>
+                    ))}
+                    {resto > 0 && <li className="text-xs text-stone">{t.altre(resto)}</li>}
+                  </ol>
+                </div>
+              )}
+
+              <Link
+                href={href}
+                className="mt-8 inline-flex min-h-12 items-center gap-2 bg-rosso px-6 py-3 text-[0.95rem] font-semibold text-cream transition-colors duration-150 hover:bg-rosso-dark focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-rosso focus-visible:ring-offset-2"
+              >
+                {t.leggi}
+                <ArrowRight size={15} aria-hidden />
+              </Link>
+            </div>
+          </div>
+        </Reveal>
+      </Container>
     </section>
   )
 }

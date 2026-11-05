@@ -4,6 +4,8 @@ export const transilvania: Paese = {
   slug: 'transilvania',
   nome: 'Transilvania',
   continente: 'Europa',
+  tipo: 'regione',
+  stato: 'Rumanía',
   titolo: 'Transilvania Express en 5 días: castillos, salinas subterráneas y la carretera más bonita del mundo',
   descrizione:
     'Cinco días a tope on the road entre Valaquia y Transilvania: el Castillo de Peleș, el «Castillo de Drácula» en Bran, las salinas subterráneas de Salina Turda y la Transfăgărășan, una de las carreteras panorámicas más famosas del mundo, entre curvas de montaña y avistamientos de osos desde la ventanilla.',

@@ -4,6 +4,8 @@ export const newYork: Paese = {
   slug: 'new-york',
   nome: 'Nueva York',
   continente: 'Nord America',
+  tipo: 'regione',
+  stato: 'Estados Unidos',
   titolo: 'Nueva York: rascacielos, barrios y un partido cada uno entre béisbol y baloncesto',
   descrizione:
     'Seis días en Nueva York, 15-20 km a pie al día: Times Square de noche, el atardecer desde el Top of the Rock, la Estatua de la Libertad, un musical en Broadway, DUMBO con el puente de Manhattan al fondo y un partido en directo, béisbol en plena carrera por los playoffs o baloncesto de la WNBA con las New York Liberty. El programa es más rico de lo que se consigue hacer en una semana, a propósito: hay que elegir las prioridades.',

@@ -4,6 +4,8 @@ export const florida: Paese = {
   slug: 'florida',
   nome: 'Florida',
   continente: 'Nord America',
+  tipo: 'regione',
+  stato: 'United States',
   titolo: 'Florida in 10 days: from the Keys to Orlando, on the road among alligators, beaches and rockets',
   descrizione:
     "Ten days and almost 1,800 km at the wheel: the turquoise of the Keys, the Everglades swamp, the golden kitsch of Orlando and the NASA rockets at Cape Canaveral, and to finish the beaches and nightlife of Miami Beach.",

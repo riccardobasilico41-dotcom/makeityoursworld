@@ -12,7 +12,7 @@ import { plain } from '@/components/ui/Rich'
 import type { Lingua } from '@/lib/i18n/config'
 
 /** I nostri viaggi migliori, nell'ordine in cui compaiono nella fila. */
-const TOP = [
+export const TOP = [
   'lofoten-estate-2025',
   'islanda-2024',
   'india-rajasthan-varanasi',

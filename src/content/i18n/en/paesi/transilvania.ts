@@ -4,6 +4,8 @@ export const transilvania: Paese = {
   slug: 'transilvania',
   nome: 'Transylvania',
   continente: 'Europa',
+  tipo: 'regione',
+  stato: 'Romania',
   titolo: 'Transylvania Express in 5 Days: Castles, Underground Salt Mines and the Most Beautiful Road in the World',
   descrizione:
     'Five full days on the road between Wallachia and Transylvania: Peleș Castle, the "Dracula\'s Castle" at Bran, the underground salt mine of Salina Turda and the Transfăgărășan, one of the most famous scenic roads in the world, with mountain hairpin bends and bear sightings from the car window.',

@@ -66,7 +66,8 @@ function distanza([a1, o1]: [number, number], [a2, o2]: [number, number]) {
   return Math.hypot(x, y)
 }
 
-function scegli(slug: string, lingua: Lingua): string | undefined {
+/** Slug del viaggio consigliato come prossima lettura (anche per non ripeterlo in «Altre guide»). */
+export function scegliProssima(slug: string, lingua: Lingua): string | undefined {
   const viaggi = new Set(getAllViaggi(lingua).map((v) => v.slug))
   const scelto = ABBINAMENTI[slug]
   if (scelto && viaggi.has(scelto)) return scelto
@@ -81,7 +82,7 @@ function scegli(slug: string, lingua: Lingua): string | undefined {
 }
 
 export function ProssimaDestinazione({ slug, lingua }: { slug: string; lingua: Lingua }) {
-  const prossimo = scegli(slug, lingua)
+  const prossimo = scegliProssima(slug, lingua)
   const viaggio = prossimo ? getAllViaggi(lingua).find((v) => v.slug === prossimo) : undefined
   if (!viaggio) return null
   const t = T[lingua]

@@ -42,6 +42,14 @@ export type Paese = {
   nome: string
   /** Macro-regione di appartenenza, usata per raggruppare l'indice Destinazioni. Vedi CONTINENTI in src/lib/utils.ts. */
   continente: string
+  /**
+   * 'regione' per le schede che non sono uno Stato sovrano (Transilvania, Florida, New York,
+   * California, Borneo malese): non contano come Paese nei contatori e si mostrano con lo
+   * Stato accanto. Assente = Paese.
+   */
+  tipo?: 'paese' | 'regione'
+  /** Nome dello Stato sovrano di una regione, nella lingua della scheda (es. «Romania»). */
+  stato?: string
   /** Scheda pratica completa. Assente finché il Paese non è stato ricercato: la UI mostra la sezione solo se presente. */
   scheda?: SchedaPaese
   titolo: string

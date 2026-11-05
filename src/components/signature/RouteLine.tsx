@@ -30,6 +30,8 @@ export function RouteLine({
   className = '',
   strokeClassName = 'stroke-cream/40',
   labelClassName = 'text-cream/70',
+  evidenzia,
+  elenco = true,
 }: {
   tappe: PuntoTappa[]
   paeseSlug?: string
@@ -37,6 +39,10 @@ export function RouteLine({
   className?: string
   strokeClassName?: string
   labelClassName?: string
+  /** Indici delle tappe da evidenziare (la tappa del giorno che si sta leggendo, nella pagina viaggio). */
+  evidenzia?: number[]
+  /** `false` nasconde l'elenco delle tappe sotto la linea (mappa compatta laterale). */
+  elenco?: boolean
 }) {
   const lingua = useLingua()
   const reduceMotion = useReducedMotion()
@@ -106,13 +112,23 @@ export function RouteLine({
             }
           />
         ))}
+        {/* la tappa del giorno: un anello rosso fermo, senza animazione (cambia con lo scroll) */}
+        {punti.map((p, i) =>
+          evidenzia?.includes(i) ? (
+            <g key={`evidenziata-${p.nome}-${i}`} aria-hidden="true">
+              <circle cx={p.x} cy={p.y} r={2.4} className="fill-none stroke-rosso" strokeWidth={0.5} />
+              <circle cx={p.x} cy={p.y} r={1.2} className="fill-rosso" />
+            </g>
+          ) : null,
+        )}
       </svg>
 
-      <ul className="mt-3 flex flex-wrap gap-x-6 gap-y-2">
+      {elenco && <ul className="mt-3 flex flex-wrap gap-x-6 gap-y-2">
         {punti.map((p, i) => {
+          const qui = evidenzia?.includes(i)
           const contenuto = (
             <>
-              <span className={`font-display text-sm font-medium ${labelClassName}`}>{p.nome}</span>
+              <span className={`font-display text-sm font-medium ${qui ? 'font-semibold text-rosso' : labelClassName}`}>{p.nome}</span>
               {p.coordinateLabel && (
                 <span className="ml-2 font-mono text-[0.65rem] tabular-nums text-current/60">
                   {p.coordinateLabel}
@@ -121,7 +137,7 @@ export function RouteLine({
             </>
           )
           return (
-            <li key={`${p.nome}-${i}`}>
+            <li key={`${p.nome}-${i}`} aria-current={qui ? 'location' : undefined}>
               {p.destinazioneSlug && paeseSlug ? (
                 <Link
                   href={`/destinazioni/${paeseSlug}/${p.destinazioneSlug}`}
@@ -135,8 +151,7 @@ export function RouteLine({
             </li>
           )
         })}
-      </ul>
-
+      </ul>}
     </div>
   )
 }

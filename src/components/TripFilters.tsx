@@ -11,6 +11,7 @@ import { etichetta } from '@/lib/i18n/etichette'
 import type { Lingua } from '@/lib/i18n/config'
 import {
   FASCE_DURATA,
+  NOMI_MESI,
   STATO_VUOTO,
   STILI_NOTI,
   leggiStato,
@@ -32,6 +33,8 @@ const T = {
     paese: 'Paese',
     durata: 'Durata',
     stile: 'Tipologia',
+    mese: 'Mese del viaggio',
+    meseNota: 'Quando l’ho fatto io, non il periodo migliore',
     tutte: 'Tutte',
     tutti: 'Tutti',
     ricerca: 'Ricerca',
@@ -52,6 +55,8 @@ const T = {
     nessunoTesto: 'Togli uno dei filtri o azzerali tutti per tornare al catalogo completo.',
     togli: (filtro: string, n: number) => `Togli ${filtro}: ${n} ${n === 1 ? 'viaggio' : 'viaggi'}`,
     altrove: 'Altrove',
+    mostraAltri: (n: number, resto: number) => (n === resto ? `Mostra altri ${n}` : `Mostra altri ${n} (ne restano ${resto})`),
+    mostraAltriAria: (n: number, gruppo: string) => `Mostra altri ${n} viaggi: ${gruppo}`,
     fasce: { weekend: 'Weekend (1-3 giorni)', '4-7': '4-7 giorni', '8-14': '8-14 giorni', '15+': '15 giorni e più' } as Record<string, string>,
   },
   en: {
@@ -61,6 +66,8 @@ const T = {
     paese: 'Country',
     durata: 'Length',
     stile: 'Type',
+    mese: 'Month of the trip',
+    meseNota: 'When I went, not the best time to go',
     tutte: 'All',
     tutti: 'All',
     ricerca: 'Search',
@@ -80,6 +87,8 @@ const T = {
     nessunoTesto: 'Remove one of the filters, or clear them all to get back to the full catalog.',
     togli: (filtro: string, n: number) => `Remove ${filtro}: ${n} ${n === 1 ? 'trip' : 'trips'}`,
     altrove: 'Elsewhere',
+    mostraAltri: (n: number, resto: number) => (n === resto ? `Show ${n} more` : `Show ${n} more (${resto} left)`),
+    mostraAltriAria: (n: number, gruppo: string) => `Show ${n} more trips: ${gruppo}`,
     fasce: { weekend: 'Weekend (1-3 days)', '4-7': '4-7 days', '8-14': '8-14 days', '15+': '15+ days' } as Record<string, string>,
   },
   es: {
@@ -89,6 +98,8 @@ const T = {
     paese: 'País',
     durata: 'Duración',
     stile: 'Tipo',
+    mese: 'Mes del viaje',
+    meseNota: 'Cuándo lo hice yo, no la mejor época',
     tutte: 'Todas',
     tutti: 'Todos',
     ricerca: 'Búsqueda',
@@ -108,6 +119,8 @@ const T = {
     nessunoTesto: 'Quita uno de los filtros o bórralos todos para volver al catálogo completo.',
     togli: (filtro: string, n: number) => `Quitar ${filtro}: ${n} ${n === 1 ? 'viaje' : 'viajes'}`,
     altrove: 'En otros lugares',
+    mostraAltri: (n: number, resto: number) => (n === resto ? `Mostrar ${n} más` : `Mostrar ${n} más (quedan ${resto})`),
+    mostraAltriAria: (n: number, gruppo: string) => `Mostrar ${n} viajes más: ${gruppo}`,
     fasce: { weekend: 'Fin de semana (1-3 días)', '4-7': '4-7 días', '8-14': '8-14 días', '15+': '15 días o más' } as Record<string, string>,
   },
 } satisfies Record<Lingua, unknown>
@@ -121,6 +134,11 @@ const SELECT = `min-h-11 w-full rounded-none border-2 border-ink bg-white px-3 t
 const ETICHETTA = 'mb-1.5 block text-xs font-semibold uppercase tracking-wider text-stone'
 
 const maiuscola = (s: string) => s.charAt(0).toUpperCase() + s.slice(1)
+
+/** Card visibili all'inizio per gruppo (vista per area) o in tutto (vista per durata), e a ogni «Mostra altri». */
+const PASSO_GRUPPO = 12
+const PASSO_LISTA = 24
+const MESI = Array.from({ length: 12 }, (_, i) => String(i + 1))
 
 /**
  * Catalogo dell'archivio /viaggi: ricerca, area, Paese, durata e tipologia combinabili e
@@ -191,17 +209,18 @@ function Catalogo({
   }, [qTesto, stato.q, aggiorna])
 
   const filtri: Filtri = useMemo(
-    () => ({ q: qTesto.trim(), area: stato.area, paese: stato.paese, durata: stato.durata, stile: stato.stile }),
-    [qTesto, stato.area, stato.paese, stato.durata, stato.stile]
+    () => ({ q: qTesto.trim(), area: stato.area, paese: stato.paese, durata: stato.durata, stile: stato.stile, mese: stato.mese }),
+    [qTesto, stato.area, stato.paese, stato.durata, stato.stile, stato.mese]
   )
 
   const nomePaese = useMemo(() => new Map(paesi.map((p) => [p.slug, p.nome])), [paesi])
-  const nomeChiave: Record<ChiaveFiltro, string> = { q: t.ricerca, area: t.area, paese: t.paese, durata: t.durata, stile: t.stile }
+  const nomeChiave: Record<ChiaveFiltro, string> = { q: t.ricerca, area: t.area, paese: t.paese, durata: t.durata, stile: t.stile, mese: t.mese }
   const valoreLeggibile = (k: ChiaveFiltro, v: string): string => {
     if (k === 'area') return AREE.find((a) => a.slug === v)?.nome[lingua] ?? v
     if (k === 'paese') return nomePaese.get(v) ?? v
     if (k === 'durata') return t.fasce[v] ?? v
     if (k === 'stile') return maiuscola(etichetta(v, lingua))
+    if (k === 'mese') return maiuscola(NOMI_MESI[lingua][Number(v) - 1] ?? v)
     return `«${v}»`
   }
 
@@ -219,12 +238,12 @@ function Catalogo({
     if (filtri.q && !s.includes('q')) s.push('q')
     return s
   }, [stato.sequenza, filtri])
-  const nelPannello = (['area', 'paese', 'durata', 'stile'] as const).filter((k) => filtri[k]).length
+  const nelPannello = (['area', 'paese', 'durata', 'stile', 'mese'] as const).filter((k) => filtri[k]).length
 
   const azzera = () => {
     setQTesto('')
     setQInviato('')
-    aggiorna({ q: '', area: '', paese: '', durata: '', stile: '' })
+    aggiorna({ q: '', area: '', paese: '', durata: '', stile: '', mese: '' })
   }
   const togli = (k: ChiaveFiltro) => {
     if (k === 'q') {
@@ -242,15 +261,54 @@ function Catalogo({
     return out.filter((g) => g.items.length > 0)
   }, [filtrati, stato.ordine, lingua, t.altrove])
 
-  const griglia = (items: ViaggioCatalogo[]) => (
-    <RevealGroup className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3" stagger={0.04}>
-      {items.map((viaggio) => (
-        <RevealItem key={viaggio.slug}>
-          <TripCard viaggio={viaggio} />
-        </RevealItem>
-      ))}
-    </RevealGroup>
-  )
+  // «Mostra altri»: quante card si vedono per gruppo (o nella lista per durata). I filtri e i
+  // conteggi lavorano sempre su tutti i viaggi; cambiando filtri o ordine si riparte dal primo passo.
+  const chiaveVista = `${JSON.stringify(filtri)}|${stato.ordine}`
+  const [visibili, setVisibili] = useState<{ chiave: string; n: Record<string, number> }>({ chiave: chiaveVista, n: {} })
+  if (visibili.chiave !== chiaveVista) setVisibili({ chiave: chiaveVista, n: {} })
+  const fuoco = useRef<{ id: string; indice: number } | null>(null)
+  useEffect(() => {
+    const f = fuoco.current
+    if (!f) return
+    fuoco.current = null
+    // dopo «Mostra altri» il fuoco va sulla prima card nuova, non resta su un pulsante che si sposta
+    document.querySelector<HTMLElement>(`#griglia-${f.id} > * > :nth-child(${f.indice + 1}) a`)?.focus()
+  }, [visibili])
+
+  const griglia = (id: string, nome: string, items: ViaggioCatalogo[], passo: number) => {
+    const quanti = visibili.n[id] ?? passo
+    const resto = items.length - quanti
+    const prossimi = Math.min(passo, resto)
+    return (
+      <>
+        <div id={`griglia-${id}`}>
+          <RevealGroup className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3" stagger={0.04}>
+            {items.slice(0, quanti).map((viaggio) => (
+              <RevealItem key={viaggio.slug}>
+                <TripCard viaggio={viaggio} />
+              </RevealItem>
+            ))}
+          </RevealGroup>
+        </div>
+        {resto > 0 && (
+          <div className="mt-6 flex justify-center">
+            <button
+              type="button"
+              aria-controls={`griglia-${id}`}
+              aria-label={t.mostraAltriAria(prossimi, nome)}
+              onClick={() => {
+                setVisibili((v) => ({ ...v, n: { ...v.n, [id]: quanti + passo } }))
+                fuoco.current = { id, indice: quanti }
+              }}
+              className={`inline-flex min-h-12 items-center border-2 border-ink bg-white px-6 text-sm font-semibold text-ink transition-colors duration-150 hover:bg-ink hover:text-cream ${FOCUS}`}
+            >
+              {t.mostraAltri(prossimi, resto)}
+            </button>
+          </div>
+        )}
+      </>
+    )
+  }
 
   const controlli = (
     <Controlli
@@ -265,8 +323,8 @@ function Catalogo({
 
   return (
     <div>
-      <div className="grid gap-4 md:grid-cols-4 lg:grid-cols-[minmax(0,1.5fr)_repeat(4,minmax(0,1fr))]">
-        <div className="md:col-span-4 lg:col-span-1">
+      <div className="grid gap-4 md:grid-cols-5 lg:grid-cols-[minmax(0,1.5fr)_repeat(5,minmax(0,1fr))]">
+        <div className="md:col-span-5 lg:col-span-1">
           <label htmlFor={idCerca} className={ETICHETTA}>
             {t.cerca}
           </label>
@@ -377,7 +435,7 @@ function Catalogo({
             {nelPannello > 0 && (
               <button
                 type="button"
-                onClick={() => aggiorna({ area: '', paese: '', durata: '', stile: '' })}
+                onClick={() => aggiorna({ area: '', paese: '', durata: '', stile: '', mese: '' })}
                 className={`inline-flex min-h-11 items-center px-2 text-sm font-semibold text-rosso underline-offset-4 hover:underline ${FOCUS}`}
               >
                 {t.azzera}
@@ -405,14 +463,14 @@ function Catalogo({
                     {g.items.length} {g.items.length === 1 ? t.viaggio : t.viaggi}
                   </span>
                 </div>
-                {griglia(g.items)}
+                {griglia(g.id, g.nome, g.items, PASSO_GRUPPO)}
               </div>
             ))}
           </div>
         ) : (
           <div className="mt-4">
             <h2 className="sr-only">{t.ordini[stato.ordine]}</h2>
-            {griglia(filtrati)}
+            {griglia('lista', t.ordini[stato.ordine], filtrati, PASSO_LISTA)}
           </div>
         )
       ) : (
@@ -446,7 +504,7 @@ function Campo({ id, label, children }: { id: string; label: string; children: R
   )
 }
 
-/** Area, Paese, durata e tipologia, con quanti viaggi resterebbero scegliendo ciascuna opzione. */
+/** Area, Paese, durata, tipologia e mese, con quanti viaggi resterebbero scegliendo ciascuna opzione. */
 function Controlli({
   t,
   lingua,
@@ -510,6 +568,21 @@ function Controlli({
           <option value="">{t.tutte}</option>
           {STILI_NOTI.map((s) => opzione(s, maiuscola(etichetta(s, lingua)), conta({ ...filtri, stile: s }), filtri.stile === s))}
         </select>
+      </Campo>
+      <Campo id={`${id}-mese`} label={t.mese}>
+        <select
+          id={`${id}-mese`}
+          value={filtri.mese}
+          onChange={(e) => aggiorna({ mese: e.target.value })}
+          aria-describedby={`${id}-mese-nota`}
+          className={SELECT}
+        >
+          <option value="">{t.tutti}</option>
+          {MESI.map((m) => opzione(m, maiuscola(NOMI_MESI[lingua][Number(m) - 1]), conta({ ...filtri, mese: m }), filtri.mese === m))}
+        </select>
+        <p id={`${id}-mese-nota`} className="mt-1 text-xs leading-snug text-stone">
+          {t.meseNota}
+        </p>
       </Campo>
     </>
   )

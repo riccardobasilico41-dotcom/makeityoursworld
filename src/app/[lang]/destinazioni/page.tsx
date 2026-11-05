@@ -5,7 +5,7 @@ import { ArrowUpRight } from 'lucide-react'
 import { Container } from '@/components/ui/Container'
 import { PageHeader } from '@/components/ui/PageHeader'
 import { RevealGroup, RevealItem } from '@/components/Reveal'
-import { getAllPaesi } from '@/lib/geo'
+import { contaPaesi, getAllPaesi } from '@/lib/geo'
 import { raggruppaPerContinente } from '@/lib/utils'
 import { siteConfig } from '@/lib/site-config'
 import { pageMetadata } from '@/lib/seo'
@@ -85,7 +85,7 @@ export default async function DestinazioniIndexPage() {
         eyebrow={t.eyebrow}
         title={t.titolo}
         lead={
-          <p>{t.lead(paesi.length)}</p>
+          <p>{t.lead(contaPaesi(paesi))}</p>
         }
       />
       <MappaMondoSezione />
@@ -108,7 +108,7 @@ export default async function DestinazioniIndexPage() {
                   })()}
                 </h2>
                 <span className="text-xs font-semibold uppercase tracking-[0.18em] text-stone/85">
-                  {items.length} {items.length === 1 ? t.paese : t.paesi}
+                  {contaPaesi(items)} {contaPaesi(items) === 1 ? t.paese : t.paesi}
                 </span>
               </div>
 

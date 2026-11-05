@@ -4,6 +4,8 @@ export const borneo: Paese = {
   slug: 'borneo',
   nome: 'Malaysian Borneo',
   continente: 'Asia',
+  tipo: 'regione',
+  stato: 'Malaysia',
   titolo: 'Borneo: orangutans, primary forest and one of the most beautiful reefs on the planet',
   descrizione:
     "It's the third-largest island in the world, split among three countries: Malaysia (Sabah and Sarawak), Brunei and Indonesia (Kalimantan). This guide covers the Malaysian part. Here you see orangutans, climb the highest mountain in Southeast Asia between the Himalayas and New Guinea, and dive at Sipadan, which many consider the best dive site in the world. Here you also see, better than anywhere else, what palm oil has done: you land over a green carpet that looks like forest and isn't.",

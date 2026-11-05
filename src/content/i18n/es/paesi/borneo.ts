@@ -4,6 +4,8 @@ export const borneo: Paese = {
   slug: 'borneo',
   nome: "Borneo malayo",
   continente: 'Asia',
+  tipo: 'regione',
+  stato: 'Malasia',
   titolo: "Borneo: orangutanes, selva primaria y uno de los arrecifes más bellos del planeta",
   descrizione:
     "Es la tercera isla más grande del mundo, repartida entre tres países: Malasia (Sabah y Sarawak), Brunéi e Indonesia (Kalimantan). Esta ficha cubre la parte malaya. Aquí se ven los orangutanes, se sube a la montaña más alta del sudeste asiático entre el Himalaya y Nueva Guinea y se bucea en Sipadan, que para muchos es el mejor sitio de buceo del mundo. Aquí se ve también, mejor que en ningún otro sitio, lo que ha hecho la palma aceitera: se aterriza sobre una alfombra verde que parece selva y no lo es.",

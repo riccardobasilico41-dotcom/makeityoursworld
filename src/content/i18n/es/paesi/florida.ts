@@ -4,6 +4,8 @@ export const florida: Paese = {
   slug: 'florida',
   nome: 'Florida',
   continente: 'Nord America',
+  tipo: 'regione',
+  stato: 'Estados Unidos',
   titolo: 'Florida en 10 días: de los Cayos a Orlando, on the road entre caimanes, playas y cohetes',
   descrizione:
     'Diez días y casi 1.800 km al volante: el turquesa de los Cayos, el pantano de los Everglades, el kitsch dorado de Orlando y los cohetes de la NASA en Cabo Cañaveral, y para terminar las playas y la vida nocturna de Miami Beach.',

@@ -8,7 +8,7 @@ import { PageHeader } from '@/components/ui/PageHeader'
 import { DestinationCard } from '@/components/DestinationCard'
 import { JsonLd } from '@/components/JsonLd'
 import { AREE, getArea } from '@/lib/aree'
-import { getAllPaesi, getDestinazioniByPaese } from '@/lib/geo'
+import { contaPaesi, getAllPaesi, getDestinazioniByPaese } from '@/lib/geo'
 import { contaViaggiNellArea } from '@/lib/viaggi-filtri'
 import { pageMetadata } from '@/lib/seo'
 import { breadcrumbJsonLd, raccoltaJsonLd } from '@/lib/structured-data'
@@ -84,7 +84,9 @@ function datiArea(slug: string, lingua: Lingua) {
   const conDest = paesi.map((p) => ({ paese: p, destinazioni: getDestinazioniByPaese(p.slug, lingua) }))
   const nDest = conDest.reduce((n, x) => n + x.destinazioni.length, 0)
   const nViaggi = contaViaggiNellArea(area.slug)
-  return { area, conDest, nDest, nViaggi }
+  // le regioni (Florida, Transilvania…) contano per il loro Stato, vedi contaPaesi
+  const nPaesi = contaPaesi(paesi)
+  return { area, conDest, nDest, nViaggi, nPaesi }
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ area: string }> }): Promise<Metadata> {
@@ -96,7 +98,7 @@ export async function generateMetadata({ params }: { params: Promise<{ area: str
   const nome = d.area.nome[lingua]
   return pageMetadata({
     title: t.seoTitle(nome),
-    description: t.seoDesc(nome, d.conDest.length, d.nDest, d.nViaggi),
+    description: t.seoDesc(nome, d.nPaesi, d.nDest, d.nViaggi),
     path: `/aree/${slug}`,
     lingua,
   })
@@ -115,7 +117,7 @@ export default async function AreaPage({ params }: { params: Promise<{ area: str
       <JsonLd
         data={[
           breadcrumbJsonLd([
-            { nome: 'Home', percorso: '/' },
+            { nome: t.home, percorso: '/' },
             { nome: t.destinazioni, percorso: '/destinazioni' },
             { nome, percorso: `/aree/${slug}` },
           ], lingua),
@@ -133,7 +135,7 @@ export default async function AreaPage({ params }: { params: Promise<{ area: str
       <PageHeader
         pieno
         crumbs={[{ label: t.home, href: '/' }, { label: t.destinazioni, href: '/destinazioni' }, { label: nome }]}
-        eyebrow={t.eyebrow(d.conDest.length, d.nDest)}
+        eyebrow={t.eyebrow(d.nPaesi, d.nDest)}
         title={nome}
         lead={t.lead(nome)}
         media={{ tipo: 'foto', src: d.area.immagine, alt: d.area.imageAlt[lingua] }}

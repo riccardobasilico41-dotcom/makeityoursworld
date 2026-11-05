@@ -29,6 +29,8 @@ import {
   getTripMeta,
 } from '@/lib/geo'
 import { pageMetadata, primoTitoloCheSta } from '@/lib/seo'
+import { getArea } from '@/lib/aree'
+import { areaDelPaese } from '@/lib/viaggi-filtri'
 import { richNodes } from '@/components/ui/Rich'
 import { linguaCorrente } from '@/lib/i18n/server'
 import { LOCALE, type Lingua } from '@/lib/i18n/config'
@@ -229,6 +231,10 @@ export default async function DestinazionePage({
   for (const e of esperienze) aggiungi(e.immagine, e.imageAlt)
   foto.sort((a, b) => Number(b.src.includes('-riccardo')) - Number(a.src.includes('-riccardo')))
 
+  // Home › Destinazioni › Area › Paese › Destinazione (l'area dal continente del Paese)
+  const areaSlug = areaDelPaese(paeseSlug)
+  const area = areaSlug ? getArea(areaSlug) : undefined
+
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'TouristDestination',
@@ -246,6 +252,7 @@ export default async function DestinazionePage({
           breadcrumbJsonLd([
             { nome: t.home, percorso: '/' },
             { nome: t.destinazioni, percorso: '/destinazioni' },
+            ...(area ? [{ nome: area.nome[lingua], percorso: `/aree/${area.slug}` }] : []),
             { nome: paese.nome, percorso: `/destinazioni/${paeseSlug}` },
             { nome: destinazione.nome, percorso: `/destinazioni/${paeseSlug}/${destinazione.slug}` },
           ], lingua),
@@ -262,6 +269,7 @@ export default async function DestinazionePage({
         crumbs={[
           { label: t.home, href: '/' },
           { label: t.destinazioni, href: '/destinazioni' },
+          ...(area ? [{ label: area.nome[lingua], href: `/aree/${area.slug}` }] : []),
           { label: paese.nome, href: `/destinazioni/${paeseSlug}` },
           { label: destinazione.nome },
         ]}

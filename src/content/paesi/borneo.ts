@@ -10,6 +10,8 @@ export const borneo: Paese = {
   slug: 'borneo',
   nome: 'Borneo malese',
   continente: 'Asia',
+  tipo: 'regione',
+  stato: 'Malesia',
   titolo: 'Borneo: oranghi, foresta primaria e uno dei reef più belli del pianeta',
   descrizione:
     'È la terza isola più grande del mondo, divisa fra tre paesi: Malesia (Sabah e Sarawak), Brunei e Indonesia (Kalimantan). Questa scheda copre la parte malese. Qui si vedono gli oranghi, si sale la montagna più alta del sud-est asiatico tra l\'Himalaya e la Nuova Guinea e ci si immerge a Sipadan, che per molti è il miglior sito di immersione al mondo. Qui si vede anche, meglio che altrove, cosa ha fatto la palma da olio: si atterra su un tappeto verde che sembra foresta e non lo è.',

@@ -1,5 +1,7 @@
 import { getAllViaggi } from '@/lib/viaggi'
-import { getAllDestinazioni, getAllEsperienze, getAllPaesi } from '@/lib/geo'
+import { getAllDestinazioni, getAllEsperienze, getAllPaesi, getTripMeta, nomeConStato } from '@/lib/geo'
+import { mesiDelViaggio, paesiDelViaggio } from '@/lib/viaggi-filtri'
+import { NOMI_MESI, STILI_NOTI, stiliDaCategorie } from '@/lib/viaggi-filtri-stato'
 import { getAllMeraviglie } from '@/lib/meraviglie'
 import { getContinente } from '@/lib/utils'
 import { copertine } from '@/lib/i18n/contenuti'
@@ -17,23 +19,42 @@ export async function GET(_req: Request, { params }: { params: Promise<{ lang: s
   const paesi = getAllPaesi(lingua)
   const copertineViaggi = copertine(lingua)
   const nomePaese = new Map(paesi.map((p) => [p.slug, p.nome]))
+  // «Transilvania · Romania»: per le regioni lo Stato accanto al nome
+  const nomeCompleto = new Map(paesi.map((p) => [p.slug, nomeConStato(p)]))
+  const stiliNoti = new Set<string>(STILI_NOTI)
 
   const voci: VoceIndice[] = [
-    ...getAllViaggi(lingua).map((v) => ({
-      tipo: 'viaggio' as const,
-      nome: v.titolo,
-      href: `/viaggi/${v.slug}`,
-      paese: etichetta(getContinente(v.categorie), lingua),
-      dettaglio: [etichetta(getContinente(v.categorie), lingua), v.durataBreve || v.durata].filter(Boolean).join(' · '),
-      tag: etichette([...v.categorie, ...v.tags], lingua),
-      immagine: copertineViaggi[v.slug]?.immagine,
-    })),
+    ...getAllViaggi(lingua).map((v) => {
+      // i Paesi veri del viaggio (come il filtro ?paese= dell'archivio), non il continente
+      const slugPaesi = paesiDelViaggio(v.slug)
+      const nomiPaesi = slugPaesi.map((s) => nomePaese.get(s))
+      // lo Stato della regione si aggiunge solo se non è già tra i Paesi del viaggio (Borneo malese + Malesia)
+      const luogo = slugPaesi
+        .map((s) => (nomiPaesi.includes(paesi.find((p) => p.slug === s)?.stato) ? nomePaese.get(s) : nomeCompleto.get(s)))
+        .filter(Boolean)
+        .join(' · ')
+      const continente = etichetta(getContinente(v.categorie), lingua)
+      // mesi in cui è stato fatto («luglio») e stili («trekking», «mare»), così la ricerca li trova
+      const mesi = mesiDelViaggio(v.slug).map((m) => NOMI_MESI[lingua][m - 1])
+      const stili = [...stiliDaCategorie(v.categorie, v.tags), ...(getTripMeta(v.slug, 'it')?.stile ?? []).filter((s) => !stiliNoti.has(s))]
+      return {
+        tipo: 'viaggio' as const,
+        nome: v.titolo,
+        href: `/viaggi/${v.slug}`,
+        paese: luogo || continente,
+        dettaglio: [luogo || continente, v.durataBreve || v.durata].filter(Boolean).join(' · '),
+        tag: [...etichette([...v.categorie, ...v.tags, ...new Set(stili)], lingua), continente, ...mesi],
+        immagine: copertineViaggi[v.slug]?.immagine,
+      }
+    }),
     ...paesi.map((p) => ({
       tipo: 'paese' as const,
       nome: p.nome,
       href: `/destinazioni/${p.slug}`,
-      paese: etichetta(p.continente, lingua),
-      dettaglio: etichetta(p.continente, lingua),
+      // una regione si trova anche cercando il suo Stato («Romania» → Transilvania)
+      paese: [p.tipo === 'regione' ? p.stato : '', etichetta(p.continente, lingua)].filter(Boolean).join(' '),
+      // sotto il nome della regione: «Romania · Europa»
+      dettaglio: [p.tipo === 'regione' ? p.stato : '', etichetta(p.continente, lingua)].filter(Boolean).join(' · '),
       tag: etichette(p.stileViaggio, lingua),
       immagine: p.heroImage,
     })),
@@ -41,8 +62,8 @@ export async function GET(_req: Request, { params }: { params: Promise<{ lang: s
       tipo: 'destinazione' as const,
       nome: d.nome,
       href: `/destinazioni/${d.paeseSlug}/${d.slug}`,
-      paese: nomePaese.get(d.paeseSlug) ?? '',
-      dettaglio: nomePaese.get(d.paeseSlug) ?? '',
+      paese: nomeCompleto.get(d.paeseSlug) ?? '',
+      dettaglio: nomeCompleto.get(d.paeseSlug) ?? '',
       tag: etichette(d.tipologia, lingua),
       immagine: d.immagine,
     })),

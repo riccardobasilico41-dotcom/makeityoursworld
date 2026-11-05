@@ -1,7 +1,8 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import { coordinateDestinazioni } from '@/content/mappe/coordinate'
-import { getAllPaesi, getDestinazioniByPaese, getViaggiByDestinazione } from '@/lib/geo'
+import { contaPaesi, getAllPaesi, getDestinazioniByPaese, getViaggiByDestinazione } from '@/lib/geo'
+import type { Paese } from '@/lib/types'
 import { unaRiga } from '@/components/MappaPaeseSezione'
 import type { PinMondo } from '@/components/MappaMondo'
 import type { Lingua } from '@/lib/i18n/config'
@@ -123,10 +124,12 @@ export function datiMappaMondo(lingua: Lingua): DatiMappaMondo | null {
 
   const pins: PinMondo[] = []
   const areaDi = new Map<string, string>()
+  const conPin = new Set<Paese>()
   for (const paese of getAllPaesi(lingua)) {
     for (const d of getDestinazioniByPaese(paese.slug, lingua)) {
       const c = coordinateDestinazioni[`${paese.slug}/${d.slug}`]
       if (!c) continue
+      conPin.add(paese)
       const [x, y] = proietta(c[1], c[0])
       const viaggio = getViaggiByDestinazione(d, lingua)[0]
       areaDi.set(`${paese.slug}/${d.slug}`, AREA[paese.continente] ?? paese.continente)
@@ -146,7 +149,8 @@ export function datiMappaMondo(lingua: Lingua): DatiMappaMondo | null {
     }
   }
   if (pins.length < 2) return null
-  const nPaesi = new Set(pins.map((p) => p.paese)).size
+  // le regioni (Florida, Transilvania…) contano per il loro Stato, vedi contaPaesi
+  const nPaesi = contaPaesi([...conPin])
 
   // rettangolo dei punti di ogni area, per i pulsanti «Vai a» sotto la mappa
   const aree = [...new Set(areaDi.values())]
