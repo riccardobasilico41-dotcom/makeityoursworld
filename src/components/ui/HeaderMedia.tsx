@@ -1,7 +1,10 @@
 'use client'
 
+import { useRef } from 'react'
+import { preload } from 'react-dom'
 import Image from 'next/image'
 import { useReducedMotion } from 'motion/react'
+import { useVideoDifferito } from '@/lib/video-differito'
 
 export type Media =
   | { tipo: 'foto'; src: string; alt: string }
@@ -13,6 +16,10 @@ export type Media =
  */
 export function HeaderMedia({ media, sizes = '(min-width: 1024px) 42vw, 100vw' }: { media: Media; sizes?: string }) {
   const reduceMotion = useReducedMotion()
+  const video = useRef<HTMLVideoElement>(null)
+  useVideoDifferito(video)
+  // il fotogramma del video è l'elemento LCP della testata: si chiede subito, dal <head>
+  if (media.tipo === 'video') preload(media.poster, { as: 'image', fetchPriority: 'high' })
 
   if (media.tipo === 'foto') {
     return (
@@ -31,12 +38,14 @@ export function HeaderMedia({ media, sizes = '(min-width: 1024px) 42vw, 100vw' }
     return <img src={media.poster} alt="" aria-hidden="true" className="absolute inset-0 h-full w-full object-cover" />
   }
   return (
+    // niente autoPlay: parte dopo il caricamento della pagina (useVideoDifferito), non con rete lenta
     <video
+      ref={video}
       aria-hidden="true"
-      autoPlay
       loop
       muted
       playsInline
+      preload="none"
       poster={media.poster}
       className="absolute inset-0 h-full w-full object-cover"
     >

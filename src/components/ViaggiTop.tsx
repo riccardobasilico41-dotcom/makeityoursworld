@@ -53,7 +53,7 @@ export function ViaggiTop({ lingua }: { lingua: Lingua }) {
   })
 
   return (
-    <section className="border-t border-alpine/10 py-24 sm:py-32">
+    <section className="border-t border-alpine/10 sezione">
       <Container>
         <Reveal>
           <p className="text-xs font-semibold uppercase tracking-[0.2em] text-rosso">{t.eyebrow}</p>
@@ -68,10 +68,10 @@ export function ViaggiTop({ lingua }: { lingua: Lingua }) {
             {schede.map(({ v, meta, paese, tappe, cop }, i) => (
               <article
                 key={v.slug}
-                className="group relative flex h-full flex-col overflow-hidden border-2 border-ink bg-white shadow-[6px_6px_0_var(--color-rosso)] transition-[transform,box-shadow] duration-200 hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-[9px_9px_0_var(--color-rosso)]"
+                className="scheda scheda-link group relative flex h-full flex-col overflow-hidden bg-white"
               >
                 {/* tutta la card porta all'itinerario; il link al Paese resta cliccabile sopra */}
-                <Link href={`/viaggi/${v.slug}`} aria-label={`${t.leggi}: ${v.titolo}`} className="absolute inset-0 z-10" />
+                <Link href={`/viaggi/${v.slug}`} aria-label={`${t.leggi}: ${v.titolo}`} className="absolute inset-0 z-10 focus-visible:-outline-offset-4" />
                 <div className={`relative w-full shrink-0 overflow-hidden border-b-2 border-ink bg-alpine-dark ${ALTEZZE[i % ALTEZZE.length]}`}>
                   {cop && (
                     <Image
@@ -82,9 +82,9 @@ export function ViaggiTop({ lingua }: { lingua: Lingua }) {
                       className="object-cover transition-transform duration-500 group-hover:scale-105"
                     />
                   )}
-                  <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/55 via-transparent to-transparent" />
+                  <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/65 via-transparent to-transparent" />
                   {paese && (
-                    <p className="absolute bottom-4 left-5 text-xs font-semibold uppercase tracking-[0.18em] text-cream">{paese.nome}</p>
+                    <p className="absolute bottom-4 left-5 bg-ink px-2 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-cream">{paese.nome}</p>
                   )}
                 </div>
                 <div className="flex flex-1 flex-col p-6">
@@ -121,7 +121,8 @@ export function ViaggiTop({ lingua }: { lingua: Lingua }) {
                     {paese && (
                       <Link
                         href={`/destinazioni/${meta.paeseSlug}`}
-                        className="relative z-20 inline-flex items-center gap-1 text-sm text-stone hover:text-ink hover:underline"
+                        aria-label={`${t.paese}: ${paese.nome}`}
+                        className="relative z-20 -my-3 inline-flex min-h-11 items-center gap-1 text-sm text-stone underline-offset-4 hover:text-ink hover:underline"
                       >
                         <MapPin size={13} aria-hidden />
                         {t.paese}

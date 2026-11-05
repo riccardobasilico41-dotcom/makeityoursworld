@@ -1,0 +1,73 @@
+import type { TripMeta } from '@/lib/types'
+
+export const thailandiaNordMeta: TripMeta = {
+  tripSlug: 'thailandia-nord',
+  paeseSlug: 'thailandia',
+  ritmo:
+    'Medio: una noche en tren a la ida, casi una semana con base en Chiang Mai alternando días completos y días tranquilos, dos trayectos en minivan por carreteras de montaña para Pai y un autobús de unas tres horas y media hasta Chiang Rai.',
+  trasporti:
+    'Por libre: tren nocturno Bangkok-Chiang Mai desde la estación Krung Thep Aphiwat, minivan Chiang Mai-Pai ida y vuelta, autobús Chiang Mai-Chiang Rai, coche con conductor o tour para el Doi Inthanon y el Triángulo de Oro, vuelo nacional Chiang Rai-Bangkok.',
+  stile: ['templi', 'montagna', 'cultura', 'cibo'],
+  adattoA: [
+    'quien ya conoce el mar de Tailandia y quiere la otra Tailandia',
+    'quien quiere ver elefantes sin contribuir a su explotación',
+    'quien prefiere templos, mercados nocturnos y cocina a los resorts',
+    'quien quiere unir el norte y el mar del sur en el mismo viaje, de noviembre a febrero',
+  ],
+  puntiForti: [
+    'El tren nocturno desde Bangkok, que te deja en Chiang Mai sin perder un día',
+    'Chiang Mai con calma: la ciudad antigua, el Doi Suthep por el Monk\'s Trail, los mercados peatonales del fin de semana',
+    'Un día con elefantes elegido con criterios claros, no por un folleto',
+    'Los tres lugares de artista de Chiang Rai: el Templo Blanco, el Templo Azul y Baan Dam',
+    'El Hall of Opium en el Triángulo de Oro, que explica la frontera mejor que el mirador',
+  ],
+  criticita: [
+    'Muchos centros de elefantes se llaman «santuario» sin serlo: hay que elegir antes de salir, con las preguntas de la sección dedicada',
+    'Las carreteras a Pai y Mae Hong Son son estrechas y llenas de curvas; en moto hacen falta permiso internacional, casco y un seguro que cubra de verdad',
+    'En ciertas épocas el norte queda cubierto por el humo estacional de las quemas de cultivos y bosques: hay que mirar la calidad del aire',
+    'Las literas del tren nocturno pueden agotarse semanas antes en las fiestas tailandesas',
+    'El Triángulo de Oro está en la frontera con Myanmar, donde la situación es imprevisible: la frontera se mira, no se cruza',
+    'El Templo Blanco está abarrotado en las horas centrales',
+  ],
+  budgetTotale: undefined,
+  viaggioInBreve: {
+    percheHoScelto: undefined,
+    conChiSonoPartito: undefined,
+    cosaCercavo: undefined,
+    treEsperienzePiuBelle: undefined,
+    cosaCambierei: undefined,
+    aChiLoConsiglio: 'A quien ya ha hecho el mar en Tailandia y quiere ver el norte, o a quien quiere unir las dos cosas en tres semanas',
+  },
+  tappeMappa: [
+    { nome: 'Bangkok', destinazioneSlug: 'bangkok' },
+    { nome: 'Chiang Mai', destinazioneSlug: 'chiang-mai' },
+    { nome: 'Pai', destinazioneSlug: 'pai-mae-hong-son' },
+    { nome: 'Chiang Mai', destinazioneSlug: 'chiang-mai' },
+    { nome: 'Chiang Rai', destinazioneSlug: 'chiang-rai' },
+    { nome: 'Triángulo de Oro', destinazioneSlug: 'triangolo-d-oro' },
+    { nome: 'Chiang Rai', destinazioneSlug: 'chiang-rai' },
+  ],
+  giorni: [
+    { titoloGiorno: 'Día 1 — Llegada a Bangkok', tratta: 'Vuelo intercontinental a Bangkok', pernottamento: 'Bangkok, cerca del río o en Silom', statoPernottamento: 'da-confermare', intensita: 'leggero', destinazioneSlug: 'bangkok' },
+    { titoloGiorno: 'Día 2 — Los templos de Bangkok y el tren nocturno a Chiang Mai', tratta: 'Gran Palacio → Wat Pho → Wat Arun → estación Krung Thep Aphiwat, tren nocturno a Chiang Mai (12-14 horas)', pernottamento: 'Tren nocturno, litera', statoPernottamento: 'consigliato', intensita: 'intenso', costiNoti: 'Gran Palacio 500 THB (web oficial); Wat Pho y Wat Arun: entradas por comprobar; litera a reservar en dticket.railway.co.th', destinazioneSlug: 'bangkok' },
+    { titoloGiorno: 'Día 3 — Chiang Mai: llegada y ciudad antigua', tratta: 'Llegada en tren a Chiang Mai → templos de la ciudad antigua a pie o en bicicleta', pernottamento: 'Chiang Mai, ciudad antigua', statoPernottamento: 'consigliato', intensita: 'leggero', destinazioneSlug: 'chiang-mai' },
+    { titoloGiorno: 'Día 4 — Doi Suthep, Wat Pha Lat y el mercado de la tarde', tratta: 'Monk\'s Trail → Wat Pha Lat → Wat Phra That Doi Suthep → mercado peatonal de la tarde', pernottamento: 'Chiang Mai, ciudad antigua', statoPernottamento: 'consigliato', intensita: 'medio', costiNoti: 'Parque Doi Suthep-Pui: entrada de pago desde el 1 de octubre de 2025, importe por comprobar', destinazioneSlug: 'chiang-mai' },
+    { titoloGiorno: 'Día 5 — Clase de cocina o Doi Inthanon', tratta: 'Clase de cocina con compra en el mercado, o día en el Doi Inthanon con conductor o tour', pernottamento: 'Chiang Mai, ciudad antigua', statoPernottamento: 'consigliato', intensita: 'medio', destinazioneSlug: 'chiang-mai' },
+    { titoloGiorno: 'Día 6 — Un día con elefantes, como debe ser', tratta: 'Chiang Mai → centro de elefantes elegido con criterios claros → Chiang Mai, con el traslado del centro', pernottamento: 'Chiang Mai, ciudad antigua', statoPernottamento: 'consigliato', intensita: 'medio', destinazioneSlug: 'chiang-mai' },
+    { titoloGiorno: 'Día 7 — De Chiang Mai a Pai', tratta: 'Chiang Mai → Pai, minivan por carretera de montaña', pernottamento: 'Pai', statoPernottamento: 'da-confermare', intensita: 'medio', destinazioneSlug: 'pai-mae-hong-son' },
+    { titoloGiorno: 'Día 8 — Pai: cañón, campo y aguas termales', tratta: 'Alrededores de Pai en songthaew, con conductor o en scooter (solo con permiso y seguro)', pernottamento: 'Pai', statoPernottamento: 'da-confermare', intensita: 'medio', destinazioneSlug: 'pai-mae-hong-son' },
+    { titoloGiorno: 'Día 9 — Vuelta a Chiang Mai y Nimman', tratta: 'Pai → Chiang Mai, minivan', pernottamento: 'Chiang Mai, ciudad antigua o Nimman', statoPernottamento: 'consigliato', intensita: 'leggero', destinazioneSlug: 'chiang-mai' },
+    { titoloGiorno: 'Día 10 — De Chiang Mai a Chiang Rai y el Templo Blanco', tratta: 'Chiang Mai (estación Arcade) → Chiang Rai, autobús de unas 3 horas y media → Wat Rong Khun', pernottamento: 'Chiang Rai, centro', statoPernottamento: 'da-confermare', intensita: 'medio', costiNoti: 'Templo Blanco: 200 THB para extranjeros en 2026', destinazioneSlug: 'chiang-rai' },
+    { titoloGiorno: 'Día 11 — Chiang Rai: el Templo Azul y Baan Dam', tratta: 'Wat Rong Suea Ten → Baan Dam → centro y mercado nocturno', pernottamento: 'Chiang Rai, centro', statoPernottamento: 'da-confermare', intensita: 'medio', destinazioneSlug: 'chiang-rai' },
+    { titoloGiorno: 'Día 12 — El Triángulo de Oro: Sop Ruak, el Hall of Opium y Chiang Saen', tratta: 'Chiang Rai → Sop Ruak → Hall of Opium → Chiang Saen → Chiang Rai, coche con conductor o tour', pernottamento: 'Chiang Rai, centro', statoPernottamento: 'da-confermare', intensita: 'intenso', destinazioneSlug: 'triangolo-d-oro' },
+    { titoloGiorno: 'Día 13 — Vuelo de Chiang Rai a Bangkok y regreso', tratta: 'Chiang Rai → Bangkok, vuelo nacional → vuelo intercontinental, o un vuelo al sur para el mar', pernottamento: 'Vuelo de regreso', statoPernottamento: 'consigliato', intensita: 'leggero', destinazioneSlug: 'chiang-rai' },
+  ],
+  budget: [
+    { etichetta: 'Vuelos intercontinentales', valore: undefined },
+    { etichetta: 'Tren nocturno Bangkok-Chiang Mai', valore: 'litera en segunda clase, precio según tren y litera: consultar en dticket.railway.co.th' },
+    { etichetta: 'Templos de Bangkok', valore: 'Gran Palacio 500 THB (web oficial); Wat Pho y Wat Arun por comprobar' },
+    { etichetta: 'Elefantes', valore: 'Elephant Nature Park: medio día 2.500 THB según la web del parque (noviembre de 2026); otros centros tienen sus propios precios' },
+    { etichetta: 'Templo Blanco', valore: '200 THB para extranjeros en 2026' },
+    { etichetta: 'Vuelo Chiang Rai-Bangkok', valore: undefined },
+  ],
+}

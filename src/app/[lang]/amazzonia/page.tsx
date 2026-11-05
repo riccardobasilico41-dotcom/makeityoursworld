@@ -69,7 +69,7 @@ export default async function AmazzoniaPage() {
 
       <InfoPratiche titolo={{ it: 'In breve', en: 'At a glance', es: 'En resumen' }[lingua]} voci={t.inBreve.map((v, i) => ({ ...v, icona: ICONE_IN_BREVE[i] ?? Compass }))} />
 
-      <section className="py-14 sm:py-20">
+      <section className="sezione">
         <Container className="space-y-12">
           <Ricordo testo={t.ricordo} />
 
@@ -105,7 +105,7 @@ export default async function AmazzoniaPage() {
         </Container>
       </section>
 
-      <section id="porte" aria-labelledby="porte-titolo" className="scroll-mt-24 border-t border-alpine/10 bg-cream-dark/30 py-14 sm:py-20">
+      <section id="porte" aria-labelledby="porte-titolo" className="scroll-mt-24 border-t border-alpine/10 bg-cream-dark/30 sezione">
         <Container>
           <h2 id="porte-titolo" className="font-display text-[clamp(1.9rem,3.2vw,2.8rem)] text-alpine">
             {t.porte.titolo}
@@ -158,7 +158,7 @@ export default async function AmazzoniaPage() {
         </Container>
       </section>
 
-      <section id="traversata" aria-labelledby="traversata-titolo" className="scroll-mt-24 border-t border-alpine/10 py-14 sm:py-20">
+      <section id="traversata" aria-labelledby="traversata-titolo" className="scroll-mt-24 border-t border-alpine/10 sezione">
         <Container>
           <h2 id="traversata-titolo" className="flex items-start gap-3 font-display text-[clamp(1.9rem,3.2vw,2.8rem)] text-alpine">
             <Ship size={30} aria-hidden className="mt-2 shrink-0 text-rosso" />
@@ -212,7 +212,7 @@ export default async function AmazzoniaPage() {
         </Container>
       </section>
 
-      <section id="domande-frequenti" aria-labelledby="faq-amazzonia" className="scroll-mt-24 border-t border-alpine/10 py-14 sm:py-20">
+      <section id="domande-frequenti" aria-labelledby="faq-amazzonia" className="scroll-mt-24 border-t border-alpine/10 sezione">
         <Container>
           <h2 id="faq-amazzonia" className="font-display text-[clamp(1.8rem,3vw,2.6rem)] text-alpine">
             {e.faqTitolo}

@@ -161,7 +161,7 @@ export default async function HomePage() {
         />
       )}
 
-      <section className="border-t border-alpine/10 bg-cream-dark/40 py-16 sm:py-24">
+      <section className="border-t border-alpine/10 bg-cream-dark/40 sezione">
         <Container>
           <div className="flex flex-wrap items-end justify-between gap-4">
             <div>
@@ -196,10 +196,10 @@ export default async function HomePage() {
 
       {/* una sola chiusura: prima c'erano due CTA in fila («tutti i viaggi» e «per Paese»);
           la porta per Paese ora è la sezione delle aree, qui resta l'archivio completo */}
-      <section className="border-t border-alpine/10 py-16 sm:py-24">
+      <section className="border-t border-alpine/10 sezione">
         <Container>
           <Reveal>
-            <div className="flex flex-col items-start gap-6 border-2 border-ink bg-white p-6 shadow-[6px_6px_0_var(--color-rosso)] sm:flex-row sm:items-center sm:justify-between sm:p-10">
+            <div className="flex flex-col items-start gap-6 scheda bg-white p-6 sm:flex-row sm:items-center sm:justify-between sm:p-10">
               <div>
                 <p className="max-w-md font-display text-3xl font-medium leading-tight text-balance text-alpine sm:text-4xl">
                   {t.prossimo}
@@ -208,7 +208,7 @@ export default async function HomePage() {
               </div>
               <Link
                 href="/viaggi"
-                className="inline-flex min-h-12 shrink-0 items-center gap-2 bg-rosso px-6 py-3 text-[0.95rem] font-semibold text-cream transition-colors duration-150 hover:bg-rosso-dark focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-rosso focus-visible:ring-offset-2"
+                className="btn btn-primario shrink-0"
               >
                 {t.esplora(viaggi.length)}
                 <ArrowRight size={15} aria-hidden />

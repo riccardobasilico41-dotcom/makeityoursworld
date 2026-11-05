@@ -822,6 +822,88 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
       "Due settimane da Lima a Machu Picchu, girate da sud a nord per salire di quota un gradino alla volta. Arequipa, i condor del Colca, una notte in famiglia sul Titicaca e la cittadella inca al primo turno, prima dei gruppi.",
     editorialHookType: 'comparison',
   },
+  'bali-nusa-komodo': {
+    seoTitle: "Bali, Nusa Penida e Komodo: itinerario di 14 giorni",
+    seoDescription:
+      "Ubud e Sidemen, tre giorni tra Nusa Lembongan e Nusa Penida, poi tre giorni in barca a Komodo e Uluwatu: barche, voli, tasse e tariffe del parco.",
+    socialTitle: "Bali, le Nusa e Komodo in 14 giorni: risaie, scogliere e draghi",
+    editorialHook:
+      "Tre giorni sulle Nusa dormendo su Penida, per arrivare a Kelingking prima delle barche da Bali. Poi due notti in barca a Komodo, con Padar all'alba e i draghi di Rinca.",
+    editorialHookType: 'comparison',
+  },
+  'bali-sulawesi-raja-ampat': {
+    seoTitle: "Bali, Sulawesi e Raja Ampat: itinerario di 12 giorni",
+    seoDescription:
+      "Bali, il nord di Sulawesi tra Tangkoko e Bunaken, poi Raja Ampat in homestay: voli interni, traghetto per Waisai, stagioni e versioni con una sola isola.",
+    socialTitle: "Bali, Sulawesi e Raja Ampat in 12 giorni: il mare più bello, senza tornare indietro",
+    editorialHook:
+      "Da Manado a Sorong c'è un volo diretto, e da Sorong a Bali pure: così tre isole lontanissime stanno in dodici giorni. Con le versioni solo Sulawesi e solo Raja Ampat, da scegliere secondo il mese.",
+    editorialHookType: 'comparison',
+  },
+  'indonesia-isola-per-isola': {
+    seoTitle: "Indonesia isola per isola: dove andare e quando",
+    seoDescription:
+      "Bali, Nusa, Lombok, Giava, Sumatra, Mentawai, Komodo, Flores, Sulawesi, Raja Ampat e Borneo: cosa vedere, come muoversi, stagioni e quanti giorni servono.",
+    socialTitle: "Indonesia isola per isola: quale scegliere in base al mese",
+    editorialHook:
+      "Ogni isola merita almeno una settimana, e le isole sono intercambiabili: si scelgono col calendario. Raja Ampat va al contrario di quasi tutto il resto.",
+    editorialHookType: 'comparison',
+  },
+  // ── Guide 90-95: Marocco, Giappone, Thailandia, Messico ───────────────
+  'marocco-citta-imperiali': {
+    seoTitle: "Marocco città imperiali: Fès, Meknès, Rabat e Chefchaouen",
+    seoDescription:
+      "Itinerario di 11 giorni in Marocco tra Chefchaouen, Fès, Meknès con Volubilis, Rabat e Casablanca, in bus e treno, e come unirlo al deserto di Merzouga.",
+    socialTitle: "Le città imperiali e la città blu: il Marocco del nord in 11 giorni",
+    editorialHook:
+      "Da Tangeri a Casablanca passando per la medina blu di Chefchaouen, i vicoli di Fès e le rovine romane di Volubilis, quasi tutto in treno. Da Fès si può scendere verso il Sahara e chiudere a Marrakech.",
+    editorialHookType: 'comparison',
+  },
+  'classic-japan': {
+    seoTitle: "Classic Japan in 17 giorni: itinerario con Alpi, Takayama e Shirakawa-go",
+    seoDescription:
+      "Tokyo, Hakone, il Nakasendō, Kamikochi, Takayama, Shirakawa-go, Kanazawa, Kyoto, Kōya-san e Miyajima in 17 giorni, con JR Pass, bus da prenotare e varianti.",
+    socialTitle: "Il Giappone classico più l'entroterra: Nakasendō, Shirakawa-go e una notte al tempio",
+    editorialHook:
+      "Tra Magome e Tsumago si cammina otto chilometri sulla strada dei samurai, e i bagagli arrivano da soli.",
+    editorialHookType: 'hidden-side',
+  },
+  'okinawa-estate': {
+    seoTitle: "Okinawa d'estate: itinerario di 13 giorni tra Kerama, Miyako e Ishigaki",
+    seoDescription:
+      "Naha, Churaumi, Yanbaru, le Kerama, Miyako, Iriomote e Taketomi in 13 giorni, con traghetti, voli interni, stagione delle piogge e tifoni mese per mese.",
+    socialTitle: "Tartarughe, mangrovie e villaggi di corallo: Okinawa d'estate",
+    editorialHook:
+      "Il mare migliore di Okinawa arriva proprio nei mesi dei tifoni: ad agosto in media se ne avvicinano più di due.",
+    editorialHookType: 'before-you-go',
+  },
+  'hokkaido-sci-giappone': {
+    seoTitle: "Sciare in Giappone: Niseko, Rusutsu, Furano e Hakuba, prezzi 2026-27",
+    seoDescription:
+      "Dove sciare a Hokkaido e sulle Alpi giapponesi, quando prenotare, skipass 2026-27, bus da New Chitose, Yuki Matsuri, Niseko Rules, onsen e tatuaggi.",
+    socialTitle: "La neve polverosa del Giappone: dove andare, quando prenotare, quanto costa",
+    editorialHook:
+      "A Niseko gli alloggi per Capodanno si prenotano anche un anno prima: è la prima voce che finisce.",
+    editorialHookType: 'save-this',
+  },
+  'thailandia-nord': {
+    seoTitle: "Thailandia del nord in 13 giorni: Chiang Mai e Chiang Rai",
+    seoDescription:
+      "Treno notturno da Bangkok, Chiang Mai, Pai, Chiang Rai e il Triangolo d'oro, con una guida onesta per vedere gli elefanti senza sfruttarli.",
+    socialTitle: "Thailandia del nord: Chiang Mai, Chiang Rai e gli elefanti, nel modo giusto",
+    editorialHook:
+      "L'altra Thailandia, quella senza mare: il treno notturno per Chiang Mai, i templi d'artista di Chiang Rai, il Mekong al Triangolo d'oro. E una sezione su come scegliere un centro per elefanti, perché «no riding» da solo non basta.",
+    editorialHookType: 'before-you-go',
+  },
+  'messico-yucatan-completo': {
+    seoTitle: "Yucatán in 16 giorni: Mérida, Palenque e Calakmul",
+    seoDescription:
+      "Un anello da Cancún per Chichén Itzá, Mérida, Uxmal, Campeche, Palenque e Calakmul, con Bacalar alla fine. Ingressi 2026, Tren Maya e strade da evitare.",
+    socialTitle: "Yucatán completo in 16 giorni: le città maya, il Tren Maya e la strada che conviene evitare",
+    editorialHook:
+      "Misol-Ha e Agua Azul si raggiungono dalla Federale 199, il tratto del Chiapas che il Foreign Office britannico sconsiglia.",
+    editorialHookType: 'before-you-go',
+  },
 }
 
 export function getEditorialMeta(slug: string): EditorialMeta {

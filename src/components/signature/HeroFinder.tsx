@@ -62,7 +62,7 @@ const T = {
 >
 
 const FOCUS = 'focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cream'
-const CHIP = `inline-flex min-h-11 shrink-0 items-center whitespace-nowrap border-2 border-cream/80 bg-ink/40 px-3.5 text-sm font-semibold text-cream transition-colors duration-150 hover:border-cream hover:bg-cream hover:text-ink motion-reduce:transition-none ${FOCUS}`
+const CHIP = `inline-flex min-h-11 shrink-0 items-center whitespace-nowrap border-2 border-cream/80 bg-ink/70 px-3.5 text-sm font-semibold text-cream transition-colors duration-150 hover:border-cream hover:bg-cream hover:text-ink motion-reduce:transition-none ${FOCUS}`
 const LINK = `inline-flex min-h-11 items-center text-[0.95rem] font-semibold text-cream underline decoration-rosso decoration-2 underline-offset-[6px] hover:text-[oklch(80%_0.12_32)] ${FOCUS}`
 
 /**
@@ -138,7 +138,7 @@ export function HeroFinder() {
           aria-expanded={interessi}
           aria-controls={`${id}-interessi`}
           onClick={() => setInteressi((v) => !v)}
-          className={`inline-flex min-h-11 items-center gap-1 text-[0.95rem] font-semibold text-cream/90 hover:text-cream ${FOCUS}`}
+          className={`inline-flex min-h-11 items-center gap-1 text-[0.95rem] font-semibold text-cream [text-shadow:0_1px_8px_rgb(0_0_0/0.6)] ${FOCUS}`}
         >
           {t.interessi}
           <ChevronDown size={16} aria-hidden="true" className={`transition-transform duration-150 motion-reduce:transition-none ${interessi ? 'rotate-180' : ''}`} />

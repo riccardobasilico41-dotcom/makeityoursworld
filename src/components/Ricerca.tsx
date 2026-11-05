@@ -279,7 +279,7 @@ export function Ricerca() {
         className="m-0 h-dvh max-h-none w-full max-w-none rounded-none bg-cream p-0 text-ink backdrop:bg-ink/60 sm:mx-auto sm:mt-[10vh] sm:h-auto sm:max-h-[80vh] sm:w-[calc(100%-4rem)] sm:max-w-2xl sm:border-2 sm:border-ink sm:shadow-[8px_8px_0_0_var(--color-ink)]"
       >
         <div className="flex h-full max-h-[inherit] flex-col">
-          <div className="flex items-center gap-3 border-b-2 border-ink px-4 sm:px-5">
+          <div className="flex items-center gap-3 border-b-2 border-ink px-4 transition-colors duration-150 focus-within:border-rosso sm:px-5">
             <Search size={20} aria-hidden="true" className="shrink-0 text-stone" />
             <input
               ref={inputRef}

@@ -111,8 +111,10 @@ export function IntroFiligrane({ immagini, variante = 'colore' }: { immagini: st
         <div className="grid h-full w-full grid-cols-[repeat(auto-fill,minmax(92px,1fr))] content-start sm:grid-cols-[repeat(auto-fill,minmax(128px,1fr))]">
           {celle.map((i, k) => (
             <div key={k} className="flex aspect-square items-center justify-center border-[0.5px] border-ink/10 p-[14%]">
+              {/* lazy: senza, React metteva 36 <link rel="preload"> nel <head> di ogni pagina, davanti al
+                  fotogramma LCP, e il browser li scaricava anche con l'apertura già nascosta (display:none) */}
               {/* eslint-disable-next-line @next/next/no-img-element -- miniature da pochi KB, niente ottimizzazione */}
-              <img src={immagini[i]} alt="" width={96} height={96} className="h-full w-full object-contain" style={{ filter: FILTRI[scelta] }} />
+              <img src={immagini[i]} alt="" width={96} height={96} loading="lazy" decoding="async" fetchPriority="low" className="h-full w-full object-contain" style={{ filter: FILTRI[scelta] }} />
             </div>
           ))}
         </div>

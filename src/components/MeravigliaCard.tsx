@@ -44,7 +44,7 @@ export async function MeravigliaCard({ meraviglia, subito = false }: { meravigli
         {meraviglia.heroImage && (
           <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/60 via-black/5 to-transparent" />
         )}
-        <p className="relative z-10 text-xs font-semibold uppercase tracking-[0.18em] text-cream/70">
+        <p className="relative z-10 bg-ink px-2 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-cream">
           {meraviglia.paese}
         </p>
       </div>

@@ -131,6 +131,7 @@ export async function generateMetadata({
   if (!esperienza) return {}
   const nome = esperienza.nome
   return pageMetadata({
+    ogPropria: true, // opengraph-image.tsx della pagina
     lingua,
     // La domanda che si fa chi la sta valutando: «vale la pena?».
     title: primoTitoloCheSta([
@@ -224,7 +225,7 @@ export default async function EsperienzaPage({
         ]}
       />
 
-      <section className="py-14 sm:py-20">
+      <section className="sezione">
         <Container className="space-y-14">
           <div className="max-w-3xl">
             <TitoloSezione icona={Compass}>{t.percheFarla}</TitoloSezione>

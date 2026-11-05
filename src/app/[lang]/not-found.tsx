@@ -83,7 +83,7 @@ export default async function NotFound() {
         media={{ tipo: 'foto', src: '/images/copertine/islanda-2024.jpg', alt: t.alt }}
         pieno
       />
-      <section className="py-14 sm:py-20">
+      <section className="sezione">
         <div className="mx-auto grid w-full max-w-6xl gap-4 px-6 sm:grid-cols-3 sm:px-8">
           {STRADE.map(({ href, icona: Icona, titolo, testo }) => (
             <Link key={href} href={href} className="group flex flex-col gap-2 border-2 border-ink bg-cream p-6 transition-colors hover:bg-ink hover:text-cream">

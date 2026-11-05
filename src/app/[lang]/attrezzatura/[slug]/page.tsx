@@ -143,7 +143,7 @@ export default async function ListaAttrezzaturaPage({ params }: { params: Promis
         }
       />
 
-      <section className="py-14 sm:py-20">
+      <section className="sezione">
         <Container>
           <div className="grid gap-14 lg:grid-cols-[minmax(0,1fr)_18rem] lg:gap-16">
             <div className="space-y-14">

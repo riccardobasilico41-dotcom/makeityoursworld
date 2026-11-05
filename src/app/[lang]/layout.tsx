@@ -7,7 +7,8 @@ import "../globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { TornaSu } from "@/components/TornaSu";
-import { AUTORE } from "@/lib/structured-data";
+import { autore } from "@/lib/structured-data";
+import { localizza } from "@/lib/i18n/percorsi";
 import { siteConfig } from "@/lib/site-config";
 import { notFound } from "next/navigation";
 import { lang } from "next/root-params";
@@ -80,9 +81,10 @@ export default async function RootLayout({ children }: LayoutProps<"/[lang]">) {
     "@type": "Blog",
     name: siteConfig.brandName,
     description: SITO[lingua].description,
-    url: siteConfig.url,
+    // home e autore nella lingua della pagina (prima: sempre la radice inglese e la scheda italiana)
+    url: `${siteConfig.url}${localizza("/", lingua)}`,
     inLanguage: LOCALE[lingua].html,
-    author: AUTORE,
+    author: autore(lingua),
   };
 
   return (
@@ -111,7 +113,7 @@ export default async function RootLayout({ children }: LayoutProps<"/[lang]">) {
           <Header />
           <IntroFiligrane immagini={IMMAGINI_INTRO} />
           <script dangerouslySetInnerHTML={{ __html: SALTA_INTRO }} />
-          <main className="flex-1">{children}</main>
+          <main id="contenuto" tabIndex={-1} className="flex-1 focus:outline-none">{children}</main>
           <Footer />
           <TornaSu />
         </LinguaProvider>

@@ -65,7 +65,7 @@ export function SalvatiElenco() {
         <div className="mt-8 flex flex-wrap items-center gap-6">
           <Link
             href="/viaggi"
-            className="inline-flex min-h-12 items-center bg-rosso px-6 py-3 text-[0.95rem] font-semibold text-cream transition-colors duration-150 hover:bg-rosso-dark focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-rosso focus-visible:ring-offset-2"
+            className="btn btn-primario"
           >
             {t.guardaViaggi}
           </Link>

@@ -43,6 +43,7 @@ export function pageMetadata({
   socialDescription,
   lingua,
   lingue = LINGUE_PUBBLICATE,
+  ogPropria = false,
 }: {
   /** Lingua della pagina: canonical, hreflang e og:locale dipendono da questa. */
   lingua: Lingua
@@ -54,8 +55,20 @@ export function pageMetadata({
   type?: 'website' | 'article'
   socialTitle?: string
   socialDescription?: string
+  /**
+   * La pagina ha un opengraph-image.tsx suo (viaggio, Paese, destinazione, esperienza, meraviglia):
+   * si punta a quello, all'indirizzo pubblico della lingua. Va detto qui perché un `openGraph.images`
+   * scritto nei metadata prende il posto dell'immagine generata dal file.
+   */
+  ogPropria?: boolean
 }): Metadata {
   const ogTitle = socialTitle ?? title
+  // Anteprima di riserva: l'immagine generale del sito nella lingua della pagina, all'indirizzo
+  // pubblico (/opengraph-image, /it/opengraph-image…). Impostando `openGraph` qui la pagina
+  // perdeva quella del layout: /viaggi, /aree, /chi-sono… uscivano senza og:image. Con `ogPropria`
+  // è invece l'immagine della pagina (/trips/<slug>/opengraph-image): niente redirect, lingua giusta.
+  // Misure scritte qui e non importate da og.tsx, che si porta dietro font e sharp.
+  const immagine = { url: localizza(ogPropria ? `${path.replace(/\/$/, '')}/opengraph-image` : '/opengraph-image', lingua), width: 1200, height: 630, alt: ogPropria ? ogTitle : siteConfig.brandName }
   description = accorciaDescrizione(description)
   const ogDescription = accorciaDescrizione(socialDescription ?? description, 200)
 
@@ -79,11 +92,13 @@ export function pageMetadata({
       locale: LOCALE[lingua].og,
       alternateLocale: lingue.filter((l) => l !== lingua).map((l) => LOCALE[l].og),
       type,
+      images: [immagine],
     },
     twitter: {
       card: 'summary_large_image',
       title: ogTitle,
       description: ogDescription,
+      images: [immagine.url],
     },
   }
 }

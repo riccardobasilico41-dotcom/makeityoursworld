@@ -7,7 +7,7 @@ import { getAllViaggi } from '@/lib/viaggi'
 import { siteConfig } from '@/lib/site-config'
 import { pageMetadata } from '@/lib/seo'
 import { JsonLd } from '@/components/JsonLd'
-import { raccoltaJsonLd } from '@/lib/structured-data'
+import { breadcrumbJsonLd, raccoltaJsonLd } from '@/lib/structured-data'
 import { linguaCorrente } from '@/lib/i18n/server'
 import type { Lingua } from '@/lib/i18n/config'
 import { copertine } from '@/lib/i18n/contenuti'
@@ -66,15 +66,19 @@ export default async function ViaggiIndexPage() {
   return (
     <>
       <JsonLd
-        data={raccoltaJsonLd(
-          {
-            nome: t.titolo,
-            descrizione: t.descJson(siteConfig.brandName),
-            percorso: '/viaggi',
-            elementi: viaggi.map((v) => ({ nome: v.titolo, percorso: `/viaggi/${v.slug}` })),
-          },
-          lingua,
-        )}
+        data={[
+          raccoltaJsonLd(
+            {
+              nome: t.titolo,
+              descrizione: t.descJson(siteConfig.brandName),
+              percorso: '/viaggi',
+              elementi: viaggi.map((v) => ({ nome: v.titolo, percorso: `/viaggi/${v.slug}` })),
+            },
+            lingua,
+          ),
+          // le stesse briciole visibili nell'intestazione
+          breadcrumbJsonLd([{ nome: t.home, percorso: '/' }, { nome: t.viaggi, percorso: '/viaggi' }], lingua),
+        ]}
       />
       <PageHeader
         crumbs={[{ label: t.home, href: '/' }, { label: t.viaggi }]}
@@ -82,7 +86,7 @@ export default async function ViaggiIndexPage() {
         title={t.titolo}
         lead={<p>{t.lead(viaggi.length)}</p>}
       />
-      <section className="py-14 sm:py-20">
+      <section className="sezione">
         <Container>
           <TripFilters
             viaggi={viaggi.map((v) => ({

@@ -160,6 +160,7 @@ export async function generateMetadata({
   if (!paese) return {}
   const seo = seoPaese(paeseSlug, lingua)
   return pageMetadata({
+    ogPropria: true, // opengraph-image.tsx della pagina
     lingua,
     title: seo?.seoTitle ?? paese.titolo,
     description: seo?.seoDescription ?? paese.descrizione,
@@ -232,7 +233,7 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
 
       {/* Il viaggio che ho fatto io */}
       {tripPrincipale && (
-        <section className="py-20 sm:py-28">
+        <section className="sezione">
           <Container>
             <SectionHeading
               title={tripPrincipale.titolo}
@@ -329,7 +330,7 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
 
       {/* Destinazioni */}
       {destinazioni.length > 0 && (
-      <section id="destinazioni" className="scroll-mt-24 border-t border-alpine/10 py-20 sm:py-28">
+      <section id="destinazioni" className="scroll-mt-24 border-t border-alpine/10 sezione">
         <Container>
           <div className="flex items-end justify-between gap-6">
             <SectionHeading
@@ -350,7 +351,7 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
 
       {/* Esperienze */}
       {esperienze.length > 0 && (
-      <section id="esperienze" className="scroll-mt-24 border-t border-alpine/10 py-20 sm:py-28">
+      <section id="esperienze" className="scroll-mt-24 border-t border-alpine/10 sezione">
         <Container>
           <SectionHeading
             title={t.esperienze}
@@ -383,7 +384,7 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
       <InBrevePaese paese={paese} />
 
       {/* Organizza il viaggio: in fondo, a tendine, per chi cerca il dettaglio pratico */}
-      <section id="organizza-il-viaggio" className="scroll-mt-24 border-t border-alpine/10 bg-cream-dark/30 py-20 sm:py-28">
+      <section id="organizza-il-viaggio" className="scroll-mt-24 border-t border-alpine/10 bg-cream-dark/30 sezione">
         <Container>
           <SectionHeading
             title={t.organizza}

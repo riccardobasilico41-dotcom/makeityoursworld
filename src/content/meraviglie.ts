@@ -2,8 +2,9 @@ import type { Meraviglia } from '@/lib/types'
 
 // Le Sette Meraviglie del Mondo Moderno (New7Wonders, 2007). Contenuto guida
 // puramente pratico e verificabile (storia, prenotazione, prezzi, come
-// arrivare, truffe comuni) — non un itinerario di viaggio personale. Restano
-// assenti sul Cristo Redentore, l'unica delle sette non ancora vista. Prezzi,
+// arrivare, truffe comuni) — non un itinerario di viaggio personale. I ricordi
+// (miaEsperienza) sono di Rick, in prima persona; dal novembre 2026 c'è anche
+// quello sul Cristo Redentore, visto nel viaggio in Brasile. Prezzi,
 // orari e regole di prenotazione cambiano spesso: vanno sempre riverificati
 // sui siti ufficiali prima di partire. Ultimo passaggio di verifica
 // prezzi/prenotazioni/orari: 28 settembre 2026 (fonti: siti ufficiali e guide
@@ -59,11 +60,11 @@ export const meraviglie: Meraviglia[] = [
       },
       {
         nome: 'Simatai',
-        perche: 'la sezione più selvaggia e meno ricostruita, l\'unica che si può visitare anche di sera con illuminazione dedicata (prenotazione a parte).',
+        perche: 'la sezione più selvaggia e meno ricostruita, sopra Gubei Water Town, la città d\'acqua da cui si sale: è l\'unica che si può visitare anche di sera, con illuminazione dedicata e biglietto a parte. Gli orari serali cambiano con la stagione (di solito dal tardo pomeriggio fino alle 21-22, più corti d\'inverno) e le fonti non concordano: vanno verificati prima.',
       },
     ],
     giorniSpeciali:
-      'Da evitare assolutamente: la Golden Week (prima settimana di ottobre) e il Capodanno cinese (variabile tra fine gennaio e febbraio), quando ogni sezione — Badaling in testa — raggiunge livelli di affollamento estremi. Simatai offre visite serali a pagamento in date limitate, da prenotare con anticipo.',
+      'Da evitare assolutamente: la Golden Week (1-7 ottobre), la Festa del lavoro (i primi giorni di maggio, nel 2026 dall\'1 al 5) e il Capodanno cinese (variabile tra fine gennaio e febbraio), quando ogni sezione — Badaling in testa — raggiunge livelli di affollamento estremi. Simatai, con Gubei Water Town, offre visite serali a pagamento con biglietto separato: date e orari vanno controllati e prenotati con anticipo.',
     doveDormire: 'Pechino città, per la comodità dei collegamenti verso qualsiasi sezione si scelga; alcune guesthouse vicino a Mutianyu permettono un\'alba sulla muraglia senza folla.',
     erroriDaEvitare: [
       'Sottovalutare la ripidezza e il numero di gradini, specialmente a Jinshanling e Simatai: non è una semplice passeggiata',
@@ -71,7 +72,7 @@ export const meraviglie: Meraviglia[] = [
       'Scegliere Badaling nei weekend o nei giorni festivi cinesi aspettandosi tranquillità',
     ],
     miaEsperienza:
-      'Il consiglio che conta più di tutti riguarda quale tratto scegliere, perché fa la differenza tra una gita in mezzo alla folla e una giornata memorabile. Badaling è vicino, comodo e restaurato al punto da sembrare un parco a tema: nei giorni di festa ci si muove in fila indiana. Mutianyu è il compromesso giusto, con la seggiovia per salire e la slitta per scendere, che sembra una trovata turistica e invece è uno dei modi più divertenti di finire la giornata. Ma il tratto che resta davvero è Jinshanling: due ore da Pechino, torri non restaurate, erba tra le pietre e per lunghi tratti nessun altro in vista. Va anche detta la fatica, che le foto non trasmettono: non è una passeggiata in piano ma un continuo su e giù su gradini di altezza diversa, alcuni altissimi, e dopo tre ore le gambe se ne accorgono.',
+      'Dipende da dove vuoi andare e da cosa vuoi fare, e la scelta del tratto fa la differenza tra una gita in mezzo alla folla e una giornata memorabile. Il tratto vicino alla città, Badaling, lo sconsiglio: c\'è tantissima gente, è restaurato al punto da sembrare un parco a tema e rischi di goderti poco l\'esperienza. Gubeikou, con Gubei Water Town, mi è piaciuto molto: ai piedi della muraglia di Simatai c\'è la città d\'acqua, c\'è poca gente e si visita anche di sera. Mutianyu è il compromesso giusto, con la seggiovia per salire e il toboga per scendere: carino e divertente, sembra una trovata turistica e invece è uno dei modi migliori di finire la giornata. Jinshanling è il tratto per chi vuole camminare: due ore da Pechino, torri non restaurate, erba tra le pietre e per lunghi tratti nessun altro in vista. Va anche detta la fatica, che le foto non trasmettono: non è una passeggiata in piano ma un continuo su e giù su gradini di altezza diversa, alcuni altissimi, e dopo tre ore le gambe se ne accorgono.',
     heroImageAlt: 'La Grande Muraglia Cinese che serpeggia sulle colline verdi di Mutianyu fino a una torre di guardia, sotto un cielo azzurro con nuvole bianche',
     heroImage: '/images/meraviglie/grande-muraglia-cinese.jpg',
   },
@@ -131,7 +132,7 @@ export const meraviglie: Meraviglia[] = [
       'Perdersi Petra by Night pur pernottando a Wadi Musa: è incluso nel prezzo del tempo, non del biglietto diurno',
     ],
     miaEsperienza:
-      'Petra non è un monumento, è una città, e il primo errore è comprare il biglietto da un giorno. Il Siq da solo è più di un chilometro di gola stretta e altissima che continua a girare senza mai mostrare cosa c\'è dopo, e quando il Tesoro compare nello spiraglio finale l\'effetto funziona anche sapendolo in anticipo. Ma il Tesoro è l\'inizio: il Monastero sta in cima a ottocento gradini, un\'ora abbondante di salita col sole a picco, ed è più grande di quello che quasi tutti vengono a vedere. Chi ha una sola giornata parta all\'apertura ed eviti la fascia centrale, quando arrivano i pullman dal Mar Morto e la temperatura tra le rocce diventa seria. Sui muli e i cammelli offerti lungo il percorso vale la pena essere netti: le condizioni degli animali sono spesso pessime, e rifiutare è la scelta giusta.',
+      'Petra non è un monumento, è una città, e il primo errore è comprare il biglietto da un giorno. Il Siq da solo è più di un chilometro di gola stretta e altissima che continua a girare senza mai mostrare cosa c\'è dopo, e quando il Tesoro compare nello spiraglio finale l\'effetto funziona anche sapendolo in anticipo. Ma il Tesoro è l\'inizio: il Monastero sta in cima a ottocento gradini, un\'ora abbondante di salita col sole a picco, ed è più grande di quello che quasi tutti vengono a vedere. Chi ha una sola giornata parta all\'apertura ed eviti la fascia centrale, quando arrivano i pullman dal Mar Morto e la temperatura tra le rocce diventa seria. Sui muli e i cammelli offerti lungo il percorso vale la pena essere netti: le condizioni degli animali sono spesso pessime, e rifiutare è la scelta giusta. Io ho fatto sia il giro classico sia Petra by Night, ed è stato tutto bellissimo. Soprattutto adesso c\'è pochissima gente: sarebbe da approfittarne.',
     heroImageAlt: 'La facciata rosa del Tesoro di Petra (Al-Khazneh), con il colonnato e il frontone scolpiti nella parete di arenaria, Giordania',
     heroImage: '/images/meraviglie/petra-tesoro-facciata-riccardo.jpg',
   },
@@ -146,7 +147,7 @@ export const meraviglie: Meraviglia[] = [
       'La statua Art Déco di 38 metri che domina Rio de Janeiro dalla cima del Corcovado, all\'interno della Foresta di Tijuca. A differenza delle altre meraviglie di questa lista, qui l\'accesso è regolamentato e possibile solo tramite trasporto ufficiale.',
     storiaBreve:
       'Costruita tra il 1922 e il 1931 su progetto dell\'ingegnere Heitor da Silva Costa con la collaborazione dello scultore francese Paul Landowski, fu concepita per celebrare il centenario dell\'indipendenza del Brasile. Si trova all\'interno del Parco Nazionale della Foresta di Tijuca, Patrimonio UNESCO dal 2012 (nell\'ambito del paesaggio culturale di Rio). New7Wonder dal 2007.',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     periodoMigliore: 'stagione secca, maggio-settembre, per cieli più tersi — ma la nuvolosità sulla cima del Corcovado è imprevedibile in ogni stagione: vale la pena tenere un giorno di riserva se il programma lo permette.',
     durataConsigliata: 'mezza giornata, incluso il trasporto di andata e ritorno e il tempo sulla piattaforma panoramica',
     comeArrivareInternazionale: 'Aeroporto di Rio de Janeiro-Galeão (GIG), in alternativa Santos Dumont (SDU) per i voli nazionali.',
@@ -182,6 +183,8 @@ export const meraviglie: Meraviglia[] = [
       'Non controllare le previsioni meteo: la statua è spesso avvolta dalle nuvole, meglio tenere flessibilità sulle date se possibile',
       'Portare con sé oggetti di valore vistosi nelle zone più affollate',
     ],
+    miaEsperienza:
+      'Merita. E se il budget lo permette, è bello vederlo anche in elicottero: è un altro modo di guardarlo, e vale la spesa.',
     heroImageAlt: 'Il Cristo Redentore in controluce sulla terrazza del Corcovado al tramonto, con il cielo di Rio de Janeiro striato di rosa e azzurro',
     heroImage: '/images/meraviglie/cristo-redentore.jpg',
   },
@@ -243,9 +246,10 @@ export const meraviglie: Meraviglia[] = [
       'Prenotare treno e biglietti d\'ingresso troppo a ridosso della data: in alta stagione si esauriscono con settimane di anticipo',
       'Sottovalutare l\'altitudine di Cusco (circa 3.400 m): meglio acclimatarsi un paio di giorni prima di qualsiasi sforzo fisico',
       'Non portare abbigliamento per la pioggia: il clima della foresta nuvolosa è imprevedibile anche in stagione secca',
+      'Portare il treppiede: le norme di comportamento del sito ufficiale (machupicchu.gob.pe) vietano di entrare con treppiedi, supporti ed estensioni per fotocamere e cellulari, quindi anche con il bastone da selfie; vietati anche i droni',
     ],
     miaEsperienza:
-      'È uno di quei posti di cui si sono viste talmente tante foto da temere la delusione, e invece regge — ma regge nella prima ora, quando la nebbia si alza a strappi e il sito compare a pezzi. Dopo, con i gruppi in fila lungo il circuito assegnato, diventa un\'altra cosa: bellissima, ma gestita. Conviene sapere prima che non si gira liberamente: dal 2024 il circuito scelto al momento della prenotazione decide cosa si vedrà e cosa no, e la fotografia classica dall\'alto non è compresa in tutti. L\'altra cosa da mettere in conto è che i biglietti per i periodi buoni si esauriscono con mesi di anticipo, Huayna Picchu per primo. Dormire ad Aguas Calientes ed entrare al primo turno non serve per la luce: serve per quei quaranta minuti in cui il posto è ancora silenzioso.',
+      'L\'ho fatta due volte, una col sole e una con pioggia e nuvole. Col sole è più bella, perché vedi meglio tutto; con la pioggia e la nebbiolina era tutto più mistico e misterioso, super affascinante. È uno di quei posti di cui si sono viste talmente tante foto da temere la delusione, e invece regge — ma regge nella prima ora, quando la nebbia si alza a strappi e il sito compare a pezzi. Dopo, con i gruppi in fila lungo il circuito assegnato, diventa un\'altra cosa: bellissima, ma gestita. Conviene sapere prima che non si gira liberamente: dal 2024 il circuito scelto al momento della prenotazione decide cosa si vedrà e cosa no, e la fotografia classica dall\'alto non è compresa in tutti. L\'altra cosa da mettere in conto è che i biglietti per i periodi buoni si esauriscono con mesi di anticipo, Huayna Picchu per primo. Dormire ad Aguas Calientes ed entrare al primo turno non serve per la luce: serve per quei quaranta minuti in cui il posto è ancora silenzioso.',
     heroImageAlt: 'Un lama pascola sui terrazzamenti inca di Machu Picchu avvolti nella nebbia del mattino, Perù',
     heroImage: '/images/peru/machu-picchu-lama-terrazze-riccardo.jpg',
   },
@@ -304,7 +308,7 @@ export const meraviglie: Meraviglia[] = [
       'Non portare acqua e protezione solare: il sito è quasi completamente privo di ombra',
     ],
     miaEsperienza:
-      'È la meraviglia che più delude chi arriva impreparato, e la ragione non è il sito ma il modo in cui lo si visita. Dalle dieci in poi arrivano i pullman da Cancún e da Playa del Carmen, i viali si riempiono e soprattutto si riempiono di venditori: bancarelle una accanto all\'altra lungo quasi tutti i percorsi, con i fischietti a forma di giaguaro che suonano di continuo. Entrare all\'apertura cambia completamente l\'esperienza. Il Castillo non si sale più da anni, quindi va guardato da sotto, ed è lì che si capisce il gioco: battendo le mani davanti alla scalinata l\'eco torna indietro come il verso del quetzal, e non è una coincidenza. Chi cerca la sensazione di scoperta la trova più a Uxmal o a Cobá; qui si viene per la precisione astronomica, che è un\'altra cosa e vale comunque.',
+      'L\'ho vista quattro volte. È bellissima, ma con riserva. È la meraviglia che più delude chi arriva impreparato, e la ragione non è il sito ma il modo in cui lo si visita. Dalle dieci in poi arrivano i pullman di massa dalla Riviera, da Cancún e da Playa del Carmen, e non mi piace per niente, come le bancarelle che ci sono ovunque: i viali si riempiono di venditori, una bancarella accanto all\'altra lungo quasi tutti i percorsi, con i fischietti a forma di giaguaro che suonano di continuo. Entrare all\'apertura cambia completamente l\'esperienza. Il Castillo non si sale più da anni, quindi va guardato da sotto, ed è lì che si capisce il gioco: battendo le mani davanti alla scalinata l\'eco torna indietro come il verso del quetzal, e non è una coincidenza. Chi cerca la sensazione di scoperta la trova più a Uxmal o a Cobá, e tra Messico, Belize e Guatemala ci sono templi che secondo me sono più belli: Calakmul, Palenque, Tikal, Caracol. Qui si viene per la precisione astronomica, che è un\'altra cosa e vale comunque.',
     heroImageAlt: 'La piramide di El Castillo a Chichén Itzá vista di fronte, con la scalinata centrale, il prato verde e il cielo azzurro, Yucatán, Messico',
     heroImage: '/images/meraviglie/chichen-itza.jpg',
   },
@@ -361,7 +365,7 @@ export const meraviglie: Meraviglia[] = [
       'Visitare a mezzogiorno in piena estate: l\'interno dell\'anfiteatro ha pochissima ombra',
     ],
     miaEsperienza:
-      'Il Colosseo ha un problema che nessuna delle altre meraviglie ha: ci si passa davanti in mezzo al traffico, e questo toglie qualcosa. Il modo per recuperarlo è scendere negli ipogei, i sotterranei dove stavano gabbie, montacarichi e chi lavorava agli spettacoli: sono a ingresso separato, a numero chiuso, si esauriscono presto, e sono di gran lunga la parte più interessante del monumento. L\'errore più comune resta comprare il biglietto sul posto: la fila si conta in ore, e online sul sito ufficiale costa meno. Attenzione anche a chi propone "salta fila" davanti all\'ingresso, spesso a prezzi tripli per lo stesso biglietto. Il consiglio pratico è visitarlo la mattina presto o nell\'ultima fascia del pomeriggio, e tenersi il Palatino per dopo: è compreso nello stesso biglietto e quasi tutti lo saltano per stanchezza.',
+      'L\'ho visto una miriade di volte, ed è sempre bello e affascinante. Ma qui gioco in casa, e stare in mezzo alla città, con il traffico che ci passa davanti, gli dà per me un fascino diverso da quello delle altre meraviglie. Il modo per guardarlo con occhi nuovi è scendere negli ipogei, i sotterranei dove stavano gabbie, montacarichi e chi lavorava agli spettacoli: sono a ingresso separato, a numero chiuso, si esauriscono presto, e sono di gran lunga la parte più interessante del monumento. L\'errore più comune resta comprare il biglietto sul posto: la fila si conta in ore, e online sul sito ufficiale costa meno. Attenzione anche a chi propone "salta fila" davanti all\'ingresso, spesso a prezzi tripli per lo stesso biglietto. Il consiglio pratico è visitarlo la mattina presto o nell\'ultima fascia del pomeriggio, e tenersi il Palatino per dopo: è compreso nello stesso biglietto e quasi tutti lo saltano per stanchezza.',
     heroImageAlt: 'Il Colosseo di Roma visto dal Foro Romano nella luce calda del pomeriggio, tra cipressi, ulivi e colonne antiche',
     heroImage: '/images/meraviglie/colosseo.jpg',
   },

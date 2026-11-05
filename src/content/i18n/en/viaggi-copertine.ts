@@ -329,4 +329,8 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     immagine: '/images/peru/machu-picchu-lama-terrazze-riccardo.jpg',
     imageAlt: "A lone llama grazes on the Inca terraces of Machu Picchu in the morning mist",
   },
+  'sumatra-mentawai': {
+    immagine: '/images/viaggi/sumatra-mentawai/copertina-siberut-costa.webp',
+    imageAlt: 'The green coast of Siberut from the drone: the beach, a wooden jetty and the clear water of the Mentawai sea',
+  },
 }

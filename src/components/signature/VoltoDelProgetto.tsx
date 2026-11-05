@@ -90,7 +90,7 @@ const T = {
 export async function VoltoDelProgetto() {
   const t = T[await linguaCorrente()]
   return (
-    <section id="chi-sono" aria-labelledby="volto-titolo" className="border-t border-alpine/10 py-16 sm:py-24">
+    <section id="chi-sono" aria-labelledby="volto-titolo" className="border-t border-alpine/10 sezione">
       <Container>
         <div className="grid items-center gap-10 lg:grid-cols-[5fr_7fr] lg:gap-20">
           <Reveal>

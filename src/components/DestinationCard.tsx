@@ -39,7 +39,7 @@ export async function DestinationCard({ destinazione, paeseSlug }: { destinazion
   return (
     <Link
       href={`/destinazioni/${paeseSlug}/${destinazione.slug}`}
-      className="group flex flex-col overflow-hidden rounded-none border-2 border-ink bg-white shadow-[6px_6px_0_var(--color-rosso)] transition-[transform,box-shadow] duration-150 ease-out hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-[9px_9px_0_var(--color-rosso)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-alpine focus-visible:ring-offset-2 active:scale-[0.99] motion-reduce:active:scale-100"
+      className="scheda scheda-link group flex flex-col overflow-hidden bg-white"
     >
       <div
         role={destinazione.immagine ? undefined : 'img'}
@@ -64,7 +64,7 @@ export async function DestinationCard({ destinazione, paeseSlug }: { destinazion
         {destinazione.immagine && (
           <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/60 via-black/5 to-transparent" />
         )}
-        <p className="relative z-10 text-xs font-semibold uppercase tracking-[0.18em] text-cream/70">
+        <p className="relative z-10 bg-ink px-2 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-cream">
           {etichette(destinazione.tipologia, lingua).join(' · ')}
         </p>
       </div>

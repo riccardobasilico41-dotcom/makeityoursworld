@@ -3,8 +3,8 @@ import type { Destinazione } from '@/lib/types'
 // Otto isole visitate di persona. Sette di queste sono ora collegate al primo
 // viaggio-diario combinato dell'Indonesia ("Indonesia in 30 giorni", slug
 // indonesia-itinerario): tripSlugs riporta quel viaggio per Sumatra, Giava,
-// Bali, Sulawesi, Lombok e Gili, Komodo e Flores. Raja Ampat resta con
-// tripSlugs vuoto di proposito: la sua stagione migliore (ottobre-aprile) è
+// Bali, Sulawesi, Lombok e Gili, Komodo e Flores. Raja Ampat è fuori da
+// quel viaggio di proposito (dal 5/11/2026 ha bali-sulawesi-raja-ampat e la guida): la sua stagione migliore (ottobre-aprile) è
 // opposta a quella del resto dell'arcipelago, quindi non è stata inclusa in
 // quell'itinerario. L'autore ci è stato in un viaggio a parte, ad agosto 2026,
 // fuori dalla finestra migliore: il ricordo lo dice. Le foto
@@ -201,7 +201,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Sicurezza e legge: l'Indonesia ha leggi severissime sulla droga. Non portare niente con sé che non sia proprio."
     ],
     esperienzeSlugs: ['trekking-oranghi-bukit-lawang'],
-    tripSlugs: ['indonesia-itinerario', 'sumatra-mentawai'],
+    tripSlugs: ['indonesia-itinerario', 'sumatra-mentawai', 'indonesia-isola-per-isola'],
     imageAlt: 'Il lago Toba visto dall\'alto tra colline verdi e foresta, Sumatra',
     immagine: '/images/indonesia/sumatra.jpg',
   },
@@ -369,7 +369,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       "I taxi non ufficiali alle stazioni chiedono tariffe alte: usare Grab o taxi con tassametro."
     ],
     esperienzeSlugs: ['alba-bromo-jeep'],
-    tripSlugs: ['indonesia-itinerario', 'giava-bali-gili'],
+    tripSlugs: ['indonesia-itinerario', 'giava-bali-gili', 'indonesia-isola-per-isola'],
     imageAlt: 'Una testa di Buddha in pietra di Borobudur, di spalle, davanti alla valle avvolta nella nebbia dell\'alba, Giava',
     immagine: '/images/indonesia/borobudur-buddha-nebbia-riccardo.jpg',
   },
@@ -531,7 +531,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       "All'arrivo si paga la tassa turistica di Bali, 150.000 IDR a persona dal 2024: conviene pagarla online sul sito ufficiale Love Bali (lovebali.baliprov.go.id).",
     ],
     esperienzeSlugs: ['giornata-nusa-penida'],
-    tripSlugs: ['indonesia-itinerario', 'giava-bali-gili'],
+    tripSlugs: ['indonesia-itinerario', 'giava-bali-gili', 'bali-nusa-komodo', 'bali-sulawesi-raja-ampat', 'indonesia-isola-per-isola'],
     imageAlt: "Le risaie a terrazze di Jatiluwih, a Bali, lucide d'acqua fino all'orizzonte, viste dal drone",
     immagine: '/images/indonesia/jatiluwih-terrazze-riccardo.jpg',
   },
@@ -669,7 +669,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Il pacchetto diving a Bunaken costa di più della media: confrontare gli operatori."
     ],
     esperienzeSlugs: ['diving-bunaken-national-park'],
-    tripSlugs: ['indonesia-itinerario'],
+    tripSlugs: ['indonesia-itinerario', 'bali-sulawesi-raja-ampat', 'indonesia-isola-per-isola'],
     imageAlt: 'Un tongkonan dal tetto a prua di nave in un villaggio toraja vicino a Rantepao, Sulawesi',
     immagine: '/images/indonesia/sulawesi.jpg',
   },
@@ -820,7 +820,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Alle Gili la corrente e le imbarcazioni: non nuotare lontano dalla riva."
     ],
     esperienzeSlugs: ['trekking-gunung-rinjani'],
-    tripSlugs: ['indonesia-itinerario', 'giava-bali-gili'],
+    tripSlugs: ['indonesia-itinerario', 'giava-bali-gili', 'indonesia-isola-per-isola'],
     imageAlt: 'Un isolotto di sabbia bianca al largo di Lombok, con le barche a bilanciere ormeggiate e le colline sullo sfondo',
     immagine: '/images/indonesia/gili-isolotto-barche-riccardo.jpg',
   },
@@ -959,7 +959,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Controllare quali sono le tariffe ufficiali e i permessi del parco prima di prenotare."
     ],
     esperienzeSlugs: ['trekking-draghi-komodo'],
-    tripSlugs: ['indonesia-itinerario'],
+    tripSlugs: ['indonesia-itinerario', 'bali-nusa-komodo', 'indonesia-isola-per-isola'],
     imageAlt: 'Le colline e le baie dell\'isola di Padar viste dal punto panoramico, Parco nazionale di Komodo',
     immagine: '/images/indonesia/komodo.jpg',
   },
@@ -1098,7 +1098,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Portare contanti: i bancomat sono rari fuori da Labuan Bajo."
     ],
     esperienzeSlugs: ['alba-kelimutu'],
-    tripSlugs: ['indonesia-itinerario'],
+    tripSlugs: ['indonesia-itinerario', 'indonesia-isola-per-isola'],
     imageAlt: 'Le case coniche mbaru niang del villaggio di Wae Rebo tra le montagne di Flores',
     immagine: '/images/indonesia/flores.jpg',
   },
@@ -1296,7 +1296,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Le correnti sono forti: seguire sempre le istruzioni della guida."
     ],
     esperienzeSlugs: ['diving-liveaboard-raja-ampat'],
-    tripSlugs: [],
+    tripSlugs: ['bali-sulawesi-raja-ampat', 'indonesia-isola-per-isola'],
     imageAlt: 'Gli isolotti calcarei coperti di foresta nella laguna turchese di Piaynemo, Raja Ampat',
     immagine: '/images/indonesia/raja-ampat.jpg',
   },
@@ -1426,7 +1426,8 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Assicurazione che copra l'evacuazione e visita in un ambulatorio di medicina dei viaggi per la malaria."
     ],
     esperienzeSlugs: [],
-    tripSlugs: ['sumatra-mentawai'],
-    imageAlt: 'La giungla di Siberut e le spiagge di Sipora, isole Mentawai',
+    tripSlugs: ['sumatra-mentawai', 'indonesia-isola-per-isola'],
+    imageAlt: 'La foresta pluviale delle Mentawai che arriva fino al mare, con un fiume che serpeggia verso la costa, vista dal drone',
+    immagine: '/images/indonesia/mentawai-costa-foresta.webp',
   },
 ]

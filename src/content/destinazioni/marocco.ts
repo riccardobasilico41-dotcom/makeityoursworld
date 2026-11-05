@@ -718,4 +718,488 @@ export const destinazioniMarocco: Destinazione[] = [
     imageAlt: 'La medina bianca e blu della città portuale di Essaouira, Marocco',
     immagine: '/images/marocco/essaouira-stock.jpg',
   },
+  // --- NORD: città imperiali e città blu (proposta costruita sulla ricerca, non visitate da Rick) ---
+  {
+    slug: 'chefchaouen',
+    paeseSlug: 'marocco',
+    ordine: 7,
+    nome: 'Chefchaouen',
+    tipologia: ['città', 'montagna'],
+    giorniConsigliati: '2 notti',
+    visitataPersonalmente: false,
+    introduzione:
+      'La città blu nelle montagne del Rif, fondata nel 1471 come fortezza contro i portoghesi. Una medina piccola, con le case dipinte di azzurro, la kasbah in piazza e le montagne tutto intorno.',
+    percheAndarci:
+      'Per camminare nella medina blu all\'alba, quando è ancora vuota, e vedere il tramonto dalla Moschea spagnola. È anche una pausa più tranquilla tra Tangeri e Fès.',
+    cosaVedere: [
+      'La medina blu',
+      'Piazza Outa el-Hammam e la Grande Moschea',
+      'La kasbah, oggi museo',
+      'La sorgente di Ras el-Ma',
+      'La Moschea spagnola e il panorama sulla città',
+    ],
+    cosaFare: ['Fotografare i vicoli all\'alba', 'Salire alla Moschea spagnola al tramonto', 'Una giornata ad Akchour, tra gole e cascate'],
+    comeArrivare:
+      'Non c\'è la ferrovia. Bus di linea da Tangeri e da Fès, tra cui CTM (corse e orari su ctm.ma); in alternativa auto con autista.',
+    comeSpostarsi: 'A piedi: la medina è piccola e tutta in salita.',
+    periodoMigliore: 'primavera e autunno',
+    erroriDaEvitare: [
+      'Accettare la cannabis che qualcuno offre per strada: il Marocco ha tolleranza zero sulle droghe, con carcere e multe pesanti',
+      'Arrivare solo per un pomeriggio: la medina è bella la mattina presto e la sera, quando i gruppi in giornata sono ripartiti',
+    ],
+    // GUIDA-START
+    luoghi: [
+      {
+        nome: 'La medina blu',
+        testo:
+          'Vicoli in salita e case dipinte in tante sfumature di azzurro. Sul perché ci sono più versioni: per tenere lontane le zanzare, per richiamare il cielo, o per attirare i turisti, come raccontano alcuni abitanti. Nessuna è sicura. La città è cresciuta con gli andalusi, i moriscos e gli ebrei arrivati dalla Penisola iberica.',
+        come: 'A piedi, senza meta. Per i bagagli conviene chiedere al riad se manda qualcuno.',
+        quando: 'All\'alba, prima che arrivino i gruppi in giornata.',
+        tempo: 'mezza giornata',
+        consiglio: 'Molte porte e scalinate sono case private: si fotografa senza entrare e senza mettere in posa i bambini.',
+      },
+      {
+        nome: 'Piazza Outa el-Hammam e la kasbah',
+        testo:
+          'La piazza centrale della medina, con i caffè, la Grande Moschea e la kasbah, la vecchia fortezza oggi trasformata in museo.',
+        come: 'Al centro della medina. Alla Grande Moschea i non musulmani non entrano.',
+        quando: 'La sera, quando la piazza si riempie.',
+        tempo: '1-2 ore',
+      },
+      {
+        nome: 'Ras el-Ma',
+        testo: 'La sorgente ai piedi della montagna, appena fuori dalla medina, da dove l\'acqua scende verso la città.',
+        come: 'A piedi dalla piazza: è appena fuori dalla medina, sul lato est.',
+        quando: 'Mattina o tardo pomeriggio, prima di salire alla Moschea spagnola.',
+        tempo: 'mezz\'ora circa',
+      },
+      {
+        nome: 'Moschea spagnola',
+        testo:
+          'La moschea costruita dagli spagnoli negli anni Venti sulla collina davanti alla città. Oggi è in disuso ed è soprattutto un belvedere su tutta Chefchaouen.',
+        come: 'A piedi da Ras el-Ma, su un sentiero in salita.',
+        quando: 'Al tramonto.',
+        tempo: '1 ora con la salita',
+        consiglio: 'Torcia del telefono pronta per la discesa al buio.',
+      },
+      {
+        nome: 'Akchour',
+        testo: 'Una valle nei dintorni di Chefchaouen, con le gole e le cascate del fiume e sentieri tra le rocce. È la gita della giornata per chi vuole la natura dopo la medina.',
+        come: 'Auto con autista o taxi da Chefchaouen.',
+        quando: 'In primavera e in autunno.',
+        tempo: 'una giornata',
+        consiglio: 'Scarpe da camminata: i sentieri passano sulle rocce e nell\'acqua.',
+      },
+    ],
+    programmi: [
+      {
+        titolo: '1 giorno',
+        tappe: ['Mattina: la medina all\'alba', 'Kasbah e piazza Outa el-Hammam', 'Pomeriggio: Ras el-Ma', 'Tramonto dalla Moschea spagnola'],
+      },
+      {
+        titolo: '2 giorni',
+        tappe: ['Giorno 1: come sopra', 'Giorno 2: Akchour in giornata con autista'],
+      },
+    ],
+    zone: [
+      {
+        nome: 'Medina',
+        perChi: 'chi vuole la città blu fuori dalla porta',
+        testo: 'Riad e piccoli hotel tra i vicoli. Molte scale e salite con i bagagli.',
+      },
+      {
+        nome: 'Fuori dalle mura',
+        perChi: 'chi arriva in auto',
+        testo: 'Hotel più grandi, più comodi per parcheggiare, a pochi minuti a piedi dalla medina.',
+      },
+    ],
+    sapori: [
+      { nome: 'Formaggio di capra del Rif', testo: 'Il formaggio fresco delle montagne intorno, nei ristoranti della medina.' },
+      { nome: 'Tajine', testo: 'Carne o pollo cotti nella terracotta, come nel resto del Marocco.' },
+      { nome: 'Tè alla menta', testo: 'Servito ovunque, caldo e molto dolce, nei caffè della piazza.' },
+    ],
+    attenzioni: [
+      'Chi offre cannabis per strada: il Marocco ha tolleranza zero sulle droghe, anche per i turisti, con carcere e multe pesanti.',
+      'Finte guide che si offrono per accompagnare alla Moschea spagnola: il sentiero è facile e si fa da soli.',
+      'Foto alle persone: va chiesto prima.',
+    ],
+    // GUIDA-END
+    esperienzeSlugs: [],
+    tripSlugs: ['marocco-citta-imperiali'],
+    imageAlt: 'I vicoli dipinti di blu della medina di Chefchaouen, nelle montagne del Rif, Marocco',
+  },
+  {
+    slug: 'fes',
+    paeseSlug: 'marocco',
+    ordine: 8,
+    nome: 'Fès',
+    tipologia: ['città', 'cultura', 'città imperiale'],
+    giorniConsigliati: '2-3 giorni',
+    visitataPersonalmente: false,
+    introduzione:
+      'Fondata nel 789 da Idris I, capitale fino al 1912. La città vecchia, Fès el-Bali, è patrimonio UNESCO dal 1981 ed è una delle zone pedonali urbane più grandi e antiche del mondo.',
+    percheAndarci:
+      'Per una delle medine più grandi e antiche del mondo, con le madrase merinidi, la Qarawiyyin e le concerie. È il punto in cui questo itinerario si divide da quello del deserto.',
+    cosaVedere: [
+      'Bab Bou Jeloud',
+      'Medersa Bou Inania',
+      'Medersa al-Attarine',
+      'La Qarawiyyin (solo dall\'esterno)',
+      'Le concerie Chouara',
+      'Fès Jdid, il Mellah e il Palazzo Reale (da fuori)',
+      'I giardini di Jnan Sbil',
+    ],
+    cosaFare: ['Una mattina con una guida ufficiale in Fès el-Bali', 'Guardare le concerie dalle terrazze', 'Il tramonto sulla medina dalle Tombe merinidi'],
+    comeArrivare:
+      'In treno ONCF da Meknès, Rabat e Casablanca; in bus CTM da Chefchaouen; aeroporto di Fès-Saïss con voli dall\'Europa.',
+    comeSpostarsi: 'A piedi nella medina, in petit taxi tra la medina, Fès Jdid e la stazione.',
+    periodoMigliore: 'primavera e autunno; d\'estate fa molto caldo',
+    erroriDaEvitare: [
+      'Girare il primo giorno da soli senza mappa offline: la medina è un labirinto',
+      'Seguire chi si offre come guida per strada: le guide ufficiali hanno un tesserino',
+      'Prenotare un riad senza chiedere dove lascia il taxi: nella medina le auto non entrano',
+    ],
+    // GUIDA-START
+    luoghi: [
+      {
+        nome: 'Bab Bou Jeloud e la Talaa Kebira',
+        testo:
+          'La porta decorata di maioliche blu da cui si entra in Fès el-Bali. Da qui scende la Talaa Kebira, la via principale della medina, tra botteghe, banchi di cibo e muli carichi.',
+        come: 'Petit taxi fino a Bab Bou Jeloud, poi a piedi in discesa.',
+        quando: 'Mattina, quando le botteghe aprono.',
+        tempo: 'mezz\'ora, poi si continua nella medina',
+      },
+      {
+        nome: 'Medersa Bou Inania',
+        testo:
+          'Voluta dal sultano merinide Abu Inan e costruita tra il 1350 e il 1355. È l\'unica madrasa del Marocco che faceva anche da moschea del venerdì, con il suo minareto. Di fronte c\'è il vecchio orologio ad acqua, completato nel 1357, il cui meccanismo oggi non è più compreso.',
+        come: 'Lungo la Talaa Kebira, pochi minuti dopo Bab Bou Jeloud. La sala di preghiera non è aperta ai non musulmani, ma si vede dal cortile.',
+        quando: 'Mattina presto. Fuori dagli orari della preghiera.',
+        tempo: 'mezz\'ora abbondante',
+      },
+      {
+        nome: 'Medersa al-Attarine',
+        testo:
+          'Piccola madrasa costruita tra il 1323 e il 1325 per il sultano merinide Abu Said Uthman II, con il cortile coperto di zellige, stucchi e legno di cedro intagliato. È aperta come sito storico.',
+        come: 'Nel cuore della medina, accanto alla Qarawiyyin.',
+        quando: 'Mattina.',
+        tempo: 'mezz\'ora circa',
+      },
+      {
+        nome: 'La Qarawiyyin',
+        testo:
+          'La moschea fondata nell\'857-859, secondo la tradizione da Fatima al-Fihri, poi diventata un centro di studi che l\'UNESCO cita come la più antica istituzione d\'insegnamento superiore ancora attiva al mondo. È il centro della medina.',
+        come: 'I non musulmani non entrano: dalle porte aperte si vedono una parte del cortile e degli interni.',
+        tempo: 'pochi minuti',
+        consiglio: 'Non fermarsi a lungo davanti alle porte durante la preghiera.',
+      },
+      {
+        nome: 'Concerie Chouara',
+        testo:
+          'La più grande conceria della città, con le vasche di pietra piene di tinture dove si lavorano le pelli come da secoli. È tra le più antiche della città, restaurata nel XXI secolo e lasciata al suo posto. L\'odore è forte.',
+        come: 'Si guarda dall\'alto, dalle terrazze delle botteghe di pelle intorno, che chiedono di passare dal negozio.',
+        quando: 'Di giorno, quando le vasche sono in attività.',
+        tempo: 'mezz\'ora circa',
+        consiglio: 'Non c\'è obbligo di comprare. Una piccola mancia a chi accompagna sulla terrazza è normale.',
+      },
+      {
+        nome: 'Fès Jdid e il Mellah',
+        testo:
+          'La città nuova fondata dai Merinidi nel 1276, con le grandi porte del Palazzo Reale e il Mellah, l\'antico quartiere ebraico.',
+        come: 'Petit taxi o a piedi da Bab Bou Jeloud passando per Jnan Sbil. Il Palazzo Reale si vede solo da fuori.',
+        quando: 'Pomeriggio.',
+        tempo: 'un paio d\'ore',
+      },
+      {
+        nome: 'Jnan Sbil',
+        testo: 'I giardini storici tra Fès el-Bali e Fès Jdid, sistemati nell\'Ottocento sotto Moulay Hassan I: la pausa all\'ombra della giornata.',
+        come: 'A piedi da Bab Bou Jeloud.',
+        tempo: 'mezz\'ora abbondante',
+      },
+      {
+        nome: 'Le Tombe merinidi',
+        testo: 'Le rovine sulle colline a nord della medina. Il motivo per salirci è la vista: tutta Fès el-Bali sotto, con i tetti e i minareti.',
+        come: 'In petit taxi, concordando anche il ritorno.',
+        quando: 'Prima del tramonto.',
+        tempo: 'un\'ora circa',
+      },
+    ],
+    programmi: [
+      {
+        titolo: '1 giorno',
+        tappe: [
+          'Mattina con guida ufficiale: Bab Bou Jeloud, Medersa Bou Inania, Talaa Kebira',
+          'Medersa al-Attarine e la Qarawiyyin dalle porte',
+          'Pomeriggio: concerie Chouara',
+          'Tramonto dalle Tombe merinidi',
+        ],
+      },
+      {
+        titolo: '2 giorni',
+        tappe: ['Giorno 1: come sopra', 'Giorno 2: Fès Jdid, il Mellah e Jnan Sbil, pomeriggio libero nei souk o in hammam'],
+      },
+      {
+        titolo: '3 giorni',
+        tappe: ['Giorni 1-2: come sopra', 'Giorno 3: Volubilis, Moulay Idriss e Meknès in giornata con auto e autista'],
+      },
+    ],
+    zone: [
+      {
+        nome: 'Fès el-Bali',
+        perChi: 'chi vuole dormire dentro la medina',
+        testo: 'Riad nei vicoli, silenziosi dentro e caotici fuori. Scegliere un riad vicino a una porta raggiungibile in taxi, come Bab Bou Jeloud.',
+      },
+      {
+        nome: 'Ville Nouvelle',
+        perChi: 'chi arriva in treno o vuole comodità',
+        testo: 'La città moderna, con hotel di catena e ristoranti, vicina alla stazione. Per la medina serve il taxi.',
+      },
+    ],
+    sapori: [
+      { nome: 'Pastilla', testo: 'Sfoglia croccante con piccione o pollo, mandorle e cannella, una delle specialità di Fès.' },
+      { nome: 'Harira', testo: 'La zuppa di legumi e pomodoro, che si trova ovunque e la sera del Ramadan rompe il digiuno.' },
+      { nome: 'Cibo di strada sulla Talaa Kebira', testo: 'Pane, frittelle e dolci ai banchi lungo la via principale.' },
+      { nome: 'Tè alla menta', testo: 'Offerto in ogni bottega e riad.' },
+    ],
+    attenzioni: [
+      'Finte guide che si offrono per strada: chiedere il tesserino ufficiale prima di partire con qualcuno.',
+      'Chi dice che una strada è chiusa vuole portare in una bottega: controllare sulla mappa.',
+      'Borseggi tra la folla dei souk: zaino davanti e niente contanti in vista.',
+      'Alle concerie le terrazze sono dei negozi: si guarda, si ringrazia, non si è obbligati a comprare.',
+    ],
+    // GUIDA-END
+    esperienzeSlugs: [],
+    tripSlugs: ['marocco-citta-imperiali'],
+    imageAlt: 'I tetti della medina di Fès el-Bali visti dall\'alto, con i minareti, Marocco',
+  },
+  {
+    slug: 'meknes-volubilis',
+    paeseSlug: 'marocco',
+    ordine: 9,
+    nome: 'Meknès e Volubilis',
+    tipologia: ['città', 'storia', 'città imperiale', 'archeologia'],
+    giorniConsigliati: '1-2 giorni',
+    visitataPersonalmente: false,
+    introduzione:
+      'Meknès è la città di Moulay Ismail, che ne fece la capitale e regnò dal 1672 al 1727: patrimonio UNESCO dal 1996. A circa 30 km ci sono le rovine romane di Volubilis, patrimonio UNESCO dal 1997, e la città santa di Moulay Idriss.',
+    percheAndarci:
+      'Per le porte e i granai di Moulay Ismail, in una città più tranquilla di Fès, e per i mosaici di una città romana ai margini dell\'impero.',
+    cosaVedere: [
+      'Bab Mansour e la piazza el-Hedim',
+      'Il mausoleo di Moulay Ismail',
+      'L\'Heri es-Souani e il bacino dell\'Agdal',
+      'La Medersa Bou Inania di Meknès',
+      'Volubilis',
+      'Moulay Idriss Zerhoun',
+    ],
+    cosaFare: ['Volubilis la mattina presto', 'Un giro a piedi nella medina di Meknès, da soli'],
+    comeArrivare: 'In treno ONCF da Fès o da Rabat (tempi su oncf-voyages.ma). Meknès ha due stazioni.',
+    comeSpostarsi: 'A piedi nella medina, petit taxi in città, taxi o auto con autista per Volubilis e Moulay Idriss.',
+    periodoMigliore: 'primavera e autunno; a Volubilis d\'estate il sole picchia',
+    erroriDaEvitare: [
+      'Andare a Volubilis nelle ore centrali d\'estate: il sito è quasi senza ombra',
+      'Chiamare scuderie l\'Heri es-Souani: era un granaio, come spiegano le fonti storiche',
+    ],
+    // GUIDA-START
+    luoghi: [
+      {
+        nome: 'Volubilis',
+        testo:
+          'Abitata già nel III secolo a.C., forse capitale del regno di Mauretania, diventò romana quando Roma annesse la Mauretania nel 44 d.C. Alla fine del II secolo aveva circa 20.000 abitanti e viveva di olio d\'oliva. Verso il 285 cadde in mano alle tribù locali e Roma non la riprese più. Restano il Decumano Massimo, la basilica, il Campidoglio, l\'Arco di Caracalla del 217 e i mosaici nelle case, come le Fatiche di Ercole e Orfeo.',
+        come: 'A circa mezz\'ora di strada a nord di Meknès, in taxi o auto con autista; si fa in giornata anche da Fès. Si visita a piedi lungo il percorso del sito.',
+        quando: 'Mattina presto: il sito è aperto e quasi senza ombra.',
+        tempo: 'un paio d\'ore',
+        consiglio: 'Cappello, acqua e scarpe chiuse. Una guida aiuta a leggere le rovine.',
+      },
+      {
+        nome: 'Moulay Idriss Zerhoun',
+        testo:
+          'La città santa costruita intorno al mausoleo di Idris I, che a Volubilis fondò nel 787-788 la dinastia idriside e lì fu ucciso nel 791. Il mausoleo di oggi fu ricostruito da Moulay Ismail all\'inizio del Settecento. È a pochi chilometri dalle rovine, sulle colline.',
+        come: 'Con lo stesso taxi di Volubilis. Il mausoleo è un luogo di pellegrinaggio e non è aperto ai non musulmani.',
+        quando: 'Dopo Volubilis, a fine mattina.',
+        tempo: 'un\'ora circa',
+        consiglio: 'Salire sulla collina più alta del paese, da dove si vede tutto il complesso religioso.',
+      },
+      {
+        nome: 'Bab Mansour e la piazza el-Hedim',
+        testo:
+          'La porta monumentale iniziata da Moulay Ismail e finita nel 1732 dal figlio Moulay Abdallah, che prende il nome da Mansour al-Alj, un ex schiavo cristiano convertito all\'Islam. Davanti c\'è la piazza el-Hedim, che vuol dire "macerie": viene dalle demolizioni fatte per aprirla.',
+        come: 'A piedi, all\'ingresso della medina.',
+        quando: 'Tardo pomeriggio, quando la piazza si anima.',
+        tempo: 'mezz\'ora circa',
+      },
+      {
+        nome: 'Mausoleo di Moulay Ismail',
+        testo: 'La tomba del sultano. È ancora un luogo religioso, aperto anche ai turisti.',
+        come: 'A piedi da Bab Mansour, nella città imperiale. Abiti coprenti e silenzio.',
+        tempo: 'mezz\'ora circa',
+      },
+      {
+        nome: 'Heri es-Souani',
+        testo:
+          'L\'enorme granaio e magazzino di Moulay Ismail, con 22 file di archi che reggevano una volta ormai crollata. Spesso viene chiamato scuderia, ma era un granaio. È accanto al bacino dell\'Agdal, parte del sistema idrico del palazzo.',
+        come: 'Petit taxi da Bab Mansour: è lontano a piedi.',
+        tempo: 'un\'ora scarsa',
+      },
+      {
+        nome: 'Medersa Bou Inania di Meknès',
+        testo: 'La madrasa merinide fondata nel 1335-36 dal sultano Abu al-Hasan e oggi intitolata al figlio Abu Inan.',
+        come: 'Nella medina, a piedi da el-Hedim.',
+        tempo: 'mezz\'ora circa',
+      },
+      {
+        nome: 'Museo Dar Jamai',
+        testo: 'Un palazzo del 1882, costruito da un gran visir del sultano Moulay Hassan, che oggi ospita un museo affacciato sulla piazza el-Hedim.',
+        come: 'Sulla piazza el-Hedim.',
+        tempo: 'un\'ora scarsa',
+      },
+    ],
+    programmi: [
+      {
+        titolo: '1 giorno',
+        tappe: ['Mattina: Volubilis', 'Fine mattina: Moulay Idriss', 'Pomeriggio: Bab Mansour, el-Hedim e il mausoleo di Moulay Ismail'],
+      },
+      {
+        titolo: '2 giorni',
+        tappe: ['Giorno 1: Volubilis e Moulay Idriss', 'Giorno 2: Meknès, con Heri es-Souani, la medersa e Dar Jamai'],
+      },
+    ],
+    zone: [
+      {
+        nome: 'Medina',
+        perChi: 'chi vuole dormire vicino a el-Hedim',
+        testo: 'Riad e guest house a pochi passi da Bab Mansour.',
+      },
+      {
+        nome: 'Ville Nouvelle',
+        perChi: 'chi viaggia in treno',
+        testo: 'Hotel più semplici da raggiungere dalla stazione; per la medina serve il taxi.',
+      },
+    ],
+    sapori: [
+      { nome: 'Olive e olio della piana', testo: 'La zona di Volubilis e Meknès è terra di ulivi fin dall\'epoca romana.' },
+      { nome: 'Tajine', testo: 'Nei ristoranti intorno a el-Hedim.' },
+      { nome: 'Harira', testo: 'La zuppa di legumi che si trova ovunque.' },
+    ],
+    attenzioni: [
+      'A Volubilis si offrono guide: concordare prezzo e durata prima di partire, e chiedere il tesserino ufficiale.',
+      'Il taxi per Volubilis e Moulay Idriss va concordato prima, con attesa e ritorno inclusi.',
+      'Abiti coprenti a Moulay Idriss, che è una città santa.',
+    ],
+    // GUIDA-END
+    esperienzeSlugs: [],
+    tripSlugs: ['marocco-citta-imperiali'],
+    imageAlt: 'Le colonne e l\'Arco di Caracalla tra le rovine romane di Volubilis, vicino a Meknès, Marocco',
+  },
+  {
+    slug: 'rabat',
+    paeseSlug: 'marocco',
+    ordine: 10,
+    nome: 'Rabat (e la Moschea Hassan II di Casablanca)',
+    tipologia: ['città', 'cultura', 'città imperiale', 'mare'],
+    giorniConsigliati: '1-2 giorni, più mezza giornata a Casablanca',
+    visitataPersonalmente: false,
+    introduzione:
+      'La capitale del Marocco dal 1912, rimasta tale dopo l\'indipendenza del 1956, sulla foce del Bou Regreg, di fronte a Salé. Patrimonio UNESCO dal 2012, con la città vecchia e quella moderna. A un breve tratto di treno c\'è Casablanca, con la Moschea Hassan II.',
+    percheAndarci:
+      'Per la Kasbah degli Oudaya sul mare, la Torre Hassan e lo Chellah, in una città ordinata dove si gira senza pressioni. Poi Casablanca per la sua moschea.',
+    cosaVedere: [
+      'La Kasbah degli Oudaya',
+      'I Giardini andalusi',
+      'La Torre Hassan',
+      'Il Mausoleo di Mohammed V',
+      'Lo Chellah',
+      'La Moschea Hassan II a Casablanca',
+    ],
+    cosaFare: ['Il belvedere della kasbah sul fiume e sull\'Atlantico', 'Il tour guidato della Moschea Hassan II'],
+    comeArrivare:
+      'In treno ONCF: Al Boraq da Tangeri e da Casablanca; treni da Meknès e Fès (tempi su oncf-voyages.ma). Le stazioni sono Rabat Ville e Rabat Agdal. C\'è anche l\'aeroporto di Rabat-Salé.',
+    comeSpostarsi: 'A piedi e in tram, che collega Rabat e Salé dal 2011.',
+    periodoMigliore: 'tutto l\'anno, con la primavera e l\'autunno più piacevoli',
+    erroriDaEvitare: [
+      'Arrivare alla Moschea Hassan II in pantaloncini o senza maniche: non si entra',
+      'Andare alla Moschea Hassan II senza controllare i turni: il venerdì sono meno',
+    ],
+    // GUIDA-START
+    luoghi: [
+      {
+        nome: 'Kasbah degli Oudaya',
+        testo:
+          'La cittadella costruita dagli Almohadi verso il 1150 sulla foce del Bou Regreg. Si entra dalla porta di Bab Oudaya, fatta tra il 1195 e il 1199, e si cammina tra le case bianche e blu fino al belvedere su Salé e sull\'Atlantico. Nel padiglione di Moulay Ismail c\'è il Museo nazionale dei gioielli, riaperto nel 2023.',
+        come: 'A piedi dalla medina. Ingresso libero alla kasbah.',
+        quando: 'Mattina o tardo pomeriggio.',
+        tempo: 'un\'ora o poco più',
+      },
+      {
+        nome: 'Giardini andalusi',
+        testo: 'Il giardino creato tra il 1915 e il 1918, durante il protettorato francese, sul modello dei giardini moreschi di al-Andalus, dentro la kasbah.',
+        come: 'Dentro la Kasbah degli Oudaya.',
+        tempo: 'mezz\'ora circa',
+      },
+      {
+        nome: 'Torre Hassan e Mausoleo di Mohammed V',
+        testo:
+          'La Torre Hassan è il minareto mai finito della grande moschea voluta dal sultano almohade Yaqub al-Mansur, iniziata nel 1191 e lasciata incompiuta alla sua morte, nel 1199. Accanto c\'è il Mausoleo di Mohammed V, completato nel 1971, dove sono sepolti anche i figli, il re Hassan II e il principe Abdallah, con la guardia d\'onore all\'ingresso.',
+        come: 'A piedi o in tram.',
+        quando: 'Mattina o tardo pomeriggio.',
+        tempo: 'un\'ora circa',
+        consiglio: 'Abiti coprenti e niente foto alle guardie senza chiedere.',
+      },
+      {
+        nome: 'Chellah',
+        testo:
+          'Il luogo dove si sovrappongono le rovine della città romana di Sala e la necropoli dei Merinidi, iniziata nel 1284-85. La porta principale è del 1339. Sugli alberi e sul vecchio minareto nidificano le cicogne. Le rovine hanno ospitato per anni il festival Jazz au Chellah.',
+        come: 'Petit taxi o a piedi dalla Torre Hassan.',
+        quando: 'Pomeriggio, quando la luce è più morbida.',
+        tempo: 'un\'ora circa',
+      },
+      {
+        nome: 'Moschea Hassan II (Casablanca)',
+        testo:
+          'La grande moschea sul mare di Casablanca, una delle poche in Marocco che i non musulmani possono visitare, solo con il tour guidato. Il tour passa dalla sala di preghiera, dalla sala del minareto e dalle sale delle abluzioni.',
+        come: 'Al Boraq da Rabat Agdal a Casa Voyageurs, poi taxi.',
+        quando:
+          'Turni guidati più volte al giorno, la mattina e nel primo pomeriggio; il venerdì sono meno. Gli orari aggiornati sono su fmh2.ma, dove sono indicati in ora GMT.',
+        tempo: 'un\'ora circa',
+        costo: '140 MAD per gli adulti stranieri (fmh2.ma, novembre 2026)',
+        url: 'https://fmh2.ma/',
+        consiglio: 'Spalle, busto e gambe coperti fin sotto le ginocchia: niente pantaloncini né canottiere. Le scarpe si tolgono all\'ingresso, con i sacchetti dati alla porta.',
+      },
+    ],
+    programmi: [
+      {
+        titolo: '1 giorno',
+        tappe: ['Mattina: Kasbah degli Oudaya e Giardini andalusi', 'Pomeriggio: Torre Hassan e Mausoleo di Mohammed V', 'Fine pomeriggio: Chellah'],
+      },
+      {
+        titolo: '2 giorni',
+        tappe: ['Giorno 1: come sopra', 'Giorno 2: Al Boraq per Casablanca e tour della Moschea Hassan II'],
+      },
+    ],
+    zone: [
+      {
+        nome: 'Medina di Rabat',
+        perChi: 'chi vuole dormire vicino alla kasbah',
+        testo: 'Riad a pochi minuti dalla Kasbah degli Oudaya. Più tranquilla della medina di Fès.',
+      },
+      {
+        nome: 'Centro moderno e Agdal',
+        perChi: 'chi viaggia in treno',
+        testo: 'Hotel vicini alle stazioni di Rabat Ville e Rabat Agdal, con il tram per la medina.',
+      },
+    ],
+    sapori: [
+      { nome: 'Pesce dell\'Atlantico', testo: 'Pesce alla griglia nei ristoranti verso il porto e la foce del fiume.' },
+      { nome: 'Tè alla menta', testo: 'Nei caffè della kasbah e della medina.' },
+    ],
+    attenzioni: [
+      'Alla Moschea Hassan II si entra solo con il tour guidato e con abiti coprenti: il prezzo ufficiale è quello del sito fmh2.ma.',
+      'Borseggi nelle zone affollate e sulle spiagge.',
+      'Taxi: chiedere il tassametro o concordare il prezzo prima.',
+    ],
+    // GUIDA-END
+    esperienzeSlugs: [],
+    tripSlugs: ['marocco-citta-imperiali'],
+    imageAlt: 'La porta almohade di Bab Oudaya e le mura della Kasbah degli Oudaya a Rabat, Marocco',
+  },
 ]

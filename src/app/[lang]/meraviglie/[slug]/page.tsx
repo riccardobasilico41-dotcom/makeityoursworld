@@ -115,6 +115,7 @@ export async function generateMetadata({
   if (!meraviglia) return {}
   const seo = seoMeraviglia(slug, lingua)
   return pageMetadata({
+    ogPropria: true, // opengraph-image.tsx della pagina
     lingua,
     title: seo?.seoTitle ?? meraviglia.titolo,
     description: seo?.seoDescription ?? meraviglia.descrizione,
@@ -178,7 +179,7 @@ export default async function MeravigliaPage({ params }: { params: Promise<{ slu
         credito={heroVideo ? creditiHeroVideoMeraviglie[meraviglia.slug] : creditiMeraviglie[meraviglia.slug]}
       />
 
-      <section className="py-16 sm:py-20">
+      <section className="sezione">
         <Container className="grid gap-14 lg:grid-cols-[1.6fr_1fr]">
           <div className="space-y-12">
             <div>

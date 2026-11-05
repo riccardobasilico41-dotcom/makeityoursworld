@@ -1,0 +1,70 @@
+import type { TripMeta } from '@/lib/types'
+
+export const baliSulawesiRajaAmpatMeta: TripMeta = {
+  tripSlug: 'bali-sulawesi-raja-ampat',
+  paeseSlug: 'indonesia',
+  ritmo:
+    'Fast: three islands in twelve days, with three domestic flights and a full travel day on the way back from Raja Ampat. Slow only in the water, between Kri and the Fam Islands',
+  trasporti:
+    'Driver on Bali, Denpasar-Manado flight, car and boat with a local operator in North Sulawesi, Manado-Sorong flight, Sorong-Waisai fast ferry, homestay boats between the Raja Ampat islands, Sorong-Denpasar flight',
+  stile: ['mare', 'snorkeling', 'immersioni', 'natura', 'isole'],
+  adattoA: [
+    'those with less than two weeks who want to see how much Indonesia changes from one island to the next',
+    'snorkeling and diving lovers, from Bunaken to the reefs of Raja Ampat',
+    'those who accept domestic flights, connections and a few long transfer days',
+    'those who prefer homestays to resorts',
+  ],
+  puntiForti: [
+    'The Arborek reef and the Fam Islands, among the richest seas for fish in the world',
+    'The walls of Bunaken dropping into the blue',
+    'The tarsiers of the Tangkoko reserve',
+    'The Raja Ampat homestays, which get the money to the families',
+    'A route with no backtracking thanks to the Manado-Sorong and Sorong-Denpasar flights',
+    'The versions with just one island besides Bali, to pick by season',
+  ],
+  criticita: [
+    'Three islands in twelve days is a taste: each island would deserve at least a week',
+    'Domestic flight routes and times change often: no tight connections',
+    'From May to September the wind blows in Raja Ampat: longer transfers and outings that can be canceled',
+    'The Raja Ampat permit amount for foreigners is not confirmed',
+    'No ATMs on the Raja Ampat islands: withdraw in Sorong or Waisai',
+    'Few hospitals in the Papua region: you need insurance that covers evacuation',
+    'Strong currents in Raja Ampat: some spots are only done at the right times',
+  ],
+  budgetTotale: undefined,
+  viaggioInBreve: {
+    conChiSonoPartito: 'itinerary designed for independent travel, with Wale Adventure in North Sulawesi and the Raja Ampat homestays',
+    treEsperienzePiuBelle: 'The Arborek reef, the walls of Bunaken, the Kecak dance at Uluwatu',
+    aChiLoConsiglio: 'To those with little time who love the sea; if you can, just one island besides Bali, chosen by the month',
+  },
+  tappeMappa: [
+    { nome: 'Ubud', destinazioneSlug: 'bali' },
+    { nome: 'Uluwatu', destinazioneSlug: 'bali' },
+    { nome: 'Manado, Tomohon and Bunaken', destinazioneSlug: 'sulawesi', lat: 1.61432, lng: 124.77546 },
+    { nome: 'Kri and the Fam Islands', destinazioneSlug: 'raja-ampat' },
+    { nome: 'Back to Bali', destinazioneSlug: 'bali' },
+  ],
+  giorni: [
+    { titoloGiorno: 'Day 1 — Arrival in Bali and the road to Ubud', tratta: 'Denpasar airport → Ubud, with a driver', pernottamento: 'Ubud', statoPernottamento: 'consigliato', intensita: 'leggero', costiNoti: 'Bali tourist levy 150,000 IDR per person, paid online', destinazioneSlug: 'bali' },
+    { titoloGiorno: 'Day 2 — Ubud, the rice terraces and Sidemen', tratta: 'Ubud → Sidemen and back, with a driver', pernottamento: 'Ubud', statoPernottamento: 'consigliato', intensita: 'medio', destinazioneSlug: 'bali' },
+    { titoloGiorno: 'Day 3 — Uluwatu and the Kecak dance at sunset', tratta: 'Ubud → Uluwatu with a driver', pernottamento: 'Uluwatu', statoPernottamento: 'consigliato', intensita: 'leggero', destinazioneSlug: 'bali' },
+    { titoloGiorno: 'Day 4 — Flight to Manado and up to Tomohon', tratta: 'Denpasar → Manado by plane, direct or via Makassar; Manado → Tomohon by car', pernottamento: 'Tomohon', statoPernottamento: 'consigliato', intensita: 'medio', destinazioneSlug: 'sulawesi' },
+    { titoloGiorno: 'Day 5 — Tangkoko, the forest of the tarsiers', tratta: 'Tomohon → Tangkoko reserve and back', pernottamento: 'Tomohon or near Tangkoko', statoPernottamento: 'consigliato', intensita: 'intenso', costiNoti: 'Tangkoko day trip with Wale Adventure €62 per person, minimum 2 people (website price list)', destinazioneSlug: 'sulawesi' },
+    { titoloGiorno: 'Day 6 — Bunaken and the walls that drop into the blue', tratta: 'Manado pier → Bunaken by boat and back', pernottamento: 'Manado', statoPernottamento: 'consigliato', intensita: 'medio', costiNoti: 'Bunaken day trip with Wale Adventure €62 per person, minimum 2 people (website price list); diving extra', destinazioneSlug: 'sulawesi' },
+    { titoloGiorno: 'Day 7 — Flight to Sorong, ferry to Waisai and Kri', tratta: 'Manado → Sorong by plane, Sorong-Waisai ferry about 2h (2 pm departure), boat to Kri', pernottamento: 'Kri, homestay', statoPernottamento: 'consigliato', intensita: 'intenso', costiNoti: 'ferry ticket at the port (economy or VIP); park permit, amount for foreigners to be checked', destinazioneSlug: 'raja-ampat' },
+    { titoloGiorno: 'Day 8 — Kri and the Arborek reef', pernottamento: 'Kri, homestay', statoPernottamento: 'consigliato', intensita: 'medio', destinazioneSlug: 'raja-ampat' },
+    { titoloGiorno: 'Day 9 — To the Fam Islands and Piaynemo at sunset', tratta: 'Kri → Fam Islands by boat, Piaynemo', pernottamento: 'Fam Islands, homestay', statoPernottamento: 'consigliato', intensita: 'medio', destinazioneSlug: 'raja-ampat' },
+    { titoloGiorno: 'Day 10 — Fam: Rufas and the Fam Wall', pernottamento: 'Fam Islands, homestay', statoPernottamento: 'consigliato', intensita: 'medio', destinazioneSlug: 'raja-ampat' },
+    { titoloGiorno: 'Day 11 — Back to Sorong and flight to Bali', tratta: 'Fam → Waisai by boat, ferry to Sorong about 2h, flight Sorong → Denpasar', pernottamento: 'Bali or Sorong', statoPernottamento: 'consigliato', intensita: 'intenso', destinazioneSlug: 'raja-ampat' },
+    { titoloGiorno: 'Day 12 — Departure', intensita: 'leggero', destinazioneSlug: 'bali' },
+  ],
+  budget: [
+    { etichetta: 'International flights', valore: undefined },
+    { etichetta: 'Domestic flights Denpasar-Manado, Manado-Sorong, Sorong-Denpasar', valore: undefined },
+    { etichetta: 'Bali tourist levy', valore: '150,000 IDR per person' },
+    { etichetta: 'North Sulawesi tours with Wale Adventure', valore: 'day trips to Tangkoko or Bunaken €62 per person, Tomohon €42, minimum 2 people (website price list)' },
+    { etichetta: 'Sorong-Waisai ferry', valore: 'ticket at the port, economy or VIP; price to be checked' },
+    { etichetta: 'Raja Ampat permit (PIN)', valore: 'mandatory, amount for foreigners changed in 2026 and to be checked' },
+    { etichetta: 'Raja Ampat homestays', valore: undefined },
+  ],
+}

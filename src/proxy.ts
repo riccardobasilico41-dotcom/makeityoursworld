@@ -21,6 +21,11 @@ export function proxy(request: NextRequest) {
   const url = request.nextUrl
   const { pathname } = url
 
+  // Le immagini Open Graph generate da Next hanno l'indirizzo interno (/en/viaggi/<slug>/opengraph-image):
+  // si servono così come sono. Col 308 qui sotto finivano su /viaggi/… e poi su /it/…, cioè l'anteprima
+  // inglese arrivava dopo due redirect e in italiano.
+  if (pathname.startsWith('/en/') && pathname.endsWith('/opengraph-image')) return NextResponse.next()
+
   if (pathname === '/en' || pathname.startsWith('/en/')) {
     url.pathname = pathname.slice(3) || '/'
     return NextResponse.redirect(url, 308)

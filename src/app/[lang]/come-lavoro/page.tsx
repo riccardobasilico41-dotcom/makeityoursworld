@@ -99,7 +99,7 @@ export default async function ComeLavoroPage() {
         }}
       />
       <PageHeader crumbs={[{ label: 'Home', href: '/' }, { label: t.briciola }]} eyebrow={t.eyebrow} title={t.titolo} lead={t.lead} />
-      <section className="py-16 sm:py-20">
+      <section className="sezione">
         <Container>
           <ol className="grid gap-x-12 gap-y-10 md:grid-cols-2">
             {t.voci.map((v, i) => (

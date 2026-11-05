@@ -350,4 +350,8 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     immagine: '/images/peru/machu-picchu-lama-terrazze-riccardo.jpg',
     imageAlt: 'Un lama solitario pascola sui terrazzamenti inca di Machu Picchu nella nebbia del mattino',
   },
+  'sumatra-mentawai': {
+    immagine: '/images/viaggi/sumatra-mentawai/copertina-siberut-costa.webp',
+    imageAlt: 'La costa verde di Siberut vista dal drone: la spiaggia, un pontile di legno e l\'acqua chiara del mare delle Mentawai',
+  },
 }

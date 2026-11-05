@@ -42,7 +42,7 @@ export async function MappaMondoSezione() {
   const { pins, nPaesi } = dati
 
   return (
-    <section aria-labelledby="mondo-titolo" className="border-t border-alpine/10 bg-cream py-14 sm:py-20">
+    <section aria-labelledby="mondo-titolo" className="border-t border-alpine/10 bg-cream sezione">
       <Container>
         <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
           <h2 id="mondo-titolo" className="font-display text-[clamp(2rem,3.4vw,3rem)] text-balance text-alpine">

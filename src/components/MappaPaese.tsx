@@ -286,7 +286,7 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
       type="button"
       aria-pressed={filtro === f}
       onClick={() => cambiaFiltro(f)}
-      className="inline-flex min-h-10 items-center gap-2 rounded-none border-2 border-ink px-4 text-sm font-semibold text-ink transition-colors hover:bg-ink/5 aria-pressed:bg-ink aria-pressed:text-cream"
+      className="inline-flex min-h-11 items-center gap-2 rounded-none border-2 border-ink px-4 text-sm font-semibold text-ink transition-colors hover:bg-ink/5 aria-pressed:bg-ink aria-pressed:text-cream"
     >
       {label}
     </button>
@@ -416,7 +416,7 @@ export function MappaPaese({ nomePaese, mappa, punti }: { nomePaese: string; map
                 <button
                   type="button"
                   onClick={tutto}
-                  className="min-h-10 rounded-none border-2 border-ink bg-cream px-3 text-xs font-semibold uppercase tracking-wider text-ink transition-colors hover:bg-ink hover:text-cream"
+                  className="min-h-11 rounded-none border-2 border-ink bg-cream px-3 text-xs font-semibold uppercase tracking-wider text-ink transition-colors hover:bg-ink hover:text-cream"
                 >
                   {t.tuttoPaese}
                 </button>

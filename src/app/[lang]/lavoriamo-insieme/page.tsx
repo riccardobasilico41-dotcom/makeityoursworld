@@ -170,7 +170,7 @@ export default async function LavoriamoInsiemePage() {
                   {href ? (
                     <a
                       href={href}
-                      className="mt-6 inline-flex min-h-11 items-center gap-2 self-start bg-rosso px-5 py-2.5 text-sm font-semibold text-cream hover:bg-rosso-dark"
+                      className="btn btn-primario mt-6 self-start"
                     >
                       <Mail size={16} aria-hidden="true" />
                       {p.azione}

@@ -329,4 +329,8 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     immagine: '/images/peru/machu-picchu-lama-terrazze-riccardo.jpg',
     imageAlt: "Una llama solitaria pasta en los andenes incas de Machu Picchu en la niebla de la mañana",
   },
+  'sumatra-mentawai': {
+    immagine: '/images/viaggi/sumatra-mentawai/copertina-siberut-costa.webp',
+    imageAlt: 'La costa verde de Siberut vista desde el dron: la playa, un embarcadero de madera y el agua clara del mar de las Mentawai',
+  },
 }

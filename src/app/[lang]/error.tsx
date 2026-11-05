@@ -51,7 +51,7 @@ export default function ErrorePagina({ error, reset }: { error: Error & { digest
           <button
             type="button"
             onClick={reset}
-            className="inline-flex min-h-12 items-center gap-2 bg-rosso px-6 py-3 text-[0.95rem] font-semibold text-cream hover:bg-rosso-dark"
+            className="btn btn-primario"
           >
             <RotateCcw size={16} aria-hidden /> {t.riprova}
           </button>

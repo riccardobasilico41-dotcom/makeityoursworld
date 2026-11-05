@@ -189,7 +189,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Ley: Indonesia tiene leyes muy severas sobre drogas. No llevar nada que no sea propio."
     ],
     esperienzeSlugs: ['trekking-oranghi-bukit-lawang'],
-    tripSlugs: ['indonesia-itinerario', 'sumatra-mentawai'],
+    tripSlugs: ['indonesia-itinerario', 'sumatra-mentawai', 'indonesia-isola-per-isola'],
     imageAlt: "El lago Toba visto desde arriba entre colinas verdes y bosque, Sumatra",
     immagine: '/images/indonesia/sumatra.jpg',
   },
@@ -357,7 +357,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Los taxis no oficiales en las estaciones piden tarifas altas: usar Grab o taxis con taxímetro."
     ],
     esperienzeSlugs: ['alba-bromo-jeep'],
-    tripSlugs: ['indonesia-itinerario', 'giava-bali-gili'],
+    tripSlugs: ['indonesia-itinerario', 'giava-bali-gili', 'indonesia-isola-per-isola'],
     imageAlt: "Una cabeza de Buda de piedra de Borobudur, de espaldas, frente al valle envuelto en la niebla del amanecer, Java",
     immagine: '/images/indonesia/borobudur-buddha-nebbia-riccardo.jpg',
   },
@@ -519,7 +519,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       "A la llegada se paga la tasa turística de Bali, 150.000 IDR por persona desde 2024: conviene pagarla online en la web oficial Love Bali (lovebali.baliprov.go.id).",
     ],
     esperienzeSlugs: ['giornata-nusa-penida'],
-    tripSlugs: ['indonesia-itinerario', 'giava-bali-gili'],
+    tripSlugs: ['indonesia-itinerario', 'giava-bali-gili', 'bali-nusa-komodo', 'bali-sulawesi-raja-ampat', 'indonesia-isola-per-isola'],
     imageAlt: 'Las terrazas de arroz de Jatiluwih, en Bali, brillantes de agua hasta el horizonte, vistas desde el dron',
     immagine: '/images/indonesia/jatiluwih-terrazze-riccardo.jpg',
   },
@@ -657,7 +657,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       "El paquete de buceo en Bunaken cuesta más que la media: comparar operadores."
     ],
     esperienzeSlugs: ['diving-bunaken-national-park'],
-    tripSlugs: ['indonesia-itinerario'],
+    tripSlugs: ['indonesia-itinerario', 'bali-sulawesi-raja-ampat', 'indonesia-isola-per-isola'],
     imageAlt: "Un tongkonan de tejado en proa de barco en un pueblo toraja cerca de Rantepao, Célebes",
     immagine: '/images/indonesia/sulawesi.jpg',
   },
@@ -808,7 +808,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       "En las Gili, corrientes y embarcaciones: no nadar lejos de la orilla."
     ],
     esperienzeSlugs: ['trekking-gunung-rinjani'],
-    tripSlugs: ['indonesia-itinerario', 'giava-bali-gili'],
+    tripSlugs: ['indonesia-itinerario', 'giava-bali-gili', 'indonesia-isola-per-isola'],
     imageAlt: 'Un islote de arena blanca frente a Lombok, con las barcas de balancín amarradas y las colinas al fondo',
     immagine: '/images/indonesia/gili-isolotto-barche-riccardo.jpg',
   },
@@ -947,7 +947,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Consultar las tarifas oficiales y los permisos del parque antes de reservar."
     ],
     esperienzeSlugs: ['trekking-draghi-komodo'],
-    tripSlugs: ['indonesia-itinerario'],
+    tripSlugs: ['indonesia-itinerario', 'bali-nusa-komodo', 'indonesia-isola-per-isola'],
     imageAlt: "Las colinas y las bahías de la isla de Padar vistas desde el mirador, Parque Nacional de Komodo",
     immagine: '/images/indonesia/komodo.jpg',
   },
@@ -1086,7 +1086,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Llevar efectivo: los cajeros son raros fuera de Labuan Bajo."
     ],
     esperienzeSlugs: ['alba-kelimutu'],
-    tripSlugs: ['indonesia-itinerario'],
+    tripSlugs: ['indonesia-itinerario', 'indonesia-isola-per-isola'],
     imageAlt: "Las casas cónicas mbaru niang del pueblo de Wae Rebo entre las montañas de Flores",
     immagine: '/images/indonesia/flores.jpg',
   },
@@ -1284,7 +1284,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Las corrientes son fuertes: seguir siempre las instrucciones del guía."
     ],
     esperienzeSlugs: ['diving-liveaboard-raja-ampat'],
-    tripSlugs: [],
+    tripSlugs: ['bali-sulawesi-raja-ampat', 'indonesia-isola-per-isola'],
     imageAlt: "Los islotes calizos cubiertos de bosque en la laguna turquesa de Piaynemo, Raja Ampat",
     immagine: '/images/indonesia/raja-ampat.jpg',
   },
@@ -1414,7 +1414,8 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Seguro que cubra la evacuación y visita a una clínica de medicina del viajero por la malaria."
     ],
     esperienzeSlugs: [],
-    tripSlugs: ['sumatra-mentawai'],
-    imageAlt: "La selva de Siberut y las playas de Sipora, islas Mentawai",
+    tripSlugs: ['sumatra-mentawai', 'indonesia-isola-per-isola'],
+    imageAlt: "La selva de las Mentawai que llega hasta el mar, con un río que serpentea hacia la costa, vista desde el dron",
+    immagine: '/images/indonesia/mentawai-costa-foresta.webp',
   },
 ]

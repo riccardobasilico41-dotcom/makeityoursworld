@@ -275,7 +275,8 @@ function Catalogo({
     document.querySelector<HTMLElement>(`#griglia-${f.id} > * > :nth-child(${f.indice + 1}) a`)?.focus()
   }, [visibili])
 
-  const griglia = (id: string, nome: string, items: ViaggioCatalogo[], passo: number) => {
+  // `primo`: la prima griglia della pagina, la cui prima card è l'immagine LCP sul telefono
+  const griglia = (id: string, nome: string, items: ViaggioCatalogo[], passo: number, primo = false) => {
     const quanti = visibili.n[id] ?? passo
     const resto = items.length - quanti
     const prossimi = Math.min(passo, resto)
@@ -283,9 +284,9 @@ function Catalogo({
       <>
         <div id={`griglia-${id}`}>
           <RevealGroup className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3" stagger={0.04}>
-            {items.slice(0, quanti).map((viaggio) => (
+            {items.slice(0, quanti).map((viaggio, i) => (
               <RevealItem key={viaggio.slug}>
-                <TripCard viaggio={viaggio} />
+                <TripCard viaggio={viaggio} subito={primo && i === 0} />
               </RevealItem>
             ))}
           </RevealGroup>
@@ -300,7 +301,7 @@ function Catalogo({
                 setVisibili((v) => ({ ...v, n: { ...v.n, [id]: quanti + passo } }))
                 fuoco.current = { id, indice: quanti }
               }}
-              className={`inline-flex min-h-12 items-center border-2 border-ink bg-white px-6 text-sm font-semibold text-ink transition-colors duration-150 hover:bg-ink hover:text-cream ${FOCUS}`}
+              className={`btn btn-secondario bg-white ${FOCUS}`}
             >
               {t.mostraAltri(prossimi, resto)}
             </button>
@@ -358,7 +359,7 @@ function Catalogo({
                     aria-label={t.rimuovi(nomeChiave[k], valore)}
                     className={`inline-flex min-h-11 items-center gap-2 border-2 border-ink bg-white px-3 text-sm font-medium text-ink transition-colors duration-150 hover:bg-ink hover:text-cream ${FOCUS}`}
                   >
-                    <span className="text-stone/85">{nomeChiave[k]}:</span> {valore}
+                    <span className="opacity-80">{nomeChiave[k]}:</span> {valore}
                     <X size={14} aria-hidden="true" />
                   </button>
                 </li>
@@ -377,7 +378,7 @@ function Catalogo({
 
       {/* Barra che resta in alto mentre si scorre: filtri (sul telefono), quanti viaggi,
           ordinamento e salto diretto a un'area. L'archivio sul telefono è lungo decine di schermate. */}
-      <div className="sticky top-0 z-30 -mx-6 mt-4 flex items-center gap-3 overflow-x-auto border-b border-ink/15 bg-cream/95 px-6 py-2 backdrop-blur sm:-mx-8 sm:px-8 [scrollbar-width:none]">
+      <div className="sticky top-0 z-30 -mx-6 mt-4 flex items-center gap-3 overflow-x-auto border-b border-ink/15 bg-cream px-6 py-2 sm:-mx-8 sm:px-8 [scrollbar-width:none]">
         <button
           type="button"
           aria-haspopup="dialog"
@@ -399,7 +400,7 @@ function Catalogo({
               <a
                 key={g.id}
                 href={`#area-${g.id}`}
-                className={`inline-flex min-h-11 items-center whitespace-nowrap border border-ink/20 px-3 text-sm font-medium text-ink hover:border-ink hover:bg-ink hover:text-cream ${FOCUS}`}
+                className={`chip ${FOCUS}`}
               >
                 {g.nome} <span className="ml-1.5 text-xs opacity-80">{g.items.length}</span>
               </a>
@@ -444,7 +445,7 @@ function Catalogo({
             <button
               type="button"
               onClick={() => dialogo.current?.close()}
-              className={`ml-auto inline-flex min-h-12 items-center bg-rosso px-6 text-[0.95rem] font-semibold text-cream transition-colors duration-150 hover:bg-rosso-dark ${FOCUS}`}
+              className={`btn btn-primario ml-auto ${FOCUS}`}
             >
               {t.mostra(filtrati.length)}
             </button>
@@ -455,7 +456,7 @@ function Catalogo({
       {filtrati.length > 0 ? (
         gruppi ? (
           <div className="mt-10 space-y-14">
-            {gruppi.map((g) => (
+            {gruppi.map((g, gi) => (
               <div key={g.id} id={`area-${g.id}`} className="scroll-mt-20">
                 <div className="flex items-baseline gap-4 border-b border-alpine/15 pb-3">
                   <h2 className="font-display text-[clamp(1.6rem,2.4vw,2.1rem)] text-alpine">{g.nome}</h2>
@@ -463,14 +464,14 @@ function Catalogo({
                     {g.items.length} {g.items.length === 1 ? t.viaggio : t.viaggi}
                   </span>
                 </div>
-                {griglia(g.id, g.nome, g.items, PASSO_GRUPPO)}
+                {griglia(g.id, g.nome, g.items, PASSO_GRUPPO, gi === 0)}
               </div>
             ))}
           </div>
         ) : (
           <div className="mt-4">
             <h2 className="sr-only">{t.ordini[stato.ordine]}</h2>
-            {griglia('lista', t.ordini[stato.ordine], filtrati, PASSO_LISTA)}
+            {griglia('lista', t.ordini[stato.ordine], filtrati, PASSO_LISTA, true)}
           </div>
         )
       ) : (
@@ -623,7 +624,7 @@ function StatoVuoto({
   azzera: () => void
 }) {
   return (
-    <div className="mt-10 border-2 border-ink bg-white p-6 shadow-[6px_6px_0_var(--color-rosso)] sm:p-10">
+    <div className="mt-10 scheda bg-white p-6 sm:p-10">
       <h2 className="font-display text-[clamp(1.5rem,2.4vw,2rem)] text-alpine">{t.nessunoTitolo}</h2>
       <p className="mt-3 max-w-prose text-sm leading-relaxed text-stone">{t.nessunoTesto}</p>
       <div className="mt-6 flex flex-wrap gap-3">
@@ -640,7 +641,7 @@ function StatoVuoto({
         <button
           type="button"
           onClick={azzera}
-          className={`inline-flex min-h-11 items-center bg-rosso px-5 text-sm font-semibold text-cream transition-colors duration-150 hover:bg-rosso-dark ${FOCUS}`}
+          className={`btn btn-primario ${FOCUS}`}
         >
           {t.azzera}
         </button>

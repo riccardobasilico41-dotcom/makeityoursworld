@@ -4,6 +4,7 @@ import { useEffect, useLayoutEffect, useRef, useState } from 'react'
 import { preload } from 'react-dom'
 import { Pause, Play } from 'lucide-react'
 import { useLingua } from '@/lib/i18n/LinguaProvider'
+import { dopoIlCaricamento, pausaFuoriVista, reteLenta } from '@/lib/video-differito'
 import type { Lingua } from '@/lib/i18n/config'
 
 const T = {
@@ -37,6 +38,8 @@ export function HeroVideo({
   const t = T[useLingua()]
   const ref = useRef<HTMLVideoElement>(null)
   const [inPausa, setInPausa] = useState(true)
+  // pausa chiesta dal pulsante: lo scorrimento non la deve annullare
+  const pausaScelta = useRef(false)
   // Il fotogramma d'apertura è l'elemento LCP: si chiede subito, dal <head>, con priorità alta.
   preload(poster, { as: 'image', fetchPriority: 'high' })
 
@@ -87,9 +90,22 @@ export function HeroVideo({
       if (e.persisted) dallInizio()
     }
 
-    dallInizio()
+    // Il video parte dopo il primo caricamento (prima poster, testo, font e script) e non parte
+    // da solo con «Risparmio dati» o rete 2G/3G: resta il poster, con il pulsante play.
+    // Fuori dallo schermo va in pausa, così il file da 1600 px non si scarica mentre si legge.
+    let avviato = false
+    const vista = pausaFuoriVista(video, () => avviato && !pausaScelta.current && !fermo)
+    const smetti = reteLenta()
+      ? () => {}
+      : dopoIlCaricamento(() => {
+          avviato = true
+          if (vista.visibile()) dallInizio()
+          else video.currentTime = partenza
+        })
     window.addEventListener('pageshow', alRitorno)
     return () => {
+      smetti()
+      vista.smetti()
       window.removeEventListener('pageshow', alRitorno)
       video.removeEventListener('timeupdate', saltaTitolo)
     }
@@ -99,8 +115,10 @@ export function HeroVideo({
     const video = ref.current
     if (!video) return
     if (video.paused) {
+      pausaScelta.current = false
       video.play().then(() => setInPausa(false)).catch(() => {})
     } else {
+      pausaScelta.current = true
       video.pause()
       setInPausa(true)
     }
@@ -114,7 +132,10 @@ export function HeroVideo({
         muted
         loop
         playsInline
-        preload="auto"
+        preload="metadata"
+        // il pulsante segue lo stato vero (anche le pause e le ripartenze dovute allo scorrimento)
+        onPlay={() => setInPausa(false)}
+        onPause={() => setInPausa(true)}
         aria-label={label}
         className="absolute inset-0 h-full w-full object-cover"
       >
@@ -125,7 +146,7 @@ export function HeroVideo({
         type="button"
         onClick={alterna}
         aria-label={inPausa ? t.riparti : t.pausa}
-        className="absolute right-3 top-3 z-20 inline-flex size-10 items-center justify-center bg-ink/60 text-cream backdrop-blur-sm transition-colors duration-150 hover:bg-rosso focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cream landscape:lg:bottom-6 landscape:lg:right-6 landscape:lg:top-auto"
+        className="absolute right-3 top-3 z-20 inline-flex size-11 items-center justify-center bg-ink/75 text-cream transition-colors duration-150 hover:bg-rosso focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cream landscape:lg:bottom-6 landscape:lg:right-6 landscape:lg:top-auto"
       >
         {inPausa ? <Play size={16} aria-hidden="true" /> : <Pause size={16} aria-hidden="true" />}
       </button>

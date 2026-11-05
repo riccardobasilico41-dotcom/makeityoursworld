@@ -123,7 +123,7 @@ export default async function ChiSonoPage() {
       />
       <PageHeader crumbs={[{ label: 'Home', href: '/' }, { label: t.briciola }]} eyebrow={t.eyebrow} title={t.titolo} lead={t.lead} />
 
-      <section className="py-16 sm:py-20">
+      <section className="sezione">
         <Container>
           <div className="grid items-start gap-12 lg:grid-cols-[5fr_7fr] lg:gap-20">
             <div className="relative mx-auto max-w-md lg:mx-0">

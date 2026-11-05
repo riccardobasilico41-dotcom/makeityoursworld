@@ -59,7 +59,7 @@ export async function GeographyIndex({
           {gruppi.map(({ continente, items }, gi) => (
             <Reveal key={continente} delay={Math.min(gi * 0.04, 0.2)}>
               <div className="grid gap-4 border-t border-cream/10 pt-8 sm:grid-cols-[10rem_1fr] sm:gap-8">
-                <p className="font-mono text-xs uppercase tracking-[0.2em] text-cream/40">{etichetta(continente, lingua)}</p>
+                <p className="font-mono text-xs uppercase tracking-[0.2em] text-cream/75">{etichetta(continente, lingua)}</p>
                 <ul className="grid gap-x-8 gap-y-3 sm:grid-cols-2 lg:grid-cols-3">
                   {items.map((paese) => (
                     <li key={paese.slug}>
@@ -68,14 +68,14 @@ export async function GeographyIndex({
                         className="group flex items-baseline justify-between gap-3 border-b border-cream/0 pb-1.5 transition-colors hover:border-cream/30"
                       >
                         <span className="flex items-baseline gap-2.5">
-                          <span className="font-mono text-[0.65rem] tabular-nums text-cream/40">
+                          <span className="font-mono text-[0.65rem] tabular-nums text-cream/75">
                             {codicePaese(paese.slug)}
                           </span>
                           <span className="font-display text-lg font-medium text-cream transition-colors">
                             {paese.nome}
                           </span>
                         </span>
-                        <span className="shrink-0 font-mono text-[0.65rem] tabular-nums text-cream/40">
+                        <span className="shrink-0 font-mono text-[0.65rem] tabular-nums text-cream/75">
                           {conteggioDestinazioni(paese.slug)}
                         </span>
                       </Link>

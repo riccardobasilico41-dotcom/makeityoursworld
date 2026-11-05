@@ -50,8 +50,11 @@ export function MappaMondoDifferita({ w, h }: { w: number; h: number }) {
       <div
         className="w-full animate-pulse border-2 border-ink motion-reduce:animate-none"
         style={{ aspectRatio: `${w} / ${h}`, backgroundColor: '#e2e7e6' }}
-        aria-label={T[lingua].caricamento}
-      />
+        role="status"
+      >
+        {/* aria-label su un div senza ruolo non viene letto: il testo sta dentro, solo per gli screen reader */}
+        <span className="sr-only">{T[lingua].caricamento}</span>
+      </div>
       <div className="mt-3 h-10" aria-hidden />
     </div>
   )

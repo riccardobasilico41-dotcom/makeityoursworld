@@ -68,7 +68,7 @@ export async function FaqPaese({ paese }: { paese: Paese }) {
   if (voci.length < 2 || !jsonLd) return null
 
   return (
-    <section id="domande-frequenti" aria-labelledby="faq-titolo" className="scroll-mt-24 border-t border-alpine/10 py-16 sm:py-20">
+    <section id="domande-frequenti" aria-labelledby="faq-titolo" className="scroll-mt-24 border-t border-alpine/10 sezione">
       <JsonLd data={jsonLd} />
       <Container>
         <h2 id="faq-titolo" className="font-display text-[clamp(1.8rem,3vw,2.6rem)] text-alpine">

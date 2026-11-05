@@ -178,6 +178,7 @@ export async function generateMetadata({
   const errori = destinazione.erroriDaEvitare.length
   const paese = getPaese(paeseSlug, lingua)?.nome
   return pageMetadata({
+    ogPropria: true, // opengraph-image.tsx della pagina
     lingua,
     // Formula delle ricerche vere («cosa vedere», «quanti giorni»), dalla più ricca alla più corta che sta in 60 caratteri.
     title: primoTitoloCheSta([
@@ -295,7 +296,7 @@ export default async function DestinazionePage({
         ]}
       />
 
-      <section className="py-14 sm:py-20">
+      <section className="sezione">
         <Container className="space-y-14">
           {AMAZZONIA_SLUG.has(`${paeseSlug}/${destinazione.slug}`) && (
             // le schede amazzoniche rimandano alla sezione che le confronta tutte e alla traversata in barca

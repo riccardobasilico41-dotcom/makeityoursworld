@@ -239,6 +239,15 @@ import { canadaItinerarioMeta } from '@/content/viaggi-dati/canada-itinerario'
 import { giavaBaliGiliMeta } from '@/content/viaggi-dati/giava-bali-gili'
 import { sumatraMentawaiMeta } from '@/content/viaggi-dati/sumatra-mentawai'
 import { peruDueSettimaneMeta } from '@/content/viaggi-dati/peru-due-settimane'
+import { baliNusaKomodoMeta } from '@/content/viaggi-dati/bali-nusa-komodo'
+import { baliSulawesiRajaAmpatMeta } from '@/content/viaggi-dati/bali-sulawesi-raja-ampat'
+import { indonesiaIsolaPerIsolaMeta } from '@/content/viaggi-dati/indonesia-isola-per-isola'
+import { maroccoCittaImperialiMeta } from '@/content/viaggi-dati/marocco-citta-imperiali'
+import { thailandiaNordMeta } from '@/content/viaggi-dati/thailandia-nord'
+import { classicJapanMeta } from '@/content/viaggi-dati/classic-japan'
+import { okinawaEstateMeta } from '@/content/viaggi-dati/okinawa-estate'
+import { hokkaidoSciGiapponeMeta } from '@/content/viaggi-dati/hokkaido-sci-giappone'
+import { messicoYucatanCompletoMeta } from '@/content/viaggi-dati/messico-yucatan-completo'
 
 // Registro dei Paesi disponibili. Aggiungere un nuovo Paese = aggiungere una
 // riga qui più i relativi file in src/content/{paesi,destinazioni,esperienze}.
@@ -330,6 +339,15 @@ const TRIP_META: TripMeta[] = [
   giavaBaliGiliMeta,
   sumatraMentawaiMeta,
   peruDueSettimaneMeta,
+  baliNusaKomodoMeta,
+  baliSulawesiRajaAmpatMeta,
+  indonesiaIsolaPerIsolaMeta,
+  maroccoCittaImperialiMeta,
+  thailandiaNordMeta,
+  classicJapanMeta,
+  okinawaEstateMeta,
+  hokkaidoSciGiapponeMeta,
+  messicoYucatanCompletoMeta,
 ]
 
 // Le schede dati dei viaggi contengono appunti di lavoro ("(da confermare quale)",

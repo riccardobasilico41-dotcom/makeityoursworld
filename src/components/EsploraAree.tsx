@@ -44,7 +44,7 @@ export function EsploraAree({ lingua }: { lingua: Lingua }) {
   }))
 
   return (
-    <section aria-labelledby="aree-titolo" className="border-t border-alpine/10 py-14 sm:py-20">
+    <section aria-labelledby="aree-titolo" className="border-t border-alpine/10 sezione">
       <Container>
         <Reveal>
           <p className="text-xs font-semibold uppercase tracking-[0.2em] text-rosso">{t.eyebrow}</p>
@@ -58,7 +58,7 @@ export function EsploraAree({ lingua }: { lingua: Lingua }) {
             <li key={area.slug} className={i === aree.length - 1 ? 'col-span-2 lg:col-span-1' : ''}>
               <Link
                 href={`/aree/${area.slug}`}
-                className="group flex h-full min-h-11 flex-col overflow-hidden border-2 border-ink bg-white shadow-[4px_4px_0_var(--color-rosso)] transition-[transform,box-shadow] duration-150 hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-[6px_6px_0_var(--color-rosso)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-rosso focus-visible:ring-offset-2"
+                className="group flex h-full min-h-11 flex-col overflow-hidden border-2 border-ink bg-white shadow-[4px_4px_0_var(--color-rosso)] transition-[transform,box-shadow] duration-150 hover:shadow-[6px_6px_0_var(--color-rosso)] focus-visible:shadow-[6px_6px_0_var(--color-rosso)] motion-safe:hover:-translate-x-0.5 motion-safe:hover:-translate-y-0.5"
               >
                 <div className="relative aspect-[16/9] w-full overflow-hidden border-b-2 border-ink bg-alpine-dark lg:aspect-[4/3]">
                   <Image

@@ -26,6 +26,7 @@ const T = {
     tuttiPaesi: 'Tutti i Paesi',
     tuttaArea: (a: string) => `Tutto su ${a}: Paesi e destinazioni`,
     sette: 'Le sette meraviglie',
+    salta: 'Vai al contenuto',
   },
   en: {
     aree: {
@@ -42,6 +43,7 @@ const T = {
     tuttiPaesi: 'All countries',
     tuttaArea: (a: string) => `All of ${a}: countries and destinations`,
     sette: 'The seven wonders',
+    salta: 'Skip to content',
   },
   es: {
     aree: {
@@ -58,8 +60,9 @@ const T = {
     tuttiPaesi: 'Todos los países',
     tuttaArea: (a: string) => `Todo ${a}: países y destinos`,
     sette: 'Las siete maravillas',
+    salta: 'Ir al contenido',
   },
-} satisfies Record<Lingua, { aree: Record<string, string>; viaggi: string; destinazioni: string; chiSono: string; meraviglie: string; tuttiPaesi: string; tuttaArea: (a: string) => string; sette: string }>
+} satisfies Record<Lingua, { aree: Record<string, string>; viaggi: string; destinazioni: string; chiSono: string; meraviglie: string; tuttiPaesi: string; tuttaArea: (a: string) => string; sette: string; salta: string }>
 
 
 /* Testata: marchio a macchina da scrivere a sinistra, a destra il menu
@@ -99,6 +102,10 @@ export async function Header() {
 
   return (
     <header className="relative z-40 border-b border-ink/15 bg-cream">
+      {/* primo elemento della pagina: compare solo col Tab e porta a <main id="contenuto"> */}
+      <a href="#contenuto" className="salta-al-contenuto">
+        {t.salta}
+      </a>
       <div className="flex items-center justify-between gap-x-3 px-4 py-4 sm:px-8 lg:px-12 xl:gap-x-6 2xl:gap-x-10">
         <Link href="/" className="shrink-0 text-[1.2rem] text-ink min-[420px]:text-[1.35rem] sm:text-[1.6rem] xl:text-[1.35rem] min-[1680px]:text-[1.6rem]">
           <Marchio />

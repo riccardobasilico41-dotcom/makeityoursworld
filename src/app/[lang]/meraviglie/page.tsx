@@ -7,7 +7,7 @@ import { getAllMeraviglie } from '@/lib/meraviglie'
 import { siteConfig } from '@/lib/site-config'
 import { pageMetadata } from '@/lib/seo'
 import { JsonLd } from '@/components/JsonLd'
-import { raccoltaJsonLd } from '@/lib/structured-data'
+import { breadcrumbJsonLd, raccoltaJsonLd } from '@/lib/structured-data'
 import { linguaCorrente } from '@/lib/i18n/server'
 import type { Lingua } from '@/lib/i18n/config'
 
@@ -66,15 +66,19 @@ export default async function MeraviglieIndexPage() {
   return (
     <>
       <JsonLd
-        data={raccoltaJsonLd(
-          {
-            nome: t.titolo,
-            descrizione: t.descrizioneRaccolta,
-            percorso: '/meraviglie',
-            elementi: meraviglie.map((m) => ({ nome: m.nome, percorso: `/meraviglie/${m.slug}` })),
-          },
-          lingua,
-        )}
+        data={[
+          raccoltaJsonLd(
+            {
+              nome: t.titolo,
+              descrizione: t.descrizioneRaccolta,
+              percorso: '/meraviglie',
+              elementi: meraviglie.map((m) => ({ nome: m.nome, percorso: `/meraviglie/${m.slug}` })),
+            },
+            lingua,
+          ),
+          // le stesse briciole visibili nell'intestazione
+          breadcrumbJsonLd([{ nome: t.home, percorso: '/' }, { nome: t.crumb, percorso: '/meraviglie' }], lingua),
+        ]}
       />
       <PageHeader
         crumbs={[{ label: t.home, href: '/' }, { label: t.crumb }]}
@@ -82,7 +86,7 @@ export default async function MeraviglieIndexPage() {
         title={t.titolo}
         lead={<p>{t.lead}</p>}
       />
-      <section className="py-14 sm:py-20">
+      <section className="sezione">
         <Container>
           <h2 className="sr-only">{t.schede}</h2>
           <RevealGroup className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3" stagger={0.05}>

@@ -11,7 +11,7 @@ import { siteConfig } from '@/lib/site-config'
 import { pageMetadata } from '@/lib/seo'
 import { JsonLd } from '@/components/JsonLd'
 import { MappaMondoSezione } from '@/components/MappaMondoSezione'
-import { raccoltaJsonLd } from '@/lib/structured-data'
+import { breadcrumbJsonLd, raccoltaJsonLd } from '@/lib/structured-data'
 import { linguaCorrente } from '@/lib/i18n/server'
 import { AREE } from '@/lib/aree'
 import { etichetta } from '@/lib/i18n/etichette'
@@ -73,12 +73,16 @@ export default async function DestinazioniIndexPage() {
   return (
     <>
       <JsonLd
-        data={raccoltaJsonLd({
-          nome: t.titolo,
-          descrizione: t.jsonDesc(siteConfig.brandName),
-          percorso: '/destinazioni',
-          elementi: paesi.map((p) => ({ nome: p.nome, percorso: `/destinazioni/${p.slug}` })),
-        }, lingua)}
+        data={[
+          raccoltaJsonLd({
+            nome: t.titolo,
+            descrizione: t.jsonDesc(siteConfig.brandName),
+            percorso: '/destinazioni',
+            elementi: paesi.map((p) => ({ nome: p.nome, percorso: `/destinazioni/${p.slug}` })),
+          }, lingua),
+          // le stesse briciole visibili nell'intestazione
+          breadcrumbJsonLd([{ nome: t.home, percorso: '/' }, { nome: t.titolo, percorso: '/destinazioni' }], lingua),
+        ]}
       />
       <PageHeader
         crumbs={[{ label: t.home, href: '/' }, { label: t.titolo }]}
@@ -89,7 +93,7 @@ export default async function DestinazioniIndexPage() {
         }
       />
       <MappaMondoSezione />
-      <section className="py-14 sm:py-20">
+      <section className="sezione">
       <Container>
         <div className="space-y-16">
           {gruppi.map(({ continente, items }) => (

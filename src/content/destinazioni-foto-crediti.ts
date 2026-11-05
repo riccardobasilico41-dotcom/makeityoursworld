@@ -16,4 +16,9 @@ export const creditiDestinazioni: Record<string, CreditoImmagine> = {
     licenza: 'CC BY-SA 4.0',
     fonteUrl: 'https://commons.wikimedia.org/wiki/File:Mulu_Pinnacles.jpg',
   },
+  'indonesia/mentawai': {
+    autore: 'Naila Fathinah',
+    licenza: 'CC BY 4.0',
+    fonteUrl: 'https://commons.wikimedia.org/wiki/File:Ekosistem_Pesisir_Hutan_Hujan_Tropis_Mentawai.jpg',
+  },
 }

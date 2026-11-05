@@ -19,6 +19,7 @@ export const destinazioniCina: Destinazione[] = [
       'The Temple of Heaven, with the circular hall under three blue roofs and the park where every morning hundreds of retirees dance, sing and play cards',
       'The Summer Palace, with Kunming Lake and the long painted corridor',
       "The hutongs around the Drum Tower and Houhai Lake, the fabric of alleys and courtyards of the old city",
+      "The Lama Temple (Yonghe Gong), a still-active Tibetan Buddhist monastery, with its 18-metre sandalwood Buddha",
       'The Great Wall: Mutianyu, Jinshanling or Simatai depending on how much you are willing to walk',
     ],
     cosaFare: [
@@ -94,7 +95,7 @@ export const destinazioniCina: Destinazione[] = [
       },
     ],
     miaEsperienza:
-      "Beijing is the city that asks for more preparation than anything else on the trip, and it pays back immediately those who did it. The Forbidden City is bigger than any expectation, and that is both its merit and its limit: you cross it courtyard after courtyard in one direction only, with thousands of people, and after the third throne hall I noticed I was looking without seeing. The trick is to leave the central road and slip into the side palaces to the east: almost nobody goes there and the rooms are small, human-sized. The Temple of Heaven early in the morning, on the other hand, never disappoints, and not because of the temple. In the park around it hundreds of retirees dance, sing in chorus, play cards and do sword exercises: it's the most beautiful and least touristy scene in the city. About the hutongs the truth must be told. The ones around Houhai are bars and shops by now; real life is in the alleys two blocks farther on.",
+      "Beijing is the city that asks for more preparation than anything else on the trip, and it pays back immediately those who did it. The Forbidden City is bigger than any expectation, and that is both its merit and its limit: you cross it courtyard after courtyard in one direction only, with thousands of people, and after the third throne hall I noticed I was looking without seeing. The trick is to leave the central road and slip into the side palaces to the east: almost nobody goes there and the rooms are small, human-sized. The Temple of Heaven early in the morning, on the other hand, never disappoints, and not because of the temple. In the park around it hundreds of retirees dance, sing in chorus, play cards and do sword exercises: it's the most beautiful and least touristy scene in the city. About the hutongs the truth must be told. The ones around Houhai are bars and shops by now; real life is in the alleys two blocks farther on, and that's where it's worth getting lost. And if you have time, go to the Lama Temple: it's less iconic, but to me it's beautiful.",
     luoghi: [
       {
         nome: "Forbidden City",
@@ -129,6 +130,15 @@ export const destinazioniCina: Destinazione[] = [
         quando: "A weekday morning.",
         tempo: "3-4 hours",
         consiglio: "It is big: give it half a day, enter from the north gate, cross over Longevity Hill and walk down to the lake, perhaps crossing it by boat.",
+      },
+      {
+        nome: "Lama Temple (Yonghe Gong)",
+        testo: "One of the most important Tibetan Buddhist monasteries outside Tibet, still active: built in 1694 as the residence of the prince who would become the Yongzheng Emperor, it was turned into a lamasery in 1744. You walk through courtyard after courtyard and hall after hall, among incense, monks and worshippers at prayer; in the last pavilion, the Wanfu Ge, stands a Maitreya Buddha carved from a single sandalwood trunk, 18 metres above ground. Less iconic than the Forbidden City, but beautiful.",
+        come: "Metro lines 2 and 5 to Yonghegong. Entry is by time slot, booked on the official WeChat mini-program (it opens a few days ahead) or at the ticket office with your passport while slots last; bring your passport either way.",
+        quando: "Daily from 9 am; it closes in the afternoon, roughly between 4.30 and 5 pm depending on the season (shorter winter hours). Best on a weekday morning.",
+        tempo: "1-2 hours",
+        costo: "about 25 yuan (2026)",
+        consiglio: "It pairs well with Guozijian, the street of the Confucius Temple, a few steps away, and with the hutongs around it.",
       },
       {
         nome: "The Great Wall at Jinshanling",
@@ -168,6 +178,7 @@ export const destinazioniCina: Destinazione[] = [
       "Choosing Badaling: it is the most restored and crowded section of the Wall.",
       "Following friendly strangers who invite you to a tea tasting or a bar: it is the classic scam of the tourist areas, and it ends with a huge bill.",
       "Getting into unmarked or unmetered taxis: use official taxis or an app such as DiDi.",
+      "Going during the Chinese holidays (Lunar New Year, the Labour Day break in early May, Golden Week on October 1-7): domestic tourism is staggering and you risk hours of queuing everywhere.",
     ],
     esperienzeSlugs: ['muraglia-jinshanling', 'citta-proibita'],
     tripSlugs: ['cina-classica'],

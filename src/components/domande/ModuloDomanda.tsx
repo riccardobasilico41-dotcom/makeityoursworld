@@ -109,7 +109,7 @@ type EsitoLocale = EsitoInvio & { giro: number }
 const INIZIALE: EsitoLocale = { stato: 'vuoto', giro: 0 }
 
 const CAMPO =
-  'mt-2 block w-full border-2 border-ink bg-white px-3 py-2.5 text-base text-ink placeholder:text-stone/60 focus:outline-none focus-visible:ring-2 focus-visible:ring-rosso focus-visible:ring-offset-2 focus-visible:ring-offset-cream aria-[invalid=true]:border-rosso'
+  'mt-2 block w-full border-2 border-ink bg-white px-3 py-2.5 text-base text-ink placeholder:text-stone/85 focus:outline-none focus-visible:ring-2 focus-visible:ring-rosso focus-visible:ring-offset-2 focus-visible:ring-offset-cream aria-[invalid=true]:border-rosso'
 
 /** Modulo «Fai una domanda» sotto l'articolo. Server action con honeypot, tempo minimo e limiti. */
 export function ModuloDomanda({ viaggio }: { viaggio: string }) {

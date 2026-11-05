@@ -66,7 +66,8 @@ export function riduciPerScheda(v: Viaggio): ViaggioScheda {
   }
 }
 
-export function TripCard({ viaggio, featured = false }: { viaggio: ViaggioScheda; featured?: boolean }) {
+/** `subito`: la prima scheda dell'elenco (elemento LCP sul telefono) si carica senza lazy-loading e con priorità alta. */
+export function TripCard({ viaggio, featured = false, subito = false }: { viaggio: ViaggioScheda; featured?: boolean; subito?: boolean }) {
   const lingua = useLingua()
   const t = T[lingua]
   const continente = getContinente(viaggio.categorie)
@@ -90,6 +91,8 @@ export function TripCard({ viaggio, featured = false }: { viaggio: ViaggioScheda
               alt={copertina.imageAlt}
               fill
               sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, calc(100vw - 3rem)"
+              loading={subito ? 'eager' : undefined}
+              fetchPriority={subito ? 'high' : undefined}
               className="object-cover transition-transform duration-700 group-hover:scale-105"
             />
             <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/60 via-black/5 to-transparent" />
@@ -102,7 +105,7 @@ export function TripCard({ viaggio, featured = false }: { viaggio: ViaggioScheda
             className="pointer-events-none absolute -right-4 -top-4 text-cream/10 transition-transform duration-700 group-hover:scale-110"
           />
         )}
-        <p className="relative z-10 text-xs font-semibold uppercase tracking-[0.18em] text-cream/70">
+        <p className="relative z-10 bg-ink px-2 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-cream">
           {viaggio.luogo ?? etichetta(continente, lingua)}
         </p>
       </div>
@@ -121,7 +124,7 @@ export function TripCard({ viaggio, featured = false }: { viaggio: ViaggioScheda
         </div>
         <span className="inline-flex items-center gap-1.5 text-sm font-medium text-rosso">
           {t.leggi}
-          <ArrowUpRight size={14} className="transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
+          <ArrowUpRight size={14} aria-hidden="true" className="transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
         </span>
       </div>
     </Link>

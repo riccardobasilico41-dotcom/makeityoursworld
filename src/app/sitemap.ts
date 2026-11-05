@@ -60,7 +60,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ),
   ]
 
-  const oggi = new Date()
+  // niente lastModified: era la data della build, uguale per tutti i 2.400 indirizzi, e Google
+  // smette di fidarsi di un lastmod che cambia a ogni deploy. Va rimesso solo con una data vera per pagina.
   return routes.flatMap((route) => {
     const lingue = Object.fromEntries([
       ...LINGUE_PUBBLICATE.map((l) => [LOCALE[l].html, `${siteConfig.url}${localizza(route.path, l)}`]),
@@ -68,7 +69,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ])
     return LINGUE_PUBBLICATE.map((l) => ({
       url: `${siteConfig.url}${localizza(route.path, l)}`,
-      lastModified: oggi,
       changeFrequency: route.changeFrequency,
       priority: route.priority,
       alternates: { languages: lingue },

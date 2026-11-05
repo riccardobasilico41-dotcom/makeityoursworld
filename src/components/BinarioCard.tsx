@@ -44,11 +44,12 @@ export function BinarioCard({ children, etichetta }: { children: ReactNode; etic
     if (!el) return
     const card = el.firstElementChild as HTMLElement | null
     const passo = card ? card.offsetWidth + 20 : el.clientWidth * 0.8
-    el.scrollBy({ left: verso * passo, behavior: 'smooth' })
+    const ridotto = window.matchMedia('(prefers-reduced-motion: reduce)').matches
+    el.scrollBy({ left: verso * passo, behavior: ridotto ? 'auto' : 'smooth' })
   }
 
   const freccia =
-    'inline-flex size-11 items-center justify-center border-2 border-ink bg-cream text-ink transition-colors hover:bg-ink hover:text-cream disabled:pointer-events-none disabled:opacity-30'
+    'inline-flex size-11 items-center justify-center border-2 border-ink bg-cream text-ink transition-[background-color,color,transform] duration-150 hover:bg-ink hover:text-cream active:translate-y-px disabled:pointer-events-none disabled:opacity-30'
 
   return (
     <div>
@@ -57,7 +58,7 @@ export function BinarioCard({ children, etichetta }: { children: ReactNode; etic
         role="region"
         aria-label={etichetta}
         tabIndex={0}
-        className="-mx-6 flex snap-x snap-mandatory scroll-px-6 gap-6 overflow-x-auto scroll-smooth px-6 pb-4 pt-2 sm:-mx-8 sm:scroll-px-8 sm:px-8 [scrollbar-width:none] focus-visible:outline-none [&::-webkit-scrollbar]:hidden"
+        className="-mx-6 flex snap-x snap-mandatory scroll-px-6 gap-6 overflow-x-auto px-6 pb-4 pt-2 motion-safe:scroll-smooth sm:-mx-8 sm:scroll-px-8 sm:px-8 [scrollbar-width:none] focus-visible:-outline-offset-2 [&::-webkit-scrollbar]:hidden"
       >
         {Children.map(children, (figlio) => (
           <div className="flex w-[82%] shrink-0 snap-start sm:w-[22rem] [&>*]:w-full">{figlio}</div>

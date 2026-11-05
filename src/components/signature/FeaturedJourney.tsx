@@ -41,7 +41,7 @@ export function FeaturedJourney({
   const resto = tappe.length - prime.length
 
   return (
-    <section aria-labelledby="evidenza-titolo" className="border-t border-alpine/10 bg-cream-dark/40 py-14 sm:py-20">
+    <section aria-labelledby="evidenza-titolo" className="border-t border-alpine/10 bg-cream-dark/40 sezione">
       <Container>
         <Reveal>
           <div className="grid gap-8 lg:grid-cols-[1fr_1.1fr] lg:items-center lg:gap-14">
@@ -50,7 +50,7 @@ export function FeaturedJourney({
                 href={href}
                 tabIndex={-1}
                 aria-hidden="true"
-                className="relative block aspect-[4/3] w-full overflow-hidden border-2 border-ink shadow-[6px_6px_0_var(--color-rosso)]"
+                className="relative block aspect-[4/3] w-full scheda overflow-hidden"
               >
                 <Image
                   src={copertina.immagine}
@@ -102,7 +102,7 @@ export function FeaturedJourney({
 
               <Link
                 href={href}
-                className="mt-8 inline-flex min-h-12 items-center gap-2 bg-rosso px-6 py-3 text-[0.95rem] font-semibold text-cream transition-colors duration-150 hover:bg-rosso-dark focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-rosso focus-visible:ring-offset-2"
+                className="btn btn-primario mt-8"
               >
                 {t.leggi}
                 <ArrowRight size={15} aria-hidden />

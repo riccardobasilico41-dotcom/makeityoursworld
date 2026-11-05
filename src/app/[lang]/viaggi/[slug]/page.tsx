@@ -179,6 +179,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
   const editorial = editoriale(slug, lingua)
   return pageMetadata({
+    ogPropria: true, // opengraph-image.tsx della pagina
     title: editorial.seoTitle ?? viaggio.titolo,
     description: editorial.seoDescription ?? viaggio.descrizione,
     socialTitle: editorial.socialTitle,

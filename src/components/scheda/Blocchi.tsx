@@ -122,7 +122,7 @@ export function SchedaTesto({ icona: Icona, titolo, testo }: { icona: LucideIcon
 export async function Ricordo({ testo }: { testo: string }) {
   const t = T[await linguaCorrente()]
   return (
-    <figure className="relative border-2 border-ink bg-alpine p-6 text-cream shadow-[6px_6px_0_var(--color-rosso)] sm:p-8">
+    <figure className="relative scheda bg-alpine p-6 text-cream sm:p-8">
       <span aria-hidden className="absolute -top-6 left-5 font-display text-7xl leading-none text-rosso">
         «
       </span>

@@ -341,4 +341,9 @@ export const creditiCopertine: Record<string, CreditoImmagine> = {
     licenza: 'CC0 1.0 (pubblico dominio)',
     fonteUrl: 'https://commons.wikimedia.org/wiki/File:Niagara_Falls_from_the_Canadian_side.jpg',
   },
+  'sumatra-mentawai': {
+    autore: 'Naila Fathinah (Wikimedia Commons)',
+    licenza: 'CC BY-SA 4.0',
+    fonteUrl: 'https://commons.wikimedia.org/wiki/File:Bentang_Pesisir_Hijau_dan_Perairan_Jernih_Pulau_Siberut.jpg',
+  },
 }

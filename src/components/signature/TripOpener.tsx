@@ -125,7 +125,7 @@ export function TripOpener({
         </Link>
 
         <div className="mt-8 flex items-center gap-3">
-          <span className="font-mono text-xs uppercase tracking-[0.2em] text-cream/50">
+          <span className="font-mono text-xs uppercase tracking-[0.2em] text-cream/75">
             {codicePaese(paeseSlug)}
           </span>
         </div>

@@ -52,7 +52,7 @@ export function Scorrimento({ children, etichetta }: { children: ReactNode; etic
       <ul
         ref={filaRef}
         aria-label={etichetta}
-        className="-mx-4 flex snap-x snap-mandatory gap-5 overflow-x-auto scroll-smooth px-4 pb-4 [scrollbar-width:none] sm:-mx-6 sm:px-6 lg:mx-0 lg:px-0 [&::-webkit-scrollbar]:hidden"
+        className="-mx-4 flex snap-x snap-mandatory gap-5 overflow-x-auto px-4 motion-safe:scroll-smooth pb-4 [scrollbar-width:none] sm:-mx-6 sm:px-6 lg:mx-0 lg:px-0 [&::-webkit-scrollbar]:hidden"
       >
         {children}
       </ul>

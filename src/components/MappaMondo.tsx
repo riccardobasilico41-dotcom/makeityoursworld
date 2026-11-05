@@ -236,7 +236,7 @@ export function MappaMondo({
   }
 
   const bottone =
-    'inline-flex size-10 items-center justify-center border-2 border-ink bg-cream text-ink transition-colors hover:bg-ink hover:text-cream'
+    'inline-flex size-11 items-center justify-center border-2 border-ink bg-cream text-ink transition-colors hover:bg-ink hover:text-cream'
 
   return (
     <div className="relative mt-8">
@@ -301,7 +301,7 @@ export function MappaMondo({
                   fill={isSel ? 'var(--color-ink)' : 'var(--color-rosso)'}
                   stroke="var(--color-cream)"
                   strokeWidth={1.4}
-                  className="transition-transform duration-150 group-hover:scale-125 group-focus-visible:stroke-[3px] [transform-box:fill-box] origin-center"
+                  className="transition-transform duration-150 group-hover:scale-125 group-focus-visible:stroke-ink group-focus-visible:stroke-[3px] group-focus-visible:scale-125 [transform-box:fill-box] origin-center"
                 />
                 <title>{`${p.nome} · ${p.paese}`}</title>
               </g>
@@ -311,10 +311,10 @@ export function MappaMondo({
 
         <div className="absolute right-2 top-2 flex flex-col gap-2">
           <button type="button" className={bottone} onClick={() => zoomDi(1.8)} aria-label={t.avvicina}>
-            <Plus size={16} />
+            <Plus size={16} aria-hidden="true" />
           </button>
           <button type="button" className={bottone} onClick={() => zoomDi(1 / 1.8)} aria-label={t.allontana} disabled={!zoomato}>
-            <Minus size={16} />
+            <Minus size={16} aria-hidden="true" />
           </button>
           {zoomato && (
             <button type="button" className={bottone} onClick={tutto} aria-label={t.tutto}>
@@ -349,13 +349,13 @@ export function MappaMondo({
                 setSelId(null)
                 inquadra(...a.box)
               }}
-              className="inline-flex min-h-10 items-center border border-ink/25 bg-cream px-3 text-sm font-medium text-ink transition-colors hover:border-ink hover:bg-ink hover:text-cream"
+              className="chip bg-cream"
             >
               {a.nome}
             </button>
           ))}
           {zoomato && (
-            <button type="button" onClick={tutto} className="inline-flex min-h-10 items-center gap-1.5 px-2 text-sm font-semibold text-rosso hover:underline">
+            <button type="button" onClick={tutto} className="inline-flex min-h-11 items-center gap-1.5 px-2 text-sm font-semibold text-rosso hover:underline">
               <RotateCcw size={14} aria-hidden /> {t.tutto}
             </button>
           )}
@@ -385,10 +385,10 @@ function SchedaPin({ pin, onChiudi, className = '' }: { pin: PinMondo; onChiudi:
       <button
         type="button"
         onClick={onChiudi}
-        className="absolute right-2 top-2 inline-flex size-9 items-center justify-center bg-cream/90 text-ink hover:text-rosso"
+        className="absolute right-1 top-1 inline-flex size-11 items-center justify-center bg-cream/90 text-ink hover:text-rosso"
         aria-label={t.chiudi}
       >
-        <X size={16} />
+        <X size={16} aria-hidden="true" />
       </button>
       <div className="p-4">
         <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-rosso">{pin.paese}</p>
@@ -397,14 +397,14 @@ function SchedaPin({ pin, onChiudi, className = '' }: { pin: PinMondo; onChiudi:
         </Link>
         <p className="mt-2 line-clamp-3 text-sm leading-relaxed text-stone">{pin.testo}</p>
         <div className="mt-4 flex flex-col gap-2 text-sm font-medium">
-          <Link href={pin.href} className="inline-flex min-h-10 items-center justify-between gap-2 bg-alpine px-4 text-cream hover:bg-alpine-dark">
+          <Link href={pin.href} className="inline-flex min-h-11 items-center justify-between gap-2 bg-alpine px-4 text-cream hover:bg-alpine-dark">
             {t.apri} <ArrowRight size={15} aria-hidden />
           </Link>
-          <Link href={pin.paeseHref} className="inline-flex min-h-10 items-center justify-between gap-2 border-2 border-ink px-4 text-ink hover:bg-ink hover:text-cream">
+          <Link href={pin.paeseHref} className="inline-flex min-h-11 items-center justify-between gap-2 border-2 border-ink px-4 text-ink hover:bg-ink hover:text-cream">
             {t.tuttoSu(pin.paese)} <ArrowRight size={15} aria-hidden />
           </Link>
           {pin.viaggio && (
-            <Link href={pin.viaggio.href} className="inline-flex min-h-10 items-center justify-between gap-2 border-2 border-ink px-4 text-ink hover:bg-ink hover:text-cream">
+            <Link href={pin.viaggio.href} className="inline-flex min-h-11 items-center justify-between gap-2 border-2 border-ink px-4 text-ink hover:bg-ink hover:text-cream">
               <span className="line-clamp-1">{t.viaggio(pin.viaggio.titolo)}</span> <ArrowRight size={15} className="shrink-0" aria-hidden />
             </Link>
           )}

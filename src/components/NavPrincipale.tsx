@@ -57,10 +57,16 @@ export function NavPrincipale({ menu }: { menu: Menu }) {
       if (ref.current && !ref.current.contains(e.target as Node)) setAperto(null)
     }
     function esc(e: KeyboardEvent) {
-      if (e.key === 'Escape') {
-        setAperto(null)
-        setMobile(false)
+      if (e.key !== 'Escape') return
+      // il focus torna al pulsante che aveva aperto il pannello, non si perde nel documento
+      const nav = ref.current
+      const attivo = document.activeElement
+      if (nav && attivo && nav.contains(attivo)) {
+        const pannello = attivo.closest('[id^="menu-"]')
+        if (pannello) nav.querySelector<HTMLButtonElement>(`[aria-controls="${pannello.id}"]`)?.focus()
       }
+      setAperto(null)
+      setMobile(false)
     }
     document.addEventListener('mousedown', fuori)
     document.addEventListener('keydown', esc)
@@ -84,6 +90,10 @@ export function NavPrincipale({ menu }: { menu: Menu }) {
         className="relative"
         onMouseEnter={() => setAperto(chiave)}
         onMouseLeave={() => setAperto((a) => (a === chiave ? null : a))}
+        // da tastiera: uscendo col Tab dalla voce e dal suo pannello, il pannello si chiude
+        onBlur={(e) => {
+          if (!e.currentTarget.contains(e.relatedTarget as Node | null)) setAperto((a) => (a === chiave ? null : a))
+        }}
       >
         <span className={`inline-flex items-center ${isOpen ? 'text-rosso' : 'text-ink'}`}>
           <Link href={voce.href} className={`inline-flex min-h-11 items-center whitespace-nowrap text-[0.95rem] font-medium transition-colors duration-150 hover:text-rosso ${FOCUS}`} onClick={() => setAperto(null)}>
@@ -108,7 +118,13 @@ export function NavPrincipale({ menu }: { menu: Menu }) {
   }
 
   return (
-    <div ref={ref}>
+    <div
+      ref={ref}
+      // col Tab oltre l'ultima voce il menu mobile si chiude: non resta aperto sopra una pagina in cui il focus è già andato
+      onBlur={(e) => {
+        if (mobile && e.relatedTarget && !e.currentTarget.contains(e.relatedTarget as Node)) setMobile(false)
+      }}
+    >
       {/* Desktop */}
       <nav aria-label={t.principale as string} className="hidden xl:block">
         <ul className="flex items-center gap-x-4 2xl:gap-x-6">

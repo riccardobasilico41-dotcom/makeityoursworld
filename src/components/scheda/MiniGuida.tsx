@@ -18,12 +18,13 @@ const T = {
 function Dato({ icona: Icona, label, valore }: { icona: typeof Clock; label: string; valore?: string }) {
   if (!valore) return null
   return (
-    <div className="flex gap-2.5">
-      <Icona size={16} aria-hidden className="mt-1 shrink-0 text-rosso" />
-      <div>
-        <dt className="text-[11px] font-semibold uppercase tracking-wider text-stone/85">{label}</dt>
-        <dd className="text-[0.95rem] leading-relaxed text-ink">{valore}</dd>
-      </div>
+    // dl > div > dt + dd: l'icona sta dentro il dt, così la lista di definizioni resta valida
+    <div>
+      <dt className="flex items-center gap-2.5 text-[11px] font-semibold uppercase tracking-wider text-stone/85">
+        <Icona size={16} aria-hidden className="shrink-0 text-rosso" />
+        {label}
+      </dt>
+      <dd className="pl-[1.625rem] text-[0.95rem] leading-relaxed text-ink">{valore}</dd>
     </div>
   )
 }

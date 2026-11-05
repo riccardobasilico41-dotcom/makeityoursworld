@@ -4204,4 +4204,71 @@ export const creditiGiornoFoto: Record<string, Record<string, CreditoImmagine>> 
       fonteUrl: 'https://commons.wikimedia.org/wiki/File:Kondiaronk_Belvedere,_Montreal_city,_Canada.jpg',
     },
   },
+  'sumatra-mentawai': {
+    'Giorno 1 — Arrivo a Padang e strada per Bukittinggi': {
+      autore: 'Adhmi (Wikimedia Commons)',
+      licenza: 'CC BY-SA 4.0',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Pemandangan_Ngarai_Sianok_dan_Gunung_Singgalang.jpg',
+    },
+    'Giorno 2 — La valle di Harau': {
+      autore: 'Dina Mawaddiati (Wikimedia Commons)',
+      licenza: 'CC BY-SA 4.0',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Lembah_Harau_Lima_Puluh_Kota,_Sumatra_Barat.jpg',
+    },
+    'Giorno 3 — Il lago Maninjau': {
+      autore: 'seven red (Pexels, via Wikimedia Commons)',
+      licenza: 'CC0 1.0 (pubblico dominio)',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Danau_Maninjau_dari_Lawang.jpg',
+    },
+    'Giorno 4 — Bukittinggi, giornata di riserva': {
+      autore: 'Kars Alfrink (Flickr, via Wikimedia Commons)',
+      licenza: 'CC BY 2.0',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Jam_Gadang_2016.jpg',
+    },
+    'Giorno 5 — Ritorno a Padang': {
+      autore: 'Undeka 11 (Wikimedia Commons)',
+      licenza: 'CC BY-SA 4.0',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Pantai_Padang_Wide_View_Gunung_Padang_Pagi_Hari_West_Sumatra_2026.jpg',
+    },
+    'Giorno 6 — Traghetto per Siberut e la risalita del fiume': {
+      autore: 'www.viajar24h.com (Flickr, via Wikimedia Commons)',
+      licenza: 'CC BY 2.0',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Siberut_island_river.jpg',
+    },
+    'Giorno 7 — Nella uma con la famiglia': {
+      autore: 'Andesta Saputra (Wikimedia Commons)',
+      licenza: 'CC BY-SA 4.0',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:UMA.jpg',
+    },
+    'Giorno 8 — La giungla di Siberut': {
+      autore: 'Andrian salis (Wikimedia Commons)',
+      licenza: 'CC BY-SA 4.0',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Muddy_rainforest_trail,_Mentawai_Islands.jpg',
+    },
+    'Giorno 9 — Dalla giungla al mare, verso Sipora': {
+      autore: 'Naila Fathinah (Wikimedia Commons)',
+      licenza: 'CC BY-SA 4.0',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Pemandangan_Udara_Permukiman_Pesisir_di_Pulau_Siberut.jpg',
+    },
+    'Giorno 10 — Sipora: spiagge e onde': {
+      autore: 'Naila Fathinah (Wikimedia Commons)',
+      licenza: 'CC BY-SA 4.0',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Teluk_Pasir_Putih_Pantai_Tropis_Mentawai.jpg',
+    },
+    'Giorno 11 — Sipora: i break del sud': {
+      autore: 'Pathofkarma (Wikimedia Commons)',
+      licenza: 'CC BY-SA 4.0',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Lance%27s_Right.jpg',
+    },
+    'Giorno 12 — Sipora, giorno lento o di riserva': {
+      autore: 'S Kartika (Wikimedia Commons)',
+      licenza: 'CC BY-SA 4.0',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Pantai_Jati_1.jpg',
+    },
+    'Giorno 13 — Traghetto veloce da Tuapejat a Padang': {
+      autore: 'Naila Fathinah (Wikimedia Commons)',
+      licenza: 'CC BY-SA 4.0',
+      fonteUrl: 'https://commons.wikimedia.org/wiki/File:Dermaga_Penyeberangan_Kapal_Feri_Cepat.jpg',
+    },
+  },
 }

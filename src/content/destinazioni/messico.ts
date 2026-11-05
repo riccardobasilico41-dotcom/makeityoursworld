@@ -3,6 +3,9 @@ import type { Destinazione } from '@/lib/types'
 // Contenuto riutilizzato dal viaggio "Messico Beach Life" (src/content/viaggi/13-messico-beach-life.md).
 // Dove un dato non è nel diario originale, il campo resta vuoto o con una nota
 // esplicita "da confermare/da completare" — nessun fatto inventato.
+// Uxmal e la Ruta Puuc, Palenque e Calakmul (ordine 30-32) sono state aggiunte per
+// "Yucatán completo" (src/content/viaggi/95-messico-yucatan-completo.md): Palenque e
+// Calakmul non visitate da Rick, nessun miaEsperienza; dati INAH/CONANP verificati il 5/11/2026.
 
 export const destinazioniMessico: Destinazione[] = [
   {
@@ -127,7 +130,7 @@ export const destinazioniMessico: Destinazione[] = [
         "Offerte di time share o tour a prezzi troppo bassi: non seguire chi ferma per strada."
       ],
     esperienzeSlugs: [],
-    tripSlugs: ['messico-beach-life'],
+    tripSlugs: ['messico-beach-life', 'messico-yucatan-completo'],
     imageAlt: 'Spiaggia bianca e onde turchesi con gli hotel della zona hotelera di Cancún sullo sfondo',
     immagine: '/images/messico/cancun.jpg',
   },
@@ -248,7 +251,7 @@ export const destinazioniMessico: Destinazione[] = [
         "Cenote: seguire le regole su crema solare e doccia prima del bagno."
       ],
     esperienzeSlugs: ['rio-lagartos', 'ek-balam-cenote-xcanche'],
-    tripSlugs: ['messico-beach-life'],
+    tripSlugs: ['messico-beach-life', 'messico-yucatan-completo'],
     imageAlt: 'Portici e facciata gialla in stile coloniale nel centro di Valladolid, Yucatán',
     immagine: '/images/messico/valladolid.jpg',
   },
@@ -314,6 +317,22 @@ export const destinazioniMessico: Destinazione[] = [
           "come": "A piedi dal centro.",
           "quando": "Sera.",
           "tempo": "Serata"
+        },
+        {
+          "nome": "Izamal",
+          "testo": "La città gialla, a est di Mérida: il grande convento francescano è costruito sopra una piramide maya, e in paese ne restano altre, come la Kinich Kak Moo. Le facciate sono quasi tutte dipinte dello stesso giallo.",
+          "come": "In auto da Mérida o lungo la strada da Chichén Itzá; il Tren Maya ha una stazione a Izamal.",
+          "quando": "Mattina o tardo pomeriggio.",
+          "tempo": "2-3 ore",
+          "consiglio": "Il paese è caro: meglio non perdere troppo tempo e soldi tra i souvenir."
+        },
+        {
+          "nome": "Celestún",
+          "testo": "Paese di pescatori sul Golfo, al bordo della Riserva della Biosfera Ría Celestún: una laguna di mangrovie dove si esce in barca per vedere fenicotteri e uccelli acquatici.",
+          "come": "In auto o tour da Mérida, in giornata; le barche partono dal paese.",
+          "quando": "Mattina, quando c'è meno gente.",
+          "tempo": "Giornata",
+          "consiglio": "Il numero di fenicotteri cambia molto durante l'anno: chiedi al molo prima di pagare la barca, e chiedi al barcaiolo di restare a distanza dagli uccelli."
         }
       ],
       "programmi": [
@@ -369,7 +388,7 @@ export const destinazioniMessico: Destinazione[] = [
         "Il centro di sera è sicuro nelle vie principali; fuori da lì chiedere consiglio."
       ],
     esperienzeSlugs: [],
-    tripSlugs: ['messico-beach-life'],
+    tripSlugs: ['messico-beach-life', 'messico-yucatan-completo'],
     imageAlt: 'I portici del Palacio Municipal sulla piazza principale del centro storico di Mérida, Yucatán',
     immagine: '/images/messico/merida.jpg',
   },
@@ -492,7 +511,7 @@ export const destinazioniMessico: Destinazione[] = [
         "Da aprile a ottobre il caldo umido è forte: girare la mattina presto e al tramonto, e bere molto."
       ],
     esperienzeSlugs: [],
-    tripSlugs: ['messico-beach-life'],
+    tripSlugs: ['messico-beach-life', 'messico-yucatan-completo'],
     imageAlt: 'Una porta delle antiche mura del centro storico di Campeche con una casa coloniale colorata sullo sfondo',
     immagine: '/images/messico/campeche.jpg',
   },
@@ -720,7 +739,7 @@ export const destinazioniMessico: Destinazione[] = [
         "Non camminare sugli stromatoliti: sono organismi fragili."
       ],
     esperienzeSlugs: ['tour-barca-bacalar'],
-    tripSlugs: ['messico-beach-life'],
+    tripSlugs: ['messico-beach-life', 'messico-yucatan-completo'],
     imageAlt: 'Acque turchesi e trasparenti della laguna di Bacalar con un pontile di legno tra la vegetazione',
     immagine: '/images/messico/bacalar.jpg',
   },
@@ -1105,5 +1124,339 @@ export const destinazioniMessico: Destinazione[] = [
     tripSlugs: ['messico-beach-life'],
     imageAlt: "Una barca ancorata nell'acqua bassa e cristallina di Holbox, con la riva bianca e le palme all'orizzonte",
     immagine: '/images/messico/holbox-barca-acqua-bassa-riccardo.jpg',
+  },
+  {
+    slug: 'uxmal-ruta-puuc',
+    paeseSlug: 'messico',
+    ordine: 30,
+    nome: 'Uxmal e la Ruta Puuc',
+    tipologia: ['archeologia', 'cultura'],
+    giorniConsigliati: '1-2 giorni, dormendo vicino a Uxmal o a Santa Elena',
+    visitataPersonalmente: true,
+    introduzione:
+      'La grande città maya dello stile puuc, a sud di Mérida, e la strada di campagna che collega i siti minori dello stesso stile: Kabah, Sayil e Labná.',
+    percheAndarci:
+      'Per vedere un\'architettura maya diversa da Chichén Itzá: facciate lisce in basso e coperte in alto da mosaici di pietra e maschere di Chaac, il dio della pioggia. I siti della Ruta Puuc sono tranquilli e spesso quasi vuoti.',
+    cosaVedere: [
+      'La Piramide dell\'Indovino e il Quadrilatero delle Monache a Uxmal',
+      'Il Codz Poop di Kabah, con la facciata di maschere',
+      'Il palazzo a tre piani di Sayil',
+      'L\'arco di Labná',
+    ],
+    cosaFare: [
+      'Entrare a Uxmal all\'apertura, alle 8',
+      'Percorrere la Ruta Puuc in auto, fermandosi nei siti minori',
+      'Pranzare con la carne cotta sottoterra, il pib',
+    ],
+    doveDormire:
+      'Vicino a Uxmal ci sono pochi alloggi; Santa Elena è il paese più vicino. Dormire qui permette di entrare nei siti all\'apertura senza la strada da Mérida.',
+    doveMangiare:
+      'Dopo Uxmal ho pranzato al Po\' Pol Chac, con la carne cotta sottoterra.',
+    comeArrivare: 'Da Mérida sulla Federale 261 verso Santa Elena, in auto o con un tour.',
+    comeSpostarsi: 'Per la Ruta Puuc serve un\'auto o un tour: i siti sono lungo una strada di campagna.',
+    periodoMigliore: 'da novembre ad aprile, la stagione secca; da aprile il caldo nei siti senza ombra è forte.',
+    costi: 'Uxmal 105 MXN di ingresso INAH più 461 MXN di quota statale CULTUR per gli stranieri; Kabah 155 MXN; Labná 145 MXN (schede INAH, 2026).',
+    erroriDaEvitare: [
+      'Arrivare a Uxmal nel pomeriggio: chiude alle 16, con ultimo ingresso alle 15',
+      'Portare cibo all\'ingresso dei siti: non è permesso',
+    ],
+    miaEsperienza:
+      'Uxmal l\'ho visitato con una guida, lungo la strada tra Mérida e Campeche, e poi ho pranzato al Po\' Pol Chac, con la carne cotta sottoterra. La Ruta Puuc non l\'ho fatta.',
+      "luoghi": [
+        {
+          "nome": "Uxmal",
+          "testo": "La città più grande dello stile puuc, patrimonio UNESCO. La Piramide dell'Indovino ha una pianta ovale insolita; il Quadrilatero delle Monache è un cortile chiuso da quattro palazzi con facciate di mosaici di pietra.",
+          "come": "Da Mérida sulla Federale 261 verso Santa Elena. Biglietto INAH più quota statale CULTUR.",
+          "quando": "Aperto ogni giorno dalle 8 alle 16, ultimo ingresso alle 15 (scheda INAH).",
+          "tempo": "2-3 ore",
+          "costo": "105 MXN INAH più 461 MXN CULTUR per gli stranieri; i residenti nello Yucatán non pagano la quota statale (scheda INAH, 2026).",
+          "url": "https://lugares.inah.gob.mx/en/node/5797",
+          "consiglio": "Con una guida si capiscono meglio i simboli delle facciate."
+        },
+        {
+          "nome": "Kabah",
+          "testo": "Il secondo sito della zona per grandezza. Il Codz Poop ha la facciata coperta da centinaia di maschere di Chaac; dall'altra parte della strada c'è un arco isolato, l'inizio di una strada maya.",
+          "come": "In auto, a sud di Uxmal sulla Ruta Puuc.",
+          "quando": "Aperto ogni giorno dalle 8 alle 17, ultimo ingresso alle 16 (scheda INAH).",
+          "tempo": "1 ora",
+          "costo": "155 MXN per gli stranieri (scheda INAH, 2026).",
+          "url": "https://lugares.inah.gob.mx/en/node/5504"
+        },
+        {
+          "nome": "Sayil",
+          "testo": "Un sito piccolo con un grande palazzo a tre piani, una delle costruzioni puuc più fotografate.",
+          "come": "In auto lungo la Ruta Puuc, tra Kabah e Labná.",
+          "tempo": "45 minuti",
+          "consiglio": "La scheda INAH non riporta il prezzo: lo vedi in biglietteria."
+        },
+        {
+          "nome": "Labná",
+          "testo": "Famoso per il suo arco, molto decorato, che collegava due cortili. Il sito è tranquillo e ombreggiato in parte.",
+          "come": "In auto, in fondo alla Ruta Puuc.",
+          "quando": "Aperto ogni giorno dalle 8 alle 17, ultimo ingresso alle 16 (scheda INAH).",
+          "tempo": "1 ora",
+          "costo": "145 MXN per gli stranieri (scheda INAH, 2026).",
+          "url": "https://lugares.inah.gob.mx/en/node/4427"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Mattina: Uxmal all'apertura",
+            "Pranzo con il pib",
+            "Pomeriggio: Kabah"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: Uxmal e notte nei dintorni",
+            "Giorno 2: Kabah, Sayil e Labná, poi verso Campeche"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Dintorni di Uxmal",
+          "perChi": "chi vuole entrare all'apertura",
+          "testo": "Pochi alloggi vicino al sito, da prenotare."
+        },
+        {
+          "nome": "Santa Elena",
+          "perChi": "chi spende meno",
+          "testo": "Il paese più vicino, con alloggi semplici."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Pib e cochinita",
+          "testo": "Carne marinata nell'achiote e cotta sottoterra, il metodo maya del pib."
+        },
+        {
+          "nome": "Sopa de lima",
+          "testo": "Zuppa di pollo e lime, il classico yucateco."
+        }
+      ],
+      "attenzioni": [
+        "Uxmal chiude prima degli altri siti: ultimo ingresso alle 15.",
+        "Niente cibo all'ingresso, niente animali, quota extra per le videocamere professionali.",
+        "Lungo la Ruta Puuc ci sono pochi servizi: acqua e benzina prima di partire."
+      ],
+    esperienzeSlugs: [],
+    tripSlugs: ['messico-yucatan-completo', 'messico-beach-life'],
+    imageAlt: 'La Piramide dell\'Indovino di Uxmal, con la sua pianta ovale, vista dalla spianata',
+  },
+  {
+    slug: 'palenque',
+    paeseSlug: 'messico',
+    ordine: 31,
+    nome: 'Palenque',
+    tipologia: ['archeologia', 'natura', 'cultura'],
+    giorniConsigliati: '2 notti, con un giorno pieno per il sito',
+    visitataPersonalmente: false,
+    introduzione:
+      'Una città maya classica sulle prime colline del Chiapas, dentro un parco nazionale coperto di foresta, con il Tempio delle Iscrizioni e la tomba del re Pakal.',
+    percheAndarci:
+      'È uno dei siti maya più belli per l\'insieme di architettura e natura: templi tra gli alberi, ruscelli e scimmie urlatrici. Sul Tren Maya è la stazione di testa della linea che arriva da Campeche e Mérida.',
+    cosaVedere: [
+      'Il Tempio delle Iscrizioni e il Palazzo con la torre',
+      'Il Gruppo delle Croci',
+      'Il museo di sito',
+    ],
+    cosaFare: [
+      'Entrare all\'apertura, alle 8, quando la foresta è fresca',
+      'Seguire i sentieri tra i gruppi di templi più lontani',
+      'Valutare le cascate di Misol-Ha e Agua Azul solo se gli avvisi ufficiali sulla Federale 199 lo permettono',
+    ],
+    doveDormire:
+      'Il paese per spendere meno; la strada che sale al sito per dormire nella vegetazione, più vicino all\'ingresso.',
+    doveMangiare:
+      'Cucina semplice in paese. Nel sito non si entra con il cibo.',
+    comeArrivare: 'Tren Maya (stazione di Palenque) o bus ADO; in auto dalla Federale 186, deviando al km 114 verso Palenque (scheda INAH).',
+    comeSpostarsi: 'Dal paese al sito, a circa 7 km dentro il parco nazionale, taxi o colectivo.',
+    periodoMigliore: 'da novembre ad aprile, la stagione più asciutta; nel resto dell\'anno piove spesso e fa molto caldo umido.',
+    costi: '210 MXN di ingresso INAH per gli stranieri, più 215 MXN di quota del parco nazionale (CONANP) (scheda INAH, 2026).',
+    erroriDaEvitare: [
+      'Andare alle cascate in auto propria sulla Federale 199 senza controllare gli avvisi: il Foreign Office sconsiglia i viaggi non essenziali su quel tratto',
+      'Arrivare a metà giornata: caldo forte e folla',
+      'Cercare il museo di sito il lunedì: è aperto dal martedì alla domenica',
+    ],
+      "luoghi": [
+        {
+          "nome": "Zona archeologica di Palenque",
+          "testo": "Il Tempio delle Iscrizioni custodiva la tomba di Pakal, re di Palenque nel VII secolo; il Palazzo ha una torre di quattro piani, rara nell'architettura maya. Intorno, il Gruppo delle Croci e templi minori tra la foresta.",
+          "come": "Biglietti al centro visitatori o online. Si paga l'ingresso INAH e la quota del parco nazionale.",
+          "quando": "Aperto ogni giorno dalle 8 alle 17, ultimo ingresso alle 16 (scheda INAH). Meglio all'apertura.",
+          "tempo": "3-4 ore",
+          "costo": "210 MXN INAH più 215 MXN CONANP per gli stranieri (2026).",
+          "url": "https://lugares.inah.gob.mx/en/node/4853",
+          "consiglio": "Niente cibo all'ingresso: si mangia prima o dopo."
+        },
+        {
+          "nome": "Museo di sito Alberto Ruz Lhuillier",
+          "testo": "Il museo del sito, con i rilievi e gli oggetti trovati negli scavi, intitolato all'archeologo che scoprì la tomba di Pakal.",
+          "come": "Lungo la strada del sito.",
+          "quando": "Dal martedì alla domenica.",
+          "tempo": "1 ora"
+        },
+        {
+          "nome": "Misol-Ha e Agua Azul",
+          "testo": "Due cascate famose a sud di Palenque: Misol-Ha è un salto unico in una piscina naturale, Agua Azul una serie di vasche turchesi. Si raggiungono dalla Federale 199.",
+          "come": "Solo con un tour organizzato dal paese, e solo se gli avvisi ufficiali lo permettono al momento.",
+          "consiglio": "Il Foreign Office britannico sconsiglia i viaggi non essenziali sulla 199 tra Rancho Nuevo e il bivio di Chancalá, appena fuori Palenque, per blocchi illegali, proteste e rischio di sequestro. Le quote d'ingresso sono gestite dalle comunità: non verificate."
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Mattina: il sito all'apertura",
+            "Pomeriggio: il museo di sito"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: sito e museo",
+            "Giorno 2: sentieri nella foresta o, se gli avvisi lo permettono, le cascate con un tour"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Paese di Palenque",
+          "perChi": "budget e trasporti",
+          "testo": "Più economico, vicino a bus e servizi."
+        },
+        {
+          "nome": "Strada del sito",
+          "perChi": "chi vuole la foresta",
+          "testo": "Alloggi nella vegetazione, più vicini all'ingresso del parco."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Caffè e cioccolato del Chiapas",
+          "testo": "Il Chiapas è una regione di caffè e cacao."
+        },
+        {
+          "nome": "Tamales chiapanechi",
+          "testo": "Tamales avvolti nella foglia di banano, nei mercati."
+        }
+      ],
+      "attenzioni": [
+        "In Chiapas Viaggiare Sicuri segnala rapine a stranieri e raccomanda di restare sulle strade statali.",
+        "Il Foreign Office sconsiglia la fascia di 40 km dal confine con il Guatemala: Yaxchilán e Bonampak sono in quella zona.",
+        "Repellente forte: nel parco ci sono molte zanzare."
+      ],
+    esperienzeSlugs: [],
+    tripSlugs: ['messico-yucatan-completo'],
+    imageAlt: 'Il Tempio delle Iscrizioni di Palenque tra gli alberi della foresta del Chiapas',
+  },
+  {
+    slug: 'calakmul',
+    paeseSlug: 'messico',
+    ordine: 32,
+    nome: 'Calakmul',
+    tipologia: ['archeologia', 'natura'],
+    giorniConsigliati: '2 notti a Xpujil o lungo la strada della riserva, con un giorno pieno per il sito',
+    visitataPersonalmente: false,
+    introduzione:
+      'Una delle grandi capitali del mondo maya classico, rivale di Tikal, sepolta nella foresta della Riserva della Biosfera di Calakmul, nel sud del Campeche. È patrimonio UNESCO sia per la cultura sia per la natura.',
+    percheAndarci:
+      'Per vedere una città maya immensa quasi senza folla, e la foresta dall\'alto delle piramidi. Lungo i sentieri si incontrano spesso scimmie, tacchini ocellati e tucani.',
+    cosaVedere: [
+      'Le grandi strutture della città, con la vista sulla foresta',
+      'Le stele della piazza centrale',
+      'I siti di stile Río Bec intorno a Xpujil, come Becán e Xpuhil',
+    ],
+    cosaFare: [
+      'Partire all\'alba da Xpujil per avere tempo nel sito',
+      'Camminare sui sentieri segnati, guardando la fauna',
+      'Fermarsi a Balam Ku lungo la Federale 186',
+    ],
+    doveDormire:
+      'Il paese di Xpujil, sulla Federale 186, oppure gli alloggi ecologici lungo la strada della riserva. Sono pochi: conviene prenotare.',
+    doveMangiare:
+      'Pochi posti, semplici, a Xpujil. Per la giornata nella riserva meglio portarsi cibo e acqua.',
+    comeArrivare: 'Dalla Federale 186 (Escárcega-Chetumal): al bivio del chilometro 95 si entra nella strada della riserva, e il sito è al chilometro 60 (scheda INAH). Il Tren Maya ha stazioni a Xpujil e Calakmul, ma non risulta un trasporto pubblico fino alle rovine.',
+    comeSpostarsi: 'In auto o con un tour da Xpujil.',
+    periodoMigliore: 'da novembre ad aprile, la stagione secca; con le piogge la foresta è più umida e piena di zanzare.',
+    costi: '210 MXN di ingresso INAH per gli stranieri, più 215 MXN di quota della riserva (CONANP) (scheda INAH, 2026). Portare contanti.',
+    erroriDaEvitare: [
+      'Partire tardi: l\'ultimo ingresso è alle 16 e la strada nella riserva è lunga e stretta',
+      'Uscire dai sentieri segnati: l\'INAH lo vieta',
+      'Entrare nella riserva senza benzina, acqua e contanti',
+      'Guidare la sera sulla Federale 186',
+    ],
+      "luoghi": [
+        {
+          "nome": "Zona archeologica di Calakmul",
+          "testo": "La capitale della dinastia Kaan, che contese a Tikal il dominio delle pianure maya. Le strutture più alte superano la cima degli alberi: da lassù si vede solo foresta fino all'orizzonte.",
+          "come": "Dal bivio del km 95 della Federale 186, 60 km di strada nella riserva. Si paga l'ingresso INAH e la quota CONANP della riserva.",
+          "quando": "Aperto ogni giorno dalle 8 alle 17, ultimo ingresso alle 16 (scheda INAH). Partire all'alba.",
+          "tempo": "Giornata",
+          "costo": "210 MXN INAH più 215 MXN CONANP per gli stranieri (2026).",
+          "url": "https://lugares.inah.gob.mx/en/node/5551",
+          "consiglio": "Scarpe chiuse, repellente, acqua e cibo per tutta la giornata."
+        },
+        {
+          "nome": "Becán e Xpuhil",
+          "testo": "Due siti di stile Río Bec vicino al paese di Xpujil, con torri decorative e, a Becán, un fossato intorno alla città.",
+          "come": "In auto dalla Federale 186, a pochi minuti dal paese.",
+          "tempo": "1-2 ore",
+          "consiglio": "Buoni per il pomeriggio del giorno di arrivo."
+        },
+        {
+          "nome": "Balam Ku",
+          "testo": "Un sito piccolo lungo la Federale 186, sulla strada tra Escárcega e Xpujil.",
+          "come": "In auto, come sosta lungo la strada.",
+          "tempo": "1 ora"
+        }
+      ],
+      "programmi": [
+        {
+          "titolo": "1 giorno",
+          "tappe": [
+            "Alba: partenza da Xpujil",
+            "Mattina e primo pomeriggio: Calakmul",
+            "Rientro a Xpujil prima del buio"
+          ]
+        },
+        {
+          "titolo": "2 giorni",
+          "tappe": [
+            "Giorno 1: Balam Ku lungo la strada, Becán o Xpuhil nel pomeriggio",
+            "Giorno 2: Calakmul"
+          ]
+        }
+      ],
+      "zone": [
+        {
+          "nome": "Xpujil",
+          "perChi": "servizi e trasporti",
+          "testo": "Il paese sulla Federale 186, con alloggi semplici e qualche posto per mangiare."
+        },
+        {
+          "nome": "Strada della riserva",
+          "perChi": "chi vuole la foresta",
+          "testo": "Alloggi ecologici più vicini al sito, pochi e da prenotare."
+        }
+      ],
+      "sapori": [
+        {
+          "nome": "Cucina campechana",
+          "testo": "Pan de cazón e pesce del Golfo si trovano a Campeche; nella zona di Calakmul la cucina è semplice, casalinga."
+        }
+      ],
+      "attenzioni": [
+        "Restare sui sentieri segnati: i percorsi fuori itinerario sono vietati.",
+        "Niente fumo nel sito e quota extra per le videocamere professionali.",
+        "Viaggiare Sicuri segnala la chikungunya in Campeche: repellente forte."
+      ],
+    esperienzeSlugs: [],
+    tripSlugs: ['messico-yucatan-completo'],
+    imageAlt: 'La foresta della Riserva della Biosfera di Calakmul vista dalla cima di una piramide maya',
   },
 ]

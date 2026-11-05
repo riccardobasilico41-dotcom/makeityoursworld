@@ -141,7 +141,7 @@ export default async function AreaPage({ params }: { params: Promise<{ area: str
         media={{ tipo: 'foto', src: d.area.immagine, alt: d.area.imageAlt[lingua] }}
       />
 
-      <section aria-labelledby="paesi-titolo" className="py-14 sm:py-20">
+      <section aria-labelledby="paesi-titolo" className="sezione">
         <Container>
           <h2 id="paesi-titolo" className="font-display text-[clamp(1.8rem,3vw,2.6rem)] text-alpine">
             {t.paesi}
@@ -180,7 +180,7 @@ export default async function AreaPage({ params }: { params: Promise<{ area: str
           {d.nViaggi > 0 && (
             <Link
               href={`/viaggi?area=${slug}`}
-              className="group mt-10 flex flex-wrap items-center justify-between gap-4 border-2 border-ink bg-white p-6 shadow-[6px_6px_0_var(--color-rosso)] transition-[transform,box-shadow] duration-150 hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-[9px_9px_0_var(--color-rosso)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-rosso focus-visible:ring-offset-2 sm:p-8"
+              className="scheda scheda-link group mt-10 flex flex-wrap items-center justify-between gap-4 bg-white p-6 sm:p-8"
             >
               <span>
                 <span className="block text-[11px] font-semibold uppercase tracking-[0.18em] text-rosso">{t.nViaggi(d.nViaggi)}</span>
@@ -192,7 +192,7 @@ export default async function AreaPage({ params }: { params: Promise<{ area: str
         </Container>
       </section>
 
-      <section aria-labelledby="tutte-titolo" className="border-t border-alpine/10 bg-cream-dark/30 py-14 sm:py-20">
+      <section aria-labelledby="tutte-titolo" className="border-t border-alpine/10 bg-cream-dark/30 sezione">
         <Container>
           <h2 id="tutte-titolo" className="font-display text-[clamp(1.8rem,3vw,2.6rem)] text-alpine">
             {t.tutte}
@@ -205,7 +205,7 @@ export default async function AreaPage({ params }: { params: Promise<{ area: str
                 <a
                   key={paese.slug}
                   href={`#paese-${paese.slug}`}
-                  className="inline-flex min-h-9 items-center border border-ink/20 bg-cream px-3 text-sm font-medium text-ink hover:border-ink hover:bg-ink hover:text-cream"
+                  className="chip bg-cream"
                 >
                   {paese.nome}
                 </a>
@@ -218,8 +218,8 @@ export default async function AreaPage({ params }: { params: Promise<{ area: str
                 <div key={paese.slug} id={`paese-${paese.slug}`} className="scroll-mt-24">
                   <div className="flex flex-wrap items-baseline justify-between gap-3 border-b border-alpine/15 pb-3">
                     <h3 className="font-display text-2xl text-alpine">{paese.nome}</h3>
-                    <Link href={`/destinazioni/${paese.slug}`} className="text-sm font-semibold text-rosso hover:underline">
-                      {t.vediPaese} →
+                    <Link href={`/destinazioni/${paese.slug}`} aria-label={`${t.vediPaese}: ${paese.nome}`} className="-my-3 inline-flex min-h-11 items-center text-sm font-semibold text-rosso underline-offset-4 hover:underline">
+                      {t.vediPaese} <span aria-hidden="true">&nbsp;→</span>
                     </Link>
                   </div>
                   <ul className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">

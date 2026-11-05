@@ -33,7 +33,7 @@ export async function VisualArchive({
   const lingua = await linguaCorrente()
   const t = T[lingua]
   return (
-    <section className="border-t border-alpine/10 py-24 sm:py-32">
+    <section className="border-t border-alpine/10 sezione">
       <Container className="mb-10">
         {/* la CTA «tutti i viaggi» è subito sotto, nella sezione della Home: qui non si ripete */}
         <div className="flex flex-wrap items-end justify-between gap-4">

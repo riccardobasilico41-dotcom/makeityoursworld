@@ -24,6 +24,7 @@ export const destinazioniCina: Destinazione[] = [
       'Il Tempio del Cielo, con la sala circolare a tre tetti blu e il parco dove ogni mattina centinaia di pensionati ballano, cantano e giocano a carte',
       'Il Palazzo d\'Estate, con il lago Kunming e il lungo corridoio dipinto',
       'Gli hutong attorno alla Torre del Tamburo e al lago Houhai, il tessuto di vicoli e cortili della città vecchia',
+      'Il Tempio dei Lama (Yonghe Gong), monastero buddhista tibetano ancora attivo, con il Buddha di sandalo alto 18 metri',
       'La Grande Muraglia: Mutianyu, Jinshanling o Simatai a seconda di quanto si è disposti a camminare',
     ],
     cosaFare: [
@@ -99,7 +100,7 @@ export const destinazioniCina: Destinazione[] = [
       },
     ],
     miaEsperienza:
-      'Pechino è la città che chiede più preparazione di tutto il viaggio, e ripaga subito chi l\'ha fatta. La Città Proibita è più grande di qualsiasi aspettativa, ed è il suo pregio e il suo limite: la si attraversa cortile dopo cortile in una direzione sola, insieme a migliaia di persone, e dopo la terza sala del trono mi sono accorto di guardare senza vedere. Il trucco è uscire dalla via centrale e infilarsi nei palazzi laterali a est: non ci va quasi nessuno e le sale sono piccole, a misura di persona. Il Tempio del Cielo al mattino presto invece non delude mai, e non per il tempio. Nel parco attorno centinaia di pensionati ballano, cantano in coro, giocano a carte e fanno esercizi con la spada: è la scena più bella e meno turistica della città. Sugli hutong va detta la verità. Quelli attorno a Houhai ormai sono bar e negozi; la vita vera è nei vicoli due isolati più in là.',
+      'Pechino è la città che chiede più preparazione di tutto il viaggio, e ripaga subito chi l\'ha fatta. La Città Proibita è più grande di qualsiasi aspettativa, ed è il suo pregio e il suo limite: la si attraversa cortile dopo cortile in una direzione sola, insieme a migliaia di persone, e dopo la terza sala del trono mi sono accorto di guardare senza vedere. Il trucco è uscire dalla via centrale e infilarsi nei palazzi laterali a est: non ci va quasi nessuno e le sale sono piccole, a misura di persona. Il Tempio del Cielo al mattino presto invece non delude mai, e non per il tempio. Nel parco attorno centinaia di pensionati ballano, cantano in coro, giocano a carte e fanno esercizi con la spada: è la scena più bella e meno turistica della città. Sugli hutong va detta la verità. Quelli attorno a Houhai ormai sono bar e negozi; la vita vera è nei vicoli due isolati più in là, ed è lì che vale la pena perdersi. E se avete tempo, andate al Tempio dei Lama: è meno iconico, ma per me è bellissimo.',
     luoghi: [
       {
         nome: "Città Proibita",
@@ -134,6 +135,15 @@ export const destinazioniCina: Destinazione[] = [
         quando: "Mattina feriale.",
         tempo: "3-4 ore",
         consiglio: "È grande: dedicare mezza giornata, entrare dalla porta nord, scavalcare la collina della Longevità e scendere verso il lago, magari attraversandolo in battello.",
+      },
+      {
+        nome: "Tempio dei Lama (Yonghe Gong)",
+        testo: "Uno dei più importanti monasteri buddhisti tibetani fuori dal Tibet, ancora attivo: nato nel 1694 come residenza del principe che sarebbe diventato l'imperatore Yongzheng, fu trasformato in lamasseria nel 1744. Si attraversano cortili e sale una dopo l'altra, tra incenso, monaci e fedeli che pregano; nell'ultimo padiglione, il Wanfu Ge, c'è un Buddha Maitreya scolpito in un unico tronco di sandalo, alto 18 metri fuori terra. Meno iconico della Città Proibita, ma bellissimo.",
+        come: "Metro linee 2 e 5 fino a Yonghegong. Ingresso a fasce orarie, da prenotare sul mini-programma WeChat ufficiale (apre qualche giorno prima) o alla biglietteria col passaporto finché restano posti; il passaporto va portato comunque.",
+        quando: "Tutti i giorni dalle 9; chiude nel pomeriggio, indicativamente tra le 16.30 e le 17 secondo la stagione (orario invernale più corto). Meglio la mattina di un giorno feriale.",
+        tempo: "1-2 ore",
+        costo: "circa 25 yuan (2026)",
+        consiglio: "Si abbina bene a Guozijian, la via del Tempio di Confucio, a pochi passi, e agli hutong della zona.",
       },
       {
         nome: "Muraglia a Jinshanling",
@@ -173,6 +183,7 @@ export const destinazioniCina: Destinazione[] = [
       "Scegliere Badaling: è il tratto più restaurato e affollato della Muraglia.",
       "Seguire sconosciuti gentili che invitano a una degustazione di tè o in un bar: è la truffa classica delle zone turistiche, alla fine arriva un conto altissimo.",
       "Salire su taxi senza insegne o senza tassametro: usare i taxi ufficiali o un'app come DiDi.",
+      "Andarci durante le vacanze cinesi (Capodanno lunare, Festa del lavoro di inizio maggio, Golden Week del 1-7 ottobre): il turismo interno è impressionante e si rischiano ore di coda ovunque.",
     ],
     esperienzeSlugs: ['muraglia-jinshanling', 'citta-proibita'],
     tripSlugs: ['cina-classica'],

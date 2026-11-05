@@ -34,7 +34,7 @@ export function QuestoMeseScelta({ voci }: { voci: VoceMese[] }) {
   const nome = NOMI_MESI[lingua][mese - 1]
 
   return (
-    <section className="border-t border-alpine/10 py-20 sm:py-24">
+    <section className="border-t border-alpine/10 sezione">
       <p className="text-xs font-semibold uppercase tracking-[0.2em] text-rosso">{t.eyebrow}</p>
       <div className="mt-3 flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
         <h2 className="font-display text-[clamp(1.8rem,3vw,2.6rem)] text-ink">{t.titolo(nome)}</h2>

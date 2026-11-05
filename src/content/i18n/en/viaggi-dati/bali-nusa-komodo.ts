@@ -1,0 +1,70 @@
+import type { TripMeta } from '@/lib/types'
+
+export const baliNusaKomodoMeta: TripMeta = {
+  tripSlug: 'bali-nusa-komodo',
+  paeseSlug: 'indonesia',
+  ritmo:
+    'Relaxed in Ubud, with early alarms on the Nusas and in Komodo to reach the viewpoints before the crowds; three days on a boat in the park and a buffer day in Labuan Bajo before the flight to Bali',
+  trasporti:
+    'Day driver on Bali, fast boat from Sanur to Nusa Lembongan and back from Nusa Penida, local boat between Lembongan and Penida, car with driver on Penida, round-trip direct flight Denpasar-Labuan Bajo, boat with nights on board in Komodo National Park',
+  stile: ['mare', 'snorkeling', 'risaie', 'natura', 'isole'],
+  adattoA: [
+    'those who want Bali plus some wild sea in two weeks, with short transfers',
+    'those who want to see the Komodo dragons and sleep on a boat in the park',
+    'snorkeling lovers, from the manta rays of Nusa Penida to Pink Beach',
+    "those who accept sunrise alarms to have Kelingking and Padar without the line",
+  ],
+  puntiForti: [
+    'Three days on the Nusas sleeping on the islands, to reach the viewpoints before the boats from Bali',
+    'Padar at sunrise and the dragons of Rinca, wilder and less crowded than Komodo Island',
+    'Snorkeling with manta rays on Nusa Penida and in Komodo National Park',
+    'The Tegalalang and Sidemen rice terraces from Ubud',
+    'The Kecak dance at Uluwatu at sunset to close the trip',
+  ],
+  criticita: [
+    'Boat times and prices to the Nusas change often: check them the day before',
+    "The Nusa local tax is separate from Bali's and its amount has changed several times",
+    'Narrow, steep roads full of potholes on Nusa Penida: scooter only for those with real experience',
+    'Strong currents between the Komodo islands and around Penida: swim only where the crew says',
+    'Kelingking and Padar get crowded right after sunrise',
+    'In rough seas boats run late: early-afternoon flight to Labuan Bajo and a buffer day before heading back',
+  ],
+  budgetTotale: undefined,
+  viaggioInBreve: {
+    conChiSonoPartito: 'itinerary designed for independent travel, with a day driver on Bali and a boat with nights on board in Komodo',
+    treEsperienzePiuBelle: 'The Kecak dance at Uluwatu at sunset, Padar at sunrise, the dragons of Rinca',
+    aChiLoConsiglio: 'To those who want Bali, the sea of the Nusas and the Komodo dragons in two weeks, without spending more time traveling than staying put',
+  },
+  tappeMappa: [
+    { nome: 'Ubud', destinazioneSlug: 'bali' },
+    { nome: 'Nusa Lembongan and Nusa Penida', destinazioneSlug: 'bali', lat: -8.74559, lng: 115.53468 },
+    { nome: 'Labuan Bajo and Komodo National Park', destinazioneSlug: 'komodo' },
+    { nome: 'Uluwatu', destinazioneSlug: 'bali' },
+  ],
+  giorni: [
+    { titoloGiorno: 'Day 1 — Arrival in Bali and the road to Ubud', tratta: 'Denpasar airport → Ubud, with a driver', pernottamento: 'Ubud', statoPernottamento: 'consigliato', intensita: 'leggero', costiNoti: 'Bali tourist levy 150,000 IDR per person, paid online', destinazioneSlug: 'bali' },
+    { titoloGiorno: 'Day 2 — Ubud and the Tegalalang rice terraces', pernottamento: 'Ubud', statoPernottamento: 'consigliato', intensita: 'medio', destinazioneSlug: 'bali' },
+    { titoloGiorno: 'Day 3 — Sidemen and the Mount Agung valley', tratta: 'Ubud → Sidemen and back, with a driver', pernottamento: 'Ubud', statoPernottamento: 'consigliato', intensita: 'leggero', destinazioneSlug: 'bali' },
+    { titoloGiorno: 'Day 4 — Fast boat from Sanur to Nusa Lembongan', tratta: 'Ubud → Sanur harbor with a driver, fast boat to Nusa Lembongan, about half an hour', pernottamento: 'Nusa Lembongan', statoPernottamento: 'consigliato', intensita: 'medio', costiNoti: 'fast boat price to be asked of the company; Nusa local tax to be asked of the operator', destinazioneSlug: 'bali' },
+    { titoloGiorno: 'Day 5 — From Lembongan to Nusa Penida: snorkeling with manta rays', tratta: 'Nusa Lembongan → Nusa Penida by local boat', pernottamento: 'Nusa Penida', statoPernottamento: 'consigliato', intensita: 'medio', destinazioneSlug: 'bali' },
+    { titoloGiorno: "Day 6 — Nusa Penida: Kelingking, Broken Beach and Angel's Billabong", tratta: "Tour of Penida's west coast with a driver", pernottamento: 'Nusa Penida', statoPernottamento: 'consigliato', intensita: 'intenso', destinazioneSlug: 'bali' },
+    { titoloGiorno: 'Day 7 — Back to Sanur and flight to Labuan Bajo', tratta: 'Nusa Penida → Sanur by fast boat, Denpasar airport → Labuan Bajo, direct flight', pernottamento: 'Labuan Bajo', statoPernottamento: 'consigliato', intensita: 'medio', destinazioneSlug: 'komodo' },
+    { titoloGiorno: 'Day 8 — By boat in the park: Kelor, Rinca and sunset at Kalong', tratta: 'Labuan Bajo → Kelor → Rinca → Kalong by boat', pernottamento: 'On board, Komodo National Park', statoPernottamento: 'consigliato', intensita: 'medio', costiNoti: 'park entry 250,000 IDR per person for foreigners, trekking and snorkeling included', destinazioneSlug: 'komodo' },
+    { titoloGiorno: 'Day 9 — Padar at sunrise, Pink Beach and Komodo Island', pernottamento: 'On board, Komodo National Park', statoPernottamento: 'consigliato', intensita: 'intenso', destinazioneSlug: 'komodo' },
+    { titoloGiorno: 'Day 10 — Manta rays, Taka Makassar, Kanawa and back to Labuan Bajo', tratta: 'Manta Point → Taka Makassar → Kanawa → Labuan Bajo by boat', pernottamento: 'Labuan Bajo', statoPernottamento: 'consigliato', intensita: 'medio', costiNoti: 'diving extra, 25,000 IDR per activity in park fees', destinazioneSlug: 'komodo' },
+    { titoloGiorno: 'Day 11 — Labuan Bajo, buffer day', pernottamento: 'Labuan Bajo', statoPernottamento: 'consigliato', intensita: 'leggero', destinazioneSlug: 'komodo' },
+    { titoloGiorno: 'Day 12 — Flight to Bali and arrival in Uluwatu', tratta: 'Labuan Bajo → Denpasar by plane, then Uluwatu by car', pernottamento: 'Uluwatu', statoPernottamento: 'consigliato', intensita: 'leggero', destinazioneSlug: 'bali' },
+    { titoloGiorno: 'Day 13 — Uluwatu: beaches and the Kecak dance at sunset', pernottamento: 'Uluwatu', statoPernottamento: 'consigliato', intensita: 'leggero', destinazioneSlug: 'bali' },
+    { titoloGiorno: 'Day 14 — Departure from Denpasar', tratta: 'Uluwatu → Denpasar airport', intensita: 'leggero', destinazioneSlug: 'bali' },
+  ],
+  budget: [
+    { etichetta: 'International flights', valore: undefined },
+    { etichetta: 'Bali tourist levy', valore: '150,000 IDR per person' },
+    { etichetta: 'Fast boats to the Nusas', valore: 'varies by company and season' },
+    { etichetta: 'Nusa local tax', valore: 'amount to be asked of the boat operator' },
+    { etichetta: 'Denpasar-Labuan Bajo flight', valore: undefined },
+    { etichetta: 'Komodo National Park entry', valore: '250,000 IDR per person for foreigners, trekking and snorkeling included; diving 25,000 IDR per activity' },
+    { etichetta: 'Boat with nights on board in Komodo', valore: 'varies by boat and length' },
+    { etichetta: 'Driver on Bali', valore: undefined },
+  ],
+}

@@ -55,7 +55,7 @@ export async function PageHeader({
   const testo = (
     <>
       {crumbs && crumbs.length > 0 && (
-        <nav aria-label={T[lingua].briciole} className={`flex flex-wrap items-center gap-x-1.5 gap-y-1 text-xs ${chiaro ? 'text-cream/80' : 'text-stone'}`}>
+        <nav aria-label={T[lingua].briciole} className={`flex flex-wrap items-center gap-x-1.5 gap-y-1 text-xs ${chiaro ? 'text-cream' : 'text-stone'}`}>
           {crumbs.map((c, i) => (
             <span key={`${c.label}-${i}`} className="inline-flex items-center gap-1.5">
               {i > 0 && <span aria-hidden="true">/</span>}
@@ -81,10 +81,10 @@ export async function PageHeader({
       <h1 className={`mt-3 max-w-[18ch] font-display text-[clamp(2.5rem,5.2vw,5rem)] text-balance ${chiaro ? 'text-cream [text-shadow:0_2px_24px_rgb(0_0_0/0.35)]' : 'text-ink'}`}>
         {title}
         {titleNote && (
-          <span className={`mt-2 block font-sans text-xl font-normal tracking-normal ${chiaro ? 'text-cream/85' : 'text-stone'}`}>{titleNote}</span>
+          <span className={`mt-2 block font-sans text-xl font-normal tracking-normal ${chiaro ? 'text-cream' : 'text-stone'}`}>{titleNote}</span>
         )}
       </h1>
-      {lead && <div className={`mt-6 max-w-[52ch] text-lg leading-relaxed ${chiaro ? 'text-cream/90' : 'text-stone'}`}>{lead}</div>}
+      {lead && <div className={`mt-6 max-w-[52ch] text-lg leading-relaxed ${chiaro ? 'text-cream' : 'text-stone'}`}>{lead}</div>}
       {meta && <div className={`mt-8 border-t pt-6 ${chiaro ? 'border-cream/25 text-cream' : 'border-ink/15'}`}>{meta}</div>}
       {actions && <div className="mt-8 flex flex-wrap items-center gap-6">{actions}</div>}
     </>
@@ -104,10 +104,11 @@ export async function PageHeader({
       <section className="relative isolate flex min-h-[min(78vh,44rem)] items-end overflow-hidden border-b-2 border-ink bg-alpine">
         <div className="absolute inset-0 -z-10">
           <HeaderMedia media={media} sizes="100vw" />
-          <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/25 via-45% to-transparent" />
-          <div className="absolute inset-y-0 left-0 w-2/3 bg-gradient-to-r from-black/35 to-transparent" />
+          {/* velo pensato per il testo in chiaro: almeno 4,5:1 anche sulle foto con cielo bianco */}
+          <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/60 via-55% to-black/25" />
+          <div className="absolute inset-y-0 left-0 w-2/3 bg-gradient-to-r from-black/40 to-transparent" />
         </div>
-        <div className="mx-auto w-full max-w-6xl px-6 pb-12 pt-32 sm:px-8 sm:pb-16">{testo}</div>
+        <div className="mx-auto w-full max-w-6xl px-6 pb-12 pt-32 [text-shadow:0_1px_14px_rgb(0_0_0/0.5)] sm:px-8 sm:pb-16">{testo}</div>
       </section>
     )
   }
@@ -153,7 +154,7 @@ export function HeaderAction({ href, children, secondary }: { href: string; chil
   ) : (
     <Link
       href={href}
-      className="inline-flex min-h-12 items-center gap-2 bg-rosso px-6 py-3 text-[0.95rem] font-semibold text-cream transition-colors duration-150 hover:bg-rosso-dark focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-rosso focus-visible:ring-offset-2"
+      className="btn btn-primario"
     >
       {children}
     </Link>

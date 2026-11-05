@@ -215,7 +215,7 @@ export async function MappaPaeseSezione({
   }
 
   return (
-    <section id="mappa" className="scroll-mt-24 border-t border-alpine/10 py-20 sm:py-28">
+    <section id="mappa" className="scroll-mt-24 border-t border-alpine/10 sezione">
       <Container>
         <SectionHeading
           eyebrow={t.mappa}
