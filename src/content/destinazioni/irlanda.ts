@@ -38,7 +38,7 @@ export const destinazioniIrlanda: Destinazione[] = [
       {
         nome: 'Trinity College e il Book of Kells',
         testo:
-          'Il Book of Kells è un vangelo miniato che si fa risalire a circa l\'anno 800. È esposto nella biblioteca del Trinity College dall\'Ottocento: si vedono due pagine alla volta, cambiate ogni 6-8 settimane. La Long Room, la grande sala della biblioteca antica, è in fase di restauro e parte dei libri è stata tolta per la conservazione: cosa si vede oggi va controllato sul sito.',
+          'Il Book of Kells è un vangelo miniato che si fa risalire a circa l\'anno 800. È esposto nella biblioteca del Trinity College dall\'Ottocento: si vedono due pagine alla volta, cambiate ogni 6-8 settimane. Cosa si vede oggi nella Long Room, la grande sala della biblioteca antica, va controllato sul sito.',
         come: 'Nel centro, a piedi. Biglietto a orario dal sito ufficiale.',
         quando: 'Alla prima ora del mattino, prima dei gruppi.',
         tempo: '1-1,5 ore',
@@ -51,7 +51,7 @@ export const destinazioniIrlanda: Destinazione[] = [
         testo:
           'Il carcere aperto nel 1796 come prigione della contea di Dublino e chiuso nel 1924. Ci sono passati molti protagonisti delle rivolte irlandesi, tra cui i capi della rivolta di Pasqua del 1916, e alcuni detenuti vi furono giustiziati. È il posto migliore per capire come si arriva all\'indipendenza.',
         come: 'A ovest del centro, in bus o tram. Si entra solo con visita guidata.',
-        quando: 'Prenotare online con giorni di anticipo. Il museo apre alle 10:30; chiuso dal 24 al 27 dicembre.',
+        quando: 'Prenotare online con giorni di anticipo, solo dal sito ufficiale kilmainhamgaolmuseum.ie: i biglietti di altri siti non valgono. Il museo apre alle 10:30; chiuso dal 24 al 27 dicembre.',
         tempo: '1,5 ore',
         costo: '8€ adulti (2026)',
         url: 'https://heritageireland.ie/places-to-visit/kilmainham-gaol/',
@@ -107,7 +107,7 @@ export const destinazioniIrlanda: Destinazione[] = [
       },
       {
         nome: 'Upper Lake',
-        testo: 'Il lago più grande della valle, chiuso tra pareti di montagna. Il sentiero piano dal sito monastico è la passeggiata più semplice; chi ha più tempo sale sui percorsi segnati attorno.',
+        testo: 'Il lago superiore della valle, chiuso tra pareti di montagna. Il sentiero piano dal sito monastico è la passeggiata più semplice; chi ha più tempo sale sui percorsi segnati attorno.',
         come: 'A piedi dal sito monastico.',
         tempo: '1-3 ore secondo il percorso',
         costo: 'gratis',
@@ -150,7 +150,7 @@ export const destinazioniIrlanda: Destinazione[] = [
       },
       {
         nome: 'Rocca di Cashel',
-        testo: 'Era la sede dei re del Munster: secondo la tradizione San Patrizio venne qui a convertire il re Aenghus, e nel 978 Brian Boru vi fu incoronato. Nel 1101 la rocca fu donata alla Chiesa. Oggi ci sono una torre rotonda, una croce, la Cormac\'s Chapel romanica, una cattedrale gotica e una casa-torre del Quattrocento.',
+        testo: 'Era la sede dei re del Munster: secondo la tradizione San Patrizio venne qui a convertire il re Aenghus, e Brian Boru vi fu incoronato re. Nel 1101 la rocca fu donata alla Chiesa. Oggi ci sono una torre rotonda, croci celtiche, la Cormac\'s Chapel romanica, del XII secolo, e una cattedrale gotica del Duecento.',
         come: 'In auto fino a Cashel, parcheggio in paese e breve salita a piedi.',
         quando: 'Dal 17 marzo al 15 ottobre 9:00-17:30; dal 16 ottobre al 16 marzo 9:00-16:30. Chiusa dal 24 al 26 dicembre.',
         tempo: '1-1,5 ore',
@@ -194,7 +194,7 @@ export const destinazioniIrlanda: Destinazione[] = [
       },
       {
         nome: 'Kinsale e Charles Fort',
-        testo: 'Nel 1601 qui sbarcò una spedizione spagnola, e la battaglia di Kinsale chiuse la Guerra dei nove anni. Il Charles Fort, del 1677, è una fortezza a stella all\'ingresso del porto. Dopo l\'affondamento del Lusitania, il 7 maggio 1915, sopravvissuti e vittime furono portati a Kinsale. Oggi il paese è famoso soprattutto per i ristoranti e i festival gastronomici.',
+        testo: 'Nel 1601 qui sbarcò una spedizione spagnola, e la battaglia di Kinsale chiuse la Guerra dei nove anni. Il Charles Fort, del Seicento, è una fortezza a stella all\'ingresso del porto. Dopo l\'affondamento del Lusitania, il 7 maggio 1915, alcuni sopravvissuti e i corpi di alcune vittime furono portati a Kinsale, dove si tenne l\'inchiesta. Oggi il paese è famoso soprattutto per i ristoranti e i festival gastronomici.',
         come: 'In auto da Cork; a piedi lungo la costa fino al forte.',
         quando: 'Pomeriggio e cena.',
         tempo: 'mezza giornata',
@@ -285,12 +285,12 @@ export const destinazioniIrlanda: Destinazione[] = [
         come: 'In auto, parcheggio del centro visitatori.',
         quando: 'Novembre-febbraio 9-17; marzo, aprile, settembre e ottobre 8-19; maggio-agosto 8-21. La mattina presto o la sera tardi ci sono meno persone.',
         tempo: '1,5-2 ore',
-        costo: '15€ alla cassa (2026); online meno, fuori dalle ore di punta',
+        costo: '15€ alla cassa (2026); online le tariffe sono più basse',
         url: 'https://www.cliffsofmoher.ie',
       },
       {
         nome: 'Poulnabrone e il Burren',
-        testo: 'Il Burren è un paesaggio carsico di calcare nel nord-ovest della contea di Clare, di circa 530 km² secondo la definizione più larga. Il dolmen di Poulnabrone è una tomba a portale costruita dai primi agricoltori del Neolitico. Nelle fessure della roccia crescono insieme piante artiche, alpine e mediterranee. Il parco nazionale del Burren, di circa 1.500 ettari, è il più piccolo d\'Irlanda.',
+        testo: 'Il Burren è un paesaggio carsico di calcare nel nord-ovest della contea di Clare, di circa 530 km². Il dolmen di Poulnabrone è una tomba a portale costruita dai primi agricoltori del Neolitico. Nelle fessure della roccia crescono insieme piante artiche, alpine e mediterranee. Il parco nazionale del Burren, di circa 1.500 ettari, è il più piccolo d\'Irlanda.',
         come: 'In auto sulle strade interne del Burren, con parcheggio vicino al dolmen.',
         quando: 'In primavera per i fiori, o con la luce bassa della sera.',
         tempo: '1-2 ore',
@@ -325,7 +325,7 @@ export const destinazioniIrlanda: Destinazione[] = [
     luoghi: [
       {
         nome: 'Spanish Arch',
-        testo: 'Un arco nelle vecchie mura sul fiume, costruito nel Cinquecento. Attorno c\'è il lungofiume dove la gente si siede quando esce il sole.',
+        testo: 'Un arco del primo Settecento, aperto nel prolungamento delle mura cittadine verso il fiume per dare accesso alle banchine. Attorno c\'è il lungofiume dove la gente si siede quando esce il sole.',
         come: 'A piedi dal centro.',
         tempo: '30 minuti',
         costo: 'gratis',

@@ -1,4 +1,4 @@
-# Sardegna, le due anime: 14 giorni dalla Costa Smeralda al Sulcis
+# Sardegna, le due anime: due settimane dalla Costa Smeralda al Sulcis
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
 **Periodo del viaggio:** **fine maggio-giugno oppure settembre**

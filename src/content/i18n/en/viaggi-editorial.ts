@@ -29,19 +29,19 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
     editorialHookType: 'before-you-go',
   },
   'sri-lanka-2023': {
-    seoTitle: "Sri Lanka itinerary 12 days: temples, tea, train and sea",
+    seoTitle: "Sri Lanka itinerary 2 weeks: temples, tea, train and sea",
     seoDescription:
       "A Sri Lanka trip in 12 days by van with a driver: the cultural triangle, Adam's Peak at night, Nuwara Eliya tea, the train to Ella and the south coast.",
-    socialTitle: "Adam's Peak at night, the train to Ella and the sea: Sri Lanka in 12 days",
+    socialTitle: "Adam's Peak at night, the train to Ella and the sea: Sri Lanka in two weeks",
     editorialHook:
       "You climb Adam's Peak at night: 2,243 meters up a lit staircase, in line with hundreds of pilgrims.",
     editorialHookType: 'hidden-side',
   },
   'giappone-itinerario': {
-    seoTitle: "Japan itinerary 12 days: Fuji, Kyoto and cherry blossoms",
+    seoTitle: "Japan itinerary 2 weeks: Fuji, Kyoto and cherry blossoms",
     seoDescription:
       "A Japan trip of 12 days in April: Tokyo, Fuji, Kyoto, Hiroshima, Miyajima, Osaka and Nara, with the JR Pass, onsen and what to know about izakaya bills.",
-    socialTitle: "Last of the sakura, Fuji and onsen: Japan in 12 days in April",
+    socialTitle: "Last of the sakura, Fuji and onsen: Japan in two weeks in April",
     editorialHook:
       "I came for the sakura a few days late: in early April the petals were already falling like pink snow.",
     editorialHookType: 'wish-i-knew',
@@ -101,19 +101,19 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
     editorialHookType: 'worth-it',
   },
   'costa-rica-itinerario': {
-    seoTitle: "Costa Rica itinerary 13 days: Caribbean to Pacific by van",
+    seoTitle: "Costa Rica itinerary 2 weeks: Caribbean to Pacific by van",
     seoDescription:
       "A Costa Rica trip of 13 days by van between the Caribbean and the Pacific: sloths, volcanoes, Monteverde, whales. With the 350€ shared kitty, 7 mistakes.",
-    socialTitle: "Sloths, volcanoes and whales: Costa Rica in 13 days and 7 mistakes not to repeat",
+    socialTitle: "Sloths, volcanoes and whales: Costa Rica in two weeks and 7 mistakes not to repeat",
     editorialHook:
       "In Costa Rica Google Maps isn't reliable: traffic and roads always add time, so plan with a margin.",
     editorialHookType: 'mistakes',
   },
   'messico-beach-life': {
-    seoTitle: "Mexico itinerary 13 days: Yucatán, cenotes and Holbox",
+    seoTitle: "Mexico itinerary 2 weeks: Yucatán, cenotes and Holbox",
     seoDescription:
       "A Mexico trip of 13 days across the Yucatán and Riviera Maya: Maya ruins, cenotes, Bacalar lagoon and the Holbox whale shark. Stops, stays and 10 mistakes.",
-    socialTitle: "The Holbox whale shark and 10 mistakes not to repeat: Mexico in 13 days",
+    socialTitle: "The Holbox whale shark and 10 mistakes not to repeat: Mexico in two weeks",
     editorialHook:
       "Eight hours on a boat to swim next to the Holbox whale shark: it costs a lot, but it's the highlight of the trip.",
     editorialHookType: 'worth-it',
@@ -167,7 +167,7 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
     seoTitle: "South Korea itinerary 2 weeks: Seoul, DMZ, Jeju",
     seoDescription:
       "A South Korea itinerary of 14 days from Seoul and the DMZ to the haenyeo of Jeju, by KTX and bus. The apps to download, closing days, 10 mistakes.",
-    socialTitle: "Google Maps doesn't work in Korea: 10 mistakes to avoid in 14 days from Seoul to Jeju",
+    socialTitle: "Google Maps doesn't work in Korea: 10 mistakes to avoid in two weeks from Seoul to Jeju",
     editorialHook:
       "In Korea Google Maps shows places but doesn't calculate routes: download Naver Map or KakaoMap before you leave.",
     editorialHookType: 'before-you-go',
@@ -176,16 +176,16 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
     seoTitle: "Malaysia Singapore itinerary 2 weeks: KL to Singapore",
     seoDescription:
       "A Malaysia and Singapore itinerary of 14 days from Kuala Lumpur: Penang, Melaka, the Cameron Highlands, eating your way through, and the right coast.",
-    socialTitle: "Malaysia and Singapore in 14 days: why you pick the coast before the dates",
+    socialTitle: "Malaysia and Singapore in two weeks: why you pick the coast before the dates",
     editorialHook:
       "The monsoons on Malaysia's two coasts are opposite: you choose the coast before the dates, and that shapes everything else.",
     editorialHookType: 'before-you-go',
   },
   'borneo-itinerario': {
-    seoTitle: "Borneo itinerary 12 days: Kinabalu, orangutans, Sipadan",
+    seoTitle: "Borneo itinerary 2 weeks: Kinabalu, orangutans, Sipadan",
     seoDescription:
       "A Borneo trip of 12 days in Malaysian Borneo: Kinabalu climb, orangutans, the Kinabatangan river and Sipadan. Permits, cash, malaria, 9 mistakes.",
-    socialTitle: "Kinabalu and Sipadan are booked months ahead: Borneo in 12 days and 9 mistakes",
+    socialTitle: "Kinabalu and Sipadan are booked months ahead: Borneo in two weeks and 9 mistakes",
     editorialHook:
       "Kinabalu has 160 permits a day, Sipadan 250: anyone trying to book on the spot usually gets left out.",
     editorialHookType: 'mistakes',
@@ -200,10 +200,10 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
     editorialHookType: 'secret',
   },
   'arabia-saudita-itinerario': {
-    seoTitle: "Saudi Arabia itinerary 12 days: Hegra, AlUla, Riyadh",
+    seoTitle: "Saudi Arabia itinerary 2 weeks: Hegra, AlUla, Riyadh",
     seoDescription:
       "A Saudi Arabia trip in 12 days: Jeddah, Hegra, Riyadh and the Asir mountains, with online visa, domestic flights, a car. What to book first, 10 mistakes",
-    socialTitle: "Saudi Arabia in 12 days: why Hegra is booked before the flights (and 9 more mistakes)",
+    socialTitle: "Saudi Arabia in two weeks: why Hegra is booked before the flights (and 9 more mistakes)",
     editorialHook:
       "Hegra is capped: book it before the flights, because the whole itinerary revolves around that date.",
     editorialHookType: 'before-you-go',
@@ -236,10 +236,10 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
     editorialHookType: 'skip-instead',
   },
   'grandi-citta-italia': {
-    seoTitle: "Italy itinerary 12 days: Rome, Florence, Venice, Naples",
+    seoTitle: "Italy itinerary 2 weeks: Rome, Florence, Venice, Naples",
     seoDescription:
       "An Italy 12 day itinerary across the four art cities, by high-speed train only. When to go, what to book to actually get in, the 9 mistakes that ruin it.",
-    socialTitle: "Italy's big cities are almost always visited the wrong way: 12 days done right",
+    socialTitle: "Italy's big cities are almost always visited the wrong way: two weeks done right",
     editorialHook:
       "Colosseum, Uffizi, the dome, Borghese, the Last Supper and Pompeii: without a reservation you don't get into any of them.",
     editorialHookType: 'mistakes',
@@ -347,13 +347,13 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
     seoTitle: "Sardinia itinerary 2 weeks: Costa Smeralda to Sulcis",
     seoDescription:
       "A Sardinia itinerary of 14 days by car across the island on the diagonal, from Gallura to Sulcis, with two short versions. Capped beaches, 11 mistakes.",
-    socialTitle: "11 mistakes that ruin a Sardinia holiday, and the 14-day loop to avoid them",
+    socialTitle: "11 mistakes that ruin a Sardinia holiday, and the two-week loop to avoid them",
     editorialHook:
       "Capped-entry beaches are booked months ahead in high season: it's the point that ruins the most plans in Sardinia.",
     editorialHookType: 'mistakes',
   },
   'isole-siciliane': {
-    seoTitle: "Sicilian islands itinerary 12 days: Egadi to Lampedusa",
+    seoTitle: "Sicilian islands itinerary 2 weeks: Egadi to Lampedusa",
     seoDescription:
       "Egadi, Pantelleria and Lampedusa: three Sicilian archipelagos that don't connect, in 12 days by flight, ferry, bike and scooter. 10 mistakes.",
     socialTitle: "Egadi, Pantelleria and Lampedusa in one trip: how to do it and 10 mistakes to avoid",
@@ -380,10 +380,10 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
     editorialHookType: 'skip-instead',
   },
   'normandia-bretagna': {
-    seoTitle: "Normandy and Brittany road trip itinerary 12 days",
+    seoTitle: "Normandy and Brittany road trip itinerary 2 weeks",
     seoDescription:
       "A 12 day road trip by car: five days in Normandy (landing beaches, Mont-Saint-Michel), seven on the Breton coast. How to plan it, the order, 4 mistakes.",
-    socialTitle: "Normandy and Brittany in 12 days: why the order matters, and 4 mistakes to avoid",
+    socialTitle: "Normandy and Brittany in two weeks: why the order matters, and 4 mistakes to avoid",
     editorialHook:
       "The Mont-Saint-Michel bay is not crossed alone, and a museum should be seen before the landing beaches.",
     editorialHookType: 'mistakes',
@@ -626,7 +626,7 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
     seoTitle: "Croatia itinerary 2 weeks: Zagreb to Dubrovnik",
     seoDescription:
       "Croatia itinerary 14 days from Zagreb and Plitvice to Dalmatia, Hvar, Korčula, Dubrovnik. Car as far as Split, catamarans, 2026 budget, 8 mistakes.",
-    socialTitle: "Croatia in 14 days: why you leave the car in Split, and 8 mistakes to avoid",
+    socialTitle: "Croatia in two weeks: why you leave the car in Split, and 8 mistakes to avoid",
     editorialHook:
       "Return the car in Split instead of taking it to the islands: faster catamarans and no parking at 30-50 € a day.",
     editorialHookType: 'skip-instead',
@@ -725,7 +725,7 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
     seoTitle: "Indonesia itinerary 2 weeks: Java, Bali and the Gilis",
     seoDescription:
       "Two weeks from Borobudur, Bromo and Ijen to north Bali, Ubud, Uluwatu and the Gilis: routes, timing, costs and the traps to avoid.",
-    socialTitle: "Java, Bali and the Gilis in 14 days: the classic loop, done right",
+    socialTitle: "Java, Bali and the Gilis in two weeks: the classic loop, done right",
     editorialHook:
       "Three wake-ups in the middle of the night for Borobudur, Bromo and the blue fire of Ijen, then a Bali seen from Munduk and Ubud instead of from the south. It ends with three days on the Gilis, with no cars or scooters.",
     editorialHookType: 'comparison',
@@ -734,7 +734,7 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
     seoTitle: "Sumatra and Mentawai in 2 weeks: jungle and surf",
     seoDescription:
       "Bukittinggi, a few days with a Mentawai family on Siberut and the sea of Sipora: ferries, costs, surf tax and how to travel respectfully.",
-    socialTitle: "Sumatra and Mentawai in 14 days: the Siberut jungle and the surf of Sipora",
+    socialTitle: "Sumatra and Mentawai in two weeks: the Siberut jungle and the surf of Sipora",
     editorialHook:
       "A few days in the Siberut jungle with a Mentawai family, with mud, mosquitoes and a mat for a bed. Then the beaches and waves of Sipora, with everything you need to know to enter that home with respect.",
     editorialHookType: 'comparison',
@@ -749,19 +749,19 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
     editorialHookType: 'comparison',
   },
   'bali-nusa-komodo': {
-    seoTitle: "Bali, Nusa Penida and Komodo itinerary: 14 days",
+    seoTitle: "Bali, Nusa Penida and Komodo itinerary: 2 weeks",
     seoDescription:
       "Ubud and Sidemen, three days on Nusa Lembongan and Nusa Penida, then three days on a boat in Komodo and Uluwatu: boats, flights, taxes and park fees.",
-    socialTitle: "Bali, the Nusa islands and Komodo in 14 days: rice terraces, cliffs and dragons",
+    socialTitle: "Bali, the Nusa islands and Komodo in two weeks: rice terraces, cliffs and dragons",
     editorialHook:
       "Three days on the Nusa islands, sleeping on Penida to reach Kelingking before the boats from Bali. Then two nights on a boat in Komodo, with Padar at sunrise and the dragons of Rinca.",
     editorialHookType: 'comparison',
   },
   'bali-sulawesi-raja-ampat': {
-    seoTitle: "Bali, Sulawesi and Raja Ampat itinerary: 12 days",
+    seoTitle: "Bali, Sulawesi and Raja Ampat itinerary: 2 weeks",
     seoDescription:
       "Bali, North Sulawesi with Tangkoko and Bunaken, then Raja Ampat in homestays: domestic flights, the Waisai ferry, seasons and one-island versions.",
-    socialTitle: "Bali, Sulawesi and Raja Ampat in 12 days: the best sea, with no backtracking",
+    socialTitle: "Bali, Sulawesi and Raja Ampat in two weeks: the best sea, with no backtracking",
     editorialHook:
       "There's a direct flight from Manado to Sorong, and another from Sorong to Bali: that's how three far-apart islands fit into twelve days. With Sulawesi-only and Raja Ampat-only versions, to pick by month.",
     editorialHookType: 'comparison',
@@ -778,10 +778,10 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
   'marocco-citta-imperiali': {
     seoTitle: "Morocco imperial cities itinerary: Fez, Rabat, Chefchaouen",
     seoDescription:
-      "An 11-day Morocco itinerary through Chefchaouen, Fez, Meknes and Volubilis, Rabat and Casablanca by bus and train, plus how to add the Merzouga desert.",
-    socialTitle: "The imperial cities and the blue city: northern Morocco in 11 days",
+      "My 11-day northern Morocco itinerary: Chefchaouen, Fez, Meknes and Volubilis, Rabat and Casablanca by road, plus how to add the Merzouga desert.",
+    socialTitle: "The imperial cities and the blue city: my northern Morocco in 11 days",
     editorialHook:
-      "From Tangier to Casablanca by way of Chefchaouen's blue medina, the alleys of Fez and the Roman ruins of Volubilis, almost all by train. From Fez you can head down to the Sahara and finish in Marrakech.",
+      "From Tangier to Casablanca by way of Chefchaouen's blue medina, the alleys of Fez and the Roman ruins of Volubilis, all by road: I prefer it that way, you can stop wherever you like. From Fez you can head down to the Sahara and finish in Marrakech.",
     editorialHookType: 'comparison',
   },
   'classic-japan': {
@@ -794,7 +794,7 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
     editorialHookType: 'hidden-side',
   },
   'okinawa-estate': {
-    seoTitle: "Okinawa in summer: 13-day itinerary, Kerama, Miyako, Ishigaki",
+    seoTitle: "Okinawa in summer: two-week itinerary, Kerama, Miyako, Ishigaki",
     seoDescription:
       "Naha, Churaumi, Yanbaru, the Kerama Islands, Miyako, Iriomote and Taketomi in 13 days, with ferries, domestic flights, the rainy season and typhoons month by month.",
     socialTitle: "Turtles, mangroves and coral villages: Okinawa in summer",
@@ -812,7 +812,7 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
     editorialHookType: 'save-this',
   },
   'thailandia-nord': {
-    seoTitle: "Northern Thailand in 13 days: Chiang Mai and Chiang Rai",
+    seoTitle: "Northern Thailand in two weeks: Chiang Mai and Chiang Rai",
     seoDescription:
       "Night train from Bangkok, Chiang Mai, Pai, Chiang Rai and the Golden Triangle, with an honest guide to seeing elephants without exploiting them.",
     socialTitle: "Northern Thailand: Chiang Mai, Chiang Rai and elephants, the right way",
@@ -827,6 +827,33 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
     socialTitle: "The complete Yucatán in 16 days: the Maya cities, the Tren Maya and the road worth avoiding",
     editorialHook:
       "Misol-Ha and Agua Azul are reached from Federal Highway 199, the Chiapas stretch the UK Foreign Office advises against.",
+    editorialHookType: 'before-you-go',
+  },
+  'londra-cotswolds': {
+    seoTitle: "London and the Cotswolds in 8 days: Oxford, villages, Bath",
+    seoDescription:
+      "An 8-day itinerary: London on foot and by Tube, then the train to Oxford and a car through the Cotswold villages to Bath. ETA and driving on the left.",
+    socialTitle: "London without a car, then the English countryside: 8 days to Bath",
+    editorialHook:
+      "You only need the car for three days: pick it up in Oxford and drop it in Bath. In London it would just be a burden, with traffic and the Congestion Charge.",
+    editorialHookType: 'itinerary',
+  },
+  'scozia-highlands-distillerie': {
+    seoTitle: "Scotland road trip in two weeks: Highlands, Skye, distilleries",
+    seoDescription:
+      "Edinburgh to Oban, Glencoe, Skye, Loch Ness and Speyside, with the distilleries and a North Coast 500 extension. Driving on the left, lower drink limit.",
+    socialTitle: "Scotland by car: Highlands, Skye, distilleries and the road north",
+    editorialHook:
+      "Scotland's drink-drive limit is lower than England's. Rick's advice is zero tolerance: at the distillery, the driver takes the driver's dram away and tastes it in the evening.",
+    editorialHookType: 'before-you-go',
+  },
+  'irlanda-due-irlande': {
+    seoTitle: "Ireland and Northern Ireland road trip in two weeks",
+    seoDescription:
+      "A loop from Dublin: Kerry, Cliffs of Moher, Connemara, Derry, Giant's Causeway and Belfast. Documents, ETA, driving on the left and the two Irelands.",
+    socialTitle: "The two Irelands in two weeks: from the Republic to Belfast, and why the north needs a passport",
+    editorialHook:
+      "An EU ID card is not enough for Northern Ireland: you need a passport and a UK ETA, even if you drive in from Dublin.",
     editorialHookType: 'before-you-go',
   },
 }

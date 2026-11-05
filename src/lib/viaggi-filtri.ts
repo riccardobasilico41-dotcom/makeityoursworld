@@ -1,5 +1,6 @@
 import { AREE } from './aree'
-import { getAllPaesi, getPaese, getTripMeta } from './geo'
+import { getAllDestinazioni, getAllPaesi, getDestinazione, getPaese, getTripMeta } from './geo'
+import type { TripMeta } from './types'
 import { getAllViaggi, getViaggioBySlug, type Viaggio } from './viaggi'
 import type { Lingua } from './i18n/config'
 import { giorniDaDurata, mesiDaPeriodo, normalizza, stiliDaCategorie, type OpzionePaese } from './viaggi-filtri-stato'
@@ -21,6 +22,7 @@ export const PAESI_MULTI: Record<string, string[]> = {
   'capitali-nordiche': ['danimarca', 'svezia', 'norvegia'],
   'capitali-baltiche': ['lituania', 'lettonia', 'estonia'],
   'borneo-itinerario': ['borneo', 'malesia'],
+  'irlanda-due-irlande': ['irlanda', 'irlanda-del-nord'],
 }
 
 /** Slug dei Paesi toccati da un viaggio (src/content/paesi), il principale per primo. */
@@ -29,6 +31,33 @@ export function paesiDelViaggio(slug: string): string[] {
   if (multi) return multi
   const principale = getTripMeta(slug, 'it')?.paeseSlug
   return principale ? [principale] : []
+}
+
+/**
+ * Paese in cui sta una destinazione collegata a una tappa o a un giorno: prima nei Paesi
+ * `preferiti` (quello del viaggio, poi gli altri di PAESI_MULTI), infine in tutti. Serve per
+ * i viaggi multi-Paese, dove una tappa può stare in un Paese diverso da quello del viaggio
+ * (irlanda-due-irlande, giorni in Irlanda del Nord). `null` se la destinazione non esiste:
+ * meglio nessun link che un link rotto. Gli slug sono uguali in ogni lingua, si cerca in italiano.
+ */
+export function paeseDellaDestinazione(destSlug: string, preferiti: string[]): string | null {
+  for (const p of preferiti) if (getDestinazione(p, destSlug, 'it')) return p
+  return getAllDestinazioni('it').find((d) => d.slug === destSlug)?.paeseSlug ?? null
+}
+
+/**
+ * Il TripMeta con il Paese giusto su ogni tappa e giorno che ha una destinazione
+ * (`paeseSlug`, solo a schermo: i dati dei viaggi non cambiano). I componenti costruiscono
+ * `/destinazioni/<paeseSlug>/<destinazioneSlug>` con questo Paese invece di quello del viaggio.
+ */
+export function conPaesiDelleDestinazioni(meta: TripMeta): TripMeta {
+  const preferiti = [...new Set([meta.paeseSlug, ...paesiDelViaggio(meta.tripSlug)])]
+  const paese = (d?: string) => (d ? { paeseSlug: paeseDellaDestinazione(d, preferiti) } : {})
+  return {
+    ...meta,
+    tappeMappa: meta.tappeMappa.map((t) => ({ ...t, ...paese(t.destinazioneSlug) })),
+    giorni: meta.giorni.map((g) => ({ ...g, ...paese(g.destinazioneSlug) })),
+  }
 }
 
 /** Area (src/lib/aree.ts) di un Paese, dal suo `continente`. */

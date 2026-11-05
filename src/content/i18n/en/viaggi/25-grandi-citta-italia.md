@@ -1,4 +1,4 @@
-# Italy's Great Cities in 12 Days: Rome, Florence, Venice, Naples
+# Italy's Great Cities in Two Weeks: Rome, Florence, Venice, Naples
 
 **Stato bozza:** 🟡 in progress (itinerary, entry quotas and practical information verified and up to date; the first-person passages are written as a draft to be reread and personalized)
 **Periodo del viaggio:** **October to March**, which is when Italy's art cities become livable again

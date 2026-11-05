@@ -1,4 +1,4 @@
-# Normandia e Bretagna in 12 giorni
+# Normandia e Bretagna in due settimane
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
 **Periodo del viaggio:** **maggio-giugno oppure settembre**

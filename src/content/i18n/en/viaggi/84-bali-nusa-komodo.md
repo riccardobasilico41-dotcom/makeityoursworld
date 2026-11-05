@@ -1,4 +1,4 @@
-# Bali, Nusa Penida, Nusa Lembongan and Komodo in 14 Days: Rice Terraces, Cliffs and Dragons
+# Bali, Nusa Penida, Nusa Lembongan and Komodo in Two Weeks: Rice Terraces, Cliffs and Dragons
 
 **Stato bozza:** 🟡 work in progress (Rick has seen Bali, Nusa Penida and Komodo; routes, times and prices checked on November 5, 2026 against official and industry sources, to be rechecked before you go. Boat times to the Nusa islands and the amount of the Nusa local tax are not confirmed)
 **Periodo del viaggio:** designed for April to October, Bali's dry season. In Komodo the dry season, with calmer seas, runs from April to December
@@ -44,7 +44,7 @@ A day trip to **Sidemen**, at the foot of Mount Agung. The terraces are less tou
 You go down to **Sanur** harbor with a driver, leaving early to beat the traffic. In about half an hour by boat you reach **Nusa Lembongan**, the quietest of the Nusas. The afternoon is for the **mangroves**, which you tour in a small boat, and **Devil's Tear**, the cliff where waves explode against the rock. At sunset you cross the **Yellow Bridge**, which links Lembongan to **Nusa Ceningan**, and look over the **Blue Lagoon**. Only jump from the cliff when the sea is calm, and never alone.
 
 ### Day 5 — From Lembongan to Nusa Penida: snorkeling with manta rays
-In the morning a local boat takes you from Lembongan to **Nusa Penida** in a few minutes: arrange it on the spot with your accommodation. Today is a sea day. The snorkeling trip to **Manta Point** and the nearby bays can be booked on Penida or already on Lembongan. The mantas are often there, but not always, and the sea here can be rough: the crew decides whether you go. You sleep on Penida, and that's the trick of the three days: tomorrow morning you reach the viewpoints before the boats from Bali.
+In the morning a local boat takes you from Lembongan to **Nusa Penida** in a few minutes: arrange it on the spot with your accommodation. Today is a sea day. The snorkeling trip to **Manta Point** and the nearby bays can be booked on Penida or already on Lembongan. The mantas are often there, but not always, and the sea here can be rough: the crew decides whether you go. You sleep on Penida, and that's the trick of the three days: tomorrow morning you reach the viewpoints before the boats from Bali. I spent three nights on Penida and explored all of it at an easy pace, and I recommend doing the same: here the island gets two nights so everything fits into 14 days, but if you have an extra day, put it here.
 
 ### Day 6 — Nusa Penida: Kelingking, Broken Beach and Angel's Billabong
 Leave at first light for **Kelingking Beach**, the T-Rex-shaped bay. By midday it's a line of people on a steep trail, so get there very early. The descent to the beach is steep and tiring: you need shoes with a good grip. Then **Broken Beach**, the rock arch over the sea, and **Angel's Billabong**, the natural pool on the cliff, where you swim only at low tide with a calm sea. If you prefer the east coast, go to **Diamond Beach** and **Atuh**, with fewer people. Penida's roads are narrow and full of potholes: a driver with a car takes a lot of worry off your hands.
@@ -83,7 +83,7 @@ From Uluwatu to the airport is a short drive, but traffic in south Bali is unpre
 - **The Kecak dance at Uluwatu** at sunset.
 
 ## Practical tips / mistakes not to repeat
-- **Sleep on Nusa Penida** instead of doing a day trip from Bali: it's the only way to have Kelingking without the line.
+- **Sleep on Nusa Penida** instead of doing a day trip from Bali: it's the only way to have Kelingking without the line. I spent three nights there and recommend it that way, at an easy pace.
 - **Book Nusa boats the day before** in high season: the last departures fill up.
 - **Don't ride a scooter on the Nusas** unless you have real experience: narrow, steep roads full of potholes.
 - **Early-afternoon flight to Labuan Bajo:** the boat from Penida can run late.
@@ -97,7 +97,7 @@ From Uluwatu to the airport is a short drive, but traffic in south Bali is unpre
 ## Chiusura personale
 This loop combines Indonesia's most famous side with a piece of its wildest, with short transfers. Bali is better seen from Ubud and Uluwatu. The Nusas should be taken slowly and with early alarms. Komodo remains the place where an animal lying still in the shade manages to impress you more than any view. If you have a few extra days, stretch it out: each of these islands deserves at least a week.
 
-*From Rick come the take on Bali and the Kecak dance, the advice about the first boat to Nusa Penida, the memories of the dragons, of Rinca and of Padar at sunrise, and the recommended contacts (Villa Jacques, Pande Wirta, Feby Yastika, Hendra, Kanha Loka). The rest comes from the site's destination pages and from research on November 5, 2026: the Love Bali site for the tourist levy, ANTARA for the Komodo park fees in force since October 30, 2024, operators and industry guides for the boats from Sanur, the list of routes from Labuan Bajo airport and gov.uk's advice on boat safety. Boat times and prices and the Nusa local tax need to be rechecked before you go.*
+*From Rick come the take on Bali and the Kecak dance, the advice about the first boat to Nusa Penida, the three nights on Penida explored at an easy pace, the memories of the dragons, of Rinca and of Padar at sunrise, and the recommended contacts (Villa Jacques, Pande Wirta, Feby Yastika, Hendra, Kanha Loka). The rest comes from the site's destination pages and from research on November 5, 2026: the Love Bali site for the tourist levy, ANTARA for the Komodo park fees in force since October 30, 2024, operators and industry guides for the boats from Sanur, the list of routes from Labuan Bajo airport and gov.uk's advice on boat safety. Boat times and prices and the Nusa local tax need to be rechecked before you go.*
 
 ## Tag
 `#indonesia` `#bali` `#nusapenida` `#nusalembongan` `#komodo` `#labuanbajo` `#padar` `#ubud` `#uluwatu` `#snorkeling` `#duesettimane` `#asia`

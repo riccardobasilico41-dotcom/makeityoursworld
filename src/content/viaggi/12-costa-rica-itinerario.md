@@ -1,4 +1,4 @@
-# Costa Rica in 13 giorni: dal Caribe al Pacifico, tra bradipi, vulcani e balene
+# Costa Rica in due settimane: dal Caribe al Pacifico, tra bradipi, vulcani e balene
 
 **Stato bozza:** 🟡 in lavorazione (itinerario, info pratiche e aneddoti pronti grazie a Travel Diary, diario giorno per giorno e Vade Mecum ufficiali — con tanto di orari reali, contatti dei local supplier e prezzi effettivamente pagati; note di Rick del 5/11/2026 inserite: confermate Cahuita, cavallo, canyoning, zip line, balene e surf; mancano l'anno del viaggio e quante balene abbiamo visto)
 **Periodo del viaggio:** metà-fine novembre [anno da confermare], 16-28 novembre circa

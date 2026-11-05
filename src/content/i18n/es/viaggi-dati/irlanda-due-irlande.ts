@@ -1,0 +1,81 @@
+import type { TripMeta } from '@/lib/types'
+
+const FOTO = '/images/viaggi/irlanda-due-irlande'
+
+export const irlandaDueIrlandeMeta: TripMeta = {
+  tripSlug: 'irlanda-due-irlande',
+  paeseSlug: 'irlanda',
+  ritmo:
+    'Medio con algún día intenso: dos días con base en Dublín, luego un cambio de base casi cada noche, con etapas en coche cortas en el sur y dos días largos (Dingle-Galway con los acantilados de Moher, Galway-Derry).',
+  trasporti:
+    'Coche de alquiler recogido en Dublín el Día 3 y devuelto en Dublín el Día 12, que hay que declarar a la empresa de alquiler para pasar a Irlanda del Norte. Conducción por la izquierda en toda la isla; límites en km/h en el sur y en millas por hora en el norte.',
+  stile: ['on the road', 'storia', 'costa', 'natura'],
+  adattoA: [
+    'quien quiere ver las dos Irlandas en el mismo viaje y entender por qué están divididas',
+    'quien disfruta conduciendo entre paisajes que cambian cada día',
+    'quien busca historia reciente contada sobre el terreno, en Belfast y en Derry',
+    'quien no tiene miedo a la lluvia y disfruta de los pubs con música en directo',
+  ],
+  puntiForti: [
+    'La costa atlántica de Kerry a Connemara, con los acantilados de Moher y el Burren en medio',
+    "La Giant's Causeway y la costa de Antrim en el mismo día",
+    'Derry/Londonderry: las murallas del siglo XVII, el Bogside y el Peace Bridge',
+    'Un recorrido con un guía local entre los murales y los peace walls de Belfast',
+    'Dos monedas, dos sistemas de medida y una frontera que no se ve',
+  ],
+  criticita: [
+    'En Irlanda del Norte hacen falta pasaporte y ETA británica (20 £ por persona): el documento de identidad no basta',
+    'Conducción por la izquierda en carreteras rurales estrechas, con muros y setos pegados a la calzada',
+    'El tiempo cambia rápido y los acantilados de Moher, la Roca de Cashel y el puente de Carrick-a-Rede pueden cerrar con viento',
+    'Dos días largos de coche, Dingle-Galway y Galway-Derry',
+    'El roaming de la UE no vale en Irlanda del Norte: depende de la tarifa',
+    'Julio y agosto son caros y el alojamiento se agota pronto, sobre todo en Dublín y en Galway',
+  ],
+  budgetTotale: undefined,
+  viaggioInBreve: {
+    percheHoScelto: undefined,
+    conChiSonoPartito: undefined,
+    cosaCercavo: undefined,
+    treEsperienzePiuBelle: undefined,
+    cosaCambierei: undefined,
+    aChiLoConsiglio: 'A quien quiere la naturaleza del oeste irlandés y, en el mismo viaje, entender la historia de las dos Irlandas en Belfast y en Derry',
+  },
+  tappeMappa: [
+    { nome: 'Dublín', destinazioneSlug: 'dublino' },
+    { nome: 'Glendalough', destinazioneSlug: 'wicklow-glendalough' },
+    { nome: 'Kilkenny', destinazioneSlug: 'kilkenny-cashel' },
+    { nome: 'Roca de Cashel', destinazioneSlug: 'kilkenny-cashel' },
+    { nome: 'Cork y Kinsale', destinazioneSlug: 'cork-kinsale' },
+    { nome: 'Killarney y Ring of Kerry', destinazioneSlug: 'ring-of-kerry-dingle' },
+    { nome: 'Dingle', destinazioneSlug: 'ring-of-kerry-dingle' },
+    { nome: 'Acantilados de Moher', destinazioneSlug: 'cliffs-of-moher-burren' },
+    { nome: 'Galway', destinazioneSlug: 'galway' },
+    { nome: 'Connemara', destinazioneSlug: 'connemara' },
+    { nome: 'Derry/Londonderry', destinazioneSlug: 'derry-londonderry' },
+    { nome: "Giant's Causeway", destinazioneSlug: 'causeway-coastal-route' },
+    { nome: 'Belfast', destinazioneSlug: 'belfast' },
+    { nome: 'Dublín', destinazioneSlug: 'dublino' },
+  ],
+  giorni: [
+    { titoloGiorno: 'Día 1 — Llegada a Dublín', tratta: 'Aeropuerto de Dublín → centro en autobús o taxi', pernottamento: 'Dublín, centro', statoPernottamento: 'da-confermare', intensita: 'leggero', destinazioneSlug: 'dublino', immagine: `${FOTO}/giorno-01-dublino-liffey.webp`, imageAlt: "El Ha'penny Bridge sobre el río Liffey en Dublín, bajo un cielo nublado" },
+    { titoloGiorno: 'Día 2 — Dublín: Book of Kells y Kilmainham Gaol', tratta: 'Trinity College → Kilmainham Gaol, a pie y en autobús o tranvía', pernottamento: 'Dublín, centro', statoPernottamento: 'da-confermare', intensita: 'medio', costiNoti: 'Kilmainham Gaol 8 €, solo con visita guiada reservada (2026); Book of Kells solo en visittrinity.ie', destinazioneSlug: 'dublino', immagine: `${FOTO}/giorno-02-trinity-college.webp`, imageAlt: 'El campanario del Trinity College de Dublín' },
+    { titoloGiorno: 'Día 3 — Glendalough y Kilkenny', tratta: 'Dublín (recogida del coche) → montes de Wicklow → Glendalough → Kilkenny', pernottamento: 'Kilkenny, centro', statoPernottamento: 'da-confermare', intensita: 'medio', costiNoti: 'Centro de visitantes de Glendalough 5 € (2026)', destinazioneSlug: 'wicklow-glendalough', immagine: `${FOTO}/giorno-03-glendalough.webp`, imageAlt: 'El Upper Lake de Glendalough encerrado entre los montes de Wicklow' },
+    { titoloGiorno: 'Día 4 — Kilkenny Castle, la Roca de Cashel y Cork', tratta: 'Kilkenny → Cashel → Cork', pernottamento: 'Cork, centro', statoPernottamento: 'da-confermare', intensita: 'medio', costiNoti: 'Kilkenny Castle 8 €; Roca de Cashel 8 € (2026)', destinazioneSlug: 'kilkenny-cashel', immagine: `${FOTO}/giorno-04-rocca-di-cashel.webp`, imageAlt: 'La Roca de Cashel sobre su colina, con la catedral en ruinas' },
+    { titoloGiorno: 'Día 5 — English Market, Kinsale y hacia Killarney', tratta: 'Cork → Kinsale → Killarney', pernottamento: 'Killarney', statoPernottamento: 'da-confermare', intensita: 'medio', destinazioneSlug: 'cork-kinsale', immagine: `${FOTO}/giorno-05-kinsale.webp`, imageAlt: 'Las casas de colores de Kinsale, en el condado de Cork' },
+    { titoloGiorno: 'Día 6 — Ring of Kerry', tratta: 'Ruta circular de 179 km desde Killarney: Kenmare → Sneem → Waterville → Cahersiveen → Killorglin → Killarney', pernottamento: 'Killarney', statoPernottamento: 'da-confermare', intensita: 'intenso', destinazioneSlug: 'ring-of-kerry-dingle', immagine: `${FOTO}/giorno-06-ring-of-kerry.webp`, imageAlt: 'Los lagos de Killarney vistos desde Ladies View, en el Ring of Kerry' },
+    { titoloGiorno: 'Día 7 — Península de Dingle y Slea Head Drive', tratta: 'Killarney → Dingle → Slea Head Drive → Dingle', pernottamento: 'Dingle', statoPernottamento: 'da-confermare', intensita: 'medio', destinazioneSlug: 'ring-of-kerry-dingle', immagine: `${FOTO}/giorno-07-slea-head.webp`, imageAlt: 'La costa de la península de Dingle vista desde la Slea Head Drive' },
+    { titoloGiorno: 'Día 8 — Acantilados de Moher, el Burren y Galway', tratta: 'Dingle → acantilados de Moher → Burren → Galway', pernottamento: 'Galway, centro', statoPernottamento: 'da-confermare', intensita: 'intenso', costiNoti: 'Acantilados de Moher 15 € en taquilla, menos en línea fuera de las horas punta; aparcamiento incluido (2026)', destinazioneSlug: 'cliffs-of-moher-burren', immagine: `${FOTO}/giorno-08-burren-poulnabrone.webp`, imageAlt: 'El dolmen de Poulnabrone sobre la caliza del Burren' },
+    { titoloGiorno: 'Día 9 — Connemara y Kylemore Abbey', tratta: 'Galway → Connemara → Letterfrack → Kylemore Abbey → Galway', pernottamento: 'Galway, centro', statoPernottamento: 'da-confermare', intensita: 'medio', destinazioneSlug: 'connemara', immagine: `${FOTO}/giorno-09-kylemore.webp`, imageAlt: 'La Kylemore Abbey reflejada en el lago, en Connemara' },
+    { titoloGiorno: 'Día 10 — De Galway a Derry/Londonderry', tratta: 'Galway → frontera sin controles → Derry/Londonderry', pernottamento: 'Derry/Londonderry, dentro o cerca de las murallas', statoPernottamento: 'da-confermare', intensita: 'intenso', costiNoti: 'ETA británica 20 £ por persona, que hay que tener antes de cruzar la frontera', destinazioneSlug: 'derry-londonderry', immagine: `${FOTO}/giorno-10-mura-di-derry.webp`, imageAlt: 'El paseo sobre las murallas de Derry/Londonderry, con los cañones y la ciudad al fondo' },
+    { titoloGiorno: "Día 11 — Causeway Coastal Route: Giant's Causeway, Carrick-a-Rede y Dark Hedges", tratta: "Derry → Dunluce Castle → Giant's Causeway → Carrick-a-Rede → Dark Hedges → Belfast", pernottamento: 'Belfast, centro', statoPernottamento: 'da-confermare', intensita: 'intenso', costiNoti: "Giant's Causeway Visitor Experience 15 £ (rocas gratis); Carrick-a-Rede unos 14-15,50 £, a verificar (2026)", destinazioneSlug: 'causeway-coastal-route', immagine: `${FOTO}/giorno-11-dark-hedges.webp`, imageAlt: 'La avenida de hayas de las Dark Hedges en la Bregagh Road, en el condado de Antrim' },
+    { titoloGiorno: 'Día 12 — Belfast: murales, peace walls y Titanic, luego Dublín', tratta: 'Tour de los murales y los peace walls → Titanic Belfast → Dublín (devolución del coche y vuelo)', pernottamento: 'Vuelo de regreso, o una noche más en Belfast', statoPernottamento: 'consigliato', intensita: 'intenso', costiNoti: 'Titanic Belfast 24,95 £ (2026); tour de los murales según el operador', destinazioneSlug: 'belfast', immagine: `${FOTO}/giorno-12-peace-wall-belfast.webp`, imageAlt: 'El peace wall de Cupar Way en Belfast, cubierto de pintadas y dibujos, en una calle vacía' },
+  ],
+  budget: [
+    { etichetta: 'Vuelos a Dublín', valore: undefined },
+    { etichetta: 'Coche de alquiler y combustible', valore: undefined },
+    { etichetta: 'ETA para Irlanda del Norte', valore: '20 £ por persona, niños incluidos (gov.uk, 2026)' },
+    { etichetta: 'Entradas en la República', valore: 'Kilmainham Gaol 8 €, Glendalough 5 €, Kilkenny Castle 8 €, Roca de Cashel 8 €, acantilados de Moher 15 € en taquilla (2026)' },
+    { etichetta: 'Entradas en Irlanda del Norte', valore: "Giant's Causeway Visitor Experience 15 £, Titanic Belfast 24,95 £ (2026)" },
+    { etichetta: 'Alojamiento', valore: undefined },
+  ],
+}

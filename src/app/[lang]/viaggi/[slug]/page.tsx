@@ -1,3 +1,4 @@
+import { richNodes } from '@/components/ui/Rich'
 import type { Metadata } from 'next'
 import { Filigrana } from '@/components/Filigrana'
 import { SalvaBottone } from '@/components/SalvaBottone'
@@ -24,7 +25,7 @@ import { GiorniBarraMobile, type VoceGiorno } from '@/components/signature/Giorn
 import { IndiceViaggio } from '@/components/signature/IndiceViaggio'
 import { idGiorno, numeroGiorno, partiGiorno, tappeDeiGiorni } from '@/components/signature/giorni-ancore'
 import { AltreGuidePaese } from '@/components/AltreGuidePaese'
-import { areaDelPaese, paesiDelViaggio } from '@/lib/viaggi-filtri'
+import { areaDelPaese, conPaesiDelleDestinazioni, paesiDelViaggio } from '@/lib/viaggi-filtri'
 import { AREE } from '@/lib/aree'
 import { PageHeader } from '@/components/ui/PageHeader'
 import { creditiCopertine } from '@/content/viaggi-copertine-crediti'
@@ -282,7 +283,8 @@ export default async function ViaggioPage({ params }: { params: Promise<{ slug: 
       <SignatureViaggioContent
         lingua={lingua}
         viaggio={viaggio}
-        meta={meta}
+        // ogni tappa e giorno con il Paese della sua destinazione (viaggi multi-Paese)
+        meta={conPaesiDelleDestinazioni(meta)}
         copertina={copertina}
         video={getHeroVideo(viaggio.slug)}
         editorial={editorial}
@@ -425,7 +427,7 @@ function SignatureViaggioContent({
             />
             {viaggio.apertura && (
               <p className="font-display text-xl italic leading-relaxed text-alpine sm:text-2xl lg:text-3xl">
-                {viaggio.apertura}
+                {richNodes(viaggio.apertura)}
               </p>
             )}
 
@@ -553,7 +555,7 @@ function SignatureViaggioContent({
 
             {viaggio.chiusura && (
               <p className="border-t border-alpine/10 pt-10 font-display text-lg italic leading-relaxed text-stone sm:text-xl">
-                {viaggio.chiusura}
+                {richNodes(viaggio.chiusura)}
               </p>
             )}
 

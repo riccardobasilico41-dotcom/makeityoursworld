@@ -1133,7 +1133,7 @@ export const destinazioniMessico: Destinazione[] = [
     cosaVedere: [
       'The Pyramid of the Magician and the Nunnery Quadrangle at Uxmal',
       'The Codz Poop at Kabah, with its façade of masks',
-      'The three-storey palace at Sayil',
+      'The Great Palace at Sayil, on stacked terraces',
       'The Labná arch',
     ],
     cosaFare: [
@@ -1148,7 +1148,7 @@ export const destinazioniMessico: Destinazione[] = [
     comeArrivare: 'From Mérida on Federal Highway 261 towards Santa Elena, by car or on a tour.',
     comeSpostarsi: 'For the Puuc Route you need a car or a tour: the sites are along a country road.',
     periodoMigliore: 'November to April, the dry season; from April the heat at the shadeless sites is intense.',
-    costi: 'Uxmal 105 MXN INAH admission plus a 461 MXN CULTUR state fee for foreigners; Kabah 155 MXN; Labná 145 MXN (INAH pages, 2026).',
+    costi: 'Uxmal 105 MXN INAH admission plus a 461 MXN CULTUR state fee for foreigners; Kabah 155 MXN; Labná and Sayil 145 MXN each (INAH pages, November 2026).',
     erroriDaEvitare: [
       'Arriving at Uxmal in the afternoon: it closes at 4 pm, with last entry at 3 pm',
       'Bringing food to the site entrance: it is not allowed',
@@ -1168,7 +1168,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Kabah",
-          "testo": "The second-largest site in the area. The Codz Poop has a façade covered with hundreds of Chaac masks; across the road stands a lone arch, the start of a Maya causeway.",
+          "testo": "The Codz Poop has a façade covered with hundreds of Chaac masks, one of the finest examples of Maya art according to INAH. The site also has a lone arch.",
           "come": "By car, south of Uxmal on the Puuc Route.",
           "quando": "Open daily 8 am to 5 pm, last entry 4 pm (INAH page).",
           "tempo": "1 hour",
@@ -1177,14 +1177,16 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Sayil",
-          "testo": "A small site with a large three-storey palace, one of the most photographed Puuc buildings.",
+          "testo": "A Puuc site with the Great Palace, or North Palace, built on two terraces that give the impression of three storeys, with façades added in successive stages.",
           "come": "By car on the Puuc Route, between Kabah and Labná.",
+          "quando": "Open daily 8 am to 5 pm, last entry 4 pm (INAH page).",
           "tempo": "45 minutes",
-          "consiglio": "The INAH page doesn't list the price: check at the ticket office."
+          "costo": "145 MXN for foreigners (INAH page, November 2026).",
+          "url": "https://lugares.inah.gob.mx/en/node/4458"
         },
         {
           "nome": "Labná",
-          "testo": "Famous for its richly decorated arch, which linked two courtyards. The site is quiet and partly shaded.",
+          "testo": "Famous for its richly decorated arch, which linked two courtyards. Inhabited from 200 BC, it peaked between 800 and 1000 AD (INAH page). The site is quiet.",
           "come": "By car, at the end of the Puuc Route.",
           "quando": "Open daily 8 am to 5 pm, last entry 4 pm (INAH page).",
           "tempo": "1 hour",
@@ -1238,7 +1240,8 @@ export const destinazioniMessico: Destinazione[] = [
       ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-yucatan-completo', 'messico-beach-life'],
-    imageAlt: 'The oval Pyramid of the Magician at Uxmal seen from the esplanade',
+    imageAlt: "The two-headed jaguar throne in front of the Governor's Palace at Uxmal",
+    immagine: '/images/messico/uxmal-ruta-puuc-riccardo.webp',
   },
   {
     slug: 'palenque',
@@ -1251,7 +1254,7 @@ export const destinazioniMessico: Destinazione[] = [
     introduzione:
       'A Classic Maya city on the first hills of Chiapas, inside a forest-covered national park, with the Temple of the Inscriptions and the tomb of King Pakal.',
     percheAndarci:
-      'It is one of the most beautiful Maya sites for the combination of architecture and nature: temples among the trees, streams and howler monkeys. On the Tren Maya it is the terminus of the line coming from Campeche and Mérida.',
+      'It is one of the most beautiful Maya sites for the combination of architecture and nature: temples among the trees, streams and howler monkeys. It also has a Tren Maya station.',
     cosaVedere: [
       'The Temple of the Inscriptions and the Palace with its tower',
       'The Group of the Crosses',
@@ -1269,33 +1272,34 @@ export const destinazioniMessico: Destinazione[] = [
     comeArrivare: 'Tren Maya (Palenque station) or ADO bus; by car from Federal Highway 186, turning off at km 114 towards Palenque (INAH page).',
     comeSpostarsi: 'From town to the site, about 7 km inside the national park, by taxi or colectivo.',
     periodoMigliore: 'November to April, the driest season; the rest of the year it rains often and is very hot and humid.',
-    costi: '210 MXN INAH admission for foreigners, plus a 215 MXN national park fee (CONANP) (INAH page, 2026).',
+    costi: '210 MXN INAH admission for foreigners, plus a 215 MXN national park fee (CONANP) (INAH page, November 2026).',
     erroriDaEvitare: [
       'Driving yourself to the waterfalls on Federal Highway 199 without checking the advice: the UK Foreign Office advises against all but essential travel on that stretch',
       'Arriving at midday: intense heat and crowds',
-      'Looking for the site museum on a Monday: it is open Tuesday to Sunday',
+      'Looking for the site museum on a Monday: it is open Tuesday to Sunday (INAH page)',
     ],
       "luoghi": [
         {
           "nome": "Palenque archaeological zone",
-          "testo": "The Temple of the Inscriptions held the tomb of Pakal, king of Palenque in the 7th century; the Palace has a four-storey tower, rare in Maya architecture. Around them are the Group of the Crosses and smaller temples in the forest.",
-          "come": "Tickets at the visitor centre or online. You pay the INAH admission and the national park fee.",
+          "testo": "The Temple of the Inscriptions held the tomb of Pakal, king of Palenque in the 7th century; the Palace has a tower, rare in Maya architecture. Around them are the Group of the Crosses and smaller temples in the forest.",
+          "come": "Tickets at the visitor centre (CATVI) or online. You pay the INAH admission and the national park fee.",
           "quando": "Open daily 8 am to 5 pm, last entry 4 pm (INAH page). Best at opening time.",
           "tempo": "3-4 hours",
-          "costo": "210 MXN INAH plus 215 MXN CONANP for foreigners (2026).",
+          "costo": "210 MXN INAH plus 215 MXN CONANP for foreigners (INAH page, November 2026).",
           "url": "https://lugares.inah.gob.mx/en/node/4853",
           "consiglio": "No food at the entrance: eat before or after."
         },
         {
           "nome": "Alberto Ruz Lhuillier Site Museum",
-          "testo": "The site museum, with reliefs and objects found in the excavations, named after the archaeologist who discovered Pakal's tomb.",
-          "come": "Along the site road.",
-          "quando": "Tuesday to Sunday.",
-          "tempo": "1 hour"
+          "testo": "The site museum, with reliefs and objects found in the excavations, named after the archaeologist who discovered Pakal's tomb in 1952.",
+          "come": "Along the site road. Entry is included in the archaeological zone ticket.",
+          "quando": "Tuesday to Sunday, 8:30 am to 5 pm (INAH page).",
+          "tempo": "1 hour",
+          "url": "https://lugares.inah.gob.mx/en/node/4293"
         },
         {
           "nome": "Misol-Ha and Agua Azul",
-          "testo": "Two famous waterfalls south of Palenque: Misol-Ha is a single drop into a natural pool, Agua Azul a series of turquoise pools. Both are reached from Federal Highway 199.",
+          "testo": "Two famous waterfalls south of Palenque, on the road to Ocosingo, Federal Highway 199: Misol-Ha is a single drop into a wide pool, Agua Azul a series of blue pools, which lose their colour in the rainy season, about 60 km away plus a detour.",
           "come": "Only on a tour organised in town, and only if official advice allows it at the time.",
           "consiglio": "The UK Foreign Office advises against all but essential travel on Highway 199 between Rancho Nuevo and the Chancalá junction just outside Palenque, because of illegal roadblocks, protests and a risk of kidnapping. Entry fees are run by the local communities: not verified."
         }
@@ -1345,7 +1349,8 @@ export const destinazioniMessico: Destinazione[] = [
       ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-yucatan-completo'],
-    imageAlt: 'The Temple of the Inscriptions at Palenque among the trees of the Chiapas forest',
+    imageAlt: "The Temple of the Inscriptions at Palenque among the trees of the Chiapas forest",
+    immagine: '/images/messico/palenque.webp',
   },
   {
     slug: 'calakmul',
@@ -1358,7 +1363,7 @@ export const destinazioniMessico: Destinazione[] = [
     introduzione:
       'One of the great capitals of the Classic Maya world, rival of Tikal, buried in the forest of the Calakmul Biosphere Reserve in southern Campeche. It is a UNESCO World Heritage Site for both culture and nature.',
     percheAndarci:
-      'To see a vast Maya city with almost no crowds, and the forest from the top of the pyramids. Along the trails you often come across monkeys, ocellated turkeys and toucans.',
+      'To see a vast Maya city with almost no crowds, and the forest from the top of the pyramids. Along the trails you may come across monkeys and forest birds.',
     cosaVedere: [
       'The great structures of the city, with the view over the forest',
       'The stelae of the central plaza',
@@ -1376,10 +1381,10 @@ export const destinazioniMessico: Destinazione[] = [
     comeArrivare: 'From Federal Highway 186 (Escárcega-Chetumal): at the km 95 junction you take the reserve road, and the site is at km 60 (INAH page). The Tren Maya has stations at Xpujil and Calakmul, but there doesn\'t appear to be public transport to the ruins.',
     comeSpostarsi: 'By car or on a tour from Xpujil.',
     periodoMigliore: 'November to April, the dry season; in the rainy season the forest is more humid and full of mosquitoes.',
-    costi: '210 MXN INAH admission for foreigners, plus a 215 MXN reserve fee (CONANP) (INAH page, 2026). Bring cash.',
+    costi: '210 MXN INAH admission for foreigners, plus a 215 MXN reserve fee (CONANP) (INAH page, November 2026). Bring cash.',
     erroriDaEvitare: [
       'Leaving late: last entry is at 4 pm and the reserve road is long and narrow',
-      'Leaving the marked trails: INAH forbids it',
+      'Leaving the marked trails',
       'Entering the reserve without fuel, water and cash',
       'Driving on Federal Highway 186 in the evening',
     ],
@@ -1390,7 +1395,7 @@ export const destinazioniMessico: Destinazione[] = [
           "come": "From the km 95 junction on Federal Highway 186, 60 km of road inside the reserve. You pay the INAH admission and the CONANP reserve fee.",
           "quando": "Open daily 8 am to 5 pm, last entry 4 pm (INAH page). Leave at dawn.",
           "tempo": "Full day",
-          "costo": "210 MXN INAH plus 215 MXN CONANP for foreigners (2026).",
+          "costo": "210 MXN INAH plus 215 MXN CONANP for foreigners (INAH page, November 2026).",
           "url": "https://lugares.inah.gob.mx/en/node/5551",
           "consiglio": "Closed shoes, repellent, water and food for the whole day."
         },
@@ -1444,12 +1449,13 @@ export const destinazioniMessico: Destinazione[] = [
         }
       ],
       "attenzioni": [
-        "Stay on the marked trails: off-route walks are forbidden.",
+        "Stay on the marked trails.",
         "No smoking at the site and an extra fee for professional video cameras.",
         "Viaggiare Sicuri reports chikungunya in Campeche: strong repellent."
       ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-yucatan-completo'],
-    imageAlt: 'The forest of the Calakmul Biosphere Reserve seen from the top of a Maya pyramid',
+    imageAlt: "Calakmul's Structure I rising from the reserve's forest, seen from the top of Structure II",
+    immagine: '/images/messico/calakmul.webp',
   },
 ]

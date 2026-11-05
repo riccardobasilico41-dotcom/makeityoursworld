@@ -1,4 +1,4 @@
-# Peru in 14 Days: Lima, Arequipa, Lake Titicaca, Cusco and Machu Picchu
+# Peru in Two Weeks: Lima, Arequipa, Lake Titicaca, Cusco and Machu Picchu
 
 **Stato bozza:** 🟡 work in progress (two-week version of the long trip through Peru: routes, times, costs and warnings come from there and need to be rechecked before you go)
 **Periodo del viaggio:** designed for May to September, the Andean dry season. Rick has been to Peru three times, in 2018, 2021 and 2024

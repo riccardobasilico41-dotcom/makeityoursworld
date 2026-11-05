@@ -1,4 +1,4 @@
-# Northern Thailand in 13 Days: Chiang Mai, Pai, Chiang Rai and the Golden Triangle
+# Northern Thailand in Two Weeks: Chiang Mai, Pai, Chiang Rai and the Golden Triangle
 
 **Stato bozza:** 🟡 work in progress (guide checked in November 2026 against official sources and Seat61 for the train; Rick has seen Chiang Mai and Elephant Nature Park, not Pai, Chiang Rai or the Golden Triangle; times, prices and rules need rechecking before you go; photos missing)
 **Periodo del viaggio:** designed for November to February, the cool, dry season in the north

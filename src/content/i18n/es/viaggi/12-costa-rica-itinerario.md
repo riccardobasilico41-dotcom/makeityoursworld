@@ -1,4 +1,4 @@
-# Costa Rica en 13 días: del Caribe al Pacífico, entre perezosos, volcanes y ballenas
+# Costa Rica en dos semanas: del Caribe al Pacífico, entre perezosos, volcanes y ballenas
 
 **Stato bozza:** 🟡 en elaboración (notas de Rick del 5/11/2026 añadidas: confirmados Cahuita, caballo, canyoning, tirolina, ballenas y surf)
 **Periodo del viaggio:** mediados-finales de noviembre, del 16 al 28 de noviembre aproximadamente

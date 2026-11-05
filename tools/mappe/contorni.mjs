@@ -1,7 +1,7 @@
 // Contorni SVG dei Paesi per la mappa «Dove sono le cose»: un file per Paese in
 // src/content/mappe/<paese>.json = { viewBox, w, h, path, proiezione }.
 //
-//   node tools/mappe/contorni.mjs --atlanti <dir con countries-10m.json e states-10m.json>
+//   node tools/mappe/contorni.mjs --atlanti <dir con countries-10m.json e states-10m.json> [--solo paese,paese]
 //
 // Fonti: world-atlas@2.0.2 countries-10m (Natural Earth 1:10m) e us-atlas@3.0.1 states-10m,
 // entrambe di pubblico dominio. Va lanciato DOPO geocodifica.mjs: le isole piccole vengono
@@ -20,6 +20,10 @@ if (!ATLANTI) {
   console.error('Uso: node tools/mappe/contorni.mjs --atlanti <dir>')
   process.exit(1)
 }
+
+// --solo a,b,c = rigenera solo questi Paesi (senza, tutti quelli di config.mjs)
+const j = process.argv.indexOf('--solo')
+const SOLO = j > 0 ? new Set(process.argv[j + 1].split(',')) : null
 
 const W = 1000, PAD = 36, H_MIN = 520, H_MAX = 1250, MAX_BYTES = 56_000
 // Il confine riconosciuto Marocco / Sahara Occidentale è il parallelo 27°40' N.
@@ -92,6 +96,7 @@ fs.mkdirSync(outDir, { recursive: true })
 console.log('Paese                  poligoni  byte   tolleranza px')
 
 for (const [slug, cfg] of Object.entries(MAPPE)) {
+  if (SOLO && !SOLO.has(slug)) continue
   if (cfg.citta) continue // mappa di città con il suo script (es. tools/mappe/new-york.mjs)
   let { polys } = geometriaPaese(cfg, atlanti)
   if (TAGLIO_SUD[slug]) {

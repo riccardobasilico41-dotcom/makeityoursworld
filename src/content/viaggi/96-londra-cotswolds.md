@@ -55,7 +55,7 @@ Le **Roman Baths** vanno viste all'apertura, con il biglietto prenotato online. 
 ## Come cambia con più o meno giorni
 - **6 giorni:** tre a Londra, uno a Oxford e due nelle Cotswolds. Bath resta fuori, e si torna a Londra in treno da Moreton-in-Marsh.
 - **Senza auto:** treno fino a Moreton-in-Marsh, una notte lì e un tour organizzato dei villaggi. Bath in treno da Londra, in giornata o con una notte.
-- **Con la Scozia:** da Londra a Edimburgo in treno o in aereo, poi l'itinerario *Scozia in auto: Edimburgo, Highlands e distillerie*.
+- **Con la Scozia:** da Londra a Edimburgo in treno o in aereo, poi l'itinerario [*Scozia in auto: Edimburgo, Highlands e distillerie*](/viaggi/scozia-highlands-distillerie).
 
 ## Cosa vedere / cosa fare
 - **Londra:** Westminster, il British Museum, la Torre e Tower Bridge, il South Bank con la Tate Modern, Notting Hill, Hyde Park e South Kensington.

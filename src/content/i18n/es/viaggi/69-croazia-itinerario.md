@@ -1,4 +1,4 @@
-# Croacia en 14 días: de Zagreb a Dubrovnik entre lagos, ciudades romanas e islas
+# Croacia en dos semanas: de Zagreb a Dubrovnik entre lagos, ciudades romanas e islas
 
 **Stato bozza:** 🟡 en elaboración
 **Periodo del viaggio:** finales de mayo-junio o septiembre, con el mar ya cálido, ferris frecuentes y menos gente que en julio-agosto

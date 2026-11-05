@@ -3,9 +3,13 @@
 //
 // fonte: 'world' = world-atlas@2.0.2 countries-50m (Natural Earth 1:50m, pubblico dominio)
 //        'us'    = us-atlas@3.0.1 states-10m (US Census / Natural Earth, pubblico dominio)
+//        'mapunits' = Natural Earth ne_50m_admin_0_map_units (pubblico dominio): le nazioni del Regno Unito
+//                 separate (in countries-50m la Gran Bretagna è un poligono solo). Il file
+//                 ne_50m_admin_0_map_units.geojson va messo nella cartella --atlanti (contorni) e --dati (atlante).
 // nomi:  feature da unire (properties.name nel topojson)
 // clip:  [lngMin, latMin, lngMax, latMax] — tiene solo i poligoni con il centro dentro
 //        (es. Francia metropolitana, Malesia peninsulare, isola del Borneo)
+// globo: false = non dare il suo slug al Paese sul globo di mondo.mjs (regioni ritagliate da uno Stato)
 // cc:    countrycodes per Nominatim
 // isole: 'tutte' = non scartare le isole piccole (arcipelaghi dove le isole SONO il Paese)
 
@@ -36,6 +40,10 @@ export const MAPPE = {
   giordania: { fonte: 'world', nomi: ['Jordan'], cc: 'jo' },
   guatemala: { fonte: 'world', nomi: ['Guatemala'], cc: 'gt' },
   india: { fonte: 'world', nomi: ['India'], cc: 'in' },
+  inghilterra: { fonte: 'mapunits', nomi: ['England'], cc: 'gb' },
+  irlanda: { fonte: 'world', nomi: ['Ireland'], cc: 'ie' },
+  // regione del Regno Unito: in world-atlas è dentro la feature del Regno Unito, si ritaglia l'isola d'Irlanda
+  'irlanda-del-nord': { fonte: 'world', nomi: ['United Kingdom'], clip: [-8.3, 53.9, -5.3, 55.4], cc: 'gb', globo: false },
   indonesia: { fonte: 'world', nomi: ['Indonesia'], cc: 'id', isole: 'tutte' },
   islanda: { fonte: 'world', nomi: ['Iceland'], cc: 'is' },
   italia: { fonte: 'world', nomi: ['Italy'], cc: 'it', isole: 'tutte' },
@@ -56,6 +64,8 @@ export const MAPPE = {
   portogallo: { fonte: 'world', nomi: ['Portugal'], clip: [-10, 36.8, -6, 42.3], cc: 'pt' },
   qatar: { fonte: 'world', nomi: ['Qatar'], cc: 'qa' },
   'repubblica-ceca': { fonte: 'world', nomi: ['Czechia'], cc: 'cz' },
+  // con le isole: Skye, Mull e le Ebridi fanno parte del viaggio
+  scozia: { fonte: 'mapunits', nomi: ['Scotland'], cc: 'gb', isole: 'tutte' },
   singapore: { fonte: 'world', nomi: ['Singapore'], cc: 'sg', isole: 'tutte' },
   spagna: { fonte: 'world', nomi: ['Spain'], clip: [-18.5, 27.5, 4.5, 44], cc: 'es', isole: 'tutte' },
   'sri-lanka': { fonte: 'world', nomi: ['Sri Lanka'], cc: 'lk' },

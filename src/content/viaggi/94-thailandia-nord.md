@@ -1,4 +1,4 @@
-# Thailandia del nord in 13 giorni: Chiang Mai, Pai, Chiang Rai e il Triangolo d'oro
+# Thailandia del nord in due settimane: Chiang Mai, Pai, Chiang Rai e il Triangolo d'oro
 
 **Stato bozza:** 🟡 in lavorazione (guida verificata a novembre 2026 su fonti ufficiali e su Seat61 per il treno; Rick ha visto Chiang Mai e l'Elephant Nature Park, non Pai, Chiang Rai e il Triangolo d'oro; orari, prezzi e regole vanno ricontrollati prima di partire; mancano le foto)
 **Periodo del viaggio:** pensato per novembre-febbraio, la stagione fresca e secca del nord

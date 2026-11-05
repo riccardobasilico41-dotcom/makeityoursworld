@@ -1,4 +1,4 @@
-# Saudi Arabia in 12 Days: Jeddah, Hegra, Riyadh and the Asir Mountains
+# Saudi Arabia in Two Weeks: Jeddah, Hegra, Riyadh and the Asir Mountains
 
 **Stato bozza:** 🟡 in progress (itinerary and practical information verified and up to date)
 **Periodo del viaggio:** November to March, except for the Asir, where the good season is summer

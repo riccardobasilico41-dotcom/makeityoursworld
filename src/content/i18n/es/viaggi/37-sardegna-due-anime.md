@@ -1,4 +1,4 @@
-# Cerdeña, las dos almas: 14 días de la Costa Esmeralda al Sulcis
+# Cerdeña, las dos almas: dos semanas de la Costa Esmeralda al Sulcis
 
 **Stato bozza:** 🟡 en preparación
 **Periodo del viaggio:** **finales de mayo-junio o septiembre**

@@ -167,9 +167,9 @@ export const destinazioniInghilterra: Destinazione[] = [
     luoghi: [
       {
         nome: 'Bibury e Arlington Row',
-        testo: 'Una fila di cottage di pietra del Trecento, nati come magazzino della lana e poi trasformati in case dei tessitori. È la cartolina più famosa delle Cotswolds.',
-        come: 'In auto, con parcheggio limitato nel villaggio. Le case sono abitate.',
-        quando: 'Prima delle 9 o dopo le 17.',
+        testo: 'Una fila di cottage di pietra nati nel 1380 come magazzino della lana di un monastero e trasformati a fine Seicento in case dei tessitori. È una delle immagini più note delle Cotswolds.',
+        come: 'In auto, con parcheggio limitato nel villaggio.',
+        quando: 'La mattina presto o nel tardo pomeriggio.',
         tempo: '1 ora',
       },
       {
@@ -194,8 +194,8 @@ export const destinazioniInghilterra: Destinazione[] = [
       },
       {
         nome: 'Chipping Campden e Broadway',
-        testo: 'Le Cotswolds del nord. Chipping Campden ha una delle strade principali più belle della zona, con il vecchio mercato coperto. Broadway è più grande, con la torre in cima alla collina.',
-        come: 'In auto, una mezz\'ora a nord di Stow.',
+        testo: 'Le Cotswolds del nord. Chipping Campden ha una strada principale di case di pietra, con il vecchio mercato coperto. Broadway è più grande, con la torre in cima alla collina.',
+        come: 'In auto, a nord di Stow.',
         tempo: 'mezza giornata',
       },
       {
@@ -220,7 +220,7 @@ export const destinazioniInghilterra: Destinazione[] = [
     ],
     attenzioni: [
       'Strade di campagna strette, con siepi alte e poca visibilità: si guida a sinistra e piano.',
-      'Le case di Arlington Row sono abitate: niente porte e giardini nelle foto da vicino.',
+      'Ad Arlington Row si fotografa dalla strada, senza entrare nei giardini.',
     ],
     // GUIDA-END
     esperienzeSlugs: [],

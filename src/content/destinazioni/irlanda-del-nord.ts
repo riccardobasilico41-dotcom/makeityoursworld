@@ -38,9 +38,9 @@ export const destinazioniIrlandaDelNord: Destinazione[] = [
       {
         nome: 'Murales e peace walls',
         testo:
-          'I peace walls, i «muri della pace», nascono nel 1969 come barriere provvisorie tra quartieri in prevalenza cattolici e nazionalisti e quartieri in prevalenza protestanti e unionisti. Sono diventati permanenti. Nel 2013 il governo dell\'Irlanda del Nord si era dato l\'obiettivo di toglierli tutti entro il 2023, con il consenso degli abitanti: il termine è passato e molti sono ancora in piedi. Il più visitato è quello di Cupar Way, tra Falls Road e Shankill Road, dove i visitatori lasciano scritte. Sulle due strade ci sono i murales delle due comunità, quelli repubblicani da una parte e quelli lealisti dall\'altra.',
+          'I peace walls, i «muri della pace», nascono nel 1969 come barriere provvisorie tra quartieri in prevalenza cattolici e nazionalisti e quartieri in prevalenza protestanti e unionisti. Sono diventati permanenti. Nel 2013 il governo dell\'Irlanda del Nord si era dato l\'obiettivo di toglierli tutti entro il 2023, con il consenso degli abitanti: il termine è passato e molti sono ancora in piedi. Uno dei più noti è quello di Cupar Way, tra Falls Road e Shankill Road. Sulle due strade ci sono i murales delle due comunità, quelli repubblicani da una parte e quelli lealisti dall\'altra.',
         come:
-          'Con una guida. Discover Northern Ireland e Visit Belfast elencano tour in black taxi guidati da persone cresciute in città, tour a piedi e anche tour con guide delle due comunità, che raccontano a turno la propria versione. Alcuni tour a piedi in West Belfast sono guidati da ex prigionieri politici.',
+          'Con una guida. Discover Northern Ireland elenca tour in black taxi guidati da persone cresciute in città e tour a piedi. Alcuni tour a piedi in West Belfast sono guidati da ex prigionieri politici.',
         quando: 'Di giorno.',
         tempo: '1,5-2 ore',
         costo: 'secondo l\'operatore',
@@ -59,14 +59,14 @@ export const destinazioniIrlandaDelNord: Destinazione[] = [
       },
       {
         nome: 'Belfast City Hall',
-        testo: 'Il municipio inaugurato il 1° agosto 1906, nel centro della città. Dentro, quattro sale raccontano le divisioni religiose e politiche di Belfast, e una sala raccoglie le testimonianze di chi ha vissuto i Troubles. Nei giardini c\'è il memoriale del Titanic, del 1920.',
+        testo: 'Il municipio inaugurato il 1° agosto 1906, nel centro della città. Dentro c\'è un\'esposizione permanente, aperta nel 2017, e si fanno visite guidate che entrano anche nelle sale di solito chiuse. Nei giardini c\'è il memoriale del Titanic, dedicato nel 1920.',
         come: 'In centro, Donegall Square.',
         tempo: '1 ora',
         costo: 'visite guidate su prenotazione',
       },
       {
         nome: 'Crumlin Road Gaol',
-        testo: 'Un carcere vittoriano con più di 150 anni di storia. La visita guidata racconta la vita quotidiana di detenuti e guardie.',
+        testo: 'Un carcere vittoriano aperto nel 1846 e rimasto in funzione per 150 anni, fino al 1996. La visita guidata racconta la vita quotidiana di detenuti e guardie.',
         come: 'A nord del centro, in taxi o a piedi.',
         tempo: '1,5 ore',
         costo: 'prezzo sul sito ufficiale',
@@ -106,11 +106,11 @@ export const destinazioniIrlandaDelNord: Destinazione[] = [
     luoghi: [
       {
         nome: 'Giant\'s Causeway',
-        testo: 'Più di 40.000 colonne di basalto, in gran parte esagonali, formate circa 60 milioni di anni fa. È il primo sito UNESCO dell\'Irlanda del Nord ed è gestito dal National Trust.',
-        come: 'Agli scogli si arriva a piedi gratis. Il parcheggio vicino al centro visitatori è riservato a chi ha il biglietto della Visitor Experience o è socio, e conviene prenotarlo.',
-        quando: 'La mattina presto o in tarda giornata. Il centro visitatori in inverno apre dalle 10 alle 16; la costa è accessibile dall\'alba al tramonto.',
+        testo: 'Circa 40.000 colonne di basalto, in gran parte esagonali, formate tra 50 e 60 milioni di anni fa. È patrimonio UNESCO dal 1986 e in gran parte lo gestisce il National Trust.',
+        come: 'Agli scogli si arriva a piedi gratis. Non serve passare dal centro visitatori, che è a pagamento. Regole del parcheggio e biglietti sul sito del National Trust.',
+        quando: 'La mattina presto o in tarda giornata. Orari del centro visitatori sul sito del National Trust.',
         tempo: '2 ore',
-        costo: 'scogli gratis; Visitor Experience 15 £ adulti (2026)',
+        costo: 'scogli gratis; Visitor Experience a pagamento, prezzo sul sito del National Trust',
         url: 'https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway',
       },
       {
@@ -119,15 +119,14 @@ export const destinazioniIrlandaDelNord: Destinazione[] = [
         come: 'In auto, sulla strada costiera.',
         tempo: '45 minuti-1 ora',
         costo: 'prezzo sul sito ufficiale',
-        consiglio: 'La vista migliore è dal belvedere di Magheracross, poco a ovest.',
       },
       {
         nome: 'Carrick-a-Rede',
         testo: 'Un ponte di corda lungo 20 metri e sospeso a 30 metri sopra gli scogli, che porta a un isolotto. Secondo il National Trust i pescatori di salmone costruiscono ponti verso l\'isola da più di 350 anni.',
         come: 'In auto fino al parcheggio del National Trust, poi a piedi lungo la scogliera.',
-        quando: 'Aperto tutto l\'anno, ma chiude col vento forte.',
+        quando: 'Aperto tutto l\'anno, se il tempo lo permette.',
         tempo: '1-1,5 ore',
-        costo: 'circa 14-15,50 £ adulti; da verificare sul sito del National Trust',
+        costo: 'a pagamento, prezzo sul sito del National Trust',
       },
       {
         nome: 'Dark Hedges',
@@ -170,7 +169,7 @@ export const destinazioniIrlandaDelNord: Destinazione[] = [
       },
       {
         nome: 'Le mura',
-        testo: 'Costruite tra il 1613 e il 1619, girano tutte attorno al centro vecchio e si percorrono a piedi, tra cannoni e porte. Dall\'alto si vede il Bogside. Il Siege Museum racconta i 400 anni delle mura, l\'assedio del 1689 e gli Apprentice Boys.',
+        testo: 'Costruite tra il 1613 e il 1619, girano tutte attorno al centro vecchio e si percorrono a piedi, tra cannoni e porte. Dall\'alto si vede il Bogside.',
         come: 'A piedi, accessi da più porte del centro.',
         tempo: '1-1,5 ore',
         costo: 'gratis',
@@ -178,10 +177,10 @@ export const destinazioniIrlandaDelNord: Destinazione[] = [
       {
         nome: 'Bogside e Museum of Free Derry',
         testo:
-          'Il quartiere nazionalista sotto le mura. Il 30 gennaio 1972, durante una marcia per i diritti civili, i paracadutisti britannici spararono e uccisero 13 civili disarmati; un altro uomo morì più tardi per le ferite. Un primo rapporto, quello Widgery del 1972, accettò in gran parte la versione dei soldati. L\'inchiesta Saville, pubblicata il 15 giugno 2010, concluse che nessuna delle persone colpite era una minaccia, e il primo ministro David Cameron chiese scusa a nome del governo britannico, definendo i fatti «ingiustificati e ingiustificabili». Il Museum of Free Derry, fondato dal Bloody Sunday Trust, ha un archivio di 25.000 pezzi; il Peacemakers Museum racconta il periodo dal 1972 al 2007 e la strada verso l\'Accordo del 1998.',
+          'Il quartiere nazionalista sotto le mura. Il 30 gennaio 1972, durante una marcia per i diritti civili, i paracadutisti britannici spararono e uccisero 13 civili disarmati; un altro uomo morì più tardi per le ferite. Un primo rapporto, quello Widgery del 1972, accettò in gran parte la versione dei soldati. L\'inchiesta Saville, pubblicata il 15 giugno 2010, concluse che nessuna delle persone colpite era una minaccia, e il primo ministro David Cameron chiese scusa a nome del governo britannico, definendo i fatti «ingiustificati e ingiustificabili». Il Museum of Free Derry, del Bloody Sunday Trust, racconta il movimento per i diritti civili, Free Derry e il Bloody Sunday.',
         come: 'A piedi dalle mura. Ci sono tour guidati del Bogside e dei murales.',
         tempo: '2 ore',
-        costo: 'secondo il museo',
+        costo: 'Museum of Free Derry 10 £ adulti, sconto online (2026)',
       },
       {
         nome: 'Peace Bridge',

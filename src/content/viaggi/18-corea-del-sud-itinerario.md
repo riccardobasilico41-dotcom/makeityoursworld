@@ -1,4 +1,4 @@
-# Corea del Sud in 14 giorni: dalla DMZ alle haenyeo di Jeju
+# Corea del Sud in due settimane: dalla DMZ alle haenyeo di Jeju
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche completi e verificati; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare — mancano date esatte, nomi degli alloggi e prezzi effettivamente pagati)
 **Periodo del viaggio:** primavera o autunno [anno da confermare] — aprile per i ciliegi, ottobre-inizio novembre per il foliage

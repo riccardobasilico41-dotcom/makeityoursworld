@@ -1,4 +1,4 @@
-# Giava, Bali e Gili in 14 giorni: templi, vulcani, risaie e isole senza motori
+# Giava, Bali e Gili in due settimane: templi, vulcani, risaie e isole senza motori
 
 **Stato bozza:** 🟡 in lavorazione (tappe fatte da Rick nel viaggio lungo in Indonesia; tratte, tempi e costi ripresi dall'itinerario di 35 giorni, da riverificare prima di partire)
 **Periodo del viaggio:** pensato per maggio-settembre, la stagione secca, quando all'alba del Bromo il cielo è più limpido. Aprile e ottobre vanno ancora bene per Bali e le Gili

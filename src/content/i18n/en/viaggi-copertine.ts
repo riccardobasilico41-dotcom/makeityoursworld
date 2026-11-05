@@ -333,4 +333,52 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     immagine: '/images/viaggi/sumatra-mentawai/copertina-siberut-costa.webp',
     imageAlt: 'The green coast of Siberut from the drone: the beach, a wooden jetty and the clear water of the Mentawai sea',
   },
+  'londra-cotswolds': {
+    immagine: '/images/copertine/londra-cotswolds.webp',
+    imageAlt: "Arlington Row in Bibury: honey-coloured stone cottages along the path, in the Cotswolds",
+  },
+  'scozia-highlands-distillerie': {
+    immagine: '/images/copertine/scozia-highlands-distillerie.webp',
+    imageAlt: "The Jacobite steam train on the Glenfinnan Viaduct, among the autumn hills of the Highlands",
+  },
+  'irlanda-due-irlande': {
+    immagine: '/images/copertine/irlanda-due-irlande.webp',
+    imageAlt: "The Carrick-a-Rede rope bridge and its island on the Antrim coast, Northern Ireland",
+  },
+  'bali-nusa-komodo': {
+    immagine: '/images/viaggi/bali-nusa-komodo/copertina-padar.webp',
+    imageAlt: "Padar's three bays from the southern viewpoint, with bare hills and the sea of Komodo National Park",
+  },
+  'bali-sulawesi-raja-ampat': {
+    immagine: '/images/viaggi/bali-sulawesi-raja-ampat/copertina-piaynemo.webp',
+    imageAlt: "The karst islets of Piaynemo from the viewpoint, in Raja Ampat's turquoise sea",
+  },
+  'indonesia-isola-per-isola': {
+    immagine: '/images/viaggi/indonesia-isola-per-isola/copertina-gili-tramonto-riccardo.webp',
+    imageAlt: "A sand islet off Lombok backlit at sunset, with outrigger boats",
+  },
+  'marocco-citta-imperiali': {
+    immagine: '/images/viaggi/marocco-citta-imperiali/copertina-chefchaouen-tramonto.webp',
+    imageAlt: "Chefchaouen at sunset seen from the Spanish Mosque, with its white and blue houses below the Rif",
+  },
+  'classic-japan': {
+    immagine: '/images/viaggi/classic-japan/copertina-fushimi-inari-riccardo.webp',
+    imageAlt: "A stone fox with a red bib among the small votive torii of Fushimi Inari, Kyoto",
+  },
+  'okinawa-estate': {
+    immagine: '/images/viaggi/okinawa-estate/copertina-ama-beach-zamami.webp',
+    imageAlt: "Ama Beach on Zamami, with the clear water of the Kerama islands",
+  },
+  'hokkaido-sci-giappone': {
+    immagine: '/images/viaggi/hokkaido-sci-giappone/copertina-yotei-niseko.webp',
+    imageAlt: "A Niseko Village slope facing the snowy cone of Mount Yōtei",
+  },
+  'thailandia-nord': {
+    immagine: '/images/viaggi/thailandia-nord/copertina-pai-canyon.webp',
+    imageAlt: "The sandstone ridges of Pai Canyon at sunset, northern Thailand",
+  },
+  'messico-yucatan-completo': {
+    immagine: '/images/viaggi/messico-yucatan-completo/copertina-uxmal-indovino-riccardo.webp',
+    imageAlt: "The very steep stairway of the Pyramid of the Magician at Uxmal, against the sky",
+  },
 }

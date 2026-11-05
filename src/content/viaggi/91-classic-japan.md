@@ -18,7 +18,7 @@ Sul sito c'è già un altro viaggio in Giappone, [i 12 giorni di aprile tra saku
 - **Documenti:** per i cittadini italiani nessun visto per turismo fino a 90 giorni, con passaporto valido per tutto il soggiorno.
 - **Moneta:** yen. Le carte vanno quasi ovunque nelle città; nei paesi di montagna, nei rifugi di Kamikochi e in alcuni shukubō servono contanti.
 - **JR Pass:** nel 2026 il pass ordinario da 14 giorni costa 80.000 yen comprato online (84.000 da un'agenzia all'estero), quello da 7 giorni 50.000. Copre Shinkansen Hikari e Kodama, Hokuriku Shinkansen, i limited express Hida e Thunderbird. I Nozomi richiedono un biglietto speciale a parte (4.960 yen tra Tokyo e Kyoto). Non copre i bus per Magome, Kamikochi e Shirakawa-go, le linee Odakyu per Hakone e la Nankai per Kōya-san: conviene fare il conto delle tratte prima di comprarlo.
-- **Bus da prenotare:** alcune corse del bus Nohi tra Takayama, Shirakawa-go e Kanazawa sono solo su prenotazione. Anche i bus per Kamikochi da Matsumoto si prenotano. Meglio farlo appena si hanno le date.
+- **Bus da prenotare:** alcune corse del bus Nohi tra Takayama, Shirakawa-go e Kanazawa sono solo su prenotazione. Il bus diretto Matsumoto-Takayama è solo su prenotazione; orari e regole dei bus per Kamikochi sono sui siti degli operatori. Meglio controllare appena si hanno le date.
 - **Bagagli:** il trolley sul Nakasendō e a Kamikochi è un problema. Tra Magome e Tsumago c'è il servizio bagagli degli uffici turistici, per il resto si usa il takkyubin, la spedizione da hotel a hotel, da organizzare il giorno prima.
 - **Dormire:** almeno una notte in ryokan con onsen (Hakone), una in un paese del Nakasendō, una in shukubō a Kōya-san. Le case gasshō di Shirakawa-go con alloggio sono poche e vanno prenotate con largo anticipo.
 
@@ -37,7 +37,7 @@ Da Shinjuku si va a Hakone con la linea Odakyu, o in Shinkansen fino a Odawara. 
 Da Odawara lo Shinkansen porta a Nagoya, poi il limited express Shinano fino a Nakatsugawa e il bus fino a **Magome**. Qui si attiva il JR Pass, se lo si è scelto. Magome è un paese di posta dell'epoca Edo, costruito in salita lungo la vecchia strada che univa Kyoto e Edo passando per le montagne. Si arriva nel pomeriggio, quando i gruppi in gita giornaliera se ne vanno. Si dorme in un minshuku del paese o a Tsumago.
 
 ### Giorno 5 — A piedi da Magome a Tsumago, poi Matsumoto
-Il tratto più famoso del Nakasendō: circa 8 km, 2-3 ore di cammino tra boschi, cascate e una casa da tè a metà strada, con il passo di Magome a circa 790 metri. Da fine marzo a fine novembre gli uffici turistici dei due paesi spediscono i bagagli: si lasciano tra le 8.30 e le 11.30 e si ritirano all'arrivo dopo le 13, a 1.000 yen a collo. **Tsumago** è il paese meglio conservato, senza fili elettrici in vista. Dalla stazione di Nagiso il treno porta a **Matsumoto** in circa un'ora e mezza. Se si arriva in tempo, il castello si vede già oggi.
+Il tratto più famoso del Nakasendō: circa 8 km, 2-3 ore di cammino tra boschi, cascate e una casa da tè a metà strada, con il passo di Magome a circa 790 metri. Da fine marzo a fine novembre gli uffici turistici dei due paesi spediscono i bagagli: si lasciano tra le 8.30 e le 11.30 e si ritirano all'arrivo dopo le 13, a 1.000 yen a collo. **Tsumago** è il paese che gli abitanti hanno restaurato e tutelato dal 1968. Dalla stazione di Nagiso il treno della linea Chuo porta a **Matsumoto**. Se si arriva in tempo, il castello si vede già oggi.
 
 ### Giorno 6 — Kamikochi e la strada per Takayama
 **Kamikochi** è una valle a circa 1.500 metri dentro il parco nazionale Chubu Sangaku, chiusa alle auto private: si arriva solo in bus o taxi dai parcheggi di Sawando e Hirayu. La passeggiata base va dallo stagno di Taisho al ponte Kappa, piatta, tra il fiume Azusa e le cime dell'Hotaka. Chi ha gambe prosegue fino a Myojin. Nel pomeriggio il bus scende verso Hirayu Onsen e da lì a **Takayama**. I bagagli conviene spedirli direttamente a Takayama il giorno prima. *Fuori stagione, da metà novembre a metà aprile, Kamikochi è chiuso: si prende il bus diretto Matsumoto-Takayama e si guadagna mezza giornata per il castello di Matsumoto.*
@@ -46,31 +46,31 @@ Il tratto più famoso del Nakasendō: circa 8 km, 2-3 ore di cammino tra boschi,
 Si comincia presto con i **mercati del mattino**, lungo il fiume Miyagawa e davanti al Takayama Jinya, l'antica sede del governo locale. Poi **Sanmachi Suji**, le vie di case di legno scuro con le botteghe di sake, riconoscibili dalle sfere di cedro appese all'ingresso. Nel pomeriggio il Hida Folk Village, un museo all'aperto di case di montagna, utile anche a chi poi non dorme a Shirakawa-go. A cena il manzo di Hida, in versione bistecca o in spiedini da strada.
 
 ### Giorno 8 — Shirakawa-go e Kanazawa
-Il bus Nohi porta da Takayama a **Shirakawa-go** in circa un'ora (2.800 yen fino al 30 novembre 2026, 2.900 dal 1° dicembre). Diverse corse vanno prenotate. Il villaggio di Ogimachi è Patrimonio UNESCO dal 1995 per le case gasshō-zukuri, con i tetti di paglia ripidi a mani giunte. Il belvedere di Shiroyama dà la vista d'insieme. Ci si cammina dentro con discrezione: sono case abitate, molte non si visitano. Nel pomeriggio un altro bus prosegue per **Kanazawa**. Chi ha prenotato in tempo dorme in una casa gasshō e prosegue domani.
+Il bus Nohi porta da Takayama a **Shirakawa-go** e prosegue fino a Kanazawa: poco più di due ore per l'intera tratta. Alcune corse sono solo su prenotazione; prezzi e orari sul sito Nohi. Il villaggio di Ogimachi è Patrimonio UNESCO dal 1995 per le case gasshō-zukuri, con i tetti di paglia ripidi a mani giunte. Il belvedere di Shiroyama dà la vista d'insieme. Ci si cammina dentro con discrezione: sono case abitate, molte non si visitano. Nel pomeriggio un altro bus prosegue per **Kanazawa**. Chi ha prenotato in tempo dorme in una casa gasshō e prosegue domani.
 
 ### Giorno 9 — Kanazawa
 Kanazawa è stata risparmiata dai bombardamenti della guerra e ha tenuto molto della città dei samurai e dei mercanti. Il **Kenroku-en**, uno dei giardini più celebri del Giappone, va visto all'apertura. Poi il castello, il quartiere delle case da tè di **Higashi Chaya**, il quartiere samurai di Nagamachi e il **21st Century Museum** di arte contemporanea. A pranzo il mercato di **Omicho**, per il pesce del Mar del Giappone.
 
 ### Giorno 10 — Da Kanazawa a Kyoto
-Hokuriku Shinkansen fino a Tsuruga e limited express Thunderbird fino a Kyoto: circa due ore, con un cambio, tutto coperto dal JR Pass. Arrivo per pranzo. Il pomeriggio è per Higashiyama, a piedi da Kiyomizu-dera verso Gion. Kyoto ha bisogno di più giorni di quanti questo viaggio gliene dia: qui ci sono i due che servono a vederne il centro, il resto è nel viaggio dei sakura.
+Hokuriku Shinkansen fino a Tsuruga e limited express Thunderbird fino a Kyoto, con un cambio a Tsuruga, tutto coperto dal JR Pass. Arrivo per pranzo. Il pomeriggio è per Higashiyama, a piedi da Kiyomizu-dera verso Gion. Kyoto ha bisogno di più giorni di quanti questo viaggio gliene dia: qui ci sono i due che servono a vederne il centro, il resto è nel viaggio dei sakura.
 
 ### Giorno 11 — Kyoto
 **Fushimi Inari** all'alba, prima dei gruppi, salendo oltre la parte fotografata da tutti. Poi il nord-ovest della città: il Kinkaku-ji, il giardino di sabbia del Ryoan-ji, Arashiyama nel pomeriggio. Il giorno è denso. Chi preferisce un ritmo più lento sostituisce Arashiyama con il quartiere dei templi zen di Daitoku-ji.
 
 ### Giorno 12 — Nara
-Mezza giornata, o una intera con calma. Da Kyoto il treno JR Nara Line arriva in circa un'ora. Il Todaiji con il Grande Buddha, il Kasuga Taisha con le lanterne, i cervi sika liberi nel parco. Si torna a Kyoto per la notte, o si prosegue verso Osaka per essere più vicini alla Nankai di domani.
+Mezza giornata, o una intera con calma. Da Kyoto si arriva con il treno della JR Nara Line. Il Todaiji con il Grande Buddha, il Kasuga Taisha con le lanterne, i cervi sika liberi nel parco. Si torna a Kyoto per la notte, o si prosegue verso Osaka per essere più vicini alla Nankai di domani.
 
 ### Giorno 13 — Kōya-san, la notte al tempio
-Da Osaka Namba la linea Nankai sale verso Gokurakubashi, poi una funicolare e un bus portano sull'altopiano di **Kōya-san**, il centro del buddhismo Shingon fondato da Kūkai nel IX secolo. Qui ci sono più di cento templi, e una cinquantina offrono alloggio: lo **shukubō**. Si dorme su tatami, si cena con la cucina vegetariana dei monaci, lo shojin ryori. Prima di cena il Kongobu-ji e il complesso del Danjo Garan. *Lo stato della funicolare e i collegamenti vanno controllati sul sito della Nankai prima di partire.*
+Da Osaka Namba la linea Nankai sale verso Gokurakubashi, poi una funicolare e un bus portano sull'altopiano di **Kōya-san**, il centro del buddhismo Shingon fondato da Kūkai nel IX secolo. Sull'altopiano ci sono più di cento templi, e molti offrono alloggio: lo **shukubō**. Si dorme su tatami, si cena con la cucina vegetariana dei monaci, lo shojin ryori. Prima di cena il Kongobu-ji e il complesso del Danjo Garan. *Lo stato della funicolare e i collegamenti vanno controllati sul sito della Nankai prima di partire.*
 
 ### Giorno 14 — Okunoin all'alba e ritorno a Osaka
 La mattina si partecipa alla preghiera dei monaci, poi si cammina nell'**Okunoin**, il cimitero più grande del Giappone: circa due chilometri tra cedri secolari e oltre duecentomila tombe e monumenti, fino al mausoleo di Kūkai. Nel pomeriggio si scende a **Osaka**. La sera è per Dotonbori e Shinsekai, con okonomiyaki e takoyaki.
 
 ### Giorno 15 — Hiroshima e Miyajima
-Lo Shinkansen porta a Hiroshima in circa un'ora e mezza da Shin-Osaka. La mattina il **Parco e il Museo della Pace**, con il tempo che chiedono. Poi treno locale e traghetto JR fino a **Miyajima**, entrambi nel pass. Conviene dormire sull'isola: la sera, quando partono i turisti in giornata, il santuario di Itsukushima e il torii nell'acqua sono un altro posto.
+Lo Shinkansen porta a Hiroshima da Shin-Osaka. La mattina il **Parco e il Museo della Pace**, con il tempo che chiedono. Poi treno locale e traghetto JR fino a **Miyajima**, entrambi nel pass. Conviene dormire sull'isola: la sera, quando partono i turisti in giornata, il santuario di Itsukushima e il torii nell'acqua sono un altro posto.
 
 ### Giorno 16 — Miyajima e ritorno
-La mattina il monte Misen, a piedi o in funivia, con la vista sul mare interno di Seto. Poi traghetto e Shinkansen verso Osaka, per chi vola dal Kansai, o verso Tokyo, per chi riparte da lì: circa quattro ore, l'ultimo giorno pieno del JR Pass.
+La mattina il monte Misen, a piedi o in funivia, con la vista sul mare interno di Seto. Poi traghetto e Shinkansen verso Osaka, per chi vola dal Kansai, o verso Tokyo, per chi riparte da lì: un viaggio lungo, l'ultimo giorno pieno del JR Pass.
 
 ### Giorno 17 — Rientro
 Partenza da Kansai o da Tokyo. Dal Kansai l'Haruka arriva in aeroporto da Kyoto e da Osaka.
@@ -93,10 +93,10 @@ Partenza da Kansai o da Tokyo. Dal Kansai l'Haruka arriva in aeroporto da Kyoto 
 
 ## Consigli pratici / errori da non ripetere
 - **Fare il conto del JR Pass.** Questo giro usa molti bus e linee private che il pass non copre. Il pass da 14 giorni conviene se si attiva il giorno 4 e si chiude con il ritorno a Tokyo; senza il ritorno, i biglietti singoli possono costare meno.
-- **Prenotare i bus appena si hanno le date:** Nohi per Shirakawa-go, i bus per Kamikochi, e gli alloggi gasshō.
+- **Prenotare i bus appena si hanno le date:** Nohi per Shirakawa-go, il bus Matsumoto-Takayama, e gli alloggi gasshō.
 - **Spedire i bagagli** tra Matsumoto e Takayama e tra Takayama e Kanazawa. Nei paesi e a Kamikochi si gira con uno zaino piccolo.
 - **Contanti** per i minshuku, i mercati del mattino, gli shukubō.
-- **Rispetto nei villaggi abitati:** a Shirakawa-go e sul Nakasendō non si entra nei cortili privati, non si vola con i droni, non si lascia spazzatura (i cestini quasi non ci sono).
+- **Rispetto nei villaggi abitati:** a Shirakawa-go e sul Nakasendō non si entra nei cortili privati e non si lascia spazzatura: i rifiuti si riportano con sé.
 - **Onsen e tatuaggi:** molti ryokan li vietano ancora nei bagni comuni. Le camere con bagno privato o i bagni privati a noleggio, i kashikiri, risolvono.
 
 ## Chiusura personale
@@ -111,10 +111,12 @@ Itinerario costruito con ricerca documentale, aggiornato a novembre 2026. Nessun
 - Biglietto speciale Nozomi per titolari JR Pass: japanrailpass.net/en/use/special-ticket/ (Tokyo-Kyoto 4.960 yen, Tokyo-Hiroshima 6.500).
 - Shirakawa-go, UNESCO 1995 e illuminazioni invernali 2027 (11, 17, 24, 31 gennaio; alloggi a sorteggio, parcheggi prenotati): shirakawa-go.gr.jp/en/.
 - Magome-Tsumago, 8 km, 2-3 ore, passo a 790 m, servizio bagagli fine marzo-fine novembre, 8.30-11.30, ritiro dopo le 13, 1.000 yen a collo: go-nagano.net/en/theme/id=16492 e japan-guide.com/e/e6078.html.
-- Kamikochi 2026, apertura 17 aprile, chiusura 15 novembre, auto private vietate: solo fonti secondarie (watabi.org, hiddenjapan-gems.com), coerenti tra loro. Il sito ufficiale kamikochi.or.jp non era raggiungibile.
-- Bus Nohi Takayama-Shirakawa-go 2.800 yen fino al 30/11/2026, 2.900 dal 1/12/2026, alcune corse solo su prenotazione: da guide recenti che citano l'annuncio Nohi (nouhibus.co.jp non raggiungibile). Da ricontrollare.
+- Kamikochi 2026, navetta dal 17 aprile al 15 novembre, auto private vietate tutto l'anno; Hirayu-Kamikochi circa 30 minuti: nouhibus.co.jp/route_bus/kamikochi-line-en/ (verifica del 5/11/2026). Quota 1.400-1.600 m, stagno di Taisho dall'eruzione del Yake del 1915: Wikipedia.
+- Bus Nohi Takayama-Shirakawa-go-Kanazawa 2h05-2h20 in tutto, alcune corse su prenotazione; Matsumoto-Takayama 2h20, su prenotazione: nouhibus.co.jp/english/highwaybus/. Prezzi non pubblicati sulla pagina: tolti dal testo.
+- Okunoin oltre 2 km e oltre 200.000 tombe, cimitero più grande del Giappone; Kōya-san con circa 120 templi, Kūkai dall'819: Wikipedia (Okunoin, Mount Kōya).
+- Kanazawa risparmiata dai bombardamenti, Kenroku-en tra i tre grandi giardini; festival di Takayama 14-15 aprile e 9-10 ottobre: Wikipedia.
 
-**Generico, non verificato puntualmente:** tempi di treno tra Hakone, Nagoya, Nakatsugawa, Matsumoto e Kanazawa-Kyoto; Hakone Freepass; stato della funicolare di Kōya-san; numero di templi e shukubō a Kōya-san; prezzi di ingresso di Kenroku-en, castello di Matsumoto, Hida Folk Village (non riportati).
+**Tolto perché non confermato (verifica del 5/11/2026):** tempi di treno Nagiso-Matsumoto, Kanazawa-Kyoto, Kyoto-Nara, Shin-Osaka-Hiroshima, Miyajima-Tokyo; prezzi del bus Nohi; numero di shukubō; divieto di droni a Shirakawa-go. **Ancora generico:** Hakone Freepass, stato della funicolare di Kōya-san, copertura JR Pass del traghetto per Miyajima.
 
 **Note di redazione:** niente foto. Rick deve dire quali tappe ha fatto (lista in docs/giappone-da-confermare.md): solo dopo si possono aggiungere ricordi in prima persona.
 

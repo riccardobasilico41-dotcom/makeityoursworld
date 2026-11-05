@@ -4,9 +4,9 @@ import type { TripMeta } from '@/lib/types'
 // Il testo narrativo resta nel markdown (src/content/viaggi/97-scozia-highlands-distillerie.md).
 // `titoloGiorno` deve combaciare esattamente con le intestazioni "### Giorno N — ..." del markdown.
 //
-// Itinerario costruito sulla ricerca a partire dai ricordi di Rick (ha guidato in Scozia;
-// Ee-Usk a Oban; meteo imprevedibile; North Coast 500 mozzafiato). Pernottamenti consigliati,
-// non provati. Foto dei giorni da Wikimedia Commons: autori e licenze in docs/uk-registri.md.
+// Viaggio di Rick a luglio, in auto: tutto il giro (Glasgow di passaggio, Glencoe bellissima,
+// Oban e le Ebridi, Glenfinnan, Skye, Loch Ness «meh», distillerie, Cairngorms) più la North
+// Coast 500 (mozzafiato). Islay e le tappe della NC500 sono proposte dalla ricerca. Pernottamenti consigliati, non provati. Foto dei giorni da Wikimedia Commons: autori e licenze in docs/uk-registri.md.
 
 const IMG = '/images/viaggi/scozia-highlands-distillerie'
 
@@ -30,7 +30,7 @@ export const scoziaHighlandsDistillerieMeta: TripMeta = {
     'Il viadotto di Glenfinnan e l\'Isola di Skye con il Quiraing',
     'Il pesce di Ee-Usk a Oban',
     'Le distillerie famose, da Talisker allo Speyside, e due chicche come Dalwhinnie e Glen Ord',
-    'La variante della North Coast 500, la strada del nord',
+    'La North Coast 500, la strada del nord: Rick l\'ha fatta ed è mozzafiato',
   ],
   criticita: [
     'Si guida a sinistra, spesso su strade a una corsia con le piazzole di scambio',

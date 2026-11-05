@@ -1,4 +1,4 @@
-# Giappone in 12 giorni: Tokyo, il Monte Fuji, Kyoto, Hiroshima, Osaka e la caccia ai sakura
+# Giappone in due settimane: Tokyo, il Monte Fuji, Kyoto, Hiroshima, Osaka e la caccia ai sakura
 
 **Stato bozza:** 🟡 in lavorazione (itinerario completo, senza orari fissi, con cibo e logistica,
 e aneddoti di apertura/chiusura — scritti come bozza da rileggere e personalizzare)

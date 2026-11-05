@@ -723,7 +723,7 @@ export const destinazioniMarocco: Destinazione[] = [
     nome: 'Chefchaouen',
     tipologia: ['città', 'montagna'],
     giorniConsigliati: '2 nights',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'The blue city in the Rif mountains, founded in 1471 as a fortress against the Portuguese. A small medina, with houses painted blue, the kasbah on the square and mountains all around.',
     percheAndarci:
@@ -737,11 +737,11 @@ export const destinazioniMarocco: Destinazione[] = [
     ],
     cosaFare: ['Photographing the alleys at dawn', 'Climbing to the Spanish Mosque at sunset', 'A day in Akchour, among gorges and waterfalls'],
     comeArrivare:
-      'There is no railway. CTM buses from Tangier (about 110 km) and from Fez (about 200 km, 4-5 hours), with tickets on booking.ctm.ma; otherwise a car with driver.',
+      'By road: about 110 km from Tangier (about 2 hours of driving) and about 190 km from Fez (almost 4 hours without stops), with a car and driver or CTM buses (services and times on ctm.ma). There is no railway.',
     comeSpostarsi: 'On foot: the medina is small and all uphill.',
     periodoMigliore: 'spring and fall',
     erroriDaEvitare: [
-      'Accepting cannabis offered on the street: in Morocco drugs of any kind are punished with prison',
+      'Accepting cannabis offered on the street: Morocco has zero tolerance for drugs, with prison and heavy fines',
       'Arriving for just an afternoon: the medina is at its best early in the morning and in the evening, once the day-trip groups have left',
     ],
     // GUIDA-START
@@ -749,8 +749,8 @@ export const destinazioniMarocco: Destinazione[] = [
       {
         nome: 'The blue medina',
         testo:
-          'Uphill alleys and houses painted in many shades of blue. There are several explanations: to keep mosquitoes away, to recall the sky, or to attract tourists, as some locals say. None is certain. The town grew with the Andalusians, Moriscos and Sephardic Jews who came from Spain.',
-        come: 'On foot, with no destination. The riad usually sends someone to pick up your luggage.',
+          'Uphill alleys and houses painted in many shades of blue. There are several explanations: to keep mosquitoes away, to recall the sky, or to attract tourists, as some locals say. None is certain. The town grew with the Andalusians, Moriscos and Jews who came from the Iberian Peninsula.',
+        come: 'On foot, with no destination. For luggage, ask the riad whether they send someone.',
         quando: 'At dawn, before the day-trip groups arrive.',
         tempo: 'half a day',
         consiglio: "Many doors and stairways belong to private homes: take photos without going in and without posing children.",
@@ -766,14 +766,14 @@ export const destinazioniMarocco: Destinazione[] = [
       {
         nome: 'Ras el-Ma',
         testo: 'The spring at the foot of the mountain, just outside the medina, where the water flows down toward the town.',
-        come: 'On foot from the square, heading up toward the east gate of the medina.',
+        come: 'On foot from the square: just outside the medina, on the east side.',
         quando: 'Morning or late afternoon, before climbing to the Spanish Mosque.',
         tempo: '30 minutes',
       },
       {
         nome: 'Spanish Mosque',
         testo:
-          "The mosque built in the 1920s, during the Spanish protectorate, on the hill facing the town. Today it's mostly a viewpoint over all of Chefchaouen.",
+          "The mosque built by the Spanish in the 1920s on the hill facing the town. Today it's disused and mostly a viewpoint over all of Chefchaouen.",
         come: 'On foot from Ras el-Ma, on an uphill trail.',
         quando: 'At sunset.',
         tempo: '1 hour with the climb',
@@ -781,7 +781,7 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         nome: 'Akchour',
-        testo: "A valley about 30 km from Chefchaouen, with the river's gorges and waterfalls and trails among the rocks. It's the day trip for anyone who wants nature after the medina.",
+        testo: "A valley about 30 km from Chefchaouen (40 minutes by road), with the river's gorges and waterfalls and trails among the rocks. It's the day trip for anyone who wants nature after the medina.",
         come: 'Car with driver or taxi from Chefchaouen.',
         quando: 'In spring and fall.',
         tempo: 'a full day',
@@ -816,14 +816,15 @@ export const destinazioniMarocco: Destinazione[] = [
       { nome: 'Mint tea', testo: 'Served everywhere, hot and very sweet, in the cafés on the square.' },
     ],
     attenzioni: [
-      'People offering cannabis on the street: in Morocco possession and use are punished with prison, tourists included.',
+      'People offering cannabis on the street: Morocco has zero tolerance for drugs, tourists included, with prison and heavy fines.',
       'Fake guides offering to take you to the Spanish Mosque: the trail is easy and you can do it alone.',
       'Photos of people: ask first.',
     ],
     // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['marocco-citta-imperiali'],
-    imageAlt: 'The blue-painted alleys of the Chefchaouen medina, in the Rif mountains, Morocco',
+    imageAlt: "The blue-painted alleys of Chefchaouen's medina, in the Rif mountains, Morocco",
+    immagine: '/images/marocco/chefchaouen.webp',
   },
   {
     slug: 'fes',
@@ -832,11 +833,11 @@ export const destinazioniMarocco: Destinazione[] = [
     nome: 'Fez',
     tipologia: ['città', 'cultura', 'città imperiale'],
     giorniConsigliati: '2-3 days',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
-      'Founded in 789 by Idris I, capital until 1912. The old city, Fez el-Bali, has been a UNESCO World Heritage Site since 1981 and is one of the largest car-free urban areas in the world.',
+      'Founded in 789 by Idris I, capital until 1912. The old city, Fez el-Bali, has been a UNESCO World Heritage Site since 1981 and is one of the largest and oldest urban pedestrian zones in the world.',
     percheAndarci:
-      "For the largest and oldest medina in Morocco, with the Marinid madrasas, the Qarawiyyin and the tanneries. It's the point where this itinerary splits from the desert one.",
+      "For one of the largest and oldest medinas in the world, with the Marinid madrasas, the Qarawiyyin and the tanneries. It's the point where this itinerary splits from the desert one.",
     cosaVedere: [
       'Bab Bou Jeloud',
       'Bou Inania Madrasa',
@@ -848,7 +849,7 @@ export const destinazioniMarocco: Destinazione[] = [
     ],
     cosaFare: ['A morning with an official guide in Fez el-Bali', 'Watching the tanneries from the terraces', 'Sunset over the medina from the Marinid Tombs'],
     comeArrivare:
-      'By ONCF train from Meknes, Rabat and Casablanca; by CTM bus from Chefchaouen; Fès-Saïss airport with flights from Europe.',
+      'By road from Chefchaouen (about 190 km) and from Meknes (about 70 km, an hour of driving), with a car and driver or CTM bus; the ONCF train is an alternative. Fès-Saïss airport is about 15 km from the medina.',
     comeSpostarsi: 'On foot in the medina, by petit taxi between the medina, Fez Jdid and the station.',
     periodoMigliore: "spring and fall; summer is very hot",
     erroriDaEvitare: [
@@ -869,7 +870,7 @@ export const destinazioniMarocco: Destinazione[] = [
       {
         nome: 'Bou Inania Madrasa',
         testo:
-          "Commissioned by the Marinid sultan Abu Inan and built between 1350 and 1355. It's the only madrasa in Morocco that also served as a Friday mosque, with its own minaret. Opposite is the old water clock from 1357, which no longer works.",
+          "Commissioned by the Marinid sultan Abu Inan and built between 1350 and 1355. It's the only madrasa in Morocco that also served as a Friday mosque, with its own minaret. Opposite is the old water clock, completed in 1357, whose mechanism is no longer understood.",
         come: "Along the Talaa Kebira, a few minutes past Bab Bou Jeloud. The prayer hall is not open to non-Muslims, but you can see it from the courtyard.",
         quando: 'Early morning. Outside prayer times.',
         tempo: '30-45 minutes',
@@ -885,7 +886,7 @@ export const destinazioniMarocco: Destinazione[] = [
       {
         nome: 'The Qarawiyyin',
         testo:
-          "The mosque founded in 857-859 by Fatima al-Fihri, which later became one of the oldest institutions of learning still active in the world. It's the center of the medina.",
+          "The mosque founded in 857-859, by tradition by Fatima al-Fihri, which later became a centre of learning that UNESCO cites as the oldest continuously operating institution of higher learning in the world. It's the center of the medina.",
         come: "Non-Muslims don't go in: through the open doors you can see part of the courtyard and the interior.",
         tempo: '15 minutes',
         consiglio: "Don't linger in front of the doors during prayer.",
@@ -893,7 +894,7 @@ export const destinazioniMarocco: Destinazione[] = [
       {
         nome: 'Chouara tanneries',
         testo:
-          "The largest tannery in the medina, with stone vats full of dye where hides are worked as they have been for centuries. Restored a few years ago and left in place. The smell is strong.",
+          "The largest tannery in the city, with stone vats full of dye where hides are worked as they have been for centuries. One of the oldest in the city, restored in the 21st century and left in place. The smell is strong.",
         come: 'You watch from above, from the terraces of the leather shops around it, which ask you to pass through the store.',
         quando: 'In the morning, when the vats are in use.',
         tempo: '30 minutes',
@@ -902,21 +903,21 @@ export const destinazioniMarocco: Destinazione[] = [
       {
         nome: 'Fez Jdid and the Mellah',
         testo:
-          'The new city built by the Marinids in the 13th century, with the great gates of the Royal Palace and the Mellah, the old Jewish quarter, with houses whose balconies face the street.',
+          'The new city founded by the Marinids in 1276, with the great gates of the Royal Palace and the Mellah, the old Jewish quarter.',
         come: 'Petit taxi, or on foot from Bab Bou Jeloud through Jnan Sbil. The Royal Palace can only be seen from outside.',
         quando: 'Afternoon.',
         tempo: '2 hours',
       },
       {
         nome: 'Jnan Sbil',
-        testo: 'The historic gardens between Fez el-Bali and Fez Jdid, with avenues, pools and trees: the shady break of the day.',
+        testo: 'The historic gardens between Fez el-Bali and Fez Jdid, laid out in the 19th century under Moulay Hassan I: the shady break of the day.',
         come: 'On foot from Bab Bou Jeloud.',
         tempo: '30-45 minutes',
       },
       {
         nome: 'The Marinid Tombs',
         testo: 'The ruins on the hills north of the medina. The reason to go up is the view: all of Fez el-Bali below, with its roofs and minarets.',
-        come: 'By petit taxi. Better not to walk back alone after dark.',
+        come: 'By petit taxi, agreeing on the return too.',
         quando: 'Before sunset.',
         tempo: '1 hour',
       },
@@ -948,8 +949,8 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         nome: 'Ville Nouvelle',
-        perChi: 'anyone arriving by train or wanting comfort',
-        testo: 'The modern city, with chain hotels and restaurants, close to the station. You need a taxi for the medina.',
+        perChi: 'anyone arriving by car or wanting comfort',
+        testo: 'The modern city, with chain hotels and restaurants, easier to reach by car. You need a taxi for the medina.',
       },
     ],
     sapori: [
@@ -967,7 +968,8 @@ export const destinazioniMarocco: Destinazione[] = [
     // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['marocco-citta-imperiali'],
-    imageAlt: 'The rooftops of the Fez el-Bali medina seen from above, with the minarets, Morocco',
+    imageAlt: "The rooftops of Fès el-Bali seen from the Merenid Tombs, with the minarets, Morocco",
+    immagine: '/images/marocco/fes.webp',
   },
   {
     slug: 'meknes-volubilis',
@@ -976,7 +978,7 @@ export const destinazioniMarocco: Destinazione[] = [
     nome: 'Meknes and Volubilis',
     tipologia: ['città', 'storia', 'città imperiale', 'archeologia'],
     giorniConsigliati: '1-2 days',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Meknes is the city of Moulay Ismail, who made it his capital and reigned from 1672 to 1727: a UNESCO World Heritage Site since 1996. About 30 km away are the Roman ruins of Volubilis, a UNESCO World Heritage Site since 1997, and the holy town of Moulay Idriss.',
     percheAndarci:
@@ -990,7 +992,7 @@ export const destinazioniMarocco: Destinazione[] = [
       'Moulay Idriss Zerhoun',
     ],
     cosaFare: ['Volubilis early in the morning', 'A walk on your own through the Meknes medina'],
-    comeArrivare: 'By ONCF train from Fez (about 40 minutes) or from Rabat (about 2 and a half hours). Meknes has two stations.',
+    comeArrivare: 'By car from Fez (about 70 km, an hour of driving) or from Rabat (about 140 km, almost 2 hours). The ONCF train is an alternative: Meknes has two stations.',
     comeSpostarsi: 'On foot in the medina, petit taxi in town, taxi or car with driver for Volubilis and Moulay Idriss.',
     periodoMigliore: 'spring and fall; at Volubilis the summer sun is fierce',
     erroriDaEvitare: [
@@ -1002,32 +1004,32 @@ export const destinazioniMarocco: Destinazione[] = [
       {
         nome: 'Volubilis',
         testo:
-          'Already inhabited in the 3rd century BC, it was the capital of the kingdom of Mauretania and then a Roman city from 44 AD. By the late 2nd century it had about 20,000 inhabitants and lived on olive oil. Rome left it around 285. What remains: the Decumanus Maximus, the basilica, the Capitol, the Arch of Caracalla from 217 and the mosaics in the houses, like the Labours of Hercules and Orpheus.',
-        come: 'About 30 km from Meknes by taxi or car with driver; about 95 km from Fez. You visit on foot along the site route.',
+          'Already inhabited in the 3rd century BC, possibly the capital of the kingdom of Mauretania, it became Roman when Rome annexed Mauretania in 44 AD. By the late 2nd century it had about 20,000 inhabitants and lived on olive oil. Around 285 it fell to local tribes and Rome never retook it. What remains: the Decumanus Maximus, the basilica, the Capitol, the Arch of Caracalla from 217 and the mosaics in the houses, like the Labours of Hercules and Orpheus.',
+        come: 'About 30 km north of Meknes (half an hour by road) and about 70 km from Fez (an hour and a half), by car with driver or taxi. You visit on foot along the site route.',
         quando: 'Early morning: the site is open and has almost no shade.',
         tempo: '2 hours',
-        consiglio: 'Hat, water and closed shoes. A guide at the entrance helps you read the ruins.',
+        consiglio: 'Hat, water and closed shoes. A guide helps you read the ruins.',
       },
       {
         nome: 'Moulay Idriss Zerhoun',
         testo:
-          "The holy town built around the mausoleum of Idris I, who founded the Idrisid dynasty at Volubilis in 787-788 and was killed there in 791. It's a few kilometers from the ruins, on the hills.",
-        come: "With the same taxi as Volubilis. The mausoleum is a pilgrimage site and is generally not open to non-Muslims.",
+          "The holy town built around the mausoleum of Idris I, who founded the Idrisid dynasty at Volubilis in 787-788 and was killed there in 791. Today's mausoleum was rebuilt by Moulay Ismail in the early 18th century. It's a few kilometers from the ruins, on the hills.",
+        come: "With the same taxi as Volubilis. The mausoleum is a pilgrimage site and is not open to non-Muslims.",
         quando: 'After Volubilis, late in the morning.',
         tempo: '1 hour',
-        consiglio: 'Climb to a viewpoint above the town to see it from above.',
+        consiglio: 'Climb the higher hill of the town, which looks over the whole religious complex.',
       },
       {
         nome: 'Bab Mansour and el-Hedim square',
         testo:
-          'The monumental gate begun by Moulay Ismail and finished in 1732 by his son Moulay Abdallah, named after Mansour al-Alj, a Christian convert to Islam. In front is el-Hedim square, whose name means "rubble": it comes from the demolitions carried out to open it.',
+          'The monumental gate begun by Moulay Ismail and finished in 1732 by his son Moulay Abdallah, named after Mansour al-Alj, a former Christian slave who converted to Islam. In front is el-Hedim square, whose name means "rubble": it comes from the demolitions carried out to open it.',
         come: 'On foot, at the entrance to the medina.',
         quando: 'Late afternoon, when the square comes alive.',
         tempo: '30 minutes',
       },
       {
         nome: 'Mausoleum of Moulay Ismail',
-        testo: "The sultan's tomb, arranged between 1727 and 1729. It's a religious site also open to visitors.",
+        testo: "The sultan's tomb. It's still a religious site, also open to tourists.",
         come: 'On foot from Bab Mansour, in the imperial city. Covering clothes and silence.',
         tempo: '30 minutes',
       },
@@ -1040,13 +1042,13 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         nome: 'Bou Inania Madrasa of Meknes',
-        testo: "The Marinid madrasa begun around 1335-36 by Sultan Abu al-Hasan and named after his son Abu Inan. It's open to visitors.",
+        testo: "The Marinid madrasa founded in 1335-36 by Sultan Abu al-Hasan and now named after his son Abu Inan.",
         come: 'In the medina, on foot from el-Hedim.',
         tempo: '30 minutes',
       },
       {
         nome: 'Dar Jamai Museum',
-        testo: "A palace from 1882, built by a grand vizier of the sultan, which today houses a museum overlooking el-Hedim square.",
+        testo: "A palace from 1882, built by a grand vizier of Sultan Moulay Hassan, which today houses a museum overlooking el-Hedim square.",
         come: 'On el-Hedim square.',
         tempo: '45 minutes',
       },
@@ -1069,24 +1071,25 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         nome: 'Ville Nouvelle',
-        perChi: 'anyone traveling by train',
-        testo: 'Hotels easier to reach from the station; you need a taxi for the medina.',
+        perChi: 'anyone arriving by car',
+        testo: 'Hotels easier to reach by car; you need a taxi for the medina.',
       },
     ],
     sapori: [
-      { nome: 'Olives and oil from the plain', testo: 'The Volubilis and Meknes area has been olive country for two thousand years.' },
+      { nome: 'Olives and oil from the plain', testo: 'The Volubilis and Meknes area has been olive country since Roman times.' },
       { nome: 'Tagine', testo: 'In the restaurants around el-Hedim.' },
       { nome: 'Harira', testo: 'The lentil soup found everywhere.' },
     ],
     attenzioni: [
-      'At Volubilis guides offer themselves at the entrance: agree on price and length before starting.',
+      'At Volubilis guides offer their services: agree on price and length before starting, and ask for the official badge.',
       'The taxi to Volubilis and Moulay Idriss should be agreed in advance, with waiting time and return included.',
       'Covering clothes in Moulay Idriss, which is a holy town.',
     ],
     // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['marocco-citta-imperiali'],
-    imageAlt: 'The columns and the Arch of Caracalla among the Roman ruins of Volubilis, near Meknes, Morocco',
+    imageAlt: "The Arch of Caracalla among the Roman ruins of Volubilis, near Meknès, Morocco",
+    immagine: '/images/marocco/meknes-volubilis.webp',
   },
   {
     slug: 'rabat',
@@ -1095,9 +1098,9 @@ export const destinazioniMarocco: Destinazione[] = [
     nome: 'Rabat (and the Hassan II Mosque in Casablanca)',
     tipologia: ['città', 'cultura', 'città imperiale', 'mare'],
     giorniConsigliati: '1-2 days, plus half a day in Casablanca',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
-      "Morocco's capital since 1956, at the mouth of the Bou Regreg, facing Salé. A UNESCO World Heritage Site since 2012, for both its old and modern city. A short train ride away is Casablanca, with the Hassan II Mosque.",
+      "Morocco's capital since 1912, and still so after independence in 1956, at the mouth of the Bou Regreg, facing Salé. A UNESCO World Heritage Site since 2012, for both its old and modern city. About 95 km away by road is Casablanca, with the Hassan II Mosque.",
     percheAndarci:
       'For the Kasbah of the Udayas on the sea, the Hassan Tower and the Chellah, in a tidy city where you get around without pressure. Then Casablanca for its mosque.',
     cosaVedere: [
@@ -1110,7 +1113,7 @@ export const destinazioniMarocco: Destinazione[] = [
     ],
     cosaFare: ["The kasbah viewpoint over the river and the Atlantic", 'The guided tour of the Hassan II Mosque'],
     comeArrivare:
-      'By ONCF train: Al Boraq from Tangier (about 1 hour 20) and from Casablanca; trains from Meknes and Fez. The stations are Rabat Ville and Rabat Agdal. There is also Rabat-Salé airport.',
+      'By car from Meknes (about 140 km, almost 2 hours) and from Casablanca (about 95 km, just over an hour). The ONCF train is an alternative, with Rabat Ville and Rabat Agdal stations. There is also Rabat-Salé airport.',
     comeSpostarsi: 'On foot and by tram, which has linked Rabat and Salé since 2011.',
     periodoMigliore: 'all year, with spring and fall the most pleasant',
     erroriDaEvitare: [
@@ -1136,7 +1139,7 @@ export const destinazioniMarocco: Destinazione[] = [
       {
         nome: 'Hassan Tower and Mausoleum of Mohammed V',
         testo:
-          'The Hassan Tower is the never-finished minaret of the great mosque commissioned by the Almohad sultan Yaqub al-Mansur in the 12th century. Opposite stands the Mausoleum of Mohammed V, completed in 1971, where King Hassan II and Prince Abdallah are also buried, with the royal guard at the entrance.',
+          'The Hassan Tower is the never-finished minaret of the great mosque commissioned by the Almohad sultan Yaqub al-Mansur, begun in 1191 and left unfinished at his death in 1199. Next to it stands the Mausoleum of Mohammed V, completed in 1971, where his sons King Hassan II and Prince Abdallah are also buried, with the honour guard at the entrance.',
         come: 'On foot or by tram. The esplanade is open.',
         quando: 'Morning or late afternoon.',
         tempo: '1 hour',
@@ -1145,7 +1148,7 @@ export const destinazioniMarocco: Destinazione[] = [
       {
         nome: 'Chellah',
         testo:
-          'The place where the ruins of the Roman city of Sala and the Marinid necropolis, begun in 1284-85, overlap. The main gate dates from 1339. Storks nest in the trees and on the old minaret. Every year it hosts the Jazz au Chellah festival.',
+          'The place where the ruins of the Roman city of Sala and the Marinid necropolis, begun in 1284-85, overlap. The main gate dates from 1339. Storks nest in the trees and on the old minaret. For years the ruins have hosted the Jazz au Chellah festival.',
         come: 'Petit taxi, or on foot from the Hassan Tower.',
         quando: 'Afternoon, when the light is softer.',
         tempo: '1 hour',
@@ -1154,13 +1157,13 @@ export const destinazioniMarocco: Destinazione[] = [
         nome: 'Hassan II Mosque (Casablanca)',
         testo:
           "Casablanca's great mosque on the sea, one of the few in Morocco that non-Muslims can visit, only on the guided tour. The tour covers the prayer hall, the minaret hall and the ablution halls.",
-        come: 'Al Boraq from Rabat Agdal to Casa Voyageurs, then a taxi. Tickets at the mosque for your time slot.',
+        come: 'By car from Rabat, about 95 km along the coast.',
         quando:
-          'From September 16 to March 14: Saturday to Thursday at 9, 10, 11, 12 and 3 p.m.; Friday at 9, 10 and 3 p.m. From March 15 to September 15 also at 4 p.m. During Ramadan the hours change.',
+          'Guided tours several times a day, in the morning and early afternoon; fewer on Fridays. Current times are on fmh2.ma, where they are given in GMT.',
         tempo: '1 hour',
-        costo: '140 MAD for foreign adults (2026)',
+        costo: '140 MAD for foreign adults (fmh2.ma, November 2026)',
         url: 'https://fmh2.ma/',
-        consiglio: 'Shoulders and knees covered, no shorts or tank tops. Shoes come off at the entrance.',
+        consiglio: 'Shoulders, torso and legs covered to below the knees: no shorts or tank tops. Shoes come off at the entrance, with bags handed out at the door.',
       },
     ],
     programmi: [
@@ -1170,7 +1173,7 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         titolo: '2 days',
-        tappe: ['Day 1: as above', 'Day 2: Al Boraq to Casablanca and the Hassan II Mosque tour'],
+        tappe: ['Day 1: as above', 'Day 2: by car to Casablanca and the Hassan II Mosque tour'],
       },
     ],
     zone: [
@@ -1181,8 +1184,8 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         nome: 'Modern center and Agdal',
-        perChi: 'anyone traveling by train',
-        testo: 'Hotels close to Rabat Ville and Rabat Agdal stations, with the tram to the medina.',
+        perChi: 'anyone arriving by car or wanting comfort',
+        testo: 'Hotels in the modern city, with the tram to the medina.',
       },
     ],
     sapori: [
@@ -1190,13 +1193,14 @@ export const destinazioniMarocco: Destinazione[] = [
       { nome: 'Mint tea', testo: 'In the cafés of the kasbah and the medina.' },
     ],
     attenzioni: [
-      'At the Hassan II Mosque you can only enter on the guided tour and in covering clothes: online resellers charge more than the ticket at the mosque.',
+      'At the Hassan II Mosque you can only enter on the guided tour and in covering clothes: the official price is the one on fmh2.ma.',
       'Pickpockets in crowded areas and on the beaches.',
       'Taxis: ask for the meter or agree on the price first.',
     ],
     // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['marocco-citta-imperiali'],
-    imageAlt: 'The Almohad gate of Bab Oudaya and the walls of the Kasbah of the Udayas in Rabat, Morocco',
+    imageAlt: "The Almohad gate of Bab Oudaya and the walls of the Kasbah of the Udayas in Rabat, Morocco",
+    immagine: '/images/marocco/rabat.webp',
   },
 ]

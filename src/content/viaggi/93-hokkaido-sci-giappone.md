@@ -14,21 +14,21 @@ In Giappone si va a sciare per la neve. D'inverno i venti freddi dalla Siberia a
 Questa guida spiega dove andare, quando partire e quando prenotare, quanto costa, come ci si muove dall'aeroporto, e le regole che contano in montagna e negli onsen. C'è un itinerario d'esempio di undici giorni: due a Sapporo, una giornata a Kiroro, cinque notti a Niseko con una giornata a Rusutsu, due a Furano. In fondo il confronto con Hakuba, sulle Alpi giapponesi, l'alternativa raggiungibile da Tokyo.
 
 ## Scheda pratica
-- **Quando andare:** le stazioni di Hokkaido aprono di solito tra fine novembre e inizio dicembre e chiudono tra fine marzo e inizio maggio. Niseko United nel 2026-27 va dal 28 novembre al 5 maggio. La neve polverosa più costante è tra la seconda metà di dicembre e febbraio. Marzo ha giornate di sole e neve più pesante, e prezzi più bassi.
+- **Quando andare:** le stazioni di Hokkaido aprono di solito tra fine novembre e inizio dicembre e chiudono tra fine marzo e inizio maggio. Niseko United nel 2026-27 apre il 28 novembre; Grand Hirafu e Annupuri restano aperte fino al 5 maggio, Niseko Village e Hanazono chiudono ad aprile. La neve polverosa più costante è tra la seconda metà di dicembre e febbraio. Marzo ha giornate di sole e neve più pesante, e prezzi più bassi.
 - **Yuki Matsuri:** il festival della neve di Sapporo, con le grandi sculture di neve e ghiaccio a Odori, Susukino e Tsudome, nel 2027 è dal 4 all'11 febbraio. In quei giorni gli hotel di Sapporo si riempiono e costano di più.
-- **Quando prenotare:** l'alloggio a Niseko per Natale, Capodanno e il Capodanno cinese si prenota anche un anno prima; per gennaio e febbraio sei-otto mesi prima sono una buona regola. I voli per Tokyo o Osaka conviene comprarli nello stesso momento. I bus dall'aeroporto si prenotano quando aprono le vendite, gli skipass online a novembre.
-- **Arrivare:** l'aeroporto è il New Chitose di Sapporo (CTS). Dall'Europa si arriva quasi sempre con scalo a Tokyo, a Osaka o in un hub asiatico. Il treno JR Rapid Airport porta a Sapporo e prosegue fino a Otaru.
-- **Dall'aeroporto alle piste:** bus stagionali da prenotare. Il Bigruns per Rusutsu impiega circa due ore e nel 2026-27 costa 5.000 yen a tratta online, con prenotazione obbligatoria entro sette giorni prima. Per Niseko c'è l'Hokkaido Resort Liner, con prezzi 2026-27 non ancora pubblicati a novembre 2026. In alternativa, treno fino a Kutchan con cambio a Otaru, e taxi o navetta.
+- **Quando prenotare:** l'alloggio a Niseko per Natale, Capodanno e il Capodanno cinese è la prima cosa da prenotare, con molti mesi di anticipo, e lo stesso vale, un po' meno, per gennaio e febbraio. I voli per Tokyo o Osaka conviene comprarli nello stesso momento. I bus dall'aeroporto si prenotano appena aprono le vendite, e gli skipass si comprano online quando conviene.
+- **Arrivare:** l'aeroporto è il New Chitose di Sapporo (CTS). Dall'Europa si arriva quasi sempre con scalo a Tokyo, a Osaka o in un hub asiatico. Il treno JR Rapid Airport porta a Sapporo.
+- **Dall'aeroporto alle piste:** bus stagionali da prenotare. Il Bigruns per Rusutsu impiega circa due ore e nel 2026-27 costa 5.000 yen a tratta prenotando online, entro sette giorni prima, e 5.500 con le altre modalità. Per Niseko c'è l'Hokkaido Resort Liner, con prezzi 2026-27 non ancora pubblicati a novembre 2026. In alternativa, treno fino a Kutchan con cambio a Otaru, e taxi o navetta.
 - **Lo Shinkansen:** il treno veloce arriva solo fino a Shin-Hakodate-Hokuto, nel sud dell'isola. Il prolungamento fino a Sapporo è stato rimandato, ora è previsto verso la fine dell'anno fiscale 2038.
-- **Freddo:** a Hokkaido in gennaio le temperature in quota scendono spesso sotto i -10 °C. Servono maschera, sottocasco, guanti caldi e uno strato in più per le seggiovie, molte delle quali sono aperte.
+- **Freddo:** a Hokkaido in gennaio in quota si sta spesso molto sotto zero. Servono maschera, sottocasco, guanti caldi e uno strato in più per le seggiovie, molte delle quali sono aperte.
 - **Assicurazione:** che copra lo sci, il fuori pista entro i cancelli e il soccorso. A Niseko un intervento di soccorso fuori pista costa almeno 100.000 yen.
 
 ## Dove sciare: le stazioni di Hokkaido
-- **Niseko United.** Quattro stazioni collegate sul monte Annupuri: Grand Hirafu, Hanazono, Niseko Village e Annupuri, con un unico skipass. È la meta più conosciuta, con molti alloggi, ristoranti e scuole in inglese. Ha anche il volto più internazionale e i prezzi più alti. Sci notturno da metà dicembre a metà marzo.
-- **Rusutsu.** Tre montagne a circa mezz'ora da Niseko, un grande resort con molti percorsi tra gli alberi e meno folla. Si dorme quasi solo nel resort.
+- **Niseko United.** Quattro stazioni collegate sul monte Annupuri: Grand Hirafu, Hanazono, Niseko Village e Annupuri, con un unico skipass. È la meta più conosciuta, con molti alloggi, ristoranti e scuole in inglese. Ha anche il volto più internazionale e i prezzi più alti. Sci notturno nel 2026-27 dal 12 dicembre al 22 marzo.
+- **Rusutsu.** Tre montagne vicino a Niseko, un grande resort con molti percorsi tra gli alberi e meno folla. Si dorme quasi solo nel resort.
 - **Kiroro.** Più vicina a Sapporo e a Otaru, con molta neve e gli hotel dentro il resort. Comoda per una giornata da Sapporo con lo Ski Bus o il Kiroro Powder Express, che nel 2026-27 viaggia dal 19 dicembre al 28 febbraio.
-- **Furano.** Al centro dell'isola, con un freddo più secco e una neve molto leggera. Una cittadina vera intorno alle piste, meno turistica di Niseko. Si arriva da Sapporo in treno o bus in circa due ore, o dall'aeroporto di Asahikawa.
-- **Le altre:** Sapporo Teine e Kokusai, a un'ora dalla città, per una giornata senza cambiare hotel. Tomamu, nel centro dell'isola. Asahidake, sul vulcano, per lo sci fuori pista con guida.
+- **Furano.** Al centro dell'isola, con un freddo più secco e una neve molto leggera. Una cittadina vera intorno alle piste, meno turistica di Niseko. Si arriva da Sapporo in treno o in bus, o dall'aeroporto di Asahikawa.
+- **Le altre:** Sapporo Teine e Kokusai, vicino alla città, per una giornata senza cambiare hotel. Tomamu, nel centro dell'isola. Asahidake, sul vulcano, per lo sci fuori pista con guida.
 
 ## Quanto costa: prezzi 2026-27
 - **Skipass Niseko United (All Mountain), adulti:** 1 giorno 13.500 yen in alta stagione (24 dicembre 2026-28 febbraio 2027), 12.600 in stagione regolare (12-23 dicembre e 1-22 marzo), 8.800 a inizio e fine stagione. 7 giorni 91.500 yen in alta stagione. Stagionale 184.400 yen.
@@ -41,7 +41,7 @@ Questa guida spiega dove andare, quando partire e quando prenotare, quanto costa
 ## Itinerario giorno per giorno
 
 ### Giorno 1 — Arrivo a New Chitose e Sapporo
-Si atterra a New Chitose, spesso dopo un volo interno da Tokyo o Osaka. Il treno Rapid Airport porta a Sapporo in una quarantina di minuti. La prima sera a **Susukino**, il quartiere dei locali, con il ramen al miso di Sapporo o la jingisukan, l'agnello alla piastra.
+Si atterra a New Chitose, spesso dopo un volo interno da Tokyo o Osaka. Il treno Rapid Airport porta a Sapporo in poco più di mezz'ora. La prima sera a **Susukino**, il quartiere dei locali, con il ramen al miso di Sapporo o la jingisukan, l'agnello alla piastra.
 
 ### Giorno 2 — Sapporo e il Yuki Matsuri
 La mattina il **mercato di Nijo** per una colazione di granchio, ricci e salmone. Se il viaggio cade a inizio febbraio, il giorno è per il **Yuki Matsuri**: le grandi sculture lungo il **parco di Odori**, quelle di ghiaccio a Susukino, gli scivoli di neve a Tsudome. Fuori festival, la torre della TV, il museo della birra Sapporo e il monte Moiwa con la funivia al tramonto.
@@ -62,10 +62,10 @@ L'altro versante del monte: **Niseko Village** e **Annupuri**, di solito meno af
 Il fuori pista a Niseko si fa solo attraverso i cancelli aperti, secondo le Niseko Rules. Chi non conosce la montagna ci va con una guida certificata, con ARTVA, pala e sonda. È anche il giorno di riposo naturale: chi ha le gambe stanche fa un giro con le ciaspole o un onsen lungo.
 
 ### Giorno 8 — Rusutsu
-In bus o navetta fino a **Rusutsu**, mezz'ora circa. Tre montagne e molti percorsi tra gli alberi. Spesso c'è meno gente che a Niseko anche nelle settimane di punta. Rientro a Niseko la sera.
+In bus o navetta fino a **Rusutsu**. Tre montagne e molti percorsi tra gli alberi. Spesso c'è meno gente che a Niseko anche nelle settimane di punta. Rientro a Niseko la sera.
 
 ### Giorno 9 — Da Niseko a Furano
-Giornata di trasferimento, quasi tutta: bus o treno fino a Sapporo, poi treno o bus per **Furano**, circa due ore. Si arriva nel pomeriggio. La sera in città, con il curry di Furano o un izakaya del centro.
+Giornata di trasferimento, quasi tutta: bus o treno fino a Sapporo, poi treno o bus per **Furano**. Si arriva nel pomeriggio. La sera in città, con il curry di Furano o un izakaya del centro.
 
 ### Giorno 10 — Furano
 Una giornata intera sulle piste di **Furano**, che con il freddo secco del centro dell'isola hanno spesso la neve più leggera del viaggio. Chi vuole fare un'altra esperienza va in giornata ad **Asahidake**, con una guida.
@@ -74,12 +74,12 @@ Una giornata intera sulle piste di **Furano**, che con il freddo secco del centr
 Da Furano si raggiunge l'aeroporto di Asahikawa, più vicino, o si torna a New Chitose via Sapporo. In giornata si vola verso Tokyo o Osaka e da lì si riparte.
 
 ## Hakuba e le Alpi giapponesi: il confronto
-**Hakuba Valley**, nella prefettura di Nagano, riunisce dieci stazioni sotto un unico skipass. Da Tokyo si arriva in circa 2 ore e 50 minuti con l'Hokuriku Shinkansen e un bus espresso, da Kanazawa in circa 2 ore e 40, da Osaka in quasi cinque ore. Rispetto a Hokkaido ha montagne più alte e ripide, panorami alpini e un dislivello maggiore. La neve è abbondante ma in media meno asciutta, e a quote basse a fine stagione si fa pesante. Il vantaggio è la logistica: si combina facilmente con Tokyo, Kyoto o Kanazawa nello stesso viaggio, e si evita il volo interno. Le altre aree note delle Alpi sono **Nozawa Onsen**, un paese termale con le piste sopra, e **Shiga Kogen**, la più grande area sciistica collegata del paese. Nella stessa zona c'è il parco delle scimmie di Jigokudani, con i macachi nelle vasche calde.
+**Hakuba Valley**, nella prefettura di Nagano, riunisce dieci stazioni sotto un unico skipass. Da Tokyo si arriva in almeno 2 ore e 50 minuti con l'Hokuriku Shinkansen e un bus espresso, da Kanazawa in almeno 2 ore e 40 con lo Shinkansen e la linea JR Oito, da Osaka in almeno 4 ore e 50 in treno. Rispetto a Hokkaido ha montagne più alte e ripide, panorami alpini e un dislivello maggiore. La neve è abbondante ma in media meno asciutta, e a quote basse a fine stagione si fa pesante. Il vantaggio è la logistica: si combina facilmente con Tokyo, Kyoto o Kanazawa nello stesso viaggio, e si evita il volo interno. Le altre aree note delle Alpi sono **Nozawa Onsen**, un paese termale con le piste sopra, e **Shiga Kogen**, considerata tra le più grandi stazioni del paese. Nella stessa zona c'è il parco delle scimmie di Jigokudani, con i macachi nelle vasche calde.
 
 In sintesi: Hokkaido per chi cerca la neve polverosa e accetta un volo interno. Hakuba per chi vuole le montagne alte e un viaggio che tiene insieme sci e città.
 
 ## Regole e consigli
-- **Niseko Rules:** nel fuori pista si entra solo dai cancelli aperti. Non si passa sotto le corde, non si va quando i cancelli sono chiusi, non si entra nelle aree vietate. Nel fuori pista casco e ARTVA obbligatori; pala e sonda fortemente consigliate. I bambini delle elementari solo con un adulto. Chi viola le regole può perdere lo skipass. Le condizioni sono sul bollettino valanghe di Niseko.
+- **Niseko Rules:** nel fuori pista si entra solo dai cancelli aperti. Non si passa sotto le corde, non si va quando i cancelli sono chiusi, non si entra nelle aree vietate. Nel fuori pista casco e ARTVA obbligatori; pala e sonda vivamente consigliate. I bambini delle elementari solo con un adulto. Chi viola le regole può perdere lo skipass. Le condizioni sono sul bollettino valanghe di Niseko.
 - **Onsen:** ci si lava con cura prima di entrare nella vasca comune, nudi, senza costume, asciugamano fuori dall'acqua. Capelli lunghi raccolti.
 - **Tatuaggi:** molti onsen li vietano ancora. A Niseko, con tanti turisti stranieri, diverse strutture li accettano, altre chiedono di coprirli con un cerotto. Meglio chiedere prima, o scegliere un onsen privato.
 - **Sulle piste:** le piste battute sono larghe e ordinate, e le code alle seggiovie si rispettano. Il fuori pista selvaggio tra gli alberi, al di fuori dei cancelli, è proibito in molte stazioni.
@@ -101,13 +101,14 @@ Guida costruita con ricerca documentale, aggiornata a novembre 2026. Nessuna esp
 ## Materiale grezzo (appunti, non ancora editato)
 **Fonti verificate (novembre 2026):**
 - Yuki Matsuri 2027, 4-11 febbraio, Odori, Tsudome, Susukino: snowfes.com (la pagina dice che le informazioni saranno aggiornate).
-- Skipass Niseko United 2026-27 per periodo e date: niseko.ne.jp/en/lift/; stagionale 184.400 yen: niseko.ne.jp/en/all-mountain-season-pass; Niseko Rules e soccorso da 100.000 yen: niseko.ne.jp/en/niseko/niseko-rules/.
+- Skipass Niseko United 2026-27 per periodo e date, apertura delle singole stazioni, sci notturno 12/12/2026-22/03/2027: niseko.ne.jp/en/lift/ (ricontrollato il 5/11/2026); stagionale 184.400 yen: niseko.ne.jp/en/all-mountain-season-pass; Niseko Rules e soccorso da 100.000 yen: niseko.ne.jp/en/niseko/niseko-rules/.
 - Skipass Rusutsu 2026-27: rusutsu.com/en/winter-lift-tickets/. Bus Bigruns New Chitose-Rusutsu, circa 120 minuti, 5.000 yen online o 5.500, prenotazione entro 7 giorni prima, inverno 28/11/2026-30/03/2027: rusutsu.com/en/access-shuttle-bus-new-chitose-airport/.
 - Kiroro, bus da Sapporo (Ski Bus 10/12/2026-11/04/2027, Powder Express 19/12/2026-28/02/2027), taxi da Otaru da 12.000 yen, circa 40 minuti: kiroro.co.jp/access-winter/.
-- Hakuba Valley, 10 stazioni, 1 giorno 11.100 yen, 7 giorni 74.500: hakubavalley.com/en/ e /en/ticket_en/; tempi da Tokyo 2h50, Kanazawa 2h40, Osaka 4h50: /en/access_en/.
+- Hakuba Valley, 10 stazioni, 1 giorno 11.100 yen, 7 giorni 74.500 (validi 12 giorni dal primo uso): hakubavalley.com/en/ticket_en/; tempi minimi da Tokyo 2h50 (Shinkansen e bus), Kanazawa 2h40 (Shinkansen e linea Oito), Osaka 4h50 (Shinkansen e limited express Shinano/Azusa): /en/access_en/.
+- Rapid Airport New Chitose-Sapporo, il più veloce in 33 minuti: Wikipedia (New Chitose Airport). Shiga Kogen «probabilmente la stazione più grande del Giappone»: Wikipedia.
 - Shinkansen di Hokkaido a Sapporo rimandato verso fine anno fiscale 2038: nippon.com (Jiji Press, marzo 2025).
 
-**Non verificato / generico:** prezzi skipass di Kiroro e Furano (pagine non raggiungibili), prezzi 2026-27 del Hokkaido Resort Liner per Niseko (non ancora pubblicati), tempi Sapporo-Furano e Sapporo-Niseko, costi di alloggio e noleggio, temperature in quota. Le date di apertura della stagione delle singole stazioni a parte Niseko e Rusutsu.
+**Tolto perché non confermato (verifica del 5/11/2026):** proseguimento del Rapid Airport fino a Otaru, tempi Sapporo-Furano, Niseko-Rusutsu e Sapporo-Teine, temperature in quota, tempi di prenotazione dell'alloggio. **Non verificato / generico:** prezzi skipass di Kiroro e Furano, prezzi 2026-27 del Hokkaido Resort Liner, costi di alloggio e noleggio, date di apertura di Kiroro e Furano.
 
 **Note di redazione:** niente foto. Da chiedere a Rick se ha sciato in Giappone e dove.
 

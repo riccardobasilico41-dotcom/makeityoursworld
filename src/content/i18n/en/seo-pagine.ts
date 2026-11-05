@@ -288,6 +288,16 @@ export const seoPaesi: Record<string, SeoPagina> = {
       "Serengeti, Ngorongoro, Tarangire and Lake Manyara, then Zanzibar: visa, park fees, when to see the Great Migration and why to try a camping safari.",
     socialTitle: "A Tanzania safari done right: which season, what it costs, tent or lodge",
   },
+  inghilterra: {
+    seoTitle: "England: London, the Cotswolds, Oxford and Bath in 8 days",
+    seoDescription:
+      "London's free museums, the stone villages of the Cotswolds, Oxford and Bath. Checked practical info: ETA, passport, driving on the left, plugs.",
+  },
+  scozia: {
+    seoTitle: "Scotland by car: Edinburgh, Highlands, Skye and distilleries",
+    seoDescription:
+      "Edinburgh, Glencoe, Skye, Oban, Loch Ness, Speyside and the North Coast 500. Practical info: ETA, driving on the left, single-track roads, drink limit.",
+  },
 }
 
 export const seoMeraviglie: Record<string, SeoPagina> = {

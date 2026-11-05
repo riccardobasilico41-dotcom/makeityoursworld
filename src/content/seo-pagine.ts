@@ -299,6 +299,16 @@ export const seoPaesi: Record<string, SeoPagina> = {
       "Serengeti, Ngorongoro, Tarangire e Manyara, poi Zanzibar: visto, park fee, quando vedere la Grande Migrazione e perché provare il safari in tenda.",
     socialTitle: "Il safari in Tanzania fatto bene: quale stagione, quanto costa, tenda o lodge",
   },
+  inghilterra: {
+    seoTitle: "Inghilterra: Londra, Cotswolds, Oxford e Bath in 8 giorni",
+    seoDescription:
+      "Londra con i musei gratuiti, i villaggi di pietra delle Cotswolds, Oxford e Bath. Scheda pratica verificata: ETA, passaporto, guida a sinistra, prese.",
+  },
+  scozia: {
+    seoTitle: "Scozia in auto: Edimburgo, Highlands, Skye e distillerie",
+    seoDescription:
+      "Edimburgo, Glencoe, Skye, Oban, Loch Ness, lo Speyside e la North Coast 500. Scheda pratica: ETA, guida a sinistra, strade a una corsia, limite alcol.",
+  },
 }
 
 export const seoMeraviglie: Record<string, SeoPagina> = {

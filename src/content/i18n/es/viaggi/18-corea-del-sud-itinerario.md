@@ -1,4 +1,4 @@
-# Corea del Sur en 14 días: de la DMZ a las haenyeo de Jeju
+# Corea del Sur en dos semanas: de la DMZ a las haenyeo de Jeju
 
 **Stato bozza:** 🟡 en elaboración
 **Periodo del viaggio:** primavera u otoño — abril para los cerezos en flor, octubre y principios de noviembre para el follaje

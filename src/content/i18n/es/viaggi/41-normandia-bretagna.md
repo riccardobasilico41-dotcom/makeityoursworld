@@ -1,4 +1,4 @@
-# Normandía y Bretaña en 12 días
+# Normandía y Bretaña en dos semanas
 
 **Stato bozza:** 🟡 en elaboración (itinerario e información práctica verificados)
 **Periodo del viaggio:** **mayo-junio o septiembre**

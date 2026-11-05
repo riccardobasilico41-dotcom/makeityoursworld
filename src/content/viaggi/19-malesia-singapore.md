@@ -1,4 +1,4 @@
-# Malesia e Singapore in 14 giorni: da Kuala Lumpur allo stretto, mangiando
+# Malesia e Singapore in due settimane: da Kuala Lumpur allo stretto, mangiando
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche completi e verificati; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare — mancano date esatte, nomi degli alloggi e prezzi effettivamente pagati)
 **Periodo del viaggio:** da dicembre a marzo [anno da confermare] — la stagione secca della costa ovest, che è quella che questo itinerario percorre

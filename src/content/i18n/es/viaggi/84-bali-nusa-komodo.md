@@ -1,4 +1,4 @@
-# Bali, Nusa Penida, Nusa Lembongan y Komodo en 14 días: arrozales, acantilados y dragones
+# Bali, Nusa Penida, Nusa Lembongan y Komodo en dos semanas: arrozales, acantilados y dragones
 
 **Stato bozza:** 🟡 en preparación (Bali, Nusa Penida y Komodo los ha visto Rick; trayectos, tiempos y precios verificados el 5 de noviembre de 2026 en fuentes oficiales y del sector, que hay que volver a comprobar antes de salir. Horarios y precios de los barcos a las Nusa e importe de la tasa local de las Nusa sin confirmar, por eso quedan genéricos)
 **Periodo del viaggio:** pensado para abril-octubre, la estación seca de Bali. En Komodo la estación seca, con el mar más tranquilo, va de abril a diciembre
@@ -44,7 +44,7 @@ Excursión a **Sidemen**, a los pies del Gunung Agung. Las terrazas son menos tu
 Se baja al puerto de **Sanur** con un conductor, saliendo pronto para evitar el tráfico. En una media hora de barco se llega a **Nusa Lembongan**, la más tranquila de las Nusa. La tarde es para los **manglares**, que se recorren en barquita, y para **Devil's Tear**, el acantilado donde las olas estallan contra la roca. Al atardecer se cruza el **Yellow Bridge**, el puente amarillo que une Lembongan con **Nusa Ceningan**, y se contempla la **Blue Lagoon**. Desde el acantilado uno se tira solo con el mar en calma, y nunca solo.
 
 ### Día 5 — De Lembongan a Nusa Penida: snorkel con mantas
-Por la mañana un barco local lleva de Lembongan a **Nusa Penida** en pocos minutos: se organiza allí mismo con el alojamiento. Hoy es día de mar. La salida de snorkel a **Manta Point** y a las calas cercanas se reserva en Penida o ya en Lembongan. Las mantas suelen estar, pero no siempre, y el mar aquí puede estar agitado: decide la tripulación si se va. Se duerme en Penida, y ese es el truco de los tres días: mañana se llega a los miradores antes que los barcos de Bali.
+Por la mañana un barco local lleva de Lembongan a **Nusa Penida** en pocos minutos: se organiza allí mismo con el alojamiento. Hoy es día de mar. La salida de snorkel a **Manta Point** y a las calas cercanas se reserva en Penida o ya en Lembongan. Las mantas suelen estar, pero no siempre, y el mar aquí puede estar agitado: decide la tripulación si se va. Se duerme en Penida, y ese es el truco de los tres días: mañana se llega a los miradores antes que los barcos de Bali. Yo en Penida pasé tres noches y la recorrí entera con calma, y os las recomiendo: aquí la isla tiene dos noches para que todo quepa en 14 días, pero si tenéis un día más, ponedlo aquí.
 
 ### Día 6 — Nusa Penida: Kelingking, Broken Beach y Angel's Billabong
 Se sale con la primera luz hacia **Kelingking Beach**, la bahía con forma de T-Rex. A mediodía es una cola de gente en un sendero empinado, así que conviene llegar tempranísimo. La bajada a la playa es empinada y cansada: hacen falta zapatillas con buen agarre. Luego **Broken Beach**, el arco de roca sobre el mar, y **Angel's Billabong**, la piscina natural en el acantilado, donde solo se baña uno con marea baja y mar en calma. Quien prefiera la costa este va a **Diamond Beach** y **Atuh**, con menos gente. Las carreteras de Penida son estrechas y llenas de baches: un conductor con coche quita muchas preocupaciones.
@@ -83,7 +83,7 @@ De Uluwatu al aeropuerto hay poco trayecto, pero el tráfico del sur de Bali es 
 - **La danza Kecak en Uluwatu** al atardecer.
 
 ## Consejos prácticos / errores que no repetir
-- **Dormir en Nusa Penida** en lugar de ir y volver en el día desde Bali: es la única forma de tener Kelingking sin cola.
+- **Dormir en Nusa Penida** en lugar de ir y volver en el día desde Bali: es la única forma de tener Kelingking sin cola. Yo pasé allí tres noches y la recomiendo así, recorrida con calma.
 - **Reservar los barcos a las Nusa el día antes** en temporada alta: los últimos se llenan.
 - **No conducir moto en las Nusa** si no tienes experiencia de verdad: carreteras estrechas, empinadas y llenas de baches.
 - **Vuelo a Labuan Bajo a primera hora de la tarde:** el barco desde Penida puede retrasarse.
@@ -97,7 +97,7 @@ De Uluwatu al aeropuerto hay poco trayecto, pero el tráfico del sur de Bali es 
 ## Chiusura personale
 Esta ruta junta la Indonesia más famosa con un trozo de la más salvaje, con trayectos cortos. Bali gusta más vista desde Ubud y desde Uluwatu. Las Nusa hay que tomárselas con calma y con el despertador temprano. Komodo sigue siendo el lugar donde un animal quieto a la sombra consigue impresionar más que cualquier paisaje. Si tienes algún día más, alárgalo: cada una de estas islas merece al menos una semana.
 
-*De Rick vienen la opinión sobre Bali y la danza Kecak, el consejo del primer barco a Nusa Penida, los recuerdos de los dragones, de Rinca y de Padar al amanecer, y los contactos recomendados (Villa Jacques, Pande Wirta, Feby Yastika, Hendra, Kanha Loka). El resto viene de las fichas de destino de la web y de la investigación del 5 de noviembre de 2026: la web Love Bali para la tasa turística, ANTARA para las tarifas del parque de Komodo vigentes desde el 30 de octubre de 2024, operadores y guías del sector para los barcos desde Sanur, la lista de rutas del aeropuerto de Labuan Bajo y los consejos de gov.uk sobre seguridad en barco. Horarios y precios de los barcos y la tasa local de las Nusa hay que comprobarlos de nuevo antes de salir.*
+*De Rick vienen la opinión sobre Bali y la danza Kecak, el consejo del primer barco a Nusa Penida, las tres noches en Penida recorrida con calma, los recuerdos de los dragones, de Rinca y de Padar al amanecer, y los contactos recomendados (Villa Jacques, Pande Wirta, Feby Yastika, Hendra, Kanha Loka). El resto viene de las fichas de destino de la web y de la investigación del 5 de noviembre de 2026: la web Love Bali para la tasa turística, ANTARA para las tarifas del parque de Komodo vigentes desde el 30 de octubre de 2024, operadores y guías del sector para los barcos desde Sanur, la lista de rutas del aeropuerto de Labuan Bajo y los consejos de gov.uk sobre seguridad en barco. Horarios y precios de los barcos y la tasa local de las Nusa hay que comprobarlos de nuevo antes de salir.*
 
 ## Tag
 `#indonesia` `#bali` `#nusapenida` `#nusalembongan` `#komodo` `#labuanbajo` `#padar` `#ubud` `#uluwatu` `#snorkeling` `#duesettimane` `#asia`

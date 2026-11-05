@@ -839,7 +839,8 @@ export const destinazioniThailandia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['thailandia-nord'],
-    imageAlt: 'The White Temple, Wat Rong Khun, in Chiang Rai, Thailand',
+    imageAlt: "The White Temple, Wat Rong Khun, in Chiang Rai, Thailand",
+    immagine: '/images/thailandia/chiang-rai.webp',
   },
   {
     slug: 'triangolo-d-oro',
@@ -849,7 +850,7 @@ export const destinazioniThailandia: Destinazione[] = [
     tipologia: ['cultura', 'storia', 'fiume'],
     giorniConsigliati: '1 day, from Chiang Rai',
     visitataPersonalmente: false,
-    introduzione: 'The point where the Ruak river flows into the Mekong, on the border between Thailand, Laos and Myanmar: since the 1950s one of the world's major opium-producing areas.',
+    introduzione: 'The point where the Ruak river flows into the Mekong, on the border between Thailand, Laos and Myanmar: since the 1950s one of the world\'s major opium-producing areas.',
     percheAndarci: 'For the history more than the scenery: the Hall of Opium tells it well, and Chiang Saen adds the ruins of an ancient town on the Mekong.',
     cosaVedere: [
       'The viewpoint over the confluence at Sop Ruak',
@@ -897,7 +898,8 @@ export const destinazioniThailandia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['thailandia-nord'],
-    imageAlt: 'The confluence of the Ruak river with the Mekong at the Golden Triangle, between Thailand, Laos and Myanmar',
+    imageAlt: "The Ruak river flowing into the Mekong at the Golden Triangle, between Thailand, Laos and Myanmar",
+    immagine: '/images/thailandia/triangolo-d-oro.webp',
   },
   {
     slug: 'pai-mae-hong-son',
@@ -956,6 +958,7 @@ export const destinazioniThailandia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['thailandia-nord'],
-    imageAlt: 'The Pai valley with rice fields and the mountains of northern Thailand',
+    imageAlt: "The Pai countryside with its fields and the mountains of northern Thailand",
+    immagine: '/images/thailandia/pai-mae-hong-son.webp',
   },
 ]

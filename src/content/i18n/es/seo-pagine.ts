@@ -288,6 +288,16 @@ export const seoPaesi: Record<string, SeoPagina> = {
       "Serengeti, Ngorongoro, Tarangire y el lago Manyara, luego Zanzíbar: visado, tasas de los parques, cuándo ver la Gran Migración y el safari en tienda.",
     socialTitle: "Un safari en Tanzania bien hecho: qué época, cuánto cuesta, tienda o lodge",
   },
+  inghilterra: {
+    seoTitle: "Inglaterra: Londres, los Cotswolds, Oxford y Bath en 8 días",
+    seoDescription:
+      "Los museos gratuitos de Londres, los pueblos de piedra de los Cotswolds, Oxford y Bath. Ficha práctica: ETA, pasaporte, conducir por la izquierda.",
+  },
+  scozia: {
+    seoTitle: "Escocia en coche: Edimburgo, Highlands, Skye y destilerías",
+    seoDescription:
+      "Edimburgo, Glencoe, Skye, Oban, el Lago Ness, Speyside y la North Coast 500. Ficha práctica: ETA, conducción por la izquierda, carreteras de un carril.",
+  },
 }
 
 export const seoMeraviglie: Record<string, SeoPagina> = {

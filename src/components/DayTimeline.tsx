@@ -1,4 +1,5 @@
 import Link from '@/components/ui/Link'
+import { linkDestinazione } from '@/lib/link-destinazione'
 import { Route, BedDouble, Coins, Gauge, ArrowUpRight } from 'lucide-react'
 import { Prose } from './Prose'
 import { Reveal } from './Reveal'
@@ -58,6 +59,7 @@ export async function DayTimeline({
     <ol className="space-y-10">
       {giorni.map((giorno, i) => {
         const info = meta?.find((m) => m.titoloGiorno === giorno.titolo)
+        const hrefDestinazione = linkDestinazione(info?.destinazioneSlug, info?.paeseSlug, paeseSlug)
         const numero = giorno.titolo.match(/(?:Giorno|Day|D[ií]a)\s+(\d+)/i)?.[1] ?? String(i + 1)
 
         return (
@@ -116,9 +118,9 @@ export async function DayTimeline({
 
               <Prose className="mt-4 text-sm">{giorno.corpo}</Prose>
 
-              {info?.destinazioneSlug && paeseSlug && (
+              {hrefDestinazione && (
                 <Link
-                  href={`/destinazioni/${paeseSlug}/${info.destinazioneSlug}`}
+                  href={hrefDestinazione}
                   className="mt-4 inline-flex items-center gap-1.5 text-sm font-medium text-rosso hover:text-rosso-dark"
                 >
                   {t.scopri}

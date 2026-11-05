@@ -9,6 +9,8 @@ import { getPaese, getTripMeta } from '@/lib/geo'
 import { copertina } from '@/lib/i18n/contenuti'
 import { PREFISSO_TAPPA } from '@/lib/riepilogo-viaggio'
 import { plain } from '@/components/ui/Rich'
+import { coloreArea } from '@/lib/colori-etichette'
+import { areaDelPaese } from '@/lib/viaggi-filtri'
 import type { Lingua } from '@/lib/i18n/config'
 
 /** I nostri viaggi migliori, nell'ordine in cui compaiono nella fila. */
@@ -84,7 +86,7 @@ export function ViaggiTop({ lingua }: { lingua: Lingua }) {
                   )}
                   <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/65 via-transparent to-transparent" />
                   {paese && (
-                    <p className="absolute bottom-4 left-5 bg-ink px-2 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-cream">{paese.nome}</p>
+                    <p className="absolute bottom-4 left-5 px-2 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-cream" style={{ backgroundColor: coloreArea(areaDelPaese(meta.paeseSlug)) }}>{paese.nome}</p>
                   )}
                 </div>
                 <div className="flex flex-1 flex-col p-6">

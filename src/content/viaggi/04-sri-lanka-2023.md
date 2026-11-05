@@ -1,4 +1,4 @@
-# Sri Lanka in 12 giorni: dai templi antichi al tè di Nuwara Eliya, fino alle spiagge del sud
+# Sri Lanka in due settimane: dai templi antichi al tè di Nuwara Eliya, fino alle spiagge del sud
 
 **Stato bozza:** 🟡 in lavorazione (itinerario completo, orari trasformati in fasce
 orarie descrittive, correzioni rispetto al programma originale e aneddoti

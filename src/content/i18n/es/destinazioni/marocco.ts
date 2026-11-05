@@ -723,7 +723,7 @@ export const destinazioniMarocco: Destinazione[] = [
     nome: 'Chefchaouen',
     tipologia: ['città', 'montagna'],
     giorniConsigliati: '2 noches',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La ciudad azul en las montañas del Rif, fundada en 1471 como fortaleza contra los portugueses. Una medina pequeña, con las casas pintadas de azul, la kasbah en la plaza y montañas alrededor.',
     percheAndarci:
@@ -737,11 +737,11 @@ export const destinazioniMarocco: Destinazione[] = [
     ],
     cosaFare: ['Fotografiar las callejuelas al amanecer', 'Subir a la Mezquita española al atardecer', 'Un día en Akchour, entre gargantas y cascadas'],
     comeArrivare:
-      'No hay tren. Autobuses CTM desde Tánger (unos 110 km) y desde Fez (unos 200 km, 4-5 horas), con billetes en booking.ctm.ma; si no, coche con conductor.',
+      'Por carretera: unos 110 km desde Tánger (unas 2 horas de conducción) y unos 190 km desde Fez (casi 4 horas sin paradas), con coche y conductor o autobuses CTM (servicios y horarios en ctm.ma). No hay tren.',
     comeSpostarsi: 'A pie: la medina es pequeña y toda cuesta arriba.',
     periodoMigliore: 'primavera y otoño',
     erroriDaEvitare: [
-      'Aceptar el cannabis que alguien ofrece por la calle: en Marruecos las drogas de cualquier tipo se castigan con cárcel',
+      'Aceptar el cannabis que alguien ofrece por la calle: Marruecos tiene tolerancia cero con las drogas, con cárcel y multas elevadas',
       'Llegar solo para una tarde: la medina luce a primera hora y por la noche, cuando los grupos de excursión ya se han ido',
     ],
     // GUIDA-START
@@ -749,8 +749,8 @@ export const destinazioniMarocco: Destinazione[] = [
       {
         nome: 'La medina azul',
         testo:
-          'Callejuelas en cuesta y casas pintadas en muchos tonos de azul. Sobre el porqué hay varias versiones: para alejar a los mosquitos, para recordar el cielo o para atraer a los turistas, como cuentan algunos vecinos. Ninguna es segura. La ciudad creció con los andalusíes, los moriscos y los judíos sefardíes llegados de España.',
-        come: 'A pie, sin rumbo. El riad suele mandar a alguien a recoger el equipaje.',
+          'Callejuelas en cuesta y casas pintadas en muchos tonos de azul. Sobre el porqué hay varias versiones: para alejar a los mosquitos, para recordar el cielo o para atraer a los turistas, como cuentan algunos vecinos. Ninguna es segura. La ciudad creció con los andalusíes, los moriscos y los judíos llegados de la península ibérica.',
+        come: 'A pie, sin rumbo. Para el equipaje conviene preguntar al riad si manda a alguien.',
         quando: 'Al amanecer, antes de que lleguen los grupos de excursión.',
         tempo: 'medio día',
         consiglio: 'Muchas puertas y escalinatas son casas privadas: se fotografía sin entrar y sin poner a posar a los niños.',
@@ -766,14 +766,14 @@ export const destinazioniMarocco: Destinazione[] = [
       {
         nome: 'Ras el-Ma',
         testo: 'El manantial al pie de la montaña, justo fuera de la medina, desde donde el agua baja hacia la ciudad.',
-        come: 'A pie desde la plaza, subiendo hacia la puerta este de la medina.',
+        come: 'A pie desde la plaza, está justo fuera de la medina, por el lado este.',
         quando: 'Por la mañana o a última hora de la tarde, antes de subir a la Mezquita española.',
         tempo: '30 minutos',
       },
       {
         nome: 'Mezquita española',
         testo:
-          'La mezquita construida en los años veinte, durante el protectorado español, en la colina frente a la ciudad. Hoy es sobre todo un mirador sobre todo Chefchaouen.',
+          'La mezquita construida por los españoles en los años veinte en la colina frente a la ciudad. Hoy está en desuso y es sobre todo un mirador sobre todo Chefchaouen.',
         come: 'A pie desde Ras el-Ma, por un sendero en subida.',
         quando: 'Al atardecer.',
         tempo: '1 hora con la subida',
@@ -781,7 +781,7 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         nome: 'Akchour',
-        testo: 'Un valle a unos 30 km de Chefchaouen, con las gargantas y las cascadas del río y senderos entre las rocas. Es la excursión del día para quien quiere naturaleza después de la medina.',
+        testo: 'Un valle a unos 30 km de Chefchaouen (40 minutos por carretera), con las gargantas y las cascadas del río y senderos entre las rocas. Es la excursión del día para quien quiere naturaleza después de la medina.',
         come: 'Coche con conductor o taxi desde Chefchaouen.',
         quando: 'En primavera y en otoño.',
         tempo: 'un día',
@@ -816,14 +816,15 @@ export const destinazioniMarocco: Destinazione[] = [
       { nome: 'Té con hierbabuena', testo: 'Se sirve en todas partes, caliente y muy dulce, en los cafés de la plaza.' },
     ],
     attenzioni: [
-      'Quien ofrece cannabis por la calle: en Marruecos la posesión y el consumo se castigan con cárcel, también a los turistas.',
+      'Quien ofrece cannabis por la calle: Marruecos tiene tolerancia cero con las drogas, también para los turistas, con cárcel y multas elevadas.',
       'Falsos guías que se ofrecen para llevarte a la Mezquita española: el sendero es fácil y se hace solo.',
       'Fotos a las personas: hay que pedir permiso antes.',
     ],
     // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['marocco-citta-imperiali'],
-    imageAlt: 'Las callejuelas pintadas de azul de la medina de Chefchaouen, en las montañas del Rif, Marruecos',
+    imageAlt: "Los callejones pintados de azul de la medina de Chefchaouen, en las montañas del Rif, Marruecos",
+    immagine: '/images/marocco/chefchaouen.webp',
   },
   {
     slug: 'fes',
@@ -832,11 +833,11 @@ export const destinazioniMarocco: Destinazione[] = [
     nome: 'Fez',
     tipologia: ['città', 'cultura', 'città imperiale'],
     giorniConsigliati: '2-3 días',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
-      'Fundada en 789 por Idrís I, capital hasta 1912. La ciudad vieja, Fez el-Bali, es Patrimonio de la UNESCO desde 1981 y es una de las mayores zonas urbanas del mundo sin coches.',
+      'Fundada en 789 por Idrís I, capital hasta 1912. La ciudad vieja, Fez el-Bali, es Patrimonio de la UNESCO desde 1981 y es una de las zonas peatonales urbanas más grandes y antiguas del mundo.',
     percheAndarci:
-      'Por la medina más grande y más antigua de Marruecos, con las madrasas meriníes, la Qarawiyyin y las curtidurías. Es el punto donde este itinerario se separa del del desierto.',
+      'Por una de las medinas más grandes y antiguas del mundo, con las madrasas meriníes, la Qarawiyyin y las curtidurías. Es el punto donde este itinerario se separa del del desierto.',
     cosaVedere: [
       'Bab Bou Jeloud',
       'Medersa Bou Inania',
@@ -848,7 +849,7 @@ export const destinazioniMarocco: Destinazione[] = [
     ],
     cosaFare: ['Una mañana con un guía oficial por Fez el-Bali', 'Mirar las curtidurías desde las terrazas', 'El atardecer sobre la medina desde las Tumbas meriníes'],
     comeArrivare:
-      'En tren ONCF desde Mequinez, Rabat y Casablanca; en autobús CTM desde Chefchaouen; aeropuerto de Fès-Saïss con vuelos desde Europa.',
+      'Por carretera desde Chefchaouen (unos 190 km) y desde Mequinez (unos 70 km, una hora de conducción), con coche y conductor o autobús CTM; el tren ONCF es una alternativa. El aeropuerto de Fès-Saïss está a unos 15 km de la medina.',
     comeSpostarsi: 'A pie en la medina, en petit taxi entre la medina, Fez Jdid y la estación.',
     periodoMigliore: 'primavera y otoño; en verano hace mucho calor',
     erroriDaEvitare: [
@@ -869,7 +870,7 @@ export const destinazioniMarocco: Destinazione[] = [
       {
         nome: 'Medersa Bou Inania',
         testo:
-          'Mandada construir por el sultán meriní Abu Inan entre 1350 y 1355. Es la única madrasa de Marruecos que hacía también de mezquita del viernes, con su propio alminar. Enfrente está el antiguo reloj de agua de 1357, que ya no funciona.',
+          'Mandada construir por el sultán meriní Abu Inan entre 1350 y 1355. Es la única madrasa de Marruecos que hacía también de mezquita del viernes, con su propio alminar. Enfrente está el antiguo reloj de agua, terminado en 1357, cuyo mecanismo hoy ya no se comprende.',
         come: 'En la Talaa Kebira, a pocos minutos de Bab Bou Jeloud. La sala de oración no está abierta a los no musulmanes, pero se ve desde el patio.',
         quando: 'A primera hora. Fuera de las horas de oración.',
         tempo: '30-45 minutos',
@@ -885,7 +886,7 @@ export const destinazioniMarocco: Destinazione[] = [
       {
         nome: 'La Qarawiyyin',
         testo:
-          'La mezquita fundada en 857-859 por Fátima al-Fihri, que luego se convirtió en una de las instituciones de estudio más antiguas del mundo todavía en activo. Es el centro de la medina.',
+          'La mezquita fundada en 857-859, según la tradición por Fátima al-Fihri, que luego se convirtió en un centro de estudios que la UNESCO cita como la institución de enseñanza superior en activo más antigua del mundo. Es el centro de la medina.',
         come: 'Los no musulmanes no entran: por las puertas abiertas se ven una parte del patio y del interior.',
         tempo: '15 minutos',
         consiglio: 'No quedarse mucho rato delante de las puertas durante la oración.',
@@ -893,7 +894,7 @@ export const destinazioniMarocco: Destinazione[] = [
       {
         nome: 'Curtidurías Chouara',
         testo:
-          'La curtiduría más grande de la medina, con las tinas de piedra llenas de tintes donde se trabajan las pieles como desde hace siglos. Restaurada hace unos años y mantenida en su sitio. El olor es fuerte.',
+          'La curtiduría más grande de la ciudad, con las tinas de piedra llenas de tintes donde se trabajan las pieles como desde hace siglos. Es de las más antiguas de la ciudad, restaurada en el siglo XXI y mantenida en su sitio. El olor es fuerte.',
         come: 'Se mira desde arriba, desde las terrazas de las tiendas de piel de alrededor, que piden pasar por la tienda.',
         quando: 'Por la mañana, cuando las tinas están en uso.',
         tempo: '30 minutos',
@@ -902,21 +903,21 @@ export const destinazioniMarocco: Destinazione[] = [
       {
         nome: 'Fez Jdid y el Mellah',
         testo:
-          'La ciudad nueva construida por los benimerines en el siglo XIII, con las grandes puertas del Palacio Real y el Mellah, el antiguo barrio judío, con casas de balcones hacia la calle.',
+          'La ciudad nueva fundada por los benimerines en 1276, con las grandes puertas del Palacio Real y el Mellah, el antiguo barrio judío.',
         come: 'Petit taxi, o a pie desde Bab Bou Jeloud pasando por Jnan Sbil. El Palacio Real solo se ve por fuera.',
         quando: 'Por la tarde.',
         tempo: '2 horas',
       },
       {
         nome: 'Jnan Sbil',
-        testo: 'Los jardines históricos entre Fez el-Bali y Fez Jdid, con paseos, estanques y árboles: la pausa a la sombra del día.',
+        testo: 'Los jardines históricos entre Fez el-Bali y Fez Jdid, trazados en el siglo XIX bajo Moulay Hassan I: la pausa a la sombra del día.',
         come: 'A pie desde Bab Bou Jeloud.',
         tempo: '30-45 minutos',
       },
       {
         nome: 'Las Tumbas meriníes',
         testo: 'Las ruinas en las colinas al norte de la medina. El motivo para subir es la vista: todo Fez el-Bali debajo, con los tejados y los alminares.',
-        come: 'En petit taxi. Mejor no volver a pie solo cuando ya es de noche.',
+        come: 'En petit taxi, acordando también la vuelta.',
         quando: 'Antes del atardecer.',
         tempo: '1 hora',
       },
@@ -948,8 +949,8 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         nome: 'Ville Nouvelle',
-        perChi: 'quien llega en tren o busca comodidad',
-        testo: 'La ciudad moderna, con hoteles de cadena y restaurantes, cerca de la estación. Para la medina hace falta taxi.',
+        perChi: 'quien llega en coche o busca comodidad',
+        testo: 'La ciudad moderna, con hoteles de cadena y restaurantes, más fácil de alcanzar en coche. Para la medina hace falta taxi.',
       },
     ],
     sapori: [
@@ -967,7 +968,8 @@ export const destinazioniMarocco: Destinazione[] = [
     // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['marocco-citta-imperiali'],
-    imageAlt: 'Los tejados de la medina de Fez el-Bali vistos desde arriba, con los alminares, Marruecos',
+    imageAlt: "Los tejados de la medina de Fez el-Bali vistos desde las Tumbas meriníes, con los minaretes, Marruecos",
+    immagine: '/images/marocco/fes.webp',
   },
   {
     slug: 'meknes-volubilis',
@@ -976,7 +978,7 @@ export const destinazioniMarocco: Destinazione[] = [
     nome: 'Mequinez y Volubilis',
     tipologia: ['città', 'storia', 'città imperiale', 'archeologia'],
     giorniConsigliati: '1-2 días',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Mequinez es la ciudad de Moulay Ismail, que la hizo capital y reinó de 1672 a 1727: Patrimonio de la UNESCO desde 1996. A unos 30 km están las ruinas romanas de Volubilis, Patrimonio de la UNESCO desde 1997, y la ciudad santa de Moulay Idriss.',
     percheAndarci:
@@ -990,7 +992,7 @@ export const destinazioniMarocco: Destinazione[] = [
       'Moulay Idriss Zerhoun',
     ],
     cosaFare: ['Volubilis a primera hora', 'Un paseo por libre por la medina de Mequinez'],
-    comeArrivare: 'En tren ONCF desde Fez (unos 40 minutos) o desde Rabat (unas 2 horas y media). Mequinez tiene dos estaciones.',
+    comeArrivare: 'En coche desde Fez (unos 70 km, una hora de conducción) o desde Rabat (unos 140 km, casi 2 horas). El tren ONCF es una alternativa: Mequinez tiene dos estaciones.',
     comeSpostarsi: 'A pie en la medina, petit taxi en la ciudad, taxi o coche con conductor para Volubilis y Moulay Idriss.',
     periodoMigliore: 'primavera y otoño; en Volubilis el sol de verano aprieta',
     erroriDaEvitare: [
@@ -1002,32 +1004,32 @@ export const destinazioniMarocco: Destinazione[] = [
       {
         nome: 'Volubilis',
         testo:
-          'Habitada ya en el siglo III a. C., fue capital del reino de Mauritania y luego ciudad romana desde el 44 d. C. A finales del siglo II tenía unos 20.000 habitantes y vivía del aceite de oliva. Roma la abandonó hacia el 285. Quedan el Decumano Máximo, la basílica, el Capitolio, el Arco de Caracalla del 217 y los mosaicos de las casas, como los Trabajos de Hércules y Orfeo.',
-        come: 'Unos 30 km desde Mequinez en taxi o coche con conductor; unos 95 km desde Fez. Se visita a pie siguiendo el recorrido del yacimiento.',
+          'Habitada ya en el siglo III a. C., quizá capital del reino de Mauritania, pasó a ser romana cuando Roma anexionó Mauritania en el 44 d. C. A finales del siglo II tenía unos 20.000 habitantes y vivía del aceite de oliva. Hacia el 285 cayó en manos de las tribus locales y Roma ya no la recuperó. Quedan el Decumano Máximo, la basílica, el Capitolio, el Arco de Caracalla del 217 y los mosaicos de las casas, como los Trabajos de Hércules y Orfeo.',
+        come: 'Unos 30 km al norte de Mequinez (media hora por carretera) y unos 70 km desde Fez (una hora y media), en coche con conductor o taxi. Se visita a pie siguiendo el recorrido del yacimiento.',
         quando: 'A primera hora: el yacimiento está al aire libre y casi sin sombra.',
         tempo: '2 horas',
-        consiglio: 'Sombrero, agua y calzado cerrado. Un guía en la entrada ayuda a leer las ruinas.',
+        consiglio: 'Sombrero, agua y calzado cerrado. Un guía ayuda a leer las ruinas.',
       },
       {
         nome: 'Moulay Idriss Zerhoun',
         testo:
-          'La ciudad santa construida alrededor del mausoleo de Idrís I, que en Volubilis fundó en 787-788 la dinastía idrisí y allí murió asesinado en 791. Está a pocos kilómetros de las ruinas, en las colinas.',
-        come: 'Con el mismo taxi de Volubilis. El mausoleo es un lugar de peregrinación y por norma no está abierto a los no musulmanes.',
+          'La ciudad santa construida alrededor del mausoleo de Idrís I, que en Volubilis fundó en 787-788 la dinastía idrisí y allí murió asesinado en 791. El mausoleo actual lo reconstruyó Moulay Ismail a principios del siglo XVIII. Está a pocos kilómetros de las ruinas, en las colinas.',
+        come: 'Con el mismo taxi de Volubilis. El mausoleo es un lugar de peregrinación y no está abierto a los no musulmanes.',
         quando: 'Después de Volubilis, a media mañana.',
         tempo: '1 hora',
-        consiglio: 'Subir a un mirador sobre el pueblo para verlo desde arriba.',
+        consiglio: 'Subir a la colina más alta del pueblo, desde donde se ve todo el conjunto religioso.',
       },
       {
         nome: 'Bab Mansour y la plaza el-Hedim',
         testo:
-          'La puerta monumental que empezó Moulay Ismail y terminó en 1732 su hijo Moulay Abdallah, y que toma el nombre de Mansour al-Alj, un cristiano convertido al islam. Delante está la plaza el-Hedim, cuyo nombre significa "escombros": viene de las demoliciones hechas para abrirla.',
+          'La puerta monumental que empezó Moulay Ismail y terminó en 1732 su hijo Moulay Abdallah, y que toma el nombre de Mansour al-Alj, un antiguo esclavo cristiano convertido al islam. Delante está la plaza el-Hedim, cuyo nombre significa "escombros": viene de las demoliciones hechas para abrirla.',
         come: 'A pie, en la entrada de la medina.',
         quando: 'A última hora de la tarde, cuando la plaza se anima.',
         tempo: '30 minutos',
       },
       {
         nome: 'Mausoleo de Moulay Ismail',
-        testo: 'La tumba del sultán, reformada entre 1727 y 1729. Es un lugar religioso abierto también a los visitantes.',
+        testo: 'La tumba del sultán. Sigue siendo un lugar religioso, abierto también a los turistas.',
         come: 'A pie desde Bab Mansour, en la ciudad imperial. Ropa que cubra y silencio.',
         tempo: '30 minutos',
       },
@@ -1040,13 +1042,13 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         nome: 'Medersa Bou Inania de Mequinez',
-        testo: 'La madrasa meriní que empezó hacia 1335-36 el sultán Abu al-Hasan y que lleva el nombre de su hijo Abu Inan. Está abierta a los visitantes.',
+        testo: 'La madrasa meriní fundada en 1335-36 por el sultán Abu al-Hasan y que hoy lleva el nombre de su hijo Abu Inan.',
         come: 'En la medina, a pie desde el-Hedim.',
         tempo: '30 minutos',
       },
       {
         nome: 'Museo Dar Jamai',
-        testo: 'Un palacio de 1882, construido por un gran visir del sultán, que hoy acoge un museo asomado a la plaza el-Hedim.',
+        testo: 'Un palacio de 1882, construido por un gran visir del sultán Moulay Hassan, que hoy acoge un museo asomado a la plaza el-Hedim.',
         come: 'En la plaza el-Hedim.',
         tempo: '45 minutos',
       },
@@ -1069,24 +1071,25 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         nome: 'Ville Nouvelle',
-        perChi: 'quien viaja en tren',
-        testo: 'Hoteles más fáciles de alcanzar desde la estación; para la medina hace falta taxi.',
+        perChi: 'quien llega en coche',
+        testo: 'Hoteles más fáciles de alcanzar en coche; para la medina hace falta taxi.',
       },
     ],
     sapori: [
-      { nome: 'Aceitunas y aceite de la llanura', testo: 'La zona de Volubilis y Mequinez es tierra de olivos desde hace dos mil años.' },
+      { nome: 'Aceitunas y aceite de la llanura', testo: 'La zona de Volubilis y Mequinez es tierra de olivos desde la época romana.' },
       { nome: 'Tajín', testo: 'En los restaurantes alrededor de el-Hedim.' },
       { nome: 'Harira', testo: 'La sopa de legumbres que se encuentra en todas partes.' },
     ],
     attenzioni: [
-      'En Volubilis hay guías que se ofrecen en la entrada: acordar precio y duración antes de empezar.',
+      'En Volubilis hay guías que se ofrecen: acordar precio y duración antes de empezar, y pedir la acreditación oficial.',
       'El taxi a Volubilis y Moulay Idriss hay que acordarlo antes, con la espera y la vuelta incluidas.',
       'Ropa que cubra en Moulay Idriss, que es una ciudad santa.',
     ],
     // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['marocco-citta-imperiali'],
-    imageAlt: 'Las columnas y el Arco de Caracalla entre las ruinas romanas de Volubilis, cerca de Mequinez, Marruecos',
+    imageAlt: "El Arco de Caracalla entre las ruinas romanas de Volubilis, cerca de Mequinez, Marruecos",
+    immagine: '/images/marocco/meknes-volubilis.webp',
   },
   {
     slug: 'rabat',
@@ -1095,9 +1098,9 @@ export const destinazioniMarocco: Destinazione[] = [
     nome: 'Rabat (y la Mezquita Hassan II de Casablanca)',
     tipologia: ['città', 'cultura', 'città imperiale', 'mare'],
     giorniConsigliati: '1-2 días, más medio día en Casablanca',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
-      'La capital de Marruecos desde 1956, en la desembocadura del Bu Regreg, frente a Salé. Patrimonio de la UNESCO desde 2012, con la ciudad vieja y la moderna. A un trayecto corto en tren está Casablanca, con la Mezquita Hassan II.',
+      'La capital de Marruecos desde 1912, y lo siguió siendo tras la independencia de 1956, en la desembocadura del Bu Regreg, frente a Salé. Patrimonio de la UNESCO desde 2012, con la ciudad vieja y la moderna. A unos 95 km por carretera está Casablanca, con la Mezquita Hassan II.',
     percheAndarci:
       'Por la Kasbah de los Udayas sobre el mar, la Torre Hassan y el Chellah, en una ciudad ordenada donde se pasea sin presiones. Luego Casablanca por su mezquita.',
     cosaVedere: [
@@ -1110,7 +1113,7 @@ export const destinazioniMarocco: Destinazione[] = [
     ],
     cosaFare: ['El mirador de la kasbah sobre el río y el Atlántico', 'El tour guiado de la Mezquita Hassan II'],
     comeArrivare:
-      'En tren ONCF: Al Boraq desde Tánger (alrededor de 1 hora y 20) y desde Casablanca; trenes desde Mequinez y Fez. Las estaciones son Rabat Ville y Rabat Agdal. También está el aeropuerto de Rabat-Salé.',
+      'En coche desde Mequinez (unos 140 km, casi 2 horas) y desde Casablanca (unos 95 km, poco más de una hora). El tren ONCF es una alternativa, con las estaciones de Rabat Ville y Rabat Agdal. También está el aeropuerto de Rabat-Salé.',
     comeSpostarsi: 'A pie y en tranvía, que une Rabat y Salé desde 2011.',
     periodoMigliore: 'todo el año, con la primavera y el otoño más agradables',
     erroriDaEvitare: [
@@ -1136,7 +1139,7 @@ export const destinazioniMarocco: Destinazione[] = [
       {
         nome: 'Torre Hassan y Mausoleo de Mohammed V',
         testo:
-          'La Torre Hassan es el alminar nunca terminado de la gran mezquita que mandó construir el sultán almohade Yaqub al-Mansur en el siglo XII. Enfrente está el Mausoleo de Mohammed V, terminado en 1971, donde también están enterrados el rey Hassan II y el príncipe Abdallah, con la guardia real en la entrada.',
+          'La Torre Hassan es el alminar nunca terminado de la gran mezquita que mandó construir el sultán almohade Yaqub al-Mansur, empezada en 1191 y dejada sin terminar a su muerte, en 1199. Al lado está el Mausoleo de Mohammed V, terminado en 1971, donde también están enterrados sus hijos, el rey Hassan II y el príncipe Abdallah, con la guardia de honor en la entrada.',
         come: 'A pie o en tranvía. La explanada está abierta.',
         quando: 'Por la mañana o a última hora de la tarde.',
         tempo: '1 hora',
@@ -1145,7 +1148,7 @@ export const destinazioniMarocco: Destinazione[] = [
       {
         nome: 'Chellah',
         testo:
-          'El lugar donde se superponen las ruinas de la ciudad romana de Sala y la necrópolis de los benimerines, iniciada en 1284-85. La puerta principal es de 1339. En los árboles y en el viejo alminar anidan las cigüeñas. Cada año acoge el festival Jazz au Chellah.',
+          'El lugar donde se superponen las ruinas de la ciudad romana de Sala y la necrópolis de los benimerines, iniciada en 1284-85. La puerta principal es de 1339. En los árboles y en el viejo alminar anidan las cigüeñas. Las ruinas han acogido durante años el festival Jazz au Chellah.',
         come: 'Petit taxi, o a pie desde la Torre Hassan.',
         quando: 'Por la tarde, cuando la luz es más suave.',
         tempo: '1 hora',
@@ -1154,13 +1157,13 @@ export const destinazioniMarocco: Destinazione[] = [
         nome: 'Mezquita Hassan II (Casablanca)',
         testo:
           'La gran mezquita sobre el mar de Casablanca, una de las pocas de Marruecos que pueden visitar los no musulmanes, solo con el tour guiado. El tour pasa por la sala de oración, la sala del alminar y las salas de abluciones.',
-        come: 'Al Boraq desde Rabat Agdal hasta Casa Voyageurs, luego taxi. Entrada en la mezquita para el turno.',
+        come: 'En coche desde Rabat, unos 95 km por la costa.',
         quando:
-          'Del 16 de septiembre al 14 de marzo: de sábado a jueves a las 9, 10, 11, 12 y 15; viernes a las 9, 10 y 15. Del 15 de marzo al 15 de septiembre también a las 16. Durante el Ramadán los horarios cambian.',
+          'Turnos guiados varias veces al día, por la mañana y a primera hora de la tarde; el viernes hay menos. Los horarios actualizados están en fmh2.ma, donde se indican en hora GMT.',
         tempo: '1 hora',
-        costo: '140 MAD para adultos extranjeros (2026)',
+        costo: '140 MAD para adultos extranjeros (fmh2.ma, noviembre de 2026)',
         url: 'https://fmh2.ma/',
-        consiglio: 'Hombros y rodillas cubiertos, nada de pantalón corto ni camisetas de tirantes. Los zapatos se quitan en la entrada.',
+        consiglio: 'Hombros, torso y piernas cubiertos hasta debajo de las rodillas: nada de pantalón corto ni camisetas de tirantes. Los zapatos se quitan en la entrada, con las bolsas que dan en la puerta.',
       },
     ],
     programmi: [
@@ -1170,7 +1173,7 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         titolo: '2 días',
-        tappe: ['Día 1: como arriba', 'Día 2: Al Boraq a Casablanca y tour de la Mezquita Hassan II'],
+        tappe: ['Día 1: como arriba', 'Día 2: en coche a Casablanca y tour de la Mezquita Hassan II'],
       },
     ],
     zone: [
@@ -1181,8 +1184,8 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         nome: 'Centro moderno y Agdal',
-        perChi: 'quien viaja en tren',
-        testo: 'Hoteles cerca de las estaciones de Rabat Ville y Rabat Agdal, con el tranvía para la medina.',
+        perChi: 'quien llega en coche o busca comodidad',
+        testo: 'Hoteles en la ciudad moderna, con el tranvía para la medina.',
       },
     ],
     sapori: [
@@ -1190,13 +1193,14 @@ export const destinazioniMarocco: Destinazione[] = [
       { nome: 'Té con hierbabuena', testo: 'En los cafés de la kasbah y de la medina.' },
     ],
     attenzioni: [
-      'En la Mezquita Hassan II solo se entra con el tour guiado y con ropa que cubra: los revendedores online cobran más que la entrada en la mezquita.',
+      'En la Mezquita Hassan II solo se entra con el tour guiado y con ropa que cubra: el precio oficial es el del sitio fmh2.ma.',
       'Carteristas en las zonas con mucha gente y en las playas.',
       'Taxis: pedir el taxímetro o acordar el precio antes.',
     ],
     // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['marocco-citta-imperiali'],
-    imageAlt: 'La puerta almohade de Bab Oudaya y las murallas de la Kasbah de los Udayas en Rabat, Marruecos',
+    imageAlt: "La puerta almohade de Bab Oudaya y las murallas de la Kasbah de los Udayas en Rabat, Marruecos",
+    immagine: '/images/marocco/rabat.webp',
   },
 ]

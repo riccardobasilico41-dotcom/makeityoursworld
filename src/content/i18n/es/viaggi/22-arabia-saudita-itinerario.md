@@ -1,4 +1,4 @@
-# Arabia Saudí en 12 días: Yeda, Hegra, Riad y las montañas del Asir
+# Arabia Saudí en dos semanas: Yeda, Hegra, Riad y las montañas del Asir
 
 **Stato bozza:** 🟡 en elaboración
 **Periodo del viaggio:** de noviembre a marzo, con la excepción del Asir, donde la buena estación es el verano

@@ -1,4 +1,4 @@
-# Le due Irlande: dalla Repubblica all'Irlanda del Nord in 12 giorni
+# Le due Irlande: dalla Repubblica all'Irlanda del Nord in due settimane
 
 **Stato bozza:** 🟡 in lavorazione (guida costruita sulla ricerca, non un viaggio fatto da Rick: niente ricordi personali. Documenti, ETA, guida, prezzi e storia verificati a novembre 2026 su ireland.com, gov.uk, nidirect.gov.uk, heritageireland.ie, cliffsofmoher.ie, National Trust, ONS e Wikipedia; orari e prezzi vanno ricontrollati prima di partire)
 **Periodo del viaggio:** pensato per maggio-settembre, con giornate lunghe; maggio e giugno sono di solito i mesi più soleggiati
@@ -93,7 +93,7 @@ La mattina un giro con una guida del posto tra i **murales** di Falls Road e Sha
 
 **Al contrario.** L'anello si può fare anche in senso orario, prima Belfast e il nord, poi la costa atlantica. Cambia poco: conviene scegliere in base ai voli e alle notti libere a Dublino.
 
-**Con la Scozia.** La Scozia è vicina e si combina bene con questo giro, soprattutto partendo da Belfast. I collegamenti vanno controllati al momento.
+**Con la Scozia.** La Scozia è vicina e si combina bene con questo giro, con il [viaggio in Scozia in auto](/viaggi/scozia-highlands-distillerie), soprattutto partendo da Belfast. I collegamenti vanno controllati al momento.
 
 ## Consigli pratici / errori da non ripetere
 - **Passaporto ed ETA per tutti**, anche se si entra al nord solo per un giorno. Con la sola carta d'identità nell'Irlanda del Nord non si entra.

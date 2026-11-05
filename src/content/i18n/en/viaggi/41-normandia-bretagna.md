@@ -1,4 +1,4 @@
-# Normandy and Brittany in 12 Days
+# Normandy and Brittany in Two Weeks
 
 **Stato bozza:** 🟡 work in progress (itinerary and practical information verified)
 **Periodo del viaggio:** **May-June or September**

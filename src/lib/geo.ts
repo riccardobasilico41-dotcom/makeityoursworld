@@ -248,11 +248,22 @@ import { classicJapanMeta } from '@/content/viaggi-dati/classic-japan'
 import { okinawaEstateMeta } from '@/content/viaggi-dati/okinawa-estate'
 import { hokkaidoSciGiapponeMeta } from '@/content/viaggi-dati/hokkaido-sci-giappone'
 import { messicoYucatanCompletoMeta } from '@/content/viaggi-dati/messico-yucatan-completo'
+import { inghilterra } from '@/content/paesi/inghilterra'
+import { destinazioniInghilterra } from '@/content/destinazioni/inghilterra'
+import { scozia } from '@/content/paesi/scozia'
+import { destinazioniScozia } from '@/content/destinazioni/scozia'
+import { irlanda } from '@/content/paesi/irlanda'
+import { destinazioniIrlanda } from '@/content/destinazioni/irlanda'
+import { irlandaDelNord } from '@/content/paesi/irlanda-del-nord'
+import { destinazioniIrlandaDelNord } from '@/content/destinazioni/irlanda-del-nord'
+import { londraCotswoldsMeta } from '@/content/viaggi-dati/londra-cotswolds'
+import { scoziaHighlandsDistillerieMeta } from '@/content/viaggi-dati/scozia-highlands-distillerie'
+import { irlandaDueIrlandeMeta } from '@/content/viaggi-dati/irlanda-due-irlande'
 
 // Registro dei Paesi disponibili. Aggiungere un nuovo Paese = aggiungere una
 // riga qui più i relativi file in src/content/{paesi,destinazioni,esperienze}.
-const PAESI: Paese[] = [italia, messico, norvegia, islanda, svezia, giordania, sriLanka, giappone, thailandia, marocco, newYork, florida, transilvania, bulgaria, costaRica, indonesia, guatemala, belize, panama, peru, bolivia, cina, coreaDelSud, malesia, borneo, singapore, emiratiArabiUniti, qatar, arabiaSaudita, francia, polonia, svizzera, paesiBassi, portogallo, repubblicaCeca, austria, ungheria, germania, lituania, lettonia, estonia, danimarca, spagna, egitto, turchia, filippine, california, brasile, croazia, india, maldive, montenegro, canada, tanzania]
-const DESTINAZIONI: Destinazione[] = [...destinazioniMessico, ...destinazioniNorvegia, ...destinazioniIslanda, ...destinazioniSvezia, ...destinazioniGiordania, ...destinazioniSriLanka, ...destinazioniGiappone, ...destinazioniThailandia, ...destinazioniMarocco, ...destinazioniNewYork, ...destinazioniFlorida, ...destinazioniTransilvania, ...destinazioniBulgaria, ...destinazioniCostaRica, ...destinazioniIndonesia, ...destinazioniGuatemala, ...destinazioniBelize, ...destinazioniPanama, ...destinazioniPeru, ...destinazioniBolivia, ...destinazioniCina, ...destinazioniCoreaDelSud, ...destinazioniMalesia, ...destinazioniBorneo, ...destinazioniSingapore, ...destinazioniEmiratiArabiUniti, ...destinazioniQatar, ...destinazioniArabiaSaudita, ...destinazioniItalia, ...destinazioniFrancia, ...destinazioniPolonia, ...destinazioniSvizzera, ...destinazioniPaesiBassi, ...destinazioniPortogallo, ...destinazioniRepubblicaCeca, ...destinazioniAustria, ...destinazioniUngheria, ...destinazioniGermania, ...destinazioniLituania, ...destinazioniLettonia, ...destinazioniEstonia, ...destinazioniDanimarca, ...destinazioniSpagna, ...destinazioniEgitto, ...destinazioniTurchia, ...destinazioniFilippine, ...destinazioniCalifornia, ...destinazioniBrasile, ...destinazioniCroazia, ...destinazioniIndia, ...destinazioniMaldive, ...destinazioniMontenegro, ...destinazioniMessicoCentroBaja, ...destinazioniCanada, ...destinazioniTanzania]
+const PAESI: Paese[] = [italia, messico, norvegia, islanda, svezia, giordania, sriLanka, giappone, thailandia, marocco, newYork, florida, transilvania, bulgaria, costaRica, indonesia, guatemala, belize, panama, peru, bolivia, cina, coreaDelSud, malesia, borneo, singapore, emiratiArabiUniti, qatar, arabiaSaudita, francia, polonia, svizzera, paesiBassi, portogallo, repubblicaCeca, austria, ungheria, germania, lituania, lettonia, estonia, danimarca, spagna, egitto, turchia, filippine, california, brasile, croazia, india, maldive, montenegro, canada, tanzania, inghilterra, scozia, irlanda, irlandaDelNord]
+const DESTINAZIONI: Destinazione[] = [...destinazioniMessico, ...destinazioniNorvegia, ...destinazioniIslanda, ...destinazioniSvezia, ...destinazioniGiordania, ...destinazioniSriLanka, ...destinazioniGiappone, ...destinazioniThailandia, ...destinazioniMarocco, ...destinazioniNewYork, ...destinazioniFlorida, ...destinazioniTransilvania, ...destinazioniBulgaria, ...destinazioniCostaRica, ...destinazioniIndonesia, ...destinazioniGuatemala, ...destinazioniBelize, ...destinazioniPanama, ...destinazioniPeru, ...destinazioniBolivia, ...destinazioniCina, ...destinazioniCoreaDelSud, ...destinazioniMalesia, ...destinazioniBorneo, ...destinazioniSingapore, ...destinazioniEmiratiArabiUniti, ...destinazioniQatar, ...destinazioniArabiaSaudita, ...destinazioniItalia, ...destinazioniFrancia, ...destinazioniPolonia, ...destinazioniSvizzera, ...destinazioniPaesiBassi, ...destinazioniPortogallo, ...destinazioniRepubblicaCeca, ...destinazioniAustria, ...destinazioniUngheria, ...destinazioniGermania, ...destinazioniLituania, ...destinazioniLettonia, ...destinazioniEstonia, ...destinazioniDanimarca, ...destinazioniSpagna, ...destinazioniEgitto, ...destinazioniTurchia, ...destinazioniFilippine, ...destinazioniCalifornia, ...destinazioniBrasile, ...destinazioniCroazia, ...destinazioniIndia, ...destinazioniMaldive, ...destinazioniMontenegro, ...destinazioniMessicoCentroBaja, ...destinazioniCanada, ...destinazioniTanzania, ...destinazioniInghilterra, ...destinazioniScozia, ...destinazioniIrlanda, ...destinazioniIrlandaDelNord]
 const ESPERIENZE: Esperienza[] = [...esperienzeMessico, ...esperienzeNorvegia, ...esperienzeIslanda, ...esperienzeSvezia, ...esperienzeGiordania, ...esperienzeSriLanka, ...esperienzeGiappone, ...esperienzeThailandia, ...esperienzeMarocco, ...esperienzeNewYork, ...esperienzeFlorida, ...esperienzeTransilvania, ...esperienzeBulgaria, ...esperienzeCostaRica, ...esperienzeIndonesia, ...esperienzeGuatemala, ...esperienzeBelize, ...esperienzePanama, ...esperienzePeru, ...esperienzeBolivia, ...esperienzeCina, ...esperienzeCoreaDelSud, ...esperienzeMalesia, ...esperienzeBorneo, ...esperienzeSingapore, ...esperienzeEmiratiArabiUniti, ...esperienzeQatar, ...esperienzeArabiaSaudita, ...esperienzeItalia, ...esperienzeFrancia, ...esperienzePolonia, ...esperienzeSvizzera, ...esperienzePaesiBassi, ...esperienzePortogallo, ...esperienzeRepubblicaCeca, ...esperienzeAustria, ...esperienzeUngheria, ...esperienzeGermania, ...esperienzeLituania, ...esperienzeLettonia, ...esperienzeEstonia, ...esperienzeDanimarca, ...esperienzeSpagna, ...esperienzeTanzania]
 
 const TRIP_META: TripMeta[] = [
@@ -348,6 +359,9 @@ const TRIP_META: TripMeta[] = [
   okinawaEstateMeta,
   hokkaidoSciGiapponeMeta,
   messicoYucatanCompletoMeta,
+  londraCotswoldsMeta,
+  scoziaHighlandsDistillerieMeta,
+  irlandaDueIrlandeMeta,
 ]
 
 // Le schede dati dei viaggi contengono appunti di lavoro ("(da confermare quale)",

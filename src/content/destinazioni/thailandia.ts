@@ -847,7 +847,8 @@ export const destinazioniThailandia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['thailandia-nord'],
-    imageAlt: 'Il Tempio Bianco, Wat Rong Khun, a Chiang Rai, Thailandia',
+    imageAlt: "Il Tempio Bianco, Wat Rong Khun, a Chiang Rai, Thailandia",
+    immagine: '/images/thailandia/chiang-rai.webp',
   },
   {
     slug: 'triangolo-d-oro',
@@ -905,7 +906,8 @@ export const destinazioniThailandia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['thailandia-nord'],
-    imageAlt: 'La confluenza del fiume Ruak nel Mekong al Triangolo d\'oro, tra Thailandia, Laos e Myanmar',
+    imageAlt: "La confluenza del fiume Ruak nel Mekong al Triangolo d'oro, tra Thailandia, Laos e Myanmar",
+    immagine: '/images/thailandia/triangolo-d-oro.webp',
   },
   {
     slug: 'pai-mae-hong-son',
@@ -964,6 +966,7 @@ export const destinazioniThailandia: Destinazione[] = [
     ],
     esperienzeSlugs: [],
     tripSlugs: ['thailandia-nord'],
-    imageAlt: 'La valle di Pai con le risaie e le montagne del nord della Thailandia',
+    imageAlt: "La campagna di Pai con i campi e le montagne del nord della Thailandia",
+    immagine: '/images/thailandia/pai-mae-hong-son.webp',
   },
 ]

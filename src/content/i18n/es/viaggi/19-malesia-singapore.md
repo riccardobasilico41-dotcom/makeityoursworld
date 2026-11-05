@@ -1,4 +1,4 @@
-# Malasia y Singapur en 14 días: de Kuala Lumpur al estrecho, comiendo
+# Malasia y Singapur en dos semanas: de Kuala Lumpur al estrecho, comiendo
 
 **Stato bozza:** 🟡 en elaboración
 **Periodo del viaggio:** de diciembre a marzo, la estación seca de la costa oeste, que es la que recorre este itinerario

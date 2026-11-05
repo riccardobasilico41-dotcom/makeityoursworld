@@ -2,6 +2,7 @@
 
 import { forwardRef } from 'react'
 import Link from '@/components/ui/Link'
+import { linkDestinazione } from '@/lib/link-destinazione'
 import Image from 'next/image'
 import { Route, BedDouble, Coins, Gauge, ArrowUpRight, ClipboardList } from 'lucide-react'
 import { Prose } from '@/components/Prose'
@@ -65,6 +66,7 @@ export const DayTimelineSignature = forwardRef<
     <ol ref={ref} className="space-y-16 sm:space-y-24">
       {giorni.map((giorno, i) => {
         const info = meta.find((m) => m.titoloGiorno === giorno.titolo)
+        const hrefDestinazione = linkDestinazione(info?.destinazioneSlug, info?.paeseSlug, paeseSlug)
         const numero = numeroGiorno(giorno.titolo, i)
         const { data, luogo } = partiGiorno(giorno.titolo)
         const unita = etichetta(unitaLabel, lingua)
@@ -146,9 +148,9 @@ export const DayTimelineSignature = forwardRef<
                   </div>
                 )}
 
-                {info?.destinazioneSlug && (
+                {hrefDestinazione && (
                   <Link
-                    href={`/destinazioni/${paeseSlug}/${info.destinazioneSlug}`}
+                    href={hrefDestinazione}
                     className="mt-4 inline-flex min-h-11 items-center gap-1.5 text-sm font-medium text-rosso hover:text-rosso-dark"
                   >
                     {t.scopri}

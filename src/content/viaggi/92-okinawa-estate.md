@@ -1,4 +1,4 @@
-# Okinawa d'estate in 13 giorni: Naha, Churaumi, le Kerama, Miyako e le isole Yaeyama
+# Okinawa d'estate in due settimane: Naha, Churaumi, le Kerama, Miyako e le isole Yaeyama
 
 **Stato bozza:** 🟡 in lavorazione (itinerario-guida costruito con ricerca su fonti ufficiali, verificato a novembre 2026; nessun ricordo personale nel testo)
 **Periodo del viaggio:** pensato per fine giugno-metà luglio, dopo la stagione delle piogge e prima del picco dei tifoni; funziona anche a fine settembre-ottobre
@@ -9,13 +9,13 @@
 ---
 
 ## Apertura personale
-Okinawa è il Giappone che non ci si aspetta. Mare tropicale, barriera corallina, mangrovie, e una cultura che per secoli è stata quella di un regno a sé, il regno delle Ryukyu, con una lingua, una cucina e una musica proprie. Le isole stanno più vicine a Taiwan che a Tokyo: da Ishigaki a Tokyo sono quasi duemila chilometri.
+Okinawa è il Giappone che non ci si aspetta. Mare tropicale, barriera corallina, mangrovie, e una cultura che per secoli è stata quella di un regno a sé, il regno delle Ryukyu, con una lingua, una cucina e una musica proprie.
 
 Questo viaggio è costruito per l'estate, quando il mare è al suo meglio. Comincia sull'isola principale, tra Naha, l'acquario di Churaumi e la foresta di Yanbaru. Poi due notti alle Kerama, a un'ora di barca da Naha. Poi Miyako, con le spiagge più bianche dell'arcipelago, e infine Ishigaki con le isole Yaeyama: la giungla di Iriomote e il villaggio di Taketomi.
 
 ## Scheda pratica
 - **Quando andare:** la stagione delle piogge a Okinawa comincia in media intorno al 10 maggio e finisce intorno al 21 giugno (media 1991-2020 della JMA). Nel 2026 è andata dal 4 maggio circa al 29 giugno. Le settimane subito dopo, fine giugno-metà luglio, sono di solito le più stabili. Poi arrivano i tifoni: in media 1,5 si avvicinano a Okinawa e Amami a luglio, 2,3 ad agosto, 2,0 a settembre, 1,1 a ottobre. Ad agosto e settembre il viaggio si fa, ma con giorni di margine.
-- **Tifoni:** quando ne arriva uno, traghetti e voli si fermano anche per due o tre giorni. Conviene lasciare l'ultima notte vicino all'aeroporto da cui si riparte, assicurazione che copra i ritardi, prenotazioni modificabili. Le previsioni ufficiali sono sul sito della JMA.
+- **Tifoni:** quando ne arriva uno, traghetti e voli possono fermarsi anche per qualche giorno. Conviene lasciare l'ultima notte vicino all'aeroporto da cui si riparte, assicurazione che copra i ritardi, prenotazioni modificabili. Le previsioni ufficiali sono sul sito della JMA.
 - **Come arrivare:** di solito con un volo su Tokyo o Osaka e un volo interno per Naha. Ci sono voli diretti da Tokyo anche per Miyako e Ishigaki, utili per rientrare senza ripassare da Naha.
 - **Spostamenti:** sull'isola principale serve un'auto, i bus sono lenti e radi fuori da Naha. A Naha c'è la monorotaia Yui Rail. Tra Naha, Miyako e Ishigaki si vola. Per le Kerama si parte dal porto di Tomari, a Naha; per Iriomote e Taketomi dal porto di Ishigaki.
 - **Mare:** in estate c'è la medusa habu, pericolosa. Molte spiagge sorvegliate hanno reti di protezione: nuotare dentro le reti, e usare la muta o la lycra. In molte zone le correnti sono forti oltre la barriera.
@@ -28,7 +28,7 @@ Questo viaggio è costruito per l'estate, quando il mare è al suo meglio. Comin
 Si arriva a Naha di solito nel pomeriggio, dopo il volo interno. Monorotaia fino al centro, e la prima sera su **Kokusai-dori**, la via principale. Per cena, una izakaya con musica dal vivo di sanshin, il liuto a tre corde dell'isola, e i primi piatti di Okinawa: goya champuru con il melone amaro, soki soba, rafute, il maiale stufato.
 
 ### Giorno 2 — Naha: Shuri, il mercato e la storia
-La mattina il **castello di Shuri**, la sede del regno delle Ryukyu, Patrimonio UNESCO insieme agli altri siti gusuku dell'isola. Il palazzo principale, il Seiden, è bruciato nel 2019 ed è in ricostruzione: si visitano il resto del complesso e il cantiere, con lo stato dei lavori da controllare sul sito del parco. A pranzo il **mercato pubblico di Makishi**, dove si sceglie il pesce al piano terra e lo si fa cucinare al piano di sopra. Il pomeriggio è per la storia più recente: il **Parco della Pace** a Itoman, nel sud, sul luogo dell'ultima fase della battaglia di Okinawa del 1945. Il 23 giugno, Irei no Hi, è la giornata in ricordo dei caduti.
+La mattina il **castello di Shuri**, la sede del regno delle Ryukyu, Patrimonio UNESCO insieme agli altri siti gusuku dell'isola. Il palazzo principale, il Seiden, è bruciato nel 2019 ed è in ricostruzione, con la fine dei lavori prevista per l'autunno 2026: cosa è aperto e a che punto sono i lavori si controlla sul sito del parco. A pranzo il **mercato pubblico di Makishi**, dove si sceglie il pesce al piano terra e lo si fa cucinare al piano di sopra. Il pomeriggio è per la storia più recente: il **Parco della Pace** a Itoman, nel sud, sul luogo dell'ultima fase della battaglia di Okinawa del 1945. Il 23 giugno, Irei no Hi, è la giornata in ricordo dei caduti.
 
 ### Giorno 3 — Traghetto per Zamami, isole Kerama
 Dal porto di Tomari partono il traghetto Ferry Zamami (circa due ore, 2.900 yen a tratta) e il veloce Queen Zamami (circa un'ora, 3.950 yen), più 100 yen di tassa per i visitatori (prezzi 2025-2026). In estate il veloce si esaurisce: va prenotato. Le **Kerama** sono un parco nazionale, famose per un mare di un blu che qui chiamano Kerama blue. Il pomeriggio alla spiaggia di **Furuzamami**, con lo snorkeling direttamente dalla riva.
@@ -37,28 +37,28 @@ Dal porto di Tomari partono il traghetto Ferry Zamami (circa due ore, 2.900 yen 
 Una giornata in acqua. Ad **Ama beach** le tartarughe marine vengono spesso a mangiare l'erba vicino a riva: si guardano a distanza, senza toccarle e senza inseguirle. Le barche locali portano sulle isolette disabitate intorno, per snorkeling e spiaggia. La sera si sale a uno dei belvedere dell'isola per il tramonto. *Chi ha poco tempo fa le Kerama in giornata da Naha con il veloce, ma è una corsa.*
 
 ### Giorno 5 — Ritorno a Naha e verso il nord: Churaumi
-Traghetto del mattino per Naha, ritiro dell'auto, e due ore di strada verso la **penisola di Motobu**. L'**Okinawa Churaumi Aquarium**, dentro l'Ocean Expo Park, ha una delle vasche più grandi del mondo, con squali balena e mante. L'ingresso adulti costa 2.180 yen. La sera si dorme nella zona di Motobu o Nakijin.
+Traghetto del mattino per Naha, ritiro dell'auto, e un paio d'ore di strada verso la **penisola di Motobu**. L'**Okinawa Churaumi Aquarium**, dentro l'Ocean Expo Park, ha una delle vasche più grandi del mondo, con squali balena e mante. L'ingresso adulti costa 2.180 yen. La sera si dorme nella zona di Motobu o Nakijin.
 
 ### Giorno 6 — Motobu: Kouri, Bise e Nakijin
 La mattina il ponte e l'isola di **Kouri**, con l'acqua bassa e trasparente sotto la strada. Poi il villaggio di **Bise**, con i viali di alberi fukugi piantati per proteggere le case dal vento dei tifoni. Nel pomeriggio le mura del **castello di Nakijin**, un altro dei siti gusuku UNESCO, sopra il mare. Nelle sere senza luna, sulle spiagge della zona il cielo è molto scuro.
 
 ### Giorno 7 — Yanbaru, la foresta del nord
-Si sale verso **Yanbaru**, la parte settentrionale dell'isola, parco nazionale e dal 2021 Patrimonio naturale UNESCO insieme ad Amami e a Iriomote. Foresta subtropicale, cascate, specie che vivono solo qui, come il rallo di Okinawa. Si guida fino a **Capo Hedo**, la punta nord, con le scogliere a picco. Nel pomeriggio si torna verso sud. Si consegna l'auto all'aeroporto di Naha e si prende il volo serale per Miyako, circa cinquanta minuti. *Su queste strade di notte attraversano animali protetti: si guida piano.*
+Si sale verso **Yanbaru**, la parte settentrionale dell'isola, parco nazionale e dal 2021 Patrimonio naturale UNESCO insieme ad Amami, Tokunoshima e Iriomote. Foresta subtropicale, cascate, specie che vivono solo qui, come il rallo di Okinawa. Si guida fino a **Capo Hedo**, la punta nord, con le scogliere a picco. Nel pomeriggio si torna verso sud. Si consegna l'auto all'aeroporto di Naha e si prende il volo serale per Miyako. *Su queste strade di notte attraversano animali protetti: si guida piano.*
 
 ### Giorno 8 — Miyako: il ponte di Irabu e Shimoji
-A Miyako serve di nuovo un'auto. Il **ponte di Irabu**, lungo 3.540 metri, collega l'isola principale a Irabu e Shimoji, e attraversarlo è già un pezzo del viaggio. Sull'isola di Shimoji c'è il tratto di mare accanto alla pista dell'aeroporto, noto come 17END, dove il fondale bianco rende l'acqua quasi irreale. Il pomeriggio a **Yonaha Maehama**, una delle spiagge più lunghe e chiare del Giappone.
+A Miyako serve di nuovo un'auto. Il **ponte di Irabu**, lungo 3.540 metri, collega l'isola principale a Irabu e Shimoji, e attraversarlo è già un pezzo del viaggio. Sull'isola di Shimoji c'è il tratto di mare accanto alla pista dell'aeroporto, noto come 17END, dove il fondale bianco rende l'acqua quasi irreale. Il pomeriggio a **Yonaha Maehama**, una lunga spiaggia di sabbia bianca.
 
 ### Giorno 9 — Miyako: snorkeling e la punta est
-Lo snorkeling a **Yoshino beach** o a **Shinjo beach**, dove il corallo comincia a pochi metri da riva. Poi **Higashi-Hennazaki**, la lingua di terra che si allunga verso est con il faro in fondo. Volo serale per Ishigaki, una trentina di minuti.
+Lo snorkeling a **Yoshino beach** o a **Shinjo beach**, dove il corallo comincia a pochi metri da riva. Poi **Higashi-Hennazaki**, la lingua di terra che si allunga verso est con il faro in fondo. Volo serale per Ishigaki.
 
 ### Giorno 10 — Ishigaki: la baia di Kabira
-**Kabira**, la baia più fotografata di Ishigaki, si guarda dall'alto o dalle barche dal fondo trasparente: qui non si nuota, per le correnti e gli allevamenti di perle. Le spiagge balneabili sono altre, come **Sukuji**, poco distante. La sera al porto e in centro, con il manzo di Ishigaki e l'awamori, il distillato di riso dell'arcipelago.
+**Kabira**, la baia più fotografata di Ishigaki, si guarda dall'alto o dalle barche dal fondo trasparente. Nella baia si coltivano le perle nere e passano le barche: per il bagno si chiede sul posto quali spiagge vicine sono balneabili e sorvegliate. La sera al porto e in centro, con il manzo di Ishigaki e l'awamori, il distillato di riso dell'arcipelago.
 
 ### Giorno 11 — Iriomote, la giungla
-In traghetto da Ishigaki a Iriomote: circa 40-50 minuti fino al porto di Uehara (3.290 yen a tratta nell'orario 2026), un po' meno per Ohara (2.520 yen). L'isola è quasi tutta giungla e mangrovie, ed è casa del gatto di Iriomote, un felino che vive solo qui. Il modo giusto per vederla è con una guida: kayak sul fiume Urauchi o sul Nakama tra le mangrovie, e una camminata fino a una cascata. Dal 2025 alcune aree, come quella delle cascate di Pinaisara, sono a numero chiuso, con registrazione e tassa d'ingresso: le guide locali se ne occupano. Si può dormire sull'isola o tornare la sera a Ishigaki.
+In traghetto da Ishigaki a Iriomote, fino al porto di Uehara, sulla costa nord-est, o a quello di Ohara, a sud-est: orari e prezzi sul sito delle compagnie. L'isola è quasi tutta giungla e mangrovie, ed è casa del gatto di Iriomote, un felino che vive solo qui. Il modo giusto per vederla è con una guida: kayak sul fiume Urauchi o sul Nakama tra le mangrovie, e una camminata fino a una cascata. Dal 2025 alcune aree, come quella delle cascate di Pinaisara, sono a numero chiuso, con un permesso d'ingresso: le guide locali se ne occupano. Si può dormire sull'isola o tornare la sera a Ishigaki.
 
 ### Giorno 12 — Taketomi, il villaggio
-Dieci-quindici minuti di traghetto da Ishigaki e si arriva a **Taketomi**, un'isola piatta con un villaggio di case basse coperte di tegole rosse, i muretti di corallo e le strade di sabbia bianca. Si gira in bicicletta, o sul carro trainato dal bufalo d'acqua. La spiaggia di **Kondoi** ha l'acqua bassa e calma; a **Kaiji** si cerca la sabbia a forma di stella. Rientro a Ishigaki per l'ultima sera.
+Un breve tratto di traghetto da Ishigaki e si arriva a **Taketomi**, un'isola piatta con un villaggio di case basse coperte di tegole rosse, i muretti di corallo e le strade di sabbia bianca. Si gira in bicicletta, o sul carro trainato dal bufalo d'acqua. La spiaggia di **Kondoi** ha l'acqua bassa e calma; a **Kaiji** si cerca la sabbia a forma di stella. Rientro a Ishigaki per l'ultima sera.
 
 ### Giorno 13 — Rientro
 Volo da Ishigaki verso Tokyo, Osaka o Naha, e la coincidenza per l'Europa. Con un tifone in arrivo questo è il giorno in cui serve il margine: meglio non avere il volo intercontinentale lo stesso giorno.
@@ -78,7 +78,7 @@ Volo da Ishigaki verso Tokyo, Osaka o Naha, e la coincidenza per l'Europa. Con u
 
 **14 giorni o più.** Una notte a Iriomote, per la giungla al mattino presto. Hateruma, l'isola abitata più a sud del Giappone, in traghetto da Ishigaki. Una seconda notte nel nord dell'isola principale.
 
-**Fuori estate.** Da gennaio a marzo nelle Kerama si vedono le megattere, con le uscite di whale watching da Zamami. Il mare è più fresco, ma niente tifoni e prezzi più bassi.
+**Fuori estate.** In inverno e a inizio primavera nelle Kerama si vedono le megattere, con le uscite di whale watching da Zamami. Il mare è più fresco, ma niente tifoni e prezzi più bassi.
 
 ## Consigli pratici / errori da non ripetere
 - **Lasciare margine per i tifoni:** due giorni liberi in un viaggio di due settimane, l'ultima notte vicino all'aeroporto di partenza.
@@ -102,10 +102,10 @@ Itinerario costruito con ricerca documentale, aggiornato a novembre 2026. Nessun
 - Churaumi, ingresso adulti 2.180 yen: churaumi.okinawa/en/guide/info/.
 - Castello di Shuri, Seiden in ricostruzione: oki-park.jp/shurijo/en/ (data di fine lavori non indicata sulla pagina).
 - Irei no Hi il 23 giugno: city.naha.okinawa.jp.
-- Traghetti Ishigaki-Iriomote, Uehara 3.290 yen e Ohara 2.520 yen a tratta (orario marzo-settembre 2026), Taketomi 10-15 minuti: da orario 2026 riportato da ishigaki-tours.com e da Yaeyama Kanko. Da ricontrollare sul sito dell'operatore.
-- Iriomote, Pinaisara a numero chiuso con registrazione e tassa dal marzo 2025: solo da operatori turistici (veltra.com) e stampa di settore (travelvoice.jp). Cifre esatte non confermate su fonte ufficiale.
+- Shuri: Seiden bruciato il 31/10/2019, ricostruzione prevista completa per l'autunno 2026; Gusuku UNESCO dal 2000, Nakijin compreso: Wikipedia (Shuri Castle, Gusuku Sites). Ponte di Irabu 3.540 m, 2015: Wikipedia (Irabu Island). Yanbaru parco nazionale 2016, UNESCO 2021 con Amami, Tokunoshima e Iriomote: Wikipedia. Rallo di Okinawa solo a Yanbaru, gatto di Iriomote solo a Iriomote, Hateruma isola abitata più a sud: Wikipedia. Megattere a Zamami in inverno e inizio primavera: Wikipedia (Zamami).
+- Iriomote, Pinaisara con permesso d'ingresso dal marzo 2025: solo operatori turistici concordi (veltra.com, iriomote-tour.com), nessuna pagina ufficiale trovata; cifre tolte. Prezzi e tempi dei traghetti Ishigaki-Iriomote e Taketomi tolti: sito Yaeyama Kanko non raggiungibile (verifica del 5/11/2026).
 
-**Generico, non verificato puntualmente:** tempi di volo Naha-Miyako e Miyako-Ishigaki, lunghezza del ponte di Irabu (3.540 m, dato noto), UNESCO dei gusuku (2000) e di Yanbaru/Iriomote (2021), stagione della medusa habu, whale watching gennaio-marzo, permesso internazionale per guidare.
+**Tolto perché non confermato:** distanza Ishigaki-Tokyo, tempi di volo Naha-Miyako e Miyako-Ishigaki, divieto di balneazione a Kabira, tempi e prezzi dei traghetti per Iriomote e Taketomi. **Ancora generico, senza fonte puntuale:** stagione della medusa habu, tartarughe di Ama beach, il nome 17END, permesso internazionale per guidare.
 
 **Note di redazione:** niente foto. Da chiedere a Rick se è stato a Okinawa.
 

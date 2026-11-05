@@ -1,4 +1,4 @@
-# Croazia in 14 giorni: da Zagabria a Dubrovnik tra laghi, città romane e isole
+# Croazia in due settimane: da Zagabria a Dubrovnik tra laghi, città romane e isole
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificati con ricerca a ottobre 2026; nessun ricordo personale ancora inserito, vedi le note in fondo)
 **Periodo del viaggio:** fine maggio-giugno o settembre, con mare già caldo, traghetti frequenti e meno folla che in luglio-agosto

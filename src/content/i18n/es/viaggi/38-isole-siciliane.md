@@ -1,4 +1,4 @@
-# Las islas sicilianas: Égadas, Pantelaria y Lampedusa en 12 días
+# Las islas sicilianas: Égadas, Pantelaria y Lampedusa en dos semanas
 
 **Stato bozza:** 🟡 en elaboración
 **Periodo del viaggio:** **finales de mayo-junio o septiembre**

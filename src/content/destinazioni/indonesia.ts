@@ -703,7 +703,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       'Volo su Lombok International Airport (LOP), oppure traghetto veloce da Bali (Padang Bai o Sanur verso le Gili).',
     comeSpostarsi: 'Solo cidomo (calessi trainati da cavalli) o bicicletta alle Gili, dove veicoli a motore sono vietati; auto o scooter sul resto di Lombok.',
     periodoMigliore:
-      'la stagione secca; il Rinjani chiude nella stagione delle piogge, le date si controllano su eRinjani',
+      'la stagione secca; il Rinjani chiude nella stagione delle piogge, le date si controllano sull\'app ufficiale E-Rinjani del parco',
     costi: 'in generale più economico di Bali',
     erroriDaEvitare: [
       'Sottovalutare la fatica e l\'altitudine del trekking al Rinjani',
@@ -731,8 +731,8 @@ export const destinazioniIndonesia: Destinazione[] = [
       {
         nome: "Trekking al Gunung Rinjani",
         testo: "Il secondo vulcano più alto dell'Indonesia, 3.726 metri. Dall'orlo del cratere si vede il lago Segara Anak, dentro la caldera, a circa 2.000 metri di quota. Il percorso è lungo ed esposto e finisce su sabbia vulcanica.",
-        come: "Da Senaru o Sembalun, solo con un operatore autorizzato e una guida. Bisogna registrarsi online sul sistema ufficiale eRinjani, che indica anche i documenti richiesti; dal 2026 ogni guida può accompagnare al massimo quattro escursionisti. Pacchetti di più giorni con portatori e tende.",
-        quando: "Nella stagione secca. Con le piogge, il maltempo o dopo incidenti il parco può chiudere i sentieri: controllare su eRinjani prima di prenotare.",
+        come: "Da Senaru o Sembalun, solo con un operatore autorizzato e una guida. I biglietti si prenotano sull'app ufficiale E-Rinjani del parco (Android e iOS); il sito erinjani.id oggi rimanda a un'agenzia privata, non al parco. Pacchetti di più giorni con portatori e tende.",
+        quando: "Nella stagione secca. Con le piogge, il maltempo o dopo incidenti il parco può chiudere i sentieri: controllare sull'app E-Rinjani o sui canali ufficiali del parco prima di prenotare.",
         tempo: "più giorni",
         consiglio: "Il campo sul ciglio è ventoso e si dorme poco: svegliarsi sopra le nuvole, con il lago sotto, ripaga tutto."
       },
@@ -814,7 +814,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Rinjani: guida, operatore autorizzato e registrazione su eRinjani sono obbligatori. Sottovalutare fatica e quota è l'errore più comune.",
+      "Rinjani: guida, operatore autorizzato e prenotazione sull'app ufficiale E-Rinjani sono obbligatori. Sottovalutare fatica e quota è l'errore più comune.",
       "Trawangan la sera è più festaiola di quanto sembri; Meno è l'opposto. Sceglierne una in base al carattere.",
       "Traversate da Bali: il mare può essere mosso; evitare di prenotare trasferimenti troppo stretti.",
       "Alle Gili la corrente e le imbarcazioni: non nuotare lontano dalla riva."

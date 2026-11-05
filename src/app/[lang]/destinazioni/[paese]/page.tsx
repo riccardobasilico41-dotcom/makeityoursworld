@@ -21,7 +21,7 @@ import { JsonLd } from '@/components/JsonLd'
 import { breadcrumbJsonLd } from '@/lib/structured-data'
 import { getAllPaesi, getPaese, getDestinazioniByPaese, getEsperienzeByPaese, getTripMeta } from '@/lib/geo'
 import { getAllViaggi, getViaggioBySlug } from '@/lib/viaggi'
-import { areaDelPaese, datiFiltroViaggio, paesiDelViaggio } from '@/lib/viaggi-filtri'
+import { areaDelPaese, conPaesiDelleDestinazioni, datiFiltroViaggio, paesiDelViaggio } from '@/lib/viaggi-filtri'
 import { getArea } from '@/lib/aree'
 import { copertine } from '@/lib/i18n/contenuti'
 import { pageMetadata } from '@/lib/seo'
@@ -295,7 +295,7 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
                 {tripMeta && (
                   <div>
                     <p className="text-xs font-semibold uppercase tracking-wider text-stone/85">{t.principaliTappe}</p>
-                    <RouteTimeline tappe={tripMeta.tappeMappa} paeseSlug={paeseSlug} />
+                    <RouteTimeline tappe={conPaesiDelleDestinazioni(tripMeta).tappeMappa} paeseSlug={paeseSlug} />
                   </div>
                 )}
               </div>

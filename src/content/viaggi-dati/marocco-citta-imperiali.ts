@@ -4,7 +4,8 @@ import type { TripMeta } from '@/lib/types'
 // Il testo narrativo resta nel markdown (src/content/viaggi/90-marocco-citta-imperiali.md).
 // `titoloGiorno` deve combaciare esattamente con le intestazioni "### Giorno N — ..." del markdown.
 //
-// Proposta costruita sulla ricerca, non un viaggio fatto da Rick: niente foto finché non arrivano.
+// Viaggio fatto da Rick (confermato il 05/11/2026), senza ricordi personali finché non li dà lui: niente foto finché non arrivano.
+// Distanze e tempi di guida da OSRM (router.project-osrm.org, 05/11/2026), senza soste.
 // Tangeri e Casablanca non hanno una scheda destinazione: in tappeMappa hanno lat/lng
 // da OpenStreetMap Nominatim (verificate il 05/11/2026).
 
@@ -12,13 +13,13 @@ export const maroccoCittaImperialiMeta: TripMeta = {
   tripSlug: 'marocco-citta-imperiali',
   paeseSlug: 'marocco',
   ritmo:
-    'Medio: due giornate di trasferimento in bus (Tangeri-Chefchaouen e Chefchaouen-Fès), poi tratte brevi in treno. Fès chiede due giorni pieni a piedi nella medina.',
+    'Medio: tutto su strada, con la tappa lunga Chefchaouen-Fès (circa 190 km) e Meknès-Rabat (circa 140 km); le altre tratte sono brevi. Fès chiede due giorni pieni a piedi nella medina.',
   trasporti:
-    'In autonomia: bus di linea, tra cui CTM (o auto con autista), da Tangeri a Chefchaouen e da Chefchaouen a Fès, treni ONCF Fès-Meknès e Meknès-Rabat, Al Boraq da Rabat Agdal a Casa Voyageurs, taxi per Volubilis e Moulay Idriss, tram a Rabat.',
-  stile: ['città imperiali', 'medine', 'storia', 'treno'],
+    'Su strada: auto con autista o a noleggio per tutto il giro, con i bus CTM come alternativa tra Tangeri, Chefchaouen e Fès; tram a Rabat. Il treno ONCF (Fès, Meknès, Rabat, Casablanca) resta un\'alternativa.',
+  stile: ['città imperiali', 'medine', 'storia', 'on the road'],
   adattoA: [
     'chi va in Marocco per la prima volta e vuole le città più che il deserto',
-    'chi preferisce muoversi in treno e in bus, senza van privato',
+    'chi vuole muoversi su strada, con autista o in auto, fermandosi lungo il percorso',
     'chi ha già fatto Marrakech e il sud e torna per il nord',
     'chi vuole unirlo all\'itinerario Marrakech e deserto in circa due settimane',
   ],
@@ -26,15 +27,15 @@ export const maroccoCittaImperialiMeta: TripMeta = {
     'La medina di Fès el-Bali, patrimonio UNESCO dal 1981 e una delle zone pedonali urbane più grandi e antiche del mondo',
     'Chefchaouen all\'alba, con i vicoli blu ancora vuoti',
     'I mosaici romani di Volubilis, a circa mezz\'ora di strada da Meknès',
-    'Tratte brevi in treno da Fès all\'Atlantico, con Al Boraq nell\'ultimo tratto',
+    'Volubilis e Moulay Idriss lungo la strada tra Fès e Meknès, senza tornare indietro',
     'Si incastra con l\'itinerario del sud: da Fès si scende verso Merzouga e Marrakech',
   ],
   criticita: [
-    'Chefchaouen non ha la ferrovia: si arriva e si riparte in bus o in auto',
+    'Chefchaouen-Fès è la tappa più lunga: circa 190 km sulle curve del Rif, quasi 4 ore di guida senza soste',
     'La medina di Fès è un labirinto, con finte guide e venditori insistenti: il primo giorno serve una guida ufficiale',
     'I non musulmani non entrano nelle moschee in uso, né nella Qarawiyyin: la Moschea Hassan II si visita solo con il tour guidato',
     'D\'estate Fès e Meknès sono molto calde, e Volubilis è quasi tutta al sole',
-    'Tempi e orari di treni e bus vanno presi su oncf-voyages.ma e ctm.ma prima di ogni tratta',
+    'I tempi di guida indicati sono senza soste né traffico; orari dei bus CTM da controllare su ctm.ma',
   ],
   budgetTotale: undefined,
   viaggioInBreve: {
@@ -43,7 +44,7 @@ export const maroccoCittaImperialiMeta: TripMeta = {
     cosaCercavo: undefined,
     treEsperienzePiuBelle: undefined,
     cosaCambierei: undefined,
-    aChiLoConsiglio: 'A chi vuole il Marocco delle città, in treno, o a chi lo unisce al deserto del sud partendo da Fès',
+    aChiLoConsiglio: 'A chi vuole il Marocco delle città, su strada, o a chi lo unisce al deserto del sud partendo da Fès',
   },
   tappeMappa: [
     { nome: 'Tangeri', lat: 35.76949, lng: -5.80447 },
@@ -60,30 +61,38 @@ export const maroccoCittaImperialiMeta: TripMeta = {
       pernottamento: 'Tangeri, medina o centro',
       statoPernottamento: 'consigliato',
       intensita: 'leggero',
+      immagine: '/images/viaggi/marocco-citta-imperiali/giorno-01-medina-tangeri.webp',
+      imageAlt: "Le case bianche della medina di Tangeri viste dalla piazza della Kasbah",
     },
     {
       titoloGiorno: 'Giorno 2 — Da Tangeri a Chefchaouen, la città blu',
-      tratta: 'Tangeri → Chefchaouen, bus di linea o auto con autista',
+      tratta: 'Tangeri → Chefchaouen, auto con autista o bus CTM (circa 110 km, circa 2 ore di guida)',
       pernottamento: 'Chefchaouen, riad nella medina',
       statoPernottamento: 'consigliato',
       intensita: 'medio',
       destinazioneSlug: 'chefchaouen',
+      immagine: '/images/viaggi/marocco-citta-imperiali/giorno-02-vicolo-chefchaouen.webp',
+      imageAlt: "Un vicolo di Chefchaouen con i muri e i gradini dipinti di azzurro",
     },
     {
       titoloGiorno: 'Giorno 3 — Chefchaouen: la medina, Ras el-Ma e la Moschea spagnola',
-      tratta: 'Chefchaouen a piedi (in alternativa: Akchour con autista)',
+      tratta: 'Chefchaouen a piedi (in alternativa: Akchour con autista, circa 30 km)',
       pernottamento: 'Chefchaouen, riad nella medina',
       statoPernottamento: 'consigliato',
       intensita: 'medio',
       destinazioneSlug: 'chefchaouen',
+      immagine: '/images/viaggi/marocco-citta-imperiali/giorno-03-moschea-spagnola.webp',
+      imageAlt: "La Moschea spagnola sulla collina sopra Chefchaouen, tra le montagne del Rif",
     },
     {
       titoloGiorno: 'Giorno 4 — Da Chefchaouen a Fès',
-      tratta: 'Chefchaouen → Fès, bus di linea o auto con autista',
+      tratta: 'Chefchaouen → Fès, auto con autista o bus CTM (circa 190 km, quasi 4 ore di guida senza soste)',
       pernottamento: 'Fès, riad nella medina',
       statoPernottamento: 'consigliato',
       intensita: 'medio',
       destinazioneSlug: 'fes',
+      immagine: '/images/viaggi/marocco-citta-imperiali/giorno-04-bab-bou-jeloud.webp',
+      imageAlt: "La Bab Bou Jeloud, la porta blu di Fès el-Bali, con i minareti della medina dietro gli archi",
     },
     {
       titoloGiorno: 'Giorno 5 — Fès el-Bali: le madrase, le concerie e i souk',
@@ -92,6 +101,8 @@ export const maroccoCittaImperialiMeta: TripMeta = {
       statoPernottamento: 'consigliato',
       intensita: 'intenso',
       destinazioneSlug: 'fes',
+      immagine: '/images/viaggi/marocco-citta-imperiali/giorno-05-conceria-chouara.webp',
+      imageAlt: "Le vasche della conceria Chouara a Fès, con le pelli stese ad asciugare e gli asini che le trasportano",
     },
     {
       titoloGiorno: 'Giorno 6 — Fès: Fès Jdid, il Mellah e la medina dall\'alto',
@@ -100,22 +111,28 @@ export const maroccoCittaImperialiMeta: TripMeta = {
       statoPernottamento: 'consigliato',
       intensita: 'medio',
       destinazioneSlug: 'fes',
+      immagine: '/images/viaggi/marocco-citta-imperiali/giorno-06-dar-al-makhzen.webp',
+      imageAlt: "Le porte dorate del Palazzo reale, Dar al-Makhzen, a Fès Jdid",
     },
     {
       titoloGiorno: 'Giorno 7 — Volubilis e Moulay Idriss, notte a Meknès',
-      tratta: 'Fès → Meknès in treno → Volubilis e Moulay Idriss in taxi → Meknès',
+      tratta: 'Fès → Volubilis (circa 70 km) → Moulay Idriss (circa 4 km) → Meknès (circa 30 km), in auto',
       pernottamento: 'Meknès, medina',
       statoPernottamento: 'consigliato',
       intensita: 'intenso',
       destinazioneSlug: 'meknes-volubilis',
+      immagine: '/images/viaggi/marocco-citta-imperiali/giorno-07-volubilis-basilica.webp',
+      imageAlt: "Le colonne della basilica romana di Volubilis tra i campi, vicino a Meknès",
     },
     {
-      titoloGiorno: 'Giorno 8 — Meknès, la città di Moulay Ismail, poi il treno per Rabat',
-      tratta: 'Meknès a piedi → Rabat in treno',
+      titoloGiorno: 'Giorno 8 — Meknès, la città di Moulay Ismail, poi in auto a Rabat',
+      tratta: 'Meknès a piedi → Rabat in auto (circa 140 km, quasi 2 ore)',
       pernottamento: 'Rabat, medina o centro',
       statoPernottamento: 'consigliato',
       intensita: 'medio',
       destinazioneSlug: 'meknes-volubilis',
+      immagine: '/images/viaggi/marocco-citta-imperiali/giorno-08-bab-mansour.webp',
+      imageAlt: "La Bab Mansour di Meknès, con le maioliche verdi e gli archi della porta monumentale",
     },
     {
       titoloGiorno: 'Giorno 9 — Rabat: la Kasbah degli Oudaya, la Torre Hassan e lo Chellah',
@@ -124,19 +141,23 @@ export const maroccoCittaImperialiMeta: TripMeta = {
       statoPernottamento: 'consigliato',
       intensita: 'medio',
       destinazioneSlug: 'rabat',
+      immagine: '/images/viaggi/marocco-citta-imperiali/giorno-09-torre-hassan.webp',
+      imageAlt: "La Torre Hassan di Rabat e le colonne della moschea mai finita",
     },
     {
-      titoloGiorno: 'Giorno 10 — In treno a Casablanca e la Moschea Hassan II',
-      tratta: 'Rabat Agdal → Casa Voyageurs con Al Boraq → Moschea Hassan II',
+      titoloGiorno: 'Giorno 10 — Da Rabat a Casablanca e la Moschea Hassan II',
+      tratta: 'Rabat → Casablanca in auto (circa 95 km, poco più di un\'ora) → Moschea Hassan II',
       pernottamento: 'Casablanca, centro o lungomare',
       statoPernottamento: 'consigliato',
       intensita: 'medio',
       costiNoti: 'Moschea Hassan II: 140 MAD per gli adulti stranieri (fmh2.ma, novembre 2026), solo con tour guidato',
       destinazioneSlug: 'rabat',
+      immagine: '/images/viaggi/marocco-citta-imperiali/giorno-10-moschea-hassan-ii.webp',
+      imageAlt: "Il minareto della Moschea Hassan II di Casablanca in controluce, con il sole basso sull'oceano",
     },
     {
       titoloGiorno: 'Giorno 11 — Rientro da Casablanca',
-      tratta: 'Casablanca → aeroporto Mohammed V, in treno o in taxi',
+      tratta: 'Casablanca → aeroporto Mohammed V (circa 30 km), in auto o in taxi',
       pernottamento: 'Volo di rientro',
       statoPernottamento: 'consigliato',
       intensita: 'leggero',
@@ -144,9 +165,8 @@ export const maroccoCittaImperialiMeta: TripMeta = {
   ],
   budget: [
     { etichetta: 'Voli', valore: 'andata su Tangeri, ritorno da Casablanca (o al contrario)' },
-    { etichetta: 'Bus di linea (CTM)', valore: 'Tangeri-Chefchaouen e Chefchaouen-Fès, corse e biglietti su ctm.ma' },
-    { etichetta: 'Treni ONCF', valore: 'Fès-Meknès, Meknès-Rabat e Al Boraq Rabat-Casablanca, biglietti su oncf-voyages.ma' },
-    { etichetta: 'Taxi per Volubilis e Moulay Idriss', valore: undefined },
+    { etichetta: 'Auto con autista o noleggio', valore: undefined },
+    { etichetta: 'Bus CTM (alternativa)', valore: 'Tangeri-Chefchaouen e Chefchaouen-Fès, corse e biglietti su ctm.ma' },
     { etichetta: 'Guida ufficiale a Fès', valore: undefined },
     { etichetta: 'Moschea Hassan II', valore: '140 MAD per gli adulti stranieri (fmh2.ma, novembre 2026)' },
     { etichetta: 'Totale', valore: undefined },

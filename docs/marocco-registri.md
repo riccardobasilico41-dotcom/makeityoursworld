@@ -1,6 +1,6 @@
 # Marocco · «Le città imperiali e la città blu» — voci da aggiungere ai registri condivisi
 
-Viaggio nuovo: `marocco-citta-imperiali` (proposta costruita sulla ricerca, non fatta da Rick).
+Viaggio nuovo: `marocco-citta-imperiali` (viaggio fatto da Rick, confermato il 05/11/2026; dati pratici dalla ricerca).
 File già scritti (non serve toccarli):
 - `src/content/viaggi/90-marocco-citta-imperiali.md` + `src/content/i18n/{en,es}/viaggi/90-marocco-citta-imperiali.md`
 - `src/content/viaggi-dati/marocco-citta-imperiali.ts` + `src/content/i18n/{en,es}/viaggi-dati/marocco-citta-imperiali.ts`
@@ -64,7 +64,7 @@ E in `src/content/i18n/es/slug.json`:
 - `"destinazioni"`: `"marocco/chefchaouen": "chefchaouen"`, `"marocco/fes": "fez"`, `"marocco/meknes-volubilis": "mequinez-volubilis"`, `"marocco/rabat": "rabat"`
 - `"viaggi"`, dopo `"marocco-itinerario": "marruecos-itinerario",`: `"marocco-citta-imperiali": "marruecos-ciudades-imperiales-chefchaouen"`
 
-## 4. `src/content/viaggi-editorial.ts` (sezione delle guide in forma neutra, non quella «in prima persona»)
+## 4. `src/content/viaggi-editorial.ts` (testi allineati il 05/11/2026 al viaggio, ora in prima persona e su strada: quelli qui sotto sono la prima versione)
 
 ```ts
   'marocco-citta-imperiali': {

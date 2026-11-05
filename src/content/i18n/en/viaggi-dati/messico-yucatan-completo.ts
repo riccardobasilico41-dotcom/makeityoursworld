@@ -6,7 +6,7 @@ export const messicoYucatanCompletoMeta: TripMeta = {
   ritmo:
     "Early starts almost every day, to enter the sites when they open at 8 am; a new stop every one or two days, with three long road days (Campeche-Palenque, Palenque-Xpujil and Bacalar-Cancún) all to be done in daylight. A spare day in Palenque and a rest day in Bacalar.",
   trasporti:
-    "Rental car picked up and returned in Cancún for the whole loop; alternatively the Tren Maya (stations at Cancún Aeropuerto, Valladolid, Chichén Itzá, Izamal, Teya-Mérida, Edzná, Campeche, Palenque, Xpujil, Calakmul and Bacalar) and first-class ADO buses, with local tours for Celestún, the Puuc Route and Calakmul.",
+    "Rental car picked up and returned in Cancún for the whole loop; alternatively the Tren Maya (stations at Cancún Aeropuerto, Valladolid, Chichén Itzá, Izamal, Teya-Mérida, Edzná, Campeche, Escárcega, Palenque, Xpujil, Calakmul and Bacalar) and first-class ADO buses, with local tours for Celestún, the Puuc Route and Calakmul.",
   stile: ['archeologia', 'cultura', 'maya', 'cenote', 'roadtrip', 'natura', 'nord america'],
   adattoA: [
     "people who want to see the great Maya cities more than the beaches",
@@ -21,7 +21,7 @@ export const messicoYucatanCompletoMeta: TripMeta = {
     "Mérida and Campeche, two very different colonial cities, and the Bacalar lagoon at the end",
   ],
   criticita: [
-    "The Misol-Ha and Agua Azul waterfalls are on Federal Highway 199, where the Foreign Office advises against all but essential travel",
+    "The Misol-Ha and Agua Azul waterfalls are on the road to Ocosingo, Federal Highway 199, where the Foreign Office advises against all but essential travel",
     "The Tren Maya doesn't publish a general timetable: times and prices only show once you pick a route and date",
     "Calakmul has no public transport to the site: you need a car or a tour",
     "Three long road days, never driving in the evening",
@@ -51,7 +51,8 @@ export const messicoYucatanCompletoMeta: TripMeta = {
       statoPernottamento: 'consigliato',
       intensita: 'leggero',
       destinazioneSlug: 'cancun',
-      imageAlt: 'The white beach of the Cancún hotel zone',
+      immagine: '/images/viaggi/messico-yucatan-completo/giorno-01-cancun.webp',
+      imageAlt: "Cancún's white beach and turquoise sea seen from the drone",
     },
     {
       titoloGiorno: 'Day 2 — Ek Balam, the Xcanché cenote and Valladolid',
@@ -59,9 +60,10 @@ export const messicoYucatanCompletoMeta: TripMeta = {
       pernottamento: 'Valladolid, historic centre',
       statoPernottamento: 'consigliato',
       intensita: 'medio',
-      costiNoti: 'Ek Balam about 690 MXN for foreigners (2026)',
+      costiNoti: 'Ek Balam 691 MXN for foreigners (210 INAH plus 481 CULTUR), plus 100 MXN parking (INAH page, November 2026)',
       destinazioneSlug: 'valladolid',
-      imageAlt: 'The Ek Balam acropolis with its stone steps among the vegetation',
+      immagine: '/images/viaggi/messico-yucatan-completo/giorno-02-ek-balam.webp',
+      imageAlt: "The great Acropolis of Ek Balam in the Yucatán forest",
     },
     {
       titoloGiorno: 'Day 3 — Chichén Itzá at opening time and Izamal, towards Mérida',
@@ -69,9 +71,10 @@ export const messicoYucatanCompletoMeta: TripMeta = {
       pernottamento: 'Mérida, historic centre',
       statoPernottamento: 'consigliato',
       intensita: 'intenso',
-      costiNoti: 'Chichén Itzá 697 MXN for foreigners, single ticket since 27 March 2026',
+      costiNoti: 'Chichén Itzá: INAH fee plus state fee; amount to be checked (INAH page 105 + 548 MXN, local press 697 MXN); open 8 am-4 pm',
       destinazioneSlug: 'valladolid',
-      imageAlt: 'El Castillo at Chichén Itzá early in the morning',
+      immagine: '/images/messico/chichen-itza-castillo-riccardo.jpg',
+      imageAlt: "El Castillo, the pyramid of Kukulcán at Chichén Itzá, at three-quarters under Yucatán's white clouds",
     },
     {
       titoloGiorno: 'Day 4 — Mérida: the centre, the market and Paseo de Montejo',
@@ -79,7 +82,8 @@ export const messicoYucatanCompletoMeta: TripMeta = {
       statoPernottamento: 'consigliato',
       intensita: 'leggero',
       destinazioneSlug: 'merida',
-      imageAlt: 'The arcades of the Plaza Grande in the historic centre of Mérida',
+      immagine: '/images/viaggi/messico-yucatan-completo/giorno-04-cattedrale-merida.webp',
+      imageAlt: "The cathedral of San Ildefonso on Mérida's Plaza Grande",
     },
     {
       titoloGiorno: 'Day 5 — Celestún and the ría reserve',
@@ -89,7 +93,8 @@ export const messicoYucatanCompletoMeta: TripMeta = {
       intensita: 'medio',
       costiNoti: 'boat on the ría to be agreed at the pier',
       destinazioneSlug: 'merida',
-      imageAlt: 'Flamingos in the mangrove lagoon of Celestún',
+      immagine: '/images/viaggi/messico-yucatan-completo/giorno-05-fenicotteri-celestun.webp',
+      imageAlt: "A flock of pink flamingos in the Celestún estuary",
     },
     {
       titoloGiorno: 'Day 6 — Uxmal',
@@ -99,7 +104,8 @@ export const messicoYucatanCompletoMeta: TripMeta = {
       intensita: 'medio',
       costiNoti: 'Uxmal 105 MXN INAH plus 461 MXN CULTUR fee for foreigners; open 8 am-4 pm',
       destinazioneSlug: 'uxmal-ruta-puuc',
-      imageAlt: 'The Pyramid of the Magician at Uxmal from the esplanade',
+      immagine: '/images/viaggi/messico-yucatan-completo/giorno-06-uxmal-monache-riccardo.webp',
+      imageAlt: "The stone mosaic facade of the Nunnery Quadrangle at Uxmal",
     },
     {
       titoloGiorno: 'Day 7 — The Puuc Route and the road to Campeche',
@@ -107,9 +113,10 @@ export const messicoYucatanCompletoMeta: TripMeta = {
       pernottamento: 'Campeche, inside the walls',
       statoPernottamento: 'consigliato',
       intensita: 'intenso',
-      costiNoti: 'Kabah 155 MXN, Labná 145 MXN for foreigners',
+      costiNoti: 'Kabah 155 MXN, Labná and Sayil 145 MXN for foreigners (INAH pages)',
       destinazioneSlug: 'uxmal-ruta-puuc',
-      imageAlt: 'The Codz Poop façade at Kabah covered with stone masks',
+      immagine: '/images/viaggi/messico-yucatan-completo/giorno-07-arco-labna.webp',
+      imageAlt: "The Puuc arch of Labná, on the Ruta Puuc",
     },
     {
       titoloGiorno: 'Day 8 — Campeche: the walls, Fuerte de San Miguel and Edzná',
@@ -119,7 +126,8 @@ export const messicoYucatanCompletoMeta: TripMeta = {
       intensita: 'medio',
       costiNoti: 'Edzná 210 MXN; Fuerte de San Miguel 145 MXN, closed on Mondays',
       destinazioneSlug: 'campeche',
-      imageAlt: 'The Building of the Five Storeys at Edzná on the great plaza',
+      immagine: '/images/viaggi/messico-yucatan-completo/giorno-08-edzna.webp',
+      imageAlt: "The Building of the Five Stories at Edzná, near Campeche",
     },
     {
       titoloGiorno: 'Day 9 — From Campeche to Palenque',
@@ -128,7 +136,8 @@ export const messicoYucatanCompletoMeta: TripMeta = {
       statoPernottamento: 'consigliato',
       intensita: 'medio',
       destinazioneSlug: 'palenque',
-      imageAlt: 'The road across the tropical plain between Campeche and Chiapas',
+      immagine: '/images/viaggi/messico-yucatan-completo/giorno-09-palazzo-palenque.webp',
+      imageAlt: "The Palace of Palenque with its tower, next to the Maya aqueduct",
     },
     {
       titoloGiorno: 'Day 10 — Palenque, the city in the forest',
@@ -137,7 +146,8 @@ export const messicoYucatanCompletoMeta: TripMeta = {
       intensita: 'medio',
       costiNoti: '210 MXN INAH plus 215 MXN national park fee (CONANP) for foreigners; open 8 am-5 pm',
       destinazioneSlug: 'palenque',
-      imageAlt: 'The Temple of the Inscriptions at Palenque among the forest trees',
+      immagine: '/images/viaggi/messico-yucatan-completo/giorno-10-tempio-iscrizioni.webp',
+      imageAlt: "The Temple of the Inscriptions at Palenque seen from the Palace, against the forest",
     },
     {
       titoloGiorno: 'Day 11 — Misol-Ha and Agua Azul, only if the road allows it',
@@ -146,7 +156,8 @@ export const messicoYucatanCompletoMeta: TripMeta = {
       statoPernottamento: 'consigliato',
       intensita: 'leggero',
       destinazioneSlug: 'palenque',
-      imageAlt: 'The Misol-Ha waterfall in the Chiapas forest',
+      immagine: '/images/viaggi/messico-yucatan-completo/giorno-11-misol-ha.webp',
+      imageAlt: "The Misol-Ha waterfall dropping through the Chiapas vegetation",
     },
     {
       titoloGiorno: 'Day 12 — From Palenque to Xpujil',
@@ -155,7 +166,8 @@ export const messicoYucatanCompletoMeta: TripMeta = {
       statoPernottamento: 'consigliato',
       intensita: 'intenso',
       destinazioneSlug: 'calakmul',
-      imageAlt: 'The towers of the Xpuhil site, near the town of Xpujil',
+      immagine: '/images/viaggi/messico-yucatan-completo/giorno-12-becan.webp',
+      imageAlt: "The ruins of a temple at the Maya site of Becán in the forest, near Xpujil",
     },
     {
       titoloGiorno: 'Day 13 — Calakmul, in the Biosphere Reserve',
@@ -165,7 +177,8 @@ export const messicoYucatanCompletoMeta: TripMeta = {
       intensita: 'intenso',
       costiNoti: '210 MXN INAH plus 215 MXN reserve fee (CONANP) for foreigners; last entry 4 pm',
       destinazioneSlug: 'calakmul',
-      imageAlt: 'The forest of the Calakmul Reserve seen from the top of a pyramid',
+      immagine: '/images/viaggi/messico-yucatan-completo/giorno-13-calakmul.webp',
+      imageAlt: "Calakmul's Structure II rising out of the reserve's forest",
     },
     {
       titoloGiorno: 'Day 14 — From Xpujil to Bacalar',
@@ -174,7 +187,8 @@ export const messicoYucatanCompletoMeta: TripMeta = {
       statoPernottamento: 'consigliato',
       intensita: 'medio',
       destinazioneSlug: 'bacalar',
-      imageAlt: 'A wooden jetty on the Bacalar lagoon',
+      immagine: '/images/viaggi/messico-yucatan-completo/giorno-14-fuerte-bacalar.webp',
+      imageAlt: "Bacalar's Fuerte de San Felipe, above the lagoon",
     },
     {
       titoloGiorno: 'Day 15 — Bacalar, the lagoon',
@@ -182,7 +196,8 @@ export const messicoYucatanCompletoMeta: TripMeta = {
       statoPernottamento: 'consigliato',
       intensita: 'leggero',
       destinazioneSlug: 'bacalar',
-      imageAlt: 'The shades of blue of the Bacalar lagoon from above',
+      immagine: '/images/viaggi/messico-yucatan-completo/giorno-15-laguna-bacalar.webp',
+      imageAlt: "The Bacalar lagoon with its shades of blue",
     },
     {
       titoloGiorno: 'Day 16 — Back to Cancún',
@@ -194,8 +209,8 @@ export const messicoYucatanCompletoMeta: TripMeta = {
   ],
   budget: [
     { etichetta: 'Intercontinental flights', valore: undefined },
-    { etichetta: 'Site admissions', valore: 'about 3,450 MXN per person for foreigners (Chichén Itzá, Ek Balam, Uxmal, Kabah, Labná, Edzná, Fuerte de San Miguel, Palenque and Calakmul with park fees)' },
-    { etichetta: 'Quintana Roo Visitax', valore: '20.99 dollars per person, online only' },
+    { etichetta: 'Site admissions', valore: 'about 2,900 MXN per person for foreigners (Ek Balam, Uxmal, Kabah, Labná, Sayil, Edzná, Fuerte de San Miguel, Palenque and Calakmul with park fees, INAH pages November 2026), plus Chichén Itzá to be checked' },
+    { etichetta: 'Quintana Roo Visitax', valore: '20.99 dollars per person, online only (Viaggiare Sicuri, May 2026)' },
     { etichetta: 'Tren Maya', valore: undefined },
     { etichetta: 'Rental car', valore: undefined },
   ],

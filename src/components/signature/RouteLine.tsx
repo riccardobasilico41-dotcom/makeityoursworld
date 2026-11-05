@@ -1,6 +1,7 @@
 'use client'
 
 import Link from '@/components/ui/Link'
+import { linkDestinazione } from '@/lib/link-destinazione'
 import { motion, useReducedMotion } from 'motion/react'
 import { proiettaPercorso, costruisciPath, ROUTE_VIEWBOX, type PuntoTappa } from './geo'
 import { useLingua } from '@/lib/i18n/LinguaProvider'
@@ -136,11 +137,12 @@ export function RouteLine({
               )}
             </>
           )
+          const href = linkDestinazione(p.destinazioneSlug, p.paeseSlug, paeseSlug)
           return (
             <li key={`${p.nome}-${i}`} aria-current={qui ? 'location' : undefined}>
-              {p.destinazioneSlug && paeseSlug ? (
+              {href ? (
                 <Link
-                  href={`/destinazioni/${paeseSlug}/${p.destinazioneSlug}`}
+                  href={href}
                   className="inline-flex items-baseline gap-0 underline decoration-current/20 underline-offset-4 transition-colors hover:decoration-current"
                 >
                   {contenuto}

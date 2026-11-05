@@ -1,4 +1,4 @@
-# Sumatra and the Mentawai in 14 Days: Bukittinggi, the Siberut Jungle and the Sea of Sipora
+# Sumatra and the Mentawai in Two Weeks: Bukittinggi, the Siberut Jungle and the Sea of Sipora
 
 **Stato bozza:** 🟡 work in progress (stay on Siberut with Mentawai Tribe done by Rick; the rest of the itinerary built on research from November 4, 2026. Ferry times and prices and the amount of the surf tax are not confirmed and need to be rechecked)
 **Periodo del viaggio:** designed for May to September. On Siberut the driest months run from May to early September, in Sumatra the dry season runs from June to August, and for surfing the biggest swells arrive from May to September

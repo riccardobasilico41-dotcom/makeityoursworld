@@ -1,4 +1,4 @@
-# Perù in 14 giorni: Lima, Arequipa, il Titicaca, Cusco e Machu Picchu
+# Perù in due settimane: Lima, Arequipa, il Titicaca, Cusco e Machu Picchu
 
 **Stato bozza:** 🟡 in lavorazione (versione di due settimane del viaggio lungo in Perù: tratte, tempi, costi e avvertenze vengono da lì e vanno ricontrollati prima di partire; mancano nomi degli alloggi e prezzi effettivamente pagati)
 **Periodo del viaggio:** pensato per maggio-settembre, la stagione secca andina. Rick è stato in Perù tre volte, nel 2018, nel 2021 e nel 2024

@@ -718,7 +718,7 @@ export const destinazioniMarocco: Destinazione[] = [
     imageAlt: 'La medina bianca e blu della città portuale di Essaouira, Marocco',
     immagine: '/images/marocco/essaouira-stock.jpg',
   },
-  // --- NORD: città imperiali e città blu (proposta costruita sulla ricerca, non visitate da Rick) ---
+  // --- NORD: città imperiali e città blu (visitate da Rick; dati pratici verificati il 05/11/2026, distanze OSRM) ---
   {
     slug: 'chefchaouen',
     paeseSlug: 'marocco',
@@ -726,7 +726,7 @@ export const destinazioniMarocco: Destinazione[] = [
     nome: 'Chefchaouen',
     tipologia: ['città', 'montagna'],
     giorniConsigliati: '2 notti',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La città blu nelle montagne del Rif, fondata nel 1471 come fortezza contro i portoghesi. Una medina piccola, con le case dipinte di azzurro, la kasbah in piazza e le montagne tutto intorno.',
     percheAndarci:
@@ -740,7 +740,7 @@ export const destinazioniMarocco: Destinazione[] = [
     ],
     cosaFare: ['Fotografare i vicoli all\'alba', 'Salire alla Moschea spagnola al tramonto', 'Una giornata ad Akchour, tra gole e cascate'],
     comeArrivare:
-      'Non c\'è la ferrovia. Bus di linea da Tangeri e da Fès, tra cui CTM (corse e orari su ctm.ma); in alternativa auto con autista.',
+      'Su strada: circa 110 km da Tangeri (circa 2 ore di guida) e circa 190 km da Fès (quasi 4 ore senza soste), con auto e autista o con i bus CTM (corse e orari su ctm.ma). Non c\'è la ferrovia.',
     comeSpostarsi: 'A piedi: la medina è piccola e tutta in salita.',
     periodoMigliore: 'primavera e autunno',
     erroriDaEvitare: [
@@ -784,7 +784,7 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         nome: 'Akchour',
-        testo: 'Una valle nei dintorni di Chefchaouen, con le gole e le cascate del fiume e sentieri tra le rocce. È la gita della giornata per chi vuole la natura dopo la medina.',
+        testo: 'Una valle a circa 30 km da Chefchaouen (40 minuti di strada), con le gole e le cascate del fiume e sentieri tra le rocce. È la gita della giornata per chi vuole la natura dopo la medina.',
         come: 'Auto con autista o taxi da Chefchaouen.',
         quando: 'In primavera e in autunno.',
         tempo: 'una giornata',
@@ -826,7 +826,8 @@ export const destinazioniMarocco: Destinazione[] = [
     // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['marocco-citta-imperiali'],
-    imageAlt: 'I vicoli dipinti di blu della medina di Chefchaouen, nelle montagne del Rif, Marocco',
+    imageAlt: "I vicoli dipinti di blu della medina di Chefchaouen, nelle montagne del Rif, Marocco",
+    immagine: '/images/marocco/chefchaouen.webp',
   },
   {
     slug: 'fes',
@@ -835,7 +836,7 @@ export const destinazioniMarocco: Destinazione[] = [
     nome: 'Fès',
     tipologia: ['città', 'cultura', 'città imperiale'],
     giorniConsigliati: '2-3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Fondata nel 789 da Idris I, capitale fino al 1912. La città vecchia, Fès el-Bali, è patrimonio UNESCO dal 1981 ed è una delle zone pedonali urbane più grandi e antiche del mondo.',
     percheAndarci:
@@ -851,7 +852,7 @@ export const destinazioniMarocco: Destinazione[] = [
     ],
     cosaFare: ['Una mattina con una guida ufficiale in Fès el-Bali', 'Guardare le concerie dalle terrazze', 'Il tramonto sulla medina dalle Tombe merinidi'],
     comeArrivare:
-      'In treno ONCF da Meknès, Rabat e Casablanca; in bus CTM da Chefchaouen; aeroporto di Fès-Saïss con voli dall\'Europa.',
+      'Su strada da Chefchaouen (circa 190 km) e da Meknès (circa 70 km, un\'ora di guida), con auto e autista o bus CTM; in alternativa il treno ONCF. L\'aeroporto di Fès-Saïss è a circa 15 km dalla medina.',
     comeSpostarsi: 'A piedi nella medina, in petit taxi tra la medina, Fès Jdid e la stazione.',
     periodoMigliore: 'primavera e autunno; d\'estate fa molto caldo',
     erroriDaEvitare: [
@@ -951,8 +952,8 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         nome: 'Ville Nouvelle',
-        perChi: 'chi arriva in treno o vuole comodità',
-        testo: 'La città moderna, con hotel di catena e ristoranti, vicina alla stazione. Per la medina serve il taxi.',
+        perChi: 'chi arriva in auto o vuole comodità',
+        testo: 'La città moderna, con hotel di catena e ristoranti, più semplice da raggiungere in auto. Per la medina serve il taxi.',
       },
     ],
     sapori: [
@@ -970,7 +971,8 @@ export const destinazioniMarocco: Destinazione[] = [
     // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['marocco-citta-imperiali'],
-    imageAlt: 'I tetti della medina di Fès el-Bali visti dall\'alto, con i minareti, Marocco',
+    imageAlt: "I tetti della medina di Fès el-Bali visti dalle Tombe merinidi, con i minareti, Marocco",
+    immagine: '/images/marocco/fes.webp',
   },
   {
     slug: 'meknes-volubilis',
@@ -979,7 +981,7 @@ export const destinazioniMarocco: Destinazione[] = [
     nome: 'Meknès e Volubilis',
     tipologia: ['città', 'storia', 'città imperiale', 'archeologia'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Meknès è la città di Moulay Ismail, che ne fece la capitale e regnò dal 1672 al 1727: patrimonio UNESCO dal 1996. A circa 30 km ci sono le rovine romane di Volubilis, patrimonio UNESCO dal 1997, e la città santa di Moulay Idriss.',
     percheAndarci:
@@ -993,7 +995,7 @@ export const destinazioniMarocco: Destinazione[] = [
       'Moulay Idriss Zerhoun',
     ],
     cosaFare: ['Volubilis la mattina presto', 'Un giro a piedi nella medina di Meknès, da soli'],
-    comeArrivare: 'In treno ONCF da Fès o da Rabat (tempi su oncf-voyages.ma). Meknès ha due stazioni.',
+    comeArrivare: 'In auto da Fès (circa 70 km, un\'ora di guida) o da Rabat (circa 140 km, quasi 2 ore). In alternativa il treno ONCF: Meknès ha due stazioni.',
     comeSpostarsi: 'A piedi nella medina, petit taxi in città, taxi o auto con autista per Volubilis e Moulay Idriss.',
     periodoMigliore: 'primavera e autunno; a Volubilis d\'estate il sole picchia',
     erroriDaEvitare: [
@@ -1006,7 +1008,7 @@ export const destinazioniMarocco: Destinazione[] = [
         nome: 'Volubilis',
         testo:
           'Abitata già nel III secolo a.C., forse capitale del regno di Mauretania, diventò romana quando Roma annesse la Mauretania nel 44 d.C. Alla fine del II secolo aveva circa 20.000 abitanti e viveva di olio d\'oliva. Verso il 285 cadde in mano alle tribù locali e Roma non la riprese più. Restano il Decumano Massimo, la basilica, il Campidoglio, l\'Arco di Caracalla del 217 e i mosaici nelle case, come le Fatiche di Ercole e Orfeo.',
-        come: 'A circa mezz\'ora di strada a nord di Meknès, in taxi o auto con autista; si fa in giornata anche da Fès. Si visita a piedi lungo il percorso del sito.',
+        come: 'Circa 30 km a nord di Meknès (mezz\'ora di strada) e circa 70 km da Fès (un\'ora e mezza), in auto con autista o taxi. Si visita a piedi lungo il percorso del sito.',
         quando: 'Mattina presto: il sito è aperto e quasi senza ombra.',
         tempo: 'un paio d\'ore',
         consiglio: 'Cappello, acqua e scarpe chiuse. Una guida aiuta a leggere le rovine.',
@@ -1072,8 +1074,8 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         nome: 'Ville Nouvelle',
-        perChi: 'chi viaggia in treno',
-        testo: 'Hotel più semplici da raggiungere dalla stazione; per la medina serve il taxi.',
+        perChi: 'chi arriva in auto',
+        testo: 'Hotel più semplici da raggiungere in auto; per la medina serve il taxi.',
       },
     ],
     sapori: [
@@ -1089,7 +1091,8 @@ export const destinazioniMarocco: Destinazione[] = [
     // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['marocco-citta-imperiali'],
-    imageAlt: 'Le colonne e l\'Arco di Caracalla tra le rovine romane di Volubilis, vicino a Meknès, Marocco',
+    imageAlt: "L'Arco di Caracalla tra le rovine romane di Volubilis, vicino a Meknès, Marocco",
+    immagine: '/images/marocco/meknes-volubilis.webp',
   },
   {
     slug: 'rabat',
@@ -1098,9 +1101,9 @@ export const destinazioniMarocco: Destinazione[] = [
     nome: 'Rabat (e la Moschea Hassan II di Casablanca)',
     tipologia: ['città', 'cultura', 'città imperiale', 'mare'],
     giorniConsigliati: '1-2 giorni, più mezza giornata a Casablanca',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
-      'La capitale del Marocco dal 1912, rimasta tale dopo l\'indipendenza del 1956, sulla foce del Bou Regreg, di fronte a Salé. Patrimonio UNESCO dal 2012, con la città vecchia e quella moderna. A un breve tratto di treno c\'è Casablanca, con la Moschea Hassan II.',
+      'La capitale del Marocco dal 1912, rimasta tale dopo l\'indipendenza del 1956, sulla foce del Bou Regreg, di fronte a Salé. Patrimonio UNESCO dal 2012, con la città vecchia e quella moderna. A circa 95 km di strada c\'è Casablanca, con la Moschea Hassan II.',
     percheAndarci:
       'Per la Kasbah degli Oudaya sul mare, la Torre Hassan e lo Chellah, in una città ordinata dove si gira senza pressioni. Poi Casablanca per la sua moschea.',
     cosaVedere: [
@@ -1113,7 +1116,7 @@ export const destinazioniMarocco: Destinazione[] = [
     ],
     cosaFare: ['Il belvedere della kasbah sul fiume e sull\'Atlantico', 'Il tour guidato della Moschea Hassan II'],
     comeArrivare:
-      'In treno ONCF: Al Boraq da Tangeri e da Casablanca; treni da Meknès e Fès (tempi su oncf-voyages.ma). Le stazioni sono Rabat Ville e Rabat Agdal. C\'è anche l\'aeroporto di Rabat-Salé.',
+      'In auto da Meknès (circa 140 km, quasi 2 ore) e da Casablanca (circa 95 km, poco più di un\'ora). In alternativa il treno ONCF, con le stazioni di Rabat Ville e Rabat Agdal. C\'è anche l\'aeroporto di Rabat-Salé.',
     comeSpostarsi: 'A piedi e in tram, che collega Rabat e Salé dal 2011.',
     periodoMigliore: 'tutto l\'anno, con la primavera e l\'autunno più piacevoli',
     erroriDaEvitare: [
@@ -1157,7 +1160,7 @@ export const destinazioniMarocco: Destinazione[] = [
         nome: 'Moschea Hassan II (Casablanca)',
         testo:
           'La grande moschea sul mare di Casablanca, una delle poche in Marocco che i non musulmani possono visitare, solo con il tour guidato. Il tour passa dalla sala di preghiera, dalla sala del minareto e dalle sale delle abluzioni.',
-        come: 'Al Boraq da Rabat Agdal a Casa Voyageurs, poi taxi.',
+        come: 'In auto da Rabat, circa 95 km lungo la costa.',
         quando:
           'Turni guidati più volte al giorno, la mattina e nel primo pomeriggio; il venerdì sono meno. Gli orari aggiornati sono su fmh2.ma, dove sono indicati in ora GMT.',
         tempo: 'un\'ora circa',
@@ -1173,7 +1176,7 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         titolo: '2 giorni',
-        tappe: ['Giorno 1: come sopra', 'Giorno 2: Al Boraq per Casablanca e tour della Moschea Hassan II'],
+        tappe: ['Giorno 1: come sopra', 'Giorno 2: in auto a Casablanca e tour della Moschea Hassan II'],
       },
     ],
     zone: [
@@ -1184,8 +1187,8 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         nome: 'Centro moderno e Agdal',
-        perChi: 'chi viaggia in treno',
-        testo: 'Hotel vicini alle stazioni di Rabat Ville e Rabat Agdal, con il tram per la medina.',
+        perChi: 'chi arriva in auto o vuole comodità',
+        testo: 'Hotel nella città moderna, con il tram per la medina.',
       },
     ],
     sapori: [
@@ -1200,6 +1203,7 @@ export const destinazioniMarocco: Destinazione[] = [
     // GUIDA-END
     esperienzeSlugs: [],
     tripSlugs: ['marocco-citta-imperiali'],
-    imageAlt: 'La porta almohade di Bab Oudaya e le mura della Kasbah degli Oudaya a Rabat, Marocco',
+    imageAlt: "La porta almohade di Bab Oudaya e le mura della Kasbah degli Oudaya a Rabat, Marocco",
+    immagine: '/images/marocco/rabat.webp',
   },
 ]

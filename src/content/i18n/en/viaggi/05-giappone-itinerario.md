@@ -1,4 +1,4 @@
-# Japan in 12 Days: Tokyo, Mount Fuji, Kyoto, Hiroshima, Osaka and Chasing the Sakura
+# Japan in Two Weeks: Tokyo, Mount Fuji, Kyoto, Hiroshima, Osaka and Chasing the Sakura
 
 **Stato bozza:** 🟡 work in progress (complete itinerary, no fixed schedules, with food and logistics, and opening/closing anecdotes)
 **Periodo del viaggio:** April 6-17

@@ -1,4 +1,4 @@
-# Arabia Saudita in 12 giorni: Jeddah, Hegra, Riyadh e le montagne dell'Asir
+# Arabia Saudita in due settimane: Jeddah, Hegra, Riyadh e le montagne dell'Asir
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate e aggiornate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare — mancano date esatte, nomi degli alloggi e prezzi effettivamente pagati)
 **Periodo del viaggio:** da novembre a marzo [anno da confermare] — con l'eccezione dell'Asir, dove la stagione buona è l'estate

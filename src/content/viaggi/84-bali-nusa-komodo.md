@@ -1,4 +1,4 @@
-# Bali, Nusa Penida, Nusa Lembongan e Komodo in 14 giorni: risaie, scogliere e draghi
+# Bali, Nusa Penida, Nusa Lembongan e Komodo in due settimane: risaie, scogliere e draghi
 
 **Stato bozza:** 🟡 in lavorazione (Bali, Nusa Penida e Komodo li ha visti Rick; tratte, tempi e prezzi verificati il 5 novembre 2026 su fonti ufficiali e di settore, da ricontrollare prima di partire. Orari e prezzi delle barche per le Nusa e importo della tassa locale delle Nusa non confermati, quindi lasciati generici)
 **Periodo del viaggio:** pensato per aprile-ottobre, la stagione secca di Bali. A Komodo la stagione secca, con il mare più calmo, va da aprile a dicembre
@@ -44,7 +44,7 @@ Gita a **Sidemen**, ai piedi del Gunung Agung. Le terrazze sono meno turistiche 
 Si scende al porto di **Sanur** con un driver, partendo presto per evitare il traffico. In circa mezz'ora di barca si arriva a **Nusa Lembongan**, la più tranquilla delle Nusa. Il pomeriggio è per le **mangrovie**, che si girano in barchetta, e per **Devil's Tear**, la scogliera dove le onde esplodono contro la roccia. Al tramonto si attraversa lo **Yellow Bridge**, il ponte giallo che unisce Lembongan a **Nusa Ceningan**, e si guarda la **Blue Lagoon**. Dalla scogliera ci si tuffa solo con il mare calmo, e mai da soli.
 
 ### Giorno 5 — Da Lembongan a Nusa Penida: snorkeling con le mante
-In mattinata una barca locale porta da Lembongan a **Nusa Penida** in pochi minuti: la si organizza sul posto con l'alloggio. Oggi è giorno di mare. L'uscita di snorkeling verso **Manta Point** e le baie della costa vicina si prenota a Penida o già a Lembongan. Le mante ci sono spesso, ma non sempre, e il mare qui può essere mosso: decide l'equipaggio se si va. Si dorme su Penida, ed è questo il trucco dei tre giorni: domattina si arriva ai punti panoramici prima delle barche da Bali.
+In mattinata una barca locale porta da Lembongan a **Nusa Penida** in pochi minuti: la si organizza sul posto con l'alloggio. Oggi è giorno di mare. L'uscita di snorkeling verso **Manta Point** e le baie della costa vicina si prenota a Penida o già a Lembongan. Le mante ci sono spesso, ma non sempre, e il mare qui può essere mosso: decide l'equipaggio se si va. Si dorme su Penida, ed è questo il trucco dei tre giorni: domattina si arriva ai punti panoramici prima delle barche da Bali. Io su Penida ho fatto tre notti e l'ho girata tutta con calma, e ve le consiglio: qui le notti sull'isola sono due per far stare tutto in 14 giorni, ma se avete un giorno in più mettetelo qui.
 
 ### Giorno 6 — Nusa Penida: Kelingking, Broken Beach e Angel's Billabong
 Si parte con la prima luce verso **Kelingking Beach**, la baia a forma di T-Rex. A metà giornata è una coda di persone su un sentiero ripido, quindi conviene arrivare prestissimo. La discesa fino alla spiaggia è ripida e faticosa: servono scarpe con buona presa. Poi **Broken Beach**, l'arco di roccia sul mare, e **Angel's Billabong**, la piscina naturale sulla scogliera, dove si fa il bagno solo con la bassa marea e il mare calmo. Chi preferisce la costa est va a **Diamond Beach** e **Atuh**, con meno gente. Le strade di Penida sono strette e piene di buche: un driver con l'auto toglie molti pensieri.
@@ -83,7 +83,7 @@ Da Uluwatu all'aeroporto la strada è breve, ma il traffico del sud di Bali è i
 - **La danza Kecak a Uluwatu** al tramonto.
 
 ## Consigli pratici / errori da non ripetere
-- **Dormire su Nusa Penida** invece di fare la gita in giornata da Bali: è l'unico modo per avere Kelingking senza la coda.
+- **Dormire su Nusa Penida** invece di fare la gita in giornata da Bali: è l'unico modo per avere Kelingking senza la coda. Io ci ho fatto tre notti e la consiglio così, girata con calma.
 - **Prenotare le barche per le Nusa il giorno prima** in alta stagione: le ultime corse si riempiono.
 - **Non guidare lo scooter sulle Nusa** se non hai esperienza vera: strade strette, ripide e piene di buche.
 - **Volo per Labuan Bajo nel primo pomeriggio:** la barca da Penida può ritardare.
@@ -97,7 +97,7 @@ Da Uluwatu all'aeroporto la strada è breve, ma il traffico del sud di Bali è i
 ## Chiusura personale
 Questo giro mette insieme l'Indonesia più famosa e un pezzo di quella più selvaggia, con spostamenti brevi. Bali piace di più vista da Ubud e da Uluwatu. Le Nusa vanno prese con calma e con la sveglia presto. Komodo resta il posto dove un animale fermo all'ombra riesce a impressionare più di qualsiasi panorama. Se hai qualche giorno in più, allungalo: ognuna di queste isole merita almeno una settimana.
 
-*Da Rick vengono il giudizio su Bali e sulla danza Kecak, il consiglio sulla prima barca per Nusa Penida, i ricordi dei draghi, di Rinca e di Padar all'alba, e i contatti consigliati (Villa Jacques, Pande Wirta, Feby Yastika, Hendra, Kanha Loka). Il resto viene dalle schede destinazione del sito e dalla ricerca del 5 novembre 2026: il sito Love Bali per la tassa turistica, ANTARA per le tariffe del parco di Komodo in vigore dal 30 ottobre 2024, operatori e guide di settore per le barche da Sanur, l'elenco delle rotte dell'aeroporto di Labuan Bajo e i consigli di gov.uk sulla sicurezza in barca. Orari e prezzi delle barche e la tassa locale delle Nusa vanno ricontrollati prima di partire.*
+*Da Rick vengono il giudizio su Bali e sulla danza Kecak, il consiglio sulla prima barca per Nusa Penida, le tre notti su Penida girata con calma, i ricordi dei draghi, di Rinca e di Padar all'alba, e i contatti consigliati (Villa Jacques, Pande Wirta, Feby Yastika, Hendra, Kanha Loka). Il resto viene dalle schede destinazione del sito e dalla ricerca del 5 novembre 2026: il sito Love Bali per la tassa turistica, ANTARA per le tariffe del parco di Komodo in vigore dal 30 ottobre 2024, operatori e guide di settore per le barche da Sanur, l'elenco delle rotte dell'aeroporto di Labuan Bajo e i consigli di gov.uk sulla sicurezza in barca. Orari e prezzi delle barche e la tassa locale delle Nusa vanno ricontrollati prima di partire.*
 
 ## Tag
 `#indonesia` `#bali` `#nusapenida` `#nusalembongan` `#komodo` `#labuanbajo` `#padar` `#ubud` `#uluwatu` `#snorkeling` `#duesettimane` `#asia`

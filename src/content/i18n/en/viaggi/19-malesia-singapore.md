@@ -1,4 +1,4 @@
-# Malaysia and Singapore in 14 Days: From Kuala Lumpur to the Strait, Eating All the Way
+# Malaysia and Singapore in Two Weeks: From Kuala Lumpur to the Strait, Eating All the Way
 
 **Stato bozza:** 🟡 in progress (itinerary and practical information complete and verified)
 **Periodo del viaggio:** December to March, the dry season on the west coast, which is the coast this itinerary follows

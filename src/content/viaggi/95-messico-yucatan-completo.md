@@ -17,15 +17,15 @@ Abbiamo scelto un anello invece di un percorso lineare con volo di rientro da Vi
 
 ## Scheda pratica
 - **Quando andare:** da novembre ad aprile, la stagione secca. Da maggio il caldo umido diventa forte, soprattutto nei siti senza ombra. Da giugno a novembre è la stagione degli uragani nell'Atlantico. A fine ottobre e inizio novembre Mérida e i paesi dello Yucatán festeggiano l'Hanal Pixán.
-- **Documenti:** passaporto con almeno 6 mesi di validità residua, nessun visto turistico fino a 180 giorni, biglietto di andata e ritorno. In Quintana Roo (Cancún, Bacalar) si paga il **Visitax**, 20,99 dollari a persona, solo online (Viaggiare Sicuri, maggio 2026).
-- **Moneta:** peso messicano (MXN), indicativamente 1 € = 20 MXN. Contanti per i paesi piccoli, i cenote, le barche e le strade della riserva di Calakmul; nei siti archeologici principali si paga anche con carta.
+- **Documenti:** serve il passaporto, nessun visto per turismo fino a 180 giorni. All'arrivo possono chiedere il biglietto di ritorno o di uscita dal paese e la prenotazione dell'alloggio. In Quintana Roo (Cancún, Bacalar) si paga il **Visitax**, 20,99 dollari a persona, solo online (Viaggiare Sicuri, maggio 2026).
+- **Moneta:** peso messicano (MXN). Contanti per i paesi piccoli, i cenote, le barche e le strade della riserva di Calakmul; a Chichén Itzá Rick ha pagato con carta.
 - **Fuso orario:** il Quintana Roo (Cancún, Bacalar) è un'ora avanti rispetto a Yucatán, Campeche e Chiapas. Conta quando si prenota un treno o un ingresso il giorno del cambio.
-- **Come ci si muove:** l'auto a noleggio è il modo più semplice per fare tutto l'anello, Calakmul compreso. In alternativa si combinano Tren Maya, bus ADO di prima classe e tour locali. Mai guidare di sera o di notte: lo chiede Viaggiare Sicuri, e lo conferma il Foreign Office per le strade isolate.
-- **Il Tren Maya, onestamente:** le stazioni ci sono lungo quasi tutto l'anello, cioè Cancún Aeropuerto, Valladolid, Chichén Itzá, Izamal, Teya-Mérida, Edzná, San Francisco Campeche, Palenque, Xpujil, Calakmul e Bacalar (sito ufficiale trenmaya.gob.mx). I biglietti si comprano sul sito ufficiale di vendita, che però non pubblica un orario generale né un listino: orari e prezzi compaiono solo scegliendo tratta e data. Si portano gratis fino a tre bagagli per un totale di 50 kg. Alcune stazioni sono fuori dai centri e il collegamento con autobus c'è solo «in alcune località». Prima di fissare le notti, controlla gli orari della tua data.
-- **Bus ADO:** è la rete di prima classe che collega le città della penisola. Viaggiare Sicuri consiglia di usare solo bus di prima categoria; il Foreign Office aggiunge che i bus di prima classe sulle autostrade a pedaggio hanno meno incidenti di quelli sulle strade libere. Per tratte e orari, ado.com.mx.
-- **Sicurezza:** Yucatán e Campeche non sono tra le aree sconsigliate. In Chiapas il Foreign Office sconsiglia i viaggi non essenziali sulla **Federale 199** tra Rancho Nuevo (San Cristóbal) e il bivio di Chancalá, appena fuori Palenque, per blocchi illegali, proteste e rischio di sequestro; sconsiglia anche la fascia di 40 km dal confine con il Guatemala. Viaggiare Sicuri segnala rapine a stranieri in Chiapas e raccomanda di non uscire dalle strade statali. Per questo le cascate di Misol-Ha e Agua Azul, che si raggiungono dalla 199, qui sono solo un'opzione da valutare al momento, e Yaxchilán e Bonampak, vicino al confine, restano fuori.
+- **Come ci si muove:** l'auto a noleggio è il modo più semplice per fare tutto l'anello, Calakmul compreso. In alternativa si combinano Tren Maya, bus ADO di prima classe e tour locali. Mai guidare di sera o di notte: lo chiede Viaggiare Sicuri, che consiglia anche le autostrade principali invece delle strade secondarie. Il Foreign Office aggiunge di evitare le strade isolate e di usare, quando si può, le autostrade a pedaggio (cuota).
+- **Il Tren Maya, onestamente:** le stazioni ci sono lungo quasi tutto l'anello, cioè Cancún Aeropuerto, Valladolid, Chichén Itzá, Izamal, Teya-Mérida, Edzná, San Francisco Campeche, Escárcega, Palenque, Xpujil, Calakmul e Bacalar (sito ufficiale trenmaya.gob.mx). I biglietti si comprano sui canali ufficiali (sito di vendita, app, biglietteria), ma il sito non pubblica un orario generale né un listino: orari e prezzi vanno visti scegliendo tratta e data. Si portano gratis fino a tre bagagli per un totale di 50 kg, più un bagaglio a mano. Alcune stazioni sono fuori dai centri: il collegamento con il centro o l'aeroporto c'è solo in alcune stazioni e va chiesto lì. Prima di fissare le notti, controlla gli orari della tua data.
+- **Bus ADO:** è la rete di prima classe che collega le città della penisola. Viaggiare Sicuri consiglia di usare solo bus di prima categoria; il Foreign Office aggiunge che i bus di prima classe sulle autostrade a pedaggio hanno meno incidenti di quelli di seconda e terza classe. Per tratte e orari, ado.com.mx.
+- **Sicurezza:** Yucatán e Campeche non sono tra le aree sconsigliate. In Chiapas il Foreign Office sconsiglia i viaggi non essenziali sulla **Federale 199** tra Rancho Nuevo (San Cristóbal) e il bivio di Chancalá, appena fuori Palenque, per blocchi illegali, proteste e rischio di sequestro; sconsiglia anche la fascia di 40 km dal confine con il Guatemala. Viaggiare Sicuri segnala rapine a stranieri in Chiapas e raccomanda di non uscire dalle strade statali. Per questo le cascate di Misol-Ha e Agua Azul, sulla strada per Ocosingo, qui sono solo un'opzione da valutare al momento, e Yaxchilán e Bonampak, vicino al confine, restano fuori.
 - **Salute:** nessuna vaccinazione obbligatoria. Repellente forte, soprattutto a Calakmul e a Palenque, nella foresta. Viaggiare Sicuri segnala la chikungunya anche in Campeche e Quintana Roo e focolai di congiuntivite in Yucatán e Chiapas. Acqua in bottiglia e un'assicurazione sanitaria con rimpatrio.
-- **Siti archeologici INAH:** quasi tutti aperti dalle 8 alle 17, con ultimo ingresso alle 16; Uxmal chiude alle 16. Niente cibo all'ingresso, niente animali, si paga a parte per le videocamere professionali. La domenica è gratis solo per i messicani, quindi è il giorno più affollato.
+- **Siti archeologici INAH:** quasi tutti aperti dalle 8 alle 17, con ultimo ingresso alle 16; Uxmal e Chichén Itzá chiudono alle 16, con ultimo ingresso alle 15 (schede INAH, novembre 2026). Niente cibo all'ingresso, niente animali, si paga a parte per le videocamere professionali. La domenica è gratis solo per i messicani, quindi è il giorno più affollato.
 
 ## Itinerario giorno per giorno
 
@@ -40,15 +40,15 @@ Da Cancún si va verso l'interno. La prima tappa è **Ek Balam**, un sito maya p
 Nel pomeriggio si arriva a **Valladolid**, una cittadina coloniale tranquilla. La sera si gira a piedi intorno alla piazza principale. In centro c'è anche il cenote Zací.
 
 **In pratica**
-- Ek Balam: circa 690 MXN per gli stranieri tra quota federale e statale (2026). Se si possa salire sull'acropoli dipende dalle regole del momento: chiedilo in biglietteria.
+- Ek Balam: 210 MXN di ingresso INAH più 481 MXN di quota statale CULTUR per gli stranieri, quindi 691 MXN, più 100 MXN di parcheggio per l'ejido (scheda INAH). Se si possa salire sull'acropoli dipende dalle regole del momento: chiedilo in biglietteria.
 
 ### Giorno 3 — Chichén Itzá all'apertura e Izamal, verso Mérida
 Si entra a **Chichén Itzá** alle 8, prima dei pullman da Cancún e del caldo. Rick ci è stato circa due ore. Ha pagato con carta alla cassa e, nell'ufficio dietro l'ingresso, ha fatto mettere il timbro gratuito sul passaporto. Per la visita Rick consiglia **Alejandro**, una guida nata a venti minuti dal sito, che parla spagnolo e inglese: il contatto è nella scheda di Valladolid.
 
-Dopo pranzo si va a **Izamal**, la città gialla, con il grande convento francescano costruito sopra una piramide maya. Rick consiglia di non perdere tempo e soldi tra i souvenir, perché il paese è caro. Chi vuole un bagno lungo la strada può fermarsi al **cenote Ik Kil**, vicino a Chichén Itzá, che chiude alle 17. In serata si arriva a Mérida.
+Dopo pranzo si va a **Izamal**, la città gialla, con il grande convento francescano costruito sopra una piramide maya. Rick consiglia di non perdere tempo e soldi tra i souvenir, perché il paese è caro. Chi vuole un bagno lungo la strada può fermarsi al **cenote Ik Kil**, vicino a Chichén Itzá: orari da controllare sul posto. In serata si arriva a Mérida.
 
 **In pratica**
-- Chichén Itzá: 697 MXN per gli stranieri, biglietto unico federale e statale in una sola cassa dal 27 marzo 2026. Aperto ogni giorno dalle 8 alle 17, ultimo ingresso alle 16.
+- Chichén Itzá: si pagano la quota INAH e la quota statale. L'importo per gli stranieri va controllato prima di partire: a novembre 2026 la scheda INAH indica 105 + 548 MXN, mentre la stampa locale riporta 697 MXN con il nuovo biglietto unico. Secondo la scheda INAH è aperto ogni giorno dalle 8 alle 16, ultimo ingresso alle 15.
 
 ### Giorno 4 — Mérida: il centro, il mercato e il Paseo de Montejo
 **Mérida** è il capoluogo dello Yucatán e la base per i due giorni successivi. La mattina si gira il centro a piedi: la **Plaza Grande** con la cattedrale del Cinquecento, il Palazzo del Governo con i murales, poi il **mercado municipal**, con frutta, spezie e artigianato. Nel pomeriggio si cammina lungo il **Paseo de Montejo**, il viale dei palazzi dell'epoca d'oro dell'henequén.
@@ -58,7 +58,7 @@ La sera, Rick è stato alla Negrita, che chiude verso le 22, e poi alla Mezcaler
 ### Giorno 5 — Celestún e la riserva della ría
 Gita in giornata verso ovest, fino a **Celestún**, sul Golfo. Il paese di pescatori sta sul bordo della **Riserva della Biosfera Ría Celestún**, una laguna di mangrovie dove si fanno uscite in barca per vedere i fenicotteri e gli uccelli acquatici. Il numero di fenicotteri cambia molto durante l'anno: prima di pagare la barca, chiedi al molo quanti ce ne sono in quei giorni.
 
-Le barche devono restare a distanza dagli uccelli. Se un barcaiolo si avvicina troppo per la foto, chiedigli di fermarsi. Il pomeriggio si mangia pesce sulla spiaggia e si rientra a Mérida prima del buio.
+Se un barcaiolo si avvicina troppo agli uccelli per la foto, chiedigli di tenersi a distanza. Il pomeriggio si mangia pesce sulla spiaggia e si rientra a Mérida prima del buio.
 
 ### Giorno 6 — Uxmal
 Da Mérida si scende a sud, sulla Federale 261, fino a **Uxmal**, la grande città puuc, con la Piramide dell'Indovino e il Quadrilatero delle Monache. Lo stile puuc si riconosce dalle facciate: la parte bassa liscia, quella alta piena di mosaici di pietra e maschere del dio della pioggia. Rick l'ha visitato con una guida e poi ha pranzato al **Po' Pol Chac**, con la carne cotta sottoterra.
@@ -66,26 +66,26 @@ Da Mérida si scende a sud, sulla Federale 261, fino a **Uxmal**, la grande citt
 Si dorme nei dintorni di Uxmal o a Santa Elena, per essere già sulla Ruta Puuc la mattina dopo.
 
 **In pratica**
-- Uxmal: 105 MXN di ingresso INAH più 461 MXN di quota statale CULTUR per gli stranieri, quindi 566 MXN (scheda INAH). Aperto ogni giorno dalle 8 alle 16, ultimo ingresso alle 15.
+- Uxmal: 105 MXN di ingresso INAH più 461 MXN di quota statale CULTUR per gli stranieri, quindi 566 MXN (scheda INAH, novembre 2026). Aperto ogni giorno dalle 8 alle 16, ultimo ingresso alle 15.
 
 ### Giorno 7 — La Ruta Puuc e la strada per Campeche
-La **Ruta Puuc** è una strada di campagna che collega i siti minori dello stesso stile, a pochi chilometri l'uno dall'altro. **Kabah** ha il Codz Poop, una facciata coperta da centinaia di maschere di Chaac, e un arco isolato. **Labná** ha un altro arco famoso, molto decorato. Tra i due c'è anche **Sayil**, con un palazzo a tre piani. Sono siti tranquilli, spesso quasi vuoti.
+La **Ruta Puuc** è una strada di campagna che collega i siti minori dello stesso stile, a pochi chilometri l'uno dall'altro. **Kabah** ha il Codz Poop, una facciata coperta da centinaia di maschere di Chaac, e un arco isolato. **Labná** ha un altro arco famoso, molto decorato. Tra i due c'è anche **Sayil**, con il Gran Palazzo costruito su terrazze sovrapposte. Sono siti tranquilli, spesso quasi vuoti.
 
 Nel pomeriggio si prosegue verso **Campeche**, dove si arriva per la passeggiata serale nel centro fortificato.
 
 *Variante: chi salta la Ruta Puuc può andare da Mérida a Campeche come ha fatto Rick, passando per **Becal**, il paese dei sombreros di palma (il modello base gli è costato circa 800 MXN), e per il cimitero di **Pomuch**, dove le famiglie puliscono le ossa dei propri morti in vista dell'Hanal Pixán.*
 
 **In pratica**
-- Kabah: 155 MXN per gli stranieri; Labná: 145 MXN (schede INAH). Aperti dalle 8 alle 17, ultimo ingresso alle 16. Per Sayil la scheda INAH non riporta il prezzo: lo vedi in biglietteria.
+- Kabah: 155 MXN per gli stranieri; Labná e Sayil: 145 MXN ciascuno (schede INAH, novembre 2026). Aperti dalle 8 alle 17, ultimo ingresso alle 16.
 
 ### Giorno 8 — Campeche: le mura, il Fuerte de San Miguel ed Edzná
 **Campeche** è una città fortificata sul Golfo, patrimonio UNESCO dal 1999, con le mura e i baluardi costruiti tra Seicento e Settecento contro i pirati. La mattina presto si va a **Edzná**, nell'entroterra: l'Edificio dei Cinque Piani domina una grande piazza, e i visitatori sono pochi. Conviene esserci all'apertura, perché l'ombra è poca.
 
-Nel pomeriggio si sale al **Fuerte de San Miguel**, sulla collina a sud-ovest del centro. Dentro c'è il museo archeologico con le maschere di giada trovate a Calakmul, cioè l'anticipo del giorno 13. La sera si torna in centro. Rick ricorda la piazza della cattedrale molto curata, con i lustrascarpe, e la passeggiata attraverso la **Puerta del Mar** fino al lungomare.
+Nel pomeriggio si sale al **Fuerte de San Miguel**, su una delle colline ai lati della città. Dentro c'è il museo archeologico con le maschere di giada trovate a Calakmul, cioè l'anticipo del giorno 13. La sera si torna in centro. Rick ricorda la piazza della cattedrale molto curata, con i lustrascarpe, e la passeggiata attraverso la **Puerta del Mar** fino al lungomare.
 
 **In pratica**
-- Edzná: 210 MXN per gli stranieri, aperto ogni giorno dalle 8 alle 17, ultimo ingresso alle 16.30.
-- Fuerte de San Miguel: 145 MXN per gli stranieri, dal martedì alla domenica dalle 8 alle 17. Il lunedì è chiuso: in quel caso inverti i giorni.
+- Edzná: 210 MXN per gli stranieri, aperto ogni giorno dalle 8 alle 17, ultimo ingresso alle 16.30 (scheda INAH).
+- Fuerte de San Miguel: 145 MXN per gli stranieri, dal martedì alla domenica dalle 8 alle 17 (scheda INAH). Il lunedì è chiuso: in quel caso inverti i giorni.
 
 ### Giorno 9 — Da Campeche a Palenque
 È il trasferimento lungo verso il Chiapas, passando per Escárcega. Sul Tren Maya Campeche e Palenque sono sulla stessa linea, quindi è la tratta in cui il treno ha più senso, se l'orario del giorno va bene. In auto si parte presto per arrivare con la luce.
@@ -95,13 +95,13 @@ Palenque paese non ha molto da vedere. Si dorme in paese o lungo la strada che s
 ### Giorno 10 — Palenque, la città nella foresta
 Il sito di **Palenque** sta dentro il parco nazionale, a pochi chilometri dal paese, sulle prime colline coperte di foresta. Il Tempio delle Iscrizioni custodiva la tomba del re Pakal; il Palazzo, con la sua torre, domina la piazza. Intorno ci sono ruscelli, cascatelle e il rumore delle scimmie urlatrici. Si entra all'apertura, alle 8, quando la foresta è ancora fresca.
 
-Il pomeriggio si visita il **museo di sito**, aperto dal martedì alla domenica, con i rilievi trovati negli scavi.
+Il pomeriggio si visita il **museo di sito Alberto Ruz L'Huillier**, aperto dal martedì alla domenica dalle 8.30 alle 17 e compreso nel biglietto del sito, con i rilievi trovati negli scavi.
 
 **In pratica**
-- Palenque: 210 MXN di ingresso INAH per gli stranieri, più 215 MXN di quota del parco nazionale (CONANP). Aperto ogni giorno dalle 8 alle 17, ultimo ingresso alle 16. Biglietti al centro visitatori o online. Niente cibo all'ingresso.
+- Palenque: 210 MXN di ingresso INAH per gli stranieri, più 215 MXN di quota del parco nazionale (CONANP). Aperto ogni giorno dalle 8 alle 17, ultimo ingresso alle 16 (scheda INAH). Biglietti al centro visitatori (CATVI) o online. Niente cibo all'ingresso.
 
 ### Giorno 11 — Misol-Ha e Agua Azul, solo se la strada lo permette
-Le cascate di **Misol-Ha**, un salto unico in una piscina naturale, e di **Agua Azul**, una serie di vasche color turchese, sono le gite classiche da Palenque. Si raggiungono dalla **Federale 199**, sul tratto per cui il Foreign Office britannico sconsiglia i viaggi non essenziali per blocchi illegali, proteste e rischio di sequestro. Viaggiare Sicuri, per il Chiapas, segnala rapine a stranieri e pedaggi chiesti dalle comunità rurali.
+Le cascate di **Misol-Ha**, un salto unico in una grande pozza, e di **Agua Azul**, una serie di vasche d'acqua azzurra che nella stagione delle piogge perde il colore, sono le gite classiche da Palenque. Stanno sulla strada per Ocosingo, la **Federale 199**: Agua Azul è a circa 60 km più una deviazione, dentro il tratto per cui il Foreign Office britannico sconsiglia i viaggi non essenziali per blocchi illegali, proteste e rischio di sequestro. Viaggiare Sicuri, per il Chiapas, segnala rapine a stranieri e pedaggi chiesti dalle comunità rurali.
 
 Per questo il giorno 11 qui è una giornata di riserva. Se nel momento in cui parti gli avvisi ufficiali sono cambiati, le cascate si fanno con un tour organizzato dal paese, mai in auto propria; chiedi in hotel la mattina stessa se la strada è libera. Altrimenti si torna al sito di Palenque per i sentieri nella foresta e i gruppi di templi più lontani, o ci si riposa prima della giornata lunga.
 
@@ -116,8 +116,8 @@ Si dorme a Xpujil o negli alloggi ecologici lungo la strada verso la riserva. Fa
 Si arriva dalla Federale 186: al bivio del chilometro 95 si entra nella strada della riserva, e il sito è al chilometro 60. Non risulta un trasporto pubblico fino alle rovine: si va in auto o con un tour da Xpujil. Si parte all'alba, perché l'ultimo ingresso è alle 16 e la strada nella riserva è lunga e stretta.
 
 **In pratica**
-- Calakmul: 210 MXN di ingresso INAH per gli stranieri, più 215 MXN di quota della riserva (CONANP). Aperto ogni giorno dalle 8 alle 17, ultimo ingresso alle 16.
-- Resta sui sentieri segnati: l'INAH ha ricordato che i percorsi fuori dagli itinerari sono vietati. Acqua, cibo, repellente e scarpe chiuse.
+- Calakmul: 210 MXN di ingresso INAH per gli stranieri, più 215 MXN di quota della riserva (CONANP). Aperto ogni giorno dalle 8 alle 17, ultimo ingresso alle 16 (scheda INAH).
+- Resta sui sentieri segnati. Acqua, cibo, repellente e scarpe chiuse.
 
 ### Giorno 14 — Da Xpujil a Bacalar
 Si continua verso est, si rientra in Quintana Roo (un'ora avanti) e si arriva a **Bacalar**, sulla laguna dei sette colori. Il pomeriggio è libero: un bagno dal pontile, un giro sul lungolaguna.
@@ -172,7 +172,7 @@ Zone consigliate, nessun alloggio provato apposta per questo itinerario. Dove Ri
 
 ## Budget indicativo 2026
 Nessun budget giornaliero verificato per questo itinerario. L'entroterra dello Yucatán, del Campeche e del Chiapas costa molto meno della Riviera Maya.
-- **Ingressi dei siti, a persona, per gli stranieri:** circa 3.450 MXN in tutto, cioè Chichén Itzá 697, Ek Balam circa 690, Uxmal 566, Kabah 155, Labná 145, Edzná 210, Fuerte de San Miguel 145, Palenque 210 più 215 di parco, Calakmul 210 più 215 di riserva.
+- **Ingressi dei siti, a persona, per gli stranieri:** circa 2.900 MXN più Chichén Itzá, cioè Ek Balam 691, Uxmal 566, Kabah 155, Labná 145, Sayil 145, Edzná 210, Fuerte de San Miguel 145, Palenque 210 più 215 di parco, Calakmul 210 più 215 di riserva (schede INAH, novembre 2026). Per Chichén Itzá l'importo va controllato: le fonti ufficiali e la stampa locale non coincidono.
 - **Visitax del Quintana Roo:** 20,99 dollari a persona.
 - **Tren Maya, auto a noleggio, alloggi:** prezzi non verificati, da controllare al momento della prenotazione.
 
@@ -180,10 +180,10 @@ Nessun budget giornaliero verificato per questo itinerario. L'entroterra dello Y
 È un giro per chi si sveglia presto. Ogni giorno si entra in un sito all'apertura, e il caldo decide il resto. In cambio si vede tutta la varietà del mondo maya: lo stile puuc di Uxmal, Palenque nella foresta del Chiapas, Calakmul sepolta nella riserva, con le città coloniali di Mérida e Campeche nel mezzo. Il mare è quasi assente, ed è voluto: alla fine c'è Bacalar, e chi vuole spiagge prosegue con *Messico Beach Life*.
 
 ## Nota su questa bozza
-Proposta non vissuta per Palenque, Calakmul, Celestún e la Ruta Puuc; le parti dello Yucatán, di Campeche e di Bacalar riprendono i ricordi già pubblicati del viaggio *Messico Beach Life*. Verificato il 5 novembre 2026: ingressi e orari sulle schede INAH di Calakmul, Palenque, Uxmal, Kabah e Labná; stazioni, bagagli e acquisto del Tren Maya su trenmaya.gob.mx e sul sito ufficiale di vendita; avvisi del Foreign Office britannico (Chiapas, Federale 199, Tabasco, bus, strade) e di Viaggiare Sicuri (aggiornata al 27/05/2026).
+Proposta non vissuta per Palenque, Calakmul, Celestún e la Ruta Puuc; le parti dello Yucatán, di Campeche e di Bacalar riprendono i ricordi già pubblicati del viaggio *Messico Beach Life*. Verificato il 5 novembre 2026: ingressi e orari sulle schede INAH (lugares.inah.gob.mx) di Ek Balam, Chichén Itzá, Uxmal, Kabah, Labná, Sayil, Edzná, Fuerte de San Miguel, Palenque e il suo museo, Calakmul; stazioni, bagagli e acquisto del Tren Maya su trenmaya.gob.mx e sul sito ufficiale di vendita; avvisi del Foreign Office britannico (Chiapas, Federale 199, Tabasco, bus, strade) e di Viaggiare Sicuri (aggiornata al 27/05/2026).
 
 ## Materiale grezzo (appunti, non ancora editato)
-**Note di redazione (5/11/2026):** Restano da verificare: orari e prezzi del Tren Maya per le singole tratte (il sito ufficiale non pubblica un listino generale); tratte e orari ADO (ado.com.mx non era leggibile); prezzo di Sayil; stagione dei fenicotteri a Celestún (nessuna fonte ufficiale trovata: scritto in modo generico); quote d'ingresso di Misol-Ha e Agua Azul, gestite dalle comunità; stato attuale della Federale 199 al momento della partenza. L'avviso del Dipartimento di Stato USA non era leggibile (403). Nessun nome di hotel, ristorante o operatore inventato. Foto da recuperare.
+**Note di redazione (5/11/2026):** Restano da verificare: importo di Chichén Itzá per gli stranieri (scheda INAH 105 + 548 MXN, stampa locale 697 MXN); orari e prezzi del Tren Maya per le singole tratte (il sito ufficiale non pubblica un listino generale); tratte e orari ADO (ado.com.mx non era leggibile); stagione dei fenicotteri a Celestún (nessuna fonte ufficiale trovata: scritto in modo generico); quote d'ingresso di Misol-Ha e Agua Azul, gestite dalle comunità; stato attuale della Federale 199 al momento della partenza. L'avviso del Dipartimento di Stato USA non era leggibile (403). Nessun nome di hotel, ristorante o operatore inventato. Foto da recuperare.
 
 ## Tag
 `#messico` `#yucatan` `#merida` `#campeche` `#calakmul` `#palenque` `#chiapas` `#uxmal` `#rutapuuc` `#chichenitza` `#bacalar` `#maya` `#archeologia` `#cenote` `#roadtrip` `#nordamerica`

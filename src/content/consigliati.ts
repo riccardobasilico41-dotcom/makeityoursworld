@@ -395,4 +395,17 @@ export const CONSIGLIATI: Record<string, Consigliato[]> = {
       },
     },
   ],
+  'scozia/oban': [
+    {
+      nome: 'Ee-Usk',
+      cosa: { it: 'Ristorante di pesce sul molo', en: 'Seafood restaurant on the pier', es: 'Restaurante de pescado en el muelle' },
+      url: 'https://www.eeusk.com',
+      fatto: true,
+      testo: {
+        it: 'A Oban da Ee-Usk ho mangiato benissimo: pesce freschissimo sul molo.',
+        en: 'In Oban I ate really well at Ee-Usk: super-fresh fish right on the pier.',
+        es: 'En Oban comí de maravilla en Ee-Usk: pescado fresquísimo en el muelle.',
+      },
+    },
+  ],
 }

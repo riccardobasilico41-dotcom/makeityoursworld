@@ -16,11 +16,11 @@ Due cose le dico subito. La prima: ogni isola merita almeno una settimana, se no
 Questa guida mette in fila le isole principali: cosa c'è da fare e vedere, come arrivarci e muoversi, quando andare e quando evitarle, quanti giorni servono. Per ognuna ci sono il link alla scheda completa e agli itinerari del sito.
 
 ## Scheda pratica
-- **Documenti:** passaporto con almeno 6 mesi di validità. Il visto si chiede online come **e-VOA** su evisa.imigrasi.go.id, almeno una settimana prima (circa 500.000 IDR). Da ottobre 2025 serve anche la **All Indonesia Arrival Card**, da compilare prima di ogni ingresso.
+- **Documenti:** passaporto con almeno 6 mesi di validità. Il visto si chiede online come **e-VOA** su evisa.imigrasi.go.id, almeno una settimana prima (circa 500.000 IDR). Serve anche la **All Indonesia Arrival Card**, gratuita, da compilare su allindonesia.imigrasi.go.id o nell'app nelle 72 ore prima di ogni ingresso: diffidare dei siti che chiedono soldi.
 - **Tassa turistica di Bali:** 150.000 IDR a persona, da pagare online sul sito ufficiale Love Bali (lovebali.baliprov.go.id). Alcune isole e parchi hanno tasse proprie: Nusa Penida e Lembongan, il Parco di Komodo, Raja Ampat, la tassa surf delle Mentawai.
 - **Voli interni:** sono la spina dorsale del viaggio. Gli snodi principali sono Giacarta, Bali (Denpasar) e Makassar. Rotte e compagnie cambiano spesso: controllale quando prenoti e non fissare coincidenze strette.
 - **Fusi orari:** tre. WIB (UTC+7) per Sumatra, Mentawai, Giava e il Borneo occidentale e centrale; WITA (UTC+8) per Bali, Lombok, Komodo, Flores e Sulawesi; WIT (UTC+9) per Raja Ampat e la Papua.
-- **Valuta e contanti:** rupia indonesiana (IDR), di massima 1€ = 17.000-18.000 IDR. A Bali e nelle città di Giava le carte passano quasi ovunque. Altrove servono contanti, e i bancomat sono rari: a Flores, alle Mentawai e sulle isole di Raja Ampat non contarci.
+- **Valuta e contanti:** rupia indonesiana (IDR): il cambio si controlla prima di partire. A Bali e nelle città di Giava le carte passano quasi ovunque. Altrove servono contanti, e i bancomat sono rari: a Flores, alle Mentawai e sulle isole di Raja Ampat non contarci.
 - **Barche e traghetti:** gov.uk ricorda che il mare cambia in fretta e che le barche possono essere sovraccariche o mal tenute. Controlla che ci siano i giubbotti di salvataggio, ed evita le traversate col buio se la barca non è attrezzata.
 - **Vulcani:** diversi sono attivi e possono chiudere aeroporti e sentieri con poco preavviso. Si rispettano le zone vietate e le indicazioni delle autorità.
 - **Salute:** nessuna vaccinazione obbligatoria, salvo la febbre gialla per chi arriva da Paesi a rischio. Prima di partire passa da un ambulatorio di medicina dei viaggi: per alcune zone (Sumatra rurale, Flores, la Papua) si valuta la profilassi antimalarica.
@@ -33,7 +33,7 @@ Le isole sono intercambiabili, e il calendario è il modo più semplice per sceg
 | Isola o area | Periodo migliore | Da evitare o da sapere |
 |---|---|---|
 | Bali e Nusa | aprile-ottobre | Nyepi a marzo; piogge da novembre a marzo |
-| Lombok e Gili | stagione secca, aprile-ottobre | il Rinjani chiude ogni anno da gennaio a marzo |
+| Lombok e Gili | stagione secca, aprile-ottobre | il Rinjani chiude nei primi mesi dell'anno (nel 2026 dal 1° gennaio al 31 marzo) |
 | Giava | maggio-settembre | cieli più tersi per l'alba al Bromo |
 | Sumatra | giugno-settembre | sentieri nel fango con le piogge |
 | Mentawai | maggio-settembre | da novembre a gennaio piove molto |
@@ -41,7 +41,7 @@ Le isole sono intercambiabili, e il calendario è il modo più semplice per sceg
 | Flores | maggio-ottobre | strade e sentieri fangosi con le piogge |
 | Sulawesi | maggio-ottobre | strade lunghe per Toraja in ogni stagione |
 | Raja Ampat | ottobre-aprile | maggio-settembre più vento, ma meno gente |
-| Borneo indonesiano | di massima giugno-settembre | le fonti non coincidono sui mesi |
+| Borneo indonesiano | di massima maggio-settembre, la stagione più secca | piove molto anche fuori stagione |
 
 **In pratica:** tra luglio e agosto vanno bene Bali, le Nusa, Komodo, Sulawesi, Sumatra e le Mentawai. A ottobre si possono unire Sulawesi o Komodo con Raja Ampat. Tra dicembre e marzo, se si vuole il mare, la scelta più sicura è Raja Ampat.
 
@@ -61,11 +61,11 @@ Le isole sono intercambiabili, e il calendario è il modo più semplice per sceg
 ### Nusa Penida e Nusa Lembongan
 **Cosa fare e vedere:** a Nusa Penida Kelingking Beach, Broken Beach, Angel's Billabong, Diamond Beach e lo snorkeling con le mante a Manta Point. A Nusa Lembongan le mangrovie, Devil's Tear e lo Yellow Bridge per Nusa Ceningan. Nusa Penida è vittima del proprio successo: Kelingking a metà giornata è una coda di persone su un sentiero ripido.
 
-**Come arrivare e muoversi:** barche veloci da Sanur, 30-45 minuti, con più corse al giorno. Tra Lembongan e Penida ci sono barche locali. Sull'isola le strade sono strette e ripide: meglio un driver. All'arrivo si paga una tassa locale, separata da quella di Bali.
+**Come arrivare e muoversi:** barche veloci da Sanur, circa mezz'ora, con più corse al giorno. Tra Lembongan e Penida ci sono barche locali. Sull'isola le strade sono strette e ripide: meglio un driver. All'arrivo si paga una tassa locale, separata da quella di Bali.
 
 **Quando andare:** come Bali, aprile-ottobre, con il mare più calmo per le traversate.
 
-**Quanti giorni:** la gita in giornata da Bali si fa, ma con le code. Tre giorni, dormendo sulle isole, permettono di essere ai panorami prima delle barche da Sanur.
+**Quanti giorni:** la gita in giornata da Bali si fa, ma con le code. Tre giorni, dormendo sulle isole, permettono di essere ai panorami prima delle barche da Sanur. Io su Penida ho fatto tre notti e l'ho girata tutta con calma: è il ritmo che consiglio.
 
 **Per approfondire:** [la giornata a Nusa Penida](/esperienze/indonesia/giornata-nusa-penida), [Bali, Nusa e Komodo in 14 giorni](/viaggi/bali-nusa-komodo).
 
@@ -74,7 +74,7 @@ Le isole sono intercambiabili, e il calendario è il modo più semplice per sceg
 
 **Come arrivare e muoversi:** volo su Lombok (LOP) o barca veloce da Bali, da Padang Bai o Sanur. Alle Gili solo cidomo, i calessi a cavallo, e biciclette. Sul resto di Lombok auto con autista o scooter.
 
-**Quando andare:** la stagione secca. Il Rinjani chiude ogni anno nei mesi delle piogge: nel 2026 è rimasto chiuso dal 1° gennaio al 31 marzo. Anche in stagione secca può avere limiti: a settembre 2026 il parco ha ridotto le visite e sospeso le prenotazioni online per il rischio di incendi. Guida e operatore autorizzato sono obbligatori: controlla lo stato dei sentieri sui canali ufficiali del parco prima di prenotare.
+**Quando andare:** la stagione secca. Il Rinjani chiude nei mesi delle piogge: nel 2026 è rimasto chiuso dal 1° gennaio al 31 marzo. Anche in stagione secca il parco può chiudere singoli sentieri per maltempo o incidenti. Guida e operatore autorizzato sono obbligatori, e i biglietti si prenotano sull'app ufficiale E-Rinjani del parco (Android e iOS). Attenzione: il sito erinjani.id oggi rimanda a un'agenzia privata, non al parco.
 
 **Quanti giorni:** una settimana: tre giorni per il Rinjani, il resto tra le Gili e il sud.
 
@@ -136,29 +136,29 @@ Le isole sono intercambiabili, e il calendario è il modo più semplice per sceg
 **Per approfondire:** [la scheda di Sulawesi](/destinazioni/indonesia/sulawesi), [le immersioni a Bunaken](/esperienze/indonesia/diving-bunaken-national-park), [Bali, Sulawesi e Raja Ampat in 12 giorni](/viaggi/bali-sulawesi-raja-ampat).
 
 ### Raja Ampat
-**Cosa fare e vedere:** snorkeling e immersioni tra Kri, Arborek, Cape Kri e le isole Fam, il belvedere di Piaynemo, i villaggi degli homestay. Più a sud Misool, con un liveaboard. È il posto più bello che ho visto sott'acqua, e anche il più faticoso da raggiungere. Una densità di pesce come quella del reef di Arborek, a venti metri dalla riva, altrove non c'è più. Dormire negli homestay invece che nei resort è la scelta che vale la pena fare, perché quel modello tiene in piedi la protezione del parco.
+**Cosa fare e vedere:** snorkeling e immersioni tra Kri, Arborek, Cape Kri e le isole Fam, il belvedere di Piaynemo, i villaggi degli homestay. Più a sud Misool, con un liveaboard. È il posto più bello che ho visto sott'acqua, e anche il più faticoso da raggiungere. Chi vuole dormire ad Arborek trova gli homestay sul portale degli homestay locali, stayrajaampat.com (per esempio Worisun e Adefiro). Dormire negli homestay invece che nei resort è la scelta che vale la pena fare, perché quel modello tiene in piedi la protezione del parco.
 
-**Come arrivare e muoversi:** volo su Sorong, diretto da Bali con Garuda o da Giacarta, Makassar e Manado. Poi traghetto per Waisai, circa 2 ore, con partenze alle 9 e alle 14. Tra le isole solo barche degli homestay, barche private o liveaboard. Il permesso del parco (PIN) è obbligatorio e si compra a Waisai: l'importo per gli stranieri va verificato al momento. Sulle isole non ci sono bancomat.
+**Come arrivare e muoversi:** volo su Sorong da Giacarta, Makassar e Manado, o da Bali con il diretto Garuda nei mesi in cui è attivo (nel 2026-2027 da fine ottobre a marzo). Poi traghetto per Waisai, circa 2 ore, con una partenza nel primo pomeriggio e, non tutti i giorni, una al mattino. Tra le isole solo barche degli homestay, barche private o liveaboard. Il permesso del parco (PIN) è obbligatorio e si paga a Sorong o al porto di Waisai: l'importo per gli stranieri è cambiato nel 2026 e va verificato al momento. Sulle isole non ci sono bancomat.
 
-**Quando andare:** ottobre-aprile, con mare più calmo, mante e grandi pelagici. Da maggio a settembre soffiano i venti da sud-est: i trasferimenti si allungano e le uscite nelle zone esposte possono saltare. Ci siamo stati ad agosto: il mare è stato clamoroso lo stesso, dieci giorni senza pioggia, ma il vento si è fatto sentire. E d'estate mante e squali sono molto più rari.
+**Quando andare:** ottobre-aprile, con mare più calmo, mante e grandi pelagici. Da maggio a settembre soffiano i venti da sud-est: i trasferimenti si allungano e le uscite nelle zone esposte possono saltare. Ci siamo stati ad agosto: il mare è stato clamoroso lo stesso, dieci giorni senza pioggia, ma il vento si è fatto sentire. E d'estate i grandi pelagici si vedono meno.
 
 **Quanti giorni:** una settimana come minimo. Con meno, si passa più tempo in viaggio che in acqua.
 
 **Per approfondire:** [la scheda di Raja Ampat](/destinazioni/indonesia/raja-ampat), [il liveaboard a Raja Ampat](/esperienze/indonesia/diving-liveaboard-raja-ampat), [Bali, Sulawesi e Raja Ampat in 12 giorni](/viaggi/bali-sulawesi-raja-ampat).
 
 ### Il Borneo indonesiano
-**Cosa fare e vedere:** il Kalimantan è la parte indonesiana del Borneo. Il posto più visitato è il parco nazionale di **Tanjung Puting**, nel Kalimantan centrale: si risale il fiume su un **klotok**, la barca di legno dove si mangia e si dorme, fino a Camp Leakey e alle stazioni dove i ranger portano il cibo agli oranghi, molti dei quali sono stati riabilitati. Non ci sono ancora stato, quindi qui ci sono solo le informazioni di base.
+**Cosa fare e vedere:** il Kalimantan è la parte indonesiana del Borneo. Il posto più noto è il parco nazionale di **Tanjung Puting**, nel Kalimantan centrale: si risale il fiume su un **klotok**, la barca di legno dove si mangia e si dorme, fino a Camp Leakey, il centro di ricerca aperto nel 1971 dove sono stati studiati e reintrodotti nella foresta oranghi salvati e orfani. Non ci sono ancora stato, quindi qui ci sono solo le informazioni di base.
 
-**Come arrivare e muoversi:** volo su Pangkalan Bun, con collegamenti da Giacarta e da altre città indonesiane, poi strada fino al porto di Kumai, da dove partono i klotok. I tour si organizzano con operatori locali.
+**Come arrivare e muoversi:** volo su Pangkalan Bun, con collegamenti da Giacarta o Surabaya, poi strada fino al porto di Kumai, da dove partono i klotok. I tour si organizzano con operatori locali.
 
-**Quando andare:** di massima la stagione secca, giugno-settembre, ma le fonti non coincidono sui mesi. Con gli incendi della stagione secca il fumo può arrivare su Borneo e Sumatra.
+**Quando andare:** di massima la stagione più secca, da maggio a settembre.
 
 **Quanti giorni:** tre o quattro giorni sul fiume, una settimana con il viaggio.
 
 **Per approfondire:** il [Borneo malese](/destinazioni/borneo), con gli oranghi di Sepilok e il fiume Kinabatangan, per chi vuole il Borneo con più strutture.
 
 ## Come combinarle: le isole sono intercambiabili
-Non esiste un giro obbligato. Si parte dal mese in cui si viaggia e dal tempo che si ha, e si sceglie. Con due settimane, due isole sono il massimo per non correre. Con tre o quattro settimane se ne aggiungono una o due. Gli snodi aerei aiutano: da Bali si vola su Labuan Bajo, Lombok, Manado e Sorong; da Makassar su Toraja, Manado e Sorong; da Giacarta su Yogyakarta, Medan e Padang.
+Non esiste un giro obbligato. Si parte dal mese in cui si viaggia e dal tempo che si ha, e si sceglie. Con due settimane, due isole sono il massimo per non correre. Con tre o quattro settimane se ne aggiungono una o due. Gli snodi aerei aiutano: da Bali si vola su Labuan Bajo e Lombok, e su Manado e Sorong diretti o con scalo secondo la stagione; da Makassar su Toraja, Manado e Sorong; da Giacarta su Yogyakarta, Medan e Padang.
 
 **Esempi già pronti nel sito:**
 - **Due settimane tra maggio e settembre, l'Indonesia classica:** [Giava, Bali e Gili](/viaggi/giava-bali-gili).
@@ -197,7 +197,7 @@ Non esiste un giro obbligato. Si parte dal mese in cui si viaggia e dal tempo ch
 ## Chiusura personale
 L'Indonesia è un Paese a cui si torna: le isole sono troppe, e troppo diverse, per un viaggio solo. Per questo il consiglio è uno solo: scegli una o due isole, in base al mese, e dagli il tempo che meritano. Le altre restano lì per il prossimo viaggio.
 
-*Da Rick vengono i ricordi di ogni isola, ripresi dalle schede destinazione del sito, il messaggio che ogni isola merita almeno una settimana e che le destinazioni sono intercambiabili, e i contatti consigliati. Il resto viene dalle schede del sito e dalla ricerca del 5 novembre 2026: Love Bali per la tassa turistica, ANTARA per le tariffe del parco di Komodo, indonesia.travel per Raja Ampat, i comunicati del parco del Rinjani riportati da ANTARA, CNN Indonesia e Detik per le chiusure del 2026, gli elenchi delle rotte degli aeroporti, gov.uk per sicurezza, barche e vulcani, guide e operatori di settore per Tanjung Puting e la strada per Toraja. Prezzi, orari, chiusure e tasse locali vanno ricontrollati prima di partire.*
+*Da Rick vengono i ricordi di ogni isola, ripresi dalle schede destinazione del sito, il messaggio che ogni isola merita almeno una settimana e che le destinazioni sono intercambiabili, e i contatti consigliati. Il resto viene dalle schede del sito e dalla ricerca del 5 novembre 2026: Love Bali per la tassa turistica, ANTARA per le tariffe del parco di Komodo, Wikivoyage e operatori per Raja Ampat, i comunicati del parco del Rinjani riportati da ANTARA, CNN Indonesia, Detik e Metro TV per la chiusura e la riapertura del 2026 e per l'app E-Rinjani, le notizie sulla rotta stagionale Garuda Denpasar-Sorong, gov.uk per documenti, sicurezza, barche e vulcani, Wikipedia e Wikivoyage per Tanjung Puting e la strada per Toraja. Prezzi, orari, chiusure e tasse locali vanno ricontrollati prima di partire.*
 
 ## Tag
 `#indonesia` `#guida` `#bali` `#nusapenida` `#lombok` `#gili` `#giava` `#sumatra` `#mentawai` `#komodo` `#flores` `#sulawesi` `#rajaampat` `#borneo` `#asia`

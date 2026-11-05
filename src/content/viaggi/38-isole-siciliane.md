@@ -1,4 +1,4 @@
-# Le isole siciliane: Egadi, Pantelleria e Lampedusa in 12 giorni
+# Le isole siciliane: Egadi, Pantelleria e Lampedusa in due settimane
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
 **Periodo del viaggio:** **fine maggio-giugno oppure settembre**

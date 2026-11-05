@@ -1,4 +1,4 @@
-# Croatia in 14 Days: From Zagreb to Dubrovnik, Through Lakes, Roman Towns and Islands
+# Croatia in Two Weeks: From Zagreb to Dubrovnik, Through Lakes, Roman Towns and Islands
 
 **Stato bozza:** 🟡 in progress (itinerary and practical information verified through research in October 2026)
 **Periodo del viaggio:** late May-June or September, with the sea already warm, frequent ferries and fewer crowds than in July-August

@@ -1,4 +1,4 @@
-# Las grandes ciudades en 12 días: Roma, Florencia, Venecia, Nápoles
+# Las grandes ciudades en dos semanas: Roma, Florencia, Venecia, Nápoles
 
 **Stato bozza:** 🟡 en elaboración
 **Periodo del viaggio:** **de octubre a marzo**, que es cuando las ciudades de arte italianas vuelven a ser vivibles

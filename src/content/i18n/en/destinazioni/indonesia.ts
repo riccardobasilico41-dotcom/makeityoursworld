@@ -691,7 +691,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Flight to Lombok International Airport (LOP), or fast ferry from Bali (Padang Bai or Sanur toward the Gilis).",
     comeSpostarsi: "Only cidomo (horse-drawn carts) or bicycle on the Gilis, where motor vehicles are banned; car or scooter on the rest of Lombok.",
     periodoMigliore:
-      "the dry season; the Rinjani closes in the rainy season, dates are on eRinjani",
+      "the dry season; the Rinjani closes in the rainy season, dates are on the park's official E-Rinjani app",
     costi: "generally cheaper than Bali",
     erroriDaEvitare: [
       "Underestimating the effort and altitude of the Rinjani trek",
@@ -719,8 +719,8 @@ export const destinazioniIndonesia: Destinazione[] = [
       {
         nome: "Trek to Gunung Rinjani",
         testo: "Indonesia's second-highest volcano, 3,726 metres. From the crater rim you see Lake Segara Anak, inside the caldera, at about 2,000 metres. The route is long and exposed and ends on volcanic sand.",
-        come: "From Senaru or Sembalun, only with a licensed operator and a guide. You must register online on the official eRinjani system, which also lists the documents required; since 2026 each guide can take at most four trekkers. Multi-day packages with porters and tents.",
-        quando: "In the dry season. With rain, bad weather or after accidents the park may close the trails: check eRinjani before booking.",
+        come: "From Senaru or Sembalun, only with a licensed operator and a guide. Tickets are booked on the park's official E-Rinjani app (Android and iOS); the erinjani.id website now redirects to a private agency, not to the park. Multi-day packages with porters and tents.",
+        quando: "In the dry season. With rain, bad weather or after accidents the park may close the trails: check the E-Rinjani app or the park's official channels before booking.",
         tempo: "several days",
         consiglio: "The camp on the rim is windy and you sleep little: waking above the clouds with the lake below pays off everything."
       },
@@ -802,7 +802,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Rinjani: a guide, a licensed operator and eRinjani registration are compulsory. Underestimating effort and altitude is the most common mistake.",
+      "Rinjani: a guide, a licensed operator and booking on the official E-Rinjani app are compulsory. Underestimating effort and altitude is the most common mistake.",
       "Trawangan in the evening is more party than it looks; Meno is the opposite. Choose one by character.",
       "Crossings from Bali: the sea can be rough; avoid booking overly tight transfers.",
       "On the Gilis, currents and boats: do not swim far from the shore."

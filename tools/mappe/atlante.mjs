@@ -39,6 +39,7 @@ const FIUMI_NOMI = {
   Elbe: ['Elba', 'Elbe', 'Elba'], Vistula: ['Vistola', 'Vistula', 'Vístula'], Wisła: ['Vistola', 'Vistula', 'Vístula'],
   Tagus: ['Tago', 'Tagus', 'Tajo'], Tajo: ['Tago', 'Tagus', 'Tajo'], Tejo: ['Tago', 'Tagus', 'Tajo'], Ebro: ['Ebro', 'Ebro', 'Ebro'],
   Douro: ['Douro', 'Douro', 'Duero'], Duero: ['Douro', 'Douro', 'Duero'], Guadalquivir: ['Guadalquivir', 'Guadalquivir', 'Guadalquivir'],
+  Thames: ['Tamigi', 'Thames', 'Támesis'],
   Po: ['Po', 'Po', 'Po'], Tevere: ['Tevere', 'Tiber', 'Tíber'], Ganges: ['Gange', 'Ganges', 'Ganges'], Indus: ['Indo', 'Indus', 'Indo'],
   Mekong: ['Mekong', 'Mekong', 'Mekong'], Yangtze: ['Fiume Azzurro', 'Yangtze', 'Yangtsé'], 'Chang Jiang': ['Fiume Azzurro', 'Yangtze', 'Yangtsé'],
   'Huang He': ['Fiume Giallo', 'Yellow River', 'Río Amarillo'], Mississippi: ['Mississippi', 'Mississippi', 'Misisipi'],
@@ -53,6 +54,10 @@ const STATI = leggi('ne_50m_admin_1_states_provinces').features
 const FIUMI = leggi('ne_10m_rivers_lake_centerlines').features
 const LAGHI = leggi('ne_10m_lakes').features
 const MARI = leggi('ne_10m_geography_marine_polys').features
+// facoltativo: le nazioni del Regno Unito separate, per le mappe con cc 'gb' (vedi config.mjs)
+const UNITA_UK = fs.existsSync(path.join(DATI, 'ne_50m_admin_0_map_units.geojson'))
+  ? leggi('ne_50m_admin_0_map_units').features.filter((f) => f.properties.ADMIN === 'United Kingdom').map((f) => ({ ...f, unita: true }))
+  : null
 console.timeEnd('dati')
 
 const mercY = (lat) => (Math.log(Math.tan(Math.PI / 4 + (Math.max(-85, Math.min(85, lat)) * Math.PI) / 360)) * 180) / Math.PI
@@ -341,9 +346,13 @@ async function atlante(slug) {
   }
 
   // ── terre vicine: Paesi (o Stati USA per le mappe 'us') ──
+  // nelle mappe delle nazioni del Regno Unito il Regno Unito si sostituisce con le sue nazioni (Galles, Scozia…)
+  if ((cfg.fonte === 'mapunits' || cfg.cc === 'gb') && !UNITA_UK) throw new Error('manca ne_50m_admin_0_map_units.geojson in --dati')
   const fonti = cfg.fonte === 'us'
     ? [...PAESI.filter((f) => f.properties.ADMIN !== 'United States of America'), ...STATI.filter((f) => f.properties.admin === 'United States of America')]
-    : PAESI
+    : cfg.cc === 'gb'
+      ? [...PAESI.filter((f) => f.properties.ADMIN !== 'United Kingdom'), ...UNITA_UK]
+      : PAESI
   const vicini = []
   const tol = 0.8
   for (const f of fonti) {
@@ -361,7 +370,7 @@ async function atlante(slug) {
       if (sr.length >= 3) anelli.push(sr)
     }
     if (!anelli.length) continue
-    const id = (pr.ADM0_A3 ?? pr.adm1_code ?? pr.iso_3166_2 ?? pr.name).toLowerCase()
+    const id = ((f.unita ? pr.GU_A3 : null) ?? pr.ADM0_A3 ?? pr.adm1_code ?? pr.iso_3166_2 ?? pr.name).toLowerCase()
     vicini.push({ id, anelli, nome: { it: nomeDi(pr, 'it'), en: nomeDi(pr, 'en'), es: nomeDi(pr, 'es') } })
   }
   // colori: greedy sui vicini adiacenti (vertici a meno di 4 unità dal bordo dell'altro)
@@ -519,7 +528,7 @@ async function atlante(slug) {
         const q = polo([vis], W, H, 4)
         if (q && q.d > 5) {
           // «L. Vittoria»: il nome del lago con l'abbreviazione da atlante, se non c'è già «Lago/Lake/Laguna»
-          const nome = (k) => { const v = pr[`name_${k}`] ?? pr.name; return /^(lago|lake|laguna|loch|lac|lough)\b/i.test(v) ? v : `L. ${v}` }
+          const nome = (k) => { const v = pr[`name_${k}`] ?? pr.name; return /(^|\s)(lago|lake|laguna|loch|lac|lough)\b/i.test(v) ? v : `L. ${v}` }
           etichette.push({ id: `l${laghi.length - 1}`, tipo: 'lago', x: +q.pt[0].toFixed(1), y: +(q.pt[1]).toFixed(1), testo: { it: nome('it'), en: nome('en'), es: nome('es') } })
         }
       }

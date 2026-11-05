@@ -1,4 +1,4 @@
-# The Sicilian Islands: Egadi, Pantelleria and Lampedusa in 12 Days
+# The Sicilian Islands: Egadi, Pantelleria and Lampedusa in Two Weeks
 
 **Stato bozza:** 🟡 in progress (itinerary and practical information verified; the first-person passages are written as a draft to be reread and personalized)
 **Periodo del viaggio:** **late May-June or September**

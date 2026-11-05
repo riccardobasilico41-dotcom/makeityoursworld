@@ -1,9 +1,10 @@
 import type { Destinazione } from '@/lib/types'
 
 // Destinazioni del viaggio «Scozia in auto» (src/content/viaggi/97-scozia-highlands-distillerie.md).
-// Itinerario costruito sulla ricerca. Ricordi di Rick usati solo dove li ha scritti lui:
-// ha guidato in Scozia, EE-USK a Oban buonissimo, meteo imprevedibile, la strada del nord
-// (North Coast 500) mozzafiato. Orari e prezzi delle distillerie presi dai siti ufficiali
+// Viaggio di Rick a luglio, completato con la ricerca. Tappe fatte da lui (visitataPersonalmente):
+// Edimburgo, Glasgow di passaggio, Loch Lomond e Glencoe (bellissima), Oban e da lì le Ebridi
+// (isole non specificate), Glenfinnan per il Jacobite, Skye, Cairngorms, Inverness e Loch Ness («meh»), le distillerie, la North Coast 500 (mozzafiato;
+// anche l'autunno con il foliage è bellissimo). Ee-Usk a Oban buonissimo, meteo imprevedibile. Orari e prezzi delle distillerie presi dai siti ufficiali
 // (malts.com, laphroaig.com) a novembre 2026. Foto da Wikimedia Commons, crediti in docs/uk-registri.md.
 
 const IMG = '/images/viaggi/scozia-highlands-distillerie'
@@ -16,7 +17,7 @@ export const destinazioniScozia: Destinazione[] = [
     nome: 'Edimburgo',
     tipologia: ['città', 'storia', 'cultura'],
     giorniConsigliati: '2-3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La capitale della Scozia, costruita su colline vulcaniche. La Old Town medievale scende dal castello lungo il Royal Mile fino al palazzo di Holyrood; sotto, la New Town georgiana. Le due insieme sono patrimonio UNESCO.',
     percheAndarci:
@@ -33,12 +34,13 @@ export const destinazioniScozia: Destinazione[] = [
       'Prenotare ad agosto all\'ultimo momento, quando c\'è il Fringe',
       'Tenere l\'auto in città: non serve e parcheggiare costa',
     ],
+    miaEsperienza: 'Ci sono stato a luglio, nel mio giro della Scozia.',
     // GUIDA-START
     luoghi: [
       {
         nome: 'Castello di Edimburgo',
-        testo: 'La fortezza in cima alla Castle Rock, sopra la città. Dentro ci sono i gioielli della Corona scozzese, la Pietra del Destino e la cappella di St Margaret, il più antico edificio di Edimburgo.',
-        come: 'A piedi dalla parte alta del Royal Mile. Biglietto online sul sito ufficiale, con data e ora.',
+        testo: 'La fortezza in cima alla Castle Rock, sopra la città. Dentro ci sono gli Onori di Scozia, i gioielli della Corona scozzese, e la cappella di St Margaret, del XII secolo, considerata il più antico edificio di Edimburgo.',
+        come: 'A piedi dalla parte alta del Royal Mile. Il biglietto online costa meno e conviene comprarlo prima: quando i biglietti online finiscono, al castello non se ne trovano.',
         quando: 'All\'apertura, dalle 9:30.',
         tempo: '2-3 ore',
         costo: '23,50 sterline online, 26 alla cassa (adulti, 2026)',
@@ -93,7 +95,7 @@ export const destinazioniScozia: Destinazione[] = [
     nome: 'Glasgow',
     tipologia: ['città', 'musei', 'architettura'],
     giorniConsigliati: 'mezza giornata o 1 giorno',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione: 'La città più grande della Scozia, a un\'ora da Edimburgo. Vittoriana, industriale e piena di musei, con la cattedrale medievale e la Necropoli sulla collina accanto.',
     percheAndarci: 'Per una sosta sulla strada verso Loch Lomond: la cattedrale, la Necropoli e il Kelvingrove, il museo d\'arte più famoso della città.',
     cosaVedere: ['La cattedrale di Glasgow', 'La Necropoli', 'Il Kelvingrove Art Gallery and Museum', 'Il centro vittoriano intorno a George Square'],
@@ -101,6 +103,7 @@ export const destinazioniScozia: Destinazione[] = [
     comeArrivare: 'In treno o in auto da Edimburgo, in circa un\'ora.',
     comeSpostarsi: 'A piedi in centro, la metropolitana per il West End.',
     erroriDaEvitare: ['Entrare in centro in auto senza aver controllato le regole sulle zone a basse emissioni: conviene parcheggiare fuori e usare la metropolitana'],
+    miaEsperienza: 'Ci sono passato solo di passaggio.',
     esperienzeSlugs: [],
     tripSlugs: ['scozia-highlands-distillerie'],
     imageAlt: 'La cattedrale di Glasgow vista dalla Necropoli, tra le lapidi vittoriane',
@@ -113,7 +116,7 @@ export const destinazioniScozia: Destinazione[] = [
     nome: 'Loch Lomond e Glencoe',
     tipologia: ['natura', 'lago', 'montagna', 'on the road'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Il primo assaggio di Highlands. Loch Lomond è il grande lago a nord di Glasgow, nel parco nazionale di Loch Lomond e dei Trossachs. Più a nord la strada attraversa la brughiera di Rannoch Moor e scende nella valle di Glencoe, tra le montagne più famose di Scozia.',
     percheAndarci: 'Per la strada tra Rannoch Moor e Glencoe, una delle più spettacolari del Paese, e per le camminate brevi sulle sponde del lago.',
@@ -127,6 +130,7 @@ export const destinazioniScozia: Destinazione[] = [
       'Partire per un sentiero di montagna sottovalutando il meteo: nebbia e pioggia arrivano in fretta',
     ],
     attenzioni: ['Moscerini (midges) d\'estate, soprattutto la sera e senza vento: serve un repellente.'],
+    miaEsperienza: 'Ho fatto il Loch Lomond e Glencoe. Glencoe è bellissima.',
     esperienzeSlugs: [],
     tripSlugs: ['scozia-highlands-distillerie'],
     imageAlt: 'La valle di Glencoe sotto le Three Sisters, con le nuvole basse sulle cime',
@@ -150,12 +154,12 @@ export const destinazioniScozia: Destinazione[] = [
     comeArrivare: 'In auto da Glasgow, passando dal Loch Lomond. In treno da Glasgow Queen Street.',
     comeSpostarsi: 'A piedi in centro.',
     erroriDaEvitare: ['Arrivare d\'estate senza prenotare il tour della distilleria, che si riempie anche per le navi da crociera', 'Non prenotare la cena: i ristoranti di pesce sul porto sono pieni'],
-    miaEsperienza: 'Da Ee-Usk, sul porto di Oban, ho mangiato pesce buonissimo.',
+    miaEsperienza: 'Da Ee-Usk, sul porto di Oban, ho mangiato pesce buonissimo. E da Oban sono andato alle Ebridi.',
     // GUIDA-START
     luoghi: [
       {
         nome: 'Distilleria di Oban',
-        testo: 'Una delle distillerie più piccole della Scozia, nel centro della cittadina, a pochi passi dal porto. Il whisky è un single malt della costa ovest.',
+        testo: 'Una piccola distilleria nel centro della cittadina, a pochi passi dal porto. Il whisky è un single malt della costa ovest.',
         come: 'Su prenotazione dal sito malts.com. Non sono ammessi bambini sotto gli 8 anni. Chi guida chiede se c\'è l\'assaggio da portare via.',
         quando: 'Aperta tutti i giorni: aprile 10-18, da maggio a settembre 10-19, ottobre 10-18, da novembre a marzo 10-17 (2026).',
         tempo: '1 ora per il tour classico',
@@ -165,8 +169,8 @@ export const destinazioniScozia: Destinazione[] = [
       },
       {
         nome: 'McCaig\'s Tower',
-        testo: 'Un anello di archi di granito sulla collina sopra il porto, voluto da un banchiere di Oban a fine Ottocento. Dentro c\'è un giardino, e dal bordo si vede tutta la baia con le isole.',
-        come: 'A piedi dal centro, con una salita breve e ripida. Ingresso libero.',
+        testo: 'Un anello di archi di granito sulla collina sopra il porto, voluto dal banchiere John Stuart McCaig: iniziato nel 1897, rimase incompiuto alla sua morte, nel 1902. Dentro c\'è un giardino, e dal bordo si vede tutta la baia con le isole.',
+        come: 'A piedi dal centro, con una salita breve e ripida.',
         quando: 'Al tramonto.',
         tempo: '45 minuti',
       },
@@ -196,7 +200,7 @@ export const destinazioniScozia: Destinazione[] = [
     nome: 'Fort William e Glenfinnan',
     tipologia: ['montagna', 'treno', 'on the road'],
     giorniConsigliati: '1 giorno',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Fort William sta ai piedi del Ben Nevis, la montagna più alta del Regno Unito. A ovest, sulla strada per Mallaig, c\'è Glenfinnan, con il viadotto ferroviario ad archi diventato famoso con i film di Harry Potter e il monumento sul Loch Shiel.',
     percheAndarci: 'Per vedere il treno a vapore sul viadotto di Glenfinnan, o salirci sopra, e per la strada verso il mare e Skye.',
@@ -205,12 +209,13 @@ export const destinazioniScozia: Destinazione[] = [
     comeArrivare: 'In auto sulla A82 da Glencoe; Glenfinnan è sulla A830 verso Mallaig.',
     comeSpostarsi: 'In auto. A Glenfinnan c\'è un parcheggio a pagamento vicino al centro visitatori.',
     erroriDaEvitare: ['Contare su un posto sul Jacobite senza prenotazione: i posti sono pochi', 'Camminare sui binari per la foto: si guarda il treno dai sentieri'],
+    miaEsperienza: 'Sono andato al viadotto di Glenfinnan per il treno di Harry Potter, il Jacobite.',
     // GUIDA-START
     luoghi: [
       {
         nome: 'Il Jacobite',
         testo: 'Il treno a vapore stagionale da Fort William a Mallaig e ritorno, 84 miglia in tutto. Passa sul viadotto di Glenfinnan e si ferma circa un\'ora e mezza a Mallaig prima di tornare.',
-        come: 'Prenotazione sul sito di West Coast Railways. Pochi posti in vendita il giorno stesso a Fort William, solo in contanti e senza garanzia. Con il caldo estremo o il rischio incendi può essere trainato da una locomotiva diesel.',
+        come: 'Prenotazione sul sito di West Coast Railways. Pochi posti in vendita il giorno stesso a Fort William, solo in contanti e senza garanzia. Quando il rischio di incendi è alto, o per un guasto, può essere trainato da una locomotiva diesel storica.',
         quando: 'D\'estate. A novembre 2026 date e prezzi del 2027 non sono ancora usciti.',
         tempo: 'una giornata',
         url: 'https://www.westcoastrailways.co.uk/jacobite/jacobite-steam-train-details.cfm',
@@ -236,7 +241,7 @@ export const destinazioniScozia: Destinazione[] = [
     nome: 'Isola di Skye',
     tipologia: ['isola', 'natura', 'trekking', 'distilleria'],
     giorniConsigliati: '2-3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La più grande delle Ebridi Interne, collegata alla terraferma da un ponte. Pinnacoli di roccia, scogliere, torrenti e montagne, con Portree come centro e la distilleria Talisker sulla costa ovest.',
     percheAndarci: 'Per i paesaggi della penisola di Trotternish, con l\'Old Man of Storr e il Quiraing, per le Fairy Pools e per Talisker.',
@@ -250,6 +255,7 @@ export const destinazioniScozia: Destinazione[] = [
       'Parcheggiare nelle piazzole di scambio: servono a far passare le auto',
       'Partire per i sentieri con scarpe da città: il terreno è spesso fangoso',
     ],
+    miaEsperienza: 'Ho fatto anche l\'Isola di Skye.',
     // GUIDA-START
     luoghi: [
       {
@@ -275,7 +281,7 @@ export const destinazioniScozia: Destinazione[] = [
       },
       {
         nome: 'Distilleria Talisker',
-        testo: 'La distilleria più antica dell\'isola, a Carbost, sulla riva del Loch Harport.',
+        testo: 'Fondata nel 1830, è secondo la distilleria stessa la più antica ancora in attività sull\'isola. Sta a Carbost, sulla riva del Loch Harport.',
         come: 'Su prenotazione dal sito malts.com, consigliata soprattutto d\'estate. Non sono ammessi bambini sotto gli 8 anni.',
         quando: 'Da marzo a ottobre 10-17, da novembre a febbraio 10-16:30 (2026). Manutenzione annuale dall\'11 ottobre al 1° novembre 2026, con alcune esperienze sospese.',
         tempo: '1 ora',
@@ -308,7 +314,7 @@ export const destinazioniScozia: Destinazione[] = [
     nome: 'Inverness e Loch Ness',
     tipologia: ['lago', 'castelli', 'città'],
     giorniConsigliati: '1 giorno',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Inverness è il capoluogo delle Highlands, sul fiume Ness. A sud-ovest comincia Loch Ness, il lago lungo e profondo del mostro, con le rovine del castello di Urquhart sulla riva.',
     percheAndarci: 'Per Urquhart sul lago e come base per lo Speyside e per la North Coast 500, che parte e arriva qui.',
@@ -317,11 +323,12 @@ export const destinazioniScozia: Destinazione[] = [
     comeArrivare: 'In auto sulla A82 lungo Loch Ness da Fort William, o da Skye passando per Eilean Donan.',
     comeSpostarsi: 'In auto.',
     erroriDaEvitare: ['Arrivare a Urquhart senza biglietto in alta stagione: si prenota online con data e ora'],
+    miaEsperienza: 'Ho fatto Inverness e Loch Ness. Loch Ness, sinceramente, è un po\' meh: da solo non vale il viaggio.',
     // GUIDA-START
     luoghi: [
       {
         nome: 'Castello di Urquhart',
-        testo: 'Le rovine di un castello medievale su un promontorio di Loch Ness, vicino a Drumnadrochit. È uno dei castelli più fotografati della Scozia.',
+        testo: 'Le rovine di un castello medievale su un promontorio di Loch Ness, vicino a Drumnadrochit.',
         come: 'In auto sulla A82. Biglietti online sul sito di Historic Environment Scotland, con data e ora.',
         quando: 'All\'apertura, prima dei pullman.',
         tempo: '1-2 ore',
@@ -341,7 +348,7 @@ export const destinazioniScozia: Destinazione[] = [
     nome: 'Speyside',
     tipologia: ['distillerie', 'campagna', 'cibo e bevande'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La valle del fiume Spey, tra Inverness e Aberdeen, è la zona della Scozia con più distillerie. Qui ci sono nomi famosi come Glenfiddich a Dufftown, The Macallan vicino a Craigellachie, The Glenlivet e Cardhu.',
     percheAndarci: 'Per il giro delle distillerie, tra colline, fiumi e villaggi, a meno di due ore da Inverness.',
@@ -355,11 +362,12 @@ export const destinazioniScozia: Destinazione[] = [
       'Arrivare senza prenotazione: i tour hanno posti limitati',
       'Mettere troppe distillerie in un giorno',
     ],
+    miaEsperienza: 'Ho fatto anche il giro delle distillerie.',
     // GUIDA-START
     luoghi: [
       {
         nome: 'Glenfiddich',
-        testo: 'La distilleria di Dufftown, una delle più famose al mondo per il single malt.',
+        testo: 'La distilleria di Dufftown, uno dei nomi più noti del single malt dello Speyside.',
         come: 'Tour su prenotazione dal sito ufficiale glenfiddich.com, dove vanno controllati prezzi e orari.',
         tempo: '1-2 ore',
         url: 'https://www.glenfiddich.com',
@@ -405,7 +413,7 @@ export const destinazioniScozia: Destinazione[] = [
     nome: 'Cairngorms',
     tipologia: ['natura', 'montagna', 'parco nazionale'],
     giorniConsigliati: '1 giorno',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Il parco nazionale più grande del Regno Unito, tra lo Speyside e la strada A9 verso Perth. Montagne arrotondate, foreste di pini, laghi come Loch Morlich, e Aviemore come base.',
     percheAndarci: 'Per una giornata di natura sulla strada del ritorno verso Edimburgo, con una sosta alla distilleria di Dalwhinnie.',
@@ -414,6 +422,7 @@ export const destinazioniScozia: Destinazione[] = [
     comeArrivare: 'In auto sulla A9, o in treno fino ad Aviemore.',
     comeSpostarsi: 'In auto o in bici nella zona di Aviemore.',
     erroriDaEvitare: ['Salire in quota senza attrezzatura: sulle cime dei Cairngorms il tempo è da montagna vera anche d\'estate'],
+    miaEsperienza: 'Ho fatto anche i Cairngorms.',
     // GUIDA-START
     luoghi: [
       {
@@ -470,7 +479,7 @@ export const destinazioniScozia: Destinazione[] = [
       'Partire con il serbatoio a metà nei tratti più isolati',
       'Dormire in camper fuori dalle aree consentite',
     ],
-    miaEsperienza: 'La strada del nord è mozzafiato. E il meteo, come in tutta la Scozia, è imprevedibile.',
+    miaEsperienza: 'L\'ho fatta a luglio, ed è mozzafiato. E il meteo, come in tutta la Scozia, è imprevedibile. Anche l\'autunno, con il foliage, è bellissimo.',
     // GUIDA-START
     luoghi: [
       {
@@ -489,7 +498,7 @@ export const destinazioniScozia: Destinazione[] = [
       {
         nome: 'Smoo Cave',
         testo: 'Una grotta marina enorme a Durness, con una cascata all\'interno.',
-        come: 'A piedi dal parcheggio sopra la grotta. D\'estate ci sono giri in barca.',
+        come: 'A piedi dal parcheggio sopra la grotta.',
         tempo: '1 ora',
       },
       {
@@ -500,7 +509,7 @@ export const destinazioniScozia: Destinazione[] = [
       },
       {
         nome: 'Glen Ord',
-        testo: 'La distilleria del Singleton, sul bordo del Black Isle vicino a Muir of Ord. Il sito ufficiale della North Coast 500 la indica come inizio o fine ideale del giro.',
+        testo: 'La distilleria del Singleton, sul bordo del Black Isle vicino a Muir of Ord.',
         come: 'Su prenotazione dal sito malts.com; le date escono circa 90 giorni prima. Non sono ammessi bambini sotto gli 8 anni.',
         quando: 'Tutti i giorni: da maggio ad agosto 10-18, da settembre ad aprile 10-17 (2026).',
         tempo: '1 ora e un quarto per il tour classico',

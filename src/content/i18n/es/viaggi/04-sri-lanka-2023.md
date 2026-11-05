@@ -1,4 +1,4 @@
-# Sri Lanka en 12 días: de los templos antiguos al té de Nuwara Eliya, hasta las playas del sur
+# Sri Lanka en dos semanas: de los templos antiguos al té de Nuwara Eliya, hasta las playas del sur
 
 **Stato bozza:** 🟡 en elaboración
 **Periodo del viaggio:** 11-22 de noviembre de 2023

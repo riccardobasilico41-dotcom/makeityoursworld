@@ -22,7 +22,7 @@ const topo = leggiTopo(path.join(process.argv[i + 1], 'countries-110m.json'))
 // nome Natural Earth → slug della pagina Paese (il primo che lo usa come geometria principale)
 const SLUG = {}
 for (const [slug, cfg] of Object.entries(MAPPE)) {
-  if (cfg.fonte !== 'world' || slug === 'borneo') continue
+  if (cfg.fonte !== 'world' || slug === 'borneo' || cfg.globo === false) continue
   SLUG[cfg.nomi[0]] ??= slug
 }
 

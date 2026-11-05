@@ -17,6 +17,8 @@ export type PuntoTappa = {
   lat?: number
   lng?: number
   destinazioneSlug?: string
+  /** Paese della destinazione (viaggi multi-Paese), vedi src/lib/link-destinazione.ts. */
+  paeseSlug?: string | null
 }
 
 export type PuntoProiettato = {
@@ -24,6 +26,7 @@ export type PuntoProiettato = {
   x: number
   y: number
   destinazioneSlug?: string
+  paeseSlug?: string | null
   coordinateLabel?: string
 }
 
@@ -69,6 +72,7 @@ export function proiettaPercorso(tappe: PuntoTappa[]): { punti: PuntoProiettato[
         x,
         y,
         destinazioneSlug: t.destinazioneSlug,
+        paeseSlug: t.paeseSlug,
         coordinateLabel: formatCoordinate(t.lat!, t.lng!),
       }
     })
@@ -81,7 +85,7 @@ export function proiettaPercorso(tappe: PuntoTappa[]): { punti: PuntoProiettato[
     const progress = n === 1 ? 0.5 : i / (n - 1)
     const x = PADDING + progress * (VIEWBOX.width - PADDING * 2)
     const archY = VIEWBOX.height / 2 - Math.sin(progress * Math.PI) * (VIEWBOX.height / 2 - PADDING)
-    return { nome: t.nome, x, y: archY, destinazioneSlug: t.destinazioneSlug }
+    return { nome: t.nome, x, y: archY, destinazioneSlug: t.destinazioneSlug, paeseSlug: t.paeseSlug }
   })
   return { punti, schematico: true }
 }

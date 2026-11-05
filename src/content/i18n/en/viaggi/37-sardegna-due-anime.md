@@ -1,4 +1,4 @@
-# Sardinia, the Two Souls: 14 Days from the Costa Smeralda to the Sulcis
+# Sardinia, the Two Souls: Two Weeks from the Costa Smeralda to the Sulcis
 
 **Stato bozza:** 🟡 work in progress (itinerary and practical information verified; the first-person passages are written as a draft to reread and personalize)
 **Periodo del viaggio:** **late May-June or September**

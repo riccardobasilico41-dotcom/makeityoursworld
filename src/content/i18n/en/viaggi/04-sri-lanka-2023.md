@@ -1,4 +1,4 @@
-# Sri Lanka in 12 Days: From Ancient Temples to the Tea of Nuwara Eliya, Down to the Beaches of the South
+# Sri Lanka in Two Weeks: From Ancient Temples to the Tea of Nuwara Eliya, Down to the Beaches of the South
 
 **Stato bozza:** 🟡 in progress
 **Periodo del viaggio:** November 11-22, 2023

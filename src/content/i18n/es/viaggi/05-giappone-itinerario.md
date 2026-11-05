@@ -1,4 +1,4 @@
-# Japón en 12 días: Tokio, el monte Fuji, Kioto, Hiroshima, Osaka y la caza de los sakura
+# Japón en dos semanas: Tokio, el monte Fuji, Kioto, Hiroshima, Osaka y la caza de los sakura
 
 **Stato bozza:** 🟡 en elaboración
 **Periodo del viaggio:** 6-17 de abril

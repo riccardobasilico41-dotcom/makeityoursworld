@@ -3,6 +3,7 @@ import Image from 'next/image'
 import { ArrowUpRight, Compass, Mountain, TreePalm, Landmark, Sun, Waves, type LucideProps } from 'lucide-react'
 import type { Viaggio } from '@/lib/viaggi'
 import { getContinente } from '@/lib/utils'
+import { coloreContinente } from '@/lib/colori-etichette'
 import { FeaturedBorderTrail } from './FeaturedBorderTrail'
 import { useLingua } from '@/lib/i18n/LinguaProvider'
 import { etichetta } from '@/lib/i18n/etichette'
@@ -105,7 +106,7 @@ export function TripCard({ viaggio, featured = false, subito = false }: { viaggi
             className="pointer-events-none absolute -right-4 -top-4 text-cream/10 transition-transform duration-700 group-hover:scale-110"
           />
         )}
-        <p className="relative z-10 bg-ink px-2 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-cream">
+        <p className="relative z-10 px-2 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-cream" style={{ backgroundColor: coloreContinente(continente) }}>
           {viaggio.luogo ?? etichetta(continente, lingua)}
         </p>
       </div>

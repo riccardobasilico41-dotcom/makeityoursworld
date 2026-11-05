@@ -1,4 +1,5 @@
 import Link from '@/components/ui/Link'
+import { linkDestinazione } from '@/lib/link-destinazione'
 import { MapPin } from 'lucide-react'
 import type { TappaMappa } from '@/lib/types'
 
@@ -19,11 +20,12 @@ export function RouteTimeline({ tappe, paeseSlug }: { tappe: TappaMappa[]; paese
           </>
         )
 
+        const href = linkDestinazione(tappa.destinazioneSlug, tappa.paeseSlug, paeseSlug)
         return (
           <li key={`${tappa.nome}-${i}`} className="relative pb-8 last:pb-0">
-            {tappa.destinazioneSlug ? (
+            {href ? (
               <Link
-                href={`/destinazioni/${paeseSlug}/${tappa.destinazioneSlug}`}
+                href={href}
                 className="group inline-flex items-center gap-2 text-ink transition-colors hover:text-rosso"
               >
                 {content}

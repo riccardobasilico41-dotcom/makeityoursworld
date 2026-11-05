@@ -1,4 +1,4 @@
-# Java, Bali and the Gilis in 14 Days: Temples, Volcanoes, Rice Terraces and Islands Without Engines
+# Java, Bali and the Gilis in Two Weeks: Temples, Volcanoes, Rice Terraces and Islands Without Engines
 
 **Stato bozza:** 🟡 work in progress (stops done by Rick on the long trip through Indonesia; routes, times and costs taken from the 35-day itinerary, to be rechecked before you go)
 **Periodo del viaggio:** designed for May to September, the dry season, when the sky at Bromo sunrise is clearest. April and October still work for Bali and the Gilis

@@ -1,4 +1,4 @@
-# Borneo in 12 Days: Kinabalu, Orangutans, the River and Sipadan
+# Borneo in Two Weeks: Kinabalu, Orangutans, the River and Sipadan
 
 **Stato bozza:** 🟡 in progress (itinerary and practical information complete and verified; the first-person passages are written as a draft to be reread and personalized)
 **Periodo del viaggio:** April to September — calm sea at Semporna, less rain on Kinabalu, animals concentrated along the Kinabatangan's banks

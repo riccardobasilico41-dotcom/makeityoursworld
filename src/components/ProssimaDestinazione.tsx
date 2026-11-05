@@ -53,6 +53,9 @@ const ABBINAMENTI: Record<string, string> = {
   'marocco-citta-imperiali': 'marocco-itinerario',
   'thailandia': 'thailandia-nord',
   'thailandia-nord': 'thailandia',
+  'londra-cotswolds': 'scozia-highlands-distillerie',
+  'scozia-highlands-distillerie': 'irlanda-due-irlande',
+  'irlanda-due-irlande': 'scozia-highlands-distillerie',
 }
 
 const T = {

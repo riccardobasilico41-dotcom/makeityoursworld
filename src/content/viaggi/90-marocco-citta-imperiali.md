@@ -17,9 +17,9 @@ Si arriva a **Tangeri** e si riparte da **Casablanca**. Il motivo è la geografi
 
 ## Scheda pratica
 - **Quando andare:** primavera e autunno. D'estate Fès e Meknès sono molto calde. Durante il Ramadan cambiano gli orari di negozi e ristoranti, e di giorno mangiare, bere o fumare in pubblico può offendere.
-- **Documenti:** per i cittadini italiani serve il passaporto; per un viaggio turistico breve non serve il visto. Validità richiesta del passaporto e altri controlli all'ingresso vanno verificati su viaggiaresicuri.it prima di partire.
-- **Valuta e pagamenti:** dirham marocchino (MAD), una valuta non convertibile, che fuori dal Marocco è difficile cambiare. Le carte funzionano negli hotel e in molti ristoranti delle città, ma nelle medine, ai banchi del cibo e per i taxi servono contanti.
-- **Spostamenti:** tutto su strada, con un'auto con autista o a noleggio. Le distanze e i tempi di guida indicati nei giorni sono calcolati sul percorso stradale (OSRM, senza soste né traffico): nella realtà serve più tempo.
+- **Documenti:** per i cittadini italiani passaporto valido almeno per tutto il soggiorno, nessun visto per turismo fino a 3 mesi. In aeroporto possono chiedere il biglietto di ritorno e la prova di mezzi sufficienti (Viaggiare Sicuri, aggiornata ad aprile 2026).
+- **Valuta e pagamenti:** dirham marocchino (MAD). È vietato portare dirham fuori dal Marocco, e a fine viaggio si riconvertono solo quelli cambiati prima, con le ricevute: vanno conservate. Le carte funzionano negli hotel e in molti ristoranti delle città, ma nelle medine, ai banchi del cibo e per i taxi servono contanti.
+- **Spostamenti:** tutto su strada, solo di giorno: Viaggiare Sicuri raccomanda di evitare le ore notturne fuori città. Si va con un'auto con autista o a noleggio. Le distanze e i tempi di guida indicati nei giorni sono calcolati sul percorso stradale (OSRM, senza soste né traffico): nella realtà serve più tempo.
 - **Bus:** tra Tangeri, Chefchaouen e Fès ci sono anche i bus CTM, utili per le prime due tratte. Corse, orari e biglietti vanno controllati su ctm.ma.
 - **Treno, in alternativa:** Fès, Meknès, Rabat e Casablanca sono anche sulla linea ONCF (orari su oncf-voyages.ma). Chefchaouen non ha la ferrovia.
 - **Medine:** nella medina di Fès le auto non entrano. Con i bagagli conviene chiedere al riad di mandare qualcuno alla porta più vicina.
@@ -52,7 +52,7 @@ Si entra da **Bab Bou Jeloud**, la porta blu, e si scende lungo la Talaa Kebira.
 ### Giorno 6 — Fès: Fès Jdid, il Mellah e la medina dall'alto
 Oggi si esce dalla città vecchia. **Fès Jdid**, la città nuova dei Merinidi, ha le porte dorate del **Palazzo Reale**, che si vedono solo da fuori, e il **Mellah**, l'antico quartiere ebraico. Poco lontano ci sono i giardini di **Jnan Sbil**, per una pausa all'ombra.
 
-Il pomeriggio è libero per tornare nei souk con calma, o per un hammam. Prima del tramonto si sale sulle colline a nord della medina, verso le **Tombe merinidi**, da dove si vede tutta Fès el-Bali. Ci si va in taxi, meglio non da soli a piedi quando fa buio.
+Il pomeriggio è libero per tornare nei souk con calma, o per un hammam. Prima del tramonto si sale sulle colline a nord della medina, verso le **Tombe merinidi**, da dove si vede tutta Fès el-Bali. Ci si va in taxi.
 
 ### Giorno 7 — Volubilis e Moulay Idriss, notte a Meknès
 Si parte da Fès in auto, con i bagagli a bordo, e si va direttamente a **Volubilis**: circa 70 km, un'ora e mezza di strada. Da Meknès è a circa mezz'ora. Era una città già nel III secolo a.C., e forse fu capitale del regno di Mauretania. Roma la annesse nel 44 d.C., e alla fine del II secolo aveva circa 20.000 abitanti, che vivevano soprattutto di olio d'oliva. È patrimonio UNESCO dal 1997. Si cammina lungo il **Decumano Massimo** fino all'**Arco di Caracalla**, del 217, si passa dalla basilica e dal Campidoglio, e soprattutto si guardano i **mosaici** rimasti nelle case, come le Fatiche di Ercole e Orfeo. Il sito è aperto e quasi senza ombra: cappello e acqua.
@@ -75,7 +75,7 @@ Da Rabat a **Casablanca** sono circa 95 km lungo la costa, poco più di un'ora d
 La sera si cammina sul lungomare, per l'ultima cena del viaggio.
 
 ### Giorno 11 — Rientro da Casablanca
-Trasferimento all'aeroporto Mohammed V, circa 30 km dal centro (mezz'ora abbondante in auto o in taxi), e volo di rientro. Prima di partire conviene ricambiare i dirham avanzati: fuori dal Marocco è difficile cambiarli.
+Trasferimento all'aeroporto Mohammed V, circa 30 km dal centro (mezz'ora abbondante in auto o in taxi), e volo di rientro. Prima di partire i dirham avanzati vanno ricambiati, con le ricevute del cambio: non si possono portare fuori dal Marocco.
 
 ## Come si combina con Marrakech e il deserto
 I due itinerari si dividono a **Fès**. Questo prosegue verso ovest, su strada, fino all'Atlantico. L'altro sta tutto nel sud: Marrakech, Aït Benhaddou, le Gole di Todra, il deserto di Erg Chebbi e la costa di Essaouira.
@@ -106,12 +106,12 @@ Chi ha 3-4 giorni in più aggiunge la valle del Draa, Agadir ed Essaouira, come 
 - **Abiti coprenti per le moschee e i luoghi religiosi.** Alla Moschea Hassan II non si entra in pantaloncini o senza maniche.
 - **Volubilis la mattina presto.** Il sito è quasi tutto al sole.
 - **Nessuna droga, nemmeno nel Rif.** Intorno a Chefchaouen qualcuno la offre, ma il Marocco ha tolleranza zero: carcere e multe pesanti.
-- **Ricambiare i dirham prima del volo.** Fuori dal Marocco è difficile cambiarli.
+- **Ricambiare i dirham prima del volo, con le ricevute.** Non si possono portare fuori dal Marocco.
 
 ## Chiusura personale
 Questo è il Marocco delle città, quello che di solito si vede meno nei primi viaggi, quando tutti puntano su Marrakech e il deserto. Undici giorni bastano per Chefchaouen, Fès, Meknès con Volubilis, Rabat e Casablanca, tutto su strada. Chi ha due settimane può unirlo all'itinerario del sud, e scendere da Fès fino alle dune di Erg Chebbi.
 
-*Le tappe del deserto nella versione combinata vengono dall'altro itinerario, da Marrakech al Sahara. Le informazioni pratiche vengono da fonti ufficiali e di riferimento: la Fondazione della Moschea Hassan II (orari e biglietti), le avvertenze di viaggio del governo britannico e le voci enciclopediche sui siti UNESCO, verificate a novembre 2026. Distanze e tempi di guida sono calcolati con OSRM sul percorso stradale, senza soste. Orari dei bus su ctm.ma. Orari, prezzi e regole cambiano: vanno ricontrollati prima di partire.*
+*Le tappe del deserto nella versione combinata vengono dall'altro itinerario, da Marrakech al Sahara. Le informazioni pratiche vengono da fonti ufficiali e di riferimento: la Fondazione della Moschea Hassan II (orari e biglietti), le schede di Viaggiare Sicuri e del governo britannico e le voci enciclopediche sui siti UNESCO, verificate a novembre 2026. Distanze e tempi di guida sono calcolati con OSRM sul percorso stradale, senza soste. Orari dei bus su ctm.ma. Orari, prezzi e regole cambiano: vanno ricontrollati prima di partire.*
 
 ## Tag
 `#marocco` `#cittaimperiali` `#fes` `#meknes` `#volubilis` `#rabat` `#chefchaouen` `#cittablu` `#casablanca` `#tangeri` `#ontheroad` `#medina`

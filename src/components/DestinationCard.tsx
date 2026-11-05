@@ -2,6 +2,7 @@ import Link from '@/components/ui/Link'
 import Image from 'next/image'
 import { Waves, Trees, Landmark, Music, Tent, Compass } from 'lucide-react'
 import type { Destinazione } from '@/lib/types'
+import { coloreTipo } from '@/lib/colori-etichette'
 import { plain } from '@/components/ui/Rich'
 import { linguaCorrente } from '@/lib/i18n/server'
 import { etichette } from '@/lib/i18n/etichette'
@@ -64,7 +65,7 @@ export async function DestinationCard({ destinazione, paeseSlug }: { destinazion
         {destinazione.immagine && (
           <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/60 via-black/5 to-transparent" />
         )}
-        <p className="relative z-10 bg-ink px-2 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-cream">
+        <p className="relative z-10 px-2 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-cream" style={{ backgroundColor: coloreTipo(tipoPrincipale) }}>
           {etichette(destinazione.tipologia, lingua).join(' · ')}
         </p>
       </div>

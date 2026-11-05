@@ -346,4 +346,17 @@ export const creditiCopertine: Record<string, CreditoImmagine> = {
     licenza: 'CC BY-SA 4.0',
     fonteUrl: 'https://commons.wikimedia.org/wiki/File:Bentang_Pesisir_Hijau_dan_Perairan_Jernih_Pulau_Siberut.jpg',
   },
+  'londra-cotswolds': { autore: 'Saffron Blaze (Wikimedia Commons)', licenza: 'CC BY-SA 3.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Arlington_Row_Bibury.jpg' },
+  'scozia-highlands-distillerie': { autore: 'Eric Kilby (Wikimedia Commons)', licenza: 'CC BY-SA 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Glenfinnan_Viaduct_-_Jacobite_Express.jpg' },
+  'irlanda-due-irlande': {
+    autore: 'Diliff (Wikimedia Commons)',
+    licenza: 'CC BY-SA 3.0',
+    fonteUrl: 'https://commons.wikimedia.org/wiki/File:Carrick-a-Rede_Rope_Bridge,_Northern_Ireland_-_Diliff.jpg',
+  },
+  'bali-nusa-komodo': { autore: 'Jakub Hałun (Wikimedia Commons)', licenza: 'CC BY 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Padar_Island,_Komodo_National_Park,_Indonesia,_20250822_0929_2659.jpg' },
+  'bali-sulawesi-raja-ampat': { autore: 'Rolandandika (Wikimedia Commons)', licenza: 'CC BY-SA 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Piaynemo_Raja_Ampat.jpg' },
+  'marocco-citta-imperiali': { autore: 'Badr Rachadi (Wikimedia Commons)', licenza: 'CC BY-SA 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Chefchaouen-blue-city-during-thesunset.jpg' },
+  'okinawa-estate': { autore: 'Hashi photo (Wikimedia Commons)', licenza: 'CC BY 3.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Ama_beach_in_Zamami_Island.jpg' },
+  'hokkaido-sci-giappone': { autore: 'Excellent moniteur de ski (Wikimedia Commons)', licenza: 'CC BY-SA 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Namara_Slope.jpg' },
+  'thailandia-nord': { autore: 'Sgroey (Wikimedia Commons)', licenza: 'CC BY-SA 4.0', fonteUrl: 'https://commons.wikimedia.org/wiki/File:Pai_canyon_1.jpg' },
 }

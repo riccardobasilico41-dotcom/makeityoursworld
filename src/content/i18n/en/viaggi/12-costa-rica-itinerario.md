@@ -1,4 +1,4 @@
-# Costa Rica in 13 Days: From the Caribbean to the Pacific, Among Sloths, Volcanoes and Whales
+# Costa Rica in Two Weeks: From the Caribbean to the Pacific, Among Sloths, Volcanoes and Whales
 
 **Stato bozza:** 🟡 in progress (itinerary, practical info and anecdotes ready, based on the official Travel Diary, day-by-day diary and Vade Mecum, with real times, local supplier contacts and prices actually paid; anecdotes written as a draft to be reread and personalized; Rick's notes of 5/11/2026 added: Cahuita, horse riding, canyoning, zip line, whales and surfing confirmed)
 **Periodo del viaggio:** mid to late November, roughly November 16-28

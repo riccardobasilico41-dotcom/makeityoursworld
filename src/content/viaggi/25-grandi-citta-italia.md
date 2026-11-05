@@ -1,4 +1,4 @@
-# Le grandi città in 12 giorni: Roma, Firenze, Venezia, Napoli
+# Le grandi città in due settimane: Roma, Firenze, Venezia, Napoli
 
 **Stato bozza:** 🟡 in lavorazione (itinerario, contingentamenti e informazioni pratiche verificate e aggiornate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
 **Periodo del viaggio:** **da ottobre a marzo**, che è quando le città d'arte italiane tornano vivibili

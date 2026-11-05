@@ -1133,7 +1133,7 @@ export const destinazioniMessico: Destinazione[] = [
     cosaVedere: [
       'La Pirámide del Adivino y el Cuadrángulo de las Monjas en Uxmal',
       'El Codz Poop de Kabah, con su fachada de máscaras',
-      'El palacio de tres pisos de Sayil',
+      'El Gran Palacio de Sayil, sobre terrazas superpuestas',
       'El arco de Labná',
     ],
     cosaFare: [
@@ -1148,7 +1148,7 @@ export const destinazioniMessico: Destinazione[] = [
     comeArrivare: 'Desde Mérida por la Carretera Federal 261 hacia Santa Elena, en coche o en tour.',
     comeSpostarsi: 'Para la Ruta Puuc hace falta coche o tour: los sitios están a lo largo de una carretera rural.',
     periodoMigliore: 'de noviembre a abril, la temporada seca; desde abril el calor en los sitios sin sombra es fuerte.',
-    costi: 'Uxmal 105 MXN de entrada INAH más 461 MXN de cuota estatal CULTUR para extranjeros; Kabah 155 MXN; Labná 145 MXN (fichas INAH, 2026).',
+    costi: 'Uxmal 105 MXN de entrada INAH más 461 MXN de cuota estatal CULTUR para extranjeros; Kabah 155 MXN; Labná y Sayil 145 MXN cada uno (fichas INAH, noviembre de 2026).',
     erroriDaEvitare: [
       'Llegar a Uxmal por la tarde: cierra a las 16, con último acceso a las 15',
       'Llevar comida a la entrada de los sitios: no está permitido',
@@ -1168,7 +1168,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Kabah",
-          "testo": "El segundo sitio de la zona por tamaño. El Codz Poop tiene la fachada cubierta por cientos de máscaras de Chaac; al otro lado de la carretera hay un arco aislado, el inicio de un camino maya.",
+          "testo": "El Codz Poop tiene la fachada cubierta por cientos de máscaras de Chaac, uno de los mejores ejemplos del arte maya según el INAH. En el sitio hay también un arco aislado.",
           "come": "En coche, al sur de Uxmal por la Ruta Puuc.",
           "quando": "Abierto todos los días de 8 a 17, último acceso a las 16 (ficha INAH).",
           "tempo": "1 hora",
@@ -1177,14 +1177,16 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Sayil",
-          "testo": "Un sitio pequeño con un gran palacio de tres pisos, uno de los edificios puuc más fotografiados.",
+          "testo": "Un sitio de la región puuc con el Gran Palacio, o Palacio Norte, construido sobre dos terrazas que dan la impresión de tres pisos, con fachadas añadidas en fases sucesivas.",
           "come": "En coche por la Ruta Puuc, entre Kabah y Labná.",
+          "quando": "Abierto todos los días de 8 a 17, último acceso a las 16 (ficha INAH).",
           "tempo": "45 minutos",
-          "consiglio": "La ficha INAH no indica el precio: consúltalo en taquilla."
+          "costo": "145 MXN para extranjeros (ficha INAH, noviembre de 2026).",
+          "url": "https://lugares.inah.gob.mx/en/node/4458"
         },
         {
           "nome": "Labná",
-          "testo": "Famoso por su arco, muy decorado, que unía dos patios. El sitio es tranquilo y en parte tiene sombra.",
+          "testo": "Famoso por su arco, muy decorado, que unía dos patios. Habitado desde el 200 a. C., tuvo su apogeo entre el 800 y el 1000 d. C. (ficha INAH). El sitio es tranquilo.",
           "come": "En coche, al final de la Ruta Puuc.",
           "quando": "Abierto todos los días de 8 a 17, último acceso a las 16 (ficha INAH).",
           "tempo": "1 hora",
@@ -1238,7 +1240,8 @@ export const destinazioniMessico: Destinazione[] = [
       ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-yucatan-completo', 'messico-beach-life'],
-    imageAlt: 'La Pirámide del Adivino de Uxmal, de planta ovalada, vista desde la explanada',
+    imageAlt: "El trono del jaguar bicéfalo frente al Palacio del Gobernador de Uxmal",
+    immagine: '/images/messico/uxmal-ruta-puuc-riccardo.webp',
   },
   {
     slug: 'palenque',
@@ -1251,7 +1254,7 @@ export const destinazioniMessico: Destinazione[] = [
     introduzione:
       'Una ciudad maya clásica en las primeras colinas de Chiapas, dentro de un parque nacional cubierto de selva, con el Templo de las Inscripciones y la tumba del rey Pakal.',
     percheAndarci:
-      'Es uno de los sitios mayas más bonitos por la mezcla de arquitectura y naturaleza: templos entre los árboles, arroyos y monos aulladores. En el Tren Maya es la estación terminal de la línea que llega de Campeche y Mérida.',
+      'Es uno de los sitios mayas más bonitos por la mezcla de arquitectura y naturaleza: templos entre los árboles, arroyos y monos aulladores. Tiene también estación del Tren Maya.',
     cosaVedere: [
       'El Templo de las Inscripciones y el Palacio con su torre',
       'El Grupo de las Cruces',
@@ -1269,33 +1272,34 @@ export const destinazioniMessico: Destinazione[] = [
     comeArrivare: 'Tren Maya (estación de Palenque) o autobús ADO; en coche por la Federal 186, desviándose en el km 114 hacia Palenque (ficha INAH).',
     comeSpostarsi: 'Del pueblo al sitio, a unos 7 km dentro del parque nacional, en taxi o colectivo.',
     periodoMigliore: 'de noviembre a abril, la temporada más seca; el resto del año llueve a menudo y hace mucho calor húmedo.',
-    costi: '210 MXN de entrada INAH para extranjeros, más 215 MXN de cuota del parque nacional (CONANP) (ficha INAH, 2026).',
+    costi: '210 MXN de entrada INAH para extranjeros, más 215 MXN de cuota del parque nacional (CONANP) (ficha INAH, noviembre de 2026).',
     erroriDaEvitare: [
       'Ir a las cascadas en coche propio por la Federal 199 sin revisar los avisos: el Foreign Office británico desaconseja los viajes no esenciales en ese tramo',
       'Llegar a mediodía: calor fuerte y gente',
-      'Buscar el museo de sitio un lunes: abre de martes a domingo',
+      'Buscar el museo de sitio un lunes: abre de martes a domingo (ficha INAH)',
     ],
       "luoghi": [
         {
           "nome": "Zona arqueológica de Palenque",
-          "testo": "El Templo de las Inscripciones guardaba la tumba de Pakal, rey de Palenque en el siglo VII; el Palacio tiene una torre de cuatro pisos, rara en la arquitectura maya. Alrededor, el Grupo de las Cruces y templos menores en la selva.",
-          "come": "Boletos en el centro de visitantes o en línea. Se paga la entrada INAH y la cuota del parque nacional.",
+          "testo": "El Templo de las Inscripciones guardaba la tumba de Pakal, rey de Palenque en el siglo VII; el Palacio tiene una torre, rara en la arquitectura maya. Alrededor, el Grupo de las Cruces y templos menores en la selva.",
+          "come": "Boletos en el centro de visitantes (CATVI) o en línea. Se paga la entrada INAH y la cuota del parque nacional.",
           "quando": "Abierto todos los días de 8 a 17, último acceso a las 16 (ficha INAH). Mejor a la apertura.",
           "tempo": "3-4 horas",
-          "costo": "210 MXN INAH más 215 MXN CONANP para extranjeros (2026).",
+          "costo": "210 MXN INAH más 215 MXN CONANP para extranjeros (ficha INAH, noviembre de 2026).",
           "url": "https://lugares.inah.gob.mx/en/node/4853",
           "consiglio": "Nada de comida en la entrada: se come antes o después."
         },
         {
           "nome": "Museo de sitio Alberto Ruz Lhuillier",
-          "testo": "El museo del sitio, con los relieves y objetos hallados en las excavaciones, dedicado al arqueólogo que descubrió la tumba de Pakal.",
-          "come": "En la carretera del sitio.",
-          "quando": "De martes a domingo.",
-          "tempo": "1 hora"
+          "testo": "El museo del sitio, con los relieves y objetos hallados en las excavaciones, dedicado al arqueólogo que en 1952 descubrió la tumba de Pakal.",
+          "come": "En la carretera del sitio. La entrada está incluida en el boleto de la zona arqueológica.",
+          "quando": "De martes a domingo, de 8:30 a 17 (ficha INAH).",
+          "tempo": "1 hora",
+          "url": "https://lugares.inah.gob.mx/en/node/4293"
         },
         {
           "nome": "Misol-Ha y Agua Azul",
-          "testo": "Dos cascadas famosas al sur de Palenque: Misol-Ha es un salto único en una poza natural, Agua Azul una serie de pozas turquesa. Se llega por la Federal 199.",
+          "testo": "Dos cascadas famosas al sur de Palenque, en la carretera a Ocosingo, la Federal 199: Misol-Ha es un salto único en una amplia poza, Agua Azul una serie de pozas de agua azul, que en temporada de lluvias pierde el color, a unos 60 km más un desvío.",
           "come": "Solo con un tour organizado desde el pueblo, y solo si los avisos oficiales lo permiten en ese momento.",
           "consiglio": "El Foreign Office británico desaconseja los viajes no esenciales por la 199 entre Rancho Nuevo y el entronque de Chancalá, a las afueras de Palenque, por bloqueos ilegales, protestas y riesgo de secuestro. Las cuotas de entrada las gestionan las comunidades: no verificadas."
         }
@@ -1345,7 +1349,8 @@ export const destinazioniMessico: Destinazione[] = [
       ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-yucatan-completo'],
-    imageAlt: 'El Templo de las Inscripciones de Palenque entre los árboles de la selva de Chiapas',
+    imageAlt: "El Templo de las Inscripciones de Palenque entre los árboles de la selva de Chiapas",
+    immagine: '/images/messico/palenque.webp',
   },
   {
     slug: 'calakmul',
@@ -1358,7 +1363,7 @@ export const destinazioniMessico: Destinazione[] = [
     introduzione:
       'Una de las grandes capitales del mundo maya clásico, rival de Tikal, sepultada en la selva de la Reserva de la Biosfera de Calakmul, en el sur de Campeche. Es patrimonio de la UNESCO tanto cultural como natural.',
     percheAndarci:
-      'Para ver una ciudad maya inmensa casi sin gente, y la selva desde lo alto de las pirámides. En los senderos es frecuente encontrar monos, pavos ocelados y tucanes.',
+      'Para ver una ciudad maya inmensa casi sin gente, y la selva desde lo alto de las pirámides. En los senderos se pueden encontrar monos y aves de la selva.',
     cosaVedere: [
       'Las grandes estructuras de la ciudad, con la vista sobre la selva',
       'Las estelas de la plaza central',
@@ -1376,10 +1381,10 @@ export const destinazioniMessico: Destinazione[] = [
     comeArrivare: 'Por la Federal 186 (Escárcega-Chetumal): en el entronque del kilómetro 95 se toma la carretera de la reserva, y el sitio está en el kilómetro 60 (ficha INAH). El Tren Maya tiene estaciones en Xpujil y Calakmul, pero no consta transporte público hasta las ruinas.',
     comeSpostarsi: 'En coche o en tour desde Xpujil.',
     periodoMigliore: 'de noviembre a abril, la temporada seca; con las lluvias la selva está más húmeda y llena de mosquitos.',
-    costi: '210 MXN de entrada INAH para extranjeros, más 215 MXN de cuota de la reserva (CONANP) (ficha INAH, 2026). Llevar efectivo.',
+    costi: '210 MXN de entrada INAH para extranjeros, más 215 MXN de cuota de la reserva (CONANP) (ficha INAH, noviembre de 2026). Llevar efectivo.',
     erroriDaEvitare: [
       'Salir tarde: el último acceso es a las 16 y la carretera de la reserva es larga y estrecha',
-      'Salirse de los senderos señalizados: el INAH lo prohíbe',
+      'Salirse de los senderos señalizados',
       'Entrar en la reserva sin gasolina, agua y efectivo',
       'Conducir de noche por la Federal 186',
     ],
@@ -1390,7 +1395,7 @@ export const destinazioniMessico: Destinazione[] = [
           "come": "Desde el entronque del km 95 de la Federal 186, 60 km de carretera dentro de la reserva. Se paga la entrada INAH y la cuota CONANP de la reserva.",
           "quando": "Abierto todos los días de 8 a 17, último acceso a las 16 (ficha INAH). Salir al amanecer.",
           "tempo": "Día completo",
-          "costo": "210 MXN INAH más 215 MXN CONANP para extranjeros (2026).",
+          "costo": "210 MXN INAH más 215 MXN CONANP para extranjeros (ficha INAH, noviembre de 2026).",
           "url": "https://lugares.inah.gob.mx/en/node/5551",
           "consiglio": "Calzado cerrado, repelente, agua y comida para todo el día."
         },
@@ -1444,12 +1449,13 @@ export const destinazioniMessico: Destinazione[] = [
         }
       ],
       "attenzioni": [
-        "Quedarse en los senderos señalizados: los recorridos fuera de ruta están prohibidos.",
+        "Quedarse en los senderos señalizados.",
         "No se fuma en el sitio y hay cuota extra para cámaras de vídeo profesionales.",
         "Viaggiare Sicuri señala chikungunya en Campeche: repelente fuerte."
       ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-yucatan-completo'],
-    imageAlt: 'La selva de la Reserva de la Biosfera de Calakmul vista desde lo alto de una pirámide maya',
+    imageAlt: "La Estructura I de Calakmul asomando sobre la selva de la reserva, vista desde la cima de la Estructura II",
+    immagine: '/images/messico/calakmul.webp',
   },
 ]

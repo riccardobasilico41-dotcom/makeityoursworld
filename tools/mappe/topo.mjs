@@ -43,8 +43,20 @@ export function bboxDi(punti) {
 
 /** Poligoni del Paese già filtrati per clip, con bbox geografica complessiva. */
 export function geometriaPaese(cfg, atlanti) {
-  const topo = cfg.fonte === 'us' ? atlanti.us : atlanti.world
-  let polys = poligoni(topo, cfg.fonte === 'us' ? 'states' : 'countries', cfg.nomi)
+  let polys
+  if (cfg.fonte === 'mapunits') {
+    if (!atlanti.mapunits) throw new Error('manca ne_50m_admin_0_map_units.geojson nella cartella degli atlanti')
+    polys = []
+    for (const f of atlanti.mapunits.features) {
+      if (!cfg.nomi.includes(f.properties.NAME)) continue
+      const g = f.geometry
+      const ps = g.type === 'Polygon' ? [g.coordinates] : g.type === 'MultiPolygon' ? g.coordinates : []
+      for (const p of ps) polys.push({ nome: f.properties.NAME, anelli: p })
+    }
+  } else {
+    const topo = cfg.fonte === 'us' ? atlanti.us : atlanti.world
+    polys = poligoni(topo, cfg.fonte === 'us' ? 'states' : 'countries', cfg.nomi)
+  }
   if (cfg.clip) {
     const [a, b, c, d] = cfg.clip
     polys = polys.filter((p) => {
@@ -58,5 +70,11 @@ export function geometriaPaese(cfg, atlanti) {
 }
 
 export function caricaAtlanti(dir) {
-  return { world: leggiTopo(`${dir}/countries-10m.json`), us: leggiTopo(`${dir}/states-10m.json`) }
+  const mu = `${dir}/ne_50m_admin_0_map_units.geojson`
+  return {
+    world: leggiTopo(`${dir}/countries-10m.json`),
+    us: leggiTopo(`${dir}/states-10m.json`),
+    // facoltativo: serve solo alle mappe con fonte 'mapunits' (nazioni del Regno Unito)
+    mapunits: fs.existsSync(mu) ? JSON.parse(fs.readFileSync(mu, 'utf8')) : null,
+  }
 }

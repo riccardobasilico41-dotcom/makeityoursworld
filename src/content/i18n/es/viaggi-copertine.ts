@@ -333,4 +333,52 @@ export const copertineViaggi: Record<string, CopertinaViaggio> = {
     immagine: '/images/viaggi/sumatra-mentawai/copertina-siberut-costa.webp',
     imageAlt: 'La costa verde de Siberut vista desde el dron: la playa, un embarcadero de madera y el agua clara del mar de las Mentawai',
   },
+  'londra-cotswolds': {
+    immagine: '/images/copertine/londra-cotswolds.webp',
+    imageAlt: "Arlington Row en Bibury: casas de piedra color miel junto al sendero, en los Cotswolds",
+  },
+  'scozia-highlands-distillerie': {
+    immagine: '/images/copertine/scozia-highlands-distillerie.webp',
+    imageAlt: "El tren de vapor Jacobite sobre el viaducto de Glenfinnan, entre las colinas otoñales de las Highlands",
+  },
+  'irlanda-due-irlande': {
+    immagine: '/images/copertine/irlanda-due-irlande.webp',
+    imageAlt: "El puente de cuerda de Carrick-a-Rede y su islote en la costa de Antrim, Irlanda del Norte",
+  },
+  'bali-nusa-komodo': {
+    immagine: '/images/viaggi/bali-nusa-komodo/copertina-padar.webp',
+    imageAlt: "Las tres bahías de Padar desde el mirador sur, con colinas peladas y el mar del Parque de Komodo",
+  },
+  'bali-sulawesi-raja-ampat': {
+    immagine: '/images/viaggi/bali-sulawesi-raja-ampat/copertina-piaynemo.webp',
+    imageAlt: "Los islotes kársticos de Piaynemo desde el mirador, en el mar turquesa de Raja Ampat",
+  },
+  'indonesia-isola-per-isola': {
+    immagine: '/images/viaggi/indonesia-isola-per-isola/copertina-gili-tramonto-riccardo.webp',
+    imageAlt: "Un islote de arena frente a Lombok a contraluz al atardecer, con barcas de balancín",
+  },
+  'marocco-citta-imperiali': {
+    immagine: '/images/viaggi/marocco-citta-imperiali/copertina-chefchaouen-tramonto.webp',
+    imageAlt: "Chefchaouen al atardecer vista desde la Mezquita española, con sus casas blancas y azules al pie del Rif",
+  },
+  'classic-japan': {
+    immagine: '/images/viaggi/classic-japan/copertina-fushimi-inari-riccardo.webp',
+    imageAlt: "Un zorro de piedra con babero rojo entre los pequeños torii votivos del Fushimi Inari, en Kioto",
+  },
+  'okinawa-estate': {
+    immagine: '/images/viaggi/okinawa-estate/copertina-ama-beach-zamami.webp',
+    imageAlt: "La playa de Ama en Zamami, con el agua transparente de las islas Kerama",
+  },
+  'hokkaido-sci-giappone': {
+    immagine: '/images/viaggi/hokkaido-sci-giappone/copertina-yotei-niseko.webp',
+    imageAlt: "Una pista de Niseko Village frente al cono nevado del monte Yōtei",
+  },
+  'thailandia-nord': {
+    immagine: '/images/viaggi/thailandia-nord/copertina-pai-canyon.webp',
+    imageAlt: "Las crestas de arenisca del Pai Canyon al atardecer, en el norte de Tailandia",
+  },
+  'messico-yucatan-completo': {
+    immagine: '/images/viaggi/messico-yucatan-completo/copertina-uxmal-indovino-riccardo.webp',
+    imageAlt: "La escalinata empinadísima de la Pirámide del Adivino en Uxmal, contra el cielo",
+  },
 }
