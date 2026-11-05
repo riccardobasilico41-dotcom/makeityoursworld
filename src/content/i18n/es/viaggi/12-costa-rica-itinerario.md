@@ -120,7 +120,7 @@ Despedidas y salidas, cada uno con el horario de su propio vuelo.
 - **El Parque Nacional Manuel Antonio**, con algunas de las playas más bellas del país y una probabilidad altísima de ver perezosos y monos. Bonito, pero abarrotado: casi parece un zoo.
 - **Tortuguero**, que se parece mucho a la Amazonia.
 - **El canyoning en La Fortuna y la tirolina gigante de Monteverde**, las dos actividades con más adrenalina del viaje.
-- **Corcovado**, imprescindible: es una pasada. Solo se entra con un guía autorizado y con reserva (el instituto de turismo costarricense indica al menos seis meses antes). Se llega en barco desde Bahía Drake, Sierpe o Puerto Jiménez, o a pie desde el sector La Leona, cerca de Playa Carate.
+- **Corcovado**, que hice y es una pasada. Solo se entra con un guía autorizado y con reserva (el instituto de turismo costarricense indica al menos seis meses antes). Se llega en barco desde Bahía Drake, Sierpe o Puerto Jiménez, o a pie desde el sector La Leona, cerca de Playa Carate.
 - **El whale watching en Uvita**, si se viaja en la temporada adecuada.
 - **Cahuita**, preciosa de verdad: tiburón nodriza, rayas, perezosos y monos. En el mismo tour está la comunidad bribri con el taller de chocolate. Es una experiencia cultural, interesante para ver cómo viven y cómo se hace el chocolate, pero no esperéis algo auténtico dentro de la selva: no es como los mentawai.
 
@@ -178,7 +178,7 @@ Entre los aspectos más citados están la buena ubicación y el personal cordial
 Entre el Caribe de Puerto Viejo y el Pacífico de Uvita no hay un verdadero ganador: el primero por la selva, los monos aulladores y los dos Temazcal vividos como verdaderas ceremonias espirituales; el segundo por el ritmo más lento, las playas y, con algo de suerte en la temporada equivocada, también algún avistamiento de ballenas. Trece días tan densos han valido la pena, pero si tuviera que repetirlo iría más despacio en Monteverde y Manuel Antonio, las dos paradas en las que habría querido más tiempo para disfrutar de la naturaleza en vez de correr hacia el siguiente traslado.
 
 ## Seguir hacia Panamá
-Desde la zona de Cahuita fuimos a la frontera con Panamá, cruzamos el puente y empezó la aventura en Panamá. Si haces también Panamá, desde Costa Rica puedes llegar así.
+Una opción, en vez de cerrar el viaje en San José: desde la zona de Cahuita se sigue hacia Panamá. Nosotros fuimos a la frontera, cruzamos el puente y empezó la aventura en Panamá. Si quieres unir los dos países, desde Costa Rica llegas así.
 
 - **Puerto Viejo o Cahuita → Sixaola:** una hora, una hora y media de bus local hasta Sixaola, el pueblo fronterizo costarricense. Como alternativa hay shuttles puerta a puerta hasta Bocas.
 - **Impuesto de salida de Costa Rica:** quien sale por tierra paga 8 $ por persona, en línea en la web del Banco de Costa Rica o en los quioscos del BCR del puesto fronterizo de Sixaola, en dólares o colones.

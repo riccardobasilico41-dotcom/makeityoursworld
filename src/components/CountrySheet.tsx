@@ -1,6 +1,7 @@
 import { ArrowUpRight } from 'lucide-react'
 import type { SchedaPaese } from '@/lib/types'
 import { Reveal } from './Reveal'
+import { Tendina } from '@/components/Tendina'
 import { richNodes } from '@/components/ui/Rich'
 import { linguaCorrente } from '@/lib/i18n/server'
 import type { Lingua } from '@/lib/i18n/config'
@@ -68,7 +69,7 @@ export async function CountrySheet({ scheda }: { scheda: SchedaPaese }) {
   ]
 
   return (
-    <div className="mt-10 space-y-12">
+    <div className="mt-10 grid gap-x-10 gap-y-12 lg:grid-cols-3">
       {blocchi.map((blocco) => {
         const voci = blocco.voci.filter((v) => v.valore)
         if (voci.length === 0) return null
@@ -76,19 +77,18 @@ export async function CountrySheet({ scheda }: { scheda: SchedaPaese }) {
         return (
           <Reveal key={blocco.titolo}>
             <h3 className="text-xs font-semibold uppercase tracking-[0.2em] text-rosso">{blocco.titolo}</h3>
-            <dl className="mt-4 grid gap-4 sm:grid-cols-2">
+            <div className="mt-3 [&>details+details]:border-t-0">
               {voci.map((voce) => (
-                <div key={voce.label} className="rounded-none border border-alpine/10 bg-white p-5">
-                  <dt className="font-display text-base text-alpine">{voce.label}</dt>
-                  <dd className="mt-2 text-sm leading-relaxed text-stone">{richNodes(voce.valore)}</dd>
-                </div>
+                <Tendina key={voce.label} titolo={voce.label} compatta>
+                  <p className="text-sm leading-relaxed text-stone">{richNodes(voce.valore)}</p>
+                </Tendina>
               ))}
-            </dl>
+            </div>
           </Reveal>
         )
       })}
 
-      <p className="flex items-start gap-1.5 text-xs text-stone/85">
+      <p className="flex items-start gap-1.5 text-xs text-stone/85 lg:col-span-3">
         <ArrowUpRight size={12} className="mt-0.5 shrink-0" />
         {t.verificata(scheda.aggiornatoAl)}
       </p>

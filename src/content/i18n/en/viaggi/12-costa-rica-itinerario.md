@@ -120,7 +120,7 @@ Goodbyes and departures, each with their own flight time.
 - **Manuel Antonio National Park**, with some of the most beautiful beaches in the country and a very high chance of seeing sloths and monkeys. Beautiful, but very crowded: it almost feels like a zoo.
 - **Tortuguero**, which looks a lot like the Amazon.
 - **Canyoning in La Fortuna and the giant zip line in Monteverde**, the two most adrenaline-filled activities of the trip.
-- **Corcovado**, a must: it's amazing. You can only go in with an authorized guide and a reservation (Costa Rica's tourism board says at least six months ahead). You get there by boat from Drake Bay, Sierpe or Puerto Jiménez, or on foot from the La Leona sector, near Playa Carate.
+- **Corcovado**, which I did and it's amazing. You can only go in with an authorized guide and a reservation (Costa Rica's tourism board says at least six months ahead). You get there by boat from Drake Bay, Sierpe or Puerto Jiménez, or on foot from the La Leona sector, near Playa Carate.
 - **Whale watching in Uvita**, if you travel in the right season.
 - **Cahuita**, really beautiful: nurse shark, rays, sloths and monkeys. The same tour includes the Bribri community with the chocolate workshop. It's a cultural experience, interesting for seeing how they live and how chocolate is made, but don't expect something authentic deep in the jungle: it's not like the Mentawai.
 
@@ -178,7 +178,7 @@ Among the most cited aspects are the good location and the friendly staff; sever
 Between the Caribbean of Puerto Viejo and the Pacific of Uvita there's no real winner: the first for the jungle, the howler monkeys and the two Temazcal experienced as true spiritual ceremonies; the second for the slower pace, the beaches and, with a bit of luck in the wrong season, even a few whale sightings. Thirteen days this dense paid off, but if I were to do it again I'd slow down on Monteverde and Manuel Antonio, the two stops where I'd have liked more time to enjoy nature instead of rushing toward the next transfer.
 
 ## Continuing to Panama
-From the Cahuita area we went to the Panama border, crossed the bridge, and the Panama adventure began. If you're doing Panama too, this is how you can get there from Costa Rica.
+An option, instead of ending the trip in San José: from the Cahuita area you carry on to Panama. We went to the border, crossed the bridge, and the Panama adventure began. If you want to combine the two countries, this is how you get there from Costa Rica.
 
 - **Puerto Viejo or Cahuita → Sixaola:** an hour to an hour and a half by local bus to Sixaola, the Costa Rican border town. Alternatively, there are door-to-door shuttles all the way to Bocas.
 - **Costa Rica exit tax:** leaving by land costs $8 per person, paid online on the Banco de Costa Rica website or at the BCR kiosks at the Sixaola border post, in dollars or colones.

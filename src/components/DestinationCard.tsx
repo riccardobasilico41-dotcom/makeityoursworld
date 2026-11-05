@@ -51,7 +51,7 @@ export async function DestinationCard({ destinazione, paeseSlug }: { destinazion
             src={destinazione.immagine}
             alt={destinazione.imageAlt}
             fill
-            sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, calc(100vw - 3rem)"
+            sizes="(min-width: 640px) 22rem, 82vw"
             className="object-cover transition-transform duration-700 group-hover:scale-105"
           />
         ) : (
@@ -70,7 +70,17 @@ export async function DestinationCard({ destinazione, paeseSlug }: { destinazion
       </div>
       <div className="flex flex-1 flex-col gap-2.5 p-5">
         <h3 className="font-display text-lg font-medium leading-tight text-alpine">{destinazione.nome}</h3>
-        <p className="text-sm leading-relaxed text-stone">{plain(destinazione.introduzione)}</p>
+        <p className="line-clamp-4 text-sm leading-relaxed text-stone">{plain(destinazione.introduzione)}</p>
+        {destinazione.luoghi && destinazione.luoghi.length > 0 && (
+          // i primi luoghi della mini guida, come assaggio di cosa c'è dentro
+          <ul className="flex flex-wrap gap-1.5 pt-1">
+            {destinazione.luoghi.slice(0, 3).map((l) => (
+              <li key={l.nome} className="bg-alpine/5 px-2 py-0.5 text-[11px] font-medium text-alpine">
+                {l.nome}
+              </li>
+            ))}
+          </ul>
+        )}
         <div className="mt-auto flex items-center justify-between pt-2">
           <span className="text-xs text-stone/85">{destinazione.giorniConsigliati}</span>
           <span className="text-sm font-medium text-rosso">{t.scopri}</span>

@@ -120,7 +120,7 @@ Saluti e partenze, ciascuno con l'orario del proprio volo.
 - **Il Parco Nazionale Manuel Antonio**, con alcune delle spiagge più belle del paese e una probabilità altissima di vedere bradipi e scimmie. Bello, ma affollatissimo: sembra quasi uno zoo.
 - **Tortuguero**, che assomiglia molto all'Amazzonia.
 - **Il canyoning a La Fortuna e la zip line gigante di Monteverde**, le due attività più adrenaliniche del viaggio.
-- **Corcovado**, da fare: è super. Si entra solo con una guida autorizzata e con la prenotazione (l'ente del turismo costaricano indica almeno sei mesi prima). Ci si arriva in barca da Bahía Drake, Sierpe o Puerto Jiménez, oppure a piedi dal settore La Leona, vicino a Playa Carate.
+- **Corcovado**, che ho fatto ed è super. Si entra solo con una guida autorizzata e con la prenotazione (l'ente del turismo costaricano indica almeno sei mesi prima). Ci si arriva in barca da Bahía Drake, Sierpe o Puerto Jiménez, oppure a piedi dal settore La Leona, vicino a Playa Carate.
 - **Il whale watching a Uvita**, se si viaggia nella stagione giusta.
 - **Cahuita**, bella bella: squalo nutrice, razze, bradipi e scimmie. Nello stesso tour c'è la comunità bribri con il laboratorio di cioccolato. È un'esperienza culturale, interessante per vedere come vivono e come si fa il cioccolato, ma non aspettatevi una cosa autentica dentro la giungla: non è tipo i Mentawai.
 
@@ -178,7 +178,7 @@ Tra gli aspetti più citati ci sono la buona posizione e lo staff cordiale; dive
 Tra il Caribe di Puerto Viejo e il Pacifico di Uvita non c'è un vero vincitore: il primo per la giungla, le scimmie urlatrici e i due Temazcal vissuti come vere cerimonie spirituali; il secondo per il ritmo più lento, le spiagge e, con un po' di fortuna nella stagione sbagliata, anche qualche avvistamento di balene. Tredici giorni così densi hanno ripagato, ma se dovessi rifarlo rallenterei su Monteverde e Manuel Antonio, le due tappe dove avrei voluto più tempo per godermi la natura invece di correre verso il trasferimento successivo.
 
 ## Proseguire a Panama
-Dalla zona di Cahuita siamo andati al confine con Panama, abbiamo attraversato il ponte ed è iniziata l'avventura a Panama. Se fai anche Panama, dal Costa Rica ci puoi arrivare così.
+Un'opzione, invece di chiudere il giro a San José: dalla zona di Cahuita si prosegue verso Panama. Noi siamo andati al confine, abbiamo attraversato il ponte ed è iniziata l'avventura a Panama. Se vuoi unire i due Paesi, dal Costa Rica ci arrivi così.
 
 - **Puerto Viejo o Cahuita → Sixaola:** un'ora, un'ora e mezza di bus locale fino a Sixaola, il paese di frontiera costaricano. In alternativa ci sono gli shuttle porta a porta fino a Bocas.
 - **Tassa di uscita dal Costa Rica:** chi esce via terra paga 8 $ a persona, online sul sito del Banco de Costa Rica o ai chioschi BCR del posto di frontiera di Sixaola, in dollari o colones.
@@ -197,8 +197,8 @@ Fonti ufficiali del tour operator (WeRoad):
 **Cosa manca ancora per chiudere la bozza:**
 - Anno esatto del viaggio (le date, 16-28 novembre circa, sono chiare dai documenti).
 - Attività opzionali: confermate da Rick il 5/11/2026 Cahuita NP, equitazione (Rancho La Merced), canyoning, zip line, whale watching (Uvita Ballena Jorobada) e surf (con Ariel). Restano da confermare Pacuaré rafting, turtle nesting e birdwatching.
-- Corcovado: Rick lo consiglia («super»), da chiarire se fa parte di questo viaggio o di un altro.
-- Il passaggio a Panama dal Caribe non combacia con il rientro a San José del Giorno 12-13: da chiarire se è un altro viaggio o un prolungamento.
+- Corcovado e Jaguar Rescue Center: fatti da Rick (confermato il 5/11/2026).
+- Il passaggio a Panama dal Caribe è presentato come opzione alternativa al rientro a San José (indicazione di Rick, 5/11/2026).
 - Se e quante balene sono state avvistate durante il whale watching (la
   chiusura attuale, scritta come bozza, ipotizza un avvistamento riuscito).
 - Eventuale racconto della "sorpresa di compleanno" organizzata durante il Giorno 12 (consegna di empanadas fuori dall'ingresso di Manuel Antonio) — sembra un dettaglio con una bella storia dietro.

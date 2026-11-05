@@ -9,6 +9,7 @@ import { Reveal, RevealGroup, RevealItem } from '@/components/Reveal'
 import { CountryHero } from '@/components/CountryHero'
 import { RouteTimeline } from '@/components/RouteTimeline'
 import { DestinationCard } from '@/components/DestinationCard'
+import { BinarioCard } from '@/components/BinarioCard'
 import { ExperienceCard } from '@/components/ExperienceCard'
 import { PracticalInfo } from '@/components/ui/PracticalInfo'
 import { CountrySheet } from '@/components/CountrySheet'
@@ -283,13 +284,13 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
               description={t.destinazioniDesc}
             />
           </div>
-          <RevealGroup className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-3" stagger={0.04}>
-            {destinazioni.map((d) => (
-              <RevealItem key={d.slug}>
-                <DestinationCard destinazione={d} paeseSlug={paeseSlug} />
-              </RevealItem>
-            ))}
-          </RevealGroup>
+          <Reveal className="mt-10">
+            <BinarioCard etichetta={t.destinazioni}>
+              {destinazioni.map((d) => (
+                <DestinationCard key={d.slug} destinazione={d} paeseSlug={paeseSlug} />
+              ))}
+            </BinarioCard>
+          </Reveal>
         </Container>
       </section>
 
@@ -310,7 +311,9 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
         </Container>
       </section>
 
-      {/* Organizza il viaggio */}
+      <FaqPaese paese={paese} />
+
+      {/* Organizza il viaggio: in fondo, a tendine, per chi cerca il dettaglio pratico */}
       <section id="organizza-il-viaggio" className="scroll-mt-24 border-t border-alpine/10 bg-cream-dark/30 py-20 sm:py-28">
         <Container>
           <SectionHeading
@@ -341,7 +344,6 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
         </Container>
       </section>
 
-      <FaqPaese paese={paese} />
     </>
   )
 }
