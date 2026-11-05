@@ -8,7 +8,7 @@ export const esperienzeCostaRica: Esperienza[] = [
     nome: "Full Tour of Cahuita National Park",
     localita: 'Cahuita',
     cosE: "A tour guided by José that combines a walk in Cahuita National Park, a swim at the beach, a visit to the Bribrí indigenous community, a traditional chocolate workshop and a final waterfall.",
-    percheFarla: "It's an authentic cultural experience, often underrated compared with the more adrenaline-filled activities of the rest of the trip.",
+    percheFarla: "For Cahuita's wildlife (we saw a nurse shark, rays, several sloths and monkeys) and for a taste of Bribri culture and chocolate. The Bribri part is cultural, not an authentic day deep in the jungle.",
     durata: "full day",
     periodo: "to be arranged at least a week in advance",
     costo: "$50 per person, to be paid in cash",
@@ -16,7 +16,7 @@ export const esperienzeCostaRica: Esperienza[] = [
     cosaPortare: "water shoes, swimsuit, mosquito repellent, cash",
     perChiEAdatta: "anyone",
     miaEsperienza:
-      "The chocolate workshop with the Bribrí community, where the village chief explains the properties of the traditional plants, was the least touristy gem of the whole tour. It's worth as much as the more adrenaline-filled activities of the rest of the trip, if not more.",
+      "Cahuita, really beautiful. We saw a nurse shark, rays, several sloths, all kinds of little monkeys and more. The Bribri community, on the other hand, is a cultural experience, but don't picture it as something authentic deep in the jungle, at least not the way I experienced it. It's nice to see how they live, or used to live, and how chocolate is made. But it's not like the Mentawai, to give you an idea.",
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['costa-rica-itinerario'],
@@ -166,7 +166,7 @@ export const esperienzeCostaRica: Esperienza[] = [
     durata: "3h30-4h",
     periodo: "January-March and July-October are the best seasons; November-December offers fewer encounters",
     costo: "$70 per person",
-    comePrenotare: "only through the DMC, avoiding local providers without adequate insurance",
+    comePrenotare: "with Uvita Ballena Jorobada (WhatsApp +506 8820 6443) or through the DMC; avoid improvised operators without adequate insurance",
     cosaPortare: "sunscreen, hat, camera with zoom",
     perChiEAdatta: "anyone",
     miaEsperienza:

@@ -302,7 +302,7 @@ export const destinazioniPanama: Destinazione[] = [
     doveMangiare:
       'Bocas è il posto di Panama dove si mangia caraibico: pesce e pollo in salsa di cocco, rice and beans cucinati col latte di cocco invece che con l\'acqua, patacones ovunque. Il patrimonio afro-caraibico dell\'arcipelago si sente in cucina più che altrove nel paese. A Bocas Town i ristoranti sull\'acqua costano il doppio dei chioschi a due strade di distanza, dove si mangia lo stesso pesce; il mercato del mattino è l\'opzione più economica. La birra locale ghiacciata è quasi la bevanda ufficiale dell\'isola.',
     comeArrivare:
-      'Volo interno da Panama City a Bocas del Toro (circa 1 ora) oppure bus notturno fino ad Almirante e water taxi (circa 30 minuti). Molti arrivano anche via terra dalla Costa Rica, dal confine di Sixaola.',
+      'Volo interno da Panama City a Bocas del Toro (circa 1 ora) oppure bus notturno fino ad Almirante e water taxi (circa 30 minuti). Dalla Costa Rica si arriva via terra dal Caribe: da Puerto Viejo o Cahuita bus fino a Sixaola, si esce dal Costa Rica (tassa di uscita via terra di 8 USD, online sul sito del Banco de Costa Rica o ai chioschi BCR), si attraversa a piedi il ponte binazionale sul fiume Sixaola, aperto nel 2021, e si entra a Panama a Guabito. Poi bus o taxi collettivo fino a Changuinola e Almirante, e water taxi per Bocas Town (circa 30 minuti). Ci sono anche shuttle porta a porta da Puerto Viejo.',
     comeSpostarsi: 'Water taxi tra le isole (pochi dollari a tratta), biciclette e taxi su Isla Colón.',
     periodoMigliore:
       'ha un microclima diverso dal resto del paese: settembre-ottobre e febbraio-marzo sono spesso i periodi più soleggiati, mentre qui la «stagione secca» panamense non sempre coincide',
@@ -395,7 +395,8 @@ export const destinazioniPanama: Destinazione[] = [
       "attenzioni": [
         "Il microclima di Bocas segue le sue piogge, non la stagione secca del resto di Panama.",
         "Le chitras, moscerini che pungono senza farsi sentire e lasciano segni per giorni, infestano le spiagge: repellente.",
-        "Le uscite verso i cayos più esterni saltano col mare mosso."
+        "Le uscite verso i cayos più esterni saltano col mare mosso.",
+        "Arrivando via terra dal Costa Rica, a Guabito possono chiedere il biglietto di uscita da Panama e la prova di almeno 1.000 USD o una carta di credito. Panama è un'ora avanti rispetto al Costa Rica, e gli uffici di frontiera chiudono nel tardo pomeriggio: meglio passare la mattina."
       ],
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],

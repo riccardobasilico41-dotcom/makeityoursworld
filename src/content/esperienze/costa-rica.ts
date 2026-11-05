@@ -10,7 +10,7 @@ export const esperienzeCostaRica: Esperienza[] = [
     nome: 'Tour completo del Parco Nazionale di Cahuita',
     localita: 'Cahuita',
     cosE: 'Un tour guidato da José che unisce la passeggiata nel Parco Nazionale di Cahuita, il bagno in spiaggia, la visita alla comunità indigena Bribrì, un laboratorio di cioccolato tradizionale e una cascata finale.',
-    percheFarla: 'È un\'esperienza culturale autentica, spesso sottovalutata rispetto alle attività più adrenaliniche del resto del viaggio.',
+    percheFarla: 'Per gli animali di Cahuita (noi abbiamo visto lo squalo nutrice, le razze, vari bradipi e scimmiette) e per un assaggio della cultura bribri e del cioccolato. La parte bribri è culturale, non una giornata autentica dentro la giungla.',
     durata: 'giornata intera',
     periodo: 'da organizzare con almeno una settimana d\'anticipo',
     costo: '50$ a persona, da pagare in contanti',
@@ -18,7 +18,7 @@ export const esperienzeCostaRica: Esperienza[] = [
     cosaPortare: 'scarpe da acqua, costume, repellente per zanzare, contanti',
     perChiEAdatta: 'chiunque',
     miaEsperienza:
-      'Il laboratorio di cioccolato con la comunità Bribrì, dove il capo villaggio racconta le proprietà delle piante tradizionali, è stata la chicca meno turistica di tutto il tour. Vale quanto le attività più adrenaliniche del resto del viaggio, se non di più.',
+      'Cahuita bella bella. Abbiamo visto lo squalo nutrice, le razze, vari bradipi, scimmiette di ogni tipo e altro. La comunità bribri invece è un\'esperienza culturale, ma non devi immaginartela come una cosa autentica dentro la giungla, almeno per come l\'ho vissuta io. È bello vedere come vivono, o vivevano, e come si fa il cioccolato. Però non è tipo i Mentawai, per dire.',
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['costa-rica-itinerario'],
@@ -168,7 +168,7 @@ export const esperienzeCostaRica: Esperienza[] = [
     durata: '3h30-4h',
     periodo: 'gennaio-marzo e luglio-ottobre sono le stagioni migliori; novembre-dicembre offre meno incontri',
     costo: '70$ a persona',
-    comePrenotare: 'solo tramite il DMC, evitando fornitori locali senza assicurazione adeguata',
+    comePrenotare: 'con Uvita Ballena Jorobada (WhatsApp +506 8820 6443) o tramite il DMC; evitare operatori improvvisati senza assicurazione adeguata',
     cosaPortare: 'crema solare, cappello, macchina fotografica con zoom',
     perChiEAdatta: 'chiunque',
     miaEsperienza:

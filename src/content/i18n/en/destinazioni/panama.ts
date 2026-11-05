@@ -297,7 +297,7 @@ export const destinazioniPanama: Destinazione[] = [
     doveMangiare:
       "Bocas is the place in Panama where you eat Caribbean: fish and chicken in coconut sauce, rice and beans cooked in coconut milk instead of water, patacones everywhere. The archipelago's Afro-Caribbean heritage shows in the cooking more than elsewhere in the country. In Bocas Town the restaurants on the water cost double the stalls two streets away, where you eat the same fish; the morning market is the cheapest option. Ice-cold local beer is almost the official drink of the island.",
     comeArrivare:
-      "Domestic flight from Panama City to Bocas del Toro (about 1 hour) or overnight bus to Almirante and a water taxi (about 30 minutes). Many also arrive overland from Costa Rica, from the Sixaola border.",
+      "Domestic flight from Panama City to Bocas del Toro (about 1 hour) or overnight bus to Almirante and a water taxi (about 30 minutes). From Costa Rica you arrive overland from the Caribbean side: bus from Puerto Viejo or Cahuita to Sixaola, exit Costa Rica (land exit tax of 8 USD, online on the Banco de Costa Rica website or at the BCR kiosks), walk across the binational bridge over the Sixaola River, opened in 2021, and enter Panama at Guabito. Then bus or shared taxi to Changuinola and Almirante, and water taxi to Bocas Town (about 30 minutes). There are also door-to-door shuttles from Puerto Viejo.",
     comeSpostarsi: "Water taxis between the islands (a few dollars each way), bicycles and taxis on Isla Colón.",
     periodoMigliore:
       "it has a different microclimate from the rest of the country: September-October and February-March are often the sunniest periods, while here the Panamanian \"dry season\" doesn't always line up",
@@ -390,7 +390,8 @@ export const destinazioniPanama: Destinazione[] = [
       "attenzioni": [
         "Bocas has its own microclimate and rains, not the dry season of the rest of Panama.",
         "Chitras, sandflies that bite without you noticing and leave marks for days, infest the beaches: repellent.",
-        "Trips to the outer cayos are cancelled when the sea is rough."
+        "Trips to the outer cayos are cancelled when the sea is rough.",
+        "Arriving overland from Costa Rica, at Guabito they may ask for an onward ticket out of Panama and proof of at least 1,000 USD or a credit card. Panama is one hour ahead of Costa Rica, and the border offices close in the late afternoon: better to cross in the morning."
       ],
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],

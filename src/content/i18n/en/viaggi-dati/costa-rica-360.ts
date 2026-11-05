@@ -15,6 +15,8 @@ export const costaRica360Meta: TripMeta = {
   criticita: [
     "The pace is very dense for 13 days, with very early wake-ups almost every day",
     "November is not the best month for whale watching in Uvita",
+    "Activities are very expensive because of the American influence, and you almost always pay in dollars",
+    "Manuel Antonio is beautiful but very crowded: at times it feels like a zoo",
   ],
   budgetTotale: undefined,
   viaggioInBreve: {

@@ -14,6 +14,8 @@ export const costaRica360Meta: TripMeta = {
   ],
   criticita: [
     'El ritmo es muy denso para 13 días, con madrugones casi todos los días',
+    'Las actividades son carísimas por la influencia estadounidense y casi siempre se paga en dólares',
+    'Manuel Antonio es bonito pero está abarrotado: a ratos parece un zoo',
   ],
   budgetTotale: undefined,
   viaggioInBreve: {

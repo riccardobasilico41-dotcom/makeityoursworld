@@ -27,7 +27,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     costi: "Uber airport-center about $14.",
     erroriDaEvitare: ["Avoid the city center after sunset: always move in a group or by Uber", "Exchange currency only at banks or authorized offices, never on the street"],
     miaEsperienza:
-      "San José itself offers little to the tourist. Dinner at Jardín de Lolita, among the food trucks and with the whole group seated together, got us socializing from the very first night.",
+      "San José is only worth seeing in passing. The Mercado Central and the National Museum, the history one, are nice; otherwise, nothing special. Dinner at Jardín de Lolita, among the food trucks with the whole group sitting together, got us socializing from the very first evening.",
       "luoghi": [
         {
           "nome": "Mercado Central",
@@ -61,6 +61,15 @@ export const destinazioniCostaRica: Destinazione[] = [
           "tempo": "1 hour",
           "url": "https://www.teatronacional.go.cr/",
           "consiglio": "Book ahead if you want to attend a show."
+        },
+        {
+          "nome": "Pre-Columbian Gold Museum",
+          "testo": "The Banco Central museums, in underground halls beneath the Plaza de la Cultura, with the permanent exhibition on pre-Columbian gold and the numismatics museum.",
+          "come": "On foot from the center: Plaza de la Cultura, between avenida 0 and 2, calle 5.",
+          "quando": "Daily, 9am-4:30pm.",
+          "tempo": "1-1.5 hours",
+          "costo": "8,800 colones for foreigners, 6,950 for students (official website, 2026).",
+          "url": "https://www.museosdelbancocentral.org/"
         }
       ],
       "programmi": [
@@ -95,6 +104,10 @@ export const destinazioniCostaRica: Destinazione[] = [
       ],
       "sapori": [
         {
+          "nome": "Chicken, rice and beans",
+          "testo": "The food is ordinary, a mix of American and Central American, with lots of chicken, rice and beans. The fruit, on the other hand, is incredible."
+        },
+        {
           "nome": "Casado",
           "testo": "The dish of the day with rice, beans, salad, plantain and meat or fish. Eaten in sodas."
         },
@@ -114,7 +127,9 @@ export const destinazioniCostaRica: Destinazione[] = [
       "attenzioni": [
         "San José has little for the tourist: it is a base for a couple of days, not a destination.",
         "Do not walk at night outside the tourist centre or in the neighbourhoods behind the station; use official taxis or apps.",
-        "Pickpockets in markets and on buses: carry only what you need."
+        "Pickpockets in markets and on buses: carry only what you need.",
+        "Activities in Costa Rica are very expensive and you almost always pay in dollars: factor it into your budget.",
+        "Safety gave me a good impression, but as everywhere in Central America, keep your eyes open."
       ],
     esperienzeSlugs: [],
     tripSlugs: ['costa-rica-itinerario'],
@@ -148,7 +163,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     costi: "Bike rental about $6; Cahuita tour $50 per person; Pacuaré rafting $112.",
     erroriDaEvitare: ["Book the Cahuita tour and the Pacuaré rafting at least a week in advance", "At night always move in a group, especially girls on their own"],
     miaEsperienza:
-      "We pedaled along the coast to Punta Uva, with howler monkeys heard from the trees overhead: to get to know the Costa Rican Caribbean it was the simplest and truest way.",
+      "We cycled along the coast to Punta Uva, with howler monkeys calling from the trees overhead. Cahuita, really beautiful: there we saw a nurse shark, rays, several sloths, all kinds of little monkeys and more. The Bribri community, on the other hand, is a cultural experience, but don't picture it as something authentic deep in the jungle, at least not the way I experienced it. It's nice to see how they live, or used to live, and how chocolate is made, but it's not like the Mentawai, to give you an idea. In the area I also recommend the Jaguar Rescue Center. From here we then went to the Panama border.",
       "luoghi": [
         {
           "nome": "Cahuita National Park",
@@ -156,7 +171,7 @@ export const destinazioniCostaRica: Destinazione[] = [
           "come": "Main entrance in Cahuita, or from the Puerto Vargas side. The trail follows the beach, with some river crossings.",
           "quando": "Early morning, when animals are active.",
           "tempo": "3-4 hours",
-          "consiglio": "With a local guide you see many more animals. There is a dedicated experience card for a full tour with the guide José."
+          "consiglio": "With a local guide you see many more animals. There is a dedicated experience card for a full tour with the guide José. We saw a nurse shark, rays, several sloths and monkeys."
         },
         {
           "nome": "Punta Uva and Playa Chiquita",
@@ -181,6 +196,24 @@ export const destinazioniCostaRica: Destinazione[] = [
           "quando": "Check the best season with the operator.",
           "tempo": "Full day",
           "consiglio": "The river is far from the coast: it is a long day with many hours on the road."
+        },
+        {
+          "nome": "Jaguar Rescue Center",
+          "testo": "A center that takes in injured, sick or orphaned animals, mostly monkeys, sloths, birds and reptiles. It cares for them and, when they can live free again, releases them into the forest, also from its La Ceiba release station.",
+          "come": "In Puerto Viejo, by bike or tuk tuk from town.",
+          "quando": "Guided tours every day at 9:30 and 11:30; private tour at 2pm, limited places.",
+          "tempo": "1.5-2 hours",
+          "url": "https://www.jaguarrescue.foundation/en-us/",
+          "consiglio": "You can only visit on a guided tour: book it online on their website."
+        },
+        {
+          "nome": "Sixaola border, toward Panama",
+          "testo": "From Puerto Viejo or Cahuita you take a bus to Sixaola, cross the binational bridge over the Sixaola River, opened in 2021, and enter Panama at Guabito. From there you continue to Bocas del Toro.",
+          "come": "Local bus to Sixaola, then on foot across the bridge. After Guabito: bus or shared taxi to Changuinola and Almirante, then water taxi to Bocas Town (about 30 minutes).",
+          "quando": "Early morning: the border offices close in the late afternoon.",
+          "tempo": "Half a day to Bocas",
+          "costo": "Costa Rica land exit tax: 8 USD per person, online on the Banco de Costa Rica website or at the BCR kiosks at the border.",
+          "consiglio": "Panama may ask for an onward ticket and proof of at least 1,000 USD or a credit card. Panama is one hour ahead of Costa Rica."
         }
       ],
       "programmi": [
@@ -266,7 +299,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     costi: "Cerro Tortuguero $6 boat + $3 entrance; night turtle excursion about $40 per person.",
     erroriDaEvitare: [],
     miaEsperienza:
-      "The boat ride from Moín to Tortuguero, through jungle canals with crocodiles and monkeys on the banks, was one of the best transfers of the whole trip, an experience in itself.",
+      "Tortuguero is gorgeous. It looks a lot like the Amazon and it's fantastic for nature. Even the boat ride from Moín, along jungle canals with crocodiles and monkeys on the banks, was one of the best transfers of the whole trip.",
       "luoghi": [
         {
           "nome": "Tortuguero canals",
@@ -483,7 +516,7 @@ export const destinazioniCostaRica: Destinazione[] = [
       "Volcano trek at Mirador El Silencio (optional)",
       "Mistico Hanging Bridges (optional)",
       "Free hot springs of El Chollín",
-      "Canyoning in the Lost Canyon (optional, very adrenaline-filled)",
+      "Canyoning in the Lost Canyon (we did it: it's the activity I recommend most in La Fortuna)",
     ],
     doveDormire:
       "Hotel Campos Arenal: among the most cited strengths are the volcano view from the pool, the hearty breakfast and the convenient location. The recurring flaw is the dirt access path, slippery when it rains. Mid-range.\n\nAlternatives: budget: Arenal Backpackers Resort, Gringo Pete's · mid-range: Volcano Lodge & Springs · luxury: Nayara Springs, Tabacón Thermal Resort & Spa.",
@@ -495,7 +528,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     costi: "La Fortuna Waterfall $18-20; combo tour $90-120 per person; Lost Canyon canyoning $115-119.",
     erroriDaEvitare: ["There are no changing rooms at the El Chollín springs: river shoes, a swimsuit and a headlamp are enough, no towels"],
     miaEsperienza:
-      "The free hot springs of El Choyin, on a stretch of natural river, felt far more authentic to us than the paid spas in the area. It was one of the truest moments of the whole trip.",
+      "La Fortuna is nice, but a bit overtouristy. The activities are expensive, but really, really good, especially the canyoning, which we did and I recommend. The free hot springs of El Choyin, on a natural stretch of river, felt far more authentic to us than the paid hot springs in the area.",
       "luoghi": [
         {
           "nome": "La Fortuna waterfall",
@@ -575,7 +608,8 @@ export const destinazioniCostaRica: Destinazione[] = [
       "attenzioni": [
         "The staircase to the La Fortuna waterfall is long and the way back is all uphill.",
         "Paid hot springs are expensive: consider the free ones.",
-        "Canyoning: very adrenaline-fuelled and optional, only with serious operators."
+        "Canyoning: very adrenaline-fuelled, only with serious operators. We did it and it's great.",
+        "La Fortuna is a bit overtouristy and activities are expensive: pick a few things and do them well."
       ],
     esperienzeSlugs: ['cascata-fortuna-termales'],
     tripSlugs: ['costa-rica-itinerario'],
@@ -608,7 +642,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     costi: "Night walk (Kinkajou Night Walk) $28 per person; zipline about $60 per person; birdwatching $50 per person.",
     erroriDaEvitare: ["Don't be afraid to ask the guide to cut the night walk short if it goes on too long: not everyone likes the length equally"],
     miaEsperienza:
-      "The night walk in the cloud forest, with wildlife that only moves after sunset, was one of the best experiences of the trip, even if for some the length (1h30) may feel long.",
+      "Monteverde has the giant zip line, and it's awesome. The night walk in the cloud forest was great too, with wildlife that only comes out after sunset, although some may find the length (1h30) a bit long.",
       "luoghi": [
         {
           "nome": "Monteverde cloud forest",
@@ -635,7 +669,8 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Zipline adventure",
-          "testo": "A zipline route above the canopy. There is a dedicated experience card.",
+          "testo": "A zipline route above the canopy. There is a dedicated experience card. Monteverde has the giant zip line: 100% Aventura states on its website that it has the longest cable in Costa Rica, 1,590 meters, over 10 lines, from 72 USD per person (2026).",
+          "url": "https://www.aventuracanopytour.com/",
           "come": "Booking with a local operator, with transfer.",
           "quando": "Morning.",
           "tempo": "2-3 hours",
@@ -713,7 +748,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     cosaVedere: ["The Cola de la Ballena, the whale-tail-shaped sandbar", "The Tárcoles bridge with its big crocodiles, along the way"],
     cosaFare: [
       "Whale watching (there's a dedicated experience page)",
-      "Horseback riding at Rancho Merced (optional)",
+      "Sunset horseback ride on the beach at Rancho La Merced (highly recommended)",
       "Surfing with board rental from Nomadic Surf",
       "Sunset yoga on a panoramic deck",
     ],
@@ -724,9 +759,9 @@ export const destinazioniCostaRica: Destinazione[] = [
     comeSpostarsi: "On foot on the beach; van for excursions.",
     periodoMigliore: "January-March or July-October for whale watching (November-December is less favorable)",
     costi: "Whale watching $70 per person; horseback riding $52 per person; surfing $70 for 4 boards a day; yoga $10 per person.",
-    erroriDaEvitare: ["Book whale watching only through the DMC, avoiding local providers without adequate insurance"],
+    erroriDaEvitare: ["Trusting improvised operators for whale watching: better a serious one like Uvita Ballena Jorobada or the DMC, and always ask about insurance"],
     miaEsperienza:
-      "The Cola de la Ballena, the whale-tail-shaped sandbar you see at low tide, remains one of the most beautiful landscapes of the whole trip, no matter how many whales you manage to spot at sea.",
+      "In Uvita I did a bit of everything. For the whale tour I recommend Uvita Ballena Jorobada. At Rancho La Merced we did the sunset horseback ride on the beach: I fell off, because I'm not an experienced rider, but it's beautiful. The animals are treated well, which matters hugely to me, and they're gentle. Highly recommended. Costa Rica is also great for surfing, and here I went with Ariel. And the Cola de la Ballena at low tide is still one of the most beautiful landscapes of the trip.",
       "luoghi": [
         {
           "nome": "Marino Ballena National Park and Cola de la Ballena",
@@ -758,6 +793,15 @@ export const destinazioniCostaRica: Destinazione[] = [
           "come": "Schools and decks around Uvita and Dominical.",
           "quando": "Morning for surf, sunset for yoga.",
           "tempo": "2 hours"
+        },
+        {
+          "nome": "Corcovado National Park",
+          "testo": "The wildest park in the country, on the Osa Peninsula: primary forest, empty beaches, tapirs, peccaries and Costa Rica's largest population of scarlet macaws.",
+          "come": "Only with an authorized guide and a reservation (reservaciones.pnc@sinac.go.cr). By boat from Drake Bay, Sierpe or Puerto Jiménez to Sirena station; by land from the La Leona sector, near Playa Carate.",
+          "quando": "Daily 8am-4pm. The best time is December to April; Sirena station is closed in October.",
+          "tempo": "1-2 days",
+          "url": "https://www.visitcostarica.com/",
+          "consiglio": "Book well ahead: Costa Rica's tourism board says at least six months."
         }
       ],
       "programmi": [
@@ -838,7 +882,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     costi: "Remember that the park is closed on Tuesdays.",
     erroriDaEvitare: ["Forgetting that the park is closed on Tuesdays: better to check beforehand and, if necessary, move the visit earlier"],
     miaEsperienza:
-      "Thanks to the guide, Manuel Antonio was one of the stops with the most sightings of the whole trip: we saw sloths, monkeys and iguanas up close along trails that on our own we'd have had much more trouble reading.",
+      "Manuel Antonio is a beautiful park, but with so many people there you almost feel like you're going to the zoo. It's still very beautiful. Thanks to the guide we saw sloths, monkeys and iguanas up close along trails we'd have struggled to read on our own.",
       "luoghi": [
         {
           "nome": "Manuel Antonio National Park",
@@ -919,7 +963,8 @@ export const destinazioniCostaRica: Destinazione[] = [
         "The park is closed on Tuesdays; after heavy rain SINAC may close it on other days too.",
         "Tickets are sold online only, on the SINAC site: they are not sold at the gate, and sites reselling them at a markup are not official.",
         "Do not feed the animals and keep bags closed: monkeys and raccoons steal.",
-        "Since 30 April 2026 fines for entering through unofficial access points or closed areas are high: stay on marked trails."
+        "Since 30 April 2026 fines for entering through unofficial access points or closed areas are high: stay on marked trails.",
+        "It's one of the most crowded parks in the country: with all those people it feels like a zoo at times. Arriving at opening time helps."
       ],
     esperienzeSlugs: ['parco-manuel-antonio'],
     tripSlugs: ['costa-rica-itinerario'],

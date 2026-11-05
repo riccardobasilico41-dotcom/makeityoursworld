@@ -29,7 +29,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     costi: 'Uber aeroporto-centro circa 14$.',
     erroriDaEvitare: ['Evitare il centro città dopo il tramonto: meglio muoversi sempre in gruppo o in Uber', 'Cambiare valuta solo in banche o uffici autorizzati, mai per strada'],
     miaEsperienza:
-      'San José in sé offre poco al turista. La cena al Jardín de Lolita, tra i food truck e con tutto il gruppo seduto insieme, ci ha fatto socializzare fin dalla prima sera.',
+      "San José merita di essere vista solo di passaggio. Carini il Mercado Central e il Museo Nazionale, quello di storia; per il resto niente di speciale. La cena al Jardín de Lolita, tra i food truck e con tutto il gruppo seduto insieme, ci ha fatto socializzare fin dalla prima sera.",
       "luoghi": [
         {
           "nome": "Mercado Central",
@@ -63,6 +63,15 @@ export const destinazioniCostaRica: Destinazione[] = [
           "tempo": "1 ora",
           "url": "https://www.teatronacional.go.cr/",
           "consiglio": "Prenotare in anticipo se si vuole assistere a uno spettacolo."
+        },
+        {
+          "nome": "Museo del Oro Precolombino",
+          "testo": "I musei del Banco Central, in sale sotterranee sotto la Plaza de la Cultura, con la mostra permanente sull'oro precolombino e il museo di numismatica.",
+          "come": "A piedi dal centro: Plaza de la Cultura, tra avenida 0 e 2, calle 5.",
+          "quando": "Tutti i giorni, 9-16.30.",
+          "tempo": "1-1,5 ore",
+          "costo": "8.800 colones per gli stranieri, 6.950 per gli studenti (sito ufficiale, 2026).",
+          "url": "https://www.museosdelbancocentral.org/"
         }
       ],
       "programmi": [
@@ -97,6 +106,10 @@ export const destinazioniCostaRica: Destinazione[] = [
       ],
       "sapori": [
         {
+          "nome": "Pollo, riso e fagioli",
+          "testo": "Il cibo è normale, un misto tra americano e centroamericano, con tanto pollo, riso e fagioli. La frutta invece è incredibile."
+        },
+        {
           "nome": "Casado",
           "testo": "Il piatto del giorno con riso, fagioli, insalata, platano e carne o pesce. Si mangia nelle sodas."
         },
@@ -116,7 +129,9 @@ export const destinazioniCostaRica: Destinazione[] = [
       "attenzioni": [
         "San José offre poco al turista: è una base per un paio di giorni, non una meta.",
         "Non girare di sera nelle zone fuori dal centro turistico e nei quartieri dietro la stazione; usare taxi ufficiali o app.",
-        "Borseggi nei mercati e sui bus: portare solo il necessario."
+        "Borseggi nei mercati e sui bus: portare solo il necessario.",
+        "Le attività in Costa Rica sono carissime e si paga quasi sempre in dollari: mettetelo in conto nel budget.",
+        "La sicurezza mi ha dato una buona impressione, ma come in tutto il Centro America occhi sempre aperti."
       ],
     esperienzeSlugs: [],
     tripSlugs: ['costa-rica-itinerario'],
@@ -150,7 +165,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     costi: 'Noleggio bici circa 6$; tour di Cahuita 50$ a persona; Pacuaré rafting 112$.',
     erroriDaEvitare: ['Prenotare il tour di Cahuita e il Pacuaré rafting con almeno una settimana d\'anticipo', 'Di notte muoversi sempre in gruppo, soprattutto le ragazze da sole'],
     miaEsperienza:
-      'Abbiamo pedalato lungo la costa fino a Punta Uva, con le scimmie urlatrici che si sentivano dagli alberi sopra la testa: per conoscere il Caribe costaricano è stato il modo più semplice e più vero.',
+      "Abbiamo pedalato lungo la costa fino a Punta Uva, con le scimmie urlatrici che si sentivano dagli alberi sopra la testa. Cahuita bella bella: lì abbiamo visto lo squalo nutrice, le razze, vari bradipi, scimmiette di ogni tipo e altro. La comunità bribri invece è un'esperienza culturale, ma non devi immaginartela come una cosa autentica dentro la giungla, almeno per come l'ho vissuta io. È bello vedere come vivono, o vivevano, e come si fa il cioccolato, però non è tipo i Mentawai, per dire. Nella zona consiglio anche il Jaguar Rescue Center. Da qui poi siamo andati al confine con Panama.",
       "luoghi": [
         {
           "nome": "Parco Nazionale di Cahuita",
@@ -158,7 +173,7 @@ export const destinazioniCostaRica: Destinazione[] = [
           "come": "Ingresso principale a Cahuita, oppure dal lato di Puerto Vargas. Il sentiero costeggia la spiaggia, in parte con guadi.",
           "quando": "Mattina presto, quando gli animali sono attivi.",
           "tempo": "3-4 ore",
-          "consiglio": "Con una guida locale si vedono molti più animali. Esiste una scheda esperienza dedicata a un tour completo con la guida José."
+          "consiglio": "Con una guida locale si vedono molti più animali. Esiste una scheda esperienza dedicata a un tour completo con la guida José. Noi abbiamo visto lo squalo nutrice, le razze, vari bradipi e scimmie."
         },
         {
           "nome": "Punta Uva e Playa Chiquita",
@@ -183,6 +198,24 @@ export const destinazioniCostaRica: Destinazione[] = [
           "quando": "Verificare con l'operatore la stagione migliore.",
           "tempo": "Giornata intera",
           "consiglio": "Il fiume è lontano dalla costa: è una giornata lunga, con molte ore di strada."
+        },
+        {
+          "nome": "Jaguar Rescue Center",
+          "testo": "Un centro che soccorre animali feriti, malati o rimasti orfani, soprattutto scimmie, bradipi, uccelli e rettili. Li cura e, quando possono tornare liberi, li rilascia nella foresta, anche dalla sua stazione di rilascio La Ceiba.",
+          "come": "A Puerto Viejo, in bici o in tuk tuk dal paese.",
+          "quando": "Visite guidate tutti i giorni alle 9.30 e alle 11.30; visita privata alle 14, con posti limitati.",
+          "tempo": "1,5-2 ore",
+          "url": "https://www.jaguarrescue.foundation/en-us/",
+          "consiglio": "Si entra solo con la visita guidata: prenotarla online sul loro sito."
+        },
+        {
+          "nome": "Frontiera di Sixaola, verso Panama",
+          "testo": "Da Puerto Viejo o Cahuita si arriva in bus a Sixaola, si passa il ponte binazionale sul fiume Sixaola, aperto nel 2021, e si entra a Panama a Guabito. Da lì si prosegue per Bocas del Toro.",
+          "come": "Bus locale fino a Sixaola, poi a piedi sul ponte. Dopo Guabito: bus o taxi collettivo fino a Changuinola e Almirante, poi water taxi per Bocas Town (circa 30 minuti).",
+          "quando": "La mattina presto: gli uffici di frontiera chiudono nel tardo pomeriggio.",
+          "tempo": "Mezza giornata fino a Bocas",
+          "costo": "Tassa di uscita via terra dal Costa Rica: 8 USD a persona, online sul sito del Banco de Costa Rica o ai chioschi BCR della frontiera.",
+          "consiglio": "Panama può chiedere il biglietto di uscita e la prova di almeno 1.000 USD o una carta di credito. Panama è un'ora avanti rispetto al Costa Rica."
         }
       ],
       "programmi": [
@@ -268,7 +301,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     costi: 'Cerro Tortuguero 6$ barca + 3$ ingresso; escursione notturna tartarughe circa 40$ a persona.',
     erroriDaEvitare: [],
     miaEsperienza:
-      'Il tragitto in barca da Moín a Tortuguero, tra canali di giungla con coccodrilli e scimmie sulle rive, è stato uno dei trasferimenti più belli di tutto il viaggio, un\'esperienza a sé.',
+      "Tortuguero è bellissimo. Assomiglia molto all'Amazzonia ed è fantastico per la natura. Già il tragitto in barca da Moín, tra canali di giungla con coccodrilli e scimmie sulle rive, è stato uno dei trasferimenti più belli di tutto il viaggio.",
       "luoghi": [
         {
           "nome": "Canali di Tortuguero",
@@ -485,7 +518,7 @@ export const destinazioniCostaRica: Destinazione[] = [
       'Trekking al vulcano al Mirador El Silencio (opzionale)',
       'Ponti sospesi di Mistico Hanging Bridges (opzionale)',
       'Sorgenti termali gratuite di El Chollín',
-      'Canyoning nel Lost Canyon (opzionale, molto adrenalinico)',
+      'Canyoning nel Lost Canyon (l\'abbiamo fatto: è l\'attività che consiglio di più a La Fortuna)',
     ],
     doveDormire:
       'Hotel Campos Arenal: tra i punti di forza più citati ci sono la vista sul vulcano dalla piscina, la colazione abbondante e la posizione comoda. Il difetto ricorrente è il vialetto sterrato d\'accesso, scivoloso quando piove. Fascia media.\n\nAlternative: economiche: Arenal Backpackers Resort, Gringo Pete\'s · fascia media: Volcano Lodge & Springs · lusso: Nayara Springs, Tabacón Thermal Resort & Spa.',
@@ -497,7 +530,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     costi: 'Cascada de La Fortuna 18-20$; tour combo 90-120$ a persona; canyoning Lost Canyon 115-119$.',
     erroriDaEvitare: ['Alle sorgenti di El Chollín non ci sono spogliatoi: bastano scarpe da fiume, costume e torcia frontale, senza asciugamani'],
     miaEsperienza:
-      'Le sorgenti termali gratuite di El Choyin, in un tratto di fiume naturale, ci sono sembrate molto più autentiche delle terme a pagamento della zona. È stato uno dei momenti più veri di tutto il viaggio.',
+      "La Fortuna è bella, ma un po' overtouristy. Le attività sono care, però belle belle, soprattutto il canyoning, che abbiamo fatto e che consiglio. Le sorgenti termali gratuite di El Choyin, in un tratto di fiume naturale, ci sono sembrate molto più autentiche delle terme a pagamento della zona.",
       "luoghi": [
         {
           "nome": "Cascada de La Fortuna",
@@ -577,7 +610,8 @@ export const destinazioniCostaRica: Destinazione[] = [
       "attenzioni": [
         "La salita alla Cascada de La Fortuna è lunga e il ritorno è tutto in salita.",
         "Le terme a pagamento sono care: valutare quelle gratuite.",
-        "Canyoning: molto adrenalinico e opzionale, solo con operatori seri."
+        "Canyoning: molto adrenalinico, solo con operatori seri. Noi l'abbiamo fatto ed è bellissimo.",
+        "La Fortuna è un po' overtouristy e le attività costano care: scegliere poche cose fatte bene."
       ],
     esperienzeSlugs: ['cascata-fortuna-termales'],
     tripSlugs: ['costa-rica-itinerario'],
@@ -610,7 +644,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     costi: 'Camminata notturna (Kinkajou Night Walk) 28$ a persona; zipline circa 60$ a persona; birdwatching 50$ a persona.',
     erroriDaEvitare: ['Non avere paura di chiedere alla guida di accorciare la camminata notturna se dura troppo: per la durata non piace a tutti allo stesso modo'],
     miaEsperienza:
-      'La camminata notturna nella foresta nebulosa, con la fauna che si muove solo dopo il tramonto, è stata una delle esperienze più belle del viaggio, anche se a qualcuno la durata (1h30) può sembrare lunga.',
+      "A Monteverde c'è la zip line gigante, ed è fighissima. Bella anche la camminata notturna nella foresta nebulosa, con la fauna che si muove solo dopo il tramonto, anche se a qualcuno la durata (1h30) può sembrare lunga.",
       "luoghi": [
         {
           "nome": "Foresta nebulosa di Monteverde",
@@ -637,7 +671,8 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Zipline avventura",
-          "testo": "Percorso di teleferiche sopra la canopy. Esiste una scheda esperienza dedicata.",
+          "testo": "Percorso di teleferiche sopra la canopy. Esiste una scheda esperienza dedicata. A Monteverde c'è la zip line gigante: 100% Aventura dichiara sul suo sito il cavo più lungo del Costa Rica, 1.590 metri, su 10 linee, da 72 USD a persona (2026).",
+          "url": "https://www.aventuracanopytour.com/",
           "come": "Prenotazione con operatore del posto, con trasferimento.",
           "quando": "Mattina.",
           "tempo": "2-3 ore",
@@ -715,8 +750,8 @@ export const destinazioniCostaRica: Destinazione[] = [
     cosaVedere: ['La Cola de la Ballena, il banco di sabbia a forma di coda di balena', 'Il ponte di Tárcoles con i grandi coccodrilli, lungo il tragitto'],
     cosaFare: [
       'Whale watching (c\'è una scheda esperienza dedicata)',
-      'Equitazione al Rancho Merced (opzionale)',
-      'Surf con noleggio tavole da Nomadic Surf',
+      'Giro a cavallo al tramonto in spiaggia al Rancho La Merced (consigliatissimo)',
+      'Surf con Ariel, oppure noleggio tavole da Nomadic Surf',
       'Yoga al tramonto su un deck panoramico',
     ],
     doveDormire:
@@ -726,9 +761,9 @@ export const destinazioniCostaRica: Destinazione[] = [
     comeSpostarsi: 'A piedi in spiaggia; van per le escursioni.',
     periodoMigliore: 'gennaio-marzo o luglio-ottobre per il whale watching (novembre-dicembre è meno favorevole)',
     costi: 'Whale watching 70$ a persona; equitazione 52$ a persona; surf 70$ per 4 tavole al giorno; yoga 10$ a persona.',
-    erroriDaEvitare: ['Prenotare il whale watching solo tramite il DMC, evitando fornitori locali senza un\'assicurazione adeguata'],
+    erroriDaEvitare: ['Affidarsi a operatori improvvisati per il whale watching: meglio un operatore serio come Uvita Ballena Jorobada o il DMC, e chiedere sempre dell\'assicurazione'],
     miaEsperienza:
-      'La Cola de la Ballena, il banco di sabbia a forma di coda di balena che si vede con la bassa marea, resta uno dei paesaggi più belli di tutto il viaggio, a prescindere da quante balene si riesca ad avvistare in mare.',
+      "A Uvita ho fatto un po' di tutto. Per il tour delle balene consiglio Uvita Ballena Jorobada. Al Rancho La Merced abbiamo fatto il giro a cavallo al tramonto in spiaggia: io sono caduto, perché non sono un cavallerizzo esperto, ma è bellissimo. Gli animali sono trattati bene, cosa per me importantissima, e sono docili. Super consigliato. Il Costa Rica è bellissimo anche per il surf, e io qui l'ho fatto con Ariel. E la Cola de la Ballena con la bassa marea resta uno dei paesaggi più belli del viaggio.",
       "luoghi": [
         {
           "nome": "Parco Nazionale Marino Ballena e Cola de la Ballena",
@@ -760,6 +795,15 @@ export const destinazioniCostaRica: Destinazione[] = [
           "come": "Scuole e deck nella zona di Uvita e Dominical.",
           "quando": "Mattina per il surf, tramonto per lo yoga.",
           "tempo": "2 ore"
+        },
+        {
+          "nome": "Parco Nazionale Corcovado",
+          "testo": "Il parco più selvaggio del paese, nella penisola di Osa: foresta primaria, spiagge deserte, tapiri, pecari e la popolazione più grande di are rosse del Costa Rica.",
+          "come": "Solo con guida autorizzata e prenotazione (reservaciones.pnc@sinac.go.cr). In barca da Bahía Drake, Sierpe o Puerto Jiménez fino alla stazione Sirena; via terra dal settore La Leona, vicino a Playa Carate.",
+          "quando": "Tutti i giorni 8-16. Il periodo migliore va da dicembre ad aprile; a ottobre la stazione Sirena è chiusa.",
+          "tempo": "1-2 giorni",
+          "url": "https://www.visitcostarica.com/",
+          "consiglio": "Prenotare con largo anticipo: l'ente del turismo costaricano indica almeno sei mesi."
         }
       ],
       "programmi": [
@@ -840,7 +884,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     costi: 'Il prezzo del biglietto non me lo sono segnato; ricordate che il parco è chiuso il martedì.',
     erroriDaEvitare: ['Dimenticare che il parco è chiuso il martedì: meglio controllare prima ed eventualmente anticipare la visita'],
     miaEsperienza:
-      'Grazie alla guida, Manuel Antonio è stata una delle tappe con più avvistamenti di tutto il viaggio: abbiamo visto da vicino bradipi, scimmie e iguane lungo sentieri che da soli avremmo fatto molta più fatica a leggere.',
+      "Manuel Antonio è bello come parco, ma per la quantità di persone che ci sono hai quasi la sensazione di andare allo zoo. Rimane comunque molto bello. Grazie alla guida abbiamo visto da vicino bradipi, scimmie e iguane lungo sentieri che da soli avremmo fatto molta più fatica a leggere.",
       "luoghi": [
         {
           "nome": "Parco Nazionale Manuel Antonio",
@@ -921,7 +965,8 @@ export const destinazioniCostaRica: Destinazione[] = [
         "Il parco è chiuso il martedì; in caso di forti piogge il SINAC può chiuderlo anche in altri giorni.",
         "I biglietti si comprano solo online, sul sito del SINAC: all'ingresso non si vendono, e i siti che li rivendono con sovrapprezzo non sono ufficiali.",
         "Non dare cibo agli animali e tenere borse chiuse: scimmie e procioni rubano.",
-        "Dal 30 aprile 2026 le multe per chi entra da accessi non ufficiali o in zone chiuse al pubblico sono alte: restare sui sentieri segnati."
+        "Dal 30 aprile 2026 le multe per chi entra da accessi non ufficiali o in zone chiuse al pubblico sono alte: restare sui sentieri segnati.",
+        "È uno dei parchi più affollati del paese: con tutta quella gente a tratti sembra uno zoo. Arrivare all'apertura aiuta."
       ],
     esperienzeSlugs: ['parco-manuel-antonio'],
     tripSlugs: ['costa-rica-itinerario'],

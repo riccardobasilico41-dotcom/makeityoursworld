@@ -8,7 +8,7 @@ export const esperienzeCostaRica: Esperienza[] = [
     nome: 'Tour completo del Parque Nacional de Cahuita',
     localita: 'Cahuita',
     cosE: 'Un tour guiado por José que une el paseo por el Parque Nacional de Cahuita, el baño en la playa, la visita a la comunidad indígena bribri, un taller de chocolate tradicional y una cascada final.',
-    percheFarla: 'Es una experiencia cultural auténtica, a menudo subestimada frente a las actividades más de adrenalina del resto del viaje.',
+    percheFarla: 'Por los animales de Cahuita (nosotros vimos el tiburón nodriza, rayas, varios perezosos y monitos) y por probar un poco de la cultura bribri y del chocolate. La parte bribri es cultural, no una jornada auténtica dentro de la selva.',
     durata: 'día entero',
     periodo: 'hay que organizarlo con al menos una semana de antelación',
     costo: '50$ por persona, a pagar en efectivo',
@@ -16,7 +16,7 @@ export const esperienzeCostaRica: Esperienza[] = [
     cosaPortare: 'escarpines, bañador, repelente de mosquitos, efectivo',
     perChiEAdatta: 'cualquiera',
     miaEsperienza:
-      'El taller de chocolate con la comunidad bribri, donde el jefe del poblado cuenta las propiedades de las plantas tradicionales, fue la joya menos turística de todo el tour. Vale tanto como las actividades de más adrenalina del resto del viaje, si no más.',
+      'Cahuita, preciosa de verdad. Vimos el tiburón nodriza, rayas, varios perezosos, monitos de todo tipo y más. La comunidad bribri, en cambio, es una experiencia cultural, pero no te la imagines como algo auténtico dentro de la selva, al menos por cómo la viví yo. Está bien ver cómo viven, o vivían, y cómo se hace el chocolate. Pero no es como los mentawai, por decirlo así.',
     giudizio: 'imperdibile',
     alternative: [],
     tripSlugs: ['costa-rica-itinerario'],
@@ -166,7 +166,7 @@ export const esperienzeCostaRica: Esperienza[] = [
     durata: '3h30-4h',
     periodo: 'enero-marzo y julio-octubre son las mejores temporadas; noviembre-diciembre ofrece menos encuentros',
     costo: '70$ por persona',
-    comePrenotare: 'solo a través de la agencia, evitando proveedores locales sin seguro adecuado',
+    comePrenotare: 'con Uvita Ballena Jorobada (WhatsApp +506 8820 6443) o a través de la agencia; evitar operadores improvisados sin seguro adecuado',
     cosaPortare: 'crema solar, gorra, cámara de fotos con zoom',
     perChiEAdatta: 'cualquiera',
     miaEsperienza:

@@ -19,8 +19,9 @@ export const costaRica360Meta: TripMeta = {
   ],
   criticita: [
     'Il ritmo è molto denso per 13 giorni, con sveglie prestissimo quasi ogni giorno',
-    'Non è confermato quali attività opzionali (Cahuita, Pacuaré rafting, canyoning, nidificazione tartarughe, equitazione) siano state effettivamente scelte dal gruppo',
     'Novembre non è il mese migliore per il whale watching a Uvita: non è annotato con certezza se e quante balene siano state avvistate',
+    'Le attività sono carissime per l\'influenza americana e si paga quasi sempre in dollari',
+    'Manuel Antonio è bello ma affollatissimo: a tratti sembra uno zoo',
   ],
   budgetTotale: undefined,
   viaggioInBreve: {

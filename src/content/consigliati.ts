@@ -321,6 +321,54 @@ export const CONSIGLIATI: Record<string, Consigliato[]> = {
       },
     },
   ],
+  'costa-rica/puerto-viejo': [
+    {
+      nome: 'Jaguar Rescue Center',
+      cosa: { it: 'Centro di recupero della fauna', en: 'Wildlife rescue center', es: 'Centro de rescate de fauna' },
+      url: 'https://www.jaguarrescue.foundation/en-us/',
+      fatto: true,
+      testo: {
+        it: "Nella zona di Cahuita e Puerto Viejo consiglio il Jaguar Rescue Center. Soccorrono animali feriti, malati o rimasti orfani, soprattutto scimmie e bradipi, li curano e, quando possono, li rimettono in libertà nella foresta. Si visita con le visite guidate del mattino, da prenotare sul loro sito.",
+        en: "In the Cahuita and Puerto Viejo area I recommend the Jaguar Rescue Center. They take in injured, sick or orphaned animals, mostly monkeys and sloths, care for them and, when they can, release them back into the forest. You visit on the morning guided tours, booked on their website.",
+        es: "En la zona de Cahuita y Puerto Viejo recomiendo el Jaguar Rescue Center. Recogen animales heridos, enfermos o huérfanos, sobre todo monos y perezosos, los curan y, cuando pueden, los devuelven a la libertad en el bosque. Se visita con las visitas guiadas de la mañana, que se reservan en su web.",
+      },
+    },
+  ],
+  'costa-rica/uvita': [
+    {
+      nome: 'Uvita Ballena Jorobada',
+      cosa: { it: 'Tour delle balene', en: 'Whale watching tours', es: 'Tours de ballenas' },
+      whatsapp: '+506 8820 6443',
+      fatto: true,
+      testo: {
+        it: "Per il tour delle balene a Uvita consiglio Uvita Ballena Jorobada.",
+        en: "For whale watching in Uvita I recommend Uvita Ballena Jorobada.",
+        es: "Para el tour de las ballenas en Uvita recomiendo Uvita Ballena Jorobada.",
+      },
+    },
+    {
+      nome: 'Rancho La Merced',
+      cosa: { it: 'Giro a cavallo al tramonto in spiaggia', en: 'Sunset horseback ride on the beach', es: 'Paseo a caballo al atardecer por la playa' },
+      whatsapp: '+506 8861 5147',
+      fatto: true,
+      testo: {
+        it: "Al Rancho La Merced abbiamo fatto il giro a cavallo al tramonto in spiaggia. Io sono caduto, perché non sono un cavallerizzo esperto, ma è bellissimo. Gli animali vengono trattati bene, cosa per me importantissima, e sono docili. Super consigliato.",
+        en: "At Rancho La Merced we did the sunset horseback ride on the beach. I fell off, because I'm not an experienced rider, but it's beautiful. The animals are treated well, which matters hugely to me, and they're gentle. Highly recommended.",
+        es: "En el Rancho La Merced hicimos el paseo a caballo al atardecer por la playa. Yo me caí, porque no soy un jinete experto, pero es precioso. Los animales están bien tratados, algo importantísimo para mí, y son dóciles. Superrecomendado.",
+      },
+    },
+    {
+      nome: 'Ariel',
+      cosa: { it: 'Surf a Uvita', en: 'Surfing in Uvita', es: 'Surf en Uvita' },
+      whatsapp: '+506 6184 0390',
+      fatto: true,
+      testo: {
+        it: "Il Costa Rica è bellissimo per il surf. Io a Uvita l'ho fatto con Ariel.",
+        en: "Costa Rica is great for surfing. In Uvita I went with Ariel.",
+        es: "Costa Rica es preciosa para el surf. Yo en Uvita lo hice con Ariel.",
+      },
+    },
+  ],
   'tanzania/serengeti': [
     {
       nome: 'Suricata Safaris',

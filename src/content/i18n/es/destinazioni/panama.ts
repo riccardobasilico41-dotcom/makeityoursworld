@@ -297,7 +297,7 @@ export const destinazioniPanama: Destinazione[] = [
     doveMangiare:
       'Bocas es el lugar de Panamá donde se come caribeño: pescado y pollo en salsa de coco, rice and beans cocinados con leche de coco en lugar de con agua, patacones por todas partes. El patrimonio afrocaribeño del archipiélago se nota en la cocina más que en cualquier otro punto del país. En Bocas Town los restaurantes sobre el agua cuestan el doble que los chiringuitos a dos calles de distancia, donde se come el mismo pescado; el mercado de la mañana es la opción más económica. La cerveza local helada es casi la bebida oficial de la isla.',
     comeArrivare:
-      'Vuelo interno de Ciudad de Panamá a Bocas del Toro (aproximadamente 1 hora) o autobús nocturno hasta Almirante y water taxi (unos 30 minutos). Mucha gente llega también por tierra desde Costa Rica, desde la frontera de Sixaola.',
+      'Vuelo interno de Ciudad de Panamá a Bocas del Toro (aproximadamente 1 hora) o autobús nocturno hasta Almirante y water taxi (unos 30 minutos). Desde Costa Rica se llega por tierra desde el Caribe: bus de Puerto Viejo o Cahuita hasta Sixaola, se sale de Costa Rica (impuesto de salida terrestre de 8 USD, en línea en la web del Banco de Costa Rica o en los quioscos del BCR), se cruza a pie el puente binacional sobre el río Sixaola, abierto en 2021, y se entra en Panamá por Guabito. Luego bus o taxi colectivo hasta Changuinola y Almirante, y water taxi hasta Bocas Town (unos 30 minutos). También hay shuttles puerta a puerta desde Puerto Viejo.',
     comeSpostarsi: 'Water taxi entre las islas (pocos dólares por tramo), bicicletas y taxis en Isla Colón.',
     periodoMigliore:
       'tiene un microclima distinto al del resto del país: septiembre-octubre y febrero-marzo suelen ser los periodos más soleados, mientras que aquí la «estación seca» panameña no siempre coincide',
@@ -390,7 +390,8 @@ export const destinazioniPanama: Destinazione[] = [
       "attenzioni": [
         "Bocas tiene su propio microclima y lluvias, no la estación seca del resto de Panamá.",
         "Las chitras, mosquitas que pican sin que lo notes y dejan marcas durante días, infestan las playas: repelente.",
-        "Las salidas a los cayos más externos se cancelan con mar picado."
+        "Las salidas a los cayos más externos se cancelan con mar picado.",
+        "Llegando por tierra desde Costa Rica, en Guabito pueden pedir el billete de salida de Panamá y la prueba de al menos 1.000 USD o una tarjeta de crédito. Panamá va una hora por delante de Costa Rica, y las oficinas de frontera cierran a última hora de la tarde: mejor cruzar por la mañana."
       ],
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],
