@@ -48,7 +48,7 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "Ponte tra i continenti (Midlina)",
         testo: "Un piccolo ponte pedonale sulla faglia tra la placca nordamericana e quella eurasiatica, a Sandvík. È un attraversamento simbolico, comodo per una sosta di mezz'ora tra aeroporto e Reykjanes.",
-        come: "In auto, circa 15 minuti da Keflavík; parcheggio gratuito vicino al ponte.",
+        come: "In auto da Keflavík; parcheggio vicino al ponte.",
         quando: "Qualsiasi ora; è all'aperto e sempre accessibile.",
         tempo: "30 minuti",
         costo: "ingresso libero",
@@ -57,10 +57,10 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "Centro di Keflavík e lungomare",
         testo: "Una cittadina portuale tranquilla, con il lungomare, la costa rocciosa e il museo del Rock'n'Roll d'Islanda. Per chi arriva la sera è il posto dove cenare senza spostarsi.",
-        come: "A piedi dal centro o con il bus 55 dall'aeroporto (circa 20 minuti).",
+        come: "A piedi dal centro o con il bus 55 dall'aeroporto.",
         quando: "Al tramonto, in estate molto tardi.",
         tempo: "1-2 ore",
-        consiglio: "Ultima corsa del bus 55 poco dopo le 23: tenerne conto per rientrare."
+        consiglio: "Controllare l'orario dell'ultima corsa del bus 55 prima di uscire la sera."
       }
     ],
     sapori: [
@@ -121,7 +121,7 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "Þingvellir",
         testo: "Parco nazionale e sito UNESCO nella spaccatura tra due placche tettoniche, dove nel 930 si riunì il primo parlamento islandese. Si cammina tra pareti di basalto e il lago, con la faglia Almannagjá come passaggio.",
-        come: "In auto da Reykjavík (circa 45-50 minuti) o da Keflavík. Sentieri segnati dal centro visitatori, senza guida necessaria.",
+        come: "In auto da Reykjavík o da Keflavík. Sentieri segnati dal centro visitatori, senza guida necessaria.",
         quando: "Mattina presto o sera, per evitare i pullman; d'estate aperto a tutte le ore.",
         tempo: "1-2 ore",
         costo: "sentieri liberi; parcheggio a pagamento, circa 1.000 ISK per auto (2025)",
@@ -130,7 +130,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Geysir e Strokkur",
-        testo: "Zona geotermica sul Golden Circle. Il Geysir storico è quasi inattivo, ma lo Strokkur erutta a getti alti 15-20 metri ogni pochi minuti.",
+        testo: "Zona geotermica sul Golden Circle. Il Geysir storico erutta di rado, mentre lo Strokkur, a una cinquantina di metri, lancia getti di 15-20 metri ogni 6-10 minuti.",
         come: "Sosta dalla strada, ingresso libero al campo geotermico; i sentieri sono corti.",
         quando: "Con il vento che porta il vapore lontano dal pubblico; sempre aperto.",
         tempo: "45 minuti",
@@ -148,7 +148,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Seljalandsfoss e Gljúfrabúi",
-        testo: "Seljalandsfoss cade per 60 metri e si può aggirare con un sentiero scivoloso che passa dietro il getto. A 500 metri, nascosta in una fessura, c'è Gljúfrabúi, che si vede entrando nel fiume.",
+        testo: "Seljalandsfoss cade per 60 metri e si può aggirare con un sentiero scivoloso che passa dietro il getto. Poco più avanti, nascosta in una fessura, c'è Gljúfrabúi, che si vede entrando nel fiume.",
         come: "Parcheggio a pagamento (700 ISK quando ci sono stato); percorso breve su sentiero fangoso.",
         quando: "Sera d'estate, con il sole che colpisce la caduta da ovest.",
         tempo: "1 ora",
@@ -157,7 +157,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Skógafoss",
-        testo: "Cascata larga 25 metri e alta 60, sul bordo della scogliera vecchia della costa. Una scala laterale sale in cima e continua verso il sentiero di Fimmvörðuháls.",
+        testo: "Cascata larga 25 metri e alta 60, sul bordo della scogliera vecchia della costa. Una scala laterale di 527 gradini sale in cima, dove parte il sentiero per il passo di Fimmvörðuháls.",
         come: "Parcheggio ai piedi; il campeggio accanto è comodo per la sera.",
         quando: "Pomeriggio, per l'arcobaleno quando c'è sole.",
         tempo: "45 minuti",
@@ -166,8 +166,8 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Relitto del DC-3 a Sólheimasandur",
-        testo: "Un aereo militare americano caduto nel 1973 su una pianura di sabbia nera. L'area è spoglia e battuta dal vento; da qualche anno non si arriva più con l'auto.",
-        come: "Parcheggio sulla Ring Road e 4 km a piedi a tratta (40-60 minuti) su sabbia piatta. Niente guida necessaria.",
+        testo: "Un aereo della Marina americana caduto nel novembre 1973 su una pianura di sabbia nera, senza vittime. L'area è spoglia e battuta dal vento; dal 2016 i proprietari del terreno hanno vietato l'accesso in auto.",
+        come: "Parcheggio sulla Ring Road e circa 3-4 km a piedi a tratta su sabbia piatta. Niente guida necessaria.",
         quando: "Tardi in estate, quando il sole sfiora l'orizzonte; di notte serve una torcia.",
         tempo: "2-3 ore andata e ritorno",
         consiglio: "Ci siamo andati a mezzanotte con la luce di fine luglio: portare acqua e un power bank, il percorso non ha punti di riferimento."
@@ -232,7 +232,7 @@ export const destinazioniIslanda: Destinazione[] = [
     luoghi: [
       {
         nome: "Dyrhólaey",
-        testo: "Promontorio con un arco di lava nera nel mare e un faro, molto bello per la vista sulla costa del sud. In primavera parte dell'area chiude per la nidificazione degli uccelli, e fra maggio e agosto si vedono i pulcinella di mare.",
+        testo: "Promontorio con un arco di lava nera nel mare e un faro, molto bello per la vista sulla costa del sud. In primavera parte dell'area chiude per la nidificazione degli uccelli, e d'estate sulle scogliere nidificano i pulcinella di mare. Il faro è del 1927.",
         come: "In auto, strada sterrata da percorrere con cautela fino al parcheggio alto.",
         quando: "Fine primavera e estate per i pulcinella; al tramonto per la luce.",
         tempo: "1 ora",
@@ -255,12 +255,12 @@ export const destinazioniIslanda: Destinazione[] = [
         quando: "Estate, con il fiume basso; in primavera può essere chiuso per il fango.",
         tempo: "1 ora",
         costo: "ingresso libero",
-        consiglio: "Restare sul sentiero: la protezione del muschio è stata una delle ragioni delle chiusure passate."
+        consiglio: "Restare sul sentiero: nel 2019 il canyon è stato chiuso perché l'afflusso di visitatori dopo un video musicale danneggiava l'ambiente."
       },
       {
         nome: "Skaftafell e Svartifoss",
         testo: "Nel parco nazionale del Vatnajökull, sentieri tra betulle e lingue di ghiaccio. Il più battuto porta alla cascata Svartifoss, circondata da colonne di basalto.",
-        come: "Dal centro visitatori di Skaftafell circa 1,5 km a salire, 45 minuti a tratta.",
+        come: "Dal centro visitatori di Skaftafell, sentiero in salita.",
         quando: "Estate, con la luce lunga; il sentiero è chiuso o ghiacciato nei mesi freddi.",
         tempo: "2-3 ore",
         url: "https://www.vatnajokulsthjodgardur.is",
@@ -394,7 +394,7 @@ export const destinazioniIslanda: Destinazione[] = [
     luoghi: [
       {
         nome: "Fiordi dell'Est",
-        testo: "La strada costiera della Route 1 tra Höfn ed Egilsstaðir segue ogni fiordo, con montagne ripide, cascate e villaggi di pescatori. Circa 250 km: in 4-5 ore con le soste.",
+        testo: "La strada costiera della Route 1 tra Höfn ed Egilsstaðir segue ogni fiordo, con montagne ripide, cascate e villaggi di pescatori. Mettere in conto una lunga giornata con le soste.",
         come: "In auto; non ci sono scorciatoie e il meteo cambia in fretta.",
         quando: "Estate, con visibilità; in inverno la passa di Öxi può chiudere.",
         tempo: "una giornata",
@@ -404,7 +404,7 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "Seyðisfjörður",
         testo: "Villaggio di artisti in un fiordo profondo, con case di legno colorate, la chiesa azzurra e la strada con l'arcobaleno. Si arriva scendendo da un passo montano (Fjarðarheiði) con belle cascate.",
-        come: "Circa 30 minuti d'auto da Egilsstaðir; è anche il porto del traghetto dalle Fær Øer e dalla Danimarca.",
+        come: "In auto da Egilsstaðir; è anche il porto del traghetto dalle Fær Øer e dalla Danimarca.",
         quando: "Estate; il passo può essere chiuso dalla neve da autunno a primavera.",
         tempo: "mezza giornata",
         consiglio: "Passeggiata alle cascate lungo la strada, con più soste."
@@ -412,15 +412,15 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "Vök Baths",
         testo: "Piscine termali galleggianti sul lago Urriðavatn, a poca distanza da Egilsstaðir, con un bar sull'acqua. Il primo bagno caldo vero dopo giorni di trekking e vento.",
-        come: "In auto, circa 10 minuti da Egilsstaðir. Si prenota meglio online nei weekend.",
+        come: "In auto, poco fuori Egilsstaðir. Nei weekend conviene prenotare online.",
         quando: "Sera, per la luce e il vapore sull'acqua.",
         tempo: "2 ore",
         consiglio: "Controllare i prezzi aggiornati sul sito ufficiale prima di andare."
       },
       {
         nome: "Lagarfljót e foresta di Hallormsstaður",
-        testo: "La foresta più grande d'Islanda, con alberi alti e sentieri sul lago lungo e stretto Lagarfljót. Una vera sorpresa in un paese quasi senza alberi.",
-        come: "Circa 30 minuti d'auto da Egilsstaðir.",
+        testo: "Una delle foreste più grandi d'Islanda, 740 ettari, con alberi alti e un sentiero lungo il Lagarfljót. Una vera sorpresa in un paese quasi senza alberi.",
+        come: "Circa 25 km da Egilsstaðir, nella valle di Fljótsdalur.",
         quando: "Estate e inizio autunno per i colori.",
         tempo: "2 ore",
         consiglio: "Piccolo e tranquillo, ideale come pausa dalla guida."
@@ -477,7 +477,7 @@ export const destinazioniIslanda: Destinazione[] = [
     luoghi: [
       {
         nome: "Stuðlagil",
-        testo: "Un canyon con colonne di basalto alte fino a 30 metri e acqua turchese, noto solo dal 2017, quando la costruzione di una diga ha abbassato il fiume. Ci sono due accessi, uno con piattaforma panoramica e uno con sentiero fino al letto del fiume.",
+        testo: "Un canyon con colonne di basalto e acqua turchese, rimasto quasi sconosciuto fino al 2016: la diga di Kárahnjúkar, finita nel 2009, ha ridotto la portata del fiume e scoperto le pareti. Ci sono due accessi: la piattaforma panoramica sulla riva ovest e, sulla riva est, un sentiero di circa 5 km.",
         come: "Ultimo tratto su sterrato dall'asfalto; sentieri brevi e ben tenuti.",
         quando: "Estate, con il fiume basso e la luce piena.",
         tempo: "1-2 ore",
@@ -485,7 +485,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Dettifoss",
-        testo: "Cascata larga 100 metri e alta 44, considerata la più potente d'Europa per portata. L'acqua è fangosa, grigia, e il rumore si sente da lontano.",
+        testo: "Cascata larga 100 metri e alta 44, considerata tra le più potenti d'Europa. L'acqua è fangosa, grigia, e il rumore si sente da lontano.",
         come: "Dalla Route 862 (asfaltata) sul lato ovest, la vista migliore; sentiero di circa 1 km dal parcheggio.",
         quando: "Estate; in primavera la piena è al massimo.",
         tempo: "1 ora",
@@ -562,7 +562,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Goðafoss",
-        testo: "La «cascata degli dei», larga 30 metri e alta 12, dove nell'anno 1000 un capo islandese avrebbe gettato le statue dei vecchi dei dopo la conversione al cristianesimo.",
+        testo: "La «cascata degli dei», larga 30 metri e alta 12, dove, secondo una leggenda nata probabilmente nell'Ottocento, intorno all'anno 1000 il legislatore Þorgeir avrebbe gettato le statue dei vecchi dei dopo la conversione al cristianesimo.",
         come: "Sosta lungo la Ring Road, con due lati e sentieri corti.",
         quando: "Sera d'estate o mattina presto.",
         tempo: "30-45 minuti",
@@ -588,8 +588,8 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Akureyri città",
-        testo: "La seconda città dell'Islanda, ai piedi di un fiordo lungo, con chiesa moderna, giardino botanico a nord del cerchio polare e una bella vista dei monti.",
-        come: "A piedi dal centro; il giardino botanico Lystigarðurinn è gratuito.",
+        testo: "Il centro più grande fuori dall'area della capitale, in fondo a un fiordo lungo e a circa 100 km dal Circolo polare artico, con la chiesa Akureyrarkirkja, il giardino botanico e una bella vista dei monti.",
+        come: "A piedi dal centro; il giardino botanico Lystigarðurinn è in Spítalavegur.",
         quando: "Giorno intero; sera per i caffè.",
         tempo: "2-3 ore",
         consiglio: "Fare la spesa qui: i supermercati sono più forniti e meno cari della media del Nord."
@@ -641,7 +641,7 @@ export const destinazioniIslanda: Destinazione[] = [
     luoghi: [
       {
         nome: "Kirkjufell e Kirkjufellsfoss",
-        testo: "La montagna più fotografata d'Islanda, alta 463 metri e a forma di cappello, con una cascata ai piedi. Il parcheggio è accanto alla caduta e non serve camminare.",
+        testo: "Considerata la montagna più fotografata d'Islanda, alta 463 metri e a forma di cappello, con una cascata ai piedi. Il parcheggio è accanto alla caduta e non serve camminare.",
         come: "In auto dalla Route 54; sosta breve.",
         quando: "Tramonto, soprattutto in estate; in inverno di notte per l'aurora.",
         tempo: "1 ora",
@@ -666,11 +666,10 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Guðrúnarlaug",
-        testo: "Una piscina termale naturale in Laugar, nella valle di Sælingsdalur, ricostruita su un'antica sorgente. È ancora poco battuta e gratuita.",
+        testo: "Una vasca termale ricostruita a Laugar, nella valle di Sælingsdalur, nel luogo descritto dalla saga di Laxdæla: prende il nome dalla protagonista Guðrún Ósvífursdóttir. È ancora poco battuta.",
         come: "Poco fuori dalla Route 60.",
         quando: "Sera.",
         tempo: "1 ora",
-        costo: "ingresso libero",
         consiglio: "Spogliatoio essenziale: portare asciugamano e infradito."
       }
     ],
@@ -709,7 +708,7 @@ export const destinazioniIslanda: Destinazione[] = [
     luoghi: [
       {
         nome: "Hallgrímskirkja",
-        testo: "Chiesa luterana in cemento ispirata ai fianchi di basalto, iniziata nel 1945 e finita nel 1986. La torre di 74 metri ha un belvedere sulla città.",
+        testo: "Chiesa luterana in cemento ispirata ai fianchi di basalto, iniziata nel 1945 e finita nel 1986. La torre di 74,5 metri ha un belvedere sulla città, raggiungibile in ascensore.",
         come: "In centro, a piedi. L'ingresso alla chiesa e alla torre è separato.",
         quando: "Chiesa tutti i giorni 10-17 d'inverno e 9-20 d'estate; torre fino alle 16:45 d'inverno e alle 19:45 d'estate. Mattina per la luce più morbida.",
         tempo: "45 minuti",

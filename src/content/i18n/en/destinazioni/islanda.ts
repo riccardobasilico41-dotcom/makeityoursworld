@@ -39,7 +39,7 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "Bridge Between Continents (Midlina)",
         testo: "A small footbridge over the rift between the North American and Eurasian plates, at Sandvík. A symbolic crossing, handy for a half-hour stop between the airport and Reykjanes.",
-        come: "By car, about 15 minutes from Keflavík; free parking near the bridge.",
+        come: "By car from Keflavík; parking near the bridge.",
         quando: "Any time; it is outdoors and always open.",
         tempo: "30 minutes",
         costo: "free entry",
@@ -48,10 +48,10 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "Keflavík centre and waterfront",
         testo: "A quiet port town with a seafront, a rocky coast and the Icelandic Museum of Rock'n'Roll. For late arrivals it is the place to eat without going far.",
-        come: "On foot from the centre or by bus 55 from the airport (about 20 minutes).",
+        come: "On foot from the centre or by bus 55 from the airport.",
         quando: "At sunset, very late in summer.",
         tempo: "1-2 hours",
-        consiglio: "The last bus 55 leaves just after 23:00: plan your return accordingly."
+        consiglio: "Check the time of the last bus 55 before going out in the evening."
       }
     ],
     sapori: [
@@ -112,7 +112,7 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "Þingvellir",
         testo: "A national park and UNESCO site in the rift between two tectonic plates, where the first Icelandic parliament met in 930. You walk between basalt walls and the lake, with the Almannagjá fault as the passage.",
-        come: "By car from Reykjavík (about 45-50 minutes) or from Keflavík. Trails start from the visitor centre; no guide needed.",
+        come: "By car from Reykjavík or from Keflavík. Trails start from the visitor centre; no guide needed.",
         quando: "Early morning or evening, to avoid the buses; in summer open at all hours.",
         tempo: "1-2 hours",
         costo: "trails free; paid parking, about 1,000 ISK per car (2025)",
@@ -121,7 +121,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Geysir and Strokkur",
-        testo: "A geothermal area on the Golden Circle. The original Geysir is almost dormant, but Strokkur erupts jets 15-20 metres high every few minutes.",
+        testo: "A geothermal area on the Golden Circle. The original Geysir erupts rarely, while Strokkur, about fifty metres away, shoots jets of 15-20 metres every 6-10 minutes.",
         come: "Stop from the road, free access to the geothermal field; the paths are short.",
         quando: "When the wind blows the steam away from the crowd; always open.",
         tempo: "45 minutes",
@@ -139,7 +139,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Seljalandsfoss and Gljúfrabúi",
-        testo: "Seljalandsfoss falls 60 metres and you can go around it on a slippery path behind the curtain. 500 metres away, hidden in a crack, Gljúfrabúi can be seen by wading into the stream.",
+        testo: "Seljalandsfoss falls 60 metres and you can go around it on a slippery path behind the curtain. A little further on, hidden in a crack, Gljúfrabúi can be seen by wading into the stream.",
         come: "Paid parking (700 ISK when I went); short path, often muddy.",
         quando: "Summer evening, when the sun hits the fall from the west.",
         tempo: "1 hour",
@@ -148,7 +148,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Skógafoss",
-        testo: "A waterfall 25 metres wide and 60 high, on the old sea cliff. A side staircase climbs to the top and continues toward the Fimmvörðuháls trail.",
+        testo: "A waterfall 25 metres wide and 60 high, on the old sea cliff. A side staircase of 527 steps climbs to the top, where the trail to the Fimmvörðuháls pass begins.",
         come: "Parking at the foot; the campsite next door is handy for the evening.",
         quando: "Afternoon, for the rainbow when it is sunny.",
         tempo: "45 minutes",
@@ -157,8 +157,8 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "DC-3 wreck at Sólheimasandur",
-        testo: "A US military plane that crashed in 1973 on a plain of black sand. The area is bare and windswept; in recent years you can no longer drive there.",
-        come: "Park on the Ring Road and walk 4 km each way (40-60 minutes) on flat sand. No guide needed.",
+        testo: "A US Navy plane that came down in November 1973 on a plain of black sand, with no victims. The area is bare and windswept; since 2016 the landowners have banned driving there.",
+        come: "Park on the Ring Road and walk about 3-4 km each way on flat sand. No guide needed.",
         quando: "Late in summer, when the sun grazes the horizon; at night you need a torch.",
         tempo: "2-3 hours round trip",
         consiglio: "We went at midnight in late-July light: bring water and a power bank, the route has no landmarks."
@@ -223,7 +223,7 @@ export const destinazioniIslanda: Destinazione[] = [
     luoghi: [
       {
         nome: "Dyrhólaey",
-        testo: "A headland with a lava arch in the sea and a lighthouse, with a great view of the south coast. In spring part of the area closes for bird nesting, and between May and August you can see puffins.",
+        testo: "A headland with a lava arch in the sea and a lighthouse, with a great view of the south coast. In spring part of the area closes for bird nesting, and in summer puffins nest on the cliffs. The lighthouse dates from 1927.",
         come: "By car, gravel road to drive with care up to the high parking lot.",
         quando: "Late spring and summer for puffins; at sunset for the light.",
         tempo: "1 hour",
@@ -246,12 +246,12 @@ export const destinazioniIslanda: Destinazione[] = [
         quando: "Summer, with the river low; in spring it may be closed because of mud.",
         tempo: "1 hour",
         costo: "free entry",
-        consiglio: "Stay on the path: protecting the moss was one of the reasons for past closures."
+        consiglio: "Stay on the path: in 2019 the canyon was closed because the rush of visitors after a music video was damaging the environment."
       },
       {
         nome: "Skaftafell and Svartifoss",
         testo: "In Vatnajökull National Park, trails among birches and glacier tongues. The most popular one leads to the Svartifoss waterfall, framed by basalt columns.",
-        come: "From the Skaftafell visitor centre about 1.5 km uphill, 45 minutes each way.",
+        come: "From the Skaftafell visitor centre, an uphill trail.",
         quando: "Summer, with long daylight; the trail is closed or icy in the cold months.",
         tempo: "2-3 hours",
         url: "https://www.vatnajokulsthjodgardur.is",
@@ -385,7 +385,7 @@ export const destinazioniIslanda: Destinazione[] = [
     luoghi: [
       {
         nome: "East Fjords",
-        testo: "The coastal Route 1 between Höfn and Egilsstaðir follows every fjord, with steep mountains, waterfalls and fishing villages. About 250 km: 4-5 hours with stops.",
+        testo: "The coastal Route 1 between Höfn and Egilsstaðir follows every fjord, with steep mountains, waterfalls and fishing villages. Allow a long day with stops.",
         come: "By car; there are no shortcuts and the weather changes fast.",
         quando: "Summer, for visibility; in winter the Öxi pass may close.",
         tempo: "a full day",
@@ -395,7 +395,7 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "Seyðisfjörður",
         testo: "An artists' village in a deep fjord, with colourful wooden houses, the blue church and the rainbow street. You arrive by descending a mountain pass (Fjarðarheiði) with beautiful waterfalls.",
-        come: "About 30 minutes by car from Egilsstaðir; it is also the port for the ferry from the Faroe Islands and Denmark.",
+        come: "By car from Egilsstaðir; it is also the port for the ferry from the Faroe Islands and Denmark.",
         quando: "Summer; the pass can be closed by snow from autumn to spring.",
         tempo: "half a day",
         consiglio: "Walk to the waterfalls along the road, with several stops."
@@ -403,15 +403,15 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "Vök Baths",
         testo: "Floating geothermal pools on Lake Urriðavatn, a short drive from Egilsstaðir, with a bar on the water. The first real hot bath after days of trekking and wind.",
-        come: "By car, about 10 minutes from Egilsstaðir. Better to book online at weekends.",
+        come: "By car, just outside Egilsstaðir. At weekends it is better to book online.",
         quando: "Evening, for the light and the steam on the water.",
         tempo: "2 hours",
         consiglio: "Check current prices on the official site before going."
       },
       {
         nome: "Lagarfljót and Hallormsstaður forest",
-        testo: "The largest forest in Iceland, with tall trees and trails along the long, narrow Lagarfljót lake. A real surprise in a country almost without trees.",
-        come: "About 30 minutes by car from Egilsstaðir.",
+        testo: "One of the largest forests in Iceland, 740 hectares, with tall trees and a trail along the Lagarfljót. A real surprise in a country almost without trees.",
+        come: "About 25 km from Egilsstaðir, in the Fljótsdalur valley.",
         quando: "Summer and early autumn for the colours.",
         tempo: "2 hours",
         consiglio: "Small and quiet, ideal as a break from driving."
@@ -468,7 +468,7 @@ export const destinazioniIslanda: Destinazione[] = [
     luoghi: [
       {
         nome: "Stuðlagil",
-        testo: "A canyon with basalt columns up to 30 metres high and turquoise water, known only since 2017, when a dam lowered the river. There are two accesses, one with a viewing platform and one with a trail down to the riverbed.",
+        testo: "A canyon with basalt columns and turquoise water that stayed almost unknown until 2016: the Kárahnjúkar dam, finished in 2009, cut the river's flow and exposed the walls. There are two accesses: the viewing platform on the west bank and, on the east bank, a trail of about 5 km.",
         come: "Last stretch on a gravel road from the asphalt; short, well-kept trails.",
         quando: "Summer, with the river low and full light.",
         tempo: "1-2 hours",
@@ -476,7 +476,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Dettifoss",
-        testo: "A waterfall 100 metres wide and 44 high, considered the most powerful in Europe by volume. The water is muddy and grey, and the noise carries far.",
+        testo: "A waterfall 100 metres wide and 44 high, considered among the most powerful in Europe. The water is muddy and grey, and the noise carries far.",
         come: "From Route 862 (paved) on the west side, the best view; a path of about 1 km from the parking lot.",
         quando: "Summer; in spring the flow is at its peak.",
         tempo: "1 hour",
@@ -553,7 +553,7 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Goðafoss",
-        testo: "The 'waterfall of the gods', 30 metres wide and 12 high, where in the year 1000 an Icelandic chieftain is said to have thrown the statues of the old gods after converting to Christianity.",
+        testo: "The 'waterfall of the gods', 30 metres wide and 12 high, where, according to a legend probably born in the 19th century, around the year 1000 the lawspeaker Þorgeir threw the statues of the old gods after the conversion to Christianity.",
         come: "A stop along the Ring Road, with two sides and short paths.",
         quando: "Summer evening or early morning.",
         tempo: "30-45 minutes",
@@ -579,8 +579,8 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Akureyri town",
-        testo: "The second city of Iceland, at the foot of a long fjord, with a modern church, a botanical garden near the Arctic Circle and a fine mountain view.",
-        come: "On foot from the centre; the Lystigarðurinn botanical garden is free.",
+        testo: "The largest town outside the capital region, at the end of a long fjord and about 100 km from the Arctic Circle, with Akureyrarkirkja church, the botanical garden and a fine mountain view.",
+        come: "On foot from the centre; the Lystigarðurinn botanical garden is on Spítalavegur.",
         quando: "Daytime; evening for the cafes.",
         tempo: "2-3 hours",
         consiglio: "Do your shopping here: the supermarkets are better stocked and cheaper than elsewhere in the North."
@@ -632,7 +632,7 @@ export const destinazioniIslanda: Destinazione[] = [
     luoghi: [
       {
         nome: "Kirkjufell and Kirkjufellsfoss",
-        testo: "The most photographed mountain in Iceland, 463 metres high and hat-shaped, with a waterfall at its foot. The parking lot is next to the falls and no walking is needed.",
+        testo: "Said to be the most photographed mountain in Iceland, 463 metres high and hat-shaped, with a waterfall at its foot. The parking lot is next to the falls and no walking is needed.",
         come: "By car from Route 54; a short stop.",
         quando: "Sunset, especially in summer; in winter at night for the aurora.",
         tempo: "1 hour",
@@ -657,11 +657,10 @@ export const destinazioniIslanda: Destinazione[] = [
       },
       {
         nome: "Guðrúnarlaug",
-        testo: "A natural hot pool at Laugar, in the Sælingsdalur valley, rebuilt on an old spring. It is still little visited and free.",
+        testo: "A rebuilt hot pool at Laugar, in the Sælingsdalur valley, at the spot described in the Laxdæla saga: it is named after the heroine Guðrún Ósvífursdóttir. It is still little visited.",
         come: "Just off Route 60.",
         quando: "Evening.",
         tempo: "1 hour",
-        costo: "free entry",
         consiglio: "Basic changing room: bring a towel and flip-flops."
       }
     ],
@@ -700,7 +699,7 @@ export const destinazioniIslanda: Destinazione[] = [
     luoghi: [
       {
         nome: "Hallgrímskirkja",
-        testo: "A concrete Lutheran church inspired by basalt columns, started in 1945 and finished in 1986. The 74 metre tower has a viewing deck over the city.",
+        testo: "A concrete Lutheran church inspired by basalt columns, started in 1945 and finished in 1986. The 74.5 metre tower has a viewing deck over the city, reached by lift.",
         come: "In the centre, on foot. Entry to the church and to the tower is separate.",
         quando: "Church open daily 10am-5pm in winter and 9am-8pm in summer; tower until 4:45pm in winter and 7:45pm in summer. Morning for the softest light.",
         tempo: "45 minutes",

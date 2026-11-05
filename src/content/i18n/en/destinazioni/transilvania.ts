@@ -32,11 +32,11 @@ export const destinazioniTransilvania: Destinazione[] = [
     luoghi: [
       {
         nome: "Palace of the Parliament",
-        testo: "The heaviest administrative building in the world, wanted by Ceaușescu and built in the 1980s with a quarter of the historic centre demolished. You visit only on a guided tour, among marble halls, chandeliers and giant carpets.",
+        testo: "The heaviest building in the world, wanted by Ceaușescu and built between 1984 and 1997, after about 7 km² of the old centre were demolished and 40,000 people moved. You visit only on a guided tour, among marble halls, chandeliers and giant carpets.",
         come: "Metro to Izvor; entrance from the Izvor side. Bring your passport and book ahead.",
         quando: "Weekday morning; the state rooms may be closed for events.",
         tempo: "1-1.5 hours",
-        costo: "about 12.5 euros per person (trip figure, to be rechecked)",
+        costo: "tour prices on the official website",
         consiglio: "The oversized scale tells the regime's megalomania even before you go in."
       },
       {
@@ -45,7 +45,7 @@ export const destinazioniTransilvania: Destinazione[] = [
         come: "On foot, at Piața Revoluției.",
         quando: "Morning or on a concert evening.",
         tempo: "30-45 minutes",
-        costo: "about 2 euros per person (trip figure, to be rechecked)",
+        costo: "tickets and concerts on the official website",
         consiglio: "If possible, attend a concert: the acoustics are excellent."
       },
       {
@@ -58,7 +58,7 @@ export const destinazioniTransilvania: Destinazione[] = [
       },
       {
         nome: "Caru' cu Bere",
-        testo: "The beer hall of 1879 with neo-Gothic interiors and painted ceilings, famous for traditional Romanian cooking and folk music shows.",
+        testo: "Founded as a brewery in 1879, since 1899 it has been in a Gothic Revival building with Art Nouveau interiors and painted ceilings; a listed monument serving traditional Romanian cooking.",
         come: "In the centre, Strada Stavropoleos.",
         quando: "Dinner; book.",
         tempo: "1.5-2 hours",
@@ -67,8 +67,8 @@ export const destinazioniTransilvania: Destinazione[] = [
       },
       {
         nome: "Village Museum",
-        testo: "An open-air museum on Lake Herăstrău, with peasant houses from all regions of Romania, rebuilt in the park. You understand rural architecture well.",
-        come: "Metro to Aviatorilor, 10 minutes on foot.",
+        testo: "An open-air museum opened in 1936, with over 300 peasant buildings from the 17th to the 20th century brought from every region of Romania. You understand rural architecture well.",
+        come: "In King Michael I Park (formerly Herăstrău), north of the centre, by metro or bus.",
         quando: "Morning; the park is pleasant.",
         tempo: "1.5-2 hours",
         url: "https://www.muzeul-satului.ro",
@@ -77,10 +77,10 @@ export const destinazioniTransilvania: Destinazione[] = [
       {
         nome: "Bucharest Thermal Baths (Therme)",
         testo: "The large thermal and water park at the edge of the city, with pools, saunas and slides. Handy for resting on the last day.",
-        come: "By taxi or shuttle from Bucharest (about 20 minutes).",
+        come: "By taxi or shuttle from Bucharest: directions on the official website.",
         quando: "All day, especially the last day.",
         tempo: "full day",
-        costo: "about 35 euros for the full day (trip figure, to be rechecked)",
+        costo: "prices on the official website",
         url: "https://therme.ro",
         consiglio: "Book online to skip the queue."
       }
@@ -104,7 +104,7 @@ export const destinazioniTransilvania: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Taxis: use Bolt or Uber or official taxis; from the airport with Cobălcescu or Cris Taxi the fare does not exceed 60 LEI.",
+      "Taxis: use Bolt, Uber or official taxis with posted rates.",
       "To drive in Romania you need the road vignette (rovinieta), bought online on the official site.",
       "Pickpockets at Gara de Nord and on the metro.",
       "The Palace of the Parliament requires a passport: bring it."
@@ -139,20 +139,20 @@ export const destinazioniTransilvania: Destinazione[] = [
     comeArrivare: 'About 2h by car from Bucharest to Sinaia, then about 1h from Sinaia to Bran.',
     comeSpostarsi: 'Rental car.',
     periodoMigliore: 'morning, to avoid the crowds at the castles',
-    costi: "Peleș about €20 per person (first and second floor); at Bran tickets are bought online and the official 30-40 minute guide is paid in cash on site.",
+    costi: "Tickets and prices for Peleș and Bran on the official websites.",
     erroriDaEvitare: ["Trusting the prices of the stalls and restaurants around Bran Castle: they are tourist traps"],
     miaEsperienza:
       "In terms of architecture Peleș is perhaps the most beautiful castle of the trip, with interiors cared for down to the details in a way Bran, as fascinating as it is, is not. Bran's link with Dracula is more a tourist invention than a historical fact, but the castle is worth the visit on its own.",
     luoghi: [
       {
         nome: "Peleș Castle",
-        testo: "The summer residence of Carol I, king of Romania, built between 1873 and 1914 in German neo-Renaissance style, with more than 160 rooms. For architecture it is perhaps the most beautiful castle of the trip, with interiors cared for in the smallest details.",
-        come: "Train or car from Bucharest to Sinaia (about 2 hours); from the centre of Sinaia 15 minutes on foot.",
-        quando: "Early morning, to avoid the crush; check closing days on the website.",
+        testo: "The summer residence of Carol I, king of Romania, built between 1873 and 1914 in German neo-Renaissance style, with over 170 rooms. For architecture it is perhaps the most beautiful castle of the trip, with interiors cared for in the smallest details.",
+        come: "Train or car from Bucharest to Sinaia; from the centre of Sinaia walk up.",
+        quando: "Early morning, to avoid the crush. Closed from 2 November to 1 December 2026 for cleaning and conservation; weekly closing days on the website.",
         tempo: "1.5 hours",
-        costo: "about 20 euros per person for first and second floor (trip figure, to be rechecked)",
+        costo: "tickets on the official website",
         url: "https://peles.ro",
-        consiglio: "Visit first and second floors: the price difference is worth it."
+        consiglio: "If the upper-floor visit is available, it is worth the extra ticket."
       },
       {
         nome: "Sinaia Monastery",
@@ -165,17 +165,17 @@ export const destinazioniTransilvania: Destinazione[] = [
       },
       {
         nome: "Bran Castle",
-        testo: "The fourteenth-century medieval fortress on the rock, famous for its link with Dracula. In fact the link is more a tourist invention than a historical fact, but the castle is worth the visit on its own.",
-        come: "From the centre of Brașov, about half an hour by car. Tickets are bought online.",
-        quando: "Early morning; on Monday it opens later.",
+        testo: "The fortress on the rock, documented since 1377, famous for its link with Dracula. In fact the link is more a tourist invention than a historical fact, but the castle is worth the visit on its own.",
+        come: "About 25 km south-west of Brașov, by car. Tickets on the official website.",
+        quando: "Early morning; hours on the official website.",
         tempo: "1-1.5 hours",
         url: "https://www.bran-castle.com",
-        consiglio: "The official 30-40 minute guide is paid in cash on site."
+        consiglio: "Vlad the Impaler never lived here: the Dracula link was born for tourism."
       },
       {
         nome: "Cantacuzino Castle at Bușteni",
         testo: "A neo-Brâncovenesc castle of 1911 at the foot of the Bucegi. An optional photo stop on the road.",
-        come: "By car or train, about 10 minutes from Sinaia.",
+        come: "By car or train, in Bușteni, just past Sinaia.",
         quando: "Daytime.",
         tempo: "30 minutes",
         consiglio: "Only for those with time."
@@ -189,7 +189,7 @@ export const destinazioniTransilvania: Destinazione[] = [
     ],
     attenzioni: [
       "Early morning: the castles fill with groups after 10:00.",
-      "Tickets for Bran are bought online and the guide is paid in cash on site.",
+      "For Bran and Peleș check tickets and closures on the official websites.",
       "Check closing days: Peleș is closed at least one day a week."
     ],
     esperienzeSlugs: ['castello-peles', 'castello-bran'],
@@ -236,7 +236,7 @@ export const destinazioniTransilvania: Destinazione[] = [
       },
       {
         nome: "Black Church (Biserica Neagră)",
-        testo: "The largest Gothic church in Romania, built between 1383 and 1477, blackened by the fire of 1689. It has a large organ and a collection of Anatolian carpets.",
+        testo: "The largest Gothic place of worship in south-eastern Europe, built between 1383 and 1477 and blackened by the fire of 1689. It has an 1839 Buchholz organ with about 4,000 pipes and one of the richest collections of oriental carpets in Europe.",
         come: "On foot from Piața Sfatului.",
         quando: "Morning.",
         tempo: "45 minutes",
@@ -245,7 +245,7 @@ export const destinazioniTransilvania: Destinazione[] = [
       {
         nome: "Mount Tâmpa and the BRAȘOV sign",
         testo: "The hill above the centre with the Hollywood-style sign and a cable car. From the top you see the whole city.",
-        come: "Cable car or a footpath of about 30 minutes.",
+        come: "Cable car or footpath.",
         quando: "Late afternoon.",
         tempo: "1.5-2 hours",
         consiglio: "The walk up is easy but steep in places."
@@ -253,7 +253,7 @@ export const destinazioniTransilvania: Destinazione[] = [
       {
         nome: "Rope Street (Strada Sforii)",
         testo: "An alley just over a metre wide, considered among the narrowest in Europe, connecting two streets. A quick curiosity in the centre.",
-        come: "On foot, behind Strada Mureșenilor.",
+        come: "On foot, near the Șchei Gate; 111 to 135 centimetres wide.",
         quando: "Daytime.",
         tempo: "10 minutes",
         costo: "free entry",
@@ -262,10 +262,10 @@ export const destinazioniTransilvania: Destinazione[] = [
       {
         nome: "Râșnov Fortress",
         testo: "A fortified peasant citadel, with the 'RASNOV' Hollywood-style sign visible from the fortress. The atmosphere is more Lord of the Rings than Dracula, and it is among the least touristy gems of the trip.",
-        come: "About 15 km from Brașov; go up by cable car or on foot.",
+        come: "Just outside Brașov, in the town of Râșnov; go up on foot or with whatever transport runs on site.",
         quando: "Late afternoon, for the light on the fortress.",
         tempo: "1.5-2 hours",
-        consiglio: "Go up by cable car and down on foot, or vice versa."
+        consiglio: "A peasant citadel: it sheltered the townspeople in wartime."
       }
     ],
     sapori: [
@@ -335,29 +335,29 @@ export const destinazioniTransilvania: Destinazione[] = [
       },
       {
         nome: "Dracula's birthplace and Covered Stairway",
-        testo: "The house where Vlad Țepeș is said to have been born (today a restaurant) and the long wooden staircase of 1642 that climbs to the church on the hill. A short stop among the coloured houses.",
+        testo: "The house where Vlad Țepeș is said to have been born (today a restaurant) and the long covered wooden staircase that climbs to the church on the hill. A short stop among the coloured houses.",
         come: "On foot in the citadel.",
         quando: "Morning.",
         tempo: "1 hour",
-        costo: "birthplace 5 LEI (trip figure, to be rechecked)",
+        costo: "ticket on site",
         consiglio: "The Vlad Dracul restaurant serves local cooking."
       },
       {
         nome: "Viscri and the Fortified Church",
         testo: "A Saxon village with a fortified church, a UNESCO site, among the best preserved in Transylvania. An optional visit along the route.",
-        come: "About 1h20 by car from Brașov.",
+        come: "By car from Brașov, towards Sighișoara.",
         quando: "Morning.",
         tempo: "1-1.5 hours",
-        costo: "12 LEI per person (trip figure, to be rechecked)",
+        costo: "ticket on site",
         consiglio: "An optional but very authentic stop."
       },
       {
         nome: "Salina Turda",
-        testo: "A salt mine that is today an underground park, with a navigable lake, table football, ping pong and a Ferris wheel. It was one of the best surprises of the trip.",
-        come: "By car, about 2 hours from Sighișoara. Entry with ticket; the guide is paid in cash.",
+        testo: "A salt mine that is today an underground park, with an underground lake up to 8 metres deep, a panoramic lift, the echo chamber and an 1881 winch still in place. It was one of the best surprises of the trip.",
+        come: "By car from Sighișoara. Tickets at the entrance or online.",
         quando: "Morning; big groups at weekends.",
         tempo: "2 hours",
-        costo: "10 euros on weekdays, 12 at weekends; guide 100 LEI in cash (trip figures, to be rechecked)",
+        costo: "prices on the official website",
         url: "https://salinaturda.eu",
         consiglio: "Dress in layers: inside the temperature is low all year."
       }
@@ -374,7 +374,7 @@ export const destinazioniTransilvania: Destinazione[] = [
     ],
     attenzioni: [
       "It is the longest day at the wheel: leave early.",
-      "Tickets for Salina Turda are bought at the entrance; the guide is paid in cash.",
+      "Tickets for Salina Turda are bought at the entrance or online.",
       "Park outside the Sighișoara citadel."
     ],
     esperienzeSlugs: ['salina-turda'],
@@ -434,15 +434,15 @@ export const destinazioniTransilvania: Destinazione[] = [
       },
       {
         nome: "Transfăgărășan road",
-        testo: "The mountain road built in the 1970s by Ceaușescu: hairpin bends that climb to Lake Bâlea, among the best roads I have ever driven. Closed in winter.",
-        come: "By car, from Sibiu or Curtea de Argeș. Open roughly from 20 June to 31 October.",
+        testo: "The mountain road built between 1970 and 1974 under Ceaușescu: hairpin bends that climb to Lake Bâlea, among the best roads I have ever driven. Closed in winter.",
+        come: "By car, from Sibiu or Curtea de Argeș. Usually open from late June to late October, depending on snow: status shown on signs at Curtea de Argeș and Cârțișoara.",
         quando: "Summer and early autumn; returning to Bucharest on the same day is very long.",
         tempo: "full day",
         consiglio: "Leave early: the long return to Bucharest the same day takes its toll."
       },
       {
         nome: "Lake Bâlea",
-        testo: "The glacial lake at 2,034 metres on the Transfăgărășan, with a restaurant and a hut. You arrive by road or by cable car in some seasons.",
+        testo: "The mountain lake at 2,034 metres on the Transfăgărășan, with two chalets open all year. In summer you arrive by car, the rest of the year by cable car from Bâlea Cascadă.",
         come: "By car along the road.",
         quando: "Summer, in clear weather.",
         tempo: "1 hour",
@@ -469,7 +469,7 @@ export const destinazioniTransilvania: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "The Transfăgărășan is closed from November to June because of snow: check the status before leaving.",
+      "The Transfăgărășan is usually closed from late October to late June because of snow: check the status before leaving.",
       "Book a table at the Crama, it has few tables.",
       "Drive carefully: tight bends and truck and motorbike traffic."
     ],
