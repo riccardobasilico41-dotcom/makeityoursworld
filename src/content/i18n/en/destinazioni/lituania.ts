@@ -74,35 +74,35 @@ export const destinazioniLituania: Destinazione[] = [
     luoghi: [
       {
         nome: "Vilnius Cathedral and Cathedral Square",
-        testo: "A neoclassical cathedral with the separate bell tower and the royal crypts of the grand dukes of Lithuania. The square is the city's meeting place, at the foot of Gediminas Hill.",
+        testo: "A cathedral with a neoclassical look, from Laurynas Gucevičius's late-18th-century rebuilding, with a 57-metre freestanding bell tower that grew from a Lower Castle tower. Grand dukes and queens rest in the crypts and the royal mausoleum. The square is the city's meeting place, at the foot of Gediminas Hill.",
         come: "On foot from the Old Town (10 minutes).",
         quando: "Morning, for the light and fewer crowds.",
         tempo: "45 minutes",
         costo: "free entry",
-        consiglio: "Stop at the 'Stebuklas' stone, where locals make a wish."
+        consiglio: "Inside, don't miss the baroque Chapel of St Casimir."
       },
       {
         nome: "Gediminas Hill and Tower",
-        testo: "The symbol of the city, with the remains of the Upper Castle and the tower that houses the museum. You climb on foot or by funicular; from the top you see the Old Town.",
-        come: "On foot from Cathedral Square; funicular is paid.",
+        testo: "The symbol of the city: the tower, rebuilt in 1933, is what remains of the Upper Castle and holds finds from the hill and models of Vilnius's castles. You go up on foot or by the inclined lift; from the platform you see the Old Town.",
+        come: "On foot from Cathedral Square, or by the hill lift.",
         quando: "Late afternoon, for the light on the red roofs of the Old Town.",
         tempo: "1.5 hours",
-        costo: "tower about 8 euros, funicular 2-3 euros (site figure, to be rechecked)",
+        costo: "tower and lift tickets on the National Museum website",
         url: "https://www.lnm.lt",
-        consiglio: "Climb on foot and descend by funicular if you want to save."
+        consiglio: "Walk up and, if needed, come down by the lift."
       },
       {
         nome: "Gate of Dawn",
-        testo: "The only gate left of the medieval walls, with the chapel housing the icon of Our Lady of the Gate of Dawn, a pilgrimage site. Passing under it you can hear mass from outside.",
+        testo: "The only part of the walls left intact after their demolition in 1799-1805, with the chapel housing the icon of the Mother of Mercy, held to be miraculous: one of the main Catholic pilgrimage sites in Lithuania.",
         come: "On foot, 10 minutes from Town Hall Square.",
         quando: "Morning.",
         tempo: "30 minutes",
         costo: "free entry",
-        consiglio: "Take off your hat under the gate, as the faithful do."
+        consiglio: "It is a place of prayer: enter the chapel quietly."
       },
       {
         nome: "Užupis",
-        testo: "The bohemian district across the stream, which proclaimed itself a republic on 1 April 1997. On the wall of Paupio street are the plaques with the 41 articles of its 'constitution', translated into dozens of languages.",
+        testo: "The bohemian district across the stream, which proclaimed itself a republic on 1 April 1997. On the wall of Paupio street are the plaques with the articles of its 'constitution', in more than twenty languages.",
         come: "On foot from the Old Town, across the bridge.",
         quando: "Daytime; 1 April is the independence festival.",
         tempo: "1-2 hours",
@@ -120,12 +120,12 @@ export const destinazioniLituania: Destinazione[] = [
       },
       {
         nome: "Vilnius University",
-        testo: "Founded in 1579, it has thirteen linked courtyards, the baroque St John's church and a historic library. You visit on your own, with a ticket.",
+        testo: "Founded in 1579, it has about thirteen linked courtyards, the baroque St John's church and a historic library. Hours and tickets on the university website.",
         come: "On foot, on Pilies gatvė.",
         quando: "Weekday morning.",
         tempo: "1 hour",
         url: "https://www.vu.lt",
-        consiglio: "Climb the bell tower of St John's for the view over the Old Town."
+        consiglio: "In the Grand Courtyard stands the bell tower of St John's, the tallest in Vilnius."
       },
       {
         nome: "Palace of the Grand Dukes and Museum of Occupations",
@@ -200,9 +200,9 @@ export const destinazioniLituania: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Taxis: use Bolt, which is widespread and cheap.",
-      "Alcohol: sale in shops is limited to certain hours and cannot be bought in the evening.",
-      "Pickpockets near the station and in markets.",
+      "Taxis: use a recognised app or a registered taxi with the meter on.",
+      "Alcohol: shops sell it only at certain hours, so don't count on buying it late in the evening.",
+      "Pickpockets in busy places and on public transport; in bars do not leave drinks unattended.",
       "In winter pavements are icy: suitable shoes."
     ],
     esperienzeSlugs: ['uzupis-repubblica-passeggiata'],
@@ -249,16 +249,16 @@ export const destinazioniLituania: Destinazione[] = [
     luoghi: [
       {
         nome: "Trakai Island Castle",
-        testo: "A red-brick Gothic castle on an island in Lake Galvė, built in the 14th-15th century by the grand dukes Kęstutis and Vytautas and rebuilt in the twentieth century. It houses the Trakai History Museum.",
+        testo: "A red-brick Gothic castle on an island in Lake Galvė, begun in the 14th century by Grand Duke Kęstutis and completed around 1409 by his son Vytautas, who died there in 1430. Rebuilt in 15th-century style between 1951 and 1961, it houses the Trakai History Museum.",
         come: "From the town, pedestrian wooden bridge from the shore.",
         quando: "Weekday morning; October-March fewer crowds.",
         tempo: "2-3 hours",
-        costo: "12 euros in low season, 14 in high; free on the last Sunday of the month (site figures, to be rechecked)",
-        consiglio: "Climb the main tower for the view of the lake."
+        costo: "tickets and prices on the Trakai History Museum website",
+        consiglio: "Go into the museum rooms: they tell the story of the Grand Duchy."
       },
       {
         nome: "Karaite quarter",
-        testo: "The district of the Karaite minority, with three-window wooden houses on Karaimų gatvė (one for the street, one for the courtyard, one for God) and the kenesa, the temple. Here you eat kibinai.",
+        testo: "The district of the Karaite minority, with the typical three-window wooden houses and the kenesa, a rare wooden temple with an interior dome. Here you eat kibinai.",
         come: "On foot from the centre, along the street.",
         quando: "Lunch.",
         tempo: "1 hour",
@@ -266,7 +266,7 @@ export const destinazioniLituania: Destinazione[] = [
       },
       {
         nome: "Lake Galvė",
-        testo: "The largest of the lakes around Trakai, with shores equipped for walking and for renting boats and canoes. From the water you see the castle in a classic frame.",
+        testo: "The deepest lake in the area, with 21 islands, with shores equipped for walking and for renting boats and canoes. From the water you see the castle in a classic frame.",
         come: "On foot from the town; rental on the lakefront.",
         quando: "Summer, morning or late afternoon.",
         tempo: "1-2 hours",
@@ -284,7 +284,7 @@ export const destinazioniLituania: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Trakai is a half-day trip from Vilnius: trains and buses leave from the station and take about 30-40 minutes.",
+      "Trakai, 28 km from Vilnius, is a half-day trip: trains and buses leave from the station.",
       "In summer parking and lakeside restaurants fill up at weekends.",
       "Restaurants facing the castle are pricier than those in the Karaite quarter."
     ],

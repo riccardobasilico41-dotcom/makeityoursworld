@@ -45,19 +45,19 @@ export const destinazioniEgitto: Destinazione[] = [
     luoghi: [
       {
         "nome": "Grand Egyptian Museum (GEM)",
-        "testo": "The new museum near the pyramids, with the monumental staircase and the galleries of Tutankhamun, whose objects are gathered for the first time in one place. It is the museum to see first.",
-        "come": "In Giza, 30-60 minutes from the center by Uber or taxi. Tickets are sold only online, on the official site, with a date and time slot.",
-        "quando": "Galleries open 9am-6pm; Wednesday and Saturday until 9pm (2026). Best at opening.",
+        "testo": "The new museum near the pyramids, with the monumental staircase and the galleries devoted to Tutankhamun. It is the museum to see first.",
+        "come": "It is in Giza, reachable from the centre by Uber or taxi. Tickets have a date and entry time; the only official online sales site is tickets.gem.eg, but there are also ticket desks on site.",
+        "quando": "Galleries open 9am-6pm; Wednesday and Saturday until 9pm; last entry one hour before the galleries close (2026). Best at opening time.",
         "tempo": "3-4 hours",
         "url": "https://tickets.gem.eg/",
-        "consiglio": "Book the time slot before leaving and combine it with the pyramids, a few kilometers away.",
+        "consiglio": "Book your entry time before leaving, only on the official website, and pair it with the pyramids, a few kilometres away.",
         "costo": "Prices for foreigners rose on 1 November 2026: check them on the official site when booking."
       },
       {
         "nome": "Egyptian Museum in Tahrir Square",
-        "testo": "The historic 1902 museum, with thousands of pieces in crowded rooms and an old-fashioned feel. It is still full of extraordinary objects even after Tutankhamun's pieces moved.",
+        "testo": "The historic museum opened in 1902, with thousands of pieces in crowded, rather old-fashioned rooms. It is still full of extraordinary objects even after the Tutankhamun pieces moved out.",
         "come": "Metro to Sadat, then on foot from the square. Audio guide or guide on site.",
-        "quando": "Open daily 9am-5pm, ticket office until 4pm. Best early in the morning, before the groups.",
+        "quando": "Open daily 9am-5pm, ticket office until 4pm; during Ramadan 9am-4pm (2026). Best early in the morning, before the groups.",
         "tempo": "2 hours",
         "url": "https://egymonuments.gov.eg/en/museums/egyptian-museum/",
         "consiglio": "Choose a few rooms and see them well, rather than rushing through the whole museum.",
@@ -65,17 +65,17 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Saladin's Citadel and the Muhammad Ali Mosque",
-        "testo": "The 12th-century fortress on the hill above the city, with the Ottoman-style mosque and alabaster domes. From the edge the view reaches the pyramids on clear days.",
+        "testo": "The fortress ordered by Saladin in 1176 and completed in 1207, on the hill above the city, with the Ottoman-style Mosque of Muhammad Ali. From the edge, on clear days, the view reaches the pyramids.",
         "come": "Taxi or Uber to the entrance. You walk inside the citadel, in comfortable shoes.",
-        "quando": "Open daily 8am-5pm. The afternoon has the best light and a less hazy sky.",
+        "quando": "Open daily 8am-5pm (2026). The afternoon has the best light.",
         "tempo": "2 hours",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/cairo-citadel/",
         "costo": "EGP 550 for foreign adults, 275 for students (2026)"
       },
       {
         "nome": "Islamic Cairo and al-Muizz Street",
-        "testo": "The pedestrian street with monuments of the 12th-18th centuries: mosques, madrasas, gates and mausoleums. An open-air museum, alive at night when the facades are lit.",
-        "come": "Reached from the Khan el-Khalili area. You walk from north to south in about 1-2 hours.",
+        "testo": "The pedestrian street with monuments from the Fatimid to the Ottoman era: mosques, madrasas, gates and mausoleums. An open-air museum, lively in the evening when the façades are lit.",
+        "come": "You reach it from the Khan el-Khalili area. You walk it from north to south.",
         "quando": "From late afternoon into the evening.",
         "tempo": "2-3 hours",
         "consiglio": "Climbing a minaret, where allowed, gives the best view of the old city."
@@ -84,9 +84,9 @@ export const destinazioniEgitto: Destinazione[] = [
         "nome": "Khan el-Khalili",
         "testo": "Cairo's great bazaar, with alleys of silver, lamps, spices, textiles. It is touristy, but in the evening it also fills with Cairenes.",
         "come": "Taxi to the entrance, then on foot. The El Fishawy cafe is the classic resting point.",
-        "quando": "Evening, after 18.",
+        "quando": "Evening.",
         "tempo": "2 hours",
-        "consiglio": "Always haggle, starting from about a third of the stated price."
+        "consiglio": "Always haggle, starting well below the first price."
       }
     ],
     programmi: [
@@ -145,8 +145,9 @@ export const destinazioniEgitto: Destinazione[] = [
     attenzioni: [
       "The free guide who offers himself on the street, or a brother's papyrus or perfume shop, is a lure to take you into a store: decline calmly.",
       "Taxis without a meter: agree the price or use Uber and Careem.",
-      "In bazaars the stated price is double or more: haggle and do not buy anything under pressure.",
-      "Traffic is heavy: allow much more time than planned between stops."
+      "In the bazaars the first price is high: haggle and do not buy anything under pressure.",
+      "Traffic is heavy: allow much more time than planned between stops.",
+      "Regional tensions: the UK government (October 2026) warns of escalation risk, possible flight cancellations and sudden closure of the Taba crossing; it advises against travel to North Sinai and along the Libyan border. Check your government's travel advice before leaving."
     ],
     // GUIDA-END
     esperienzeSlugs: [],
@@ -193,33 +194,33 @@ export const destinazioniEgitto: Destinazione[] = [
     luoghi: [
       {
         "nome": "Giza Pyramids and the Sphinx",
-        "testo": "The Great Pyramid of Khufu, those of Khafre and Menkaure and the Sphinx: Egypt's most famous group, on the plateau southwest of Cairo. You can enter the Great Pyramid with a separate ticket.",
-        "come": "From Giza or Cairo by Uber or with a driver; you get around on foot, by electric shuttle or on horseback.",
-        "quando": "Open daily 8am-4pm. At opening the light is better and there are fewer groups.",
+        "testo": "The Great Pyramid of Khufu, those of Khafre and Menkaure and the Sphinx: Egypt's most famous group, on the plateau south-west of Cairo. The pyramid interiors need separate tickets.",
+        "come": "From Giza or Cairo by Uber or with a driver; you get around on foot, by shuttle or on horseback.",
+        "quando": "Open daily 8am-4pm (2026). At opening time the light is better and there are fewer groups.",
         "tempo": "3-4 hours",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/giza-plateau/",
         "consiglio": "The panoramic point behind Menkaure shows the three pyramids together, with no crowd.",
-        "costo": "EGP 700 for foreign adults, 350 for students (2026). The pyramid interiors are extra: the Great Pyramid costs EGP 1,500 since 2025."
+        "costo": "EGP 700 for foreign adults, 350 for students (2026). Great Pyramid, Khafre and Menkaure pyramids, tomb of Meresankh III and Workers' Cemetery extra: prices at the ticket office."
       },
       {
         "nome": "Saqqara",
-        "testo": "The step pyramid of Djoser, the oldest large stone building, and the painted mastabas of Ti and Mereruka with very fine reliefs.",
+        "testo": "The Step Pyramid of Djoser, considered the earliest large-scale cut-stone building, and the painted mastabas of Ti and Mereruka with very fine reliefs.",
         "come": "By car with a driver, 45-60 minutes from Giza.",
-        "quando": "Open daily 8am-4pm. Best in the morning.",
+        "quando": "Open daily 8am-4pm (2026). Best in the morning.",
         "tempo": "2-3 hours",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/saqqara/",
         "consiglio": "The painted tombs are worth more than the pyramid itself and have very few people.",
-        "costo": "EGP 600 for the site for foreign adults; combined ticket with the nobles' tombs, Mereruka and the Imhotep Museum EGP 1,400 (2026)"
+        "costo": "EGP 600 for the area for foreign adults; inclusive ticket with the Imhotep Museum, Nobles' and New Kingdom tombs, Mereruka and Mehu EGP 1,400 (2026)"
       },
       {
         "nome": "Dahshur",
-        "testo": "The Red Pyramid and the Bent Pyramid of Sneferu: the first attempts at a true smooth pyramid. Few people, and you can go down into the Red Pyramid.",
+        "testo": "The Red Pyramid and the Bent Pyramid, both Sneferu's: the attempts that led to the true smooth-sided pyramid. Very few people.",
         "come": "By car with a driver, near Saqqara.",
-        "quando": "Open daily 8am-5pm. Best in the morning, when it is cooler.",
+        "quando": "Open daily 8am-5pm (2026). Best in the morning, when it is cooler.",
         "tempo": "1-2 hours",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/dahshur/",
         "consiglio": "A great addition to Saqqara for those with a full day and a driver.",
-        "costo": "EGP 200 for foreign adults (2026)"
+        "costo": "EGP 200 for foreign adults, 100 for students (2026)"
       }
     ],
     programmi: [
@@ -249,7 +250,7 @@ export const destinazioniEgitto: Destinazione[] = [
       {
         "nome": "Cairo",
         "perChi": "those who want other districts within reach",
-        "testo": "The day is done by Uber or with a driver: more choice of places, but 30-60 minutes on the road."
+        "testo": "You do the day by Uber or with a driver: more choice of places, but a long drive in traffic."
       }
     ],
     sapori: [
@@ -326,9 +327,9 @@ export const destinazioniEgitto: Destinazione[] = [
     luoghi: [
       {
         "nome": "Karnak Temple",
-        "testo": "The largest religious complex of ancient Egypt, built over more than 1,500 years. The hypostyle hall has 134 columns up to 21 meters high, covered in hieroglyphs.",
+        "testo": "One of the largest religious complexes of ancient Egypt, built over almost two thousand years by some thirty pharaohs. The hypostyle hall has 134 columns: the twelve central ones are 21 metres high.",
         "come": "From the city by taxi or carriage. You walk in the site, along the avenue of sphinxes from Luxor temple if you want the full route.",
-        "quando": "Open daily 6am-5pm. Arrive at opening: in summer it is the only bearable time.",
+        "quando": "Open daily 6am-5pm (2026). Arrive at opening: in summer it is the only bearable time.",
         "tempo": "2-3 hours",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/karnak/",
         "consiglio": "Return in the evening for the sound and light show, if scheduled.",
@@ -336,29 +337,31 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Luxor Temple",
-        "testo": "A smaller temple in the middle of the city, with statues of Ramses II and an obelisk. In the evening, lit up, it is beautiful.",
+        "testo": "A smaller temple in the middle of the city, with colossal statues of Ramesses II and one of a pair of 25-metre obelisks: the other has stood in Paris, on the Place de la Concorde, since 1836. Lit up in the evening, it is beautiful.",
         "come": "On foot from the riverfront on the east bank.",
-        "quando": "Sunset and evening.",
+        "quando": "Open daily 6am-8pm (2026). Sunset and evening.",
         "tempo": "1 hour",
-        "costo": "EGP 500 for foreign adults (2026)"
+        "costo": "EGP 500 for foreign adults, 250 for students (2026)",
+        "url": "https://egymonuments.gov.eg/en/monuments/luxor-temple/"
       },
       {
         "nome": "Valley of the Kings",
-        "testo": "The tombs of the New Kingdom pharaohs cut into the rock, with painted walls still colorful. The basic ticket gives access to three tombs, while Tutankhamun and others are paid separately.",
+        "testo": "More than sixty rock-cut tombs, most of them of New Kingdom pharaohs, with painted walls still bright. The basic ticket covers a limited number of tombs; Tutankhamun and others cost extra.",
         "come": "On the west bank, by taxi or on a tour. You visit on foot, tomb by tomb.",
-        "quando": "Open daily 6am-5pm. Arrive at opening: at midday it is very hot, already in spring.",
+        "quando": "Open daily 6am-5pm (2026). Arrive at opening: at midday it is very hot, even in spring.",
         "tempo": "2-3 hours",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/valley-of-the-kings/",
-        "consiglio": "Choose tombs with well-preserved decoration, like Ramses IV or Merenptah, and not only the most famous.",
-        "costo": "EGP 750 for foreign adults, 375 for students, with three tombs; Tutankhamun and other tombs extra (2026)"
+        "consiglio": "Ask at the ticket office which tombs are open that day and choose those with the best-preserved decoration, not just the most famous one.",
+        "costo": "EGP 750 for foreign adults, 375 for students; Tutankhamun and other tombs extra (2026)"
       },
       {
         "nome": "Temple of Hatshepsut",
         "testo": "The mortuary temple of the queen-pharaoh at Deir el-Bahari, in terraces under the rock wall. The architecture looks very modern.",
-        "come": "On the west bank, next to the Valley of the Kings, with a shuttle from the parking lot.",
-        "quando": "Early morning.",
+        "come": "On the west bank, near the Valley of the Kings.",
+        "quando": "Open daily 6am-5pm (2026). Early morning.",
         "tempo": "1 hour",
-        "costo": "EGP 440 for foreign adults (2026)"
+        "costo": "EGP 440 for foreign adults, 220 for students (2026)",
+        "url": "https://egymonuments.gov.eg/en/monuments/hatshepsut-temple/"
       },
       {
         "nome": "Medinet Habu and the Colossi of Memnon",
@@ -367,7 +370,7 @@ export const destinazioniEgitto: Destinazione[] = [
         "quando": "Mid-morning or late afternoon.",
         "tempo": "1-1.5 hours",
         "consiglio": "Medinet Habu is the most underrated temple in Luxor.",
-        "costo": "Medinet Habu EGP 220 for foreign adults (2026); the Colossi are seen from the road"
+        "costo": "Medinet Habu: price at the ticket office; the Colossi are seen from the road"
       }
     ],
     programmi: [
@@ -422,7 +425,7 @@ export const destinazioniEgitto: Destinazione[] = [
       "Photo rules in the tombs change often: ask at the ticket office, never use flash. Guards who open a closed corner or pose you then ask for a tip.",
       "Balloons: pick the company and not the lowest price, and leave margin because flights are canceled in wind.",
       "Carriages and sellers on the riverfront start from high figures: haggle and decide beforehand.",
-      "In summer visits must be done from dawn to 11: after that, 40 degrees and more."
+      "In summer visit from dawn to late morning: after that the heat is extreme."
     ],
     // GUIDA-END
     esperienzeSlugs: [],
@@ -470,22 +473,22 @@ export const destinazioniEgitto: Destinazione[] = [
     luoghi: [
       {
         "nome": "Abu Simbel",
-        "testo": "The two temples of Ramses II and Nefertari carved in the rock, with colossal statues at the entrance. They were moved in the 1960s to save them from Lake Nasser. On 22 February and 22 October the sun reaches the sanctuary.",
-        "come": "280 km from Aswan: a road of about 3.5 hours in convoy leaving before dawn, or a 45-minute flight.",
-        "quando": "Open daily 6am-5pm. Arrive at opening, before the tour buses.",
+        "testo": "The two rock-cut temples of Ramesses II and Nefertari, with colossal statues at the entrance. Between 1963 and 1968 they were cut into blocks and moved to save them from Lake Nasser. On 22 February and 22 October the sun reaches the sanctuary.",
+        "come": "From Aswan about 300 km by road, leaving before dawn, or by plane.",
+        "quando": "Open daily 6am-5pm (2026). Arrive at opening, before the tour buses.",
         "tempo": "1.5-2 hours on site",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/abu-simbel/",
         "consiglio": "If you can, sleep at Abu Simbel for the sound and light show and the dawn.",
-        "costo": "EGP 750 for foreign adults, 375 for students; EGP 1,200 on 22 February and 22 October (2026)"
+        "costo": "EGP 750 for foreign adults, 375 for students; EGP 1,200 (students 600) on 22 February and 22 October (2026)"
       },
       {
         "nome": "Philae Temple",
         "testo": "The sanctuary of Isis on an island, also moved after the dam. You arrive by boat from the Shellal pier and it is very photogenic.",
         "come": "Taxi to the pier, then a motorboat, with the price to be agreed.",
-        "quando": "Open daily 7am-4pm. Early morning or early afternoon for the light.",
+        "quando": "Open daily 7am-4pm (2026). Early morning for the light.",
         "tempo": "1.5 hours",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/philae/",
-        "costo": "EGP 550 for foreign adults, plus the boat from the jetty, to be agreed (2026)"
+        "costo": "EGP 550 for foreign adults, 275 for students, plus the boat from the jetty, to be agreed (2026)"
       },
       {
         "nome": "Nubian village of Gharb Soheil",
@@ -522,7 +525,7 @@ export const destinazioniEgitto: Destinazione[] = [
       {
         "nome": "Abu Simbel",
         "perChi": "those who want dawn at the temples",
-        "testo": "Few hotels and a single village: useful to avoid the 3 a.m. wake-up."
+        "testo": "Few hotels and a single village: useful to avoid the night-time alarm."
       }
     ],
     sapori: [
@@ -532,7 +535,7 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Karkade",
-        "testo": "Hibiscus infusion, an Aswan specialty."
+        "testo": "Hibiscus infusion, very common in Aswan."
       },
       {
         "nome": "Ful and taameya",
@@ -544,9 +547,9 @@ export const destinazioniEgitto: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Abu Simbel as a summer day trip means a 3-4 a.m. wake-up and about seven hours on the road: factor it in.",
+      "Abu Simbel as a day trip means getting up in the middle of the night and many hours on the road: factor it in.",
       "Price of the felucca and the boat to Philae: agree beforehand, per boat or per person.",
-      "In summer Aswan is the hottest place in the country: visit at dawn.",
+      "In summer Aswan is among the hottest places in the country: visit at dawn.",
       "Very insistent sellers on the riverfront: a firm no is enough."
     ],
     // GUIDA-END
@@ -595,21 +598,21 @@ export const destinazioniEgitto: Destinazione[] = [
     luoghi: [
       {
         "nome": "Shali Fortress",
-        "testo": "The old citadel in kershef, a mix of mud and salt, now largely in ruins after the 1926 rains. From the top you see the whole oasis.",
+        "testo": "The old citadel of mud and salt, damaged by three days of rain in 1926 and then abandoned by its residents. From the top you see the whole oasis.",
         "come": "On foot from the center of Siwa.",
         "quando": "Sunset.",
         "tempo": "1 hour"
       },
       {
         "nome": "Temple of the Oracle of Amun",
-        "testo": "The ruins on the hill of Aghurmi where Alexander the Great came to consult the oracle in 331 BC.",
+        "testo": "The ruins on the hill of Aghurmi where, according to tradition, Alexander the Great came to consult the oracle, which recognised him as the god's son and pharaoh.",
         "come": "By bike or taxi from the center.",
         "quando": "Morning or late afternoon.",
         "tempo": "1 hour"
       },
       {
         "nome": "Desert, salt lakes and Cleopatra's Spring",
-        "testo": "A 4x4 trip into the Great Sand Sea with sandboarding, sunset on the dunes and a swim in the salt lakes and springs, where you float.",
+        "testo": "An off-road trip towards the Great Sand Sea with sandboarding, sunset on the dunes and a swim in the springs, such as the one called Cleopatra's, and the salt lakes.",
         "come": "Only with a local operator, who holds the desert permit.",
         "quando": "Afternoon, back at sunset.",
         "tempo": "Half a day",
@@ -660,7 +663,8 @@ export const destinazioniEgitto: Destinazione[] = [
       "The desert toward Libya is controlled by the army: go only with operators who have permits.",
       "Siwa is a conservative community: cover shoulders and knees, and swim clothed at the springs.",
       "Keep your passport handy at checkpoints.",
-      "Winter nights in the desert drop close to 0 °C."
+      "Winter nights in the desert are cold: bring warm clothes.",
+      "Roads: the UK government (October 2026) treats Siwa and the road from Marsa Matruh as outside the advised-against areas, but advises against all but essential travel on the road between Bahariya and Siwa."
     ],
     // GUIDA-END
     esperienzeSlugs: [],
@@ -709,23 +713,23 @@ export const destinazioniEgitto: Destinazione[] = [
     luoghi: [
       {
         "nome": "Hurghada and the Giftun Islands",
-        "testo": "The biggest tourist hub, with snorkeling boats to the Giftun Islands and Orange Bay, and day trips for the Thistlegorm wreck.",
+        "testo": "The largest resort hub, with snorkelling boats to the Giftun islands and Orange Bay.",
         "come": "Excursions to book with a local operator from your hotel.",
-        "quando": "All year, with colder water from December to March.",
+        "quando": "Year-round, with cooler water in winter.",
         "tempo": "A full day"
       },
       {
-        "nome": "Marsa Alam, Abu Dabbab and Dolphin House",
-        "testo": "Further south and quieter: Abu Dabbab bay with turtles and, with luck, the dugong, and the Dolphin House reef.",
-        "come": "By car from Luxor in about 4 hours, or direct flights.",
-        "quando": "Early morning, when dolphins rest.",
+        "nome": "Marsa Alam and Abu Dabbab",
+        "testo": "Further south and quieter: Abu Dabbab bay with turtles and dolphins, and a little further south Wadi el-Gemal National Park, home to dugongs and green turtles too. The airport receives tourist flights from Italy among others.",
+        "come": "By car from Luxor or on direct flights.",
+        "quando": "Early morning, with fewer boats.",
         "tempo": "A full day",
         "consiglio": "The best choice for quality snorkeling."
       },
       {
         "nome": "Sharm el-Sheikh and Ras Mohammed",
-        "testo": "Diving and snorkeling in Ras Mohammed National Park and the Straits of Tiran, with some of the best reefs in the Red Sea.",
-        "come": "Direct flights from Italy and from Cairo.",
+        "testo": "Diving and snorkelling in Ras Mohammed National Park, with the Thistlegorm wreck nearby, and in the Strait of Tiran, with some of the finest reefs in the Red Sea.",
+        "come": "Direct flights from Europe and Cairo.",
         "quando": "All year.",
         "tempo": "A full day"
       }
@@ -776,10 +780,11 @@ export const destinazioniEgitto: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Do not touch or walk on coral, and do not buy shells or coral: exports are seized at the airport.",
+      "Do not touch or step on coral, and do not take shells or coral away.",
       "From Sinai to Luxor you almost always need a flight via Cairo: do not count on the road.",
-      "Southern liveaboards require an Advanced license and a certain number of dives.",
-      "From December to March the water is around 22 °C and the wind strong: you need a 5 mm wetsuit."
+      "For dive liveaboards ask the operator which certification and experience are required.",
+      "In winter the water is cooler and it is often windy: you need a thicker wetsuit.",
+      "Sinai: the UK government (October 2026) advises against all travel to North Sinai and all but essential travel to inland South Sinai beyond the St Catherine-Nuweiba road; the coasts, including Sharm el-Sheikh, are excluded."
     ],
     // GUIDA-END
     esperienzeSlugs: [],

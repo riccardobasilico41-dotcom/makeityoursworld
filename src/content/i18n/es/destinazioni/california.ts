@@ -56,11 +56,11 @@ export const destinazioniCalifornia: Destinazione[] = [
         tempo: "3-4 horas con la travesía",
         costo: "47,95 $ adultos el tour de día, 59,65 $ el tour nocturno (NPS, 2026)",
         url: "https://www.nps.gov/alca/",
-        consiglio: "Las entradas se pueden comprar hasta 90 días antes. Compra solo en la web oficial de Alcatraz City Cruises.",
+        consiglio: "Las entradas salen a la venta con mucha antelación: cómpralas solo en la web oficial de Alcatraz City Cruises.",
       },
       {
         nome: "Cable cars y Fisherman's Wharf",
-        testo: "Los históricos tranvías de cable de la ciudad, con la línea Powell-Hyde que sube a las colinas y baja hacia el puerto. Fisherman's Wharf es la zona turística del marisco, el Pier 39 y los leones marinos.",
+        testo: "Los históricos tranvías de cable de la ciudad, con la línea Powell-Hyde que sube a las colinas y baja hacia el puerto. Fisherman's Wharf es la zona turística del puerto, con los puestos de pescado, el Pier 39 y los leones marinos.",
         come: "Los cable cars salen de Powell Street, cerca de Union Square. La entrada se compra con la app MuniMobile o en las cabeceras.",
         quando: "En horas punta hay cola: mejor a primera hora de la mañana.",
         tempo: "2-3 horas",
@@ -69,7 +69,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         nome: "Muir Woods",
-        testo: "Un bosque de secuoyas costeras a media hora de San Francisco, al norte del puente, en el National Monument. Los senderos pasan bajo árboles de más de 80 metros.",
+        testo: "Un bosque de secuoyas costeras, protegido como National Monument, a unos 19 km al norte de San Francisco, al otro lado del Golden Gate. Los senderos pasan bajo árboles de hasta 79 metros.",
         come: "Hay que reservar con antelación el aparcamiento o la lanzadera en la web del National Park Service. El sendero principal es llano.",
         quando: "A primera hora, para evitar grupos y niebla.",
         tempo: "1,5-2 horas",
@@ -146,7 +146,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       'Entrada 35 $ por coche para 7 días; desde 2026 suplemento de 100 $ por persona para los no residentes a partir de 16 años, o pase anual para no residentes America the Beautiful a 250 $ (precios orientativos: conviene consultarlos en nps.gov).',
     erroriDaEvitare: [
       'Llegar al valle a media mañana en verano: aparcamientos llenos y colas en las entradas',
-      'Dejar comida o perfumes en el coche: los osos rompen las ventanillas, y los contenedores antiosos son obligatorios',
+      'Dejar comida u objetos perfumados en el coche: los osos rompen las ventanillas',
       'Incluir en el plan la Tioga Road fuera de temporada sin comprobar que esté abierta',
     ],
     luoghi: [
@@ -163,8 +163,8 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Mist Trail y las cascadas Vernal y Nevada",
         testo: "Un sendero empinado de escalones de piedra que lleva a las cascadas Vernal y Nevada, con salpicaduras que empapan. En primavera y principios de verano el caudal es máximo.",
-        come: "Sale de Happy Isles, en el valle, accesible con la lanzadera gratuita. Hasta el puente sobre el Vernal es una hora de ida; hasta la cima de la Vernal Fall y la Nevada Fall hacen falta varias horas más.",
-        quando: "De mayo a principios de julio para las cascadas llenas; en otoño el sendero está seco.",
+        come: "Sale de Happy Isles, en el valle, accesible con la lanzadera gratuita. Ida y vuelta hasta el puente sobre el Vernal: 2,6 km, 1-1,5 horas; hasta la cima de la Vernal Fall: 3,9 km, unas 3 horas; hasta la cima de la Nevada Fall: 8,7 km, 5-6 horas (NPS).",
+        quando: "En primavera y a principios de verano las cascadas van más llenas, pero los escalones resbalan y hay mucha gente. En invierno solo queda abierto un recorrido reducido, helado en algunos tramos.",
         tempo: "3-6 horas",
         url: "https://www.nps.gov/yose/",
         consiglio: "Vístete por capas y lleva un impermeable: los escalones resbalan y el chorro lo moja todo.",
@@ -180,8 +180,8 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         nome: "Mariposa Grove",
-        testo: "El bosque de secuoyas gigantes en la parte sur del parque, con árboles de más de 2.000 años y el Grizzly Giant.",
-        come: "Se deja el coche en el Welcome Plaza junto a la entrada sur (unas 300 plazas, a menudo llenas a media mañana) y se sube en la lanzadera gratuita, que en 2026 funciona de mayo a noviembre. Sin lanzadera se sube a pie, unos 3 km por trayecto. Los senderos son casi llanos.",
+        testo: "El bosque de secuoyas gigantes en la parte sur del parque, con más de 500 secuoyas adultas y el Grizzly Giant, que según el National Park Service tiene unos 3.000 años.",
+        come: "Se deja el coche en el Welcome Plaza junto a la entrada sur (unas 300 plazas, a menudo llenas a media mañana) y se sube en la lanzadera gratuita, que en 2026 funciona del 3 de mayo al 30 de noviembre, cada 15 minutos aproximadamente. Sin lanzadera se sube a pie, unos 3 km por trayecto y 150 metros de desnivel. Los senderos son casi llanos.",
         quando: "A primera hora, para evitar el calor.",
         tempo: "2-3 horas",
         url: "https://www.nps.gov/yose/",
@@ -213,7 +213,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     ],
     attenzioni: [
       "Los no residentes en EE. UU. de 16 años o más pagan 100 $ más por persona además de la entrada, salvo que tengan el pase anual para no residentes (NPS, 2026).",
-      "No dejes comida ni perfumes en el coche: los osos rompen las ventanillas, y los contenedores a prueba de osos son obligatorios.",
+      "No dejes comida ni objetos perfumados en el coche: los osos rompen las ventanillas. Usa las taquillas antiosos de aparcamientos y campings.",
       "Llegar al valle a media mañana en verano significa aparcamientos llenos y colas: llega pronto.",
       "Comprueba la apertura de la Tioga Road y de Glacier Point en la web del parque. En 2026 no hace falta reserva para entrar en el parque, pero los días punta hay colas en las entradas.",
     ],
@@ -248,13 +248,13 @@ export const destinazioniCalifornia: Destinazione[] = [
     costi:
       'Entrada 35 $ por coche para 7 días; desde 2026 suplemento de 100 $ por persona para los no residentes, o pase anual para no residentes a 250 $ (orientativos).',
     erroriDaEvitare: [
-      'Entrar con una autocaravana larga por el lado sur: la Generals Highway tiene límites de longitud recomendados',
+      'Entrar con una autocaravana larga por el lado sur: el parque desaconseja los vehículos de más de 6,7 metros entre Potwisha y el Giant Forest Museum',
       'Subestimar los tiempos: entre las dos entradas y los puntos principales se conduce mucho',
     ],
     luoghi: [
       {
         nome: "General Sherman Tree",
-        testo: "El árbol más voluminoso del mundo, de unos 83 metros de altura, en la Giant Forest. Tiene más de 2.000 años.",
+        testo: "El árbol vivo más voluminoso del mundo, de unos 84 metros de altura, en la Giant Forest. Tiene más de 2.000 años.",
         come: "Desde el aparcamiento norte un sendero cuesta abajo lleva al árbol. La Generals Highway es estrecha y con curvas.",
         quando: "A primera hora para evitar los grupos.",
         tempo: "1 hora",
@@ -264,7 +264,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         nome: "Moro Rock",
-        testo: "Una cúpula de granito con una escalera de unos 350 escalones que lleva a la cima, con vistas a la cordillera de Sierra Nevada.",
+        testo: "Una cúpula de granito con una escalera de más de 350 escalones que lleva a la cima, con vistas a la cordillera de Sierra Nevada.",
         come: "En coche desde la Giant Forest, con aparcamiento. Luego se sube a pie.",
         quando: "Al atardecer por la luz; no subas con tormenta o hielo.",
         tempo: "1 hora",
@@ -283,11 +283,11 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Kings Canyon Scenic Byway",
         testo: "La carretera CA-180 que baja al cañón del Kings River hasta Road's End, con paredes de granito y prados.",
-        come: "En coche, con paradas en los miradores. La carretera solo está abierta en verano, normalmente desde finales de mayo.",
-        quando: "De junio a octubre.",
+        come: "En coche, con paradas en los miradores. El tramo hasta Cedar Grove cierra en invierno (en 2026 el 13 de noviembre): aperturas en la web del parque.",
+        quando: "De finales de primavera a otoño.",
         tempo: "medio día",
         url: "https://www.nps.gov/seki/",
-        consiglio: "Llena el depósito antes de salir: en el cañón no hay gasolineras.",
+        consiglio: "Llena el depósito antes de salir: al fondo del cañón hay pocos servicios y en invierno cierran.",
       },
     ],
     programmi: [
@@ -315,7 +315,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     ],
     attenzioni: [
       "Los no residentes en EE. UU. de 16 años o más pagan 100 $ más además de la entrada, salvo pase anual para no residentes (NPS, 2026).",
-      "Las autocaravanas largas no deben entrar por el sur: la Generals Highway tiene límites de longitud recomendados.",
+      "El parque desaconseja los vehículos de más de 6,7 metros entre el Potwisha Campground y el Giant Forest Museum: con una autocaravana larga entra por el norte.",
       "En invierno hacen falta cadenas y los cierres son frecuentes.",
       "Las distancias son largas: entre las dos entradas y los puntos principales se conduce mucho.",
     ],
@@ -385,7 +385,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         nome: "Artists Drive y Artist's Palette",
-        testo: "Una carretera panorámica de sentido único de 14 kilómetros entre colinas de colores distintos, debidos a los minerales. Artist's Palette es el punto más colorido.",
+        testo: "Una carretera panorámica de sentido único entre colinas de colores distintos, debidos a los minerales. Artist's Palette es el punto más colorido.",
         come: "En coche desde Furnace Creek, con parada en Artist's Palette.",
         quando: "Por la tarde, con luz rasante.",
         tempo: "1 hora",
@@ -394,7 +394,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         nome: "Dante's View",
-        testo: "Un mirador a 1.669 metros sobre Badwater, con vista del fondo del valle y de las montañas Panamint.",
+        testo: "Un mirador a 1.669 metros de altitud, en la cresta de las Black Mountains, a pico sobre Badwater, con vista del fondo del valle y de la sierra Panamint.",
         come: "En coche, por una carretera de montaña asfaltada que sale cerca de Furnace Creek.",
         quando: "Por la mañana, con aire limpio.",
         tempo: "45 minutos",
@@ -422,7 +422,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     ],
     sapori: [
       { nome: "Cocina americana de los lodges", testo: "Restaurantes de Furnace Creek y Stovepipe Wells." },
-      { nome: "Dátiles locales", testo: "Fruta típica del desierto, a la venta en las tiendas." },
+      { nome: "Dátiles", testo: "Fruta típica del desierto californiano, a la venta en las tiendas." },
       { nome: "Comida para llevar", testo: "Mejor traerlo todo de fuera." },
       { nome: "Agua", testo: "Lleva mucha agua: en el parque cuesta mucho." },
     ],
@@ -465,7 +465,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     luoghi: [
       {
         nome: "Hidden Valley",
-        testo: "Un circuito de unos 1,6 km entre grandes rocas de granito, donde se dice que se escondían los ladrones de ganado. Se ven muchos árboles de Josué.",
+        testo: "Un circuito de unos 1,6 km entre grandes rocas, donde según la leyenda se escondían los ladrones de ganado. Se ven muchos árboles de Josué y a menudo escaladores en las rocas.",
         come: "En coche desde la West Entrance, unos 30 minutos. El sendero es fácil.",
         quando: "Mañana o tarde; en verano hace demasiado calor.",
         tempo: "1 hora",
@@ -484,7 +484,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         nome: "Keys View",
-        testo: "Un mirador a 1.580 metros sobre el valle de Coachella, con la falla de San Andrés y las montañas de San Jacinto. En días claros se ve Palm Springs.",
+        testo: "Un mirador en altura sobre el valle de Coachella, con la falla de San Andrés y las montañas de San Jacinto. En días claros se ve Palm Springs.",
         come: "En coche, al final de la Keys View Road. El aparcamiento está a pocos pasos del mirador.",
         quando: "El atardecer, con aire limpio.",
         tempo: "30 minutos",
@@ -493,7 +493,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       },
       {
         nome: "Palm Springs Aerial Tramway",
-        testo: "El teleférico giratorio que sube de Palm Springs a la cima del monte San Jacinto, con un desnivel de unos 1.800 metros.",
+        testo: "El teleférico que sube de Palm Springs por el monte San Jacinto, de la Valley Station (806 m) a la Mountain Station (2.596 m), casi 1.800 metros de desnivel. El suelo de la cabina gira durante el trayecto de unos 10 minutos. La cima de verdad está más arriba y solo se alcanza a pie.",
         come: "Desde la Valley Station en Tramway Road, en Palm Springs. La entrada se compra online.",
         quando: "Por la mañana, con menos cola. Arriba hace frío: lleva una chaqueta. Cada año cierra por mantenimiento entre septiembre y principios de octubre (en 2026 del 8 de septiembre al 4 de octubre).",
         tempo: "3-4 horas",
@@ -564,19 +564,19 @@ export const destinazioniCalifornia: Destinazione[] = [
     luoghi: [
       {
         nome: "Griffith Observatory",
-        testo: "El observatorio en la colina sobre Hollywood, con vista del letrero de Hollywood, del centro y del mar. La entrada es libre; los telescopios de la azotea están abiertos por la noche.",
-        come: "En coche o con lanzadera desde los aparcamientos de abajo; el aparcamiento de la colina se llena. Se puede subir a pie por el sendero.",
+        testo: "El observatorio en la colina sobre Hollywood, con vista del letrero de Hollywood, del centro y del mar. La entrada es libre y se puede mirar por los telescopios: horarios en la web.",
+        come: "El aparcamiento más cercano al observatorio es de pago y se llena. También se puede subir a pie por los senderos del Griffith Park.",
         quando: "Al atardecer. Cerrado los lunes; de martes a viernes de 12 a 22, sábado y domingo de 10 a 22.",
         tempo: "2 horas",
         costo: "Gratuito",
         url: "https://griffithobservatory.lacity.gov/",
-        consiglio: "Sube pronto: el aparcamiento se acaba y la carretera se cierra cuando está lleno.",
+        consiglio: "Llega antes del atardecer: a esa hora el aparcamiento de arriba se llena.",
       },
       {
         nome: "Getty Center",
         testo: "Un museo de arte con arquitectura moderna en una colina sobre Los Ángeles, con jardines y vista de la ciudad.",
         come: "El aparcamiento está bajo el complejo y se sube en tranvía. La entrada es gratuita, el aparcamiento de pago.",
-        quando: "Abierto de martes a domingo; cerrado los lunes. Por la tarde por la luz.",
+        quando: "Días y horarios de apertura en la web oficial. Por la tarde por la luz.",
         tempo: "3-4 horas",
         costo: "Entrada gratuita, aparcamiento de pago",
         url: "https://www.getty.edu/",
@@ -674,7 +674,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     luoghi: [
       {
         nome: "Misión de Santa Bárbara",
-        testo: "La misión franciscana de 1786, llamada la reina de las misiones, con fachada de dos torres y jardín.",
+        testo: "La misión franciscana fundada en 1786, llamada la reina de las misiones, con una fachada de dos campanarios reconstruidos tras el terremoto de 1925, y un jardín.",
         come: "En coche desde el centro de Santa Bárbara, en la colina. Se visita por libre o con guía.",
         quando: "Por la mañana; abierta todos los días, mira los horarios en la web.",
         tempo: "1 hora",
@@ -684,7 +684,7 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Hearst Castle",
         testo: "La villa en la colina de San Simeón construida para William Randolph Hearst, con piscinas, salones y obras de arte europeas.",
-        come: "El aparcamiento y la entrada están en el centro de visitantes; un autobús lleva a la villa. Solo se visita con tour guiado.",
+        come: "Aparcamiento y entradas en el centro de visitantes, al pie de la colina. Se entra con un tour guiado; después del tour se pueden recorrer los jardines por libre.",
         quando: "Reserva un tour online; en verano las plazas se agotan pronto.",
         tempo: "2-3 horas",
         costo: "Grand Rooms Tour 35 $ adultos, 18 $ niños de 5 a 12 años (web oficial, 2026)",
@@ -694,12 +694,12 @@ export const destinazioniCalifornia: Destinazione[] = [
       {
         nome: "Elefantes marinos de Piedras Blancas",
         testo: "Una colonia de elefantes marinos en la playa, cerca de San Simeón. Se ven crías, machos peleando y hembras descansando.",
-        come: "En coche por la Highway 1, con aparcamiento y pasarela. La entrada es libre.",
+        come: "En coche por la Highway 1, con un aparcamiento junto a la carretera. Sin entrada ni reserva.",
         quando: "De diciembre a marzo por los nacimientos; en primavera y otoño hay muda y descanso.",
         tempo: "30-45 minutos",
         costo: "Gratuito",
         url: "https://www.elephantseal.org/",
-        consiglio: "No pases de las pasarelas: los animales son salvajes y pesan toneladas.",
+        consiglio: "Guarda las distancias y no bajes hacia la playa: los animales son salvajes y los machos pesan toneladas.",
       },
       {
         nome: "McWay Falls",
@@ -707,7 +707,7 @@ export const destinazioniCalifornia: Destinazione[] = [
         come: "En coche por la Highway 1, con un breve paseo desde el aparcamiento.",
         quando: "Por la mañana, con luz limpia.",
         tempo: "30 minutos",
-        url: "https://www.parks.ca.gov/",
+        url: "https://www.parks.ca.gov/?page_id=578",
         consiglio: "Comprueba en la web del parque que el mirador esté abierto: los desprendimientos lo han cerrado en el pasado.",
       },
       {
@@ -716,7 +716,7 @@ export const destinazioniCalifornia: Destinazione[] = [
         come: "En coche desde Carmel. Ambas tienen entrada de pago por coche.",
         quando: "Por la mañana para Point Lobos; por la tarde para la 17-Mile Drive.",
         tempo: "medio día",
-        url: "https://www.pointlobos.org/",
+        url: "https://www.parks.ca.gov/?page_id=571",
         consiglio: "Llega pronto a Point Lobos: el aparcamiento tiene pocas plazas y cierra cuando está lleno.",
       },
     ],
@@ -735,7 +735,7 @@ export const destinazioniCalifornia: Destinazione[] = [
     sapori: [
       { nome: "Marisco del Pacífico", testo: "Ostras y cangrejo en Monterey." },
       { nome: "Vinos del Santa Ynez Valley", testo: "Catas en las bodegas a las afueras de Santa Bárbara." },
-      { nome: "Ollalieberry pie", testo: "Tarta de moras típica de la costa central." },
+      { nome: "Olallieberry pie", testo: "Tarta de olallieberry, un cruce de moras, típica de la costa central." },
       { nome: "Clam chowder de Monterey", testo: "Sopa de almejas." },
     ],
     attenzioni: [

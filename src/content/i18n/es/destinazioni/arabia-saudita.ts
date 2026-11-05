@@ -93,25 +93,24 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     luoghi: [
       {
         "nome": "Al-Balad",
-        "testo": "El centro histórico patrimonio de la UNESCO, con casas-torre de piedra coralina y los rawashin, fachadas de madera tallada de hasta cuatro pisos, hechas para que circule el aire. Muchas casas están apuntaladas: la restauración avanza a retazos.",
-        "come": "Se camina por las callejuelas; taxi o Uber hasta Bab Sharif o el zoco Al-Alawi. Con un guía se entiende mejor lo que se mira.",
+        "testo": "El centro histórico, patrimonio de la UNESCO desde 2014 como «Yeda histórica, puerta de La Meca», con casas torre de más de 30 metros y las roshan, los grandes ventanales de madera tallada. La restauración, anunciada en 2019, avanza a trozos: algunas casas se han convertido en hoteles, otras siguen apuntaladas.",
+        "come": "Se recorre a pie por las callejuelas; taxi o Uber hasta el borde del barrio. Con un guía se entiende mejor lo que se ve.",
         "quando": "Última hora de la tarde, cuando la luz baja toca la madera y el barrio se anima. A mediodía está polvoriento y vacío.",
         "tempo": "2-3 horas",
-        "url": "https://www.visitsaudi.com/",
-        "consiglio": "Terminar la visita en el zoco Al-Alawi, aún activo, con un café árabe con cardamomo."
+        "consiglio": "Terminar la visita en los callejones del zoco con un café árabe con cardamomo."
       },
       {
         "nome": "Casa Nassif",
-        "testo": "La más conocida de las casas-torre de Al-Balad, con la rampa interior construida para que subieran los camellos cargados. Hoy es un museo de la historia de la familia y de la ciudad.",
-        "come": "Dentro de Al-Balad, a pocos minutos a pie del zoco.",
-        "quando": "Mañana o última hora de la tarde.",
+        "testo": "Una de las casas torre más famosas y antiguas de Al-Balad, en el barrio de Al-Yemen.",
+        "come": "Dentro de Al-Balad, a pie.",
+        "quando": "Mañana o final de la tarde. Horario de los interiores, a comprobar en el lugar.",
         "tempo": "45 minutos"
       },
       {
         "nome": "Corniche, Fuente del Rey Fahd y mezquita Al-Rahma",
-        "testo": "El paseo marítimo de decenas de kilómetros, con la fuente del Rey Fahd, uno de los chorros de agua más altos del mundo, y la pequeña mezquita flotante Al-Rahma, blanca sobre el mar. El jueves por la noche las familias extienden alfombras en el césped y hacen barbacoas.",
+        "testo": "El largo paseo marítimo de la ciudad, con la fuente del Rey Fahd, el chorro de agua más alto del mundo según Guinness (312 metros), y la pequeña mezquita Al-Rahma, blanca sobre el mar. Por la noche las familias extienden alfombras en el césped y hacen barbacoas.",
         "come": "Taxi o Uber desde el centro. Se pasea por el paseo marítimo.",
-        "quando": "Atardecer y noche, sobre todo el jueves.",
+        "quando": "Atardecer y noche, sobre todo el fin de semana.",
         "tempo": "2 horas",
         "consiglio": "Cenar pescado a la parrilla en la Corniche, como hacen los saudíes."
       }
@@ -169,7 +168,8 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "La Meca está prohibida a los no musulmanes: los carteles de la autopista indican los desvíos obligatorios y hay controles. No es una regla para esquivar.",
+      "Seguridad: en noviembre de 2026 el gobierno británico desaconseja los viajes no esenciales a toda Arabia Saudí y cualquier viaje a menos de 10 km de la frontera con Yemen, por los ataques con misiles y drones (también contra el aeropuerto de Riad). Consultar las recomendaciones oficiales de viaje y el seguro antes de salir.",
+      "La Meca está prohibida a los no musulmanes: en la autopista los carteles indican los desvíos obligatorios. No es una norma que se pueda esquivar.",
       "Al-Balad a mediodía: el barrio se anima a última hora de la tarde, cuando la luz llega a la madera.",
       "Fotos a las personas, sobre todo a las mujeres: pedir siempre permiso.",
       "Normas de vestimenta y comportamiento en público: comprobar los canales oficiales antes de partir."
@@ -233,27 +233,27 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     luoghi: [
       {
         "nome": "Hegra (Mada'in Salih)",
-        "testo": "El primer sitio saudí de la UNESCO: más de 110 tumbas monumentales nabateas talladas en la arenisca hace dos mil años, muchas con inscripciones sobre el difunto aún legibles. Qasr al-Farid, la tumba solitaria, quedó sin terminar: se ve cómo tallaban de arriba abajo.",
-        "come": "Solo con visita guiada limitada, que se reserva en línea. Lanzadera desde el centro de visitantes.",
+        "testo": "El primer sitio saudí patrimonio de la UNESCO: más de 110 tumbas monumentales nabateas talladas en la arenisca hace unos dos mil años, muchas con inscripciones sobre el difunto. Qasr al-Farid, la tumba solitaria, quedó inacabada: se ve cómo tallaban de arriba abajo.",
+        "come": "Solo con visita guiada. Los tours son limitados cada día: mejor reservar online, en taquilla solo hay plaza si queda alguna. Punto de encuentro en la puerta sur de Hegra, con aparcamiento gratuito, o autobús desde el Winter Park de AlUla.",
         "quando": "Mañana o última hora de la tarde, con menos calor.",
         "tempo": "2-3 horas",
         "url": "https://www.experiencealula.com/en/places-to-go/hegra",
         "consiglio": "Reservar con semanas de antelación en los meses punta. No es «Petra sin multitud»: es más pequeña y más silenciosa.",
-        "costo": "Hegra Day Tour guiado desde 95 SAR por persona, unas 3 horas (2026)"
+        "costo": "Hegra Day Tour con guía 95 SAR por persona (2026)"
       },
       {
         "nome": "Jabal Ikmah",
-        "testo": "La «biblioteca al aire libre»: una pared de roca cubierta de cientos de inscripciones en dadanítico, lihyanita, nabateo y árabe antiguo, dejadas por quienes pasaban por el oasis hace 2.500 años.",
+        "testo": "Un cañón con unas 300 inscripciones grabadas en la arenisca, sobre todo en dadanítico y otras lenguas norarábigas antiguas, casi todas de la segunda mitad del I milenio a.C. Para la UNESCO es la mayor concentración del mundo de inscripciones dadaníticas bien conservadas.",
         "come": "Con el tour Dadan y Jabal Ikmah: se aparca gratis en el Winter Park de AlUla y un autobús lleva al centro de visitantes de Dadan, luego a Jabal Ikmah y vuelta.",
-        "quando": "A primera hora, con la luz rasante que realza los grabados.",
+        "quando": "Por la mañana, cuando la luz rasante resalta los grabados.",
         "tempo": "1-1,5 horas",
         "url": "https://www.experiencealula.com/en/places-to-go/jabal-ikmah",
         "costo": "Tour Dadan y Jabal Ikmah desde 60 SAR por persona, unas 2 horas (2026)"
       },
       {
         "nome": "Dadan",
-        "testo": "La capital de los reinos de Dadan y Lihyan, más antigua que Hegra, con tumbas-león excavadas en la roca y un santuario.",
-        "come": "Con el mismo tour de Jabal Ikmah, que sale del Winter Park; se recomienda reservar en línea.",
+        "testo": "La capital de los reinos de Dadan y Lihyan hace más de dos mil años, en la Ruta del Incienso, con tumbas excavadas en la pared roja: algunas tienen leones sentados tallados en la roca y se cree que eran de la élite.",
+        "come": "Con el mismo tour de Jabal Ikmah, que sale del Winter Park; no se puede ir por libre en coche. Tours limitados, mejor reservar online.",
         "quando": "Mañana.",
         "tempo": "1,5 horas",
         "url": "https://www.experiencealula.com/en/places-to-go/dadan",
@@ -262,12 +262,12 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       },
       {
         "nome": "Ciudad vieja de AlUla y Elephant Rock",
-        "testo": "Las casas de barro abandonadas, ahora restauradas, y la roca con forma de elefante donde se reúne la gente al atardecer.",
+        "testo": "El pueblo de callejones y casas de adobe, habitado desde el siglo XII en la ruta de peregrinos entre Damasco y La Meca, hoy restaurado con tiendas y restaurantes; y la roca con forma de elefante, donde la gente se reúne al atardecer.",
         "come": "El casco antiguo se recorre a pie; Elephant Rock está a 20 minutos en coche al noreste, con aparcamiento gratuito y una pasarela de madera.",
-        "quando": "Atardecer.",
+        "quando": "Ciudad vieja de la tarde a la noche; Elephant Rock abierta todos los días de 16 a medianoche (2026), mejor al atardecer.",
         "tempo": "2 horas",
-        "consiglio": "Al atardecer bajo Elephant Rock se reúne la gente del lugar.",
-        "costo": "Casco antiguo de entrada libre, visita guiada desde 70 SAR (2026)",
+        "consiglio": "No se puede subir a la roca; por la noche en el desierto hace frío y hay braseros.",
+        "costo": "Ciudad vieja de acceso libre, visita guiada 70 SAR (2026)",
         "url": "https://www.experiencealula.com/en/places-to-go/alula-old-town"
       }
     ],
@@ -276,7 +276,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
         "titolo": "2 días",
         "tappe": [
           "Día 1: Hegra con visita guiada, atardecer en Elephant Rock",
-          "Día 2: Jabal Ikmah al amanecer, Dadan, ciudad vieja"
+          "Día 2: Jabal Ikmah y Dadan por la mañana, ciudad vieja por la tarde"
         ]
       }
     ],
@@ -316,9 +316,10 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Presentarse en Hegra sin reserva: las entradas son limitadas y en los meses punta se agotan.",
+      "Seguridad: en noviembre de 2026 el gobierno británico desaconseja los viajes no esenciales a toda Arabia Saudí y cualquier viaje a menos de 10 km de la frontera con Yemen, por los ataques con misiles y drones (también contra el aeropuerto de Riad). Consultar las recomendaciones oficiales de viaje y el seguro antes de salir.",
+      "Presentarse en Hegra sin reserva: los tours son limitados y en los meses punta se agotan.",
       "Reservar el alojamiento a última hora: en AlUla hay pocos y en temporada alta se llenan.",
-      "En verano la temperatura supera los 40 grados: la visita es imposible.",
+      "En verano el calor es extremo: venir entre octubre y marzo.",
       "Quedarse en Hegra y saltarse Jabal Ikmah y Dadan: son igual de interesantes."
     ],
     // GUIDA-END
@@ -374,32 +375,30 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     luoghi: [
       {
         "nome": "At-Turaif en Diriyah",
-        "testo": "El barrio de la primera capital de los Saud, patrimonio de la UNESCO, construido en ladrillo de barro, destruido por los otomanos en 1818 y restaurado. Al atardecer los muros pasan del ocre al naranja.",
-        "come": "A media hora de Riad en taxi o Uber. Entrada con billete, se camina por el sitio.",
+        "testo": "El barrio de la capital del primer Estado saudí (1727-1818), patrimonio de la UNESCO desde 2010, construido en adobe, destruido en 1818 por el ejército otomano-egipcio de Ibrahim Pachá y restaurado. Al atardecer los muros pasan del ocre al naranja.",
+        "come": "En las afueras noroeste de Riad, en taxi o Uber. Entrada con billete reservado; se recorre a pie.",
         "quando": "La última hora de luz.",
         "tempo": "2 horas",
-        "url": "https://www.visitsaudi.com/",
-        "consiglio": "Cenar en los locales de Bujairi Terrace para ver el sitio iluminado."
+        "consiglio": "Cenar en Bujairi Terrace para ver el sitio iluminado; Bujairi también requiere entrada reservada."
       },
       {
         "nome": "Museo Nacional Saudí",
-        "testo": "El museo más completo para entender la historia de la península, desde la prehistoria al islam y hasta el reino.",
-        "come": "Taxi o Uber desde Riad, dentro del complejo de Murabba.",
-        "quando": "Mañana.",
-        "tempo": "2 horas",
-        "url": "https://www.visitsaudi.com/"
+        "testo": "El museo más completo para entender la historia de la península: ocho salas, de la geología y la prehistoria a los reinos preislámicos, el islam, los dos Estados saudíes y la unificación del reino.",
+        "come": "Taxi o Uber, en el barrio de Al-Murabba, dentro del Centro histórico Rey Abdulaziz.",
+        "quando": "Mañana. Horarios en el lugar o en los canales oficiales.",
+        "tempo": "2 horas"
       },
       {
         "nome": "Fuerte Masmak",
-        "testo": "La fortaleza de barro encajada entre rascacielos desde la que en 1902 partió la reconquista de Riad por Ibn Saud.",
+        "testo": "La fortaleza de barro y adobe en el centro viejo, desde donde en enero de 1902 empezó la reconquista de Riad por Ibn Saud. Desde 1995 es un museo, con fotos, mapas y armas.",
         "come": "Taxi o Uber, en el centro.",
         "quando": "Tarde.",
         "tempo": "45 minutos"
       },
       {
         "nome": "Edge of the World",
-        "testo": "El borde de un escarpe que cae cientos de metros sobre una llanura infinita, sin vallas. Se llega tras una hora y media de pista por el desierto.",
-        "come": "Solo con 4x4 y guía o en tour organizado: no hay señalización y el teléfono conecta a ratos.",
+        "testo": "El borde de un escarpe que cae cientos de metros sobre una llanura infinita, sin vallas. El último tramo es una larga pista por el desierto.",
+        "come": "Con 4x4 y guía o en un tour organizado: la pista no tiene señalización.",
         "quando": "Mañana o última hora de la tarde.",
         "tempo": "Medio día",
         "consiglio": "Ir con tour: la pista es el último tramo y solo uno se pierde."
@@ -445,10 +444,11 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       }
     ],
     attenzioni: [
+      "Seguridad: en noviembre de 2026 el gobierno británico desaconseja los viajes no esenciales a toda Arabia Saudí y cualquier viaje a menos de 10 km de la frontera con Yemen, por los ataques con misiles y drones (también contra el aeropuerto de Riad). Consultar las recomendaciones oficiales de viaje y el seguro antes de salir.",
       "Edge of the World solo con un coche normal: el último tramo es pista sin señalización.",
       "Visitar Diriyah a mediodía: el barro refleja el calor, lo bello está en la última hora de luz.",
       "Esperar una ciudad histórica: Riad se construyó casi toda después de los años setenta.",
-      "En verano se superan los 45-50 grados."
+      "En verano el calor es extremo: venir entre noviembre y marzo."
     ],
     // GUIDA-END
     esperienzeSlugs: ['diriyah', 'edge-of-the-world'],
@@ -503,32 +503,31 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     luoghi: [
       {
         "nome": "Rijal Almaa",
-        "testo": "El pueblo de piedra y cuarzo en varios niveles, con fachadas que brillan al sol, candidato a patrimonio de la UNESCO. En las casas restauradas hay un museo.",
-        "come": "En coche desde Abha, unas 1,5-2 horas.",
+        "testo": "El pueblo de unos sesenta edificios de piedra, arcilla y madera, algunos de hasta ocho plantas, a unos 50 km de Abha. En el palacio Al Alwan está el museo del patrimonio, con más de dos mil objetos.",
+        "come": "En coche desde Abha, unos 50 km de carretera de montaña.",
         "quando": "Mañana.",
-        "tempo": "Un día entero"
+        "tempo": "Medio día"
       },
       {
         "nome": "Jebel Sawda y teleférico del Asir",
-        "testo": "El punto más alto del país, con senderos y el teleférico que sube entre la niebla.",
+        "testo": "Para las autoridades saudíes el punto más alto del país, 3.207 metros oficiales (una medición de 2018 lo da más bajo). Se llega en coche o en teleférico.",
         "come": "En coche desde Abha.",
         "quando": "A primera hora, cuando las nubes están bajas.",
         "tempo": "Medio día"
       },
       {
         "nome": "Habala",
-        "testo": "El pueblo en el escarpe al que antes se llegaba solo con escaleras de cuerda.",
-        "come": "En coche, por la carretera de los pueblos de montaña.",
-        "quando": "Tarde.",
+        "testo": "El pueblo en un valle bajo el escarpe, al que antes solo se llegaba con escalas de cuerda: el nombre viene de la palabra árabe para «cuerda». Hoy se baja en teleférico.",
+        "come": "En coche desde Abha, una hora, luego teleférico.",
+        "quando": "Tarde. El teleférico tiene horario reducido en temporada baja.",
         "tempo": "1,5 horas"
       },
       {
         "nome": "Abha: casas pintadas y mercado",
-        "testo": "Las casas con qatt asiri, los motivos geométricos de colores que las mujeres pintan en los interiores, patrimonio inmaterial de la UNESCO, y el mercado de ganado y flores.",
+        "testo": "Las casas con el qatt asiri, los motivos geométricos de colores que las mujeres pintan en las paredes interiores, patrimonio inmaterial de la UNESCO desde 2017, y el mercado del centro.",
         "come": "A pie o en taxi en el centro.",
-        "quando": "Mercado por la mañana.",
-        "tempo": "2 horas",
-        "consiglio": "El mercado sigue siendo el evento social de la semana: los vendedores llevan guirnaldas en la cabeza."
+        "quando": "Mañana.",
+        "tempo": "2 horas"
       }
     ],
     programmi: [
@@ -536,8 +535,8 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
         "titolo": "3 días",
         "tappe": [
           "Día 1: Abha, casas pintadas y mercado",
-          "Día 2: Rijal Almaa y recorrido de pueblos hasta Habala",
-          "Día 3: teleférico y senderos en el Jebel Sawda"
+          "Día 2: Rijal Almaa",
+          "Día 3: Habala en teleférico y Jebel Sawda"
         ]
       }
     ],
@@ -545,7 +544,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       {
         "nome": "Abha",
         "perChi": "quien quiere una base con servicios",
-        "testo": "Hoteles y restaurantes, cerca del teleférico y del mercado."
+        "testo": "Hoteles y restaurantes, base para el teleférico y el mercado."
       },
       {
         "nome": "Pueblos de montaña",
@@ -560,7 +559,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       },
       {
         "nome": "Miel del Asir",
-        "testo": "La más apreciada de la península, en los mercados."
+        "testo": "Miel de montaña, en los mercados."
       },
       {
         "nome": "Cereales y verduras",
@@ -572,10 +571,11 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       }
     ],
     attenzioni: [
+      "Seguridad: en noviembre de 2026 el gobierno británico desaconseja los viajes no esenciales a toda Arabia Saudí y cualquier viaje a menos de 10 km de la frontera con Yemen, por los ataques con misiles y drones (también contra el aeropuerto de Riad). Consultar las recomendaciones oficiales de viaje y el seguro antes de salir.",
       "Aquí la buena estación es el verano, fresco y verde; el invierno es frío y brumoso.",
       "Sin coche no se llega: los pueblos están repartidos en decenas de kilómetros.",
       "Visitarla con prisa: en un día solo se ve la carretera.",
-      "Evitar la zona fronteriza: seguir los avisos oficiales."
+      "Zona fronteriza: el gobierno británico desaconseja cualquier viaje a menos de 10 km de la frontera con Yemen."
     ],
     // GUIDA-END
     esperienzeSlugs: [],
@@ -628,16 +628,16 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     luoghi: [
       {
         "nome": "Archipiélago de Umluj",
-        "testo": "Un centenar de islas de arena blanca y bancos de coral frente al puerto pesquero. Una costa a la que aún no han llegado los grandes proyectos turísticos.",
+        "testo": "Las islas de arena blanca y los bancos de coral frente al puerto pesquero. Es una costa a la que los grandes proyectos turísticos todavía no han llegado.",
         "come": "En barco desde Umluj.",
-        "quando": "De octubre a abril.",
+        "quando": "En los meses más frescos.",
         "tempo": "Un día entero"
       },
       {
         "nome": "Arrecifes del norte del Mar Rojo",
-        "testo": "Arrecifes con visibilidad altísima y poco dañados porque hasta 2019 casi ningún turista podía llegar. Snorkel, buceo y, en temporada, delfines y tiburones ballena.",
+        "testo": "Arrecifes poco frecuentados, porque el país solo concede visados turísticos desde septiembre de 2019. Snorkel y buceo con operadores locales.",
         "come": "Operadores locales, todavía pocos.",
-        "quando": "De octubre a abril.",
+        "quando": "En los meses más frescos.",
         "tempo": "Medio día"
       }
     ],
@@ -667,9 +667,10 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       }
     ],
     attenzioni: [
+      "Seguridad: en noviembre de 2026 el gobierno británico desaconseja los viajes no esenciales a toda Arabia Saudí y cualquier viaje a menos de 10 km de la frontera con Yemen, por los ataques con misiles y drones (también contra el aeropuerto de Riad). Consultar las recomendaciones oficiales de viaje y el seguro antes de salir.",
       "Aquí todavía no hay instalaciones turísticas: es la virtud y el límite de la zona.",
       "Operadores de buceo de nivel internacional: la escena está empezando, hay que valorarlos caso por caso.",
-      "Fuera de los resorts cerrados rigen las normas del país: en las playas públicas se entra al agua vestido."
+      "Fuera de los resorts las normas del país valen también en la playa: ropa discreta, informarse en el lugar."
     ],
     // GUIDA-END
     esperienzeSlugs: [],

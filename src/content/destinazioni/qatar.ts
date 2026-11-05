@@ -102,40 +102,40 @@ export const destinazioniQatar: Destinazione[] = [
     luoghi: [
       {
         "nome": "Museo di Arte Islamica",
-        "testo": "L'edificio di pietra calcarea progettato da I.M. Pei a novant'anni, su un'isola artificiale davanti alla Corniche. La luce entra dall'alto da una cupola nascosta. Dentro, manoscritti, ceramiche, metalli e tessuti da tutto il mondo musulmano.",
-        "come": "Taxi o Uber dal centro; la metro arriva alla stazione Corniche. Si cammina nel parco.",
-        "quando": "Chiuso il mercoledì. Sabato-martedì 9-19, giovedì 9-21, venerdì 13.30-19 (2026). Al tramonto, dalla scalinata esterna, si guarda lo skyline di West Bay.",
+        "testo": "L'edificio di pietra calcarea color crema di I.M. Pei, che accettò l'incarico a 91 anni, inaugurato nel 2008 su un'isola artificiale davanti alla Corniche. Dentro, manoscritti, ceramiche, metalli e tessuti da tutto il mondo musulmano.",
+        "come": "Taxi o Uber dal centro; il museo indica anche una navetta gratuita. Si cammina nel parco.",
+        "quando": "Chiuso il mercoledì. Sabato-martedì 9-19, giovedì 9-21, venerdì 13.30-19 (2026); chiusure straordinarie sul sito. Al tramonto, dalla scalinata esterna, si guarda lo skyline di West Bay.",
         "tempo": "2-3 ore",
-        "url": "https://mia.org.qa/en/",
+        "url": "https://mia.org.qa/en/visit/",
         "consiglio": "Salire sulla scalinata sul retro alla fine della visita: è la cartolina della città."
       },
       {
         "nome": "Souq Waqif",
-        "testo": "Il mercato ricostruito nei primi anni Duemila con i materiali e le forme del vecchio souq. Funziona: si vendono ancora tessuti, spezie, incenso e falchi da caccia, e c'è un ospedale per falchi visitabile, dove gli uccelli aspettano il turno con il cappuccio in testa. La sera i vicoli e i ristoranti all'aperto si riempiono di famiglie qatariote.",
-        "come": "Metro fino a Msheireb o Souq Waqif; si cammina nei vicoli.",
-        "quando": "Sera, quando apre il mercato dei falchi.",
+        "testo": "Il mercato distrutto in gran parte da un incendio nel 2003 e restaurato tra il 2006 e il 2008, demolendo gli edifici moderni. Funziona: si vendono ancora tessuti, spezie, incenso e falchi da caccia, nel souq dei falchi, e accanto c'è un ospedale per falchi. La sera i vicoli e i ristoranti all'aperto si riempiono di famiglie qatariote.",
+        "come": "Metro, linea oro, fino a Souq Waqif, oppure Msheireb; si cammina nei vicoli.",
+        "quando": "La sera, quando i vicoli si animano. Il souq dei falchi ha orari spezzati tra mattina e sera: controllarli su Visit Qatar.",
         "tempo": "2 ore",
         "consiglio": "Il posto più strano e più qatariota della città."
       },
       {
         "nome": "Museo Nazionale del Qatar",
         "testo": "L'edificio di Jean Nouvel con dischi intersecati ispirati alla rosa del deserto. Dentro, la storia del paese dal deserto alle perle al gas.",
-        "come": "Metro fino a Msheireb o taxi; sta a pochi minuti dalla Corniche.",
-        "quando": "Chiuso il martedì. Altri giorni 9-19, giovedì fino alle 21, venerdì dalle 13.30; ultimo ingresso 45 minuti prima della chiusura (2026). Meglio la mattina.",
+        "come": "Metro, linea oro, fino alla stazione National Museum of Qatar, oppure taxi.",
+        "quando": "Chiuso il martedì. Altri giorni 9-19, giovedì fino alle 21, venerdì 13.30-19; ultimo ingresso 45 minuti prima della chiusura (2026). Alcune gallerie possono essere chiuse per lavori. Meglio la mattina.",
         "tempo": "2 ore",
         "url": "https://nmoq.org.qa/en/visit/"
       },
       {
         "nome": "Corniche e dhow",
-        "testo": "Il lungomare a mezzaluna sulla baia, con i dhow, le barche di legno tradizionali, che fanno brevi giri a pochi riyal.",
+        "testo": "Il lungomare a mezzaluna sulla baia, con i dhow, le barche di legno tradizionali, che fanno brevi giri a pagamento.",
         "come": "A piedi dal Museo di Arte Islamica.",
         "quando": "Tramonto.",
         "tempo": "1 ora"
       },
       {
         "nome": "Mathaf, museo arabo d'arte moderna",
-        "testo": "Il museo di Qatar Museums dedicato all'arte moderna e contemporanea del mondo arabo, in un'ex scuola nella Education City. Le mostre cambiano spesso e mettono insieme pittori iracheni, egiziani, libanesi e del Golfo che in Europa si vedono poco.",
-        "come": "In taxi o Uber dal centro, circa 20 minuti; la metro verde arriva a Education City.",
+        "testo": "Il museo di Qatar Museums dedicato all'arte moderna e contemporanea del mondo arabo, in un'ex scuola della Education City ristrutturata da Jean-François Bodin. Le mostre cambiano spesso e mettono insieme artisti del mondo arabo che in Europa si vedono poco.",
+        "come": "In taxi o Uber dal centro, oppure metro, linea verde, fino a Education City.",
         "quando": "Orari sul sito di Qatar Museums. Buono per le ore calde.",
         "tempo": "1-1,5 ore",
         "costo": "Ingresso libero per tutti, con biglietto da prenotare (2026)",
@@ -143,8 +143,8 @@ export const destinazioniQatar: Destinazione[] = [
       },
       {
         "nome": "Katara Cultural Village",
-        "testo": "Un quartiere culturale costruito sul mare tra West Bay e The Pearl, con un anfiteatro di pietra, due moschee decorate (una dorata e una a mosaico blu), gallerie, piccionaie in fango e una spiaggia pubblica. È dove i qatarioti vengono la sera a passeggiare e a cena.",
-        "come": "Taxi o metro rossa fino a Katara, poi a piedi.",
+        "testo": "Un quartiere culturale sul mare tra West Bay e The Pearl, con un anfiteatro di marmo, due moschee decorate (la Moschea d'Oro e la Moschea di Katara a mosaici turchesi e viola), gallerie, piccionaie tradizionali e una spiaggia pubblica. È dove i qatarioti vengono la sera a passeggiare e a cena.",
+        "come": "Taxi o metro, linea rossa, fino a Katara Cultural Village, poi a piedi.",
         "quando": "Sera, quando cala il caldo e si accendono le luci dell'anfiteatro.",
         "tempo": "1,5-2 ore",
         "costo": "Ingresso al quartiere libero",
@@ -194,7 +194,7 @@ export const destinazioniQatar: Destinazione[] = [
       },
       {
         "nome": "Karak chai",
-        "testo": "Tè al latte speziato, nei chioschi a tutte le ore per pochi centesimi."
+        "testo": "Tè al latte speziato, nei chioschi a tutte le ore; costa pochissimo."
       },
       {
         "nome": "Cucina levantina e iraniana",
@@ -206,7 +206,7 @@ export const destinazioniQatar: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Non prenotare lo stopover sul portale dedicato: si prenota separatamente dal volo con il codice di prenotazione, molti non sanno che esiste.",
+      "Ignorare il programma stopover di Qatar Airways: condizioni e modalità di prenotazione sono sul sito ufficiale della compagnia.",
       "Programmarlo in estate: stare all'aperto è impraticabile.",
       "Fermarsi solo a West Bay e ai centri commerciali: sono il souq e i musei a valere la discesa dall'aereo.",
       "Regole su abbigliamento e comportamento in pubblico: controllare i canali ufficiali."
@@ -265,7 +265,7 @@ export const destinazioniQatar: Destinazione[] = [
     luoghi: [
       {
         "nome": "Khor Al Adaid (inland sea)",
-        "testo": "Un braccio di Golfo che entra nel deserto, con le dune che scendono dritte in acqua e l'Arabia Saudita sull'altra sponda. Pochi posti al mondo sono fatti così.",
+        "testo": "Un braccio di Golfo che entra nel deserto, con le dune che scendono dritte in acqua, al confine con l'Arabia Saudita. Pochi posti al mondo sono fatti così; il Qatar l'ha candidato a patrimonio UNESCO.",
         "come": "Solo in 4x4 con un autista: all'inizio della pista si sgonfiano le gomme, poi circa mezz'ora di sabbia. Si scollina l'ultima duna e sotto c'è il mare.",
         "quando": "Pomeriggio, fino al tramonto.",
         "tempo": "Mezza giornata",
@@ -273,25 +273,25 @@ export const destinazioniQatar: Destinazione[] = [
       },
       {
         "nome": "Forte di Al Zubarah",
-        "testo": "Patrimonio UNESCO: il forte del Settecento e i resti della città portuale che c'era intorno.",
-        "come": "In auto da Doha, circa un'ora e mezza.",
+        "testo": "Patrimonio UNESCO dal 2013: la città portuale che fiorì alla fine del Settecento, oggi un campo di scavi, e il forte costruito nel 1938 poco distante.",
+        "come": "In auto da Doha, circa 105 km verso nord-ovest.",
         "quando": "Mattina.",
         "tempo": "1-1,5 ore",
         "consiglio": "Portare acqua e pranzo: nel nord non c'è nulla per decine di chilometri."
       },
       {
         "nome": "East-West/West-East di Richard Serra",
-        "testo": "Quattro lastre d'acciaio alte 14 metri, allineate su circa un chilometro nel deserto di Brouq. Si raggiungono su una pista, senza parcheggio né biglietto né cartelli.",
-        "come": "In 4x4, a ovest di Doha.",
+        "testo": "Quattro lastre d'acciaio del 2014, alte tra i 14,8 e i 16,7 metri, allineate per poco meno di un chilometro in una valle tra due altipiani di gesso nella riserva di Brouq. Si raggiungono su una pista, senza biglietto.",
+        "come": "In auto, meglio un 4x4, verso la costa occidentale.",
         "quando": "Tramonto, quando l'acciaio cambia colore.",
         "tempo": "1-2 ore",
         "consiglio": "Camminare tra una lastra e l'altra sentendo solo il vento: è l'opposto del resto del Golfo."
       },
       {
         "nome": "Mangrovie di Al Thakhira",
-        "testo": "Una laguna bassa sulla costa nord-est con le mangrovie più estese del Qatar. Si gira in kayak tra i canali, con aironi e fenicotteri in inverno; con la bassa marea il fango scoperto è pieno di granchi.",
-        "come": "In auto da Doha, circa un'ora verso nord. Kayak a noleggio sul posto con operatori locali, meglio prenotati.",
-        "quando": "Con l'alta marea, la mattina presto o nel tardo pomeriggio. Da ottobre ad aprile.",
+        "testo": "La costa tra Al Thakhira e Al Khor ha le mangrovie più fitte del Qatar. Si gira in kayak tra i canali, con aironi, garzette e sterne; con la bassa marea il fango scoperto è pieno di granchi.",
+        "come": "In auto da Doha, circa 60 km verso nord. Kayak a noleggio con operatori locali, meglio prenotati.",
+        "quando": "Con l'alta marea, la mattina presto o nel tardo pomeriggio, nei mesi freschi.",
         "tempo": "2-3 ore",
         "consiglio": "Controllare l'orario delle maree prima di partire: con la bassa i kayak restano a secco."
       }

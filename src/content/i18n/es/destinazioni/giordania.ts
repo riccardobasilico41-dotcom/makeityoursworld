@@ -34,36 +34,36 @@ export const destinazioniGiordania: Destinazione[] = [
     luoghi: [
       {
         "nome": "Ciudadela (Jabal al-Qala'a)",
-        "testo": "La colina que domina la ciudad, habitada desde hace milenios. En la cima quedan las columnas del templo de Hércules, el palacio omeya del siglo VIII y el museo arqueológico. Desde el borde se ve todo Amán, con el teatro romano a los pies.",
-        "come": "Se sube en taxi o con una caminata empinada de unos 20 minutos desde el centro. Se visita por cuenta propia; los paneles están en inglés.",
+        "testo": "La colina que domina la ciudad, con restos de poblamiento desde el neolítico. Arriba quedan las columnas del gran templo romano llamado «de Hércules» (siglo II), el palacio omeya construido hacia el año 735 y el museo arqueológico. Desde el borde se ve todo Amán, con el teatro romano a los pies.",
+        "come": "Desde el centro se sube en taxi o a pie, con una cuesta empinada. Se visita por libre, los paneles están en inglés.",
         "quando": "Abierta de 8 a 17 (2026). La última hora de la tarde tiene la mejor luz sobre el templo; a mediodía en verano no hay sombra.",
         "tempo": "1-1,5 horas",
-        "costo": "Incluido en el Jordan Pass",
-        "url": "https://www.jordanpass.jo/",
+        "costo": "3 JOD para extranjeros, o incluido en el Jordan Pass (2026)",
+        "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx",
         "consiglio": "Subir en taxi y bajar a pie hacia el teatro romano: es cuesta abajo y se llega al centro."
       },
       {
         "nome": "Teatro Romano",
-        "testo": "Teatro del siglo II excavado en la ladera, con unas 6.000 plazas. A los lados de la entrada hay dos pequeños museos, uno de folclore y otro de tradiciones populares. Se suben las gradas y se mira la plaza de abajo.",
+        "testo": "Teatro del siglo II, de la época de Antonino Pío, excavado en la ladera, con unas 6.000 plazas. A los lados de la entrada hay dos pequeños museos, el del folclore y el de las tradiciones populares. Se sube por las gradas y se mira la plaza de abajo.",
         "come": "En pleno centro, a pie desde los zocos y Rainbow Street.",
         "quando": "Abierto de 8 a 17 (2026). Mañana o última hora de la tarde, cuando las gradas están a la sombra.",
         "tempo": "45 minutos",
         "costo": "Incluido en el Jordan Pass",
-        "url": "https://www.jordanpass.jo/"
+        "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx"
       },
       {
         "nome": "Downtown y los zocos",
         "testo": "El centro viejo alrededor de la mezquita al-Husseini: tiendas de especias, cafés, dulces, ropa, oro. Es la parte más viva y auténtica de la capital, mucho más que los barrios nuevos.",
         "come": "A pie desde el teatro romano, en pocos minutos.",
-        "quando": "De 10 a 20. Los viernes por la mañana muchas tiendas abren tarde.",
+        "quando": "De día y hasta la noche. El viernes por la mañana muchas tiendas abren tarde.",
         "tempo": "2 horas",
         "consiglio": "Parar para un kunafa caliente y para falafel y hummus en uno de los locales históricos del centro."
       },
       {
         "nome": "Rainbow Street",
         "testo": "Calle peatonal del barrio de Jabal Amman, con cafés, restaurantes con terraza, librerías y tiendas de artesanía. Se viene por la noche, cuando se llena de jóvenes.",
-        "come": "Taxi desde el centro o 20 minutos a pie desde el teatro romano.",
-        "quando": "Después del atardecer, sobre todo el fin de semana (jueves y viernes por la noche).",
+        "come": "Taxi desde el centro o a pie desde el teatro romano, cuesta arriba.",
+        "quando": "Después del atardecer, sobre todo el jueves y el viernes por la noche.",
         "tempo": "2-3 horas",
         "consiglio": "Elegir un local con terraza sobre la ladera: la vista de la ciudad iluminada es lo mejor."
       }
@@ -118,7 +118,8 @@ export const destinazioniGiordania: Destinazione[] = [
       "Los taxis amarillos tienen taxímetro: hacer que lo enciendan o acordar el precio antes de subir. Uber y Careem funcionan y quitan el problema.",
       "Rainbow Street y el centro son seguros, pero a mediodía en verano el sol es fuerte y en la Ciudadela no hay sombra.",
       "En Jordania el viernes es el día de descanso: muchas tiendas abren tarde y los museos pueden tener horarios reducidos.",
-      "El Jordan Pass (70, 75 u 80 JOD con 1, 2 o 3 días en Petra, 2026) se compra en línea antes de llegar: cubre el visado turístico si se pasan al menos dos noches y la entrada a más de 40 sitios."
+      "El Jordan Pass (70, 75 u 80 JOD con 1, 2 o 3 días consecutivos en Petra, 2026) se compra online antes de llegar: cubre el visado turístico si se pasan al menos dos noches e incluye la entrada a más de 40 sitios.",
+      "Tensiones en la región: el gobierno británico (octubre de 2026) avisa del riesgo de escaladas repentinas, posibles cancelaciones de vuelos y cierres del espacio aéreo, y desaconseja cualquier viaje a menos de 3 km de la frontera siria. Consultar las recomendaciones oficiales de viaje antes de salir."
     ],
     // GUIDA-END
     esperienzeSlugs: ['cittadella-amman'],
@@ -151,31 +152,27 @@ export const destinazioniGiordania: Destinazione[] = [
     luoghi: [
       {
         "nome": "Arco de Adriano e Hipódromo",
-        "testo": "La entrada monumental al sur, construida para la visita del emperador Adriano en 129-130. Un poco más allá está el hipódromo, de los mejor conservados del imperio romano.",
+        "testo": "La entrada monumental del sur, construida para la visita del emperador Adriano en 129-130. Un poco más allá está el hipódromo.",
         "come": "El aparcamiento está junto al arco; la taquilla queda cerca.",
         "quando": "Abierto de 8 a 17 (2026). Mejor a primera hora, antes de los grupos.",
         "tempo": "30 minutos",
-        "costo": "Incluido en el Jordan Pass",
-        "url": "https://www.jordanpass.jo/"
+        "costo": "10 JOD para extranjeros, o incluido en el Jordan Pass (2026)",
+        "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx"
       },
       {
         "nome": "Foro Oval y Cardo Máximo",
-        "testo": "La plaza ovalada con columnas jónicas y, desde allí, la larga calle porticada que cruza la ciudad antigua. En las losas aún se ven las huellas de los carros.",
-        "come": "Se recorre a pie de sur a norte en unos 15 minutos, con paradas.",
+        "testo": "La plaza oval rodeada de columnas jónicas y, desde allí, la larga calle columnada que cruza la ciudad antigua.",
+        "come": "Se recorre a pie de sur a norte.",
         "quando": "A primera hora y al final de la tarde por la luz sobre las columnas.",
         "tempo": "1 hora",
-        "costo": "Incluido en el Jordan Pass",
-        "url": "https://www.jordanpass.jo/",
-        "consiglio": "Mirar las piedras del cardo: las huellas de los carros y los desagües muestran cómo funcionaba la calle."
+        "consiglio": "Mirar el empedrado del cardo: las piedras originales muestran cómo funcionaba la calle."
       },
       {
         "nome": "Teatro Sur y Templo de Artemisa",
-        "testo": "El teatro grande, de unas 3.000 plazas, donde a menudo suenan gaitas y tambores; luego el templo de Artemisa en el nivel más alto, con columnas visibles de lejos.",
-        "come": "Desde el foro se sube al teatro y luego al templo en la colina en unos 20 minutos.",
+        "testo": "El teatro grande, donde la voz se oye en todas las gradas hablando desde el centro de la orquesta, y a menudo tocan gaitas y tambores; después el santuario de Artemisa en la parte más alta, con columnas que se ven de lejos.",
+        "come": "Desde el foro se sube al teatro y luego al templo en la colina.",
         "quando": "Media mañana, cuando la luz es alta y el teatro resuena.",
-        "tempo": "1 hora",
-        "costo": "Incluido en el Jordan Pass",
-        "url": "https://www.jordanpass.jo/"
+        "tempo": "1 hora"
       }
     ],
     programmi: [
@@ -194,7 +191,7 @@ export const destinazioniGiordania: Destinazione[] = [
       {
         "nome": "Amán",
         "perChi": "quien la visita en el día",
-        "testo": "Jerash está a una hora de carretera, así que se va con conductor o en tour desde Amán. Dormir en la ciudad es más cómodo."
+        "testo": "Jerash está a unos 50 km de Amán, así que se va con conductor o en tour. Dormir en la capital es más cómodo."
       },
       {
         "nome": "Ciudad de Jerash",
@@ -262,7 +259,7 @@ export const destinazioniGiordania: Destinazione[] = [
     luoghi: [
       {
         "nome": "Baño y barro del Mar Muerto",
-        "testo": "El mar está a unos 430 metros bajo el nivel de los océanos y es tan salado que se flota sin esfuerzo. Se queda a flor de agua, se extiende el barro por la piel y se deja secar.",
+        "testo": "El mar está a unos 440 metros bajo el nivel de los océanos (2025) y sigue bajando. Es tan salado que se flota sin esfuerzo. Se queda uno en la superficie, se unta el barro en la piel y se deja secar.",
         "come": "Se entra desde un resort con playa privada o desde una playa pública equipada. Entrar despacio, sin zambullirse.",
         "quando": "Atardecer, con la luz sobre las colinas de Cisjordania.",
         "tempo": "1-2 horas en el agua",
@@ -270,20 +267,21 @@ export const destinazioniGiordania: Destinazione[] = [
       },
       {
         "nome": "Madaba y el mapa mosaico",
-        "testo": "La ciudad de los mosaicos bizantinos. En la iglesia greco-ortodoxa de San Jorge está el mapa del siglo VI que muestra Jerusalén y Tierra Santa, hecho con unos dos millones de teselas.",
-        "come": "Madaba está a 30 minutos de Amán y a una hora del Mar Muerto; se visita a pie en el centro.",
+        "testo": "La ciudad de los mosaicos bizantinos. En la iglesia ortodoxa griega de San Jorge está el mapa del siglo VI, realizado entre 542 y 570, con Jerusalén en el centro: originalmente medía 21 por 7 metros y tenía más de dos millones de teselas.",
+        "come": "Madaba está a una media hora de Amán y a una hora del mar Muerto; el centro se visita a pie.",
         "quando": "Mañana, cuando la iglesia está menos concurrida.",
         "tempo": "1-2 horas",
-        "consiglio": "Combinarla con una cena en un restaurante de la ciudad vieja, como Haret Jdoudna."
+        "consiglio": "Combinarla con una cena en un restaurante del casco antiguo."
       },
       {
         "nome": "Lugar del Bautismo (Betania al otro lado del Jordán)",
-        "testo": "El lugar a orillas del Jordán donde la tradición sitúa el bautismo de Jesús, patrimonio de la UNESCO desde 2015. Se camina entre restos de iglesias bizantinas hasta el río, que aquí es un hilo de agua con Cisjordania a pocos metros.",
-        "come": "En coche desde el mar Muerto, unos 15 minutos. Desde el centro de visitantes sale una lanzadera y la visita es acompañada.",
-        "quando": "Por la mañana, antes del calor.",
+        "testo": "El lugar del río Jordán donde la tradición sitúa el bautismo de Jesús, patrimonio de la UNESCO desde 2015, a unos 9 km al norte del mar Muerto. Se camina entre restos de iglesias bizantinas hasta el río, con Cisjordania a pocos metros.",
+        "come": "En coche desde el mar Muerto. La entrada estándar incluye lanzadera y guía local.",
+        "quando": "Entrada desde las 8; última entrada a las 16 de noviembre a marzo y a las 17 de abril a octubre (2026). Mejor por la mañana, antes del calor.",
         "tempo": "1,5-2 horas",
         "url": "https://www.baptismsite.com/",
-        "consiglio": "Llevar sombrero y agua: el recorrido va casi todo al sol."
+        "consiglio": "Llevar sombrero y agua: el recorrido va casi todo al sol.",
+        "costo": "12 JOD para extranjeros (2026)"
       }
     ],
     programmi: [
@@ -330,8 +328,7 @@ export const destinazioniGiordania: Destinazione[] = [
     attenzioni: [
       "La sal quema en los ojos y en las heridas: nada de zambullidas ni salpicaduras, y lavarse enseguida si pasa.",
       "En las tiendas de cosméticos frente a los resorts los precios son más altos que en la ciudad: comparar antes.",
-      "No estar en el agua más de 15-20 minutos seguidos, y beber mucho.",
-      "El alcohol se compra en Madaba o en tiendas específicas, no por las carreteras hacia el desierto."
+      "No quedarse demasiado tiempo en el agua de una vez, y beber mucho."
     ],
     // GUIDA-END
     esperienzeSlugs: ['bagno-mar-morto'],
@@ -364,28 +361,29 @@ export const destinazioniGiordania: Destinazione[] = [
     luoghi: [
       {
         "nome": "Castillo de Karak",
-        "testo": "Fortaleza cruzada del siglo XII sobre un espolón de roca, después en manos de Saladino y de los mamelucos. Se recorren pasillos oscuros, bóvedas, cisternas y salas subterráneas, con la ciudad moderna alrededor.",
-        "come": "Se llega desde Madaba por la Carretera del Rey en unas 1,5 horas. Se visita por cuenta propia, pero algunos pasillos están oscuros: llevar linterna.",
+        "testo": "Fortaleza cruzada iniciada en la década de 1140 sobre un espolón rocoso, rendida a las tropas de Saladino en 1188 y ampliada por los mamelucos. Se recorren pasillos oscuros, bóvedas y salas subterráneas, con la ciudad moderna alrededor.",
+        "come": "Se llega desde Madaba por la King's Highway. Se visita por libre, pero algunos pasillos están oscuros: llevar linterna.",
         "quando": "Abierto de 8 a 17 (2026). Por la mañana hay menos viento y el sol aún está bajo.",
         "tempo": "1-1,5 horas",
         "costo": "Incluido en el Jordan Pass (dato de mi viaje)",
-        "url": "https://www.jordanpass.jo/"
+        "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx"
       },
       {
         "nome": "Monte Nebo",
-        "testo": "La colina desde la que, según la tradición, Moisés vio la Tierra Prometida. Hay el memorial con mosaicos bizantinos y una escultura en forma de serpiente.",
-        "come": "En la carretera entre Madaba y Karak, a unos 10 km de Madaba. Se llega en coche hasta el aparcamiento.",
-        "quando": "Día despejado, cuando desde la terraza se ve el valle del Jordán y, a veces, el Mar Muerto.",
-        "tempo": "45 minutos"
+        "testo": "La cresta, a unos 700 metros, desde la que según la Biblia Moisés vio la Tierra Prometida. Está el memorial con mosaicos bizantinos, reabierto en 2016, y la escultura en forma de serpiente de Gian Paolo Fantoni.",
+        "come": "Está a las afueras de Madaba, en la carretera hacia el mar Muerto. Se llega en coche hasta el aparcamiento.",
+        "quando": "Un día despejado, cuando se ven el valle del Jordán y Jericó, y con el cielo muy limpio Jerusalén.",
+        "tempo": "45 minutos",
+        "costo": "3 JOD para extranjeros (2026)"
       },
       {
         "nome": "Castillo de Shobak",
-        "testo": "El castillo cruzado de Montréal, construido en 1115 por Balduino I sobre una colina aislada. Está menos restaurado que Karak y es más salvaje: se baja también por un túnel excavado en la roca que lleva a un manantial.",
-        "come": "En la King's Highway entre Karak y Petra, a una hora de Wadi Musa. Se visita por libre; para el túnel hace falta linterna.",
+        "testo": "El castillo cruzado de Montréal, construido en 1115 por Balduino I sobre una colina aislada. Del original queda poco y el interior está en ruinas, con inscripciones de las reparaciones mamelucas: es más salvaje que Karak. Los cruzados excavaron un túnel colina abajo hasta unas cisternas alimentadas por manantiales.",
+        "come": "En la King's Highway entre Karak y Petra. Se visita por libre; para el túnel hace falta linterna.",
         "quando": "Abierto de 8 a 17 (2026). Buena parada camino de Petra.",
         "tempo": "1 hora",
         "costo": "Incluido en el Jordan Pass",
-        "url": "https://www.jordanpass.jo/"
+        "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx"
       }
     ],
     programmi: [
@@ -404,7 +402,7 @@ export const destinazioniGiordania: Destinazione[] = [
       {
         "nome": "Wadi Musa",
         "perChi": "quien sigue hacia Petra",
-        "testo": "La continuación natural del recorrido, a unas 2 horas y media de Karak."
+        "testo": "La continuación natural del recorrido por la King's Highway."
       },
       {
         "nome": "Karak",
@@ -419,7 +417,7 @@ export const destinazioniGiordania: Destinazione[] = [
       },
       {
         "nome": "Falafel y shawarma",
-        "testo": "En las tascas del centro de Karak, para un almuerzo de 2-3 JOD."
+        "testo": "En las casas de comidas del centro de Karak, para un almuerzo barato."
       },
       {
         "nome": "Pan shrak",
@@ -433,7 +431,8 @@ export const destinazioniGiordania: Destinazione[] = [
     attenzioni: [
       "La Carretera del Rey es panorámica pero sinuosa: calcular más tiempo del que dice el navegador.",
       "En los bares junto a la carretera los precios no están expuestos: preguntar antes.",
-      "El Monte Nebo vale más por su significado que por la vista: si falta tiempo se puede quitar del programa."
+      "El Monte Nebo vale más por su significado que por la vista: si falta tiempo se puede quitar del programa.",
+      "El 23 de octubre de 2026 hubo un tiroteo en una iglesia de la gobernación de Karak: seguir las indicaciones de las autoridades locales y las noticias (gov.uk)."
     ],
     // GUIDA-END
     esperienzeSlugs: [],
@@ -479,49 +478,47 @@ export const destinazioniGiordania: Destinazione[] = [
     luoghi: [
       {
         "nome": "El Siq y el Tesoro (Al-Khazneh)",
-        "testo": "El desfiladero natural de unos 1,2 km entre paredes de arenisca rosa, que se estrecha hasta mostrar de repente la fachada del Tesoro, de unos 40 metros de alto y excavada en la roca.",
-        "come": "De la entrada al Tesoro se camina unos 30-40 minutos. Se puede alquilar un caballo, pero solo cubre el tramo hasta el inicio del Siq.",
-        "quando": "El recinto abre a las 6 (cierre indicado a las 17, 2026). Entrar a primerísima hora, con el Siq vacío; la luz llega al Tesoro hacia las 9-10.",
+        "testo": "El desfiladero natural de unos 1,2 km entre paredes de arenisca de hasta 180 metros, de apenas 3 metros de ancho en algunos puntos, que se estrecha hasta mostrar de golpe la fachada del Tesoro, de unos 37 metros de alto y tallada en la roca.",
+        "come": "De la entrada al Tesoro se camina media hora o algo más. Se puede ir a caballo en el primer tramo, antes del Siq.",
+        "quando": "El sitio abre a las 6 y cierra a las 17 (2026). Entrar a primerísima hora, cuando el Siq está vacío; el sol llega al Tesoro a media mañana.",
         "tempo": "45 minutos",
-        "costo": "50 JOD 1 día, 55 dos, 60 tres para quien duerme al menos una noche en Jordania; 90 JOD en excursión de un día sin pernoctar. Incluido en el Jordan Pass.",
-        "consiglio": "La encontramos casi desierta: ver el Tesoro asomar del Siq sin multitud vale por sí solo el viaje."
+        "costo": "50 JOD por 1 día, 55 por 2, 60 por 3 para quien duerme al menos una noche en Jordania; 90 JOD en el día sin pernoctar (2026). Incluido en el Jordan Pass.",
+        "consiglio": "La encontramos casi desierta: ver el Tesoro asomar del Siq sin multitud vale por sí solo el viaje.",
+        "url": "https://international.visitjordan.com/page/17/Entrance-Fees"
       },
       {
         "nome": "Calle de las Fachadas y Teatro",
-        "testo": "Pasado el Tesoro el valle se abre a tumbas excavadas en la roca y a un teatro nabateo tallado en la piedra.",
+        "testo": "Después del Tesoro el valle se abre a las tumbas excavadas en la roca y al teatro nabateo tallado en la piedra, con capacidad para unas 8.500 personas.",
         "come": "A pie desde el Tesoro, todo llano.",
         "quando": "Mañana.",
         "tempo": "1 hora",
-        "costo": "Incluido en el Jordan Pass",
-        "url": "https://www.jordanpass.jo/"
+        "costo": "Incluido en el Jordan Pass"
       },
       {
         "nome": "Tumbas Reales",
-        "testo": "Un grupo de tumbas monumentales excavadas en la montaña: la Tumba de la Urna, la Tumba de Seda y la Tumba del Palacio. Se puede entrar en las cámaras.",
+        "testo": "Un grupo de tumbas monumentales excavadas en la montaña: la Tumba de la Urna, la Tumba de Seda, la Tumba Corintia y la Tumba del Palacio. En la Tumba de la Urna se entra en la gran sala.",
         "come": "Pocos minutos a pie desde el teatro.",
         "quando": "Tarde, cuando la luz roja enciende las paredes.",
         "tempo": "45 minutos",
-        "costo": "Incluido en el Jordan Pass",
-        "url": "https://www.jordanpass.jo/"
+        "costo": "Incluido en el Jordan Pass"
       },
       {
         "nome": "Monasterio (Ad-Deir)",
-        "testo": "Fachada de unos 45 metros, más grande que el Tesoro y más sobria. Se llega tras una subida de unos 800 escalones en la roca.",
-        "come": "Se parte del centro de Petra: unos 40-45 minutos de subida. En el camino hay puestos y un quiosco frente al monumento.",
+        "testo": "Fachada de unos 45 metros de alto, más grande que el Tesoro y más sobria. Se llega por un sendero de casi 800 escalones en la roca.",
+        "come": "Se sale desde el fondo del valle, pasado el Qasr al-Bint: unos 40 minutos de subida. Por el camino hay puestos y un quiosco frente al monumento.",
         "quando": "Después del mediodía, cuando el sol da sobre la fachada (por la mañana está a la sombra).",
         "tempo": "2-2,5 horas ida y vuelta",
         "costo": "Incluido en el Jordan Pass",
-        "url": "https://www.jordanpass.jo/",
         "consiglio": "Zapatos de trekking y agua; el té de menta del quiosco compensa la subida."
       },
       {
         "nome": "Little Petra (Siq al-Barid)",
-        "testo": "Un pequeño cañón a unos 8 km de Wadi Musa, con edificios y cisternas nabateos. Menos famoso y más tranquilo que Petra.",
-        "come": "En taxi o con el traslado desde Wadi Musa en 15 minutos. Se camina por el cañón.",
+        "testo": "Un pequeño cañón a unos 8 km al norte de Wadi Musa, con viviendas excavadas en la arenisca, salas de banquetes nabateas y una gran cisterna. En el Biclinio Pintado quedan frescos bien conservados. Menos famoso y más tranquilo que Petra.",
+        "come": "En taxi o traslado desde Wadi Musa. Se camina por el cañón.",
         "quando": "Tarde, el día antes de Petra.",
         "tempo": "1,5-2 horas",
         "consiglio": "Ideal para calentar antes de Petra, con poca gente.",
-        "costo": "Entrada libre"
+        "costo": "Entrada libre de día"
       }
     ],
     programmi: [
@@ -575,10 +572,10 @@ export const destinazioniGiordania: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Quien ofrece paseos a caballo, camello o burro por el Siq suele decir que el precio está incluido: no lo está en la entrada, acordar antes.",
-      "Los burros para subir al Monasterio no se recomiendan por el bienestar de los animales.",
+      "Para caballos, camellos y burros acordar siempre el precio antes de subir, incluso cuando dicen que está incluido.",
+      "Por el bienestar de los animales, mejor subir al Monasterio a pie.",
       "Llevar agua y gorra: en el sitio hay pocas fuentes y en verano hace mucho calor.",
-      "Evitar las noches de viento fuerte para Petra de noche: la visita puede cancelarse."
+      "Petra by Night solo se celebra algunas noches: consultar el calendario en los canales oficiales."
     ],
     // GUIDA-END
     esperienzeSlugs: ['salita-monastero-petra', 'hammam-wadi-musa'],
@@ -627,12 +624,12 @@ export const destinazioniGiordania: Destinazione[] = [
     luoghi: [
       {
         "nome": "Safari en jeep entre cañones y dunas",
-        "testo": "La forma normal de visitar el desierto: una camioneta beduina con guía, entre formaciones de arenisca roja, cañones y dunas. Las paradas clásicas son el Manantial de Lawrence, el cañón de Khazali con inscripciones nabateas y el puente de roca de Umm Fruth.",
+        "testo": "La forma normal de visitar el desierto, patrimonio de la UNESCO desde 2011: una pick-up beduina con guía, entre formaciones de arenisca roja, cañones y dunas. Las paradas clásicas son el Manantial de Lawrence, con inscripciones nabateas en la roca, el cañón de Khazali con grabados rupestres de personas y antílopes, y un puente de roca.",
         "come": "Se sale del pueblo de Rum con el guía del campamento o desde el centro de visitantes. El tour se paga según la duración y se acuerda de antemano.",
         "quando": "Un recorrido de 4-6 horas, con salida por la mañana o por la tarde para el atardecer.",
         "tempo": "4-6 horas",
-        "costo": "Entrada incluida en el Jordan Pass",
-        "url": "https://www.jordanpass.jo/",
+        "costo": "Entrada al área protegida 5 JOD para extranjeros o incluida en el Jordan Pass (2026); el tour en jeep se paga aparte",
+        "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx",
         "consiglio": "Pedir que el recorrido incluya un atardecer en las dunas."
       },
       {
@@ -699,7 +696,7 @@ export const destinazioniGiordania: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "El recorrido en jeep tiene tarifas fijas en el centro de visitantes: compararlas con el precio del campamento.",
+      "El precio del tour en jeep varía mucho entre campamentos: acordarlo antes y comparar.",
       "De noche hace frío incluso en primavera y otoño: llevar ropa de abrigo.",
       "No alejarse solo del campamento por la noche, los caminos se pierden en la oscuridad.",
       "Las tormentas de arena pueden cancelar los recorridos: dejar margen en el programa."
@@ -742,7 +739,7 @@ export const destinazioniGiordania: Destinazione[] = [
     luoghi: [
       {
         "nome": "Snorkel e inmersiones",
-        "testo": "El Mar Rojo a pocas decenas de minutos del desierto, con arrecifes de coral cerca de la orilla y agua muy cálida. Está también el pecio del Cedar Pride, hundido en 1985 como atracción submarina.",
+        "testo": "El mar Rojo a pocas horas del desierto, con arrecifes de coral cerca de la orilla y aguas cálidas. También está el pecio del Cedar Pride, uno de los puntos de buceo más conocidos.",
         "come": "Se reserva un centro de buceo o un barco en la marina.",
         "quando": "Todo el año, pero primavera y otoño son los mejores meses.",
         "tempo": "Medio día",
@@ -751,18 +748,18 @@ export const destinazioniGiordania: Destinazione[] = [
       {
         "nome": "Paseo marítimo y playas",
         "testo": "El centro tiene un paseo marítimo con cafés y la playa pública; más al sur, las playas equipadas de los resorts y del parque marino. En la ciudad se viste con sobriedad; el bañador está bien dentro de las instalaciones.",
-        "come": "Desde los hoteles principales en 15 minutos en taxi.",
+        "come": "En taxi desde los principales hoteles.",
         "quando": "Todo el día, sobre todo por la tarde.",
         "tempo": "Medio día"
       },
       {
         "nome": "Fuerte de Aqaba y museo",
-        "testo": "El pequeño fuerte mameluco del siglo XVI en el paseo marítimo, con el escudo hachemí sobre la puerta: la revuelta árabe lo tomó en 1917. Al lado está el museo arqueológico de la ciudad.",
-        "come": "A pie desde el paseo marítimo del centro, cerca del mástil de la bandera.",
-        "quando": "Abierto de 8 a 17 (2026). Última hora de la tarde, antes de la puesta de sol sobre el mar.",
+        "testo": "El fuerte mameluco construido a principios del siglo XVI por el sultán Qansuh al-Ghuri. En 1917 las fuerzas árabes, con Lawrence, tomaron Áqaba a los otomanos. El museo arqueológico de la ciudad está en el Jordan Pass.",
+        "come": "En el centro, cerca del paseo marítimo.",
+        "quando": "Castillo abierto de 8 a 17, museo de 8 a 17.15 (2026). Final de la tarde, antes del atardecer sobre el mar.",
         "tempo": "45 minutos",
         "costo": "Incluido en el Jordan Pass",
-        "url": "https://www.jordanpass.jo/"
+        "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx"
       }
     ],
     programmi: [
@@ -808,8 +805,7 @@ export const destinazioniGiordania: Destinazione[] = [
     ],
     attenzioni: [
       "Fuera de las playas de los resorts el traje de baño no es apropiado: usar un pareo.",
-      "El sol sobre el mar es fuerte todo el año: protección alta y agua.",
-      "En Áqaba se puede comprar alcohol en tiendas específicas, pero en el resto de Jordania es difícil."
+      "El sol sobre el mar es fuerte todo el año: protección alta y agua."
     ],
     // GUIDA-END
     esperienzeSlugs: ['diving-aqaba'],

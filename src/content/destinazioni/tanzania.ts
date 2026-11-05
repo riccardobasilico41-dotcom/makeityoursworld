@@ -53,26 +53,27 @@ export const destinazioniTanzania: Destinazione[] = [
     luoghi: [
       {
         "nome": "Valle del Seronera",
-        "testo": "Il centro del parco, la zona più facile per i grandi felini: leoni, leopardi sugli alberi di acacia e ghepardi sulle pianure. I kopje, gli affioramenti di granito, sono il posto dove i leoni riposano.",
+        "testo": "Il centro del parco, una delle zone migliori per i grandi felini: leoni, leopardi sulle acacie e ghepardi sulle pianure. I kopje, gli affioramenti di granito, sono il posto dove i leoni riposano.",
         "come": "Game drive in fuoristrada con guida, dal lodge o dal campo. Non si scende dall'auto fuori dai punti consentiti.",
         "quando": "Il parco è aperto tutto l'anno e i cancelli chiudono alle 18 (TANAPA). Gli animali sono più attivi all'alba e nel tardo pomeriggio.",
         "tempo": "1 giorno o più",
         "url": "https://www.tanzaniaparks.go.tz/serengeti",
-        "consiglio": "Ho fatto il safari con Suricata Safaris, che ha anche le esperienze in tenda dentro il parco: le consiglio."
+        "consiglio": "Ho fatto il safari con Suricata Safaris, che ha anche le esperienze in tenda dentro il parco: le consiglio.",
+        "costo": "Ingresso TANAPA 70 $ per gli adulti stranieri e 20 $ per i bambini, secondo il sito ufficiale (2026); chiedere all'operatore se nel preventivo ci sono tasse aggiuntive"
       },
       {
         "nome": "Pianure del sud e Ndutu",
-        "testo": "La zona delle nascite degli gnu, da dicembre a marzo, con migliaia di piccoli e i predatori che li seguono.",
+        "testo": "La zona dove nascono i piccoli di gnu, con i predatori che li seguono. Secondo TANAPA la stagione dei parti è soprattutto tra gennaio e febbraio.",
         "come": "Dal Seronera o dal Ngorongoro in fuoristrada, con guida.",
-        "quando": "Da dicembre a marzo.",
+        "quando": "Soprattutto gennaio e febbraio.",
         "tempo": "1-2 giorni",
         "url": "https://www.tanzaniaparks.go.tz/serengeti"
       },
       {
         "nome": "Fiume Mara e migrazione",
-        "testo": "Nel nord del parco, da luglio a ottobre, gli attraversamenti del fiume Mara da parte di gnu e zebre, con i coccodrilli ad aspettare.",
+        "testo": "Nel nord del parco, durante la stagione secca, gli attraversamenti del fiume Mara da parte di gnu e zebre, con i coccodrilli ad aspettare.",
         "come": "Da Seronera in fuoristrada, molte ore di strada; molti campi sono fissi nel nord.",
-        "quando": "Da luglio a ottobre.",
+        "quando": "Stagione secca: TANAPA indica giugno-ottobre per la migrazione. Il momento esatto degli attraversamenti cambia ogni anno.",
         "tempo": "1-2 giorni",
         "url": "https://www.tanzaniaparks.go.tz/serengeti",
         "consiglio": "Chiedere all'operatore dove si trova la migrazione nel mese di viaggio: cambia ogni anno."
@@ -137,11 +138,11 @@ export const destinazioniTanzania: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Andare nella zona sbagliata per il mese: la migrazione si sposta e in estate nel sud gli gnu non ci sono.",
+      "Andare nella zona sbagliata per il mese: la migrazione si sposta, e il sud è la zona dei parti a inizio anno.",
       "Pianificare un solo giorno: tra andata e ritorno si passa più tempo in auto che a guardare animali.",
       "Dimenticare strati caldi per i game drive dell'alba, freddi sul fuoristrada aperto.",
       "Scegliere un operatore senza licenza: verificare registrazione e recensioni.",
-      "Le tariffe di conservazione TANAPA si pagano a persona ogni 24 ore e di solito sono già nel prezzo dell'operatore: chiedere che siano indicate a parte nel preventivo."
+      "Le tariffe dei parchi TANAPA si pagano a persona e di solito sono già nel prezzo dell'operatore: chiedere che siano indicate a parte nel preventivo."
     ],
     // GUIDA-END
     esperienzeSlugs: ['safari-in-tenda', 'grande-migrazione'],
@@ -187,21 +188,22 @@ export const destinazioniTanzania: Destinazione[] = [
     luoghi: [
       {
         "nome": "Fondo del cratere",
-        "testo": "Una caldera di circa 260 km² con un lago salato e paludi. Vi vivono leoni, elefanti, ippopotami e rinoceronti neri, più facili da vedere qui che altrove nel nord.",
-        "come": "Si scende per una strada ripida in fuoristrada con guida. Ogni discesa ha un permesso a veicolo.",
+        "testo": "Il fondo di una caldera vulcanica intatta di circa 260 km², profonda circa 610 metri, con il lago salato Magadi e paludi. Ci vivono leoni, elefanti, ippopotami e una piccola popolazione di rinoceronti neri, risalita a 55 esemplari nel 2018.",
+        "come": "Si scende per una strada ripida in fuoristrada con guida. Ogni discesa paga una tassa a veicolo.",
         "quando": "Alba: i primi veicoli entrano presto e trovano il cratere più vuoto.",
         "tempo": "Mezza giornata",
-        "costo": "70,80 $ a persona ogni 24 ore per i non residenti dai 16 anni, più 295 $ a veicolo per ogni discesa nel cratere (tariffe NCAA, 2026)",
+        "costo": "70,80 $ a persona per 24 ore per i non residenti dai 16 anni (23,60 $ dai 5 ai 15), più 295 $ a veicolo per ogni discesa nel cratere (tariffe NCAA, 2026)",
         "url": "https://www.ncaa.go.tz/tariffs/",
         "consiglio": "La tassa del cratere è per veicolo: pesa di più sui gruppi piccoli."
       },
       {
         "nome": "Gola di Olduvai",
-        "testo": "Il sito paleontologico dove sono stati trovati resti di ominidi antichissimi. C'è un museo con spiegazioni.",
+        "testo": "Il sito paleoantropologico nelle pianure della Conservation Area, fuori dal cratere, dove sono stati trovati i resti di Homo habilis. C'è un museo con spiegazioni.",
         "come": "Sulla strada tra il cratere e il Serengeti.",
         "quando": "Mattina.",
         "tempo": "1 ora",
-        "url": "https://www.ncaa.go.tz/"
+        "url": "https://www.ncaa.go.tz/tariffs/",
+        "costo": "35,40 $ a persona dai 16 anni, insieme a Shifting Sand (tariffa NCAA, 2026)"
       },
       {
         "nome": "Boma Maasai",
@@ -232,7 +234,7 @@ export const destinazioniTanzania: Destinazione[] = [
       {
         "nome": "Karatu",
         "perChi": "chi vuole spendere meno",
-        "testo": "Cittadina a un'ora dal cratere, con lodge economici."
+        "testo": "Cittadina vicino al cancello del cratere, con lodge economici."
       }
     ],
     sapori: [
@@ -300,20 +302,22 @@ export const destinazioniTanzania: Destinazione[] = [
     luoghi: [
       {
         "nome": "Parco di Tarangire",
-        "testo": "Baobab, elefanti in grandi branchi e animali che si concentrano attorno al fiume nella stagione secca.",
+        "testo": "Baobab, alcuni con più di mille anni, migliaia di elefanti, la popolazione più densa della Tanzania secondo TANAPA, e animali che si concentrano attorno al fiume nella stagione secca.",
         "come": "Game drive in fuoristrada con guida.",
-        "quando": "Da giugno a ottobre, quando gli animali si radunano attorno all'acqua.",
+        "quando": "Stagione secca, quando gli animali si radunano attorno all'acqua. Cancelli chiusi alle 18.",
         "tempo": "1 giorno",
         "url": "https://www.tanzaniaparks.go.tz/tarangire",
-        "consiglio": "Nella stagione secca vale da solo il viaggio: non saltarlo per correre verso il Serengeti."
+        "consiglio": "Nella stagione secca vale da solo il viaggio: non saltarlo per correre verso il Serengeti.",
+        "costo": "Ingresso TANAPA 70 $ per gli adulti stranieri e 20 $ per i bambini, secondo il sito ufficiale (2026); chiedere all'operatore se nel preventivo ci sono tasse aggiuntive"
       },
       {
         "nome": "Lago Manyara",
-        "testo": "Una foresta con scimmie, la riva con fenicotteri quando il livello dell'acqua lo permette e la scarpata della Rift Valley sopra.",
+        "testo": "Una foresta alimentata da acque sotterranee, con mogani, fichi e cercopitechi blu, una passerella sospesa tra gli alberi, il lago alcalino con i fenicotteri minori quando il livello lo permette e la scarpata della Rift Valley sopra. È famoso per i leoni che salgono sugli alberi.",
         "come": "Game drive di mezza giornata.",
         "quando": "Mattina.",
         "tempo": "Mezza giornata",
-        "url": "https://www.tanzaniaparks.go.tz/lake-manyara"
+        "url": "https://www.tanzaniaparks.go.tz/lake-manyara",
+        "costo": "Ingresso TANAPA 70 $ per gli adulti stranieri e 20 $ per i bambini, secondo il sito ufficiale (2026); chiedere all'operatore se nel preventivo ci sono tasse aggiuntive"
       },
       {
         "nome": "Mto wa Mbu",
@@ -412,29 +416,29 @@ export const destinazioniTanzania: Destinazione[] = [
     luoghi: [
       {
         "nome": "Stone Town",
-        "testo": "La città vecchia di vicoli, porte di legno intagliato e lungomare, patrimonio UNESCO, tra le culture swahili, araba e indiana.",
+        "testo": "La città vecchia di vicoli, porte di legno intagliato e lungomare, patrimonio UNESCO dal 2000, dove l'architettura mescola influssi arabi, persiani, indiani ed europei con la cultura swahili.",
         "come": "A piedi nei vicoli, con una guida per il primo giorno.",
         "quando": "Mattina e sera.",
         "tempo": "Mezza giornata",
-        "consiglio": "Cena al mercato serale dei Forodhani Gardens."
+        "consiglio": "Cena al mercato serale dei Forodhani Gardens, accanto al Forte Vecchio, quando dopo il tramonto si griglia il pesce."
       },
       {
         "nome": "Nungwi e Kendwa",
         "testo": "Le spiagge del nord, dove la marea si sente meno.",
-        "come": "Taxi o dala dala da Stone Town, circa un'ora.",
+        "come": "Taxi o dala dala da Stone Town.",
         "quando": "Tutto l'anno.",
         "tempo": "Una giornata"
       },
       {
         "nome": "Paje e Jambiani",
         "testo": "La costa est, con la bassa marea che lascia scoperta la laguna per centinaia di metri. Kitesurf a Paje.",
-        "come": "In auto da Stone Town, circa un'ora.",
+        "come": "In auto da Stone Town.",
         "quando": "Con l'alta marea per il bagno.",
         "tempo": "Una giornata"
       },
       {
         "nome": "Foresta di Jozani e atollo di Mnemba",
-        "testo": "La foresta con le scimmie colobo rosse di Zanzibar, e l'atollo di Mnemba, famoso per lo snorkeling.",
+        "testo": "La foresta di Jozani, nell'unico parco nazionale di Zanzibar, con il colobo rosso di Zanzibar, una scimmia che vive solo sull'isola ed è in pericolo; e l'atollo di Mnemba, famoso per lo snorkeling.",
         "come": "Jozani in auto; Mnemba in barca dal nord-est.",
         "quando": "Mattina.",
         "tempo": "Mezza giornata ciascuno"
@@ -488,7 +492,7 @@ export const destinazioniTanzania: Destinazione[] = [
     attenzioni: [
       "Scegliere la costa est senza sapere della marea: con la bassa marea il mare si ritira per centinaia di metri.",
       "Girare per Stone Town in costume o canottiera: fuori dalle spiagge ci si copre spalle e ginocchia.",
-      "Arrivare senza l'assicurazione di Zanzibar già comprata online (44 $): si fa la fila in aeroporto.",
+      "Arrivare senza l'assicurazione obbligatoria di Zanzibar (ZIC): si compra online su visitzanzibar.go.tz o all'arrivo, e vale per tutto il soggiorno.",
       "Venditori di escursioni sulla spiaggia: confrontare i prezzi con l'hotel."
     ],
     // GUIDA-END
@@ -529,20 +533,22 @@ export const destinazioniTanzania: Destinazione[] = [
     luoghi: [
       {
         "nome": "Kilimanjaro",
-        "testo": "Il monte più alto dell'Africa, 5.895 metri, salito in 5-9 giorni lungo vie come Machame, Lemosho, Marangu e Rongai. Nelle giornate limpide si vede anche dalla strada.",
-        "come": "Con un operatore autorizzato, guide e portatori obbligatori nel parco.",
-        "quando": "Da giugno a ottobre e da gennaio a febbraio.",
-        "tempo": "5-9 giorni",
+        "testo": "Il monte più alto dell'Africa, 5.895 metri all'Uhuru Peak. Secondo TANAPA la salita al Kibo richiede da 5 a 8 giorni secondo la via: tra le più note Machame, Lemosho, Marangu e Rongai. Nelle giornate limpide si vede anche dalla strada.",
+        "come": "Con un operatore autorizzato, con guide e portatori.",
+        "quando": "Evitare le due stagioni delle piogge, da marzo a maggio e intorno a novembre.",
+        "tempo": "5-8 giorni",
         "url": "https://www.tanzaniaparks.go.tz/kilimanjaro",
-        "consiglio": "Più giorni significa più acclimatamento e più probabilità di arrivare in cima."
+        "consiglio": "Più giorni significa più acclimatamento e più probabilità di arrivare in cima.",
+        "costo": "Ingresso TANAPA 70 $ per gli adulti stranieri e 20 $ per i bambini, secondo il sito ufficiale (2026); chiedere all'operatore se nel preventivo ci sono tasse aggiuntive"
       },
       {
         "nome": "Parco nazionale di Arusha",
-        "testo": "Ai piedi del Monte Meru, una giornata a piedi o in auto tra foreste, laghi e giraffe.",
-        "come": "In auto da Arusha, circa un'ora.",
+        "testo": "Il parco ai piedi del Monte Meru (4.566 metri, la seconda vetta della Tanzania): la piana di «Serengeti Ndogo» con bufali, zebre e giraffe, i laghi Momella con ippopotami e uccelli acquatici, e le passeggiate con un ranger.",
+        "come": "In auto da Arusha; le camminate si organizzano a uno dei due cancelli.",
         "quando": "Mattina.",
         "tempo": "Una giornata",
-        "url": "https://www.tanzaniaparks.go.tz/arusha"
+        "url": "https://www.tanzaniaparks.go.tz/arusha",
+        "costo": "Ingresso TANAPA 70 $ per gli adulti stranieri e 20 $ per i bambini, secondo il sito ufficiale (2026); chiedere all'operatore se nel preventivo ci sono tasse aggiuntive"
       },
       {
         "nome": "Cascate di Materuni e caffè",

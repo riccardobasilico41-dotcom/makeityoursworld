@@ -46,11 +46,11 @@ export const destinazioniSpagna: Destinazione[] = [
         "nome": "Catedral de Sevilla y Giralda",
         "testo": "La catedral gótica más grande del mundo, construida tras la Reconquista sobre el solar de la gran mezquita almohade. Dentro está el monumento funerario de Cristóbal Colón. El campanario, la Giralda, es el antiguo alminar: se sube por una rampa y no por escaleras, y desde arriba se ven los tejados y el Alcázar.",
         "come": "Está en pleno centro, a pie desde Santa Cruz o la Plaza Nueva. La entrada única incluye catedral y Giralda: la visita empieza por la torre, que tiene un control de acceso aparte.",
-        "quando": "De lunes a sábado aproximadamente de 10:45 a 18:00, domingo desde media tarde hasta las 19:00 (horarios 2026, pueden cambiar por cultos: consultar el calendario de la web). Mejor a la apertura.",
-        "tempo": "Unos 75 minutos, 2 horas con calma",
-        "costo": "13 euros online, 14 euros en taquilla (2026)",
+        "quando": "De lunes a sábado de 10:45 a 18:00 (taquilla hasta las 17), domingo de 14:30 a 19:00 (taquilla hasta las 18); horarios 2026, que cambian por cultos y actos: consultar el calendario de la web. Mejor a la apertura.",
+        "tempo": "unos 75 minutos, 2 horas con calma",
+        "costo": "13 euros online, 14 euros en taquilla (desde el 1 de enero de 2026); la entrada incluye también la iglesia del Salvador",
         "url": "https://www.catedraldesevilla.es/",
-        "consiglio": "Comprar la entrada online la tarde anterior: en primavera la cola en taquilla puede costar una hora."
+        "consiglio": "Comprar la entrada online la noche antes: en primavera la cola de taquilla es larga. La visita empieza por la Giralda, así que conviene subir enseguida, con las piernas frescas."
       },
       {
         "nome": "Real Alcázar",
@@ -66,22 +66,22 @@ export const destinazioniSpagna: Destinazione[] = [
         "nome": "Barrio de Santa Cruz",
         "testo": "El antiguo barrio judío, entre la catedral y los jardines de Murillo. Callejuelas estrechas, balcones de hierro, plazuelas con naranjos y patios que se entrevén desde las rejas.",
         "come": "A pie, justo detrás del Alcázar. No hay recorrido fijo: conviene entrar por la calle Judería y salir por el otro lado.",
-        "quando": "A las 8-9 de la mañana está vacío y fresco; después de las 11 se llena de grupos.",
+        "quando": "A primera hora está vacío y fresco; a media mañana se llena de grupos.",
         "tempo": "1-2 horas",
         "consiglio": "Volver por la noche, después de cenar: las callejuelas se vacían y las plazuelas están iluminadas."
       },
       {
         "nome": "Plaza de España y Parque de María Luisa",
         "testo": "Semicírculo monumental construido para la Exposición Iberoamericana de 1929, con un canal, puentes y una serie de alcobas de cerámica, una por provincia española. El parque contiguo es el gran pulmón verde de la ciudad.",
-        "come": "A pie en 20 minutos desde la catedral, o en un breve paseo en bici por el parque. Entrada libre.",
+        "come": "A pie desde la catedral, o en bici por el parque. Entrada libre.",
         "quando": "A primera hora o al atardecer. En las horas centrales del verano no hay sombra.",
         "tempo": "1 hora, más el parque",
-        "consiglio": "Quien quiera fotos sin gente debe llegar justo antes de las 9."
+        "consiglio": "Quien quiera fotos sin gente, que llegue temprano. Los bancos de cerámica están ordenados por provincias en orden alfabético: buscar la favorita es un pequeño juego."
       },
       {
         "nome": "Triana",
         "testo": "El barrio al otro lado del Guadalquivir, históricamente de alfareros, marineros y gitanos. Es una de las cunas del flamenco. Hoy tiene un mercado cubierto, talleres de azulejos y bares en la calle Betis, frente al río.",
-        "come": "Se cruza el Puente de Isabel II (Puente de Triana) a pie desde el centro en 10-15 minutos.",
+        "come": "Se cruza a pie el Puente de Isabel II (Puente de Triana) desde el centro.",
         "quando": "El mercado funciona sobre todo por la mañana. Por la noche la calle Betis está llena de gente y el río da la vista sobre la Torre del Oro.",
         "tempo": "2-3 horas",
         "consiglio": "Comer aquí en lugar de en el centro: los bares cuestan menos y los clientes son sobre todo del barrio."
@@ -89,15 +89,15 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Flamenco en un tablao",
         "testo": "El flamenco se ve mejor en locales pequeños, donde los músicos tocan a pocos metros del público y sin amplificación. Cantaor, guitarrista y bailaor se responden: es un espectáculo que se sigue sin entender las palabras.",
-        "come": "Se reserva plaza por teléfono o en la web del local, con unos días de antelación. Los espectáculos duran aproximadamente una hora. El Museo del Baile Flamenco, en Santa Cruz, también organiza veladas.",
-        "quando": "Espectáculos casi todos los días, normalmente de 19:00 a 21:00. Comprobar la programación semanal.",
+        "come": "Se reserva plaza en la web o por teléfono del local, con unos días de antelación. El Museo del Baile Flamenco, en Santa Cruz, también organiza veladas.",
+        "quando": "Espectáculos casi todos los días, con horarios que cambian según el local: consultar la programación semanal.",
         "tempo": "1-1 hora y media",
         "consiglio": "Sentarse en las primeras filas y preguntar al local si el programa es acústico: evita los grandes espectáculos para grupos."
       },
       {
         "nome": "Metropol Parasol (Las Setas) y Casa de Pilatos",
-        "testo": "Las Setas es una gran estructura de madera con pasarela panorámica sobre la Plaza de la Encarnación, abierta en 2011 sobre un yacimiento arqueológico romano. La Casa de Pilatos es un palacio nobiliario de estilo mudéjar y renacentista, menos visitado que el Alcázar pero con patios parecidos.",
-        "come": "A pie desde el centro, unos 10 minutos desde la Plaza Nueva hasta Las Setas y 10 desde el lado opuesto hasta la Casa de Pilatos.",
+        "testo": "Las Setas es una gran estructura de madera sobre la Plaza de la Encarnación, terminada en 2011, con terrazas panorámicas arriba y, debajo, un museo con restos romanos y andalusíes hallados en la excavación. La Casa de Pilatos es un palacio nobiliario de estilo mudéjar y renacentista, menos visitado que el Alcázar pero con patios parecidos.",
+        "come": "A pie desde el centro: Las Setas al norte de la calle Sierpes, la Casa de Pilatos hacia el este.",
         "quando": "Las Setas al atardecer, la Casa de Pilatos por la mañana. Consultar horarios en las webs de los gestores.",
         "tempo": "1 hora cada una",
         "consiglio": "Si el Alcázar está agotado para la fecha elegida, la Casa de Pilatos es la alternativa más cercana para ver un palacio mudéjar."
@@ -128,7 +128,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "titolo": "3 días",
         "tappe": [
           "Días 1 y 2: como arriba.",
-          "Día 3, mañana: excursión a Córdoba en tren AVE, unos 45 minutos, para ver la Mezquita.",
+          "Día 3, mañana: excursión a Córdoba en AVE, en menos de una hora, para la Mezquita.",
           "Día 3, tarde: regreso a Sevilla y último paseo por el parque de María Luisa o por Santa Cruz de noche."
         ]
       }
@@ -142,12 +142,12 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Triana",
         "perChi": "Quien prefiere un barrio vivo y menos turístico",
-        "testo": "Cuesta un poco menos y tiene más bares frecuentados por vecinos. El centro queda a 10-15 minutos a pie cruzando el puente. El ruido de los locales junto al río por la noche puede llegar a las habitaciones más cercanas."
+        "testo": "Cuesta algo menos y tiene más bares de vecinos. Al centro se llega a pie cruzando el puente. El ruido de los locales de la orilla por la noche puede llegar a las habitaciones más cercanas."
       },
       {
         "nome": "Alameda de Hércules y la Macarena",
         "perChi": "Quien viaja con presupuesto ajustado o le gusta la vida nocturna",
-        "testo": "Barrio más joven, con bares, locales alternativos y precios contenidos. Está a 15-20 minutos a pie de la catedral. El fin de semana la plaza es ruidosa hasta tarde."
+        "testo": "Barrio más joven, con bares, locales alternativos y precios contenidos, al norte del centro y a pie desde la catedral. El fin de semana la plaza es ruidosa hasta tarde."
       }
     ],
     sapori: [
@@ -176,7 +176,7 @@ export const destinazioniSpagna: Destinazione[] = [
       "Mujeres que ofrecen ramitas de romero delante de la catedral: leen la mano o bendicen y luego piden dinero. Basta decir que no y no coger la ramita.",
       "Carteristas en las zonas concurridas: catedral, Santa Cruz, Plaza de España y tranvías. Llevar el bolso por delante y el móvil en un bolsillo interior.",
       "Entradas del Real Alcázar, la catedral y la Giralda: comprarlas solo en las webs oficiales. Los revendedores cobran recargos, y en Semana Santa y en la Feria de Abril las fechas se agotan con antelación.",
-      "Calor de junio a septiembre: las horas entre las 13 y las 18 se pasan en interiores. Llevar agua y gorra.",
+      "Calor de junio a septiembre: las horas centrales de la tarde se pasan a cubierto. Llevar agua y sombrero.",
       "Tablaos: desconfiar de quien para por la calle con folletos de descuento. Reservar directamente con el local."
     ],
     esperienzeSlugs: ['flamenco-triana', 'tapeo-siviglia'],
@@ -226,7 +226,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Alhambra y Generalife",
         "testo": "Ciudadela de los sultanes nazaríes en la colina de la Sabika: los Palacios Nazaríes con yeserías y techos de mocárabes, la Alcazaba militar, el palacio renacentista de Carlos V y los jardines del Generalife. El Patio de los Leones y la Sala de las Dos Hermanas son los puntos más conocidos.",
-        "come": "A pie cuesta arriba desde el centro (25-30 minutos) o en minibús urbano. La entrada es con billete nominal y para los Palacios Nazaríes vale la franja horaria impresa: llegar con antelación, no tarde. Hacen falta documento y confirmación.",
+        "come": "A pie cuesta arriba desde el centro o en minibús urbano. La entrada es con billete nominal y para los Palacios Nazaríes vale la franja horaria impresa: llegar con antelación, no tarde. Hacen falta documento y confirmación.",
         "quando": "Abierta todos los días: de 8:30 a 20 h del 1 de abril al 14 de octubre y de 8:30 a 18 h del 15 de octubre al 31 de marzo. Cerrada el 25 de diciembre y el 1 de enero. Las entradas se compran en el canal oficial (online, por teléfono o en los cajeros) y en temporada alta se agotan con semanas de antelación.",
         "tempo": "3-4 horas, media jornada para verlo todo",
         "costo": "22,27 euros la Alhambra General diurna, más una comisión en la compra online (2026)",
@@ -244,7 +244,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Mirador de San Nicolás",
         "testo": "El mirador más conocido de Granada: delante se abre la Alhambra y detrás las cumbres de Sierra Nevada. Al atardecer se llena de gente, con músicos y vendedores.",
-        "come": "Subida a pie de unos 20 minutos desde la Plaza Nueva, o con el minibús C31 desde el centro. Entrada libre.",
+        "come": "Subida a pie desde la Plaza Nueva, o con el minibús urbano que sube al Albaicín. Entrada libre.",
         "quando": "Al atardecer. Como alternativa, al amanecer, casi sin gente.",
         "tempo": "30-60 minutos",
         "consiglio": "Quien busque la misma vista con menos gente puede subir al cercano Mirador de San Cristóbal o al Carmen de los Mártires."
@@ -261,14 +261,14 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Sacromonte y Museo Cuevas del Sacromonte",
         "testo": "El barrio de casas-cueva en la colina frente a la Alhambra, habitado históricamente por la comunidad gitana. Aquí nació la zambra, un flamenco más ritual y de grupo, que se ve en algunas cuevas.",
-        "come": "A pie por el Camino del Sacromonte desde el Albaicín, o en el minibús C34. El camino es largo y en cuesta.",
+        "come": "A pie por el Camino del Sacromonte desde el Albaicín, o en minibús urbano. El camino es largo y en cuesta.",
         "quando": "Espectáculos por la noche. De día se visita el museo y se pasea por el paisaje de las cuevas.",
         "tempo": "2-3 horas, más la noche para un espectáculo",
         "consiglio": "Antes de reservar una zambra, leer reseñas recientes: los espectáculos muy turísticos cuestan igual que los serios."
       },
       {
         "nome": "Alcaicería y Corral del Carbón",
-        "testo": "La Alcaicería era el antiguo mercado de la seda nazarí: hoy es un laberinto de tiendas para turistas. El Corral del Carbón, al lado, es una alhóndiga del siglo XIV, uno de los pocos edificios civiles moriscos que quedan en España.",
+        "testo": "La Alcaicería era el antiguo mercado de la seda nazarí: hoy es un laberinto de tiendas para turistas. El Corral del Carbón, al lado, es una alhóndiga de principios del siglo XIV, almacén y posada para mercaderes: la única de época nazarí que se conserva en la península ibérica.",
         "come": "A pie, a pocos pasos de la catedral. La entrada al Corral es libre en horario de apertura.",
         "quando": "Por la mañana, cuando abren las tiendas y las calles están más libres.",
         "tempo": "30-45 minutos",
@@ -299,7 +299,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "titolo": "3 días",
         "tappe": [
           "Días 1 y 2: como arriba.",
-          "Día 3: excursión a Sierra Nevada (en invierno esquí a una hora en coche) o a las Alpujarras, con pueblos blancos en la vertiente sur de la cordillera."
+          "Día 3: excursión a Sierra Nevada (en invierno para esquiar) o a las Alpujarras, con pueblos blancos en la vertiente sur de la sierra."
         ]
       }
     ],
@@ -317,7 +317,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Realejo",
         "perChi": "Quien quiere un barrio de vida local, más económico",
-        "testo": "A los pies de la Alhambra, con bares frecuentados por universitarios y precios bajos. El centro está a 10-15 minutos a pie y la subida hacia la colina empieza enseguida."
+        "testo": "Al pie de la Alhambra, con bares de universitarios y precios bajos. El centro está a un paso y la subida a la colina empieza enseguida."
       }
     ],
     sapori: [
@@ -404,7 +404,7 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Judería y Calleja de las Flores",
-        "testo": "El antiguo barrio judío, detrás de la Mezquita: callejuelas blancas y estrechas, patios con flores y la pequeña Calleja de las Flores que se abre hacia la torre del campanario. Aquí está también la sinagoga del siglo XIV, una de las tres que quedan en España.",
+        "testo": "La antigua judería, detrás de la Mezquita: callejuelas blancas y estrechas, patios con flores y la pequeña Calleja de las Flores que se abre hacia la torre campanario. Aquí está también la sinagoga terminada en 1315, la única de Córdoba que se salvó de la destrucción.",
         "come": "A pie, empezando por la Puerta de Almodóvar. No hay recorrido obligado.",
         "quando": "A primera hora o a última de la tarde. A mediodía en verano las callejuelas retienen el calor.",
         "tempo": "1-2 horas",
@@ -412,15 +412,15 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Alcázar de los Reyes Cristianos",
-        "testo": "Fortaleza-palacio construida por Alfonso XI en el siglo XIV y usada por los Reyes Católicos. Dentro hay mosaicos romanos, baños y jardines en terrazas con fuentes y cítricos, que se ven bien desde las torres.",
-        "come": "A pie desde la Mezquita, 5 minutos hacia el río. Se suben las torres para ver la ciudad.",
+        "testo": "Fortaleza-palacio levantada sobre los restos de las omeya y almohade y reformada por Alfonso XI, con obras terminadas en 1328. Los Reyes Católicos fueron los últimos monarcas que residieron en ella. Dentro está el Salón de los Mosaicos, con mosaicos romanos de los siglos II y III; fuera, jardines en terrazas con fuentes y cítricos, que se ven bien desde las torres.",
+        "come": "A pie desde la Mezquita, hacia el río. Se suben las torres para ver la ciudad.",
         "quando": "Comprobar horarios y días de cierre en la web del monumento. En verano, mejor por la mañana.",
         "tempo": "1-1 hora y media",
         "consiglio": "Los jardines son la única sombra donde sentarse después de la Mezquita."
       },
       {
         "nome": "Puente Romano y Torre de la Calahorra",
-        "testo": "Puente de 16 arcos sobre el Guadalquivir, de origen romano y reconstruido varias veces. Desde la orilla opuesta se tiene la vista clásica de la Mezquita. La torre de la Calahorra, en el extremo, alberga un museo.",
+        "testo": "Puente de origen romano sobre el Guadalquivir, reconstruido varias veces: hoy tiene 16 arcos y es peatonal desde 2004. Durante dos mil años fue el único puente de la ciudad. Desde la orilla opuesta se tiene la vista clásica de la Mezquita. La torre de la Calahorra, en el extremo sur, alberga un museo.",
         "come": "A pie, a un paso de la Mezquita. El puente es solo peatonal.",
         "quando": "Al atardecer o de noche, cuando la Mezquita está iluminada.",
         "tempo": "30-45 minutos",
@@ -465,7 +465,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Centro alrededor de Plaza de las Tendillas",
         "perChi": "Quien busca precios más bajos y vida nocturna",
-        "testo": "Zona comercial y de bares, a 10 minutos a pie de la Mezquita. Las habitaciones del lado de la calle pueden ser ruidosas el fin de semana."
+        "testo": "Zona comercial y de bares, a pie desde la Mezquita. Las habitaciones que dan a la calle pueden ser ruidosas el fin de semana."
       }
     ],
     sapori: [
@@ -488,7 +488,7 @@ export const destinazioniSpagna: Destinazione[] = [
     ],
     attenzioni: [
       "Mezquita: la franja gratuita de la mañana tiene un control de acceso que se cierra hacia las 9:20. Quien llega después debe pagar la entrada.",
-      "Verano: de mediados de julio a agosto las temperaturas superan a menudo los 40 grados. Planificar las visitas a primera hora y por la noche.",
+      "Verano: de mediados de julio a agosto las temperaturas pueden superar los 40 grados. Planificar las visitas a primera hora y por la tarde-noche.",
       "Vendedores de romero delante de la Mezquita y en la Judería: piden dinero tras ponértelo en la mano. Decir que no.",
       "Mayo, fiesta de los patios: alojamientos y trenes se llenan con semanas de antelación, reservar pronto."
     ],
@@ -535,7 +535,7 @@ export const destinazioniSpagna: Destinazione[] = [
     luoghi: [
       {
         "nome": "Puente Nuevo y el Tajo",
-        "testo": "El puente de piedra terminado en 1793 salva la garganta del Tajo, de más de 100 metros de profundidad, y une la ciudad morisca con el barrio nuevo. Se puede cruzar a pie y mirarlo desde abajo, por los senderos de los miradores.",
+        "testo": "El puente de piedra terminado en 1793 salva el Tajo, de unos 120 metros de profundidad, y une la ciudad morisca con el barrio nuevo. Se camina por encima y se mira desde abajo, desde los senderos de los miradores.",
         "come": "A pie desde el centro, el puente está en pleno pueblo. Para verlo desde abajo se baja por el sendero del Camino de los Molinos, en el lado sur, o por el Mirador de Aldehuela.",
         "quando": "Entrada libre en el puente. El mejor momento es el atardecer, con luz baja sobre la garganta.",
         "tempo": "1-2 horas",
@@ -543,8 +543,8 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Plaza de Toros",
-        "testo": "La plaza de toros de Ronda, de 1785, es de las más antiguas de España y sede de la escuela de tauromaquia moderna de Pedro Romero. Dentro hay un pequeño museo con trajes y carteles. También se puede entrar como simple lugar arquitectónico, sin asistir a corridas.",
-        "come": "A pie desde el Puente Nuevo, 5 minutos hacia el barrio del Mercadillo.",
+        "testo": "La plaza de Ronda, inaugurada en 1785, es una de las primeras construidas enteramente en piedra y está ligada a la familia Romero, sobre todo a Pedro Romero, uno de los padres del toreo a pie. Dentro hay un museo de trajes y armas. Se puede visitar como simple obra de arquitectura, sin asistir a corridas.",
+        "come": "A pie desde el Puente Nuevo, hacia el barrio del Mercadillo.",
         "quando": "Comprobar horarios y días de apertura en la web del gestor; cambian según la temporada.",
         "tempo": "1 hora",
         "consiglio": "Quien no quiera el tema taurino puede mirar solo la arquitectura y las caballerizas."
@@ -559,8 +559,8 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Setenil de las Bodegas",
-        "testo": "Pueblo blanco a media hora de carretera de Ronda, con casas y bares construidos bajo rocas que sobresalen sobre el río. Las calles más conocidas son Cuevas del Sol y Cuevas de la Sombra, con mesas a la sombra de la roca.",
-        "come": "Se llega en coche desde Ronda en unos 25-30 minutos, con curvas de montaña. El pueblo es pequeño y se recorre a pie.",
+        "testo": "Pueblo blanco cerca de Ronda, con casas y bares construidos bajo las rocas que asoman sobre el río. Las calles más conocidas son Cuevas del Sol y Cuevas de la Sombra, con mesas a la sombra de la roca.",
+        "come": "En coche desde Ronda, por una carretera de montaña con curvas. El pueblo es pequeño y se recorre a pie.",
         "quando": "Por la mañana o a mediodía para comer. Los fines de semana de verano el acceso en coche es lento.",
         "tempo": "2-3 horas",
         "consiglio": "Aparcar en los aparcamientos de las afueras, no en las calles estrechas."
@@ -595,7 +595,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Campo alrededor de Ronda",
         "perChi": "Quien viaja en coche y busca silencio",
-        "testo": "Agroturismos y cortijos entre olivares y viñedos, a 10-15 minutos de carretera del pueblo. Hace falta coche para cenar fuera."
+        "testo": "Casas rurales y cortijos entre olivares y viñas, a poca distancia en coche del pueblo. Hace falta el coche para cenar fuera."
       }
     ],
     sapori: [
@@ -620,7 +620,7 @@ export const destinazioniSpagna: Destinazione[] = [
       "Carreteras de montaña hacia Setenil y Grazalema: curvas cerradas y poca visibilidad. Conducir despacio y ceder el paso a vehículos más grandes.",
       "Aparcamiento en Ronda y en los pueblos: las zonas azules son de pago y las multas son frecuentes. Usar los aparcamientos cubiertos fuera del centro.",
       "Viento fuerte sobre la garganta en invierno: por el sendero y en los miradores mantenerse lejos del borde.",
-      "Grupos de un día desde Sevilla y la Costa del Sol: entre las 11 y las 16 el centro está lleno. Quien duerme en Ronda tiene mañanas y noches casi vacías."
+      "Grupos de excursión desde Sevilla y la Costa del Sol: en las horas centrales el centro está lleno. Quien duerme en Ronda tiene la mañana y la noche casi vacías."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['andalusia-itinerario'],
@@ -679,15 +679,15 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Playa de la Concha y Paseo de la Concha",
         "testo": "La playa urbana en forma de concha, con la barandilla blanca del paseo marítimo. Las aguas están protegidas por la isla de Santa Clara y el fondo es poco profundo.",
-        "come": "A pie desde el centro; el paseo desde la Parte Vieja hasta el Peine del Viento mide unos 3 km.",
+        "come": "A pie desde el centro: el paseo va de la Parte Vieja hasta el final de la bahía, hacia el Peine del Viento.",
         "quando": "Para bañarse, de junio a septiembre. La marea alta estrecha mucho la playa.",
         "tempo": "1-3 horas",
         "consiglio": "Comprobar las mareas: con marea baja la playa se duplica."
       },
       {
         "nome": "Monte Igueldo",
-        "testo": "La colina al oeste de la bahía, con un parque de atracciones y un mirador. Se sube en un funicular de 1912, de los más antiguos del país.",
-        "come": "Funicular desde la base, a la que se llega en autobús urbano desde el centro. Como alternativa, a pie, en unos 40 minutos.",
+        "testo": "El monte al oeste de la bahía, con un parque de atracciones y un mirador. Se sube con el funicular inaugurado en 1912, el más antiguo del País Vasco.",
+        "come": "Funicular desde la base, a la que se llega en autobús urbano desde el centro. También se puede subir a pie.",
         "quando": "Al atardecer. Comprobar la temporada y los horarios del funicular en la web oficial.",
         "tempo": "1-1 hora y media",
         "consiglio": "Subir hacia la hora del atardecer y bajar a pie por la carretera panorámica."
@@ -702,7 +702,7 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Peine del Viento",
-        "testo": "Escultura de acero de Eduardo Chillida (1977) anclada a las rocas al final de La Concha. Tres elementos de metal se proyectan sobre el mar y, con olas altas, chorros de agua salen de orificios en el suelo.",
+        "testo": "Tres esculturas de acero de Eduardo Chillida ancladas a las rocas al final de la bahía. Se asoman al mar y, con olas altas, el aire y el agua salen por los orificios del suelo de la plazoleta.",
         "come": "A pie desde La Concha, al final del paseo, o en autobús hasta Ondarreta.",
         "quando": "Con mar movido o con marea alta, cuando las salpicaduras se notan más.",
         "tempo": "30 minutos",
@@ -710,7 +710,7 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Getaria y Zarautz",
-        "testo": "Dos pueblos de la costa, a 20-25 minutos de San Sebastián. Getaria es conocida por el pescado a la brasa (rodaballo) y el vino txakoli, Zarautz por su larga playa y el surf.",
+        "testo": "Dos pueblos de la costa al oeste de San Sebastián. Getaria es conocida por el pescado a la brasa (rodaballo) y el txakoli, Zarautz por su playa larga y el surf.",
         "come": "Lurraldebus desde la estación de autobuses de San Sebastián o tren regional a Zarautz. Se hace en media jornada.",
         "quando": "Todo el año. En Getaria el pescado a la brasa se come a mediodía.",
         "tempo": "Media jornada",
@@ -755,12 +755,12 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Centro (Área Romántica)",
         "perChi": "Quien busca comodidad y tiendas",
-        "testo": "Barrio decimonónico entre La Concha y el Boulevard, a 5-10 minutos de la Parte Vieja. Más tranquilo que la zona vieja, con precios medios."
+        "testo": "Barrio decimonónico entre la Concha y el Boulevard, a un paso de la Parte Vieja. Más tranquilo que la zona vieja, con precios medios."
       },
       {
         "nome": "Gros",
         "perChi": "Quien ama el surf y quiere menos turistas",
-        "testo": "Al otro lado del río Urumea, cerca de la playa de Zurriola. Bares y pintxos a precios más bajos, a 15 minutos a pie del casco viejo."
+        "testo": "Al otro lado del río Urumea, junto a la playa de Zurriola. Bares y pintxos más baratos, a pie desde la parte vieja cruzando el puente."
       }
     ],
     sapori: [
@@ -837,7 +837,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Museo Guggenheim Bilbao",
         "testo": "El museo de Frank Gehry, abierto en 1997, todo de titanio, cristal y piedra caliza, a orillas del Nervión. Fuera están «Puppy» de Jeff Koons, cubierto de flores, y «Maman», la araña de Louise Bourgeois. Dentro se alternan exposiciones temporales y una colección de arte contemporáneo, con «La materia del tiempo» de Richard Serra.",
-        "come": "Metro hasta Moyúa, luego 10 minutos a pie, o tranvía hasta Guggenheim. También se puede visitar solo el exterior, que es libre, con el paseo junto al río.",
+        "come": "Metro hasta Moyúa y luego a pie, o tranvía hasta la parada Guggenheim. Se puede ver solo el exterior, que es libre, con el paseo junto a la ría.",
         "quando": "De martes a domingo de 10 a 19 h; hasta las 20 h en Semana Santa y del 15 de junio al 13 de septiembre. Cerrado los lunes, salvo algunas aperturas extraordinarias, entre ellas los lunes de verano. Cerrado el 25 de diciembre y el 1 de enero. A primera hora de la mañana la luz sobre el titanio es mejor.",
         "tempo": "2-3 horas dentro, 30 minutos el exterior",
         "costo": "12 euros la entrada general, gratis para menores de 18 (tarifa de la web oficial en noviembre de 2026: cambia según la temporada y las exposiciones)",
@@ -854,7 +854,7 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Mercado de la Ribera",
-        "testo": "El mercado cubierto junto al río, de estilo racionalista y Art Déco, entre los más grandes de Europa. Puestos de pescado, carne y fruta y una planta superior con pintxos.",
+        "testo": "El mercado cubierto junto a la ría, inaugurado en 1929, de estilo racionalista con decoración art déco: uno de los mayores mercados cubiertos de Europa. Puestos de pescado, carne, fruta y una zona de pintxos.",
         "come": "A pie desde el Casco Viejo, a pocos minutos, a orillas del Nervión.",
         "quando": "Por la mañana para los puestos. Comprobar horarios en fines de semana y festivos.",
         "tempo": "1 hora",
@@ -862,8 +862,8 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Puente de Vizcaya (Portugalete)",
-        "testo": "Puente transbordador de 1893, aún en funcionamiento, patrimonio UNESCO. Una barquilla colgante transporta personas y coches de una orilla a otra de la ría en pocos minutos. También se puede subir a la pasarela alta.",
-        "come": "Metro línea 2 hasta Areeta (Getxo) o Portugalete. Desde el centro de Bilbao unos 30 minutos.",
+        "testo": "Puente transbordador de 1893, todavía en funcionamiento y patrimonio UNESCO desde 2006. Una barquilla colgante lleva personas y coches de una orilla a otra de la ría en pocos minutos. Con los ascensores de las torres se sube a la pasarela superior.",
+        "come": "Metro línea 1 hasta Areeta (Getxo) o línea 2 hasta Portugalete, una por cada orilla.",
         "quando": "Funciona todo el año; comprobar horarios y precios del transbordo y de la pasarela.",
         "tempo": "1-2 horas",
         "url": "https://puente-colgante.com/",
@@ -937,7 +937,7 @@ export const destinazioniSpagna: Destinazione[] = [
     attenzioni: [
       "Guggenheim: comprobar días de cierre y precios antes de ir. Las tarifas cambian según la temporada.",
       "Lluvia frecuente todo el año: llevar un impermeable ligero.",
-      "Casco Viejo los fines de semana y en fiestas (Aste Nagusia, a finales de agosto): lleno de gente y posibles robos de carteristas.",
+      "Casco Viejo los fines de semana y durante la Aste Nagusia, la fiesta de agosto: lleno de gente y posibles carteristas.",
       "Metro y tranvía: validar el billete o la tarjeta recargable a la entrada."
     ],
     esperienzeSlugs: ['guggenheim-bilbao'],
@@ -985,17 +985,17 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Catedral de Santiago de Compostela",
         "testo": "Meta de los peregrinos desde hace once siglos, guarda según la tradición las reliquias del apóstol Santiago. Dentro están el Pórtico de la Gloria románico, la cripta con la urna y el botafumeiro, el gran incensario que oscila por el crucero en algunas celebraciones. Desde la Plaza del Obradoiro se ve la fachada barroca.",
-        "come": "A pie desde el casco histórico, totalmente peatonal. La entrada a la catedral es libre; museos, cubiertas y Pórtico requieren entrada aparte.",
-        "quando": "Misa del peregrino a mediodía. El botafumeiro no oscila en todas las misas: consultar el calendario en la web de la catedral.",
+        "come": "A pie desde el casco histórico, totalmente peatonal. Museo, Pórtico de la Gloria y visitas guiadas se reservan aparte en la web de la catedral.",
+        "quando": "Desde el 16 de octubre de 2026, hasta nuevo aviso, las misas del peregrino se celebran en la iglesia de San Agustín (9:30, 12:00 y 19:30) por las obras en la capilla mayor; la de las 7:30 sigue en la catedral. El botafumeiro no se balancea en todas las misas: consultar la web de la catedral.",
         "tempo": "1-2 horas",
         "url": "https://www.catedraldesantiago.es/",
-        "consiglio": "Llegar media hora antes de la misa del peregrino para sentarse; después, quedarse en la plaza viendo las llegadas."
+        "consiglio": "Llegar con antelación a la misa del peregrino para sentarse; después, quedarse en la Praza do Obradoiro viendo las llegadas."
       },
       {
         "nome": "Oficina del Peregrino",
-        "testo": "Aquí se recoge la Compostela, el certificado de peregrinación, presentando la credencial sellada. Para obtenerla hacen falta los últimos 100 km a pie o 200 en bici.",
-        "come": "A pocos minutos a pie de la catedral, en la Rúa das Carretas.",
-        "quando": "Abierta todos los días, con colas largas en verano. Consultar los horarios oficiales.",
+        "testo": "Aquí se recoge la Compostela, el certificado de peregrinación, presentando la credencial sellada. Hacen falta al menos los últimos 100 km continuos a pie o a caballo, o 200 km en bici; quien hace solo el mínimo debe sellar al inicio y al final de cada etapa, con la fecha.",
+        "come": "A pocos minutos a pie de la catedral, en la Rúa das Carretas 33. Se coge un número con código QR que muestra la cola en tiempo real.",
+        "quando": "Todos los días de 10 a 19 h, cerrado el 25 de diciembre y el 1 de enero. En temporada alta no se garantiza la recogida en el mismo día.",
         "tempo": "30 minutos-2 horas, según la cola",
         "url": "https://oficinadelperegrino.com/",
         "consiglio": "Ir a primera hora de la tarde o a primera de la mañana, cuando la fila es más corta."
@@ -1010,7 +1010,7 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Camino del Norte: tramo San Sebastián-Bilbao",
-        "testo": "El Camino del Norte sigue la costa cantábrica de Irún a Santiago. El tramo vasco tiene subidas continuas entre acantilados y bosques, con etapas de 20-25 km. Quien tenga pocos días puede hacer una sola etapa, por ejemplo San Sebastián-Zarautz.",
+        "testo": "El Camino del Norte sigue la costa cantábrica de Irún a Santiago. El tramo vasco sube sin parar entre acantilados y bosques, con etapas largas. Quien tiene pocos días puede hacer una sola etapa, por ejemplo San Sebastián-Zarautz.",
         "come": "Salida desde las estaciones de San Sebastián o Bilbao. Las señales son flechas amarillas y conchas. Se usa el autobús o el tren para volver.",
         "quando": "De mayo a septiembre. En invierno llueve mucho y los días son cortos.",
         "tempo": "Una etapa son 5-7 horas a pie",
@@ -1018,10 +1018,10 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Fisterra y Muxía",
-        "testo": "Tras Santiago muchos peregrinos continúan durante tres o cuatro días hasta Fisterra, en la costa atlántica, y a Muxía. Fisterra era el fin del mundo para los romanos, con faro y acantilado.",
-        "come": "A pie desde Santiago en unos 3-4 días, o en autobús desde la estación de Santiago (unas 2 horas).",
+        "testo": "Tras Santiago muchos peregrinos siguen a pie unos días hasta Finisterre, en la costa atlántica, y Muxía. Para los romanos Finisterre era el «fin del mundo»: hoy hay un faro sobre el acantilado.",
+        "come": "A pie desde Santiago en unos días, o en autobús desde la estación de Santiago.",
         "quando": "Verano. Al atardecer en el faro se detienen los que caminan.",
-        "tempo": "Una jornada desde Santiago en autobús, 3-4 días a pie",
+        "tempo": "un día desde Santiago en autobús, varios días a pie",
         "consiglio": "Comprobar los horarios del autobús en el periodo elegido, porque cambian según la temporada."
       }
     ],
@@ -1031,7 +1031,7 @@ export const destinazioniSpagna: Destinazione[] = [
         "tappe": [
           "9:00 Plaza del Obradoiro y Pórtico de la Gloria.",
           "11:00 Catedral y cripta.",
-          "12:00 Misa del peregrino.",
+          "12:00 Misa del peregrino (hasta nuevo aviso en la iglesia de San Agustín).",
           "14:00 Comida con pulpo y pimientos de Padrón.",
           "16:00 Oficina del Peregrino si se ha llegado a pie.",
           "18:00 Paseo por el casco histórico y el parque de la Alameda."
@@ -1063,7 +1063,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Ensanche y alrededores de la estación",
         "perChi": "Quien llega en tren o autobús y busca costes menores",
-        "testo": "A 10-15 minutos a pie del centro. Zona más tranquila, con hoteles y pensiones."
+        "testo": "A pie desde el centro, pero fuera de la zona monumental. Zona más tranquila, con hoteles y pensiones."
       }
     ],
     sapori: [
@@ -1091,9 +1091,9 @@ export const destinazioniSpagna: Destinazione[] = [
     attenzioni: [
       "Lluvia frecuente en Galicia en todas las estaciones: poncho, calzado impermeable y muda de calcetines.",
       "Albergue en los meses de punta (junio-septiembre): reservar con antelación en los pueblos pequeños.",
-      "Credencial del peregrino: sellarla al menos dos veces al día en los últimos 100 km para obtener la Compostela.",
+      "Credencial del peregrino: quien hace solo los 100 km mínimos debe sellarla al inicio y al final de cada etapa, con la fecha, para obtener la Compostela.",
       "Camino del Norte: subidas continuas y tramos de sendero costero expuesto. No subestimar el desnivel.",
-      "Catedral: las visitas a las cubiertas y museos requieren reserva; consultar la web oficial."
+      "Catedral: museo, Pórtico de la Gloria y visitas guiadas se reservan en la web oficial; desde octubre de 2026 hay obras en la capilla mayor."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['spagna-nord-itinerario'],
@@ -1193,8 +1193,8 @@ export const destinazioniSpagna: Destinazione[] = [
     luoghi: [
       {
         "nome": "Cattedrale di Palma (La Seu)",
-        "testo": "Catedral gótica iniciada en 1229 justo frente al mar, con uno de los rosetones más grandes del gótico europeo. Dentro están el baldaquino de Antoni Gaudí sobre el altar y la intervención de Miquel Barceló en la capilla del Santísimo.",
-        "come": "A pie desde el centro de Palma, frente al Parc de la Mar. Se entra por el lado de la Plaça de la Seu y la audioguía va incluida en la entrada.",
+        "testo": "Catedral gótica iniciada en 1229, tras la conquista de Jaime I, y terminada en 1601, sobre el mismo paseo marítimo. Su rosetón, de unos 13 metros de diámetro, es el mayor rosetón original de las catedrales góticas europeas. Dentro están el baldaquino de Antoni Gaudí sobre el altar y la capilla de San Pedro renovada por Miquel Barceló.",
+        "come": "A pie desde el centro de Palma, frente al Parc de la Mar. Entrada por el lado de la Plaça de la Seu.",
         "quando": "El horario cambia según la temporada y los domingos hay misas: conviene consultar el calendario en la web oficial. Por la mañana el rosetón se ve mejor.",
         "tempo": "1-1,5 horas",
         "url": "https://catedraldemallorca.org/",
@@ -1212,25 +1212,25 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Valldemossa",
         "testo": "Pueblo de piedra en una hondonada de la Serra de Tramuntana, conocido por la Cartuja donde Chopin y George Sand pasaron el invierno de 1838-39. Calles en cuesta, macetas en las ventanas y la coca de patata, el dulce local.",
-        "come": "Desde Palma, unos 25 minutos en coche por la Ma-1110, o en autobús de línea desde la estación intermodal. El pueblo se recorre a pie.",
-        "quando": "Mejor llegar temprano o al final de la tarde: entre las 11 y las 16 los autocares lo llenan.",
+        "come": "Desde Palma en coche por la Ma-1110, o en autobús de línea desde la estación intermodal. El pueblo se recorre a pie.",
+        "quando": "Llegar temprano o a última hora de la tarde: en las horas centrales llegan los autocares.",
         "tempo": "2-3 horas",
         "consiglio": "Aparcar en los aparcamientos de arriba y bajar a pie: las calles del centro son estrechas y casi siempre están llenas."
       },
       {
         "nome": "Tren de Sóller y Port de Sóller",
-        "testo": "Tren histórico de madera en servicio desde 1912: 27 kilómetros con trece túneles, el más largo de unos 3 kilómetros, hasta Sóller. Desde allí el tranvía antiguo baja al puerto, una bahía cerrada entre montañas con paseo marítimo y barcos.",
-        "come": "Sale de la estación de Plaça d'Espanya, en Palma. Desde Sóller el tranvía llega al Port de Sóller en unos 20 minutos.",
-        "quando": "El servicio para en invierno y vuelve en febrero; los horarios cambian según la temporada, así que hay que mirar la web oficial. Mejor los trenes de la mañana.",
+        "testo": "Tren de época de madera inaugurado en 1912: unos 27 kilómetros entre montañas y túneles hasta Sóller. Desde allí el tranvía histórico baja al puerto, una bahía cerrada entre montañas con paseo y barcas.",
+        "come": "Sale de la estación de la Plaça d'Espanya de Palma. Desde Sóller el tranvía lleva al Port de Sóller; el billete se compra a bordo.",
+        "quando": "El tren para en invierno: en la temporada 2026-27 del 23 de noviembre de 2026 al 1 de febrero de 2027. Los horarios cambian según la temporada, así que hay que mirar la web oficial. Mejor los trenes de la mañana.",
         "tempo": "jornada completa con el puerto",
-        "costo": "unos 30 euros ida y vuelta Palma-Sóller (2026)",
+        "costo": "30 euros ida y vuelta Palma-Sóller; tranvía Sóller-Port de Sóller 10 euros por trayecto (web oficial, 2026)",
         "url": "https://trendesoller.com/",
         "consiglio": "Comprar la entrada online con antelación en temporada alta y sentarse a la derecha en la ida para ver el valle."
       },
       {
         "nome": "Sa Calobra e Torrent de Pareis",
-        "testo": "Cala de guijarros en la desembocadura del Torrent de Pareis, un cañón con paredes de 200 metros. La carretera Ma-2141 que baja a Sa Calobra tiene una curva en nudo de corbata y es de las más fotografiadas de la isla. Un túnel lleva del muelle a la playita y al cañón.",
-        "come": "En coche por la Ma-2141 desde la Ma-10, 14 km de curvas y unos 40 minutos, o en barco desde Port de Sóller (travesía de una hora aproximadamente).",
+        "testo": "Cala de cantos rodados en la desembocadura del Torrent de Pareis, un cañón estrecho entre paredes altísimas. La carretera Ma-2141 que baja a Sa Calobra tiene una curva en bucle llamada «nudo de corbata» y es de las más fotografiadas de la isla. Un túnel lleva del muelle a la playita y al cañón.",
+        "come": "En coche por la Ma-2141 desde la Ma-10, un largo descenso todo curvas, o en barco desde el Port de Sóller.",
         "quando": "En primavera y otoño el cañón se visita con más calma. El Torrent de Pareis está cerrado o desaconsejado con lluvia y riada: mirar el tiempo.",
         "tempo": "2-3 horas",
         "url": "https://www.caib.es/",
@@ -1238,8 +1238,8 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Cap de Formentor e Pollença",
-        "testo": "La península más al norte de la isla, con acantilados verticales y un faro al final de 20 km de carretera panorámica sobre Port de Pollença. En el camino está el Mirador des Colomer. Pollença tiene una plaza central con cafés y la escalinata del Calvari, de 365 escalones.",
-        "come": "Desde Port de Pollença, 20 km en coche por la Ma-2210 hasta el faro, unos 40 minutos. De Palma a Pollença, aproximadamente una hora.",
+        "testo": "La península más al norte de la isla, con acantilados cortados a pico y un faro al final de una larga carretera panorámica sobre el Port de Pollença. Por el camino está el Mirador des Colomer. Pollença tiene una plaza mayor con bares y la larga escalinata del Calvari.",
+        "come": "Desde el Port de Pollença en coche por la Ma-2210 hacia el faro, dentro de las normas de temporada indicadas abajo. De Palma a Pollença en coche o autobús.",
         "quando": "Al atardecer por la luz sobre el faro. Del 15 de mayo al 18 de octubre (fechas de 2026), de 10 a 22 h, la carretera del faro está cerrada a los coches particulares: se sube con el bus TIB 334 desde Alcúdia y Port de Pollença o en bici. Al aparcamiento de la playa de Formentor se llega en coche hasta que se llena.",
         "tempo": "media jornada",
         "url": "https://www.dgt.es/conoce-el-estado-del-trafico/rutas-de-interes/trafico-acceso-faro-de-formentor/",
@@ -1248,14 +1248,14 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Cala Mondragó e Es Trenc",
         "testo": "Dos playas del sureste. Cala Mondragó está dentro de un parque natural, con pinar y dos calas de arena. Es Trenc es un largo arenal blanco sin edificios, con dunas y salinas detrás.",
-        "come": "En coche: Cala Mondragó está a una hora de Palma, cerca de Santanyí. Es Trenc está a unos 50 minutos de Palma, cerca de Campos. Aparcamiento de pago, que se llena pronto.",
+        "come": "En coche desde Palma: Cala Mondragó está cerca de Santanyí, Es Trenc cerca de Campos. Aparcamientos de pago, que se llenan pronto.",
         "quando": "Junio y septiembre. En julio y agosto, llegar antes de las 10.",
         "tempo": "media jornada",
-        "consiglio": "Se puede caminar por la costa de Mondragó a Cala Santanyí en un par de horas para alejarse de la playa llena."
+        "consiglio": "Desde Mondragó se puede caminar por la costa hasta Cala Santanyí si se quiere dejar la playa llena."
       },
       {
         "nome": "Un tratto del GR221 in Tramuntana",
-        "testo": "El GR221, la «Ruta de Pedra en Sec», cruza la Serra de Tramuntana en más de 100 kilómetros. Una sola etapa basta: bancales de olivos, muros de piedra seca, refugios y caminos antiguos. Un tramo sencillo es Port de Sóller a Deià por la costa.",
+        "testo": "El GR221, la «Ruta de Pedra en Sec», atraviesa por etapas toda la Serra de Tramuntana. Basta una etapa: bancales de olivos, muros de piedra seca, refugios y caminos antiguos. Un tramo sencillo es Port de Sóller-Deià por la costa.",
         "come": "Se sale de Port de Sóller o de Deià, ambos con autobús de línea desde el centro de Palma. El camino está señalizado.",
         "quando": "De octubre a mayo. En verano se sale al amanecer: pesan el calor y la falta de sombra.",
         "tempo": "3-5 horas por etapa",
@@ -1299,7 +1299,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Sóller y Port de Sóller",
         "perChi": "quien quiere montaña y mar a la vez",
-        "testo": "Un valle de cítricos con tren y tranvía. Pros: noches tranquilas, paseos. Contras: lejos de Palma (30 minutos en coche por el túnel), carreteras estrechas."
+        "testo": "Valle de naranjos con tren y tranvía. Pros: calma por la noche, excursiones a pie. Contras: lejos de Palma (se pasa por el túnel), carreteras estrechas."
       },
       {
         "nome": "Pollença y Alcúdia",
@@ -1336,7 +1336,7 @@ export const destinazioniSpagna: Destinazione[] = [
     attenzioni: [
       "El centro de Palma tiene zonas de tráfico restringido con cámaras: el hotel registra la matrícula, si no llega la multa. Usar aparcamientos públicos.",
       "En las carreteras de la Tramuntana (Ma-10, Ma-2141) hay muchas curvas y ciclistas, sobre todo en primavera: conducir despacio y no adelantar en las horquillas.",
-      "Las playas más famosas se llenan antes de las 10 en verano y el aparcamiento es de pago: salir pronto o ir en autobús.",
+      "Las playas más famosas se llenan por la mañana en verano y los aparcamientos son de pago: salir temprano o ir en autobús.",
       "Impuesto turístico (ecotasa) de unos pocos euros por noche, que se paga en el hotel y varía según la categoría.",
       "Zonas de Playa de Palma y Magaluf prohíben beber en la calle y el balconing, con multas.",
       "Carteristas en las calles concurridas del centro y en la cola de la catedral: llevar las mochilas delante."
@@ -1395,8 +1395,8 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Es Vedrà e Cala d'Hort",
-        "testo": "Es Vedrà es un islote de 382 metros frente a la costa suroeste, rodeado de leyendas. Se ve mejor desde Cala d'Hort, una playa de arena y guijarros, y desde la Torre des Savinar.",
-        "come": "En coche desde Ibiza ciudad en unos 30 minutos. Cala d'Hort tiene un aparcamiento pequeño, lleno en las tardes de verano.",
+        "testo": "Es Vedrà es un islote de 413 metros frente a la costa suroeste, rodeado de leyendas. Se ve mejor desde Cala d'Hort, una playa de arena y cantos, y desde la Torre des Savinar.",
+        "come": "En coche desde Ibiza ciudad. Cala d'Hort tiene un aparcamiento pequeño, lleno las tardes de verano.",
         "quando": "El atardecer es el momento más concurrido: llegar al menos una hora antes.",
         "tempo": "2-3 horas",
         "consiglio": "Cenar en uno de los locales de la playa y quedarse después del atardecer: la multitud se va."
@@ -1404,7 +1404,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Cala Comte",
         "testo": "Una playa del oeste con rocas bajas y agua transparente, famosa por la puesta de sol con los islotes delante.",
-        "come": "En coche desde Sant Antoni en unos 20 minutos, o en el autobús de temporada.",
+        "come": "En coche desde Sant Antoni, o en el autobús de temporada.",
         "quando": "El atardecer en verano está lleno. Mejor por la mañana o en septiembre.",
         "tempo": "media jornada",
         "consiglio": "Para cenar frente al mar, elegir los restaurantes sobre las rocas, pero reservar."
@@ -1412,15 +1412,15 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Benirràs e tamburi della domenica",
         "testo": "Una bahía del norte cerrada por acantilados. Desde hace décadas, los domingos al atardecer se reúne un grupo de tamborileros en la arena, con puestos y gente bailando.",
-        "come": "En coche desde Sant Joan de Labritja, unos 15 minutos. El último tramo es estrecho.",
+        "come": "En coche desde Sant Joan de Labritja. La carretera es estrecha en el último tramo.",
         "quando": "Los domingos al atardecer, de mayo a octubre. Los demás días la bahía está tranquila.",
         "tempo": "una tarde-noche",
-        "consiglio": "Llegar con dos horas de antelación para encontrar aparcamiento y un sitio en la arena."
+        "consiglio": "Llegar con mucha antelación para encontrar aparcamiento y sitio en la arena."
       },
       {
         "nome": "Cala Xarraca e Cala Sant Vicent",
         "testo": "Dos calas del norte. Xarraca es una bahía verde de agua calma; Sant Vicent es rocosa y más salvaje. Poca construcción alrededor.",
-        "come": "En coche desde Sant Joan de Labritja: Xarraca a 10 minutos, Sant Vicent a 15. Aparcamientos pequeños.",
+        "come": "En coche desde Sant Joan de Labritja; aparcamientos pequeños.",
         "quando": "A primera hora o al final de la tarde.",
         "tempo": "media jornada",
         "consiglio": "Llevar gafas y tubo: el agua es limpia y el fondo rocoso."
@@ -1428,7 +1428,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Ses Salines",
         "testo": "Parque natural de salinas y dunas en el sur, con la playa de Ses Salines y la de Es Cavallet. Las salinas siguen en uso y son patrimonio de la UNESCO junto con Dalt Vila y la posidonia.",
-        "come": "En coche desde Ibiza ciudad en 20 minutos. Aparcamiento de pago, con límites de acceso en verano.",
+        "come": "En coche desde Ibiza ciudad. Aparcamientos de pago, con límites de acceso en verano.",
         "quando": "Por la mañana, antes del calor. Es Cavallet tiene un tramo naturista.",
         "tempo": "media jornada",
         "url": "https://www.caib.es/",
@@ -1503,7 +1503,7 @@ export const destinazioniSpagna: Destinazione[] = [
     attenzioni: [
       "Las entradas de club vendidas por personas en la calle o en redes pueden ser falsas: comprar solo en la web del local.",
       "Taxis piratas cerca de aeropuertos y discotecas: usar paradas oficiales o apps.",
-      "En verano muchas calas tienen acceso limitado para coches y aparcamiento de pago que se llena a media mañana.",
+      "En verano muchas calas tienen acceso limitado en coche y aparcamientos de pago que se llenan por la mañana.",
       "Impuesto turístico (ecotasa) de unos pocos euros por noche, que se paga en el hotel.",
       "En Sant Antoni y otras zonas hay prohibición de beber en la calle y multas por conducta incívica.",
       "Es Vedrà y los acantilados: no salir de los senderos marcados, las caídas son frecuentes."
@@ -1552,15 +1552,15 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Ciutadella",
         "testo": "La antigua capital, con el puerto largo y estrecho como una ría, la catedral gótica y los palacios señoriales bajo los soportales de Ses Voltes. En el puerto, restaurantes de pescado. La fiesta de Sant Joan, el 23 y 24 de junio, llena la ciudad de caballos y jinetes.",
-        "come": "Se recorre a pie. Desde Maó, en autobús de línea en una hora aproximadamente, o en coche por la Me-1.",
+        "come": "Se recorre a pie. Desde Maó en autobús de línea o en coche por la Me-1.",
         "quando": "El mercado de la Plaça del Born por la mañana. Por la noche el puerto es el sitio para cenar.",
         "tempo": "media jornada",
         "consiglio": "Dejar el coche en los aparcamientos fuera del centro: las calles son estrechas y en verano están llenas."
       },
       {
         "nome": "Maó y su puerto",
-        "testo": "La capital actual, sobre uno de los puertos naturales más profundos del Mediterráneo, de 5 kilómetros de largo. En la ciudad: paseos junto al mar, el mercado del Claustre del Carme, el Museu de Menorca y la destilería de ginebra Xoriguer.",
-        "come": "A 10 minutos del aeropuerto. Se recorre a pie; los barcos hacen la vuelta al puerto en una hora aproximadamente.",
+        "testo": "La capital actual, sobre un puerto natural largo y profundo, de los grandes del Mediterráneo. En la ciudad: paseos junto al puerto, el mercado del Claustre del Carme, el Museu de Menorca y la destilería de ginebra Xoriguer.",
+        "come": "El aeropuerto está cerca. En la ciudad se camina; los barcos hacen la vuelta al puerto.",
         "quando": "Por la mañana para el mercado, al atardecer sobre el puerto.",
         "tempo": "media jornada",
         "consiglio": "Probar la ginebra Xoriguer en la destilería: se usa en la pomada, la bebida local con limón."
@@ -1577,23 +1577,23 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Cala Macarella y Macarelleta",
         "testo": "Dos calas cercanas en la costa sur. Macarella es una bahía de arena blanca y pinar; Macarelleta, más pequeña, se alcanza a pie desde la primera y es en parte nudista.",
-        "come": "Desde Ciutadella, 20 minutos en coche, luego aparcamiento y 15 minutos a pie. En temporada alta hay además lanzadera. O a pie desde Cala Galdana por el Camí de Cavalls.",
-        "quando": "A primera hora o después de las 16. En pleno verano el aparcamiento cierra pronto.",
+        "come": "Desde Ciutadella en coche hasta el aparcamiento y luego un tramo a pie. En temporada alta hay también un autobús de temporada. O a pie desde Cala Galdana por el Camí de Cavalls.",
+        "quando": "A primera hora o a última de la tarde. En pleno verano el aparcamiento se llena pronto.",
         "tempo": "media jornada",
-        "consiglio": "Llegar una hora antes que los demás: el agua está quieta y transparente incluso a las ocho."
+        "consiglio": "Llegar antes que nadie: a primera hora el agua está quieta y transparente."
       },
       {
         "nome": "Torre d'en Galmés",
-        "testo": "El mayor poblado talayótico de la isla, con tres talayots, una taula y un área de casas circulares de las Edades del Bronce y del Hierro. Forma parte del sitio Menorca Talayótica, patrimonio de la UNESCO desde 2023.",
-        "come": "En coche desde Maó o Ciutadella en unos 25 minutos. Se visita por cuenta propia, con paneles. El sitio tiene entrada de pago.",
+        "testo": "Uno de los mayores poblados talayóticos de Baleares, con tres talayots, el recinto de taula y casas de la Edad del Bronce y del Hierro, habitado desde hacia el 1400 a.C. hasta época romana. Forma parte de la Menorca Talayótica, patrimonio UNESCO desde 2023.",
+        "come": "En coche desde Maó o Ciutadella, en el centro de la isla. Se visita por libre, con paneles. Tiene entrada de pago.",
         "quando": "A primera hora o al final de la tarde, por el calor y la luz.",
         "tempo": "1-1,5 horas",
         "consiglio": "Combinarlo con Cala en Porter o con el Museu de Menorca en Maó."
       },
       {
         "nome": "Naveta des Tudons",
-        "testo": "Tumba colectiva con forma de barco invertido, construida en piedra seca hacia el 1000 a.C. Está junto a la carretera y se considera uno de los edificios más antiguos aún en pie de Europa.",
-        "come": "En coche por la carretera Maó-Ciutadella, a 5 km de Ciutadella. Una parada de media hora.",
+        "testo": "Tumba colectiva con forma de nave invertida, construida en piedra seca y usada como osario entre hacia el 1200 y el 750 a.C. Es la tumba megalítica más notable de Menorca y está a poca distancia de la carretera.",
+        "come": "En coche por la carretera Maó-Ciutadella, a pocos kilómetros de Ciutadella. Una parada de media hora.",
         "quando": "A cualquier hora; la luz dorada del final de la tarde es la mejor.",
         "tempo": "30 minutos",
         "consiglio": "Parar al ir de una ciudad a otra: no exige desvío."
@@ -1665,7 +1665,7 @@ export const destinazioniSpagna: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Los aparcamientos de las calas del sur (Macarella, Turqueta) se llenan a media mañana en temporada alta y son de pago.",
+      "Los aparcamientos de las calas del sur (Macarella, Turqueta) se llenan por la mañana en temporada alta y son de pago.",
       "En el Camí de Cavalls no hay sombra y hay poca agua: salir temprano y evitar el mediodía.",
       "Reservar el coche de alquiler con meses de antelación en verano: los precios suben.",
       "Impuesto turístico (ecotasa) de unos pocos euros por noche, que se paga en el hotel.",
@@ -1718,25 +1718,25 @@ export const destinazioniSpagna: Destinazione[] = [
     luoghi: [
       {
         "nome": "Teide: teleférico y cumbre",
-        "testo": "El teleférico sube de 2.356 a 3.555 metros en unos ocho minutos. El último tramo hasta el cráter, a 3.715 metros, se hace a pie en unos 40 minutos y exige un permiso gratuito de aforo limitado. Por encima de los 3.500 metros se nota la altitud.",
-        "come": "En coche desde Costa Adeje, una hora y media aproximadamente; desde Puerto de la Cruz, una hora y cuarto. La estación inferior tiene aparcamiento gratuito.",
+        "testo": "El teleférico sube de 2.356 a 3.555 metros en menos de ocho minutos. El último tramo hasta el cráter, a más de 3.700 metros, se hace a pie por el sendero n.º 10 (Telesforo Bravo) y requiere un permiso gratuito con cupo. Por encima de 3.500 metros se nota la altura.",
+        "come": "En coche desde la costa, por carreteras de montaña. La estación base tiene aparcamiento gratuito.",
         "quando": "Coger el primer viaje para evitar colas y viento. Con viento fuerte el teleférico para. Mirar el tiempo del día.",
-        "tempo": "media jornada, el permiso de cumbre añade 2 horas",
+        "tempo": "media jornada, más con la subida a la cumbre",
         "url": "https://www.volcanoteide.com/",
-        "consiglio": "Comprar la entrada online con horario y reservar el permiso de cumbre con semanas de antelación: son dos cosas distintas."
+        "consiglio": "Comprar el billete del teleférico online con hora y pedir el permiso de cumbre con mucha antelación, incluso meses: son dos cosas distintas."
       },
       {
         "nome": "Roques de García y Las Cañadas",
-        "testo": "Formaciones de lava de decenas de metros de altura en el corazón de la caldera, con el Roque Cinchado como símbolo. Un sendero circular de unos 3,5 kilómetros sale del aparcamiento. Detrás está el Teide.",
+        "testo": "Formaciones de lava de decenas de metros en el corazón de la caldera, con el Roque Cinchado como símbolo. Un sendero circular fácil sale del aparcamiento. Detrás está el Teide.",
         "come": "Desde el aparcamiento a los pies de los Roques, en la TF-21, a pocos minutos de la estación del teleférico. El sendero está señalizado.",
         "quando": "Por la mañana o al atardecer. A mediodía el sol es fuerte y hay poca sombra.",
         "tempo": "1-2 horas",
-        "consiglio": "Llevar una chaqueta: a 2.200 metros el viento es frío incluso en julio."
+        "consiglio": "Llevar un cortavientos: en altura el viento es frío incluso en julio."
       },
       {
         "nome": "Parque Rural de Anaga",
         "testo": "Montañas del noreste con laurisilva neblinosa, reserva de la biosfera. Los senderos cruzan crestas, caseríos y pueblos aislados como Taganana y Chinamada.",
-        "come": "En coche desde Santa Cruz o La Laguna hasta Cruz del Carmen, unos 30 minutos, donde está el centro de visitantes. El autobús 076 conecta algunos pueblos.",
+        "come": "En coche desde Santa Cruz o La Laguna hasta Cruz del Carmen, donde está el centro de visitantes. Algunos pueblos tienen autobús de línea.",
         "quando": "Por la mañana, cuando la niebla es menos frecuente. Con lluvia los senderos están embarrados.",
         "tempo": "media jornada o jornada completa",
         "url": "https://www.webtenerife.com/",
@@ -1744,32 +1744,32 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "La Laguna",
-        "testo": "Antigua capital de la isla, patrimonio de la UNESCO por su plano urbano regular en cuadrícula del siglo XVI. Casas coloniales con balcones de madera, iglesias y patios.",
-        "come": "En el tranvía de Santa Cruz en unos 35 minutos o en coche en 15. Se visita a pie.",
+        "testo": "Antigua capital de la isla, patrimonio UNESCO por su trazado en cuadrícula, uno de los primeros de las ciudades coloniales. Casas con balcones de madera, iglesias y patios.",
+        "come": "En tranvía desde Santa Cruz o en coche. Se visita a pie.",
         "quando": "Días laborables por la vida estudiantil. Por la noche, bares y tapas.",
         "tempo": "2-3 horas",
         "consiglio": "Mirar los patios de las casas: muchos tienen un jardín abierto al público."
       },
       {
         "nome": "Masca",
-        "testo": "Un pueblo a 600 metros en una garganta profunda de las montañas de Teno, con casas de piedra y vistas al océano. El barranco de Masca baja al mar por un sendero de unos 5 kilómetros.",
-        "come": "Por la TF-436 desde Santiago del Teide, con curvas cerradas. El sendero del barranco requiere reserva online y permiso: consultar la web del Cabildo.",
+        "testo": "Un caserío en un barranco profundo de las montañas de Teno, con casas de piedra y vistas al océano. El barranco de Masca baja a pie hasta el mar.",
+        "come": "Por la TF-436 desde Santiago del Teide, con curvas cerradas. El acceso al sendero del barranco lo regula el Cabildo (reserva y días de apertura): consultar su web antes de ir.",
         "quando": "Por la mañana, para evitar los autocares. El sendero se cierra con lluvia o alertas.",
         "tempo": "1 hora en el pueblo, media jornada para el sendero",
-        "consiglio": "No hacer el sendero con calzado de paseo y llevar un billete de barco para la vuelta."
+        "consiglio": "No hacer el sendero con calzado de paseo e informarse antes de cómo volver desde el mar: desde la playa no hay carretera."
       },
       {
         "nome": "Garachico",
         "testo": "Pueblo de la costa norte destruido por la erupción de 1706, que llenó el puerto. Quedan las piscinas de lava negra (El Caletón), el castillo y una plaza con edificios barrocos.",
-        "come": "En coche desde Puerto de la Cruz en 45 minutos o desde Santiago del Teide en 25. Se recorre a pie.",
+        "come": "En coche desde Puerto de la Cruz o Santiago del Teide. Se recorre a pie.",
         "quando": "Por la mañana o después de comer, con el mar en calma para las piscinas.",
         "tempo": "2-3 horas",
         "consiglio": "Comida de pescado fresco cerca del muelle."
       },
       {
         "nome": "Los Gigantes",
-        "testo": "Acantilados negros de 300 a 600 metros que caen al Atlántico, en la costa oeste. Los barcos desde Puerto de Los Gigantes llevan al pie de las paredes, donde a menudo se ven delfines y calderones.",
-        "come": "En coche desde Costa Adeje en 40 minutos. Las excursiones en barco salen del puerto de Puerto de Santiago.",
+        "testo": "Acantilados negros altísimos que caen al Atlántico, en la costa oeste. Los barcos del puerto llevan al pie de las paredes, donde a menudo se ven delfines y calderones.",
+        "come": "En coche desde Costa Adeje. Las excursiones en barco salen de Puerto de Los Gigantes y de los puertos cercanos.",
         "quando": "Por la mañana, con el mar más calmado. Los barcos salen todo el año.",
         "tempo": "2-3 horas con excursión en barco",
         "consiglio": "Elegir operadores con la licencia Barco Azul: siguen normas de distancia con los animales."
@@ -1890,7 +1890,7 @@ export const destinazioniSpagna: Destinazione[] = [
     luoghi: [
       {
         "nome": "Dune di Maspalomas",
-        "testo": "Reserva natural de unas 400 hectáreas de dunas de arena móvil en la costa sur, con una laguna y un palmeral. El paisaje cambia con el viento. La playa del Inglés está justo al lado.",
+        "testo": "Reserva natural de dunas de arena móvil en la costa sur, con una laguna y un palmeral. El paisaje cambia con el viento. La playa del Inglés está justo al lado.",
         "come": "Desde el paseo de Playa del Inglés o el faro de Maspalomas se entra a pie en las dunas. Autobuses desde la costa y desde Las Palmas.",
         "quando": "A primera hora o al atardecer: a mediodía el sol es fuerte y no hay sombra.",
         "tempo": "2 horas",
@@ -1898,8 +1898,8 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Roque Nublo",
-        "testo": "Una roca volcánica de 80 metros, a 1.813 metros sobre el nivel del mar, símbolo de la isla. Los guanches la veneraban. Desde la cima se ve el Teide de Tenerife en días claros.",
-        "come": "En coche hasta el aparcamiento de La Goleta, luego sendero de unos 3 kilómetros ida y vuelta. Desde Las Palmas, hora y media.",
+        "testo": "Una roca volcánica de unos 80 metros de altura, con la cima a 1.813 metros sobre el nivel del mar: el símbolo de la isla. En días claros se ve desde allí el Teide de Tenerife.",
+        "come": "En coche hasta el aparcamiento de La Goleta y luego un sendero corto pero en subida, de ida y vuelta.",
         "quando": "Por la mañana, antes de las nubes. El viento es frío incluso en verano.",
         "tempo": "1,5-2 horas a pie",
         "url": "https://www.grancanaria.com/",
@@ -1907,9 +1907,9 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Vegueta, Las Palmas",
-        "testo": "El barrio fundado en 1478, con la Catedral de Santa Ana, la Casa de Colón con documentos sobre su viaje y el Mercado de Vegueta. Calles coloniales con balcones de madera.",
-        "come": "Desde el centro de Las Palmas, 10 minutos a pie, o en autobús desde Las Canteras. Aparcamiento en garajes de pago.",
-        "quando": "Por la mañana para el mercado. Muchos museos cierran el domingo por la tarde.",
+        "testo": "El barrio donde nació Las Palmas en 1478, con la catedral de Santa Ana, la Casa de Colón, museo dedicado a los viajes de Colón, y el Mercado de Vegueta. Calles coloniales con balcones de madera.",
+        "come": "A pie desde el centro de Las Palmas o en autobús desde Las Canteras. Aparcamiento en garajes de pago.",
+        "quando": "Por la mañana para el mercado. Horarios de los museos en sus webs oficiales, sobre todo el domingo.",
         "tempo": "media jornada",
         "consiglio": "Subir a la torre de la catedral para ver los tejados."
       },
@@ -1923,8 +1923,8 @@ export const destinazioniSpagna: Destinazione[] = [
       },
       {
         "nome": "Barranco de Guayadeque",
-        "testo": "Un cañón de 15 kilómetros en el sureste con casas-cueva habitadas y antiguas viviendas guanches. Algunos restaurantes están excavados en la roca.",
-        "come": "En coche desde Agüimes unos 20 minutos por la GC-103. Se puede caminar por el fondo.",
+        "testo": "Un barranco del sureste con casas cueva habitadas y antiguas viviendas aborígenes. Algunos restaurantes están excavados en la roca.",
+        "come": "En coche desde Agüimes por la GC-103. Se puede caminar por el fondo.",
         "quando": "Por la mañana o a la hora de comer. En invierno puede haber nubes arriba.",
         "tempo": "2-3 horas",
         "consiglio": "El centro de visitantes de arriba explica las cuevas. Comer en una cueva-restaurante, pero reservar."
@@ -1932,10 +1932,10 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Puerto de Mogán",
         "testo": "Pueblo-puerto con canales, casas blancas con buganvillas y una playa. Se construyó en los años ochenta con estilo local y se le llama pequeña Venecia.",
-        "come": "En coche desde Maspalomas en 40 minutos por la GC-1 o en autobús. El centro se recorre a pie.",
+        "come": "En coche desde Maspalomas por la GC-1 o en autobús. El centro se recorre a pie.",
         "quando": "El viernes hay mercado. El atardecer en el puerto es tranquilo.",
         "tempo": "3 horas",
-        "consiglio": "El mercado del viernes está lleno: llegar antes de las 10."
+        "consiglio": "El mercadillo del viernes está lleno: llegar temprano."
       }
     ],
     programmi: [
@@ -2055,53 +2055,58 @@ export const destinazioniSpagna: Destinazione[] = [
     luoghi: [
       {
         "nome": "Parco Nazionale di Timanfaya",
-        "testo": "El paisaje de lava y ceniza nacido de las erupciones de 1730-1736. Solo se visita en autobús por la Ruta de los Volcanes, con comentario grabado. En el Islote de Hilario hay demostraciones geotérmicas: el agua vertida en un tubo se convierte en vapor y la comida se cocina con el calor del suelo.",
-        "come": "En coche desde Yaiza o Tinajo hasta la taquilla. La entrada incluye el autobús, unos 35 minutos. No se baja.",
-        "quando": "Llegar temprano: por la tarde hay colas. Comprobar el horario en la web del parque.",
-        "tempo": "1,5-2 horas",
+        "testo": "El paisaje de lava y ceniza nacido de las erupciones de 1730-1736. Solo se visita en autobús por la Ruta de los Volcanes, con locución grabada. En el Islote de Hilario hay demostraciones geotérmicas: el agua vertida en un tubo sale como vapor y la comida se asa con el calor del suelo.",
+        "come": "En coche desde Yaiza o Tinajo hasta la entrada. La entrada, que incluye la ruta en autobús, se compra online con fecha y hora. No se baja del autobús.",
+        "quando": "Todos los días de 9 a 15:45 (web de los CACT). Elegir una hora temprana: más tarde las colas crecen.",
+        "tempo": "hora y media",
+        "costo": "30 euros, gratis hasta los 6 años (CACT, 2026)",
+        "url": "https://cactlanzarote.com/",
         "consiglio": "El paseo en dromedario es una actividad aparte con tarifa propia; se puede omitir."
       },
       {
         "nome": "Jameos del Agua",
-        "testo": "Un tubo de lava junto al mar que César Manrique transformó en los años sesenta y setenta en jardín, auditorio y laguna natural. En el lago vive un pequeño cangrejo ciego blanco, el Munidopsis polymorpha.",
-        "come": "En coche desde Arrecife en 25 minutos por la LZ-1, por la costa norte. Se visita a pie en un recorrido circular.",
-        "quando": "Por la noche hay eventos: consultar el calendario en la web. De día, antes de las 11 para evitar los grupos.",
+        "testo": "Un tramo del tubo volcánico de La Corona junto al mar, el primer centro creado por César Manrique, convertido en jardín, auditorio y lago natural. En el lago vive un pequeño cangrejo ciego blanco, el Munidopsis polymorpha.",
+        "come": "En coche desde Arrecife por la LZ-1, en la costa norte. Se visita a pie en un recorrido circular.",
+        "quando": "Todos los días de 10 a 18 (web de los CACT); por la noche hay eventos, consultar el calendario. De día mejor temprano, para evitar los grupos.",
         "tempo": "1,5 horas",
         "url": "https://cactlanzarote.com/",
+        "costo": "desde 17 euros, gratis hasta los 6 años (CACT, 2026)",
         "consiglio": "No tirar monedas al lago: dañan a los cangrejos. Combina bien con la Cueva de los Verdes, a pocos minutos."
       },
       {
         "nome": "Cueva de los Verdes",
-        "testo": "Un tubo de lava de unos 7 kilómetros, del que se visita un tramo, formado por la erupción del volcán La Corona. Se visita en 50 minutos con guía, entre salas iluminadas y juegos de luz.",
-        "come": "En coche por la LZ-1 cerca de Haría, a 10 minutos de Jameos del Agua. Visita guiada con grupos a horas fijas.",
-        "quando": "Todo el año; dentro la temperatura es constante. Por la mañana para evitar grupos.",
+        "testo": "Un tramo visitable del tubo volcánico formado por la erupción del volcán La Corona, con galerías, formaciones minerales y juegos de luz. Se visita con guía en unos 50 minutos.",
+        "come": "En coche por la LZ-1 cerca de Haría, a poca distancia de Jameos del Agua. Visita guiada a horas fijas, con entrada online por fecha y hora.",
+        "quando": "Todos los días de 9:30 a 16:45 (web de los CACT); dentro la temperatura es constante. Por la mañana para evitar grupos.",
         "tempo": "50 minutos",
         "url": "https://cactlanzarote.com/",
+        "costo": "17 euros, gratis hasta los 6 años (CACT, 2026)",
         "consiglio": "El recorrido tiene escaleras y un tramo bajo: calzado cerrado con suela adherente."
       },
       {
         "nome": "Mirador del Río",
-        "testo": "Mirador de Manrique incrustado en un acantilado a 475 metros sobre el mar, con ventanales sobre el estrecho de El Río y la isla de La Graciosa. Interiores blancos y curvos, cafetería con vistas.",
-        "come": "En coche por la LZ-1 desde Haría en 15 minutos, hacia el norte.",
-        "quando": "Por la mañana, con menos nubes. En invierno el cielo suele estar cubierto.",
+        "testo": "Mirador de Manrique construido dentro del risco y revestido de piedra volcánica, casi invisible desde fuera, con cristaleras sobre el brazo de mar de El Río y la isla de La Graciosa. Interiores blancos y curvos, bar con vistas.",
+        "come": "En coche desde la LZ-1 pasando por Haría, en el extremo norte de la isla.",
+        "quando": "Todos los días de 10 a 17 (web de los CACT). Por la mañana, con menos nubes; en invierno el cielo suele estar cubierto.",
         "tempo": "1 hora",
-        "costo": "9 euros (CACT, 2026)",
+        "costo": "9 euros, gratis hasta los 6 años (CACT, 2026)",
         "url": "https://cactlanzarote.com/",
-        "consiglio": "Entrada gratuita hasta los 6 años, según la web oficial del CACT."
+        "consiglio": "Tomar un café en el bar interior frente a las cristaleras: es la mejor manera de estar dentro del paisaje sin prisa. Conviene combinarlo en la misma ruta con Jameos del Agua y la Cueva de los Verdes."
       },
       {
         "nome": "Jardín de Cactus",
-        "testo": "Última obra de Manrique, un anfiteatro de terrazas en una antigua cantera, con más de mil especies de cactus. A la entrada, un molino de viento del siglo XVIII.",
-        "come": "En coche desde Arrecife a Guatiza, al norte, en 20 minutos. Se visita a pie, llano con algunas escaleras.",
-        "quando": "Por la mañana, con luz más suave. Abierto todos los días.",
+        "testo": "La última obra de Manrique: un anfiteatro de terrazas en una antigua rofera, con cactus de los cinco continentes. A la entrada hay un molino de viento.",
+        "come": "En coche desde Arrecife hasta Guatiza, al norte. Se visita a pie, en llano con alguna escalera.",
+        "quando": "Todos los días de 10 a 17 (web de los CACT). Por la mañana, con luz más suave.",
         "tempo": "1 hora",
         "url": "https://cactlanzarote.com/",
+        "costo": "9 euros, gratis hasta los 6 años (CACT, 2026)",
         "consiglio": "En el camino se pasa por Guatiza y sus plantaciones de tuneras, donde se cría la cochinilla."
       },
       {
         "nome": "La Geria",
         "testo": "Una cuenca de ceniza volcánica negra donde las vides crecen en hoyos excavados en el suelo y protegidos por muros semicirculares. Aquí nace la malvasía volcánica. Las bodegas se suceden por la LZ-30.",
-        "come": "En coche por la LZ-30 entre Yaiza y Mozaga, a 20 minutos de Arrecife. Las bodegas ofrecen catas.",
+        "come": "En coche por la LZ-30 entre Yaiza y Mozaga. Las bodegas hacen catas.",
         "quando": "Septiembre para la vendimia; el resto del año las bodegas abren de día.",
         "tempo": "2 horas",
         "consiglio": "Parar en los miradores y conducir despacio: muchos turistas se detienen en la carretera."
@@ -2109,7 +2114,7 @@ export const destinazioniSpagna: Destinazione[] = [
       {
         "nome": "Playa Papagayo e Los Ajaches",
         "testo": "Calas de arena clara y agua turquesa en el parque natural de Los Ajaches, al sur. Papagayo es la más conocida; las otras (Caleta del Congrio, Playa Mujeres) son más tranquilas.",
-        "come": "En coche desde Playa Blanca por 5 km de pista de tierra. El acceso al parque es de pago. Se camina desde los aparcamientos.",
+        "come": "En coche desde Playa Blanca por una pista de tierra. El acceso en coche al parque es de pago. Se camina desde los aparcamientos.",
         "quando": "Por la mañana en verano, con poco viento. El viento levanta la arena.",
         "tempo": "media jornada",
         "consiglio": "Llevar sombrilla, agua y comida: en las calas no hay servicios."

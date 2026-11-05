@@ -61,13 +61,13 @@ export const destinazioniGermania: Destinazione[] = [
     luoghi: [
       {
         nome: "Reichstag e cupola",
-        testo: "Sede del Bundestag, con la cupola di vetro progettata da Norman Foster e completata nel 1999. Una rampa a spirale porta in cima, con vista sulla città e sul Parlamento sotto di sé.",
-        come: "Ingresso gratuito ma con registrazione online obbligatoria sul sito del Bundestag; portare un documento d'identità. Controlli di sicurezza all'ingresso.",
-        quando: "Sera, per le luci della città; registrarsi con giorni di anticipo.",
+        testo: "Sede del Bundestag, con la cupola di vetro progettata da Norman Foster e completata nel 1999. Un percorso di 230 metri sale e scende dentro la cupola, con vista sulla città e sull'aula del Parlamento sotto di sé.",
+        come: "Ingresso gratuito con registrazione obbligatoria sul sito del Bundestag (nome e data di nascita di ogni visitatore). All'ingresso controlli di sicurezza e documento d'identità originale.",
+        quando: "Sera, per le luci della città: si entra ogni quarto d'ora, l'ultimo ingresso è alle 21:45. Registrarsi con giorni di anticipo.",
         tempo: "1,5 ore",
         costo: "ingresso gratuito, registrazione obbligatoria",
         url: "https://www.bundestag.de",
-        consiglio: "L'audioguida è gratuita e inclusa."
+        consiglio: "Sulla terrazza c'è un'audioguida di 20 minuti in dodici lingue."
       },
       {
         nome: "Porta di Brandeburgo",
@@ -76,13 +76,13 @@ export const destinazioniGermania: Destinazione[] = [
         quando: "Mattina presto o sera, per le foto senza folla.",
         tempo: "30 minuti",
         costo: "ingresso libero",
-        consiglio: "Attenzione ai finti soldati che chiedono denaro per le foto."
+        consiglio: "Di sera la porta è illuminata e la piazza si svuota."
       },
       {
         nome: "Memoriale dell'Olocausto",
-        testo: "Un campo di 2.711 stele di cemento di Peter Eisenman, in cui si cammina in un paesaggio che disorienta. Sotto il memoriale c'è un centro di informazione con storie personali.",
+        testo: "Un campo di oltre 2.700 stele di cemento di Peter Eisenman, in cui si cammina in un paesaggio che disorienta. Sotto il memoriale c'è un centro di informazione con storie personali.",
         come: "A piedi dalla Porta di Brandeburgo (5 minuti).",
-        quando: "Tutto il giorno, sempre aperto; il centro di informazione è chiuso il lunedì.",
+        quando: "Il campo è aperto giorno e notte; il centro di informazione (gratuito) apre da martedì a domenica, 10-18.",
         tempo: "1 ora",
         costo: "ingresso libero",
         url: "https://www.stiftung-denkmal.de",
@@ -91,8 +91,8 @@ export const destinazioniGermania: Destinazione[] = [
       {
         nome: "Memoriale del Muro di Berlino (Bernauer Straße)",
         testo: "Il tratto meglio conservato del Muro, con la striscia della morte originale, la torre di guardia e il centro di documentazione. Una passerella sopra la striscia mostra come era la divisione.",
-        come: "S-Bahn fino a Nordbahnhof, 5 minuti a piedi.",
-        quando: "Mattina; centro di documentazione chiuso il lunedì.",
+        come: "S-Bahn fino a Nordbahnhof (S1, S2, S25, S26) o U8 fino a Bernauer Straße.",
+        quando: "Mattina. La mostra all'aperto è aperta tutti i giorni 8-22; il centro di documentazione da martedì a domenica, 10-18.",
         tempo: "1,5-2 ore",
         costo: "ingresso libero",
         url: "https://www.stiftung-berliner-mauer.de",
@@ -102,7 +102,7 @@ export const destinazioniGermania: Destinazione[] = [
         nome: "Topografia del Terrore",
         testo: "Il centro di documentazione sul sito delle ex sedi della Gestapo e delle SS, con un tratto di Muro. La mostra racconta il funzionamento della repressione nazista.",
         come: "A piedi dal Potsdamer Platz (10 minuti).",
-        quando: "Mattina nei giorni feriali.",
+        quando: "Tutti i giorni, 10-20.",
         tempo: "1,5-2 ore",
         costo: "ingresso libero",
         url: "https://www.topographie.de",
@@ -111,16 +111,16 @@ export const destinazioniGermania: Destinazione[] = [
       {
         nome: "Isola dei Musei",
         testo: "Patrimonio UNESCO dal 1999, con cinque musei tra cui il Neues Museum (con il busto di Nefertiti), l'Altes Museum e la Alte Nationalgalerie. Il Pergamonmuseum è chiuso del tutto dal 2023: l'ala nord con l'Altare di Pergamo riapre il 4 giugno 2027, l'ala sud con la Porta di Ishtar intorno al 2037. Nel frattempo, il Pergamonmuseum. Das Panorama, di fronte all'isola, mostra il plastico dell'antica Pergamo.",
-        come: "S-Bahn fino a Hackescher Markt, 10 minuti a piedi. Esiste un biglietto cumulativo per l'isola.",
-        quando: "Mattina nei giorni feriali; prenotare online l'orario d'ingresso.",
+        come: "S-Bahn fino a Hackescher Markt, 10 minuti a piedi. Il Museumsinsel Ticket vale per tutti i musei dell'isola in un giorno.",
+        quando: "Mattina nei giorni feriali. Il Neues Museum è chiuso il lunedì e apre 10-18 negli altri giorni.",
         tempo: "mezza giornata",
         url: "https://www.smb.museum",
-        consiglio: "Prenotare in anticipo il Neues Museum: l'ingresso per Nefertiti è a orario."
+        consiglio: "Nefertiti è nella sala della cupola nord del Neues Museum: biglietti e prezzi sul sito ufficiale."
       },
       {
         nome: "East Side Gallery",
-        testo: "1,3 km di Muro rimasti in piedi lungo la Sprea a Friedrichshain, dipinti da oltre cento artisti nel 1990: la galleria d'arte all'aperto più lunga del mondo.",
-        come: "S-Bahn fino a Ostbahnhof o Warschauer Straße.",
+        testo: "Circa 1,3 km di Muro rimasti in piedi lungo la Sprea a Friedrichshain, dipinti nella primavera del 1990 da 118 artisti di 21 paesi: forse la galleria d'arte all'aperto più grande del mondo.",
+        come: "S-Bahn fino a Ostbahnhof, a un'estremità; all'altra c'è l'Oberbaumbrücke.",
         quando: "Mattina o tarda sera, con meno gente.",
         tempo: "1-1,5 ore",
         costo: "ingresso libero",
@@ -128,9 +128,9 @@ export const destinazioniGermania: Destinazione[] = [
       },
       {
         nome: "Mauerpark",
-        testo: "Un parco sul vecchio tracciato del Muro, noto per il mercatino delle pulci della domenica e per il karaoke all'aperto.",
-        come: "U-Bahn fino a Bernauer Straße o Eberswalder Straße.",
-        quando: "Domenica, dalle 10 alle 18.",
+        testo: "Un parco sul vecchio tracciato del Muro, noto per il mercatino delle pulci aperto ogni domenica dal 2004 e per il Bearpit Karaoke, la domenica pomeriggio quando il tempo lo permette, dalla primavera all'autunno.",
+        come: "A piedi dal Memoriale del Muro di Bernauer Straße.",
+        quando: "Domenica.",
         tempo: "2 ore",
         costo: "ingresso libero",
         consiglio: "Il karaoke nell'anfiteatro è un'esperienza da locali."
@@ -193,7 +193,7 @@ export const destinazioniGermania: Destinazione[] = [
       },
       {
         nome: "Döner Kebab",
-        testo: "L'invenzione berlinese del kebab nel pane: la versione di strada più famosa della città."
+        testo: "Il kebab nel pane nasce e si diffonde nella Berlino Ovest degli anni Settanta, grazie agli immigrati turchi: è lo street food più famoso della città."
       },
       {
         nome: "Berliner (Pfannkuchen)",
@@ -205,10 +205,9 @@ export const destinazioniGermania: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Biglietti BVG: convalidare quelli di carta e tenere il titolo con sé, la multa è di 60 euro.",
-      "Contanti: in molti locali non si accettano carte, portarne con sé.",
-      "Borseggiatori a Alexanderplatz, Kottbusser Tor e Brandenburger Tor.",
-      "Falsi soldati e petizioni (spesso con firma per sordomuti) vicino ai monumenti: ignorarli.",
+      "Biglietti BVG: convalidare quelli di carta e tenere il titolo con sé, i controlli sono frequenti e le multe salate.",
+      "Contanti: alcuni locali accettano solo contanti, portarne un po' con sé.",
+      "Borseggiatori: attenzione nelle stazioni, sui mezzi affollati e nei luoghi turistici.",
       "La domenica quasi tutti i negozi sono chiusi."
     ],
     esperienzeSlugs: ['reichstag-cupola', 'museumsinsel-pergamon', 'east-side-gallery', 'berlino-clubbing'],

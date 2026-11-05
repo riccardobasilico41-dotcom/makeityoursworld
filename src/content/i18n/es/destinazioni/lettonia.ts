@@ -17,7 +17,7 @@ export const destinazioniLettonia: Destinazione[] = [
       "La Plaza de la Catedral (Doma laukums) con la Catedral de Riga (Rīgas Doms), la iglesia más grande del Báltico, y su histórico órgano",
       "La Iglesia de San Pedro, con la plataforma panorámica en la aguja a 72 metros: es la vista más alta sobre la Ciudad Vieja y el río Daugava",
       "La Casa de las Cabezas Negras (Melngalvju nams), la fachada renacentista más fotografiada de la plaza del ayuntamiento, reconstruida tras la destrucción de la guerra",
-      "Las Tres Hermanas (Trīs brāļi), tres casas medievales y barrocas en fila en la calle Mazā Pils, entre los edificios de piedra más antiguos de la ciudad",
+      "Los Tres Hermanos (Trīs brāļi), tres casas medievales y barrocas en fila en la calle Mazā Pils, entre los edificios de piedra más antiguos de la ciudad",
       "El barrio Art Nouveau, a lo largo de Alberta iela, Elizabetes iela y Strēlnieku iela: cientos de fachadas decoradas con máscaras, rostros esculpidos y motivos florales, muchas del arquitecto Mihails Eizenšteins, padre del director Serguéi Eisenstein",
       "El Mercado Central (Centrāltirgus): cinco pabellones hechos con hangares para dirigibles alemanes de la Primera Guerra Mundial, abierto en 1930, cuando era el más grande y moderno de Europa. Forma parte del sitio UNESCO junto con la Ciudad Vieja",
     ],
@@ -47,12 +47,12 @@ export const destinazioniLettonia: Destinazione[] = [
     luoghi: [
       {
         nome: "Catedral de Riga y Plaza del Domo",
-        testo: "La mayor catedral luterana de los países bálticos, fundada en 1211, con un órgano histórico. La plaza está rodeada de cafés.",
+        testo: "Considerada la mayor iglesia medieval de los países bálticos, fundada en 1211, con el órgano Walcker inaugurado en 1884: 6.718 tubos. La plaza está rodeada de cafés.",
         come: "A pie desde el casco antiguo.",
-        quando: "Mañana; por la tarde hay a menudo conciertos de órgano.",
+        quando: "Mañana.",
         tempo: "1 hora",
         url: "https://doms.lv",
-        consiglio: "Preguntar los horarios de los conciertos de órgano."
+        consiglio: "Programa de conciertos de órgano en la web oficial."
       },
       {
         nome: "Iglesia de San Pedro",
@@ -60,12 +60,11 @@ export const destinazioniLettonia: Destinazione[] = [
         come: "A pie, cerca de la Plaza del Ayuntamiento.",
         quando: "Día despejado.",
         tempo: "45 minutos",
-        costo: "9 euros por la plataforma (dato del sitio, a revisar)",
         consiglio: "Mejor subir por la mañana, cuando la luz es clara."
       },
       {
         nome: "Casa de los Cabezas Negras",
-        testo: "Fachada renacentista flamenca, destruida en la Segunda Guerra Mundial y reconstruida. Pertenecía a la cofradía de mercaderes solteros.",
+        testo: "Desde el siglo XV sede de la cofradía de los Cabezas Negras, gremio de mercaderes solteros y armadores, con la fachada decorada a principios del XVII. Bombardeada en 1941 y demolida por los soviéticos en 1948, se reconstruyó entre 1996 y 2000.",
         come: "En la Plaza del Ayuntamiento.",
         quando: "Mañana, para las fotos.",
         tempo: "30 minutos",
@@ -74,7 +73,7 @@ export const destinazioniLettonia: Destinazione[] = [
       },
       {
         nome: "Los Tres Hermanos",
-        testo: "Tres casas en fila en la calle Mazā Pils, entre los edificios de piedra más antiguos de la ciudad, de épocas distintas, del siglo XV a finales del XVII.",
+        testo: "Tres casas en fila en los números 17, 19 y 21 de la calle Mazā Pils, el conjunto de viviendas más antiguo de Riga: la primera, con el frontón escalonado, es de finales del siglo XV, la segunda de 1646, la tercera barroca de finales del XVII.",
         come: "A pie desde el casco antiguo.",
         quando: "De día.",
         tempo: "15 minutos",
@@ -83,7 +82,7 @@ export const destinazioniLettonia: Destinazione[] = [
       },
       {
         nome: "Barrio Art Nouveau",
-        testo: "Alberta iela, Elizabetes iela y Strēlnieku iela, con cientos de fachadas decoradas con máscaras, rostros y motivos florales, muchas obra del arquitecto Mijaíl Eisenstein.",
+        testo: "Alberta iela y las calles de alrededor, con fachadas decoradas con máscaras, rostros y motivos florales, muchas proyectadas por el arquitecto Mijaíl Eisenstein. Cerca de un tercio de los edificios del centro de Riga es Art Nouveau.",
         come: "A pie o en tranvía desde el centro (15 minutos).",
         quando: "Mañana, con luz plena sobre las fachadas.",
         tempo: "1-2 horas",
@@ -92,7 +91,7 @@ export const destinazioniLettonia: Destinazione[] = [
       },
       {
         nome: "Mercado Central",
-        testo: "Cinco pabellones hechos con los hangares de zepelines alemanes de la Primera Guerra Mundial, abiertos en 1930. Uno de los mercados cubiertos más grandes de Europa.",
+        testo: "Cinco pabellones hechos con los hangares de zepelines alemanes de la Primera Guerra Mundial, abiertos en 1930. Se considera el mayor mercado de Europa.",
         come: "A pie desde la estación de ferrocarril.",
         quando: "Mañana.",
         tempo: "1-2 horas",
@@ -100,12 +99,12 @@ export const destinazioniLettonia: Destinazione[] = [
       },
       {
         nome: "Monumento a la Libertad y Museo de la Ocupación",
-        testo: "El monumento de 1935 es el símbolo de la independencia letona, con una guardia de honor. El Museo de la Ocupación, en la Plaza del Ayuntamiento, cuenta la historia soviética y nazi.",
+        testo: "El monumento, inaugurado en 1935, es el símbolo de la independencia letona; la guardia de honor, retirada por los soviéticos, volvió en 1992 y no hace guardia con frío o calor extremos. El Museo de la Ocupación, en Latviešu strēlnieku laukums en la Ciudad Vieja, cuenta la historia soviética y nazi.",
         come: "A pie desde el casco antiguo (10 minutos).",
         quando: "Mañana.",
         tempo: "1,5 horas",
         url: "https://okupacijasmuzejs.lv",
-        consiglio: "Comprobar horarios y condiciones de entrada del Museo de la Ocupación en su sitio web."
+        consiglio: "El Museo de la Ocupación abre todos los días 10-18; entradas en la web oficial."
       }
     ],
     programmi: [
@@ -165,9 +164,9 @@ export const destinazioniLettonia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Locales nocturnos en el casco antiguo: algunos inflan la cuenta, revisar la carta antes de pedir.",
-      "Taxis: usar Bolt o Eco Taxi, no los aparcados cerca de la estación.",
-      "Carteristas en el casco antiguo y en el Mercado Central.",
+      "Vida nocturna: a algunos turistas se les han cobrado precios altísimos o cargos falsos en la tarjeta. Mirar el pago con tarjeta delante de uno y desconfiar si piden volver a meter el PIN.",
+      "Taxis: reservar con una compañía conocida o tomarlo en una parada, solo coches registrados con matrícula amarilla; acordar antes el precio aproximado.",
+      "Carteristas en el casco antiguo, en el Mercado Central y en las estaciones de tren y autobús.",
       "En invierno las aceras están heladas: calzado adecuado."
     ],
     esperienzeSlugs: ['riga-art-nouveau-passeggiata', 'riga-mercato-centrale-tour'],
@@ -212,12 +211,12 @@ export const destinazioniLettonia: Destinazione[] = [
     luoghi: [
       {
         nome: "Playa de Jūrmala",
-        testo: "Una playa de arena blanca continua de unos 32 km, entre las más anchas y limpias del Báltico, en la costa del Golfo de Riga.",
-        come: "Tren desde Riga a Majori (unos 30 minutos).",
+        testo: "Una playa de arena blanca de cuarzo de unos 33 km, en la costa del Golfo de Riga.",
+        come: "Tren desde Riga a Majori, en la línea Riga-Tukums.",
         quando: "Verano, cuando hace calor; en invierno está desierta y evocadora.",
         tempo: "media jornada",
         costo: "entrada libre",
-        consiglio: "El tren es más cómodo que el coche: en verano se paga un peaje para entrar en vehículo."
+        consiglio: "El tren es más cómodo que el coche: los no residentes pagan un peaje para entrar en Jūrmala en vehículo."
       },
       {
         nome: "Jomas iela",
@@ -258,7 +257,7 @@ export const destinazioniLettonia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Para entrar en coche en Jūrmala en verano se paga una tasa: la excursión en tren es más sencilla.",
+      "Para entrar en coche en Jūrmala los no residentes pagan un peaje: la excursión en tren es más sencilla.",
       "La playa tiene viento: llevar una sudadera incluso en verano.",
       "Los fines de semana de verano los restaurantes están llenos: reservar."
     ],

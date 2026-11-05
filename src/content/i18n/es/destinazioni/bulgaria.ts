@@ -31,26 +31,26 @@ export const destinazioniBulgaria: Destinazione[] = [
     luoghi: [
       {
         nome: "Zona de esquí de Bansko",
-        testo: "A la zona se llega con una larga góndola desde el pueblo. Las pistas están bien cuidadas con nieve artificial garantizada en más del 90%, pero son más tranquilas que las alpinas. Se va por la experiencia exótica en un rincón de Europa fuera de los circuitos más conocidos.",
-        come: "Estación de la góndola a pocos minutos a pie del centro; forfait diario en taquilla u online.",
-        quando: "De diciembre a mediados de abril; por la mañana temprano la góndola tiene colas.",
+        testo: "Desde 2003 a la zona se llega con una larga góndola desde el pueblo hasta la base de Banderishka Polyana; los remontes llegan a unos 2.600 metros. Las pistas son más tranquilas que las alpinas. Se va por la experiencia exótica en un rincón de Europa fuera de los circuitos más conocidos.",
+        come: "Estación de la góndola a pocos minutos a pie del centro; forfait en taquilla u online. Góndola 8:30-17, telesillas 8:45-16:15.",
+        quando: "Invierno, fechas de la temporada en la web oficial; por la mañana temprano la góndola tiene colas.",
         tempo: "jornada completa",
-        costo: "forfait diario 35-40 euros, hasta un 25% menos online (dato del viaje, a revisar)",
+        costo: "precios de los forfaits en la web oficial",
         url: "https://banskoski.com",
-        consiglio: "Reservar el forfait online para evitar la cola y ahorrar."
+        consiglio: "Comprar el forfait online para evitar la cola de la taquilla."
       },
       {
         nome: "Bajada nocturna iluminada",
-        testo: "Una pista iluminada de 7,5 km para esquiar de noche, bajando hasta el pueblo. Es una de las atracciones más particulares de Bansko.",
+        testo: "La pista de vuelta al pueblo, de unos 7-8 km, se ilumina para esquiar de noche, pero no todos los días. Es una de las atracciones más particulares de Bansko.",
         come: "Góndola hasta la estación intermedia y descenso; horarios en la web de la zona.",
         quando: "Noche, en los días de apertura nocturna.",
         tempo: "1-2 horas",
         url: "https://banskoski.com",
-        consiglio: "Después de la bajada, après-ski en el Sopranos o en el Happy End Bar, en la base de la góndola."
+        consiglio: "Después de la bajada, après-ski en los locales de la base de la góndola."
       },
       {
         nome: "Todorka Peak",
-        testo: "El mirador a 2.560 metros sobre la zona de esquí, con vista a los montes Pirin. Se llega con los remontes.",
+        testo: "La estación superior de Todorka, a unos 2.550 metros, con vista a los montes Pirin. Se llega con los remontes.",
         come: "Góndola y telesillas.",
         quando: "Día despejado, en invierno.",
         tempo: "1 hora",
@@ -58,7 +58,7 @@ export const destinazioniBulgaria: Destinazione[] = [
       },
       {
         nome: "Casco antiguo de Bansko",
-        testo: "Casas de piedra y madera de la «escuela de Bansko» (el renacimiento búlgaro del siglo XIX), la iglesia de la Santísima Trinidad y las mehanas típicas con kapama, banitsa y shopska salata. Es más animado por la noche.",
+        testo: "Casas de piedra y madera de la «escuela de Bansko» (el renacimiento búlgaro del siglo XIX), la iglesia de la Santísima Trinidad, construida por los vecinos en 1835, y las mehanas típicas con kapama, banitsa y shopska salata. Es más animado por la noche.",
         come: "A pie desde la estación de la góndola.",
         quando: "Noche.",
         tempo: "2 horas",
@@ -85,7 +85,7 @@ export const destinazioniBulgaria: Destinazione[] = [
     ],
     attenzioni: [
       "Bulgaria usa el euro desde el 1 de enero de 2026: comparar con los precios en lev de datos antiguos.",
-      "Desde Sofía son unas 2-2h30 por carretera (160 km): usar traslados reservados, no taxis de la calle.",
+      "Desde Sofía son unos 160 km por carretera: usar traslados reservados, no taxis de la calle.",
       "La zona de esquí tiene colas en temporada alta: llegar pronto a la góndola.",
       "En coche en invierno hacen falta neumáticos de invierno y cadenas a bordo."
     ],
@@ -122,8 +122,8 @@ export const destinazioniBulgaria: Destinazione[] = [
     luoghi: [
       {
         nome: "Complejo del Monasterio de Rila",
-        testo: "El mayor monasterio búlgaro, Patrimonio de la UNESCO, fundado en el siglo X por San Juan de Rila y reconstruido entre 1834 y 1862 tras un incendio. Las altas murallas de piedra, casi de fortaleza, encierran un patio de pórticos con franjas blancas y negras.",
-        come: "En coche o bus desde Sofía (unas 2-2,5 horas) o como desvío en la carretera entre Bansko y Sofía.",
+        testo: "El mayor y más famoso monasterio ortodoxo de Bulgaria, Patrimonio de la UNESCO, fundado en el siglo X, según la tradición, por San Juan de Rila y reconstruido entre 1834 y 1862 tras un incendio. Las altas murallas de piedra, casi de fortaleza, encierran un patio de pórticos con franjas blancas y negras.",
+        come: "En coche o bus desde Sofía, 117 km al norte, o como desvío en la carretera entre Bansko y Sofía.",
         quando: "Temprano por la mañana, antes de los autobuses turísticos.",
         tempo: "1,5-2 horas",
         costo: "entrada libre",
@@ -131,7 +131,7 @@ export const destinazioniBulgaria: Destinazione[] = [
       },
       {
         nome: "Iglesia de la Natividad de la Virgen",
-        testo: "La iglesia de cinco cúpulas con frescos de colores vivos en el pórtico y en el interior, obra de pintores búlgaros del siglo XIX (entre ellos Zahari Zograf). En el interior no se puede fotografiar.",
+        testo: "La iglesia de cinco cúpulas con frescos de colores vivos en el pórtico y en el interior, obra de varios pintores del siglo XIX, entre ellos los hermanos Zahari y Dimitar Zograf. Para las fotos en el interior, seguir las normas del monasterio.",
         come: "Dentro del patio del monasterio.",
         quando: "Mañana.",
         tempo: "30-45 minutos",
@@ -144,7 +144,7 @@ export const destinazioniBulgaria: Destinazione[] = [
         come: "En el complejo, entrada aparte.",
         quando: "De día.",
         tempo: "45 minutos",
-        costo: "unos 4 € (dato del viaje; desde 2026 se paga en euros, tarifa actual en el lugar)",
+        costo: "entrada aparte, en euros desde 2026: precio expuesto en el lugar",
         consiglio: "El billete es fácil de perder: guardarlo en el bolsillo."
       }
     ],
@@ -156,7 +156,7 @@ export const destinazioniBulgaria: Destinazione[] = [
     ],
     attenzioni: [
       "Ropa modesta: hombros y rodillas cubiertos, sin sombrero dentro de la iglesia.",
-      "No fotografiar dentro de la iglesia y no gritar.",
+      "Dentro de la iglesia respetar las normas sobre fotos y hablar en voz baja.",
       "Carretera de montaña: en invierno hacen falta neumáticos de nieve."
     ],
     esperienzeSlugs: ['visita-monastero-rila'],

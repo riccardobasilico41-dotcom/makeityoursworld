@@ -40,7 +40,7 @@ export const destinazioniFlorida: Destinazione[] = [
         nome: "Little Havana and Calle Ocho",
         testo: "The Cuban exile quarter along Calle Ocho (SW 8th Street): cigar shops, cafés serving Cuban coffee, and Domino Park, where elderly men play dominoes every day.",
         come: "By car or Uber from Miami Beach, about 20-25 minutes. You explore on foot, and entry to Domino Park is free.",
-        quando: "By day for Domino Park; on Friday evenings the Viernes Culturales events liven things up.",
+        quando: "By day for Domino Park. On the last Friday of the month, from noon, Calle Ocho hosts the Viernes Culturales street festival: dates on the website.",
         tempo: "2-3 hours",
         costo: "Free (Domino Park)",
         consiglio: "For me it was the least touristy gem of Miami: a piece of everyday life away from the beaten track. Watch the dominoes respectfully and don't photograph the players up close.",
@@ -48,16 +48,16 @@ export const destinazioniFlorida: Destinazione[] = [
       {
         nome: "Art Deco District of Miami Beach",
         testo: "A district of 1930s and 1940s Art Deco buildings in pastel colours along Ocean Drive and Collins Avenue. It is the historic centre of South Beach.",
-        come: "On foot along Ocean Drive; the guided tour starts from the Art Deco Welcome Center at 1001 Ocean Drive. The tour lasts about 1.5 hours.",
+        come: "On foot along Ocean Drive; the guided walking tour starts every day from the Art Deco Welcome Center at 1001 Ocean Drive.",
         quando: "Early morning or sunset, when the bars are quieter. The evening is very lively.",
         tempo: "1.5 hours",
-        costo: "Paid guided tour, including entry to the Art Deco Museum: price and times on the MDPL website",
+        costo: "Paid guided tour: price and times on the MDPL website",
         url: "https://www.mdpl.org/",
         consiglio: "Ocean Drive at night is loud and pricey. To see the buildings in peace the morning is better.",
       },
       {
         nome: "Wynwood Walls and the Wynwood murals",
-        testo: "A neighbourhood of former warehouses whose walls are covered in murals by international artists. The heart is Wynwood Walls, a courtyard with new works each year.",
+        testo: "A neighbourhood of former warehouses whose walls are covered in murals by international artists. The heart is Wynwood Walls, a courtyard whose works change over time.",
         come: "By car or Uber from South Beach, 15 minutes. You explore on foot.",
         quando: "By day for the light. At weekends it is crowded and there is music.",
         tempo: "1.5-2 hours",
@@ -67,9 +67,9 @@ export const destinazioniFlorida: Destinazione[] = [
       },
       {
         nome: "Vizcaya Museum and Gardens",
-        testo: "A villa in Italian Renaissance style built in 1916 for an industrialist, with formal gardens on Biscayne Bay in the Coconut Grove neighbourhood.",
-        come: "By car or Uber from South Beach, about 20 minutes. You visit the villa with an audio guide or on your own, and the gardens.",
-        quando: "Open every day except Tuesday; check the hours on the website. Better in the morning, because of the heat.",
+        testo: "A villa in Italian Renaissance style built in the 1910s for the industrialist James Deering, with formal gardens on Biscayne Bay in the Coconut Grove neighbourhood.",
+        come: "By car or Uber from South Beach, about 20 minutes. You visit the villa and the gardens.",
+        quando: "Open every day except Tuesday, 9:30 am to 4:30 pm (official site, 2026). Better in the morning, because of the heat.",
         tempo: "2-3 hours",
         url: "https://vizcaya.org/",
         consiglio: "Plan time for the gardens: they are the best part in the afternoon light.",
@@ -148,15 +148,15 @@ export const destinazioniFlorida: Destinazione[] = [
         nome: "Seven Mile Bridge",
         testo: "The bridge about 11 kilometres long on the Overseas Highway, which crosses the sea between two shades of blue. It is one of the most beautiful stretches of driving in the United States.",
         come: "Drive it on the US-1, from Marathon towards Key West. Photo stops are made before and after the bridge, not on it.",
-        quando: "In the morning, with the sun behind you heading south.",
+        quando: "Under a clear sky, when the water shows its brightest colours.",
         tempo: "15 minutes' drive",
         costo: "Free",
         consiglio: "As you approach, the road gets better and better: stop the car before or after the bridge, never on it.",
       },
       {
         nome: "Hemingway Home and Museum",
-        testo: "Ernest Hemingway's house in Key West, where he lived in the 1930s. In the garden live many six-toed cats, descendants of his cat.",
-        come: "On foot from the Key West old town, on Whitehead Street. You visit with a guide or alone, with a tour of the garden.",
+        testo: "Ernest Hemingway's house in Key West, where he lived in the 1930s. In the garden live many cats, some with six toes: they descend from Snow White, the six-toed cat a ship's captain gave Hemingway.",
+        come: "On foot from the Key West old town, on Whitehead Street. Visits and tours: details on the website.",
         quando: "Open every day, 9 am to 5 pm. Morning is best, to avoid the heat and the crowds.",
         tempo: "1 hour",
         url: "https://www.hemingwayhome.com/",
@@ -173,9 +173,9 @@ export const destinazioniFlorida: Destinazione[] = [
       },
       {
         nome: "Bahia Honda State Park",
-        testo: "A state park with the most beautiful beach in the Keys, white sand and clear water, and an old railway bridge from which you can see the sea.",
-        come: "By car on the US-1, about 35 minutes from Marathon. Entry is paid per car. Snorkelling is booked with the park's tours.",
-        quando: "In the morning, for calm water. Arrive before noon for the afternoon tour.",
+        testo: "A state park with a long white-sand beach, voted the best in the United States in 1992, and a stretch of the old railway bridge with views over the surrounding islands.",
+        come: "By car on the US-1, about 19 km west of Marathon. Entry is paid. The park runs boat trips to snorkel on the reef and rents gear.",
+        quando: "In the morning, before the heat.",
         tempo: "3-4 hours",
         url: "https://www.floridastateparks.org/BahiaHonda",
         consiglio: "Book snorkelling ahead and arrive before noon, otherwise you miss the afternoon tour.",
@@ -196,7 +196,7 @@ export const destinazioniFlorida: Destinazione[] = [
       { nome: "Key West, Atlantic side", perChi: "Those who want beach and calm", testo: "Further from the nightlife." },
     ],
     sapori: [
-      { nome: "Key lime pie", testo: "The Keys' lime pie, born here, with a biscuit base and cream." },
+      { nome: "Key lime pie", testo: "The lime pie that is the symbol of the Keys, with a biscuit base and cream." },
       { nome: "Fresh Keys fish", testo: "Grilled mahi-mahi and snapper in harbour restaurants." },
       { nome: "Conch fritters", testo: "Conch fritters, typical of the Caribbean and the Keys." },
       { nome: "Cuban food", testo: "Cuban sandwiches and coffee, from the nearby island's influence." },
@@ -242,8 +242,8 @@ export const destinazioniFlorida: Destinazione[] = [
     luoghi: [
       {
         nome: "Everglades National Park",
-        testo: "A marsh of shallow water and sawgrass more than a metre tall, the largest ecosystem of its kind in the United States. Alligators live here, with birds such as herons and spoonbills, and manatees in winter.",
-        come: "The park has several entrances. Shark Valley is on the Tamiami Trail, about an hour from Miami. In the park you drive and walk trails on boardwalks.",
+        testo: "A marsh of shallow water and tall sawgrass, the largest subtropical wilderness in the United States. Alligators live here, with birds such as herons and spoonbills, and manatees in winter.",
+        come: "The park has several entrances. Shark Valley is on the Tamiami Trail, west of Miami. In the park you drive and walk trails on boardwalks.",
         quando: "Early morning, before the heat; in winter (December to April) is the dry season, the best for seeing animals.",
         tempo: "half a day",
         costo: "35 $ per vehicle, 7 days (NPS). Visitors who are not US residents, aged 16 and over, also pay 100 $ each unless they hold an annual pass (NPS, 2026)",
@@ -253,7 +253,7 @@ export const destinazioniFlorida: Destinazione[] = [
       {
         nome: "Shark Valley",
         testo: "A paved loop of about 24 km in the marsh, with an observation tower halfway round. You do it by bike, on foot or on the guided tram.",
-        come: "Entrance from the Tamiami Trail. The tram and bike hire are run by a park concessionaire.",
+        come: "Entrance from the Tamiami Trail. The guided tram and bike hire are run by Shark Valley Tram Tours, the park concessionaire. There is no public transport, and with Uber a ride back is not guaranteed.",
         quando: "Morning, to avoid the heat; in winter for more wildlife.",
         tempo: "2-3 hours",
         url: "https://www.nps.gov/ever/",
@@ -262,9 +262,9 @@ export const destinazioniFlorida: Destinazione[] = [
       {
         nome: "Airboat tour",
         testo: "Flat boats with a big propeller that skim over the marsh outside the park, among alligators and birds. The noise is loud and you wear ear protection.",
-        come: "Book with private operators along the Tamiami Trail. The tour lasts about an hour.",
+        come: "Book with the operators along the Tamiami Trail, 15-20 minutes east of Shark Valley.",
         quando: "Morning or late afternoon. Animals are more active in moderate heat.",
-        tempo: "1 hour",
+        tempo: "1-2 hours",
         consiglio: "It is a touristy experience but fun; check the reviews and choose an operator with a guide who explains the wildlife.",
       },
       {
@@ -300,7 +300,7 @@ export const destinazioniFlorida: Destinazione[] = [
       "At the Everglades visitors who are not US residents, aged 16 and over, pay 100 $ each on top of entry (NPS, 2026): the non-resident annual pass avoids it.",
       "Mosquitoes and heat are fierce: repellent, hat and water.",
       "Do not approach alligators and do not feed them.",
-      "Airboats operate on private land outside the park: make sure you choose an authorised operator.",
+      "For the airboat choose an authorised operator: the park website lists the concessions along the Tamiami Trail.",
     ],
     esperienzeSlugs: ['everglades-airboat'],
     tripSlugs: ['florida-road-trip'],
@@ -334,7 +334,7 @@ export const destinazioniFlorida: Destinazione[] = [
     luoghi: [
       {
         nome: "Universal Orlando Resort",
-        testo: "Two theme parks, Universal Studios Florida and Islands of Adventure, with the worlds of Harry Potter, Jurassic Park and Marvel. In the evening there is the CityWalk restaurant area.",
+        testo: "Three theme parks, Universal Studios Florida, Islands of Adventure and Epic Universe (opened in May 2025), plus the Volcano Bay water park, with the worlds of Harry Potter, Jurassic Park and Marvel. In the evening there is the CityWalk restaurant area.",
         come: "By car from the Kissimmee or ChampionsGate lodgings, about 30 minutes. Buy the ticket online beforehand; paid parking (26 $ at Universal Studios, from the trip).",
         quando: "Arrive at least an hour before opening. Weekdays out of season are less crowded.",
         tempo: "1 day per park",
@@ -345,7 +345,7 @@ export const destinazioniFlorida: Destinazione[] = [
       {
         nome: "Walt Disney World",
         testo: "A complex of four parks (Magic Kingdom, EPCOT, Hollywood Studios and Animal Kingdom). Magic Kingdom is the most classic, with Cinderella's castle.",
-        come: "By car or with the hotel's free shuttles, where available. Tickets are bought online on the official site, often for at least two days.",
+        come: "By car or with the hotel's free shuttles, where available. Tickets are bought online on the official site.",
         quando: "Arrive before opening. In summer it is very hot, and on holidays the parks are packed.",
         tempo: "1 day per park",
         url: "https://disneyworld.disney.go.com/",
@@ -353,7 +353,7 @@ export const destinazioniFlorida: Destinazione[] = [
       },
       {
         nome: "Lake Eola",
-        testo: "A small lake in downtown Orlando, with swans and the characteristic group of fountains, and a park for an evening stroll.",
+        testo: "A small lake in downtown Orlando, with the big fountain that changes colour at night, and a park for a stroll.",
         come: "On foot from the centre, or by car with parking nearby. Entry is free.",
         quando: "Sunset or evening, for the walk.",
         tempo: "1 hour",
@@ -427,7 +427,7 @@ export const destinazioniFlorida: Destinazione[] = [
     comeSpostarsi: "Free shuttle bus between the two sites of the complex.",
     periodoMigliore: 'check in advance whether a launch is scheduled on the day of the visit',
     costi: "Kennedy Space Center ticket $57.",
-    erroriDaEvitare: ["Taking the \"toll by plate\" lanes on the Florida Turnpike toward Miami: they're reserved for people with a SunPass"],
+    erroriDaEvitare: ["Using the Florida Turnpike in a rental car without knowing how the company charges the electronic tolls"],
     miaEsperienza:
       "The reconstruction of the control room that launches the Saturn V, and right after it the real rocket in all its enormity: it's one of the most impressive moments of the Florida trip.",
     luoghi: [
@@ -470,7 +470,7 @@ export const destinazioniFlorida: Destinazione[] = [
       ] },
     ],
     zone: [
-      { nome: "Cocoa Beach", perChi: "Those who want the sea nearby", testo: "Beach town 30 minutes away, with motels." },
+      { nome: "Cocoa Beach", perChi: "Those who want the sea nearby", testo: "Beach town close to the Kennedy Space Center, with motels." },
       { nome: "Orlando", perChi: "Day-trippers", testo: "More hotel choice, an hour from the Kennedy." },
     ],
     sapori: [
@@ -479,7 +479,7 @@ export const destinazioniFlorida: Destinazione[] = [
       { nome: "Visitor-centre sandwiches", testo: "Quick lunch inside the complex." },
     ],
     attenzioni: [
-      "On the Florida Turnpike, in the «toll by plate» lanes you need SunPass: do not take them with a rental car without knowing how it is paid.",
+      "On the Florida Turnpike tolls are electronic, by SunPass or by a photo of the plate (Toll-By-Plate). With a rental car, ask at pick-up how they will charge you.",
       "Check the launch calendar: on launch days traffic is heavy and the park may change hours.",
       "The sun is strong and there is little shade: hat and water.",
       "Arrive early: the day is long.",

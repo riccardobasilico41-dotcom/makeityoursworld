@@ -48,20 +48,19 @@ export const destinazioniEstonia: Destinazione[] = [
     luoghi: [
       {
         nome: "Plaza del Ayuntamiento (Raekoja plats)",
-        testo: "El corazón medieval de la ciudad, con el Ayuntamiento gótico de 1404, el más antiguo aún en uso del Báltico. En verano tiene mesas al aire libre; en diciembre acoge el mercadillo de Navidad.",
+        testo: "El corazón medieval de la ciudad, con el Ayuntamiento gótico terminado en 1404, el más antiguo de la región del Báltico y de Escandinavia, hoy museo y sala de conciertos. En verano tiene mesas al aire libre; en diciembre acoge el mercadillo de Navidad.",
         come: "A pie desde el puerto (10-15 minutos).",
-        quando: "Temprano por la mañana, para la plaza sin multitudes; el Ayuntamiento abre solo en verano.",
+        quando: "Temprano por la mañana, para la plaza sin multitudes; horarios de visita del Ayuntamiento y su torre en la web oficial.",
         tempo: "1 hora",
         url: "https://www.tallinn.ee",
         consiglio: "Comprobar los días de cruceros: la plaza se llena de grupos."
       },
       {
         nome: "Toompea y Catedral Alexander Nevsky",
-        testo: "La colina sobre la ciudad baja, con el Castillo de Toompea (sede del Parlamento) y la catedral ortodoxa rusa de 1900, con cúpulas de cebolla. La subida es corta pero panorámica.",
+        testo: "La colina sobre la ciudad baja, con el Castillo de Toompea (sede del Parlamento) y la catedral ortodoxa Alexander Nevsky, construida entre 1894 y 1900, con cinco cúpulas de cebolla. La subida es corta pero panorámica.",
         come: "A pie desde la Plaza del Ayuntamiento, subiendo por Pikk jalg.",
         quando: "Mañana.",
         tempo: "1,5 horas",
-        costo: "entrada libre a la catedral",
         consiglio: "Para fotos de la ciudad desde arriba, las plataformas de Kohtuotsa y Patkuli."
       },
       {
@@ -75,17 +74,17 @@ export const destinazioniEstonia: Destinazione[] = [
       },
       {
         nome: "Murallas y torres medievales",
-        testo: "Unos 1,85 km de murallas todavía en pie con una veintena de torres, entre ellas la Kiek in de Kök, torre-cañón cuyo nombre significa «mira en la cocina». Se puede subir a algunas torres.",
+        testo: "Unos 1,85 km de murallas todavía en pie, de los 2,35 originales, con 28 torres medievales, entre ellas la Kiek in de Kök, torre de artillería de 1475-1483 cuyo nombre significa «mira en la cocina». También se visitan la Torre de la Doncella, la torre de la puerta de Lühike jalg y los pasadizos subterráneos de los bastiones.",
         come: "A pie, por Müürivahe.",
         quando: "De día, con buenas condiciones.",
         tempo: "1-2 horas",
-        costo: "12 euros por la entrada a las cuatro torres (dato del sitio, a revisar)",
+        costo: "entradas y precios en la web del Museo de la ciudad",
         url: "https://www.linnamuuseum.ee",
-        consiglio: "La entrada combinada compensa para varias torres."
+        consiglio: "Juntar Kiek in de Kök y los pasadizos de los bastiones en la misma visita."
       },
       {
         nome: "Iglesia de San Olaf (Oleviste kirik)",
-        testo: "Iglesia con una aguja de 124 metros que en el siglo XVI fue por un tiempo el edificio más alto del mundo. Se sube a la torre por la vista.",
+        testo: "Iglesia con una aguja de casi 124 metros, durante mucho tiempo el punto más alto de la ciudad. En la torre hay una plataforma panorámica a 60 metros.",
         come: "A pie, al final de la Plaza del Ayuntamiento.",
         quando: "Día despejado.",
         tempo: "45 minutos",
@@ -95,18 +94,18 @@ export const destinazioniEstonia: Destinazione[] = [
       {
         nome: "Parque y Palacio de Kadriorg, KUMU",
         testo: "El Palacio, mandado construir por Pedro el Grande en 1718 para su esposa Catalina I, con el parque y el Kumu, el museo de arte estonio, en un edificio moderno en el mismo parque.",
-        come: "Tranvía 1 o 3 hasta Kadriorg, 10 minutos del centro.",
-        quando: "Tarde; el parque es libre.",
+        come: "En tranvía hasta Kadriorg.",
+        quando: "Tarde; el parque es libre. El Kumu cierra los lunes, abre 10-18 y los jueves hasta las 20.",
         tempo: "3 horas",
-        costo: "KUMU 12-16 euros según la exposición (dato del sitio, a revisar)",
+        costo: "entradas del Kumu en la web oficial",
         url: "https://kumu.ekm.ee",
         consiglio: "El parque es un buen lugar para pasear fuera del centro."
       },
       {
         nome: "Telliskivi Creative City",
-        testo: "El antiguo complejo industrial soviético, desde 2009 barrio creativo con arte urbano, estudios, tiendas independientes y restaurantes. El sábado hay un mercadillo.",
+        testo: "Los antiguos talleres donde se reparaban las locomotoras, hoy barrio creativo con arte urbano, estudios, tiendas independientes y restaurantes.",
         come: "A pie desde el casco antiguo (15 minutos) o en tranvía.",
-        quando: "Noche, por los locales; sábado por el mercado.",
+        quando: "Noche, por los locales; el sábado por las tiendas.",
         tempo: "2 horas",
         costo: "entrada libre",
         consiglio: "Aquí se come muy bien a precios razonables."

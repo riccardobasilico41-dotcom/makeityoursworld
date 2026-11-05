@@ -208,30 +208,30 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Tre Cime di Lavaredo",
         "testo": "Tre torri di dolomia che spuntano da un altopiano di ghiaia: il simbolo delle Dolomiti. Il giro ad anello attorno alla base passa per il Rifugio Auronzo, il Rifugio Lavaredo, la Forcella Lavaredo e il Rifugio Locatelli, con la parete nord proprio sopra la testa.",
         "come": "Da Cortina o da Dobbiaco si arriva ad Auronzo o a Misurina, poi si sale in auto sulla strada a pedaggio fino al Rifugio Auronzo (2.320 m), dove parte il giro. In alternativa c'è la navetta da Misurina.",
-        "quando": "Da giugno a ottobre, quando la strada e i rifugi sono aperti. Arrivare all'apertura o dopo le 15: nelle ore centrali di luglio e agosto il sentiero è una fila continua.",
+        "quando": "Dalla tarda primavera all'autunno, quando la strada è aperta: nel 2026 ha riaperto il 23 maggio, e le date si controllano sul portale di prenotazione. Arrivare all'apertura o nel tardo pomeriggio: nelle ore centrali di luglio e agosto il sentiero è una fila continua.",
         "tempo": "3-4 ore per il giro completo (circa 10 km)",
-        "costo": "40 euro per auto, 2026; la prenotazione online è obbligatoria e il ticket vale 12 ore. La navetta da Misurina costa 10 euro a persona al giorno",
+        "costo": "40 euro per auto e 26 per moto, 2026; la prenotazione online è obbligatoria e il ticket vale 12 ore dall'orario scelto. La navetta da Misurina al Rifugio Auronzo costa 10 euro a persona al giorno",
         "consiglio": "Ho fatto il giro in agosto e sembrava una fila indiana: a settembre si cammina con un terzo della gente. Se si parte presto, conviene girare in senso orario e salire al Locatelli con la luce laterale del mattino."
       },
       {
         "nome": "Lago di Braies",
         "testo": "Il lago alpino più fotografato dell'Alto Adige, verde smeraldo, ai piedi della Croda del Becco. Il sentiero attorno al lago è facile e pianeggiante. Da qui parte anche l'Alta Via 1.",
-        "come": "Da Dobbiaco si prende la strada della Val di Braies fino al parcheggio sul lago. D'estate l'accesso in auto è contingentato e richiede prenotazione nella fascia 9-16; in alternativa ci sono bus e navette da Dobbiaco e da Villabassa.",
-        "quando": "Da giugno a ottobre. Alba e dopo le 17 per avere il lago senza folla; l'estate, a mezzogiorno, è molto affollato.",
+        "come": "Da Dobbiaco si prende la strada della Val di Braies fino al parcheggio sul lago. D'estate l'accesso in auto è contingentato e nelle ore centrali richiede prenotazione: date e orari sul sito del Comune di Braies. In alternativa ci sono bus e navette da Dobbiaco e da Villabassa.",
+        "quando": "Da giugno a ottobre. All'alba o nel tardo pomeriggio si ha il lago senza folla; a mezzogiorno d'estate è molto affollato.",
         "tempo": "1 ora per il giro del lago, 3-4 ore con il sentiero fino alla Forcella del Lago",
         "consiglio": "Chi dorme nella valle e va al lago all'alba o la sera ha un'altra esperienza. Evitare di noleggiare la barca a mezzogiorno: la coda è lunga e il lago è pieno."
       },
       {
         "nome": "Seceda",
-        "testo": "Una cresta erbosa che a un certo punto si spezza in pareti verticali di oltre 2.500 metri: il panorama che compare in tutte le cartoline della Val Gardena. Dalla cima si vedono le Odle e, dall'altra parte, tutte le Dolomiti.",
+        "testo": "Una cresta erbosa a circa 2.500 metri che a un certo punto si spezza in pareti verticali: il panorama che compare in tutte le cartoline della Val Gardena. Dalla cima si vedono le Odle e, dall'altra parte, tutte le Dolomiti.",
         "come": "Da Ortisei la funivia sale alla Furnes e poi alla Seceda (2.500 m). Dalla cima si può scendere a piedi verso Santa Cristina passando dal Rifugio Firenze.",
-        "quando": "Da giugno a ottobre, con funivie aperte in estate. Meglio la prima corsa del mattino: le nuvole salgono di solito dopo le 11.",
+        "quando": "Da giugno a ottobre, con funivie aperte in estate. Meglio la prima corsa del mattino: le nuvole salgono di solito in tarda mattinata.",
         "tempo": "mezza giornata; una giornata con la discesa a piedi",
         "consiglio": "La discesa a piedi verso Santa Cristina costa fatica nelle gambe ma si lascia la folla all'arrivo della funivia. Portare una giacca: in cima tira vento anche ad agosto."
       },
       {
         "nome": "Alpe di Siusi",
-        "testo": "L'altopiano alpino più esteso d'Europa, con prati a oltre 1.800 metri, malghe e il Sassolungo e lo Sciliar sullo sfondo. È uno dei posti più facili delle Dolomiti: sentieri larghi, pochi dislivelli, ottimo per famiglie e passeggiate lunghe.",
+        "testo": "L'altopiano alpino più esteso d'Europa, con prati d'alta quota, malghe e il Sassolungo e lo Sciliar sullo sfondo. È uno dei posti più facili delle Dolomiti: sentieri larghi, pochi dislivelli, ottimo per famiglie e passeggiate lunghe.",
         "come": "Da Siusi allo Sciliar o da Ortisei si sale in cabinovia fino alla Compaccio o al Mont Seuc. Sull'altopiano le auto private non possono salire quasi tutto il giorno: ci si muove a piedi, in bus o in bici.",
         "quando": "Da giugno a ottobre. A fine settembre i larici sono gialli.",
         "tempo": "una giornata",
@@ -240,7 +240,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Cinque Torri",
         "testo": "Un gruppo di cinque torri di roccia vicino a Cortina, dove durante la Grande Guerra si combatté a pochi metri dal nemico. Oggi è un museo all'aperto con trincee, gallerie e postazioni restaurate, percorribili a piedi.",
-        "come": "Dal Passo Falzarego o da Bai de Dones, con la seggiovia fino al Rifugio Scoiattoli, poi si cammina tra le torri e il museo. Cortina è a circa 20 minuti d'auto.",
+        "come": "Dal Passo Falzarego o da Bai de Dones, con la seggiovia fino al Rifugio Scoiattoli, poi si cammina tra le torri e il museo. Cortina è vicina in auto.",
         "quando": "Da fine giugno a metà ottobre, con gli impianti aperti.",
         "tempo": "3-4 ore con la visita al museo all'aperto",
         "consiglio": "È una delle poche escursioni facili con la storia dentro il paesaggio: arrivare con un pannello della Grande Guerra in mente rende le torri molto più interessanti."
@@ -248,7 +248,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Lago di Sorapis",
         "testo": "Un lago di montagna a forma di ferro di cavallo, di un turchese lattiginoso dato dalla farina glaciale, sotto le pareti del Sorapis. Il sentiero passa su cenge attrezzate con cavi.",
-        "come": "Dal Passo Tre Croci, a pochi chilometri da Cortina, parte il sentiero 217. Nel tratto finale ci sono passaggi esposti con cavi di sicurezza; servono scarpe da trekking.",
+        "come": "Dal Passo Tre Croci, a pochi chilometri da Cortina, parte il sentiero 215, il più frequentato. Nel tratto finale ci sono passaggi esposti con cavi di sicurezza; servono scarpe da trekking. Al lago è vietato fare il bagno e campeggiare.",
         "quando": "Da fine giugno a settembre. Prima, sui tratti ombrosi, si trova ancora neve.",
         "tempo": "5-6 ore andata e ritorno",
         "consiglio": "Partire presto: il sentiero è stretto e in alta stagione si fa coda proprio sui cavi. Il lago è il punto più bello alla fine, ma va visitato in un orario in cui ci sia ancora luce."
@@ -274,7 +274,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "titolo": "1 giorno",
         "tappe": [
-          "Alle 7:30 salire con la prima funivia da Ortisei alla Seceda (2.500 m) e camminare sulla cresta fino alla Cima Pana.",
+          "Salire con la prima funivia da Ortisei alla Seceda e camminare sulla cresta fino alla Cima Pana.",
           "Scendere a piedi verso il Rifugio Firenze e pranzare con canederli e orzotto.",
           "Nel pomeriggio proseguire fino a Santa Cristina e rientrare in bus a Ortisei.",
           "Cena a Ortisei con speck, Schlutzkrapfen e un bicchiere di Lagrein."
@@ -353,7 +353,7 @@ export const destinazioniItalia: Destinazione[] = [
       "Rifugi: prenotare da gennaio-febbraio per luglio-agosto, portare contanti (spesso la carta non funziona) e il sacco lenzuolo, obbligatorio.",
       "Il soccorso alpino in montagna in alcune regioni si paga; conviene un'assicurazione con copertura per il trekking e per l'elisoccorso.",
       "Nelle ferrate usare kit completo omologato (casco, imbrago, dissipatore) e non andare da soli senza esperienza: la maggior parte degli interventi di soccorso riguarda ferrate.",
-      "Parcheggi: ai punti più noti d'estate i posti finiscono entro le 8. Molte strade dei passi hanno limitazioni orarie o divieti per le moto in certi giorni: controllare i cartelli."
+      "Parcheggi: ai punti più noti d'estate i posti finiscono presto la mattina. Molte strade dei passi hanno limitazioni orarie o divieti per le moto in certi giorni: controllare i cartelli."
     ],
     esperienzeSlugs: ['alta-via-1', 'tre-cime-lavaredo', 'via-ferrata-dolomiti'],
     tripSlugs: ['dolomiti-roadtrip'],
@@ -609,7 +609,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Si parte da qualunque paese attorno al Sella (Selva, Canazei, Arabba, Corvara) con lo skipass Dolomiti Superski. Il senso orario è segnato con cartelli arancioni, quello antiorario con cartelli verdi.",
         "quando": "In stagione, da dicembre a metà aprile. Partire entro le 9:30 e arrivare all'ultimo impianto prima della chiusura (di solito attorno alle 16): chi arriva tardi deve rientrare con il taxi.",
         "tempo": "una giornata intera: 4-5 ore sugli sci più pause",
-        "costo": "Giornaliero Dolomiti Superski attorno a 86 euro in alta stagione e 77 in bassa, stagione 2025/26; per il 2026/27 le fonti giornalistiche parlano di un aumento di pochi euro",
+        "costo": "Le tariffe dello skipass Dolomiti Superski cambiano ogni stagione: controllarle sul sito ufficiale prima di partire",
         "url": "https://www.dolomitisuperski.com/",
         "consiglio": "Controllare gli orari dell'ultimo impianto di ogni passo la mattina stessa. Il tratto Arabba-Corvara è il più lungo senza possibilità di fermarsi: portare qualcosa da mangiare in tasca."
       },
@@ -634,7 +634,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Cervinia e Zermatt",
         "testo": "Il comprensorio più alto d'Italia: da Breuil-Cervinia (2.050 m) si sale oltre i 3.400 metri sul Plateau Rosà e si scia anche d'estate sul ghiacciaio. Con lo skipass internazionale si attraversa il confine con la Svizzera e si scende a Zermatt, sotto il Cervino.",
-        "come": "Da Aosta si va a Breuil-Cervinia in circa un'ora di auto o con i bus. Gli impianti partono dal paese. Per Zermatt serve lo skipass esteso.",
+        "come": "Da Aosta si va a Breuil-Cervinia in auto o con i bus. Gli impianti partono dal paese. Per Zermatt serve lo skipass esteso.",
         "quando": "Da novembre a maggio per la neve in quota; il collegamento con Zermatt dipende dal meteo e dal vento.",
         "tempo": "3-5 giorni; il giro Cervinia-Zermatt richiede una giornata intera",
         "url": "https://www.cervinia.it/",
@@ -643,7 +643,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Courmayeur e Skyway Monte Bianco",
         "testo": "Courmayeur si trova ai piedi del Monte Bianco. La funivia Skyway sale fino alla Punta Helbronner (3.466 m): da lì si vede il massiccio da vicino. Le piste sono più corte che nei grandi comprensori ma ci sono itinerari fuoripista famosi, come la Vallée Blanche, da fare solo con guida.",
-        "come": "Courmayeur è a un'ora da Aosta. La Skyway parte da Pontal d'Entrèves, a pochi minuti dal centro.",
+        "come": "Courmayeur si raggiunge in auto o bus da Aosta. La Skyway parte da Pontal d'Entrèves, a pochi minuti dal centro.",
         "quando": "Dicembre-aprile. Per salire con la Skyway scegliere giornate limpide: con nuvole non c'è panorama.",
         "tempo": "2-3 giorni; la Skyway richiede mezza giornata",
         "url": "https://www.montebianco.com/",
@@ -652,7 +652,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Via Lattea (Sestriere e Sauze d'Oulx)",
         "testo": "Un comprensorio piemontese di circa 400 km di piste che collega Sestriere, Sauze d'Oulx, Sansicario, Cesana e Claviere, con un passaggio in Francia a Montgenèvre. Sestriere ha ospitato le Olimpiadi del 2006. Le piste sono varie e il carattere è meno di lusso che nelle Dolomiti.",
-        "come": "Da Torino in circa 1 ora e 30 minuti di auto. Da Oulx c'è anche il treno, poi bus fino a Sauze o Sestriere.",
+        "come": "Da Torino in auto lungo la Val di Susa. Da Oulx c'è anche il treno, poi bus fino a Sauze o Sestriere.",
         "quando": "Da dicembre ad aprile. Quote più basse di Cervinia: la neve è meno garantita a inizio e fine stagione.",
         "tempo": "3-5 giorni",
         "url": "https://www.vialattea.it/",
@@ -661,7 +661,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Livigno",
         "testo": "Zona extradoganale in Valtellina, a 1.816 m, con una neve tra le più affidabili delle Alpi italiane. Piste larghe e tranquille, buone per principianti e famiglie, e un grande snowpark. Qui il carburante, gli alcolici e i profumi costano meno.",
-        "come": "Da Milano in circa 4 ore di auto, da Bormio e dal Passo d'Eira, oppure dalla Svizzera con il tunnel Munt la Schera. Controllare la viabilità invernale.",
+        "come": "Da Milano in auto, passando da Bormio e dal Passo d'Eira, oppure dalla Svizzera con il tunnel Munt la Schera. Controllare la viabilità invernale.",
         "quando": "Da fine novembre ad aprile.",
         "tempo": "3-5 giorni",
         "url": "https://www.livigno.eu/",
@@ -669,7 +669,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Marmolada",
-        "testo": "La pista più lunga delle Dolomiti scende dal ghiacciaio per circa 12 km, dalla Punta Rocca a Malga Ciapela, con quasi 2.000 metri di dislivello. È una discesa di sci di alta quota, aperta secondo le condizioni di neve.",
+        "testo": "La pista più lunga delle Dolomiti scende dal ghiacciaio per circa 12 km, dalla Punta Rocca a Malga Ciapela, con un dislivello molto forte. È una discesa di sci di alta quota, aperta secondo le condizioni di neve.",
         "come": "Da Malga Ciapela, nell'Alto Agordino, si sale con la funivia in tre tronconi fino a Punta Rocca. Da lì si scende a valle seguendo la pista. Gli impianti sono parte del Dolomiti Superski.",
         "quando": "Da dicembre ad aprile, con neve spesso buona a primavera. Gli impianti dipendono dal meteo.",
         "tempo": "mezza giornata per la discesa",
@@ -820,18 +820,18 @@ export const destinazioniItalia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Colosseo, Foro Romano e Palatino",
-        "testo": "L'anfiteatro Flavio, inaugurato nell'80 d.C., ospitava fino a 50.000 spettatori. Con lo stesso biglietto si visitano il Foro Romano, il cuore politico della città antica, e il Palatino, la collina dei palazzi imperiali.",
-        "come": "Metro B fino a Colosseo. Il biglietto è nominativo e si controlla il documento all'ingresso. Con il biglietto standard si entra nel Colosseo e si visitano il Foro e il Palatino anche in un altro momento della giornata o il giorno dopo (il biglietto vale 24 ore dal primo ingresso).",
-        "quando": "Aperto tutti i giorni, tranne il 25 dicembre e il 1 gennaio. Prima fascia del mattino o ultime ore del pomeriggio per evitare le code; d'estate il Foro è molto caldo e senza ombra.",
+        "testo": "L'anfiteatro Flavio, inaugurato nell'80 d.C., ospitava decine di migliaia di spettatori. Con lo stesso biglietto si visitano il Foro Romano, il cuore politico della città antica, e il Palatino, la collina dei palazzi imperiali.",
+        "come": "Metro B fino a Colosseo. Il biglietto è nominativo per tutte le tipologie e all'ingresso si mostra il documento. Il biglietto standard vale 24 ore, con un ingresso al Colosseo (senza arena) e uno a Foro e Palatino; le Full Experience (arena, sotterranei, attico) valgono due giorni consecutivi.",
+        "quando": "Chiuso il 25 dicembre e il 1 gennaio. Dal 25 ottobre 2026 al 28 febbraio 2027 apre alle 8:30 e chiude alle 16:30, ultimo ingresso alle 15:30; d'estate l'orario è più lungo, sul sito ufficiale. Prima fascia del mattino o ultime ore per evitare le code; d'estate il Foro è molto caldo e senza ombra.",
         "tempo": "mezza giornata, 3-4 ore per tutto",
-        "costo": "18 euro intero, 2026 (biglietto standard Colosseo, Foro e Palatino); l'esperienza Full con arena e sotterranei costa 24 euro più prenotazione",
+        "costo": "tariffe sul canale ufficiale; ingresso gratuito la prima domenica del mese, il 25 aprile, il 2 giugno e il 4 novembre",
         "url": "https://colosseo.it/",
         "consiglio": "Comprare solo dal canale ufficiale e con anticipo per le fasce migliori. Visitare prima il Foro e il Palatino se fa caldo, e il Colosseo dentro verso le ore più fresche."
       },
       {
         "nome": "Musei Vaticani e Cappella Sistina",
         "testo": "Chilometri di sale con collezioni di arte antica e rinascimentale: la Galleria delle Carte Geografiche, le Stanze di Raffaello e, in fondo, la Cappella Sistina con gli affreschi di Michelangelo. Il percorso è lungo e obbligato, con folla continua.",
-        "come": "Metro A fino a Ottaviano o Cipro, poi 10 minuti a piedi. Meglio prenotare online dal sito ufficiale per saltare la coda in biglietteria. Dalla Sistina si può uscire direttamente in San Pietro solo con visita guidata autorizzata.",
+        "come": "Metro A fino a Ottaviano o Cipro, poi a piedi. Meglio prenotare online dal sito ufficiale per saltare la coda in biglietteria.",
         "quando": "Dal lunedì al sabato 8-20, ultimo ingresso alle 18. Chiusi la domenica, tranne l'ultima del mese (9-14, ultimo ingresso alle 12:30), quando l'ingresso è gratuito e c'è una folla enorme. Chiusi anche in alcune festività religiose: vedere il calendario sul sito. Prima fascia del mattino o fine pomeriggio.",
         "tempo": "3-4 ore",
         "costo": "20 euro intero, 25 euro con la prenotazione online sul sito ufficiale (2026)",
@@ -850,15 +850,15 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Pantheon",
         "testo": "Il tempio di tutti gli dèi, rifatto sotto Adriano nel II secolo d.C. La cupola in calcestruzzo non armato è ancora la più grande al mondo del suo genere, con l'oculo aperto al centro da cui entra la luce e anche la pioggia. Dentro sono sepolti Raffaello e i primi re d'Italia.",
-        "come": "In centro, tra Piazza Navona e Fontana di Trevi, a piedi. Dal 2023 l'ingresso è a pagamento, con biglietto da comprare online o in loco. Durante le funzioni religiose l'accesso è limitato.",
-        "quando": "Tutti i giorni. Mattina presto o sera per avere meno gente; con la pioggia l'oculo crea un'atmosfera particolare.",
+        "come": "In centro, tra Piazza Navona e Fontana di Trevi, a piedi. Dal 2023 l'ingresso è a pagamento, con biglietto online o in loco. Durante le funzioni religiose l'accesso è limitato.",
+        "quando": "Tutti i giorni 9-19, ultimo ingresso alle 18:30; la prima domenica del mese l'ingresso è gratuito (sito ufficiale). Mattina presto o sera per avere meno gente; con la pioggia l'oculo crea un'atmosfera particolare.",
         "tempo": "30-45 minuti",
         "consiglio": "Controllare in anticipo le regole e il prezzo del biglietto. La piazza all'esterno è affollata e piena di ristoranti turistici: non pranzare lì."
       },
       {
         "nome": "Galleria Borghese",
         "testo": "La collezione del cardinale Scipione Borghese in una villa dentro il parco: Bernini (Apollo e Dafne, il Ratto di Proserpina), Caravaggio, Tiziano e Canova. È una delle raccolte più belle di Roma, con pochi visitatori alla volta.",
-        "come": "Dentro Villa Borghese, a piedi da Piazza di Spagna o da Piazzale Flaminio in circa 20 minuti. Prenotazione obbligatoria con ingresso a fasce da due ore.",
+        "come": "Dentro Villa Borghese, a piedi da Piazza di Spagna o da Piazzale Flaminio. Prenotazione obbligatoria con ingresso a fasce da due ore.",
         "quando": "Chiusa il lunedì. Le fasce si esauriscono con giorni o settimane di anticipo in alta stagione.",
         "tempo": "2 ore (la visita ha durata fissa)",
         "url": "https://galleriaborghese.cultura.gov.it/",
@@ -867,8 +867,8 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Appia Antica",
         "testo": "La regina delle strade romane, costruita nel 312 a.C. Ci sono i basoli originali, tombe, ville e acquedotti, e le catacombe di San Callisto e San Sebastiano sotto la strada. Il Parco dell'Appia Antica è una delle poche aree verdi grandi vicine al centro.",
-        "come": "Dal centro con il bus 118 o 660 e a piedi; in alternativa in bici a noleggio. La domenica e nei festivi il tratto principale è chiuso al traffico.",
-        "quando": "Domenica, che è il giorno migliore: chiusa alle auto. Le catacombe hanno giorni di chiusura diversi (di norma San Callisto il mercoledì e San Sebastiano la domenica): controllare.",
+        "come": "Dal centro con i bus urbani (il 118 passa da Porta Capena e Porta San Sebastiano, il 660 arriva a Cecilia Metella) e a piedi; in alternativa in bici a noleggio. La domenica e nei festivi l'Appia è chiusa ai veicoli a motore da Porta San Sebastiano in poi, dalle 9 alle 16 con l'ora solare e dalle 9 alle 18 con l'ora legale.",
+        "quando": "Domenica, che è il giorno migliore perché è chiusa alle auto. Le catacombe hanno giorni di chiusura diversi: controllarli sui loro siti prima di andare.",
         "tempo": "mezza giornata",
         "url": "https://www.parcoappiaantica.it/",
         "consiglio": "L'Appia di domenica è a mezz'ora dal Colosseo e quasi nessuno ci va. Si cammina su basoli originali tra sepolcri e pini, con gli acquedotti in lontananza. Portare acqua: lungo la strada ci sono pochi punti di ristoro."
@@ -885,19 +885,19 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "San Luigi dei Francesi",
         "testo": "La chiesa nazionale dei francesi a Roma, vicino a Piazza Navona. Nella cappella Contarelli ci sono tre tele di Caravaggio su san Matteo: la Vocazione, il Martirio e l'Ispirazione.",
-        "come": "A piedi da Piazza Navona o dal Pantheon, in pochi minuti. L'ingresso è gratuito. Per illuminare i quadri si mette una moneta da 1 euro nella gettoniera.",
+        "come": "A piedi da Piazza Navona o dal Pantheon, in pochi minuti. L'ingresso è gratuito.",
         "quando": "Tutti i giorni con orari spezzati. A metà mattina di un giorno feriale c'è poca gente.",
         "tempo": "20-30 minuti",
-        "costo": "ingresso gratuito; 1 euro per la luce",
+        "costo": "ingresso gratuito",
         "consiglio": "Ci sono andato a metà mattina di un martedì di novembre: si può restare dieci minuti davanti alla Vocazione di San Matteo praticamente da soli. Portare monete."
       },
       {
         "nome": "Trastevere e Ghetto ebraico",
         "testo": "Due rioni dove Roma è ancora abitata. Trastevere ha vicoli, osterie e la basilica di Santa Maria in Trastevere con i mosaici dorati. Il Ghetto ebraico, vicino al Portico d'Ottavia, è il posto del carciofo alla giudia.",
-        "come": "A piedi dal centro attraversando il Tevere sull'isola Tiberina. Tram 8 da Largo Argentina fino a Trastevere.",
+        "come": "A piedi dal centro attraversando il Tevere sull'isola Tiberina, oppure con il tram 8 da Largo Argentina quando è in servizio.",
         "quando": "Mattina per i vicoli; sera per cena. Trastevere il sabato sera è molto affollata.",
         "tempo": "mezza giornata",
-        "consiglio": "Per mangiare bene allontanarsi dai ristoranti con camerieri che invitano a entrare. A Testaccio, al Pigneto o a San Lorenzo si mangia una cacio e pepe fatta bene a circa 15 euro, a cinquecento metri da posti dove la stessa cosa costa il doppio."
+        "consiglio": "Per mangiare bene allontanarsi dai ristoranti con camerieri che invitano a entrare. A Testaccio, al Pigneto o a San Lorenzo si mangia una cacio e pepe fatta bene, spesso a una frazione del prezzo dei locali vicino ai monumenti."
       }
     ],
     programmi: [
@@ -936,7 +936,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Trastevere",
         "perChi": "chi vuole la vita serale",
-        "testo": "Vicoli, osterie e musica. Affollata e rumorosa nei fine settimana; i ristoranti sulle vie principali sono turistici. Il centro si raggiunge in 15-20 minuti a piedi."
+        "testo": "Vicoli, osterie e musica. Affollata e rumorosa nei fine settimana; i ristoranti sulle vie principali sono turistici. Il centro si raggiunge a piedi attraversando il Tevere."
       },
       {
         "nome": "Prati",
@@ -1041,7 +1041,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Duomo e cupola del Brunelleschi",
         "testo": "La cattedrale di Santa Maria del Fiore con la cupola più grande mai costruita in muratura, finita nel 1436 senza centine. Salendo i 463 gradini si cammina tra i due gusci, a pochi centimetri dagli affreschi del Giudizio, fino alla lanterna con la vista su tutta la città.",
-        "come": "In pieno centro, a 15 minuti a piedi dalla stazione. La salita alla cupola è a fascia oraria e va prenotata online sul sito ufficiale dell'Opera del Duomo. L'ingresso in cattedrale è gratuito, con una coda ai controlli.",
+        "come": "In pieno centro, a piedi dalla stazione. La salita alla cupola è a fascia oraria e va prenotata online sul sito ufficiale dell'Opera del Duomo. L'ingresso in cattedrale è gratuito, con una coda ai controlli.",
         "quando": "Prima fascia del mattino, per salire con poca gente. La scala è stretta e non ci sono ascensori: non adatto a chi soffre di claustrofobia o di vertigini.",
         "tempo": "1 ora e mezza per la cupola, più la cattedrale",
         "url": "https://www.duomo.firenze.it/",
@@ -1060,25 +1060,24 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Galleria degli Uffizi",
         "testo": "Il museo di pittura più importante d'Italia: la Nascita di Venere e la Primavera di Botticelli, la Madonna Ognissanti di Giotto, Leonardo, Raffaello, Michelangelo, Caravaggio. Il percorso segue la storia della pittura dal Medioevo al Settecento.",
         "come": "A piedi da Piazza della Signoria. L'ingresso è su prenotazione: la fila senza biglietto è lunga anche in bassa stagione. La visita è lineare e non c'è una scorciatoia: scegliere prima le sale.",
-        "quando": "Chiuso il lunedì. Prima fascia del mattino o dopo le 16 (c'è una tariffa pomeridiana dal 2026).",
+        "quando": "Da martedì a domenica 8:15-18:30, ultimo ingresso alle 17:30; chiuso il lunedì, il 1 gennaio e il 25 dicembre. Prima fascia del mattino o tardo pomeriggio.",
         "tempo": "3 ore",
-        "costo": "25 euro il giorno stesso, 29 euro prenotando in anticipo, 2026; tariffa pomeridiana dalle 16 a 16 euro (20 prenotando)",
+        "costo": "25 euro il giorno stesso, 29 euro prenotando in anticipo (sito ufficiale, 2026)",
         "url": "https://www.uffizi.it/",
         "consiglio": "Prenotare con settimane di anticipo in alta stagione. Tre ore bastano per le sale principali: provare a concentrarsi su Botticelli, Leonardo e Caravaggio."
       },
       {
         "nome": "Galleria dell'Accademia",
         "testo": "Il David di Michelangelo, alto più di cinque metri, in fondo a una galleria con i Prigioni incompiuti. Il resto del museo è piccolo e si vede in un'ora.",
-        "come": "A dieci minuti a piedi dal Duomo, in via Ricasoli. Prenotazione consigliata, con costo aggiuntivo.",
-        "quando": "Chiusa il lunedì. Prima domenica del mese ingresso gratuito, con code molto lunghe.",
+        "come": "A piedi dal Duomo, in via Ricasoli. Prenotazione consigliata.",
+        "quando": "Chiusa il lunedì; orari e giornate gratuite sul sito ufficiale. Meglio la prima fascia del mattino.",
         "tempo": "1 ora-1 ora e mezza",
-        "costo": "20 euro intero più 4 euro di prenotazione, 2026",
         "consiglio": "Il David si guarda meglio da vicino, camminando intorno: i Prigioni nella galleria aiutano a capire come lavorava Michelangelo. Prenotare con anticipo."
       },
       {
         "nome": "Palazzo Pitti e Giardino di Boboli",
         "testo": "La residenza dei Medici, poi dei Lorena e dei Savoia, sull'altra riva dell'Arno. Dentro ci sono la Galleria Palatina con Raffaello e Tiziano, gli appartamenti reali e vari musei. Dietro, il Giardino di Boboli è un parco all'italiana con vista sulla città.",
-        "come": "A piedi dal Ponte Vecchio, in cinque minuti. I musei e il giardino si visitano con biglietti separati o cumulativi: controllare sul sito.",
+        "come": "A piedi dal Ponte Vecchio. I musei e il giardino si visitano con biglietti separati o cumulativi: controllare sul sito.",
         "quando": "Chiuso il lunedì. D'estate il giardino è caldo e senza ombra in molti punti: andare la mattina presto.",
         "tempo": "mezza giornata",
         "url": "https://www.uffizi.it/palazzo-pitti",
@@ -1087,8 +1086,8 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Cappella Brancacci",
         "testo": "Il ciclo di affreschi di Masaccio e Masolino nella chiesa del Carmine, che segna l'inizio della pittura rinascimentale. La Cacciata dall'Eden di Masaccio è una delle immagini più forti del Quattrocento.",
-        "come": "In Oltrarno, in piazza del Carmine, a 15 minuti a piedi dal centro. Ingresso a numero limitato e prenotazione consigliata.",
-        "quando": "Controllare i giorni di chiusura sul sito dei musei civici; di norma è chiusa un giorno a metà settimana.",
+        "come": "In Oltrarno, in piazza del Carmine, a piedi dal centro. Ingresso a numero limitato e prenotazione consigliata.",
+        "quando": "Controllare orari e giorni di chiusura sul sito dei musei civici fiorentini prima di andare.",
         "tempo": "45 minuti",
         "url": "https://museicivicifiorentini.comune.fi.it/",
         "consiglio": "È meno affollata dei grandi musei e altrettanto importante. Prima di entrare vale la pena di leggere due righe sul Masaccio: la visita è molto più interessante."
@@ -1096,7 +1095,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "San Miniato al Monte",
         "testo": "La chiesa romanica del XI secolo sulla collina a sud dell'Arno, con la facciata a intarsi di marmo bianco e verde e un pavimento a motivi zodiacali. I monaci olivetani cantano in gregoriano nel pomeriggio.",
-        "come": "A piedi dal Ponte Vecchio, passando per Porta San Niccolò e le scale (circa 25 minuti), o in bus 12 e 13. Poco sopra il Piazzale Michelangelo.",
+        "come": "A piedi dal Ponte Vecchio, passando per Porta San Niccolò e le scale, o in bus 12 e 13. Poco sopra il Piazzale Michelangelo.",
         "quando": "Tutti i giorni. Il tardo pomeriggio, per il tramonto e il canto dei monaci. Controllare gli orari delle funzioni sul sito.",
         "tempo": "1 ora",
         "url": "https://www.sanminiatoalmonte.it/",
@@ -1251,27 +1250,27 @@ export const destinazioniItalia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Basilica di San Marco",
-        "testo": "La basilica bizantina dei dogi, con circa 8.000 metri quadrati di mosaici dorati che coprono volte e cupole. Il pavimento ondulato, la Pala d'Oro e i cavalli di bronzo nel museo sono i punti da cercare.",
+        "testo": "La basilica bizantina dei dogi, con migliaia di metri quadrati di mosaici dorati che coprono volte e cupole. Il pavimento ondulato, la Pala d'Oro e i cavalli di bronzo nel museo sono i punti da cercare.",
         "come": "In Piazza San Marco, raggiungibile in vaporetto (fermata San Marco-San Zaccaria) o a piedi da Rialto. L'ingresso richiede abiti che coprano spalle e ginocchia. Zaini e borse grandi non entrano: ci sono depositi nelle vicinanze.",
         "quando": "Tutti i giorni; le prime ore del mattino sono le meno affollate. Nelle funzioni religiose l'accesso è limitato.",
         "tempo": "1 ora",
         "url": "https://www.basilicasanmarco.it/",
-        "consiglio": "Prenotare online l'ingresso a fascia oraria per evitare la coda in piazza. Salire al museo e alla loggia dei cavalli per vedere i mosaici da vicino e la piazza dall'alto."
+        "consiglio": "Prenotare online l'ingresso per evitare la coda in piazza. La Pala d'Oro e il Museo con la Loggia dei Cavalli hanno biglietti propri: la loggia vale la salita, per vedere i mosaici da vicino e la piazza dall'alto."
       },
       {
         "nome": "Palazzo Ducale",
         "testo": "La sede del governo della Repubblica e residenza del doge, in gotico veneziano. Dentro ci sono la Sala del Maggior Consiglio con il Paradiso di Tintoretto, la Scala dei Giganti, le prigioni e il Ponte dei Sospiri. Gli Itinerari Segreti portano nelle stanze dei funzionari.",
-        "come": "Accanto alla Basilica, sul bacino di San Marco. Il biglietto standard comprende anche i musei di Piazza San Marco. L'audioguida si ritira all'ingresso.",
+        "come": "Accanto alla Basilica, sul bacino di San Marco. Il biglietto standard comprende anche i musei di Piazza San Marco.",
         "quando": "Aperto tutti i giorni: 9-19 da aprile a ottobre, 9-18 da novembre a marzo, ultimo ingresso un'ora prima della chiusura. Prima mattina o fine pomeriggio per evitare i gruppi.",
         "tempo": "2-3 ore",
         "costo": "35 euro intero con i Musei di Piazza San Marco, 30 euro comprando online più di 30 giorni prima (2026)",
         "url": "https://palazzoducale.visitmuve.it/",
-        "consiglio": "Comprare online con più di un mese di anticipo fa risparmiare 5 euro e permette di saltare la coda. L'audioguida nell'app MUVE è compresa nel biglietto."
+        "consiglio": "Comprare online con più di un mese di anticipo fa risparmiare 5 euro e permette di saltare la coda. Se si ha tempo, gli Itinerari Segreti, con visita guidata, mostrano le stanze che il percorso normale non tocca."
       },
       {
         "nome": "Scuola Grande di San Rocco",
         "testo": "Il ciclo di dipinti di Tintoretto, realizzato in più di vent'anni, copre pareti e soffitti di tre piani. È la Cappella Sistina di Venezia, ma con molte meno persone. Nella sala superiore gli specchi permettono di guardare il soffitto senza piegare il collo.",
-        "come": "A piedi dalla stazione ferroviaria o da Piazzale Roma, in circa 15 minuti, vicino alla chiesa dei Frari (campo San Rocco). Con il vaporetto fermata San Tomà.",
+        "come": "A piedi dalla stazione ferroviaria o da Piazzale Roma, vicino alla chiesa dei Frari (campo San Rocco). Con il vaporetto fermata San Tomà.",
         "quando": "Aperta tutti i giorni; controllare orari e chiusure sul sito. Le ore centrali sono tranquille.",
         "tempo": "1 ora",
         "url": "https://www.scuolagrandesanrocco.it/",
@@ -1280,15 +1279,15 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Rialto e il mercato del pesce",
         "testo": "Il ponte più antico sul Canal Grande, in pietra dal 1591, e attorno il quartiere commerciale storico. Alla Pescheria, sul lato di San Polo, la mattina si vendono pesce di laguna e di mare ai residenti; vicino ci sono la frutta e la verdura.",
-        "come": "A piedi dalla stazione o da San Marco in 20 minuti, o con il vaporetto 1 fino a Rialto. Il mercato è ad alcuni minuti dal ponte.",
-        "quando": "Mattina presto. La Pescheria è chiusa la domenica e il lunedì; controllare. Il ponte è affollato dalle 10.",
+        "come": "A piedi dalla stazione o da San Marco, o con il vaporetto 1 fino a Rialto. Il mercato è ad alcuni minuti dal ponte.",
+        "quando": "Mattina presto. La Pescheria di solito è chiusa la domenica e il lunedì: controllare. Il ponte si riempie in tarda mattinata.",
         "tempo": "1 ora",
         "consiglio": "Dopo il mercato si va a mangiare cicheti ai bacari vicini. Guardare il ponte all'alba, quando è vuoto."
       },
       {
         "nome": "Cannaregio e il Ghetto",
         "testo": "Il sestiere più abitato, con canali larghi e osterie dove mangiano i veneziani. Il Ghetto, istituito nel 1516, è il primo ghetto ebraico d'Europa: i palazzi sono alti perché non si poteva allargare l'area. Si visitano le sinagoghe e il museo ebraico.",
-        "come": "A piedi dalla stazione ferroviaria in 10 minuti. Il museo ebraico organizza visite guidate alle sinagoghe.",
+        "come": "A piedi dalla stazione ferroviaria. Il museo ebraico organizza visite guidate alle sinagoghe.",
         "quando": "Aperto tutto l'anno; il museo ebraico è chiuso il sabato e nelle festività ebraiche.",
         "tempo": "mezza giornata",
         "consiglio": "Perdersi nelle calli lontane dall'asse stazione-Rialto: a Cannaregio è facile trovare Venezia come la vivono i residenti."
@@ -1304,7 +1303,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Torcello",
         "testo": "L'isola dove Venezia è cominciata. La basilica di Santa Maria Assunta, del VII secolo, ha un mosaico del Giudizio Universale che copre una parete intera. Oggi vivono poche decine di persone.",
-        "come": "Da Fondamente Nove con il vaporetto 12 fino a Burano e poi il 9 per Torcello, in circa 40 minuti totali.",
+        "come": "Da Fondamente Nove con il vaporetto 12 fino a Burano e poi il 9 per Torcello.",
         "quando": "Tutti i giorni; la mattina è tranquilla. Controllare l'orario della basilica.",
         "tempo": "mezza giornata, abbinata a Burano",
         "consiglio": "Ci sono andato in pieno giorno e c'erano venti persone: è lì che Venezia è cominciata, prima che esistesse Venezia."
@@ -1350,7 +1349,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Cannaregio",
         "perChi": "chi vuole una zona abitata e spendere meno",
-        "testo": "Vicino alla stazione, con canali ampi e osterie dei veneziani. Più tranquilla e meno cara del centro, a 20-25 minuti a piedi da San Marco."
+        "testo": "Vicino alla stazione, con canali ampi e osterie dei veneziani. Più tranquilla e meno cara del centro, a una passeggiata da San Marco."
       },
       {
         "nome": "Castello",
@@ -1365,7 +1364,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Mestre",
         "perChi": "chi vuole spendere il meno possibile",
-        "testo": "Sulla terraferma, a 10-15 minuti di treno da Venezia Santa Lucia. Costa meno, ma si perdono l'alba e la sera in città, che sono i momenti migliori. Dormire in centro esenta dal contributo di accesso."
+        "testo": "Sulla terraferma, a pochi minuti di treno da Venezia Santa Lucia. Costa meno, ma si perdono l'alba e la sera in città, che sono i momenti migliori. Chi dorme in centro storico è esente dal contributo di accesso."
       }
     ],
     sapori: [
@@ -1395,7 +1394,7 @@ export const destinazioniItalia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Contributo di accesso per chi entra in giornata senza pernottare: nel 2026 è valso in 60 giornate tra aprile e luglio, 5 euro prenotando almeno quattro giorni prima e 10 euro sotto quella soglia. Chi dorme in città è esente ma deve registrarsi. Controllare il calendario ogni anno.",
+      "Contributo di accesso per chi entra in giornata senza pernottare: la sperimentazione 2026 è finita il 27 luglio. Per il 2027 il Comune ha già fissato 72 giornate tra il 26 marzo e il 15 agosto, con il contributo dovuto dalle 8:30 alle 16:30; importi ed esenzioni vengono pubblicati su cda.ve.it. Controllare il calendario prima di partire.",
       "Dal 2024 i gruppi turistici sono limitati a 25 persone e sono vietati gli altoparlanti.",
       "Borseggi sul vaporetto 1 e 2 affollati, a Rialto e a San Marco. Tenere borse chiuse e davanti.",
       "Il biglietto singolo del vaporetto è caro e i pass a tempo convengono se si fanno più corse al giorno. Convalidare sempre il biglietto prima di salire.",
@@ -1485,15 +1484,15 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Napoli sotterranea e catacombe",
         "testo": "Sotto la città ci sono cave greche, acquedotti romani e rifugi antiaerei della guerra. Le catacombe di San Gennaro, nel rione Sanità, sono le più grandi del sud Italia, con affreschi paleocristiani.",
-        "come": "Per Napoli sotterranea l'ingresso è in Piazza San Gaetano, con visita guidata a orari fissi. Le catacombe di San Gennaro sono nel rione Sanità, a circa venti minuti a piedi dal MANN.",
+        "come": "Per Napoli sotterranea l'ingresso è in Piazza San Gaetano, con visita guidata a orari fissi. Le catacombe di San Gennaro sono nel rione Sanità, raggiungibili a piedi dal MANN.",
         "quando": "Tutto l'anno, anche con pioggia. Sottoterra la temperatura è fresca: portare una felpa.",
         "tempo": "1 ora e mezza per ciascuna visita",
         "consiglio": "Fare una sola delle due visite se il tempo è poco: Napoli sotterranea per la guerra e le cave, le catacombe per l'arte."
       },
       {
         "nome": "Pompei",
-        "testo": "Una città romana di 66 ettari sigillata dall'eruzione del 79 d.C.: strade con i solchi dei carri, botteghe, terme, case con affreschi, il foro e l'anfiteatro. La parte scavata è grande: serve scegliere cosa vedere.",
-        "come": "Circumvesuviana linea Napoli-Sorrento fino a Pompei Scavi-Villa dei Misteri (circa 40 minuti da Napoli Garibaldi). Si può anche arrivare con treno regionale a Pompei. Audioguida o guida consigliate.",
+        "testo": "Una grande città romana sigillata dall'eruzione del 79 d.C.: strade con i solchi dei carri, botteghe, terme, case con affreschi, il foro e l'anfiteatro. La parte scavata è grande: serve scegliere cosa vedere.",
+        "come": "Circumvesuviana linea Napoli-Sorrento fino a Pompei Scavi-Villa dei Misteri, da Napoli Garibaldi. Si può anche arrivare con treno regionale a Pompei. Audioguida o guida consigliate.",
         "quando": "All'apertura o nel tardo pomeriggio d'estate; non a mezzogiorno, senza ombra. Aperto 9-19 dal 16 marzo al 14 ottobre (ultimo ingresso 17:30) e 9-17 nel resto dell'anno (ultimo ingresso 15:30). Chiuso il 25 dicembre e il 1 gennaio, salvo aperture straordinarie. Biglietti nominativi, tetto di 20.000 ingressi al giorno e fasce orarie in alta stagione.",
         "tempo": "3-4 ore",
         "costo": "Pompei Express 20 euro; Pompei+, con le ville suburbane e Boscoreale, 25 euro (dal 12 gennaio 2026). Vendita online solo su Vivaticket, oppure in biglietteria",
@@ -1503,7 +1502,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Ercolano",
         "testo": "Una città più piccola di Pompei, sepolta da fango e non da cenere: si sono conservati piani superiori, travi di legno carbonizzato, porte, letti. Si vede come vivevano davvero.",
-        "come": "Circumvesuviana linea Napoli-Sorrento fino a Ercolano Scavi (circa 20 minuti da Napoli Garibaldi), poi dieci minuti a piedi in discesa.",
+        "come": "Circumvesuviana linea Napoli-Sorrento fino a Ercolano Scavi, da Napoli Garibaldi, poi un tratto a piedi in discesa.",
         "quando": "Mattina, in estate. Il sito chiude nelle festività principali: controllare il calendario sul sito ufficiale.",
         "tempo": "2 ore",
         "url": "https://ercolano.beniculturali.it/",
@@ -1511,9 +1510,9 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Vesuvio",
-        "testo": "Il vulcano che ha sepolto Pompei è attivo. Si arriva in auto o con navetta fino a circa 1.000 metri e si sale a piedi lungo un sentiero di mezz'ora fino al bordo del cratere, con vista sul golfo.",
-        "come": "Da Ercolano scavi ci sono navette verso il parcheggio di quota 1.000. Dall'ultimo parcheggio si cammina su sentiero sterrato in salita, con scarpe chiuse.",
-        "quando": "Mattina, con cielo limpido. In caso di allerta o vento forte l'accesso può essere sospeso.",
+        "testo": "Il vulcano che ha sepolto Pompei è attivo. Si arriva in auto o con navetta fino ai parcheggi in quota e si sale a piedi lungo il sentiero del Gran Cono fino al bordo del cratere, con vista sul golfo.",
+        "come": "Da Ercolano ci sono navette verso i parcheggi in quota. Il biglietto per il Gran Cono si compra solo online, sul canale indicato dal Parco Nazionale del Vesuvio. Dal parcheggio si cammina su sentiero sterrato in salita, con scarpe chiuse.",
+        "quando": "Mattina, con cielo limpido. Con le allerte meteo o per eventi l'accesso viene sospeso: controllare gli avvisi sul sito del Parco.",
         "tempo": "3-4 ore tra andata, salita e ritorno",
         "url": "https://www.parconazionaledelvesuvio.it/",
         "consiglio": "Controllare il meteo il giorno prima: con nuvole basse si sale senza vedere nulla."
@@ -1521,7 +1520,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Campi Flegrei e Pozzuoli",
         "testo": "Un'area vulcanica a ovest di Napoli, con bradisismo ancora attivo: l'anfiteatro Flavio di Pozzuoli, il Rione Terra, il parco archeologico di Baia con le terme romane.",
-        "come": "Cumana o linea 2 della metropolitana fino a Pozzuoli, poi bus locali o taxi per i siti. In auto si arriva in mezz'ora circa.",
+        "come": "Cumana o linea 2 della metropolitana fino a Pozzuoli, poi bus locali o taxi per i siti. Si arriva anche in auto.",
         "quando": "Controllare prima gli avvisi della Protezione civile e l'apertura dei singoli siti, che cambia con i lavori.",
         "tempo": "Mezza giornata",
         "consiglio": "Abbinarla a un pranzo di pesce a Pozzuoli: costa meno che a Posillipo."
@@ -1568,7 +1567,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Chiaia e lungomare",
         "perChi": "Chi cerca una zona più tranquilla",
-        "testo": "Quartiere residenziale e commerciale, con ristoranti e vista sul mare dal lungomare. Più tranquillo la sera, a dieci-venti minuti a piedi dal centro storico e vicino alla metro."
+        "testo": "Quartiere residenziale e commerciale, con ristoranti e vista sul mare dal lungomare. Più tranquillo la sera, raggiungibile a piedi dal centro storico e vicino alla metro."
       },
       {
         "nome": "Vomero",
@@ -1673,16 +1672,16 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Cenacolo Vinciano",
         "testo": "L'Ultima Cena di Leonardo, dipinta su una parete del refettorio di Santa Maria delle Grazie. La tecnica sperimentale ha iniziato a rovinarsi quando lui era ancora vivo. Si entra a piccoli gruppi, con ambiente a umidità controllata.",
         "come": "Metro M1 Conciliazione o M2 Cadorna, poi pochi minuti a piedi. Visita da soli, a orario fissato sul biglietto.",
-        "quando": "Chiuso il lunedì. Biglietti solo con prenotazione, con aperture a scaglioni: senza biglietto non si entra. Presentarsi almeno 30 minuti prima con un documento.",
-        "tempo": "15 minuti dentro, un'ora con attesa e controlli",
-        "costo": "15 euro intero, 2 euro per i 18-25 anni, gratis sotto i 18 (2026), più prenotazione",
+        "quando": "Da martedì a domenica 8:15-19, ultimo ingresso alle 18:45; chiuso il lunedì, il 1 gennaio e il 25 dicembre. Prenotazione obbligatoria per tutti i biglietti, anche gratuiti: senza non si entra. Il biglietto si ritira alla biglietteria accanto all'ingresso almeno 30 minuti prima del turno, con un documento.",
+        "tempo": "15 minuti dentro (turni da massimo 40 persone), un'ora con attesa e controlli",
+        "costo": "15 euro intero, 2 euro per i 18-25 anni, gratis sotto i 18 (sito ufficiale, 2026)",
         "url": "https://cenacolovinciano.org/",
         "consiglio": "Controllare con mesi di anticipo le nuove aperture di vendita e prenotare appena disponibili: è l'errore più comune a Milano."
       },
       {
         "nome": "Pinacoteca di Brera",
         "testo": "Una delle raccolte di pittura italiana più importanti, con Mantegna, Raffaello, Caravaggio e il Bacio di Hayez. Si trova in un palazzo del Settecento con cortile, nel quartiere di Brera.",
-        "come": "Metro M2 Lanza o M3 Montenapoleone, poi dieci minuti a piedi tra le vie di Brera. Visita da soli.",
+        "come": "Metro M2 Lanza o M3 Montenapoleone, poi a piedi tra le vie di Brera. Visita da soli.",
         "quando": "Chiusa il lunedì; dal martedì alla domenica 8:30-19:15, con prenotazione richiesta. Il pomeriggio è più tranquillo. Il quartiere si gira bene la sera.",
         "tempo": "2 ore",
         "costo": "20 euro intero, biglietto Grande Brera con Palazzo Citterio (2026)",
@@ -1717,7 +1716,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Lago di Como: Varenna e Bellagio",
         "testo": "Il lago prealpino più celebre, con borghi di pietra e ville sulle rive. Varenna e Bellagio si guardano a vicenda e si collegano in battello.",
-        "come": "Treno da Milano Centrale a Varenna-Esino in circa un'ora, poi battello a Bellagio. Linee e orari su Navigazione Laghi.",
+        "come": "Treno da Milano Centrale a Varenna-Esino, poi battello a Bellagio. Linee e orari su Navigazione Laghi.",
         "quando": "Primavera e autunno, quando i battelli sono meno pieni. Nei fine settimana d'estate c'è molta folla.",
         "tempo": "Una giornata intera",
         "url": "https://www.navigazionelaghi.it/",
@@ -1726,7 +1725,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Lago Maggiore e Isole Borromee",
         "testo": "Tre isole di fronte a Stresa: Isola Bella con il palazzo barocco e il giardino, Isola Madre con il parco botanico, Isola dei Pescatori con il borgo di pescatori.",
-        "come": "Treno da Milano Centrale a Stresa in circa 50 minuti, poi battello dal lungolago. Biglietti separati per i palazzi.",
+        "come": "Treno da Milano Centrale a Stresa, poi battello dal lungolago. Biglietti separati per i palazzi.",
         "quando": "Aprile-ottobre, con i giardini fioriti in primavera. In alta stagione partire presto.",
         "tempo": "Una giornata per due isole",
         "consiglio": "Con una giornata sola scegliere Isola Bella e Isola dei Pescatori: si fanno nello stesso giro."
@@ -1775,7 +1774,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Stazione Centrale",
         "perChi": "Chi ha un budget stretto o parte in treno",
-        "testo": "Alberghi più economici e collegamenti verso i laghi e le altre città. La zona è meno curata e la sera conviene stare attenti; il centro è a quindici minuti di metro."
+        "testo": "Alberghi più economici e collegamenti verso i laghi e le altre città. La zona è meno curata e la sera conviene stare attenti; il centro è a poche fermate di metro."
       }
     ],
     sapori: [
@@ -1803,7 +1802,7 @@ export const destinazioniItalia: Destinazione[] = [
     attenzioni: [
       "Cenacolo: senza prenotazione non si entra. Le vendite si aprono a scaglioni, controllare il sito ufficiale con mesi di anticipo.",
       "Area B e Area C limitano l'accesso delle auto al centro, con telecamere: chi entra senza saperlo prende la multa.",
-      "Salone del Mobile (aprile) e settimane della moda: gli alloggi triplicano di prezzo, prenotare con mesi di anticipo.",
+      "Salone del Mobile (aprile) e settimane della moda: gli alloggi salgono molto di prezzo, prenotare con mesi di anticipo.",
       "Borseggi in metro (M1, M3), davanti al Duomo e alla stazione Centrale: borsa chiusa davanti, mai in tasca posteriore.",
       "Chi offre mangime per piccioni o braccialetti in Piazza Duomo poi chiede denaro: rifiutare senza prendere nulla in mano.",
       "Scioperi dei trasporti frequenti (ATM e treni): controllare il calendario prima di andare ai laghi."
@@ -1931,41 +1930,40 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Palermo: Palazzo dei Normanni e Cappella Palatina",
         "testo": "La Cappella Palatina, dentro il palazzo reale, riunisce struttura normanna, mosaici bizantini e soffitto ligneo di maestranze arabe. Nel palazzo ci sono anche gli appartamenti reali.",
         "come": "A piedi dal centro storico di Palermo, vicino alla Cattedrale, in piazza del Parlamento. Si entra con biglietto a orario; la visita è libera, audioguida facoltativa.",
-        "quando": "Mattina, per la luce sui mosaici. Domenica e festivi l'orario è ridotto alla mattina. Controllare le chiusure per cerimonie.",
+        "quando": "Lunedì-sabato 8:30-16:30, domenica e festivi 8:30-12:30 (orari di ultimo ingresso, sito della Fondazione Federico II). Mattina, per la luce sui mosaici. Controllare le chiusure per cerimonie e sedute dell'assemblea regionale.",
         "tempo": "1 ora e mezza",
         "url": "https://www.fondazionefedericosecondo.it/",
         "consiglio": "Alzare lo sguardo: i mosaici del catino occupano un'intera parete e il soffitto a muqarnas merita il collo storto."
       },
       {
         "nome": "Duomo di Monreale",
-        "testo": "Una cattedrale normanna del XII secolo con seimila metri quadrati di mosaici dorati bizantini e un chiostro dove ogni capitello è diverso. Dentro si capisce come la Sicilia abbia tenuto insieme tutte le culture che l'hanno conquistata.",
-        "come": "Da Palermo autobus AMAT 389 da Piazza Indipendenza (a due passi dal Palazzo dei Normanni) o taxi, circa 30-40 minuti. Il duomo si visita da soli; il chiostro ha ingresso separato.",
+        "testo": "Una cattedrale normanna del XII secolo con oltre seimila metri quadrati di mosaici dorati bizantini e un chiostro dove ogni capitello è diverso. Dentro si capisce come la Sicilia abbia tenuto insieme tutte le culture che l'hanno conquistata.",
+        "come": "Da Palermo con l'autobus urbano da Piazza Indipendenza (a due passi dal Palazzo dei Normanni) o in taxi. Il duomo si visita da soli; il chiostro ha ingresso separato.",
         "quando": "Mattina presto o nel primo pomeriggio. L'orario ha una pausa a metà giornata: controllare prima.",
         "tempo": "2 ore",
-        "costo": "8 euro per il duomo (2025)",
         "consiglio": "Salire sulla terrazza sui tetti, se aperta: si cammina sopra la navata e si vede Palermo."
       },
       {
         "nome": "Ballarò e i mercati di Palermo",
         "testo": "Ballarò è il mercato storico del centro: banchi di pesce, frutta, spezie e friggitorie. Si mangia sul posto: arancine, panelle, sfincione, pane con la milza. La Vucciria è più piccola e di sera diventa un ritrovo.",
-        "come": "A piedi dal Teatro Massimo o dalla stazione, circa dieci minuti. Mercato aperto la mattina, fino al primo pomeriggio.",
+        "come": "A piedi dal Teatro Massimo o dalla stazione. Mercato aperto la mattina, fino al primo pomeriggio.",
         "quando": "Mattina. Il mercato chiude nel primo pomeriggio. La domenica è più tranquillo.",
         "tempo": "1-2 ore",
         "consiglio": "Mangiare in piedi ai banchi più affollati dai palermitani, non in quelli con il menu in inglese."
       },
       {
         "nome": "Valle dei Templi, Agrigento",
-        "testo": "Un parco di sette templi dorici del V secolo a.C. in linea su una cresta. Il Tempio della Concordia è tra i meglio conservati al mondo. Il resto del parco scende verso il giardino della Kolymbethra.",
+        "testo": "Un parco di templi dorici del V secolo a.C. allineati su una cresta. Il Tempio della Concordia è tra i meglio conservati al mondo. Il resto del parco scende verso il giardino della Kolymbethra.",
         "come": "Dalla stazione di Agrigento si prende un autobus urbano fino all'ingresso, oppure l'auto con parcheggio a pagamento. Il sentiero lungo il crinale è pianeggiante.",
-        "quando": "Mattina presto o tramonto; a mezzogiorno d'estate non c'è ombra e si superano i 40 gradi. In estate ci sono aperture serali: controllare le date sul sito.",
+        "quando": "Mattina presto o tramonto: a mezzogiorno d'estate non c'è ombra e il caldo è fortissimo. In estate ci sono aperture serali: controllare le date sul sito.",
         "tempo": "3 ore",
         "url": "https://www.parcovalledeitempli.it/",
-        "consiglio": "Si fa in notturna, quando i templi sono illuminati e la temperatura è vivibile."
+        "consiglio": "Nelle sere d'estate si visita con i templi illuminati e una temperatura vivibile."
       },
       {
         "nome": "Segesta e Selinunte",
         "testo": "Segesta ha un tempio dorico mai finito e un teatro sulla collina. Selinunte è uno dei parchi archeologici più grandi del Mediterraneo, con templi crollati e l'acropoli sul mare. Hanno una frazione dei visitatori di Agrigento.",
-        "come": "In auto da Palermo: Segesta a circa un'ora, Selinunte a circa due. Dal parcheggio di Segesta una navetta sale al teatro.",
+        "come": "In auto da Palermo, più vicina Segesta e più lontana Selinunte. Dal parcheggio di Segesta una navetta sale al teatro.",
         "quando": "Mattina, per il caldo. Selinunte al tramonto è molto bella.",
         "tempo": "2 ore a Segesta, 3 a Selinunte",
         "consiglio": "Dormire a Trapani o Marsala per fare i due siti con calma in un giorno e mezzo."
@@ -1973,7 +1971,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Etna",
         "testo": "Il vulcano attivo più alto d'Europa. Si sale in funivia da Rifugio Sapienza e poi con fuoristrada o a piedi, camminando su lapilli neri che scricchiolano e vicino alle fumarole. I crateri sommitali si visitano solo con guida e dipendono dall'attività.",
-        "come": "Da Catania in auto o bus fino a Rifugio Sapienza (circa un'ora e mezza). Oltre una certa quota la guida è obbligatoria. Scarpe chiuse, strati caldi e giacca a vento.",
+        "come": "Da Catania in auto o bus fino a Rifugio Sapienza. Oltre una certa quota la guida è obbligatoria. Scarpe chiuse, strati caldi e giacca a vento.",
         "quando": "Mattina o tramonto con cielo limpido. Le ascensioni possono essere sospese per attività o meteo.",
         "tempo": "Mezza giornata, una giornata con l'escursione sui crateri",
         "url": "https://www.parcoetna.it/",
@@ -1982,7 +1980,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Siracusa e Ortigia",
         "testo": "Ortigia è l'isola della città vecchia: il Duomo è costruito dentro un tempio dorico, con le colonne ancora visibili nei muri. Al parco della Neapolis ci sono il teatro greco, l'Orecchio di Dionisio e l'anfiteatro romano.",
-        "come": "Ortigia a piedi dal ponte; il parco archeologico a venti minuti a piedi o in bus dalla stazione. Si visita da soli.",
+        "come": "Ortigia a piedi dal ponte; il parco archeologico a piedi o in bus dalla stazione. Si visita da soli.",
         "quando": "Neapolis di mattina presto. In maggio-giugno, durante le rappresentazioni classiche al teatro greco, la visita può essere limitata.",
         "tempo": "1 giorno intero, mezza giornata per Ortigia",
         "consiglio": "Cenare a Ortigia e sistemarsi fuori dalla zona a traffico limitato, dove il parcheggio costa meno."
@@ -1990,7 +1988,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Val di Noto: Noto, Modica e Ragusa Ibla",
         "testo": "Città ricostruite in stile barocco dopo il terremoto del 1693, patrimonio UNESCO. Noto ha la scenografia di una via lunga e dorata; Modica ha il cioccolato a freddo; Ragusa Ibla un centro su uno sperone.",
-        "come": "In auto, il modo giusto di farlo: Noto-Modica 45 minuti, Modica-Ragusa 25. Si parcheggia fuori e si gira a piedi.",
+        "come": "In auto, il modo giusto di farlo: le tre città sono vicine tra loro. Si parcheggia fuori e si gira a piedi.",
         "quando": "Primo pomeriggio per le facciate dorate, sera per Noto illuminata. Evitare agosto.",
         "tempo": "Un giorno per due città, due giorni per tre",
         "consiglio": "Dormire a Ragusa Ibla o Modica: tranquillo e con ottimi ristoranti, e si risparmia rispetto a Noto."
@@ -2005,8 +2003,8 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Villa Romana del Casale, Piazza Armerina",
-        "testo": "Una villa romana del IV secolo con 3.500 metri quadrati di mosaici, tra cui le «ragazze in bikini». Sta nell'interno, lontana dalla costa e dai percorsi più battuti.",
-        "come": "In auto da Enna o Catania, circa un'ora; da Enna si prosegue per Piazza Armerina. Passerelle sopraelevate guidano la visita.",
+        "testo": "Una villa romana del IV secolo con pavimenti a mosaico in quasi tutte le stanze, tra cui le «ragazze in bikini». Sta nell'interno, lontana dalla costa e dai percorsi più battuti.",
+        "come": "In auto da Enna o Catania, proseguendo per Piazza Armerina. Passerelle sopraelevate guidano la visita.",
         "quando": "Mattina o primo pomeriggio; evitare l'estate nelle ore centrali, la copertura trattiene il caldo.",
         "tempo": "1 ora e mezza",
         "consiglio": "Combinarla con Enna e le Madonie: l'interno cambia la percezione dell'isola."
@@ -2100,7 +2098,7 @@ export const destinazioniItalia: Destinazione[] = [
     ],
     attenzioni: [
       "L'auto serve quasi ovunque, ma Palermo, Catania, Ortigia e Taormina hanno zone a traffico limitato con telecamere: chiedere all'hotel dove lasciarla ed evitare le multe.",
-      "Caldo estremo da luglio a agosto, spesso oltre i 40 gradi nell'interno e nei siti archeologici senza ombra: acqua, cappello, visite all'alba o al tramonto.",
+      "Caldo estremo a luglio e agosto, che può superare i 40 gradi nell'interno e nei siti archeologici senza ombra: acqua, cappello, visite all'alba o al tramonto.",
       "Etna: oltre una certa quota la guida è obbligatoria e gli accessi dipendono dall'attività del vulcano e dal meteo. Controllare gli avvisi del parco prima di partire.",
       "Borseggi nei mercati e nel centro di Palermo e Catania: borsa davanti, telefono in tasca.",
       "Tempi di percorrenza più lunghi del previsto sulle statali interne: aggiungere un terzo a quello che indica la mappa.",
@@ -2233,7 +2231,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Cala Goloritzé",
         "testo": "Una caletta di ciottoli bianchi sotto un pinnacolo di calcare alto 143 metri, nel Golfo di Orosei, con acqua trasparente. Regge qualsiasi confronto con il mare dei Caraibi. L'accesso è regolato per proteggerla.",
-        "come": "A piedi dall'Altopiano del Golgo, a Baunei, per un sentiero di circa un'ora e mezza che scende nella macchia. In barca ci si avvicina, ma lo sbarco è limitato. Serve la prenotazione.",
+        "come": "A piedi dall'Altopiano del Golgo, a Baunei, per un sentiero che scende nella macchia. In barca ci si avvicina, ma lo sbarco è limitato. Serve la prenotazione.",
         "quando": "Mattina presto, quando si cammina al fresco e la cala è ancora vuota. Maggio-giugno e settembre. Prenotare prima di partire: il numero di accessi al giorno è limitato.",
         "tempo": "3-4 ore tra discesa, bagno e risalita",
         "consiglio": "Scarpe da trekking e un litro e mezzo d'acqua a testa: la risalita nel pomeriggio d'estate è dura."
@@ -2249,7 +2247,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Gola di Gorropu",
         "testo": "Una fenditura scavata dal Rio Flumineddu tra pareti di calcare alte fino a 500 metri, nel Supramonte. Si cammina su massi grandi come automobili, con una striscia di cielo sopra. Sembra un canyon americano e sta in Barbagia.",
-        "come": "In auto da Dorgali o Urzulei fino a Sa Barva, poi un sentiero di circa un'ora e mezza fino all'ingresso della gola, con attraversamento di un fiume. L'accesso ha regole e ticket: controllare prima.",
+        "come": "In auto da Dorgali o Urzulei fino a Sa Barva, poi un sentiero lungo fino all'ingresso della gola, con attraversamento di un fiume. L'accesso ha regole e ticket: controllare prima.",
         "quando": "Primavera e autunno. D'estate fa caldo e la gola si riempie. Dopo piogge forti il torrente può impedire il passaggio.",
         "tempo": "Mezza giornata, una giornata col trekking lungo",
         "consiglio": "Informarsi sulle regole di accesso e valutare una guida: il sentiero si perde nel greto del fiume."
@@ -2257,15 +2255,15 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Orgosolo e Oliena, Barbagia",
         "testo": "Orgosolo è famosa per i murales politici sulle case, dipinti dagli anni Sessanta in poi: lotte contadine, guerre, diritti. Oliena sta ai piedi del Supramonte, con vigneti di Cannonau e una vista sul monte Corrasi.",
-        "come": "In auto da Nuoro: Oliena a 15 minuti, Orgosolo a 25. Si cammina nei paesi; i murales sono tutti sulla strada.",
+        "come": "In auto da Nuoro, che è vicina a entrambi. Si cammina nei paesi; i murales sono tutti sulla strada.",
         "quando": "Mattina o tardo pomeriggio. In autunno, con Autunno in Barbagia, i paesi aprono case e botteghe ai visitatori.",
         "tempo": "Mezza giornata ciascuno",
         "consiglio": "Rispettare le persone che vivono nelle case dipinte: chiedere prima di fotografare ritratti."
       },
       {
         "nome": "Su Nuraxi di Barumini",
-        "testo": "Il complesso nuragico meglio conservato dell'isola, patrimonio UNESCO: una torre centrale circondata da bastioni e da un villaggio di pietra, costruito tra il 1500 e il 500 a.C. A Barumini si entra dentro e si sale per scale interne nello spessore del muro.",
-        "come": "In auto da Cagliari in circa un'ora e un quarto; in treno e poi bus, con coincidenze limitate. La visita è con una guida, che accompagna il gruppo nei vari ambienti.",
+        "testo": "Il complesso nuragico meglio conservato dell'isola, patrimonio UNESCO: una torre centrale dell'età del Bronzo circondata da bastioni e da un villaggio di pietra. A Barumini si entra dentro e si sale per scale interne nello spessore del muro.",
+        "come": "In auto da Cagliari; in treno e poi bus, con coincidenze limitate. La visita è con una guida, che accompagna il gruppo nei vari ambienti.",
         "quando": "Mattina o fine pomeriggio. L'orario varia con la stagione: controllare sul sito della Fondazione prima di andare.",
         "tempo": "1 ora e mezza",
         "url": "https://www.fondazionebarumini.it/",
@@ -2282,14 +2280,14 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Arcipelago della Maddalena",
         "testo": "Un gruppo di isole di granito rosa e acqua verde nel nord-est: La Maddalena, Caprera con la casa di Garibaldi, Spargi, Santa Maria. Budelli e la spiaggia rosa sono oggi protette e inaccessibili.",
-        "come": "Traghetto da Palau a La Maddalena in circa quindici minuti, anche con l'auto. Per le altre isole servono barche o gommoni.",
+        "come": "Traghetto da Palau a La Maddalena, anche con l'auto, con una traversata breve. Per le altre isole servono barche o gommoni.",
         "quando": "Giugno e settembre. In agosto è affollatissimo e le barche scarseggiano.",
         "tempo": "Una giornata",
         "consiglio": "Prenotare con anticipo il giro in barca: i posti nelle imbarcazioni di agosto finiscono presto."
       },
       {
         "nome": "Alghero e Grotta di Nettuno",
-        "testo": "Alghero ha un centro di impronta catalana, con bastioni sul mare e la lingua ancora parlata. A Capo Caccia, a mezz'ora, la Grotta di Nettuno è una grande caverna con stalattiti e un lago interno.",
+        "testo": "Alghero ha un centro di impronta catalana, con bastioni sul mare e la lingua ancora parlata. A Capo Caccia, poco lontano, la Grotta di Nettuno è una grande caverna con stalattiti e un lago interno.",
         "come": "Alghero in aereo o in auto. Per la grotta: battello dal porto di Alghero o a piedi dall'Escala del Cabirol, una scala di 654 gradini scavata nella falesia.",
         "quando": "Mattina. Il battello non parte con mare mosso. Il tramonto da Alghero è bello sui bastioni.",
         "tempo": "Mezza giornata per la grotta, una giornata con Alghero",
@@ -2298,7 +2296,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Porto Flavia e le dune di Piscinas",
         "testo": "Nel Sulcis-Iglesiente, le miniere dismesse formano un paesaggio geominerario. Porto Flavia è un porto scavato dentro la falesia di Masua per caricare i minerali sulle navi. A Piscinas, sulla Costa Verde, le dune sono fra le più alte d'Europa.",
-        "come": "In auto da Iglesias: Masua è a 25 minuti; Piscinas a 40, con un tratto di sterrato. Porto Flavia si visita con prenotazione e guida.",
+        "come": "In auto da Iglesias: Masua è vicina, Piscinas più lontana, con un tratto di sterrato. Porto Flavia si visita con prenotazione e guida.",
         "quando": "Primavera e autunno. D'estate le dune sono roventi.",
         "tempo": "Mezza giornata ciascuno",
         "consiglio": "Le dune si visitano meglio alla fine della giornata, quando la sabbia ha già perso il caldo."
@@ -2350,7 +2348,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Nord-ovest: Alghero e Stintino",
         "perChi": "Chi vuole città e spiagge",
-        "testo": "Alghero ha un centro vivo e l'aeroporto; Stintino sta a un'ora, vicino alla Pelosa. Con il maestrale il mare cambia da un lato all'altro."
+        "testo": "Alghero ha un centro vivo e l'aeroporto; Stintino, vicino alla Pelosa, si raggiunge in auto. Con il maestrale il mare cambia da un lato all'altro."
       },
       {
         "nome": "Sud-ovest: Sulcis e Costa Verde",
@@ -2549,9 +2547,9 @@ export const destinazioniItalia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Stromboli",
-        "testo": "Isola-vulcano con eruzioni quasi continue dal cratere, visibili ogni 10-20 minuti circa. Sotto la Sciara del Fuoco c'è il paese, con pochi abitanti. Il ricordo più forte per me è stato vederla dal mare di notte, a motore spento davanti alla Sciara, quando il cratere lancia materiale incandescente fino all'acqua.",
-        "come": "Aliscafo da Milazzo (circa 2 ore e mezza) o da Lipari e dalle altre Eolie. Sull'isola si cammina e si usano taxi-ape. Oltre la quota libera servono guide vulcanologiche autorizzate.",
-        "quando": "La salita è regolata da ordinanze che cambiano con l'attività del vulcano: la quota massima e l'obbligo di guida si controllano presso il Comune di Lipari o le guide autorizzate prima di prenotare. La cima è chiusa ai visitatori dalle eruzioni del 2019. Giugno e settembre, con mare calmo, per le uscite in barca.",
+        "testo": "Isola-vulcano con eruzioni quasi continue dal cratere, visibili a intervalli di pochi minuti. Sotto la Sciara del Fuoco c'è il paese, con pochi abitanti. Il ricordo più forte per me è stato vederla dal mare di notte, a motore spento davanti alla Sciara, quando il cratere lancia materiale incandescente fino all'acqua.",
+        "come": "Aliscafo da Milazzo o da Lipari e dalle altre Eolie. Sull'isola si cammina e si usano taxi-ape. Oltre la quota libera servono guide vulcanologiche autorizzate.",
+        "quando": "La salita è regolata da ordinanze che cambiano con l'attività del vulcano: la quota massima, l'accesso alla cima e l'obbligo di guida si controllano presso il Comune di Lipari o le guide autorizzate prima di prenotare. Giugno e settembre, con mare calmo, per le uscite in barca.",
         "tempo": "1 giornata intera, meglio una notte",
         "consiglio": "La sera si cena a Stromboli e si esce in barca al buio: non serve la cima per vedere le esplosioni. Torcia frontale, scarpe da trekking e un maglione anche a settembre."
       },
@@ -2566,14 +2564,14 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Lago Specchio di Venere, Pantelleria",
         "testo": "Lago termale nel cratere spento di un vulcano, con acque calde sulla riva e fanghi usati per i bagni. Si vede dall'alto, a forma di cuore, appena sopra la strada per Bukkuram. Pantelleria è più vicina all'Africa che alla Sicilia: roccia nera, vento e viti ad alberello coltivate in buche scavate nel terreno, tecnica che l'UNESCO ha riconosciuto.",
-        "come": "Serve un'auto o uno scooter da Pantelleria paese. Si arriva con volo da Trapani, Palermo e Catania, o con traghetto Siremar da Trapani (circa 6-7 ore, con il mare mosso le corse saltano) o con aliscafo Liberty Lines (circa 2 ore e mezza).",
+        "come": "Serve un'auto o uno scooter da Pantelleria paese. Si arriva con volo da Trapani, Palermo e Catania, oppure via mare da Trapani con traghetto o aliscafo; con il mare mosso le corse saltano.",
         "quando": "Primavera e autunno per camminare, giugno e settembre per il bagno. L'isola è molto ventosa. Fango e bagno nel lago sono più piacevoli al mattino.",
         "tempo": "2-3 ore",
         "consiglio": "Se si fa il bagno di fango, togliere i gioielli e fare la doccia al lago prima di rientrare. Portare scarpe da scoglio: non ci sono spiagge di sabbia."
       },
       {
         "nome": "Dammusi, giardini panteschi e Montagna Grande",
-        "testo": "I dammusi sono case in pietra lavica con cupola, costruite per resistere al vento e alla calura. I giardini panteschi sono muri di pietra circolari che proteggono un solo albero d'agrumi. La Montagna Grande è la cima dell'isola, 836 metri, con sentieri nel bosco.",
+        "testo": "I dammusi sono case in pietra lavica con cupola, costruite per resistere al vento e alla calura. I giardini panteschi sono muri di pietra circolari che proteggono un solo albero d'agrumi. La Montagna Grande è la cima dell'isola, con sentieri nel bosco.",
         "come": "Strade interne da percorrere in auto o scooter. I sentieri partono dalla strada per Montagna Grande.",
         "quando": "Primavera e autunno. L'estate è torrida di giorno e le giornate di scirocco rendono difficili i sentieri.",
         "tempo": "mezza giornata",
@@ -2582,7 +2580,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Capri: Faraglioni e Grotta Azzurra",
         "testo": "I tre Faraglioni sono scogli alti più di 100 metri a sud-est, visti meglio in barca. La Grotta Azzurra si visita con barchette a remi da Marina Grande, ma resta chiusa con il mare mosso. Capri in estate è presa d'assalto dai visitatori in giornata.",
-        "come": "Aliscafo o traghetto da Napoli (40-80 minuti) e da Sorrento. Dentro l'isola si va in bus e funicolare, poi si cammina.",
+        "come": "Aliscafo o traghetto da Napoli e da Sorrento. Dentro l'isola si va in bus e funicolare, poi si cammina.",
         "quando": "Maggio, giugno e settembre; fuori stagione Capri è un'altra isola. La Grotta Azzurra è visitabile con mare calmo, di mattina presto.",
         "tempo": "1 giorno, meglio 2 con una notte",
         "consiglio": "Per sfuggire alla folla, fare il giro dell'isola in barca la mattina presto e salire poi ad Anacapri. Nel pomeriggio i Faraglioni sono più belli in controluce."
@@ -2590,7 +2588,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Procida: Marina Corricella e Terra Murata",
         "testo": "La più piccola e meno costosa delle tre isole del golfo di Napoli. Marina Corricella è un porticciolo di pescatori con le case dipinte, Terra Murata il borgo alto con l'abbazia di San Michele Arcangelo.",
-        "come": "Traghetto o aliscafo da Napoli (Molo Beverello e Calata Porta di Massa) o da Pozzuoli, circa 40 minuti. Sull'isola si cammina e circolano minibus.",
+        "come": "Traghetto o aliscafo da Napoli (Molo Beverello e Calata Porta di Massa) o da Pozzuoli. Sull'isola si cammina e circolano minibus.",
         "quando": "Tutto l'anno, ma da maggio a settembre. In luglio e agosto i battelli di giornata portano molta gente.",
         "tempo": "1 giorno",
         "consiglio": "Scendere a Corricella dalla scalinata e mangiare in uno dei locali sul molo."
@@ -2598,15 +2596,15 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Ponza e Palmarola",
         "testo": "Ponza è un'isola di tufo giallo, con grotte e calette. Palmarola, disabitata, ha falesie e archi naturali, e si raggiunge con le barche dei pescatori da Ponza. Il mare è tra i più chiari del Tirreno.",
-        "come": "Traghetto o aliscafo da Anzio, Formia, Terracina (da 1 ora a 2 ore e mezza). Sull'isola si cammina o si prende il bus; il giro in barca si prenota in porto.",
+        "come": "Traghetto o aliscafo da Anzio, Formia o Terracina. Sull'isola si cammina o si prende il bus; il giro in barca si prenota in porto.",
         "quando": "Giugno e settembre. In agosto Ponza si riempie con il bacino romano.",
         "tempo": "1-2 giorni",
         "consiglio": "Il giro in barca è il modo migliore: partire presto e fermarsi per il bagno a Palmarola. Chiaia di Luna è spesso interdetta per rischio frane."
       },
       {
         "nome": "Isole Tremiti",
-        "testo": "L'unico arcipelago dell'Adriatico, con San Domino e San Nicola e area marina protetta. San Domino ha pinete, calette e grotte. San Nicola ha l'abbazia fortificata con vista a 360 gradi.",
-        "come": "Traghetti e aliscafi da Termoli, Vieste, Peschici, Rodi Garganico, Ortona. Da Termoli circa 1 ora per l'aliscafo.",
+        "testo": "L'unico arcipelago italiano dell'Adriatico, con San Domino e San Nicola e un'area marina protetta. San Domino ha pinete, calette e grotte. San Nicola ha l'abbazia fortificata con vista a 360 gradi.",
+        "come": "Traghetti e aliscafi da Termoli, Vieste, Peschici, Rodi Garganico e Ortona; da Termoli la traversata è la più breve.",
         "quando": "Giugno e settembre. D'inverno i collegamenti sono ridotti.",
         "tempo": "1-2 giorni",
         "consiglio": "Fare lo snorkeling con un operatore locale: l'area è protetta e l'accesso con la barca è regolato."
@@ -2614,7 +2612,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Favignana",
         "testo": "Isola delle Egadi, piatta a est, con le cave di tufo e il grande ex stabilimento Florio per la lavorazione del tonno. L'isola ha mare turchese a Cala Rossa e Lido Burrone.",
-        "come": "Aliscafo da Trapani (circa 25 minuti) o da Marsala. Sull'isola si noleggia la bici: le distanze stanno sotto i sei chilometri.",
+        "come": "Aliscafo da Trapani o da Marsala. Sull'isola si noleggia la bici: le distanze sono brevi.",
         "quando": "Maggio, giugno e settembre. La mattina presto le calette sono vuote.",
         "tempo": "1 giorno",
         "consiglio": "Giro in bici sulle cave, poi cena a base di tonno. Prenotare la bici in alta stagione."
@@ -2651,7 +2649,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Golfo di Napoli: Procida",
         "perChi": "chi ha pochi giorni",
-        "testo": "Procida costa meno di Capri e Ischia, vita da villaggio, a 40 minuti da Napoli."
+        "testo": "Procida costa meno di Capri e Ischia, vita da villaggio, con collegamenti frequenti da Napoli."
       }
     ],
     sapori: [
@@ -2842,16 +2840,16 @@ export const destinazioniItalia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Pietrabbondante e il Molise sannita",
-        "testo": "Il santuario sannita di Pietrabbondante, a circa 1.000 metri nell'Alto Molise, ha un teatro-tempio del II secolo a.C. con le sedute in pietra e il tempio principale. Intorno restano le colline vuote su cui passavano i tratturi, le vie della transumanza riconosciute dall'UNESCO.",
-        "come": "In auto: circa 45 minuti da Isernia, 1 ora e mezza da Campobasso. Non ci sono mezzi pubblici utili. Si visita da soli, con pannelli.",
+        "testo": "Il santuario sannita di Pietrabbondante, in quota nell'Alto Molise, ha un teatro-tempio del II secolo a.C. con le sedute in pietra e il tempio principale. Intorno restano le colline vuote su cui passavano i tratturi, le vie della transumanza riconosciute dall'UNESCO.",
+        "come": "In auto da Isernia o da Campobasso. Non ci sono mezzi pubblici utili. Si visita da soli, con pannelli.",
         "quando": "Primavera e autunno. Controllare orari e giorni di apertura con il Comune o la Soprintendenza prima di partire, soprattutto fuori stagione.",
         "tempo": "1-2 ore, più il giro dei paesi",
-        "consiglio": "Abbinare la visita a un pranzo in una trattoria di paese: orario 12.30-14, poi si chiude."
+        "consiglio": "Abbinare la visita a un pranzo in una trattoria di paese, arrivando presto: dopo l'ora di pranzo la cucina chiude."
       },
       {
         "nome": "Termoli",
         "testo": "Piccola città sul mare con il borgo vecchio sul promontorio, il castello svevo e i trabucchi, le antiche macchine da pesca su palafitte. È il porto da cui partono i traghetti per le isole Tremiti.",
-        "come": "Treno sulla linea adriatica o autostrada A14. Il borgo si gira a piedi dalla stazione in 15 minuti.",
+        "come": "Treno sulla linea adriatica o autostrada A14. Il borgo si raggiunge a piedi dalla stazione.",
         "quando": "Maggio-giugno e settembre. In agosto si riempie di vacanzieri italiani.",
         "tempo": "mezza giornata",
         "consiglio": "Mangiare il brodetto alla termolese in uno dei locali in porto, e passeggiare sul lungomare al tramonto."
@@ -2867,7 +2865,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Monti Sibillini e Castelluccio di Norcia",
         "testo": "Parco con cime oltre i 2.000 metri e l'altopiano del Piano Grande di Castelluccio, noto per la fioritura delle lenticchie e dei fiori selvatici. Il sisma del 2016 ha colpito molti borghi: oggi sono ricostruiti in parte.",
-        "come": "In auto da Norcia (circa 40 minuti) o dalle Marche. Alcune strade possono essere chiuse per frane o lavori: controllare.",
+        "come": "In auto da Norcia o dalle Marche. Alcune strade possono essere chiuse per frane o lavori: controllare.",
         "quando": "La fioritura si concentra tra fine maggio e luglio. Nei fine settimana di fioritura il Piano si riempie di auto.",
         "tempo": "1 giornata",
         "url": "https://www.sibillini.net/",
@@ -2876,7 +2874,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Carnia e le valli del Friuli",
         "testo": "Valli alpine con case in pietra, borghi come Sauris e Forni di Sopra e una cultura di confine tra friulano, tedesco e sloveno. Qui è nato l'albergo diffuso, che usa le case dei paesi svuotati.",
-        "come": "In auto da Udine verso Tolmezzo (circa 1 ora). Le valli si girano in macchina e con brevi camminate.",
+        "come": "In auto da Udine verso Tolmezzo. Le valli si girano in macchina e con brevi camminate.",
         "quando": "Giugno-settembre per i sentieri, inverno per la neve. Il Friuli è tra le zone più piovose d'Italia.",
         "tempo": "2-3 giorni",
         "consiglio": "Provare il prosciutto di Sauris e il formaggio di malga, e chiedere dei sentieri alla pro loco."
@@ -2892,8 +2890,8 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Aspromonte e Pentedattilo",
-        "testo": "Parco nazionale che passa dal mare a 1.900 metri in pochi chilometri. Pentedattilo è un borgo fantasma ai piedi di una roccia a forma di mano; Roghudi e Gallicianò sono comunità grecaniche dove si parla ancora il greco antico.",
-        "come": "In auto da Reggio Calabria (circa 1 ora). Le strade interne sono lente e dissestate in tratti.",
+        "testo": "Parco nazionale che passa dal mare a quasi 2.000 metri in pochi chilometri. Pentedattilo è un borgo fantasma ai piedi di una roccia a forma di mano; Roghudi e Gallicianò sono comunità grecaniche, dove sopravvive il grecanico, un dialetto di origine greca.",
+        "come": "In auto da Reggio Calabria. Le strade interne sono lente e dissestate in tratti.",
         "quando": "Primavera e autunno. L'estate è torrida sulla costa.",
         "tempo": "2-3 giorni",
         "consiglio": "Al Museo Archeologico di Reggio Calabria si vedono i Bronzi di Riace: farlo il giorno di arrivo o partenza."
@@ -2929,7 +2927,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Agriturismi e alberghi diffusi",
         "perChi": "chi vuole prezzi bassi e cucina vera",
-        "testo": "Cinquanta-settanta euro per due con colazione sono la norma. Servono l'auto e la prenotazione: molti posti chiudono tra novembre e marzo."
+        "testo": "I prezzi sono molto più bassi che nelle zone turistiche. Servono l'auto e la prenotazione: molti posti chiudono tra novembre e marzo."
       },
       {
         "nome": "Capoluoghi (Isernia, Campobasso, Reggio Calabria)",
@@ -2965,8 +2963,8 @@ export const destinazioniItalia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Auto obbligatoria: in queste zone i mezzi pubblici arrivano ai capoluoghi e poi finiscono. Aumentare di un terzo i tempi stimati dalle mappe.",
-      "Si mangia tra le 12.30 e le 14 e la sera presto; la domenica sera e il lunedì molti posti sono chiusi. Alle 15 non si trova nulla.",
+      "Auto obbligatoria: in queste zone i mezzi pubblici arrivano ai capoluoghi e poi finiscono. Calcolare tempi più lunghi di quelli stimati dalle mappe.",
+      "Si mangia a pranzo presto e la sera presto; la domenica sera e il lunedì molti posti sono chiusi. A metà pomeriggio non si trova nulla.",
       "Il segnale telefonico manca in molte valli: scaricare mappe offline e fare il pieno quando si può.",
       "Val Grande e alta quota del Pollino sono ambienti da escursionisti esperti: meteo che cambia, pochi rifugi, soccorsi lontani.",
       "Ad agosto i paesi si riempiono di chi è emigrato e torna: è il periodo più vivo, non il più tranquillo.",
@@ -3160,7 +3158,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Barolo e La Morra (Langhe)",
         "testo": "Le colline di Barolo, patrimonio UNESCO con Langhe-Roero e Monferrato, sono coperte di vigneti di nebbiolo. Il villaggio di Barolo ha il castello Falletti e La Morra il belvedere sul mare di colline. Qui il vino è il pretesto per un paesaggio agrario costruito in secoli.",
-        "come": "Auto da Alba (circa 20 minuti). Le cantine ricevono su prenotazione: scrivere tre giorni prima. Molte strade sono strette e in salita.",
+        "come": "In auto da Alba. Le cantine ricevono su prenotazione: scrivere con qualche giorno di anticipo. Molte strade sono strette e in salita.",
         "quando": "Settembre-ottobre in vendemmia, o aprile-giugno col verde. Ad agosto molte cantine chiudono.",
         "tempo": "1 giornata, 2 cantine",
         "consiglio": "Prenotare una sola cantina al mattino e una al pomeriggio. Dopo la terza non si assaggia più niente con attenzione."
@@ -3168,7 +3166,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Alba e il tartufo bianco",
         "testo": "Capitale delle Langhe, con la fiera internazionale del tartufo bianco in autunno, quando la città si riempie. Ha torri, portici e botteghe di cioccolato e nocciole.",
-        "come": "Treno da Torino non diretto: meglio l'auto (circa 1 ora). In città si va a piedi.",
+        "come": "Da Torino in treno con cambio, ma è più comoda l'auto. In città si va a piedi.",
         "quando": "Ottobre-novembre per il tartufo. Fuori fiera Alba è più tranquilla.",
         "tempo": "mezza giornata",
         "consiglio": "Alla fiera i prezzi del tartufo sono alti: chiedere il peso e il prezzo prima di ordinare, e preferire i ristoranti con tartufo di stagione."
@@ -3176,15 +3174,15 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Valpolicella (Veneto)",
         "testo": "Colline a nord-ovest di Verona dove si produce l'Amarone: le uve appassiscono per mesi nelle fruttaie prima di essere pressate. Ville venete e pievi romaniche punteggiano i paesi di Fumane e San Pietro in Cariano.",
-        "come": "Auto o taxi da Verona (circa 20-30 minuti). Le cantine ricevono su appuntamento.",
+        "come": "In auto o taxi da Verona. Le cantine ricevono su appuntamento.",
         "quando": "Settembre-ottobre per la vendemmia, gennaio-febbraio per la pressatura delle uve appassite.",
         "tempo": "1 giornata",
         "consiglio": "Se chi guida non beve, il taxi da Verona alle cantine è una soluzione semplice."
       },
       {
         "nome": "Colline del Prosecco tra Conegliano e Valdobbiadene",
-        "testo": "Patrimonio UNESCO dal 2019: file di viti su colline ripide, con la strada del Prosecco superiore tra borghi e osterie. Il Cartizze è il vigneto più pregiato, su una collina di pochi ettari.",
-        "come": "Auto da Treviso (circa 40 minuti) o treno fino a Conegliano. In bici si fa un giro tra i filari.",
+        "testo": "Patrimonio UNESCO dal 2019: file di viti su colline ripide, con la strada del Prosecco superiore tra borghi e osterie. Il Cartizze è il vigneto più pregiato, una piccola zona di colline sopra Valdobbiadene.",
+        "come": "In auto da Treviso o in treno fino a Conegliano. In bici si fa un giro tra i filari.",
         "quando": "Primavera e autunno. Non ad agosto: fa caldo e molte cantine sono chiuse.",
         "tempo": "1 giornata",
         "consiglio": "Le osterie di Valdobbiadene servono il Prosecco spumante con salumi: pranzare lì dopo la visita in cantina."
@@ -3192,7 +3190,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Chianti Classico (Toscana)",
         "testo": "Il territorio tra Firenze e Siena con Greve, Castellina, Radda e Gaiole. Il Gallo Nero è il marchio del consorzio. Pievi, castelli e fattorie si alternano a vigne e uliveti.",
-        "come": "Auto da Firenze o Siena (circa 40-50 minuti). La strada Chiantigiana attraversa i paesi.",
+        "come": "In auto da Firenze o Siena. La strada Chiantigiana attraversa i paesi.",
         "quando": "Aprile-giugno e settembre-ottobre. In estate ci sono tante gite in pullman.",
         "tempo": "1-2 giornate",
         "consiglio": "Dormire in agriturismo e visitare cantine piccole: spesso il produttore stesso accoglie."
@@ -3200,15 +3198,15 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Montalcino e Brunello",
         "testo": "Borgo medievale con la fortezza e le cantine del Brunello, sangiovese in purezza. L'Abbazia di Sant'Antimo, romanica, è a pochi chilometri tra gli ulivi.",
-        "come": "Auto da Siena (circa 50 minuti). Montalcino si gira a piedi, le cantine sono sparse intorno.",
+        "come": "In auto da Siena. Montalcino si gira a piedi, le cantine sono sparse intorno.",
         "quando": "Primavera e autunno. Prenotare le cantine con anticipo.",
         "tempo": "1 giornata",
-        "consiglio": "Visitare l'Abbazia di Sant'Antimo la mattina presto, quando i monaci cantano."
+        "consiglio": "Visitare l'Abbazia di Sant'Antimo la mattina presto, quando c'è silenzio e la luce entra di lato nelle navate."
       },
       {
         "nome": "Etna (Sicilia)",
         "testo": "Contrade sui versanti del vulcano, con viti di nerello mascalese a piede franco, rimaste fuori dalla fillossera. Alcune hanno più di cento anni. Si degusta in cantine di pietra lavica.",
-        "come": "Auto da Catania (circa 40-60 minuti). Strade tortuose e lente. Base a Linguaglossa, Castiglione di Sicilia o Randazzo.",
+        "come": "In auto da Catania, su strade tortuose e lente. Base a Linguaglossa, Castiglione di Sicilia o Randazzo.",
         "quando": "Settembre-ottobre per la vendemmia, ma l'Etna è bella anche in primavera.",
         "tempo": "1-2 giornate",
         "consiglio": "Chiedere di vedere le vigne vecchie: si capisce perché il suolo lavico ha salvato le viti dal parassita."
@@ -3216,7 +3214,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Collio e Colli Orientali (Friuli)",
         "testo": "Colline al confine con la Slovenia, famose per i vini bianchi: ribolla gialla, friulano, malvasia. Molte aziende fanno vini macerati sulle bucce, detti orange.",
-        "come": "Auto da Gorizia o Cormons (circa 15 minuti). Le cantine sono piccole, a conduzione familiare.",
+        "come": "In auto da Gorizia o Cormons, che sono vicine. Le cantine sono piccole, a conduzione familiare.",
         "quando": "Primavera e autunno. In estate ha più sole.",
         "tempo": "1-2 giornate",
         "consiglio": "Attraversare il confine sloveno per un pranzo in una gostilna: a poca distanza cambia la cucina."
@@ -3224,7 +3222,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Irpinia e Vulture (Campania e Basilicata)",
         "testo": "Due grandi rossi del sud: il Taurasi in Irpinia e l'Aglianico del Vulture, entrambi da aglianico. In Irpinia anche i bianchi Fiano di Avellino e Greco di Tufo. Sono zone con pochi turisti e prezzi bassi.",
-        "come": "Solo in auto da Avellino o da Potenza (circa 1 ora). Poche cantine hanno strutture per l'accoglienza.",
+        "come": "Solo in auto da Avellino o da Potenza. Poche cantine hanno strutture per l'accoglienza.",
         "quando": "Settembre-ottobre. Estate molto calda.",
         "tempo": "2 giornate, una per zona",
         "consiglio": "Qui ci si ritrova spesso nella cantina dove il proprietario sta travasando: è quello il momento di fare domande."
@@ -3232,7 +3230,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Valtellina (Lombardia)",
         "testo": "Terrazzamenti vitati sostenuti da centinaia di chilometri di muretti a secco su pendii ripidi, per il nebbiolo di montagna, qui detto chiavennasca. Lo Sforzato è ottenuto da uve appassite.",
-        "come": "Treno da Milano a Tirano o Sondrio (2 ore). Gli spostamenti tra le cantine richiedono auto.",
+        "come": "Treno da Milano a Tirano o Sondrio. Gli spostamenti tra le cantine richiedono l'auto.",
         "quando": "Settembre-ottobre. Il fondovalle d'estate è caldo e trafficato.",
         "tempo": "1-2 giornate",
         "consiglio": "Camminare un tratto della Via dei Terrazzamenti, il sentiero tra i muretti, prima o dopo le degustazioni."
@@ -3269,7 +3267,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Alba e dintorni",
         "perChi": "chi vuole cucina e tartufo",
-        "testo": "Città di 30.000 abitanti, base comoda per le Langhe, ma costosa in ottobre. Treni lenti, meglio l'auto."
+        "testo": "Piccola città, base comoda per le Langhe, ma costosa in ottobre. Treni lenti, meglio l'auto."
       },
       {
         "nome": "Agriturismi tra le vigne",
@@ -3374,8 +3372,8 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Museo Egizio",
         "testo": "La collezione egizia più importante fuori dal Cairo, nata nel 1824 dal nucleo raccolto dal console Drovetti. Il pezzo da non perdere è la tomba di Kha e Merit, trovata intatta nel 1906 con tutto il corredo. Poi il Tempio di Ellesiya, la Galleria dei Re e il Papiro delle Miniere d'Oro.",
-        "come": "In pieno centro, a piedi da Piazza Castello o Piazza San Carlo. Si entra con biglietto acquistato online, a fascia oraria. Audioguida o app per capire i pezzi.",
-        "quando": "Aperto tutti i giorni. Lunedì 9-14, martedì-venerdì e domenica 9-18.30, sabato 9-20, ultimo ingresso un'ora prima. Mattina presto o sabato sera per evitare la folla. Le Sale Storiche sono chiuse temporaneamente dal 12 dicembre 2025: vedere l'avviso sul sito.",
+        "come": "In pieno centro, a piedi da Piazza Castello o Piazza San Carlo. Il biglietto si compra obbligatoriamente online, a fascia oraria. Audioguida o app per capire i pezzi.",
+        "quando": "Aperto tutti i giorni: lunedì 9-14, martedì-venerdì e domenica 9-18:30, sabato 9-20; in alcune giornate ci sono aperture serali straordinarie, sul sito. Mattina presto o sabato sera per evitare la folla. Le Sale Storiche sono chiuse temporaneamente dal 12 dicembre 2025: vedere l'avviso sul sito.",
         "tempo": "3 ore, meglio 4",
         "costo": "18 euro intero (2026)",
         "url": "https://www.museoegizio.it/",
@@ -3384,10 +3382,10 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Mole Antonelliana e Museo Nazionale del Cinema",
         "testo": "Nata nel 1863 come sinagoga e mai usata come tale, è il simbolo della città. Dentro c'è il museo del cinema, disposto a spirale attorno all'aula centrale, con le poltrone rosse reclinabili al centro. L'ascensore panoramico di vetro sale nel vuoto fino al tempietto.",
-        "come": "In via Montebello, a 10 minuti a piedi da Piazza Castello. Biglietto del museo, dell'ascensore o cumulativo, con slot orario.",
+        "come": "In via Montebello, a piedi da Piazza Castello. Biglietto del museo, dell'ascensore o cumulativo, con slot orario.",
         "quando": "Nelle giornate limpide l'ascensore si esaurisce: prenotare. Controllare sul sito eventuali lavori o aperture ridotte.",
         "tempo": "2-3 ore con l'ascensore",
-        "costo": "museo 18 euro, ascensore 9 euro, cumulativo 23 euro (2026)",
+        "costo": "museo 18 euro, ascensore 9 euro, cumulativo 23 euro (sito ufficiale, 2026); fino all'8 dicembre 2026 il solo museo è ridotto per tutti a 16 euro per l'allestimento di una nuova mostra",
         "url": "https://www.museocinema.it/",
         "consiglio": "Il cumulativo conviene se si fa tutto. In una giornata limpida si vede il Monviso dietro l'arco alpino."
       },
@@ -3395,26 +3393,27 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Musei Reali e Cappella della Sindone",
         "testo": "Palazzo Reale, Armeria Reale, Galleria Sabauda e la Cappella della Sindone del Guarini, con la cupola a esagoni sovrapposti, riaperta dopo il restauro seguito all'incendio del 1997. La Sindone non è esposta: si vede la cappella, non il telo.",
         "come": "In Piazza Castello, ingresso dal cortile. Biglietto unico per tutto il complesso. Si può girare da soli, le sale hanno pannelli chiari.",
-        "quando": "Aperti dal giovedì al martedì, 9-19, chiusi il mercoledì. Biglietteria chiusa un'ora prima. La prima domenica del mese è gratuita con prenotazione obbligatoria.",
+        "quando": "Aperti dal giovedì al martedì, 9-19, chiusi il mercoledì. La prima domenica del mese l'ingresso è gratuito senza prenotazione: i biglietti si ritirano solo in biglietteria il giorno stesso.",
         "tempo": "3 ore",
-        "costo": "15 euro intero (2026)",
+        "costo": "15 euro intero (sito ufficiale, 2026)",
         "url": "https://museireali.cultura.gov.it/",
         "consiglio": "2 ore bastano per Palazzo Reale, Armeria e cappella: la Galleria Sabauda è per chi ama i quadri antichi."
       },
       {
         "nome": "Basilica di Superga e tranvia a dentiera",
         "testo": "Basilica di Juvarra sulla collina a est del Po, con le tombe dei Savoia nella cripta. Sul retro c'è il memoriale del Grande Torino, nel punto dove si schiantò l'aereo nel 1949. Dalla terrazza si vedono la città e le Alpi.",
-        "come": "Tranvia storica a dentiera dalla stazione Sassi (tram 15 dal centro), circa 20 minuti di salita. Al mercoledì la tranvia è ferma e c'è il bus 79.",
-        "quando": "Orari della tranvia diversi tra estate e inverno: controllare sul sito GTT. Giornata limpida, meglio il pomeriggio per la luce sulle Alpi.",
+        "come": "Tranvia storica a dentiera dalla stazione Sassi (tram 15 dal centro), con partenze ogni ora. Il mercoledì la tranvia è ferma; nei festivi c'è anche il bus Superga Express da piazza Vittorio Veneto.",
+        "quando": "Partenze da Sassi ogni ora dalle 10 alle 18, ultima discesa da Superga alle 18:30; orari aggiornati sul sito GTT. Giornata limpida, meglio il pomeriggio per la luce sulle Alpi.",
         "tempo": "2-3 ore compresa la salita",
         "url": "https://www.gtt.to.it/cms/turismo/sassisup",
-        "consiglio": "Un giro a piedi sul crinale dietro la basilica costa niente e dà la vista migliore. Il prezzo della corsa va controllato al momento."
+        "costo": "tranvia: 4 euro corsa singola e 6 andata e ritorno nei feriali, 6 e 9 euro il sabato e nei festivi (GTT, 2026)",
+        "consiglio": "Un giro a piedi sul crinale dietro la basilica costa niente e dà la vista migliore. Il biglietto di andata e ritorno conviene rispetto a due corse singole."
       },
       {
         "nome": "Reggia di Venaria",
         "testo": "Residenza sabauda di caccia, patrimonio UNESCO, con la Galleria Grande di Juvarra, la Cappella di Sant'Uberto e i giardini. Il complesso è enorme e ospita anche mostre.",
-        "come": "Dalla stazione Porta Susa o dal centro con la linea bus 11, circa 40 minuti. In auto 25 minuti. Ingresso e biglietto sul sito ufficiale.",
-        "quando": "Chiusa il lunedì. Giardini e parco restano visitabili anche con tempo incerto, ma le sale vanno viste con giornata libera.",
+        "come": "A una decina di chilometri da Torino, raggiungibile in treno, bus o auto: collegamenti sul sito ufficiale. Si consiglia di prenotare l'ingresso a orario.",
+        "quando": "Aperta dal martedì alla domenica, chiusa il lunedì; gli orari di Reggia, mostre e giardini cambiano durante l'anno. Giardini e parco restano visitabili anche con tempo incerto, ma le sale vanno viste con una giornata libera.",
         "tempo": "mezza giornata, una giornata con i giardini",
         "url": "https://www.lavenaria.it/",
         "consiglio": "Serve un mezzo mattino pieno: meglio dedicarle un giorno in più, non incastrarla tra Egizio e Mole."
@@ -3422,7 +3421,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Quadrilatero Romano e Porta Palazzo",
         "testo": "La zona più antica della città, con la maglia ortogonale romana e la Porta Palatina del I secolo, con le torri in piedi. A due passi c'è Porta Palazzo, il più grande mercato all'aperto d'Europa.",
-        "come": "A piedi da Piazza Castello, 5-10 minuti. Il mercato è in Piazza della Repubblica.",
+        "come": "A piedi da Piazza Castello. Il mercato è in Piazza della Repubblica.",
         "quando": "Mercato al mattino, dal lunedì al sabato. La sera il Quadrilatero è il quartiere dell'aperitivo.",
         "tempo": "2 ore",
         "costo": "ingresso libero",
@@ -3439,7 +3438,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Monte dei Cappuccini e Parco del Valentino",
         "testo": "Sul colle sopra il Po, il Monte dei Cappuccini dà la vista classica con la Mole e le Alpi dietro. Più sotto il Parco del Valentino segue il fiume e ospita il Borgo Medievale, ricostruzione ottocentesca fatta con rigore filologico.",
-        "come": "A piedi da Piazza Vittorio Veneto: 10 minuti di salita. Il Valentino è a sud, lungo il Po.",
+        "come": "A piedi da Piazza Vittorio Veneto, con una breve salita. Il Valentino è a sud, lungo il Po.",
         "quando": "Giornata limpida, meglio il tardo pomeriggio. Il parco è aperto sempre.",
         "tempo": "2 ore",
         "consiglio": "Salire con la luce del tardo pomeriggio, poi scendere a piedi verso il fiume."
@@ -3478,12 +3477,12 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Centro storico, tra Piazza Castello e Piazza San Carlo",
         "perChi": "chi vuole girare tutto a piedi",
-        "testo": "Si cammina sotto i portici, musei e caffè sono a pochi minuti. Gli alberghi costano di più, la sera è tranquilla. Dalla stazione di Porta Nuova ci vogliono 10 minuti."
+        "testo": "Si cammina sotto i portici, musei e caffè sono a pochi minuti. Gli alberghi costano di più, la sera è tranquilla. Dalla stazione di Porta Nuova si arriva a piedi."
       },
       {
         "nome": "San Salvario",
         "perChi": "chi cerca prezzi più bassi e vita serale",
-        "testo": "Quartiere dietro Porta Nuova, con locali e ristoranti. Più rumoroso nei weekend e nei fine serata, a 15 minuti a piedi dal centro."
+        "testo": "Quartiere dietro Porta Nuova, con locali e ristoranti. Più rumoroso nei weekend e a fine serata, raggiungibile a piedi dal centro."
       },
       {
         "nome": "Quadrilatero Romano",
@@ -3583,23 +3582,23 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Positano",
         "testo": "Il paese più fotografato della costa: case color pastello a gradoni su un vallone che scende fino alla Spiaggia Grande. Si visita scendendo a piedi dalla strada, tra scale e botteghe, e si risale con le gambe.",
-        "come": "Da Amalfi in traghetto (circa 30-40 minuti) o con bus SITA lungo la statale. In auto è sconsigliato: i parcheggi sono pochi e cari.",
+        "come": "Da Amalfi in traghetto o con bus SITA lungo la statale. In auto è sconsigliato: i parcheggi sono pochi e cari.",
         "quando": "Mattina presto o dopo le 17, quando i gruppi in giornata se ne vanno. Luglio e agosto sono saturi.",
         "tempo": "3-4 ore",
-        "consiglio": "Per il bagno, le spiagge a est (Fornillo) sono meno affollate della Spiaggia Grande e si raggiungono a piedi in dieci minuti."
+        "consiglio": "Per il bagno, la spiaggia di Fornillo, a ovest della Spiaggia Grande, è meno affollata e si raggiunge a piedi lungo il sentiero sul mare."
       },
       {
         "nome": "Amalfi: Duomo e Chiostro del Paradiso",
         "testo": "Il Duomo di Sant'Andrea sta in cima a una scalinata sulla piazza del porto, con la facciata a mosaici e il portale di bronzo bizantino. Accanto c'è il Chiostro del Paradiso, del Duecento, con archi intrecciati di gusto arabo. Amalfi è stata una repubblica marinara prima di Pisa e Genova.",
-        "come": "Dal molo dei traghetti sono cinque minuti a piedi. Il biglietto copre chiostro, basilica del Crocifisso e museo; il duomo si visita dalla scalinata.",
+        "come": "Dal molo dei traghetti si arriva a piedi in pochi minuti. Il biglietto copre chiostro, basilica del Crocifisso e museo; il duomo si visita dalla scalinata.",
         "quando": "Orari e giorni variano con le funzioni religiose. Meglio la mattina, prima dei pullman.",
         "tempo": "1 ora",
         "consiglio": "Salire la scalinata e girarsi: la piazza vista dall'alto è la foto migliore della città."
       },
       {
         "nome": "Atrani",
-        "testo": "Un paese di poche centinaia di abitanti, a duecento metri da Amalfi, stretto in una gola con la piazza che si apre sul mare sotto un arco. Case bianche, vicoli a scale, la chiesa della Maddalena. Quasi nessuno ci si ferma.",
-        "come": "A piedi da Amalfi in cinque-dieci minuti lungo la statale e poi per le scale, oppure dal sottopassaggio vicino al molo.",
+        "testo": "Un paese di meno di mille abitanti, attaccato ad Amalfi, stretto in una gola con la piazza che si apre sul mare sotto un arco. Case bianche, vicoli a scale, la chiesa della Maddalena. Quasi nessuno ci si ferma.",
+        "come": "A piedi da Amalfi lungo la statale e poi per le scale, oppure dal sottopassaggio vicino al molo.",
         "quando": "Tutto il giorno. La sera, quando i visitatori in giornata sono ripartiti, è molto tranquillo.",
         "tempo": "1 ora",
         "costo": "gratuito",
@@ -3607,8 +3606,8 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Ravello: Villa Rufolo e Villa Cimbrone",
-        "testo": "Ravello sta a circa 350 metri sopra la costa e ha un altro ritmo: silenzio, giardini e belvedere. Villa Rufolo, del Duecento, ha la torre moresca e il giardino sul vuoto dove si tiene il festival musicale. Villa Cimbrone ha il Belvedere dell'Infinito, con le statue affacciate sul mare.",
-        "come": "Da Amalfi con bus SITA in circa 25 minuti, o a piedi per la Scala Fenicia (sentiero con molti gradini). Le due ville distano 15 minuti a piedi, passando per il centro.",
+        "testo": "Ravello sta a oltre 300 metri sopra la costa e ha un altro ritmo: silenzio, giardini e belvedere. Villa Rufolo, del Duecento, ha la torre moresca e il giardino sul vuoto dove si tiene il festival musicale. Villa Cimbrone ha il Belvedere dell'Infinito, con le statue affacciate sul mare.",
+        "come": "Da Amalfi con bus SITA, o a piedi per la Scala Fenicia (sentiero con molti gradini). Le due ville sono collegate a piedi passando per il centro.",
         "quando": "Villa Rufolo è aperta tutti i giorni, con orario esteso in stagione. Le ore dopo le 17 hanno la luce migliore sul Belvedere. Il festival cambia gli orari di chiusura.",
         "tempo": "mezza giornata",
         "url": "https://www.villarufolo.com/",
@@ -3616,17 +3615,16 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Sentiero degli Dei",
-        "testo": "Il percorso panoramico più bello della costa, da Bomerano (Agerola) a Nocelle: circa 7-8 km a mezza quota, a 500 metri sul mare, con Positano e Capri all'orizzonte. Si fa in circa tre ore, in discesa, ed è gratuito.",
+        "testo": "Il percorso panoramico più bello della costa, da Bomerano (Agerola) a Nocelle: circa 7-8 km a mezza quota, con Positano e Capri all'orizzonte. Si fa in circa tre ore, quasi tutto in discesa.",
         "come": "Bus SITA da Amalfi a Bomerano, poi si cammina fino a Nocelle. Da Nocelle si scende a Positano per una lunga scalinata, oppure ci si ferma e si prende il bus.",
         "quando": "Primavera e autunno. D'estate partire all'alba: il sentiero ha poca ombra.",
         "tempo": "3-4 ore più la discesa a Positano",
-        "costo": "gratuito",
         "consiglio": "Farlo da Bomerano a Nocelle, non al contrario: si scende tutto e si arriva con il mare davanti. Scarpe da trekking e acqua."
       },
       {
         "nome": "Valle delle Ferriere",
         "testo": "Una gola umida sopra Amalfi, dove sopravvivono felci rare, relitti di epoche più fredde. Il sentiero costeggia il torrente Canneto, tra i resti delle antiche ferriere e delle cartiere. È una riserva naturale.",
-        "come": "Da Amalfi si sale a piedi per un sentiero di circa 40 minuti, oppure si parte da Pontone (Scala). Il percorso ad anello richiede scarpe da trekking.",
+        "come": "Da Amalfi si sale a piedi per un sentiero, oppure si parte da Pontone (Scala). Il percorso ad anello richiede scarpe da trekking.",
         "quando": "Tutto l'anno; d'estate è fresco e ombreggiato. Dopo piogge forti può essere scivoloso o con tratti chiusi.",
         "tempo": "3 ore",
         "consiglio": "Un buon giro per le giornate di caldo o di mare mosso, quando la costa non è piacevole."
@@ -3642,7 +3640,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Cetara",
         "testo": "Un villaggio di pescatori di tonno e alici, verso Salerno, lontano dalla folla. Qui si fa la colatura di alici, erede del garum romano. Il porticciolo e la spiaggia sono quelli di un paese vero.",
-        "come": "Bus SITA da Amalfi (circa 40 minuti) o da Salerno; traghetto in stagione. Si gira a piedi in un'ora.",
+        "come": "Bus SITA da Amalfi o da Salerno; traghetto in stagione. Si gira a piedi in un'ora.",
         "quando": "Tutto l'anno. Il pranzo è l'ora giusta, con i locali pieni di gente del posto.",
         "tempo": "2 ore",
         "consiglio": "Comprare la colatura direttamente da un produttore, in bottiglietta sigillata, e portarla a casa."
@@ -3711,11 +3709,11 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Delizia al limone",
-        "testo": "Dolce di pan di spagna bagnato e crema di limone, nato ad Amalfi. Il limone locale, lo sfusato amalfitano, è grande e poco acido."
+        "testo": "Dolce di pan di spagna bagnato e crema di limone, nato in penisola sorrentina e diffuso in tutta la costiera. Il limone locale, lo sfusato amalfitano, è grande e poco acido."
       },
       {
         "nome": "Mozzarella nella mortella",
-        "testo": "Mozzarella avvolta in foglie di mirto, tipica di Amalfi. Si mangia fresca, a temperatura ambiente."
+        "testo": "Mozzarella avvolta in foglie di mirto, tipica del vicino Cilento e che si trova anche in costiera. Si mangia fresca, a temperatura ambiente."
       },
       {
         "nome": "Limoncello",
@@ -3853,14 +3851,14 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Grotta Azzurra, Capri",
         "testo": "Una cavità marina di Anacapri dove la luce entra da un'apertura subacquea e colora l'acqua di blu intenso. Ci si entra solo con piccole barche a remi, sdraiati, attraverso un varco basso.",
         "come": "Da Marina Grande in barca fino all'ingresso, oppure in bus da Anacapri e poi a piedi alla biglietteria dei barcaioli. Si sale sulla barchetta e si paga sul posto.",
-        "quando": "Mattina e primo pomeriggio, con mare calmo. Con onda l'accesso viene sospeso e da novembre a marzo è raramente aperta.",
+        "quando": "Mattina e primo pomeriggio, con mare calmo. Con onda l'accesso viene sospeso, e d'inverno le giornate di chiusura sono frequenti.",
         "tempo": "1-2 ore con la coda, 5 minuti dentro",
-        "costo": "circa 18-20 euro tra barca a remi e ingresso, da pagare in contanti sul posto (2026, le fonti variano di qualche euro)",
+        "costo": "si pagano sul posto la barca a remi e l'ingresso: chiedere la cifra totale prima di salire",
         "consiglio": "Guardare il mare prima di partire dalla Marina Grande: se è mosso, chiedere se la grotta è aperta prima di pagare un giro in barca."
       },
       {
         "nome": "Monte Solaro e Scala Fenicia",
-        "testo": "Il punto più alto di Capri, 589 metri, raggiungibile da Anacapri con una seggiovia di dodici minuti. Dalla cima si vedono i due golfi, Napoli e Salerno insieme. In basso la Scala Fenicia, 921 gradini, è l'antica via tra Marina Grande e Anacapri.",
+        "testo": "Il punto più alto di Capri, 589 metri, raggiungibile da Anacapri con una seggiovia. Dalla cima si vedono i due golfi, Napoli e Salerno insieme. In basso la Scala Fenicia, 921 gradini, è l'antica via tra Marina Grande e Anacapri.",
         "come": "Seggiovia dalla piazza di Anacapri. Per scendere a piedi si può prendere la Scala Fenicia, con scarpe comode.",
         "quando": "Mattina, con aria limpida. La seggiovia si ferma con il vento forte.",
         "tempo": "2-3 ore",
@@ -3868,8 +3866,8 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Villa Jovis",
-        "testo": "I resti della villa dove l'imperatore Tiberio visse gli ultimi anni del suo regno, sul bordo di un precipizio sul mare a 354 metri. Restano cisterne, terrazze e l'impianto della residenza.",
-        "come": "A piedi da Capri, circa 45 minuti di salita lungo via Longano, in parte tra le case e poi tra muri a secco. Nessun mezzo.",
+        "testo": "I resti della villa dove l'imperatore Tiberio visse gli ultimi anni del suo regno, sul bordo di un precipizio sul mare, in cima al Monte Tiberio. Restano cisterne, terrazze e l'impianto della residenza.",
+        "come": "A piedi da Capri, in salita lungo via Longano, in parte tra le case e poi tra muri a secco. Nessun mezzo.",
         "quando": "Mattina presto per il fresco; orari e giorni di apertura vanno controllati prima, cambiano con la stagione.",
         "tempo": "2 ore tra andata e ritorno",
         "consiglio": "Portare acqua, perché lungo la salita ci sono pochi punti di ristoro."
@@ -3903,8 +3901,8 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Monte Epomeo",
-        "testo": "Il vulcano spento al centro di Ischia, 789 metri, con una cima di tufo verde. Dal belvedere si vede tutta l'isola e il golfo. Sul percorso ci sono cantine scavate nella roccia.",
-        "come": "Sentiero da Fontana (bus da Ischia Porto o Forio) o da Serrara Fontana, circa 1 ora di salita. Si può anche salire in minibus per il tratto iniziale.",
+        "testo": "Il monte più alto di Ischia, al centro dell'isola, 789 metri, con una cima di tufo verde. Dal belvedere si vede tutta l'isola e il golfo. Sul percorso ci sono cantine scavate nella roccia.",
+        "come": "Sentiero da Fontana (bus da Ischia Porto o Forio) o da Serrara Fontana, in salita. Si può anche salire in minibus per il tratto iniziale.",
         "quando": "Mattina limpida; evitare giorni di vento o dopo la pioggia per il tufo scivoloso.",
         "tempo": "3 ore tra salita e discesa",
         "costo": "gratuito",
@@ -3913,7 +3911,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Procida: Marina Corricella e Terra Murata",
         "testo": "Corricella è un villaggio di pescatori a gradoni, con case di mille colori sul porticciolo. Sopra, Terra Murata è la parte alta e fortificata dell'isola, con l'abbazia di San Michele e il belvedere. Procida è piccola e si gira tutta in mezza giornata.",
-        "come": "Traghetto o aliscafo da Napoli o Pozzuoli (circa 40 minuti da Napoli). Dal porto di Marina Grande si cammina o si prende il minibus verso Terra Murata.",
+        "come": "Traghetto o aliscafo da Napoli o Pozzuoli. Dal porto di Marina Grande si cammina o si prende il minibus verso Terra Murata.",
         "quando": "Tutto l'anno. Il tardo pomeriggio e la sera sono i momenti migliori, con i pescatori al lavoro.",
         "tempo": "mezza giornata",
         "consiglio": "Scendere a Corricella dalla scalinata di Terra Murata e mangiare pesce nel porticciolo sotto le case."
@@ -3923,7 +3921,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "titolo": "1 giorno",
         "tappe": [
-          "Mattina: aliscafo da Napoli o Pozzuoli per Procida (circa 40 minuti)",
+          "Mattina: aliscafo da Napoli o Pozzuoli per Procida",
           "Terra Murata e Marina Corricella a piedi",
           "Pranzo di pesce sul porticciolo",
           "Giro verso la Chiaiolella e rientro nel pomeriggio"
@@ -4123,8 +4121,8 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Vulcano: Gran Cratere e fanghi",
-        "testo": "Un cratere di circa 390 metri con fumarole di zolfo sul bordo, raggiungibile in circa un'ora di salita da Porto di Levante. A valle ci sono i fanghi sulfurei e il mare che ribolle di gas vicino ai Faraglioni.",
-        "come": "Aliscafo da Lipari in circa 10 minuti. Dal porto il sentiero parte a piedi. Per i fanghi, il laghetto è vicino al porto.",
+        "testo": "Un cratere di poco meno di 400 metri con fumarole di zolfo sul bordo, raggiungibile a piedi da Porto di Levante. A valle ci sono i fanghi sulfurei e il mare che ribolle di gas vicino ai Faraglioni.",
+        "come": "Aliscafo da Lipari, una traversata breve. Dal porto il sentiero parte a piedi. Il laghetto dei fanghi è vicino al porto, ma è chiuso al pubblico dal 2020 in attesa di lavori di messa in sicurezza: verificare se ha riaperto.",
         "quando": "Mattina presto per il caldo e il sole. L'accesso al cratere è stato più volte regolato o chiuso per l'attività fumarolica: verificare prima.",
         "tempo": "mezza giornata per il cratere, 1 ora per i fanghi",
         "consiglio": "I fanghi macchiano e l'odore resta addosso: costume vecchio e niente gioielli d'argento. Respirare poco vicino alle fumarole."
@@ -4148,7 +4146,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Panarea e Capo Milazzese",
         "testo": "La più piccola e mondana, con case bianche e niente auto. Il villaggio preistorico di Capo Milazzese, dell'età del bronzo, è su un promontorio a sud, con le capanne di pietra visibili. In mare ci sono gli isolotti, tra cui Lisca Bianca.",
-        "come": "Aliscafo da Lipari o Stromboli. A piedi dal porto verso sud, circa 40 minuti fino a Capo Milazzese; le valigie viaggiano sui carrelli elettrici.",
+        "come": "Aliscafo da Lipari o Stromboli. Dal porto si va a piedi verso sud fino a Capo Milazzese; le valigie viaggiano sui carrelli elettrici.",
         "quando": "Giugno e settembre. D'estate la sera è frequentata dagli yacht e i prezzi salgono.",
         "tempo": "mezza giornata",
         "consiglio": "Il giro in barca degli isolotti è il modo giusto di vedere il mare di Panarea, ma contrattare il prezzo."
@@ -4156,14 +4154,14 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Filicudi: Grotta del Bue Marino e Capo Graziano",
         "testo": "Un'isola quasi senza turismo. Il Capo Graziano ha un villaggio preistorico e una costa di roccia scura. La Grotta del Bue Marino è una grotta marina raggiungibile in barca, con acque limpide.",
-        "come": "Aliscafo da Lipari o Salina in circa 1 ora. Sull'isola si cammina; i taxi-barca fanno il giro delle grotte.",
+        "come": "Aliscafo da Lipari o Salina. Sull'isola si cammina; i taxi-barca fanno il giro delle grotte.",
         "quando": "Giugno e settembre; il mare mosso impedisce l'ingresso alle grotte.",
         "tempo": "1 giorno",
         "consiglio": "Dormirci almeno una notte: la sera, quando partono gli aliscafi, l'isola resta quasi vuota."
       },
       {
         "nome": "Alicudi",
-        "testo": "La più remota, circolare e quasi senza strade, con poche decine di abitanti stabili. Si sale per mulattiere e scalinate di pietra; i muli portano ancora le merci. Dalla cima si vede tutto l'arcipelago.",
+        "testo": "La più remota, circolare e quasi senza strade, con pochi abitanti stabili. Si sale per mulattiere e scalinate di pietra; i muli portano ancora le merci. Dalla cima si vede tutto l'arcipelago.",
         "come": "Aliscafo da Lipari o Filicudi. Dal porto si sale a piedi, senza veicoli.",
         "quando": "Primavera e inizio autunno. D'estate la salita è dura per il caldo.",
         "tempo": "1 giorno o una notte",
@@ -4313,45 +4311,43 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Mercati di Palermo: Ballarò, Capo e Vucciria",
         "testo": "Tre mercati storici nel centro, con origini arabe. Al mattino sono un teatro: banchi di pesce, spezie, verdure, venditori che urlano l'abbanniata. Si mangia in piedi, camminando, spendendo pochi euro.",
         "come": "A piedi dal centro storico. Ballarò è vicino alla Casa Professa e a Porta Nuova; il Capo è dietro il Teatro Massimo; la Vucciria sta tra via Roma e il porto.",
-        "quando": "Mattina, dalle nove a mezzogiorno. Il pomeriggio molti banchi smontano. La domenica è più vuota.",
+        "quando": "Mattina, quando i banchi sono al completo. Il pomeriggio molti banchi smontano. La domenica è più vuota.",
         "tempo": "2-3 ore",
         "consiglio": "Mangiare panelle, arancine e sfincione in piedi, ai banchi dove fa la fila la gente del posto, non nei locali con il menu in inglese."
       },
       {
         "nome": "Palazzo dei Normanni e Cappella Palatina",
         "testo": "La cappella reale del Dodicesimo secolo: pareti a mosaici d'oro, soffitto ligneo a muqarnas di mano araba e pavimenti di marmo. È una delle chiese più belle d'Italia e fa parte dell'itinerario arabo-normanno, patrimonio UNESCO.",
-        "come": "Dal centro si arriva a piedi in circa 10 minuti verso Porta Nuova. Biglietto con prenotazione, ingresso con controlli e file brevi se si va presto.",
-        "quando": "Al mattino, appena apre. Gli orari cambiano con le funzioni e con le sedute dell'assemblea regionale: controllare prima.",
+        "come": "Dal centro si arriva a piedi verso Porta Nuova. Biglietto online sul sito della Fondazione Federico II, ingresso con controlli e file brevi se si va presto.",
+        "quando": "Lunedì-sabato 8:30-16:30, domenica e festivi 8:30-12:30 (orari di ultimo ingresso, sito della Fondazione Federico II). Al mattino, appena apre. Gli orari cambiano con le funzioni e con le sedute dell'assemblea regionale: controllare prima.",
         "tempo": "1 ora e mezza",
-        "costo": "circa 19 euro intero, con Appartamenti Reali (2025, da verificare)",
         "url": "https://www.federicosecondo.org/",
         "consiglio": "Alzare gli occhi al soffitto: i muqarnas sono in legno dipinto, con scene di corte arabe."
       },
       {
         "nome": "Duomo di Monreale",
-        "testo": "Il capolavoro normanno del Dodicesimo secolo: seimila metri quadrati di mosaici a fondo oro, con un Cristo Pantocratore alto quasi venti metri nell'abside. Accanto il chiostro ha 228 colonnine, e ogni capitello è diverso dagli altri. Le terrazze sopra danno sulla Conca d'Oro.",
-        "come": "Bus AMAT da Palermo (piazza Indipendenza o corso Calatafimi), circa 30-40 minuti. Si entra dalla facciata laterale; il chiostro e le terrazze hanno biglietti.",
-        "quando": "Primo mattino, prima dei pullman: alle otto e mezza si sta dentro con dieci persone. Orari variano con le funzioni.",
+        "testo": "Il capolavoro normanno del Dodicesimo secolo: oltre seimila metri quadrati di mosaici a fondo oro, con il grande Cristo Pantocratore nell'abside. Accanto il chiostro ha 228 colonnine, e ogni capitello è diverso dagli altri. Le terrazze sopra danno sulla Conca d'Oro.",
+        "come": "Bus urbano da Palermo (piazza Indipendenza o corso Calatafimi). Il chiostro e le terrazze hanno biglietti propri.",
+        "quando": "Primo mattino, prima dei pullman. Orari variano con le funzioni: controllare prima.",
         "tempo": "2 ore",
-        "costo": "circa 13 euro il biglietto cumulativo (duomo, chiostro, terrazze, museo), 6 euro solo il duomo (2026, da verificare)",
         "consiglio": "Salire sulle terrazze per vedere il tetto e Palermo; portare una felpa per il fresco dentro."
       },
       {
         "nome": "Segesta",
         "testo": "Un tempio dorico del quinto secolo avanti Cristo, mai finito, in piedi da solo su una collina in mezzo al niente, con il vento. Più in alto c'è il teatro greco con vista sul golfo di Castellammare.",
-        "come": "Da Palermo in auto, circa un'ora per l'autostrada Palermo-Trapani. Il tempio è vicino all'ingresso; per il teatro c'è una navetta o una salita a piedi.",
+        "come": "Da Palermo in auto, per l'autostrada Palermo-Trapani. Il tempio è vicino all'ingresso; per il teatro c'è una navetta o una salita a piedi.",
         "quando": "Mattina o fine pomeriggio. D'estate non c'è ombra: evitare il mezzogiorno.",
         "tempo": "2 ore",
-        "costo": "Archeopass Segesta-Selinunte-Gibellina: circa 25,40 euro intero, valido una settimana (2026, da verificare)",
+        "costo": "biglietti e pass cumulativi sul sito del Parco archeologico: le tariffe cambiano",
         "consiglio": "Salire al teatro: in cima si capisce perché i Greci lo costruirono qui."
       },
       {
         "nome": "Selinunte",
         "testo": "Il parco archeologico più esteso d'Europa: templi dorici sul mare, l'acropoli, la città con le sue strade. Il Tempio E è stato ricostruito in piedi, gli altri sono giganteschi cumuli di pietre cadute in un terremoto.",
-        "come": "In auto da Trapani (circa un'ora e quaranta) o da Palermo (circa due ore). Dentro il parco c'è una navetta; si può anche noleggiare una bici.",
+        "come": "In auto da Trapani o da Palermo. Dentro il parco c'è una navetta; si può anche noleggiare una bici.",
         "quando": "Prima mattina o tardo pomeriggio. A mezzogiorno d'estate è vastissimo e senza ombra.",
         "tempo": "3 ore",
-        "costo": "compreso nell'Archeopass Segesta-Selinunte-Gibellina (2026, da verificare)",
+        "costo": "biglietti e pass cumulativi sul sito del Parco archeologico: le tariffe cambiano",
         "consiglio": "Finire sulla spiaggia di Marinella, a due passi dai templi."
       },
       {
@@ -4381,7 +4377,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "San Vito Lo Capo",
         "testo": "Un paese di mare con una spiaggia lunga di sabbia chiara, sotto il Monte Monaco. È anche la città del couscous: ogni settembre c'è il Cous Cous Fest, festival internazionale.",
-        "come": "Da Trapani in auto, circa un'ora; da Palermo circa un'ora e mezza. Parcheggio a pagamento in paese, pieno in estate.",
+        "come": "Da Trapani o da Palermo in auto. Parcheggio a pagamento in paese, pieno in estate.",
         "quando": "Giugno e settembre, per il mare e il couscous. A luglio e agosto è pieno.",
         "tempo": "mezza giornata o una notte",
         "consiglio": "Assaggiare il couscous di pesce in un locale con ricetta di famiglia, e prenotare a settembre."
@@ -4470,7 +4466,7 @@ export const destinazioniItalia: Destinazione[] = [
       "Non lasciare nulla in vista in auto, specie nelle zone urbane e vicino ai siti archeologici.",
       "Borseggi nei mercati e nelle strade affollate: portare lo zaino davanti.",
       "Segesta e Selinunte non hanno ombra: acqua, cappello e visita presto d'estate.",
-      "Orari e prezzi dei siti cambiano; molti siti sono gratuiti la prima domenica del mese (da verificare): controllare i siti ufficiali."
+      "Orari e prezzi dei siti cambiano: controllare sempre i siti ufficiali prima di andare."
     ],
     esperienzeSlugs: ['monreale', 'street-food-palermo'],
     tripSlugs: ['sicilia-completa'],
@@ -4601,7 +4597,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Favignana: cale e Ex Stabilimento Florio",
         "testo": "Un'isola a forma di farfalla, piatta e scavata dalle cave di tufo. Cala Rossa e Cala Azzurra hanno acqua trasparente su roccia bianca. In paese l'ex stabilimento Florio, la tonnara ottocentesca, racconta la mattanza, oggi non più praticata.",
-        "come": "Aliscafo da Trapani in circa 20-30 minuti. Sull'isola si noleggia una bicicletta: le distanze sono sotto i sei chilometri.",
+        "come": "Aliscafo da Trapani. Sull'isola si noleggia una bicicletta: le distanze sono brevi.",
         "quando": "Giugno e settembre. Mattina per le cale, pomeriggio per il museo. Ad agosto è affollata.",
         "tempo": "2 giorni",
         "consiglio": "Portare scarpe di gomma: quasi nessuna cala è di sabbia, si entra dalla roccia."
@@ -4616,8 +4612,8 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Levanzo e Grotta del Genovese",
-        "testo": "La più piccola delle tre Egadi maggiori, con un solo paese di pescatori. La Grotta del Genovese conserva incisioni e pitture del Paleolitico e del Neolitico, risalenti a circa dodicimila anni fa.",
-        "come": "Aliscafo da Trapani o da Favignana, circa 20 minuti. La grotta si raggiunge a piedi o in barca e si visita con una guida.",
+        "testo": "La più piccola delle tre Egadi maggiori, con un solo paese di pescatori. La Grotta del Genovese conserva incisioni e pitture del Paleolitico superiore e del Neolitico.",
+        "come": "Aliscafo da Trapani o da Favignana. La grotta si raggiunge a piedi o in barca e si visita con una guida.",
         "quando": "Giugno e settembre. La visita è su prenotazione e a gruppi limitati: organizzarsi al mattino.",
         "tempo": "mezza giornata",
         "url": "https://www.ampisoleegadi.it/",
@@ -4651,7 +4647,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Lampedusa: Spiaggia dei Conigli",
         "testo": "Una spiaggia di sabbia chiara e acqua turchese dentro una riserva naturale, dove depone la tartaruga Caretta caretta. L'isola sta sulla placca africana. L'accesso è regolamentato per proteggere i nidi.",
-        "come": "Aereo da Palermo o Catania, oppure nave da Porto Empedocle (circa otto ore). Dal paese in scooter o in auto fino al parcheggio, poi a piedi.",
+        "come": "Aereo da Palermo o Catania, oppure nave da Porto Empedocle, con una traversata lunga. Dal paese in scooter o in auto fino al parcheggio, poi a piedi.",
         "quando": "Giugno e settembre. In alta stagione l'accesso può essere contingentato e a prenotazione.",
         "tempo": "mezza giornata",
         "url": "https://www.ampisolepelagie.it/",
@@ -4659,7 +4655,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Linosa",
-        "testo": "Un'isola vulcanica nera, a metà strada tra Lampedusa e la Sicilia, con circa duecento abitanti. Case dai colori vivaci, spiagge di lava e acque limpide per snorkeling.",
+        "testo": "Un'isola vulcanica nera, a metà strada tra Lampedusa e la Sicilia, con poche centinaia di abitanti. Case dai colori vivaci, spiagge di lava e acque limpide per snorkeling.",
         "come": "Nave dalla Sicilia o aliscafo da Lampedusa in stagione. Si gira a piedi in un giorno.",
         "quando": "Giugno e settembre; fuori stagione i collegamenti sono radi.",
         "tempo": "1 giorno o una notte",

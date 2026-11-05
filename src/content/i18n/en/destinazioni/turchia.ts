@@ -47,57 +47,57 @@ export const destinazioniTurchia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Hagia Sophia",
-        "testo": "The basilica built by Justinian in 537, for almost a thousand years the largest church in the world, then a mosque and a museum, now a mosque again. Foreign tourists visit the upper galleries with the Byzantine mosaics.",
+        "testo": "Justinian's basilica, inaugurated in 537, for centuries the largest church in the world, then a mosque from 1453, a museum from 1935 and a mosque again since 2020. Foreign tourists visit the upper galleries with the Byzantine mosaics.",
         "come": "Tram T1 to Sultanahmet. Separate entrance for tourists; covered clothing, women with the head covered.",
         "quando": "Early morning. Closed to tourists during prayers, especially Friday at midday.",
         "tempo": "1-1.5 hours",
         "consiglio": "Check the hours on the official site beforehand, as they change with the access rules.",
-        "costo": "€25 for foreign visitors, upper-gallery route (2026)"
+        "costo": "Paid ticket for foreign visitors: price on official channels"
       },
       {
         "nome": "Blue Mosque and the Hippodrome",
-        "testo": "The Sultanahmet mosque, from the early 1600s, with six minarets and an interior covered in blue Iznik tiles. In front, the square of the ancient hippodrome with the Egyptian obelisk.",
+        "testo": "The Sultanahmet Mosque, built between 1609 and 1617, with six minarets and more than twenty thousand Iznik tiles inside. In front, the square of the ancient hippodrome with the Egyptian obelisk.",
         "come": "On foot from Hagia Sophia. Shoes off, shoulders and legs covered; women with the head covered.",
-        "quando": "Outside the five prayers, which close entry to tourists.",
+        "quando": "Outside prayer times, when entry is reserved for worshippers.",
         "tempo": "45 minutes",
         "costo": "Free entry"
       },
       {
         "nome": "Topkapı Palace and Harem",
-        "testo": "The residence of the Ottoman sultans for almost four centuries: courtyards, pavilions, treasury and Harem, with a fine view of the Bosphorus.",
+        "testo": "The main residence of the Ottoman sultans for about four centuries, until the mid-19th century: courtyards, pavilions, treasury and Harem, on the promontory between the Bosphorus, the Sea of Marmara and the Golden Horn.",
         "come": "On foot from Hagia Sophia. The ticket for foreigners includes the Harem and Hagia Irene; it can also be bought online.",
-        "quando": "Closed on Tuesdays. Arrive at the 9am opening: in autumn and winter the ticket office closes early.",
+        "quando": "Closed on Tuesdays. Open 9am-5:30pm, ticket office until 5pm (2026). Arrive at opening.",
         "tempo": "2-3 hours",
-        "url": "https://muze.gov.tr/",
+        "url": "https://www.millisaraylar.gov.tr/en/palaces/topkapi-palace",
         "consiglio": "Go first to the Harem and the Treasury, which have queues, then the courtyards.",
-        "costo": "TRY 2,750 including the Harem and Hagia Irene (2026)"
+        "costo": "TL 2,750 for foreign visitors including the Harem and Hagia Irene, valid one day; Harem or Hagia Irene alone TL 1,050 (2026)"
       },
       {
         "nome": "Basilica Cistern",
-        "testo": "A huge underground Byzantine reservoir of the 6th century with 336 columns, softly lit. At the base of two columns are Medusa heads.",
-        "come": "On foot from Hagia Sophia. Ticket to book online in high season.",
+        "testo": "A huge underground Byzantine reservoir from the 6th century, Justinian's time, with 336 marble columns in 12 rows, softly lit. Two columns stand on reused blocks carved with Medusa's head.",
+        "come": "On foot from Hagia Sophia. In high season an online ticket is best.",
         "quando": "Early morning or evening, when the queue is shorter.",
         "tempo": "45 minutes",
         "consiglio": "Avoid the weekend and the middle of the day.",
-        "costo": "TRY 1,950 by day, TRY 3,000 in the evening slot (2026)"
+        "costo": "Different prices by day and in the evening slot: check them on the official website"
       },
       {
         "nome": "Grand Bazaar and Spice Bazaar",
-        "testo": "The covered market with over 4,000 shops of carpets, ceramics, jewelry; a bit further, the spice one with tea, Turkish delight and dried fruit.",
-        "come": "Tram T1 to Beyazıt-Kapalıçarşı, or on foot from Hagia Sophia in 15 minutes.",
-        "quando": "All day; the Grand Bazaar is closed on Sunday.",
+        "testo": "The covered market with thousands of shops selling carpets, ceramics and jewellery; a little further on, the spice market with tea, Turkish sweets and dried fruit.",
+        "come": "Tram T1 to Beyazıt-Kapalıçarşı, or on foot from Hagia Sophia.",
+        "quando": "Grand Bazaar 9am-7pm, closed on Sundays and public holidays.",
         "tempo": "2 hours",
         "consiglio": "The Spice Bazaar is less touristy: take it slowly and taste before buying."
       },
       {
         "nome": "Galata Tower",
-        "testo": "The Genoese stone tower of 1348 above Karaköy, about 67 metres high. From the balcony at the top you see the Golden Horn, the Bosphorus and the historic peninsula with its domes and minarets. Inside there is a small museum.",
-        "come": "Tram T1 to Karaköy, then a walk up the lanes; or the historic Tünel funicular. You go up by lift and then by stairs.",
-        "quando": "At opening or in the last hour before closing: in the middle of the day the queue can last an hour.",
-        "tempo": "1 hour with the queue",
-        "costo": "€30 for foreign visitors (2026)",
+        "testo": "The Genoese stone tower completed in 1348 above Karaköy, about 63 metres high. From the terrace at the top you see the Golden Horn, the Bosphorus and the historic peninsula with its domes and minarets. Since 2020 it has been a museum.",
+        "come": "Tram T1 to Karaköy, then walk up the lanes; or take the historic Tünel funicular. Two lifts go up to the sixth floor, then you continue on foot.",
+        "quando": "Open daily 8:30am-6:30pm, ticket office until about 6:15pm (2026). Best at opening or in the last hour: at midday there is a queue.",
+        "tempo": "1 hour",
+        "costo": "Price for foreign visitors on the official website",
         "url": "https://muze.gov.tr/",
-        "consiglio": "The balcony is narrow and one-way: the best view of the historic peninsula is on the south side."
+        "consiglio": "The best view of the historic peninsula is on the south side of the terrace."
       }
     ],
     programmi: [
@@ -155,10 +155,11 @@ export const destinazioniTurchia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "The inflated-bill scam: someone who invites you for a drink in an unknown bar leads to a huge bill, frequent in Taksim and Sultanahmet.",
-      "The shoeshiner who drops his brush then asks for a paid shine: do not pick it up.",
+      "Strangers inviting you for a drink or dinner somewhere: the UK government warns of both inflated bills and spiked drinks. Choose where to go yourself and keep your glass in sight.",
+      "Pickpocketing is common in tourist areas: keep your bag and phone under control, especially on the tram and in the bazaars.",
       "Restaurants in Sultanahmet without posted prices: ask for the menu with prices before sitting.",
-      "Taxis: use the meter or BiTaksi and Uber; avoid the taxis parked in front of monuments."
+      "Taxis: only registered ones with the meter on, or apps; note the plate number. Avoid lifts offered by unofficial drivers.",
+      "Regional tensions: the UK government (October 2026) warns of possible flight cancellations and airspace closures across the Middle East and advises against all travel within 10 km of the Syrian border. Check your government's travel advice before leaving."
     ],
     // GUIDA-END
     esperienzeSlugs: [],
@@ -209,19 +210,19 @@ export const destinazioniTurchia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Göreme Open-Air Museum",
-        "testo": "A group of Byzantine rock churches with frescoes from the 11th century, carved into rock cones. The Dark Church (Karanlık) has the best-preserved colors.",
-        "come": "From Göreme on foot or by shuttle, about a kilometer from the center.",
-        "quando": "At opening, before the organized groups.",
+        "testo": "A group of rock-cut churches and monasteries carved into the cones, with frescoes mostly from the 10th and 11th centuries, open to visitors since 1967. The Dark Church (Karanlık) is one of the finest.",
+        "come": "From Göreme on foot or by shuttle.",
+        "quando": "Open daily 8am-5pm, ticket office until 4:15pm (November 2026). At opening, before the groups.",
         "tempo": "1.5-2 hours",
         "url": "https://muze.gov.tr/",
-        "consiglio": "The Dark Church has a separate ticket, but the colors are worth the cost.",
-        "costo": "€20 for foreign visitors; Dark Church extra (2026). For 2027 the ministry has announced €22."
+        "consiglio": "Ask at the ticket office whether the Dark Church needs a supplement: the colours are worth the stop.",
+        "costo": "Price for foreign visitors on the official website"
       },
       {
         "nome": "Hot-air balloon at dawn",
         "testo": "The flight over the valleys and fairy chimneys at sunrise is the reason many come here.",
         "come": "Book with a licensed operator, with hotel pickup before dawn.",
-        "quando": "At dawn, all year round when the weather allows. In strong wind flights are cancelled, more often in winter.",
+        "quando": "At dawn, when the weather allows: in strong wind flights are cancelled.",
         "tempo": "1 hour flying, 3-4 hours total",
         "consiglio": "Book for the first days and keep one in reserve: flights are canceled in wind."
       },
@@ -234,13 +235,13 @@ export const destinazioniTurchia: Destinazione[] = [
       },
       {
         "nome": "Derinkuyu and Kaymaklı",
-        "testo": "The multi-level underground cities, dug by the inhabitants to protect themselves from attacks. You go down narrow corridors to tens of meters.",
-        "come": "By car or on a tour from Göreme, about 40 minutes.",
+        "testo": "The multi-level underground cities, used for centuries as refuges during raids. Derinkuyu goes down to about 85 metres and could shelter thousands of people with their animals; rolling stone doors sealed the corridors.",
+        "come": "By car or on a tour from Göreme.",
         "quando": "Early morning to avoid the crowd in the corridors.",
         "tempo": "1-1.5 hours",
         "url": "https://muze.gov.tr/",
-        "consiglio": "If claustrophobic, skip Derinkuyu and choose Kaymaklı, a bit wider.",
-        "costo": "€13 each for foreign visitors (2026)"
+        "consiglio": "If you are claustrophobic, think carefully: the corridors are narrow and low.",
+        "costo": "Prices for foreign visitors on the official website"
       }
     ],
     programmi: [
@@ -287,7 +288,7 @@ export const destinazioniTurchia: Destinazione[] = [
       },
       {
         "nome": "Cappadocian wines",
-        "testo": "Reds of Öküzgözü and whites of Emir, in the cellars of Ürgüp and Uçhisar."
+        "testo": "Whites from the Emir grape and local reds, in the wineries of Ürgüp and Uçhisar."
       },
       {
         "nome": "Pide",
@@ -338,18 +339,18 @@ export const destinazioniTurchia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Travertine terraces",
-        "testo": "The white limestone pools along the slope, filled by hot springs. You climb barefoot, as shoes are not allowed on the travertine.",
+        "testo": "The white limestone pools down the slope, filled by hot springs. The authorities regulate the water and close some sections in turn so the travertine can regenerate. UNESCO World Heritage since 1988 together with Hierapolis.",
         "come": "Entrance from the south or north of the site; bus or car to the parking lot.",
-        "quando": "Sunset, with the light on the white. At midday in summer it dazzles.",
+        "quando": "Site open daily 8am-6pm, ticket office until 5pm (November 2026). Sunset, with the light on the white; at midday in summer it is blinding.",
         "tempo": "1-2 hours",
         "url": "https://muze.gov.tr/",
-        "consiglio": "Bring a towel and a swimsuit: many pools are closed on rotation.",
-        "costo": "€30 for Hierapolis and the travertines, single ticket (2026). €35 announced for 2027."
+        "consiglio": "Bring a towel and swimsuit, knowing that many pools may be dry.",
+        "costo": "Single ticket for Hierapolis and the travertines: price for foreigners on the official website"
       },
       {
         "nome": "Hierapolis and the Antique Pool",
-        "testo": "The ruins of the Roman city above the terraces: the theater, the necropolis, the martyrion of St Philip and the hot-water pool with ancient columns on the bottom.",
-        "come": "You walk in the site. The pool has a separate ticket.",
+        "testo": "The ruins of the city founded in the 2nd century BC above the terraces: the theatre, the necropolis with about 1,200 tombs, the octagonal Martyrium of St Philip and the ancient hot-water pool with columns on the bottom.",
+        "come": "You walk around the site. The pool is paid separately.",
         "quando": "Early morning or late afternoon.",
         "tempo": "2 hours",
         "url": "https://muze.gov.tr/",
@@ -399,8 +400,8 @@ export const destinazioniTurchia: Destinazione[] = [
     ],
     attenzioni: [
       "Climbing at midday in summer: the white glare is blinding and the heat burns.",
-      "Expecting all pools to be full: many are left dry in rotation to protect the travertine.",
-      "The terraces are climbed barefoot: bring socks for the hot stretches."
+      "Expecting every pool to be full: many sections are closed in turn to protect the travertine.",
+      "Follow the guards' instructions on where and how to walk on the travertine: usually barefoot, so bring a bag for your shoes."
     ],
     // GUIDA-END
     esperienzeSlugs: [],
@@ -442,17 +443,17 @@ export const destinazioniTurchia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Ephesus",
-        "testo": "The great Greco-Roman city with the Library of Celsus, the theater of about 25,000 seats, the Curetes Street and the Terrace Houses with mosaics and frescoes.",
-        "come": "3 km from Selçuk, by taxi or dolmuş; the upper entrance avoids the climb.",
-        "quando": "At opening, especially when cruise ships arrive from Kuşadası.",
+        "testo": "The great Greco-Roman city with the Library of Celsus (around AD 125), the theatre with about 25,000 seats, Curetes Street and the Terrace Houses, six Roman residences with mosaics and frescoes under a protective roof.",
+        "come": "From Selçuk by taxi or dolmuş; the upper entrance saves the climb.",
+        "quando": "Open daily 8am-6pm, ticket office until 5:30pm (November 2026). At opening, especially when cruise ships arrive from Kuşadası.",
         "tempo": "2-3 hours",
         "url": "https://muze.gov.tr/",
-        "consiglio": "The Terrace Houses have a separate ticket and are the best part of the site.",
-        "costo": "€40 including the Ephesus Experience Museum; Terrace Houses extra. Combined ticket with Terrace Houses, Ephesus Museum and St John €65 (2026)."
+        "consiglio": "The Terrace Houses are the finest part of the site: check at the ticket office whether they are included.",
+        "costo": "The ticket also includes the Ephesus Experience Museum; price for foreigners on the official website"
       },
       {
         "nome": "Basilica of St John and Selçuk Castle",
-        "testo": "The 6th-century basilica above the traditional tomb of the apostle, with the castle on the hill.",
+        "testo": "The basilica Justinian had built in the 6th century over the traditional tomb of the apostle, with the castle on the hill.",
         "come": "On foot from Selçuk.",
         "quando": "Morning.",
         "tempo": "1 hour",
@@ -460,7 +461,7 @@ export const destinazioniTurchia: Destinazione[] = [
       },
       {
         "nome": "House of the Virgin Mary (Meryem Ana)",
-        "testo": "The shrine on the hills above Ephesus where, according to tradition, the Virgin lived.",
+        "testo": "The shrine in the hills about 7 km from Selçuk that Catholic tradition, since the 19th century, regards as the Virgin Mary's last home. Three popes have visited.",
         "come": "By taxi or on a tour from Selçuk.",
         "quando": "Morning.",
         "tempo": "45 minutes"
@@ -468,7 +469,7 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "nome": "Şirince",
         "testo": "A small village of stone houses on a hill, with fruit wines and shops.",
-        "come": "Dolmuş or taxi from Selçuk, 8 km.",
+        "come": "Dolmuş or taxi from Selçuk.",
         "quando": "Afternoon.",
         "tempo": "1-2 hours",
         "consiglio": "Taste the fruit wines before buying."
@@ -568,34 +569,34 @@ export const destinazioniTurchia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Ölüdeniz and Butterfly Valley",
-        "testo": "The turquoise lagoon, one of the most photographed beaches in Turkey. A bit further, Butterfly Valley, reached by boat.",
-        "come": "Dolmuş from Fethiye, about 20 minutes.",
+        "testo": "The turquoise lagoon, a protected nature reserve with a Blue Flag beach, one of the most photographed in Turkey. A little further on is Butterfly Valley.",
+        "come": "Dolmuş from Fethiye, about 14 km.",
         "quando": "Morning, before the bathers arrive.",
         "tempo": "Half a day",
         "consiglio": "Paragliding from Babadağ is the most famous thing to do here."
       },
       {
         "nome": "Kayaköy",
-        "testo": "A Greek village abandoned in the 1920s, with hundreds of ruined stone houses on the slope.",
+        "testo": "A Greek village emptied by the 1923 population exchange, with about 500 ruined stone houses on the slope.",
         "come": "Dolmuş from Fethiye, 8 km.",
         "quando": "Morning or afternoon, in low light.",
         "tempo": "1-1.5 hours"
       },
       {
         "nome": "Saklıkent",
-        "testo": "A deep gorge where you walk in icy water between rock walls.",
-        "come": "By car from Fethiye, about an hour.",
+        "testo": "A gorge about 300 metres deep where you walk in cold snowmelt water between rock walls; the walkable stretch opens from April.",
+        "come": "By car from Fethiye, about 50 km.",
         "quando": "Summer, when it is hot.",
         "tempo": "2-3 hours",
         "consiglio": "Rent water shoes on site."
       },
       {
         "nome": "Kekova and Simena",
-        "testo": "A stretch of sea with sunken Lycian ruins and the village of Kaleköy under a castle.",
+        "testo": "A protected stretch of sea with the sunken ruins of Dolichiste, destroyed by an earthquake in the 2nd century, and the village of Kaleköy, ancient Simena, reachable only by sea, below a castle.",
         "come": "Boat or kayak trip from Üçağız or Kaş.",
         "quando": "Morning, with the clearest water.",
         "tempo": "Half a day",
-        "consiglio": "Best by kayak at dawn to see the ruins underwater without boats."
+        "consiglio": "Swimming and diving over the sunken city are forbidden: you look from the boat or kayak."
       }
     ],
     programmi: [
@@ -647,7 +648,7 @@ export const destinazioniTurchia: Destinazione[] = [
       "Touring the coast without a car: dolmuş exist, but the best coves stay out of reach.",
       "August without booking: Kaş and Ölüdeniz fill up.",
       "Boat trips sold on the street vary a lot: look at what the price includes.",
-      "Paragliding: choose a licensed operator."
+      "Paragliding: choose a licensed operator and check that your travel insurance covers it."
     ],
     // GUIDA-END
     esperienzeSlugs: [],
@@ -678,38 +679,37 @@ export const destinazioniTurchia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Kaleiçi",
-        "testo": "The old center inside the walls, with Ottoman houses, Hadrian's Gate and the old harbor. In the evening it is full of restaurants.",
-        "come": "On foot from the clock tower square.",
+        "testo": "The walled old town, with thousands of traditional red-roofed houses, Hadrian's Gate, built for the emperor's visit in 130, and the ancient harbour, now a marina. In the evening it is full of restaurants.",
+        "come": "On foot from the modern centre.",
         "quando": "Afternoon and evening.",
         "tempo": "2 hours"
       },
       {
         "nome": "Antalya Archaeological Museum",
-        "testo": "One of the best in Turkey, with Roman statues from Perge and Lycian sarcophagi.",
-        "come": "Tram to the Müze stop.",
-        "quando": "Morning.",
-        "tempo": "1.5-2 hours",
+        "testo": "It was one of Turkey's most important museums, with the Roman statues from Perge. It closed in July 2025 and is being rebuilt: as of November 2026 it cannot be visited.",
+        "come": "Closed for rebuilding.",
+        "quando": "Check the official website for the reopening date.",
+        "tempo": "—",
         "url": "https://muze.gov.tr/"
       },
       {
         "nome": "Aspendos and Perge",
-        "testo": "The 2nd-century theatre of Aspendos is among the best preserved of antiquity: the seating and stage building are almost intact and it still hosts shows in summer. Perge, on the way, has the stadium, the baths and a long colonnaded street with a water channel down the middle.",
-        "come": "By car with a driver or on a tour, about 45 minutes.",
-        "quando": "Early morning.",
-        "tempo": "Half a day each",
+        "testo": "The theatre of Aspendos, built in 155, is considered the best preserved of antiquity and still hosts a summer opera and ballet festival. Perge, about 15 km from Antalya, has the stadium, the large South Baths and the main street with a water channel down the middle.",
+        "come": "By car with a driver or on a tour: Aspendos is about 40 km from Antalya, Perge on the way.",
+        "quando": "Open daily 8am-5pm, ticket office until 4:30pm (November 2026). Early morning.",
+        "tempo": "Half a day for both",
         "url": "https://muze.gov.tr/",
         "consiglio": "Aspendos is the stop not to skip.",
-        "costo": "Aspendos €15, Perge €11 for foreign visitors (2026)"
+        "costo": "Prices for foreign visitors on the official website"
       }
     ],
     programmi: [
       {
         "titolo": "1 day",
         "tappe": [
-          "Morning: archaeological museum",
-          "Walk through Kaleiçi",
+          "Morning: Perge and Aspendos",
           "Afternoon: swim at Konyaaltı",
-          "Evening: old harbor"
+          "Evening: Kaleiçi and the old harbour"
         ]
       }
     ],

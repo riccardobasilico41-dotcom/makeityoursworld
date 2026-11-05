@@ -64,7 +64,7 @@ export const destinazioniSvezia: Destinazione[] = [
     luoghi: [
       {
         nome: "Gamla Stan e Palazzo Reale",
-        testo: "Il centro storico medievale su un'isola, con vicoli stretti, case colorate e la piazza di Stortorget. Il Palazzo Reale è uno dei più grandi d'Europa ancora in uso, con il cambio della guardia nel cortile esterno.",
+        testo: "Il centro storico medievale su un'isola, con vicoli stretti, case colorate e la piazza di Stortorget. Il Palazzo Reale, residenza ufficiale del re con oltre 1.400 stanze, ospita il cambio della guardia nel cortile esterno.",
         come: "A piedi dalla stazione centrale (10 minuti) o con la metro fino a Gamla stan.",
         quando: "Mattina presto, prima dei gruppi; il cambio della guardia è a mezzogiorno nei giorni indicati dal sito reale.",
         tempo: "2-3 ore",
@@ -73,9 +73,9 @@ export const destinazioniSvezia: Destinazione[] = [
       },
       {
         nome: "Museo Vasa",
-        testo: "Una nave da guerra del 1628 affondata dopo 1.300 metri nel porto durante il viaggio inaugurale e recuperata quasi intatta nel 1961. È una delle navi antiche meglio conservate del mondo, esposta in una grande sala con passerelle su più livelli, dalla chiglia fino all'altezza del ponte.",
-        come: "Tram 7 o bus 67 fino a Djurgården, oppure traghetto dal centro. Visita libera, con tour guidati in inglese.",
-        quando: "Mattina nei giorni feriali; è il museo più visitato della Scandinavia.",
+        testo: "Una nave da guerra del 1628 affondata dopo 1.300 metri nel porto durante il viaggio inaugurale e recuperata quasi intatta nel 1961. È la nave del Seicento meglio conservata al mondo, esposta in una grande sala con passerelle su più livelli, dalla chiglia fino all'altezza del ponte.",
+        come: "Tram 7 fino a Djurgården, oppure traghetto dal centro. Visita libera, con tour guidati in inglese.",
+        quando: "Mattina nei giorni feriali, quando c'è meno gente.",
         tempo: "2 ore",
         costo: "195 SEK adulti in bassa stagione (2026), di più in estate",
         url: "https://www.vasamuseet.se",
@@ -83,26 +83,26 @@ export const destinazioniSvezia: Destinazione[] = [
       },
       {
         nome: "Stadshuset",
-        testo: "Il Municipio in mattoni rossi del 1923 sull'acqua, sede del banchetto dei Premi Nobel nella Sala Blu e della Sala Dorata con 18 milioni di tessere dorate. La torre ha un belvedere stagionale.",
+        testo: "Il Municipio in mattoni rossi del 1923 sull'acqua, sede del banchetto dei Premi Nobel nella Sala Blu e della Sala Dorata con oltre 18 milioni di tessere di mosaico. La torre, alta 106 metri, si sale in ascensore o con 365 gradini.",
         come: "A piedi dalla stazione (10 minuti); la visita è solo guidata.",
-        quando: "Mattina, con tour in inglese; la torre è aperta in estate.",
+        quando: "Mattina; orari dei tour e della torre sul sito ufficiale, dove si comprano i biglietti.",
         tempo: "1 ora",
         url: "https://stadshuset.stockholm",
         consiglio: "Controllare orari e disponibilità dei tour sul sito prima di andare."
       },
       {
         nome: "Skansen e Djurgården",
-        testo: "Il più antico museo all'aperto del mondo (1891), con case storiche da tutta la Svezia, animali nordici e artigiani in costume. Sull'isola ci sono anche ABBA The Museum e il parco Gröna Lund.",
+        testo: "Il più antico museo all'aperto della Svezia, aperto nel 1891, con case storiche da tutta la Svezia, animali nordici e artigiani in costume. Sull'isola ci sono anche ABBA The Museum e il parco Gröna Lund.",
         come: "Tram 7 dal centro. Il biglietto copre il parco, non le attrazioni a parte.",
         quando: "Primavera ed estate; in inverno ci sono mercatini di Natale.",
         tempo: "3-4 ore",
         url: "https://www.skansen.se",
-        consiglio: "Salire in funicolare sul colle per la vista sulla città."
+        consiglio: "Salire con la funicolare del 1897 sul colle per la vista sulla città; a dicembre c'è il mercatino di Natale."
       },
       {
         nome: "Palazzo di Drottningholm",
-        testo: "La residenza della famiglia reale, patrimonio UNESCO, con giardini barocchi e un teatro del Settecento ancora funzionante. È la visita migliore fuori dal centro.",
-        come: "In metro fino a Brommaplan e poi bus, o in battello da Stadshuset (estate), circa 1 ora.",
+        testo: "Dal 1981 il re e la regina vivono nell'ala sud; il resto è aperto al pubblico. Patrimonio UNESCO dal 1991, ha giardini barocchi e un teatro del Settecento ancora in uso, con un festival d'opera d'estate. È la visita migliore fuori dal centro.",
+        come: "Sull'isola di Lovön: in metro fino a Brommaplan e poi bus, o d'estate in battello dal centro.",
         quando: "Primavera-estate, con il battello.",
         tempo: "mezza giornata",
         url: "https://www.kungligaslotten.se",
@@ -110,12 +110,12 @@ export const destinazioniSvezia: Destinazione[] = [
       },
       {
         nome: "Arcipelago di Stoccolma",
-        testo: "Oltre 30.000 isole e isolotti che si aprono a est della città verso il Baltico. Il battello di linea porta a Vaxholm, Grinda o Sandhamn, con sentieri, spiagge di roccia e piccoli caffè.",
+        testo: "Decine di migliaia di isole e isolotti che si aprono a est della città verso il Baltico. Il battello di linea porta a Vaxholm, Grinda o Sandhamn, con sentieri, spiagge di roccia e piccoli caffè.",
         come: "Traghetti Waxholmsbolaget da Strömkajen; biglietto e orari sul sito del trasporto pubblico.",
         quando: "Maggio-settembre, con le giornate lunghe.",
         tempo: "giornata intera",
         url: "https://www.waxholmsbolaget.se",
-        consiglio: "Per chi ha poco tempo, Fjäderholmarna è a soli 25 minuti dal centro."
+        consiglio: "Per chi ha poco tempo, le isole Fjäderholmarna sono le più vicine al centro."
       }
     ],
     programmi: [
@@ -245,8 +245,8 @@ export const destinazioniSvezia: Destinazione[] = [
       },
       {
         nome: "ICEHOTEL a Jukkasjärvi",
-        testo: "L'hotel di ghiaccio rifatto ogni inverno con sculture e suite a tema. Si visita anche senza dormirci, con un tour di un'ora, e c'è un ghiaccio-bar.",
-        come: "Circa 20 minuti d'auto o bus da Kiruna.",
+        testo: "L'hotel di ghiaccio rifatto ogni inverno con sculture e suite a tema. Si visita anche senza dormirci e c'è l'ICEBAR; le stanze di ghiaccio ci sono da dicembre ad aprile, mentre l'Art Suite 365 resta aperta tutto l'anno.",
+        come: "A Jukkasjärvi, poco fuori Kiruna, in auto o bus.",
         quando: "Da dicembre ad aprile.",
         tempo: "1-2 ore",
         url: "https://www.icehotel.com",
@@ -333,7 +333,7 @@ export const destinazioniSvezia: Destinazione[] = [
         nome: "Lago ghiacciato Torneträsk e motoslitta",
         testo: "Il grande lago di Abisko ghiaccia in inverno e si percorre in motoslitta con una guida, anche di sera sotto l'aurora.",
         come: "Escursione con operatore locale, partenza da Abisko.",
-        quando: "Inverno, da gennaio a marzo.",
+        quando: "Inverno, quando il lago è ghiacciato: date con l'operatore.",
         tempo: "2-3 ore",
         consiglio: "Servono patente di guida e abiti caldi; ci si ferma spesso a guardare il cielo."
       },
@@ -348,7 +348,7 @@ export const destinazioniSvezia: Destinazione[] = [
       {
         nome: "Parco nazionale di Abisko e Lapporten",
         testo: "Il parco ai piedi della montagna, punto di partenza del Kungsleden, con il canyon di Abiskojåkka e la valle a U di Lapporten, la «porta della Lapponia». La stazione turistica STF è la base.",
-        come: "Treno da Kiruna (poco più di un'ora) fino alla stazione di Abisko Turiststation.",
+        come: "Treno da Kiruna fino alla stazione di Abisko Turiststation.",
         quando: "Estate per il trekking, inverno per l'aurora.",
         tempo: "giornata intera",
         costo: "ingresso al parco libero",
@@ -368,7 +368,7 @@ export const destinazioniSvezia: Destinazione[] = [
     attenzioni: [
       "Aurora Sky Station e seggiovia possono chiudere con vento forte o tempesta.",
       "Chi guida una motoslitta risponde dei danni: controllare franchigia e assicurazione.",
-      "Nessun negozio vero ad Abisko: portare spesa e contanti per l'essenziale."
+      "Ad Abisko i servizi sono pochi: portare con sé l'essenziale."
     ],
     esperienzeSlugs: ['aurora-sky-station', 'motoslitta-lago-ghiacciato', 'husky-sledding-caccia-aurora'],
     tripSlugs: ['lapponia-svedese-abisko'],

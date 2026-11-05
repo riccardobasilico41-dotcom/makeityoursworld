@@ -150,54 +150,54 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       {
         "nome": "Dubai Creek, abra e souq di Deira",
         "testo": "Il vecchio porto commerciale, ancora attivo, con barche di legno cariche di merci per l'Iran e l'India. L'abra, il traghetto di legno, attraversa il creek per un dirham e sbarca nel souq delle spezie e in quello dell'oro.",
-        "come": "Metro fino ad Al Ras o Al Ghubaiba, poi a piedi alle fermate degli abra.",
+        "come": "Metro, linea verde, fino ad Al Ras o Al Ghubaiba, poi a piedi agli imbarchi degli abra.",
         "quando": "Mattina o tardo pomeriggio, meno caldo.",
         "tempo": "2-3 ore",
-        "costo": "Abra 1 dirham",
+        "costo": "Abra 1 dirham, si paga al barcaiolo",
         "consiglio": "Sedersi sull'abra in mezzo a chi va al lavoro: è il pezzo di Dubai che nessuno cerca."
       },
       {
         "nome": "Al Fahidi",
-        "testo": "Il quartiere storico con le torri del vento, le case di corallo e gesso e i vicoli stretti, dove si capisce com'era il posto quando l'economia erano le perle. Ci sono musei e caffè.",
-        "come": "Metro fino a Al Fahidi, a 20 minuti dal centro nuovo.",
+        "testo": "Il quartiere storico costruito dalla fine dell'Ottocento da mercanti arrivati dalla Persia, con le torri del vento e i vicoli stretti, restaurato dal 2005. Si capisce com'era Dubai prima del petrolio. Ci sono piccoli musei, come quello del caffè, e caffè nei cortili.",
+        "come": "Metro, linea verde, fino a Sharaf DG o Al Ghubaiba, poi a piedi.",
         "quando": "Mattina, prima del caldo.",
         "tempo": "1-2 ore",
         "consiglio": "Si abbina bene al giro del creek nella stessa mattina."
       },
       {
         "nome": "Burj Khalifa",
-        "testo": "Il grattacielo più alto del mondo, 828 metri. Le terrazze ai piani 124-125 e 148 danno la vista sulla città e sul deserto.",
-        "come": "Metro fino a Burj Khalifa/Dubai Mall. Biglietto da comprare online.",
-        "quando": "Tramonto, con le fasce da prenotare con giorni di anticipo.",
+        "testo": "Il grattacielo più alto del mondo, 828 metri. Le terrazze At the Top ai piani 124-125 e At the Top Sky al 148 danno la vista sulla città e sul deserto.",
+        "come": "Metro, linea rossa, fino a Burj Khalifa/Dubai Mall. Biglietto con fascia oraria, meglio online.",
+        "quando": "Tramonto, la fascia più richiesta: prenotarla con anticipo.",
         "tempo": "1-1,5 ore",
         "url": "https://www.burjkhalifa.ae/",
-        "consiglio": "Comprare online: sul posto costa di più e le fasce al tramonto finiscono."
+        "consiglio": "Prenotare online prima di partire: le fasce al tramonto finiscono per prime."
       },
       {
         "nome": "Safari nel deserto",
         "testo": "Una serata in 4x4 sulle dune, con tramonto, cena in campo tendato e notte sotto le stelle. È l'esperienza «deserto» più venduta intorno a Dubai.",
-        "come": "Operatori con prelievo in hotel. Dune modeste a mezz'ora dalla città.",
-        "quando": "Pomeriggio e sera, da ottobre ad aprile.",
+        "come": "Operatori con prelievo in hotel. Le dune dei safari serali sono a breve distanza dalla città.",
+        "quando": "Pomeriggio e sera, nei mesi freschi.",
         "tempo": "5-6 ore",
         "consiglio": "Per il deserto vero servono Liwa e il Rub' al-Khali."
       },
       {
         "nome": "Museo del Futuro",
-        "testo": "L'edificio a forma di anello ovale ricoperto di calligrafia araba in acciaio, sulla Sheikh Zayed Road. Dentro, cinque piani di installazioni immersive sullo spazio, la natura e il corpo umano nel 2071. Vale soprattutto per l'architettura, fotografata da fuori anche senza entrare.",
-        "come": "Metro fino a Emirates Towers, poi passerella coperta. Biglietto a fascia oraria da comprare online.",
-        "quando": "Orari e biglietti sul sito ufficiale. La sera la scritta illuminata rende di più nelle foto.",
+        "testo": "L'edificio ad anello sulla Sheikh Zayed Road, rivestito di 1.024 pannelli d'acciaio che formano una calligrafia araba. Dentro, cinque piani di mostre presentate come un viaggio nel 2071: una stazione spaziale, un piano sulla natura, uno sul benessere. Vale soprattutto per l'architettura, che si fotografa da fuori anche senza entrare.",
+        "come": "Metro, linea rossa, fino a Emirates Towers.",
+        "quando": "A novembre 2026 il museo è chiuso temporaneamente per un nuovo allestimento: controllare il sito ufficiale prima di andare. La sera la scritta illuminata rende di più nelle foto.",
         "tempo": "1,5-2 ore",
         "url": "https://museumofthefuture.ae/",
-        "consiglio": "Prenotare con qualche giorno di anticipo: le fasce del weekend finiscono presto."
+        "consiglio": "Se è ancora chiuso, vale comunque la sosta fuori per l'edificio."
       },
       {
         "nome": "Dubai Frame",
-        "testo": "Una cornice alta circa 150 metri nel parco di Zabeel, con un ponte di vetro in cima: da un lato si guarda la Dubai vecchia di Deira e Karama, dall'altro i grattacieli di Downtown. Una galleria al piano terra racconta la città prima del petrolio.",
-        "come": "Metro fino a Max o ADCB, poi taxi breve; oppure taxi diretto all'ingresso del parco di Zabeel.",
+        "testo": "Una cornice alta circa 150 metri nel parco di Zabeel, con in cima un ponte dal pavimento in parte di vetro: a nord si guarda la Dubai vecchia di Deira e Karama, a sud i grattacieli della Sheikh Zayed Road. Una sezione racconta la storia della città.",
+        "come": "Taxi fino all'ingresso del parco di Zabeel.",
         "quando": "Tardo pomeriggio, per vedere la città con la luce del giorno e poi accesa. Orari sul sito ufficiale.",
         "tempo": "1 ora",
         "url": "https://www.dubaiframe.ae/",
-        "consiglio": "Costa meno del Burj Khalifa e la vista su Deira, che dal Burj non si vede bene, è il motivo per salire."
+        "consiglio": "La vista su Deira, che dal Burj non si vede bene, è il motivo per salire."
       }
     ],
     programmi: [
@@ -238,7 +238,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     sapori: [
       {
         "nome": "Biryani e curry pakistani",
-        "testo": "A Karama, Bur Dubai e Deira si cena con meno di dieci euro in locali pieni di residenti."
+        "testo": "A Karama, Bur Dubai e Deira si cena spendendo poco in locali pieni di residenti."
       },
       {
         "nome": "Machboos",
@@ -254,10 +254,11 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Comprare il biglietto del Burj Khalifa sul posto: costa di più e le fasce al tramonto finiscono con giorni di anticipo.",
-      "Fermarsi ai centri commerciali e alla Marina: la parte più interessante sono creek, souq e Al Fahidi, a venti minuti di metro.",
-      "Stopover in estate: da giugno a settembre si superano i 45 gradi e si vive al chiuso.",
-      "Regole su abbigliamento, alcol e comportamento in pubblico: controllare i canali ufficiali."
+      "Lasciare il Burj Khalifa all'ultimo: le fasce al tramonto finiscono con giorni di anticipo.",
+      "Fermarsi ai centri commerciali e alla Marina: la parte più interessante sono creek, souq e Al Fahidi, raggiungibili in metro.",
+      "Stopover in estate: da giugno a settembre fa caldissimo e si vive al chiuso.",
+      "Regole su abbigliamento, alcol e comportamento in pubblico: controllare i canali ufficiali.",
+      "Tensioni nella regione: i governi europei segnalano possibili cancellazioni di voli e chiusure dello spazio aereo con poco preavviso (gov.uk, ottobre 2026). Controllare viaggiaresicuri.it prima di partire."
     ],
     // GUIDA-END
     esperienzeSlugs: ['creek-souq-dubai', 'deserto-emirati'],
@@ -314,45 +315,45 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     luoghi: [
       {
         "nome": "Grande Moschea Sheikh Zayed",
-        "testo": "Ottantadue cupole, colonne bianche intarsiate di madreperla, il tappeto annodato a mano più grande del mondo e lampadari Swarovski. È aperta ai non musulmani.",
-        "come": "Taxi o Uber. Ingresso gratuito con prenotazione della visita sul sito ufficiale e regole di abbigliamento: braccia e gambe coperte, capo coperto per le donne.",
+        "testo": "Ottantadue cupole, colonne di marmo intarsiate di madreperla, un tappeto annodato a mano di oltre 5.600 metri quadrati e lampadari con milioni di cristalli Swarovski. È aperta ai visitatori non musulmani.",
+        "come": "Taxi o Uber. Visita gratuita con prenotazione obbligatoria del pass online sul sito ufficiale; regole di abbigliamento sul sito.",
         "quando": "Sabato-giovedì 9-20.30; venerdì 9-11.30 e 14.30-20.30 (2026). Meglio il tardo pomeriggio, quando il marmo passa dal bianco al rosa e poi al blu; a mezzogiorno il bianco abbaglia.",
         "tempo": "1-1,5 ore",
         "costo": "Ingresso gratuito",
-        "url": "https://www.szgmc.gov.ae/",
+        "url": "https://www.szgmc.gov.ae/en/home",
         "consiglio": "Gli orari per i non musulmani variano, soprattutto il venerdì: controllare sul sito."
       },
       {
         "nome": "Louvre Abu Dhabi",
-        "testo": "Il museo di Jean Nouvel sull'isola di Saadiyat, sotto una cupola forata da 7.850 stelle metalliche sovrapposte che fa piovere luce. L'edificio vale quanto la collezione.",
+        "testo": "Il museo di Jean Nouvel sull'isola di Saadiyat, aperto nel 2017, sotto una cupola fatta di 7.850 stelle di alluminio sovrapposte che fa piovere luce. L'edificio vale quanto la collezione.",
         "come": "Taxi o Uber da Abu Dhabi.",
-        "quando": "Sera, quando la luce sotto la cupola cambia.",
+        "quando": "Tardo pomeriggio, quando la luce sotto la cupola cambia. Orari e giorni di chiusura sul sito ufficiale.",
         "tempo": "2-3 ore",
         "url": "https://www.louvreabudhabi.ae/",
         "consiglio": "Sedersi sotto la cupola e restarci un po'."
       },
       {
         "nome": "Qasr Al Watan",
-        "testo": "Il palazzo presidenziale aperto al pubblico, con sale decorate, la sala del Consiglio e una mostra sul potere negli Emirati.",
+        "testo": "Il palazzo presidenziale, aperto al pubblico dal 2019. Si visitano la Grande Sala, sotto una cupola di circa 37 metri, la sala dove si riunisce il governo e la House of Knowledge con i doni ricevuti dai capi di Stato.",
         "come": "Taxi o Uber.",
-        "quando": "Mattina.",
+        "quando": "Mattina. Orari e biglietti sul sito ufficiale.",
         "tempo": "1,5-2 ore",
         "url": "https://www.qasralwatan.ae/"
       },
       {
         "nome": "Mercato del pesce di Al Mina",
-        "testo": "Il mercato del porto: si sceglie il pesce al banco e lo si porta ai ristoranti accanto, che lo cucinano per pochi dirham.",
+        "testo": "Il mercato del porto: si sceglie il pesce al banco e lo si porta ai ristoranti accanto, che lo cucinano a pagamento.",
         "come": "Taxi dal centro.",
         "quando": "Mattina presto o tardo pomeriggio.",
         "tempo": "1 ora"
       },
       {
         "nome": "Corniche e Heritage Village",
-        "testo": "Otto chilometri di lungomare con spiagge pubbliche, piste ciclabili e la vista sui grattacieli. In fondo, sul frangiflutti, l'Heritage Village ricostruisce un villaggio prima del petrolio: tende di pelo di capra, una moschea di fango, botteghe di artigiani e una vista sulla città che vale la passeggiata.",
-        "come": "Taxi fino alla Corniche, poi a piedi o in bici a noleggio. L'Heritage Village è sul frangiflutti di fronte al Marina Mall.",
+        "testo": "Otto chilometri di lungomare con spiaggia pubblica, percorsi separati per bici e pedoni e la vista sui grattacieli. Sul frangiflutti, l'Heritage Village ricostruisce un villaggio di prima del petrolio, con botteghe di artigiani e una vista sulla città.",
+        "come": "Taxi fino alla Corniche, poi a piedi o in bici. L'Heritage Village è sul frangiflutti, verso il Marina Mall.",
         "quando": "Dal tardo pomeriggio al tramonto, quando si accende lo skyline.",
         "tempo": "2 ore",
-        "costo": "Corniche e Heritage Village a ingresso libero"
+        "costo": "Corniche a ingresso libero; Heritage Village: condizioni sul posto"
       }
     ],
     programmi: [
@@ -395,10 +396,11 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Alla Grande Moschea vestiti in modo sbagliato: braccia e gambe coperte per tutti, capo coperto per le donne; le abaya in prestito hanno code lunghe.",
+      "Alla Grande Moschea vestiti in modo sbagliato: leggere le regole di abbigliamento sul sito ufficiale prima di andare.",
       "Visitare la moschea a mezzogiorno: il marmo abbaglia e si cuoce.",
       "Prenotare il Louvre in anticipo nei fine settimana.",
-      "Autunno: il Gran Premio di Formula 1 riempie la città."
+      "Inizio dicembre: il Gran Premio di Formula 1 di Abu Dhabi (6 dicembre 2026) riempie la città e alza i prezzi degli hotel.",
+      "Tensioni nella regione: i governi europei segnalano possibili cancellazioni di voli e chiusure dello spazio aereo con poco preavviso (gov.uk, ottobre 2026). Controllare viaggiaresicuri.it prima di partire."
     ],
     // GUIDA-END
     esperienzeSlugs: ['moschea-sheikh-zayed', 'louvre-abu-dhabi'],
@@ -453,29 +455,29 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     luoghi: [
       {
         "nome": "Dune di Moreeb e Liwa",
-        "testo": "Il bordo del Rub' al-Khali, il più grande deserto di sabbia continuo del mondo, con dune che superano i duecento metri a Moreeb. Qui non ci sono safari serali: serve una notte nel deserto.",
-        "come": "In auto o con tour da Abu Dhabi, circa due ore; fuori pista serve un 4x4 con esperienza.",
+        "testo": "Il bordo del Rub' al-Khali, il deserto di sabbia del sud della penisola arabica, con dune che arrivano a 250 metri; a Moreeb, circa 25 km a sud dell'oasi di Liwa, c'è una delle più alte. Qui non ci sono safari serali: serve una notte nel deserto.",
+        "come": "In auto o con tour da Abu Dhabi, circa 250 km; fuori pista serve un 4x4 con esperienza.",
         "quando": "Alba e tramonto.",
         "tempo": "1-2 giorni",
         "consiglio": "Non guidare sulla sabbia senza esperienza e senza un secondo mezzo."
       },
       {
         "nome": "Oasi di Al Ain",
-        "testo": "Patrimonio UNESCO, con 147.000 palme irrigate da canali falaj scavati duemila anni fa e ancora in funzione. Si cammina all'ombra sentendo scorrere l'acqua.",
-        "come": "Al Ain è a circa 1,5 ore da Abu Dhabi. L'oasi si gira a piedi.",
+        "testo": "Parte del patrimonio UNESCO dei Siti culturali di Al Ain dal 2011: oltre 147.000 palme da dattero su più di 1.200 ettari, irrigate dai canali falaj, un sistema antico di millenni. Si cammina all'ombra sentendo scorrere l'acqua.",
+        "come": "Al Ain è a circa un'ora e mezza di auto da Abu Dhabi. L'oasi si gira a piedi.",
         "quando": "Mattina.",
         "tempo": "2 ore"
       },
       {
         "nome": "Forte Al Jahili e siti di Hili",
-        "testo": "Il forte di mattoni di fango e le tombe dell'età del bronzo di Hili, patrimonio UNESCO.",
+        "testo": "Il forte Al Jahili, costruito intorno al 1891 con le sue torri di guardia, e il parco archeologico di Hili, il più grande sito dell'età del bronzo degli Emirati, con tombe del III millennio a.C., parte del patrimonio UNESCO.",
         "come": "In auto da Al Ain.",
         "quando": "Mattina.",
         "tempo": "2 ore"
       },
       {
         "nome": "Jebel Hafeet",
-        "testo": "Una montagna con una strada a tornanti fino al belvedere in cima, a oltre mille metri.",
+        "testo": "Una montagna di circa 1.240 metri che sale di 900 metri sopra la pianura. La strada, costruita nel 1980, fa 60 curve in 11,7 km fino al belvedere in cima, da cui si vede Al Ain.",
         "come": "In auto da Al Ain.",
         "quando": "Tramonto.",
         "tempo": "1-2 ore"
@@ -521,10 +523,10 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Scambiare un safari serale per il deserto: quelli si fanno su dune piccole a mezz'ora da Dubai.",
+      "Scambiare un safari serale per il deserto: quelli si fanno su dune piccole vicino a Dubai.",
       "Guidare sulla sabbia senza esperienza e senza un secondo mezzo.",
       "Venire in giornata e saltare la notte, che è il motivo per cui si va a Liwa.",
-      "D'estate nell'interno si superano spesso i 50 gradi."
+      "D'estate nell'interno il caldo è estremo: venire tra novembre e marzo."
     ],
     // GUIDA-END
     esperienzeSlugs: [],

@@ -58,7 +58,7 @@ export const destinazioniDanimarca: Destinazione[] = [
     luoghi: [
       {
         nome: "Nyhavn",
-        testo: "Il canale del Seicento con le facciate colorate delle case dei mercanti, oggi una fila di caffè e ristoranti sul molo. È il punto più fotografato della città, e da qui partono i battelli per i canali.",
+        testo: "Il canale scavato tra il 1670 e il 1675, con le case colorate del Seicento e del primo Settecento, oggi una fila di caffè e ristoranti sul molo. È il punto più fotografato della città, e da qui partono i battelli per i canali.",
         come: "A piedi da Kongens Nytorv (5 minuti) o in metro (M1/M2) fino a Kongens Nytorv.",
         quando: "Mattina presto per le foto; sera per i tavoli sul molo, più cari.",
         tempo: "1 ora",
@@ -67,7 +67,7 @@ export const destinazioniDanimarca: Destinazione[] = [
       },
       {
         nome: "Castello di Rosenborg",
-        testo: "Castello rinascimentale costruito da Cristiano IV tra il 1606 e il 1634, con i gioielli della corona nel sotterraneo e i giardini del Kongens Have. Le sale conservano arredi originali.",
+        testo: "Castello rinascimentale costruito da Cristiano IV tra il 1606 e il 1624, nato come residenza estiva. Nel tesoro ci sono i gioielli e le insegne della corona danese; intorno c'è il Kongens Have, il giardino reale più antico del paese.",
         come: "Metro o a piedi fino a Nørreport (10 minuti dal centro).",
         quando: "Mattina nei giorni feriali; parco aperto a tutti, gratuito.",
         tempo: "1,5 ore",
@@ -75,17 +75,17 @@ export const destinazioniDanimarca: Destinazione[] = [
       },
       {
         nome: "Amalienborg",
-        testo: "Quattro palazzi rococò attorno a una piazza ottagonale, residenza della famiglia reale. Il cambio della guardia si svolge a mezzogiorno, con una marcia che parte da Rosenborg.",
+        testo: "Quattro palazzi uguali, con interni rococò, attorno a una piazza ottagonale: è la residenza della famiglia reale. Ogni giorno la guardia parte in marcia da Rosenborg alle 11:30 e fa il cambio davanti ad Amalienborg a mezzogiorno.",
         come: "A piedi da Nyhavn, lungo il lungomare (10 minuti).",
         quando: "Mezzogiorno per la cerimonia.",
         tempo: "1 ora",
         costo: "cambio della guardia gratuito",
         url: "https://www.kongernessamling.dk",
-        consiglio: "Salire sul Marmorkirken lì vicino per la cupola e la vista."
+        consiglio: "La cupola della vicina Marmorkirken si visita con guida nei fine settimana, senza prenotazione: orari sul sito della chiesa."
       },
       {
         nome: "Tivoli Gardens",
-        testo: "Aperto nel 1843, è uno dei parchi divertimento più antichi del mondo ancora in funzione, in pieno centro. Giardini curati, montagne russe storiche in legno e luci al tramonto.",
+        testo: "Aperto nel 1843, è il secondo parco divertimenti più antico del mondo ancora in funzione, in pieno centro. Giardini curati, le montagne russe in legno Rutschebanen del 1914 e luci al tramonto.",
         come: "A piedi dalla stazione centrale (5 minuti). Aperto a stagioni: estate, Halloween e Natale.",
         quando: "Sera, quando si accendono le luci.",
         tempo: "3-4 ore",
@@ -94,31 +94,31 @@ export const destinazioniDanimarca: Destinazione[] = [
       },
       {
         nome: "Christianshavn e Vor Frelsers Kirke",
-        testo: "Quartiere con canali minori, case galleggianti e la chiesa del Salvatore, famosa per la scala a spirale esterna dorata che sale sul campanile. La salita è stretta e ripida, con vista su tutta Copenaghen.",
+        testo: "Quartiere con canali minori, case galleggianti e la chiesa del Salvatore, famosa per la guglia nera e oro con la scala a spirale: 400 gradini, prima stretti e ripidi dentro la torre, poi gli ultimi 150 all'aperto, con vista su tutta Copenaghen.",
         come: "Metro M1/M2 fino a Christianshavn o a piedi dal centro (15 minuti).",
-        quando: "Giorno sereno; la torre chiude con vento forte, neve o ghiaccio.",
+        quando: "Giorno sereno; la torre chiude con pioggia, neve o vento forte, ed è chiusa a gennaio.",
         tempo: "1-2 ore",
         url: "https://www.vorfrelserskirke.dk",
-        consiglio: "La salita non è adatta a chi soffre di vertigini."
+        consiglio: "Prenotare online: i posti sono limitati. L'ultimo tratto è esposto, sconsigliato a chi soffre di vertigini."
       },
       {
         nome: "Christiania",
-        testo: "Una «città libera» nata nel 1971 in un'ex area militare: case autocostruite, murales, atelier e locali. Ha regole proprie: niente foto alle persone, soprattutto nella zona dell'ex Pusher Street, chiusa nel 2024, e niente corse.",
-        come: "A piedi da Christianshavn, ingresso dalla Prinsessegade.",
+        testo: "Una «città libera» nata nel 1971 in un'ex area militare: case autocostruite, murales, atelier e locali. Ha regole proprie, scritte sui cartelli agli ingressi. Pusher Street, la via dello spaccio, è stata smantellata nel 2024.",
+        come: "A piedi da Christianshavn.",
         quando: "Giorno; la sera è meno consigliabile per i visitatori occasionali.",
         tempo: "1-2 ore",
         costo: "ingresso libero",
         url: "https://www.christiania.org",
-        consiglio: "Rispettare le regole all'ingresso e non fotografare le bancarelle."
+        consiglio: "Leggere i cartelli all'ingresso e chiedere prima di fotografare le persone."
       },
       {
         nome: "Louisiana Museum of Modern Art",
-        testo: "A Humlebæk, a nord di Copenaghen, il museo d'arte moderna più amato di Danimarca: padiglioni sul mare con collezioni di Giacometti, Picasso e arte contemporanea, giardino di sculture sul mare.",
-        come: "Treno da Copenhagen H fino a Humlebæk (circa 35-40 minuti), poi 10 minuti a piedi.",
+        testo: "A Humlebæk, a nord di Copenaghen, il museo d'arte moderna e contemporanea più visitato della Scandinavia: padiglioni sull'Øresund con opere di Giacometti, Picasso, Warhol e Hockney, e un giardino di sculture (Moore, Calder) che scende verso il mare.",
+        come: "Treno da Copenhagen H fino a Humlebæk, poi 10-15 minuti a piedi.",
         quando: "Giorno intero, con pranzo al caffè con vista sul mare.",
         tempo: "mezza giornata",
         url: "https://www.louisiana.dk",
-        consiglio: "Prenotare l'ingresso online nei weekend."
+        consiglio: "Biglietti e orari sul sito ufficiale."
       }
     ],
     programmi: [
@@ -187,14 +187,14 @@ export const destinazioniDanimarca: Destinazione[] = [
       },
       {
         nome: "Frikadeller",
-        testo: "Polpette di maiale al forno con patate e cavolo rosso."
+        testo: "Polpette di maiale cotte in padella, con patate e cavolo rosso."
       }
     ],
     attenzioni: [
       "Biciclette: restare fuori dalle corsie ciclabili e guardare prima di scendere dal marciapiede.",
-      "Borseggiatori su Strøget, alla stazione centrale e a Nyhavn.",
-      "Christiania: niente foto nella zona dell'ex Pusher Street e ai residenti, e non comprare nulla da venditori abusivi: lo spaccio è illegale e la polizia controlla.",
-      "Locali di Nyhavn con prezzi gonfiati: controllare il menu prima di sedersi."
+      "Borseggiatori su Strøget, alla stazione centrale, a Nørreport, a Nyhavn, a Kongens Nytorv e a Christiania.",
+      "Christiania e Nørrebro: più attenzione la sera tardi, ci sono stati episodi di violenza tra bande. Non comprare nulla da venditori abusivi: lo spaccio è illegale.",
+      "Locali di Nyhavn molto cari: controllare il menu prima di sedersi."
     ],
     esperienzeSlugs: ['nyhavn-giro-in-barca', 'copenaghen-tour-in-bicicletta', 'christiania-visita', 'smorrebrod-tour-torvehallerne'],
     tripSlugs: ['capitali-nordiche'],

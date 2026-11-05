@@ -74,27 +74,27 @@ export const destinazioniAustria: Destinazione[] = [
       },
       {
         nome: "Cattedrale di Santo Stefano (Stephansdom)",
-        testo: "Il simbolo di Vienna, in stile gotico, con il tetto di tegole colorate e la torre sud di 136 metri. Si può salire sulla torre con circa 343 gradini.",
-        come: "Metro U1/U3 fino a Stephansplatz. Nel transetto l'ingresso è gratuito; torre e catacombe a pagamento.",
+        testo: "Il simbolo di Vienna, in stile gotico, con il tetto di 230.000 tegole colorate e la torre sud di 136 metri, che si sale a piedi. Sulla torre nord incompiuta c'è una piattaforma con la campana Pummerin; sotto, le catacombe con i resti di oltre 11.000 persone.",
+        come: "Metro U1/U3 fino a Stephansplatz. Torri e catacombe a pagamento: tariffe sul sito ufficiale.",
         quando: "Visite turistiche lun-sab 9-11:30 e 13-16:30, domenica e festivi 13-16:30, salvo funzioni. Mattina presto o sera per la luce sul tetto.",
         tempo: "1 ora",
         url: "https://www.stephanskirche.at",
-        consiglio: "Se si ha poco tempo, salire sulla torre nord con ascensore."
+        consiglio: "Le catacombe si vedono solo con visita guidata."
       },
       {
         nome: "Belvedere",
-        testo: "Due palazzi barocchi con il giardino all'italiana, sede della più grande collezione di Klimt, incluso «Il bacio». Il parco è bello anche da solo.",
+        testo: "Due palazzi barocchi del principe Eugenio di Savoia, con il giardino alla francese in mezzo; il Belvedere superiore ospita un'importante collezione di Klimt, con «Il bacio», e opere di Schiele e Kokoschka. Il parco è bello anche da solo.",
         come: "Tram D fino a Schloss Belvedere. Biglietti per il Belvedere superiore.",
         quando: "Tutti i giorni 9-18; mattina presto per vedere «Il bacio» senza folla.",
         tempo: "2 ore",
         costo: "Belvedere superiore 23 € adulti (2026, prezzo del giorno)",
         url: "https://www.belvedere.at",
-        consiglio: "Prenotare online per saltare la fila."
+        consiglio: "Fino a 19 anni l'ingresso è gratuito; d'estate (metà luglio-agosto) apre fino alle 19."
       },
       {
         nome: "Kunsthistorisches Museum",
         testo: "Il grande museo d'arte degli Asburgo, con Bruegel, Raffaello, Tiziano e Vermeer. L'edificio stesso, con la cupola e la scalinata, è un'opera d'arte.",
-        come: "Metro U2 o U3 fino a Volkstheater, accanto al Naturhistorisches Museum.",
+        come: "Sul Ring, di fronte al Naturhistorisches Museum, vicino alle fermate della metro Volkstheater e Museumsquartier.",
         quando: "Tutti i giorni 10-18, giovedì fino alle 21; mattina nei giorni feriali.",
         tempo: "2-3 ore",
         costo: "22 € online, 24 € in cassa (2026); dall'8 settembre 2026 ingresso solo a fascia oraria",
@@ -192,11 +192,11 @@ export const destinazioniAustria: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Falsi venditori di biglietti in costume da Mozart davanti ai teatri: comprare solo in biglietteria o sul sito.",
+      "Concerti: comprare i biglietti in biglietteria o sui siti ufficiali, non dai venditori in costume per strada.",
       "I Fiaker (carrozze) sono cari: chiedere il prezzo prima.",
-      "Biglietti dei mezzi: convalidare quelli di carta, i controlli sono frequenti.",
+      "Biglietti dei mezzi: convalidare quelli di carta prima di salire, altrimenti si rischia una multa sul posto.",
       "La domenica i negozi sono chiusi, supermercati compresi.",
-      "Nei caffè si lascia il 5-10% di mancia, non è inclusa."
+      "Borseggiatori nei centri affollati, sui mezzi e nelle stazioni principali; più attenzione nei parchi dopo il tramonto."
     ],
     esperienzeSlugs: ['vienna-schonbrunn-biglietto', 'vienna-opera-stehplatz', 'vienna-giro-caffe-storici'],
     tripSlugs: ['vienna-weekend'],

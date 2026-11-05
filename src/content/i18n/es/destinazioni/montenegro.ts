@@ -37,31 +37,31 @@ export const destinazioniMontenegro: Destinazione[] = [
         nome: "Casco antiguo de Kotor",
         testo: "Un laberinto de callejas medievales dentro de murallas construidas y ampliadas durante siglos, sobre todo por los venecianos: patrimonio de la UNESCO. Plazas diminutas, iglesias románicas y la catedral de San Trifón, consagrada en 1166. Los gatos están por todas partes, y la ciudad los ha convertido en un símbolo.",
         come: "Se llega en coche o autobús a los aparcamientos fuera de las murallas y se entra por la Puerta del Mar. Se visita a pie sin guía.",
-        quando: "A primera hora o por la tarde. Entre las 10 y las 16, con cruceros en puerto, las calles se llenan.",
+        quando: "A primera hora o por la tarde. En las horas centrales, con cruceros en puerto, las calles se llenan.",
         tempo: "2-3 horas",
         consiglio: "Perderse por las calles sin mapa: la ciudad es pequeña y siempre se encuentra la salida."
       },
       {
         nome: "Fortaleza de San Juan",
-        testo: "Las murallas suben por la montaña hasta la fortaleza, a unos 260 metros sobre la ciudad. Desde arriba se ve toda la bahía, con forma de fiordo.",
+        testo: "Las murallas suben por la montaña hasta la fortaleza, a unos 280 metros de altura. Desde arriba se ve toda la bahía, con forma de fiordo.",
         come: "El sendero parte del casco antiguo y son escalones irregulares: unos 1.350. Calzado cerrado y agua.",
         quando: "A la apertura o a última hora de la tarde, nunca en las horas de calor del verano. Arriba no hay sombra.",
         tempo: "1 hora y media entre subida, descanso y bajada",
-        costo: "15 € por persona, solo en efectivo (2026), en el horario con taquilla abierta.",
-        consiglio: "Comprobar el horario de la taquilla y entrar solo por los accesos oficiales: en 2026 el ayuntamiento cerró los huecos no autorizados en las murallas."
+        costo: "Unos 15 € por persona (2026); mejor llevar efectivo.",
+        consiglio: "Entrar solo por los accesos oficiales del casco antiguo: los huecos no oficiales en las murallas se están cerrando o vigilando."
       },
       {
         nome: "Perast y los islotes",
-        testo: "Un pueblo barroco en una sola hilera de palacios sobre el agua. Delante hay dos islotes: la Virgen de las Rocas, artificial, y San Jorge, con el monasterio benedictino.",
-        come: "De Kotor a Perast hay unos 12 km de carretera costera. Desde el muelle salen las barcas de los pescadores hacia los islotes, 10 minutos de travesía.",
+        testo: "Un pueblo barroco en una sola hilera de palacios sobre el agua. Delante hay dos islotes: la Virgen de las Rocas, artificial, y San Jorge, con su iglesia.",
+        come: "Desde Kotor se llega en coche o autobús por la carretera de la costa. Desde el muelle salen las barcas de los pescadores hacia los islotes, una travesía de pocos minutos.",
         quando: "Mañana o final de la tarde. Las barcas salen cuando están llenas.",
         tempo: "2-3 horas con la travesía",
         consiglio: "Fijar el precio de la barca antes de subir, ida y vuelta juntas."
       },
       {
         nome: "Risan y los mosaicos romanos",
-        testo: "El asentamiento más antiguo de la bahía. Bajo las casas quedan los mosaicos de una villa romana, con la escena de Hipnos, dios del sueño.",
-        come: "A 17 km de Kotor, camino de Herceg Novi. La visita dura pocos minutos.",
+        testo: "El asentamiento más antiguo de la bahía. De época romana quedan los mosaicos del suelo de una villa, el resto más valioso de la ciudad antigua.",
+        come: "En la carretera de Kotor a Herceg Novi, en la parte más interior de la bahía. La visita dura pocos minutos.",
         quando: "Todo el año, por la mañana.",
         tempo: "30 minutos",
         consiglio: "Parada breve de camino a Perast, no un día entero."
@@ -94,12 +94,12 @@ export const destinazioniMontenegro: Destinazione[] = [
       {
         nome: "Dobrota, Muo y Prčanj",
         perChi: "para quien viaja en coche",
-        testo: "En la orilla, a 2-4 km de Kotor, con aparcamiento más fácil y menos gente. El centro queda a una hora a pie o en autobús local."
+        testo: "En la orilla, a pocos kilómetros de Kotor, con aparcamiento más fácil y menos gente. Al centro se llega a pie por la orilla o en autobús local."
       },
       {
         nome: "Perast",
         perChi: "para quien busca silencio",
-        testo: "Pocos hoteles y palacios convertidos en habitaciones. Después de las 17, cuando se van los grupos, el pueblo queda casi vacío. Pocos restaurantes."
+        testo: "Pocos hoteles y palacios convertidos en habitaciones. A última hora de la tarde, cuando se van los grupos, el pueblo queda casi vacío. Pocos restaurantes."
       }
     ],
     sapori: [
@@ -121,10 +121,10 @@ export const destinazioniMontenegro: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Con cruceros en puerto (normalmente de mayo a octubre) Kotor se congestiona de 10 a 16: conviene llegar temprano.",
+      "Con cruceros en puerto (normalmente de mayo a octubre) Kotor se congestiona en las horas centrales: conviene llegar temprano.",
       "Taxis no oficiales en el aeropuerto de Tivat: usar los que muestran tarifa o acordar el precio antes de subir.",
       "El aparcamiento en Kotor y Perast suele ser de pago y con controles frecuentes: usar los aparcamientos señalizados y guardar el ticket.",
-      "El ferry Kamenari-Lepetani ahorra un rodeo de unos 40 km por la bahía; en verano la cola puede ser larga."
+      "El ferry Kamenari-Lepetani ahorra el largo rodeo por la bahía; en verano la cola puede ser larga."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['montenegro-itinerario'],
@@ -155,7 +155,7 @@ export const destinazioniMontenegro: Destinazione[] = [
     luoghi: [
       {
         nome: "Carretera de las 25 curvas",
-        testo: "La antigua carretera austrohúngara que sube de Kotor al Lovćen con 25 curvas numeradas. En pocos kilómetros se pasa del mar a 1.000 metros, con la bahía cada vez más pequeña.",
+        testo: "La antigua carretera austrohúngara que sube de Kotor al Lovćen con 25 curvas numeradas. En pocos kilómetros se sube del nivel del mar a la meseta de Njeguši, con la bahía cada vez más pequeña.",
         come: "En coche desde Kotor, 1 hora hasta Njeguši con paradas. Carretera estrecha con muchos autocares.",
         quando: "Por la mañana, para tener luz sobre la bahía y menos tráfico.",
         tempo: "1 hora con paradas",
@@ -163,7 +163,7 @@ export const destinazioniMontenegro: Destinazione[] = [
       },
       {
         nome: "Njeguši",
-        testo: "El pueblo de origen de la dinastía Petrović-Njegoš, a 900 metros. Aquí se come el jamón ahumado y el queso que hicieron famosa la zona.",
+        testo: "El pueblo de origen de la dinastía Petrović-Njegoš, en las laderas del Lovćen. Aquí se come el jamón ahumado y el queso que hicieron famosa la zona.",
         come: "En la carretera entre Kotor y el Lovćen. Se come en una de las tabernas.",
         quando: "Hora de comer, todo el año.",
         tempo: "1 hora",
@@ -180,7 +180,7 @@ export const destinazioniMontenegro: Destinazione[] = [
       {
         nome: "Cetinje",
         testo: "La antigua capital histórica de Montenegro, con palacios de embajadas del siglo XIX y el pequeño palacio del rey Nicolás. El monasterio de Cetinje guarda reliquias de San Pedro y el Museo Nacional tiene la Biljarda, donde vivió Njegoš.",
-        come: "A unos 25 minutos en coche desde Njeguši. En la ciudad se camina.",
+        come: "En coche desde Njeguši, bajando del Lovćen. En la ciudad se camina.",
         quando: "Por la mañana. Horarios y días de cierre de los museos en la web oficial.",
         tempo: "2-3 horas",
         consiglio: "El Museo del rey Nikola, la Biljarda y el monasterio están a pocos minutos a pie unos de otros: medio día basta para todos."
@@ -201,7 +201,7 @@ export const destinazioniMontenegro: Destinazione[] = [
       {
         nome: "Cetinje",
         perChi: "para tener base lejos del mar",
-        testo: "Ciudad universitaria y tranquila, a 30-40 minutos de Kotor y Budva. Pocos hoteles, poca vida nocturna."
+        testo: "Ciudad universitaria y tranquila, a un trayecto en coche de Kotor y Budva. Pocos hoteles, poca vida nocturna."
       },
       {
         nome: "Kotor",
@@ -256,7 +256,7 @@ export const destinazioniMontenegro: Destinazione[] = [
     luoghi: [
       {
         nome: "Casco antiguo de Budva",
-        testo: "Un núcleo fortificado en una península, con murallas venecianas del siglo XV, una ciudadela y calles de piedra. Reconstruido en gran parte tras el terremoto de 1979.",
+        testo: "Un núcleo fortificado en una península, con murallas en gran parte de época veneciana, una ciudadela y calles de piedra. Reconstruido en gran parte tras el terremoto de 1979.",
         come: "A pie desde los aparcamientos de la Riviera. La Ciudadela tiene entrada de pago por las vistas.",
         quando: "Por la tarde-noche para el ambiente, por la mañana para la luz sobre el mar.",
         tempo: "1-2 horas",
@@ -265,23 +265,23 @@ export const destinazioniMontenegro: Destinazione[] = [
       {
         nome: "Sveti Stefan",
         testo: "Un islote-pueblo de piedra unido a tierra por un istmo, convertido en resort de lujo. El hotel que lo ocupa está cerrado desde 2020 y la isla no se visita. La famosa estampa se ve desde el mirador de la carretera sobre la bahía.",
-        come: "A unos 6 km de Budva. Se contempla desde el mirador y desde las playas a ambos lados del istmo; comprobar allí si el hotel ha reabierto.",
+        come: "Poco al sur de Budva, en la carretera de la costa. Se contempla desde el mirador y desde las playas a ambos lados del istmo; comprobar allí si el hotel ha reabierto.",
         quando: "Final de la tarde, con luz dorada sobre las piedras.",
         tempo: "30 minutos de parada panorámica",
         consiglio: "Se puede bajar a las playas a los lados del istmo, pero en verano son de pago."
       },
       {
         nome: "Petrovac",
-        testo: "Una bahía más recogida, 17 km al sur de Budva, con paseo marítimo, fuerte veneciano y un par de islotes. Más tranquila y familiar.",
-        come: "Desde Budva 20 minutos en coche o en el autobús costero.",
+        testo: "Una bahía más recogida al sur de Budva, hacia Bar, con paseo marítimo, fuerte veneciano y un par de islotes. Más tranquila y familiar.",
+        come: "Desde Budva en coche o en el autobús costero.",
         quando: "Junio y septiembre por el mar y los precios más bajos.",
         tempo: "media jornada",
         consiglio: "Buena base para quien quiere mar sin la vida nocturna de Budva."
       },
       {
         nome: "Playa de Mogren",
-        testo: "Dos pequeñas calas de arena y grava justo fuera de las murallas del casco antiguo, cerradas por acantilados y unidas por un paso en la roca. Se llega por un sendero sobre el mar que sale del lado sur de las murallas. Es la playa más bonita cerca del centro, pero en agosto se llena pronto.",
-        come: "A pie desde el casco antiguo, unos 10 minutos por el sendero costero.",
+        testo: "Dos pequeñas playas, Mogren 1 y Mogren 2, bajo los acantilados justo fuera del casco antiguo. Se llega por un corto sendero junto al acantilado que sale de las murallas. Es la playa más conocida cerca del centro, pero en agosto se llena pronto.",
+        come: "A pie desde el casco antiguo, pocos minutos por el sendero del acantilado.",
         quando: "Temprano por la mañana en verano; junio y septiembre son más tranquilos.",
         tempo: "medio día",
         consiglio: "Tumbonas y sombrillas son de pago: quien quiera extender la toalla debe llegar pronto para encontrar la zona libre."
@@ -343,7 +343,7 @@ export const destinazioniMontenegro: Destinazione[] = [
     giorniConsigliati: '1 día',
     visitataPersonalmente: true,
     introduzione:
-      'El lago más grande de los Balcanes, compartido con Albania, parque nacional con más de 280 especies de aves, canales de nenúfares, monasterios en islotes y los viñedos de Crmnica.',
+      'El lago más grande de los Balcanes, compartido con Albania, parque nacional con unas 270 especies de aves, canales de nenúfares, monasterios en islotes y los viñedos de Crmnica.',
     percheAndarci: 'Para un paseo en barca entre canales y pueblos de pescadores, el mirador de Pavlova Strana y los vinos del lago.',
     cosaVedere: ['Virpazar y los canales de nenúfares', 'El mirador de Pavlova Strana', 'El pueblo de Rijeka Crnojevića', 'Los monasterios en los islotes'],
     cosaFare: ['Un paseo en barca desde Virpazar', 'Una degustación en una bodega familiar', 'Observación de aves con guía'],
@@ -358,23 +358,23 @@ export const destinazioniMontenegro: Destinazione[] = [
       {
         nome: "Virpazar y el paseo en barca",
         testo: "El pueblo de pescadores en la orilla norte del lago, de donde salen las barcas entre nenúfares, cañaverales y pelícanos. El Parque Nacional del Lago Skadar es una de las mayores reservas de aves de Europa.",
-        come: "A 30 minutos en coche de Podgorica. Las barcas salen del muelle y de las agencias del pueblo.",
-        quando: "Mañana o final de la tarde para ver aves. Nenúfares en flor en junio y julio.",
+        come: "En coche desde Podgorica o desde la costa. Las barcas salen del muelle y de las agencias del pueblo.",
+        quando: "Mañana o final de la tarde para ver aves.",
         tempo: "2-3 horas",
         consiglio: "Acordar duración, ruta y precio antes de subir."
       },
       {
         nome: "Pavlova Strana",
         testo: "Un mirador en la carretera sobre el lago donde el río Crnojević traza un meandro en herradura alrededor de una lengua de tierra verde. Es el panorama más fotografiado de la zona, con las montañas de Albania al fondo en los días claros.",
-        come: "En coche desde Virpazar por carretera de montaña, unos 20 minutos.",
+        come: "En coche desde Virpazar por una carretera de montaña estrecha y con curvas.",
         quando: "Final de la tarde.",
         tempo: "30 minutos",
         consiglio: "El aparcamiento es pequeño: llegar pronto."
       },
       {
         nome: "Rijeka Crnojevića",
-        testo: "Un pueblo en el río con un puente de piedra otomano y el viejo puerto. De aquí salen las barcas al lago.",
-        come: "A 30 minutos en coche de Cetinje.",
+        testo: "Un pueblo en el río con el puente de piedra encargado por el príncipe Danilo en 1853 y el viejo puerto. De aquí salen las barcas al lago.",
+        come: "En coche desde Cetinje.",
         quando: "Mañana.",
         tempo: "1 hora y media",
         consiglio: "Probar el pescado de lago en las tabernas del río."
@@ -448,15 +448,15 @@ export const destinazioniMontenegro: Destinazione[] = [
     luoghi: [
       {
         nome: "Monasterio superior",
-        testo: "Una iglesia y celdas excavadas en la pared vertical de la roca, a unos 900 metros. Fundado en el siglo XVII por San Basilio de Ostrog, cuyas reliquias están en la capilla-cueva. Es el santuario ortodoxo más visitado del país.",
+        testo: "Una iglesia y celdas excavadas en la pared vertical de la roca. Fundado a principios del siglo XVII por San Basilio de Ostrog, cuyas reliquias están en la iglesia de la Presentación, dentro de la cueva.",
         come: "En coche desde Podgorica o Nikšić hasta los aparcamientos, luego a pie. El último tramo de carretera es estrecho y empinado, con paso alterno.",
-        quando: "A primera hora, para evitar colas. A mediados de mayo (fiesta de San Basilio) está muy concurrido.",
+        quando: "A primera hora, para evitar colas. El 12 de mayo, fiesta de San Basilio, está muy concurrido.",
         tempo: "1-2 horas",
         consiglio: "Vestir cubierto: hombros y rodillas tapados, sin pantalones cortos."
       },
       {
         nome: "Monasterio inferior",
-        testo: "Más pequeño, a 3 km del santuario, con una iglesia del siglo XIX y frescos. Muchos peregrinos paran aquí antes de subir.",
+        testo: "Más abajo, a unos 3 km de subida del santuario, con la iglesia de la Santísima Trinidad de 1824. Muchos peregrinos paran aquí antes de subir.",
         come: "En la carretera que sube al monasterio superior.",
         quando: "Todo el año.",
         tempo: "30 minutos",
@@ -478,7 +478,7 @@ export const destinazioniMontenegro: Destinazione[] = [
       {
         nome: "Podgorica",
         perChi: "para visita de un día",
-        testo: "Base práctica para Ostrog (cerca de 1 hora). El monasterio no tiene alojamiento turístico."
+        testo: "Base práctica para Ostrog, en coche. El monasterio no tiene alojamiento turístico."
       }
     ],
     sapori: [
@@ -529,7 +529,7 @@ export const destinazioniMontenegro: Destinazione[] = [
       {
         nome: "Lago Negro (Crno jezero)",
         testo: "Un lago glaciar entre pinos y las paredes del Međed, a 1.416 metros y a 3 km de Žabljak. La vuelta al lago es un sendero fácil con vistas a las cumbres.",
-        come: "A pie desde el centro de Žabljak en unos 40 minutos, o en coche hasta el aparcamiento. Entrada al parque con billete.",
+        come: "A pie desde el centro de Žabljak (unos 3 km), o en coche hasta el aparcamiento. Entrada al parque con billete.",
         quando: "Por la mañana, cuando el lago está en calma y refleja las montañas.",
         tempo: "1-2 horas para la vuelta",
         consiglio: "Llevar chaqueta: incluso en verano las tardes son frescas."
@@ -537,7 +537,7 @@ export const destinazioniMontenegro: Destinazione[] = [
       {
         nome: "Bobotov Kuk",
         testo: "La cima más alta del macizo del Durmitor, 2.523 metros. Excursión larga que lleva un día, con algunos pasos expuestos.",
-        come: "Desde el refugio de Sedlo, unas 6-7 horas ida y vuelta. Con guía local si hay dudas.",
+        come: "Desde el paso de Sedlo, varias horas de camino ida y vuelta. Con guía local si hay dudas.",
         quando: "Julio-septiembre; antes queda nieve en los canales.",
         tempo: "día completo",
         consiglio: "Salir al amanecer: las tormentas de la tarde son frecuentes."
@@ -546,14 +546,14 @@ export const destinazioniMontenegro: Destinazione[] = [
         nome: "Cañón del Tara",
         testo: "Con 1.300 metros de profundidad máxima es de los más profundos de Europa. El río ha excavado paredes verticales cubiertas de pinos.",
         come: "Se ve desde los miradores de la carretera y se baja al río con las excursiones de rafting desde Brštanovica.",
-        quando: "Rafting de primavera a principios de otoño, con más agua en mayo-junio.",
+        quando: "Rafting de primavera a principios de otoño, con más agua en primavera.",
         tempo: "media jornada para el rafting",
         consiglio: "Quien no haga rafting puede parar en los miradores de la carretera Žabljak-Šćepan Polje."
       },
       {
         nome: "Puente de Đurđevića Tara",
-        testo: "Un puente de arcos de hormigón de unos 172 metros de altura, construido en 1940, con cinco arcos. Durante la guerra los partisanos volaron uno de los arcos.",
-        come: "En la carretera Žabljak-Pljevlja, a unos 20 km. La tirolina es de pago.",
+        testo: "Un puente de hormigón de cinco arcos, con la calzada a unos 172 metros sobre el río, terminado en 1940. Durante la guerra los partisanos volaron uno de los arcos.",
+        come: "En la carretera de Žabljak hacia Pljevlja y Mojkovac. La tirolina es de pago.",
         quando: "Por la mañana.",
         tempo: "45 minutos",
         consiglio: "Desde aquí se mira el cañón desde arriba y se puede hacer la tirolina."
@@ -581,7 +581,7 @@ export const destinazioniMontenegro: Destinazione[] = [
       {
         nome: "Žabljak",
         perChi: "para el Durmitor",
-        testo: "El pueblo está a 1.450 metros: casas de huéspedes, restaurantes y senderos a pocos minutos. Frío de noche incluso en verano."
+        testo: "El pueblo está a unos 1.450 metros: casas de huéspedes, restaurantes y senderos a pocos minutos. Frío de noche incluso en verano."
       },
       {
         nome: "A lo largo del Tara",
@@ -609,7 +609,7 @@ export const destinazioniMontenegro: Destinazione[] = [
     ],
     attenzioni: [
       "El tiempo en montaña cambia rápido: salir temprano y llevar capas y chaqueta impermeable.",
-      "Las carreteras de montaña pueden estar cerradas por nieve de noviembre a abril.",
+      "Las carreteras de montaña pueden estar cerradas por nieve en invierno.",
       "Operadores de rafting: elegir empresas con material certificado y guías, y comparar precios.",
       "Rutas largas como el Bobotov Kuk no están señalizadas en todas partes: con niebla es mejor volver."
     ],

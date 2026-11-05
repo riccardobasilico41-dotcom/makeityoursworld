@@ -27,7 +27,7 @@ export const destinazioniCroazia: Destinazione[] = [
     luoghi: [
       {
         nome: "Upper Town (Gornji grad)",
-        testo: "The medieval core on a hill, with St Mark's church and its tiled roof, the Lotrščak tower (where a cannon fires every day at noon) and gas-lit lanes.",
+        testo: "The medieval core on a hill, with St Mark's church and its tiled roof, the Lotrščak tower (where a cannon fires every day at noon) and the old town lanes.",
         come: "On foot from the Lower Town or by funicular, one of the world's shortest (66 metres of track).",
         quando: "Morning or late afternoon. The cannon fires at noon.",
         tempo: "2 hours",
@@ -37,22 +37,22 @@ export const destinazioniCroazia: Destinazione[] = [
         nome: "Dolac Market",
         testo: "The city's open-air market above Jelačić Square, with fruit and vegetable stalls under red umbrellas and cheese in the covered market below.",
         come: "On foot from the centre, a few minutes from Jelačić Square.",
-        quando: "Morning, until midday; Sunday is quieter and many stalls close.",
+        quando: "Morning, until midday, when the stalls are full.",
         tempo: "1 hour",
         consiglio: "Try fresh cream cheese (sir i vrhnje) with warm bread."
       },
       {
         nome: "Museum of Broken Relationships",
         testo: "A small museum of objects donated by people all over the world, each with the story of a relationship that ended. Funny and at times moving.",
-        come: "On foot from the Upper Town, on Ćirilometodska street.",
+        come: "On foot from the Upper Town, on Sv. Ćirila i Metoda street.",
         quando: "Morning or afternoon, avoiding weekends.",
         tempo: "1 hour",
-        consiglio: "Captions are in English: allow time to read."
+        consiglio: "The point is the donors' stories next to each object: allow time to read them."
       },
       {
         nome: "Mirogoj Cemetery",
-        testo: "The city's monumental cemetery, designed by architect Hermann Bollé in the late nineteenth century. A long arcade with green domes and ivy-covered walls encloses graves of every faith, side by side. It is one of the most beautiful and peaceful places in Zagreb, and few tourists get there.",
-        come: "Bus 106 from the cathedral, about 10 minutes, or half an hour uphill on foot.",
+        testo: "The city's monumental cemetery, opened in 1876, with the main building designed by architect Hermann Bollé. The long arcades and cupolas, built between 1879 and 1929, enclose graves of every faith, side by side. It is one of the most beautiful and peaceful places in Zagreb, and few tourists get there.",
+        come: "Bus 106 from the Kaptol terminal near the cathedral, or uphill on foot.",
         quando: "Morning or late afternoon; in early November it is full of candles.",
         tempo: "1 hour",
         costo: "Free.",
@@ -137,9 +137,9 @@ export const destinazioniCroazia: Destinazione[] = [
         come: "Entrance 2 for the upper lakes. Trails marked with letters (A-K) and an electric boat on Kozjak included in the ticket.",
         quando: "At opening or after 3 pm, to avoid coach hours. The greenest period is May-June; in autumn the colours are stronger.",
         tempo: "4-6 hours for a full route",
-        costo: "€40 from June to September, €23 in April, May and October, less in winter; cheaper on summer afternoons (2026). Buy only on the official website.",
+        costo: "€40 from June to September (€25 after 4 pm in June-August and after 3 pm in September), €23 in April, May and October, €10 from November to March (2026). Buy only on the official website.",
         url: "https://np-plitvicka-jezera.hr/en/",
-        consiglio: "In high season tickets are timed and must be booked on the official site."
+        consiglio: "In high season buy the ticket online in advance: it can sell out at the gates. It must be validated at the entrance chosen when buying."
       },
       {
         nome: "Veliki slap",
@@ -204,7 +204,7 @@ export const destinazioniCroazia: Destinazione[] = [
     ],
     attenzioni: [
       "Swimming in the lakes is forbidden and patrolled: stay on the paths.",
-      "Without a reservation in summer you may not get in: book a time slot.",
+      "In summer tickets can sell out: buy them online before you go.",
       "Bring food and water: inside, services are few and expensive."
     ],
     esperienzeSlugs: [],
@@ -255,10 +255,10 @@ export const destinazioniCroazia: Destinazione[] = [
       {
         nome: "Skradinski buk (Krka)",
         testo: "A series of waterfalls and pools on travertine terraces in Krka National Park. You walk on boardwalks and take a boat from Skradin.",
-        come: "About 45 minutes from Šibenik. Start from the Skradin entrance with the boat included in the ticket.",
+        come: "By car from Šibenik. Start from the Skradin entrance with the boat included in the ticket.",
         quando: "Early morning or late day. May-June and September.",
         tempo: "3-4 hours",
-        costo: "About €40 in high season, €20 in spring and autumn, much less in winter (2026); from April to October it includes the boat from Skradin.",
+        costo: "€40 from June to September, €20 in April, May and October, €7 from November to March (2026); from 1 April to 31 October it includes the boat from Skradin.",
         url: "https://np-krka.hr/en/",
         consiglio: "Swimming at the foot of the falls is no longer allowed."
       },
@@ -268,7 +268,7 @@ export const destinazioniCroazia: Destinazione[] = [
         come: "On foot from the old centre.",
         quando: "Morning.",
         tempo: "45 minutes",
-        consiglio: "Look at the faces on the apse: they are portraits of townspeople."
+        consiglio: "Look at the faces on the apses: they are thought to show people of Dalmatia at the time."
       }
     ],
     programmi: [
@@ -355,9 +355,9 @@ export const destinazioniCroazia: Destinazione[] = [
     luoghi: [
       {
         nome: "Diocletian's Palace",
-        testo: "The palace-fortress of the Roman emperor Diocletian, built around AD 305, inside which the old town lives today. Peristyle, mausoleum turned cathedral and underground halls are the heart of the visit.",
+        testo: "The palace-fortress of the Roman emperor Diocletian, built in the late 3rd century and up to AD 305, inside which the old town lives today. Peristyle, mausoleum turned cathedral and underground halls are the heart of the visit.",
         come: "On foot from the Riva, via the Silver or Bronze Gate. Streets are free; the cathedral, bell tower and cellars are paid.",
-        quando: "Early morning or evening: between 11 and 4 the lanes are full.",
+        quando: "Early morning or evening: in the middle of the day the lanes are full.",
         tempo: "2-3 hours",
         consiglio: "The cellars: paid entry, almost empty and photogenic."
       },
@@ -371,16 +371,16 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Marjan Hill",
-        testo: "The wooded park above the city, with trails, small chapels and a viewpoint over the harbour and the islands. A stairway from the Veli Varoš quarter leads to the first viewpoint with its café; further on the pine forest continues to the top of Telegrin and to small beaches on the open-sea side. It is where locals go to run and swim, away from the crowds of the palace.",
-        come: "On foot from the Veli Varoš district, about 20 minutes uphill to the viewpoint.",
+        testo: "The wooded park above the city, with trails, small chapels and a viewpoint over the harbour and the islands. From the Veli Varoš quarter you climb to the first viewpoint; further on the pine forest continues to the summit, with its large white cross, and to small beaches on the open-sea side. It is where locals go to run and swim, away from the crowds of the palace.",
+        come: "On foot from the Veli Varoš district, uphill to the viewpoint.",
         quando: "Late afternoon.",
         tempo: "2 hours",
         consiglio: "Bring water: there are no bars on the way up."
       },
       {
         nome: "Trogir",
-        testo: "A small medieval island-town 30 km from Split, with St Lawrence cathedral and its portal carved by Radovan. UNESCO site.",
-        come: "By car or bus 37 from Split, about 1 hour. Visited on foot.",
+        testo: "A small medieval island-town about 27 km from Split, with St Lawrence cathedral and its portal carved by Radovan. UNESCO site.",
+        come: "By car or bus from Split. Visited on foot.",
         quando: "Morning.",
         tempo: "3 hours",
         consiglio: "In the afternoon stop for an ice cream on the Riva."
@@ -466,14 +466,14 @@ export const destinazioniCroazia: Destinazione[] = [
       {
         nome: "Hvar town and Spanish Fortress",
         testo: "A Venetian town on the sea with the largest square in Dalmatia, St Stephen's cathedral and the seventeenth-century theatre above the arsenal. Above the town stands the sixteenth-century fortress (Fortica), with views over the harbour and the Pakleni islands.",
-        come: "On foot from the harbour. Fortress about 15 minutes uphill.",
+        come: "On foot from the harbour. The fortress is an uphill walk from town.",
         quando: "Fortress in the morning or late afternoon, because of the heat.",
         tempo: "2-3 hours",
         consiglio: "Climb to the fortress at sunset and have dinner afterwards in a lane away from the square."
       },
       {
         nome: "Pakleni Islands",
-        testo: "An archipelago of islets with bays and clear water in front of Hvar town. Reached by water-taxi in 10-15 minutes.",
+        testo: "An archipelago of islets with bays and clear water in front of Hvar town. Reached by water-taxi from the harbour.",
         come: "Water-taxi from Hvar harbour, return at agreed times.",
         quando: "Morning; the bays are calmer before midday.",
         tempo: "half a day",
@@ -489,8 +489,8 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Stari Grad",
-        testo: "The oldest town on the island, founded by Greeks from Paros in 384 BC under the name Pharos. The long, narrow harbour is full of boats and stone houses, and in the centre stands the Tvrdalj, the fortified villa of the poet Petar Hektorović with its fish pond. It is quieter and cheaper than Hvar town.",
-        come: "The car ferry from Split arrives here; from Hvar town it is about 20 minutes by car or bus.",
+        testo: "The oldest town on the island, founded by Greeks from Paros in 384 BC under the name Pharos. The long, narrow harbour is full of boats and stone houses, and in the centre stands the Tvrdalj, the fortified villa of the Renaissance poet Petar Hektorović. It is quieter and cheaper than Hvar town.",
+        come: "The car ferry from Split arrives here; Hvar town is reached by car or bus.",
         quando: "Morning or evening; all year, even off season.",
         tempo: "2 hours",
         consiglio: "Combine the visit with the Stari Grad Plain, which starts just outside town."
@@ -577,7 +577,7 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Marco Polo's House",
-        testo: "According to local tradition Marco Polo was born in Korčula. A medieval tower house holds a small exhibit.",
+        testo: "According to local tradition Marco Polo was born in Korčula. In the centre there is a house that tradition names as his.",
         come: "In the old centre, with steep steps.",
         quando: "Morning.",
         tempo: "30 minutes",
@@ -585,7 +585,7 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Moreška",
-        testo: "A sword dance that stages the fight between Moors and Christians over a kidnapped girl, performed in Korčula for centuries. Two armies in red and black costumes clash with rhythmic blows and sparks on the blades. In summer there are regular shows several times a week.",
+        testo: "A sword dance that stages the fight between Moors and Christians over a kidnapped girl, performed in Korčula for centuries. Two armies in red and black costumes clash with rhythmic blows and sparks on the blades. Today there are regular shows for visitors about twice a week.",
         come: "In the evening, outdoors or in a hall, ticketed.",
         quando: "Summer, evenings.",
         tempo: "1 hour",
@@ -593,7 +593,7 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Pelješac peninsula",
-        testo: "The long peninsula opposite, with small Plavac mali producers. From Orebić you reach Korčula by ferry in about 15 minutes.",
+        testo: "The long peninsula opposite, with small Plavac mali producers. From Orebić a short ferry crossing takes you to Korčula.",
         come: "By car, visiting the wineries of Dingač and Potomje.",
         quando: "Spring and autumn.",
         tempo: "half a day",
@@ -620,7 +620,7 @@ export const destinazioniCroazia: Destinazione[] = [
       {
         nome: "Lumbarda",
         perChi: "for beaches",
-        testo: "A village with sand beaches and vineyards, 6 km away."
+        testo: "A village with sand beaches and vineyards, a few kilometres from town."
       }
     ],
     sapori: [
@@ -684,10 +684,10 @@ export const destinazioniCroazia: Destinazione[] = [
       {
         nome: "Dubrovnik Walls",
         testo: "A ring of medieval walls nearly two kilometres long around the old town, with towers and bastions. The best route to see the red roofs and the sea.",
-        come: "Climb from Pile Gate or the harbour side; the route is one-way.",
+        come: "Climb from Pile Gate or the harbour side, following the marked direction.",
         quando: "At opening or late afternoon: midday is hot and crowded.",
         tempo: "1.5-2 hours",
-        costo: "About €40 (2026); the same price as the one-day Dubrovnik Card, which also includes Fort Lovrijenac and several museums.",
+        costo: "About €40 (2026).",
         consiglio: "Bring water and a hat: there is little shade."
       },
       {
@@ -700,28 +700,28 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Cable car and Mount Srđ",
-        testo: "From the station above the walls the cable car climbs in a few minutes to Mount Srđ, at about 400 metres, with views over the whole city and the islands. At the top stands the Napoleonic Fort Imperial, which houses the museum of the 1990s war, when the city was besieged. At sunset the red roofs and Lokrum take on colour, and it is the best moment.",
+        testo: "From the station above the walls the cable car climbs in a few minutes to Mount Srđ, 412 metres high, with views over the whole city and the islands. At the top stands Fort Imperial, built by the French in 1810, which houses the museum of the 1990s war, when the city was besieged. At sunset the red roofs and Lokrum take on colour, and it is the best moment.",
         come: "From the station near Buža Gate, on foot.",
         quando: "Late afternoon for sunset.",
         tempo: "1-2 hours",
-        costo: "About €30 return (2026); not included in the Dubrovnik Card.",
+        costo: "About €30 return (2026).",
         consiglio: "Book a sunset slot: queues can be long."
       },
       {
         nome: "Ston and Mali Ston oysters",
-        testo: "Ston's walls, about 5.5 km long, are among the longest in Europe. Mali Ston oysters and mussels are farmed here.",
-        come: "By car from Dubrovnik, about 1 hour, over the Pelješac bridge.",
+        testo: "Ston's walls, about 5.5 km long, are among the longest preserved fortification systems in the world. Oysters are farmed in the bay of Mali Ston.",
+        come: "By car from Dubrovnik along the coast to the north-west, where the Pelješac peninsula begins.",
         quando: "Morning for the walls and lunch with oysters.",
         tempo: "half a day",
         consiglio: "The walls are paid and the walk is tiring."
       },
       {
         nome: "Lokrum island",
-        testo: "The wooded island in front of the old town, a nature reserve with no cars and no hotels. There is the Benedictine monastery with its botanical garden, the Napoleonic fort at the top, free-roaming peacocks and the \"Dead Sea\", a small saltwater lake you can swim in. You swim off the rocks, far from the Stradun crowds.",
-        come: "Boats from the old harbour, about 15 minutes; the ticket covers the crossing and entry.",
-        quando: "April to October, in the morning; the last boat back leaves in the late afternoon.",
+        testo: "The wooded island in front of the old town, a nature reserve about 600 metres from town. There is the Benedictine monastery with its botanical garden, the Napoleonic fort at the top, free-roaming peacocks and the \"Dead Sea\", a small saltwater lake you can swim in. You swim off the rocks, far from the Stradun crowds.",
+        come: "Regular boats from the old harbour, a short crossing.",
+        quando: "In the warm season, in the morning; boat times posted at the harbour.",
         tempo: "half a day",
-        consiglio: "You cannot stay on the island overnight: check the time of the last boat."
+        consiglio: "Check the time of the last boat back before you go."
       }
     ],
     programmi: [

@@ -47,57 +47,57 @@ export const destinazioniTurchia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Santa Sofía",
-        "testo": "La basílica construida por Justiniano en 537, durante casi mil años la iglesia más grande del mundo, luego mezquita y museo, hoy de nuevo mezquita. Los turistas extranjeros visitan las galerías superiores con los mosaicos bizantinos.",
+        "testo": "La basílica de Justiniano, inaugurada en 537, durante siglos la iglesia más grande del mundo, luego mezquita desde 1453, museo desde 1935 y de nuevo mezquita desde 2020. Los turistas extranjeros visitan las galerías superiores con los mosaicos bizantinos.",
         "come": "Tranvía T1 hasta Sultanahmet. Entrada separada para turistas; ropa que cubra, mujeres con la cabeza cubierta.",
         "quando": "A primera hora. Cerrada a los turistas durante las oraciones, en particular el viernes a mediodía.",
         "tempo": "1-1,5 horas",
         "consiglio": "Comprobar antes los horarios en el sitio oficial, que cambian con las normas de acceso.",
-        "costo": "25 € para visitantes extranjeros, recorrido de las galerías superiores (2026)"
+        "costo": "Entrada de pago para visitantes extranjeros: precio en los canales oficiales"
       },
       {
         "nome": "Mezquita Azul e Hipódromo",
-        "testo": "La mezquita de Sultanahmet, de principios del siglo XVII, con seis minaretes y el interior revestido de azulejos azules de Iznik. Delante, la plaza del antiguo hipódromo con el obelisco egipcio.",
+        "testo": "La mezquita de Sultanahmet, construida entre 1609 y 1617, con seis minaretes y más de veinte mil azulejos de Iznik en el interior. Delante, la plaza del antiguo hipódromo con el obelisco egipcio.",
         "come": "A pie desde Santa Sofía. Zapatos fuera, hombros y piernas cubiertos; mujeres con la cabeza cubierta.",
-        "quando": "Fuera de las cinco oraciones, que cierran la entrada a los turistas.",
+        "quando": "Fuera de las horas de oración, cuando la entrada se reserva a los fieles.",
         "tempo": "45 minutos",
         "costo": "Entrada gratuita"
       },
       {
         "nome": "Palacio de Topkapı y Harén",
-        "testo": "La residencia de los sultanes otomanos durante casi cuatro siglos: patios, pabellones, tesoro y Harén, con una bonita vista al Bósforo.",
+        "testo": "La residencia principal de los sultanes otomanos durante unos cuatro siglos, hasta mediados del XIX: patios, pabellones, tesoro y Harén, en el promontorio entre el Bósforo, el mar de Mármara y el Cuerno de Oro.",
         "come": "A pie desde Santa Sofía. La entrada para extranjeros incluye el Harén y Santa Irene; también se compra en línea.",
-        "quando": "Cerrado los martes. Llegar a la apertura de las 9: en otoño e invierno la taquilla cierra pronto.",
+        "quando": "Cerrado los martes. Abierto de 9 a 17.30, taquilla hasta las 17 (2026). Llegar a la apertura.",
         "tempo": "2-3 horas",
-        "url": "https://muze.gov.tr/",
+        "url": "https://www.millisaraylar.gov.tr/en/palaces/topkapi-palace",
         "consiglio": "Pasar primero por el Harén y el Tesoro, que tienen cola, y luego los patios.",
-        "costo": "2.750 TL con Harén y Santa Irene (2026)"
+        "costo": "2.750 TL para visitantes extranjeros con el Harén y Santa Irene, válido un día; Harén o Santa Irene solos 1.050 TL (2026)"
       },
       {
         "nome": "Cisterna Basílica",
-        "testo": "Un enorme depósito subterráneo bizantino del siglo VI con 336 columnas, de luz tenue. En la base de dos columnas hay cabezas de Medusa.",
-        "come": "A pie desde Santa Sofía. Entrada que reservar en línea en temporada alta.",
+        "testo": "Un enorme depósito subterráneo bizantino del siglo VI, de la época de Justiniano, con 336 columnas de mármol en 12 filas, con luz tenue. Dos columnas se apoyan en bloques reutilizados con la cabeza de Medusa.",
+        "come": "A pie desde Santa Sofía. En temporada alta mejor la entrada online.",
         "quando": "A primera hora o por la noche, cuando hay menos cola.",
         "tempo": "45 minutos",
         "consiglio": "Evitar el fin de semana y las horas centrales.",
-        "costo": "1.950 TL de día, 3.000 TL en la franja nocturna (2026)"
+        "costo": "Precios distintos de día y en la franja nocturna: consultarlos en la web oficial"
       },
       {
         "nome": "Gran Bazar y Bazar de las Especias",
-        "testo": "El mercado cubierto con más de 4.000 tiendas de alfombras, cerámicas, joyas; un poco más allá, el de las especias con té, delicias turcas y frutos secos.",
-        "come": "Tranvía T1 hasta Beyazıt-Kapalıçarşı, o a pie desde Santa Sofía en 15 minutos.",
-        "quando": "Todo el día; el Gran Bazar cierra el domingo.",
+        "testo": "El mercado cubierto con miles de tiendas de alfombras, cerámica y joyas; un poco más allá, el de las especias con té, dulces turcos y frutos secos.",
+        "come": "Tranvía T1 hasta Beyazıt-Kapalıçarşı, o a pie desde Santa Sofía.",
+        "quando": "Gran Bazar de 9 a 19, cerrado los domingos y festivos.",
         "tempo": "2 horas",
         "consiglio": "El Bazar de las Especias es menos turístico: ir con calma y probar antes de comprar."
       },
       {
         "nome": "Torre de Gálata",
-        "testo": "La torre de piedra genovesa de 1348 sobre Karaköy, de unos 67 metros. Desde el balcón de arriba se ven el Cuerno de Oro, el Bósforo y la península histórica con cúpulas y minaretes. Dentro hay un pequeño museo.",
-        "come": "Tranvía T1 hasta Karaköy y subida a pie por las callejuelas, o el funicular histórico Tünel. Se sube en ascensor y luego por una escalera.",
-        "quando": "A la apertura o en la última hora antes del cierre: a mediodía la cola puede durar una hora.",
-        "tempo": "1 hora con la cola",
-        "costo": "30 € para visitantes extranjeros (2026)",
+        "testo": "La torre de piedra genovesa terminada en 1348 sobre Karaköy, de unos 63 metros. Desde la terraza de arriba se ven el Cuerno de Oro, el Bósforo y la península histórica con cúpulas y minaretes. Desde 2020 es un museo.",
+        "come": "Tranvía T1 hasta Karaköy, luego subida a pie por las callejuelas; o el funicular histórico Tünel. Dos ascensores suben hasta la sexta planta y luego se sigue a pie.",
+        "quando": "Abierta todos los días de 8.30 a 18.30, taquilla hasta las 18.15 aprox. (2026). Mejor a la apertura o en la última hora: a mediodía hay cola.",
+        "tempo": "1 hora",
+        "costo": "Precio para visitantes extranjeros en la web oficial",
         "url": "https://muze.gov.tr/",
-        "consiglio": "El balcón es estrecho y de sentido único: la mejor vista de la península histórica está en el lado sur."
+        "consiglio": "La mejor vista de la península histórica está en el lado sur de la terraza."
       }
     ],
     programmi: [
@@ -155,10 +155,11 @@ export const destinazioniTurchia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Estafa de la cuenta inflada: quien invita a beber en un local desconocido lleva a una cuenta enorme, frecuente en Taksim y Sultanahmet.",
-      "El limpiabotas que deja caer el cepillo luego pide un lustrado de pago: no recogerlo.",
+      "Desconocidos que invitan a beber o cenar en un local: el gobierno británico avisa de cuentas infladas y bebidas adulteradas. Elegir uno mismo adónde ir y no perder de vista el vaso.",
+      "Los carteristas son frecuentes en las zonas turísticas: vigilar mochila y teléfono, sobre todo en el tranvía y en los bazares.",
       "Restaurantes de Sultanahmet sin precios expuestos: pedir la carta con precios antes de sentarse.",
-      "Taxis: usar el taxímetro o BiTaksi y Uber; evitar los taxis parados frente a los monumentos."
+      "Taxis: solo registrados y con taxímetro, o por app; anotar la matrícula. Evitar los coches de conductores no oficiales.",
+      "Tensiones en la región: el gobierno británico (octubre de 2026) avisa de posibles cancelaciones de vuelos y cierres del espacio aéreo en Oriente Medio y desaconseja cualquier viaje a menos de 10 km de la frontera siria. Consultar las recomendaciones oficiales de viaje antes de salir."
     ],
     // GUIDA-END
     esperienzeSlugs: [],
@@ -209,19 +210,19 @@ export const destinazioniTurchia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Museo al aire libre de Göreme",
-        "testo": "Un grupo de iglesias rupestres bizantinas con frescos desde el siglo XI, excavadas en conos de roca. La Iglesia Oscura (Karanlık) tiene los colores mejor conservados.",
-        "come": "Desde Göreme a pie o en lanzadera, a un kilómetro del centro.",
-        "quando": "A la apertura, antes de los grupos organizados.",
+        "testo": "Un conjunto de iglesias y monasterios rupestres excavados en los conos de roca, con frescos en su mayoría de los siglos X y XI, abierto a las visitas desde 1967. La Iglesia Oscura (Karanlık) es una de las más bellas.",
+        "come": "Desde Göreme a pie o en lanzadera.",
+        "quando": "Abierto todos los días de 8 a 17, taquilla hasta las 16.15 (noviembre de 2026). A la apertura, antes de los grupos.",
         "tempo": "1,5-2 horas",
         "url": "https://muze.gov.tr/",
-        "consiglio": "La Iglesia Oscura tiene entrada aparte, pero los colores valen el gasto.",
-        "costo": "20 € para visitantes extranjeros; Iglesia Oscura aparte (2026). Para 2027 el ministerio ha anunciado 22 €."
+        "consiglio": "Preguntar en taquilla si la Iglesia Oscura tiene suplemento: los colores merecen la parada.",
+        "costo": "Precio para visitantes extranjeros en la web oficial"
       },
       {
         "nome": "Globo aerostático al amanecer",
         "testo": "El vuelo sobre los valles y las chimeneas de hadas al salir el sol es la razón por la que muchos vienen aquí.",
-        "come": "Se reserva con un operador con licencia, con recogida en el hotel antes del amanecer.",
-        "quando": "Al amanecer, todo el año si el tiempo lo permite. Con viento fuerte se cancelan los vuelos, más a menudo en invierno.",
+        "come": "Se reserva con un operador autorizado, con recogida en el hotel antes del amanecer.",
+        "quando": "Al amanecer, cuando el tiempo lo permite: con viento fuerte se cancelan los vuelos.",
         "tempo": "1 hora de vuelo, 3-4 horas en total",
         "consiglio": "Reservar para los primeros días y tener uno de reserva: los vuelos se cancelan con viento."
       },
@@ -234,13 +235,13 @@ export const destinazioniTurchia: Destinazione[] = [
       },
       {
         "nome": "Derinkuyu y Kaymaklı",
-        "testo": "Las ciudades subterráneas de varios pisos, excavadas por los habitantes para protegerse de los ataques. Se baja por corredores estrechos hasta decenas de metros.",
-        "come": "En coche o en tour desde Göreme, unos 40 minutos.",
+        "testo": "Las ciudades subterráneas de varios niveles, usadas durante siglos como refugio en las incursiones. Derinkuyu baja hasta unos 85 metros y podía albergar a miles de personas con sus animales; puertas de piedra rodantes cerraban los pasillos.",
+        "come": "En coche o en tour desde Göreme.",
         "quando": "A primera hora para evitar la multitud en los corredores.",
         "tempo": "1-1,5 horas",
         "url": "https://muze.gov.tr/",
-        "consiglio": "Quien sufre de claustrofobia que se salte Derinkuyu y elija Kaymaklı, algo más ancha.",
-        "costo": "13 € cada una para visitantes extranjeros (2026)"
+        "consiglio": "Quien sufra claustrofobia, que lo piense bien: los pasillos son estrechos y bajos.",
+        "costo": "Precios para visitantes extranjeros en la web oficial"
       }
     ],
     programmi: [
@@ -287,7 +288,7 @@ export const destinazioniTurchia: Destinazione[] = [
       },
       {
         "nome": "Vinos de Capadocia",
-        "testo": "Tintos de Öküzgözü y blancos de Emir, en las bodegas de Ürgüp y Uçhisar."
+        "testo": "Blancos de uva Emir y tintos locales, en las bodegas de Ürgüp y Uçhisar."
       },
       {
         "nome": "Pide",
@@ -338,18 +339,18 @@ export const destinazioniTurchia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Terrazas de travertino",
-        "testo": "Las pozas blancas de caliza a lo largo de la pendiente, llenas por las fuentes calientes. Se sube descalzo, porque no se admiten zapatos sobre el travertino.",
+        "testo": "Las pozas blancas de caliza en la ladera, llenas por manantiales calientes. Las autoridades regulan el agua y cierran por turnos algunos tramos para que el travertino se regenere. Patrimonio de la UNESCO desde 1988 junto con Hierápolis.",
         "come": "Entrada por el sur o el norte del sitio; autobús o coche hasta el aparcamiento.",
-        "quando": "Atardecer, con la luz sobre el blanco. A mediodía en verano deslumbra.",
+        "quando": "Sitio abierto todos los días de 8 a 18, taquilla hasta las 17 (noviembre de 2026). Al atardecer, con la luz sobre el blanco; a mediodía en verano deslumbra.",
         "tempo": "1-2 horas",
         "url": "https://muze.gov.tr/",
-        "consiglio": "Llevar toalla y traje de baño: muchas pozas se cierran por turnos.",
-        "costo": "30 € por Hierápolis y los travertinos, entrada única (2026). Para 2027 se han anunciado 35 €."
+        "consiglio": "Llevar toalla y bañador, sabiendo que muchas pozas pueden estar secas.",
+        "costo": "Entrada única para Hierápolis y los travertinos: precio para extranjeros en la web oficial"
       },
       {
         "nome": "Hierápolis y Piscina Antigua",
-        "testo": "Las ruinas de la ciudad romana sobre las terrazas: el teatro, la necrópolis, el martyrion de San Felipe y la piscina de agua caliente con columnas antiguas en el fondo.",
-        "come": "Se camina por el sitio. La piscina tiene entrada aparte.",
+        "testo": "Las ruinas de la ciudad fundada en el siglo II a.C. sobre las terrazas: el teatro, la necrópolis con unas 1.200 tumbas, el martyrion octogonal de San Felipe y la piscina antigua de agua caliente con columnas en el fondo.",
+        "come": "Se recorre a pie. La piscina se paga aparte.",
         "quando": "A primera hora o al final de la tarde.",
         "tempo": "2 horas",
         "url": "https://muze.gov.tr/",
@@ -399,8 +400,8 @@ export const destinazioniTurchia: Destinazione[] = [
     ],
     attenzioni: [
       "Subir a mediodía en verano: el reflejo del blanco es cegador y el calor quema.",
-      "Esperar que todas las pozas estén llenas: muchas se dejan secas por turnos para proteger el travertino.",
-      "Las terrazas se suben descalzo: llevar calcetines para los tramos calientes."
+      "Esperar todas las pozas llenas: muchos tramos se cierran por turnos para proteger el travertino.",
+      "Seguir las indicaciones de los vigilantes sobre dónde y cómo caminar por el travertino: normalmente descalzo, así que llevar una bolsa para el calzado."
     ],
     // GUIDA-END
     esperienzeSlugs: [],
@@ -442,17 +443,17 @@ export const destinazioniTurchia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Éfeso",
-        "testo": "La gran ciudad grecorromana con la Biblioteca de Celso, el teatro de unas 25.000 plazas, la calle de los Curetes y las Casas de las Terrazas con mosaicos y frescos.",
-        "come": "A 3 km de Selçuk, en taxi o dolmuş; la entrada alta evita la subida.",
-        "quando": "A la apertura, sobre todo cuando llegan los cruceros desde Kuşadası.",
+        "testo": "La gran ciudad grecorromana con la biblioteca de Celso (hacia 125 d.C.), el teatro de unas 25.000 plazas, la vía de los Curetes y las Casas Adosadas, seis residencias romanas con mosaicos y frescos bajo una cubierta.",
+        "come": "Desde Selçuk en taxi o dolmuş; la entrada superior evita la subida.",
+        "quando": "Abierto todos los días de 8 a 18, taquilla hasta las 17.30 (noviembre de 2026). A la apertura, sobre todo cuando llegan los cruceros de Kuşadası.",
         "tempo": "2-3 horas",
         "url": "https://muze.gov.tr/",
-        "consiglio": "Las Casas de las Terrazas tienen entrada aparte y son lo más bello del sitio.",
-        "costo": "40 € con el museo de experiencia de Éfeso; Casas Adosadas aparte. Combinada con Casas Adosadas, museo de Éfeso y San Juan 65 € (2026)."
+        "consiglio": "Las Casas Adosadas son lo mejor del sitio: comprobar en taquilla si están incluidas.",
+        "costo": "La entrada incluye también el museo experiencial de Éfeso; precio para extranjeros en la web oficial"
       },
       {
         "nome": "Basílica de San Juan y castillo de Selçuk",
-        "testo": "La basílica del siglo VI sobre la tumba tradicional del apóstol, con el castillo en la colina.",
+        "testo": "La basílica que Justiniano mandó construir en el siglo VI sobre la tumba tradicional del apóstol, con el castillo en la colina.",
         "come": "A pie desde Selçuk.",
         "quando": "Mañana.",
         "tempo": "1 hora",
@@ -460,7 +461,7 @@ export const destinazioniTurchia: Destinazione[] = [
       },
       {
         "nome": "Casa de la Virgen María (Meryem Ana)",
-        "testo": "El santuario en las colinas sobre Éfeso donde, según la tradición, vivió la Virgen.",
+        "testo": "El santuario en las colinas a unos 7 km de Selçuk que la tradición católica, desde el siglo XIX, considera la última casa de la Virgen. Lo han visitado tres papas.",
         "come": "En taxi o en tour desde Selçuk.",
         "quando": "Mañana.",
         "tempo": "45 minutos"
@@ -468,7 +469,7 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "nome": "Şirince",
         "testo": "Pequeño pueblo de casas de piedra en la colina, con vinos de fruta y tiendas.",
-        "come": "Dolmuş o taxi desde Selçuk, 8 km.",
+        "come": "Dolmuş o taxi desde Selçuk.",
         "quando": "Tarde.",
         "tempo": "1-2 horas",
         "consiglio": "Probar los vinos de fruta antes de comprar."
@@ -568,34 +569,34 @@ export const destinazioniTurchia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Ölüdeniz y Valle de las Mariposas",
-        "testo": "La laguna turquesa, una de las playas más fotografiadas de Turquía. Un poco más allá, el Valle de las Mariposas, al que se llega en barca.",
-        "come": "Dolmuş desde Fethiye, unos 20 minutos.",
+        "testo": "La laguna turquesa, reserva natural protegida con playa Bandera Azul, una de las más fotografiadas de Turquía. Un poco más allá está el Valle de las Mariposas.",
+        "come": "Dolmuş desde Fethiye, unos 14 km.",
         "quando": "Mañana, antes de que lleguen los bañistas.",
         "tempo": "Medio día",
         "consiglio": "El parapente desde el Babadağ es lo más famoso que se hace aquí."
       },
       {
         "nome": "Kayaköy",
-        "testo": "Un pueblo griego abandonado en los años veinte, con cientos de casas de piedra en ruinas en la ladera.",
+        "testo": "Un pueblo griego vaciado con el intercambio de población de 1923, con unas 500 casas de piedra en ruinas en la ladera.",
         "come": "Dolmuş desde Fethiye, 8 km.",
         "quando": "Mañana o tarde, con luz baja.",
         "tempo": "1-1,5 horas"
       },
       {
         "nome": "Saklıkent",
-        "testo": "Un desfiladero profundo donde se camina en agua helada entre paredes de roca.",
-        "come": "En coche desde Fethiye, una hora.",
+        "testo": "Un desfiladero de unos 300 metros de profundidad donde se camina por agua fría del deshielo entre paredes de roca; el tramo practicable a pie se abre desde abril.",
+        "come": "En coche desde Fethiye, unos 50 km.",
         "quando": "Verano, cuando hace calor.",
         "tempo": "2-3 horas",
         "consiglio": "Alquilar zapatos de agua en el lugar."
       },
       {
         "nome": "Kekova y Simena",
-        "testo": "Un tramo de mar con ruinas licias sumergidas y el pueblo de Kaleköy bajo un castillo.",
+        "testo": "Un tramo de mar protegido con las ruinas sumergidas de Dolichiste, destruida por un terremoto en el siglo II, y el pueblo de Kaleköy, la antigua Simena, accesible solo por mar, bajo un castillo.",
         "come": "Excursión en barco o kayak desde Üçağız o Kaş.",
         "quando": "Mañana, con el agua más clara.",
         "tempo": "Medio día",
-        "consiglio": "Mejor en kayak al amanecer para ver las ruinas bajo el agua sin barcos."
+        "consiglio": "Sobre la ciudad sumergida está prohibido bañarse y bucear: se mira desde el barco o el kayak."
       }
     ],
     programmi: [
@@ -647,7 +648,7 @@ export const destinazioniTurchia: Destinazione[] = [
       "Recorrer la costa sin coche: los dolmuş existen, pero las mejores calas quedan fuera.",
       "Agosto sin reservar: Kaş y Ölüdeniz se llenan.",
       "Las excursiones en barco vendidas en la calle varían mucho: mirar qué incluye el precio.",
-      "Parapente: elegir un operador con licencia."
+      "Parapente: elegir un operador autorizado y comprobar que el seguro de viaje lo cubra."
     ],
     // GUIDA-END
     esperienzeSlugs: [],
@@ -678,38 +679,37 @@ export const destinazioniTurchia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Kaleiçi",
-        "testo": "El centro histórico dentro de las murallas, con casas otomanas, la puerta de Adriano y el puerto viejo. De noche está lleno de restaurantes.",
-        "come": "A pie desde la plaza de la torre del reloj.",
+        "testo": "El casco antiguo amurallado, con miles de casas tradicionales de tejados rojos, la puerta de Adriano, levantada por la visita del emperador en 130, y el puerto antiguo, hoy marina. Por la noche está lleno de restaurantes.",
+        "come": "A pie desde el centro moderno.",
         "quando": "Tarde y noche.",
         "tempo": "2 horas"
       },
       {
         "nome": "Museo Arqueológico de Antalya",
-        "testo": "Uno de los mejores de Turquía, con estatuas romanas de Perge y sarcófagos licios.",
-        "come": "Tranvía hasta la parada Müze.",
-        "quando": "Mañana.",
-        "tempo": "1,5-2 horas",
+        "testo": "Era uno de los museos más importantes de Turquía, con las estatuas romanas de Perge. Cerró en julio de 2025 y se está reconstruyendo: en noviembre de 2026 no se puede visitar.",
+        "come": "Cerrado por reconstrucción.",
+        "quando": "Consultar en la web oficial la fecha de reapertura.",
+        "tempo": "—",
         "url": "https://muze.gov.tr/"
       },
       {
         "nome": "Aspendos y Perge",
-        "testo": "El teatro de Aspendos, del siglo II, es de los mejor conservados de la Antigüedad: la grada y el escenario están casi intactos y en verano aún acoge espectáculos. Perge, de camino, tiene el estadio, las termas y una larga calle columnada con un canal de agua en el centro.",
-        "come": "En coche con conductor o en tour, unos 45 minutos.",
-        "quando": "A primera hora.",
-        "tempo": "Medio día cada uno",
+        "testo": "El teatro de Aspendos, construido en 155, se considera el mejor conservado de la Antigüedad y aún acoge un festival de ópera y ballet en verano. Perge, a unos 15 km de Antalya, tiene el estadio, las grandes Termas del Sur y la calle principal con el canal de agua en el centro.",
+        "come": "En coche con conductor o en tour: Aspendos está a unos 40 km de Antalya, Perge de camino.",
+        "quando": "Abiertos todos los días de 8 a 17, taquilla hasta las 16.30 (noviembre de 2026). A primera hora.",
+        "tempo": "Medio día para los dos",
         "url": "https://muze.gov.tr/",
         "consiglio": "Aspendos es la parada que no hay que saltarse.",
-        "costo": "Aspendos 15 €, Perge 11 € para visitantes extranjeros (2026)"
+        "costo": "Precios para visitantes extranjeros en la web oficial"
       }
     ],
     programmi: [
       {
         "titolo": "1 día",
         "tappe": [
-          "Mañana: museo arqueológico",
-          "Paseo por Kaleiçi",
+          "Mañana: Perge y Aspendos",
           "Tarde: baño en Konyaaltı",
-          "Noche: puerto viejo"
+          "Noche: Kaleiçi y el puerto viejo"
         ]
       }
     ],

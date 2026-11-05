@@ -40,7 +40,7 @@ export const destinazioniMarocco: Destinazione[] = [
     luoghi: [
       {
         "nome": "Jemaa el-Fna Square",
-        "testo": "The heart of the medina: by day orange-juice stalls and snake charmers, in the evening it fills with smoke, drums, musicians and open-air kitchens. Since 2008 it has been UNESCO intangible heritage.",
+        "testo": "The heart of the medina: by day orange-juice stalls, water sellers and snake charmers, by evening storytellers, musicians and dozens of open-air kitchens. UNESCO proclaimed it intangible heritage in 2001 and inscribed it on the List in 2008.",
         "come": "Reached on foot from the medina; taxis stop at the edges. You walk among the stalls.",
         "quando": "At sunset and in the evening, when the kitchens open.",
         "tempo": "1-2 hours",
@@ -48,15 +48,15 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         "nome": "Ben Youssef Madrasa",
-        "testo": "The Koranic school founded in the 14th century and rebuilt by the Saadian sultans in the 16th, among the largest in the Maghreb. The courtyard has a marble pool in the middle and walls of zellige, stucco and carved cedar up to the roof. Upstairs you see the students' small cells, looking onto the courtyard.",
-        "come": "On foot from the north medina, about 15 minutes from Jemaa el-Fna.",
+        "testo": "The Koranic school first built in the Marinid era in the 14th century and rebuilt by the Saadian sultan Abdallah al-Ghalib, finished in 1564-65: it was then the largest in the Maghreb and housed up to 800 students. The courtyard has a large pool in the centre and walls of zellige, stucco and carved cedar. Around it, on two floors, are about 130 student cells.",
+        "come": "On foot in the northern medina, from Jemaa el-Fna.",
         "quando": "Morning at opening, to have the courtyards empty.",
         "tempo": "45 minutes",
         "costo": "50 MAD (from my trip)"
       },
       {
         "nome": "Bahia Palace",
-        "testo": "The 19th-century palace of the grand vizier, with courtyards, gardens, painted rooms and cedar ceilings.",
+        "testo": "The palace begun in the 1860s by the grand vizier Si Musa and enlarged by his son Ba Ahmed until 1900: about 150 rooms, courtyards, gardens and painted cedar ceilings.",
         "come": "On foot from the Mellah or Jemaa el-Fna.",
         "quando": "Morning.",
         "tempo": "1 hour",
@@ -64,26 +64,26 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         "nome": "Saadian Tombs",
-        "testo": "The mausoleum of the 16th-century Saadian sultans, with Carrara marble tombs and a room with twelve columns.",
-        "come": "Near the kasbah, a 15-minute walk from Jemaa el-Fna.",
+        "testo": "The Saadian royal necropolis, enlarged above all by Ahmad al-Mansur (1578-1603), with Carrara marble columns, muqarnas and zellige. The Hall of the Twelve Columns is al-Mansur's tomb.",
+        "come": "Behind the Kasbah Mosque, on foot from Jemaa el-Fna.",
         "quando": "Early morning: in the afternoon a queue forms.",
         "tempo": "30-45 minutes",
         "costo": "70 MAD (from my trip)"
       },
       {
         "nome": "Jardin Majorelle",
-        "testo": "The botanical garden painted cobalt blue, created by the painter Jacques Majorelle and later restored by Yves Saint Laurent. Inside is the Berber museum.",
-        "come": "Taxi from the medina in 15 minutes, in the Guéliz district.",
-        "quando": "Morning at opening: entries are limited and the garden fills.",
+        "testo": "The one-hectare botanical garden created by the painter Jacques Majorelle from 1923, with the cobalt blue that bears his name; in the 1980s Yves Saint Laurent and Pierre Bergé bought and restored it. The villa houses the Pierre Bergé Museum of Berber Arts.",
+        "come": "Taxi from the medina, in the Guéliz district. Tickets online only, on the official site tickets.jardinmajorelle.com.",
+        "quando": "Garden open daily 8am-5:30pm, last entry 5pm; Berber museum 8:30am-5pm (2026). Best at opening.",
         "tempo": "1-1.5 hours",
         "costo": "150 MAD (from my trip)",
-        "consiglio": "Book the ticket beforehand, because in the middle of the day a queue forms.",
+        "consiglio": "Buy tickets only on the official site: those bought elsewhere do not give access.",
         "url": "https://www.jardinmajorelle.com/"
       },
       {
         "nome": "Yves Saint Laurent Museum",
-        "testo": "A few steps from the Jardin Majorelle, the pink brick and terracotta building shows rotating selections of the designer's clothes, sketches and photographs; he came to Marrakech every year. There is also a temporary exhibition room and a bookshop.",
-        "come": "On foot from the Jardin Majorelle, on the same street. Separate ticket, to buy on the official site.",
+        "testo": "Opened in 2017 a few steps from the Jardin Majorelle, it shows rotating selections of the designer's clothes, sketches and photographs; he had a home in Marrakech. There is also a temporary exhibition hall.",
+        "come": "On foot from the Jardin Majorelle. Tickets on the official site tickets.jardinmajorelle.com.",
         "quando": "Open every day except Wednesday, 10am-6pm, last entry 5:30pm (2026).",
         "tempo": "1 hour",
         "url": "https://www.museeyslmarrakech.com/",
@@ -91,8 +91,8 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         "nome": "Koutoubia Mosque",
-        "testo": "The 12th-century Almohad minaret, about 77 metres high, is the city's landmark and the model for the Giralda in Seville. The mosque is closed to non-Muslims, but you can walk around it and through the gardens behind, with the remains of the first mosque.",
-        "come": "On foot from Jemaa el-Fna, five minutes west.",
+        "testo": "The Almohad mosque built between 1158 and 1195, with a minaret about 77 metres high that is the city's landmark and probably inspired the Giralda in Seville. It is closed to non-Muslims; on the esplanade you see the remains of the first mosque, begun in 1147.",
+        "come": "On foot from Jemaa el-Fna, heading west.",
         "quando": "Sunset, when the minaret takes on colour and the evening call to prayer starts.",
         "tempo": "30 minutes",
         "costo": "Exterior and gardens free"
@@ -154,9 +154,9 @@ export const destinazioniMarocco: Destinazione[] = [
     attenzioni: [
       "Unauthorized guides who offer themselves in the medina then ask for a high tip: agree beforehand or use an official guide.",
       "If a boy says \"the road is closed\", he is trying to take you to a shop: check on the map.",
-      "In the souqs haggle starting from about a third of the stated price.",
+      "In the souqs haggle starting well below the first price.",
       "Photos of the charmers and musicians in Jemaa el-Fna: you pay, agree beforehand.",
-      "The Jardin Majorelle has limited entries: do not arrive without a ticket."
+      "The Jardin Majorelle sells tickets online only: do not turn up without one."
     ],
     // GUIDA-END
     esperienzeSlugs: ['tour-marrakech', 'jardin-majorelle'],
@@ -190,26 +190,26 @@ export const destinazioniMarocco: Destinazione[] = [
     luoghi: [
       {
         "nome": "Telouet Kasbah",
-        "testo": "The old residence of the lords of the valley, now partly collapsed outside but with interiors rich in stucco, zellige and painted ceilings.",
-        "come": "From Marrakech 2.5 hours over the Tizi n'Tichka pass; visited with a local guide.",
+        "testo": "The residence of the Glaoui clan, begun in 1860 on the old caravan route over the Atlas. Much of the palace is in ruins and the 2023 earthquake also hit the restored part; the reception rooms have zellige, stucco and painted cedar ceilings.",
+        "come": "From Marrakech over the Tizi n'Tichka pass; visited with a local guide. Ask beforehand which rooms are open.",
         "quando": "Morning.",
         "tempo": "1 hour",
         "consiglio": "The contrast between the mud outside and the decorated interiors is the surprise of the visit."
       },
       {
         "nome": "Aït Benhaddou Ksar",
-        "testo": "The fortified village in rammed earth, UNESCO heritage since 1987, a set for many films. You climb to the top for the view over the valley.",
-        "come": "About an hour from Telouet; you cross the river on foot and climb between the houses.",
+        "testo": "The fortified mudbrick village on the Ounila river, UNESCO World Heritage since 1987, a set for films from \"Lawrence of Arabia\" to \"Gladiator\". You climb to the top for the view over the valley.",
+        "come": "By car from Telouet; from the modern village you cross the river on the footbridge and climb between the houses.",
         "quando": "Morning, for the best light on the facade and no heat.",
         "tempo": "1-1.5 hours"
       },
       {
         "nome": "Taourirt Kasbah in Ouarzazate",
-        "testo": "The kasbah of the Glaoui, the lords of the Atlas, in the centre of Ouarzazate: a maze of courtyards and rammed-earth rooms, partly restored, with painted wooden ceilings and latticed windows. It is a good introduction to the mud architecture you then see in the valleys.",
-        "come": "In the centre of Ouarzazate, about half an hour's drive from Aït Benhaddou. Visit on your own or with a guide at the entrance.",
+        "testo": "The kasbah enlarged by the Glaoui in the 19th century in the centre of Ouarzazate, where the Draa and Dadès valleys meet. Part of it is restored and open, with decorated rooms and reed ceilings; other parts are still lived in. It was damaged by the 2023 earthquake.",
+        "come": "In central Ouarzazate. Visit on your own or with a guide at the entrance.",
         "quando": "Late afternoon, on the way to the valleys. Hours on site.",
         "tempo": "45 minutes",
-        "consiglio": "The Atlas Studios at the edge of town are only for film lovers: the kasbah is more interesting."
+        "consiglio": "The town's film studios are only for film lovers: the kasbah is more interesting."
       }
     ],
     programmi: [
@@ -217,9 +217,9 @@ export const destinazioniMarocco: Destinazione[] = [
         "titolo": "1 day",
         "tappe": [
           "Leave Marrakech, Tizi n'Tichka pass",
-          "Telouet Kasbah",
-          "Lunch at Tawesna",
-          "Aït Benhaddou Ksar"
+          "Telouet kasbah",
+          "Lunch along the way",
+          "Ksar of Aït Benhaddou"
         ]
       }
     ],
@@ -232,7 +232,7 @@ export const destinazioniMarocco: Destinazione[] = [
       {
         "nome": "Ouarzazate",
         "perChi": "those who want more services",
-        "testo": "A town 30 km away, with hotels in every range and restaurants."
+        "testo": "A nearby town, with hotels in every price range and restaurants."
       }
     ],
     sapori: [
@@ -295,16 +295,16 @@ export const destinazioniMarocco: Destinazione[] = [
     luoghi: [
       {
         "nome": "Todra Gorges",
-        "testo": "A limestone canyon in the High Atlas: in the last kilometre the walls rise for hundreds of metres and narrow to about ten metres. You walk along the bottom beside the stream, with climbers on the walls.",
-        "come": "From Aït Benhaddou about 3 hours by road; you stop at a lot and walk.",
+        "testo": "A canyon in the High Atlas: in the last 600 metres the smooth walls rise to about 160 metres and the floor narrows to around ten metres. You walk along the bottom beside the stream.",
+        "come": "By car on the road towards Merzouga; you stop in a car park and walk.",
         "quando": "Morning, before the groups.",
         "tempo": "30 minutes"
       },
       {
         "nome": "Erg Chebbi and the night in the desert",
-        "testo": "The dunes up to 150 meters high near Merzouga. You ride a camel to the tented camp, have dinner, sleep under a sky with no lights and return at dawn.",
-        "come": "The camel leaves from the village, about an hour to the camp.",
-        "quando": "Sunset and dawn.",
+        "testo": "Dunes up to about 150 metres high, stretching some thirty kilometres, near Merzouga. You ride a camel to the tented camp, have dinner, sleep under an unlit sky and return at dawn.",
+        "come": "The camel ride leaves from the village to the camp.",
+        "quando": "Sunset and dawn; the best season is October to April.",
         "tempo": "One night",
         "consiglio": "Bring a turban or pashmina for sand and the night cold, and charge your phone beforehand."
       },
@@ -318,8 +318,8 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         "nome": "Khamlia and Gnawa music",
-        "testo": "A village south of Merzouga lived in by Gnawa families, descendants of enslaved people brought from sub-Saharan Africa. In the music house they play drums and qraqeb, the iron castanets, and serve tea: a simple way to understand another part of Morocco's history.",
-        "come": "By car or 4x4 from Merzouga, about 15 minutes. It is often a stop on the jeep tours around Erg Chebbi.",
+        "testo": "A village on the edge of Erg Chebbi linked to Gnawa music: in the music houses they play drums and qraqeb, the iron castanets, and serve tea. In summer it hosts a three-night Gnawa festival.",
+        "come": "By car or 4x4 from Merzouga. It is often a stop on jeep tours around Erg Chebbi.",
         "quando": "Afternoon, before leaving for the desert camp.",
         "tempo": "1 hour",
         "costo": "Donation for the musicians",
@@ -404,7 +404,7 @@ export const destinazioniMarocco: Destinazione[] = [
       {
         "nome": "Tamnougalt Kasbah",
         "testo": "A fortified kasbah in the Draa Valley, lived in by Berber families. Visited with a local guide who explains the rooms and village life.",
-        "come": "From Merzouga about 4 hours by road.",
+        "come": "By car along the Draa valley.",
         "quando": "Evening, for the light on the mud walls.",
         "tempo": "1 hour",
         "costo": "20 MAD per person plus about 200 MAD tip for the guide (from my trip)"
@@ -419,11 +419,11 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         "nome": "Zagora and the 'Timbuktu 52 days' sign",
-        "testo": "The main town of the Draa valley, the last before the desert to the south. On the way out is the painted sign showing 52 days by camel to Timbuktu, a memory of the caravans. Around it, palm groves, kasbahs and the village of Tamegroute with its green pottery.",
-        "come": "From Agdz about 1.5 hours south along the valley. Tamegroute is 20 km further on.",
-        "quando": "Morning for Tamegroute and the workshops, sunset on the Tinfou dunes.",
+        "testo": "The main town of the Draa valley. On the way out there is the mural that replaced the old \"Tombouctou 52 jours\" sign, the time caravans took to reach Timbuktu. A little further south is Tamegroute, with the zawiya library and glazed pottery.",
+        "come": "From Agdz south along the valley. Tamegroute is a little further on.",
+        "quando": "Morning for Tamegroute and the potters' workshops.",
         "tempo": "Half a day",
-        "consiglio": "In Tamegroute the Koranic library and the potters' kilns are worth more than the Zagora dunes, small compared with Merzouga."
+        "consiglio": "In the Tamegroute library the books can only be looked at on site; the potters' kilns are worth more than the small local dunes."
       }
     ],
     programmi: [
@@ -452,7 +452,7 @@ export const destinazioniMarocco: Destinazione[] = [
     sapori: [
       {
         "nome": "Draa dates",
-        "testo": "Among the best in Morocco."
+        "testo": "The produce of the valley's palm groves."
       },
       {
         "nome": "Vegetable tagine",
@@ -469,7 +469,7 @@ export const destinazioniMarocco: Destinazione[] = [
     ],
     attenzioni: [
       "Check how much the local guide asks before the visit: the tip is agreed.",
-      "The heat is strong from May to September.",
+      "The heat is intense in summer.",
       "The area is very isolated: bring cash."
     ],
     // GUIDA-END
@@ -509,43 +509,43 @@ export const destinazioniMarocco: Destinazione[] = [
     luoghi: [
       {
         "nome": "Taliouine and saffron",
-        "testo": "The village at the center of Moroccan saffron production. You can see how the flower is picked and sorted.",
-        "come": "From Agdz about 2.5 hours by road.",
-        "quando": "October-November for the harvest.",
+        "testo": "The village famous for saffron, among the world's main exporters. In autumn, usually in November, it holds the international saffron festival.",
+        "come": "By car from Agdz, on the road towards Taroudant.",
+        "quando": "Autumn, in the flowering season.",
         "tempo": "1 hour",
         "consiglio": "Buy saffron at cooperatives and recommended places, not at tourist shops for passers-by."
       },
       {
         "nome": "Taghazout and surfing",
-        "testo": "The fishing village that became Morocco's surf capital, with steady waves and schools for beginners.",
-        "come": "From Agadir 30 minutes by taxi or bus; schools and rental on site.",
-        "quando": "Early May: ideal waves to start.",
+        "testo": "The fishing village about 19 km north of Agadir that became one of Morocco's surf spots, with schools for beginners; just north is Anchor Point, with its long right-handers.",
+        "come": "From Agadir by taxi or bus; schools and rental on site.",
+        "quando": "The best conditions run from September to April; for beginners the school and the day matter most.",
         "tempo": "Half a day",
         "costo": "Lesson 250 MAD per person, showers 10 MAD (from my trip)",
         "consiglio": "Stop for lunch in Taghazout after the lesson."
       },
       {
         "nome": "Taroudant",
-        "testo": "A small town inside almost intact red earth walls, about 7 km long, which is why it is called 'little Marrakech'. It has two souks, a Berber one and an Arab one, far less touristy than those in Marrakech, and a horse-drawn carriage ride along the walls is a good way to see it.",
-        "come": "From Taliouine about 1 hour, towards Agadir.",
+        "testo": "A small town inside earthen walls 6 to 8 km long, with bastions and nine gates still in use. It has two souqs near the main squares, far less touristy than Marrakech's, and is nice to tour by carriage along the walls.",
+        "come": "By car from Taliouine, towards Agadir.",
         "quando": "Afternoon.",
         "tempo": "1-2 hours"
       },
       {
         "nome": "Agadir Oufella Kasbah",
-        "testo": "The walls of the old kasbah on the hill above the harbour, the only part of the city that survived the 1960 earthquake. On its side are the Arabic words 'God, Homeland, King', lit at night, and from the top you see the whole bay.",
-        "come": "From the seafront by taxi or by the cable car that goes up from the harbour area.",
+        "testo": "The walls of the old kasbah on the hill above the port, destroyed by the 1960 earthquake together with the old town inside it. From the top you see the whole bay.",
+        "come": "By taxi or by the cable car running since 2022, which climbs about 1.7 km from the Tildi bridge.",
         "quando": "Sunset, with the light on the bay.",
         "tempo": "1 hour",
-        "consiglio": "Go up by cable car and come down by taxi or on foot along the road, looking at the fishing port."
+        "consiglio": "Go up by cable car and come down by taxi or on foot, looking at the fishing port."
       },
       {
         "nome": "Souk El Had",
-        "testo": "Agadir's big covered market, inside brick walls with a dozen gates: fruit, spices, argan oil, pottery and clothes, with far more Moroccans than tourists. It is the right place to buy argan and amlou at normal prices.",
-        "come": "By taxi from the seafront, about 10 minutes.",
-        "quando": "Morning. Closed on Mondays; Sunday is the busiest day.",
+        "testo": "Agadir's big covered market, inside walls with many gates: fruit, spices, argan oil, ceramics and clothes, with far more Moroccans than tourists. It is the right place to buy argan and amlou at normal prices.",
+        "come": "By taxi from the seafront.",
+        "quando": "Morning. Check opening hours and closing day locally.",
         "tempo": "1.5-2 hours",
-        "consiglio": "The fruit and vegetable stalls are the liveliest part: mint tea in the cafes inside costs very little."
+        "consiglio": "The fruit and vegetable stalls are the liveliest part."
       }
     ],
     programmi: [
@@ -628,15 +628,15 @@ export const destinazioniMarocco: Destinazione[] = [
     luoghi: [
       {
         "nome": "Essaouira Medina",
-        "testo": "The white and blue city ringed by 18th-century walls, UNESCO heritage, with pedestrian alleys and woodworking shops in thuya.",
-        "come": "On foot: enter by Bab Doukkala or from the harbor.",
+        "testo": "The white-and-blue town built from 1760 by order of Sultan Mohammed III, with walls and sea bastions, UNESCO World Heritage since 2001. Pedestrian lanes and thuya-wood carving workshops.",
+        "come": "On foot: you enter through the main gates or from the port.",
         "quando": "Late afternoon, with better light.",
         "tempo": "2-3 hours",
-        "consiglio": "The guided tour of about an hour and a half gives good orientation."
+        "consiglio": "A guided walking tour gives you a good sense of direction."
       },
       {
         "nome": "Harbor and Skala",
-        "testo": "The harbor with the fishermen's blue boats and the ramparts with cannons, where you see the gulls and the fish stalls.",
+        "testo": "The port with the fishermen's blue boats and the Sqala, the bastions with cannons also used as a Game of Thrones set, with gulls and fish stalls.",
         "come": "On foot from the medina.",
         "quando": "Morning, when the trawlers arrive, and at sunset.",
         "tempo": "1 hour"
@@ -652,16 +652,16 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         "nome": "Ranch de Diabat",
-        "testo": "Horse and quad rides on the sandy coast near the remains of the old Diabat castle.",
-        "come": "From the medina by taxi, about 10 minutes.",
+        "testo": "Horse and quad rides along the sandy coast towards Diabat, about 5 km south, near the ruins of Bordj El Berod.",
+        "come": "By taxi from the medina.",
         "quando": "Late afternoon.",
         "tempo": "1-2 hours"
       },
       {
         "nome": "Beach and kitesurfing",
-        "testo": "The long sandy bay south of the medina, swept by the trade winds for much of the year: this is why Essaouira is one of Africa's kitesurfing and windsurfing capitals. Swimming is limited, the water is cold; you walk as far as Diabat with the island of Mogador in front.",
-        "come": "On foot from the medina, leaving by Bab Sbaa to the south. Kite schools and rentals on the beach.",
-        "quando": "Afternoon, when the wind is steadier. It blows harder in summer.",
+        "testo": "The long sandy bay south of the medina, swept by strong trade winds: that is why kitesurfers and windsurfers love it. Few people swim, the water is cold; you walk to Diabat with Mogador island in front.",
+        "come": "On foot from the medina heading south. Kite schools and rental on the beach.",
+        "quando": "Afternoon, when the wind is steadier.",
         "tempo": "Half a day",
         "consiglio": "For a kite lesson choose a licensed school with certified instructors, and ask what the insurance covers."
       }

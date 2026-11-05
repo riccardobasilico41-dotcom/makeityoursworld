@@ -48,26 +48,26 @@ export const destinazioniUngheria: Destinazione[] = [
     luoghi: [
       {
         nome: "Castillo de Buda y Palacio Real",
-        testo: "La colina de Buda sobre el Danubio, con el Palacio Real, hoy sede de museos (Galería Nacional, Museo de Historia). Se sube con el funicular Sikló o a pie.",
-        come: "Funicular desde Clark Ádám tér o bus 16 desde Széll Kálmán tér.",
-        quando: "Mañana, para evitar los grupos; los patios son libres.",
+        testo: "La colina de Buda sobre el Danubio, con el Palacio Real, hoy sede de museos (Galería Nacional Húngara, Museo de Historia de Budapest, Biblioteca Nacional Széchényi). Se sube con el funicular Sikló o a pie.",
+        come: "Funicular Sikló desde Clark Ádám tér, junto al Puente de las Cadenas, o a pie.",
+        quando: "Mañana, para evitar los grupos.",
         tempo: "2-3 horas",
         consiglio: "Desde el lado sur de la colina se tiene la mejor vista del Danubio."
       },
       {
         nome: "Bastión de los Pescadores e Iglesia de Matías",
-        testo: "El Bastión es una terraza neorrománica de 1902 (nunca fue un bastión de verdad) con siete torretas que recuerdan las tribus magiares. Al lado, la iglesia de Matías tiene el tejado de tejas de colores.",
+        testo: "El Bastión es una terraza neorrománica construida entre 1895 y 1902 (nunca fue un bastión de verdad), con siete torretas por las siete tribus magiares que se asentaron en la cuenca de los Cárpatos. Al lado, la iglesia de Matías tiene el tejado de tejas de colores.",
         come: "A pie desde el Castillo (5 minutos).",
         quando: "Amanecer o atardecer, para fotos sin multitudes; mucha gente a mediodía.",
         tempo: "1-1,5 horas",
         url: "https://www.fishermansbastion.com",
-        consiglio: "Las terrazas más bajas son libres; solo la parte alta tiene entrada."
+        consiglio: "Parte de las terrazas es de pago: precios y horarios en la web oficial."
       },
       {
         nome: "Parlamento húngaro",
-        testo: "Terminado en 1904, entre los parlamentos más grandes del mundo, de estilo neogótico sobre el Danubio. La visita guiada incluye la Sagrada Corona de San Esteban.",
+        testo: "Terminado en 1904, es el edificio más grande de Hungría (268 metros de largo), neogótico sobre el Danubio. Solo se visita con tour guiado, que pasa por la sala central donde desde el año 2000 se expone la Sagrada Corona.",
         come: "Tranvía 2 o metro M2 hasta Kossuth Lajos tér. Las entradas se reservan online para una hora.",
-        quando: "Mañana; llevar documento de identidad.",
+        quando: "Mañana; hay control de seguridad en la entrada.",
         tempo: "1 hora",
         url: "https://www.parlament.hu",
         consiglio: "Reservar con días de antelación, sobre todo en temporada alta."
@@ -83,29 +83,28 @@ export const destinazioniUngheria: Destinazione[] = [
       },
       {
         nome: "Termas Széchenyi",
-        testo: "El mayor complejo termal de Europa, con 18 piscinas y agua entre 27 y 38 grados, en un edificio amarillo neobarroco en Városliget. Se mezclan locales y turistas.",
+        testo: "Uno de los mayores complejos termales de Europa, abierto en 1913: 15 piscinas interiores y 3 exteriores, las de fuera entre 27 y 38 grados, en un edificio amarillo neobarroco en Városliget. Se mezclan locales y turistas.",
         come: "Metro M1 hasta Széchenyi fürdő.",
         quando: "Mañana entre semana; las noches de verano tienen fiestas.",
         tempo: "3-4 horas",
         url: "https://www.szechenyibath.hu",
-        consiglio: "Llevar chancletas y toalla, o alquilarlas; las cabinas se reservan en la entrada."
+        consiglio: "Llevar chancletas y toalla. Horarios y precios cambian: consultarlos en la web oficial, donde también se compran las entradas."
       },
       {
         nome: "Gran Mercado Central",
-        testo: "Un mercado de principios del siglo XX con pimentón, salchichones, strudel y lángos en el piso superior. Cerrado el domingo.",
+        testo: "Un mercado cubierto abierto en 1897, al final de Váci utca, con pimentón, salchichones y strudel; en el piso superior hay puestos de comida y recuerdos. Cerrado el domingo.",
         come: "Tranvía 47/49 hasta Fővám tér.",
         quando: "Mañana entre semana; cerrado el domingo.",
         tempo: "1-1,5 horas",
-        url: "https://www.csarnok.hu",
         consiglio: "Pagar en forintos, las casas de cambio aquí son caras."
       },
       {
         nome: "Gran Sinagoga de la calle Dohány",
-        testo: "La mayor sinagoga de Europa, de estilo morisco, con el jardín memorial y la escultura Árbol de la vida. Forma parte del barrio judío.",
+        testo: "La mayor sinagoga de Europa, unas 3.000 plazas, de estilo neomorisco. En el patio está el parque memorial Raoul Wallenberg con el Árbol de la vida de Imre Varga, un sauce de metal con los nombres de las víctimas en las hojas.",
         come: "Metro M2 hasta Astoria o tranvía 47/49.",
-        quando: "Cerrada el sábado y en las fiestas; mañana entre semana.",
+        quando: "Mañana entre semana; días de cierre en la web oficial.",
         tempo: "1,5 horas",
-        consiglio: "Entrada combinada para sinagoga y museo."
+        consiglio: "En el complejo también está el Museo Judío Húngaro."
       },
       {
         nome: "Barrio judío y ruin bars",
@@ -113,7 +112,7 @@ export const destinazioniUngheria: Destinazione[] = [
         come: "A pie desde el centro.",
         quando: "Noche.",
         tempo: "2-3 horas",
-        consiglio: "El Szimpla Kert los domingos tiene también un mercado de productores."
+        consiglio: "De día el Szimpla Kert está más tranquilo y se visita mejor."
       }
     ],
     programmi: [
@@ -180,11 +179,11 @@ export const destinazioniUngheria: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Taxis: usar Bolt o Főtaxi, evitar los que no tienen taxímetro cerca de las estaciones.",
-      "Bares con «consumición» en el centro de Pest: locales que inflan la cuenta; mejor elegir bares con la carta a la vista.",
+      "Taxis: usar compañías conocidas; desconfiar de los taxistas que recomiendan un bar o local, algunos están de acuerdo con quien infla la cuenta.",
+      "Bares y restaurantes que inflan la cuenta, a veces acompañando a los turistas al cajero: pedir siempre la carta con precios antes de pedir.",
       "Cambio: usar cajeros bancarios y rechazar que se cobre en euros.",
       "Transporte público: billetes a validar o con la app BudapestGO; los revisores multan a los turistas.",
-      "El servicio (12-15%) suele estar ya incluido: revisar la cuenta."
+      "El servicio a veces ya está incluido: revisar la cuenta."
     ],
     esperienzeSlugs: ['terme-szechenyi', 'terme-gellert', 'crociera-danubio', 'ruin-bar-tour'],
     tripSlugs: ['budapest-weekend'],

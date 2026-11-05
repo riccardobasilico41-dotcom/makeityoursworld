@@ -65,7 +65,7 @@ export const destinazioniNorvegia: Destinazione[] = [
     luoghi: [
       {
         nome: "Parco Vigeland (Frognerparken)",
-        testo: "Il più grande parco di sculture di un solo artista: oltre 200 figure in bronzo, granito e ferro di Gustav Vigeland, tra cui il Monolite alto 14 metri con 121 corpi intrecciati. È il luogo più visitato della Norvegia.",
+        testo: "Il più grande parco di sculture di un solo artista: 212 sculture in bronzo e granito di Gustav Vigeland, tra cui il Monolite alto 14 metri con 121 corpi intrecciati. Il Frognerparken è l'attrazione turistica più visitata della Norvegia.",
         come: "Metropolitana o tram fino a Majorstuen/Vigelandsparken, poi 10 minuti a piedi. Si cammina in un asse di circa 850 metri dal cancello al monolite.",
         quando: "Aperto sempre, ingresso libero. Mattina presto o sera d'estate per avere le sculture senza folla.",
         tempo: "1,5-2 ore",
@@ -87,7 +87,7 @@ export const destinazioniNorvegia: Destinazione[] = [
         nome: "Fortezza di Akershus",
         testo: "Fortezza medievale del 1300 sul porto, poi castello rinascimentale. Il parco è gratuito e le mura offrono una bella veduta sul porto di Oslo; dentro ci sono il museo militare e quello della Resistenza.",
         come: "A piedi dal centro in 10-15 minuti; ingresso libero al parco.",
-        quando: "Giorno intero; il cambio della guardia nella piazza esterna è attrazione gratuita.",
+        quando: "Giorno intero; il complesso è sorvegliato dalla Guardia reale. Dentro ci sono anche il Museo delle forze armate e quello della Resistenza.",
         tempo: "1,5 ore",
         costo: "parco libero; musei e castello con biglietto separato",
         consiglio: "Salire sulle mura al tramonto: la luce sul fiordo è la migliore."
@@ -115,7 +115,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       {
         nome: "Holmenkollen",
         testo: "Il trampolino di salto con gli sci di Oslo, con museo dello sci e simulatore, sopra la città. La vista sul fiordo e sulla foresta è la ragione per salire.",
-        come: "Metropolitana linea 1 fino a Holmenkollen, circa 30 minuti dal centro. Il percorso fino al trampolino è a piedi.",
+        come: "Metropolitana linea 1 fino a Holmenkollen. Il percorso fino al trampolino è a piedi.",
         quando: "Giorno, con cielo limpido; in inverno spesso c'è neve.",
         tempo: "2 ore",
         url: "https://www.holmenkollen.com",
@@ -197,7 +197,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "L'alcol forte si vende solo da Vinmonopolet; i supermercati vendono birra fino a 4,7% e solo in orari limitati (chiusi la domenica).",
+      "L'alcol forte si vende solo da Vinmonopolet; nei supermercati la birra si vende fino alle 20 nei giorni feriali e fino alle 18 il sabato.",
       "Pickpocket intorno alla stazione e a Karl Johans gate: tenere borsa e telefono davanti.",
       "Il traffico elettrico e i monopattini sfrecciano sulle piste ciclabili: guardare prima di attraversare.",
       "La metropolitana si usa con i biglietti dell'app Ruter: comprare prima di salire, i controlli ci sono."
@@ -235,7 +235,7 @@ export const destinazioniNorvegia: Destinazione[] = [
     luoghi: [
       {
         nome: "Nyholms Fort",
-        testo: "Un forte del Settecento sulla punta del porto di Bodø, oggi con vista sul porto e sulle isole. Si raggiunge in 10 minuti a piedi dal porto.",
+        testo: "Un vecchio forte sulla punta del porto di Bodø, oggi con vista sul porto e sulle isole. Si raggiunge in 10 minuti a piedi dal porto.",
         come: "A piedi dal porto.",
         quando: "Tardo pomeriggio, con la luce sulle isole.",
         tempo: "1 ora",
@@ -244,7 +244,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Spiaggia di Mjelle",
-        testo: "Una lunga spiaggia di sabbia chiara a nord del centro, tra dune e mare. D'estate si cammina anche di sera con la luce lunga.",
+        testo: "Una lunga spiaggia di sabbia a nord del centro, tra dune e mare. D'estate si cammina anche di sera con la luce lunga.",
         come: "In auto o con bus locale da Bodø.",
         quando: "Estate, sera.",
         tempo: "1-2 ore",
@@ -253,8 +253,8 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Saltstraumen",
-        testo: "Uno degli stretti con la corrente di marea più forte del mondo, circa 30 km da Bodø: l'acqua passa a oltre 30 km/h formando vortici. Non l'ho visitato, ma è la gita classica da Bodø.",
-        come: "In auto o con bus da Bodø, circa 40 minuti.",
+        testo: "Una delle correnti di marea più forti del mondo, a sud-est di Bodø: a ogni ciclo di marea passano fino a 400 milioni di metri cubi d'acqua, formando vortici. Non l'ho visitato, ma è la gita classica da Bodø.",
+        come: "In auto o con bus da Bodø.",
         quando: "Controllare le tabelle delle maree: la corrente è più forte a mezzo flusso, circa ogni sei ore.",
         tempo: "2-3 ore",
         consiglio: "Da guardare dal ponte; non si fa il bagno."
@@ -314,7 +314,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Trollfjord",
-        testo: "Un fiordo stretto di circa 2 km con pareti ripide e aquile di mare. In estate il giro in RIB (gommone veloce) è il modo più diffuso per entrarci.",
+        testo: "Un fiordo stretto di circa 2 km, con pareti ripide e un'imboccatura larga un centinaio di metri. In estate il giro in RIB (gommone veloce) è il modo più diffuso per entrarci.",
         come: "Escursione prenotata con operatore da Svolvær, 2-3 ore.",
         quando: "Estate, con cielo sereno.",
         tempo: "2-3 ore",
@@ -322,7 +322,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Svolværgeita",
-        testo: "Una roccia a due corna sopra il paese, sfida classica per gli alpinisti che saltano da un corno all'altro. Si raggiunge con un sentiero di salita ripida di circa un'ora e mezza.",
+        testo: "Una roccia a due corna, Storhorn e Lillehorn, sopra il paese: gli alpinisti saltano il vuoto di circa un metro e mezzo tra l'una e l'altra, con il cimitero 300 metri più in basso. Alla base si arriva con un sentiero ripido.",
         come: "Sentiero dal paese, ben segnato ma ripido.",
         quando: "Giornata sgombra da nuvole.",
         tempo: "3-4 ore",
@@ -330,7 +330,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Kabelvåg e Lofotr",
-        testo: "Poco fuori Svolvær, il Lofotmuseet nel vecchio porto di Kabelvåg racconta la pesca; a Borg c'è il Lofotr Viking Museum con una ricostruzione di casa da capo vichingo.",
+        testo: "Poco fuori Svolvær, il Lofotmuseet nel vecchio porto di Kabelvåg racconta la pesca; a Borg c'è il Lofotr Viking Museum con la ricostruzione della casa di un capo vichingo, aperto dal 1° maggio al 15 settembre.",
         come: "In auto, circa 10 minuti per Kabelvåg e 55 per Borg.",
         quando: "Giorno pieno.",
         tempo: "2-3 ore",
@@ -466,11 +466,11 @@ export const destinazioniNorvegia: Destinazione[] = [
     luoghi: [
       {
         nome: "Reinebringen",
-        testo: "La salita più famosa delle Lofoten: circa 450 metri di dislivello su una scalinata di pietra costruita dagli sherpa nepalesi. Dalla cima si vede Reine con i fiordi e le montagne intorno.",
+        testo: "La salita più famosa delle Lofoten: una cima di 448 metri raggiunta da una scalinata di pietra costruita tra il 2016 e il 2019. Dalla cima si vede Reine con i fiordi e le montagne intorno.",
         come: "Parcheggio nel villaggio, sentiero ben segnato; salita ripida ma breve.",
         quando: "Con cielo sereno e senza pioggia, per evitare gradini scivolosi. Mattina presto o sera.",
         tempo: "circa 1h50 tra salita, sosta e discesa",
-        costo: "parcheggio 200 NOK per 3 ore (viaggio 2025, da ricontrollare)",
+        costo: "parcheggio a pagamento nel villaggio",
         consiglio: "Controllare le previsioni prima: con nuvole non si vede nulla dalla cima."
       },
       {
@@ -484,7 +484,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Spiaggia di Bunes",
-        testo: "Una spiaggia di sabbia bianca raggiungibile solo in traghetto da Reine, con una camminata di circa mezz'ora sulle montagne. È uno dei luoghi più belli e meno accessibili dell'arcipelago.",
+        testo: "Una spiaggia di sabbia bianca raggiungibile solo in traghetto da Reine, con una camminata a piedi dall'approdo. È uno dei luoghi più belli e meno accessibili dell'arcipelago.",
         come: "Traghetto stagionale da Reine, poi sentiero a piedi.",
         quando: "Estate, con l'orario del traghetto verificato in anticipo.",
         tempo: "mezza giornata",
@@ -492,7 +492,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Lofotr Viking Museum a Borg",
-        testo: "La più grande casa vichinga mai scavata, lunga 83 metri, ricostruita sul posto con barche, laboratori e animali. Si trova sulla strada tra Svolvær e Reine.",
+        testo: "L'edificio vichingo più grande mai trovato in Norvegia, lungo 83 metri, ricostruito a grandezza naturale con navi, fucina e rievocazioni. Aperto dal 1° maggio al 15 settembre. Si trova sulla strada tra Svolvær e Reine.",
         come: "In auto, circa 55 minuti da Svolvær; sosta ideale lungo il trasferimento.",
         quando: "Giorno pieno.",
         tempo: "2 ore",
@@ -557,7 +557,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Nusfjord",
-        testo: "Uno dei villaggi di pescatori più antichi della Norvegia, protetto e conservato come museo vivente, con rorbuer rossi e un piccolo porto.",
+        testo: "Un villaggio di pescatori ben conservato sulla costa sud di Flakstadøya, con rorbuer rossi e un piccolo porto.",
         come: "In auto da Nesland, 10 minuti; l'ingresso al villaggio può essere a pagamento.",
         quando: "Mattina o sera, evitando i gruppi.",
         tempo: "1 ora",
@@ -565,8 +565,8 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Ramberg e le spiagge di Flakstadøya",
-        testo: "Ramberg ha una lunga spiaggia di sabbia chiara, e poco più avanti si trovano Skagsanden e Haukland, tra le più belle delle Lofoten. L'acqua è fredda ma il colore è caraibico.",
-        come: "In auto, 10-20 minuti da Nesland.",
+        testo: "Ramberg ha una lunga spiaggia di sabbia chiara, poco più avanti c'è Skagsanden e, sull'isola vicina di Vestvågøy, Haukland: tra le spiagge più belle delle Lofoten. L'acqua è fredda ma il colore è caraibico.",
+        come: "In auto da Nesland; Haukland è più lontana, verso Leknes.",
         quando: "Estate, con sole.",
         tempo: "1-2 ore",
         costo: "ingresso libero",
@@ -622,7 +622,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Panificio storico di Å",
-        testo: "Una panetteria in funzione dal 1844, con cannella e dolci fatti sul posto; pochi posti a sedere ma ottimo.",
+        testo: "Una panetteria storica, con cannella e dolci fatti sul posto; pochi posti a sedere ma ottimo.",
         come: "A piedi nel villaggio.",
         quando: "Mattina.",
         tempo: "30 minuti",
@@ -697,9 +697,9 @@ export const destinazioniNorvegia: Destinazione[] = [
     luoghi: [
       {
         nome: "Cattedrale Artica (Ishavskatedralen)",
-        testo: "Chiesa del 1965 a forma di iceberg, sul lato opposto del ponte rispetto al centro. La vetrata a mosaico che ricopre la facciata est è tra le più grandi d'Europa.",
-        come: "A piedi attraverso il ponte (circa 25 minuti) o con bus 24 dal centro.",
-        quando: "Mattina o pomeriggio; la sera si tengono concerti.",
+        testo: "Chiesa del 1965 dalla sagoma triangolare, sul lato opposto del ponte rispetto al centro. Sul lato est c'è il grande mosaico di vetro «Il ritorno di Cristo», aggiunto nel 1972.",
+        come: "A piedi attraverso il ponte o in bus dal centro.",
+        quando: "Mattina o pomeriggio; orari di visita e concerti sul sito.",
         tempo: "45 minuti",
         url: "https://ishavskatedralen.no",
         consiglio: "Se c'è un concerto di mezzanotte in estate, meglio prenotare."
@@ -716,7 +716,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Polaria",
-        testo: "Il centro artico con acquari di specie del Mare del Nord, vasche con foche e un cinema panoramico sul clima polare.",
+        testo: "Il centro artico con acquari di fauna marina locale e delle Svalbard, la vasca delle foche barbute con un tunnel sott'acqua e un cinema panoramico a cinque schermi.",
         come: "A piedi dal centro, accanto al porto.",
         quando: "Giorno, in particolare se piove.",
         tempo: "1,5 ore",
@@ -742,7 +742,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Caccia all'aurora in minibus",
-        testo: "Un'uscita serale con guida fuori città, lontano dalle luci, per cercare l'aurora in cielo sereno. Il tour più frequente dura 5-6 ore.",
+        testo: "Un'uscita serale con guida fuori città, lontano dalle luci, per cercare l'aurora in cielo sereno. I tour durano di solito diverse ore.",
         come: "Prenotato con operatore, partenza dal centro in minibus.",
         quando: "Da fine settembre a fine marzo, notte con poche nuvole.",
         tempo: "5-6 ore",
@@ -788,7 +788,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       {
         nome: "Centro (Storgata e porto)",
         perChi: "Chi non ha l'auto",
-        testo: "A pochi passi da negozi, bar e dal punto di ritrovo delle escursioni. Doppie in alta stagione da 140-170 euro a notte."
+        testo: "A pochi passi da negozi, bar e dal punto di ritrovo delle escursioni. In alta stagione i prezzi sono alti: prenotare presto."
       },
       {
         nome: "Tromsdalen",

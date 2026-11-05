@@ -48,20 +48,19 @@ export const destinazioniEstonia: Destinazione[] = [
     luoghi: [
       {
         nome: "Town Hall Square (Raekoja plats)",
-        testo: "The medieval heart of the city, with the Gothic Town Hall of 1404, the oldest still in use in the Baltic. In summer it has outdoor tables; in December it hosts the Christmas market.",
+        testo: "The medieval heart of the city, with the Gothic Town Hall finished in 1404, the oldest in the Baltic Sea region and Scandinavia, now a museum and concert venue. In summer it has outdoor tables; in December it hosts the Christmas market.",
         come: "On foot from the port (10-15 minutes).",
-        quando: "Early morning, for the square without crowds; the Town Hall is open only in summer.",
+        quando: "Early morning, for the square without crowds; visiting hours of the Town Hall and its tower on the official website.",
         tempo: "1 hour",
         url: "https://www.tallinn.ee",
         consiglio: "Check cruise days: the square fills with groups."
       },
       {
         nome: "Toompea and Alexander Nevsky Cathedral",
-        testo: "The hill above the lower town, with Toompea Castle (seat of Parliament) and the Russian Orthodox cathedral of 1900, with onion domes. The climb is short but scenic.",
+        testo: "The hill above the lower town, with Toompea Castle (seat of Parliament) and the Orthodox Alexander Nevsky Cathedral, built 1894-1900, with five onion domes. The climb is short but scenic.",
         come: "On foot from Town Hall Square, climbing Pikk jalg.",
         quando: "Morning.",
         tempo: "1.5 hours",
-        costo: "cathedral entry free",
         consiglio: "For photos of the city from above, the Kohtuotsa and Patkuli platforms."
       },
       {
@@ -75,17 +74,17 @@ export const destinazioniEstonia: Destinazione[] = [
       },
       {
         nome: "Medieval walls and towers",
-        testo: "About 1.85 km of walls still standing with some twenty towers, including Kiek in de Kök, a cannon tower whose name means 'peep into the kitchen'. You can climb some towers.",
+        testo: "About 1.85 km of walls still standing, out of the original 2.35, with 28 medieval towers, including Kiek in de Kök, an artillery tower of 1475-1483 whose name means 'peep into the kitchen'. You can also visit the Maiden Tower, the Short Leg gate tower and the underground bastion passages.",
         come: "On foot, along Müürivahe.",
         quando: "Daytime, in good conditions.",
         tempo: "1-2 hours",
-        costo: "12 euros for entry to the four towers (site figure, to be rechecked)",
+        costo: "tickets and prices on the City Museum website",
         url: "https://www.linnamuuseum.ee",
-        consiglio: "The combined ticket is worth it for several towers."
+        consiglio: "Combine Kiek in de Kök and the bastion passages in one visit."
       },
       {
         nome: "St Olaf's Church (Oleviste kirik)",
-        testo: "A church with a 124 metre spire that in the sixteenth century was for a time the tallest building in the world. You climb the tower for the view.",
+        testo: "A church with a spire of almost 124 metres, for a long time the highest point in the city. The tower has a viewing platform at 60 metres.",
         come: "On foot, at the bottom of Town Hall Square.",
         quando: "Clear day.",
         tempo: "45 minutes",
@@ -95,18 +94,18 @@ export const destinazioniEstonia: Destinazione[] = [
       {
         nome: "Kadriorg Park and Palace, KUMU",
         testo: "The Palace, commissioned by Peter the Great in 1718 for his wife Catherine I, with the park and Kumu, the Estonian art museum, in a modern building in the same park.",
-        come: "Tram 1 or 3 to Kadriorg, 10 minutes from the centre.",
-        quando: "Afternoon; the park is free.",
+        come: "By tram to Kadriorg.",
+        quando: "Afternoon; the park is free. Kumu is closed on Mondays, opens 10-18 and until 20 on Thursdays.",
         tempo: "3 hours",
-        costo: "KUMU 12-16 euros depending on the exhibition (site figure, to be rechecked)",
+        costo: "Kumu tickets on the official website",
         url: "https://kumu.ekm.ee",
         consiglio: "The park is a nice place to stroll outside the centre."
       },
       {
         nome: "Telliskivi Creative City",
-        testo: "The former Soviet industrial complex, since 2009 a creative district with street art, studios, independent shops and restaurants. On Saturday there is a flea market.",
+        testo: "The former workshops where locomotives were repaired, now a creative district with street art, studios, independent shops and restaurants.",
         come: "On foot from the Old Town (15 minutes) or by tram.",
-        quando: "Evening, for the venues; Saturday for the market.",
+        quando: "Evening, for the venues; Saturday for the shops.",
         tempo: "2 hours",
         costo: "free entry",
         consiglio: "You eat very well here at reasonable prices."

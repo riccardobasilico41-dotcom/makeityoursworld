@@ -246,31 +246,31 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Antibes and Cap d'Antibes",
         testo: "Old town inside the bastions, with the Marché Provençal in the morning and the Picasso Museum in the Château Grimaldi. On the Cap a free coastal path rounds the point, close to the sea.",
-        come: "Antibes has a train station; the path starts from Garoupe beach, 3 km from the centre.",
+        come: "Antibes has a train station; the path starts at Garoupe beach, on the Cape.",
         quando: "Market in the morning, path in afternoon light.",
         tempo: "half a day each",
         consiglio: "The path is free and almost empty off-season: closed shoes, it is rocky in places."
       },
       {
         nome: "Èze and the Nietzsche Path",
-        testo: "A medieval village perched at 427 metres, with an exotic garden at the top. From the sea the steep Nietzsche path climbs in about 1.5 hours.",
-        come: "Bus 82 from Nice or train to Èze-sur-Mer then the path.",
+        testo: "A medieval village perched at 427 metres, with a botanical garden of cacti and succulents at the top. The steep Nietzsche path climbs up from the sea.",
+        come: "Bus from Nice to Èze-Village, or train to Èze-sur-Mer and then the path.",
         quando: "Early morning in summer.",
         tempo: "2-3 hours",
         consiglio: "Do the path uphill in the morning and come down by bus."
       },
       {
         nome: "Villefranche and Cap Ferrat",
-        testo: "The deep bay of Villefranche, with the Saint-Pierre chapel decorated by Cocteau, and at Saint-Jean-Cap-Ferrat the Villa Ephrussi de Rothschild, with gardens and views over two bays.",
-        come: "Bus 15 from Nice or train to Villefranche.",
+        testo: "The deep harbour of Villefranche, with the Saint-Pierre chapel decorated by Cocteau, and at Saint-Jean-Cap-Ferrat the Villa Ephrussi de Rothschild, with nine themed gardens overlooking the bay.",
+        come: "Bus from Nice or train to Villefranche-sur-Mer.",
         quando: "Morning.",
         tempo: "half a day",
-        consiglio: "The Cap Ferrat coastal path is flat and takes about 2 hours."
+        consiglio: "The coastal path around Cap Ferrat is the best way to see the cape: comfortable shoes."
       },
       {
         nome: "Lérins Islands",
         testo: "Opposite Cannes: Sainte-Marguerite with the Fort Royal and the cell of the \"Man in the Iron Mask\", and Saint-Honorat, home of Cistercian monks.",
-        come: "Ferries from Cannes port, about 15 minutes.",
+        come: "Ferries from Cannes harbour: about 15 minutes to Sainte-Marguerite; the monks run the boats to Saint-Honorat.",
         quando: "Spring and autumn; in summer the boats are full.",
         tempo: "half a day",
         consiglio: "Bring food: there are few places to eat."
@@ -316,7 +316,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Menton",
         perChi: "for lower prices and calm",
-        testo: "Near the Italian border, quieter and cheaper. The train to Nice takes about 30 minutes."
+        testo: "Towards the Italian border, quieter and cheaper, with the coastal train to Nice."
       }
     ],
     sapori: [
@@ -545,7 +545,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Louvre",
         testo: "The world's largest museum, in a royal palace. The essential route covers the Winged Victory of Samothrace, the Venus de Milo and the Mona Lisa. You cannot see it all: pick two or three wings.",
-        come: "Metro Palais Royal-Musée du Louvre. Booking a timed entry online is recommended, even for free admission; entrances via the Pyramid, Passage Richelieu or the Carrousel.",
+        come: "Metro Palais Royal-Musée du Louvre. Booking an entry time online is advisable, even for free entry; you go in through the Pyramid or the Carrousel gallery.",
         quando: "Closed on Tuesday, 1 January, 1 May and 25 December. Open until 9 pm on Wednesday and Friday. Arrive at opening (9 am) or late afternoon.",
         tempo: "3-4 hours",
         costo: "€32 for visitors from outside the European Economic Area, €22 for EU/EEA citizens and residents (2026). Free under 18.",
@@ -554,17 +554,17 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Musée d'Orsay",
-        testo: "A former 1900 railway station turned museum, with the world's largest collection of Impressionists. The Monet, Renoir, Degas and Van Gogh rooms are on the top floor.",
-        come: "Metro Solférino or RER C Musée d'Orsay. Timed ticket booked.",
+        testo: "A former railway station finished for the 1900 World's Fair and turned into a museum, with the world's largest collection of Impressionist and Post-Impressionist masterpieces: Monet, Renoir, Degas, Van Gogh.",
+        come: "Metro Solférino or RER C Musée d'Orsay. Booking a time slot is advised in high season and required on the first Sunday of the month.",
         quando: "Closed on Monday. Open 9.30 am to 6 pm, until 9.45 pm on Thursday: the evening is the quietest time.",
         tempo: "2-3 hours",
-        costo: "€16 online, €14 at the ticket desk; reduced rate on Thursday evening (2026). Free on the first Sunday of the month.",
+        costo: "€16 online, €14 at the ticket desk; reduced rate on Thursday evening (2026). Free on the first Sunday of the month, only with a booked time slot.",
         url: "https://www.musee-orsay.fr/",
         consiglio: "From the giant clock on the top floor you can see the Sacré-Cœur."
       },
       {
         nome: "Sainte-Chapelle",
-        testo: "A 13th-century Gothic chapel with fifteen stained-glass windows fifteen metres high, built to house the relics of the Passion. In morning sun the colour is unique.",
+        testo: "A 13th-century Gothic chapel with fifteen great stained-glass windows up to over 15 metres high, built to hold Louis IX's relics of the Passion. With the morning sun the colour is unique.",
         come: "On the Île de la Cité, inside the Palais de Justice; you pass a security check.",
         quando: "Morning, with the sun through the glass.",
         tempo: "45 minutes",
@@ -595,7 +595,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Palace of Versailles",
         testo: "The residence of the kings of France until 1789, with the Hall of Mirrors, the royal apartments and the gardens. The park is huge.",
-        come: "RER C from Paris to Versailles-Château, about 40 minutes. Palace entry is timed and must be booked online.",
+        come: "RER C from Paris to Versailles-Château Rive Gauche. Palace entry is timed and must be booked online.",
         quando: "Closed on Monday, 25 December, 1 January and 1 May. The palace opens at 9 am; Trianon from noon. On musical-garden days (in season) the park is paid.",
         tempo: "full day",
         costo: "Passport (palace, Trianon and gardens) €35 from April to October and €25 in low season for visitors from outside the European Economic Area; €32 and €22 for EU/EEA (2026).",
@@ -652,7 +652,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Canal Saint-Martin",
         perChi: "for bars and fewer tourists",
-        testo: "A young district with bars and shops, 20 minutes from the centre."
+        testo: "A young area with bars and small shops, north-east of the centre, well served by the metro."
       }
     ],
     sapori: [
@@ -816,15 +816,15 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "D-Day beaches and American cemetery",
         testo: "Utah, Omaha, Gold, Juno and Sword were the five landing beaches of 6 June 1944. Above Omaha, at Colleville-sur-Mer, is the American cemetery, with almost 9,400 graves.",
-        come: "By car from Bayeux, about 30 minutes. The cemetery is free and visited alone. The visitor centre is next to it.",
+        come: "By car from Bayeux. The cemetery is free and you visit on your own. The visitor centre is next to it.",
         quando: "Morning, with fewer groups.",
         tempo: "3-4 hours",
-        consiglio: "The cemetery has security checks: no large backpacks."
+        consiglio: "On peak days the cemetery has had to turn visitors away because of crowding: a booking system is planned for 2026, check the ABMC website."
       },
       {
         nome: "Pointe du Hoc",
         testo: "A cliff where US Rangers scaled the walls on 6 June 1944. The ground is still marked by craters and German bunkers.",
-        come: "By car, about 15 minutes from Omaha. You walk on the grass between the craters.",
+        come: "By car, just west of Omaha. You walk on the grass among the craters.",
         quando: "Morning.",
         tempo: "1 hour",
         consiglio: "Respect the barriers: the cliffs collapse."
@@ -849,8 +849,8 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Mont-Saint-Michel",
-        testo: "An island with a Benedictine abbey on top, surrounded by tides reaching 14 metres. The village below is a single street of shops. UNESCO site.",
-        come: "Car park on the mainland and free shuttle to the footbridge.",
+        testo: "An island with a Benedictine abbey at the top, surrounded by tides with a range of about 14 metres. The village below is a single street of shops. UNESCO site since 1979.",
+        come: "Car park on the mainland, about 2.5 km away, then on foot or by shuttle to the footbridge.",
         quando: "Dawn or sunset. High tide on new and full moon days: check the tables.",
         tempo: "half a day",
         costo: "Abbey €13 (2026); free under 18 and for EU residents under 26. The village is free.",
@@ -860,7 +860,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Étretat and Honfleur",
         testo: "Étretat: chalk cliffs with three arches and a rock needle, with paths on top. Honfleur: an old harbour with tall narrow houses and the all-wooden church of Sainte-Catherine.",
-        come: "By car or bus; Étretat is 1 hour from Honfleur.",
+        come: "By car or bus; allow half a day for each.",
         quando: "Étretat at sunset; Honfleur in the morning.",
         tempo: "half a day each",
         consiglio: "The clifftop path at Étretat has strong wind: keep away from the edge."
@@ -896,7 +896,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Bayeux",
         perChi: "for the beaches",
-        testo: "An intact little town, 30 minutes from the beaches, with hotels and restaurants."
+        testo: "An intact small town close to the beaches, with hotels and restaurants."
       },
       {
         nome: "Caen",
@@ -1038,8 +1038,8 @@ export const destinazioniFrancia: Destinazione[] = [
     luoghi: [
       {
         nome: "Carnac alignments",
-        testo: "Thousands of standing stones in parallel rows kilometres long, raised in the Neolithic, older than Stonehenge. The three main areas are Ménec, Kermario and Kerlescan.",
-        come: "By car from Auray, about 20 minutes. From October to April you can walk freely among the stones; in summer access is controlled.",
+        testo: "More than 3,000 standing stones in parallel rows, raised in the Neolithic: the largest such collection in the world. The three main groups are Ménec, Kermario and Kerlescan.",
+        come: "By car from Auray. Since 1991 the main rows have been fenced to protect the vegetation: access among the stones varies with the season.",
         quando: "Early morning or late afternoon.",
         tempo: "2 hours",
         consiglio: "The Maison des Mégalithes explains the stones and the access rules."
@@ -1047,7 +1047,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Saint-Malo",
         testo: "The corsair city inside the walls, destroyed in 1944 and rebuilt stone by stone. The rampart walk gives views over the sea and islets; at low tide you can walk to Grand Bé.",
-        come: "Direct train from Paris, about 2.5 hours. Visited on foot.",
+        come: "Direct train from Paris. Explored on foot.",
         quando: "Morning; check tides before walking to Grand Bé.",
         tempo: "half a day",
         consiglio: "Check the low-tide time: the islet is reachable only then."
@@ -1063,7 +1063,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Pointe du Raz",
         testo: "A promontory on a cliff above the Atlantic, one of the westernmost points of France. Paths on the point and a lighthouse at sea.",
-        come: "By car from Quimper, about 1 hour. Paid car park.",
+        come: "By car from Quimper, to the tip of Cap Sizun.",
         quando: "Clear day; in fog you see nothing.",
         tempo: "1-2 hours",
         consiglio: "Stay on marked paths: the cliffs are unstable."
@@ -1297,8 +1297,8 @@ export const destinazioniFrancia: Destinazione[] = [
     luoghi: [
       {
         nome: "Chambord",
-        testo: "The largest Loire château, built for Francis I, with 440 rooms and the double-helix staircase attributed to Leonardo. It is surrounded by a walled park larger than Paris.",
-        come: "By car from Blois, about 20 minutes. Visited alone or with an audio guide.",
+        testo: "The largest château in the Loire, built for Francis I, with 440 rooms and the double-spiral staircase that many scholars credit at least in part to Leonardo. It is surrounded by a park of over 5,000 hectares enclosed by a 31 km wall.",
+        come: "By car from Blois. Visit on your own or with an audio guide.",
         quando: "Morning, for gardens and terraces. Closed on 1 January and 25 December.",
         tempo: "3 hours",
         costo: "€31 for visitors from outside the European Economic Area, €21 for EU/EEA (château and gardens, 2026).",
@@ -1317,7 +1317,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Villandry",
         testo: "The château is less known than the gardens: the Renaissance vegetable garden in geometric patterns, the garden of love and the water garden, recreated on the 16th-century model.",
-        come: "By car from Tours, about 25 minutes.",
+        come: "By car from Tours, west along the Loire.",
         quando: "Spring and summer for the blooms.",
         tempo: "2 hours",
         url: "https://www.chateauvillandry.fr/",
@@ -1326,7 +1326,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Amboise and Clos Lucé",
         testo: "Amboise has a château on the river. Clos Lucé is the house where Leonardo da Vinci spent his last three years and died in 1519; it holds models of his machines.",
-        come: "Train from Tours, about 20 minutes. The two sites are 10 minutes apart on foot.",
+        come: "Train from Tours. The château and Clos Lucé are close together, on foot.",
         quando: "Morning.",
         tempo: "half a day",
         costo: "Clos Lucé €20 full price (2026).",
@@ -1336,7 +1336,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Azay-le-Rideau and Cheverny",
         testo: "Azay-le-Rideau is a château on an island in the Indre, reflected in the water. Cheverny has been lived in by the same family for centuries and is furnished.",
-        come: "By car from Tours; Cheverny is 40 minutes from Chambord.",
+        come: "By car from Tours; Cheverny is south of Blois, not far from Chambord.",
         quando: "Morning.",
         tempo: "2 hours each",
         consiglio: "Cheverny has a hunting-hound kennel: feeding time is an attraction."
@@ -1544,7 +1544,7 @@ export const destinazioniFrancia: Destinazione[] = [
     luoghi: [
       {
         nome: "Place de la Bourse and Miroir d'eau",
-        testo: "The 18th-century square on the Garonne and, in front, the Miroir d'eau: a few-millimetre sheet of water that mirrors the façade and now and then turns to mist.",
+        testo: "The 18th-century square on the Garonne and, in front, the Miroir d'eau: granite slabs under 2 centimetres of water that mirror the façade and now and then turn into mist. It runs from April to October.",
         come: "On foot from the centre or tram to the Place de la Bourse stop.",
         quando: "Evening or night, when the façade is lit.",
         tempo: "45 minutes",
@@ -1569,15 +1569,15 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Saint-Émilion",
         testo: "A medieval village among vineyards, UNESCO listed since 1999 as a wine landscape. The monolithic church is cut into the rock.",
-        come: "Direct train from Bordeaux Saint-Jean in about 40 minutes. The monolithic church is visited with a guide from the tourist office.",
+        come: "Direct train from Bordeaux Saint-Jean. The monolithic church is visited with a guide: details at the tourist office.",
         quando: "Morning or late afternoon.",
         tempo: "half a day",
-        consiglio: "Walk among the vines outside the village, 10 minutes from the centre."
+        consiglio: "Walk among the vines just outside the village."
       },
       {
         nome: "Médoc and the châteaux",
         testo: "The wine road to the north, with château estates in a row (Margaux, Pauillac, Saint-Julien).",
-        come: "By car from Bordeaux, 30-60 minutes. Tastings must be booked.",
+        come: "By car north from Bordeaux. Tastings must be booked.",
         quando: "Spring and autumn, harvest in September-October.",
         tempo: "full day",
         consiglio: "You need a non-drinking driver, or an organised tour."
@@ -1815,18 +1815,18 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Champagne: Reims and Épernay",
         testo: "Reims cathedral, where kings were crowned, with Chagall's windows. In Épernay the Avenue de Champagne has kilometres of chalk cellars under the houses of the great maisons.",
-        come: "Train from Paris Est to Reims in about 45 minutes; Reims to Épernay 30 minutes by train.",
+        come: "Train from Paris Est to Reims; from Reims to Épernay by regional train.",
         quando: "Spring and autumn; harvest late August-September.",
         tempo: "1-2 days",
         consiglio: "Cellar visits must be booked: many do not receive without an appointment."
       },
       {
         nome: "Burgundy: Côte de Nuits and Côte de Beaune",
-        testo: "The climats of Burgundy, UNESCO-listed in 2015: over a thousand plots marked by dry-stone walls. In Beaune, the Hospices with their coloured tiled roof.",
+        testo: "The climats of Burgundy, small, precisely bounded vineyard plots, inscribed by UNESCO in 2015. In Beaune, the Hospices with their coloured tiled roof.",
         come: "Train from Paris to Dijon, then car or bike along the Route des Grands Crus.",
         quando: "Spring and autumn.",
         tempo: "2 days",
-        consiglio: "The Voie des Vignes cycle path links Beaune and Santenay in about 20 km."
+        consiglio: "The Voie des Vignes cycle path starts in Beaune and runs south through the vineyards."
       },
       {
         nome: "Alsace: the Wine Route",
@@ -1838,17 +1838,17 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Rhône Valley",
-        testo: "To the north the terraced slopes of Côte-Rôtie and Hermitage, among the steepest in Europe; to the south Châteauneuf-du-Pape, with rounded stones between the rows.",
+        testo: "In the north the steep terraced slopes of Côte-Rôtie and Hermitage; in the south Châteauneuf-du-Pape, with rounded stones between the rows.",
         come: "Train to Valence or Avignon; then car or bike.",
         quando: "Spring and autumn.",
         tempo: "1-2 days",
-        consiglio: "Châteauneuf-du-Pape is 20 minutes from Avignon."
+        consiglio: "Châteauneuf-du-Pape is close to Avignon: it pairs well with a city visit."
       },
       {
         nome: "Jura",
-        testo: "A small region off the circuits, famous for vin jaune, which ages six years and three months in barrel under a veil of yeast, unfilled.",
+        testo: "A small region off the usual circuits, famous for vin jaune, which ages six years and three months between harvest and bottling, in casks under a veil of yeast, never topped up.",
         come: "By car from Besançon or Lons-le-Saunier.",
-        quando: "All year; the Percée du vin jaune festival in February.",
+        quando: "All year; the Percée du vin jaune festival in late January or early February.",
         tempo: "1 day",
         consiglio: "Vin jaune pairs with comté cheese."
       }
@@ -2049,7 +2049,7 @@ export const destinazioniFrancia: Destinazione[] = [
     luoghi: [
       {
         nome: "Verdon Gorge",
-        testo: "The deepest canyon in Europe, with vertical walls hundreds of metres high and green water. The scenic road on the rim has viewpoints.",
+        testo: "A canyon up to 700 metres deep, often compared to the Grand Canyon, with sheer walls and green water. The panoramic road along the rim has viewpoints.",
         come: "By car from Moustiers-Sainte-Marie or Castellane. You can walk on the floor along the Sentier de l'Imbut.",
         quando: "Spring and summer; very crowded in July and August.",
         tempo: "full day",
@@ -2057,7 +2057,7 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Luberon: Gordes, Roussillon, Bonnieux",
-        testo: "Perched villages in pale stone. At Roussillon the ochre quarries give red and yellow colours; the Ochre Trail takes 40 minutes.",
+        testo: "Hilltop villages of pale stone. At Roussillon the ochre quarries give red and yellow colours, seen along the Sentier des Ocres.",
         come: "By car: in August parking is difficult.",
         quando: "Spring and autumn; crowds in July and August.",
         tempo: "2 days",
@@ -2073,7 +2073,7 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Avignon and the Palais des Papes",
-        testo: "The largest Gothic palace in the world, home of the popes in the 14th century. The Saint-Bénézet bridge, broken halfway, is the city's symbol.",
+        testo: "One of the largest medieval Gothic buildings in Europe, home of the popes in the 14th century. The Saint-Bénézet bridge, broken off midstream, is the city's symbol.",
         come: "Train from Marseille or Paris. Visited on foot.",
         quando: "Morning.",
         tempo: "half a day",
@@ -2082,8 +2082,8 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Arles",
-        testo: "A Roman amphitheatre still used for shows, the Alyscamps and the places painted by Van Gogh. There is none of his paintings in town.",
-        come: "Train from Avignon in about 20 minutes.",
+        testo: "A Roman amphitheatre still used for shows, the Alyscamps and the places painted by Van Gogh, who lived and worked in Arles.",
+        come: "Train from Avignon.",
         quando: "Morning; the market is on Saturday.",
         tempo: "half a day",
         consiglio: "Follow the Van Gogh trail between the painted places."
@@ -2091,7 +2091,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Nîmes",
         testo: "One of the best-preserved Roman arenas in the world, still used for concerts and bullfights, and the Maison Carrée, an almost intact Roman temple UNESCO-listed in 2023.",
-        come: "Train from Avignon in 30 minutes.",
+        come: "Train from Avignon.",
         quando: "Morning.",
         tempo: "half a day",
         consiglio: "A single ticket covers the arena and other Roman monuments."
@@ -2146,7 +2146,7 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Provence rosé",
-        testo: "The most drunk rosé in France."
+        testo: "The rosé that is the region's signature wine."
       }
     ],
     attenzioni: [
@@ -2214,7 +2214,7 @@ export const destinazioniFrancia: Destinazione[] = [
         nome: "Pont de Gau Ornithological Park",
         testo: "A park with ponds and paths where pink flamingos, herons and storks can be seen up close. A good place to understand the area before heading onto the trails.",
         come: "By car from Saintes-Maries-de-la-Mer, a few minutes.",
-        quando: "Early morning or late afternoon; flamingos are more numerous in spring and summer.",
+        quando: "Early morning or late afternoon, with the best light.",
         tempo: "2 hours",
         url: "https://www.parcornithologique.com/",
         consiglio: "Bring binoculars and mosquito repellent."
@@ -2222,7 +2222,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Saintes-Maries-de-la-Mer",
         testo: "The seaside town with a fortified church, destination in late May of the Roma pilgrimage to Sara the Black. The beaches are long and sandy.",
-        come: "By car from Arles, about 45 minutes.",
+        come: "By car from Arles, across the Camargue.",
         quando: "Late May for the pilgrimage; summer for the beaches.",
         tempo: "half a day",
         consiglio: "Avoid the pilgrimage weekend if you want calm."
@@ -2350,7 +2350,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Carcassonne",
         testo: "The fortified cité: fifty-two towers and a double ring of walls, restored in the 19th century by Viollet-le-Duc with much-debated criteria. Inside are lanes, shops and the castle.",
-        come: "Direct train from Toulouse in about 45 minutes. The cité is 15 minutes' walk from the station.",
+        come: "Direct train from Toulouse. From the station, in the lower town, you walk up to the cité across the river.",
         quando: "Evening or early morning, when the groups are absent.",
         tempo: "half a day",
         costo: "Château comtal and rampart walks: €19 until 30 September, €13 from October to March (2026). The cité and its streets are free.",
@@ -2358,7 +2358,7 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Canal du Midi",
-        testo: "A 17th-century canal over 240 km long linking the Atlantic to the Mediterranean, UNESCO-listed, with plane trees on the banks.",
+        testo: "A 17th-century canal, 240 km long, linking the Garonne at Toulouse to the Mediterranean; together with the Garonne Canal it joins the Atlantic and the Mediterranean. A UNESCO site, with plane trees along the banks.",
         come: "On foot or by bike along the towpath; boats for hire from Carcassonne or Castelnaudary.",
         quando: "Spring and autumn.",
         tempo: "half a day",
@@ -2367,22 +2367,22 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Cathar castles",
         testo: "Quéribus, Peyrepertuse and Montségur are perched on limestone ridges hundreds of metres up, the Cathars' last refuges in the 13th century.",
-        come: "By car from the Carcassonne area. A 20-30 minute climb on foot.",
+        come: "By car from the Carcassonne area, then a steep walk up to the walls.",
         quando: "Morning; the wind is strong and there is no shade.",
         tempo: "3 hours each",
         consiglio: "Bring water, a hat and trekking shoes."
       },
       {
         nome: "Albi",
-        testo: "The Sainte-Cécile cathedral, the largest brick church in the world, which looks like a fortress from outside. The Berbie palace houses the Toulouse-Lautrec museum.",
-        come: "Train from Toulouse in about 1 hour.",
+        testo: "The cathedral of Sainte-Cécile, said to be the largest brick building in the world, which looks like a fortress from outside. The Palais de la Berbie houses the Toulouse-Lautrec museum.",
+        come: "Train from Toulouse.",
         quando: "Morning.",
         tempo: "half a day",
         consiglio: "Inside look at the frescoed Last Judgement."
       },
       {
         nome: "Toulouse",
-        testo: "The brick \"ville rose\", with the basilica of Saint-Sernin, the largest surviving Romanesque church in Europe, and the Capitole square.",
+        testo: "The brick \"ville rose\", with the basilica of Saint-Sernin, one of the largest surviving Romanesque churches in Europe, and the Place du Capitole.",
         come: "Airport and trains from all over France.",
         quando: "Morning or evening.",
         tempo: "1 day",
@@ -2390,8 +2390,8 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Collioure",
-        testo: "The Catalan port where Matisse and Derain invented Fauvism in one summer, with its castle and church on the sea.",
-        come: "Train from Perpignan in about 30 minutes.",
+        testo: "The Catalan harbour where the Fauve painters, Matisse and Derain among them, worked in the early 20th century, with its castle on the sea.",
+        come: "Train from Perpignan.",
         quando: "Spring and autumn.",
         tempo: "half a day",
         consiglio: "Follow the painters' trail with reproductions of the paintings."
@@ -2913,16 +2913,16 @@ export const destinazioniFrancia: Destinazione[] = [
     luoghi: [
       {
         nome: "Tour du Mont Blanc",
-        testo: "About 170 km around the massif, across France, Italy and Switzerland, with about 10,000 metres of ascent. Usually done in 7-11 days, hut to hut.",
+        testo: "About 165-170 km around the massif, through France, Italy and Switzerland, with over 10,000 metres of ascent. It usually takes 9-14 days, hut to hut, anticlockwise.",
         come: "Start from Les Houches or Chamonix; buses and trains for returns.",
         quando: "July to mid-September; huts open only in summer.",
-        tempo: "7-11 days",
+        tempo: "9-14 days",
         consiglio: "Huts must be booked months ahead."
       },
       {
         nome: "Lac Blanc and Grand Balcon",
         testo: "A hike above Chamonix with views of the Mont Blanc massif reflected in the lake. The Grand Balcon Nord is a panoramic mid-slope path.",
-        come: "Cable car to La Flégère, then a path of about 1 hour to the lake.",
+        come: "Cable car to La Flégère, then on foot along the trail to the lake.",
         quando: "Morning; July-September.",
         tempo: "half a day",
         consiglio: "Start early to avoid crowds at the lake."
@@ -2930,7 +2930,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Mer de Glace and Montenvers",
         testo: "France's largest glacier, reached by the Montenvers cog train. Along the stairs down to the ice, signs show how far it has retreated.",
-        come: "Train from Chamonix station, about 20 minutes.",
+        come: "The Montenvers rack railway, leaving from Chamonix.",
         quando: "Morning; summer and autumn.",
         tempo: "half a day",
         consiglio: "The glacier has dropped by tens of metres: the signs show it."
@@ -2945,8 +2945,8 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Cirque de Gavarnie (Pyrenees)",
-        testo: "A glacial amphitheatre with walls hundreds of metres high and one of Europe's tallest waterfalls. UNESCO site.",
-        come: "By car to Gavarnie, then on foot about 1.5 hours to the cirque.",
+        testo: "A glacial amphitheatre with walls up to 1,500 metres high and the Gavarnie falls, 422 metres, the second highest in Europe. UNESCO site since 1997.",
+        come: "By car to Gavarnie, then on foot along the valley path to the cirque.",
         quando: "Summer, early morning.",
         tempo: "half a day",
         consiglio: "Go up early: the path is muddy in spring."

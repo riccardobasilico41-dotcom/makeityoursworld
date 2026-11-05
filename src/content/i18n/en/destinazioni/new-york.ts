@@ -41,7 +41,7 @@ export const destinazioniNewYork: Destinazione[] = [
       {
         nome: "Empire State Building",
         testo: "The 1931 Art Deco skyscraper, 443 metres tall with its antenna. It has two decks: the 86th floor, open-air, and the 102nd, enclosed and higher. From the top you see all of Manhattan.",
-        come: "Entrance at ground level on Fifth Avenue at 34th Street. Better to book a timed slot online to avoid the ticket-office queue.",
+        come: "The visitor entrance is at 20 West 34th Street, no longer on Fifth Avenue. Better to book a timed slot online to avoid the ticket-office queue.",
         quando: "At sunset or after dark, when the city lights up. In fog or low cloud you see nothing.",
         tempo: "1-1.5 hours",
         costo: "From $46 for the 86th floor, from $81 with the 102nd as well (official site, 2026)",
@@ -50,9 +50,9 @@ export const destinazioniNewYork: Destinazione[] = [
       },
       {
         nome: "Broadway and the Theater District",
-        testo: "The theatre district between 41st and 53rd Street, where musicals and plays are staged in the evening. Many places in the area serve quick meals before the show.",
+        testo: "The theatre district around Times Square, roughly between 40th and 54th Street, where musicals and plays are staged in the evening. Many places in the area serve quick meals before the show.",
         come: "On foot from Times Square. Tickets are bought online from the theatre websites or at the box office. For same-day discounted tickets there is the TKTS booth.",
-        quando: "Evening shows at 7 or 8 pm, with matinées on Wednesday and at weekends. Most theatres are dark on Monday.",
+        quando: "Shows are mostly in the evening, with some matinées. Times and the weekly dark day vary from show to show: check the website.",
         tempo: "2.5-3 hours for the show",
         url: "https://www.tdf.org/",
         consiglio: "The best seats sell out in high season, so book ahead: September is in high demand.",
@@ -127,9 +127,9 @@ export const destinazioniNewYork: Destinazione[] = [
     luoghi: [
       {
         nome: "Apollo Theater",
-        testo: "The Harlem theatre where James Brown, Ella Fitzgerald and Aretha Franklin sang. On Wednesday evening it holds Amateur Night, with an audience that cheers or boos the amateurs.",
+        testo: "The Harlem theatre where James Brown, Ella Fitzgerald and Aretha Franklin sang. It is famous for its Wednesday Amateur Night, with an audience that cheers or boos the amateurs.",
         come: "On 125th Street. Subway A, B, C, D to 125 St. Shows are booked on the theatre's website, and there are guided tours of the hall.",
-        quando: "Amateur Night is on Wednesday evening; see the website for times and dates.",
+        quando: "The historic theatre is being renovated: programme, Amateur Night and tours on the official website.",
         tempo: "1-2 hours",
         url: "https://www.apollotheater.org/",
         consiglio: "Stroll along 125th to see the historic signs and the murals around.",
@@ -165,7 +165,7 @@ export const destinazioniNewYork: Destinazione[] = [
     programmi: [
       { titolo: "1 day", tappe: [
         "Morning: gospel service (Sunday)",
-        "Harlem walking tour or a visit to the Apollo",
+        "Harlem walking tour, with a stop outside the Apollo",
         "Lunch in Harlem",
         "Afternoon: Central Park by bike to Strawberry Fields",
       ] },
@@ -185,7 +185,7 @@ export const destinazioniNewYork: Destinazione[] = [
       "At gospel services do not take photos during the service and respect the church's rules.",
       "Guided tours of Harlem are expensive: compare offers before booking (I paid 275$ plus tip for a tour of about 2 hours).",
       "In Central Park, after sunset, stay on the busy paths.",
-      "Check the Apollo's show times on the website before going.",
+      "The historic Apollo is being renovated: check the programme and tours on the website before going.",
     ],
     esperienzeSlugs: ['messa-gospel-harlem'],
     tripSlugs: ['new-york-itinerario'],
@@ -221,7 +221,7 @@ export const destinazioniNewYork: Destinazione[] = [
     luoghi: [
       {
         nome: "MoMA",
-        testo: "The Museum of Modern Art holds Van Gogh's Starry Night, Picasso's Les Demoiselles d'Avignon and Monet's Water Lilies. It spans six floors; contemporary art is on the upper floors.",
+        testo: "The Museum of Modern Art holds Van Gogh's Starry Night, Picasso's Les Demoiselles d'Avignon and Monet's Water Lilies. The collection is spread over several floors in chronological order.",
         come: "Entrance at 11 West 53rd Street. Buy an online ticket to skip the queue. Map and audio guide are in the Bloomberg Connects app, to be downloaded beforehand.",
         quando: "Open every day from 10:30 am to 5:30 pm, Fridays until 8:30 pm; closed only on Thanksgiving and Christmas. Early morning is best.",
         tempo: "2-3 hours",
@@ -231,7 +231,7 @@ export const destinazioniNewYork: Destinazione[] = [
       },
       {
         nome: "St. Patrick's Cathedral and Rockefeller Center",
-        testo: "The neo-Gothic cathedral on Fifth Avenue is the city's largest Catholic church. Opposite is Rockefeller Center, with its plaza and Top of the Rock.",
+        testo: "The cathedral on Fifth Avenue is the largest Gothic Revival Catholic cathedral in North America. Opposite is Rockefeller Center, with its plaza and Top of the Rock.",
         come: "On foot from Times Square. The cathedral is free.",
         quando: "Early morning for the groups; Rockefeller Center at any time.",
         tempo: "1-1.5 hours",
@@ -241,7 +241,7 @@ export const destinazioniNewYork: Destinazione[] = [
       },
       {
         nome: "High Line and Chelsea Market",
-        testo: "The former elevated railway on the West Side turned into a park about 2.3 km long, with plants, benches and views of the Hudson. At the end you reach Hudson Yards and the Vessel; at the north end is Chelsea Market.",
+        testo: "The former elevated railway on the West Side turned into a park about 2.3 km long, with plants, benches and views of the Hudson. At the north end you reach Hudson Yards and the Vessel; on the southern stretch the High Line passes the Chelsea Market building.",
         come: "Climb the stairs along Gansevoort Street or 14th Street. Entry is free.",
         quando: "Weekday afternoons; at weekends it is very crowded.",
         tempo: "1.5-2 hours",
@@ -251,7 +251,7 @@ export const destinazioniNewYork: Destinazione[] = [
       },
       {
         nome: "Hudson Yards and The Vessel",
-        testo: "The new skyscraper district with the great structure called The Vessel, a honeycomb of staircases. The climb is open again, with safety netting, and only with a timed ticket. In winter it can close for a few weeks.",
+        testo: "The new skyscraper district with the great structure called The Vessel, a honeycomb of staircases. The climb is open again, with safety netting, and only with a timed ticket.",
         come: "On foot from the end of the High Line, or by subway with the 7 line to 34 St-Hudson Yards.",
         quando: "Sunset, for the light. The climb usually opens 11 am to 7 pm: check the day's hours on the website.",
         tempo: "1 hour",
@@ -282,7 +282,7 @@ export const destinazioniNewYork: Destinazione[] = [
     ],
     attenzioni: [
       "Download the Bloomberg Connects app before entering MoMA: map and audio guide are online only.",
-      "MoMA is closed on Tuesday: check the calendar on the website.",
+      "MoMA is open every day except Thanksgiving and Christmas: check the day's hours on the website.",
       "The Vessel can only be climbed with a timed ticket: book on the official site and check the day's hours.",
       "Buy tickets only from the museum's official website.",
     ],
@@ -444,12 +444,12 @@ export const destinazioniNewYork: Destinazione[] = [
       },
       {
         nome: "Walking across the Brooklyn Bridge",
-        testo: "The 1883 suspension bridge with a wooden pedestrian walkway above the cars. You walk from Brooklyn towards Manhattan with the skyline ahead.",
+        testo: "The 1883 suspension bridge, with an elevated pedestrian promenade between the two roadways. You walk from Brooklyn towards Manhattan with the skyline ahead.",
         come: "The walkway is inside the bridge. From DUMBO you climb up and head towards Manhattan.",
         quando: "At sunset or dawn; at midday it is full of tourists and bikes.",
         tempo: "40-60 minutes",
         costo: "Free",
-        consiglio: "Stay in the pedestrian lane: the other is for bicycles, which go fast.",
+        consiglio: "Since 2021 bikes have a protected lane on the roadway, so the promenade is for walkers. It is still crowded: do not stop in the middle for photos.",
       },
       {
         nome: "Top of the Rock",
@@ -484,8 +484,8 @@ export const destinazioniNewYork: Destinazione[] = [
     attenzioni: [
       "At the 9/11 Museum buy the ticket on the official site and not from sellers on the spot.",
       "The Brooklyn Bridge is crowded: keep bag and phone within reach.",
-      "Do not stop in the bike lane for photos.",
-      "Beware of tour sellers on the bridge: they are not official.",
+      "Do not stop in the middle of the promenade for photos: step to the side.",
+      "Be wary of people selling tours on the street: buy only from official operators.",
     ],
     esperienzeSlugs: ['dumbo-brooklyn-bridge', 'top-of-the-rock'],
     tripSlugs: ['new-york-itinerario'],

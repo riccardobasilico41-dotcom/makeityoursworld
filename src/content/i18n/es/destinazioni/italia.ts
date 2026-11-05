@@ -202,30 +202,30 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Tre Cime di Lavaredo",
         "testo": "Tres torres de dolomía que surgen de una meseta de gravilla: el símbolo de los Dolomitas. El recorrido circular alrededor de la base pasa por los refugios Auronzo, Lavaredo y Locatelli, con la cara norte justo encima de la cabeza.",
         "come": "Desde Cortina o Dobbiaco se llega a Auronzo o Misurina y se sube en coche por la carretera de peaje hasta el Rifugio Auronzo (2.320 m), donde empieza el recorrido. También hay un autobús lanzadera desde Misurina.",
-        "quando": "De junio a octubre, cuando la carretera y los refugios están abiertos. Llegar a la apertura o después de las 15: en las horas centrales de julio y agosto el sendero es una fila continua.",
+        "quando": "De finales de primavera al otoño, mientras la carretera está abierta: en 2026 reabrió el 23 de mayo, y las fechas se consultan en el portal de reservas. Llegar a la apertura o a última hora de la tarde: en las horas centrales de julio y agosto el sendero es una fila continua.",
         "tempo": "3-4 horas para el recorrido completo (unos 10 km)",
-        "costo": "40 euros por coche, 2026; la reserva en línea es obligatoria y el ticket vale 12 horas. La lanzadera desde Misurina cuesta 10 euros por persona al día",
+        "costo": "40 euros por coche y 26 por moto, 2026; la reserva online es obligatoria y el ticket vale 12 horas desde la hora elegida. El autobús lanzadera de Misurina al Rifugio Auronzo cuesta 10 euros por persona y día",
         "consiglio": "Hice el recorrido en agosto y parecía una fila india: en septiembre se camina con un tercio de la gente. Si se sale temprano, conviene ir en sentido horario y subir al Locatelli con la luz lateral de la mañana."
       },
       {
         "nome": "Lago di Braies",
         "testo": "El lago alpino más fotografiado del Alto Adigio, de un verde esmeralda, a los pies de la Croda del Becco. El sendero alrededor del lago es fácil y llano. De aquí parte también la Alta Via 1.",
-        "come": "Desde Dobbiaco se toma la carretera del valle de Braies hasta el aparcamiento junto al lago. En verano el acceso en coche está limitado y exige reserva en la franja de 9 a 16; hay autobuses y lanzaderas desde Dobbiaco y Villabassa.",
-        "quando": "De junio a octubre. Al amanecer o después de las 17 para tener el lago sin multitudes; en verano, a mediodía, está muy lleno.",
+        "come": "Desde Dobbiaco se toma la carretera del valle de Braies hasta el aparcamiento del lago. En verano el acceso en coche está limitado y en las horas centrales requiere reserva: fechas y horarios en la web del Ayuntamiento de Braies. También hay autobuses y lanzaderas desde Dobbiaco y Villabassa.",
+        "quando": "De junio a octubre. Al amanecer o a última hora de la tarde se tiene el lago sin multitudes; a mediodía en verano está lleno.",
         "tempo": "1 hora para rodear el lago, 3-4 horas con el sendero hasta la Forcella del Lago",
         "consiglio": "Quien duerme en el valle y va al lago al amanecer o por la tarde vive otra experiencia. Evitar alquilar la barca a mediodía: la cola es larga y el lago está lleno."
       },
       {
         "nome": "Seceda",
-        "testo": "Una cresta de hierba que de repente se rompe en paredes verticales de más de 2.500 metros: el panorama que sale en todas las postales del Val Gardena. Desde la cima se ven las Odle y, al otro lado, todos los Dolomitas.",
+        "testo": "Una cresta de hierba a unos 2.500 metros que de golpe se rompe en paredes verticales: el paisaje de todas las postales de Val Gardena. Desde la cima se ven las Odle y, al otro lado, todas las Dolomitas.",
         "come": "Desde Ortisei, el teleférico sube a Furnes y después a Seceda (2.500 m). Desde la cima se puede bajar a pie hacia Santa Cristina pasando por el Rifugio Firenze.",
-        "quando": "De junio a octubre, con los remontes abiertos en verano. Mejor el primer viaje de la mañana: las nubes suelen subir después de las 11.",
+        "quando": "De junio a octubre, con los teleféricos abiertos en verano. Mejor el primer viaje de la mañana: las nubes suelen subir a media mañana.",
         "tempo": "media jornada; una jornada con el descenso a pie",
         "consiglio": "La bajada a pie hacia Santa Cristina cuesta en las piernas, pero deja atrás la multitud de la llegada del teleférico. Llevar una chaqueta: en la cima hace viento incluso en agosto."
       },
       {
         "nome": "Alpe di Siusi",
-        "testo": "La meseta alpina más extensa de Europa, con prados a más de 1.800 metros, cabañas y, al fondo, el Sassolungo y el Sciliar. Es uno de los lugares más fáciles de los Dolomitas: senderos anchos, poco desnivel, ideal para familias y paseos largos.",
+        "testo": "La meseta alpina más extensa de Europa, con prados de altura, cabañas y el Sassolungo y el Sciliar al fondo. Es uno de los lugares más fáciles de las Dolomitas: senderos anchos, poco desnivel, ideal para familias y paseos largos.",
         "come": "Desde Siusi allo Sciliar o desde Ortisei se sube en telecabina hasta Compaccio o Mont Seuc. En la meseta los coches particulares no pueden subir casi todo el día: se circula a pie, en autobús o en bicicleta.",
         "quando": "De junio a octubre. A finales de septiembre los alerces se ponen amarillos.",
         "tempo": "una jornada",
@@ -234,7 +234,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Cinque Torri",
         "testo": "Un grupo de cinco torres de roca cerca de Cortina, donde durante la Primera Guerra Mundial se combatió a pocos metros del enemigo. Hoy es un museo al aire libre con trincheras, galerías y posiciones restauradas que se pueden recorrer a pie.",
-        "come": "Desde el Passo Falzarego o Bai de Dones, en telesilla hasta el Rifugio Scoiattoli y después a pie entre las torres y el museo. Cortina está a unos 20 minutos en coche.",
+        "come": "Desde el Paso Falzarego o Bai de Dones, con el telesilla hasta el Rifugio Scoiattoli, y luego se camina entre las torres y el museo. Cortina está cerca en coche.",
         "quando": "De finales de junio a mediados de octubre, con los remontes abiertos.",
         "tempo": "3-4 horas con la visita al museo al aire libre",
         "consiglio": "Es una de las pocas excursiones fáciles con la historia dentro del paisaje: llegar sabiendo la historia de la Primera Guerra Mundial hace las torres mucho más interesantes."
@@ -242,7 +242,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Lago di Sorapis",
         "testo": "Un lago de montaña en forma de herradura, de un turquesa lechoso por la harina glaciar, bajo las paredes del Sorapis. El sendero cruza cornisas equipadas con cables.",
-        "come": "Desde el Passo Tre Croci, a pocos kilómetros de Cortina, parte el sendero 217. En el tramo final hay pasos expuestos con cables de seguridad; hacen falta botas de trekking.",
+        "come": "Desde el Paso Tre Croci, a pocos kilómetros de Cortina, sale el sendero 215, el más transitado. En el tramo final hay pasos expuestos con cables de seguridad; hacen falta botas de montaña. En el lago está prohibido bañarse y acampar.",
         "quando": "De finales de junio a septiembre. Antes, en los tramos de sombra todavía hay nieve.",
         "tempo": "5-6 horas ida y vuelta",
         "consiglio": "Salir temprano: el sendero es estrecho y en temporada alta se hace cola justo en los cables. El lago es lo mejor al final, pero conviene llegar cuando aún haya luz."
@@ -268,7 +268,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "titolo": "1 día",
         "tappe": [
-          "A las 7:30, subir con el primer teleférico de Ortisei a Seceda (2.500 m) y caminar por la cresta hasta la Cima Pana.",
+          "Subir con el primer teleférico de Ortisei a la Seceda y caminar por la cresta hasta la Cima Pana.",
           "Bajar a pie hacia el Rifugio Firenze y comer canederli y sopa de cebada.",
           "Por la tarde seguir hasta Santa Cristina y volver en autobús a Ortisei.",
           "Cena en Ortisei con speck, Schlutzkrapfen y una copa de Lagrein."
@@ -347,7 +347,7 @@ export const destinazioniItalia: Destinazione[] = [
       "Refugios: reservar desde enero-febrero para julio-agosto, llevar efectivo (a menudo la tarjeta no funciona) y el saco sábana, obligatorio.",
       "En algunas regiones el rescate en montaña se paga; conviene un seguro con cobertura para trekking y rescate en helicóptero.",
       "En las vías ferratas usar un kit completo homologado (casco, arnés, disipador) y no ir solo sin experiencia: la mayoría de las intervenciones de rescate son en ferratas.",
-      "Aparcamiento: en los puntos más conocidos en verano las plazas se acaban antes de las 8. Muchas carreteras de paso tienen limitaciones horarias o prohibiciones para las motos en ciertos días: leer las señales."
+      "Aparcamiento: en los puntos más conocidos en verano las plazas se acaban a primera hora. Muchas carreteras de los puertos tienen limitaciones horarias o prohibiciones para motos ciertos días: mirar las señales."
     ],
     esperienzeSlugs: ['alta-via-1', 'tre-cime-lavaredo', 'via-ferrata-dolomiti'],
     tripSlugs: ['dolomiti-roadtrip'],
@@ -603,7 +603,7 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Se sale desde cualquier pueblo alrededor del Sella (Selva, Canazei, Arabba, Corvara) con el forfait Dolomiti Superski. El sentido horario está señalizado con carteles naranjas y el antihorario con carteles verdes.",
         "quando": "En temporada, de diciembre a mediados de abril. Salir antes de las 9:30 y llegar al último remonte antes del cierre (normalmente hacia las 16): quien llega tarde tiene que volver en taxi.",
         "tempo": "una jornada entera: 4-5 horas esquiando más pausas",
-        "costo": "Forfait diario Dolomiti Superski alrededor de 86 euros en temporada alta y 77 en baja, temporada 2025/26; para 2026/27 la prensa habla de una subida de unos euros",
+        "costo": "Las tarifas del forfait Dolomiti Superski cambian cada temporada: consultarlas en la web oficial antes de salir",
         "url": "https://www.dolomitisuperski.com/",
         "consiglio": "Comprobar los horarios del último remonte de cada paso esa misma mañana. El tramo Arabba-Corvara es el más largo sin posibilidad de parar: llevar algo de comer en el bolsillo."
       },
@@ -628,7 +628,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Cervinia y Zermatt",
         "testo": "La zona esquiable más alta de Italia: desde Breuil-Cervinia (2.050 m) se sube por encima de los 3.400 metros hasta el Plateau Rosà y se esquía también en verano en el glaciar. Con el forfait internacional se cruza la frontera con Suiza y se baja a Zermatt, bajo el Cervino.",
-        "come": "Desde Aosta a Breuil-Cervinia hay una hora en coche o en autobús. Los remontes salen del pueblo. Para Zermatt hace falta el forfait ampliado.",
+        "come": "Desde Aosta se va a Breuil-Cervinia en coche o en autobús. Los remontes salen del pueblo. Para Zermatt hace falta el forfait ampliado.",
         "quando": "De noviembre a mayo para tener nieve en altura; la conexión con Zermatt depende del tiempo y del viento.",
         "tempo": "3-5 días; el recorrido Cervinia-Zermatt ocupa una jornada entera",
         "url": "https://www.cervinia.it/",
@@ -637,7 +637,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Courmayeur y Skyway Monte Bianco",
         "testo": "Courmayeur está a los pies del Mont Blanc. El teleférico Skyway sube hasta la Punta Helbronner (3.466 m): desde allí se ve el macizo de cerca. Las pistas son más cortas que en las grandes zonas, pero hay itinerarios fuera de pista famosos, como la Vallée Blanche, solo con guía.",
-        "come": "Courmayeur está a una hora de Aosta. El Skyway sale de Pontal d'Entrèves, a pocos minutos del centro.",
+        "come": "A Courmayeur se llega en coche o autobús desde Aosta. El Skyway sale de Pontal d'Entrèves, a pocos minutos del centro.",
         "quando": "Diciembre-abril. Para subir con el Skyway elegir días despejados: con nubes no hay panorama.",
         "tempo": "2-3 días; el Skyway requiere media jornada",
         "url": "https://www.montebianco.com/",
@@ -646,7 +646,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Via Lattea (Sestriere y Sauze d'Oulx)",
         "testo": "Una zona esquiable del Piamonte de unos 400 km de pistas que une Sestriere, Sauze d'Oulx, Sansicario, Cesana y Claviere, con un paso a Francia en Montgenèvre. Sestriere acogió los Juegos Olímpicos de 2006. Las pistas son variadas y el carácter es menos lujoso que en los Dolomitas.",
-        "come": "Desde Turín, unas 1 hora y 30 minutos en coche. Desde Oulx también hay tren, después autobús hasta Sauze o Sestriere.",
+        "come": "Desde Turín en coche por el valle de Susa. Hasta Oulx también hay tren, y luego autobús a Sauze o Sestriere.",
         "quando": "De diciembre a abril. Altitudes más bajas que Cervinia: la nieve es menos segura a principio y final de temporada.",
         "tempo": "3-5 días",
         "url": "https://www.vialattea.it/",
@@ -655,7 +655,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Livigno",
         "testo": "Zona extraaduanera en Valtellina, a 1.816 m, con una de las nieves más fiables de los Alpes italianos. Pistas anchas y tranquilas, buenas para principiantes y familias, y un gran snowpark. Aquí el combustible, el alcohol y los perfumes cuestan menos.",
-        "come": "Desde Milán, unas 4 horas en coche, por Bormio y el Passo d'Eira, o por Suiza con el túnel Munt la Schera. Comprobar el estado de las carreteras en invierno.",
+        "come": "Desde Milán en coche, pasando por Bormio y el Paso de Eira, o desde Suiza por el túnel Munt la Schera. Comprobar el estado de las carreteras en invierno.",
         "quando": "De finales de noviembre a abril.",
         "tempo": "3-5 días",
         "url": "https://www.livigno.eu/",
@@ -663,7 +663,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Marmolada",
-        "testo": "La pista más larga de los Dolomitas baja del glaciar unos 12 km, de Punta Rocca a Malga Ciapela, con casi 2.000 metros de desnivel. Es un descenso de esquí de alta montaña, abierto según las condiciones de la nieve.",
+        "testo": "La pista más larga de las Dolomitas baja del glaciar unos 12 km, de Punta Rocca a Malga Ciapela, con un desnivel muy fuerte. Es un descenso de alta montaña, abierto según las condiciones de nieve.",
         "come": "Desde Malga Ciapela, en el Alto Agordino, un teleférico en tres tramos sube hasta Punta Rocca. Desde allí se baja siguiendo la pista. Los remontes forman parte de Dolomiti Superski.",
         "quando": "De diciembre a abril, con nieve a menudo buena en primavera. Los remontes dependen del tiempo.",
         "tempo": "media jornada para el descenso",
@@ -814,18 +814,18 @@ export const destinazioniItalia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Coliseo, Foro Romano y Palatino",
-        "testo": "El anfiteatro Flavio, inaugurado en el año 80 d. C., acogía hasta 50.000 espectadores. Con la misma entrada se visitan el Foro Romano, el corazón político de la ciudad antigua, y el Palatino, la colina de los palacios imperiales.",
-        "come": "Metro B hasta Colosseo. La entrada es nominativa y se controla el documento a la entrada. Con la entrada estándar se entra en el Coliseo y se visitan el Foro y el Palatino también más tarde ese día o al día siguiente (la entrada vale 24 horas desde el primer acceso).",
-        "quando": "Abierto todos los días, salvo el 25 de diciembre y el 1 de enero. Primera franja de la mañana o últimas horas de la tarde para evitar colas; en verano el Foro es muy caluroso y sin sombra.",
+        "testo": "El anfiteatro Flavio, inaugurado en el año 80 d.C., acogía a decenas de miles de espectadores. Con la misma entrada se visitan el Foro Romano, el corazón político de la ciudad antigua, y el Palatino, la colina de los palacios imperiales.",
+        "come": "Metro B hasta Colosseo. Todas las entradas son nominativas y en el acceso se muestra el documento. La entrada estándar vale 24 horas, con un acceso al Coliseo (sin arena) y uno al Foro y al Palatino; las Full Experience (arena, subterráneos, ático) valen dos días consecutivos.",
+        "quando": "Cerrado el 25 de diciembre y el 1 de enero. Del 25 de octubre de 2026 al 28 de febrero de 2027 abre a las 8:30 y cierra a las 16:30, última entrada a las 15:30; en verano el horario es más largo, en la web oficial. Primera franja de la mañana o últimas horas para evitar colas; en verano el Foro es muy caluroso y sin sombra.",
         "tempo": "media jornada, 3-4 horas para todo",
-        "costo": "18 euros general, 2026 (entrada estándar Coliseo, Foro y Palatino); la experiencia Full con arena y subterráneos cuesta 24 euros más la reserva",
+        "costo": "tarifas en el canal oficial; entrada gratuita el primer domingo de cada mes, el 25 de abril, el 2 de junio y el 4 de noviembre",
         "url": "https://colosseo.it/",
         "consiglio": "Comprar solo por el canal oficial y con antelación para las mejores franjas. Visitar primero el Foro y el Palatino si hace calor, y el interior del Coliseo en las horas más frescas."
       },
       {
         "nome": "Museos Vaticanos y Capilla Sixtina",
         "testo": "Kilómetros de salas con colecciones de arte antiguo y renacentista: la Galería de los Mapas, las Estancias de Rafael y, al final, la Capilla Sixtina con los frescos de Miguel Ángel. El recorrido es largo y obligado, con multitud continua.",
-        "come": "Metro A hasta Ottaviano o Cipro y después 10 minutos a pie. Mejor reservar en línea en la web oficial para evitar la cola de la taquilla. Desde la Sixtina se puede salir directamente a San Pedro solo con visita guiada autorizada.",
+        "come": "Metro A hasta Ottaviano o Cipro, y luego a pie. Mejor reservar online en la web oficial para evitar la cola de taquilla.",
         "quando": "De lunes a sábado de 8 a 20 h, última entrada a las 18 h. Cerrados los domingos, salvo el último del mes (de 9 a 14 h, última entrada a las 12:30), cuando la entrada es gratuita y hay muchísima gente. También cierran en algunas fiestas religiosas: ver el calendario en la web. Primera franja de la mañana o última hora de la tarde.",
         "tempo": "3-4 horas",
         "costo": "20 euros la entrada general, 25 euros con reserva online en la web oficial (2026)",
@@ -844,15 +844,15 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Panteón",
         "testo": "El templo de todos los dioses, reconstruido con Adriano en el siglo II d. C. La cúpula de hormigón sin armar sigue siendo la mayor de su tipo en el mundo, con el óculo abierto en el centro por donde entra la luz y también la lluvia. Dentro están enterrados Rafael y los primeros reyes de Italia.",
-        "come": "En el centro, entre Piazza Navona y la Fontana di Trevi, a pie. Desde 2023 la entrada es de pago, con entrada que se compra en línea o en el lugar. Durante las funciones religiosas el acceso es limitado.",
-        "quando": "Todos los días. Por la mañana temprano o por la tarde para ver menos gente; con lluvia el óculo crea un ambiente especial.",
+        "come": "En el centro, entre Piazza Navona y la Fontana de Trevi, a pie. Desde 2023 la entrada es de pago, con billete online o en el lugar. Durante los oficios religiosos el acceso es limitado.",
+        "quando": "Todos los días de 9 a 19, última entrada a las 18:30; el primer domingo de cada mes la entrada es gratuita (web oficial). A primera hora o por la tarde para encontrar menos gente; con lluvia el óculo crea un ambiente especial.",
         "tempo": "30-45 minutos",
         "consiglio": "Comprobar con antelación las normas y el precio de la entrada. La plaza exterior está llena de gente y de restaurantes turísticos: no comer allí."
       },
       {
         "nome": "Galleria Borghese",
         "testo": "La colección del cardenal Escipión Borghese en una villa dentro del parque: Bernini (Apolo y Dafne, el Rapto de Proserpina), Caravaggio, Tiziano y Canova. Es una de las colecciones más bellas de Roma, con pocos visitantes a la vez.",
-        "come": "Dentro de Villa Borghese, a unos 20 minutos a pie desde Piazza di Spagna o desde Piazzale Flaminio. Reserva obligatoria con entrada por franjas de dos horas.",
+        "come": "Dentro de Villa Borghese, a pie desde Piazza di Spagna o Piazzale Flaminio. Reserva obligatoria con turnos de dos horas.",
         "quando": "Cerrada los lunes. Las franjas se agotan con días o semanas de antelación en temporada alta.",
         "tempo": "2 horas (la visita tiene duración fija)",
         "url": "https://galleriaborghese.cultura.gov.it/",
@@ -861,8 +861,8 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Vía Apia Antigua",
         "testo": "La reina de las calzadas romanas, construida en el 312 a. C. Hay adoquines originales, tumbas, villas y acueductos, y las catacumbas de San Calixto y San Sebastián bajo la calzada. El Parque de la Vía Apia Antigua es una de las pocas grandes zonas verdes cerca del centro.",
-        "come": "Desde el centro en los autobuses 118 o 660 y a pie; también en bici de alquiler. Los domingos y festivos el tramo principal está cerrado al tráfico.",
-        "quando": "Domingo, que es el mejor día: cerrada a los coches. Las catacumbas tienen distintos días de cierre (normalmente San Calixto los miércoles y San Sebastián los domingos): comprobar.",
+        "come": "Desde el centro con los autobuses urbanos (el 118 pasa por Porta Capena y Porta San Sebastiano, el 660 llega a Cecilia Metella) y a pie; o en bici de alquiler. Los domingos y festivos la Appia está cerrada a los vehículos a motor desde Porta San Sebastiano, de 9 a 16 con horario de invierno y de 9 a 18 con horario de verano.",
+        "quando": "El domingo, que es el mejor día porque está cerrada a los coches. Las catacumbas tienen días de cierre distintos: consultarlos en sus webs antes de ir.",
         "tempo": "media jornada",
         "url": "https://www.parcoappiaantica.it/",
         "consiglio": "La Vía Apia en domingo está a media hora del Coliseo y casi nadie va. Se camina sobre adoquines originales entre sepulcros y pinos, con los acueductos a lo lejos. Llevar agua: hay pocos puntos para comer o beber en el camino."
@@ -879,19 +879,19 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "San Luigi dei Francesi",
         "testo": "La iglesia nacional de los franceses en Roma, cerca de Piazza Navona. En la capilla Contarelli hay tres lienzos de Caravaggio sobre san Mateo: la Vocación, el Martirio y la Inspiración.",
-        "come": "A pie desde Piazza Navona o el Panteón, en pocos minutos. La entrada es gratuita. Para iluminar los cuadros se echa una moneda de 1 euro en la máquina.",
+        "come": "A pie desde Piazza Navona o el Panteón, en pocos minutos. La entrada es gratuita.",
         "quando": "Todos los días con horarios partidos. A media mañana de un día laborable hay poca gente.",
         "tempo": "20-30 minutos",
-        "costo": "entrada gratuita; 1 euro para la luz",
+        "costo": "entrada gratuita",
         "consiglio": "Fui a media mañana de un martes de noviembre: se puede estar diez minutos delante de la Vocación de San Mateo prácticamente solo. Llevar monedas."
       },
       {
         "nome": "Trastevere y el Gueto judío",
         "testo": "Dos barrios donde Roma sigue habitada. Trastevere tiene callejuelas, osterías y la basílica de Santa María in Trastevere con sus mosaicos dorados. El Gueto judío, cerca del Pórtico de Octavia, es el lugar del carciofo alla giudia.",
-        "come": "A pie desde el centro cruzando el Tíber por la isla Tiberina. Tranvía 8 desde Largo Argentina hasta Trastevere.",
+        "come": "A pie desde el centro cruzando el Tíber por la isla Tiberina, o con el tranvía 8 desde Largo Argentina cuando está en servicio.",
         "quando": "Por la mañana para las callejuelas; por la noche para cenar. Trastevere un sábado por la noche está muy lleno.",
         "tempo": "media jornada",
-        "consiglio": "Para comer bien, alejarse de los restaurantes con camareros que invitan a entrar. En Testaccio, Pigneto o San Lorenzo se come una cacio e pepe bien hecha por unos 15 euros, a quinientos metros de sitios donde el mismo plato cuesta el doble."
+        "consiglio": "Para comer bien, alejarse de los restaurantes con camareros que invitan a entrar. En Testaccio, el Pigneto o San Lorenzo se come una cacio e pepe bien hecha, a menudo por una fracción del precio de los locales junto a los monumentos."
       }
     ],
     programmi: [
@@ -930,7 +930,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Trastevere",
         "perChi": "quien quiere vida nocturna",
-        "testo": "Callejuelas, osterías y música. Lleno y ruidoso los fines de semana; los restaurantes de las calles principales son turísticos. El centro queda a 15-20 minutos a pie."
+        "testo": "Callejuelas, tabernas y música. Llena y ruidosa los fines de semana; los restaurantes de las calles principales son turísticos. Al centro se llega a pie cruzando el Tíber."
       },
       {
         "nome": "Prati",
@@ -1035,7 +1035,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Duomo y cúpula de Brunelleschi",
         "testo": "La catedral de Santa Maria del Fiore con la mayor cúpula de mampostería jamás construida, terminada en 1436 sin cimbras. Al subir los 463 escalones se camina entre las dos cáscaras, a pocos centímetros de los frescos del Juicio Final, hasta la linterna con vistas a toda la ciudad.",
-        "come": "En pleno centro, a 15 minutos a pie de la estación. La subida a la cúpula es por franja horaria y hay que reservarla en línea en la web oficial de la Opera del Duomo. La entrada a la catedral es gratuita, con cola en los controles.",
+        "come": "En pleno centro, a pie desde la estación. La subida a la cúpula es por franja horaria y se reserva online en la web oficial de la Opera del Duomo. La entrada a la catedral es gratuita, con cola en los controles.",
         "quando": "Primera franja de la mañana, para subir con poca gente. La escalera es estrecha y no hay ascensores: no apto para quien sufra claustrofobia o vértigo.",
         "tempo": "1 hora y media para la cúpula, más la catedral",
         "url": "https://www.duomo.firenze.it/",
@@ -1054,25 +1054,24 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Galería de los Uffizi",
         "testo": "El museo de pintura más importante de Italia: el Nacimiento de Venus y la Primavera de Botticelli, la Maestà de Ognissanti de Giotto, Leonardo, Rafael, Miguel Ángel, Caravaggio. El recorrido sigue la historia de la pintura desde la Edad Media hasta el siglo XVIII.",
         "come": "A pie desde Piazza della Signoria. La entrada es con reserva: la cola sin entrada es larga incluso en temporada baja. La visita es lineal y no hay atajo: elegir antes las salas.",
-        "quando": "Cerrado los lunes. Primera franja de la mañana o después de las 16 (hay una tarifa de tarde desde 2026).",
+        "quando": "De martes a domingo de 8:15 a 18:30, última entrada a las 17:30; cerrado los lunes, el 1 de enero y el 25 de diciembre. Primera franja de la mañana o última hora de la tarde.",
         "tempo": "3 horas",
-        "costo": "25 euros el mismo día, 29 euros reservando con antelación, 2026; tarifa de tarde desde las 16 a 16 euros (20 reservando)",
+        "costo": "25 euros el mismo día, 29 euros reservando con antelación (web oficial, 2026)",
         "url": "https://www.uffizi.it/",
         "consiglio": "Reservar con semanas de antelación en temporada alta. Tres horas bastan para las salas principales: intentar concentrarse en Botticelli, Leonardo y Caravaggio."
       },
       {
         "nome": "Galleria dell'Accademia",
         "testo": "El David de Miguel Ángel, de más de cinco metros de altura, al fondo de una galería con los Prisioneros inacabados. El resto del museo es pequeño y se ve en una hora.",
-        "come": "A diez minutos a pie del Duomo, en via Ricasoli. Reserva recomendada, con coste adicional.",
-        "quando": "Cerrada los lunes. El primer domingo del mes la entrada es gratuita, con colas muy largas.",
+        "come": "A pie desde el Duomo, en via Ricasoli. Reserva recomendada.",
+        "quando": "Cerrada los lunes; horarios y días gratuitos en la web oficial. Mejor la primera franja de la mañana.",
         "tempo": "1 hora-1 hora y media",
-        "costo": "20 euros general más 4 euros de reserva, 2026",
         "consiglio": "El David se ve mejor de cerca, rodeándolo: los Prisioneros de la galería ayudan a entender cómo trabajaba Miguel Ángel. Reservar con antelación."
       },
       {
         "nome": "Palazzo Pitti y Jardín de Boboli",
         "testo": "La residencia de los Medici, luego de los Lorena y los Saboya, en la otra orilla del Arno. Dentro están la Galería Palatina con Rafael y Tiziano, los apartamentos reales y varios museos. Detrás, el Jardín de Boboli es un parque a la italiana con vistas a la ciudad.",
-        "come": "A pie desde el Ponte Vecchio, en cinco minutos. Los museos y el jardín se visitan con entradas separadas o combinadas: comprobar en la web.",
+        "come": "A pie desde el Ponte Vecchio. Los museos y el jardín tienen entradas separadas o combinadas: consultar la web.",
         "quando": "Cerrado los lunes. En verano el jardín es caluroso y en muchos puntos sin sombra: ir por la mañana temprano.",
         "tempo": "media jornada",
         "url": "https://www.uffizi.it/palazzo-pitti",
@@ -1081,8 +1080,8 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Capilla Brancacci",
         "testo": "El ciclo de frescos de Masaccio y Masolino en la iglesia del Carmine, que marca el inicio de la pintura renacentista. La Expulsión del Edén de Masaccio es una de las imágenes más fuertes del siglo XV.",
-        "come": "En el Oltrarno, en piazza del Carmine, a 15 minutos a pie del centro. Entrada limitada y reserva recomendada.",
-        "quando": "Comprobar los días de cierre en la web de los museos cívicos; normalmente cierra un día a mitad de semana.",
+        "come": "En el Oltrarno, en la piazza del Carmine, a pie desde el centro. Aforo limitado y reserva recomendada.",
+        "quando": "Consultar horarios y días de cierre en la web de los museos cívicos florentinos antes de ir.",
         "tempo": "45 minutos",
         "url": "https://museicivicifiorentini.comune.fi.it/",
         "consiglio": "Está menos concurrida que los grandes museos y es igual de importante. Antes de entrar merece la pena leer dos líneas sobre Masaccio: la visita resulta mucho más interesante."
@@ -1090,7 +1089,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "San Miniato al Monte",
         "testo": "La iglesia románica del siglo XI en la colina al sur del Arno, con la fachada incrustada de mármol blanco y verde y un suelo con motivos zodiacales. Los monjes olivetanos cantan en gregoriano por la tarde.",
-        "come": "A pie desde el Ponte Vecchio, por Porta San Niccolò y las escaleras (unos 25 minutos), o en autobús 12 y 13. Poco más arriba del Piazzale Michelangelo.",
+        "come": "A pie desde el Ponte Vecchio, pasando por Porta San Niccolò y las escaleras, o en los autobuses 12 y 13. Un poco por encima del Piazzale Michelangelo.",
         "quando": "Todos los días. A última hora de la tarde, para el atardecer y el canto de los monjes. Comprobar los horarios de las funciones en la web.",
         "tempo": "1 hora",
         "url": "https://www.sanminiatoalmonte.it/",
@@ -1245,27 +1244,27 @@ export const destinazioniItalia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Basílica de San Marcos",
-        "testo": "La basílica bizantina de los dux, con unos 8.000 metros cuadrados de mosaicos dorados que cubren bóvedas y cúpulas. El suelo ondulado, la Pala d'Oro y los caballos de bronce del museo son los puntos que hay que buscar.",
+        "testo": "La basílica bizantina de los dux, con miles de metros cuadrados de mosaicos dorados que cubren bóvedas y cúpulas. El suelo ondulado, la Pala d'Oro y los caballos de bronce del museo son lo que hay que buscar.",
         "come": "En Piazza San Marco, se llega en vaporetto (parada San Marco-San Zaccaria) o a pie desde Rialto. La entrada exige ropa que cubra hombros y rodillas. No se admiten mochilas ni bolsos grandes: hay consignas cerca.",
         "quando": "Todos los días; las primeras horas de la mañana son las menos concurridas. Durante las funciones religiosas el acceso es limitado.",
         "tempo": "1 hora",
         "url": "https://www.basilicasanmarco.it/",
-        "consiglio": "Reservar en línea la entrada por franja horaria para evitar la cola en la plaza. Subir al museo y a la logia de los caballos para ver los mosaicos de cerca y la plaza desde arriba."
+        "consiglio": "Reservar la entrada online para evitar la cola en la plaza. La Pala d'Oro y el Museo con la Logia de los Caballos tienen entrada propia: la logia merece la subida, para ver los mosaicos de cerca y la plaza desde arriba."
       },
       {
         "nome": "Palacio Ducal",
         "testo": "La sede del gobierno de la República y residencia del dux, en gótico veneciano. Dentro están la Sala del Gran Consejo con el Paraíso de Tintoretto, la Escalera de los Gigantes, las cárceles y el Puente de los Suspiros. Los Itinerarios Secretos llevan a las estancias de los funcionarios.",
-        "come": "Junto a la Basílica, en la cuenca de San Marcos. La entrada estándar incluye también los museos de Piazza San Marco. Recomendable la audioguía, que se recoge a la entrada.",
+        "come": "Junto a la Basílica, en la cuenca de San Marcos. La entrada estándar incluye también los museos de la Piazza San Marco.",
         "quando": "Abierto todos los días: de 9 a 19 h de abril a octubre, de 9 a 18 h de noviembre a marzo, última entrada una hora antes del cierre. Primera hora de la mañana o última de la tarde para evitar los grupos.",
         "tempo": "2-3 horas",
         "costo": "35 euros la entrada general, con los Museos de la Plaza de San Marcos; 30 euros si se compra online con más de 30 días de antelación (2026)",
         "url": "https://palazzoducale.visitmuve.it/",
-        "consiglio": "Comprar online con más de un mes de antelación ahorra 5 euros y permite saltarse la cola. La audioguía de la app MUVE está incluida en la entrada."
+        "consiglio": "Comprar online con más de un mes de antelación ahorra 5 euros y permite saltarse la cola. Si hay tiempo, los Itinerarios Secretos, con visita guiada, muestran salas a las que no llega el recorrido normal."
       },
       {
         "nome": "Scuola Grande di San Rocco",
         "testo": "El ciclo de pinturas de Tintoretto, realizado en más de veinte años, cubre paredes y techos de tres plantas. Es la Capilla Sixtina de Venecia, pero con mucha menos gente. En la sala superior unos espejos permiten mirar el techo sin doblar el cuello.",
-        "come": "A pie desde la estación de tren o Piazzale Roma en unos 15 minutos, cerca de la iglesia de los Frari (campo San Rocco). En vaporetto, parada San Tomà.",
+        "come": "A pie desde la estación de tren o Piazzale Roma, junto a la iglesia de los Frari (campo San Rocco). En vaporetto, parada San Tomà.",
         "quando": "Abierta todos los días; comprobar horarios y cierres en la web. Las horas centrales son tranquilas.",
         "tempo": "1 hora",
         "url": "https://www.scuolagrandesanrocco.it/",
@@ -1274,15 +1273,15 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Rialto y el mercado del pescado",
         "testo": "El puente más antiguo sobre el Gran Canal, de piedra desde 1591, con el barrio comercial histórico alrededor. En la Pescheria, del lado de San Polo, por la mañana se vende pescado de laguna y de mar a los residentes; cerca hay fruta y verdura.",
-        "come": "A pie desde la estación o San Marcos en 20 minutos, o en vaporetto 1 hasta Rialto. El mercado está a unos minutos del puente.",
-        "quando": "A primera hora. La Pescheria cierra los domingos y los lunes; comprobar. El puente está lleno desde las 10.",
+        "come": "A pie desde la estación o San Marcos, o con el vaporetto 1 hasta Rialto. El mercado está a pocos minutos del puente.",
+        "quando": "A primera hora. La Pescheria suele cerrar los domingos y lunes: comprobarlo. El puente se llena a media mañana.",
         "tempo": "1 hora",
         "consiglio": "Al acabar el mercado, ir a comer cicheti en los bacari cercanos. Ver el puente al amanecer, cuando está vacío."
       },
       {
         "nome": "Cannaregio y el Gueto",
         "testo": "El sestiere más habitado, con canales anchos y osterías donde comen los venecianos. El Gueto, instituido en 1516, es el primer gueto judío de Europa: los edificios son altos porque no se podía ampliar el área. Se visitan las sinagogas y el museo judío.",
-        "come": "A pie desde la estación de tren en 10 minutos. El museo judío organiza visitas guiadas a las sinagogas.",
+        "come": "A pie desde la estación de tren. El museo judío organiza visitas guiadas a las sinagogas.",
         "quando": "Abierto todo el año; el museo judío cierra los sábados y en las fiestas judías.",
         "tempo": "media jornada",
         "consiglio": "Perderse por las calli lejos del eje estación-Rialto: en Cannaregio es fácil encontrar la Venecia que viven los residentes."
@@ -1298,7 +1297,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Torcello",
         "testo": "La isla donde empezó Venecia. La basílica de Santa Maria Assunta, del siglo VII, tiene un mosaico del Juicio Final que cubre una pared entera. Hoy viven allí pocas decenas de personas.",
-        "come": "Desde Fondamente Nove se toma el vaporetto 12 hasta Burano y después el 9 hacia Torcello, en unos 40 minutos en total.",
+        "come": "Desde Fondamente Nove con el vaporetto 12 hasta Burano y luego el 9 hasta Torcello.",
         "quando": "Todos los días; la mañana es tranquila. Comprobar el horario de la basílica.",
         "tempo": "media jornada, combinada con Burano",
         "consiglio": "Fui a pleno día y había veinte personas: es allí donde empezó Venecia, antes de que existiera Venecia."
@@ -1344,7 +1343,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Cannaregio",
         "perChi": "quien quiere una zona habitada y gastar menos",
-        "testo": "Cerca de la estación, con canales amplios y las osterías de los venecianos. Más tranquila y barata que el centro, a 20-25 minutos a pie de San Marcos."
+        "testo": "Cerca de la estación, con canales anchos y tabernas de venecianos. Más tranquila y barata que el centro, a un paseo de San Marcos."
       },
       {
         "nome": "Castello",
@@ -1359,7 +1358,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Mestre",
         "perChi": "quien quiere gastar lo mínimo",
-        "testo": "En tierra firme, a 10-15 minutos en tren de Venezia Santa Lucia. Cuesta menos, pero se pierden el amanecer y la noche en la ciudad, que son los mejores momentos. Dormir en el centro exime de la tasa de acceso."
+        "testo": "En tierra firme, a pocos minutos en tren de Venezia Santa Lucia. Cuesta menos, pero se pierden el amanecer y la noche en la ciudad, que son los mejores momentos. Quien duerme en el centro histórico está exento de la tasa de acceso."
       }
     ],
     sapori: [
@@ -1389,7 +1388,7 @@ export const destinazioniItalia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Tasa de acceso para quien entra en el día sin pernoctar: en 2026 se aplicó en 60 jornadas entre abril y julio, 5 euros reservando con al menos cuatro días de antelación y 10 euros por debajo de ese plazo. Quien duerme en la ciudad está exento pero debe registrarse. Comprobar el calendario cada año.",
+      "Tasa de acceso para quien entra en el día sin pernoctar: la prueba de 2026 terminó el 27 de julio. Para 2027 el Ayuntamiento ya ha fijado 72 días entre el 26 de marzo y el 15 de agosto, con la tasa debida de 8:30 a 16:30; importes y exenciones se publican en cda.ve.it. Consultar el calendario antes de salir.",
       "Desde 2024 los grupos turísticos están limitados a 25 personas y están prohibidos los altavoces.",
       "Carteristas en los vaporetti 1 y 2 llenos, en Rialto y en San Marcos. Llevar los bolsos cerrados y por delante.",
       "El billete sencillo del vaporetto es caro y los pases por tiempo compensan si se hacen varios viajes al día. Validar siempre el billete antes de subir.",
@@ -1479,15 +1478,15 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Nápoles subterránea y catacumbas",
         "testo": "Bajo la ciudad hay canteras griegas, acueductos romanos y refugios antiaéreos de la guerra. Las catacumbas de San Gennaro, en el barrio de la Sanità, son las más grandes del sur de Italia, con frescos paleocristianos.",
-        "come": "Para Napoli Sotterranea la entrada está en Piazza San Gaetano, con visita guiada a horas fijas. Las catacumbas de San Gennaro están en el barrio de la Sanità, a unos veinte minutos a pie del MANN.",
+        "come": "A la Nápoles subterránea se entra por la Piazza San Gaetano, con visita guiada a horas fijas. Las catacumbas de San Gennaro están en el barrio de la Sanità, a pie desde el MANN.",
         "quando": "Todo el año, también con lluvia. Bajo tierra hace fresco: llevar una sudadera.",
         "tempo": "1 hora y media por visita",
         "consiglio": "Hacer solo una de las dos si hay poco tiempo: Napoli Sotterranea por la guerra y las canteras, las catacumbas por el arte."
       },
       {
         "nome": "Pompeya",
-        "testo": "Una ciudad romana de 66 hectáreas sellada por la erupción del 79 d.C.: calles con las marcas de los carros, tiendas, termas, casas con frescos, el foro y el anfiteatro. La parte excavada es grande y hay que elegir qué ver.",
-        "come": "Circumvesuviana, línea Nápoles-Sorrento, hasta Pompei Scavi-Villa dei Misteri (unos 40 minutos desde Napoli Garibaldi). También se puede ir en tren regional hasta Pompei. Se recomienda audioguía o guía.",
+        "testo": "Una gran ciudad romana sellada por la erupción del 79 d.C.: calles con las marcas de los carros, tiendas, termas, casas con frescos, el foro y el anfiteatro. La parte excavada es grande y hay que elegir qué ver.",
+        "come": "Circumvesuviana línea Nápoles-Sorrento hasta Pompei Scavi-Villa dei Misteri, desde Napoli Garibaldi. También se puede llegar en tren regional a Pompei. Audioguía o guía recomendadas.",
         "quando": "A la apertura o a última hora de la tarde en verano; no a mediodía, sin sombra. Abierto de 9 a 19 h del 16 de marzo al 14 de octubre (última entrada 17:30) y de 9 a 17 h el resto del año (última entrada 15:30). Cerrado el 25 de diciembre y el 1 de enero, salvo aperturas extraordinarias. Entradas nominativas, límite de 20.000 visitantes al día y franjas horarias en temporada alta.",
         "tempo": "3-4 horas",
         "costo": "Pompei Express 20 euros; Pompei+, con las villas suburbanas y Boscoreale, 25 euros (desde el 12 de enero de 2026). Venta online solo en Vivaticket, o en taquilla",
@@ -1497,7 +1496,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Herculano",
         "testo": "Una ciudad más pequeña que Pompeya, sepultada por el barro y no por la ceniza: se conservaron pisos superiores, vigas de madera carbonizada, puertas y camas. Se ve cómo se vivía de verdad.",
-        "come": "Circumvesuviana, línea Nápoles-Sorrento, hasta Ercolano Scavi (unos 20 minutos desde Napoli Garibaldi), y luego diez minutos a pie cuesta abajo.",
+        "come": "Circumvesuviana línea Nápoles-Sorrento hasta Ercolano Scavi, desde Napoli Garibaldi, y luego un tramo a pie cuesta abajo.",
         "quando": "Por la mañana, en verano. El yacimiento cierra en las fiestas principales: consultar el calendario del sitio oficial.",
         "tempo": "2 horas",
         "url": "https://ercolano.beniculturali.it/",
@@ -1505,9 +1504,9 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Vesubio",
-        "testo": "El volcán que sepultó Pompeya está activo. Se llega en coche o en lanzadera hasta unos 1.000 metros y se sube a pie por un sendero de media hora hasta el borde del cráter, con vista al golfo.",
-        "come": "Desde Ercolano Scavi hay lanzaderas hasta el aparcamiento de la cota 1.000. Desde el último aparcamiento se camina cuesta arriba por un sendero de tierra, con calzado cerrado.",
-        "quando": "Por la mañana, con cielo despejado. En caso de alerta o viento fuerte el acceso puede suspenderse.",
+        "testo": "El volcán que sepultó Pompeya está activo. Se llega en coche o en lanzadera hasta los aparcamientos en altura y se sube a pie por el sendero del Gran Cono hasta el borde del cráter, con vistas al golfo.",
+        "come": "Desde Ercolano hay lanzaderas hacia los aparcamientos en altura. La entrada al Gran Cono se compra solo online, en el canal indicado por el Parque Nacional del Vesubio. Desde el aparcamiento se sube por un sendero de tierra, con calzado cerrado.",
+        "quando": "Por la mañana, con cielo despejado. Con alertas meteorológicas o por eventos el acceso se suspende: consultar los avisos en la web del Parque.",
         "tempo": "3-4 horas entre ida, subida y vuelta",
         "url": "https://www.parconazionaledelvesuvio.it/",
         "consiglio": "Mirar el tiempo el día antes: con nubes bajas se sube sin ver nada."
@@ -1515,7 +1514,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Campos Flégreos y Pozzuoli",
         "testo": "Una zona volcánica al oeste de Nápoles, con bradisismo todavía activo: el anfiteatro Flavio de Pozzuoli, el Rione Terra, el parque arqueológico de Baia con sus termas romanas.",
-        "come": "Ferrocarril Cumana o metro línea 2 hasta Pozzuoli, y luego autobuses locales o taxi hasta los sitios. En coche, unos treinta minutos.",
+        "come": "Cumana o línea 2 del metro hasta Pozzuoli, y luego autobuses locales o taxi a los yacimientos. También se llega en coche.",
         "quando": "Consultar antes los avisos de Protección Civil y si cada sitio está abierto: cambia con las obras.",
         "tempo": "Medio día",
         "consiglio": "Combinarlo con un almuerzo de pescado en Pozzuoli: cuesta menos que en Posillipo."
@@ -1562,7 +1561,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Chiaia y paseo marítimo",
         "perChi": "Quien busca una zona más tranquila",
-        "testo": "Barrio residencial y comercial, con restaurantes y vista al mar desde el paseo marítimo. Más tranquilo por la noche, a diez-veinte minutos a pie del centro histórico y cerca del metro."
+        "testo": "Barrio residencial y comercial, con restaurantes y vistas al mar desde el paseo marítimo. Más tranquilo por la noche, a pie desde el centro histórico y cerca del metro."
       },
       {
         "nome": "Vomero",
@@ -1667,16 +1666,16 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "La Última Cena (Cenacolo Vinciano)",
         "testo": "La Última Cena de Leonardo, pintada en una pared del refectorio de Santa Maria delle Grazie. La técnica experimental empezó a deteriorarse cuando él aún vivía. Se entra en grupos pequeños, en una sala con humedad controlada.",
         "come": "Metro M1 Conciliazione o M2 Cadorna, y unos minutos a pie. Visita por cuenta propia, a la hora fijada en la entrada.",
-        "quando": "Cierra los lunes. Entradas solo con reserva, con ventas que se abren por tandas: sin entrada no se entra. Presentarse al menos 30 minutos antes con un documento.",
-        "tempo": "15 minutos dentro, una hora con espera y controles",
-        "costo": "15 € entrada general, 2 € de 18 a 25 años, gratis hasta los 18 (2026), más reserva",
+        "quando": "De martes a domingo de 8:15 a 19, última entrada a las 18:45; cerrado los lunes, el 1 de enero y el 25 de diciembre. Reserva obligatoria para todas las entradas, también las gratuitas: sin ella no se entra. La entrada se recoge en la taquilla junto al acceso al menos 30 minutos antes del turno, con documento.",
+        "tempo": "15 minutos dentro (turnos de 40 personas como máximo), una hora con la espera y los controles",
+        "costo": "15 euros entrada general, 2 euros de 18 a 25 años, gratis para menores de 18 (web oficial, 2026)",
         "url": "https://cenacolovinciano.org/",
         "consiglio": "Consultar el sitio oficial con meses de antelación para las nuevas aperturas de venta y reservar en cuanto estén disponibles: es el error más común en Milán."
       },
       {
         "nome": "Pinacoteca de Brera",
         "testo": "Una de las colecciones de pintura italiana más importantes, con Mantegna, Rafael, Caravaggio y El beso de Hayez. Está en un palacio del siglo XVIII con patio, en el barrio de Brera.",
-        "come": "Metro M2 Lanza o M3 Montenapoleone, y diez minutos a pie por las calles de Brera. Visita por cuenta propia.",
+        "come": "Metro M2 Lanza o M3 Montenapoleone, y luego a pie por las calles de Brera. Visita por libre.",
         "quando": "Cerrada los lunes; de martes a domingo de 8:30 a 19:15 h, con reserva obligatoria. Por la tarde hay más calma. El barrio se recorre bien por la noche.",
         "tempo": "2 horas",
         "costo": "20 euros la entrada general, billete Grande Brera con el Palazzo Citterio (2026)",
@@ -1711,7 +1710,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Lago de Como: Varenna y Bellagio",
         "testo": "El lago prealpino más célebre, con pueblos de piedra y villas en las orillas. Varenna y Bellagio se miran y se unen en barco.",
-        "come": "Tren de Milano Centrale a Varenna-Esino en una hora aproximadamente, y barco a Bellagio. Líneas y horarios en Navigazione Laghi.",
+        "come": "Tren de Milano Centrale a Varenna-Esino y luego barco a Bellagio. Líneas y horarios en Navigazione Laghi.",
         "quando": "Primavera y otoño, cuando los barcos van menos llenos. Los fines de semana de verano hay mucha gente.",
         "tempo": "Un día entero",
         "url": "https://www.navigazionelaghi.it/",
@@ -1720,7 +1719,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Lago Mayor e Islas Borromeas",
         "testo": "Tres islas frente a Stresa: Isola Bella con el palacio barroco y el jardín, Isola Madre con el parque botánico, Isola dei Pescatori con su pueblo de pescadores.",
-        "come": "Tren de Milano Centrale a Stresa en unos 50 minutos, y barco desde el paseo del lago. Entradas aparte para los palacios.",
+        "come": "Tren de Milano Centrale a Stresa y luego barco desde el paseo del lago. Entradas separadas para los palacios.",
         "quando": "De abril a octubre, con los jardines en flor en primavera. En temporada alta salir temprano.",
         "tempo": "Un día para dos islas",
         "consiglio": "Con un solo día elegir Isola Bella e Isola dei Pescatori: caben en el mismo recorrido."
@@ -1769,7 +1768,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Estación Central",
         "perChi": "Quien tiene poco presupuesto o sale en tren",
-        "testo": "Hoteles más baratos y conexiones con los lagos y otras ciudades. La zona está menos cuidada y por la noche conviene tener cuidado; el centro queda a quince minutos en metro."
+        "testo": "Hoteles más baratos y conexiones con los lagos y otras ciudades. La zona está menos cuidada y por la noche conviene tener cuidado; el centro está a pocas paradas de metro."
       }
     ],
     sapori: [
@@ -1797,7 +1796,7 @@ export const destinazioniItalia: Destinazione[] = [
     attenzioni: [
       "Última Cena: sin reserva no se entra. Las ventas se abren por tandas: consultar el sitio oficial con meses de antelación.",
       "Area B y Area C limitan el acceso de coches al centro, con cámaras: quien entra sin saberlo recibe la multa.",
-      "Salone del Mobile (abril) y semanas de la moda: los alojamientos triplican el precio, reservar con meses de antelación.",
+      "Salone del Mobile (abril) y semanas de la moda: el alojamiento sube mucho de precio, reservar con meses de antelación.",
       "Carteristas en el metro (M1, M3), delante del Duomo y en la estación Central: bolso cerrado por delante, nunca en el bolsillo trasero.",
       "Quien ofrece comida para palomas o pulseras en Piazza Duomo luego pide dinero: rechazar sin coger nada en la mano.",
       "Huelgas de transporte frecuentes (ATM y trenes): consultar el calendario antes de ir a los lagos."
@@ -1925,41 +1924,40 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Palermo: Palacio de los Normandos y Capilla Palatina",
         "testo": "La Capilla Palatina, dentro del palacio real, reúne estructura normanda, mosaicos bizantinos y un techo de madera de artesanos árabes. El palacio tiene también los apartamentos reales.",
         "come": "A pie desde el centro histórico de Palermo, cerca de la Catedral, en Piazza del Parlamento. Se entra con entrada a hora fija; la visita es libre, audioguía opcional.",
-        "quando": "Por la mañana, por la luz sobre los mosaicos. Domingos y festivos el horario se reduce a la mañana. Comprobar cierres por ceremonias.",
+        "quando": "De lunes a sábado de 8:30 a 16:30, domingos y festivos de 8:30 a 12:30 (horas de última entrada, web de la Fundación Federico II). Por la mañana, por la luz sobre los mosaicos. Consultar los cierres por ceremonias y sesiones de la asamblea regional.",
         "tempo": "1 hora y media",
         "url": "https://www.fondazionefedericosecondo.it/",
         "consiglio": "Mirar hacia arriba: los mosaicos del ábside ocupan una pared entera y el techo de muqarnas justifica el tortícolis."
       },
       {
         "nome": "Catedral de Monreale",
-        "testo": "Una catedral normanda del siglo XII con seis mil metros cuadrados de mosaicos dorados bizantinos y un claustro donde cada capitel es distinto. Dentro se entiende cómo Sicilia mantuvo unidas todas las culturas que la conquistaron.",
-        "come": "Desde Palermo, autobús AMAT 389 desde Piazza Indipendenza (a dos pasos del Palacio de los Normandos) o taxi, unos 30-40 minutos. La catedral se visita por cuenta propia; el claustro tiene entrada aparte.",
+        "testo": "Una catedral normanda del siglo XII con más de seis mil metros cuadrados de mosaicos dorados bizantinos y un claustro donde cada capitel es distinto. Dentro se entiende cómo Sicilia mantuvo juntas todas las culturas que la conquistaron.",
+        "come": "Desde Palermo en autobús urbano desde la Piazza Indipendenza (a dos pasos del Palazzo dei Normanni) o en taxi. La catedral se visita por libre; el claustro tiene entrada aparte.",
         "quando": "A primera hora o a primera hora de la tarde. El horario tiene una pausa a mediodía: comprobar antes.",
         "tempo": "2 horas",
-        "costo": "8 € la catedral (2025)",
         "consiglio": "Subir a la terraza de los tejados, si está abierta: se camina sobre la nave y se ve Palermo."
       },
       {
         "nome": "Ballarò y los mercados de Palermo",
         "testo": "Ballarò es el mercado histórico del centro: puestos de pescado, fruta, especias y freidurías. Se come allí mismo: arancine, panelle, sfincione, pan con bazo. La Vucciria es más pequeña y de noche se convierte en punto de reunión.",
-        "come": "A pie desde el Teatro Massimo o la estación, unos diez minutos. El mercado abre por la mañana hasta primera hora de la tarde.",
+        "come": "A pie desde el Teatro Massimo o la estación. El mercado abre por la mañana, hasta primera hora de la tarde.",
         "quando": "Por la mañana. El mercado cierra a primera hora de la tarde. El domingo está más tranquilo.",
         "tempo": "1-2 horas",
         "consiglio": "Comer de pie en los puestos más llenos de palermitanos, no en los que tienen carta en inglés."
       },
       {
         "nome": "Valle de los Templos, Agrigento",
-        "testo": "Un parque de siete templos dóricos del siglo V a.C. alineados en una cresta. El Templo de la Concordia es de los mejor conservados del mundo. El resto del parque baja hacia el jardín de la Kolymbethra.",
+        "testo": "Un parque de templos dóricos del siglo V a.C. alineados sobre una cresta. El Templo de la Concordia está entre los mejor conservados del mundo. El resto del parque baja hacia el jardín de la Kolymbethra.",
         "come": "Desde la estación de Agrigento se toma un autobús urbano hasta la entrada, o se va en coche con aparcamiento de pago. El camino por la cresta es llano.",
-        "quando": "A primera hora o al atardecer; a mediodía en verano no hay sombra y se superan los 40 grados. En verano hay aperturas nocturnas: comprobar las fechas en el sitio.",
+        "quando": "A primera hora o al atardecer: a mediodía en verano no hay sombra y el calor es muy fuerte. En verano hay aperturas nocturnas: consultar las fechas en la web.",
         "tempo": "3 horas",
         "url": "https://www.parcovalledeitempli.it/",
-        "consiglio": "Se hace de noche, cuando los templos están iluminados y la temperatura es llevadera."
+        "consiglio": "En las noches de verano se visita con los templos iluminados y una temperatura soportable."
       },
       {
         "nome": "Segesta y Selinunte",
         "testo": "Segesta tiene un templo dórico sin terminar y un teatro en la colina. Selinunte es uno de los parques arqueológicos más grandes del Mediterráneo, con templos caídos y la acrópolis junto al mar. Reciben una fracción de los visitantes de Agrigento.",
-        "come": "En coche desde Palermo: Segesta a una hora, Selinunte a unas dos. Desde el aparcamiento de Segesta una lanzadera sube al teatro.",
+        "come": "En coche desde Palermo, Segesta más cerca y Selinunte más lejos. Desde el aparcamiento de Segesta una lanzadera sube al teatro.",
         "quando": "Por la mañana, por el calor. Selinunte al atardecer es muy bonito.",
         "tempo": "2 horas en Segesta, 3 en Selinunte",
         "consiglio": "Dormir en Trapani o Marsala para ver los dos sitios con calma en día y medio."
@@ -1967,7 +1965,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Etna",
         "testo": "El volcán activo más alto de Europa. Se sube en teleférico desde Rifugio Sapienza y luego en todoterreno o a pie, caminando sobre lapilli negro que cruje bajo los pies, cerca de las fumarolas. Los cráteres de la cima se visitan solo con guía y dependen de la actividad.",
-        "come": "Desde Catania en coche o autobús hasta Rifugio Sapienza (una hora y media). Por encima de cierta altitud la guía es obligatoria. Calzado cerrado, capas de abrigo y cortavientos.",
+        "come": "Desde Catania en coche o autobús hasta el Rifugio Sapienza. Por encima de cierta altura el guía es obligatorio. Calzado cerrado, capas de abrigo y cortavientos.",
         "quando": "Mañana o atardecer con cielo despejado. Las ascensiones pueden suspenderse por actividad o por el tiempo.",
         "tempo": "Medio día, un día entero con la excursión a los cráteres",
         "url": "https://www.parcoetna.it/",
@@ -1976,7 +1974,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Siracusa y Ortigia",
         "testo": "Ortigia es la isla del casco antiguo: la catedral está construida dentro de un templo dórico, con las columnas aún visibles en los muros. En el parque de la Neapolis están el teatro griego, la Oreja de Dionisio y el anfiteatro romano.",
-        "come": "Ortigia a pie por el puente; el parque arqueológico a veinte minutos a pie o en autobús desde la estación. Visita por cuenta propia.",
+        "come": "Ortigia a pie desde el puente; el parque arqueológico a pie o en autobús desde la estación. Se visita por libre.",
         "quando": "La Neapolis a primera hora. En mayo-junio, durante las representaciones clásicas en el teatro griego, la visita puede estar limitada.",
         "tempo": "Un día entero, medio día para Ortigia",
         "consiglio": "Cenar en Ortigia y alojarse fuera de la zona de tráfico limitado, donde aparcar cuesta menos."
@@ -1984,7 +1982,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Val di Noto: Noto, Módica y Ragusa Ibla",
         "testo": "Ciudades reconstruidas en estilo barroco tras el terremoto de 1693, patrimonio UNESCO. Noto tiene el escenario de una calle larga y dorada; Módica, el chocolate trabajado en frío; Ragusa Ibla, un centro sobre un espolón.",
-        "come": "En coche, la manera correcta de hacerlo: Noto-Módica 45 minutos, Módica-Ragusa 25. Se aparca fuera y se camina.",
+        "come": "En coche, la manera adecuada: las tres ciudades están cerca entre sí. Se aparca fuera y se recorre a pie.",
         "quando": "A primera hora de la tarde para las fachadas doradas, de noche para Noto iluminada. Evitar agosto.",
         "tempo": "Un día para dos ciudades, dos días para tres",
         "consiglio": "Dormir en Ragusa Ibla o Módica: tranquilo y con muy buenos restaurantes, y se ahorra respecto a Noto."
@@ -1999,8 +1997,8 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Villa Romana del Casale, Piazza Armerina",
-        "testo": "Una villa romana del siglo IV con 3.500 metros cuadrados de mosaicos, entre ellos las «chicas en bikini». Está en el interior, lejos de la costa y de las rutas más transitadas.",
-        "come": "En coche desde Enna o Catania, una hora aproximadamente; desde Enna se sigue hasta Piazza Armerina. Pasarelas elevadas guían la visita.",
+        "testo": "Una villa romana del siglo IV con suelos de mosaico en casi todas las salas, entre ellos las «chicas en bikini». Está en el interior, lejos de la costa y de las rutas más trilladas.",
+        "come": "En coche desde Enna o Catania, siguiendo hasta Piazza Armerina. Pasarelas elevadas guían la visita.",
         "quando": "Mañana o primera hora de la tarde; evitar las horas centrales del verano, la cubierta retiene el calor.",
         "tempo": "1 hora y media",
         "consiglio": "Combinarla con Enna y las Madonie: el interior cambia la percepción de la isla."
@@ -2094,7 +2092,7 @@ export const destinazioniItalia: Destinazione[] = [
     ],
     attenzioni: [
       "El coche hace falta casi en todas partes, pero Palermo, Catania, Ortigia y Taormina tienen zonas de tráfico limitado con cámaras: preguntar al hotel dónde dejarlo y evitar multas.",
-      "Calor extremo de julio a agosto, a menudo por encima de 40 grados en el interior y en yacimientos sin sombra: agua, gorra, visitas al amanecer o al atardecer.",
+      "Calor extremo en julio y agosto, que puede superar los 40 grados en el interior y en los yacimientos sin sombra: agua, sombrero, visitas al amanecer o al atardecer.",
       "Etna: por encima de cierta altitud la guía es obligatoria y el acceso depende de la actividad del volcán y del tiempo. Consultar los avisos del parque antes de salir.",
       "Carteristas en los mercados y en el centro de Palermo y Catania: bolso por delante, móvil en el bolsillo.",
       "Los tiempos de viaje son más largos de lo previsto en las carreteras estatales del interior: añadir un tercio a lo que indica el mapa.",
@@ -2227,7 +2225,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Cala Goloritzé",
         "testo": "Una cala de guijarros blancos bajo un pináculo de caliza de 143 metros, en el Golfo de Orosei, con agua transparente. Aguanta cualquier comparación con el Caribe. El acceso está regulado para protegerla.",
-        "come": "A pie desde la meseta del Golgo, en Baunei, por un sendero de una hora y media que baja entre el matorral. En barca se puede acercar, pero el desembarco está limitado. Hace falta reserva.",
+        "come": "A pie desde la meseta del Golgo, en Baunei, por un sendero que baja entre el monte bajo. En barco se puede acercar, pero el desembarco está limitado. Hace falta reserva.",
         "quando": "A primera hora, cuando se camina con fresco y la cala sigue vacía. Mayo-junio y septiembre. Reservar antes de salir: el número de accesos al día es limitado.",
         "tempo": "3-4 horas entre bajada, baño y subida",
         "consiglio": "Botas de trekking y litro y medio de agua por persona: la subida por la tarde en verano es dura."
@@ -2243,7 +2241,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Garganta de Gorropu",
         "testo": "Una grieta excavada por el Rio Flumineddu entre paredes de caliza de hasta 500 metros, en el Supramonte. Se camina sobre rocas grandes como coches, con una franja de cielo encima. Parece un cañón americano y está en la Barbagia.",
-        "come": "En coche desde Dorgali o Urzulei hasta Sa Barva, y luego un sendero de una hora y media hasta la entrada de la garganta, con cruce de un río. El acceso tiene normas y entrada: comprobar antes.",
+        "come": "En coche desde Dorgali o Urzulei hasta Sa Barva, y luego un sendero largo hasta la entrada de la garganta, cruzando un río. El acceso tiene normas y entrada: comprobar antes.",
         "quando": "Primavera y otoño. En verano hace calor y la garganta se llena. Tras lluvias fuertes el torrente puede impedir el paso.",
         "tempo": "Medio día, un día entero con el trekking largo",
         "consiglio": "Informarse de las normas de acceso y valorar un guía: el sendero se pierde en el cauce del río."
@@ -2251,15 +2249,15 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Orgosolo y Oliena, Barbagia",
         "testo": "Orgosolo es famosa por los murales políticos de sus casas, pintados desde los años sesenta: luchas campesinas, guerras, derechos. Oliena está a los pies del Supramonte, con viñedos de Cannonau y vistas al monte Corrasi.",
-        "come": "En coche desde Nuoro: Oliena a 15 minutos, Orgosolo a 25. Se camina por los pueblos; los murales están todos en la calle.",
+        "come": "En coche desde Nuoro, que está cerca de ambos. Se camina por los pueblos; los murales están todos en la calle.",
         "quando": "Mañana o última hora de la tarde. En otoño, con Autunno in Barbagia, los pueblos abren casas y talleres a los visitantes.",
         "tempo": "Medio día cada uno",
         "consiglio": "Respetar a las personas que viven en las casas pintadas: preguntar antes de fotografiar retratos."
       },
       {
         "nome": "Su Nuraxi de Barumini",
-        "testo": "El complejo nurágico mejor conservado de la isla, patrimonio UNESCO: una torre central rodeada de baluartes y un poblado de piedra, construido entre 1500 y 500 a.C. En Barumini se entra y se sube por escaleras interiores en el grosor del muro.",
-        "come": "En coche desde Cagliari en una hora y cuarto aproximadamente; en tren y luego autobús, con conexiones limitadas. La visita es con guía, que acompaña al grupo por las distintas estancias.",
+        "testo": "El complejo nurágico mejor conservado de la isla, patrimonio UNESCO: una torre central de la Edad del Bronce rodeada de bastiones y de una aldea de piedra. En Barumini se entra y se sube por escaleras dentro del grosor del muro.",
+        "come": "En coche desde Cagliari; en tren y luego autobús, con pocas conexiones. La visita es guiada: un guía acompaña al grupo por las salas.",
         "quando": "Mañana o última hora de la tarde. El horario varía con la estación: consultar el sitio de la Fundación antes de ir.",
         "tempo": "1 hora y media",
         "url": "https://www.fondazionebarumini.it/",
@@ -2276,14 +2274,14 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Archipiélago de La Maddalena",
         "testo": "Un grupo de islas de granito rosa y agua verde en el noreste: La Maddalena, Caprera con la casa de Garibaldi, Spargi, Santa Maria. Budelli y la playa rosa están hoy protegidas y son inaccesibles.",
-        "come": "Ferri de Palau a La Maddalena en unos quince minutos, también con coche. Para las otras islas hacen falta barcas o neumáticas.",
+        "come": "Ferry de Palau a La Maddalena, también con coche, en una travesía corta. Para las otras islas hacen falta barcos o lanchas.",
         "quando": "Junio y septiembre. En agosto está muy concurrido y escasean las barcas.",
         "tempo": "Un día entero",
         "consiglio": "Reservar pronto la excursión en barca: las plazas de agosto vuelan."
       },
       {
         "nome": "Alghero y Gruta de Neptuno",
-        "testo": "Alghero tiene un centro de impronta catalana, con murallas sobre el mar y la lengua aún hablada. En Capo Caccia, a media hora, la Gruta de Neptuno es una gran cueva con estalactitas y un lago interior.",
+        "testo": "Alghero tiene un centro de huella catalana, con baluartes sobre el mar y la lengua todavía hablada. En el cercano Capo Caccia, la Gruta de Neptuno es una gran caverna con estalactitas y un lago interior.",
         "come": "Alghero en avión o en coche. Para la gruta: barco desde el puerto de Alghero o a pie por la Escala del Cabirol, una escalera de 654 escalones excavada en el acantilado.",
         "quando": "Por la mañana. El barco no sale con mar picada. El atardecer sobre las murallas de Alghero es precioso.",
         "tempo": "Medio día para la gruta, un día entero con Alghero",
@@ -2292,7 +2290,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Porto Flavia y las dunas de Piscinas",
         "testo": "En el Sulcis-Iglesiente, las minas abandonadas forman un paisaje geominero. Porto Flavia es un puerto excavado en el acantilado de Masua para cargar minerales en los barcos. En Piscinas, en la Costa Verde, las dunas están entre las más altas de Europa.",
-        "come": "En coche desde Iglesias: Masua a 25 minutos; Piscinas a 40, con un tramo de pista de tierra. Porto Flavia se visita con reserva y con guía.",
+        "come": "En coche desde Iglesias: Masua está cerca, Piscinas más lejos, con un tramo de pista. Porto Flavia se visita con reserva y guía.",
         "quando": "Primavera y otoño. En verano las dunas arden.",
         "tempo": "Medio día cada uno",
         "consiglio": "Visitar las dunas al final del día, cuando la arena ya ha perdido el calor."
@@ -2344,7 +2342,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Noroeste: Alghero y Stintino",
         "perChi": "Quien quiere ciudad y playas",
-        "testo": "Alghero tiene un centro vivo y el aeropuerto; Stintino está a una hora, cerca de La Pelosa. Con el mistral el mar cambia de un lado a otro."
+        "testo": "Alghero tiene un centro animado y el aeropuerto; a Stintino, cerca de La Pelosa, se llega en coche. Con el mistral el mar cambia de un lado a otro."
       },
       {
         "nome": "Suroeste: Sulcis y Costa Verde",
@@ -2543,9 +2541,9 @@ export const destinazioniItalia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Stromboli",
-        "testo": "Isla-volcán con erupciones casi continuas del cráter, visibles cada 10-20 minutos aproximadamente. Bajo la Sciara del Fuoco está el pueblo, con pocos habitantes. El recuerdo más fuerte para mí fue verla desde el mar de noche, con el motor apagado frente a la Sciara, cuando el cráter lanza material incandescente hasta el agua.",
-        "come": "Hidroala desde Milazzo (unas 2 horas y media) o desde Lipari y las demás Eolias. En la isla se camina y se usan taxis-ape. Por encima de la cota libre hacen falta guías vulcanológicos autorizados.",
-        "quando": "La subida está regulada por ordenanzas que cambian según la actividad del volcán: la cota máxima y la obligación de ir con guía se comprueban en el Comune di Lipari o con los guías autorizados antes de reservar. La cima está cerrada a los visitantes desde las erupciones de 2019. Junio y septiembre, con mar en calma, para las salidas en barco.",
+        "testo": "Isla-volcán con erupciones casi continuas del cráter, visibles cada pocos minutos. Bajo la Sciara del Fuoco está el pueblo, con pocos habitantes. El recuerdo más fuerte para mí fue verla desde el mar de noche, con el motor apagado frente a la Sciara, cuando el cráter lanza material incandescente hasta el agua.",
+        "come": "Hidroala desde Milazzo o desde Lipari y las demás Eolias. En la isla se camina y se usan taxis-ape. Por encima de la cota libre hacen falta guías vulcanológicos autorizados.",
+        "quando": "La subida está regulada por ordenanzas que cambian con la actividad del volcán: la cota máxima, el acceso a la cima y la obligación de guía se consultan en el Ayuntamiento de Lipari o con los guías autorizados antes de reservar. Junio y septiembre, con mar en calma, para las salidas en barco.",
         "tempo": "1 jornada completa, mejor una noche",
         "consiglio": "Por la noche se cena en Stromboli y se sale en barco a oscuras: no hace falta la cima para ver las explosiones. Linterna frontal, botas de trekking y un jersey incluso en septiembre."
       },
@@ -2560,14 +2558,14 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Lago Specchio di Venere, Pantelleria",
         "testo": "Lago termal en el cráter de un volcán apagado, con aguas calientes en la orilla y barros usados para los baños. Desde arriba tiene forma de corazón, justo encima de la carretera a Bukkuram. Pantelleria está más cerca de África que de Sicilia: roca negra, viento y viñas en vaso cultivadas en hoyos excavados en el suelo, técnica reconocida por la UNESCO.",
-        "come": "Hace falta coche o moto desde el pueblo de Pantelleria. Se llega con vuelo desde Trapani, Palermo y Catania, o con ferri Siremar desde Trapani (unas 6-7 horas, con mar movida se cancelan salidas) o con aliscafo Liberty Lines (unas 2 horas y media).",
+        "come": "Hace falta coche o moto desde Pantelleria pueblo. Se llega en avión desde Trapani, Palermo y Catania, o por mar desde Trapani en ferry o hidroala; con mar agitado se cancelan los viajes.",
         "quando": "Primavera y otoño para caminar, junio y septiembre para el baño. La isla es muy ventosa. El baño de barro y el chapuzón en el lago son más agradables por la mañana.",
         "tempo": "2-3 horas",
         "consiglio": "Si se hace el baño de barro, quitarse las joyas y ducharse en el lago antes de volver. Llevar escarpines: no hay playas de arena."
       },
       {
         "nome": "Dammusi, jardines panteschi y Montagna Grande",
-        "testo": "Los dammusi son casas de piedra lávica con cúpula, construidas para resistir el viento y el calor. Los jardines panteschi son muros de piedra circulares que protegen un solo cítrico. La Montagna Grande es la cima de la isla, 836 metros, con senderos en el bosque.",
+        "testo": "Los dammusi son casas de piedra lávica con cúpula, construidas para resistir el viento y el calor. Los jardines panteschi son muros de piedra circulares que protegen un solo cítrico. La Montagna Grande es la cima de la isla, con senderos en el bosque.",
         "come": "Carreteras interiores para recorrer en coche o moto. Los senderos parten de la carretera a Montagna Grande.",
         "quando": "Primavera y otoño. El verano es tórrido de día y los días de siroco dificultan los senderos.",
         "tempo": "media jornada",
@@ -2576,7 +2574,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Capri: Faraglioni y Gruta Azul",
         "testo": "Los tres Faraglioni son rocas de más de 100 metros al sureste, mejor vistos desde un barco. La Gruta Azul se visita con barquitas de remos desde Marina Grande, pero queda cerrada con mar movida. En verano Capri está asaltada por visitantes de un día.",
-        "come": "Aliscafo o ferri desde Nápoles (40-80 minutos) y desde Sorrento. Dentro de la isla se va en autobús y funicular, luego se camina.",
+        "come": "Hidroala o ferry desde Nápoles y Sorrento. En la isla se va en autobús y funicular, y luego a pie.",
         "quando": "Mayo, junio y septiembre; fuera de temporada Capri es otra isla. La Gruta Azul se visita con mar en calma, a primera hora.",
         "tempo": "1 día, mejor 2 con una noche",
         "consiglio": "Para escapar de la multitud, dar la vuelta a la isla en barco temprano y subir luego a Anacapri. Por la tarde los Faraglioni lucen más a contraluz."
@@ -2584,7 +2582,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Procida: Marina Corricella y Terra Murata",
         "testo": "La más pequeña y menos cara de las tres islas del golfo de Nápoles. Marina Corricella es un puerto de pescadores con casas pintadas, Terra Murata el pueblo alto con la abadía de San Michele Arcangelo.",
-        "come": "Ferri o aliscafo desde Nápoles (Molo Beverello y Calata Porta di Massa) o desde Pozzuoli, unos 40 minutos. En la isla se camina y circulan minibuses.",
+        "come": "Ferry o hidroala desde Nápoles (Molo Beverello y Calata Porta di Massa) o Pozzuoli. En la isla se camina y circulan microbuses.",
         "quando": "Todo el año, pero de mayo a septiembre. En julio y agosto los barcos de un día traen mucha gente.",
         "tempo": "1 día",
         "consiglio": "Bajar a Corricella por la escalinata y comer en uno de los locales del muelle."
@@ -2592,15 +2590,15 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Ponza y Palmarola",
         "testo": "Ponza es una isla de toba amarilla, con grutas y calas. Palmarola, deshabitada, tiene acantilados y arcos naturales, y se alcanza con barcas de pescadores desde Ponza. El mar es de los más claros del Tirreno.",
-        "come": "Ferri o aliscafo desde Anzio, Formia, Terracina (de 1 a 2 horas y media). En la isla se camina o se toma el autobús; la vuelta en barco se reserva en el puerto.",
+        "come": "Ferry o hidroala desde Anzio, Formia o Terracina. En la isla se camina o se coge el autobús; la vuelta en barco se reserva en el puerto.",
         "quando": "Junio y septiembre. En agosto Ponza se llena con el público romano.",
         "tempo": "1-2 días",
         "consiglio": "La vuelta en barco es la mejor forma: salir pronto y parar a bañarse en Palmarola. Chiaia di Luna suele estar prohibida por riesgo de desprendimientos."
       },
       {
         "nome": "Islas Tremiti",
-        "testo": "El único archipiélago del Adriático, con San Domino y San Nicola y área marina protegida. San Domino tiene pinares, calas y grutas. San Nicola tiene la abadía fortificada con vista de 360 grados.",
-        "come": "Ferris y aliscafos desde Termoli, Vieste, Peschici, Rodi Garganico, Ortona. Desde Termoli aproximadamente 1 hora en aliscafo.",
+        "testo": "El único archipiélago italiano del Adriático, con San Domino y San Nicola y un área marina protegida. San Domino tiene pinares, calas y grutas. San Nicola tiene la abadía fortificada con vistas de 360 grados.",
+        "come": "Ferris e hidroalas desde Termoli, Vieste, Peschici, Rodi Garganico y Ortona; desde Termoli la travesía es la más corta.",
         "quando": "Junio y septiembre. En invierno los enlaces se reducen.",
         "tempo": "1-2 días",
         "consiglio": "Hacer snorkel con un operador local: la zona está protegida y el acceso en barco está regulado."
@@ -2608,7 +2606,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Favignana",
         "testo": "Isla de las Egadi, llana al este, con canteras de toba y la gran antigua fábrica Florio para procesar el atún. La isla tiene mar turquesa en Cala Rossa y Lido Burrone.",
-        "come": "Aliscafo desde Trapani (unos 25 minutos) o desde Marsala. En la isla se alquila bicicleta: las distancias están por debajo de seis kilómetros.",
+        "come": "Hidroala desde Trapani o Marsala. En la isla se alquila una bici: las distancias son cortas.",
         "quando": "Mayo, junio y septiembre. A primera hora las calas están vacías.",
         "tempo": "1 día",
         "consiglio": "Vuelta en bici por las canteras, luego cena de atún. Reservar la bici en temporada alta."
@@ -2645,7 +2643,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Golfo de Nápoles: Procida",
         "perChi": "quien tiene pocos días",
-        "testo": "Procida cuesta menos que Capri e Ischia, vida de pueblo, a 40 minutos de Nápoles."
+        "testo": "Procida cuesta menos que Capri e Ischia, con vida de pueblo y conexiones frecuentes desde Nápoles."
       }
     ],
     sapori: [
@@ -2836,16 +2834,16 @@ export const destinazioniItalia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Pietrabbondante y el Molise samnita",
-        "testo": "El santuario samnita de Pietrabbondante, a unos 1.000 metros en el Alto Molise, tiene un teatro-templo del siglo II a.C. con gradas de piedra y el templo principal. Alrededor se extienden colinas vacías por las que pasaban los tratturi, las vías de trashumancia reconocidas por la UNESCO.",
-        "come": "En coche: unos 45 minutos desde Isernia, 1 hora y media desde Campobasso. No hay transporte público útil. Se visita por cuenta propia, con paneles.",
+        "testo": "El santuario samnita de Pietrabbondante, en lo alto del Alto Molise, tiene un teatro-templo del siglo II a.C. con gradas de piedra y el templo principal. Alrededor se extienden colinas vacías por las que pasaban los tratturi, las vías de trashumancia reconocidas por la UNESCO.",
+        "come": "En coche desde Isernia o Campobasso. No hay transporte público útil. Se visita por libre, con paneles.",
         "quando": "Primavera y otoño. Comprobar horarios y días de apertura con el Ayuntamiento o la Soprintendenza antes de salir, sobre todo fuera de temporada.",
         "tempo": "1-2 horas, más la vuelta por los pueblos",
-        "consiglio": "Combinar la visita con un almuerzo en una trattoria de pueblo: 12.30-14, luego cierran."
+        "consiglio": "Combinar la visita con una comida en una trattoria del pueblo, llegando pronto: pasada la hora de comer la cocina cierra."
       },
       {
         "nome": "Termoli",
         "testo": "Pequeña ciudad marinera con el casco antiguo en el promontorio, el castillo suabo y los trabucchi, antiguas máquinas de pesca sobre palafitos. Es el puerto del que salen los ferris a las islas Tremiti.",
-        "come": "Tren por la línea adriática o autopista A14. El casco antiguo se recorre a pie desde la estación en 15 minutos.",
+        "come": "Tren por la línea adriática o autopista A14. Al casco antiguo se llega a pie desde la estación.",
         "quando": "Mayo-junio y septiembre. En agosto se llena de veraneantes italianos.",
         "tempo": "media jornada",
         "consiglio": "Comer el brodetto alla termolese en uno de los locales del puerto y pasear por el paseo marítimo al atardecer."
@@ -2861,7 +2859,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Montes Sibillini y Castelluccio di Norcia",
         "testo": "Parque con cumbres de más de 2.000 metros y la meseta del Piano Grande de Castelluccio, conocida por la floración de las lentejas y las flores silvestres. El terremoto de 2016 afectó a muchos pueblos: hoy están en parte reconstruidos.",
-        "come": "En coche desde Norcia (unos 40 minutos) o desde las Marcas. Algunas carreteras pueden estar cortadas por desprendimientos u obras: comprobar.",
+        "come": "En coche desde Norcia o desde las Marcas. Algunas carreteras pueden estar cerradas por desprendimientos u obras: comprobar.",
         "quando": "La floración se concentra entre finales de mayo y julio. En los fines de semana de floración el Piano se llena de coches.",
         "tempo": "1 jornada",
         "url": "https://www.sibillini.net/",
@@ -2870,7 +2868,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Carnia y los valles del Friuli",
         "testo": "Valles alpinos con casas de piedra, pueblos como Sauris y Forni di Sopra y una cultura de frontera entre friulano, alemán y esloveno. Aquí nació el albergo diffuso, que usa las casas de los pueblos despoblados.",
-        "come": "En coche desde Údine hacia Tolmezzo (aproximadamente 1 hora). Los valles se recorren en coche y con caminatas cortas.",
+        "come": "En coche desde Udine hacia Tolmezzo. Los valles se recorren en coche y con caminatas cortas.",
         "quando": "Junio-septiembre para los senderos, invierno para la nieve. El Friuli es una de las zonas más lluviosas de Italia.",
         "tempo": "2-3 días",
         "consiglio": "Probar el jamón de Sauris y el queso de majada, y preguntar por los senderos en la oficina de turismo."
@@ -2886,8 +2884,8 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Aspromonte y Pentedattilo",
-        "testo": "Parque nacional que va del mar a 1.900 metros en pocos kilómetros. Pentedattilo es un pueblo fantasma al pie de una roca en forma de mano; Roghudi y Gallicianò son comunidades grecánicas donde aún se habla el griego antiguo.",
-        "come": "En coche desde Reggio Calabria (aproximadamente 1 hora). Las carreteras interiores son lentas y en tramos están deterioradas.",
+        "testo": "Parque nacional que pasa del mar a casi 2.000 metros en pocos kilómetros. Pentedattilo es un pueblo fantasma al pie de una roca con forma de mano; Roghudi y Gallicianò son comunidades grecánicas, donde sobrevive el grecánico, un dialecto de origen griego.",
+        "come": "En coche desde Reggio Calabria. Las carreteras del interior son lentas y están en mal estado en algunos tramos.",
         "quando": "Primavera y otoño. El verano es tórrido en la costa.",
         "tempo": "2-3 días",
         "consiglio": "En el Museo Arqueológico de Reggio Calabria se ven los Bronces de Riace: hacerlo el día de llegada o de salida."
@@ -2923,7 +2921,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Agroturismos y albergues difusos",
         "perChi": "quien quiere precios bajos y cocina auténtica",
-        "testo": "Cincuenta a setenta euros para dos con desayuno es lo normal. Hacen falta coche y reserva: muchos sitios cierran entre noviembre y marzo."
+        "testo": "Los precios son mucho más bajos que en las zonas turísticas. Hacen falta coche y reserva: muchos sitios cierran entre noviembre y marzo."
       },
       {
         "nome": "Capitales de provincia (Isernia, Campobasso, Reggio Calabria)",
@@ -2959,8 +2957,8 @@ export const destinazioniItalia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Coche obligatorio: en estas zonas el transporte público llega a las capitales de provincia y se acaba. Aumentar en un tercio los tiempos que estiman los mapas.",
-      "Se come entre las 12.30 y las 14 y temprano por la noche; el domingo por la noche y el lunes muchos sitios cierran. A las 15 no se encuentra nada.",
+      "Coche imprescindible: en estas zonas el transporte público llega a las capitales y ahí se acaba. Calcular más tiempo del que estiman los mapas.",
+      "Se come pronto a mediodía y pronto por la noche; el domingo por la noche y el lunes muchos sitios cierran. A media tarde no se encuentra nada.",
       "Falta cobertura en muchos valles: descargar mapas sin conexión y llenar el depósito cuando se pueda.",
       "Val Grande y la alta montaña del Pollino son entornos para excursionistas expertos: tiempo cambiante, pocos refugios, rescate lejano.",
       "En agosto los pueblos se llenan de emigrados que regresan: es el periodo más vivo, no el más tranquilo.",
@@ -3154,7 +3152,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Barolo y La Morra (Langhe)",
         "testo": "Las colinas de Barolo, patrimonio UNESCO con Langhe-Roero y Monferrato, están cubiertas de viñedos de nebbiolo. El pueblo de Barolo tiene el castillo Falletti y La Morra el mirador sobre el mar de colinas. Aquí el vino es el pretexto para un paisaje agrario construido durante siglos.",
-        "come": "En coche desde Alba (unos 20 minutos). Las bodegas reciben con cita: escribir tres días antes. Muchas carreteras son estrechas y empinadas.",
+        "come": "En coche desde Alba. Las bodegas reciben con reserva: escribir con unos días de antelación. Muchas carreteras son estrechas y en cuesta.",
         "quando": "Septiembre-octubre en vendimia, o abril-junio con el verde. En agosto muchas bodegas cierran.",
         "tempo": "1 jornada, 2 bodegas",
         "consiglio": "Reservar una sola bodega por la mañana y otra por la tarde. Después de la tercera ya no se prueba nada con atención."
@@ -3162,7 +3160,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Alba y la trufa blanca",
         "testo": "Capital de las Langhe, con la feria internacional de la trufa blanca en otoño, cuando la ciudad se llena. Tiene torres, soportales y tiendas de chocolate y avellanas.",
-        "come": "Tren no directo desde Turín: mejor en coche (aproximadamente 1 hora). En la ciudad se va a pie.",
+        "come": "Desde Turín en tren con transbordo, aunque es más cómodo el coche. En la ciudad se va a pie.",
         "quando": "Octubre-noviembre para la trufa. Fuera de la feria Alba es más tranquila.",
         "tempo": "media jornada",
         "consiglio": "En la feria los precios de la trufa son altos: preguntar el peso y el precio antes de pedir, y preferir restaurantes con trufa de temporada."
@@ -3170,15 +3168,15 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Valpolicella (Véneto)",
         "testo": "Colinas al noroeste de Verona donde se produce el Amarone: las uvas se pasifican durante meses en los fruttai antes de prensarse. Villas venecianas e iglesias románicas salpican los pueblos de Fumane y San Pietro in Cariano.",
-        "come": "En coche o taxi desde Verona (unos 20-30 minutos). Las bodegas reciben con cita.",
+        "come": "En coche o taxi desde Verona. Las bodegas reciben con cita.",
         "quando": "Septiembre-octubre para la vendimia, enero-febrero para el prensado de las uvas pasificadas.",
         "tempo": "1 jornada",
         "consiglio": "Si quien conduce no bebe, el taxi desde Verona a las bodegas es una solución sencilla."
       },
       {
         "nome": "Colinas del Prosecco entre Conegliano y Valdobbiadene",
-        "testo": "Patrimonio UNESCO desde 2019: hileras de viñas en colinas empinadas, con la carretera del Prosecco superiore entre pueblos y osterias. El Cartizze es el viñedo más apreciado, en una colina de pocas hectáreas.",
-        "come": "En coche desde Treviso (unos 40 minutos) o tren hasta Conegliano. En bici se hace una vuelta entre las hileras.",
+        "testo": "Patrimonio UNESCO desde 2019: hileras de viñas en colinas empinadas, con la ruta del Prosecco Superiore entre pueblos y tabernas. El Cartizze es el viñedo más valorado, una pequeña zona de colinas sobre Valdobbiadene.",
+        "come": "En coche desde Treviso o en tren hasta Conegliano. En bici se hace una vuelta entre las viñas.",
         "quando": "Primavera y otoño. No en agosto: hace calor y muchas bodegas están cerradas.",
         "tempo": "1 jornada",
         "consiglio": "Las osterias de Valdobbiadene sirven el Prosecco espumoso con embutidos: almorzar allí tras la visita a la bodega."
@@ -3186,7 +3184,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Chianti Classico (Toscana)",
         "testo": "El territorio entre Florencia y Siena con Greve, Castellina, Radda y Gaiole. El Gallo Nero es la marca del consorcio. Iglesias rurales, castillos y granjas se alternan con viñas y olivares.",
-        "come": "En coche desde Florencia o Siena (unos 40-50 minutos). La carretera Chiantigiana atraviesa los pueblos.",
+        "come": "En coche desde Florencia o Siena. La carretera Chiantigiana atraviesa los pueblos.",
         "quando": "Abril-junio y septiembre-octubre. En verano hay muchas excursiones en autocar.",
         "tempo": "1-2 jornadas",
         "consiglio": "Dormir en agroturismo y visitar bodegas pequeñas: a menudo recibe el propio productor."
@@ -3194,15 +3192,15 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Montalcino y Brunello",
         "testo": "Pueblo medieval con la fortaleza y las bodegas del Brunello, sangiovese en pureza. La Abadía de Sant'Antimo, románica, está a pocos kilómetros entre olivos.",
-        "come": "En coche desde Siena (unos 50 minutos). Montalcino se recorre a pie, las bodegas están repartidas alrededor.",
+        "come": "En coche desde Siena. Montalcino se recorre a pie, las bodegas están repartidas alrededor.",
         "quando": "Primavera y otoño. Reservar las bodegas con antelación.",
         "tempo": "1 jornada",
-        "consiglio": "Visitar la Abadía de Sant'Antimo a primera hora, cuando cantan los monjes."
+        "consiglio": "Visitar la Abadía de Sant'Antimo temprano, cuando hay silencio y la luz entra de lado en las naves."
       },
       {
         "nome": "Etna (Sicilia)",
         "testo": "Contrade en las laderas del volcán, con viñas de nerello mascalese a pie franco, libres de la filoxera. Algunas tienen más de cien años. Se cata en bodegas de piedra lávica.",
-        "come": "En coche desde Catania (unos 40-60 minutos). Carreteras sinuosas y lentas. Base en Linguaglossa, Castiglione di Sicilia o Randazzo.",
+        "come": "En coche desde Catania, por carreteras sinuosas y lentas. Base en Linguaglossa, Castiglione di Sicilia o Randazzo.",
         "quando": "Septiembre-octubre para la vendimia, pero el Etna es bonito también en primavera.",
         "tempo": "1-2 jornadas",
         "consiglio": "Pedir ver las viñas viejas: se entiende por qué el suelo lávico salvó las vides del parásito."
@@ -3210,7 +3208,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Collio y Colli Orientali (Friuli)",
         "testo": "Colinas en la frontera con Eslovenia, famosas por los vinos blancos: ribolla gialla, friulano, malvasía. Muchas bodegas hacen vinos macerados con las pieles, llamados orange.",
-        "come": "En coche desde Gorizia o Cormons (unos 15 minutos). Las bodegas son pequeñas, de gestión familiar.",
+        "come": "En coche desde Gorizia o Cormons, que están cerca. Las bodegas son pequeñas y familiares.",
         "quando": "Primavera y otoño. En verano hay más sol.",
         "tempo": "1-2 jornadas",
         "consiglio": "Cruzar la frontera eslovena para almorzar en una gostilna: a poca distancia cambia la cocina."
@@ -3218,7 +3216,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Irpinia y Vulture (Campania y Basilicata)",
         "testo": "Dos grandes tintos del sur: el Taurasi en Irpinia y el Aglianico del Vulture, ambos de aglianico. En Irpinia también los blancos Fiano di Avellino y Greco di Tufo. Zonas con pocos turistas y precios bajos.",
-        "come": "Solo en coche desde Avellino o Potenza (aproximadamente 1 hora). Pocas bodegas tienen instalaciones de acogida.",
+        "come": "Solo en coche desde Avellino o Potenza. Pocas bodegas tienen instalaciones para visitantes.",
         "quando": "Septiembre-octubre. Verano muy caluroso.",
         "tempo": "2 jornadas, una por zona",
         "consiglio": "Aquí uno se encuentra a menudo en la bodega donde el propietario está trasegando: es el momento de hacer preguntas."
@@ -3226,7 +3224,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Valtellina (Lombardía)",
         "testo": "Terrazas de viñedos sostenidas por cientos de kilómetros de muros de piedra seca en pendientes empinadas, para el nebbiolo de montaña, aquí llamado chiavennasca. El Sforzato se obtiene de uvas pasificadas.",
-        "come": "Tren de Milán a Tirano o Sondrio (2 horas). Los desplazamientos entre bodegas requieren coche.",
+        "come": "Tren de Milán a Tirano o Sondrio. Para moverse entre bodegas hace falta coche.",
         "quando": "Septiembre-octubre. En verano el fondo del valle es caluroso y tiene tráfico.",
         "tempo": "1-2 jornadas",
         "consiglio": "Caminar un tramo de la Via dei Terrazzamenti, el sendero entre los muros, antes o después de las catas."
@@ -3263,7 +3261,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Alba y alrededores",
         "perChi": "quien quiere cocina y trufa",
-        "testo": "Ciudad de 30.000 habitantes, base cómoda para las Langhe, pero cara en octubre. Trenes lentos, mejor el coche."
+        "testo": "Ciudad pequeña, base cómoda para las Langhe, pero cara en octubre. Trenes lentos, mejor el coche."
       },
       {
         "nome": "Agroturismos entre las viñas",
@@ -3368,8 +3366,8 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Museo Egizio",
         "testo": "La colección egipcia más importante fuera de El Cairo, nacida en 1824 del núcleo reunido por el cónsul Drovetti. La pieza imprescindible es la tumba de Kha y Merit, hallada intacta en 1906 con todo su ajuar. Después, el Templo de Ellesiya, la Galería de los Reyes y el Papiro de las Minas de Oro.",
-        "come": "En pleno centro, a pie desde Piazza Castello o Piazza San Carlo. Se entra con entrada comprada en línea, por franja horaria. Audioguía o app para entender las piezas.",
-        "quando": "Abierto todos los días. Lunes 9-14, martes a viernes y domingo 9-18.30, sábado 9-20, última entrada una hora antes del cierre. A primera hora o el sábado por la tarde para evitar multitudes. Las Salas Históricas están cerradas temporalmente desde el 12 de diciembre de 2025: ver el aviso en la web.",
+        "come": "En pleno centro, a pie desde Piazza Castello o Piazza San Carlo. La entrada se compra obligatoriamente online, por franja horaria. Audioguía o app para entender las piezas.",
+        "quando": "Abierto todos los días: lunes de 9 a 14, de martes a viernes y domingo de 9 a 18:30, sábado de 9 a 20; algunos días hay aperturas nocturnas especiales, en la web. A primera hora o el sábado por la noche para evitar multitudes. Las Salas Históricas están cerradas temporalmente desde el 12 de diciembre de 2025: ver el aviso en la web.",
         "tempo": "3 horas, mejor 4",
         "costo": "18 euros entrada general (2026)",
         "url": "https://www.museoegizio.it/",
@@ -3378,10 +3376,10 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Mole Antonelliana y Museo Nacional del Cine",
         "testo": "Iniciada en 1863 como sinagoga y nunca usada como tal, es el símbolo de la ciudad. Dentro está el museo del cine, dispuesto en espiral alrededor de la sala central, con butacas rojas reclinables en el centro. El ascensor panorámico de cristal sube por el vacío hasta el templete.",
-        "come": "En Via Montebello, a 10 minutos a pie de Piazza Castello. Entrada del museo, del ascensor o conjunta, con franja horaria.",
+        "come": "En via Montebello, a pie desde Piazza Castello. Entrada al museo, al ascensor o combinada, con franja horaria.",
         "quando": "En los días despejados el ascensor se agota: reservar. Comprobar en la web posibles obras o aperturas reducidas.",
         "tempo": "2-3 horas con el ascensor",
-        "costo": "museo 18 euros, ascensor 9 euros, conjunta 23 euros (2026)",
+        "costo": "museo 18 euros, ascensor 9 euros, combinada 23 euros (web oficial, 2026); hasta el 8 de diciembre de 2026 solo el museo baja para todos a 16 euros por el montaje de una nueva exposición",
         "url": "https://www.museocinema.it/",
         "consiglio": "La entrada conjunta compensa si se hace todo. En un día despejado se ve el Monviso detrás del arco alpino."
       },
@@ -3389,26 +3387,27 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Museos Reales y Capilla del Santo Sudario",
         "testo": "Palacio Real, Armería Real, Galleria Sabauda y la Capilla del Santo Sudario de Guarini, con la cúpula de hexágonos superpuestos, reabierta tras la restauración posterior al incendio de 1997. El Sudario no está expuesto: se ve la capilla, no el lienzo.",
         "come": "En Piazza Castello, entrada por el patio. Entrada única para todo el complejo. Se puede recorrer solo, las salas tienen paneles claros.",
-        "quando": "Abiertos de jueves a martes, 9-19, cerrados el miércoles. La taquilla cierra una hora antes. El primer domingo del mes es gratis con reserva obligatoria.",
+        "quando": "Abiertos de jueves a martes, de 9 a 19, cerrados los miércoles. El primer domingo de cada mes la entrada es gratuita sin reserva: las entradas se recogen solo en taquilla el mismo día.",
         "tempo": "3 horas",
-        "costo": "15 euros entrada general (2026)",
+        "costo": "15 euros entrada general (web oficial, 2026)",
         "url": "https://museireali.cultura.gov.it/",
         "consiglio": "Dos horas bastan para el Palacio Real, la Armería y la capilla: la Galleria Sabauda es para quien ama la pintura antigua."
       },
       {
         "nome": "Basílica de Superga y tranvía de cremallera",
         "testo": "Basílica de Juvarra en la colina al este del Po, con las tumbas de los Saboya en la cripta. En la parte trasera está el memorial del Grande Torino, donde se estrelló el avión en 1949. Desde la terraza se ven la ciudad y los Alpes.",
-        "come": "Tranvía histórico de cremallera desde la estación Sassi (tranvía 15 desde el centro), unos 20 minutos de subida. El miércoles el tranvía no funciona y hay autobús 79.",
-        "quando": "Los horarios del tranvía cambian entre verano e invierno: comprobar en la web de GTT. Día despejado, mejor por la tarde por la luz sobre los Alpes.",
+        "come": "Tranvía histórico de cremallera desde la estación Sassi (tranvía 15 desde el centro), con salidas cada hora. Los miércoles el tranvía no funciona; los festivos hay también el autobús Superga Express desde piazza Vittorio Veneto.",
+        "quando": "Salidas desde Sassi cada hora de 10 a 18, última bajada desde Superga a las 18:30; horarios actualizados en la web de GTT. Día despejado, mejor por la tarde por la luz sobre los Alpes.",
         "tempo": "2-3 horas incluida la subida",
         "url": "https://www.gtt.to.it/cms/turismo/sassisup",
-        "consiglio": "Un paseo por la cresta detrás de la basílica no cuesta nada y da la mejor vista. Comprobar la tarifa en el momento."
+        "costo": "tranvía: 4 euros ida y 6 ida y vuelta entre semana, 6 y 9 euros los sábados y festivos (GTT, 2026)",
+        "consiglio": "Un paseo por la cresta detrás de la basílica no cuesta nada y da la mejor vista. La ida y vuelta sale mejor que dos billetes sencillos."
       },
       {
         "nome": "Reggia di Venaria",
         "testo": "Residencia de caza de los Saboya, patrimonio UNESCO, con la Galleria Grande de Juvarra, la Capilla de Sant'Uberto y los jardines. El complejo es enorme y acoge también exposiciones.",
-        "come": "Desde la estación de Porta Susa o el centro con el autobús 11, unos 40 minutos. En coche 25 minutos. Entrada y billetes en la web oficial.",
-        "quando": "Cerrada el lunes. Los jardines y el parque se pueden visitar incluso con tiempo incierto, pero las salas necesitan un día libre.",
+        "come": "A unos diez kilómetros de Turín, se llega en tren, autobús o coche: conexiones en la web oficial. Se recomienda reservar la entrada con hora.",
+        "quando": "Abierta de martes a domingo, cerrada los lunes; los horarios del palacio, las exposiciones y los jardines cambian durante el año. Jardines y parque se visitan también con tiempo dudoso, pero las salas piden un día libre.",
         "tempo": "media jornada, una jornada con los jardines",
         "url": "https://www.lavenaria.it/",
         "consiglio": "Necesita una mañana entera: dedicarle un día más en vez de encajarla entre el Egizio y la Mole."
@@ -3416,7 +3415,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Cuadrilátero Romano y Porta Palazzo",
         "testo": "La zona más antigua de la ciudad, con la trama ortogonal romana y la Porta Palatina del siglo I, con las torres en pie. Al lado está Porta Palazzo, el mercado al aire libre más grande de Europa.",
-        "come": "A pie desde Piazza Castello, 5-10 minutos. El mercado está en Piazza della Repubblica.",
+        "come": "A pie desde Piazza Castello. El mercado está en la Piazza della Repubblica.",
         "quando": "Mercado por la mañana, de lunes a sábado. Por la noche el Cuadrilátero es el barrio del aperitivo.",
         "tempo": "2 horas",
         "costo": "entrada libre",
@@ -3433,7 +3432,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Monte dei Cappuccini y Parco del Valentino",
         "testo": "En la colina sobre el Po, el Monte dei Cappuccini da la vista clásica con la Mole y los Alpes detrás. Más abajo, el Parco del Valentino sigue el río y alberga el Borgo Medievale, reconstrucción decimonónica hecha con rigor filológico.",
-        "come": "A pie desde Piazza Vittorio Veneto: 10 minutos de subida. El Valentino está al sur, junto al Po.",
+        "come": "A pie desde Piazza Vittorio Veneto, con una subida corta. El Valentino está al sur, junto al Po.",
         "quando": "Día despejado, mejor al final de la tarde. El parque está siempre abierto.",
         "tempo": "2 horas",
         "consiglio": "Subir con la luz del final de la tarde y bajar a pie hacia el río."
@@ -3472,12 +3471,12 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Centro histórico, entre Piazza Castello y Piazza San Carlo",
         "perChi": "quien quiere ir a pie a todas partes",
-        "testo": "Se camina bajo los soportales, museos y cafés están a pocos minutos. Los hoteles cuestan más y las noches son tranquilas. Desde la estación de Porta Nuova son 10 minutos."
+        "testo": "Se camina bajo los soportales, y museos y cafés están a pocos minutos. Los hoteles cuestan más, la noche es tranquila. Desde la estación de Porta Nuova se llega a pie."
       },
       {
         "nome": "San Salvario",
         "perChi": "quien busca precios más bajos y vida nocturna",
-        "testo": "Barrio detrás de Porta Nuova, con locales y restaurantes. Más ruidoso los fines de semana y de madrugada, a 15 minutos a pie del centro."
+        "testo": "Barrio detrás de Porta Nuova, con locales y restaurantes. Más ruidoso los fines de semana y al final de la noche, a pie desde el centro."
       },
       {
         "nome": "Cuadrilátero Romano",
@@ -3577,23 +3576,23 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Positano",
         "testo": "El pueblo más fotografiado de la costa: casas de colores pastel escalonadas en un barranco que baja a la Spiaggia Grande. Se baja a pie desde la carretera entre escaleras y tiendas, y se sube con las piernas.",
-        "come": "Desde Amalfi en ferri (unos 30-40 minutos) o en autobús SITA por la carretera costera. En coche no conviene: hay pocos aparcamientos y son caros.",
+        "come": "Desde Amalfi en ferry o en autobús SITA por la carretera costera. En coche no se recomienda: hay poco aparcamiento y es caro.",
         "quando": "Temprano por la mañana o después de las 17:00, cuando se van los grupos de un día. Julio y agosto están saturados.",
         "tempo": "3-4 horas",
-        "consiglio": "Para bañarse, las playas del este (Fornillo) están menos llenas que la Spiaggia Grande y quedan a diez minutos a pie."
+        "consiglio": "Para bañarse, la playa de Fornillo, al oeste de la Spiaggia Grande, está menos llena y se llega a pie por el sendero junto al mar."
       },
       {
         "nome": "Amalfi: Duomo e Chiostro del Paradiso",
         "testo": "El Duomo di Sant'Andrea está en lo alto de una escalinata sobre la plaza del puerto, con fachada de mosaicos y una puerta de bronce bizantina. Al lado está el Chiostro del Paradiso, del siglo XIII, con arcos entrelazados de gusto árabe. Amalfi fue una república marinera antes que Pisa y Génova.",
-        "come": "A cinco minutos a pie del muelle de los ferris. La entrada incluye claustro, basílica del Crucifijo y museo; a la catedral se entra desde la escalinata.",
+        "come": "Desde el muelle de los ferris se llega a pie en pocos minutos. La entrada incluye claustro, basílica del Crucifijo y museo; a la catedral se entra desde la escalinata.",
         "quando": "Los horarios y días cambian con las funciones religiosas. Mejor por la mañana, antes de los autocares.",
         "tempo": "1 hora",
         "consiglio": "Subir la escalinata y darse la vuelta: la plaza vista desde arriba es la mejor foto de la ciudad."
       },
       {
         "nome": "Atrani",
-        "testo": "Un pueblo de pocos cientos de habitantes, a doscientos metros de Amalfi, apretado en una garganta con la plaza abierta al mar bajo un arco. Casas blancas, callejones con escaleras, la iglesia de la Maddalena. Casi nadie se detiene aquí.",
-        "come": "A pie desde Amalfi en cinco-diez minutos por la carretera y luego por las escaleras, o por el paso subterráneo junto al muelle.",
+        "testo": "Un pueblo de menos de mil habitantes, pegado a Amalfi, encajado en una garganta con la plaza que se abre al mar bajo un arco. Casas blancas, callejones con escaleras, la iglesia de la Maddalena. Casi nadie se detiene.",
+        "come": "A pie desde Amalfi por la carretera y luego por las escaleras, o por el paso subterráneo junto al muelle.",
         "quando": "Todo el día. Por la tarde, cuando se han ido los visitantes de un día, es muy tranquilo.",
         "tempo": "1 hora",
         "costo": "gratis",
@@ -3601,8 +3600,8 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Ravello: Villa Rufolo e Villa Cimbrone",
-        "testo": "Ravello está a unos 350 metros sobre la costa y tiene otro ritmo: silencio, jardines y miradores. Villa Rufolo, del siglo XIII, tiene una torre morisca y un jardín sobre el vacío donde se celebra el festival de música. Villa Cimbrone tiene el Belvedere dell'Infinito, con estatuas frente al mar.",
-        "come": "Desde Amalfi en autobús SITA en unos 25 minutos, o a pie por la Scala Fenicia (sendero con muchos escalones). Las dos villas están a 15 minutos a pie pasando por el centro.",
+        "testo": "Ravello está a más de 300 metros sobre la costa y tiene otro ritmo: silencio, jardines y miradores. Villa Rufolo, del siglo XIII, tiene la torre morisca y el jardín sobre el vacío donde se celebra el festival de música. Villa Cimbrone tiene el Belvedere del Infinito, con las estatuas asomadas al mar.",
+        "come": "Desde Amalfi en autobús SITA, o a pie por la Scala Fenicia (sendero con muchos escalones). Las dos villas se unen a pie pasando por el centro.",
         "quando": "Villa Rufolo abre todos los días, con horario ampliado en temporada. Después de las 17:00 la luz en el Belvedere es mejor. El festival cambia los horarios de cierre.",
         "tempo": "media jornada",
         "url": "https://www.villarufolo.com/",
@@ -3610,17 +3609,16 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Sentiero degli Dei",
-        "testo": "El sendero panorámico más bello de la costa, de Bomerano (Agerola) a Nocelle: unos 7-8 km a media altura, a 500 metros sobre el mar, con Positano y Capri en el horizonte. Dura unas tres horas, casi todo cuesta abajo, y es gratuito.",
+        "testo": "El recorrido panorámico más bonito de la costa, de Bomerano (Agerola) a Nocelle: unos 7-8 km a media altura, con Positano y Capri en el horizonte. Se hace en unas tres horas, casi todo en bajada.",
         "come": "Autobús SITA de Amalfi a Bomerano y luego a pie hasta Nocelle. Desde Nocelle una larga escalinata baja a Positano, o se para y se toma el autobús.",
         "quando": "Primavera y otoño. En verano salir al amanecer: el sendero tiene poca sombra.",
         "tempo": "3-4 horas más el descenso a Positano",
-        "costo": "gratis",
         "consiglio": "Hacerlo de Bomerano a Nocelle, no al revés: todo es bajada y se llega con el mar delante. Botas de senderismo y agua."
       },
       {
         "nome": "Valle delle Ferriere",
         "testo": "Una garganta húmeda sobre Amalfi donde sobreviven helechos raros, reliquias de épocas más frías. El sendero sigue el arroyo Canneto entre los restos de las antiguas ferrerías y papeleras. Es una reserva natural.",
-        "come": "Desde Amalfi a pie por un sendero de unos 40 minutos, o desde Pontone (Scala). El circuito requiere botas cómodas.",
+        "come": "Desde Amalfi se sube a pie por un sendero, o se sale de Pontone (Scala). El recorrido circular requiere calzado de montaña.",
         "quando": "Todo el año; en verano es fresco y con sombra. Tras lluvias fuertes puede resbalar o tener tramos cerrados.",
         "tempo": "3 horas",
         "consiglio": "Buena salida para días de calor o de mar agitado, cuando la costa no es agradable."
@@ -3636,7 +3634,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Cetara",
         "testo": "Un pueblo de pescadores de atún y anchoas hacia Salerno, lejos de las multitudes. Aquí se hace la colatura di alici, heredera del garum romano. El puerto y la playa son de un pueblo de verdad.",
-        "come": "Autobús SITA desde Amalfi (unos 40 minutos) o desde Salerno; ferri en temporada. Se recorre a pie en una hora.",
+        "come": "Autobús SITA desde Amalfi o Salerno; ferry en temporada. Se recorre a pie en una hora.",
         "quando": "Todo el año. La comida es la hora ideal, con los locales llenos de gente del lugar.",
         "tempo": "2 horas",
         "consiglio": "Comprar la colatura directamente a un productor, en botella sellada, y llevársela a casa."
@@ -3705,11 +3703,11 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Delizia al limone",
-        "testo": "Postre de bizcocho empapado y crema de limón, nacido en Amalfi. El limón local, sfusato amalfitano, es grande y poco ácido."
+        "testo": "Dulce de bizcocho empapado y crema de limón, nacido en la península sorrentina y extendido por toda la costa. El limón local, el sfusato amalfitano, es grande y poco ácido."
       },
       {
         "nome": "Mozzarella nella mortella",
-        "testo": "Mozzarella envuelta en hojas de mirto, típica de Amalfi. Se come fresca, a temperatura ambiente."
+        "testo": "Mozzarella envuelta en hojas de mirto, típica del cercano Cilento y que también se encuentra en la costa. Se come fresca, a temperatura ambiente."
       },
       {
         "nome": "Limoncello",
@@ -3847,14 +3845,14 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Grotta Azzurra, Capri",
         "testo": "Una cavidad marina en Anacapri donde la luz entra por una abertura submarina y tiñe el agua de azul intenso. Se entra solo en pequeñas barcas de remos, tumbado, por un paso bajo.",
         "come": "Desde Marina Grande en barca hasta la entrada, o en autobús desde Anacapri y luego a pie hasta la taquilla de los barqueros. Se sube a la barquita y se paga allí mismo.",
-        "quando": "Mañana y primera tarde, con mar en calma. Con oleaje se suspende el acceso, y de noviembre a marzo rara vez está abierta.",
+        "quando": "Por la mañana y a primera hora de la tarde, con mar en calma. Con oleaje el acceso se suspende, y en invierno los cierres son frecuentes.",
         "tempo": "1-2 horas con la cola, 5 minutos dentro",
-        "costo": "unos 18-20 euros entre barca de remos y entrada, pagados en efectivo allí mismo (2026, las fuentes varían unos euros)",
+        "costo": "la barca de remos y la entrada se pagan allí mismo: preguntar el total antes de subir",
         "consiglio": "Mirar el mar antes de salir de Marina Grande: si está agitado, preguntar si la gruta está abierta antes de pagar un paseo en barca."
       },
       {
         "nome": "Monte Solaro e Scala Fenicia",
-        "testo": "El punto más alto de Capri, 589 metros, al que se llega desde Anacapri con un telesilla de doce minutos. Desde la cima se ven los dos golfos, Nápoles y Salerno juntos. Abajo, la Scala Fenicia, 921 escalones, es el antiguo camino entre Marina Grande y Anacapri.",
+        "testo": "El punto más alto de Capri, 589 metros, al que se sube desde Anacapri en telesilla. Desde la cima se ven los dos golfos, Nápoles y Salerno a la vez. Abajo, la Escalera Fenicia, de 921 escalones, es el antiguo camino entre Marina Grande y Anacapri.",
         "come": "Telesilla desde la plaza de Anacapri. Para bajar a pie se puede tomar la Scala Fenicia, con calzado cómodo.",
         "quando": "Por la mañana, con el aire limpio. El telesilla se detiene con viento fuerte.",
         "tempo": "2-3 horas",
@@ -3862,8 +3860,8 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Villa Jovis",
-        "testo": "Los restos de la villa donde el emperador Tiberio pasó los últimos años de su reinado, al borde de un precipicio sobre el mar a 354 metros. Quedan cisternas, terrazas y la planta de la residencia.",
-        "come": "A pie desde Capri, unos 45 minutos cuesta arriba por via Longano, en parte entre casas y luego entre muros de piedra seca. Sin transporte.",
+        "testo": "Los restos de la villa donde el emperador Tiberio pasó los últimos años de su reinado, al borde de un precipicio sobre el mar, en lo alto del Monte Tiberio. Quedan cisternas, terrazas y la planta de la residencia.",
+        "come": "A pie desde Capri, cuesta arriba por via Longano, en parte entre casas y luego entre muros de piedra seca. Sin transporte.",
         "quando": "Temprano por la mañana por el fresco; hay que comprobar antes los horarios y días de apertura, cambian con la temporada.",
         "tempo": "2 horas ida y vuelta",
         "consiglio": "Llevar agua: en la subida hay pocos sitios donde refrescarse."
@@ -3897,8 +3895,8 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Monte Epomeo",
-        "testo": "El volcán extinto en el centro de Ischia, 789 metros, con una cima de toba verde. Desde el mirador se ve toda la isla y el golfo. En el camino hay bodegas excavadas en la roca.",
-        "come": "Sendero desde Fontana (autobús desde Ischia Porto o Forio) o desde Serrara Fontana, aproximadamente 1 hora de subida. También se puede subir en minibús el tramo inicial.",
+        "testo": "El monte más alto de Ischia, en el centro de la isla, 789 metros, con una cima de toba verde. Desde el mirador se ve toda la isla y el golfo. En el camino hay bodegas excavadas en la roca.",
+        "come": "Sendero desde Fontana (autobús desde Ischia Porto o Forio) o desde Serrara Fontana, en subida. También se puede subir en microbús el primer tramo.",
         "quando": "Mañana despejada; evitar días de viento o después de la lluvia por la toba resbaladiza.",
         "tempo": "3 horas entre subida y bajada",
         "costo": "gratis",
@@ -3907,7 +3905,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Procida: Marina Corricella e Terra Murata",
         "testo": "Corricella es un pueblo de pescadores en gradas, con casas de mil colores alrededor del puertecito. Encima, Terra Murata es la parte alta y fortificada de la isla, con la abadía de San Michele y un mirador. Procida es pequeña y se recorre en media jornada.",
-        "come": "Ferri o aliscafo desde Nápoles o Pozzuoli (unos 40 minutos desde Nápoles). Desde el puerto de Marina Grande se camina o se toma el minibús hacia Terra Murata.",
+        "come": "Ferry o hidroala desde Nápoles o Pozzuoli. Desde el puerto de Marina Grande se camina o se coge el microbús hacia Terra Murata.",
         "quando": "Todo el año. El final de la tarde y la noche son los mejores momentos, con los pescadores trabajando.",
         "tempo": "media jornada",
         "consiglio": "Bajar a Corricella por la escalinata de Terra Murata y comer pescado en el puertecito bajo las casas."
@@ -3917,7 +3915,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "titolo": "1 día",
         "tappe": [
-          "Mañana: aliscafo de Nápoles o Pozzuoli a Procida (unos 40 minutos)",
+          "Mañana: hidroala desde Nápoles o Pozzuoli a Procida",
           "Terra Murata y Marina Corricella a pie",
           "Almuerzo de pescado en el puertecito",
           "Paseo hacia Chiaiolella y vuelta por la tarde"
@@ -4117,8 +4115,8 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Vulcano: Gran Cratere e fanghi",
-        "testo": "Un cráter de unos 390 metros con fumarolas de azufre en el borde, al que se llega con una hora de subida desde Porto di Levante. Abajo están los barros sulfurosos y el mar que burbujea de gas cerca de los Faraglioni.",
-        "come": "Aliscafo desde Lipari en unos 10 minutos. El sendero sale a pie desde el puerto. La poza de barro está cerca del puerto.",
+        "testo": "Un cráter de algo menos de 400 metros con fumarolas de azufre en el borde, al que se sube a pie desde Porto di Levante. Abajo están los fangos sulfurosos y el mar que burbujea de gas junto a los Faraglioni.",
+        "come": "Hidroala desde Lipari, una travesía corta. Desde el puerto el sendero sale a pie. El laguito de fangos está junto al puerto, pero está cerrado al público desde 2020 a la espera de obras de seguridad: comprobar si ha reabierto.",
         "quando": "Temprano por la mañana por el calor y el sol. El acceso al cráter se ha regulado o cerrado varias veces por la actividad de las fumarolas: comprobarlo antes.",
         "tempo": "media jornada para el cráter, 1 hora para los barros",
         "consiglio": "El barro mancha y el olor se queda: bañador viejo y sin joyas de plata. Respirar poco cerca de las fumarolas."
@@ -4142,7 +4140,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Panarea e Capo Milazzese",
         "testo": "La más pequeña y mundana, con casas blancas y sin coches. El poblado prehistórico de Capo Milazzese, de la Edad del Bronce, está en un promontorio al sur, con las cabañas de piedra visibles. En el mar están los islotes, entre ellos Lisca Bianca.",
-        "come": "Aliscafo desde Lipari o Stromboli. A pie desde el puerto hacia el sur, unos 40 minutos hasta Capo Milazzese; las maletas viajan en carritos eléctricos.",
+        "come": "Hidroala desde Lipari o Stromboli. Desde el puerto se va a pie hacia el sur hasta Capo Milazzese; las maletas viajan en carritos eléctricos.",
         "quando": "Junio y septiembre. En verano las noches se llenan de yates y suben los precios.",
         "tempo": "media jornada",
         "consiglio": "El paseo en barca por los islotes es la forma correcta de ver el mar de Panarea, pero regatear el precio."
@@ -4150,14 +4148,14 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Filicudi: Grotta del Bue Marino e Capo Graziano",
         "testo": "Una isla casi sin turismo. Capo Graziano tiene un poblado prehistórico y una costa de roca oscura. La Grotta del Bue Marino es una gruta marina a la que se llega en barca, con aguas límpidas.",
-        "come": "Aliscafo desde Lipari o Salina en aproximadamente 1 hora. En la isla se camina; los taxis acuáticos recorren las grutas.",
+        "come": "Hidroala desde Lipari o Salina. En la isla se camina; los taxis-barco hacen la vuelta de las grutas.",
         "quando": "Junio y septiembre; el mar agitado impide la entrada a las grutas.",
         "tempo": "1 día",
         "consiglio": "Dormir allí al menos una noche: por la tarde, cuando salen los aliscafi, la isla queda casi vacía."
       },
       {
         "nome": "Alicudi",
-        "testo": "La más remota, circular y casi sin carreteras, con unas pocas decenas de habitantes fijos. Se sube por caminos de mulas y escalinatas de piedra; los mulos siguen llevando las mercancías. Desde la cima se ve todo el archipiélago.",
+        "testo": "La más remota, circular y casi sin carreteras, con pocos habitantes fijos. Se sube por caminos de herradura y escalinatas de piedra; las mulas todavía llevan las mercancías. Desde la cima se ve todo el archipiélago.",
         "come": "Aliscafo desde Lipari o Filicudi. Desde el puerto se sube a pie, sin vehículos.",
         "quando": "Primavera y principios de otoño. En verano la subida es dura por el calor.",
         "tempo": "1 día o una noche",
@@ -4307,45 +4305,43 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Mercati di Palermo: Ballarò, Capo e Vucciria",
         "testo": "Tres mercados históricos en el centro, con origen árabe. Por la mañana son un teatro: puestos de pescado, especias, verduras, vendedores que gritan la abbanniata. Se come de pie, caminando, gastando pocos euros.",
         "come": "A pie desde el centro histórico. Ballarò está cerca de la Casa Professa y de Porta Nuova; el Capo está detrás del Teatro Massimo; la Vucciria queda entre via Roma y el puerto.",
-        "quando": "Por la mañana, de nueve a mediodía. Por la tarde muchos puestos se desmontan. El domingo está más vacío.",
+        "quando": "Por la mañana, cuando están todos los puestos. Por la tarde muchos puestos recogen. El domingo hay menos movimiento.",
         "tempo": "2-3 horas",
         "consiglio": "Comer panelle, arancine y sfincione de pie, en los puestos donde hace cola la gente del lugar, no en locales con menú en inglés."
       },
       {
         "nome": "Palazzo dei Normanni e Cappella Palatina",
         "testo": "La capilla real del siglo XII: paredes de mosaicos de oro, techo de madera con muqarnas de mano árabe y suelos de mármol. Es una de las iglesias más bellas de Italia y forma parte del itinerario árabe-normando, patrimonio UNESCO.",
-        "come": "Desde el centro son unos 10 minutos a pie hacia Porta Nuova. Entrada con reserva, acceso con controles y colas cortas si se va temprano.",
-        "quando": "Por la mañana, nada más abrir. Los horarios cambian con los oficios y con las sesiones de la asamblea regional: comprobarlos antes.",
+        "come": "Desde el centro se llega a pie hacia Porta Nuova. Entrada online en la web de la Fundación Federico II; acceso con controles y colas cortas si se va temprano.",
+        "quando": "De lunes a sábado de 8:30 a 16:30, domingos y festivos de 8:30 a 12:30 (horas de última entrada, web de la Fundación Federico II). Por la mañana, nada más abrir. Los horarios cambian con los oficios y las sesiones de la asamblea regional: comprobar antes.",
         "tempo": "1 hora y media",
-        "costo": "unos 19 euros entrada general, con los Apartamentos Reales (2025, por verificar)",
         "url": "https://www.federicosecondo.org/",
         "consiglio": "Levantar la vista al techo: los muqarnas son de madera pintada, con escenas de la corte árabe."
       },
       {
         "nome": "Duomo di Monreale",
-        "testo": "La obra maestra normanda del siglo XII: seis mil metros cuadrados de mosaicos sobre fondo de oro, con un Cristo Pantocrátor de casi veinte metros en el ábside. Al lado el claustro tiene 228 columnillas, y cada capitel es distinto. Las terrazas de arriba dan a la Conca d'Oro.",
-        "come": "Autobús AMAT desde Palermo (piazza Indipendenza o corso Calatafimi), unos 30-40 minutos. Se entra por la fachada lateral; claustro y terrazas tienen entrada.",
-        "quando": "A primera hora, antes de los autocares: a las ocho y media se está dentro con diez personas. Los horarios varían con los oficios.",
+        "testo": "La obra maestra normanda del siglo XII: más de seis mil metros cuadrados de mosaicos de fondo dorado, con el gran Cristo Pantocrátor en el ábside. Al lado el claustro tiene 228 columnillas, y cada capitel es distinto. Las terrazas de arriba dan a la Conca d'Oro.",
+        "come": "Autobús urbano desde Palermo (piazza Indipendenza o corso Calatafimi). El claustro y las terrazas tienen entrada propia.",
+        "quando": "A primera hora, antes de los autocares. Los horarios cambian con los oficios: comprobar antes.",
         "tempo": "2 horas",
-        "costo": "unos 13 euros la entrada combinada (catedral, claustro, terrazas, museo), 6 euros solo la catedral (2026, por verificar)",
         "consiglio": "Subir a las terrazas para ver el tejado y Palermo; llevar una sudadera por el fresco del interior."
       },
       {
         "nome": "Segesta",
         "testo": "Un templo dórico del siglo V a. C., nunca terminado, en pie solo sobre una colina en medio de la nada, con el viento. Más arriba está el teatro griego con vista al golfo de Castellammare.",
-        "come": "Desde Palermo en coche, aproximadamente una hora por la autopista Palermo-Trapani. El templo está cerca de la entrada; para el teatro hay un microbús o una subida a pie.",
+        "come": "Desde Palermo en coche, por la autopista Palermo-Trapani. El templo está cerca de la entrada; para el teatro hay lanzadera o subida a pie.",
         "quando": "Por la mañana o al final de la tarde. En verano no hay sombra: evitar el mediodía.",
         "tempo": "2 horas",
-        "costo": "Archeopass Segesta-Selinunte-Gibellina: unos 25,40 euros entrada general, válido una semana (2026, por verificar)",
+        "costo": "entradas y pases combinados en la web del parque arqueológico: las tarifas cambian",
         "consiglio": "Subir al teatro: arriba se entiende por qué los griegos lo construyeron aquí."
       },
       {
         "nome": "Selinunte",
         "testo": "El parque arqueológico más extenso de Europa: templos dóricos junto al mar, la acrópolis, la ciudad con sus calles. El Templo E ha sido reconstruido en pie; los otros son gigantescos montones de piedras caídas en un terremoto.",
-        "come": "En coche desde Trapani (aproximadamente una hora y cuarenta) o desde Palermo (unas dos horas). Dentro del parque hay un microbús; también se puede alquilar bicicleta.",
+        "come": "En coche desde Trapani o Palermo. Dentro del parque hay lanzadera; también se puede alquilar una bici.",
         "quando": "Temprano por la mañana o al final de la tarde. Al mediodía en verano es inmenso y sin sombra.",
         "tempo": "3 horas",
-        "costo": "incluido en el Archeopass Segesta-Selinunte-Gibellina (2026, por verificar)",
+        "costo": "entradas y pases combinados en la web del parque arqueológico: las tarifas cambian",
         "consiglio": "Terminar en la playa de Marinella, a dos pasos de los templos."
       },
       {
@@ -4375,7 +4371,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "San Vito Lo Capo",
         "testo": "Un pueblo marinero con una larga playa de arena clara, bajo el Monte Monaco. Es también la ciudad del cuscús: cada septiembre se celebra el Cous Cous Fest, festival internacional.",
-        "come": "Desde Trapani en coche, aproximadamente una hora; desde Palermo una hora y media. Aparcamiento de pago en el pueblo, lleno en verano.",
+        "come": "En coche desde Trapani o Palermo. Aparcamiento de pago en el pueblo, lleno en verano.",
         "quando": "Junio y septiembre, por el mar y el cuscús. En julio y agosto está lleno.",
         "tempo": "media jornada o una noche",
         "consiglio": "Probar el cuscús de pescado en un local con receta familiar, y reservar en septiembre."
@@ -4464,7 +4460,7 @@ export const destinazioniItalia: Destinazione[] = [
       "No dejar nada a la vista en el coche, sobre todo en zonas urbanas y cerca de los sitios arqueológicos.",
       "Carteristas en los mercados y calles concurridas: llevar la mochila delante.",
       "Segesta y Selinunte no tienen sombra: agua, sombrero y visita temprano en verano.",
-      "Los horarios y precios de los sitios cambian; muchos sitios son gratuitos el primer domingo del mes (por verificar): consultar las webs oficiales."
+      "Los horarios y precios de los yacimientos cambian: consultar siempre las webs oficiales antes de ir."
     ],
     esperienzeSlugs: ['monreale', 'street-food-palermo'],
     tripSlugs: ['sicilia-completa'],
@@ -4595,7 +4591,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Favignana: cale e Ex Stabilimento Florio",
         "testo": "Una isla con forma de mariposa, plana y excavada por canteras de toba. Cala Rossa y Cala Azzurra tienen agua transparente sobre roca blanca. En el pueblo la antigua fábrica Florio, la almadraba del siglo XIX, cuenta la historia de la mattanza, ya no practicada.",
-        "come": "Aliscafo desde Trapani en unos 20-30 minutos. En la isla se alquila una bicicleta: las distancias son inferiores a seis kilómetros.",
+        "come": "Hidroala desde Trapani. En la isla se alquila una bicicleta: las distancias son cortas.",
         "quando": "Junio y septiembre. Por la mañana las calas, por la tarde el museo. En agosto está llena.",
         "tempo": "2 días",
         "consiglio": "Llevar zapatos de goma: casi ninguna cala es de arena, se entra desde la roca."
@@ -4610,8 +4606,8 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Levanzo e Grotta del Genovese",
-        "testo": "La más pequeña de las tres Egadi principales, con un solo pueblo de pescadores. La Grotta del Genovese conserva grabados y pinturas del Paleolítico y el Neolítico, de unos doce mil años.",
-        "come": "Aliscafo desde Trapani o Favignana, unos 20 minutos. A la gruta se llega a pie o en barca y se visita con guía.",
+        "testo": "La más pequeña de las tres Egadas mayores, con un solo pueblo de pescadores. La Grotta del Genovese conserva grabados y pinturas del Paleolítico superior y del Neolítico.",
+        "come": "Hidroala desde Trapani o Favignana. A la gruta se llega a pie o en barco y se visita con guía.",
         "quando": "Junio y septiembre. La visita es con reserva y en grupos reducidos: organizarse por la mañana.",
         "tempo": "media jornada",
         "url": "https://www.ampisoleegadi.it/",
@@ -4645,7 +4641,7 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Lampedusa: Spiaggia dei Conigli",
         "testo": "Una playa de arena clara y agua turquesa dentro de una reserva natural, donde anida la tortuga Caretta caretta. La isla está sobre la placa africana. El acceso está regulado para proteger los nidos.",
-        "come": "Vuelo desde Palermo o Catania, o barco desde Porto Empedocle (unas ocho horas). Desde el pueblo en scooter o coche hasta el aparcamiento, luego a pie.",
+        "come": "Avión desde Palermo o Catania, o barco desde Porto Empedocle, con una travesía larga. Desde el pueblo en moto o coche hasta el aparcamiento, y luego a pie.",
         "quando": "Junio y septiembre. En temporada alta el acceso puede estar limitado y con reserva.",
         "tempo": "media jornada",
         "url": "https://www.ampisolepelagie.it/",
@@ -4653,7 +4649,7 @@ export const destinazioniItalia: Destinazione[] = [
       },
       {
         "nome": "Linosa",
-        "testo": "Una isla volcánica negra, a medio camino entre Lampedusa y Sicilia, con unos doscientos habitantes. Casas de colores vivos, playas de lava y aguas límpidas para hacer snorkel.",
+        "testo": "Una isla volcánica negra, a medio camino entre Lampedusa y Sicilia, con unos pocos cientos de habitantes. Casas de colores vivos, playas de lava y aguas limpias para hacer snorkel.",
         "come": "Barco desde Sicilia o aliscafo desde Lampedusa en temporada. Se recorre a pie en un día.",
         "quando": "Junio y septiembre; fuera de temporada las conexiones son escasas.",
         "tempo": "1 día o una noche",

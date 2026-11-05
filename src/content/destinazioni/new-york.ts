@@ -49,7 +49,7 @@ export const destinazioniNewYork: Destinazione[] = [
       {
         nome: "Empire State Building",
         testo: "Il grattacielo Art Déco del 1931, alto 443 metri con l'antenna. Ha due terrazze: all'86º piano, aperta all'aria, e al 102º, chiusa e più alta. Dall'alto si vede tutta Manhattan.",
-        come: "Ingresso al piano terra del palazzo, sulla Fifth Avenue all'angolo con la 34ª strada. Meglio prenotare online l'orario, per evitare la coda alla biglietteria.",
+        come: "L'ingresso per i visitatori è al 20 West 34th Street, non più sulla Fifth Avenue. Meglio prenotare online l'orario, per evitare la coda alla biglietteria.",
         quando: "Al tramonto o dopo il buio, quando la città si accende. Con la nebbia o le nuvole basse non si vede nulla.",
         tempo: "1-1,5 ore",
         costo: "Da 46 $ per l'86º piano, da 81 $ con anche il 102º (sito ufficiale, 2026)",
@@ -58,9 +58,9 @@ export const destinazioniNewYork: Destinazione[] = [
       },
       {
         nome: "Broadway e il Theater District",
-        testo: "Il quartiere dei teatri tra la 41ª e la 53ª strada, dove si vedono musical e spettacoli in prima serata. Molti locali del quartiere servono pasti rapidi prima dello spettacolo.",
+        testo: "Il quartiere dei teatri intorno a Times Square, più o meno tra la 40ª e la 54ª strada, dove si vedono musical e spettacoli in prima serata. Molti locali del quartiere servono pasti rapidi prima dello spettacolo.",
         come: "A piedi da Times Square. I biglietti si comprano online dai siti dei teatri o dal botteghino. Per i biglietti scontati del giorno c'è il TKTS.",
-        quando: "Spettacoli serali alle 19 o alle 20, con matinée il mercoledì e nei fine settimana. Quasi tutti i teatri riposano il lunedì.",
+        quando: "Gli spettacoli sono soprattutto serali, con alcune matinée. Orari e giorno di riposo cambiano da spettacolo a spettacolo: controllali sul sito.",
         tempo: "2,5-3 ore per lo spettacolo",
         url: "https://www.tdf.org/",
         consiglio: "I posti migliori si esauriscono in alta stagione, quindi prenota con anticipo: lo dico per esperienza, in settembre c'è molta richiesta.",
@@ -135,9 +135,9 @@ export const destinazioniNewYork: Destinazione[] = [
     luoghi: [
       {
         nome: "Apollo Theater",
-        testo: "Il teatro di Harlem dove hanno cantato James Brown, Ella Fitzgerald e Aretha Franklin. Il mercoledì sera fa l'Amateur Night, con un pubblico che applaude o fischia i dilettanti.",
-        come: "Si trova sulla 125ª strada. Metro A, B, C, D fino a 125 St. Gli spettacoli si prenotano sul sito del teatro, e ci sono visite guidate della sala.",
-        quando: "L'Amateur Night è il mercoledì sera, per orari e date vedi il sito.",
+        testo: "Il teatro di Harlem dove hanno cantato James Brown, Ella Fitzgerald e Aretha Franklin. È famoso per l'Amateur Night del mercoledì, con un pubblico che applaude o fischia i dilettanti.",
+        come: "Si trova sulla 125ª strada. Metro A, B, C, D fino a 125 St. Spettacoli e visite guidate si prenotano sul sito del teatro.",
+        quando: "Il teatro storico è in ristrutturazione: programma, Amateur Night e visite sul sito ufficiale.",
         tempo: "1-2 ore",
         url: "https://www.apollotheater.org/",
         consiglio: "Fai una passeggiata sulla 125ª per vedere le insegne storiche e i murales intorno.",
@@ -173,7 +173,7 @@ export const destinazioniNewYork: Destinazione[] = [
     programmi: [
       { titolo: "1 giorno", tappe: [
         "Mattina: messa gospel (domenica)",
-        "Walking tour di Harlem o giro all'Apollo",
+        "Walking tour di Harlem, con una sosta davanti all'Apollo",
         "Pranzo ad Harlem",
         "Pomeriggio: Central Park in bici fino a Strawberry Fields",
       ] },
@@ -193,7 +193,7 @@ export const destinazioniNewYork: Destinazione[] = [
       "Alle messe gospel non fotografare durante la funzione e rispetta le regole della chiesa.",
       "I tour guidati di Harlem costano molto: confronta le offerte prima di prenotare (ho pagato 275$ più mancia per un tour di circa 2 ore).",
       "In Central Park, dopo il tramonto, resta nei sentieri frequentati.",
-      "Controlla l'orario di apertura degli spettacoli all'Apollo sul sito prima di andare.",
+      "L'Apollo storico è in ristrutturazione: controlla sul sito programma e visite prima di andare.",
     ],
     esperienzeSlugs: ['messa-gospel-harlem'],
     tripSlugs: ['new-york-itinerario'],
@@ -229,7 +229,7 @@ export const destinazioniNewYork: Destinazione[] = [
     luoghi: [
       {
         nome: "MoMA",
-        testo: "Il Museum of Modern Art custodisce la Notte stellata di Van Gogh, Les Demoiselles d'Avignon di Picasso e le Ninfee di Monet. Si sviluppa su sei piani; l'arte contemporanea è ai piani alti.",
+        testo: "Il Museum of Modern Art custodisce la Notte stellata di Van Gogh, Les Demoiselles d'Avignon di Picasso e le Ninfee di Monet. Le collezioni sono su più piani, in ordine cronologico.",
         come: "Ingresso al 11 West 53rd Street. Biglietto online per saltare la coda. Mappa e audioguida sono nell'app Bloomberg Connects, da scaricare prima.",
         quando: "Aperto tutti i giorni dalle 10.30 alle 17.30, il venerdì fino alle 20.30; chiuso solo a Thanksgiving e a Natale. Meglio la mattina presto.",
         tempo: "2-3 ore",
@@ -239,7 +239,7 @@ export const destinazioniNewYork: Destinazione[] = [
       },
       {
         nome: "Cattedrale di San Patrizio e Rockefeller Center",
-        testo: "La cattedrale neogotica sulla Fifth Avenue è la più grande chiesa cattolica della città. Di fronte c'è il Rockefeller Center, con la piazza e il Top of the Rock.",
+        testo: "La cattedrale sulla Fifth Avenue è la più grande cattedrale cattolica neogotica del Nord America. Di fronte c'è il Rockefeller Center, con la piazza e il Top of the Rock.",
         come: "A piedi da Times Square. La cattedrale è gratuita.",
         quando: "La mattina presto per i gruppi; il Rockefeller Center a ogni ora.",
         tempo: "1-1,5 ore",
@@ -249,7 +249,7 @@ export const destinazioniNewYork: Destinazione[] = [
       },
       {
         nome: "High Line e Chelsea Market",
-        testo: "L'ex ferrovia sopraelevata del West Side trasformata in un parco lungo circa 2,3 km, con piante, panchine e vista sul fiume Hudson. Alla fine si arriva a Hudson Yards e al Vessel; al nord c'è il Chelsea Market.",
+        testo: "L'ex ferrovia sopraelevata del West Side trasformata in un parco lungo circa 2,3 km, con piante, panchine e vista sul fiume Hudson. All'estremità nord si arriva a Hudson Yards e al Vessel; nel tratto sud la High Line passa accanto all'edificio del Chelsea Market.",
         come: "Si sale da scale lungo la Gansevoort Street o la 14ª strada. Ingresso libero.",
         quando: "Al pomeriggio nei giorni feriali; nel weekend è molto affollata.",
         tempo: "1,5-2 ore",
@@ -259,7 +259,7 @@ export const destinazioniNewYork: Destinazione[] = [
       },
       {
         nome: "Hudson Yards e The Vessel",
-        testo: "Il nuovo quartiere di grattacieli con la grande struttura The Vessel, una scalinata ad alveare. La salita è di nuovo aperta, con reti di protezione, e si fa solo con biglietto a orario. D'inverno può chiudere per qualche settimana.",
+        testo: "Il nuovo quartiere di grattacieli con la grande struttura The Vessel, una scalinata ad alveare. La salita è di nuovo aperta, con reti di protezione, e si fa solo con biglietto a orario.",
         come: "A piedi dalla fine della High Line, o in metro con la linea 7 fino a 34 St-Hudson Yards.",
         quando: "Il tramonto, per la luce. La salita apre di solito dalle 11 alle 19: orari del giorno sul sito.",
         tempo: "1 ora",
@@ -290,7 +290,7 @@ export const destinazioniNewYork: Destinazione[] = [
     ],
     attenzioni: [
       "Scarica l'app Bloomberg Connects prima di entrare al MoMA: mappa e audioguida sono solo online.",
-      "Il MoMA è chiuso di martedì: controlla il calendario sul sito.",
+      "Il MoMA è aperto tutti i giorni tranne Thanksgiving e Natale: orari del giorno sul sito.",
       "Il Vessel si sale solo con biglietto a orario: prenota sul sito ufficiale e controlla gli orari del giorno.",
       "Compra i biglietti solo dal sito ufficiale del museo.",
     ],
@@ -452,12 +452,12 @@ export const destinazioniNewYork: Destinazione[] = [
       },
       {
         nome: "Traversata del Brooklyn Bridge",
-        testo: "Il ponte sospeso del 1883 con pista pedonale in legno sopra le auto. Si cammina da Brooklyn verso Manhattan con lo skyline di fronte.",
+        testo: "Il ponte sospeso del 1883, con una passerella pedonale sopraelevata tra le due carreggiate. Si cammina da Brooklyn verso Manhattan con lo skyline di fronte.",
         come: "La passerella è dentro il ponte. Da DUMBO si risale e si va verso Manhattan.",
         quando: "Al tramonto o all'alba; a mezzogiorno è affollato di turisti e bici.",
         tempo: "40-60 minuti",
         costo: "Gratuito",
-        consiglio: "Resta nella corsia pedonale: l'altra è riservata alle biciclette, che passano veloci.",
+        consiglio: "Dal 2021 le bici hanno una corsia protetta sulla carreggiata, quindi la passerella è dei pedoni. È comunque affollata: non fermarti in mezzo per le foto.",
       },
       {
         nome: "Top of the Rock",
@@ -492,8 +492,8 @@ export const destinazioniNewYork: Destinazione[] = [
     attenzioni: [
       "Al 9/11 Museum compra il biglietto sul sito ufficiale e non da venditori sul posto.",
       "Il Brooklyn Bridge è affollato: tieni a portata di mano borsa e telefono.",
-      "Non fermarti nella corsia ciclabile per le foto.",
-      "Attenzione ai venditori di tour sul ponte: non sono ufficiali.",
+      "Non fermarti in mezzo alla passerella per le foto: accostati al bordo.",
+      "Diffida di chi vende tour per strada: compra solo da operatori ufficiali.",
     ],
     esperienzeSlugs: ['dumbo-brooklyn-bridge', 'top-of-the-rock'],
     tripSlugs: ['new-york-itinerario'],

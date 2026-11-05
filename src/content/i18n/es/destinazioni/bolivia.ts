@@ -48,7 +48,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "Las estaciones están por toda la ciudad; el billete se compra en la estación.",
         "quando": "Al atardecer, cuando la hoya se ilumina.",
         "tempo": "1-2 horas",
-        "costo": "3 bolivianos por viaje, menos de medio euro (2025-2026); el cambio de línea se paga aparte",
+        "costo": "3 bolivianos por viaje, menos de medio euro (2025-2026)",
         "url": "https://www.miteleferico.bo/",
         "consiglio": "Rick las recomienda a todos: cuestan muy poco y dan la mejor vista de la hoya."
       },
@@ -63,14 +63,14 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         "nome": "Valle de la Luna",
         "testo": "Formaciones de arcilla erosionada a pocos kilómetros del centro, con senderos cortos entre agujas y cañones.",
-        "come": "Bus o taxi desde la zona sur de La Paz (Mallasa), unos 30 minutos.",
+        "come": "Bus o taxi hacia la zona sur de La Paz, por Mallasa.",
         "quando": "Mañana, con mejor luz.",
         "tempo": "1-2 horas",
         "consiglio": "A esta altura hasta un paseo corto cansa: ve despacio."
       },
       {
         "nome": "El Alto y las cholitas luchadoras",
-        "testo": "El mercado de El Alto (jueves y domingo) es uno de los más grandes de Sudamérica. El domingo se asiste también a la lucha libre de las mujeres aymaras con falda tradicional.",
+        "testo": "La feria 16 de Julio de El Alto (jueves y domingo) es uno de los mercados populares más grandes de América Latina. El domingo también se puede ver la lucha libre de las mujeres aymaras con pollera.",
         "come": "En teleférico (línea roja) hasta El Alto.",
         "quando": "Jueves y domingo para el mercado.",
         "tempo": "Medio día",
@@ -78,16 +78,16 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Carretera de la Muerte",
-        "testo": "La antigua carretera a Coroico, desde más de 4.600 metros hasta unos 1.200 metros, hoy recorrida en bajada en bicicleta de montaña. Experiencia de un día entre niebla, selva y gargantas.",
+        "testo": "La vieja carretera a Coroico, con unos 3.500 metros de desnivel en bajada, hoy recorrida en bicicleta de montaña. Una experiencia de un día entre niebla, selva y gargantas.",
         "come": "Con un operador, en bicicleta de montaña, saliendo de La Paz temprano y regresando a última hora de la tarde.",
-        "quando": "Mayo-octubre, pero solo tras aclimatarse.",
+        "quando": "En la temporada seca, y solo después de aclimatarse.",
         "tempo": "Día completo",
-        "costo": "Aproximadamente 80-100 dólares con operadores económicos y 120-170 con operadores premium",
+        "costo": "Varía mucho entre operadores económicos y premium: compara qué incluye",
         "consiglio": "Elige un operador con bicis y frenos en buen estado: aquí importa más que el precio."
       },
       {
         "nome": "Chacaltaya",
-        "testo": "La antigua estación de esquí más alta del mundo, hoy sin glaciar, con vista al Huayna Potosí.",
+        "testo": "Fue la estación de esquí con remontes más alta del mundo. El glaciar desapareció por completo en 2009; la zona está cerca del Huayna Potosí.",
         "come": "Tour de medio día desde La Paz.",
         "quando": "Temprano por la mañana.",
         "tempo": "Medio día",
@@ -209,16 +209,16 @@ export const destinazioniBolivia: Destinazione[] = [
         "nome": "El salar de Uyuni",
         "testo": "La mayor extensión de sal del mundo, más de 10.000 km cuadrados a 3.650 metros. Sin referencias no se sabe si una montaña está a cinco o a cincuenta kilómetros, y por eso funcionan las fotos en perspectiva.",
         "come": "Solo en 4x4 con conductor, dentro del tour organizado, con salida desde Uyuni.",
-        "quando": "Mayo-octubre: salar seco y transitable entero. Enero-marzo: el efecto espejo, pero algunas paradas se pierden.",
+        "quando": "En la temporada seca el salar está seco y se recorre entero. En la temporada de lluvias (más o menos de diciembre a abril) se convierte en un espejo de agua, pero algunas paradas se pierden.",
         "tempo": "Medio día o un día",
-        "costo": "Tour de 3 días aproximadamente 150-250 dólares por persona. Aparte, en efectivo: reserva Eduardo Avaroa unos 150 bolivianos e Isla Incahuasi unos 30 (datos de los operadores, por reconfirmar)",
+        "costo": "El tour se paga a la agencia y el precio varía mucho entre operadores. Aparte, en efectivo: la entrada a la reserva Eduardo Avaroa y a la Isla Incahuasi; pide al operador los importes actualizados",
         "consiglio": "Para las fotos en perspectiva lleva objetos pequeños y aprovecha la luz del amanecer."
       },
       {
         "nome": "Isla Incahuasi",
         "testo": "La isla de roca cubierta de cactus gigantes en medio de la extensión blanca.",
         "come": "Parada del tour en 4x4 desde el salar, con un breve sendero de subida.",
-        "quando": "Estación seca; de enero a marzo puede quedar inaccesible.",
+        "quando": "Temporada seca; en la temporada de lluvias puede ser difícil de alcanzar.",
         "tempo": "1-2 horas",
         "consiglio": "El sendero da la mejor vista del salar desde un punto elevado."
       },
@@ -232,7 +232,7 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Laguna Colorada",
-        "testo": "Laguna roja por las algas, con miles de flamencos, en el Sud Lípez.",
+        "testo": "Laguna roja por los sedimentos y las algas, con muchos flamencos, sobre todo de la especie de James, en el Sud Lípez.",
         "come": "Parada del segundo día del tour en 4x4.",
         "quando": "Temprano por la mañana.",
         "tempo": "1-2 horas",
@@ -240,9 +240,9 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Géiseres Sol de Mañana y termas de Polques",
-        "testo": "Géiseres a casi 5.000 metros que humean al amanecer, y las termas al aire libre de Polques.",
+        "testo": "Géiseres a unos 4.900 metros que humean al amanecer, y las termas al aire libre de Polques.",
         "come": "Paradas del tour en 4x4.",
-        "quando": "Al amanecer, con veinte grados bajo cero.",
+        "quando": "Al amanecer, con temperaturas bajo cero.",
         "tempo": "1-2 horas",
         "consiglio": "Vístete por capas: el amanecer en los géiseres es de las horas más frías del viaje."
       },
@@ -308,7 +308,7 @@ export const destinazioniBolivia: Destinazione[] = [
       "Elegir al operador solo por el precio: los vehículos y su mantenimiento marcan una diferencia real en pistas a 4.500 metros.",
       "Frío nocturno bajo cero: el saco de dormir no siempre está incluido.",
       "Llegar a Uyuni sin aclimatarse: el segundo día se sube casi a 5.000 metros.",
-      "Enero-marzo: efecto espejo, pero varias paradas se pierden."
+      "Temporada de lluvias (más o menos de diciembre a abril): efecto espejo, pero varias paradas se pierden."
     ],
     esperienzeSlugs: ['tour-uyuni-sud-lipez'],
     tripSlugs: ['bolivia-itinerario'],
@@ -356,16 +356,16 @@ export const destinazioniBolivia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Basílica de Copacabana",
-        "testo": "Meta de peregrinación con la Virgen de la Candelaria, en un pueblo algo desvencijado pero con alma.",
+        "testo": "Destino de peregrinación dedicado a la Virgen de Copacabana, en un pueblo algo destartalado pero con alma.",
         "come": "A pie desde el malecón.",
-        "quando": "Mañana, en los días de bendición de vehículos.",
+        "quando": "Mañana.",
         "tempo": "1 hora",
         "consiglio": "Copacabana es la entrada natural desde Perú."
       },
       {
         "nome": "Cerro Calvario",
         "testo": "La colina sobre el pueblo, con el vía crucis, para el atardecer sobre el lago.",
-        "come": "A pie desde el centro, unos 30 minutos cuesta arriba.",
+        "come": "A pie desde el centro, con una subida corta pero empinada.",
         "quando": "Atardecer.",
         "tempo": "1-2 horas",
         "consiglio": "A 3.800 metros la subida cansa: ve despacio."
@@ -373,10 +373,10 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         "nome": "Isla del Sol: Chincana y Roca Sagrada",
         "testo": "Las ruinas de Chincana y la Roca Sagrada, en el extremo norte de la isla donde según la tradición nacieron el sol y el primer Inca.",
-        "come": "Barca colectiva desde Copacabana, unas 1h30. En la isla no hay vehículos.",
+        "come": "Lancha colectiva desde Copacabana. En la isla no hay vehículos a motor ni calles asfaltadas.",
         "quando": "Mañana y atardecer.",
         "tempo": "Medio día",
-        "costo": "Barca a la isla unos pocos dólares, más pequeñas tasas de entrada cobradas por las comunidades",
+        "costo": "Lancha y pequeñas tasas de entrada cobradas por las comunidades: lleva efectivo",
         "consiglio": "Pregunta en el lugar si el paso hacia la parte norte está abierto: tensiones entre comunidades lo han limitado a ratos."
       },
       {
@@ -443,7 +443,7 @@ export const destinazioniBolivia: Destinazione[] = [
       "Planear la Isla del Sol en el día: se pierde la mejor parte.",
       "El acceso a toda la isla no está garantizado: pregunta en el lugar.",
       "Subestimar la altura: se camina cuesta arriba a casi 4.000 metros.",
-      "Frontera de Kasani/Yunguyo: cierra de noche, exige un preregistro en línea y la oficina cierra a mediodía. Vuelve a comprobarlo antes."
+      "Frontera de Kasani/Yunguyo: horarios y trámites cambian, vuelve a comprobarlos antes de salir."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['bolivia-itinerario'],
@@ -490,7 +490,7 @@ export const destinazioniBolivia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Centro colonial de Sucre y Casa de la Libertad",
-        "testo": "La capital constitucional, ciudad colonial blanca patrimonio UNESCO a 2.800 metros. La Casa de la Libertad es donde se firmó la independencia.",
+        "testo": "La capital constitucional, ciudad colonial blanca patrimonio de la UNESCO desde 1991, a unos 2.800 metros. En la Casa de la Libertad se fundó la república.",
         "come": "A pie desde el centro.",
         "quando": "De día.",
         "tempo": "Medio día",
@@ -498,7 +498,7 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Parque Cretácico",
-        "testo": "Una pared vertical con miles de huellas de dinosaurio.",
+        "testo": "Una pared casi vertical con miles de huellas de dinosaurio (más de 12.000 registradas), en una cantera a las afueras de Sucre.",
         "come": "En bus o taxi desde el centro.",
         "quando": "Mañana.",
         "tempo": "2 horas",
@@ -507,7 +507,7 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         "nome": "Mercado de Tarabuco",
         "testo": "Pueblo textil cerca de Sucre, con el mercado dominical y los tejidos yampara.",
-        "come": "En colectivo o tour desde Sucre, unas 1h30.",
+        "come": "En colectivo o tour desde Sucre.",
         "quando": "Domingo.",
         "tempo": "Medio día",
         "consiglio": "Regatea los precios."
@@ -522,20 +522,20 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Minas del Cerro Rico",
-        "testo": "La montaña de plata que domina Potosí y la convirtió en la ciudad más rica de Sudamérica. Se entra en las galerías de las cooperativas mineras aún activas con casco y lámpara.",
-        "come": "Con una agencia de Potosí, prefiriendo las gestionadas por ex mineros. Visita de unas 4 horas.",
+        "testo": "La montaña de plata que domina Potosí: entre los siglos XVI y XVIII salió de ella gran parte de la plata del mundo, y Potosí se convirtió en una de las ciudades más grandes del Nuevo Mundo. Se entra en las galerías de las cooperativas mineras aún activas con casco y lámpara.",
+        "come": "Con una agencia de Potosí, mejor si la gestionan exmineros.",
         "quando": "En días laborables, cuando las cooperativas están en actividad.",
-        "tempo": "4 horas",
-        "costo": "Aproximadamente 15-30 dólares por persona con guía, equipo incluido",
+        "tempo": "Medio día",
+        "costo": "Guía y equipo se pagan a la agencia: pregunta qué incluye el precio",
         "consiglio": "Para Rick fue la experiencia más pesada del viaje: túneles calurosos y polvorientos junto a hombres que pasan allí diez horas al día. No recomendada a quien sufre claustrofobia."
       },
       {
         "nome": "Curso de español en Sucre",
-        "testo": "Entre los cursos más económicos y apreciados de Sudamérica.",
+        "testo": "En el centro de Sucre hay varias escuelas de español, cómodas para quien se queda unas semanas.",
         "come": "Escuelas en el centro de Sucre; reserva antes.",
         "quando": "Todo el año.",
         "tempo": "De pocos días a semanas",
-        "consiglio": "Cuestan poquísimo comparado con el resto del continente."
+        "consiglio": "Precios y modalidades cambian de una escuela a otra: compara antes de reservar."
       }
     ],
     programmi: [
@@ -677,20 +677,20 @@ export const destinazioniBolivia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Pampas del Yacuma",
-        "testo": "Praderas inundadas recorridas en barca por el río Yacuma: caimanes, carpinchos, monos, delfines rosados y cientos de aves, con avistamientos cercanos.",
+        "testo": "Praderas inundadas recorridas en barca por el río Yacuma: caimanes, capibaras, monos, delfines rosados y muchísimas aves, con avistamientos de cerca.",
         "come": "Tour organizado de 3 días desde Rurrenabaque, con navegación y noches en lodge.",
-        "quando": "Mayo-octubre, estación seca.",
+        "quando": "En la temporada seca.",
         "tempo": "3 días, 2 noches",
-        "costo": "Aproximadamente 100-200 dólares por 3 días, todo incluido",
+        "costo": "Tour todo incluido: el precio cambia entre agencias, compara varias en Rurrenabaque",
         "consiglio": "Rick vio más animales con menos esfuerzo que en cualquier otro sitio. Si el guía saca caimanes del agua o busca anacondas para que las toquen, di que no."
       },
       {
         "nome": "Selva del Madidi",
         "testo": "Bosque primario dentro del parque nacional, con árboles enormes y biodiversidad altísima. La fauna es más difícil de ver.",
         "come": "Tour de 3-4 días con caminatas guiadas y noches en lodge o campamento.",
-        "quando": "Mayo-octubre.",
+        "quando": "En la temporada seca.",
         "tempo": "3-4 días",
-        "costo": "Aproximadamente 150-300 dólares por 3-4 días",
+        "costo": "Depende del lodge y de la duración: pregunta el precio directamente al lodge o a la agencia",
         "consiglio": "Elige un lodge gestionado por comunidades indígenas, como Chalalán o San Miguel del Bala."
       },
       {
@@ -703,10 +703,10 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Vuelo La Paz-Rurrenabaque",
-        "testo": "Un vuelo de unos 45 minutos en avionetas, a menudo cancelado por el clima, que lleva de los 4.000 metros al nivel de la selva.",
-        "come": "Reserva con margen; la alternativa es un bus de 18-20 horas.",
+        "testo": "Un vuelo de unos 45 minutos a una hora en aviones pequeños, que puede cancelarse por el clima y lleva de los 4.000 metros al nivel de la selva.",
+        "come": "Reserva con margen; la alternativa es un bus de unas 18 horas.",
         "quando": "Todo el año.",
-        "tempo": "45 minutos",
+        "tempo": "45 minutos a 1 hora",
         "consiglio": "No cuentes con el vuelo de regreso sin margen."
       }
     ],
@@ -750,9 +750,9 @@ export const destinazioniBolivia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Los vuelos a Rurrenabaque se cancelan a menudo por el clima: la alternativa es un bus de casi veinte horas.",
+      "Los vuelos a Rurrenabaque pueden cancelarse por el clima: la alternativa es un bus de unas 18 horas.",
       "Algunas prácticas con caimanes y anacondas dañan a los animales: infórmate sobre el operador.",
-      "Repelente serio y vacunación contra la fiebre amarilla.",
+      "Repelente serio. Para la zona de Rurrenabaque se recomienda la vacuna contra la fiebre amarilla: consulta a tu médico antes de salir.",
       "Mosquitos en cantidad notable."
     ],
     esperienzeSlugs: [],

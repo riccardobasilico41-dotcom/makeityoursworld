@@ -47,12 +47,12 @@ export const destinazioniLettonia: Destinazione[] = [
     luoghi: [
       {
         nome: "Riga Cathedral and Dome Square",
-        testo: "The largest Lutheran cathedral in the Baltic states, founded in 1211, with a historic organ. The square is ringed with cafes.",
+        testo: "Considered the largest medieval church in the Baltic states, founded in 1211, with the Walcker organ inaugurated in 1884: 6,718 pipes. The square is ringed with cafes.",
         come: "On foot from the Old Town.",
-        quando: "Morning; in the evening there are often organ concerts.",
+        quando: "Morning.",
         tempo: "1 hour",
         url: "https://doms.lv",
-        consiglio: "Ask for the organ concert times."
+        consiglio: "Organ concert programme on the official website."
       },
       {
         nome: "St Peter's Church",
@@ -60,12 +60,11 @@ export const destinazioniLettonia: Destinazione[] = [
         come: "On foot, near Town Hall Square.",
         quando: "Clear day.",
         tempo: "45 minutes",
-        costo: "9 euros for the platform (site figure, to be rechecked)",
         consiglio: "Better to go up in the morning, when the light is clear."
       },
       {
         nome: "House of the Blackheads",
-        testo: "A Flemish Renaissance facade, destroyed in the Second World War and rebuilt. It belonged to the brotherhood of unmarried merchants.",
+        testo: "From the 15th century the seat of the Brotherhood of Blackheads, a guild of unmarried merchants and ship owners, with a facade decorated in the early 17th century. Bombed in 1941 and demolished by the Soviets in 1948, it was rebuilt between 1996 and 2000.",
         come: "On Town Hall Square.",
         quando: "Morning, for photos.",
         tempo: "30 minutes",
@@ -74,7 +73,7 @@ export const destinazioniLettonia: Destinazione[] = [
       },
       {
         nome: "The Three Brothers",
-        testo: "Three houses in a row on Mazā Pils street, among the oldest stone buildings in the city, from different eras, from the fifteenth to the late seventeenth century.",
+        testo: "Three houses in a row at numbers 17, 19 and 21 of Mazā Pils iela, the oldest complex of dwelling houses in Riga: the first, with its stepped gable, is late 15th century, the second from 1646, the third a late-17th-century Baroque house.",
         come: "On foot from the Old Town.",
         quando: "Daytime.",
         tempo: "15 minutes",
@@ -83,7 +82,7 @@ export const destinazioniLettonia: Destinazione[] = [
       },
       {
         nome: "Art Nouveau district",
-        testo: "Alberta iela, Elizabetes iela and Strēlnieku iela, with hundreds of facades decorated with masks, faces and floral motifs, many by the architect Mikhail Eisenstein.",
+        testo: "Alberta iela and the streets around it, with facades decorated with masks, faces and floral motifs, many designed by the architect Mikhail Eisenstein. About a third of the buildings in central Riga are Art Nouveau.",
         come: "On foot or by tram from the centre (15 minutes).",
         quando: "Morning, with full light on the facades.",
         tempo: "1-2 hours",
@@ -92,7 +91,7 @@ export const destinazioniLettonia: Destinazione[] = [
       },
       {
         nome: "Central Market",
-        testo: "Five pavilions made from the German Zeppelin hangars of the First World War, opened in 1930. One of the largest covered markets in Europe.",
+        testo: "Five pavilions made from the German Zeppelin hangars of the First World War, opened in 1930. It is considered the largest market in Europe.",
         come: "On foot from the railway station.",
         quando: "Morning.",
         tempo: "1-2 hours",
@@ -100,12 +99,12 @@ export const destinazioniLettonia: Destinazione[] = [
       },
       {
         nome: "Freedom Monument and Occupation Museum",
-        testo: "The 1935 monument is the symbol of Latvian independence, with an honour guard. The Occupation Museum, on Town Hall Square, tells the Soviet and Nazi history.",
+        testo: "The monument, unveiled in 1935, is the symbol of Latvian independence; the honour guard, removed by the Soviets, returned in 1992 and does not stand in extreme cold or heat. The Occupation Museum, on Latviešu strēlnieku laukums in the Old Town, tells the Soviet and Nazi history.",
         come: "On foot from the Old Town (10 minutes).",
         quando: "Morning.",
         tempo: "1.5 hours",
         url: "https://okupacijasmuzejs.lv",
-        consiglio: "Check the opening hours and entry conditions of the Occupation Museum on its website."
+        consiglio: "The Occupation Museum opens daily 10-18; tickets on the official website."
       }
     ],
     programmi: [
@@ -165,9 +164,9 @@ export const destinazioniLettonia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Night venues in the Old Town: some inflate the bill, check the menu before ordering.",
-      "Taxis: use Bolt or Eco Taxi, not those parked near the station.",
-      "Pickpockets in the Old Town and at the Central Market.",
+      "Nightlife: some tourists have been charged very high prices or fraudulent card payments. Watch card payments made in front of you and be wary if asked to re-enter your PIN.",
+      "Taxis: book with a known company or take one from a rank, only registered cars with yellow plates; agree the rough fare first.",
+      "Pickpockets in the Old Town, at the Central Market and at the train and bus stations.",
       "In winter pavements are icy: suitable shoes."
     ],
     esperienzeSlugs: ['riga-art-nouveau-passeggiata', 'riga-mercato-centrale-tour'],
@@ -212,12 +211,12 @@ export const destinazioniLettonia: Destinazione[] = [
     luoghi: [
       {
         nome: "Jūrmala beach",
-        testo: "A continuous white sand beach about 32 km long, among the widest and cleanest in the Baltic, on the coast of the Gulf of Riga.",
-        come: "Train from Riga to Majori (about 30 minutes).",
+        testo: "A white quartz-sand beach about 33 km long, on the coast of the Gulf of Riga.",
+        come: "Train from Riga to Majori, on the Riga-Tukums line.",
         quando: "Summer, when it is warm; in winter it is deserted and atmospheric.",
         tempo: "half a day",
         costo: "free entry",
-        consiglio: "The train is easier than the car: in summer a toll is charged to enter by vehicle."
+        consiglio: "The train is easier than the car: non-residents pay a toll to enter Jūrmala by vehicle."
       },
       {
         nome: "Jomas iela",
@@ -258,7 +257,7 @@ export const destinazioniLettonia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "To enter Jūrmala by car in summer a fee is charged: the train trip is simpler.",
+      "To enter Jūrmala by car non-residents pay a toll: the train trip is simpler.",
       "The beach is windy: bring a sweatshirt even in summer.",
       "On summer weekends the restaurants are full: book."
     ],

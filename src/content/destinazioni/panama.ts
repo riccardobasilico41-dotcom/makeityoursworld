@@ -48,7 +48,7 @@ export const destinazioniPanama: Destinazione[] = [
         {
           "nome": "Chiuse di Miraflores",
           "testo": "Le chiuse del Canale di Panama dove le navi vengono sollevate e abbassate fra i due livelli, con centro visitatori, museo e terrazza panoramica.",
-          "come": "Taxi o Uber da Panama City, circa 20-30 minuti. Biglietto d'ingresso al centro visitatori.",
+          "come": "Taxi da app o transfer dell'hotel da Panama City. Biglietto d'ingresso al centro visitatori.",
           "quando": "Mattina: gli orari di transito delle navi vanno controllati prima, perché senza una nave in manovra si guarda una vasca vuota.",
           "tempo": "2-3 ore",
           "costo": "17,22 USD per i non residenti dai 13 anni (tariffa ufficiale ACP in vigore nel 2026).",
@@ -65,8 +65,8 @@ export const destinazioniPanama: Destinazione[] = [
         },
         {
           "nome": "Panamá Viejo",
-          "testo": "Le rovine della città originale, fondata nel 1519 e distrutta dai pirati nel 1671, con la torre della cattedrale.",
-          "come": "Taxi dal centro, circa 15-20 minuti.",
+          "testo": "Le rovine della città originale, fondata nel 1519 e distrutta nel 1671 durante l'assalto del corsaro Henry Morgan, da un incendio di cui non si sa con certezza chi fu l'autore. Con il Casco Viejo è patrimonio UNESCO dal 1997.",
+          "come": "Taxi da app dal centro.",
           "quando": "Da martedì a domenica, 8.30-17.30 (biglietteria fino alle 16.30); chiuso il lunedì. Mattina, prima del caldo.",
           "tempo": "1,5 ore",
           "url": "https://www.patronatopanamaviejo.org/"
@@ -74,10 +74,10 @@ export const destinazioniPanama: Destinazione[] = [
         {
           "nome": "Mercado de Mariscos",
           "testo": "Il mercato del pesce vicino al Casco Viejo, con banchi di ceviche serviti in bicchiere.",
-          "come": "A piedi dal Casco Viejo, 10 minuti.",
+          "come": "A piedi dal Casco Viejo.",
           "quando": "Pranzo.",
           "tempo": "1 ora",
-          "consiglio": "Ceviche in bicchiere di plastica per un paio di dollari."
+          "consiglio": "Il ceviche si mangia in bicchiere di plastica, al banco, per pochi dollari."
         },
         {
           "nome": "Biomuseo",
@@ -138,9 +138,9 @@ export const destinazioniPanama: Destinazione[] = [
         }
       ],
       "attenzioni": [
-        "Nelle zone fuori dal Casco turistico, dopo il tramonto, non girare a piedi: usare taxi o app.",
+        "Il Foreign Office britannico segnala scippi anche nel Casco Viejo, a Panamá Viejo e sulla Avenida Central: dopo il tramonto usare taxi da app e non camminare da soli in strade poco illuminate.",
         "Prima di andare a Miraflores controllare gli orari dei transiti delle navi.",
-        "Taxi senza tassametro: concordare il prezzo prima di partire o usare Uber."
+        "I taxi sono spesso in cattive condizioni e senza tassametro: meglio le app o il trasporto organizzato dall'hotel."
       ],
     esperienzeSlugs: ['chiuse-miraflores'],
     tripSlugs: ['centro-america-itinerario'],
@@ -191,7 +191,7 @@ export const destinazioniPanama: Destinazione[] = [
           "come": "In barca dalle isole dove si dorme, in un giro di giornata.",
           "quando": "Mattina, con il mare calmo.",
           "tempo": "1-2 ore",
-          "consiglio": "Si fa snorkeling senza bombole: le immersioni con bombole sono vietate dalla comunità."
+          "consiglio": "Si fa snorkeling senza bombole: le immersioni con le bombole sono vietate a Guna Yala per proteggere la barriera."
         },
         {
           "nome": "Isla Aguja e Cayos Holandeses",
@@ -209,7 +209,7 @@ export const destinazioniPanama: Destinazione[] = [
         },
         {
           "nome": "Villaggi Guna e mole",
-          "testo": "I villaggi Guna, dove si acquistano le mole, tessuti tradizionali cuciti a mano. Guna Yala è un territorio autogovernato.",
+          "testo": "I villaggi Guna, dove si comprano le mole, i tessuti tradizionali cuciti a mano dalle donne. Guna Yala è una comarca autonoma, governata dal Congresso Generale Guna e dai sahila di ogni comunità.",
           "come": "Visita da una delle isole abitate, con il permesso dei residenti.",
           "quando": "Giorno.",
           "tempo": "1-2 ore",
@@ -220,7 +220,7 @@ export const destinazioniPanama: Destinazione[] = [
         {
           "titolo": "1 giorno",
           "tappe": [
-            "Partenza all'alba da Panama City in 4x4 per Cartí",
+            "Partenza prima dell'alba da Panama City in 4x4 per Cartí",
             "Barca verso le isole, snorkeling a Isla Perro",
             "Rientro verso sera, spesso troppo stretto per un solo giorno"
           ]
@@ -264,8 +264,8 @@ export const destinazioniPanama: Destinazione[] = [
         }
       ],
       "attenzioni": [
-        "La tassa d'ingresso a Guna Yala si paga ai Guna, solo in contanti: sulle isole non ci sono bancomat né carte.",
-        "Il viaggio da Panama City comincia verso le 5 e dura quasi tre ore di 4x4 su strada di montagna ripida: chi soffre l'auto prenda un rimedio.",
+        "Per entrare a Guna Yala si paga una tassa alla comarca, oltre al porto: portare contanti, perché sulle isole non ci sono bancomat.",
+        "Il viaggio da Panama City comincia prima dell'alba, con ore di 4x4 su una strada di montagna ripida: chi soffre l'auto prenda un rimedio.",
         "Regole della comunità: chiedere il permesso prima di fotografare persone e case, niente prelievi dalle isole, niente bombole."
       ],
     esperienzeSlugs: ['notte-isola-san-blas'],
@@ -323,7 +323,7 @@ export const destinazioniPanama: Destinazione[] = [
         },
         {
           "nome": "Cayo Zapatilla",
-          "testo": "Due isolotti disabitati nel parco marino di Bastimentos, con sabbia bianca e foresta. Spesso la tappa più bella dei tour in barca.",
+          "testo": "Gli isolotti disabitati di Cayos Zapatilla, dentro il parco nazionale marino di Isla Bastimentos (1988), con sabbia bianca e foresta. Spesso la tappa più bella dei tour in barca.",
           "come": "Con tour in barca da Bocas Town; ingresso al parco a parte.",
           "quando": "Mattina, con mare calmo.",
           "tempo": "Mezza giornata",
@@ -331,7 +331,7 @@ export const destinazioniPanama: Destinazione[] = [
         },
         {
           "nome": "Starfish Beach",
-          "testo": "La spiaggia delle stelle marine: si vedono in acqua alta poco più di un metro, e la promessa del nome è mantenuta.",
+          "testo": "La spiaggia delle stelle marine: si vedono in acqua bassa vicino alla riva, e la promessa del nome è mantenuta.",
           "come": "Tappa nei tour in barca o in taxi acqueo.",
           "quando": "Mattina.",
           "tempo": "45 minuti-1 ora",
@@ -339,7 +339,7 @@ export const destinazioniPanama: Destinazione[] = [
         },
         {
           "nome": "Cayo Coral e Isla Bastimentos",
-          "testo": "Snorkeling in acqua bassa a Cayo Coral; Bastimentos ha il parco nazionale marino e Red Frog Beach.",
+          "testo": "Snorkeling in acqua bassa a Cayo Coral. Isla Bastimentos ospita il parco nazionale marino e Red Frog Beach, raggiungibile con il water taxi.",
           "come": "Tour in barca da Bocas Town.",
           "quando": "Mattina.",
           "tempo": "Mezza giornata"
@@ -394,7 +394,7 @@ export const destinazioniPanama: Destinazione[] = [
       ],
       "attenzioni": [
         "Il microclima di Bocas segue le sue piogge, non la stagione secca del resto di Panama.",
-        "I chitre, moscerini che pungono senza farsi sentire e lasciano segni per giorni, infestano le sabbie: repellente.",
+        "Le chitras, moscerini che pungono senza farsi sentire e lasciano segni per giorni, infestano le spiagge: repellente.",
         "Le uscite verso i cayos più esterni saltano col mare mosso."
       ],
     esperienzeSlugs: [],
@@ -444,18 +444,18 @@ export const destinazioniPanama: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Vulcano Barú",
-          "testo": "La vetta più alta di Panama (3.475 m), da cui con cielo limpido si vedono Pacifico e Atlantico insieme. Salita notturna per l'alba.",
-          "come": "Partenza verso mezzanotte con pick-up e 4x4 su 13 km di pista sterrata, o a piedi con guida.",
+          "testo": "La vetta più alta di Panama (3.475 m), da cui con cielo limpido si vedono Pacifico e Caraibi insieme, cosa che succede di rado. Salita notturna per l'alba.",
+          "come": "Partenza verso mezzanotte, a piedi con guida su un sentiero lungo e ripido, oppure con i tour in 4x4 fino in cima.",
           "quando": "Alba, con cielo del tutto limpido, cioè in pochi giorni buoni anche in stagione secca.",
           "tempo": "Notte-mattina",
           "consiglio": "Senza vista sui due oceani, la salita notturna con le valli illuminate sotto vale comunque la fatica. Portare strati caldi."
         },
         {
           "nome": "Sendero Los Quetzales",
-          "testo": "Uno dei posti migliori al mondo per avvistare il quetzal, nella foresta nebulosa fra Boquete e Cerro Punta.",
+          "testo": "Il sentiero più frequentato del parco del Barú, nella foresta nebulosa fra Boquete e Cerro Punta, sul fianco del vulcano. È tra i posti più noti di Panama per cercare il quetzal.",
           "come": "Sentiero di alcune ore, con guida o in autonomia.",
-          "quando": "Mattina presto; il periodo migliore per il quetzal è la stagione di nidificazione, circa aprile-giugno. Il sentiero chiude a volte per maltempo o alberi caduti (riaperto a novembre 2025): verificare con MiAmbiente.",
-          "tempo": "4-5 ore",
+          "quando": "Mattina presto, quando gli uccelli sono più attivi. Il sentiero chiude a volte per maltempo o alberi caduti (riaperto a novembre 2025): verificare con MiAmbiente.",
+          "tempo": "Circa 6 ore",
           "url": "https://miambiente.gob.pa/"
         },
         {
@@ -468,7 +468,7 @@ export const destinazioniPanama: Destinazione[] = [
         },
         {
           "nome": "Cascate e Caldera Hot Springs",
-          "testo": "Lost Waterfalls, un percorso di tre cascate, e le sorgenti calde naturali di Caldera.",
+          "testo": "Il sentiero delle Lost Waterfalls, con più cascate nella foresta, e le sorgenti calde naturali di Caldera, più in basso.",
           "come": "Auto o taxi da Boquete.",
           "quando": "Giorno.",
           "tempo": "Mezza giornata"
@@ -529,7 +529,7 @@ export const destinazioniPanama: Destinazione[] = [
         }
       ],
       "attenzioni": [
-        "Il Barú si sale di notte: strati caldi, torcia e guida; il freddo aumenta con la quota.",
+        "Il Barú si sale di notte: strati caldi, torcia e guida. I sentieri di montagna di Panama sono segnalati male, il telefono spesso non prende e ci sono stati escursionisti dispersi: mai da soli.",
         "La vista sui due oceani dalla vetta si ha solo con cielo del tutto limpido, in pochi giorni buoni.",
         "Pioggia e nebbia possono cambiare i piani: tenere un giorno di margine."
       ],

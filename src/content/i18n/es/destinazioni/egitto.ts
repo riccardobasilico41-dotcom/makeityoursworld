@@ -45,19 +45,19 @@ export const destinazioniEgitto: Destinazione[] = [
     luoghi: [
       {
         "nome": "Gran Museo Egipcio (GEM)",
-        "testo": "El museo nuevo cerca de las pirámides, con la escalinata monumental y las galerías dedicadas a Tutankamón, cuyos objetos se reúnen por primera vez en un solo lugar. Es el museo que hay que ver primero.",
-        "come": "Está en Giza, a 30-60 minutos del centro en Uber o taxi. La entrada se compra solo en línea, en la web oficial, con fecha y franja horaria.",
-        "quando": "Galerías abiertas de 9 a 18; miércoles y sábado hasta las 21 (2026). Mejor a la apertura.",
+        "testo": "El museo nuevo junto a las pirámides, con la escalinata monumental y las galerías dedicadas a Tutankamón. Es el museo que hay que ver primero.",
+        "come": "Está en Guiza, se llega desde el centro en Uber o taxi. La entrada tiene fecha y hora de acceso; la única web oficial de venta online es tickets.gem.eg, pero también hay taquillas en el lugar.",
+        "quando": "Galerías abiertas de 9 a 18; miércoles y sábado hasta las 21; última entrada una hora antes del cierre de las galerías (2026). Mejor a la apertura.",
         "tempo": "3-4 horas",
         "url": "https://tickets.gem.eg/",
-        "consiglio": "Reservar la franja horaria antes de partir y combinarlo con las pirámides, a pocos kilómetros.",
+        "consiglio": "Reservar la hora de entrada antes de salir, solo en la web oficial, y combinarlo con las pirámides, a pocos kilómetros.",
         "costo": "Los precios para extranjeros subieron el 1 de noviembre de 2026: consultarlos en la web oficial al reservar."
       },
       {
         "nome": "Museo Egipcio de la plaza Tahrir",
-        "testo": "El museo histórico de 1902, con miles de piezas en salas llenas y de estilo algo antiguo. Sigue lleno de objetos extraordinarios incluso tras el traslado de las piezas de Tutankamón.",
+        "testo": "El museo histórico inaugurado en 1902, con miles de piezas en salas llenas y algo anticuadas. Sigue lleno de objetos extraordinarios incluso después del traslado de las piezas de Tutankamón.",
         "come": "Metro hasta Sadat, y a pie desde la plaza. Audioguía o guía en el lugar.",
-        "quando": "Abierto todos los días de 9 a 17, taquilla hasta las 16. Mejor a primera hora, antes de los grupos.",
+        "quando": "Abierto todos los días de 9 a 17, taquilla hasta las 16; en Ramadán de 9 a 16 (2026). Mejor a primera hora, antes de los grupos.",
         "tempo": "2 horas",
         "url": "https://egymonuments.gov.eg/en/museums/egyptian-museum/",
         "consiglio": "Elegir pocas salas y verlas bien, en vez de correr por todo el museo.",
@@ -65,17 +65,17 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Ciudadela de Saladino y mezquita de Muhammad Ali",
-        "testo": "La fortaleza del siglo XII en la colina que domina la ciudad, con la mezquita de estilo otomano y cúpulas de alabastro. Desde el borde la vista llega hasta las pirámides en los días claros.",
+        "testo": "La fortaleza ordenada por Saladino en 1176 y terminada en 1207, en la colina que domina la ciudad, con la mezquita otomana de Muhammad Ali. Desde el borde, en días despejados, la vista llega hasta las pirámides.",
         "come": "Taxi o Uber hasta la entrada. Se camina dentro de la ciudadela, con calzado cómodo.",
-        "quando": "Abierta todos los días de 8 a 17. La tarde tiene la mejor luz y el cielo menos brumoso.",
+        "quando": "Abierta todos los días de 8 a 17 (2026). Por la tarde hay mejor luz.",
         "tempo": "2 horas",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/cairo-citadel/",
         "costo": "550 EGP adultos extranjeros, 275 estudiantes (2026)"
       },
       {
         "nome": "El Cairo islámico y la calle al-Muizz",
-        "testo": "La calle peatonal con monumentos de los siglos XII-XVIII: mezquitas, madrasas, puertas y mausoleos. Un museo al aire libre, vivo de noche cuando las fachadas están iluminadas.",
-        "come": "Se llega desde la zona de Khan el-Khalili. Se camina de norte a sur en 1-2 horas.",
+        "testo": "La calle peatonal con monumentos desde la época fatimí hasta la otomana: mezquitas, madrazas, puertas y mausoleos. Un museo al aire libre, animado por la noche cuando las fachadas se iluminan.",
+        "come": "Se llega desde la zona de Khan el-Khalili. Se recorre de norte a sur.",
         "quando": "Desde última hora de la tarde hasta la noche.",
         "tempo": "2-3 horas",
         "consiglio": "Subir a un minarete, donde se permite, da la mejor vista de la ciudad vieja."
@@ -84,9 +84,9 @@ export const destinazioniEgitto: Destinazione[] = [
         "nome": "Khan el-Khalili",
         "testo": "El gran bazar de El Cairo, con callejones de plata, lámparas, especias, telas. Es turístico, pero de noche se llena también de cairotas.",
         "come": "Taxi hasta la entrada, luego a pie. El café El Fishawy es la parada clásica.",
-        "quando": "Noche, después de las 18.",
+        "quando": "Por la noche.",
         "tempo": "2 horas",
-        "consiglio": "Regatear siempre, partiendo de un tercio del precio dicho."
+        "consiglio": "Regatear siempre, empezando muy por debajo del precio que te dicen."
       }
     ],
     programmi: [
@@ -145,8 +145,9 @@ export const destinazioniEgitto: Destinazione[] = [
     attenzioni: [
       "El guía gratuito que se ofrece en la calle, o la tienda de papiros o perfumes de un hermano, es un gancho para llevarlo a un comercio: rechazar con calma.",
       "Taxis sin taxímetro: acordar el precio o usar Uber y Careem.",
-      "En los bazares el precio dicho es el doble o más: regatear y no comprar nada bajo presión.",
-      "El tráfico es pesado: calcular mucho más tiempo del previsto entre una parada y otra."
+      "En los bazares el primer precio es alto: regatear y no comprar nada bajo presión.",
+      "El tráfico es pesado: calcular mucho más tiempo del previsto entre una parada y otra.",
+      "Tensiones en la región: el gobierno británico (octubre de 2026) avisa del riesgo de escalada, posibles cancelaciones de vuelos y cierres repentinos del paso de Taba; desaconseja viajar al Sinaí del Norte y a la frontera libia. Consultar las recomendaciones oficiales de viaje antes de salir."
     ],
     // GUIDA-END
     esperienzeSlugs: [],
@@ -193,33 +194,33 @@ export const destinazioniEgitto: Destinazione[] = [
     luoghi: [
       {
         "nome": "Pirámides y Esfinge de Guiza",
-        "testo": "La Gran Pirámide de Keops, las de Kefrén y Micerino y la Esfinge: el conjunto más famoso de Egipto, en la meseta al suroeste de El Cairo. Se puede entrar en la Gran Pirámide con una entrada aparte.",
-        "come": "Desde Guiza o El Cairo en Uber o con conductor; se recorre a pie, en lanzadera eléctrica o a caballo.",
-        "quando": "Abierto todos los días de 8 a 16. A la apertura la luz es mejor y hay menos grupos.",
+        "testo": "La Gran Pirámide de Keops, las de Kefrén y Micerino y la Esfinge: el conjunto más famoso de Egipto, en la meseta al suroeste de El Cairo. El interior de las pirámides requiere entradas aparte.",
+        "come": "Desde Guiza o El Cairo en Uber o con conductor; se recorre a pie, en lanzadera o a caballo.",
+        "quando": "Abierto todos los días de 8 a 16 (2026). A la apertura hay mejor luz y menos grupos.",
         "tempo": "3-4 horas",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/giza-plateau/",
         "consiglio": "El mirador detrás de Micerino muestra las tres pirámides juntas, sin multitud.",
-        "costo": "700 EGP adultos extranjeros, 350 estudiantes (2026). El interior de las pirámides se paga aparte: la Gran Pirámide cuesta 1.500 EGP desde 2025."
+        "costo": "700 EGP adultos extranjeros, 350 estudiantes (2026). Gran Pirámide, pirámides de Kefrén y Micerino, tumba de Meresankh III y cementerio de los obreros aparte: precios en taquilla."
       },
       {
         "nome": "Saqqara",
-        "testo": "La pirámide escalonada de Djoser, la construcción de piedra grande más antigua, y las mastabas pintadas de Ti y Mereruka con relieves muy hermosos.",
+        "testo": "La pirámide escalonada de Zoser, considerada la primera gran construcción de piedra tallada, y las mastabas pintadas de Ti y Mereruka con relieves muy bellos.",
         "come": "En coche con conductor, 45-60 minutos desde Guiza.",
-        "quando": "Abierto todos los días de 8 a 16. Mejor por la mañana.",
+        "quando": "Abierto todos los días de 8 a 16 (2026). Mejor por la mañana.",
         "tempo": "2-3 horas",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/saqqara/",
         "consiglio": "Las tumbas pintadas valen más que la propia pirámide y tienen poquísima gente.",
-        "costo": "600 EGP el recinto para adultos extranjeros; entrada combinada con tumbas de nobles, Mereruka y museo Imhotep 1.400 EGP (2026)"
+        "costo": "600 EGP el área para adultos extranjeros; entrada conjunta con museo de Imhotep, tumbas de los nobles y del Imperio Nuevo, Mereruka y Mehu 1.400 EGP (2026)"
       },
       {
         "nome": "Dahshur",
-        "testo": "La Pirámide Roja y la Pirámide Romboidal, de Esnefru: los primeros intentos de una verdadera pirámide lisa. Poca gente, y en la Pirámide Roja se baja.",
+        "testo": "La pirámide Roja y la pirámide Acodada, de Seneferu: los intentos que llevaron a la verdadera pirámide lisa. Muy poca gente.",
         "come": "En coche con conductor, cerca de Saqqara.",
-        "quando": "Abierto todos los días de 8 a 17. Mejor por la mañana, con menos calor.",
+        "quando": "Abierto todos los días de 8 a 17 (2026). Mejor por la mañana, con menos calor.",
         "tempo": "1-2 horas",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/dahshur/",
         "consiglio": "Un excelente complemento de Saqqara para quien tiene un día entero con conductor.",
-        "costo": "200 EGP adultos extranjeros (2026)"
+        "costo": "200 EGP adultos extranjeros, 100 estudiantes (2026)"
       }
     ],
     programmi: [
@@ -249,7 +250,7 @@ export const destinazioniEgitto: Destinazione[] = [
       {
         "nome": "El Cairo",
         "perChi": "quien quiere otros barrios al alcance",
-        "testo": "El día se hace en Uber o con conductor: más oferta de locales, pero 30-60 minutos de carretera."
+        "testo": "Se hace el día en Uber o con conductor: más oferta de locales, pero mucho trayecto con tráfico."
       }
     ],
     sapori: [
@@ -326,9 +327,9 @@ export const destinazioniEgitto: Destinazione[] = [
     luoghi: [
       {
         "nome": "Templo de Karnak",
-        "testo": "El mayor complejo religioso del antiguo Egipto, construido a lo largo de más de 1.500 años. La sala hipóstila tiene 134 columnas de hasta 21 metros, cubiertas de jeroglíficos.",
+        "testo": "Uno de los mayores complejos religiosos del antiguo Egipto, construido durante casi dos mil años por una treintena de faraones. La sala hipóstila tiene 134 columnas: las doce centrales miden 21 metros.",
         "come": "Desde la ciudad en taxi o calesa. Se camina por el sitio, y por la avenida de las esfinges desde el templo de Luxor si se quiere el recorrido completo.",
-        "quando": "Abierto todos los días de 6 a 17. Llegar a la apertura: en verano es el único momento soportable.",
+        "quando": "Abierto todos los días de 6 a 17 (2026). Llegar a la apertura: en verano es el único momento soportable.",
         "tempo": "2-3 horas",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/karnak/",
         "consiglio": "Volver por la noche para el espectáculo de luz y sonido, si está programado.",
@@ -336,29 +337,31 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Templo de Luxor",
-        "testo": "Un templo más pequeño, en medio de la ciudad, con estatuas de Ramsés II y un obelisco. De noche, iluminado, es hermosísimo.",
+        "testo": "Un templo más pequeño, en medio de la ciudad, con las estatuas colosales de Ramsés II y uno de los dos obeliscos de 25 metros: el otro está en París, en la plaza de la Concordia, desde 1836. Por la noche, iluminado, es precioso.",
         "come": "A pie desde el paseo del río en la orilla este.",
-        "quando": "Atardecer y noche.",
+        "quando": "Abierto todos los días de 6 a 20 (2026). Atardecer y noche.",
         "tempo": "1 hora",
-        "costo": "500 EGP adultos extranjeros (2026)"
+        "costo": "500 EGP adultos extranjeros, 250 estudiantes (2026)",
+        "url": "https://egymonuments.gov.eg/en/monuments/luxor-temple/"
       },
       {
         "nome": "Valle de los Reyes",
-        "testo": "Las tumbas de los faraones del Imperio Nuevo excavadas en la roca, con paredes pintadas aún coloridas. La entrada básica da acceso a tres tumbas, mientras que Tutankamón y otras se pagan aparte.",
+        "testo": "Más de sesenta tumbas excavadas en la roca, casi todas de faraones del Imperio Nuevo, con paredes pintadas aún coloridas. La entrada básica cubre un número limitado de tumbas; Tutankamón y otras se pagan aparte.",
         "come": "En la orilla oeste, en taxi o en tour. Se visita a pie, tumba por tumba.",
-        "quando": "Abierto todos los días de 6 a 17. Llegar a la apertura: a mediodía hace mucho calor, ya en primavera.",
+        "quando": "Abierto todos los días de 6 a 17 (2026). Llegar a la apertura: a mediodía hace mucho calor, ya en primavera.",
         "tempo": "2-3 horas",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/valley-of-the-kings/",
-        "consiglio": "Elegir tumbas con decoración bien conservada, como Ramsés IV o Merenptah, y no solo la más famosa.",
-        "costo": "750 EGP adultos extranjeros, 375 estudiantes, con tres tumbas; Tutankamón y otras tumbas aparte (2026)"
+        "consiglio": "Preguntar en taquilla qué tumbas están abiertas ese día y elegir las de decoración mejor conservada, no solo la más famosa.",
+        "costo": "750 EGP adultos extranjeros, 375 estudiantes; Tutankamón y otras tumbas aparte (2026)"
       },
       {
         "nome": "Templo de Hatshepsut",
         "testo": "El templo funerario de la reina-faraón en Deir el-Bahari, en terrazas bajo la pared de roca. La arquitectura parece muy moderna.",
-        "come": "En la orilla oeste, junto al Valle de los Reyes, con lanzadera desde el aparcamiento.",
-        "quando": "A primera hora.",
+        "come": "En la orilla oeste, cerca del Valle de los Reyes.",
+        "quando": "Abierto todos los días de 6 a 17 (2026). A primera hora.",
         "tempo": "1 hora",
-        "costo": "440 EGP adultos extranjeros (2026)"
+        "costo": "440 EGP adultos extranjeros, 220 estudiantes (2026)",
+        "url": "https://egymonuments.gov.eg/en/monuments/hatshepsut-temple/"
       },
       {
         "nome": "Medinet Habu y Colosos de Memnón",
@@ -367,7 +370,7 @@ export const destinazioniEgitto: Destinazione[] = [
         "quando": "Media mañana o última hora de la tarde.",
         "tempo": "1-1,5 horas",
         "consiglio": "Medinet Habu es el templo más infravalorado de Luxor.",
-        "costo": "Medinet Habu 220 EGP adultos extranjeros (2026); los Colosos se ven desde la carretera"
+        "costo": "Medinet Habu: precio en taquilla; los Colosos se ven desde la carretera"
       }
     ],
     programmi: [
@@ -422,7 +425,7 @@ export const destinazioniEgitto: Destinazione[] = [
       "Las normas sobre fotos en las tumbas cambian a menudo: preguntar en taquilla, nunca flash. Los guardias que abren un rincón cerrado o te hacen posar luego piden propina.",
       "Globos: elegir la compañía y no el precio más bajo, y dejar margen porque los vuelos se cancelan con viento.",
       "Calesas y vendedores del paseo del río parten de cifras altas: regatear y decidir antes.",
-      "En verano las visitas se hacen del amanecer a las 11: después, 40 grados y más."
+      "En verano las visitas se hacen del amanecer a media mañana: después el calor es extremo."
     ],
     // GUIDA-END
     esperienzeSlugs: [],
@@ -470,22 +473,22 @@ export const destinazioniEgitto: Destinazione[] = [
     luoghi: [
       {
         "nome": "Abu Simbel",
-        "testo": "Los dos templos de Ramsés II y Nefertari excavados en la roca, con estatuas colosales en la entrada. Fueron trasladados en los años sesenta para salvarlos del lago Nasser. El 22 de febrero y el 22 de octubre el sol entra hasta el santuario.",
-        "come": "Desde Asuán 280 km: carretera de unas 3,5 horas en convoy con salida antes del amanecer, o vuelo de 45 minutos.",
-        "quando": "Abierto todos los días de 6 a 17. Llegar a la apertura, antes de los autobuses de grupos.",
+        "testo": "Los dos templos de Ramsés II y Nefertari excavados en la roca, con estatuas colosales a la entrada. Entre 1963 y 1968 se cortaron en bloques y se trasladaron para salvarlos del lago Nasser. El 22 de febrero y el 22 de octubre el sol llega hasta el santuario.",
+        "come": "Desde Asuán unos 300 km por carretera, saliendo antes del amanecer, o en avión.",
+        "quando": "Abierto todos los días de 6 a 17 (2026). Llegar a la apertura, antes de los autobuses de grupos.",
         "tempo": "1,5-2 horas en el lugar",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/abu-simbel/",
         "consiglio": "Quien pueda, que duerma en Abu Simbel para el espectáculo de luz y sonido y el amanecer.",
-        "costo": "750 EGP adultos extranjeros, 375 estudiantes; 1.200 EGP el 22 de febrero y el 22 de octubre (2026)"
+        "costo": "750 EGP adultos extranjeros, 375 estudiantes; 1.200 EGP (estudiantes 600) el 22 de febrero y el 22 de octubre (2026)"
       },
       {
         "nome": "Templo de Filé",
         "testo": "El santuario de Isis en una isla, trasladado también tras la presa. Se llega en barca desde el embarcadero de Shellal y es muy fotogénico.",
         "come": "Taxi hasta el embarcadero, luego lancha, con el precio por acordar.",
-        "quando": "Abierto todos los días de 7 a 16. Primera hora o primera tarde por la luz.",
+        "quando": "Abierto todos los días de 7 a 16 (2026). A primera hora por la luz.",
         "tempo": "1,5 horas",
         "url": "https://egymonuments.gov.eg/en/archaeological-sites/philae/",
-        "costo": "550 EGP adultos extranjeros, más la barca desde el muelle, a negociar (2026)"
+        "costo": "550 EGP adultos extranjeros, 275 estudiantes, más la barca desde el muelle, a acordar (2026)"
       },
       {
         "nome": "Aldea nubia de Gharb Soheil",
@@ -522,7 +525,7 @@ export const destinazioniEgitto: Destinazione[] = [
       {
         "nome": "Abu Simbel",
         "perChi": "quien quiere el amanecer en los templos",
-        "testo": "Pocos hoteles y un solo pueblo: útil para evitar el despertador a las 3."
+        "testo": "Pocos hoteles y un solo pueblo: útil para evitar el madrugón nocturno."
       }
     ],
     sapori: [
@@ -532,7 +535,7 @@ export const destinazioniEgitto: Destinazione[] = [
       },
       {
         "nome": "Karkadé",
-        "testo": "Infusión de hibisco, especialidad de Asuán."
+        "testo": "Infusión de hibisco, muy común en Asuán."
       },
       {
         "nome": "Ful y taameya",
@@ -544,9 +547,9 @@ export const destinazioniEgitto: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Abu Simbel en un día de verano significa despertador a las 3-4 y unas siete horas de carretera: tenerlo en cuenta.",
+      "Abu Simbel en el día supone madrugar muchísimo y muchas horas de carretera: tenerlo en cuenta.",
       "Precio de la falúa y de la barca a Filé: acordar antes, por barca o por persona.",
-      "En verano Asuán es el lugar más caluroso del país: visitar al amanecer.",
+      "En verano Asuán es de los lugares más calurosos del país: visitas al amanecer.",
       "Vendedores muy insistentes en el paseo del río: un no firme basta."
     ],
     // GUIDA-END
@@ -595,21 +598,21 @@ export const destinazioniEgitto: Destinazione[] = [
     luoghi: [
       {
         "nome": "Fortaleza de Shali",
-        "testo": "La antigua ciudadela de kershef, una mezcla de barro y sal, hoy en gran parte en ruinas tras las lluvias de 1926. Desde la cima se ve todo el oasis.",
+        "testo": "La vieja ciudadela de barro y sal, dañada por tres días de lluvia en 1926 y luego abandonada por sus habitantes. Desde arriba se ve todo el oasis.",
         "come": "A pie desde el centro de Siwa.",
         "quando": "Atardecer.",
         "tempo": "1 hora"
       },
       {
         "nome": "Templo del Oráculo de Amón",
-        "testo": "Las ruinas en la colina de Aghurmi donde Alejandro Magno vino a consultar el oráculo en el 331 a. C.",
+        "testo": "Las ruinas en la colina de Aghurmi donde, según la tradición, Alejandro Magno vino a consultar el oráculo, que lo reconoció como hijo del dios y faraón.",
         "come": "En bici o taxi desde el centro.",
         "quando": "Mañana o última hora de la tarde.",
         "tempo": "1 hora"
       },
       {
         "nome": "Desierto, lagos salados y fuente de Cleopatra",
-        "testo": "Excursión en todoterreno por el Gran Mar de Arena con sandboard, atardecer en las dunas y baño en los lagos salados y en los manantiales, donde se flota.",
+        "testo": "Excursión en todoterreno hacia el Gran Mar de Arena con sandboard, atardecer en las dunas y baño en los manantiales, como el llamado de Cleopatra, y en los lagos salados.",
         "come": "Solo con un operador local, que tiene el permiso para el desierto.",
         "quando": "Tarde, con regreso al atardecer.",
         "tempo": "Medio día",
@@ -660,7 +663,8 @@ export const destinazioniEgitto: Destinazione[] = [
       "El desierto hacia Libia lo controla el ejército: ir solo con operadores que tengan permisos.",
       "Siwa es una comunidad conservadora: cubrir hombros y rodillas, y bañarse vestido en los manantiales.",
       "Tener el pasaporte a mano en los controles.",
-      "Las noches de invierno en el desierto bajan cerca de 0 °C."
+      "Las noches de invierno en el desierto son frías: llevar ropa de abrigo.",
+      "Carreteras: el gobierno británico (octubre de 2026) deja Siwa y la carretera desde Marsa Matruh fuera de las zonas desaconsejadas, pero desaconseja los viajes no esenciales por la carretera entre Bahariya y Siwa."
     ],
     // GUIDA-END
     esperienzeSlugs: [],
@@ -709,23 +713,23 @@ export const destinazioniEgitto: Destinazione[] = [
     luoghi: [
       {
         "nome": "Hurghada y las islas Giftun",
-        "testo": "El mayor polo turístico, con barcos de snorkel a las islas Giftun y a Orange Bay, y excursiones de un día al pecio del Thistlegorm.",
+        "testo": "El mayor polo turístico, con barcos de snorkel a las islas Giftun y a Orange Bay.",
         "come": "Excursiones que se reservan con un operador local desde el propio hotel.",
-        "quando": "Todo el año, con agua más fría de diciembre a marzo.",
+        "quando": "Todo el año, con el agua más fresca en invierno.",
         "tempo": "Un día"
       },
       {
-        "nome": "Marsa Alam, Abu Dabbab y Dolphin House",
-        "testo": "Más al sur y más tranquila: la bahía de Abu Dabbab con tortugas y, con suerte, el dugongo, y el arrecife de Dolphin House.",
-        "come": "En coche desde Luxor en unas 4 horas, o con vuelos directos.",
-        "quando": "A primera hora, cuando los delfines descansan.",
+        "nome": "Marsa Alam y Abu Dabbab",
+        "testo": "Más al sur y más tranquila: la bahía de Abu Dabbab con tortugas y delfines, y algo más al sur el parque nacional de Wadi el-Gemal, donde viven también dugongos y tortugas verdes. El aeropuerto recibe vuelos turísticos también desde Italia.",
+        "come": "En coche desde Luxor o con vuelos directos.",
+        "quando": "A primera hora, con menos barcos.",
         "tempo": "Un día",
         "consiglio": "La mejor opción para un snorkel de calidad."
       },
       {
         "nome": "Sharm el-Sheikh y Ras Mohammed",
-        "testo": "Buceo y snorkel en el parque nacional de Ras Mohammed y en el estrecho de Tirán, con algunos de los mejores arrecifes del Mar Rojo.",
-        "come": "Vuelos directos desde Italia y desde El Cairo.",
+        "testo": "Buceo y snorkel en el parque nacional de Ras Mohammed, con el pecio del Thistlegorm cerca, y en el estrecho de Tirán, con algunos de los arrecifes más bonitos del mar Rojo.",
+        "come": "Vuelos directos desde Europa y El Cairo.",
         "quando": "Todo el año.",
         "tempo": "Un día"
       }
@@ -776,10 +780,11 @@ export const destinazioniEgitto: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "No tocar ni pisar el coral y no comprar conchas ni corales: la exportación se confisca en el aeropuerto.",
+      "No tocar ni pisar el coral y no llevarse conchas ni corales.",
       "Del Sinaí a Luxor casi siempre hace falta un vuelo vía El Cairo: no contar con la carretera.",
-      "Los barcos de buceo con alojamiento (liveaboard) del sur piden título Advanced y un cierto número de inmersiones.",
-      "De diciembre a marzo el agua está a unos 22 °C y el viento es fuerte: hace falta un traje de 5 mm."
+      "Para los cruceros de buceo preguntar al operador qué titulación y experiencia piden.",
+      "En invierno el agua está más fresca y suele haber viento: hace falta un neopreno más grueso.",
+      "Sinaí: el gobierno británico (octubre de 2026) desaconseja cualquier viaje al Sinaí del Norte y los no esenciales al interior del Sinaí del Sur más allá de la carretera Santa Catalina-Nuweiba; las costas, incluida Sharm el-Sheij, quedan fuera."
     ],
     // GUIDA-END
     esperienzeSlugs: [],

@@ -48,7 +48,7 @@ export const destinazioniNorvegia: Destinazione[] = [
     luoghi: [
       {
         nome: "Vigeland Park (Frognerparken)",
-        testo: "The largest sculpture park by a single artist: over 200 figures in bronze, granite and iron by Gustav Vigeland, including the 14 metre Monolith with 121 intertwined bodies. It is the most visited place in Norway.",
+        testo: "The largest sculpture park by a single artist: 212 sculptures in bronze and granite by Gustav Vigeland, including the 14 metre Monolith with 121 intertwined bodies. Frogner Park is Norway's most visited tourist attraction.",
         come: "Metro or tram to Majorstuen/Vigelandsparken, then 10 minutes on foot. You walk an axis of about 850 metres from the gate to the monolith.",
         quando: "Always open, free entry. Early morning or summer evening for the sculptures without crowds.",
         tempo: "1.5-2 hours",
@@ -70,7 +70,7 @@ export const destinazioniNorvegia: Destinazione[] = [
         nome: "Akershus Fortress",
         testo: "A medieval fortress from the 1300s on the harbour, later a Renaissance castle. The park is free and the walls give a nice view over Oslo's harbour; inside are the military museum and the Resistance museum.",
         come: "On foot from the centre in 10-15 minutes; free entry to the grounds.",
-        quando: "Daytime; the changing of the guard in the outer square is a free attraction.",
+        quando: "Daytime; the fortress is guarded by the King's Guard. Inside are also the Armed Forces Museum and the Resistance Museum.",
         tempo: "1.5 hours",
         costo: "grounds free; museums and castle with separate ticket",
         consiglio: "Climb the walls at sunset: the light on the fjord is the best."
@@ -98,7 +98,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       {
         nome: "Holmenkollen",
         testo: "Oslo's ski jump, with a ski museum and simulator, above the city. The view over the fjord and the forest is the reason to go up.",
-        come: "Metro line 1 to Holmenkollen, about 30 minutes from the centre. The path to the jump is on foot.",
+        come: "Metro line 1 to Holmenkollen. The path to the jump is on foot.",
         quando: "Daytime, in clear weather; in winter there is often snow.",
         tempo: "2 hours",
         url: "https://www.holmenkollen.com",
@@ -180,7 +180,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Strong alcohol is sold only at Vinmonopolet; supermarkets sell beer up to 4.7% and only in limited hours (closed on Sundays).",
+      "Strong alcohol is sold only at Vinmonopolet; supermarkets sell beer until 20:00 on weekdays and until 18:00 on Saturdays.",
       "Pickpockets around the station and Karl Johans gate: keep bag and phone in front.",
       "Electric scooters and bikes speed on the bike lanes: look before crossing.",
       "The metro uses tickets from the Ruter app: buy before boarding, inspections do happen."
@@ -218,7 +218,7 @@ export const destinazioniNorvegia: Destinazione[] = [
     luoghi: [
       {
         nome: "Nyholms Fort",
-        testo: "An eighteenth-century fort on the tip of Bodø harbour, now with a view of the harbour and the islands. You reach it in 10 minutes on foot from the port.",
+        testo: "An old fort on the tip of Bodø harbour, now with a view of the harbour and the islands. You reach it in 10 minutes on foot from the port.",
         come: "On foot from the harbour.",
         quando: "Late afternoon, with light on the islands.",
         tempo: "1 hour",
@@ -227,7 +227,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Mjelle beach",
-        testo: "A long pale sand beach north of the centre, among dunes and sea. In summer you can walk in the evening too with the long light.",
+        testo: "A long sandy beach north of the centre, among dunes and sea. In summer you can walk in the evening too with the long light.",
         come: "By car or local bus from Bodø.",
         quando: "Summer, evening.",
         tempo: "1-2 hours",
@@ -236,8 +236,8 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Saltstraumen",
-        testo: "One of the straits with the strongest tidal current in the world, about 30 km from Bodø: the water passes at over 30 km/h forming whirlpools. I did not visit it, but it is the classic outing from Bodø.",
-        come: "By car or bus from Bodø, about 40 minutes.",
+        testo: "One of the strongest tidal currents in the world, south-east of Bodø: each tide cycle pushes up to 400 million cubic metres of water through, forming whirlpools. I did not visit it, but it is the classic outing from Bodø.",
+        come: "By car or bus from Bodø.",
         quando: "Check the tide tables: the current is strongest at mid-tide, roughly every six hours.",
         tempo: "2-3 hours",
         consiglio: "Watch from the bridge; no swimming."
@@ -297,7 +297,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Trollfjord",
-        testo: "A narrow fjord about 2 km long, with steep walls and sea eagles. In summer the RIB (fast inflatable boat) ride is the most common way to enter.",
+        testo: "A narrow fjord about 2 km long, with steep walls and a mouth only about a hundred metres wide. In summer the RIB (fast inflatable boat) ride is the most common way to enter.",
         come: "Excursion booked with an operator from Svolvær, 2-3 hours.",
         quando: "Summer, in clear weather.",
         tempo: "2-3 hours",
@@ -305,7 +305,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Svolværgeita",
-        testo: "A two-horned rock above the town, a classic challenge for climbers who jump from one horn to the other. A steep trail takes about an hour and a half to climb.",
+        testo: "A two-horned rock, Storhorn and Lillehorn, above the town: climbers leap the gap of about one and a half metres between them, with the cemetery 300 metres below. A steep trail leads to the base.",
         come: "Trail from the town, well marked but steep.",
         quando: "A day free of clouds.",
         tempo: "3-4 hours",
@@ -313,7 +313,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Kabelvåg and Lofotr",
-        testo: "Just outside Svolvær, the Lofoten Museum in Kabelvåg's old harbour tells the story of fishing; at Borg the Lofotr Viking Museum has a reconstruction of a Viking chieftain's house.",
+        testo: "Just outside Svolvær, the Lofoten Museum in Kabelvåg's old harbour tells the story of fishing; at Borg the Lofotr Viking Museum has a reconstruction of a Viking chieftain's house, open from 1 May to 15 September.",
         come: "By car, about 10 minutes to Kabelvåg and 55 to Borg.",
         quando: "Full day.",
         tempo: "2-3 hours",
@@ -449,11 +449,11 @@ export const destinazioniNorvegia: Destinazione[] = [
     luoghi: [
       {
         nome: "Reinebringen",
-        testo: "The most famous climb in the Lofoten: about 450 metres of ascent on a stone staircase built by Nepalese sherpas. From the top you see Reine with the fjords and mountains around.",
+        testo: "The most famous climb in the Lofoten: a 448-metre summit reached by a stone staircase built between 2016 and 2019. From the top you see Reine with the fjords and mountains around.",
         come: "Parking in the village, well-marked trail; steep but short ascent.",
         quando: "In clear weather and no rain, to avoid slippery steps. Early morning or evening.",
         tempo: "about 1h50 including ascent, rest and descent",
-        costo: "parking 200 NOK for 3 hours (trip 2025, to be rechecked)",
+        costo: "paid parking in the village",
         consiglio: "Check the forecast first: with clouds you see nothing from the top."
       },
       {
@@ -467,7 +467,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Bunes beach",
-        testo: "A white sand beach reachable only by ferry from Reine, with a walk of about half an hour over the mountains. It is one of the most beautiful and least accessible places in the archipelago.",
+        testo: "A white sand beach reachable only by ferry from Reine, with a walk from the landing. It is one of the most beautiful and least accessible places in the archipelago.",
         come: "Seasonal ferry from Reine, then a trail on foot.",
         quando: "Summer, after checking the ferry timetable in advance.",
         tempo: "half a day",
@@ -475,7 +475,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Lofotr Viking Museum at Borg",
-        testo: "The largest Viking house ever excavated, 83 metres long, rebuilt on site with boats, workshops and animals. It stands on the road between Svolvær and Reine.",
+        testo: "The largest Viking-age building ever found in Norway, 83 metres long, rebuilt full size with ships, a forge and re-enactments. Open from 1 May to 15 September. It stands on the road between Svolvær and Reine.",
         come: "By car, about 55 minutes from Svolvær; an ideal stop along the transfer.",
         quando: "Full day.",
         tempo: "2 hours",
@@ -540,7 +540,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Nusfjord",
-        testo: "One of the oldest fishing villages in Norway, protected and kept as a living museum, with red rorbuer and a small harbour.",
+        testo: "A well-preserved fishing village on the south coast of Flakstadøya, with red rorbuer and a small harbour.",
         come: "By car from Nesland, 10 minutes; entry to the village may be paid.",
         quando: "Morning or evening, avoiding the groups.",
         tempo: "1 hour",
@@ -548,8 +548,8 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Ramberg and the beaches of Flakstadøya",
-        testo: "Ramberg has a long pale sand beach, and a bit further on are Skagsanden and Haukland, among the most beautiful in the Lofoten. The water is cold but the colour is Caribbean.",
-        come: "By car, 10-20 minutes from Nesland.",
+        testo: "Ramberg has a long pale sand beach, a bit further on is Skagsanden and, on the neighbouring island of Vestvågøy, Haukland: among the most beautiful beaches in the Lofoten. The water is cold but the colour is Caribbean.",
+        come: "By car from Nesland; Haukland is further, towards Leknes.",
         quando: "Summer, with sun.",
         tempo: "1-2 hours",
         costo: "free entry",
@@ -605,7 +605,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Å historic bakery",
-        testo: "A bakery running since 1844, with cinnamon rolls and sweets made on site; few seats but excellent.",
+        testo: "A historic bakery, with cinnamon rolls and sweets made on site; few seats but excellent.",
         come: "On foot in the village.",
         quando: "Morning.",
         tempo: "30 minutes",
@@ -680,9 +680,9 @@ export const destinazioniNorvegia: Destinazione[] = [
     luoghi: [
       {
         nome: "Arctic Cathedral (Ishavskatedralen)",
-        testo: "A church from 1965 shaped like an iceberg, across the bridge from the centre. The glass mosaic covering the east facade is among the largest in Europe.",
-        come: "On foot across the bridge (about 25 minutes) or by bus 24 from the centre.",
-        quando: "Morning or afternoon; concerts are held in the evening.",
+        testo: "A 1965 church with a triangular outline, across the bridge from the centre. On the east side is the large glass mosaic 'The Return of Christ', added in 1972.",
+        come: "On foot across the bridge or by bus from the centre.",
+        quando: "Morning or afternoon; visiting hours and concerts on the website.",
         tempo: "45 minutes",
         url: "https://ishavskatedralen.no",
         consiglio: "If there is a midnight concert in summer, better to book."
@@ -699,7 +699,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Polaria",
-        testo: "The Arctic centre with aquariums of North Sea species, seal pools and a panoramic cinema on the polar climate.",
+        testo: "The Arctic centre with aquariums of local and Svalbard marine life, the bearded seal pool with an underwater walkway and a five-screen panoramic cinema.",
         come: "On foot from the centre, next to the harbour.",
         quando: "Daytime, especially if it rains.",
         tempo: "1.5 hours",
@@ -725,7 +725,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Aurora chase by minibus",
-        testo: "An evening outing with a guide out of town, away from the lights, to look for the aurora in clear skies. The most common tour lasts 5-6 hours.",
+        testo: "An evening outing with a guide out of town, away from the lights, to look for the aurora in clear skies. Tours usually last several hours.",
         come: "Booked with an operator, minibus departure from the centre.",
         quando: "Late September to late March, a night with few clouds.",
         tempo: "5-6 hours",
@@ -771,7 +771,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       {
         nome: "Centre (Storgata and harbour)",
         perChi: "Those without a car",
-        testo: "A few steps from shops, bars and the meeting point for most excursions. High-season doubles from 140-170 euros a night."
+        testo: "A few steps from shops, bars and the meeting point for most excursions. In high season prices are high: book early."
       },
       {
         nome: "Tromsdalen",

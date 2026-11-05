@@ -83,40 +83,40 @@ export const destinazioniLituania: Destinazione[] = [
     luoghi: [
       {
         nome: "Cattedrale di Vilnius e Piazza della Cattedrale",
-        testo: "Cattedrale neoclassica con il campanile separato a torre e le cripte reali dei granduchi di Lituania. La piazza è il luogo d'incontro della città, ai piedi della collina di Gediminas.",
+        testo: "Cattedrale dall'aspetto neoclassico, frutto della ricostruzione di Laurynas Gucevičius a fine Settecento, con il campanile isolato di 57 metri, nato da una torre del Castello Inferiore. Nelle cripte e nel mausoleo reale riposano granduchi e regine. La piazza è il luogo d'incontro della città, ai piedi della collina di Gediminas.",
         come: "A piedi dalla Città Vecchia (10 minuti).",
         quando: "Mattina, per la luce e meno folla.",
         tempo: "45 minuti",
         costo: "ingresso libero",
-        consiglio: "Fermarsi sulla pietra «Stebuklas», dove i vilnesi esprimono un desiderio."
+        consiglio: "Dentro, non perdere la cappella barocca di San Casimiro."
       },
       {
         nome: "Colle e Torre di Gediminas",
-        testo: "Il simbolo della città, con i resti del Castello Superiore e la torre che ospita il museo. Si sale a piedi o in funicolare; dall'alto si vede la Città Vecchia.",
-        come: "A piedi dalla Piazza della Cattedrale; funicolare a pagamento.",
+        testo: "Il simbolo della città: la torre, ricostruita nel 1933, è ciò che resta del Castello Superiore e ospita reperti del colle e plastici dei castelli di Vilnius. Si sale a piedi o con l'ascensore inclinato; dalla piattaforma si vede la Città Vecchia.",
+        come: "A piedi dalla Piazza della Cattedrale, o con l'ascensore del colle.",
         quando: "Tardo pomeriggio, per la luce sul tetto rosso della Città Vecchia.",
         tempo: "1,5 ore",
-        costo: "torre circa 8 euro, funicolare 2-3 euro (dato del sito, da ricontrollare)",
+        costo: "biglietti di torre e ascensore sul sito del Museo nazionale",
         url: "https://www.lnm.lt",
-        consiglio: "Salire a piedi e scendere in funicolare, se si vuole risparmiare."
+        consiglio: "Salire a piedi e, se serve, scendere con l'ascensore."
       },
       {
         nome: "Porta dell'Aurora",
-        testo: "L'unica porta rimasta delle mura medievali, con la cappella che custodisce l'icona della Madonna di Ostra Brama, meta di pellegrinaggio. Passando sotto si può sentire la messa dall'esterno.",
+        testo: "L'unica parte delle mura rimasta intatta dopo la demolizione del 1799-1805, con la cappella che custodisce l'icona della Madre della Misericordia, ritenuta miracolosa: è uno dei principali luoghi di pellegrinaggio cattolico della Lituania.",
         come: "A piedi, a 10 minuti dalla Piazza del Municipio.",
         quando: "Mattina.",
         tempo: "30 minuti",
         costo: "ingresso libero",
-        consiglio: "Togliersi il cappello sotto la porta, come fanno i fedeli."
+        consiglio: "È un luogo di preghiera: entrare nella cappella in silenzio."
       },
       {
         nome: "Užupis",
-        testo: "Il quartiere bohémien al di là del torrente, autoproclamatosi repubblica il 1° aprile 1997. Sul muro della via Paupio sono le targhe con i 41 articoli della sua «costituzione», tradotte in decine di lingue.",
+        testo: "Il quartiere bohémien al di là del torrente, autoproclamatosi repubblica il 1° aprile 1997. Sul muro della via Paupio sono le targhe con gli articoli della sua «costituzione», in più di venti lingue.",
         come: "A piedi dalla Città Vecchia, attraversando il ponte.",
         quando: "Giorno; il 1° aprile è la festa dell'indipendenza.",
         tempo: "1-2 ore",
         costo: "ingresso libero",
-        consiglio: "Cercare l'Angelo di Užupis, la statuetta simbolo."
+        consiglio: "Cercare l'Angelo di Užupis, la statua con la tromba inaugurata nella piazza principale il 1° aprile 2002."
       },
       {
         nome: "Chiesa di Sant'Anna e Bernardini",
@@ -129,12 +129,12 @@ export const destinazioniLituania: Destinazione[] = [
       },
       {
         nome: "Università di Vilnius",
-        testo: "Fondata nel 1579, ha tredici cortili collegati, la chiesa barocca di San Giovanni e una biblioteca storica. Si visita in autonomia, con biglietto.",
+        testo: "Fondata nel 1579, ha una tredicina di cortili collegati, la chiesa barocca di San Giovanni e una biblioteca storica. Orari e biglietti sul sito dell'università.",
         come: "A piedi, in Pilies gatvė.",
         quando: "Mattina nei giorni feriali.",
         tempo: "1 ora",
         url: "https://www.vu.lt",
-        consiglio: "Salire sul campanile di San Giovanni per la vista sulla Città Vecchia."
+        consiglio: "Nel Grande Cortile c'è il campanile di San Giovanni, il più alto di Vilnius."
       },
       {
         nome: "Palazzo dei Granduchi e Museo dell'Occupazione",
@@ -209,9 +209,9 @@ export const destinazioniLituania: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Taxi: usare Bolt, che è molto diffuso e economico.",
-      "Alcol: la vendita nei negozi è limitata a certe ore e alla sera non si compra.",
-      "Borseggiatori vicino alla stazione e nei mercati.",
+      "Taxi: usare un'app riconosciuta o un taxi registrato con tassametro acceso.",
+      "Alcol: nei negozi si vende solo in alcune fasce orarie, quindi non contare di comprarlo a tarda sera.",
+      "Borseggiatori nei luoghi affollati e sui mezzi; nei locali non lasciare il bicchiere incustodito.",
       "D'inverno marciapiedi ghiacciati: scarpe adatte."
     ],
     esperienzeSlugs: ['uzupis-repubblica-passeggiata'],
@@ -258,16 +258,16 @@ export const destinazioniLituania: Destinazione[] = [
     luoghi: [
       {
         nome: "Castello dell'isola di Trakai",
-        testo: "Castello gotico di mattoni rossi sull'isola del lago Galvė, costruito nel XIV-XV secolo dai granduchi Kęstutis e Vytautas e ricostruito nel Novecento. Ospita il Museo Storico di Trakai.",
+        testo: "Castello gotico di mattoni rossi sull'isola del lago Galvė, iniziato nel Trecento dal granduca Kęstutis e completato verso il 1409 dal figlio Vytautas, che vi morì nel 1430. Ricostruito in stile quattrocentesco tra il 1951 e il 1961, ospita il Museo Storico di Trakai.",
         come: "Dal paese, ponte di legno pedonale dalla riva.",
         quando: "Mattina nei giorni feriali; ottobre-marzo meno folla.",
         tempo: "2-3 ore",
-        costo: "12 euro in bassa stagione, 14 in alta; gratuito l'ultima domenica del mese (dati del sito, da ricontrollare)",
-        consiglio: "Salire sulla torre principale per il panorama sul lago."
+        costo: "biglietti e prezzi sul sito del Museo Storico di Trakai",
+        consiglio: "Entrare nelle sale del museo: raccontano la storia del Granducato."
       },
       {
         nome: "Quartiere caraimo",
-        testo: "Il quartiere della minoranza caraimita, con le case di legno a tre finestre in Karaimų gatvė (una per la strada, una per il cortile, una per Dio) e la kenesa, il tempio. Qui si mangiano i kibinai.",
+        testo: "Il quartiere della minoranza caraimita, con le tipiche case di legno a tre finestre e la kenesa, un raro tempio di legno con cupola interna. Qui si mangiano i kibinai.",
         come: "A piedi dal centro, lungo la via.",
         quando: "Pranzo.",
         tempo: "1 ora",
@@ -275,7 +275,7 @@ export const destinazioniLituania: Destinazione[] = [
       },
       {
         nome: "Lago Galvė",
-        testo: "Il più grande dei lagi intorno a Trakai, con rive attrezzate per camminare e per noleggiare barche e canoe. Dall'acqua si vede il castello in una cornice classica.",
+        testo: "Il lago più profondo della zona, con 21 isole, con rive attrezzate per camminare e per noleggiare barche e canoe. Dall'acqua si vede il castello in una cornice classica.",
         come: "A piedi dal paese; noleggio sul lungolago.",
         quando: "Estate, mattina o tardo pomeriggio.",
         tempo: "1-2 ore",
@@ -293,7 +293,7 @@ export const destinazioniLituania: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Trakai è una gita di mezza giornata da Vilnius: treni e bus partono dalla stazione e impiegano circa 30-40 minuti.",
+      "Trakai, a 28 km da Vilnius, è una gita di mezza giornata: treni e bus partono dalla stazione.",
       "In estate i parcheggi e i ristoranti sul lago si riempiono nei weekend.",
       "I ristoranti di fronte al castello sono più cari di quelli nel quartiere caraimo."
     ],

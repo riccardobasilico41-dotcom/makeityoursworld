@@ -98,40 +98,40 @@ export const destinazioniQatar: Destinazione[] = [
     luoghi: [
       {
         "nome": "Museum of Islamic Art",
-        "testo": "The limestone building designed by I.M. Pei at ninety, on an artificial island in front of the Corniche. Light enters from above through a hidden dome. Inside, manuscripts, ceramics, metals and textiles from the whole Muslim world.",
-        "come": "Taxi or Uber from the center; the metro reaches the Corniche station. You walk through the park.",
-        "quando": "Closed on Wednesdays. Saturday-Tuesday 9am-7pm, Thursday 9am-9pm, Friday 1:30-7pm (2026). At sunset, from the outside steps, you look at the West Bay skyline.",
+        "testo": "The cream limestone building by I.M. Pei, who took on the project at 91, opened in 2008 on an artificial island in front of the Corniche. Inside, manuscripts, ceramics, metals and textiles from the whole Muslim world.",
+        "come": "Taxi or Uber from the centre; the museum also lists a free shuttle bus. You walk through the park.",
+        "quando": "Closed on Wednesdays. Saturday-Tuesday 9am-7pm, Thursday 9am-9pm, Friday 1:30-7pm (2026); special closures on the website. At sunset, from the outside steps, you look at the West Bay skyline.",
         "tempo": "2-3 hours",
-        "url": "https://mia.org.qa/en/",
+        "url": "https://mia.org.qa/en/visit/",
         "consiglio": "Climb the steps at the back at the end of the visit: it is the postcard of the city."
       },
       {
         "nome": "Souq Waqif",
-        "testo": "The market rebuilt in the early 2000s with the materials and shapes of the old souq. It works: textiles, spices, incense and hunting falcons are still sold, and there is a falcon hospital you can visit, where the birds wait their turn with hoods on. In the evening the alleys and open-air restaurants fill with Qatari families.",
-        "come": "Metro to Msheireb or Souq Waqif; you walk the alleys.",
-        "quando": "Evening, when the falcon market opens.",
+        "testo": "The market largely destroyed by a fire in 2003 and restored between 2006 and 2008, with the modern buildings demolished. It works: textiles, spices, incense and hunting falcons are still sold, in the falcon souq, and next to it there is a falcon hospital. In the evening the alleys and open-air restaurants fill with Qatari families.",
+        "come": "Metro, Gold Line, to Souq Waqif, or Msheireb; you walk the alleys.",
+        "quando": "In the evening, when the alleys come alive. The falcon souq has split hours, morning and evening: check them on Visit Qatar.",
         "tempo": "2 hours",
         "consiglio": "The strangest and most Qatari place in the city."
       },
       {
         "nome": "National Museum of Qatar",
         "testo": "Jean Nouvel's building with intersecting discs inspired by the desert rose. Inside, the country's history from the desert to pearls to gas.",
-        "come": "Metro to Msheireb or taxi; a few minutes from the Corniche.",
-        "quando": "Closed on Tuesdays. Other days 9am-7pm, Thursday until 9pm, Friday from 1:30pm; last entry 45 minutes before closing (2026). Best in the morning.",
+        "come": "Metro, Gold Line, to National Museum of Qatar station, or taxi.",
+        "quando": "Closed on Tuesdays. Other days 9am-7pm, Thursday until 9pm, Friday 1:30-7pm; last entry 45 minutes before closing (2026). Some galleries may be closed for works. Best in the morning.",
         "tempo": "2 hours",
         "url": "https://nmoq.org.qa/en/visit/"
       },
       {
         "nome": "Corniche and dhows",
-        "testo": "The crescent waterfront on the bay, with dhows, the traditional wooden boats, that make short rides for a few riyals.",
+        "testo": "The crescent waterfront on the bay, with dhows, the traditional wooden boats, that offer short paid rides.",
         "come": "On foot from the Museum of Islamic Art.",
         "quando": "Sunset.",
         "tempo": "1 hour"
       },
       {
         "nome": "Mathaf: Arab Museum of Modern Art",
-        "testo": "The Qatar Museums institution devoted to modern and contemporary art from the Arab world, in a former school in Education City. Exhibitions change often and bring together Iraqi, Egyptian, Lebanese and Gulf painters rarely seen in Europe.",
-        "come": "By taxi or Uber from the centre, about 20 minutes; the green metro line reaches Education City.",
+        "testo": "The Qatar Museums institution devoted to modern and contemporary art from the Arab world, in a former school in Education City redesigned by Jean-François Bodin. Exhibitions change often and bring together Arab artists rarely seen in Europe.",
+        "come": "By taxi or Uber from the centre, or metro, Green Line, to Education City.",
         "quando": "Hours on the Qatar Museums site. Good for the hot hours.",
         "tempo": "1-1.5 hours",
         "costo": "Free for everyone, but a ticket must be booked (2026)",
@@ -139,8 +139,8 @@ export const destinazioniQatar: Destinazione[] = [
       },
       {
         "nome": "Katara Cultural Village",
-        "testo": "A cultural district built on the sea between West Bay and The Pearl, with a stone amphitheatre, two decorated mosques (one golden, one in blue mosaic), galleries, mud pigeon towers and a public beach. It is where Qataris come in the evening to walk and eat.",
-        "come": "Taxi or red metro line to Katara, then on foot.",
+        "testo": "A cultural district on the sea between West Bay and The Pearl, with a marble amphitheatre, two decorated mosques (the Golden Mosque and the Katara Mosque with turquoise and purple mosaics), galleries, traditional pigeon towers and a public beach. It is where Qataris come in the evening to walk and eat.",
+        "come": "Taxi or metro, Red Line, to Katara Cultural Village, then on foot.",
         "quando": "Evening, when the heat drops and the amphitheatre lights come on.",
         "tempo": "1.5-2 hours",
         "costo": "Free entry to the district",
@@ -190,7 +190,7 @@ export const destinazioniQatar: Destinazione[] = [
       },
       {
         "nome": "Karak chai",
-        "testo": "Spiced milk tea, at kiosks at all hours for a few cents."
+        "testo": "Spiced milk tea, at kiosks at all hours; it costs very little."
       },
       {
         "nome": "Levantine and Iranian cuisine",
@@ -202,7 +202,7 @@ export const destinazioniQatar: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Not booking the stopover on the dedicated portal: it is booked separately from the flight with the booking code, and many do not know it exists.",
+      "Ignoring the Qatar Airways stopover programme: terms and how to book are on the airline's official website.",
       "Planning it in summer: staying outdoors is impractical.",
       "Stopping only at West Bay and the malls: it is the souq and the museums that are worth getting off the plane for.",
       "Rules on dress and public behavior: check the official channels."
@@ -261,7 +261,7 @@ export const destinazioniQatar: Destinazione[] = [
     luoghi: [
       {
         "nome": "Khor Al Adaid (inland sea)",
-        "testo": "An arm of the Gulf that enters the desert, with dunes dropping straight into the water and Saudi Arabia on the other shore. Few places in the world are like this.",
+        "testo": "An arm of the Gulf that runs into the desert, with dunes dropping straight into the water, on the border with Saudi Arabia. Few places in the world look like this; Qatar has put it forward for UNESCO World Heritage.",
         "come": "Only by 4x4 with a driver: tires are deflated at the start of the track, then about half an hour of sand. You crest the last dune and below is the sea.",
         "quando": "Afternoon, until sunset.",
         "tempo": "Half a day",
@@ -269,25 +269,25 @@ export const destinazioniQatar: Destinazione[] = [
       },
       {
         "nome": "Al Zubarah Fort",
-        "testo": "A UNESCO site: the 18th-century fort and the remains of the port town that stood around it.",
-        "come": "By car from Doha, about an hour and a half.",
+        "testo": "UNESCO World Heritage since 2013: the port town that flourished in the late 18th century, now an excavation site, and the fort built in 1938 nearby.",
+        "come": "By car from Doha, about 105 km to the north-west.",
         "quando": "Morning.",
         "tempo": "1-1.5 hours",
         "consiglio": "Bring water and lunch: in the north there is nothing for tens of kilometers."
       },
       {
         "nome": "East-West/West-East by Richard Serra",
-        "testo": "Four steel slabs 14 meters high, aligned over about a kilometer in the Brouq desert. Reached on a track, with no parking, ticket or signs.",
-        "come": "By 4x4, west of Doha.",
+        "testo": "Four steel plates from 2014, between 14.8 and 16.7 metres high, lined up over just under a kilometre in a valley between two gypsum plateaus in the Brouq reserve. You reach them on a track, with no ticket.",
+        "come": "By car, preferably a 4x4, towards the west coast.",
         "quando": "Sunset, when the steel changes color.",
         "tempo": "1-2 hours",
         "consiglio": "Walk between the slabs hearing only the wind: it is the opposite of the rest of the Gulf."
       },
       {
         "nome": "Al Thakhira mangroves",
-        "testo": "A shallow lagoon on the north-east coast with Qatar's largest mangroves. You paddle a kayak through the channels, with herons and, in winter, flamingos; at low tide the exposed mud is full of crabs.",
-        "come": "By car from Doha, about an hour north. Kayaks rented on site from local operators, best booked.",
-        "quando": "At high tide, early morning or late afternoon. October to April.",
+        "testo": "The coast between Al Thakhira and Al Khor has the densest mangroves in Qatar. You paddle a kayak through the channels, with herons, egrets and terns; at low tide the exposed mud is full of crabs.",
+        "come": "By car from Doha, about 60 km north. Kayaks for hire from local operators, best booked.",
+        "quando": "At high tide, early morning or late afternoon, in the cooler months.",
         "tempo": "2-3 hours",
         "consiglio": "Check the tide times before setting off: at low tide the kayaks are left on the mud."
       }

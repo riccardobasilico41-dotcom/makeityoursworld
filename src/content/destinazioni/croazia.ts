@@ -31,7 +31,7 @@ export const destinazioniCroazia: Destinazione[] = [
     luoghi: [
       {
         nome: "Città Alta (Gornji grad)",
-        testo: "Il nucleo medievale su una collina, con la chiesa di San Marco dal tetto a tegole colorate, la torre Lotrščak (dove un cannone spara ogni giorno a mezzogiorno) e vicoli di lampioni a gas.",
+        testo: "Il nucleo medievale su una collina, con la chiesa di San Marco dal tetto a tegole colorate, la torre Lotrščak (dove un cannone spara ogni giorno a mezzogiorno) e i vicoli della città vecchia.",
         come: "Dalla Città Bassa a piedi o con la funicolare, tra le più brevi del mondo (66 metri di binario).",
         quando: "Mattina o tardo pomeriggio. Il cannone spara a mezzogiorno.",
         tempo: "2 ore",
@@ -41,22 +41,22 @@ export const destinazioniCroazia: Destinazione[] = [
         nome: "Mercato di Dolac",
         testo: "Il mercato all'aperto della città, sopra piazza Jelačić, con banchi di frutta e verdura sotto gli ombrelloni rossi e formaggi nel mercato coperto sotto.",
         come: "A piedi dal centro, a pochi minuti da piazza Jelačić.",
-        quando: "Mattina, fino a metà giornata; la domenica è più tranquillo e molti banchi chiudono.",
+        quando: "Mattina, fino a metà giornata, quando i banchi sono pieni.",
         tempo: "1 ora",
         consiglio: "Provare il formaggio fresco di panna (sir i vrhnje) con il pane caldo."
       },
       {
         nome: "Museo delle Relazioni Interrotte",
         testo: "Un piccolo museo con oggetti donati da persone di tutto il mondo, ciascuno con la storia di una relazione finita. Divertente e a tratti commovente.",
-        come: "A piedi dalla Città Alta, in via Ćirilometodska.",
+        come: "A piedi dalla Città Alta, in via dei Santi Cirillo e Metodio.",
         quando: "Mattina o pomeriggio, evitando il fine settimana.",
         tempo: "1 ora",
-        consiglio: "Si legge tutto in inglese: prevedere il tempo per leggere le didascalie."
+        consiglio: "Il bello sono le storie scritte dai donatori accanto agli oggetti: prevedere il tempo per leggerle."
       },
       {
         nome: "Cimitero di Mirogoj",
-        testo: "Il cimitero monumentale della città, disegnato dall'architetto Hermann Bollé a fine Ottocento. Un lungo porticato con cupole verdi e muri coperti d'edera racchiude tombe di ogni fede, una accanto all'altra. È uno dei posti più belli e tranquilli di Zagabria, e pochi turisti ci arrivano.",
-        come: "Con il bus 106 dalla cattedrale, circa 10 minuti, oppure a piedi in mezz'ora in salita.",
+        testo: "Il cimitero monumentale della città, aperto nel 1876, con l'edificio principale disegnato dall'architetto Hermann Bollé. Le lunghe arcate con le cupole, costruite tra il 1879 e il 1929, racchiudono tombe di ogni fede, una accanto all'altra. È uno dei posti più belli e tranquilli di Zagabria, e pochi turisti ci arrivano.",
+        come: "Con il bus 106 dal capolinea di Kaptol, vicino alla cattedrale, oppure a piedi in salita.",
         quando: "Mattina o tardo pomeriggio; a inizio novembre è pieno di lumini.",
         tempo: "1 ora",
         costo: "Gratuito.",
@@ -141,9 +141,9 @@ export const destinazioniCroazia: Destinazione[] = [
         come: "Ingresso 2 per i laghi superiori. Sentieri segnati con lettere (A-K) e battello elettrico sul Kozjak incluso nel biglietto.",
         quando: "All'apertura o dopo le 15, per evitare le ore dei pullman. Il periodo più verde è tra maggio e giugno; in autunno i colori sono più intensi.",
         tempo: "4-6 ore per un percorso completo",
-        costo: "40 € da giugno a settembre, 23 € in aprile, maggio e ottobre, meno in inverno; nel pomeriggio d'estate costa meno (2026). Comprare solo sul sito ufficiale.",
+        costo: "40 € da giugno a settembre (25 € dopo le 16 in giugno-agosto e dopo le 15 in settembre), 23 € in aprile, maggio e ottobre, 10 € da novembre a marzo (2026). Comprare solo sul sito ufficiale.",
         url: "https://np-plitvicka-jezera.hr/en/",
-        consiglio: "In alta stagione il biglietto è a orario e va prenotato sul sito ufficiale."
+        consiglio: "In alta stagione conviene comprare il biglietto online in anticipo: alle casse può esaurirsi. Va convalidato all'ingresso scelto al momento dell'acquisto."
       },
       {
         nome: "Veliki slap",
@@ -208,7 +208,7 @@ export const destinazioniCroazia: Destinazione[] = [
     ],
     attenzioni: [
       "Il bagno nei laghi è vietato e vigilato: non uscire dai sentieri.",
-      "Senza prenotazione in estate si rischia di non entrare: prenotare l'orario.",
+      "In estate i biglietti possono esaurirsi: comprarli online prima di partire.",
       "Portare cibo e acqua: dentro i servizi sono pochi e costosi."
     ],
     esperienzeSlugs: [],
@@ -259,10 +259,10 @@ export const destinazioniCroazia: Destinazione[] = [
       {
         nome: "Cascate di Skradinski buk (Krka)",
         testo: "Una serie di cascate e vasche su terrazze di travertino nel Parco Nazionale della Krka. Si cammina su passerelle e si prende un battello da Skradin.",
-        come: "Da Sebenico circa 45 minuti. Si parte dall'ingresso di Skradin con battello incluso nel biglietto.",
+        come: "In auto da Sebenico. Si parte dall'ingresso di Skradin con battello incluso nel biglietto.",
         quando: "Mattina presto o fine giornata. Maggio-giugno e settembre.",
         tempo: "3-4 ore",
-        costo: "Circa 40 € in alta stagione, 20 € in primavera e autunno, molto meno in inverno (2026); da aprile a ottobre comprende il battello da Skradin.",
+        costo: "40 € da giugno a settembre, 20 € in aprile, maggio e ottobre, 7 € da novembre a marzo (2026); dal 1° aprile al 31 ottobre comprende il battello da Skradin.",
         url: "https://np-krka.hr/en/",
         consiglio: "Il bagno ai piedi delle cascate non è più consentito."
       },
@@ -272,7 +272,7 @@ export const destinazioniCroazia: Destinazione[] = [
         come: "A piedi dal centro storico.",
         quando: "Mattina.",
         tempo: "45 minuti",
-        consiglio: "Guardare i volti sull'abside: sono ritratti di abitanti della città."
+        consiglio: "Guardare i volti sulle absidi: si pensa ritraggano persone della Dalmazia dell'epoca."
       }
     ],
     programmi: [
@@ -359,9 +359,9 @@ export const destinazioniCroazia: Destinazione[] = [
     luoghi: [
       {
         nome: "Palazzo di Diocleziano",
-        testo: "Il palazzo-fortezza dell'imperatore romano Diocleziano, costruito attorno al 305 d.C., dentro cui oggi vive la città vecchia. Peristilio, mausoleo trasformato in cattedrale e sotterranei sono il cuore della visita.",
+        testo: "Il palazzo-fortezza dell'imperatore romano Diocleziano, costruito tra la fine del III secolo e il 305 d.C., dentro cui oggi vive la città vecchia. Peristilio, mausoleo trasformato in cattedrale e sotterranei sono il cuore della visita.",
         come: "A piedi dalla Riva, attraverso la Porta d'Argento o la Porta di Bronzo. Entrata libera alle strade; si paga per cattedrale, campanile e sotterranei.",
-        quando: "Mattina presto o sera: tra le 11 e le 16 i vicoli sono pieni.",
+        quando: "Mattina presto o sera: nelle ore centrali i vicoli sono pieni.",
         tempo: "2-3 ore",
         consiglio: "Sotterranei: aperti con ingresso a pagamento, quasi vuoti, e fotogenici."
       },
@@ -375,16 +375,16 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Collina di Marjan",
-        testo: "Il parco boscoso sopra la città, con sentieri, chiesette e un belvedere sul porto e sulle isole. Una scalinata dal quartiere di Veli Varoš porta al primo belvedere con il caffè; più avanti la pineta continua fino alla cima del Telegrin e alle piccole spiagge sul lato del mare aperto. È il posto dove vanno gli spalatini a correre e a fare il bagno, lontano dalla folla del palazzo.",
-        come: "A piedi dal quartiere Veli Varoš, circa 20 minuti di salita fino al belvedere.",
+        testo: "Il parco boscoso sopra la città, con sentieri, chiesette e un belvedere sul porto e sulle isole. Dal quartiere di Veli Varoš si sale al primo belvedere; più avanti la pineta continua fino alla cima, con la grande croce bianca, e alle piccole spiagge sul lato del mare aperto. È il posto dove vanno gli spalatini a correre e a fare il bagno, lontano dalla folla del palazzo.",
+        come: "A piedi dal quartiere Veli Varoš, in salita fino al belvedere.",
         quando: "Tardo pomeriggio.",
         tempo: "2 ore",
         consiglio: "Portare acqua: lungo la salita non ci sono bar."
       },
       {
         nome: "Traù",
-        testo: "Una città-isola piccola e medievale a 30 km da Spalato, con la cattedrale di San Lorenzo e il suo portale scolpito da Radovan. Patrimonio UNESCO.",
-        come: "In auto o con il bus 37 da Spalato, circa 1 ora. Si visita a piedi.",
+        testo: "Una città-isola piccola e medievale a circa 27 km da Spalato, con la cattedrale di San Lorenzo e il suo portale scolpito da Radovan. Patrimonio UNESCO.",
+        come: "In auto o in bus da Spalato. Si visita a piedi.",
         quando: "Mattina.",
         tempo: "3 ore",
         consiglio: "Il pomeriggio si ferma a prendere un gelato sulla Riva."
@@ -470,14 +470,14 @@ export const destinazioniCroazia: Destinazione[] = [
       {
         nome: "Hvar città e fortezza Spagnola",
         testo: "Una cittadina veneziana sul mare con la piazza più grande della Dalmazia, la cattedrale di Santo Stefano e il teatro del Seicento sopra l'arsenale. Sopra il paese c'è la fortezza (Fortica) del Cinquecento, con la vista sul porto e sulle isole Pakleni.",
-        come: "A piedi dal porto. Fortezza con salita di circa 15 minuti.",
+        come: "A piedi dal porto. Alla fortezza si sale a piedi dal paese.",
         quando: "Fortezza al mattino o tardo pomeriggio, per il caldo.",
         tempo: "2-3 ore",
         consiglio: "Salire alla fortezza al tramonto e cenare dopo, in un vicolo fuori dalla piazza."
       },
       {
         nome: "Isole Pakleni",
-        testo: "Un arcipelago di isolotti con baie e acque limpide davanti a Hvar città. Si raggiungono con taxi-barca in 10-15 minuti.",
+        testo: "Un arcipelago di isolotti con baie e acque limpide davanti a Hvar città. Si raggiungono con i taxi-barca dal porto.",
         come: "Taxi-barca dal porto di Hvar, andata e ritorno a orari.",
         quando: "Mattina; le baie sono più calme prima di mezzogiorno.",
         tempo: "mezza giornata",
@@ -493,8 +493,8 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Stari Grad",
-        testo: "La città più antica dell'isola, fondata dai greci di Paro nel 384 a.C. con il nome di Pharos. Il porto stretto e lungo è pieno di barche e case di pietra, e al centro c'è il Tvrdalj, la villa fortificata del poeta Petar Hektorović con la vasca dei pesci. È più tranquilla e meno cara di Hvar città.",
-        come: "Qui arriva il traghetto auto da Spalato; da Hvar città sono circa 20 minuti in auto o in bus.",
+        testo: "La città più antica dell'isola, fondata dai greci di Paro nel 384 a.C. con il nome di Pharos. Il porto stretto e lungo è pieno di barche e case di pietra, e al centro c'è il Tvrdalj, la villa fortificata del poeta rinascimentale Petar Hektorović. È più tranquilla e meno cara di Hvar città.",
+        come: "Qui arriva il traghetto auto da Spalato; Hvar città si raggiunge in auto o in bus.",
         quando: "Mattina o sera; tutto l'anno, anche fuori stagione.",
         tempo: "2 ore",
         consiglio: "Unire la visita alla piana di Stari Grad, che comincia appena fuori dal paese."
@@ -581,7 +581,7 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Casa di Marco Polo",
-        testo: "Secondo la tradizione locale Marco Polo sarebbe nato a Curzola. Una casa-torre medievale ospita una piccola mostra.",
+        testo: "Secondo la tradizione locale Marco Polo sarebbe nato a Curzola. Nel centro c'è una casa che la tradizione indica come la sua.",
         come: "Nel centro storico, con scalini ripidi.",
         quando: "Mattina.",
         tempo: "30 minuti",
@@ -589,7 +589,7 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Moreška",
-        testo: "Una danza con spade che mette in scena la lotta tra mori e cristiani per una ragazza rapita, eseguita a Curzola da secoli. Due eserciti in costume rosso e nero si affrontano con colpi ritmati e scintille sulle lame. In estate ci sono spettacoli fissi più volte a settimana.",
+        testo: "Una danza con spade che mette in scena la lotta tra mori e cristiani per una ragazza rapita, eseguita a Curzola da secoli. Due eserciti in costume rosso e nero si affrontano con colpi ritmati e scintille sulle lame. Oggi per i visitatori ci sono spettacoli fissi un paio di volte a settimana.",
         come: "Di sera all'aperto o in sala, con biglietto.",
         quando: "Estate, ore serali.",
         tempo: "1 ora",
@@ -597,7 +597,7 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Penisola di Sabbioncello (Pelješac)",
-        testo: "La lunga penisola di fronte, con piccoli produttori di Plavac mali. Da Orebić si arriva a Curzola con il traghetto in circa 15 minuti.",
+        testo: "La lunga penisola di fronte, con piccoli produttori di Plavac mali. Da Orebić si arriva a Curzola con una breve traversata in traghetto.",
         come: "In auto, con visita alle cantine di Dingač e Potomje.",
         quando: "Primavera e autunno.",
         tempo: "mezza giornata",
@@ -624,7 +624,7 @@ export const destinazioniCroazia: Destinazione[] = [
       {
         nome: "Lumbarda",
         perChi: "chi cerca spiagge",
-        testo: "Villaggio con spiagge di sabbia e vigneti, a 6 km."
+        testo: "Villaggio con spiagge di sabbia e vigneti, a pochi chilometri dalla città."
       }
     ],
     sapori: [
@@ -688,10 +688,10 @@ export const destinazioniCroazia: Destinazione[] = [
       {
         nome: "Mura di Dubrovnik",
         testo: "Un anello di mura medievali lungo quasi due chilometri intorno alla città vecchia, con torri e bastioni. È il percorso più bello per vedere i tetti rossi e il mare.",
-        come: "Si sale dalla Porta Pile o dal lato del porto; il percorso è a senso unico.",
+        come: "Si sale dalla Porta Pile o dal lato del porto, seguendo il senso di marcia indicato.",
         quando: "All'apertura o nel tardo pomeriggio: a mezzogiorno è caldo e affollato.",
         tempo: "1 ora e mezza-2 ore",
-        costo: "Circa 40 € (2026); lo stesso prezzo della Dubrovnik Card di un giorno, che include anche il forte Lovrijenac e alcuni musei.",
+        costo: "Circa 40 € (2026).",
         consiglio: "Portare acqua e un cappello: ci sono pochi punti d'ombra."
       },
       {
@@ -704,28 +704,28 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Funivia e monte Srđ",
-        testo: "Dalla stazione sopra le mura la funivia sale in pochi minuti sul monte Srđ, a circa 400 metri, con la vista su tutta la città e le isole. In cima c'è il Forte Imperiale napoleonico, che ospita il museo sulla guerra degli anni Novanta, quando la città fu assediata. Al tramonto i tetti rossi e Lokrum si colorano, ed è il momento migliore.",
+        testo: "Dalla stazione sopra le mura la funivia sale in pochi minuti sul monte Srđ, alto 412 metri, con la vista su tutta la città e le isole. In cima c'è il Forte Imperiale, costruito dai francesi nel 1810, che ospita il museo sulla guerra degli anni Novanta, quando la città fu assediata. Al tramonto i tetti rossi e Lokrum si colorano, ed è il momento migliore.",
         come: "Dalla stazione vicino a Porta Buža, a piedi.",
         quando: "Tardo pomeriggio per il tramonto.",
         tempo: "1-2 ore",
-        costo: "Circa 30 € andata e ritorno (2026); non è compresa nella Dubrovnik Card.",
+        costo: "Circa 30 € andata e ritorno (2026).",
         consiglio: "Prenotare l'ora di salita al tramonto: le code possono essere lunghe."
       },
       {
         nome: "Ston e le ostriche di Mali Ston",
-        testo: "Le mura di Ston, lunghe circa 5,5 km, sono tra le più lunghe d'Europa. Qui si allevano le ostriche e le cozze di Mali Ston.",
-        come: "In auto da Dubrovnik, circa 1 ora, attraverso il ponte di Pelješac.",
+        testo: "Le mura di Ston, lunghe circa 5,5 km, sono tra i sistemi di fortificazione più lunghi conservati al mondo. Nella baia di Mali Ston si allevano le ostriche.",
+        come: "In auto da Dubrovnik lungo la costa verso nord-ovest, all'inizio della penisola di Pelješac.",
         quando: "Mattina per le mura e pranzo con le ostriche.",
         tempo: "mezza giornata",
         consiglio: "Le mura si salgono a pagamento, ma la camminata è faticosa."
       },
       {
         nome: "Isola di Lokrum",
-        testo: "L'isola boscosa davanti alla città vecchia, riserva naturale senza auto e senza alberghi. Ci sono il monastero benedettino con l'orto botanico, il forte napoleonico in cima, i pavoni liberi e il «Mar Morto», un laghetto di acqua salata dove si fa il bagno. Si nuota dagli scogli, lontano dalla folla dello Stradun.",
-        come: "Barche dal porto vecchio, circa 15 minuti; il biglietto comprende traversata e ingresso.",
-        quando: "Da aprile a ottobre, di mattina; l'ultima barca rientra nel tardo pomeriggio.",
+        testo: "L'isola boscosa davanti alla città vecchia, riserva naturale a circa 600 metri dalla città. Ci sono il monastero benedettino con l'orto botanico, il forte napoleonico in cima, i pavoni liberi e il «Mar Morto», un laghetto di acqua salata dove si fa il bagno. Si nuota dagli scogli, lontano dalla folla dello Stradun.",
+        come: "Barche regolari dal porto vecchio, con una breve traversata.",
+        quando: "Nella bella stagione, di mattina; orari delle barche sul posto.",
         tempo: "mezza giornata",
-        consiglio: "Di notte non si può restare sull'isola: controllare l'orario dell'ultima barca."
+        consiglio: "Controllare l'orario dell'ultima barca di rientro prima di partire."
       }
     ],
     programmi: [

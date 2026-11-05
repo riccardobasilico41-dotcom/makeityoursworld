@@ -47,7 +47,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
     luoghi: [
       {
         nome: "Plaza de la Ciudad Vieja y Orloj",
-        testo: "La plaza central con la torre del Reloj Astronómico (1410), el tercer reloj astronómico más antiguo del mundo y el más antiguo aún en funcionamiento. Cada hora, de 9 a 23, desfilan los Apóstoles y la Muerte tira de la cuerda.",
+        testo: "La plaza central con la torre del Reloj Astronómico (1410), el tercer reloj astronómico más antiguo del mundo y el más antiguo aún en funcionamiento. A la hora en punto el esqueleto de la Muerte toca la campana y por las ventanitas desfilan los doce Apóstoles.",
         come: "A pie, metro A hasta Staroměstská. El Orloj se ve desde la plaza, gratis.",
         quando: "A la hora en punto, pero llegar 10 minutos antes; la torre del ayuntamiento tiene un mirador de pago.",
         tempo: "1 hora",
@@ -66,12 +66,12 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       },
       {
         nome: "Castillo de Praga y Catedral de San Vito",
-        testo: "El mayor complejo de castillo del mundo, con la Catedral gótica de San Vito, el Antiguo Palacio Real, la Basílica de San Jorge y el Callejón del Oro. El patio y los jardines se pueden visitar gratis.",
-        come: "Tranvía 22 hasta Pražský hrad, luego a pie. Entradas para los circuitos en la entrada u online.",
-        quando: "Temprano por la mañana, a la apertura; el cambio de guardia a mediodía.",
+        testo: "Según el Guinness de los récords, el castillo antiguo más grande del mundo, casi 70.000 metros cuadrados, con la Catedral gótica de San Vito, el Antiguo Palacio Real, la Basílica de San Jorge y el Callejón del Oro. El patio y los jardines se pueden visitar gratis.",
+        come: "Tranvía 22 hasta Pražský hrad, luego a pie. Entradas en la entrada u online.",
+        quando: "Temprano por la mañana, a la apertura; horarios del cambio de guardia en el sitio oficial.",
         tempo: "3-4 horas",
         url: "https://www.hrad.cz",
-        consiglio: "Para los circuitos A o B, comparar qué incluye cada entrada en el sitio oficial."
+        consiglio: "Hay varios tipos de entrada: comparar en el sitio oficial qué incluye cada una."
       },
       {
         nome: "Malá Strana y Muro de John Lennon",
@@ -104,11 +104,11 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       },
       {
         nome: "Colina de Petřín",
-        testo: "La colina verde con la torre mirador (réplica en miniatura de la Torre Eiffel), el jardín de rosas y un laberinto de espejos. El funicular de 1891 sube desde Malá Strana.",
-        come: "Funicular desde Újezd; billete del transporte público.",
+        testo: "La colina verde con la torre mirador de 1891, a menudo descrita como una pequeña Torre Eiffel, el jardín de rosas y un laberinto de espejos. El funicular, abierto en 1891, sube desde Újezd en Malá Strana: parado desde septiembre de 2024 por riesgo de deslizamientos, reabrió el 22 de septiembre de 2026 con coches nuevos.",
+        come: "Funicular desde Újezd: no valen los billetes de 30 y 90 minutos, hace falta el del funicular o un abono de 24 horas o más.",
         quando: "Día despejado.",
         tempo: "2 horas",
-        consiglio: "Bajar a pie por los huertos."
+        consiglio: "Subir en funicular y bajar a pie por los parques."
       }
     ],
     programmi: [
@@ -181,10 +181,10 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
     ],
     attenzioni: [
       "Cambio de divisas: evitar las casetas «0% comisión» del centro; sacar de cajeros y rechazar pagar en euros.",
-      "Taxis: usar Bolt o Liftago, no los de la calle cerca de las plazas turísticas.",
-      "Carteristas en el Puente de Carlos, en el tranvía 22 y cerca del Orloj.",
+      "Taxis: usar una compañía conocida o una app en lugar de pararlos en la calle, revisar las tarifas en el lateral y evitar los coches sin distintivos.",
+      "Carteristas en los tranvías hacia el Castillo, en el transporte desde el aeropuerto y en las zonas turísticas llenas. Desconfiar de los falsos policías de paisano que piden ver el dinero y el pasaporte.",
       "El trdelník no es un dulce checo sino un producto turístico; las panaderías locales ofrecen algo mejor.",
-      "Los billetes del transporte deben validarse o comprarse con la app."
+      "Los billetes del transporte deben validarse antes de subir (no los comprados en las máquinas a bordo): la multa en el acto es de 1.000 CZK."
     ],
     esperienzeSlugs: ['praga-castello-biglietto', 'praga-josefov-jewish-town', 'praga-degustazione-birra'],
     tripSlugs: ['praga-weekend'],

@@ -47,7 +47,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
     luoghi: [
       {
         nome: "Old Town Square and Orloj",
-        testo: "The central square with the Astronomical Clock tower (1410), the third-oldest astronomical clock in the world and the oldest still working. Every hour from 9 to 23 the Apostles parade and Death pulls the rope.",
+        testo: "The central square with the Astronomical Clock tower (1410), the third-oldest astronomical clock in the world and the oldest still working. On the hour the skeleton of Death rings the bell and the twelve Apostles pass by the little windows.",
         come: "On foot, metro A to Staroměstská. The Orloj can be seen from the square, free.",
         quando: "On the hour, but arrive 10 minutes early; the Town Hall tower has a paid viewing deck.",
         tempo: "1 hour",
@@ -66,12 +66,12 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       },
       {
         nome: "Prague Castle and St Vitus Cathedral",
-        testo: "The largest castle complex in the world, with the Gothic St Vitus Cathedral, the Old Royal Palace, St George's Basilica and Golden Lane. The courtyard and gardens are free to enter.",
-        come: "Tram 22 to Pražský hrad, then on foot. Tickets for the circuits at the entrance or online.",
-        quando: "Early morning, at opening; the changing of the guard at noon.",
+        testo: "According to Guinness World Records the largest ancient castle in the world, almost 70,000 square metres, with the Gothic St Vitus Cathedral, the Old Royal Palace, St George's Basilica and Golden Lane. The courtyard and gardens are free to enter.",
+        come: "Tram 22 to Pražský hrad, then on foot. Tickets at the entrance or online.",
+        quando: "Early morning, at opening; changing of the guard times on the official site.",
         tempo: "3-4 hours",
         url: "https://www.hrad.cz",
-        consiglio: "For circuits A or B, compare what each ticket includes on the official site."
+        consiglio: "There are several ticket types: compare what each includes on the official site."
       },
       {
         nome: "Malá Strana and the John Lennon Wall",
@@ -104,11 +104,11 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       },
       {
         nome: "Petřín Hill",
-        testo: "The green hill with the lookout tower (a miniature replica of the Eiffel Tower), the rose garden and a mirror maze. The 1891 funicular climbs from Malá Strana.",
-        come: "Funicular from Újezd; public transport ticket.",
+        testo: "The green hill with the 1891 lookout tower, often described as a small Eiffel Tower, the rose garden and a mirror maze. The funicular, opened in 1891, climbs from Újezd in Malá Strana: stopped in September 2024 for landslide risk, it reopened on 22 September 2026 with new cars.",
+        come: "Funicular from Újezd: 30- and 90-minute tickets are not valid, you need a funicular ticket or a pass of 24 hours or more.",
         quando: "Clear day.",
         tempo: "2 hours",
-        consiglio: "Walk down through the orchards."
+        consiglio: "Ride up by funicular and walk down through the parks."
       }
     ],
     programmi: [
@@ -181,10 +181,10 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
     ],
     attenzioni: [
       "Currency exchange: avoid the '0% commission' booths in the centre; withdraw from ATMs and refuse to pay in euros.",
-      "Taxis: use Bolt or Liftago, not the ones on the street near tourist squares.",
-      "Pickpockets on Charles Bridge, on tram 22 and near the Orloj.",
+      "Taxis: use a known company or an app rather than hailing one in the street, check the rates shown on the side and avoid unmarked cars.",
+      "Pickpockets on trams to the Castle, on transport from the airport and in crowded tourist areas. Be wary of fake plainclothes police asking to see your money and passport.",
       "Trdelník is not a Czech sweet but a tourist product; local bakeries offer better.",
-      "Transit tickets must be validated or bought with the app."
+      "Transit tickets must be validated before boarding (not those bought from machines on board): the on-the-spot fine is 1,000 CZK."
     ],
     esperienzeSlugs: ['praga-castello-biglietto', 'praga-josefov-jewish-town', 'praga-degustazione-birra'],
     tripSlugs: ['praga-weekend'],

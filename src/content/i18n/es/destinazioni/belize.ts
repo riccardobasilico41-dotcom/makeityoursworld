@@ -41,15 +41,15 @@ export const destinazioniBelize: Destinazione[] = [
       "luoghi": [
         {
           "nome": "The Split",
-          "testo": "El canal abierto por el huracán Hattie en 1961, que dividió la isla en dos. Hoy es el punto de encuentro de la isla: un bar en el muelle, saltos desde el puente y el atardecer visto por todos juntos.",
-          "come": "Al final de la calle principal, a 10 minutos a pie del muelle de los water taxi.",
+          "testo": "El canal que divide la isla en dos. El huracán Hattie, en 1961, abrió un paso poco profundo; luego los vecinos lo excavaron a mano hasta convertirlo en canal. Hoy es el punto de encuentro de la isla: un bar en el muelle, saltos desde el puente y el atardecer mirado por todos juntos.",
+          "come": "Al final de la calle principal, a pocos minutos a pie del muelle de los water taxi.",
           "quando": "Última hora de la tarde hasta el atardecer.",
           "tempo": "1-2 horas",
           "consiglio": "En el canal hay corriente: se entra al agua por el lado más calmo y se vigilan las lanchas."
         },
         {
           "nome": "Hol Chan Marine Reserve y Shark Ray Alley",
-          "testo": "Hol Chan es un canal natural en la barrera de coral, al sur de Ambergris, dentro de la primera área marina protegida de Belice. Shark Ray Alley es donde los pescadores limpiaban la pesca: hoy tiburones nodriza y rayas se acercan a la lancha.",
+          "testo": "Hol Chan es un canal natural en el arrecife, al sur de Ambergris, dentro de una reserva marina creada en 1987 y parte del sitio UNESCO del arrecife de Belice. Shark Ray Alley es donde los pescadores limpiaban las redes: los restos atraían tiburones nodriza y rayas, que hoy se acercan a la lancha.",
           "come": "Excursión en barco de media jornada desde Caye Caulker, con guía y equipo. La tasa del parque marino a menudo no está incluida en el precio.",
           "quando": "Por la mañana, con el mar más tranquilo; mejor época de diciembre a abril.",
           "tempo": "4-5 horas",
@@ -59,7 +59,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "El Great Blue Hole desde el aire",
-          "testo": "Un sumidero marino de unos 300 metros de diámetro y 125 de profundidad, frente a Lighthouse Reef. El círculo perfecto solo se ve desde arriba.",
+          "testo": "Una dolina marina de más de 300 metros de ancho y unos 124 de profundidad, en el centro de Lighthouse Reef, un atolón a unos 70 km de la costa. El círculo perfecto solo se ve desde arriba.",
           "come": "Vuelo panorámico en avioneta desde la isla o desde Belize City. La alternativa es una inmersión de día completo, más cara y más cansada.",
           "quando": "Día despejado, mejor por la mañana.",
           "tempo": "Media jornada",
@@ -118,7 +118,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Langosta",
-          "testo": "La temporada va de mediados de junio a finales de febrero: fuera de temporada, si está en el menú, es congelada."
+          "testo": "La pesca se cierra unos meses entre el final del invierno y el inicio del verano (desde 2021, de marzo a junio): en ese periodo, si está en el menú, es congelada."
         },
         {
           "nome": "Barbacoa callejera",
@@ -194,14 +194,14 @@ export const destinazioniBelize: Destinazione[] = [
         {
           "nome": "Great Blue Hole",
           "testo": "Sumidero marino en Lighthouse Reef, patrimonio UNESCO. Desde San Pedro se va en barco para la inmersión o en avión para el vuelo panorámico.",
-          "come": "Inmersión: día completo, tres inmersiones, mar abierto, muchos operadores piden titulación avanzada. Vuelo panorámico: media jornada.",
+          "come": "Inmersión: día completo con varias inmersiones en mar abierto; muchos operadores piden titulación avanzada. Vuelo panorámico: medio día.",
           "quando": "Días de mar calmo, más probables de diciembre a abril.",
           "tempo": "Día completo",
           "consiglio": "La mejor vista es desde el avión, y cuesta mucho menos. Bajo el agua es una pared azul con pocas estalactitas y poca vida."
         },
         {
           "nome": "El centro de San Pedro",
-          "testo": "Calles de arena con casas de colores, cafés, restaurantes y centros de buceo. El malecón es el corazón del pueblo, con los muelles de salida de todas las excursiones.",
+          "testo": "Calles de arena con casas de colores, cafés, restaurantes y centros de buceo. El paseo marítimo es el corazón del pueblo, con los muelles de donde salen todas las excursiones.",
           "come": "A pie desde el muelle principal. En la isla se circula en golf cart.",
           "quando": "Mañana temprano para las reservas, noche para la vida del malecón.",
           "tempo": "Media jornada"
@@ -314,12 +314,12 @@ export const destinazioniBelize: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Actun Tunichil Muknal (ATM)",
-          "testo": "Cueva arqueológica maya con cerámicas y restos humanos dejados donde los mayas los depositaron hace más de mil años, incluida la «Crystal Maiden». Se entra nadando por un río subterráneo.",
-          "come": "Solo con guía autorizado, tour desde San Ignacio con transporte: caminata por la selva con tres vados, luego horas en agua fría y pasos estrechos.",
+          "testo": "Una cueva arqueológica maya con cerámicas y restos humanos dejados donde fueron depositados, algunos de más de mil años, incluida la «Crystal Maiden», el esqueleto calcificado y brillante de un muchacho. Se entra nadando y se remonta un río subterráneo.",
+          "come": "Las entradas las venden solo operadores autorizados, con guía y transporte desde San Ignacio: caminata por la selva con vados, luego horas en agua fría y pasos estrechos.",
           "quando": "Mañana; diciembre-abril. Puede cerrar tras lluvias fuertes por el nivel del agua.",
-          "tempo": "Día completo (unas 8 horas)",
-          "url": "https://www.nichbelize.org/",
-          "consiglio": "Cámaras prohibidas para todos, sin excepciones. Quien sufra de claustrofobia o no soporte el agua fría, mejor que se la salte."
+          "tempo": "Día completo",
+          "url": "https://ticketing.nichbelize.org/",
+          "consiglio": "Las cámaras están prohibidas a los visitantes desde 2012, cuando una cámara caída agrietó un cráneo. Si sufres claustrofobia o llevas mal el agua fría, sáltala."
         },
         {
           "nome": "Xunantunich",
@@ -327,22 +327,22 @@ export const destinazioniBelize: Destinazione[] = [
           "come": "Desde San Ignacio taxi hasta el Mopan, luego el ferry de cadena gratuito; al otro lado, 15 minutos de subida a pie.",
           "quando": "Mañana, antes del calor.",
           "tempo": "2 horas",
-          "url": "https://www.nichbelize.org/",
+          "url": "https://ticketing.nichbelize.org/",
           "consiglio": "Desde la cima se ve Guatemala. Se combina fácilmente con la cueva o con Rio On el mismo día."
         },
         {
           "nome": "Caracol",
-          "testo": "El sitio maya más grande de Belice, en medio de la selva de Chiquibul. La pirámide Caana sigue siendo la estructura más alta del país.",
-          "come": "Excursión desde San Ignacio con guía, por un camino de tierra de 1h30-2 horas; el almuerzo suele estar incluido.",
+          "testo": "Una de las mayores ciudades mayas, en la meseta de Vaca, al pie de las Maya Mountains. La pirámide Caana, de 43 metros, sigue siendo la estructura construida por el hombre más alta de Belice.",
+          "come": "Excursión desde San Ignacio con guía, por una carretera larga y en parte de tierra; en general el almuerzo está incluido.",
           "quando": "Mañana temprano. Estación seca por el camino.",
           "tempo": "Día completo",
-          "url": "https://www.nichbelize.org/",
+          "url": "https://ticketing.nichbelize.org/",
           "consiglio": "Se va por el silencio y los monos aulladores, no por las multitudes de Tikal. Comprobar el estado del camino."
         },
         {
           "nome": "Rio On Pools y Mountain Pine Ridge",
           "testo": "Una serie de cascadas pequeñas y pozas naturales en el Rio On, en un bosque de pinos de altiplano. Se nada y se resbala por las rocas lisas.",
-          "come": "En auto o taxi desde San Ignacio (unos 45 minutos).",
+          "come": "En coche o taxi desde San Ignacio, subiendo hacia la Mountain Pine Ridge.",
           "quando": "Por la tarde, con el agua más tibia.",
           "tempo": "1-2 horas",
           "consiglio": "Zapatos de agua: las rocas resbalan."
@@ -387,7 +387,7 @@ export const destinazioniBelize: Destinazione[] = [
       "sapori": [
         {
           "nome": "Mercado de San Ignacio",
-          "testo": "Sábado por la mañana: fruta, pupusas, tamales y cocina chino-beliceña. El sitio más barato para comer."
+          "testo": "Fruta, pupusas, tamales y cocina chino-beliceña. El sitio más barato para comer: el día de más ambiente es el fin de semana, mejor preguntar en el pueblo."
         },
         {
           "nome": "Stew chicken y pollo a la parrilla",
@@ -404,7 +404,7 @@ export const destinazioniBelize: Destinazione[] = [
       ],
       "attenzioni": [
         "Reservar el tour ATM solo con operadores autorizados: el acceso es limitado y reservado a guías con licencia específica.",
-        "Sin cámaras en la cueva ATM: prohibidas desde hace años, desde que una caída dañó una pieza.",
+        "Nada de cámaras en la cueva ATM: están prohibidas desde 2012, cuando una cámara caída agrietó un cráneo.",
         "En la frontera con Guatemala (Benque Viejo/Melchor de Mencos): cambiar dinero solo en ventanillas oficiales, no con quien se acerca.",
         "Tras lluvias fuertes la cueva ATM y algunos caminos, como el de Caracol, pueden cerrar."
       ],
@@ -459,7 +459,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Laughing Bird Caye",
-          "testo": "Un islote-parque nacional en el atolón frente a Placencia, con arrecife cercano y agua poco profunda. Forma parte del sitio UNESCO de la barrera de coral.",
+          "testo": "Un islote parque nacional a unos 19 km de Placencia, sobre una larga dorsal de coral, con arrecife cerca y agua poco profunda. Forma parte del sitio UNESCO del arrecife de Belice.",
           "come": "Excursión en barco de media jornada desde Placencia con uno de los operadores locales; tasa del parque aparte.",
           "quando": "Mañana, mar calmo; estación seca.",
           "tempo": "4-5 horas",
@@ -468,16 +468,16 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Hopkins y la cultura garífuna",
-          "testo": "Pueblo garífuna frente al mar. Los garífunas descienden de africanos occidentales y de pueblos caribes de las Antillas Menores, deportados a esta costa a fines del siglo XVIII; su lengua, danza y música son patrimonio inmaterial de la UNESCO.",
-          "come": "Desde Placencia 40-50 minutos en coche o lanzadera. En el pueblo se va a pie.",
+          "testo": "Pueblo garífuna junto al mar. Los garífunas descienden de africanos y de pueblos caribes y arawak de San Vicente, de donde los británicos los deportaron en 1797; desde allí se extendieron por la costa centroamericana. Su lengua, danza y música son patrimonio inmaterial de la UNESCO desde 2001.",
+          "come": "Desde Placencia en coche o shuttle por la costa. En el pueblo se va a pie.",
           "quando": "Tarde-noche para los tambores, mañana para la comida.",
           "tempo": "Media jornada",
           "consiglio": "Una clase de tambor con un maestro del pueblo dice más que cualquier museo. Preguntar en el pueblo."
         },
         {
           "nome": "Cockscomb Basin Wildlife Sanctuary",
-          "testo": "La primera reserva del mundo dedicada a los jaguares, en un valle de selva húmeda con senderos a cascadas y miradores. El jaguar se ve raramente.",
-          "come": "Desde Hopkins o Placencia en coche hasta la entrada (unos 30-50 minutos); senderos de 1-4 horas, algunos con pozas para bañarse.",
+          "testo": "Reserva creada en los años ochenta, la primera área protegida pensada para el jaguar, en un valle de selva tropical con senderos a cascadas y miradores. El jaguar se ve muy pocas veces.",
+          "come": "Desde Hopkins o Placencia en coche hasta la entrada; senderos de una a pocas horas, algunos con pozas para bañarse.",
           "quando": "Mañana temprano; estación seca.",
           "tempo": "Media jornada",
           "url": "https://www.travelbelize.org/",
@@ -504,7 +504,7 @@ export const destinazioniBelize: Destinazione[] = [
           "titolo": "3 días",
           "tappe": [
             "Días 1 y 2 como arriba",
-            "Día 3: estacional, excursión a los tiburones ballena en Gladden Spit (aprox. marzo-junio, alrededor de la luna llena)"
+            "Día 3: de temporada, excursión a los tiburones ballena de Gladden Spit (entre marzo y junio, cuando desovan los peces)"
           ]
         }
       ],
@@ -544,8 +544,8 @@ export const destinazioniBelize: Destinazione[] = [
         }
       ],
       "attenzioni": [
-        "Los tiburones ballena de Gladden Spit dependen de las lunas llenas entre marzo y junio: no construir el viaje en torno a ellos.",
-        "El bus por la Southern Highway tarda 4-5 horas: dejar buen margen si hay un vuelo.",
+        "Los tiburones ballena de Gladden Spit llegan entre marzo y junio por los huevos de los peces, pero solo unos días: no armes el viaje en torno a ellos.",
+        "El bus de la Southern Highway es lento: deja buen margen si tienes un vuelo.",
         "Al atardecer llegan los sandflies a la playa: repelente.",
         "Las excursiones en barco pueden cancelarse con el mar picado."
       ],

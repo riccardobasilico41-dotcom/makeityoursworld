@@ -145,54 +145,54 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       {
         "nome": "Dubai Creek, abra and Deira souqs",
         "testo": "The old trading port, still active, with wooden boats loaded with goods for Iran and India. The abra, the wooden ferry, crosses the creek for one dirham and lands at the spice souq and the gold souq.",
-        "come": "Metro to Al Ras or Al Ghubaiba, then on foot to the abra stops.",
+        "come": "Metro, Green Line, to Al Ras or Al Ghubaiba, then walk to the abra stations.",
         "quando": "Morning or late afternoon, less heat.",
         "tempo": "2-3 hours",
-        "costo": "Abra 1 dirham",
+        "costo": "Abra 1 dirham, paid to the boatman",
         "consiglio": "Sit on the abra among people going to work: it is the part of Dubai nobody looks for."
       },
       {
         "nome": "Al Fahidi",
-        "testo": "The historic district with wind towers, coral and gypsum houses and narrow alleys, where you understand what the place was like when pearls were the economy. There are museums and cafes.",
-        "come": "Metro to Al Fahidi, 20 minutes from the new center.",
+        "testo": "The historic district built from the late 19th century by merchants who came from Persia, with wind towers and narrow lanes, restored from 2005. You see what Dubai was like before oil. There are small museums, such as the Coffee Museum, and cafés in the courtyards.",
+        "come": "Metro, Green Line, to Sharaf DG or Al Ghubaiba, then on foot.",
         "quando": "Morning, before the heat.",
         "tempo": "1-2 hours",
         "consiglio": "It combines well with the creek tour in the same morning."
       },
       {
         "nome": "Burj Khalifa",
-        "testo": "The tallest skyscraper in the world, 828 meters. The terraces on floors 124-125 and 148 give views of the city and the desert.",
-        "come": "Metro to Burj Khalifa/Dubai Mall. Ticket to buy online.",
-        "quando": "Sunset, with time slots to book days ahead.",
+        "testo": "The tallest building in the world, 828 metres. The At the Top decks on floors 124-125 and At the Top Sky on floor 148 look over the city and the desert.",
+        "come": "Metro, Red Line, to Burj Khalifa/Dubai Mall. Timed ticket, best bought online.",
+        "quando": "Sunset, the most requested slot: book it ahead.",
         "tempo": "1-1.5 hours",
         "url": "https://www.burjkhalifa.ae/",
-        "consiglio": "Buy online: on site it costs more and the sunset slots run out."
+        "consiglio": "Book online before you go: the sunset slots sell out first."
       },
       {
         "nome": "Desert safari",
         "testo": "An evening in a 4x4 on the dunes, with sunset, dinner in a tented camp and a night under the stars. It is the most sold \"desert\" experience around Dubai.",
-        "come": "Operators with hotel pickup. Modest dunes half an hour from the city.",
-        "quando": "Afternoon and evening, from October to April.",
+        "come": "Operators with hotel pickup. The dunes used for evening safaris are a short drive from the city.",
+        "quando": "Afternoon and evening, in the cooler months.",
         "tempo": "5-6 hours",
         "consiglio": "For the real desert you need Liwa and the Rub' al-Khali."
       },
       {
         "nome": "Museum of the Future",
-        "testo": "The oval ring-shaped building covered in steel Arabic calligraphy, on Sheikh Zayed Road. Inside, five floors of immersive installations on space, nature and the human body in 2071. It is worth it mostly for the architecture, which you can photograph from outside without going in.",
-        "come": "Metro to Emirates Towers, then a covered walkway. Timed ticket to buy online.",
-        "quando": "Hours and tickets on the official site. In the evening the lit calligraphy works better in photos.",
+        "testo": "The ring-shaped building on Sheikh Zayed Road, clad in 1,024 steel panels that form Arabic calligraphy. Inside, five floors of exhibits framed as a journey to 2071: a space station, a floor on nature, one on wellbeing. It is worth it above all for the architecture, which you can photograph from outside without going in.",
+        "come": "Metro, Red Line, to Emirates Towers.",
+        "quando": "As of November 2026 the museum is temporarily closed for a new set-up: check the official website before going. In the evening the lit calligraphy looks better in photos.",
         "tempo": "1.5-2 hours",
         "url": "https://museumofthefuture.ae/",
-        "consiglio": "Book a few days ahead: weekend slots sell out early."
+        "consiglio": "If it is still closed, the building alone is worth a stop outside."
       },
       {
         "nome": "Dubai Frame",
-        "testo": "A frame about 150 metres high in Zabeel Park, with a glass bridge at the top: on one side you look at old Dubai in Deira and Karama, on the other at the Downtown skyscrapers. A gallery on the ground floor tells the story of the city before oil.",
-        "come": "Metro to Max or ADCB, then a short taxi; or a taxi straight to the Zabeel Park entrance.",
+        "testo": "A frame about 150 metres high in Zabeel Park, with a bridge at the top partly floored with glass: to the north you look at old Dubai, Deira and Karama, to the south the towers of Sheikh Zayed Road. One section tells the city's history.",
+        "come": "Taxi to the Zabeel Park entrance.",
         "quando": "Late afternoon, to see the city in daylight and then lit up. Hours on the official site.",
         "tempo": "1 hour",
         "url": "https://www.dubaiframe.ae/",
-        "consiglio": "It costs less than the Burj Khalifa and the view over Deira, which you do not see well from the Burj, is the reason to go up."
+        "consiglio": "The view over Deira, which you do not see well from the Burj, is the reason to go up."
       }
     ],
     programmi: [
@@ -233,7 +233,7 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     sapori: [
       {
         "nome": "Biryani and Pakistani curries",
-        "testo": "In Karama, Bur Dubai and Deira you dine for under ten euros in places full of residents."
+        "testo": "In Karama, Bur Dubai and Deira you eat cheaply in places full of residents."
       },
       {
         "nome": "Machboos",
@@ -249,10 +249,11 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Buying the Burj Khalifa ticket on site: it costs more and sunset slots run out days ahead.",
-      "Stopping at the malls and the Marina: the most interesting part is the creek, souqs and Al Fahidi, twenty minutes by metro.",
-      "Stopover in summer: from June to September temperatures exceed 45 degrees and life is indoors.",
-      "Rules on dress, alcohol and public behavior: check the official channels."
+      "Leaving the Burj Khalifa to the last minute: sunset slots sell out days ahead.",
+      "Stopping at the malls and the Marina: the most interesting part is the creek, the souqs and Al Fahidi, all reachable by metro.",
+      "A summer stopover: from June to September it is extremely hot and life moves indoors.",
+      "Rules on dress, alcohol and public behavior: check the official channels.",
+      "Regional tensions: European governments warn of possible flight cancellations and airspace closures at short notice (gov.uk, October 2026). Check your government's travel advice before leaving."
     ],
     // GUIDA-END
     esperienzeSlugs: ['creek-souq-dubai', 'deserto-emirati'],
@@ -309,45 +310,45 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     luoghi: [
       {
         "nome": "Sheikh Zayed Grand Mosque",
-        "testo": "Eighty-two domes, white columns inlaid with mother-of-pearl, the largest hand-knotted carpet in the world and Swarovski chandeliers. It is open to non-Muslims.",
-        "come": "Taxi or Uber. Free entry, with the visit booked on the official site, and a dress code: arms and legs covered, head covered for women.",
+        "testo": "Eighty-two domes, marble columns inlaid with mother-of-pearl, a hand-knotted carpet of over 5,600 square metres and chandeliers with millions of Swarovski crystals. It is open to non-Muslim visitors.",
+        "come": "Taxi or Uber. Free visit with a mandatory online pass booked on the official website; dress rules on the website.",
         "quando": "Saturday-Thursday 9am-8:30pm; Friday 9-11:30am and 2:30-8:30pm (2026). Late afternoon is best, when the marble turns from white to pink and then blue; at midday the white is blinding.",
         "tempo": "1-1.5 hours",
         "costo": "Free entry",
-        "url": "https://www.szgmc.gov.ae/",
+        "url": "https://www.szgmc.gov.ae/en/home",
         "consiglio": "Hours for non-Muslims vary, especially on Friday: check the site."
       },
       {
         "nome": "Louvre Abu Dhabi",
-        "testo": "Jean Nouvel's museum on Saadiyat Island, under a dome pierced by 7,850 overlapping metal stars that rains light. The building is worth as much as the collection.",
+        "testo": "Jean Nouvel's museum on Saadiyat Island, opened in 2017, under a dome made of 7,850 overlapping aluminium stars that rains light. The building is worth as much as the collection.",
         "come": "Taxi or Uber from Abu Dhabi.",
-        "quando": "Evening, when the light under the dome changes.",
+        "quando": "Late afternoon, when the light under the dome changes. Opening hours and closing days on the official website.",
         "tempo": "2-3 hours",
         "url": "https://www.louvreabudhabi.ae/",
         "consiglio": "Sit under the dome and stay a while."
       },
       {
         "nome": "Qasr Al Watan",
-        "testo": "The presidential palace open to the public, with decorated halls, the Council hall and an exhibition on power in the Emirates.",
+        "testo": "The presidential palace, open to the public since 2019. You see the Great Hall, under a dome about 37 metres across, the hall where the government meets and the House of Knowledge with gifts from heads of state.",
         "come": "Taxi or Uber.",
-        "quando": "Morning.",
+        "quando": "Morning. Opening hours and tickets on the official website.",
         "tempo": "1.5-2 hours",
         "url": "https://www.qasralwatan.ae/"
       },
       {
         "nome": "Al Mina fish market",
-        "testo": "The port market: you pick fish at the counter and take it to the restaurants next door, which cook it for a few dirhams.",
+        "testo": "The port market: you choose the fish at the stall and take it to the restaurants next door, which cook it for a fee.",
         "come": "Taxi from the center.",
         "quando": "Early morning or late afternoon.",
         "tempo": "1 hour"
       },
       {
         "nome": "Corniche and Heritage Village",
-        "testo": "Eight kilometres of seafront with public beaches, cycle paths and a view of the skyscrapers. At the end, on the breakwater, the Heritage Village recreates a village from before oil: goat-hair tents, a mud mosque, craftsmen's workshops and a view of the city that makes the walk worth it.",
-        "come": "Taxi to the Corniche, then on foot or by rental bike. The Heritage Village is on the breakwater opposite Marina Mall.",
+        "testo": "Eight kilometres of waterfront with a public beach, separate paths for bikes and pedestrians and views of the towers. On the breakwater, the Heritage Village recreates a pre-oil village, with craft workshops and a view of the city.",
+        "come": "Taxi to the Corniche, then on foot or by bike. The Heritage Village is on the breakwater, towards Marina Mall.",
         "quando": "From late afternoon to sunset, when the skyline lights up.",
         "tempo": "2 hours",
-        "costo": "Corniche and Heritage Village free"
+        "costo": "Corniche free; Heritage Village: check on site"
       }
     ],
     programmi: [
@@ -390,10 +391,11 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "At the Grand Mosque dressed wrongly: arms and legs covered for all, head covered for women; the borrowed abayas have long queues.",
+      "Wrong clothes at the Grand Mosque: read the dress rules on the official website before going.",
       "Visiting the mosque at midday: the marble dazzles and cooks.",
       "Book the Louvre ahead on weekends.",
-      "Autumn: the Formula 1 Grand Prix fills the city."
+      "Early December: the Abu Dhabi Formula 1 Grand Prix (6 December 2026) fills the city and pushes up hotel prices.",
+      "Regional tensions: European governments warn of possible flight cancellations and airspace closures at short notice (gov.uk, October 2026). Check your government's travel advice before leaving."
     ],
     // GUIDA-END
     esperienzeSlugs: ['moschea-sheikh-zayed', 'louvre-abu-dhabi'],
@@ -448,29 +450,29 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
     luoghi: [
       {
         "nome": "Moreeb dunes and Liwa",
-        "testo": "The edge of the Rub' al-Khali, the largest continuous sand desert in the world, with dunes over two hundred meters at Moreeb. There are no evening safaris here: you need a night in the desert.",
-        "come": "By car or on a tour from Abu Dhabi, about two hours; off track you need an experienced 4x4.",
+        "testo": "The edge of the Rub' al-Khali, the sand desert of the southern Arabian Peninsula, with dunes up to 250 metres; at Moreeb, about 25 km south of Liwa Oasis, stands one of the tallest. There are no evening safaris here: you need a night in the desert.",
+        "come": "By car or tour from Abu Dhabi, about 250 km; off-road you need a 4x4 and experience.",
         "quando": "Dawn and sunset.",
         "tempo": "1-2 days",
         "consiglio": "Do not drive on sand without experience and without a second vehicle."
       },
       {
         "nome": "Al Ain Oasis",
-        "testo": "A UNESCO site, with 147,000 palms irrigated by falaj channels dug two thousand years ago and still working. You walk in the shade hearing the water flow.",
-        "come": "Al Ain is about 1.5 hours from Abu Dhabi. The oasis is toured on foot.",
+        "testo": "Part of the UNESCO Cultural Sites of Al Ain since 2011: over 147,000 date palms across more than 1,200 hectares, watered by falaj channels, a system thousands of years old. You walk in the shade hearing the water run.",
+        "come": "Al Ain is about an hour and a half's drive from Abu Dhabi. The oasis is explored on foot.",
         "quando": "Morning.",
         "tempo": "2 hours"
       },
       {
         "nome": "Al Jahili Fort and the Hili sites",
-        "testo": "The mud-brick fort and the Bronze Age tombs of Hili, a UNESCO site.",
+        "testo": "Al Jahili Fort, built around 1891 with its watchtowers, and Hili Archaeological Park, the largest Bronze Age site in the Emirates, with tombs from the 3rd millennium BC, part of the UNESCO listing.",
         "come": "By car from Al Ain.",
         "quando": "Morning.",
         "tempo": "2 hours"
       },
       {
         "nome": "Jebel Hafeet",
-        "testo": "A mountain with a switchback road to the viewpoint at the top, over a thousand meters.",
+        "testo": "A mountain of about 1,240 metres that rises 900 metres above the plain. The road, built in 1980, makes 60 bends over 11.7 km up to the viewpoint at the top, overlooking Al Ain.",
         "come": "By car from Al Ain.",
         "quando": "Sunset.",
         "tempo": "1-2 hours"
@@ -516,10 +518,10 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Mistaking an evening safari for the desert: those are done on small dunes half an hour from Dubai.",
+      "Mistaking an evening safari for the desert: those run on small dunes near Dubai.",
       "Driving on sand without experience and without a second vehicle.",
       "Coming for the day and skipping the night, which is the reason to go to Liwa.",
-      "In summer inland temperatures often exceed 50 degrees."
+      "In summer the interior is extremely hot: come between November and March."
     ],
     // GUIDA-END
     esperienzeSlugs: [],

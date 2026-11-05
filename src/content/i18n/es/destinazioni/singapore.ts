@@ -23,21 +23,21 @@ export const destinazioniSingapore: Destinazione[] = [
     ],
     cosaFare: [
       "Espectáculo de luces en los Supertree después del atardecer (véase la ficha de experiencia dedicada)",
-      "Caminata completa alrededor de la bahía, unos 3,5 km, mejor en la hora azul",
+      "Caminata completa alrededor de la bahía, mejor en la hora azul",
       "Subida a un rooftop bar en vez de a la plataforma panorámica: se paga un cóctel y se tiene la misma vista",
       "Veladas en el Marina Barrage, el dique con el césped en el tejado donde los singapurenses hacen volar las cometas",
     ],
     doveDormire:
       "La zona es la más cara de la ciudad. Quien duerme aquí lo hace por la vista; quien quiere gastar menos se queda en Chinatown, Bugis o Geylang y llega aquí en metro en diez minutos, que es la opción razonable.",
     doveMangiare:
-      "Es la parte de la ciudad donde se come peor en relación con el precio: los restaurantes de alrededor de la bahía están pensados para quien no se mueve. El consejo es comer en otro sitio y venir aquí después de cenar, o bien parar en el Satay by the Bay, el centro de hawkers dentro de los Gardens, que es la única opción a precios normales de la zona.",
+      "Es la parte de la ciudad donde se come peor en relación con el precio: los restaurantes de alrededor de la bahía están pensados para quien no se mueve. El consejo es comer en un centro hawker de Chinatown o de Bugis y venir aquí después de cenar.",
     comeArrivare: "Metro: las paradas Bayfront, Marina Bay y Promenade sirven toda la zona. Desde el aeropuerto son unos 30 minutos en MRT.",
     comeSpostarsi:
       "Todo a pie, pero con una advertencia: el calor es serio y la sombra escasa. Los pasos subterráneos climatizados que conectan los centros comerciales son la verdadera red peatonal de la ciudad y merece la pena usarlos.",
     periodoMigliore:
       "todo el año, mejor de noche: hay luces, y de día la humedad en la bahía es pesada y el asfalto devuelve el calor.",
     costi:
-      "la bahía, los Supertree y el espectáculo de luces son gratuitos; los invernaderos cuestan en torno a 30-50 SGD, la plataforma del Marina Bay Sands unos 30. Casi todo lo demás se ve sin pagar nada.",
+      "la bahía, los Supertree y el espectáculo de luces son gratuitos; los invernaderos y la plataforma del Marina Bay Sands tienen entrada, con precios actualizados en las webs oficiales. Casi todo lo demás se ve sin pagar nada.",
     erroriDaEvitare: [
       "Pagar la plataforma panorámica del Marina Bay Sands: cuesta lo que un cóctel en el bar del mismo edificio, que tiene la misma vista y donde uno se sienta",
       "Ir a los Gardens a mitad del día, cuando hace muchísimo calor y no hay luces",
@@ -49,7 +49,7 @@ export const destinazioniSingapore: Destinazione[] = [
     luoghi: [
       {
         nome: "Supertree Grove de Gardens by the Bay",
-        testo: "Dieciocho estructuras con forma de árbol de hasta cincuenta metros, cubiertas de plantas y con paneles solares. Realmente sirven para ventilar los invernaderos y recoger el agua de lluvia. Por la noche se iluminan con un espectáculo de luces gratuito.",
+        testo: "Dieciocho estructuras con forma de árbol de entre 25 y 50 metros de altura, cubiertas de plantas y con paneles solares. Tienen una función real: sirven de toma y salida de aire para la refrigeración de los invernaderos y recogen el agua de lluvia. Por la noche se iluminan y hay un espectáculo de luces gratuito.",
         come: "MRT hasta Bayfront y luego un pasaje cubierto que lleva a los jardines. El bosque de Supertrees se recorre por libre y sin entrada; la pasarela elevada (OCBC Skyway) se paga aparte.",
         quando: "Después del atardecer para el espectáculo de luces Garden Rhapsody, todas las noches a las 19:45 y a las 20:45, unos quince minutos; en épocas de fiesta se añaden pases (calendario en la web oficial).",
         tempo: "1 hora y media",
@@ -59,12 +59,13 @@ export const destinazioniSingapore: Destinazione[] = [
       },
       {
         nome: "Cloud Forest y Flower Dome",
-        testo: "Dos invernaderos climatizados. En el Cloud Forest una montaña cubierta de helechos y orquídeas tiene en el centro una gran cascada cubierta, con una pasarela que rodea la cima; el Flower Dome recrea un clima mediterráneo con olivos y baobabs.",
+        testo: "Dos invernaderos climatizados. En el Cloud Forest una montaña de 42 metros cubierta de helechos, orquídeas y bromelias tiene una cascada interior de 35 metros: se sube en ascensor y se baja a pie por una pasarela que rodea la montaña. El Flower Dome recrea un clima mediterráneo fresco y seco, con un olivar y baobabs.",
         come: "Dentro de Gardens by the Bay, a pocos minutos a pie de los Supertrees. Entrada separada para cada invernadero y recorrido de sentido único.",
         quando: "Abiertos todos los días, 9-21. Por la mañana hay menos gente; con lluvia son el refugio ideal.",
         tempo: "1 hora por invernadero",
         url: "https://www.gardensbythebay.com.sg/",
-        consiglio: "Si se elige uno solo, el Cloud Forest: es lo más sorprendente de la zona."
+        consiglio: "Si se elige uno solo, el Cloud Forest: es lo más sorprendente de la zona.",
+        costo: "entrada para cada invernadero; precios en la web oficial"
       },
       {
         nome: "Marina Bay Sands y el bar de la azotea",
@@ -76,8 +77,8 @@ export const destinazioniSingapore: Destinazione[] = [
       },
       {
         nome: "Helix Bridge, Merlion y paseo marítimo",
-        testo: "El puente peatonal de doble hélice, inspirado en el ADN, es la mejor forma de cruzar la bahía. El Merlion, mitad león y mitad pez, es la estatua símbolo de la ciudad; es pequeña, pero el fondo es el adecuado.",
-        come: "A pie desde el Marina Bay Sands o Esplanade. El recorrido completo de la bahía mide unos 3,5 kilómetros.",
+        testo: "El puente peatonal de doble hélice, inspirado en el ADN (con las letras de las cuatro bases en la estructura), une Marina Centre con Marina South y es la mejor manera de cruzar la bahía. El Merlion, mitad león y mitad pez, es la estatua símbolo de la ciudad; es pequeño, pero el fondo es el adecuado.",
+        come: "A pie desde el Marina Bay Sands o Esplanade. El recorrido completo de la bahía se hace todo a pie por el paseo.",
         quando: "A la hora azul, cuando se encienden las luces pero queda algo de cielo.",
         tempo: "1 hora y media para el recorrido completo",
         costo: "gratuito",
@@ -93,8 +94,8 @@ export const destinazioniSingapore: Destinazione[] = [
       },
       {
         nome: "Marina Barrage",
-        testo: "La presa que cerró la bahía y convirtió el agua de mar en un embalse de agua dulce. En la azotea hay un césped donde los singapurenses vuelan cometas.",
-        come: "MRT hasta Marina Bay y luego unos minutos en autobús o taxi. Una parada tranquila, lejos de las multitudes.",
+        testo: "La presa que cerró la bahía y convirtió Marina Bay y la cuenca de Kallang en un embalse de agua dulce. En su tejado verde hay un prado donde los singapurenses van a volar cometas.",
+        come: "En autobús o taxi desde Marina Bay o los Gardens by the Bay. Es una parada tranquila, lejos de las multitudes.",
         quando: "Al atardecer, con el skyline enfrente.",
         tempo: "1 hora",
         costo: "gratuito",
@@ -107,7 +108,7 @@ export const destinazioniSingapore: Destinazione[] = [
         tappe: [
           "Primera hora de la mañana: Helix Bridge, Merlion y paseo por la bahía",
           "Media mañana: Cloud Forest y Flower Dome, con fresco",
-          "Almuerzo en el Satay by the Bay o en un centro hawker fuera de la zona",
+          "Almuerzo en un centro hawker fuera de la zona, en Chinatown o Bugis",
           "Tarde: ArtScience Museum o descanso en el hotel durante las horas de calor",
           "Atardecer: cóctel en el bar de la azotea del Marina Bay Sands",
           "Noche: espectáculo de luces de los Supertrees, tumbados en el césped"
@@ -131,7 +132,7 @@ export const destinazioniSingapore: Destinazione[] = [
       {
         nome: "Chinatown y Tanjong Pagar",
         perChi: "quien quiere ahorrar sin salir del centro",
-        testo: "A diez minutos de la bahía en metro. Muy cerca de centros hawker, bares y restaurantes, y bastante más barato."
+        testo: "La bahía está a pocos minutos en metro. Muy cerca de centros hawker, bares y restaurantes, y mucho más baratos."
       },
       {
         nome: "Bugis y Kampong Glam",
@@ -142,7 +143,7 @@ export const destinazioniSingapore: Destinazione[] = [
     sapori: [
       {
         nome: "Satay",
-        testo: "Brochetas de carne marinada a la brasa con salsa de cacahuete. En el Satay by the Bay, dentro de los Gardens, se comen a precios normales."
+        testo: "Brochetas de carne marinada a la brasa con salsa de cacahuete. Se encuentran en casi todos los centros hawker de la ciudad."
       },
       {
         nome: "Chilli crab",
@@ -161,7 +162,7 @@ export const destinazioniSingapore: Destinazione[] = [
       "El calor es serio entre las once y las tres. Conviene moverse por la mañana y por la noche y usar los pasajes cubiertos y climatizados entre centros comerciales.",
       "Las normas son estrictas y se aplican: multas por tirar basura, fumar fuera de las zonas permitidas o cruzar fuera de los pasos. Los cigarrillos electrónicos están prohibidos.",
       "El Merlion y los puntos más fotografiados están llenos de gente: llevar la cartera en un bolsillo delantero, aunque los robos son raros.",
-      "Cenar alrededor de la bahía cuesta mucho más por un plato mediocre: en diez minutos de metro se come mejor por un tercio del precio."
+      "Quien cena alrededor de la bahía paga mucho más por un plato mediocre: a pocos minutos en metro se come mejor y por mucho menos."
     ],
     esperienzeSlugs: ['gardens-by-the-bay'],
     tripSlugs: ['malesia-singapore'],
@@ -203,7 +204,7 @@ export const destinazioniSingapore: Destinazione[] = [
     periodoMigliore:
       "todo el año. Los momentos especiales son el Año Nuevo chino en Chinatown, el Deepavali en Little India y el Hari Raya en Kampong Glam, cuando los respectivos barrios se iluminan. En el Año Nuevo chino, sin embargo, muchos puestos de hawkers de gestión familiar cierran durante días.",
     costi:
-      "casi nulos: los barrios se caminan, los templos son gratuitos o casi, y una comida completa en un centro de hawkers está entre 3 y 6 euros. Es el Singapur que se puede hacer con poco dinero.",
+      "casi nulos: los barrios se recorren a pie, en los templos no hay entrada y una comida completa en un centro hawker cuesta pocos euros. Es el Singapur que se puede hacer con poco dinero.",
     erroriDaEvitare: [
       "Comer en los restaurantes con aire acondicionado y menú ilustrado cuando a cincuenta metros hay un centro de hawkers: se paga el triple por un plato peor",
       "Ir a Chinatown solo por la calle de los souvenirs, que es la parte menos interesante del barrio",
@@ -215,20 +216,18 @@ export const destinazioniSingapore: Destinazione[] = [
     luoghi: [
       {
         nome: "Buddha Tooth Relic Temple",
-        testo: "Templo budista de estilo Tang en Chinatown, construido en 2007 para conservar una reliquia atribuida a Buda. Por dentro es suntuoso, con dorados y una gran estupa de oro. El barrio de alrededor ha sido reconstruido en parte.",
-        come: "MRT hasta Chinatown. La entrada es gratuita, con hombros y rodillas cubiertos. Algunas salas están reservadas.",
+        testo: "Templo budista en Chinatown, inaugurado en 2007 para custodiar una reliquia atribuida a Buda, en un estilo que une la arquitectura de la dinastía Tang con el mandala budista. Dentro es suntuoso, con dorados por todas partes; la reliquia está en una estupa en el cuarto piso.",
+        come: "MRT hasta Chinatown. Se entra con hombros y rodillas cubiertos. Algunas salas están reservadas.",
         quando: "Por la mañana, cuando el templo está más tranquilo.",
         tempo: "45 minutos",
-        costo: "entrada gratuita",
-        consiglio: "Subir a la azotea, donde hay un jardín con una gran rueda de oración."
+        consiglio: "Subir a la azotea, donde hay una gran rueda de oración de estilo tibetano y la pagoda de los Diez Mil Budas."
       },
       {
         nome: "Sri Mariamman Temple",
-        testo: "El templo hindú más antiguo de la ciudad, fundado en 1827 y dedicado a la diosa Mariamman. La torre de entrada está cubierta de figuras esculpidas y pintadas.",
+        testo: "El templo hindú más antiguo de la ciudad, fundado en 1827 y dedicado a la diosa Mariamman. La torre de entrada, de 1925, tiene seis niveles de figuras esculpidas y pintadas de colores vivos.",
         come: "A pocos pasos de la parada de Chinatown. Zapatos fuera donde se indique.",
         quando: "Por la mañana, o durante las fiestas hindúes cuando el templo está lleno de fieles.",
         tempo: "30 minutos",
-        costo: "entrada gratuita",
         consiglio: "Comprobar antes si hay una ceremonia: el templo cambia por completo."
       },
       {
@@ -245,19 +244,19 @@ export const destinazioniSingapore: Destinazione[] = [
         come: "MRT hasta Little India. A pie entre Serangoon Road, Campbell Lane y las calles laterales. Zapatos fuera en el templo.",
         quando: "Última hora de la tarde y noche, cuando las tiendas están abiertas y el barrio está más vivo. Durante el Deepavali se ilumina para la fiesta.",
         tempo: "2 horas",
-        consiglio: "Buscar el Tekka Centre, el mercado cubierto con el centro hawker en la planta alta, para una comida india barata."
+        consiglio: "Buscar el Tekka Centre, el mercado cubierto con el centro hawker en la planta baja, para una comida india barata."
       },
       {
         nome: "Sultan Mosque y Haji Lane",
-        testo: "La gran mezquita de cúpula dorada es el centro de Kampong Glam, el barrio malayo-árabe. Las calles de alrededor, Arab Street y Haji Lane, tienen telas, perfumes, cafés y murales.",
-        come: "MRT hasta Bugis y luego unos minutos a pie. La mezquita se visita fuera de las horas de oración, con ropa larga y la cabeza cubierta para las mujeres; prestan prendas.",
+        testo: "La gran mezquita de cúpulas doradas es el centro de Kampong Glam, el barrio malayo-árabe. Las calles de alrededor, Arab Street y Haji Lane, tienen telas, perfumes, cafés y murales.",
+        come: "MRT hasta Bugis, luego unos minutos a pie. La mezquita se visita en el horario para visitantes, nunca durante la oración del viernes; hay que ir cubierto y en la entrada prestan túnicas.",
         quando: "Por la mañana la mezquita; última hora de la tarde las calles.",
         tempo: "1 hora y media",
         consiglio: "Comprobar los horarios de oración antes de subir, porque la visita se interrumpe durante la oración."
       },
       {
         nome: "Tiong Bahru",
-        testo: "El barrio residencial más antiguo de la ciudad, con edificios racionalistas curvos de los años treinta, cafés independientes y el mercado con su centro hawker.",
+        testo: "El barrio de viviendas públicas más antiguo de la ciudad, construido por el Singapore Improvement Trust entre finales de los años veinte y los treinta, con edificios art déco de líneas redondeadas, cafés independientes y el mercado con su centro hawker.",
         come: "MRT hasta Tiong Bahru y a pie. El barrio es pequeño y se recorre en una hora.",
         quando: "Por la mañana, para el mercado y el desayuno.",
         tempo: "1 hora",
@@ -363,7 +362,7 @@ export const destinazioniSingapore: Destinazione[] = [
     comeSpostarsi: "A pie en las reservas, en bicicleta en Pulau Ubin (se alquila en el muelle).",
     periodoMigliore:
       "todo el año, a primera hora de la mañana. Pasadas las diez el calor y la humedad hacen los senderos mucho más pesados de lo que la distancia hace pensar.",
-    costi: "todo gratuito, incluidos Botanic Gardens, MacRitchie y Pulau Ubin; solo el National Orchid Garden tiene una entrada de pocos dólares.",
+    costi: "todo gratuito, incluidos los Botanic Gardens, MacRitchie y Pulau Ubin (solo se pagan la barca y la bici); dentro de los Botanic Gardens solo el National Orchid Garden tiene entrada.",
     erroriDaEvitare: [
       "Subestimar el clima: diez kilómetros en MacRitchie con esta humedad valen el doble, y a lo largo del recorrido no se compra agua",
       "Acercarse a los macacos o comer delante de ellos: en MacRitchie y Bukit Timah están acostumbrados a los humanos y arrebatan los bolsos",
@@ -375,9 +374,9 @@ export const destinazioniSingapore: Destinazione[] = [
     luoghi: [
       {
         nome: "Singapore Botanic Gardens",
-        testo: "Jardín botánico de época colonial, Patrimonio de la Humanidad de la UNESCO desde 2015. Prados, lagos, selva tropical residual y el National Orchid Garden, con miles de orquídeas, en su mayoría de pago.",
+        testo: "Jardín botánico de época colonial, patrimonio de la UNESCO desde 2015. Praderas, lagos, un tramo de selva tropical y el National Orchid Garden, con más de mil especies y dos mil híbridos de orquídeas: es la única parte de pago.",
         come: "MRT hasta Botanic Gardens (línea Downtown), con entrada directa desde la estación. Se visita por libre.",
-        quando: "Al amanecer o a primera hora de la mañana, cuando los vecinos corren y hacen tai chi bajo los árboles.",
+        quando: "Los jardines abren de 5 a medianoche. Al amanecer o a primera hora los residentes corren y hacen taichí bajo los árboles.",
         tempo: "2 horas",
         costo: "entrada gratuita a los jardines; el National Orchid Garden tiene una entrada aparte",
         url: "https://www.nparks.gov.sg/",
@@ -385,8 +384,8 @@ export const destinazioniSingapore: Destinazione[] = [
       },
       {
         nome: "MacRitchie Reservoir y TreeTop Walk",
-        testo: "Un embalse rodeado de selva tropical con senderos y una pasarela colgante a 25 metros que cruza las copas. Macacos, varanos y ardillas por los caminos.",
-        come: "Autobús desde la MRT de Caldecott o Marymount hasta la entrada. La pasarela solo se alcanza a pie, con un recorrido de unos 11 kilómetros ida y vuelta desde la orilla principal.",
+        testo: "Un embalse rodeado de selva tropical con senderos y una pasarela colgante de 250 metros, a 25 metros de altura en su punto más alto, que cruza la copa de los árboles. Macacos, varanos y ardillas en los senderos.",
+        come: "En autobús o taxi hasta la entrada del parque. A la pasarela solo se llega a pie, por varios kilómetros de sendero en la selva.",
         quando: "A primera hora, por el fresco y para llegar a tiempo: el TreeTop Walk cierra los lunes (salvo festivos), tiene horario diurno y se recorre en un solo sentido. Horarios en la web de NParks.",
         tempo: "3-4 horas",
         costo: "gratuito",
@@ -395,8 +394,8 @@ export const destinazioniSingapore: Destinazione[] = [
       },
       {
         nome: "Bukit Timah Nature Reserve",
-        testo: "Selva tropical primaria alrededor de la colina más alta de la isla, 163 metros. Una de las pocas áreas de bosque primario que quedan en Singapur, con macacos y aves.",
-        come: "Autobús desde la MRT de Beauty World. Senderos señalizados de varias longitudes, con escaleras y pendientes.",
+        testo: "Selva tropical primaria alrededor de la colina más alta de la isla. Es una de las zonas más extensas de selva primaria que quedan en Singapur, con macacos y aves.",
+        come: "En MRT y autobús o en taxi. Senderos señalizados de distintas longitudes, con escaleras y pendientes.",
         quando: "A primera hora de la mañana.",
         tempo: "2-3 horas",
         costo: "gratuito",
@@ -405,15 +404,15 @@ export const destinazioniSingapore: Destinazione[] = [
       },
       {
         nome: "Pulau Ubin",
-        testo: "Isla a diez minutos en barca, donde aún viven unas pocas familias en las casas de madera del antiguo kampong. No hay coches: se alquila una bici y se anda entre manglares, antiguas canteras y senderos.",
-        come: "Bumboat desde el terminal de Changi Point Ferry. La barca sale cuando tiene doce pasajeros. Bicis de alquiler en la isla.",
+        testo: "Isla a unos diez minutos en barca, donde quedan unas pocas decenas de habitantes en las casas de madera del viejo kampong. No hay transporte público: se alquila una bici y se recorre entre manglares, viejas canteras de granito inundadas y senderos.",
+        come: "Bumboat desde la terminal de Changi Point Ferry. La barca sale cuando tiene doce pasajeros, o se paga la barca entera. Bicicletas de alquiler en la isla.",
         quando: "Por la mañana. La última barca de vuelta es por la tarde: comprobar el horario al llegar.",
         tempo: "medio día",
         consiglio: "Alquilar una bici e ir hacia Chek Jawa, la zona húmeda con la pasarela sobre el mar."
       },
       {
         nome: "Southern Ridges y Henderson Waves",
-        testo: "Un recorrido de diez kilómetros entre parques unidos por pasarelas elevadas. Henderson Waves es el puente peatonal más alto de Singapur, con forma ondulada de madera.",
+        testo: "Un recorrido entre parques unidos por pasarelas elevadas. Henderson Waves es el puente peatonal más alto de Singapur, a 36 metros sobre la carretera, con costillas curvas de madera que se iluminan por la noche.",
         come: "MRT hasta Labrador Park o Harbourfront. El recorrido se hace por tramos y se puede interrumpir en varios puntos.",
         quando: "Por la mañana o al atardecer. A mediodía no hay sombra.",
         tempo: "2-3 horas",
@@ -438,7 +437,7 @@ export const destinazioniSingapore: Destinazione[] = [
         tappe: [
           "Primera hora de la mañana: bumboat desde Changi Point",
           "Paseo en bici hasta Chek Jawa",
-          "Almuerzo en la única cafetería de la isla",
+          "Almuerzo en uno de los locales del pueblo cerca del muelle",
           "Regreso por la tarde, antes del calor máximo"
         ]
       }
@@ -517,7 +516,7 @@ export const destinazioniSingapore: Destinazione[] = [
     comeSpostarsi: "Lanzaderas internas gratuitas, monorraíl y muchas caminatas: la isla es larga y los puntos de interés están distantes entre sí.",
     periodoMigliore: "todo el año. En fin de semana y en las vacaciones escolares la isla está muy llena de residentes.",
     costi:
-      "el acceso a la isla a pie es gratuito, el monorraíl cuesta pocos dólares; el gasto de verdad son los parques: Universal Studios y el acuario tienen precios de parque internacional.",
+      "a pie por el Sentosa Boardwalk se entra gratis; teleférico y monorraíl tienen tarifas en la web de Sentosa; el gasto de verdad son los parques: Universal Studios y el acuario tienen precios de parque internacional.",
     erroriDaEvitare: [
       "Esperar playas: son artificiales, con arena importada, y enfrente está la rada de los petroleros. Hay que tomarlas por lo que son",
       "Pagar el monorraíl a la ida: el puente peatonal es gratuito, cubierto y se tardan diez minutos",
@@ -529,18 +528,18 @@ export const destinazioniSingapore: Destinazione[] = [
     luoghi: [
       {
         nome: "Fort Siloso",
-        testo: "La única fortificación costera británica conservada en Singapur, con túneles, cañones y figuras de cera. Cuenta la caída de la ciudad en 1942, cuando los cañones apuntaban al mar y los japoneses llegaron por tierra.",
+        testo: "Una batería costera británica hoy convertida en museo militar, con cañones de época y galerías. Cuenta la caída de la ciudad en febrero de 1942, cuando los cañones construidos para defender del mar se giraron hacia el interior contra los japoneses llegados por tierra. Las Surrender Chambers recrean la rendición.",
         come: "Dentro de Sentosa, en el extremo occidental. Se llega con el autobús interno o a pie desde Siloso Beach. Recorrido a pie con escaleras y túneles.",
         quando: "Por la mañana, antes del calor.",
         tempo: "1 hora y media",
-        costo: "gratuito",
+        costo: "tarifas y horarios en la web de Sentosa",
         url: "https://www.sentosa.com.sg/",
         consiglio: "Subir a las plataformas de los cañones: la vista sobre la rada y los petroleros explica el tráfico del puerto."
       },
       {
         nome: "Teleférico Mount Faber - Sentosa",
         testo: "Cabinas suspendidas que cruzan el puerto desde Mount Faber hasta la isla, con vistas a los barcos fondeados. Singapur es uno de los puertos más transitados del mundo y desde aquí se ve.",
-        come: "MRT hasta HarbourFront y luego subir al Mount Faber o tomar el teleférico directamente desde VivoCity. Billete de pago.",
+        come: "MRT hasta HarbourFront, luego se sube al Mount Faber o se toma el teleférico desde la estación de HarbourFront, junto a VivoCity. Billete de pago.",
         quando: "Al atardecer.",
         tempo: "1 hora",
         consiglio: "Cogerlo en un solo sentido y volver a pie o en monorraíl."
@@ -622,7 +621,7 @@ export const destinazioniSingapore: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "El puente peatonal desde VivoCity es gratuito y cubierto, y se tarda diez minutos: el monorraíl a la ida no hace falta.",
+      "Se entra a pie gratis por el Sentosa Boardwalk, que sale de VivoCity: para la ida no hace falta el monorraíl.",
       "Pagar en taquilla la entrada de un parque sin mirar las ofertas online cuesta bastante más que la misma entrada comprada con antelación.",
       "Los fines de semana y en vacaciones escolares la isla se llena de residentes: si es posible, venir entre semana.",
       "En la playa, el agua frente a la rada no es el motivo para venir: los bares valen más que el mar."

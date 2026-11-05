@@ -67,27 +67,27 @@ export const destinazioniAustria: Destinazione[] = [
       },
       {
         nome: "St Stephen's Cathedral (Stephansdom)",
-        testo: "The symbol of Vienna, in Gothic style, with the coloured-tile roof and the 136 metre south tower. You can climb the tower, about 343 steps.",
-        come: "Metro U1/U3 to Stephansplatz. Entry to the transept is free; tower and catacombs are paid.",
+        testo: "The symbol of Vienna, in Gothic style, with a roof of 230,000 coloured tiles and the 136 metre south tower, climbed on foot. On the unfinished north tower a platform holds the Pummerin bell; below lie the catacombs with the remains of over 11,000 people.",
+        come: "Metro U1/U3 to Stephansplatz. Towers and catacombs are paid: prices on the official website.",
         quando: "Tourist visits Mon-Sat 9-11:30am and 1-4:30pm, Sundays and holidays 1-4:30pm, services permitting. Early morning or evening for the light on the roof.",
         tempo: "1 hour",
         url: "https://www.stephanskirche.at",
-        consiglio: "If short of time, take the lift up the north tower."
+        consiglio: "The catacombs can only be seen on a guided tour."
       },
       {
         nome: "Belvedere",
-        testo: "Two baroque palaces with an Italian garden, home to the largest Klimt collection, including 'The Kiss'. The park is beautiful on its own.",
+        testo: "Two baroque palaces of Prince Eugene of Savoy, with a French formal garden between them; the Upper Belvedere holds an important Klimt collection, with 'The Kiss', and works by Schiele and Kokoschka. The park is beautiful on its own.",
         come: "Tram D to Schloss Belvedere. Tickets for the Upper Belvedere.",
         quando: "Daily 9am-6pm; early morning to see 'The Kiss' without crowds.",
         tempo: "2 hours",
         costo: "Upper Belvedere €23 adults (2026, day price)",
         url: "https://www.belvedere.at",
-        consiglio: "Book online to skip the queue."
+        consiglio: "Entry is free up to 19; in summer (mid-July to August) it opens until 7pm."
       },
       {
         nome: "Kunsthistorisches Museum",
         testo: "The Habsburgs' great art museum, with Bruegel, Raphael, Titian and Vermeer. The building itself, with its dome and staircase, is a work of art.",
-        come: "Metro U2 or U3 to Volkstheater, next to the Naturhistorisches Museum.",
+        come: "On the Ring, opposite the Naturhistorisches Museum, near the Volkstheater and Museumsquartier metro stops.",
         quando: "Daily 10am-6pm, Thursday until 9pm; weekday mornings.",
         tempo: "2-3 hours",
         costo: "€22 online, €24 on site (2026); since 8 September 2026 entry by time slot only",
@@ -185,11 +185,11 @@ export const destinazioniAustria: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Fake ticket sellers in Mozart costume outside theatres: buy only at the box office or on the website.",
+      "Concerts: buy tickets at the box office or on official websites, not from costumed sellers in the street.",
       "Fiaker (carriages) are expensive: ask the price first.",
-      "Transit tickets: validate paper ones, inspections are frequent.",
+      "Transit tickets: validate paper ones before boarding, or risk an on-the-spot fine.",
       "On Sundays shops are closed, supermarkets included.",
-      "In cafes you leave 5-10% as a tip, it is not included."
+      "Pickpockets in crowded centres, on transport and at main stations; take more care in parks after dark."
     ],
     esperienzeSlugs: ['vienna-schonbrunn-biglietto', 'vienna-opera-stehplatz', 'vienna-giro-caffe-storici'],
     tripSlugs: ['vienna-weekend'],

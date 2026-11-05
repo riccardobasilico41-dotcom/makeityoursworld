@@ -41,7 +41,7 @@ export const destinazioniMalesia: Destinazione[] = [
     periodoMigliore:
       'tutto l\'anno, con acquazzoni pomeridiani in qualsiasi stagione. Le piogge più insistenti si concentrano tra ottobre e dicembre e ad aprile.',
     costi:
-      'Petronas skybridge a pagamento (prezzi sul sito ufficiale), Batu Caves gratuito, Museo delle Arti Islamiche circa 20 ringgit. I trasporti costano pochi ringgit.',
+      "Petronas skybridge a pagamento (prezzi sul sito ufficiale), Batu Caves gratuito, Museo delle Arti Islamiche con biglietto (tariffe sul sito del museo). I trasporti costano pochi ringgit.",
     erroriDaEvitare: [
       'Salire alle Batu Caves a metà giornata: 272 gradini sotto il sole equatoriale, con le scimmie che rubano tutto quello che si tiene in mano',
       'Vestirsi troppo scoperti per visitare templi e moschee: alle Batu Caves e alla Masjid Negara servono spalle e ginocchia coperte, e i sarong prestati all\'ingresso risolvono solo in parte',
@@ -63,8 +63,8 @@ export const destinazioniMalesia: Destinazione[] = [
       {
         nome: "Batu Caves",
         testo: "Un santuario indù in una grotta calcarea, preceduto dalla statua dorata di Murugan alta quasi 43 metri e da 272 gradini colorati. Dentro c'è un grande salone con piccoli templi, la luce che scende da un'apertura nel soffitto e scimmie sui gradini.",
-        come: "Treno KTM Komuter da KL Sentral fino al capolinea Batu Caves, circa 30 minuti. L'ingresso alla grotta principale è libero. La Dark Cave, la grotta interna protetta, si visita solo con le uscite educative della Malaysian Nature Society, quando sono attive. Spalle e ginocchia coperte.",
-        quando: "Alle 7 del mattino, con i fedeli che salgono e i gradini in ombra. Il Thaipusam, tra gennaio e febbraio, porta centinaia di migliaia di persone.",
+        come: "Treno Komuter da KL Sentral fino al capolinea Batu Caves. L'ingresso alla grotta principale è libero. La Dark Cave, la grotta interna protetta, si visita solo con le uscite educative della Malaysian Nature Society, quando sono attive. Spalle e ginocchia coperte.",
+        quando: "Presto la mattina, con i fedeli che salgono e i gradini in ombra. Il Thaipusam, tra gennaio e febbraio, porta folle enormi.",
         tempo: "2 ore",
         costo: "ingresso gratuito",
         consiglio: "Non tenere in mano bottiglie, occhiali o cibo: le scimmie li strappano."
@@ -88,11 +88,12 @@ export const destinazioniMalesia: Destinazione[] = [
       {
         nome: "Museo delle Arti Islamiche",
         testo: "Uno dei musei più completi dell'Asia sul tema: tessili, ceramiche, manoscritti e modelli di moschee. Quasi sempre quasi vuoto.",
-        come: "Nel parco dei Lake Gardens, vicino alla Moschea Nazionale. A piedi dalla fermata KL Sentral o in taxi.",
+        come: "Nel parco dei Lake Gardens, vicino alla Moschea Nazionale. In taxi o Grab, o a piedi da KL Sentral con una camminata lunga.",
         quando: "Aperto tutti i giorni, 9:30-18 (ultimo ingresso 17:30). Ottimo nel primo pomeriggio, nelle ore più calde.",
         tempo: "2 ore",
         url: "https://www.iamm.org.my/",
-        consiglio: "Il caffè del museo, climatizzato e silenzioso, è un'ottima pausa."
+        consiglio: "Il caffè del museo, climatizzato e silenzioso, è un'ottima pausa.",
+        costo: "Biglietto d'ingresso; tariffe sul sito del museo."
       },
       {
         nome: "Jalan Alor",
@@ -106,14 +107,7 @@ export const destinazioniMalesia: Destinazione[] = [
     programmi: [
       {
         titolo: "1 giorno",
-        tappe: [
-          "7:00 Batu Caves, con la salita in ombra",
-          "10:00 Rientro e colazione al KL Sentral",
-          "Primo pomeriggio: Museo delle Arti Islamiche, al fresco",
-          "Tardo pomeriggio: Masjid Jamek e Merdeka Square a piedi, poi Chinatown",
-          "Ora blu: Petronas dal basso",
-          "Sera: cena a Jalan Alor"
-        ]
+        tappe: ["Mattina presto: Batu Caves, con la salita in ombra","Rientro e colazione al KL Sentral","Primo pomeriggio: Museo delle Arti Islamiche, al fresco","Tardo pomeriggio: Masjid Jamek e Merdeka Square a piedi, poi Chinatown","Ora blu: Petronas dal basso","Sera: cena a Jalan Alor"]
       },
       {
         titolo: "2 giorni",
@@ -205,7 +199,7 @@ export const destinazioniMalesia: Destinazione[] = [
     periodoMigliore:
       'da dicembre a marzo, la stagione più secca della costa ovest. A fine giugno si tiene il George Town Festival e a luglio il festival del cibo: entrambi ottimi motivi per esserci, ma la città si riempie.',
     costi:
-      'La città in sé è quasi tutta gratuita: il centro storico si cammina, i murales non si pagano. Kek Lok Si offre libero ingresso con contributo per la funicolare della pagoda; Penang Hill circa 30 ringgit andata e ritorno.',
+      "La città in sé è quasi tutta gratuita: il centro storico si cammina, i murales non si pagano. A Kek Lok Si si pagano gli ascensori inclinati verso la statua; la funicolare di Penang Hill ha un biglietto, con tariffe sul sito ufficiale.",
     erroriDaEvitare: [
       'Andare a Penang per le spiagge: Batu Ferringhi è mediocre e tiene lontani dalla parte che conta',
       'Mangiare nei ristoranti con menu illustrato: i banchi migliori non hanno insegne in inglese e chiudono quando finiscono gli ingredienti',
@@ -274,17 +268,17 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "Kek Lok Si",
-        testo: "Il complesso buddista più grande della Malesia, sulla collina di Air Itam. Una pagoda a sette piani unisce stili cinese, thailandese e birmano, e in alto c'è una statua di Guanyin alta 30 metri.",
-        come: "Bus da George Town (Rapid Penang) o taxi, circa 20 minuti. Una funicolare porta alla statua.",
+        testo: "Il complesso buddista più grande della Malesia, ai piedi della collina di Air Itam. La pagoda dei Diecimila Buddha, a sette piani e completata nel 1930, ha la base cinese, la parte centrale thailandese e la cupola birmana; più in alto c'è una grande statua di Guanyin in bronzo.",
+        come: "Bus Rapid Penang da George Town o taxi. Degli ascensori inclinati portano alla statua.",
         quando: "Al mattino; durante il Capodanno cinese è affollato di lanterne e fedeli.",
         tempo: "1 ora e mezza",
-        costo: "ingresso libero, la funicolare è a pagamento",
+        costo: "ingresso al complesso libero; gli ascensori inclinati si pagano a parte",
         consiglio: "Salire fino alla statua di Guanyin: la vista su Penang vale i gradini."
       },
       {
         nome: "Cheong Fatt Tze Mansion (Blue Mansion)",
-        testo: "La casa-palazzo di un mercante cinese di fine Ottocento, con le pareti color indaco, i cortili interni e gli arredi originali. Ha vinto un premio UNESCO per il restauro.",
-        come: "A piedi dal centro di George Town. Si visita solo con tour guidato, a orari fissi.",
+        testo: "La casa-palazzo del mercante Cheong Fatt Tze, costruita tra il 1897 e il 1904, con le pareti color indaco ottenute da calce e tintura naturale, i cortili interni e gli arredi originali. Nel 2000 il restauro ha vinto il premio UNESCO per la conservazione del patrimonio.",
+        come: "A piedi dal centro di George Town. Si visita con il tour guidato in inglese, un paio di volte al giorno; la casa è anche un albergo.",
         quando: "Al mattino, con il tour in lingua inglese.",
         tempo: "1 ora",
         url: "https://www.cheongfatttzemansion.com/",
@@ -292,8 +286,8 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "Street of Harmony",
-        testo: "Un tratto di Lebuh Pantai e dintorni dove stanno vicini una moschea, un tempio cinese, un tempio indù e una chiesa anglicana. Un esempio vero di convivenza.",
-        come: "A piedi nel centro storico, nella zona di Jalan Masjid Kapitan Keling.",
+        testo: "Un tratto di Jalan Masjid Kapitan Keling e dintorni dove stanno vicini una moschea, un tempio cinese, un tempio indù e una chiesa anglicana. Un esempio vero di convivenza.",
+        come: "A piedi nel centro storico.",
         quando: "Al mattino. Le moschee sono chiuse ai non musulmani durante la preghiera.",
         tempo: "1 ora",
         costo: "gratuito",
@@ -301,9 +295,9 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "Penang Hill",
-        testo: "Una collina di 833 metri sopra la città, raggiunta da una funicolare, con aria più fresca, un giardino botanico e viste su George Town e il continente.",
-        come: "Autobus 204 da Komtar fino alla stazione della funicolare. Salita di circa 10 minuti.",
-        quando: "Al mattino, con meno nebbia e meno code.",
+        testo: "Una collina di oltre 700 metri sopra la città, raggiunta da una funicolare, con aria più fresca, un giardino botanico e viste su George Town e il continente.",
+        come: "In autobus da Komtar o in taxi fino alla stazione della funicolare, poi la salita in funicolare.",
+        quando: "Aperta tutti i giorni dalle 6:15 alle 21:45. Al mattino c'è meno nebbia e ci sono meno code.",
         tempo: "3 ore",
         url: "https://www.penanghill.gov.my/",
         consiglio: "Salire presto: nel pomeriggio le code alla funicolare sono lunghe."
@@ -363,7 +357,7 @@ export const destinazioniMalesia: Destinazione[] = [
       "I banchi migliori non hanno insegne in inglese, aprono a orari propri e chiudono quando finiscono: arrivare presto o non contare su un posto.",
       "Evitare il centro tra le undici e le tre: il caldo è forte e l'ombra scarsa.",
       "Nei templi e nelle moschee spalle e ginocchia coperte, scarpe tolte.",
-      "Alle bancarelle turistiche attorno ai murales i prezzi di cibo e souvenir sono doppi rispetto alle vie laterali."
+      "Alle bancarelle turistiche attorno ai murales cibo e souvenir costano di più che nelle vie laterali."
     ],
     esperienzeSlugs: ['street-food-penang'],
     tripSlugs: ['malesia-singapore'],
@@ -404,7 +398,7 @@ export const destinazioniMalesia: Destinazione[] = [
       'Autobus da Kuala Lumpur, circa 2 ore, con partenze continue dal terminal TBS. Da Malacca a Singapore ci sono autobus diretti in 4-5 ore, frontiera compresa: è la ragione per cui questa città sta in mezzo a quasi tutti gli itinerari.',
     comeSpostarsi: 'Il centro storico si gira a piedi. Per la stazione degli autobus, che è fuori città, servono un bus locale o Grab.',
     periodoMigliore: 'da dicembre a marzo. Il mercato notturno di Jonker Street c\'è solo nel fine settimana, il che condiziona la scelta dei giorni.',
-    costi: 'Baba & Nyonya Heritage Museum circa 25 ringgit, St. Paul e la Porta de Santiago gratuiti, giro in barca sul fiume attorno ai 30.',
+    costi: "Baba & Nyonya Heritage Museum a pagamento (tariffe sul sito), St. Paul e la Porta de Santiago gratuiti, giro in barca sul fiume a pagamento.",
     erroriDaEvitare: [
       'Andarci in un fine settimana aspettandosi tranquillità: da venerdì a domenica Malacca è una delle mete domestiche più battute della Malesia',
       'Farla in giornata da Kuala Lumpur: si vede solo nelle ore peggiori e si perde la sera, che è il momento in cui la città funziona',
@@ -415,7 +409,7 @@ export const destinazioniMalesia: Destinazione[] = [
     luoghi: [
       {
         nome: "Dutch Square, Christ Church e Stadthuys",
-        testo: "Il centro olandese della città, con edifici rosso mattone del Seicento: la chiesa del 1753 e il municipio, il più antico edificio olandese ancora in piedi in Asia.",
+        testo: "Il centro olandese della città, con gli edifici rosso mattone: la Christ Church del 1753 e lo Stadthuys, costruito nel 1650 come sede del governatore e considerato il più antico edificio olandese rimasto in Oriente.",
         come: "A piedi dal centro storico. Il Stadthuys ospita un museo di storia ed etnografia.",
         quando: "Al mattino, prima della folla.",
         tempo: "1 ora",
@@ -423,7 +417,7 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "St. Paul's Hill e Porta de Santiago",
-        testo: "Sulla collina stanno le rovine della chiesa portoghese del 1521, senza tetto, con lapidi olandesi lungo i muri. Ai piedi c'è la Porta de Santiago, ultima parte della fortezza A Famosa.",
+        testo: "Sulla collina stanno le rovine della chiesa nata come cappella portoghese nel 1521 e poi ingrandita dai gesuiti, con lapidi olandesi lungo i muri; fu sconsacrata quando nel 1753 aprì la Christ Church. Ai piedi c'è la Porta de Santiago, ultima parte della fortezza A Famosa.",
         come: "A piedi, con una breve salita. Dalla cima si vede lo stretto.",
         quando: "Al tramonto, con la luce che scende sullo stretto.",
         tempo: "1 ora",
@@ -440,16 +434,16 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "Baba & Nyonya Heritage Museum",
-        testo: "Una casa peranakan del 1861 conservata con gli arredi originali: legno intarsiato, porcellane e foto di famiglia. Racconta la comunità cino-malese nata dall'incontro dei mercanti cinesi con le donne locali.",
-        come: "A piedi da Jonker Street. Si visita con guida, a orari fissi.",
-        quando: "Chiuso il martedì. Negli altri feriali 10-16:15, nel fine settimana 10-16:45 (2025). La visita guidata dura circa un'ora.",
+        testo: "Una casa peranakan formata da tre lotti acquistati dalla famiglia Chan nel 1861, conservata con gli arredi originali: legno intarsiato, porcellane e foto di famiglia. Racconta la comunità cino-malese nata dall'incontro dei mercanti cinesi con le donne locali.",
+        come: "A piedi da Jonker Street.",
+        quando: "Chiuso il martedì. Negli altri feriali 10-16:15, nel fine settimana 10-16:45 (2025).",
         tempo: "1 ora",
         url: "https://www.babanyonyamuseum.com/",
-        consiglio: "Prenotare il tour appena arrivati: i gruppi sono limitati."
+        consiglio: "Controllare orari e modalità di visita sul sito prima di andare."
       },
       {
         nome: "Cheng Hoon Teng e Kampung Kling Mosque",
-        testo: "Il tempio cinese più antico della Malesia e una moschea di architettura sumatrana, a pochi passi: tre culture nella stessa strada.",
+        testo: "Il Cheng Hoon Teng, tradizionalmente datato al 1645, è considerato il più antico tempio ancora in funzione del Paese; a pochi passi ci sono la moschea di Kampung Kling e un tempio indù: tre culture nella stessa strada.",
         come: "A piedi, nella Jalan Tukang Emas, detta Harmony Street.",
         quando: "Al mattino.",
         tempo: "1 ora",
@@ -553,7 +547,7 @@ export const destinazioniMalesia: Destinazione[] = [
       'Le distanze tra i punti d\'interesse sono scomode a piedi e i mezzi pubblici sono radi: quasi tutti si aggregano a un tour di mezza giornata o prendono un taxi per la giornata. Grab funziona a singhiozzo.',
     periodoMigliore:
       'tutto l\'anno, con temperature stabili sui 15-22 gradi. Le piogge sono frequenti nel pomeriggio in ogni stagione: le uscite vanno programmate al mattino.',
-    costi: 'ingresso alle piantagioni gratuito o simbolico; tour di mezza giornata attorno ai 40-60 ringgit.',
+    costi: "ingresso alle piantagioni gratuito o simbolico; i tour di mezza giornata si pagano, con prezzi da confrontare tra le agenzie di Tanah Rata.",
     erroriDaEvitare: [
       'Andarci in un fine settimana o durante le vacanze scolastiche malesi: l\'altopiano è la meta domestica per eccellenza e le strade a tornanti diventano una coda',
       'Non portare niente di caldo: qui, unico posto del viaggio, la sera si gela',
@@ -565,16 +559,15 @@ export const destinazioniMalesia: Destinazione[] = [
     luoghi: [
       {
         nome: "Piantagioni di tè di Sungai Palas e Bharat",
-        testo: "Colline coperte di terrazze di tè a perdita d'occhio. La fabbrica della BOH a Sungai Palas offre una visita gratuita e una sala da tè con vista.",
-        come: "In auto o in tour da Tanah Rata o Brinchang, circa 30 minuti. Strade di montagna strette.",
+        testo: "Colline coperte di terrazze di tè a perdita d'occhio. Il centro della BOH a Sungai Palas ha una sala da tè con vista sulle piantagioni.",
+        come: "In auto o in tour da Tanah Rata o Brinchang. Strade di montagna strette.",
         quando: "Al mattino, con meno nebbia e meno gente.",
         tempo: "2 ore",
-        costo: "visita alla fabbrica gratuita",
         consiglio: "Prendere il tè in terrazza e guardare le colline per mezz'ora: è la parte migliore."
       },
       {
         nome: "Mossy Forest sul Gunung Brinchang",
-        testo: "Un bosco d'altura a circa 2.000 metri, tutto coperto di muschio, felci e orchidee selvatiche, con nebbia tra i rami. Si percorre su una passerella di legno.",
+        testo: "Un bosco d'altura vicino alla cima del Gunung Brinchang (2.031 metri), tutto coperto di muschio, felci e orchidee selvatiche, con nebbia tra i rami. Si percorre su una passerella di legno.",
         come: "In fuoristrada o con un tour guidato da Tanah Rata o Brinchang. Chiedere di essere portati alla parte vera, non solo alla passerella accanto al parcheggio della torre.",
         quando: "Al mattino presto: la nebbia sale a metà giornata.",
         tempo: "2-3 ore",
@@ -590,7 +583,7 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "Brinchang e il mercato",
-        testo: "Il paese più grande dell'altopiano, con il mercato dei prodotti locali, il sabato sera un mercato notturno e i ristoranti dove si mangia lo steamboat.",
+        testo: "Il paese più grande dell'altopiano, con il mercato dei prodotti locali, un mercato notturno e i ristoranti dove si mangia lo steamboat.",
         come: "A piedi da Brinchang o in bus da Tanah Rata.",
         quando: "Nel tardo pomeriggio e la sera.",
         tempo: "2 ore",
@@ -647,8 +640,8 @@ export const destinazioniMalesia: Destinazione[] = [
     ],
     attenzioni: [
       "Nei fine settimana e durante le vacanze scolastiche malesi le strade a tornanti si intasano: venire in un giorno feriale.",
-      "La sera fa freddo, sui 15 gradi: portare qualcosa di caldo.",
-      "Chi soffre l'auto: la strada di salita ha centinaia di tornanti.",
+      "La sera fa fresco, con minime medie intorno ai 15 gradi e anche meno in quota: portare qualcosa di caldo.",
+      "Chi soffre l'auto: la strada di salita è piena di tornanti.",
       "Scegliere un tour per la Mossy Forest che arrivi alla parte vera e non solo alla passerella vicino al parcheggio."
     ],
     esperienzeSlugs: ['piantagioni-te-cameron'],
@@ -690,7 +683,7 @@ export const destinazioniMalesia: Destinazione[] = [
     comeSpostarsi: 'A piedi nel parco e in barca sul fiume: non ci sono strade. Per attraversare da Kuala Tahan all\'ingresso ci sono navette a remi continue per pochi ringgit.',
     periodoMigliore:
       'da febbraio a settembre, la finestra più asciutta. Da novembre a gennaio le piogge sono forti e alcune attività vengono sospese; il livello del fiume condiziona le risalite in barca.',
-    costi: 'ingresso al parco pochi ringgit più il permesso per la macchina fotografica; canopy walkway circa 5 ringgit; le escursioni guidate 50-150 ringgit secondo la durata.',
+    costi: "per entrare nel parco serve il permesso del Dipartimento della fauna e dei parchi (spesso incluso nei pacchetti); canopy walkway ed escursioni guidate si pagano a parte, con prezzi variabili secondo la durata.",
     erroriDaEvitare: [
       'Aspettarsi di vedere tigri, elefanti o tapiri: ci sono, ma gli avvistamenti sono rarissimi e chi arriva con quell\'idea torna deluso. Qui si sente più di quanto si veda',
       'Andare senza calze antisanguisughe nella stagione umida: le sanguisughe terrestri sono numerose e arrivano dal basso',
@@ -702,15 +695,15 @@ export const destinazioniMalesia: Destinazione[] = [
     luoghi: [
       {
         nome: "Canopy walkway",
-        testo: "Una passerella sospesa a circa 40 metri tra gli alberi, una delle più lunghe al mondo. È il solo modo di guardare la foresta dall'alto e di capirne la struttura a strati.",
-        come: "A piedi dal villaggio di Kuala Tahan, circa 40 minuti di sentiero. Il permesso si compra al centro visitatori; si passa una persona alla volta.",
+        testo: "Una passerella sospesa tra le chiome degli alberi. È il solo modo di guardare la foresta dall'alto e di capirne la struttura a strati.",
+        come: "A piedi dal villaggio di Kuala Tahan, lungo un sentiero nella foresta. Il permesso si compra al centro visitatori; si passa pochi alla volta.",
         quando: "All'apertura: più tardi si va con la coda dietro.",
         tempo: "2-3 ore",
         consiglio: "Andare all'apertura per avere la passerella quasi libera."
       },
       {
         nome: "Bukit Teresek",
-        testo: "Una salita di circa 334 metri sopra la volta della foresta, con gradini e radici. In cima si vede la distesa verde e il fiume.",
+        testo: "Una salita ripida sopra la volta della foresta, con gradini e radici. In cima si vede la distesa verde e il fiume.",
         come: "A piedi da Kuala Tahan, dallo stesso sentiero della canopy walkway, con un tratto in più.",
         quando: "Al mattino presto, per il fresco.",
         tempo: "2 ore",
@@ -718,7 +711,7 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "Lata Berkoh",
-        testo: "Rapide a monte del fiume Tembeling, raggiungibili in barca lunga. Il percorso in barca, controcorrente tra due pareti di foresta, è già parte della visita.",
+        testo: "Rapide a monte del villaggio, raggiungibili risalendo il fiume in barca lunga. Il percorso in barca, controcorrente tra due pareti di foresta, è già parte della visita.",
         come: "Con barca lunga dal villaggio, a orari concordati con gli operatori. Il livello del fiume decide se si può andare.",
         quando: "Al mattino. Nella stagione delle piogge le uscite si fermano.",
         tempo: "mezza giornata",
@@ -728,7 +721,7 @@ export const destinazioniMalesia: Destinazione[] = [
         nome: "Night walk",
         testo: "Una camminata notturna con guida e torcia nella foresta: ragni, insetti, serpenti e rane, e con fortuna qualche mammifero. È il momento in cui la foresta si anima.",
         come: "Con una guida del parco o di un operatore autorizzato, dal villaggio.",
-        quando: "Dopo il tramonto, per circa due ore.",
+        quando: "Dopo il tramonto, per un paio d'ore.",
         tempo: "2 ore",
         consiglio: "È la parte che quasi tutti saltano per stanchezza ed è quella che vale."
       },
@@ -745,7 +738,7 @@ export const destinazioniMalesia: Destinazione[] = [
       {
         titolo: "2 giorni",
         tappe: [
-          "Giorno 1: arrivo in barca da Kuala Tembeling nel pomeriggio, sistemazione, night walk",
+          "Giorno 1: arrivo in barca da Kuala Tembeling (circa 2 ore e mezza di fiume), sistemazione, night walk",
           "Giorno 2: canopy walkway all'apertura, Bukit Teresek, pranzo in paese, rientro nel pomeriggio"
         ]
       },
@@ -790,7 +783,7 @@ export const destinazioniMalesia: Destinazione[] = [
       "Le sanguisughe sono numerose nella stagione umida: calze apposite e controllare le gambe a fine giornata.",
       "Non aspettarsi di vedere tigri o elefanti: gli avvistamenti sono rarissimi.",
       "Quasi nessun bancomat al villaggio: portare contanti da Kuala Lumpur o Jerantut.",
-      "Da novembre a gennaio le piogge sono forti e alcune attività sono sospese."
+      "Nella stagione delle piogge, a fine anno, i fiumi crescono e alcune attività vengono sospese: chiedere sul posto."
     ],
     esperienzeSlugs: ['canopy-walkway-taman-negara'],
     tripSlugs: ['malesia-singapore'],
@@ -832,7 +825,7 @@ export const destinazioniMalesia: Destinazione[] = [
       'Auto o scooter a noleggio sono il mezzo giusto: l\'isola è grande, i mezzi pubblici quasi inesistenti e i taxi cari rispetto al resto del paese. Guidare è semplice e le strade sono buone.',
     periodoMigliore:
       'da novembre ad aprile, la stagione secca della costa ovest, con il mare più calmo. Da maggio a ottobre le piogge sono più frequenti e in agosto-settembre può arrivare la foschia da incendi dall\'Indonesia.',
-    costi: 'funivia e Sky Bridge attorno agli 85 ringgit, giro nelle mangrovie 250-350 ringgit a barca da dividere, noleggio scooter pochi euro al giorno.',
+    costi: "funivia e Sky Bridge a pagamento (tariffe sul sito ufficiale), giro nelle mangrovie a barca da dividere, noleggio scooter economico.",
     erroriDaEvitare: [
       'Aspettarsi acque da cartolina thailandese: il mare di Langkawi è spesso torbido perché siamo alla foce di sistemi fluviali, e chi cerca il turchese resta deluso',
       'Salire alla funivia nel primo pomeriggio, quando la foschia copre la vista e la coda è lunga',
@@ -844,8 +837,8 @@ export const destinazioniMalesia: Destinazione[] = [
     luoghi: [
       {
         nome: "Langkawi Sky Bridge e funivia",
-        testo: "Una funivia sale a quasi 700 metri sul Gunung Machinchang. Da lì un ponte pedonale curvo, sospeso a 660 metri, offre vista su mare, isole e foresta.",
-        come: "Dalla stazione base a Oriental Village. Si prende la funivia e un percorso a piedi porta al ponte.",
+        testo: "La funivia sale verso la cima del Gunung Mat Cincang. Da lì si scende al ponte pedonale curvo, lungo 125 metri e sospeso a circa 660 metri sul mare, con vista su mare, isole e foresta.",
+        come: "Dalla stazione base si prende la funivia fino alla stazione alta, poi l'ascensore inclinato SkyGlide o un sentiero porta al ponte.",
         quando: "Al mattino, quando la foschia è minore e le code più corte.",
         tempo: "3 ore",
         url: "https://www.panoramalangkawi.com/",
@@ -853,7 +846,7 @@ export const destinazioniMalesia: Destinazione[] = [
       },
       {
         nome: "Mangrovie di Kilim",
-        testo: "Un geoparco UNESCO con pareti calcaree, grotte di pipistrelli, scimmie e granchi nei fanghi. Si visita in barca.",
+        testo: "Fanno parte del geoparco UNESCO di Langkawi: pareti calcaree, grotte di pipistrelli, scimmie e granchi nei fanghi. Si visita in barca.",
         come: "In barca con operatori, dall'imbarcadero di Kilim. Il giro dura qualche ora.",
         quando: "Al mattino.",
         tempo: "mezza giornata",
@@ -862,7 +855,7 @@ export const destinazioniMalesia: Destinazione[] = [
       {
         nome: "Telaga Tujuh",
         testo: "Una serie di pozze naturali in cascata, tra la foresta, con acqua fresca per un bagno dopo la salita.",
-        come: "In auto o scooter fino al parcheggio, poi 600 gradini circa fino alle pozze.",
+        come: "In auto o scooter fino al parcheggio, poi una salita a gradini fino alle pozze.",
         quando: "Al mattino presto.",
         tempo: "1 ora e mezza",
         consiglio: "Portare il costume e scarpe adatte: i gradini sono scivolosi."
@@ -870,7 +863,7 @@ export const destinazioniMalesia: Destinazione[] = [
       {
         nome: "Pantai Cenang",
         testo: "La spiaggia più attrezzata dell'isola, con bar, ristoranti e negozi. Mare spesso torbido, ma tramonto bello.",
-        come: "In scooter o taxi dall'aeroporto, circa 10 minuti.",
+        come: "In scooter o taxi dall'aeroporto, che è vicino.",
         quando: "Il tramonto.",
         tempo: "2 ore",
         consiglio: "Chi cerca il mare turchese deve andare alle Perhentian: qui c'è la vita da spiaggia."
@@ -938,7 +931,7 @@ export const destinazioniMalesia: Destinazione[] = [
       "Mare spesso torbido: chi cerca acqua turchese resta deluso, meglio puntare alle mangrovie e alle escursioni.",
       "Scooter: patente internazionale e casco, i controlli esistono.",
       "Aquile e scimmie nelle mangrovie: non dare da mangiare e chiedere all'operatore se lo fa.",
-      "Da agosto a settembre può arrivare la foschia da incendi dall'Indonesia: controllare le notizie."
+      "Nei mesi secchi può arrivare la foschia degli incendi dall'Indonesia: controllare le notizie."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['malesia-singapore'],
@@ -979,7 +972,7 @@ export const destinazioniMalesia: Destinazione[] = [
     periodoMigliore:
       'da marzo a ottobre, con i mesi migliori da aprile a settembre. **Da novembre a febbraio le isole chiudono quasi completamente** per il monsone di nord-est: le strutture serrano e i traghetti si fermano. È una chiusura vera e propria, più che una bassa stagione.',
     costi:
-      'chalet semplici da 25-50€ a notte, speedboat andata e ritorno attorno ai 70 ringgit più la tassa di conservazione marina, immersioni tra le più economiche del sud-est asiatico.',
+      "chalet semplici a prezzi bassi, speedboat andata e ritorno da Kuala Besut più la tassa di conservazione marina; immersioni tra le più economiche del sud-est asiatico.",
     erroriDaEvitare: [
       'Programmarle tra novembre e febbraio: sono chiuse, ed è l\'errore che manda a monte interi itinerari',
       'Contare sui pagamenti con carta: sulle isole si funziona quasi solo a contante e i bancomat sono pochissimi e spesso vuoti: si preleva sulla terraferma',
@@ -992,8 +985,8 @@ export const destinazioniMalesia: Destinazione[] = [
       {
         nome: "Perhentian Besar",
         testo: "L'isola grande, più tranquilla, con le spiagge migliori e meno locali serali. Il posto per chi vuole mare e silenzio.",
-        come: "In speedboat da Kuala Besut, circa 30-40 minuti. Il pagamento della tassa del parco marino si fa all'imbarco.",
-        quando: "Da aprile a settembre. Le isole chiudono da novembre a febbraio.",
+        come: "In speedboat dal molo di Kuala Besut. La tassa del parco marino (parco dal 1994) si paga all'imbarco.",
+        quando: "Nei mesi fuori monsone. Da novembre a febbraio quasi tutti i resort e i traghetti si fermano.",
         tempo: "almeno 2 notti",
         costo: "tassa di conservazione marina da pagare all'arrivo",
         consiglio: "Prenotare chalet e barca in anticipo in alta stagione."
@@ -1002,7 +995,7 @@ export const destinazioniMalesia: Destinazione[] = [
         nome: "Perhentian Kecil e Long Beach",
         testo: "L'isola piccola, con la spiaggia più animata (Long Beach), i bar sulla sabbia e la vita serale. Dall'altra parte, Coral Bay, più tranquilla.",
         come: "Speedboat da Kuala Besut; tra le spiagge con taxi-barca.",
-        quando: "Da aprile a settembre.",
+        quando: "Nei mesi fuori monsone, tra marzo e ottobre.",
         tempo: "almeno 2 notti",
         consiglio: "Chi cerca silenzio deve andare a Coral Bay o a Besar."
       },
@@ -1075,7 +1068,7 @@ export const destinazioniMalesia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Le isole chiudono da novembre a febbraio per il monsone: controllare le date prima di prenotare.",
+      "Da novembre a febbraio, con il monsone, quasi tutti i resort e i traghetti chiudono: controllare le date prima di prenotare.",
       "Contanti: pochi bancomat e spesso vuoti, si preleva sulla terraferma.",
       "Terengganu è uno stato conservatore: lontano dalle spiagge, vestirsi in modo coperto.",
       "Corrente elettrica a orari e niente aria condizionata in molti chalet."

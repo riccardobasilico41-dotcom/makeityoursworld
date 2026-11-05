@@ -46,16 +46,16 @@ export const destinazioniPolonia: Destinazione[] = [
     luoghi: [
       {
         nome: "Rynek Główny and the Cloth Hall",
-        testo: "The medieval market square, one of the largest in Europe, with the Cloth Hall (Sukiennice) at the centre and the town hall tower. Around it stand St Mary's Basilica and cafes with outdoor tables.",
+        testo: "The medieval market square, almost 4 hectares, often listed among the largest in Europe, with the Cloth Hall (Sukiennice) at the centre and the freestanding tower of the old town hall, demolished in the 19th century. Around it stand St Mary's Basilica and cafes with outdoor tables.",
         come: "From the central station on foot, 10 minutes.",
         quando: "Early morning or evening, when the lights come on; crowded by day.",
         tempo: "1-2 hours",
         costo: "free entry",
-        consiglio: "The underground museum beneath the square tells the story of the old city."
+        consiglio: "Beneath the square is an underground museum built on the foundations of the old weigh houses."
       },
       {
         nome: "St Mary's Basilica",
-        testo: "A Gothic church with the large wooden altarpiece by Veit Stoss and two unequal towers. From the taller one, every hour, plays the Hejnał mariacki, the trumpet melody that breaks off suddenly.",
+        testo: "A Gothic church with the large late-Gothic wooden altarpiece by Veit Stoss, from the end of the 15th century, and two unequal towers. From the taller one, every hour, day and night, plays the Hejnał mariacki, the trumpet melody that breaks off suddenly; the noon one goes out live on national radio.",
         come: "On the square; the interior ticket is bought at the side.",
         quando: "Morning; for the Hejnał stand on the square on the hour.",
         tempo: "45 minutes",
@@ -64,12 +64,12 @@ export const destinazioniPolonia: Destinazione[] = [
       },
       {
         nome: "Wawel Hill",
-        testo: "The hill above the Vistula with the Royal Castle, the Cathedral where Polish kings were crowned and buried, the Sigismund Bell and the Dragon's Den. The ticket is split among the different routes.",
-        come: "On foot from the centre (15 minutes). Tickets are bought in the courtyard or on the site.",
-        quando: "Early morning; many routes sell out on busy days.",
+        testo: "The hill above the Vistula with the Royal Castle and the Cathedral where Polish kings were crowned from 1320 to 1764, also their main burial place. In the Sigismund Tower hangs the 1521 bell, nearly 13 tonnes, rung only on great occasions. Exhibitions and routes have separate tickets.",
+        come: "On foot from the centre (15 minutes). Tickets are bought on site or online on the official website.",
+        quando: "Early morning, before the groups.",
         tempo: "3 hours",
         url: "https://wawel.krakow.pl",
-        consiglio: "Book routes online: those without booking are few."
+        consiglio: "On busy days it pays to buy online in advance."
       },
       {
         nome: "Kazimierz",
@@ -82,25 +82,25 @@ export const destinazioniPolonia: Destinazione[] = [
       },
       {
         nome: "Schindler's Factory and Podgórze",
-        testo: "The museum in Oskar Schindler's former factory tells of Nazi-occupied Kraków. Nearby is Ghetto Heroes Square, with rows of empty metal chairs recalling the ghetto.",
-        come: "Tram 3/9/19/24 to Zabłocie or on foot from Kazimierz (15 minutes).",
-        quando: "Morning; timed tickets.",
+        testo: "The museum in Oskar Schindler's former factory tells of Nazi-occupied Kraków. Nearby is Ghetto Heroes Square, with 70 empty chairs recalling the ghetto.",
+        come: "By tram to the Zabłocie district or on foot from Kazimierz.",
+        quando: "Morning.",
         tempo: "2-3 hours",
         url: "https://muzeumkrakow.pl",
-        consiglio: "Book days ahead, especially in summer."
+        consiglio: "Tickets and hours on the Museum of Kraków website; in summer buy ahead."
       },
       {
         nome: "Wieliczka Salt Mine",
-        testo: "A thirteenth-century salt mine, a UNESCO site, 30 minutes from Kraków. The tourist route descends to 135 metres, with chapels carved in salt, underground lakes and the Chapel of St Kinga.",
-        come: "Train or bus from Kraków (30 minutes), then on foot to the entrance.",
+        testo: "A salt mine dug from the 13th century, on the first UNESCO list of 1978, in the town of Wieliczka near Kraków. The tourist route, about 2.2 km on the first three levels, passes chapels carved in salt, brine lakes and the Chapel of St Kinga, where weddings are also held.",
+        come: "Train or bus from Kraków, then on foot to the entrance.",
         quando: "All day; book online.",
         tempo: "3-4 hours",
         url: "https://www.wieliczka-saltmine.com",
-        consiglio: "Bring a jacket: underground it is 14 degrees all year."
+        consiglio: "Bring a jacket: underground it is cool even in summer."
       },
       {
         nome: "Planty and Barbican",
-        testo: "The ring of parks on the line of the demolished walls, surrounding the old town, with the Barbican and St Florian's Gate as the last surviving stretch of the fortifications.",
+        testo: "The ring of parks on the line of the demolished walls, surrounding the old town, with St Florian's Gate and the Barbican, saved when the walls were demolished in the 19th century: the Barbican is one of only three such fortified outposts left in Europe.",
         come: "On foot, around the centre.",
         quando: "Morning or evening, with soft light.",
         tempo: "1 hour",
@@ -166,15 +166,15 @@ export const destinazioniPolonia: Destinazione[] = [
       },
       {
         nome: "Żurek",
-        testo: "Sour rye soup with sausage and egg, served in a bread bowl."
+        testo: "Sour rye soup with sausage and egg, often served in a bread bowl."
       }
     ],
     attenzioni: [
-      "Taxis: use Bolt or iTaxi and not those parked near the square.",
+      "Taxis: use only official ones, with the company name and phone on door and roof and the rates displayed; those with a crest but no name are not official.",
       "Horse carriages: high and unclear fares, agree beforehand.",
       "Exchange: use ATMs and refuse to pay in euros.",
-      "Wawel and Schindler sell out: book ahead.",
-      "Pickpockets in the crowded venues of Kazimierz and on trams."
+      "Nightlife: check the bill carefully when paying by card at the end of the night and do not leave drinks unattended.",
+      "Pickpockets in crowded and tourist spots, at stations and on trains."
     ],
     esperienzeSlugs: ['wieliczka-miniera-di-sale', 'kazimierz-food-vodka-tour'],
     tripSlugs: ['cracovia-weekend'],
@@ -222,17 +222,17 @@ export const destinazioniPolonia: Destinazione[] = [
       {
         nome: "Auschwitz I (Museum)",
         testo: "The first camp, with the 'Arbeit macht frei' sign at the entrance, the museum blocks with national exhibitions and the display cases of victims' personal belongings. It is the place of memory where you grasp the scale of the extermination.",
-        come: "From Kraków bus station, bus or shuttle to Oświęcim (about 1.5 hours); visit with the pass, on your own or with a guide.",
-        quando: "Early morning, when it is less crowded; booking is required.",
+        come: "From Kraków bus station, bus or minibus to Oświęcim; the museum is about 2 km from the railway station.",
+        quando: "The personal pass must be booked online; for most of the day entry is only with a guide.",
         tempo: "3.5 hours for the guided route",
         costo: "entry is free but requires a time-slot pass",
         url: "https://www.auschwitz.org",
-        consiglio: "Large bags are not allowed: check the sizes on the website before leaving."
+        consiglio: "Backpacks and bags cannot exceed 35x25x15 cm: larger ones must be left outside."
       },
       {
         nome: "Auschwitz II-Birkenau",
         testo: "The actual extermination camp, much larger, with the entrance railway, the selection ramp and the surviving wooden barracks. The international monument among the remains of the crematoria remembers the victims.",
-        come: "Free shuttle from Auschwitz I (about 3 km).",
+        come: "With the guided tour the transfer from Auschwitz I is included.",
         quando: "After the visit to Auschwitz I.",
         tempo: "1.5-2 hours",
         url: "https://www.auschwitz.org",
@@ -240,17 +240,17 @@ export const destinazioniPolonia: Destinazione[] = [
       },
       {
         nome: "Booking and visiting rules",
-        testo: "The Museum runs a system of time-slot passes; guided visits are available in Italian. At some hours the guided tour is mandatory.",
-        come: "Tickets are bought only from the official website, weeks ahead in summer.",
+        testo: "The Museum runs a system of personal passes, limited in number. Guided tours for individuals (about 3.5 hours) run in several languages, English included. For most of the day entry is only with a guide; without a guide, with the free pass, only at the hours shown on the website (from 5pm, April to September).",
+        come: "Bookings are made only online, at visit.auschwitz.org; in summer well ahead.",
         quando: "Avoid weekends and holidays.",
         url: "https://www.auschwitz.org",
         consiglio: "Beware of resellers: the official site is the only reliable one."
       }
     ],
     attenzioni: [
-      "Children under 14 are not recommended: the exhibitions are very hard.",
+      "The exhibitions are very hard: think carefully before bringing children.",
       "Allow for the visit being emotionally heavy: plan the rest of the day calmly.",
-      "On site you cannot film or photograph in certain rooms: follow the signs."
+      "For photos and filming follow the signs: some spaces do not allow them."
     ],
     esperienzeSlugs: ['auschwitz-birkenau-visita-guidata'],
     tripSlugs: ['cracovia-weekend'],

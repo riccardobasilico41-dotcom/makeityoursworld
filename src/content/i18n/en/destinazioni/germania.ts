@@ -50,13 +50,13 @@ export const destinazioniGermania: Destinazione[] = [
     luoghi: [
       {
         nome: "Reichstag and dome",
-        testo: "Seat of the Bundestag, with the glass dome designed by Norman Foster and finished in 1999. A spiral ramp leads to the top, with views of the city and of the Parliament below you.",
-        come: "Free entry but online registration is mandatory on the Bundestag website; bring ID. Security checks at the entrance.",
-        quando: "Evening, for the city lights; register days in advance.",
+        testo: "Seat of the Bundestag, with the glass dome designed by Norman Foster and finished in 1999. A 230-metre path goes up and down inside the dome, with views of the city and of the Parliament chamber below you.",
+        come: "Free entry with mandatory registration on the Bundestag website (name and date of birth of every visitor). At the entrance, security checks and original photo ID.",
+        quando: "Evening, for the city lights: entry every quarter hour, last entry at 21:45. Register days in advance.",
         tempo: "1.5 hours",
         costo: "free entry, registration required",
         url: "https://www.bundestag.de",
-        consiglio: "The audio guide is free and included."
+        consiglio: "On the terrace there is a 20-minute audio guide in twelve languages."
       },
       {
         nome: "Brandenburg Gate",
@@ -65,13 +65,13 @@ export const destinazioniGermania: Destinazione[] = [
         quando: "Early morning or evening, for photos without crowds.",
         tempo: "30 minutes",
         costo: "free entry",
-        consiglio: "Beware of fake soldiers who ask for money for photos."
+        consiglio: "In the evening the gate is lit and the square empties."
       },
       {
         nome: "Holocaust Memorial",
-        testo: "A field of 2,711 concrete stelae by Peter Eisenman, in which you walk in a disorienting landscape. Below the memorial is an information centre with personal stories.",
+        testo: "A field of over 2,700 concrete stelae by Peter Eisenman, in which you walk in a disorienting landscape. Below the memorial is an information centre with personal stories.",
         come: "On foot from the Brandenburg Gate (5 minutes).",
-        quando: "All day, always open; the information centre is closed on Mondays.",
+        quando: "The field is open day and night; the information centre (free) opens Tuesday to Sunday, 10-18.",
         tempo: "1 hour",
         costo: "free entry",
         url: "https://www.stiftung-denkmal.de",
@@ -80,8 +80,8 @@ export const destinazioniGermania: Destinazione[] = [
       {
         nome: "Berlin Wall Memorial (Bernauer Straße)",
         testo: "The best-preserved stretch of the Wall, with the original death strip, the watchtower and the documentation centre. A walkway above the strip shows what the division looked like.",
-        come: "S-Bahn to Nordbahnhof, 5 minutes on foot.",
-        quando: "Morning; documentation centre closed on Mondays.",
+        come: "S-Bahn to Nordbahnhof (S1, S2, S25, S26) or U8 to Bernauer Straße.",
+        quando: "Morning. The outdoor exhibition is open daily 8-22; the documentation centre Tuesday to Sunday, 10-18.",
         tempo: "1.5-2 hours",
         costo: "free entry",
         url: "https://www.stiftung-berliner-mauer.de",
@@ -91,7 +91,7 @@ export const destinazioniGermania: Destinazione[] = [
         nome: "Topography of Terror",
         testo: "The documentation centre on the site of the former Gestapo and SS headquarters, with a stretch of the Wall. The exhibition explains how Nazi repression worked.",
         come: "On foot from Potsdamer Platz (10 minutes).",
-        quando: "Weekday morning.",
+        quando: "Every day, 10-20.",
         tempo: "1.5-2 hours",
         costo: "free entry",
         url: "https://www.topographie.de",
@@ -100,16 +100,16 @@ export const destinazioniGermania: Destinazione[] = [
       {
         nome: "Museum Island",
         testo: "A UNESCO site since 1999, with five museums including the Neues Museum (with the bust of Nefertiti), the Altes Museum and the Alte Nationalgalerie. The Pergamonmuseum has been fully closed since 2023: the north wing with the Pergamon Altar reopens on 4 June 2027, the south wing with the Ishtar Gate around 2037. Meanwhile, Pergamonmuseum. Das Panorama, opposite the island, shows the panorama of ancient Pergamon.",
-        come: "S-Bahn to Hackescher Markt, 10 minutes on foot. A combined ticket for the island exists.",
-        quando: "Weekday morning; book the entry time online.",
+        come: "S-Bahn to Hackescher Markt, 10 minutes on foot. The Museumsinsel Ticket covers all the island's museums on one day.",
+        quando: "Weekday morning. The Neues Museum is closed on Mondays and opens 10-18 on other days.",
         tempo: "half a day",
         url: "https://www.smb.museum",
-        consiglio: "Book the Neues Museum ahead: entry for Nefertiti is timed."
+        consiglio: "Nefertiti is in the north dome hall of the Neues Museum: tickets and prices on the official website."
       },
       {
         nome: "East Side Gallery",
-        testo: "1.3 km of the Wall left standing along the Spree in Friedrichshain, painted by over a hundred artists in 1990: the longest open-air art gallery in the world.",
-        come: "S-Bahn to Ostbahnhof or Warschauer Straße.",
+        testo: "About 1.3 km of the Wall left standing along the Spree in Friedrichshain, painted in spring 1990 by 118 artists from 21 countries: possibly the largest open-air gallery in the world.",
+        come: "S-Bahn to Ostbahnhof, at one end; the Oberbaum Bridge is at the other.",
         quando: "Morning or late evening, with fewer people.",
         tempo: "1-1.5 hours",
         costo: "free entry",
@@ -117,9 +117,9 @@ export const destinazioniGermania: Destinazione[] = [
       },
       {
         nome: "Mauerpark",
-        testo: "A park on the old route of the Wall, known for its Sunday flea market and open-air karaoke.",
-        come: "U-Bahn to Bernauer Straße or Eberswalder Straße.",
-        quando: "Sunday, from 10 to 18.",
+        testo: "A park on the old route of the Wall, known for the flea market held every Sunday since 2004 and for Bearpit Karaoke, on Sunday afternoons when the weather allows, from spring to autumn.",
+        come: "On foot from the Berlin Wall Memorial on Bernauer Straße.",
+        quando: "Sunday.",
         tempo: "2 hours",
         costo: "free entry",
         consiglio: "The karaoke in the amphitheatre is an experience for locals."
@@ -182,7 +182,7 @@ export const destinazioniGermania: Destinazione[] = [
       },
       {
         nome: "Döner Kebab",
-        testo: "The Berlin invention of the kebab in bread: the city's most famous street version."
+        testo: "The kebab in bread was born and spread in 1970s West Berlin, thanks to Turkish immigrants: the city's most famous street food."
       },
       {
         nome: "Berliner (Pfannkuchen)",
@@ -194,10 +194,9 @@ export const destinazioniGermania: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "BVG tickets: validate paper ones and keep the ticket with you, the fine is 60 euros.",
-      "Cash: many places do not accept cards, bring some.",
-      "Pickpockets at Alexanderplatz, Kottbusser Tor and Brandenburger Tor.",
-      "Fake soldiers and petitions (often signature requests for deaf people) near monuments: ignore them.",
+      "BVG tickets: validate paper ones and keep the ticket with you, checks are frequent and fines are steep.",
+      "Cash: some places only take cash, bring some.",
+      "Pickpockets: take care at stations, on crowded transport and in tourist spots.",
       "On Sundays almost all shops are closed."
     ],
     esperienzeSlugs: ['reichstag-cupola', 'museumsinsel-pergamon', 'east-side-gallery', 'berlino-clubbing'],

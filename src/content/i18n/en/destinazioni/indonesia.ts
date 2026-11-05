@@ -90,25 +90,25 @@ export const destinazioniIndonesia: Destinazione[] = [
     luoghi: [
       {
         nome: "Bukit Lawang and the Gunung Leuser",
-        testo: "The village on the Bohorok river at the gates of Gunung Leuser National Park, one of the last habitats of Sumatran orangutans. In the area live former rehabilitated orangutans now wild. Leuser is the last ecosystem in the world where orangutans, tigers, rhinos and elephants coexist.",
-        come: "From Medan by car or minibus, 3-4 hours. The trek is done only with a certified guide, on foot in the jungle, for half a day or several days.",
-        quando: "From June to September, the driest season. Set out at dawn.",
+        testo: "The village on the Bohorok River at the gates of Gunung Leuser National Park, one of the two remaining habitats of the Sumatran orangutan. Formerly rehabilitated orangutans, now wild, live in the area. The park is also home to the Sumatran elephant, tiger and rhinoceros.",
+        come: "From Medan by car or minibus, a few hours depending on traffic. Treks are only done with a certified guide, on foot in the jungle, for half a day or several days.",
+        quando: "In the drier months, when the trails are less muddy. Head out at dawn.",
         tempo: "2-3 days",
         consiglio: "Explicitly refuse, already when booking, guides who lure animals with food."
       },
       {
         nome: "Lake Toba",
         testo: "The largest volcanic lake in the world, born of an enormous eruption. Cool water, green shores, villages and a large island in the middle, Samosir.",
-        come: "From Medan by car or bus to Parapat (4-5 hours), then ferry to Tuk Tuk on Samosir island.",
+        come: "From Medan by car or bus to Parapat, several hours on the road, then a ferry to Tuk Tuk on Samosir Island.",
         quando: "All year, better in the morning and in the dry season.",
         tempo: "2-3 days",
         consiglio: "After Bukit Lawang it is the ideal decompression: slow pace, no hurry."
       },
       {
         nome: "Samosir Island and the Batak villages",
-        testo: "The Batak are Christian and live in saddle-roofed houses with carved facades. At Tomok are the stone tombs of the Sidabutar kings, at Ambarita the stone assembly chairs.",
+        testo: "The Toba Batak are overwhelmingly Christian and live in saddle-roofed houses with carved façades. In Tomok there are the stone tombs of the Sidabutar kings, in Ambarita the stone chairs of the assemblies.",
         come: "By rented scooter or car from Tuk Tuk, along the road that circles the island.",
-        quando: "In the morning. Some ceremonies and Sigale-gale dances are held on particular days.",
+        quando: "In the morning. The Sigale-gale puppet dances are staged mostly for visitors, in some villages.",
         tempo: "1 day",
         consiglio: "Rent a scooter and circle the island slowly, stopping in villages."
       },
@@ -122,7 +122,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "Medan: Istana Maimun and markets",
-        testo: "The starting city of almost every trip to northern Sumatra. The palace of the Sultan of Deli, from 1888, and the markets are the most interesting stops.",
+        testo: "The starting city for almost every trip in northern Sumatra. The palace of the Sultan of Deli, built between 1887 and 1891 and still owned by the sultanate, and the markets are the most interesting stops.",
         come: "The palace is in the centre, by taxi or Grab.",
         quando: "In the morning.",
         tempo: "2 hours",
@@ -167,7 +167,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     sapori: [
       {
         nome: "Nasi padang",
-        testo: "Rice with ten or fifteen ready dishes in a display: you point to what you want and pay for what you touch. Born in West Sumatra."
+        testo: "Rice with many ready-made dishes brought to the table or shown in the window: you pick what you want and pay for what you touch. It comes from West Sumatra."
       },
       {
         nome: "Sumatran coffee",
@@ -236,8 +236,8 @@ export const destinazioniIndonesia: Destinazione[] = [
     luoghi: [
       {
         nome: "Borobudur",
-        testo: "The largest Buddhist temple in the world, from the 9th century, with nine terraces and hundreds of stone reliefs. At dawn, with mist on the plain, it is one of the few places that lives up to its myth.",
-        come: "From Yogyakarta by car or bus, about 1.5 hours. Climbing the structure has limited places, with guide and special sandals: booked online on the official site well in advance.",
+        testo: "The largest Buddhist temple in the world, from the 9th century, with nine stacked platforms, six square and three circular, and more than 2,600 stone relief panels. At dawn, with mist over the plain, it's one of the few places that lives up to its legend.",
+        come: "From Yogyakarta, about 40 km to the southeast, by car or bus. Climbing the monument is capped, with a guide and special sandals: book online on the official website well in advance.",
         quando: "At sunrise or sunset, with dedicated paid packages. Climbing the structure is split into time slots with a fixed quota and sells out.",
         tempo: "3 hours",
         costo: "Two different tickets: the park, and the climb up the structure, which includes a guide and upanat sandals. Foreigner rates are higher than for Indonesians: current prices on the official website.",
@@ -246,9 +246,9 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "Prambanan",
-        testo: "The largest Hindu temple complex in Indonesia, from the 9th century, with towers dedicated to Shiva, Vishnu and Brahma. The reliefs tell the Ramayana.",
-        come: "From Yogyakarta by Trans Jogja bus or taxi, about 40 minutes. Visited alone or with a guide.",
-        quando: "In the morning or at sunset. On Mondays, for maintenance, only the park around the temples can be visited: check the official website. On scheduled evenings, open-air Ramayana ballet.",
+        testo: "The largest Hindu temple complex in Indonesia, from the mid-9th century, with towers dedicated to Shiva, Vishnu and Brahma; Shiva's is 47 metres tall. The reliefs of the Shiva and Brahma temples tell the Ramayana.",
+        come: "About 17 km from Yogyakarta, by Trans Jogja bus or taxi. Visit on your own or with a guide.",
+        quando: "In the morning or at sunset. On Mondays, for maintenance, only the park around the temples can be visited: check the official website. On some evenings, often at full moon, the Ramayana ballet is staged at the open-air Trimurti theatre.",
         tempo: "2 hours",
         costo: "About 25 USD for foreign adults (IDR 387,500, 2025); a combined ticket with Borobudur or Ratu Boko exists.",
         url: "https://borobudurpark.com/",
@@ -256,7 +256,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "Yogyakarta Kraton and Taman Sari",
-        testo: "The sultan's palace, still in use, with a museum and gamelan performances. A few steps away, Taman Sari, the 18th-century water garden.",
+        testo: "The sultan's palace, still in use, with a museum and gamelan performances. Within the Kraton grounds is Taman Sari, the «water castle» built between 1758 and 1765, with pools and gates that could flood the complex.",
         come: "On foot or by becak from Malioboro.",
         quando: "In the morning. The Kraton has reduced hours on ceremony days.",
         tempo: "2 hours",
@@ -268,15 +268,15 @@ export const destinazioniIndonesia: Destinazione[] = [
         come: "From Cemoro Lawang or Surabaya by 4x4 jeep booked the evening before. You leave in the middle of the night. The ticket is bought online on the park's official website, before the visit.",
         quando: "At dawn; from April to October the sky is clearer.",
         tempo: "half a day",
-        costo: "Since 30 October 2024 a single foreigner rate of IDR 255,000 per day, weekdays and holidays (source: Metro TV); jeep extra. Check the park website: rates have changed often.",
+        costo: "Foreigner ticket bought online on the park website: fares have changed several times and sources disagree, so check the amount there. Jeep extra.",
         url: "https://bromotenggersemeru.org/",
         consiglio: "Dawn from Penanjakan is spectacular but crowded with jeeps: go knowing it."
       },
       {
         nome: "Kawah Ijen and the blue fire",
-        testo: "A crater with a turquoise lake of sulfuric acid and, at night, the blue flames of burning gases. Sulfur miners work at the bottom, with baskets of eighty kilos.",
-        come: "From Banyuwangi or Licin by car to Paltuding, then about 3 hours on foot including the descent into the crater. A real gas mask is needed. Tickets are bought online; the park also asks for a recent health certificate (often arranged by hotels and tours).",
-        quando: "The Paltuding gate opens at 2:00 and closes at noon; the blue fire is visible before 4:00. The crater closes one day a month for cleanup and in bad weather or volcanic activity.",
+        testo: "The largest strongly acidic crater lake in the world, about a kilometre wide and turquoise, and at night the blue flames of burning sulphur gas. Sulphur miners work in the crater, carrying loads of 75 to 90 kilos on their shoulders.",
+        come: "From Banyuwangi or Licin by car to Paltuding, then about two hours on foot to the crater rim and another 45 minutes down towards the lake, where allowed. A real gas mask is needed. Tickets are bought online; the park also asks for a recent medical certificate (hotels and tours often arrange it).",
+        quando: "The Paltuding gate opens at 2am and closes at noon; the blue fire is only visible in the dark, before dawn. The crater closes one day a month for cleaning and in bad weather or volcanic activity.",
         tempo: "half a day",
         costo: "Foreigners IDR 100,000 on weekdays and IDR 150,000 at weekends and on holidays (2025).",
         url: "https://ayoketamannasional.kehutanan.go.id/en/taman-wisata-alam/kawah-ijen",
@@ -406,7 +406,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       {
         nome: "Ubud and the Tegalalang rice terraces",
         testo: "The cultural heart of Bali, with temples, workshops, dances and terraced rice fields around. Tegalalang is the most photographed, but the interior has less-trodden valleys.",
-        come: "From Denpasar or the south by car with driver or scooter, about an hour and a half. The rice fields are visited on foot.",
+        come: "From Denpasar or the south by car with driver or scooter: with traffic it can take up to an hour and a half. The rice terraces are visited on foot.",
         quando: "In the morning, before the groups.",
         tempo: "1 day",
         consiglio: "Twenty kilometers inland are enough to find flower offerings in front of houses and temples in use again."
@@ -421,8 +421,8 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "Uluwatu Temple and Kecak dance",
-        testo: "A temple on a cliff above the sea. At sunset, in the amphitheatre, the Kecak dance is held: seventy men seated in a circle make all the music with their voices.",
-        come: "From Canggu or Seminyak by car or scooter, about an hour. Macaques are everywhere.",
+        testo: "A temple on a cliff dropping sheer into the sea. In the evening the Kecak dance is held in the amphitheatre: dozens of men, sometimes more than a hundred, sit in a circle and make all the music with their voices, without instruments, telling the Ramayana.",
+        come: "From Canggu or Seminyak by car or scooter; with traffic allow at least an hour. There are macaques everywhere.",
         quando: "At sunset.",
         tempo: "2-3 hours",
         consiglio: "Arrive early to get a good seat in the amphitheatre."
@@ -430,23 +430,23 @@ export const destinazioniIndonesia: Destinazione[] = [
       {
         nome: "Tanah Lot",
         testo: "A temple on an offshore rock, surrounded by the tide. One of the most photographed sunset spots in Bali.",
-        come: "By car from Canggu, about 30 minutes. At low tide you can reach the base of the rock.",
+        come: "By car from Canggu, a short way along the coast. At low tide you can reach the foot of the rock.",
         quando: "At sunset, but it is crowded.",
         tempo: "1.5 hours",
         consiglio: "Check the tide: at low tide it is more striking."
       },
       {
         nome: "Sunrise on Gunung Batur",
-        testo: "A night trek to the volcano top for sunrise over the caldera and lake. A climb of about two hours.",
-        come: "With a mandatory guide, leaving from Toya Bungkah or nearby villages around 3 a.m.",
-        quando: "Leaving in the dead of night, sunrise from 6.",
+        testo: "A night trek to the top of the volcano, 1,717 metres, for sunrise over the caldera and Lake Batur. The climb takes a few hours and isn't technical.",
+        come: "With a local guide, starting from Toya Bungkah or nearby villages in the middle of the night.",
+        quando: "Start in the middle of the night to be at the top for sunrise.",
         tempo: "half a day",
         consiglio: "Bring a jacket: it is cold at the top."
       },
       {
         nome: "Nusa Penida: Kelingking Beach",
         testo: "A dinosaur-shaped cliff above a beach, the island's most photographed spot. With Angel's Billabong and Manta Bay it completes the tour.",
-        come: "By fast boat from Sanur or Padang Bai, about 45 minutes, then car or scooter on the island.",
+        come: "By fast boat from Sanur or Padang Bai, then car or scooter on the island.",
         quando: "On the first boat in the morning, to avoid the queue on the steep path.",
         tempo: "1 day",
         consiglio: "Sleeping a night on Nusa Penida avoids the double crossing in one day."
@@ -564,8 +564,8 @@ export const destinazioniIndonesia: Destinazione[] = [
       {
         nome: "Rantepao and the tongkonan villages",
         testo: "The heart of Tana Toraja, with boat-roofed houses (tongkonan) and rice fields. Kete Kesu is the best-preserved village, with houses, granaries and tombs.",
-        come: "From Makassar by night bus or car, about 8 hours, or by domestic flight. Villages are visited with a guide.",
-        quando: "From May to October. In the dry months funerals are concentrated.",
+        come: "Toraja is about 300 km north of Makassar: a long trip by night bus or car, or by domestic flight. The villages are visited with a guide.",
+        quando: "In the dry season. Funeral dates are set by the families: the guide will know if one is taking place.",
         tempo: "2-3 days",
         consiglio: "Take a local guide who explains the symbols: without one you lose half the meaning."
       },
@@ -579,23 +579,23 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "A Toraja funeral",
-        testo: "A funeral lasts days, gathers hundreds of people and includes buffalo sacrifice. Families save for years. It is an extremely expensive celebration, not a sober mourning.",
+        testo: "A funeral lasts several days, often draws hundreds of people and involves sacrificing buffalo. Families save for years. It's an extremely expensive celebration, not a sober mourning.",
         come: "Only with a guide who explains the etiquette. You bring a gift, usually sugar or cigarettes, and stay where the guide says.",
-        quando: "Especially from July to September.",
+        quando: "Whenever the family holds it: dates aren't fixed and you find out locally, through the guide.",
         tempo: "half a day",
         consiglio: "Be prepared to see striking things. To organize the trip: Wale Adventure (wale-adventure.com), a local operator."
       },
       {
         nome: "Bunaken National Marine Park",
-        testo: "Coral walls dropping sheer for hundreds of meters. Among the best places in the world for snorkeling and boat dives.",
-        come: "From Manado by boat from the pier, about 40-60 minutes. Packages of one or more nights.",
-        quando: "From May to October.",
+        testo: "Vertical coral walls and clear water, with thirteen genera of coral. One of the best-known places in the world for snorkelling and boat diving.",
+        come: "By boat from Manado harbour. Packages of one or more nights.",
+        quando: "In the months with the calmest sea: ask the dive operators.",
         tempo: "2-3 days",
         consiglio: "Whoever arrives after Toraja experiences it as a counterweight: two different faces of the island."
       },
       {
         nome: "Fort Rotterdam and Makassar",
-        testo: "The 17th-century Dutch fort on the harbor, with a museum. The city is the starting point for Toraja.",
+        testo: "The fort on the harbour, originally a fortress of the Gowa kingdom and rebuilt by the Dutch VOC between 1673 and 1679, with the La Galigo museum. The city is the starting point for Toraja.",
         come: "On foot or by taxi from the centre of Makassar.",
         quando: "In the morning.",
         tempo: "1-2 hours",
@@ -702,15 +702,15 @@ export const destinazioniIndonesia: Destinazione[] = [
     luoghi: [
       {
         nome: "The Gili islands: Trawangan, Meno and Air",
-        testo: "Three islands with no cars or scooters, explored on foot, by bike or by horse cart (cidomo). Trawangan is the party island, Air the most mixed, Meno the quietest. Turtles are seen straight from the beach.",
-        come: "Fast boat from Bali (Padang Bai or Sanur) or from Bangsal, the port on Lombok's north coast. On the Gilis you walk or take a cidomo.",
-        quando: "From April to November. Quieter during the day.",
+        testo: "Three islands where cars and motorbikes are banned by local ordinance: you get around on foot, by bike or by horse cart (cidomo). Trawangan is the largest and the party island, Meno the quietest, Air somewhere in between. Turtles can be seen on the reefs close to shore.",
+        come: "Fast boat from Bali (Padang Bai, about 1.5-2.5 hours) or local boat from Bangsal, the port on Lombok's north coast. On the Gilis you walk or take a cidomo.",
+        quando: "In the dry season. Meno is the quietest at any time.",
         tempo: "2-3 days",
         consiglio: "Choose the island by character: party on Trawangan, calm on Meno."
       },
       {
         nome: "Snorkeling with turtles",
-        testo: "Green turtles graze on the sandy bottoms near the shore on all three islands. No boat or guide needed.",
+        testo: "Green turtles graze on the reefs close to shore, for example along the east coast of Gili Air; Gili Meno also has a turtle sanctuary. No boat or guide needed.",
         come: "You enter the water from the beach, with rented mask and fins.",
         quando: "In the morning, with calmer water.",
         tempo: "1-2 hours",
@@ -718,11 +718,10 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "Trek to Gunung Rinjani",
-        testo: "Indonesia's second highest volcano, 3,726 meters. From the crater rim you see Segara Anak lake. The route is long and exposed and ends on volcanic sand.",
-        come: "From Senaru or Sembalun, with a guide required by law. Packages of 2-4 days with porters and tents.",
-        quando: "From April to December; closed in the rainy season.",
-        tempo: "2-4 days",
-        url: "https://rinjaninationalpark.com/",
+        testo: "Indonesia's second-highest volcano, 3,726 metres. From the crater rim you see Lake Segara Anak, at about 2,000 metres. The route is long and exposed and ends on volcanic sand.",
+        come: "From Senaru or Sembalun, only with a licensed operator and a guide. You must register online on the official eRinjani system, with a recent medical certificate and insurance; since 2026 each guide can take at most four trekkers. Multi-day packages with porters and tents.",
+        quando: "In the dry season. With rain, bad weather or after accidents the park may close the trails: check eRinjani before booking.",
+        tempo: "several days",
         consiglio: "The camp on the rim is windy and you sleep little: waking above the clouds with the lake below pays off everything."
       },
       {
@@ -736,7 +735,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       {
         nome: "Southern beaches: Kuta, Tanjung Aan, Selong Belanak",
         testo: "Bays of pale sand and surf waves, much less crowded than Bali.",
-        come: "By scooter or car from Kuta Lombok. From the airport about 30 minutes.",
+        come: "By scooter or car from Kuta Lombok, which is close to the airport.",
         quando: "In the morning or at sunset.",
         tempo: "1 day",
         consiglio: "Selong Belanak is the best for beginner surfers."
@@ -787,7 +786,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     sapori: [
       {
         nome: "Ayam taliwang",
-        testo: "Grilled chicken in a chili sauce that does not spare you. In Sasak the island's name means chili."
+        testo: "Grilled chicken in a chilli sauce that takes no prisoners, Lombok's best-known dish."
       },
       {
         nome: "Grilled fish at Trawangan night market",
@@ -803,7 +802,7 @@ export const destinazioniIndonesia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Rinjani: guide required by law. Underestimating the effort and altitude is the most common mistake.",
+      "Rinjani: a guide, a licensed operator and eRinjani registration are compulsory. Underestimating effort and altitude is the most common mistake.",
       "Trawangan in the evening is more party than it looks; Meno is the opposite. Choose one by character.",
       "Crossings from Bali: the sea can be rough; avoid booking overly tight transfers.",
       "On the Gilis, currents and boats: do not swim far from the shore."
@@ -854,8 +853,8 @@ export const destinazioniIndonesia: Destinazione[] = [
     luoghi: [
       {
         nome: "Rinca Island",
-        testo: "One of the two islands where Komodo dragons live, wilder and less crowded than Komodo island. The dragons are almost always still in the shade, but they are dangerous predators.",
-        come: "By boat from Labuan Bajo, about 2 hours. You walk on trails with a ranger, who carries only a forked stick.",
+        testo: "After Komodo it's the park island with the most dragons, about 1,300, wilder and less crowded. The dragons almost always lie still in the shade, but they are dangerous predators.",
+        come: "By boat from Labuan Bajo: the time depends on the type of boat. You walk the trails with a ranger, who carries only a forked stick.",
         quando: "In the morning, in the cooler hours.",
         tempo: "half a day",
         url: "https://komodonationalpark.org/",
@@ -863,8 +862,8 @@ export const destinazioniIndonesia: Destinazione[] = [
       },
       {
         nome: "Komodo Island and Loh Liang",
-        testo: "The island that gives the park its name. Short trails start from Loh Liang and lead to areas where dragons are seen.",
-        come: "By boat from Labuan Bajo, about 3-4 hours. With a mandatory ranger.",
+        testo: "The island that gives the park its name and the one with the most dragons, about 1,700. Short trails start from Loh Liang and lead to areas where dragons can be seen.",
+        come: "By boat from Labuan Bajo, farther than Rinca. With a compulsory ranger.",
         quando: "In the morning.",
         tempo: "half a day",
         url: "https://komodonationalpark.org/",
@@ -874,7 +873,7 @@ export const destinazioniIndonesia: Destinazione[] = [
         nome: "Padar Island",
         testo: "A short steep climb on a ridge, and below three bays with sands of different colors: the park's most famous viewpoint.",
         come: "By boat from Labuan Bajo with a tour, often as the first stop of the morning.",
-        quando: "At dawn, very early: from eight the queue on the trail is continuous and the heat is felt.",
+        quando: "At dawn, very early: soon after, the groups arrive, the queue on the trail is constant and the heat kicks in.",
         tempo: "1.5 hours",
         consiglio: "Going up at first light is the only way to have the view without the queue."
       },
@@ -890,7 +889,7 @@ export const destinazioniIndonesia: Destinazione[] = [
         nome: "Kanawa, Kelor and Manta Point",
         testo: "Islands and snorkeling spots with coral reef and, in some places, manta rays.",
         come: "By boat on one-day or multi-day tours.",
-        quando: "From April to December, with calmer sea.",
+        quando: "In the months with the calmest sea; ask the crew.",
         tempo: "half a day",
         consiglio: "Strong currents between islands: listen to the crew's instructions."
       }
@@ -944,7 +943,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     attenzioni: [
       "Approach the dragons only with a ranger: they are dangerous predators.",
       "Rough sea and strong currents between islands: listen to the crew and do not swim alone.",
-      "At Padar the queue on the trail from eight onward: climb at dawn.",
+      "At Padar the queue on the trail builds right after dawn: go up at first light.",
       "Check the official park fees and permits before booking."
     ],
     esperienzeSlugs: ['trekking-draghi-komodo'],
@@ -993,8 +992,8 @@ export const destinazioniIndonesia: Destinazione[] = [
     luoghi: [
       {
         nome: "Kelimutu",
-        testo: "Three crater lakes in the same mountain, of different colors that change over time. There is no way to know in advance which colors you will find, and that is the point of the place.",
-        come: "From Moni village, about 40 minutes by motorbike or car to the car park, then a short walk. Wake-up at three.",
+        testo: "Three crater lakes on the same mountain, of different colours that change over time with volcanic gases and rain: in 2016 they changed six times in a few months. There's no way of knowing in advance which colours you'll find, and that's the point of the place.",
+        come: "From the village of Moni, about 13 km and 45 minutes by motorbike or car to the car park, then on foot. Alarm at three.",
         quando: "At dawn, before the mist rises.",
         tempo: "3 hours",
         consiglio: "They deserve the three a.m. wake-up: the dawn light on the lakes is the best part."
@@ -1002,16 +1001,16 @@ export const destinazioniIndonesia: Destinazione[] = [
       {
         nome: "Bena",
         testo: "A traditional village at the foot of the Inerie volcano, with rows of thatched houses and megalithic stone monuments. The Ngada people still live here.",
-        come: "From Bajawa, about 20 minutes by car. An offering is left at the entrance.",
+        come: "From Bajawa by car, not far. You leave a donation at the entrance.",
         quando: "In the morning.",
         tempo: "1-2 hours",
         consiglio: "Leave a small offering and ask before photographing people."
       },
       {
         nome: "Wae Rebo",
-        testo: "A remote village with seven conical houses in a clearing in the mountains. It is inhabited and you stay by its rules. One of the strongest things on the island.",
-        come: "From Denge, a three-hour climb in the forest. You sleep in the village with a welcome ceremony. Arranged through the village committee or an operator.",
-        quando: "From April to October; with rains the trail is muddy.",
+        testo: "A remote village with seven conical houses (mbaru niang) arranged in a circle around the altar, in a clearing among the mountains. It's inhabited and you follow its rules: first of all the welcome ritual, the Wailu'u. One of the most powerful things on the island.",
+        come: "From the Denge area, about 4.5 km and 2.5-3 hours uphill through the forest. You sleep in the village guest houses, dormitory-style. It's arranged through the village committee or an operator.",
+        quando: "In the dry season; when it rains the trail is muddy.",
         tempo: "2 days (1 night)",
         consiglio: "Bring a modest gift for the community and respect the village rules."
       },
@@ -1019,14 +1018,14 @@ export const destinazioniIndonesia: Destinazione[] = [
         nome: "Riung and the 17 islands",
         testo: "An archipelago of small islands with beaches, snorkeling and fruit bats.",
         come: "From Bajawa or Ruteng to Riung by car, then boat. Half-day or day tours.",
-        quando: "From May to October.",
+        quando: "In the dry season, when the sea is calmer.",
         tempo: "half a day",
         consiglio: "Come with the right time: distances on the Trans-Flores are deceptive."
       },
       {
         nome: "Cancar and Ruteng spiderweb rice fields",
         testo: "Rice fields laid out in a radial pattern like a spiderweb, following the ancient land division. The best viewpoint is on a hill a few minutes from the village.",
-        come: "From Ruteng, about 20 km by car.",
+        come: "From Ruteng, about twenty kilometres by car.",
         quando: "In the morning or at sunset.",
         tempo: "1 hour",
         consiglio: "Combine with a stop in Ruteng, a cool highland town, and its coffee."
@@ -1206,13 +1205,13 @@ export const destinazioniIndonesia: Destinazione[] = [
         nome: "Wayag",
         testo: "The other famous viewpoint, in the north, with dozens of limestone islets in a lagoon. Farther, it takes more time and more money.",
         come: "By liveaboard or private boat, far from Waisai. Depends on wind and sea.",
-        quando: "From October to April, with calmer sea.",
+        quando: "In the months with the calmest sea: ask homestays and operators.",
         tempo: "1 day or more",
         consiglio: "Allow a buffer day: wind can cancel the trip."
       },
       {
         nome: "Arborek",
-        testo: "A stilt village with a reef accessible straight from the beach. A density of fish, twenty meters from the shore, that is no longer found elsewhere.",
+        testo: "A stilt village with a reef you can reach straight from the beach, with a density of fish a few metres from shore that is rare elsewhere.",
         come: "By boat from the rest of the islands. You sleep in the village homestays.",
         quando: "All year; better in the morning.",
         tempo: "1-2 days",
@@ -1222,7 +1221,7 @@ export const destinazioniIndonesia: Destinazione[] = [
         nome: "Dampier Strait and manta spots",
         testo: "The park's pristine reefs, with mantas at cleaning stations and a huge variety of fish. Currents are strong and must be respected.",
         come: "By boat with operators, at the right times for currents.",
-        quando: "From October to April for mantas and big pelagics; in summer they are much rarer.",
+        quando: "Mantas and large pelagics depend on the season: ask the dive operators before setting dates.",
         tempo: "1-2 days",
         consiglio: "Certain spots can only be done with the right current: follow the guide's instructions."
       },
@@ -1230,9 +1229,9 @@ export const destinazioniIndonesia: Destinazione[] = [
         nome: "Misool",
         testo: "The south of the park, with more remote reefs and limestone islands and calmer areas. Less traveled.",
         come: "By liveaboard or resort, far from Waisai.",
-        quando: "From October to April; in summer the wind raises the sea toward Misool.",
+        quando: "In the months with the calmest sea; when the wind blows the sea towards Misool gets rough.",
         tempo: "2 days or more",
-        consiglio: "From May to September transfers toward Misool can be cancelled: keep margin."
+        consiglio: "In windy weather transfers to Misool can be cancelled: leave some margin."
       }
     ],
     programmi: [
@@ -1280,7 +1279,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     ],
     attenzioni: [
       "The marine park permit (PIN Raja Ampat) is mandatory: work out its cost and time.",
-      "Wind from May to September can lengthen transfers and cancel trips to exposed areas.",
+      "Wind can lengthen transfers and cancel trips to exposed areas: ask operators which season is best.",
       "There are no ATMs on the islands: withdraw in Sorong or Waisai.",
       "Currents are strong: always follow the guide's instructions."
     ],
@@ -1321,7 +1320,7 @@ export const destinazioniIndonesia: Destinazione[] = [
     periodoMigliore:
       "May to early September for the Siberut jungle, May-September for the biggest swells; from November to January it rains a lot",
     costi:
-      "stays with Mentawai Tribe from 200 € (3 days) to 550 € (8 days) per person; mandatory surf tax, current amount to be verified (sources range from 75 to 130 USD)",
+      "stays with Mentawai Tribe from €200 (3 days) to €550 (8 days) per person; surfers pay a compulsory surf tax, with the amount to be checked at booking.",
     erroriDaEvitare: [
       "Treating the visit as a show: you are a guest in a family's home, you ask permission before every photo and you don't pay for poses or costumes",
       "Leaving without buffer days: with a red Syahbandar flag the ferries don't go out",
@@ -1335,16 +1334,16 @@ export const destinazioniIndonesia: Destinazione[] = [
       {
         nome: "Siberut jungle and a Mentawai family's uma",
         testo: "You go up the river by motorized canoe to the uma, a family's longhouse, and spend a few days in the jungle. Mud everywhere, insects, no electricity, you sleep on a mat. It is not a human zoo: you are a guest in someone's home.",
-        come: "From the port of Muara Siberut, by motorized canoe and on foot in the forest. With Mentawai guides from local operators in Padang.",
-        quando: "From May to early September. From November to January it rains a lot.",
+        come: "From the Maileppet wharf at Muara Siberut, by motor canoe and on foot through the forest. With Mentawai guides from local operators in Padang.",
+        quando: "In the less rainy months; ask the operator, because at certain times it rains a lot and the trails get hard.",
         tempo: "3-8 days",
         consiglio: "Ask before photographing, agree gifts with the guide and choose an operator with Mentawai guides, so the money reaches the community."
       },
       {
         nome: "Tuapejat and Sipora",
         testo: "The capital of the Mentawai and the island with the nicest beaches. After the Siberut jungle it is the sea and rest part.",
-        come: "Mentawai Fast ferry from Padang, about 3.5 hours. Times and prices change often: check them on the operator's page.",
-        quando: "From May to September.",
+        come: "Mentawai Fast ferry from Padang, only on some days of the week. Times and prices change often: check them on the operator's page.",
+        quando: "In the months with the calmest sea, after asking operators.",
         tempo: "2-3 days",
         consiglio: "Leave days of margin: with the Syahbandar red flag the ferries do not sail."
       },
@@ -1352,22 +1351,22 @@ export const destinazioniIndonesia: Destinazione[] = [
         nome: "Sipora beaches",
         testo: "Beautiful, little-visited beaches with clear water.",
         come: "By scooter or with organized transfers from Tuapejat.",
-        quando: "From May to September.",
+        quando: "In the months with the calmest sea.",
         tempo: "1-2 days",
         consiglio: "Bring everything you need: services on the island are few."
       },
       {
-        nome: "Surf breaks: Lance's Left, HTs, Telescopes",
-        testo: "Among the most celebrated waves in the world, the reason almost everyone comes this far. Lance's Left and HTs are in the south of Sipora, Telescopes in the north.",
+        nome: "The Mentawai surf breaks",
+        testo: "Some of the most famous waves in the world, the reason almost everyone comes this far. Surf camps and boats take you to the breaks depending on the swell and your level.",
         come: "By private boat or transfers organized by surf camps. Mandatory surf fee.",
-        quando: "From May to September, when swells are biggest.",
+        quando: "Swells and the best season depend on your level: ask the surf camps before fixing dates.",
         tempo: "at least 5 days",
         consiglio: "The famous reefs are not for beginners: choose breaks by level."
       }
     ],
     programmi: [
       {
-        titolo: "7-8 days",
+        titolo: "8-9 days",
         tappe: [
           "Day 1: Padang, ferry to Siberut",
           "Day 2-5: jungle with the Mentawai family",

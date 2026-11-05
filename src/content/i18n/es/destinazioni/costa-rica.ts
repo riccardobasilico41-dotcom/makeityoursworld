@@ -31,7 +31,7 @@ export const destinazioniCostaRica: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Mercado Central",
-          "testo": "El mercado cubierto del centro, fundado en 1880, con puestos de comida, café, artesanía y las sodas que sirven el casado del día.",
+          "testo": "El histórico mercado cubierto del centro, con puestos de comida, café, artesanía y las sodas que sirven el casado del día.",
           "come": "A pie desde el centro. Se entra por las calles laterales de la Avenida Central.",
           "quando": "Mañana y mediodía, cuando las sodas tienen más movimiento.",
           "tempo": "1-1,5 horas",
@@ -40,7 +40,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         {
           "nome": "Barrio Amón",
           "testo": "Barrio de casas de madera y ladrillo de principios del siglo XX, antiguas casas de los barones del café, hoy con galerías, cafés y hoteles con encanto.",
-          "come": "A pie, al norte del centro, 10-15 minutos.",
+          "come": "A pie, al norte del centro.",
           "quando": "Mañana, con buena luz.",
           "tempo": "1-2 horas",
           "consiglio": "Mejor no caminar con el teléfono en la mano, y de noche son preferibles los taxis."
@@ -55,7 +55,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Teatro Nacional",
-          "testo": "El teatro de ópera neoclásico de 1897, rico en frescos, en pleno centro. Merece la visita aunque sea por el café interior.",
+          "testo": "El teatro neoclásico inaugurado en 1897 con el Fausto, pagado con un impuesto al café. Dentro está la famosa pintura de la alegoría del café y el banano, que acabó en el billete de cinco colones.",
           "come": "A pie desde el centro, en la Plaza de la Cultura.",
           "quando": "Mañana.",
           "tempo": "1 hora",
@@ -70,7 +70,7 @@ export const destinazioniCostaRica: Destinazione[] = [
             "Mercado Central y almuerzo en una soda",
             "Teatro Nacional y Plaza de la Cultura",
             "Barrio Amón por la tarde",
-            "Cena en un food truck del Jardín de Lolita"
+            "Cena en un food truck en el Jardín de Lolita"
           ]
         },
         {
@@ -152,8 +152,8 @@ export const destinazioniCostaRica: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Parque Nacional Cahuita",
-          "testo": "Un sendero costero de unos 8 km entre playa, selva y el mar con su arrecife. Se ven perezosos, monos, mapaches y aves.",
-          "come": "Entrada por Cahuita o por el lado de Puerto Vargas. El sendero bordea la playa, en parte con vados.",
+          "testo": "Sendero costero entre playa, bosque y mar, con un arrecife de coral frente a la costa. Se ven perezosos, monos aulladores y carablancas, mapaches y aves. Es el único parque nacional de Costa Rica donde en la entrada de Cahuita no se paga entrada sino que se deja un donativo.",
+          "come": "Entrada principal en Cahuita, o por el lado de Puerto Vargas. El sendero bordea la playa, en parte con vados.",
           "quando": "Mañana temprano, cuando los animales están activos.",
           "tempo": "3-4 horas",
           "consiglio": "Con guía local se ven muchos más animales. Hay una ficha de experiencia dedicada a un tour completo con el guía José."
@@ -161,7 +161,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         {
           "nome": "Punta Uva y Playa Chiquita",
           "testo": "Playas de arena clara al sur de Puerto Viejo, con palmeras y selva detrás. Desde aquí se oyen los monos aulladores en los árboles.",
-          "come": "En bici por la costa desde Puerto Viejo, unos 20-30 minutos; alquiler en el pueblo.",
+          "come": "En bici por la costa desde Puerto Viejo; alquiler en el pueblo.",
           "quando": "Mañana o última hora de la tarde.",
           "tempo": "Media jornada",
           "consiglio": "Pedalear por la costa es la forma más sencilla y más real de conocer el Caribe costarricense."
@@ -177,10 +177,10 @@ export const destinazioniCostaRica: Destinazione[] = [
         {
           "nome": "Río Pacuare (rafting)",
           "testo": "Un descenso por el río Pacuare, entre gargantas y selva, excursión opcional muy solicitada en la zona.",
-          "come": "Tour organizado desde Puerto Viejo, a reservar con una semana de antelación.",
+          "come": "Tour organizado desde Puerto Viejo, reservado unos días antes.",
           "quando": "Consultar con el operador la mejor época.",
           "tempo": "Día completo",
-          "consiglio": "Reservar con una semana de antelación."
+          "consiglio": "El río está lejos de la costa: es un día largo, con muchas horas de carretera."
         }
       ],
       "programmi": [
@@ -285,7 +285,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Cerro Tortuguero",
-          "testo": "Una colina de unos 120 metros con vista a canales, mar y selva.",
+          "testo": "La colina más alta de la zona, con vistas a canales, mar y bosque.",
           "come": "Breve cruce en lancha desde el pueblo hasta el inicio del sendero; preguntar en el lodge las reglas de acceso y la tarifa vigentes.",
           "quando": "Mañana.",
           "tempo": "1-1,5 horas",
@@ -391,9 +391,9 @@ export const destinazioniCostaRica: Destinazione[] = [
           "tempo": "Media jornada"
         },
         {
-          "nome": "Cataratas Bajas del Toro",
+          "nome": "Catarata del Toro (Bajos del Toro)",
           "testo": "Una cascada con sendero y mirador, inmersa en la selva. Excursión opcional.",
-          "come": "En coche o con tour desde el lodge, aproximadamente 1 hora.",
+          "come": "En coche o con tour desde el lodge.",
           "quando": "Mañana.",
           "tempo": "Media jornada"
         },
@@ -473,14 +473,14 @@ export const destinazioniCostaRica: Destinazione[] = [
     tipologia: ['natura', 'vulcani'],
     giorniConsigliati: '1 día',
     visitataPersonalmente: true,
-    introduzione: 'El volcán Arenal, la Cascada de La Fortuna y las aguas termales gratuitas de El Choyin, mucho más auténticas que los baños de pago "de postal".',
-    percheAndarci: 'Por las aguas termales gratuitas de El Choyin, uno de los momentos más bonitos y menos "de postal" de todo el viaje.',
-    cosaVedere: ['El volcán Arenal', 'La Cascada de La Fortuna', 'Las aguas termales de El Choyin'],
+    introduzione: 'El volcán Arenal, la Cascada de La Fortuna y las aguas termales gratuitas de El Chollín, mucho más auténticas que los baños de pago "de postal".',
+    percheAndarci: 'Por las aguas termales gratuitas de El Chollín, uno de los momentos más bonitos y menos "de postal" de todo el viaje.',
+    cosaVedere: ['El volcán Arenal', 'La Cascada de La Fortuna', 'Las aguas termales de El Chollín'],
     cosaFare: [
       'Baño en la Cascada de La Fortuna (hay una ficha de experiencia dedicada)',
       'Trekking al volcán en el Mirador El Silencio (opcional)',
       'Puentes colgantes de Mistico Hanging Bridges (opcional)',
-      'Aguas termales gratuitas de El Choyin',
+      'Aguas termales gratuitas de El Chollín',
       'Canyoning en el Lost Canyon (opcional, muy adrenalínico)',
     ],
     doveDormire:
@@ -491,14 +491,14 @@ export const destinazioniCostaRica: Destinazione[] = [
     comeSpostarsi: 'Minivan a disposición durante todo el día.',
     periodoMigliore: 'última hora de la tarde para las aguas termales',
     costi: 'Cascada de La Fortuna 18-20$; tour combo 90-120$ por persona; canyoning Lost Canyon 115-119$.',
-    erroriDaEvitare: ['En las aguas de El Choyin no hay vestuarios: bastan zapatos de río, bañador y linterna frontal, sin toallas'],
+    erroriDaEvitare: ['En las aguas de El Chollín no hay vestuarios: bastan zapatos de río, bañador y linterna frontal, sin toallas'],
     miaEsperienza:
       'Las aguas termales gratuitas de El Choyin, en un tramo de río natural, nos parecieron mucho más auténticas que los baños de pago de la zona. Fue uno de los momentos más verdaderos de todo el viaje.',
       "luoghi": [
         {
           "nome": "Cascada de La Fortuna",
-          "testo": "Cascada de unos 70 metros en una garganta de selva, con una larga escalera y una poza para bañarse. Hay una ficha de experiencia dedicada.",
-          "come": "Desde el pueblo de La Fortuna 10 minutos en coche o taxi, luego escaleras empinadas hasta la base.",
+          "testo": "Una catarata de más de 70 metros en un cañón de bosque, con unos 530 escalones entre bajada y subida y una poza para bañarse. Hay una ficha de experiencia dedicada.",
+          "come": "A pocos minutos en coche o taxi del pueblo de La Fortuna, luego escaleras empinadas hasta la base.",
           "quando": "Abierta todos los días de 7 a 17 h; mejor en la mañana, con menos gente.",
           "tempo": "2 horas",
           "costo": "20 USD para extranjeros (2025); se paga aunque solo se vaya al mirador.",
@@ -506,12 +506,12 @@ export const destinazioniCostaRica: Destinazione[] = [
           "consiglio": "El regreso es todo cuesta arriba: zapatos con agarre y agua."
         },
         {
-          "nome": "Aguas termales gratuitas de El Choyin",
-          "testo": "Un tramo de río caliente natural, de entrada libre, con pozas termales. Más auténtico que las termas de pago de la zona.",
-          "come": "En coche o taxi desde La Fortuna, luego un corto tramo a pie.",
-          "quando": "Mañana o tarde-noche.",
+          "nome": "El río termal gratuito de El Chollín",
+          "testo": "Un tramo del río Tabacón con agua caliente natural y acceso público, a pocos pasos de los resorts termales. No confundir con El Choyín, un complejo de pago en el mismo río.",
+          "come": "En coche o taxi desde La Fortuna; se aparca en la carretera, a menudo con un cuidador, y se baja a pie al río por un tramo corto.",
+          "quando": "Temprano por la mañana: los fines de semana y festivos está lleno.",
           "tempo": "1-2 horas",
-          "consiglio": "Llevar zapatos de agua y una toalla: no hay servicios."
+          "consiglio": "No hay duchas, taquillas ni servicios: escarpines, toalla y nada de valor en el coche."
         },
         {
           "nome": "Mirador El Silencio",
@@ -534,7 +534,7 @@ export const destinazioniCostaRica: Destinazione[] = [
           "tappe": [
             "Mañana: cascada de La Fortuna",
             "Almuerzo en La Fortuna",
-            "Tarde: aguas termales gratuitas de El Choyin"
+            "Tarde: río termal gratuito de El Chollín"
           ]
         },
         {
@@ -617,7 +617,7 @@ export const destinazioniCostaRica: Destinazione[] = [
           "nome": "Bosque nuboso de Monteverde",
           "testo": "Un bosque lluvioso de altura, envuelto en nubes, con miles de especies de plantas, aves e insectos. Se camina por senderos y puentes.",
           "come": "En taxi o buseta desde el pueblo de Santa Elena, por un camino de montaña lento. Desde 2026 la entrada es por horario y se reserva en línea. Mejor con guía para reconocer los animales.",
-          "quando": "Ingresos de día aproximadamente de 7:30 a 16 h; temprano para las aves. La neblina es parte del paisaje.",
+          "quando": "Senderos del bosque de 7:30 a 16:00 (horario del sitio oficial); temprano por la mañana para las aves. La niebla es parte del paisaje.",
           "tempo": "3-4 horas",
           "url": "https://cloudforestmonteverde.com/"
         },
@@ -625,7 +625,7 @@ export const destinazioniCostaRica: Destinazione[] = [
           "nome": "Caminata nocturna en el bosque",
           "testo": "Excursión de noche con guía y linterna para ver ranas, insectos, tarántulas y otros animales nocturnos. Hay una ficha de experiencia dedicada.",
           "come": "Salida después del atardecer con guía.",
-          "quando": "Noche, después de las 18.",
+          "quando": "Noche: en la reserva la caminata nocturna sale a las 18:00.",
           "tempo": "1,5 horas",
           "consiglio": "A algunos la duración puede parecerles larga. Llevar chaqueta y zapatos cerrados."
         },
@@ -667,7 +667,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         {
           "nome": "Santa Elena",
           "perChi": "servicios y presupuesto",
-          "testo": "Restaurantes, agencias y hoteles, a 20-30 minutos de la reserva."
+          "testo": "Restaurantes, agencias y hoteles; para la reserva hace falta taxi o shuttle."
         },
         {
           "nome": "Cerca de la reserva",
@@ -741,9 +741,9 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Avistamiento de ballenas",
-          "testo": "Salida en barco para avistar ballenas jorobadas en los periodos de migración. Hay una ficha de experiencia dedicada.",
+          "testo": "Salida en barca en el Parque Nacional Marino Ballena, creado en 1989, para ver las ballenas jorobadas que vienen aquí a reproducirse. Hay una ficha de experiencia dedicada.",
           "come": "Tour desde Uvita en barca pequeña.",
-          "quando": "Julio-octubre y diciembre-marzo.",
+          "quando": "Dos temporadas: de diciembre a abril llegan las jorobadas del hemisferio norte, de julio a noviembre las del sur.",
           "tempo": "3 horas",
           "consiglio": "Los avistamientos no están garantizados, pero el paisaje merece la pena igual."
         },
@@ -846,7 +846,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         {
           "nome": "Parque Nacional Manuel Antonio",
           "testo": "Un parque pequeño pero rico en vida: perezosos, monos capuchinos, iguanas y colibríes a lo largo de los senderos, con playas dentro del parque. Hay una ficha de experiencia dedicada.",
-          "come": "Se llega desde Quepos en bus o coche, unos 10 minutos. Con guía se ven muchos más animales.",
+          "come": "Desde Quepos en bus o coche, en pocos minutos. Con guía se ven muchos más animales.",
           "quando": "Temprano, cuando los animales están activos. Abierto de miércoles a lunes, de 7 a 16 h; cerrado los martes.",
           "tempo": "3-4 horas",
           "costo": "Unos 18 USD para extranjeros adultos (16 USD más IVA, 2025-2026), solo en línea y con cupo limitado.",

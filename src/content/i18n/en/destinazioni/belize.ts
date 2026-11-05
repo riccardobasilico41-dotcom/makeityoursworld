@@ -41,15 +41,15 @@ export const destinazioniBelize: Destinazione[] = [
       "luoghi": [
         {
           "nome": "The Split",
-          "testo": "The channel opened by Hurricane Hattie in 1961, which cut the island in two. Today it is the island's meeting point: a bar on the dock, jumps off the bridge and the sunset watched by everyone together.",
-          "come": "At the end of the main street, a 10-minute walk from the water taxi dock.",
+          "testo": "The channel that splits the island in two. Hurricane Hattie, in 1961, opened a shallow passage; the villagers then dug it out by hand into a channel. Today it is the island's meeting point: a bar on the dock, jumps off the bridge and a sunset everyone watches together.",
+          "come": "At the end of the main street, a few minutes' walk from the water taxi dock.",
           "quando": "Late afternoon until sunset.",
           "tempo": "1-2 hours",
           "consiglio": "There is a current in the channel: enter the water from the calmer side and keep an eye on the boats."
         },
         {
           "nome": "Hol Chan Marine Reserve and Shark Ray Alley",
-          "testo": "Hol Chan is a natural channel in the barrier reef, south of Ambergris, inside the first marine protected area of Belize. Shark Ray Alley is where fishermen used to clean their catch: nurse sharks and rays now swim up to the boat.",
+          "testo": "Hol Chan is a natural channel in the reef, south of Ambergris, inside a marine reserve created in 1987 and part of the UNESCO Belize reef site. Shark Ray Alley is where fishermen used to clean their nets: the scraps drew nurse sharks and rays, which now swim up to the boat.",
           "come": "Half-day boat trip from Caye Caulker with guide and gear. The marine park fee is often not included in the price.",
           "quando": "Morning, when the sea is calmest; best season December-April.",
           "tempo": "4-5 hours",
@@ -59,7 +59,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "The Great Blue Hole from above",
-          "testo": "A marine sinkhole about 300 metres wide and 125 deep, off Lighthouse Reef. The perfect circle can only be seen from above.",
+          "testo": "A marine sinkhole more than 300 metres wide and about 124 deep, in the middle of Lighthouse Reef, an atoll about 70 km off the coast. The perfect circle can only be seen from above.",
           "come": "Scenic flight in a small plane from the island or from Belize City. The alternative is a full-day dive, which costs more and is more tiring.",
           "quando": "Clear day, preferably in the morning.",
           "tempo": "Half a day",
@@ -118,7 +118,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Lobster",
-          "testo": "Season runs from mid-June to the end of February: out of season, if it is on the menu, it is frozen."
+          "testo": "Fishing is closed for a few months between late winter and early summer (since 2021, March to June): in that period, if it is on the menu, it is frozen."
         },
         {
           "nome": "Street barbecue",
@@ -194,14 +194,14 @@ export const destinazioniBelize: Destinazione[] = [
         {
           "nome": "Great Blue Hole",
           "testo": "A marine sinkhole in Lighthouse Reef, a UNESCO site. From San Pedro you go by boat for the dive or by plane for the scenic flight.",
-          "come": "Dive: full day, three dives, open sea, many operators require an advanced certification. Scenic flight: half a day.",
+          "come": "Dive: a full day with several dives in open sea; many operators require an advanced certification. Scenic flight: half a day.",
           "quando": "Calm-sea days, more likely from December to April.",
           "tempo": "Full day",
           "consiglio": "The best view is from the plane, and it costs far less. Underwater it is a blue wall with few stalactites and little marine life."
         },
         {
           "nome": "San Pedro town",
-          "testo": "Sandy streets with colourful houses, cafés, restaurants and dive centres. The waterfront is the heart of the town, with the departure piers for all excursions.",
+          "testo": "Sandy streets with colourful houses, cafés, restaurants and dive centres. The seafront is the heart of town, with the docks where every trip starts.",
           "come": "On foot from the main pier. On the island you get around by golf cart.",
           "quando": "Early morning for bookings, evening for waterfront life.",
           "tempo": "Half a day"
@@ -314,12 +314,12 @@ export const destinazioniBelize: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Actun Tunichil Muknal (ATM)",
-          "testo": "A Maya archaeological cave with pottery and human remains left where the Maya placed them over a thousand years ago, including the \"Crystal Maiden\". You enter by swimming in an underground river.",
-          "come": "Only with an authorised guide, tour from San Ignacio with transport: a walk in the jungle with three river crossings, then hours in cold water and tight passages.",
+          "testo": "A Maya archaeological cave with pottery and human remains left where they were placed, some over a thousand years old, including the «Crystal Maiden», the calcified, sparkling skeleton of a teenager. You swim in and follow an underground river.",
+          "come": "Tickets are sold only by licensed tour operators, with guide and transport from San Ignacio: a jungle walk with river crossings, then hours in cold water and tight passages.",
           "quando": "Morning; December-April. It can close after heavy rain because of the water level.",
-          "tempo": "Full day (about 8 hours)",
-          "url": "https://www.nichbelize.org/",
-          "consiglio": "Cameras are banned for everyone, with no exceptions. If you are claustrophobic or bothered by cold water, skip it."
+          "tempo": "Full day",
+          "url": "https://ticketing.nichbelize.org/",
+          "consiglio": "Cameras have been banned for visitors since 2012, when a dropped camera cracked a skull. Skip it if you are claustrophobic or struggle with cold water."
         },
         {
           "nome": "Xunantunich",
@@ -327,22 +327,22 @@ export const destinazioniBelize: Destinazione[] = [
           "come": "From San Ignacio taxi to the Mopan, then the free hand-cranked ferry; on the other side a 15-minute uphill walk.",
           "quando": "Morning, before the heat.",
           "tempo": "2 hours",
-          "url": "https://www.nichbelize.org/",
+          "url": "https://ticketing.nichbelize.org/",
           "consiglio": "From the top you can see Guatemala. It combines easily with the cave or with Rio On on the same day."
         },
         {
           "nome": "Caracol",
-          "testo": "The largest Maya site in Belize, in the middle of the Chiquibul forest. The Caana pyramid is still the tallest structure in the country.",
-          "come": "Excursion from San Ignacio with a guide, along a dirt road of about 1.5-2 hours; lunch is usually included.",
+          "testo": "One of the largest Maya cities, on the Vaca Plateau at the foot of the Maya Mountains. The Caana pyramid, 43 metres high, is still the tallest man-made structure in Belize.",
+          "come": "Guided trip from San Ignacio along a long, partly unpaved road; lunch is usually included.",
           "quando": "Early morning. Dry season for the road.",
           "tempo": "Full day",
-          "url": "https://www.nichbelize.org/",
+          "url": "https://ticketing.nichbelize.org/",
           "consiglio": "You go for the silence and the howler monkeys, not for the crowds of Tikal. Check the road conditions."
         },
         {
           "nome": "Rio On Pools and the Mountain Pine Ridge",
           "testo": "A series of small waterfalls and natural pools on the Rio On, in a highland pine forest. You swim and slide on smooth rocks.",
-          "come": "By car or taxi from San Ignacio (about 45 minutes).",
+          "come": "By car or taxi from San Ignacio, climbing up to the Mountain Pine Ridge.",
           "quando": "Afternoon, when the water is warmest.",
           "tempo": "1-2 hours",
           "consiglio": "Water shoes: the rocks are slippery."
@@ -387,7 +387,7 @@ export const destinazioniBelize: Destinazione[] = [
       "sapori": [
         {
           "nome": "San Ignacio market",
-          "testo": "Saturday morning: fruit, pupusas, tamales and Chinese-Belizean food. The cheapest place to eat."
+          "testo": "Fruit, pupusas, tamales and Chinese-Belizean food. The cheapest place to eat: it is busiest at the weekend, ask in town."
         },
         {
           "nome": "Stew chicken and grilled chicken",
@@ -404,7 +404,7 @@ export const destinazioniBelize: Destinazione[] = [
       ],
       "attenzioni": [
         "Book the ATM tour only with authorised operators: access is limited and reserved to guides with a specific licence.",
-        "No cameras in the ATM cave: banned for years, since a fall damaged an artefact.",
+        "No cameras in the ATM cave: they have been banned since 2012, when a dropped camera cracked a skull.",
         "At the Guatemalan border (Benque Viejo/Melchor de Mencos): change money only at official counters, not with people who approach you.",
         "After heavy rain the ATM cave and some roads, such as the one to Caracol, can close."
       ],
@@ -459,7 +459,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Laughing Bird Caye",
-          "testo": "A tiny national-park island on the atoll off Placencia, with a reef close by and shallow water. Part of the UNESCO barrier reef site.",
+          "testo": "A tiny national-park island about 19 km off Placencia, on a long coral ridge, with reef nearby and shallow water. It is part of the UNESCO Belize Barrier Reef site.",
           "come": "Half-day boat trip from Placencia with one of the local operators; park fee extra.",
           "quando": "Morning, calm sea; dry season.",
           "tempo": "4-5 hours",
@@ -468,16 +468,16 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Hopkins and Garifuna culture",
-          "testo": "A Garifuna village on the sea. The Garifuna descend from West Africans and Carib peoples of the Lesser Antilles, deported to this coast at the end of the 18th century; their language, dance and music are UNESCO intangible heritage.",
-          "come": "From Placencia 40-50 minutes by car or shuttle. In the village you walk.",
+          "testo": "A Garifuna village by the sea. The Garifuna descend from Africans and from Carib and Arawak peoples of Saint Vincent, from where the British deported them in 1797; from there they spread along the Central American coast. Their language, dance and music have been UNESCO intangible heritage since 2001.",
+          "come": "From Placencia by car or shuttle along the coast. In the village, on foot.",
           "quando": "Evening for drums, morning for the food.",
           "tempo": "Half a day",
           "consiglio": "A drum lesson with a master of the village says more than any museum. Ask in the village."
         },
         {
           "nome": "Cockscomb Basin Wildlife Sanctuary",
-          "testo": "The first reserve in the world dedicated to jaguars, in a rainforest valley with trails to waterfalls and viewpoints. The jaguar is rarely seen.",
-          "come": "From Hopkins or Placencia by car to the entrance (about 30-50 minutes); trails of 1-4 hours, some with swimming pools.",
+          "testo": "A reserve created in the 1980s, the first protected area set up for the jaguar, in a rainforest valley with trails to waterfalls and viewpoints. Jaguars are rarely seen.",
+          "come": "From Hopkins or Placencia by car to the entrance; trails from one to a few hours, some with pools for a swim.",
           "quando": "Early morning; dry season.",
           "tempo": "Half a day",
           "url": "https://www.travelbelize.org/",
@@ -504,7 +504,7 @@ export const destinazioniBelize: Destinazione[] = [
           "titolo": "3 days",
           "tappe": [
             "Days 1 and 2 as above",
-            "Day 3: seasonal, whale shark trip to Gladden Spit (roughly March-June, around full moons)"
+            "Day 3: seasonal, whale shark trip at Gladden Spit (between March and June, when the fish spawn)"
           ]
         }
       ],
@@ -544,8 +544,8 @@ export const destinazioniBelize: Destinazione[] = [
         }
       ],
       "attenzioni": [
-        "Whale sharks at Gladden Spit depend on full moons between March and June: do not build the trip around them.",
-        "The bus on the Southern Highway takes 4-5 hours: leave a good margin if you have a flight.",
+        "Gladden Spit's whale sharks come between March and June for the fish eggs, but only for a few days: don't build the trip around them.",
+        "The bus on the Southern Highway is slow: leave a good margin if you have a flight.",
         "Sunset brings sandflies on the beach: repellent.",
         "Boat trips may be cancelled when the sea is rough."
       ],

@@ -12,9 +12,9 @@ export const destinazioniIndia: Destinazione[] = [
     introduzione:
       'La capital son dos ciudades en una: la Vieja Delhi mogol de Shah Jahan, con la Jama Masjid, el Fuerte Rojo y los callejones de Chandni Chowk, y la Nueva Delhi británica de las grandes avenidas, los jardines y los mausoleos.',
     percheAndarci:
-      'Casi todos los vuelos desde Italia llegan aquí, y dos días bastan para ver los monumentos que explican el resto del viaje: la Tumba de Humayún, modelo del Taj Mahal, y el Qutb Minar, la primera gran arquitectura islámica de la India.',
+      'Casi todos los vuelos desde Italia llegan aquí, y dos días bastan para ver los monumentos que explican el resto del viaje: la Tumba de Humayún, modelo del Taj Mahal, y el Qutb Minar, uno de los primeros monumentos islámicos de la India.',
     cosaVedere: [
-      'La Jama Masjid, la mezquita más grande de la India, y el Fuerte Rojo',
+      'La Jama Masjid, una de las mezquitas más grandes de la India, y el Fuerte Rojo',
       'Los mercados de Chandni Chowk y el de especias de Khari Baoli',
       'La Tumba de Humayún y el barrio sufí de Nizamuddin',
       'El Qutb Minar y la columna de hierro',
@@ -24,7 +24,7 @@ export const destinazioniIndia: Destinazione[] = [
     cosaFare: [
       'Un paseo en ciclo-rickshaw por los callejones de la Vieja Delhi',
       'Comer en el langar del Gurudwara Bangla Sahib',
-      'Escuchar qawwali en Nizamuddin el jueves por la noche',
+      'Escuchar qawwali en Nizamuddin por la noche, sobre todo el jueves',
       'Moverse en metro, el medio más sencillo y limpio de la ciudad',
     ],
     doveDormire:
@@ -47,7 +47,7 @@ export const destinazioniIndia: Destinazione[] = [
         nome: "Tumba de Humayún",
         testo: "El primer gran jardín-mausoleo de la India, terminado en 1572 para el emperador Humayún: arenisca roja, mármol blanco y un jardín dividido en cuatro por canales. Es el modelo directo del Taj Mahal y es patrimonio de la UNESCO. En el recinto hay otras tumbas, entre ellas la de Isa Khan, más antigua.",
         come: "Metro hasta JLN Stadium o Hazrat Nizamuddin y luego un tramo corto en tuk-tuk. Se visita por libre: los paneles lo explican bien y no hace falta guía.",
-        quando: "Abierta todos los días del amanecer al atardecer. Última hora de la tarde, con la mejor luz sobre la arenisca.",
+        quando: "Horarios en la web del ASI. Última hora de la tarde, con la mejor luz sobre la arenisca.",
         tempo: "1 hora y media-2 horas",
         costo: "unas 600 rupias para los extranjeros, 550 online (tarifa ASI, 2026)",
         url: "https://asi.nic.in/",
@@ -55,9 +55,9 @@ export const destinazioniIndia: Destinazione[] = [
       },
       {
         nome: "Qutb Minar y la columna de hierro",
-        testo: "Una torre de arenisca de 73 metros, empezada hacia el año 1200 por los primeros sultanes de Delhi, con franjas de inscripciones coránicas talladas. Al lado están las ruinas de la primera mezquita de la ciudad y una columna de hierro de más de 1.500 años que no se oxida.",
-        come: "Metro amarillo hasta Qutub Minar y luego tuk-tuk para el último kilómetro y medio. A la torre no se sube.",
-        quando: "Todos los días del amanecer al atardecer. Mejor a primera hora, antes de los grupos y del calor.",
+        testo: "Una torre de arenisca de unos 73 metros, empezada en 1199 por Qutb ud-Din Aibak, el primer sultán de Delhi, con franjas de inscripciones coránicas talladas. Al lado están las ruinas de la mezquita Quwwat-ul-Islam, la más antigua que se conserva de los sultanes de Delhi, y una columna de hierro con una inscripción del siglo IV que no se oxida.",
+        come: "Metro amarillo hasta Qutub Minar y luego un trayecto corto en tuk-tuk. A la torre no se sube: está cerrada al público desde 1981.",
+        quando: "Horarios en la web del ASI. Mejor a primera hora, antes de los grupos y del calor.",
         tempo: "1 hora y media",
         costo: "unas 600 rupias para los extranjeros, 550 online (tarifa ASI, 2026)",
         url: "https://asi.nic.in/",
@@ -65,16 +65,17 @@ export const destinazioniIndia: Destinazione[] = [
       },
       {
         nome: "Fuerte Rojo",
-        testo: "La ciudadela de Shah Jahan, construida entre 1639 y 1648, cuando la capital mogol pasó de Agra a Delhi. Dentro están las salas de audiencias, los pabellones de mármol y algunos museos. Desde aquí, cada 15 de agosto, el primer ministro habla a la nación.",
+        testo: "La ciudadela de Shah Jahan, construida entre 1638 y 1648, cuando la capital mogol pasó de Agra a Delhi. Dentro están las salas de audiencias, los pabellones de mármol y algunos museos. Desde aquí, cada 15 de agosto, el primer ministro habla a la nación.",
         come: "Metro morado hasta Lal Quila. Entrada por la Lahori Gate tras los controles de seguridad.",
-        quando: "Cerrado los lunes. A primera hora, para evitar la multitud del domingo.",
+        quando: "Desde febrero de 2026 abre todos los días, lunes incluido, del amanecer a las 21. A primera hora, para evitar la multitud del domingo.",
         tempo: "2 horas",
+        costo: "600 rupias para los extranjeros, 550 online (tarifa del ASI, 2026)",
         url: "https://asi.nic.in/",
         consiglio: "Si vais justos de tiempo, mejor la Tumba de Humayún: el fuerte es grande, pero más desnudo de lo que uno espera."
       },
       {
         nome: "Jama Masjid",
-        testo: "La mezquita más grande de la India, mandada construir por Shah Jahan y terminada en 1656. El patio acoge a unos 25.000 fieles y desde los minaretes se ve toda la Vieja Delhi.",
+        testo: "Una de las mezquitas más grandes de la India, mandada construir por Shah Jahan y terminada en 1656. El patio acoge a unos 25.000 fieles y desde los minaretes se ve toda la Vieja Delhi.",
         come: "Metro morado hasta Jama Masjid. Los zapatos se quitan en la entrada; a quien lleva piernas u hombros descubiertos le prestan una túnica.",
         quando: "Cerrada a los visitantes durante las oraciones, y el viernes a mediodía está abarrotada. Por la mañana o a media tarde.",
         tempo: "45 minutos",
@@ -85,24 +86,24 @@ export const destinazioniIndia: Destinazione[] = [
         nome: "Chandni Chowk y el mercado de especias de Khari Baoli",
         testo: "La calle de los mercaderes de la Delhi mogol, hoy una maraña de callejones especializados: plata, telas de novia, papel, dulces fritos. Al fondo está Khari Baoli, el mercado mayorista de especias, donde la guindilla y el cardamomo se venden por sacos.",
         come: "Metro amarillo hasta Chandni Chowk. Lo mejor es recorrerlo en ciclo-rickshaw a precio acordado antes y luego a pie.",
-        quando: "Por la mañana, de media mañana en adelante. Muchas tiendas cierran el domingo.",
+        quando: "Desde media mañana, cuando las tiendas están abiertas.",
         tempo: "medio día",
-        consiglio: "Subir a la terraza del Gadodia Market, encima de las especias: se ve el mercado desde arriba y se respira mejor."
+        consiglio: "Entrar en el Gadodia Market, el edificio de los años veinte donde trabajan los mayoristas de especias: es el corazón del mercado."
       },
       {
         nome: "Gurudwara Bangla Sahib",
-        testo: "El templo sij más conocido de Delhi, con la cúpula dorada y un estanque sagrado. El langar, el comedor comunitario, sirve comida gratis a cualquiera a todas horas, preparada por voluntarios.",
-        come: "A un kilómetro y medio de Connaught Place, a pie o en tuk-tuk. Zapatos y calcetines en la consigna, cabeza cubierta: los pañuelos se cogen en la entrada.",
-        quando: "Abierto todo el día, todos los días. Por la noche, con las luces y los cantos, impresiona más.",
+        testo: "El templo sij más conocido de Delhi, con la cúpula dorada y un estanque sagrado. El langar, el comedor comunitario, sirve comida gratis a cualquiera, preparada por voluntarios.",
+        come: "En Baba Kharak Singh Marg, cerca de Connaught Place, a pie o en tuk-tuk. Zapatos y calcetines en la consigna, cabeza cubierta: los pañuelos se cogen en la entrada.",
+        quando: "Abierto todos los días. Por la noche, con las luces y los cantos, impresiona más.",
         tempo: "1 hora",
         costo: "gratis",
         consiglio: "Sentarse en el suelo del langar con todos los demás y, si apetece, echar una mano en la cocina."
       },
       {
         nome: "Dargah de Nizamuddin y los qawwali",
-        testo: "El santuario del santo sufí Nizamuddin Auliya, en un barrio de callejones detrás de la Tumba de Humayún. Por la noche los cantores de qawwali tocan delante de la tumba, entre los fieles.",
+        testo: "El santuario del santo sufí Nizamuddin Auliya, en un barrio de callejones cerca de la Tumba de Humayún. Cada noche, después de la oración del atardecer, los cantores de qawwali tocan delante de la tumba, entre los fieles.",
         come: "A pie desde la Tumba de Humayún o desde la estación de Hazrat Nizamuddin. Sin zapatos, con la cabeza cubierta y ropa larga.",
-        quando: "El jueves por la noche, después de la oración del atardecer, es el momento más intenso.",
+        quando: "Cada noche después de la oración del atardecer; el jueves es la noche más intensa y concurrida.",
         tempo: "1 hora",
         costo: "entrada libre",
         consiglio: "Las ofrendas son voluntarias: dejad solo lo que queráis, aunque alguien insista."
@@ -142,12 +143,12 @@ export const destinazioniIndia: Destinazione[] = [
       {
         nome: "Connaught Place y Karol Bagh",
         perChi: "quien quiere comodidad y metro",
-        testo: "En el centro de la red de metro, a 15-20 minutos de la estación de Nueva Delhi. Hoteles de gama media y restaurantes por todas partes; Karol Bagh es más ruidosa y tiene más tráfico."
+        testo: "En el centro de la red de metro, cerca de la estación de Nueva Delhi. Hoteles de gama media y restaurantes por todas partes; Karol Bagh es más ruidosa y tiene más tráfico."
       },
       {
         nome: "South Delhi (Hauz Khas, Defence Colony)",
         perChi: "quien busca calma",
-        testo: "Barrios residenciales y verdes, con guesthouses cuidadas y locales. Quedan más lejos de la Vieja Delhi: 40-60 minutos en coche con tráfico."
+        testo: "Barrios residenciales y verdes, con guesthouses cuidadas y locales. Quedan más lejos de la Vieja Delhi, y con tráfico el trayecto en coche es largo."
       },
       {
         nome: "Paharganj",
@@ -179,11 +180,11 @@ export const destinazioniIndia: Destinazione[] = [
       },
       {
         nome: "Butter chicken",
-        testo: "Pollo tandoori en salsa de tomate y mantequilla, nacido en las cocinas punjabíes de Delhi después de 1947. Lo tienen los restaurantes punjabíes de toda la ciudad."
+        testo: "Pollo tandoori en salsa de tomate y mantequilla, hecho famoso después de 1947 por el restaurante Moti Mahal, abierto en Delhi por refugiados punjabíes. Lo tienen los restaurantes punjabíes de toda la ciudad."
       }
     ],
     attenzioni: [
-      "Quien os para cerca de la estación de Nueva Delhi diciendo que la oficina de billetes para extranjeros está cerrada o se ha trasladado: el International Tourist Bureau está dentro de la estación, en la primera planta.",
+      "Quien os para cerca de la estación de Nueva Delhi diciendo que la oficina de billetes para extranjeros está cerrada o se ha trasladado: el International Tourist Bureau está dentro de la estación, en la planta de arriba, y no cierra «por obras».",
       "Las «oficinas de turismo» privadas alrededor de Connaught Place venden paquetes caros haciéndose pasar por organismos públicos.",
       "En el aeropuerto y por la noche: solo taxis de prepago, Uber u Ola, o el traslado del hotel. No creáis a quien dice que el hotel está cerrado o lleno.",
       "No aceptéis comida ni bebida de desconocidos: el Foreign Office británico informa de robos tras bebidas drogadas.",
@@ -211,7 +212,7 @@ export const destinazioniIndia: Destinazione[] = [
       'El Fuerte de Agra, desde donde Shah Jahan prisionero miraba el Taj',
       'El Itimad-ud-Daulah, el «pequeño Taj» incrustado de piedras duras',
       'El jardín de Mehtab Bagh, en la orilla opuesta del río, para el atardecer',
-      'Fatehpur Sikri, la capital abandonada de Akbar, a 40 minutos',
+      'Fatehpur Sikri, la capital abandonada de Akbar, a una hora en coche',
     ],
     cosaFare: [
       'Entrar por la puerta este al amanecer con la entrada comprada en línea',
@@ -220,21 +221,21 @@ export const destinazioniIndia: Destinazione[] = [
     doveDormire: 'Taj Ganj y Fatehabad Road, a distancia de paseo de la puerta este del Taj.',
     doveMangiare: 'Cocina mughlai (biryani, korma, kebab) y el petha, el dulce de calabaza confitada de la ciudad.',
     comeArrivare:
-      'Desde Delhi en tren (Gatimaan Express o Vande Bharat, 1 hora y 40 minutos-2 horas) o en coche por la autopista Yamuna Expressway (3-4 horas).',
+      'Desde Delhi en tren, con el Gatimaan Express en unas 2 horas (no circula los viernes; horarios en IRCTC), o en coche por la autopista Yamuna Expressway (3-4 horas).',
     comeSpostarsi: 'Tuk-tuk eléctricos cerca del Taj (los coches de gasolina no pueden acercarse), coche con conductor para Fatehpur Sikri.',
     periodoMigliore: 'octubre-marzo; entre diciembre y enero la niebla puede cubrir el Taj al amanecer durante un par de horas.',
     costi:
       'Taj Mahal unas 1.100 rupias para los extranjeros, más 200 por el interior del mausoleo; Fuerte de Agra unas 650; Fatehpur Sikri unas 600 (orientativo, octubre de 2026). Entrada gratuita por debajo de los 15 años.',
     erroriDaEvitare: [
       'Llegar en viernes: el Taj Mahal está cerrado',
-      'Llevar bolsos grandes, comida, trípodes o drones: no se entra y la consigna hace perder tiempo',
+      'Llevar comida, trípodes o drones, que no entran, y bolsos grandes, que alargan los controles',
       'Fiarse de los guías que se ofrecen en las puertas sin credencial',
     ],
     luoghi: [
       {
         nome: "Taj Mahal",
         testo: "El mausoleo de mármol blanco que Shah Jahan mandó construir para su esposa Mumtaz Mahal, muerta en 1631. La simetría es total: jardín, estanques, mezquita y casa de huéspedes se reflejan a los lados. De cerca, el mármol lleva incrustaciones de piedras duras.",
-        come: "Se llega en tuk-tuk eléctrico o en carrito de golf desde los aparcamientos, porque los coches no pueden acercarse. Dos entradas principales, este y oeste; entrada online en el portal oficial y controles de seguridad separados para hombres y mujeres. Los guías autorizados llevan acreditación.",
+        come: "Se llega en tuk-tuk eléctrico o en carrito de golf desde los aparcamientos, porque los coches no pueden acercarse. Dos entradas principales, este y oeste; entrada online en el portal oficial y controles de seguridad en el acceso. Los guías autorizados llevan acreditación.",
         quando: "Desde media hora antes del amanecer hasta media hora antes del atardecer. Cerrado los viernes. Algunas noches en torno a la luna llena hay visita nocturna, en grupos pequeños y con reserva: fechas y normas en la web oficial.",
         tempo: "2-3 horas",
         costo: "1.100 rupias para los extranjeros, más 200 para el interior del mausoleo; gratis para menores de 15 años (tajmahal.gov.in, 2026)",
@@ -253,9 +254,9 @@ export const destinazioniIndia: Destinazione[] = [
       },
       {
         nome: "Itimad-ud-Daulah",
-        testo: "La tumba que Nur Jahan mandó construir para su padre entre 1622 y 1628, en la orilla opuesta del Yamuna. Es la primera gran obra mogol en mármol con incrustaciones de piedras duras, y por eso la llaman el «pequeño Taj».",
+        testo: "La tumba que Nur Jahan mandó construir para su padre entre 1622 y 1628, en la orilla opuesta del Yamuna. En mármol blanco con incrustaciones de piedras duras, marca el paso de las tumbas mogolas de arenisca roja al mármol del Taj: por eso la llaman el «pequeño Taj».",
         come: "En tuk-tuk desde el Fuerte cruzando el puente, unos 20 minutos. Se visita por libre.",
-        quando: "Del amanecer al atardecer, abierto también el viernes. Poca gente a cualquier hora.",
+        quando: "Abierto también el viernes, con tarifa reducida; horarios en la web oficial. Poca gente a cualquier hora.",
         tempo: "45 minutos",
         costo: "310 rupias para los extranjeros, 300 el viernes (tajmahal.gov.in, 2026)",
         url: "https://www.tajmahal.gov.in/",
@@ -274,8 +275,8 @@ export const destinazioniIndia: Destinazione[] = [
       {
         nome: "Fatehpur Sikri",
         testo: "La capital que Akbar construyó entre 1571 y 1585 y abandonó poco después. Palacios, patios y la gran mezquita con la Buland Darwaza se han conservado casi intactos.",
-        come: "A unos 40 kilómetros, una hora en coche, en la carretera hacia Jaipur o Ranthambore. El complejo real tiene entrada de pago; la mezquita es gratis y se entra descalzo.",
-        quando: "Todos los días del amanecer al atardecer. Por la mañana, antes de que el patio de arenisca se caliente.",
+        come: "A unos 37 kilómetros, una hora en coche, en la carretera hacia Jaipur o Ranthambore. El complejo real tiene entrada de pago; en la mezquita se entra sin zapatos.",
+        quando: "Abierto también el viernes, con tarifa reducida; horarios en la web oficial. Por la mañana, antes de que el patio de arenisca se caliente.",
         tempo: "2 horas",
         costo: "610 rupias para los extranjeros, 600 el viernes (tajmahal.gov.in, 2026)",
         url: "https://www.tajmahal.gov.in/",
@@ -283,9 +284,9 @@ export const destinazioniIndia: Destinazione[] = [
       },
       {
         nome: "Tumba de Akbar en Sikandra",
-        testo: "El mausoleo del emperador Akbar, a 10 kilómetros del centro, con una puerta monumental con incrustaciones y un parque donde pastan antílopes y ciervos.",
+        testo: "El mausoleo del emperador Akbar, construido por Jahangir entre 1605 y 1613 a unos 8 kilómetros del centro, con una puerta monumental con incrustaciones de mármol y pizarra y un gran jardín alrededor.",
         come: "En coche o tuk-tuk hacia el norte, en la carretera a Delhi. Se visita por libre.",
-        quando: "Del amanecer al atardecer, abierta también el viernes.",
+        quando: "Abierta también el viernes, con tarifa reducida; horarios en la web oficial.",
         tempo: "1 hora",
         costo: "310 rupias para los extranjeros, 300 el viernes (tajmahal.gov.in, 2026)",
         url: "https://www.tajmahal.gov.in/",
@@ -346,7 +347,7 @@ export const destinazioniIndia: Destinazione[] = [
       "El Taj Mahal cierra los viernes: mirad el calendario antes de reservar trenes y hoteles.",
       "Quien se ofrece como guía en las puertas sin acreditación oficial, o vende entradas fuera de las taquillas.",
       "Las tiendas de mármol con incrustaciones a las que os lleva el conductor o el tuk-tuk le pagan comisión: los precios suben en consecuencia.",
-      "La comida, los drones y los trípodes sin permiso no entran en el Taj, y la consigna hace perder tiempo.",
+      "La comida, los drones y los trípodes sin permiso no entran en el Taj; los bolsos grandes y los libros alargan los controles.",
       "Entre diciembre y enero la niebla puede tapar el Taj al amanecer durante un par de horas."
     ],
     esperienzeSlugs: [],
@@ -385,7 +386,7 @@ export const destinazioniIndia: Destinazione[] = [
     comeSpostarsi: 'Tuk-tuk, Uber y Ola, conductor para Amber y Nahargarh.',
     periodoMigliore: 'octubre-marzo.',
     costi:
-      'Amber 1.000 rupias para los extranjeros desde el 1 de enero de 2026 (revisión de las tarifas estatales); el City Palace tiene tarifas propias en su web oficial; entrada combinada para Amber, Nahargarh, Hawa Mahal, Albert Hall y Jantar Mantar válida dos días.',
+      'Desde el 1 de enero de 2026 (revisión de las tarifas estatales) los extranjeros pagan 1.000 rupias en Amber y 600 en Hawa Mahal, Jantar Mantar, Nahargarh y Albert Hall; la entrada combinada vale 10 días para todos los monumentos y museos estatales del Rajastán (5.500 rupias según la prensa local). El City Palace, privado, tiene tarifas propias en su web oficial.',
     erroriDaEvitare: [
       'Creer la propuesta de comprar gemas para revender en Italia',
       'Subir a Amber a lomos de elefante',
@@ -395,40 +396,43 @@ export const destinazioniIndia: Destinazione[] = [
       {
         nome: "Fuerte de Amber",
         testo: "El palacio-fortaleza de los Kachwaha, en las colinas a 11 kilómetros de la ciudad, con las murallas que bajan hasta el lago Maota. Dentro hay patios y salas, entre ellas el Sheesh Mahal, la sala de los espejos. Es patrimonio de la UNESCO dentro de los fuertes de colina del Rajastán.",
-        come: "Con el conductor o en Uber hasta el pie del fuerte y luego la rampa a pie, 15-20 minutos, o en jeep. Un guía autorizado o la audioguía ayudan a orientarse entre los patios.",
-        quando: "A la hora de apertura, antes de los autocares y del calor. Por la noche hay espectáculo de luz y sonido.",
+        come: "Con el conductor o en Uber hasta el pie del fuerte y luego la rampa a pie, o en jeep. Un guía autorizado o la audioguía ayudan a orientarse entre los patios.",
+        quando: "A la hora de apertura, antes de los autocares y del calor.",
         tempo: "2-3 horas",
         costo: "1.000 rupias para los extranjeros según la revisión estatal vigente desde el 1 de enero de 2026",
         consiglio: "Dentro del fuerte está el restaurante 1135 AD: nosotros volvimos para cenar, muy bueno y en un sitio con muchísimo encanto. Al final nos invitaron a ver la sala privada de los maharajás, en el último piso, donde todavía cenan y reciben a la gente importante."
       },
       {
         nome: "Hawa Mahal",
-        testo: "El Palacio de los vientos, construido en 1799: una fachada rosa de cinco pisos con cientos de ventanitas de celosía, desde las que las damas de la corte miraban la calle sin ser vistas. Detrás, la fachada es una pantalla muy fina.",
-        come: "En la ciudad vieja, en Badi Chaupar. La entrada está en la parte de atrás; la fachada se mira desde la calle o desde las terrazas de los cafés de enfrente.",
+        testo: "El Palacio de los vientos, construido en 1799: una fachada rosa de cinco pisos con 953 ventanitas de celosía, desde las que las damas de la corte miraban la calle sin ser vistas. Detrás, la fachada es una pantalla muy fina.",
+        come: "En la ciudad vieja, cerca de Badi Chaupar. La entrada está del lado del City Palace; la fachada se mira desde la calle o desde las terrazas de los cafés de enfrente.",
         quando: "A primera hora: la fachada mira al este y recibe el primer sol.",
         tempo: "45 minutos",
+        costo: "600 rupias para los extranjeros (tarifa estatal desde el 1 de enero de 2026)",
         consiglio: "La mejor foto se hace desde una terraza al otro lado de la calle, con un chai, antes de las 9."
       },
       {
         nome: "City Palace",
         testo: "La residencia de la familia real de Jaipur, todavía habitada en parte: patios, puertas pintadas con pavos reales, armerías y colecciones de tejidos. El Chandra Mahal, donde vive la familia, solo se visita con el Royal Tour.",
-        come: "En pleno centro de la ciudad vieja, al lado del Jantar Mantar. Entradas en las puertas 1 y 2; el Royal Tour solo se compra en taquilla.",
+        come: "En pleno centro de la ciudad vieja, al lado del Jantar Mantar. El Royal Tour, con guía y refresco, solo se compra en taquilla.",
         quando: "Todos los días de 9.30 a 18.30; cierra solo el segundo día de Holi. La galería de tejidos del Mubarak Mahal está cerrada por restauración desde marzo de 2026.",
         tempo: "1 hora y media-2 horas",
+        costo: "Royal Tour 4.000 rupias por persona; las tarifas del museo en la web oficial (citypalace.org, 2026)",
         url: "https://citypalace.org/visit",
         consiglio: "Combinarlo con el Jantar Mantar, que está a dos pasos: los dos caben en la misma tarde."
       },
       {
         nome: "Jantar Mantar",
-        testo: "El observatorio astronómico que Jai Singh II construyó en el siglo XVIII, con instrumentos de piedra gigantes. El reloj de sol del Samrat Yantra mide 27 metros y marca la hora con una precisión de pocos segundos. Es patrimonio de la UNESCO.",
+        testo: "El observatorio astronómico que Jai Singh II construyó en el siglo XVIII, con instrumentos de piedra gigantes. El reloj de sol del Samrat Yantra mide unos 27 metros y, según se dice, marca la hora con una precisión de unos dos segundos. Es patrimonio de la UNESCO.",
         come: "Al lado del City Palace. Sin explicaciones los instrumentos parecen esculturas: mejor con guía o audioguía.",
         quando: "De día y con sol, que hace falta para ver cómo funcionan los relojes solares.",
         tempo: "1 hora",
+        costo: "600 rupias para los extranjeros (tarifa estatal desde el 1 de enero de 2026)",
         consiglio: "Ir a mediodía: es el único sitio de Jaipur donde el sol alto ayuda."
       },
       {
         nome: "Jal Mahal y Panna Meena ka Kund",
-        testo: "El Jal Mahal es un palacio que parece flotar en el lago Man Sagar, en la carretera de Amber; no se visita, se mira desde el paseo. Cerca del fuerte está Panna Meena ka Kund, un pozo escalonado del siglo XVII con escaleras cruzadas.",
+        testo: "El Jal Mahal es un palacio que parece flotar en el lago Man Sagar, en la carretera de Amber; no se visita, se mira desde el paseo. Cerca del fuerte está Panna Meena ka Kund, un pozo escalonado del siglo XVI con escaleras cruzadas.",
         come: "Paradas en la carretera de Amber, con el conductor. El pozo está a 10 minutos a pie del aparcamiento del fuerte.",
         quando: "El pozo por la mañana, con la luz rasante sobre las escaleras. El Jal Mahal también al atardecer.",
         tempo: "1 hora en total",
@@ -438,9 +442,10 @@ export const destinazioniIndia: Destinazione[] = [
       {
         nome: "Fuerte de Nahargarh",
         testo: "El fuerte en la cresta sobre la ciudad, construido en 1734. Desde las murallas se ve todo Jaipur, rosa y polvoriento, que se enciende al atardecer.",
-        come: "En coche con el conductor por la carretera de la cresta, unos 40 minutos desde el centro. Dentro está el palacio Madhavendra, con los aposentos de las reinas.",
+        come: "En coche con el conductor por la carretera de la cresta. Dentro está el palacio Madhavendra, con los aposentos de las reinas.",
         quando: "Última hora de la tarde, hasta el atardecer.",
         tempo: "1 hora y media",
+        costo: "600 rupias para los extranjeros (tarifa estatal desde el 1 de enero de 2026)",
         consiglio: "No bajar a pie de noche: se vuelve en coche."
       },
       {
@@ -449,7 +454,7 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Justo fuera de la ciudad vieja, en tuk-tuk. El recorrido es corto y está bien señalizado.",
         quando: "De día para el museo; por la noche el edificio está iluminado.",
         tempo: "1 hora",
-        consiglio: "Entra en la entrada combinada con Amber, Hawa Mahal, Jantar Mantar y Nahargarh: compensa si se ven al menos tres de ellos."
+        consiglio: "Entrada 600 rupias para los extranjeros. La entrada combinada estatal vale 10 días en todo el Rajastán: solo compensa si se visitan muchos monumentos estatales, también fuera de Jaipur."
       },
       {
         nome: "Los bazares de la ciudad vieja",
@@ -509,7 +514,7 @@ export const destinazioniIndia: Destinazione[] = [
       },
       {
         nome: "Pyaaz kachori",
-        testo: "Buñuelo relleno de cebolla especiada, el desayuno de Jaipur. Los locales históricos, como Rawat, cerca de la estación, lo fríen desde el amanecer."
+        testo: "Buñuelo relleno de cebolla especiada, el desayuno de Jaipur. Los locales históricos, como Rawat Mishthan Bhandar, lo fríen desde primera hora."
       },
       {
         nome: "Dal baati churma",
@@ -545,7 +550,7 @@ export const destinazioniIndia: Destinazione[] = [
     giorniConsigliati: "2 noches, al menos dos safaris",
     visitataPersonalmente: true,
     introduzione:
-      "Uno de los parques de tigres más famosos de la India, entre Agra y Jaipur: bosque seco, lagos y ruinas, con un fuerte del siglo X sobre un peñasco dentro del parque. Solo se visita con los safaris oficiales, en jeep o en camión descubierto.",
+      "Uno de los parques de tigres más famosos de la India, entre Agra y Jaipur: bosque seco, lagos y ruinas, con un fuerte medieval sobre un peñasco dentro del parque. Solo se visita con los safaris oficiales, en jeep o en camión descubierto.",
     percheAndarci:
       "Para ver tigres en libertad a pocas horas de Jaipur. Además de tigres hay leopardos, osos bezudos, cocodrilos en los lagos y muchos ciervos. El Fuerte de Ranthambore es patrimonio de la UNESCO junto con los demás fuertes de colina de Rajastán.",
     cosaVedere: [
@@ -560,7 +565,7 @@ export const destinazioniIndia: Destinazione[] = [
     comeArrivare: "Unas 5-6 horas en coche desde Agra, 3,5-4 desde Jaipur. La estación es Sawai Madhopur, en la línea Delhi-Bombay.",
     comeSpostarsi: "En los vehículos del safari (gypsy o canter), que te recogen en el hotel.",
     periodoMigliore:
-      "octubre-junio; las zonas centrales (1-5) cierran con el monzón, del 1 de julio al 30 de septiembre. De marzo a junio hace calor, pero los animales se ven más alrededor del agua.",
+      "octubre-junio; las zonas centrales (1-5) cierran con el monzón, de julio a septiembre, mientras algunas zonas exteriores siguen abiertas. De marzo a junio hace calor, pero los animales se ven más alrededor del agua.",
     erroriDaEvitare: [
       "Reservar tarde: las gypsy se agotan primero",
       "Hacer un solo safari: la zona asignada puede no ser la buena",
@@ -571,15 +576,15 @@ export const destinazioniIndia: Destinazione[] = [
         nome: "El parque en safari",
         testo: "Bosque seco, lagos y ruinas donde viven tigres, leopardos, osos bezudos, cocodrilos y muchos ciervos sambar. El parque está dividido en zonas y cada safari recorre solo una, asignada por el Forest Department.",
         come: "Solo con los safaris oficiales, en gypsy (jeep de 6 plazas) o canter (camión descubierto de unas veinte), que recogen en el hotel. Se reserva con el pasaporte en el portal del Forest Department o a través del hotel.",
-        quando: "Dos turnos al día, a primera hora de la mañana y por la tarde, con horarios que cambian según la temporada. Las zonas 1-5 cierran del 1 de julio al 30 de septiembre. De marzo a junio hace calor, pero los animales se ven cerca del agua.",
-        tempo: "unas 3 horas y media por safari; al menos dos safaris",
+        quando: "Dos turnos al día, a primera hora de la mañana y por la tarde, con horarios que cambian según la temporada. Las zonas 1-5 cierran de julio a septiembre. De marzo a junio hace calor, pero los animales se ven cerca del agua.",
+        tempo: "unas horas por safari, según la temporada; al menos dos safaris",
         consiglio: "Nosotros nos movimos tarde e hicimos el canter, pero tuvimos suerte igualmente: 3 tigres en un solo safari de mañana, y también dos osos pequeños que corrían. Si queréis la gypsy, reservad con mucha antelación, y haced siempre al menos dos safaris: la zona no se elige, se asigna al azar."
       },
       {
         nome: "Fuerte de Ranthambore",
-        testo: "Un fuerte del siglo X sobre un peñasco dentro del parque, con murallas, cisternas y el templo de Trinetra Ganesh, lugar de peregrinación. Es patrimonio de la UNESCO dentro de los fuertes de colina del Rajastán.",
-        come: "Se sube desde la puerta del parque en coche o tuk-tuk y luego a pie por las escalinatas. No hace falta safari.",
-        quando: "Por la mañana, entre un safari y otro. El miércoles el templo de Ganesh está abarrotado.",
+        testo: "Un fuerte medieval, fundado quizá hacia el siglo X, sobre un peñasco dentro del parque, con murallas, cisternas y el templo de Trinetra Ganesh, lugar de peregrinación. Es patrimonio de la UNESCO dentro de los fuertes de colina del Rajastán.",
+        come: "Se sube desde la puerta del parque en coche o tuk-tuk y luego a pie por las escalinatas, como los peregrinos que van al templo de Ganesh.",
+        quando: "Por la mañana, entre un safari y otro. El miércoles el templo de Ganesh atrae a miles de fieles.",
         tempo: "2 horas",
         consiglio: "A lo largo de las murallas se ven a menudo langures y a veces animales del parque bajo el peñasco."
       },
@@ -614,7 +619,7 @@ export const destinazioniIndia: Destinazione[] = [
       {
         nome: "Ranthambore Road",
         perChi: "quien viene por los safaris",
-        testo: "La carretera de 10 kilómetros entre Sawai Madhopur y la puerta del parque, con lodges y resorts de todas las gamas. Muchos organizan la recogida para los safaris; se duerme tranquilo, pero alrededor no hay nada."
+        testo: "La carretera entre Sawai Madhopur y la puerta del parque, con lodges y resorts de todas las gamas. Muchos organizan la recogida para los safaris; se duerme tranquilo, pero alrededor no hay nada."
       },
       {
         nome: "Sawai Madhopur",
@@ -641,7 +646,7 @@ export const destinazioniIndia: Destinazione[] = [
     giorniConsigliati: '1 día',
     visitataPersonalmente: true,
     introduzione:
-      'Una pequeña ciudad santa alrededor de un lago con 52 ghats, donde se encuentra uno de los poquísimos templos dedicados a Brahma en la India. Vegetariana por tradición: nada de carne, nada de huevos y nada de alcohol.',
+      'Una pequeña ciudad santa alrededor de un lago con unos cincuenta ghats, donde se encuentra uno de los poquísimos templos dedicados a Brahma en la India. Vegetariana por tradición: nada de carne, nada de huevos y nada de alcohol.',
     percheAndarci:
       'Para ir más despacio entre Jaipur y Jodhpur: los ghats al atardecer, los cantos de la noche, los callejones de los bazares. Hacia la luna llena de Kartik (octubre-noviembre) acoge la feria de camellos.',
     cosaVedere: ['Los ghats del lago al atardecer', 'El templo de Brahma', 'El templo de Savitri en la colina, al que se llega a pie o en teleférico'],
@@ -658,8 +663,8 @@ export const destinazioniIndia: Destinazione[] = [
     luoghi: [
       {
         nome: "El lago sagrado y los ghats",
-        testo: "Un pequeño lago rodeado de 52 ghats y de casas blancas, donde según la leyenda cayó una flor de loto de Brahma. Al atardecer, campanas y cantos llenan el agua.",
-        come: "A pie desde el bazar. Sin zapatos en los ghats; no está permitido fotografiar a quien se baña.",
+        testo: "Un pequeño lago rodeado de unos 52 ghats y de casas blancas, donde según la leyenda cayó una flor de loto de Brahma. Al atardecer, campanas y cantos llenan el agua.",
+        come: "A pie desde el bazar. Sin zapatos en los ghats; fotografiar a quien se baña sin preguntar está mal visto.",
         quando: "Al amanecer y al atardecer, con el aarti de la noche en los ghats principales, como Varaha y Gau Ghat.",
         tempo: "2 horas",
         costo: "gratis",
@@ -668,25 +673,25 @@ export const destinazioniIndia: Destinazione[] = [
       {
         nome: "Templo de Brahma",
         testo: "Uno de los poquísimos templos de la India dedicados a Brahma, el dios creador. El edificio actual es del siglo XIV, con la aguja roja y el suelo de monedas de plata dejadas por los fieles.",
-        come: "En el bazar, a pie. Zapatos, móviles y bolsos en la consigna; nada de objetos de piel.",
-        quando: "A primera hora o a última de la tarde. Cierra a mediodía.",
+        come: "En el bazar, a pie. Sin zapatos para entrar.",
+        quando: "A primera hora o a última de la tarde: a mediodía cierra, normalmente de 13.30 a 15.",
         tempo: "30 minutos",
         costo: "entrada libre",
         consiglio: "Quien os ofrece acompañaros «para la bendición» os pedirá una ofrenda: se entra perfectamente por libre."
       },
       {
         nome: "Templo de Savitri",
-        testo: "El templo de la esposa de Brahma, en lo alto de la colina al sur del lago. Desde arriba se ven Pushkar, el lago y el desierto.",
-        come: "A pie en 45 minutos-una hora por una escalinata, o en teleférico.",
+        testo: "El templo de la esposa de Brahma, en lo alto de la colina de Ratnagiri, detrás del templo de Brahma. Desde arriba se ven Pushkar, el lago y el desierto.",
+        come: "A pie por una larga escalinata, o en teleférico (horarios y precios en el lugar).",
         quando: "Al amanecer, saliendo de noche con una linterna, o al atardecer.",
         tempo: "2 horas con la subida",
         consiglio: "Llevar agua: en la escalinata no hay nada."
       },
       {
         nome: "La feria de los camellos",
-        testo: "Una de las ferias de ganado más grandes del mundo: miles de camellos, comerciantes, competiciones y peregrinos. Se celebra los días anteriores a la luna llena de Kartik, que en 2026 cae el 24 de noviembre.",
-        come: "En el recinto ferial al oeste de la ciudad, a pie. Las fechas exactas las publica el gobierno del Rajastán.",
-        quando: "Las primeras mañanas de la feria, cuando hay compraventa real de camellos; los últimos días son para los peregrinos.",
+        testo: "Una de las ferias de camellos, caballos y ganado más grandes de la India: miles de camellos, comerciantes, competiciones y peregrinos. Se celebra los días anteriores a la luna llena de Kartik y termina ese día: el 24 de noviembre en 2026.",
+        come: "En el recinto ferial, a pie desde el centro. Las fechas exactas las publica el gobierno del Rajastán.",
+        quando: "Los primeros días, cuando se comercia con los camellos; los cinco últimos, alrededor de la luna llena, son los de más peregrinos.",
         tempo: "medio día",
         consiglio: "Reservar el alojamiento con meses de antelación: esos días los precios se multiplican."
       }
@@ -735,7 +740,7 @@ export const destinazioniIndia: Destinazione[] = [
     attenzioni: [
       "La flor «de regalo» en los ghats: después viene una puja y la petición de un donativo para la familia, a menudo muy alto.",
       "No fotografiéis a quien se baña ni las ceremonias sin preguntar.",
-      "El bhang lassi, con cannabis, se vende abiertamente, pero tiene efectos fuertes e impredecibles.",
+      "El bhang lassi, con cannabis, se encuentra con facilidad, pero tiene efectos fuertes e impredecibles.",
       "Durante la feria de los camellos, cuidado con los carteristas entre la multitud."
     ],
     esperienzeSlugs: [],
@@ -752,7 +757,7 @@ export const destinazioniIndia: Destinazione[] = [
     giorniConsigliati: '2 días',
     visitataPersonalmente: true,
     introduzione:
-      'La ciudad azul, en el borde del desierto del Thar, dominada por el Fuerte de Mehrangarh sobre un espolón de roca de 120 metros de altura.',
+      'La ciudad azul, en el borde del desierto del Thar, dominada por el Fuerte de Mehrangarh sobre un espolón de roca que se alza unos 120 metros sobre la llanura.',
     percheAndarci:
       'Mehrangarh es el fuerte más impresionante de Rajastán y la ciudad vieja, con las casas pintadas de azul, es más tranquila y vertical que Jaipur.',
     cosaVedere: [
@@ -765,25 +770,26 @@ export const destinazioniIndia: Destinazione[] = [
     cosaFare: ['La visita del fuerte con la audioguía incluida', 'El atardecer desde una terraza de la ciudad vieja', 'La tirolina sobre las murallas del fuerte'],
     doveDormire: 'Haveli con terraza bajo el fuerte, en la zona del Ghanta Ghar y de Navchokiya.',
     doveMangiare: 'Mirchi bada, pyaaz kachori y makhaniya lassi con azafrán.',
-    comeArrivare: 'Desde Jaipur en tren (unas 5 horas) o en coche.',
+    comeArrivare: 'Desde Jaipur en tren o en coche: hay que contar medio día de viaje.',
     comeSpostarsi: 'A pie y en tuk-tuk; los coches no entran en los callejones.',
     periodoMigliore: 'octubre-marzo; noches frías en enero.',
-    costi: 'Mehrangarh unas 600 rupias con audioguía para los extranjeros.',
+    costi: 'Museo de Mehrangarh 800 rupias para los extranjeros, audioguía incluida; Jaswant Thada 100 rupias; Rao Jodha Park 100 rupias (web oficial, 2026).',
     erroriDaEvitare: ['Llegar con maletas pesadas a los callejones de escaleras', 'Visitar el fuerte en las horas centrales'],
     luoghi: [
       {
         nome: "Fuerte de Mehrangarh",
-        testo: "El fuerte de los Rathore sobre un espolón de roca de 120 metros encima de la ciudad azul, empezado en 1459. Dentro está uno de los museos mejor cuidados de la India, con palanquines, armas, cunas reales y salas pintadas. Lo gestiona una fundación de la familia real.",
-        come: "En tuk-tuk o a pie desde la ciudad vieja, por una cuesta empinada de 20 minutos. En la entrada hay un ascensor para la parte alta. El recorrido del museo está señalizado.",
+        testo: "El fuerte de los Rathore sobre un espolón de roca que domina la ciudad azul, empezado en 1459. Dentro está uno de los museos mejor cuidados de la India, con las galerías de palanquines, armas, howdahs y pinturas. Lo gestiona una fundación de la familia real.",
+        come: "En tuk-tuk o a pie desde la ciudad vieja, por una cuesta empinada. En la entrada hay un ascensor para la parte alta (50 rupias por trayecto, 2026). El recorrido del museo está señalizado.",
         quando: "El museo abre todos los días de 9 a 17. A la hora de apertura, antes del calor y de los grupos.",
         tempo: "2-3 horas",
         url: "https://www.mehrangarh.org/visit/",
-        consiglio: "Coger la audioguía: cuenta el fuerte sala por sala y se recorre con calma sin guía."
+        costo: "800 rupias para los extranjeros, audioguía incluida (web oficial, 2026)",
+        consiglio: "Coger la audioguía, incluida en la entrada de los extranjeros: cuenta el fuerte sala por sala y se recorre con calma sin guía."
       },
       {
         nome: "Jaswant Thada",
-        testo: "El cenotafio de mármol blanco del maharajá Jaswant Singh II, de 1899, en una colina entre el fuerte y la ciudad. El mármol es tan fino que a contraluz se enciende.",
-        come: "A un kilómetro del fuerte, a pie o en tuk-tuk. Tiene entrada propia.",
+        testo: "El cenotafio de mármol blanco del maharajá Jaswant Singh II, encargado por su hijo Sardar Singh en 1899 y terminado en 1906, en una colina entre el fuerte y la ciudad. Las láminas de mármol son tan finas que al sol se encienden con una luz cálida.",
+        come: "A poca distancia del fuerte, a pie o en tuk-tuk. Tiene entrada propia: 100 rupias para los extranjeros (web oficial, 2026).",
         quando: "Todos los días de 9 a 17. A última hora de la tarde, con la vista del fuerte.",
         tempo: "45 minutos",
         url: "https://www.mehrangarh.org/visit/",
@@ -791,8 +797,8 @@ export const destinazioniIndia: Destinazione[] = [
       },
       {
         nome: "Rao Jodha Desert Rock Park",
-        testo: "Setenta hectáreas de roca volcánica bajo el fuerte, donde la fundación de Mehrangarh ha recuperado las plantas del desierto. Senderos cortos con vistas a las murallas.",
-        come: "Entrada cerca del fuerte. Senderos señalizados, guías naturalistas a petición.",
+        testo: "Setenta hectáreas de terreno rocoso alrededor del fuerte, donde desde 2006 la fundación de Mehrangarh ha recuperado las plantas del desierto. Senderos cortos con vistas a las murallas.",
+        come: "Entrada cerca del fuerte. Se camina solo o con un guía naturalista (200 rupias, web oficial 2026). Entrada 100 rupias.",
         quando: "De octubre a marzo de 8 a 17.30, de abril a septiembre de 7 a 18.30. A primera hora, por la luz y los pájaros.",
         tempo: "1-2 horas",
         url: "https://www.mehrangarh.org/visit/",
@@ -800,7 +806,7 @@ export const destinazioniIndia: Destinazione[] = [
       },
       {
         nome: "La ciudad azul: Brahmpuri y Navchokiya",
-        testo: "Los callejones bajo el fuerte, con las casas pintadas de añil. El azul era el color de los brahmanes y hoy lo usan muchas familias. Escaleras, placitas, pequeños templos y niños jugando al críquet.",
+        testo: "Los callejones bajo el fuerte, con las casas pintadas de añil. Sobre el porqué del azul circulan varias explicaciones, ninguna documentada. Escaleras, placitas, pequeños templos y niños jugando al críquet.",
         come: "A pie, perdiéndose. Los coches no entran; un tuk-tuk os deja al principio de los callejones.",
         quando: "A primera hora o a última de la tarde, con la luz suave sobre el azul.",
         tempo: "1-2 horas",
@@ -809,7 +815,7 @@ export const destinazioniIndia: Destinazione[] = [
       },
       {
         nome: "Toorji ka Jhalra y el Ghanta Ghar",
-        testo: "Un pozo escalonado del siglo XVIII en arenisca roja, restaurado y rodeado de cafés, a cinco minutos de la torre del reloj. Alrededor del Ghanta Ghar está el mercado de Sardar, con especias, telas y menaje.",
+        testo: "Un pozo escalonado de arenisca tallada, fechado normalmente hacia 1740 y restaurado varias veces, en la ciudad vieja bajo el fuerte. Alrededor del Ghanta Ghar está el mercado de Sardar, con especias, telas y menaje.",
         come: "A pie por la ciudad vieja.",
         quando: "El pozo por la mañana; el mercado desde media mañana hasta la noche.",
         tempo: "1-2 horas",
@@ -818,8 +824,8 @@ export const destinazioniIndia: Destinazione[] = [
       },
       {
         nome: "Umaid Bhawan Palace",
-        testo: "El palacio art déco terminado en 1943, hoy en parte hotel de lujo y en parte residencia de la familia real. Un ala es un pequeño museo con relojes y coches antiguos.",
-        come: "A 4 kilómetros de la ciudad vieja, en tuk-tuk. El museo tiene una entrada separada del hotel.",
+        testo: "El palacio art déco terminado en 1943, hoy en parte hotel de lujo y en parte residencia de la familia real. Un ala es un pequeño museo sobre la historia de la familia en el siglo XX; delante, en el jardín, están los coches antiguos de los maharajás.",
+        come: "Fuera de la ciudad vieja, en tuk-tuk. El museo tiene una entrada separada del hotel.",
         quando: "De día; encaja bien por la tarde.",
         tempo: "1 hora",
         consiglio: "Si vais justos de tiempo, se puede saltar: Mehrangarh y los callejones valen más."
@@ -860,7 +866,7 @@ export const destinazioniIndia: Destinazione[] = [
       {
         nome: "Ratanada y la ciudad nueva",
         perChi: "hoteles heritage con jardín",
-        testo: "Antiguas residencias nobles y hoteles con piscina a 3-5 kilómetros de la ciudad vieja. Tranquilos, siempre hace falta un tuk-tuk."
+        testo: "Antiguas residencias nobles y hoteles con piscina fuera de la ciudad vieja. Tranquilos, siempre hace falta un tuk-tuk."
       }
     ],
     sapori: [
@@ -901,14 +907,14 @@ export const destinazioniIndia: Destinazione[] = [
     giorniConsigliati: '2-3 días',
     visitataPersonalmente: true,
     introduzione:
-      'La ciudad dorada, construida en arenisca amarilla en el desierto del Thar a un centenar de kilómetros de la frontera con Pakistán, con uno de los pocos fuertes todavía habitados del mundo.',
+      'La ciudad dorada, construida en arenisca amarilla en el desierto del Thar, no lejos de la frontera con Pakistán, con uno de los pocos fuertes todavía habitados del mundo.',
     percheAndarci:
       'Por el fuerte habitado, las haveli talladas como encajes y una noche entre las dunas, que es la experiencia de desierto más sencilla de organizar en la India.',
     cosaVedere: ['El Fuerte de Jaisalmer y sus templos jainistas', 'Las haveli de Patwon y Nathmal', 'El lago de Gadisar al amanecer', 'Las dunas de Sam o de Khuri'],
     cosaFare: ['Una noche en campamento en el desierto con paseo en camello al atardecer', 'El atardecer desde los baluartes del fuerte'],
     doveDormire: 'Hoteles en las haveli de la ciudad bajo el fuerte; campamentos en el desierto para una noche.',
     doveMangiare: 'Ker sangri, dal baati y los dulces de Jaisalmer.',
-    comeArrivare: 'Desde Jodhpur unas 5 horas en coche o en tren; vuelos estacionales desde Delhi y Mumbai.',
+    comeArrivare: 'Desde Jodhpur en coche o en tren, medio día de viaje; el aeropuerto tiene vuelos desde Delhi, Mumbai y otras ciudades, algunos solo en ciertas temporadas.',
     comeSpostarsi: 'A pie en la ciudad, jeep para las dunas.',
     periodoMigliore: 'noviembre-febrero; desde abril el calor es extremo.',
     erroriDaEvitare: [
@@ -918,23 +924,23 @@ export const destinazioniIndia: Destinazione[] = [
     luoghi: [
       {
         nome: "El Fuerte de Jaisalmer",
-        testo: "El fuerte de arenisca amarilla de 1156, uno de los pocos del mundo que siguen habitados: dentro de las murallas viven unos cuantos miles de personas entre casas, tiendas, templos y hoteles. Es patrimonio de la UNESCO dentro de los fuertes de colina del Rajastán.",
+        testo: "El fuerte de arenisca amarilla de 1156, uno de los pocos del mundo que siguen habitados: dentro de las murallas viven unas 4.000 personas entre casas, tiendas, templos y hoteles. Es patrimonio de la UNESCO dentro de los fuertes de colina del Rajastán.",
         come: "Se entra a pie por la puerta principal y se pasea libremente por los callejones. De pago son el palacio del maharawal (Raj Mahal) y los templos jainistas.",
-        quando: "Por la mañana para los templos jainistas, abiertos a los visitantes solo a primera hora. El atardecer desde los bastiones.",
+        quando: "Por la mañana para los templos jainistas, que normalmente reciben visitantes solo hasta mediodía. El atardecer desde los bastiones.",
         tempo: "medio día",
-        consiglio: "Dormir fuera de las murallas y visitarlo de día: el peso de los desagües de los hoteles daña los cimientos del fuerte."
+        consiglio: "Dormir fuera de las murallas y visitarlo de día: según el Archaeological Survey of India, el agua que gastan hoteles y restaurantes dentro de las murallas se filtra en los cimientos y los debilita."
       },
       {
         nome: "Las havelis de Patwon y de Nathmal",
-        testo: "Palacios de mercaderes del siglo XIX con las fachadas talladas como encaje de piedra. La Patwon ki Haveli es en realidad un grupo de cinco casas construidas por una familia de comerciantes; una es museo.",
-        come: "En la ciudad bajo el fuerte, a 10 minutos a pie. Entrada de pago para la parte visitable.",
+        testo: "Palacios de mercaderes del siglo XIX con las fachadas talladas como encaje de piedra. La Patwon ki Haveli es en realidad un grupo de cinco casas, empezado en 1805 por el mercader Guman Chand Patwa para sus hijos; una parte es museo.",
+        come: "En la ciudad bajo el fuerte, a pie. Entrada de pago para la parte visitable.",
         quando: "Por la mañana, antes de que se llenen los callejones.",
         tempo: "1 hora",
         consiglio: "Las fachadas se ven bien gratis desde la calle; se entra sobre todo por las terrazas."
       },
       {
         nome: "El lago de Gadisar",
-        testo: "El embalse del siglo XIV que daba agua a la ciudad, con pabellones y templos sobre el agua y una puerta tallada en la entrada.",
+        testo: "El embalse que antes daba agua a toda la ciudad, excavado en 1156 y reconstruido hacia 1367 por Rawal Gadsi, con pabellones y templos sobre el agua.",
         come: "A un kilómetro y medio del fuerte, a pie o en tuk-tuk. Hay barcas de remos y de pedales.",
         quando: "Al amanecer, cuando el agua está quieta y solo hay pájaros.",
         tempo: "1 hora",
@@ -943,7 +949,7 @@ export const destinazioniIndia: Destinazione[] = [
       },
       {
         nome: "Las dunas de Sam y de Khuri",
-        testo: "Las dunas del Thar a 40-50 kilómetros de la ciudad, adonde se llega en camello al atardecer y se duerme en campamentos de tiendas. Sam es más grande y concurrida; Khuri es más pequeña y tranquila.",
+        testo: "Las dunas del Thar a unas decenas de kilómetros de la ciudad, adonde se llega en camello al atardecer y se duerme en campamentos de tiendas. Sam es más grande y concurrida; Khuri es más pequeña y tranquila.",
         come: "En jeep con el campamento, que suele organizar traslado, camello, cena y música. El equipaje grande se queda en el hotel de Jaisalmer.",
         quando: "De noviembre a febrero, con noches frías. A partir de abril el calor es extremo.",
         tempo: "una noche",
@@ -951,11 +957,11 @@ export const destinazioniIndia: Destinazione[] = [
       },
       {
         nome: "Bada Bagh",
-        testo: "Un jardín de cenotafios de los soberanos de Jaisalmer, con decenas de pabellones de arenisca en una colina, a 6 kilómetros de la ciudad. Alrededor están los aerogeneradores del desierto.",
+        testo: "Un jardín de cenotafios de los soberanos de Jaisalmer, con decenas de pabellones de arenisca en una colina, unos 6 kilómetros al norte de la ciudad, construidos entre el siglo XVIII y principios del XX.",
         come: "En coche o tuk-tuk, también de camino a las dunas.",
         quando: "Al atardecer o al amanecer, cuando la arenisca se vuelve naranja.",
         tempo: "45 minutos",
-        consiglio: "Combina bien con el pueblo abandonado de Kuldhara, en la carretera a Khuri."
+        consiglio: "Combina bien con el pueblo abandonado de Kuldhara, unos 18 kilómetros al suroeste de la ciudad."
       }
     ],
     programmi: [
@@ -1024,8 +1030,8 @@ export const destinazioniIndia: Destinazione[] = [
     attenzioni: [
       "En la estación y en la parada de autobuses ofrecen llevaros gratis al hotel: a menudo acabáis en otro hotel que paga comisión.",
       "Los campamentos más baratos tienen niveles de higiene y de trato a los camellos muy variables.",
-      "Jaisalmer está a un centenar de kilómetros de Pakistán: las zonas fronterizas tienen restricciones y, tras las tensiones de mayo de 2025, conviene consultar las recomendaciones de viaje del Ministerio de Asuntos Exteriores antes de salir.",
-      "De abril a junio las temperaturas superan a menudo los 45 °C: hay que llevar agua siempre."
+      "Jaisalmer está cerca de Pakistán: el Foreign Office británico desaconseja todo viaje a menos de 10 kilómetros de la frontera, que en el Rajastán no está señalizada en algunos tramos. Conviene consultar las recomendaciones de viaje del Ministerio de Asuntos Exteriores antes de salir.",
+      "En mayo y junio las máximas medias superan los 40 °C: hay que llevar agua siempre."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-varanasi'],
@@ -1054,32 +1060,34 @@ export const destinazioniIndia: Destinazione[] = [
     cosaFare: ['Un paseo en barca por el Pichola', 'Una cena en una terraza de Ambrai Ghat', 'Un espectáculo de danzas tradicionales en la Bagore ki Haveli'],
     doveDormire: 'Lal Ghat y Gangaur Ghat en gama económica y media; Ambrai y Hanuman Ghat por la vista al palacio.',
     doveMangiare: 'Terrazas sobre el lago por la vista, thali houses de la ciudad vieja para comer bien y gastar poco.',
-    comeArrivare: 'Desde Jodhpur en coche (unas 5 horas con Ranakpur); aeropuerto con vuelos a Delhi, Mumbai y Jaipur.',
+    comeArrivare: 'Desde Jodhpur en coche, un día largo con la parada en Ranakpur; aeropuerto con vuelos a Delhi, Mumbai y Jaipur.',
     comeSpostarsi: 'A pie y en tuk-tuk; barcas en el lago.',
     periodoMigliore: 'octubre-marzo; después del monzón los lagos están llenos.',
-    costi: 'City Palace unas 400 rupias; Ranakpur abierto a los no jainistas aproximadamente de 12 a 17.',
+    costi: 'City Palace 400 rupias, tarifa única para indios y extranjeros (web oficial, 2023); barca al Jag Mandir 600 rupias, 800 al atardecer (tarifas oficiales abril 2025-marzo 2026); en Ranakpur los no jainistas entran normalmente desde mediodía.',
     erroriDaEvitare: ['Llegar a Ranakpur a primera hora de la mañana: los no jainistas entran solo desde mediodía', 'Llevar cuero en Ranakpur'],
     luoghi: [
       {
         nome: "City Palace",
         testo: "El palacio de los maharanas de Mewar, que fue creciendo durante cuatro siglos en la orilla del lago Pichola. Patios de los pavos reales, salas de espejos, balcones sobre el lago; una parte es museo y otra sigue siendo de la familia real.",
-        come: "Entrada por la Badi Pol, a pie desde la ciudad vieja. Entradas también online en la web del museo; guía o audioguía (en inglés, francés, alemán y español) útiles.",
-        quando: "A la hora de apertura, antes de los grupos.",
+        come: "Entrada por la Badi Pol o por la puerta de Shitla Mata, a pie desde la ciudad vieja. Entradas en las dos puertas u online en la web del museo; guía o audioguía (en inglés, francés, alemán y español) útiles.",
+        quando: "Abre todos los días de 9 a 21, taquilla hasta las 20. A la hora de apertura, antes de los grupos.",
         tempo: "2-3 horas",
+        costo: "400 rupias, la misma tarifa para indios y extranjeros (web oficial, 2023)",
         url: "https://www.citypalacemuseum.org/planyourvisit",
         consiglio: "Ver el palacio por la mañana y hacer la barca por el Pichola por la tarde, desde el mismo embarcadero."
       },
       {
         nome: "El lago Pichola en barca",
-        testo: "El lago artificial del siglo XIV, con el Lake Palace (hoy hotel) y el Jag Mandir en las islas. Desde el agua se ve toda la fachada del City Palace.",
-        come: "Las barcas salen del embarcadero del City Palace y de algunos ghats; la vuelta clásica para en el Jag Mandir.",
-        quando: "A última hora de la tarde, con el sol sobre los palacios; al atardecer cuesta más.",
+        testo: "El lago artificial creado en 1362, con el Lake Palace (hoy hotel) y el Jag Mandir en las islas. Desde el agua se ve toda la fachada del City Palace.",
+        come: "Las barcas oficiales salen de Rameshwar Ghat, junto al City Palace, y llevan al Jag Mandir; otras barcas salen de algunos ghats.",
+        quando: "Vueltas de día desde las 10; la del atardecer cuesta más. Horarios que cambian entre verano e invierno.",
         tempo: "1 hora",
+        costo: "vuelta con parada en el Jag Mandir 600 rupias, al atardecer 800 (tarifas oficiales abril 2025-marzo 2026)",
         consiglio: "Preguntar si la vuelta incluye la parada en el Jag Mandir: no todas la hacen."
       },
       {
         nome: "Templo de Jagdish",
-        testo: "El templo de Vishnu de 1651, a pocos pasos del palacio, sobre una escalinata alta, con las paredes cubiertas de esculturas. Es un templo vivo, con cantos y ofrendas todo el día.",
+        testo: "El templo de 1651 dedicado a Jagannath, forma de Vishnu, a pocos pasos del palacio, en lo alto de 32 escalones de mármol, con las paredes cubiertas de esculturas. Es un templo vivo, con cantos y ofrendas todo el día.",
         come: "A pie desde la Badi Pol. Zapatos en la entrada.",
         quando: "A primera hora y por la noche, durante las ceremonias.",
         tempo: "30 minutos",
@@ -1090,23 +1098,23 @@ export const destinazioniIndia: Destinazione[] = [
         nome: "Bagore ki Haveli",
         testo: "Una casa noble del siglo XVIII en Gangaur Ghat, hoy museo. Por la noche acoge el espectáculo Dharohar de danzas y músicas del Rajastán.",
         come: "A pie desde Lal Ghat. Entradas para el espectáculo en taquilla; conviene llegar pronto.",
-        quando: "Por la noche, para el espectáculo de una hora.",
+        quando: "Por la noche: el espectáculo empieza a las 19 y dura una hora.",
         tempo: "1-2 horas",
         consiglio: "Llegar media hora antes para coger sitio en primera fila."
       },
       {
         nome: "Sajjangarh, el Palacio de los monzones",
-        testo: "Un palacio blanco del siglo XIX en una colina al oeste de la ciudad, dentro de un pequeño santuario natural. Desde arriba se ven los lagos y las colinas de los Aravalli.",
-        come: "En coche o tuk-tuk hasta la puerta del santuario y luego con los vehículos internos hasta la cima.",
+        testo: "Un palacio blanco empezado en 1884 en una colina a unos 5 kilómetros al oeste de la ciudad, dentro de un pequeño santuario natural. Desde arriba se ven los lagos y las colinas de los Aravalli.",
+        come: "En coche o tuk-tuk, por una carretera que sube a través del santuario. Se visita hasta el atardecer.",
         quando: "Al atardecer.",
         tempo: "1 hora y media",
         consiglio: "Se disfruta más la vista que el palacio: se va por el atardecer."
       },
       {
         nome: "Ranakpur y Kumbhalgarh",
-        testo: "En la carretera desde Jodhpur. Ranakpur es un templo jainista del siglo XV en mármol blanco con 1.444 columnas, todas distintas. Kumbhalgarh es un fuerte con 36 kilómetros de murallas sobre las colinas.",
-        come: "Con el conductor, como parada entre Jodhpur y Udaipur (unas 5 horas en total). En Ranakpur hay audioguía.",
-        quando: "Ranakpur abre a los no jainistas más o menos de mediodía a las 17.",
+        testo: "En la carretera desde Jodhpur. Ranakpur es un templo jainista del siglo XV en mármol blanco con 1.444 columnas, todas distintas. Kumbhalgarh es un fuerte de 1448 con 36 kilómetros de murallas sobre las colinas, patrimonio de la UNESCO desde 2013.",
+        come: "Con el conductor, como parada en el día de viaje entre Jodhpur y Udaipur. En Ranakpur hay audioguía.",
+        quando: "Ranakpur recibe a los no jainistas solo después de los rezos de la mañana, normalmente desde mediodía; la hora de cierre cambia según las fuentes.",
         tempo: "1 hora y media en Ranakpur, 2 horas en Kumbhalgarh",
         consiglio: "Nada de piel en Ranakpur: cinturones, bolsos y carteras se quedan en el coche."
       }
@@ -1170,7 +1178,7 @@ export const destinazioniIndia: Destinazione[] = [
       "Las «escuelas de arte» de miniaturas donde los «estudiantes» venden los cuadros: a menudo son tiendas, y los precios de salida son muy altos.",
       "La vuelta en barca al atardecer cuesta más que de día: comprobad la tarifa en taquilla.",
       "En Ranakpur los no jainistas solo entran desde mediodía: no lleguéis a primera hora.",
-      "Los monos de las terrazas sobre el lago roban comida y gafas."
+      "En las terrazas sobre el lago pueden aparecer monos: no dejéis comida a la vista."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-rajasthan-10-giorni', 'india-rajasthan-varanasi'],
@@ -1207,17 +1215,17 @@ export const destinazioniIndia: Destinazione[] = [
       'En los ghats o en los callejones justo detrás, entre Assi y Dashashwamedh: guesthouses económicas, haveli sobre el río en gama media y alta. La ciudad nueva es cómoda pero está lejos del río.',
     doveMangiare: 'Lassi, kachori sabzi, tamatar chaat, malaiyo en invierno, paan de Benarés. Muchos locales vegetarianos.',
     comeArrivare:
-      'Desde Delhi en tren nocturno (unas 10-11 horas en litera, como el Shiv Ganga Express) o en el Vande Bharat diurno (unas 8 horas), o en avión (aproximadamente 1 hora y media, más una hora del aeropuerto a los ghats).',
+      'Desde Delhi en tren nocturno (unas 10 horas en litera, como el Shiv Ganga Express) o en el Vande Bharat diurno (unas 8 horas), o en avión (aproximadamente 1 hora y media; el aeropuerto está a unos 26 km de la ciudad).',
     comeSpostarsi: 'A pie por los ghats y los callejones, barcas en el río, e-rickshaw y tuk-tuk hacia la ciudad nueva y Sarnath.',
     periodoMigliore:
       'octubre-marzo; noviembre para Dev Deepawali (el 24 de noviembre en 2026). Diciembre-enero con niebla espesa al amanecer. Con el monzón (julio-septiembre) los ghats bajos acaban bajo el agua.',
-    costi: 'Barca privada una hora 800-1.500 rupias; Sarnath unas 300 rupias para los extranjeros, museo aparte y cerrado los viernes.',
+    costi: 'Barca privada a un precio que se pacta antes de subir; Sarnath con entradas separadas para el yacimiento y el museo, tarifas ASI en taquilla; museo cerrado los viernes.',
     erroriDaEvitare: [
       'Seguir al «guía» espontáneo en Manikarnika que luego pide dinero por la leña',
       'Fotografiar las cremaciones o a las familias de luto',
       'Subir a una barca sin haber fijado precio y duración',
       'Bañarse en el Ganges o beber el agua del río',
-      'Llevar teléfono y bolsos al Kashi Vishwanath: no se entra',
+      'Llevar teléfono y bolsos al Kashi Vishwanath: no entran, van a las taquillas',
     ],
     luoghi: [
       {
@@ -1226,12 +1234,12 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Barca de remos desde Assi o desde Dashashwamedh, hacia el norte hasta Manikarnika. Precio y duración se fijan antes de subir.",
         quando: "Media hora antes de que salga el sol. Entre diciembre y enero la niebla puede parar las barcas; con el monzón el río crece.",
         tempo: "1-2 horas",
-        costo: "barca privada por una hora unas 800-1.500 rupias, orientativo",
+        costo: "barca privada a precio pactado: las cifras cambian mucho según temporada, duración y barquero",
         consiglio: "Benarés hay que hacerla sí o sí con Shiva. Pocas veces he encontrado a una persona tan amable y dispuesta, que conoce tan bien el lugar y te lo explica mientras paseas: es como dar una vuelta por las calles de tu pueblo con un amigo."
       },
       {
         nome: "El Ganga Aarti en Dashashwamedh",
-        testo: "La ceremonia nocturna para el río: siete sacerdotes hacen girar grandes lámparas de fuego al ritmo de campanas y cantos, delante de miles de personas en las escaleras y en las barcas.",
+        testo: "La ceremonia nocturna para el río: un grupo de sacerdotes hace girar grandes lámparas de fuego al ritmo de campanas y cantos, delante de miles de personas en las escaleras y en las barcas.",
         come: "Desde el ghat principal, en los escalones, o desde una barca parada delante. Se llega a pie desde Godowlia, porque los coches se quedan antes.",
         quando: "Todas las noches al atardecer; el horario cambia según la estación. Llegar al menos una hora antes para coger sitio en los escalones.",
         tempo: "1 hora y media",
@@ -1249,7 +1257,7 @@ export const destinazioniIndia: Destinazione[] = [
       },
       {
         nome: "Manikarnika Ghat",
-        testo: "El ghat de las cremaciones, donde las piras arden día y noche. Para los hindúes, ser incinerado aquí libera del ciclo de las reencarnaciones.",
+        testo: "Uno de los dos ghats de las cremaciones, donde el fuego de las piras nunca se apaga. Para los hindúes, ser incinerado aquí lleva al moksha, la liberación del ciclo de las reencarnaciones.",
         come: "Se mira desde la barca o a distancia desde los escalones de arriba. Ni fotos ni vídeos.",
         quando: "De día; por la noche se ve bien desde la barca.",
         tempo: "30 minutos",
@@ -1257,8 +1265,8 @@ export const destinazioniIndia: Destinazione[] = [
       },
       {
         nome: "Kashi Vishwanath",
-        testo: "El templo dorado de Shiva, uno de los más sagrados de la India. El corredor del Kashi Vishwanath Dham, abierto en 2021, lo une directamente con el río.",
-        come: "Móviles, bolsos y objetos de cuero no entran: hay taquillas fuera. Colas largas; existe una entrada de pago más rápida, que se reserva en la web oficial.",
+        testo: "El templo dorado de Shiva, uno de los más sagrados de la India. El corredor del Kashi Vishwanath Dham, inaugurado el 13 de diciembre de 2021, lo une directamente con el río.",
+        come: "Móviles, bolsos y aparatos electrónicos no entran: hay taquillas gratuitas en las entradas. Colas largas; existe una entrada de pago más rápida (Sugam Darshan), que se reserva en la web oficial y se suspende durante los aarti y los días de fiesta.",
         quando: "A primera hora. Los lunes, día de Shiva, y los festivos está abarrotado.",
         tempo: "1-3 horas según la cola",
         costo: "entrada libre",
@@ -1271,15 +1279,15 @@ export const destinazioniIndia: Destinazione[] = [
         come: "A pie, mejor con guía la primera vez: aquí Google Maps se pierde.",
         quando: "Por la mañana y por la tarde. Después del atardecer mejor no recorrerlos solos, sobre todo las mujeres.",
         tempo: "medio día",
-        consiglio: "La seda hay que comprarla en tiendas recomendadas: la «hecha a mano» muchas veces es de telar mecánico."
+        consiglio: "La seda hay que comprarla en tiendas recomendadas: la que se vende como «hecha a mano» puede ser de telar mecánico."
       },
       {
         nome: "Sarnath",
-        testo: "El lugar donde Buda pronunció su primer sermón, a 10 kilómetros de Benarés. Están el estupa de Dhamek, las ruinas de los monasterios y un museo con el capitel de los leones de Ashoka, símbolo de la India.",
-        come: "En tuk-tuk o coche en 30-40 minutos. El yacimiento arqueológico y el museo tienen entradas separadas.",
-        quando: "Por la mañana. El museo cierra los viernes.",
+        testo: "El lugar donde Buda pronunció su primer sermón, unos 8 kilómetros al noreste de Benarés. Están el estupa de Dhamek, las ruinas de los monasterios y un museo con el capitel de los leones de Ashoka, símbolo de la India.",
+        come: "En tuk-tuk o en coche. El yacimiento arqueológico y el museo tienen entradas separadas.",
+        quando: "Por la mañana. El museo abre de 10 a 17 y cierra los viernes (Incredible India).",
         tempo: "medio día",
-        costo: "yacimiento arqueológico unas 300 rupias para los extranjeros (tarifa ASI, 2026); museo aparte",
+        costo: "entradas ASI para el yacimiento y el museo, tarifas en taquilla",
         url: "https://asi.nic.in/",
         consiglio: "No ir un viernes: sin el museo falta lo más bonito."
       }
@@ -1318,7 +1326,7 @@ export const destinazioniIndia: Destinazione[] = [
       {
         nome: "Assi Ghat",
         perChi: "quien quiere el río con algo de calma",
-        testo: "El ghat más al sur, con cafés, guesthouses y la ceremonia de la mañana. Un poco más tranquilo; a Dashashwamedh se va en barca o a pie en 30-40 minutos."
+        testo: "El ghat más al sur, con cafés, guesthouses y la ceremonia de la mañana. Un poco más tranquilo; a Dashashwamedh se va en barca o con un largo paseo por los ghats."
       },
       {
         nome: "Dashashwamedh y Godowlia",
@@ -1328,7 +1336,7 @@ export const destinazioniIndia: Destinazione[] = [
       {
         nome: "Cantonment, la ciudad nueva",
         perChi: "quien busca un hotel de cadena",
-        testo: "Cómoda para la estación y el aeropuerto, pero a 20-40 minutos del río con el tráfico. Y el río al amanecer es el motivo para venir."
+        testo: "Cómoda para la estación y el aeropuerto, pero lejos del río, y el tráfico alarga los tiempos. Y el río al amanecer es el motivo para venir."
       }
     ],
     sapori: [
@@ -1346,7 +1354,7 @@ export const destinazioniIndia: Destinazione[] = [
       },
       {
         nome: "Malaiyo",
-        testo: "Espuma de leche con azafrán batida al aire libre en las noches de invierno y vendida al amanecer. Solo de noviembre a febrero."
+        testo: "Espuma de leche con azafrán batida al aire libre en las noches de invierno y vendida al amanecer. Solo en los meses fríos."
       },
       {
         nome: "Paan de Banaras",
@@ -1375,46 +1383,53 @@ export const destinazioniIndia: Destinazione[] = [
     visitataPersonalmente: false,
     introduzione:
       'La capital de Tamil Nadu, antigua Madrás, puerta de entrada aérea al sureste de la India. Una ciudad grande y calurosa, con el paseo marítimo de Marina Beach y el barrio de Mylapore alrededor del templo de Kapaleeshwarar.',
-    percheAndarci:
-      'Sobre todo como punto de llegada: Mamallapuram está a una hora y media de carretera. Quien tenga media jornada ve Mylapore y el Museo estatal con los bronces Chola.',
-    cosaVedere: ['El templo de Kapaleeshwarar en Mylapore', 'Marina Beach al atardecer', 'Los bronces Chola del Government Museum'],
+    percheAndarci: "Sobre todo como punto de llegada: Mamallapuram está a unos 60 kilómetros por carretera. Con medio día se ven Mylapore y el Government Museum con sus bronces del sur.",
+    cosaVedere: [
+      "El templo de Kapaleeshwarar en Mylapore",
+      "Marina Beach al atardecer",
+      "Los bronces del Government Museum",
+    ],
     cosaFare: ['Una comida sobre hoja de banano en un restaurante vegetariano histórico', 'Un café filtrado en taza de metal'],
     comeArrivare: 'Aeropuerto internacional de Chennai, con vuelos desde Italia vía el Golfo.',
     comeSpostarsi: 'Uber, Ola, metro y tuk-tuk.',
     periodoMigliore: 'diciembre-marzo; octubre-diciembre es la estación del monzón del noreste.',
-    erroriDaEvitare: ['Bañarse en Marina Beach: corrientes peligrosas y sin socorristas', 'Programar la visita entre octubre y diciembre sin tener en cuenta los ciclones'],
+    erroriDaEvitare: [
+      "Bañarse en Marina Beach: está prohibido por ley, las corrientes son peligrosas y no hay socorristas",
+      "Programar la visita entre octubre y diciembre sin tener en cuenta el monzón y los ciclones",
+    ],
     luoghi: [
       {
         nome: "Templo de Kapaleeshwarar",
-        testo: "El templo de Shiva del barrio de Mylapore, con el gopuram pintado y el gran estanque sagrado. Alrededor está el barrio tamil más tradicional de la ciudad, con tiendas de flores, latón y dulces.",
-        come: "En metro o Uber hasta Mylapore. Zapatos en la consigna; en los grandes templos de Tamil Nadu, desde septiembre de 2026, también el móvil se deja fuera.",
-        quando: "A primera hora o por la noche, durante las ceremonias. Los templos cierran a mediodía.",
+        testo: "El templo de Shiva del barrio de Mylapore, con el gopuram de unos 37 metros cubierto de figuras de estuco y el gran estanque sagrado, que tiene agua todo el año. Alrededor está uno de los barrios tamiles más tradicionales de la ciudad, con tiendas de flores, latón y dulces.",
+        come: "En metro o Uber hasta Mylapore. Zapatos en la consigna. Desde septiembre de 2026 en los grandes templos de Tamil Nadu están prohibidas las fotos y los vídeos, y las normas sobre los teléfonos han cambiado varias veces: seguir las indicaciones de la entrada.",
+        quando: "Temprano por la mañana o por la tarde-noche, durante las ceremonias. Horarios expuestos en la entrada del templo.",
         tempo: "1 hora",
         costo: "entrada libre",
-        consiglio: "Recorrer a pie las calles alrededor del estanque: el mercado de flores es la parte con más vida."
+        consiglio: "Recorrer a pie las calles alrededor del estanque, entre tiendas y puestos."
       },
       {
         nome: "Government Museum de Egmore",
-        testo: "Uno de los museos más antiguos de la India, fundado en 1851. La galería de bronces reúne las estatuas chola de Shiva danzante y de otras divinidades, de las más bellas que se han fundido nunca.",
+        testo: "Fundado en 1851, es el segundo museo más antiguo de la India después del Indian Museum de Calcuta. La galería de bronces reúne estatuas de divinidades del sur de la India, entre ellas el Nataraja (Shiva danzante) de Tiruvalangadu, del siglo XI.",
         come: "En metro o Uber hasta Egmore. Se visita por libre; el complejo es grande, mejor ir directos a la galería de bronces.",
-        quando: "De día, los días que abre el museo.",
+        quando: "De 10.30 a 18.30, cerrado los viernes y en algunas fiestas (Deepavali, Pongal, 26 de enero, 15 de agosto, 2 de octubre). Fuente: web oficial, 2026.",
         tempo: "1 hora y media",
+        url: "https://www.govtmuseumchennai.org/",
         consiglio: "Si después vais a Thanjavur y Madurai, aquí se entiende lo que se verá en los templos."
       },
       {
         nome: "Marina Beach",
-        testo: "Una de las playas urbanas más largas del mundo, unos 13 kilómetros. Al atardecer se llena de familias, vendedores de buñuelos y atracciones.",
+        testo: "La playa urbana natural más larga de la India, con un paseo de unos 6 kilómetros. Al atardecer se llena de familias, vendedores de tentempiés y atracciones.",
         come: "En Uber o tuk-tuk. El paseo recorre toda la playa.",
         quando: "A última hora de la tarde y al atardecer, cuando baja el calor.",
         tempo: "1 hora",
         costo: "gratis",
-        consiglio: "Se pasea y se come, pero aquí no se baña nadie."
+        consiglio: "Se pasea y se come, pero aquí el baño está prohibido por ley: las corrientes son peligrosas y no hay socorristas."
       },
       {
         nome: "Fort St. George",
-        testo: "La primera fortaleza inglesa en la India, de 1644, hoy sede del gobierno de Tamil Nadu. Dentro están la iglesia de St. Mary, la iglesia anglicana más antigua de Asia, y un pequeño museo.",
-        come: "En Uber, cerca del puerto. En los controles de la entrada piden un documento.",
-        quando: "Por la mañana, en días laborables.",
+        testo: "La primera fortaleza inglesa en la India, fundada en 1639 y terminada en 1644, hoy sede de la asamblea legislativa de Tamil Nadu. Dentro están la iglesia de St. Mary, de 1680, la iglesia anglicana más antigua de la India, y el Fort Museum sobre el periodo británico.",
+        come: "En Uber o tuk-tuk, cerca del puerto.",
+        quando: "Por la mañana; horarios del Fort Museum en la web del ASI.",
         tempo: "1 hora",
         consiglio: "Una visita para quien sea aficionado a la historia colonial; si no, mejor Mylapore."
       }
@@ -1467,10 +1482,10 @@ export const destinazioniIndia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "No os bañéis en Marina Beach: corrientes fuertes y ningún socorrista.",
+      "No os bañéis en Marina Beach: está prohibido por ley, las corrientes son fuertes y no hay socorristas.",
       "Entre octubre y diciembre el monzón del noreste trae lluvias fuertes y a veces ciclones.",
-      "Los tuk-tuk casi nunca usan el taxímetro: mejor Uber, Ola o un precio fijado antes.",
-      "En los grandes templos de Tamil Nadu los móviles están prohibidos desde septiembre de 2026: se dejan en la consigna."
+      "Los tuk-tuks rara vez usan el taxímetro: mejor Uber, Ola o un precio fijado antes.",
+      "Desde septiembre de 2026 en los grandes templos de Tamil Nadu están prohibidas las fotos y los vídeos; las normas sobre los teléfonos (consigna o teléfono apagado) han cambiado varias veces: seguid las indicaciones de la entrada.",
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
@@ -1485,8 +1500,7 @@ export const destinazioniIndia: Destinazione[] = [
     tipologia: ['patrimonio UNESCO', 'mare', 'templi'],
     giorniConsigliati: '1-2 días',
     visitataPersonalmente: false,
-    introduzione:
-      'El antiguo puerto de los reyes Pallava en la costa de Coromandel, donde entre los siglos VII y VIII los escultores inventaron la arquitectura de los templos del sur: templos esculpidos en la roca, bajorrelieves y el templo junto al mar.',
+    introduzione: "El antiguo puerto de los reyes Pallava en la costa de Coromandel, donde entre los siglos VII y VIII se tallaron algunos de los primeros templos de piedra del sur: templos excavados en la roca, bajorrelieves y el templo junto al mar.",
     percheAndarci:
       'Para ver en un pueblo pequeño y tranquilo el comienzo de todo lo que se verá en Thanjavur y Madurai, y para recuperarse del vuelo antes de salir hacia el sur.',
     cosaVedere: [
@@ -1498,40 +1512,43 @@ export const destinazioniIndia: Destinazione[] = [
     cosaFare: ['Visitar los talleres de los canteros', 'El atardecer sobre el Shore Temple', 'Una excursión a Kanchipuram, la ciudad de los templos y de la seda'],
     doveDormire: 'Guesthouses cerca de la playa de los pescadores; resorts en la East Coast Road.',
     doveMangiare: 'Pescado y marisco en los restaurantes de la playa, desayunos tamiles en el pueblo.',
-    comeArrivare: 'Desde el aeropuerto de Chennai aproximadamente 1 hora y media en coche.',
+    comeArrivare: "Unos 60 kilómetros al sur de Chennai, en coche o taxi desde el aeropuerto por la East Coast Road.",
     comeSpostarsi: 'A pie y en bici; tuk-tuk para los Cinco Ratha.',
     periodoMigliore: 'diciembre-marzo.',
-    costi: 'Entrada ASI única para Shore Temple y Cinco Ratha unas 600 rupias para los extranjeros.',
-    erroriDaEvitare: ['Bañarse en el mar: corrientes fuertes', 'Visitar los sitios a mediodía, sobre el granito bajo el sol'],
+    costi: "Shore Temple y Cinco Rathas son de pago con entrada ASI: tarifas para extranjeros en la taquilla o en el portal del ASI. La Penitencia de Arjuna es de acceso libre.",
+    erroriDaEvitare: [
+      "Bañarse sin informarse: el mar frente al pueblo tiene corrientes fuertes",
+      "Visitar los sitios a mediodía, sobre el granito al sol",
+    ],
     luoghi: [
       {
         nome: "Shore Temple",
-        testo: "El templo de granito en la playa, construido a principios del siglo VIII por los reyes pallava, erosionado por el viento y el mar. Es uno de los primeros templos construidos en piedra del sur de la India y es patrimonio de la UNESCO.",
-        come: "A pie desde el pueblo, 10 minutos. Entrada ASI en la taquilla, válida también para los Cinco Rathas el mismo día.",
-        quando: "Todos los días de 6 a 18. Al amanecer o a última hora de la tarde, cuando la luz calienta el granito.",
+        testo: "El templo de granito en la playa, construido por los reyes Pallava a comienzos del siglo VIII, bajo Narasimhavarman II. Es uno de los templos de piedra construidos (y no excavados en la roca) más antiguos del sur de la India; el viento salado ha desgastado en parte sus decoraciones. Es patrimonio de la UNESCO desde 1984 con los demás monumentos de Mamallapuram.",
+        come: "A pie desde el pueblo. Entrada en la taquilla del ASI o en línea.",
+        quando: "Horarios en la taquilla o en la web del ASI. El amanecer y la última hora de la tarde dan la mejor luz sobre el granito.",
         tempo: "1 hora",
-        costo: "unas 600 rupias para los extranjeros, entrada única con los Cinco Rathas (tarifa ASI, 2026)",
+        costo: "entrada ASI para extranjeros, tarifa en la taquilla",
         url: "https://asi.nic.in/",
-        consiglio: "Guardar la entrada: hace falta para entrar más tarde a los Cinco Rathas."
+        consiglio: "Rodear el templo por el lado del mar: se ve bien cuánto ha desgastado el viento las esculturas."
       },
       {
         nome: "Los Cinco Rathas",
-        testo: "Cinco templos en forma de carro, tallado cada uno en un único bloque de granito en el siglo VII, junto a un elefante, un león y un toro de piedra. Son los prototipos de los templos del sur.",
-        come: "A 1,5 kilómetros del pueblo, en bici o tuk-tuk. La misma entrada que el Shore Temple.",
+        testo: "Cinco templos en forma de carro, cada uno tallado en un único bloque de granito rosa en el siglo VII. Al lado hay un elefante y un toro Nandi de piedra exentos, y en el Bhima Ratha las columnas se apoyan sobre leones.",
+        come: "Un poco fuera del centro, en bici o tuk-tuk. Entrada ASI.",
         quando: "A primera hora, antes de que el sol ponga el granito ardiendo.",
         tempo: "45 minutos",
-        costo: "incluido en la entrada del Shore Temple",
+        costo: "entrada ASI; preguntar en la taquilla si vale también para el Shore Temple",
         url: "https://asi.nic.in/",
         consiglio: "Dar la vuelta a cada ratha: cada uno tiene un tipo de tejado distinto."
       },
       {
         nome: "La Penitencia de Arjuna",
-        testo: "Un bajorrelieve al aire libre de unos treinta metros, tallado en dos rocas: dioses, animales, sabios y el descenso del Ganges desde el cielo, con un elefante a tamaño natural.",
+        testo: "Un bajorrelieve al aire libre de unos 29 por 13 metros, tallado en dos rocas: dioses, animales, sabios y el descenso del Ganges desde el cielo, con elefantes casi a tamaño natural.",
         come: "En el centro del pueblo, a pie. Acceso libre.",
         quando: "A primera hora o a última de la tarde, con la luz rasante que resalta las figuras.",
         tempo: "30 minutos",
         costo: "gratis",
-        consiglio: "Buscar el gato que hace penitencia imitando al sabio, con los ratones a sus pies."
+        consiglio: "Buscar el gato de pie sobre una pata, que imita la penitencia de los sabios."
       },
       {
         nome: "La bola de mantequilla de Krishna y la colina",
@@ -1539,7 +1556,6 @@ export const destinazioniIndia: Destinazione[] = [
         come: "A pie desde la Penitencia de Arjuna, por senderos en la colina.",
         quando: "A última hora de la tarde, hasta el atardecer.",
         tempo: "1-2 horas",
-        costo: "gratis; el faro tiene entrada aparte",
         consiglio: "Calzado cómodo: la roca es lisa y resbaladiza."
       }
     ],
@@ -1558,8 +1574,8 @@ export const destinazioniIndia: Destinazione[] = [
         titolo: "2 días",
         tappe: [
           "El día de arriba",
-          "Día 2: excursión a Kanchipuram, la ciudad de los templos y de la seda, a una hora y media",
-          "Regreso y tarde en el pueblo con los talleres de los canteros"
+          "Día 2: excursión a Kanchipuram, la antigua capital de los Pallava, ciudad de templos y seda",
+          "Regreso y tarde en el pueblo con los talleres de los canteros",
         ]
       }
     ],
@@ -1572,7 +1588,7 @@ export const destinazioniIndia: Destinazione[] = [
       {
         nome: "East Coast Road",
         perChi: "resorts con piscina",
-        testo: "Resorts en la playa al norte y al sur del pueblo, a 3-10 kilómetros. Cómodos para descansar después del vuelo, hace falta transporte para los monumentos."
+        testo: "Resorts en la playa al norte y al sur del pueblo. Cómodos para descansar después del vuelo; hace falta transporte para los sitios."
       }
     ],
     sapori: [
@@ -1594,10 +1610,10 @@ export const destinazioniIndia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "No os bañéis en el mar: las corrientes son fuertes y cada año hay ahogados.",
-      "Las entradas se compran solo en las taquillas ASI, no a quien las ofrece por la calle.",
-      "En los talleres de esculturas los precios para extranjeros empiezan altos: regatead.",
-      "A mediodía el granito al sol quema: monumentos al amanecer y al atardecer."
+      "Antes de bañaros informaos en el lugar: el mar frente al pueblo tiene corrientes fuertes.",
+      "Las entradas se compran en las taquillas del ASI o en línea, no a quien las ofrece en la calle.",
+      "En los talleres de esculturas los precios para extranjeros empiezan altos: regatear.",
+      "A mediodía el granito al sol quema: los sitios, al amanecer y al atardecer.",
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
@@ -1624,29 +1640,29 @@ export const destinazioniIndia: Destinazione[] = [
     cosaFare: ['Asistir a la ceremonia de la noche en el templo', 'Beber un jigarthanda', 'Hacerse coser un vestido en el día en los sastres cerca del templo'],
     doveDormire: 'Hoteles de ciudad cerca del templo; hoteles heritage en las colinas de los alrededores.',
     doveMangiare: 'Parotta con curry de cordero, cocina del Chettinad, idli y dosa por la mañana, jigarthanda.',
-    comeArrivare: 'Desde Thanjavur unas 3 horas en coche; aeropuerto con vuelos a Chennai, Bangalore y Mumbai.',
+    comeArrivare: "Desde Thanjavur en coche o en tren; el aeropuerto de Madurai tiene vuelos nacionales.",
     comeSpostarsi: 'A pie alrededor del templo, tuk-tuk para el resto.',
     periodoMigliore: 'diciembre-febrero; desde marzo hace mucho calor.',
-    costi: 'Meenakshi entrada libre (santuario interior reservado a los hindúes), consigna de teléfonos de pago.',
+    costi: "Meenakshi entrada libre (los santuarios principales están reservados a los hindúes); consigna de teléfonos con una pequeña tarifa.",
     erroriDaEvitare: [
-      'Entrar con el teléfono: desde septiembre de 2026 está prohibido en los grandes templos de Tamil Nadu',
-      'Ir al templo en las horas centrales, cuando está cerrado o casi vacío',
+      "Ignorar las normas sobre los teléfonos: en el Meenakshi están prohibidas las fotos y los vídeos y el teléfono se deja en la consigna o se lleva apagado, según las indicaciones del momento",
+      "Ir al templo sin mirar los horarios: suele cerrar unas horas a mediodía",
     ],
     luoghi: [
       {
         nome: "Templo de Meenakshi Amman",
-        testo: "Un templo-ciudad con catorce gopuram cubiertos de miles de estatuas pintadas, dedicado a la diosa Meenakshi y a Shiva. Dentro están el estanque del loto dorado, el corredor de las mil columnas y ceremonias a todas horas.",
-        come: "Cuatro entradas, una por cada lado. Móviles y zapatos en la consigna; ropa que cubra hombros y piernas. El santuario interior está reservado a los hindúes.",
-        quando: "Abierto a primera hora de la mañana y de la tarde a la noche, cerrado a mediodía. Por la noche hay una procesión que lleva a Shiva a la cámara de Meenakshi.",
+        testo: "Un templo-ciudad con catorce gopurams cubiertos de miles de estatuas pintadas, dedicado a la diosa Meenakshi y a Shiva (Sundareswarar). Dentro están el estanque del loto de oro y la sala de las mil columnas, que en realidad tiene 985 talladas, y ceremonias durante todo el día.",
+        come: "Cuatro entradas, una por lado. Zapatos en la consigna; teléfono en la consigna o apagado según las normas del momento, fotos prohibidas. Ropa que cubra hombros y piernas. Los santuarios principales están reservados a los hindúes.",
+        quando: "Normalmente abierto desde primera hora hasta mediodía y desde la tarde hasta la noche; los horarios cambian en las fiestas. Cada noche una procesión lleva en palanquín las huellas de Shiva a la cámara de Meenakshi.",
         tempo: "2-3 horas",
-        costo: "entrada libre; consigna de móviles de pago",
+        costo: "entrada libre; pequeña tarifa por la consigna de teléfonos",
         consiglio: "Volver dos veces: por la mañana para la arquitectura y por la noche para las ceremonias."
       },
       {
         nome: "Palacio de Thirumalai Nayak",
-        testo: "El palacio del rey Thirumalai Nayak, de 1636, con un patio de enormes columnas blancas y arcos de estilo indo-sarraceno. Queda una cuarta parte, pero basta para hacerse una idea.",
-        come: "A 1,5 kilómetros del templo, a pie o en tuk-tuk.",
-        quando: "Por la mañana o a última hora de la tarde. Por la noche hay espectáculo de luz y sonido.",
+        testo: "El palacio del rey Thirumalai Nayak, terminado hacia 1636, con un patio rodeado de enormes columnas blancas de unos 25 metros y grandes arcos. Hoy queda más o menos una cuarta parte, pero basta para dar la medida.",
+        come: "A unos 2 kilómetros al sureste del templo, a pie o en tuk-tuk.",
+        quando: "Mañana o última hora de la tarde. Por la noche hay un espectáculo de luz y sonido, en tamil y en inglés, sobre la historia del Silappathikaram.",
         tempo: "1 hora",
         consiglio: "Encaja bien por la mañana, antes de volver al templo por la noche."
       },
@@ -1661,9 +1677,9 @@ export const destinazioniIndia: Destinazione[] = [
       },
       {
         nome: "Gandhi Memorial Museum",
-        testo: "Un museo sobre la lucha por la independencia en el palacio Tamukkam, con el dhoti manchado de sangre que Gandhi llevaba el día en que lo mataron.",
-        come: "Al otro lado del río Vaigai, en tuk-tuk.",
-        quando: "De día.",
+        testo: "Un museo sobre la lucha por la independencia en el antiguo palacio de la reina Rani Mangammal, con la tela manchada de sangre que Gandhi llevaba el día en que lo mataron (según algunos, una réplica).",
+        come: "En tuk-tuk, cerca de la Collector Office.",
+        quando: "De día; horarios en la web del museo (gandhimmm.org).",
         tempo: "1 hora",
         consiglio: "Una pausa tranquila entre las dos visitas al templo."
       }
@@ -1716,14 +1732,14 @@ export const destinazioniIndia: Destinazione[] = [
       },
       {
         nome: "Idli",
-        testo: "Pastelitos de arroz al vapor, suavísimos, con cuatro chutneys. Las cadenas locales de idli nacieron aquí."
+        testo: "Pastelitos de arroz al vapor, muy tiernos, con varios chutneys: en Madurai se comen en el desayuno y en la cena."
       }
     ],
     attenzioni: [
-      "En el Meenakshi y en los grandes templos de Tamil Nadu los móviles están prohibidos desde septiembre de 2026: se dejan en la consigna.",
-      "Quien os invita a subir a una terraza «para ver el templo desde arriba» muchas veces os lleva a una tienda de telas.",
-      "A mediodía el templo está cerrado o casi: organizad las visitas por la mañana y por la noche.",
-      "Desde marzo el calor es muy fuerte: agua y sombrero."
+      "En el Meenakshi están prohibidas las fotos y los vídeos y el teléfono va a la consigna o se queda apagado: desde septiembre de 2026 las normas en los grandes templos de Tamil Nadu han cambiado varias veces.",
+      "Quien os invita a subir a una terraza «para ver el templo desde arriba» a menudo os lleva a una tienda de tejidos.",
+      "A mediodía el templo suele cerrar unas horas: programad las visitas por la mañana y por la tarde-noche.",
+      "Desde marzo el calor es muy fuerte: agua y sombrero.",
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
@@ -1751,17 +1767,17 @@ export const destinazioniIndia: Destinazione[] = [
     cosaFare: ['Un trekking guiado entre las plantaciones', 'El amanecer en Kolukkumalai en jeep', 'Comprar té directamente en las fábricas'],
     doveDormire: 'Homestays y resorts fuera del pueblo, entre las plantaciones.',
     doveMangiare: 'Cocina de Kerala en los homestays, a menudo la mejor de la zona.',
-    comeArrivare: 'Desde Madurai unas 5-6 horas, desde Kochi unas 4 horas en coche.',
+    comeArrivare: "Desde Kochi unos 130 kilómetros de carretera de montaña; desde Madurai se cruzan los Ghats: en ambos casos, media jornada en coche.",
     comeSpostarsi: 'Coche con conductor y jeeps locales.',
-    periodoMigliore: 'septiembre-mayo; de junio a agosto el monzón trae lluvias fuertes y desprendimientos.',
-    costi: 'Eravikulam unas 500 rupias para los extranjeros; jeep para Kolukkumalai a acordar.',
+    periodoMigliore: "septiembre-mayo; junio y julio son los meses más lluviosos, y con el monzón hay desprendimientos y carreteras cortadas.",
+    costi: "Eravikulam 500 rupias para los extranjeros más 50 por la cámara (web oficial, 2026); jeep a Kolukkumalai a acordar.",
     erroriDaEvitare: ['Llegar en febrero-marzo contando con Eravikulam, cerrado por los nacimientos', 'Dormir en el pueblo, con tráfico y ruidoso'],
     luoghi: [
       {
         nome: "Parque nacional de Eravikulam",
-        testo: "Praderas de altura y bosque por encima de los 2.000 metros, donde vive el tahr del Nilgiri, una cabra de montaña que solo existe en los Ghats Occidentales. En el parque está también el Anamudi, el pico más alto del sur de la India.",
-        come: "A 15 kilómetros de Munnar. Desde la entrada se sube en los autobuses del Forest Department hasta la zona de Rajamala y luego un tramo a pie. Entradas también online.",
-        quando: "Cerrado cada año por los partos de los tahr, normalmente de febrero a marzo y a veces hasta primeros de abril: comprobar las fechas antes de ir. A primera hora, antes de las nubes y de la cola.",
+        testo: "Praderas de altura y bosque en torno a los 2.000 metros, donde vive la mayor población de tahr del Nilgiri, una cabra de montaña que solo existe en los Nilgiri y en la parte sur de los Ghats Occidentales. En el parque está también el Anamudi, 2.695 metros, la cumbre más alta del sur de la India.",
+        come: "A 13 kilómetros de Munnar. Dentro del parque se camina por carreteras y senderos de la zona turística de Rajamala. Entradas en línea en la web oficial o en la ventanilla del centro de información de Munnar.",
+        quando: "Entradas de 8 a 14 (web oficial, 2026). Cerrado cada año por los partos de los tahr, entre febrero y marzo, a veces hasta primeros de abril: la propia web da fechas distintas, así que conviene comprobarlo antes de salir. Mejor a la apertura, antes de las nubes y de la cola.",
         tempo: "medio día",
         costo: "500 rupias para los extranjeros, más 50 por la cámara de fotos (2026)",
         url: "https://www.eravikulamnationalpark.in/",
@@ -1769,24 +1785,24 @@ export const destinazioniIndia: Destinazione[] = [
       },
       {
         nome: "Museo del té de KDHP",
-        testo: "El museo del té en la finca de Nallathanni, con la maquinaria histórica y una pequeña fábrica en marcha donde se ve cómo se trabajan las hojas.",
+        testo: "El museo del té de Tata en la finca de Nallathanni, con máquinas históricas y una pequeña demostración del procesado de las hojas.",
         come: "A 2 kilómetros del pueblo, en tuk-tuk.",
-        quando: "De día, los días que abre.",
+        quando: "De día. Varias fuentes indican que cierra los lunes: comprobarlo antes de ir.",
         tempo: "1 hora",
         consiglio: "Probar los tés al final y comprarlos aquí, a precio de fábrica."
       },
       {
         nome: "Kolukkumalai",
-        testo: "Una de las plantaciones de té más altas del mundo, a más de 2.000 metros, con una fábrica que todavía trabaja de forma tradicional. Al amanecer las colinas salen de entre las nubes.",
-        come: "En jeep 4x4 desde Suryanelli, más o menos una hora de pista de tierra. Los jeeps se reservan a través del hotel.",
-        quando: "Salida hacia las 4-5 para llegar al amanecer.",
+        testo: "Una plantación de té a unos 2.170 metros, entre las más altas del mundo, del lado de Tamil Nadu pero accesible solo desde Munnar. Al amanecer las colinas salen de las nubes.",
+        come: "En jeep 4x4 desde Suryanelli, por una pista de tierra empinada. Los jeeps se reservan con el hotel.",
+        quando: "Salida antes del amanecer, de noche.",
         tempo: "medio día",
         consiglio: "Dejar muy claro qué incluye el precio del jeep: espera, entrada a la finca y vuelta."
       },
       {
         nome: "Top Station y la presa de Mattupetty",
-        testo: "Un mirador en la frontera con Tamil Nadu, a unos 1.700 metros, que mira las llanuras desde arriba. Por el camino están la presa de Mattupetty, el Echo Point y plantaciones hasta donde alcanza la vista.",
-        come: "En coche desde Munnar, alrededor de una hora hasta Top Station con las paradas.",
+        testo: "Un mirador en el borde de los Ghats, cerca de la frontera con Tamil Nadu, que mira las llanuras desde arriba. Por el camino están la presa de Mattupetty, el Echo Point y plantaciones hasta donde alcanza la vista.",
+        come: "En coche desde Munnar, con paradas por el camino.",
         quando: "Por la mañana, antes de que suba la bruma.",
         tempo: "medio día",
         consiglio: "Los fines de semana los miradores están llenos: mejor un día laborable."
@@ -1815,7 +1831,7 @@ export const destinazioniIndia: Destinazione[] = [
       {
         nome: "Entre las plantaciones (Chithirapuram, Pallivasal)",
         perChi: "quien busca silencio",
-        testo: "Homestays y resorts en las colinas a 8-15 kilómetros del pueblo, con vistas a las plantaciones. Silencio total, pero hace falta coche y se cena donde se duerme."
+        testo: "Homestays y resorts en las colinas fuera del pueblo, con vistas a las plantaciones. Silencio total, pero hace falta coche y se cena donde se duerme."
       },
       {
         nome: "Munnar pueblo",
@@ -1847,10 +1863,10 @@ export const destinazioniIndia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Eravikulam cierra en febrero y marzo por los partos de los tahr.",
-      "De junio a agosto el monzón trae lluvias fuertes, desprendimientos y carreteras cortadas; en las temporadas húmedas hay sanguijuelas en los senderos.",
-      "Los jeeps a Kolukkumalai tienen precios muy variables: que os lo digan todo antes de salir.",
-      "Los fines de semana y en los festivos indios llegan muchos turistas de Kerala y Tamil Nadu: tráfico y colas."
+      "Eravikulam cierra cada año entre febrero y marzo, a veces hasta primeros de abril, por los partos de los tahr.",
+      "Con el monzón, sobre todo en junio y julio, lluvias fuertes, desprendimientos y carreteras cortadas; en las estaciones húmedas hay sanguijuelas en los senderos.",
+      "Los jeeps a Kolukkumalai tienen precios muy variables: que os lo detallen todo antes de salir.",
+      "Los fines de semana y en los festivos indios llegan muchos turistas de Kerala y Tamil Nadu: tráfico y colas.",
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
@@ -1873,10 +1889,10 @@ export const destinazioniIndia: Destinazione[] = [
     cosaFare: ['Una noche en houseboat (kettuvallam)', 'Un paseo en canoa al amanecer por los canales estrechos', 'Las regatas de las barcas-serpiente, si se viaja en agosto'],
     doveDormire: 'Houseboat, o bien homestays en los canales de Kainakary o Kumarakom.',
     doveMangiare: 'El karimeen (pearl spot) a la parrilla, el curry de pescado y el arroz rojo de Kerala, preparados por el cocinero de a bordo.',
-    comeArrivare: 'Desde Kochi aproximadamente 1 hora y media en coche; desde Munnar 4-5 horas.',
+    comeArrivare: "Desde Kochi 1-2 horas en coche según el tráfico; desde Munnar media jornada de carretera.",
     comeSpostarsi: 'En barca.',
     periodoMigliore: 'octubre-marzo.',
-    costi: 'Houseboat por una noche 8.000-15.000 rupias en gama estándar, 15.000-25.000 premium, comidas incluidas; picos en Navidad y Fin de Año.',
+    costi: "Houseboat: el precio cambia mucho según el tipo de barco, el número de camarotes y la temporada, normalmente con las comidas incluidas. El mostrador de prepago del DTPC en Alappuzha aplica tarifas controladas.",
     erroriDaEvitare: [
       'Reservar con los captadores de los muelles sin ver la barca',
       'Esperar aire acondicionado de día: a menudo funciona solo de noche',
@@ -1885,12 +1901,12 @@ export const destinazioniIndia: Destinazione[] = [
     luoghi: [
       {
         nome: "Una noche en houseboat",
-        testo: "El kettuvallam era la barca de carga del arroz; hoy es una casa flotante de madera y bambú con camarotes, cocinero y tripulación. Se navega por el lago Vembanad y los canales de Kuttanad, viendo pueblos, arrozales e iglesias desde el agua.",
-        come: "Se sale de los embarcaderos de Alappuzha o Punnamada. Mejor barcos clasificados por el Departamento de Turismo de Kerala, reservados antes y vistos en fotos recientes.",
-        quando: "De octubre a marzo. Embarque a mediodía y desembarque a la mañana siguiente; por la noche el barco para y amarra.",
+        testo: "El kettuvallam era el barco de carga que llevaba arroz y especias de Kuttanad al puerto de Kochi; cuando llegaron los camiones se convirtió en casa flotante, con camarotes, cocinero y tripulación. Se navega por el lago Vembanad y los canales de Kuttanad, mirando pueblos, arrozales e iglesias desde el agua.",
+        come: "Se sale de los muelles de Alappuzha. Mejor barcos registrados en el turismo de Kerala, reservados en el mostrador de prepago del DTPC o con operadores serios, vistos en fotos recientes.",
+        quando: "De octubre a marzo. Embarque a mediodía, desembarque a la mañana siguiente; por la noche el barco amarra.",
         tempo: "una noche",
-        costo: "8.000-15.000 rupias por noche en categoría estándar, 15.000-25.000 premium, comidas incluidas (orientativo)",
-        url: "https://www.keralatourism.org/",
+        costo: "muy variable según el barco y la temporada, comidas normalmente incluidas: pedir el presupuesto por escrito",
+        url: "https://www.keralatourism.org/houseboat/",
         consiglio: "Pedir un itinerario que deje los canales principales, donde los barcos van en fila."
       },
       {
@@ -1903,9 +1919,9 @@ export const destinazioniIndia: Destinazione[] = [
       },
       {
         nome: "Las regatas de barcas serpiente",
-        testo: "Barcas de hasta 40 metros con un centenar de remeros que cantan a coro. La más famosa es la Nehru Trophy, en el lago Punnamada.",
-        come: "Entradas para las gradas en Alappuzha.",
-        quando: "La Nehru Trophy se corre el segundo sábado de agosto, en pleno monzón.",
+        testo: "Barcas de más de 30 metros con decenas de remeros que cantan en coro. La más famosa es la Nehru Trophy, en el lago Punnamada, en un recorrido de unos 1,4 kilómetros.",
+        come: "Tribunas de pago en el lago Punnamada, en Alappuzha; información en la web oficial de la regata.",
+        quando: "La Nehru Trophy se corre normalmente en agosto, durante el monzón (por tradición el segundo sábado del mes, pero la fecha cambia: en 2024 se aplazó a septiembre).",
         tempo: "una jornada",
         consiglio: "Para quien viaja en agosto, ya justifica el viaje por sí sola."
       }
@@ -1948,7 +1964,7 @@ export const destinazioniIndia: Destinazione[] = [
       {
         nome: "Playa de Marari",
         perChi: "mar y backwaters",
-        testo: "A 12 kilómetros de Alappuzha, homestays y resorts en la playa. Buena para alternar canales y mar."
+        testo: "Al norte de Alappuzha, homestays y resorts en la playa. Buena para alternar canales y mar."
       }
     ],
     sapori: [
@@ -1962,7 +1978,7 @@ export const destinazioniIndia: Destinazione[] = [
       },
       {
         nome: "Comida de las toddy shops",
-        testo: "Las tabernas del vino de palma (kallu shappu) sirven pescado picante, tapioca y pato. Muy locales, a menudo solo para hombres."
+        testo: "Las tabernas del vino de palma (kallu shappu) sirven pescado picante, tapioca y pato. Ambiente muy local."
       },
       {
         nome: "Curry de pato",
@@ -1970,10 +1986,10 @@ export const destinazioniIndia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Los gancheros de los embarcaderos: reservad solo viendo el barco o fotos recientes, y comprobad que esté clasificado por el turismo de Kerala.",
-      "El aire acondicionado del camarote muchas veces solo funciona de noche.",
+      "Los captadores en los muelles: reservad viendo el barco o fotos recientes, mejor en el mostrador de prepago del DTPC en Alappuzha o con barcos registrados en el turismo de Kerala.",
+      "El aire acondicionado del camarote a menudo funciona solo de noche: preguntadlo antes.",
       "Los canales principales están llenos de houseboats en fila: pedid rutas secundarias.",
-      "Mosquitos por la noche: repelente y manga larga."
+      "Mosquitos por la noche: repelente y manga larga.",
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
@@ -2002,18 +2018,18 @@ export const destinazioniIndia: Destinazione[] = [
     cosaFare: ['Un espectáculo de kathakali', 'Un curso de cocina de Kerala', 'Comprar el pescado en el mercado junto a las redes y pedir que lo cocinen'],
     doveDormire: 'Homestays de gestión familiar y hoteles heritage en los bungalows coloniales.',
     doveMangiare: 'Appam con estofado, fish moilee, karimeen a la parrilla, café en las galerías.',
-    comeArrivare: 'Aeropuerto internacional de Kochi a aproximadamente 1 hora y media; desde Alleppey aproximadamente 1 hora y media.',
+    comeArrivare: "Desde el aeropuerto internacional de Kochi una hora o más en coche, según el tráfico; desde Alleppey 1-2 horas.",
     comeSpostarsi: 'A pie y en bici, ferri a Ernakulam.',
-    periodoMigliore: 'octubre-marzo; la Bienal de Kochi se celebra entre diciembre y marzo.',
-    costi: 'Kathakali unas 500-600 rupias; entradas modestas a palacio y sinagoga.',
+    periodoMigliore: "octubre-marzo; la Bienal de Kochi, más o menos cada dos años, abre en diciembre y dura unos tres meses (la última: 12 de diciembre de 2025-31 de marzo de 2026).",
+    costi: "Kathakali, palacio y sinagoga tienen entradas modestas; tarifas en las taquillas.",
     erroriDaEvitare: [
-      'Llegar a Mattancherry en viernes: palacio y sinagoga cerrados (la sinagoga también los sábados)',
-      'Comprar especias y «antigüedades» sin regatear',
+      "Llegar a Mattancherry en viernes: la sinagoga está cerrada y también el palacio, según la mayoría de las fuentes",
+      "Comprar especias y «antigüedades» sin regatear",
     ],
     luoghi: [
       {
         nome: "Las redes de pesca chinas",
-        testo: "Grandes redes de balancín sobre estructuras de madera, manejadas por equipos de pescadores con contrapesos de piedra. Son el símbolo de Fort Kochi, en el paseo marítimo a la entrada del puerto.",
+        testo: "Grandes redes de balancín de al menos 10 metros de alto, manejadas por equipos de hasta seis pescadores con contrapesos de piedra colgados de cuerdas. Son el símbolo de Fort Kochi, en el paseo marítimo.",
         come: "A pie por el paseo marítimo de Vasco da Gama Square.",
         quando: "A última hora de la tarde y al atardecer, cuando las redes trabajan a contraluz.",
         tempo: "45 minutos",
@@ -2022,28 +2038,28 @@ export const destinazioniIndia: Destinazione[] = [
       },
       {
         nome: "Iglesia de San Francisco",
-        testo: "La iglesia europea más antigua de la India, construida por los portugueses a principios del siglo XVI. Aquí fue enterrado Vasco da Gama en 1524, antes de que sus restos volvieran a Lisboa.",
+        testo: "Una de las iglesias europeas más antiguas de la India: nació en 1503 como iglesia portuguesa de madera y se reconstruyó en mampostería en las primeras décadas del siglo XVI. Aquí fue enterrado Vasco da Gama, muerto en Kochi en 1524; catorce años después sus restos volvieron a Lisboa.",
         come: "En el centro de Fort Kochi, a pie. Se entra en silencio y con ropa que cubra.",
         quando: "De día, fuera del horario de misas.",
         tempo: "30 minutos",
         costo: "entrada libre",
-        consiglio: "Buscar la lápida original de Vasco da Gama en el suelo."
+        consiglio: "Buscar en el suelo el lugar del primer entierro de Vasco da Gama."
       },
       {
         nome: "Palacio de Mattancherry",
-        testo: "El palacio que los portugueses regalaron al rajá de Kochi en el siglo XVI, restaurado después por los holandeses. Dentro hay frescos del Ramayana de los más bellos de Kerala.",
-        come: "En Mattancherry, a 3 kilómetros de Fort Kochi, en tuk-tuk o bici.",
-        quando: "Cerrado los viernes.",
+        testo: "El palacio que los portugueses regalaron al rey de Kochi hacia 1545, llamado también «Palacio holandés» porque desde 1663 Mattancherry pasó a los holandeses. Dentro están las pinturas murales del Ramayana, entre las obras maestras de la pintura mural de Kerala.",
+        come: "En Mattancherry, a pocos kilómetros del centro de Fort Kochi, en tuk-tuk o bici.",
+        quando: "Casi todas las fuentes indican que cierra los viernes, algunas también los sábados; horario con pausa a mediodía. Comprobarlo en la web del ASI antes de ir.",
         tempo: "1 hora",
         consiglio: "Las salas de los frescos están oscuras: dad tiempo a los ojos para acostumbrarse."
       },
       {
         nome: "La sinagoga Paradesi y Jew Town",
-        testo: "La sinagoga de 1568, todavía en uso, con el suelo de azulejos chinos pintados a mano y lámparas de cristal belga. Alrededor, Jew Town es una calle de anticuarios y tiendas de especias.",
-        come: "Junto al palacio de Mattancherry, a pie. Sin zapatos, con hombros y piernas cubiertos.",
-        quando: "Cerrada los viernes, los sábados y en las fiestas judías.",
+        testo: "La sinagoga de 1568, todavía en uso, con el suelo de cientos de azulejos chinos de porcelana del siglo XVIII, pintados a mano y todos distintos, y lámparas de vidrio belga. Alrededor, Jew Town es una calle de anticuarios y tiendas de especias.",
+        come: "Junto al palacio de Mattancherry, a pie. Se entra descalzo; los hombres con camisa y pantalón largo, las mujeres con falda por debajo de la rodilla.",
+        quando: "Abierta por la mañana y a última hora de la tarde, con una larga pausa; cerrada los viernes, los sábados y en las fiestas judías (según algunas fuentes también los domingos). Comprobar los horarios antes de ir.",
         tempo: "30 minutos",
-        consiglio: "Palacio y sinagoga se ven juntos en una mañana, nunca en viernes."
+        consiglio: "Palacio y sinagoga se ven juntos en una mañana, nunca en viernes ni en sábado."
       },
       {
         nome: "Los almacenes de especias",
@@ -2056,9 +2072,9 @@ export const destinazioniIndia: Destinazione[] = [
       {
         nome: "Un espectáculo de kathakali",
         testo: "El teatro danzado de Kerala, con maquillajes elaborados, faldas amplias e historias de los poemas épicos contadas con gestos y miradas. En los teatros de Fort Kochi también se puede ver el maquillaje antes del espectáculo.",
-        come: "En los centros culturales de Fort Kochi, con entrada reservada el mismo día.",
-        quando: "Por la noche; el maquillaje empieza más o menos una hora antes.",
-        tempo: "2 horas con el maquillaje",
+        come: "En los centros culturales de Fort Kochi, con entrada reservada el mismo día o el anterior.",
+        quando: "Por la tarde-noche; en muchos teatros el maquillaje de los actores empieza antes del espectáculo y se puede mirar. Horarios en el teatro.",
+        tempo: "unas 2 horas con el maquillaje",
         consiglio: "Llegar para el maquillaje: es la mitad del espectáculo."
       }
     ],
@@ -2066,11 +2082,11 @@ export const destinazioniIndia: Destinazione[] = [
       {
         titolo: "1 día",
         tappe: [
-          "Mattancherry: palacio y sinagoga (no en viernes)",
+          "Mattancherry: palacio y sinagoga (ni en viernes ni en sábado)",
           "Jew Town y los almacenes de especias",
           "Iglesia de San Francisco",
           "Redes de pesca chinas al atardecer",
-          "Kathakali por la noche"
+          "Kathakali por la noche",
         ]
       },
       {
@@ -2087,7 +2103,7 @@ export const destinazioniIndia: Destinazione[] = [
       {
         nome: "Fort Kochi",
         perChi: "quien quiere el barrio histórico",
-        testo: "Homestays y hoteles heritage en bungalós coloniales, todo a pie. Tranquilo por la noche, a una hora y media del aeropuerto."
+        testo: "Homestays y hoteles heritage en bungalows coloniales, todo a pie. Tranquilo por la noche, a una hora o más del aeropuerto."
       },
       {
         nome: "Mattancherry",
@@ -2119,10 +2135,10 @@ export const destinazioniIndia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Los viernes el palacio de Mattancherry y la sinagoga están cerrados; la sinagoga también el sábado.",
-      "Los tuk-tuk que ofrecen una vuelta casi regalada os llevan a tiendas de especias y telas con comisión.",
-      "Especias y «antigüedades» de Jew Town: regatead y desconfiad de las antigüedades certificadas.",
-      "Mosquitos y casos de dengue en la temporada de lluvias: repelente."
+      "La sinagoga Paradesi cierra los viernes, los sábados y en las fiestas judías; el palacio de Mattancherry normalmente los viernes.",
+      "Los tuk-tuks que ofrecen una vuelta por casi nada os llevan a tiendas de especias y tejidos con comisión.",
+      "Especias y «antigüedades» de Jew Town: regatear, y desconfiar de las antigüedades certificadas.",
+      "Mosquitos y casos de dengue en la estación de lluvias: repelente.",
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],
@@ -2139,8 +2155,7 @@ export const destinazioniIndia: Destinazione[] = [
     visitataPersonalmente: false,
     introduzione:
       'Las ruinas de Vijayanagara, capital de uno de los mayores imperios de la India, destruida en 1565, en un paisaje de bloques de granito, arrozales y bananales a lo largo del río Tungabhadra.',
-    percheAndarci:
-      'Por más de mil monumentos en un paisaje que no se parece a ningún otro, con un pueblo tranquilo y los atardeceres desde las colinas de roca.',
+    percheAndarci: "Por más de 1.600 restos de monumentos en un paisaje que no se parece a ningún otro, con un pueblo tranquilo y los atardeceres desde las colinas de roca.",
     cosaVedere: [
       'El templo de Virupaksha, todavía activo',
       'El templo de Vittala y el carro de piedra',
@@ -2150,55 +2165,54 @@ export const destinazioniIndia: Destinazione[] = [
     ],
     cosaFare: ['Recorrer en moto o en bici entre los grupos de monumentos', 'Un paseo en coracle por el Tungabhadra', 'Escalada sobre los bloques con guías locales'],
     doveDormire: 'Guesthouses sencillas en el bazar; resorts al otro lado del río en Virupapur Gaddi y Hanumanahalli, o cerca de Kamalapura.',
-    doveMangiare: 'Thali y café en las terrazas; en el bazar no hay carne ni alcohol.',
-    comeArrivare: 'Tren nocturno de Bangalore a Hosapete (unas 9 horas) y 20 minutos de tuk-tuk; aeropuerto de Vidyanagar (Jindal) a aproximadamente una hora.',
+    doveMangiare: "Thalis y café en las terrazas; en el bazar la cocina es sobre todo vegetariana.",
+    comeArrivare: "Tren nocturno de Bangalore a Hosapete y luego 13 kilómetros en tuk-tuk; también está el aeropuerto de Vidyanagar (Jindal), con pocos vuelos nacionales.",
     comeSpostarsi: 'Moto, bicicleta o tuk-tuk por jornada.',
     periodoMigliore: 'octubre-febrero; desde marzo el calor sobre el granito se vuelve pesado.',
-    costi: 'Vittala unas 500-600 rupias para los extranjeros, válida el mismo día para el recinto de las reinas y las cuadras de los elefantes; coracle 300-500 rupias.',
+    costi: "Vittala y recinto de las reinas con entrada ASI para extranjeros: tarifas en la taquilla, porque las fuentes de 2026 no coinciden. El resto del sitio es en gran parte de acceso libre. Coracle a precio a acordar.",
     erroriDaEvitare: ['Visitar los sitios a mediodía', 'Contar con la barca para Virupapur Gaddi en época de crecida'],
     luoghi: [
       {
         nome: "Templo de Virupaksha",
-        testo: "El templo de Shiva todavía activo en el bazar de Hampi, con el gopuram de 50 metros que se ve desde todo el valle. Sus orígenes son anteriores al imperio de Vijayanagara.",
-        come: "Al fondo del bazar, a pie. Zapatos en la consigna; se paga una pequeña tasa por la cámara.",
+        testo: "El templo de Shiva todavía activo en el bazar de Hampi, con el gopuram de nueve pisos y 50 metros de alto que se ve desde todo el valle. El culto aquí sigue sin interrupción desde el siglo VII aproximadamente, antes del imperio de Vijayanagara.",
+        come: "Al final del bazar, a pie. Zapatos en la consigna.",
         quando: "A primera hora, cuando los fieles llevan las ofrendas.",
         tempo: "1 hora",
         costo: "entrada libre",
-        consiglio: "Buscar la sala oscura donde el gopuram se proyecta del revés en la pared a través de un agujero."
+        consiglio: "Ir temprano por la mañana y luego subir a Hemakuta, justo encima, para ver el gopuram desde arriba."
       },
       {
         nome: "Templo de Vittala y el carro de piedra",
-        testo: "El templo más refinado de Hampi, del siglo XVI, con el carro de piedra y las columnas musicales que suenan al golpearlas. Es el corazón del sitio UNESCO.",
-        come: "Desde el aparcamiento se va en vehículos eléctricos o a pie durante un kilómetro. La entrada ASI vale el mismo día también para el recinto de las reinas y los establos de los elefantes.",
-        quando: "A la hora de apertura, desde las 6, antes del sol fuerte y de los grupos.",
+        testo: "El templo más refinado de Hampi, del siglo XVI, con el carro de piedra y las columnas que suenan al golpearlas (hoy no se pueden tocar). Es uno de los símbolos del sitio UNESCO.",
+        come: "Desde el aparcamiento no pasan los coches: se llega en los vehículos eléctricos o a pie. Entrada ASI en la taquilla.",
+        quando: "A la apertura, antes del sol fuerte y de los grupos. Las fuentes dan horarios distintos: comprobarlos en la taquilla.",
         tempo: "1 hora y media",
-        costo: "unas 600 rupias para los extranjeros (tarifa ASI, 2026)",
+        costo: "entrada ASI para extranjeros; tarifa y validez para el recinto de las reinas en la taquilla",
         url: "https://asi.nic.in/",
-        consiglio: "Ir a pie desde el bazar por la orilla del río: 2 kilómetros entre ruinas y rocas."
+        consiglio: "Ir a pie desde el bazar por la orilla del río: un par de kilómetros entre ruinas y rocas."
       },
       {
         nome: "El Centro real",
-        testo: "El corazón político de la capital: la plataforma de Mahanavami Dibba con los bajorrelieves de las fiestas, el estanque escalonado geométrico y el templo de Hazara Rama, con los frisos del Ramayana.",
-        come: "A 4 kilómetros del bazar, en bici, moto o tuk-tuk. Acceso libre a la mayoría de los monumentos.",
+        testo: "El corazón político de la capital: la plataforma de tres niveles de Mahanavami Dibba, el gran estanque escalonado de granito y el templo de Hazara Rama, con los frisos que narran el Ramayana.",
+        come: "A unos kilómetros del bazar, hacia Kamalapura, en bici, moto o tuk-tuk.",
         quando: "Por la mañana o a última hora de la tarde.",
         tempo: "2 horas",
-        costo: "gratis",
         consiglio: "Dejar tiempo para el Hazara Rama: los frisos son el libro ilustrado de la ciudad."
       },
       {
         nome: "El recinto de las reinas y los establos de los elefantes",
-        testo: "El Lotus Mahal, un pabellón con arcos en forma de loto, y los once establos con cúpula para los elefantes reales, en un recinto con torres de vigilancia.",
-        come: "Al lado del Centro real. La misma entrada que el Vittala, si se usa el mismo día.",
+        testo: "El Lotus Mahal, un pabellón de dos pisos con torres piramidales y una cúpula en forma de capullo de loto, y al lado los establos de los elefantes reales: once cámaras en fila, casi todas cubiertas por cúpulas. Cerca hay una torre de vigilancia.",
+        come: "Junto al Centro real. Entrada ASI: preguntar en la taquilla si vale también para el Vittala el mismo día.",
         quando: "Por la tarde, después del Vittala por la mañana.",
         tempo: "1 hora",
-        costo: "incluido en la entrada del Vittala",
+        costo: "entrada ASI para extranjeros, tarifa en la taquilla",
         url: "https://asi.nic.in/",
-        consiglio: "Llevar la entrada del Vittala en el bolsillo: la controlan."
+        consiglio: "Llevar la entrada en el bolsillo: la controlan."
       },
       {
         nome: "Las colinas de Hemakuta y Matanga",
-        testo: "Hemakuta es una colina de roca sobre el bazar con pequeños templos antiguos. Matanga es la más alta del sitio: desde la cima se ven el río, los arrozales y las ruinas entre las rocas.",
-        come: "A pie desde el bazar. Hemakuta es fácil; Matanga exige 20-30 minutos de subida por escalones y roca.",
+        testo: "Hemakuta es una colina de roca sobre el bazar con más de treinta pequeños templos. Matanga es la colina más panorámica del sitio: en la cima está el templo de Virabhadra, y se ven el río, los arrozales y las ruinas entre las rocas.",
+        come: "A pie desde el bazar. Hemakuta es fácil; Matanga es una subida empinada por escalones y roca.",
         quando: "Hemakuta al atardecer; Matanga al amanecer, saliendo de noche con una linterna.",
         tempo: "1-2 horas",
         costo: "gratis",
@@ -2207,10 +2221,10 @@ export const destinazioniIndia: Destinazione[] = [
       {
         nome: "El coracle en el Tungabhadra",
         testo: "Las barcas redondas de bambú trenzado, que se usan desde hace siglos para cruzar el río. La vuelta pasa entre rocas y templos en las orillas.",
-        come: "En los puntos de embarque a lo largo del río, cerca del Vittala o de Sanapur. Precio a negociar.",
+        come: "En los embarcaderos a lo largo del río. Precio a acordar antes.",
         quando: "Cuando el río está en calma; con la crecida del monzón se paran.",
         tempo: "30-45 minutos",
-        costo: "300-500 rupias, orientativo",
+        costo: "a acordar con el barquero",
         consiglio: "Pedir siempre el chaleco salvavidas."
       }
     ],
@@ -2238,7 +2252,7 @@ export const destinazioniIndia: Destinazione[] = [
       {
         nome: "Hampi Bazaar",
         perChi: "quien quiere tenerlo todo a pie",
-        testo: "Guesthouses sencillas en el pueblo bajo el Virupaksha, a pie de muchos monumentos. Tranquilo, pero sin carne ni alcohol."
+        testo: "Guesthouses sencillas en el pueblo bajo el Virupaksha, a pie de muchos monumentos. Tranquilo, cocina sobre todo vegetariana."
       },
       {
         nome: "Virupapur Gaddi y Hanumanahalli",
@@ -2248,7 +2262,7 @@ export const destinazioniIndia: Destinazione[] = [
       {
         nome: "Kamalapura y Hosapete",
         perChi: "hoteles con piscina y comodidades",
-        testo: "Hoteles más completos cerca del Centro real o en la ciudad, a 4-13 kilómetros. Cómodos, hace falta transporte para todo."
+        testo: "Hoteles más grandes cerca del Centro real o en Hosapete, a 13 kilómetros. Cómodos; hace falta transporte para todo."
       }
     ],
     sapori: [
@@ -2270,10 +2284,10 @@ export const destinazioniIndia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "No nadéis en el Tungabhadra: las corrientes y las rocas causan ahogamientos cada año.",
-      "Para conducir una moto hace falta carné válido para motocicletas y casco; hay controles.",
-      "El ferri a Virupapur Gaddi no funciona en época de crecida.",
-      "Visitad los monumentos por la mañana y a última hora de la tarde: a mediodía el granito al sol quema."
+      "No os bañéis en el Tungabhadra: las corrientes y las rocas son peligrosas.",
+      "Para conducir una moto hace falta un permiso válido para motocicletas, con el permiso internacional, y casco.",
+      "El ferry a Virupapur Gaddi no funciona cuando el río va crecido.",
+      "Visitad los sitios por la mañana y a última hora de la tarde: a mediodía el granito al sol quema.",
     ],
     esperienzeSlugs: [],
     tripSlugs: ['india-sud-taj-mahal'],

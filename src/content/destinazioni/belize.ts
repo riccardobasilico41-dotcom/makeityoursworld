@@ -45,15 +45,15 @@ export const destinazioniBelize: Destinazione[] = [
       "luoghi": [
         {
           "nome": "The Split",
-          "testo": "Il canale aperto dall'uragano Hattie nel 1961, che ha diviso l'isola in due. Oggi è il ritrovo dell'isola: un bar sul molo, tuffi dal ponte e il tramonto guardato da tutti insieme.",
-          "come": "In fondo alla via principale, a 10 minuti a piedi dal molo dei water taxi.",
+          "testo": "Il canale che divide l'isola in due. L'uragano Hattie, nel 1961, aprì un passaggio poco profondo; poi gli abitanti lo scavarono a mano fino a farne un canale. Oggi è il ritrovo dell'isola: un bar sul molo, tuffi dal ponte e il tramonto guardato da tutti insieme.",
+          "come": "In fondo alla via principale, a pochi minuti a piedi dal molo dei water taxi.",
           "quando": "Dal tardo pomeriggio al tramonto.",
           "tempo": "1-2 ore",
           "consiglio": "Nel canale c'è corrente: si entra in acqua dal lato più calmo e si tengono d'occhio le barche."
         },
         {
           "nome": "Hol Chan Marine Reserve e Shark Ray Alley",
-          "testo": "Hol Chan è un canale naturale nella barriera corallina, a sud di Ambergris, dentro la prima area marina protetta del Belize. Shark Ray Alley è il punto dove i pescatori ripulivano il pescato: oggi squali nutrice e razze si avvicinano alla barca.",
+          "testo": "Hol Chan è un canale naturale nella barriera corallina, a sud di Ambergris, dentro una riserva marina istituita nel 1987 e parte del sito UNESCO della barriera del Belize. Shark Ray Alley è il punto dove i pescatori pulivano le reti: gli scarti attiravano squali nutrice e razze, che oggi si avvicinano alla barca.",
           "come": "Escursione in barca di mezza giornata da Caye Caulker, con guida e attrezzatura. La tassa del parco marino spesso non è nel prezzo.",
           "quando": "Mattina, con il mare più calmo; stagione migliore dicembre-aprile.",
           "tempo": "4-5 ore",
@@ -63,7 +63,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Il Great Blue Hole dall'alto",
-          "testo": "Una voragine marina di circa 300 metri di diametro e 125 di profondità, al largo di Lighthouse Reef. Il cerchio perfetto si vede solo dall'alto.",
+          "testo": "Una voragine marina larga più di 300 metri e profonda circa 124, al centro di Lighthouse Reef, un atollo a circa 70 km dalla costa. Il cerchio perfetto si vede solo dall'alto.",
           "come": "Volo panoramico con partenza dall'isola o da Belize City, con un piccolo aereo. In alternativa un'immersione di giornata, più cara e più faticosa.",
           "quando": "Giornata limpida, meglio al mattino.",
           "tempo": "Mezza giornata",
@@ -122,7 +122,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Aragosta",
-          "testo": "Stagione da metà giugno a fine febbraio: fuori stagione, se è nel menu, è congelata."
+          "testo": "La pesca è chiusa per alcuni mesi fra la fine dell'inverno e l'inizio dell'estate (dal 2021 da marzo a giugno): in quel periodo, se è nel menu, è congelata."
         },
         {
           "nome": "Barbecue di strada",
@@ -198,14 +198,14 @@ export const destinazioniBelize: Destinazione[] = [
         {
           "nome": "Great Blue Hole",
           "testo": "Voragine marina nel Lighthouse Reef, patrimonio UNESCO. Da San Pedro si va in barca con l'immersione o in aereo con il volo panoramico.",
-          "come": "Immersione: giornata intera, tre immersioni, mare aperto, brevetto avanzato richiesto da molti operatori. Volo panoramico: mezza giornata.",
+          "come": "Immersione: giornata intera con più immersioni in mare aperto; molti operatori chiedono un brevetto avanzato. Volo panoramico: mezza giornata.",
           "quando": "Giornate di mare calmo, più probabili da dicembre ad aprile.",
           "tempo": "Giornata intera",
           "consiglio": "La vista migliore è dall'aereo, e costa molto meno. Sott'acqua è un muro blu con poche stalattiti e poca vita."
         },
         {
           "nome": "Il centro di San Pedro",
-          "testo": "Strade sabbiose con case colorate, caffè, ristoranti e centri diving. Il lungomare è il cuore del paese, con i molo di partenza di tutte le escursioni.",
+          "testo": "Strade sabbiose con case colorate, caffè, ristoranti e centri diving. Il lungomare è il cuore del paese, con i moli da cui partono tutte le escursioni.",
           "come": "A piedi dal molo principale. Sull'isola si gira in golf cart.",
           "quando": "Mattina presto per le prenotazioni, sera per la vita del lungomare.",
           "tempo": "Mezza giornata"
@@ -318,12 +318,12 @@ export const destinazioniBelize: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Actun Tunichil Muknal (ATM)",
-          "testo": "Grotta archeologica maya con ceramiche e resti umani lasciati dove i maya li deposero oltre mille anni fa, compresa la «Crystal Maiden». Si entra a nuoto in un fiume sotterraneo.",
-          "come": "Solo con guida autorizzata, tour da San Ignacio con trasporto: cammino nella giungla con tre guadi, poi ore in acqua fredda e passaggi stretti.",
+          "testo": "Grotta archeologica maya con ceramiche e resti umani lasciati dove furono deposti, alcuni con più di mille anni, compresa la «Crystal Maiden», lo scheletro calcificato e luccicante di un ragazzo. Si entra a nuoto e si risale un fiume sotterraneo.",
+          "come": "I biglietti li vendono solo i tour operator autorizzati, con guida e trasporto da San Ignacio: cammino nella giungla con guadi, poi ore in acqua fredda e passaggi stretti.",
           "quando": "Mattina; dicembre-aprile. Può chiudere dopo piogge forti per il livello dell'acqua.",
-          "tempo": "Giornata intera (circa 8 ore)",
-          "url": "https://www.nichbelize.org/",
-          "consiglio": "Macchine fotografiche vietate per tutti, senza eccezioni. Chi soffre di claustrofobia o ha problemi con l'acqua fredda salti."
+          "tempo": "Giornata intera",
+          "url": "https://ticketing.nichbelize.org/",
+          "consiglio": "Le fotocamere sono vietate ai visitatori dal 2012, da quando una macchina caduta ha incrinato un cranio. Chi soffre di claustrofobia o ha problemi con l'acqua fredda salti."
         },
         {
           "nome": "Xunantunich",
@@ -331,22 +331,22 @@ export const destinazioniBelize: Destinazione[] = [
           "come": "Da San Ignacio taxi fino al Mopan, poi traghetto a mano gratuito; dall'altra parte si sale a piedi per 15 minuti.",
           "quando": "Mattina, prima del caldo.",
           "tempo": "2 ore",
-          "url": "https://www.nichbelize.org/",
+          "url": "https://ticketing.nichbelize.org/",
           "consiglio": "Dalla cima si vede il Guatemala. Abbinabile alla grotta o a Rio On nello stesso giorno."
         },
         {
           "nome": "Caracol",
-          "testo": "Il sito maya più grande del Belize, in mezzo alla foresta della Chiquibul. La piramide Caana è ancora la struttura più alta del paese.",
-          "come": "Escursione da San Ignacio con guida, lungo una strada sterrata di circa 1h30-2 ore; in genere il pranzo è incluso.",
+          "testo": "Una delle più grandi città maya, sull'altopiano di Vaca ai piedi delle Maya Mountains. La piramide Caana, alta 43 metri, è ancora la struttura costruita dall'uomo più alta del Belize.",
+          "come": "Escursione da San Ignacio con guida, lungo una lunga strada in parte sterrata; in genere il pranzo è incluso.",
           "quando": "Mattina presto. Stagione secca per la strada.",
           "tempo": "Giornata intera",
-          "url": "https://www.nichbelize.org/",
+          "url": "https://ticketing.nichbelize.org/",
           "consiglio": "Si va per il silenzio e per le scimmie urlatrici, non per le folle di Tikal. Controllare lo stato della strada."
         },
         {
           "nome": "Rio On Pools e Mountain Pine Ridge",
           "testo": "Una serie di cascatelle e pozze naturali sul Rio On, in una foresta di pini dell'altopiano. Si fa il bagno e si scivola sulle rocce lisce.",
-          "come": "In auto o taxi da San Ignacio (circa 45 minuti).",
+          "come": "In auto o taxi da San Ignacio, salendo verso la Mountain Pine Ridge.",
           "quando": "Pomeriggio, con l'acqua più calda.",
           "tempo": "1-2 ore",
           "consiglio": "Scarpe da acqua: le rocce sono scivolose."
@@ -391,7 +391,7 @@ export const destinazioniBelize: Destinazione[] = [
       "sapori": [
         {
           "nome": "Mercato di San Ignacio",
-          "testo": "Sabato mattina: frutta, pupusas, tamales e cucina cinese-belizeana. Il posto più economico per mangiare."
+          "testo": "Frutta, pupusas, tamales e cucina cinese-belizeana. Il posto più economico per mangiare: il giorno più vivace è il fine settimana, meglio chiedere in paese."
         },
         {
           "nome": "Stew chicken e pollo alla griglia",
@@ -408,7 +408,7 @@ export const destinazioniBelize: Destinazione[] = [
       ],
       "attenzioni": [
         "Il tour ATM va prenotato solo con operatori autorizzati: l'accesso è contingentato e riservato a guide con licenza specifica.",
-        "Nessuna fotocamera nella grotta ATM: è vietata da anni, da quando una caduta ha danneggiato un reperto.",
+        "Nessuna fotocamera nella grotta ATM: è vietata dal 2012, da quando una macchina caduta ha incrinato un cranio.",
         "Il confine con il Guatemala a Benque Viejo/Melchor de Mencos: cambiare denaro solo agli sportelli ufficiali, non con chi si avvicina.",
         "Dopo piogge forti la grotta ATM e alcune strade, come quella per Caracol, possono chiudere."
       ],
@@ -463,7 +463,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Laughing Bird Caye",
-          "testo": "Un'isoletta-parco nazionale sull'atollo al largo di Placencia, con barriera vicina e acqua bassa. Fa parte del sito UNESCO della barriera corallina.",
+          "testo": "Un'isoletta parco nazionale a circa 19 km da Placencia, su una lunga dorsale di corallo, con barriera vicina e acqua bassa. Fa parte del sito UNESCO della barriera corallina del Belize.",
           "come": "Gita in barca di mezza giornata da Placencia con uno degli operatori della zona; tassa del parco a parte.",
           "quando": "Mattina, mare calmo; stagione secca.",
           "tempo": "4-5 ore",
@@ -472,16 +472,16 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Hopkins e la cultura garifuna",
-          "testo": "Villaggio garifuna sul mare. I garifuna discendono da africani dell'Ovest e da popoli caribi delle Piccole Antille, deportati qui alla fine del Settecento; lingua, danze e musica sono patrimonio immateriale UNESCO.",
-          "come": "Da Placencia 40-50 minuti in auto o navetta. Nel villaggio si va a piedi.",
+          "testo": "Villaggio garifuna sul mare. I garifuna discendono da africani e da popoli caribi e arawak di Saint Vincent, da dove i britannici li deportarono nel 1797; da lì si sono sparsi lungo la costa centroamericana. Lingua, danze e musica sono patrimonio immateriale UNESCO dal 2001.",
+          "come": "Da Placencia in auto o navetta lungo la costa. Nel villaggio si va a piedi.",
           "quando": "Sera per i tamburi, mattina per la cucina.",
           "tempo": "Mezza giornata",
           "consiglio": "Una lezione di tamburo con un maestro del villaggio dice più di qualsiasi museo. Chiedere in paese."
         },
         {
           "nome": "Cockscomb Basin Wildlife Sanctuary",
-          "testo": "La prima riserva al mondo dedicata ai giaguari, in una valle di foresta pluviale con sentieri per cascate e belvedere. Il giaguaro si vede di rado.",
-          "come": "Da Hopkins o Placencia in auto fino all'ingresso (circa 30-50 minuti); sentieri di 1-4 ore, alcuni con pozze per il bagno.",
+          "testo": "Riserva nata negli anni Ottanta, la prima area protetta creata per il giaguaro, in una valle di foresta pluviale con sentieri per cascate e belvedere. Il giaguaro si vede di rado.",
+          "come": "Da Hopkins o Placencia in auto fino all'ingresso; sentieri da una a qualche ora, alcuni con pozze per il bagno.",
           "quando": "Mattina presto; stagione secca.",
           "tempo": "Mezza giornata",
           "url": "https://www.travelbelize.org/",
@@ -508,7 +508,7 @@ export const destinazioniBelize: Destinazione[] = [
           "titolo": "3 giorni",
           "tappe": [
             "Giorni 1 e 2 come sopra",
-            "Giorno 3: stagionale, gita agli squali balena a Gladden Spit (circa marzo-giugno, intorno alle lune piene)"
+            "Giorno 3: stagionale, gita agli squali balena a Gladden Spit (fra marzo e giugno, quando si riproducono i pesci)"
           ]
         }
       ],
@@ -548,8 +548,8 @@ export const destinazioniBelize: Destinazione[] = [
         }
       ],
       "attenzioni": [
-        "Gli squali balena di Gladden Spit dipendono dalle lune piene fra marzo e giugno: non costruire il viaggio attorno a loro.",
-        "Il bus sulla Southern Highway richiede 4-5 ore: tenere un buon margine se c'è un volo.",
+        "Gli squali balena di Gladden Spit arrivano fra marzo e giugno per le uova dei pesci, ma solo per pochi giorni: non costruire il viaggio attorno a loro.",
+        "Il bus sulla Southern Highway è lento: tenere un buon margine se c'è un volo.",
         "Il tramonto porta sandflies sulla spiaggia: repellente.",
         "Le gite in barca possono saltare con il mare mosso."
       ],

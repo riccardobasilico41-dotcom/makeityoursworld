@@ -45,26 +45,27 @@ export const destinazioniTanzania: Destinazione[] = [
     luoghi: [
       {
         "nome": "Seronera Valley",
-        "testo": "The center of the park, the easiest area for big cats: lions, leopards in the acacia trees and cheetahs on the plains. The kopjes, the granite outcrops, are where lions rest.",
+        "testo": "The centre of the park, one of the best areas for big cats: lions, leopards in the acacias and cheetahs on the plains. The kopjes, the granite outcrops, are where lions rest.",
         "come": "Game drive in a 4x4 with a guide, from the lodge or camp. You do not leave the vehicle outside permitted spots.",
         "quando": "The park is open all year and the gates close at 6pm (TANAPA). Animals are most active at dawn and in the late afternoon.",
         "tempo": "1 day or more",
         "url": "https://www.tanzaniaparks.go.tz/serengeti",
-        "consiglio": "I did my safari with Suricata Safaris, which also has tent experiences inside the park: I recommend them."
+        "consiglio": "I did my safari with Suricata Safaris, which also has tent experiences inside the park: I recommend them.",
+        "costo": "TANAPA entry USD 70 for foreign adults and USD 20 for children, according to the official website (2026); ask your operator whether the quote includes extra taxes"
       },
       {
         "nome": "Southern plains and Ndutu",
-        "testo": "The wildebeest calving area, from December to March, with thousands of newborns and the predators following them.",
+        "testo": "The area where wildebeest calves are born, with predators following them. According to TANAPA the calving season is mainly January to February.",
         "come": "From Seronera or Ngorongoro by 4x4, with a guide.",
-        "quando": "December to March.",
+        "quando": "Mainly January and February.",
         "tempo": "1-2 days",
         "url": "https://www.tanzaniaparks.go.tz/serengeti"
       },
       {
         "nome": "Mara River and the migration",
-        "testo": "In the north of the park, from July to October, the crossings of the Mara River by wildebeest and zebra, with crocodiles waiting.",
+        "testo": "In the north of the park, during the dry season, wildebeest and zebra crossing the Mara River, with crocodiles waiting.",
         "come": "From Seronera by 4x4, many hours of driving; many camps are fixed in the north.",
-        "quando": "July to October.",
+        "quando": "Dry season: TANAPA gives June-October for the migration. The exact timing of the crossings changes every year.",
         "tempo": "1-2 days",
         "url": "https://www.tanzaniaparks.go.tz/serengeti",
         "consiglio": "Ask the operator where the migration is in the month of travel: it changes every year."
@@ -129,11 +130,11 @@ export const destinazioniTanzania: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Going to the wrong zone for the month: the migration moves and in summer the wildebeest are not in the south.",
+      "Going to the wrong area for the month: the migration moves, and the south is the calving area early in the year.",
       "Planning a single day: between going and coming back you spend more time in the car than watching animals.",
       "Forgetting warm layers for dawn game drives, cold on the open 4x4.",
       "Choosing an unlicensed operator: check registration and reviews.",
-      "TANAPA conservation fees are charged per person per 24 hours and are usually already in the operator's price: ask for them to be listed separately in the quote."
+      "TANAPA park fees are charged per person and are usually already in the operator's price: ask for them to be listed separately in the quote."
     ],
     // GUIDA-END
     esperienzeSlugs: ['safari-in-tenda', 'grande-migrazione'],
@@ -179,21 +180,22 @@ export const destinazioniTanzania: Destinazione[] = [
     luoghi: [
       {
         "nome": "Crater floor",
-        "testo": "A caldera of about 260 km² with a salt lake and swamps. Lions, elephants, hippos and black rhinos live here, easier to see than elsewhere in the north.",
-        "come": "You descend a steep road in a 4x4 with a guide. Each descent has a per-vehicle permit.",
+        "testo": "The floor of an intact volcanic caldera of about 260 km², some 610 metres deep, with the salt lake Magadi and swamps. It is home to lions, elephants, hippos and a small population of black rhinos, back up to 55 in 2018.",
+        "come": "You drive down a steep road in a 4x4 with a guide. Each descent pays a per-vehicle fee.",
         "quando": "Dawn: the first vehicles enter early and find the crater emptier.",
         "tempo": "Half a day",
-        "costo": "USD 70.80 per person per 24 hours for non-residents aged 16 and over, plus USD 295 per vehicle for each descent into the crater (NCAA tariffs, 2026)",
+        "costo": "USD 70.80 per person per 24 hours for non-residents aged 16+ (USD 23.60 aged 5-15), plus USD 295 per vehicle for each crater descent (NCAA tariffs, 2026)",
         "url": "https://www.ncaa.go.tz/tariffs/",
         "consiglio": "The crater fee is per vehicle: it weighs more on small groups."
       },
       {
         "nome": "Olduvai Gorge",
-        "testo": "The paleontological site where very ancient hominid remains were found. There is a museum with explanations.",
+        "testo": "The paleoanthropological site on the plains of the Conservation Area, outside the crater, where Homo habilis remains were found. There is a museum with explanations.",
         "come": "On the road between the crater and the Serengeti.",
         "quando": "Morning.",
         "tempo": "1 hour",
-        "url": "https://www.ncaa.go.tz/"
+        "url": "https://www.ncaa.go.tz/tariffs/",
+        "costo": "USD 35.40 per person aged 16+, together with Shifting Sand (NCAA tariff, 2026)"
       },
       {
         "nome": "Maasai boma",
@@ -224,7 +226,7 @@ export const destinazioniTanzania: Destinazione[] = [
       {
         "nome": "Karatu",
         "perChi": "those who want to spend less",
-        "testo": "A town an hour from the crater, with cheap lodges."
+        "testo": "A small town near the crater gate, with budget lodges."
       }
     ],
     sapori: [
@@ -292,20 +294,22 @@ export const destinazioniTanzania: Destinazione[] = [
     luoghi: [
       {
         "nome": "Tarangire National Park",
-        "testo": "Baobabs, elephants in big herds and animals gathering around the river in the dry season.",
+        "testo": "Baobabs, some more than a thousand years old, thousands of elephants, the densest population in Tanzania according to TANAPA, and animals gathering by the river in the dry season.",
         "come": "Game drive in a 4x4 with a guide.",
-        "quando": "June to October, when animals gather around water.",
+        "quando": "Dry season, when animals gather around water. Gates close at 6pm.",
         "tempo": "1 day",
         "url": "https://www.tanzaniaparks.go.tz/tarangire",
-        "consiglio": "In the dry season it is worth the trip on its own: do not skip it to rush to the Serengeti."
+        "consiglio": "In the dry season it is worth the trip on its own: do not skip it to rush to the Serengeti.",
+        "costo": "TANAPA entry USD 70 for foreign adults and USD 20 for children, according to the official website (2026); ask your operator whether the quote includes extra taxes"
       },
       {
         "nome": "Lake Manyara",
-        "testo": "A forest with monkeys, the shore with flamingos when the water level allows, and the Rift Valley escarpment above.",
+        "testo": "A groundwater forest with mahogany, figs and blue monkeys, a canopy walkway, the soda lake with lesser flamingos when the level allows and the Rift Valley escarpment above. It is known for tree-climbing lions.",
         "come": "Half-day game drive.",
         "quando": "Morning.",
         "tempo": "Half a day",
-        "url": "https://www.tanzaniaparks.go.tz/lake-manyara"
+        "url": "https://www.tanzaniaparks.go.tz/lake-manyara",
+        "costo": "TANAPA entry USD 70 for foreign adults and USD 20 for children, according to the official website (2026); ask your operator whether the quote includes extra taxes"
       },
       {
         "nome": "Mto wa Mbu",
@@ -404,29 +408,29 @@ export const destinazioniTanzania: Destinazione[] = [
     luoghi: [
       {
         "nome": "Stone Town",
-        "testo": "The old city of alleys, carved wooden doors and waterfront, a UNESCO site, among Swahili, Arab and Indian cultures.",
+        "testo": "The old town of lanes, carved wooden doors and seafront, UNESCO World Heritage since 2000, where the architecture blends Arab, Persian, Indian and European influences with Swahili culture.",
         "come": "On foot in the alleys, with a guide for the first day.",
         "quando": "Morning and evening.",
         "tempo": "Half a day",
-        "consiglio": "Have dinner at the Forodhani Gardens night market."
+        "consiglio": "Dinner at the evening market in Forodhani Gardens, next to the Old Fort, when fish is grilled after sunset."
       },
       {
         "nome": "Nungwi and Kendwa",
         "testo": "The northern beaches, where the tide is less felt.",
-        "come": "Taxi or dala dala from Stone Town, about an hour.",
+        "come": "Taxi or dala dala from Stone Town.",
         "quando": "All year.",
         "tempo": "A full day"
       },
       {
         "nome": "Paje and Jambiani",
         "testo": "The east coast, with low tide that leaves the lagoon exposed for hundreds of meters. Kitesurfing at Paje.",
-        "come": "By car from Stone Town, about an hour.",
+        "come": "By car from Stone Town.",
         "quando": "At high tide for swimming.",
         "tempo": "A full day"
       },
       {
         "nome": "Jozani Forest and Mnemba Atoll",
-        "testo": "The forest with Zanzibar red colobus monkeys, and Mnemba Atoll, famous for snorkeling.",
+        "testo": "Jozani forest, in Zanzibar's only national park, with the Zanzibar red colobus, a monkey found only on the island and endangered; and Mnemba atoll, famous for snorkelling.",
         "come": "Jozani by car; Mnemba by boat from the northeast.",
         "quando": "Morning.",
         "tempo": "Half a day each"
@@ -480,7 +484,7 @@ export const destinazioniTanzania: Destinazione[] = [
     attenzioni: [
       "Choosing the east coast without knowing about the tide: at low tide the sea retreats for hundreds of meters.",
       "Walking around Stone Town in swimwear or tank top: away from beaches you cover shoulders and knees.",
-      "Arriving without the Zanzibar insurance already bought online (US$44): you queue at the airport.",
+      "Arriving without Zanzibar's mandatory insurance (ZIC): buy it online at visitzanzibar.go.tz or on arrival; it covers your whole stay.",
       "Excursion sellers on the beach: compare prices with the hotel."
     ],
     // GUIDA-END
@@ -521,20 +525,22 @@ export const destinazioniTanzania: Destinazione[] = [
     luoghi: [
       {
         "nome": "Kilimanjaro",
-        "testo": "The highest mountain in Africa, 5,895 meters, climbed in 5-9 days along routes such as Machame, Lemosho, Marangu and Rongai. On clear days it can be seen even from the road.",
-        "come": "With an authorized operator, guides and porters are mandatory in the park.",
-        "quando": "June to October and January to February.",
-        "tempo": "5-9 days",
+        "testo": "Africa's highest mountain, 5,895 metres at Uhuru Peak. According to TANAPA the climb to Kibo takes 5 to 8 days depending on the route: among the best known are Machame, Lemosho, Marangu and Rongai. On clear days you see it from the road.",
+        "come": "With a licensed operator, with guides and porters.",
+        "quando": "Avoid the two rainy seasons, March to May and around November.",
+        "tempo": "5-8 days",
         "url": "https://www.tanzaniaparks.go.tz/kilimanjaro",
-        "consiglio": "More days mean more acclimatization and a better chance of reaching the top."
+        "consiglio": "More days mean more acclimatization and a better chance of reaching the top.",
+        "costo": "TANAPA entry USD 70 for foreign adults and USD 20 for children, according to the official website (2026); ask your operator whether the quote includes extra taxes"
       },
       {
         "nome": "Arusha National Park",
-        "testo": "At the foot of Mount Meru, a day on foot or by car among forests, lakes and giraffes.",
-        "come": "By car from Arusha, about an hour.",
+        "testo": "The park at the foot of Mount Meru (4,566 metres, Tanzania's second-highest peak): the \"Serengeti Ndogo\" grassland with buffalo, zebra and giraffe, the Momella lakes with hippos and water birds, and walks with a ranger.",
+        "come": "By car from Arusha; walks are arranged at one of the two gates.",
         "quando": "Morning.",
         "tempo": "A full day",
-        "url": "https://www.tanzaniaparks.go.tz/arusha"
+        "url": "https://www.tanzaniaparks.go.tz/arusha",
+        "costo": "TANAPA entry USD 70 for foreign adults and USD 20 for children, according to the official website (2026); ask your operator whether the quote includes extra taxes"
       },
       {
         "nome": "Materuni Falls and coffee",

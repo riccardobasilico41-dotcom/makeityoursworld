@@ -46,15 +46,15 @@ export const destinazioniGuatemala: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Arco de Santa Catalina",
-          "testo": "L'arco giallo del XVII secolo sulla 5ª Avenida Norte, con il vulcano Agua incorniciato sullo sfondo. È la foto simbolo della città.",
-          "come": "A piedi dalla piazza centrale, 5 minuti. Ingresso libero.",
+          "testo": "L'arco giallo barocco del 1693 sulla 5ª Avenida Norte, costruito perché le suore di clausura del convento di Santa Catalina passassero da un edificio all'altro senza uscire in strada. Con il vulcano Agua sullo sfondo è la foto simbolo della città.",
+          "come": "A piedi dalla piazza centrale, pochi minuti. Ingresso libero, è una strada.",
           "quando": "Mattina presto, senza folla e con il vulcano limpido.",
           "tempo": "15 minuti"
         },
         {
           "nome": "Convento di Santa Clara e La Merced",
-          "testo": "Chiese e conventi coloniali rovinati dal terremoto del 1773, che costrinse a spostare la capitale. Antigua è patrimonio UNESCO per questo insieme.",
-          "come": "A piedi nel centro. Biglietto d'ingresso piccolo per le rovine di Santa Clara; La Merced è una chiesa ancora in uso.",
+          "testo": "Chiese e conventi coloniali rovinati dai terremoti del 1773, dopo i quali la capitale fu spostata. Antigua è patrimonio UNESCO dal 1979 per questo insieme.",
+          "come": "A piedi nel centro. Le rovine di Santa Clara hanno un biglietto d'ingresso; La Merced è una chiesa ancora in uso.",
           "quando": "Mattina; la luce del pomeriggio è buona sulla facciata di La Merced.",
           "tempo": "2-3 ore per entrambe",
           "url": "https://inguat.gob.gt/"
@@ -62,7 +62,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         {
           "nome": "Cerro de la Cruz",
           "testo": "Un belvedere in collina con la città in primo piano e i vulcani Agua, Fuego e Acatenango dietro. Si raggiunge con una breve salita.",
-          "come": "A piedi in 20-30 minuti dal centro, ma meglio in gruppo o accompagnati dalla polizia turistica, presente in zona.",
+          "come": "A piedi dal centro con una breve salita, ma meglio in gruppo o accompagnati dalla polizia turistica, presente in zona.",
           "quando": "Mattina presto o tardo pomeriggio.",
           "tempo": "1 ora",
           "consiglio": "Non salire da soli e non portare oggetti di valore: la zona ha avuto problemi di sicurezza in passato."
@@ -70,10 +70,10 @@ export const destinazioniGuatemala: Destinazione[] = [
         {
           "nome": "Vulcano Acatenango",
           "testo": "Salita con campo base sopra le nuvole, davanti al Fuego che erutta. Il tratto più duro del viaggio in Guatemala.",
-          "come": "Tour di due giorni da Antigua con guida, tenda e pasti. Il cammino dura 5-6 ore di salita fra campi di mais, pineta e sabbia vulcanica.",
+          "come": "Tour di due giorni da Antigua con guida, tenda e pasti. Si sale per diverse ore fra campi di mais, pineta e sabbia vulcanica.",
           "quando": "Stagione secca (novembre-aprile); la mattina dopo si scende sulla sabbia. Il sentiero può chiudere per l'attività del Fuego o il maltempo (nel 2026 ha riaperto ad agosto dopo una chiusura): verificare prima.",
           "tempo": "2 giorni, 1 notte",
-          "consiglio": "Il campo è vicino allo zero di notte: guanti, berretto, strati caldi. La discesa scivola più che camminare."
+          "consiglio": "Di notte al campo fa freddo, spesso vicino allo zero: guanti, berretto, strati caldi e impermeabile. La discesa scivola più che camminare."
         }
       ],
       "programmi": [
@@ -121,7 +121,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         },
         {
           "nome": "Tamales",
-          "testo": "Il sabato è il giorno dei tamales colorati, avvolti nelle foglie di platano. Nei mercati e nelle case."
+          "testo": "Avvolti nelle foglie, rossi o neri, si trovano nei mercati, nei comedor e alle feste di famiglia."
         },
         {
           "nome": "Hilachas",
@@ -134,8 +134,8 @@ export const destinazioniGuatemala: Destinazione[] = [
       ],
       "attenzioni": [
         "Salita al Cerro de la Cruz: meglio in gruppo o con la polizia turistica.",
-        "Per l'Acatenango scegliere operatori affidabili con attrezzatura adeguata: di notte la temperatura scende a zero.",
-        "Il Fuego è attivo: seguire sempre le indicazioni della guida e i bollettini della protezione civile (CONRED)."
+        "Per l'Acatenango scegliere operatori seri: il Foreign Office britannico avverte che gli organizzatori locali tendono a sottovalutare i rischi, che ci sono stati morti e che non esiste un soccorso alpino.",
+        "Il Fuego è attivo: prima di partire controllare i bollettini di CONRED e INSIVUMEH e seguire sempre la guida."
       ],
     esperienzeSlugs: ['trekking-acatenango'],
     tripSlugs: ['centro-america-itinerario'],
@@ -186,7 +186,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         {
           "nome": "San Juan la Laguna",
           "testo": "Il villaggio più curato del lago, con cooperative tessili di donne, murales sulle facciate e atelier d'arte.",
-          "come": "In lancha pubblica da Panajachel o San Pedro (circa 30-45 minuti), poi si cammina nelle stradine.",
+          "come": "In lancha pubblica da Panajachel o San Pedro, poi si cammina nelle stradine.",
           "quando": "Mattina, quando le cooperative sono aperte.",
           "tempo": "2-3 ore",
           "consiglio": "Comprare nelle cooperative, dove il ricavato va alle tessitrici."
@@ -200,8 +200,8 @@ export const destinazioniGuatemala: Destinazione[] = [
         },
         {
           "nome": "Santiago Atitlán",
-          "testo": "Il villaggio più grande e tradizionale, dove le donne portano il tocoyal avvolto in testa e si venera Maximón, figura sincretica.",
-          "come": "In lancha pubblica da Panajachel, circa 30-40 minuti.",
+          "testo": "Il paese più grande del lago, tz'utujil e molto tradizionale, dove alcune donne portano ancora il tocoyal avvolto in testa e si venera Maximón, figura sincretica.",
+          "come": "In lancha pubblica da Panajachel.",
           "quando": "Mattina.",
           "tempo": "Mezza giornata",
           "consiglio": "Prima di fotografare persone o la figura di Maximón, chiedere sempre il permesso e lasciare una piccola offerta."
@@ -209,7 +209,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         {
           "nome": "Indian Nose (Rostro Maya)",
           "testo": "Un belvedere sopra San Juan la Laguna, per l'alba sul lago e sui vulcani Atitlán, Tolimán e San Pedro. La cima è un prato stretto fra gli alberi: si arriva al buio e si guarda la luce accendere il lago.",
-          "come": "Sveglia verso le 4, partenza in pick-up e cammino di circa un'ora al buio con guida.",
+          "come": "Sveglia prima dell'alba, trasferimento e cammino al buio con guida.",
           "quando": "Alba, con cielo sereno.",
           "tempo": "Mezza mattina",
           "consiglio": "Nella stagione delle piogge si sale al buio per guardare una nuvola: controllare le previsioni."
@@ -277,7 +277,7 @@ export const destinazioniGuatemala: Destinazione[] = [
       "attenzioni": [
         "Muoversi sul lago la mattina: dal primo pomeriggio si alza lo Xocomil e le traversate sono mosse.",
         "Usare le lancha pubbliche ufficiali e concordare il prezzo prima di salire.",
-        "I sentieri fra i paesi, soprattutto a San Pedro, hanno avuto episodi di rapine: camminare in gruppo e di giorno."
+        "Il Foreign Office britannico segnala rapine sulle strade turistiche del paese, compresa la zona del lago: muoversi di giorno, in gruppo o con operatori seri. A San Pedro la Laguna tenere con sé il passaporto o una copia autenticata."
       ],
     esperienzeSlugs: ['lance-villaggi-atitlan'],
     tripSlugs: ['centro-america-itinerario'],
@@ -336,30 +336,30 @@ export const destinazioniGuatemala: Destinazione[] = [
         },
         {
           "nome": "Tempio IV",
-          "testo": "Il tempio più alto del sito, con una piattaforma in legno sopra la volta della foresta e vista sulle cime degli altri templi.",
-          "come": "Salita su scale di legno a fine percorso, con la torcia se si sale per l'alba.",
+          "testo": "Uno degli edifici più alti del mondo maya, con la cima sopra la volta della foresta e vista sulle creste degli altri templi.",
+          "come": "Salita su una scala per i visitatori a fine percorso, con la torcia se si sale per l'alba.",
           "quando": "Alba o tardo pomeriggio.",
           "tempo": "1 ora",
           "consiglio": "Nella stagione secca l'alba è spesso velata dalla foschia. Quello che vale la sveglia è il coro di scimmie urlatrici e uccelli prima dei pullman."
         },
         {
           "nome": "Mundo Perdido",
-          "testo": "Il complesso più antico del sito, con una piramide e piattaforme che si vedono dall'alto di una scala ripida.",
+          "testo": "Il complesso architettonico più antico di Tikal, con una piramide di circa 30 metri e le piattaforme intorno.",
           "come": "A piedi dal parco, dopo la Gran Plaza.",
           "quando": "Tardo pomeriggio per il tramonto, se l'accesso è consentito.",
           "tempo": "1-1,5 ore"
         },
         {
           "nome": "Isola di Flores",
-          "testo": "Un'isola di case colorate sul lago Petén Itzá, col lungolago tranquillo. Vive quasi solo del turismo verso Tikal.",
-          "come": "Ponte pedonale da Santa Elena. A piedi in 15 minuti da un capo all'altro.",
+          "testo": "Un'isola di case colorate sul lago Petén Itzá, con un lungolago tranquillo. È la base classica per Tikal e gli altri siti maya.",
+          "come": "Strada rialzata da Santa Elena. Si gira tutta a piedi.",
           "quando": "Sera, per cena e lungolago.",
           "tempo": "Mezza giornata"
         },
         {
           "nome": "Yaxhá",
-          "testo": "Un sito maya meno visitato, con vista sul lago e tramonto dalla piramide, a un'ora e mezza da Flores.",
-          "come": "Tour da Flores o taxi; è un sito grande, con pochi turisti.",
+          "testo": "Il terzo sito maya del Guatemala per grandezza, dopo Tikal ed El Mirador, sulla riva nord del lago Yaxhá, a circa 30 km da Tikal. Meno visitato, con il tramonto sul lago visto dall'alto di una piramide.",
+          "come": "Tour da Flores o taxi; è un sito grande, dentro il parco nazionale Yaxhá-Nakum-Naranjo.",
           "quando": "Tardo pomeriggio.",
           "tempo": "Mezza giornata",
           "url": "https://inguat.gob.gt/",
@@ -370,7 +370,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         {
           "titolo": "1 giorno",
           "tappe": [
-            "Partenza da Flores alle 3 del mattino per il Tempio IV all'alba",
+            "Partenza da Flores prima dell'alba per il Tempio IV",
             "Gran Plaza, Templi I e II",
             "Mundo Perdido",
             "Rientro a Flores nel pomeriggio, cena sul lungolago"
@@ -395,12 +395,12 @@ export const destinazioniGuatemala: Destinazione[] = [
         {
           "nome": "Isola di Flores",
           "perChi": "atmosfera e comodità",
-          "testo": "Ristoranti e hotel in riva al lago, strade strette. Il rumore è basso, ma a Tikal si arriva con 1 ora di auto."
+          "testo": "Ristoranti e hotel in riva al lago, strade strette. Il rumore è basso, ma per Tikal serve un trasferimento in auto o navetta."
         },
         {
           "nome": "El Remate",
           "perChi": "chi vuole più calma e natura",
-          "testo": "Sul lago Petén Itzá, a 30 minuti da Tikal: piccole cabañas e il tramonto sul lago."
+          "testo": "Sul lago Petén Itzá, più vicino a Tikal: piccole cabañas e il tramonto sul lago."
         }
       ],
       "sapori": [
@@ -424,7 +424,7 @@ export const destinazioniGuatemala: Destinazione[] = [
       "attenzioni": [
         "Chiedere sempre che cosa è incluso nel tour dell'alba: spesso l'ingresso al parco è a parte.",
         "Nella stagione delle piogge l'alba spesso non si vede: valutare se vale la sveglia.",
-        "Nel sito si cammina per chilometri sotto la foresta: portare acqua, repellente e scarpe chiuse."
+        "Nel sito si cammina per chilometri sotto la foresta: portare acqua, repellente e scarpe chiuse. Il Foreign Office segnala rapine sulle strade verso Tikal: viaggiare di giorno e con operatori seri."
       ],
     esperienzeSlugs: ['alba-tikal'],
     tripSlugs: ['centro-america-itinerario'],
@@ -471,16 +471,16 @@ export const destinazioniGuatemala: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Piscine naturali di Semuc Champey",
-          "testo": "Una serie di vasche turchesi a gradoni, formate dal calcare, sopra il fiume Cahabón che scorre sotto il ponte di roccia. Monumento naturale con ingresso a pagamento.",
-          "come": "Da Lanquín 30 minuti in pick-up lungo una sterrata. Dall'ingresso si cammina fino alle piscine.",
+          "testo": "Una serie di vasche turchesi a gradoni su un ponte naturale di calcare lungo circa 300 metri, sotto cui scorre il fiume Cahabón. Monumento naturale dal 2005, gestito dal CONAP e dal comune di Lanquín, con ingresso a pagamento.",
+          "come": "Da Lanquín in pick-up lungo una strada sterrata. Dall'ingresso si cammina fino alle piscine.",
           "quando": "Mattina, con meno gente e acqua più chiara; evitare dopo piogge forti, quando l'acqua si intorbida.",
           "tempo": "2-3 ore",
           "consiglio": "Si risale dal basso verso l'alto, poi si sale al Mirador: così si capisce come funziona il posto."
         },
         {
           "nome": "Il Mirador",
-          "testo": "Il punto panoramico sopra le piscine. Da qui si vede come il fiume sparisce sotto il ponte di roccia e riemerge trecento metri più in là.",
-          "come": "Sentiero ripido di 30-45 minuti dall'ingresso, con scale e fango.",
+          "testo": "Il punto panoramico sopra le piscine. Da qui si vede come il fiume sparisce sotto il ponte di roccia e riemerge più a valle.",
+          "come": "Sentiero ripido e caldo di circa 45 minuti dall'ingresso, con scale e fango.",
           "quando": "Mattina; evitare ore di pioggia, quando i gradini scivolano.",
           "tempo": "1-1,5 ore",
           "consiglio": "Scarpe con presa e acqua: la salita è dura, ma senza la vista dall'alto si perde il senso del posto."
@@ -495,8 +495,8 @@ export const destinazioniGuatemala: Destinazione[] = [
         },
         {
           "nome": "Lanquín",
-          "testo": "Il villaggio base, ultimo avamposto prima di Semuc Champey, con ostelli e un solo asse stradale.",
-          "come": "Da Cobán o da Guatemala City con shuttle, 8-10 ore da Antigua o Atitlán.",
+          "testo": "Il villaggio q'eqchi' che fa da base per Semuc Champey, con ostelli e pochi servizi.",
+          "come": "Da Cobán o con shuttle da Antigua o Atitlán: è una lunga giornata di strada.",
           "quando": "Arrivo il giorno prima.",
           "tempo": "Una notte"
         }
@@ -595,27 +595,27 @@ export const destinazioniGuatemala: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Mercato di Chichicastenango",
-          "testo": "Uno dei mercati più grandi dell'America Centrale: tessuti, maschere, ceramiche e prodotti locali nella piazza, cibo e fiori nelle vie laterali.",
-          "come": "Nel centro del paese, a piedi. Shuttle da Antigua (circa 3 ore) o da Atitlán.",
+          "testo": "Il grande mercato del paese k'iche': tessuti, huipiles, maschere, ceramiche, copale e prodotti locali nella piazza, cibo e fiori nelle vie laterali.",
+          "come": "Nel centro del paese, a piedi. Shuttle da Antigua o da Atitlán, qualche ora di strada.",
           "quando": "Giovedì e domenica. Fuori da quei giorni il paese è tranquillo e poco interessante.",
           "tempo": "3-4 ore",
           "consiglio": "Contrattare con calma. Mangiare in piedi ai banchi della parte alimentare, nelle vie laterali."
         },
         {
           "nome": "Chiesa di Santo Tomás",
-          "testo": "Chiesa cattolica sulla piazza principale, sulla cui scalinata si bruciano copale e offerte secondo riti k'iche'. Un rito vero e non uno spettacolo.",
+          "testo": "Chiesa di circa quattro secoli sulla piazza principale, costruita sopra una piattaforma precolombiana. Sui suoi 20 gradini, che si dice rappresentino i mesi del calendario maya, i sacerdoti k'iche' bruciano incenso e candele. Un rito vero e non uno spettacolo.",
           "come": "A piedi dalla piazza. Si può guardare dalla scalinata, ma l'interno ha regole proprie.",
           "quando": "Giorni di mercato.",
           "tempo": "1 ora",
           "consiglio": "Non fotografare le persone senza permesso e mantenere distanza dai riti."
         },
         {
-          "nome": "Cimitero di Chichicastenango",
-          "testo": "Poco fuori dal centro, con tombe dipinte a colori vivaci e un'atmosfera molto diversa dal cimitero europeo.",
-          "come": "A piedi dal centro, circa 10 minuti.",
+          "nome": "Pascual Abaj",
+          "testo": "Una pietra scolpita su una collina vicino al paese, venerata dai k'iche', dove i sacerdoti celebrano ancora riti con fuoco e offerte.",
+          "come": "A piedi dal centro, con una breve salita.",
           "quando": "Mattina.",
           "tempo": "45 minuti",
-          "consiglio": "Rispetto e discrezione: è un luogo in uso, non un set."
+          "consiglio": "Rispetto e discrezione: è un luogo di culto in uso, non un set. Chiedere prima di fotografare."
         }
       ],
       "programmi": [
@@ -624,14 +624,14 @@ export const destinazioniGuatemala: Destinazione[] = [
           "tappe": [
             "Arrivo in mattinata col mercato già attivo",
             "Pranzo ai banchi della parte alimentare",
-            "Santo Tomás e cimitero nel primo pomeriggio",
+            "Santo Tomás e Pascual Abaj nel primo pomeriggio",
             "Partenza nel tardo pomeriggio per Atitlán"
           ]
         },
         {
           "titolo": "2 giorni",
           "tappe": [
-            "Giorno 1: mercato, chiesa, cimitero",
+            "Giorno 1: mercato, chiesa, Pascual Abaj",
             "Notte in paese, rientro il giorno dopo, quando il paese è tranquillo"
           ]
         }
@@ -669,7 +669,7 @@ export const destinazioniGuatemala: Destinazione[] = [
       "attenzioni": [
         "Il mercato si fa solo giovedì e domenica: programmare in anticipo.",
         "Borseggi nella folla: tenere i valori davanti.",
-        "Rispettare i riti k'iche' sulla scalinata: niente foto senza permesso."
+        "Rispettare i riti k'iche': chiedere sempre il permesso prima di fotografare le persone, che a volte chiedono un piccolo compenso."
       ],
     esperienzeSlugs: [],
     tripSlugs: ['centro-america-itinerario'],

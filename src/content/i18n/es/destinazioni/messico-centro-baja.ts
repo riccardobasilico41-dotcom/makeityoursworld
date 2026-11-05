@@ -65,7 +65,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         {
           "nome": "Teotihuacán",
           "testo": "La ciudad de los Templos del Sol y de la Luna y de la Calzada de los Muertos, a unos 50 km de la ciudad, patrimonio UNESCO.",
-          "come": "Bus desde la terminal Norte (aprox. 1 hora) o tour; entrada INAH.",
+          "come": "Bus desde la Terminal Norte o tour; entrada INAH.",
           "quando": "A la apertura de las 8 (abre todos los días hasta las 17 h), antes del calor y de los grupos.",
           "tempo": "Media jornada",
           "costo": "210 MXN para extranjeros (2026). Según notas de agosto de 2026 la Pirámide de la Luna está cerrada hasta nuevo aviso: preguntar en taquilla.",
@@ -215,7 +215,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         {
           "nome": "Gran Pirámide de Cholula",
           "testo": "La pirámide más grande del mundo por volumen, casi escondida bajo un cerro de pasto, con la iglesia de la Virgen de los Remedios en la cima. Los túneles reabrieron en marzo de 2026 después de seis años cerrados, con visitas en grupo y en horarios fijos.",
-          "come": "Bus o Uber desde Puebla (unos 20 minutos).",
+          "come": "Autobús o Uber desde Puebla, a poca distancia.",
           "quando": "Mañana; atardecer para la vista de los volcanes.",
           "tempo": "2-3 horas",
           "url": "https://www.inah.gob.mx/",
@@ -327,17 +327,17 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Templo de Santo Domingo y jardín etnobotánico",
-          "testo": "Iglesia barroca con interiores dorados, ex convento con museo y el jardín etnobotánico, visitable solo con guía.",
+          "testo": "Iglesia barroca con interiores dorados, antiguo convento con museo y el jardín etnobotánico, que solo se visita con guía.",
           "come": "A pie desde el centro.",
           "quando": "Mañana.",
           "tempo": "2-3 horas",
           "url": "https://www.inah.gob.mx/",
-          "consiglio": "El jardín etnobotánico se visita en tour guiado a horas fijas: reservar."
+          "consiglio": "Al jardín etnobotánico solo se entra con visita guiada, y horarios y reservas han cambiado varias veces últimamente: infórmate en la ciudad antes de ir."
         },
         {
           "nome": "Monte Albán",
           "testo": "La antigua capital zapoteca en una colina sobre la ciudad, patrimonio UNESCO, con la gran plaza y las tumbas.",
-          "come": "Shuttle o taxi desde Oaxaca (unos 20-30 minutos); entrada INAH.",
+          "come": "Shuttles o taxi desde Oaxaca; entrada INAH.",
           "quando": "A la apertura.",
           "tempo": "2-3 horas",
           "costo": "210 MXN para extranjeros (2026).",
@@ -392,7 +392,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         {
           "nome": "Barrio de Jalatlaco",
           "perChi": "cafés y ambiente",
-          "testo": "Un barrio de casas de colores, más tranquilo, a 10-15 minutos."
+          "testo": "Barrio de casas de colores, más tranquilo, a pie del centro."
         }
       ],
       "sapori": [
@@ -464,8 +464,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Árbol del Tule",
-          "testo": "Un ahuehuete de unos 2.000 años con el tronco más ancho del mundo, en el atrio de la iglesia de Santa María del Tule.",
-          "come": "Bus o taxi desde Oaxaca (unos 15 minutos).",
+          "testo": "Un ahuehuete con el tronco más grueso de cualquier árbol conocido, en el atrio de la iglesia de Santa María del Tule. Las estimaciones más serias le dan entre 1.400 y 1.600 años.",
+          "come": "Autobús o taxi desde Oaxaca: unos 9 km al este, en la carretera a Mitla.",
           "quando": "Mañana.",
           "tempo": "30 minutos"
         },
@@ -480,7 +480,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         {
           "nome": "Mitla",
           "testo": "Sitio zapoteco-mixteco con mosaicos geométricos de piedra encajada. Entrada INAH.",
-          "come": "Colectivo o tour desde Oaxaca (aprox. 1 hora).",
+          "come": "Colectivo o tour desde Oaxaca.",
           "quando": "Mañana.",
           "tempo": "1,5 horas",
           "url": "https://www.inah.gob.mx/"
@@ -488,7 +488,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         {
           "nome": "Hierve el Agua",
           "testo": "Cascadas petrificadas de caliza y pozas naturales con vista al valle. Gestionadas por la comunidad; la apertura puede cambiar.",
-          "come": "Tour desde Oaxaca o en coche (aprox. 1,5 horas).",
+          "come": "Tour desde Oaxaca o coche.",
           "quando": "Mañana, con menos gente; comprobar la apertura.",
           "tempo": "2-3 horas",
           "consiglio": "Tras lluvias o por bloqueos de carretera puede estar cerrado: comprobar antes."
@@ -612,7 +612,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         {
           "nome": "Mazunte, Zipolite y Punta Cometa",
           "testo": "Pueblos de la costa cercana: Mazunte por el centro de tortugas, Zipolite por la playa libre, Punta Cometa por el atardecer.",
-          "come": "Coche o colectivo desde Puerto Escondido (1-2 horas).",
+          "come": "Coche o colectivo desde Puerto Escondido, por la costa.",
           "quando": "Atardecer en Punta Cometa.",
           "tempo": "Día completo"
         }
@@ -709,7 +709,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         {
           "nome": "Isla de Janitzio",
           "testo": "Una isla en el lago de Pátzcuaro con la estatua de Morelos, famosa por la velada del Día de Muertos en el panteón, la noche del 1 de noviembre.",
-          "come": "Barca desde el muelle de Pátzcuaro (unos 20-30 minutos).",
+          "come": "Lancha desde el muelle de Pátzcuaro.",
           "quando": "Noche del 1 de noviembre para la velada.",
           "tempo": "Media jornada",
           "consiglio": "Respetar a las familias: la velada no es un espectáculo."
@@ -717,7 +717,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         {
           "nome": "Tzintzuntzan",
           "testo": "Antigua capital purépecha, con las yácatas (pirámides circulares) y un cementerio decorado.",
-          "come": "Coche o colectivo desde Pátzcuaro (unos 20 minutos).",
+          "come": "Coche o colectivo desde Pátzcuaro, junto al lago.",
           "quando": "Mañana.",
           "tempo": "2 horas",
           "costo": "210 MXN para extranjeros (2026).",
@@ -818,31 +818,32 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Malecón de La Paz",
-          "testo": "Un paseo marítimo de unos 5 km con esculturas, cafés y el atardecer sobre el Mar de Cortés.",
+          "testo": "El malecón de la ciudad, de algunos kilómetros, con esculturas, cafés y el atardecer sobre el Mar de Cortés.",
           "come": "A pie desde el centro.",
           "quando": "Atardecer.",
           "tempo": "1-2 horas"
         },
         {
           "nome": "Playa Balandra",
-          "testo": "Una bahía poco profunda de agua turquesa, conocida por la roca del hongo. El acceso está limitado para proteger el ecosistema.",
-          "come": "En coche o taxi desde La Paz (unos 25 minutos); comprobar las reglas de acceso y el número máximo de visitantes.",
+          "testo": "Una bahía poco profunda de agua turquesa, conocida por su roca en forma de hongo, dentro de un área natural protegida. El acceso está limitado para proteger el ecosistema.",
+          "come": "En coche o taxi desde La Paz. Se entra en dos turnos, 8-12 y 13-17, con plazas limitadas por turno; parte se reserva en el portal de áreas protegidas de la CONANP, el resto es para quien llega primero.",
           "quando": "Mañana temprano.",
           "tempo": "Media jornada",
-          "consiglio": "Para entrar hay que respetar las reglas del parque; comprobar con antelación."
+          "consiglio": "Llega temprano y lleva agua y comida: en la playa no se vende nada, y la basura se lleva de vuelta.",
+          "costo": "120 MXN para nacionales y extranjeros (cuota publicada en 2025): verificar antes de ir."
         },
         {
           "nome": "Isla Espíritu Santo y Los Islotes",
-          "testo": "Un archipiélago UNESCO con colonias de lobos marinos y fondos para el snorkel. Se nada con lobos marinos en Los Islotes.",
+          "testo": "Archipiélago dentro del sitio UNESCO de las islas y áreas protegidas del Golfo de California, con colonias de lobos marinos y fondos para snorkel. En Los Islotes se nada con los lobos marinos.",
           "come": "Tour en barca desde La Paz con operador autorizado.",
           "quando": "Mañana; todo el año con horarios variables.",
           "tempo": "Día completo"
         },
         {
           "nome": "Tiburón ballena en la bahía de La Paz",
-          "testo": "Encuentro con tiburones ballena, en temporada, con operadores autorizados.",
+          "testo": "Encuentro con el tiburón ballena dentro del refugio de la bahía, en temporada, solo con embarcaciones autorizadas.",
           "come": "Tour en barca desde La Paz.",
-          "quando": "Aprox. de octubre a marzo.",
+          "quando": "Normalmente entre el otoño y la primavera, pero la temporada abre solo cuando la CONANP cuenta suficientes tiburones en el refugio de la bahía: en 2025 se suspendió varias veces. Verificar antes.",
           "tempo": "Media jornada",
           "consiglio": "Elegir operadores que respeten las distancias y los límites de número."
         }
@@ -895,7 +896,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         }
       ],
       "attenzioni": [
-        "Balandra tiene acceso limitado: comprobar las reglas y los horarios.",
+        "Balandra tiene acceso limitado en dos turnos: verificar reglas, horarios y cuota antes de ir.",
         "Para Los Islotes elegir operadores autorizados: las reglas sobre los lobos marinos son estrictas.",
         "Sol fuerte y viento: llevar agua y protección."
       ],
@@ -952,7 +953,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
           "come": "En coche desde La Paz o Ciudad Constitución.",
           "quando": "De día.",
           "tempo": "Media jornada",
-          "consiglio": "El Festival de la Ballena Gris se celebra a finales de enero-febrero en López Mateos."
+          "consiglio": "En invierno los pueblos se animan con la temporada de ballenas: pregunta allí si hay fiestas o eventos en tus fechas."
         }
       ],
       "programmi": [
@@ -968,7 +969,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
           "titolo": "2 días",
           "tappe": [
             "Día 1: llegada, salida por la tarde",
-            "Día 2: salida matutina y Festival de la Ballena (si coincide)"
+            "Día 2: salida por la mañana y almuerzo de pescado en el puerto"
           ]
         }
       ],
@@ -1047,7 +1048,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Misión de Nuestra Señora de Loreto",
-          "testo": "La primera misión jesuita de Baja California, fundada en 1697, con museo de las misiones junto a la iglesia. De aquí partió la colonización de las Californias; la iglesia de piedra, sencilla y maciza, sigue siendo el centro de la vida del pueblo.",
+          "testo": "La primera misión estable de Baja California, fundada por el jesuita Juan María de Salvatierra en 1697, con el museo de las misiones junto a la iglesia. Desde aquí empezó la expansión por toda la península; la iglesia de piedra, construida entre 1740 y 1744, sigue siendo el centro de la vida del pueblo.",
           "come": "A pie desde el centro.",
           "quando": "Mañana.",
           "tempo": "1 hora",
@@ -1055,15 +1056,15 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         },
         {
           "nome": "Parque Nacional Bahía de Loreto e Isla Coronado",
-          "testo": "Parque marino con islas, snorkel y avistamiento de ballena azul en temporada. Isla Coronado tiene una playa blanca y agua transparente; en la lancha es fácil cruzarse con delfines y lobos marinos.",
+          "testo": "Parque marino creado en 1996 y parte del sitio UNESCO del Golfo de California, con islas, snorkel y ballenas en temporada. Isla Coronado, una de las islas principales, tiene playa blanca, agua transparente y lobos marinos en las rocas; en barca se cruzan a veces delfines.",
           "come": "Barca desde Loreto con operador autorizado.",
           "quando": "Mañana; mar calmo.",
           "tempo": "Día completo"
         },
         {
           "nome": "Misión San Javier",
-          "testo": "Misión jesuita de 1699 en la Sierra de la Giganta, a la que se llega por una carretera de montaña entre cañones y oasis de palmas. La iglesia de piedra del siglo XVIII es de las mejor conservadas de Baja, y al lado hay un viejo olivo de los misioneros.",
-          "come": "Coche o tour desde Loreto (aprox. 1,5 horas).",
+          "testo": "Misión jesuita fundada en 1699 en la Sierra de la Giganta, a la que se llega por una carretera de montaña entre cañones y oasis de palmas. La iglesia de piedra, construida entre 1744 y 1758, se considera la joya de las misiones de Baja California y la cuida el INAH.",
+          "come": "Coche o tour desde Loreto, cruzando la sierra.",
           "quando": "Mañana.",
           "tempo": "Media jornada",
           "consiglio": "Carretera de montaña con curvas cerradas: manejar de día y con calma."
@@ -1150,7 +1151,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         {
           "nome": "Playa Cerritos",
           "testo": "Una playa en el Pacífico con olas aptas para surf de principiantes, escuelas y alquiler de tablas.",
-          "come": "En coche o taxi desde Todos Santos (unos 15 minutos).",
+          "come": "Coche o taxi desde Todos Santos, hacia el sur.",
           "quando": "Mañana.",
           "tempo": "Media jornada",
           "consiglio": "Fuera de Cerritos las playas del Pacífico tienen corrientes fuertes: no nadar."
@@ -1208,9 +1209,9 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       ],
       "attenzioni": [
         "Nadar en las playas abiertas del Pacífico fuera de Cerritos: corrientes fuertes.",
-        "Carretera desde La Paz y Cabo San Lucas: aprox. 1 hora.",
+        "Carretera desde La Paz y desde Cabo San Lucas: alrededor de una hora en coche.",
         "Las galerías cierran a horas variables: comprobar.",
-        "De junio a noviembre es temporada de huracanes: revisar los avisos antes de salir."
+        "De mediados de mayo a noviembre es la temporada de huracanes del Pacífico: revisa los boletines antes de salir."
       ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
@@ -1253,15 +1254,15 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         },
         {
           "nome": "San José del Cabo",
-          "testo": "Un centro colonial con galerías de arte y el Art Walk de los jueves por la noche (noviembre-junio).",
-          "come": "En coche o bus desde Cabo San Lucas (unos 30 minutos).",
+          "testo": "Centro colonial con galerías de arte y el Art Walk gratuito de los jueves por la tarde, de noviembre a junio, en el distrito de galerías.",
+          "come": "Coche o bus desde Cabo San Lucas.",
           "quando": "Jueves por la noche.",
           "tempo": "Media jornada"
         },
         {
           "nome": "Parque Nacional Cabo Pulmo",
-          "testo": "El único arrecife de coral duro del Golfo de California, patrimonio UNESCO, para snorkel y buceo.",
-          "come": "Coche desde Los Cabos (aprox. 1,5-2 horas) y barca con operador del pueblo.",
+          "testo": "El más antiguo de los únicos tres arrecifes de coral de la costa oeste de Norteamérica, en un parque nacional creado en 1995 y parte del sitio UNESCO del Golfo de California. Snorkel y buceo entre enormes cardúmenes.",
+          "come": "Coche desde Los Cabos, luego barca con un operador del pueblo.",
           "quando": "Mañana.",
           "tempo": "Día completo"
         },
@@ -1325,7 +1326,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "Ofertas de tiempo compartido: rechazar a quien te para en la calle.",
         "El Pacífico tiene corrientes fuertes: en Cabo San Lucas nadar solo en playas protegidas y señalizadas, como Médano, Chileno y Santa María.",
         "En Cabo Pulmo solo se entra al agua con los operadores del pueblo: las reglas del parque son estrictas para proteger el arrecife.",
-        "De junio a noviembre es temporada de huracanes: revisar los avisos."
+        "De mediados de mayo a noviembre es la temporada de huracanes del Pacífico: revisa los boletines."
       ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],

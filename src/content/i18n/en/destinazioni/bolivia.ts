@@ -48,7 +48,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "Stations are all over the city; you buy the ticket at the station.",
         "quando": "At sunset, when the basin lights up.",
         "tempo": "1-2 hours",
-        "costo": "3 bolivianos per ride, less than half a euro (2025-2026); changing line is paid separately",
+        "costo": "3 bolivianos per ride, less than half a euro (2025-2026)",
         "url": "https://www.miteleferico.bo/",
         "consiglio": "Rick recommends them to everyone: they cost very little and give the best view over the basin."
       },
@@ -63,14 +63,14 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         "nome": "Valle de la Luna",
         "testo": "Eroded clay formations a few kilometres from the centre, with short paths among spires and canyons.",
-        "come": "Bus or taxi from the southern part of La Paz (Mallasa), about 30 minutes.",
+        "come": "Bus or taxi to the southern part of La Paz, near Mallasa.",
         "quando": "Morning, with better light.",
         "tempo": "1-2 hours",
         "consiglio": "At this altitude even a short walk tires you: go slowly."
       },
       {
         "nome": "El Alto and the cholitas luchadoras",
-        "testo": "The El Alto market (Thursday and Sunday) is one of the biggest in South America. On Sunday you can also see Aymara women wrestle in traditional skirts.",
+        "testo": "El Alto's 16 de Julio fair (Thursday and Sunday) is one of the largest street markets in Latin America. On Sunday you can also watch Aymara women wrestle in traditional skirts.",
         "come": "By cable car (red line) to El Alto.",
         "quando": "Thursday and Sunday for the market.",
         "tempo": "Half a day",
@@ -78,16 +78,16 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Death Road (Carretera de la Muerte)",
-        "testo": "The old road to Coroico, from over 4,600 metres down to about 1,200 metres, now ridden downhill by mountain bike. A day experience through mist, forest and gorges.",
+        "testo": "The old road to Coroico, with about 3,500 metres of descent, now ridden downhill by mountain bike. A day experience through mist, forest and gorges.",
         "come": "With an operator, by mountain bike, leaving La Paz early in the morning and returning late afternoon.",
-        "quando": "May-October, but only once acclimatised.",
+        "quando": "In the dry season, and only once acclimatised.",
         "tempo": "Full day",
-        "costo": "Roughly 80-100 dollars with budget operators and 120-170 with premium operators",
+        "costo": "Varies a lot between budget and premium operators: compare what is included",
         "consiglio": "Choose an operator with bikes and brakes in good condition: here it matters more than price."
       },
       {
         "nome": "Chacaltaya",
-        "testo": "The highest former ski resort in the world, now without a glacier, with a view of Huayna Potosí.",
+        "testo": "It was the highest lift-served ski area in the world. The glacier had completely disappeared by 2009; the area lies near Huayna Potosí.",
         "come": "Half-day tour from La Paz.",
         "quando": "Early morning.",
         "tempo": "Half a day",
@@ -209,16 +209,16 @@ export const destinazioniBolivia: Destinazione[] = [
         "nome": "The Uyuni salt flat",
         "testo": "The largest salt flat in the world, over 10,000 square kilometres at 3,650 metres. With no reference points you cannot tell if a mountain is five or fifty kilometres away, which is why forced-perspective photos work.",
         "come": "Only by 4x4 with a driver, as part of an organised tour leaving from Uyuni.",
-        "quando": "May-October: dry salt flat, passable throughout. January-March: the mirror effect, but some stops are lost.",
+        "quando": "In the dry season the salt flat is dry and passable throughout. In the rainy season (roughly December-April) it turns into a mirror of water, but some stops are lost.",
         "tempo": "Half a day or a day",
-        "costo": "3-day tour roughly 150-250 dollars per person. Extra, in cash: Eduardo Avaroa reserve about 150 bolivianos and Isla Incahuasi about 30 (operator figures, to be reconfirmed)",
+        "costo": "The tour is paid to the agency and prices vary a lot between operators. Extra, in cash: entry to the Eduardo Avaroa reserve and to Isla Incahuasi; ask the operator for current amounts",
         "consiglio": "For perspective photos bring small-scale objects and use dawn light."
       },
       {
         "nome": "Isla Incahuasi",
         "testo": "The rock island covered in giant cacti in the middle of the white expanse.",
         "come": "A stop on the 4x4 tour from the salt flat, with a short climbing path.",
-        "quando": "Dry season; from January to March it may become inaccessible.",
+        "quando": "Dry season; in the rainy season it can become hard to reach.",
         "tempo": "1-2 hours",
         "consiglio": "The path gives the best view of the salt flat from a raised position."
       },
@@ -232,7 +232,7 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Laguna Colorada",
-        "testo": "A red lagoon coloured by algae, with thousands of flamingos, in the Sud Lípez.",
+        "testo": "A lagoon coloured red by sediments and algae, with many flamingos, mostly James's flamingos, in the Sud Lípez.",
         "come": "A stop on the second day of the 4x4 tour.",
         "quando": "Early morning.",
         "tempo": "1-2 hours",
@@ -240,9 +240,9 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Sol de Mañana geysers and Polques hot springs",
-        "testo": "Geysers at almost 5,000 metres that puff at dawn, and the open-air Polques hot springs.",
+        "testo": "Geysers at about 4,900 metres that puff at dawn, and the open-air Polques hot springs.",
         "come": "Stops on the 4x4 tour.",
-        "quando": "At dawn, with twenty degrees below zero.",
+        "quando": "At dawn, with temperatures below zero.",
         "tempo": "1-2 hours",
         "consiglio": "Dress in layers: dawn at the geysers is among the coldest hours of the trip."
       },
@@ -308,7 +308,7 @@ export const destinazioniBolivia: Destinazione[] = [
       "Choosing the operator on price alone: vehicles and maintenance make a real difference on tracks at 4,500 metres.",
       "Night cold below zero: the sleeping bag is not always included.",
       "Arriving in Uyuni unacclimatised: on day two you climb almost to 5,000 metres.",
-      "January-March: mirror effect, but several stops are lost."
+      "Rainy season (roughly December-April): mirror effect, but several stops are lost."
     ],
     esperienzeSlugs: ['tour-uyuni-sud-lipez'],
     tripSlugs: ['bolivia-itinerario'],
@@ -356,16 +356,16 @@ export const destinazioniBolivia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Copacabana Basilica",
-        "testo": "A pilgrimage destination with the Virgen de la Candelaria, in a slightly shabby town with a soul.",
+        "testo": "A pilgrimage destination devoted to the Virgen de Copacabana, in a slightly shabby town with a soul.",
         "come": "On foot from the lakefront.",
-        "quando": "Morning, on vehicle-blessing days.",
+        "quando": "Morning.",
         "tempo": "1 hour",
         "consiglio": "Copacabana is the natural entry from Peru."
       },
       {
         "nome": "Cerro Calvario",
         "testo": "The hill above the town, with the stations of the cross, for sunset over the lake.",
-        "come": "On foot from the centre, about 30 minutes uphill.",
+        "come": "On foot from the centre, a short but steep climb.",
         "quando": "Sunset.",
         "tempo": "1-2 hours",
         "consiglio": "At 3,800 metres the climb tires: go slowly."
@@ -373,10 +373,10 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         "nome": "Isla del Sol: Chincana and Roca Sagrada",
         "testo": "The Chincana ruins and the Roca Sagrada, at the northern end of the island where tradition says the sun and the first Inca were born.",
-        "come": "Shared boat from Copacabana, about 1h30. There are no vehicles on the island.",
+        "come": "Shared boat from Copacabana. There are no motor vehicles or paved roads on the island.",
         "quando": "Morning and sunset.",
         "tempo": "Half a day",
-        "costo": "Boat to the island a few dollars, plus small entry fees collected by the communities",
+        "costo": "Boat plus small entry fees collected by the communities: carry cash",
         "consiglio": "Ask locally whether the passage to the northern part is open: tensions between communities have at times limited it."
       },
       {
@@ -443,7 +443,7 @@ export const destinazioniBolivia: Destinazione[] = [
       "Planning Isla del Sol as a day trip: you miss the best part.",
       "Access to the whole island is not guaranteed: ask locally.",
       "Underestimating altitude: you walk uphill at almost 4,000 metres.",
-      "Kasani/Yunguyo border: closes in the evening, requires online pre-registration and the office closes at lunch. Recheck before going."
+      "Kasani/Yunguyo border: hours and formalities change, check them again before you go."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['bolivia-itinerario'],
@@ -490,7 +490,7 @@ export const destinazioniBolivia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Colonial centre of Sucre and Casa de la Libertad",
-        "testo": "The constitutional capital, a white colonial city, UNESCO heritage, at 2,800 metres. The Casa de la Libertad is where independence was signed.",
+        "testo": "The constitutional capital, a white colonial city on the UNESCO list since 1991, at about 2,800 metres. The republic was founded in the Casa de la Libertad.",
         "come": "On foot from the centre.",
         "quando": "By day.",
         "tempo": "Half a day",
@@ -498,7 +498,7 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Parque Cretácico",
-        "testo": "A vertical wall with thousands of dinosaur footprints.",
+        "testo": "An almost vertical wall with thousands of dinosaur footprints (over 12,000 recorded), in a quarry just outside Sucre.",
         "come": "By bus or taxi from the centre.",
         "quando": "Morning.",
         "tempo": "2 hours",
@@ -507,7 +507,7 @@ export const destinazioniBolivia: Destinazione[] = [
       {
         "nome": "Tarabuco market",
         "testo": "A textile village near Sucre, with the Sunday market and Yampara textiles.",
-        "come": "By shared van or tour from Sucre, about 1h30.",
+        "come": "By shared van or tour from Sucre.",
         "quando": "Sunday.",
         "tempo": "Half a day",
         "consiglio": "Haggle over prices."
@@ -522,20 +522,20 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "Cerro Rico mines",
-        "testo": "The silver mountain that dominates Potosí and made it the richest city in South America. You enter the galleries of the still-working mining cooperatives with helmet and lamp.",
-        "come": "With a Potosí agency, preferring those run by former miners. A visit of about 4 hours.",
+        "testo": "The silver mountain above Potosí: between the 16th and 18th centuries it produced much of the world's silver, and Potosí became one of the largest cities in the New World. You enter the tunnels of the still active mining cooperatives with helmet and lamp.",
+        "come": "With a Potosí agency, preferably one run by former miners.",
         "quando": "On working days, when the cooperatives are active.",
-        "tempo": "4 hours",
-        "costo": "Roughly 15-30 dollars per person with guide, equipment included",
+        "tempo": "Half a day",
+        "costo": "Guide and gear are paid to the agency: ask what the price includes",
         "consiglio": "For Rick it was the heaviest experience of the trip: hot, dusty tunnels beside men who spend ten hours a day there. Not recommended for the claustrophobic."
       },
       {
         "nome": "Spanish course in Sucre",
-        "testo": "Among the cheapest and most appreciated courses in South America.",
+        "testo": "Central Sucre has several Spanish schools, handy for anyone staying a few weeks.",
         "come": "Schools in the centre of Sucre; book ahead.",
         "quando": "All year.",
         "tempo": "From a few days to weeks",
-        "consiglio": "They cost very little compared with the rest of the continent."
+        "consiglio": "Prices and formats vary from school to school: compare before booking."
       }
     ],
     programmi: [
@@ -677,20 +677,20 @@ export const destinazioniBolivia: Destinazione[] = [
     luoghi: [
       {
         "nome": "Yacuma pampas",
-        "testo": "Flooded grasslands travelled by boat along the Rio Yacuma: caimans, capybaras, monkeys, pink dolphins and hundreds of birds, with close sightings.",
+        "testo": "Flooded grasslands explored by boat along the Rio Yacuma: caimans, capybaras, monkeys, pink dolphins and a great many birds, seen up close.",
         "come": "Organised 3-day tour from Rurrenabaque, with boat trips and nights in a lodge.",
-        "quando": "May-October, dry season.",
+        "quando": "In the dry season.",
         "tempo": "3 days, 2 nights",
-        "costo": "Roughly 100-200 dollars for 3 days, all included",
+        "costo": "All-inclusive tour: prices vary between agencies, compare several in Rurrenabaque",
         "consiglio": "Rick saw more animals with less effort than anywhere else. If the guide pulls caimans out of the water or looks for anacondas to be touched, say no."
       },
       {
         "nome": "Madidi jungle",
         "testo": "Primary forest inside the national park, with huge trees and very high biodiversity. Wildlife is harder to see.",
         "come": "3-4 day tour with guided walks and nights in a lodge or tent camp.",
-        "quando": "May-October.",
+        "quando": "In the dry season.",
         "tempo": "3-4 days",
-        "costo": "Roughly 150-300 dollars for 3-4 days",
+        "costo": "Depends on the lodge and the length: ask the lodge or agency directly",
         "consiglio": "Choose a lodge run by indigenous communities, such as Chalalán or San Miguel del Bala."
       },
       {
@@ -703,10 +703,10 @@ export const destinazioniBolivia: Destinazione[] = [
       },
       {
         "nome": "La Paz-Rurrenabaque flight",
-        "testo": "A flight of about 45 minutes on small planes, often cancelled for weather, taking you from 4,000 metres to forest level.",
-        "come": "Book with margin; the alternative is an 18-20 hour bus.",
+        "testo": "A flight of about 45 minutes to an hour on small planes, which can be cancelled for weather, taking you from 4,000 metres down to forest level.",
+        "come": "Book with a margin; the alternative is a bus of about 18 hours.",
         "quando": "All year.",
-        "tempo": "45 minutes",
+        "tempo": "45 minutes to 1 hour",
         "consiglio": "Do not count on the return flight without margin."
       }
     ],
@@ -750,9 +750,9 @@ export const destinazioniBolivia: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Flights to Rurrenabaque are often cancelled for weather: the alternative is an almost twenty-hour bus.",
+      "Flights to Rurrenabaque can be cancelled for weather: the alternative is a bus of about 18 hours.",
       "Some practices with caimans and anacondas harm the animals: check the operator.",
-      "Serious repellent and yellow fever vaccination.",
+      "Serious repellent. Yellow fever vaccination is recommended for the Rurrenabaque area: ask your doctor before you go.",
       "Mosquitoes in notable quantity."
     ],
     esperienzeSlugs: [],

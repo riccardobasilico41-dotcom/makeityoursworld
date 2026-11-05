@@ -57,25 +57,25 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       {
         nome: "Rijksmuseum",
         testo: "Il museo nazionale olandese, con la Ronda di notte di Rembrandt, i Vermeer e le navi in miniatura. L'edificio ha un giardino gratuito con sculture e una piazza dove si fanno le foto.",
-        come: "Tram 2 o 12 fino al Rijksmuseum, 10 minuti dal centro. Biglietto online con orario.",
+        come: "Sul Museumplein, a 10 minuti a piedi dai canali. L'orario d'ingresso va prenotato, anche con la Museumkaart; in cassa si vende solo se resta posto.",
         quando: "Tutti i giorni 9-17, festivi compresi; mattina presto o pomeriggio tardi per evitare la ressa davanti alla Ronda di notte.",
         tempo: "3 ore",
-        costo: "25 € adulti (2026), gratuito sotto i 18 anni",
+        costo: "25 € adulti (2026; 26,50 € dal 2027), gratuito fino a 18 anni",
         url: "https://www.rijksmuseum.nl",
         consiglio: "Cominciare dal piano degli Anni d'oro: in un'ora si vedono le sale più importanti."
       },
       {
         nome: "Museo Van Gogh",
-        testo: "La più grande collezione di Van Gogh: dipinti, disegni e lettere in ordine cronologico, dai Mangiatori di patate ai Girasoli. Si capisce l'evoluzione dell'artista.",
-        come: "Tram 2 o 5 fino a Van Baerlestraat; biglietti a orario.",
+        testo: "La più grande collezione di Van Gogh al mondo: circa 200 dipinti, 400 disegni e 700 lettere, dai Mangiatori di patate (1885) ai Girasoli (1889). Si segue l'evoluzione dell'artista.",
+        come: "Tram fino alla fermata Van Baerlestraat/Museumplein. Biglietti sul sito ufficiale.",
         quando: "Mattina presto, con biglietto già acquistato.",
         tempo: "2 ore",
         url: "https://www.vangoghmuseum.nl",
-        consiglio: "Prenotare con anticipo, soprattutto nei weekend: le fasce si esauriscono."
+        consiglio: "Comprare il biglietto in anticipo, soprattutto nei weekend."
       },
       {
         nome: "Casa di Anne Frank",
-        testo: "L'alloggio segreto dove Anne Frank e la famiglia si nascosero dal 1942 al 1944, sopra la ditta del padre. Il percorso è stretto e silenzioso; non è permesso fotografare.",
+        testo: "L'alloggio segreto dove Anne Frank e la famiglia si nascosero per oltre due anni, dal 1942 al 1944, nel retro dell'edificio della ditta del padre, Prinsengracht 263. Il percorso è stretto e silenzioso.",
         come: "I biglietti si vendono solo online sul sito ufficiale: ogni martedì alle 10 escono quelli per le visite di sei settimane dopo. All'ingresso non si vendono.",
         quando: "Prenotare appena si decidono le date; a Prinsengracht, 15 minuti dal centro.",
         tempo: "1-1,5 ore",
@@ -93,16 +93,16 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       },
       {
         nome: "Jordaan e Begijnhof",
-        testo: "Il Jordaan è un quartiere di strade strette, caffè e negozi d'artigianato. Il Begijnhof è un cortile segreto con case del Medioevo e un giardino aperto al pubblico.",
+        testo: "Il Jordaan è un quartiere di strade strette, caffè e negozi d'artigianato. Il Begijnhof è l'unico cortile di Amsterdam fondato nel Medioevo: facciate del Seicento e del Settecento, e la Casa di legno del 1420 circa, la più antica della città.",
         come: "A piedi dal centro (10-15 minuti).",
         quando: "Mattina, con luce soffusa e meno gente.",
         tempo: "2 ore",
         costo: "Begijnhof: ingresso libero",
-        consiglio: "Il Begijnhof è un luogo di vita: parlare piano e non fotografare le porte."
+        consiglio: "Il Begijnhof è abitato: parlare piano e rispettare la privacy dei residenti."
       },
       {
         nome: "Vondelpark",
-        testo: "Il parco più grande della città, con laghetti, prati e chioschi; d'estate ci sono concerti all'aperto. Un buon posto per fare una pausa dopo i musei.",
+        testo: "Il parco più famoso della città, 47 ettari di laghetti, prati e chioschi; da giugno ad agosto il teatro all'aperto (Openluchttheater) ha spettacoli gratuiti. Un buon posto per fare una pausa dopo i musei.",
         come: "Accanto al museo Van Gogh, a pochi minuti a piedi.",
         quando: "Pomeriggio d'estate.",
         tempo: "1-2 ore",
@@ -111,8 +111,8 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       },
       {
         nome: "Mercato Albert Cuyp",
-        testo: "Il più grande mercato di strada all'aperto della città: frutta, formaggi, stroopwafel caldi e gadget. Ideale per spuntini economici.",
-        come: "Tram 3 o 24 fino a Albert Cuypstraat, a De Pijp.",
+        testo: "Il mercato più frequentato dei Paesi Bassi, aperto sei giorni su sette dal 1912: frutta, verdura, pesce, vestiti e stroopwafel fatti al momento. Ideale per spuntini economici.",
+        come: "Nel quartiere De Pijp, in tram o metro.",
         quando: "Dal lunedì al sabato, mattina.",
         tempo: "1 ora",
         consiglio: "Provare stroopwafel caldi e aringhe con cipolle."
@@ -186,10 +186,10 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Biciclette: sono il pericolo maggiore per i pedoni; non camminare sulle piste ciclabili rosse.",
-      "Borseggiatori a Centraal Station, in Dam e sui tram affollati.",
-      "Biglietti falsi o rivenditori non ufficiali per Anne Frank e musei: comprare solo dal sito ufficiale.",
-      "A De Wallen è vietato fotografare le lavoratrici; in alcune zone è vietato fumare cannabis per strada.",
+      "Biciclette: sono il pericolo maggiore per i pedoni, vanno veloci e spesso non si fermano ai semafori; non camminare sulle piste ciclabili rosse.",
+      "Borseggiatori nel centro e intorno a Centraal Station, anche in bande sui treni e i tram da e per Schiphol.",
+      "Rivenditori non ufficiali per Anne Frank e musei: comprare solo dal sito ufficiale. Diffidare anche dei falsi poliziotti che chiedono contanti o carte.",
+      "A De Wallen non fotografare le lavoratrici. Fumare cannabis in luoghi pubblici è illegale: è tollerato solo nei coffeeshop.",
       "I taxi non sempre sono economici: meglio tram o piedi."
     ],
     esperienzeSlugs: ['amsterdam-in-bicicletta', 'crociera-sui-canali-amsterdam', 'casa-di-anna-frank'],

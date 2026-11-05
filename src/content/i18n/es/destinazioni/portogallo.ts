@@ -83,27 +83,29 @@ export const destinazioniPortogallo: Destinazione[] = [
       {
         "nome": "Belén: Monasterio de los Jerónimos",
         "testo": "Monasterio manuelino del siglo XVI, patrimonio de la UNESCO, con un claustro de dos plantas cubierto de decoración marinera y la tumba de Vasco da Gama en la iglesia. El portal sur es una de las obras más elaboradas de Portugal.",
-        "come": "Desde el centro en el tranvía 15 o en tren desde Cais do Sodré, unos 15 minutos. La iglesia es gratuita, el claustro es de pago.",
-        "quando": "Cerrado los lunes. Llegar a la apertura, la cola se forma hacia las 11.",
+        "come": "Desde el centro con el tranvía 15 o con el tren desde Cais do Sodré hasta Belém. La entrada es para el claustro; la iglesia tiene su propio horario.",
+        "quando": "Claustro de martes a domingo de 9:30 a 17:30, última entrada a las 17. Cerrado los lunes, el 1 de enero, el domingo de Pascua, el 1 de mayo, el 13 de junio y el 25 de diciembre. Llegar a la apertura: a media mañana la cola crece.",
         "tempo": "1,5 horas",
-        "url": "https://www.museusemonumentos.pt/",
-        "consiglio": "Comprar la entrada online para saltarse la cola principal; la iglesia se puede ver gratis aparte."
+        "url": "https://mosteirojeronimos.torrebelem.gov.pt/",
+        "costo": "Claustro 18 €, 2026 (web oficial)",
+        "consiglio": "Comprar la entrada en la taquilla online oficial para no hacer cola en la caja. La iglesia tiene un acceso separado del claustro y merece la pena por sí sola, por la tumba de Vasco da Gama."
       },
       {
         "nome": "Torre de Belén",
-        "testo": "Fortaleza manuelina de 1514-1520 sobre el Tajo, patrimonio de la UNESCO. El símbolo de la ciudad: baluartes, logia y terraza con vistas al río. Dentro las salas son pequeñas y la subida es estrecha.",
-        "come": "A 10 minutos a pie de los Jerónimos junto al río. El tranvía 15 y el tren paran cerca.",
-        "quando": "Cerrada los lunes. Comprobar en la web si está abierta: puede haber obras. Al atardecer se ve bien iluminada desde fuera.",
+        "testo": "Fortaleza manuelina sobre el Tajo, construida entre 1514 y 1519 y patrimonio UNESCO junto con los Jerónimos. El símbolo de la ciudad: baluartes, logia y terraza con vistas al río. Dentro las salas son pequeñas y la subida es estrecha.",
+        "come": "A pie desde los Jerónimos junto al río. El tranvía 15 y el tren paran cerca.",
+        "quando": "De martes a domingo de 9:30 a 17:30; cerrada los lunes y los mismos festivos que los Jerónimos. Puede cerrar cuando el tiempo hace la visita poco segura. El atardecer la ilumina bien desde fuera.",
         "tempo": "45 minutos dentro, más el paseo",
-        "url": "https://www.museusemonumentos.pt/",
+        "url": "https://mosteirojeronimos.torrebelem.gov.pt/",
+        "costo": "15 €, 2026 (web oficial)",
         "consiglio": "Para una foto desde la orilla, el paseo del río junto al Padrão dos Descobrimentos es mejor que el interior."
       },
       {
         "nome": "Pastéis de Belém",
-        "testo": "La pastelería de 1837 donde se hace el pastel de nata con la receta de los monjes de los Jerónimos. La sala interior es un laberinto de salones con azulejos. Se comen calientes con canela y azúcar glas.",
-        "come": "A 5 minutos a pie de los Jerónimos. Paradas de tranvía 15 y tren cerca.",
-        "quando": "La cola de fuera avanza rápido: hay un mostrador para llevar. Abierto todos los días, normalmente hasta la noche.",
-        "tempo": "20-30 minutos",
+        "testo": "La pastelería que desde 1837 hace los pastéis de Belém con una antigua receta del Monasterio de los Jerónimos. Dentro es un laberinto de salas de azulejos. Se comen calientes con canela y azúcar glas.",
+        "come": "A pocos pasos de los Jerónimos. Paradas del tranvía 15 y del tren cerca.",
+        "quando": "Abierta todos los días; horarios en la web oficial. La cola de fuera avanza rápido porque hay un mostrador para llevar.",
+        "tempo": "media hora",
         "url": "https://pasteisdebelem.pt/",
         "consiglio": "Entrar en las salas interiores en lugar de esperar en el mostrador: a menudo hay sitio."
       },
@@ -119,8 +121,8 @@ export const destinazioniPortogallo: Destinazione[] = [
       {
         "nome": "Tranvía 28 y miradores",
         "testo": "La línea histórica amarilla que sube por Graça, Alfama, Baixa y Estrela. Para los miradores: Santa Luzia, Portas do Sol, Senhora do Monte, Graça. El tranvía va lleno; a los miradores también se llega a pie.",
-        "come": "El tranvía parte de Martim Moniz o Campo Ourique. Se paga con la tarjeta Navegante o con un billete a bordo, más caro.",
-        "quando": "Antes de las 9 o después de las 18; a mediodía va lleno. Los miradores al atardecer.",
+        "come": "El tranvía sale de Martim Moniz o de Campo de Ourique. Se paga con la tarjeta recargable de transporte o con el billete a bordo, que cuesta más.",
+        "quando": "Temprano por la mañana o al atardecer: en las horas centrales va lleno. Los miradouros al atardecer.",
         "tempo": "2 horas el recorrido",
         "url": "https://www.carris.pt/",
         "consiglio": "Subir en la cabecera para tener asiento."
@@ -135,8 +137,8 @@ export const destinazioniPortogallo: Destinazione[] = [
       },
       {
         "nome": "Oceanário e Parque das Nações",
-        "testo": "Uno de los acuarios más grandes de Europa, con un tanque central de dos plantas y hábitats de los cuatro océanos. El barrio moderno construido para la Expo 98 tiene un paseo junto al Tajo y un teleférico.",
-        "come": "Línea roja de metro hasta Oriente, luego 10 minutos a pie. Desde el aeropuerto está en la misma línea.",
+        "testo": "Uno de los mayores acuarios cubiertos de Europa, abierto en 1998, con un gran tanque central y los hábitats de los cuatro océanos. El Parque das Nações, el recinto de la Expo 98, tiene un paseo junto al Tajo y un teleférico.",
+        "come": "Metro rojo hasta Oriente y luego un corto paseo. Desde el aeropuerto está en la misma línea.",
         "quando": "Por la mañana, con menos grupos escolares. Útil en días de lluvia.",
         "tempo": "2-3 horas",
         "url": "https://www.oceanario.pt/",
@@ -210,7 +212,7 @@ export const destinazioniPortogallo: Destinazione[] = [
     ],
     attenzioni: [
       "Carteristas en el tranvía 28, en el metro y en las zonas turísticas: llevar la mochila y el móvil delante.",
-      "En la Baixa y el Bairro Alto es muy común que se acerquen a ofrecer hachís u otras drogas: decir que no y seguir.",
+      "En la Baixa y el Bairro Alto puede ocurrir que desconocidos ofrezcan hachís u otras drogas por la calle: decir que no y seguir. En Portugal las drogas ilegales conllevan sanciones severas.",
       "En los restaurantes el «couvert» (pan, aceitunas, queso) que llevan a la mesa se cobra si se toca: rechazarlo si no se quiere.",
       "Tuk-tuks y taxis fuera de las zonas turísticas: acordar el precio antes, o usar apps.",
       "Tasa turística municipal por noche, que se paga en el hotel y puede cambiar (comprobar el importe vigente).",
@@ -263,26 +265,27 @@ export const destinazioniPortogallo: Destinazione[] = [
     luoghi: [
       {
         "nome": "Palácio Nacional da Pena",
-        "testo": "Palacio romántico del siglo XIX encargado por Fernando II en lo alto de una colina, amarillo y rojo, con torres, almenas y decoración morisca y manuelina. Dentro, las salas están amuebladas como a finales del siglo XIX. Alrededor hay un parque de 85 hectáreas.",
-        "come": "Desde la estación el bus 434 sube hasta la entrada en unos 15 minutos. A pie la subida es empinada, unos 45 minutos. Los coches particulares no pueden subir por las carreteras de acceso: desde la base del parque hasta el palacio hay un bus lanzadera cada 15 minutos. Entrada con billete por franja horaria.",
+        "testo": "Palacio romántico construido entre 1842 y 1854 por deseo de Fernando II en lo alto de una colina, amarillo y rojo, con torres, almenas y decoración morisca y manuelina. Fue residencia de verano de la familia real y las salas conservan el mobiliario de sus colecciones. Alrededor hay un parque de más de 200 hectáreas.",
+        "come": "Desde la estación de Sintra el autobús 434 de Scotturb sube hasta la Pena. A pie la subida es larga y empinada. Los coches particulares no pueden subir por las carreteras de acceso: desde la base del parque al palacio hay un lanzadera cada 15 minutos. Entrada con billete por franja horaria.",
         "quando": "Parque de 9 a 19 h, palacio de 9:30 a 18:30 h (último billete a las 17:30). El palacio solo se visita con fecha y franja horaria reservadas. A primera hora: después de las 10:30 la cola se alarga. Entradas online en Parques de Sintra.",
         "tempo": "2-3 horas con el parque",
-        "url": "https://www.parquesdesintra.pt/",
+        "url": "https://www.parquesdesintra.pt/pt/parques-monumentos/parque-e-palacio-nacional-da-pena/",
+        "costo": "Visita Essencial (parque y palacio) 20 €, solo parque 12 €, 2026 (web oficial)",
         "consiglio": "El parque se puede visitar solo, sin la cola del palacio, y tiene miradores: útil si las colas son demasiado largas."
       },
       {
         "nome": "Quinta da Regaleira",
-        "testo": "Villa neogótica de principios del siglo XX con un jardín lleno de símbolos, grutas y galerías. El Poço Iniciático es un pozo en espiral de 27 metros con nueve niveles, unido a túneles que salen a un pequeño lago.",
-        "come": "A 10 minutos a pie del centro de Sintra, en ligera cuesta. Las entradas se compran en taquilla o online.",
-        "quando": "A primera hora o a primera hora de la tarde. El pozo se llena hacia las 11.",
+        "testo": "Villa neogótica construida entre 1904 y 1910, con un jardín lleno de símbolos, grutas y galerías. El Poço Iniciático es un pozo de 27 metros de profundidad con una escalera en espiral, unido a túneles que salen a un pequeño lago.",
+        "come": "A pie desde el centro de Sintra, en ligera subida. La entrada se compra en taquilla o en la taquilla online oficial, que evita la cola.",
+        "quando": "A primera hora o a primera hora de la tarde: a media mañana el pozo se llena. Horarios en la web oficial.",
         "tempo": "2 horas",
         "url": "https://www.regaleira.pt/",
         "consiglio": "Bajar al pozo con calzado antideslizante y volver por los túneles: la salida es más bonita que el descenso."
       },
       {
         "nome": "Castelo dos Mouros",
-        "testo": "Ruinas de una fortaleza medieval de los siglos IX-X sobre la cresta que domina Sintra, con murallas y torres unidas por pasarelas. Desde arriba se ven la Pena, el pueblo y el océano.",
-        "come": "Desde el centro a pie en unos 40 minutos, o en el autobús 434 hasta la parada del castillo. Tramos de escaleras sobre piedra irregular.",
+        "testo": "Las ruinas de la fortaleza construida por los moros entre los siglos VIII y IX en la cresta sobre Sintra, con murallas y torres unidas por adarves. Desde arriba se ven la Pena, la ciudad y el océano.",
+        "come": "Desde el centro a pie, cuesta arriba, o con el autobús 434 hasta la parada del castillo. Tramos de escaleras sobre piedra irregular.",
         "quando": "Por la mañana, con menos viento. Con niebla se pierde la vista.",
         "tempo": "1-1,5 horas",
         "url": "https://www.parquesdesintra.pt/",
@@ -291,7 +294,7 @@ export const destinazioniPortogallo: Destinazione[] = [
       {
         "nome": "Palácio Nacional de Sintra",
         "testo": "El palacio real del centro, reconocible por las dos chimeneas cónicas blancas de las cocinas. Dentro están la Sala de los Cisnes, la Sala de las Urracas y una gran colección de azulejos desde el siglo XV.",
-        "come": "A 10 minutos a pie de la estación. Está en la plaza principal del pueblo.",
+        "come": "A pie desde la estación. Está en la plaza principal de la ciudad.",
         "quando": "Antes de comer; por la noche la plaza está más tranquila.",
         "tempo": "1 hora",
         "url": "https://www.parquesdesintra.pt/",
@@ -299,8 +302,8 @@ export const destinazioniPortogallo: Destinazione[] = [
       },
       {
         "nome": "Cabo da Roca",
-        "testo": "El punto más occidental de la Europa continental, sobre un acantilado de 140 metros sobre el Atlántico, con un faro y una placa con versos de Camões.",
-        "come": "Desde el centro de Sintra en el autobús 403 (hacia Cascais) en unos 40 minutos, o en 20 minutos en coche.",
+        "testo": "El punto más occidental de la Europa continental, con un faro sobre acantilados cortados a pico sobre el Atlántico. El monumento recuerda el verso con que Camões describió el lugar «donde la tierra se acaba y el mar comienza».",
+        "come": "Desde el centro de Sintra con el autobús de línea hacia Cascais (horarios en la app de Carris Metropolitana) o en coche.",
         "quando": "Al atardecer con viento fuerte; llevar chaqueta incluso en verano.",
         "tempo": "1 hora",
         "consiglio": "El certificado de visita se compra en la pequeña oficina de turismo: es un recuerdo, no obligatorio."
@@ -329,7 +332,7 @@ export const destinazioniPortogallo: Destinazione[] = [
       {
         "nome": "Excursión desde Lisboa",
         "perChi": "la mayoría de los visitantes",
-        "testo": "Tren desde Rossio en 40 minutos, vuelta por la tarde. Ritmo apretado con las colas, pero coste bajo."
+        "testo": "Tren desde Rossio en menos de una hora, vuelta por la tarde. Ritmo apretado con las colas, pero coste bajo."
       },
       {
         "nome": "Sintra, casco antiguo",
@@ -361,7 +364,7 @@ export const destinazioniPortogallo: Destinazione[] = [
     ],
     attenzioni: [
       "Las entradas de la Pena y Regaleira son con horario: comprar online antes de ir, en temporada alta se agotan las de la mañana.",
-      "El autobús 434 está abarrotado entre las 10 y las 14: subir en la estación para tener sitio.",
+      "El autobús 434 va lleno en las horas centrales: subir en la estación, que es la cabecera, para tener sitio.",
       "Taxis y tuk-tuks piden tarifas altas: acordar el precio antes.",
       "Aparcar es casi imposible en el centro los fines de semana: mejor el tren.",
       "Las mochilas grandes no siempre caben en los palacios: dejar el equipaje en Lisboa.",

@@ -33,26 +33,26 @@ export const destinazioniBulgaria: Destinazione[] = [
     luoghi: [
       {
         nome: "Comprensorio sciistico di Bansko",
-        testo: "Il comprensorio è raggiunto da una lunga gondola che parte dal paese. Le piste sono ben tenute e con neve artificiale garantita su oltre il 90%, ma più tranquille di quelle alpine. Ci si va per l'esperienza esotica in un angolo d'Europa fuori dai circuiti più noti.",
-        come: "Stazione della gondola a pochi minuti a piedi dal centro; skipass giornaliero in biglietteria o online.",
-        quando: "Dicembre-metà aprile; alla mattina presto la gondola ha code.",
+        testo: "Dal 2003 il comprensorio si raggiunge con una lunga gondola che parte dal paese e sale alla base di Banderishka Polyana; gli impianti arrivano intorno ai 2.600 metri. Le piste sono più tranquille di quelle alpine. Ci si va per l'esperienza esotica in un angolo d'Europa fuori dai circuiti più noti.",
+        come: "Stazione della gondola a pochi minuti a piedi dal centro; skipass in biglietteria o online. Gondola 8:30-17, seggiovie 8:45-16:15.",
+        quando: "Inverno, date della stagione sul sito ufficiale; alla mattina presto la gondola ha code.",
         tempo: "giornata intera",
-        costo: "skipass giornaliero 35-40 euro, online fino al 25% in meno (dato del viaggio, da ricontrollare)",
+        costo: "prezzi degli skipass sul sito ufficiale",
         url: "https://banskoski.com",
-        consiglio: "Prenotare lo skipass online per evitare la fila e risparmiare."
+        consiglio: "Comprare lo skipass online per evitare la fila alla cassa."
       },
       {
         nome: "Discesa notturna illuminata",
-        testo: "Una pista illuminata di 7,5 km per sciare di sera, scendendo fino al paese. È una delle attrazioni più particolari di Bansko.",
+        testo: "La pista di rientro verso il paese, lunga circa 7-8 km, viene illuminata per sciare di sera, ma non tutti i giorni. È una delle attrazioni più particolari di Bansko.",
         come: "Gondola fino alla stazione intermedia e discesa; orari sul sito del comprensorio.",
         quando: "Sera, nei giorni di apertura notturna.",
         tempo: "1-2 ore",
         url: "https://banskoski.com",
-        consiglio: "Dopo la discesa, après-ski al Sopranos o all'Happy End Bar, alla base della gondola."
+        consiglio: "Dopo la discesa, après-ski nei locali alla base della gondola."
       },
       {
         nome: "Todorka Peak",
-        testo: "Il punto panoramico a 2.560 metri sopra il comprensorio, con vista sui monti Pirin. Si arriva con gli impianti di risalita.",
+        testo: "La stazione in quota di Todorka, intorno ai 2.550 metri, con vista sui monti Pirin. Si arriva con gli impianti di risalita.",
         come: "Gondola e seggiovie.",
         quando: "Giorno sereno, in inverno.",
         tempo: "1 ora",
@@ -60,7 +60,7 @@ export const destinazioniBulgaria: Destinazione[] = [
       },
       {
         nome: "Centro storico di Bansko",
-        testo: "Case di pietra e legno della «scuola di Bansko» (il revival bulgaro dell'Ottocento), la chiesa della Santa Trinità e le mehane tipiche con kapama, banitsa e shopska salata. È più vivace la sera.",
+        testo: "Case di pietra e legno della «scuola di Bansko» (il revival bulgaro dell'Ottocento), la chiesa della Santa Trinità, costruita dagli abitanti nel 1835, e le mehane tipiche con kapama, banitsa e shopska salata. È più vivace la sera.",
         come: "A piedi dalla stazione della gondola.",
         quando: "Sera.",
         tempo: "2 ore",
@@ -87,7 +87,7 @@ export const destinazioniBulgaria: Destinazione[] = [
     ],
     attenzioni: [
       "La Bulgaria usa l'euro dal 1° gennaio 2026: confrontare con i prezzi in lev dei vecchi dati.",
-      "Da Sofia sono circa 2-2h30 di strada (160 km): usare transfer prenotati, non taxi di strada.",
+      "Da Sofia sono circa 160 km di strada: usare transfer prenotati, non taxi di strada.",
       "Il comprensorio ha code in alta stagione: arrivare presto alla gondola.",
       "In auto d'inverno servono gomme invernali e catene a bordo."
     ],
@@ -124,8 +124,8 @@ export const destinazioniBulgaria: Destinazione[] = [
     luoghi: [
       {
         nome: "Complesso del Monastero di Rila",
-        testo: "Il più grande monastero bulgaro, patrimonio UNESCO, fondato nel X secolo da San Giovanni di Rila e ricostruito tra il 1834 e il 1862 dopo un incendio. Le alte mura di pietra, quasi da fortezza, chiudono un cortile a portici a strisce bianche e nere.",
-        come: "In auto o bus da Sofia (circa 2-2,5 ore) o come deviazione sulla strada tra Bansko e Sofia.",
+        testo: "Il più grande e famoso monastero ortodosso della Bulgaria, patrimonio UNESCO, fondato nel X secolo secondo la tradizione da San Giovanni di Rila e ricostruito tra il 1834 e il 1862 dopo un incendio. Le alte mura di pietra, quasi da fortezza, chiudono un cortile a portici a strisce bianche e nere.",
+        come: "In auto o bus da Sofia, 117 km a nord, o come deviazione sulla strada tra Bansko e Sofia.",
         quando: "Mattina presto, prima dei bus turistici.",
         tempo: "1,5-2 ore",
         costo: "ingresso libero",
@@ -133,7 +133,7 @@ export const destinazioniBulgaria: Destinazione[] = [
       },
       {
         nome: "Chiesa della Natività della Vergine",
-        testo: "La chiesa a cinque cupole con affreschi coloratissimi nel portico e all'interno, opera di pittori bulgari dell'Ottocento (tra cui Zahari Zograf). All'interno non si può fotografare.",
+        testo: "La chiesa a cinque cupole con affreschi coloratissimi nel portico e all'interno, opera di vari pittori dell'Ottocento, tra cui i fratelli Zahari e Dimitar Zograf. Per le foto all'interno seguire le indicazioni del monastero.",
         come: "Dentro il cortile del monastero.",
         quando: "Mattina.",
         tempo: "30-45 minuti",
@@ -146,7 +146,7 @@ export const destinazioniBulgaria: Destinazione[] = [
         come: "Nel complesso, ingresso a parte.",
         quando: "Giorno.",
         tempo: "45 minuti",
-        costo: "circa 4 € (dato del viaggio; dal 2026 si paga in euro, listino aggiornato sul posto)",
+        costo: "biglietto a parte, in euro dal 2026: prezzo esposto sul posto",
         consiglio: "Il biglietto è facile da perdere: tenerlo in tasca."
       }
     ],
@@ -158,7 +158,7 @@ export const destinazioniBulgaria: Destinazione[] = [
     ],
     attenzioni: [
       "Abbigliamento modesto: spalle e ginocchia coperte, niente cappello dentro la chiesa.",
-      "Non fotografare dentro la chiesa e non gridare.",
+      "Dentro la chiesa rispettare le regole sulle foto e parlare a bassa voce.",
       "Strada di montagna: in inverno servono gomme da neve."
     ],
     esperienzeSlugs: ['visita-monastero-rila'],

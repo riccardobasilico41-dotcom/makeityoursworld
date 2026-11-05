@@ -40,7 +40,7 @@ export const destinazioniMessico: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Isla Mujeres",
-          "testo": "An island 20 minutes by ferry, with beaches, snorkelling and a quiet village, convenient for a day trip.",
+          "testo": "An island a short ferry ride away, with beaches, snorkelling and a quiet village, easy for a day trip.",
           "come": "Ferry from Puerto Juárez or Playa Tortugas; on the island you get around by rented golf cart.",
           "quando": "Morning, to have time.",
           "tempo": "Full day",
@@ -157,7 +157,7 @@ export const destinazioniMessico: Destinazione[] = [
         {
           "nome": "Chichén Itzá",
           "testo": "One of the new wonders of the world, a UNESCO Maya site with El Castillo, the ball court and the sacred cenote.",
-          "come": "From Valladolid about 40 minutes by car or taxi, or a guided tour.",
+          "come": "From Valladolid by car or taxi, under an hour, or on a guided tour.",
           "quando": "Morning, at opening, before the coaches and the heat.",
           "tempo": "3-4 hours",
           "costo": "697 MXN for foreigners, with a single federal and state ticket at one desk since 27 March 2026; Sundays are free only for Mexicans and residents.",
@@ -167,7 +167,7 @@ export const destinazioniMessico: Destinazione[] = [
         {
           "nome": "Ek Balam",
           "testo": "A smaller, far less crowded Maya site, with a large acropolis and very well preserved stucco decorations, such as the 'monster mouth' at the tomb entrance. Whether you can climb to the top depends on the current rules: ask at the ticket office.",
-          "come": "From Valladolid about 30 minutes by taxi.",
+          "come": "From Valladolid by taxi or car.",
           "quando": "Morning.",
           "tempo": "2 hours",
           "costo": "About 690 MXN for foreigners, federal and state fee combined (2026).",
@@ -223,7 +223,7 @@ export const destinazioniMessico: Destinazione[] = [
       "sapori": [
         {
           "nome": "Cochinita pibil and poc chuc",
-          "testo": "Marinated pork and grilled pork with sour oranges, typical of Valladolid."
+          "testo": "Slow-cooked marinated pork, and grilled pork with sour orange: two Yucatecan classics, all over town."
         },
         {
           "nome": "Valladolid longaniza",
@@ -292,14 +292,14 @@ export const destinazioniMessico: Destinazione[] = [
         {
           "nome": "Municipal market",
           "testo": "The covered market with fruit, spices and crafts, where you buy Yucatecan goods.",
-          "come": "On foot from the centre, east of the square.",
+          "come": "On foot from the centre, a few blocks south of the square.",
           "quando": "Morning.",
           "tempo": "1-2 hours"
         },
         {
-          "nome": "Playa Progreso and pig beach",
-          "testo": "Progreso beach half an hour from Mérida, and Playa de los Cerditos, off the beaten track.",
-          "come": "Bus or car from Mérida, about 40 minutes.",
+          "nome": "Playa Progreso",
+          "testo": "The beach at Progreso, on the Gulf of Mexico, Mérida's port, with a very long pier running out to sea and beach clubs on the sand.",
+          "come": "Bus or car from Mérida, just over half an hour.",
           "quando": "Daytime.",
           "tempo": "Full day",
           "consiglio": "A mid-trip break without long transfers."
@@ -325,7 +325,7 @@ export const destinazioniMessico: Destinazione[] = [
           "titolo": "2 days",
           "tappe": [
             "Day 1: centre and market",
-            "Day 2: Playa Progreso and pig beach"
+            "Day 2: Playa Progreso"
           ]
         }
       ],
@@ -421,19 +421,20 @@ export const destinazioniMessico: Destinazione[] = [
         {
           "nome": "Fuerte de San Miguel",
           "testo": "A fort on the hill south-west of the centre, with a moat and cannons facing the Gulf. Inside is the archaeological museum with the jade masks from Calakmul; the sunset over the sea from its ramparts is one of the best in town.",
-          "come": "Taxi from the centre, about 10 minutes.",
-          "quando": "Late afternoon; like many INAH museums, check the Monday closure.",
+          "come": "Taxi from the centre.",
+          "quando": "Late afternoon; hours and closing days on the INAH website.",
           "tempo": "1-2 hours",
           "url": "https://www.inah.gob.mx/"
         },
         {
           "nome": "Edzná",
           "testo": "An inland Maya site with the Building of the Five Storeys, a terraced pyramid on a large plaza. It sees few visitors compared with the Yucatán sites, and you walk it almost alone, among iguanas and silence.",
-          "come": "Car, taxi or tour from Campeche, about an hour.",
-          "quando": "Early morning, before the heat.",
+          "come": "Car, taxi or tour from Campeche.",
+          "quando": "Open daily 8:00-17:00, last entry 16:30 (INAH listing). Early morning, before the heat.",
           "tempo": "Half a day",
           "url": "https://www.inah.gob.mx/",
-          "consiglio": "Bring water and a hat: there is little shade."
+          "consiglio": "Bring water and a hat: there is little shade.",
+          "costo": "210 MXN for foreigners (INAH 2026 rates); the site museum is included."
         }
       ],
       "programmi": [
@@ -538,7 +539,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Banco Chinchorro",
-          "testo": "A biosphere reserve off Mahahual, one of the largest coral atolls in the Caribbean, with pristine reefs and wrecks. It is the finest trip in the area but also the most weather-dependent: in strong wind trips are cancelled.",
+          "testo": "A biosphere reserve off Mahahual, a coral atoll of about 800 km² with at least nine wrecks, including two Spanish galleons. It is the best trip in the area, but also the most weather-dependent: with strong wind trips are cancelled.",
           "come": "Only with authorised operators from Mahahual or Xcalak, by fast boat.",
           "quando": "Morning, with a calm sea; best in the dry months.",
           "tempo": "Full day",
@@ -631,7 +632,7 @@ export const destinazioniMessico: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Bacalar Lagoon",
-          "testo": "The lagoon of seven colours, about 40 km long, with water in shades of blue and turquoise over a white bottom.",
+          "testo": "The lagoon of seven colours, tens of kilometres long and narrow, with shades of blue and turquoise over a white bottom. It has one of the world's largest freshwater stromatolite systems, formations thousands of years old.",
           "come": "From Mahahual on an organised tour or independently by van or car.",
           "quando": "Morning, with full light.",
           "tempo": "Half a day or more",
@@ -653,7 +654,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Fuerte San Felipe",
-          "testo": "An 18th-century fort against pirates, now a museum, on the lagoon shore.",
+          "testo": "The fort the Spanish built to defend Bacalar from English pirates and Maya rebels, on the lagoon shore. Today it can be visited.",
           "come": "On foot from the centre.",
           "quando": "Morning.",
           "tempo": "1 hour",
@@ -755,24 +756,24 @@ export const destinazioniMessico: Destinazione[] = [
         {
           "nome": "Tulum archaeological site",
           "testo": "A Maya city on the cliff above the Caribbean, one of the few Maya sites facing the sea. El Castillo and the Temple of the Wind God are the key points; the walls enclosing the city on three sides explain the name Tulum, 'wall' in Maya (its ancient name was Zamá, 'dawn').",
-          "come": "From Tulum town by taxi or bike; inside Parque del Jaguar a paid electric shuttle runs to the entrance. The small beach below the site is sometimes closed (sargassum or turtle nesting).",
+          "come": "From Tulum town by taxi or bike to Parque del Jaguar, the protected area where the site stands; ask locally how to reach the entrance. The little beach below the site is sometimes closed (sargassum or turtle nesting).",
           "quando": "Morning, before the heat and the coaches.",
           "tempo": "2 hours",
-          "costo": "265 MXN for foreigners, archaeological zone and protected area combined (2026); the internal electric shuttle is about 20 MXN.",
+          "costo": "265 MXN for foreigners (2026).",
           "url": "https://www.inah.gob.mx/",
           "consiglio": "A swim in the cove below the cliff after the visit, if access is open."
         },
         {
           "nome": "Cenote Dos Ojos",
           "testo": "Two connected cenotes in a cave with stalactites, in the Sac Actun system: different from the open-air cenotes of Yucatán.",
-          "come": "By car or taxi from Tulum, about 20 minutes north.",
+          "come": "By car or taxi from Tulum, heading north.",
           "quando": "Morning.",
           "tempo": "2 hours",
           "consiglio": "Around Tulum I'd skip the most touristy cenotes and suggest Dos Ojos. Next to it there's another beautiful one whose name I've forgotten."
         },
         {
           "nome": "Caleta Tankah",
-          "testo": "A cove with turquoise water and a cenote, paid entry (300 MXN per person, no cards, no refunds).",
+          "testo": "A cove with turquoise water and a cenote, with a paid entry: cash only and no refunds.",
           "come": "Taxi from Tulum.",
           "quando": "Daytime.",
           "tempo": "Half a day",
@@ -897,7 +898,7 @@ export const destinazioniMessico: Destinazione[] = [
         {
           "nome": "Cozumel by catamaran or private boat",
           "testo": "A day excursion to Cozumel with snorkelling on the Palancar, El Cielo and El Cielito reefs. We did not do it on this trip, but with more time I recommend it.",
-          "come": "Shared catamaran about 1,670 MXN per person with return ferry, lunch at Playa Mia, open bar; private boat about 700 MXN plus ferry about 580 MXN return.",
+          "come": "Shared catamaran with ferry, lunch and open bar, or a private boat with the ferry paid separately: compare prices from several operators.",
           "quando": "Morning.",
           "tempo": "Full day"
         },
@@ -1010,28 +1011,28 @@ export const destinazioniMessico: Destinazione[] = [
           "nome": "Whale shark",
           "testo": "A boat excursion to swim with the whale shark, allowed in small groups. There is a dedicated experience card. If I had to recommend a single activity of the whole itinerary, it would be this.",
           "come": "Tour from the Holbox port, with a guide.",
-          "quando": "June-September, the window when whale sharks are in Holbox waters.",
+          "quando": "The season runs roughly from mid-May to mid-September, best in July and August; trips run under CONANP permits.",
           "tempo": "Half a day"
         },
         {
           "nome": "Bioluminescence at Punta Mosquito",
-          "testo": "Luminescent plankton lights up the water at night. Independently with a «carrito» to the point; by kayak with a guide (500 MXN per person above 8 people, 400 below); or with a boat tour.",
+          "testo": "Luminescent plankton lights up the water at night. You can go on your own with a «carrito» to the spot, by kayak with a guide or on a boat tour.",
           "come": "Ask on site the same day: it depends on lunar phases and weather.",
-          "quando": "Evening; best seen from April to November.",
+          "quando": "Evening, best on moonless nights.",
           "tempo": "2 hours",
           "consiglio": "Going on foot is not advised: about an hour's walk each way, mostly in the dark."
         },
         {
           "nome": "3 Islas tour",
           "testo": "A shared boat trip of about 3 hours, with flamingos, dolphins and birds: Isla Pájaros, Yalahau cenote, Isla Pasión or Punta Mosquito.",
-          "come": "750-900 MXN per person depending on the operator; some include the hotel transfer (about 1,100 MXN). Yalahau cenote is paid separately, about 200 MXN.",
+          "come": "Prices vary by operator, some include hotel transfer. The Yalahau cenote is paid separately.",
           "quando": "Morning.",
           "tempo": "3 hours"
         },
         {
           "nome": "Cabo Catoche",
-          "testo": "An excursion to the northernmost point of Yucatán, where the Gulf of Mexico meets the Caribbean. Snorkelling on a shallow reef, fishing and fresh ceviche. We did not do it on the trip.",
-          "come": "Shared tour from morning to late afternoon, about 80-100 USD per person; compare several operators.",
+          "testo": "A trip to the north-eastern tip of the Yucatán peninsula, between the Gulf of Mexico and the Caribbean. Snorkelling on a shallow reef, fishing and fresh ceviche. We didn't do it on this trip.",
+          "come": "Shared tour from morning to late afternoon; compare several operators.",
           "quando": "Full day.",
           "tempo": "Full day"
         }

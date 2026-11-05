@@ -65,7 +65,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         {
           "nome": "Teotihuacán",
           "testo": "The city of the Temples of the Sun and Moon and the Calzada de los Muertos, about 50 km from the city, a UNESCO site.",
-          "come": "Bus from the Norte terminal (about 1 hour) or tour; INAH entry.",
+          "come": "Bus from Terminal Norte or tour; INAH entry.",
           "quando": "At the 8am opening (open daily until 5pm), before the heat and the groups.",
           "tempo": "Half a day",
           "costo": "210 MXN for foreigners (2026). According to August 2026 reports the Pyramid of the Moon is closed until further notice: ask at the ticket office.",
@@ -215,7 +215,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         {
           "nome": "Great Pyramid of Cholula",
           "testo": "The largest pyramid in the world by volume, almost hidden under a grassy hill, with the church of the Virgen de los Remedios on top. The inner tunnels reopened in March 2026 after six years, with group visits at fixed times.",
-          "come": "Bus or Uber from Puebla (about 20 minutes).",
+          "come": "Bus or Uber from Puebla, a short ride.",
           "quando": "Morning; sunset for the view of the volcanoes.",
           "tempo": "2-3 hours",
           "url": "https://www.inah.gob.mx/",
@@ -327,17 +327,17 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Templo de Santo Domingo and ethnobotanical garden",
-          "testo": "A baroque church with golden interiors, an ex-convent with a museum and the ethnobotanical garden, visitable only with a guide.",
+          "testo": "A Baroque church with gilded interiors, a former convent with a museum and the ethnobotanical garden, which can only be visited with a guide.",
           "come": "On foot from the centre.",
           "quando": "Morning.",
           "tempo": "2-3 hours",
           "url": "https://www.inah.gob.mx/",
-          "consiglio": "The ethnobotanical garden is visited on a guided tour at fixed times: book ahead."
+          "consiglio": "The ethnobotanical garden is open only on guided tours, and hours and booking have changed several times recently: ask in town before going."
         },
         {
           "nome": "Monte Albán",
           "testo": "The ancient Zapotec capital on a hill above the city, a UNESCO site, with the great plaza and the tombs.",
-          "come": "Shuttle or taxi from Oaxaca (about 20-30 minutes); INAH entry.",
+          "come": "Shuttles or taxi from Oaxaca; INAH entry.",
           "quando": "At opening.",
           "tempo": "2-3 hours",
           "costo": "210 MXN for foreigners (2026).",
@@ -392,7 +392,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         {
           "nome": "Jalatlaco district",
           "perChi": "cafés and atmosphere",
-          "testo": "A district of colourful houses, quieter, 10-15 minutes away."
+          "testo": "A neighbourhood of colourful houses, quieter, walking distance from the centre."
         }
       ],
       "sapori": [
@@ -464,8 +464,8 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Árbol del Tule",
-          "testo": "A Montezuma cypress about 2,000 years old with the widest trunk in the world, in the churchyard of Santa María del Tule.",
-          "come": "Bus or taxi from Oaxaca (about 15 minutes).",
+          "testo": "A Montezuma cypress with the stoutest trunk of any known tree, in the churchyard of Santa María del Tule. The most serious estimates put it at 1,400 to 1,600 years old.",
+          "come": "Bus or taxi from Oaxaca: about 9 km east, on the road to Mitla.",
           "quando": "Morning.",
           "tempo": "30 minutes"
         },
@@ -480,7 +480,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         {
           "nome": "Mitla",
           "testo": "A Zapotec-Mixtec site with geometric mosaics of fitted stone. INAH entry.",
-          "come": "Colectivo or tour from Oaxaca (about 1 hour).",
+          "come": "Colectivo or tour from Oaxaca.",
           "quando": "Morning.",
           "tempo": "1.5 hours",
           "url": "https://www.inah.gob.mx/"
@@ -488,7 +488,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         {
           "nome": "Hierve el Agua",
           "testo": "Petrified limestone waterfalls and natural pools with views of the valley. Run by the community; opening may change.",
-          "come": "Tour from Oaxaca or by car (about 1.5 hours).",
+          "come": "Tour from Oaxaca or car.",
           "quando": "Morning, with fewer people; check opening.",
           "tempo": "2-3 hours",
           "consiglio": "After rain or road blockades it can be closed: check first."
@@ -612,7 +612,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         {
           "nome": "Mazunte, Zipolite and Punta Cometa",
           "testo": "Villages of the nearby coast: Mazunte for the turtle centre, Zipolite for the free beach, Punta Cometa for sunset.",
-          "come": "Car or colectivo from Puerto Escondido (1-2 hours).",
+          "come": "Car or colectivo from Puerto Escondido, along the coast.",
           "quando": "Sunset at Punta Cometa.",
           "tempo": "Full day"
         }
@@ -709,7 +709,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         {
           "nome": "Janitzio Island",
           "testo": "An island on Lake Pátzcuaro with a statue of Morelos, famous for the Día de Muertos vigil in the cemetery on the night of 1 November.",
-          "come": "Boat from the Pátzcuaro pier (about 20-30 minutes).",
+          "come": "Boat from the Pátzcuaro dock.",
           "quando": "Night of 1 November for the vigil.",
           "tempo": "Half a day",
           "consiglio": "Respect the families: the vigil is not a show."
@@ -717,7 +717,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         {
           "nome": "Tzintzuntzan",
           "testo": "An ancient Purépecha capital, with the yácatas (round pyramids) and a decorated cemetery.",
-          "come": "Car or colectivo from Pátzcuaro (about 20 minutes).",
+          "come": "Car or colectivo from Pátzcuaro, along the lake.",
           "quando": "Morning.",
           "tempo": "2 hours",
           "costo": "210 MXN for foreigners (2026).",
@@ -818,31 +818,32 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       "luoghi": [
         {
           "nome": "La Paz Malecón",
-          "testo": "A seafront of about 5 km with sculptures, cafés and sunset over the Sea of Cortez.",
+          "testo": "The city's seafront, a few kilometres long, with sculptures, cafés and the sunset over the Sea of Cortez.",
           "come": "On foot from the centre.",
           "quando": "Sunset.",
           "tempo": "1-2 hours"
         },
         {
           "nome": "Playa Balandra",
-          "testo": "A shallow bay with turquoise water, known for the mushroom rock. Access is limited to protect the ecosystem.",
-          "come": "By car or taxi from La Paz (about 25 minutes); check the access rules and maximum number of visitors.",
+          "testo": "A shallow bay with turquoise water, known for its mushroom rock, inside a protected natural area. Access is capped to protect the ecosystem.",
+          "come": "By car or taxi from La Paz. Entry is in two shifts, 8-12 and 13-17, with a limited number of places per shift; some can be booked on CONANP's protected areas portal, the rest go to whoever arrives first.",
           "quando": "Early morning.",
           "tempo": "Half a day",
-          "consiglio": "Entry requires respecting the park rules; check in advance."
+          "consiglio": "Arrive early and bring water and food: nothing is sold on the beach, and you take your rubbish back.",
+          "costo": "120 MXN for nationals and foreigners (fee reported in 2025): check before going."
         },
         {
           "nome": "Espíritu Santo Island and Los Islotes",
-          "testo": "A UNESCO archipelago with sea lion colonies and seabeds for snorkelling. You swim with sea lions at Los Islotes.",
+          "testo": "An archipelago within the UNESCO site of the islands and protected areas of the Gulf of California, with sea lion colonies and seabeds for snorkelling. You swim with sea lions at Los Islotes.",
           "come": "Boat tour from La Paz with an authorised operator.",
           "quando": "Morning; year-round with varying times.",
           "tempo": "Full day"
         },
         {
           "nome": "Whale sharks in La Paz bay",
-          "testo": "A meeting with whale sharks, in season, with authorised operators.",
+          "testo": "Meeting whale sharks inside the bay's refuge, in season, only with authorised boats.",
           "come": "Boat tour from La Paz.",
-          "quando": "Roughly October to March.",
+          "quando": "Usually between autumn and spring, but the season opens only when CONANP counts enough sharks in the bay's refuge: in 2025 it was suspended several times. Check first.",
           "tempo": "Half a day",
           "consiglio": "Choose operators who respect distances and number limits."
         }
@@ -895,7 +896,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         }
       ],
       "attenzioni": [
-        "Balandra has limited access: check the rules and times.",
+        "Balandra has capped access in two shifts: check rules, hours and fee before going.",
         "For Los Islotes choose authorised operators: the sea lion rules are strict.",
         "Strong sun and wind: bring water and protection."
       ],
@@ -952,7 +953,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
           "come": "By car from La Paz or Ciudad Constitución.",
           "quando": "Daytime.",
           "tempo": "Half a day",
-          "consiglio": "The Grey Whale Festival is held in late January-February at López Mateos."
+          "consiglio": "In winter the villages come alive with the whale season: ask locally whether there are festivals or events on your dates."
         }
       ],
       "programmi": [
@@ -968,7 +969,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
           "titolo": "2 days",
           "tappe": [
             "Day 1: arrival, afternoon trip",
-            "Day 2: morning trip and Whale Festival (if in date)"
+            "Day 2: morning trip and fish lunch at the port"
           ]
         }
       ],
@@ -1047,7 +1048,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Mission of Nuestra Señora de Loreto",
-          "testo": "The first Jesuit mission in Baja California, founded in 1697, with a missions museum next to the church. The colonisation of the Californias started from here; the simple, massive stone church is still the centre of town life.",
+          "testo": "The first permanent mission in Baja California, founded by the Jesuit Juan María de Salvatierra in 1697, with the missions museum next to the church. From here the expansion across the peninsula began; the stone church, built between 1740 and 1744, is still the heart of town life.",
           "come": "On foot from the centre.",
           "quando": "Morning.",
           "tempo": "1 hour",
@@ -1055,15 +1056,15 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         },
         {
           "nome": "Bahía de Loreto National Park and Isla Coronado",
-          "testo": "A marine park with islands, snorkelling and blue whale sightings in season. Isla Coronado has a white beach and clear water; on the boat you may meet dolphins and sea lions.",
+          "testo": "A marine park created in 1996 and part of the Gulf of California UNESCO site, with islands, snorkelling and whales in season. Isla Coronado, one of the main islands, has a white beach, clear water and sea lions on the rocks; by boat you may cross paths with dolphins.",
           "come": "Boat from Loreto with an authorised operator.",
           "quando": "Morning; calm sea.",
           "tempo": "Full day"
         },
         {
           "nome": "San Javier Mission",
-          "testo": "A Jesuit mission from 1699 in the Sierra de la Giganta, reached by a mountain road through canyons and palm oases. Its 18th-century stone church is among the best preserved in Baja, with an old olive tree of the missionaries beside it.",
-          "come": "Car or tour from Loreto (about 1.5 hours).",
+          "testo": "A Jesuit mission founded in 1699 in the Sierra de la Giganta, reached by a mountain road through canyons and palm oases. The stone church, built between 1744 and 1758, is considered the jewel of the Baja missions and is looked after by INAH.",
+          "come": "Car or tour from Loreto, across the sierra.",
           "quando": "Morning.",
           "tempo": "Half a day",
           "consiglio": "A mountain road with tight bends: drive by day and take it slowly."
@@ -1150,7 +1151,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         {
           "nome": "Playa Cerritos",
           "testo": "A Pacific beach with waves suitable for beginner surfing, schools and board rental.",
-          "come": "By car or taxi from Todos Santos (about 15 minutes).",
+          "come": "Car or taxi from Todos Santos, heading south.",
           "quando": "Morning.",
           "tempo": "Half a day",
           "consiglio": "Outside Cerritos the Pacific beaches have strong currents: do not swim."
@@ -1208,9 +1209,9 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       ],
       "attenzioni": [
         "Swimming on open Pacific beaches outside Cerritos: strong currents.",
-        "Road from La Paz and Cabo San Lucas: about 1 hour.",
+        "Road from La Paz and from Cabo San Lucas: about an hour's drive.",
         "Galleries close at varying hours: check.",
-        "June to November is hurricane season: check the forecasts before setting off."
+        "From mid-May to November is the Pacific hurricane season: check the bulletins before setting off."
       ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
@@ -1253,15 +1254,15 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         },
         {
           "nome": "San José del Cabo",
-          "testo": "A colonial centre with art galleries and the Thursday evening Art Walk (November-June).",
-          "come": "By car or bus from Cabo San Lucas (about 30 minutes).",
+          "testo": "A colonial centre with art galleries and the free Thursday evening Art Walk, from November to June, in the gallery district.",
+          "come": "Car or bus from Cabo San Lucas.",
           "quando": "Thursday evening.",
           "tempo": "Half a day"
         },
         {
           "nome": "Cabo Pulmo National Park",
-          "testo": "The only hard coral reef in the Gulf of California, a UNESCO site, for snorkelling and diving.",
-          "come": "Car from Los Cabos (about 1.5-2 hours) and boat with a village operator.",
+          "testo": "The oldest of only three coral reefs on the west coast of North America, in a national park created in 1995 and part of the Gulf of California UNESCO site. Snorkelling and diving among huge schools of fish.",
+          "come": "Car from Los Cabos, then a boat with a local operator.",
           "quando": "Morning.",
           "tempo": "Full day"
         },
@@ -1325,7 +1326,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         "Time-share offers: refuse people who stop you in the street.",
         "The Pacific has strong currents: around Cabo San Lucas swim only at sheltered, flagged beaches such as Médano, Chileno and Santa María.",
         "At Cabo Pulmo you go in the water only with the village operators: park rules are strict to protect the reef.",
-        "June to November is hurricane season: check the forecasts."
+        "From mid-May to November is the Pacific hurricane season: check the bulletins."
       ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],

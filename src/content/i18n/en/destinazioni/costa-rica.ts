@@ -31,7 +31,7 @@ export const destinazioniCostaRica: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Mercado Central",
-          "testo": "The covered market in the centre, founded in 1880, with food stalls, coffee, crafts and the sodas serving the casado of the day.",
+          "testo": "The historic covered market in the centre, with food stalls, coffee, crafts and the sodas serving the casado of the day.",
           "come": "On foot from the centre. Enter from the side streets of Avenida Central.",
           "quando": "Morning and lunchtime, when the sodas are busiest.",
           "tempo": "1-1.5 hours",
@@ -40,7 +40,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         {
           "nome": "Barrio Amón",
           "testo": "A neighbourhood of early-20th-century wooden and brick houses, former homes of the coffee barons, now with galleries, cafés and boutique hotels.",
-          "come": "On foot, north of the centre, 10-15 minutes.",
+          "come": "On foot, north of the centre.",
           "quando": "Morning, in good light.",
           "tempo": "1-2 hours",
           "consiglio": "Better not to walk around with a phone in hand, and in the evening taxis are preferable."
@@ -55,7 +55,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Teatro Nacional",
-          "testo": "The neoclassical opera house of 1897, rich in frescoes, right in the centre. Worth visiting even just for the café inside.",
+          "testo": "The neoclassical theatre opened in 1897 with Faust, paid for by a tax on coffee. Inside is the famous painting of the allegory of coffee and bananas, which ended up on the five-colón note.",
           "come": "On foot from the centre, on Plaza de la Cultura.",
           "quando": "Morning.",
           "tempo": "1 hour",
@@ -152,8 +152,8 @@ export const destinazioniCostaRica: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Cahuita National Park",
-          "testo": "A coastal trail of about 8 km between beach, forest and the sea with its coral reef. You can see sloths, monkeys, raccoons and birds.",
-          "come": "Entrance from Cahuita or the Puerto Vargas side. The trail runs along the beach, partly with river crossings.",
+          "testo": "A coastal trail between beach, forest and sea, with a coral reef offshore. You see sloths, howler and capuchin monkeys, raccoons and birds. It is the only national park in Costa Rica where, at the Cahuita entrance, you leave a donation instead of buying a ticket.",
+          "come": "Main entrance in Cahuita, or from the Puerto Vargas side. The trail follows the beach, with some river crossings.",
           "quando": "Early morning, when animals are active.",
           "tempo": "3-4 hours",
           "consiglio": "With a local guide you see many more animals. There is a dedicated experience card for a full tour with the guide José."
@@ -161,7 +161,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         {
           "nome": "Punta Uva and Playa Chiquita",
           "testo": "Pale-sand beaches south of Puerto Viejo, with palms and forest behind. From here you hear howler monkeys in the trees.",
-          "come": "By bike along the coast from Puerto Viejo, about 20-30 minutes; rentals in town.",
+          "come": "By bike along the coast from Puerto Viejo; rentals in town.",
           "quando": "Morning or late afternoon.",
           "tempo": "Half a day",
           "consiglio": "Cycling along the coast is the simplest and truest way to know the Costa Rican Caribbean."
@@ -177,10 +177,10 @@ export const destinazioniCostaRica: Destinazione[] = [
         {
           "nome": "Pacuaré River (rafting)",
           "testo": "A descent of the Pacuaré river, through gorges and forest, an optional excursion much in demand in the area.",
-          "come": "Organised tour from Puerto Viejo, to book a week ahead.",
+          "come": "Organised tour from Puerto Viejo, booked a few days ahead.",
           "quando": "Check the best season with the operator.",
           "tempo": "Full day",
-          "consiglio": "Book a week in advance."
+          "consiglio": "The river is far from the coast: it is a long day with many hours on the road."
         }
       ],
       "programmi": [
@@ -285,7 +285,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Cerro Tortuguero",
-          "testo": "A hill of about 120 metres with a view of canals, sea and forest.",
+          "testo": "The highest hill in the area, with views over canals, sea and forest.",
           "come": "A short boat crossing from the village to the trailhead; ask your lodge about current access rules and fee.",
           "quando": "Morning.",
           "tempo": "1-1.5 hours",
@@ -391,9 +391,9 @@ export const destinazioniCostaRica: Destinazione[] = [
           "tempo": "Half a day"
         },
         {
-          "nome": "Cataratas Bajas del Toro",
+          "nome": "Catarata del Toro (Bajos del Toro)",
           "testo": "A waterfall with a trail and viewpoint, set in the forest. Optional excursion.",
-          "come": "By car or with a tour from the lodge, about 1 hour.",
+          "come": "By car or on a tour from the lodge.",
           "quando": "Morning.",
           "tempo": "Half a day"
         },
@@ -473,14 +473,14 @@ export const destinazioniCostaRica: Destinazione[] = [
     tipologia: ['natura', 'vulcani'],
     giorniConsigliati: "1 day",
     visitataPersonalmente: true,
-    introduzione: "The Arenal volcano, the La Fortuna Waterfall and the free hot springs of El Choyin, far more authentic than the paid \"postcard\" spas.",
-    percheAndarci: "For the free hot springs of El Choyin, one of the best and least \"postcard\" moments of the whole trip.",
-    cosaVedere: ["The Arenal volcano", "The La Fortuna Waterfall", "The El Choyin hot springs"],
+    introduzione: "The Arenal volcano, the La Fortuna Waterfall and the free hot springs of El Chollín, far more authentic than the paid \"postcard\" spas.",
+    percheAndarci: "For the free hot springs of El Chollín, one of the best and least \"postcard\" moments of the whole trip.",
+    cosaVedere: ["The Arenal volcano", "The La Fortuna Waterfall", "The El Chollín hot springs"],
     cosaFare: [
       "Swim at the La Fortuna Waterfall (there's a dedicated experience page)",
       "Volcano trek at Mirador El Silencio (optional)",
       "Mistico Hanging Bridges (optional)",
-      "Free hot springs of El Choyin",
+      "Free hot springs of El Chollín",
       "Canyoning in the Lost Canyon (optional, very adrenaline-filled)",
     ],
     doveDormire:
@@ -491,14 +491,14 @@ export const destinazioniCostaRica: Destinazione[] = [
     comeSpostarsi: "Minivan at our disposal for the whole day.",
     periodoMigliore: "late afternoon for the hot springs",
     costi: "La Fortuna Waterfall $18-20; combo tour $90-120 per person; Lost Canyon canyoning $115-119.",
-    erroriDaEvitare: ["There are no changing rooms at the El Choyin springs: river shoes, a swimsuit and a headlamp are enough, no towels"],
+    erroriDaEvitare: ["There are no changing rooms at the El Chollín springs: river shoes, a swimsuit and a headlamp are enough, no towels"],
     miaEsperienza:
       "The free hot springs of El Choyin, on a stretch of natural river, felt far more authentic to us than the paid spas in the area. It was one of the truest moments of the whole trip.",
       "luoghi": [
         {
           "nome": "La Fortuna waterfall",
-          "testo": "A waterfall of about 70 metres in a forested gorge, with a long staircase and a pool for swimming. There is a dedicated experience card.",
-          "come": "From La Fortuna town 10 minutes by car or taxi, then steep stairs to the base.",
+          "testo": "A waterfall of over 70 metres in a forest gorge, with about 530 steps down and back up and a pool for a swim. There is a dedicated experience card.",
+          "come": "A few minutes by car or taxi from La Fortuna town, then steep stairs to the base.",
           "quando": "Open daily 7am-5pm; mornings are less crowded.",
           "tempo": "2 hours",
           "costo": "20 USD for foreigners (2025); you pay even if you only go to the viewpoint.",
@@ -506,12 +506,12 @@ export const destinazioniCostaRica: Destinazione[] = [
           "consiglio": "The way back is all uphill: shoes with grip and water."
         },
         {
-          "nome": "Free hot springs of El Choyin",
-          "testo": "A natural hot river stretch, free entry, with thermal pools. More authentic than the paid hot springs in the area.",
-          "come": "By car or taxi from La Fortuna, then a short walk.",
-          "quando": "Morning or evening.",
+          "nome": "The free thermal river at El Chollín",
+          "testo": "A stretch of the Tabacón river with naturally hot water and public access, a few steps from the thermal resorts. Not to be confused with El Choyín, a paid complex on the same river.",
+          "come": "By car or taxi from La Fortuna; you park on the road, often with an attendant, and walk a short way down to the river.",
+          "quando": "Early morning: at weekends and on holidays it is packed.",
           "tempo": "1-2 hours",
-          "consiglio": "Bring water shoes and a towel: there are no facilities."
+          "consiglio": "No showers, lockers or facilities: water shoes, a towel and no valuables left in the car."
         },
         {
           "nome": "Mirador El Silencio",
@@ -534,7 +534,7 @@ export const destinazioniCostaRica: Destinazione[] = [
           "tappe": [
             "Morning: La Fortuna waterfall",
             "Lunch in La Fortuna",
-            "Afternoon: free hot springs of El Choyin"
+            "Afternoon: free thermal river at El Chollín"
           ]
         },
         {
@@ -617,7 +617,7 @@ export const destinazioniCostaRica: Destinazione[] = [
           "nome": "Monteverde cloud forest",
           "testo": "A high-altitude rainforest wrapped in clouds, with thousands of species of plants, birds and insects. You walk on trails and bridges.",
           "come": "By taxi or shuttle from the small town of Santa Elena, on a slow mountain road. Since 2026 entry is timed and booked online. Better with a guide to spot the animals.",
-          "quando": "Daytime entries roughly 7:30am to 4pm; early morning for birds. The mist is part of the landscape.",
+          "quando": "Forest trails from 7:30 to 16:00 (official site hours); early morning for birds. The fog is part of the landscape.",
           "tempo": "3-4 hours",
           "url": "https://cloudforestmonteverde.com/"
         },
@@ -625,7 +625,7 @@ export const destinazioniCostaRica: Destinazione[] = [
           "nome": "Night walk in the forest",
           "testo": "An evening excursion with guide and torch to see frogs, insects, tarantulas and other nocturnal animals. There is a dedicated experience card.",
           "come": "Departure after sunset with a guide.",
-          "quando": "Evening, after 6 pm.",
+          "quando": "Evening: at the reserve the night walk starts at 18:00.",
           "tempo": "1.5 hours",
           "consiglio": "To some people the duration can feel long. Bring a jacket and closed shoes."
         },
@@ -667,7 +667,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         {
           "nome": "Santa Elena",
           "perChi": "services and budget",
-          "testo": "Restaurants, agencies and hotels, 20-30 minutes from the reserve."
+          "testo": "Restaurants, agencies and hotels; you need a taxi or shuttle to the reserve."
         },
         {
           "nome": "Near the reserve",
@@ -741,9 +741,9 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Whale watching",
-          "testo": "A boat trip to spot humpback whales during migration periods. There is a dedicated experience card.",
+          "testo": "A boat trip in Marino Ballena National Park, created in 1989, to spot the humpback whales that come here to breed. There is a dedicated experience card.",
           "come": "Tour from Uvita on a small boat.",
-          "quando": "July-October and December-March.",
+          "quando": "Two seasons: from December to April the northern-hemisphere humpbacks arrive, from July to November the southern ones.",
           "tempo": "3 hours",
           "consiglio": "Sightings are not guaranteed, but the scenery is worth it anyway."
         },
@@ -846,7 +846,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         {
           "nome": "Manuel Antonio National Park",
           "testo": "A small but life-rich park: sloths, capuchin monkeys, iguanas and hummingbirds along the trails, with beaches inside the park. There is a dedicated experience card.",
-          "come": "You arrive from Quepos by bus or car, about 10 minutes. With a guide you see many more animals.",
+          "come": "From Quepos by bus or car, in a few minutes. With a guide you see many more animals.",
           "quando": "Early morning, when the animals are active. Open Wednesday to Monday, 7am-4pm; closed on Tuesdays.",
           "tempo": "3-4 hours",
           "costo": "About 18 USD for foreign adults (16 USD plus VAT, 2025-2026), online only and with limited places.",

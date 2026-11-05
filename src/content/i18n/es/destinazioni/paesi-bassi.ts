@@ -49,25 +49,25 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       {
         nome: "Rijksmuseum",
         testo: "El museo nacional neerlandés, con la Ronda de noche de Rembrandt, los Vermeer y los barcos en miniatura. El edificio tiene un jardín gratuito con esculturas y una plaza para las fotos.",
-        come: "Tranvía 2 o 12 hasta el Rijksmuseum, 10 minutos del centro. Entrada online con hora.",
+        come: "En el Museumplein, a 10 minutos a pie de los canales. La hora de entrada hay que reservarla, también con la Museumkaart; en taquilla solo se vende si queda sitio.",
         quando: "Todos los días de 9 a 17, festivos incluidos; temprano o a última hora para evitar la multitud ante La ronda de noche.",
         tempo: "3 horas",
-        costo: "25 € adultos (2026), gratis para menores de 18",
+        costo: "25 € adultos (2026; 26,50 € desde 2027), gratis hasta los 18 años",
         url: "https://www.rijksmuseum.nl",
         consiglio: "Empezar por la planta de la Edad de Oro: en una hora se ven las salas más importantes."
       },
       {
         nome: "Museo Van Gogh",
-        testo: "La mayor colección de Van Gogh: pinturas, dibujos y cartas en orden cronológico, desde Los comedores de patatas hasta los Girasoles. Se entiende la evolución del artista.",
-        come: "Tranvía 2 o 5 hasta Van Baerlestraat; entradas con hora.",
+        testo: "La mayor colección de Van Gogh del mundo: unas 200 pinturas, 400 dibujos y 700 cartas, desde Los comedores de patatas (1885) hasta los Girasoles (1889). Se sigue la evolución del artista.",
+        come: "Tranvía hasta la parada Van Baerlestraat/Museumplein. Entradas en la web oficial.",
         quando: "Temprano por la mañana, con la entrada ya comprada.",
         tempo: "2 horas",
         url: "https://www.vangoghmuseum.nl",
-        consiglio: "Reservar con antelación, sobre todo los fines de semana: los turnos se agotan."
+        consiglio: "Comprar la entrada con antelación, sobre todo los fines de semana."
       },
       {
         nome: "Casa de Ana Frank",
-        testo: "El anexo secreto donde Ana Frank y su familia se escondieron de 1942 a 1944, sobre la empresa de su padre. El recorrido es estrecho y silencioso; no se permite fotografiar.",
+        testo: "El anexo secreto donde Ana Frank y su familia se escondieron más de dos años, de 1942 a 1944, en la parte trasera del edificio de la empresa de su padre, Prinsengracht 263. El recorrido es estrecho y silencioso.",
         come: "Las entradas se venden solo en línea en la web oficial: cada martes a las 10 salen las de las visitas seis semanas después. En la puerta no se venden.",
         quando: "Reservar en cuanto se decidan las fechas; en Prinsengracht, a 15 minutos del centro.",
         tempo: "1-1,5 horas",
@@ -85,16 +85,16 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       },
       {
         nome: "Jordaan y Begijnhof",
-        testo: "El Jordaan es un barrio de calles estrechas, cafés y tiendas de artesanía. El Begijnhof es un patio escondido con casas medievales y un jardín abierto al público.",
+        testo: "El Jordaan es un barrio de calles estrechas, cafés y tiendas de artesanía. El Begijnhof es el único patio de Ámsterdam fundado en la Edad Media: fachadas de los siglos XVII y XVIII, y la Casa de madera de hacia 1420, la más antigua de la ciudad.",
         come: "A pie desde el centro (10-15 minutos).",
         quando: "Mañana, con luz suave y menos gente.",
         tempo: "2 horas",
         costo: "Begijnhof: entrada libre",
-        consiglio: "El Begijnhof es un lugar habitado: hablar bajo y no fotografiar las puertas."
+        consiglio: "El Begijnhof está habitado: hablar bajo y respetar la intimidad de los vecinos."
       },
       {
         nome: "Vondelpark",
-        testo: "El parque más grande de la ciudad, con estanques, praderas y quioscos; en verano hay conciertos al aire libre. Un buen sitio para una pausa tras los museos.",
+        testo: "El parque más conocido de la ciudad, 47 hectáreas de estanques, praderas y quioscos; de junio a agosto el teatro al aire libre (Openluchttheater) ofrece espectáculos gratuitos. Un buen sitio para una pausa tras los museos.",
         come: "Junto al museo Van Gogh, a pocos minutos a pie.",
         quando: "Tarde de verano.",
         tempo: "1-2 horas",
@@ -103,8 +103,8 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       },
       {
         nome: "Mercado Albert Cuyp",
-        testo: "El mayor mercado callejero al aire libre de la ciudad: fruta, quesos, stroopwafels calientes y recuerdos. Ideal para tentempiés baratos.",
-        come: "Tranvía 3 o 24 hasta Albert Cuypstraat, en De Pijp.",
+        testo: "El mercado más concurrido de los Países Bajos, abierto seis días a la semana desde 1912: fruta, verdura, pescado, ropa y stroopwafels hechos al momento. Ideal para tentempiés baratos.",
+        come: "En el barrio De Pijp, en tranvía o metro.",
         quando: "De lunes a sábado, por la mañana.",
         tempo: "1 hora",
         consiglio: "Probar stroopwafels calientes y arenque con cebolla."
@@ -178,10 +178,10 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Bicicletas: son el mayor peligro para los peatones; no caminar por los carriles bici rojos.",
-      "Carteristas en Centraal Station, en Dam y en los tranvías llenos.",
-      "Entradas falsas o revendedores no oficiales para Ana Frank y museos: comprar solo en el sitio oficial.",
-      "En De Wallen está prohibido fotografiar a las trabajadoras; en algunas zonas está prohibido fumar cannabis en la calle.",
+      "Bicicletas: son el mayor peligro para los peatones, van rápido y a menudo no paran en los semáforos; no caminar por los carriles bici rojos.",
+      "Carteristas en el centro y alrededor de Centraal Station, también en bandas en trenes y tranvías desde y hacia Schiphol.",
+      "Revendedores no oficiales para Ana Frank y museos: comprar solo en el sitio oficial. Desconfiar también de los falsos policías que piden efectivo o tarjetas.",
+      "En De Wallen no fotografiar a las trabajadoras. Fumar cannabis en lugares públicos es ilegal: solo se tolera en los coffeeshops.",
       "Los taxis no siempre son baratos: mejor tranvía o a pie."
     ],
     esperienzeSlugs: ['amsterdam-in-bicicletta', 'crociera-sui-canali-amsterdam', 'casa-di-anna-frank'],

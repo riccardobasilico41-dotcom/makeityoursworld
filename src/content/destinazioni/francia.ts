@@ -252,31 +252,31 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Antibes e Cap d'Antibes",
         testo: "Città vecchia dentro i bastioni, con il Marché Provençal al mattino e il Musée Picasso nel Château Grimaldi. Sul Cap parte un sentiero costiero gratuito che gira la punta, vicino al mare.",
-        come: "Antibes ha la stazione dei treni; il sentiero parte dalla spiaggia della Garoupe, a 3 km dal centro.",
+        come: "Antibes ha la stazione dei treni; il sentiero parte dalla spiaggia della Garoupe, sul Cap.",
         quando: "Mercato di mattina, sentiero con la luce del pomeriggio.",
         tempo: "mezza giornata per ciascuno",
         consiglio: "Il sentiero è gratuito e quasi deserto fuori stagione: scarpe chiuse, in alcuni punti è roccioso."
       },
       {
         nome: "Èze e Sentier Nietzsche",
-        testo: "Un borgo medievale arroccato a 427 metri, con un giardino esotico sulla cima. Dal mare sale il sentiero Nietzsche, ripido, in circa 1 ora e mezza.",
-        come: "Bus 82 da Nizza o treno fino a Èze-sur-Mer e poi sentiero.",
+        testo: "Un borgo medievale arroccato a 427 metri, con un giardino botanico di cactus e piante grasse sulla cima. Dal mare sale il sentiero Nietzsche, ripido.",
+        come: "Bus da Nizza fino a Èze-Village, oppure treno fino a Èze-sur-Mer e poi il sentiero.",
         quando: "Mattina presto in estate.",
         tempo: "2-3 ore",
         consiglio: "Il sentiero si fa in salita al mattino: scendere con il bus."
       },
       {
         nome: "Villefranche e Cap Ferrat",
-        testo: "La rada profonda di Villefranche, con la cappella di Saint-Pierre decorata da Cocteau, e a Saint-Jean-Cap-Ferrat la Villa Ephrussi de Rothschild, con giardini e vista su due baie.",
-        come: "Bus 15 da Nizza o treno fino a Villefranche.",
+        testo: "La rada profonda di Villefranche, con la cappella di Saint-Pierre decorata da Cocteau, e a Saint-Jean-Cap-Ferrat la Villa Ephrussi de Rothschild, con nove giardini a tema affacciati sulla rada.",
+        come: "Bus da Nizza o treno fino a Villefranche-sur-Mer.",
         quando: "Mattina.",
         tempo: "mezza giornata",
-        consiglio: "Il sentiero costiero di Cap Ferrat è pianeggiante e dura circa 2 ore."
+        consiglio: "Il sentiero costiero che gira intorno a Cap Ferrat è il modo migliore per vedere la punta: scarpe comode."
       },
       {
         nome: "Isole di Lerino",
         testo: "Di fronte a Cannes: Sainte-Marguerite con il Fort Royal e la cella della «Maschera di ferro», e Saint-Honorat, dove vivono i monaci cistercensi.",
-        come: "Traghetti dal porto di Cannes, circa 15 minuti.",
+        come: "Traghetti dal porto di Cannes: circa 15 minuti per Sainte-Marguerite; per Saint-Honorat ci sono le barche dei monaci.",
         quando: "Primavera e autunno; in estate le barche sono piene.",
         tempo: "mezza giornata",
         consiglio: "Portare cibo: ci sono pochi punti ristoro."
@@ -322,7 +322,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Menton",
         perChi: "chi cerca prezzi più bassi e calma",
-        testo: "Verso il confine con l'Italia, più tranquilla e meno cara. Il treno per Nizza impiega circa 30 minuti."
+        testo: "Verso il confine con l'Italia, più tranquilla e meno cara, con il treno della costa per Nizza."
       }
     ],
     sapori: [
@@ -551,7 +551,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Louvre",
         testo: "Il museo più grande del mondo, in un palazzo reale. Il percorso essenziale tocca la Vittoria di Samotracia, la Venere di Milo e la Gioconda. Impossibile vederlo tutto: meglio scegliere due o tre ali.",
-        come: "Metro Palais Royal-Musée du Louvre. Conviene prenotare online l'orario d'ingresso, anche per chi entra gratis; si entra dalla Pyramide, dal Passage Richelieu o dal Carrousel.",
+        come: "Metro Palais Royal-Musée du Louvre. Conviene prenotare online l'orario d'ingresso, anche per chi entra gratis; si entra dalla Pyramide o dalla galleria del Carrousel.",
         quando: "Chiuso il martedì, il 1° gennaio, il 1° maggio e il 25 dicembre. Il mercoledì e il venerdì resta aperto fino alle 21. Arrivare all'apertura (9) o nel tardo pomeriggio.",
         tempo: "3-4 ore",
         costo: "32 € per chi viene da fuori dello Spazio economico europeo, 22 € per i cittadini e residenti UE/SEE (2026). Gratis sotto i 18 anni.",
@@ -560,17 +560,17 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Musée d'Orsay",
-        testo: "Una vecchia stazione ferroviaria del 1900 trasformata in museo, con la più grande raccolta di impressionisti al mondo. Le sale di Monet, Renoir, Degas e Van Gogh sono all'ultimo piano.",
-        come: "Metro Solférino o RER C Musée d'Orsay. Biglietto con orario prenotato.",
+        testo: "Una vecchia stazione ferroviaria finita per l'Esposizione universale del 1900 e trasformata in museo, con la più grande raccolta al mondo di capolavori impressionisti e postimpressionisti: Monet, Renoir, Degas, Van Gogh.",
+        come: "Metro Solférino o RER C Musée d'Orsay. Prenotare l'orario è consigliato in alta stagione e obbligatorio la prima domenica del mese.",
         quando: "Chiuso il lunedì. Aperto dalle 9.30 alle 18, il giovedì fino alle 21.45: la sera è il momento più tranquillo.",
         tempo: "2-3 ore",
-        costo: "16 € online, 14 € in biglietteria; il giovedì sera tariffa ridotta (2026). Gratis la prima domenica del mese.",
+        costo: "16 € online, 14 € in biglietteria; il giovedì sera tariffa ridotta (2026). Gratis la prima domenica del mese, solo prenotando un orario.",
         url: "https://www.musee-orsay.fr/",
         consiglio: "Dall'orologio gigante dell'ultimo piano si vede il Sacré-Cœur."
       },
       {
         nome: "Sainte-Chapelle",
-        testo: "Una cappella gotica del Duecento con quindici vetrate alte quindici metri, costruita per custodire le reliquie della Passione. Con il sole di mattina il colore è unico.",
+        testo: "Una cappella gotica del Duecento con quindici grandi vetrate alte fino a oltre 15 metri, costruita per custodire le reliquie della Passione di Luigi IX. Con il sole di mattina il colore è unico.",
         come: "Sull'Île de la Cité, dentro il Palais de Justice; si passa un controllo di sicurezza.",
         quando: "Mattina, con il sole che attraversa le vetrate.",
         tempo: "45 minuti",
@@ -601,7 +601,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Reggia di Versailles",
         testo: "La residenza dei re di Francia fino al 1789, con la Galleria degli Specchi, gli appartamenti reali e i giardini. Il parco è immenso.",
-        come: "RER C da Parigi a Versailles-Château, circa 40 minuti. L'ingresso alla reggia è a orario e va prenotato online.",
+        come: "RER C da Parigi fino a Versailles-Château Rive Gauche. L'ingresso alla reggia è a orario e va prenotato online.",
         quando: "Chiusa il lunedì, il 25 dicembre, il 1° gennaio e il 1° maggio. La reggia apre alle 9; Trianon da mezzogiorno. Nei giorni dei giardini musicali (in stagione) il parco è a pagamento.",
         tempo: "giornata intera",
         costo: "Passaporto (reggia, Trianon e giardini) 35 € da aprile a ottobre e 25 € in bassa stagione per chi viene da fuori dello Spazio economico europeo; 32 € e 22 € per UE/SEE (2026).",
@@ -658,7 +658,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Canal Saint-Martin",
         perChi: "chi cerca locali e meno turisti",
-        testo: "Quartiere giovane con bar e botteghe, a 20 minuti dal centro."
+        testo: "Quartiere giovane con bar e botteghe, a nord-est del centro, ben servito dalla metro."
       }
     ],
     sapori: [
@@ -822,15 +822,15 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Spiagge dello sbarco e cimitero americano",
         testo: "Utah, Omaha, Gold, Juno e Sword furono le cinque spiagge dello sbarco del 6 giugno 1944. Sopra Omaha, a Colleville-sur-Mer, c'è il cimitero americano, con quasi 9.400 tombe.",
-        come: "In auto da Bayeux, circa 30 minuti. Il cimitero è gratuito e si visita da soli. Il centro visitatori è accanto.",
+        come: "In auto da Bayeux. Il cimitero è gratuito e si visita da soli. Il centro visitatori è accanto.",
         quando: "Mattina, con meno gruppi.",
         tempo: "3-4 ore",
-        consiglio: "Il cimitero ha controlli di sicurezza: niente zaini grandi."
+        consiglio: "Nei giorni di punta il cimitero ha dovuto respingere visitatori per l'affollamento: nel 2026 è previsto un sistema di prenotazione, da controllare sul sito dell'ABMC."
       },
       {
         nome: "Pointe du Hoc",
         testo: "Una scogliera dove i Ranger americani scalarono le pareti il 6 giugno 1944. Il terreno è ancora segnato da crateri e dai bunker tedeschi.",
-        come: "In auto, a circa 15 minuti da Omaha. Si cammina sul prato tra i crateri.",
+        come: "In auto, poco a ovest di Omaha. Si cammina sul prato tra i crateri.",
         quando: "Mattina.",
         tempo: "1 ora",
         consiglio: "Rispettare le transenne: le scogliere franano."
@@ -855,8 +855,8 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Mont-Saint-Michel",
-        testo: "Un'isola con abbazia benedettina in cima, circondata da maree che arrivano a 14 metri. Il villaggio sotto è una sola via di negozi. Patrimonio UNESCO.",
-        come: "Parcheggio sulla terraferma e navetta gratuita fino al ponte-passerella.",
+        testo: "Un'isola con abbazia benedettina in cima, circondata da maree con un'escursione di circa 14 metri. Il villaggio sotto è una sola via di negozi. Patrimonio UNESCO dal 1979.",
+        come: "Parcheggio sulla terraferma, a circa 2,5 km, poi a piedi o con la navetta fino al ponte-passerella.",
         quando: "Alba o tramonto. Marea alta nei giorni di luna nuova e piena: controllare le tabelle.",
         tempo: "mezza giornata",
         costo: "Abbazia 13 € (2026); gratis sotto i 18 anni e per i giovani UE sotto i 26. Il villaggio è libero.",
@@ -866,7 +866,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Étretat e Honfleur",
         testo: "Étretat: falesie di gesso con tre archi e un ago di roccia, con sentieri in cima. Honfleur: un porto vecchio con case alte e strette, la chiesa di Sainte-Catherine tutta in legno.",
-        come: "In auto o con bus; Étretat è a 1 ora da Honfleur.",
+        come: "In auto o in bus; conviene dedicare a ciascuno mezza giornata.",
         quando: "Étretat al tramonto; Honfleur di mattina.",
         tempo: "mezza giornata ciascuno",
         consiglio: "Il sentiero in cima alle falesie di Étretat ha vento forte: tenere la distanza dal bordo."
@@ -902,7 +902,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Bayeux",
         perChi: "chi visita le spiagge",
-        testo: "Cittadina intatta, a 30 minuti dalle spiagge, con alberghi e ristoranti."
+        testo: "Cittadina intatta, vicina alle spiagge, con alberghi e ristoranti."
       },
       {
         nome: "Caen",
@@ -1044,8 +1044,8 @@ export const destinazioniFrancia: Destinazione[] = [
     luoghi: [
       {
         nome: "Allineamenti di Carnac",
-        testo: "Migliaia di menhir in file parallele lunghe chilometri, eretti nel Neolitico, più antichi di Stonehenge. Le tre zone principali sono Ménec, Kermario e Kerlescan.",
-        come: "In auto da Auray, circa 20 minuti. Da ottobre ad aprile si cammina libera tra le pietre; in estate l'accesso è controllato.",
+        testo: "Più di 3.000 menhir in file parallele, eretti nel Neolitico: è la più grande raccolta di pietre di questo tipo al mondo. Le tre zone principali sono Ménec, Kermario e Kerlescan.",
+        come: "In auto da Auray. Dal 1991 le file principali sono recintate per proteggere la vegetazione: l'accesso tra le pietre cambia con la stagione.",
         quando: "Mattina presto o tardo pomeriggio.",
         tempo: "2 ore",
         consiglio: "La Maison des Mégalithes spiega le pietre e le regole di accesso."
@@ -1053,7 +1053,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Saint-Malo",
         testo: "La città corsara dentro le mura, distrutta nel 1944 e ricostruita pietra su pietra. Il camminamento sui bastioni dà la vista sul mare e sulle isolette; con la bassa marea si raggiunge a piedi il Grand Bé.",
-        come: "Treno diretto da Parigi, circa 2 ore e mezza. Si visita a piedi.",
+        come: "Treno diretto da Parigi. Si visita a piedi.",
         quando: "Mattina; guardare le maree prima di camminare sul Grand Bé.",
         tempo: "mezza giornata",
         consiglio: "Controllare l'orario della bassa marea: l'isolotto si raggiunge solo allora."
@@ -1069,7 +1069,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Pointe du Raz",
         testo: "Un promontorio su una scogliera a picco sull'Atlantico, uno dei punti più occidentali della Francia. Sentieri sulla punta e un faro in mare.",
-        come: "In auto da Quimper, circa 1 ora. Parcheggio a pagamento.",
+        come: "In auto da Quimper, fino alla punta del Cap Sizun.",
         quando: "Giornata limpida; con la nebbia non si vede nulla.",
         tempo: "1-2 ore",
         consiglio: "Stare sui sentieri segnati: le scogliere sono instabili."
@@ -1303,8 +1303,8 @@ export const destinazioniFrancia: Destinazione[] = [
     luoghi: [
       {
         nome: "Chambord",
-        testo: "Il castello più grande della Loira, voluto da Francesco I, con 440 stanze e la scala a doppia elica attribuita a Leonardo. È circondato da un parco recintato più grande di Parigi.",
-        come: "In auto da Blois, circa 20 minuti. Si visita da soli o con audioguida.",
+        testo: "Il castello più grande della Loira, voluto da Francesco I, con 440 stanze e la scala a doppia spirale che molti studiosi attribuiscono almeno in parte a Leonardo. È circondato da un parco di oltre 5.000 ettari chiuso da un muro di 31 km.",
+        come: "In auto da Blois. Si visita da soli o con audioguida.",
         quando: "Mattina, per i giardini e le terrazze. Chiuso il 1° gennaio e il 25 dicembre.",
         tempo: "3 ore",
         costo: "31 € per chi viene da fuori dello Spazio economico europeo, 21 € per UE/SEE (castello e giardini, 2026).",
@@ -1323,7 +1323,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Villandry",
         testo: "Il castello è meno noto dei giardini: l'orto rinascimentale a disegni geometrici, il giardino dell'amore e quello d'acqua, rifatti sul modello cinquecentesco.",
-        come: "In auto da Tours, circa 25 minuti.",
+        come: "In auto da Tours, lungo la Loira verso ovest.",
         quando: "Primavera ed estate per la fioritura.",
         tempo: "2 ore",
         url: "https://www.chateauvillandry.fr/",
@@ -1332,7 +1332,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Amboise e Clos Lucé",
         testo: "Amboise ha un castello sul fiume. Il Clos Lucé è la casa dove Leonardo da Vinci visse gli ultimi tre anni e morì nel 1519; contiene modelli delle sue macchine.",
-        come: "Treno da Tours, circa 20 minuti. I due siti sono a 10 minuti a piedi.",
+        come: "Treno da Tours. Castello e Clos Lucé sono vicini, a piedi.",
         quando: "Mattina.",
         tempo: "mezza giornata",
         costo: "Clos Lucé 20 € intero (2026).",
@@ -1342,7 +1342,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Azay-le-Rideau e Cheverny",
         testo: "Azay-le-Rideau è un castello su un'isola dell'Indre che si specchia nell'acqua. Cheverny è abitato da secoli dalla stessa famiglia ed è arredato.",
-        come: "In auto da Tours; Cheverny è a 40 minuti da Chambord.",
+        come: "In auto da Tours; Cheverny è a sud di Blois, non lontano da Chambord.",
         quando: "Mattina.",
         tempo: "2 ore ciascuno",
         consiglio: "Cheverny ha il canile dei cani da caccia: l'ora del pasto è un'attrazione."
@@ -1550,7 +1550,7 @@ export const destinazioniFrancia: Destinazione[] = [
     luoghi: [
       {
         nome: "Place de la Bourse e Miroir d'eau",
-        testo: "La piazza settecentesca sulla Garonna e, davanti, il Miroir d'eau: una lastra d'acqua di pochi millimetri che riflette la facciata e ogni tanto si trasforma in nebbia.",
+        testo: "La piazza settecentesca sulla Garonna e, davanti, il Miroir d'eau: lastre di granito coperte da 2 centimetri d'acqua che riflettono la facciata e ogni tanto si trasformano in nebbia. Funziona da aprile a ottobre.",
         come: "A piedi dal centro o con il tram fino alla fermata Place de la Bourse.",
         quando: "Sera o notte, quando la facciata è illuminata.",
         tempo: "45 minuti",
@@ -1575,15 +1575,15 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Saint-Émilion",
         testo: "Un borgo medievale tra i vigneti, patrimonio UNESCO dal 1999 come paesaggio vitivinicolo. La chiesa monolitica è scavata nella roccia.",
-        come: "Treno diretto da Bordeaux Saint-Jean in circa 40 minuti. La chiesa monolitica si visita con guida dall'ufficio del turismo.",
+        come: "Treno diretto da Bordeaux Saint-Jean. La chiesa monolitica si visita con guida: informazioni all'ufficio del turismo.",
         quando: "Mattina o tardo pomeriggio.",
         tempo: "mezza giornata",
-        consiglio: "Camminare tra le vigne fuori dal borgo, a 10 minuti dal centro."
+        consiglio: "Camminare tra le vigne appena fuori dal borgo."
       },
       {
         nome: "Médoc e i castelli",
         testo: "La strada dei vini a nord, con castelli aziendali in fila (Margaux, Pauillac, Saint-Julien).",
-        come: "In auto da Bordeaux, 30-60 minuti. Le degustazioni si prenotano.",
+        come: "In auto da Bordeaux verso nord. Le degustazioni si prenotano.",
         quando: "Primavera e autunno, vendemmia a settembre-ottobre.",
         tempo: "giornata intera",
         consiglio: "Serve un autista che non beva, o un tour organizzato."
@@ -1821,18 +1821,18 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Champagne: Reims ed Épernay",
         testo: "La cattedrale di Reims, dove venivano incoronati i re, con le vetrate di Chagall. A Épernay l'Avenue de Champagne ha chilometri di gallerie scavate nel gesso sotto le case delle grandi maison.",
-        come: "Treno da Parigi Est a Reims in circa 45 minuti; da Reims a Épernay 30 minuti in treno.",
+        come: "Treno da Parigi Est a Reims; da Reims a Épernay in treno regionale.",
         quando: "Primavera e autunno; vendemmia a fine agosto-settembre.",
         tempo: "1-2 giorni",
         consiglio: "Le visite delle cantine si prenotano: molte non ricevono senza appuntamento."
       },
       {
         nome: "Borgogna: Côte de Nuits e Côte de Beaune",
-        testo: "I climats della Borgogna, iscritti all'UNESCO nel 2015: oltre mille parcelle delimitate da muretti a secco. A Beaune, gli Hospices con il tetto di tegole colorate.",
+        testo: "I climats della Borgogna, piccole parcelle di vigna delimitate con precisione, iscritti all'UNESCO nel 2015. A Beaune, gli Hospices con il tetto di tegole colorate.",
         come: "Treno da Parigi a Dijon, poi in auto o bici lungo la Route des Grands Crus.",
         quando: "Primavera e autunno.",
         tempo: "2 giorni",
-        consiglio: "La pista ciclabile della Voie des Vignes collega Beaune e Santenay in circa 20 km."
+        consiglio: "La pista ciclabile della Voie des Vignes parte da Beaune e corre tra i vigneti verso sud."
       },
       {
         nome: "Alsazia: la Route des Vins",
@@ -1844,17 +1844,17 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Valle del Rodano",
-        testo: "A nord i pendii terrazzati di Côte-Rôtie e Hermitage, tra i più ripidi d'Europa; a sud Châteauneuf-du-Pape, con le pietre arrotondate tra i filari.",
+        testo: "A nord i pendii terrazzati e ripidissimi di Côte-Rôtie e Hermitage; a sud Châteauneuf-du-Pape, con le pietre arrotondate tra i filari.",
         come: "Treno fino a Valence o Avignone; poi auto o bici.",
         quando: "Primavera e autunno.",
         tempo: "1-2 giorni",
-        consiglio: "Châteauneuf-du-Pape si raggiunge in 20 minuti da Avignone."
+        consiglio: "Châteauneuf-du-Pape è vicina ad Avignone: si unisce bene a una visita della città."
       },
       {
         nome: "Giura",
-        testo: "Una regione piccola e fuori dai circuiti, famosa per il vin jaune, che matura sei anni e tre mesi in botte sotto un velo di lieviti, senza rabbocco.",
+        testo: "Una regione piccola e fuori dai circuiti, famosa per il vin jaune, che tra vendemmia e imbottigliamento matura sei anni e tre mesi in botte sotto un velo di lieviti, senza rabbocco.",
         come: "In auto da Besançon o Lons-le-Saunier.",
-        quando: "Tutto l'anno; la festa Percée du vin jaune a febbraio.",
+        quando: "Tutto l'anno; la festa Percée du vin jaune tra fine gennaio e inizio febbraio.",
         tempo: "1 giorno",
         consiglio: "Il vin jaune si abbina al formaggio comté."
       }
@@ -2055,7 +2055,7 @@ export const destinazioniFrancia: Destinazione[] = [
     luoghi: [
       {
         nome: "Gole del Verdon",
-        testo: "Il canyon più profondo d'Europa, con pareti verticali di centinaia di metri e acqua verde. La strada panoramica sul bordo ha belvedere.",
+        testo: "Un canyon profondo fino a 700 metri, spesso paragonato al Grand Canyon, con pareti verticali e acqua verde. La strada panoramica sul bordo ha belvedere.",
         come: "In auto da Moustiers-Sainte-Marie o Castellane. Si può camminare sul fondo con i sentieri del Sentier de l'Imbut.",
         quando: "Primavera ed estate; in luglio e agosto è molto affollato.",
         tempo: "giornata intera",
@@ -2063,7 +2063,7 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Luberon: Gordes, Roussillon, Bonnieux",
-        testo: "Villaggi arroccati di pietra chiara. A Roussillon le cave di ocra danno colori rosso e giallo; il Sentier des Ocres si percorre in 40 minuti.",
+        testo: "Villaggi arroccati di pietra chiara. A Roussillon le cave di ocra danno colori rosso e giallo, da vedere lungo il Sentier des Ocres.",
         come: "In auto: in agosto il parcheggio è difficile.",
         quando: "Primavera e autunno; luglio e agosto folla.",
         tempo: "2 giorni",
@@ -2079,7 +2079,7 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Avignone e il Palazzo dei Papi",
-        testo: "Il palazzo gotico più grande del mondo, residenza dei papi nel Trecento. Il ponte Saint-Bénézet, interrotto a metà, è il simbolo della città.",
+        testo: "Uno dei più grandi edifici gotici del Medioevo in Europa, residenza dei papi nel Trecento. Il ponte Saint-Bénézet, interrotto a metà, è il simbolo della città.",
         come: "Treno da Marsiglia o Parigi. Si visita a piedi.",
         quando: "Mattina.",
         tempo: "mezza giornata",
@@ -2088,8 +2088,8 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Arles",
-        testo: "Un anfiteatro romano ancora in uso per spettacoli, gli Alyscamps e i luoghi dipinti da Van Gogh. In città non c'è nessun suo quadro.",
-        come: "Treno da Avignone in circa 20 minuti.",
+        testo: "Un anfiteatro romano ancora in uso per spettacoli, gli Alyscamps e i luoghi dipinti da Van Gogh, che ad Arles visse e lavorò.",
+        come: "Treno da Avignone.",
         quando: "Mattina; il mercato è sabato.",
         tempo: "mezza giornata",
         consiglio: "Seguire il percorso Van Gogh tra i luoghi dipinti."
@@ -2097,7 +2097,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Nîmes",
         testo: "Un'arena romana tra le meglio conservate al mondo, ancora usata per concerti e corride, e la Maison Carrée, tempio romano quasi intatto iscritto all'UNESCO nel 2023.",
-        come: "Treno da Avignone in 30 minuti.",
+        come: "Treno da Avignone.",
         quando: "Mattina.",
         tempo: "mezza giornata",
         consiglio: "Un biglietto unico include arena e altri monumenti romani."
@@ -2152,7 +2152,7 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Rosé di Provenza",
-        testo: "Il vino rosato più bevuto in Francia."
+        testo: "Il vino rosato simbolo della regione."
       }
     ],
     attenzioni: [
@@ -2220,7 +2220,7 @@ export const destinazioniFrancia: Destinazione[] = [
         nome: "Parc ornithologique de Pont de Gau",
         testo: "Un parco con stagni e sentieri dove si vedono da vicino i fenicotteri rosa, aironi e cicogne. È un buon punto per capire la zona prima di uscire sui sentieri.",
         come: "In auto da Saintes-Maries-de-la-Mer, a pochi minuti.",
-        quando: "Mattina presto o tardo pomeriggio; i fenicotteri sono più numerosi in primavera ed estate.",
+        quando: "Mattina presto o tardo pomeriggio, con la luce più bella.",
         tempo: "2 ore",
         url: "https://www.parcornithologique.com/",
         consiglio: "Portare un binocolo e repellente per le zanzare."
@@ -2228,7 +2228,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Saintes-Maries-de-la-Mer",
         testo: "Il paese di mare con la chiesa fortificata, meta a fine maggio del pellegrinaggio dei Rom per Sara la Nera. Le spiagge sono lunghe e sabbiose.",
-        come: "In auto da Arles, circa 45 minuti.",
+        come: "In auto da Arles, attraverso la Camargue.",
         quando: "Fine maggio per il pellegrinaggio; estate per le spiagge.",
         tempo: "mezza giornata",
         consiglio: "Evitare il weekend del pellegrinaggio se si cerca calma."
@@ -2356,7 +2356,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Carcassonne",
         testo: "La cité fortificata: cinquantadue torri e doppia cinta di mura, restaurata nell'Ottocento da Viollet-le-Duc con criteri molto discussi. Dentro ci sono vicoli, botteghe e il castello.",
-        come: "Treno diretto da Tolosa in circa 45 minuti. La cité è a 15 minuti a piedi dalla stazione.",
+        come: "Treno diretto da Tolosa. Dalla stazione, nella città bassa, si sale alla cité a piedi attraversando il fiume.",
         quando: "Sera o primo mattino, quando le comitive sono assenti.",
         tempo: "mezza giornata",
         costo: "Castello comtale e camminamenti delle mura: 19 € fino al 30 settembre, 13 € da ottobre a marzo (2026). La cité e le strade sono libere.",
@@ -2364,7 +2364,7 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Canal du Midi",
-        testo: "Un canale seicentesco di oltre 240 km che collega l'Atlantico al Mediterraneo, patrimonio UNESCO, con alberi di platano sulle rive.",
+        testo: "Un canale seicentesco di 240 km che collega la Garonna, a Tolosa, al Mediterraneo; insieme al canale della Garonna unisce l'Atlantico al Mediterraneo. Patrimonio UNESCO, con platani sulle rive.",
         come: "A piedi o in bici lungo l'alzaia; barche a noleggio da Carcassonne o Castelnaudary.",
         quando: "Primavera e autunno.",
         tempo: "mezza giornata",
@@ -2373,22 +2373,22 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Castelli catari",
         testo: "Quéribus, Peyrepertuse e Montségur sono arroccati su creste calcaree a centinaia di metri, ultimi rifugi dei catari nel Duecento.",
-        come: "In auto dalla zona di Carcassonne. Salita a piedi di 20-30 minuti.",
+        come: "In auto dalla zona di Carcassonne, poi una salita a piedi ripida fino alle mura.",
         quando: "Mattina; il vento è forte e non c'è ombra.",
         tempo: "3 ore ciascuno",
         consiglio: "Portare acqua, cappello e scarpe da trekking."
       },
       {
         nome: "Albi",
-        testo: "La cattedrale di Sainte-Cécile, la più grande chiesa in mattoni del mondo, che dall'esterno sembra una fortezza. Nel palazzo della Berbie c'è il museo Toulouse-Lautrec.",
-        come: "Treno da Tolosa in circa 1 ora.",
+        testo: "La cattedrale di Sainte-Cécile, considerata il più grande edificio in mattoni del mondo, che dall'esterno sembra una fortezza. Nel palazzo della Berbie c'è il museo Toulouse-Lautrec.",
+        come: "Treno da Tolosa.",
         quando: "Mattina.",
         tempo: "mezza giornata",
         consiglio: "All'interno guardare il Giudizio finale affrescato."
       },
       {
         nome: "Tolosa",
-        testo: "La «ville rose» di mattoni, con la basilica di Saint-Sernin, la più grande chiesa romanica conservata d'Europa, e la piazza del Capitole.",
+        testo: "La «ville rose» di mattoni, con la basilica di Saint-Sernin, una delle più grandi chiese romaniche conservate d'Europa, e la piazza del Capitole.",
         come: "Aeroporto e treni da tutta la Francia.",
         quando: "Mattina o sera.",
         tempo: "1 giorno",
@@ -2396,8 +2396,8 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Collioure",
-        testo: "Il porto catalano dove Matisse e Derain inventarono il fauvismo in un'estate, con il castello e la chiesa sul mare.",
-        come: "Treno da Perpignan in circa 30 minuti.",
+        testo: "Il porto catalano dove all'inizio del Novecento dipinsero i pittori fauve, tra cui Matisse e Derain, con il castello sul mare.",
+        come: "Treno da Perpignan.",
         quando: "Primavera e autunno.",
         tempo: "mezza giornata",
         consiglio: "Seguire il percorso dei pittori con le riproduzioni dei quadri."
@@ -2919,16 +2919,16 @@ export const destinazioniFrancia: Destinazione[] = [
     luoghi: [
       {
         nome: "Tour du Mont Blanc",
-        testo: "Circa 170 km intorno al massiccio, tra Francia, Italia e Svizzera, con circa 10.000 metri di dislivello. Si fa di solito in 7-11 giorni, da rifugio a rifugio.",
+        testo: "Circa 165-170 km intorno al massiccio, tra Francia, Italia e Svizzera, con oltre 10.000 metri di dislivello. Di solito si fa in 9-14 giorni, da rifugio a rifugio, in senso antiorario.",
         come: "Partenza da Les Houches o Chamonix; bus e treni per i rientri.",
         quando: "Luglio-metà settembre; i rifugi sono aperti solo in estate.",
-        tempo: "7-11 giorni",
+        tempo: "9-14 giorni",
         consiglio: "I rifugi vanno prenotati con mesi di anticipo."
       },
       {
         nome: "Lac Blanc e Grand Balcon",
         testo: "Escursione sopra Chamonix con vista sul massiccio del Monte Bianco, che si specchia nel lago. Il Grand Balcon Nord è un sentiero panoramico a mezza costa.",
-        come: "Funivia fino a La Flégère, poi sentiero di circa 1 ora fino al lago.",
+        come: "Funivia fino a La Flégère, poi a piedi sul sentiero fino al lago.",
         quando: "Mattina; luglio-settembre.",
         tempo: "mezza giornata",
         consiglio: "Partire presto per non trovare folla al lago."
@@ -2936,7 +2936,7 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Mer de Glace e Montenvers",
         testo: "Il più grande ghiacciaio di Francia, raggiungibile con il trenino a cremagliera del Montenvers. Lungo la scala per scendere sul ghiaccio, cartelli mostrano quanto si è ritirato.",
-        come: "Trenino dalla stazione di Chamonix, circa 20 minuti.",
+        come: "Trenino a cremagliera del Montenvers, con partenza da Chamonix.",
         quando: "Mattina; estate e autunno.",
         tempo: "mezza giornata",
         consiglio: "Il ghiacciaio si è abbassato di decine di metri: i cartelli lo mostrano."
@@ -2951,8 +2951,8 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Cirque de Gavarnie (Pirenei)",
-        testo: "Un anfiteatro glaciale con pareti di centinaia di metri e una delle cascate più alte d'Europa. Patrimonio UNESCO.",
-        come: "In auto fino a Gavarnie, poi a piedi circa 1 ora e mezza fino al circo.",
+        testo: "Un anfiteatro glaciale con pareti alte fino a 1.500 metri e la cascata di Gavarnie, 422 metri, la seconda più alta d'Europa. Patrimonio UNESCO dal 1997.",
+        come: "In auto fino a Gavarnie, poi a piedi lungo il sentiero di fondovalle fino al circo.",
         quando: "Estate, mattina presto.",
         tempo: "mezza giornata",
         consiglio: "Salire presto: il sentiero è fangoso in primavera."

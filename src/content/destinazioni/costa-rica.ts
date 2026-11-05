@@ -33,7 +33,7 @@ export const destinazioniCostaRica: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Mercado Central",
-          "testo": "Il mercato coperto del centro, fondato nel 1880, con bancarelle di cibo, caffè, artigianato e le sodas che servono il casado del giorno.",
+          "testo": "Il mercato coperto storico del centro, con bancarelle di cibo, caffè, artigianato e le sodas che servono il casado del giorno.",
           "come": "A piedi dal centro. Si entra dalle vie laterali dell'Avenida Central.",
           "quando": "Mattina e pranzo, quando le sodas lavorano di più.",
           "tempo": "1-1,5 ore",
@@ -42,7 +42,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         {
           "nome": "Barrio Amón",
           "testo": "Quartiere con case in legno e mattoni d'inizio Novecento, ex dimore dei baroni del caffè, ora con gallerie, caffè e hotel di charme.",
-          "come": "A piedi, a nord del centro, 10-15 minuti.",
+          "come": "A piedi, a nord del centro.",
           "quando": "Mattina, a luce buona.",
           "tempo": "1-2 ore",
           "consiglio": "Meglio non girare con il telefono in mano e di sera sono preferibili i taxi."
@@ -57,7 +57,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Teatro Nacional",
-          "testo": "Il teatro d'opera neoclassico del 1897, ricco di affreschi, in pieno centro. Si visita anche solo per il caffè interno.",
+          "testo": "Il teatro neoclassico inaugurato nel 1897 con il Faust, pagato con una tassa sul caffè. Dentro c'è il celebre dipinto dell'allegoria del caffè e delle banane, finito sulla banconota da cinque colones.",
           "come": "A piedi dal centro, sulla Plaza de la Cultura.",
           "quando": "Mattina.",
           "tempo": "1 ora",
@@ -154,8 +154,8 @@ export const destinazioniCostaRica: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Parco Nazionale di Cahuita",
-          "testo": "Sentiero costiero di circa 8 km tra spiaggia, foresta e mare con barriera corallina. Si vedono bradipi, scimmie, procioni e uccelli.",
-          "come": "Ingresso da Cahuita o dal lato di Puerto Vargas. Il sentiero costeggia la spiaggia, in parte con guadi.",
+          "testo": "Sentiero costiero fra spiaggia, foresta e mare, con una barriera corallina al largo. Si vedono bradipi, scimmie urlatrici e cappuccine, procioni e uccelli. È l'unico parco nazionale del Costa Rica dove all'ingresso di Cahuita non si paga un biglietto ma si lascia un'offerta.",
+          "come": "Ingresso principale a Cahuita, oppure dal lato di Puerto Vargas. Il sentiero costeggia la spiaggia, in parte con guadi.",
           "quando": "Mattina presto, quando gli animali sono attivi.",
           "tempo": "3-4 ore",
           "consiglio": "Con una guida locale si vedono molti più animali. Esiste una scheda esperienza dedicata a un tour completo con la guida José."
@@ -163,7 +163,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         {
           "nome": "Punta Uva e Playa Chiquita",
           "testo": "Spiagge di sabbia chiara a sud di Puerto Viejo, con palme e foresta alle spalle. Da qui si sentono le scimmie urlatrici dagli alberi.",
-          "come": "In bici lungo la costa da Puerto Viejo, circa 20-30 minuti; noleggio in paese.",
+          "come": "In bici lungo la costa da Puerto Viejo; noleggio in paese.",
           "quando": "Mattina o tardo pomeriggio.",
           "tempo": "Mezza giornata",
           "consiglio": "Pedalare lungo la costa è il modo più semplice e più vero di conoscere il Caribe costaricano."
@@ -179,10 +179,10 @@ export const destinazioniCostaRica: Destinazione[] = [
         {
           "nome": "Fiume Pacuaré (rafting)",
           "testo": "Discesa sul fiume Pacuaré, fra le gole e la foresta, un'escursione opzionale molto richiesta in zona.",
-          "come": "Tour organizzato da Puerto Viejo, da prenotare con una settimana d'anticipo.",
+          "come": "Tour organizzato da Puerto Viejo, da prenotare qualche giorno prima.",
           "quando": "Verificare con l'operatore la stagione migliore.",
           "tempo": "Giornata intera",
-          "consiglio": "Prenotare con una settimana d'anticipo."
+          "consiglio": "Il fiume è lontano dalla costa: è una giornata lunga, con molte ore di strada."
         }
       ],
       "programmi": [
@@ -287,7 +287,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Cerro Tortuguero",
-          "testo": "Una collina di circa 120 metri con vista su canali, mare e foresta.",
+          "testo": "La collina più alta della zona, con vista su canali, mare e foresta.",
           "come": "Breve traversata in barca dal villaggio fino all'inizio del sentiero; chiedere al lodge le regole d'accesso e la tassa del momento.",
           "quando": "Mattina.",
           "tempo": "1-1,5 ore",
@@ -393,9 +393,9 @@ export const destinazioniCostaRica: Destinazione[] = [
           "tempo": "Mezza giornata"
         },
         {
-          "nome": "Cataratas Bajas del Toro",
+          "nome": "Catarata del Toro (Bajos del Toro)",
           "testo": "Cascata con sentiero e belvedere, immersa nella foresta. Escursione opzionale.",
-          "come": "In auto o con tour dal lodge, circa 1 ora.",
+          "come": "In auto o con tour dal lodge.",
           "quando": "Mattina.",
           "tempo": "Mezza giornata"
         },
@@ -475,14 +475,14 @@ export const destinazioniCostaRica: Destinazione[] = [
     tipologia: ['natura', 'vulcani'],
     giorniConsigliati: '1 giorno',
     visitataPersonalmente: true,
-    introduzione: 'Il vulcano Arenal, la Cascada de La Fortuna e le sorgenti termali gratuite di El Choyin, molto più autentiche delle terme a pagamento "da cartolina".',
-    percheAndarci: 'Per le sorgenti termali gratuite di El Choyin, uno dei momenti più belli e meno "da cartolina" di tutto il viaggio.',
-    cosaVedere: ['Il vulcano Arenal', 'La Cascada de La Fortuna', 'Le sorgenti termali di El Choyin'],
+    introduzione: 'Il vulcano Arenal, la Cascada de La Fortuna e le sorgenti termali gratuite di El Chollín, molto più autentiche delle terme a pagamento "da cartolina".',
+    percheAndarci: 'Per le sorgenti termali gratuite di El Chollín, uno dei momenti più belli e meno "da cartolina" di tutto il viaggio.',
+    cosaVedere: ['Il vulcano Arenal', 'La Cascada de La Fortuna', 'Le sorgenti termali di El Chollín'],
     cosaFare: [
       'Bagno alla Cascada de La Fortuna (c\'è una scheda esperienza dedicata)',
       'Trekking al vulcano al Mirador El Silencio (opzionale)',
       'Ponti sospesi di Mistico Hanging Bridges (opzionale)',
-      'Sorgenti termali gratuite di El Choyin',
+      'Sorgenti termali gratuite di El Chollín',
       'Canyoning nel Lost Canyon (opzionale, molto adrenalinico)',
     ],
     doveDormire:
@@ -493,14 +493,14 @@ export const destinazioniCostaRica: Destinazione[] = [
     comeSpostarsi: 'Minivan a disposizione per tutta la giornata.',
     periodoMigliore: 'tardo pomeriggio per le sorgenti termali',
     costi: 'Cascada de La Fortuna 18-20$; tour combo 90-120$ a persona; canyoning Lost Canyon 115-119$.',
-    erroriDaEvitare: ['Alle sorgenti di El Choyin non ci sono spogliatoi: bastano scarpe da fiume, costume e torcia frontale, senza asciugamani'],
+    erroriDaEvitare: ['Alle sorgenti di El Chollín non ci sono spogliatoi: bastano scarpe da fiume, costume e torcia frontale, senza asciugamani'],
     miaEsperienza:
       'Le sorgenti termali gratuite di El Choyin, in un tratto di fiume naturale, ci sono sembrate molto più autentiche delle terme a pagamento della zona. È stato uno dei momenti più veri di tutto il viaggio.',
       "luoghi": [
         {
           "nome": "Cascada de La Fortuna",
-          "testo": "Cascata di circa 70 metri in una gola di foresta, con una scalinata di molti gradini e una pozza per il bagno. Esiste una scheda esperienza dedicata.",
-          "come": "Dal paese di La Fortuna 10 minuti in auto o taxi, poi scale ripide fino alla base.",
+          "testo": "Cascata di oltre 70 metri in una gola di foresta, con circa 530 gradini fra discesa e risalita e una pozza per il bagno. Esiste una scheda esperienza dedicata.",
+          "come": "Pochi minuti in auto o taxi dal paese di La Fortuna, poi scale ripide fino alla base.",
           "quando": "Aperta tutti i giorni dalle 7 alle 17; meglio la mattina, con meno folla.",
           "tempo": "2 ore",
           "costo": "20 USD per gli stranieri (2025); si paga anche solo per il belvedere.",
@@ -508,12 +508,12 @@ export const destinazioniCostaRica: Destinazione[] = [
           "consiglio": "Il ritorno è tutto in salita: scarpe con presa e acqua."
         },
         {
-          "nome": "Sorgenti termali gratuite di El Choyin",
-          "testo": "Un tratto di fiume caldo naturale, a ingresso libero, con pozze di acqua termale. Più autentico delle terme a pagamento della zona.",
-          "come": "In auto o taxi da La Fortuna, poi a piedi per un breve tratto.",
-          "quando": "Mattina o sera.",
+          "nome": "Il fiume termale gratuito di El Chollín",
+          "testo": "Un tratto del fiume Tabacón con acqua calda naturale e accesso pubblico, a pochi passi dai resort termali. Da non confondere con El Choyín, un complesso a pagamento sullo stesso fiume.",
+          "come": "In auto o taxi da La Fortuna; si parcheggia sulla strada, spesso con un custode, e si scende a piedi al fiume per un breve tratto.",
+          "quando": "Mattina presto: nei fine settimana e nei festivi è pieno.",
           "tempo": "1-2 ore",
-          "consiglio": "Portare scarpe da acqua e un asciugamano: non ci sono servizi."
+          "consiglio": "Non ci sono docce, armadietti né servizi: scarpe da acqua, asciugamano e niente oggetti di valore in auto."
         },
         {
           "nome": "Mirador El Silencio",
@@ -536,7 +536,7 @@ export const destinazioniCostaRica: Destinazione[] = [
           "tappe": [
             "Mattina: Cascata di La Fortuna",
             "Pranzo a La Fortuna",
-            "Pomeriggio: terme gratuite di El Choyin"
+            "Pomeriggio: fiume termale gratuito di El Chollín"
           ]
         },
         {
@@ -619,7 +619,7 @@ export const destinazioniCostaRica: Destinazione[] = [
           "nome": "Foresta nebulosa di Monteverde",
           "testo": "Foresta pluviale d'altura, avvolta nelle nuvole, con migliaia di specie di piante, uccelli e insetti. Si cammina su sentieri e ponti.",
           "come": "Con taxi o navetta dalla cittadina di Santa Elena, su una strada di montagna lenta. Dal 2026 l'ingresso è a orario, da prenotare online. Meglio con guida per riconoscere gli animali.",
-          "quando": "Ingressi di giorno circa dalle 7.30 alle 16; mattina presto per gli uccelli. La nebbia è parte del paesaggio.",
+          "quando": "Sentieri della foresta dalle 7.30 alle 16 (orari del sito ufficiale); mattina presto per gli uccelli. La nebbia è parte del paesaggio.",
           "tempo": "3-4 ore",
           "url": "https://cloudforestmonteverde.com/"
         },
@@ -627,7 +627,7 @@ export const destinazioniCostaRica: Destinazione[] = [
           "nome": "Camminata notturna nella foresta",
           "testo": "Escursione serale con guida e torcia per vedere rane, insetti, tarantole e altri animali notturni. Esiste una scheda esperienza dedicata.",
           "come": "Partenza dopo il tramonto con guida.",
-          "quando": "Sera, dopo le 18.",
+          "quando": "Sera: alla riserva la camminata notturna parte alle 18.",
           "tempo": "1,5 ore",
           "consiglio": "A qualcuno la durata può sembrare lunga. Portare giacca e scarpe chiuse."
         },
@@ -669,7 +669,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         {
           "nome": "Santa Elena",
           "perChi": "servizi e budget",
-          "testo": "Ristoranti, agenzie e hotel, a 20-30 minuti dalla riserva."
+          "testo": "Ristoranti, agenzie e hotel; per la riserva servono taxi o navetta."
         },
         {
           "nome": "Vicino alla riserva",
@@ -743,9 +743,9 @@ export const destinazioniCostaRica: Destinazione[] = [
         },
         {
           "nome": "Whale watching",
-          "testo": "Uscita in barca per avvistare megattere nei periodi di migrazione. Esiste una scheda esperienza dedicata.",
+          "testo": "Uscita in barca nel Parco Marino Ballena, creato nel 1989, per avvistare le megattere che vengono qui a riprodursi. Esiste una scheda esperienza dedicata.",
           "come": "Tour da Uvita con barca di piccole dimensioni.",
-          "quando": "Luglio-ottobre e dicembre-marzo.",
+          "quando": "Due stagioni: da dicembre ad aprile arrivano le megattere dell'emisfero nord, da luglio a novembre quelle dell'emisfero sud.",
           "tempo": "3 ore",
           "consiglio": "Gli avvistamenti non sono garantiti, ma il paesaggio vale comunque."
         },
@@ -848,7 +848,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         {
           "nome": "Parco Nazionale Manuel Antonio",
           "testo": "Un parco piccolo ma ricco di vita: bradipi, scimmie cappuccine, iguane e colibrì lungo i sentieri, con spiagge dentro al parco. Esiste una scheda esperienza dedicata.",
-          "come": "Si arriva da Quepos in bus o auto, circa 10 minuti. Con guida si vedono molti più animali.",
+          "come": "Si arriva da Quepos in bus o auto, in pochi minuti. Con guida si vedono molti più animali.",
           "quando": "Mattina presto, quando gli animali sono attivi. Aperto da mercoledì a lunedì, 7-16; chiuso il martedì.",
           "tempo": "3-4 ore",
           "costo": "Circa 18 USD per gli stranieri adulti (16 USD più IVA, 2025-2026), solo online e con posti limitati.",

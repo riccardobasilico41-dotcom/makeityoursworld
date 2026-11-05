@@ -91,8 +91,8 @@ export const destinazioniSriLanka: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Il visto elettronico ETA è obbligatorio: richiederlo online sul sito ufficiale eta.gov.lk. Per i passaporti italiani è gratuito dal 25 maggio 2026, ma le condizioni cambiano: controllare prima di partire.",
-      "Comprare la SIM locale (Dialog o SLT Mobitel) subito dopo il controllo passaporti: costa meno che al desk prima dei controlli.",
+      "Il visto elettronico ETA è obbligatorio: richiederlo online sul sito ufficiale eta.gov.lk. Per i passaporti italiani è gratuito dal 25 maggio 2026 (30 giorni, doppio ingresso), ma le condizioni cambiano: controllare prima di partire.",
+      "La SIM locale (Dialog o SLT-Mobitel) si compra ai banchi dell'aeroporto: confrontare le offerte prima di scegliere.",
       "Concordare il prezzo del tuk-tuk o del transfer prima di salire.",
       "Nei luoghi di culto servono spalle e ginocchia coperte: portare un pareo o pantaloni lunghi."
     ],
@@ -127,7 +127,7 @@ export const destinazioniSriLanka: Destinazione[] = [
       {
         "nome": "Sri Maha Bodhi",
         "testo": "L'albero sacro, discendente diretto da quello sotto cui il Buddha raggiunse l'illuminazione, piantato nel III secolo a.C. Per i fedeli è il luogo più venerato della città.",
-        "come": "Dentro il sito archeologico, in bicicletta o a piedi. Si entra scalzi e con abiti bianchi o chiari e coperti.",
+        "come": "Dentro il sito archeologico, in bicicletta o a piedi. Si entra scalzi e senza cappello, con spalle e gambe coperte; i fedeli vestono di bianco.",
         "quando": "Mattina o tardo pomeriggio; nei giorni di luna piena (poya) è affollatissimo di pellegrini.",
         "tempo": "1 ora"
       },
@@ -191,8 +191,8 @@ export const destinazioniSriLanka: Destinazione[] = [
     ],
     attenzioni: [
       "Nei luoghi sacri si entra scalzi, in abiti coperti e chiari: portare calze o accettare la sabbia calda nelle ore centrali.",
-      "Mai posare per una foto dando le spalle a una statua del Buddha: è considerato irrispettoso.",
-      "I giorni di luna piena (poya) sono festivi e non si vende alcol: il sito è affollatissimo.",
+      "Mai posare per una foto davanti a una statua del Buddha: è considerato irrispettoso, e mancare di rispetto alle immagini buddhiste è un reato.",
+      "I giorni di luna piena (poya) sono festivi e di solito non si trova alcol: il sito è affollatissimo.",
       "Il caldo del pomeriggio è forte: acqua e cappello."
     ],
     esperienzeSlugs: [],
@@ -221,7 +221,7 @@ export const destinazioniSriLanka: Destinazione[] = [
       'Trekking al tramonto su Pidurangala Rock (30 minuti di salita)',
       'Trekking a Sigiriya (1h30-2h di salita; c\'è la scheda esperienza dedicata)',
       'Visita al Tempio d\'Oro di Dambulla',
-      'Il Dambulla Wholesale Market, centro della distribuzione di frutta e verdura dell\'isola',
+      'Il Dambulla Wholesale Market: Dambulla è uno dei principali centri di distribuzione delle verdure del paese',
     ],
     doveDormire:
       'Abbiamo dormito al Tropical Life Resort, sulla carta il migliore dei nove hotel del viaggio: n. 1 tra le strutture specialty di Dambulla, 4/5 su Tripadvisor. Camere pulite e ben attrezzate, buffet abbondante, tutto immerso nel verde. Qualche recensione segnala che in camera manca il WiFi.\n\nEconomiche: Relax Guesthouse, Lake Island Homestay. Fascia media: Lake Lodge Boutique Hotel, Kalundewa Retreat. Lusso: Heritance Kandalama (il celebre hotel firmato Geoffrey Bawa), Aliya Resort & Spa.',
@@ -229,15 +229,15 @@ export const destinazioniSriLanka: Destinazione[] = [
     comeArrivare: 'Circa 1h30 di trasferimento da Anuradhapura, passando da Mihintale e dal safari.',
     comeSpostarsi: 'Van privato; a piedi per i trekking.',
     periodoMigliore: 'la mattina presto per Sigiriya, per evitare il caldo',
-    costi: 'Mihintale: ingresso 500 LKR più 50 LKR di sarong; safari a Minneriya circa 12.000 LKR a jeep più l\'ingresso; Sigiriya 10.000-30 USD a persona secondo la tariffa applicata; Pidurangala 1.000 LKR.',
+    costi: 'Mihintale 1.000 LKR (2026; nel 2023 erano 500 LKR più 50 di sarong); safari a Minneriya circa 12.000 LKR a jeep più l\'ingresso (2023); Sigiriya circa 35 USD (2026); Pidurangala 1.000 LKR.',
     erroriDaEvitare: ['Partire tardi per Sigiriya: conviene muoversi presto per evitare il caldo peggiore durante la salita'],
     miaEsperienza:
       'Il tramonto da Pidurangala Rock, con la Rocca di Sigiriya di fronte, è uno dei panorami più belli di tutto il viaggio. Forse mi è piaciuto più della salita a Sigiriya, che tutti fanno di corsa senza fermarsi qui.',
     luoghi: [
       {
         "nome": "Mihintale",
-        "testo": "La collina dove, secondo la tradizione, il buddhismo arrivò per la prima volta in Sri Lanka. Una lunga scalinata porta ai templi e alla dagoba in cima.",
-        "come": "A circa mezz'ora da Anuradhapura, in van. Si sale a piedi scalzi.",
+        "testo": "La collina dove, secondo la tradizione, il buddhismo arrivò per la prima volta in Sri Lanka. Secondo la tradizione qui il monaco Mahinda incontrò il re Devanampiya Tissa. Una scalinata di 1.840 gradini di granito porta ai templi e al grande stupa in cima.",
+        "come": "A circa 12 km a est di Anuradhapura, in van. Si sale a piedi; nei templi si entra scalzi.",
         "quando": "Mattina, prima del caldo.",
         "tempo": "1 ora e mezza",
         "costo": "Ingresso 1.000 LKR per stranieri (2026); nel 2023 erano 500 LKR più 50 LKR di sarong"
@@ -245,7 +245,7 @@ export const destinazioniSriLanka: Destinazione[] = [
       {
         "nome": "Sigiriya, la Rocca del Leone",
         "testo": "Una roccia alta circa 180 metri con in cima le fondamenta del palazzo del re Kashyapa (477-495), patrimonio UNESCO dal 1982. Lungo la salita si passano gli affreschi delle fanciulle celesti, la parete a specchio coperta di graffiti poetici del IX-X secolo e le due zampe del leone che fanno da porta all'ultima scalinata.",
-        "come": "Dalla biglietteria si sale a piedi, 1 ora e mezza-2 ore di salita; da Dambulla in van.",
+        "come": "Dalla biglietteria si sale a piedi (1 ora e mezza-2 ore di salita nel viaggio del 2023); da Dambulla in van.",
         "quando": "Biglietteria dalle 7 alle 17: arrivare all'apertura, per evitare il caldo peggiore e le code.",
         "tempo": "3-4 ore",
         "costo": "Circa 35 USD per stranieri (marzo 2026), pagati in rupie al cambio del giorno; comprende il museo. Si può comprare anche online.",
@@ -255,7 +255,7 @@ export const destinazioniSriLanka: Destinazione[] = [
       {
         "nome": "Pidurangala Rock",
         "testo": "Il tramonto da Pidurangala, con la Rocca di Sigiriya di fronte, è uno dei panorami più belli del viaggio. Forse mi è piaciuto più della salita a Sigiriya, che tutti fanno di corsa senza fermarsi qui.",
-        "come": "Salita a piedi di circa 30 minuti, con un tratto di roccia finale.",
+        "come": "Salita a piedi, con un tratto di roccia finale (circa 30 minuti nel viaggio del 2023).",
         "quando": "Tramonto.",
         "tempo": "2 ore",
         "costo": "Ingresso 1.000 LKR (dal viaggio del 2023, invariato nel 2026)",
@@ -271,11 +271,11 @@ export const destinazioniSriLanka: Destinazione[] = [
       },
       {
         "nome": "Safari a Minneriya",
-        "testo": "Il safari in jeep tra gli elefanti nel parco di Minneriya, che si stringe intorno a un grande lago artificiale. Nella stagione secca, quando l'acqua si ritira, gli elefanti scendono in branco sulle rive a brucare l'erba nuova.",
+        "testo": "Il safari in jeep tra gli elefanti nel parco di Minneriya, che si stringe intorno al lago artificiale costruito dal re Mahasen nel III secolo. Nella stagione secca, quando l'acqua si ritira, gli elefanti scendono in branco sulle rive a brucare l'erba nuova.",
         "come": "In jeep con autista-guida dall'area di Sigiriya.",
-        "quando": "Pomeriggio; il periodo con più elefanti insieme (il «gathering») è di solito da luglio a ottobre.",
+        "quando": "Pomeriggio; il periodo con più elefanti insieme (il «gathering») va di solito da luglio a ottobre, con il picco ad agosto e settembre.",
         "tempo": "3-4 ore",
-        "costo": "Circa 12.000 LKR a jeep più l'ingresso (dal viaggio del 2023); ingresso al parco circa 25 USD a persona più tasse (dato 2024)"
+        "costo": "Circa 12.000 LKR a jeep più l'ingresso (dal viaggio del 2023); ingresso al parco circa 25 USD a persona per gli adulti stranieri, più tasse, servizio e veicolo (2026)"
       }
     ],
     programmi: [
@@ -323,7 +323,7 @@ export const destinazioniSriLanka: Destinazione[] = [
       },
       {
         "nome": "Frutta di Dambulla",
-        "testo": "Il Dambulla Wholesale Market è il grande mercato all'ingrosso da cui passa buona parte della frutta e della verdura dell'isola: si vedono camion carichi e montagne di prodotti locali."
+        "testo": "Dambulla è uno dei principali centri di distribuzione delle verdure del paese: al mercato all'ingrosso si vedono camion carichi e montagne di prodotti locali."
       },
       {
         "nome": "Tè e dolci",
@@ -366,13 +366,13 @@ export const destinazioniSriLanka: Destinazione[] = [
       {
         "nome": "Gal Vihara",
         "testo": "Quattro immagini del Buddha scolpite in un'unica parete di granito nel XII secolo, tra cui una figura in piedi e un Buddha sdraiato lungo circa 14 metri.",
-        "come": "Nella parte nord del sito archeologico, in bicicletta; si lasciano le scarpe all'ingresso.",
+        "come": "Nel sito archeologico, in bicicletta; si lasciano le scarpe all'ingresso.",
         "quando": "Mattina o pomeriggio, con la luce radente.",
         "tempo": "30 minuti"
       },
       {
         "nome": "Vatadage e il Quadrangolo",
-        "testo": "Il Vatadage è un tempio circolare per la reliquia del dente, con scalinate e pietre di luna scolpite. Il Quadrangolo raccoglie in un recinto i templi più belli della città medievale.",
+        "testo": "Il Vatadage è un tempio circolare costruito forse per la reliquia del dente, forse per la ciotola del Buddha: gli storici non sono d'accordo. Ha scalinate e una pietra di luna scolpita all'ingresso nord. Il Quadrangolo raccoglie in un recinto i templi più belli della città medievale.",
         "come": "Si gira in bicicletta tra le rovine e si visitano a piedi i templi del Quadrangolo.",
         "tempo": "1 ora"
       },
@@ -464,8 +464,8 @@ export const destinazioniSriLanka: Destinazione[] = [
     luoghi: [
       {
         "nome": "Tempio del Dente",
-        "testo": "Custodisce la reliquia del dente del Buddha, il tempio più sacro dello Sri Lanka. La cerimonia serale, con i tamburi che cominciano poco prima che cali la luce, è stato uno dei momenti più intensi e spirituali del viaggio.",
-        "come": "A piedi dal centro, sul lago. Si entra scalzi, con spalle e ginocchia coperte; la reliquia sta in un reliquiario d'oro in una sala del piano superiore.",
+        "testo": "Custodisce la reliquia del dente del Buddha ed è uno dei luoghi più sacri del buddhismo, patrimonio UNESCO con la città di Kandy. La cerimonia serale, con i tamburi che cominciano poco prima che cali la luce, è stato uno dei momenti più intensi e spirituali del viaggio.",
+        "come": "A piedi dal centro, sul lago. Si entra scalzi, con spalle e ginocchia coperte; la reliquia è chiusa in sette scrigni d'oro nella camera chiamata Handun Kunama. Pantaloncini e canottiere non sono ammessi; all'ingresso si trovano abiti adatti.",
         "quando": "Aperto ogni giorno dalle 5:30 alle 20. Le cerimonie sono alle 5:30, alle 9:30 e alle 18:30: per quella serale la fila si forma già nel tardo pomeriggio.",
         "tempo": "2 ore",
         "costo": "3.000 LKR per stranieri (2026, sito ufficiale), con i musei del complesso; nel 2023 erano 2.000 LKR. Valgono solo i biglietti delle macchinette del tempio.",
@@ -567,17 +567,17 @@ export const destinazioniSriLanka: Destinazione[] = [
     comeSpostarsi: 'A piedi per tutta la scalata.',
     periodoMigliore: 'la stagione del pellegrinaggio, dicembre-maggio, per il percorso illuminato (che però è anche più affollato)',
     costi: 'Quanto costassero il rafting e le attività extra a Kitulgala non me lo sono segnato: si concordano con l\'operatore.',
-    erroriDaEvitare: ['Salire senza una felpa: in cima ci sono 3-6°C, con vento'],
+    erroriDaEvitare: ['Salire senza una felpa: in cima all\'alba fa freddo e tira vento (3-6 °C nel viaggio del 2023)'],
     miaEsperienza:
       'La notte sull\'Adam\'s Peak, in fila indiana con centinaia di pellegrini locali su una scalinata tutta illuminata, è stata la vera prova fisica del viaggio. In cima il freddo taglia, ma salire insieme a chi lo fa per fede, e non per turismo, conta più dell\'alba stessa.',
     luoghi: [
       {
         "nome": "Adam's Peak (Sri Pada)",
         "testo": "Una montagna di 2.243 metri sacra a buddhisti, indù, musulmani e cristiani. Si sale di notte lungo una scalinata tutta illuminata, in fila indiana con centinaia di pellegrini locali, per arrivare in cima all'alba. Ho trovato che conti più il percorso della meta.",
-        "come": "Si parte a piedi dal villaggio di Nallathanniya, nel cuore della notte; la salita richiede 2 ore e mezza-3 ore.",
-        "quando": "Stagione del pellegrinaggio, da dicembre a maggio, con il percorso illuminato (anche più affollato).",
+        "come": "Si parte a piedi dal villaggio di Nallathanniya, nel cuore della notte; la salita richiede alcune ore (2 ore e mezza-3 ore nel viaggio del 2023).",
+        "quando": "Stagione del pellegrinaggio, da dicembre a maggio, con il percorso illuminato; aprile è il mese più affollato.",
         "tempo": "6-7 ore tra salita, alba e discesa",
-        "consiglio": "In cima ci sono 3-6 °C e vento: portare una felpa."
+        "consiglio": "In cima all'alba fa freddo e tira vento (3-6 °C nel viaggio del 2023): portare una felpa."
       },
       {
         "nome": "Rafting a Kitulgala",
@@ -613,7 +613,7 @@ export const destinazioniSriLanka: Destinazione[] = [
       {
         "nome": "Hatton",
         "perChi": "più comodità",
-        "testo": "Città vicina con più scelta di alloggi e ristoranti, ma a mezz'ora dal sentiero."
+        "testo": "Città vicina con più scelta di alloggi e ristoranti, ma più lontana dall'inizio del sentiero."
       }
     ],
     sapori: [
@@ -631,7 +631,7 @@ export const destinazioniSriLanka: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Salire senza una felpa: in cima ci sono 3-6 °C e vento.",
+      "Salire senza una felpa: in cima all'alba fa freddo e tira vento.",
       "La scalinata è molto affollata nella stagione del pellegrinaggio: tenere il passo del flusso e non fermarsi sui gradini.",
       "Portare una torcia frontale e scarpe con buona presa: la scalinata è illuminata, ma conviene averla comunque.",
       "Con la nebbia o la pioggia la salita è scivolosa: valutare le condizioni prima di partire."
@@ -654,7 +654,7 @@ export const destinazioniSriLanka: Destinazione[] = [
     cosaVedere: ['La Pedro Tea Plantation e la sua fabbrica del tè', 'World\'s End a Horton Plains, il bordo dell\'altopiano con uno strapiombo di 870 metri'],
     cosaFare: [
       'Visita alla piantagione di tè Pedro',
-      'Relax: massaggio, cerimonia del tè al Grand Hotel, Victoria Park, cascate di Ravana o dei Lover\'s Leap',
+      'Relax: massaggio, cerimonia del tè al Grand Hotel, Victoria Park, cascata di Lover\'s Leap',
       'Avventura: trekking a World\'s End, a Horton Plains (3h)',
     ],
     doveDormire:
@@ -671,17 +671,17 @@ export const destinazioniSriLanka: Destinazione[] = [
       {
         "nome": "Pedro Tea Plantation",
         "testo": "Una piantagione con la sua fabbrica del tè, dove si segue la lavorazione dalle foglie alla tazza. Il trasferimento da Nallathanniya è stato molto più breve del previsto, e così mi è rimasto più tempo per il pomeriggio libero tra le vallate di tè.",
-        "come": "Sulla strada tra Hatton e Nuwara Eliya, in van.",
+        "come": "Circa 3,5 km a est di Nuwara Eliya, sulla strada per Kandapola: in van o tuk-tuk. Vicino c'è la cascata di Lover's Leap.",
         "quando": "Mattina o primo pomeriggio.",
         "tempo": "1 ora"
       },
       {
         "nome": "World's End a Horton Plains",
-        "testo": "Il bordo dell'altopiano di Horton Plains, oltre i 2.000 metri, con uno strapiombo di 870 metri sulla pianura sottostante. Il trekking è un anello di circa 3 ore tra praterie e foresta nebulosa. Nel parco sono vietati i sacchetti di plastica.",
-        "come": "In van da Nuwara Eliya, circa 1 ora e mezza; si cammina a piedi su un sentiero segnalato.",
+        "testo": "Il bordo dell'altopiano di Horton Plains, oltre i 2.000 metri, con uno strapiombo di 870 metri sulla pianura sottostante. Il trekking è un anello di circa 9,5 km, 3 ore a passo tranquillo, tra praterie e foresta nebulosa, con la deviazione per le Baker's Falls. Nel parco è vietato portare plastica: i sacchetti abbandonati hanno ucciso diversi sambar, i cervi del parco.",
+        "come": "In van da Nuwara Eliya, partendo all'alba; si cammina a piedi su un sentiero segnalato. L'ingresso apre alle 6.",
         "quando": "Presto la mattina: poi arrivano nebbia e nuvole e la vista sparisce. Una giornata di sole è necessaria.",
         "tempo": "3 ore di cammino più il trasferimento",
-        "costo": "Ingresso al parco circa 25 USD a persona più tasse (dato 2024)",
+        "costo": "Ingresso al parco circa 25 USD a persona per gli adulti stranieri, più tasse, servizio e veicolo (2026)",
         "consiglio": "Partire all'alba da Nuwara Eliya, per arrivare al bordo prima delle nuvole."
       },
       {
@@ -692,7 +692,7 @@ export const destinazioniSriLanka: Destinazione[] = [
       },
       {
         "nome": "Cerimonia del tè e relax",
-        "testo": "Il tè pomeridiano al Grand Hotel, un massaggio o una passeggiata alle cascate di Ravana o dei Lover's Leap.",
+        "testo": "Il tè pomeridiano al Grand Hotel, un massaggio o una passeggiata alla cascata di Lover's Leap, alta circa 30 metri tra le piantagioni.",
         "tempo": "mezza giornata",
         "costo": "Attività 5.000-8.000 LKR (dal viaggio del 2023)"
       }
@@ -758,7 +758,7 @@ export const destinazioniSriLanka: Destinazione[] = [
     visitataPersonalmente: true,
     introduzione: 'Il treno panoramico da Nuwara Eliya, il Nine Arches Bridge e i belvedere sulle colline del tè più fotografate dello Sri Lanka.',
     percheAndarci: 'Per il treno panoramico più famoso dell\'isola e per i tanti belvedere a due passi dal villaggio.',
-    cosaVedere: ['Il Nine Arches Bridge', 'Lipton\'s Seat', 'Le cascate dei Lover\'s Leap'],
+    cosaVedere: ['Il Nine Arches Bridge', 'Lipton\'s Seat', 'Le cascate di Ravana, a circa 6 km da Ella'],
     cosaFare: [
       'Il treno panoramico Nuwara Eliya-Ella (c\'è la scheda esperienza dedicata)',
       'La zip line Flying Ravana (circa 20€, a 15 minuti da Ella)',
@@ -780,8 +780,9 @@ export const destinazioniSriLanka: Destinazione[] = [
         "nome": "Treno panoramico Nuwara Eliya-Ella",
         "testo": "Il tratto più famoso della ferrovia dell'altopiano, tra vallate di tè a perdita d'occhio. Il treno è arrivato con ore di ritardo e senza niente da mangiare a bordo, ma le immagini dal finestrino sono tra le più belle del viaggio.",
         "come": "Si sale alla stazione di Nanu Oya, per Nuwara Eliya; sulla carta 3 ore, ma gli orari reali sono imprevedibili.",
-        "quando": "Mattina. I biglietti vanno presi con molto anticipo, perché finiscono subito, soprattutto in alta stagione.",
-        "tempo": "3 ore, o molte di più",
+        "quando": "Mattina. I posti riservati si prenotano sul portale ufficiale di Sri Lanka Railways e si ritirano allo sportello con il codice e il passaporto: vanno presi con molto anticipo, perché finiscono subito, soprattutto in alta stagione.",
+        "url": "https://seatreservation.railway.gov.lk/mtktwebslr/",
+        "tempo": "3 ore sulla carta (viaggio del 2023), spesso molte di più",
         "consiglio": "Salire con lo spirito giusto: i ritardi sono la norma. Portare cibo e acqua."
       },
       {
@@ -795,14 +796,14 @@ export const destinazioniSriLanka: Destinazione[] = [
       {
         "nome": "Lipton's Seat",
         "testo": "Il belvedere sulle piantagioni di tè della tenuta di Dambatenne, che porta il nome di Thomas Lipton, il re del tè. Non è a Ella ma sopra Haputale: vale la gita se il cielo è limpido.",
-        "come": "In van o tuk-tuk da Ella fino a Haputale, circa un'ora di strada, poi su per la strada di Dambatenne.",
+        "come": "In van o tuk-tuk da Ella fino a Haputale, poi su per la strada della tenuta di Dambatenne.",
         "quando": "Mattina presto, prima delle nuvole.",
         "tempo": "mezza giornata da Ella"
       },
       {
         "nome": "Zip line Flying Ravana",
-        "testo": "Una zip line doppia lunga 550 metri, tra le colline sopra Ella. Parte da Mini Adam's Peak, sulla strada per Little Adam's Peak, e si scende in coppia sopra le piantagioni di tè.",
-        "come": "In tuk-tuk da Ella, circa 15 minuti.",
+        "testo": "Una zip line su due cavi lunga 550 metri, tra le colline sopra Ella. Si parte da Mini Adam's Peak e si scende sopra le piantagioni di tè.",
+        "come": "In tuk-tuk da Ella, pochi minuti (circa 15 nel viaggio del 2023).",
         "url": "https://www.flyingravana.com/",
         "tempo": "1 ora e mezza",
         "costo": "Circa 20 € (dal viaggio del 2023)"
@@ -822,7 +823,7 @@ export const destinazioniSriLanka: Destinazione[] = [
         "titolo": "2 giorni",
         "tappe": [
           "Giorno 1: treno panoramico e Nine Arches Bridge",
-          "Giorno 2: Lipton's Seat all'alba (un'ora di strada, verso Haputale), poi zip line e massaggio nel pomeriggio"
+          "Giorno 2: Lipton's Seat all'alba (sopra Haputale), poi zip line e massaggio nel pomeriggio"
         ]
       }
     ],
@@ -889,7 +890,7 @@ export const destinazioniSriLanka: Destinazione[] = [
     doveMangiare: 'Cena in spiaggia (abbiamo preso il red snapper: servizio lento ma cena ottima); Steffi\'s Mandala (vegetariano) o Thambili Cafe a pranzo; Sea Salt Society o Canal View a cena.',
     comeArrivare: 'Circa 2h15-2h40 di trasferimento da Ella, passando dal safari a Yala.',
     comeSpostarsi: 'A piedi in spiaggia.',
-    periodoMigliore: 'novembre, anche se sulla costa comincia già la bassa stagione per le piogge',
+    periodoMigliore: 'novembre, quando ci siamo stati, anche se tra un monsone e l\'altro sulla costa possono arrivare piogge e temporali',
     costi: 'Safari a Yala 12.000-16.000 LKR a jeep, più l\'ingresso (27-30€ a persona) e la mancia.',
     erroriDaEvitare: ['Fidarsi dei "pescatori sui pali" lungo la costa sud: ormai sono quasi sempre una messa in scena a pagamento per turisti'],
     miaEsperienza:
@@ -901,7 +902,7 @@ export const destinazioniSriLanka: Destinazione[] = [
         "come": "In jeep con guida, sulla strada da Ella a Hikkaduwa; il safari dura alcune ore.",
         "quando": "Primo mattino o tardo pomeriggio, quando gli animali sono attivi.",
         "tempo": "4 ore",
-        "costo": "Jeep 12.000-16.000 LKR, più l'ingresso (27-30 € a persona) e la mancia (dal viaggio del 2023); l'ingresso base è circa 25 USD più tasse (dato 2024)",
+        "costo": "Jeep 12.000-16.000 LKR, più l'ingresso (27-30 € a persona) e la mancia (dal viaggio del 2023); l'ingresso base è circa 25 USD per gli adulti stranieri, più tasse, servizio e veicolo (2026)",
         "consiglio": "I leopardi non sono garantiti: chiedere all'autista dove sono stati avvistati."
       },
       {
@@ -966,7 +967,7 @@ export const destinazioniSriLanka: Destinazione[] = [
     ],
     attenzioni: [
       "Non fidarsi dei «pescatori sui pali» lungo la costa sud: ormai sono quasi sempre una messa in scena a pagamento per turisti.",
-      "A novembre sulla costa sud comincia la bassa stagione per le piogge: mare mosso e correnti.",
+      "A ottobre e novembre, tra i due monsoni, sulla costa sud possono arrivare temporali e mare mosso: chiedere in hotel prima di fare il bagno.",
       "Safari a Yala: scegliere operatori che rispettano le distanze dagli animali e i limiti di jeep intorno agli avvistamenti.",
       "Correnti e onde alte nel sud: nuotare dove ci sono altre persone e rispettare le bandiere."
     ],

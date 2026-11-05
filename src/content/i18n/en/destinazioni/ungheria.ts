@@ -48,26 +48,26 @@ export const destinazioniUngheria: Destinazione[] = [
     luoghi: [
       {
         nome: "Buda Castle and Royal Palace",
-        testo: "Buda Hill above the Danube, with the Royal Palace, today home to museums (National Gallery, History Museum). You go up by the Sikló funicular or on foot.",
-        come: "Funicular from Clark Ádám tér or bus 16 from Széll Kálmán tér.",
-        quando: "Morning, to avoid the groups; the courtyards are free.",
+        testo: "Buda Hill above the Danube, with the Royal Palace, today home to museums (Hungarian National Gallery, Budapest History Museum, National Széchényi Library). You go up by the Sikló funicular or on foot.",
+        come: "Sikló funicular from Clark Ádám tér, next to the Chain Bridge, or on foot.",
+        quando: "Morning, to avoid the groups.",
         tempo: "2-3 hours",
         consiglio: "From the south side of the hill you get the best view of the Danube."
       },
       {
         nome: "Fisherman's Bastion and Matthias Church",
-        testo: "The Bastion is a neo-Romanesque terrace of 1902 (never a real bastion) with seven turrets recalling the Magyar tribes. Next to it, Matthias Church has a roof of coloured tiles.",
+        testo: "The Bastion is a neo-Romanesque terrace built between 1895 and 1902 (never a real bastion), with seven turrets for the seven Magyar tribes that settled in the Carpathian Basin. Next to it, Matthias Church has a roof of coloured tiles.",
         come: "On foot from the Castle (5 minutes).",
         quando: "Dawn or evening, for photos without crowds; lots of people in the middle of the day.",
         tempo: "1-1.5 hours",
         url: "https://www.fishermansbastion.com",
-        consiglio: "The lower terraces are free; only the upper part has a ticket."
+        consiglio: "Part of the terraces is ticketed: prices and hours on the official site."
       },
       {
         nome: "Hungarian Parliament",
-        testo: "Completed in 1904, among the largest parliaments in the world, in neo-Gothic style on the Danube. The guided visit includes the Holy Crown of St Stephen.",
+        testo: "Completed in 1904, it is the largest building in Hungary (268 metres long), neo-Gothic on the Danube. It can only be visited on a guided tour, which passes through the central hall where the Holy Crown has been displayed since 2000.",
         come: "Tram 2 or metro M2 to Kossuth Lajos tér. Tickets are booked online for a time.",
-        quando: "Morning; bring ID.",
+        quando: "Morning; there is a security check at the entrance.",
         tempo: "1 hour",
         url: "https://www.parlament.hu",
         consiglio: "Book days ahead, especially in high season."
@@ -83,29 +83,28 @@ export const destinazioniUngheria: Destinazione[] = [
       },
       {
         nome: "Széchenyi Baths",
-        testo: "The largest thermal complex in Europe, with 18 pools and water between 27 and 38 degrees, in a yellow neo-baroque building in Városliget. Locals and tourists mix.",
+        testo: "One of the largest spa complexes in Europe, opened in 1913: 15 indoor and 3 outdoor pools, the outdoor ones between 27 and 38 degrees, in a yellow neo-baroque building in Városliget. Locals and tourists mix.",
         come: "Metro M1 to Széchenyi fürdő.",
         quando: "Weekday morning; summer evenings have parties.",
         tempo: "3-4 hours",
         url: "https://www.szechenyibath.hu",
-        consiglio: "Bring flip-flops and a towel, or rent them; cabins are booked at the entrance."
+        consiglio: "Bring flip-flops and a towel. Hours and prices change: check them on the official site, where you can also buy tickets."
       },
       {
         nome: "Great Market Hall",
-        testo: "An early-twentieth-century market with paprika, salamis, strudel and lángos upstairs. Closed on Sunday.",
+        testo: "A covered market opened in 1897, at the end of Váci utca, with paprika, salamis and strudel; upstairs there are food stalls and souvenirs. Closed on Sunday.",
         come: "Tram 47/49 to Fővám tér.",
         quando: "Weekday morning; closed on Sunday.",
         tempo: "1-1.5 hours",
-        url: "https://www.csarnok.hu",
         consiglio: "Pay in forints, the exchange counters here are expensive."
       },
       {
         nome: "Dohány Street Synagogue",
-        testo: "The largest synagogue in Europe, in Moorish style, with the memorial garden and the Tree of Life sculpture. It is part of the Jewish quarter.",
+        testo: "The largest synagogue in Europe, about 3,000 seats, in Moorish Revival style. In the courtyard is the Raoul Wallenberg memorial park with Imre Varga's Tree of Life, a metal willow with the victims' names on its leaves.",
         come: "Metro M2 to Astoria or tram 47/49.",
-        quando: "Closed on Saturday and holidays; weekday morning.",
+        quando: "Weekday morning; closing days on the official site.",
         tempo: "1.5 hours",
-        consiglio: "Combined ticket for synagogue and museum."
+        consiglio: "The complex also includes the Hungarian Jewish Museum."
       },
       {
         nome: "Jewish quarter and ruin bars",
@@ -113,7 +112,7 @@ export const destinazioniUngheria: Destinazione[] = [
         come: "On foot from the centre.",
         quando: "Evening.",
         tempo: "2-3 hours",
-        consiglio: "Szimpla Kert on Sundays also has a farmers' market."
+        consiglio: "By day Szimpla Kert is quieter and easier to look around."
       }
     ],
     programmi: [
@@ -180,11 +179,11 @@ export const destinazioniUngheria: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Taxis: use Bolt or Főtaxi, avoid those without a meter near stations.",
-      "Bars with a 'consumption' charge in central Pest: venues that inflate the bill; better to choose bars with a displayed menu.",
+      "Taxis: use well-known companies; be wary of drivers who recommend a bar or club, some work with venues that inflate the bill.",
+      "Bars and restaurants that inflate the bill, sometimes walking tourists to a cash machine: always ask for the menu with prices before ordering.",
       "Exchange: use bank ATMs and refuse to be charged in euros.",
       "Public transport: tickets to be validated or with the BudapestGO app; inspectors fine tourists.",
-      "Service (12-15%) is often already included: check the bill."
+      "Service is sometimes already included: check the bill."
     ],
     esperienzeSlugs: ['terme-szechenyi', 'terme-gellert', 'crociera-danubio', 'ruin-bar-tour'],
     tripSlugs: ['budapest-weekend'],

@@ -15,7 +15,7 @@ export const destinazioniFilippine: Destinazione[] = [
     cosaVedere: [
       'The Big Lagoon at Miniloc (Tour A) and the Small Lagoon (Tour D)',
       'Hidden Beach, Secret Beach and Matinloc Shrine (Tour C)',
-      'Nacpan Beach and Twin Beach',
+      'Nacpan Beach',
       'Taraw Cliff from the Canopy Walk, the via ferrata above the town',
     ],
     cosaFare: [
@@ -27,14 +27,14 @@ export const destinazioniFilippine: Destinazione[] = [
       "The town (El Nido town) for prices and restaurants, Corong-Corong for sunsets and calm, Nacpan and Lio for quieter beaches. Budget: hostels and guesthouses in town · mid-range: hotels in Corong-Corong · luxury: El Nido's private island resorts.",
     doveMangiare: "Grilled fish and kinilaw (raw fish marinated in vinegar) in town; adobo, sinigang and lechon in the carinderias.",
     comeArrivare:
-      "Cebgo (formerly AirSwift) flights to Lio airport from Clark, Cebu, Coron, Caticlan and Bohol: since 29 March 2026 they no longer leave from Manila. Otherwise a flight to Puerto Princesa and a 5-6 hour shared van (about 720-790 PHP, 2026); fast craft from Coron (3.5-4 hours).",
+      "Cebgo (formerly AirSwift) flights to Lio airport from Clark, Cebu, Coron, Caticlan and Bohol: since 29 March 2026 they no longer leave from Manila. Otherwise a flight to Puerto Princesa and a shared van of about 5-5.5 hours (about 720-790 PHP, 2026); fast craft from Coron (about 3.5 hours).",
     comeSpostarsi: "Tricycles and rental scooters; tour boats from the port and from Corong-Corong.",
     periodoMigliore: "January to April; between July and October many tours are canceled because of the sea",
     costi:
       "Environmental fee (ETDF) 400 PHP valid for 10 days; island hopping tours 1,200-1,800 PHP per person with lunch, plus site entrance fees (Big Lagoon and Small Lagoon 200 PHP each, with capped numbers); two-seat kayak 300-400 PHP extra (indicative prices, 2026).",
     erroriDaEvitare: [
       "Booking Tour A at the last minute in high season: entries to the Big Lagoon are in limited time slots",
-      "Arriving without cash: ATMs are few and often empty",
+      "Arriving without cash: cards are not accepted everywhere and the ATMs often run out of cash at weekends",
     ],
     luoghi: [
       {
@@ -48,17 +48,17 @@ export const destinazioniFilippine: Destinazione[] = [
       },
       {
         "nome": "Tour C: Hidden Beach, Secret Beach and Matinloc",
-        "testo": "The hidden beaches tour: Hidden Beach and Secret Beach are reached by swimming or wading through shallow water inside rock walls. Then the Matinloc shrine and snorkelling on the reefs around Helicopter Island.",
+        "testo": "The hidden beaches tour: Hidden Beach and Secret Beach are reached by swimming or wading through shallow water inside rock walls. Then the Matinloc shrine (optional entry, about 200 PHP) and Helicopter Island. It is the route most exposed to the open sea and the first to be cancelled when the weather turns.",
         "come": "By bangka with a licensed operator; lunch on board or on a beach.",
-        "quando": "Morning. At low tide the entrance to Secret Beach is easier.",
+        "quando": "Morning. In rough seas Tour C is the first to be cancelled: keep a spare day.",
         "tempo": "a full day",
         "costo": "Tour roughly 1,400-1,800 PHP per person with lunch (indicative, 2026)",
         "consiglio": "Tour D goes to the Small Lagoon and Cadlao, Tour B to Pinagbuyutan and Snake Island: they are usually less crowded, so pick them if A and C are full."
       },
       {
         "nome": "Nacpan Beach",
-        "testo": "Four kilometres of pale sand and palms on the west coast, linked to Twin Beach by a trail. It is calmer than the beaches near town and good for sunset.",
-        "come": "By tricycle or scooter from El Nido, about 40 minutes on a partly unpaved road.",
+        "testo": "Four kilometres of pale sand and palms, about 17 km north of town. It is calmer than the beaches near town and good for sunset.",
+        "come": "By tricycle or scooter from El Nido, about 45 minutes.",
         "quando": "Afternoon until sunset.",
         "tempo": "half a day",
         "costo": "Beach free; tricycle round trip with waiting 700-1,500 PHP per vehicle, up to about four people, agreed in advance (indicative, 2026)",
@@ -66,10 +66,10 @@ export const destinazioniFilippine: Destinazione[] = [
       },
       {
         "nome": "Taraw Cliff and Canopy Walk",
-        "testo": "The limestone wall above the town, with the widest view over El Nido and Bacuit Bay. The free climb to the summit has been marked by accidents, and the DENR, the environment agency, has not authorised any guides or operators. The official alternative is the Canopy Walk (El Nido Via Ferrata): walkways and hanging bridges over the rocks, with a harness and a guide.",
+        "testo": "The limestone wall above the town, with the widest view over El Nido and Bacuit Bay. The free climb to the summit has been marked by accidents, and the DENR, the environment agency, has not authorised any guides or operators. The official alternative is the Canopy Walk (El Nido Via Ferrata): walkways and hanging bridges over the rocks, done in a harness.",
         "come": "On foot from the Canopy Walk entrance in town; you go up in a group with the harness provided.",
-        "quando": "Early morning or late afternoon, because of the heat.",
-        "tempo": "1-2 hours",
+        "quando": "Usually open daily from 8 am to 5 pm; best early or in the late afternoon, because of the heat.",
+        "tempo": "about 1.5 hours",
         "costo": "Canopy Walk about 400-450 PHP (indicative, 2026)",
         "consiglio": "Wear shoes with good grip: the rock is sharp and slippery when wet. Turn down anyone offering the summit climb on their own."
       }
@@ -139,7 +139,7 @@ export const destinazioniFilippine: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "Cash: ATMs in El Nido are few and often empty. Withdraw in Manila or Cebu before leaving.",
+      "Cash: outside the bigger operators cards are rarely accepted, and the ATMs in town often run out of cash at weekends. Arrive with pesos already withdrawn.",
       "The tour price does not always include the environmental fee (ETDF, 400 PHP, valid 10 days) or site entries: ask what is included before paying.",
       "Rough sea: from July to October boat trips are suspended. Keep a spare day before your flight.",
       "Board only boats with life jackets on board, and give up when the coast guard suspends departures."
@@ -177,7 +177,7 @@ export const destinazioniFilippine: Destinazione[] = [
     comeSpostarsi: "Tricycles in town, tour boats from the port.",
     periodoMigliore: 'December to May',
     costi:
-      "Island hopping tours roughly 1,500-2,500 PHP per person with lunch, plus the entrance fee for each site, cash only (Kayangan about 300 PHP, Barracuda 200-250, Twin Lagoon 200); two wreck dives roughly 4,000-5,500 PHP (indicative prices, 2026).",
+      "Island hopping tours roughly 1,000-1,500 PHP per person with lunch, plus the entrance fee for each site, cash only (Kayangan about 300 PHP, Barracuda 200-250, Twin Lagoon 200); wreck dives with the dive centres in Coron town (indicative prices, 2026).",
     erroriDaEvitare: [
       "Going to Kayangan in mid-morning, when all the boats arrive together",
       "Diving the interior wrecks without proper certification and training",
@@ -185,8 +185,8 @@ export const destinazioniFilippine: Destinazione[] = [
     luoghi: [
       {
         "nome": "Kayangan Lake",
-        "testo": "A lake of fresh and brackish water enclosed by limestone rock, among the cleanest in the Philippines. From the viewpoint on the entrance stairs you see the bay: it is the symbol image of Coron.",
-        "come": "By boat on the island-hopping tours; from the landing a climb of more than 150 steep steps to the viewpoint. In some areas you swim with a life jacket, by regulation.",
+        "testo": "A lake of fresh and brackish water enclosed by limestone rock. From the viewpoint on the entrance stairs you see the bay: it is the symbol image of Coron.",
+        "come": "By boat on the island-hopping tours; from the landing a steep staircase up to the viewpoint. A life jacket is mandatory for swimming in the lake.",
         "quando": "At opening time or late in the day: around mid-morning all the boats arrive together.",
         "tempo": "1 hour",
         "costo": "Entry about 300 PHP, cash, on top of the tour (indicative, 2026)",
@@ -202,9 +202,9 @@ export const destinazioniFilippine: Destinazione[] = [
       },
       {
         "nome": "Twin Lagoon",
-        "testo": "Two lagoons separated by a rock wall. You pass from one to the other by swimming under the rock, or on foot at low tide; the water is colder on top and warmer below.",
+        "testo": "Two lagoons separated by a rock wall. You pass from one to the other by swimming through a narrow gap in the rock.",
         "come": "By boat on island-hopping tours.",
-        "quando": "At low tide the passage is easier.",
+        "quando": "Early, before the tour boats arrive.",
         "tempo": "45 minutes",
         "costo": "Entry about 200 PHP, extra (indicative, 2026)"
       },
@@ -213,15 +213,15 @@ export const destinazioniFilippine: Destinazione[] = [
         "testo": "About ten Japanese ships sunk by American carrier aircraft on 24 September 1944, now covered in coral. The best known are the Okikawa Maru, the Akitsushima and the Irako. The Skeleton Wreck lies a few metres down and can also be seen snorkelling.",
         "come": "With the dive centres in Coron town, which run two-dive outings. Deep wrecks need at least an Advanced certification; penetrations only with proper training.",
         "tempo": "a full day",
-        "costo": "Two dives roughly 4,000-5,500 PHP with equipment (indicative, 2026)"
+        "costo": "Prices and packages at the dive centres in Coron town"
       },
       {
         "nome": "Mount Tapyas and Maquinit hot springs",
-        "testo": "More than 700 steps above the town for a sunset view over the bay. In the evening, the Maquinit hot springs, in a rock pool near the sea.",
+        "testo": "More than 700 steps above the town for a sunset view over the bay. In the evening, the Maquinit hot springs near the sea: one of the few saltwater hot springs in the world.",
         "come": "You climb Tapyas on foot from town; Maquinit by tricycle.",
         "quando": "Tapyas at sunset, Maquinit after dinner or at sunset.",
         "tempo": "2-3 hours in all",
-        "costo": "Tapyas free; Maquinit about 150-200 PHP, plus a 250-300 PHP tricycle round trip (indicative, 2026)"
+        "costo": "Entry fees and tricycle in cash: prices on site; agree the tricycle fare in advance"
       }
     ],
     programmi: [
@@ -310,13 +310,13 @@ export const destinazioniFilippine: Destinazione[] = [
     cosaFare: [
       'Snorkeling from shore with the sardines and turtles',
       'Canyoning in the Kawasan gorges',
-      'Diving the Pescador wall',
+      'Diving at Pescador Island',
     ],
     doveDormire: "Panagsama Beach in Moalboal, with guesthouses and small resorts right on the reef.",
-    comeArrivare: "Mactan-Cebu airport, then 3 hours by private car or 4 by Ceres bus from the South Bus Terminal.",
+    comeArrivare: "Mactan-Cebu airport, then about 105 km south: 3-4 hours by Ceres bus from the South Bus Terminal or by car, depending on traffic.",
     comeSpostarsi: "Tricycles and scooters; boats to Pescador.",
     periodoMigliore: 'December to May',
-    costi: "Canyoning at Kawasan roughly 2,000-3,000 PHP with a guide; snorkeling from shore free or with a small fee; a dive 1,500-2,000 PHP (indicative prices, 2026).",
+    costi: "Canyoning at Kawasan about 2,000 PHP per person with a guide, plus about 100 PHP for the mandatory shuttle; snorkeling from shore free, you only pay for gear rental (indicative prices, 2026).",
     erroriDaEvitare: [
       "Going to Oslob to swim with whale sharks: the animals are fed to keep them there, and marine biologists criticize this practice",
       "Touching the turtles or chasing them in the water",
@@ -325,27 +325,27 @@ export const destinazioniFilippine: Destinazione[] = [
       {
         "nome": "Sardine ball at Panagsama Beach",
         "testo": "Millions of sardines moving like a single cloud a few metres from shore. You swim among them with mask and fins, no boat needed. Sea turtles are often seen along the same reef.",
-        "come": "You enter from the shore or from the steps of the Panagsama Beach restaurants.",
+        "come": "You enter from Panagsama beach: the school is a few dozen metres from shore. Mask and fins can be rented at the dive shops.",
         "quando": "Early morning, with the best light and fewer people.",
         "tempo": "1-2 hours",
-        "costo": "Free from shore or with a small fee at the venue (indicative, 2026)",
+        "costo": "Free; you only pay for mask and fin rental",
         "consiglio": "Do not touch or chase the turtles, and do not kick: the school scatters."
       },
       {
         "nome": "Pescador Island",
-        "testo": "A small island off Panagsama with a coral wall dropping into the blue. Snorkellers stay over the top of the reef, while divers follow the wall. In calm seas the water is very clear: it is Moalboal's second classic outing after the sardines.",
+        "testo": "A small island about 3 km off the coast, Moalboal's best-known dive site, with an underwater cave called the Cathedral. Turtles are often seen around it, and snorkellers stay over the reef. It is Moalboal's second classic outing after the sardines.",
         "come": "By boat from Panagsama Beach.",
         "quando": "Afternoon or morning, with calm sea.",
         "tempo": "half a day",
-        "costo": "Boat roughly 1,500-2,500 PHP (indicative, 2026)"
+        "costo": "Boat price to agree with the dive shops or boatmen in Panagsama"
       },
       {
         "nome": "Canyoning at Kawasan Falls",
-        "testo": "You descend the Matutinao river for a few hours, with jumps from rocks of 3 to 10 metres (the high ones are optional), natural slides and swimming stretches, down to the turquoise falls.",
-        "come": "From Moalboal to Badian in about 45 minutes. You go with a guide, with helmet and life jacket.",
+        "testo": "You descend the river gorge for a few hours, with jumps from the rocks (the high ones are optional), natural slides and swimming stretches, down to the turquoise falls. In 2023 the Province of Cebu revoked the permits of unlicensed operators: go only with authorised guides.",
+        "come": "From Moalboal to Badian, about 20 km, in 30-40 minutes. You go with a guide, with helmet and life jacket.",
         "quando": "Leave early to avoid the crowds.",
         "tempo": "half a day or a little more",
-        "costo": "Canyoning with guide, helmet and life jacket roughly 2,000-3,000 PHP; some packages exclude entry fees and transport (indicative, 2026)",
+        "costo": "About 2,000 PHP per person with guide, helmet and life jacket, plus about 100 PHP for the mandatory shuttle; packages with transfers cost more (indicative, 2026)",
         "consiglio": "Closed water shoes and no valuables."
       },
       {
@@ -376,7 +376,7 @@ export const destinazioniFilippine: Destinazione[] = [
         "tappe": [
           "Day 1: sardines and turtles",
           "Day 2: Kawasan",
-          "Day 3: dives on the Pescador wall"
+          "Day 3: dives at Pescador"
         ]
       }
     ],
@@ -442,11 +442,11 @@ export const destinazioniFilippine: Destinazione[] = [
     ],
     cosaFare: ["A loop of the island by scooter or with a driver", 'Snorkeling or diving at Balicasag', "A dawn outing for the dolphins"],
     doveDormire: "Panglao, at Alona Beach or in the quieter bays of Dumaluan and Doljo.",
-    comeArrivare: "OceanJet fast ferry from Cebu to Tagbilaran (2 hours), or a flight to Panglao airport.",
+    comeArrivare: "OceanJet fast ferry from Cebu to Tagbilaran, or a flight to Panglao airport.",
     comeSpostarsi: "Scooter, tricycle or a car with a driver for the day.",
     periodoMigliore: 'December to May',
     costi:
-      "Chocolate Hills 100-150 PHP and tarsier sanctuary around 80-150 PHP; car with driver for the island loop 2,500-3,500 PHP; Balicasag outing 1,500-2,500 PHP per boat (indicative prices, 2026).",
+      "Chocolate Hills: fee at the ticket office, because the rise to 150 PHP for adults is on hold; an entry ticket at the tarsier sanctuary; car with driver and boats to Balicasag to agree in advance, with the marine site fees paid in cash (2026).",
     erroriDaEvitare: [
       "Visiting tarsiers at the fake “sanctuaries” along the road: they're nocturnal animals and the visits stress them; the Corella center is the one run by the foundation",
       "Using flash on the tarsiers",
@@ -454,34 +454,34 @@ export const destinazioniFilippine: Destinazione[] = [
     luoghi: [
       {
         "nome": "Chocolate Hills",
-        "testo": "Cone-shaped limestone hills covered in grass, 1,776 according to the 1997 decree that protected them, spread across Carmen, Batuan and Sagbayan. In the dry season the grass turns brown, hence the name. You view them from above, from the terrace of the Carmen complex.",
-        "come": "By car with a driver on the inland loop, about 1.5 hours from Panglao; Carmen is about 55 km from Tagbilaran. A staircase of 214 steps leads to the viewpoint.",
+        "testo": "Cone-shaped limestone hills covered in grass, 1,776 according to the 1997 decree that protected them, spread across Carmen, Batuan and Sagbayan. From March to May the dry grass turns brown, hence the name; from June it turns green again. You view them from above, from the terrace of the Carmen complex.",
+        "come": "By car with a driver on the inland loop, Carmen is about 55 km from Tagbilaran. A staircase of 214 steps leads to the viewpoint.",
         "quando": "Late afternoon, for the softest light; by mid-morning the terrace is crowded.",
         "tempo": "1 hour",
-        "costo": "Entry 100-150 PHP in cash: the rise to 150 PHP planned by Carmen for October 2025 has been put on hold (indicative, 2026)"
+        "costo": "Entry in cash, fee at the ticket office: the rise to 150 PHP for adults set by a Carmen ordinance has been on hold since September 2025, with no new date (2026)"
       },
       {
         "nome": "Philippine Tarsier Sanctuary, Corella",
-        "testo": "A forest sanctuary run by a foundation, where you see the Philippine tarsier, one of the smallest primates in the world, a nocturnal animal that sleeps by day.",
+        "testo": "A forest sanctuary run by the Philippine Tarsier Foundation, where you see the Philippine tarsier, one of the smallest primates in the world, a nocturnal animal that sleeps by day.",
         "come": "By car with a driver on the same inland loop; you walk quietly along a trail.",
         "quando": "Morning, when the animals are asleep.",
         "tempo": "45 minutes",
-        "costo": "Small entry ticket, 80-150 PHP depending on the source: check on site (indicative, 2026)",
+        "costo": "Entry ticket: fee at the ticket office",
         "consiglio": "No flash and keep your voice down. Avoid the fake sanctuaries along the road with caged tarsiers."
       },
       {
         "nome": "Loboc River and colonial churches",
-        "testo": "You go up the Loboc River on floating platforms with a buffet lunch, between palms and green water. It is a very touristy stop, but relaxing after the hills. On the same road stand the colonial stone churches of Loboc and Baclayon, among the oldest on the island.",
+        "testo": "The Loboc River is known for its lunch cruises, between palms and green water: a very touristy stop, but relaxing after the hills. On the same road stand two Jesuit colonial churches: Loboc, rebuilt in the 18th century after the fire of 1638, and Baclayon, in coral stone, consecrated in 1727 in the oldest Christian settlement on Bohol.",
         "come": "On the inland loop with a driver.",
         "tempo": "1-2 hours"
       },
       {
         "nome": "Balicasag and Virgin Island",
-        "testo": "Balicasag is a small marine sanctuary with a coral wall and many turtles, excellent for snorkelling and diving. Virgin Island is a sandbar that emerges mid-sea at low tide. Dolphins are often seen in the channel at dawn.",
+        "testo": "Balicasag is a marine sanctuary: the shallow reef ends in cliffs dropping below 30 metres, with turtles and schools of fish, excellent for snorkelling and diving. Virgin Island is a sandbar that emerges at low tide. Many tours leave at dawn to look for dolphins, though sightings are not guaranteed.",
         "come": "By boat from Panglao, leaving at dawn for the dolphins.",
         "quando": "Leave at dawn; Virgin Island at low tide.",
         "tempo": "half a day",
-        "costo": "Boat roughly 1,500-2,500 PHP, plus site fees; two dives at Balicasag 3,000-4,000 PHP (indicative, 2026)"
+        "costo": "Boat price to agree; on top, in cash, the sanctuary fee, the mandatory small boat at Balicasag and the Virgin Island landing fee"
       }
     ],
     programmi: [
@@ -557,16 +557,16 @@ export const destinazioniFilippine: Destinazione[] = [
       'The islands of Naked, Daku and Guyam',
       'Sugba Lagoon in Del Carmen',
       'The Magpupungko rock pools at low tide',
-      'The road through the palm groves of Coconut Road',
+      'The coconut groves of the interior, by scooter',
     ],
     cosaFare: ['Surf lessons for beginners', "A loop of the island by scooter", 'Paddleboarding in Sugba Lagoon'],
     doveDormire: "General Luna, along the Tourism Road and toward Cloud 9; Pacifico for those seeking a quieter village.",
     doveMangiare: "International places in General Luna, grilled fish and carinderias outside the center.",
     comeArrivare: "Direct flights to Sayak (in Del Carmen) from Cebu, Clark and Davao; there are no longer direct flights from Manila, so you connect via Clark or Cebu. Then about 45 minutes to General Luna (shared van about 300 PHP, 2026).",
     comeSpostarsi: "Rental scooter or habal-habal (motorbike taxi); shared vans for the airport.",
-    periodoMigliore: 'March to October for calm seas; surf with big waves from September to November; December to February wind and rain',
+    periodoMigliore: 'April to August for boat trips; surf from September to November; the heaviest rain from November to January',
     costi:
-      "Island hopping roughly 1,000-2,000 PHP per person on shared tours; surf lesson 500-1,000 PHP with instructor and board; scooter 350-500 PHP a day (indicative prices, 2026).",
+      "Island hopping to Naked, Daku and Guyam about 1,700-2,200 PHP per person on shared tours; basic surf lesson about 600 PHP an hour; scooter 350-500 PHP a day (indicative prices, 2026).",
     erroriDaEvitare: [
       "Riding a scooter without experience, or at night: accidents are the number one problem for tourists on the island",
       "Going to Magpupungko at high tide, when the pools can't be seen",
@@ -574,36 +574,36 @@ export const destinazioniFilippine: Destinazione[] = [
     luoghi: [
       {
         "nome": "Cloud 9",
-        "testo": "The wave that made Siargao famous, with a wooden boardwalk and a tower over the General Luna reef. It is the surfers' landmark.",
+        "testo": "The wave that made Siargao famous, with a wooden boardwalk and a tower over the General Luna reef. It is the surfers' landmark. Since April 2026 the tower has been under reconstruction: check whether it is open.",
         "come": "A few minutes from General Luna, by scooter or on foot along the Tourism Road.",
         "quando": "Surf: September to November, big waves for experts. Morning to watch the waves.",
         "tempo": "1 hour",
-        "costo": "Beginner surf lesson 500-1,000 PHP with instructor and board (indicative, 2026)"
+        "costo": "Basic surf lesson about 600 PHP an hour; private coaching costs more (indicative, 2026)"
       },
       {
         "nome": "Naked, Daku and Guyam",
-        "testo": "Three islands half an hour from General Luna: Naked Island, a sandbar without a single tree; Daku, the largest, with a fishing village and a grilled-fish lunch; Guyam, a round islet with palms.",
+        "testo": "Three islands off General Luna: Naked Island, a sandbar without a single tree; Daku, where lunch is usually grilled fish; Guyam, a round islet with palms.",
         "come": "Island-hopping tour by boat from General Luna.",
-        "quando": "Morning, in calm seas, in the March to October season.",
+        "quando": "Morning, in calm seas; the best period for boat trips is April to August.",
         "tempo": "half a day",
-        "costo": "Shared tour 1,000-2,000 PHP per person; private boat 3,000-4,000 PHP, plus small fees on the islands (indicative, 2025-2026)"
+        "costo": "Shared tour about 1,700-2,200 PHP per person; ask beforehand whether lunch, island fees and transfers are included (indicative, 2026)"
       },
       {
         "nome": "Sugba Lagoon",
         "testo": "A green-blue lagoon among mangroves and limestone rocks, at Del Carmen. You get there only by boat, along the mangrove channels. You paddle board, swim or jump into the water from the wooden platform in the middle.",
-        "come": "In the north of the island, by boat from Del Carmen; a day trip from General Luna.",
+        "come": "By boat from Del Carmen; from General Luna it takes most of a day. Access sometimes closes for maintenance: check before going.",
         "tempo": "half a day"
       },
       {
         "nome": "Magpupungko rock pools",
-        "testo": "Natural seawater pools among the rocks of Pilar, on the east coast, which appear at low tide. The water is clear, there are fish and people jump from the rocks. At high tide the waves cover them and there is almost nothing to see.",
+        "testo": "Natural seawater pools among the rocks of Pilar, on the east coast, which appear at low tide. At high tide the waves cover them and there is almost nothing to see.",
         "come": "By scooter or with a driver from town, on the east coast.",
         "quando": "At low tide: at high tide the pools are not visible.",
         "tempo": "2-3 hours"
       },
       {
-        "nome": "Coconut Road",
-        "testo": "A straight road between coconut palm groves, to ride by scooter: the most photographed image of the island's interior. From the viewpoint the road opens onto a sea of palms reaching the horizon. Go early in the morning or towards sunset, with less heat and better light.",
+        "nome": "Roads through the palm groves",
+        "testo": "The inland roads cross coconut groves as far as the eye can see, with viewpoints along the way: it is the island's most photographed landscape. Go early in the morning or towards sunset, when it is cooler. For photos pull fully off the road, never on a bend.",
         "come": "By scooter from General Luna.",
         "tempo": "1 hour"
       }
@@ -620,7 +620,7 @@ export const destinazioniFilippine: Destinazione[] = [
         "titolo": "2 days",
         "tappe": [
           "Day 1: island hopping",
-          "Day 2: surf lesson in the morning, then Coconut Road by scooter"
+          "Day 2: surf lesson in the morning, then the inland palm groves by scooter"
         ]
       },
       {
@@ -665,8 +665,8 @@ export const destinazioniFilippine: Destinazione[] = [
     attenzioni: [
       "Scooters: the most common cause of accidents among tourists in Siargao. Helmet, no night riding, insurance that covers the bike.",
       "Magpupungko at high tide: the pools are not visible. Check the tides.",
-      "Season: December to February brings wind and rain; the best period for calm seas is March to October.",
-      "Cash and ATMs: few and sometimes empty at weekends; with a foreign card the local fee is about 250 PHP per withdrawal (BDO), plus your own bank's fee. Withdraw in advance."
+      "Season: the heaviest rain falls from November to January; the best period for boat trips is April to August.",
+      "Cash: withdraw before boat days or trips north and carry small notes; with a foreign card the local fee is about 250 PHP per withdrawal (BDO), plus your own bank's fee."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['filippine-itinerario'],

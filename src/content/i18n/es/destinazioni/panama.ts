@@ -43,7 +43,7 @@ export const destinazioniPanama: Destinazione[] = [
         {
           "nome": "Esclusas de Miraflores",
           "testo": "Las esclusas del Canal de Panamá donde los barcos son elevados y descendidos entre los dos niveles, con centro de visitantes, museo y terraza panorámica.",
-          "come": "Taxi o Uber desde la ciudad de Panamá, unos 20-30 minutos. Entrada en el centro de visitantes.",
+          "come": "Taxi por aplicación o traslado del hotel desde Ciudad de Panamá. Entrada al centro de visitantes.",
           "quando": "Mañana: conviene consultar antes los horarios de tránsito de los barcos, porque sin barco en maniobra se mira una cuenca vacía.",
           "tempo": "2-3 horas",
           "costo": "17,22 USD para no residentes desde 13 años (tarifa oficial de la ACP vigente en 2026).",
@@ -60,8 +60,8 @@ export const destinazioniPanama: Destinazione[] = [
         },
         {
           "nome": "Panamá Viejo",
-          "testo": "Las ruinas de la ciudad original, fundada en 1519 y destruida por piratas en 1671, con la torre de la catedral.",
-          "come": "Taxi desde el centro, unos 15-20 minutos.",
+          "testo": "Las ruinas de la ciudad original, fundada en 1519 y destruida en 1671 durante el asalto del corsario Henry Morgan, por un incendio cuyo autor sigue sin estar claro. Junto con el Casco Viejo es patrimonio UNESCO desde 1997.",
+          "come": "Taxi por aplicación desde el centro.",
           "quando": "Martes a domingo, de 8:30 a 17:30 (taquilla hasta las 16:30); cerrado los lunes. En la mañana, antes del calor.",
           "tempo": "1,5 horas",
           "url": "https://www.patronatopanamaviejo.org/"
@@ -69,10 +69,10 @@ export const destinazioniPanama: Destinazione[] = [
         {
           "nome": "Mercado de Mariscos",
           "testo": "El mercado de pescado cerca del Casco Viejo, con puestos de ceviche servido en vasos.",
-          "come": "A pie desde el Casco Viejo, 10 minutos.",
+          "come": "A pie desde el Casco Viejo.",
           "quando": "Almuerzo.",
           "tempo": "1 hora",
-          "consiglio": "Ceviche en vaso de plástico por un par de dólares."
+          "consiglio": "El ceviche se come en vaso de plástico, en el mostrador, por pocos dólares."
         },
         {
           "nome": "Biomuseo",
@@ -133,9 +133,9 @@ export const destinazioniPanama: Destinazione[] = [
         }
       ],
       "attenzioni": [
-        "Fuera del Casco turístico, después del atardecer, no caminar: usar taxis o apps.",
+        "El Foreign Office británico señala atracos también en el Casco Viejo, Panamá Viejo y la Avenida Central: al anochecer usar taxis por aplicación y no caminar solo por calles mal iluminadas.",
         "Antes de ir a Miraflores consultar los horarios de tránsito de los barcos.",
-        "Taxis sin taxímetro: acordar el precio antes de salir o usar Uber."
+        "Los taxis suelen estar en mal estado y sin taxímetro: mejor las aplicaciones o el transporte del hotel."
       ],
     esperienzeSlugs: ['chiuse-miraflores'],
     tripSlugs: ['centro-america-itinerario'],
@@ -186,7 +186,7 @@ export const destinazioniPanama: Destinazione[] = [
           "come": "En barca desde las islas donde se duerme, en un recorrido de día.",
           "quando": "Mañana, con el mar calmo.",
           "tempo": "1-2 horas",
-          "consiglio": "Se hace snorkel sin botellas: la comunidad prohíbe el buceo con botellas."
+          "consiglio": "Solo snorkel, sin tanques: el buceo con tanque está prohibido en Guna Yala para proteger el arrecife."
         },
         {
           "nome": "Isla Aguja y Cayos Holandeses",
@@ -204,7 +204,7 @@ export const destinazioniPanama: Destinazione[] = [
         },
         {
           "nome": "Pueblos guna y molas",
-          "testo": "Los pueblos guna, donde se compran las molas, textiles tradicionales cosidos a mano. Guna Yala es un territorio autogobernado.",
+          "testo": "Los pueblos guna, donde se compran las molas, los tejidos tradicionales cosidos a mano por las mujeres. Guna Yala es una comarca autónoma, gobernada por el Congreso General Guna y los sahilas de cada comunidad.",
           "come": "Visita desde una de las islas habitadas, con el permiso de los residentes.",
           "quando": "De día.",
           "tempo": "1-2 horas",
@@ -215,7 +215,7 @@ export const destinazioniPanama: Destinazione[] = [
         {
           "titolo": "1 día",
           "tappe": [
-            "Salida al amanecer de la ciudad de Panamá en 4x4 a Cartí",
+            "Salida antes del amanecer desde Ciudad de Panamá en 4x4 hacia Cartí",
             "Barca a las islas, snorkel en Isla Perro",
             "Regreso hacia la noche, a menudo demasiado justo para un solo día"
           ]
@@ -259,8 +259,8 @@ export const destinazioniPanama: Destinazione[] = [
         }
       ],
       "attenzioni": [
-        "La tasa de entrada a Guna Yala se paga a los guna, solo en efectivo: en las islas no hay cajeros ni tarjetas.",
-        "El viaje desde la ciudad de Panamá empieza hacia las 5 y dura casi tres horas en 4x4 por una carretera de montaña empinada: quien se maree que tome un remedio.",
+        "Para entrar en Guna Yala se paga una tasa a la comarca, además del puerto: lleva efectivo, en las islas no hay cajeros.",
+        "El viaje desde Ciudad de Panamá empieza antes del amanecer, con horas de 4x4 por una carretera de montaña empinada: si te mareas, toma algo.",
         "Reglas de la comunidad: pedir permiso antes de fotografiar personas y casas, no llevarse nada de las islas, sin botellas de buceo."
       ],
     esperienzeSlugs: ['notte-isola-san-blas'],
@@ -318,7 +318,7 @@ export const destinazioniPanama: Destinazione[] = [
         },
         {
           "nome": "Cayo Zapatilla",
-          "testo": "Dos islotes deshabitados en el parque marino de Bastimentos, con arena blanca y selva. A menudo la parada más bonita de los tours en barca.",
+          "testo": "Los islotes deshabitados de Cayos Zapatilla, dentro del Parque Nacional Marino Isla Bastimentos (1988), con arena blanca y bosque. A menudo la mejor parada de los tours en barca.",
           "come": "Con tour en barca desde Bocas Town; entrada al parque aparte.",
           "quando": "Mañana, con mar calmo.",
           "tempo": "Media jornada",
@@ -326,7 +326,7 @@ export const destinazioniPanama: Destinazione[] = [
         },
         {
           "nome": "Starfish Beach",
-          "testo": "La playa de las estrellas de mar: se ven en agua de poco más de un metro, y se cumple la promesa del nombre.",
+          "testo": "La playa de las estrellas de mar: se ven en agua poco profunda cerca de la orilla, y el nombre cumple lo que promete.",
           "come": "Parada en los tours en barca o en taxi acuático.",
           "quando": "Mañana.",
           "tempo": "45 minutos-1 hora",
@@ -334,7 +334,7 @@ export const destinazioniPanama: Destinazione[] = [
         },
         {
           "nome": "Cayo Coral e Isla Bastimentos",
-          "testo": "Snorkel en aguas poco profundas en Cayo Coral; Bastimentos tiene el parque nacional marino y Red Frog Beach.",
+          "testo": "Snorkel en agua poco profunda en Cayo Coral. Isla Bastimentos tiene el parque nacional marino y Red Frog Beach, a la que se llega en water taxi.",
           "come": "Tour en barca desde Bocas Town.",
           "quando": "Mañana.",
           "tempo": "Media jornada"
@@ -389,7 +389,7 @@ export const destinazioniPanama: Destinazione[] = [
       ],
       "attenzioni": [
         "Bocas tiene su propio microclima y lluvias, no la estación seca del resto de Panamá.",
-        "Los chitres, mosquitos que pican sin que se note y dejan marcas durante días, infestan las arenas: repelente.",
+        "Las chitras, mosquitas que pican sin que lo notes y dejan marcas durante días, infestan las playas: repelente.",
         "Las salidas a los cayos más externos se cancelan con mar picado."
       ],
     esperienzeSlugs: [],
@@ -439,18 +439,18 @@ export const destinazioniPanama: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Volcán Barú",
-          "testo": "La cumbre más alta de Panamá (3.475 m), desde la que con cielo despejado se ven el Pacífico y el Atlántico a la vez. Subida nocturna para el amanecer.",
-          "come": "Salida hacia la medianoche en pick-up y 4x4 por 13 km de pista de tierra, o a pie con guía.",
+          "testo": "La cima más alta de Panamá (3.475 m), desde donde con cielo despejado se ven el Pacífico y el Caribe a la vez, cosa que pasa pocas veces. Subida nocturna para el amanecer.",
+          "come": "Salida hacia medianoche, a pie con guía por un sendero largo y empinado, o con tours en 4x4 hasta la cima.",
           "quando": "Amanecer, con cielo del todo despejado, es decir pocos días buenos incluso en estación seca.",
           "tempo": "Noche-mañana",
           "consiglio": "Sin la vista de los dos océanos, la subida nocturna con los valles iluminados debajo merece igualmente el esfuerzo. Llevar capas de abrigo."
         },
         {
           "nome": "Sendero Los Quetzales",
-          "testo": "Uno de los mejores lugares del mundo para avistar el quetzal, en el bosque nuboso entre Boquete y Cerro Punta.",
+          "testo": "El sendero más recorrido del parque del Barú, en el bosque nuboso entre Boquete y Cerro Punta, en la ladera del volcán. Es uno de los lugares más conocidos de Panamá para buscar el quetzal.",
           "come": "Sendero de unas horas, con guía o por cuenta propia.",
-          "quando": "Temprano; la mejor época para el quetzal es la temporada de anidación, más o menos abril-junio. El sendero a veces cierra por mal tiempo o árboles caídos (reabierto en noviembre de 2025): verificar con MiAmbiente.",
-          "tempo": "4-5 horas",
+          "quando": "Temprano por la mañana, cuando las aves están más activas. El sendero cierra a veces por mal tiempo o árboles caídos (reabierto en noviembre de 2025): consulta con MiAmbiente.",
+          "tempo": "Unas 6 horas",
           "url": "https://miambiente.gob.pa/"
         },
         {
@@ -463,7 +463,7 @@ export const destinazioniPanama: Destinazione[] = [
         },
         {
           "nome": "Cascadas y Caldera Hot Springs",
-          "testo": "Lost Waterfalls, un recorrido de tres cascadas, y las aguas termales naturales de Caldera.",
+          "testo": "El sendero de las Lost Waterfalls, con varias cascadas en el bosque, y las aguas termales naturales de Caldera, más abajo.",
           "come": "Coche o taxi desde Boquete.",
           "quando": "De día.",
           "tempo": "Media jornada"
@@ -524,7 +524,7 @@ export const destinazioniPanama: Destinazione[] = [
         }
       ],
       "attenzioni": [
-        "El Barú se sube de noche: capas de abrigo, linterna y guía; el frío aumenta con la altura.",
+        "El Barú se sube de noche: capas de abrigo, linterna y guía. Los senderos de montaña de Panamá están mal señalizados, el móvil a menudo no tiene cobertura y ha habido excursionistas desaparecidos: nunca solo.",
         "La vista de los dos océanos desde la cumbre solo se tiene con cielo del todo despejado, en pocos días buenos.",
         "Lluvia y niebla pueden cambiar los planes: dejar un día de margen."
       ],

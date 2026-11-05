@@ -83,27 +83,29 @@ export const destinazioniPortogallo: Destinazione[] = [
       {
         "nome": "Belém: Jerónimos Monastery",
         "testo": "A 16th-century Manueline monastery, UNESCO-listed, with a two-storey cloister covered in maritime decoration and Vasco da Gama's tomb in the church. The south portal is one of Portugal's most elaborate works.",
-        "come": "From the centre by tram 15 or train from Cais do Sodré, about 15 minutes. The church is free, the cloister is paid.",
-        "quando": "Closed on Mondays. Arrive at opening, the queue forms around 11.",
+        "come": "From the centre by tram 15 or by train from Cais do Sodré to Belém. The ticket is for the cloister; the church keeps its own hours.",
+        "quando": "Cloister Tuesday to Sunday 9:30-17:30, last entry at 17:00. Closed on Mondays, 1 January, Easter Sunday, 1 May, 13 June and 25 December. Arrive at opening: by late morning the queue grows.",
         "tempo": "1.5 hours",
-        "url": "https://www.museusemonumentos.pt/",
-        "consiglio": "Buy the ticket online to skip the main queue; the church can be seen free separately."
+        "url": "https://mosteirojeronimos.torrebelem.gov.pt/",
+        "costo": "Cloister €18, 2026 (official site)",
+        "consiglio": "Buy the ticket from the official online ticket office to skip the queue at the desk. The church has a separate entrance from the cloister and is worth it on its own, for Vasco da Gama's tomb."
       },
       {
         "nome": "Belém Tower",
-        "testo": "A Manueline fortress of 1514-1520 on the Tagus, UNESCO-listed. The city's symbol: bastions, loggia and a terrace with river views. Inside the rooms are small and the climb narrow.",
-        "come": "A 10-minute walk from the Jerónimos along the river. Tram 15 and the train stop nearby.",
-        "quando": "Closed on Mondays. Check on the site whether it is open: works are possible. Sunset lights it well from outside.",
+        "testo": "A Manueline fortress on the Tagus, built between 1514 and 1519 and UNESCO-listed together with the Jerónimos. The city's symbol: bastions, loggia and a terrace with river views. Inside the rooms are small and the climb narrow.",
+        "come": "On foot from the Jerónimos along the river. Tram 15 and the train stop nearby.",
+        "quando": "Tuesday to Sunday 9:30-17:30; closed on Mondays and on the same holidays as the Jerónimos. It may close when the weather makes the visit unsafe. Sunset lights it well from outside.",
         "tempo": "45 minutes inside, plus the walk",
-        "url": "https://www.museusemonumentos.pt/",
+        "url": "https://mosteirojeronimos.torrebelem.gov.pt/",
+        "costo": "€15, 2026 (official site)",
         "consiglio": "For a photo from the shore, the riverside near the Padrão dos Descobrimentos is better than the interior."
       },
       {
         "nome": "Pastéis de Belém",
-        "testo": "The 1837 pastry shop where the pastel de nata is made to the recipe of the Jerónimos monks. The inner room is a maze of tiled halls. They are eaten warm with cinnamon and icing sugar.",
-        "come": "A 5-minute walk from the Jerónimos. Tram 15 and train stops are near.",
-        "quando": "The queue outside moves fast: there's a takeaway counter. Open every day, usually until the evening.",
-        "tempo": "20-30 minutes",
+        "testo": "The pastry shop that has made pastéis de Belém since 1837, to an old recipe from the Jerónimos Monastery. Inside it is a maze of tiled rooms. They are eaten warm with cinnamon and icing sugar.",
+        "come": "A few steps from the Jerónimos. Tram 15 and train stops are near.",
+        "quando": "Open every day; hours on the official site. The queue outside moves fast because there is a takeaway counter.",
+        "tempo": "half an hour",
         "url": "https://pasteisdebelem.pt/",
         "consiglio": "Go into the inner rooms instead of waiting at the counter: there's often space."
       },
@@ -119,8 +121,8 @@ export const destinazioniPortogallo: Destinazione[] = [
       {
         "nome": "Tram 28 and the viewpoints",
         "testo": "The historic yellow line that climbs through Graça, Alfama, Baixa and Estrela. For viewpoints: Santa Luzia, Portas do Sol, Senhora do Monte, Graça. The tram is crowded; the viewpoints can also be reached on foot.",
-        "come": "The tram starts at Martim Moniz or Campo Ourique. Pay with the Navegante card or a more expensive onboard ticket.",
-        "quando": "Before 9 or after 18; at midday it is packed. The miradouros at sunset.",
+        "come": "The tram starts at Martim Moniz or Campo de Ourique. Pay with the rechargeable transport card or with an onboard ticket, which costs more.",
+        "quando": "Early morning or in the evening: at midday it is packed. The miradouros at sunset.",
         "tempo": "2 hours for the ride",
         "url": "https://www.carris.pt/",
         "consiglio": "Board at the terminus to get a seat."
@@ -135,8 +137,8 @@ export const destinazioniPortogallo: Destinazione[] = [
       },
       {
         "nome": "Oceanário e Parque das Nações",
-        "testo": "One of Europe's largest aquariums, with a central two-storey tank and habitats from the four oceans. The modern district built for Expo 98 has a Tagus promenade and a cable car.",
-        "come": "Red metro line to Oriente, then a 10-minute walk. From the airport it's on the same line.",
+        "testo": "One of Europe's largest indoor aquariums, opened in 1998, with a large central tank and habitats from the four oceans. Parque das Nações, the Expo 98 grounds, has a Tagus promenade and a cable car.",
+        "come": "Red metro line to Oriente, then a short walk. From the airport it's on the same line.",
         "quando": "Morning, with fewer school groups. Useful on rainy days.",
         "tempo": "2-3 hours",
         "url": "https://www.oceanario.pt/",
@@ -210,7 +212,7 @@ export const destinazioniPortogallo: Destinazione[] = [
     ],
     attenzioni: [
       "Pickpockets on tram 28, on the metro and in tourist areas: keep your backpack and phone in front.",
-      "In Baixa and Bairro Alto people approaching to offer hashish or other drugs is very common: say no and walk on.",
+      "In the Baixa and Bairro Alto strangers may offer hashish or other drugs in the street: say no and walk on. Illegal drugs carry severe penalties in Portugal.",
       "At restaurants the «couvert» (bread, olives, cheese) brought to the table is charged if touched: refuse it if you don't want it.",
       "Tuk-tuks and taxis outside tourist areas: agree the price first, or use apps.",
       "Municipal tourist tax per night, paid at the hotel and subject to change (check the current amount).",
@@ -263,26 +265,27 @@ export const destinazioniPortogallo: Destinazione[] = [
     luoghi: [
       {
         "nome": "Palácio Nacional da Pena",
-        "testo": "A 19th-century Romantic palace commissioned by Ferdinand II on a hilltop, yellow and red, with towers, battlements and Moorish and Manueline decoration. Inside, rooms are furnished as they were in the late 1800s. Around it is an 85-hectare park.",
-        "come": "From the station bus 434 climbs to the entrance in about 15 minutes. On foot the climb is steep, about 45 minutes. Private cars are not allowed on the access roads: a shuttle runs every 15 minutes from the park entrance to the palace. Entry with a timed ticket.",
+        "testo": "A Romantic palace built between 1842 and 1854 for Ferdinand II on a hilltop, yellow and red, with towers, battlements and Moorish and Manueline decoration. It was the royal family's summer residence and the rooms keep furnishings from its collections. Around it is a park of over 200 hectares.",
+        "come": "From Sintra station Scotturb bus 434 climbs to the Pena. On foot the climb is long and steep. Private cars are not allowed on the access roads: a shuttle runs every 15 minutes from the bottom of the park to the palace. Entry with a timed ticket.",
         "quando": "Park 9am-7pm, palace 9:30am-6:30pm (last ticket at 5:30pm). The palace can only be visited with a booked date and time slot. First slot of the morning: after 10:30am the queue gets longer. Tickets online on Parques de Sintra.",
         "tempo": "2-3 hours with the park",
-        "url": "https://www.parquesdesintra.pt/",
+        "url": "https://www.parquesdesintra.pt/pt/parques-monumentos/parque-e-palacio-nacional-da-pena/",
+        "costo": "Visita Essencial (park and palace) €20, park only €12, 2026 (official site)",
         "consiglio": "The park can be visited on its own without the palace queue and has viewpoints: useful if the queues are too long."
       },
       {
         "nome": "Quinta da Regaleira",
-        "testo": "A neo-Gothic villa from the early 1900s with a garden full of symbols, grottoes and galleries. The Poço Iniciático is a 27-metre spiral well with nine levels, linked to tunnels that come out at a small lake.",
-        "come": "A 10-minute walk from central Sintra, gently uphill. Tickets are bought at the ticket office or online.",
-        "quando": "Early morning or early afternoon. The well fills up around 11.",
+        "testo": "A neo-Gothic villa built between 1904 and 1910, with a garden full of symbols, grottoes and galleries. The Poço Iniciático is a 27-metre-deep well with a spiral staircase, linked to tunnels that come out at a small lake.",
+        "come": "On foot from central Sintra, gently uphill. Tickets are sold at the desk or from the official online ticket office, which avoids the queue.",
+        "quando": "Early morning or early afternoon: by late morning the well fills up. Hours on the official site.",
         "tempo": "2 hours",
         "url": "https://www.regaleira.pt/",
         "consiglio": "Go down the well in non-slip shoes and return through the tunnels: the exit is nicer than the descent."
       },
       {
         "nome": "Castelo dos Mouros",
-        "testo": "Ruins of a medieval fortress from the 9th-10th century on the ridge above Sintra, with walls and towers linked by walkways. From the top you see the Pena, the town and the ocean.",
-        "come": "From the centre on foot in about 40 minutes, or by bus 434 to the castle stop. Stretches of steps on uneven stone.",
+        "testo": "The ruins of the fortress built by the Moors in the 8th and 9th centuries on the ridge above Sintra, with walls and towers linked by walkways. From the top you see the Pena, the town and the ocean.",
+        "come": "From the centre on foot, uphill, or by bus 434 to the castle stop. Stretches of steps on uneven stone.",
         "quando": "Morning, with less wind. In fog the view is lost.",
         "tempo": "1-1.5 hours",
         "url": "https://www.parquesdesintra.pt/",
@@ -291,7 +294,7 @@ export const destinazioniPortogallo: Destinazione[] = [
       {
         "nome": "Palácio Nacional de Sintra",
         "testo": "The royal palace in the centre, recognisable by the two white conical chimneys of the kitchens. Inside are the Swan Room, the Magpie Room and a large collection of azulejos from the 1400s.",
-        "come": "10 minutes on foot from the station. It's on the town's main square.",
+        "come": "On foot from the station. It's on the town's main square.",
         "quando": "Before lunch; the square is quieter in the evening.",
         "tempo": "1 hour",
         "url": "https://www.parquesdesintra.pt/",
@@ -299,8 +302,8 @@ export const destinazioniPortogallo: Destinazione[] = [
       },
       {
         "nome": "Cabo da Roca",
-        "testo": "The westernmost point of continental Europe, on a 140-metre cliff over the Atlantic, with a lighthouse and a plaque with Camões's verses.",
-        "come": "From Sintra centre by bus 403 (towards Cascais) in about 40 minutes, or 20 minutes by car.",
+        "testo": "The westernmost point of continental Europe, with a lighthouse on cliffs dropping into the Atlantic. The monument recalls Camões's line describing the place \"where the land ends and the sea begins\".",
+        "come": "From Sintra centre by the scheduled bus towards Cascais (times on the Carris Metropolitana app) or by car.",
         "quando": "At sunset in strong wind; bring a jacket even in summer.",
         "tempo": "1 hour",
         "consiglio": "The visit certificate is bought at the small tourist office: it's a souvenir, not required."
@@ -329,7 +332,7 @@ export const destinazioniPortogallo: Destinazione[] = [
       {
         "nome": "Day trip from Lisbon",
         "perChi": "most visitors",
-        "testo": "Train from Rossio in 40 minutes, back in the evening. A tight pace with the queues, but low cost."
+        "testo": "Train from Rossio in under an hour, back in the evening. A tight pace with the queues, but low cost."
       },
       {
         "nome": "Sintra, old town",
@@ -361,7 +364,7 @@ export const destinazioniPortogallo: Destinazione[] = [
     ],
     attenzioni: [
       "Pena and Regaleira tickets are timed: buy online before you go, in high season the morning slots run out.",
-      "The 434 bus is stormed between 10 and 14: board at the station to get a seat.",
+      "Bus 434 is packed in the middle of the day: board at the station, the terminus, to get a seat.",
       "Taxis and tuk-tuks quote high fares: agree the price first.",
       "Parking is nearly impossible in the centre at weekends: take the train.",
       "Big backpacks don't always fit into the palaces: leave luggage in Lisbon.",

@@ -53,16 +53,16 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Qorikancha (convento de Santo Domingo)",
         "testo": "Era el templo del Sol de los Incas. Los conquistadores construyeron encima el convento de Santo Domingo, pero los muros de piedra encajada en seco resistieron los terremotos que dañaron la parte colonial. Explica de qué trataban las piedras que se verán en Machu Picchu.",
-        "come": "A pie desde la Plaza de Armas, unos 10 minutos hacia el sureste. Se visita el convento con los claustros y las salas incas; también hay un museo de sitio aparte.",
+        "come": "A pie desde la Plaza de Armas, hacia el sureste. Se visita el convento con los claustros y las salas incas; hay también un museo de sitio aparte.",
         "quando": "Mejor por la mañana, antes de los grupos organizados.",
         "tempo": "1 hora",
         "consiglio": "Visítalo el segundo día junto con Sacsayhuamán: son la mejor forma de entender la mampostería inca antes del resto del viaje."
       },
       {
         "nome": "Sacsayhuamán",
-        "testo": "La fortaleza-santuario sobre la ciudad, con tres terrazas de bloques megalíticos encajados sin mortero, algunos de más de cien toneladas. Desde arriba se ve toda Cusco, y en junio acoge la parte final del Inti Raymi.",
-        "come": "A 2 km del centro y 200 metros más arriba: en taxi en 10 minutos o a pie cuesta arriba en 30-40 minutos, algo que conviene evitar los primeros días en altura. Incluido en el Boleto Turístico.",
-        "quando": "Mañana o primera hora de la tarde. El 24 de junio la zona está cerrada al público por el Inti Raymi.",
+        "testo": "La fortaleza-santuario sobre la ciudad, con tres grandes muros en terrazas de bloques megalíticos encajados sin argamasa: el más grande se estima entre 128 y casi 200 toneladas. Desde arriba se ve todo Cusco, y el 24 de junio aquí se celebra el Inti Raymi.",
+        "come": "Sobre la ciudad, al norte: en taxi o a pie cuesta arriba, algo que conviene evitar los primeros días en altura. Está incluido en el Boleto Turístico.",
+        "quando": "Mañana o primera hora de la tarde. El 24 de junio, día del Inti Raymi, el acceso cambia: infórmate antes.",
         "tempo": "1,5-2 horas",
         "costo": "Boleto Turístico general unos 130 soles para extranjeros, válido 10 días, 16 sitios (tarifario de COSITUC, 2026). Los boletos parciales de un solo circuito cuestan 70 soles",
         "consiglio": "Sube en taxi y baja a pie: la bajada hacia San Blas es agradable y no cansa."
@@ -70,7 +70,7 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "San Blas y la Piedra de los Doce Ángulos",
         "testo": "El barrio de los artesanos, todo callejones en subida, talleres y cafés. En la calle Hatun Rumiyoc está la piedra de los doce ángulos, un bloque inca encajado a la perfección entre los demás, el muro más fotografiado de Cusco.",
-        "come": "A pie desde la plaza en 5-10 minutos. Las calles son empinadas y empedradas.",
+        "come": "A pie desde la plaza. Las calles son empinadas y empedradas.",
         "quando": "Todo el día; los talleres están más animados por la tarde.",
         "tempo": "1-2 horas",
         "consiglio": "Para los souvenirs aquí hay cosas más cuidadas que en los puestos de la plaza. Cuenta con las cuestas: en los primeros días se notan."
@@ -78,7 +78,7 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Mercado de San Pedro",
         "testo": "El mercado cubierto donde comen los cusqueños: puestos de jugos, sopas, quesos, hierbas y coca. Una primera prueba de la cocina andina sin gastar mucho.",
-        "come": "A pie desde la Plaza de Armas, unos 10 minutos hacia el oeste. Entrada libre.",
+        "come": "A pie desde la Plaza de Armas, hacia el oeste. Entrada libre.",
         "quando": "Mañana y almuerzo; por la tarde muchos puestos cierran.",
         "tempo": "1 hora",
         "consiglio": "El menú del día al mediodía cuesta pocos soles y es lo que come la gente local. Lleva el bolso por delante: aquí hay carteristas."
@@ -86,8 +86,8 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Montaña de Siete Colores (Vinicunca)",
         "testo": "La montaña a rayas ocre, rosa y turquesa, por encima de los 5.000 metros. Excursión de un día desde Cusco, con una caminata final en altura dura para el aliento más que por la distancia.",
-        "come": "Excursión de un día con salida nocturna desde Cusco (unas 3 horas de carretera) y 2-3 horas de caminata cuesta arriba. Se va con una agencia.",
-        "quando": "Estación seca, de mayo a septiembre. Sal antes del amanecer para evitar multitudes.",
+        "come": "Excursión de un día con salida de madrugada desde Cusco, unas horas de carretera y una caminata cuesta arriba. Se va con agencia.",
+        "quando": "Temporada seca. Salida antes del amanecer para encontrar menos gente.",
         "tempo": "Día completo",
         "consiglio": "Hazla tras al menos 3-4 días de aclimatación. Rick también hizo la laguna Humantay y otras lagunas de la zona, siempre después de acostumbrarse a la altura."
       }
@@ -132,7 +132,7 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Zona de San Pedro y Santa Ana",
         "perChi": "Quien quiere ahorrar",
-        "testo": "Alojamientos más baratos cerca del mercado y de la estación de buses. Menos pintoresca, pero a 10-15 minutos a pie de la plaza."
+        "testo": "Alojamientos más baratos cerca del mercado y de la terminal de buses. Menos pintoresca, pero la plaza queda a pie."
       }
     ],
     sapori: [
@@ -212,15 +212,15 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Pisac",
         "testo": "Un pueblo con un mercado artesanal y, en la colina, un sitio inca con terrazas y el barrio ceremonial. El sitio recibe menos visitas que Machu Picchu y se recorre casi a solas.",
-        "come": "Desde Cusco una hora en colectivo o coche. El sitio arqueológico está incluido en el Boleto Turístico; el mercado está en el pueblo.",
-        "quando": "Temprano por la mañana para el sitio, luego el mercado. El mercado grande es el domingo.",
+        "come": "Desde Cusco en colectivo o coche, unos 32 km. El sitio arqueológico está incluido en el Boleto Turístico; el mercado está en el pueblo.",
+        "quando": "Temprano para el sitio, luego el mercado. Hay mercado martes, jueves y domingo; el más grande es el domingo.",
         "tempo": "Medio día",
         "consiglio": "Si solo tienes un día, ve al sitio por la mañana y baja al mercado para almorzar."
       },
       {
         "nome": "Ollantaytambo",
-        "testo": "El único pueblo inca aún habitado con su trazado original, con una fortaleza de terrazas sobre el pueblo. De aquí sale la mayoría de los trenes a Machu Picchu.",
-        "come": "Unas 1h30 en coche desde Cusco; colectivos desde Calle Pavitos. Se visita a pie. El sitio está incluido en el Boleto Turístico.",
+        "testo": "Un pueblo con una trama de calles de origen inca y algunas de las viviendas habitadas sin interrupción más antiguas de Sudamérica, bajo una fortaleza en terrazas. De aquí sale la mayoría de los trenes a Machu Picchu.",
+        "come": "En coche o colectivo desde Cusco. Se visita a pie. El sitio está incluido en el Boleto Turístico.",
         "quando": "El sitio por la mañana; el pueblo luce más de noche, cuando los buses de los tours se han ido.",
         "tempo": "2-3 horas para el sitio, una noche para el pueblo",
         "consiglio": "Duerme aquí la noche antes del tren a Machu Picchu: ganas más de una hora de sueño frente a salir desde Cusco.",
@@ -228,7 +228,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Salineras de Maras",
-        "testo": "Miles de pozas blancas excavadas en la ladera, alimentadas por un manantial salado y usadas durante generaciones por las mismas familias.",
+        "testo": "Muchísimos pozos blancos excavados en la ladera, alimentados por un manantial salado y trabajados durante generaciones por las mismas familias.",
         "come": "En coche con conductor o en tour, a menudo junto con Moray. Se camina por el borde de las pozas donde está permitido.",
         "quando": "Mañana o última hora de la tarde, cuando la sal es más blanca.",
         "tempo": "1 hora",
@@ -238,16 +238,16 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Moray",
         "testo": "Terrazas circulares concéntricas, una especie de anfiteatro: los Incas las usaban como laboratorio agrícola, con diferencias de temperatura entre niveles.",
-        "come": "En coche o bici desde Maras, unos 20 minutos. Incluido en el Boleto Turístico.",
+        "come": "En coche o bici desde Maras. Incluido en el Boleto Turístico.",
         "quando": "Todo el día; la luz de la mañana es la mejor.",
         "tempo": "45 minutos",
         "consiglio": "El paseo en bici o cuatriciclo entre Maras y Moray es una buena alternativa al coche."
       },
       {
         "nome": "Chinchero",
-        "testo": "Un pueblo de tejedoras sobre el valle, con terrazas incas y una iglesia colonial. Las cooperativas muestran el teñido con plantas y cochinilla.",
-        "come": "Unos 45 minutos desde Cusco, en el camino al valle. Sitio incluido en el Boleto Turístico.",
-        "quando": "Mañana; el mercado es el domingo.",
+        "testo": "Un pueblo de tejedoras sobre el valle, con terrazas incas y la iglesia colonial de Nuestra Señora de la Natividad.",
+        "come": "Desde Cusco, en la carretera al valle. Sitio incluido en el Boleto Turístico.",
+        "quando": "Mañana.",
         "tempo": "1-2 horas",
         "consiglio": "Un taller de tejido con una cooperativa de mujeres vale más que las tiendas turísticas."
       }
@@ -486,8 +486,8 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "La ciudadela y los circuitos de visita",
         "testo": "El complejo inca del siglo XV con terrazas agrícolas, el Templo del Sol, el Recinto Real y el Intihuatana, la piedra ritual ligada al sol, una de las pocas que sobrevivieron a la destrucción colonial.",
-        "come": "Se llega a Aguas Calientes en tren o a pie, luego bus lanzadera (25 minutos) o 1h30-2h cuesta arriba a pie. Dentro del sitio el recorrido es obligado: el circuito se elige al comprar y no se puede mover uno libremente. El guía es obligatorio.",
-        "quando": "El primer turno da cuarenta minutos de silencio que compensan el madrugón. De mayo a septiembre es la estación seca, pero también cuando antes se agotan las entradas.",
+        "come": "Se llega a Aguas Calientes en tren o a pie, luego bus o subida a pie. Dentro del sitio el recorrido es obligatorio: el circuito se elige al comprar y no se puede ir libremente. El guía es obligatorio.",
+        "quando": "El primer turno es el más tranquilo y compensa el madrugón. La temporada seca es también la que agota antes las entradas.",
         "tempo": "3-4 horas",
         "costo": "152 soles para extranjeros adultos en los circuitos sin montaña (2026); anunciada una subida de 11 soles desde el 1 de mayo de 2026. Entradas solo en el portal oficial",
         "url": "https://tuboleto.cultura.pe/",
@@ -496,8 +496,8 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Huayna Picchu",
         "testo": "La cumbre que aparece al fondo de las fotos, con una subida empinada por escalones de piedra y tramos expuestos. Desde arriba se ve la ciudadela desde lo alto.",
-        "come": "Entrada aparte con franjas horarias y plazas muy limitadas. La subida parte desde dentro del sitio y lleva unas 1h30-2h entre ida y vuelta.",
-        "quando": "Franjas horarias por la mañana. Reservar 2-3 meses antes en cualquier temporada, 3-4 en los meses de más afluencia.",
+        "come": "Entrada aparte con horarios fijos y plazas muy limitadas. La subida parte desde dentro del sitio: tómatela con calma, es empinada.",
+        "quando": "Horarios de mañana. Reserva con mucha antelación, sobre todo en temporada alta.",
         "tempo": "2-3 horas",
         "costo": "200 soles para extranjeros adultos (ruta 3-A, 2026)",
         "url": "https://tuboleto.cultura.pe/",
@@ -516,7 +516,7 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Intipunku, la Puerta del Sol",
         "testo": "El paso desde el que quien hace el Camino Inca ve por primera vez la ciudadela al amanecer. También se puede alcanzar con una caminata desde el sitio.",
-        "come": "Caminata de unos 45-60 minutos desde dentro del sitio, cuesta arriba, por el sendero original.",
+        "come": "Caminata cuesta arriba desde dentro del sitio, por el sendero original.",
         "quando": "Amanecer para quien llega por el Camino Inca; para los demás, la mañana.",
         "tempo": "1,5-2 horas ida y vuelta",
         "consiglio": "Ofrece una vista distinta y casi vacía. Pregunta en la entrada si tu circuito incluye el tramo."
@@ -532,8 +532,8 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Cómo llegar: tren, Camino Inca, Salkantay, Hidroeléctrica",
         "testo": "El cómo pesa en el presupuesto más que la entrada. Rick llegó en tren, en clase económica, en minibús hasta Hidroeléctrica y luego a pie, y con un trekking de cinco días.",
-        "come": "Tren PeruRail o IncaRail desde Ollantaytambo o Cusco; trek del Salkantay sin permisos de cupo cerrado; Camino Inca solo con agencia autorizada y permisos que se agotan incluso 5-6 meses antes.",
-        "quando": "El Camino Inca está cerrado en febrero. De mayo a septiembre es la estación seca.",
+        "come": "Tren PeruRail o IncaRail desde Ollantaytambo o Cusco; trek del Salkantay sin permisos con cupo; Camino Inca solo con agencia autorizada y permisos que se agotan con meses de antelación.",
+        "quando": "El Camino Inca cierra en febrero. La temporada seca es la más solicitada.",
         "tempo": "De 1 día (tren) a 4-5 días (trek)",
         "consiglio": "Con fechas fijas: tren desde Ollantaytambo y noche en Aguas Calientes. Con 4-5 días, el Salkantay."
       }
@@ -551,7 +551,7 @@ export const destinazioniPeru: Destinazione[] = [
         "titolo": "2 días",
         "tappe": [
           "Día 1: tren a Aguas Calientes por la tarde, cena y a la cama temprano",
-          "Día 2: primer bus hacia las 5:30, entrada en el primer turno, Huayna Picchu opcional, regreso en tren"
+          "Día 2: primer bus de la mañana, entrada en el primer turno, Huayna Picchu si lo tienes, regreso en tren"
         ]
       },
       {
@@ -697,16 +697,16 @@ export const destinazioniPeru: Destinazione[] = [
     luoghi: [
       {
         "nome": "La ciudadela de Choquequirao",
-        "testo": "Una ciudadela inca de tamaño comparable a Machu Picchu, excavada solo en un tercio aproximadamente. Llegan unos pocos miles de personas al año, porque no hay otra forma que caminar.",
+        "testo": "Una ciudadela inca llamada la «ciudad hermana» de Machu Picchu por su estructura y arquitectura, excavada solo en parte (entre el 30 y el 40%). Llega poca gente, porque no hay otra forma que caminar.",
         "come": "Solo a pie desde Cachora, tras dos días de caminata. Se acampa cerca del sitio; guía no obligatorio pero recomendable.",
-        "quando": "De abril a octubre. En la estación de lluvias el sendero es peligroso.",
+        "quando": "Temporada seca. En la temporada de lluvias el sendero es peligroso.",
         "tempo": "Una mañana o un día entero; mejor dos noches",
         "costo": "Entrada al sitio que se paga en el puesto de control antes de la ciudadela; tarifa en la web del Ministerio de Cultura",
         "consiglio": "Quédate dos noches para tener un día completo entre las ruinas sin el cansancio de la subida."
       },
       {
         "nome": "Las terrazas de las llamas",
-        "testo": "Terrazas decoradas con figuras de llama en piedra blanca engastada en el muro, el detalle más reconocible del sitio.",
+        "testo": "Terrazas decoradas con figuras de llamas y otros camélidos en piedra blanca incrustada en el muro, el detalle más reconocible del sitio.",
         "come": "En el sector agrícola del sitio, a corta caminata desde la zona central.",
         "quando": "Temprano por la mañana, con la luz rasante sobre los muros.",
         "tempo": "30-60 minutos",
@@ -714,7 +714,7 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "El cañón del Apurímac",
-        "testo": "Uno de los cañones más profundos del continente. El sendero baja y sube unos 1.500 metros por lado, con mucho calor en el fondo.",
+        "testo": "Un cañón profundísimo: entre el sitio y el río hay unos 1.600 metros de desnivel, y el sendero los baja y los vuelve a subir, con mucho calor en el fondo.",
         "come": "El sendero parte de Cachora, baja hasta el río y sube hacia Marampata. Las etapas se hacen con campamentos en el camino.",
         "quando": "Sal al amanecer para evitar el calor en el fondo del valle.",
         "tempo": "2 días de caminata en cada sentido",
@@ -723,7 +723,7 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Marampata y los campamentos en el sendero",
         "testo": "El pueblo más cercano al sitio, con algunas familias que alquilan espacio para tiendas y servicios básicos. Más abajo, Chiquisca y Santa Rosa son las paradas clásicas.",
-        "come": "En el sendero, a una hora del sitio.",
+        "come": "En el sendero, poco antes del sitio.",
         "quando": "Como parada nocturna, antes de la última subida.",
         "tempo": "Una noche",
         "consiglio": "Lleva efectivo en monedas y billetes pequeños: no hay cajeros."
@@ -733,7 +733,7 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "titolo": "4-5 días",
         "tappe": [
-          "Día 1: Cusco-Cachora en coche (unas 4 horas), luego bajada hacia el río y primer campamento",
+          "Día 1: Cusco-Cachora en coche, luego bajada hacia el río y primer campamento",
           "Día 2: subida hacia Marampata",
           "Día 3: visita a Choquequirao",
           "Día 4: regreso hacia Chiquisca o Santa Rosa",
@@ -764,7 +764,7 @@ export const destinazioniPeru: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "El trek se considera más duro que el Camino Inca y el Salkantay: no lo subestimes.",
+      "El trek suele considerarse más duro que el Camino Inca y el Salkantay: no lo subestimes.",
       "No en la estación de lluvias: el sendero en la ladera del cañón se vuelve peligroso.",
       "Sin cobertura telefónica: deja tu itinerario a alguien.",
       "Una sola noche en el sitio es muy poco."
@@ -882,14 +882,14 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Puerto Maldonado y la reserva de Tambopata",
         "testo": "La puerta más cómoda a la Amazonía peruana, con vuelo desde Cusco o Lima y luego barca hasta los lodges de la reserva. Aquí Rick hizo la pasarela de dosel y la navegación.",
-        "come": "Vuelo desde Cusco (algo más de una hora) o Lima, luego barca por el río. Los lodges venden paquetes con traslados y excursiones.",
-        "quando": "De mayo a octubre los senderos son más transitables y la fauna se concentra junto a los ríos.",
+        "come": "Vuelo desde Cusco o Lima, luego barca por el río. Los lodges venden paquetes con traslados y excursiones.",
+        "quando": "La temporada seca tiene senderos más transitables y fauna concentrada en los ríos.",
         "tempo": "3-4 días",
         "consiglio": "Elige un lodge lejos de la ciudad: en los cercanos se ve muy poco."
       },
       {
         "nome": "La collpa de los loros",
-        "testo": "Una pared de arcilla donde cada mañana cientos de loros y guacamayos se reúnen para tomar minerales. Un avistamiento breve pero intenso.",
+        "testo": "Una pared de arcilla donde por la mañana muchos loros y guacamayos se reúnen para tomar minerales. Una observación breve pero intensa.",
         "come": "Se llega con el guía del lodge, saliendo antes del amanecer. Algunas collpas están cerca de Tambopata, otras en el Manu.",
         "quando": "Al amanecer, mejor en días sin lluvia.",
         "tempo": "2-3 horas",
@@ -907,7 +907,7 @@ export const destinazioniPeru: Destinazione[] = [
         "nome": "Iquitos y Pacaya-Samiria",
         "testo": "Iquitos es la ciudad más grande del mundo a la que no se llega por carretera. Desde la ciudad salen expediciones hacia la reserva Pacaya-Samiria, donde Rick fue con Ruth Amazon Expedition: noches en casas de campesinos y en carpa en el bosque.",
         "come": "Vuelo desde Lima o barca por el río. Desde Iquitos los tours salen de agencias y alojamientos.",
-        "quando": "Todo el año; la estación seca (mayo-octubre) hace los senderos más fáciles.",
+        "quando": "Todo el año; la temporada seca hace más fáciles los senderos.",
         "tempo": "3-4 días para una expedición",
         "costo": "3 días 1.000 soles, 4 días 1.350 soles por persona con Ruth Amazon Expedition (noviembre de 2026)",
         "url": "https://ruthamazonexpeditions.com/",
@@ -917,7 +917,7 @@ export const destinazioniPeru: Destinazione[] = [
         "nome": "Manu",
         "testo": "El Parque Nacional del Manu, una de las áreas protegidas más ricas en fauna del planeta, con acceso largo y difícil.",
         "come": "Desde Cusco por carretera y luego en barca, con dos días de traslado.",
-        "quando": "Estación seca, mayo-octubre.",
+        "quando": "Temporada seca.",
         "tempo": "6-8 días",
         "consiglio": "Elígelo solo con al menos una semana y presupuesto alto."
       }
@@ -963,15 +963,15 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Tacacho con cecina",
-        "testo": "Bolas de plátano verde con carne ahumada, desayuno típico de Iquitos."
+        "testo": "Bolitas de plátano verde con carne ahumada, desayuno típico de la selva."
       }
     ],
     attenzioni: [
       "Vacuna contra la fiebre amarilla: recomendada y exigida por algunos lodges.",
       "Repelente, linterna frontal y bolsas impermeables para la electrónica.",
       "Dos noches son pocas: el primer y el último día se van en traslados.",
-      "Zonas de frontera como Lago Agrio: sigue los avisos de viaje oficiales.",
-      "Ofertas de ceremonias con chamanes en Iquitos: valora con prudencia."
+      "Zonas fronterizas con Ecuador, Colombia y Brasil: más riesgos por el crimen ligado al narcotráfico, sigue los avisos de viaje oficiales.",
+      "Ceremonias de ayahuasca y San Pedro en Iquitos: no están reguladas y los avisos oficiales señalan casos graves, muertes y agresiones."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['peru-itinerario'],
@@ -1062,16 +1062,16 @@ export const destinazioniPeru: Destinazione[] = [
     luoghi: [
       {
         "nome": "Puno",
-        "testo": "La base del lago, a 3.812 metros. Tiene un centro animado y el puerto de donde salen las barcas. Está más alta que Cusco: el mal de altura es más probable.",
-        "come": "Desde Cusco bus turístico de 7-8 horas con paradas, tren Andean Explorer o vuelo a Juliaca. Desde Arequipa unas 6 horas.",
-        "quando": "De mayo a septiembre por el sol.",
+        "testo": "La base del lago, a unos 3.800 metros. Tiene un centro animado y el puerto de donde salen los barcos. Está más alto que Cusco: el mal de altura es más probable.",
+        "come": "Desde Cusco en bus turístico con paradas (un día), el tren de lujo Andean Explorer o vuelo a Juliaca. También hay buses desde Arequipa.",
+        "quando": "Temporada seca, por el sol.",
         "tempo": "1-2 días",
         "consiglio": "Llega ya aclimatado y no planees nada pesado el primer día."
       },
       {
         "nome": "Islas de los Uros",
         "testo": "Islas flotantes de totora, construidas por las comunidades que aún viven en ellas. La visita es turística: media hora de explicación de cómo se construye la isla.",
-        "come": "Barca desde Puno, unos 30 minutos.",
+        "come": "Barca desde Puno, trayecto corto.",
         "quando": "Mañana.",
         "tempo": "1-2 horas",
         "consiglio": "Rick la define como una puesta en escena turística: no le dediques más tiempo del necesario."
@@ -1079,7 +1079,7 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Taquile",
         "testo": "Isla con pueblo y tejido tradicional, patrimonio UNESCO. Se almuerza con vista a la parte boliviana del lago.",
-        "come": "Barca desde Puno (unas 3 horas), luego a pie cuesta arriba.",
+        "come": "Barca desde Puno, unas horas de navegación, luego a pie cuesta arriba.",
         "quando": "Mañana y almuerzo.",
         "tempo": "Medio día",
         "consiglio": "Se camina en altura y cuesta arriba, a ritmo lento."
@@ -1090,12 +1090,12 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Barca desde Puno, normalmente en un tour de dos días.",
         "quando": "Atardecer y amanecer.",
         "tempo": "Una noche",
-        "costo": "Tour de dos días con homestay unos 30-60 dólares por persona (dato del sitio)",
+        "costo": "Tour de dos días con homestay: se reserva con las agencias de Puno, compara qué incluye",
         "consiglio": "Es el momento del lago que más se le quedó a Rick. Lleva un saco de dormir abrigado: baño compartido y agua caliente no garantizada."
       },
       {
         "nome": "Sillustani",
-        "testo": "Torres funerarias preincaicas (chullpas) a orillas de una laguna a media hora de Puno.",
+        "testo": "Torres funerarias preincas (chullpas) a orillas de la laguna Umayo, cerca de Puno.",
         "come": "Tour de medio día o taxi desde Puno.",
         "quando": "Tarde, con luz baja.",
         "tempo": "2-3 horas",
@@ -1206,27 +1206,27 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "A pie desde cualquier hotel de Miraflores.",
         "quando": "Atardecer y noche, con las luces.",
         "tempo": "1-2 horas",
-        "consiglio": "Es una de las zonas más seguras de la ciudad."
+        "consiglio": "Es de las zonas más tranquilas de la ciudad, pero también aquí los avisos oficiales señalan robos: el teléfono en el bolsillo."
       },
       {
         "nome": "Huaca Pucllana",
-        "testo": "Una pirámide preinca de adobe en medio de Miraflores, de hace unos 1.500 años.",
+        "testo": "Una pirámide de adobe y arcilla en medio de Miraflores, centro de la cultura Lima, que floreció entre el 200 y el 700 d.C.",
         "come": "A pie desde Miraflores; visita guiada.",
-        "quando": "De día; de noche el sitio está iluminado.",
+        "quando": "De día; horarios en el sitio oficial del museo.",
         "tempo": "1 hora",
-        "consiglio": "El restaurante de al lado ofrece una vista iluminada de la pirámide, pero requiere reserva."
+        "consiglio": "Se visita con guía: da el contexto de una Lima mucho más antigua que los incas."
       },
       {
         "nome": "Barranco",
         "testo": "El barrio bohemio de los murales, las galerías y los locales. El Puente de los Suspiros es el lugar clásico del aperitivo al atardecer.",
-        "come": "En taxi o app desde Miraflores en 10-15 minutos.",
+        "come": "En taxi o app desde Miraflores.",
         "quando": "Última hora de la tarde y noche.",
         "tempo": "2-3 horas",
         "consiglio": "Rick cerró aquí el día: aperitivo en el puente al atardecer."
       },
       {
         "nome": "Museo Larco",
-        "testo": "La colección de arte precolombino más importante del país, en una casa virreinal con jardines.",
+        "testo": "Una de las colecciones de arte precolombino más importantes del país, en una casa virreinal con jardines.",
         "come": "En taxi o app, en Pueblo Libre.",
         "quando": "Mañana, para evitar grupos. Consulta horarios y días en el sitio.",
         "tempo": "2 horas",
@@ -1293,7 +1293,7 @@ export const destinazioniPeru: Destinazione[] = [
     ],
     attenzioni: [
       "Taxis informales a la salida del aeropuerto: uno de los puntos donde más se dan robos. Solo taxis reservados o apps.",
-      "La ciudad es peligrosa fuera de Miraflores y Barranco: muévete con atención.",
+      "Robos incluso en zonas turísticas como Miraflores y Barranco: nada de valor a la vista, el teléfono lejos del borde de la calle, cajeros solo dentro de bancos o edificios.",
       "El tráfico es pesado: añade siempre tiempo.",
       "Reserva con semanas de antelación los restaurantes de alta cocina."
     ],
@@ -1369,16 +1369,16 @@ export const destinazioniPeru: Destinazione[] = [
       },
       {
         "nome": "Cruz del Cóndor",
-        "testo": "El mirador de cóndores andinos en el Cañón del Colca, uno de los más profundos del mundo. Los cóndores aprovechan las corrientes térmicas de la mañana.",
-        "come": "Tour organizado desde Arequipa (unas 6 horas de carretera) o bus regular hasta Chivay y Cabanaconde, con traslado al mirador.",
-        "quando": "Primeras horas de la mañana (hacia las 8), todo el año.",
+        "testo": "El mirador de los cóndores andinos en el Cañón del Colca, uno de los más profundos del mundo. Los cóndores pasan cerca de las paredes del cañón.",
+        "come": "Tour organizado desde Arequipa (el cañón está a unos 160 km) o bus de línea hasta Chivay y Cabanaconde, con traslado al mirador.",
+        "quando": "Primeras horas de la mañana, todo el año.",
         "tempo": "1-2 horas en el punto",
         "consiglio": "Duerme en Chivay o Cabanaconde la noche anterior para llegar temprano."
       },
       {
         "nome": "Chivay y los baños termales de La Calera",
         "testo": "El pueblo principal del valle, con mercado y las termas de La Calera, excelentes tras un día de carretera en altura.",
-        "come": "Carretera desde Arequipa, unas 3 horas.",
+        "come": "Carretera desde Arequipa.",
         "quando": "Noche.",
         "tempo": "1-2 horas en las termas",
         "consiglio": "Buena base para la primera noche en el cañón."
@@ -1387,7 +1387,7 @@ export const destinazioniPeru: Destinazione[] = [
         "nome": "Trek a Sangalle (el oasis)",
         "testo": "Trek de dos días en el cañón, bajando hasta el oasis de Sangalle y subiendo al amanecer.",
         "come": "Parte de Cabanaconde; se puede hacer por cuenta propia o con guía.",
-        "quando": "Mayo-septiembre; baja temprano para evitar el calor.",
+        "quando": "Temporada seca; baja temprano para evitar el calor.",
         "tempo": "2 días",
         "consiglio": "La subida es dura: sal a oscuras para evitar el sol."
       }
@@ -1418,7 +1418,7 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Chivay",
         "perChi": "Quien visita el cañón sin trekking",
-        "testo": "El pueblo más grande del valle, con termas y mercado. A 3.600 metros, frío de noche."
+        "testo": "El pueblo más grande del valle, con termas y mercado. A más de 3.500 metros, frío de noche."
       },
       {
         "nome": "Cabanaconde",
@@ -1446,7 +1446,7 @@ export const destinazioniPeru: Destinazione[] = [
     ],
     attenzioni: [
       "Buses nocturnos: elige solo compañías principales.",
-      "Altura en el Colca: la Cruz del Cóndor está a más de 3.700 metros.",
+      "Altura en el Colca: los pueblos y miradores están por encima de los 3.000 metros.",
       "El trek de Sangalle en verano es muy caluroso en el fondo.",
       "No compres tours muy baratos: a menudo se saltan paradas."
     ],
@@ -1496,23 +1496,23 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Laguna 69",
         "testo": "La laguna turquesa a 4.600 metros, con un color que parece retocado. Es el trek de un día clásico de la Cordillera Blanca, duro por la altura más que por la distancia.",
-        "come": "Excursión de un día con salida al amanecer desde Huaraz (unas 3 horas de carretera), luego 3 horas de caminata de ida. Se hace con agencia o en transporte compartido.",
-        "quando": "De mayo a septiembre. Sal temprano para tener el cielo despejado.",
+        "come": "Excursión de un día con salida al amanecer desde Huaraz, unas horas de carretera y luego unas horas de caminata cuesta arriba. Se hace con agencia o en colectivo.",
+        "quando": "Temporada seca. Sal temprano para tener el cielo despejado.",
         "tempo": "Día completo",
         "consiglio": "Rick describe los últimos cuarenta minutos por encima de los 4.500 metros como una lucha con el aliento: veinte pasos y una parada. Aclimátate en Huaraz al menos dos días."
       },
       {
         "nome": "Trek de Santa Cruz",
-        "testo": "Cuatro días en la cordillera entre cumbres de más de 6.000 metros, con campamentos de tienda y el paso Punta Unión por encima de los 4.700 metros.",
-        "come": "Con agencia, mulos y cocinero, desde Huaraz. Un traslado de 3-4 horas al inicio.",
-        "quando": "De mayo a septiembre.",
+        "testo": "Cuatro días en la cordillera entre cumbres de más de 6.000 metros, con campamentos y el paso de Punta Unión, el punto más alto del recorrido.",
+        "come": "Con agencia, con mulas y cocinero, desde Huaraz, con un traslado largo al inicio.",
+        "quando": "Temporada seca.",
         "tempo": "4 días",
         "consiglio": "Verifica el guía y el equipo: las agencias más baratas no siempre son fiables."
       },
       {
         "nome": "Laguna Parón",
-        "testo": "La laguna más grande de la Cordillera Blanca, rodeada de cumbres, con agua turquesa.",
-        "come": "Colectivo o tour de un día desde Huaraz, unas 3 horas por pista de tierra.",
+        "testo": "La laguna más grande de la Cordillera Blanca, a unos 4.150 metros, rodeada de cumbres, con agua turquesa.",
+        "come": "Colectivo o tour de un día desde Huaraz, con un tramo de pista de tierra.",
         "quando": "Temprano por la mañana.",
         "tempo": "Medio día o día completo",
         "consiglio": "Una buena alternativa si la Laguna 69 es demasiado cansada."
@@ -1520,7 +1520,7 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Chavín de Huántar",
         "testo": "Sitio arqueológico patrimonio UNESCO, un centro ceremonial preinca con galerías subterráneas y esculturas.",
-        "come": "Tour de un día desde Huaraz, unas 3 horas de carretera por trayecto.",
+        "come": "Tour de un día desde Huaraz, con un largo viaje por carretera.",
         "quando": "Mañana; las galerías están más frescas.",
         "tempo": "Día completo con traslados",
         "consiglio": "Visita el museo: explica gran parte del sitio."

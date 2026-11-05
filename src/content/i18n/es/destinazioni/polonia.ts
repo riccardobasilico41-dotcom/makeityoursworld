@@ -46,16 +46,16 @@ export const destinazioniPolonia: Destinazione[] = [
     luoghi: [
       {
         nome: "Rynek Główny y Sukiennice",
-        testo: "La plaza del mercado medieval, una de las mayores de Europa, con la Lonja de los Paños (Sukiennice) en el centro y la torre del ayuntamiento. Alrededor están la Basílica de Santa María y los cafés con mesas al aire libre.",
+        testo: "La plaza del mercado medieval, casi 4 hectáreas, a menudo citada entre las mayores de Europa, con la Lonja de los Paños (Sukiennice) en el centro y la torre aislada del antiguo ayuntamiento, derribado en el siglo XIX. Alrededor están la Basílica de Santa María y los cafés con mesas al aire libre.",
         come: "Desde la estación central a pie, 10 minutos.",
         quando: "Temprano por la mañana o por la noche, cuando se encienden las luces; de día está concurrida.",
         tempo: "1-2 horas",
         costo: "entrada libre",
-        consiglio: "El museo subterráneo bajo la plaza cuenta la historia de la antigua ciudad."
+        consiglio: "Bajo la plaza hay un museo subterráneo construido sobre los cimientos de las antiguas casas de pesaje."
       },
       {
         nome: "Basílica de Santa María",
-        testo: "Iglesia gótica con el gran retablo de madera de Veit Stoss y dos torres desiguales. Desde la más alta, cada hora, suena el Hejnał mariacki, la melodía de trompeta que se interrumpe de golpe.",
+        testo: "Iglesia gótica con el gran retablo de madera tardogótico de Veit Stoss, de finales del siglo XV, y dos torres desiguales. Desde la más alta, cada hora, de día y de noche, suena el Hejnał mariacki, la melodía de trompeta que se interrumpe de golpe; la de mediodía se emite en directo por la radio nacional.",
         come: "En la plaza; la entrada al interior se compra al lado.",
         quando: "Mañana; para el Hejnał estar en la plaza a la hora en punto.",
         tempo: "45 minutos",
@@ -64,12 +64,12 @@ export const destinazioniPolonia: Destinazione[] = [
       },
       {
         nome: "Colina de Wawel",
-        testo: "La colina sobre el Vístula con el Castillo Real, la Catedral donde fueron coronados y enterrados los reyes polacos, la Campana de Segismundo y la Guarida del Dragón. La entrada se divide entre los distintos recorridos.",
-        come: "A pie desde el centro (15 minutos). Las entradas se compran en el patio o en el sitio.",
-        quando: "Temprano por la mañana; muchos recorridos se agotan los días llenos.",
+        testo: "La colina sobre el Vístula con el Castillo Real y la Catedral donde de 1320 a 1764 se coronó a los reyes polacos, que es también su principal lugar de sepultura. En la torre de Segismundo cuelga la campana de 1521, casi 13 toneladas, que solo suena en las grandes ocasiones. Exposiciones y recorridos tienen entradas distintas.",
+        come: "A pie desde el centro (15 minutos). Las entradas se compran en el lugar o online en la web oficial.",
+        quando: "Temprano por la mañana, antes de los grupos.",
         tempo: "3 horas",
         url: "https://wawel.krakow.pl",
-        consiglio: "Reservar los recorridos online: los que no tienen reserva son pocos."
+        consiglio: "Los días llenos conviene comprar online con antelación."
       },
       {
         nome: "Kazimierz",
@@ -82,25 +82,25 @@ export const destinazioniPolonia: Destinazione[] = [
       },
       {
         nome: "Fábrica de Schindler y Podgórze",
-        testo: "El museo en la antigua fábrica de Oskar Schindler cuenta la Cracovia ocupada por los nazis. Cerca está la Plaza de los Héroes del Gueto, con filas de sillas de metal vacías en recuerdo del gueto.",
-        come: "Tranvía 3/9/19/24 hasta Zabłocie o a pie desde Kazimierz (15 minutos).",
-        quando: "Mañana; entradas con hora.",
+        testo: "El museo en la antigua fábrica de Oskar Schindler cuenta la Cracovia ocupada por los nazis. Cerca está la Plaza de los Héroes del Gueto, con 70 sillas vacías en recuerdo del gueto.",
+        come: "En tranvía hasta el barrio de Zabłocie o a pie desde Kazimierz.",
+        quando: "Mañana.",
         tempo: "2-3 horas",
         url: "https://muzeumkrakow.pl",
-        consiglio: "Reservar con días de antelación, sobre todo en verano."
+        consiglio: "Entradas y horarios en la web del Museo de Cracovia; en verano comprarlas con antelación."
       },
       {
         nome: "Mina de sal de Wieliczka",
-        testo: "Una mina de sal del siglo XIII, Patrimonio de la UNESCO, a 30 minutos de Cracovia. El recorrido turístico desciende hasta 135 metros, con capillas talladas en sal, lagos subterráneos y la capilla de Santa Kinga.",
-        come: "Tren o bus desde Cracovia (30 minutos), luego a pie hasta la entrada.",
+        testo: "Una mina de sal excavada desde el siglo XIII, en la primera lista de la UNESCO de 1978, en la localidad de Wieliczka cerca de Cracovia. El recorrido turístico, unos 2,2 km en los tres primeros niveles, pasa por capillas talladas en sal, lagos de salmuera y la capilla de Santa Kinga, donde también se celebran bodas.",
+        come: "Tren o bus desde Cracovia, luego a pie hasta la entrada.",
         quando: "Todo el día; reservar online.",
         tempo: "3-4 horas",
         url: "https://www.wieliczka-saltmine.com",
-        consiglio: "Llevar una chaqueta: bajo tierra hay 14 grados todo el año."
+        consiglio: "Llevar una chaqueta: bajo tierra hace fresco incluso en verano."
       },
       {
         nome: "Planty y Barbacana",
-        testo: "El anillo de parques sobre el trazado de las murallas demolidas, que rodea el casco antiguo, con la Barbacana y la Puerta de San Florián como último tramo superviviente de las fortificaciones.",
+        testo: "El anillo de parques sobre el trazado de las murallas demolidas, que rodea el casco antiguo, con la Puerta de San Florián y la Barbacana, salvadas cuando se derribaron las murallas en el siglo XIX: la Barbacana es uno de los tres puestos fortificados de este tipo que quedan en Europa.",
         come: "A pie, alrededor del centro.",
         quando: "Mañana o tarde, con luz suave.",
         tempo: "1 hora",
@@ -166,15 +166,15 @@ export const destinazioniPolonia: Destinazione[] = [
       },
       {
         nome: "Żurek",
-        testo: "Sopa ácida de centeno con salchicha y huevo, servida en una hogaza."
+        testo: "Sopa ácida de centeno con salchicha y huevo, a menudo servida en una hogaza."
       }
     ],
     attenzioni: [
-      "Taxis: usar Bolt o iTaxi y no los aparcados cerca de la plaza.",
+      "Taxis: usar solo los oficiales, con nombre y teléfono de la compañía en puerta y techo y las tarifas a la vista; los que llevan escudo pero no nombre no son oficiales.",
       "Carruajes con caballos: tarifas altas y poco claras, acordar antes.",
       "Cambio: usar cajeros y rechazar pagar en euros.",
-      "Wawel y Schindler se agotan: reservar con antelación.",
-      "Carteristas en los locales concurridos de Kazimierz y en los tranvías."
+      "Vida nocturna: revisar bien la cuenta al pagar con tarjeta al final de la noche y no dejar la bebida sin vigilancia.",
+      "Carteristas en los lugares concurridos y turísticos, en las estaciones y en los trenes."
     ],
     esperienzeSlugs: ['wieliczka-miniera-di-sale', 'kazimierz-food-vodka-tour'],
     tripSlugs: ['cracovia-weekend'],
@@ -222,17 +222,17 @@ export const destinazioniPolonia: Destinazione[] = [
       {
         nome: "Auschwitz I (Museo)",
         testo: "El primer campo, con el cartel «Arbeit macht frei» a la entrada, los bloques-museo con las exposiciones nacionales y las vitrinas de objetos personales de las víctimas. Es el lugar de memoria donde se comprende la escala del exterminio.",
-        come: "Desde la estación de autobuses de Cracovia, bus o lanzadera hasta Oświęcim (unas 1,5 horas); se visita con el pase, por libre o con guía.",
-        quando: "Temprano por la mañana, cuando hay menos gente; es necesario reservar.",
+        come: "Desde la estación de autobuses de Cracovia, bus o minibús hasta Oświęcim; el museo está a unos 2 km de la estación de tren.",
+        quando: "El pase nominativo se reserva online; durante gran parte del día solo se entra con guía.",
         tempo: "3,5 horas para el recorrido guiado",
         costo: "la entrada es libre pero requiere el pase por franja horaria",
         url: "https://www.auschwitz.org",
-        consiglio: "No se admiten bolsos grandes: comprobar las medidas en la web antes de salir."
+        consiglio: "Mochilas y bolsos no pueden superar 35x25x15 cm: los más grandes se dejan fuera."
       },
       {
         nome: "Auschwitz II-Birkenau",
         testo: "El campo de exterminio propiamente dicho, mucho más extenso, con la vía de entrada, la rampa de selección y los barracones de madera que quedan. El monumento internacional entre los restos de los crematorios recuerda a las víctimas.",
-        come: "Lanzadera gratuita desde Auschwitz I (unos 3 km).",
+        come: "Con el tour guiado el traslado desde Auschwitz I está incluido.",
         quando: "Después de la visita a Auschwitz I.",
         tempo: "1,5-2 horas",
         url: "https://www.auschwitz.org",
@@ -240,17 +240,17 @@ export const destinazioniPolonia: Destinazione[] = [
       },
       {
         nome: "Reserva y normas de visita",
-        testo: "El Museo gestiona un sistema de pases por franjas horarias; hay visitas guiadas en italiano. A ciertas horas es obligatorio el tour con guía.",
-        come: "Las entradas se compran solo en el sitio oficial, con semanas de antelación en verano.",
+        testo: "El Museo gestiona un sistema de pases nominativos, en número limitado. Las visitas guiadas para individuales (unas 3,5 horas) existen también en español. Durante gran parte del día solo se entra con guía; sin guía, con el pase gratuito, solo en las horas indicadas en la web (de abril a septiembre desde las 17).",
+        come: "Las reservas se hacen solo online, en visit.auschwitz.org; en verano con mucha antelación.",
         quando: "Evitar fines de semana y festivos.",
         url: "https://www.auschwitz.org",
         consiglio: "Desconfiar de los revendedores: el sitio oficial es el único fiable."
       }
     ],
     attenzioni: [
-      "No se recomienda llevar niños menores de 14 años: las exposiciones son muy duras.",
+      "Las exposiciones son muy duras: pensarlo bien antes de llevar niños.",
       "Tener en cuenta que la visita es emocionalmente pesada: planificar con calma el resto del día.",
-      "En el lugar no se puede filmar ni fotografiar en ciertas salas: seguir los carteles."
+      "Para fotos y grabaciones seguir los carteles: en algunos espacios no se permiten."
     ],
     esperienzeSlugs: ['auschwitz-birkenau-visita-guidata'],
     tripSlugs: ['cracovia-weekend'],
