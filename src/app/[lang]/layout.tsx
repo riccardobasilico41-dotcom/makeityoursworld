@@ -1,3 +1,5 @@
+import { IntroFiligrane } from '@/components/IntroFiligrane'
+import { IMMAGINI_INTRO } from '@/content/intro-immagini'
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "../globals.css";
@@ -106,6 +108,7 @@ export default async function RootLayout({ children }: LayoutProps<"/[lang]">) {
         />
         <LinguaProvider lingua={lingua}>
           <Header />
+          <IntroFiligrane immagini={IMMAGINI_INTRO} />
           <main className="flex-1">{children}</main>
           <Footer />
           <TornaSu />
