@@ -826,8 +826,9 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Vatican Museums and Sistine Chapel",
         "testo": "Kilometres of halls with ancient and Renaissance collections: the Gallery of Maps, the Raphael Rooms and, at the end, the Sistine Chapel with Michelangelo's frescoes. The route is long and one-way, with constant crowds.",
         "come": "Metro A to Ottaviano or Cipro, then a 10-minute walk. Book online on the official site to skip the ticket-office queue. From the Sistine you can exit straight into St Peter's only on an authorised guided visit.",
-        "quando": "Closed on Sundays except the last Sunday of the month, when entry is free and the crowd is enormous. First slot in the morning or late afternoon.",
+        "quando": "Monday to Saturday 8am-8pm, last entry at 6pm. Closed on Sundays, except the last Sunday of the month (9am-2pm, last entry 12:30pm), when entry is free and the crowds are huge. Also closed on some religious holidays: see the calendar on the website. First slot in the morning or late afternoon.",
         "tempo": "3-4 hours",
+        "costo": "20 euros full price, 25 euros with online booking on the official website (2026)",
         "url": "https://www.museivaticani.va/",
         "consiglio": "In the Sistine the silence and the ban on photography are enforced by staff. Decide beforehand what to see: nobody manages to see it all."
       },
@@ -854,7 +855,6 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Inside Villa Borghese, about 20 minutes on foot from Piazza di Spagna or Piazzale Flaminio. Booking is compulsory with entry in two-hour slots.",
         "quando": "Closed on Mondays. Slots sell out days or weeks ahead in high season.",
         "tempo": "2 hours (the visit has a fixed length)",
-        "costo": "16 euros plus 2 euros booking fee, 2026 (secondary sources)",
         "url": "https://galleriaborghese.cultura.gov.it/",
         "consiglio": "Arrive a little early for ticket collection and the cloakroom. The park around is lovely for a walk afterwards."
       },
@@ -1256,10 +1256,11 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Doge's Palace",
         "testo": "The seat of government of the Republic and the doge's residence, in Venetian Gothic. Inside are the Hall of the Great Council with Tintoretto's Paradise, the Giants' Staircase, the prisons and the Bridge of Sighs. The Secret Itineraries lead into the officials' rooms.",
         "come": "Next to the Basilica, on the St Mark's basin. The standard ticket also includes the museums of Piazza San Marco. Take the audioguide, collected at the entrance.",
-        "quando": "Open every day, with extended hours in summer and last entry an hour before closing. Early morning or late afternoon to avoid groups.",
+        "quando": "Open every day: 9am-7pm from April to October, 9am-6pm from November to March, last entry one hour before closing. Early morning or late afternoon to avoid the groups.",
         "tempo": "2-3 hours",
+        "costo": "35 euros full price, including the Museums of St Mark's Square; 30 euros if bought online more than 30 days ahead (2026)",
         "url": "https://palazzoducale.visitmuve.it/",
-        "consiglio": "The price differs between sources and periods: check the current one on the official site before buying. Book online to skip the queue."
+        "consiglio": "Buying online more than a month ahead saves 5 euros and lets you skip the queue. The audio guide in the MUVE app is included in the ticket."
       },
       {
         "nome": "Scuola Grande di San Rocco",
@@ -1462,7 +1463,7 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "National Archaeological Museum (MANN)",
         "testo": "It holds the mosaics, frescoes, bronzes and statues brought here from Pompeii and Herculaneum, plus the Farnese collection. See it before the Vesuvian sites: at Pompeii you then understand what was inside the walls.",
         "come": "Metro line 1 or 2 to Museo/Piazza Cavour, a few minutes on foot. Visit on your own with the wall panels; the audio guide is optional.",
-        "quando": "The museum is closed on Tuesday. Morning, when the mosaic rooms are quieter.",
+        "quando": "Closed on Tuesdays. Open 9am-7:30pm, last entry at 6:30pm (2026). Morning, when the mosaic rooms are quieter.",
         "tempo": "2-3 hours",
         "consiglio": "Go straight up to the Pompeii mosaics and the Secret Cabinet, then down to the Farnese collection if you have time left."
       },
@@ -1487,8 +1488,9 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Pompeii",
         "testo": "A Roman city of 66 hectares sealed by the eruption of 79 AD: streets with cart ruts, shops, baths, houses with frescoes, the forum and the amphitheater. The excavated area is large, so you have to choose what to see.",
         "come": "Circumvesuviana Naples-Sorrento line to Pompei Scavi-Villa dei Misteri (about 40 minutes from Napoli Garibaldi). You can also take a regional train to Pompei. Audio guide or guide recommended.",
-        "quando": "At opening time or late afternoon in summer; not at midday, no shade. The site closes on 1 January, 1 May and 25 December. Named tickets, with a daily visitor cap and time slots in summer.",
+        "quando": "At opening time or in the late afternoon in summer; not at midday, with no shade. Open 9am-7pm from 16 March to 14 October (last entry 5:30pm) and 9am-5pm the rest of the year (last entry 3:30pm). Closed on 25 December and 1 January, unless there are special openings. Named tickets, a cap of 20,000 visitors a day and time slots in high season.",
         "tempo": "3-4 hours",
+        "costo": "Pompei Express 20 euros; Pompei+, with the suburban villas and Boscoreale, 25 euros (from 12 January 2026). Online sales only through Vivaticket, or at the ticket office",
         "url": "https://pompeiisites.org/",
         "consiglio": "Seen after the MANN, you recognize the works. Bring water and a hat: there are few places to refresh."
       },
@@ -1675,8 +1677,9 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Brera Art Gallery",
         "testo": "One of the most important collections of Italian painting, with Mantegna, Raphael, Caravaggio and Hayez's The Kiss. It is in an 18th-century palace with a courtyard, in the Brera district.",
         "come": "Metro M2 Lanza or M3 Montenapoleone, then ten minutes on foot through the streets of Brera. Visit on your own.",
-        "quando": "Closed on Monday. The afternoon is quieter. The neighborhood is nice in the evening.",
+        "quando": "Closed on Mondays; Tuesday to Sunday 8:30am-7:15pm, booking required. The afternoon is quieter. The neighbourhood is best explored in the evening.",
         "tempo": "2 hours",
+        "costo": "20 euros full price, Grande Brera ticket including Palazzo Citterio (2026)",
         "url": "https://pinacotecabrera.org/",
         "consiglio": "Pick five or six rooms and do not try to see them all."
       },
@@ -2541,8 +2544,8 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Stromboli",
         "testo": "A volcano island with near-continuous eruptions from the crater, visible roughly every 10-20 minutes. Below the Sciara del Fuoco sits the village, with few inhabitants. The strongest memory for me was seeing it from the sea at night, engine off in front of the Sciara, as the crater throws incandescent material down to the water.",
-        "come": "Hydrofoil from Milazzo (about 2.5 hours) or from Lipari and the other Aeolians. On the island you walk and use ape-taxis. The climb requires authorized guides.",
-        "quando": "Climb only with a guide and only up to the altitude set by ordinance (for guided excursions currently 400 meters, the summit has been banned since 2019): check before booking. June and September, in calm seas, for boat trips.",
+        "come": "Hydrofoil from Milazzo (about 2.5 hours) or from Lipari and the other Aeolians. On the island you walk and use ape-taxis. Above the free-access altitude you need authorized volcano guides.",
+        "quando": "The climb is regulated by ordinances that change with the volcano's activity: check the maximum altitude and the guide requirement with the Comune di Lipari or the authorized guides before booking. The summit has been closed to visitors since the 2019 eruptions. June and September, in calm seas, for boat trips.",
         "tempo": "1 full day, better one night",
         "consiglio": "In the evening have dinner on Stromboli and go out by boat in the dark: you do not need the summit to see the explosions. Headlamp, hiking shoes and a sweater even in September."
       },
@@ -3366,7 +3369,7 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Museo Egizio",
         "testo": "The most important Egyptian collection outside Cairo, born in 1824 from the nucleus gathered by consul Drovetti. The piece not to miss is the tomb of Kha and Merit, found intact in 1906 with all its grave goods. Then the Temple of Ellesiya, the Gallery of the Kings and the Papyrus of the Gold Mines.",
         "come": "In the center, on foot from Piazza Castello or Piazza San Carlo. You enter with a ticket bought online for a time slot. Audioguide or app to understand the pieces.",
-        "quando": "Open every day. Monday 9-2, Tuesday-Friday and Sunday 9-6.30, Saturday 9-8, last entry one hour before closing. Early morning or Saturday evening to avoid crowds.",
+        "quando": "Open every day. Monday 9-2, Tuesday-Friday and Sunday 9-6.30, Saturday 9-8, last entry one hour before closing. Early morning or Saturday evening to avoid crowds. The Historic Rooms have been temporarily closed since 12 December 2025: see the notice on the website.",
         "tempo": "3 hours, better 4",
         "costo": "18 euros full price (2026)",
         "url": "https://www.museoegizio.it/",

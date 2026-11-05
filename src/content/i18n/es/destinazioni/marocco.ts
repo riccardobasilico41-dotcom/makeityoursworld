@@ -48,7 +48,7 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         "nome": "Madrasa Ben Youssef",
-        "testo": "La antigua escuela coránica del siglo XIV (reconstruida en el XVI), con el patio de mármol y estucos de cedro y zellige. Entre las más bellas de Marruecos.",
+        "testo": "La escuela coránica fundada en el siglo XIV y reconstruida por los sultanes saadíes en el XVI, de las mayores del Magreb. El patio tiene un estanque de mármol en el centro y paredes de zellige, yeserías y cedro tallado hasta el techo. Arriba se ven las pequeñas celdas de los estudiantes, asomadas al patio.",
         "come": "A pie desde la medina norte, unos 15 minutos de Jemaa el-Fna.",
         "quando": "Mañana a la apertura, para tener los patios vacíos.",
         "tempo": "45 minutos",
@@ -77,7 +77,25 @@ export const destinazioniMarocco: Destinazione[] = [
         "quando": "Mañana a la apertura: las entradas son limitadas y el jardín se llena.",
         "tempo": "1-1,5 horas",
         "costo": "150 MAD (de mi viaje)",
-        "consiglio": "Reservar la entrada antes, porque en las horas centrales se forma cola."
+        "consiglio": "Reservar la entrada antes, porque en las horas centrales se forma cola.",
+        "url": "https://www.jardinmajorelle.com/"
+      },
+      {
+        "nome": "Museo Yves Saint Laurent",
+        "testo": "A pocos pasos del Jardin Majorelle, el edificio de ladrillo rosa y terracota muestra por turnos vestidos, bocetos y fotografías del modista, que venía a Marrakech cada año. Hay también una sala de exposiciones temporales y una librería.",
+        "come": "A pie desde el Jardin Majorelle, en la misma calle. Entrada aparte, en la web oficial.",
+        "quando": "Abierto todos los días salvo el miércoles, de 10 a 18, última entrada 17.30 (2026).",
+        "tempo": "1 hora",
+        "url": "https://www.museeyslmarrakech.com/",
+        "consiglio": "Combinarlo con el Majorelle la misma mañana, reservando los dos con antelación."
+      },
+      {
+        "nome": "Mezquita Kutubía",
+        "testo": "El alminar almohade del siglo XII, de unos 77 metros, es la referencia de la ciudad y el modelo de la Giralda de Sevilla. La mezquita está cerrada a los no musulmanes, pero se rodea y se pasea por los jardines de detrás, con los restos de la primera mezquita.",
+        "come": "A pie desde Jemaa el-Fna, cinco minutos hacia el oeste.",
+        "quando": "Atardecer, cuando el alminar se colorea y empieza la llamada a la oración de la tarde.",
+        "tempo": "30 minutos",
+        "costo": "Exterior y jardines libres"
       }
     ],
     programmi: [
@@ -184,6 +202,14 @@ export const destinazioniMarocco: Destinazione[] = [
         "come": "A una hora de Telouet; se cruza el río a pie y se sube entre las casas.",
         "quando": "Mañana, por la mejor luz en la fachada y sin calor.",
         "tempo": "1-1,5 horas"
+      },
+      {
+        "nome": "Kasbah de Taourirt en Uarzazat",
+        "testo": "La kasbah de los Glaoui, los señores del Atlas, en el centro de Uarzazat: un laberinto de patios y estancias de tierra, en parte restauradas, con techos de madera pintada y ventanas de celosía. Es una buena introducción a la arquitectura de barro que luego se ve en los valles.",
+        "come": "En el centro de Uarzazat, a una media hora en coche de Aït Benhaddou. Se visita por libre o con guía en la entrada.",
+        "quando": "Última hora de la tarde, de camino a los valles. Horarios en el lugar.",
+        "tempo": "45 minutos",
+        "consiglio": "Los Atlas Studios, a la entrada de la ciudad, solo merecen la pena a los amantes del cine: la kasbah es más interesante."
       }
     ],
     programmi: [
@@ -269,7 +295,7 @@ export const destinazioniMarocco: Destinazione[] = [
     luoghi: [
       {
         "nome": "Gargantas del Todra",
-        "testo": "Un cañón con paredes de roca de hasta 300 metros, que se estrechan hasta unos 10 metros. Se camina por el fondo junto al arroyo.",
+        "testo": "Un cañón de roca caliza en el Alto Atlas: en el último kilómetro las paredes suben cientos de metros y se estrechan hasta una decena de metros. Se camina por el fondo junto al arroyo, con escaladores en las paredes.",
         "come": "Desde Aït Benhaddou unas 3 horas de carretera; se para en una explanada y se camina.",
         "quando": "Mañana, antes de los grupos.",
         "tempo": "30 minutos"
@@ -289,6 +315,15 @@ export const destinazioniMarocco: Destinazione[] = [
         "quando": "Mañana o última hora de la tarde.",
         "tempo": "1-2 horas",
         "costo": "350 MAD por persona (de mi viaje)"
+      },
+      {
+        "nome": "Khamlia y la música gnawa",
+        "testo": "Un pueblo al sur de Merzouga habitado por familias gnawa, descendientes de esclavos llegados del África subsahariana. En la casa de la música tocan tambores y qraqeb, las castañuelas de hierro, y sirven té: una forma sencilla de entender otra parte de la historia de Marruecos.",
+        "come": "En coche o 4x4 desde Merzouga, unos 15 minutos. Suele ser parada de las excursiones en jeep alrededor del Erg Chebbi.",
+        "quando": "Por la tarde, antes de salir hacia el campamento en el desierto.",
+        "tempo": "1 hora",
+        "costo": "Donativo para los músicos",
+        "consiglio": "Dejar un donativo o comprar un CD: es de lo que vive el grupo."
       }
     ],
     programmi: [
@@ -381,6 +416,14 @@ export const destinazioniMarocco: Destinazione[] = [
         "quando": "Tarde.",
         "tempo": "Medio día",
         "consiglio": "Salirse de las rutas más trilladas vale la pena: Tamnougalt lo demuestra."
+      },
+      {
+        "nome": "Zagora y el cartel «Tombuctú 52 días»",
+        "testo": "La capital del valle del Draa, última ciudad antes del desierto hacia el sur. A la salida está el cartel pintado que marca 52 días en camello hasta Tombuctú, recuerdo de las caravanas. Alrededor, palmerales, kasbahs y el pueblo de Tamegroute con su cerámica verde.",
+        "come": "Desde Agdz, hora y media hacia el sur por el valle. Tamegroute está 20 km más allá.",
+        "quando": "Por la mañana para Tamegroute y los talleres, atardecer en las dunas de Tinfou.",
+        "tempo": "Media jornada",
+        "consiglio": "En Tamegroute la biblioteca coránica y los hornos de los alfareros valen más que las dunas de Zagora, pequeñas comparadas con Merzouga."
       }
     ],
     programmi: [
@@ -483,10 +526,26 @@ export const destinazioniMarocco: Destinazione[] = [
       },
       {
         "nome": "Taroudant",
-        "testo": "Una ciudad dentro de murallas rojas íntegras, llamada «la pequeña Marrakech».",
+        "testo": "Una pequeña ciudad dentro de murallas de tierra roja casi intactas, de unos 7 km, por eso llamada «la pequeña Marrakech». Tiene dos zocos, uno bereber y uno árabe, mucho menos turísticos que los de Marrakech, y se recorre bien en calesa a lo largo de las murallas.",
         "come": "Desde Taliouine una hora, hacia Agadir.",
         "quando": "Tarde.",
         "tempo": "1-2 horas"
+      },
+      {
+        "nome": "Kasbah de Agadir Oufella",
+        "testo": "Las murallas de la vieja kasbah en la colina sobre el puerto, la única parte de la ciudad que sobrevivió al terremoto de 1960. En la ladera están las letras en árabe «Dios, Patria, Rey», iluminadas de noche, y desde arriba se ve toda la bahía.",
+        "come": "Desde el paseo marítimo en taxi o con el teleférico que sube desde la zona del puerto.",
+        "quando": "Atardecer, con la luz sobre la bahía.",
+        "tempo": "1 hora",
+        "consiglio": "Subir en teleférico y bajar en taxi o a pie por la carretera, mirando el puerto pesquero."
+      },
+      {
+        "nome": "Zoco El Had",
+        "testo": "El gran mercado cubierto de Agadir, dentro de murallas de ladrillo con una decena de puertas: fruta, especias, aceite de argán, cerámica y ropa, con muchos más marroquíes que turistas. Es el sitio para comprar argán y amlou a precios normales.",
+        "come": "En taxi desde el paseo marítimo, unos 10 minutos.",
+        "quando": "Por la mañana. Cerrado los lunes; el domingo es el día más concurrido.",
+        "tempo": "1,5-2 horas",
+        "consiglio": "Los puestos de fruta y verdura son la parte más viva: el té a la menta en los cafés de dentro cuesta muy poco."
       }
     ],
     programmi: [
@@ -597,6 +656,14 @@ export const destinazioniMarocco: Destinazione[] = [
         "come": "Desde la medina en taxi, unos 10 minutos.",
         "quando": "Última hora de la tarde.",
         "tempo": "1-2 horas"
+      },
+      {
+        "nome": "Playa y kitesurf",
+        "testo": "La larga bahía de arena al sur de la medina, barrida por los alisios gran parte del año: por eso Esauira es una de las capitales del kitesurf y del windsurf en África. Poco baño, el agua es fría; se camina hasta Diabat con la isla de Mogador delante.",
+        "come": "A pie desde la medina, saliendo por Bab Sbaa hacia el sur. Escuelas de kite y alquiler en la playa.",
+        "quando": "Por la tarde, cuando el viento es más regular. En verano sopla más.",
+        "tempo": "Media jornada",
+        "consiglio": "Para una clase de kite elegir una escuela con licencia e instructores certificados, y preguntar qué cubre el seguro."
       }
     ],
     programmi: [

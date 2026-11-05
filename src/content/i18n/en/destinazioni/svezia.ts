@@ -54,10 +54,11 @@ export const destinazioniSvezia: Destinazione[] = [
       },
       {
         nome: "Vasa Museum",
-        testo: "A warship from 1628 that sank after 1,300 metres in the harbour on its maiden voyage and was recovered almost intact in 1961. It is one of the best-preserved ancient ships in the world, displayed in a hall with nine levels of walkways.",
+        testo: "A warship from 1628 that sank after 1,300 metres in the harbour on its maiden voyage and was recovered almost intact in 1961. It is one of the best-preserved ancient ships in the world, displayed in a large hall with walkways on several levels, from the keel up to deck height.",
         come: "Tram 7 or bus 67 to Djurgården, or ferry from the centre. Free visit, with guided tours in English.",
         quando: "Weekday morning; it is the most visited museum in Scandinavia.",
         tempo: "2 hours",
+        costo: "195 SEK adults in low season (2026), more in summer",
         url: "https://www.vasamuseet.se",
         consiglio: "Book your ticket online in high season."
       },
@@ -198,15 +199,17 @@ export const destinazioniSvezia: Destinazione[] = [
     comeSpostarsi: 'On foot in the center; train to Abisko.',
     periodoMigliore: "the same as Abisko: from late December to March for the aurora, with February-March much cheaper",
     costi:
-      "The church and the center can be visited for free. The LKAB mine costs about 590 SEK (€52) per person for the 3-hour guided tour. The ICEHOTEL costs 349 SEK (€31) for daytime entry only, from 3,995 SEK (€350) a night for 2 people to sleep there. Double room in a mid-range hotel in town: roughly €100-150/night.",
+      "The centre can be visited for free; the church is closed until its planned reopening in 2027. The LKAB mine costs about 590 SEK (€52) per person for the 3-hour guided tour. The ICEHOTEL costs 349 SEK (€31) for daytime entry only, from 3,995 SEK (€350) a night for 2 people to sleep there. Double room in a mid-range hotel in town: roughly €100-150/night.",
     erroriDaEvitare: [],
     miaEsperienza:
       "For me Kiruna was a practical base more than a destination: on the way out the bareness of the STF, on the way back the spa at the Elite Hotel Frost, and in the background the red church and the center in transformation.",
     luoghi: [
       {
         nome: "Kiruna Church",
-        testo: "A red wooden church from 1912 by Gustaf Wickman, considered one of the largest wooden buildings in Sweden. In 2025 it was moved to the new city centre, because of the mine's expansion.",
-        come: "In town, on foot from the centre; check the updated location before going.",
+        testo: "A red wooden church from 1912 by Gustaf Wickman, considered one of the largest wooden buildings in Sweden. On 19 and 20 August 2025 it was carried in one piece about 5 km, on remote-controlled trailers, to the new centre, between the cemetery and the new square, because of the mine's expansion. Work on the interior is under way: reopening is planned for 2027.",
+        come: "In Kiruna's new centre, on foot; for now it can only be seen from outside.",
+        costo: "closed to the public until the reopening planned for 2027",
+        url: "https://www.svenskakyrkan.se/kiruna",
         quando: "Daytime, as winter daylight is short.",
         tempo: "30 minutes-1 hour",
         consiglio: "The new centre is under construction: a chance to see a city on the move."
@@ -214,9 +217,11 @@ export const destinazioniSvezia: Destinazione[] = [
       {
         nome: "LKAB iron mine",
         testo: "The largest underground iron mine in the world; the guided tour of about 3 hours goes down to 540 metres. It explains why Kiruna is moving.",
-        come: "Tour booked from Kiruna, with bus transfer; ask LKAB for the dates.",
-        quando: "All year.",
+        come: "Guided tour run by Kiruna Lapland, by bus from the Kiruna Tourist Center (Malmvägen 9B); days and languages vary with the season.",
+        quando: "All year; places sell out fast in winter.",
         tempo: "3 hours",
+        costo: "590 SEK adults (2026), including transfer, guide and coffee",
+        url: "https://kirunalapland.se/en/mine-tour/",
         consiglio: "Bring warm clothes: underground the temperature is low."
       },
       {
@@ -287,7 +292,7 @@ export const destinazioniSvezia: Destinazione[] = [
     comeSpostarsi: 'On foot in the village; organized excursions for snowmobiles and huskies.',
     periodoMigliore: 'from late December to March; February-March costs much less while keeping high chances of aurora',
     costi:
-      "Activities, indicative price per person: Aurora Sky Station chairlift €35-40 (package with dinner and overnight at altitude about €270-310, Fridays only); guided snowmobile on the frozen lake about €100-110 (self-drive €150-250); evening husky sledding with aurora hunting €240 (shorter daytime versions from €70). Costs of the whole trip per person: flights €600-645, lodging €400-600, domestic transport €80 (scenic train + airport transfer), excursions €450-500 for 3 guided tours. Indicative total budget from €1,500 (basic) to €1,800 (excellent level).",
+      "Activities, indicative price per person: Aurora Sky Station guided night visit from 1,295 SEK (about €120) and dinner at the top from 2,395 SEK (about €215), STF 2026-27 price list; guided snowmobile on the frozen lake about €100-110 (self-drive €150-250); evening husky sledding with aurora hunting €240 (shorter daytime versions from €70). Costs of the whole trip per person: flights €600-645, lodging €400-600, domestic transport €80 (scenic train + airport transfer), excursions €450-500 for 3 guided tours. Indicative total budget from €1,500 (basic) to €1,800 (excellent level).",
     erroriDaEvitare: [
       "Going at New Year if the goal is to save money: it is the most expensive time of the year to fly and sleep in the area",
       "Not keeping an extra margin on transport: with the extreme cold trains are sometimes canceled (not often, but it happens), and in those cases the local taxis tend to raise prices a bit",
@@ -298,9 +303,10 @@ export const destinazioniSvezia: Destinazione[] = [
       {
         nome: "Aurora Sky Station",
         testo: "A station at the top of Mount Nuolja, reached by chairlift, from which you watch the aurora in one of the clearest places in Sweden. There is also a panoramic dinner.",
-        come: "Chairlift from Abisko Turiststation; the booking includes dinner and the ride up.",
-        quando: "Winter, nights with clear skies.",
+        come: "Chairlift from STF Abisko Turiststation. Two options to book ahead, with limited places: Night Visit (guide, return chairlift, thermal overalls and boots) and Northern Lights Dinner.",
+        quando: "2026-27 season from 19 October to 27 March, 8:30 pm to 1:00 am; in strong wind the chairlift stops.",
         tempo: "3-4 hours",
+        costo: "Night Visit from 1,295 SEK, dinner from 2,395 SEK per person (2026-27 season, STF price list)",
         url: "https://www.auroraskystation.se",
         consiglio: "I had dinner up there: it is among the strongest memories of the week."
       },

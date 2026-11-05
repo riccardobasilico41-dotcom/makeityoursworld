@@ -48,7 +48,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Playa Marlin y Playa Gaviota",
-          "testo": "Playas públicas gratuitas en el centro de la zona hotelera, sin camas de pago.",
+          "testo": "Playas públicas gratuitas en el centro de la zona hotelera, sin camastros de pago. Son de los pocos accesos libres al mar en esta parte de la ciudad; el mar está más movido que en Isla Mujeres, así que antes de bañarse conviene mirar la bandera de los salvavidas.",
           "come": "Bus local R1 desde el centro.",
           "quando": "Mañana.",
           "tempo": "Media jornada"
@@ -63,7 +63,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Coco Bongo",
-          "testo": "El local con espectáculo más famoso de la ciudad.",
+          "testo": "El local con espectáculo más famoso de la ciudad, en la zona hotelera: acróbatas, música en vivo y números inspirados en películas, hasta muy tarde. El precio cambia mucho según la ubicación (de pie, en la barra o en mesa), así que conviene saber qué incluye el boleto antes de comprarlo.",
           "come": "Entradas con revendedores.",
           "quando": "Noche.",
           "tempo": "Una velada",
@@ -160,21 +160,23 @@ export const destinazioniMessico: Destinazione[] = [
           "come": "Desde Valladolid unos 40 minutos en coche o taxi, o tour con guía.",
           "quando": "Mañana, a la apertura, antes de los autocares y del calor.",
           "tempo": "3-4 horas",
+          "costo": "697 MXN para extranjeros, con boleto único federal y estatal en una sola taquilla desde el 27 de marzo de 2026; los domingos es gratis solo para mexicanos y residentes.",
           "url": "https://www.inah.gob.mx/",
           "consiglio": "Para Chichén Itzá recomiendo un guía: Alejandro habla español e inglés, nació a 20 minutos del sitio y está muy preparado."
         },
         {
           "nome": "Ek Balam",
-          "testo": "Sitio maya más pequeño y mucho menos concurrido, con una acrópolis a la que se puede subir y decoraciones en estuco.",
+          "testo": "Sitio maya más pequeño y mucho menos concurrido, con una gran acrópolis y decoraciones de estuco muy bien conservadas, como la «boca del monstruo» en la entrada de la tumba. Si hoy se puede subir a la cima depende de las reglas del momento: preguntar en taquilla.",
           "come": "Desde Valladolid unos 30 minutos en taxi.",
           "quando": "Mañana.",
           "tempo": "2 horas",
+          "costo": "Unos 690 MXN para extranjeros entre cuota federal y estatal (2026).",
           "url": "https://www.inah.gob.mx/",
           "consiglio": "A menudo infravalorado: combinarlo con el cenote Xcanché justo al lado."
         },
         {
           "nome": "Cenote Xcanché",
-          "testo": "Un cenote a cielo abierto cerca de Ek Balam, con saltos y lianas.",
+          "testo": "Cenote a cielo abierto cerca de Ek Balam, con saltos y lianas. Se baja por una escalera en la roca hasta el agua, rodeada de raíces y plantas colgantes; alrededor hay renta de bicis y un pequeño restaurante.",
           "come": "Taxi o bici desde Ek Balam.",
           "quando": "Mañana o primera hora de la tarde.",
           "tempo": "1-2 horas"
@@ -396,7 +398,7 @@ export const destinazioniMessico: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Plaza de la Catedral",
-          "testo": "La plaza central del centro histórico, muy cuidada, con la catedral y los típicos limpiabotas.",
+          "testo": "La plaza principal del centro histórico, muy cuidada, con la catedral y los boleros típicos. Las fachadas color pastel de las casas alrededor son la Campeche de las fotos; de noche la plaza se llena de familias y vendedores de dulces.",
           "come": "A pie.",
           "quando": "Mañana y noche.",
           "tempo": "1 hora"
@@ -410,11 +412,28 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Murallas y baluartes",
-          "testo": "Campeche es una ciudad fortificada del siglo XVII, patrimonio UNESCO, con baluartes y fuertes construidos contra los piratas.",
+          "testo": "Campeche es una ciudad amurallada, patrimonio de la UNESCO desde 1999, con murallas y baluartes construidos entre los siglos XVII y XVIII contra los ataques de piratas. Algunos baluartes albergan pequeños museos y jardines; parte de la muralla se recorre a pie.",
           "come": "A pie por las murallas.",
           "quando": "Mañana.",
           "tempo": "2 horas",
           "url": "https://www.inah.gob.mx/"
+        },
+        {
+          "nome": "Fuerte de San Miguel",
+          "testo": "Fuerte en la colina al suroeste del centro, con foso y cañones hacia el Golfo. Dentro está el museo arqueológico con las máscaras de jade de Calakmul; desde las murallas, el atardecer sobre el mar es de los mejores de la ciudad.",
+          "come": "Taxi desde el centro, unos 10 minutos.",
+          "quando": "Tarde; como muchos museos del INAH, verificar el cierre de los lunes.",
+          "tempo": "1-2 horas",
+          "url": "https://www.inah.gob.mx/"
+        },
+        {
+          "nome": "Edzná",
+          "testo": "Sitio maya tierra adentro con el Edificio de los Cinco Pisos, una pirámide escalonada sobre una gran plaza. Recibe pocos visitantes comparado con los sitios de Yucatán y se recorre casi a solas, entre iguanas y silencio.",
+          "come": "Auto, taxi o tour desde Campeche, cerca de una hora.",
+          "quando": "Temprano, antes del calor.",
+          "tempo": "Medio día",
+          "url": "https://www.inah.gob.mx/",
+          "consiglio": "Llevar agua y sombrero: hay poca sombra."
         }
       ],
       "programmi": [
@@ -444,25 +463,27 @@ export const destinazioniMessico: Destinazione[] = [
       "sapori": [
         {
           "nome": "Pan de cazón",
-          "testo": "Tortillas con cazón y frijoles, especialidad de Campeche."
+          "testo": "Tortillas en capas con cazón deshebrado, frijol negro y salsa de tomate. Es el plato emblema de la ciudad: se encuentra en los restaurantes del centro y en las loncherías."
         },
         {
           "nome": "Camarones al coco",
-          "testo": "Camarones empanizados con coco."
+          "testo": "Camarones fritos en costra de coco rallado, a menudo con una salsa dulce de fruta. Se piden en los restaurantes de mariscos del malecón."
         },
         {
-          "nome": "Pescado a la campechana",
-          "testo": "Pescado con salsa de tomate y aceitunas."
+          "nome": "Coctel campechano",
+          "testo": "Vaso frío de mariscos mixtos, como camarón, pulpo y ostión, con salsa de tomate, limón y aguacate. En México «campechano» quiere decir justamente «mixto»."
         },
         {
-          "nome": "Cóctel de camarón",
-          "testo": "Callejero, en el malecón."
+          "nome": "Panuchos y codzitos",
+          "testo": "Tortillas fritas rellenas de frijol y taquitos enrollados con salsa de tomate: los antojitos de la península, en mercados y cenadurías."
         }
       ],
       "attenzioni": [
         "El traslado del día siguiente hacia Mahahual es muy largo y se cambia de huso horario: salir temprano.",
         "El centro de noche es tranquilo, pero evitar las calles vacías fuera de las murallas.",
-        "Precios bajos: no pagar de más por tours improvisados."
+        "Precios bajos: no pagar de más por tours improvisados.",
+        "Muchos museos del INAH, incluidos los de los fuertes, cierran los lunes: revisar antes de organizar el día.",
+        "De abril a octubre el calor húmedo es fuerte: salir temprano y al atardecer, y tomar mucha agua."
       ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-beach-life'],
@@ -503,7 +524,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Snorkel con tortugas",
-          "testo": "Salida en barca a pocos metros de la costa, donde viven tortugas verdes en el arrecife.",
+          "testo": "Salida en lancha a pocos metros de la costa, donde viven tortugas verdes en el arrecife. Aquí el arrecife está muy cerca de la orilla y mucho menos concurrido que en la Riviera Maya: se ven también rayas, peces loro y corales blandos.",
           "come": "Tour desde el malecón con operador.",
           "quando": "Mañana.",
           "tempo": "2-3 horas"
@@ -514,6 +535,14 @@ export const destinazioniMessico: Destinazione[] = [
           "come": "Reserva con un alojamiento de la zona.",
           "quando": "Noche.",
           "tempo": "2-3 horas"
+        },
+        {
+          "nome": "Banco Chinchorro",
+          "testo": "Reserva de la biosfera frente a Mahahual, uno de los atolones coralinos más grandes del Caribe, con fondos intactos y naufragios. Es la excursión más bonita de la zona, pero también la que más depende del clima: con viento fuerte se cancelan las salidas.",
+          "come": "Solo con operadores autorizados desde Mahahual o Xcalak, en lancha rápida.",
+          "quando": "Mañana, con mar en calma; mejor en los meses secos.",
+          "tempo": "Día completo",
+          "consiglio": "Preguntar cuántas horas de navegación hay y qué incluye el precio (cuota del parque, comida, equipo)."
         }
       ],
       "programmi": [
@@ -547,26 +576,28 @@ export const destinazioniMessico: Destinazione[] = [
       ],
       "sapori": [
         {
-          "nome": "Ceviche y pescado frito",
-          "testo": "Fresco, en el malecón."
+          "nome": "Pescado frito entero y ceviche",
+          "testo": "El pescado del día frito entero, con arroz, ensalada y tortillas, en los restaurantes del malecón. A mediodía se pide ceviche de pescado o de camarón."
+        },
+        {
+          "nome": "Pez león",
+          "testo": "El pez león es una especie invasora del Caribe y aquí se cocina con gusto: en ceviche, frito o en tacos. Pedirlo también ayuda al arrecife."
         },
         {
           "nome": "Tacos de pescado",
-          "testo": "Callejeros."
-        },
-        {
-          "nome": "Mariscos",
-          "testo": "Camarones y langosta, en restaurantes frente al mar."
+          "testo": "Pescado capeado o a la plancha en tortilla de maíz, con col, salsa y limón. En los puestos del pueblo cuestan mucho menos que frente al mar."
         },
         {
           "nome": "Agua fresca",
-          "testo": "De fruta, para el calor."
+          "testo": "Aguas de fruta en vasos grandes: jamaica, horchata, limón con chaya. Van bien con el calor del Caribe, en lugar de los refrescos."
         }
       ],
       "attenzioni": [
         "El día de llegada tiene un ritmo apretado: si se falla en los horarios de las paradas anteriores (en particular Balam Ku) se cae el resto del día.",
         "Los días de cruceros el malecón está lleno y los precios suben.",
-        "Sol fuerte: protector solar apto para arrecifes y agua."
+        "Sol fuerte: protector solar apto para arrecifes y agua.",
+        "Pocos cajeros y a veces sin efectivo: llegar con suficientes pesos.",
+        "Entre primavera y verano puede llegar el sargazo: preguntar en el lugar qué playas están limpias."
       ],
     esperienzeSlugs: ['snorkeling-tartarughe-mahahual', 'temazcal'],
     tripSlugs: ['messico-beach-life'],
@@ -723,12 +754,13 @@ export const destinazioniMessico: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Zona arqueológica de Tulum",
-          "testo": "Ciudad maya sobre un acantilado frente al Caribe, el único sitio maya de México que da al mar. El Castillo y el Templo del Dios del Viento son los puntos clave.",
-          "come": "Desde el pueblo de Tulum en taxi o bici. Entrada INAH; la playa bajo el sitio es accesible.",
+          "testo": "Ciudad maya sobre el acantilado frente al Caribe, uno de los pocos sitios mayas frente al mar. El Castillo y el Templo del Dios del Viento son los puntos clave; la muralla que cierra la ciudad por tres lados explica el nombre Tulum, «muro» en maya (antiguamente se llamaba Zamá, «amanecer»).",
+          "come": "Desde Tulum pueblo en taxi o bici; dentro del Parque del Jaguar hay un transporte eléctrico de pago hasta la entrada. La playita bajo el sitio a veces está cerrada (sargazo o anidación de tortugas).",
           "quando": "Mañana, antes del calor y de los autocares.",
           "tempo": "2 horas",
+          "costo": "265 MXN para extranjeros entre zona arqueológica y área protegida (2026); el transporte eléctrico interno cuesta unos 20 MXN.",
           "url": "https://www.inah.gob.mx/",
-          "consiglio": "Un baño en la cala bajo el acantilado después de la visita."
+          "consiglio": "Baño en la caleta bajo el acantilado después de la visita, si el acceso está abierto."
         },
         {
           "nome": "Cenote Dos Ojos",
@@ -755,7 +787,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Xcacel",
-          "testo": "Playa protegida con eclosión de tortugas de abril a octubre. Entrada 100 MXN, prohibidos comida, alcohol y altavoces, abierta de 10 a 16, cerrada los lunes.",
+          "testo": "Playa protegida, de las últimas de la costa sin hoteles, donde las tortugas desovan entre primavera y verano. Las reglas son estrictas: nada de comida, alcohol ni bocinas; la entrada, el horario y los días de cierre hay que verificarlos en el lugar.",
           "come": "Taxi o coche desde Tulum.",
           "quando": "Mañana.",
           "tempo": "2-3 horas"

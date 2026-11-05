@@ -73,10 +73,11 @@ export const destinazioniSvezia: Destinazione[] = [
       },
       {
         nome: "Museo Vasa",
-        testo: "Una nave da guerra del 1628 affondata dopo 1.300 metri nel porto durante il viaggio inaugurale e recuperata quasi intatta nel 1961. È una delle navi antiche meglio conservate del mondo, esposta in una sala con nove livelli di passerelle.",
+        testo: "Una nave da guerra del 1628 affondata dopo 1.300 metri nel porto durante il viaggio inaugurale e recuperata quasi intatta nel 1961. È una delle navi antiche meglio conservate del mondo, esposta in una grande sala con passerelle su più livelli, dalla chiglia fino all'altezza del ponte.",
         come: "Tram 7 o bus 67 fino a Djurgården, oppure traghetto dal centro. Visita libera, con tour guidati in inglese.",
         quando: "Mattina nei giorni feriali; è il museo più visitato della Scandinavia.",
         tempo: "2 ore",
+        costo: "195 SEK adulti in bassa stagione (2026), di più in estate",
         url: "https://www.vasamuseet.se",
         consiglio: "Prenotare online il biglietto in alta stagione."
       },
@@ -217,15 +218,17 @@ export const destinazioniSvezia: Destinazione[] = [
     comeSpostarsi: 'A piedi in centro; treno per Abisko.',
     periodoMigliore: 'lo stesso di Abisko: da fine dicembre a marzo per l\'aurora, con febbraio-marzo molto più economici',
     costi:
-      'La chiesa e il centro si visitano gratis. La miniera LKAB costa circa 590 SEK (52€) a persona per il tour guidato di 3 ore. L\'ICEHOTEL costa 349 SEK (31€) solo ingresso di giorno, da 3.995 SEK (350€) a notte per 2 persone per dormirci. Doppia in hotel di fascia media in città: indicativamente 100-150€/notte.',
+      'Il centro si visita gratis; la chiesa è chiusa fino alla riapertura prevista nel 2027. La miniera LKAB costa circa 590 SEK (52€) a persona per il tour guidato di 3 ore. L\'ICEHOTEL costa 349 SEK (31€) solo ingresso di giorno, da 3.995 SEK (350€) a notte per 2 persone per dormirci. Doppia in hotel di fascia media in città: indicativamente 100-150€/notte.',
     erroriDaEvitare: [],
     miaEsperienza:
       'Kiruna per me è stata una base pratica più che una meta: all\'andata l\'essenzialità dello STF, al ritorno la spa dell\'Elite Hotel Frost, e sullo sfondo la chiesa rossa e il centro in trasformazione.',
     luoghi: [
       {
         nome: "Chiesa di Kiruna",
-        testo: "Chiesa in legno rossa del 1912 di Gustaf Wickman, considerata una delle più grandi costruzioni di legno della Svezia. Nel 2025 è stata spostata nel nuovo centro della città, per via dell'espansione della miniera.",
-        come: "In città, a piedi dal centro; controllare l'ubicazione aggiornata prima di andare.",
+        testo: "Chiesa in legno rossa del 1912 di Gustaf Wickman, considerata una delle più grandi costruzioni di legno della Svezia. Il 19 e 20 agosto 2025 è stata trasportata intera per circa 5 km, su carrelli comandati a distanza, fino al nuovo centro, tra il cimitero e la nuova piazza, per via dell'espansione della miniera. All'interno sono in corso i lavori di sistemazione: la riapertura è prevista nel 2027.",
+        come: "Nel nuovo centro di Kiruna, a piedi; per ora si vede solo da fuori.",
+        costo: "chiusa al pubblico fino alla riapertura prevista nel 2027",
+        url: "https://www.svenskakyrkan.se/kiruna",
         quando: "Giorno, con luce diurna d'inverno breve.",
         tempo: "30 minuti-1 ora",
         consiglio: "Il nuovo centro è in costruzione: un'occasione di vedere una città che si sposta."
@@ -233,9 +236,11 @@ export const destinazioniSvezia: Destinazione[] = [
       {
         nome: "Miniera di ferro LKAB",
         testo: "La più grande miniera di ferro sotterranea del mondo; il tour guidato di circa 3 ore scende fino a 540 metri di profondità. Spiega perché Kiruna sta traslocando.",
-        come: "Tour prenotato da Kiruna, con trasferimento in bus; chiedere a LKAB le date.",
-        quando: "Tutto l'anno.",
+        come: "Tour guidato di Kiruna Lapland con bus dal Kiruna Tourist Center (Malmvägen 9B); giorni e lingue cambiano con la stagione.",
+        quando: "Tutto l'anno; i posti finiscono presto in inverno.",
         tempo: "3 ore",
+        costo: "590 SEK adulti (2026), con trasferimento, guida e caffè",
+        url: "https://kirunalapland.se/en/mine-tour/",
         consiglio: "Portare abiti caldi: sotto terra la temperatura è bassa."
       },
       {
@@ -306,7 +311,7 @@ export const destinazioniSvezia: Destinazione[] = [
     comeSpostarsi: 'A piedi nel villaggio; escursioni organizzate per motoslitta e husky.',
     periodoMigliore: 'da fine dicembre a marzo; febbraio-marzo costa molto meno pur mantenendo alte probabilità di aurora',
     costi:
-      'Attività, prezzo indicativo a persona: seggiovia Aurora Sky Station 35-40€ (pacchetto con cena e pernottamento in quota circa 270-310€, solo il venerdì); motoslitta guidata sul lago ghiacciato circa 100-110€ (self-drive 150-250€); husky sledding serale con caccia all\'aurora 240€ (versioni diurne più brevi da 70€). Costi dell\'intero viaggio per persona: voli 600-645€, alloggi 400-600€, trasporti interni 80€ (treno panoramico + transfer aeroportuale), escursioni 450-500€ per 3 tour con guida. Budget totale indicativo da 1.500€ (base) a 1.800€ (livello ottimo).',
+      'Attività, prezzo indicativo a persona: Aurora Sky Station con visita serale guidata da 1.295 SEK (circa 120€) e cena in quota da 2.395 SEK (circa 215€), listino STF della stagione 2026-27; motoslitta guidata sul lago ghiacciato circa 100-110€ (self-drive 150-250€); husky sledding serale con caccia all\'aurora 240€ (versioni diurne più brevi da 70€). Costi dell\'intero viaggio per persona: voli 600-645€, alloggi 400-600€, trasporti interni 80€ (treno panoramico + transfer aeroportuale), escursioni 450-500€ per 3 tour con guida. Budget totale indicativo da 1.500€ (base) a 1.800€ (livello ottimo).',
     erroriDaEvitare: [
       'Andare a Capodanno se l\'obiettivo è risparmiare: è il periodo più caro dell\'anno per volare e dormire in zona',
       'Non tenere un margine extra sui trasporti: con il freddo estremo i treni a volte vengono cancellati (non spesso, ma succede), e in quei casi i taxi della zona tendono ad alzare un po\' i prezzi',
@@ -317,9 +322,10 @@ export const destinazioniSvezia: Destinazione[] = [
       {
         nome: "Aurora Sky Station",
         testo: "Una stazione in cima al monte Nuolja, raggiungibile con una seggiovia, da cui si osserva l'aurora in uno dei posti più sereni di Svezia. C'è anche una cena panoramica.",
-        come: "Seggiovia dal Abisko Turiststation; la prenotazione include cena e salita.",
-        quando: "Inverno, notti con cielo sereno.",
+        come: "Seggiovia dalla STF Abisko Turiststation. Due formule da prenotare in anticipo, con posti limitati: Night Visit (guida, seggiovia andata e ritorno, tuta e scarponi termici) e Northern Lights Dinner.",
+        quando: "Stagione 2026-27 dal 19 ottobre al 27 marzo, dalle 20:30 all'1:00; con vento forte la seggiovia si ferma.",
         tempo: "3-4 ore",
+        costo: "Night Visit da 1.295 SEK, cena da 2.395 SEK a persona (stagione 2026-27, listino STF)",
         url: "https://www.auroraskystation.se",
         consiglio: "Ho cenato lassù: è tra i ricordi più forti della settimana."
       },

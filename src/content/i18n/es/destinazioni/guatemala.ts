@@ -67,7 +67,7 @@ export const destinazioniGuatemala: Destinazione[] = [
           "nome": "Volcán Acatenango",
           "testo": "Una subida con campamento sobre las nubes, frente al Fuego en erupción. El tramo más duro del viaje por Guatemala.",
           "come": "Tour de dos días desde Antigua con guía, tienda y comidas. La caminata es de 5-6 horas de subida entre milpas, pinar y arena volcánica.",
-          "quando": "Estación seca (noviembre-abril); a la mañana siguiente se baja por la arena.",
+          "quando": "Temporada seca (noviembre-abril); a la mañana siguiente se baja por la arena. El sendero puede cerrar por la actividad del Fuego o el mal tiempo (en 2026 reabrió en agosto tras un cierre): verificar antes.",
           "tempo": "2 días, 1 noche",
           "consiglio": "El campamento está casi a cero de noche: guantes, gorro, capas de abrigo. La bajada es más deslizarse que caminar."
         }
@@ -204,7 +204,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         },
         {
           "nome": "Indian Nose (Rostro Maya)",
-          "testo": "Un mirador a 3.000 metros sobre San Juan la Laguna, para el amanecer sobre el lago y los volcanes.",
+          "testo": "Un mirador sobre San Juan la Laguna, para el amanecer sobre el lago y los volcanes Atitlán, Tolimán y San Pedro. La cima es un prado estrecho entre árboles: se llega a oscuras y se ve la luz encender el lago.",
           "come": "Despertar sobre las 4, salida en pick-up y caminata de aproximadamente una hora en la oscuridad con guía.",
           "quando": "Amanecer, con cielo despejado.",
           "tempo": "Media mañana",
@@ -325,9 +325,10 @@ export const destinazioniGuatemala: Destinazione[] = [
           "nome": "Gran Plaza y Templos I y II",
           "testo": "El corazón de Tikal: los Templos I (del Gran Jaguar) y II se enfrentan en la plaza ceremonial, con acrópolis a los lados. Patrimonio UNESCO dentro del Parque Nacional Tikal.",
           "come": "Desde la entrada del parque se camina por la selva; entrada y senderos suman kilómetros. Se recomienda visita con guía, también por la fauna.",
-          "quando": "El parque abre al amanecer; mañana temprano por el fresco y los animales.",
+          "quando": "El parque abre todos los días de 6 a 18 h; el ingreso especial al amanecer es de 4 a 6 h. Temprano para el fresco y los animales.",
           "tempo": "3-4 horas",
-          "url": "https://inguat.gob.gt/"
+          "costo": "Q150 para extranjeros, por día; el ingreso al amanecer o al atardecer cuesta Q100 más (tarifas del Ministerio de Cultura, 2026).",
+          "url": "https://boletos.culturaguate.gob.gt/"
         },
         {
           "nome": "Templo IV",

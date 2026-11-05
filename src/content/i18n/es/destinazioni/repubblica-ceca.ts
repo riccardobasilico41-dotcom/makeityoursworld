@@ -14,7 +14,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
     percheAndarci:
       "En una zona compacta concentra siglos de arquitectura gótica, renacentista y barroca casi intacta, un castillo que es de los mayores complejos de castillos cerrados del mundo y un barrio judío con una de las colecciones de sinagogas históricas más importantes de Europa. Y los precios, cerveza incluida, siguen siendo contenidos respecto a Europa occidental.",
     cosaVedere: [
-      "La Plaza de la Ciudad Vieja (Staroměstské náměstí), con la Torre del Reloj Astronómico (Orloj) del ayuntamiento (de 1410, el tercer reloj astronómico más antiguo del mundo todavía en funcionamiento), la gótica Iglesia de Týn y la barroca Iglesia de San Nicolás",
+      "La Plaza de la Ciudad Vieja (Staroměstské náměstí), con la Torre del Reloj Astronómico (Orloj) del ayuntamiento (de 1410, el tercer reloj astronómico más antiguo del mundo y el más antiguo todavía en funcionamiento), la gótica Iglesia de Týn y la barroca Iglesia de San Nicolás",
       "El Puente de Carlos (Karlův most), gótico, de 516 metros de largo, construido a partir de 1357 por encargo de Carlos IV: dieciséis arcos y más de setenta estatuas barrocas (todas copias: los originales se conservan a resguardo), entre ellas la más antigua y venerada, la de San Juan Nepomuceno de 1683",
       "La colina del Castillo de Praga (Pražský hrad), entre los mayores complejos de castillos cerrados del mundo, con la gótica Catedral de San Vito (Katedrála svatého Víta) en su interior, el Antiguo Palacio Real, el Callejón del Oro (Zlatá ulička) y la Basílica de San Jorge",
       "Malá Strana, el barrio barroco a los pies del Castillo, con la Iglesia de San Nicolás (que no hay que confundir con la homónima de la Plaza de la Ciudad Vieja), el Muro de John Lennon y la Isla de Kampa en el Moldava",
@@ -47,7 +47,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
     luoghi: [
       {
         nome: "Plaza de la Ciudad Vieja y Orloj",
-        testo: "La plaza central con la torre del Reloj Astronómico (1410), el tercer reloj astronómico más antiguo del mundo aún en funcionamiento. Cada hora, de 9 a 23, desfilan los Apóstoles y la Muerte tira de la cuerda.",
+        testo: "La plaza central con la torre del Reloj Astronómico (1410), el tercer reloj astronómico más antiguo del mundo y el más antiguo aún en funcionamiento. Cada hora, de 9 a 23, desfilan los Apóstoles y la Muerte tira de la cuerda.",
         come: "A pie, metro A hasta Staroměstská. El Orloj se ve desde la plaza, gratis.",
         quando: "A la hora en punto, pero llegar 10 minutos antes; la torre del ayuntamiento tiene un mirador de pago.",
         tempo: "1 hora",
@@ -75,7 +75,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       },
       {
         nome: "Malá Strana y Muro de John Lennon",
-        testo: "El barrio barroco al pie del Castillo, con la iglesia de San Nicolás y la isla de Kampa. El Muro de Lennon, cubierto de grafitis desde los años ochenta, está en el jardín de Velkopřevorské náměstí.",
+        testo: "El barrio barroco al pie del Castillo, con la iglesia de San Nicolás y la isla de Kampa. El Muro de Lennon, cubierto de grafitis desde los años ochenta, está en la placita Velkopřevorské náměstí, cerca de la isla de Kampa.",
         come: "A pie desde el Puente de Carlos (5 minutos).",
         quando: "Mañana o última hora de la tarde.",
         tempo: "2 horas",
@@ -84,10 +84,11 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       },
       {
         nome: "Josefov y Museo Judío",
-        testo: "El antiguo barrio judío en el corazón de Staré Město, con seis sitios históricos: la sinagoga Vieja-Nueva, la Española y el Antiguo Cementerio Judío. La entrada es única para los sitios del Museo Judío.",
+        testo: "El antiguo barrio judío en el corazón de Staré Město, con cinco sinagogas y el Antiguo Cementerio Judío gestionados por el Museo Judío, entre ellos las sinagogas Española y Pinkas. Una sola entrada cubre todos los sitios del museo; la sinagoga Vieja-Nueva, todavía en uso para el culto, requiere entrada aparte o combinada.",
         come: "Metro A hasta Staroměstská, luego 5 minutos.",
-        quando: "Cerrado el sábado y en las fiestas judías; mañana.",
+        quando: "Abierto todos los días salvo los sábados y las fiestas judías; temprano, antes de los grupos.",
         tempo: "2-3 horas",
+        costo: "600 CZK adultos para todos los sitios del Museo Judío (2026)",
         url: "https://www.jewishmuseum.cz",
         consiglio: "La sinagoga Vieja-Nueva tiene una entrada aparte."
       },

@@ -175,6 +175,24 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
         "quando": "Afternoon and evening, from October to April.",
         "tempo": "5-6 hours",
         "consiglio": "For the real desert you need Liwa and the Rub' al-Khali."
+      },
+      {
+        "nome": "Museum of the Future",
+        "testo": "The oval ring-shaped building covered in steel Arabic calligraphy, on Sheikh Zayed Road. Inside, five floors of immersive installations on space, nature and the human body in 2071. It is worth it mostly for the architecture, which you can photograph from outside without going in.",
+        "come": "Metro to Emirates Towers, then a covered walkway. Timed ticket to buy online.",
+        "quando": "Hours and tickets on the official site. In the evening the lit calligraphy works better in photos.",
+        "tempo": "1.5-2 hours",
+        "url": "https://museumofthefuture.ae/",
+        "consiglio": "Book a few days ahead: weekend slots sell out early."
+      },
+      {
+        "nome": "Dubai Frame",
+        "testo": "A frame about 150 metres high in Zabeel Park, with a glass bridge at the top: on one side you look at old Dubai in Deira and Karama, on the other at the Downtown skyscrapers. A gallery on the ground floor tells the story of the city before oil.",
+        "come": "Metro to Max or ADCB, then a short taxi; or a taxi straight to the Zabeel Park entrance.",
+        "quando": "Late afternoon, to see the city in daylight and then lit up. Hours on the official site.",
+        "tempo": "1 hour",
+        "url": "https://www.dubaiframe.ae/",
+        "consiglio": "It costs less than the Burj Khalifa and the view over Deira, which you do not see well from the Burj, is the reason to go up."
       }
     ],
     programmi: [
@@ -292,8 +310,8 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       {
         "nome": "Sheikh Zayed Grand Mosque",
         "testo": "Eighty-two domes, white columns inlaid with mother-of-pearl, the largest hand-knotted carpet in the world and Swarovski chandeliers. It is open to non-Muslims.",
-        "come": "Taxi or Uber. Free entry, with dress rules: arms and legs covered, head covered for women (abayas on loan).",
-        "quando": "Late afternoon, when the marble goes from white to pink and then blue. At midday the white dazzles.",
+        "come": "Taxi or Uber. Free entry, with the visit booked on the official site, and a dress code: arms and legs covered, head covered for women.",
+        "quando": "Saturday-Thursday 9am-8:30pm; Friday 9-11:30am and 2:30-8:30pm (2026). Late afternoon is best, when the marble turns from white to pink and then blue; at midday the white is blinding.",
         "tempo": "1-1.5 hours",
         "costo": "Free entry",
         "url": "https://www.szgmc.gov.ae/",
@@ -322,6 +340,14 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
         "come": "Taxi from the center.",
         "quando": "Early morning or late afternoon.",
         "tempo": "1 hour"
+      },
+      {
+        "nome": "Corniche and Heritage Village",
+        "testo": "Eight kilometres of seafront with public beaches, cycle paths and a view of the skyscrapers. At the end, on the breakwater, the Heritage Village recreates a village from before oil: goat-hair tents, a mud mosque, craftsmen's workshops and a view of the city that makes the walk worth it.",
+        "come": "Taxi to the Corniche, then on foot or by rental bike. The Heritage Village is on the breakwater opposite Marina Mall.",
+        "quando": "From late afternoon to sunset, when the skyline lights up.",
+        "tempo": "2 hours",
+        "costo": "Corniche and Heritage Village free"
       }
     ],
     programmi: [

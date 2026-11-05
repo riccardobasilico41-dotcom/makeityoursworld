@@ -98,16 +98,18 @@ export const destinazioniNorvegia: Destinazione[] = [
         come: "In estate il traghetto per Bygdøy parte da Rådhusbryggen; in alternativa il bus 30. I musei sono a pochi minuti l'uno dall'altro.",
         quando: "Mattina, per avere le sale con meno gruppi.",
         tempo: "3-4 ore",
+        costo: "Fram Museum 180 NOK adulti (2026); Kon-Tiki con biglietto separato",
         url: "https://www.frammuseum.no",
         consiglio: "I due musei si vedono bene in mezza giornata; evitare il lunedì festivo, quando è affollato."
       },
       {
         nome: "Munch e Nasjonalmuseet",
-        testo: "Il museo Munch, a Bjørvika, raccoglie gran parte dell'opera di Edvard Munch; il Nasjonalmuseet, il più grande museo d'arte del Nord Europa, ha un'altra versione dell'Urlo (1893). Due edifici vicini al fiordo, nel quartiere più nuovo.",
+        testo: "Il museo Munch, a Bjørvika, raccoglie gran parte dell'opera di Edvard Munch; il Nasjonalmuseet, la più grande raccolta di arte, architettura e design della Norvegia, ha un'altra versione dell'Urlo (1893). Due edifici vicini al fiordo, nel quartiere più nuovo.",
         come: "Munch a 10 minuti a piedi dalla stazione; il Nasjonalmuseet a 15 minuti dal centro.",
         quando: "Mattina nei giorni feriali; prenotare online per gli ingressi con orario.",
         tempo: "2-3 ore per ognuno",
-        url: "https://www.munchmuseet.no",
+        costo: "Munch 220 NOK adulti (2026)",
+        url: "https://www.munch.no",
         consiglio: "Confrontare le versioni dell'Urlo: le differenze si vedono dal vivo."
       },
       {
@@ -117,7 +119,7 @@ export const destinazioniNorvegia: Destinazione[] = [
         quando: "Giorno, con cielo limpido; in inverno spesso c'è neve.",
         tempo: "2 ore",
         url: "https://www.holmenkollen.com",
-        consiglio: "Salire dal tram del pomeriggio e scendere a piedi nel bosco."
+        consiglio: "Salire in metropolitana e tornare giù a piedi lungo i sentieri nel bosco."
       },
       {
         nome: "Aker Brygge e Astrup Fearnley",
@@ -684,7 +686,7 @@ export const destinazioniNorvegia: Destinazione[] = [
     comeSpostarsi: 'A piedi in centro; minibus/pullman organizzati per le escursioni fuori città.',
     periodoMigliore: 'da fine settembre a fine marzo per l\'aurora, con notte polare (poca luce diurna) tra dicembre e gennaio',
     costi:
-      'Fjellheisen: 495 NOK (circa 43€) andata e ritorno adulti, 280 NOK (circa 24€) bambini 3-15 anni. Polaria: circa 400-450 NOK (35-39€). Polar Museum: 130 NOK (circa 11€). Aurora chase in minibus: 100-160€ a persona. Husky sledding: 170-320€ a persona. Esperienza sami con le renne: da 145€ a persona. Whale watching: 130-260€ a persona. Doppia in hotel centrale in alta stagione: 140-170€/notte.',
+      'Fjellheisen: 645 NOK (circa 55€) andata e ritorno adulti, 310 NOK (circa 27€) bambini 3-15 anni (2026). Polaria: circa 400-450 NOK (35-39€). Polar Museum: 130 NOK (circa 11€). Aurora chase in minibus: 100-160€ a persona. Husky sledding: 170-320€ a persona. Esperienza sami con le renne: da 145€ a persona. Whale watching: 130-260€ a persona. Doppia in hotel centrale in alta stagione: 140-170€/notte.',
     erroriDaEvitare: [
       'Prenotare le escursioni serali con un minimo di anticipo, soprattutto nei mesi di punta (novembre-marzo)',
       'Sottovalutare il vento sul lungomare: si sente più del previsto',
@@ -708,6 +710,7 @@ export const destinazioniNorvegia: Destinazione[] = [
         come: "Dal centro con il bus 28 o con una passeggiata di 15 minuti; la cabina parte circa ogni 30 minuti.",
         quando: "Sera in inverno per le luci della città, giorno in estate.",
         tempo: "1-2 ore",
+        costo: "645 NOK andata e ritorno adulti, 310 NOK bambini 3-15 anni (2026)",
         url: "https://www.fjellheisen.no",
         consiglio: "Salita rapida, ma vestirsi caldo in cima."
       },
@@ -731,7 +734,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Mack's Ølhallen",
-        testo: "Il pub storico della birreria Mack, la più settentrionale del mondo, con birra alla spina. Un posto da locali, senza pretese.",
+        testo: "Il pub storico della birreria Mack, fondata nel 1877 e per decenni tra le più settentrionali del mondo, con birra alla spina. Un posto da locali, senza pretese.",
         come: "A piedi dal centro, in Storgata.",
         quando: "Sera.",
         tempo: "1 ora",

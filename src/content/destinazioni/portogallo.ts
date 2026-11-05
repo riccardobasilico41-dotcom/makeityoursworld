@@ -273,8 +273,8 @@ export const destinazioniPortogallo: Destinazione[] = [
       {
         "nome": "Palácio Nacional da Pena",
         "testo": "Palazzo romantico dell'Ottocento voluto da Ferdinando II sulla cima di una collina, giallo e rosso, con torri, merli e decorazioni moresche e manueline. Dentro le stanze sono arredate com'erano alla fine dell'Ottocento. Intorno c'è un parco di 85 ettari.",
-        "come": "Dalla stazione il bus 434 sale fino all'ingresso in circa 15 minuti. A piedi la salita è ripida, circa 45 minuti. Ingresso con biglietto a fascia oraria.",
-        "quando": "Primo orario della mattina. Dopo le 10:30 la coda si allunga. Biglietti online su Parques de Sintra.",
+        "come": "Dalla stazione il bus 434 sale fino all'ingresso in circa 15 minuti. A piedi la salita è ripida, circa 45 minuti. Le auto private non possono salire sulle strade d'accesso: dalla base del parco al palazzo c'è una navetta ogni 15 minuti. Ingresso con biglietto a fascia oraria.",
+        "quando": "Parco 9-19, palazzo 9:30-18:30 (ultimo biglietto alle 17:30). Il palazzo si visita solo con data e fascia oraria prenotate. Primo orario della mattina: dopo le 10:30 la coda si allunga. Biglietti online su Parques de Sintra.",
         "tempo": "2-3 ore con il parco",
         "url": "https://www.parquesdesintra.pt/",
         "consiglio": "Il parco da solo si visita senza fila al palazzo e ha punti panoramici: utile se le code sono troppo lunghe."

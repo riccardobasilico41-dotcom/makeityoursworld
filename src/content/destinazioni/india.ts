@@ -248,9 +248,9 @@ export const destinazioniIndia: Destinazione[] = [
         nome: "Taj Mahal",
         testo: "Il mausoleo di marmo bianco che Shah Jahan fece costruire per la moglie Mumtaz Mahal, morta nel 1631. La simmetria è totale: giardino, vasche, moschea e foresteria si specchiano ai lati. Da vicino il marmo è intarsiato di pietre dure.",
         come: "Si arriva in tuk-tuk elettrico o in golf cart dai parcheggi, perché le auto non possono avvicinarsi. Due ingressi principali, est e ovest; biglietto online sul portale ufficiale e controlli di sicurezza separati per uomini e donne. Le guide autorizzate hanno il tesserino.",
-        quando: "Da mezz'ora prima dell'alba a mezz'ora prima del tramonto. Chiuso il venerdì. Visita notturna cinque notti al mese intorno alla luna piena, dalle 20 a mezzanotte, a gruppi di 50 persone per mezz'ora.",
+        quando: "Da mezz'ora prima dell'alba a mezz'ora prima del tramonto. Chiuso il venerdì. In alcune notti intorno alla luna piena c'è la visita notturna, a piccoli gruppi e su prenotazione: date e regole sul sito ufficiale.",
         tempo: "2-3 ore",
-        costo: "1.100 rupie per gli stranieri, più 200 per l'interno del mausoleo; 50 rupie di sconto online; gratis sotto i 15 anni (tajmahal.gov.in, 2026)",
+        costo: "1.100 rupie per gli stranieri, più 200 per l'interno del mausoleo; gratis sotto i 15 anni (tajmahal.gov.in, 2026)",
         url: "https://www.tajmahal.gov.in/",
         consiglio: "Noi l'abbiamo visto due volte, al tramonto e all'alba del giorno dopo, e ogni ingresso vuole il suo biglietto. Ai controlli ci sono file: portate il minimo indispensabile e, se potete, niente zainetti, per velocizzare tutto."
       },
@@ -412,7 +412,6 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "All'apertura del mattino, prima dei pullman e del caldo. La sera c'è lo spettacolo di luci e suoni.",
         tempo: "2-3 ore",
         costo: "1.000 rupie per gli stranieri secondo la revisione statale in vigore dal 1° gennaio 2026",
-        url: "https://obms-tourist.rajasthan.gov.in/",
         consiglio: "Dentro il forte c'è il ristorante 1135 AD: noi ci siamo tornati per cena, molto buono e in una location super suggestiva. Alla fine ci hanno invitati a vedere la sala privata dei maharaja, all'ultimo piano, dove cenano ancora e accolgono le persone importanti."
       },
       {
@@ -421,7 +420,6 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Nella città vecchia, su Badi Chaupar. L'ingresso è sul retro; la facciata si guarda dalla strada o dalle terrazze dei caffè di fronte.",
         quando: "Mattina presto: la facciata guarda a est e prende il primo sole.",
         tempo: "45 minuti",
-        url: "https://obms-tourist.rajasthan.gov.in/",
         consiglio: "La foto migliore è da una terrazza dall'altra parte della strada, con un chai, prima delle 9."
       },
       {
@@ -439,7 +437,6 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Accanto al City Palace. Senza spiegazioni gli strumenti sembrano sculture: meglio una guida o l'audioguida.",
         quando: "Di giorno con il sole, che serve a vedere come funzionano le meridiane.",
         tempo: "1 ora",
-        url: "https://obms-tourist.rajasthan.gov.in/",
         consiglio: "Andarci a metà giornata: è l'unico posto di Jaipur dove il sole alto aiuta."
       },
       {
@@ -457,7 +454,6 @@ export const destinazioniIndia: Destinazione[] = [
         come: "In auto con l'autista lungo la strada di cresta, circa 40 minuti dal centro. Dentro c'è il palazzo Madhavendra con gli appartamenti delle regine.",
         quando: "Il tardo pomeriggio fino al tramonto.",
         tempo: "1 ora e mezza",
-        url: "https://obms-tourist.rajasthan.gov.in/",
         consiglio: "Non scendere a piedi al buio: si rientra in auto."
       },
       {
@@ -466,7 +462,6 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Appena fuori dalla città vecchia, in tuk-tuk. Il percorso è breve e ben segnalato.",
         quando: "Di giorno per il museo; la sera l'edificio è illuminato.",
         tempo: "1 ora",
-        url: "https://obms-tourist.rajasthan.gov.in/",
         consiglio: "È nel biglietto composito con Amber, Hawa Mahal, Jantar Mantar e Nahargarh: conviene se si vedono almeno tre di questi."
       },
       {
@@ -1081,10 +1076,10 @@ export const destinazioniIndia: Destinazione[] = [
       {
         nome: "City Palace",
         testo: "Il palazzo dei Maharana di Mewar, cresciuto in quattro secoli sulla riva del lago Pichola. Cortili dei pavoni, sale di specchi, balconi sul lago; una parte è museo, un'altra è ancora della famiglia reale.",
-        come: "Ingresso dalla Badi Pol, a piedi dalla città vecchia. Biglietti anche online sul sito della fondazione; guida o audioguida utili.",
+        come: "Ingresso dalla Badi Pol, a piedi dalla città vecchia. Biglietti anche online sul sito del museo; guida o audioguida (in inglese, francese, tedesco e spagnolo) utili.",
         quando: "All'apertura del mattino, prima dei gruppi.",
         tempo: "2-3 ore",
-        url: "https://www.eternalmewar.in/",
+        url: "https://www.citypalacemuseum.org/planyourvisit",
         consiglio: "Fare il palazzo al mattino e la barca sul Pichola nel pomeriggio, dallo stesso molo."
       },
       {
@@ -1660,7 +1655,6 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "Aperto la mattina presto e dal pomeriggio alla sera, chiuso a metà giornata. La sera c'è la processione che porta Shiva alla camera di Meenakshi.",
         tempo: "2-3 ore",
         costo: "ingresso libero; deposito telefoni a pagamento",
-        url: "https://maduraimeenakshi.hrce.tn.gov.in/",
         consiglio: "Tornarci due volte, al mattino per l'architettura e la sera per le cerimonie."
       },
       {
@@ -1782,10 +1776,10 @@ export const destinazioniIndia: Destinazione[] = [
         nome: "Parco nazionale di Eravikulam",
         testo: "Praterie d'altura e foresta sopra i 2.000 metri, dove vive il tahr dei Nilgiri, una capra di montagna che esiste solo nei Ghati Occidentali. Nel parco c'è anche l'Anamudi, la vetta più alta dell'India del Sud.",
         come: "A 15 chilometri da Munnar. Dall'ingresso si sale con i bus del Forest Department fino alla zona di Rajamala, poi un tratto a piedi. Biglietti anche online.",
-        quando: "Chiuso ogni anno a febbraio e marzo per le nascite dei tahr. Mattina presto, prima delle nuvole e della coda.",
+        quando: "Chiuso ogni anno per le nascite dei tahr, di solito da febbraio a marzo e a volte fino ai primi di aprile: controllare le date prima di partire. Mattina presto, prima delle nuvole e della coda.",
         tempo: "mezza giornata",
-        costo: "500 rupie per gli stranieri (2026)",
-        url: "https://www.eravikulam.org/",
+        costo: "500 rupie per gli stranieri, più 50 per la macchina fotografica (2026)",
+        url: "https://www.eravikulamnationalpark.in/",
         consiglio: "Prenotare online nei fine settimana e nei festivi indiani: i posti finiscono."
       },
       {

@@ -131,7 +131,7 @@ export const destinazioniLituania: Destinazione[] = [
         nome: "Palace of the Grand Dukes and Museum of Occupations",
         testo: "The Palace, rebuilt on the ruins of the royal castle, tells of the Grand Duchy. A short distance away, the Museum of Occupations and Freedom Fights, in the former KGB building, documents the Soviet period.",
         come: "On foot: the Palace at the foot of the hill, the Museum on Gedimino prospektas.",
-        quando: "Morning; the KGB museum is closed on Monday.",
+        quando: "Morning; opening hours and closing days on the official website.",
         tempo: "2 hours each",
         url: "https://www.genocid.lt",
         consiglio: "The cells in the KGB basement are hard to visit, but important."

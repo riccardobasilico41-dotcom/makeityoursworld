@@ -545,9 +545,10 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Louvre",
         testo: "The world's largest museum, in a royal palace. The essential route covers the Winged Victory of Samothrace, the Venus de Milo and the Mona Lisa. You cannot see it all: pick two or three wings.",
-        come: "Metro Palais Royal-Musée du Louvre. Enter with a timed ticket booked online; entrances also via the Pyramid, Passage Richelieu or the Carrousel.",
-        quando: "Closed on Tuesday. Open late on Friday. Arrive at opening or late afternoon.",
+        come: "Metro Palais Royal-Musée du Louvre. Booking a timed entry online is recommended, even for free admission; entrances via the Pyramid, Passage Richelieu or the Carrousel.",
+        quando: "Closed on Tuesday, 1 January, 1 May and 25 December. Open until 9 pm on Wednesday and Friday. Arrive at opening (9 am) or late afternoon.",
         tempo: "3-4 hours",
+        costo: "€32 for visitors from outside the European Economic Area, €22 for EU/EEA citizens and residents (2026). Free under 18.",
         url: "https://www.louvre.fr/",
         consiglio: "The Mona Lisa is in the most crowded room: go straight at opening or at the end of the day."
       },
@@ -555,8 +556,9 @@ export const destinazioniFrancia: Destinazione[] = [
         nome: "Musée d'Orsay",
         testo: "A former 1900 railway station turned museum, with the world's largest collection of Impressionists. The Monet, Renoir, Degas and Van Gogh rooms are on the top floor.",
         come: "Metro Solférino or RER C Musée d'Orsay. Timed ticket booked.",
-        quando: "Closed on Monday.",
+        quando: "Closed on Monday. Open 9.30 am to 6 pm, until 9.45 pm on Thursday: the evening is the quietest time.",
         tempo: "2-3 hours",
+        costo: "€16 online, €14 at the ticket desk; reduced rate on Thursday evening (2026). Free on the first Sunday of the month.",
         url: "https://www.musee-orsay.fr/",
         consiglio: "From the giant clock on the top floor you can see the Sacré-Cœur."
       },
@@ -566,6 +568,7 @@ export const destinazioniFrancia: Destinazione[] = [
         come: "On the Île de la Cité, inside the Palais de Justice; you pass a security check.",
         quando: "Morning, with the sun through the glass.",
         tempo: "45 minutes",
+        costo: "€22 for visitors from outside the European Economic Area, €16 for EU/EEA (2026); combined ticket with the Conciergerie available.",
         url: "https://www.sainte-chapelle.fr/",
         consiglio: "Book a slot: queues are long."
       },
@@ -575,6 +578,7 @@ export const destinazioniFrancia: Destinazione[] = [
         come: "On the Île de la Cité. You can book online to skip the queue.",
         quando: "Early morning.",
         tempo: "1 hour",
+        costo: "Free entry to the cathedral; the towers are paid.",
         url: "https://www.notredamedeparis.fr/",
         consiglio: "Towers and treasury have separate tickets."
       },
@@ -584,17 +588,28 @@ export const destinazioniFrancia: Destinazione[] = [
         come: "Metro Bir-Hakeim or RER C Champ de Mars. Timed tickets online.",
         quando: "Sunset for the light; the best places to look at it are the Trocadéro and the Arc de Triomphe.",
         tempo: "2-3 hours",
+        costo: "€36.70 to the top by lift, €14.80 to the second floor by the stairs (prices from 12 January 2026).",
         url: "https://www.toureiffel.paris/",
         consiglio: "For the view without the queue, go up the Montparnasse tower."
       },
       {
         nome: "Palace of Versailles",
         testo: "The residence of the kings of France until 1789, with the Hall of Mirrors, the royal apartments and the gardens. The park is huge.",
-        come: "RER C from Paris to Versailles-Château, about 40 minutes.",
-        quando: "Closed on Monday. Morning at opening; musical gardens on some days.",
+        come: "RER C from Paris to Versailles-Château, about 40 minutes. Palace entry is timed and must be booked online.",
+        quando: "Closed on Monday, 25 December, 1 January and 1 May. The palace opens at 9 am; Trianon from noon. On musical-garden days (in season) the park is paid.",
         tempo: "full day",
+        costo: "Passport (palace, Trianon and gardens) €35 from April to October and €25 in low season for visitors from outside the European Economic Area; €32 and €22 for EU/EEA (2026).",
         url: "https://www.chateauversailles.fr/",
         consiglio: "Book entry and bring a packed lunch for the park."
+      },
+      {
+        nome: "Montmartre and Sacré-Cœur",
+        testo: "The hill to the north, with the white Sacré-Cœur basilica on top and a view over all of Paris from the steps. Behind it, Place du Tertre with its painters and steep streets that keep a village feel. Lower down is the Moulin Rouge.",
+        come: "Metro Anvers or Abbesses, then on foot or by the funicular, which takes a metro ticket.",
+        quando: "Early morning, before the groups; at sunset the steps are crowded but the light is lovely.",
+        tempo: "half a day",
+        costo: "Basilica free; the climb to the dome is paid.",
+        consiglio: "Watch out for people offering string bracelets on the steps: it is a ploy to ask for money."
       }
     ],
     programmi: [
@@ -684,7 +699,7 @@ export const destinazioniFrancia: Destinazione[] = [
     cosaVedere: [
       "The **D-Day beaches**: Utah, Omaha, Gold, Juno and Sword, with the American cemetery at Colleville-sur-Mer, the **Pointe du Hoc** still pitted with craters, the Longues-sur-Mer batteries and the caissons of the **Arromanches artificial harbor** still in the sea",
       "The **Mémorial de Caen**, the museum that frames the whole story starting from the end of the First World War: it should be seen before going to the beaches",
-      "The **Bayeux Tapestry**: seventy meters of eleventh-century embroidery telling the Norman conquest of England, inscribed in the UNESCO Memory of the World register. **The museum is undergoing a long renovation: before going, check the closing and reopening dates**",
+      "The **Bayeux Tapestry**: seventy meters of eleventh-century embroidery telling the Norman conquest of England, inscribed in the UNESCO Memory of the World register. **The Bayeux museum has been closed since September 2025 and will reopen, renovated, in late 2027; until 11 July 2027 the tapestry is on show at the British Museum in London**",
       "**Mont-Saint-Michel**, with the abbey at the top of the rock and around it the widest tides in continental Europe",
       "The **cliffs of Étretat**, with the chalk arches, the rock needle and the paths along the top",
       "**Honfleur**, with the Vieux Bassin and Sainte-Catherine, the largest wooden church in France, built by the ship carpenters of the shipyards",
@@ -717,7 +732,7 @@ export const destinazioniFrancia: Destinazione[] = [
       "**Not checking the tide calendar**: the big tides are published years ahead, and they are the only days when the Mont becomes an island again",
       "Crossing the bay on foot alone: **quicksand exists and the tide comes in fast. The crossing is done only with a guide**",
       "Expecting sun. In Normandy a waterproof jacket is needed even in July",
-      "Taking for granted that the Bayeux Tapestry can be visited: the museum is in a long renovation",
+      "Going to Bayeux for the Tapestry: the museum is closed until late 2027 and the tapestry is in London until July 2027",
     ],
     confronti: [
       {
@@ -818,18 +833,19 @@ export const destinazioniFrancia: Destinazione[] = [
         nome: "Mémorial de Caen",
         testo: "The museum that frames the war from 1918 to the Cold War, in a new building above the German bunkers of Caen. See it before the beaches, to understand them.",
         come: "By car or bus from central Caen.",
-        quando: "All year; open daily except holidays.",
+        quando: "April to September daily 9 am-7 pm. Closed about three weeks in January for maintenance, on 25 December and 1 January, and on some Wednesdays in November and December.",
         tempo: "3 hours",
+        costo: "€20.80 full price (2026); free under 10.",
         consiglio: "If time is short, see only the Second World War sections."
       },
       {
-        nome: "Bayeux Tapestry",
+        nome: "Bayeux Tapestry (now in London)",
         testo: "Seventy metres of 11th-century embroidery on the Norman conquest of England in 1066, on the UNESCO Memory of the World register. It shows William, Harold and Halley's comet.",
-        come: "In Bayeux centre, on foot from the station. The museum is being renovated and the tapestry is announced on loan to the British Museum in London between 2026 and 2027: check the official site before going.",
-        quando: "Check dates and opening.",
+        come: "The Bayeux museum has been closed since 1 September 2025 for the building of the new museum. The tapestry is on show at the British Museum in London from 10 September 2026 to 11 July 2027.",
+        quando: "It cannot be seen in Bayeux until the reopening, planned for late 2027. In London tickets sell out fast: book on the British Museum website.",
         tempo: "1 hour",
         url: "https://www.bayeuxmuseum.com/",
-        consiglio: "Visit Bayeux cathedral on the same walk."
+        consiglio: "Bayeux still has its Norman cathedral and a centre spared by the bombing: worth the stop anyway."
       },
       {
         nome: "Mont-Saint-Michel",
@@ -837,6 +853,8 @@ export const destinazioniFrancia: Destinazione[] = [
         come: "Car park on the mainland and free shuttle to the footbridge.",
         quando: "Dawn or sunset. High tide on new and full moon days: check the tables.",
         tempo: "half a day",
+        costo: "Abbey €13 (2026); free under 18 and for EU residents under 26. The village is free.",
+        url: "https://www.abbaye-mont-saint-michel.fr/",
         consiglio: "Climb to the abbey for the halls and terraces, not the shops."
       },
       {
@@ -855,7 +873,7 @@ export const destinazioniFrancia: Destinazione[] = [
           "D-Day beaches and American cemetery",
           "Pointe du Hoc",
           "Lunch in Bayeux",
-          "Bayeux Tapestry or cathedral"
+          "Bayeux cathedral and town centre"
         ]
       },
       {
@@ -1283,6 +1301,7 @@ export const destinazioniFrancia: Destinazione[] = [
         come: "By car from Blois, about 20 minutes. Visited alone or with an audio guide.",
         quando: "Morning, for gardens and terraces. Closed on 1 January and 25 December.",
         tempo: "3 hours",
+        costo: "€31 for visitors from outside the European Economic Area, €21 for EU/EEA (château and gardens, 2026).",
         url: "https://www.chambord.org/",
         consiglio: "Climb to the terraces to see the chimneys and turrets close up."
       },
@@ -1310,6 +1329,7 @@ export const destinazioniFrancia: Destinazione[] = [
         come: "Train from Tours, about 20 minutes. The two sites are 10 minutes apart on foot.",
         quando: "Morning.",
         tempo: "half a day",
+        costo: "Clos Lucé €20 full price (2026).",
         url: "https://www.vinci-closluce.com/",
         consiglio: "Leonardo's tomb is in the chapel of Saint-Hubert, in the château grounds."
       },
@@ -2045,7 +2065,7 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Valensole Plateau and lavender",
-        testo: "The great lavender landscape, which blooms from late June to mid-July and is cut right after.",
+        testo: "The great lavender landscape: a plateau of purple rows alternating with wheat fields, with the odd stone farmhouse in between. It blooms from late June to mid-July and is cut right after, so dates matter. The fields are private: photograph from the edge, without walking into the rows.",
         come: "By car from Riez or Valensole.",
         quando: "Dawn or sunset, during bloom.",
         tempo: "half a day",
@@ -2070,7 +2090,7 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Nîmes",
-        testo: "The best-preserved Roman arena in the world and the Maison Carrée, a Roman temple UNESCO-listed in 2023.",
+        testo: "One of the best-preserved Roman arenas in the world, still used for concerts and bullfights, and the Maison Carrée, an almost intact Roman temple UNESCO-listed in 2023.",
         come: "Train from Avignon in 30 minutes.",
         quando: "Morning.",
         tempo: "half a day",
@@ -2333,6 +2353,7 @@ export const destinazioniFrancia: Destinazione[] = [
         come: "Direct train from Toulouse in about 45 minutes. The cité is 15 minutes' walk from the station.",
         quando: "Evening or early morning, when the groups are absent.",
         tempo: "half a day",
+        costo: "Château comtal and rampart walks: €19 until 30 September, €13 from October to March (2026). The cité and its streets are free.",
         consiglio: "Walking along the outer wall is free and gives a good idea of the structure."
       },
       {

@@ -236,9 +236,9 @@ export const destinazioniIndia: Destinazione[] = [
         nome: "Taj Mahal",
         testo: "The white marble mausoleum Shah Jahan had built for his wife Mumtaz Mahal, who died in 1631. The symmetry is total: garden, pools, mosque and guesthouse mirror each other on either side. Up close, the marble is inlaid with semi-precious stones.",
         come: "You get there by electric tuk-tuk or golf cart from the parking lots, because cars can't come close. There are two main entrances, east and west; buy your ticket online on the official portal, and expect separate security checks for men and women. Licensed guides carry an ID badge.",
-        quando: "From half an hour before sunrise to half an hour before sunset. Closed on Fridays. Night viewing five nights a month around the full moon, from 8 p.m. to midnight, in groups of 50 people for half an hour.",
+        quando: "From half an hour before sunrise to half an hour before sunset. Closed on Fridays. On some nights around the full moon there is a night viewing, in small groups and by booking only: dates and rules on the official website.",
         tempo: "2-3 hours",
-        costo: "1,100 rupees for foreigners, plus 200 for the inside of the mausoleum; 50 rupees off online; free under 15 (tajmahal.gov.in, 2026)",
+        costo: "1,100 rupees for foreigners, plus 200 for the inside of the mausoleum; free under 15 (tajmahal.gov.in, 2026)",
         url: "https://www.tajmahal.gov.in/",
         consiglio: "We saw it twice, at sunset and at dawn the next day, and each entry needs its own ticket. There are lines at security: bring the bare minimum and, if you can, no backpacks, to speed everything up."
       },
@@ -400,7 +400,6 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "At morning opening time, before the tour buses and the heat. In the evening there's a sound and light show.",
         tempo: "2-3 hours",
         costo: "1,000 rupees for foreigners under the state revision in force since January 1, 2026",
-        url: "https://obms-tourist.rajasthan.gov.in/",
         consiglio: "Inside the fort is the 1135 AD restaurant: we went back there for dinner, and it was very good, in a really atmospheric setting. At the end they invited us to see the maharajas' private room on the top floor, where they still dine and receive important guests."
       },
       {
@@ -409,7 +408,6 @@ export const destinazioniIndia: Destinazione[] = [
         come: "In the old city, on Badi Chaupar. The entrance is at the back; you look at the facade from the street or from the rooftop cafés opposite.",
         quando: "Early morning: the facade faces east and catches the first sun.",
         tempo: "45 minutes",
-        url: "https://obms-tourist.rajasthan.gov.in/",
         consiglio: "The best photo is from a rooftop across the street, with a chai, before 9 a.m."
       },
       {
@@ -427,7 +425,6 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Next to the City Palace. Without explanations the instruments look like sculptures: a guide or the audio guide is a good idea.",
         quando: "During the day with the sun, which you need to see how the sundials work.",
         tempo: "1 hour",
-        url: "https://obms-tourist.rajasthan.gov.in/",
         consiglio: "Go at midday: it's the only place in Jaipur where a high sun helps."
       },
       {
@@ -445,7 +442,6 @@ export const destinazioniIndia: Destinazione[] = [
         come: "By car with your driver along the ridge road, about 40 minutes from the center. Inside is the Madhavendra palace with the queens' apartments.",
         quando: "Late afternoon until sunset.",
         tempo: "1.5 hours",
-        url: "https://obms-tourist.rajasthan.gov.in/",
         consiglio: "Don't walk down in the dark: go back by car."
       },
       {
@@ -454,7 +450,6 @@ export const destinazioniIndia: Destinazione[] = [
         come: "Just outside the old city, by tuk-tuk. The route is short and well signposted.",
         quando: "During the day for the museum; in the evening the building is lit up.",
         tempo: "1 hour",
-        url: "https://obms-tourist.rajasthan.gov.in/",
         consiglio: "It's included in the composite ticket with Amber, Hawa Mahal, Jantar Mantar and Nahargarh: worth it if you see at least three of them."
       },
       {
@@ -1069,10 +1064,10 @@ export const destinazioniIndia: Destinazione[] = [
       {
         nome: "City Palace",
         testo: "The palace of the Maharanas of Mewar, which grew over four centuries on the shore of Lake Pichola. Peacock courtyards, mirrored halls, balconies over the lake; part of it is a museum, and part still belongs to the royal family.",
-        come: "Enter through the Badi Pol, on foot from the old city. Tickets are also sold online on the foundation's website; a guide or audio guide is useful.",
+        come: "Enter through the Badi Pol, on foot from the old city. Tickets are also sold online on the museum's website; a guide or audio guide (in English, French, German and Spanish) is useful.",
         quando: "At morning opening time, before the groups.",
         tempo: "2-3 hours",
-        url: "https://www.eternalmewar.in/",
+        url: "https://www.citypalacemuseum.org/planyourvisit",
         consiglio: "Do the palace in the morning and the boat on Lake Pichola in the afternoon, from the same jetty."
       },
       {
@@ -1648,7 +1643,6 @@ export const destinazioniIndia: Destinazione[] = [
         quando: "Open early in the morning and from afternoon to evening, closed in the middle of the day. In the evening there's the procession that carries Shiva to Meenakshi's chamber.",
         tempo: "2-3 hours",
         costo: "free entry; paid phone deposit",
-        url: "https://maduraimeenakshi.hrce.tn.gov.in/",
         consiglio: "Go twice: in the morning for the architecture and in the evening for the ceremonies."
       },
       {
@@ -1770,10 +1764,10 @@ export const destinazioniIndia: Destinazione[] = [
         nome: "Eravikulam National Park",
         testo: "High-altitude grasslands and forest above 2,000 meters, home to the Nilgiri tahr, a mountain goat found only in the Western Ghats. The park also holds Anamudi, the highest peak in South India.",
         come: "9 miles from Munnar. From the entrance, Forest Department buses take you up to the Rajamala area, then you walk a stretch. Tickets are also sold online.",
-        quando: "Closed every year in February and March for the tahr calving season. Go early in the morning, before the clouds and the lines.",
+        quando: "Closed every year for the tahr calving season, usually from February to March and sometimes into early April: check the dates before you go. Go early in the morning, before the clouds and the lines.",
         tempo: "half a day",
-        costo: "500 rupees for foreigners (2026)",
-        url: "https://www.eravikulam.org/",
+        costo: "500 rupees for foreigners, plus 50 for a camera (2026)",
+        url: "https://www.eravikulamnationalpark.in/",
         consiglio: "Book online for weekends and Indian holidays: tickets sell out."
       },
       {

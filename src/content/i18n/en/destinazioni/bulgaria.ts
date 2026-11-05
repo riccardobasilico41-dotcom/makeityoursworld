@@ -106,8 +106,8 @@ export const destinazioniBulgaria: Destinazione[] = [
     percheAndarci: "It was the twist of the trip. After the days on the snow the contrast is total, and it's probably the strongest memory of the whole tour.",
     cosaVedere: [
       "The five-domed Church of the Nativity of the Virgin, covered in brightly colored frescoes",
-      "The 24-meter-high stone walls enclosing the complex",
-      "The Museum of Ecclesiastical History, with the Rafail Cross carved with over 1,500 biblical figures",
+      "The high stone walls enclosing the complex, which make it look like a fortress",
+      "The Museum of Ecclesiastical History, with the Rafail Cross, carved with 104 religious scenes and 650 miniature figures",
     ],
     cosaFare: ["Visit the monastery complex and the church (there is a dedicated experience page)", "Visit the Museum of Ecclesiastical History"],
     doveDormire: "I didn't sleep there: it was a half-day stop on the road back to Sofia.",
@@ -115,14 +115,14 @@ export const destinazioniBulgaria: Destinazione[] = [
     comeArrivare: "With a detour from the main road between Bansko and Sofia.",
     comeSpostarsi: "On foot, inside the monastery complex.",
     periodoMigliore: "all year",
-    costi: "Entrance to the complex and the church is free; Museum of Ecclesiastical History about 8 BGN (€4).",
+    costi: "Entrance to the complex and the church is free; Museum of Ecclesiastical History about €4 (Bulgaria has used the euro since 2026).",
     erroriDaEvitare: ["Entering the church with bare shoulders and knees", "Taking photos or video inside the religious buildings: it's not allowed"],
     miaEsperienza:
       "After the days on the snow, the monastery was the twist of the trip. The brightly colored frescoes of the Church of the Nativity of the Virgin and the silence of the mountain around are the most vivid memory of the whole tour.",
     luoghi: [
       {
         nome: "Rila Monastery complex",
-        testo: "The largest Bulgarian monastery, a UNESCO site, founded in the 10th century by St John of Rila and rebuilt in the nineteenth. The 24 metre stone walls enclose a courtyard of black-and-white arcades.",
+        testo: "The largest Bulgarian monastery, a UNESCO site, founded in the 10th century by St John of Rila and rebuilt between 1834 and 1862 after a fire. The high, almost fortress-like stone walls enclose a courtyard of black-and-white striped arcades.",
         come: "By car or bus from Sofia (about 2-2.5 hours) or as a detour on the road between Bansko and Sofia.",
         quando: "Early morning, before the tourist buses.",
         tempo: "1.5-2 hours",
@@ -140,11 +140,11 @@ export const destinazioniBulgaria: Destinazione[] = [
       },
       {
         nome: "Museum of Church History and the Raphael Cross",
-        testo: "The monastery museum holds relics and the Raphael Cross, carved with over 1,500 miniature biblical figures. It is small but rich.",
+        testo: "The monastery museum holds relics and the Raphael Cross, a single piece of wood, 81 x 43 cm, in which the monk Rafail carved 104 religious scenes and 650 miniature figures. It is small but rich.",
         come: "In the complex, separate entry.",
         quando: "Daytime.",
         tempo: "45 minutes",
-        costo: "about 8 BGN, 4 euros (trip figure, to be rechecked)",
+        costo: "about €4 (trip figure; since 2026 prices are in euros, check the current rate on site)",
         consiglio: "The ticket is easy to lose: keep it in your pocket."
       }
     ],

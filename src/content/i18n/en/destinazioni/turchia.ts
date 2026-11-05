@@ -51,7 +51,8 @@ export const destinazioniTurchia: Destinazione[] = [
         "come": "Tram T1 to Sultanahmet. Separate entrance for tourists; covered clothing, women with the head covered.",
         "quando": "Early morning. Closed to tourists during prayers, especially Friday at midday.",
         "tempo": "1-1.5 hours",
-        "consiglio": "Check the hours on the official site beforehand, as they change with the access rules."
+        "consiglio": "Check the hours on the official site beforehand, as they change with the access rules.",
+        "costo": "€25 for foreign visitors, upper-gallery route (2026)"
       },
       {
         "nome": "Blue Mosque and the Hippodrome",
@@ -64,11 +65,12 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "nome": "Topkapı Palace and Harem",
         "testo": "The residence of the Ottoman sultans for almost four centuries: courtyards, pavilions, treasury and Harem, with a fine view of the Bosphorus.",
-        "come": "On foot from Hagia Sophia. The Harem ticket is separate.",
-        "quando": "Morning at opening. Closed one day a week (usually Tuesday): check the site.",
+        "come": "On foot from Hagia Sophia. The ticket for foreigners includes the Harem and Hagia Irene; it can also be bought online.",
+        "quando": "Closed on Tuesdays. Arrive at the 9am opening: in autumn and winter the ticket office closes early.",
         "tempo": "2-3 hours",
         "url": "https://muze.gov.tr/",
-        "consiglio": "Go first to the Harem and the Treasury, which have queues, then the courtyards."
+        "consiglio": "Go first to the Harem and the Treasury, which have queues, then the courtyards.",
+        "costo": "TRY 2,750 including the Harem and Hagia Irene (2026)"
       },
       {
         "nome": "Basilica Cistern",
@@ -76,7 +78,8 @@ export const destinazioniTurchia: Destinazione[] = [
         "come": "On foot from Hagia Sophia. Ticket to book online in high season.",
         "quando": "Early morning or evening, when the queue is shorter.",
         "tempo": "45 minutes",
-        "consiglio": "Avoid the weekend and the middle of the day."
+        "consiglio": "Avoid the weekend and the middle of the day.",
+        "costo": "TRY 1,950 by day, TRY 3,000 in the evening slot (2026)"
       },
       {
         "nome": "Grand Bazaar and Spice Bazaar",
@@ -85,6 +88,16 @@ export const destinazioniTurchia: Destinazione[] = [
         "quando": "All day; the Grand Bazaar is closed on Sunday.",
         "tempo": "2 hours",
         "consiglio": "The Spice Bazaar is less touristy: take it slowly and taste before buying."
+      },
+      {
+        "nome": "Galata Tower",
+        "testo": "The Genoese stone tower of 1348 above Karaköy, about 67 metres high. From the balcony at the top you see the Golden Horn, the Bosphorus and the historic peninsula with its domes and minarets. Inside there is a small museum.",
+        "come": "Tram T1 to Karaköy, then a walk up the lanes; or the historic Tünel funicular. You go up by lift and then by stairs.",
+        "quando": "At opening or in the last hour before closing: in the middle of the day the queue can last an hour.",
+        "tempo": "1 hour with the queue",
+        "costo": "€30 for foreign visitors (2026)",
+        "url": "https://muze.gov.tr/",
+        "consiglio": "The balcony is narrow and one-way: the best view of the historic peninsula is on the south side."
       }
     ],
     programmi: [
@@ -201,13 +214,14 @@ export const destinazioniTurchia: Destinazione[] = [
         "quando": "At opening, before the organized groups.",
         "tempo": "1.5-2 hours",
         "url": "https://muze.gov.tr/",
-        "consiglio": "The Dark Church has a separate ticket, but the colors are worth the cost."
+        "consiglio": "The Dark Church has a separate ticket, but the colors are worth the cost.",
+        "costo": "€20 for foreign visitors; Dark Church extra (2026). For 2027 the ministry has announced €22."
       },
       {
         "nome": "Hot-air balloon at dawn",
         "testo": "The flight over the valleys and fairy chimneys at sunrise is the reason many come here.",
         "come": "Book with a licensed operator, with hotel pickup before dawn.",
-        "quando": "Dawn, from April to November. In strong wind flights are canceled.",
+        "quando": "At dawn, all year round when the weather allows. In strong wind flights are cancelled, more often in winter.",
         "tempo": "1 hour flying, 3-4 hours total",
         "consiglio": "Book for the first days and keep one in reserve: flights are canceled in wind."
       },
@@ -225,7 +239,8 @@ export const destinazioniTurchia: Destinazione[] = [
         "quando": "Early morning to avoid the crowd in the corridors.",
         "tempo": "1-1.5 hours",
         "url": "https://muze.gov.tr/",
-        "consiglio": "If claustrophobic, skip Derinkuyu and choose Kaymaklı, a bit wider."
+        "consiglio": "If claustrophobic, skip Derinkuyu and choose Kaymaklı, a bit wider.",
+        "costo": "€13 each for foreign visitors (2026)"
       }
     ],
     programmi: [
@@ -328,7 +343,8 @@ export const destinazioniTurchia: Destinazione[] = [
         "quando": "Sunset, with the light on the white. At midday in summer it dazzles.",
         "tempo": "1-2 hours",
         "url": "https://muze.gov.tr/",
-        "consiglio": "Bring a towel and a swimsuit: many pools are closed on rotation."
+        "consiglio": "Bring a towel and a swimsuit: many pools are closed on rotation.",
+        "costo": "€30 for Hierapolis and the travertines, single ticket (2026). €35 announced for 2027."
       },
       {
         "nome": "Hierapolis and the Antique Pool",
@@ -336,7 +352,8 @@ export const destinazioniTurchia: Destinazione[] = [
         "come": "You walk in the site. The pool has a separate ticket.",
         "quando": "Early morning or late afternoon.",
         "tempo": "2 hours",
-        "url": "https://muze.gov.tr/"
+        "url": "https://muze.gov.tr/",
+        "costo": "Included in the travertines ticket; Antique Pool extra"
       }
     ],
     programmi: [
@@ -430,7 +447,8 @@ export const destinazioniTurchia: Destinazione[] = [
         "quando": "At opening, especially when cruise ships arrive from Kuşadası.",
         "tempo": "2-3 hours",
         "url": "https://muze.gov.tr/",
-        "consiglio": "The Terrace Houses have a separate ticket and are the best part of the site."
+        "consiglio": "The Terrace Houses have a separate ticket and are the best part of the site.",
+        "costo": "€40 including the Ephesus Experience Museum; Terrace Houses extra. Combined ticket with Terrace Houses, Ephesus Museum and St John €65 (2026)."
       },
       {
         "nome": "Basilica of St John and Selçuk Castle",
@@ -675,12 +693,13 @@ export const destinazioniTurchia: Destinazione[] = [
       },
       {
         "nome": "Aspendos and Perge",
-        "testo": "The theater at Aspendos is among the best preserved of antiquity; Perge has a stadium and a colonnaded street.",
+        "testo": "The 2nd-century theatre of Aspendos is among the best preserved of antiquity: the seating and stage building are almost intact and it still hosts shows in summer. Perge, on the way, has the stadium, the baths and a long colonnaded street with a water channel down the middle.",
         "come": "By car with a driver or on a tour, about 45 minutes.",
         "quando": "Early morning.",
         "tempo": "Half a day each",
         "url": "https://muze.gov.tr/",
-        "consiglio": "Aspendos is the stop not to skip."
+        "consiglio": "Aspendos is the stop not to skip.",
+        "costo": "Aspendos €15, Perge €11 for foreign visitors (2026)"
       }
     ],
     programmi: [

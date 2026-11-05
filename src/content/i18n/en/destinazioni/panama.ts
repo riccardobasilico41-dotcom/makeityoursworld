@@ -46,6 +46,7 @@ export const destinazioniPanama: Destinazione[] = [
           "come": "Taxi or Uber from Panama City, about 20-30 minutes. Entry ticket at the visitor centre.",
           "quando": "Morning: check ship transit times in advance, because without a ship in motion you are looking at an empty basin.",
           "tempo": "2-3 hours",
+          "costo": "17.22 USD for non-residents aged 13 and over (official ACP fee in force in 2026).",
           "url": "https://pancanal.com/",
           "consiglio": "A container ship entering with a few centimetres of clearance on each side is worth the detour alone."
         },
@@ -61,9 +62,9 @@ export const destinazioniPanama: Destinazione[] = [
           "nome": "Panamá Viejo",
           "testo": "The ruins of the original city, founded in 1519 and destroyed by pirates in 1671, with the cathedral tower.",
           "come": "Taxi from the centre, about 15-20 minutes.",
-          "quando": "Morning, before the heat.",
+          "quando": "Tuesday to Sunday, 8:30am-5:30pm (ticket office until 4:30pm); closed on Mondays. Morning, before the heat.",
           "tempo": "1.5 hours",
-          "url": "https://www.visitpanama.com/"
+          "url": "https://www.patronatopanamaviejo.org/"
         },
         {
           "nome": "Mercado de Mariscos",
@@ -75,10 +76,12 @@ export const destinazioniPanama: Destinazione[] = [
         },
         {
           "nome": "Biomuseo",
-          "testo": "The museum designed by Frank Gehry on Calzada de Amador, about the rise of the isthmus of Panama and biodiversity.",
+          "testo": "The museum designed by Frank Gehry on the Amador Causeway, about the rise of the isthmus of Panama and biodiversity. The building with coloured canopies is visible from afar; inside, the rooms tell how the isthmus, joining two continents, changed animals and currents.",
           "come": "Taxi or Uber.",
-          "quando": "Morning.",
-          "tempo": "2 hours"
+          "quando": "Tuesday to Friday 9am-3pm, Saturday and Sunday 10am-3pm; closed on Mondays.",
+          "tempo": "2 hours",
+          "costo": "20 USD for non-resident adults (2026).",
+          "url": "https://biomuseo.org/"
         }
       ],
       "programmi": [
@@ -446,8 +449,9 @@ export const destinazioniPanama: Destinazione[] = [
           "nome": "Sendero Los Quetzales",
           "testo": "One of the best places in the world to see the quetzal, in the cloud forest between Boquete and Cerro Punta.",
           "come": "A trail of a few hours, with a guide or independently.",
-          "quando": "Early morning; the best period for the quetzal is the nesting season, roughly April-June.",
-          "tempo": "4-5 hours"
+          "quando": "Early morning; the best time for the quetzal is the nesting season, roughly April-June. The trail sometimes closes for bad weather or fallen trees (reopened in November 2025): check with MiAmbiente.",
+          "tempo": "4-5 hours",
+          "url": "https://miambiente.gob.pa/"
         },
         {
           "nome": "Coffee finca tour",

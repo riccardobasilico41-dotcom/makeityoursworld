@@ -56,25 +56,27 @@ export const destinazioniAustria: Destinazione[] = [
         nome: "Palazzo di Schönbrunn",
         testo: "La residenza estiva degli Asburgo, patrimonio UNESCO, con 1.441 stanze e giardini barocchi. Si visitano gli appartamenti di Francesco Giuseppe e di Sissi, con diversi tour.",
         come: "Metro U4 fino a Schönbrunn (20 minuti dal centro). Biglietti online con orario.",
-        quando: "Mattina presto, per anticipare i gruppi; il parco è aperto più a lungo.",
+        quando: "Palazzo tutti i giorni 8:30-17, giardini dalle 6:30; mattina presto per anticipare i gruppi.",
         tempo: "3-4 ore",
+        costo: "Palace Ticket 42 € adulti (2026), solo online sul sito ufficiale; giardini liberi",
         url: "https://www.schoenbrunn.at",
-        consiglio: "Il biglietto «Imperial Tour» è più breve del «Grand Tour»: scegliere in base al tempo."
+        consiglio: "I percorsi cambiano per durata e stanze comprese: sceglierli sul sito ufficiale, l'unico canale di vendita online, e non dai rivenditori."
       },
       {
         nome: "Hofburg e Museo Sisi",
         testo: "Il palazzo imperiale in centro, con appartamenti imperiali, la collezione delle argenterie e il museo dedicato a Sissi. Il complesso ospita anche la Scuola Spagnola di Equitazione.",
         come: "Metro U3 fino a Herrengasse, poi a piedi (5 minuti).",
-        quando: "Mattina nei giorni feriali.",
+        quando: "Tutti i giorni 10-16:30; il Museo Sisi riallestito riapre il 19 novembre 2026. Mattina nei giorni feriali.",
         tempo: "2 ore",
-        url: "https://www.hofburg-wien.at",
+        costo: "Museo Sisi 15 €, con visita guidata agli appartamenti 33 € (2026)",
+        url: "https://www.sisimuseum-hofburg.at",
         consiglio: "Combinare con una passeggiata nel Volksgarten lì accanto."
       },
       {
         nome: "Cattedrale di Santo Stefano (Stephansdom)",
-        testo: "Il simbolo di Vienna, in stile gotico, con il tetto di tegole colorate e la torre sud di 137 metri. Si può salire sulla torre con circa 343 gradini.",
+        testo: "Il simbolo di Vienna, in stile gotico, con il tetto di tegole colorate e la torre sud di 136 metri. Si può salire sulla torre con circa 343 gradini.",
         come: "Metro U1/U3 fino a Stephansplatz. Nel transetto l'ingresso è gratuito; torre e catacombe a pagamento.",
-        quando: "Mattina presto o sera, per la luce sul tetto.",
+        quando: "Visite turistiche lun-sab 9-11:30 e 13-16:30, domenica e festivi 13-16:30, salvo funzioni. Mattina presto o sera per la luce sul tetto.",
         tempo: "1 ora",
         url: "https://www.stephanskirche.at",
         consiglio: "Se si ha poco tempo, salire sulla torre nord con ascensore."
@@ -83,8 +85,9 @@ export const destinazioniAustria: Destinazione[] = [
         nome: "Belvedere",
         testo: "Due palazzi barocchi con il giardino all'italiana, sede della più grande collezione di Klimt, incluso «Il bacio». Il parco è bello anche da solo.",
         come: "Tram D fino a Schloss Belvedere. Biglietti per il Belvedere superiore.",
-        quando: "Mattina presto, per vedere «Il bacio» senza folla.",
+        quando: "Tutti i giorni 9-18; mattina presto per vedere «Il bacio» senza folla.",
         tempo: "2 ore",
+        costo: "Belvedere superiore 23 € adulti (2026, prezzo del giorno)",
         url: "https://www.belvedere.at",
         consiglio: "Prenotare online per saltare la fila."
       },
@@ -92,16 +95,17 @@ export const destinazioniAustria: Destinazione[] = [
         nome: "Kunsthistorisches Museum",
         testo: "Il grande museo d'arte degli Asburgo, con Bruegel, Raffaello, Tiziano e Vermeer. L'edificio stesso, con la cupola e la scalinata, è un'opera d'arte.",
         come: "Metro U2 o U3 fino a Volkstheater, accanto al Naturhistorisches Museum.",
-        quando: "Mattina nei giorni feriali; verificare i giorni di chiusura sul sito.",
+        quando: "Tutti i giorni 10-18, giovedì fino alle 21; mattina nei giorni feriali.",
         tempo: "2-3 ore",
+        costo: "22 € online, 24 € in cassa (2026); dall'8 settembre 2026 ingresso solo a fascia oraria",
         url: "https://www.khm.at",
         consiglio: "La sala Bruegel è la più famosa, ma da sola vale metà museo."
       },
       {
         nome: "Opera di Stato (Staatsoper)",
         testo: "Uno dei teatri lirici più importanti del mondo. Si può visitare con un tour guidato o assistere a uno spettacolo con i biglietti in piedi, molto economici.",
-        come: "Metro U1/U2/U4 fino a Karlsplatz. I biglietti in piedi si vendono poco prima dell'inizio.",
-        quando: "Sera; arrivare con anticipo per i biglietti in piedi.",
+        come: "Metro U1/U2/U4 fino a Karlsplatz. I biglietti in piedi si vendono solo il giorno dello spettacolo, dalle 10.",
+        quando: "Sera; i posti in piedi vanno comprati la mattina stessa, appena si aprono le vendite.",
         tempo: "3 ore",
         url: "https://www.wiener-staatsoper.at",
         consiglio: "Le sale con i posti in piedi hanno vista limitata ma acustica ottima."

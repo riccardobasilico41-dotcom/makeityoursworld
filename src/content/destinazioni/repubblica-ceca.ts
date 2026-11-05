@@ -21,7 +21,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
     percheAndarci:
       'In un\'area compatta concentra secoli di architettura gotica, rinascimentale e barocca quasi intatta, un castello che è tra i complessi castellani più grandi al mondo e un quartiere ebraico con una delle collezioni di sinagoghe storiche più importanti d\'Europa. E i prezzi, birra compresa, restano contenuti rispetto all\'Europa occidentale.',
     cosaVedere: [
-      'La Piazza della Città Vecchia (Staroměstské náměstí), con la Torre dell\'Orologio Astronomico (Orloj) del municipio (del 1410, il terzo orologio astronomico più antico al mondo ancora funzionante), la Chiesa di Tyn gotica e la Chiesa di San Nicola barocca',
+      'La Piazza della Città Vecchia (Staroměstské náměstí), con la Torre dell\'Orologio Astronomico (Orloj) del municipio (del 1410, il terzo orologio astronomico più antico al mondo e il più antico ancora funzionante), la Chiesa di Tyn gotica e la Chiesa di San Nicola barocca',
       'Il Ponte Carlo (Karlův most), gotico, lungo 516 metri, costruito a partire dal 1357 su commissione di Carlo IV: sedici arcate e oltre settanta statue barocche (tutte copie: gli originali sono conservati al riparo), tra cui la più antica e venerata, quella di San Giovanni Nepomuceno del 1683',
       'Il colle del Castello di Praga (Pražský hrad), tra i complessi castellani chiusi più grandi al mondo, con la Cattedrale di San Vito (Katedrála svatého Víta) gotica al suo interno, il Vecchio Palazzo Reale, il Vicolo d\'Oro (Zlatá ulička) e la Basilica di San Giorgio',
       'Malá Strana, il quartiere barocco ai piedi del Castello, con la Chiesa di San Nicola (da non confondere con quella omonima in Piazza della Città Vecchia), il Muro di John Lennon e l\'Isola di Kampa sulla Moldava',
@@ -54,7 +54,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
     luoghi: [
       {
         nome: "Piazza della Città Vecchia e Orloj",
-        testo: "La piazza centrale con la Torre dell'Orologio Astronomico (1410), il terzo orologio astronomico più antico al mondo ancora in funzione. Ogni ora, dalle 9 alle 23, sfilano gli Apostoli e la Morte tira la corda.",
+        testo: "La piazza centrale con la Torre dell'Orologio Astronomico (1410), il terzo orologio astronomico più antico al mondo e il più antico ancora in funzione. Ogni ora, dalle 9 alle 23, sfilano gli Apostoli e la Morte tira la corda.",
         come: "A piedi, in metro A fino a Staroměstská. L'Orloj si vede dalla piazza, gratis.",
         quando: "In punto, ma arrivare 10 minuti prima; la torre del municipio ha un belvedere a pagamento.",
         tempo: "1 ora",
@@ -82,7 +82,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       },
       {
         nome: "Malá Strana e Muro di John Lennon",
-        testo: "Il quartiere barocco ai piedi del Castello, con la Chiesa di San Nicola e l'isola di Kampa. Il Muro di Lennon, coperto di graffiti dagli anni Ottanta, è nel giardino Velkopřevorské náměstí.",
+        testo: "Il quartiere barocco ai piedi del Castello, con la Chiesa di San Nicola e l'isola di Kampa. Il Muro di Lennon, coperto di graffiti dagli anni Ottanta, è sulla piazzetta Velkopřevorské náměstí, vicino all'isola di Kampa.",
         come: "A piedi dal Ponte Carlo (5 minuti).",
         quando: "Mattina o tardo pomeriggio.",
         tempo: "2 ore",
@@ -91,10 +91,11 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       },
       {
         nome: "Josefov e Museo Ebraico",
-        testo: "L'ex quartiere ebraico nel cuore di Staré Město, con sei siti storici: la sinagoga Vecchia-Nuova, la Spagnola e l'Antico Cimitero Ebraico. Il biglietto è unico per i siti del Museo Ebraico.",
+        testo: "L'ex quartiere ebraico nel cuore di Staré Město, con cinque sinagoghe e l'Antico Cimitero Ebraico gestiti dal Museo Ebraico, tra cui la sinagoga Spagnola e la Pinkas. Un solo biglietto copre tutti i siti del museo; la sinagoga Vecchia-Nuova, ancora in uso per il culto, si visita con un biglietto a parte o combinato.",
         come: "Metro A fino a Staroměstská, poi 5 minuti.",
-        quando: "Chiuso il sabato e nelle feste ebraiche; mattina.",
+        quando: "Aperto tutti i giorni tranne il sabato e le feste ebraiche; mattina presto, prima dei gruppi.",
         tempo: "2-3 ore",
+        costo: "600 CZK adulti per tutti i siti del Museo Ebraico (2026)",
         url: "https://www.jewishmuseum.cz",
         consiglio: "La sinagoga Vecchia-Nuova ha un biglietto separato."
       },

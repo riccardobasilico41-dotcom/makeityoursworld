@@ -250,8 +250,9 @@ export const destinazioniIndonesia: Destinazione[] = [
         nome: "Borobudur",
         testo: "Il tempio buddista più grande del mondo, del IX secolo, con nove terrazze e centinaia di rilievi in pietra. All'alba, con la nebbia sulla pianura, è uno dei pochi luoghi che regge il proprio mito.",
         come: "Da Yogyakarta in auto o bus, circa 1 ora e mezza. La salita alla struttura è a numero chiuso, con guida e sandali speciali: si prenota online sul sito ufficiale con largo anticipo.",
-        quando: "All'alba o al tramonto. Il biglietto per salire si esaurisce.",
+        quando: "All'alba o al tramonto, con pacchetti dedicati a pagamento. La salita sulla struttura è divisa in fasce orarie a numero chiuso e si esaurisce.",
         tempo: "3 ore",
+        costo: "Due biglietti diversi: il parco e la salita alla struttura, che comprende guida e sandali upanat. Le tariffe per stranieri sono più alte di quelle per gli indonesiani: prezzi aggiornati sul sito ufficiale.",
         url: "https://borobudurpark.com/",
         consiglio: "Prenotare il biglietto per salire con largo anticipo, perché è a numero chiuso."
       },
@@ -259,8 +260,9 @@ export const destinazioniIndonesia: Destinazione[] = [
         nome: "Prambanan",
         testo: "Il più grande complesso di templi induisti dell'Indonesia, del IX secolo, con le torri dedicate a Shiva, Vishnu e Brahma. I rilievi raccontano il Ramayana.",
         come: "Da Yogyakarta in bus Trans Jogja o taxi, circa 40 minuti. Si visita da soli o con guida.",
-        quando: "Al mattino o al tramonto. Nelle serate programmate, balletto del Ramayana all'aperto.",
+        quando: "Al mattino o al tramonto. Il lunedì, per manutenzione, si visita solo il parco intorno ai templi: controllare sul sito ufficiale. Nelle serate programmate, balletto del Ramayana all'aperto.",
         tempo: "2 ore",
+        costo: "Circa 25 USD per gli stranieri adulti (387.500 IDR, 2025); esiste un biglietto combinato con Borobudur o Ratu Boko.",
         url: "https://borobudurpark.com/",
         consiglio: "Controllare le date del balletto: in alcuni periodi si tiene al tramonto con le torri illuminate."
       },
@@ -275,18 +277,21 @@ export const destinazioniIndonesia: Destinazione[] = [
       {
         nome: "Gunung Bromo",
         testo: "Un cratere fumante dentro la caldera del Tengger, circondato dal Mare di Sabbia. L'alba dal punto panoramico di Penanjakan è una delle immagini più famose di Giava.",
-        come: "Da Cemoro Lawang o da Surabaya con jeep 4x4 prenotata la sera prima. Si parte nel cuore della notte. Il biglietto si compra online sul sito ufficiale del parco.",
+        come: "Da Cemoro Lawang o da Surabaya con jeep 4x4 prenotata la sera prima. Si parte nel cuore della notte. Il biglietto si compra online sul sito ufficiale del parco, prima della visita.",
         quando: "All'alba, da aprile a ottobre il cielo è più terso.",
         tempo: "mezza giornata",
-        url: "https://bromotenggersemeru.id/",
+        costo: "Dal 30 ottobre 2024 tariffa unica per gli stranieri di 255.000 IDR al giorno, feriali e festivi (fonte: Metro TV); jeep a parte. Controllare sul sito del parco: le tariffe sono cambiate spesso.",
+        url: "https://bromotenggersemeru.org/",
         consiglio: "L'alba dal Penanjakan è spettacolare ma affollata di jeep: andarci sapendolo."
       },
       {
         nome: "Kawah Ijen e il fuoco blu",
         testo: "Un cratere con un lago turchese di acido solforico e, di notte, le fiamme blu dei gas che bruciano. Sul fondo lavorano i minatori di zolfo, con ceste da ottanta chili.",
-        come: "Da Banyuwangi o da Licin in auto, poi salita a piedi di circa 3 ore. Maschera antigas obbligatoria.",
-        quando: "Partenza all'una di notte per vedere il fuoco blu, poi alba sul lago.",
+        come: "Da Banyuwangi o da Licin in auto fino a Paltuding, poi salita a piedi di circa 3 ore tra andata e discesa nel cratere. Serve una maschera antigas vera. I biglietti si comprano online; il parco chiede anche un certificato medico recente (spesso lo organizzano hotel e tour).",
+        quando: "Il cancello di Paltuding apre alle 2 e chiude a mezzogiorno; il fuoco blu si vede prima delle 4. Il cratere chiude un giorno al mese per la pulizia e con maltempo o attività vulcanica.",
         tempo: "mezza giornata",
+        costo: "Stranieri 100.000 IDR nei feriali e 150.000 IDR nel fine settimana e nei festivi (2025).",
+        url: "https://ayoketamannasional.kehutanan.go.id/en/taman-wisata-alam/kawah-ijen",
         consiglio: "Portare una maschera antigas vera e non un foulard; non fotografare i minatori senza chiedere."
       },
       {
@@ -522,7 +527,8 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Scooter: serve la patente internazionale, i controlli sono frequenti e le multe alte.",
       "Traffico tra Canggu e Seminyak nelle ore di punta: lasciare molto margine.",
       "Cambiavalute e cocktail: usare cambi ufficiali e bere in locali affidabili. Il metanolo nei drink è un rischio segnalato dalle autorità.",
-      "Nusa Penida: prenotare la barca in anticipo in alta stagione e partire presto."
+      "Nusa Penida: prenotare la barca in anticipo in alta stagione e partire presto.",
+      "All'arrivo si paga la tassa turistica di Bali, 150.000 IDR a persona dal 2024: conviene pagarla online sul sito ufficiale Love Bali (lovebali.baliprov.go.id).",
     ],
     esperienzeSlugs: ['giornata-nusa-penida'],
     tripSlugs: ['indonesia-itinerario', 'giava-bali-gili'],

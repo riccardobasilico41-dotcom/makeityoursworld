@@ -14,7 +14,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
     percheAndarci:
       "In a compact area it packs centuries of almost intact Gothic, Renaissance and Baroque architecture, a castle that is among the largest castle complexes in the world and a Jewish quarter with one of the most important collections of historic synagogues in Europe. And prices, beer included, remain low compared with Western Europe.",
     cosaVedere: [
-      "Old Town Square (Staroměstské náměstí), with the Astronomical Clock (Orloj) tower on the town hall (from 1410, the third-oldest astronomical clock in the world still working), the Gothic Church of Our Lady before Týn and the Baroque Church of St. Nicholas",
+      "Old Town Square (Staroměstské náměstí), with the Astronomical Clock (Orloj) tower on the town hall (from 1410, the third-oldest astronomical clock in the world and the oldest still working), the Gothic Church of Our Lady before Týn and the Baroque Church of St. Nicholas",
       "Charles Bridge (Karlův most), Gothic, 516 meters long, built starting in 1357 on the commission of Charles IV: sixteen arches and more than seventy Baroque statues (all copies: the originals are kept under cover), including the oldest and most venerated, that of St. John of Nepomuk from 1683",
       "Prague Castle hill (Pražský hrad), among the largest enclosed castle complexes in the world, with the Gothic St. Vitus Cathedral (Katedrála svatého Víta) inside it, the Old Royal Palace, Golden Lane (Zlatá ulička) and St. George's Basilica",
       "Malá Strana, the Baroque district at the foot of the Castle, with the Church of St. Nicholas (not to be confused with the one of the same name in Old Town Square), the John Lennon Wall and Kampa Island on the Vltava",
@@ -47,7 +47,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
     luoghi: [
       {
         nome: "Old Town Square and Orloj",
-        testo: "The central square with the Astronomical Clock tower (1410), the third-oldest astronomical clock in the world still working. Every hour from 9 to 23 the Apostles parade and Death pulls the rope.",
+        testo: "The central square with the Astronomical Clock tower (1410), the third-oldest astronomical clock in the world and the oldest still working. Every hour from 9 to 23 the Apostles parade and Death pulls the rope.",
         come: "On foot, metro A to Staroměstská. The Orloj can be seen from the square, free.",
         quando: "On the hour, but arrive 10 minutes early; the Town Hall tower has a paid viewing deck.",
         tempo: "1 hour",
@@ -75,7 +75,7 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       },
       {
         nome: "Malá Strana and the John Lennon Wall",
-        testo: "The baroque district at the foot of the Castle, with St Nicholas Church and Kampa island. The Lennon Wall, covered with graffiti since the 1980s, is in the Velkopřevorské náměstí garden.",
+        testo: "The baroque district at the foot of the Castle, with St Nicholas Church and Kampa island. The Lennon Wall, covered with graffiti since the 1980s, is on the small square Velkopřevorské náměstí, near Kampa island.",
         come: "On foot from Charles Bridge (5 minutes).",
         quando: "Morning or late afternoon.",
         tempo: "2 hours",
@@ -84,10 +84,11 @@ export const destinazioniRepubblicaCeca: Destinazione[] = [
       },
       {
         nome: "Josefov and the Jewish Museum",
-        testo: "The former Jewish quarter in the heart of Staré Město, with six historic sites: the Old-New Synagogue, the Spanish Synagogue and the Old Jewish Cemetery. One ticket covers the Jewish Museum sites.",
+        testo: "The former Jewish quarter in the heart of Staré Město, with five synagogues and the Old Jewish Cemetery run by the Jewish Museum, including the Spanish and Pinkas synagogues. One ticket covers all the museum's sites; the Old-New Synagogue, still used for worship, needs a separate or combined ticket.",
         come: "Metro A to Staroměstská, then 5 minutes.",
-        quando: "Closed on Saturday and Jewish holidays; morning.",
+        quando: "Open every day except Saturdays and Jewish holidays; early morning, before the groups.",
         tempo: "2-3 hours",
+        costo: "CZK 600 adults for all Jewish Museum sites (2026)",
         url: "https://www.jewishmuseum.cz",
         consiglio: "The Old-New Synagogue has a separate ticket."
       },

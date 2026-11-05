@@ -36,7 +36,7 @@ export const destinazioniGiordania: Destinazione[] = [
         "nome": "Ciudadela (Jabal al-Qala'a)",
         "testo": "La colina que domina la ciudad, habitada desde hace milenios. En la cima quedan las columnas del templo de Hércules, el palacio omeya del siglo VIII y el museo arqueológico. Desde el borde se ve todo Amán, con el teatro romano a los pies.",
         "come": "Se sube en taxi o con una caminata empinada de unos 20 minutos desde el centro. Se visita por cuenta propia; los paneles están en inglés.",
-        "quando": "Última hora de la tarde por la luz sobre el templo y la vista; a mediodía en verano no hay sombra.",
+        "quando": "Abierta de 8 a 17 (2026). La última hora de la tarde tiene la mejor luz sobre el templo; a mediodía en verano no hay sombra.",
         "tempo": "1-1,5 horas",
         "costo": "Incluido en el Jordan Pass",
         "url": "https://www.jordanpass.jo/",
@@ -46,7 +46,7 @@ export const destinazioniGiordania: Destinazione[] = [
         "nome": "Teatro Romano",
         "testo": "Teatro del siglo II excavado en la ladera, con unas 6.000 plazas. A los lados de la entrada hay dos pequeños museos, uno de folclore y otro de tradiciones populares. Se suben las gradas y se mira la plaza de abajo.",
         "come": "En pleno centro, a pie desde los zocos y Rainbow Street.",
-        "quando": "Mañana o última hora de la tarde, cuando las gradas están a la sombra.",
+        "quando": "Abierto de 8 a 17 (2026). Mañana o última hora de la tarde, cuando las gradas están a la sombra.",
         "tempo": "45 minutos",
         "costo": "Incluido en el Jordan Pass",
         "url": "https://www.jordanpass.jo/"
@@ -117,7 +117,8 @@ export const destinazioniGiordania: Destinazione[] = [
     attenzioni: [
       "Los taxis amarillos tienen taxímetro: hacer que lo enciendan o acordar el precio antes de subir. Uber y Careem funcionan y quitan el problema.",
       "Rainbow Street y el centro son seguros, pero a mediodía en verano el sol es fuerte y en la Ciudadela no hay sombra.",
-      "En Jordania el viernes es el día de descanso: muchas tiendas abren tarde y los museos pueden tener horarios reducidos."
+      "En Jordania el viernes es el día de descanso: muchas tiendas abren tarde y los museos pueden tener horarios reducidos.",
+      "El Jordan Pass (70, 75 u 80 JOD con 1, 2 o 3 días en Petra, 2026) se compra en línea antes de llegar: cubre el visado turístico si se pasan al menos dos noches y la entrada a más de 40 sitios."
     ],
     // GUIDA-END
     esperienzeSlugs: ['cittadella-amman'],
@@ -152,7 +153,7 @@ export const destinazioniGiordania: Destinazione[] = [
         "nome": "Arco de Adriano e Hipódromo",
         "testo": "La entrada monumental al sur, construida para la visita del emperador Adriano en 129-130. Un poco más allá está el hipódromo, de los mejor conservados del imperio romano.",
         "come": "El aparcamiento está junto al arco; la taquilla queda cerca.",
-        "quando": "A primera hora, antes de los grupos.",
+        "quando": "Abierto de 8 a 17 (2026). Mejor a primera hora, antes de los grupos.",
         "tempo": "30 minutos",
         "costo": "Incluido en el Jordan Pass",
         "url": "https://www.jordanpass.jo/"
@@ -274,6 +275,15 @@ export const destinazioniGiordania: Destinazione[] = [
         "quando": "Mañana, cuando la iglesia está menos concurrida.",
         "tempo": "1-2 horas",
         "consiglio": "Combinarla con una cena en un restaurante de la ciudad vieja, como Haret Jdoudna."
+      },
+      {
+        "nome": "Lugar del Bautismo (Betania al otro lado del Jordán)",
+        "testo": "El lugar a orillas del Jordán donde la tradición sitúa el bautismo de Jesús, patrimonio de la UNESCO desde 2015. Se camina entre restos de iglesias bizantinas hasta el río, que aquí es un hilo de agua con Cisjordania a pocos metros.",
+        "come": "En coche desde el mar Muerto, unos 15 minutos. Desde el centro de visitantes sale una lanzadera y la visita es acompañada.",
+        "quando": "Por la mañana, antes del calor.",
+        "tempo": "1,5-2 horas",
+        "url": "https://www.baptismsite.com/",
+        "consiglio": "Llevar sombrero y agua: el recorrido va casi todo al sol."
       }
     ],
     programmi: [
@@ -356,7 +366,7 @@ export const destinazioniGiordania: Destinazione[] = [
         "nome": "Castillo de Karak",
         "testo": "Fortaleza cruzada del siglo XII sobre un espolón de roca, después en manos de Saladino y de los mamelucos. Se recorren pasillos oscuros, bóvedas, cisternas y salas subterráneas, con la ciudad moderna alrededor.",
         "come": "Se llega desde Madaba por la Carretera del Rey en unas 1,5 horas. Se visita por cuenta propia, pero algunos pasillos están oscuros: llevar linterna.",
-        "quando": "Mañana, cuando hay menos viento y el sol aún está bajo.",
+        "quando": "Abierto de 8 a 17 (2026). Por la mañana hay menos viento y el sol aún está bajo.",
         "tempo": "1-1,5 horas",
         "costo": "Incluido en el Jordan Pass (dato de mi viaje)",
         "url": "https://www.jordanpass.jo/"
@@ -367,6 +377,15 @@ export const destinazioniGiordania: Destinazione[] = [
         "come": "En la carretera entre Madaba y Karak, a unos 10 km de Madaba. Se llega en coche hasta el aparcamiento.",
         "quando": "Día despejado, cuando desde la terraza se ve el valle del Jordán y, a veces, el Mar Muerto.",
         "tempo": "45 minutos"
+      },
+      {
+        "nome": "Castillo de Shobak",
+        "testo": "El castillo cruzado de Montréal, construido en 1115 por Balduino I sobre una colina aislada. Está menos restaurado que Karak y es más salvaje: se baja también por un túnel excavado en la roca que lleva a un manantial.",
+        "come": "En la King's Highway entre Karak y Petra, a una hora de Wadi Musa. Se visita por libre; para el túnel hace falta linterna.",
+        "quando": "Abierto de 8 a 17 (2026). Buena parada camino de Petra.",
+        "tempo": "1 hora",
+        "costo": "Incluido en el Jordan Pass",
+        "url": "https://www.jordanpass.jo/"
       }
     ],
     programmi: [
@@ -462,10 +481,9 @@ export const destinazioniGiordania: Destinazione[] = [
         "nome": "El Siq y el Tesoro (Al-Khazneh)",
         "testo": "El desfiladero natural de unos 1,2 km entre paredes de arenisca rosa, que se estrecha hasta mostrar de repente la fachada del Tesoro, de unos 40 metros de alto y excavada en la roca.",
         "come": "De la entrada al Tesoro se camina unos 30-40 minutos. Se puede alquilar un caballo, pero solo cubre el tramo hasta el inicio del Siq.",
-        "quando": "La primerísima hora, cuando el Siq está vacío y la luz llega al Tesoro hacia las 9-10.",
+        "quando": "El recinto abre a las 6 (cierre indicado a las 17, 2026). Entrar a primerísima hora, con el Siq vacío; la luz llega al Tesoro hacia las 9-10.",
         "tempo": "45 minutos",
-        "costo": "Incluido en el Jordan Pass",
-        "url": "https://www.jordanpass.jo/",
+        "costo": "50 JOD 1 día, 55 dos, 60 tres para quien duerme al menos una noche en Jordania; 90 JOD en excursión de un día sin pernoctar. Incluido en el Jordan Pass.",
         "consiglio": "La encontramos casi desierta: ver el Tesoro asomar del Siq sin multitud vale por sí solo el viaje."
       },
       {
@@ -502,7 +520,8 @@ export const destinazioniGiordania: Destinazione[] = [
         "come": "En taxi o con el traslado desde Wadi Musa en 15 minutos. Se camina por el cañón.",
         "quando": "Tarde, el día antes de Petra.",
         "tempo": "1,5-2 horas",
-        "consiglio": "Ideal para calentar antes de Petra, con poca gente."
+        "consiglio": "Ideal para calentar antes de Petra, con poca gente.",
+        "costo": "Entrada libre"
       }
     ],
     programmi: [
@@ -731,10 +750,19 @@ export const destinazioniGiordania: Destinazione[] = [
       },
       {
         "nome": "Paseo marítimo y playas",
-        "testo": "El centro es un paseo marítimo con cafés y una zona de playas equipadas. Se baña uno en traje de baño en los establecimientos, con ropa más discreta fuera.",
+        "testo": "El centro tiene un paseo marítimo con cafés y la playa pública; más al sur, las playas equipadas de los resorts y del parque marino. En la ciudad se viste con sobriedad; el bañador está bien dentro de las instalaciones.",
         "come": "Desde los hoteles principales en 15 minutos en taxi.",
         "quando": "Todo el día, sobre todo por la tarde.",
         "tempo": "Medio día"
+      },
+      {
+        "nome": "Fuerte de Aqaba y museo",
+        "testo": "El pequeño fuerte mameluco del siglo XVI en el paseo marítimo, con el escudo hachemí sobre la puerta: la revuelta árabe lo tomó en 1917. Al lado está el museo arqueológico de la ciudad.",
+        "come": "A pie desde el paseo marítimo del centro, cerca del mástil de la bandera.",
+        "quando": "Abierto de 8 a 17 (2026). Última hora de la tarde, antes de la puesta de sol sobre el mar.",
+        "tempo": "45 minutos",
+        "costo": "Incluido en el Jordan Pass",
+        "url": "https://www.jordanpass.jo/"
       }
     ],
     programmi: [

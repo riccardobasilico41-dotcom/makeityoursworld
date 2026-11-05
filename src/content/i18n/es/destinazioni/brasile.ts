@@ -30,7 +30,7 @@ export const destinazioniBrasile: Destinazione[] = [
     comeArrivare: "Aeropuerto internacional del Galeão (GIG); vuelos internos también desde el Santos Dumont, en el centro.",
     comeSpostarsi: "Metro entre la zona sur y el centro, taxis oficiales y aplicaciones; a pie solo de día y en las zonas concurridas.",
     periodoMigliore: "mayo-octubre, invierno suave y seco; diciembre-marzo caluroso y lluvioso.",
-    costi: "Cristo Redentor 85-90 R$ con la van oficial; Pan de Azúcar 180-200 R$.",
+    costi: "Cristo Redentor 87 R$ con la van desde el centro de visitantes Paineiras (132 R$ desde Copacabana o Largo do Machado, 134 R$ con el tren de cremallera), precio único todo el año; Pan de Azúcar 205 R$ la entrada completa (2026).",
     erroriDaEvitare: [
       "Llevar el teléfono en la mano por la calle o dejarlo sobre la toalla en la playa",
       "Caminar de noche por zonas desiertas en lugar de usar una app",
@@ -43,7 +43,7 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "Con el tren de cremallera desde Cosme Velho o con las vans oficiales desde Paineiras. La entrada se compra en línea eligiendo día y hora.",
         "quando": "Primer viaje de la mañana, antes de las nubes y la multitud. A mediodía la estatua suele estar entre nubes.",
         "tempo": "3-4 horas entre subida, visita y bajada",
-        "costo": "Unos 87 R$ con la van oficial, precio único todo el año (2026)",
+        "costo": "87 R$ con la van desde el centro de visitantes Paineiras, 132 R$ con la van desde Copacabana o Largo do Machado, 134 R$ con el tren de cremallera desde Cosme Velho; precio único todo el año (2026)",
         "url": "https://paineirascorcovado.com.br/",
         "consiglio": "Ve por la mañana y lleva una chaqueta ligera: arriba hace viento."
       },
@@ -328,7 +328,7 @@ export const destinazioniBrasile: Destinazione[] = [
     comeArrivare: "Vuelo a Foz do Iguaçu (IGU), a menudo vía São Paulo; aeropuerto argentino en Puerto Iguazú.",
     comeSpostarsi: "Autobuses urbanos y taxis hacia el parque brasileño; taxi o traslado para pasar la frontera.",
     periodoMigliore: "todo el año; más agua entre diciembre y marzo, menos calor entre abril y septiembre.",
-    costi: "Parque brasileño 100-110 R$; parque argentino unos 35-45 dólares en pesos; lancha 450-550 R$.",
+    costi: "Parque brasileño 134 R$ para extranjeros (desde el 19 de diciembre de 2025); parque argentino 60.000 pesos para extranjeros no residentes (unos 40 dólares, desde el 1 de junio de 2026); lancha 450-550 R$.",
     erroriDaEvitare: [
       "Ver un solo lado",
       "Olvidar el pasaporte para la frontera argentina",
@@ -339,9 +339,9 @@ export const destinazioniBrasile: Destinazione[] = [
         "nome": "Lado brasileño de las cataratas",
         "testo": "Da la vista de conjunto: un sendero de un kilómetro y medio a lo largo del cañón, hasta la pasarela que entra bajo la Garganta do Diabo, donde uno se moja por completo.",
         "come": "Buses urbanos o taxi desde Foz do Iguaçu; se entra por el centro de visitantes y se sube con el bus del parque.",
-        "quando": "Llega temprano por la mañana.",
+        "quando": "Abierto todos los días: 9-16 de lunes a viernes, 8.30-16 sábados y domingos. Llega a la hora de apertura.",
         "tempo": "2-3 horas",
-        "costo": "Unos 130 R$ para extranjeros (2026, tope 134 R$), para comprar en línea con día y hora",
+        "costo": "134 R$ para extranjeros, 121 R$ para brasileños y residentes del Mercosur (tarifas vigentes desde el 19 de diciembre de 2025, actualizadas cada año). Solo en línea, con día y hora",
         "url": "https://www.cataratasdoiguacu.com.br/",
         "consiglio": "Capa de lluvia o bolsa impermeable para teléfono y documentos."
       },
@@ -706,7 +706,7 @@ export const destinazioniBrasile: Destinazione[] = [
     comeArrivare: "Vuelo a São Luís, luego van a Barreirinhas (unas 4 horas).",
     comeSpostarsi: "Solo 4x4 con conductores autorizados dentro del parque; barcas por el río.",
     periodoMigliore: "junio-septiembre, con el máximo de agua en julio-agosto.",
-    costi: "Jardineira 100-150 R$ por persona y circuito; para la entrada al parque conviene informarse antes de salir, porque hay un plan de concesión en curso.",
+    costi: "Jardineira 100-150 R$ por persona y circuito; la entrada al parque es gratuita: el ICMBio no vende entradas y el plan de concesión a privados se retiró a finales de 2023.",
     erroriDaEvitare: [
       "Ir fuera de temporada, cuando las lagunas están vacías",
       "Entrar en el parque en las horas centrales sin agua ni gorra",

@@ -53,6 +53,7 @@ export const destinazioniBelize: Destinazione[] = [
           "come": "Half-day boat trip from Caye Caulker with guide and gear. The marine park fee is often not included in the price.",
           "quando": "Morning, when the sea is calmest; best season December-April.",
           "tempo": "4-5 hours",
+          "costo": "Reserve fee 15 USD per person (since 2024), often not included in the tour price.",
           "url": "https://www.travelbelize.org/",
           "consiglio": "From people who have been: in the water a metre from nurse sharks and rays that pay no attention to who is watching. Before booking, ask what the price includes."
         },
@@ -113,7 +114,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Conch ceviche",
-          "testo": "Raw conch marinated in lime with onion and coriander. It is a local product and eaten fresh."
+          "testo": "Raw conch marinated in lime with onion and coriander. It is a local product, eaten fresh; the fishery is closed from July to September, so in those months it should not be on the menu."
         },
         {
           "nome": "Lobster",
@@ -178,6 +179,7 @@ export const destinazioniBelize: Destinazione[] = [
           "come": "Half-day boat trip booked in San Pedro; gear included. Park fee often extra.",
           "quando": "Morning; December-April.",
           "tempo": "4 hours",
+          "costo": "Reserve fee 15 USD per person (since 2024), often not included in the tour price.",
           "url": "https://www.travelbelize.org/",
           "consiglio": "You get there sooner, so another snorkelling stop can fit in the same trip."
         },
@@ -340,7 +342,7 @@ export const destinazioniBelize: Destinazione[] = [
         {
           "nome": "Rio On Pools and the Mountain Pine Ridge",
           "testo": "A series of small waterfalls and natural pools on the Rio On, in a highland pine forest. You swim and slide on smooth rocks.",
-          "come": "By car or taxi from San Ignacio (about 45 minutes). Free entry.",
+          "come": "By car or taxi from San Ignacio (about 45 minutes).",
           "quando": "Afternoon, when the water is warmest.",
           "tempo": "1-2 hours",
           "consiglio": "Water shoes: the rocks are slippery."
@@ -466,7 +468,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Hopkins and Garifuna culture",
-          "testo": "A Garifuna seaside village. The Garifuna are descendants of Africans who were never enslaved, with their own language, cuisine and drumming, protected by UNESCO.",
+          "testo": "A Garifuna village on the sea. The Garifuna descend from West Africans and Carib peoples of the Lesser Antilles, deported to this coast at the end of the 18th century; their language, dance and music are UNESCO intangible heritage.",
           "come": "From Placencia 40-50 minutes by car or shuttle. In the village you walk.",
           "quando": "Evening for drums, morning for the food.",
           "tempo": "Half a day",

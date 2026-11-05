@@ -67,7 +67,7 @@ export const destinazioniGuatemala: Destinazione[] = [
           "nome": "Acatenango volcano",
           "testo": "A climb with a base camp above the clouds, facing the erupting Fuego. The hardest stretch of the trip in Guatemala.",
           "come": "Two-day tour from Antigua with guide, tent and meals. The walk is 5-6 hours uphill through corn fields, pine forest and volcanic sand.",
-          "quando": "Dry season (November-April); the next morning you descend on sand.",
+          "quando": "Dry season (November-April); the next morning you come down on the sand. The trail can close because of Fuego's activity or bad weather (in 2026 it reopened in August after a closure): check beforehand.",
           "tempo": "2 days, 1 night",
           "consiglio": "The camp is near freezing at night: gloves, hat, warm layers. The descent is more sliding than walking."
         }
@@ -204,7 +204,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         },
         {
           "nome": "Indian Nose (Rostro Maya)",
-          "testo": "A viewpoint at 3,000 metres above San Juan la Laguna, for sunrise over the lake and the volcanoes.",
+          "testo": "A viewpoint above San Juan la Laguna, for sunrise over the lake and the Atitlán, Tolimán and San Pedro volcanoes. The top is a narrow meadow among the trees: you arrive in the dark and watch the light come up over the lake.",
           "come": "Wake-up around 4, pick-up departure and a walk of about an hour in the dark with a guide.",
           "quando": "Sunrise, with clear sky.",
           "tempo": "Half a morning",
@@ -325,9 +325,10 @@ export const destinazioniGuatemala: Destinazione[] = [
           "nome": "Gran Plaza and Temples I and II",
           "testo": "The heart of Tikal: Temples I (of the Great Jaguar) and II face each other across the ceremonial plaza, with acropolises on the sides. A UNESCO site within Tikal National Park.",
           "come": "From the park you walk in the forest; entrance and trails add up to kilometres. A guided visit is recommended, also for the wildlife.",
-          "quando": "The park opens at dawn; early morning for coolness and animals.",
+          "quando": "The park is open daily from 6am to 6pm; the special sunrise entry runs from 4 to 6am. Early morning for cool air and wildlife.",
           "tempo": "3-4 hours",
-          "url": "https://inguat.gob.gt/"
+          "costo": "Q150 for foreigners, per day; sunrise or sunset entry costs an extra Q100 (Ministry of Culture fees, 2026).",
+          "url": "https://boletos.culturaguate.gob.gt/"
         },
         {
           "nome": "Temple IV",

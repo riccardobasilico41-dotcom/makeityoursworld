@@ -56,8 +56,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "nome": "Real Alcázar",
         "testo": "A royal palace still in use, born as a Moorish fortress and rebuilt in the 14th century by King Peter I in Mudéjar style with craftsmen from Granada. The Palacio de Pedro I, the Salón de Embajadores and the stucco-decorated patios are the heart of the visit. Behind lie large gardens with fountains and hedge mazes.",
         "come": "Enter through the Puerta del León, on Plaza del Triunfo, opposite the cathedral. There is a single route; audio guides are rented at the entrance.",
-        "quando": "Go first thing in the morning or in the last afternoon slot to avoid groups. Check hours and prices on the official site before going.",
+        "quando": "Open 9:30am-7pm from April to September and 9:30am-5pm from October to March. Closed on 1 and 6 January, Good Friday and 25 December. Early morning or the last slot of the afternoon to avoid the groups.",
         "tempo": "2-3 hours",
+        "costo": "15.50 euros full price (rate on the official website, 2026); the Royal Apartments cost extra",
         "url": "https://www.alcazarsevilla.org/",
         "consiglio": "Book online and choose the first slot: the patios are small and only enjoyable without crowds. The Royal Apartments are visited with a separate booking."
       },
@@ -215,9 +216,9 @@ export const destinazioniSpagna: Destinazione[] = [
     comeArrivare: "Federico García Lorca Airport, about 15 km from the center. AVE train from Madrid in about 3h10-3h30; direct bus from Seville (about 3h) or from Córdoba (about 2h).",
     comeSpostarsi: "Historic center and Albaicín on foot only (steep climbs); local minibuses for the higher areas of the Sacromonte and the Albaicín; the Alhambra can be reached on foot uphill from the center or with a dedicated shuttle bus.",
     periodoMigliore: "April-June and September-October. Summer is hot but less extreme than in Seville thanks to the altitude (about 700 meters) and the proximity of the Sierra Nevada; winter is cold, with snow visible on the peaks a few km from the city.",
-    costi: "Alhambra general admission about €19.60 (tickets sell out weeks ahead, in high season even months); Cathedral and Capilla Real about €7 each.",
+    costi: "Alhambra general admission €22.27 plus the online fee (2026) (tickets sell out weeks ahead, in high season even months); Cathedral and Capilla Real about €7 each.",
     erroriDaEvitare: [
-      "Arriving in Granada without having already booked the Alhambra: tickets are sold only online up to three months ahead and in high season (June-September and holidays) they sell out weeks in advance",
+      "Arriving in Granada without having already booked the Alhambra: tickets are sold on the official website (also by phone or at the ticket machines) and in high season (June-September and holidays) they sell out weeks in advance",
       "Underestimating the climbs of the Albaicín and the Sacromonte: they're steep and cobbled, not very comfortable with luggage or unsuitable shoes",
       "Booking a flamenco show without doing research: in the Sacromonte authentic zambras and very touristy formats coexist at the same price",
     ],
@@ -226,8 +227,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "nome": "Alhambra and Generalife",
         "testo": "The citadel of the Nasrid sultans on the Sabika hill: the Nasrid Palaces with stuccoes and stalactite ceilings, the military Alcazaba, the Renaissance palace of Charles V and the Generalife gardens. The Court of the Lions and the Hall of the Two Sisters are the best-known spots.",
         "come": "On foot uphill from the center (25-30 minutes) or by city minibus. Entry is by named ticket and for the Nasrid Palaces the time slot printed on it applies: arrive early, not late. Bring ID and confirmation.",
-        "quando": "Open every day, with different hours in summer and winter. Tickets are bought only on the official channel, up to three months ahead, and in high season they sell out weeks in advance. Check hours and prices on the official site.",
+        "quando": "Open every day: 8:30am-8pm from 1 April to 14 October, 8:30am-6pm from 15 October to 31 March. Closed on 25 December and 1 January. Tickets are sold through the official channel (online, by phone or at the ticket machines) and in high season they sell out weeks ahead.",
         "tempo": "3-4 hours, half a day to see everything",
+        "costo": "22.27 euros for the daytime Alhambra General ticket, plus a fee for online purchases (2026)",
         "url": "https://www.alhambra-patronato.es/",
         "consiglio": "Choose the morning slot for the Nasrid Palaces, when light comes in through the patios. Keep in mind that the route is entirely outdoors."
       },
@@ -836,8 +838,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "nome": "Museo Guggenheim Bilbao",
         "testo": "Frank Gehry's museum, opened in 1997, all in titanium, glass and limestone, on the bank of the Nervión. Outside are Jeff Koons's Puppy, covered in flowers, and Maman, Louise Bourgeois's spider. Inside, temporary exhibitions alternate with a contemporary art collection, including Richard Serra's The Matter of Time.",
         "come": "Metro to Moyúa, then 10 minutes on foot, or tram to Guggenheim. You can visit only the exterior, which is free, with the riverside walk.",
-        "quando": "Check hours, closing days (usually Monday in low season) and prices on the official site. Early in the morning the light on the titanium is better.",
+        "quando": "Tuesday to Sunday 10am-7pm; until 8pm in Holy Week and from 15 June to 13 September. Closed on Mondays, except for some special openings, including the summer Mondays. Closed on 25 December and 1 January. Early in the morning the light on the titanium is best.",
         "tempo": "2-3 hours inside, 30 minutes for the exterior",
+        "costo": "12 euros full price, free under 18 (rate on the official website in November 2026: it changes with the season and the exhibitions)",
         "url": "https://www.guggenheim-bilbao.eus/",
         "consiglio": "Buy the ticket online and see the Serra rooms first; then the exterior at sunset."
       },
@@ -1238,8 +1241,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "nome": "Cap de Formentor e Pollença",
         "testo": "The island's northernmost peninsula, with sheer cliffs and a lighthouse at the end of 20 km of scenic road above Port de Pollença. On the way is the Mirador des Colomer. Pollença has a central square with cafes and the Calvari staircase, 365 steps.",
         "come": "From Port de Pollença by car 20 km on the Ma-2210 to the lighthouse, about 40 minutes. Palma to Pollença is about an hour.",
-        "quando": "At sunset for the light on the lighthouse. In summer car access may be limited at certain hours: check before leaving.",
+        "quando": "At sunset for the light on the lighthouse. From 15 May to 18 October (2026 dates), from 10am to 10pm, the road to the lighthouse is closed to private cars: you go up on TIB bus 334 from Alcúdia and Port de Pollença or by bike. You can drive to the Formentor beach car park until it is full.",
         "tempo": "half a day",
+        "url": "https://www.dgt.es/conoce-el-estado-del-trafico/rutas-de-interes/trafico-acceso-faro-de-formentor/",
         "consiglio": "Go up to the Mirador des Colomer at opening time or at sunset: at midday you arrive in a queue."
       },
       {

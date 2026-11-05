@@ -51,28 +51,31 @@ export const destinazioniEgitto: Destinazione[] = [
       {
         "nome": "Grand Egyptian Museum (GEM)",
         "testo": "Il museo nuovo vicino alle piramidi, con la scalinata monumentale e le gallerie dedicate a Tutankhamon, i cui oggetti sono riuniti per la prima volta in un unico luogo. È il museo da vedere per primo.",
-        "come": "Sta a Giza, a 30-60 minuti dal centro con Uber o taxi. L'ingresso è a fascia oraria da prenotare online.",
-        "quando": "Mattina all'apertura. Evitare i giorni di punta e le ore centrali.",
+        "come": "Sta a Giza, a 30-60 minuti dal centro con Uber o taxi. Il biglietto si compra solo online, sul sito ufficiale, con data e fascia oraria.",
+        "quando": "Gallerie aperte 9-18; mercoledì e sabato fino alle 21 (2026). Meglio all'apertura.",
         "tempo": "3-4 ore",
-        "url": "https://gem.eg/",
-        "consiglio": "Prenotare la fascia oraria prima di partire e abbinarlo alle piramidi, che sono a pochi chilometri."
+        "url": "https://tickets.gem.eg/",
+        "consiglio": "Prenotare la fascia oraria prima di partire e abbinarlo alle piramidi, che sono a pochi chilometri.",
+        "costo": "Prezzi per stranieri aumentati dal 1° novembre 2026: controllarli sul sito ufficiale al momento della prenotazione."
       },
       {
         "nome": "Museo Egizio di piazza Tahrir",
         "testo": "Il museo storico del 1902, con migliaia di pezzi in sale piene e un po' vecchio stile. Resta pieno di oggetti straordinari anche dopo il trasferimento dei pezzi di Tutankhamon.",
         "come": "Metro fino a Sadat, a piedi dalla piazza. Audioguida o guida in loco.",
-        "quando": "Mattina presto, prima dei gruppi.",
+        "quando": "Aperto tutti i giorni 9-17, biglietteria fino alle 16. Meglio la mattina presto, prima dei gruppi.",
         "tempo": "2 ore",
-        "url": "https://egymonuments.gov.eg/",
-        "consiglio": "Scegliere poche sale e vederle bene, invece di correre su tutto il museo."
+        "url": "https://egymonuments.gov.eg/en/museums/egyptian-museum/",
+        "consiglio": "Scegliere poche sale e vederle bene, invece di correre su tutto il museo.",
+        "costo": "550 EGP per adulti stranieri, 275 per studenti; audioguida 75 EGP (2026)"
       },
       {
         "nome": "Cittadella di Saladino e moschea di Muhammad Ali",
         "testo": "La fortezza del XII secolo sulla collina che domina la città, con la moschea in stile ottomano a cupole d'alabastro. Dal bordo la vista arriva fino alle piramidi nelle giornate limpide.",
         "come": "Taxi o Uber fino all'ingresso. Si gira a piedi dentro la cittadella, con scarpe comode.",
-        "quando": "Pomeriggio, per la luce e il cielo meno velato.",
+        "quando": "Aperta tutti i giorni 8-17. Il pomeriggio ha la luce migliore e il cielo meno velato.",
         "tempo": "2 ore",
-        "url": "https://egymonuments.gov.eg/"
+        "url": "https://egymonuments.gov.eg/en/archaeological-sites/cairo-citadel/",
+        "costo": "550 EGP per adulti stranieri, 275 per studenti (2026)"
       },
       {
         "nome": "Cairo islamico e via al-Muizz",
@@ -80,7 +83,6 @@ export const destinazioniEgitto: Destinazione[] = [
         "come": "Ci si arriva dalla zona di Khan el-Khalili. Si cammina da nord a sud in circa 1-2 ore.",
         "quando": "Dal tardo pomeriggio fino a sera.",
         "tempo": "2-3 ore",
-        "url": "https://egymonuments.gov.eg/",
         "consiglio": "Salire su un minareto, dove permesso, regala la vista migliore della città vecchia."
       },
       {
@@ -198,28 +200,31 @@ export const destinazioniEgitto: Destinazione[] = [
         "nome": "Piramidi e Sfinge di Giza",
         "testo": "La Grande Piramide di Cheope, quelle di Chefren e Micerino e la Sfinge: il gruppo più famoso dell'Egitto, sull'altopiano a sud-ovest del Cairo. Si può entrare nella Grande Piramide con un biglietto a parte.",
         "come": "Da Giza o dal Cairo in Uber o con un autista; si gira a piedi, in navetta elettrica o a cavallo.",
-        "quando": "All'apertura, quando la luce è migliore e ci sono meno gruppi.",
+        "quando": "Aperto tutti i giorni 8-16. All'apertura la luce è migliore e ci sono meno gruppi.",
         "tempo": "3-4 ore",
-        "url": "https://egymonuments.gov.eg/",
-        "consiglio": "Il punto panoramico dietro Micerino mostra le tre piramidi insieme, senza folla."
+        "url": "https://egymonuments.gov.eg/en/archaeological-sites/giza-plateau/",
+        "consiglio": "Il punto panoramico dietro Micerino mostra le tre piramidi insieme, senza folla.",
+        "costo": "700 EGP per adulti stranieri, 350 per studenti (2026). L'interno delle piramidi è a parte: la Grande Piramide costa 1.500 EGP dal 2025."
       },
       {
         "nome": "Saqqara",
         "testo": "La piramide a gradoni di Djoser, la più antica grande costruzione in pietra, e le mastabe dipinte di Ti e Mereruka con rilievi molto belli.",
         "come": "In auto con autista, 45-60 minuti da Giza.",
-        "quando": "Mattina.",
+        "quando": "Aperto tutti i giorni 8-16. Meglio la mattina.",
         "tempo": "2-3 ore",
-        "url": "https://egymonuments.gov.eg/",
-        "consiglio": "Le tombe dipinte valgono più della piramide stessa e hanno pochissima gente."
+        "url": "https://egymonuments.gov.eg/en/archaeological-sites/saqqara/",
+        "consiglio": "Le tombe dipinte valgono più della piramide stessa e hanno pochissima gente.",
+        "costo": "600 EGP l'area per adulti stranieri; biglietto cumulativo con tombe dei nobili, Mereruka e museo Imhotep 1.400 EGP (2026)"
       },
       {
         "nome": "Dahshur",
         "testo": "La piramide Rossa e la piramide Romboidale, di Snefru: i primi tentativi di una vera piramide liscia. Poca gente, e nella Piramide Rossa si scende.",
         "come": "In auto con autista, vicino a Saqqara.",
-        "quando": "Mattina, con meno caldo.",
+        "quando": "Aperto tutti i giorni 8-17. Meglio la mattina, con meno caldo.",
         "tempo": "1-2 ore",
-        "url": "https://egymonuments.gov.eg/",
-        "consiglio": "Un'ottima aggiunta a Saqqara per chi ha un giorno intero con un autista."
+        "url": "https://egymonuments.gov.eg/en/archaeological-sites/dahshur/",
+        "consiglio": "Un'ottima aggiunta a Saqqara per chi ha un giorno intero con un autista.",
+        "costo": "200 EGP per adulti stranieri (2026)"
       }
     ],
     programmi: [
@@ -328,10 +333,11 @@ export const destinazioniEgitto: Destinazione[] = [
         "nome": "Tempio di Karnak",
         "testo": "Il più grande complesso religioso dell'antico Egitto, costruito in oltre 1.500 anni. La sala ipostila ha 134 colonne alte fino a 21 metri, coperte di geroglifici.",
         "come": "Dalla città in taxi o calesse. Si cammina nel sito, lungo la via delle sfingi dal tempio di Luxor se si vuole il percorso completo.",
-        "quando": "All'apertura. D'estate è l'unico momento sopportabile.",
+        "quando": "Aperto tutti i giorni 6-17. Arrivare all'apertura: d'estate è l'unico momento sopportabile.",
         "tempo": "2-3 ore",
-        "url": "https://egymonuments.gov.eg/",
-        "consiglio": "Tornare la sera per lo spettacolo di suoni e luci, se in programma."
+        "url": "https://egymonuments.gov.eg/en/archaeological-sites/karnak/",
+        "consiglio": "Tornare la sera per lo spettacolo di suoni e luci, se in programma.",
+        "costo": "600 EGP con il museo all'aperto, tempio di Mut 200 EGP (adulti stranieri, 2026)"
       },
       {
         "nome": "Tempio di Luxor",
@@ -339,16 +345,17 @@ export const destinazioniEgitto: Destinazione[] = [
         "come": "A piedi dal lungofiume sulla riva est.",
         "quando": "Tramonto e sera.",
         "tempo": "1 ora",
-        "url": "https://egymonuments.gov.eg/"
+        "costo": "500 EGP per adulti stranieri (2026)"
       },
       {
         "nome": "Valle dei Re",
         "testo": "Le tombe dei faraoni del Nuovo Regno scavate nella roccia, con pareti dipinte ancora colorate. Il biglietto base dà accesso a tre tombe, mentre Tutankhamon e altre sono a pagamento a parte.",
         "come": "Sulla riva ovest, in taxi o con un tour. Si visita a piedi, tomba per tomba.",
-        "quando": "All'apertura. A mezzogiorno è molto caldo, anche già in primavera.",
+        "quando": "Aperta tutti i giorni 6-17. Arrivare all'apertura: a mezzogiorno è molto caldo, già in primavera.",
         "tempo": "2-3 ore",
-        "url": "https://egymonuments.gov.eg/",
-        "consiglio": "Scegliere tombe con decorazioni ben conservate, come Ramses IV o Merenptah, e non solo la più famosa."
+        "url": "https://egymonuments.gov.eg/en/archaeological-sites/valley-of-the-kings/",
+        "consiglio": "Scegliere tombe con decorazioni ben conservate, come Ramses IV o Merenptah, e non solo la più famosa.",
+        "costo": "750 EGP per adulti stranieri, 375 per studenti, con tre tombe; Tutankhamon e altre tombe a parte (2026)"
       },
       {
         "nome": "Tempio di Hatshepsut",
@@ -356,7 +363,7 @@ export const destinazioniEgitto: Destinazione[] = [
         "come": "Sulla riva ovest, accanto alla Valle dei Re, con navetta dal parcheggio.",
         "quando": "Mattina presto.",
         "tempo": "1 ora",
-        "url": "https://egymonuments.gov.eg/"
+        "costo": "440 EGP per adulti stranieri (2026)"
       },
       {
         "nome": "Medinet Habu e Colossi di Memnone",
@@ -364,8 +371,8 @@ export const destinazioniEgitto: Destinazione[] = [
         "come": "Sulla riva ovest, in taxi con le altre tappe.",
         "quando": "Metà mattina o fine pomeriggio.",
         "tempo": "1-1,5 ore",
-        "url": "https://egymonuments.gov.eg/",
-        "consiglio": "Medinet Habu è il tempio più sottovalutato di Luxor."
+        "consiglio": "Medinet Habu è il tempio più sottovalutato di Luxor.",
+        "costo": "Medinet Habu 220 EGP per adulti stranieri (2026); i Colossi si vedono dalla strada"
       }
     ],
     programmi: [
@@ -417,7 +424,7 @@ export const destinazioniEgitto: Destinazione[] = [
       }
     ],
     attenzioni: [
-      "In Valle dei Re le foto con permesso a parte: i guardiani fanno pagare «multe» in contanti a chi fotografa senza.",
+      "Nelle tombe le regole sulle foto cambiano spesso: chiedere in biglietteria, mai il flash. I guardiani che aprono un angolo chiuso o mettono in posa poi chiedono la mancia.",
       "Mongolfiere: scegliere la compagnia e non il prezzo più basso, e mettere margine perché i voli si annullano col vento.",
       "I calessi e i venditori sul lungofiume partono da cifre alte: contrattare e decidere prima.",
       "D'estate le visite vanno fatte dall'alba alle 11: dopo, 40 gradi e più."
@@ -470,18 +477,20 @@ export const destinazioniEgitto: Destinazione[] = [
         "nome": "Abu Simbel",
         "testo": "I due templi di Ramses II e Nefertari scavati nella roccia, con le statue colossali all'ingresso. Furono spostati negli anni Sessanta per salvarli dal lago Nasser. Il 22 febbraio e il 22 ottobre il sole entra fino al santuario.",
         "come": "Da Assuan 280 km: strada di circa 3,5 ore in convoglio con partenza prima dell'alba, oppure volo di 45 minuti.",
-        "quando": "All'apertura, prima dei gruppi dei bus.",
+        "quando": "Aperto tutti i giorni 6-17. Arrivare all'apertura, prima dei bus dei gruppi.",
         "tempo": "1,5-2 ore sul posto",
-        "url": "https://egymonuments.gov.eg/",
-        "consiglio": "Chi può, dormire ad Abu Simbel per lo spettacolo di suoni e luci e per l'alba."
+        "url": "https://egymonuments.gov.eg/en/archaeological-sites/abu-simbel/",
+        "consiglio": "Chi può, dormire ad Abu Simbel per lo spettacolo di suoni e luci e per l'alba.",
+        "costo": "750 EGP per adulti stranieri, 375 per studenti; 1.200 EGP il 22 febbraio e il 22 ottobre (2026)"
       },
       {
         "nome": "Tempio di Philae",
         "testo": "Il santuario di Iside su un'isola, spostato anch'esso dopo la diga. Si arriva in barca dal molo di Shellal ed è molto fotogenico.",
         "come": "Taxi fino al molo, poi barca a motore, con il prezzo da concordare.",
-        "quando": "Mattina presto o tardo pomeriggio per la luce.",
+        "quando": "Aperto tutti i giorni 7-16. Mattina presto o primo pomeriggio per la luce.",
         "tempo": "1,5 ore",
-        "url": "https://egymonuments.gov.eg/"
+        "url": "https://egymonuments.gov.eg/en/archaeological-sites/philae/",
+        "costo": "550 EGP per adulti stranieri, più la barca dal molo da concordare (2026)"
       },
       {
         "nome": "Villaggio nubiano di Gharb Soheil",
@@ -601,8 +610,7 @@ export const destinazioniEgitto: Destinazione[] = [
         "testo": "Le rovine sul colle di Aghurmi dove Alessandro Magno venne a consultare l'oracolo nel 331 a.C.",
         "come": "In bici o taxi dal centro.",
         "quando": "Mattina o tardo pomeriggio.",
-        "tempo": "1 ora",
-        "url": "https://egymonuments.gov.eg/"
+        "tempo": "1 ora"
       },
       {
         "nome": "Deserto, laghi salati e sorgente di Cleopatra",

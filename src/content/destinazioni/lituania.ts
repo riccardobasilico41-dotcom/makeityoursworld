@@ -140,7 +140,7 @@ export const destinazioniLituania: Destinazione[] = [
         nome: "Palazzo dei Granduchi e Museo dell'Occupazione",
         testo: "Il Palazzo, ricostruito sulle rovine del castello reale, racconta il Granducato. A breve distanza, il Museo delle Occupazioni e delle Lotte per la Libertà, nell'ex sede KGB, documenta il periodo sovietico.",
         come: "A piedi: il Palazzo ai piedi della collina, il Museo in Gedimino prospektas.",
-        quando: "Mattina; il museo KGB è chiuso il lunedì.",
+        quando: "Mattina; orari e giorni di chiusura sul sito ufficiale.",
         tempo: "2 ore per ognuno",
         url: "https://www.genocid.lt",
         consiglio: "Le celle nel sotterraneo del KGB sono dure da visitare, ma importanti."

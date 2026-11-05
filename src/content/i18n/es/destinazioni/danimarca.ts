@@ -95,7 +95,7 @@ export const destinazioniDanimarca: Destinazione[] = [
       },
       {
         nome: "Christiania",
-        testo: "Una «ciudad libre» nacida en 1971 en un antiguo recinto militar: casas autoconstruidas, murales, talleres y locales. Tiene sus propias reglas: no fotos en Pusher Street y no correr.",
+        testo: "Una «ciudad libre» nacida en 1971 en un antiguo recinto militar: casas autoconstruidas, murales, talleres y locales. Tiene sus propias reglas: no fotografiar a las personas, sobre todo en la zona de la antigua Pusher Street, cerrada en 2024, y no correr.",
         come: "A pie desde Christianshavn, entrada por Prinsessegade.",
         quando: "De día; de noche es menos aconsejable para visitantes ocasionales.",
         tempo: "1-2 horas",
@@ -185,7 +185,7 @@ export const destinazioniDanimarca: Destinazione[] = [
     attenzioni: [
       "Bicicletas: mantenerse fuera de los carriles bici y mirar antes de bajar de la acera.",
       "Carteristas en Strøget, en la estación central y en Nyhavn.",
-      "Christiania: no fotografiar Pusher Street, y no comprar nada en puestos ilegales.",
+      "Christiania: nada de fotos en la zona de la antigua Pusher Street ni a los residentes, y no comprar nada a vendedores ilegales: el trapicheo es ilegal y la policía vigila.",
       "Locales de Nyhavn con precios inflados: revisar el menú antes de sentarse."
     ],
     esperienzeSlugs: ['nyhavn-giro-in-barca', 'copenaghen-tour-in-bicicletta', 'christiania-visita', 'smorrebrod-tour-torvehallerne'],

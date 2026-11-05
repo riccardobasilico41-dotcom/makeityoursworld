@@ -33,7 +33,7 @@ export const destinazioniBolivia: Destinazione[] = [
       "International flight to El Alto (LPB), one of the highest airports in the world at over 4,000 meters: you go from sea level to the maximum altitude in a few hours, with effects you feel right away. By land, a bus from Copacabana (about 4 hours) or from Cusco via Lake Titicaca.",
     comeSpostarsi: 'Mi Teleférico for long trips, radio taxis for the rest. Avoid unofficial taxis, especially in the evening.',
     periodoMigliore: 'May-October, dry season; nights are cold all year',
-    costi: 'a cable car ride costs a few euro cents; the city is among the cheapest capitals in the world',
+    costi: 'a cable car ride costs 3 bolivianos, less than half a euro; the city is among the cheapest capitals in the world',
     erroriDaEvitare: [
       "Landing in El Alto and planning something demanding the same day: from sea level to 4,000 meters the body doesn't adapt in a few hours",
       'Underestimating road blockades: when they happen, they can isolate the city for days and cancel flights and transfers',
@@ -48,7 +48,8 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "Stations are all over the city; you buy the ticket at the station.",
         "quando": "At sunset, when the basin lights up.",
         "tempo": "1-2 hours",
-        "costo": "A few euro cents per ride",
+        "costo": "3 bolivianos per ride, less than half a euro (2025-2026); changing line is paid separately",
+        "url": "https://www.miteleferico.bo/",
         "consiglio": "Rick recommends them to everyone: they cost very little and give the best view over the basin."
       },
       {
@@ -194,7 +195,7 @@ export const destinazioniBolivia: Destinazione[] = [
     comeSpostarsi: "Only in a 4x4 with a driver, as part of the organized tour: it's not an area to explore independently.",
     periodoMigliore:
       "Two seasons, two different experiences. From May to October the salar is dry and can be crossed in full, with clear skies and freezing nights. From January to March a film of water turns it into the giant mirror of the most famous photographs, but some areas, Isla Incahuasi included, can become inaccessible.",
-    costi: 'a 3-day tour roughly $150-250 per person depending on the operator, with entrance to Eduardo Avaroa park separate',
+    costi: 'a 3-day tour roughly $150-250 per person depending on the operator, with entrance to the Eduardo Avaroa reserve separate (about 150 bolivianos in cash, according to operators) and Isla Incahuasi separate (about 30 bolivianos)',
     erroriDaEvitare: [
       "Choosing the operator on price alone: vehicles and maintenance make a real difference on isolated tracks at 4,500 meters, where a breakdown is a serious problem",
       "Going in January-March expecting to see everything: with the water the mirror effect is spectacular but several stops are dropped",
@@ -210,7 +211,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "Only by 4x4 with a driver, as part of an organised tour leaving from Uyuni.",
         "quando": "May-October: dry salt flat, passable throughout. January-March: the mirror effect, but some stops are lost.",
         "tempo": "Half a day or a day",
-        "costo": "3-day tour roughly 150-250 dollars per person, Eduardo Avaroa reserve entry extra",
+        "costo": "3-day tour roughly 150-250 dollars per person. Extra, in cash: Eduardo Avaroa reserve about 150 bolivianos and Isla Incahuasi about 30 (operator figures, to be reconfirmed)",
         "consiglio": "For perspective photos bring small-scale objects and use dawn light."
       },
       {

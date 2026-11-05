@@ -832,8 +832,9 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Musei Vaticani e Cappella Sistina",
         "testo": "Chilometri di sale con collezioni di arte antica e rinascimentale: la Galleria delle Carte Geografiche, le Stanze di Raffaello e, in fondo, la Cappella Sistina con gli affreschi di Michelangelo. Il percorso è lungo e obbligato, con folla continua.",
         "come": "Metro A fino a Ottaviano o Cipro, poi 10 minuti a piedi. Meglio prenotare online dal sito ufficiale per saltare la coda in biglietteria. Dalla Sistina si può uscire direttamente in San Pietro solo con visita guidata autorizzata.",
-        "quando": "Chiusi la domenica, tranne l'ultima domenica del mese, quando l'ingresso è gratuito e c'è una folla enorme. Prima fascia del mattino o fine pomeriggio.",
+        "quando": "Dal lunedì al sabato 8-20, ultimo ingresso alle 18. Chiusi la domenica, tranne l'ultima del mese (9-14, ultimo ingresso alle 12:30), quando l'ingresso è gratuito e c'è una folla enorme. Chiusi anche in alcune festività religiose: vedere il calendario sul sito. Prima fascia del mattino o fine pomeriggio.",
         "tempo": "3-4 ore",
+        "costo": "20 euro intero, 25 euro con la prenotazione online sul sito ufficiale (2026)",
         "url": "https://www.museivaticani.va/",
         "consiglio": "In Sistina il silenzio e il divieto di fotografare sono controllati dal personale. Decidere prima cosa vedere: nessuno riesce a vederlo tutto."
       },
@@ -860,7 +861,6 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Dentro Villa Borghese, a piedi da Piazza di Spagna o da Piazzale Flaminio in circa 20 minuti. Prenotazione obbligatoria con ingresso a fasce da due ore.",
         "quando": "Chiusa il lunedì. Le fasce si esauriscono con giorni o settimane di anticipo in alta stagione.",
         "tempo": "2 ore (la visita ha durata fissa)",
-        "costo": "16 euro più 2 euro di prenotazione, 2026 (fonti secondarie)",
         "url": "https://galleriaborghese.cultura.gov.it/",
         "consiglio": "Arrivare un po' prima per il ritiro del biglietto e il guardaroba. Il parco intorno è bello per una passeggiata dopo."
       },
@@ -1262,10 +1262,11 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Palazzo Ducale",
         "testo": "La sede del governo della Repubblica e residenza del doge, in gotico veneziano. Dentro ci sono la Sala del Maggior Consiglio con il Paradiso di Tintoretto, la Scala dei Giganti, le prigioni e il Ponte dei Sospiri. Gli Itinerari Segreti portano nelle stanze dei funzionari.",
         "come": "Accanto alla Basilica, sul bacino di San Marco. Il biglietto standard comprende anche i musei di Piazza San Marco. L'audioguida si ritira all'ingresso.",
-        "quando": "Aperto tutti i giorni, con orario esteso d'estate e ultimo ingresso un'ora prima della chiusura. Prima mattina o fine pomeriggio per evitare i gruppi.",
+        "quando": "Aperto tutti i giorni: 9-19 da aprile a ottobre, 9-18 da novembre a marzo, ultimo ingresso un'ora prima della chiusura. Prima mattina o fine pomeriggio per evitare i gruppi.",
         "tempo": "2-3 ore",
+        "costo": "35 euro intero con i Musei di Piazza San Marco, 30 euro comprando online più di 30 giorni prima (2026)",
         "url": "https://palazzoducale.visitmuve.it/",
-        "consiglio": "Il prezzo cambia tra fonti e periodi: controllare quello aggiornato sul sito ufficiale prima di comprare. Prenotare online per saltare la coda."
+        "consiglio": "Comprare online con più di un mese di anticipo fa risparmiare 5 euro e permette di saltare la coda. L'audioguida nell'app MUVE è compresa nel biglietto."
       },
       {
         "nome": "Scuola Grande di San Rocco",
@@ -1468,7 +1469,7 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Museo Archeologico Nazionale (MANN)",
         "testo": "Contiene i mosaici, gli affreschi, i bronzi e le statue portati qui da Pompei ed Ercolano, più la collezione Farnese. Va visto prima dei siti vesuviani: a Pompei poi si capisce cosa c'era dentro i muri.",
         "come": "Metro linea 1 o 2 fino a Museo/Piazza Cavour, a pochi minuti a piedi. Si visita da soli con i pannelli; l'audioguida è facoltativa.",
-        "quando": "Il museo chiude il martedì. Mattina, quando c'è meno gente nelle sale dei mosaici.",
+        "quando": "Chiuso il martedì. Aperto 9-19:30, ultimo ingresso alle 18:30 (2026). Mattina, quando c'è meno gente nelle sale dei mosaici.",
         "tempo": "2-3 ore",
         "consiglio": "Salire subito ai mosaici di Pompei e al Gabinetto segreto, poi scendere alla collezione Farnese se resta tempo."
       },
@@ -1493,8 +1494,9 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Pompei",
         "testo": "Una città romana di 66 ettari sigillata dall'eruzione del 79 d.C.: strade con i solchi dei carri, botteghe, terme, case con affreschi, il foro e l'anfiteatro. La parte scavata è grande: serve scegliere cosa vedere.",
         "come": "Circumvesuviana linea Napoli-Sorrento fino a Pompei Scavi-Villa dei Misteri (circa 40 minuti da Napoli Garibaldi). Si può anche arrivare con treno regionale a Pompei. Audioguida o guida consigliate.",
-        "quando": "All'apertura o nel tardo pomeriggio d'estate; non a mezzogiorno, senza ombra. Il sito chiude il 1 gennaio, il 1 maggio e il 25 dicembre. Biglietti nominativi, con tetto giornaliero di visitatori e fasce orarie in estate.",
+        "quando": "All'apertura o nel tardo pomeriggio d'estate; non a mezzogiorno, senza ombra. Aperto 9-19 dal 16 marzo al 14 ottobre (ultimo ingresso 17:30) e 9-17 nel resto dell'anno (ultimo ingresso 15:30). Chiuso il 25 dicembre e il 1 gennaio, salvo aperture straordinarie. Biglietti nominativi, tetto di 20.000 ingressi al giorno e fasce orarie in alta stagione.",
         "tempo": "3-4 ore",
+        "costo": "Pompei Express 20 euro; Pompei+, con le ville suburbane e Boscoreale, 25 euro (dal 12 gennaio 2026). Vendita online solo su Vivaticket, oppure in biglietteria",
         "url": "https://pompeiisites.org/",
         "consiglio": "Visto dopo il MANN: si riconoscono le opere. Portare acqua e cappello, i punti ristoro sono pochi."
       },
@@ -1681,8 +1683,9 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Pinacoteca di Brera",
         "testo": "Una delle raccolte di pittura italiana più importanti, con Mantegna, Raffaello, Caravaggio e il Bacio di Hayez. Si trova in un palazzo del Settecento con cortile, nel quartiere di Brera.",
         "come": "Metro M2 Lanza o M3 Montenapoleone, poi dieci minuti a piedi tra le vie di Brera. Visita da soli.",
-        "quando": "Chiusa il lunedì. Il pomeriggio è più tranquillo. Il quartiere si gira bene la sera.",
+        "quando": "Chiusa il lunedì; dal martedì alla domenica 8:30-19:15, con prenotazione richiesta. Il pomeriggio è più tranquillo. Il quartiere si gira bene la sera.",
         "tempo": "2 ore",
+        "costo": "20 euro intero, biglietto Grande Brera con Palazzo Citterio (2026)",
         "url": "https://pinacotecabrera.org/",
         "consiglio": "Scegliere cinque o sei sale e non provare a vederle tutte."
       },
@@ -2547,8 +2550,8 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Stromboli",
         "testo": "Isola-vulcano con eruzioni quasi continue dal cratere, visibili ogni 10-20 minuti circa. Sotto la Sciara del Fuoco c'è il paese, con pochi abitanti. Il ricordo più forte per me è stato vederla dal mare di notte, a motore spento davanti alla Sciara, quando il cratere lancia materiale incandescente fino all'acqua.",
-        "come": "Aliscafo da Milazzo (circa 2 ore e mezza) o da Lipari e dalle altre Eolie. Sull'isola si cammina e si usano taxi-ape. Per la salita servono guide autorizzate.",
-        "quando": "Salita solo con guida e solo fino alla quota fissata dall'ordinanza (per le escursioni guidate oggi 400 metri, la cima è vietata dal 2019): controllare prima di prenotare. Giugno e settembre, con mare calmo, per le uscite in barca.",
+        "come": "Aliscafo da Milazzo (circa 2 ore e mezza) o da Lipari e dalle altre Eolie. Sull'isola si cammina e si usano taxi-ape. Oltre la quota libera servono guide vulcanologiche autorizzate.",
+        "quando": "La salita è regolata da ordinanze che cambiano con l'attività del vulcano: la quota massima e l'obbligo di guida si controllano presso il Comune di Lipari o le guide autorizzate prima di prenotare. La cima è chiusa ai visitatori dalle eruzioni del 2019. Giugno e settembre, con mare calmo, per le uscite in barca.",
         "tempo": "1 giornata intera, meglio una notte",
         "consiglio": "La sera si cena a Stromboli e si esce in barca al buio: non serve la cima per vedere le esplosioni. Torcia frontale, scarpe da trekking e un maglione anche a settembre."
       },
@@ -3372,7 +3375,7 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Museo Egizio",
         "testo": "La collezione egizia più importante fuori dal Cairo, nata nel 1824 dal nucleo raccolto dal console Drovetti. Il pezzo da non perdere è la tomba di Kha e Merit, trovata intatta nel 1906 con tutto il corredo. Poi il Tempio di Ellesiya, la Galleria dei Re e il Papiro delle Miniere d'Oro.",
         "come": "In pieno centro, a piedi da Piazza Castello o Piazza San Carlo. Si entra con biglietto acquistato online, a fascia oraria. Audioguida o app per capire i pezzi.",
-        "quando": "Aperto tutti i giorni. Lunedì 9-14, martedì-venerdì e domenica 9-18.30, sabato 9-20, ultimo ingresso un'ora prima. Mattina presto o sabato sera per evitare la folla.",
+        "quando": "Aperto tutti i giorni. Lunedì 9-14, martedì-venerdì e domenica 9-18.30, sabato 9-20, ultimo ingresso un'ora prima. Mattina presto o sabato sera per evitare la folla. Le Sale Storiche sono chiuse temporaneamente dal 12 dicembre 2025: vedere l'avviso sul sito.",
         "tempo": "3 ore, meglio 4",
         "costo": "18 euro intero (2026)",
         "url": "https://www.museoegizio.it/",

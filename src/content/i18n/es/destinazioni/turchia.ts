@@ -51,7 +51,8 @@ export const destinazioniTurchia: Destinazione[] = [
         "come": "Tranvía T1 hasta Sultanahmet. Entrada separada para turistas; ropa que cubra, mujeres con la cabeza cubierta.",
         "quando": "A primera hora. Cerrada a los turistas durante las oraciones, en particular el viernes a mediodía.",
         "tempo": "1-1,5 horas",
-        "consiglio": "Comprobar antes los horarios en el sitio oficial, que cambian con las normas de acceso."
+        "consiglio": "Comprobar antes los horarios en el sitio oficial, que cambian con las normas de acceso.",
+        "costo": "25 € para visitantes extranjeros, recorrido de las galerías superiores (2026)"
       },
       {
         "nome": "Mezquita Azul e Hipódromo",
@@ -64,11 +65,12 @@ export const destinazioniTurchia: Destinazione[] = [
       {
         "nome": "Palacio de Topkapı y Harén",
         "testo": "La residencia de los sultanes otomanos durante casi cuatro siglos: patios, pabellones, tesoro y Harén, con una bonita vista al Bósforo.",
-        "come": "A pie desde Santa Sofía. La entrada del Harén es aparte.",
-        "quando": "Mañana a la apertura. Cerrado un día a la semana (normalmente el martes): comprobar en el sitio.",
+        "come": "A pie desde Santa Sofía. La entrada para extranjeros incluye el Harén y Santa Irene; también se compra en línea.",
+        "quando": "Cerrado los martes. Llegar a la apertura de las 9: en otoño e invierno la taquilla cierra pronto.",
         "tempo": "2-3 horas",
         "url": "https://muze.gov.tr/",
-        "consiglio": "Pasar primero por el Harén y el Tesoro, que tienen cola, y luego los patios."
+        "consiglio": "Pasar primero por el Harén y el Tesoro, que tienen cola, y luego los patios.",
+        "costo": "2.750 TL con Harén y Santa Irene (2026)"
       },
       {
         "nome": "Cisterna Basílica",
@@ -76,7 +78,8 @@ export const destinazioniTurchia: Destinazione[] = [
         "come": "A pie desde Santa Sofía. Entrada que reservar en línea en temporada alta.",
         "quando": "A primera hora o por la noche, cuando hay menos cola.",
         "tempo": "45 minutos",
-        "consiglio": "Evitar el fin de semana y las horas centrales."
+        "consiglio": "Evitar el fin de semana y las horas centrales.",
+        "costo": "1.950 TL de día, 3.000 TL en la franja nocturna (2026)"
       },
       {
         "nome": "Gran Bazar y Bazar de las Especias",
@@ -85,6 +88,16 @@ export const destinazioniTurchia: Destinazione[] = [
         "quando": "Todo el día; el Gran Bazar cierra el domingo.",
         "tempo": "2 horas",
         "consiglio": "El Bazar de las Especias es menos turístico: ir con calma y probar antes de comprar."
+      },
+      {
+        "nome": "Torre de Gálata",
+        "testo": "La torre de piedra genovesa de 1348 sobre Karaköy, de unos 67 metros. Desde el balcón de arriba se ven el Cuerno de Oro, el Bósforo y la península histórica con cúpulas y minaretes. Dentro hay un pequeño museo.",
+        "come": "Tranvía T1 hasta Karaköy y subida a pie por las callejuelas, o el funicular histórico Tünel. Se sube en ascensor y luego por una escalera.",
+        "quando": "A la apertura o en la última hora antes del cierre: a mediodía la cola puede durar una hora.",
+        "tempo": "1 hora con la cola",
+        "costo": "30 € para visitantes extranjeros (2026)",
+        "url": "https://muze.gov.tr/",
+        "consiglio": "El balcón es estrecho y de sentido único: la mejor vista de la península histórica está en el lado sur."
       }
     ],
     programmi: [
@@ -201,13 +214,14 @@ export const destinazioniTurchia: Destinazione[] = [
         "quando": "A la apertura, antes de los grupos organizados.",
         "tempo": "1,5-2 horas",
         "url": "https://muze.gov.tr/",
-        "consiglio": "La Iglesia Oscura tiene entrada aparte, pero los colores valen el gasto."
+        "consiglio": "La Iglesia Oscura tiene entrada aparte, pero los colores valen el gasto.",
+        "costo": "20 € para visitantes extranjeros; Iglesia Oscura aparte (2026). Para 2027 el ministerio ha anunciado 22 €."
       },
       {
         "nome": "Globo aerostático al amanecer",
         "testo": "El vuelo sobre los valles y las chimeneas de hadas al salir el sol es la razón por la que muchos vienen aquí.",
         "come": "Se reserva con un operador con licencia, con recogida en el hotel antes del amanecer.",
-        "quando": "Amanecer, de abril a noviembre. Con viento fuerte los vuelos se cancelan.",
+        "quando": "Al amanecer, todo el año si el tiempo lo permite. Con viento fuerte se cancelan los vuelos, más a menudo en invierno.",
         "tempo": "1 hora de vuelo, 3-4 horas en total",
         "consiglio": "Reservar para los primeros días y tener uno de reserva: los vuelos se cancelan con viento."
       },
@@ -225,7 +239,8 @@ export const destinazioniTurchia: Destinazione[] = [
         "quando": "A primera hora para evitar la multitud en los corredores.",
         "tempo": "1-1,5 horas",
         "url": "https://muze.gov.tr/",
-        "consiglio": "Quien sufre de claustrofobia que se salte Derinkuyu y elija Kaymaklı, algo más ancha."
+        "consiglio": "Quien sufre de claustrofobia que se salte Derinkuyu y elija Kaymaklı, algo más ancha.",
+        "costo": "13 € cada una para visitantes extranjeros (2026)"
       }
     ],
     programmi: [
@@ -328,7 +343,8 @@ export const destinazioniTurchia: Destinazione[] = [
         "quando": "Atardecer, con la luz sobre el blanco. A mediodía en verano deslumbra.",
         "tempo": "1-2 horas",
         "url": "https://muze.gov.tr/",
-        "consiglio": "Llevar toalla y traje de baño: muchas pozas se cierran por turnos."
+        "consiglio": "Llevar toalla y traje de baño: muchas pozas se cierran por turnos.",
+        "costo": "30 € por Hierápolis y los travertinos, entrada única (2026). Para 2027 se han anunciado 35 €."
       },
       {
         "nome": "Hierápolis y Piscina Antigua",
@@ -336,7 +352,8 @@ export const destinazioniTurchia: Destinazione[] = [
         "come": "Se camina por el sitio. La piscina tiene entrada aparte.",
         "quando": "A primera hora o al final de la tarde.",
         "tempo": "2 horas",
-        "url": "https://muze.gov.tr/"
+        "url": "https://muze.gov.tr/",
+        "costo": "Incluido en la entrada de los travertinos; Piscina Antigua aparte"
       }
     ],
     programmi: [
@@ -430,7 +447,8 @@ export const destinazioniTurchia: Destinazione[] = [
         "quando": "A la apertura, sobre todo cuando llegan los cruceros desde Kuşadası.",
         "tempo": "2-3 horas",
         "url": "https://muze.gov.tr/",
-        "consiglio": "Las Casas de las Terrazas tienen entrada aparte y son lo más bello del sitio."
+        "consiglio": "Las Casas de las Terrazas tienen entrada aparte y son lo más bello del sitio.",
+        "costo": "40 € con el museo de experiencia de Éfeso; Casas Adosadas aparte. Combinada con Casas Adosadas, museo de Éfeso y San Juan 65 € (2026)."
       },
       {
         "nome": "Basílica de San Juan y castillo de Selçuk",
@@ -675,12 +693,13 @@ export const destinazioniTurchia: Destinazione[] = [
       },
       {
         "nome": "Aspendos y Perge",
-        "testo": "El teatro de Aspendos es de los mejor conservados de la antigüedad; Perge tiene estadio y calle porticada.",
+        "testo": "El teatro de Aspendos, del siglo II, es de los mejor conservados de la Antigüedad: la grada y el escenario están casi intactos y en verano aún acoge espectáculos. Perge, de camino, tiene el estadio, las termas y una larga calle columnada con un canal de agua en el centro.",
         "come": "En coche con conductor o en tour, unos 45 minutos.",
         "quando": "A primera hora.",
         "tempo": "Medio día cada uno",
         "url": "https://muze.gov.tr/",
-        "consiglio": "Aspendos es la parada que no hay que saltarse."
+        "consiglio": "Aspendos es la parada que no hay que saltarse.",
+        "costo": "Aspendos 15 €, Perge 11 € para visitantes extranjeros (2026)"
       }
     ],
     programmi: [

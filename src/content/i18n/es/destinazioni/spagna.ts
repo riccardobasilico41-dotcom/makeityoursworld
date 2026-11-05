@@ -56,8 +56,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "nome": "Real Alcázar",
         "testo": "Palacio real aún en uso, nacido como fortaleza musulmana y rehecho en el siglo XIV por el rey Pedro I en estilo mudéjar con artesanos de Granada. El Palacio de Pedro I, el Salón de Embajadores y los patios con yeserías son el corazón de la visita. Detrás hay grandes jardines con fuentes y laberintos de setos.",
         "come": "Entrada por la Puerta del León, en la Plaza del Triunfo, frente a la catedral. Hay un recorrido único; las audioguías se alquilan en la entrada.",
-        "quando": "A primera hora o en el último turno de la tarde para evitar los grupos. Consultar horarios y precios en la web oficial antes de ir.",
+        "quando": "Abierto de 9:30 a 19 h de abril a septiembre y de 9:30 a 17 h de octubre a marzo. Cerrado el 1 y el 6 de enero, el Viernes Santo y el 25 de diciembre. A primera hora o en la última franja de la tarde para evitar los grupos.",
         "tempo": "2-3 horas",
+        "costo": "15,50 euros la entrada general (tarifa de la web oficial, 2026); el Cuarto Real Alto se paga aparte",
         "url": "https://www.alcazarsevilla.org/",
         "consiglio": "Reservar online y elegir el primer turno: los patios son pequeños y solo se disfrutan sin multitudes. Los Aposentos Reales se visitan con una reserva aparte."
       },
@@ -215,9 +216,9 @@ export const destinazioniSpagna: Destinazione[] = [
     comeArrivare: "Aeropuerto Federico García Lorca, a unos 15 km del centro. Tren AVE desde Madrid en unas 3 h 10-3 h 30; autobús directo desde Sevilla (unas 3 h) o desde Córdoba (unas 2 h).",
     comeSpostarsi: "Casco histórico y Albaicín solo a pie (cuestas empinadas); microbuses locales para las zonas más altas del Sacromonte y del Albaicín; a la Alhambra se llega a pie cuesta arriba desde el centro o con un autobús lanzadera dedicado.",
     periodoMigliore: "abril-junio y septiembre-octubre. El verano es caluroso pero menos extremo que en Sevilla gracias a la altitud (unos 700 metros) y a la cercanía de Sierra Nevada; el invierno es frío, con la nieve visible en las cumbres a pocos km de la ciudad.",
-    costi: "Alhambra general unos 19,60 € (las entradas se agotan con semanas, en temporada alta incluso meses, de antelación); Catedral y Capilla Real unos 7 € cada una.",
+    costi: "Alhambra general 22,27 € más la comisión online (2026) (las entradas se agotan con semanas, en temporada alta incluso meses, de antelación); Catedral y Capilla Real unos 7 € cada una.",
     erroriDaEvitare: [
-      "Llegar a Granada sin haber reservado ya la Alhambra: las entradas se venden solo online hasta tres meses antes y en temporada alta (junio-septiembre y vacaciones) se agotan con semanas de antelación",
+      "Llegar a Granada sin haber reservado ya la Alhambra: las entradas se compran en la web oficial (también por teléfono o en las máquinas) y en temporada alta (junio-septiembre y vacaciones) se agotan con semanas de antelación",
       "Subestimar las cuestas del Albaicín y del Sacromonte: son empinadas y empedradas, poco cómodas con equipaje o con calzado inadecuado",
       "Reservar un espectáculo de flamenco sin informarse: en el Sacromonte conviven zambras auténticas y formatos muy turísticos al mismo precio",
     ],
@@ -226,8 +227,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "nome": "Alhambra y Generalife",
         "testo": "Ciudadela de los sultanes nazaríes en la colina de la Sabika: los Palacios Nazaríes con yeserías y techos de mocárabes, la Alcazaba militar, el palacio renacentista de Carlos V y los jardines del Generalife. El Patio de los Leones y la Sala de las Dos Hermanas son los puntos más conocidos.",
         "come": "A pie cuesta arriba desde el centro (25-30 minutos) o en minibús urbano. La entrada es con billete nominal y para los Palacios Nazaríes vale la franja horaria impresa: llegar con antelación, no tarde. Hacen falta documento y confirmación.",
-        "quando": "Abierta todos los días, con horarios distintos entre verano e invierno. Las entradas se compran solo por el canal oficial, hasta tres meses antes, y en temporada alta se agotan con semanas de antelación. Consultar horarios y precios en la web oficial.",
+        "quando": "Abierta todos los días: de 8:30 a 20 h del 1 de abril al 14 de octubre y de 8:30 a 18 h del 15 de octubre al 31 de marzo. Cerrada el 25 de diciembre y el 1 de enero. Las entradas se compran en el canal oficial (online, por teléfono o en los cajeros) y en temporada alta se agotan con semanas de antelación.",
         "tempo": "3-4 horas, media jornada para verlo todo",
+        "costo": "22,27 euros la Alhambra General diurna, más una comisión en la compra online (2026)",
         "url": "https://www.alhambra-patronato.es/",
         "consiglio": "Elegir la franja de la mañana para los Palacios Nazaríes, cuando la luz entra por los patios. Tener en cuenta que el recorrido es todo al aire libre."
       },
@@ -836,8 +838,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "nome": "Museo Guggenheim Bilbao",
         "testo": "El museo de Frank Gehry, abierto en 1997, todo de titanio, cristal y piedra caliza, a orillas del Nervión. Fuera están «Puppy» de Jeff Koons, cubierto de flores, y «Maman», la araña de Louise Bourgeois. Dentro se alternan exposiciones temporales y una colección de arte contemporáneo, con «La materia del tiempo» de Richard Serra.",
         "come": "Metro hasta Moyúa, luego 10 minutos a pie, o tranvía hasta Guggenheim. También se puede visitar solo el exterior, que es libre, con el paseo junto al río.",
-        "quando": "Consultar horarios, días de cierre (normalmente el lunes en temporada baja) y precios en la web oficial. A primera hora la luz sobre el titanio es mejor.",
+        "quando": "De martes a domingo de 10 a 19 h; hasta las 20 h en Semana Santa y del 15 de junio al 13 de septiembre. Cerrado los lunes, salvo algunas aperturas extraordinarias, entre ellas los lunes de verano. Cerrado el 25 de diciembre y el 1 de enero. A primera hora de la mañana la luz sobre el titanio es mejor.",
         "tempo": "2-3 horas dentro, 30 minutos el exterior",
+        "costo": "12 euros la entrada general, gratis para menores de 18 (tarifa de la web oficial en noviembre de 2026: cambia según la temporada y las exposiciones)",
         "url": "https://www.guggenheim-bilbao.eus/",
         "consiglio": "Comprar la entrada online y ver primero las salas de Serra; luego el exterior al atardecer."
       },
@@ -1237,8 +1240,9 @@ export const destinazioniSpagna: Destinazione[] = [
         "nome": "Cap de Formentor e Pollença",
         "testo": "La península más al norte de la isla, con acantilados verticales y un faro al final de 20 km de carretera panorámica sobre Port de Pollença. En el camino está el Mirador des Colomer. Pollença tiene una plaza central con cafés y la escalinata del Calvari, de 365 escalones.",
         "come": "Desde Port de Pollença, 20 km en coche por la Ma-2210 hasta el faro, unos 40 minutos. De Palma a Pollença, aproximadamente una hora.",
-        "quando": "Al atardecer por la luz sobre el faro. En verano el acceso en coche puede limitarse a ciertas horas: comprobarlo antes de salir.",
+        "quando": "Al atardecer por la luz sobre el faro. Del 15 de mayo al 18 de octubre (fechas de 2026), de 10 a 22 h, la carretera del faro está cerrada a los coches particulares: se sube con el bus TIB 334 desde Alcúdia y Port de Pollença o en bici. Al aparcamiento de la playa de Formentor se llega en coche hasta que se llena.",
         "tempo": "media jornada",
+        "url": "https://www.dgt.es/conoce-el-estado-del-trafico/rutas-de-interes/trafico-acceso-faro-de-formentor/",
         "consiglio": "Subir al Mirador des Colomer a la apertura o al atardecer: a mediodía se llega en cola."
       },
       {

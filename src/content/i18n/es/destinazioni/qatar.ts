@@ -100,14 +100,14 @@ export const destinazioniQatar: Destinazione[] = [
         "nome": "Museo de Arte Islámico",
         "testo": "El edificio de piedra caliza proyectado por I.M. Pei a los noventa años, en una isla artificial frente a la Corniche. La luz entra desde arriba por una cúpula oculta. Dentro, manuscritos, cerámicas, metales y tejidos de todo el mundo musulmán.",
         "come": "Taxi o Uber desde el centro; el metro llega a la estación Corniche. Se camina por el parque.",
-        "quando": "Atardecer: desde la escalinata exterior se mira el skyline de West Bay.",
+        "quando": "Cerrado los miércoles. De sábado a martes 9-19, jueves 9-21, viernes 13.30-19 (2026). Al atardecer, desde la escalinata exterior, se mira el skyline de West Bay.",
         "tempo": "2-3 horas",
-        "url": "https://mia.org.qa/",
+        "url": "https://mia.org.qa/en/",
         "consiglio": "Subir la escalinata de atrás al final de la visita: es la postal de la ciudad."
       },
       {
         "nome": "Zoco Waqif",
-        "testo": "Una reconstrucción que funciona: aún se venden tejidos, especias y halcones de caza, y hay un hospital de halcones visitable, donde las aves esperan su turno con la capucha puesta. De noche está muy animado.",
+        "testo": "El mercado reconstruido a principios de los 2000 con los materiales y las formas del viejo zoco. Funciona: aún se venden telas, especias, incienso y halcones de caza, y hay un hospital de halcones visitable, donde las aves esperan su turno con la caperuza puesta. Por la noche los callejones y los restaurantes al aire libre se llenan de familias cataríes.",
         "come": "Metro hasta Msheireb o Souq Waqif; se camina por los callejones.",
         "quando": "Noche, cuando abre el mercado de halcones.",
         "tempo": "2 horas",
@@ -117,9 +117,9 @@ export const destinazioniQatar: Destinazione[] = [
         "nome": "Museo Nacional de Catar",
         "testo": "El edificio de Jean Nouvel con discos que se cortan inspirados en la rosa del desierto. Dentro, la historia del país del desierto a las perlas y al gas.",
         "come": "Metro hasta Msheireb o taxi; a pocos minutos de la Corniche.",
-        "quando": "Mañana.",
+        "quando": "Cerrado los martes. Los demás días 9-19, jueves hasta las 21, viernes desde las 13.30; última entrada 45 minutos antes del cierre (2026). Mejor por la mañana.",
         "tempo": "2 horas",
-        "url": "https://www.nmoq.org.qa/"
+        "url": "https://nmoq.org.qa/en/visit/"
       },
       {
         "nome": "Corniche y dhow",
@@ -127,6 +127,25 @@ export const destinazioniQatar: Destinazione[] = [
         "come": "A pie desde el Museo de Arte Islámico.",
         "quando": "Atardecer.",
         "tempo": "1 hora"
+      },
+      {
+        "nome": "Mathaf, museo árabe de arte moderno",
+        "testo": "El museo de Qatar Museums dedicado al arte moderno y contemporáneo del mundo árabe, en una antigua escuela de Education City. Las exposiciones cambian a menudo y reúnen a pintores iraquíes, egipcios, libaneses y del Golfo que en Europa se ven poco.",
+        "come": "En taxi o Uber desde el centro, unos 20 minutos; la línea verde del metro llega a Education City.",
+        "quando": "Horarios en la web de Qatar Museums. Bueno para las horas de calor.",
+        "tempo": "1-1,5 horas",
+        "costo": "Entrada libre para todos, con entrada que reservar (2026)",
+        "url": "https://qm.org.qa/tickets/select-tickets/"
+      },
+      {
+        "nome": "Katara Cultural Village",
+        "testo": "Un barrio cultural construido junto al mar entre West Bay y The Pearl, con un anfiteatro de piedra, dos mezquitas decoradas (una dorada y otra de mosaico azul), galerías, palomares de barro y una playa pública. Es donde los cataríes vienen por la tarde a pasear y a cenar.",
+        "come": "Taxi o línea roja del metro hasta Katara, luego a pie.",
+        "quando": "Por la noche, cuando baja el calor y se encienden las luces del anfiteatro.",
+        "tempo": "1,5-2 horas",
+        "costo": "Entrada libre al barrio",
+        "url": "https://www.katara.net/",
+        "consiglio": "Mirar el calendario de eventos: en el anfiteatro hay a menudo conciertos y festivales."
       }
     ],
     programmi: [
@@ -263,6 +282,14 @@ export const destinazioniQatar: Destinazione[] = [
         "quando": "Atardecer, cuando el acero cambia de color.",
         "tempo": "1-2 horas",
         "consiglio": "Caminar entre una lámina y otra oyendo solo el viento: es lo contrario del resto del Golfo."
+      },
+      {
+        "nome": "Manglares de Al Thakhira",
+        "testo": "Una laguna poco profunda en la costa noreste con los manglares más extensos de Catar. Se recorre en kayak por los canales, con garzas y, en invierno, flamencos; con la marea baja el barro descubierto está lleno de cangrejos.",
+        "come": "En coche desde Doha, una hora hacia el norte. Kayaks de alquiler en el lugar con operadores locales, mejor reservados.",
+        "quando": "Con la marea alta, a primera hora o al final de la tarde. De octubre a abril.",
+        "tempo": "2-3 horas",
+        "consiglio": "Consultar el horario de las mareas antes de salir: con la baja los kayaks se quedan en seco."
       }
     ],
     programmi: [

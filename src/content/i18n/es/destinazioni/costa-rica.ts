@@ -33,7 +33,7 @@ export const destinazioniCostaRica: Destinazione[] = [
           "nome": "Mercado Central",
           "testo": "El mercado cubierto del centro, fundado en 1880, con puestos de comida, café, artesanía y las sodas que sirven el casado del día.",
           "come": "A pie desde el centro. Se entra por las calles laterales de la Avenida Central.",
-          "quando": "Mañana y mediodía; cierra por la tarde.",
+          "quando": "Mañana y mediodía, cuando las sodas tienen más movimiento.",
           "tempo": "1-1,5 horas",
           "consiglio": "Comer en una soda dentro del mercado es la forma más barata de probar la cocina casera."
         },
@@ -49,9 +49,9 @@ export const destinazioniCostaRica: Destinazione[] = [
           "nome": "Museo Nacional",
           "testo": "Alojado en el antiguo Cuartel Bellavista, con salas de historia, arqueología y naturaleza del país, frente a la Asamblea Legislativa.",
           "come": "A pie desde el centro.",
-          "quando": "Martes a domingo, por la mañana.",
+          "quando": "Martes a sábado de 8:30 a 16:30, domingo de 9 a 16:30; cerrado los lunes.",
           "tempo": "1,5 horas",
-          "url": "https://www.sinac.go.cr/"
+          "url": "https://www.museocostarica.go.cr/"
         },
         {
           "nome": "Teatro Nacional",
@@ -59,6 +59,7 @@ export const destinazioniCostaRica: Destinazione[] = [
           "come": "A pie desde el centro, en la Plaza de la Cultura.",
           "quando": "Mañana.",
           "tempo": "1 hora",
+          "url": "https://www.teatronacional.go.cr/",
           "consiglio": "Reservar con antelación si se quiere asistir a un espectáculo."
         }
       ],
@@ -285,7 +286,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         {
           "nome": "Cerro Tortuguero",
           "testo": "Una colina de unos 120 metros con vista a canales, mar y selva.",
-          "come": "Sendero corto desde el pueblo, para hacer por cuenta propia.",
+          "come": "Breve cruce en lancha desde el pueblo hasta el inicio del sendero; preguntar en el lodge las reglas de acceso y la tarifa vigentes.",
           "quando": "Mañana.",
           "tempo": "1-1,5 horas",
           "consiglio": "Llevar agua y repelente: en el bosque húmedo hay muchos mosquitos."
@@ -498,8 +499,10 @@ export const destinazioniCostaRica: Destinazione[] = [
           "nome": "Cascada de La Fortuna",
           "testo": "Cascada de unos 70 metros en una garganta de selva, con una larga escalera y una poza para bañarse. Hay una ficha de experiencia dedicada.",
           "come": "Desde el pueblo de La Fortuna 10 minutos en coche o taxi, luego escaleras empinadas hasta la base.",
-          "quando": "Mañana, con menos gente.",
+          "quando": "Abierta todos los días de 7 a 17 h; mejor en la mañana, con menos gente.",
           "tempo": "2 horas",
+          "costo": "20 USD para extranjeros (2025); se paga aunque solo se vaya al mirador.",
+          "url": "https://www.cataratariofortuna.com/",
           "consiglio": "El regreso es todo cuesta arriba: zapatos con agarre y agua."
         },
         {
@@ -613,10 +616,10 @@ export const destinazioniCostaRica: Destinazione[] = [
         {
           "nome": "Bosque nuboso de Monteverde",
           "testo": "Un bosque lluvioso de altura, envuelto en nubes, con miles de especies de plantas, aves e insectos. Se camina por senderos y puentes.",
-          "come": "En taxi o shuttle desde el pueblo de Santa Elena, por un camino de tierra. Mejor con guía para reconocer a los animales.",
-          "quando": "Mañana temprano para las aves; la niebla es parte del paisaje.",
+          "come": "En taxi o buseta desde el pueblo de Santa Elena, por un camino de montaña lento. Desde 2026 la entrada es por horario y se reserva en línea. Mejor con guía para reconocer los animales.",
+          "quando": "Ingresos de día aproximadamente de 7:30 a 16 h; temprano para las aves. La neblina es parte del paisaje.",
           "tempo": "3-4 horas",
-          "url": "https://www.sinac.go.cr/"
+          "url": "https://cloudforestmonteverde.com/"
         },
         {
           "nome": "Caminata nocturna en el bosque",
@@ -692,7 +695,7 @@ export const destinazioniCostaRica: Destinazione[] = [
       ],
       "attenzioni": [
         "Hace frío y llueve por la noche: llevar chaqueta impermeable y suéter.",
-        "El camino a la reserva es de tierra y puede ser lento: dejar tiempo.",
+        "Los caminos de montaña hacia la reserva son estrechos y lentos: dejar tiempo, y reservar el horario de entrada en línea.",
         "Para las aves y la fauna hace falta un guía: solo se ve mucho menos."
       ],
     esperienzeSlugs: ['camminata-notturna-monteverde', 'zipline-monteverde'],
@@ -844,8 +847,10 @@ export const destinazioniCostaRica: Destinazione[] = [
           "nome": "Parque Nacional Manuel Antonio",
           "testo": "Un parque pequeño pero rico en vida: perezosos, monos capuchinos, iguanas y colibríes a lo largo de los senderos, con playas dentro del parque. Hay una ficha de experiencia dedicada.",
           "come": "Se llega desde Quepos en bus o coche, unos 10 minutos. Con guía se ven muchos más animales.",
-          "quando": "Mañana temprano, cuando los animales están activos; el parque tiene un día de cierre semanal a comprobar.",
+          "quando": "Temprano, cuando los animales están activos. Abierto de miércoles a lunes, de 7 a 16 h; cerrado los martes.",
           "tempo": "3-4 horas",
+          "costo": "Unos 18 USD para extranjeros adultos (16 USD más IVA, 2025-2026), solo en línea y con cupo limitado.",
+          "url": "https://serviciosenlinea.sinac.go.cr/",
           "consiglio": "Con el guía vimos de cerca perezosos, monos e iguanas a lo largo de senderos que solos habríamos tenido mucho más difícil de leer."
         },
         {
@@ -914,9 +919,10 @@ export const destinazioniCostaRica: Destinazione[] = [
         }
       ],
       "attenzioni": [
-        "El parque tiene un día de cierre semanal: comprobar en el sitio oficial antes de ir.",
-        "Las entradas se compran online con antelación: no contar con comprarlas en la puerta.",
-        "No dar de comer a los animales y mantener los bolsos cerrados: monos y mapaches roban."
+        "El parque cierra los martes; con lluvias fuertes el SINAC puede cerrarlo también otros días.",
+        "Las entradas se compran solo en línea, en el sitio del SINAC: no se venden en la entrada, y los sitios que las revenden con recargo no son oficiales.",
+        "No dar de comer a los animales y mantener los bolsos cerrados: monos y mapaches roban.",
+        "Desde el 30 de abril de 2026 las multas por entrar por accesos no oficiales o a zonas cerradas al público son altas: quedarse en los senderos marcados."
       ],
     esperienzeSlugs: ['parco-manuel-antonio'],
     tripSlugs: ['costa-rica-itinerario'],

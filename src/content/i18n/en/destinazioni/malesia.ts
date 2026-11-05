@@ -15,7 +15,7 @@ export const destinazioniMalesia: Destinazione[] = [
       "It's the quickest way to understand how Malaysia works: three communities live in the same city with separate languages, religions and cuisines, and they meet at the food courts. And it's an excellent air hub, from which the whole rest of the trip departs.",
     cosaVedere: [
       'The Petronas Twin Towers, with the skybridge and the observation deck',
-      'The Batu Caves, with the 42-meter golden statue of Murugan and the 272 colorful steps',
+      'The Batu Caves, with the nearly 43-meter golden statue of Murugan and the 272 colorful steps',
       'The Masjid Jamek mosque, at the confluence of the two rivers the city takes its name from',
       'The Chinatown district around Petaling Street and the Sri Mahamariamman temple',
       'The Islamic Arts Museum, one of the best in the world of its kind and almost always empty',
@@ -38,7 +38,7 @@ export const destinazioniMalesia: Destinazione[] = [
     periodoMigliore:
       'all year, with afternoon downpours in any season. The heaviest rains are concentrated between October and December and in April.',
     costi:
-      'Petronas skybridge around 80 ringgit, Batu Caves free (only the Dark Cave is paid when accessible), Islamic Arts Museum about 20 ringgit. Transport costs a few ringgit.',
+      'Petronas skybridge paid (prices on the official website), Batu Caves free, Islamic Arts Museum about 20 ringgit. Transport costs a few ringgit.',
     erroriDaEvitare: [
       'Climbing the Batu Caves in the middle of the day: 272 steps under the equatorial sun, with monkeys that steal everything you hold in your hands',
       "Dressing too revealingly to visit temples and mosques: at the Batu Caves and at Masjid Negara shoulders and knees need to be covered, and the sarongs lent at the entrance only partly solve it",
@@ -52,14 +52,15 @@ export const destinazioniMalesia: Destinazione[] = [
         nome: "Petronas Twin Towers",
         testo: "The 452-meter twin towers, for a long time the tallest in the world, are the symbol of the city. You visit the skybridge on the 41st floor and the highest observation deck; at the foot there is KLCC park with its fountain and an evening show.",
         come: "LRT to KLCC, with a direct exit into the shopping centre. Tickets for the climb are timed and booked online on the official site.",
-        quando: "Sunset, but spots run out. From below the towers look best at blue hour.",
+        quando: "Tuesday to Sunday, 9:00-21:00; closed on Mondays except public holidays (2025). Sunset is the most requested time and slots sell out. From below the towers look best at blue hour.",
         tempo: "1 hour for the climb; KLCC park takes half an hour",
+        costo: "Timed ticket for the skybridge and observation deck, more expensive for non-Malaysians: current prices and purchase on the official website (tickets from unofficial resellers are not refundable).",
         consiglio: "Anyone who does not want to spend can look at them from below and take the view from another tower, the KL Tower."
       },
       {
         nome: "Batu Caves",
-        testo: "A Hindu shrine in a limestone cave, preceded by a 42-meter golden statue of Murugan and 272 colorful steps. Inside there is a large hall with small temples and monkeys on the steps.",
-        come: "KTM Komuter train from KL Sentral to the Batu Caves terminus, about 30 minutes. Entry is free; the Dark Cave is by paid tour. Shoulders and knees covered.",
+        testo: "A Hindu shrine in a limestone cave, preceded by the golden statue of Murugan, almost 43 meters tall, and 272 colorful steps. Inside there is a large hall with small temples, light falling through an opening in the roof and monkeys on the steps.",
+        come: "KTM Komuter train from KL Sentral to the Batu Caves terminus, about 30 minutes. Entry to the main cave is free. The Dark Cave, the protected inner cave, can only be visited on the Malaysian Nature Society's educational trips, when they run. Shoulders and knees covered.",
         quando: "At 7 a.m., with worshippers climbing and the steps in shade. Thaipusam, between January and February, brings hundreds of thousands of people.",
         tempo: "2 hours",
         costo: "free entry",
@@ -85,8 +86,9 @@ export const destinazioniMalesia: Destinazione[] = [
         nome: "Islamic Arts Museum",
         testo: "One of the most complete museums in Asia on the subject: textiles, ceramics, manuscripts and models of mosques. Almost always nearly empty.",
         come: "In the Lake Gardens park, near the National Mosque. On foot from KL Sentral or by taxi.",
-        quando: "Early afternoon, in the hottest hours.",
+        quando: "Open daily, 9:30-18:00 (last entry 17:30). Ideal in the early afternoon, in the hottest hours.",
         tempo: "2 hours",
+        url: "https://www.iamm.org.my/",
         consiglio: "The museum café, air-conditioned and quiet, is an excellent break."
       },
       {
@@ -282,6 +284,7 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "On foot from the centre of George Town. Visited only by guided tour, at fixed times.",
         quando: "In the morning, with the English-language tour.",
         tempo: "1 hour",
+        url: "https://www.cheongfatttzemansion.com/",
         consiglio: "Arrive in time for the first tour: groups are small and the story is worth more than the rooms."
       },
       {
@@ -299,6 +302,7 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "Bus 204 from Komtar to the funicular station. A ride of about 10 minutes.",
         quando: "In the morning, with less haze and shorter queues.",
         tempo: "3 hours",
+        url: "https://www.penanghill.gov.my/",
         consiglio: "Go up early: in the afternoon the funicular queues are long."
       }
     ],
@@ -434,9 +438,10 @@ export const destinazioniMalesia: Destinazione[] = [
       {
         nome: "Baba & Nyonya Heritage Museum",
         testo: "A 1861 Peranakan house preserved with its original furnishings: inlaid wood, porcelain and family photos. It tells the story of the Chinese-Malay community born from Chinese merchants meeting local women.",
-        come: "On foot from Jonker Street. Visited with a guide, at fixed times.",
-        quando: "In the morning. The tour lasts about an hour.",
+        come: "On foot from Jonker Street. Visits are guided, at set times.",
+        quando: "Closed on Tuesdays. Other weekdays 10:00-16:15, weekends 10:00-16:45 (2025). The guided tour lasts about an hour.",
         tempo: "1 hour",
+        url: "https://www.babanyonyamuseum.com/",
         consiglio: "Book the tour as soon as you arrive: groups are limited."
       },
       {
@@ -840,6 +845,7 @@ export const destinazioniMalesia: Destinazione[] = [
         come: "From the base station at Oriental Village. You take the cable car and a walking path leads to the bridge.",
         quando: "In the morning, when haze is lower and queues shorter.",
         tempo: "3 hours",
+        url: "https://www.panoramalangkawi.com/",
         consiglio: "Go up at opening: around midday haze covers the view."
       },
       {

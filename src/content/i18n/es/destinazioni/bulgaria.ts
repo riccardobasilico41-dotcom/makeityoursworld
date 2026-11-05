@@ -106,8 +106,8 @@ export const destinazioniBulgaria: Destinazione[] = [
     percheAndarci: 'Fue el golpe de efecto del viaje. Después de los días en la nieve el contraste es total, y es probablemente el recuerdo más fuerte de todo el recorrido.',
     cosaVedere: [
       'La Iglesia de la Natividad de la Virgen, de cinco cúpulas, cubierta de frescos coloridísimos',
-      'Los muros de piedra de 24 metros de altura que cierran el conjunto',
-      'El Museo de Historia Eclesiástica, con la Cruz de Rafail tallada con más de 1.500 figuras bíblicas',
+      'Las altas murallas de piedra que cierran el conjunto y le dan aspecto de fortaleza',
+      'El Museo de Historia Eclesiástica, con la Cruz de Rafail, tallada con 104 escenas religiosas y 650 figuras en miniatura',
     ],
     cosaFare: ['Visita al conjunto monástico y a la iglesia (hay una ficha de experiencia dedicada)', 'Visita al Museo de Historia Eclesiástica'],
     doveDormire: 'No dormí allí: fue una parada de media jornada en el camino de regreso a Sofía.',
@@ -115,14 +115,14 @@ export const destinazioniBulgaria: Destinazione[] = [
     comeArrivare: 'Con un desvío de la carretera principal entre Bansko y Sofía.',
     comeSpostarsi: 'A pie, dentro del conjunto monástico.',
     periodoMigliore: 'todo el año',
-    costi: 'Entrada al conjunto y a la iglesia gratuita; Museo de Historia Eclesiástica unos 8 BGN (4 €).',
+    costi: 'Entrada al conjunto y a la iglesia gratuita; Museo de Historia Eclesiástica unos 4 € (Bulgaria usa el euro desde 2026).',
     erroriDaEvitare: ['Entrar en la iglesia con hombros y rodillas descubiertos', 'Hacer fotos o vídeos dentro de los edificios religiosos: no está permitido'],
     miaEsperienza:
       'Después de los días en la nieve, el monasterio fue el golpe de efecto del viaje. Los frescos coloridísimos de la Iglesia de la Natividad de la Virgen y el silencio de la montaña alrededor son el recuerdo más vivo de todo el recorrido.',
     luoghi: [
       {
         nome: "Complejo del Monasterio de Rila",
-        testo: "El mayor monasterio búlgaro, Patrimonio de la UNESCO, fundado en el siglo X por San Juan de Rila y reconstruido en el siglo XIX. Las murallas de piedra de 24 metros encierran un patio de pórticos blancos y negros.",
+        testo: "El mayor monasterio búlgaro, Patrimonio de la UNESCO, fundado en el siglo X por San Juan de Rila y reconstruido entre 1834 y 1862 tras un incendio. Las altas murallas de piedra, casi de fortaleza, encierran un patio de pórticos con franjas blancas y negras.",
         come: "En coche o bus desde Sofía (unas 2-2,5 horas) o como desvío en la carretera entre Bansko y Sofía.",
         quando: "Temprano por la mañana, antes de los autobuses turísticos.",
         tempo: "1,5-2 horas",
@@ -140,11 +140,11 @@ export const destinazioniBulgaria: Destinazione[] = [
       },
       {
         nome: "Museo de Historia Eclesiástica y Cruz de Rafail",
-        testo: "El museo del monasterio conserva reliquias y la Cruz de Rafail, tallada con más de 1.500 figuras bíblicas en miniatura. Es pequeño pero rico.",
+        testo: "El museo del monasterio conserva reliquias y la Cruz de Rafail, una sola pieza de madera de 81 x 43 cm en la que el monje Rafail talló 104 escenas religiosas y 650 figuras en miniatura. Es pequeño pero rico.",
         come: "En el complejo, entrada aparte.",
         quando: "De día.",
         tempo: "45 minutos",
-        costo: "unos 8 BGN, 4 euros (dato del viaje, a revisar)",
+        costo: "unos 4 € (dato del viaje; desde 2026 se paga en euros, tarifa actual en el lugar)",
         consiglio: "El billete es fácil de perder: guardarlo en el bolsillo."
       }
     ],

@@ -33,7 +33,7 @@ export const destinazioniCostaRica: Destinazione[] = [
           "nome": "Mercado Central",
           "testo": "The covered market in the centre, founded in 1880, with food stalls, coffee, crafts and the sodas serving the casado of the day.",
           "come": "On foot from the centre. Enter from the side streets of Avenida Central.",
-          "quando": "Morning and lunch; it closes in the afternoon.",
+          "quando": "Morning and lunchtime, when the sodas are busiest.",
           "tempo": "1-1.5 hours",
           "consiglio": "Eating in a soda inside the market is the cheapest way to taste home cooking."
         },
@@ -49,9 +49,9 @@ export const destinazioniCostaRica: Destinazione[] = [
           "nome": "National Museum",
           "testo": "Housed in the former Cuartel Bellavista, with rooms on the country's history, archaeology and nature, opposite the Legislative Assembly.",
           "come": "On foot from the centre.",
-          "quando": "Tuesday-Sunday, morning.",
+          "quando": "Tuesday to Saturday 8:30am-4:30pm, Sunday 9am-4:30pm; closed on Mondays.",
           "tempo": "1.5 hours",
-          "url": "https://www.sinac.go.cr/"
+          "url": "https://www.museocostarica.go.cr/"
         },
         {
           "nome": "Teatro Nacional",
@@ -59,6 +59,7 @@ export const destinazioniCostaRica: Destinazione[] = [
           "come": "On foot from the centre, on Plaza de la Cultura.",
           "quando": "Morning.",
           "tempo": "1 hour",
+          "url": "https://www.teatronacional.go.cr/",
           "consiglio": "Book ahead if you want to attend a show."
         }
       ],
@@ -285,7 +286,7 @@ export const destinazioniCostaRica: Destinazione[] = [
         {
           "nome": "Cerro Tortuguero",
           "testo": "A hill of about 120 metres with a view of canals, sea and forest.",
-          "come": "Short trail from the village, to do independently.",
+          "come": "A short boat crossing from the village to the trailhead; ask your lodge about current access rules and fee.",
           "quando": "Morning.",
           "tempo": "1-1.5 hours",
           "consiglio": "Bring water and repellent: in the humid forest there are many mosquitoes."
@@ -498,8 +499,10 @@ export const destinazioniCostaRica: Destinazione[] = [
           "nome": "La Fortuna waterfall",
           "testo": "A waterfall of about 70 metres in a forested gorge, with a long staircase and a pool for swimming. There is a dedicated experience card.",
           "come": "From La Fortuna town 10 minutes by car or taxi, then steep stairs to the base.",
-          "quando": "Morning, with fewer crowds.",
+          "quando": "Open daily 7am-5pm; mornings are less crowded.",
           "tempo": "2 hours",
+          "costo": "20 USD for foreigners (2025); you pay even if you only go to the viewpoint.",
+          "url": "https://www.cataratariofortuna.com/",
           "consiglio": "The way back is all uphill: shoes with grip and water."
         },
         {
@@ -613,10 +616,10 @@ export const destinazioniCostaRica: Destinazione[] = [
         {
           "nome": "Monteverde cloud forest",
           "testo": "A high-altitude rainforest wrapped in clouds, with thousands of species of plants, birds and insects. You walk on trails and bridges.",
-          "come": "By taxi or shuttle from the town of Santa Elena, along a dirt road. Better with a guide to recognise the animals.",
-          "quando": "Early morning for birds; the mist is part of the landscape.",
+          "come": "By taxi or shuttle from the small town of Santa Elena, on a slow mountain road. Since 2026 entry is timed and booked online. Better with a guide to spot the animals.",
+          "quando": "Daytime entries roughly 7:30am to 4pm; early morning for birds. The mist is part of the landscape.",
           "tempo": "3-4 hours",
-          "url": "https://www.sinac.go.cr/"
+          "url": "https://cloudforestmonteverde.com/"
         },
         {
           "nome": "Night walk in the forest",
@@ -692,7 +695,7 @@ export const destinazioniCostaRica: Destinazione[] = [
       ],
       "attenzioni": [
         "It is cold and rains in the evening: bring a waterproof jacket and a sweater.",
-        "The road to the reserve is dirt and can be slow: leave time.",
+        "The mountain roads to the reserve are narrow and slow: allow time, and book your entry slot online.",
         "For birds and wildlife you need a guide: alone you see much less."
       ],
     esperienzeSlugs: ['camminata-notturna-monteverde', 'zipline-monteverde'],
@@ -844,8 +847,10 @@ export const destinazioniCostaRica: Destinazione[] = [
           "nome": "Manuel Antonio National Park",
           "testo": "A small but life-rich park: sloths, capuchin monkeys, iguanas and hummingbirds along the trails, with beaches inside the park. There is a dedicated experience card.",
           "come": "You arrive from Quepos by bus or car, about 10 minutes. With a guide you see many more animals.",
-          "quando": "Early morning, when animals are active; the park has a weekly closing day to be checked.",
+          "quando": "Early morning, when the animals are active. Open Wednesday to Monday, 7am-4pm; closed on Tuesdays.",
           "tempo": "3-4 hours",
+          "costo": "About 18 USD for foreign adults (16 USD plus VAT, 2025-2026), online only and with limited places.",
+          "url": "https://serviciosenlinea.sinac.go.cr/",
           "consiglio": "With the guide we saw sloths, monkeys and iguanas up close along trails that we would have struggled much more to read alone."
         },
         {
@@ -914,9 +919,10 @@ export const destinazioniCostaRica: Destinazione[] = [
         }
       ],
       "attenzioni": [
-        "The park has a weekly closing day: check the official site before going.",
-        "Tickets are bought online in advance: do not count on buying at the entrance.",
-        "Do not feed the animals and keep bags closed: monkeys and raccoons steal."
+        "The park is closed on Tuesdays; after heavy rain SINAC may close it on other days too.",
+        "Tickets are sold online only, on the SINAC site: they are not sold at the gate, and sites reselling them at a markup are not official.",
+        "Do not feed the animals and keep bags closed: monkeys and raccoons steal.",
+        "Since 30 April 2026 fines for entering through unofficial access points or closed areas are high: stay on marked trails."
       ],
     esperienzeSlugs: ['parco-manuel-antonio'],
     tripSlugs: ['costa-rica-itinerario'],

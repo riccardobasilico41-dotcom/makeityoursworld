@@ -50,8 +50,9 @@ export const destinazioniPaesiBassi: Destinazione[] = [
         nome: "Rijksmuseum",
         testo: "The Dutch national museum, with Rembrandt's Night Watch, the Vermeers and the miniature ships. The building has a free garden with sculptures and a square for photos.",
         come: "Tram 2 or 12 to the Rijksmuseum, 10 minutes from the centre. Timed ticket online.",
-        quando: "Early morning or late afternoon, to avoid the crush in front of the Night Watch.",
+        quando: "Daily 9am-5pm, holidays included; early morning or late afternoon to avoid the crowd in front of The Night Watch.",
         tempo: "3 hours",
+        costo: "€25 adults (2026), free under 18",
         url: "https://www.rijksmuseum.nl",
         consiglio: "Start from the Golden Age floor: in an hour you see the most important rooms."
       },
@@ -67,9 +68,10 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       {
         nome: "Anne Frank House",
         testo: "The secret annex where Anne Frank and her family hid from 1942 to 1944, above her father's company. The route is narrow and silent; photography is not allowed.",
-        come: "Tickets are sold only online on the official site, weeks in advance; they are not sold at the door.",
+        come: "Tickets are sold only online on the official website: every Tuesday at 10am the tickets for visits six weeks later are released. None are sold at the door.",
         quando: "Book as soon as you decide the dates; on Prinsengracht, 15 minutes from the centre.",
         tempo: "1-1.5 hours",
+        costo: "€16.50 adults, including a €1 booking fee (official site, 2026)",
         url: "https://www.annefrank.org",
         consiglio: "Beware of resellers: the official site is the only reliable one."
       },

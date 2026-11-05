@@ -71,7 +71,7 @@ export const destinazioniGuatemala: Destinazione[] = [
           "nome": "Vulcano Acatenango",
           "testo": "Salita con campo base sopra le nuvole, davanti al Fuego che erutta. Il tratto più duro del viaggio in Guatemala.",
           "come": "Tour di due giorni da Antigua con guida, tenda e pasti. Il cammino dura 5-6 ore di salita fra campi di mais, pineta e sabbia vulcanica.",
-          "quando": "Stagione secca (novembre-aprile); la mattina dopo si scende sulla sabbia.",
+          "quando": "Stagione secca (novembre-aprile); la mattina dopo si scende sulla sabbia. Il sentiero può chiudere per l'attività del Fuego o il maltempo (nel 2026 ha riaperto ad agosto dopo una chiusura): verificare prima.",
           "tempo": "2 giorni, 1 notte",
           "consiglio": "Il campo è vicino allo zero di notte: guanti, berretto, strati caldi. La discesa scivola più che camminare."
         }
@@ -208,7 +208,7 @@ export const destinazioniGuatemala: Destinazione[] = [
         },
         {
           "nome": "Indian Nose (Rostro Maya)",
-          "testo": "Un belvedere a 3.000 metri sopra San Juan la Laguna, per l'alba sul lago e sui vulcani.",
+          "testo": "Un belvedere sopra San Juan la Laguna, per l'alba sul lago e sui vulcani Atitlán, Tolimán e San Pedro. La cima è un prato stretto fra gli alberi: si arriva al buio e si guarda la luce accendere il lago.",
           "come": "Sveglia verso le 4, partenza in pick-up e cammino di circa un'ora al buio con guida.",
           "quando": "Alba, con cielo sereno.",
           "tempo": "Mezza mattina",
@@ -329,9 +329,10 @@ export const destinazioniGuatemala: Destinazione[] = [
           "nome": "Gran Plaza e Templi I e II",
           "testo": "Il cuore di Tikal: i Templi I (del Gran Giaguaro) e II si fronteggiano sulla piazza cerimoniale, con acropoli ai lati. Patrimonio UNESCO nel Parco Nazionale Tikal.",
           "come": "Dal parco si cammina nella foresta; entrata e sentieri fanno chilometri. Visita con guida consigliata, anche per la fauna.",
-          "quando": "Apertura del parco all'alba; mattina presto per fresco e animali.",
+          "quando": "Il parco è aperto tutti i giorni dalle 6 alle 18; l'ingresso speciale all'alba va dalle 4 alle 6. Mattina presto per fresco e animali.",
           "tempo": "3-4 ore",
-          "url": "https://inguat.gob.gt/"
+          "costo": "Q150 per gli stranieri, a giornata; l'ingresso all'alba o al tramonto costa Q100 in più (tariffe del Ministero della Cultura, 2026).",
+          "url": "https://boletos.culturaguate.gob.gt/"
         },
         {
           "nome": "Tempio IV",

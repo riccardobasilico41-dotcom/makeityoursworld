@@ -33,7 +33,7 @@ export const destinazioniSriLanka: Destinazione[] = [
     luoghi: [
       {
         "nome": "Mercato del pesce di Negombo",
-        "testo": "Sulla spiaggia le barche da pesca scaricano all'alba e il pesce viene steso ad asciugare o venduto subito. Un spettacolo genuino, un buon modo per prendere confidenza con il paese appena arrivati.",
+        "testo": "Sulla spiaggia le barche da pesca scaricano all'alba e il pesce viene steso ad asciugare o venduto subito. Uno spettacolo genuino, un buon modo per prendere confidenza con il paese appena arrivati.",
         "come": "A pochi minuti dal centro, in tuk-tuk o a piedi dagli hotel sul mare.",
         "quando": "Alba o mattina presto.",
         "tempo": "1 ora",
@@ -41,7 +41,7 @@ export const destinazioniSriLanka: Destinazione[] = [
       },
       {
         "nome": "Chiesa di Santa Maria",
-        "testo": "Negombo è chiamata la «piccola Roma» per le sue chiese cattoliche. Santa Maria ha un soffitto dipinto.",
+        "testo": "Negombo è chiamata la «piccola Roma» per le sue chiese cattoliche, eredità del periodo portoghese. Santa Maria, finita nel 1922 dopo quasi cinquant'anni di lavori, ha il soffitto dipinto con scene della vita di Cristo, opera di un pittore locale buddhista, N.S. Godamanne.",
         "come": "A piedi o in tuk-tuk dal centro.",
         "tempo": "30 minuti",
         "consiglio": "Spalle e ginocchia coperte, come in tutti i luoghi di culto."
@@ -135,9 +135,10 @@ export const destinazioniSriLanka: Destinazione[] = [
         "nome": "Dagoba del sito archeologico",
         "testo": "Le cupole bianche immense, come il Ruwanwelisaya che emerge dalla foresta, danno la misura della storia buddhista dell'isola.",
         "come": "Visita guidata in bicicletta, circa 3 ore.",
-        "quando": "Il pomeriggio, dopo l'arrivo; meglio evitare le ore centrali per il caldo.",
+        "quando": "Biglietteria dalle 7 alle 17. Il pomeriggio, dopo l'arrivo; meglio evitare le ore centrali per il caldo.",
         "tempo": "3 ore",
-        "costo": "Guida circa 6.500 LKR (19 €) più la mancia (dal viaggio del 2023)",
+        "costo": "Biglietto del sito per stranieri circa 30 USD (marzo 2026), pagato in rupie; guida circa 6.500 LKR (19 €) più la mancia (dal viaggio del 2023)",
+        "url": "https://eservices.ccf.gov.lk/eticketing/landing",
         "consiglio": "Con una guida i luoghi si capiscono: senza, sono mucchi di pietra."
       },
       {
@@ -220,7 +221,7 @@ export const destinazioniSriLanka: Destinazione[] = [
       'Trekking al tramonto su Pidurangala Rock (30 minuti di salita)',
       'Trekking a Sigiriya (1h30-2h di salita; c\'è la scheda esperienza dedicata)',
       'Visita al Tempio d\'Oro di Dambulla',
-      'Il Dambulla Wholesale Market, il più grande mercato all\'ingrosso dello Sri Lanka',
+      'Il Dambulla Wholesale Market, centro della distribuzione di frutta e verdura dell\'isola',
     ],
     doveDormire:
       'Abbiamo dormito al Tropical Life Resort, sulla carta il migliore dei nove hotel del viaggio: n. 1 tra le strutture specialty di Dambulla, 4/5 su Tripadvisor. Camere pulite e ben attrezzate, buffet abbondante, tutto immerso nel verde. Qualche recensione segnala che in camera manca il WiFi.\n\nEconomiche: Relax Guesthouse, Lake Island Homestay. Fascia media: Lake Lodge Boutique Hotel, Kalundewa Retreat. Lusso: Heritance Kandalama (il celebre hotel firmato Geoffrey Bawa), Aliya Resort & Spa.',
@@ -239,14 +240,16 @@ export const destinazioniSriLanka: Destinazione[] = [
         "come": "A circa mezz'ora da Anuradhapura, in van. Si sale a piedi scalzi.",
         "quando": "Mattina, prima del caldo.",
         "tempo": "1 ora e mezza",
-        "costo": "Ingresso 500 LKR più 50 LKR di sarong (dal viaggio del 2023)"
+        "costo": "Ingresso 1.000 LKR per stranieri (2026); nel 2023 erano 500 LKR più 50 LKR di sarong"
       },
       {
         "nome": "Sigiriya, la Rocca del Leone",
-        "testo": "Una roccia alta circa 180 metri con le fondamenta del palazzo reale del V secolo in cima. Lungo la salita si vedono gli affreschi delle fanciulle celesti e la parete a specchio.",
+        "testo": "Una roccia alta circa 180 metri con in cima le fondamenta del palazzo del re Kashyapa (477-495), patrimonio UNESCO dal 1982. Lungo la salita si passano gli affreschi delle fanciulle celesti, la parete a specchio coperta di graffiti poetici del IX-X secolo e le due zampe del leone che fanno da porta all'ultima scalinata.",
         "come": "Dalla biglietteria si sale a piedi, 1 ora e mezza-2 ore di salita; da Dambulla in van.",
-        "quando": "Presto la mattina, per evitare il caldo peggiore e le code.",
+        "quando": "Biglietteria dalle 7 alle 17: arrivare all'apertura, per evitare il caldo peggiore e le code.",
         "tempo": "3-4 ore",
+        "costo": "Circa 35 USD per stranieri (marzo 2026), pagati in rupie al cambio del giorno; comprende il museo. Si può comprare anche online.",
+        "url": "https://eservices.ccf.gov.lk/eticketing/landing",
         "consiglio": "Muoversi presto: a metà mattina la salita è dura e piena di gente."
       },
       {
@@ -255,23 +258,24 @@ export const destinazioniSriLanka: Destinazione[] = [
         "come": "Salita a piedi di circa 30 minuti, con un tratto di roccia finale.",
         "quando": "Tramonto.",
         "tempo": "2 ore",
-        "costo": "Ingresso 1.000 LKR (dal viaggio del 2023)",
+        "costo": "Ingresso 1.000 LKR (dal viaggio del 2023, invariato nel 2026)",
         "consiglio": "Portare una torcia per la discesa quando il sole è già calato."
       },
       {
         "nome": "Tempio d'Oro di Dambulla",
-        "testo": "Cinque grotte scavate nella roccia, piene di statue del Buddha e di affreschi sul soffitto.",
-        "come": "Da Sigiriya in van; si sale a piedi scalzi per una scalinata.",
+        "testo": "Cinque grotte scavate nella roccia con 153 statue del Buddha e circa 2.100 metri quadrati di pitture su pareti e soffitti. È patrimonio UNESCO dal 1991. La grotta più grande è la più spettacolare: le statue sono in fila sotto un soffitto tutto dipinto.",
+        "come": "Da Sigiriya in van; si sale a piedi per una scalinata e si entra scalzi, con spalle e ginocchia coperte.",
         "quando": "Mattina o tardo pomeriggio.",
-        "tempo": "1 ora e mezza"
+        "tempo": "1 ora e mezza",
+        "costo": "Circa 3.000 LKR per stranieri (2026)"
       },
       {
         "nome": "Safari a Minneriya",
-        "testo": "Il safari in jeep tra gli elefanti nel parco di Minneriya.",
+        "testo": "Il safari in jeep tra gli elefanti nel parco di Minneriya, che si stringe intorno a un grande lago artificiale. Nella stagione secca, quando l'acqua si ritira, gli elefanti scendono in branco sulle rive a brucare l'erba nuova.",
         "come": "In jeep con autista-guida dall'area di Sigiriya.",
         "quando": "Pomeriggio; il periodo con più elefanti insieme (il «gathering») è di solito da luglio a ottobre.",
         "tempo": "3-4 ore",
-        "costo": "Circa 12.000 LKR a jeep più l'ingresso (dal viaggio del 2023)"
+        "costo": "Circa 12.000 LKR a jeep più l'ingresso (dal viaggio del 2023); ingresso al parco circa 25 USD a persona più tasse (dato 2024)"
       }
     ],
     programmi: [
@@ -319,7 +323,7 @@ export const destinazioniSriLanka: Destinazione[] = [
       },
       {
         "nome": "Frutta di Dambulla",
-        "testo": "Il Dambulla Wholesale Market è il più grande mercato all'ingrosso dello Sri Lanka: frutta e verdura locali."
+        "testo": "Il Dambulla Wholesale Market è il grande mercato all'ingrosso da cui passa buona parte della frutta e della verdura dell'isola: si vedono camion carichi e montagne di prodotti locali."
       },
       {
         "nome": "Tè e dolci",
@@ -376,9 +380,10 @@ export const destinazioniSriLanka: Destinazione[] = [
         "nome": "Giro in bicicletta tra i templi",
         "testo": "Girare Polonnaruwa in bicicletta è stato un bel cambio di ritmo dopo la salita a Sigiriya del giorno prima. Il sito è più leggero e immediato di Sigiriya, con altrettanta storia.",
         "come": "Bicicletta a noleggio all'ingresso del sito, con o senza guida.",
-        "quando": "Mattina o pomeriggio; evitare le ore centrali.",
+        "quando": "Biglietteria dalle 7 alle 17. Mattina o pomeriggio; evitare le ore centrali.",
         "tempo": "mezza giornata",
-        "costo": "Bicicletta 1.000 LKR (circa 2,5 €); guida 6.000 LKR più la mancia (dal viaggio del 2023)",
+        "url": "https://eservices.ccf.gov.lk/eticketing/landing",
+        "costo": "Biglietto del sito per stranieri circa 30 USD (marzo 2026); bicicletta 1.000 LKR (circa 2,5 €); guida 6.000 LKR più la mancia (dal viaggio del 2023)",
         "consiglio": "Pranzo al Priyamali gedara, ristorante di campagna con vista sulle risaie: molto buono."
       }
     ],
@@ -452,7 +457,7 @@ export const destinazioniSriLanka: Destinazione[] = [
     comeArrivare: 'Circa 2h di trasferimento da Dambulla, con sosta al Ranweli Spice Garden.',
     comeSpostarsi: 'A piedi in centro.',
     periodoMigliore: 'tardo pomeriggio o sera, per arrivare in tempo alla cerimonia del Tempio del Dente',
-    costi: 'Ingresso al Tempio del Dente 2.000 LKR.',
+    costi: 'Ingresso al Tempio del Dente 2.000 LKR nel 2023, 3.000 LKR nel 2026.',
     erroriDaEvitare: ['Arrivare al Tempio del Dente all\'ultimo momento: la fila si forma già nel tardo pomeriggio, conviene presentarsi con molto anticipo'],
     miaEsperienza:
       'La cerimonia serale al Tempio del Dente, con i tamburi che cominciano poco prima che cali la luce, è stata uno dei momenti più intensi e spirituali di tutto il viaggio.',
@@ -461,9 +466,10 @@ export const destinazioniSriLanka: Destinazione[] = [
         "nome": "Tempio del Dente",
         "testo": "Custodisce la reliquia del dente del Buddha, il tempio più sacro dello Sri Lanka. La cerimonia serale, con i tamburi che cominciano poco prima che cali la luce, è stato uno dei momenti più intensi e spirituali del viaggio.",
         "come": "A piedi dal centro, sul lago. Si entra scalzi, con spalle e ginocchia coperte; la reliquia sta in un reliquiario d'oro in una sala del piano superiore.",
-        "quando": "La cerimonia serale: la fila si forma già nel tardo pomeriggio.",
+        "quando": "Aperto ogni giorno dalle 5:30 alle 20. Le cerimonie sono alle 5:30, alle 9:30 e alle 18:30: per quella serale la fila si forma già nel tardo pomeriggio.",
         "tempo": "2 ore",
-        "costo": "Ingresso 2.000 LKR (dal viaggio del 2023)",
+        "costo": "3.000 LKR per stranieri (2026, sito ufficiale), con i musei del complesso; nel 2023 erano 2.000 LKR. Valgono solo i biglietti delle macchinette del tempio.",
+        "url": "https://sridaladamaligawa.lk/",
         "consiglio": "Presentarsi con molto anticipo: arrivare all'ultimo momento significa restare in fondo alla fila."
       },
       {
@@ -671,10 +677,11 @@ export const destinazioniSriLanka: Destinazione[] = [
       },
       {
         "nome": "World's End a Horton Plains",
-        "testo": "Il bordo dell'altopiano di Horton Plains, con uno strapiombo di 870 metri sulla pianura sottostante. Il trekking è un anello di circa 3 ore tra praterie e foresta nebulosa.",
+        "testo": "Il bordo dell'altopiano di Horton Plains, oltre i 2.000 metri, con uno strapiombo di 870 metri sulla pianura sottostante. Il trekking è un anello di circa 3 ore tra praterie e foresta nebulosa. Nel parco sono vietati i sacchetti di plastica.",
         "come": "In van da Nuwara Eliya, circa 1 ora e mezza; si cammina a piedi su un sentiero segnalato.",
         "quando": "Presto la mattina: poi arrivano nebbia e nuvole e la vista sparisce. Una giornata di sole è necessaria.",
         "tempo": "3 ore di cammino più il trasferimento",
+        "costo": "Ingresso al parco circa 25 USD a persona più tasse (dato 2024)",
         "consiglio": "Partire all'alba da Nuwara Eliya, per arrivare al bordo prima delle nuvole."
       },
       {
@@ -779,23 +786,24 @@ export const destinazioniSriLanka: Destinazione[] = [
       },
       {
         "nome": "Nine Arches Bridge",
-        "testo": "Un viadotto ferroviario del primo Novecento in pietra e mattoni, a nove archi, immerso nella giungla. Il momento di maggiore fascino è quando passa il treno.",
-        "come": "A pochi chilometri da Ella, in tuk-tuk e poi a piedi su un sentiero.",
+        "testo": "Un viadotto ferroviario a nove archi in pietra, mattoni e cemento, finito nel 1919: è lungo 91 metri e alto 24, immerso nella giungla. Il momento di maggiore fascino è quando passa il treno.",
+        "come": "A Demodara, tra le stazioni di Ella e Demodara: in tuk-tuk e poi a piedi su un sentiero.",
         "quando": "Quando passa un treno: chiedere gli orari in guesthouse.",
         "tempo": "1 ora",
         "consiglio": "Non camminare sui binari quando arriva il treno."
       },
       {
-        "nome": "Lipton's Seat e i belvedere",
-        "testo": "Belvedere sulle piantagioni di tè più fotografate dello Sri Lanka, a due passi dal villaggio.",
-        "come": "Poco fuori Ella, in tuk-tuk.",
+        "nome": "Lipton's Seat",
+        "testo": "Il belvedere sulle piantagioni di tè della tenuta di Dambatenne, che porta il nome di Thomas Lipton, il re del tè. Non è a Ella ma sopra Haputale: vale la gita se il cielo è limpido.",
+        "come": "In van o tuk-tuk da Ella fino a Haputale, circa un'ora di strada, poi su per la strada di Dambatenne.",
         "quando": "Mattina presto, prima delle nuvole.",
-        "tempo": "2 ore"
+        "tempo": "mezza giornata da Ella"
       },
       {
         "nome": "Zip line Flying Ravana",
-        "testo": "Una zip line tra le colline, a 15 minuti da Ella.",
-        "come": "In tuk-tuk da Ella.",
+        "testo": "Una zip line doppia lunga 550 metri, tra le colline sopra Ella. Parte da Mini Adam's Peak, sulla strada per Little Adam's Peak, e si scende in coppia sopra le piantagioni di tè.",
+        "come": "In tuk-tuk da Ella, circa 15 minuti.",
+        "url": "https://www.flyingravana.com/",
         "tempo": "1 ora e mezza",
         "costo": "Circa 20 € (dal viaggio del 2023)"
       }
@@ -814,7 +822,7 @@ export const destinazioniSriLanka: Destinazione[] = [
         "titolo": "2 giorni",
         "tappe": [
           "Giorno 1: treno panoramico e Nine Arches Bridge",
-          "Giorno 2: Lipton's Seat all'alba e zip line, massaggio nel pomeriggio"
+          "Giorno 2: Lipton's Seat all'alba (un'ora di strada, verso Haputale), poi zip line e massaggio nel pomeriggio"
         ]
       }
     ],
@@ -871,7 +879,7 @@ export const destinazioniSriLanka: Destinazione[] = [
     percheAndarci: 'Per chiudere il viaggio al mare, dopo tutti i templi, i safari e i trekking dei giorni prima.',
     cosaVedere: ['Il Parco Nazionale di Yala', 'Il Tsunami Museum'],
     cosaFare: [
-      'Safari a Yala, il parco con la più alta densità di leopardi al mondo (c\'è la scheda esperienza dedicata)',
+      'Safari a Yala, uno dei parchi con la più alta densità di leopardi al mondo (c\'è la scheda esperienza dedicata)',
       'Nuotare con le tartarughe: il punto migliore è davanti all\'Hikka Tranz by Cinnamon Hotel',
       'Tsunami Museum',
       'Big Buddha, surf, snorkeling, diving, boat safari sul fiume Madu',
@@ -889,11 +897,11 @@ export const destinazioniSriLanka: Destinazione[] = [
     luoghi: [
       {
         "nome": "Parco Nazionale di Yala",
-        "testo": "Il parco con la più alta densità di leopardi al mondo, dove in safari si vedono anche elefanti, coccodrilli e uccelli.",
+        "testo": "Uno dei parchi con la più alta densità di leopardi al mondo, dove in safari si vedono anche elefanti, coccodrilli e uccelli.",
         "come": "In jeep con guida, sulla strada da Ella a Hikkaduwa; il safari dura alcune ore.",
         "quando": "Primo mattino o tardo pomeriggio, quando gli animali sono attivi.",
         "tempo": "4 ore",
-        "costo": "Jeep 12.000-16.000 LKR, più l'ingresso (27-30 € a persona) e la mancia (dal viaggio del 2023)",
+        "costo": "Jeep 12.000-16.000 LKR, più l'ingresso (27-30 € a persona) e la mancia (dal viaggio del 2023); l'ingresso base è circa 25 USD più tasse (dato 2024)",
         "consiglio": "I leopardi non sono garantiti: chiedere all'autista dove sono stati avvistati."
       },
       {

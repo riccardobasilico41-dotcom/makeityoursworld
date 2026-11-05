@@ -45,7 +45,7 @@ export const destinazioniBolivia: Destinazione[] = [
       'Volo internazionale su El Alto (LPB), uno degli aeroporti più alti del mondo a oltre 4.000 metri: si passa dal livello del mare alla quota massima in poche ore, con effetti che si sentono subito. Via terra, bus da Copacabana (circa 4 ore) o da Cusco passando dal Titicaca.',
     comeSpostarsi: 'Mi Teleférico per gli spostamenti lunghi, taxi radio per il resto. Evitare i taxi non ufficiali, soprattutto la sera.',
     periodoMigliore: 'maggio-ottobre, stagione secca; le notti sono fredde tutto l\'anno',
-    costi: 'corsa in teleferica pochi centesimi di euro; la città è tra le capitali più economiche al mondo',
+    costi: 'corsa in teleferica 3 bolivianos, meno di mezzo euro; la città è tra le capitali più economiche al mondo',
     erroriDaEvitare: [
       'Atterrare a El Alto e programmare qualcosa di impegnativo il giorno stesso: dal livello del mare a 4.000 metri il corpo non si adatta in poche ore',
       'Sottovalutare i blocchi stradali: quando ci sono, possono isolare la città per giorni e far saltare voli e trasferimenti',
@@ -60,7 +60,8 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "Le stazioni sono in tutta la città; si compra il biglietto alla stazione.",
         "quando": "Al tramonto, quando la conca si illumina.",
         "tempo": "1-2 ore",
-        "costo": "Pochi centesimi di euro a corsa",
+        "costo": "3 bolivianos a corsa, meno di mezzo euro (2025-2026); il cambio di linea si paga a parte",
+        "url": "https://www.miteleferico.bo/",
         "consiglio": "Rick le consiglia a chiunque: costano pochissimo e danno la vista migliore sulla conca."
       },
       {
@@ -206,7 +207,7 @@ export const destinazioniBolivia: Destinazione[] = [
     comeSpostarsi: 'Solo in 4x4 con autista, nell\'ambito del tour organizzato: non è una zona da girare in autonomia.',
     periodoMigliore:
       'Due stagioni, due esperienze diverse. Da maggio a ottobre il salar è asciutto e percorribile per intero, con cieli limpidi e notti gelide. Da gennaio a marzo un velo d\'acqua lo trasforma nello specchio gigante delle fotografie più famose, ma alcune zone, Isla Incahuasi compresa, possono diventare inaccessibili.',
-    costi: 'tour di 3 giorni indicativamente 150-250$ a persona secondo l\'operatore, con ingresso al parco Eduardo Avaroa a parte',
+    costi: 'tour di 3 giorni indicativamente 150-250$ a persona secondo l\'operatore, con ingresso alla riserva Eduardo Avaroa a parte (circa 150 bolivianos in contanti, secondo gli operatori) e Isla Incahuasi a parte (circa 30 bolivianos)',
     erroriDaEvitare: [
       'Scegliere l\'operatore solo sul prezzo: i mezzi e la manutenzione fanno una differenza reale su piste isolate a 4.500 metri, dove un guasto è un problema serio',
       'Andare a gennaio-marzo aspettandosi di vedere tutto: con l\'acqua l\'effetto specchio è spettacolare ma diverse tappe saltano',
@@ -222,7 +223,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "Solo in 4x4 con autista, nell'ambito del tour organizzato, in partenza da Uyuni.",
         "quando": "Maggio-ottobre: salar asciutto e percorribile per intero. Gennaio-marzo: lo specchio d'acqua, ma alcune tappe saltano.",
         "tempo": "Mezza giornata o un giorno",
-        "costo": "Tour di 3 giorni indicativamente 150-250 dollari a persona, ingresso alla riserva Eduardo Avaroa a parte",
+        "costo": "Tour di 3 giorni indicativamente 150-250 dollari a persona. A parte, in contanti: riserva Eduardo Avaroa circa 150 bolivianos e Isla Incahuasi circa 30 (dati degli operatori, da riconfermare)",
         "consiglio": "Per le foto prospettiche porta oggetti di scala piccola e usa la luce dell'alba."
       },
       {

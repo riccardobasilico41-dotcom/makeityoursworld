@@ -64,7 +64,7 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "A 2 km del centro y 200 metros más arriba: en taxi en 10 minutos o a pie cuesta arriba en 30-40 minutos, algo que conviene evitar los primeros días en altura. Incluido en el Boleto Turístico.",
         "quando": "Mañana o primera hora de la tarde. El 24 de junio la zona está cerrada al público por el Inti Raymi.",
         "tempo": "1,5-2 horas",
-        "costo": "Boleto Turístico general unos 130 soles para extranjeros, válido 10 días, 16 sitios (dato de noviembre de 2025: confírmalo antes de salir)",
+        "costo": "Boleto Turístico general unos 130 soles para extranjeros, válido 10 días, 16 sitios (tarifario de COSITUC, 2026). Los boletos parciales de un solo circuito cuestan 70 soles",
         "consiglio": "Sube en taxi y baja a pie: la bajada hacia San Blas es agradable y no cansa."
       },
       {
@@ -201,7 +201,7 @@ export const destinazioniPeru: Destinazione[] = [
     comeArrivare: "1 h 30 aprox. en coche de Cusco a Ollantaytambo; colectivos frecuentes y económicos desde la calle Pavitos en Cusco.",
     comeSpostarsi: "Coche con conductor o tour organizado para cubrir Maras, Moray y Pisac en una jornada; colectivos entre los pueblos principales.",
     periodoMigliore: "mayo-septiembre; en la estación de lluvias los caminos de tierra hacia Maras se vuelven difíciles",
-    costi: "la mayoría de los sitios está incluida en el Boleto Turístico; las salinas de Maras tienen una entrada aparte (unos 10 soles)",
+    costi: "la mayoría de los sitios está incluida en el Boleto Turístico; las salinas de Maras tienen una entrada aparte, que se paga en efectivo en el acceso",
     erroriDaEvitare: [
       "Comprimir Valle Sagrado y Machu Picchu en una única jornada a la carrera: es el error clásico que le quita sentido a ambas",
       "Dormir en Cusco la noche antes del tren de las 5 o las 6 de la mañana desde Ollantaytambo",
@@ -224,7 +224,7 @@ export const destinazioniPeru: Destinazione[] = [
         "quando": "El sitio por la mañana; el pueblo luce más de noche, cuando los buses de los tours se han ido.",
         "tempo": "2-3 horas para el sitio, una noche para el pueblo",
         "consiglio": "Duerme aquí la noche antes del tren a Machu Picchu: ganas más de una hora de sueño frente a salir desde Cusco.",
-        "url": "https://cosituc.gob.pe/"
+        "url": "https://cosituccusco.pe/tarifario/"
       },
       {
         "nome": "Salineras de Maras",
@@ -232,7 +232,7 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "En coche con conductor o en tour, a menudo junto con Moray. Se camina por el borde de las pozas donde está permitido.",
         "quando": "Mañana o última hora de la tarde, cuando la sal es más blanca.",
         "tempo": "1 hora",
-        "costo": "Unos 10 soles, entrada aparte del Boleto Turístico (dato indicativo del sitio)",
+        "costo": "Entrada aparte, no incluida en el Boleto Turístico: se paga en efectivo en el acceso",
         "consiglio": "Los caminos de tierra hacia Maras se vuelven difíciles en la estación de lluvias."
       },
       {
@@ -358,7 +358,7 @@ export const destinazioniPeru: Destinazione[] = [
             nome: "Tren desde Ollantaytambo o Cusco",
             sintesi:
               "La vía clásica: tren PeruRail o IncaRail hasta Aguas Calientes, luego autobús lanzadera hasta la entrada. Las salidas desde Ollantaytambo son más numerosas y más económicas que las de Cusco/Poroy.",
-            costo: "tren 70-500 $ ida y vuelta según la clase (Expedition/Voyager las económicas, Vistadome panorámico, Hiram Bingham de lujo), más 24 $ de autobús lanzadera I/V y la entrada al sitio (unos 152 soles)",
+            costo: "tren 70-500 $ ida y vuelta según la clase (Expedition/Voyager las económicas, Vistadome panorámico, Hiram Bingham de lujo), más 24 $ de autobús lanzadera I/V y la entrada al sitio (152 soles para extranjeros adultos en los circuitos sin montaña, 2026)",
             durata: "1 día desde Ollantaytambo, mejor 2 con noche en Aguas Calientes",
             pro: [
               "No requiere preparación física, apto para todos",
@@ -473,7 +473,7 @@ export const destinazioniPeru: Destinazione[] = [
     periodoMigliore:
       "mayo-septiembre por los cielos despejados, pero es también el periodo en el que todo se agota antes. Abril y octubre son un buen compromiso entre clima y afluencia",
     costi:
-      "Entrada: unos 152 soles por el circuito básico; el circuito con Huayna Picchu o con la Montaña Machu Picchu cuesta unos 200 soles (54 $ aprox.). El único vendedor oficial es el portal del Ministerio de Cultura, tuboleto.cultura.pe: todo lo demás son revendedores con recargo.",
+      "Entrada para extranjeros adultos (2026): 152 soles en los circuitos sin montaña, 200 soles en las rutas con Huayna Picchu, la Montaña Machu Picchu o la Gran Caverna. Desde el 1 de mayo de 2026 se anunció una subida de 11 soles para extranjeros adultos: comprueba la cifra final al comprar. Hay tres circuitos y diez rutas, con aforo diario (4.500 entradas al día, 5.600 en temporada alta). El único vendedor oficial es el portal del Ministerio de Cultura, tuboleto.cultura.pe: todo lo demás son revendedores con recargo.",
     erroriDaEvitare: [
       "Reservar tarde: para el Huayna Picchu hacen falta 2-3 meses de antelación en cualquier temporada, 3-4 en los meses punta, y las plazas se agotan rápido",
       "Comprar las entradas a revendedores no oficiales a precios inflados en lugar de en tuboleto.cultura.pe",
@@ -489,7 +489,7 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Se llega a Aguas Calientes en tren o a pie, luego bus lanzadera (25 minutos) o 1h30-2h cuesta arriba a pie. Dentro del sitio el recorrido es obligado: el circuito se elige al comprar y no se puede mover uno libremente. El guía es obligatorio.",
         "quando": "El primer turno da cuarenta minutos de silencio que compensan el madrugón. De mayo a septiembre es la estación seca, pero también cuando antes se agotan las entradas.",
         "tempo": "3-4 horas",
-        "costo": "Unos 152 soles el circuito básico (dato del sitio, 2026). Entradas solo en el portal oficial",
+        "costo": "152 soles para extranjeros adultos en los circuitos sin montaña (2026); anunciada una subida de 11 soles desde el 1 de mayo de 2026. Entradas solo en el portal oficial",
         "url": "https://tuboleto.cultura.pe/",
         "consiglio": "Duerme en Aguas Calientes para entrar en el primer turno. Dentro no se puede comer: lleva agua y un tentempié para comer antes de entrar."
       },
@@ -499,7 +499,7 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Entrada aparte con franjas horarias y plazas muy limitadas. La subida parte desde dentro del sitio y lleva unas 1h30-2h entre ida y vuelta.",
         "quando": "Franjas horarias por la mañana. Reservar 2-3 meses antes en cualquier temporada, 3-4 en los meses de más afluencia.",
         "tempo": "2-3 horas",
-        "costo": "Unos 200 soles el circuito con Huayna Picchu (dato del sitio, 2026)",
+        "costo": "200 soles para extranjeros adultos (ruta 3-A, 2026)",
         "url": "https://tuboleto.cultura.pe/",
         "consiglio": "Rick lo hizo: es precioso, pero quien sufra de vértigo debe pensarlo bien."
       },
@@ -509,7 +509,7 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Entrada aparte de cupo limitado, mismas reglas de reserva que Huayna Picchu. La subida parte desde el sitio.",
         "quando": "Franjas horarias por la mañana; reserva con meses de antelación.",
         "tempo": "3-4 horas de subida y bajada",
-        "costo": "Unos 200 soles (circuito con la Montaña, dato del sitio, 2026)",
+        "costo": "200 soles para extranjeros adultos (ruta 1-A, 2026)",
         "url": "https://tuboleto.cultura.pe/",
         "consiglio": "Si el Huayna Picchu está agotado o temes los tramos expuestos, esta es la alternativa."
       },
@@ -643,7 +643,7 @@ export const destinazioniPeru: Destinazione[] = [
     periodoMigliore:
       "de abril a octubre. En la estación de lluvias el sendero se vuelve peligroso por los desprendimientos y el calor en el cañón es pesado en cualquier periodo",
     costi:
-      "Trek organizado, unos 400-700 $ por persona para 4-5 días con guía, mulas y comidas; por cuenta propia se gasta mucho menos, con la entrada al sitio en torno a los 60 soles.",
+      "Trek organizado, unos 400-700 $ por persona para 4-5 días con guía, mulas y comidas; por cuenta propia se gasta mucho menos, más la entrada al sitio, que se paga en el puesto de control.",
     confronti: [
       {
         titolo: "¿Ir ahora o esperar al teleférico?",
@@ -701,7 +701,7 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Solo a pie desde Cachora, tras dos días de caminata. Se acampa cerca del sitio; guía no obligatorio pero recomendable.",
         "quando": "De abril a octubre. En la estación de lluvias el sendero es peligroso.",
         "tempo": "Una mañana o un día entero; mejor dos noches",
-        "costo": "Entrada unos 60 soles (dato indicativo del sitio)",
+        "costo": "Entrada al sitio que se paga en el puesto de control antes de la ciudadela; tarifa en la web del Ministerio de Cultura",
         "consiglio": "Quédate dos noches para tener un día completo entre las ruinas sin el cansancio de la subida."
       },
       {
@@ -1333,7 +1333,7 @@ export const destinazioniPeru: Destinazione[] = [
     comeArrivare: "Vuelo desde Lima (1 h 30 aprox.) o autobús nocturno; desde Puno unas 6 horas de autobús.",
     comeSpostarsi: "Arequipa se recorre a pie; para el Colca tours organizados de dos días o autobús de línea hasta Chivay y Cabanaconde.",
     periodoMigliore: "mayo-septiembre; los cóndores se avistan todo el año pero con más probabilidad en las primeras horas de la mañana",
-    costi: "entrada al Monasterio de Santa Catalina y boleto turístico del Colca aparte, ambos contenidos",
+    costi: "Monasterio de Santa Catalina 50 soles para extranjeros adultos (2026); boleto turístico del Colca aparte",
     erroriDaEvitare: [
       "Hacer el Colca en una sola jornada desde Arequipa: significa salir a las 3 de la madrugada y pasar casi todo el tiempo en autocar",
       "Subestimar la subida desde el oasis de Sangalle: unos 1.100 metros de desnivel, para hacer antes de que el sol apriete",
@@ -1352,9 +1352,10 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Monasterio de Santa Catalina",
         "testo": "Una ciudad dentro de la ciudad, con callejones, patios de colores y celdas. Vivían aquí monjas dominicas, aisladas del mundo durante siglos.",
-        "come": "A pie desde el centro. Entradas y horarios en el sitio oficial.",
-        "quando": "Temprano por la mañana o de noche, cuando abre en horario ampliado. Consulta los días en el sitio.",
+        "come": "A pie desde el centro. Necesitas el pasaporte para la entrada de extranjero.",
+        "quando": "Todos los días de 9 a 17; martes y miércoles abre hasta las 20 (último acceso a las 19). Cerrado el Viernes Santo, el 25 de diciembre y el 1 de enero.",
         "tempo": "1,5-2 horas",
+        "costo": "50 soles para extranjeros adultos (2026)",
         "url": "https://www.santacatalina.org.pe/",
         "consiglio": "Visítalo a media mañana o de noche para evitar grupos."
       },

@@ -36,7 +36,7 @@ export const destinazioniGiordania: Destinazione[] = [
         "nome": "Citadel (Jabal al-Qala'a)",
         "testo": "The hill that overlooks the city, inhabited for millennia. On top stand the columns of the Temple of Hercules, the 8th-century Umayyad Palace and the archaeological museum. From the edge you see all of Amman, with the Roman theater at your feet.",
         "come": "Take a taxi up, or walk a steep 20 minutes from the center. You visit on your own; the panels are in English.",
-        "quando": "Late afternoon for the light on the temple and the view; at midday in summer there is no shade.",
+        "quando": "Open 8am-5pm (2026). Late afternoon has the best light on the temple; at midday in summer there is no shade.",
         "tempo": "1-1.5 hours",
         "costo": "Included in the Jordan Pass",
         "url": "https://www.jordanpass.jo/",
@@ -46,7 +46,7 @@ export const destinazioniGiordania: Destinazione[] = [
         "nome": "Roman Theater",
         "testo": "A 2nd-century theater cut into the hillside, with about 6,000 seats. On either side of the entrance are two small museums, one of folklore and one of popular traditions. You climb the steps and look at the square below.",
         "come": "In the heart of the center, on foot from the souqs and Rainbow Street.",
-        "quando": "Morning or late afternoon, when the steps are in shade.",
+        "quando": "Open 8am-5pm (2026). Morning or late afternoon, when the steps are in shade.",
         "tempo": "45 minutes",
         "costo": "Included in the Jordan Pass",
         "url": "https://www.jordanpass.jo/"
@@ -117,7 +117,8 @@ export const destinazioniGiordania: Destinazione[] = [
     attenzioni: [
       "Yellow taxis have a meter: have it switched on or agree the price before getting in. Uber and Careem work and remove the problem.",
       "Rainbow Street and the center are safe, but at midday in summer the sun is strong and there is no shade on the Citadel.",
-      "In Jordan Friday is the day of rest: many shops open late and museums may have shorter hours."
+      "In Jordan Friday is the day of rest: many shops open late and museums may have shorter hours.",
+      "The Jordan Pass (JOD 70, 75 or 80 with 1, 2 or 3 days at Petra, 2026) must be bought online before arrival: it covers the tourist visa if you stay at least two nights, plus entry to over 40 sites."
     ],
     // GUIDA-END
     esperienzeSlugs: ['cittadella-amman'],
@@ -152,7 +153,7 @@ export const destinazioniGiordania: Destinazione[] = [
         "nome": "Hadrian's Arch and the Hippodrome",
         "testo": "The monumental entrance to the south, built for the emperor Hadrian's visit in 129-130. A little further on is the hippodrome, among the best preserved of the Roman empire.",
         "come": "The parking lot is next to the arch; the ticket office is close by.",
-        "quando": "Early morning, before the groups.",
+        "quando": "Open 8am-5pm (2026). Best early in the morning, before the groups.",
         "tempo": "30 minutes",
         "costo": "Included in the Jordan Pass",
         "url": "https://www.jordanpass.jo/"
@@ -274,6 +275,15 @@ export const destinazioniGiordania: Destinazione[] = [
         "quando": "Morning, when the church is less crowded.",
         "tempo": "1-2 hours",
         "consiglio": "Combine it with dinner in an old-town restaurant, such as Haret Jdoudna."
+      },
+      {
+        "nome": "Baptism Site (Bethany beyond the Jordan)",
+        "testo": "The place on the Jordan River where tradition sets the baptism of Jesus, a UNESCO site since 2015. You walk past the remains of Byzantine churches down to the river, which here is a narrow stream with the West Bank a few metres away.",
+        "come": "By car from the Dead Sea, about 15 minutes. A shuttle leaves from the visitor centre and the visit is accompanied.",
+        "quando": "Morning, before the heat.",
+        "tempo": "1.5-2 hours",
+        "url": "https://www.baptismsite.com/",
+        "consiglio": "Bring a hat and water: the route is almost all in the sun."
       }
     ],
     programmi: [
@@ -356,7 +366,7 @@ export const destinazioniGiordania: Destinazione[] = [
         "nome": "Karak Castle",
         "testo": "A 12th-century crusader fortress on a spur of rock, later passing to Saladin and the Mamluks. You walk dark corridors, vaults, cisterns and underground halls, with the modern town around.",
         "come": "Reached from Madaba along the King's Highway in about 1.5 hours. You visit on your own, but some corridors are dark: bring a flashlight.",
-        "quando": "Morning, when there is less wind and the sun is still low.",
+        "quando": "Open 8am-5pm (2026). In the morning there is less wind and the sun is still low.",
         "tempo": "1-1.5 hours",
         "costo": "Included in the Jordan Pass (figure from my trip)",
         "url": "https://www.jordanpass.jo/"
@@ -367,6 +377,15 @@ export const destinazioniGiordania: Destinazione[] = [
         "come": "On the road between Madaba and Karak, about 10 km from Madaba. You drive up to the parking lot.",
         "quando": "A clear day, when from the terrace you see the Jordan Valley and sometimes the Dead Sea.",
         "tempo": "45 minutes"
+      },
+      {
+        "nome": "Shobak Castle",
+        "testo": "The crusader castle of Montréal, built in 1115 by Baldwin I on an isolated hill. It is less restored than Karak and wilder: you can also go down a tunnel cut into the rock that leads to a spring.",
+        "come": "On the King's Highway between Karak and Petra, about an hour from Wadi Musa. You visit on your own; bring a torch for the tunnel.",
+        "quando": "Open 8am-5pm (2026). Handy as a stop on the way to Petra.",
+        "tempo": "1 hour",
+        "costo": "Included in the Jordan Pass",
+        "url": "https://www.jordanpass.jo/"
       }
     ],
     programmi: [
@@ -462,10 +481,9 @@ export const destinazioniGiordania: Destinazione[] = [
         "nome": "The Siq and the Treasury (Al-Khazneh)",
         "testo": "The natural gorge about 1.2 km long between pink sandstone walls, which narrows until it suddenly shows the facade of the Treasury, about 40 meters high and carved into the rock.",
         "come": "From the entrance to the Treasury you walk about 30-40 minutes. You can hire a horse, but it only covers the stretch up to the start of the Siq.",
-        "quando": "The very first hour, when the Siq is empty and the light reaches the Treasury around 9-10.",
+        "quando": "The site opens at 6am (listed closing 5pm, 2026). Go in at the very first hour, when the Siq is empty; the light reaches the Treasury around 9-10am.",
         "tempo": "45 minutes",
-        "costo": "Included in the Jordan Pass",
-        "url": "https://www.jordanpass.jo/",
+        "costo": "JOD 50 for 1 day, 55 for 2, 60 for 3 if you spend at least one night in Jordan; JOD 90 as a day trip without an overnight stay. Included in the Jordan Pass.",
         "consiglio": "We found it almost deserted: seeing the Treasury appear from the Siq without a crowd is worth the trip on its own."
       },
       {
@@ -502,7 +520,8 @@ export const destinazioniGiordania: Destinazione[] = [
         "come": "By taxi or with the transfer from Wadi Musa in 15 minutes. You walk in the canyon.",
         "quando": "Afternoon, the day before Petra.",
         "tempo": "1.5-2 hours",
-        "consiglio": "Great for warming up before Petra, with few people."
+        "consiglio": "Great for warming up before Petra, with few people.",
+        "costo": "Free entry"
       }
     ],
     programmi: [
@@ -731,10 +750,19 @@ export const destinazioniGiordania: Destinazione[] = [
       },
       {
         "nome": "Seafront and beaches",
-        "testo": "The center is a seafront with cafes and an area of equipped beaches. You swim in a swimsuit in the facilities, with more modest dress outside.",
+        "testo": "The centre has a seafront with cafes and the public beach; further south are the equipped beaches of the resorts and the marine park. In town you dress modestly; swimwear is fine inside the facilities.",
         "come": "From the main hotels in 15 minutes by taxi.",
         "quando": "All day, especially in the afternoon.",
         "tempo": "Half a day"
+      },
+      {
+        "nome": "Aqaba Fort and museum",
+        "testo": "The small 16th-century Mamluk fort on the seafront, with the Hashemite coat of arms over the gate: the Arab Revolt reached it in 1917. Next door is the city's archaeological museum.",
+        "come": "On foot from the central seafront, near the flagpole.",
+        "quando": "Open 8am-5pm (2026). Late afternoon, before sunset over the sea.",
+        "tempo": "45 minutes",
+        "costo": "Included in the Jordan Pass",
+        "url": "https://www.jordanpass.jo/"
       }
     ],
     programmi: [

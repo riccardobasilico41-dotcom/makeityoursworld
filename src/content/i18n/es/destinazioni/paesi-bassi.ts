@@ -50,8 +50,9 @@ export const destinazioniPaesiBassi: Destinazione[] = [
         nome: "Rijksmuseum",
         testo: "El museo nacional neerlandés, con la Ronda de noche de Rembrandt, los Vermeer y los barcos en miniatura. El edificio tiene un jardín gratuito con esculturas y una plaza para las fotos.",
         come: "Tranvía 2 o 12 hasta el Rijksmuseum, 10 minutos del centro. Entrada online con hora.",
-        quando: "Temprano por la mañana o última hora de la tarde, para evitar el gentío ante la Ronda de noche.",
+        quando: "Todos los días de 9 a 17, festivos incluidos; temprano o a última hora para evitar la multitud ante La ronda de noche.",
         tempo: "3 horas",
+        costo: "25 € adultos (2026), gratis para menores de 18",
         url: "https://www.rijksmuseum.nl",
         consiglio: "Empezar por la planta de la Edad de Oro: en una hora se ven las salas más importantes."
       },
@@ -67,9 +68,10 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       {
         nome: "Casa de Ana Frank",
         testo: "El anexo secreto donde Ana Frank y su familia se escondieron de 1942 a 1944, sobre la empresa de su padre. El recorrido es estrecho y silencioso; no se permite fotografiar.",
-        come: "Las entradas se venden solo online en el sitio oficial, con semanas de antelación; no se compran en la puerta.",
+        come: "Las entradas se venden solo en línea en la web oficial: cada martes a las 10 salen las de las visitas seis semanas después. En la puerta no se venden.",
         quando: "Reservar en cuanto se decidan las fechas; en Prinsengracht, a 15 minutos del centro.",
         tempo: "1-1,5 horas",
+        costo: "16,50 € adultos, con 1 € de gastos de gestión (web oficial, 2026)",
         url: "https://www.annefrank.org",
         consiglio: "Desconfiar de los revendedores: el sitio oficial es el único fiable."
       },

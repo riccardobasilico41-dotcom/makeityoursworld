@@ -33,7 +33,7 @@ export const destinazioniBolivia: Destinazione[] = [
       "Vuelo internacional a El Alto (LPB), uno de los aeropuertos más altos del mundo, a más de 4.000 metros: se pasa del nivel del mar a la altitud máxima en pocas horas, con efectos que se notan enseguida. Por tierra, autobús desde Copacabana (unas 4 horas) o desde Cusco pasando por el Titicaca.",
     comeSpostarsi: "Mi Teleférico para los desplazamientos largos, radiotaxi para el resto. Evitar los taxis no oficiales, sobre todo de noche.",
     periodoMigliore: "mayo-octubre, estación seca; las noches son frías todo el año",
-    costi: "viaje en teleférico unos pocos céntimos de euro; la ciudad es una de las capitales más baratas del mundo",
+    costi: "viaje en teleférico 3 bolivianos, menos de medio euro; la ciudad es una de las capitales más baratas del mundo",
     erroriDaEvitare: [
       "Aterrizar en El Alto y programar algo exigente el mismo día: del nivel del mar a 4.000 metros el cuerpo no se adapta en pocas horas",
       "Subestimar los bloqueos de carreteras: cuando los hay, pueden aislar la ciudad durante días y hacer saltar vuelos y traslados",
@@ -48,7 +48,8 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "Las estaciones están por toda la ciudad; el billete se compra en la estación.",
         "quando": "Al atardecer, cuando la hoya se ilumina.",
         "tempo": "1-2 horas",
-        "costo": "Unos pocos céntimos de euro por viaje",
+        "costo": "3 bolivianos por viaje, menos de medio euro (2025-2026); el cambio de línea se paga aparte",
+        "url": "https://www.miteleferico.bo/",
         "consiglio": "Rick las recomienda a todos: cuestan muy poco y dan la mejor vista de la hoya."
       },
       {
@@ -194,7 +195,7 @@ export const destinazioniBolivia: Destinazione[] = [
     comeSpostarsi: "Solo en 4x4 con conductor, en el marco del tour organizado: no es una zona para recorrer por cuenta propia.",
     periodoMigliore:
       "Dos estaciones, dos experiencias distintas. De mayo a octubre el salar está seco y es transitable por completo, con cielos limpios y noches gélidas. De enero a marzo una lámina de agua lo transforma en el espejo gigante de las fotografías más famosas, pero algunas zonas, Isla Incahuasi incluida, pueden volverse inaccesibles.",
-    costi: "tour de 3 días, más o menos 150-250 $ por persona según el operador, con la entrada al parque Eduardo Avaroa aparte",
+    costi: "tour de 3 días, más o menos 150-250 $ por persona según el operador, con la entrada a la reserva Eduardo Avaroa aparte (unos 150 bolivianos en efectivo, según los operadores) e Isla Incahuasi aparte (unos 30 bolivianos)",
     erroriDaEvitare: [
       "Elegir el operador solo por el precio: los vehículos y el mantenimiento marcan una diferencia real en pistas aisladas a 4.500 metros, donde una avería es un problema serio",
       "Ir de enero a marzo esperando verlo todo: con el agua el efecto espejo es espectacular pero varias paradas se pierden",
@@ -210,7 +211,7 @@ export const destinazioniBolivia: Destinazione[] = [
         "come": "Solo en 4x4 con conductor, dentro del tour organizado, con salida desde Uyuni.",
         "quando": "Mayo-octubre: salar seco y transitable entero. Enero-marzo: el efecto espejo, pero algunas paradas se pierden.",
         "tempo": "Medio día o un día",
-        "costo": "Tour de 3 días aproximadamente 150-250 dólares por persona, entrada a la reserva Eduardo Avaroa aparte",
+        "costo": "Tour de 3 días aproximadamente 150-250 dólares por persona. Aparte, en efectivo: reserva Eduardo Avaroa unos 150 bolivianos e Isla Incahuasi unos 30 (datos de los operadores, por reconfirmar)",
         "consiglio": "Para las fotos en perspectiva lleva objetos pequeños y aprovecha la luz del amanecer."
       },
       {

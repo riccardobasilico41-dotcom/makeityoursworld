@@ -73,7 +73,7 @@ export const destinazioniPolonia: Destinazione[] = [
       },
       {
         nome: "Kazimierz",
-        testo: "The former autonomous Jewish town founded in 1335, with the Old Synagogue (the oldest in Poland), the Remuh synagogue and the cemetery. Today it is also the district of cafes, galleries and venues.",
+        testo: "The town founded in 1335 by Casimir the Great and for centuries the heart of Kraków's Jewish life, with the Old Synagogue (the oldest surviving synagogue in Poland), the Remuh synagogue and the cemetery. Today it is also the district of cafes, galleries and venues.",
         come: "On foot or by tram from Stare Miasto (10 minutes).",
         quando: "Daytime for the synagogues; evening for the venues.",
         tempo: "3 hours",

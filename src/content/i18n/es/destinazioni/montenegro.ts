@@ -35,7 +35,7 @@ export const destinazioniMontenegro: Destinazione[] = [
     luoghi: [
       {
         nome: "Casco antiguo de Kotor",
-        testo: "Un laberinto de calles medievales venecianas dentro de murallas del siglo XIV, patrimonio UNESCO. Plazas diminutas, iglesias románicas y la catedral de San Trifón, consagrada en 1166.",
+        testo: "Un laberinto de callejas medievales dentro de murallas construidas y ampliadas durante siglos, sobre todo por los venecianos: patrimonio de la UNESCO. Plazas diminutas, iglesias románicas y la catedral de San Trifón, consagrada en 1166. Los gatos están por todas partes, y la ciudad los ha convertido en un símbolo.",
         come: "Se llega en coche o autobús a los aparcamientos fuera de las murallas y se entra por la Puerta del Mar. Se visita a pie sin guía.",
         quando: "A primera hora o por la tarde. Entre las 10 y las 16, con cruceros en puerto, las calles se llenan.",
         tempo: "2-3 horas",
@@ -47,7 +47,8 @@ export const destinazioniMontenegro: Destinazione[] = [
         come: "El sendero parte del casco antiguo y son escalones irregulares: unos 1.350. Calzado cerrado y agua.",
         quando: "A la apertura o a última hora de la tarde, nunca en las horas de calor del verano. Arriba no hay sombra.",
         tempo: "1 hora y media entre subida, descanso y bajada",
-        consiglio: "Comprobar el horario de la taquilla: hay también una entrada lateral, menos concurrida."
+        costo: "15 € por persona, solo en efectivo (2026), en el horario con taquilla abierta.",
+        consiglio: "Comprobar el horario de la taquilla y entrar solo por los accesos oficiales: en 2026 el ayuntamiento cerró los huecos no autorizados en las murallas."
       },
       {
         nome: "Perast y los islotes",
@@ -180,9 +181,9 @@ export const destinazioniMontenegro: Destinazione[] = [
         nome: "Cetinje",
         testo: "La antigua capital histórica de Montenegro, con palacios de embajadas del siglo XIX y el pequeño palacio del rey Nicolás. El monasterio de Cetinje guarda reliquias de San Pedro y el Museo Nacional tiene la Biljarda, donde vivió Njegoš.",
         come: "A unos 25 minutos en coche desde Njeguši. En la ciudad se camina.",
-        quando: "Por la mañana. Muchos museos cierran los lunes y festivos: comprobar.",
+        quando: "Por la mañana. Horarios y días de cierre de los museos en la web oficial.",
         tempo: "2-3 horas",
-        consiglio: "El museo del rey Nicolás y la Biljarda se visitan con guía en italiano o inglés."
+        consiglio: "El Museo del rey Nikola, la Biljarda y el monasterio están a pocos minutos a pie unos de otros: medio día basta para todos."
       }
     ],
     programmi: [
@@ -251,7 +252,7 @@ export const destinazioniMontenegro: Destinazione[] = [
     comeSpostarsi: 'Coche, autobuses costeros, taxi.',
     periodoMigliore: 'junio y septiembre.',
     costi: 'Tumbonas y sombrillas 15-30 € al día en temporada alta.',
-    erroriDaEvitare: ['Esperar una Budva tranquila en agosto', 'Contar con visitar la isla de Sveti Stefan: está reservada a los huéspedes del resort'],
+    erroriDaEvitare: ['Esperar una Budva tranquila en agosto', 'Contar con visitar la isla de Sveti Stefan: el hotel está cerrado desde 2020 y la isla no se visita'],
     luoghi: [
       {
         nome: "Casco antiguo de Budva",
@@ -263,8 +264,8 @@ export const destinazioniMontenegro: Destinazione[] = [
       },
       {
         nome: "Sveti Stefan",
-        testo: "Un islote-pueblo de piedra unido a tierra por un istmo, convertido en resort de lujo. La famosa vista es desde el mirador de la carretera sobre la bahía.",
-        come: "A unos 6 km de Budva. La isla solo es accesible para huéspedes del hotel y clientes de sus restaurantes.",
+        testo: "Un islote-pueblo de piedra unido a tierra por un istmo, convertido en resort de lujo. El hotel que lo ocupa está cerrado desde 2020 y la isla no se visita. La famosa estampa se ve desde el mirador de la carretera sobre la bahía.",
+        come: "A unos 6 km de Budva. Se contempla desde el mirador y desde las playas a ambos lados del istmo; comprobar allí si el hotel ha reabierto.",
         quando: "Final de la tarde, con luz dorada sobre las piedras.",
         tempo: "30 minutos de parada panorámica",
         consiglio: "Se puede bajar a las playas a los lados del istmo, pero en verano son de pago."
@@ -276,6 +277,14 @@ export const destinazioniMontenegro: Destinazione[] = [
         quando: "Junio y septiembre por el mar y los precios más bajos.",
         tempo: "media jornada",
         consiglio: "Buena base para quien quiere mar sin la vida nocturna de Budva."
+      },
+      {
+        nome: "Playa de Mogren",
+        testo: "Dos pequeñas calas de arena y grava justo fuera de las murallas del casco antiguo, cerradas por acantilados y unidas por un paso en la roca. Se llega por un sendero sobre el mar que sale del lado sur de las murallas. Es la playa más bonita cerca del centro, pero en agosto se llena pronto.",
+        come: "A pie desde el casco antiguo, unos 10 minutos por el sendero costero.",
+        quando: "Temprano por la mañana en verano; junio y septiembre son más tranquilos.",
+        tempo: "medio día",
+        consiglio: "Tumbonas y sombrillas son de pago: quien quiera extender la toalla debe llegar pronto para encontrar la zona libre."
       }
     ],
     programmi: [
@@ -348,7 +357,7 @@ export const destinazioniMontenegro: Destinazione[] = [
     luoghi: [
       {
         nome: "Virpazar y el paseo en barca",
-        testo: "El pueblo de pescadores en la orilla norte del lago, de donde salen las barcas entre nenúfares, cañas y pelícanos. El Parque Nacional del Lago Skadar es la mayor reserva de aves acuáticas de los Balcanes.",
+        testo: "El pueblo de pescadores en la orilla norte del lago, de donde salen las barcas entre nenúfares, cañaverales y pelícanos. El Parque Nacional del Lago Skadar es una de las mayores reservas de aves de Europa.",
         come: "A 30 minutos en coche de Podgorica. Las barcas salen del muelle y de las agencias del pueblo.",
         quando: "Mañana o final de la tarde para ver aves. Nenúfares en flor en junio y julio.",
         tempo: "2-3 horas",
@@ -356,7 +365,7 @@ export const destinazioniMontenegro: Destinazione[] = [
       },
       {
         nome: "Pavlova Strana",
-        testo: "Un mirador en la carretera sobre el lago donde un meandro del río Crnojević dibuja un corazón. La vista más fotografiada de la zona.",
+        testo: "Un mirador en la carretera sobre el lago donde el río Crnojević traza un meandro en herradura alrededor de una lengua de tierra verde. Es el panorama más fotografiado de la zona, con las montañas de Albania al fondo en los días claros.",
         come: "En coche desde Virpazar por carretera de montaña, unos 20 minutos.",
         quando: "Final de la tarde.",
         tempo: "30 minutos",
@@ -451,7 +460,7 @@ export const destinazioniMontenegro: Destinazione[] = [
         come: "En la carretera que sube al monasterio superior.",
         quando: "Todo el año.",
         tempo: "30 minutos",
-        consiglio: "Visitarlo a la vuelta, cuando el aparcamiento está más tranquilo."
+        consiglio: "Visitarlo a la vuelta, cuando ya se ha hecho la cola del monasterio superior."
       }
     ],
     programmi: [

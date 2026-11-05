@@ -48,7 +48,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Playa Marlin and Playa Gaviota",
-          "testo": "Free public beaches in the middle of the hotel zone, with no paid sunbeds.",
+          "testo": "Free public beaches in the middle of the hotel zone, with no paid loungers. They are among the few free accesses to the sea in this part of the city; the water is rougher than on Isla Mujeres, so check the lifeguards' flag before swimming.",
           "come": "Local R1 bus from the centre.",
           "quando": "Morning.",
           "tempo": "Half a day"
@@ -63,7 +63,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Coco Bongo",
-          "testo": "The city's most famous show club.",
+          "testo": "The most famous show club in the city, in the hotel zone: acrobats, live music and film-inspired acts until late at night. The price varies a lot depending on where you stand or sit (general, bar or table), so check what the ticket includes before buying.",
           "come": "Tickets from resellers.",
           "quando": "Evening.",
           "tempo": "An evening",
@@ -160,21 +160,23 @@ export const destinazioniMessico: Destinazione[] = [
           "come": "From Valladolid about 40 minutes by car or taxi, or a guided tour.",
           "quando": "Morning, at opening, before the coaches and the heat.",
           "tempo": "3-4 hours",
+          "costo": "697 MXN for foreigners, with a single federal and state ticket at one desk since 27 March 2026; Sundays are free only for Mexicans and residents.",
           "url": "https://www.inah.gob.mx/",
           "consiglio": "For Chichén Itzá I recommend a guide: Alejandro speaks Spanish and English, was born 20 minutes from the site and is very well prepared."
         },
         {
           "nome": "Ek Balam",
-          "testo": "A smaller, far less crowded Maya site, with a climbable acropolis and stucco decorations.",
+          "testo": "A smaller, far less crowded Maya site, with a large acropolis and very well preserved stucco decorations, such as the 'monster mouth' at the tomb entrance. Whether you can climb to the top depends on the current rules: ask at the ticket office.",
           "come": "From Valladolid about 30 minutes by taxi.",
           "quando": "Morning.",
           "tempo": "2 hours",
+          "costo": "About 690 MXN for foreigners, federal and state fee combined (2026).",
           "url": "https://www.inah.gob.mx/",
           "consiglio": "Often underrated: combine it with the Xcanché cenote right next to it."
         },
         {
           "nome": "Cenote Xcanché",
-          "testo": "An open-air cenote near Ek Balam, with jumps and lianas.",
+          "testo": "An open-air cenote near Ek Balam, with jumps and lianas. You go down a stairway in the rock to the water, surrounded by hanging roots and plants; there is bike rental and a small restaurant around it.",
           "come": "Taxi or bike from Ek Balam.",
           "quando": "Morning or early afternoon.",
           "tempo": "1-2 hours"
@@ -396,7 +398,7 @@ export const destinazioniMessico: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Cathedral Square",
-          "testo": "The central square of the historic centre, very well kept, with the cathedral and the typical shoe-shiners.",
+          "testo": "The main square of the historic centre, well kept, with the cathedral and the typical shoeshiners. The pastel facades of the houses around it are the Campeche of the photos; in the evening the square fills with families and sweet sellers.",
           "come": "On foot.",
           "quando": "Morning and evening.",
           "tempo": "1 hour"
@@ -410,11 +412,28 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Walls and bastions",
-          "testo": "Campeche is a fortified 17th-century city, a UNESCO site, with bastions and forts built against pirates.",
+          "testo": "Campeche is a fortified city, a UNESCO site since 1999, with walls and bastions built in the 17th and 18th centuries against pirate attacks. Some bastions house small museums and gardens; part of the walls can be walked.",
           "come": "On foot along the walls.",
           "quando": "Morning.",
           "tempo": "2 hours",
           "url": "https://www.inah.gob.mx/"
+        },
+        {
+          "nome": "Fuerte de San Miguel",
+          "testo": "A fort on the hill south-west of the centre, with a moat and cannons facing the Gulf. Inside is the archaeological museum with the jade masks from Calakmul; the sunset over the sea from its ramparts is one of the best in town.",
+          "come": "Taxi from the centre, about 10 minutes.",
+          "quando": "Late afternoon; like many INAH museums, check the Monday closure.",
+          "tempo": "1-2 hours",
+          "url": "https://www.inah.gob.mx/"
+        },
+        {
+          "nome": "Edzná",
+          "testo": "An inland Maya site with the Building of the Five Storeys, a terraced pyramid on a large plaza. It sees few visitors compared with the Yucatán sites, and you walk it almost alone, among iguanas and silence.",
+          "come": "Car, taxi or tour from Campeche, about an hour.",
+          "quando": "Early morning, before the heat.",
+          "tempo": "Half a day",
+          "url": "https://www.inah.gob.mx/",
+          "consiglio": "Bring water and a hat: there is little shade."
         }
       ],
       "programmi": [
@@ -444,25 +463,27 @@ export const destinazioniMessico: Destinazione[] = [
       "sapori": [
         {
           "nome": "Pan de cazón",
-          "testo": "Tortillas with dogfish and beans, a Campeche speciality."
+          "testo": "Layered tortillas with shredded cazón (a small shark), black beans and tomato sauce. It is the city's signature dish, found in downtown restaurants and loncherías."
         },
         {
           "nome": "Camarones al coco",
-          "testo": "Coconut-crusted prawns."
+          "testo": "Shrimp fried in a crust of grated coconut, often with a sweet fruit sauce. Order them in the seafood restaurants on the waterfront."
         },
         {
-          "nome": "Pescado a la campechana",
-          "testo": "Fish with tomato and olive sauce."
+          "nome": "Coctel campechano",
+          "testo": "A cold glass of mixed seafood, such as shrimp, octopus and oysters, with tomato sauce, lime and avocado. In Mexico 'campechano' simply means 'mixed'."
         },
         {
-          "nome": "Prawn cocktail",
-          "testo": "Street food, on the waterfront."
+          "nome": "Panuchos and codzitos",
+          "testo": "Fried tortillas filled with beans and small rolled tacos with tomato sauce: the peninsula's antojitos, in markets and at street suppers."
         }
       ],
       "attenzioni": [
         "The next day's transfer towards Mahahual is very long and crosses a time zone: leave early.",
         "The centre is quiet in the evening, but avoid empty streets outside the walls.",
-        "Low prices: do not pay more for improvised tours."
+        "Low prices: do not pay more for improvised tours.",
+        "Many INAH museums, including those in the forts, close on Mondays: check before planning the day.",
+        "From April to October the humid heat is intense: go out early in the morning and at sunset, and drink plenty."
       ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-beach-life'],
@@ -503,7 +524,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Snorkelling with turtles",
-          "testo": "A boat trip a few metres off the coast, where green turtles live in the reef.",
+          "testo": "A boat trip a few metres off the coast, where green turtles live on the reef. Here the reef is very close to shore and far less busy than on the Riviera Maya: you also see rays, parrotfish and soft corals.",
           "come": "Tour from the waterfront with an operator.",
           "quando": "Morning.",
           "tempo": "2-3 hours"
@@ -514,6 +535,14 @@ export const destinazioniMessico: Destinazione[] = [
           "come": "Booking with a local property.",
           "quando": "Evening.",
           "tempo": "2-3 hours"
+        },
+        {
+          "nome": "Banco Chinchorro",
+          "testo": "A biosphere reserve off Mahahual, one of the largest coral atolls in the Caribbean, with pristine reefs and wrecks. It is the finest trip in the area but also the most weather-dependent: in strong wind trips are cancelled.",
+          "come": "Only with authorised operators from Mahahual or Xcalak, by fast boat.",
+          "quando": "Morning, with a calm sea; best in the dry months.",
+          "tempo": "Full day",
+          "consiglio": "Ask how many hours of sailing there are and what the price includes (park fee, lunch, gear)."
         }
       ],
       "programmi": [
@@ -547,26 +576,28 @@ export const destinazioniMessico: Destinazione[] = [
       ],
       "sapori": [
         {
-          "nome": "Ceviche and fried fish",
-          "testo": "Fresh, on the waterfront."
+          "nome": "Whole fried fish and ceviche",
+          "testo": "The catch of the day fried whole, with rice, salad and tortillas, in the waterfront restaurants. At lunchtime go for fish or shrimp ceviche."
+        },
+        {
+          "nome": "Pez león",
+          "testo": "Lionfish is an invasive species in the Caribbean and here it is gladly cooked: in ceviche, fried or in tacos. Ordering it also helps the reef."
         },
         {
           "nome": "Fish tacos",
-          "testo": "From street stalls."
-        },
-        {
-          "nome": "Seafood",
-          "testo": "Prawns and lobster, in seaside restaurants."
+          "testo": "Battered or griddled fish in a corn tortilla, with cabbage, salsa and lime. At the village stalls they cost far less than on the seafront."
         },
         {
           "nome": "Agua fresca",
-          "testo": "Fruit drinks, for the heat."
+          "testo": "Fruit waters in big glasses: jamaica, horchata, lime with chaya. Good for the Caribbean heat, instead of fizzy drinks."
         }
       ],
       "attenzioni": [
         "Arrival day has a tight schedule: if you slip on the earlier stops (especially Balam Ku) the rest of the day falls apart.",
         "On cruise days the waterfront is crowded and prices rise.",
-        "Strong sun: reef-safe sunscreen and water."
+        "Strong sun: reef-safe sunscreen and water.",
+        "Few ATMs, sometimes out of cash: arrive with enough pesos.",
+        "Between spring and summer sargassum can arrive: ask locally which beaches are clean."
       ],
     esperienzeSlugs: ['snorkeling-tartarughe-mahahual', 'temazcal'],
     tripSlugs: ['messico-beach-life'],
@@ -723,12 +754,13 @@ export const destinazioniMessico: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Tulum archaeological site",
-          "testo": "A Maya city on a cliff above the Caribbean, the only Maya site in Mexico facing the sea. El Castillo and the Temple of the Wind God are the key points.",
-          "come": "From Tulum town by taxi or bike. INAH entry; the beach below the site is accessible.",
+          "testo": "A Maya city on the cliff above the Caribbean, one of the few Maya sites facing the sea. El Castillo and the Temple of the Wind God are the key points; the walls enclosing the city on three sides explain the name Tulum, 'wall' in Maya (its ancient name was Zamá, 'dawn').",
+          "come": "From Tulum town by taxi or bike; inside Parque del Jaguar a paid electric shuttle runs to the entrance. The small beach below the site is sometimes closed (sargassum or turtle nesting).",
           "quando": "Morning, before the heat and the coaches.",
           "tempo": "2 hours",
+          "costo": "265 MXN for foreigners, archaeological zone and protected area combined (2026); the internal electric shuttle is about 20 MXN.",
           "url": "https://www.inah.gob.mx/",
-          "consiglio": "A swim in the cove below the cliff after the visit."
+          "consiglio": "A swim in the cove below the cliff after the visit, if access is open."
         },
         {
           "nome": "Cenote Dos Ojos",
@@ -755,7 +787,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Xcacel",
-          "testo": "A protected beach with turtle hatching from April to October. Entry 100 MXN, food, alcohol and speakers banned, open 10 to 16, closed on Monday.",
+          "testo": "A protected beach, one of the last on the coast without hotels, where turtles lay their eggs between spring and summer. The rules are strict: no food, alcohol or speakers; entry fee, hours and closing days should be checked locally.",
           "come": "Taxi or car from Tulum.",
           "quando": "Morning.",
           "tempo": "2-3 hours"

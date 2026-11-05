@@ -53,6 +53,7 @@ export const destinazioniBelize: Destinazione[] = [
           "come": "Excursión en barco de media jornada desde Caye Caulker, con guía y equipo. La tasa del parque marino a menudo no está incluida en el precio.",
           "quando": "Por la mañana, con el mar más tranquilo; mejor época de diciembre a abril.",
           "tempo": "4-5 horas",
+          "costo": "Tasa de la reserva 15 USD por persona (desde 2024), a menudo no incluida en el precio del tour.",
           "url": "https://www.travelbelize.org/",
           "consiglio": "De quien ha ido: en el agua a un metro de tiburones nodriza y rayas que no hacen caso a quien los mira. Antes de reservar, preguntar qué incluye el precio."
         },
@@ -113,7 +114,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Ceviche de caracola (conch)",
-          "testo": "La caracola cruda marinada en lima con cebolla y cilantro. Es un producto local y se come fresco."
+          "testo": "Caracol (conch) crudo marinado en limón con cebolla y cilantro. Es un producto local y se come fresco; la pesca está cerrada de julio a septiembre, así que en esos meses no debería estar en el menú."
         },
         {
           "nome": "Langosta",
@@ -178,6 +179,7 @@ export const destinazioniBelize: Destinazione[] = [
           "come": "Excursión en barco de media jornada reservada en San Pedro; equipo incluido. Tasa del parque a menudo aparte.",
           "quando": "Por la mañana; diciembre-abril.",
           "tempo": "4 horas",
+          "costo": "Tasa de la reserva 15 USD por persona (desde 2024), a menudo no incluida en el precio del tour.",
           "url": "https://www.travelbelize.org/",
           "consiglio": "Se llega antes, así que en el mismo recorrido cabe otra parada de snorkel."
         },
@@ -340,7 +342,7 @@ export const destinazioniBelize: Destinazione[] = [
         {
           "nome": "Rio On Pools y Mountain Pine Ridge",
           "testo": "Una serie de cascadas pequeñas y pozas naturales en el Rio On, en un bosque de pinos de altiplano. Se nada y se resbala por las rocas lisas.",
-          "come": "En coche o taxi desde San Ignacio (unos 45 minutos). Entrada gratuita.",
+          "come": "En auto o taxi desde San Ignacio (unos 45 minutos).",
           "quando": "Por la tarde, con el agua más tibia.",
           "tempo": "1-2 horas",
           "consiglio": "Zapatos de agua: las rocas resbalan."
@@ -466,7 +468,7 @@ export const destinazioniBelize: Destinazione[] = [
         },
         {
           "nome": "Hopkins y la cultura garífuna",
-          "testo": "Pueblo garífuna junto al mar. Los garífuna son descendientes de africanos que nunca fueron esclavizados, con lengua, cocina y percusiones propias, protegidas por la UNESCO.",
+          "testo": "Pueblo garífuna frente al mar. Los garífunas descienden de africanos occidentales y de pueblos caribes de las Antillas Menores, deportados a esta costa a fines del siglo XVIII; su lengua, danza y música son patrimonio inmaterial de la UNESCO.",
           "come": "Desde Placencia 40-50 minutos en coche o lanzadera. En el pueblo se va a pie.",
           "quando": "Tarde-noche para los tambores, mañana para la comida.",
           "tempo": "Media jornada",

@@ -32,7 +32,7 @@ export const destinazioniCroazia: Destinazione[] = [
       {
         nome: "Città Alta (Gornji grad)",
         testo: "Il nucleo medievale su una collina, con la chiesa di San Marco dal tetto a tegole colorate, la torre Lotrščak (dove un cannone spara ogni giorno a mezzogiorno) e vicoli di lampioni a gas.",
-        come: "Dalla Città Bassa a piedi o con la funicolare, tra le più brevi del mondo (circa 60 metri).",
+        come: "Dalla Città Bassa a piedi o con la funicolare, tra le più brevi del mondo (66 metri di binario).",
         quando: "Mattina o tardo pomeriggio. Il cannone spara a mezzogiorno.",
         tempo: "2 ore",
         consiglio: "Salire a piedi da via Tkalčićeva e scendere con la funicolare."
@@ -52,6 +52,15 @@ export const destinazioniCroazia: Destinazione[] = [
         quando: "Mattina o pomeriggio, evitando il fine settimana.",
         tempo: "1 ora",
         consiglio: "Si legge tutto in inglese: prevedere il tempo per leggere le didascalie."
+      },
+      {
+        nome: "Cimitero di Mirogoj",
+        testo: "Il cimitero monumentale della città, disegnato dall'architetto Hermann Bollé a fine Ottocento. Un lungo porticato con cupole verdi e muri coperti d'edera racchiude tombe di ogni fede, una accanto all'altra. È uno dei posti più belli e tranquilli di Zagabria, e pochi turisti ci arrivano.",
+        come: "Con il bus 106 dalla cattedrale, circa 10 minuti, oppure a piedi in mezz'ora in salita.",
+        quando: "Mattina o tardo pomeriggio; a inizio novembre è pieno di lumini.",
+        tempo: "1 ora",
+        costo: "Gratuito.",
+        consiglio: "Restare sui viali e abbassare la voce: è un cimitero in uso."
       }
     ],
     programmi: [
@@ -132,6 +141,7 @@ export const destinazioniCroazia: Destinazione[] = [
         come: "Ingresso 2 per i laghi superiori. Sentieri segnati con lettere (A-K) e battello elettrico sul Kozjak incluso nel biglietto.",
         quando: "All'apertura o dopo le 15, per evitare le ore dei pullman. Il periodo più verde è tra maggio e giugno; in autunno i colori sono più intensi.",
         tempo: "4-6 ore per un percorso completo",
+        costo: "40 € da giugno a settembre, 23 € in aprile, maggio e ottobre, meno in inverno; nel pomeriggio d'estate costa meno (2026). Comprare solo sul sito ufficiale.",
         url: "https://np-plitvicka-jezera.hr/en/",
         consiglio: "In alta stagione il biglietto è a orario e va prenotato sul sito ufficiale."
       },
@@ -145,7 +155,7 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Laghi inferiori e canyon",
-        testo: "Un tratto più selvaggio e meno affollato, con pareti di roccia, grotte e cascate che escono dal calcare.",
+        testo: "Un tratto più selvaggio e meno affollato, con pareti di roccia, grotte e cascate che escono dal calcare. Le passerelle passano a pelo d'acqua tra i laghi Milanovac, Gavanovac e Kaluđerovac, fino al canyon dove i laghi finiscono nella Korana. Dal sentiero in alto si guarda tutta la scala di laghi dall'alto, la vista delle cartoline.",
         come: "A piedi dall'ingresso 1 lungo il sentiero indicato.",
         quando: "Mattina.",
         tempo: "2 ore",
@@ -252,6 +262,7 @@ export const destinazioniCroazia: Destinazione[] = [
         come: "Da Sebenico circa 45 minuti. Si parte dall'ingresso di Skradin con battello incluso nel biglietto.",
         quando: "Mattina presto o fine giornata. Maggio-giugno e settembre.",
         tempo: "3-4 ore",
+        costo: "Circa 40 € in alta stagione, 20 € in primavera e autunno, molto meno in inverno (2026); da aprile a ottobre comprende il battello da Skradin.",
         url: "https://np-krka.hr/en/",
         consiglio: "Il bagno ai piedi delle cascate non è più consentito."
       },
@@ -364,7 +375,7 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Collina di Marjan",
-        testo: "Il parco boscoso sopra la città, con sentieri, chiesette e un belvedere sul porto e sulle isole.",
+        testo: "Il parco boscoso sopra la città, con sentieri, chiesette e un belvedere sul porto e sulle isole. Una scalinata dal quartiere di Veli Varoš porta al primo belvedere con il caffè; più avanti la pineta continua fino alla cima del Telegrin e alle piccole spiagge sul lato del mare aperto. È il posto dove vanno gli spalatini a correre e a fare il bagno, lontano dalla folla del palazzo.",
         come: "A piedi dal quartiere Veli Varoš, circa 20 minuti di salita fino al belvedere.",
         quando: "Tardo pomeriggio.",
         tempo: "2 ore",
@@ -458,7 +469,7 @@ export const destinazioniCroazia: Destinazione[] = [
     luoghi: [
       {
         nome: "Hvar città e fortezza Spagnola",
-        testo: "Una cittadina veneziana sul mare con una piazza grande quanto un campo da calcio, la cattedrale e, sopra, la fortezza (Fortica) del Cinquecento con vista sulle isole Pakleni.",
+        testo: "Una cittadina veneziana sul mare con la piazza più grande della Dalmazia, la cattedrale di Santo Stefano e il teatro del Seicento sopra l'arsenale. Sopra il paese c'è la fortezza (Fortica) del Cinquecento, con la vista sul porto e sulle isole Pakleni.",
         come: "A piedi dal porto. Fortezza con salita di circa 15 minuti.",
         quando: "Fortezza al mattino o tardo pomeriggio, per il caldo.",
         tempo: "2-3 ore",
@@ -479,6 +490,14 @@ export const destinazioniCroazia: Destinazione[] = [
         quando: "Primavera e autunno.",
         tempo: "2-3 ore",
         consiglio: "Il traghetto da Spalato arriva a Stari Grad, non a Hvar città."
+      },
+      {
+        nome: "Stari Grad",
+        testo: "La città più antica dell'isola, fondata dai greci di Paro nel 384 a.C. con il nome di Pharos. Il porto stretto e lungo è pieno di barche e case di pietra, e al centro c'è il Tvrdalj, la villa fortificata del poeta Petar Hektorović con la vasca dei pesci. È più tranquilla e meno cara di Hvar città.",
+        come: "Qui arriva il traghetto auto da Spalato; da Hvar città sono circa 20 minuti in auto o in bus.",
+        quando: "Mattina o sera; tutto l'anno, anche fuori stagione.",
+        tempo: "2 ore",
+        consiglio: "Unire la visita alla piana di Stari Grad, che comincia appena fuori dal paese."
       }
     ],
     programmi: [
@@ -570,7 +589,7 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Moreška",
-        testo: "Una danza con spade che mette in scena la lotta tra mori e cristiani, eseguita a Curzola da secoli. In estate si vede una volta a settimana.",
+        testo: "Una danza con spade che mette in scena la lotta tra mori e cristiani per una ragazza rapita, eseguita a Curzola da secoli. Due eserciti in costume rosso e nero si affrontano con colpi ritmati e scintille sulle lame. In estate ci sono spettacoli fissi più volte a settimana.",
         come: "Di sera all'aperto o in sala, con biglietto.",
         quando: "Estate, ore serali.",
         tempo: "1 ora",
@@ -672,6 +691,7 @@ export const destinazioniCroazia: Destinazione[] = [
         come: "Si sale dalla Porta Pile o dal lato del porto; il percorso è a senso unico.",
         quando: "All'apertura o nel tardo pomeriggio: a mezzogiorno è caldo e affollato.",
         tempo: "1 ora e mezza-2 ore",
+        costo: "Circa 40 € (2026); lo stesso prezzo della Dubrovnik Card di un giorno, che include anche il forte Lovrijenac e alcuni musei.",
         consiglio: "Portare acqua e un cappello: ci sono pochi punti d'ombra."
       },
       {
@@ -684,10 +704,11 @@ export const destinazioniCroazia: Destinazione[] = [
       },
       {
         nome: "Funivia e monte Srđ",
-        testo: "Dalla stazione sotto le mura la funivia sale in pochi minuti sul monte Srđ, con la vista su tutta la città e le isole.",
+        testo: "Dalla stazione sopra le mura la funivia sale in pochi minuti sul monte Srđ, a circa 400 metri, con la vista su tutta la città e le isole. In cima c'è il Forte Imperiale napoleonico, che ospita il museo sulla guerra degli anni Novanta, quando la città fu assediata. Al tramonto i tetti rossi e Lokrum si colorano, ed è il momento migliore.",
         come: "Dalla stazione vicino a Porta Buža, a piedi.",
         quando: "Tardo pomeriggio per il tramonto.",
         tempo: "1-2 ore",
+        costo: "Circa 30 € andata e ritorno (2026); non è compresa nella Dubrovnik Card.",
         consiglio: "Prenotare l'ora di salita al tramonto: le code possono essere lunghe."
       },
       {
@@ -697,6 +718,14 @@ export const destinazioniCroazia: Destinazione[] = [
         quando: "Mattina per le mura e pranzo con le ostriche.",
         tempo: "mezza giornata",
         consiglio: "Le mura si salgono a pagamento, ma la camminata è faticosa."
+      },
+      {
+        nome: "Isola di Lokrum",
+        testo: "L'isola boscosa davanti alla città vecchia, riserva naturale senza auto e senza alberghi. Ci sono il monastero benedettino con l'orto botanico, il forte napoleonico in cima, i pavoni liberi e il «Mar Morto», un laghetto di acqua salata dove si fa il bagno. Si nuota dagli scogli, lontano dalla folla dello Stradun.",
+        come: "Barche dal porto vecchio, circa 15 minuti; il biglietto comprende traversata e ingresso.",
+        quando: "Da aprile a ottobre, di mattina; l'ultima barca rientra nel tardo pomeriggio.",
+        tempo: "mezza giornata",
+        consiglio: "Di notte non si può restare sull'isola: controllare l'orario dell'ultima barca."
       }
     ],
     programmi: [

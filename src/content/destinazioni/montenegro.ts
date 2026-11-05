@@ -39,7 +39,7 @@ export const destinazioniMontenegro: Destinazione[] = [
     luoghi: [
       {
         nome: "Città vecchia di Kotor",
-        testo: "Un labirinto di vicoli medievali veneziani dentro mura del Trecento, patrimonio UNESCO. Piazze minuscole, chiese romaniche e la cattedrale di San Trifone, consacrata nel 1166.",
+        testo: "Un labirinto di vicoli medievali dentro mura costruite e ampliate per secoli, soprattutto dai veneziani: patrimonio UNESCO. Piazze minuscole, chiese romaniche e la cattedrale di San Trifone, consacrata nel 1166. I gatti sono ovunque, e la città ne ha fatto un simbolo.",
         come: "Si arriva in auto o bus fino ai parcheggi fuori dalle mura e si entra dalla Porta del Mare. Si visita a piedi da soli.",
         quando: "Presto la mattina o la sera: tra le 10 e le 16, con le navi da crociera in porto, i vicoli si riempiono.",
         tempo: "2-3 ore",
@@ -51,7 +51,8 @@ export const destinazioniMontenegro: Destinazione[] = [
         come: "Il sentiero parte dalla città vecchia ed è fatto di scalini irregolari: circa 1.350. Scarpe chiuse e acqua.",
         quando: "All'apertura o nel tardo pomeriggio, mai nelle ore calde d'estate. In alto non c'è ombra.",
         tempo: "1 ora e mezza tra salita, sosta e discesa",
-        consiglio: "Controllare gli orari di apertura della biglietteria: esiste anche una salita da un ingresso laterale, meno affollata."
+        costo: "15 € a persona, solo in contanti (2026), negli orari con biglietteria aperta.",
+        consiglio: "Controllare gli orari della biglietteria ed entrare solo dagli ingressi ufficiali: nel 2026 il comune ha chiuso i varchi non autorizzati nelle mura."
       },
       {
         nome: "Perast e le isole",
@@ -184,9 +185,9 @@ export const destinazioniMontenegro: Destinazione[] = [
         nome: "Cetinje",
         testo: "L'antica capitale storica del Montenegro, con palazzi di ambasciate dell'Ottocento e il piccolo palazzo del re Nicola. Il monastero di Cetinje custodisce le reliquie di San Pietro e il Museo Nazionale la Biljarda, dove visse Njegoš.",
         come: "Da Njeguši circa 25 minuti in auto. In città si cammina.",
-        quando: "Mattina. Molti musei chiudono il lunedì e nei giorni festivi: da verificare.",
+        quando: "Mattina. Orari e giorni di chiusura dei musei sul sito ufficiale.",
         tempo: "2-3 ore",
-        consiglio: "Il Museo del Re Nicola e la Biljarda si visitano con guida in italiano o inglese."
+        consiglio: "Il Museo del re Nicola, la Biljarda e il monastero sono a pochi minuti a piedi l'uno dall'altro: mezza giornata basta per tutti."
       }
     ],
     programmi: [
@@ -255,7 +256,7 @@ export const destinazioniMontenegro: Destinazione[] = [
     comeSpostarsi: 'Auto, bus costieri, taxi.',
     periodoMigliore: 'giugno e settembre.',
     costi: 'Lettini e ombrelloni 15-30 € al giorno in alta stagione.',
-    erroriDaEvitare: ['Aspettarsi una Budva tranquilla in agosto', 'Contare sulla visita dell\'isola di Sveti Stefan: è riservata agli ospiti del resort'],
+    erroriDaEvitare: ['Aspettarsi una Budva tranquilla in agosto', 'Contare sulla visita dell\'isola di Sveti Stefan: l\'albergo è chiuso dal 2020 e l\'isola non si visita'],
     luoghi: [
       {
         nome: "Città vecchia di Budva",
@@ -267,8 +268,8 @@ export const destinazioniMontenegro: Destinazione[] = [
       },
       {
         nome: "Sveti Stefan",
-        testo: "Un isolotto-villaggio di pietra collegato a terra da un istmo, trasformato in resort di lusso. Il celebre colpo d'occhio è dal belvedere sulla strada sopra la baia.",
-        come: "Da Budva circa 6 km. L'isola è accessibile solo agli ospiti dell'albergo e ai clienti dei suoi ristoranti.",
+        testo: "Un isolotto-villaggio di pietra collegato a terra da un istmo, trasformato in resort di lusso. L'albergo che lo occupa è chiuso dal 2020 e l'isola non si visita. Il celebre colpo d'occhio è dal belvedere sulla strada sopra la baia.",
+        come: "Da Budva circa 6 km. Si guarda dal belvedere e dalle spiagge ai lati dell'istmo; verificare sul posto se l'albergo ha riaperto.",
         quando: "Tardo pomeriggio, con la luce dorata sulle pietre.",
         tempo: "30 minuti per la sosta panoramica",
         consiglio: "Si può scendere alla spiaggia ai lati dell'istmo, ma è a pagamento in estate."
@@ -280,6 +281,14 @@ export const destinazioniMontenegro: Destinazione[] = [
         quando: "Giugno e settembre per mare e prezzi più bassi.",
         tempo: "mezza giornata",
         consiglio: "Una buona base per chi vuole mare senza la vita notturna di Budva."
+      },
+      {
+        nome: "Spiaggia di Mogren",
+        testo: "Due piccole baie di sabbia e ghiaia appena fuori dalle mura della città vecchia, chiuse da scogliere e collegate da un passaggio nella roccia. Si arriva con un sentiero a picco sul mare che parte dal lato sud delle mura. È la spiaggia più bella vicino al centro, ma in agosto si riempie presto.",
+        come: "A piedi dalla città vecchia, circa 10 minuti sul sentiero costiero.",
+        quando: "Mattina presto in estate; giugno e settembre sono più tranquilli.",
+        tempo: "mezza giornata",
+        consiglio: "Lettini e ombrelloni sono a pagamento: chi vuole stendere l'asciugamano deve arrivare presto per trovare la parte libera."
       }
     ],
     programmi: [
@@ -352,7 +361,7 @@ export const destinazioniMontenegro: Destinazione[] = [
     luoghi: [
       {
         nome: "Virpazar e il giro in barca",
-        testo: "Il paese di pescatori sulla riva nord del lago, da cui partono le barche tra ninfee, canneti e pellicani. Il Parco Nazionale del Lago di Scutari è la più grande riserva di uccelli d'acqua dei Balcani.",
+        testo: "Il paese di pescatori sulla riva nord del lago, da cui partono le barche tra ninfee, canneti e pellicani. Il Parco Nazionale del Lago di Scutari è tra le più grandi riserve di uccelli d'Europa.",
         come: "Da Podgorica 30 minuti in auto. Le barche partono dal molo e dalle agenzie del paese.",
         quando: "Mattina o tardo pomeriggio per vedere gli uccelli. Ninfee in fiore da giugno a luglio.",
         tempo: "2-3 ore",
@@ -360,7 +369,7 @@ export const destinazioniMontenegro: Destinazione[] = [
       },
       {
         nome: "Pavlova Strana",
-        testo: "Un belvedere sulla strada sopra il lago dove un'ansa del fiume Crnojević disegna una forma a cuore. Il panorama più fotografato della zona.",
+        testo: "Un belvedere sulla strada sopra il lago dove il fiume Crnojević fa un'ansa a ferro di cavallo attorno a una lingua di terra verde. È il panorama più fotografato della zona, con le montagne dell'Albania sullo sfondo nei giorni limpidi.",
         come: "In auto da Virpazar per una strada di montagna, circa 20 minuti.",
         quando: "Tardo pomeriggio.",
         tempo: "30 minuti",
@@ -455,7 +464,7 @@ export const destinazioniMontenegro: Destinazione[] = [
         come: "Lungo la strada che sale al monastero superiore.",
         quando: "Tutto l'anno.",
         tempo: "30 minuti",
-        consiglio: "Visitarlo di ritorno, quando il parcheggio è meno tranquillo."
+        consiglio: "Visitarlo al ritorno, quando la coda al monastero superiore è già fatta."
       }
     ],
     programmi: [

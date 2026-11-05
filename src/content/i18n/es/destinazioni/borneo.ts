@@ -51,9 +51,10 @@ export const destinazioniBorneo: Destinazione[] = [
       {
         nome: "Monte Kinabalu",
         testo: "4.095 metros, la montaña más alta de Borneo y del sudeste asiático insular. Se sube en dos días: el primero hasta el refugio de Laban Rata a 3.270 metros, el segundo saliendo de noche para el amanecer sobre el granito desnudo de la cima.",
-        come: "La subida solo está permitida con guía obligatorio y un permiso nominal, reservado con meses de antelación a través de Sabah Parks y operadores autorizados. De la ciudad al Timpohon Gate son unas 2 horas y media por carretera.",
+        come: "La subida solo se permite con guía registrado (uno cada cinco adultos) y un permiso nominal, que se reserva con meses de antelación junto con la cama en Laban Rata, a través de Sabah Parks u operadores autorizados. Se sale del Timpohon Gate: el sendero de Mesilau está cerrado. Desde la ciudad hay unas 2 horas de carretera.",
         quando: "De marzo a septiembre. Con mal tiempo la montaña cierra. Reservar con margen.",
         tempo: "2 días, 1 noche en Laban Rata",
+        costo: "Permiso de subida 400 RM para adultos extranjeros, guía 350 RM cada cinco personas, seguro 10 RM (tarifas de Sabah Parks vigentes desde 2023); refugio y entrada al parque aparte.",
         url: "https://www.sabahparks.org.my/",
         consiglio: "Dormir cerca del parque la noche anterior a la subida y no en Kota Kinabalu, para salir descansado."
       },
@@ -76,10 +77,11 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Parque marino Tunku Abdul Rahman",
-        testo: "Cinco islas a veinte minutos en barca de la ciudad, con playas, snorkel y agua clara. La elección adecuada para una tarde de mar tras la montaña.",
+        testo: "Cinco islas a veinte minutos en barca de la ciudad, Gaya, Manukan, Mamutik, Sapi y Sulug, con playas, snorkel y agua limpia. Gaya es la mayor, Manukan la más equipada. La elección adecuada para una tarde de mar después de la montaña.",
         come: "En barca desde el muelle de Jesselton Point, a horas libres. Se paga la tasa del parque.",
-        quando: "Por la mañana, con el mar más calmado.",
+        quando: "El parque abre todos los días, 8-17. Por la mañana el mar está más tranquilo.",
         tempo: "medio día",
+        costo: "Entrada al parque 25 RM al día para adultos extranjeros (Sabah Parks), más la barca.",
         url: "https://www.sabahparks.org.my/",
         consiglio: "Mamutik y Manukan son las más cómodas; Sapi es la más concurrida."
       },
@@ -296,9 +298,10 @@ export const destinazioniBorneo: Destinazione[] = [
         nome: "Sepilok Orangutan Rehabilitation Centre",
         testo: "Centro que acoge orangutanes huérfanos o confiscados al comercio ilegal, en rehabilitación antes de volver al bosque. Desde las plataformas se ve a los animales llegar a comer tras la ración de fruta.",
         come: "A 25 km de Sandakan, en taxi o autobús. Se camina por pasarelas de madera hasta la plataforma.",
-        quando: "Dos raciones al día, por la mañana y a primera hora de la tarde. Ir a ambas duplica las probabilidades.",
+        quando: "Tomas de comida a las 10 y a las 15: llegar media hora antes. El centro abre de 9 a 12 y de 14 a 16; el viernes por la mañana cierra a las 11. Ir a las dos tomas duplica las probabilidades.",
         tempo: "2-3 horas",
-        url: "https://www.sabahtourism.com/",
+        costo: "30 RM para adultos extranjeros, más una pequeña tasa por la cámara; a menudo solo efectivo (dato repetido en las fuentes de 2025, a confirmar en taquilla).",
+        url: "https://wildlife.sabah.gov.my/",
         consiglio: "Llevar la mochila cerrada y sin comida en la mano: los macacos arrebatan todo."
       },
       {
@@ -307,6 +310,8 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "A pie o en taxi desde Sepilok, unos minutos.",
         quando: "Por la mañana o a primera hora de la tarde.",
         tempo: "1 hora",
+        costo: "50 RM para adultos extranjeros, 25 RM de 2 a 17 años (2025).",
+        url: "https://www.bsbcc.org.my/",
         consiglio: "Visitarlo el mismo día que los orangutanes."
       },
       {
@@ -655,7 +660,7 @@ export const destinazioniBorneo: Destinazione[] = [
     periodoMigliore:
       "de abril a septiembre, con el mar más en calma y la mejor visibilidad. De noviembre a febrero el mar está más agitado y algunas salidas se cancelan.",
     costi:
-      "paquetes de buceo de varias noches con pensión completa; el permiso de Sipadan se paga aparte y es la partida que lo decide todo. Hoy cada permiso da derecho a tres inmersiones en la isla el mismo día.",
+      "paquetes de buceo de varias noches con pensión completa; el permiso de Sipadan se paga aparte y es la partida que lo decide todo. El número de inmersiones por permiso lo fija Sabah Parks y cambia con el tiempo: preguntarlo al operador.",
     erroriDaEvitare: [
       "Presentarse esperando bucear en Sipadan sin haber reservado meses antes: los permisos diarios son poco más de doscientos cincuenta, Sabah Parks los asigna a los operadores y estos los reparten entre los huéspedes, casi siempre de forma rotativa y premiando las estancias más largas",
       "Reservar solo dos noches y contar con Sipadan: la rotación favorece a quien se queda 4-5 noches, y por eso el itinerario hay que construirlo así",
@@ -668,9 +673,10 @@ export const destinazioniBorneo: Destinazione[] = [
       {
         nome: "Sipadan",
         testo: "Una isla oceánica que sube desde una pared de más de 600 metros. Las inmersiones son de las más famosas del mundo, con Barracuda Point, Drop Off y Turtle Tomb.",
-        come: "Solo con operadores autorizados que tengan permisos de Sabah Parks. Cada permiso da derecho a tres inmersiones en la isla el mismo día.",
-        quando: "De abril a septiembre. Los permisos (unos 250 al día) deben reservarse con meses de antelación.",
+        come: "Solo con operadores autorizados que tengan permisos de Sabah Parks. En la isla no se duerme: las instalaciones cerraron en 2004 y se sale en barca desde Mabul, Kapalai o Semporna. El número de inmersiones por permiso lo fija Sabah Parks: preguntarlo al operador.",
+        quando: "De abril a septiembre el mar está en su mejor momento. Hay unos 250 permisos diarios, asignados por Sabah Parks a los operadores, que pueden reservarlos hasta seis meses antes. La isla suele cerrar en noviembre para proteger el arrecife.",
         tempo: "1 día por permiso",
+        costo: "Para extranjeros tasa de conservación de 100 RM más permiso de buceo de 350 RM por persona y día (Sabah Parks); los operadores los incluyen en el paquete con un recargo.",
         url: "https://www.sabahparks.org.my/",
         consiglio: "Reservar 4-5 noches: la rotación de permisos premia las estancias más largas."
       },
@@ -839,7 +845,7 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Cuevas de Niah",
-        testo: "Cuevas con huellas de presencia humana de hace cuarenta mil años, en el norte de Sarawak.",
+        testo: "Cuevas enormes en el norte de Sarawak con huellas de presencia humana de hace unos cuarenta mil años, pinturas rupestres en la Painted Cave y recolectores de nidos de salangana trabajando en las paredes. Desde 2024 son patrimonio de la UNESCO.",
         come: "Desde Miri, unas 2 horas por carretera, luego una pasarela en el bosque.",
         quando: "Por la mañana.",
         tempo: "medio día",

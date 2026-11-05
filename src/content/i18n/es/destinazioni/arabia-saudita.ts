@@ -109,7 +109,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       },
       {
         "nome": "Corniche, Fuente del Rey Fahd y mezquita Al-Rahma",
-        "testo": "El paseo marítimo, de decenas de kilómetros, con la fuente que lanza agua a más de 300 metros y la pequeña mezquita flotante Al-Rahma, blanca sobre el mar. El jueves por la noche las familias extienden alfombras en el césped y hacen barbacoa.",
+        "testo": "El paseo marítimo de decenas de kilómetros, con la fuente del Rey Fahd, uno de los chorros de agua más altos del mundo, y la pequeña mezquita flotante Al-Rahma, blanca sobre el mar. El jueves por la noche las familias extienden alfombras en el césped y hacen barbacoas.",
         "come": "Taxi o Uber desde el centro. Se pasea por el paseo marítimo.",
         "quando": "Atardecer y noche, sobre todo el jueves.",
         "tempo": "2 horas",
@@ -233,37 +233,42 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
     luoghi: [
       {
         "nome": "Hegra (Mada'in Salih)",
-        "testo": "El primer sitio saudí patrimonio de la UNESCO: 111 tumbas monumentales nabateas talladas en arenisca hace dos mil años, con inscripciones aún legibles. Qasr al-Farid, la tumba solitaria, quedó inacabada: se ve cómo tallaban de arriba abajo.",
+        "testo": "El primer sitio saudí de la UNESCO: más de 110 tumbas monumentales nabateas talladas en la arenisca hace dos mil años, muchas con inscripciones sobre el difunto aún legibles. Qasr al-Farid, la tumba solitaria, quedó sin terminar: se ve cómo tallaban de arriba abajo.",
         "come": "Solo con visita guiada limitada, que se reserva en línea. Lanzadera desde el centro de visitantes.",
         "quando": "Mañana o última hora de la tarde, con menos calor.",
         "tempo": "2-3 horas",
-        "url": "https://www.experiencealula.com/",
-        "consiglio": "Reservar con semanas de antelación en los meses punta. No es «Petra sin multitud»: es más pequeña y más silenciosa."
+        "url": "https://www.experiencealula.com/en/places-to-go/hegra",
+        "consiglio": "Reservar con semanas de antelación en los meses punta. No es «Petra sin multitud»: es más pequeña y más silenciosa.",
+        "costo": "Hegra Day Tour guiado desde 95 SAR por persona, unas 3 horas (2026)"
       },
       {
         "nome": "Jabal Ikmah",
         "testo": "La «biblioteca al aire libre»: una pared de roca cubierta de cientos de inscripciones en dadanítico, lihyanita, nabateo y árabe antiguo, dejadas por quienes pasaban por el oasis hace 2.500 años.",
-        "come": "Desde el centro de AlUla en coche, unos 20 minutos; se visita con guía.",
+        "come": "Con el tour Dadan y Jabal Ikmah: se aparca gratis en el Winter Park de AlUla y un autobús lleva al centro de visitantes de Dadan, luego a Jabal Ikmah y vuelta.",
         "quando": "A primera hora, con la luz rasante que realza los grabados.",
         "tempo": "1-1,5 horas",
-        "url": "https://www.experiencealula.com/"
+        "url": "https://www.experiencealula.com/en/places-to-go/jabal-ikmah",
+        "costo": "Tour Dadan y Jabal Ikmah desde 60 SAR por persona, unas 2 horas (2026)"
       },
       {
         "nome": "Dadan",
         "testo": "La capital de los reinos de Dadan y Lihyan, más antigua que Hegra, con tumbas-león excavadas en la roca y un santuario.",
-        "come": "En coche desde AlUla, unos 15 minutos.",
+        "come": "Con el mismo tour de Jabal Ikmah, que sale del Winter Park; se recomienda reservar en línea.",
         "quando": "Mañana.",
         "tempo": "1,5 horas",
-        "url": "https://www.experiencealula.com/",
-        "consiglio": "Suele combinarse con Jabal Ikmah."
+        "url": "https://www.experiencealula.com/en/places-to-go/dadan",
+        "consiglio": "Suele combinarse con Jabal Ikmah.",
+        "costo": "Incluido en el tour Dadan y Jabal Ikmah (desde 60 SAR, 2026)"
       },
       {
         "nome": "Ciudad vieja de AlUla y Elephant Rock",
         "testo": "Las casas de barro abandonadas, ahora restauradas, y la roca con forma de elefante donde se reúne la gente al atardecer.",
-        "come": "Elephant Rock en coche desde el centro; la ciudad vieja a pie.",
+        "come": "El casco antiguo se recorre a pie; Elephant Rock está a 20 minutos en coche al noreste, con aparcamiento gratuito y una pasarela de madera.",
         "quando": "Atardecer.",
         "tempo": "2 horas",
-        "consiglio": "Al atardecer bajo Elephant Rock se reúne la gente del lugar."
+        "consiglio": "Al atardecer bajo Elephant Rock se reúne la gente del lugar.",
+        "costo": "Casco antiguo de entrada libre, visita guiada desde 70 SAR (2026)",
+        "url": "https://www.experiencealula.com/en/places-to-go/alula-old-town"
       }
     ],
     programmi: [
@@ -393,7 +398,7 @@ export const destinazioniArabiaSaudita: Destinazione[] = [
       },
       {
         "nome": "Edge of the World",
-        "testo": "El borde de un acantilado que cae trescientos metros sobre una llanura infinita, sin vallas. Tras una hora y media de pista por el desierto.",
+        "testo": "El borde de un escarpe que cae cientos de metros sobre una llanura infinita, sin vallas. Se llega tras una hora y media de pista por el desierto.",
         "come": "Solo con 4x4 y guía o en tour organizado: no hay señalización y el teléfono conecta a ratos.",
         "quando": "Mañana o última hora de la tarde.",
         "tempo": "Medio día",

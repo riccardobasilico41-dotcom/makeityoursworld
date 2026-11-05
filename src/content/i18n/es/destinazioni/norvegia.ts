@@ -81,16 +81,18 @@ export const destinazioniNorvegia: Destinazione[] = [
         come: "En verano el ferri a Bygdøy sale de Rådhusbryggen; alternativamente el bus 30. Los museos están a pocos minutos uno del otro.",
         quando: "Mañana, para tener las salas con menos grupos.",
         tempo: "3-4 horas",
+        costo: "Museo Fram 180 NOK adultos (2026); Kon-Tiki con entrada aparte",
         url: "https://www.frammuseum.no",
         consiglio: "Los dos museos caben bien en media jornada; evitar los lunes festivos, cuando está concurrido."
       },
       {
         nome: "Munch y Nasjonalmuseet",
-        testo: "El museo Munch, en Bjørvika, reúne gran parte de la obra de Edvard Munch; el Nasjonalmuseet, el mayor museo de arte del norte de Europa, tiene otra versión de El grito (1893). Dos edificios cerca del fiordo, en el barrio más nuevo.",
+        testo: "El museo Munch, en Bjørvika, reúne gran parte de la obra de Edvard Munch; el Nasjonalmuseet, la mayor colección de arte, arquitectura y diseño de Noruega, tiene otra versión de El grito (1893). Dos edificios cerca del fiordo, en el barrio más nuevo.",
         come: "Munch a 10 minutos a pie de la estación; el Nasjonalmuseet a 15 minutos del centro.",
         quando: "Mañana entre semana; reservar online para las entradas con hora.",
         tempo: "2-3 horas cada uno",
-        url: "https://www.munchmuseet.no",
+        costo: "Munch 220 NOK adultos (2026)",
+        url: "https://www.munch.no",
         consiglio: "Comparar las versiones de El grito: las diferencias se ven en persona."
       },
       {
@@ -667,7 +669,7 @@ export const destinazioniNorvegia: Destinazione[] = [
     comeSpostarsi: 'A pie por el centro; minibús/autocar organizados para las excursiones fuera de la ciudad.',
     periodoMigliore: 'de finales de septiembre a finales de marzo para la aurora, con noche polar (poca luz diurna) entre diciembre y enero',
     costi:
-      'Fjellheisen: 495 NOK (unos 43 €) ida y vuelta adultos, 280 NOK (unos 24 €) niños de 3 a 15 años. Polaria: unas 400-450 NOK (35-39 €). Polar Museum: 130 NOK (unos 11 €). Aurora chase en minibús: 100-160 € por persona. Husky sledding: 170-320 € por persona. Experiencia sami con renos: desde 145 € por persona. Avistamiento de ballenas: 130-260 € por persona. Doble en hotel céntrico en temporada alta: 140-170 €/noche.',
+      'Fjellheisen: 645 NOK (unos 55 €) ida y vuelta adultos, 310 NOK (unos 27 €) niños de 3 a 15 años (2026). Polaria: unas 400-450 NOK (35-39 €). Polar Museum: 130 NOK (unos 11 €). Aurora chase en minibús: 100-160 € por persona. Husky sledding: 170-320 € por persona. Experiencia sami con renos: desde 145 € por persona. Avistamiento de ballenas: 130-260 € por persona. Doble en hotel céntrico en temporada alta: 140-170 €/noche.',
     erroriDaEvitare: [
       'Reservar las excursiones nocturnas con un mínimo de antelación, sobre todo en los meses de máxima afluencia (noviembre-marzo)',
       'Subestimar el viento en el paseo marítimo: se nota más de lo previsto',
@@ -691,6 +693,7 @@ export const destinazioniNorvegia: Destinazione[] = [
         come: "Desde el centro con el bus 28 o con un paseo de 15 minutos; la cabina sale aproximadamente cada 30 minutos.",
         quando: "Tarde en invierno por las luces de la ciudad, de día en verano.",
         tempo: "1-2 horas",
+        costo: "645 NOK ida y vuelta adultos, 310 NOK niños de 3 a 15 años (2026)",
         url: "https://www.fjellheisen.no",
         consiglio: "Subida rápida, pero abrigarse arriba."
       },
@@ -714,7 +717,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Mack's Ølhallen",
-        testo: "El pub histórico de la cervecera Mack, la más septentrional del mundo, con cerveza de grifo. Un lugar de locales, sin pretensiones.",
+        testo: "El pub histórico de la cervecera Mack, fundada en 1877 y durante décadas una de las más septentrionales del mundo, con cerveza de grifo. Un lugar de locales, sin pretensiones.",
         come: "A pie desde el centro, en Storgata.",
         quando: "Noche.",
         tempo: "1 hora",

@@ -14,32 +14,32 @@ export const destinazioniMaldive: Destinazione[] = [
     percheAndarci:
       "For the first or last night, when flight times don't allow a boat or a seaplane, and for half a day between the fish market and the Friday Mosque.",
     cosaVedere: [
-      'The Malé fish market in the morning',
+      'The Malé fish market in the afternoon, when the dhonis come back',
       'The fruit and vegetable market',
-      'The Friday Mosque (Hukuru Miskiy), in 17th-century coral stone',
+      'The Friday Mosque (Hukuru Miskiy), in coral stone from 1658',
       'Hulhumalé beach',
     ],
     cosaFare: ['Try short eats at a local café', 'An evening stroll along the Hulhumalé waterfront'],
     doveDormire: 'Hulhumalé, 10-15 minutes from the airport, with hotels and guesthouses from $60 to $150.',
     doveMangiare: 'Local cafés for short eats, restaurants on the Hulhumalé waterfront.',
-    comeArrivare: 'From Velana airport by ferry to Malé (10 minutes, $1-2) or by bus and taxi to Hulhumalé and to Malé over the bridge.',
+    comeArrivare: 'From Velana airport by ferry to Malé (10-15 minutes, 15 rufiyaa or $1, 2025) or by bus and taxi to Hulhumalé and to Malé over the bridge.',
     comeSpostarsi: 'On foot and by taxi.',
     periodoMigliore: 'all year.',
     erroriDaEvitare: ['Visiting the mosques during prayer or without covered clothing', 'Looking for alcohol: Malé and Hulhumalé are inhabited islands, and the ban applies there'],
     luoghi: [
       {
         "nome": "Malé fish market",
-        "testo": "Where the tuna caught at dawn arrive, cut in front of onlookers. The fruit and vegetable market is next door.",
+        "testo": "On Malé's northern waterfront the dhonis unload tuna and reef fish, which are cut on the counters in front of onlookers. It is the most genuine spot in the capital: strong smells, wet floors, fishermen haggling. Next door is the fruit and vegetable market, with coconuts, chillies and packets of dried fish.",
         "come": "From the airport ferry terminal, a few minutes on foot.",
-        "quando": "Early morning, when the fish comes in.",
+        "quando": "From early afternoon, when the boats come back; slower on Fridays because of prayers. No fixed hours.",
         "tempo": "1 hour",
         "consiglio": "Always ask permission before photographing people."
       },
       {
         "nome": "Friday Mosque (Hukuru Miskiy)",
-        "testo": "A 17th-century coral stone mosque, with carved walls and lacquered wooden ceilings.",
-        "come": "On foot from central Malé. Visitable with covered clothing.",
-        "quando": "Outside prayer times.",
+        "testo": "Built in 1658 under Sultan Ibrahim Iskandar, it is the oldest mosque in Malé: coral blocks fitted together without mortar and carved with patterns and inscriptions, with lacquered wooden ceilings and beams. Next to it are the cemetery with coral headstones and the Munnaaru minaret. The coral stone mosques of the Maldives are on the UNESCO tentative list.",
+        "come": "On foot from central Malé. Non-Muslims need permission to go inside: ask the mosque staff or the Ministry of Islamic Affairs; it can be seen well from outside anyway.",
+        "quando": "Outside prayer times, avoiding Fridays.",
         "tempo": "30 minutes",
         "consiglio": "Cover shoulders and knees; no entry during prayer."
       },
@@ -56,7 +56,7 @@ export const destinazioniMaldive: Destinazione[] = [
       {
         "titolo": "1 day",
         "tappe": [
-          "Fish and fruit markets in the morning",
+          "Fruit market in the morning, fish market in the afternoon",
           "Friday Mosque outside prayer",
           "Ferry to the airport or bus to Hulhumalé",
           "Dinner on the Hulhumalé waterfront"
@@ -95,8 +95,8 @@ export const destinazioniMaldive: Destinazione[] = [
     ],
     attenzioni: [
       "On inhabited islands (Malé, Hulhumalé) alcohol is neither sold nor drunk. Importing it is banned.",
-      "Since 12 November 2024 e-cigarettes are banned, import and use included.",
-      "Fill in the IMUGA within the 96 hours before the flight.",
+      "E-cigarettes are banned: import since 15 November 2024, possession and use since 15 December 2024, tourists included. Since 1 November 2025 anyone born on or after 1 January 2007 may not buy or smoke tobacco, tourists included.",
+      "Fill in the IMUGA (traveller declaration) within the 96 hours before the flight, one per person, children included. It is free: use only the official portal imuga.immigration.gov.mv, as there are fake paid sites.",
       "Taking away corals, shells and sand is banned, even from the beach: they are seized at the airport and you risk a fine."
     ],
     esperienzeSlugs: [],
@@ -124,7 +124,7 @@ export const destinazioniMaldive: Destinazione[] = [
     cosaFare: ['Snorkeling with nurse sharks and rays', 'The Alimatha night dive', 'A day at a nearby resort from Maafushi'],
     doveDormire: 'Guesthouses in Maafushi (the most developed and crowded), Guraidhoo, Gulhi, Fulidhoo.',
     doveMangiare: 'Maldivian cooking in the guesthouses and the island cafés.',
-    comeArrivare: 'Speedboat from Malé in 30-90 minutes ($25-40), or the cheap MTCC ferry with few departures.',
+    comeArrivare: 'Speedboat from Malé in 45-90 minutes ($20-40), or the cheap MTCC ferry ($2-3) with few departures.',
     comeSpostarsi: 'Boat excursions organized by the guesthouses.',
     periodoMigliore: 'December to April for a calm sea; from May to November speedboats are bumpier.',
     erroriDaEvitare: ["Expecting a quiet village in Maafushi: it's heavily built up and crowded", 'Counting on ferries on Friday'],
@@ -132,16 +132,16 @@ export const destinazioniMaldive: Destinazione[] = [
       {
         "nome": "Maafushi and its bikini beach",
         "testo": "The most developed local island near Malé, with a signposted bikini beach, many guesthouses and nearby reefs where turtles are seen.",
-        "come": "Speedboat from Malé in 30-90 minutes, or the cheap MTCC ferry with few departures.",
+        "come": "Shared speedboat from Malé in about 45 minutes. The MTCC ferry via Gulhi usually leaves in the afternoon, Saturday to Thursday, and takes 1.5 to 2 hours.",
         "quando": "All year; December to April the sea is calmer.",
         "tempo": "2-3 days",
-        "costo": "Speedboat roughly $25-40 each way (indicative, 2026)",
+        "costo": "Shared speedboat $20-40 each way; MTCC ferry $2-3 (indicative, 2026)",
         "consiglio": "It is heavily built-up and crowded: not the quiet village you might expect."
       },
       {
         "nome": "Fulidhoo",
-        "testo": "A small local island in Vaavu, quiet, with sandy streets and few tourists.",
-        "come": "Speedboat or ferry from Malé; excursions are booked through the guesthouse.",
+        "testo": "A small local island in Vaavu, quiet, with sandy streets, a few hundred inhabitants and a handful of guesthouses. In the evening nurse sharks and rays often come to the jetty looking for fish scraps. It is a good base for the Vaavu channels and the Alimatha night dive.",
+        "come": "Speedboat from Malé, or MTCC ferry in about 3 hours, 2-3 times a week and never on Fridays; excursions are booked through the guesthouse.",
         "tempo": "2-3 days"
       },
       {
@@ -201,8 +201,9 @@ export const destinazioniMaldive: Destinazione[] = [
     attenzioni: [
       "Friday is the day of rest: shops and cafés close from late morning, long ferries do not run and excursions may be reduced.",
       "Bikini only on the signposted bikini beach; elsewhere shoulders and knees covered, even for swimming.",
-      "MTCC ferries are slow, with few departures, and tickets are paid in cash at the terminal on the day.",
-      "Guesthouse excursions have fixed list prices: compare with others if possible."
+      "MTCC ferries are slow, with few departures and hardly ever on Fridays. Tickets are sold only at the terminal on the day, 30-45 minutes before: bring rufiyaa or small dollar bills and check times on mtcc.mv or with the guesthouse.",
+      "Guesthouse excursions have fixed list prices: compare with others if possible.",
+      "Since 1 January 2025 the green tax is $6 per person per night in guesthouses with up to 50 rooms and $12 in resorts: ask whether it is already in the price."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['maldive-guida'],
@@ -222,22 +223,22 @@ export const destinazioniMaldive: Destinazione[] = [
     introduzione:
       "A small atoll at the northeast tip of Ari, with the local island of Rasdhoo, and the nearby Ukulhas and Thoddoo. The outer side of the atoll drops into the deep blue.",
     percheAndarci:
-      'For the hammerhead sharks that come up from the depths at dawn, from December to May, and for a local island with good dive centers.',
+      'For the hammerhead sharks that come up from the depths at dawn, mainly from December to April, and for a local island with good dive centers.',
     cosaVedere: ['The hammerhead shark site at dawn (Hammerhead Point)', 'The reefs with mantas and turtles', 'The beach and gardens of Ukulhas and Thoddoo'],
     cosaFare: ['A dawn dive in the blue for experienced divers', 'Snorkeling on the lagoon reefs'],
     doveDormire: 'Guesthouses in Rasdhoo, Ukulhas and Thoddoo.',
     doveMangiare: 'Maldivian cooking and grilled fish in the guesthouses.',
-    comeArrivare: 'Speedboat from Malé in about 1 to 1.5 hours ($40-70), or MTCC ferry in about 3 hours with a few departures a week.',
+    comeArrivare: 'Speedboat from Malé in about 1 to 1.5 hours ($40-60), or MTCC ferry in about 3 hours with a few departures a week.',
     comeSpostarsi: 'By boat with the dive centers.',
-    periodoMigliore: 'December to May for the hammerhead sharks.',
+    periodoMigliore: 'December to April for the hammerhead sharks, peaking January to March.',
     costi: 'Dive $50-80 from the local centers.',
     erroriDaEvitare: ['Attempting the hammerhead shark dive without experience in the blue and at depth'],
     luoghi: [
       {
         "nome": "Hammerhead Point",
-        "testo": "The outer side of the atoll drops into deep blue. At dawn, from December to May, hammerhead sharks come up. It is a blue-water dive, for experienced divers.",
+        "testo": "The site is Madivaru Corner, on the outer side of the atoll that drops into deep blue. At dawn scalloped hammerheads rise from the cooler water and are usually seen between 25 and 40 metres, along with grey reef sharks and eagle rays. It is a blue-water dive, with current, for experienced divers.",
         "come": "With a Rasdhoo dive centre, by boat at dawn.",
-        "quando": "At dawn, December to May.",
+        "quando": "At dawn; possible all year, best December to April (peak January to March).",
         "tempo": "half a day",
         "costo": "Dive $50-80 from local centres (indicative, 2026)",
         "consiglio": "Do not attempt it without blue-water and deep-dive experience."
@@ -253,7 +254,7 @@ export const destinazioniMaldive: Destinazione[] = [
         "nome": "Rasdhoo, Ukulhas and Thoddoo reefs",
         "testo": "Snorkelling on the lagoon reefs, with mantas and turtles. The beaches and gardens of Ukulhas and Thoddoo.",
         "come": "Boat excursions from guesthouses and dive centres.",
-        "quando": "December to May for hammerhead sharks.",
+        "quando": "All year; December to April brings calmer seas and clearer water.",
         "tempo": "a full day"
       }
     ],
@@ -336,9 +337,9 @@ export const destinazioniMaldive: Destinazione[] = [
     cosaFare: ['Snorkeling with the whale shark', 'Snorkeling or diving with the mantas', 'Sunset fishing on a dhoni'],
     doveDormire: 'Guesthouses in Dhigurah and Dhangethi; resorts on nearby islands.',
     doveMangiare: 'Maldivian cooking in the guesthouses, catch of the day.',
-    comeArrivare: 'Speedboat from Malé in 1.5 to 2 hours ($50-70), or a domestic flight to Maamigili and a boat.',
+    comeArrivare: 'Speedboat from Malé in about 2 hours ($60-100), or a domestic flight to Maamigili and a boat.',
     comeSpostarsi: 'Boat excursions from the guesthouses and dive centers.',
-    periodoMigliore: 'all year for whale sharks, with December to April the most cited window; mantas on the western side in the dry season.',
+    periodoMigliore: 'all year for whale sharks, with most sightings from August to November according to Visit Maldives and calmer seas from December to April; mantas on the western side in the dry season.',
     costi: 'Whale shark $60-120 per person; mantas and sandbanks $70-130.',
     erroriDaEvitare: [
       'Getting closer than 3 meters to the whale shark, touching it or using flash',
@@ -347,12 +348,12 @@ export const destinazioniMaldive: Destinazione[] = [
     luoghi: [
       {
         "nome": "Whale shark along the outer reef",
-        "testo": "The marine protected area between Maamigili and Dhigurah, where young whale sharks feed along the outer reef all year. It is the easiest place in the Maldives to swim with them.",
+        "testo": "The South Ari Marine Protected Area (SAMPA), between Maamigili and Dhigurah, is one of the few places in the world where whale sharks, almost all young males, are seen all year. They swim along the outer reef, often near the surface: a mask and fins are enough. It is the easiest place in the Maldives to meet them, and boats coordinate by radio to find them.",
         "come": "Boat excursion from the guesthouses and dive centres of Dhigurah and Dhangethi.",
-        "quando": "All year; the most cited window is December to April.",
+        "quando": "All year; according to Visit Maldives sightings peak from August to November, while the sea is calmer from December to April.",
         "tempo": "half a day",
         "costo": "$60-120 per person (indicative, 2026)",
-        "consiglio": "Stay more than 3 metres from the animal, do not touch it and use no flash. Choose operators who respect limits on boats and swimmers."
+        "consiglio": "Stay at least 3 metres from the body and 4 from the tail, do not touch it, do not swim in front of it and use no flash. Choose operators who respect limits on boats and swimmers."
       },
       {
         "nome": "Mantas at the cleaning stations",
@@ -365,9 +366,9 @@ export const destinazioniMaldive: Destinazione[] = [
       {
         "nome": "Dhigurah bikini beach",
         "testo": "Dhigurah is incredible, probably the most complete island in all the Maldives. A long beach, though there are still some people.",
-        "come": "Speedboat from Malé in 1.5-2 hours, or a domestic flight to Maamigili and a boat.",
+        "come": "Speedboat from Malé in about 2 hours, usually two departures a day, or a domestic flight to Maamigili and a boat.",
         "tempo": "half a day",
-        "costo": "Speedboat $50-70 each way (indicative, 2026)",
+        "costo": "Speedboat $60-100 each way (indicative, 2026)",
         "consiglio": "For excursions you have no freedom of choice: you depend on your homestay or hotel, and prices are fixed list prices."
       },
       {
@@ -461,7 +462,7 @@ export const destinazioniMaldive: Destinazione[] = [
     comeArrivare: 'Seaplane from Malé (about 35-45 minutes) or a domestic flight to Dharavandhoo and a boat.',
     comeSpostarsi: 'By boat.',
     periodoMigliore: 'June to November, peak August to October in the weeks around the new and full moon.',
-    costi: 'Bay entrance fee roughly $20-50 per person, excursion extra.',
+    costi: 'Bay entry about $20 per person per day, usually included in the excursion ($60-80 from local islands).',
     erroriDaEvitare: [
       'Expecting to dive with tanks: at Hanifaru only snorkeling is allowed',
       'Booking at the last minute in August-October: entries are limited',
@@ -469,16 +470,16 @@ export const destinazioniMaldive: Destinazione[] = [
     luoghi: [
       {
         "nome": "Hanifaru Bay",
-        "testo": "A small bay in the Baa UNESCO biosphere reserve, where between June and November dozens, sometimes over a hundred, mantas gather to feed on plankton. It is watched while snorkelling.",
+        "testo": "A small funnel-shaped bay in the Baa UNESCO biosphere reserve (since 2011). During the southwest monsoon the currents trap plankton there and dozens, sometimes over a hundred, mantas arrive and feed in circles, sometimes with a whale shark or two. It can only be watched while snorkelling, in slots of about 45 minutes controlled by rangers.",
         "come": "By boat from Dharavandhoo or Thulhaadhoo with an authorised guide. Scuba diving is banned.",
         "quando": "June to November, peaking August to October in the weeks around new and full moon.",
         "tempo": "half a day",
         "costo": "Entry $20 per person per day for the atoll conservation fund, usually already included in the excursion (indicative, 2026)",
-        "consiglio": "Book ahead in August to October: entries are limited."
+        "consiglio": "Book ahead in August to October: entries are limited. No flash and no touching the animals."
       },
       {
         "nome": "The atoll reefs and thilas",
-        "testo": "Outside the bay, dives at the atoll sites, among submerged pinnacles and reefs.",
+        "testo": "Outside the bay, dives at the atoll sites, among submerged pinnacles (thila) and reefs. Scuba is allowed here and the cleaning stations draw mantas even when the bay is empty. It is the way to see Baa underwater without the slots and rules of Hanifaru.",
         "come": "With the dive centres of the local islands or resorts.",
         "tempo": "a full day"
       }
@@ -557,7 +558,7 @@ export const destinazioniMaldive: Destinazione[] = [
     cosaFare: ['Dives with tiger sharks for certified divers', 'A bike ride around the island'],
     doveDormire: 'Guesthouses and small hotels tied to the dive centers.',
     doveMangiare: 'Maldivian cooking in the guesthouses.',
-    comeArrivare: 'Domestic flight from Malé in about 1 hour 20 minutes.',
+    comeArrivare: 'Domestic flight from Malé in about 1 hour 20-25 minutes.',
     comeSpostarsi: 'Bike, scooter, taxi.',
     periodoMigliore: 'all year; the sea can be rough from May to November.',
     erroriDaEvitare: ['Going without experience: currents and ocean conditions require an advanced certification and a good number of dives'],
@@ -572,7 +573,7 @@ export const destinazioniMaldive: Destinazione[] = [
       },
       {
         "nome": "Inland lakes and Thoondu beach",
-        "testo": "The island has freshwater lakes and dense vegetation, rare in the Maldives. Thoondu beach has white pebble sand.",
+        "testo": "The island has two freshwater lakes, rare in the Maldives: Bandaara Kilhi, the larger, with the marshes and mud of Koda Kilhi, and Dhadimagi Kilhi, with the Fuvahmulah Nature Park, a wooden boardwalk and herons. In the north, Thoondu beach is made of small smooth white pebbles instead of sand, and it is a protected area.",
         "come": "By bike, scooter or taxi on the island.",
         "tempo": "half a day"
       },

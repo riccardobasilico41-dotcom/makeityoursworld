@@ -551,9 +551,10 @@ export const destinazioniFrancia: Destinazione[] = [
       {
         nome: "Louvre",
         testo: "Il museo più grande del mondo, in un palazzo reale. Il percorso essenziale tocca la Vittoria di Samotracia, la Venere di Milo e la Gioconda. Impossibile vederlo tutto: meglio scegliere due o tre ali.",
-        come: "Metro Palais Royal-Musée du Louvre. Si entra con biglietto a orario prenotato online; ingresso anche dalla Pyramide, Passage Richelieu o dal Carrousel.",
-        quando: "Chiuso il martedì. Aperto fino a sera il venerdì. Arrivare all'apertura o in tardo pomeriggio.",
+        come: "Metro Palais Royal-Musée du Louvre. Conviene prenotare online l'orario d'ingresso, anche per chi entra gratis; si entra dalla Pyramide, dal Passage Richelieu o dal Carrousel.",
+        quando: "Chiuso il martedì, il 1° gennaio, il 1° maggio e il 25 dicembre. Il mercoledì e il venerdì resta aperto fino alle 21. Arrivare all'apertura (9) o nel tardo pomeriggio.",
         tempo: "3-4 ore",
+        costo: "32 € per chi viene da fuori dello Spazio economico europeo, 22 € per i cittadini e residenti UE/SEE (2026). Gratis sotto i 18 anni.",
         url: "https://www.louvre.fr/",
         consiglio: "La Gioconda è nella sala più affollata: andarci subito all'apertura o a fine giornata."
       },
@@ -561,8 +562,9 @@ export const destinazioniFrancia: Destinazione[] = [
         nome: "Musée d'Orsay",
         testo: "Una vecchia stazione ferroviaria del 1900 trasformata in museo, con la più grande raccolta di impressionisti al mondo. Le sale di Monet, Renoir, Degas e Van Gogh sono all'ultimo piano.",
         come: "Metro Solférino o RER C Musée d'Orsay. Biglietto con orario prenotato.",
-        quando: "Chiuso il lunedì.",
+        quando: "Chiuso il lunedì. Aperto dalle 9.30 alle 18, il giovedì fino alle 21.45: la sera è il momento più tranquillo.",
         tempo: "2-3 ore",
+        costo: "16 € online, 14 € in biglietteria; il giovedì sera tariffa ridotta (2026). Gratis la prima domenica del mese.",
         url: "https://www.musee-orsay.fr/",
         consiglio: "Dall'orologio gigante dell'ultimo piano si vede il Sacré-Cœur."
       },
@@ -572,6 +574,7 @@ export const destinazioniFrancia: Destinazione[] = [
         come: "Sull'Île de la Cité, dentro il Palais de Justice; si passa un controllo di sicurezza.",
         quando: "Mattina, con il sole che attraversa le vetrate.",
         tempo: "45 minuti",
+        costo: "22 € per chi viene da fuori dello Spazio economico europeo, 16 € per UE/SEE (2026); biglietto combinato con la Conciergerie.",
         url: "https://www.sainte-chapelle.fr/",
         consiglio: "Prenotare l'orario: le file sono lunghe."
       },
@@ -581,6 +584,7 @@ export const destinazioniFrancia: Destinazione[] = [
         come: "Sull'Île de la Cité. Si può prenotare la visita online per saltare la coda.",
         quando: "Mattina presto.",
         tempo: "1 ora",
+        costo: "Ingresso gratuito alla cattedrale; torri a pagamento.",
         url: "https://www.notredamedeparis.fr/",
         consiglio: "Le torri e il tesoro hanno biglietti a parte."
       },
@@ -590,17 +594,28 @@ export const destinazioniFrancia: Destinazione[] = [
         come: "Metro Bir-Hakeim o RER C Champ de Mars. Biglietti online con orario.",
         quando: "Tramonto per la luce; i punti panoramici migliori per guardarla sono il Trocadéro e l'Arc de Triomphe.",
         tempo: "2-3 ore",
+        costo: "36,70 € fino alla cima in ascensore, 14,80 € fino al secondo piano a piedi (tariffe dal 12 gennaio 2026).",
         url: "https://www.toureiffel.paris/",
         consiglio: "Chi vuole la vista senza fila può salire sulla Tour Montparnasse."
       },
       {
         nome: "Reggia di Versailles",
         testo: "La residenza dei re di Francia fino al 1789, con la Galleria degli Specchi, gli appartamenti reali e i giardini. Il parco è immenso.",
-        come: "RER C da Parigi a Versailles-Château, circa 40 minuti.",
-        quando: "Chiusa il lunedì. Mattina all'apertura; i giardini musicali in alcuni giorni.",
+        come: "RER C da Parigi a Versailles-Château, circa 40 minuti. L'ingresso alla reggia è a orario e va prenotato online.",
+        quando: "Chiusa il lunedì, il 25 dicembre, il 1° gennaio e il 1° maggio. La reggia apre alle 9; Trianon da mezzogiorno. Nei giorni dei giardini musicali (in stagione) il parco è a pagamento.",
         tempo: "giornata intera",
+        costo: "Passaporto (reggia, Trianon e giardini) 35 € da aprile a ottobre e 25 € in bassa stagione per chi viene da fuori dello Spazio economico europeo; 32 € e 22 € per UE/SEE (2026).",
         url: "https://www.chateauversailles.fr/",
         consiglio: "Prenotare l'ingresso e portare un pranzo al sacco per il parco."
+      },
+      {
+        nome: "Montmartre e Sacré-Cœur",
+        testo: "La collina a nord, con la basilica bianca del Sacré-Cœur in cima e la vista su tutta Parigi dalla scalinata. Dietro, Place du Tertre con i pittori e vie in salita che conservano l'aria da villaggio. Più in basso c'è il Moulin Rouge.",
+        come: "Metro Anvers o Abbesses, poi a piedi o con la funicolare, che si prende con un biglietto della metro.",
+        quando: "Mattina presto, prima dei gruppi; al tramonto la scalinata è piena ma la luce è bella.",
+        tempo: "mezza giornata",
+        costo: "Basilica gratuita; la salita alla cupola è a pagamento.",
+        consiglio: "Attenzione a chi offre braccialetti di filo sulla scalinata: è una trappola per chiedere soldi."
       }
     ],
     programmi: [
@@ -690,7 +705,7 @@ export const destinazioniFrancia: Destinazione[] = [
     cosaVedere: [
       'Le **spiagge dello sbarco**: Utah, Omaha, Gold, Juno e Sword, con il cimitero americano di Colleville-sur-Mer, la **Pointe du Hoc** ancora crivellata dai crateri, le batterie di Longues-sur-Mer e i cassoni del **porto artificiale di Arromanches** ancora in mare',
       'Il **Mémorial de Caen**, il museo che inquadra tutta la vicenda a partire dalla fine della Prima guerra mondiale: va visto prima di andare sulle spiagge',
-      'L\'**Arazzo di Bayeux**: settanta metri di ricamo dell\'XI secolo che raccontano la conquista normanna dell\'Inghilterra, iscritto nel registro UNESCO della Memoria del Mondo. **Il museo è in un lungo cantiere di ristrutturazione: prima di andare conviene controllare le date di chiusura e di riapertura**',
+      'L\'**Arazzo di Bayeux**: settanta metri di ricamo dell\'XI secolo che raccontano la conquista normanna dell\'Inghilterra, iscritto nel registro UNESCO della Memoria del Mondo. **Il museo di Bayeux è chiuso dal settembre 2025 e riaprirà, rinnovato, a fine 2027; fino all\'11 luglio 2027 l\'arazzo è esposto al British Museum di Londra**',
       'Il **Mont-Saint-Michel**, con l\'abbazia in cima alla roccia e intorno le maree più ampie dell\'Europa continentale',
       'Le **falesie di Étretat**, con le arcate di gesso, l\'ago di roccia e i sentieri in cima',
       '**Honfleur**, con il Vieux Bassin e Sainte-Catherine, la chiesa in legno più grande di Francia, costruita dai maestri d\'ascia dei cantieri navali',
@@ -723,7 +738,7 @@ export const destinazioniFrancia: Destinazione[] = [
       '**Non controllare il calendario delle maree**: le grandi maree sono pubblicate con anni di anticipo, e sono gli unici giorni in cui il Mont torna un\'isola',
       'Attraversare la baia a piedi da soli: **le sabbie mobili esistono e la marea risale in fretta. La traversata si fa solo con una guida**',
       'Aspettarsi il sole. In Normandia la giacca impermeabile serve anche a luglio',
-      'Dare per scontato che l\'Arazzo di Bayeux sia visitabile: il museo è in un lungo cantiere di ristrutturazione',
+      'Andare a Bayeux per l\'Arazzo: il museo è chiuso fino a fine 2027 e l\'arazzo è a Londra fino a luglio 2027',
     ],
     confronti: [
       {
@@ -824,18 +839,19 @@ export const destinazioniFrancia: Destinazione[] = [
         nome: "Mémorial de Caen",
         testo: "Il museo che inquadra la guerra dal 1918 alla Guerra fredda, in un edificio nuovo sopra i bunker tedeschi di Caen. Va visto prima delle spiagge, per capirne il senso.",
         come: "In auto o con il bus dal centro di Caen.",
-        quando: "Tutto l'anno; aperto tutti i giorni salvo festività.",
+        quando: "Da aprile a settembre tutti i giorni 9-19. Chiude circa tre settimane a gennaio per manutenzione, il 25 dicembre e il 1° gennaio, e alcuni mercoledì di novembre e dicembre.",
         tempo: "3 ore",
+        costo: "20,80 € intero (2026); gratis sotto i 10 anni.",
         consiglio: "Se il tempo è poco, vedere solo le sezioni sulla Seconda guerra mondiale."
       },
       {
-        nome: "Arazzo di Bayeux",
+        nome: "Arazzo di Bayeux (ora a Londra)",
         testo: "Settanta metri di ricamo dell'XI secolo sulla conquista normanna dell'Inghilterra nel 1066, iscritto nel registro UNESCO Memoria del mondo. Mostra Guglielmo, Aroldo e la cometa di Halley.",
-        come: "Nel centro di Bayeux, a piedi dalla stazione. Il museo è in ristrutturazione e l'arazzo è annunciato in prestito al British Museum di Londra tra il 2026 e il 2027: verificare sul sito ufficiale prima di andare.",
-        quando: "Controllare date e aperture.",
+        come: "Il museo di Bayeux è chiuso dal 1° settembre 2025 per i lavori del nuovo museo. L'arazzo è esposto al British Museum di Londra dal 10 settembre 2026 all'11 luglio 2027.",
+        quando: "A Bayeux non si vede fino alla riapertura, prevista a fine 2027. A Londra i biglietti si esauriscono presto: prenotare sul sito del British Museum.",
         tempo: "1 ora",
         url: "https://www.bayeuxmuseum.com/",
-        consiglio: "Visitare la cattedrale di Bayeux nello stesso giro."
+        consiglio: "A Bayeux restano la cattedrale normanna e il centro risparmiato dai bombardamenti: valgono comunque la sosta."
       },
       {
         nome: "Mont-Saint-Michel",
@@ -843,6 +859,8 @@ export const destinazioniFrancia: Destinazione[] = [
         come: "Parcheggio sulla terraferma e navetta gratuita fino al ponte-passerella.",
         quando: "Alba o tramonto. Marea alta nei giorni di luna nuova e piena: controllare le tabelle.",
         tempo: "mezza giornata",
+        costo: "Abbazia 13 € (2026); gratis sotto i 18 anni e per i giovani UE sotto i 26. Il villaggio è libero.",
+        url: "https://www.abbaye-mont-saint-michel.fr/",
         consiglio: "Salire all'abbazia per le sale e le terrazze, non per i negozi."
       },
       {
@@ -861,7 +879,7 @@ export const destinazioniFrancia: Destinazione[] = [
           "Spiagge dello sbarco e cimitero americano",
           "Pointe du Hoc",
           "Pranzo a Bayeux",
-          "Arazzo di Bayeux o cattedrale"
+          "Cattedrale e centro di Bayeux"
         ]
       },
       {
@@ -1289,6 +1307,7 @@ export const destinazioniFrancia: Destinazione[] = [
         come: "In auto da Blois, circa 20 minuti. Si visita da soli o con audioguida.",
         quando: "Mattina, per i giardini e le terrazze. Chiuso il 1° gennaio e il 25 dicembre.",
         tempo: "3 ore",
+        costo: "31 € per chi viene da fuori dello Spazio economico europeo, 21 € per UE/SEE (castello e giardini, 2026).",
         url: "https://www.chambord.org/",
         consiglio: "Salire sulle terrazze per vedere i camini e le torrette da vicino."
       },
@@ -1316,6 +1335,7 @@ export const destinazioniFrancia: Destinazione[] = [
         come: "Treno da Tours, circa 20 minuti. I due siti sono a 10 minuti a piedi.",
         quando: "Mattina.",
         tempo: "mezza giornata",
+        costo: "Clos Lucé 20 € intero (2026).",
         url: "https://www.vinci-closluce.com/",
         consiglio: "La tomba di Leonardo è nella cappella di Saint-Hubert, nel parco del castello."
       },
@@ -2051,7 +2071,7 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Altopiano di Valensole e lavanda",
-        testo: "Il grande paesaggio della lavanda, che fiorisce tra fine giugno e metà luglio e si taglia subito dopo.",
+        testo: "Il grande paesaggio della lavanda: un altopiano di file viola alternate a campi di grano, con qualche casale in pietra in mezzo. Fiorisce tra fine giugno e metà luglio e si taglia subito dopo, quindi le date contano. I campi sono privati: si fotografa dal bordo, senza entrare nei filari.",
         come: "In auto da Riez o Valensole.",
         quando: "Alba o tramonto, durante la fioritura.",
         tempo: "mezza giornata",
@@ -2076,7 +2096,7 @@ export const destinazioniFrancia: Destinazione[] = [
       },
       {
         nome: "Nîmes",
-        testo: "L'arena romana meglio conservata al mondo e la Maison Carrée, tempio romano iscritto all'UNESCO nel 2023.",
+        testo: "Un'arena romana tra le meglio conservate al mondo, ancora usata per concerti e corride, e la Maison Carrée, tempio romano quasi intatto iscritto all'UNESCO nel 2023.",
         come: "Treno da Avignone in 30 minuti.",
         quando: "Mattina.",
         tempo: "mezza giornata",
@@ -2339,6 +2359,7 @@ export const destinazioniFrancia: Destinazione[] = [
         come: "Treno diretto da Tolosa in circa 45 minuti. La cité è a 15 minuti a piedi dalla stazione.",
         quando: "Sera o primo mattino, quando le comitive sono assenti.",
         tempo: "mezza giornata",
+        costo: "Castello comtale e camminamenti delle mura: 19 € fino al 30 settembre, 13 € da ottobre a marzo (2026). La cité e le strade sono libere.",
         consiglio: "Camminare lungo la cinta esterna è gratuito e dà una buona idea della struttura."
       },
       {

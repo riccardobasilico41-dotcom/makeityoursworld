@@ -14,32 +14,32 @@ export const destinazioniMaldive: Destinazione[] = [
     percheAndarci:
       "Para la primera o la última noche, cuando los horarios de los vuelos no permiten una barca o un hidroavión, y para media jornada entre el mercado de pescado y la Mezquita del Viernes.",
     cosaVedere: [
-      'El mercado de pescado de Malé por la mañana',
+      'El mercado de pescado de Malé por la tarde, cuando vuelven los dhonis',
       'El mercado de frutas y verduras',
-      'La Mezquita del Viernes (Hukuru Miskiy), de piedra de coral del siglo XVII',
+      'La Mezquita del Viernes (Hukuru Miskiy), de piedra de coral de 1658',
       'La playa de Hulhumalé',
     ],
     cosaFare: ['Probar los short eats en un café local', 'Un paseo nocturno por el malecón de Hulhumalé'],
     doveDormire: "Hulhumalé, a 10-15 minutos del aeropuerto, con hoteles y guesthouses de 60 a 150 $.",
     doveMangiare: 'Cafés locales para los short eats, restaurantes del malecón de Hulhumalé.',
-    comeArrivare: "Desde el aeropuerto de Velana en ferri a Malé (10 minutos, 1-2 $) o en autobús y taxi a Hulhumalé y a Malé por el puente.",
+    comeArrivare: "Desde el aeropuerto de Velana en ferri a Malé (10-15 minutos, 15 rufiyaas o 1 $, 2025) o en autobús y taxi a Hulhumalé y a Malé por el puente.",
     comeSpostarsi: 'A pie y en taxi.',
     periodoMigliore: 'todo el año.',
     erroriDaEvitare: ['Visitar las mezquitas durante la oración o sin ropa que cubra', "Buscar alcohol: Malé y Hulhumalé son islas habitadas, y allí rige la prohibición"],
     luoghi: [
       {
         "nome": "Mercado de pescado de Malé",
-        "testo": "Donde llegan los atunes pescados al amanecer, cortados ante los curiosos. Al lado está el mercado de fruta y verdura.",
+        "testo": "En el paseo marítimo norte de Malé los dhonis descargan atunes y pescado de arrecife, que se cortan en los mostradores ante los curiosos. Es el rincón más auténtico de la capital: olor fuerte, suelos mojados, pescadores regateando. Al lado está el mercado de fruta y verdura, con cocos, guindillas y paquetes de pescado seco.",
         "come": "Desde la terminal del ferri del aeropuerto, a pocos minutos a pie.",
-        "quando": "Por la mañana temprano, cuando llega el pescado.",
+        "quando": "Desde primera hora de la tarde, cuando vuelven las barcas; el viernes, ritmo reducido por la oración. Sin horario fijo.",
         "tempo": "1 hora",
         "consiglio": "Pide siempre permiso para fotografiar a personas."
       },
       {
         "nome": "Mezquita del Viernes (Hukuru Miskiy)",
-        "testo": "Una mezquita de piedra de coral del siglo XVII, con paredes talladas y techos de madera lacada.",
-        "come": "A pie desde el centro de Malé. Se puede visitar con ropa que cubra.",
-        "quando": "Fuera de las horas de oración.",
+        "testo": "Construida en 1658 bajo el sultán Ibrahim Iskandar, es la mezquita más antigua de Malé: bloques de coral encajados sin argamasa y tallados con motivos e inscripciones, techos y vigas de madera lacada. Al lado están el cementerio con lápidas de coral y el minarete Munnaaru. Las mezquitas de piedra de coral de las Maldivas están en la lista indicativa de la UNESCO.",
+        "come": "A pie desde el centro de Malé. Para entrar, los no musulmanes necesitan un permiso: se pide al personal de la mezquita o al Ministerio de Asuntos Islámicos; desde fuera se ve bien de todos modos.",
+        "quando": "Fuera de las horas de oración, evitando el viernes.",
         "tempo": "30 minutos",
         "consiglio": "Hombros y rodillas cubiertos; no se entra durante la oración."
       },
@@ -56,7 +56,7 @@ export const destinazioniMaldive: Destinazione[] = [
       {
         "titolo": "1 día",
         "tappe": [
-          "Mercado de pescado y de fruta por la mañana",
+          "Mercado de fruta por la mañana, mercado de pescado por la tarde",
           "Mezquita del Viernes fuera de la oración",
           "Ferri al aeropuerto o autobús a Hulhumalé",
           "Cena en el paseo marítimo de Hulhumalé"
@@ -95,8 +95,8 @@ export const destinazioniMaldive: Destinazione[] = [
     ],
     attenzioni: [
       "En las islas habitadas (Malé, Hulhumalé) el alcohol ni se vende ni se bebe. Importarlo está prohibido.",
-      "Desde el 12 de noviembre de 2024 los cigarrillos electrónicos están prohibidos, con importación y uso incluidos.",
-      "Rellenar la IMUGA en las 96 horas antes del vuelo.",
+      "Los cigarrillos electrónicos están prohibidos: importación desde el 15 de noviembre de 2024, posesión y uso desde el 15 de diciembre de 2024, también para los turistas. Desde el 1 de noviembre de 2025 quien haya nacido a partir del 1 de enero de 2007 no puede comprar ni fumar tabaco, turistas incluidos.",
+      "Rellenar la IMUGA (declaración del viajero) en las 96 horas antes del vuelo, una por persona, niños incluidos. Es gratuita: usar solo el portal oficial imuga.immigration.gov.mv, hay webs falsas de pago.",
       "Está prohibido llevarse corales, conchas y arena, incluso de la playa: se confiscan en el aeropuerto y se arriesga una multa."
     ],
     esperienzeSlugs: [],
@@ -124,7 +124,7 @@ export const destinazioniMaldive: Destinazione[] = [
     cosaFare: ['Snorkeling con tiburones nodriza y rayas', 'La inmersión nocturna de Alimatha', 'Una jornada en un resort cercano desde Maafushi'],
     doveDormire: 'Guesthouses en Maafushi (la más desarrollada y concurrida), Guraidhoo, Gulhi, Fulidhoo.',
     doveMangiare: 'Cocina maldiva en las guesthouses y en los cafés de la isla.',
-    comeArrivare: "Speedboat desde Malé en 30-90 minutos (25-40 $), o ferri MTCC económico con pocas salidas.",
+    comeArrivare: "Speedboat desde Malé en 45-90 minutos (20-40 $), o ferri MTCC económico (2-3 $) con pocas salidas.",
     comeSpostarsi: 'Excursiones en barca organizadas por las guesthouses.',
     periodoMigliore: 'de diciembre a abril por el mar en calma; de mayo a noviembre speedboats más agitadas.',
     erroriDaEvitare: ['Esperar un pueblo tranquilo en Maafushi: está muy construida y concurrida', 'Contar con los ferris en viernes'],
@@ -132,16 +132,16 @@ export const destinazioniMaldive: Destinazione[] = [
       {
         "nome": "Maafushi y su bikini beach",
         "testo": "La isla local más desarrollada cerca de Malé, con una bikini beach señalizada, muchas casas de huéspedes y arrecifes cercanos donde se ven tortugas.",
-        "come": "Lancha rápida desde Malé en 30-90 minutos, o el barato ferri MTCC con pocas salidas.",
+        "come": "Lancha rápida compartida desde Malé en unos 45 minutos. El ferri MTCC vía Gulhi sale normalmente por la tarde, de sábado a jueves, y tarda 1,5-2 horas.",
         "quando": "Todo el año; de diciembre a abril el mar está más calmado.",
         "tempo": "2-3 días",
-        "costo": "Lancha rápida aproximadamente 25-40 $ por trayecto (indicativo, 2026)",
+        "costo": "Lancha rápida compartida 20-40 $ por trayecto; ferri MTCC 2-3 $ (indicativo, 2026)",
         "consiglio": "Está muy construida y llena: no es el pueblo tranquilo que se podría esperar."
       },
       {
         "nome": "Fulidhoo",
-        "testo": "Una pequeña isla local de Vaavu, tranquila, con calles de arena y pocos turistas.",
-        "come": "Lancha rápida o ferri desde Malé; las excursiones se reservan en la casa de huéspedes.",
+        "testo": "Una pequeña isla local de Vaavu, tranquila, con calles de arena, unos pocos cientos de habitantes y un puñado de casas de huéspedes. Por la tarde-noche suelen acercarse al muelle tiburones nodriza y rayas en busca de restos de pescado. Es una buena base para los canales de Vaavu y la nocturna de Alimatha.",
+        "come": "Lancha rápida desde Malé, o ferri MTCC en unas 3 horas, 2-3 veces por semana y nunca en viernes; las excursiones se reservan en la casa de huéspedes.",
         "tempo": "2-3 días"
       },
       {
@@ -201,8 +201,9 @@ export const destinazioniMaldive: Destinazione[] = [
     attenzioni: [
       "El viernes es día festivo: tiendas y cafeterías cierran desde media mañana, los ferris largos no circulan y las excursiones pueden reducirse.",
       "Bikini solo en la bikini beach señalizada; en otros sitios hombros y rodillas cubiertos, también para bañarse.",
-      "Los ferris MTCC son lentos, con pocas salidas, y los billetes se pagan en efectivo en la terminal el mismo día.",
-      "Las excursiones de las casas de huéspedes tienen precios fijos: compara con otras si es posible."
+      "Los ferris MTCC son lentos, con pocas salidas y casi nunca en viernes. El billete solo se compra en la terminal el mismo día, 30-45 minutos antes: lleva rufiyaas o dólares en billetes pequeños y consulta los horarios en mtcc.mv o con la casa de huéspedes.",
+      "Las excursiones de las casas de huéspedes tienen precios fijos: compara con otras si es posible.",
+      "Desde el 1 de enero de 2025 la green tax es de 6 $ por persona y noche en las casas de huéspedes de hasta 50 habitaciones y de 12 $ en los resorts: pregunta si ya está incluida en el precio."
     ],
     esperienzeSlugs: [],
     tripSlugs: ['maldive-guida'],
@@ -222,22 +223,22 @@ export const destinazioniMaldive: Destinazione[] = [
     introduzione:
       "Un pequeño atolón en el extremo noreste de Ari, con la isla local de Rasdhoo, y las vecinas Ukulhas y Thoddoo. El lado exterior del atolón cae a pico hacia el azul profundo.",
     percheAndarci:
-      "Para los tiburones martillo que suben de las profundidades al amanecer, de diciembre a mayo, y para una isla local con buenos centros de buceo.",
+      "Para los tiburones martillo que suben de las profundidades al amanecer, sobre todo de diciembre a abril, y para una isla local con buenos centros de buceo.",
     cosaVedere: ['El sitio de los tiburones martillo al amanecer (Hammerhead Point)', 'Los arrecifes con mantas y tortugas', 'La playa y los jardines de Ukulhas y Thoddoo'],
     cosaFare: ['Una inmersión al amanecer en aguas abiertas para buceadores expertos', 'Snorkeling en los arrecifes de la laguna'],
     doveDormire: 'Guesthouses en Rasdhoo, Ukulhas y Thoddoo.',
     doveMangiare: 'Cocina maldiva y pescado a la parrilla en las guesthouses.',
-    comeArrivare: "Speedboat desde Malé en aproximadamente 1 hora-1 hora y media (40-70 $), o ferri MTCC en unas 3 horas con pocas salidas a la semana.",
+    comeArrivare: "Speedboat desde Malé en aproximadamente 1 hora-1 hora y media (40-60 $), o ferri MTCC en unas 3 horas con pocas salidas a la semana.",
     comeSpostarsi: 'En barca con los centros de buceo.',
-    periodoMigliore: 'de diciembre a mayo para los tiburones martillo.',
+    periodoMigliore: 'de diciembre a abril para los tiburones martillo, con el pico entre enero y marzo.',
     costi: 'Inmersión 50-80 $ en los centros locales.',
     erroriDaEvitare: ['Intentar la inmersión de los tiburones martillo sin experiencia en aguas abiertas y en profundidad'],
     luoghi: [
       {
         "nome": "Hammerhead Point",
-        "testo": "El lado exterior del atolón cae al azul profundo. Al amanecer, de diciembre a mayo, suben los tiburones martillo. Es una inmersión en azul, para buceadores experimentados.",
+        "testo": "El sitio es Madivaru Corner, en el lado exterior del atolón que cae al azul profundo. Al amanecer los tiburones martillo festoneados suben del agua más fría y suelen verse entre 25 y 40 metros, junto con tiburones grises y águilas de mar. Es una inmersión en azul, con corriente, para buceadores experimentados.",
         "come": "Con un centro de buceo de Rasdhoo, en barco al amanecer.",
-        "quando": "Al amanecer, de diciembre a mayo.",
+        "quando": "Al amanecer; posibles todo el año, mejor de diciembre a abril (pico enero-marzo).",
         "tempo": "medio día",
         "costo": "Inmersión 50-80 $ en los centros locales (indicativo, 2026)",
         "consiglio": "No la hagas sin experiencia en azul y en profundidad."
@@ -253,7 +254,7 @@ export const destinazioniMaldive: Destinazione[] = [
         "nome": "Arrecifes de Rasdhoo, Ukulhas y Thoddoo",
         "testo": "Snorkel en los arrecifes de la laguna, con mantas y tortugas. Las playas y los jardines de Ukulhas y Thoddoo.",
         "come": "Excursiones en barco desde las casas de huéspedes y los centros de buceo.",
-        "quando": "De diciembre a mayo para los tiburones martillo.",
+        "quando": "Todo el año; de diciembre a abril, mar más tranquilo y agua más clara.",
         "tempo": "un día"
       }
     ],
@@ -336,9 +337,9 @@ export const destinazioniMaldive: Destinazione[] = [
     cosaFare: ['Snorkeling con el tiburón ballena', 'Snorkeling o inmersión con las mantas', 'Pesca al atardecer en dhoni'],
     doveDormire: 'Guesthouses en Dhigurah y Dhangethi; resorts en islas cercanas.',
     doveMangiare: 'Cocina maldiva en las guesthouses, pescado del día.',
-    comeArrivare: "Speedboat desde Malé en 1 hora y media-2 horas (50-70 $), o vuelo interno a Maamigili y barca.",
+    comeArrivare: "Speedboat desde Malé en unas 2 horas (60-100 $), o vuelo interno a Maamigili y barca.",
     comeSpostarsi: 'Excursiones en barca desde las guesthouses y los centros de buceo.',
-    periodoMigliore: 'todo el año para los tiburones ballena, con la ventana más citada de diciembre a abril; mantas en el lado occidental en la estación seca.',
+    periodoMigliore: 'todo el año para los tiburones ballena, con más avistamientos entre agosto y noviembre según Visit Maldives y mar más tranquilo de diciembre a abril; mantas en el lado occidental en la estación seca.',
     costi: 'Tiburón ballena 60-120 $ por persona; mantas y bancos de arena 70-130 $.',
     erroriDaEvitare: [
       'Acercarse a menos de 3 metros del tiburón ballena, tocarlo o usar el flash',
@@ -347,12 +348,12 @@ export const destinazioniMaldive: Destinazione[] = [
     luoghi: [
       {
         "nome": "Tiburón ballena en el arrecife exterior",
-        "testo": "El área marina protegida entre Maamigili y Dhigurah, donde los tiburones ballena jóvenes se alimentan a lo largo del arrecife exterior todo el año. Es el lugar más fácil de las Maldivas para nadar con ellos.",
+        "testo": "La South Ari Marine Protected Area (SAMPA), entre Maamigili y Dhigurah, es uno de los pocos lugares del mundo donde los tiburones ballena, casi todos machos jóvenes, se ven todo el año. Nadan a lo largo del arrecife exterior, a menudo cerca de la superficie: basta con máscara y aletas. Es el lugar más fácil de las Maldivas para encontrarlos, y las barcas se coordinan por radio para localizarlos.",
         "come": "Excursión en barco desde las casas de huéspedes y centros de buceo de Dhigurah y Dhangethi.",
-        "quando": "Todo el año; la ventana más citada es de diciembre a abril.",
+        "quando": "Todo el año; según Visit Maldives los avistamientos son más numerosos entre agosto y noviembre, y de diciembre a abril el mar está más tranquilo.",
         "tempo": "medio día",
         "costo": "60-120 $ por persona (indicativo, 2026)",
-        "consiglio": "Mantén más de 3 metros de distancia al animal, no lo toques y no uses flash. Elige operadores que respeten los límites de barcos y nadadores."
+        "consiglio": "Mantén al menos 3 metros de distancia del cuerpo y 4 de la cola, no lo toques, no nades delante de él y no uses flash. Elige operadores que respeten los límites de barcos y nadadores."
       },
       {
         "nome": "Mantas en las estaciones de limpieza",
@@ -365,9 +366,9 @@ export const destinazioniMaldive: Destinazione[] = [
       {
         "nome": "Bikini beach de Dhigurah",
         "testo": "Dhigurah es increíble, probablemente la isla más completa de todas las Maldivas. Una playa larga, aunque algo de gente hay igualmente.",
-        "come": "Lancha rápida desde Malé en 1,5-2 horas, o vuelo interno a Maamigili y barco.",
+        "come": "Lancha rápida desde Malé en unas 2 horas, normalmente dos salidas al día, o vuelo interno a Maamigili y barco.",
         "tempo": "medio día",
-        "costo": "Lancha rápida 50-70 $ por trayecto (indicativo, 2026)",
+        "costo": "Lancha rápida 60-100 $ por trayecto (indicativo, 2026)",
         "consiglio": "En las excursiones no tienes autonomía de elección: dependes de tu homestay o de tu hotel, y los precios son «de cartel»."
       },
       {
@@ -461,7 +462,7 @@ export const destinazioniMaldive: Destinazione[] = [
     comeArrivare: 'Hidroavión desde Malé (unos 35-45 minutos) o vuelo interno a Dharavandhoo y barca.',
     comeSpostarsi: 'En barca.',
     periodoMigliore: 'de junio a noviembre, pico de agosto a octubre en las semanas alrededor de luna nueva y luna llena.',
-    costi: 'Tasa de entrada a la bahía indicativamente 20-50 $ por persona, excursión aparte.',
+    costi: 'Entrada a la bahía unos 20 $ por persona y día, normalmente incluida en la excursión (60-80 $ desde las islas locales).',
     erroriDaEvitare: [
       'Esperar sumergirse con botellas: en Hanifaru solo se permite el snorkeling',
       'Reservar a última hora en agosto-octubre: las entradas están limitadas',
@@ -469,16 +470,16 @@ export const destinazioniMaldive: Destinazione[] = [
     luoghi: [
       {
         "nome": "Bahía de Hanifaru",
-        "testo": "Una pequeña bahía en la reserva de la biosfera de la UNESCO de Baa, donde entre junio y noviembre se reúnen decenas, a veces más de cien, mantas para alimentarse de plancton. Se observa haciendo snorkel.",
+        "testo": "Una pequeña bahía en forma de embudo en la reserva de la biosfera de la UNESCO de Baa (desde 2011). Con el monzón del suroeste las corrientes atrapan allí el plancton y llegan decenas, a veces más de cien, mantas que comen en círculo, a veces con algún tiburón ballena. Solo se observa haciendo snorkel, en turnos de unos 45 minutos controlados por los guardas.",
         "come": "En barco desde Dharavandhoo o Thulhaadhoo con guía autorizado. El buceo con botellas está prohibido.",
         "quando": "De junio a noviembre, con pico entre agosto y octubre en las semanas de luna nueva y luna llena.",
         "tempo": "medio día",
         "costo": "Entrada 20 $ por persona y día para el fondo de conservación del atolón, normalmente ya incluida en la excursión (indicativo, 2026)",
-        "consiglio": "Reserva con antelación en agosto-octubre: las entradas son limitadas."
+        "consiglio": "Reserva con antelación en agosto-octubre: las entradas son limitadas. Prohibidos el flash y el contacto con los animales."
       },
       {
         "nome": "Arrecifes y thilas del atolón",
-        "testo": "Fuera de la bahía, inmersiones en los sitios del atolón, entre pináculos sumergidos y arrecifes.",
+        "testo": "Fuera de la bahía, inmersiones en los sitios del atolón, entre pináculos sumergidos (thila) y arrecifes. Aquí se permite bucear con botella y las estaciones de limpieza atraen mantas incluso cuando la bahía está vacía. Es la manera de ver Baa bajo el agua sin los turnos ni las reglas de Hanifaru.",
         "come": "Con los centros de buceo de las islas locales o de los resorts.",
         "tempo": "un día"
       }
@@ -557,7 +558,7 @@ export const destinazioniMaldive: Destinazione[] = [
     cosaFare: ['Inmersiones con los tiburones tigre para buceadores certificados', 'Una vuelta en bici por la isla'],
     doveDormire: 'Guesthouses y pequeños hoteles ligados a los centros de buceo.',
     doveMangiare: 'Cocina maldiva en las guesthouses.',
-    comeArrivare: 'Vuelo interno desde Malé en aproximadamente 1 hora y 20 minutos.',
+    comeArrivare: 'Vuelo interno desde Malé en aproximadamente 1 hora y 20-25 minutos.',
     comeSpostarsi: 'Bici, moto, taxi.',
     periodoMigliore: 'todo el año; el mar puede estar agitado de mayo a noviembre.',
     erroriDaEvitare: ['Ir sin experiencia: las corrientes y las condiciones oceánicas requieren titulación avanzada y un buen número de inmersiones'],
@@ -572,7 +573,7 @@ export const destinazioniMaldive: Destinazione[] = [
       },
       {
         "nome": "Lagos interiores y playa de Thoondu",
-        "testo": "La isla tiene lagos de agua dulce y una vegetación densa, algo raro en las Maldivas. La playa de Thoondu tiene arena de guijarros blancos.",
+        "testo": "La isla tiene dos lagos de agua dulce, algo raro en las Maldivas: Bandaara Kilhi, el más grande, con las marismas y el barro de Koda Kilhi, y Dhadimagi Kilhi, con el Fuvahmulah Nature Park, una pasarela de madera y garzas. Al norte, la playa de Thoondu está hecha de pequeños guijarros blancos y lisos en lugar de arena, y es zona protegida.",
         "come": "En bici, scooter o taxi por la isla.",
         "tempo": "medio día"
       },

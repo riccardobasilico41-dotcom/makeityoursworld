@@ -826,8 +826,9 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Museos Vaticanos y Capilla Sixtina",
         "testo": "Kilómetros de salas con colecciones de arte antiguo y renacentista: la Galería de los Mapas, las Estancias de Rafael y, al final, la Capilla Sixtina con los frescos de Miguel Ángel. El recorrido es largo y obligado, con multitud continua.",
         "come": "Metro A hasta Ottaviano o Cipro y después 10 minutos a pie. Mejor reservar en línea en la web oficial para evitar la cola de la taquilla. Desde la Sixtina se puede salir directamente a San Pedro solo con visita guiada autorizada.",
-        "quando": "Cerrados los domingos, salvo el último domingo del mes, cuando la entrada es gratuita y hay una multitud enorme. Primera franja de la mañana o final de la tarde.",
+        "quando": "De lunes a sábado de 8 a 20 h, última entrada a las 18 h. Cerrados los domingos, salvo el último del mes (de 9 a 14 h, última entrada a las 12:30), cuando la entrada es gratuita y hay muchísima gente. También cierran en algunas fiestas religiosas: ver el calendario en la web. Primera franja de la mañana o última hora de la tarde.",
         "tempo": "3-4 horas",
+        "costo": "20 euros la entrada general, 25 euros con reserva online en la web oficial (2026)",
         "url": "https://www.museivaticani.va/",
         "consiglio": "En la Sixtina el personal vigila el silencio y la prohibición de fotografiar. Decidir antes qué ver: nadie consigue verlo todo."
       },
@@ -854,7 +855,6 @@ export const destinazioniItalia: Destinazione[] = [
         "come": "Dentro de Villa Borghese, a unos 20 minutos a pie desde Piazza di Spagna o desde Piazzale Flaminio. Reserva obligatoria con entrada por franjas de dos horas.",
         "quando": "Cerrada los lunes. Las franjas se agotan con días o semanas de antelación en temporada alta.",
         "tempo": "2 horas (la visita tiene duración fija)",
-        "costo": "16 euros más 2 euros de reserva, 2026 (fuentes secundarias)",
         "url": "https://galleriaborghese.cultura.gov.it/",
         "consiglio": "Llegar un poco antes para recoger la entrada y dejar las cosas en el guardarropa. El parque de alrededor es bonito para pasear después."
       },
@@ -1256,10 +1256,11 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Palacio Ducal",
         "testo": "La sede del gobierno de la República y residencia del dux, en gótico veneciano. Dentro están la Sala del Gran Consejo con el Paraíso de Tintoretto, la Escalera de los Gigantes, las cárceles y el Puente de los Suspiros. Los Itinerarios Secretos llevan a las estancias de los funcionarios.",
         "come": "Junto a la Basílica, en la cuenca de San Marcos. La entrada estándar incluye también los museos de Piazza San Marco. Recomendable la audioguía, que se recoge a la entrada.",
-        "quando": "Abierto todos los días, con horario ampliado en verano y última entrada una hora antes del cierre. A primera hora o al final de la tarde para evitar los grupos.",
+        "quando": "Abierto todos los días: de 9 a 19 h de abril a octubre, de 9 a 18 h de noviembre a marzo, última entrada una hora antes del cierre. Primera hora de la mañana o última de la tarde para evitar los grupos.",
         "tempo": "2-3 horas",
+        "costo": "35 euros la entrada general, con los Museos de la Plaza de San Marcos; 30 euros si se compra online con más de 30 días de antelación (2026)",
         "url": "https://palazzoducale.visitmuve.it/",
-        "consiglio": "El precio cambia entre fuentes y épocas: comprobar el actualizado en la web oficial antes de comprar. Reservar en línea para evitar la cola."
+        "consiglio": "Comprar online con más de un mes de antelación ahorra 5 euros y permite saltarse la cola. La audioguía de la app MUVE está incluida en la entrada."
       },
       {
         "nome": "Scuola Grande di San Rocco",
@@ -1462,7 +1463,7 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Museo Arqueológico Nacional (MANN)",
         "testo": "Reúne los mosaicos, frescos, bronces y estatuas traídos de Pompeya y Herculano, además de la colección Farnese. Conviene verlo antes que los yacimientos del Vesubio: en Pompeya se entiende entonces qué había dentro de los muros.",
         "come": "Metro línea 1 o 2 hasta Museo/Piazza Cavour, a pocos minutos a pie. Se visita por cuenta propia con los paneles; la audioguía es opcional.",
-        "quando": "El museo cierra los martes. Por la mañana, cuando hay menos gente en las salas de mosaicos.",
+        "quando": "Cierra los martes. Abierto de 9 a 19:30 h, última entrada a las 18:30 (2026). Por la mañana, cuando hay menos gente en las salas de mosaicos.",
         "tempo": "2-3 horas",
         "consiglio": "Subir directamente a los mosaicos de Pompeya y al Gabinete secreto, y bajar luego a la colección Farnese si sobra tiempo."
       },
@@ -1487,8 +1488,9 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Pompeya",
         "testo": "Una ciudad romana de 66 hectáreas sellada por la erupción del 79 d.C.: calles con las marcas de los carros, tiendas, termas, casas con frescos, el foro y el anfiteatro. La parte excavada es grande y hay que elegir qué ver.",
         "come": "Circumvesuviana, línea Nápoles-Sorrento, hasta Pompei Scavi-Villa dei Misteri (unos 40 minutos desde Napoli Garibaldi). También se puede ir en tren regional hasta Pompei. Se recomienda audioguía o guía.",
-        "quando": "A la apertura o a última hora de la tarde en verano; no al mediodía, sin sombra. El yacimiento cierra el 1 de enero, el 1 de mayo y el 25 de diciembre. Entradas nominativas, con tope diario de visitantes y franjas horarias en verano.",
+        "quando": "A la apertura o a última hora de la tarde en verano; no a mediodía, sin sombra. Abierto de 9 a 19 h del 16 de marzo al 14 de octubre (última entrada 17:30) y de 9 a 17 h el resto del año (última entrada 15:30). Cerrado el 25 de diciembre y el 1 de enero, salvo aperturas extraordinarias. Entradas nominativas, límite de 20.000 visitantes al día y franjas horarias en temporada alta.",
         "tempo": "3-4 horas",
+        "costo": "Pompei Express 20 euros; Pompei+, con las villas suburbanas y Boscoreale, 25 euros (desde el 12 de enero de 2026). Venta online solo en Vivaticket, o en taquilla",
         "url": "https://pompeiisites.org/",
         "consiglio": "Visto después del MANN, se reconocen las obras. Llevar agua y gorra: hay pocos puntos donde refrescarse."
       },
@@ -1675,8 +1677,9 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Pinacoteca de Brera",
         "testo": "Una de las colecciones de pintura italiana más importantes, con Mantegna, Rafael, Caravaggio y El beso de Hayez. Está en un palacio del siglo XVIII con patio, en el barrio de Brera.",
         "come": "Metro M2 Lanza o M3 Montenapoleone, y diez minutos a pie por las calles de Brera. Visita por cuenta propia.",
-        "quando": "Cierra los lunes. La tarde es más tranquila. El barrio se disfruta por la noche.",
+        "quando": "Cerrada los lunes; de martes a domingo de 8:30 a 19:15 h, con reserva obligatoria. Por la tarde hay más calma. El barrio se recorre bien por la noche.",
         "tempo": "2 horas",
+        "costo": "20 euros la entrada general, billete Grande Brera con el Palazzo Citterio (2026)",
         "url": "https://pinacotecabrera.org/",
         "consiglio": "Elegir cinco o seis salas y no intentar verlas todas."
       },
@@ -2541,8 +2544,8 @@ export const destinazioniItalia: Destinazione[] = [
       {
         "nome": "Stromboli",
         "testo": "Isla-volcán con erupciones casi continuas del cráter, visibles cada 10-20 minutos aproximadamente. Bajo la Sciara del Fuoco está el pueblo, con pocos habitantes. El recuerdo más fuerte para mí fue verla desde el mar de noche, con el motor apagado frente a la Sciara, cuando el cráter lanza material incandescente hasta el agua.",
-        "come": "Aliscafo desde Milazzo (unas 2 horas y media) o desde Lipari y las demás Eolias. En la isla se camina y se usan ape-taxi. La subida requiere guías autorizados.",
-        "quando": "Subida solo con guía y solo hasta la cota fijada por ordenanza (para excursiones guiadas hoy 400 metros, la cima está prohibida desde 2019): comprobar antes de reservar. Junio y septiembre, con mar en calma, para las salidas en barco.",
+        "come": "Hidroala desde Milazzo (unas 2 horas y media) o desde Lipari y las demás Eolias. En la isla se camina y se usan taxis-ape. Por encima de la cota libre hacen falta guías vulcanológicos autorizados.",
+        "quando": "La subida está regulada por ordenanzas que cambian según la actividad del volcán: la cota máxima y la obligación de ir con guía se comprueban en el Comune di Lipari o con los guías autorizados antes de reservar. La cima está cerrada a los visitantes desde las erupciones de 2019. Junio y septiembre, con mar en calma, para las salidas en barco.",
         "tempo": "1 jornada completa, mejor una noche",
         "consiglio": "Por la noche se cena en Stromboli y se sale en barco a oscuras: no hace falta la cima para ver las explosiones. Linterna frontal, botas de trekking y un jersey incluso en septiembre."
       },
@@ -3366,7 +3369,7 @@ export const destinazioniItalia: Destinazione[] = [
         "nome": "Museo Egizio",
         "testo": "La colección egipcia más importante fuera de El Cairo, nacida en 1824 del núcleo reunido por el cónsul Drovetti. La pieza imprescindible es la tumba de Kha y Merit, hallada intacta en 1906 con todo su ajuar. Después, el Templo de Ellesiya, la Galería de los Reyes y el Papiro de las Minas de Oro.",
         "come": "En pleno centro, a pie desde Piazza Castello o Piazza San Carlo. Se entra con entrada comprada en línea, por franja horaria. Audioguía o app para entender las piezas.",
-        "quando": "Abierto todos los días. Lunes 9-14, martes a viernes y domingo 9-18.30, sábado 9-20, última entrada una hora antes del cierre. A primera hora o el sábado por la tarde para evitar multitudes.",
+        "quando": "Abierto todos los días. Lunes 9-14, martes a viernes y domingo 9-18.30, sábado 9-20, última entrada una hora antes del cierre. A primera hora o el sábado por la tarde para evitar multitudes. Las Salas Históricas están cerradas temporalmente desde el 12 de diciembre de 2025: ver el aviso en la web.",
         "tempo": "3 horas, mejor 4",
         "costo": "18 euros entrada general (2026)",
         "url": "https://www.museoegizio.it/",

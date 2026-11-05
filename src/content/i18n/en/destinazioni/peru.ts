@@ -64,7 +64,7 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "2 km from the centre and 200 metres higher: 10 minutes by taxi or 30-40 minutes uphill on foot, to be avoided in the first days at altitude. Included in the Boleto Turístico.",
         "quando": "Morning or early afternoon. On 24 June the area is closed to the public for the Inti Raymi.",
         "tempo": "1.5-2 hours",
-        "costo": "General Boleto Turístico about 130 soles for foreigners, valid 10 days, 16 sites (November 2025 figure: check before leaving)",
+        "costo": "General Boleto Turístico about 130 soles for foreigners, valid 10 days, 16 sites (COSITUC price list, 2026). Partial tickets for a single circuit cost 70 soles",
         "consiglio": "Go up by taxi and walk down: the descent towards San Blas is pleasant and does not tire you."
       },
       {
@@ -201,7 +201,7 @@ export const destinazioniPeru: Destinazione[] = [
     comeArrivare: 'About 1h30 by car from Cusco to Ollantaytambo; frequent, cheap colectivos leave from Calle Pavitos in Cusco.',
     comeSpostarsi: 'Car with a driver or an organized tour to cover Maras, Moray and Pisac in one day; colectivos between the main towns.',
     periodoMigliore: 'May-September; in the rainy season the dirt roads to Maras get difficult',
-    costi: 'most sites are included in the Tourist Ticket (Boleto Turístico); the Maras salt pans have a separate ticket (about 10 soles)',
+    costi: 'most sites are included in the Tourist Ticket (Boleto Turístico); the Maras salt pans have a separate ticket, paid in cash at the entrance',
     erroriDaEvitare: [
       'Squeezing the Sacred Valley and Machu Picchu into a single rushed day: it is the classic mistake that takes the meaning out of both',
       'Sleeping in Cusco the night before the 5 or 6 a.m. train from Ollantaytambo',
@@ -224,7 +224,7 @@ export const destinazioniPeru: Destinazione[] = [
         "quando": "The site in the morning; the town is at its best in the evening, when the tour buses have left.",
         "tempo": "2-3 hours for the site, one night for the town",
         "consiglio": "Sleep here the night before the train to Machu Picchu: you gain more than an hour of sleep compared with leaving from Cusco.",
-        "url": "https://cosituc.gob.pe/"
+        "url": "https://cosituccusco.pe/tarifario/"
       },
       {
         "nome": "Maras salt pans",
@@ -232,7 +232,7 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "By car with a driver or on a tour, often combined with Moray. You walk along the edge of the pans where access is allowed.",
         "quando": "Morning or late afternoon, when the salt is whitest.",
         "tempo": "1 hour",
-        "costo": "About 10 soles, a ticket separate from the Boleto Turístico (indicative figure from the site)",
+        "costo": "Separate ticket, not included in the Boleto Turístico: paid in cash at the entrance",
         "consiglio": "The dirt roads to Maras become difficult in the rainy season."
       },
       {
@@ -358,7 +358,7 @@ export const destinazioniPeru: Destinazione[] = [
             nome: 'Train from Ollantaytambo or Cusco',
             sintesi:
               'The classic way: a PeruRail or IncaRail train to Aguas Calientes, then a shuttle bus to the entrance. Departures from Ollantaytambo are more numerous and cheaper than those from Cusco/Poroy.',
-            costo: 'train $70-500 round trip depending on class (Expedition/Voyager are the cheap ones, Vistadome is panoramic, Hiram Bingham is luxury), plus $24 for the round-trip shuttle bus and entry to the site (about 152 soles)',
+            costo: 'train $70-500 round trip depending on class (Expedition/Voyager are the cheap ones, Vistadome is panoramic, Hiram Bingham is luxury), plus $24 for the round-trip shuttle bus and entry to the site (152 soles for foreign adults on the circuits without a mountain, 2026)',
             durata: '1 day from Ollantaytambo, better 2 with a night in Aguas Calientes',
             pro: [
               'No physical preparation required, suitable for everyone',
@@ -473,7 +473,7 @@ export const destinazioniPeru: Destinazione[] = [
     periodoMigliore:
       'May-September for clear skies, but it is also when everything sells out first. April and October are a good compromise between weather and crowds',
     costi:
-      "Entry: about 152 soles for the basic circuit; the circuit with Huayna Picchu or with Machu Picchu Mountain costs about 200 soles (around $54). The only official seller is the Ministry of Culture portal, tuboleto.cultura.pe: everything else is resellers with a markup.",
+      "Entry for foreign adults (2026): 152 soles for the circuits without a mountain, 200 soles for the routes with Huayna Picchu, Machu Picchu Mountain or the Great Cavern. An 11-sol increase for foreign adults was announced from 1 May 2026: check the final figure when you buy. There are three circuits and ten routes, with a daily cap (4,500 entries a day, 5,600 in high season). The only official seller is the Ministry of Culture portal, tuboleto.cultura.pe: everything else is resellers with a markup.",
     erroriDaEvitare: [
       'Booking late: for Huayna Picchu you need 2-3 months ahead in any season, 3-4 in the high season, and the spots go fast',
       'Buying tickets from unofficial resellers at inflated prices instead of on tuboleto.cultura.pe',
@@ -489,7 +489,7 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "You reach Aguas Calientes by train or on foot, then the shuttle bus (25 minutes) or 1h30-2h uphill on foot. Inside the site the route is fixed: you choose the circuit when you buy and cannot move freely. A guide is mandatory.",
         "quando": "The first slot gives forty minutes of silence that pay for the early alarm. May-September is the dry season, but also when places sell out first.",
         "tempo": "3-4 hours",
-        "costo": "About 152 soles for the basic circuit (site figure, 2026). Tickets only on the official portal",
+        "costo": "152 soles for foreign adults on the circuits without a mountain (2026); an 11-sol increase was announced from 1 May 2026. Tickets only on the official portal",
         "url": "https://tuboleto.cultura.pe/",
         "consiglio": "Sleep in Aguas Calientes to enter at the first slot. You cannot eat inside: bring water and a snack to eat before entering."
       },
@@ -499,7 +499,7 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Separate ticket with time slots and very few places. The climb starts inside the site and takes about 1h30-2h round trip.",
         "quando": "Morning slots. Book 2-3 months ahead in any season, 3-4 in peak months.",
         "tempo": "2-3 hours",
-        "costo": "About 200 soles for the circuit with Huayna Picchu (site figure, 2026)",
+        "costo": "200 soles for foreign adults (route 3-A, 2026)",
         "url": "https://tuboleto.cultura.pe/",
         "consiglio": "Rick did it: it is beautiful, but anyone with vertigo should think hard."
       },
@@ -509,7 +509,7 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Separate limited-entry ticket, same booking rules as Huayna Picchu. The climb starts from the site.",
         "quando": "Morning slots; book months ahead.",
         "tempo": "3-4 hours up and down",
-        "costo": "About 200 soles (circuit with the Mountain, site figure, 2026)",
+        "costo": "200 soles for foreign adults (route 1-A, 2026)",
         "url": "https://tuboleto.cultura.pe/",
         "consiglio": "If Huayna Picchu is sold out or you fear exposed stretches, this is the alternative."
       },
@@ -643,7 +643,7 @@ export const destinazioniPeru: Destinazione[] = [
     periodoMigliore:
       'April to October. In the rainy season the trail becomes dangerous because of landslides, and the heat in the canyon is heavy at any time of year',
     costi:
-      'Organized trek roughly $400-700 per person for 4-5 days with guide, mules and meals; independently you spend much less, with entry to the site around 60 soles.',
+      'Organized trek roughly $400-700 per person for 4-5 days with guide, mules and meals; independently you spend much less, plus the site entry, paid at the control point.',
     confronti: [
       {
         titolo: 'Go now or wait for the cable car?',
@@ -701,7 +701,7 @@ export const destinazioniPeru: Destinazione[] = [
         "come": "Only on foot from Cachora, after two days of walking. You camp near the site; a guide is not mandatory but advised.",
         "quando": "April to October. In the rainy season the path is dangerous.",
         "tempo": "A morning or a full day; two nights is best",
-        "costo": "Entry about 60 soles (indicative figure from the site)",
+        "costo": "Site entry paid at the control point before the citadel; fare on the Ministry of Culture site",
         "consiglio": "Stay two nights to have a full day among the ruins without the fatigue of the climb."
       },
       {
@@ -1333,7 +1333,7 @@ export const destinazioniPeru: Destinazione[] = [
     comeArrivare: 'Flight from Lima (about 1h30) or overnight bus; from Puno about 6 hours by bus.',
     comeSpostarsi: 'Arequipa is walkable; for the Colca, organized two-day tours or regular buses to Chivay and Cabanaconde.',
     periodoMigliore: 'May-September; condors can be seen all year but most likely in the early morning hours',
-    costi: 'entry to the Santa Catalina Monastery and the Colca tourist ticket are separate, both modest',
+    costi: 'Santa Catalina Monastery 50 soles for foreign adults (2026); the Colca tourist ticket is separate',
     erroriDaEvitare: [
       'Doing the Colca in a single day from Arequipa: it means leaving at 3 a.m. and spending almost all the time on the bus',
       'Underestimating the climb out of the Sangalle oasis: about 3,600 feet (1,100 meters) of elevation gain, to be done before the sun gets strong',
@@ -1352,9 +1352,10 @@ export const destinazioniPeru: Destinazione[] = [
       {
         "nome": "Santa Catalina Monastery",
         "testo": "A city within a city, with lanes, coloured courtyards and cells. Dominican nuns lived here, closed off from the world for centuries.",
-        "come": "On foot from the centre. Tickets and hours on the official site.",
-        "quando": "Early morning or evening, when open on extended hours. Check days on the site.",
+        "come": "On foot from the centre. You need your passport for the foreigner ticket.",
+        "quando": "Every day 9am-5pm; on Tuesday and Wednesday open until 8pm (last entry 7pm). Closed on Good Friday, 25 December and 1 January.",
         "tempo": "1.5-2 hours",
+        "costo": "50 soles for foreign adults (2026)",
         "url": "https://www.santacatalina.org.pe/",
         "consiglio": "Visit mid-morning or in the evening to avoid groups."
       },

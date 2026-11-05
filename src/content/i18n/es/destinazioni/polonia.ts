@@ -73,7 +73,7 @@ export const destinazioniPolonia: Destinazione[] = [
       },
       {
         nome: "Kazimierz",
-        testo: "La antigua ciudad judía autónoma fundada en 1335, con la Old Synagogue (la más antigua de Polonia), la sinagoga Remuh y el cementerio. Hoy es también el barrio de los cafés, galerías y locales.",
+        testo: "La ciudad fundada en 1335 por Casimiro el Grande y durante siglos corazón de la vida judía de Cracovia, con la Sinagoga Vieja (la sinagoga más antigua que se conserva en Polonia), la sinagoga Remuh y el cementerio. Hoy es también el barrio de los cafés, galerías y locales.",
         come: "A pie o en tranvía desde Stare Miasto (10 minutos).",
         quando: "De día para las sinagogas; por la noche para los locales.",
         tempo: "3 horas",

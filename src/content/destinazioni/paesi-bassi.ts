@@ -58,8 +58,9 @@ export const destinazioniPaesiBassi: Destinazione[] = [
         nome: "Rijksmuseum",
         testo: "Il museo nazionale olandese, con la Ronda di notte di Rembrandt, i Vermeer e le navi in miniatura. L'edificio ha un giardino gratuito con sculture e una piazza dove si fanno le foto.",
         come: "Tram 2 o 12 fino al Rijksmuseum, 10 minuti dal centro. Biglietto online con orario.",
-        quando: "Mattina presto o pomeriggio tardi, per evitare la ressa davanti alla Ronda di notte.",
+        quando: "Tutti i giorni 9-17, festivi compresi; mattina presto o pomeriggio tardi per evitare la ressa davanti alla Ronda di notte.",
         tempo: "3 ore",
+        costo: "25 € adulti (2026), gratuito sotto i 18 anni",
         url: "https://www.rijksmuseum.nl",
         consiglio: "Cominciare dal piano degli Anni d'oro: in un'ora si vedono le sale più importanti."
       },
@@ -75,9 +76,10 @@ export const destinazioniPaesiBassi: Destinazione[] = [
       {
         nome: "Casa di Anne Frank",
         testo: "L'alloggio segreto dove Anne Frank e la famiglia si nascosero dal 1942 al 1944, sopra la ditta del padre. Il percorso è stretto e silenzioso; non è permesso fotografare.",
-        come: "I biglietti si vendono solo online sul sito ufficiale, con settimane di anticipo; non si compra all'ingresso.",
+        come: "I biglietti si vendono solo online sul sito ufficiale: ogni martedì alle 10 escono quelli per le visite di sei settimane dopo. All'ingresso non si vendono.",
         quando: "Prenotare appena si decidono le date; a Prinsengracht, 15 minuti dal centro.",
         tempo: "1-1,5 ore",
+        costo: "16,50 € adulti, con 1 € di commissione (sito ufficiale, 2026)",
         url: "https://www.annefrank.org",
         consiglio: "Diffidare dei rivenditori: il sito ufficiale è l'unico affidabile."
       },

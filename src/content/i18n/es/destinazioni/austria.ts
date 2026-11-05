@@ -49,25 +49,27 @@ export const destinazioniAustria: Destinazione[] = [
         nome: "Palacio de Schönbrunn",
         testo: "La residencia de verano de los Habsburgo, Patrimonio de la UNESCO, con 1.441 salas y jardines barrocos. Se visitan los aposentos de Francisco José y de Sissi, con varios tours.",
         come: "Metro U4 hasta Schönbrunn (20 minutos del centro). Entradas online con hora.",
-        quando: "Temprano por la mañana, para adelantarse a los grupos; el parque cierra más tarde.",
+        quando: "Palacio todos los días de 8:30 a 17, jardines desde las 6:30; temprano para adelantarse a los grupos.",
         tempo: "3-4 horas",
+        costo: "Palace Ticket 42 € adultos (2026), solo en línea en la web oficial; jardines libres",
         url: "https://www.schoenbrunn.at",
-        consiglio: "La entrada «Imperial Tour» es más corta que la «Grand Tour»: elegir según el tiempo."
+        consiglio: "Los recorridos cambian en duración y salas incluidas: elegirlos en la web oficial, el único canal de venta en línea, y no en revendedores."
       },
       {
         nome: "Hofburg y Museo Sissi",
         testo: "El palacio imperial en el centro, con aposentos imperiales, la colección de platería y el museo dedicado a Sissi. El complejo alberga también la Escuela Española de Equitación.",
         come: "Metro U3 hasta Herrengasse, luego a pie (5 minutos).",
-        quando: "Mañana entre semana.",
+        quando: "Todos los días de 10 a 16:30; el Museo Sissi renovado reabre el 19 de noviembre de 2026. Mañanas entre semana.",
         tempo: "2 horas",
-        url: "https://www.hofburg-wien.at",
+        costo: "Museo Sissi 15 €, con visita guiada a los apartamentos 33 € (2026)",
+        url: "https://www.sisimuseum-hofburg.at",
         consiglio: "Combinar con un paseo por el Volksgarten, justo al lado."
       },
       {
         nome: "Catedral de San Esteban (Stephansdom)",
-        testo: "El símbolo de Viena, de estilo gótico, con el tejado de tejas de colores y la torre sur de 137 metros. Se puede subir a la torre, unos 343 escalones.",
+        testo: "El símbolo de Viena, de estilo gótico, con el tejado de tejas de colores y la torre sur de 136 metros. Se puede subir a la torre, unos 343 escalones.",
         come: "Metro U1/U3 hasta Stephansplatz. La entrada al crucero es gratuita; torre y catacumbas de pago.",
-        quando: "Temprano por la mañana o al atardecer, por la luz en el tejado.",
+        quando: "Visitas turísticas lun-sáb de 9 a 11:30 y de 13 a 16:30, domingos y festivos de 13 a 16:30, salvo oficios. Temprano o al atardecer para la luz sobre el tejado.",
         tempo: "1 hora",
         url: "https://www.stephanskirche.at",
         consiglio: "Si hay poco tiempo, subir a la torre norte en ascensor."
@@ -76,8 +78,9 @@ export const destinazioniAustria: Destinazione[] = [
         nome: "Belvedere",
         testo: "Dos palacios barrocos con jardín a la italiana, sede de la mayor colección de Klimt, incluido «El beso». El parque es bonito por sí solo.",
         come: "Tranvía D hasta Schloss Belvedere. Entradas para el Belvedere Superior.",
-        quando: "Temprano por la mañana, para ver «El beso» sin multitudes.",
+        quando: "Todos los días de 9 a 18; temprano para ver «El beso» sin multitudes.",
         tempo: "2 horas",
+        costo: "Belvedere superior 23 € adultos (2026, precio del día)",
         url: "https://www.belvedere.at",
         consiglio: "Reservar online para saltarse la cola."
       },
@@ -85,16 +88,17 @@ export const destinazioniAustria: Destinazione[] = [
         nome: "Kunsthistorisches Museum",
         testo: "El gran museo de arte de los Habsburgo, con Bruegel, Rafael, Tiziano y Vermeer. El propio edificio, con su cúpula y escalinata, es una obra de arte.",
         come: "Metro U2 o U3 hasta Volkstheater, junto al Naturhistorisches Museum.",
-        quando: "Mañana entre semana; comprobar los días de cierre en la web.",
+        quando: "Todos los días de 10 a 18, jueves hasta las 21; mañanas entre semana.",
         tempo: "2-3 horas",
+        costo: "22 € en línea, 24 € en taquilla (2026); desde el 8 de septiembre de 2026 entrada solo por franja horaria",
         url: "https://www.khm.at",
         consiglio: "La sala de Bruegel es la más famosa, pero por sí sola vale medio museo."
       },
       {
         nome: "Ópera Estatal (Staatsoper)",
         testo: "Uno de los teatros líricos más importantes del mundo. Se puede visitar con un tour guiado o asistir a un espectáculo con entradas de pie, muy económicas.",
-        come: "Metro U1/U2/U4 hasta Karlsplatz. Las entradas de pie se venden poco antes del comienzo.",
-        quando: "Noche; llegar con antelación para las entradas de pie.",
+        come: "Metro U1/U2/U4 hasta Karlsplatz. Las entradas de pie se venden solo el día de la función, desde las 10.",
+        quando: "Noche; las entradas de pie se compran esa misma mañana, en cuanto abre la venta.",
         tempo: "3 horas",
         url: "https://www.wiener-staatsoper.at",
         consiglio: "Las zonas de pie tienen vista limitada pero acústica excelente."

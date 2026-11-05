@@ -15,7 +15,7 @@ export const destinazioniSingapore: Destinazione[] = [
       "Because it's one of the most successful urban planning experiments of the last thirty years: an entire bay designed from scratch that risked becoming an open-air shopping mall. Instead it holds up, especially after sunset.",
     cosaVedere: [
       "The Supertree Grove at Gardens by the Bay, with the free evening light show",
-      "The Flower Dome and Cloud Forest conservatories, with the tallest indoor waterfall in the world",
+      "The Flower Dome and Cloud Forest conservatories, with the large indoor waterfall",
       "Marina Bay Sands and its rooftop observation deck",
       "The Helix Bridge and the Merlion, the city's symbol statue",
       "The ArtScience Museum, shaped like a lotus, at the tip of the bay",
@@ -41,7 +41,7 @@ export const destinazioniSingapore: Destinazione[] = [
     erroriDaEvitare: [
       "Paying for the Marina Bay Sands observation deck: it costs as much as a cocktail at the bar in the same building, which has the same view and where you can sit down",
       "Going to the Gardens in the middle of the day, when it's very hot and there are no lights",
-      "Skipping the conservatories thinking they're just any botanical garden: the Cloud Forest, with its thirty-meter indoor waterfall, is the most surprising thing in the area",
+      "Skipping the conservatories thinking they're just any botanical garden: the Cloud Forest, with its large indoor waterfall, is the most surprising thing in the area",
       "Having dinner around the bay: you pay double to eat worse than at any hawker center",
     ],
     miaEsperienza:
@@ -51,7 +51,7 @@ export const destinazioniSingapore: Destinazione[] = [
         nome: "Supertree Grove at Gardens by the Bay",
         testo: "Eighteen tree-shaped structures up to fifty meters tall, covered in plants and fitted with solar panels. They really do ventilate the conservatories and collect rainwater. In the evening they light up for a free light show.",
         come: "MRT to Bayfront, then a covered walkway into the gardens. The grove is free and self-guided; the elevated walkway (OCBC Skyway) is ticketed separately.",
-        quando: "After sunset for the light show, which lasts about fifteen minutes and runs twice each evening. Exact times are on the official website.",
+        quando: "After sunset for the Garden Rhapsody light show, every evening at 19:45 and 20:45, about fifteen minutes; extra shows are added during festive periods (schedule on the official website).",
         tempo: "1.5 hours",
         costo: "free entry to the gardens and the light show",
         url: "https://www.gardensbythebay.com.sg/",
@@ -59,10 +59,11 @@ export const destinazioniSingapore: Destinazione[] = [
       },
       {
         nome: "Cloud Forest and Flower Dome",
-        testo: "Two air-conditioned conservatories. In the Cloud Forest a mountain covered in ferns and orchids has a thirty-meter waterfall at its center; the Flower Dome recreates a Mediterranean climate with olive trees and baobabs.",
+        testo: "Two air-conditioned conservatories. In the Cloud Forest a mountain covered in ferns and orchids has a large indoor waterfall at its center, with a walkway circling the top; the Flower Dome recreates a Mediterranean climate with olive trees and baobabs.",
         come: "Inside Gardens by the Bay, a few minutes' walk from the Supertrees. Separate ticket for each conservatory, one-way route.",
-        quando: "In the morning, when it is less crowded and cooler outside. In the rain they are the perfect refuge.",
+        quando: "Open daily, 9:00-21:00. Fewer people in the morning; in the rain they are the ideal refuge.",
         tempo: "1 hour per conservatory",
+        url: "https://www.gardensbythebay.com.sg/",
         consiglio: "If you only pick one, the Cloud Forest: it is the most surprising thing in the area."
       },
       {
@@ -386,7 +387,7 @@ export const destinazioniSingapore: Destinazione[] = [
         nome: "MacRitchie Reservoir and TreeTop Walk",
         testo: "A reservoir surrounded by rainforest with trails and a suspension bridge 25 meters up that crosses the canopy. Macaques, monitor lizards and squirrels on the paths.",
         come: "Bus from Caldecott or Marymount MRT to the entrance. The walkway can only be reached on foot, with a route of about 11 km round trip from the main shore.",
-        quando: "Early morning, for the cool and to be on time: the TreeTop Walk has opening hours and is one-way.",
+        quando: "Early in the morning, for the cool and to be in time: the TreeTop Walk is closed on Mondays (except public holidays), has daytime opening hours and is walked one way only. Hours on the NParks website.",
         tempo: "3-4 hours",
         costo: "free",
         url: "https://www.nparks.gov.sg/",
@@ -496,7 +497,7 @@ export const destinazioniSingapore: Destinazione[] = [
     percheAndarci:
       "For the parks, if you're traveling with kids, and for the cable car over the harbor, which is the best way to see how big the maritime traffic passing through here is: Singapore is one of the busiest ports on the planet and from up there you count the ships at anchor by the dozens.",
     cosaVedere: [
-      "Universal Studios Singapore and the S.E.A. Aquarium at Resorts World",
+      "Universal Studios Singapore and the Singapore Oceanarium at Resorts World",
       "The beaches of Siloso, Palawan and Tanjong, artificial but well equipped",
       "The Mount Faber-Sentosa cable car, over the harbor",
       "Fort Siloso, the only preserved British coastal fortification, with the story of the fall of Singapore in 1942",
@@ -553,8 +554,8 @@ export const destinazioniSingapore: Destinazione[] = [
         consiglio: "Do not expect the sea: come for the relaxation of a rainy day or with kids."
       },
       {
-        nome: "Universal Studios and S.E.A. Aquarium",
-        testo: "The theme park and one of the largest aquariums in the world, at Resorts World Sentosa. International theme-park prices.",
+        nome: "Universal Studios and Singapore Oceanarium",
+        testo: "The theme park and the Singapore Oceanarium, the aquarium that replaced the S.E.A. Aquarium in 2025, both at Resorts World Sentosa. International theme-park prices.",
         come: "Reached by monorail from VivoCity, Resorts World stop. Tickets online.",
         quando: "On weekdays; weekends are very crowded.",
         tempo: "a full day for the park, 2 hours for the aquarium",
@@ -585,7 +586,7 @@ export const destinazioniSingapore: Destinazione[] = [
         tappe: [
           "Opening time: Universal Studios, the most popular rides first",
           "Lunch at Resorts World or the VivoCity hawker centre",
-          "Afternoon: S.E.A. Aquarium",
+          "Afternoon: Singapore Oceanarium",
           "Sunset: Palawan beach and the southernmost point"
         ]
       }

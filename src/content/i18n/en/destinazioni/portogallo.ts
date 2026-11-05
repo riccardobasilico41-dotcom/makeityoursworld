@@ -264,8 +264,8 @@ export const destinazioniPortogallo: Destinazione[] = [
       {
         "nome": "Palácio Nacional da Pena",
         "testo": "A 19th-century Romantic palace commissioned by Ferdinand II on a hilltop, yellow and red, with towers, battlements and Moorish and Manueline decoration. Inside, rooms are furnished as they were in the late 1800s. Around it is an 85-hectare park.",
-        "come": "From the station bus 434 climbs to the entrance in about 15 minutes. On foot the climb is steep, about 45 minutes. Entry with a timed ticket.",
-        "quando": "First slot of the morning. After 10:30 the queue grows. Buy online from Parques de Sintra.",
+        "come": "From the station bus 434 climbs to the entrance in about 15 minutes. On foot the climb is steep, about 45 minutes. Private cars are not allowed on the access roads: a shuttle runs every 15 minutes from the park entrance to the palace. Entry with a timed ticket.",
+        "quando": "Park 9am-7pm, palace 9:30am-6:30pm (last ticket at 5:30pm). The palace can only be visited with a booked date and time slot. First slot of the morning: after 10:30am the queue gets longer. Tickets online on Parques de Sintra.",
         "tempo": "2-3 hours with the park",
         "url": "https://www.parquesdesintra.pt/",
         "consiglio": "The park can be visited on its own without the palace queue and has viewpoints: useful if the queues are too long."

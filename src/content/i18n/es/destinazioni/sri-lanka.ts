@@ -39,7 +39,7 @@ export const destinazioniSriLanka: Destinazione[] = [
       },
       {
         "nome": "Iglesia de Santa María",
-        "testo": "A Negombo se la llama la «pequeña Roma» por sus iglesias católicas. Santa María tiene un techo pintado.",
+        "testo": "A Negombo se la llama la «pequeña Roma» por sus iglesias católicas, herencia del periodo portugués. Santa María, terminada en 1922 tras casi cincuenta años de obras, tiene el techo pintado con escenas de la vida de Cristo, obra de un pintor local budista, N.S. Godamanne.",
         "come": "A pie o en tuk-tuk desde el centro.",
         "tempo": "30 minutos",
         "consiglio": "Hombros y rodillas cubiertos, como en todos los lugares de culto."
@@ -133,9 +133,10 @@ export const destinazioniSriLanka: Destinazione[] = [
         "nome": "Las dagobas del sitio arqueológico",
         "testo": "Las inmensas cúpulas blancas, como el Ruwanwelisaya que emerge del bosque, dan la medida de la historia budista de la isla.",
         "come": "Visita guiada en bicicleta, unas 3 horas.",
-        "quando": "Por la tarde, tras la llegada; mejor evitar las horas centrales por el calor.",
+        "quando": "Taquilla abierta de 7 a 17 h. Por la tarde, tras la llegada; mejor evitar las horas centrales por el calor.",
         "tempo": "3 horas",
-        "costo": "Guía unos 6.500 LKR (19 €) más propina (del viaje de 2023)",
+        "costo": "Entrada al sitio para extranjeros unos 30 USD (marzo de 2026), pagada en rupias; guía unos 6.500 LKR (19 €) más propina (del viaje de 2023)",
+        "url": "https://eservices.ccf.gov.lk/eticketing/landing",
         "consiglio": "Con guía los lugares se entienden: sin ella son montones de piedra."
       },
       {
@@ -218,7 +219,7 @@ export const destinazioniSriLanka: Destinazione[] = [
       'Trekking al atardecer en Pidurangala Rock (30 minutos de subida)',
       'Trekking en Sigiriya (1 h 30-2 h de subida; hay una ficha de experiencia dedicada)',
       'Visita al Templo Dorado de Dambulla',
-      'El Dambulla Wholesale Market, el mayor mercado mayorista de Sri Lanka',
+      'El Dambulla Wholesale Market, centro de la distribución de fruta y verdura de la isla',
     ],
     doveDormire:
       "Dormimos en el Tropical Life Resort, sobre el papel el mejor de los nueve hoteles del viaje: n.º 1 entre los alojamientos specialty de Dambulla, 4/5 en Tripadvisor. Habitaciones limpias y bien equipadas, buffet abundante, todo inmerso en el verde. Alguna reseña señala que en la habitación falta WiFi.\n\nEconómicos: Relax Guesthouse, Lake Island Homestay. Gama media: Lake Lodge Boutique Hotel, Kalundewa Retreat. Lujo: Heritance Kandalama (el célebre hotel firmado por Geoffrey Bawa), Aliya Resort & Spa.",
@@ -237,14 +238,16 @@ export const destinazioniSriLanka: Destinazione[] = [
         "come": "A unos 30 minutos de Anuradhapura, en furgoneta. Se sube a pie y descalzo.",
         "quando": "Por la mañana, antes del calor.",
         "tempo": "1,5 horas",
-        "costo": "Entrada 500 LKR más 50 LKR de sarong (del viaje de 2023)"
+        "costo": "Entrada 1.000 LKR para extranjeros (2026); en 2023 eran 500 LKR más 50 LKR de sarong"
       },
       {
         "nome": "Sigiriya, la Roca del León",
-        "testo": "Una roca de unos 180 metros de altura con los cimientos del palacio real del siglo V en la cima. En la subida se ven los frescos de las doncellas celestiales y el muro espejo.",
+        "testo": "Una roca de unos 180 metros de altura con los cimientos del palacio del rey Kashyapa (477-495) en la cima, patrimonio de la UNESCO desde 1982. En la subida se pasa junto a los frescos de las doncellas celestiales, el muro espejo cubierto de grafitis poéticos de los siglos IX-X y las dos garras del león que enmarcan la última escalinata.",
         "come": "Desde la taquilla se sube a pie, 1,5-2 horas de subida; desde Dambulla en furgoneta.",
-        "quando": "Temprano por la mañana, para evitar el peor calor y las colas.",
+        "quando": "Taquilla abierta de 7 a 17 h: llega a la apertura para evitar el peor calor y las colas.",
         "tempo": "3-4 horas",
+        "costo": "Unos 35 USD para extranjeros (marzo de 2026), pagados en rupias al cambio del día; incluye el museo. También se puede comprar en línea.",
+        "url": "https://eservices.ccf.gov.lk/eticketing/landing",
         "consiglio": "Ve temprano: a media mañana la subida es dura y está llena de gente."
       },
       {
@@ -253,23 +256,24 @@ export const destinazioniSriLanka: Destinazione[] = [
         "come": "Subida a pie de unos 30 minutos, con un tramo final de roca.",
         "quando": "Atardecer.",
         "tempo": "2 horas",
-        "costo": "Entrada 1.000 LKR (del viaje de 2023)",
+        "costo": "Entrada 1.000 LKR (del viaje de 2023, sin cambios en 2026)",
         "consiglio": "Lleva una linterna para la bajada cuando ya se ha puesto el sol."
       },
       {
         "nome": "Templo de Oro de Dambulla",
-        "testo": "Cinco cuevas excavadas en la roca, llenas de estatuas de Buda y frescos en el techo.",
-        "come": "Desde Sigiriya en furgoneta; se sube por una escalinata descalzo.",
+        "testo": "Cinco cuevas excavadas en la roca con 153 estatuas de Buda y unos 2.100 metros cuadrados de pinturas en paredes y techos. Es patrimonio de la UNESCO desde 1991. La cueva más grande es la más impresionante: las estatuas se alinean bajo un techo totalmente pintado.",
+        "come": "Desde Sigiriya en furgoneta; se sube por una escalinata y se entra descalzo, con hombros y rodillas cubiertos.",
         "quando": "Por la mañana o al final de la tarde.",
-        "tempo": "1,5 horas"
+        "tempo": "1,5 horas",
+        "costo": "Unos 3.000 LKR para extranjeros (2026)"
       },
       {
         "nome": "Safari en Minneriya",
-        "testo": "El safari en jeep entre los elefantes del parque de Minneriya.",
+        "testo": "El safari en jeep entre los elefantes del parque de Minneriya, que rodea un gran lago artificial. En la estación seca, cuando el agua se retira, los elefantes bajan en manada a las orillas a comer la hierba nueva.",
         "come": "En jeep con conductor-guía desde la zona de Sigiriya.",
         "quando": "Por la tarde; el periodo con más elefantes juntos (el «gathering») suele ser de julio a octubre.",
         "tempo": "3-4 horas",
-        "costo": "Unos 12.000 LKR por jeep más entrada (del viaje de 2023)"
+        "costo": "Unos 12.000 LKR por jeep más entrada (del viaje de 2023); entrada al parque unos 25 USD por persona más impuestos (dato de 2024)"
       }
     ],
     programmi: [
@@ -317,7 +321,7 @@ export const destinazioniSriLanka: Destinazione[] = [
       },
       {
         "nome": "Fruta de Dambulla",
-        "testo": "El Dambulla Wholesale Market es el mayor mercado mayorista de Sri Lanka: fruta y verdura locales."
+        "testo": "El Dambulla Wholesale Market es el gran mercado mayorista por el que pasa buena parte de la fruta y la verdura de la isla: camiones cargados y montañas de productos locales."
       },
       {
         "nome": "Té y dulces",
@@ -374,9 +378,10 @@ export const destinazioniSriLanka: Destinazione[] = [
         "nome": "Paseo en bicicleta entre los templos",
         "testo": "Recorrer Polonnaruwa en bicicleta fue un buen cambio de ritmo tras la subida a Sigiriya del día anterior. El sitio es más ligero e inmediato que Sigiriya, con tanta historia como aquel.",
         "come": "Bicicleta de alquiler en la entrada del sitio, con o sin guía.",
-        "quando": "Por la mañana o por la tarde; evitar las horas centrales.",
+        "quando": "Taquilla abierta de 7 a 17 h. Por la mañana o por la tarde; evitar las horas centrales.",
         "tempo": "medio día",
-        "costo": "Bicicleta 1.000 LKR (unos 2,5 €); guía 6.000 LKR más propina (del viaje de 2023)",
+        "url": "https://eservices.ccf.gov.lk/eticketing/landing",
+        "costo": "Entrada al sitio para extranjeros unos 30 USD (marzo de 2026); bicicleta 1.000 LKR (unos 2,5 €); guía 6.000 LKR más propina (del viaje de 2023)",
         "consiglio": "Almuerzo en Priyamali gedara, restaurante rural con vistas a los arrozales: muy bueno."
       }
     ],
@@ -450,7 +455,7 @@ export const destinazioniSriLanka: Destinazione[] = [
     comeArrivare: 'Unas 2 h de traslado desde Dambulla, con parada en el Ranweli Spice Garden.',
     comeSpostarsi: 'A pie por el centro.',
     periodoMigliore: 'última hora de la tarde o noche, para llegar a tiempo a la ceremonia del Templo del Diente',
-    costi: 'Entrada al Templo del Diente 2.000 LKR.',
+    costi: 'Entrada al Templo del Diente 2.000 LKR en 2023, 3.000 LKR en 2026.',
     erroriDaEvitare: ['Llegar al Templo del Diente en el último momento: la cola se forma ya a última hora de la tarde, conviene presentarse con mucha antelación'],
     miaEsperienza:
       "La ceremonia nocturna en el Templo del Diente, con los tambores que empiezan poco antes de que baje la luz, fue uno de los momentos más intensos y espirituales de todo el viaje.",
@@ -459,9 +464,10 @@ export const destinazioniSriLanka: Destinazione[] = [
         "nome": "Templo del Diente",
         "testo": "Custodia la reliquia del diente de Buda, el templo más sagrado de Sri Lanka. La ceremonia vespertina, con los tambores que empiezan poco antes de que caiga la luz, fue uno de los momentos más intensos y espirituales del viaje.",
         "come": "A pie desde el centro, junto al lago. Se entra descalzo con hombros y rodillas cubiertos; la reliquia está en un relicario de oro en una sala del piso superior.",
-        "quando": "La ceremonia vespertina: la fila se forma ya al final de la tarde.",
+        "quando": "Abierto todos los días de 5:30 a 20 h. Las ceremonias son a las 5:30, a las 9:30 y a las 18:30: para la de la tarde la fila se forma ya a última hora de la tarde.",
         "tempo": "2 horas",
-        "costo": "Entrada 2.000 LKR (del viaje de 2023)",
+        "costo": "3.000 LKR para extranjeros (2026, web oficial), con los museos del complejo; en 2023 eran 2.000 LKR. Solo valen las entradas de las máquinas del templo.",
+        "url": "https://sridaladamaligawa.lk/",
         "consiglio": "Presentarse con mucha antelación: llegar en el último momento significa quedarse al final de la fila."
       },
       {
@@ -669,10 +675,11 @@ export const destinazioniSriLanka: Destinazione[] = [
       },
       {
         "nome": "World's End en Horton Plains",
-        "testo": "El borde de la meseta de Horton Plains, con un precipicio de 870 metros sobre la llanura. El trekking es un circuito de unas 3 horas entre praderas y bosque nuboso.",
+        "testo": "El borde de la meseta de Horton Plains, a más de 2.000 metros, con un precipicio de 870 metros sobre la llanura. El trekking es un circuito de unas 3 horas entre praderas y bosque nuboso. En el parque están prohibidas las bolsas de plástico.",
         "come": "En furgoneta desde Nuwara Eliya, unas 1,5 horas; se camina por un sendero señalizado.",
         "quando": "Temprano por la mañana: después llegan la niebla y las nubes y la vista desaparece. Hace falta un día de sol.",
         "tempo": "3 horas caminando más el traslado",
+        "costo": "Entrada al parque unos 25 USD por persona más impuestos (dato de 2024)",
         "consiglio": "Salir de Nuwara Eliya al amanecer, para llegar al borde antes de las nubes."
       },
       {
@@ -777,23 +784,24 @@ export const destinazioniSriLanka: Destinazione[] = [
       },
       {
         "nome": "Nine Arches Bridge",
-        "testo": "Un viaducto ferroviario de principios del siglo XX en piedra y ladrillo, con nueve arcos, inmerso en la selva. El momento de mayor encanto es cuando pasa el tren.",
-        "come": "A pocos kilómetros de Ella, en tuk-tuk y luego a pie por un sendero.",
+        "testo": "Un viaducto ferroviario de nueve arcos en piedra, ladrillo y cemento, terminado en 1919: mide 91 metros de largo y 24 de alto, inmerso en la selva. El momento de mayor encanto es cuando pasa el tren.",
+        "come": "En Demodara, entre las estaciones de Ella y Demodara: en tuk-tuk y luego a pie por un sendero.",
         "quando": "Cuando pasa un tren: pregunta los horarios en la casa de huéspedes.",
         "tempo": "1 hora",
         "consiglio": "No camines por las vías cuando llega un tren."
       },
       {
-        "nome": "Lipton's Seat y los miradores",
-        "testo": "Miradores sobre las plantaciones de té más fotografiadas de Sri Lanka, a pocos pasos del pueblo.",
-        "come": "A poca distancia de Ella, en tuk-tuk.",
+        "nome": "Lipton's Seat",
+        "testo": "El mirador sobre las plantaciones de té de la finca de Dambatenne, que lleva el nombre de Thomas Lipton, el rey del té. No está en Ella sino encima de Haputale: merece la excursión si el cielo está despejado.",
+        "come": "En furgoneta o tuk-tuk desde Ella hasta Haputale, alrededor de una hora de carretera, y luego subiendo por la carretera de Dambatenne.",
         "quando": "Temprano por la mañana, antes de las nubes.",
-        "tempo": "2 horas"
+        "tempo": "medio día desde Ella"
       },
       {
         "nome": "Tirolina Flying Ravana",
-        "testo": "Una tirolina sobre las colinas, a 15 minutos de Ella.",
-        "come": "En tuk-tuk desde Ella.",
+        "testo": "Una tirolina doble de 550 metros sobre las colinas de Ella. Sale de Mini Adam's Peak, en el camino a Little Adam's Peak, y se baja en pareja por encima de las plantaciones de té.",
+        "come": "En tuk-tuk desde Ella, unos 15 minutos.",
+        "url": "https://www.flyingravana.com/",
         "tempo": "1,5 horas",
         "costo": "Unos 20 € (del viaje de 2023)"
       }
@@ -812,7 +820,7 @@ export const destinazioniSriLanka: Destinazione[] = [
         "titolo": "2 días",
         "tappe": [
           "Día 1: tren panorámico y Nine Arches Bridge",
-          "Día 2: Lipton's Seat al amanecer y tirolina, masaje por la tarde"
+          "Día 2: Lipton's Seat al amanecer (una hora de carretera, hacia Haputale), luego tirolina y masaje por la tarde"
         ]
       }
     ],
@@ -869,7 +877,7 @@ export const destinazioniSriLanka: Destinazione[] = [
     percheAndarci: 'Para cerrar el viaje junto al mar, después de todos los templos, safaris y trekkings de los días anteriores.',
     cosaVedere: ['El Parque Nacional de Yala', 'El Tsunami Museum'],
     cosaFare: [
-      'Safari en Yala, el parque con la mayor densidad de leopardos del mundo (hay una ficha de experiencia dedicada)',
+      'Safari en Yala, uno de los parques con mayor densidad de leopardos del mundo (hay una ficha de experiencia dedicada)',
       'Nadar con tortugas: el mejor punto es delante del Hikka Tranz by Cinnamon Hotel',
       'Tsunami Museum',
       'Big Buddha, surf, snorkel, buceo, safari en barca por el río Madu',
@@ -887,11 +895,11 @@ export const destinazioniSriLanka: Destinazione[] = [
     luoghi: [
       {
         "nome": "Parque Nacional de Yala",
-        "testo": "El parque con la mayor densidad de leopardos del mundo, donde en safari se ven también elefantes, cocodrilos y aves.",
+        "testo": "Uno de los parques con mayor densidad de leopardos del mundo, donde en safari se ven también elefantes, cocodrilos y aves.",
         "come": "En jeep con guía, en la carretera de Ella a Hikkaduwa; el safari dura unas horas.",
         "quando": "A primera hora de la mañana o al final de la tarde, cuando los animales están activos.",
         "tempo": "4 horas",
-        "costo": "Jeep 12.000-16.000 LKR, más la entrada (27-30 € por persona) y propina (del viaje de 2023)",
+        "costo": "Jeep 12.000-16.000 LKR, más la entrada (27-30 € por persona) y propina (del viaje de 2023); la entrada básica es de unos 25 USD más impuestos (dato de 2024)",
         "consiglio": "Los leopardos no están garantizados: pregunta al conductor dónde se han avistado."
       },
       {

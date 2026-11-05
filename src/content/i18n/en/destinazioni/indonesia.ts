@@ -238,8 +238,9 @@ export const destinazioniIndonesia: Destinazione[] = [
         nome: "Borobudur",
         testo: "The largest Buddhist temple in the world, from the 9th century, with nine terraces and hundreds of stone reliefs. At dawn, with mist on the plain, it is one of the few places that lives up to its myth.",
         come: "From Yogyakarta by car or bus, about 1.5 hours. Climbing the structure has limited places, with guide and special sandals: booked online on the official site well in advance.",
-        quando: "At dawn or sunset. Tickets to climb sell out.",
+        quando: "At sunrise or sunset, with dedicated paid packages. Climbing the structure is split into time slots with a fixed quota and sells out.",
         tempo: "3 hours",
+        costo: "Two different tickets: the park, and the climb up the structure, which includes a guide and upanat sandals. Foreigner rates are higher than for Indonesians: current prices on the official website.",
         url: "https://borobudurpark.com/",
         consiglio: "Book the climbing ticket well ahead, because places are limited."
       },
@@ -247,8 +248,9 @@ export const destinazioniIndonesia: Destinazione[] = [
         nome: "Prambanan",
         testo: "The largest Hindu temple complex in Indonesia, from the 9th century, with towers dedicated to Shiva, Vishnu and Brahma. The reliefs tell the Ramayana.",
         come: "From Yogyakarta by Trans Jogja bus or taxi, about 40 minutes. Visited alone or with a guide.",
-        quando: "In the morning or at sunset. On scheduled evenings, an open-air Ramayana ballet.",
+        quando: "In the morning or at sunset. On Mondays, for maintenance, only the park around the temples can be visited: check the official website. On scheduled evenings, open-air Ramayana ballet.",
         tempo: "2 hours",
+        costo: "About 25 USD for foreign adults (IDR 387,500, 2025); a combined ticket with Borobudur or Ratu Boko exists.",
         url: "https://borobudurpark.com/",
         consiglio: "Check ballet dates: in some periods it is held at sunset with the towers lit."
       },
@@ -263,18 +265,21 @@ export const destinazioniIndonesia: Destinazione[] = [
       {
         nome: "Gunung Bromo",
         testo: "A smoking crater inside the Tengger caldera, surrounded by the Sea of Sand. Dawn from the Penanjakan viewpoint is one of Java's most famous images.",
-        come: "From Cemoro Lawang or Surabaya by 4x4 jeep booked the evening before. You leave in the dead of night. The ticket is bought online on the park's official site.",
+        come: "From Cemoro Lawang or Surabaya by 4x4 jeep booked the evening before. You leave in the middle of the night. The ticket is bought online on the park's official website, before the visit.",
         quando: "At dawn; from April to October the sky is clearer.",
         tempo: "half a day",
-        url: "https://bromotenggersemeru.id/",
+        costo: "Since 30 October 2024 a single foreigner rate of IDR 255,000 per day, weekdays and holidays (source: Metro TV); jeep extra. Check the park website: rates have changed often.",
+        url: "https://bromotenggersemeru.org/",
         consiglio: "Dawn from Penanjakan is spectacular but crowded with jeeps: go knowing it."
       },
       {
         nome: "Kawah Ijen and the blue fire",
         testo: "A crater with a turquoise lake of sulfuric acid and, at night, the blue flames of burning gases. Sulfur miners work at the bottom, with baskets of eighty kilos.",
-        come: "From Banyuwangi or Licin by car, then a climb on foot of about 3 hours. Gas mask mandatory.",
-        quando: "Departure at 1 a.m. to see the blue fire, then dawn over the lake.",
+        come: "From Banyuwangi or Licin by car to Paltuding, then about 3 hours on foot including the descent into the crater. A real gas mask is needed. Tickets are bought online; the park also asks for a recent health certificate (often arranged by hotels and tours).",
+        quando: "The Paltuding gate opens at 2:00 and closes at noon; the blue fire is visible before 4:00. The crater closes one day a month for cleanup and in bad weather or volcanic activity.",
         tempo: "half a day",
+        costo: "Foreigners IDR 100,000 on weekdays and IDR 150,000 at weekends and on holidays (2025).",
+        url: "https://ayoketamannasional.kehutanan.go.id/en/taman-wisata-alam/kawah-ijen",
         consiglio: "Bring a real gas mask and not a scarf; do not photograph the miners without asking."
       },
       {
@@ -510,7 +515,8 @@ export const destinazioniIndonesia: Destinazione[] = [
       "Scooters: an international licence is needed, checks are frequent and fines high.",
       "Traffic between Canggu and Seminyak at peak hours: leave plenty of margin.",
       "Money changers and cocktails: use official exchanges and drink at reliable venues. Methanol in drinks is a risk flagged by authorities.",
-      "Nusa Penida: book the boat ahead in high season and leave early."
+      "Nusa Penida: book the boat ahead in high season and leave early.",
+      "On arrival you pay the Bali tourist levy, IDR 150,000 per person since 2024: best paid online on the official Love Bali website (lovebali.baliprov.go.id).",
     ],
     esperienzeSlugs: ['giornata-nusa-penida'],
     tripSlugs: ['indonesia-itinerario', 'giava-bali-gili'],

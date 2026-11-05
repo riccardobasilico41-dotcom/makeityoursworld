@@ -52,7 +52,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Playa Marlin e Playa Gaviota",
-          "testo": "Spiagge pubbliche gratuite nel centro della zona hotelera, senza lettini a pagamento.",
+          "testo": "Spiagge pubbliche gratuite nel centro della zona hotelera, senza lettini a pagamento. Sono fra i pochi accessi liberi al mare di questa parte della città; il mare è più mosso che a Isla Mujeres, quindi prima del bagno conviene guardare la bandiera dei bagnini.",
           "come": "Bus locale R1 dal centro.",
           "quando": "Mattina.",
           "tempo": "Mezza giornata"
@@ -67,7 +67,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Coco Bongo",
-          "testo": "Il locale con spettacolo più famoso della città.",
+          "testo": "Il locale con spettacolo più famoso della città, nella zona hotelera: acrobati, musica dal vivo e numeri ispirati ai film, fino a notte fonda. Il prezzo cambia molto in base alla posizione (in piedi, al bancone o al tavolo), quindi conviene capire cosa include il biglietto prima di comprarlo.",
           "come": "Biglietti da rivenditori.",
           "quando": "Sera.",
           "tempo": "Serata",
@@ -164,21 +164,23 @@ export const destinazioniMessico: Destinazione[] = [
           "come": "Da Valladolid circa 40 minuti in auto o taxi, oppure tour con guida.",
           "quando": "Mattina, all'apertura, prima dei pullman e del caldo.",
           "tempo": "3-4 ore",
+          "costo": "697 MXN per gli stranieri, con biglietto unico federale e statale in un'unica cassa dal 27 marzo 2026; la domenica gratis solo per messicani e residenti.",
           "url": "https://www.inah.gob.mx/",
           "consiglio": "Per Chichén Itzá consiglio una guida: Alejandro parla spagnolo e inglese, è nato a 20 minuti dal sito ed è preparatissimo."
         },
         {
           "nome": "Ek Balam",
-          "testo": "Sito maya più piccolo e molto meno affollato, con un'acropoli su cui si può salire e decorazioni in stucco.",
+          "testo": "Sito maya più piccolo e molto meno affollato, con una grande acropoli e decorazioni in stucco conservate molto bene, come la «bocca del mostro» all'ingresso della tomba. Se oggi si possa salire in cima dipende dalle regole del momento: chiederlo in biglietteria.",
           "come": "Da Valladolid circa 30 minuti in taxi.",
           "quando": "Mattina.",
           "tempo": "2 ore",
+          "costo": "Circa 690 MXN per gli stranieri fra quota federale e statale (2026).",
           "url": "https://www.inah.gob.mx/",
           "consiglio": "Spesso sottovalutato: abbinarlo al cenote Xcanché lì accanto."
         },
         {
           "nome": "Cenote Xcanché",
-          "testo": "Cenote a cielo aperto vicino a Ek Balam, con tuffi e liane.",
+          "testo": "Cenote a cielo aperto vicino a Ek Balam, con tuffi e liane. Si scende per una scala nella roccia fino all'acqua, circondata da radici e piante pendenti; intorno ci sono noleggio bici e un piccolo ristorante.",
           "come": "Taxi o bici da Ek Balam.",
           "quando": "Mattina o primo pomeriggio.",
           "tempo": "1-2 ore"
@@ -400,7 +402,7 @@ export const destinazioniMessico: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Piazza della Cattedrale",
-          "testo": "La piazza centrale del centro storico, molto curata, con la cattedrale e i lustrascarpe tipici.",
+          "testo": "La piazza centrale del centro storico, molto curata, con la cattedrale e i lustrascarpe tipici. Le facciate color pastello delle case intorno sono la Campeche delle foto; di sera la piazza si riempie di famiglie e venditori di dolci.",
           "come": "A piedi.",
           "quando": "Mattina e sera.",
           "tempo": "1 ora"
@@ -414,11 +416,28 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Mura e baluardi",
-          "testo": "Campeche è una città fortificata del XVII secolo, patrimonio UNESCO, con baluardi e forti costruiti contro i pirati.",
+          "testo": "Campeche è una città fortificata, patrimonio UNESCO dal 1999, con mura e baluardi costruiti fra Seicento e Settecento contro gli attacchi dei pirati. Alcuni baluardi ospitano piccoli musei e giardini; una parte delle mura si percorre a piedi.",
           "come": "A piedi lungo le mura.",
           "quando": "Mattina.",
           "tempo": "2 ore",
           "url": "https://www.inah.gob.mx/"
+        },
+        {
+          "nome": "Fuerte de San Miguel",
+          "testo": "Forte sulla collina a sud-ovest del centro, con fossato e cannoni rivolti al Golfo. Dentro c'è il museo archeologico con le maschere di giada di Calakmul; dagli spalti il tramonto sul mare è uno dei migliori della città.",
+          "come": "Taxi dal centro, circa 10 minuti.",
+          "quando": "Tardo pomeriggio; come molti musei INAH, verificare la chiusura del lunedì.",
+          "tempo": "1-2 ore",
+          "url": "https://www.inah.gob.mx/"
+        },
+        {
+          "nome": "Edzná",
+          "testo": "Sito maya nell'entroterra con l'Edificio dei Cinque Piani, una piramide a terrazze su una grande piazza. È poco visitato rispetto ai siti dello Yucatán e si gira quasi da soli, fra iguane e silenzio.",
+          "come": "Auto, taxi o tour da Campeche, circa un'ora.",
+          "quando": "Mattina presto, prima del caldo.",
+          "tempo": "Mezza giornata",
+          "url": "https://www.inah.gob.mx/",
+          "consiglio": "Portare acqua e cappello: l'ombra è poca."
         }
       ],
       "programmi": [
@@ -448,25 +467,27 @@ export const destinazioniMessico: Destinazione[] = [
       "sapori": [
         {
           "nome": "Pan de cazón",
-          "testo": "Tortillas con tonnetto e fagioli, specialità di Campeche."
+          "testo": "Tortillas a strati con cazón (un piccolo squalo) sfilacciato, fagioli neri e salsa di pomodoro. È il piatto simbolo della città: si trova nei ristoranti del centro e nelle loncherías."
         },
         {
           "nome": "Camarones al coco",
-          "testo": "Gamberi in crosta di cocco."
+          "testo": "Gamberi fritti in una crosta di cocco grattugiato, spesso con una salsa dolce di frutta. Si ordinano nei ristoranti di pesce del lungomare."
         },
         {
-          "nome": "Pescado a la campechana",
-          "testo": "Pesce con salsa di pomodoro e olive."
+          "nome": "Coctel campechano",
+          "testo": "Bicchiere freddo di frutti di mare misti, come gamberi, polpo e ostriche, con salsa di pomodoro, lime e avocado. In Messico «campechano» vuol dire proprio «misto»."
         },
         {
-          "nome": "Cocktail di gamberi",
-          "testo": "Di strada, sul lungomare."
+          "nome": "Panuchos e codzitos",
+          "testo": "Tortillas fritte ripiene di fagioli e piccoli tacos arrotolati con salsa di pomodoro: gli antojitos della penisola, nei mercati e nelle cene di strada."
         }
       ],
       "attenzioni": [
         "Il giorno dopo il trasferimento verso Mahahual è molto lungo e si cambia fuso: partire presto.",
         "Di sera il centro è tranquillo, ma evitare le strade deserte fuori mura.",
-        "Prezzi bassi: non pagare di più per tour improvvisati."
+        "Prezzi bassi: non pagare di più per tour improvvisati.",
+        "Molti musei INAH, compresi quelli nei forti, chiudono il lunedì: controllare prima di organizzare la giornata.",
+        "Da aprile a ottobre il caldo umido è forte: girare la mattina presto e al tramonto, e bere molto."
       ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-beach-life'],
@@ -507,7 +528,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Snorkeling con le tartarughe",
-          "testo": "Uscita in barca a pochi metri dalla costa, dove vivono tartarughe verdi nella barriera.",
+          "testo": "Uscita in barca a pochi metri dalla costa, dove vivono tartarughe verdi nella barriera. La barriera qui è vicinissima alla riva e poco frequentata rispetto alla Riviera Maya: si vedono anche razze, pesci pappagallo e coralli molli.",
           "come": "Tour dal lungomare con operatore.",
           "quando": "Mattina.",
           "tempo": "2-3 ore"
@@ -518,6 +539,14 @@ export const destinazioniMessico: Destinazione[] = [
           "come": "Prenotazione con una struttura della zona.",
           "quando": "Sera.",
           "tempo": "2-3 ore"
+        },
+        {
+          "nome": "Banco Chinchorro",
+          "testo": "Riserva della biosfera al largo di Mahahual, uno dei più grandi atolli corallini dei Caraibi, con fondali intatti e relitti. È la gita più bella della zona, ma anche la più legata al meteo: con vento forte le uscite si annullano.",
+          "come": "Solo con operatori autorizzati da Mahahual o Xcalak, in barca veloce.",
+          "quando": "Mattina, con mare calmo; meglio nei mesi secchi.",
+          "tempo": "Giornata intera",
+          "consiglio": "Chiedere quante ore di navigazione ci sono e cosa include il prezzo (tassa del parco, pranzo, attrezzatura)."
         }
       ],
       "programmi": [
@@ -551,26 +580,28 @@ export const destinazioniMessico: Destinazione[] = [
       ],
       "sapori": [
         {
-          "nome": "Ceviche e pescado frito",
-          "testo": "Fresco, sul lungomare."
+          "nome": "Pesce fritto intero e ceviche",
+          "testo": "Il pesce del giorno fritto intero, con riso, insalata e tortillas, nei ristoranti del lungomare. A mezzogiorno si prende il ceviche di pesce o di gamberi."
+        },
+        {
+          "nome": "Pez león",
+          "testo": "Il pesce scorpione è una specie invasiva dei Caraibi e qui lo si cucina volentieri: in ceviche, fritto o nei tacos. Ordinarlo aiuta anche la barriera."
         },
         {
           "nome": "Tacos di pesce",
-          "testo": "Di strada."
-        },
-        {
-          "nome": "Mariscos",
-          "testo": "Gamberi e aragosta, nei ristoranti sul mare."
+          "testo": "Pesce in pastella o alla piastra in tortilla di mais, con cavolo, salsa e lime. Nelle bancarelle del paese costano molto meno che sul fronte mare."
         },
         {
           "nome": "Agua fresca",
-          "testo": "Di frutta, per il caldo."
+          "testo": "Acque di frutta in grandi bicchieri: jamaica, horchata, limone con chaya. Vanno bene con il caldo del Caribe, al posto delle bibite gassate."
         }
       ],
       "attenzioni": [
         "Il giorno dell'arrivo ha ritmi serrati: se si sgarra sugli orari delle tappe precedenti (in particolare Balam Ku) salta il resto della giornata.",
         "Nei giorni di crociera il lungomare è affollato e i prezzi salgono.",
-        "Sole forte: crema adatta alla barriera e acqua."
+        "Sole forte: crema adatta alla barriera e acqua.",
+        "Bancomat pochi e a volte senza contanti: arrivare con abbastanza pesos.",
+        "Fra primavera ed estate può arrivare il sargasso: chiedere sul posto quali spiagge sono pulite."
       ],
     esperienzeSlugs: ['snorkeling-tartarughe-mahahual', 'temazcal'],
     tripSlugs: ['messico-beach-life'],
@@ -727,12 +758,13 @@ export const destinazioniMessico: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Sito archeologico di Tulum",
-          "testo": "Città maya sulla scogliera sopra il Caribe, l'unico sito maya del Messico affacciato sul mare. Il Castillo e il Tempio del Dio del Vento sono i punti chiave.",
-          "come": "Da Tulum paese in taxi o bici. Ingresso INAH; la spiaggia sotto il sito è accessibile.",
+          "testo": "Città maya sulla scogliera sopra il Caribe, uno dei pochi siti maya affacciati sul mare. Il Castillo e il Tempio del Dio del Vento sono i punti chiave; le mura che chiudono la città su tre lati spiegano il nome Tulum, «muro» in maya (anticamente si chiamava Zamá, «alba»).",
+          "come": "Da Tulum paese in taxi o bici; dentro il Parque del Jaguar c'è una navetta elettrica a pagamento fino all'ingresso. La spiaggetta sotto il sito a volte è chiusa (sargasso o nidificazione delle tartarughe).",
           "quando": "Mattina, prima del caldo e dei pullman.",
           "tempo": "2 ore",
+          "costo": "265 MXN per gli stranieri fra zona archeologica e area protetta (2026); la navetta elettrica interna è circa 20 MXN.",
           "url": "https://www.inah.gob.mx/",
-          "consiglio": "Bagno nella caletta sotto la scogliera dopo la visita."
+          "consiglio": "Bagno nella caletta sotto la scogliera dopo la visita, se l'accesso è aperto."
         },
         {
           "nome": "Cenote Dos Ojos",
@@ -759,7 +791,7 @@ export const destinazioniMessico: Destinazione[] = [
         },
         {
           "nome": "Xcacel",
-          "testo": "Spiaggia protetta con schiusa delle tartarughe da aprile a ottobre. Ingresso 100 MXN, cibo, alcolici e casse vietati, aperta dalle 10 alle 16, chiusa il lunedì.",
+          "testo": "Spiaggia protetta, fra le ultime della costa senza hotel, dove le tartarughe depongono le uova fra primavera ed estate. Le regole sono severe: niente cibo, alcolici né casse; ingresso, orari e giorni di chiusura vanno verificati sul posto.",
           "come": "Taxi o auto da Tulum.",
           "quando": "Mattina.",
           "tempo": "2-3 ore"

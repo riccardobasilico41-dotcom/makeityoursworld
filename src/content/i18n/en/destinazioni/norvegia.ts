@@ -81,16 +81,18 @@ export const destinazioniNorvegia: Destinazione[] = [
         come: "In summer the ferry to Bygdøy leaves from Rådhusbryggen; alternatively bus 30. The museums are a few minutes apart.",
         quando: "Morning, to have the rooms with fewer groups.",
         tempo: "3-4 hours",
+        costo: "Fram Museum 180 NOK adults (2026); Kon-Tiki has a separate ticket",
         url: "https://www.frammuseum.no",
         consiglio: "The two museums fit nicely into half a day; avoid public-holiday Mondays, when it is crowded."
       },
       {
         nome: "Munch and the National Museum",
-        testo: "The Munch museum, in Bjørvika, holds much of Edvard Munch's work; the Nasjonalmuseet, the largest art museum in Northern Europe, has another version of The Scream (1893). Two buildings near the fjord, in the newest district.",
+        testo: "The Munch museum, in Bjørvika, holds much of Edvard Munch's work; the Nasjonalmuseet, Norway's largest collection of art, architecture and design, has another version of The Scream (1893). Two buildings near the fjord, in the newest district.",
         come: "Munch 10 minutes on foot from the station; the Nasjonalmuseet 15 minutes from the centre.",
         quando: "Weekday morning; book online for timed entries.",
         tempo: "2-3 hours each",
-        url: "https://www.munchmuseet.no",
+        costo: "Munch 220 NOK adults (2026)",
+        url: "https://www.munch.no",
         consiglio: "Compare the versions of The Scream: the differences show in person."
       },
       {
@@ -667,7 +669,7 @@ export const destinazioniNorvegia: Destinazione[] = [
     comeSpostarsi: 'On foot in the center; organized minibuses/coaches for excursions outside the city.',
     periodoMigliore: "from late September to late March for the aurora, with polar night (little daylight) between December and January",
     costi:
-      "Fjellheisen: 495 NOK (about €43) round trip for adults, 280 NOK (about €24) for children aged 3-15. Polaria: about 400-450 NOK (€35-39). Polar Museum: 130 NOK (about €11). Aurora chase by minibus: €100-160 per person. Husky sledding: €170-320 per person. Sami experience with reindeer: from €145 per person. Whale watching: €130-260 per person. Double in a central hotel in high season: €140-170/night.",
+      "Fjellheisen: 645 NOK (about €55) round trip for adults, 310 NOK (about €27) for children aged 3-15 (2026). Polaria: about 400-450 NOK (€35-39). Polar Museum: 130 NOK (about €11). Aurora chase by minibus: €100-160 per person. Husky sledding: €170-320 per person. Sami experience with reindeer: from €145 per person. Whale watching: €130-260 per person. Double in a central hotel in high season: €140-170/night.",
     erroriDaEvitare: [
       "Book the evening excursions with some lead time, especially in the peak months (November-March)",
       "Underestimating the wind on the waterfront: you feel it more than expected",
@@ -691,6 +693,7 @@ export const destinazioniNorvegia: Destinazione[] = [
         come: "From the centre by bus 28 or a 15-minute walk; the cabin leaves about every 30 minutes.",
         quando: "Evening in winter for the city lights, daytime in summer.",
         tempo: "1-2 hours",
+        costo: "645 NOK return for adults, 310 NOK for children aged 3-15 (2026)",
         url: "https://www.fjellheisen.no",
         consiglio: "A quick ride, but dress warmly at the top."
       },
@@ -714,7 +717,7 @@ export const destinazioniNorvegia: Destinazione[] = [
       },
       {
         nome: "Mack's Ølhallen",
-        testo: "The historic pub of the Mack brewery, the northernmost in the world, with draft beer. A local place, without pretensions.",
+        testo: "The historic pub of the Mack brewery, founded in 1877 and for decades among the northernmost in the world, with draft beer. A local place, without pretensions.",
         come: "On foot from the centre, on Storgata.",
         quando: "Evening.",
         tempo: "1 hour",

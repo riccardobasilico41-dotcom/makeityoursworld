@@ -49,25 +49,27 @@ export const destinazioniAustria: Destinazione[] = [
         nome: "Schönbrunn Palace",
         testo: "The Habsburgs' summer residence, a UNESCO site, with 1,441 rooms and baroque gardens. You visit the apartments of Franz Joseph and Sisi, with different tours.",
         come: "Metro U4 to Schönbrunn (20 minutes from the centre). Timed tickets online.",
-        quando: "Early morning, to get ahead of the groups; the park stays open longer.",
+        quando: "Palace daily 8:30am-5pm, gardens from 6:30am; early morning to beat the groups.",
         tempo: "3-4 hours",
+        costo: "Palace Ticket €42 adults (2026), online only on the official site; gardens free",
         url: "https://www.schoenbrunn.at",
-        consiglio: "The 'Imperial Tour' ticket is shorter than the 'Grand Tour': choose according to time."
+        consiglio: "Tours differ in length and rooms included: choose on the official website, the only online sales channel, not from resellers."
       },
       {
         nome: "Hofburg and Sisi Museum",
         testo: "The imperial palace in the centre, with imperial apartments, the silver collection and the museum dedicated to Sisi. The complex also houses the Spanish Riding School.",
         come: "Metro U3 to Herrengasse, then on foot (5 minutes).",
-        quando: "Weekday morning.",
+        quando: "Daily 10am-4:30pm; the redesigned Sisi Museum reopens on 19 November 2026. Weekday mornings.",
         tempo: "2 hours",
-        url: "https://www.hofburg-wien.at",
+        costo: "Sisi Museum €15, with guided tour of the apartments €33 (2026)",
+        url: "https://www.sisimuseum-hofburg.at",
         consiglio: "Combine with a walk in the Volksgarten next door."
       },
       {
         nome: "St Stephen's Cathedral (Stephansdom)",
-        testo: "The symbol of Vienna, in Gothic style, with the coloured-tile roof and the 137 metre south tower. You can climb the tower, about 343 steps.",
+        testo: "The symbol of Vienna, in Gothic style, with the coloured-tile roof and the 136 metre south tower. You can climb the tower, about 343 steps.",
         come: "Metro U1/U3 to Stephansplatz. Entry to the transept is free; tower and catacombs are paid.",
-        quando: "Early morning or evening, for the light on the roof.",
+        quando: "Tourist visits Mon-Sat 9-11:30am and 1-4:30pm, Sundays and holidays 1-4:30pm, services permitting. Early morning or evening for the light on the roof.",
         tempo: "1 hour",
         url: "https://www.stephanskirche.at",
         consiglio: "If short of time, take the lift up the north tower."
@@ -76,8 +78,9 @@ export const destinazioniAustria: Destinazione[] = [
         nome: "Belvedere",
         testo: "Two baroque palaces with an Italian garden, home to the largest Klimt collection, including 'The Kiss'. The park is beautiful on its own.",
         come: "Tram D to Schloss Belvedere. Tickets for the Upper Belvedere.",
-        quando: "Early morning, to see 'The Kiss' without crowds.",
+        quando: "Daily 9am-6pm; early morning to see 'The Kiss' without crowds.",
         tempo: "2 hours",
+        costo: "Upper Belvedere €23 adults (2026, day price)",
         url: "https://www.belvedere.at",
         consiglio: "Book online to skip the queue."
       },
@@ -85,16 +88,17 @@ export const destinazioniAustria: Destinazione[] = [
         nome: "Kunsthistorisches Museum",
         testo: "The Habsburgs' great art museum, with Bruegel, Raphael, Titian and Vermeer. The building itself, with its dome and staircase, is a work of art.",
         come: "Metro U2 or U3 to Volkstheater, next to the Naturhistorisches Museum.",
-        quando: "Weekday morning; check closing days on the website.",
+        quando: "Daily 10am-6pm, Thursday until 9pm; weekday mornings.",
         tempo: "2-3 hours",
+        costo: "€22 online, €24 on site (2026); since 8 September 2026 entry by time slot only",
         url: "https://www.khm.at",
         consiglio: "The Bruegel room is the most famous, but on its own is worth half the museum."
       },
       {
         nome: "State Opera (Staatsoper)",
         testo: "One of the most important opera houses in the world. You can visit with a guided tour or attend a performance with very cheap standing tickets.",
-        come: "Metro U1/U2/U4 to Karlsplatz. Standing tickets are sold shortly before the start.",
-        quando: "Evening; arrive early for standing tickets.",
+        come: "Metro U1/U2/U4 to Karlsplatz. Standing tickets are sold only on the day of the performance, from 10am.",
+        quando: "Evening; buy standing places that same morning, as soon as sales open.",
         tempo: "3 hours",
         url: "https://www.wiener-staatsoper.at",
         consiglio: "The standing-room areas have a limited view but excellent acoustics."

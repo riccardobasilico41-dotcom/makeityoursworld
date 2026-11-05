@@ -180,6 +180,24 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
         "quando": "Pomeriggio e sera, da ottobre ad aprile.",
         "tempo": "5-6 ore",
         "consiglio": "Per il deserto vero servono Liwa e il Rub' al-Khali."
+      },
+      {
+        "nome": "Museo del Futuro",
+        "testo": "L'edificio a forma di anello ovale ricoperto di calligrafia araba in acciaio, sulla Sheikh Zayed Road. Dentro, cinque piani di installazioni immersive sullo spazio, la natura e il corpo umano nel 2071. Vale soprattutto per l'architettura, fotografata da fuori anche senza entrare.",
+        "come": "Metro fino a Emirates Towers, poi passerella coperta. Biglietto a fascia oraria da comprare online.",
+        "quando": "Orari e biglietti sul sito ufficiale. La sera la scritta illuminata rende di più nelle foto.",
+        "tempo": "1,5-2 ore",
+        "url": "https://museumofthefuture.ae/",
+        "consiglio": "Prenotare con qualche giorno di anticipo: le fasce del weekend finiscono presto."
+      },
+      {
+        "nome": "Dubai Frame",
+        "testo": "Una cornice alta circa 150 metri nel parco di Zabeel, con un ponte di vetro in cima: da un lato si guarda la Dubai vecchia di Deira e Karama, dall'altro i grattacieli di Downtown. Una galleria al piano terra racconta la città prima del petrolio.",
+        "come": "Metro fino a Max o ADCB, poi taxi breve; oppure taxi diretto all'ingresso del parco di Zabeel.",
+        "quando": "Tardo pomeriggio, per vedere la città con la luce del giorno e poi accesa. Orari sul sito ufficiale.",
+        "tempo": "1 ora",
+        "url": "https://www.dubaiframe.ae/",
+        "consiglio": "Costa meno del Burj Khalifa e la vista su Deira, che dal Burj non si vede bene, è il motivo per salire."
       }
     ],
     programmi: [
@@ -297,8 +315,8 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       {
         "nome": "Grande Moschea Sheikh Zayed",
         "testo": "Ottantadue cupole, colonne bianche intarsiate di madreperla, il tappeto annodato a mano più grande del mondo e lampadari Swarovski. È aperta ai non musulmani.",
-        "come": "Taxi o Uber. Ingresso gratuito, con regole di abbigliamento: braccia e gambe coperte, capo coperto per le donne (abaya in prestito).",
-        "quando": "Tardo pomeriggio, quando il marmo passa dal bianco al rosa e poi al blu. A mezzogiorno il bianco abbaglia.",
+        "come": "Taxi o Uber. Ingresso gratuito con prenotazione della visita sul sito ufficiale e regole di abbigliamento: braccia e gambe coperte, capo coperto per le donne.",
+        "quando": "Sabato-giovedì 9-20.30; venerdì 9-11.30 e 14.30-20.30 (2026). Meglio il tardo pomeriggio, quando il marmo passa dal bianco al rosa e poi al blu; a mezzogiorno il bianco abbaglia.",
         "tempo": "1-1,5 ore",
         "costo": "Ingresso gratuito",
         "url": "https://www.szgmc.gov.ae/",
@@ -327,6 +345,14 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
         "come": "Taxi dal centro.",
         "quando": "Mattina presto o tardo pomeriggio.",
         "tempo": "1 ora"
+      },
+      {
+        "nome": "Corniche e Heritage Village",
+        "testo": "Otto chilometri di lungomare con spiagge pubbliche, piste ciclabili e la vista sui grattacieli. In fondo, sul frangiflutti, l'Heritage Village ricostruisce un villaggio prima del petrolio: tende di pelo di capra, una moschea di fango, botteghe di artigiani e una vista sulla città che vale la passeggiata.",
+        "come": "Taxi fino alla Corniche, poi a piedi o in bici a noleggio. L'Heritage Village è sul frangiflutti di fronte al Marina Mall.",
+        "quando": "Dal tardo pomeriggio al tramonto, quando si accende lo skyline.",
+        "tempo": "2 ore",
+        "costo": "Corniche e Heritage Village a ingresso libero"
       }
     ],
     programmi: [

@@ -68,6 +68,7 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "En coche o autobús desde Interlaken Ost, unos 20 minutos.",
         quando: "A primera hora, antes de los grupos.",
         tempo: "1-2 horas",
+        costo: "Embarcadero de pago, 5 CHF, con torniquete (desde 2023).",
         consiglio: "El muelle se ve mejor al amanecer."
       }
     ],
@@ -172,7 +173,7 @@ export const destinazioniSvizzera: Destinazione[] = [
         nome: "Cascadas de Trümmelbach",
         testo: "Diez cascadas glaciares que corren dentro de la montaña, vistas desde pasarelas y túneles con un ascensor interior. Abiertas de primavera a otoño.",
         come: "Desde la estación de Lauterbrunnen en autobús o 30 minutos a pie.",
-        quando: "A primera hora, con el caudal máximo en junio y julio.",
+        quando: "Abiertas más o menos de principios de abril a principios de noviembre, de 9 a 17 (julio y agosto 8.30-18). Más caudal en junio y julio.",
         tempo: "1-1 hora y media",
         url: "https://www.truemmelbachfaelle.ch/",
         consiglio: "Llevar zapatos con suela adherente: las pasarelas están mojadas."
@@ -184,6 +185,15 @@ export const destinazioniSvizzera: Destinazione[] = [
         quando: "Todo el año.",
         tempo: "2 horas",
         consiglio: "Salir de aquí para la caminata a Männlichen, con vistas al grupo del Eiger."
+      },
+      {
+        nome: "El valle a pie hasta Stechelberg",
+        testo: "El sendero llano del fondo del valle que sigue el torrente de Lauterbrunnen hacia Stechelberg, entre prados y paredes de roca por las que bajan decenas de cascadas. Pasa cerca del Trümmelbach y de la salida del teleférico a Mürren. Es la caminata más fácil de la región y muestra por qué el valle es famoso.",
+        come: "Se sale a pie del pueblo; para volver está el autobús postal por la carretera del valle.",
+        quando: "De mayo a octubre; tras días de lluvia las cascadas llevan más agua.",
+        tempo: "2-3 horas a pie",
+        costo: "Gratis.",
+        consiglio: "Ir a pie y volver en autobús: el sendero sube suavemente hacia Stechelberg."
       }
     ],
     programmi: [
@@ -272,6 +282,7 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "Teleférico desde Grindelwald en unos 25 minutos, con varios tramos. El Cliff Walk está incluido en la entrada.",
         quando: "Por la mañana, con el cielo más despejado. Cierres y horarios varían según la temporada.",
         tempo: "2-3 horas",
+        costo: "Unos 76 CHF ida y vuelta (2026); mitad de precio con Swiss Travel Pass o Half Fare Card.",
         consiglio: "La primera cabina de la mañana tiene menos cola; los glaciares se ven mejor antes del mediodía."
       },
       {
@@ -289,6 +300,14 @@ export const destinazioniSvizzera: Destinazione[] = [
         quando: "Verano.",
         tempo: "2-3 horas",
         consiglio: "No pisar el hielo sin guía: hay grietas ocultas."
+      },
+      {
+        nome: "Männlichen y el sendero panorámico",
+        testo: "La cresta entre Grindelwald y Wengen, a la que se sube en telecabina desde Grindelwald Terminal. Desde la estación se sube en pocos minutos al mirador en forma de corona del Royal Walk, y luego sale el sendero panorámico hacia la Kleine Scheidegg, casi todo en bajada y frente al Eiger, el Mönch y la Jungfrau. Es el paseo con la vista más amplia de la zona para el esfuerzo que pide.",
+        come: "Telecabina Männlichen desde Grindelwald Terminal; desde la Kleine Scheidegg se vuelve en tren a Grindelwald o a Wengen.",
+        quando: "Verano, por la mañana; la telecabina para en primavera y otoño por mantenimiento.",
+        tempo: "medio día",
+        consiglio: "Hacer el sendero en dirección a la Kleine Scheidegg: se camina siempre con las tres cumbres delante."
       }
     ],
     programmi: [
@@ -378,6 +397,7 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "Ascensor rápido desde la estación (Top of Europe) a la plataforma.",
         quando: "Por la mañana, con menos nubes. Cerrada con viento fuerte o tormenta.",
         tempo: "45 minutos",
+        costo: "Unos 225-260 CHF ida y vuelta desde Interlaken Ost, según la temporada (2026), más 10 CHF por la reserva de asiento. El Good Morning Ticket de los primeros trenes cuesta menos.",
         url: "https://www.jungfrau.ch/",
         consiglio: "Mirar la webcam antes de salir: en días cubiertos no se ve nada."
       },
@@ -391,11 +411,19 @@ export const destinazioniSvizzera: Destinazione[] = [
       },
       {
         nome: "Glaciar Aletsch y paseo por la Meseta",
-        testo: "El glaciar más largo de los Alpes, de unos 22 kilómetros, y el sendero sobre el hielo hacia el refugio Mönchsjoch. El paseo es fácil pero en altura.",
+        testo: "El glaciar más largo de los Alpes, más de 20 kilómetros, y el sendero de nieve pisada hacia el refugio Mönchsjoch. La caminata es fácil pero a gran altitud.",
         come: "Se sale de la estación y se sigue el sendero señalizado por la meseta.",
         quando: "Por la mañana; la nieve está más firme y el tiempo es mejor.",
         tempo: "1 hora",
         consiglio: "El aire es fino: caminar despacio y beber agua."
+      },
+      {
+        nome: "Parada Eismeer",
+        testo: "En la subida el tren va en túnel por dentro del Eiger y del Mönch y para en la estación Eismeer, a unos 3.160 metros. Desde ventanales excavados en la roca se mira el glaciar de abajo. Dura pocos minutos, pero es cuando se entiende la hazaña del ferrocarril, terminado en 1912.",
+        come: "Parada de unos 5 minutos incluida en el viaje, solo en la subida.",
+        quando: "Todo el año.",
+        tempo: "5 minutos",
+        consiglio: "Sentarse de modo que se pueda bajar enseguida: los ventanales son pocos y se llenan."
       }
     ],
     programmi: [
@@ -514,6 +542,7 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "Teleférico desde Stechelberg (valle) o desde Mürren, en varios tramos. Desde el pueblo la subida lleva unos 20 minutos.",
         quando: "Por la mañana, con la mejor luz. Cerrado con viento fuerte.",
         tempo: "2-3 horas",
+        costo: "Unos 115 CHF ida y vuelta desde Stechelberg, unos 91 CHF desde Mürren (2026); grandes descuentos con el Swiss Travel Pass.",
         url: "https://www.schilthorn.ch/",
         consiglio: "Desde el valle la subida es más larga pero da vistas de las paredes."
       },
@@ -527,11 +556,20 @@ export const destinazioniSvizzera: Destinazione[] = [
       },
       {
         nome: "Gimmelwald",
-        testo: "Un diminuto pueblo agrícola a media pared, sin coches, al que se llega en teleférico o a pie desde Mürren.",
+        testo: "Un diminuto pueblo agrícola a media pared, sin coches, al que se llega en teleférico o a pie desde Mürren. Pajares de madera, vacas pastando y un pequeño puesto de autoservicio de queso y leche delante de las casas. Es el rincón más tranquilo del valle, con la misma vista que Mürren pero sin hoteles.",
         come: "Sendero en bajada desde Mürren, unos 30 minutos.",
         quando: "Verano y otoño.",
         tempo: "1 hora y media",
         consiglio: "Es un pueblo vivo: respetar las propiedades y no entrar en los establos."
+      },
+      {
+        nome: "Birg y el Thrill Walk",
+        testo: "La estación intermedia del teleférico del Schilthorn, colgada sobre el valle. De aquí sale el Thrill Walk, una pasarela de acero fijada a la pared con tramos de suelo de rejilla y de vidrio, y un túnel de red por el que se gatea. Se ve de cerca la cara norte del Eiger, con el vacío bajo los pies.",
+        come: "Se baja en Birg con el mismo billete del teleférico del Schilthorn.",
+        quando: "Cuando el teleférico funciona; con hielo la pasarela puede cerrar.",
+        tempo: "30-45 minutos",
+        costo: "Incluido en el billete del teleférico.",
+        consiglio: "Quien tenga vértigo puede quedarse en la terraza de la estación, que tiene la misma vista."
       }
     ],
     programmi: [
@@ -727,6 +765,7 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "Tren desde la estación de Zermatt, unos 33 minutos.",
         quando: "Por la mañana, con el cielo más despejado.",
         tempo: "Media jornada",
+        costo: "Ida y vuelta 132 CHF en verano (mayo-octubre) y 96 CHF en invierno (2026); mitad de precio con Swiss Travel Pass o Half Fare Card.",
         url: "https://www.gornergratbahn.ch/",
         consiglio: "Bajar en Rotenboden o Riffelberg para caminar un tramo."
       },
@@ -736,6 +775,7 @@ export const destinazioniSvizzera: Destinazione[] = [
         come: "Teleférico desde Zermatt con cambio en Furi y Trockener Steg.",
         quando: "A primera hora para tener el cielo más limpio.",
         tempo: "Media jornada",
+        costo: "Ida y vuelta desde unos 99-120 CHF según el periodo (2026); el precio cambia con la fecha, comprobar en la web.",
         url: "https://www.matterhornparadise.ch/",
         consiglio: "Llevar gafas de sol y una capa de abrigo: a 3.800 metros hace frío."
       },

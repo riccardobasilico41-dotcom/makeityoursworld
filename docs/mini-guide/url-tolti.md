@@ -37,3 +37,8 @@
 - https://www.rosenborgslot.dk (errore: URLError)
 - https://www.telliskivi.eu (errore: URLError)
 - https://www.transfagarasan.ro (errore: URLError)
+- https://maduraimeenakshi.hrce.tn.gov.in/ (errore: URLError)
+- https://obms-tourist.rajasthan.gov.in/ (errore: URLError)
+- https://www.petronastwintowers.com.my/ (errore: URLError)
+- https://www.visitpetra.jo/ (451)
+- https://www.warmemo.or.kr/ (errore: URLError)

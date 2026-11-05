@@ -115,6 +115,7 @@ export const destinazioniIslanda: Destinazione[] = [
         come: "By car from Reykjavík (about 45-50 minutes) or from Keflavík. Trails start from the visitor centre; no guide needed.",
         quando: "Early morning or evening, to avoid the buses; in summer open at all hours.",
         tempo: "1-2 hours",
+        costo: "trails free; paid parking, about 1,000 ISK per car (2025)",
         url: "https://www.thingvellir.is",
         consiglio: "Parking and the visitor centre are paid: check current rates on the official site."
       },
@@ -142,7 +143,7 @@ export const destinazioniIslanda: Destinazione[] = [
         come: "Paid parking (700 ISK when I went); short path, often muddy.",
         quando: "Summer evening, when the sun hits the fall from the west.",
         tempo: "1 hour",
-        costo: "parking 700 ISK (my own figure, to be rechecked)",
+        costo: "parking about 900-1,000 ISK per car (2025)",
         consiglio: "Waterproof shoes to get inside the Gljúfrabúi gorge."
       },
       {
@@ -151,7 +152,7 @@ export const destinazioniIslanda: Destinazione[] = [
         come: "Parking at the foot; the campsite next door is handy for the evening.",
         quando: "Afternoon, for the rainbow when it is sunny.",
         tempo: "45 minutes",
-        costo: "free entry",
+        costo: "free entry; paid parking, about 1,000 ISK (2025, Parka app)",
         consiglio: "Climb the wooden stairs for the view from above: the platform also shows the coast."
       },
       {
@@ -259,9 +260,10 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "Jökulsárlón glacier lagoon and Diamond Beach",
         testo: "A lagoon with icebergs calved from the Breiðamerkurjökull glacier, which drift out to sea through a channel. On the black sand beach across the road the ice blocks sparkle like diamonds.",
-        come: "Free parking near the lagoon. You can take an amphibious boat or Zodiac tour with local operators; kayaking must be booked ahead.",
+        come: "Paid parking next to the lagoon (about 1,000 ISK, 2025). Boat trips leave from the kiosk on the shore: amphibious boat from May to November, Zodiac from May to October; kayaking must be booked ahead.",
         quando: "Early morning or evening; in summer the light never fades.",
         tempo: "2-3 hours",
+        costo: "lagoon and beach free; amphibious boat 7,100 ISK, Zodiac 16,600 ISK per adult (2026, icelagoon.is)",
         url: "https://www.vatnajokulsthjodgardur.is",
         consiglio: "Kayaking among the icebergs is among my strongest memories: I did not note the operator and price, so check current offers."
       }
@@ -544,8 +546,9 @@ export const destinazioniIslanda: Destinazione[] = [
         nome: "Whale watching from Húsavík",
         testo: "Skjálfandi Bay is among the best places in Europe to see humpback and blue whales in summer. Tours leave from Húsavík harbour and last about 3 hours.",
         come: "Book online with the operator; traditional or fast boats.",
-        quando: "June to August; early morning for calm seas.",
+        quando: "Daily trips from March to November; June-August is the best period. Early morning for calm seas.",
         tempo: "3 hours",
+        costo: "from 12,990 ISK for the classic 3-hour tour with North Sailing (2026)",
         consiglio: "Dress in layers: it is cold on the boat even in summer."
       },
       {
@@ -633,7 +636,7 @@ export const destinazioniIslanda: Destinazione[] = [
         come: "By car from Route 54; a short stop.",
         quando: "Sunset, especially in summer; in winter at night for the aurora.",
         tempo: "1 hour",
-        costo: "free entry",
+        costo: "free entry; paid parking, about 1,000 ISK (2025)",
         consiglio: "The campsite at the foot of the mountain has the best view without moving."
       },
       {
@@ -699,8 +702,9 @@ export const destinazioniIslanda: Destinazione[] = [
         nome: "Hallgrímskirkja",
         testo: "A concrete Lutheran church inspired by basalt columns, started in 1945 and finished in 1986. The 74 metre tower has a viewing deck over the city.",
         come: "In the centre, on foot. Entry to the church and to the tower is separate.",
-        quando: "Morning, when the light is softer; the tower closes in the evening.",
+        quando: "Church open daily 10am-5pm in winter and 9am-8pm in summer; tower until 4:45pm in winter and 7:45pm in summer. Morning for the softest light.",
         tempo: "45 minutes",
+        costo: "church free; tower 1,500 ISK adults (2026), ticket sold only in the church, no advance booking",
         url: "https://hallgrimskirkja.is",
         consiglio: "Check the tower hours on the official site: they can change for concerts and services."
       },
@@ -718,7 +722,7 @@ export const destinazioniIslanda: Destinazione[] = [
         nome: "Perlan and Wonders of Iceland",
         testo: "A glass-domed building on top of six hot water tanks, with an artificial ice cave, a planetarium and a panoramic terrace.",
         come: "Outside the centre, by bus or car; handy on a rainy day.",
-        quando: "Daytime, when the weather is bad.",
+        quando: "Exhibitions open daily 9am-9pm; ideal on bad-weather days.",
         tempo: "2-3 hours",
         url: "https://perlan.is",
         consiglio: "Book online to avoid queues."
@@ -735,8 +739,9 @@ export const destinazioniIslanda: Destinazione[] = [
         nome: "Kolaportið",
         testo: "A covered flea market near the harbour on Saturdays and Sundays: second-hand goods, books, souvenirs and a dried fish stall, the most authentic Icelandic food.",
         come: "On foot from the centre, next to the old harbour.",
-        quando: "Weekends, 11-17.",
+        quando: "Saturday and Sunday, all year; hours on the official website.",
         tempo: "1 hour",
+        url: "https://kolaportid.is",
         consiglio: "Try harðfiskur (dried fish) with butter."
       },
       {

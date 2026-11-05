@@ -55,9 +55,9 @@ export const destinazioniTanzania: Destinazione[] = [
         "nome": "Valle del Seronera",
         "testo": "Il centro del parco, la zona più facile per i grandi felini: leoni, leopardi sugli alberi di acacia e ghepardi sulle pianure. I kopje, gli affioramenti di granito, sono il posto dove i leoni riposano.",
         "come": "Game drive in fuoristrada con guida, dal lodge o dal campo. Non si scende dall'auto fuori dai punti consentiti.",
-        "quando": "Alba e tardo pomeriggio, quando gli animali sono attivi.",
+        "quando": "Il parco è aperto tutto l'anno e i cancelli chiudono alle 18 (TANAPA). Gli animali sono più attivi all'alba e nel tardo pomeriggio.",
         "tempo": "1 giorno o più",
-        "url": "https://www.tanzaniaparks.go.tz/",
+        "url": "https://www.tanzaniaparks.go.tz/serengeti",
         "consiglio": "Ho fatto il safari con Suricata Safaris, che ha anche le esperienze in tenda dentro il parco: le consiglio."
       },
       {
@@ -66,7 +66,7 @@ export const destinazioniTanzania: Destinazione[] = [
         "come": "Dal Seronera o dal Ngorongoro in fuoristrada, con guida.",
         "quando": "Da dicembre a marzo.",
         "tempo": "1-2 giorni",
-        "url": "https://www.tanzaniaparks.go.tz/"
+        "url": "https://www.tanzaniaparks.go.tz/serengeti"
       },
       {
         "nome": "Fiume Mara e migrazione",
@@ -74,7 +74,7 @@ export const destinazioniTanzania: Destinazione[] = [
         "come": "Da Seronera in fuoristrada, molte ore di strada; molti campi sono fissi nel nord.",
         "quando": "Da luglio a ottobre.",
         "tempo": "1-2 giorni",
-        "url": "https://www.tanzaniaparks.go.tz/",
+        "url": "https://www.tanzaniaparks.go.tz/serengeti",
         "consiglio": "Chiedere all'operatore dove si trova la migrazione nel mese di viaggio: cambia ogni anno."
       },
       {
@@ -140,7 +140,8 @@ export const destinazioniTanzania: Destinazione[] = [
       "Andare nella zona sbagliata per il mese: la migrazione si sposta e in estate nel sud gli gnu non ci sono.",
       "Pianificare un solo giorno: tra andata e ritorno si passa più tempo in auto che a guardare animali.",
       "Dimenticare strati caldi per i game drive dell'alba, freddi sul fuoristrada aperto.",
-      "Scegliere un operatore senza licenza: verificare registrazione e recensioni."
+      "Scegliere un operatore senza licenza: verificare registrazione e recensioni.",
+      "Le tariffe di conservazione TANAPA si pagano a persona ogni 24 ore e di solito sono già nel prezzo dell'operatore: chiedere che siano indicate a parte nel preventivo."
     ],
     // GUIDA-END
     esperienzeSlugs: ['safari-in-tenda', 'grande-migrazione'],
@@ -190,8 +191,8 @@ export const destinazioniTanzania: Destinazione[] = [
         "come": "Si scende per una strada ripida in fuoristrada con guida. Ogni discesa ha un permesso a veicolo.",
         "quando": "Alba: i primi veicoli entrano presto e trovano il cratere più vuoto.",
         "tempo": "Mezza giornata",
-        "costo": "70,80 $ a persona ogni 24 ore per i non residenti, più 295 $ a veicolo per la discesa nel cratere (tariffe NCAA già riportate dal sito)",
-        "url": "https://www.ncaa.go.tz/",
+        "costo": "70,80 $ a persona ogni 24 ore per i non residenti dai 16 anni, più 295 $ a veicolo per ogni discesa nel cratere (tariffe NCAA, 2026)",
+        "url": "https://www.ncaa.go.tz/tariffs/",
         "consiglio": "La tassa del cratere è per veicolo: pesa di più sui gruppi piccoli."
       },
       {
@@ -208,7 +209,8 @@ export const destinazioniTanzania: Destinazione[] = [
         "come": "Con l'operatore, sulla strada intorno al cratere.",
         "quando": "Mattina.",
         "tempo": "1 ora",
-        "consiglio": "Chiedere in anticipo cosa è incluso e quanto va ai villaggi."
+        "consiglio": "Chiedere in anticipo cosa è incluso e quanto va ai villaggi.",
+        "costo": "Ingresso ai boma culturali 20 $ a veicolo (tariffa NCAA, 2026), più l'offerta che chiede il villaggio"
       }
     ],
     programmi: [
@@ -302,7 +304,7 @@ export const destinazioniTanzania: Destinazione[] = [
         "come": "Game drive in fuoristrada con guida.",
         "quando": "Da giugno a ottobre, quando gli animali si radunano attorno all'acqua.",
         "tempo": "1 giorno",
-        "url": "https://www.tanzaniaparks.go.tz/",
+        "url": "https://www.tanzaniaparks.go.tz/tarangire",
         "consiglio": "Nella stagione secca vale da solo il viaggio: non saltarlo per correre verso il Serengeti."
       },
       {
@@ -311,7 +313,7 @@ export const destinazioniTanzania: Destinazione[] = [
         "come": "Game drive di mezza giornata.",
         "quando": "Mattina.",
         "tempo": "Mezza giornata",
-        "url": "https://www.tanzaniaparks.go.tz/"
+        "url": "https://www.tanzaniaparks.go.tz/lake-manyara"
       },
       {
         "nome": "Mto wa Mbu",
@@ -531,7 +533,7 @@ export const destinazioniTanzania: Destinazione[] = [
         "come": "Con un operatore autorizzato, guide e portatori obbligatori nel parco.",
         "quando": "Da giugno a ottobre e da gennaio a febbraio.",
         "tempo": "5-9 giorni",
-        "url": "https://www.tanzaniaparks.go.tz/",
+        "url": "https://www.tanzaniaparks.go.tz/kilimanjaro",
         "consiglio": "Più giorni significa più acclimatamento e più probabilità di arrivare in cima."
       },
       {
@@ -540,7 +542,7 @@ export const destinazioniTanzania: Destinazione[] = [
         "come": "In auto da Arusha, circa un'ora.",
         "quando": "Mattina.",
         "tempo": "Una giornata",
-        "url": "https://www.tanzaniaparks.go.tz/"
+        "url": "https://www.tanzaniaparks.go.tz/arusha"
       },
       {
         "nome": "Cascate di Materuni e caffè",

@@ -54,10 +54,11 @@ export const destinazioniSvezia: Destinazione[] = [
       },
       {
         nome: "Museo Vasa",
-        testo: "Un buque de guerra de 1628 que se hundió tras 1.300 metros en el puerto en su viaje inaugural y fue recuperado casi intacto en 1961. Es uno de los barcos antiguos mejor conservados del mundo, expuesto en una sala con nueve niveles de pasarelas.",
+        testo: "Un buque de guerra de 1628 que se hundió tras 1.300 metros en el puerto en su viaje inaugural y fue recuperado casi intacto en 1961. Es uno de los barcos antiguos mejor conservados del mundo, expuesto en una gran sala con pasarelas en varios niveles, desde la quilla hasta la altura de la cubierta.",
         come: "Tranvía 7 o bus 67 hasta Djurgården, o ferri desde el centro. Visita libre, con tours guiados en inglés.",
         quando: "Mañana entre semana; es el museo más visitado de Escandinavia.",
         tempo: "2 horas",
+        costo: "195 SEK adultos en temporada baja (2026), más en verano",
         url: "https://www.vasamuseet.se",
         consiglio: "Reservar online la entrada en temporada alta."
       },
@@ -198,15 +199,17 @@ export const destinazioniSvezia: Destinazione[] = [
     comeSpostarsi: 'A pie por el centro; tren a Abisko.',
     periodoMigliore: "el mismo que Abisko: de finales de diciembre a marzo para la aurora, con febrero-marzo mucho más económicos",
     costi:
-      "La iglesia y el centro se visitan gratis. La mina LKAB cuesta unos 590 SEK (52 €) por persona por la visita guiada de 3 horas. El ICEHOTEL cuesta 349 SEK (31 €) solo la entrada de día, desde 3.995 SEK (350 €) por noche para 2 personas para dormir allí. Habitación doble en hotel de gama media en la ciudad: aproximadamente 100-150 €/noche.",
+      "El centro se visita gratis; la iglesia está cerrada hasta su reapertura prevista en 2027. La mina LKAB cuesta unos 590 SEK (52 €) por persona por la visita guiada de 3 horas. El ICEHOTEL cuesta 349 SEK (31 €) solo la entrada de día, desde 3.995 SEK (350 €) por noche para 2 personas para dormir allí. Habitación doble en hotel de gama media en la ciudad: aproximadamente 100-150 €/noche.",
     erroriDaEvitare: [],
     miaEsperienza:
       "Para mí Kiruna fue una base práctica más que un destino: a la ida la esencialidad del STF, a la vuelta el spa del Elite Hotel Frost, y de fondo la iglesia roja y el centro en transformación.",
     luoghi: [
       {
         nome: "Iglesia de Kiruna",
-        testo: "Iglesia de madera roja de 1912 de Gustaf Wickman, considerada una de las mayores construcciones de madera de Suecia. En 2025 fue trasladada al nuevo centro de la ciudad, por la expansión de la mina.",
-        come: "En la ciudad, a pie desde el centro; comprobar la ubicación actualizada antes de ir.",
+        testo: "Iglesia de madera roja de 1912 de Gustaf Wickman, considerada una de las mayores construcciones de madera de Suecia. El 19 y 20 de agosto de 2025 fue transportada entera unos 5 km, sobre remolques teledirigidos, hasta el nuevo centro, entre el cementerio y la nueva plaza, por la expansión de la mina. En el interior siguen las obras: la reapertura está prevista para 2027.",
+        come: "En el nuevo centro de Kiruna, a pie; por ahora solo se ve por fuera.",
+        costo: "cerrada al público hasta la reapertura prevista en 2027",
+        url: "https://www.svenskakyrkan.se/kiruna",
         quando: "De día, ya que la luz invernal es corta.",
         tempo: "30 minutos-1 hora",
         consiglio: "El nuevo centro está en construcción: una ocasión para ver una ciudad que se mueve."
@@ -214,9 +217,11 @@ export const destinazioniSvezia: Destinazione[] = [
       {
         nome: "Mina de hierro de LKAB",
         testo: "La mayor mina de hierro subterránea del mundo; el tour guiado de unas 3 horas baja hasta 540 metros. Explica por qué Kiruna se está mudando.",
-        come: "Tour reservado desde Kiruna, con traslado en bus; pedir a LKAB las fechas.",
-        quando: "Todo el año.",
+        come: "Tour guiado de Kiruna Lapland en bus desde el Kiruna Tourist Center (Malmvägen 9B); días e idiomas cambian según la temporada.",
+        quando: "Todo el año; en invierno las plazas se agotan pronto.",
         tempo: "3 horas",
+        costo: "590 SEK adultos (2026), con traslado, guía y café",
+        url: "https://kirunalapland.se/en/mine-tour/",
         consiglio: "Llevar ropa de abrigo: bajo tierra la temperatura es baja."
       },
       {
@@ -287,7 +292,7 @@ export const destinazioniSvezia: Destinazione[] = [
     comeSpostarsi: 'A pie por el pueblo; excursiones organizadas en moto de nieve y con huskies.',
     periodoMigliore: 'de finales de diciembre a marzo; febrero-marzo cuesta mucho menos manteniendo altas probabilidades de aurora',
     costi:
-      "Actividades, precio orientativo por persona: telesilla Aurora Sky Station 35-40 € (paquete con cena y pernoctación en altura unos 270-310 €, solo los viernes); moto de nieve guiada sobre el lago helado unos 100-110 € (self-drive 150-250 €); trineo de huskies nocturno con caza de la aurora 240 € (versiones diurnas más cortas desde 70 €). Costes de todo el viaje por persona: vuelos 600-645 €, alojamiento 400-600 €, transportes interiores 80 € (tren panorámico + traslado aeroportuario), excursiones 450-500 € por 3 tours con guía. Presupuesto total orientativo de 1.500 € (básico) a 1.800 € (nivel óptimo).",
+      "Actividades, precio orientativo por persona: Aurora Sky Station con visita nocturna guiada desde 1.295 SEK (unos 120 €) y cena en la cima desde 2.395 SEK (unos 215 €), tarifas STF de la temporada 2026-27; moto de nieve guiada sobre el lago helado unos 100-110 € (self-drive 150-250 €); trineo de huskies nocturno con caza de la aurora 240 € (versiones diurnas más cortas desde 70 €). Costes de todo el viaje por persona: vuelos 600-645 €, alojamiento 400-600 €, transportes interiores 80 € (tren panorámico + traslado aeroportuario), excursiones 450-500 € por 3 tours con guía. Presupuesto total orientativo de 1.500 € (básico) a 1.800 € (nivel óptimo).",
     erroriDaEvitare: [
       "Ir en Nochevieja si el objetivo es ahorrar: es la época más cara del año para volar y dormir en la zona",
       "No dejar un margen extra en los transportes: con el frío extremo los trenes a veces se cancelan (no a menudo, pero ocurre), y en esos casos los taxis de la zona tienden a subir un poco los precios",
@@ -298,9 +303,10 @@ export const destinazioniSvezia: Destinazione[] = [
       {
         nome: "Aurora Sky Station",
         testo: "Una estación en la cima del monte Nuolja, a la que se llega en telesilla, desde la que se observa la aurora en uno de los lugares más despejados de Suecia. Hay también una cena panorámica.",
-        come: "Telesilla desde Abisko Turiststation; la reserva incluye cena y subida.",
-        quando: "Invierno, noches con cielo despejado.",
+        come: "Telesilla desde la STF Abisko Turiststation. Dos fórmulas que se reservan con antelación, con plazas limitadas: Night Visit (guía, telesilla ida y vuelta, mono y botas térmicas) y Northern Lights Dinner.",
+        quando: "Temporada 2026-27 del 19 de octubre al 27 de marzo, de 20:30 a 1:00; con viento fuerte la telesilla se para.",
         tempo: "3-4 horas",
+        costo: "Night Visit desde 1.295 SEK, cena desde 2.395 SEK por persona (temporada 2026-27, tarifas STF)",
         url: "https://www.auroraskystation.se",
         consiglio: "Cené allí arriba: es de los recuerdos más fuertes de la semana."
       },

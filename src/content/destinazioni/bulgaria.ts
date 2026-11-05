@@ -108,8 +108,8 @@ export const destinazioniBulgaria: Destinazione[] = [
     percheAndarci: 'È stato il colpo di scena del viaggio. Dopo le giornate sulla neve il contrasto è totale, ed è probabilmente il ricordo più forte di tutto il tour.',
     cosaVedere: [
       'La Chiesa della Natività della Vergine, a cinque cupole, coperta di affreschi coloratissimi',
-      'Le mura di pietra alte 24 metri che chiudono il complesso',
-      'Il Museo di Storia Ecclesiastica, con la Croce di Rafail intagliata con oltre 1.500 figure bibliche',
+      'Le alte mura di pietra che chiudono il complesso e gli danno l\'aspetto di una fortezza',
+      'Il Museo di Storia Ecclesiastica, con la Croce di Rafail, intagliata con 104 scene religiose e 650 figure in miniatura',
     ],
     cosaFare: ['Visita al complesso monastico e alla chiesa (c\'è la scheda esperienza dedicata)', 'Visita al Museo di Storia Ecclesiastica'],
     doveDormire: 'Non ci ho dormito: è stata una tappa di mezza giornata sulla strada del rientro verso Sofia.',
@@ -117,14 +117,14 @@ export const destinazioniBulgaria: Destinazione[] = [
     comeArrivare: 'Con una deviazione dalla strada principale tra Bansko e Sofia.',
     comeSpostarsi: 'A piedi, dentro il complesso monastico.',
     periodoMigliore: 'tutto l\'anno',
-    costi: 'Ingresso al complesso e alla chiesa gratuito; Museo di Storia Ecclesiastica circa 8 BGN (4€).',
+    costi: 'Ingresso al complesso e alla chiesa gratuito; Museo di Storia Ecclesiastica circa 4 € (dal 2026 la Bulgaria usa l\'euro).',
     erroriDaEvitare: ['Entrare in chiesa con spalle e ginocchia scoperte', 'Fare foto o video dentro gli edifici religiosi: non è permesso'],
     miaEsperienza:
       'Dopo le giornate sulla neve, il monastero è stato il colpo di scena del viaggio. Gli affreschi coloratissimi della Chiesa della Natività della Vergine e il silenzio della montagna intorno sono il ricordo più vivido di tutto il tour.',
     luoghi: [
       {
         nome: "Complesso del Monastero di Rila",
-        testo: "Il più grande monastero bulgaro, patrimonio UNESCO, fondato nel X secolo da San Giovanni di Rila e ricostruito nell'Ottocento. Le mura di pietra alte 24 metri chiudono un cortile a portici in bianco e nero.",
+        testo: "Il più grande monastero bulgaro, patrimonio UNESCO, fondato nel X secolo da San Giovanni di Rila e ricostruito tra il 1834 e il 1862 dopo un incendio. Le alte mura di pietra, quasi da fortezza, chiudono un cortile a portici a strisce bianche e nere.",
         come: "In auto o bus da Sofia (circa 2-2,5 ore) o come deviazione sulla strada tra Bansko e Sofia.",
         quando: "Mattina presto, prima dei bus turistici.",
         tempo: "1,5-2 ore",
@@ -142,11 +142,11 @@ export const destinazioniBulgaria: Destinazione[] = [
       },
       {
         nome: "Museo di Storia Ecclesiastica e Croce di Rafail",
-        testo: "Il museo del monastero conserva reliquie e la Croce di Rafail, intagliata con oltre 1.500 figure bibliche in miniatura. È piccolo ma ricco.",
+        testo: "Il museo del monastero conserva reliquie e la Croce di Rafail, un pezzo unico di legno di 81 x 43 cm in cui il monaco Rafail intagliò 104 scene religiose e 650 figure in miniatura. È piccolo ma ricco.",
         come: "Nel complesso, ingresso a parte.",
         quando: "Giorno.",
         tempo: "45 minuti",
-        costo: "circa 8 BGN, 4 euro (dato del viaggio, da ricontrollare)",
+        costo: "circa 4 € (dato del viaggio; dal 2026 si paga in euro, listino aggiornato sul posto)",
         consiglio: "Il biglietto è facile da perdere: tenerlo in tasca."
       }
     ],

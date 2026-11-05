@@ -19,7 +19,7 @@ export const destinazioniSingapore: Destinazione[] = [
       'Perché è uno degli esperimenti urbanistici più riusciti degli ultimi trent\'anni: un\'intera baia progettata da zero che rischiava di diventare un centro commerciale a cielo aperto. Invece regge, soprattutto dopo il tramonto.',
     cosaVedere: [
       'I Supertree Grove di Gardens by the Bay, con lo spettacolo di luci serale gratuito',
-      'Le serre Flower Dome e Cloud Forest, con la cascata coperta più alta del mondo',
+      'Le serre Flower Dome e Cloud Forest, con la grande cascata coperta',
       'Il Marina Bay Sands e la sua piattaforma panoramica sul tetto',
       'Il ponte Helix e il Merlion, la statua simbolo della città',
       'L\'ArtScience Museum, a forma di loto, sulla punta della baia',
@@ -45,7 +45,7 @@ export const destinazioniSingapore: Destinazione[] = [
     erroriDaEvitare: [
       'Pagare la piattaforma panoramica del Marina Bay Sands: costa quanto un cocktail al bar dello stesso edificio, che ha la stessa vista e ci si siede',
       'Andare ai Gardens a metà giornata, quando fa caldissimo e le luci non ci sono',
-      'Saltare le serre pensando che siano un giardino botanico qualsiasi: la Cloud Forest, con la cascata coperta di trenta metri, è la cosa più sorprendente della zona',
+      'Saltare le serre pensando che siano un giardino botanico qualsiasi: la Cloud Forest, con la grande cascata coperta, è la cosa più sorprendente della zona',
       'Cenare attorno alla baia: si paga il doppio per mangiare peggio che in qualsiasi centro hawker',
     ],
     miaEsperienza:
@@ -55,7 +55,7 @@ export const destinazioniSingapore: Destinazione[] = [
         nome: "Supertree Grove di Gardens by the Bay",
         testo: "Diciotto strutture a forma di albero alte fino a cinquanta metri, coperte di piante e dotate di pannelli solari. Servono davvero a ventilare le serre e a raccogliere l'acqua piovana. La sera si illuminano e c'è uno spettacolo di luci gratuito.",
         come: "MRT fino a Bayfront, poi un passaggio coperto che porta ai giardini. Il bosco dei Supertree si gira da soli e senza biglietto; la passerella sospesa (OCBC Skyway) si paga a parte.",
-        quando: "Dopo il tramonto per lo spettacolo di luci, che dura circa quindici minuti e si ripete due volte a sera. Gli orari esatti sono sul sito ufficiale.",
+        quando: "Dopo il tramonto per lo spettacolo di luci Garden Rhapsody, ogni sera alle 19:45 e alle 20:45, circa quindici minuti; nei periodi di festa si aggiungono repliche (calendario sul sito ufficiale).",
         tempo: "1 ora e mezza",
         costo: "ingresso ai giardini e allo spettacolo gratuito",
         url: "https://www.gardensbythebay.com.sg/",
@@ -63,10 +63,11 @@ export const destinazioniSingapore: Destinazione[] = [
       },
       {
         nome: "Cloud Forest e Flower Dome",
-        testo: "Due serre climatizzate. Nella Cloud Forest una montagna coperta di felci e orchidee ha al centro una cascata di trenta metri; il Flower Dome ricrea un clima mediterraneo con ulivi e baobab.",
+        testo: "Due serre climatizzate. Nella Cloud Forest una montagna coperta di felci e orchidee ha al centro una grande cascata coperta, con una passerella che gira intorno alla cima; il Flower Dome ricrea un clima mediterraneo con ulivi e baobab.",
         come: "Dentro Gardens by the Bay, a pochi minuti a piedi dai Supertree. Biglietto d'ingresso per ogni serra, percorso a senso unico.",
-        quando: "Al mattino, quando c'è meno gente e fuori fa meno caldo. Con la pioggia sono il rifugio ideale.",
+        quando: "Aperte tutti i giorni, 9-21. Al mattino c'è meno gente; con la pioggia sono il rifugio ideale.",
         tempo: "1 ora per serra",
+        url: "https://www.gardensbythebay.com.sg/",
         consiglio: "Se se ne sceglie una sola, la Cloud Forest: è la più sorprendente della zona."
       },
       {
@@ -390,7 +391,7 @@ export const destinazioniSingapore: Destinazione[] = [
         nome: "MacRitchie Reservoir e TreeTop Walk",
         testo: "Un bacino circondato da foresta pluviale con sentieri e una passerella sospesa a 25 metri, che attraversa la volta degli alberi. Macachi, varani e scoiattoli sui sentieri.",
         come: "Autobus dalla MRT di Caldecott o Marymount fino all'ingresso. La passerella è raggiungibile solo a piedi, con un percorso di circa 11 chilometri a/r dalla sponda principale.",
-        quando: "Al mattino presto, per il fresco e per essere in tempo: il TreeTop Walk ha orari di apertura e si percorre in un solo senso.",
+        quando: "Al mattino presto, per il fresco e per essere in tempo: il TreeTop Walk è chiuso il lunedì (salvo festivi), ha orari di apertura diurni e si percorre in un solo senso. Orari sul sito NParks.",
         tempo: "3-4 ore",
         costo: "gratuito",
         url: "https://www.nparks.gov.sg/",
@@ -500,7 +501,7 @@ export const destinazioniSingapore: Destinazione[] = [
     percheAndarci:
       'Per i parchi, se si viaggia con bambini, e per la funivia sopra il porto, che è il modo migliore di vedere quanto sia grande il traffico marittimo che passa da qui: Singapore è uno dei porti più trafficati del pianeta e da lassù si contano le navi in rada a decine.',
     cosaVedere: [
-      'Universal Studios Singapore e il S.E.A. Aquarium a Resorts World',
+      'Universal Studios Singapore e il Singapore Oceanarium a Resorts World',
       'Le spiagge di Siloso, Palawan e Tanjong, artificiali ma attrezzate',
       'La funivia Mount Faber-Sentosa, sopra il porto',
       'Il Fort Siloso, l\'unica fortificazione costiera britannica conservata, con la storia della caduta di Singapore nel 1942',
@@ -557,8 +558,8 @@ export const destinazioniSingapore: Destinazione[] = [
         consiglio: "Non aspettarsi il mare: venire per il relax di una giornata di pioggia o con bambini."
       },
       {
-        nome: "Universal Studios e S.E.A. Aquarium",
-        testo: "Il parco a tema e uno degli acquari più grandi del mondo, a Resorts World Sentosa. Prezzi da parco internazionale.",
+        nome: "Universal Studios e Singapore Oceanarium",
+        testo: "Il parco a tema e il Singapore Oceanarium, l'acquario che nel 2025 ha preso il posto del S.E.A. Aquarium, entrambi a Resorts World Sentosa. Prezzi da parco internazionale.",
         come: "Si raggiunge con la monorotaia da VivoCity, fermata Resorts World. Biglietti online.",
         quando: "Nei giorni feriali; i fine settimana sono molto affollati.",
         tempo: "giornata intera per il parco, 2 ore per l'acquario",
@@ -589,7 +590,7 @@ export const destinazioniSingapore: Destinazione[] = [
         tappe: [
           "Apertura: Universal Studios, le attrazioni più richieste per prime",
           "Pranzo a Resorts World o nei centri hawker di VivoCity",
-          "Pomeriggio: S.E.A. Aquarium",
+          "Pomeriggio: Singapore Oceanarium",
           "Tramonto: spiaggia di Palawan e punto più a sud"
         ]
       }

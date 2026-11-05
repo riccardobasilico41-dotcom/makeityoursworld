@@ -47,8 +47,9 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
           "nome": "Zócalo, Catedral y Templo Mayor",
           "testo": "La plaza central con la Catedral Metropolitana, el Palacio Nacional y, al lado, el Templo Mayor, el corazón azteca de Tenochtitlan, con su museo.",
           "come": "Metro Zócalo. El Templo Mayor tiene entrada INAH aparte.",
-          "quando": "Mañana; el Templo Mayor suele cerrar los lunes.",
+          "quando": "Mañana; el museo y la zona arqueológica del Templo Mayor abren de martes a domingo, 9 a 17 h, y cierran los lunes.",
           "tempo": "3 horas",
+          "costo": "Templo Mayor: 210 MXN para extranjeros (2026); los domingos gratis solo para mexicanos y residentes.",
           "url": "https://www.inah.gob.mx/"
         },
         {
@@ -57,6 +58,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
           "come": "Metro Auditorio o Chapultepec.",
           "quando": "Mañana; suele cerrar los lunes.",
           "tempo": "3-4 horas",
+          "costo": "210 MXN para extranjeros (2026).",
           "url": "https://www.inah.gob.mx/",
           "consiglio": "Elegir 3-4 salas: es demasiado grande para verlo todo."
         },
@@ -64,8 +66,9 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
           "nome": "Teotihuacán",
           "testo": "La ciudad de los Templos del Sol y de la Luna y de la Calzada de los Muertos, a unos 50 km de la ciudad, patrimonio UNESCO.",
           "come": "Bus desde la terminal Norte (aprox. 1 hora) o tour; entrada INAH.",
-          "quando": "A la apertura, antes del calor y de los grupos.",
+          "quando": "A la apertura de las 8 (abre todos los días hasta las 17 h), antes del calor y de los grupos.",
           "tempo": "Media jornada",
+          "costo": "210 MXN para extranjeros (2026). Según notas de agosto de 2026 la Pirámide de la Luna está cerrada hasta nuevo aviso: preguntar en taquilla.",
           "url": "https://www.inah.gob.mx/",
           "consiglio": "Llevar sombrero y agua: casi no hay sombra."
         },
@@ -73,9 +76,10 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
           "nome": "Coyoacán y Casa Azul",
           "testo": "Barrio colonial con plazas y mercado, y la Casa Azul de Frida Kahlo, hoy museo.",
           "come": "Metro o Uber; para la Casa Azul hay que reservar entradas online con antelación.",
-          "quando": "Mañana; el museo suele cerrar los lunes.",
+          "quando": "Mañana; el museo cierra los lunes y hay que llegar a la hora indicada en el boleto.",
           "tempo": "Media jornada",
-          "url": "https://www.museofridakahlo.org.mx/"
+          "costo": "Casa Azul: 320 MXN para extranjeros (2026), con entrada por horario reservada en línea.",
+          "url": "https://boletos.museofridakahlo.org.mx/"
         },
         {
           "nome": "Xochimilco",
@@ -210,7 +214,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         },
         {
           "nome": "Gran Pirámide de Cholula",
-          "testo": "La pirámide más grande del mundo por volumen, con túneles visitables y la iglesia de la Virgen de los Remedios en la cima.",
+          "testo": "La pirámide más grande del mundo por volumen, casi escondida bajo un cerro de pasto, con la iglesia de la Virgen de los Remedios en la cima. Los túneles reabrieron en marzo de 2026 después de seis años cerrados, con visitas en grupo y en horarios fijos.",
           "come": "Bus o Uber desde Puebla (unos 20 minutos).",
           "quando": "Mañana; atardecer para la vista de los volcanes.",
           "tempo": "2-3 horas",
@@ -336,6 +340,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
           "come": "Shuttle o taxi desde Oaxaca (unos 20-30 minutos); entrada INAH.",
           "quando": "A la apertura.",
           "tempo": "2-3 horas",
+          "costo": "210 MXN para extranjeros (2026).",
           "url": "https://www.inah.gob.mx/"
         },
         {
@@ -715,6 +720,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
           "come": "Coche o colectivo desde Pátzcuaro (unos 20 minutos).",
           "quando": "Mañana.",
           "tempo": "2 horas",
+          "costo": "210 MXN para extranjeros (2026).",
           "url": "https://www.inah.gob.mx/"
         },
         {
@@ -935,14 +941,14 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         },
         {
           "nome": "Dunas de las islas barrera",
-          "testo": "Dunas de arena en la isla Magdalena, entre mar y desierto.",
+          "testo": "Dunas de arena en Isla Magdalena, la larga barrera que separa la laguna del Pacífico. Desde arriba se ven de un lado las aguas tranquilas donde nadan las ballenas y del otro las olas del océano; a menudo es la parada después de la salida en panga.",
           "come": "En panga desde las lagunas.",
           "quando": "Mañana.",
           "tempo": "Media jornada"
         },
         {
           "nome": "Pueblos de pescadores",
-          "testo": "Puerto Adolfo López Mateos y Puerto San Carlos, pueblos de pescadores con mercado y pescado fresco.",
+          "testo": "Puerto Adolfo López Mateos y Puerto San Carlos, pueblos de pescadores con mercado y pescado fresco. Viven de la pesca y, en invierno, de las ballenas: fuera de temporada están casi vacíos, con pocos restaurantes abiertos.",
           "come": "En coche desde La Paz o Ciudad Constitución.",
           "quando": "De día.",
           "tempo": "Media jornada",
@@ -980,26 +986,29 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       ],
       "sapori": [
         {
-          "nome": "Pescado y mariscos frescos",
-          "testo": "De la pesca local."
+          "nome": "Almejas chocolatas",
+          "testo": "Almejas grandes de concha color chocolate, crudas con limón y salsa o tatemadas, cocidas bajo las brasas. Se compran a los pescadores o en los puestos del puerto."
         },
         {
-          "nome": "Tacos de pescado",
-          "testo": "En los puestos del pueblo."
+          "nome": "Callo de hacha",
+          "testo": "El músculo de un gran bivalvo de las lagunas, en láminas finas y crudo con limón, pepino y chile, o en aguachile."
         },
         {
-          "nome": "Almejas",
-          "testo": "Almejas locales."
+          "nome": "Tacos de pescado y camarón",
+          "testo": "Capeados, con col, crema y salsas, en los puestos de Puerto San Carlos y López Mateos. Son la comida rápida después de la salida en lancha."
         },
         {
           "nome": "Ceviche",
-          "testo": "Con limón."
+          "testo": "Pescado o camarón marinado en limón con tomate, cebolla y cilantro, sobre tostadas crujientes."
         }
       ],
       "attenzioni": [
         "La temporada de ballenas va de enero a marzo: fuera de temporada no se ven.",
         "El viento de la tarde agita el mar: reservar por la mañana.",
-        "Pocos servicios: llevar efectivo."
+        "Pocos servicios: llevar efectivo.",
+        "Las salidas con ballenas están reguladas: solo con pangas autorizadas, con tiempos y distancias limitados.",
+        "Distancias largas y pocas gasolineras: cargar gasolina en Ciudad Constitución.",
+        "Las mañanas de invierno en lancha son frescas y húmedas: rompevientos y capas."
       ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
@@ -1038,7 +1047,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Misión de Nuestra Señora de Loreto",
-          "testo": "La primera misión jesuita de Baja California, fundada en 1697, con museo junto a la iglesia.",
+          "testo": "La primera misión jesuita de Baja California, fundada en 1697, con museo de las misiones junto a la iglesia. De aquí partió la colonización de las Californias; la iglesia de piedra, sencilla y maciza, sigue siendo el centro de la vida del pueblo.",
           "come": "A pie desde el centro.",
           "quando": "Mañana.",
           "tempo": "1 hora",
@@ -1046,18 +1055,18 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         },
         {
           "nome": "Parque Nacional Bahía de Loreto e Isla Coronado",
-          "testo": "Parque marino con islas, snorkel y avistamiento de ballenas azules en temporada.",
+          "testo": "Parque marino con islas, snorkel y avistamiento de ballena azul en temporada. Isla Coronado tiene una playa blanca y agua transparente; en la lancha es fácil cruzarse con delfines y lobos marinos.",
           "come": "Barca desde Loreto con operador autorizado.",
           "quando": "Mañana; mar calmo.",
           "tempo": "Día completo"
         },
         {
           "nome": "Misión San Javier",
-          "testo": "Misión jesuita de 1699 en la Sierra de la Giganta, a la que se llega por un camino de tierra entre montañas y cañones.",
+          "testo": "Misión jesuita de 1699 en la Sierra de la Giganta, a la que se llega por una carretera de montaña entre cañones y oasis de palmas. La iglesia de piedra del siglo XVIII es de las mejor conservadas de Baja, y al lado hay un viejo olivo de los misioneros.",
           "come": "Coche o tour desde Loreto (aprox. 1,5 horas).",
           "quando": "Mañana.",
           "tempo": "Media jornada",
-          "consiglio": "Camino de tierra: hace falta un vehículo adecuado."
+          "consiglio": "Carretera de montaña con curvas cerradas: manejar de día y con calma."
         }
       ],
       "programmi": [
@@ -1086,26 +1095,27 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       ],
       "sapori": [
         {
+          "nome": "Almejas tatemadas",
+          "testo": "Almejas chocolatas cocidas bajo un fuego de hierbas secas, directamente en la arena: la especialidad de Loreto. Se comen con limón y salsa."
+        },
+        {
           "nome": "Tacos de pescado",
-          "testo": "Especialidad de Baja."
+          "testo": "Capeados, con col, crema y salsas, en los puestos del centro desde la mañana."
         },
         {
           "nome": "Machaca",
-          "testo": "Carne seca deshebrada."
-        },
-        {
-          "nome": "Almejas",
-          "testo": "Almejas locales."
+          "testo": "Carne de res seca y deshebrada, guisada con huevo, cebolla y chile: el desayuno de los ranchos de la sierra, con tortillas de harina."
         },
         {
           "nome": "Dulces de dátil",
-          "testo": "Productos de la zona."
+          "testo": "En los oasis alrededor de Loreto y San Javier crecen las palmas datileras que trajeron los misioneros: dátiles y dulces se venden en las tiendas del pueblo."
         }
       ],
       "attenzioni": [
-        "El camino a San Javier es de tierra: valorar un vehículo adecuado.",
+        "La carretera a San Javier sube a la montaña con curvas cerradas: manejar de día y con calma.",
         "Sol fuerte y calor de verano: ir temprano.",
-        "Operadores autorizados en el parque nacional."
+        "Operadores autorizados en el parque nacional.",
+        "El parque marino cobra una cuota de área protegida: preguntar si está incluida en el precio del tour."
       ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
@@ -1132,7 +1142,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       "luoghi": [
         {
           "nome": "Centro histórico y galerías",
-          "testo": "Un Pueblo Mágico con casas coloniales, galerías de arte, boutiques y cafés.",
+          "testo": "Pueblo Mágico con casas coloniales, galerías de arte, boutiques y cafés. Era un pueblo cañero; hoy vive de artistas, surfistas y pequeños restaurantes que cocinan con las verduras de las huertas cercanas.",
           "come": "A pie.",
           "quando": "Mañana y noche.",
           "tempo": "Media jornada"
@@ -1147,7 +1157,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         },
         {
           "nome": "Liberación de tortugas",
-          "testo": "Proyectos locales de conservación con liberación de crías en las temporadas de eclosión.",
+          "testo": "Proyectos locales de conservación que liberan crías en las temporadas de eclosión. En las playas cercanas al pueblo anidan varias especies de tortugas marinas; los voluntarios protegen los nidos y, al atardecer, acompañan a las crías hacia el mar.",
           "come": "Con proyectos locales, en temporada.",
           "quando": "Tarde-noche.",
           "tempo": "1-2 horas",
@@ -1180,26 +1190,27 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       ],
       "sapori": [
         {
-          "nome": "Tacos de pescado",
-          "testo": "De Baja."
+          "nome": "Tacos de pescado y camarón",
+          "testo": "Al estilo de Baja, capeados, con col, crema y salsas, en los puestos del pueblo y rumbo a Cerritos."
         },
         {
-          "nome": "Pescado a la parrilla",
-          "testo": "Fresco, en la costa."
+          "nome": "Pescado del día a la parrilla",
+          "testo": "La pesca del Pacífico, a menudo dorado o huachinango, a las brasas con mantequilla de ajo o salsa, en los restaurantes del centro."
         },
         {
-          "nome": "Cocina campesina",
-          "testo": "Productos de los huertos locales."
+          "nome": "Cocina de huerta",
+          "testo": "Alrededor de Todos Santos hay huertas y granjas orgánicas: hierbas, verduras y mangos llegan a los menús de los restaurantes y a las tiendas del pueblo."
         },
         {
           "nome": "Café y dulces",
-          "testo": "En los cafés del centro."
+          "testo": "Panaderías y cafés del centro, con pan dulce y dulces de guayaba o mango, para una pausa entre galerías."
         }
       ],
       "attenzioni": [
         "Nadar en las playas abiertas del Pacífico fuera de Cerritos: corrientes fuertes.",
         "Carretera desde La Paz y Cabo San Lucas: aprox. 1 hora.",
-        "Las galerías cierran a horas variables: comprobar."
+        "Las galerías cierran a horas variables: comprobar.",
+        "De junio a noviembre es temporada de huracanes: revisar los avisos antes de salir."
       ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],
@@ -1256,7 +1267,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
         },
         {
           "nome": "Avistamiento de ballenas jorobadas",
-          "testo": "Avistamiento de ballenas jorobadas en aguas de Los Cabos.",
+          "testo": "Avistamiento de ballena jorobada en las aguas de Los Cabos. En invierno llegan aquí para reproducirse y parir: desde la lancha se ven saltos, coletazos y, con suerte, madres con su cría.",
           "come": "Barca desde Cabo San Lucas o San José del Cabo.",
           "quando": "Diciembre-abril.",
           "tempo": "2-3 horas"
@@ -1294,25 +1305,27 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
       "sapori": [
         {
           "nome": "Tacos de pescado",
-          "testo": "De Baja."
+          "testo": "Al estilo de Baja, capeados, con col, crema y salsas. En las taquerías de San José del Cabo cuestan mucho menos que en la marina de Cabo San Lucas."
         },
         {
-          "nome": "Ceviche",
-          "testo": "Fresco."
+          "nome": "Ceviche y aguachile",
+          "testo": "Pescado o camarón crudo en limón, el aguachile con chile y pepino. Van bien a mediodía, con una cerveza fría."
         },
         {
           "nome": "Langosta",
-          "testo": "A la parrilla, en temporada."
+          "testo": "A la parrilla o a la mantequilla, en los restaurantes frente al mar. Es cara: preguntar el precio por peso antes de pedir."
         },
         {
           "nome": "Margarita",
-          "testo": "Bares y restaurantes frente al mar."
+          "testo": "Tequila, limón y triple sec con sal en el borde, en los bares de Cabo San Lucas. La hora feliz de la tarde reduce la cuenta a la mitad."
         }
       ],
       "attenzioni": [
         "Cabo San Lucas es turística y cara: comparar precios.",
         "Ofertas de tiempo compartido: rechazar a quien te para en la calle.",
-        "El Pacífico tiene corrientes fuertes: nadar solo donde sea seguro."
+        "El Pacífico tiene corrientes fuertes: en Cabo San Lucas nadar solo en playas protegidas y señalizadas, como Médano, Chileno y Santa María.",
+        "En Cabo Pulmo solo se entra al agua con los operadores del pueblo: las reglas del parque son estrictas para proteger el arrecife.",
+        "De junio a noviembre es temporada de huracanes: revisar los avisos."
       ],
     esperienzeSlugs: [],
     tripSlugs: ['messico-cdmx-baja-california'],

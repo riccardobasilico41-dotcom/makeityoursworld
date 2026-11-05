@@ -51,9 +51,10 @@ export const destinazioniBorneo: Destinazione[] = [
       {
         nome: "Mount Kinabalu",
         testo: "4,095 meters, the highest mountain of Borneo and insular Southeast Asia. The climb takes two days: the first to Laban Rata hut at 3,270 meters, the second starting in the night for the sunrise on the bare granite summit.",
-        come: "The climb is allowed only with a mandatory guide and a named permit, booked months ahead through Sabah Parks and authorized operators. From the city to Timpohon Gate is about 2.5 hours by road.",
+        come: "The climb is allowed only with a registered guide (one per five adults) and a named permit, booked months ahead together with a bed at Laban Rata, through Sabah Parks or authorized operators. You start from Timpohon Gate: the Mesilau trail is closed. From the city it is about 2 hours by road.",
         quando: "From March to September. In bad weather the mountain closes. Book with margin.",
         tempo: "2 days, 1 night at Laban Rata",
+        costo: "Climbing permit RM 400 for foreign adults, guide RM 350 per five people, insurance RM 10 (Sabah Parks rates in force since 2023); hut and park entry extra.",
         url: "https://www.sabahparks.org.my/",
         consiglio: "Sleep near the park the night before the climb and not in Kota Kinabalu, to start rested."
       },
@@ -76,10 +77,11 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Tunku Abdul Rahman Marine Park",
-        testo: "Five islands twenty minutes by boat from the city, with beaches, snorkeling and clear water. The right choice for a sea afternoon after the mountain.",
+        testo: "Five islands twenty minutes by boat from the city, Gaya, Manukan, Mamutik, Sapi and Sulug, with beaches, snorkeling and clear water. Gaya is the largest, Manukan the best equipped. The right choice for an afternoon at sea after the mountain.",
         come: "By boat from Jesselton Point jetty, at flexible times. The park fee is paid.",
-        quando: "In the morning, with calmer sea.",
+        quando: "The park is open daily, 8:00-17:00. The sea is calmer in the morning.",
         tempo: "half a day",
+        costo: "Park entry RM 25 per day for foreign adults (Sabah Parks), plus the boat.",
         url: "https://www.sabahparks.org.my/",
         consiglio: "Mamutik and Manukan are the most convenient; Sapi is the busiest."
       },
@@ -296,9 +298,10 @@ export const destinazioniBorneo: Destinazione[] = [
         nome: "Sepilok Orangutan Rehabilitation Centre",
         testo: "A centre that takes in orphaned orangutans or ones confiscated from the illegal trade, in rehabilitation before returning to the forest. From the platforms you see the animals arrive to eat after the fruit feeding.",
         come: "25 km from Sandakan, by taxi or bus. You walk on wooden boardwalks to the platform.",
-        quando: "Two feedings a day, in the morning and early afternoon. Attending both doubles the chances.",
+        quando: "Feedings at 10:00 and 15:00: arrive half an hour early. The centre opens 9:00-12:00 and 14:00-16:00; on Friday mornings it closes at 11:00. Going to both feedings doubles your chances.",
         tempo: "2-3 hours",
-        url: "https://www.sabahtourism.com/",
+        costo: "RM 30 for foreign adults, plus a small camera fee; often cash only (figure repeated in 2025 sources, to be confirmed at the ticket office).",
+        url: "https://wildlife.sabah.gov.my/",
         consiglio: "Bring a closed backpack and no food in hand: the macaques grab everything."
       },
       {
@@ -307,6 +310,8 @@ export const destinazioniBorneo: Destinazione[] = [
         come: "On foot or by taxi from Sepilok, a few minutes.",
         quando: "Morning or early afternoon.",
         tempo: "1 hour",
+        costo: "RM 50 for foreign adults, RM 25 for ages 2 to 17 (2025).",
+        url: "https://www.bsbcc.org.my/",
         consiglio: "Visit on the same day as the orangutans."
       },
       {
@@ -655,7 +660,7 @@ export const destinazioniBorneo: Destinazione[] = [
     periodoMigliore:
       "April to September, with the calmest sea and best visibility. From November to February the sea is rougher and some outings are canceled.",
     costi:
-      "multi-night dive packages with full board; the Sipadan permit is paid separately and is the item that decides everything. Today each permit entitles you to three dives at the island on the same day.",
+      "multi-night dive packages with full board; the Sipadan permit is paid separately and is the item that decides everything. The number of dives per permit is set by Sabah Parks and changes over time: ask the operator.",
     erroriDaEvitare: [
       "Showing up hoping to dive at Sipadan without having booked months before: daily permits are just over two hundred and fifty, Sabah Parks assigns them to individual operators and they distribute them among guests, almost always on a rotation and rewarding longer stays",
       "Booking only two nights and counting on Sipadan: the rotation favors those who stay 4-5 nights, which is why the itinerary has to be built that way",
@@ -668,9 +673,10 @@ export const destinazioniBorneo: Destinazione[] = [
       {
         nome: "Sipadan",
         testo: "An oceanic island rising from a wall of over 600 meters. Dives are among the most famous in the world, with Barracuda Point, Drop Off and Turtle Tomb.",
-        come: "Only with authorized operators holding Sabah Parks permits. Each permit gives three dives on the island on the same day.",
-        quando: "From April to September. Permits (about 250 a day) must be booked months ahead.",
+        come: "Only with authorized operators holding Sabah Parks permits. You cannot stay on the island: its facilities closed in 2004, and boats leave from Mabul, Kapalai or Semporna. The number of dives per permit is set by Sabah Parks: ask your operator.",
+        quando: "From April to September the sea is at its best. There are about 250 daily permits, allocated by Sabah Parks to operators, who can book them up to six months ahead. The island usually closes in November to protect the reef.",
         tempo: "1 day per permit",
+        costo: "For foreigners a RM 100 conservation fee plus a RM 350 diving permit per person per day (Sabah Parks); operators include them in the package with a mark-up.",
         url: "https://www.sabahparks.org.my/",
         consiglio: "Book 4-5 nights: the permit rotation rewards longer stays."
       },
@@ -839,7 +845,7 @@ export const destinazioniBorneo: Destinazione[] = [
       },
       {
         nome: "Niah Caves",
-        testo: "Caves with traces of human presence from forty thousand years ago, in northern Sarawak.",
+        testo: "Huge caves in northern Sarawak with traces of human presence from around forty thousand years ago, rock paintings in the Painted Cave and swiftlet-nest collectors at work on the walls. They have been a UNESCO World Heritage Site since 2024.",
         come: "From Miri, about 2 hours by road, then a boardwalk in the forest.",
         quando: "In the morning.",
         tempo: "half a day",

@@ -115,6 +115,7 @@ export const destinazioniIslanda: Destinazione[] = [
         come: "En coche desde Reikiavik (unos 45-50 minutos) o desde Keflavík. Senderos señalizados desde el centro de visitantes, sin guía necesaria.",
         quando: "Temprano por la mañana o al atardecer, para evitar los autocares; en verano abierto a todas horas.",
         tempo: "1-2 horas",
+        costo: "senderos libres; aparcamiento de pago, unas 1.000 ISK por coche (2025)",
         url: "https://www.thingvellir.is",
         consiglio: "Aparcamiento y centro de visitantes son de pago: consultar las tarifas actuales en el sitio oficial."
       },
@@ -142,7 +143,7 @@ export const destinazioniIslanda: Destinazione[] = [
         come: "Aparcamiento de pago (700 ISK cuando fui); recorrido corto por sendero embarrado.",
         quando: "Tarde de verano, con el sol dando a la caída desde el oeste.",
         tempo: "1 hora",
-        costo: "aparcamiento 700 ISK (dato personal, a revisar)",
+        costo: "aparcamiento unas 900-1.000 ISK por coche (2025)",
         consiglio: "Zapatos impermeables para entrar en la garganta de Gljúfrabúi."
       },
       {
@@ -151,7 +152,7 @@ export const destinazioniIslanda: Destinazione[] = [
         come: "Aparcamiento a los pies; el camping de al lado es cómodo para la noche.",
         quando: "Tarde, para el arcoíris cuando hay sol.",
         tempo: "45 minutos",
-        costo: "entrada libre",
+        costo: "entrada libre; aparcamiento de pago, unas 1.000 ISK (2025, app Parka)",
         consiglio: "Subir por la escalera de madera para la vista desde arriba: desde la plataforma se ve también la costa."
       },
       {
@@ -259,9 +260,10 @@ export const destinazioniIslanda: Destinazione[] = [
       {
         nome: "Laguna glaciar de Jökulsárlón y Diamond Beach",
         testo: "Laguna con icebergs desprendidos del glaciar Breiðamerkurjökull, que salen al mar por un canal. En la playa de arena negra al otro lado de la carretera los bloques de hielo brillan como diamantes.",
-        come: "Aparcamiento gratuito cerca de la laguna. Se puede hacer un paseo en barco anfibio o zodiac con operadores de la zona; el kayak se reserva con antelación.",
+        come: "Aparcamiento de pago junto a la laguna (unas 1.000 ISK, 2025). Los paseos en barco salen del quiosco de la orilla: barco anfibio de mayo a noviembre, zodiac de mayo a octubre; el kayak se reserva con antelación.",
         quando: "Temprano por la mañana o al atardecer; en verano la luz no baja.",
         tempo: "2-3 horas",
+        costo: "laguna y playa libres; barco anfibio 7.100 ISK, zodiac 16.600 ISK por adulto (2026, icelagoon.is)",
         url: "https://www.vatnajokulsthjodgardur.is",
         consiglio: "El kayak entre icebergs es de mis recuerdos más fuertes: no anoté operador y precio, comprobar las ofertas actuales."
       }
@@ -544,8 +546,9 @@ export const destinazioniIslanda: Destinazione[] = [
         nome: "Avistamiento de ballenas desde Húsavík",
         testo: "La bahía de Skjálfandi es de los mejores lugares de Europa para ver yubartas y ballenas azules en verano. Los tours salen del puerto de Húsavík y duran unas 3 horas.",
         come: "Se reserva online con el operador; barcos tradicionales o rápidos.",
-        quando: "De junio a agosto; temprano por la mañana por el mar en calma.",
+        quando: "Salidas diarias de marzo a noviembre; junio-agosto es la mejor época. Temprano por la mañana para el mar en calma.",
         tempo: "3 horas",
+        costo: "desde 12.990 ISK el tour clásico de 3 horas con North Sailing (2026)",
         consiglio: "Vestirse en capas: en el barco hace frío incluso en verano."
       },
       {
@@ -633,7 +636,7 @@ export const destinazioniIslanda: Destinazione[] = [
         come: "En coche por la Route 54; parada breve.",
         quando: "Atardecer, sobre todo en verano; en invierno de noche por la aurora.",
         tempo: "1 hora",
-        costo: "entrada libre",
+        costo: "entrada libre; aparcamiento de pago, unas 1.000 ISK (2025)",
         consiglio: "El camping a los pies de la montaña ofrece la mejor vista sin moverse."
       },
       {
@@ -699,8 +702,9 @@ export const destinazioniIslanda: Destinazione[] = [
         nome: "Hallgrímskirkja",
         testo: "Iglesia luterana de hormigón inspirada en las columnas de basalto, iniciada en 1945 y terminada en 1986. La torre de 74 metros tiene un mirador sobre la ciudad.",
         come: "En el centro, a pie. La entrada a la iglesia y a la torre es separada.",
-        quando: "Mañana, cuando la luz es más suave; la torre cierra por la tarde.",
+        quando: "Iglesia todos los días de 10 a 17 en invierno y de 9 a 20 en verano; torre hasta las 16:45 en invierno y las 19:45 en verano. Por la mañana para la luz más suave.",
         tempo: "45 minutos",
+        costo: "iglesia libre; torre 1.500 ISK adultos (2026), entrada solo en la iglesia, sin reserva previa",
         url: "https://hallgrimskirkja.is",
         consiglio: "Comprobar el horario de la torre en el sitio oficial: puede cambiar por conciertos y misas."
       },
@@ -718,7 +722,7 @@ export const destinazioniIslanda: Destinazione[] = [
         nome: "Perlan y museo Wonders of Iceland",
         testo: "Un edificio con cúpula de cristal sobre seis depósitos de agua caliente, con una cueva de hielo artificial, un planetario y una terraza panorámica.",
         come: "Fuera del centro, en bus o coche; cómodo en un día de lluvia.",
-        quando: "De día, cuando hace mal tiempo.",
+        quando: "Exposiciones abiertas todos los días de 9 a 21; ideal en días de mal tiempo.",
         tempo: "2-3 horas",
         url: "https://perlan.is",
         consiglio: "Se reserva online para evitar colas."
@@ -735,8 +739,9 @@ export const destinazioniIslanda: Destinazione[] = [
         nome: "Kolaportið",
         testo: "Mercado cubierto de pulgas cerca del puerto, sábados y domingos: segunda mano, libros, souvenirs y un puesto de pescado seco, la comida islandesa más auténtica.",
         come: "A pie desde el centro, junto al puerto viejo.",
-        quando: "Fines de semana, 11-17.",
+        quando: "Sábado y domingo, todo el año; horarios en la web oficial.",
         tempo: "1 hora",
+        url: "https://kolaportid.is",
         consiglio: "Probar el harðfiskur (pescado seco) con mantequilla."
       },
       {

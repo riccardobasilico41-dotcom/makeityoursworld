@@ -175,6 +175,24 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
         "quando": "Tarde y noche, de octubre a abril.",
         "tempo": "5-6 horas",
         "consiglio": "Para el desierto de verdad hacen falta Liwa y el Rub' al-Jali."
+      },
+      {
+        "nome": "Museo del Futuro",
+        "testo": "El edificio en forma de anillo ovalado cubierto de caligrafía árabe de acero, en Sheikh Zayed Road. Dentro, cinco plantas de instalaciones inmersivas sobre el espacio, la naturaleza y el cuerpo humano en 2071. Vale sobre todo por la arquitectura, que se fotografía desde fuera sin entrar.",
+        "come": "Metro hasta Emirates Towers y pasarela cubierta. Entrada con franja horaria, en línea.",
+        "quando": "Horarios y entradas en la web oficial. De noche la caligrafía iluminada luce más en las fotos.",
+        "tempo": "1,5-2 horas",
+        "url": "https://museumofthefuture.ae/",
+        "consiglio": "Reservar con unos días de antelación: las franjas del fin de semana se agotan pronto."
+      },
+      {
+        "nome": "Dubai Frame",
+        "testo": "Un marco de unos 150 metros en el parque de Zabeel, con un puente de cristal arriba: a un lado se mira el Dubái antiguo de Deira y Karama, al otro los rascacielos de Downtown. Una galería en la planta baja cuenta la ciudad antes del petróleo.",
+        "come": "Metro hasta Max o ADCB y taxi corto, o taxi directo a la entrada del parque de Zabeel.",
+        "quando": "Última hora de la tarde, para ver la ciudad con luz y luego iluminada. Horarios en la web oficial.",
+        "tempo": "1 hora",
+        "url": "https://www.dubaiframe.ae/",
+        "consiglio": "Cuesta menos que el Burj Khalifa y la vista sobre Deira, que desde el Burj no se ve bien, es la razón para subir."
       }
     ],
     programmi: [
@@ -292,8 +310,8 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
       {
         "nome": "Gran Mezquita Sheikh Zayed",
         "testo": "Ochenta y dos cúpulas, columnas blancas con incrustaciones de nácar, la alfombra anudada a mano más grande del mundo y lámparas Swarovski. Está abierta a los no musulmanes.",
-        "come": "Taxi o Uber. Entrada gratuita, con normas de vestimenta: brazos y piernas cubiertos, cabeza cubierta para las mujeres (abayas prestadas).",
-        "quando": "Última hora de la tarde, cuando el mármol pasa del blanco al rosa y luego al azul. A mediodía el blanco deslumbra.",
+        "come": "Taxi o Uber. Entrada gratuita, reservando la visita en la web oficial, y normas de vestimenta: brazos y piernas cubiertos, cabeza cubierta para las mujeres.",
+        "quando": "De sábado a jueves 9-20.30; viernes 9-11.30 y 14.30-20.30 (2026). Mejor a última hora de la tarde, cuando el mármol pasa del blanco al rosa y luego al azul; a mediodía el blanco deslumbra.",
         "tempo": "1-1,5 horas",
         "costo": "Entrada gratuita",
         "url": "https://www.szgmc.gov.ae/",
@@ -322,6 +340,14 @@ export const destinazioniEmiratiArabiUniti: Destinazione[] = [
         "come": "Taxi desde el centro.",
         "quando": "A primera hora o última de la tarde.",
         "tempo": "1 hora"
+      },
+      {
+        "nome": "Corniche y Heritage Village",
+        "testo": "Ocho kilómetros de paseo marítimo con playas públicas, carriles bici y vista a los rascacielos. Al final, en el rompeolas, el Heritage Village recrea un pueblo de antes del petróleo: tiendas de pelo de cabra, una mezquita de barro, talleres de artesanos y una vista de la ciudad que justifica el paseo.",
+        "come": "Taxi hasta la Corniche, luego a pie o en bici de alquiler. El Heritage Village está en el rompeolas frente al Marina Mall.",
+        "quando": "De última hora de la tarde al atardecer, cuando se ilumina el skyline.",
+        "tempo": "2 horas",
+        "costo": "Corniche y Heritage Village gratis"
       }
     ],
     programmi: [

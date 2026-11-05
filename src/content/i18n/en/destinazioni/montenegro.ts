@@ -35,7 +35,7 @@ export const destinazioniMontenegro: Destinazione[] = [
     luoghi: [
       {
         nome: "Kotor Old Town",
-        testo: "A maze of Venetian medieval lanes inside 14th-century walls, a UNESCO site. Tiny squares, Romanesque churches and the Cathedral of St Tryphon, consecrated in 1166.",
+        testo: "A maze of medieval lanes inside walls built and extended over centuries, mostly by the Venetians: a UNESCO site. Tiny squares, Romanesque churches and the cathedral of St Tryphon, consecrated in 1166. Cats are everywhere, and the town has made them a symbol.",
         come: "Drive or take the bus to the car parks outside the walls and enter by the Sea Gate. Visit on foot, no guide needed.",
         quando: "Early morning or evening. Between 10 and 4, with cruise ships in port, the lanes fill up.",
         tempo: "2-3 hours",
@@ -47,7 +47,8 @@ export const destinazioniMontenegro: Destinazione[] = [
         come: "The path starts in the old town and is made of uneven steps, around 1,350. Closed shoes and water.",
         quando: "At opening or in the late afternoon, never in the summer midday heat. There is no shade at the top.",
         tempo: "1.5 hours up, rest and down",
-        consiglio: "Check the ticket office hours: there is also a side entrance, less crowded."
+        costo: "€15 per person, cash only (2026), during staffed hours.",
+        consiglio: "Check the ticket office hours and enter only through the official gates: in 2026 the town closed the unofficial gaps in the walls."
       },
       {
         nome: "Perast and the islets",
@@ -180,9 +181,9 @@ export const destinazioniMontenegro: Destinazione[] = [
         nome: "Cetinje",
         testo: "The historic former capital of Montenegro, with 19th-century embassy buildings and King Nikola's small palace. The Cetinje monastery keeps relics of St Peter and the National Museum has the Biljarda, where Njegoš lived.",
         come: "About 25 minutes by car from Njeguši. Walkable in town.",
-        quando: "Morning. Many museums close on Mondays and holidays: check.",
+        quando: "Morning. Museum hours and closing days on the official website.",
         tempo: "2-3 hours",
-        consiglio: "The King Nikola museum and the Biljarda are visited with a guide in Italian or English."
+        consiglio: "King Nikola's Museum, the Biljarda and the monastery are a few minutes' walk from each other: half a day is enough for all of them."
       }
     ],
     programmi: [
@@ -251,7 +252,7 @@ export const destinazioniMontenegro: Destinazione[] = [
     comeSpostarsi: 'Car, coastal buses, taxis.',
     periodoMigliore: 'June and September.',
     costi: 'Sun loungers and umbrellas €15-30 a day in high season.',
-    erroriDaEvitare: ['Expecting a quiet Budva in August', "Counting on visiting the island of Sveti Stefan: it's reserved for resort guests"],
+    erroriDaEvitare: ['Expecting a quiet Budva in August', "Counting on visiting the island of Sveti Stefan: the hotel has been closed since 2020 and the island cannot be visited"],
     luoghi: [
       {
         nome: "Budva Old Town",
@@ -263,8 +264,8 @@ export const destinazioniMontenegro: Destinazione[] = [
       },
       {
         nome: "Sveti Stefan",
-        testo: "A stone islet-village linked to the shore by an isthmus, turned into a luxury resort. The famous view is from the viewpoint on the road above the bay.",
-        come: "About 6 km from Budva. The island is open only to hotel guests and customers of its restaurants.",
+        testo: "A stone islet-village linked to the mainland by an isthmus, turned into a luxury resort. The hotel that occupies it has been closed since 2020 and the island cannot be visited. The famous view is from the lookout on the road above the bay.",
+        come: "About 6 km from Budva. You view it from the lookout and from the beaches on either side of the isthmus; check locally whether the hotel has reopened.",
         quando: "Late afternoon, with golden light on the stones.",
         tempo: "30 minutes for the viewpoint stop",
         consiglio: "You can go down to the beaches either side of the isthmus, but in summer they are paid."
@@ -276,6 +277,14 @@ export const destinazioniMontenegro: Destinazione[] = [
         quando: "June and September for sea and lower prices.",
         tempo: "half a day",
         consiglio: "A good base for sea without Budva's nightlife."
+      },
+      {
+        nome: "Mogren Beach",
+        testo: "Two small coves of sand and shingle just outside the old town walls, closed by cliffs and linked by a passage through the rock. You get there on a path above the sea that starts from the south side of the walls. It is the nicest beach near the centre, but in August it fills up early.",
+        come: "On foot from the old town, about 10 minutes along the coastal path.",
+        quando: "Early morning in summer; June and September are quieter.",
+        tempo: "half a day",
+        consiglio: "Sunbeds and umbrellas are paid: if you want to lay down a towel, arrive early to find the free section."
       }
     ],
     programmi: [
@@ -348,7 +357,7 @@ export const destinazioniMontenegro: Destinazione[] = [
     luoghi: [
       {
         nome: "Virpazar and the boat trip",
-        testo: "The fishing village on the lake's north shore, where boats leave among water lilies, reeds and pelicans. Lake Skadar National Park is the largest waterbird reserve in the Balkans.",
+        testo: "The fishing village on the north shore of the lake, where boats leave among water lilies, reed beds and pelicans. Lake Skadar National Park is one of the largest bird reserves in Europe.",
         come: "30 minutes by car from Podgorica. Boats leave from the pier and the village agencies.",
         quando: "Morning or late afternoon for the birds. Water lilies bloom in June and July.",
         tempo: "2-3 hours",
@@ -356,7 +365,7 @@ export const destinazioniMontenegro: Destinazione[] = [
       },
       {
         nome: "Pavlova Strana",
-        testo: "A viewpoint on the road above the lake where a bend of the Crnojević river forms a heart shape. The most photographed view in the area.",
+        testo: "A lookout on the road above the lake where the Crnojević river makes a horseshoe bend around a green tongue of land. It is the most photographed view in the area, with the mountains of Albania in the background on clear days.",
         come: "By car from Virpazar on a mountain road, about 20 minutes.",
         quando: "Late afternoon.",
         tempo: "30 minutes",
@@ -451,7 +460,7 @@ export const destinazioniMontenegro: Destinazione[] = [
         come: "On the road up to the upper monastery.",
         quando: "All year.",
         tempo: "30 minutes",
-        consiglio: "Visit it on the way back, when the car park is calmer."
+        consiglio: "Visit it on the way back, once the queue at the upper monastery is behind you."
       }
     ],
     programmi: [

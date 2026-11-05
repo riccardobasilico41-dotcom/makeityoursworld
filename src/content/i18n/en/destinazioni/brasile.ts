@@ -30,7 +30,7 @@ export const destinazioniBrasile: Destinazione[] = [
     comeArrivare: 'Galeão international airport (GIG); domestic flights also from Santos Dumont, downtown.',
     comeSpostarsi: 'Metro between the south zone and downtown, official taxis and apps; on foot only by day in busy areas.',
     periodoMigliore: 'May-October, mild dry winter; December-March hot and rainy.',
-    costi: 'Christ the Redeemer R$85-90 with the official van; Sugarloaf R$180-200.',
+    costi: 'Christ the Redeemer R$87 with the van from the Paineiras visitor centre (R$132 from Copacabana or Largo do Machado, R$134 with the cog train), a single price all year; Sugarloaf R$205 full ticket (2026).',
     erroriDaEvitare: [
       'Holding your phone in your hand on the street or leaving it on your beach towel',
       'Walking in deserted areas in the evening instead of using an app',
@@ -43,7 +43,7 @@ export const destinazioniBrasile: Destinazione[] = [
         "come": "By the rack railway from Cosme Velho or by the official vans from Paineiras. The ticket is bought online choosing day and time.",
         "quando": "First run of the morning, before clouds and crowds. At midday the statue is often in cloud.",
         "tempo": "3-4 hours including the ride up, the visit and the way down",
-        "costo": "About 87 R$ with the official van, a single price all year (2026)",
+        "costo": "R$87 with the van from the Paineiras visitor centre, R$132 with the van from Copacabana or Largo do Machado, R$134 with the cog train from Cosme Velho; a single price all year (2026)",
         "url": "https://paineirascorcovado.com.br/",
         "consiglio": "Go in the morning and bring a light jacket: it is windy at the top."
       },
@@ -328,7 +328,7 @@ export const destinazioniBrasile: Destinazione[] = [
     comeArrivare: 'Flight to Foz do Iguaçu (IGU), often via São Paulo; Argentine airport at Puerto Iguazú.',
     comeSpostarsi: 'City buses and taxis to the Brazilian park; taxi or transfer to cross the border.',
     periodoMigliore: 'all year; more water between December and March, less heat between April and September.',
-    costi: 'Brazilian park R$100-110; Argentine park about 35-45 dollars, paid in pesos; boat ride R$450-550.',
+    costi: 'Brazilian park R$134 for foreigners (since 19 December 2025); Argentine park 60,000 pesos for non-resident foreigners (about 40 dollars, since 1 June 2026); boat ride R$450-550.',
     erroriDaEvitare: [
       'Seeing only one side',
       'Forgetting your passport for the Argentine border',
@@ -339,9 +339,9 @@ export const destinazioniBrasile: Destinazione[] = [
         "nome": "Brazilian side of the falls",
         "testo": "It gives the overall view: a path of about a kilometre and a half along the canyon, up to the walkway that goes under the Garganta do Diabo, where you get completely wet.",
         "come": "City buses or taxi from Foz do Iguaçu; you enter by the visitor centre and go up with the park bus.",
-        "quando": "Arrive early in the morning.",
+        "quando": "Open every day: 9am-4pm Monday to Friday, 8.30am-4pm Saturday and Sunday. Arrive at opening time.",
         "tempo": "2-3 hours",
-        "costo": "About 130 R$ for foreigners (2026, cap 134 R$), to buy online with day and time",
+        "costo": "R$134 for foreigners, R$121 for Brazilians and Mercosur residents (fares in force since 19 December 2025, updated every year). Online only, with day and time",
         "url": "https://www.cataratasdoiguacu.com.br/",
         "consiglio": "A rain cape or waterproof bag for phone and documents."
       },
@@ -706,7 +706,7 @@ export const destinazioniBrasile: Destinazione[] = [
     comeArrivare: 'Flight to São Luís, then van to Barreirinhas (about 4 hours).',
     comeSpostarsi: 'Only 4x4 with authorized drivers inside the park; boats on the river.',
     periodoMigliore: 'June-September, with peak water in July-August.',
-    costi: "Jardineira R$100-150 per person per circuit; for park entry it's worth checking before leaving, because a concession plan is under way.",
+    costi: "Jardineira R$100-150 per person per circuit; park entry is free: ICMBio does not sell tickets and the plan to concession the park to private operators was withdrawn at the end of 2023.",
     erroriDaEvitare: [
       'Going off-season, when the lagoons are empty',
       'Entering the park in the middle hours of the day without water and a hat',
