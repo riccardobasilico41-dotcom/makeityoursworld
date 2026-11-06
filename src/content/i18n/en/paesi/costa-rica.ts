@@ -9,7 +9,7 @@ export const costaRica: Paese = {
     "Thirteen days crossing the country from one coast to the other, from the Caribbean Sea to the Pacific: rainforests, volcanic lava canyons, the Monteverde cloud forest and beaches where you can spot whales. Maybe the densest trip among the ones I tell about here.",
   periodoMigliore: "tropical climate all year; November is fine in general, less so for whales at Uvita (January-March or July-October is better)",
   durataConsigliata: "13 days, 12 nights",
-  budgetIndicativo: "starting common fund of €350 per person, plus about €250 each in extra activities",
+  budgetIndicativo: "about €250 each in extra activities, on top of flights and accommodation",
   scheda: {
     documenti:
       "Passport with at least 30 days of remaining validity from entry (many sources recommend 6 months anyway). No visa for tourism up to 180 days for Italian citizens. The onward ticket out of the country is an entry requirement and they always check it at the airport: book it before boarding.",
@@ -22,7 +22,7 @@ export const costaRica: Paese = {
     salute:
       "No mandatory vaccinations except yellow fever for those arriving from at-risk countries. Outside the main facilities, bottled water is best; high-protection mosquito repellent and sunscreen should be brought from home (sunscreen is very expensive on site). Health insurance recommended.",
     sicurezza:
-      "Sticking to tourist itineraries the country is calm; the main destinations (Guanacaste, Manuel Antonio, La Fortuna, Monteverde) are considered safe. San José requires care in the evening, especially for women on their own: it's better to move in a group or by Uber and avoid the center after sunset, while the neighborhoods of Barrio Escalante and La California remain lively and safe. Same caution in Puerto Viejo at night. It's best to always use authorized transport and guides.",
+      "Sticking to tourist itineraries the country is calm; the main destinations (Guanacaste, Manuel Antonio, La Fortuna, Monteverde) are considered safe. San José requires care in the evening, especially for women on their own: it's better to go out with company or by Uber and avoid the center after sunset, while the neighborhoods of Barrio Escalante and La California remain lively and safe. Same caution in Puerto Viejo at night. It's best to always use authorized transport and guides.",
     trasportiInterni:
       "Private van with a driver for those who want to cover many stops; public buses are cheap and widespread, but slow; domestic flights between San José, Liberia and the other destinations to save hours on the road. In town, and for the airport-center transfer, Uber costs about a third less than taxis and is safer because you check the license plate in advance. Official taxis are red with a triangle on the roof, airport ones are orange.",
     costoVita:

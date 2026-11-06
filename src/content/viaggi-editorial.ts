@@ -165,7 +165,7 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
   'costa-rica-itinerario': {
     seoTitle: "Costa Rica in due settimane: itinerario dal Caribe al Pacifico",
     seoDescription:
-      "Tredici giorni in van tra Caraibi e Pacifico: bradipi, vulcani, Monteverde e le balene. Con la cassa comune da 350€, le attività da prenotare e 7 errori.",
+      "Tredici giorni in van tra Caraibi e Pacifico: bradipi, vulcani, Monteverde e le balene. Con i prezzi delle attività, cosa prenotare e 7 errori.",
     socialTitle: "Bradipi, vulcani e balene: il Costa Rica in due settimane e 7 errori da non ripetere",
     editorialHook:
       "In Costa Rica Google Maps non è affidabile: traffico e strade allungano sempre i tempi, e conviene pianificare con margine.",

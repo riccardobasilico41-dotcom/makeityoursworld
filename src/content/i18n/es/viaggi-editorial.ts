@@ -103,7 +103,7 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
   'costa-rica-itinerario': {
     seoTitle: "Costa Rica en dos semanas: itinerario del Caribe al Pacífico",
     seoDescription:
-      "Trece días en van entre el Caribe y el Pacífico: perezosos, volcanes, Monteverde y ballenas. Con caja común de 350 €, actividades a reservar y 7 errores.",
+      "Trece días en van entre el Caribe y el Pacífico: perezosos, volcanes, Monteverde y ballenas. Con precios de las actividades, qué reservar y 7 errores.",
     socialTitle: "Perezosos, volcanes y ballenas: Costa Rica en dos semanas y 7 errores que no repetir",
     editorialHook:
       "En Costa Rica Google Maps no es fiable: el tráfico y las carreteras alargan siempre los tiempos, y conviene planificar con margen.",

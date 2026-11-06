@@ -103,7 +103,7 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
   'costa-rica-itinerario': {
     seoTitle: "Costa Rica itinerary 2 weeks: Caribbean to Pacific by van",
     seoDescription:
-      "A Costa Rica trip of 13 days by van between the Caribbean and the Pacific: sloths, volcanoes, Monteverde, whales. With the 350€ shared kitty, 7 mistakes.",
+      "A Costa Rica trip of 13 days by van between the Caribbean and the Pacific: sloths, volcanoes, Monteverde, whales. With activity prices and 7 mistakes.",
     socialTitle: "Sloths, volcanoes and whales: Costa Rica in two weeks and 7 mistakes not to repeat",
     editorialHook:
       "In Costa Rica Google Maps isn't reliable: traffic and roads always add time, so plan with a margin.",

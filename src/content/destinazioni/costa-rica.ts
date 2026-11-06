@@ -12,10 +12,10 @@ export const destinazioniCostaRica: Destinazione[] = [
     giorniConsigliati: '1 giorno all\'arrivo, 1 al rientro',
     visitataPersonalmente: true,
     introduzione: 'Il punto di arrivo e di rientro del viaggio. Da vedere c\'è poco, ma è un buon primo assaggio di cucina e vita sociale costaricana.',
-    percheAndarci: 'Come base logistica per il meeting di benvenuto e per il primo e l\'ultimo casado del viaggio.',
+    percheAndarci: 'Come base logistica all\'arrivo e alla partenza, e per il primo e l\'ultimo casado del viaggio.',
     cosaVedere: ['Il Mercado Central', 'Il quartiere coloniale di Barrio Amón', 'Il Museo Nazionale'],
     cosaFare: [
-      'Cena al Jardín de Lolita, tra food truck e socialità di gruppo',
+      'Cena al Jardín de Lolita, tra food truck e tavolate tra amici',
       'Dopocena da Booze and Scoops e serata di ballo a La Concha',
       'Cena d\'arrivederci al Costa Rica Beer Factory',
     ],
@@ -27,9 +27,9 @@ export const destinazioniCostaRica: Destinazione[] = [
     comeSpostarsi: 'Uber, meglio dei taxi: costa circa un terzo in meno ed è più sicuro.',
     periodoMigliore: 'metà-fine novembre',
     costi: 'Uber aeroporto-centro circa 14$.',
-    erroriDaEvitare: ['Evitare il centro città dopo il tramonto: meglio muoversi sempre in gruppo o in Uber', 'Cambiare valuta solo in banche o uffici autorizzati, mai per strada'],
+    erroriDaEvitare: ['Evitare il centro città dopo il tramonto: meglio muoversi sempre in compagnia o in Uber', 'Cambiare valuta solo in banche o uffici autorizzati, mai per strada'],
     miaEsperienza:
-      "San José merita di essere vista solo di passaggio. Carini il Mercado Central e il Museo Nazionale, quello di storia; per il resto niente di speciale. La cena al Jardín de Lolita, tra i food truck e con tutto il gruppo seduto insieme, ci ha fatto socializzare fin dalla prima sera.",
+      "San José merita di essere vista solo di passaggio. Carini il Mercado Central e il Museo Nazionale, quello di storia; per il resto niente di speciale. La cena al Jardín de Lolita, tra i food truck e tutti seduti insieme, è stata la serata giusta per ritrovarci dopo gli arrivi alla spicciolata.",
       "luoghi": [
         {
           "nome": "Mercado Central",
@@ -158,12 +158,12 @@ export const destinazioniCostaRica: Destinazione[] = [
     doveDormire:
       'Escape Caribeño: bungalow fronte spiaggia con piscina e un giardino tropicale molto fotografato, colazione giudicata ottima dalla maggior parte degli ospiti. Qualcuno si lamenta delle dotazioni minime in camera e del prezzo, già alto, che non include la colazione. Fascia medio-alta.\n\nAlternative: economiche: Cabinas Guaraná, Rocking J\'s · fascia media: Coco Loco Lodge · lusso: Le Cameleon Boutique Hotel, Cariblue Beach & Jungle Resort.',
     doveMangiare: 'Madre Tierra, Koki Beach Restaurant (spesso un bradipo attraversa il tetto la sera), Amimodo.',
-    usciteSerali: 'Hot Rocks per la musica dal vivo, Selina per il karaoke. Di notte meglio muoversi sempre in gruppo.',
+    usciteSerali: 'Hot Rocks per la musica dal vivo, Selina per il karaoke. Di notte meglio muoversi sempre in compagnia.',
     comeArrivare: 'Circa 4-4h30 di van da San José.',
     comeSpostarsi: 'Bicicletta a noleggio, tuk tuk locali per gli spostamenti brevi (circa 4$ a persona).',
     periodoMigliore: 'tutto l\'anno tropicale',
     costi: 'Noleggio bici circa 6$; tour di Cahuita 50$ a persona; Pacuaré rafting 112$.',
-    erroriDaEvitare: ['Prenotare il tour di Cahuita e il Pacuaré rafting con almeno una settimana d\'anticipo', 'Di notte muoversi sempre in gruppo, soprattutto le ragazze da sole'],
+    erroriDaEvitare: ['Prenotare il tour di Cahuita e il Pacuaré rafting con almeno una settimana d\'anticipo', 'Di notte muoversi sempre in compagnia, soprattutto le ragazze da sole'],
     miaEsperienza:
       "Abbiamo pedalato lungo la costa fino a Punta Uva, con le scimmie urlatrici che si sentivano dagli alberi sopra la testa. Cahuita bella bella: lì abbiamo visto lo squalo nutrice, le razze, vari bradipi, scimmiette di ogni tipo e altro. La comunità bribri invece è un'esperienza culturale, ma non devi immaginartela come una cosa autentica dentro la giungla, almeno per come l'ho vissuta io. È bello vedere come vivono, o vivevano, e come si fa il cioccolato, però non è tipo i Mentawai, per dire. Nella zona consiglio anche il Jaguar Rescue Center. Da qui poi siamo andati al confine con Panama.",
       "luoghi": [
@@ -761,7 +761,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     comeSpostarsi: 'A piedi in spiaggia; van per le escursioni.',
     periodoMigliore: 'gennaio-marzo o luglio-ottobre per il whale watching (novembre-dicembre è meno favorevole)',
     costi: 'Whale watching 70$ a persona; equitazione 52$ a persona; surf 70$ per 4 tavole al giorno; yoga 10$ a persona.',
-    erroriDaEvitare: ['Affidarsi a operatori improvvisati per il whale watching: meglio un operatore serio come Uvita Ballena Jorobada o il DMC, e chiedere sempre dell\'assicurazione'],
+    erroriDaEvitare: ['Affidarsi a operatori improvvisati per il whale watching: meglio un operatore serio come Uvita Ballena Jorobada, e chiedere sempre dell\'assicurazione'],
     miaEsperienza:
       "A Uvita ho fatto un po' di tutto. Per il tour delle balene consiglio Uvita Ballena Jorobada. Al Rancho La Merced abbiamo fatto il giro a cavallo al tramonto in spiaggia: io sono caduto, perché non sono un cavallerizzo esperto, ma è bellissimo. Gli animali sono trattati bene, cosa per me importantissima, e sono docili. Super consigliato. Il Costa Rica è bellissimo anche per il surf, e io qui l'ho fatto con Ariel. E la Cola de la Ballena con la bassa marea resta uno dei paesaggi più belli del viaggio.",
       "luoghi": [

@@ -1,9 +1,9 @@
 # Costa Rica in due settimane: dal Caribe al Pacifico, tra bradipi, vulcani e balene
 
-**Stato bozza:** 🟡 in lavorazione (itinerario, info pratiche e aneddoti pronti grazie a Travel Diary, diario giorno per giorno e Vade Mecum ufficiali — con tanto di orari reali, contatti dei local supplier e prezzi effettivamente pagati; note di Rick del 5/11/2026 inserite: confermate Cahuita, cavallo, canyoning, zip line, balene e surf; mancano l'anno del viaggio e quante balene abbiamo visto)
+**Stato bozza:** 🟡 in lavorazione (itinerario, info pratiche e aneddoti pronti grazie al diario giorno per giorno, con orari reali, contatti dei fornitori locali e prezzi effettivamente pagati; note di Rick del 5/11/2026 inserite: confermate Cahuita, cavallo, canyoning, zip line, balene e surf; mancano l'anno del viaggio e quante balene abbiamo visto)
 **Periodo del viaggio:** metà-fine novembre [anno da confermare], 16-28 novembre circa
 **Durata:** 13 giorni, 12 notti
-**Compagni di viaggio:** con amici, van privato con autista, organizzato con il DMC locale MR Adventure Travel (contatto Angie, +506 8831 9669)
+**Compagni di viaggio:** con un gruppetto di amici, arrivati a sprazzi ognuno con il suo volo; abbiamo noleggiato un van con autista
 **Categoria:** America Centrale · Costa Rica · Pura Vida · giungla · vulcani · Caribe · Pacifico
 
 ---
@@ -17,32 +17,32 @@ In generale il Costa Rica è bellissimo. Natura incredibile, surf, animali ovunq
 - **Quando andare:** clima tropicale tutto l'anno, caldo e umido, con possibili piogge soprattutto sulle coste; in caso di maltempo l'itinerario può cambiare. Novembre è tra i mesi in cui è meno probabile incontrare le balene a Uvita (la stagione migliore è gennaio-marzo o luglio-ottobre), ma per il resto del paese resta un buon periodo.
 - **Documenti/visto:** passaporto con almeno 6 mesi di validità residua. Per soggiorni turistici fino a 180 giorni non serve il visto, ma bisogna avere già il biglietto aereo di uscita dal paese.
 - **Moneta:** colón costaricano (CRC), cambio indicativo 1€ = 600 CRC. Nelle zone turistiche le carte sono accettate, ma con commissioni alte. Meglio portare contanti dall'Italia (meglio ancora dollari USA, che circolano accanto al colón) e cambiare solo in banche o uffici di cambio autorizzati: nei centri turistici, per strada, girano truffe con tassi «più favorevoli» che finiscono in banconote false.
-- **Budget indicativo:** cassa comune di partenza consigliata di 350€ a persona (raccolta in loco, in contanti, al meeting di benvenuto), più una spesa aggiuntiva realistica di 250€ a testa per le attività extra. I gruppi precedenti hanno speso in tutto tra 350 e 500€. Le attività in Costa Rica sono care rispetto al resto del Centro America: una giornata di rafting o di zipline può costare 60-120$ a persona. Lo confermo: le attività sono carissime e si paga quasi sempre in dollari.
-- **Mance:** nei ristoranti sono già incluse (10%). Per le guide dei tour si consigliano 5-10$ a persona; per l'autista che segue il gruppo per quasi tutto l'itinerario si calcolano 25$ a persona a fine tour.
-- **Come ci si muove:** van privato con autista per tutti i trasferimenti principali (attivo dalla mattina presto fino a sera, utilizzabile anche per spostamenti vicino all'hotel nei giorni con più tempo libero), più le barche per Tortuguero e per alcune escursioni. A San José, e per il transfer aeroporto-centro, **Uber è molto meglio dei taxi**: costa circa un terzo in meno ed è più sicuro, perché si può controllare la targa dell'auto in arrivo.
-- **Sicurezza:** a me ha dato una buona impressione. Non mi sono mai sentito particolarmente in pericolo, ma come in tutti i paesi del Centro America occhi sempre aperti. Di sera San José può essere un po' pericolosa, soprattutto per le donne da sole. Meglio muoversi sempre in gruppo o in Uber ed evitare il centro dopo il tramonto (Barrio Escalante e La California, i quartieri dove di solito si dorme, restano sicuri e vivaci anche la sera). Lo stesso vale per Puerto Viejo di notte.
-- **Sim/dati:** il DMC può indicare dove comprare una SIM locale da 5 GB per 5$ (circa 3.000 colones). In alternativa, a San José ci sono i negozi Claro o Kölbi, anche in aeroporto (aperto dalla mattina presto fino a sera, solo contanti; conviene pagare in colones, il cambio è migliore).
+- **Budget indicativo:** oltre a voli e alloggi, per le attività extra calcola una spesa realistica di circa 250€ a testa. Le attività in Costa Rica sono care rispetto al resto del Centro America: una giornata di rafting o di zipline può costare 60-120$ a persona. Lo confermo: le attività sono carissime e si paga quasi sempre in dollari.
+- **Mance:** nei ristoranti sono già incluse (10%). Per le guide dei tour si consigliano 5-10$ a persona; all'autista, che ci ha accompagnato per quasi tutto l'itinerario, abbiamo lasciato circa 25$ a persona a fine viaggio.
+- **Come ci si muove:** abbiamo noleggiato un van con autista per tutti i trasferimenti principali (attivo dalla mattina presto fino a sera, utilizzabile anche per spostamenti vicino all'hotel nei giorni con più tempo libero), più le barche per Tortuguero e per alcune escursioni. A San José, e per il transfer aeroporto-centro, **Uber è molto meglio dei taxi**: costa circa un terzo in meno ed è più sicuro, perché si può controllare la targa dell'auto in arrivo.
+- **Sicurezza:** a me ha dato una buona impressione. Non mi sono mai sentito particolarmente in pericolo, ma come in tutti i paesi del Centro America occhi sempre aperti. Di sera San José può essere un po' pericolosa, soprattutto per le donne da sole. Meglio muoversi sempre in compagnia o in Uber ed evitare il centro dopo il tramonto (Barrio Escalante e La California, i quartieri dove di solito si dorme, restano sicuri e vivaci anche la sera). Lo stesso vale per Puerto Viejo di notte.
+- **Sim/dati:** una SIM locale da 5 GB costa circa 5$ (circa 3.000 colones). A San José ci sono i negozi Claro o Kölbi, anche in aeroporto (aperto dalla mattina presto fino a sera, solo contanti; conviene pagare in colones, il cambio è migliore).
 - **Cibo:** il cibo è normale, un misto tra americano e centroamericano, con tanto pollo, riso e fagioli. La frutta invece è incredibile. La cucina può essere piccante; a chi non piace basta dire sempre «no spicy» quando ordina. Il piatto base è il **casado** (riso, fagioli, carne o pesce, verdure e platano fritto), onnipresente nelle sode (i ristoranti tipici economici).
 - **Bagaglio:** zaino compatto da 40/50/60 litri o duffel bag, niente trolley. Torna utile uno zaino grande come «deposito» e uno più piccolo da riempire ogni giorno. Servono scarpe comode (niente trekking impegnativi, ma tanti chilometri a piedi), scarpette da scoglio obbligatorie per cascate e snorkeling, k-way o mantella antipioggia obbligatoria, repellente antizanzare ad alta protezione, crema solare (in loco costa carissima) e un adattatore tipo A/B (120V).
-- **Sul tempo, che qui è relativo:** è una delle note più oneste del Vade Mecum ufficiale. In Costa Rica **Google Maps non è affidabile** per i tempi reali: traffico, strade e imprevisti fanno parte del viaggio, come le attese lunghissime al ristorante. Per questo a pranzo spesso si sceglie il lunch box o il menu ordinato in anticipo, per non perdere le ore migliori alle cascate.
+- **Sul tempo, che qui è relativo:** è una delle cose più vere che ho imparato in questo viaggio. In Costa Rica **Google Maps non è affidabile** per i tempi reali: traffico, strade e imprevisti fanno parte del viaggio, come le attese lunghissime al ristorante. Per questo a pranzo spesso si sceglie il lunch box o il menu ordinato in anticipo, per non perdere le ore migliori alle cascate.
 
 ## Itinerario giorno per giorno
 ### Giorno 1 — San José
-Il gruppo è arrivato alla spicciolata durante il giorno (Uber dall'aeroporto al centro, da mezz'ora a un'ora, circa 14 $), e fino al meeting di benvenuto in hotel non c'era niente in programma. San José merita solo di passaggio. Carino il **Mercado Central**, buono anche per il primo pranzo tipico, e carino il **Museo Nazionale**, quello di storia. Per il resto niente di speciale. Se resta tempo c'è il quartiere coloniale di **Barrio Amón**, oppure il **Museo del Oro Precolombino**, sotto la Plaza de la Cultura.
+Siamo arrivati a sprazzi durante il giorno, ognuno con il suo volo (Uber dall'aeroporto al centro, da mezz'ora a un'ora, circa 14 $), e il primo giorno non avevamo niente in programma. San José merita solo di passaggio. Carino il **Mercado Central**, buono anche per il primo pranzo tipico, e carino il **Museo Nazionale**, quello di storia. Per il resto niente di speciale. Se resta tempo c'è il quartiere coloniale di **Barrio Amón**, oppure il **Museo del Oro Precolombino**, sotto la Plaza de la Cultura.
 
-La prima cena è stata al **Jardín de Lolita**, un giardino informale dove si mangia dai food truck seduti tutti insieme: un modo facile per rompere il ghiaccio. In alternativa ci sono **Colonia Arepas y Bar**, cucina venezuelana e costaricana, o il **Costa Rica Beer Factory**, con la birra artigianale locale. Dopo, i gelati «alcolici» di **Booze and Scoops** e la serata di ballo a **La Concha**, con musica diversa ogni sera, nel quartiere di La California, sicuro e animato anche di notte, a differenza del centro.
+La prima cena è stata al **Jardín de Lolita**, un giardino informale dove si mangia dai food truck seduti tutti insieme: il posto giusto per ritrovarci dopo gli arrivi alla spicciolata. In alternativa ci sono **Colonia Arepas y Bar**, cucina venezuelana e costaricana, o il **Costa Rica Beer Factory**, con la birra artigianale locale. Dopo, i gelati «alcolici» di **Booze and Scoops** e la serata di ballo a **La Concha**, con musica diversa ogni sera, nel quartiere di La California, sicuro e animato anche di notte, a differenza del centro.
 
 ### Giorno 2 — Puerto Viejo, tra Caribe e giungla
 Siamo partiti in mattinata per quattro ore, quattro e mezza di transfer fino a **Puerto Viejo**, sulla costa caraibica, con i panini presi lungo la strada alla Panaderia Francesa.
 
 All'arrivo si noleggiano le bici da **Rasta Lion** (+506 8970 8522, circa 6 $, da riconsegnare quando si vuole entro il tardo pomeriggio, per 5 $): è il modo migliore per girare la costa. A quaranta minuti di pedalata c'è **Punta Uva**, la spiaggia più bella dei Caraibi costaricani per nuotare, poi **Playa Chiquita** e **Cocles**, dove ci si ferma per l'happy hour al tramonto. Lungo la strada è facile vedere le scimmie urlatrici sugli alberi e i grandi ragni dorati che tessono le tele, innocui nonostante l'aspetto. Per i tratti brevi ci sono i tuk tuk, circa 4 $ a persona, tre al massimo.
 
-Si cena da **Madre Tierra** e, se c'è musica dal vivo, si finisce all'**Hot Rocks**. Di notte Puerto Viejo chiede un po' di attenzione in più: meglio muoversi in gruppo, soprattutto le ragazze da sole.
+Si cena da **Madre Tierra** e, se c'è musica dal vivo, si finisce all'**Hot Rocks**. Di notte Puerto Viejo chiede un po' di attenzione in più: meglio muoversi in compagnia, soprattutto le ragazze da sole.
 
-*Chi vuole il rafting più estremo del viaggio può organizzare, almeno una settimana prima, il **Pacuaré** (112 $, giornata intera) lungo il tragitto per Puerto Viejo. È tra i cinque fiumi migliori al mondo per il rafting, ma quattro ore in acqua possono sembrare lunghe a chi è alla prima esperienza, soprattutto nella stagione secca, quando l'acqua è bassa. Il rafting del pacchetto arriva comunque più avanti, sul Sarapiquí, più regolare e adatto anche ai meno esperti.*
+*Chi vuole il rafting più estremo del viaggio può organizzare, almeno una settimana prima, il **Pacuaré** (112 $, giornata intera) lungo il tragitto per Puerto Viejo. È tra i cinque fiumi migliori al mondo per il rafting, ma quattro ore in acqua possono sembrare lunghe a chi è alla prima esperienza, soprattutto nella stagione secca, quando l'acqua è bassa. Noi il rafting l'abbiamo fatto più avanti, sul Sarapiquí, più regolare e adatto anche ai meno esperti.*
 
 ### Giorno 3 — Parco Nazionale di Cahuita
-È una giornata facoltativa, da organizzare almeno una settimana prima, ma è quella che consiglio di più: il **tour completo di Cahuita** con la guida locale **José** (+506 7221 4153, anche su WhatsApp), 50 $ a persona in contanti, gratis per il coordinatore.
+È una giornata facoltativa, da organizzare almeno una settimana prima, ma è quella che consiglio di più: il **tour completo di Cahuita** con la guida locale **José** (+506 7221 4153, anche su WhatsApp), 50 $ a persona in contanti.
 
 Si comincia con un'ora di passeggiata guidata nel **Parco Nazionale di Cahuita**, ingresso compreso, dove è molto probabile vedere bradipi, scimmie e diverse specie di serpenti, e si fa il bagno su una spiaggia dentro il parco. Cahuita bella bella: noi abbiamo visto lo squalo nutrice, le razze, vari bradipi, scimmiette di ogni tipo e altro.
 
@@ -55,7 +55,7 @@ La cena si sceglie tra il **Beach Break Bar and Restaurant** a Playa Cocles, i t
 ### Giorno 4 — Verso Tortuguero, tra fiume e giungla
 Colazione veloce e via: un'ora e mezza di van fino al porto di **Moin**, poi tre ore di barca fino a **Tortuguero**, tra canali immersi nella giungla. Il tragitto è già uno spettacolo, con coccodrilli, caimani, uccelli e scimmie lungo le rive. Tortuguero è bellissimo, assomiglia molto all'Amazzonia ed è fantastico per la natura. Abbiamo pranzato a bordo con un casado tipico.
 
-Tortuguero è un villaggio senza strade per le auto e si gira tutto a piedi, tra negozietti di souvenir. Il pomeriggio offre due possibilità. Il **Cerro Tortuguero**, in autonomia (6 $ di barca più 3 $ d'ingresso), è una breve salita nella giungla fino a una collina con la vista su tutta la zona. Nel periodo giusto (di solito tra luglio e ottobre, ma conviene chiedere al DMC) c'è la **nidificazione delle tartarughe**: un'escursione serale guidata da **Juan** (+506 8500 1369, circa 40 $ a persona) per vedere dal vivo la deposizione delle uova.
+Tortuguero è un villaggio senza strade per le auto e si gira tutto a piedi, tra negozietti di souvenir. Il pomeriggio offre due possibilità. Il **Cerro Tortuguero**, in autonomia (6 $ di barca più 3 $ d'ingresso), è una breve salita nella giungla fino a una collina con la vista su tutta la zona. Nel periodo giusto (di solito tra luglio e ottobre, ma conviene chiedere in loco) c'è la **nidificazione delle tartarughe**: un'escursione serale guidata da **Juan** (+506 8500 1369, circa 40 $ a persona) per vedere dal vivo la deposizione delle uova.
 
 La cena è inclusa in hotel; in paese ci sono anche **Taylor's Place** e **Mi Niño**.
 
@@ -64,7 +64,7 @@ La sveglia è suonata prima dell'alba per il **kayak tra i canali**, incluso: du
 
 In tarda mattinata ci siamo imbarcati verso **Sarapiquí**: un'ora e mezza di barca e due ore e mezza di van. Conviene fermarsi in un supermercato lungo la strada per le bibite prima del lodge; a Tortuguero, davanti al molo, ci sono un piccolo supermercato e un serbatoio di acqua potabile gratuita.
 
-All'**Epic Adventure Lodge**, in mezzo alla foresta, c'è tempo per la piscina o per camminare lungo il fiume. La sera c'è stata la **cooking class**, inclusa: si impara un piatto tradizionale, di solito le empanadas, che poi diventa la cena (vegetariani e vegani vanno segnalati prima al lodge). Se il gruppo preferisce, la prima sera al lodge si può fare anche un barbecue.
+All'**Epic Adventure Lodge**, in mezzo alla foresta, c'è tempo per la piscina o per camminare lungo il fiume. La sera c'è stata la **cooking class**, inclusa: si impara un piatto tradizionale, di solito le empanadas, che poi diventa la cena (vegetariani e vegani vanno segnalati prima al lodge). Se preferite, la prima sera al lodge si può fare anche un barbecue.
 
 ### Giorno 6 — Rafting sul fiume Sarapiquí
 In mattinata siamo partiti dal lodge per il **rafting sul Sarapiquí**, incluso e già pagato, con soste per acqua e frutta, fino a mezzogiorno. Rispetto al Pacuaré è un fiume più regolare tutto l'anno, adatto anche a chi non ha mai fatto rafting.
@@ -74,7 +74,7 @@ Nel pomeriggio, se il tempo regge, si può andare alle **Cataratas Bajas del Tor
 ### Giorno 7 — Arenal: cascate, vulcano e sorgenti termali
 Un'ora e venti di strada fino a **La Fortuna**, ai piedi del vulcano Arenal, con il minivan a disposizione per tutto il giorno. La Fortuna è bella, ma un po' overtouristy. Le attività sono care, però belle belle.
 
-La prima tappa è la **Cascada de La Fortuna**, probabilmente la cascata più fotografata del paese, con una piscina naturale alla base dove ci si può bagnare (circa 18-20 $, dalla cassa comune). Il DMC propone un **tour combo** con pranzo e tre attività: per 90 $ la cascata, il trekking al vulcano al Mirador El Silencio (ottime viste, circa 10 $ da solo) e le sorgenti termali; per 120 $, al posto del trekking, i **ponti sospesi** dei Mistico Hanging Bridges (circa 30 $ da soli).
+La prima tappa è la **Cascada de La Fortuna**, probabilmente la cascata più fotografata del paese, con una piscina naturale alla base dove ci si può bagnare (circa 18-20 $). C'è anche un **tour combo** con pranzo e tre attività: per 90 $ la cascata, il trekking al vulcano al Mirador El Silencio (ottime viste, circa 10 $ da solo) e le sorgenti termali; per 120 $, al posto del trekking, i **ponti sospesi** dei Mistico Hanging Bridges (circa 30 $ da soli).
 
 Il momento più bello arriva nel tardo pomeriggio, alle **sorgenti termali naturali** di **El Choyin**, un tratto di fiume gratuito, diverso dalle terme da spa come Termalitas de Arenal, a pagamento ma con extra come il barbecue. Servono solo scarpe da fiume, costume e una frontale in una sacca impermeabile; niente asciugamani, perché può piovere e non ci sono spogliatoi.
 
@@ -83,9 +83,9 @@ Si cena al **Nanku Restaurant** con musica dal vivo, alla **Soda Víquez**, più
 *Noi abbiamo fatto il **canyoning nel Lost Canyon** (115-119 $), ed è l'attività che consiglio di più a La Fortuna. Si fa la mattina del Giorno 8, con pranzo incluso, o il primo pomeriggio del Giorno 7. Ha il suo trasporto, quindi chi non partecipa tiene comunque il pulmino.*
 
 ### Giorno 8 — Monteverde, nella foresta nebulosa
-Colazione veloce e partenza presto. La prima tappa sono i **ponti sospesi** vicino a La Fortuna, un po' sotto le aspettative secondo alcuni del gruppo. Poi tre ore, tre e mezza di strada fino a **Monteverde**, con il pranzo in una delle sode lungo la via.
+Colazione veloce e partenza presto. La prima tappa sono i **ponti sospesi** vicino a La Fortuna, un po' sotto le aspettative secondo alcuni di noi. Poi tre ore, tre e mezza di strada fino a **Monteverde**, con il pranzo in una delle sode lungo la via.
 
-Nel primo pomeriggio si visita una **piantagione di caffè**, due ore con degustazione finale: conviene prenotare lo slot del primo pomeriggio tramite il DMC, che può ottenere tariffe di gruppo. In alternativa ci sono tour che aggiungono cioccolato e canna da zucchero, o un'escursione alle Tigre Waterfalls con pranzo incluso.
+Nel primo pomeriggio si visita una **piantagione di caffè**, due ore con degustazione finale: conviene prenotare in anticipo lo slot del primo pomeriggio. In alternativa ci sono tour che aggiungono cioccolato e canna da zucchero, o un'escursione alle Tigre Waterfalls con pranzo incluso.
 
 Si cena al **Tree House**, con un supermercato accanto per le bibite, oppure da **Tico y Rico**, al **The Green Restaurant** o da **Sabor Tico**. La sera c'è la **camminata notturna** nella foresta nebulosa, un'ora e mezza per vedere la fauna della notte: il Kinkajou Night Walk Tour (28 $) è considerato il migliore. *Non è piaciuta a tutti allo stesso modo, soprattutto per la durata: se si può, meglio chiedere alla guida di tenerla tra un'ora e un quarto e un'ora e mezza.*
 
@@ -97,7 +97,7 @@ Poi le **zipline**: quelle di Monteverde sono tra le migliori del paese, più lu
 Dopo pranzo, per esempio da **Tico y Rico**, ci aspettavano fino a quattro ore di strada verso **Uvita**, sul Pacifico. La sosta al **ponte di Tárcoles** è d'obbligo: sotto, nel fiume, si radunano grandi coccodrilli. Se il tempo lo permette, un tramonto su una spiaggia prima dell'hotel. Cena al **Gastro Park** di Uvita (avvisando prima, spesso c'è uno sconto del 10%).
 
 ### Giorno 10 — Uvita: avvistamento balene
-È il giorno del **whale watching**. A Uvita le stagioni migliori sono gennaio-marzo e luglio-ottobre; novembre-dicembre e maggio-giugno possono dare meno incontri. L'uscita dura tre ore e mezza, quattro, e costa 70 $ con acqua e frutta incluse. Per il tour delle balene consiglio **Uvita Ballena Jorobada** (+506 8820 6443, anche su WhatsApp). *Il DMC sconsiglia gli operatori improvvisati, che spesso non hanno un'assicurazione adeguata: prima di prenotare chiedete sempre.*
+È il giorno del **whale watching**. A Uvita le stagioni migliori sono gennaio-marzo e luglio-ottobre; novembre-dicembre e maggio-giugno possono dare meno incontri. L'uscita dura tre ore e mezza, quattro, e costa 70 $ con acqua e frutta incluse. Per il tour delle balene consiglio **Uvita Ballena Jorobada** (+506 8820 6443, anche su WhatsApp). *Meglio evitare gli operatori improvvisati, che spesso non hanno un'assicurazione adeguata: prima di prenotare chiedete sempre.*
 
 Il pomeriggio è libero in spiaggia. La costa di Uvita, con il banco di sabbia a forma di coda di balena, la **Cola de la Ballena**, che si vede soprattutto con la bassa marea, è uno dei paesaggi più belli del viaggio. Cena in hotel.
 
@@ -109,7 +109,7 @@ Siamo partiti prima dell'alba, con una colazione veloce, per un'ora e mezza di s
 
 La visita guidata, inclusa, dura una o due ore, secondo il passo e gli incontri: la guida aiuta a vedere bradipi, scimmie, iguane e colibrì lungo i sentieri. Poi c'è tempo per una delle spiagge più belle del paese, dentro il parco. Manuel Antonio è bello come parco, ma per la quantità di persone hai quasi la sensazione di andare allo zoo. Rimane comunque molto bello. *Il parco chiude il martedì: se il Giorno 12 cade di martedì, la visita si sposta al Giorno 10 o 11.*
 
-Restava l'ultimo lungo trasferimento, tre ore e mezza o quattro, fino a **San José**, con una sosta per i souvenir. La cena d'arrivederci è stata al **Costa Rica Beer Factory**, dove si era passati la prima sera, per un ultimo brindisi di gruppo con la birra artigianale.
+Restava l'ultimo lungo trasferimento, tre ore e mezza o quattro, fino a **San José**, con una sosta per i souvenir. La cena d'arrivederci è stata al **Costa Rica Beer Factory**, dove si era passati la prima sera, per un ultimo brindisi tutti insieme con la birra artigianale.
 
 ### Giorno 13 — Check-out e rientro
 Saluti e partenze, ciascuno con l'orario del proprio volo.
@@ -166,13 +166,13 @@ Tra gli aspetti più citati ci sono la buona posizione e lo staff cordiale; dive
 ## Consigli pratici / errori da non ripetere
 - **Diffidare del cambio «per strada»**: nei centri turistici capitano truffe con tassi vantaggiosi seguiti da banconote false. Si cambia solo in banche o uffici autorizzati.
 - **Google Maps non è affidabile in Costa Rica**: traffico, condizioni delle strade e imprevisti allungano sempre i tempi previsti, quindi conviene pianificare con margine.
-- **Le attività opzionali vanno prenotate con almeno una settimana d'anticipo**, soprattutto Cahuita NP e il rafting sul Pacuaré, che richiedono fornitori esterni al DMC.
-- **Diffidare dei tour «di strada»** proposti da chi non passa dal DMC: i prezzi più bassi spesso vogliono dire nessuna assicurazione, e in caso di emergenza il DMC non può intervenire su attività che non ha organizzato.
+- **Le attività opzionali vanno prenotate con almeno una settimana d'anticipo**, soprattutto Cahuita NP e il rafting sul Pacuaré, che passano da guide e operatori locali da contattare prima.
+- **Diffidare dei tour «di strada»** proposti da operatori improvvisati: i prezzi più bassi spesso vogliono dire nessuna assicurazione, e in caso di emergenza non c'è nessuno a cui rivolgersi.
 - **Al ristorante, soprattutto a pranzo, meglio lunch box o menu ordinati in anticipo**: il servizio è lento e rischia di mangiarsi le ore migliori per le attività del pomeriggio.
 - **Mettere in conto i prezzi in dollari**: le attività sono carissime per l'influenza americana e si paga quasi sempre in dollari.
 - **San José va vista solo di passaggio**: il mercato e il Museo Nazionale, poi si parte.
 - **L'umidità è costante**: i vestiti stesi non sempre si asciugano, quindi conviene mettere in conto qualche capo in più.
-- Una playlist di gruppo su Spotify per i tanti, lunghi trasferimenti: un modo semplice per farli diventare parte del viaggio invece che tempo morto.
+- Una playlist condivisa su Spotify per i tanti, lunghi trasferimenti: un modo semplice per farli diventare parte del viaggio invece che tempo morto.
 
 ## Chiusura personale
 Tra il Caribe di Puerto Viejo e il Pacifico di Uvita non c'è un vero vincitore: il primo per la giungla, le scimmie urlatrici e i due Temazcal vissuti come vere cerimonie spirituali; il secondo per il ritmo più lento, le spiagge e, con un po' di fortuna nella stagione sbagliata, anche qualche avvistamento di balene. Tredici giorni così densi hanno ripagato, ma se dovessi rifarlo rallenterei su Monteverde e Manuel Antonio, le due tappe dove avrei voluto più tempo per godermi la natura invece di correre verso il trasferimento successivo.
@@ -189,13 +189,13 @@ Un'opzione, invece di chiudere il giro a San José: dalla zona di Cahuita si pro
 Gli uffici di frontiera chiudono nel tardo pomeriggio: per arrivare a Bocas in giornata conviene partire la mattina presto.
 
 ## Materiale grezzo (appunti, non ancora editato)
-Fonti ufficiali del tour operator (WeRoad):
-1. **CRL Travel Diary / Costa Rica day-by-day** — documento operativo completo, con orari reali, contatti diretti dei fornitori locali (guide, autisti, ristoranti), prezzi effettivamente applicati, e note dal campo su cosa ha funzionato e cosa no (ponti sospesi "un po' deludenti", camminata notturna "troppo lunga per alcuni", equitazione "provata solo da due persone ma molto apprezzata").
-2. **Vade Mecum Costa Rica 360°** — informazioni pratiche generali: contatti dell'Ambasciata d'Italia a San José, documenti/visto, clima, moneta, sicurezza, assicurazione, bagaglio, medicinali, vestiario, regole della cassa comune (350€ a persona, raccolta cash al meeting di benvenuto).
-3. **Lista attività extra con prezzi e durate**, allegata al Travel Diary, per ogni tappa del viaggio (Puerto Viejo, Tortuguero, Sarapiquí, Arenal, Monteverde, Uvita).
+Appunti di viaggio:
+1. **Diario giorno per giorno** — orari reali, contatti diretti dei fornitori locali (guide, autisti, ristoranti), prezzi effettivamente pagati, e note su cosa ha funzionato e cosa no (ponti sospesi "un po' deludenti", camminata notturna "troppo lunga per alcuni", equitazione "provata solo da due di noi ma molto apprezzata").
+2. **Informazioni pratiche** — contatti dell'Ambasciata d'Italia a San José, documenti/visto, clima, moneta, sicurezza, assicurazione, bagaglio, medicinali, vestiario.
+3. **Lista attività extra con prezzi e durate** per ogni tappa del viaggio (Puerto Viejo, Tortuguero, Sarapiquí, Arenal, Monteverde, Uvita).
 
 **Cosa manca ancora per chiudere la bozza:**
-- Anno esatto del viaggio (le date, 16-28 novembre circa, sono chiare dai documenti).
+- Anno esatto del viaggio (le date, 16-28 novembre circa, sono chiare dagli appunti).
 - Attività opzionali: confermate da Rick il 5/11/2026 Cahuita NP, equitazione (Rancho La Merced), canyoning, zip line, whale watching (Uvita Ballena Jorobada) e surf (con Ariel). Restano da confermare Pacuaré rafting, turtle nesting e birdwatching.
 - Corcovado e Jaguar Rescue Center: fatti da Rick (confermato il 5/11/2026).
 - Il passaggio a Panama dal Caribe è presentato come opzione alternativa al rientro a San José (indicazione di Rick, 5/11/2026).

@@ -20,7 +20,7 @@ export const costaRica360Meta: TripMeta = {
   budgetTotale: undefined,
   viaggioInBreve: {
     percheHoScelto: undefined,
-    conChiSonoPartito: 'organizado a través de un tour operador (WeRoad) con la agencia local MR Adventure Travel, van privada con conductor',
+    conChiSonoPartito: 'con un grupito de amigos, llegando a cuentagotas, cada uno con su vuelo; alquilamos una van con conductor',
     cosaCercavo: undefined,
     treEsperienzePiuBelle: 'El trayecto en barco hacia Tortuguero, las aguas termales de El Choyin, el Parque Nacional Manuel Antonio',
     cosaCambierei: undefined,
@@ -97,7 +97,7 @@ export const costaRica360Meta: TripMeta = {
       intensita: 'medio',
       destinazioneSlug: 'sarapiqui',
       immagine: '/images/viaggi/costa-rica-360/giorno-6-rafting-sarapiqui.jpg',
-      imageAlt: 'Un grupo hace rafting entre los rápidos del río Sarapiquí',
+      imageAlt: 'Una balsa afronta los rápidos del río Sarapiquí',
     },
     {
       titoloGiorno: 'Día 7 — Arenal: cascadas, volcán y aguas termales',
@@ -175,8 +175,6 @@ export const costaRica360Meta: TripMeta = {
   ],
   budget: [
     { etichetta: 'Vuelos', valore: undefined },
-    { etichetta: 'Bote común de partida', valore: '350€ por persona' },
     { etichetta: 'Actividades extra', valore: '250€ por cabeza aprox.' },
-    { etichetta: 'Total de los grupos anteriores', valore: '350-500€ en total' },
   ],
 }

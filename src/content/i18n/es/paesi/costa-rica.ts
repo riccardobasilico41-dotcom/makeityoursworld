@@ -9,7 +9,7 @@ export const costaRica: Paese = {
     'Trece días que cruzan el país de una costa a la otra, del mar Caribe al Pacífico: selvas tropicales, cañones de lava volcánica, el bosque nuboso de Monteverde y playas donde se avistan ballenas. Quizá el viaje más denso de los que cuento aquí.',
   periodoMigliore: 'clima tropical todo el año; noviembre va bien en general, menos para las ballenas en Uvita (mejor enero-marzo o julio-octubre)',
   durataConsigliata: '13 días, 12 noches',
-  budgetIndicativo: 'bote común de partida 350€ por persona, más unos 250€ por cabeza de actividades extra',
+  budgetIndicativo: 'unos 250€ por cabeza de actividades extra, además de vuelos y alojamiento',
   scheda: {
     documenti:
       'Pasaporte con al menos 30 días de validez restante desde la entrada (muchas fuentes aconsejan de todos modos 6 meses). Sin visado para turismo hasta 180 días para los ciudadanos italianos. El billete de salida del país es una condición de entrada y en el aeropuerto lo comprueban siempre: hay que reservarlo antes de embarcar.',
@@ -22,7 +22,7 @@ export const costaRica: Paese = {
     salute:
       'Ninguna vacunación obligatoria salvo fiebre amarilla para quien viene de países de riesgo. Fuera de los establecimientos principales mejor agua embotellada; el repelente de mosquitos de alta protección y la crema solar hay que traerlos de casa (allí la crema cuesta carísima). Seguro médico recomendado.',
     sicurezza:
-      'Quedándose en los itinerarios turísticos el país es tranquilo; los destinos principales (Guanacaste, Manuel Antonio, La Fortuna, Monteverde) se consideran seguros. San José requiere atención por la noche, sobre todo para las mujeres solas: mejor moverse en grupo o en Uber y evitar el centro después de anochecer, mientras que los barrios de Barrio Escalante y La California siguen siendo animados y seguros. Misma precaución en Puerto Viejo de noche. Conviene usar siempre transportes y guías autorizados.',
+      'Quedándose en los itinerarios turísticos el país es tranquilo; los destinos principales (Guanacaste, Manuel Antonio, La Fortuna, Monteverde) se consideran seguros. San José requiere atención por la noche, sobre todo para las mujeres solas: mejor moverse acompañado o en Uber y evitar el centro después de anochecer, mientras que los barrios de Barrio Escalante y La California siguen siendo animados y seguros. Misma precaución en Puerto Viejo de noche. Conviene usar siempre transportes y guías autorizados.',
     trasportiInterni:
       'Van privada con conductor para quien quiere cubrir muchas paradas; autobuses públicos económicos y extendidos, pero lentos; vuelos internos entre San José, Liberia y los demás destinos para ahorrar horas de carretera. En la ciudad, y para el traslado aeropuerto-centro, Uber cuesta un tercio menos que los taxis y es más seguro porque se comprueba la matrícula con antelación. Los taxis oficiales son rojos con el triángulo en el techo, naranjas los de los aeropuertos.',
     costoVita:

@@ -21,7 +21,7 @@ export const costaRica360Meta: TripMeta = {
   budgetTotale: undefined,
   viaggioInBreve: {
     percheHoScelto: undefined,
-    conChiSonoPartito: "organized through a tour operator (WeRoad) with the local DMC MR Adventure Travel, private van with driver",
+    conChiSonoPartito: "with a small group of friends, arriving in dribs and drabs, each on our own flight; we hired a van with a driver",
     cosaCercavo: undefined,
     treEsperienzePiuBelle: "The boat ride to Tortuguero, the El Choyin hot springs, Manuel Antonio National Park",
     cosaCambierei: undefined,
@@ -98,7 +98,7 @@ export const costaRica360Meta: TripMeta = {
       intensita: 'medio',
       destinazioneSlug: 'sarapiqui',
       immagine: '/images/viaggi/costa-rica-360/giorno-6-rafting-sarapiqui.jpg',
-      imageAlt: "A group rafting through the rapids of the Sarapiquí River",
+      imageAlt: "A raft tackling the rapids of the Sarapiquí River",
     },
     {
       titoloGiorno: "Day 7 — Arenal: waterfalls, volcano and hot springs",
@@ -176,8 +176,6 @@ export const costaRica360Meta: TripMeta = {
   ],
   budget: [
     { etichetta: 'Flights', valore: undefined },
-    { etichetta: 'Starting common fund', valore: "€350 per person" },
     { etichetta: 'Extra activities', valore: "about €250 each" },
-    { etichetta: 'Total of previous groups', valore: "€350-500 overall" },
   ],
 }

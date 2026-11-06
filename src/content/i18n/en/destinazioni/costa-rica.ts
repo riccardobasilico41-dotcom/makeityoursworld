@@ -10,10 +10,10 @@ export const destinazioniCostaRica: Destinazione[] = [
     giorniConsigliati: "1 day on arrival, 1 on the way back",
     visitataPersonalmente: true,
     introduzione: "The arrival and return point of the trip. There's little to see, but it's a good first taste of Costa Rican food and social life.",
-    percheAndarci: "As a logistical base for the welcome meeting and for the first and last casado of the trip.",
+    percheAndarci: "As a logistical base on arrival and departure, and for the first and last casado of the trip.",
     cosaVedere: ["The Mercado Central", "The colonial neighborhood of Barrio Amón", "The National Museum"],
     cosaFare: [
-      "Dinner at Jardín de Lolita, among food trucks and group socializing",
+      "Dinner at Jardín de Lolita, among food trucks and long tables with friends",
       "After-dinner drinks at Booze and Scoops and a dancing night at La Concha",
       "Farewell dinner at the Costa Rica Beer Factory",
     ],
@@ -25,9 +25,9 @@ export const destinazioniCostaRica: Destinazione[] = [
     comeSpostarsi: "Uber, better than taxis: it costs about a third less and is safer.",
     periodoMigliore: "mid to late November",
     costi: "Uber airport-center about $14.",
-    erroriDaEvitare: ["Avoid the city center after sunset: always move in a group or by Uber", "Exchange currency only at banks or authorized offices, never on the street"],
+    erroriDaEvitare: ["Avoid the city center after sunset: always go out with company or by Uber", "Exchange currency only at banks or authorized offices, never on the street"],
     miaEsperienza:
-      "San José is only worth seeing in passing. The Mercado Central and the National Museum, the history one, are nice; otherwise, nothing special. Dinner at Jardín de Lolita, among the food trucks with the whole group sitting together, got us socializing from the very first evening.",
+      "San José is only worth seeing in passing. The Mercado Central and the National Museum, the history one, are nice; otherwise, nothing special. Dinner at Jardín de Lolita, among the food trucks all of us sitting together, was the right evening to get back together after our scattered arrivals.",
       "luoghi": [
         {
           "nome": "Mercado Central",
@@ -156,12 +156,12 @@ export const destinazioniCostaRica: Destinazione[] = [
     doveDormire:
       "Escape Caribeño: beachfront bungalows with a pool and a much-photographed tropical garden, breakfast rated excellent by most guests. Some complain about the minimal room amenities and the price, already high, which doesn't include breakfast. Upper mid-range.\n\nAlternatives: budget: Cabinas Guaraná, Rocking J's · mid-range: Coco Loco Lodge · luxury: Le Cameleon Boutique Hotel, Cariblue Beach & Jungle Resort.",
     doveMangiare: "Madre Tierra, Koki Beach Restaurant (often a sloth crosses the roof in the evening), Amimodo.",
-    usciteSerali: "Hot Rocks for live music, Selina for karaoke. At night it's better to always move in a group.",
+    usciteSerali: "Hot Rocks for live music, Selina for karaoke. At night it's better to always go out with company.",
     comeArrivare: "About 4-4.5 hours by van from San José.",
     comeSpostarsi: "Rental bicycle, local tuk tuks for short trips (about $4 per person).",
     periodoMigliore: "all year, as in the tropics",
     costi: "Bike rental about $6; Cahuita tour $50 per person; Pacuaré rafting $112.",
-    erroriDaEvitare: ["Book the Cahuita tour and the Pacuaré rafting at least a week in advance", "At night always move in a group, especially girls on their own"],
+    erroriDaEvitare: ["Book the Cahuita tour and the Pacuaré rafting at least a week in advance", "At night always go out with company, especially girls on their own"],
     miaEsperienza:
       "We cycled along the coast to Punta Uva, with howler monkeys calling from the trees overhead. Cahuita, really beautiful: there we saw a nurse shark, rays, several sloths, all kinds of little monkeys and more. The Bribri community, on the other hand, is a cultural experience, but don't picture it as something authentic deep in the jungle, at least not the way I experienced it. It's nice to see how they live, or used to live, and how chocolate is made, but it's not like the Mentawai, to give you an idea. In the area I also recommend the Jaguar Rescue Center. From here we then went to the Panama border.",
       "luoghi": [
@@ -759,7 +759,7 @@ export const destinazioniCostaRica: Destinazione[] = [
     comeSpostarsi: "On foot on the beach; van for excursions.",
     periodoMigliore: "January-March or July-October for whale watching (November-December is less favorable)",
     costi: "Whale watching $70 per person; horseback riding $52 per person; surfing $70 for 4 boards a day; yoga $10 per person.",
-    erroriDaEvitare: ["Trusting improvised operators for whale watching: better a serious one like Uvita Ballena Jorobada or the DMC, and always ask about insurance"],
+    erroriDaEvitare: ["Trusting improvised operators for whale watching: better a serious one like Uvita Ballena Jorobada, and always ask about insurance"],
     miaEsperienza:
       "In Uvita I did a bit of everything. For the whale tour I recommend Uvita Ballena Jorobada. At Rancho La Merced we did the sunset horseback ride on the beach: I fell off, because I'm not an experienced rider, but it's beautiful. The animals are treated well, which matters hugely to me, and they're gentle. Highly recommended. Costa Rica is also great for surfing, and here I went with Ariel. And the Cola de la Ballena at low tide is still one of the most beautiful landscapes of the trip.",
       "luoghi": [
