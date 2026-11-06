@@ -422,4 +422,17 @@ export const CONSIGLIATI: Record<string, Consigliato[]> = {
       },
     },
   ],
+  'guatemala/antigua-guatemala': [
+    {
+      nome: 'OX Expeditions',
+      cosa: { it: 'Trekking sul vulcano Acatenango', en: 'Acatenango volcano trek', es: 'Trekking al volcán Acatenango' },
+      url: 'https://oxexpeditions.com/',
+      fatto: true,
+      testo: {
+        it: "Per il vulcano Acatenango consiglio OX Expeditions, ad Antigua: sono bravissimi e mi sono trovato molto bene con loro.",
+        en: "For the Acatenango volcano I recommend OX Expeditions, in Antigua: they're excellent and I had a really good experience with them.",
+        es: "Para el volcán Acatenango recomiendo OX Expeditions, en Antigua: son buenísimos y me encontré muy bien con ellos.",
+      },
+    },
+  ],
 }
