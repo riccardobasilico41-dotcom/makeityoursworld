@@ -5,8 +5,7 @@ import type { Destinazione } from '@/lib/types'
 // un giro principale di 11 giorni (Bangkok-Hua Hin-Chumphon-Khao Sok-Krabi-
 // Koh Phi Phi-Bangkok) più zone visitate in viaggi separati (Bangkok più
 // volte, Chiang Mai, Phuket/Similan). Il Golfo di Thailandia (Koh Samui,
-// Koh Phangan, Koh Tao) non è mai stato visitato di persona: il markdown lo
-// tratta in voce guida generica, per questo resta visitataPersonalmente: false.
+// Koh Phangan, Koh Tao) l'ha fatto anche Rick (confermato il 6/11/2026).
 
 export const destinazioniThailandia: Destinazione[] = [
   {
@@ -712,7 +711,7 @@ export const destinazioniThailandia: Destinazione[] = [
     nome: 'Golfo di Thailandia: Koh Samui, Koh Phangan, Koh Tao',
     tipologia: ['isole', 'nightlife'],
     giorniConsigliati: 'secondo quante isole si vogliono combinare',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione: 'Le tre isole del Golfo di Thailandia, con stagioni sfasate rispetto al mare delle Andamane: Koh Samui più comoda, Koh Phangan nota per il Full Moon Party, Koh Tao il paradiso dei sub.',
     percheAndarci: 'Sono un\'alternativa quando sulle Andamane è stagione delle piogge, oppure si va per il Full Moon Party di Koh Phangan.',
     cosaVedere: ['Le spiagge di Koh Samui', 'Thong Nai Pan, il lato tranquillo di Koh Phangan'],

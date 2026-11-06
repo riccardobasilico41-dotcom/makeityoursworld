@@ -546,7 +546,7 @@ export const destinazioniBorneo: Destinazione[] = [
       "Dar por sentada la conexión: aquí no hay, y forma parte del encanto",
     ],
     miaEsperienza:
-      "Todavía no he estado, y por honestidad la ficha se detiene en la información verificable en lugar de contar una jornada inventada. Está en la lista por dos motivos precisos. El primero es que la selva primaria no es un detalle de naturalistas: árboles emergentes de más de ochenta metros y una estructura en estratos completa en el sudeste asiático casi ya no existen, y Danum es uno de los poquísimos lugares donde todavía se ven. El segundo es que es justo lo contrario del Kinabatangan: allí los animales se ven con facilidad porque están aplastados en una franja de verde entre las palmas aceiteras, aquí se ven poco precisamente porque todavía tienen cuarenta y tres mil hectáreas donde estar. Cuesta bastante y hay que contar al menos tres noches: quien va por una pasa el tiempo casi solo en traslados.",
+      "Es una posible extensión del viaje que hice: aquí la ficha se queda en los hechos verificables. Está en la lista por dos motivos precisos. El primero es que la selva primaria no es un detalle de naturalistas: árboles emergentes de más de ochenta metros y una estructura en estratos completa en el sudeste asiático casi ya no existen, y Danum es uno de los poquísimos lugares donde todavía se ven. El segundo es que es justo lo contrario del Kinabatangan: allí los animales se ven con facilidad porque están aplastados en una franja de verde entre las palmas aceiteras, aquí se ven poco precisamente porque todavía tienen cuarenta y tres mil hectáreas donde estar. Cuesta bastante y hay que contar al menos tres noches: quien va por una pasa el tiempo casi solo en traslados.",
     luoghi: [
       {
         nome: "Canopy walkway",
@@ -947,7 +947,7 @@ export const destinazioniBorneo: Destinazione[] = [
       "Contar con la salida de los murciélagos: si llueve no salen, y ocurre a menudo",
     ],
     miaEsperienza:
-      "Todavía no he estado, y la ficha se detiene en los hechos en lugar de contar una jornada que no ha existido. Está en la lista, sin embargo, por un motivo preciso: las dimensiones. La Sarawak Chamber es la cámara subterránea más grande conocida (en las comparaciones que circulan cabrían dentro varios aviones de línea en fila), y la Deer Cave tiene una boca tan amplia que la salida vespertina de los murciélagos parece una columna de humo oscuro que se enrosca sobre la selva. Antes de soñar con ello hay que saber una cosa de logística: a Mulu se llega solo en avión, las camas del parque son pocas y limitan a los visitantes, y por tanto se reserva al revés de lo habitual: primero la cama, luego el vuelo.",
+      "Es una posible extensión del viaje que hice: aquí la ficha se queda en los hechos verificables. Está en la lista, sin embargo, por un motivo preciso: las dimensiones. La Sarawak Chamber es la cámara subterránea más grande conocida (en las comparaciones que circulan cabrían dentro varios aviones de línea en fila), y la Deer Cave tiene una boca tan amplia que la salida vespertina de los murciélagos parece una columna de humo oscuro que se enrosca sobre la selva. Antes de soñar con ello hay que saber una cosa de logística: a Mulu se llega solo en avión, las camas del parque son pocas y limitan a los visitantes, y por tanto se reserva al revés de lo habitual: primero la cama, luego el vuelo.",
     luoghi: [
       {
         nome: "Deer Cave y salida de los murciélagos",

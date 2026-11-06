@@ -546,7 +546,7 @@ export const destinazioniBorneo: Destinazione[] = [
       "Taking a connection for granted: there isn't one here, and it's part of the charm",
     ],
     miaEsperienza:
-      "I haven't been yet, and in all honesty this page sticks to verifiable information instead of recounting an invented day. It's on the list for two precise reasons. The first is that primary forest is not a naturalists' detail: emergent trees over eighty meters and a complete layered structure barely exist anymore in Southeast Asia, and Danum is one of the very few places where you can still see them. The second is that it's the exact opposite of the Kinabatangan: there the animals are easy to see because they're squeezed into a strip of green between oil palms, here you see little precisely because they still have forty-three thousand hectares to live in. It costs a lot and you have to plan at least three nights: anyone going for one spends the time almost entirely in transfers.",
+      "It's a possible extension of the trip I did: this page sticks to verifiable facts. It's on the list for two precise reasons. The first is that primary forest is not a naturalists' detail: emergent trees over eighty meters and a complete layered structure barely exist anymore in Southeast Asia, and Danum is one of the very few places where you can still see them. The second is that it's the exact opposite of the Kinabatangan: there the animals are easy to see because they're squeezed into a strip of green between oil palms, here you see little precisely because they still have forty-three thousand hectares to live in. It costs a lot and you have to plan at least three nights: anyone going for one spends the time almost entirely in transfers.",
     luoghi: [
       {
         nome: "Canopy walkway",
@@ -947,7 +947,7 @@ export const destinazioniBorneo: Destinazione[] = [
       "Counting on the bat exodus: if it rains they don't come out, and it happens often",
     ],
     miaEsperienza:
-      "I haven't been yet, and this page sticks to the facts instead of recounting a day that didn't happen. It is on the list for a precise reason, though: the sheer size. The Sarawak Chamber is the largest known underground chamber (by the comparisons you find around, several airliners side by side would fit inside), and Deer Cave has a mouth so wide that the evening bat exodus looks like a column of dark smoke coiling above the forest. Before dreaming about it you need to know one thing about logistics: Mulu can only be reached by air, beds in the park are few and limit visitors, and so you book the opposite of usual: bed first, then the flight.",
+      "It's a possible extension of the trip I did: this page sticks to verifiable facts. It is on the list for a precise reason, though: the sheer size. The Sarawak Chamber is the largest known underground chamber (by the comparisons you find around, several airliners side by side would fit inside), and Deer Cave has a mouth so wide that the evening bat exodus looks like a column of dark smoke coiling above the forest. Before dreaming about it you need to know one thing about logistics: Mulu can only be reached by air, beds in the park are few and limit visitors, and so you book the opposite of usual: bed first, then the flight.",
     luoghi: [
       {
         nome: "Deer Cave and the bat exodus",

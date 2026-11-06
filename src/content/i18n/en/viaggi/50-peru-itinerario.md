@@ -11,7 +11,7 @@
 ## Apertura personale
 The moment I carry with me from Peru is Machu Picchu at dawn. Getting in among the first, when the citadel is still almost empty, pays you back for the alarm in the dark and the road to get there. I've been to Peru three times, in 2018, 2021 and 2024, and this itinerary lines up what I saw on those trips into a single thirty-one-day loop. **Part 1**, seventeen days, is Andean Peru: Lima, Cusco, the Sacred Valley, Machu Picchu, Titicaca, Arequipa and the Colca. **Part 2**, fourteen days, adds the Amazon and the Cordillera Blanca, two extensions that both start from Lima.
 
-I've also been to Peru twice as a volunteer: in Cusco with Proyecto Cusimaki, a project I support and invite you to visit, and in Arequipa as a volunteer osteopath.
+I've also been to Peru twice as a volunteer: in Cusco with Proyecto Cusimaky, a project I support and invite you to visit, and in Arequipa as a volunteer osteopath.
 
 ## Scheda pratica
 - **When to go:** this itinerary follows the Andean dry season, **May to September**, which covers both Part 1 (Cusco, Sacred Valley, Titicaca, Arequipa) and the Cordillera Blanca in Part 2. Outside this window the high-altitude trails become muddy or impassable, and in February the Inca Trail closes completely for maintenance. The Amazon has no real dry season: the May-October window (low water) only makes the trails more passable and wildlife easier to spot along the rivers.

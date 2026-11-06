@@ -11,7 +11,7 @@ export const peru: Paese = {
   continente: 'Sud America',
   titolo: 'Perù: Machu Picchu, Amazzonia, Titicaca e i trek che pochi fanno',
   descrizione:
-    'Nessun altro paese del Sud America tiene insieme tante cose diverse: la cittadella inca più famosa del mondo e il trek dimenticato di Choquequirao, tre porte d\'ingresso diverse per l\'Amazzonia, il lago navigabile più alto del pianeta con l\'estensione naturale verso la Bolivia, e una delle cucine più premiate al mondo. In Perù sono stato anche due volte come volontario: a Cusco con il Proyecto Cusimaki, che sostengo e invito a visitare, e ad Arequipa come osteopata.',
+    'Nessun altro paese del Sud America tiene insieme tante cose diverse: la cittadella inca più famosa del mondo e il trek dimenticato di Choquequirao, tre porte d\'ingresso diverse per l\'Amazzonia, il lago navigabile più alto del pianeta con l\'estensione naturale verso la Bolivia, e una delle cucine più premiate al mondo. In Perù sono stato anche due volte come volontario: a Cusco con il Proyecto Cusimaky, che sostengo e invito a visitare, e ad Arequipa come osteopata.',
   periodoMigliore:
     'da maggio a settembre, la stagione secca sulle Ande: cieli limpidi su Machu Picchu e sentieri praticabili. In Amazzonia la stagione "secca" è relativa e le piogge non si fermano mai del tutto.',
   durataConsigliata:

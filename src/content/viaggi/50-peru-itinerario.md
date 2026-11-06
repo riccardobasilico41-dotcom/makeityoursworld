@@ -11,7 +11,7 @@
 ## Apertura personale
 Il momento che mi porto dietro dal Perù è Machu Picchu all'alba. Entrare tra i primi, quando la cittadella è ancora quasi vuota, ripaga la sveglia nel buio e la strada per arrivarci. In Perù sono stato tre volte, nel 2018, nel 2021 e nel 2024, e questo itinerario mette in fila in un unico giro di trentun giorni quello che ho visto in quei viaggi. La **Parte 1**, diciassette giorni, è il Perù andino: Lima, Cusco, la Valle Sacra, Machu Picchu, il Titicaca, Arequipa e il Colca. La **Parte 2**, quattordici giorni, aggiunge l'Amazzonia e la Cordillera Blanca, due estensioni che partono entrambe da Lima.
 
-In Perù sono stato anche due volte come volontario: a Cusco con il Proyecto Cusimaki, un progetto che sostengo e che invito a visitare, e ad Arequipa come osteopata volontario.
+In Perù sono stato anche due volte come volontario: a Cusco con il Proyecto Cusimaky, un progetto che sostengo e che invito a visitare, e ad Arequipa come osteopata volontario.
 
 ## Scheda pratica
 - **Quando andare:** questo itinerario segue la stagione secca andina, **da maggio a settembre**, che copre sia la Parte 1 (Cusco, Valle Sacra, Titicaca, Arequipa) sia la Cordillera Blanca della Parte 2. Fuori da questa finestra i sentieri in quota diventano fangosi o impraticabili, e a febbraio il Cammino Inca chiude del tutto per manutenzione. L'Amazzonia non ha una vera stagione secca: la finestra maggio-ottobre (acque basse) rende solo più praticabili i sentieri e più facile avvistare la fauna lungo i fiumi.

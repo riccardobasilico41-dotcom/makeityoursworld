@@ -6,7 +6,7 @@ export const peru: Paese = {
   continente: 'Sud America',
   titolo: 'Peru: Machu Picchu, the Amazon, Titicaca and the Treks Few People Do',
   descrizione:
-    "No other country in South America holds so many different things together: the world's most famous Inca citadel and the forgotten Choquequirao trek, three different doors into the Amazon, the highest navigable lake on the planet with its natural extension into Bolivia, and one of the most awarded cuisines in the world. I've also been to Peru twice as a volunteer: in Cusco with Proyecto Cusimaki, which I support and invite you to visit, and in Arequipa as an osteopath.",
+    "No other country in South America holds so many different things together: the world's most famous Inca citadel and the forgotten Choquequirao trek, three different doors into the Amazon, the highest navigable lake on the planet with its natural extension into Bolivia, and one of the most awarded cuisines in the world. I've also been to Peru twice as a volunteer: in Cusco with Proyecto Cusimaky, which I support and invite you to visit, and in Arequipa as an osteopath.",
   periodoMigliore:
     'May to September, the dry season in the Andes: clear skies over Machu Picchu and passable trails. In the Amazon the "dry" season is relative and the rains never stop completely.',
   durataConsigliata:

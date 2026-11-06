@@ -13,7 +13,7 @@ The moment I carry with me from Peru is Machu Picchu at sunrise. Getting in amon
 
 Compared to the long trip, I reversed the direction. You start in the south and climb one step at a time: first Arequipa at 2,300 meters (about 7,500 ft), then the canyon, then Puno and finally Cusco. Machu Picchu comes at the end, when your body has gotten used to the altitude.
 
-I've also been to Peru twice as a volunteer: in Cusco with Proyecto Cusimaki, a project I support and invite you to visit, and in Arequipa as a volunteer osteopath.
+I've also been to Peru twice as a volunteer: in Cusco with Proyecto Cusimaky, a project I support and invite you to visit, and in Arequipa as a volunteer osteopath.
 
 ## Scheda pratica
 - **When to go:** May to September, the dry season in the Andes. In February the Inca Trail closes for maintenance. On June 24 there's Inti Raymi in Cusco: the city is packed and prices are high, so book well ahead.

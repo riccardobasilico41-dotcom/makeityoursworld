@@ -13,7 +13,7 @@ El momento que me llevo de Perú es Machu Picchu al amanecer. Entrar entre los p
 
 Respecto al viaje largo he invertido el sentido de la marcha. Se sale desde el sur y se sube de altitud un escalón cada vez: primero Arequipa a 2.300 metros, luego el cañón, luego Puno y por fin Cusco. Machu Picchu llega al final, cuando el cuerpo ya se ha acostumbrado a la altitud.
 
-También estuve en Perú dos veces como voluntario: en Cusco con el Proyecto Cusimaki, un proyecto que apoyo y que invito a visitar, y en Arequipa como osteópata voluntario.
+También estuve en Perú dos veces como voluntario: en Cusco con el Proyecto Cusimaky, un proyecto que apoyo y que invito a visitar, y en Arequipa como osteópata voluntario.
 
 ## Scheda pratica
 - **Cuándo ir:** de mayo a septiembre, la estación seca de los Andes. En febrero el Camino Inca cierra por mantenimiento. El 24 de junio es el Inti Raymi en Cusco: ciudad llena y precios altos, hay que reservar con mucha antelación.

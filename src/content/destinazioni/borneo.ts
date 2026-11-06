@@ -550,7 +550,7 @@ export const destinazioniBorneo: Destinazione[] = [
       'Dare per scontata la connessione: qui non c\'è, e fa parte del fascino',
     ],
     miaEsperienza:
-      'Non ci sono ancora stato, e per onestà la scheda si ferma alle informazioni verificabili invece di raccontare una giornata inventata. È in lista per due motivi precisi. Il primo è che la foresta primaria non è un dettaglio da naturalisti: alberi emergenti oltre gli ottanta metri e una struttura a strati completa nel sud-est asiatico non esistono quasi più, e la Danum è uno dei pochissimi posti dove si vedono ancora. Il secondo è che è l\'esatto rovescio del Kinabatangan: là gli animali si vedono facilmente perché sono schiacciati in una striscia di verde tra le palme da olio, qui si vedono poco proprio perché hanno ancora quarantatremila ettari in cui stare. Costa parecchio e bisogna mettere in conto almeno tre notti: chi ci va per una passa il tempo quasi solo nei trasferimenti.',
+      'È un\'estensione possibile del viaggio che ho fatto io: qui la scheda si ferma ai fatti verificabili. È in lista per due motivi precisi. Il primo è che la foresta primaria non è un dettaglio da naturalisti: alberi emergenti oltre gli ottanta metri e una struttura a strati completa nel sud-est asiatico non esistono quasi più, e la Danum è uno dei pochissimi posti dove si vedono ancora. Il secondo è che è l\'esatto rovescio del Kinabatangan: là gli animali si vedono facilmente perché sono schiacciati in una striscia di verde tra le palme da olio, qui si vedono poco proprio perché hanno ancora quarantatremila ettari in cui stare. Costa parecchio e bisogna mettere in conto almeno tre notti: chi ci va per una passa il tempo quasi solo nei trasferimenti.',
     luoghi: [
       {
         nome: "Canopy walkway",
@@ -952,7 +952,7 @@ export const destinazioniBorneo: Destinazione[] = [
       'Contare sull\'uscita dei pipistrelli: se piove non escono, e succede spesso',
     ],
     miaEsperienza:
-      'Non ci sono ancora stato, e la scheda si ferma ai fatti invece di raccontare una giornata che non c\'è stata. È però in lista per un motivo preciso: le dimensioni. La Sarawak Chamber è la camera sotterranea più grande conosciuta (nei paragoni che si trovano in giro ci starebbero dentro diversi aerei di linea affiancati), e la Deer Cave ha un\'imboccatura così ampia che l\'uscita serale dei pipistrelli sembra una colonna di fumo scuro che si arrotola sopra la foresta. Prima di sognarci sopra bisogna sapere una cosa di logistica: al Mulu si arriva solo in aereo, i posti letto nel parco sono pochi e limitano i visitatori, e quindi si prenota al contrario del solito: prima il letto, poi il volo.',
+      'È un\'estensione possibile del viaggio che ho fatto io: qui la scheda si ferma ai fatti verificabili. È però in lista per un motivo preciso: le dimensioni. La Sarawak Chamber è la camera sotterranea più grande conosciuta (nei paragoni che si trovano in giro ci starebbero dentro diversi aerei di linea affiancati), e la Deer Cave ha un\'imboccatura così ampia che l\'uscita serale dei pipistrelli sembra una colonna di fumo scuro che si arrotola sopra la foresta. Prima di sognarci sopra bisogna sapere una cosa di logistica: al Mulu si arriva solo in aereo, i posti letto nel parco sono pochi e limitano i visitatori, e quindi si prenota al contrario del solito: prima il letto, poi il volo.',
     luoghi: [
       {
         nome: "Deer Cave e uscita dei pipistrelli",
