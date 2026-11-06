@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useState } from 'react'
+import { useEffect, useState, useSyncExternalStore } from 'react'
 import { Marchio } from '@/components/Marchio'
 
 /*
@@ -36,19 +36,24 @@ function daSaltare() {
   }
 }
 
+const nessunaIscrizione = () => () => {}
+
 export function IntroFiligrane({ immagini, variante = 'colore' }: { immagini: string[]; variante?: 'colore' | 'bn' }) {
   const [stato, setStato] = useState<'visibile' | 'esce' | 'nascosta'>('visibile')
-  const [scelta, setScelta] = useState(variante)
+  // variante forzata con ?intro=colore|bn: letta dall'URL nel browser (sul server e nell'idratazione vale la prop)
+  const forzataUrl = useSyncExternalStore(nessunaIscrizione, () => daSaltare().variante, () => null)
+  const scelta = forzataUrl ?? variante
   // disposizione iniziale fissa (uguale su server e browser), poi cambia a caso
   const [celle, setCelle] = useState(() => Array.from({ length: CELLE }, (_, k) => (k * 7) % immagini.length))
 
   useEffect(() => {
-    const { salta, variante: forzata } = daSaltare()
+    const { salta } = daSaltare()
     if (salta) {
-      setStato('nascosta')
-      return
+      // lo script in linea l'ha già nascosta prima del primo disegno: qui si toglie solo dal DOM,
+      // in un callback (niente setState sincrono nell'effetto, regola react-hooks/set-state-in-effect)
+      const via = setTimeout(() => setStato('nascosta'), 0)
+      return () => clearTimeout(via)
     }
-    if (forzata) setScelta(forzata)
     try {
       sessionStorage.setItem('intro-vista', '1')
     } catch {}

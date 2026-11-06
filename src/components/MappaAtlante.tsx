@@ -1,7 +1,7 @@
 'use client'
 
 import Link from '@/components/ui/Link'
-import { useCallback, useEffect, useId, useMemo, useRef, useState, type KeyboardEvent } from 'react'
+import { useCallback, useEffect, useId, useMemo, useRef, useState, useSyncExternalStore, type KeyboardEvent } from 'react'
 import { ArrowRight } from 'lucide-react'
 import { useLingua } from '@/lib/i18n/LinguaProvider'
 import type { Lingua } from '@/lib/i18n/config'
@@ -73,6 +73,7 @@ const T = {
     tornaMappa: 'Torna a tutta la mappa',
     sullaMappa: (nome: string) => `${nome} sulla mappa`,
     tocca: 'La linea tratteggiata segue le tappe del viaggio, nell’ordine. Tocca un punto per avvicinarti e aprire la scheda; i cerchi scuri con un numero raccolgono luoghi vicini.',
+    toccaSenzaLinea: 'Tocca un punto per avvicinarti e aprire la scheda; i cerchi scuri con un numero raccolgono luoghi vicini.',
     altri: (n: number) => (n === 1 ? 'E un altro punto sulla mappa.' : `E altri ${n} punti sulla mappa.`),
     kmScala: 'km',
   },
@@ -101,6 +102,7 @@ const T = {
     tornaMappa: 'Back to the full map',
     sullaMappa: (nome: string) => `${nome} on the map`,
     tocca: 'The dashed line follows the trip stops in order. Tap a point to zoom in and open its page; dark circles with a number gather places close together.',
+    toccaSenzaLinea: 'Tap a point to zoom in and open its page; dark circles with a number gather places close together.',
     altri: (n: number) => (n === 1 ? 'And one more point on the map.' : `And ${n} more points on the map.`),
     kmScala: 'km',
   },
@@ -129,6 +131,7 @@ const T = {
     tornaMappa: 'Volver a todo el mapa',
     sullaMappa: (nome: string) => `${nome} en el mapa`,
     tocca: 'La línea discontinua sigue las etapas del viaje, en orden. Toca un punto para acercarte y abrir su ficha; los círculos oscuros con un número reúnen lugares cercanos.',
+    toccaSenzaLinea: 'Toca un punto para acercarte y abrir su ficha; los círculos oscuros con un número reúnen lugares cercanos.',
     altri: (n: number) => (n === 1 ? 'Y un punto más en el mapa.' : `Y ${n} puntos más en el mapa.`),
     kmScala: 'km',
   },
@@ -166,6 +169,12 @@ const velatura = (i: number) => VELATURE[((i % VELATURE.length) + VELATURE.lengt
 const TINTA_PIATTA = '#d3ddb4' // pianura, per i Paesi senza rilievo
 const DX = 16 // distanza dell'etichetta dal centro del pin, px
 const R_GRUPPO = 38 // sotto questa distanza (px) i luoghi si raggruppano
+
+const nessunaIscrizione = () => () => {}
+/** il percorso si «disegna» solo con IntersectionObserver e senza movimento ridotto */
+function percorsoAnimabile() {
+  return 'IntersectionObserver' in window && !window.matchMedia('(prefers-reduced-motion: reduce)').matches
+}
 
 /** Unità di posizione: punti nello stesso posto (esperienza = sua destinazione) stanno insieme. */
 type Luogo = { x: number; y: number; punti: PuntoMappa[]; prio: number }
@@ -212,7 +221,11 @@ export function MappaAtlante({
   /** unità mappa per pixel schermo della vista (di arrivo): decide i raggruppamenti */
   const [kVista, setKVista] = useState<number | null>(null)
   /** percorso: 'ssr' = già disegnato (niente JS / movimento ridotto), poi 'attesa' → 'visto' */
-  const [fase, setFase] = useState<'ssr' | 'attesa' | 'visto'>('ssr')
+  const [visto, setVisto] = useState(false)
+  // sul server e nell'idratazione è sempre false (percorso già disegnato), poi nel browser vale
+  // true se il percorso si può animare: la fase «attesa» si ricava, non si imposta in un effetto
+  const animabile = useSyncExternalStore(nessunaIscrizione, percorsoAnimabile, () => false)
+  const fase: 'ssr' | 'attesa' | 'visto' = visto ? 'visto' : animabile ? 'attesa' : 'ssr'
   /** il rilievo dettagliato si carica solo dopo il primo zoom */
   const [dettaglio, setDettaglio] = useState(false)
 
@@ -403,9 +416,9 @@ export function MappaAtlante({
     }
   }, [proiezione, t.kmScala])
 
-  useEffect(() => {
-    if (kVista !== null && kVista < 0.75 * (mappa.w / 1000)) setDettaglio(true)
-  }, [kVista, mappa.w])
+  // da vicino passa al rilievo in alta definizione e ci resta: stato aggiornato durante il render
+  // (schema «adjusting state when a prop changes»), invece che in un effetto
+  if (!dettaglio && kVista !== null && kVista < 0.75 * (mappa.w / 1000)) setDettaglio(true)
 
   const kDi = useCallback((vb: VB) => {
     const r = svgRef.current?.getBoundingClientRect()
@@ -517,14 +530,12 @@ export function MappaAtlante({
   // il percorso si disegna quando la mappa entra in vista (non con il movimento ridotto)
   useEffect(() => {
     const box = boxRef.current
-    if (!box || window.matchMedia('(prefers-reduced-motion: reduce)').matches) return
-    if (!('IntersectionObserver' in window)) return
-    setFase('attesa')
+    if (!box || !percorsoAnimabile()) return
     const io = new IntersectionObserver(
       (voci) => {
         if (voci.some((v) => v.isIntersecting)) {
           // un frame dopo, così la transizione parte da «nascosto»
-          requestAnimationFrame(() => setFase('visto'))
+          requestAnimationFrame(() => setVisto(true))
           io.disconnect()
         }
       },
@@ -996,12 +1007,15 @@ export function MappaAtlante({
               </span>
               {t.tappa}
             </li>
-            <li className="inline-flex items-center gap-1.5">
-              <svg width="28" height="8" aria-hidden>
-                <path d="M1 4H27" stroke="var(--color-rosso)" strokeWidth="2.2" strokeDasharray="6 4" strokeLinecap="round" />
-              </svg>
-              {t.percorso}
-            </li>
+            {/* la voce «percorso» solo se la linea c'è (viaggi con una sola tappa: niente linea) */}
+            {percorso && (
+              <li className="inline-flex items-center gap-1.5">
+                <svg width="28" height="8" aria-hidden>
+                  <path d="M1 4H27" stroke="var(--color-rosso)" strokeWidth="2.2" strokeDasharray="6 4" strokeLinecap="round" />
+                </svg>
+                {t.percorso}
+              </li>
+            )}
             {nD > tappe.length && (
               <li className="inline-flex items-center gap-1.5">
                 <span className="inline-block size-3 rounded-full border-2 border-rosso bg-cream" aria-hidden />
@@ -1075,7 +1089,7 @@ export function MappaAtlante({
           ) : (
             <div>
               <p className="text-xs font-semibold uppercase tracking-[0.18em] text-rosso">{t.sullaMappa(nomePaese)}</p>
-              <p className="mt-3 text-base leading-relaxed text-stone">{t.tocca}</p>
+              <p className="mt-3 text-base leading-relaxed text-stone">{percorso ? t.tocca : t.toccaSenzaLinea}</p>
               {conElenco && (<>
               <ul className="mt-6 divide-y divide-alpine/10 border-y border-alpine/10">
                 {elenco

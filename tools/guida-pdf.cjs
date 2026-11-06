@@ -27,15 +27,19 @@ if (!slug || !nome) {
   const tmp = fs.mkdtempSync(path.join(os.tmpdir(), `guida-${slug}-`))
   const browser = await chromium.launch({ executablePath: CHROME })
   const page = await browser.newPage()
+  // niente apertura a filigrane (montata nel layout): resta nascosta e non finisce nel PDF
+  await page.addInitScript(() => { try { sessionStorage.setItem('intro-vista', '1') } catch {} })
   const parti = []
   for (const parte of ['copertina', 'interno']) {
-    await page.goto(`http://localhost:${porta}/it/guide/${slug}/stampa?parte=${parte}`, { waitUntil: 'load', timeout: 600000 })
+    await page.goto(`http://localhost:${porta}/it/guide/${slug}/stampa?parte=${parte}`, { waitUntil: 'load', timeout: 2400000 })
     await page.evaluate(async () => {
       await document.fonts.ready
-      await Promise.all([...document.images].map((i) => (i.complete ? null : new Promise((r) => { i.onload = i.onerror = r }))))
+      // solo le immagini della guida: le miniature lazy dell'apertura nascosta non si caricano mai e bloccherebbero l'attesa
+      const daAspettare = [...document.images].filter((i) => !i.closest('#intro-filigrane'))
+      await Promise.all(daAspettare.map((i) => (i.complete ? null : new Promise((r) => { i.onload = i.onerror = r }))))
     })
     const file = path.join(tmp, `${parte}.pdf`)
-    await page.pdf({ path: file, preferCSSPageSize: true, printBackground: true, timeout: 600000 })
+    await page.pdf({ path: file, preferCSSPageSize: true, printBackground: true, timeout: 2400000 })
     parti.push(file)
   }
   await browser.close()

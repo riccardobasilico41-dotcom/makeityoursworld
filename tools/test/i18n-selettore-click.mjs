@@ -29,7 +29,7 @@ const CASI = [
   ['/it/destinazioni/italia/dolomiti', 'en', '/destinations/italy/dolomites'],
   ['/es/experiencias/italia/alta-via-1-dolomitas', 'it', '/it/esperienze/italia/alta-via-1'],
   ['/wonders', 'it', '/it/meraviglie'],
-  ['/regions', 'es', '/es/regiones'],
+  ['/regions/asia', 'es', '/es/regiones/asia'], // /regions non ha una pagina indice (404 voluto): si prova un'area
   ['/about', 'it', '/it/chi-sono'],
   ['/it/privacy', 'es', '/es/privacidad'],
   ['/es/cookies', 'en', '/cookies'],

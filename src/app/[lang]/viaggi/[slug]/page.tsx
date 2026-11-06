@@ -8,7 +8,7 @@ import { OrganizzaViaggio } from '@/components/OrganizzaViaggio'
 import { notFound } from 'next/navigation'
 import { listaPerViaggio, copertina as copertinaViaggio, editoriale } from '@/lib/i18n/contenuti'
 import { linguaCorrente } from '@/lib/i18n/server'
-import { LOCALE, type Lingua } from '@/lib/i18n/config'
+import { type Lingua } from '@/lib/i18n/config'
 import { etichetta } from '@/lib/i18n/etichette'
 
 /** Vecchi indirizzi con «-360» (titoli rinominati il 30/10/2026): redirect permanente al nuovo. */
@@ -74,8 +74,7 @@ const T = {
     diLettura: 'di lettura',
     periodo: 'Periodo: ',
     durata: 'Durata: ',
-    effettuato: (p: string) => `Viaggio effettuato nel periodo: ${p} · `,
-    aggiornata: 'Pagina aggiornata il',
+    effettuato: (p: string) => `Viaggio effettuato nel periodo: ${p}.`,
     verifica: 'Prezzi, orari, documenti e traghetti vanno sempre verificati prima della partenza.',
     laRotta: 'La rotta',
     rottaLead: "Le tappe dell'itinerario, nell'ordine in cui si visitano.",
@@ -116,8 +115,7 @@ const T = {
     diLettura: 'read',
     periodo: 'Period: ',
     durata: 'Length: ',
-    effettuato: (p: string) => `Trip taken in: ${p} · `,
-    aggiornata: 'Page updated on',
+    effettuato: (p: string) => `Trip taken in: ${p}.`,
     verifica: 'Prices, opening hours, documents and ferries should always be checked before departure.',
     laRotta: 'The route',
     rottaLead: 'The stops of the itinerary, in the order they are visited.',
@@ -158,8 +156,7 @@ const T = {
     diLettura: 'de lectura',
     periodo: 'Periodo: ',
     durata: 'Duración: ',
-    effettuato: (p: string) => `Viaje realizado en el periodo: ${p} · `,
-    aggiornata: 'Página actualizada el',
+    effettuato: (p: string) => `Viaje realizado en el periodo: ${p}.`,
     verifica: 'Los precios, horarios, documentos y ferris deben comprobarse siempre antes de salir.',
     laRotta: 'La ruta',
     rottaLead: 'Las paradas del itinerario, en el orden en que se visitan.',
@@ -492,9 +489,12 @@ function SignatureViaggioContent({
             )}
 
             <p className="text-xs leading-relaxed text-stone/85">
-              {viaggio.periodo ? t.effettuato(viaggio.periodo) : ''}{t.aggiornata}{' '}
-              {new Date().toLocaleDateString(LOCALE[lingua].html, { year: 'numeric', month: 'long', day: 'numeric' })}.
-              <br />
+              {viaggio.periodo && (
+                <>
+                  {t.effettuato(viaggio.periodo)}
+                  <br />
+                </>
+              )}
               {t.verifica}
             </p>
             {meta.tappeMappa.length > 0 && (
