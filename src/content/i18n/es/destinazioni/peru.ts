@@ -40,7 +40,7 @@ export const destinazioniPeru: Destinazione[] = [
       "Subir a Rainbow Mountain los primeros días, cuando el organismo todavía no ha reaccionado a la altitud",
     ],
     miaEsperienza:
-      "El primer día aquí es un día perdido, y hay que asumirlo: aterrizamos a 3.400 metros y solo caminamos despacio entre la Plaza de Armas y San Blas, con el té de coca en la mano como hace todo el mundo. Es lo que hace falta, y el resto del viaje sale ganando. El segundo día Qorikancha y Sacsayhuamán, la mejor manera de entender de antemano lo que se verá en Machu Picchu, y la comida en el mercado de San Pedro entre zumos en el mostrador y sopas por pocos soles. Para los souvenirs, en Cusco yo voy a Assunta. Desde aquí hice tanto Rainbow Mountain como la laguna Humantay, más otra montaña de colores y un par de lagunas cuyo nombre no recuerdo.",
+      "El primer día aquí es un día perdido, y hay que asumirlo: aterrizamos a 3.400 metros y solo caminamos despacio entre la Plaza de Armas y San Blas, con el té de coca en la mano como hace todo el mundo. Es lo que hace falta, y el resto del viaje sale ganando. El segundo día Qorikancha y Sacsayhuamán, la mejor manera de entender de antemano lo que se verá en Machu Picchu, y la comida en el mercado de San Pedro entre zumos en el mostrador y sopas por pocos soles. Para los souvenirs, en Cusco yo voy a Assunta. Desde aquí hice tanto Rainbow Mountain como la laguna Humantay, más otra montaña de colores y un par de lagunas cuyo nombre no recuerdo. También estuve en Perú dos veces como voluntario, y una de ellas fue aquí en Cusco, con el Proyecto Cusimaki: es un proyecto que apoyo, e invito a quien pase por Cusco a visitarlo.",
     luoghi: [
       {
         "nome": "Plaza de Armas y Catedral",
@@ -1339,7 +1339,7 @@ export const destinazioniPeru: Destinazione[] = [
       "Subestimar la subida desde el oasis de Sangalle: unos 1.100 metros de desnivel, para hacer antes de que el sol apriete",
     ],
     miaEsperienza:
-      "Es la ciudad donde por fin dormí bien: a 2.300 metros el cuerpo se recupera, y después de días pasados en altura se nota. El Monasterio de Santa Catalina es el lugar que más se me quedó grabado. No esperaba que fuera tan grande: es una pequeña ciudad amurallada con los callejones pintados de azul y naranja. A la Cruz del Cóndor, en cambio, hay que llegar con las expectativas adecuadas: los cóndores se alzan con las corrientes de la mañana y cuando ocurre es impresionante, pero no está garantizado y la explanada está llena de gente. Merece de todos modos el despertador al amanecer.",
+      "Es la ciudad donde por fin dormí bien: a 2.300 metros el cuerpo se recupera, y después de días pasados en altura se nota. El Monasterio de Santa Catalina es el lugar que más se me quedó grabado. No esperaba que fuera tan grande: es una pequeña ciudad amurallada con los callejones pintados de azul y naranja. A la Cruz del Cóndor, en cambio, hay que llegar con las expectativas adecuadas: los cóndores se alzan con las corrientes de la mañana y cuando ocurre es impresionante, pero no está garantizado y la explanada está llena de gente. Merece de todos modos el despertador al amanecer. En Arequipa también estuve como osteópata voluntario, en una de las dos veces que vine a Perú a hacer voluntariado.",
     luoghi: [
       {
         "nome": "Plaza de Armas y catedral de Arequipa",

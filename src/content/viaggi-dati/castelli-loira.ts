@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const castelliLoiraMeta: TripMeta = {
   tripSlug: 'castelli-loira',
   paeseSlug: 'francia',
+  provenienza: 'journey',
+  mesiConsigliati: [4, 5, 6, 9, 10],
   ritmo: 'Un castello al giorno, con una giornata intera lasciata alla bicicletta lungo il fiume',
   trasporti: 'Auto più una giornata a noleggio bici',
   stile: [

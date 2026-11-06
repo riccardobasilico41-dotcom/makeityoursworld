@@ -12,6 +12,7 @@ import type { TripMeta } from '@/lib/types'
 export const baliNusaKomodoMeta: TripMeta = {
   tripSlug: 'bali-nusa-komodo',
   paeseSlug: 'indonesia',
+  mesiConsigliati: [4, 5, 6, 7, 8, 9, 10],
   ritmo:
     'Tranquillo a Ubud, con sveglie presto sulle Nusa e a Komodo per arrivare ai panorami prima della folla; tre giorni in barca nel parco e un giorno di margine a Labuan Bajo prima del volo per Bali',
   trasporti:

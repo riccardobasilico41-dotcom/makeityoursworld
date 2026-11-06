@@ -1,7 +1,7 @@
 # Andalucía en 9 días: Sevilla, Córdoba, Granada y Ronda
 
 **Stato bozza:** 🟡 en elaboración (viaje hecho por Rick; itinerario e información práctica verificados)
-**Periodo del viaggio:** **marzo-mayo o septiembre-principios de noviembre**
+**Periodo del viaggio:**
 **Durata:** 9 días, 8 noches
 **Compagni di viaggio:** con amigos, por libre, tren AVE entre las ciudades grandes, coche de alquiler desde Granada
 **Categoria:** Europa · Spagna · Andalusia · cultura moresca · flamenco · città

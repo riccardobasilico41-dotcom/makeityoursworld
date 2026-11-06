@@ -10,6 +10,8 @@ import type { TripMeta } from '@/lib/types'
 export const budapestWeekendMeta: TripMeta = {
   tripSlug: 'budapest-weekend',
   paeseSlug: 'ungheria',
+  provenienza: 'journey',
+  mesiConsigliati: [4, 5, 9, 10],
   ritmo: 'Tre-quattro giorni di calendario, il lato Buda e il lato Pest divisi dal Danubio, con una giornata isolata dedicata alle terme',
   trasporti: 'Centro di Pest e colle di Buda a piedi, metro/tram/bus BKK per il resto; nessuna auto necessaria',
   stile: [
@@ -32,7 +34,6 @@ export const budapestWeekendMeta: TripMeta = {
     'Promoter di strada che invitano a bar dai conti gonfiati a dismisura, soprattutto nel quartiere ebraico e intorno alle piazze turistiche',
     'Cambiavalute con tassi poco trasparenti intorno a Váci utca',
     'Il tour guidato del Parlamento ha ingressi contingentati e si esaurisce spesso con giorni di anticipo in alta stagione',
-    'Nessuna parte di questo itinerario nasce da un soggiorno reale: è una scheda di ricerca, non un diario',
   ],
   budgetTotale: undefined,
   viaggioInBreve: {

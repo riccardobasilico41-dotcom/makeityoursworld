@@ -1,7 +1,7 @@
 # Canarias en 9 días: Tenerife, Gran Canaria y Lanzarote
 
 **Stato bozza:** 🟡 en elaboración (viaje hecho por Rick; itinerario e información práctica verificados)
-**Periodo del viaggio:** **todo el año**, clima suave constante
+**Periodo del viaggio:**
 **Durata:** 9 días, 8 noches
 **Compagni di viaggio:** con amigos, por libre, vuelos interiores entre las islas, coche de alquiler en cada isla
 **Categoria:** Europa · Spagna · Canarie · vulcani · natura · isole

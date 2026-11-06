@@ -1,7 +1,7 @@
 # Il Golfo in stopover: Dubai, Abu Dhabi, Doha e Jeddah, a pezzi o tutto insieme
 
 **Stato bozza:** 🟡 in lavorazione (informazioni sui programmi stopover verificate e aggiornate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare — mancano date esatte, nomi degli alloggi e prezzi effettivamente pagati)
-**Periodo del viaggio:** da novembre a marzo [anno da confermare] — nel Golfo è l'unica finestra in cui si sta all'aperto
+**Periodo del viaggio:**
 **Durata:** 7 giorni se fatto tutto di seguito; ogni blocco è pensato per funzionare da solo in 24-48 ore
 **Compagni di viaggio:** con amici, in autonomia, usando i programmi stopover delle compagnie del Golfo
 **Categoria:** Medio Oriente · Emirati Arabi Uniti · Qatar · Arabia Saudita · stopover · architettura · deserto

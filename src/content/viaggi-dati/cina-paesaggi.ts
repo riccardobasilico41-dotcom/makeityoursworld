@@ -10,6 +10,8 @@ import type { TripMeta } from '@/lib/types'
 export const cinaPaesaggiMeta: TripMeta = {
   tripSlug: 'cina-paesaggi',
   paeseSlug: 'cina',
+  provenienza: 'journey',
+  mesiConsigliati: [4, 5, 9, 10],
   ritmo: 'Impegnativo: diciotto giorni tra parchi, quota e due giorni di trek, con tre voli interni a ricucire le distanze',
   trasporti: 'Alta velocità nell\'Hunan, tre voli interni (Zhangjiajie-Chengdu, Chengdu-Lijiang, Lijiang-Guilin), autista o bus per i parchi, due giorni a piedi lungo la Gola del Salto della Tigre',
   stile: ['paesaggi', 'trekking', 'montagna'],

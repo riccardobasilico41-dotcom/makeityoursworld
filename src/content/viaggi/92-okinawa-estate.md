@@ -1,7 +1,7 @@
 # Okinawa d'estate in due settimane: Naha, Churaumi, le Kerama, Miyako e le isole Yaeyama
 
-**Stato bozza:** 🟡 in lavorazione (itinerario-guida costruito con ricerca su fonti ufficiali, verificato a novembre 2026; nessun ricordo personale nel testo)
-**Periodo del viaggio:** pensato per fine giugno-metà luglio, dopo la stagione delle piogge e prima del picco dei tifoni; funziona anche a fine settembre-ottobre
+**Stato bozza:** 🟡 in lavorazione (luoghi visitati da Rick, rimessi in fila in un percorso pratico; informazioni pratiche verificate a ottobre-novembre 2026 e da ricontrollare prima di partire; ricordi in prima persona solo quelli dati da Rick, nessuno inventato)
+**Periodo del viaggio:**
 **Durata:** 13 giorni, 12 notti, con varianti da 10 e da 14 giorni
 **Compagni di viaggio:** in autonomia, con auto a noleggio sull'isola principale, traghetti per le Kerama e le Yaeyama, voli interni Naha-Miyako-Ishigaki
 **Categoria:** Asia · Giappone · Okinawa · mare · snorkeling · isole · cultura ryukyu
@@ -12,6 +12,8 @@
 Okinawa è il Giappone che non ci si aspetta. Mare tropicale, barriera corallina, mangrovie, e una cultura che per secoli è stata quella di un regno a sé, il regno delle Ryukyu, con una lingua, una cucina e una musica proprie.
 
 Questo viaggio è costruito per l'estate, quando il mare è al suo meglio. Comincia sull'isola principale, tra Naha, l'acquario di Churaumi e la foresta di Yanbaru. Poi due notti alle Kerama, a un'ora di barca da Naha. Poi Miyako, con le spiagge più bianche dell'arcipelago, e infine Ishigaki con le isole Yaeyama: la giungla di Iriomote e il villaggio di Taketomi.
+
+Come tutti i viaggi del sito, nasce da luoghi che ho visitato personalmente e da esperienze che ho vissuto davvero, messi in fila in un percorso pratico.
 
 ## Scheda pratica
 - **Quando andare:** la stagione delle piogge a Okinawa comincia in media intorno al 10 maggio e finisce intorno al 21 giugno (media 1991-2020 della JMA). Nel 2026 è andata dal 4 maggio circa al 29 giugno. Le settimane subito dopo, fine giugno-metà luglio, sono di solito le più stabili. Poi arrivano i tifoni: in media 1,5 si avvicinano a Okinawa e Amami a luglio, 2,3 ad agosto, 2,0 a settembre, 1,1 a ottobre. Ad agosto e settembre il viaggio si fa, ma con giorni di margine.
@@ -107,7 +109,7 @@ Itinerario costruito con ricerca documentale, aggiornato a novembre 2026. Nessun
 
 **Tolto perché non confermato:** distanza Ishigaki-Tokyo, tempi di volo Naha-Miyako e Miyako-Ishigaki, divieto di balneazione a Kabira, tempi e prezzi dei traghetti per Iriomote e Taketomi. **Ancora generico, senza fonte puntuale:** stagione della medusa habu, tartarughe di Ama beach, il nome 17END, permesso internazionale per guidare.
 
-**Note di redazione:** niente foto. Da chiedere a Rick se è stato a Okinawa.
+**Note di redazione:** niente foto. Viaggio di Rick (conferma del 6/11/2026): ricordi in prima persona solo se li dà lui.
 
 ## Tag
 `#giappone` `#okinawa` `#mare` `#snorkeling` `#kerama` `#zamami` `#miyako` `#ishigaki` `#iriomote` `#taketomi` `#ryukyu` `#estate` `#asia`

@@ -1642,7 +1642,7 @@ export const destinazioniItalia: Destinazione[] = [
     periodoMigliore:
       "April-June and September-October. Winter is cold and foggy but the city works; summer is muggy and in August Milan empties, with many places closed. During the Salone del Mobile (April) and fashion weeks, lodging prices triple and finding a place is hard.",
     costi:
-      "For lodging it's the most expensive city in Italy. The Duomo and terraces have a combined ticket; the Last Supper costs little, the problem is finding a spot.",
+      "For lodging it's the most expensive city in Italy. The Duomo and terraces have a combined ticket; the Last Supper costs 15 euros full price (official website, 2026), the problem is finding a spot.",
     erroriDaEvitare: [
       "Trying to see the Last Supper without a reservation: **you can't get in**, booking windows open quarterly and sell out in no time. It's the most common mistake of visitors to Milan",
       "Driving into the center without knowing about Area B and Area C",

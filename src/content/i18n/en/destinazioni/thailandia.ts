@@ -782,7 +782,7 @@ export const destinazioniThailandia: Destinazione[] = [
     nome: 'Chiang Rai',
     tipologia: ['cultura', 'templi', 'arte'],
     giorniConsigliati: '2 days, plus one for the Golden Triangle',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione: "Thailand's northernmost major city, known for three artists' landmarks: the White Temple, the Blue Temple and the Black House.",
     percheAndarci: "It's the base for the Golden Triangle, and its modern temples look like nothing else in the country.",
     cosaVedere: [
@@ -849,7 +849,7 @@ export const destinazioniThailandia: Destinazione[] = [
     nome: 'Golden Triangle: Sop Ruak and Chiang Saen',
     tipologia: ['cultura', 'storia', 'fiume'],
     giorniConsigliati: '1 day, from Chiang Rai',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione: 'The point where the Ruak river flows into the Mekong, on the border between Thailand, Laos and Myanmar: since the 1950s one of the world\'s major opium-producing areas.',
     percheAndarci: 'For the history more than the scenery: the Hall of Opium tells it well, and Chiang Saen adds the ruins of an ancient town on the Mekong.',
     cosaVedere: [
@@ -908,7 +908,7 @@ export const destinazioniThailandia: Destinazione[] = [
     nome: 'Pai and the Mae Hong Son loop',
     tipologia: ['montagna', 'natura', 'strada'],
     giorniConsigliati: '2 days in Pai; 4-5 for the full loop',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione: 'A village in a green valley northwest of Chiang Mai, on the mountain road that leads to Mae Hong Son and the Myanmar border.',
     percheAndarci: 'For a few slow days among canyons, rice fields and hot springs, and for those who want to carry on along the mountain roads of the northwest.',
     cosaVedere: [

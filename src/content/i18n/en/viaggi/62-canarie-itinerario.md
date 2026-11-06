@@ -1,7 +1,7 @@
 # Canary Islands in 9 Days: Tenerife, Gran Canaria and Lanzarote
 
 **Stato bozza:** 🟡 in progress (trip taken by Rick; itinerary and practical information verified)
-**Periodo del viaggio:** **year-round**, constant mild climate
+**Periodo del viaggio:**
 **Durata:** 9 days, 8 nights
 **Compagni di viaggio:** with friends, independently, domestic flights between the islands, rental car on each island
 **Categoria:** Europa · Spagna · Canarie · vulcani · natura · isole

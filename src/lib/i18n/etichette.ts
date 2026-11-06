@@ -7,8 +7,12 @@ import { ETICHETTE } from './etichette-dati'
  */
 export function etichetta(it: string, lingua: Lingua): string {
   if (lingua === 'it') return it
-  return ETICHETTE[it]?.[lingua] ?? ETICHETTE[it.toLowerCase()]?.[lingua] ?? it
+  const t = ETICHETTE[it] ?? ETICHETTE[it.toLowerCase()] ?? MINUSCOLE.get(it.trim().toLowerCase())
+  return t?.[lingua] ?? it
 }
+
+/** Indice senza maiuscole: «medio oriente» trova «Medio Oriente» (prima restava in italiano). */
+const MINUSCOLE = new Map(Object.entries(ETICHETTE).map(([k, v]) => [k.toLowerCase(), v]))
 
 export const etichette = (voci: string[], lingua: Lingua) => voci.map((v) => etichetta(v, lingua))
 

@@ -1,7 +1,7 @@
 # Por las rutas de los grandes vinos: Langhe, Valpolicella y Toscana en 10 días
 
 **Stato bozza:** 🟡 en elaboración
-**Periodo del viaggio:** **septiembre-octubre, en vendimia**
+**Periodo del viaggio:**
 **Durata:** 10 días, 9 noches
 **Compagni di viaggio:** con amigos, por libre, con coche de alquiler y bodegas reservadas
 **Categoria:** Europa · Italia · vino · enogastronomia · paesaggi

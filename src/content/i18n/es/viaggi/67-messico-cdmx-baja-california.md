@@ -1,7 +1,7 @@
 # Ciudad de México y Baja California Sur: de la capital al mar de las ballenas en 16 días
 
 **Stato bozza:** 🟡 en preparación (viaje hecho por Rick; itinerario e información práctica verificados)
-**Periodo del viaggio:** de mediados de febrero a mediados de marzo, la única ventana en la que coinciden las ballenas grises en las lagunas, el tiburón ballena en La Paz, la ballena azul en Loreto y las jorobadas en Los Cabos
+**Periodo del viaggio:**
 **Durata:** 16 días, 15 noches
 **Compagni di viaggio:** con amigos, por nuestra cuenta, con metro y apps en Ciudad de México, vuelo interno a La Paz y coche de alquiler en Baja California Sur
 **Categoria:** Nord America · Messico · Città del Messico · Baja California · balene · mare · natura · roadtrip

@@ -1,7 +1,7 @@
 # Amsterdam in un weekend lungo
 
 **Stato bozza:** 🟡 in lavorazione (viaggio fatto da Rick; itinerario e informazioni pratiche verificati, mancano aneddoti e ricordi personali da aggiungere dal diario)
-**Periodo del viaggio:** **aprile-maggio oppure settembre-ottobre**
+**Periodo del viaggio:**
 **Durata:** 4 giorni, 3 notti
 **Compagni di viaggio:** con amici, in autonomia, a piedi e in bicicletta
 **Categoria:** Europa · Paesi Bassi · Amsterdam · città · arte · cicloturismo

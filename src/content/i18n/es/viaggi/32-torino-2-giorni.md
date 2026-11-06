@@ -1,7 +1,7 @@
 # Turín en 2 días: Egipto, la Mole y los soportales
 
 **Stato bozza:** 🟡 en preparación
-**Periodo del viaggio:** **abril-junio y septiembre-noviembre**; estupendo también en invierno
+**Periodo del viaggio:**
 **Durata:** 2 días, 1 noche — ampliable a 3 con la Venaria o las Langhe
 **Compagni di viaggio:** con amigos, por libre, a pie y en metro
 **Categoria:** Europa · Italia · Torino · musei · architettura · gastronomia

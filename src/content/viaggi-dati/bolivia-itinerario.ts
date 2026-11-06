@@ -16,6 +16,8 @@ import type { TripMeta } from '@/lib/types'
 export const boliviaItinerarioMeta: TripMeta = {
   tripSlug: 'bolivia-itinerario',
   paeseSlug: 'bolivia',
+  provenienza: 'journey',
+  mesiConsigliati: [5, 6, 7, 8, 9, 10],
   ritmo: 'Impegnativo per la quota più che per lo sforzo fisico: giorni di solo acclimatamento all\'inizio, un tratto molto intenso (Carretera de la Muerte, tre giorni di 4x4 nel Sud Lípez, le miniere di Potosí), e un salto netto di ambiente e altitudine nella parte finale amazzonica',
   trasporti: 'Voli interni (La Paz-Uyuni o bus notturno, La Paz-Sucre, La Paz-Rurrenabaque), tour organizzato in 4x4 nel Sud Lípez, bus di linea tra Uyuni, Potosí e Sucre, barche collettive per l\'Isola del Sole e nelle pampas, Mi Teleférico a La Paz',
   stile: ['alta quota', 'avventura', 'deserti', 'cultura andina', 'natura', 'Amazzonia'],

@@ -1,7 +1,7 @@
 # All of Sicily: The Complete Loop in 17 Days
 
 **Stato bozza:** 🟡 work in progress (itinerary and practical information verified; the first-person passages are written as a draft to reread and personalize)
-**Periodo del viaggio:** **April to early June or mid-September to October**
+**Periodo del viaggio:**
 **Durata:** 17 days, 16 nights — a complete loop of the island, from Palermo to Catania
 **Compagni di viaggio:** with friends, independent, with a rental car
 **Categoria:** Europa · Italia · Sicilia · archeologia · arte · gastronomia

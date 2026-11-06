@@ -1,7 +1,7 @@
 # The Wine Routes of France: Alsace and Champagne in 8 Days
 
 **Stato bozza:** 🟡 work in progress (itinerary and practical information verified)
-**Periodo del viaggio:** **May-June or September-October**
+**Periodo del viaggio:**
 **Durata:** 8 days, 7 nights
 **Compagni di viaggio:** with friends, independent, by car and by bike in Alsace
 **Categoria:** Europa · Francia · vino · Alsazia · Champagne
@@ -12,6 +12,7 @@
 Among all the French wine routes, this itinerary combines the two best suited to a first time: Alsace, the most beautiful and the most accessible, and Champagne, the easiest to reach from Paris. Burgundy, harder and more expensive, is left for a later trip.
 
 ## Scheda pratica
+- **When to go:** **May-June or September-October**
 - **Alsace**: wineries often welcome visitors without an appointment, with free or almost free tastings.
 - **Champagne**: an appointment is recommended for the big houses, free or paid depending on the house.
 - **Designated driver, or spit when tasting**, always.

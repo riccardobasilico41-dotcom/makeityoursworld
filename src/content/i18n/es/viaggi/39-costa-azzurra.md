@@ -1,7 +1,7 @@
 # Costa Azul: 8 días desde Antibes, con el Mercantour
 
 **Stato bozza:** 🟡 en elaboración (itinerario e información práctica verificados)
-**Periodo del viaggio:** **mayo-junio o mediados de septiembre-octubre**
+**Periodo del viaggio:**
 **Durata:** 8 días, 7 noches, base fija en Antibes
 **Compagni di viaggio:** con amigos, por libre, sin coche para la costa, con coche para el Mercantour
 **Categoria:** Europa · Francia · Costa Azzurra · mare · arte · montagna

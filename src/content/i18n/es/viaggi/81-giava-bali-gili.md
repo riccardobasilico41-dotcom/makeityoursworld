@@ -1,7 +1,7 @@
 # Java, Bali y las Gili en dos semanas: templos, volcanes, arrozales e islas sin motores
 
 **Stato bozza:** 🟡 en preparación (etapas hechas por Rick en el viaje largo por Indonesia; trayectos, tiempos y costes tomados del itinerario de 35 días, a volver a comprobar antes de salir)
-**Periodo del viaggio:** pensado para mayo-septiembre, la estación seca, cuando el cielo al amanecer en el Bromo está más despejado. Abril y octubre también van bien para Bali y las Gili
+**Periodo del viaggio:**
 **Durata:** 14 días, 13 noches
 **Compagni di viaggio:** con amigos, por libre, con un vuelo interno, trenes, minivans, jeeps 4x4, ferri, conductor por jornadas y lancha rápida
 **Categoria:** Asia · Indonesia · Giava · Bali · Gili · vulcani · templi · risaie · isole

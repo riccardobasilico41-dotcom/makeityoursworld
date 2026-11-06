@@ -249,6 +249,21 @@ export type TripMeta = {
   unitaGiorniLabel?: string
   giorni: GiornoMeta[]
   budget: VoceBudget[]
+  /**
+   * Da dove viene il percorso. Tutti i viaggi del sito sono stati fatti da Rick (conferma del
+   * 6/11/2026). 'journey' = un viaggio personale; 'combined' = un percorso che mette insieme più
+   * viaggi reali fatti in momenti diversi (es. l'Indonesia in 35 giorni). Valorizzato solo
+   * quando lo dice il testo; assente = non specificato. Elenco in docs/ux/report-autenticita-periodi.md.
+   */
+  provenienza?: 'journey' | 'combined'
+  /**
+   * Mesi (1-12) consigliati per rifare l'itinerario, presi dal testo che c'è già («Quando
+   * andare» della Scheda pratica o il vecchio «Periodo del viaggio» quando conteneva una
+   * stagione consigliata). Diversi dai mesi in cui Rick è partito davvero, che si leggono dal
+   * «Periodo del viaggio» (mesiDaPeriodo). Vuoto o assente = nessun consiglio con mesi chiari.
+   * Elenco con le fonti in docs/ux/periodi-viaggi.md.
+   */
+  mesiConsigliati?: number[]
 }
 
 // --- Sezione "Meraviglie del mondo" ---
@@ -289,4 +304,10 @@ export type Meraviglia = {
   heroImageAlt: string
   /** Percorso in /public. Se assente, la UI mostra un fallback tipografico invece di inventare un'immagine. */
   heroImage?: string
+  /** Fonti ufficiali consultate per i dati pratici (biglietti, orari, regole). */
+  fonti?: { url: string; titolo: string }[]
+  /** Data ISO (AAAA-MM-GG) dell'ultima verifica reale sulle fonti. Mai date inventate. */
+  verificataIl?: string
+  /** 'verificata': ogni dato pratico rimasto ha una fonte; 'parziale': alcuni dati sono stati resi generici o rimandano al sito ufficiale. */
+  statoVerifica?: 'verificata' | 'parziale'
 }

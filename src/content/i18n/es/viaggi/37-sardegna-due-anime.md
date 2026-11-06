@@ -1,7 +1,7 @@
 # Cerdeña, las dos almas: dos semanas de la Costa Esmeralda al Sulcis
 
 **Stato bozza:** 🟡 en preparación
-**Periodo del viaggio:** **finales de mayo-junio o septiembre**
+**Periodo del viaggio:**
 **Durata:** 14 días, 13 noches — en coche, cruzando la isla en diagonal
 **Compagni di viaggio:** con amigos, por libre, con coche de alquiler
 **Categoria:** Europa · Italia · Sardegna · mare · archeologia · trekking

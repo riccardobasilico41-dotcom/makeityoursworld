@@ -3,7 +3,7 @@ import { getAllDestinazioni, getAllPaesi, getDestinazione, getPaese, getTripMeta
 import type { TripMeta } from './types'
 import { getAllViaggi, getViaggioBySlug, type Viaggio } from './viaggi'
 import type { Lingua } from './i18n/config'
-import { giorniDaDurata, mesiDaPeriodo, normalizza, stiliDaCategorie, type OpzionePaese } from './viaggi-filtri-stato'
+import { budgetBreve, giorniDaDurata, mesiDaPeriodo, normalizza, ordinaPaesi, stiliDaCategorie, type OpzionePaese } from './viaggi-filtri-stato'
 
 /*
  * Filtri dell'archivio /viaggi, lato server: Paesi e aree di ogni viaggio. La parte che
@@ -84,19 +84,28 @@ export function contaViaggiNellArea(areaSlug: string): number {
 }
 
 /**
- * Viaggi il cui periodo si legge come un mese preciso ma è la finestra scelta per
- * l'itinerario, non quella in cui è stato fatto: brasile spiega perché luglio-agosto
- * («quando le lagune… sono piene») e non ha ricordi personali; rotte-dei-vini ha il periodo
- * in grassetto come tutte le finestre consigliate («settembre-ottobre, in vendemmia»).
- * Restano senza mese finché l'autore non conferma; elenco completo in docs/ux/mesi-viaggi.md.
+ * Viaggi il cui «Periodo del viaggio» si leggerebbe come un mese ma non è quello in cui Rick è
+ * partito. Dal 6/11/2026 il campo contiene solo il periodo reale (le stagioni consigliate sono
+ * passate in «Quando andare» e in `mesiConsigliati`), quindi l'elenco è vuoto: resta come
+ * valvola per i casi dubbi. Elenco completo in docs/ux/periodi-viaggi.md.
  */
-const MESI_DA_CONFERMARE = new Set(['brasile-itinerario', 'rotte-dei-vini-itinerario'])
+const MESI_DA_CONFERMARE = new Set<string>([])
 
 /** Mesi (1-12) in cui è stato fatto il viaggio, dal «Periodo del viaggio» italiano. Vuoto se non è certo. */
 export function mesiDelViaggio(slug: string): number[] {
   if (MESI_DA_CONFERMARE.has(slug)) return []
   const v = getViaggioBySlug(slug, 'it')
   return v ? mesiDaPeriodo(v.periodo) : []
+}
+
+/**
+ * Mesi (1-12) consigliati per fare il viaggio, per il Travel Finder («Quando andare»). Vengono da
+ * `mesiConsigliati` del TripMeta, scritti a partire dal testo già pubblicato; vuoto se il testo
+ * non dà mesi chiari. Da non confondere con `mesiDelViaggio`, i mesi in cui Rick c'è andato.
+ */
+export function mesiConsigliatiDelViaggio(slug: string): number[] {
+  const mesi = getTripMeta(slug, 'it')?.mesiConsigliati ?? []
+  return [...new Set(mesi.filter((m) => Number.isInteger(m) && m >= 1 && m <= 12))]
 }
 
 /** Viaggi fatti in un mese (1-12), nell'ordine dell'archivio. Per la home («Dove sono stato a luglio»). */
@@ -111,24 +120,40 @@ export function viaggiDelMese(mese: number, lingua: Lingua): Viaggio[] {
 export function datiFiltroViaggio(v: Viaggio, lingua: Lingua) {
   const it = lingua === 'it' ? v : (getViaggioBySlug(v.slug, 'it') ?? v)
   const paesi = paesiDelViaggio(v.slug)
-  const nomiPaesi = paesi.map((p) => getPaese(p, lingua)?.nome).filter((n): n is string => Boolean(n))
-  const tappe = getTripMeta(v.slug, lingua)?.tappeMappa.map((t) => t.nome) ?? []
+  const schede = paesi.map((p) => getPaese(p, lingua)).filter((p) => p !== undefined)
+  const nomiPaesi = schede.map((p) => p.nome)
+  // lo Stato delle regioni entra nella ricerca: «Stati Uniti» trova anche California e Florida
+  const stati = schede.map((p) => (p.tipo === 'regione' ? p.stato : undefined)).filter((n): n is string => Boolean(n))
+  const meta = getTripMeta(v.slug, lingua)
+  const tappe = meta?.tappeMappa.map((t) => t.nome) ?? []
   return {
     paesi,
     aree: areeDelViaggio(v.slug),
     giorni: giorniDaDurata(it.durata),
     stili: stiliDaCategorie(it.categorie, it.tags),
     mesi: mesiDelViaggio(v.slug),
-    ricerca: normalizza([v.titolo, v.descrizione, ...nomiPaesi, ...tappe].join(' ')),
+    mesiConsigliati: mesiConsigliatiDelViaggio(v.slug),
+    ricerca: normalizza([v.titolo, v.descrizione, ...nomiPaesi, ...stati, ...tappe].join(' ')),
     luogo: nomiPaesi.length ? nomiPaesi.join(' · ') : undefined,
+    // solo per la card: il budget totale c'è in pochi viaggi e non è confrontabile, niente filtro
+    budget: budgetBreve(meta?.budgetTotale),
+    provenienza: meta?.provenienza,
   }
 }
 
-/** Paesi con almeno un viaggio, in ordine alfabetico nella lingua, per il filtro. */
+/**
+ * Paesi con almeno un viaggio, per il filtro: in ordine alfabetico nella lingua, con le regioni
+ * (tipo 'regione') sotto il loro Stato, «Stati Uniti › California». Ogni scheda compare una volta.
+ */
 export function opzioniPaesi(lingua: Lingua): OpzionePaese[] {
   const conViaggi = new Set(getAllViaggi('it').flatMap((v) => paesiDelViaggio(v.slug)))
-  return getAllPaesi(lingua)
+  const opzioni = getAllPaesi(lingua)
     .filter((p) => conViaggi.has(p.slug))
-    .map((p) => ({ slug: p.slug, nome: p.nome, area: areaDelPaese(p.slug) }))
-    .sort((a, b) => a.nome.localeCompare(b.nome, lingua))
+    .map((p) => ({
+      slug: p.slug,
+      nome: p.nome,
+      area: areaDelPaese(p.slug),
+      ...(p.tipo === 'regione' && p.stato ? { stato: p.stato } : {}),
+    }))
+  return ordinaPaesi(opzioni, lingua)
 }

@@ -4,12 +4,14 @@ import type { TripMeta } from '@/lib/types'
 // Dubrovnik tra laghi, città romane e isole". Il testo narrativo resta nel
 // markdown (src/content/viaggi/69-croazia-itinerario.md). `titoloGiorno` deve
 // combaciare esattamente con le intestazioni "### Giorno N — ..." del markdown.
-// Guida non vissuta: nessun campo miaEsperienza; immagini dei giorni da
+// Viaggio di Rick (conferma 6/11/2026) scritto in forma di guida: nessun campo miaEsperienza; immagini dei giorni da
 // recuperare dopo (campo `immagine` omesso apposta).
 
 export const croaziaItinerarioMeta: TripMeta = {
   tripSlug: 'croazia-itinerario',
   paeseSlug: 'croazia',
+  provenienza: 'journey',
+  mesiConsigliati: [5, 6, 9],
   ritmo:
     'Regolare: una tappa nuova ogni uno o due giorni, con tratte brevi in auto fino a Spalato e in catamarano tra le isole; le mattine presto sono riservate a Plitvice, Krka e alle mura di Dubrovnik per evitare la folla.',
   trasporti:

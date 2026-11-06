@@ -1,7 +1,7 @@
 # Semana blanca en Francia: qué estación elegir
 
 **Stato bozza:** 🟡 en elaboración
-**Periodo del viaggio:** **enero-marzo, comprobando el calendario de las vacaciones escolares francesas**
+**Periodo del viaggio:**
 **Durata:** 7 días, 6 noches — la semana clásica de sábado a sábado
 **Compagni di viaggio:** con amigos, por nuestra cuenta, apartamento en residencia
 **Categoria:** Europa · Francia · sci · montagna
@@ -12,6 +12,7 @@
 Francia tiene los dominios esquiables conectados más grandes del mundo, construidos desde cero a partir de los años sesenta con un único criterio: la altitud. Este itinerario sigue una semana clásica en un gran dominio de alta cota, con la opción de sustituirlo por Chamonix para quien busque una experiencia distinta.
 
 ## Scheda pratica
+- **Cuándo ir:** **enero-marzo, comprobando el calendario de las vacaciones escolares francesas**
 - **La verdadera limitación es el calendario de las vacaciones escolares**, escalonado en tres zonas: conviene consultarlo antes de reservar.
 - **Seguro de rescate en pistas**: en Francia es de pago, hay que comprarlo con el forfait.
 - **Forfait online con antelación**: cuesta menos que en taquilla.

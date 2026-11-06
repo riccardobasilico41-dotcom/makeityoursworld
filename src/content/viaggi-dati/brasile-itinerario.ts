@@ -7,12 +7,14 @@ import type { TripMeta } from '@/lib/types'
 // "### Giorno N — ..." del markdown. Le due estensioni (Pantanal e Amazzonia)
 // sono sezioni a parte del markdown, non giorni numerati: compaiono qui solo
 // in tappeMappa.
-// Guida non vissuta: nessun campo miaEsperienza; immagini dei giorni da
+// Viaggio di Rick (conferma 6/11/2026) scritto in forma di guida: nessun campo miaEsperienza; immagini dei giorni da
 // recuperare dopo (campo `immagine` omesso apposta).
 
 export const brasileItinerarioMeta: TripMeta = {
   tripSlug: 'brasile-itinerario',
   paeseSlug: 'brasile',
+  provenienza: 'journey',
+  mesiConsigliati: [7, 8],
   ritmo:
     'Vario: giorni pieni di città a Rio e Salvador, giorni di mare lenti a Paraty e Ilha Grande, camminate impegnative nella Chapada Diamantina e quattro giornate quasi intere di trasferimento (Ilha Grande-Iguazú, Iguazú-Salvador, Chapada-São Luís, rientro), inevitabili con le distanze brasiliane.',
   trasporti:

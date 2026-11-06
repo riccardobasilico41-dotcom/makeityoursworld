@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const arabiaSauditaItinerarioMeta: TripMeta = {
   tripSlug: 'arabia-saudita-itinerario',
   paeseSlug: 'arabia-saudita',
+  provenienza: 'journey',
+  mesiConsigliati: [11, 12, 1, 2, 3],
   ritmo: 'Medio, ma con distanze enormi: tre voli interni e trasferimenti lunghi, compensati da giornate non piene',
   trasporti: 'Voli interni Saudia e flynas, auto a noleggio ad AlUla e nell\'Asir, 4x4 con autista per l\'Edge of the World, Uber nelle città',
   stile: ['archeologia', 'deserto', 'montagna'],

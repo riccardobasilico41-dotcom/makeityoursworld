@@ -1,7 +1,7 @@
 # Budapest en un fin de semana largo
 
 **Stato bozza:** 🟡 en elaboración
-**Periodo del viaggio:** **abril-mayo o septiembre-octubre**
+**Periodo del viaggio:**
 **Durata:** 3-4 días, 3 noches
 **Compagni di viaggio:** con amigos, por libre, todo a pie y en transporte público
 **Categoria:** Europa · Ungheria · Budapest · terme · vita notturna · gastronomia

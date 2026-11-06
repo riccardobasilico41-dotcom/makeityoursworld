@@ -1,7 +1,7 @@
 # China clásica en 15 días: Pekín, Xi'an, Shanghái, Hong Kong y Macao
 
 **Stato bozza:** 🟡 en preparación
-**Periodo del viaggio:** primavera u otoño — la ventana buena es abril-mayo o septiembre-octubre, evitando la primera semana de octubre
+**Periodo del viaggio:**
 **Durata:** 15 días, 14 noches
 **Compagni di viaggio:** con amigos, por libre, con trenes de alta velocidad reservados desde Italia
 **Categoria:** Asia · Cina · grandi classici · alta velocità · megalopoli · storia

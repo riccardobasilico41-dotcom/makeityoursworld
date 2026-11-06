@@ -1,7 +1,7 @@
 # Perù in due settimane: Lima, Arequipa, il Titicaca, Cusco e Machu Picchu
 
 **Stato bozza:** 🟡 in lavorazione (versione di due settimane del viaggio lungo in Perù: tratte, tempi, costi e avvertenze vengono da lì e vanno ricontrollati prima di partire; mancano nomi degli alloggi e prezzi effettivamente pagati)
-**Periodo del viaggio:** pensato per maggio-settembre, la stagione secca andina. Rick è stato in Perù tre volte, nel 2018, nel 2021 e nel 2024
+**Periodo del viaggio:** tre viaggi in Perù, nel 2018, nel 2021 e nel 2024
 **Durata:** 14 giorni, 13 notti, più 3-4 giorni facoltativi per l'Amazzonia o per Huaraz
 **Compagni di viaggio:** con amici, in autonomia, con voli interni, bus turistici, treno per Machu Picchu e tour organizzati nel Colca e sul Titicaca
 **Categoria:** Sud America · Perù · Ande · alta quota · cultura inca · Machu Picchu · lago Titicaca
@@ -12,6 +12,8 @@
 Il momento che mi porto dietro dal Perù è Machu Picchu all'alba. Entrare tra i primi, con la cittadella ancora quasi vuota, ripaga la sveglia nel buio. In Perù sono stato tre volte e il giro completo che ho raccontato dura un mese. Qui ne tengo la parte andina, quella che quasi tutti fanno al primo viaggio: due settimane da Lima ad Arequipa, il Colca, il Titicaca, Cusco, la Valle Sacra e Machu Picchu.
 
 Rispetto al viaggio lungo ho invertito il senso di marcia. Si parte dal sud e si sale di quota un gradino alla volta: prima Arequipa a 2.300 metri, poi il canyon, poi Puno e infine Cusco. Machu Picchu arriva alla fine, quando il corpo si è abituato all'altitudine.
+
+In Perù sono stato anche due volte come volontario: a Cusco con il Proyecto Cusimaki, un progetto che sostengo e che invito a visitare, e ad Arequipa come osteopata volontario.
 
 ## Scheda pratica
 - **Quando andare:** da maggio a settembre, la stagione secca delle Ande. A febbraio il Cammino Inca chiude per manutenzione. Il 24 giugno c'è l'Inti Raymi a Cusco: città piena e prezzi alti, da prenotare molto prima.

@@ -14,6 +14,8 @@ import type { TripMeta } from '@/lib/types'
 export const indiaRajasthanVaranasiMeta: TripMeta = {
   tripSlug: 'india-rajasthan-varanasi',
   paeseSlug: 'india',
+  provenienza: 'journey',
+  mesiConsigliati: [10, 11, 12, 1, 2, 3],
   ritmo:
     'Intenso nella prima settimana: due notti in treno (Delhi-Varanasi e Varanasi-Agra), tre giorni pieni a Varanasi con sveglie all\'alba, poi Agra e due giorni di safari a Ranthambore. Più disteso nella seconda, in auto con l\'autista, con una giornata cuscinetto a Jodhpur prima di Ranakpur e Udaipur. Cinque trasferimenti lunghi in auto, di 3-6 ore.',
   trasporti:

@@ -1,7 +1,7 @@
 # A Ski Week in Italy: How to Choose Where, When and How Much to Spend
 
 **Stato bozza:** 🟡 work in progress (comparisons between ski areas, prices and practical information verified and up to date; the first-person passages are written as a draft to reread and personalize)
-**Periodo del viaggio:** **January after Epiphany** or **March**, which are the two right windows
+**Periodo del viaggio:**
 **Durata:** 7 days, 6 nights
 **Compagni di viaggio:** with friends, independent, with ski pass and lodging booked as a package
 **Categoria:** Europa · Italia · sci · Dolomiti · montagna · inverno

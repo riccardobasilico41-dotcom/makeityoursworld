@@ -1,6 +1,6 @@
 import Link from '@/components/ui/Link'
 import { ArrowUpRight, BedDouble, Car, Luggage, Plane, ShieldCheck, Smartphone, Ticket, TrainFront } from 'lucide-react'
-import { link, relAffiliato } from '@/lib/affiliazioni'
+import { affiliazioniAttive, link, relAffiliato } from '@/lib/affiliazioni'
 import type { ListaAttrezzatura } from '@/content/attrezzatura'
 import { linguaCorrente } from '@/lib/i18n/server'
 import { etichetta } from '@/lib/i18n/etichette'
@@ -194,12 +194,15 @@ export async function OrganizzaViaggio({
         )}
       </div>
 
-      <p className="mt-4 border-t border-ink/15 pt-4 text-xs leading-relaxed text-stone">
-        {t.affiliati}{' '}
-        <Link href="/trasparenza" className="underline underline-offset-2 hover:text-rosso">
-          {t.comeFunziona}
-        </Link>
-      </p>
+      {/* l'avviso compare solo quando c'è davvero un programma di affiliazione attivo */}
+      {affiliazioniAttive && (
+        <p className="mt-4 border-t border-ink/15 pt-4 text-xs leading-relaxed text-stone">
+          {t.affiliati}{' '}
+          <Link href="/trasparenza" className="underline underline-offset-2 hover:text-rosso">
+            {t.comeFunziona}
+          </Link>
+        </p>
+      )}
     </section>
   )
 }
@@ -215,12 +218,14 @@ export async function PrenotaQui({ voci }: { voci: Voce[] }) {
           <Esterno key={v.href} voce={v} />
         ))}
       </div>
-      <p className="mt-3 text-xs leading-relaxed text-stone">
-        {t.affiliatiBreve}{' '}
-        <Link href="/trasparenza" className="underline underline-offset-2 hover:text-rosso">
-          {t.comeFunziona}
-        </Link>
-      </p>
+      {affiliazioniAttive && (
+        <p className="mt-3 text-xs leading-relaxed text-stone">
+          {t.affiliatiBreve}{' '}
+          <Link href="/trasparenza" className="underline underline-offset-2 hover:text-rosso">
+            {t.comeFunziona}
+          </Link>
+        </p>
+      )}
     </div>
   )
 }

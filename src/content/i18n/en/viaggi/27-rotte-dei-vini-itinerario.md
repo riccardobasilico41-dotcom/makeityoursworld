@@ -1,7 +1,7 @@
 # On the Routes of the Great Wines: Langhe, Valpolicella and Tuscany in 10 Days
 
 **Stato bozza:** 🟡 in progress (itinerary and practical information verified; the first-person passages are written as a draft to be reread and personalized — the names of the wineries actually visited are missing, and here they matter more than elsewhere)
-**Periodo del viaggio:** **September-October, during the harvest**
+**Periodo del viaggio:**
 **Durata:** 10 days, 9 nights
 **Compagni di viaggio:** with friends, independent, with a rental car and wineries booked
 **Categoria:** Europa · Italia · vino · enogastronomia · paesaggi

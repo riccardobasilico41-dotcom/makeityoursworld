@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const roma4GiorniMeta: TripMeta = {
   tripSlug: 'roma-4-giorni',
   paeseSlug: 'italia',
+  provenienza: 'journey',
+  mesiConsigliati: [4, 5, 6, 10, 11],
   ritmo: 'Quattro giornate tematiche per quadranti, una cosa grande al mattino e il resto a piedi: l\'errore da evitare è provare a vedere tutto',
   trasporti: 'Tutto a piedi e in metro; l\'auto è inutile e dannosa per via della ZTL',
   stile: [

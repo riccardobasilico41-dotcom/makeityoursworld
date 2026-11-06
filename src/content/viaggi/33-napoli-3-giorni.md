@@ -1,7 +1,7 @@
 # Napoli in 3 giorni, con Pompei ed Ercolano
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
-**Periodo del viaggio:** **aprile-inizio giugno e settembre-ottobre**
+**Periodo del viaggio:**
 **Durata:** 3 giorni, 2 notti — con la giornata archeologica fuori città
 **Compagni di viaggio:** con amici, in autonomia, tutto a piedi, metro e treni locali
 **Categoria:** Europa · Italia · Napoli · archeologia · arte · gastronomia

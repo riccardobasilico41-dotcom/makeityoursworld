@@ -814,7 +814,7 @@ export const destinazioniBrasile: Destinazione[] = [
     nome: "Pantanal (Transpantaneira y Porto Jofre)",
     tipologia: ['fauna', 'safari', 'zona umida'],
     giorniConsigliati: "4-6 días",
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       "El humedal tropical más grande del mundo. En el Pantanal norte, a lo largo de la carretera de tierra de la Transpantaneira hasta Porto Jofre, en la estación seca los jaguares se ven en las orillas de los ríos con una regularidad sin comparación.",
     percheAndarci: "Por los jaguares, las nutrias gigantes, los caimanes y las aves del humedal.",
@@ -925,7 +925,7 @@ export const destinazioniBrasile: Destinazione[] = [
     nome: "Amazonia desde Manaos",
     tipologia: ['foresta', 'fiume', 'fauna'],
     giorniConsigliati: "4-5 días, hasta 10 si se continúa hacia Perú o Colombia",
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       "Manaos, ciudad de más de dos millones de habitantes a la que solo se llega en avión o en barco, es la puerta de la Amazonia brasileña, en la confluencia entre el Rio Negro y el Solimões. Desde aquí se remonta el río hasta la triple frontera con Colombia y Perú.",
     percheAndarci: "Por la selva inundada, los delfines rosados, el Encuentro de las Aguas y, si se quiere, para cruzar el continente por el río.",

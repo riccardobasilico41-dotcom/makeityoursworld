@@ -1,7 +1,7 @@
 # Côte d'Azur: 8 Days from Antibes, with the Mercantour
 
 **Stato bozza:** 🟡 work in progress (itinerary and practical information verified)
-**Periodo del viaggio:** **May-June or mid-September-October**
+**Periodo del viaggio:**
 **Durata:** 8 days, 7 nights, fixed base in Antibes
 **Compagni di viaggio:** with friends, independently, without a car for the coast, with a car for the Mercantour
 **Categoria:** Europa · Francia · Costa Azzurra · mare · arte · montagna

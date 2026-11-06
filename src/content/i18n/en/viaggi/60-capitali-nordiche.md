@@ -1,7 +1,7 @@
 # Nordic Capitals: Copenhagen, Stockholm and Oslo in 9 Days
 
 **Stato bozza:** 🟡 in progress (trip done by Rick; itinerary and practical information verified)
-**Periodo del viaggio:** **May to September**, with June to August as high season (best weather, but pricier and more crowded); April and October are still manageable, with fewer crowds and lower prices
+**Periodo del viaggio:**
 **Durata:** 9 days, 8 nights (3 days per capital)
 **Compagni di viaggio:** with friends, independent, with a train and a domestic flight between the three capitals, everything else on foot, by bike or on public transport
 **Categoria:** Europa · Danimarca · Svezia · Norvegia · città · design · cultura nordica

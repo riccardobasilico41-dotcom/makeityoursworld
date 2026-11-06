@@ -1,7 +1,7 @@
 # París en 5 días (con la versión de 3)
 
 **Stato bozza:** 🟡 en elaboración (itinerario e información práctica verificados)
-**Periodo del viaggio:** **abril-junio o septiembre-octubre**
+**Periodo del viaggio:**
 **Durata:** 5 días, 4 noches — con una versión de 3 días
 **Compagni di viaggio:** con amigos, por libre, metro y a pie
 **Categoria:** Europa · Francia · Parigi · arte · architettura

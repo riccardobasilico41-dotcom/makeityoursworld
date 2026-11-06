@@ -1,7 +1,7 @@
 # Montenegro en 10 días: de la bahía de Kotor al Durmitor y al cañón del Tara
 
 **Stato bozza:** 🟡 en preparación (itinerario e información práctica completos y verificados en octubre de 2026)
-**Periodo del viaggio:** pensado para finales de mayo-junio y septiembre, con julio-agosto posible pero concurrido en la costa
+**Periodo del viaggio:**
 **Durata:** 10 días, 9 noches
 **Compagni di viaggio:** con amigos, por nuestra cuenta, con coche de alquiler, ferri de Kamenari y alguna excursión en barca y en neumática
 **Categoria:** Europa · Balcani · Montenegro · Bocche di Cattaro · mare · montagna · roadtrip · monasteri

@@ -1,7 +1,7 @@
 # Switzerland by van: the Bernese Alps from Interlaken to the Matterhorn
 
 **Stato bozza:** 🟡 in progress (trip made by Rick; itinerary and practical information checked)
-**Periodo del viaggio:** June to September, with July-August as the most reliable window for the Alpine passes
+**Periodo del viaggio:**
 **Durata:** modular, from a long weekend of 3-4 days around Interlaken and the Jungfrau Region to a week that reaches Zermatt. Two ready-made proposals below.
 **Compagni di viaggio:** with friends, independently, in a camper or equipped van
 **Categoria:** Europa · Svizzera · Alpi Bernesi · van life · roadtrip · montagna
@@ -14,6 +14,7 @@ Switzerland is not a country you visit to save money, and it is better to say so
 That said, the Interlaken-Jungfrau region, in the Bernese Alps, remains one of the densest stretches of mountains in Europe: two turquoise lakes, a valley of seventy-two waterfalls closed in by vertical walls, a train that climbs to 3,454 meters inside the mountain, and, for those with a week, a road of Alpine passes that reaches the foot of the Matterhorn. It is also a country made for the van: impeccable roads, short distances, scenery that changes every hour of driving. The van, however, has stricter rules in Switzerland than in the neighboring Alpine countries, and it is the second topic this guide covers at length, because it is the most common source of fines and misunderstandings for those arriving from Italy or France used to a margin of tolerance that doesn't exist here.
 
 ## Scheda pratica
+- **When to go:** June to September, with July-August as the most reliable window for the Alpine passes
 
 ### What it really costs: the part to read first
 Switzerland is not in the European Union and has not adopted the euro: you pay in Swiss francs, and the exchange rate with the euro is historically unfavorable, which inflates every price expressed in euros. The items that weigh most on a van trip:

@@ -1,7 +1,7 @@
 # India: Rajastán en 10 días, de Delhi al Taj Mahal y hasta los lagos de Udaipur
 
-**Stato bozza:** 🟡 en elaboración (propuesta construida a partir de la investigación y del viaje largo de Rick por Rajastán y Benarés, no un viaje hecho así; información práctica verificada en octubre-noviembre de 2026)
-**Periodo del viaggio:** pensado para octubre-marzo, con noviembre-febrero como mejor ventana
+**Stato bozza:** 🟡 en elaboración (lugares visitados por Rick, reunidos en una ruta práctica; información práctica verificada en octubre-noviembre de 2026, a comprobar antes de salir; recuerdos en primera persona solo los que da Rick, ninguno inventado)
+**Periodo del viaggio:**
 **Durata:** 10 días, 9 noches
 **Compagni di viaggio:** itinerario pensado para viajar por libre, con trenes rápidos en los tramos Delhi-Agra y Jaipur-Jodhpur, coche con conductor para las etapas sin ferrocarril cómodo y un vuelo interno para el regreso
 **Categoria:** Asia · India · Rajasthan · triangolo d'oro · forti e palazzi · cultura
@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-Esta es una versión corta, de diez días, construida a partir de la investigación y del viaje largo que Rick hizo por India: *India: Benarés, Ranthambore y Rajastán en 19 días, en tren nocturno y con conductor*, con los trenes nocturnos y el conductor. Rick no lo hizo de esta forma. Se queda con las etapas de Rajastán que caben en diez días y deja fuera Benarés, Ranthambore, Pushkar y el desierto.
+Esta es una versión corta, de diez días, del viaje largo que Rick hizo por India: *India: Benarés, Ranthambore y Rajastán en 19 días, en tren nocturno y con conductor*, con los trenes nocturnos y el conductor. Los lugares son los de ese viaje; la secuencia en diez días es una versión acortada para quien tiene menos tiempo. Se queda con las etapas de Rajastán que caben en diez días y deja fuera Benarés, Ranthambore, Pushkar y el desierto.
 
 Rajastán es el primer viaje a India más sensato para quien sale desde Italia. Las distancias son manejables, los monumentos están entre los más bellos del país y la red de trenes, conductores y hoteles heritage permite organizarse por cuenta propia sin depender de un tour en grupo. Este itinerario ordena en diez días el triángulo de oro (Delhi, Agra, Jaipur) y dos ciudades de Rajastán que por sí solas justifican el viaje: Jodhpur, la ciudad azul bajo el fuerte de Mehrangarh, y Udaipur, la ciudad de los lagos y los palacios blancos.
 
@@ -170,7 +170,7 @@ Precios por persona en habitación doble, vuelos intercontinentales excluidos (d
 ## Chiusura personale
 Diez días en Rajastán no bastan para entender India, pero bastan para saber si se quiere volver. Es un viaje hecho de contrastes fuertes: el ruido de Delhi y el silencio del Taj a las seis de la mañana, el caos de los bazares de Jaipur y el viento sobre las murallas del Mehrangarh, los cláxones continuos en las carreteras y la calma de una terraza sobre el lago Pichola al atardecer. Quien lo prepara bien, con trenes reservados, un conductor de confianza y dos noches en cada ciudad, vuelve a casa con ganas de ver el resto: Benarés, el desierto del Thar, el Sur.
 
-*Este itinerario no es un viaje que Rick hiciera así: es una versión corta construida a partir de la investigación y de su viaje largo, India: Benarés, Ranthambore y Rajastán en 19 días, en tren nocturno y con conductor. De ese viaje vienen las etapas de Rajastán, el aviso sobre el viernes del Taj, el consejo sobre las colas en los controles y el de elegir bien al conductor (el suyo no lo recomienda). Trayectos, tiempos, precios y normas vienen de portales oficiales del visado y de los ferrocarriles indios, de la web oficial del Taj Mahal, de las webs de los monumentos, de Viaggiare Sicuri y de guías recientes, verificados en octubre-noviembre de 2026: hay que volver a comprobarlos antes de salir.*
+*Esta versión corta nace del viaje largo de Rick por India, India: Benarés, Ranthambore y Rajastán en 19 días, en tren nocturno y con conductor: los lugares son los que visitó, la secuencia en diez días está recompuesta para quien tiene menos tiempo. De ese viaje vienen las etapas de Rajastán, el aviso sobre el viernes del Taj, el consejo sobre las colas en los controles y el de elegir bien al conductor (el suyo no lo recomienda). Trayectos, tiempos, precios y normas vienen de portales oficiales del visado y de los ferrocarriles indios, de la web oficial del Taj Mahal, de las webs de los monumentos, de Viaggiare Sicuri y de guías recientes, verificados en octubre-noviembre de 2026: hay que volver a comprobarlos antes de salir.*
 
 ## Tag
 `#india` `#rajasthan` `#delhi` `#agra` `#tajmahal` `#jaipur` `#jodhpur` `#udaipur` `#ranakpur` `#triangolodoro` `#asia` `#treniindiani`

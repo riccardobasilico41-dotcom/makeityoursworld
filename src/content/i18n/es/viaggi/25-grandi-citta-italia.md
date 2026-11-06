@@ -1,7 +1,7 @@
 # Las grandes ciudades en dos semanas: Roma, Florencia, Venecia, Nápoles
 
 **Stato bozza:** 🟡 en elaboración
-**Periodo del viaggio:** **de octubre a marzo**, que es cuando las ciudades de arte italianas vuelven a ser vivibles
+**Periodo del viaggio:**
 **Durata:** 12 días, 11 noches
 **Compagni di viaggio:** con amigos, por libre, moviéndonos solo en alta velocidad
 **Categoria:** Europa · Italia · città d'arte · archeologia · gastronomia

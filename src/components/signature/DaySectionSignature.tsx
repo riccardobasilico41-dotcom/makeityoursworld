@@ -3,6 +3,7 @@
 import { useMemo, useRef } from 'react'
 import { DayTimelineSignature } from './DayTimelineSignature'
 import { RouteLine } from './RouteLine'
+import { MiniMappaRotta } from './rotta-client'
 import { useAncoraAttiva } from './useAncoraAttiva'
 import { idGiorno } from './giorni-ancore'
 import type { ViaggioGiorno } from '@/lib/viaggi'
@@ -30,6 +31,7 @@ export function DaySectionSignature({
   unitaLabel,
   tappe = [],
   tappeGiorni = [],
+  rottaSlug,
 }: {
   giorni: ViaggioGiorno[]
   meta: GiornoMeta[]
@@ -39,6 +41,8 @@ export function DaySectionSignature({
   tappe?: TappaMappa[]
   /** Per ogni giorno, gli indici delle sue tappe in `tappe`. */
   tappeGiorni?: number[][]
+  /** slug del viaggio, se ha la mappa vera della rotta (src/lib/mappa-rotta.ts): al posto della linea astratta */
+  rottaSlug?: string
 }) {
   const lingua = useLingua()
   const containerRef = useRef<HTMLOListElement>(null)
@@ -59,15 +63,19 @@ export function DaySectionSignature({
           <div className="mt-6 border-2 border-ink bg-white p-3">
             <p className="text-[0.65rem] font-semibold uppercase tracking-[0.18em] text-stone/85">{T[lingua].tappaDelGiorno}</p>
             <p className="mt-1 min-h-10 font-display text-sm leading-snug text-rosso">{nomi.join(' · ') || '—'}</p>
-            <RouteLine
-              tappe={tappe}
-              paeseSlug={paeseSlug}
-              evidenzia={evidenzia}
-              elenco={false}
-              strokeClassName="stroke-alpine/60"
-              labelClassName="text-alpine"
-              className="mt-2 h-28"
-            />
+            {rottaSlug ? (
+              <MiniMappaRotta slug={rottaSlug} evidenzia={evidenzia} className="mt-2" />
+            ) : (
+              <RouteLine
+                tappe={tappe}
+                paeseSlug={paeseSlug}
+                evidenzia={evidenzia}
+                elenco={false}
+                strokeClassName="stroke-alpine/60"
+                labelClassName="text-alpine"
+                className="mt-2 h-28"
+              />
+            )}
             <a href="#mappa" className="mt-2 inline-flex min-h-11 items-center text-xs font-semibold text-rosso underline underline-offset-4">
               {T[lingua].mappaCompleta}
             </a>

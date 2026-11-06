@@ -1,7 +1,7 @@
 # Este de Canadá en coche en 16 días: Toronto, Niágara, Ottawa, Montréal, Quebec y Tadoussac
 
 **Stato bozza:** 🟡 en curso
-**Periodo del viaggio:** pensado para junio-septiembre, cuando el barco de las cataratas del Niágara y los cruceros de ballenas de Tadoussac están en servicio, o para finales de septiembre-mediados de octubre, con los colores del otoño en los Laurentides y en Charlevoix
+**Periodo del viaggio:**
 **Durata:** 16 días, 15 noches, más una extensión opcional de 3-5 días a Churchill (Manitoba) para ver los osos polares
 **Compagni di viaggio:** con amigos, por nuestra cuenta, con una pick-up de alquiler recogida en Toronto y devuelta en Montréal, unos 1.900-2.000 km de conducción
 **Categoria:** Nord America · Canada · Ontario · Québec · road trip · cascate del Niagara · città · balene · orsi polari

@@ -1,7 +1,7 @@
 # The Amalfi Coast and the Islands of the Bay in 9 Days
 
 **Stato bozza:** 🟡 in progress (itinerary and practical information verified)
-**Periodo del viaggio:** **May-June or mid-September to early October**
+**Periodo del viaggio:**
 **Durata:** 9 days, 8 nights — can be split into two blocks of 4-5
 **Compagni di viaggio:** with friends, independent, **no car**, everything by ferry, bus and on foot
 **Categoria:** Europa · Italia · Campania · mare · trekking · isole

@@ -15,6 +15,7 @@ const IMG = '/images/viaggi/peru-itinerario'
 export const peruDueSettimaneMeta: TripMeta = {
   tripSlug: 'peru-due-settimane',
   paeseSlug: 'peru',
+  mesiConsigliati: [5, 6, 7, 8, 9],
   ritmo:
     'Medio: due giorni pieni di trasferimento in bus (Arequipa-Puno e Puno-Cusco) e giornate lente all\'arrivo in quota, alternate a giorni intensi nel Colca, sul Titicaca e a Machu Picchu. L\'ordine da sud a nord serve a salire di quota per gradi.',
   trasporti:

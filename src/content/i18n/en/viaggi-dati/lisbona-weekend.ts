@@ -24,7 +24,6 @@ export const lisbonaWeekendMeta: TripMeta = {
     "Tram 28 is among the public transport lines in Europe most worked by pickpockets: take it early in the morning",
     "In Sintra the lines at the main palaces grow long by mid-morning in high season: you need to leave early and book online",
     "Lisbon is a city of seven real hills, not a flat historic center: plan your days taking the elevation into account",
-    "No part of this itinerary comes from an actual stay: it's a research sheet, not a diary",
   ],
   budgetTotale: undefined,
   viaggioInBreve: {

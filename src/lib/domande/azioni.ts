@@ -3,6 +3,7 @@
 import { randomUUID } from 'node:crypto'
 import { isLingua } from '@/lib/i18n/config'
 import { getViaggioBySlug } from '@/lib/viaggi'
+import { domandeAttive } from '@/lib/site-config'
 import { salva } from './archivio'
 import { dentroIlLimite } from './sicurezza'
 import { ID_VALIDO, MAX_NOME, MAX_TESTO, MIN_SECONDI_COMPILAZIONE, MIN_TESTO } from './tipi'
@@ -14,7 +15,7 @@ export type EsitoInvio =
   | {
       stato: 'errore'
       campi: Partial<Record<ErroreCampo, 'vuoto' | 'lungo' | 'corto' | 'manca'>>
-      generale?: 'veloce' | 'troppi' | 'server' | 'pagina'
+      generale?: 'veloce' | 'troppi' | 'server' | 'pagina' | 'chiuso'
       /** quello che la persona aveva scritto, per non farglielo riscrivere */
       valori: { nome: string; testo: string; consenso: boolean }
     }
@@ -33,6 +34,10 @@ export async function inviaDomanda(_prec: EsitoInvio, form: FormData): Promise<E
   const nome = pulisci(form.get('nome')).replace(/\s+/g, ' ')
   const testo = pulisci(form.get('testo')).replace(/\n{3,}/g, '\n\n')
   const valori = { nome: nome.slice(0, MAX_NOME), testo: testo.slice(0, MAX_TESTO), consenso: form.get('consenso') === 'si' }
+
+  // modulo spento in site-config (funzioni.moduloDomande / dati del titolare mancanti):
+  // niente viene salvato, anche se qualcuno chiama l'azione direttamente.
+  if (!domandeAttive) return { stato: 'errore', campi: {}, generale: 'chiuso', valori }
 
   // honeypot: un campo che le persone non vedono. Se è pieno fingiamo che sia andata bene.
   if (pulisci(form.get('sito'))) return { stato: 'ok' }

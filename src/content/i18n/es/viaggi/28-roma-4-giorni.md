@@ -1,7 +1,7 @@
 # Roma en 4 días (y cómo hacerla en 2 sin estropearla)
 
 **Stato bozza:** 🟡 en elaboración
-**Periodo del viaggio:** **abril-principios de junio u octubre-noviembre**
+**Periodo del viaggio:**
 **Durata:** 4 días, 3 noches, con una versión comprimida de 2 días
 **Compagni di viaggio:** con amigos, por libre, todo a pie y en metro
 **Categoria:** Europa · Italia · Roma · archeologia · arte · gastronomia

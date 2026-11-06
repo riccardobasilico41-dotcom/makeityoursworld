@@ -1,7 +1,7 @@
 # Marocco: le città imperiali e la città blu in 11 giorni
 
 **Stato bozza:** 🟡 in lavorazione (viaggio fatto da Rick; informazioni pratiche verificate a novembre 2026; mancano ricordi personali e foto)
-**Periodo del viaggio:** pensato per la primavera o l'autunno, quando le città dell'interno non sono ancora torride
+**Periodo del viaggio:**
 **Durata:** 11 giorni, 10 notti
 **Compagni di viaggio:** itinerario su strada, con auto e autista o a noleggio, e bus CTM dove conviene
 **Categoria:** Africa · Marocco · città imperiali · Fès · Meknès · Volubilis · Rabat · Chefchaouen · medine · on the road

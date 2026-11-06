@@ -24,6 +24,8 @@ import type { TripMeta } from '@/lib/types'
 export const capitaliNordicheMeta: TripMeta = {
   tripSlug: 'capitali-nordiche',
   paeseSlug: 'danimarca',
+  provenienza: 'journey',
+  mesiConsigliati: [5, 6, 7, 8, 9],
   ritmo:
     'Un ritmo da "tre città in una", tre giorni pieni a testa con due giorni di cerniera dedicati anche al trasferimento (treno o volo) verso la capitale successiva: non frenetico, ma con poco spazio per improvvisare',
   trasporti:
@@ -49,7 +51,6 @@ export const capitaliNordicheMeta: TripMeta = {
     'Il Viking Ship Museum di Oslo, a Bygdøy, è chiuso per ristrutturazione con riapertura non prevista prima del 2027',
     'Tivoli Gardens a Copenaghen è aperto solo a stagioni alterne, non tutto l\'anno: va verificato il calendario prima di programmare la serata',
     'A Christiania (Copenaghen) valgono regole specifiche della comunità, foto comprese: l\'ex Pusher Street è stata chiusa dalle autorità nel 2024 e la vendita di stupefacenti resta illegale in tutta la Danimarca',
-    'Nessuna parte di questo itinerario nasce da un soggiorno reale: è una scheda di ricerca, non un diario',
   ],
   budgetTotale: undefined,
   viaggioInBreve: {

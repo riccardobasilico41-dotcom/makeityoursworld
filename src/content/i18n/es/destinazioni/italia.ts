@@ -1642,7 +1642,7 @@ export const destinazioniItalia: Destinazione[] = [
     periodoMigliore:
       "abril-junio y septiembre-octubre. El invierno es frío y neblinoso pero la ciudad funciona; el verano es bochornoso y en agosto Milán se vacía, con muchos locales cerrados. Durante el Salone del Mobile (abril) y las semanas de la moda los precios de los alojamientos se triplican y encontrar sitio es difícil.",
     costi:
-      "En alojamientos es la ciudad más cara de Italia. Duomo y terrazas tienen una entrada combinada; la Última Cena cuesta poco, el problema es encontrar plaza.",
+      "En alojamientos es la ciudad más cara de Italia. Duomo y terrazas tienen una entrada combinada; la Última Cena cuesta 15 euros la entrada general (web oficial, 2026), el problema es encontrar plaza.",
     erroriDaEvitare: [
       "Intentar ver la Última Cena sin reserva: **no se entra**, las aperturas de reservas son trimestrales y se agotan en poco tiempo. Es el error más común de los visitantes en Milán",
       "Entrar en el centro en coche sin conocer Área B y Área C",

@@ -704,7 +704,7 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
   'india-sud-taj-mahal': {
     seoTitle: "Delhi, Agra y el sur de la India en 17 días: itinerario",
     seoDescription:
-      "Delhi y el Taj Mahal al amanecer, luego en avión a Chennai para Tamil Nadu, Kerala y Hampi. Una propuesta de 17 días con presupuesto, timos y errores.",
+      "Delhi y el Taj Mahal al amanecer, luego en avión a Chennai para Tamil Nadu, Kerala y Hampi. Un itinerario de 17 días con presupuesto, timos y errores.",
     socialTitle: "El Taj Mahal y el sur de la India en 17 días: de Delhi a los backwaters de Kerala y Hampi",
     editorialHook:
       "Las houseboats de Alleppey ofrecidas en los embarcaderos a precios bajos a menudo no son las de las fotos: se reservan antes.",

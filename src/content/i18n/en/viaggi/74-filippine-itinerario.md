@@ -1,7 +1,7 @@
 # The Philippines in 18 days: El Nido, Coron, Moalboal, Bohol and Siargao
 
 **Stato bozza:** 🟡 in progress
-**Periodo del viaggio:** planned for March to May, the only window when Palawan, the Visayas and Siargao are all in the dry season; from December to February Palawan works, Siargao less so
+**Periodo del viaggio:**
 **Durata:** 18 days, 17 nights
 **Compagni di viaggio:** with friends, on our own, with four domestic flights, a fast ferry between El Nido and Coron, one between Cebu and Bohol, and local boats for island hopping
 **Categoria:** Asia · Filippine · Palawan · Visayas · mare · island hopping · snorkeling · surf

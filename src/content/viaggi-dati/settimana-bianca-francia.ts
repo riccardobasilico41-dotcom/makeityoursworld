@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const settimanaBiancaFranciaMeta: TripMeta = {
   tripSlug: 'settimana-bianca-francia',
   paeseSlug: 'francia',
+  provenienza: 'journey',
+  mesiConsigliati: [1, 2, 3],
   ritmo: 'Una settimana classica da sabato a sabato su un grande comprensorio d\'alta quota, con una giornata a Chamonix',
   trasporti: 'Navette gratuite in stazione; auto solo per l\'arrivo e la partenza',
   stile: [

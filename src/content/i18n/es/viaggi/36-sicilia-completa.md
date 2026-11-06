@@ -1,7 +1,7 @@
 # Sicilia entera: la vuelta completa en 17 días
 
 **Stato bozza:** 🟡 en preparación
-**Periodo del viaggio:** **abril-principios de junio o mediados de septiembre-octubre**
+**Periodo del viaggio:**
 **Durata:** 17 días, 16 noches — vuelta completa a la isla, de Palermo a Catania
 **Compagni di viaggio:** con amigos, por libre, con coche de alquiler
 **Categoria:** Europa · Italia · Sicilia · archeologia · arte · gastronomia

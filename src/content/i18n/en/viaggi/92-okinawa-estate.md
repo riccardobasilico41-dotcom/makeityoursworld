@@ -1,7 +1,7 @@
 # Okinawa in Summer in Two Weeks: Naha, Churaumi, the Kerama Islands, Miyako and the Yaeyama Islands
 
-**Stato bozza:** 🟡 work in progress (a guide itinerary built from research on official sources, checked in November 2026; no personal memories in the text)
-**Periodo del viaggio:** designed for late June to mid-July, after the rainy season and before the peak of the typhoons; it also works in late September to October
+**Stato bozza:** 🟡 in progress (places Rick visited, put together into one practical route; practical information checked in October-November 2026, to recheck before departure; first-person memories only those given by Rick, none invented)
+**Periodo del viaggio:**
 **Durata:** 13 days, 12 nights, with 10- and 14-day variants
 **Compagni di viaggio:** independently, with a rental car on the main island, ferries to the Kerama and Yaeyama islands, domestic flights Naha-Miyako-Ishigaki
 **Categoria:** Asia · Giappone · Okinawa · mare · snorkeling · isole · cultura ryukyu
@@ -12,6 +12,8 @@
 Okinawa is the Japan you don't expect. Tropical sea, coral reef, mangroves, and a culture that for centuries belonged to a kingdom of its own, the Ryukyu Kingdom, with its own language, food and music.
 
 This trip is built for summer, when the sea is at its best. It starts on the main island, between Naha, the Churaumi aquarium and the Yanbaru forest. Then two nights in the Kerama Islands, an hour by boat from Naha. Then Miyako, with the whitest beaches in the archipelago, and finally Ishigaki with the Yaeyama Islands: the jungle of Iriomote and the village of Taketomi.
+
+Like every trip on this site, it's rooted in places I've personally visited and experiences I've actually lived, put together into one practical route.
 
 ## Scheda pratica
 - **When to go:** the rainy season in Okinawa starts on average around May 10 and ends around June 21 (JMA 1991-2020 average). In 2026 it ran from about May 4 to June 29. The weeks right after, late June to mid-July, are usually the most stable. Then the typhoons arrive: on average 1.5 approach Okinawa and Amami in July, 2.3 in August, 2.0 in September, 1.1 in October. In August and September the trip works, but with spare days.

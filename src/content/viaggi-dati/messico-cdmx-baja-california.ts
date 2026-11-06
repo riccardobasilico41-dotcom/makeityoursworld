@@ -5,12 +5,14 @@ import type { TripMeta } from '@/lib/types'
 // resta nel markdown (src/content/viaggi/67-messico-cdmx-baja-california.md).
 // `titoloGiorno` deve combaciare esattamente con le intestazioni
 // "### Giorno N — ..." del markdown.
-// Guida non vissuta: nessun campo miaEsperienza; immagini dei giorni da
+// Viaggio di Rick (conferma 6/11/2026) scritto in forma di guida: nessun campo miaEsperienza; immagini dei giorni da
 // recuperare dopo (campo `immagine` omesso apposta).
 
 export const messicoCdmxBajaCaliforniaMeta: TripMeta = {
   tripSlug: 'messico-cdmx-baja-california',
   paeseSlug: 'messico',
+  provenienza: 'journey',
+  mesiConsigliati: [2, 3],
   ritmo:
     'Cittadino e a piedi nei primi cinque giorni a Città del Messico; poi un roadtrip in Baja California Sur con uscite in barca all\'alba, due tappe di guida lunga (Bahía Magdalena-Loreto e Loreto-Todos Santos) e giornate di mare.',
   trasporti:

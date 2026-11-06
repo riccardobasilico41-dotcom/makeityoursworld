@@ -1,7 +1,7 @@
 # Saudi Arabia in Two Weeks: Jeddah, Hegra, Riyadh and the Asir Mountains
 
 **Stato bozza:** 🟡 in progress (itinerary and practical information verified and up to date)
-**Periodo del viaggio:** November to March, except for the Asir, where the good season is summer
+**Periodo del viaggio:**
 **Durata:** 12 days, 11 nights
 **Compagni di viaggio:** with friends, independent, with domestic flights, a rental car and an e-visa
 **Categoria:** Medio Oriente · Arabia Saudita · archeologia · deserto · montagna

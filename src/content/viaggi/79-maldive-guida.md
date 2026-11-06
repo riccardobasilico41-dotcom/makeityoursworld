@@ -1,7 +1,7 @@
 # Maldive: guida completa tra isole locali, resort, mante e squali balena
 
 **Stato bozza:** 🟡 in lavorazione (stagioni, regole, trasporti e siti marini verificati a ottobre 2026; ricordi personali, isole e alloggi usati, prezzi pagati e operatori da aggiungere dal diario)
-**Periodo del viaggio:** tutto l'anno, con dicembre-aprile come stagione secca e agosto-ottobre come stagione delle mante a Hanifaru
+**Periodo del viaggio:**
 **Durata:** modulare, da una settimana a due; esempio pronto di 10 giorni tra isola locale e resort
 **Compagni di viaggio:** con amici, in autonomia, con speedboat, traghetti pubblici, idrovolanti o voli interni e centri diving locali
 **Categoria:** Asia · Maldive · Oceano Indiano · mare · snorkeling · immersioni · isole locali · resort · liveaboard
@@ -11,7 +11,7 @@
 ## Apertura personale
 Le Maldive non sono solo i bungalow sull'acqua delle foto. Dal 2009 i maldiviani possono aprire guesthouse sulle isole abitate, e oggi si può dormire in un villaggio di pescatori, mangiare curry di tonno con le famiglie e uscire in barca con i pescatori a una frazione del prezzo di un resort, per poi chiudere il viaggio con qualche notte in un resort. È il modo in cui sono costruiti questo viaggio e questa guida.
 
-Il motivo per venire resta il mare: 26 atolli, circa 1.200 isole, barriere coralline che scendono nel blu e canali dove l'oceano entra ed esce con la marea portando plancton e grandi animali. Mante, squali balena, squali martello, squali tigre, tartarughe in quasi ogni immersione. La guida spiega quando andare mese per mese, quale atollo scegliere e perché, come comportarsi sulle isole locali, come organizzare escursioni e spostamenti, dove vedere i pesci più grandi e in che periodo, come stare al sicuro in acqua e come funziona una crociera subacquea, il liveaboard. In fondo un itinerario d'esempio di dieci giorni, da adattare.
+Il motivo per venire resta il mare: 26 atolli, circa 1.200 isole, barriere coralline che scendono nel blu e canali dove l'oceano entra ed esce con la marea portando plancton e grandi animali. Mante, squali balena, squali martello, squali tigre, tartarughe in quasi ogni immersione. La guida spiega quando andare mese per mese, quale atollo scegliere e perché, come comportarsi sulle isole locali, come organizzare escursioni e spostamenti, dove vedere i pesci più grandi e in che periodo, come stare al sicuro in acqua e come funziona una crociera subacquea, il liveaboard. In fondo un itinerario di dieci giorni, da adattare.
 
 È una guida per chi ama il mare più del lusso, per chi fa snorkeling o immersioni e per chi vuole vedere com'è la vita sulle isole oltre il resort.
 
@@ -69,7 +69,7 @@ Conta più l'atollo della singola isola: da un atollo all'altro cambiano molto l
 - **Cibo:** niente maiale; cucina basata su tonno, riso, cocco e curry, con i «short eats» (snack salati e dolci) del pomeriggio e il mas huni (tonno, cocco, cipolla e peperoncino) a colazione.
 - **Silenzio durante la preghiera** vicino alle moschee, foto solo con permesso, scarpe tolte entrando nelle case.
 
-**La soluzione migliore per un primo viaggio** è spesso mista: qualche notte su un'isola locale per le escursioni e la vita del villaggio, poi due o tre notti in un resort per la house reef e il riposo. È lo schema dell'itinerario d'esempio.
+**La soluzione migliore per un primo viaggio** è spesso mista: qualche notte su un'isola locale per le escursioni e la vita del villaggio, poi due o tre notti in un resort per la house reef e il riposo. È lo schema dell'itinerario.
 
 ## Come muoversi e organizzarsi
 - **Arrivo:** l'aeroporto internazionale Velana è su un'isola davanti a Malé. Da qui partono speedboat, idrovolanti e voli interni; Malé si raggiunge in traghetto (circa 10 minuti, 1-2 $) o in bus sul ponte; Hulhumalé, l'isola artificiale accanto, in bus o taxi.
@@ -124,7 +124,7 @@ Un liveaboard, o «safari boat», è una crociera subacquea di solito di una set
 
 **Per chi è:** per sub certificati che vogliono immergersi molto. Per i canali e le rotte del Sud servono un brevetto avanzato e un buon numero di immersioni (spesso almeno 50). Esistono anche crociere di snorkeling per chi non si immerge, una buona soluzione per vedere molti atolli quando si viaggia con un sub. Non è adatto a chi soffre il mare: i trasferimenti tra atolli possono essere mossi, soprattutto da maggio a novembre. Da controllare nella scelta: età e manutenzione della barca, dhoni d'appoggio separato, ossigeno e attrezzatura di emergenza a bordo, numero massimo di sub per guida.
 
-## L'itinerario d'esempio in breve
+## L'itinerario in breve
 Un esempio di dieci giorni pensato per una prima volta: quattro notti su un'isola locale di Ari Sud per gli squali balena, le mante e la vita del villaggio, tre notti in un resort per la house reef, una notte di margine vicino all'aeroporto. Le isole e il resort sono da scegliere secondo budget e stagione: lo schema funziona anche con Malé Sud o Vaavu al posto di Ari, o con Baa in agosto-ottobre.
 
 ## Itinerario giorno per giorno

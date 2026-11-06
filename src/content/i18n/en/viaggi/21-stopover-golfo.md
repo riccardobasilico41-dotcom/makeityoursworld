@@ -1,7 +1,7 @@
 # The Gulf on a stopover: Dubai, Abu Dhabi, Doha and Jeddah, in pieces or all together
 
 **Stato bozza:** 🟡 in progress
-**Periodo del viaggio:** November to March. In the Gulf it's the only window when you can stay outdoors
+**Periodo del viaggio:**
 **Durata:** 7 days if done back to back; each block is designed to work on its own in 24-48 hours
 **Compagni di viaggio:** with friends, on our own, using the stopover programs of the Gulf airlines
 **Categoria:** Medio Oriente · Emirati Arabi Uniti · Qatar · Arabia Saudita · stopover · architettura · deserto

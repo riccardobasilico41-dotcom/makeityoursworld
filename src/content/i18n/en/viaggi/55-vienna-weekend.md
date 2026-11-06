@@ -1,7 +1,7 @@
 # Vienna on a Long Weekend
 
 **Stato bozza:** 🟡 in progress (trip taken by Rick; itinerary and practical information verified)
-**Periodo del viaggio:** **April-May or September-October**
+**Periodo del viaggio:**
 **Durata:** 3-4 days, 3 nights
 **Compagni di viaggio:** with friends, independent, all on foot and by public transport
 **Categoria:** Europa · Austria · Vienna · arte · musica · gastronomia

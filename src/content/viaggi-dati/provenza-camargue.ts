@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const provenzaCamargueMeta: TripMeta = {
   tripSlug: 'provenza-camargue',
   paeseSlug: 'francia',
+  provenienza: 'journey',
+  mesiConsigliati: [5, 6, 7, 9, 10],
   ritmo: 'Romani e villaggi a est, delta e cavalli al centro, castelli catari e canali a ovest',
   trasporti: 'Auto a noleggio per tutto il percorso',
   stile: [

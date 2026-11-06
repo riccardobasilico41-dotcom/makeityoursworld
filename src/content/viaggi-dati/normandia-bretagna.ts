@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const normandiaBretagnaMeta: TripMeta = {
   tripSlug: 'normandia-bretagna',
   paeseSlug: 'francia',
+  provenienza: 'journey',
+  mesiConsigliati: [5, 6, 9],
   ritmo: 'Cinque giorni di Normandia densa e storica, sette di Bretagna lenta e costiera, con il Mont-Saint-Michel come cerniera',
   trasporti: 'Auto a noleggio per quasi tutto il percorso',
   stile: [

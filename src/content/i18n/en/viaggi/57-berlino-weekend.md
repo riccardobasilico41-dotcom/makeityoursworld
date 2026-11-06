@@ -1,7 +1,7 @@
 # Berlin in Four Days
 
 **Stato bozza:** 🟡 work in progress (trip taken by Rick; itinerary and practical information verified)
-**Periodo del viaggio:** **May-September**
+**Periodo del viaggio:**
 **Durata:** 4 days, 3-4 nights
 **Compagni di viaggio:** with friends, independent, by public transport
 **Categoria:** Europa · Germania · Berlino · storia · memoria · vita notturna

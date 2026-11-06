@@ -37,6 +37,7 @@ const T = {
       troppi: 'Hai inviato molte domande di seguito: riprova più tardi.',
       server: 'Non sono riuscito a salvare la domanda. Riprova tra poco.',
       pagina: 'Questa pagina non accetta domande. Ricarica e riprova.',
+      chiuso: 'Le domande sono momentaneamente chiuse.',
     },
   },
   en: {
@@ -68,6 +69,7 @@ const T = {
       troppi: 'You have sent many questions in a row: please try again later.',
       server: 'I could not save the question. Please try again shortly.',
       pagina: 'This page does not accept questions. Reload and try again.',
+      chiuso: 'Questions are closed for now.',
     },
   },
   es: {
@@ -99,6 +101,7 @@ const T = {
       troppi: 'Has enviado muchas preguntas seguidas: vuelve a intentarlo más tarde.',
       server: 'No he podido guardar la pregunta. Vuelve a intentarlo dentro de poco.',
       pagina: 'Esta página no acepta preguntas. Recarga y vuelve a intentarlo.',
+      chiuso: 'Las preguntas están cerradas por ahora.',
     },
   },
 } satisfies Record<Lingua, unknown>

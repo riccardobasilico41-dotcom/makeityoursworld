@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const napoli3GiorniMeta: TripMeta = {
   tripSlug: 'napoli-3-giorni',
   paeseSlug: 'italia',
+  provenienza: 'journey',
+  mesiConsigliati: [4, 5, 6, 9, 10],
   ritmo: 'Due giornate in città camminando sui decumani e una intera dedicata all\'archeologia vesuviana',
   trasporti: 'A piedi, metropolitana e funicolari in città; Circumvesuviana per gli scavi. Auto da escludere',
   stile: [

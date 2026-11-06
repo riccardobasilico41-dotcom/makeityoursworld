@@ -10,6 +10,8 @@ import type { TripMeta } from '@/lib/types'
 export const cinaClassicaMeta: TripMeta = {
   tripSlug: 'cina-classica',
   paeseSlug: 'cina',
+  provenienza: 'journey',
+  mesiConsigliati: [4, 5, 9, 10],
   ritmo: 'Sostenuto ma non sfiancante: quattro basi in quindici giorni, con i trasferimenti affidati all\'alta velocità invece che alle giornate di viaggio',
   trasporti: 'Treni ad alta velocità sull\'asse Pechino-Xi\'an-Shanghai, volo o treno lungo per Hong Kong, traghetto per Macao; metropolitana ovunque in città',
   stile: ['grandi classici', 'alta velocità', 'megalopoli'],

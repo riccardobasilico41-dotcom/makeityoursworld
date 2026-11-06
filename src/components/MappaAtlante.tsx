@@ -21,6 +21,14 @@ export type DatiAtlante = {
   fonte: string
   /** tinta altimetrica + rilievo; null = tinta piatta (città-Stato, atolli) */
   rilievo: { src: string; srcHd?: string; x: number; y: number; w: number; h: number } | null
+  /**
+   * Più Paesi sulla stessa mappa (rotta dei viaggi multi-Paese, src/lib/mappa-rotta.ts): un rilievo
+   * per Paese, ciascuno ritagliato sul proprio contorno (`clip`); senza `src` = tinta piatta.
+   * Se c'è, sostituisce `rilievo`.
+   */
+  rilievi?: { src?: string; srcHd?: string; x: number; y: number; w: number; h: number; clip: string }[]
+  /** terre di fondo a bassa risoluzione (Natural Earth), sotto i vicini: riempie i Paesi che nessun atlante disegna */
+  terra?: string
   /** `colore` = indice nella tavolozza delle velature: due vicini adiacenti non lo condividono */
   vicini: { id: string; colore: number; path: string }[]
   fiumi: { id: string; peso: number; path: string }[]
@@ -172,6 +180,8 @@ export function MappaAtlante({
   percorso: sequenza,
   sogliaLuogo = 1.5,
   proiezione,
+  filtri = true,
+  elenco: conElenco = true,
 }: {
   nomePaese: string
   mappa: DatiMappa
@@ -183,6 +193,10 @@ export function MappaAtlante({
   /** sotto questa distanza (unità mappa) due punti sono «lo stesso posto»: deve combaciare con il server */
   sogliaLuogo?: number
   proiezione: { y0: number; s: number; oy: number }
+  /** `false` nasconde i filtri Tutto/Destinazioni/Esperienze (la rotta di un viaggio ha solo tappe) */
+  filtri?: boolean
+  /** `false` toglie l'elenco dei luoghi nel pannello (la pagina viaggio ha già l'elenco delle tappe con i link) */
+  elenco?: boolean
 }) {
   const lingua = useLingua()
   const t = T[lingua]
@@ -624,13 +638,15 @@ export function MappaAtlante({
 
   return (
     <div className="mt-10">
-      <div className="flex flex-wrap items-center gap-2" role="toolbar" aria-label={t.filtra}>
-        {chip('tutto', t.tutto)}
-        {nD > 0 && chip('destinazione', t.destinazioni(nD))}
-        {nE > 0 && chip('esperienza', t.esperienze(nE))}
-      </div>
+      {filtri && (
+        <div className="mb-6 flex flex-wrap items-center gap-2" role="toolbar" aria-label={t.filtra}>
+          {chip('tutto', t.tutto)}
+          {nD > 0 && chip('destinazione', t.destinazioni(nD))}
+          {nE > 0 && chip('esperienza', t.esperienze(nE))}
+        </div>
+      )}
 
-      <div className="mt-6 grid items-start gap-6 lg:grid-cols-[7fr_5fr] lg:gap-10">
+      <div className="grid items-start gap-6 lg:grid-cols-[7fr_5fr] lg:gap-10">
         <div>
           <div
             ref={boxRef}
@@ -670,6 +686,11 @@ export function MappaAtlante({
                 <clipPath id={P('paese')}>
                   <path d={mappa.path} />
                 </clipPath>
+                {atlante.rilievi?.map((r, i) => (
+                  <clipPath key={i} id={P(`r-${i}`)}>
+                    <path d={r.clip} />
+                  </clipPath>
+                ))}
                 <mask id={P('traccia')} maskUnits="userSpaceOnUse" x={0} y={0} width={mappa.w} height={mappa.h}>
                   <path
                     d={percorso}
@@ -715,6 +736,10 @@ export function MappaAtlante({
                 ))}
               </g>
 
+              {atlante.terra && (
+                <path d={atlante.terra} fill={VELATURE[5][1]} fillOpacity={0.55} stroke={BORDO_VICINO} strokeWidth={0.9} strokeLinejoin="round" vectorEffect="non-scaling-stroke" />
+              )}
+
               {/* Paesi vicini: una velatura tenue ciascuno, più carica lungo il confine (come i vecchi atlanti) */}
               <g>
                 {atlante.vicini.map((v) => {
@@ -732,7 +757,26 @@ export function MappaAtlante({
               {/* il Paese: inchiostro sotto, carta, rilievo ritagliato sulla forma */}
               <path d={mappa.path} fill="none" stroke="var(--color-ink)" strokeWidth={2.6} strokeLinejoin="round" vectorEffect="non-scaling-stroke" />
               <path d={mappa.path} fill="var(--color-cream)" />
-              {atlante.rilievo ? (
+              {atlante.rilievi ? (
+                atlante.rilievi.map((r, i) =>
+                  r.src ? (
+                    <image
+                      key={i}
+                      href={dettaglio && r.srcHd ? r.srcHd : r.src}
+                      x={r.x}
+                      y={r.y}
+                      width={r.w}
+                      height={r.h}
+                      preserveAspectRatio="none"
+                      clipPath={`url(#${P(`r-${i}`)})`}
+                      data-rilievo=""
+                      opacity={0.98}
+                    />
+                  ) : (
+                    <path key={i} d={r.clip} fill={TINTA_PIATTA} opacity={0.9} />
+                  ),
+                )
+              ) : atlante.rilievo ? (
                 <image
                   href={atlante.rilievo.src}
                   x={atlante.rilievo.x}
@@ -747,7 +791,7 @@ export function MappaAtlante({
               ) : (
                 <path d={mappa.path} fill={TINTA_PIATTA} opacity={0.9} />
               )}
-              {dettaglio && atlante.rilievo?.srcHd && (
+              {dettaglio && !atlante.rilievi && atlante.rilievo?.srcHd && (
                 <image
                   href={atlante.rilievo.srcHd}
                   x={atlante.rilievo.x}
@@ -958,10 +1002,12 @@ export function MappaAtlante({
               </svg>
               {t.percorso}
             </li>
-            <li className="inline-flex items-center gap-1.5">
-              <span className="inline-block size-3 rounded-full border-2 border-rosso bg-cream" aria-hidden />
-              {t.fuoriPercorso}
-            </li>
+            {nD > tappe.length && (
+              <li className="inline-flex items-center gap-1.5">
+                <span className="inline-block size-3 rounded-full border-2 border-rosso bg-cream" aria-hidden />
+                {t.fuoriPercorso}
+              </li>
+            )}
             {nE > 0 && (
               <li className="inline-flex items-center gap-1.5">
                 <span className="inline-block size-2 rounded-full bg-ink" aria-hidden />
@@ -1030,6 +1076,7 @@ export function MappaAtlante({
             <div>
               <p className="text-xs font-semibold uppercase tracking-[0.18em] text-rosso">{t.sullaMappa(nomePaese)}</p>
               <p className="mt-3 text-base leading-relaxed text-stone">{t.tocca}</p>
+              {conElenco && (<>
               <ul className="mt-6 divide-y divide-alpine/10 border-y border-alpine/10">
                 {elenco
                   .filter((p) => visibile(p))
@@ -1055,6 +1102,7 @@ export function MappaAtlante({
                   })}
               </ul>
               {punti.filter((p) => visibile(p)).length > 12 && <p className="mt-2 text-xs text-stone/85">{t.altri(punti.filter((p) => visibile(p)).length - 12)}</p>}
+              </>)}
             </div>
           )}
         </div>

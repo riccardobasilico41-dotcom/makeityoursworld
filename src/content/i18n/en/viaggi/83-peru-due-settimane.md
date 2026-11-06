@@ -1,7 +1,7 @@
 # Peru in Two Weeks: Lima, Arequipa, Lake Titicaca, Cusco and Machu Picchu
 
 **Stato bozza:** 🟡 work in progress (two-week version of the long trip through Peru: routes, times, costs and warnings come from there and need to be rechecked before you go)
-**Periodo del viaggio:** designed for May to September, the Andean dry season. Rick has been to Peru three times, in 2018, 2021 and 2024
+**Periodo del viaggio:** three trips to Peru, in 2018, 2021 and 2024
 **Durata:** 14 days, 13 nights, plus 3-4 optional days for the Amazon or for Huaraz
 **Compagni di viaggio:** with friends, independently, with domestic flights, tourist buses, the train to Machu Picchu and organized tours in the Colca and on Titicaca
 **Categoria:** Sud America · Perù · Ande · alta quota · cultura inca · Machu Picchu · lago Titicaca
@@ -12,6 +12,8 @@
 The moment I carry with me from Peru is Machu Picchu at sunrise. Getting in among the first, with the citadel still almost empty, pays you back for the wake-up in the dark. I've been to Peru three times, and the complete loop I wrote up takes a month. Here I keep the Andean part, the one almost everyone does on a first trip: two weeks from Lima to Arequipa, the Colca, Titicaca, Cusco, the Sacred Valley and Machu Picchu.
 
 Compared to the long trip, I reversed the direction. You start in the south and climb one step at a time: first Arequipa at 2,300 meters (about 7,500 ft), then the canyon, then Puno and finally Cusco. Machu Picchu comes at the end, when your body has gotten used to the altitude.
+
+I've also been to Peru twice as a volunteer: in Cusco with Proyecto Cusimaki, a project I support and invite you to visit, and in Arequipa as a volunteer osteopath.
 
 ## Scheda pratica
 - **When to go:** May to September, the dry season in the Andes. In February the Inca Trail closes for maintenance. On June 24 there's Inti Raymi in Cusco: the city is packed and prices are high, so book well ahead.
@@ -85,7 +87,7 @@ Cusco-Lima flight, about an hour and twenty minutes, and connection to the inter
 - **Only buses from the main companies** on long routes.
 - **Don't get ripped off by agencies**, which are on every corner in Cusco: compare prices and reviews before paying for a tour.
 
-## Se hai 3-4 giorni in più
+## If you have 3-4 more days
 **The Amazon from Puerto Maldonado (3-4 days).** After Machu Picchu, instead of flying to Lima, you fly from Cusco to **Puerto Maldonado**, a little over an hour, and continue by boat to a lodge in the **Tambopata** reserve. Three days are enough for the canopy walkway among the treetops, **Lake Sandoval** with giant otters and sunrise at the **collpa**, the clay wall where hundreds of parrots and macaws gather. It was the moment that turned the visit around: in the dense forest you hear far more than you see, and there for twenty minutes we couldn't look at anything else. Choose the lodge for its distance from the city more than for luxury: from the nearby ones you see very little. Roughly $300-600 for 3 nights, all inclusive. Then Puerto Maldonado-Lima flight and home. Yellow fever vaccination is recommended, and required by some lodges. The other gateways, Iquitos and Manu, take a full week: they're covered in the [Amazon section](/amazzonia).
 
 **Huaraz and the Cordillera Blanca (4 days).** From Lima, at the end of the loop, overnight bus to **Huaraz** (about 8 hours), only with the main companies. After coming down to sea level you have to start acclimatizing again: a light day in town, one at **Laguna Churup** at about 4,450 meters, then **Laguna 69** at 4,600, a turquoise that looks retouched. The last forty minutes above 4,500 meters were a fight for breath, twenty steps and a rest. It costs a few tens of dollars with a Huaraz agency, at a fraction of the crowds on the Cusco circuit. On the evening of the fourth day, overnight bus to Lima. The four-day Santa Cruz trek takes a week: it's in the [long trip through Peru](/viaggi/peru-itinerario).

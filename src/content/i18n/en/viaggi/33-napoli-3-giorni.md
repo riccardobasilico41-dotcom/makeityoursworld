@@ -1,7 +1,7 @@
 # Naples in 3 Days, with Pompeii and Herculaneum
 
 **Stato bozza:** 🟡 in progress (itinerary and practical information verified; the first-person passages are written as a draft to be reread and personalized)
-**Periodo del viaggio:** **April-early June and September-October**
+**Periodo del viaggio:**
 **Durata:** 3 days, 2 nights — with the archaeology day outside the city
 **Compagni di viaggio:** with friends, independent, all on foot, metro and local trains
 **Categoria:** Europa · Italia · Napoli · archeologia · arte · gastronomia

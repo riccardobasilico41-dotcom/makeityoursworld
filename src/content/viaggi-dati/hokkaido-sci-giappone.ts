@@ -7,6 +7,8 @@ import type { TripMeta } from '@/lib/types'
 export const hokkaidoSciGiapponeMeta: TripMeta = {
   tripSlug: 'hokkaido-sci-giappone',
   paeseSlug: 'giappone',
+  provenienza: 'journey',
+  mesiConsigliati: [12, 1, 2],
   ritmo:
     'Sette giorni di sci su undici, con due giorni a Sapporo e due trasferimenti lunghi (Sapporo-Niseko e Niseko-Furano). Il giorno con la guida nel fuori pista fa anche da giorno di riposo.',
   trasporti:

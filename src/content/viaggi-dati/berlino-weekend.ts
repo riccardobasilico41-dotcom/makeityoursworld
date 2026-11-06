@@ -12,6 +12,8 @@ import type { TripMeta } from '@/lib/types'
 export const berlinoWeekendMeta: TripMeta = {
   tripSlug: 'berlino-weekend',
   paeseSlug: 'germania',
+  provenienza: 'journey',
+  mesiConsigliati: [5, 6, 7, 8, 9],
   ritmo: 'Quattro giorni di calendario, un giorno in più rispetto a un weekend lungo, per via delle dimensioni della città, con una giornata isolata dedicata al Muro e alla memoria',
   trasporti: 'Rete BVG di U-Bahn, S-Bahn, tram e bus: quasi indispensabile per spostarsi tra i quartieri, a differenza di centri storici più compatti; nessuna auto necessaria',
   stile: [
@@ -34,7 +36,6 @@ export const berlinoWeekendMeta: TripMeta = {
     'L\'ala nord del Pergamonmuseum, con la Sala dell\'Altare di Pergamo, è chiusa dal 2023 per ristrutturazione con riapertura non prevista a breve',
     'La domenica quasi tutti i negozi sono chiusi per la legge tedesca sugli orari di apertura (Ladenschlussgesetz)',
     'A Checkpoint Charlie i figuranti travestiti da soldati chiedono un pagamento a cose fatte per le foto',
-    'Nessuna parte di questo itinerario nasce da un soggiorno reale: è una scheda di ricerca, non un diario',
   ],
   budgetTotale: undefined,
   viaggioInBreve: {

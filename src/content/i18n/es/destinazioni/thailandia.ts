@@ -782,7 +782,7 @@ export const destinazioniThailandia: Destinazione[] = [
     nome: 'Chiang Rai',
     tipologia: ['cultura', 'templi', 'arte'],
     giorniConsigliati: '2 días, más uno para el Triángulo de Oro',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione: 'La gran ciudad más al norte de Tailandia, conocida por tres lugares de artista: el Templo Blanco, el Templo Azul y la Casa Negra.',
     percheAndarci: 'Es la base para el Triángulo de Oro, y sus templos modernos no se parecen a nada de lo que se ve en el resto del país.',
     cosaVedere: [
@@ -849,7 +849,7 @@ export const destinazioniThailandia: Destinazione[] = [
     nome: 'Triángulo de Oro: Sop Ruak y Chiang Saen',
     tipologia: ['cultura', 'storia', 'fiume'],
     giorniConsigliati: '1 día, desde Chiang Rai',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione: 'El punto donde el río Ruak desemboca en el Mekong, en la frontera entre Tailandia, Laos y Myanmar: desde los años cincuenta una de las grandes zonas productoras de opio del mundo.',
     percheAndarci: 'Por la historia más que por el paisaje: el Hall of Opium la cuenta bien, y Chiang Saen añade las ruinas de una ciudad antigua a orillas del Mekong.',
     cosaVedere: [
@@ -908,7 +908,7 @@ export const destinazioniThailandia: Destinazione[] = [
     nome: 'Pai y el loop de Mae Hong Son',
     tipologia: ['montagna', 'natura', 'strada'],
     giorniConsigliati: '2 días en Pai; 4-5 para el loop completo',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione: 'Un pueblo en un valle verde al noroeste de Chiang Mai, en la carretera de montaña que lleva a Mae Hong Son y a la frontera con Myanmar.',
     percheAndarci: 'Para unos días tranquilos entre cañones, arrozales y aguas termales, y para quien quiere seguir por las carreteras de montaña del noroeste.',
     cosaVedere: [

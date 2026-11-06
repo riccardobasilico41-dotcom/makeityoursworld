@@ -1,7 +1,7 @@
 # Capitales nórdicas: Copenhague, Estocolmo y Oslo en 9 días
 
 **Stato bozza:** 🟡 en preparación (viaje hecho por Rick; itinerario e información práctica verificados)
-**Periodo del viaggio:** **de mayo a septiembre**, con junio-agosto como temporada alta (mejor clima, pero más caro y con más gente); abril y octubre siguen siendo viables, con menos gente y precios más bajos
+**Periodo del viaggio:**
 **Durata:** 9 días, 8 noches (3 días por capital)
 **Compagni di viaggio:** con amigos, por libre, con tren y vuelo interno entre las tres capitales, y todo lo demás a pie, en bici o en transporte público
 **Categoria:** Europa · Danimarca · Svezia · Norvegia · città · design · cultura nordica

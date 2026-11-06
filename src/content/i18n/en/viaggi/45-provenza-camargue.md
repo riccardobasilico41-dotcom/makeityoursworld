@@ -1,7 +1,7 @@
 # Provence, Camargue and Occitanie in 10 Days
 
 **Stato bozza:** 🟡 work in progress (itinerary and practical information verified)
-**Periodo del viaggio:** **May-June or September-October**; **late June-early August** for lavender
+**Periodo del viaggio:**
 **Durata:** 10 days, 9 nights
 **Compagni di viaggio:** with friends, independent, rental car
 **Categoria:** Europa · Francia · Provenza · Camargue · Occitania
@@ -12,6 +12,7 @@
 Provence, the Camargue and Occitanie are three different Mediterranean landscapes in one itinerary: villages and Roman ruins to the east, delta and horses in the middle, Cathar castles and canals to the west. It's a trip that combines Roman archaeology, wild nature and a medieval history little known outside France.
 
 ## Scheda pratica
+- **When to go:** **May-June or September-October**; **late June-early August** for lavender
 - **Lavender**: the window is narrow and changes from plateau to plateau, so it's worth checking the situation a few days before.
 - **Calanques**: in summer access changes day by day because of the fire risk, so always check.
 - **Crit'Air sticker** for Marseille and Aix.

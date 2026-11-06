@@ -1,7 +1,7 @@
 # California road trip in 19 giorni: San Francisco, Yosemite, Sequoia, Death Valley, Joshua Tree, Los Angeles e Big Sur
 
 **Stato bozza:** 🟡 in lavorazione (itinerario, prezzi, regole dei parchi e stato delle strade verificati a ottobre 2026; ricordi personali da aggiungere dal diario)
-**Periodo del viaggio:** pensato per metà aprile-inizio giugno o per settembre-metà ottobre, quando Yosemite e Sequoia sono aperti senza neve, il deserto è caldo ma sopportabile e la costa ha meno nebbia
+**Periodo del viaggio:**
 **Durata:** 19 giorni, 18 notti
 **Compagni di viaggio:** con amici, in autonomia, con un'auto a noleggio ritirata e riconsegnata a San Francisco e circa 2.800-3.000 km di guida
 **Categoria:** Nord America · Stati Uniti · California · road trip · parchi nazionali · deserto · Highway 1

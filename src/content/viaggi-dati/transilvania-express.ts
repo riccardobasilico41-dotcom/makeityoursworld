@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const transilvaniaExpressMeta: TripMeta = {
   tripSlug: 'transilvania-express',
   paeseSlug: 'transilvania',
+  provenienza: 'journey',
+  mesiConsigliati: [],
   ritmo: 'Molto intenso — fino a 5 ore di guida in un solo giorno, e un altro tratto di 3h45 non-stop',
   trasporti: 'Auto a noleggio self-drive per tutto il viaggio, Uber/Bolt/taxi negli spostamenti in città',
   stile: ['on the road', 'castelli', 'road trip'],

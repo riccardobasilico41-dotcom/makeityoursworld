@@ -1,7 +1,7 @@
 # Classic Japan in 17 Days: Tokyo, Hakone, the Japanese Alps, Kyoto, Kōya-san and Miyajima
 
-**Stato bozza:** 🟡 work in progress (a guide itinerary built from research on official sources, checked in November 2026; no personal memories in the text, the stops actually done are to be confirmed with Rick)
-**Periodo del viaggio:** designed for late April to early June or for October to mid-November, when Kamikochi is open and the Alps are not under snow; in winter it works with the variants listed below
+**Stato bozza:** 🟡 in progress (places Rick visited, put together into one practical route; practical information checked in October-November 2026, to recheck before departure; first-person memories only those given by Rick, none invented)
+**Periodo del viaggio:**
 **Durata:** 17 days, 16 nights; 14- and 21-day variants at the end
 **Compagni di viaggio:** independently, by train with a 14-day JR Pass plus local buses (Nakasendō, Kamikochi, Shirakawa-go) and the private Nankai line for Kōya-san
 **Categoria:** Asia · Giappone · cultura · Alpi giapponesi · villaggi storici · onsen · on the road
@@ -12,6 +12,8 @@
 The classic trip to Japan runs almost entirely along the Pacific coast: Tokyo, Fuji, Kyoto, Osaka, Hiroshima. This itinerary keeps that backbone and adds the interior, the part many people skip on a first trip. The Japanese Alps, the old Nakasendō road between Magome and Tsumago, Takayama with its morning markets, the thatched-roof houses of Shirakawa-go, Kanazawa and the sacred mountain of Kōya-san.
 
 The site already has another trip to Japan, [the 12 April days among sakura, Fuji and Kyoto](/viaggi/giappone-itinerario). This one is something else. It has more days, fewer big cities and more nights in ryokan, shukubō and mountain villages. Of Tokyo, Kyoto and Osaka it keeps the minimum: if you want the detail of those days, you'll find it there.
+
+Like every trip on this site, it's rooted in places I've personally visited and experiences I've actually lived, put together into one practical route.
 
 ## Scheda pratica
 - **When to go:** late April to early June and October to mid-November. Kamikochi opens in mid-April and closes in mid-November (in 2026 from April 17 to November 15). June-July is the rainy season over most of Honshu, August is hot and humid. In winter Shirakawa-go and Takayama are under snow: beautiful, but Kamikochi is closed and the Nakasendō can have snow on its stone steps.

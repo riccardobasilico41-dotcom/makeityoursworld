@@ -1,7 +1,7 @@
 # Egipto completo en 21 días: pirámides, Siwa, Abu Simbel, el Nilo y las inmersiones en el mar Rojo
 
 **Stato bozza:** 🟡 en preparación (itinerario, precios 2026, transportes y normas verificados en octubre de 2026)
-**Periodo del viaggio:** construido sobre octubre-noviembre o marzo-abril, los dos periodos en los que aguantan juntos el desierto, el Alto Egipto y el mar; de diciembre a febrero funciona todo salvo el mar, que es más frío y ventoso
+**Periodo del viaggio:**
 **Durata:** 21 días, 20 noches
 **Compagni di viaggio:** con amigos, por libre, con conductores y guías locales, un todoterreno con operador autorizado en Siwa, un vuelo interno, tres noches de crucero por el Nilo y un centro de buceo en el mar Rojo
 **Categoria:** Africa · Egitto · archeologia · deserto · oasi · crociera sul Nilo · immersioni · Mar Rosso
@@ -273,7 +273,7 @@ Traslado al aeropuerto de **Marsa Alam** o de Hurghada y vuelo a Italia. En el c
 - En el aeropuerto 3 horas antes: controles a la entrada y en la puerta de embarque
 - Las libras que sobran se gastan antes de la salida
 
-## Dove dormire
+## Dónde dormir
 - **Guiza (noches 1-3):** económico: guesthouses con terraza sobre las pirámides, 30-50 € · gama media: hoteles boutique cerca del GEM, 70-120 € · lujo: Marriott Mena House.
 - **El Cairo (noche 4):** económico: hoteles de Downtown, 30-50 € · gama media: Zamalek, 70-120 € · lujo: grandes hoteles sobre el Nilo en Garden City.
 - **Marsa Matruh (noche 5):** hoteles en el paseo marítimo, 40-80 €.
@@ -284,7 +284,7 @@ Traslado al aeropuerto de **Marsa Alam** o de Hurghada y vuelo a Italia. En el c
 - **Luxor, orilla oeste (noches 15-17):** económico: guesthouses entre los campos, 25-40 € · gama media: pequeños hoteles con piscina, 50-90 € · lujo: Al Moudira.
 - **Marsa Alam (noches 18-20):** gama media: resort con arrecife y centro de buceo propio, 70-130 € · para buceadores: ecolodges como Wadi Lahami.
 
-## Dove mangiare
+## Dónde comer
 - **El Cairo:** koshari en Abou Tarek, ful y taameya en el desayuno, **molokhia** y **fattah** en los restaurantes de cocina egipcia como Zooba o Abou El Sid, mezze y pescado en Zamalek.
 - **Alejandría:** pescado a la parrilla elegido en el puesto en los restaurantes del puerto, y los dulces de Délices, la pastelería histórica.
 - **Siwa:** dátiles y aceitunas del oasis, **abu mardam** (carne cocinada bajo la arena), pan cocido en hornos de barro, té de menta dulcísimo.

@@ -51,6 +51,9 @@ const T = {
     periodo: 'Periodo migliore',
     dormire: 'Dove dormire',
     avviso: 'Prezzi, orari e regole di prenotazione cambiano spesso: verificare sempre sui canali ufficiali prima di partire.',
+    verificate: 'Informazioni pratiche verificate il',
+    su: 'su',
+    parziale: 'Alcuni dati non confermati sono indicati in modo generico: fanno fede i siti ufficiali.',
   },
   en: {
     home: 'Home',
@@ -74,6 +77,9 @@ const T = {
     periodo: 'Best time to go',
     dormire: 'Where to stay',
     avviso: 'Prices, hours and booking rules change often: always check the official channels before you go.',
+    verificate: 'Practical information checked on',
+    su: 'on',
+    parziale: 'Some details we could not confirm are given in general terms: the official sites are the reference.',
   },
   es: {
     home: 'Inicio',
@@ -97,6 +103,9 @@ const T = {
     periodo: 'Mejor época',
     dormire: 'Dónde dormir',
     avviso: 'Los precios, horarios y normas de reserva cambian a menudo: comprueba siempre los canales oficiales antes de viajar.',
+    verificate: 'Información práctica verificada el',
+    su: 'en',
+    parziale: 'Algunos datos no confirmados se indican de forma general: las webs oficiales son la referencia.',
   },
 } satisfies Record<Lingua, Record<string, string>>
 
@@ -262,6 +271,27 @@ export default async function MeravigliaPage({ params }: { params: Promise<{ slu
               </div>
             )}
             <FirmaAutore />
+            {meraviglia.verificataIl && meraviglia.fonti && meraviglia.fonti.length > 0 && (
+              <p className="border-t border-alpine/10 pt-4 text-xs leading-relaxed text-stone/85">
+                {t.verificate}{' '}
+                {new Date(`${meraviglia.verificataIl}T12:00:00Z`).toLocaleDateString(LOCALE[lingua].html, {
+                  day: 'numeric',
+                  month: 'long',
+                  year: 'numeric',
+                  timeZone: 'UTC',
+                })}{' '}
+                {t.su}{' '}
+                {meraviglia.fonti.map((f, i) => (
+                  <span key={f.url}>
+                    {i > 0 && ', '}
+                    <a href={f.url} target="_blank" rel="noopener noreferrer" className="underline decoration-alpine/30 underline-offset-2 hover:text-alpine">
+                      {f.titolo}
+                    </a>
+                  </span>
+                ))}
+                .{meraviglia.statoVerifica === 'parziale' && ` ${t.parziale}`}
+              </p>
+            )}
           </div>
 
           <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">

@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const torino2GiorniMeta: TripMeta = {
   tripSlug: 'torino-2-giorni',
   paeseSlug: 'italia',
+  provenienza: 'journey',
+  mesiConsigliati: [4, 5, 6, 9, 10, 11],
   ritmo: 'Due giornate compatte, con il Museo Egizio che si prende mezza giornata da solo e il resto sotto i portici',
   trasporti: 'A piedi e sotto i portici, con una linea di metropolitana automatica e le funicolari',
   stile: [

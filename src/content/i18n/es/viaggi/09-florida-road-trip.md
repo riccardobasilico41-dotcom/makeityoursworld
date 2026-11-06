@@ -1,6 +1,7 @@
 # Florida en 10 días: de los Cayos a Orlando, on the road entre caimanes, playas y cohetes
 
 **Stato bozza:** 🟡 en elaboración
+**Periodo del viaggio:**
 **Durata:** 10 días, 9 noches
 **Compagni di viaggio:** con amigos, coche de alquiler self-drive (Sixt)
 **Categoria:** Nord America · USA · Florida · on the road · road trip · mare

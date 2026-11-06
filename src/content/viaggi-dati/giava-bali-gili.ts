@@ -13,6 +13,7 @@ const LUNGO = '/images/viaggi/indonesia-itinerario'
 export const giavaBaliGiliMeta: TripMeta = {
   tripSlug: 'giava-bali-gili',
   paeseSlug: 'indonesia',
+  mesiConsigliati: [5, 6, 7, 8, 9],
   ritmo:
     'Intenso nella prima settimana (sveglie notturne per Borobudur, Bromo e Ijen, una giornata intera di treni), più lento a Bali e alle Gili, con tre notti finali senza spostamenti lunghi',
   trasporti:

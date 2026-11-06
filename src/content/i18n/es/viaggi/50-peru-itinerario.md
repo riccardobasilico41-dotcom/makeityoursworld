@@ -1,7 +1,7 @@
 # Perú en 31 días: de los Andes a la Amazonia, hasta la Cordillera Blanca
 
 **Stato bozza:** 🟡 en elaboración (itinerario e información práctica completos y verificados; apertura, cierre y pasajes en primera persona a partir de los recuerdos del autor)
-**Periodo del viaggio:** tres viajes, en 2018, en 2021 y en 2024, reunidos en un único itinerario pensado para mayo-septiembre: la estación seca que cubre tanto los Andes como la Cordillera Blanca, los dos bloques de este itinerario. En la Amazonia la estación «seca» (mayo-octubre) es de todos modos más húmeda de lo que el nombre sugiere
+**Periodo del viaggio:** tres viajes, en 2018, 2021 y 2024
 **Durata:** 31 días, 30 noches
 **Compagni di viaggio:** con amigos, por nuestra cuenta, con vuelos internos, autobuses turísticos y nocturnos, tren a Machu Picchu, tours organizados en el Titicaca y en el Colca, guías obligatorios en la Amazonia y agencias de trekking en Huaraz
 **Categoria:** Sud America · Perù · Ande · trekking · alta quota · Amazzonia · cultura inca
@@ -10,6 +10,8 @@
 
 ## Apertura personale
 El momento que me llevo de Perú es Machu Picchu al amanecer. Entrar entre los primeros, cuando la ciudadela está todavía casi vacía, compensa el despertador en plena oscuridad y el camino para llegar. He estado en Perú tres veces, en 2018, en 2021 y en 2024, y este itinerario pone en fila en un único recorrido de treinta y un días lo que vi en esos viajes. La **Parte 1**, diecisiete días, es el Perú andino: Lima, Cusco, el Valle Sagrado, Machu Picchu, el Titicaca, Arequipa y el Colca. La **Parte 2**, catorce días, añade la Amazonia y la Cordillera Blanca, dos ampliaciones que parten ambas de Lima.
+
+También estuve en Perú dos veces como voluntario: en Cusco con el Proyecto Cusimaki, un proyecto que apoyo y que invito a visitar, y en Arequipa como osteópata voluntario.
 
 ## Scheda pratica
 - **Cuándo ir:** este itinerario sigue la estación seca andina, **de mayo a septiembre**, que cubre tanto la Parte 1 (Cusco, Valle Sagrado, Titicaca, Arequipa) como la Cordillera Blanca de la Parte 2. Fuera de esta ventana los senderos de altura se vuelven fangosos o impracticables, y en febrero el Camino Inca cierra del todo por mantenimiento. La Amazonia no tiene una verdadera estación seca: la ventana mayo-octubre (aguas bajas) solo hace más practicables los senderos y más fácil avistar la fauna a lo largo de los ríos.

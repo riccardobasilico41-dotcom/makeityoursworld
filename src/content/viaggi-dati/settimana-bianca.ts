@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const settimanaBiancaMeta: TripMeta = {
   tripSlug: 'settimana-bianca',
   paeseSlug: 'italia',
+  provenienza: 'journey',
+  mesiConsigliati: [1, 3],
   ritmo: 'Sostenuto ma calibrato: sei giorni sugli sci con una giornata di recupero a metà e una fuori dagli impianti',
   trasporti: 'Auto con catene o gomme invernali obbligatorie per legge, skibus di valle, e gli sci come mezzo di trasporto dentro il comprensorio',
   stile: ['sci', 'montagna', 'inverno'],

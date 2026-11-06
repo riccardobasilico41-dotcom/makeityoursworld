@@ -1,7 +1,7 @@
 # I Castelli della Loira in 6 giorni
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
-**Periodo del viaggio:** **aprile-giugno oppure settembre-ottobre**
+**Periodo del viaggio:**
 **Durata:** 6 giorni, 5 notti
 **Compagni di viaggio:** con amici, in autonomia, auto più una giornata in bicicletta
 **Categoria:** Europa · Francia · Loira · castelli · giardini

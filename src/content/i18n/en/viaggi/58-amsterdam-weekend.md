@@ -1,7 +1,7 @@
 # Amsterdam on a Long Weekend
 
 **Stato bozza:** 🟡 in progress
-**Periodo del viaggio:** **April-May or September-October**
+**Periodo del viaggio:**
 **Durata:** 4 days, 3 nights
 **Compagni di viaggio:** with friends, on our own, on foot and by bicycle
 **Categoria:** Europa · Paesi Bassi · Amsterdam · città · arte · cicloturismo

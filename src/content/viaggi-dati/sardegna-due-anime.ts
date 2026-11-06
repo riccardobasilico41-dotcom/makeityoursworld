@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const sardegnaDueAnimeMeta: TripMeta = {
   tripSlug: 'sardegna-due-anime',
   paeseSlug: 'italia',
+  provenienza: 'journey',
+  mesiConsigliati: [5, 6, 9],
   ritmo: 'Una diagonale da Olbia a Cagliari che mette in fila la Sardegna che si conosce e quella che comincia venti chilometri più in là',
   trasporti: 'Auto a noleggio in formula one-way, aperto su Olbia e chiuso su Cagliari; barca per l\'arcipelago della Maddalena e il Golfo di Orosei',
   stile: [

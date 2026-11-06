@@ -1,7 +1,7 @@
 # Montenegro in 10 Days: From the Bay of Kotor to Durmitor and the Tara Canyon
 
 **Stato bozza:** 🟡 in progress (complete itinerary and practical information, verified in October 2026)
-**Periodo del viaggio:** designed for late May-June and September, with July-August possible but crowded on the coast
+**Periodo del viaggio:**
 **Durata:** 10 days, 9 nights
 **Compagni di viaggio:** with friends, independent, with a rental car, the Kamenari ferry and a few boat and inflatable-raft excursions
 **Categoria:** Europa · Balcani · Montenegro · Bocche di Cattaro · mare · montagna · roadtrip · monasteri

@@ -10,7 +10,7 @@ export const destinazioniInghilterra: Destinazione[] = [
     nome: 'London',
     tipologia: ['città', 'musei', 'cultura'],
     giorniConsigliati: '4 days',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'The capital of the United Kingdom, on the Thames. Westminster and Buckingham Palace, the Tower and Tower Bridge, the free national museums, the royal parks and neighbourhoods that are very different from one another, from Covent Garden to Notting Hill.',
     percheAndarci:
@@ -135,7 +135,7 @@ export const destinazioniInghilterra: Destinazione[] = [
     nome: 'Cotswolds',
     tipologia: ['campagna', 'borghi', 'natura'],
     giorniConsigliati: '2-3 days',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       "An area of hills and honey-coloured limestone villages, almost 800 square miles spread across five counties: Gloucestershire, Oxfordshire, Warwickshire, Wiltshire and Worcestershire. It's a protected area, the Cotswolds National Landscape.",
     percheAndarci:
@@ -231,7 +231,7 @@ export const destinazioniInghilterra: Destinazione[] = [
     nome: 'Oxford',
     tipologia: ['città', 'cultura', 'università'],
     giorniConsigliati: '1 day',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'The oldest university city in the English-speaking world, with its pale stone colleges, libraries and quadrangles. It lies between London and the Cotswolds, on the same railway line.',
     percheAndarci: "For the colleges, the Radcliffe Camera and the Bodleian, in a day on foot. It's also the most convenient place to pick up the car for the Cotswolds.",
@@ -252,7 +252,7 @@ export const destinazioniInghilterra: Destinazione[] = [
     nome: 'Bath',
     tipologia: ['città', 'storia', 'terme'],
     giorniConsigliati: '1 day',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       "A city of golden stone built around hot springs, with the Roman baths, the abbey and 18th-century Georgian buildings. It's a UNESCO World Heritage Site.",
     percheAndarci: 'For the Roman baths, the Georgian crescents and the natural end of a trip through the Cotswolds, before returning to London by train.',

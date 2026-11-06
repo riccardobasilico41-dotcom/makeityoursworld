@@ -1,7 +1,7 @@
 # Provenza, Camarga y Occitania en 10 días
 
 **Stato bozza:** 🟡 en elaboración
-**Periodo del viaggio:** **mayo-junio o septiembre-octubre**; **finales de junio-principios de agosto** para quien quiera ver la lavanda
+**Periodo del viaggio:**
 **Durata:** 10 días, 9 noches
 **Compagni di viaggio:** con amigos, por nuestra cuenta, con coche de alquiler
 **Categoria:** Europa · Francia · Provenza · Camargue · Occitania
@@ -12,6 +12,7 @@
 Provenza, Camarga y Occitania son tres paisajes mediterráneos distintos reunidos en un solo itinerario: pueblos y romanos al este, delta y caballos en el centro, castillos cátaros y canales al oeste. Es un viaje que une arqueología romana, naturaleza salvaje y una historia medieval poco conocida fuera de Francia.
 
 ## Scheda pratica
+- **Cuándo ir:** **mayo-junio o septiembre-octubre**; **finales de junio-principios de agosto** para quien quiera ver la lavanda
 - **Lavanda**: la ventana es estrecha y cambia de una meseta a otra, conviene comprobar el estado pocos días antes.
 - **Calanques**: en verano el acceso cambia día a día por el riesgo de incendios, hay que comprobarlo siempre.
 - **Pegatina Crit'Air** para Marsella y Aix.

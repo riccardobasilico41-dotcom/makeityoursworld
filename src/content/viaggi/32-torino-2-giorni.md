@@ -1,7 +1,7 @@
 # Torino in 2 giorni: l'Egitto, la Mole e i portici
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
-**Periodo del viaggio:** **aprile-giugno e settembre-novembre**; ottimo anche d'inverno
+**Periodo del viaggio:**
 **Durata:** 2 giorni, 1 notte — estendibile a 3 con la Venaria o le Langhe
 **Compagni di viaggio:** con amici, in autonomia, a piedi e in metro
 **Categoria:** Europa · Italia · Torino · musei · architettura · gastronomia

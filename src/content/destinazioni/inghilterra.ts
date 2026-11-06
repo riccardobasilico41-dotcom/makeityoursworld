@@ -14,7 +14,7 @@ export const destinazioniInghilterra: Destinazione[] = [
     nome: 'Londra',
     tipologia: ['città', 'musei', 'cultura'],
     giorniConsigliati: '4 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La capitale del Regno Unito, sul Tamigi. Westminster e Buckingham Palace, la Torre e Tower Bridge, i musei nazionali gratuiti, i parchi reali e quartieri molto diversi tra loro, da Covent Garden a Notting Hill.',
     percheAndarci:
@@ -139,7 +139,7 @@ export const destinazioniInghilterra: Destinazione[] = [
     nome: 'Cotswolds',
     tipologia: ['campagna', 'borghi', 'natura'],
     giorniConsigliati: '2-3 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Una zona di colline e villaggi di pietra calcarea color miele, quasi 800 miglia quadrate a cavallo di cinque contee: Gloucestershire, Oxfordshire, Warwickshire, Wiltshire e Worcestershire. È un\'area protetta, la Cotswolds National Landscape.',
     percheAndarci:
@@ -235,7 +235,7 @@ export const destinazioniInghilterra: Destinazione[] = [
     nome: 'Oxford',
     tipologia: ['città', 'cultura', 'università'],
     giorniConsigliati: '1 giorno',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La città universitaria più antica del mondo anglofono, con i college di pietra chiara, le biblioteche e i cortili. Sta tra Londra e le Cotswolds, e si ferma lungo la stessa linea ferroviaria.',
     percheAndarci: 'Per i college, la Radcliffe Camera e la Bodleian, in una giornata a piedi. È anche il posto più comodo per ritirare l\'auto per le Cotswolds.',
@@ -256,7 +256,7 @@ export const destinazioniInghilterra: Destinazione[] = [
     nome: 'Bath',
     tipologia: ['città', 'storia', 'terme'],
     giorniConsigliati: '1 giorno',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Una città di pietra dorata costruita intorno alle sorgenti calde, con le terme romane, l\'abbazia e i palazzi georgiani del Settecento. È patrimonio UNESCO.',
     percheAndarci: 'Per le terme romane, i crescent georgiani e la fine naturale di un viaggio nelle Cotswolds, prima di rientrare a Londra in treno.',

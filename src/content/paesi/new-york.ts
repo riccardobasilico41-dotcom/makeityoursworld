@@ -8,7 +8,7 @@ export const newYork: Paese = {
   stato: 'Stati Uniti',
   titolo: 'New York: grattacieli, quartieri e una partita a testa tra baseball e basket',
   descrizione:
-    'Sei giorni a New York, 15-20 km a piedi al giorno: Times Square di notte, il tramonto dal Top of the Rock, la Statua della Libertà, un musical a Broadway, DUMBO con il ponte di Manhattan sullo sfondo e una partita dal vivo, baseball in piena corsa ai playoff o basket WNBA con le New York Liberty. Il programma è più ricco di quanto si riesca a fare in una settimana, di proposito: bisogna scegliere le priorità.',
+    'Sei giorni nella città di New York (non lo stato omonimo, che è molto più grande), 15-20 km a piedi al giorno: Times Square di notte, il tramonto dal Top of the Rock, la Statua della Libertà, un musical a Broadway, DUMBO con il ponte di Manhattan sullo sfondo e una partita dal vivo, baseball in piena corsa ai playoff o basket WNBA con le New York Liberty. Il programma è più ricco di quanto si riesca a fare in una settimana, di proposito: bisogna scegliere le priorità.',
   periodoMigliore: 'settembre, per unire la corsa ai playoff MLB (baseball) con i playoff WNBA delle New York Liberty (la stagione NBA inizia solo a ottobre)',
   durataConsigliata: '6-7 giorni per coprire Manhattan e Brooklyn senza correre troppo',
   budgetIndicativo: 'circa 200-280€ per fare quasi tutto (esclusi volo e hotel)',

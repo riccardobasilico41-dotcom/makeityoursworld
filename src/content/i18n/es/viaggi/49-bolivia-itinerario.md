@@ -1,7 +1,7 @@
 # Bolivia en 19 días: La Paz, el salar de Uyuni, el Titicaca y la Amazonia
 
 **Stato bozza:** 🟡 en elaboración (itinerario e información práctica completos y verificados)
-**Periodo del viaggio:** de mayo a octubre, la estación seca, cuando el salar de Uyuni está seco y se puede recorrer entero, las pistas del Sud Lípez son transitables y las noches en altura, aunque gélidas, no se complican con la lluvia
+**Periodo del viaggio:**
 **Durata:** 19 días, 18 noches
 **Compagni di viaggio:** con amigos, por libre, con vuelos internos, autobuses nocturnos, el tour organizado en 4x4 obligatorio en el Sud Lípez y guías locales en las minas de Potosí y en las pampas del Madidi
 **Categoria:** Sud America · Bolivia · alta quota · deserti di sale · avventura · cultura andina · Amazzonia

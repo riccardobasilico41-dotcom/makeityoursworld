@@ -1,7 +1,7 @@
 # Cina classica in 15 giorni: Pechino, Xi'an, Shanghai, Hong Kong e Macao
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche completi e verificati; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare — mancano date esatte, nomi degli alloggi e prezzi effettivamente pagati)
-**Periodo del viaggio:** primavera o autunno [anno da confermare] — la finestra giusta è aprile-maggio oppure settembre-ottobre, evitando la prima settimana di ottobre
+**Periodo del viaggio:**
 **Durata:** 15 giorni, 14 notti
 **Compagni di viaggio:** con amici, in autonomia, con treni ad alta velocità prenotati dall'Italia
 **Categoria:** Asia · Cina · grandi classici · alta velocità · megalopoli · storia

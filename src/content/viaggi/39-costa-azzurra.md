@@ -1,7 +1,7 @@
 # Costa Azzurra: 8 giorni da Antibes, con il Mercantour
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare — qui più che altrove, perché sono due anni vissuti davvero)
-**Periodo del viaggio:** **maggio-giugno oppure metà settembre-ottobre**
+**Periodo del viaggio:**
 **Durata:** 8 giorni, 7 notti, base fissa ad Antibes
 **Compagni di viaggio:** con amici, in autonomia, senza auto per la costa, con auto per il Mercantour
 **Categoria:** Europa · Francia · Costa Azzurra · mare · arte · montagna

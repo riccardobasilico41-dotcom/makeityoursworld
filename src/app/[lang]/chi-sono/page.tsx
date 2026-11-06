@@ -37,7 +37,7 @@ const T = {
       'Tra lo studio e i progetti digitali per la sanità c’è sempre un’idea nuova da far partire. E se c’è una cresta da salire, un fondale da esplorare o un salto da fare, voglio provarlo almeno una volta.',
     viaggio: 'Come viaggio',
     viaggioTesto: (v: number, p: number) =>
-      `Di solito con amici, organizzando tutto da me. Sul sito ci sono ${v} itinerari in ${p} Paesi: per ognuno scrivo cosa ho fatto davvero, cosa rifarei e cosa cambierei.`,
+      `Di solito con amici, organizzando tutto da me. Sul sito ci sono ${v} itinerari in ${p} Paesi: tutti nascono da luoghi che ho visitato e da esperienze che ho vissuto, e alcuni uniscono più viaggi in un unico percorso. Per ognuno scrivo cosa ho fatto, cosa rifarei e cosa cambierei.`,
     numeri: (v: number, p: number) => [`${v} itinerari`, `${p} Paesi`, 'giorno per giorno'],
     link: [
       { href: '/come-lavoro', testo: 'Come scrivo e verifico le pagine' },
@@ -62,7 +62,7 @@ const T = {
       'Between the clinic and digital health projects there’s always a new idea to get off the ground. And if there’s a ridge to climb, a reef to explore or a jump to take, I want to try it at least once.',
     viaggio: 'How I travel',
     viaggioTesto: (v: number, p: number) =>
-      `Usually with friends, planning everything myself. The site has ${v} itineraries across ${p} countries: for each one I write what I actually did, what I’d do again and what I’d change.`,
+      `Usually with friends, planning everything myself. The site has ${v} itineraries across ${p} countries: all of them are rooted in places I’ve visited and experiences I’ve lived, and some bring several trips together into one route. For each one I write what I did, what I’d do again and what I’d change.`,
     numeri: (v: number, p: number) => [`${v} itineraries`, `${p} countries`, 'day by day'],
     link: [
       { href: '/come-lavoro', testo: 'How I write and check these pages' },
@@ -87,7 +87,7 @@ const T = {
       'Entre la consulta y los proyectos digitales para la sanidad siempre hay una idea nueva por arrancar. Y si hay una cresta que subir, un fondo marino que explorar o un salto que dar, quiero probarlo al menos una vez.',
     viaggio: 'Cómo viajo',
     viaggioTesto: (v: number, p: number) =>
-      `Normalmente con amigos, organizándolo todo yo. En la web hay ${v} itinerarios en ${p} países: en cada uno cuento lo que hice de verdad, lo que repetiría y lo que cambiaría.`,
+      `Normalmente con amigos, organizándolo todo yo. En la web hay ${v} itinerarios en ${p} países: todos nacen de lugares que he visitado y de experiencias que he vivido, y algunos unen varios viajes en una sola ruta. En cada uno cuento lo que hice, lo que repetiría y lo que cambiaría.`,
     numeri: (v: number, p: number) => [`${v} itinerarios`, `${p} países`, 'día a día'],
     link: [
       { href: '/come-lavoro', testo: 'Cómo escribo y compruebo las páginas' },

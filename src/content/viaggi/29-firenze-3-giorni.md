@@ -1,7 +1,7 @@
 # Firenze in 3 giorni (e la versione da 2 che regge)
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
-**Periodo del viaggio:** **aprile-maggio oppure ottobre-novembre**
+**Periodo del viaggio:**
 **Durata:** 3 giorni, 2 notti — con una versione compressa da 2 giorni
 **Compagni di viaggio:** con amici, in autonomia, tutto a piedi
 **Categoria:** Europa · Italia · Firenze · arte · Rinascimento · gastronomia

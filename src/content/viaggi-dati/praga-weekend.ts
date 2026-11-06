@@ -10,6 +10,8 @@ import type { TripMeta } from '@/lib/types'
 export const pragaWeekendMeta: TripMeta = {
   tripSlug: 'praga-weekend',
   paeseSlug: 'repubblica-ceca',
+  provenienza: 'journey',
+  mesiConsigliati: [4, 5, 9, 10],
   ritmo: 'Tre-quattro giorni di calendario, un centro storico compatto e Vyšehrad come mezza giornata più tranquilla a chiusura del weekend',
   trasporti: 'Centro storico a piedi, metro e tram per il resto della città; nessuna auto necessaria',
   stile: [
@@ -32,7 +34,6 @@ export const pragaWeekendMeta: TripMeta = {
     'Ristoranti intorno alla Piazza della Città Vecchia e via Karlova con conti gonfiati e "welcome drink" non richiesti',
     'Borseggi concentrati sul tram 22, la linea che sale verso il Castello',
     'Occasionali finti agenti di polizia che chiedono soldi per strada',
-    'Nessuna parte di questo itinerario nasce da un soggiorno reale: è una scheda di ricerca, non un diario',
   ],
   budgetTotale: undefined,
   viaggioInBreve: {

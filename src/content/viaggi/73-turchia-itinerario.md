@@ -1,7 +1,7 @@
 # Turchia in 16 giorni: Istanbul, la Cappadocia, Pamukkale, Efeso e la costa licia
 
 **Stato bozza:** 🟡 in lavorazione (itinerario, prezzi e regole verificati a ottobre 2026 su fonti ufficiali e guide recenti; ricordi personali da aggiungere dal diario)
-**Periodo del viaggio:** pensato per maggio-giugno o settembre-ottobre, quando Istanbul e la Cappadocia hanno un clima piacevole e il mare della costa licia è già o ancora caldo
+**Periodo del viaggio:**
 **Durata:** 16 giorni, 15 notti
 **Compagni di viaggio:** con amici, in autonomia, con un volo interno Istanbul-Cappadocia, un bus notturno per Pamukkale e un'auto a noleggio da Denizli ad Antalya
 **Categoria:** Medio Oriente · Turchia · Istanbul · Cappadocia · archeologia · road trip · mare

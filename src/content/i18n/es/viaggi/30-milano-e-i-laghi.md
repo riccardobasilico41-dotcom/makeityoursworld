@@ -1,7 +1,7 @@
 # Milán en 2 días, la versión de 1, y los lagos en el día
 
 **Stato bozza:** 🟡 en elaboración
-**Periodo del viaggio:** **abril-junio y septiembre-octubre** para la ciudad; **mayo-junio y septiembre** para los lagos
+**Periodo del viaggio:**
 **Durata:** 2 días, 1 noche, con una versión de 1 día y las excursiones a los lagos
 **Compagni di viaggio:** con amigos, por libre, metro y trenes regionales
 **Categoria:** Europa · Italia · Milano · Lago di Como · design · arte
@@ -56,7 +56,7 @@ La tarde es para la Milán del otro siglo, según los gustos:
 
 Al final de la jornada, el cuadrante norte: **Porta Nuova** con el **Bosco Verticale**, dos torres residenciales con cientos de árboles de verdad en los balcones, que en verano dan sombra y en invierno dejan pasar la luz, y el paseo hacia **Isola**, el barrio con más vida de la Milán nueva. Como alternativa **CityLife**, con las tres torres de Isozaki, Hadid y Libeskind y el parque alrededor.
 
-## La versione da un giorno
+## La versión de un día
 Un día en Milán funciona estupendamente, mejor que en casi cualquier otra ciudad italiana, porque el centro es compacto y el metro es rápido. El programa:
 
 - **Mañana:** **terrazas del Duomo** a la apertura, interior de la catedral, Galería, Piazza della Scala.

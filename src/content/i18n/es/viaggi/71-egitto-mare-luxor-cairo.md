@@ -1,7 +1,7 @@
 # Egipto en 11 días: El Cairo, las pirámides, Luxor y el mar Rojo
 
 **Stato bozza:** 🟡 en preparación (itinerario, precios y normas verificados en octubre de 2026 en fuentes oficiales y guías recientes)
-**Periodo del viaggio:** pensado para octubre-abril, cuando en El Cairo y en Luxor se visita sin calor extremo y el mar Rojo sigue siendo apto para el baño; en mayo y en octubre el mar está en su mejor momento y los yacimientos se visitan al amanecer
+**Periodo del viaggio:**
 **Durata:** 11 días, 10 noches
 **Compagni di viaggio:** con amigos, por libre, con un vuelo interno El Cairo-Luxor, conductor privado para el traslado Luxor-mar y algún guía local
 **Categoria:** Africa · Egitto · archeologia · piramidi · Nilo · Mar Rosso · snorkeling
@@ -170,13 +170,13 @@ Traslado al aeropuerto de **Marsa Alam** (o de Hurghada) y vuelo directo a Itali
 - Llegar al aeropuerto 3 horas antes: los controles son dobles, a la entrada y en la puerta de embarque
 - Las últimas libras egipcias se gastan antes de la puerta de embarque: fuera del país no se cambian
 
-## Dove dormire
+## Dónde dormir
 - **Guiza:** económico: guesthouses con terraza sobre las pirámides en Nazlet el-Semman, 30-50 € por noche · gama media: hoteles boutique cerca del GEM, 70-120 € · lujo: Marriott Mena House, bajo Keops.
 - **Luxor:** económico: guesthouses en la orilla oeste, 25-40 € · gama media: hoteles sobre el Nilo en la orilla este, 60-110 € · lujo: Sofitel Winter Palace, Al Moudira en la orilla oeste.
 - **Marsa Alam:** gama media: resorts todo incluido con arrecife delante, 70-130 € por habitación · lujo: resorts más aislados con playa privada, más de 180 € · para buceadores: ecolodges como Wadi Lahami, con centro de buceo en el lugar.
 - **Hurghada:** económico: hoteles en la ciudad, 40-60 € · gama media: Sahl Hasheesh y Makadi, 70-130 € · lujo: El Gouna.
 
-## Dove mangiare
+## Dónde comer
 - **El Cairo:** el **koshari** (arroz, lentejas, pasta, garbanzos y cebolla frita) en Abou Tarek; **ful medames** y **taameya** (las albóndigas de habas) en el desayuno en los puestos; cocina tradicional en Zooba o Abou El Sid; la **molokhia** y el **fattah** para quien quiere el plato de casa.
 - **Luxor:** pichón relleno de arroz (**hamam mahshi**), tajín de carne y verduras y pan baladi caliente en las tabernas de la orilla oeste; zumo de caña de azúcar fresco en los puestos.
 - **Mar Rojo:** pescado a la parrilla en los restaurantes del puerto de Hurghada; en los resorts todo incluido conviene al menos una cena fuera para el pescado del día.

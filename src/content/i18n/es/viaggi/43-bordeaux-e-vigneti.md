@@ -1,7 +1,7 @@
 # Burdeos y sus viñedos en 7 días
 
 **Stato bozza:** 🟡 en elaboración (itinerario e información práctica verificados)
-**Periodo del viaggio:** **septiembre-octubre (vendimia) o mayo-junio**
+**Periodo del viaggio:**
 **Durata:** 7 días, 6 noches
 **Compagni di viaggio:** con amigos, por libre, con coche y un conductor designado para las catas
 **Categoria:** Europa · Francia · Bordeaux · vino · costa atlantica
@@ -12,6 +12,7 @@
 Burdeos reúne una ciudad que se recorre a pie y un territorio que sin coche no se ve. El itinerario cubre las dos orillas del viñedo (Médoc y Saint-Émilion) más Sauternes, y termina con el océano en la Cuenca de Arcachon.
 
 ## Scheda pratica
+- **Cuándo ir:** **septiembre-octubre (vendimia) o mayo-junio**
 - **Base:** la ciudad de Burdeos.
 - **Conducir y vino no se llevan bien:** conductor designado que no prueba, excursiones con acompañante, o escupir en la cata (es lo normal, no una ofensa).
 - **Cita siempre obligatoria** para los grandes châteaux.

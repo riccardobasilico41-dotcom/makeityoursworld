@@ -51,7 +51,7 @@ export async function CountryHero({
     { label: t.durataViaggio, value: viaggio?.durata, icona: Clock },
     { label: t.periodoViaggio, value: viaggio?.periodo, icona: CalendarDays },
     { label: t.budgetViaggio, value: viaggio?.budget, icona: Wallet },
-    { label: t.tipologia, value: viaggio?.stile?.join(' · '), icona: Compass },
+    { label: t.tipologia, value: viaggio?.stile && etichette(viaggio.stile, lingua).join(' · '), icona: Compass },
   ].filter((v): v is { label: string; value: string; icona: typeof Clock } => Boolean(v.value?.trim()))
 
   return (

@@ -1,7 +1,7 @@
 # Bulgaria on the Snow: Skiing in Bansko and Rila Monastery
 
 **Stato bozza:** 🟢 ready for the site
-**Periodo del viaggio:** ski season, December-April
+**Periodo del viaggio:** ski season
 **Durata:** 5-6 days
 **Compagni di viaggio:** with friends, rental car from Sofia, driven to Bansko
 **Categoria:** Europa · Bulgaria · sci · montagna · Balcani

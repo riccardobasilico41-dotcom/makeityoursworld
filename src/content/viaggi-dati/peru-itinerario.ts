@@ -19,6 +19,8 @@ import type { TripMeta } from '@/lib/types'
 export const peruItinerarioMeta: TripMeta = {
   tripSlug: 'peru-itinerario',
   paeseSlug: 'peru',
+  provenienza: 'combined',
+  mesiConsigliati: [5, 6, 7, 8, 9],
   ritmo:
     'Impegnativo negli innesti in quota (Cusco, Puno, Huaraz) e nel trek di Santa Cruz, ma con giorni di trasferimento e di riposo intercalati apposta per l\'acclimatamento, mai a caso; il ritmo si allenta nella Valle Sacra, ad Arequipa e nei lodge amazzonici, dove è il pacchetto a organizzare tutto.',
   trasporti:

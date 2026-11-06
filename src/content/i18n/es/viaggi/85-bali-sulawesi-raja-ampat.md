@@ -1,7 +1,7 @@
 # Bali, Célebes y Raja Ampat en dos semanas: de los arrozales a los arrecifes más ricos del mundo
 
 **Stato bozza:** 🟡 en preparación (Bali, Célebes y Raja Ampat los ha visto Rick, Raja Ampat en agosto de 2026; vuelos, ferris y precios verificados el 5 de noviembre de 2026 en fuentes oficiales y del sector, que hay que volver a comprobar antes de salir. Importe del permiso de Raja Ampat para extranjeros sin confirmar)
-**Periodo del viaggio:** pensado para julio-octubre. Bali y Célebes están en la estación seca de abril-mayo a octubre; en Raja Ampat la mejor ventana va de octubre a abril, pero en verano el mar sigue siendo precioso, con más viento y menos gente
+**Periodo del viaggio:** Raja Ampat en agosto de 2026
 **Durata:** 12 días, 11 noches
 **Compagni di viaggio:** por libre, con conductor en Bali, un operador local en el norte de Célebes, tres vuelos internos, ferri rápido y barcas de los homestays en Raja Ampat
 **Categoria:** Asia · Indonesia · Bali · Sulawesi · Raja Ampat · mare · snorkeling · immersioni · natura
@@ -14,6 +14,8 @@ Raja Ampat es el lugar más bonito que he visto bajo el agua, y también el más
 Doce días son pocos para tres islas, y lo digo de entrada: cada isla merece al menos una semana, si no más. Esta es la ruta para quien tiene poco tiempo y quiere ver lo distinta que es Indonesia de una isla a otra. Más abajo están también las dos versiones con una sola isla además de Bali: solo Célebes o solo Raja Ampat. Se eligen según la época.
 
 Fuimos en agosto, que en todas las guías aparece como la temporada equivocada para Raja Ampat. En parte lo es, pero de una forma distinta de la que se espera: el mar estuvo espectacular igualmente, diez días sin ver una gota de lluvia. El viento, en cambio, se hizo notar, y alargó un par de traslados entre las islas.
+
+Este itinerario combina varios viajes en una sola ruta práctica: lugares que he visitado personalmente en momentos distintos, ordenados para descubrir lo mejor de cada destino.
 
 ## Scheda pratica
 - **Cuándo ir:** en Bali la estación seca va de abril a octubre, en Célebes de mayo a octubre. En Raja Ampat la mejor ventana es octubre-abril, con el mar más tranquilo y más mantas y grandes pelágicos. De mayo a septiembre soplan los vientos del sureste: los traslados pueden alargarse y las salidas a las zonas expuestas pueden anularse. El mes que pone de acuerdo a las tres es **octubre**. En verano también funciona, aceptando el viento.

@@ -11,6 +11,7 @@ import type { TripMeta } from '@/lib/types'
 export const dolomitiRoadtripMeta: TripMeta = {
   tripSlug: 'dolomiti-roadtrip',
   paeseSlug: 'italia',
+  mesiConsigliati: [6, 7, 8, 9, 12, 1, 2, 3],
   ritmo:
     'Modulare, non lineare: si combinano le zone in base ai giorni disponibili, da un weekend su una zona sola a un giro di due settimane. Tre proposte pronte da 5, 7 e 10 giorni nella scheda pratica.',
   trasporti:

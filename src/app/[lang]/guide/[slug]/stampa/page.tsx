@@ -204,6 +204,8 @@ export default async function GuidaStampa({ params, searchParams }: PageProps<'/
     (a, r) => ({ senza: a.senza + r.senzaPass, con: a.con + r.conPass }),
     { senza: 0, con: 0 },
   )
+  // Giorni del viaggio, non schede: una scheda può coprire più giorni (`fino`), es. California 9 schede = 19 giorni.
+  const giorniTotali = Math.max(...g.giorni.map((d) => d.fino ?? d.numero))
   const kmTotali = g.giorni.flatMap((d) => d.tratte).reduce((a, t) => a + t.km, 0)
 
   return (
@@ -217,7 +219,7 @@ export default async function GuidaStampa({ params, searchParams }: PageProps<'/
         <div className="copertina-testo">
           <p className="marchio">make it yours.world</p>
           <div>
-            <p className="occhiello">Guida pratica · {g.giorni.length} giorni</p>
+            <p className="occhiello">Guida pratica · {giorniTotali} giorni</p>
             <h1>{g.titolo}</h1>
             <p className="copertina-sotto">{g.sottotitolo}</p>
             <p className="firma">di {g.autore}</p>

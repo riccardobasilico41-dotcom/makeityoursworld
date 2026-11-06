@@ -1,7 +1,7 @@
 # Ski Week in France: Which Ski Area to Choose
 
 **Stato bozza:** 🟡 work in progress (itinerary and practical information verified)
-**Periodo del viaggio:** **January-March, checking the French school holiday calendar**
+**Periodo del viaggio:**
 **Durata:** 7 days, 6 nights — the classic Saturday-to-Saturday week
 **Compagni di viaggio:** with friends, independent, residence apartment
 **Categoria:** Europa · Francia · sci · montagna
@@ -12,6 +12,7 @@
 France has the largest linked ski areas in the world, built from scratch starting in the 1960s with a single criterion: altitude. This itinerary follows a classic week on a big high-altitude ski area, with the option of swapping it for Chamonix for anyone looking for a different experience.
 
 ## Scheda pratica
+- **When to go:** **January-March, checking the French school holiday calendar**
 - **The real constraint is the school holiday calendar**, staggered across three zones: check it before booking.
 - **Piste rescue insurance**: in France rescue is paid for, so buy it with the ski pass.
 - **Lift pass online in advance**: it costs less than at the ticket office.

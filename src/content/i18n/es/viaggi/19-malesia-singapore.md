@@ -1,7 +1,7 @@
 # Malasia y Singapur en dos semanas: de Kuala Lumpur al estrecho, comiendo
 
 **Stato bozza:** 🟡 en elaboración
-**Periodo del viaggio:** de diciembre a marzo, la estación seca de la costa oeste, que es la que recorre este itinerario
+**Periodo del viaggio:**
 **Durata:** 14 días, 13 noches
 **Compagni di viaggio:** con amigos, por nuestra cuenta, con autobuses interurbanos, un vuelo interno y el autobús de frontera a Singapur
 **Categoria:** Asia · Malesia · Singapore · gastronomia · città coloniali · giungla

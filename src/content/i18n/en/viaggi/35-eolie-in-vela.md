@@ -1,7 +1,7 @@
 # The Aeolian Islands by Sail: Eight Days, Seven Islands
 
 **Stato bozza:** 🟡 in progress (itinerary and practical information verified)
-**Periodo del viaggio:** **June or September**
+**Periodo del viaggio:**
 **Durata:** 8 days, 7 nights — the classic Saturday-to-Saturday week
 **Compagni di viaggio:** with friends, on a sailboat, with a skipper
 **Categoria:** Europa · Italia · Sicilia · vela · vulcani · isole

@@ -1,7 +1,7 @@
 # The Sicilian Islands: Egadi, Pantelleria and Lampedusa in Two Weeks
 
 **Stato bozza:** 🟡 in progress (itinerary and practical information verified; the first-person passages are written as a draft to be reread and personalized)
-**Periodo del viaggio:** **late May-June or September**
+**Periodo del viaggio:**
 **Durata:** 12 days, 11 nights — three archipelagos that don't connect with each other
 **Compagni di viaggio:** with friends, independent, by domestic flights, ferries, bike and scooter
 **Categoria:** Europa · Italia · Sicilia · isole · mare · vulcani

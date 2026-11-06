@@ -1,7 +1,7 @@
 # Northern Spain in 8 Days: San Sebastián, Bilbao and the Coast Toward Santiago
 
 **Stato bozza:** 🟡 in progress (trip taken by Rick; itinerary and practical information verified)
-**Periodo del viaggio:** **June-September**
+**Periodo del viaggio:**
 **Durata:** 8 days, 7 nights
 **Compagni di viaggio:** with friends, independently, by car for the whole coastal route
 **Categoria:** Europa · Spagna · Paesi Baschi · Cantabria · Asturie · Galizia · gastronomia · cammino

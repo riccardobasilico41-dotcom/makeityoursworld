@@ -1648,7 +1648,7 @@ export const destinazioniItalia: Destinazione[] = [
     periodoMigliore:
       'aprile-giugno e settembre-ottobre. L\'inverno è freddo e nebbioso ma la città funziona; l\'estate è afosa e ad agosto Milano si svuota, con molti locali chiusi. Durante il Salone del Mobile (aprile) e le settimane della moda i prezzi degli alloggi triplicano e trovare posto è difficile.',
     costi:
-      'Per gli alloggi è la città più cara d\'Italia. Duomo e terrazze hanno un biglietto cumulativo; il Cenacolo costa poco, il problema è trovare posto.',
+      'Per gli alloggi è la città più cara d\'Italia. Duomo e terrazze hanno un biglietto cumulativo; il Cenacolo costa 15 euro intero (sito ufficiale, 2026), il problema è trovare posto.',
     erroriDaEvitare: [
       'Provare a vedere il Cenacolo senza prenotazione: **non si entra**, le aperture delle prenotazioni sono trimestrali e si esauriscono in poco tempo. È l\'errore più comune dei visitatori a Milano',
       'Entrare in centro in auto senza conoscere Area B e Area C',

@@ -1,7 +1,7 @@
 # Le grandi città in due settimane: Roma, Firenze, Venezia, Napoli
 
 **Stato bozza:** 🟡 in lavorazione (itinerario, contingentamenti e informazioni pratiche verificate e aggiornate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
-**Periodo del viaggio:** **da ottobre a marzo**, che è quando le città d'arte italiane tornano vivibili
+**Periodo del viaggio:**
 **Durata:** 12 giorni, 11 notti
 **Compagni di viaggio:** con amici, in autonomia, spostandosi solo in alta velocità
 **Categoria:** Europa · Italia · città d'arte · archeologia · gastronomia

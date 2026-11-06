@@ -6,7 +6,7 @@ export const peru: Paese = {
   continente: 'Sud America',
   titolo: "Perú: Machu Picchu, Amazonia, Titicaca y los treks que pocos hacen",
   descrizione:
-    "Ningún otro país de Sudamérica reúne tantas cosas distintas: la ciudadela inca más famosa del mundo y el trek olvidado de Choquequirao, tres puertas de entrada diferentes a la Amazonia, el lago navegable más alto del planeta con su extensión natural hacia Bolivia y una de las cocinas más premiadas del mundo.",
+    "Ningún otro país de Sudamérica reúne tantas cosas distintas: la ciudadela inca más famosa del mundo y el trek olvidado de Choquequirao, tres puertas de entrada diferentes a la Amazonia, el lago navegable más alto del planeta con su extensión natural hacia Bolivia y una de las cocinas más premiadas del mundo. También estuve en Perú dos veces como voluntario: en Cusco con el Proyecto Cusimaki, que apoyo e invito a visitar, y en Arequipa como osteópata.",
   periodoMigliore:
     "de mayo a septiembre, la estación seca en los Andes: cielos despejados sobre Machu Picchu y senderos practicables. En la Amazonia la estación «seca» es relativa y las lluvias nunca paran del todo.",
   durataConsigliata:

@@ -16,6 +16,7 @@ import type { TripMeta } from '@/lib/types'
 export const svizzeraAlpiVanMeta: TripMeta = {
   tripSlug: 'svizzera-alpi-van',
   paeseSlug: 'svizzera',
+  mesiConsigliati: [6, 7, 8, 9],
   ritmo:
     'Modulare: si combinano le zone in base ai giorni disponibili, da un weekend lungo di 3-4 giorni sulla sola Jungfrau Region a una settimana che arriva fino a Zermatt. Due proposte pronte nella scheda pratica.',
   trasporti:

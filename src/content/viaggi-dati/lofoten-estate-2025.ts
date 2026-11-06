@@ -10,6 +10,8 @@ import type { TripMeta } from '@/lib/types'
 export const lofotenEstate2025Meta: TripMeta = {
   tripSlug: 'lofoten-estate-2025',
   paeseSlug: 'norvegia',
+  provenienza: 'journey',
+  mesiConsigliati: [7],
   ritmo: 'Medio-intenso — trekking impegnativi alternati a giornate più tranquille, ma sempre in movimento',
   trasporti: 'Volo interno Oslo-Bodø, auto a noleggio per tutto il resto, traghetti locali tra isole e fiordi',
   stile: ['natura', 'avventura', 'on the road'],

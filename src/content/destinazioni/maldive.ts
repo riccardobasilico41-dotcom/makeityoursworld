@@ -116,7 +116,7 @@ export const destinazioniMaldive: Destinazione[] = [
     nome: 'Malé Sud e Vaavu',
     tipologia: ['isole locali', 'snorkeling', 'squali'],
     giorniConsigliati: '3-5 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Gli atolli più vicini all\'aeroporto verso sud: Malé Sud con Maafushi, Guraidhoo e Gulhi, e più in basso Vaavu, poco turistico, con Fulidhoo e i canali degli squali.',
     percheAndarci:
@@ -455,7 +455,7 @@ export const destinazioniMaldive: Destinazione[] = [
     nome: 'Baa e la baia di Hanifaru',
     tipologia: ['riserva UNESCO', 'mante', 'snorkeling'],
     giorniConsigliati: '3-4 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Un atollo riserva della biosfera UNESCO, con la piccola baia di Hanifaru dove tra giugno e novembre si radunano decine, a volte oltre cento, mante a nutrirsi del plancton.',
     percheAndarci:

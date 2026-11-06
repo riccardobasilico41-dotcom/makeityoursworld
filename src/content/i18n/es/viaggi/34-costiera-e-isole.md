@@ -1,7 +1,7 @@
 # Costa Amalfitana y las islas del golfo en 9 días
 
 **Stato bozza:** 🟡 en elaboración
-**Periodo del viaggio:** **mayo-junio o mediados de septiembre-principios de octubre**
+**Periodo del viaggio:**
 **Durata:** 9 días, 8 noches — divisible en dos bloques de 4-5
 **Compagni di viaggio:** con amigos, por libre, **sin coche**, todo en ferri, autobús y a pie
 **Categoria:** Europa · Italia · Campania · mare · trekking · isole

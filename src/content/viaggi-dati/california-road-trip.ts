@@ -4,11 +4,13 @@ import type { TripMeta } from '@/lib/types'
 // Sequoia, Death Valley, Joshua Tree, Los Angeles e Big Sur"
 // (src/content/viaggi/75-california-road-trip.md).
 // `titoloGiorno` deve combaciare esattamente con le intestazioni "### Giorno N — ..."
-// del markdown. Guida non vissuta: nessun campo personale, immagini da recuperare.
+// del markdown. Viaggio di Rick (conferma 6/11/2026) scritto in forma di guida: nessun campo personale, immagini da recuperare.
 
 export const californiaRoadTripMeta: TripMeta = {
   tripSlug: 'california-road-trip',
   paeseSlug: 'california',
+  provenienza: 'journey',
+  mesiConsigliati: [4, 5, 6, 9, 10],
   ritmo:
     'Road trip con molte ore di guida (circa 2.800-3.000 km), alternate a giornate piene a piedi nei parchi con partenze all\'alba; più tranquilli i giorni in città e sulla costa.',
   trasporti:

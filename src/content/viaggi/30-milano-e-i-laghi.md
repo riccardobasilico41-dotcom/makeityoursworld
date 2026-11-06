@@ -1,7 +1,7 @@
 # Milano in 2 giorni, la versione da 1, e i laghi in giornata
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
-**Periodo del viaggio:** **aprile-giugno e settembre-ottobre** per la città; **maggio-giugno e settembre** per i laghi
+**Periodo del viaggio:**
 **Durata:** 2 giorni, 1 notte — con una versione da 1 giorno e le gite sui laghi
 **Compagni di viaggio:** con amici, in autonomia, metro e treni regionali
 **Categoria:** Europa · Italia · Milano · Lago di Como · design · arte

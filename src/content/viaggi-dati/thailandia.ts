@@ -11,6 +11,8 @@ import type { TripMeta } from '@/lib/types'
 export const thailandiaMeta: TripMeta = {
   tripSlug: 'thailandia',
   paeseSlug: 'thailandia',
+  provenienza: 'combined',
+  mesiConsigliati: [],
   ritmo: 'Denso — quasi ogni giorno un trasferimento e una tappa diversa, tra van, barca e volo interno',
   trasporti: 'Van organizzato per il giro principale, traghetti per le isole, volo interno Krabi-Bangkok',
   stile: ['mare', 'giungla', 'isole'],

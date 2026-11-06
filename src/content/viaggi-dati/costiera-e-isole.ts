@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const costieraEIsoleMeta: TripMeta = {
   tripSlug: 'costiera-e-isole',
   paeseSlug: 'italia',
+  provenienza: 'journey',
+  mesiConsigliati: [5, 6, 9, 10],
   ritmo: 'Quattro giorni di costiera con un giorno di cammino in quota, poi cinque giorni sulle isole senza mai fare una traversata di corsa',
   trasporti: 'Senza auto: traghetti e aliscafi, bus SITA per i paesi alti, e moltissimi scalini a piedi',
   stile: [

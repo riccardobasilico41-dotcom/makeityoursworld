@@ -111,15 +111,31 @@ export function localizza(href: string, lingua: Lingua): string {
   return (PREFISSO[lingua] + corpo || '/') + coda
 }
 
-/** Indirizzo pubblico → lingua e percorso canonico (per il proxy e il selettore della lingua). */
+/** Il primo segmento è la cartella italiana (/viaggi, /destinazioni…) che nella lingua ha un'altra parola. */
+const CARTELLE = Object.fromEntries(
+  LINGUE.map((l) => [l, new Set(Object.keys(SEGMENTI[l]).filter((k) => SEGMENTI[l][k] !== k))])
+) as Record<Lingua, Set<string>>
+const interno = (seg: string[], l: Lingua) => CARTELLE[l].has(seg[0])
+
+/**
+ * Indirizzo pubblico → lingua e percorso canonico (per il proxy e il selettore della lingua).
+ *
+ * Accetta anche la rotta interna dopo la riscrittura del proxy (/en/viaggi/giappone-itinerario,
+ * /es/viaggi/giappone-itinerario): è quella che `usePathname()` restituisce durante il rendering sul
+ * server. Prima il prefisso /en non veniva tolto e il selettore costruiva /it/en/viaggi/… e /es/en/…
+ * (404). /en non è mai un indirizzo pubblico (il proxy lo manda con 308 alla forma senza prefisso),
+ * quindi toglierlo qui non crea ambiguità.
+ */
 export function canonico(pubblico: string): { lingua: Lingua; percorso: string } {
   const [percorso, coda] = dividi(pubblico)
   let seg = percorso.split('/').filter(Boolean)
   let lingua: Lingua = LINGUA_PREDEFINITA
-  if (seg[0] && LINGUE.includes(seg[0] as Lingua) && seg[0] !== LINGUA_PREDEFINITA) {
+  if (seg[0] && LINGUE.includes(seg[0] as Lingua)) {
     lingua = seg[0] as Lingua
     seg = seg.slice(1)
   }
+  // rotta interna (forma canonica italiana): niente da tradurre all'indietro
+  if (lingua !== 'it' && seg.length && interno(seg, lingua)) return { lingua, percorso: '/' + seg.join('/') + coda }
   if (lingua !== 'it' && seg.length) {
     const inv = inverse(lingua)
     seg[0] = inv.segmenti[seg[0]] ?? seg[0]

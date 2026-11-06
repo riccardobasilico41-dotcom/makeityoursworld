@@ -15,6 +15,8 @@ const IMG = '/images/viaggi/canada-itinerario'
 export const canadaItinerarioMeta: TripMeta = {
   tripSlug: 'canada-itinerario',
   paeseSlug: 'canada',
+  provenienza: 'journey',
+  mesiConsigliati: [6, 7, 8, 9, 10],
   ritmo:
     'Regolare: due o tre notti nelle città (Toronto, Niagara, Ottawa, Montréal, Québec) alternate a giornate di guida di 2-4 ore; una sola tappa lunga, il rientro da Tadoussac a Montréal (circa 5 ore e mezza).',
   trasporti:

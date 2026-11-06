@@ -10,6 +10,8 @@ import type { TripMeta } from '@/lib/types'
 export const viennaWeekendMeta: TripMeta = {
   tripSlug: 'vienna-weekend',
   paeseSlug: 'austria',
+  provenienza: 'journey',
+  mesiConsigliati: [4, 5, 9, 10],
   ritmo: 'Tre-quattro giorni di calendario, un centro storico compatto e una giornata quasi intera per Schönbrunn da sola',
   trasporti: 'Centro storico a piedi, U-Bahn e tram per il resto della città; nessuna auto necessaria',
   stile: [
@@ -32,7 +34,6 @@ export const viennaWeekendMeta: TripMeta = {
     'Borseggi concentrati sulla linea U3 della metropolitana, soprattutto tra Stephansplatz e Westbahnhof',
     'Occasionali finti agenti di polizia che chiedono di controllare documenti o borsello',
     'Schönbrunn è molto più grande di quanto sembri dalle foto: da sola occupa quasi una giornata intera',
-    'Nessuna parte di questo itinerario nasce da un soggiorno reale: è una scheda di ricerca, non un diario',
   ],
   budgetTotale: undefined,
   viaggioInBreve: {

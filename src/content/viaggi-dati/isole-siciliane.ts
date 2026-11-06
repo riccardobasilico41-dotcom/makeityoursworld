@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const isoleSicilianeMeta: TripMeta = {
   tripSlug: 'isole-siciliane',
   paeseSlug: 'italia',
+  provenienza: 'journey',
+  mesiConsigliati: [5, 6, 9],
   ritmo: 'Tre arcipelaghi separati, con una giornata interamente di transito che è inevitabile e va prevista invece che scoperta',
   trasporti: 'Aliscafi da Trapani per le Egadi, voli in continuità territoriale per Pantelleria e Lampedusa; bici a Favignana, auto o scooter altrove',
   stile: [

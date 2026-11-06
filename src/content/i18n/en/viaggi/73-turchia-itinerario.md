@@ -1,7 +1,7 @@
 # Turkey in 16 Days: Istanbul, Cappadocia, Pamukkale, Ephesus and the Lycian Coast
 
 **Stato bozza:** 🟡 in progress (itinerary, prices and rules verified in October 2026 against official sources and recent guides)
-**Periodo del viaggio:** planned for May-June or September-October, when Istanbul and Cappadocia have pleasant weather and the sea on the Lycian coast is already or still warm
+**Periodo del viaggio:**
 **Durata:** 16 days, 15 nights
 **Compagni di viaggio:** with friends, independently, with a domestic flight Istanbul-Cappadocia, an overnight bus to Pamukkale and a rental car from Denizli to Antalya
 **Categoria:** Medio Oriente · Turchia · Istanbul · Cappadocia · archeologia · road trip · mare

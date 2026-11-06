@@ -1,7 +1,7 @@
 # Spagna del Nord in 8 giorni: San Sebastián, Bilbao e la costa verso Santiago
 
 **Stato bozza:** 🟡 in lavorazione (viaggio fatto da Rick; itinerario e informazioni pratiche verificati, mancano aneddoti e ricordi personali da aggiungere dal diario)
-**Periodo del viaggio:** **giugno-settembre**
+**Periodo del viaggio:**
 **Durata:** 8 giorni, 7 notti
 **Compagni di viaggio:** con amici, in autonomia, in auto per l'intero percorso costiero
 **Categoria:** Europa · Spagna · Paesi Baschi · Cantabria · Asturie · Galizia · gastronomia · cammino

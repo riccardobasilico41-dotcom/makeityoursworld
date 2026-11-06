@@ -7,6 +7,8 @@ import type { TripMeta } from '@/lib/types'
 export const okinawaEstateMeta: TripMeta = {
   tripSlug: 'okinawa-estate',
   paeseSlug: 'giappone',
+  provenienza: 'journey',
+  mesiConsigliati: [6, 7, 9, 10],
   ritmo:
     'Rilassato ma con molti spostamenti: quattro basi (Naha, Zamami, il nord dell\'isola principale, Miyako, Ishigaki), con traghetti e voli brevi tra l\'una e l\'altra e giornate lunghe in acqua.',
   trasporti:

@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const borneoItinerarioMeta: TripMeta = {
   tripSlug: 'borneo-itinerario',
   paeseSlug: 'borneo',
+  provenienza: 'journey',
+  mesiConsigliati: [4, 5, 6, 7, 8, 9],
   ritmo: 'Impegnativo: una vetta oltre i 4.000 metri, trasferimenti lunghi su strade lente e sveglie prima dell\'alba quasi ogni giorno',
   trasporti: 'Volo da Kuala Lumpur, trasferimenti su strada con pacchetti organizzati, barche sul fiume e per le isole',
   stile: ['fauna selvatica', 'trekking', 'diving'],

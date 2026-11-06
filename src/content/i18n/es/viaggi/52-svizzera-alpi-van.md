@@ -1,7 +1,7 @@
 # Suiza en furgoneta: los Alpes Berneses de Interlaken al Cervino
 
 **Stato bozza:** 🟡 en elaboración
-**Periodo del viaggio:** de junio a septiembre, con julio-agosto como ventana más fiable para los puertos alpinos
+**Periodo del viaggio:**
 **Durata:** modular: desde un fin de semana largo de 3-4 días en Interlaken y la Jungfrau Region hasta una semana que llega hasta Zermatt. Dos propuestas listas más abajo.
 **Compagni di viaggio:** con amigos, por libre, en autocaravana o furgoneta equipada
 **Categoria:** Europa · Svizzera · Alpi Bernesi · van life · roadtrip · montagna
@@ -14,6 +14,7 @@ Suiza no es un país que se visite para ahorrar, y es mejor decirlo antes de la 
 Dicho esto, la región de Interlaken-Jungfrau, en los Alpes Berneses, sigue siendo uno de los tramos de montaña más densos de Europa: dos lagos de color turquesa, un valle de setenta y dos cascadas cerrado por paredes verticales, un tren que sube a 3.454 metros por dentro de la montaña y, para quien tiene una semana, una carretera de puertos alpinos que lleva hasta los pies del Cervino. Es también un país hecho a propósito para la furgoneta: red de carreteras impecable, distancias cortas, paisaje que cambia cada hora de conducción. La furgoneta, sin embargo, en Suiza tiene reglas más severas que en los países alpinos vecinos, y es el segundo tema que esta guía trata por extenso, porque es la fuente más común de multas y malentendidos para quien llega de Italia o de Francia acostumbrado a un margen de tolerancia que aquí no existe.
 
 ## Scheda pratica
+- **Cuándo ir:** De junio a septiembre, con julio-agosto como ventana más fiable para los puertos alpinos
 
 ### Cuánto cuesta de verdad: la parte que hay que leer primero
 Suiza no está en la Unión Europea y no ha adoptado el euro: se paga en francos suizos, y el cambio con el euro es históricamente desfavorable, lo que infla cada precio expresado en euros. Los conceptos que más pesan en un viaje en furgoneta:
@@ -99,10 +100,10 @@ Como en toda guía de montaña, los desniveles y las dificultades de aquí abajo
 
 **La primera vez en una vía ferrata, si no se tiene experiencia, conviene hacerla con un guía.** En Suiza el rescate en montaña se paga, y es un gasto que nadie quiere descubrir que tiene que afrontar.
 
-## Dove dormire
+## Dónde dormir
 La regla número uno es la explicada en la sección sobre la furgoneta: **la acampada libre está prohibida o muy restringida casi en todas partes**, y en Lauterbrunnen en particular las multas son reales. En la zona de Interlaken la red de campings equipados es tupida, en los dos lagos, a pocos minutos del centro, con parcelas de unos 35-50 CHF por noche y electricidad a menudo incluida. Como alternativa, las áreas de estacionamiento de autocaravanas (**Wohnmobilstellplatz**) censadas en Park4Night y en el portal del TCS ofrecen a menudo los servicios esenciales a un precio más contenido; hay que localizarlas y comprobarlas antes de salir, no buscarlas sobre el terreno por la noche. Para quien quiere dormir en altura al menos una noche, los refugios de los Alpes Berneses funcionan como los de los Alpes italianos (media pensión, reserva con antelación en temporada alta), pero no están pensados para quien viaja en furgoneta: se llega a pie y el vehículo se queda en el valle.
 
-## Dove mangiare
+## Dónde comer
 La cocina de los Alpes Berneses es la suizo-alemana de montaña: **rösti** (las patatas ralladas y doradas que acompañan casi todos los platos), **fondue** y **raclette** con los quesos de alpe locales, los **Älplermagronen** (pasta al horno con patatas, queso y cebolla caramelizada, el plato de refugio por excelencia) y la **Berner Platte**, una tabla de carnes ahumadas y embutidos con chucrut. Como todo lo demás, comer fuera cuesta más que en Italia o en Francia: una comida sencilla en un restaurante de categoría media raramente baja de 25-30 CHF por persona. Para quien cocina en la furgoneta, la compra en los supermercados Coop y Migros sigue siendo la opción más económica, **hecha el sábado, no el domingo**, por el motivo explicado arriba.
 
 ## Consejos prácticos / errores que no repetir

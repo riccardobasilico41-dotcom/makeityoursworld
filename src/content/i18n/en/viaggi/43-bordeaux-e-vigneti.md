@@ -1,7 +1,7 @@
 # Bordeaux and Its Vineyards in 7 Days
 
 **Stato bozza:** 🟡 work in progress (itinerary and practical information verified)
-**Periodo del viaggio:** **September-October (harvest) or May-June**
+**Periodo del viaggio:**
 **Durata:** 7 days, 6 nights
 **Compagni di viaggio:** with friends, independently, with a car and a designated driver for the tastings
 **Categoria:** Europa · Francia · Bordeaux · vino · costa atlantica
@@ -12,6 +12,7 @@
 Bordeaux combines a city you can cover on foot with a territory you can't see without a car. The itinerary covers both banks of the vineyard (Médoc and Saint-Émilion) plus Sauternes, and ends with the ocean at the Arcachon Basin.
 
 ## Scheda pratica
+- **When to go:** **September-October (harvest) or May-June**
 - **Base:** Bordeaux city.
 - **Driving and wine don't go together:** a designated driver who doesn't taste, guided excursions, or spitting at tastings (it's the norm, not an insult).
 - **Appointment always mandatory** for the big châteaux.

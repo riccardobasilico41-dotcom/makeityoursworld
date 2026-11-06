@@ -1,7 +1,7 @@
 # Ámsterdam en un fin de semana largo
 
 **Stato bozza:** 🟡 en elaboración
-**Periodo del viaggio:** **abril-mayo o septiembre-octubre**
+**Periodo del viaggio:**
 **Durata:** 4 días, 3 noches
 **Compagni di viaggio:** con amigos, por libre, a pie y en bicicleta
 **Categoria:** Europa · Paesi Bassi · Amsterdam · città · arte · cicloturismo

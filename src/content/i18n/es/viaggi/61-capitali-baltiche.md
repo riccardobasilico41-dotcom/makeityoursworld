@@ -1,7 +1,7 @@
 # Capitales bálticas en 9 días: Vilna, Riga y Tallin
 
 **Stato bozza:** 🟡 en elaboración (viaje hecho por Rick; itinerario e información práctica verificados)
-**Periodo del viaggio:** **de mayo a septiembre**, con junio-agosto el período más cálido, con más horas de luz y más concurrido
+**Periodo del viaggio:**
 **Durata:** 9 días, 8 noches
 **Compagni di viaggio:** con amigos, por libre, a pie en cada ciudad y en autobús entre una capital y otra
 **Categoria:** Europa · Lituania · Lettonia · Estonia · città · storia · architettura

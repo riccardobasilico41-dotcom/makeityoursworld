@@ -7,6 +7,7 @@ import { getViaggioBySlug } from '@/lib/viaggi'
 import { archivioLocale, elencaTutte, elimina } from '@/lib/domande/archivio'
 import { isAdmin, passwordImpostata } from '@/lib/domande/sicurezza'
 import { MAX_RISPOSTA, STATI, type Domanda, type StatoDomanda } from '@/lib/domande/tipi'
+import { domandeAttive } from '@/lib/site-config'
 import { Accesso } from './Accesso'
 import { cancella, esci, pubblica, rimettiInAttesa, scarta } from './azioni'
 
@@ -20,6 +21,9 @@ export const metadata: Metadata = {
   robots: { index: false, follow: false, nocache: true, googleBot: { index: false, follow: false } },
 }
 
+/** Server Component: l'ora corrente serve a ogni richiesta, non a ogni render del client. */
+const unAnnoFa = () => Date.now() - 365 * 24 * 60 * 60 * 1000
+
 const T = {
   it: {
     titolo: 'Domande dei lettori',
@@ -27,6 +31,7 @@ const T = {
     accedi: 'Accedi con la password della moderazione.',
     esci: 'Esci',
     locale: 'Archivio locale: file in .data/domande/ (manca BLOB_READ_WRITE_TOKEN).',
+    spento: 'Modulo pubblico spento: i lettori non possono inviare domande. Si riaccende con funzioni.moduloDomande = true in src/lib/site-config.ts, ma solo quando titolare e recapito privacy sono compilati.',
     stati: { 'in-attesa': 'In attesa', pubblicata: 'Pubblicate', scartata: 'Scartate' } as Record<StatoDomanda, string>,
     vuoto: 'Nessuna domanda qui.',
     lingua: 'Lingua',
@@ -46,6 +51,7 @@ const T = {
     accedi: 'Sign in with the moderation password.',
     esci: 'Sign out',
     locale: 'Local storage: files in .data/domande/ (BLOB_READ_WRITE_TOKEN missing).',
+    spento: 'Public form switched off: readers cannot send questions. It turns back on with funzioni.moduloDomande = true in src/lib/site-config.ts, but only once the controller and privacy contact are filled in.',
     stati: { 'in-attesa': 'Pending', pubblicata: 'Published', scartata: 'Discarded' } as Record<StatoDomanda, string>,
     vuoto: 'No questions here.',
     lingua: 'Language',
@@ -65,6 +71,7 @@ const T = {
     accedi: 'Entra con la contraseña de moderación.',
     esci: 'Salir',
     locale: 'Archivo local: ficheros en .data/domande/ (falta BLOB_READ_WRITE_TOKEN).',
+    spento: 'Formulario público apagado: los lectores no pueden enviar preguntas. Se vuelve a activar con funzioni.moduloDomande = true en src/lib/site-config.ts, pero solo cuando el responsable y el contacto de privacidad estén completos.',
     stati: { 'in-attesa': 'Pendientes', pubblicata: 'Publicadas', scartata: 'Descartadas' } as Record<StatoDomanda, string>,
     vuoto: 'No hay preguntas aquí.',
     lingua: 'Idioma',
@@ -107,7 +114,7 @@ export default async function AdminDomandePage({ searchParams }: { searchParams:
   const { stato: s } = await searchParams
   const stato: StatoDomanda = STATI.includes(s as StatoDomanda) ? (s as StatoDomanda) : 'in-attesa'
   // come promesso nella privacy: scartate o senza risposta si cancellano dopo 12 mesi
-  const limite = Date.now() - 365 * 24 * 60 * 60 * 1000
+  const limite = unAnnoFa()
   const elenco0 = await elencaTutte()
   const vecchie = elenco0.filter((d) => d.stato !== 'pubblicata' && new Date(d.data).getTime() < limite)
   await Promise.all(vecchie.map((d) => elimina(d.viaggio, d.id)))
@@ -138,6 +145,7 @@ export default async function AdminDomandePage({ searchParams }: { searchParams:
         </form>
       </div>
       {archivioLocale() && <p className="mt-4 text-xs text-stone">{t.locale}</p>}
+      {!domandeAttive && <p className="mt-4 text-xs text-stone">{t.spento}</p>}
 
       {elenco.length === 0 ? (
         <p className="mt-10 text-stone">{t.vuoto}</p>

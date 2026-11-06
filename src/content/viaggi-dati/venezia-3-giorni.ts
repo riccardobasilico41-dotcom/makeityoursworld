@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const venezia3GiorniMeta: TripMeta = {
   tripSlug: 'venezia-3-giorni',
   paeseSlug: 'italia',
+  provenienza: 'journey',
+  mesiConsigliati: [11, 12, 1, 2, 3, 4, 5, 10],
   ritmo: 'Le cose famose presto o tardi, mai nel mezzo, e il resto del tempo camminando nella direzione sbagliata',
   trasporti: 'Tutto a piedi; vaporetto solo per il Canal Grande e le isole della laguna',
   stile: [

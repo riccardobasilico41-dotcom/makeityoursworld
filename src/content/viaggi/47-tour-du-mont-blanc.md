@@ -1,7 +1,7 @@
 # Il Tour du Mont Blanc in 9 giorni
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
-**Periodo del viaggio:** **da metà giugno a metà settembre, con settembre come mese migliore**
+**Periodo del viaggio:**
 **Durata:** 9 giorni, 8 notti a tappe
 **Compagni di viaggio:** con amici, in autonomia, con pernottamento in rifugio ogni notte
 **Categoria:** Europa · Francia · montagna · trekking
@@ -12,6 +12,7 @@
 Il Tour du Mont Blanc gira per intero attorno al massiccio più alto delle Alpi in circa centosettanta chilometri, attraversando Francia, Italia e Svizzera. Non è tecnico, ma le tappe sono lunghe: il vincolo che struttura tutto è la prenotazione dei rifugi, da fare a gennaio-febbraio per l'estate.
 
 ## Scheda pratica
+- **Quando andare:** **da metà giugno a metà settembre, con settembre come mese migliore**
 - **Rifugi prenotati con mesi di anticipo**, altrimenti l'itinerario salta.
 - **Soccorso in montagna gratuito** dai reparti pubblici francesi, ma un'assicurazione resta sensata.
 - **Sacco lenzuolo obbligatorio** in tutti i rifugi.

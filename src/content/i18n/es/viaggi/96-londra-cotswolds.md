@@ -1,7 +1,7 @@
 # Londres y los Cotswolds en 8 días: la ciudad, Oxford, los pueblos de piedra y Bath
 
-**Stato bozza:** 🟡 en elaboración (propuesta construida a partir de la investigación, no un viaje contado por Rick: itinerario e información práctica verificados en noviembre de 2026; sin recuerdos personales; fotos de archivo de Wikimedia Commons)
-**Periodo del viaggio:** pensado para finales de la primavera o principios del otoño, con días largos y menos gente que en agosto
+**Stato bozza:** 🟡 en elaboración (lugares visitados por Rick, reunidos en una ruta práctica; información práctica verificada en octubre-noviembre de 2026, a comprobar antes de salir; recuerdos en primera persona solo los que da Rick, ninguno inventado)
+**Periodo del viaggio:**
 **Durata:** 8 días, 7 noches
 **Compagni di viaggio:** itinerario pensado para una pareja o un grupo pequeño, en Londres con metro y a pie, luego en tren hasta Oxford y en coche de alquiler para los Cotswolds y Bath
 **Categoria:** Europa · Inghilterra · Londra · Cotswolds · Oxford · Bath · borghi · musei · treno
@@ -9,13 +9,14 @@
 ---
 
 ## Apertura personale
-Este itinerario no es un viaje contado por Rick. Es una propuesta construida a partir de la investigación, para quien quiere Londres y un trozo de campo inglés en el mismo viaje.
+Este itinerario nace de lugares que Rick ha visitado personalmente, ordenados para quien quiere Londres y un trozo de campo inglés en el mismo viaje.
 
 Los cuatro primeros días son en **Londres**, sin coche: metro, autobús y muchas horas a pie junto al Támesis. Luego se coge el tren en Paddington y se baja en **Oxford**, la ciudad de los colleges. Allí se recoge el coche y se entra en los **Cotswolds**, las colinas de los pueblos de piedra color miel. El último tramo lleva a **Bath**, con las termas romanas, desde donde el tren vuelve a Londres.
 
 El coche solo hace falta tres días. En la ciudad sería un estorbo, entre el tráfico, los aparcamientos y la Congestion Charge. En el campo, en cambio, es lo más cómodo: los pueblos están cerca, pero hay pocos autobuses. Se conduce por la izquierda, por carreteras estrechas entre setos. Quien no se atreva puede hacer los Cotswolds en tren hasta Moreton-in-Marsh y con un tour organizado por los pueblos.
 
 ## Scheda pratica
+- **Cuándo ir:** Finales de la primavera o principios del otoño, con días largos y menos gente que en agosto
 - **Documentos:** el Reino Unido no forma parte de la Unión Europea. Desde el 2 de abril de 2025 los ciudadanos italianos necesitan la **ETA**, la autorización electrónica de viaje: se pide en gov.uk o con la app oficial UK ETA, cuesta 20 libras (2026) y vale 2 años, o hasta que caduque el pasaporte. Hace falta el **pasaporte**: el documento de identidad solo se acepta en casos concretos.
 - **Moneda y pagos:** libra esterlina. Las tarjetas y el contactless funcionan casi en todas partes.
 - **Moverse por Londres:** metro y autobús pagando con la tarjeta contactless o con la Oyster, siempre la misma tarjeta, que tiene un tope de gasto diario.
@@ -75,7 +76,7 @@ Las **Roman Baths** hay que verlas a la apertura, con la entrada reservada onlin
 ## Chiusura personale
 Ocho días bastan para ver Londres con calma y probar de verdad el campo inglés, sin pasar el viaje al volante. Quien tenga algunos días más puede subir al norte, hacia Escocia.
 
-*Este itinerario no es un viaje contado por Rick: es una propuesta construida a partir de la investigación. La información práctica viene de fuentes oficiales: gov.uk (ETA, entrada de los ciudadanos de la UE, carné de conducir y límites de alcohol), Transport for London (Congestion Charge), NHS (TSE), VisitBritain (enchufes), el Natural History Museum, VisitCotswolds y National Rail, verificada en noviembre de 2026. Tiempos de tren orientativos. Horarios, precios y normas cambian: hay que comprobarlos antes de salir.*
+*Este itinerario nace de lugares que Rick ha visitado personalmente. La información práctica viene de fuentes oficiales: gov.uk (ETA, entrada de los ciudadanos de la UE, carné de conducir y límites de alcohol), Transport for London (Congestion Charge), NHS (TSE), VisitBritain (enchufes), el Natural History Museum, VisitCotswolds y National Rail, verificada en noviembre de 2026. Tiempos de tren orientativos. Horarios, precios y normas cambian: hay que comprobarlos antes de salir.*
 
 ## Tag
 `#inghilterra` `#londra` `#cotswolds` `#oxford` `#bath` `#bibury` `#borghi` `#musei` `#treno` `#campagnainglese` `#regnounito`

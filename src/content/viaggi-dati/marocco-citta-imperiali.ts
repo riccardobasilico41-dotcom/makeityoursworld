@@ -12,6 +12,7 @@ import type { TripMeta } from '@/lib/types'
 export const maroccoCittaImperialiMeta: TripMeta = {
   tripSlug: 'marocco-citta-imperiali',
   paeseSlug: 'marocco',
+  mesiConsigliati: [3, 4, 5, 9, 10, 11],
   ritmo:
     'Medio: tutto su strada, con la tappa lunga Chefchaouen-Fès (circa 190 km) e Meknès-Rabat (circa 140 km); le altre tratte sono brevi. Fès chiede due giorni pieni a piedi nella medina.',
   trasporti:

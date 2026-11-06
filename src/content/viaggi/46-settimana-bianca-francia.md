@@ -1,7 +1,7 @@
 # Settimana bianca in Francia: quale comprensorio scegliere
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
-**Periodo del viaggio:** **gennaio-marzo, verificando il calendario delle vacanze scolastiche francesi**
+**Periodo del viaggio:**
 **Durata:** 7 giorni, 6 notti — la settimana classica da sabato a sabato
 **Compagni di viaggio:** con amici, in autonomia, appartamento in residence
 **Categoria:** Europa · Francia · sci · montagna
@@ -12,6 +12,7 @@
 La Francia ha i comprensori collegati più grandi del mondo, costruiti da zero a partire dagli anni Sessanta con un solo criterio: la quota. Questo itinerario segue una settimana classica su un grande dominio d'alta quota, con l'opzione di sostituirlo con Chamonix per chi cerca un'esperienza diversa.
 
 ## Scheda pratica
+- **Quando andare:** **gennaio-marzo, verificando il calendario delle vacanze scolastiche francesi**
 - **Il vero vincolo è il calendario delle vacanze scolastiche**, scaglionato in tre zone: conviene consultarlo prima di prenotare.
 - **Assicurazione soccorso piste**: in Francia è a pagamento, va comprata con lo skipass.
 - **Forfait online in anticipo**: costa meno che alla cassa.

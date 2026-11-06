@@ -1,7 +1,7 @@
 # Sumatra e Mentawai in due settimane: Bukittinggi, la giungla di Siberut e il mare di Sipora
 
 **Stato bozza:** 🟡 in lavorazione (soggiorno a Siberut con Mentawai Tribe fatto da Rick; resto dell'itinerario costruito sulla ricerca del 4 novembre 2026. Orari e prezzi dei traghetti e importo della tassa surf non sono confermati e vanno ricontrollati)
-**Periodo del viaggio:** pensato per maggio-settembre. A Siberut i mesi più asciutti vanno da maggio a inizio settembre, a Sumatra la stagione secca va da giugno ad agosto, e per il surf gli swell più grandi arrivano da maggio a settembre
+**Periodo del viaggio:**
 **Durata:** 14 giorni, 13 notti
 **Compagni di viaggio:** in autonomia a Sumatra, con un operatore mentawai e le sue guide a Siberut, poi di nuovo in autonomia a Sipora; auto con autista, traghetto veloce, canoa a motore, trekking nel fango e barca
 **Categoria:** Asia · Indonesia · Sumatra · Mentawai · giungla · cultura · surf · spiagge

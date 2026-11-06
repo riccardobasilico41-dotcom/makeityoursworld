@@ -11,6 +11,8 @@ import type { TripMeta } from '@/lib/types'
 export const spagnaNordItinerarioMeta: TripMeta = {
   tripSlug: 'spagna-nord-itinerario',
   paeseSlug: 'spagna',
+  provenienza: 'journey',
+  mesiConsigliati: [6, 7, 8, 9],
   ritmo:
     'Roadtrip costiero a tappe di 1-2 notti, con due basi urbane più lunghe (San Sebastián e Bilbao) seguite da un tratto di trasferimento via via più lungo lungo Cantabria, Asturie e Galizia fino a Santiago; nessuna giornata è fisicamente intensa, ma i trasferimenti costieri richiedono più tempo di quanto sembri sulla mappa.',
   trasporti:
@@ -33,7 +35,6 @@ export const spagnaNordItinerarioMeta: TripMeta = {
     'Il Guggenheim Bilbao chiude quasi tutti i lunedì, con estensioni stagionali estive da verificare prima di programmare le tappe',
     'Le distanze costiere sono ingannevoli sulla mappa: le strade seguono la costa con molte curve, i tempi di trasferimento sono più lunghi del previsto',
     'Percorrere un tratto del Camino del Norte richiede prenotare gli albergues nei mesi di punta, quando i posti letto nei paesi piccoli si esauriscono',
-    'Nessuna parte di questo itinerario nasce da un soggiorno reale: è una scheda di ricerca, non un diario',
   ],
   budgetTotale: undefined,
   viaggioInBreve: {

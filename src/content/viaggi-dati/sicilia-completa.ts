@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const siciliaCompletaMeta: TripMeta = {
   tripSlug: 'sicilia-completa',
   paeseSlug: 'italia',
+  provenienza: 'journey',
+  mesiConsigliati: [4, 5, 6, 9, 10],
   ritmo: 'Un anello antiorario da Palermo a Catania, senza ritorni sui propri passi: diciassette giorni sono il minimo per farla tutta senza passare la vacanza in auto',
   trasporti: 'Auto a noleggio in formula one-way, aperto su Palermo e chiuso su Catania; sulle statali interne i tempi vanno aumentati di un terzo',
   stile: [

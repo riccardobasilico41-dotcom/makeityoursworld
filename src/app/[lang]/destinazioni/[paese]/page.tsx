@@ -27,6 +27,7 @@ import { copertine } from '@/lib/i18n/contenuti'
 import { pageMetadata } from '@/lib/seo'
 import { seoPaese } from '@/lib/i18n/contenuti'
 import { linguaCorrente } from '@/lib/i18n/server'
+import { etichette } from '@/lib/i18n/etichette'
 import { LOCALE, type Lingua } from '@/lib/i18n/config'
 import { richNodes } from '@/components/ui/Rich'
 
@@ -266,7 +267,7 @@ export default async function PaesePage({ params }: { params: Promise<{ paese: s
                         </div>
                         <div>
                           <dt className="text-xs font-semibold uppercase tracking-wider text-stone/85">{t.stile}</dt>
-                          <dd className="text-ink">{tripMeta.stile.join(' · ')}</dd>
+                          <dd className="text-ink">{etichette(tripMeta.stile, lingua).join(' · ')}</dd>
                         </div>
                         <div>
                           <dt className="text-xs font-semibold uppercase tracking-wider text-stone/85">{t.ritmo}</dt>

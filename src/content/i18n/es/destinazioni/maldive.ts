@@ -111,7 +111,7 @@ export const destinazioniMaldive: Destinazione[] = [
     nome: 'Malé Sur y Vaavu',
     tipologia: ['isole locali', 'snorkeling', 'squali'],
     giorniConsigliati: '3-5 días',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       "Los atolones más cercanos al aeropuerto hacia el sur: Malé Sur con Maafushi, Guraidhoo y Gulhi, y más abajo Vaavu, poco turístico, con Fulidhoo y los canales de los tiburones.",
     percheAndarci:
@@ -450,7 +450,7 @@ export const destinazioniMaldive: Destinazione[] = [
     nome: 'Baa y la bahía de Hanifaru',
     tipologia: ['riserva UNESCO', 'mante', 'snorkeling'],
     giorniConsigliati: '3-4 días',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       "Un atolón reserva de la biosfera de la UNESCO, con la pequeña bahía de Hanifaru donde entre junio y noviembre se reúnen decenas, a veces más de cien, mantas para alimentarse de plancton.",
     percheAndarci:

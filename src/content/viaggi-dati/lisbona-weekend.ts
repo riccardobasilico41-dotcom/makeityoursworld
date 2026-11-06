@@ -10,6 +10,8 @@ import type { TripMeta } from '@/lib/types'
 export const lisbonaWeekendMeta: TripMeta = {
   tripSlug: 'lisbona-weekend',
   paeseSlug: 'portogallo',
+  provenienza: 'journey',
+  mesiConsigliati: [4, 5, 9, 10],
   ritmo: 'Quattro giorni di calendario, una città collinare da vivere a piedi e in tram, con una giornata intera isolata per la gita a Sintra',
   trasporti: 'Piedi, tram e funicolari in città, treno regionale da Rossio per Sintra; nessuna auto necessaria',
   stile: [
@@ -31,7 +33,6 @@ export const lisbonaWeekendMeta: TripMeta = {
     'Il tram 28 è tra i mezzi pubblici più battuti d\'Europa dai borseggiatori: va preso presto al mattino',
     'A Sintra le code ai palazzi principali si allungano già a metà mattinata in alta stagione: serve partire presto e prenotare online',
     'Lisbona è una città di sette colline reali, non un centro storico pianeggiante: le giornate vanno pianificate tenendo conto dei dislivelli',
-    'Nessuna parte di questo itinerario nasce da un soggiorno reale: è una scheda di ricerca, non un diario',
   ],
   budgetTotale: undefined,
   viaggioInBreve: {

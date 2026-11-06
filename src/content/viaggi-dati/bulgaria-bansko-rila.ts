@@ -10,6 +10,8 @@ import type { TripMeta } from '@/lib/types'
 export const bulgariaBanskoRilaMeta: TripMeta = {
   tripSlug: 'bulgaria-bansko-rila',
   paeseSlug: 'bulgaria',
+  provenienza: 'journey',
+  mesiConsigliati: [12, 1, 2, 3, 4],
   ritmo: 'Rilassato — tre giorni pieni sulle piste, un giorno di visita al monastero lungo il tragitto di rientro',
   trasporti: 'Auto a noleggio da Sofia, guidata fino a Bansko (alternative: shuttle privato/condiviso, bus pubblico, treno+minibus)',
   stile: ['sci', 'montagna', 'balcani'],

@@ -1,7 +1,7 @@
 # Malesia e Singapore in due settimane: da Kuala Lumpur allo stretto, mangiando
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche completi e verificati; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare — mancano date esatte, nomi degli alloggi e prezzi effettivamente pagati)
-**Periodo del viaggio:** da dicembre a marzo [anno da confermare] — la stagione secca della costa ovest, che è quella che questo itinerario percorre
+**Periodo del viaggio:**
 **Durata:** 14 giorni, 13 notti
 **Compagni di viaggio:** con amici, in autonomia, con autobus interurbani, un volo interno e il bus di frontiera per Singapore
 **Categoria:** Asia · Malesia · Singapore · gastronomia · città coloniali · giungla

@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const sriLanka2023Meta: TripMeta = {
   tripSlug: 'sri-lanka-2023',
   paeseSlug: 'sri-lanka',
+  provenienza: 'journey',
+  mesiConsigliati: [],
   ritmo: 'Molto denso — quasi ogni giorno una tappa diversa, tra templi, trekking, safari e spiagge',
   trasporti: 'Van privato con autista anglofono per tutto il viaggio, più un tratto in treno panoramico da Nuwara Eliya a Ella',
   stile: ['on the road', 'natura', 'cultura'],

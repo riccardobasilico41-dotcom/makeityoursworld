@@ -3,11 +3,13 @@ import type { TripMeta } from '@/lib/types'
 // Overlay di metadati per "Turchia in 16 giorni: Istanbul, la Cappadocia, Pamukkale,
 // Efeso e la costa licia" (src/content/viaggi/73-turchia-itinerario.md).
 // `titoloGiorno` deve combaciare esattamente con le intestazioni "### Giorno N — ..."
-// del markdown. Guida non vissuta: nessun campo personale, immagini da recuperare.
+// del markdown. Viaggio di Rick (conferma 6/11/2026) scritto in forma di guida: nessun campo personale, immagini da recuperare.
 
 export const turchiaItinerarioMeta: TripMeta = {
   tripSlug: 'turchia-itinerario',
   paeseSlug: 'turchia',
+  provenienza: 'journey',
+  mesiConsigliati: [5, 6, 9, 10],
   ritmo:
     'Medio-intenso: quattro giorni pieni a piedi a Istanbul, sveglie alle 4 in Cappadocia, un bus notturno e tre giorni di siti archeologici; si allenta sulla costa licia, con tratte in auto brevi e giornate in barca.',
   trasporti:

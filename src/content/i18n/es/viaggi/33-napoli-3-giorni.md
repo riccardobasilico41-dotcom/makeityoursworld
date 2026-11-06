@@ -1,7 +1,7 @@
 # Nápoles en 3 días, con Pompeya y Herculano
 
 **Stato bozza:** 🟡 en elaboración
-**Periodo del viaggio:** **abril-principios de junio y septiembre-octubre**
+**Periodo del viaggio:**
 **Durata:** 3 días, 2 noches, con la jornada arqueológica fuera de la ciudad
 **Compagni di viaggio:** con amigos, por libre, todo a pie, metro y trenes locales
 **Categoria:** Europa · Italia · Napoli · archeologia · arte · gastronomia

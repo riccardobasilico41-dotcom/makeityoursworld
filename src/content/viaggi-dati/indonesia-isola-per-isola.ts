@@ -10,6 +10,8 @@ import type { TripMeta } from '@/lib/types'
 export const indonesiaIsolaPerIsolaMeta: TripMeta = {
   tripSlug: 'indonesia-isola-per-isola',
   paeseSlug: 'indonesia',
+  provenienza: 'combined',
+  mesiConsigliati: [],
   ritmo:
     'Guida modulare: almeno una settimana per isola, scegliendo le isole in base al mese. Le destinazioni sono intercambiabili',
   trasporti:

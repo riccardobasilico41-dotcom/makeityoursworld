@@ -10,6 +10,8 @@ import type { TripMeta } from '@/lib/types'
 export const amsterdamWeekendMeta: TripMeta = {
   tripSlug: 'amsterdam-weekend',
   paeseSlug: 'paesi-bassi',
+  provenienza: 'journey',
+  mesiConsigliati: [4, 5, 9, 10],
   ritmo: 'Quattro giorni di calendario, un centro compatto girabile a piedi e in bicicletta, con un solo appuntamento a orario fisso: la Casa di Anna Frank',
   trasporti: 'Piedi e bicicletta per il centro, tram/bus/metro GVB per il resto; nessuna auto necessaria',
   stile: [
@@ -31,7 +33,6 @@ export const amsterdamWeekendMeta: TripMeta = {
     'I biglietti della Casa di Anna Frank si aprono online con settimane di anticipo e si esauriscono in fretta: senza prenotazione anticipata non si entra',
     'Le piste ciclabili hanno priorità reale sui pedoni: camminare o fermarsi distrattamente su una pista è la causa più comune di incidenti con i turisti',
     'Molti locali accettano solo carta o contactless: non contare sui contanti come piano B',
-    'Nessuna parte di questo itinerario nasce da un soggiorno reale: è una scheda di ricerca, non un diario',
   ],
   budgetTotale: undefined,
   viaggioInBreve: {

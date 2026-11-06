@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const newYork360Meta: TripMeta = {
   tripSlug: 'new-york-itinerario',
   paeseSlug: 'new-york',
+  provenienza: 'journey',
+  mesiConsigliati: [],
   ritmo: 'Molto intenso — 15-20 km a piedi al giorno, programma volutamente più ricco di quanto sia fattibile in 6 giorni',
   trasporti: 'Metro, Uber/Lyft (soprattutto di notte) e a piedi',
   stile: ['città', 'sport'],

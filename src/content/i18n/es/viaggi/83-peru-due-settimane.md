@@ -1,7 +1,7 @@
 # Perú en dos semanas: Lima, Arequipa, el Titicaca, Cusco y Machu Picchu
 
 **Stato bozza:** 🟡 en preparación (versión de dos semanas del viaje largo por Perú: trayectos, tiempos, costes y advertencias vienen de ahí y hay que volver a comprobarlos antes de salir)
-**Periodo del viaggio:** pensado para mayo-septiembre, la estación seca andina. Rick ha estado en Perú tres veces, en 2018, 2021 y 2024
+**Periodo del viaggio:** tres viajes a Perú, en 2018, 2021 y 2024
 **Durata:** 14 días, 13 noches, más 3-4 días opcionales para la Amazonía o para Huaraz
 **Compagni di viaggio:** con amigos, por libre, con vuelos internos, autobuses turísticos, tren a Machu Picchu y tours organizados en el Colca y en el Titicaca
 **Categoria:** Sud America · Perù · Ande · alta quota · cultura inca · Machu Picchu · lago Titicaca
@@ -12,6 +12,8 @@
 El momento que me llevo de Perú es Machu Picchu al amanecer. Entrar entre los primeros, con la ciudadela todavía casi vacía, compensa el madrugón a oscuras. A Perú he ido tres veces y el recorrido completo que conté dura un mes. Aquí me quedo con la parte andina, la que casi todos hacen en el primer viaje: dos semanas de Lima a Arequipa, el Colca, el Titicaca, Cusco, el Valle Sagrado y Machu Picchu.
 
 Respecto al viaje largo he invertido el sentido de la marcha. Se sale desde el sur y se sube de altitud un escalón cada vez: primero Arequipa a 2.300 metros, luego el cañón, luego Puno y por fin Cusco. Machu Picchu llega al final, cuando el cuerpo ya se ha acostumbrado a la altitud.
+
+También estuve en Perú dos veces como voluntario: en Cusco con el Proyecto Cusimaki, un proyecto que apoyo y que invito a visitar, y en Arequipa como osteópata voluntario.
 
 ## Scheda pratica
 - **Cuándo ir:** de mayo a septiembre, la estación seca de los Andes. En febrero el Camino Inca cierra por mantenimiento. El 24 de junio es el Inti Raymi en Cusco: ciudad llena y precios altos, hay que reservar con mucha antelación.

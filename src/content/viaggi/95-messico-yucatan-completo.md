@@ -1,7 +1,7 @@
 # Yucatán completo: Mérida, Campeche, Calakmul e Palenque in 16 giorni
 
-**Stato bozza:** 🟡 in lavorazione (proposta costruita sulla ricerca e sul viaggio *Messico Beach Life* di Rick, non un viaggio fatto così: Palenque e Calakmul Rick non li ha visti. Ingressi INAH, regole delle riserve, Tren Maya e avvisi sulle strade verificati il 5 novembre 2026 su fonti ufficiali)
-**Periodo del viaggio:** pensato per novembre-aprile, la stagione secca; a fine ottobre e inizio novembre si incrocia l'Hanal Pixán, il giorno dei morti maya
+**Stato bozza:** 🟡 in lavorazione (percorso che combina più viaggi reali di Rick; informazioni pratiche verificate a ottobre-novembre 2026 e da ricontrollare prima di partire; ricordi in prima persona solo quelli dati da Rick, nessuno inventato)
+**Periodo del viaggio:**
 **Durata:** 16 giorni, 15 notti
 **Compagni di viaggio:** itinerario pensato per viaggiare in autonomia, in coppia o in piccolo gruppo, con un'auto a noleggio ritirata e riconsegnata a Cancún; in alternativa Tren Maya e bus ADO per le tratte tra città, con tour locali per Calakmul e le cascate
 **Categoria:** Nord America · Messico · Yucatán · Campeche · Chiapas · Quintana Roo · maya · archeologia · cenote · roadtrip · cultura
@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-Questo itinerario non l'ha fatto Rick così com'è. Rick lo Yucatán l'ha attraversato nel viaggio *Messico Beach Life*: Ek Balam, Chichén Itzá, Izamal, Mérida, Uxmal, Campeche e Bacalar vengono da lì. Palenque e Calakmul invece sono una proposta costruita sulla ricerca, senza ricordi personali.
+Questo itinerario unisce più esperienze di viaggio di Rick in un unico percorso pratico. Lo Yucatán l'ha attraversato nel viaggio *Messico Beach Life*: Ek Balam, Chichén Itzá, Izamal, Mérida, Uxmal, Campeche e Bacalar vengono da lì. Palenque e Calakmul completano il giro verso il Chiapas e la foresta: per queste tappe il testo resta sulle informazioni pratiche.
 
 È il giro per chi vuole le città maya più che le spiagge. Si parte da Cancún, si attraversa lo Yucatán coloniale fino a Mérida, si scende sul Golfo a Campeche, si entra in Chiapas per Palenque e si torna verso il Caribe passando per Calakmul, nella foresta al confine con il Guatemala. L'ultima notte è sulla laguna di Bacalar.
 
@@ -180,7 +180,7 @@ Nessun budget giornaliero verificato per questo itinerario. L'entroterra dello Y
 È un giro per chi si sveglia presto. Ogni giorno si entra in un sito all'apertura, e il caldo decide il resto. In cambio si vede tutta la varietà del mondo maya: lo stile puuc di Uxmal, Palenque nella foresta del Chiapas, Calakmul sepolta nella riserva, con le città coloniali di Mérida e Campeche nel mezzo. Il mare è quasi assente, ed è voluto: alla fine c'è Bacalar, e chi vuole spiagge prosegue con *Messico Beach Life*.
 
 ## Nota su questa bozza
-Proposta non vissuta per Palenque, Calakmul, Celestún e la Ruta Puuc; le parti dello Yucatán, di Campeche e di Bacalar riprendono i ricordi già pubblicati del viaggio *Messico Beach Life*. Verificato il 5 novembre 2026: ingressi e orari sulle schede INAH (lugares.inah.gob.mx) di Ek Balam, Chichén Itzá, Uxmal, Kabah, Labná, Sayil, Edzná, Fuerte de San Miguel, Palenque e il suo museo, Calakmul; stazioni, bagagli e acquisto del Tren Maya su trenmaya.gob.mx e sul sito ufficiale di vendita; avvisi del Foreign Office britannico (Chiapas, Federale 199, Tabasco, bus, strade) e di Viaggiare Sicuri (aggiornata al 27/05/2026).
+Palenque, Calakmul, Celestún e la Ruta Puuc senza ricordi scritti nel testo; le parti dello Yucatán, di Campeche e di Bacalar riprendono i ricordi già pubblicati del viaggio *Messico Beach Life*. Verificato il 5 novembre 2026: ingressi e orari sulle schede INAH (lugares.inah.gob.mx) di Ek Balam, Chichén Itzá, Uxmal, Kabah, Labná, Sayil, Edzná, Fuerte de San Miguel, Palenque e il suo museo, Calakmul; stazioni, bagagli e acquisto del Tren Maya su trenmaya.gob.mx e sul sito ufficiale di vendita; avvisi del Foreign Office britannico (Chiapas, Federale 199, Tabasco, bus, strade) e di Viaggiare Sicuri (aggiornata al 27/05/2026).
 
 ## Materiale grezzo (appunti, non ancora editato)
 **Note di redazione (5/11/2026):** Restano da verificare: importo di Chichén Itzá per gli stranieri (scheda INAH 105 + 548 MXN, stampa locale 697 MXN); orari e prezzi del Tren Maya per le singole tratte (il sito ufficiale non pubblica un listino generale); tratte e orari ADO (ado.com.mx non era leggibile); stagione dei fenicotteri a Celestún (nessuna fonte ufficiale trovata: scritto in modo generico); quote d'ingresso di Misol-Ha e Agua Azul, gestite dalle comunità; stato attuale della Federale 199 al momento della partenza. L'avviso del Dipartimento di Stato USA non era leggibile (403). Nessun nome di hotel, ristorante o operatore inventato. Foto da recuperare.

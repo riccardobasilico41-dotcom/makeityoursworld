@@ -1,7 +1,7 @@
 # The Maldives: a complete guide to local islands, resorts, mantas and whale sharks
 
 **Stato bozza:** 🟡 work in progress (seasons, rules, transport and marine sites verified in October 2026)
-**Periodo del viaggio:** all year, with December to April as the dry season and August to October as the manta season at Hanifaru
+**Periodo del viaggio:**
 **Durata:** modular, from one week to two; ready-made 10-day example split between a local island and a resort
 **Compagni di viaggio:** with friends, independently, using speedboats, public ferries, seaplanes or domestic flights and local dive centers
 **Categoria:** Asia · Maldive · Oceano Indiano · mare · snorkeling · immersioni · isole locali · resort · liveaboard
@@ -11,7 +11,7 @@
 ## Apertura personale
 The Maldives aren't just the overwater bungalows from the photos. Since 2009 Maldivians have been allowed to open guesthouses on inhabited islands, and today you can sleep in a fishing village, eat tuna curry with families and go out on a boat with fishermen at a fraction of the price of a resort, and then close the trip with a few nights in a resort. That's how this trip and this guide are built.
 
-The reason to come is still the sea: 26 atolls, about 1,200 islands, coral reefs that drop into the blue and channels where the ocean flows in and out with the tide, carrying plankton and big animals. Mantas, whale sharks, hammerhead sharks, tiger sharks, turtles on almost every dive. The guide explains when to go month by month, which atoll to pick and why, how to behave on the local islands, how to organize excursions and transfers, where to see the biggest fish and when, how to stay safe in the water and how a dive cruise, the liveaboard, works. At the end there is a sample ten-day itinerary, to adapt.
+The reason to come is still the sea: 26 atolls, about 1,200 islands, coral reefs that drop into the blue and channels where the ocean flows in and out with the tide, carrying plankton and big animals. Mantas, whale sharks, hammerhead sharks, tiger sharks, turtles on almost every dive. The guide explains when to go month by month, which atoll to pick and why, how to behave on the local islands, how to organize excursions and transfers, where to see the biggest fish and when, how to stay safe in the water and how a dive cruise, the liveaboard, works. At the end there is a ten-day itinerary, to adapt.
 
 It's a guide for people who love the sea more than luxury, for people who snorkel or dive and for people who want to see what life is like on the islands beyond the resort.
 
@@ -69,7 +69,7 @@ The atoll matters more than the individual island: from one atoll to another the
 - **Food:** no pork; cooking based on tuna, rice, coconut and curry, with the afternoon "short eats" (savory and sweet snacks) and mas huni (tuna, coconut, onion and chili) at breakfast.
 - **Silence during prayer** near mosques, photos only with permission, shoes off when entering homes.
 
-**The best solution for a first trip** is often mixed: a few nights on a local island for the excursions and village life, then two or three nights in a resort for the house reef and rest. It's the scheme of the sample itinerary.
+**The best solution for a first trip** is often mixed: a few nights on a local island for the excursions and village life, then two or three nights in a resort for the house reef and rest. It's the scheme of the itinerary.
 
 ## How to get around and get organized
 - **Arrival:** Velana international airport is on an island facing Malé. Speedboats, seaplanes and domestic flights leave from here; Malé is reached by ferry (about 10 minutes, $1-2) or by bus over the bridge; Hulhumalé, the artificial island next door, by bus or taxi.
@@ -124,7 +124,7 @@ A liveaboard, or "safari boat", is a dive cruise usually lasting a week: you sle
 
 **Who it's for:** for certified divers who want to dive a lot. For the channels and the Southern routes you need an advanced certification and a good number of dives (often at least 50). There are also snorkeling cruises for those who don't dive, a good solution for seeing many atolls when you travel with a diver. It isn't suited to people who get seasick: transfers between atolls can be rough, especially from May to November. To check when choosing: age and maintenance of the boat, separate support dhoni, oxygen and emergency equipment on board, maximum number of divers per guide.
 
-## The sample itinerary in brief
+## The itinerary in brief
 A ten-day example designed for a first time: four nights on a local island in South Ari for the whale sharks, the mantas and village life, three nights in a resort for the house reef, one spare night near the airport. The islands and the resort are to be chosen according to budget and season: the scheme also works with South Malé or Vaavu in place of Ari, or with Baa in August-October.
 
 ## Itinerario giorno per giorno
@@ -179,7 +179,7 @@ Those with an afternoon flight take a tour of **Malé**, the densest capital in 
 
 **In practice:** Malé-airport ferry 10 minutes, $1-2 · Friday Mosque open to visitors with covered clothing, not during prayer · departure tax usually already included in the ticket.
 
-## Dove dormire
+## Where to sleep
 - **Local islands, budget (a double with breakfast $60-100 a night):** simple guesthouses, often family-run, in Maafushi, Dhigurah, Fulidhoo, Ukulhas, Thoddoo, Rasdhoo.
 - **Local islands, mid-range ($100-200):** boutique guesthouses and small hotels with a pool or beachfront rooms, increasingly common in Dhigurah, Maafushi and Thulusdhoo.
 - **Resorts, mid-range ($300-600 a night):** simple resorts by speedboat from Malé, often with good-value full board or all inclusive.
@@ -187,7 +187,7 @@ Those with an afternoon flight take a tour of **Malé**, the densest capital in 
 - **Hulhumalé:** hotels and guesthouses for the first or last night, $60-150.
 - **Taxes:** on top of the prices add the 17% TGST, the 10% service and the green tax ($6 per person a night in guesthouses up to 50 rooms, $12 in resorts).
 
-## Dove mangiare
+## Where to eat
 - **On the local islands:** **mas huni** at breakfast (tuna, grated coconut, onion and chili with roshi, a flatbread), **garudhiya** (tuna broth with rice, lime and chili), tuna and fish curry, grilled fish caught the same day, the afternoon **short eats** (gulha, bajiya, kavaabu), sweet tea. No pork and no alcohol.
 - **In resorts:** international buffets, seafood restaurants, beach dinners. À la carte prices are high: full board or all inclusive often pays off.
 - **In Malé and Hulhumalé:** local cafés for short eats, restaurants on the Hulhumalé waterfront.

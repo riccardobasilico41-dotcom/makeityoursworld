@@ -3,11 +3,13 @@ import type { TripMeta } from '@/lib/types'
 // Overlay di metadati per "Egitto in 11 giorni: il Cairo, le piramidi, Luxor e
 // il Mar Rosso" (src/content/viaggi/71-egitto-mare-luxor-cairo.md).
 // `titoloGiorno` deve combaciare esattamente con le intestazioni "### Giorno N — ..."
-// del markdown. Guida non vissuta: nessun campo personale, immagini da recuperare.
+// del markdown. Viaggio di Rick (conferma 6/11/2026) scritto in forma di guida: nessun campo personale, immagini da recuperare.
 
 export const egittoMareLuxorCairoMeta: TripMeta = {
   tripSlug: 'egitto-mare-luxor-cairo',
   paeseSlug: 'egitto',
+  provenienza: 'journey',
+  mesiConsigliati: [10, 11, 12, 1, 2, 3, 4],
   ritmo:
     'Intenso nei primi sei giorni, con sveglie all\'alba al Cairo e a Luxor per evitare caldo e gruppi; poi quattro giorni di mare a ritmo libero prima del volo diretto di rientro.',
   trasporti:

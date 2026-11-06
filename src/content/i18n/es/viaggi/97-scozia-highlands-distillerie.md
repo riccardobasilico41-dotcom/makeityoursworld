@@ -1,7 +1,7 @@
 # Escocia en coche: Edimburgo, las Highlands y las destilerías en dos semanas
 
 **Stato bozza:** 🟡 en elaboración (itinerario construido sobre el viaje de Rick, hecho en coche en julio, y completado con la investigación: información práctica, horarios y precios de las destilerías verificados en noviembre de 2026; fotos de archivo de Wikimedia Commons)
-**Periodo del viaggio:** julio. El itinerario vale de mayo a septiembre, con los días más largos, y para Rick también el otoño, con el follaje, es precioso; el tiempo sigue siendo imprevisible en todas las estaciones
+**Periodo del viaggio:** julio
 **Durata:** 12 días, 11 noches, más 4-5 días para la variante North Coast 500
 **Compagni di viaggio:** itinerario pensado para una pareja o un grupo pequeño con coche de alquiler, y al menos una persona que conduce y no bebe
 **Categoria:** Europa · Scozia · Edimburgo · Highlands · Skye · Oban · Loch Ness · Speyside · distillerie · whisky · on the road · North Coast 500
@@ -20,6 +20,7 @@ Quien tenga algunos días más puede subir hasta el norte del norte, por la **No
 Y hay una regla que vale para todo el viaje, destilerías incluidas. En Escocia el límite de alcohol al volante es más bajo que en Inglaterra, pero el consejo de Rick es todavía más sencillo: **tolerancia cero**. Quien conduce no bebe, ni siquiera la cata.
 
 ## Scheda pratica
+- **Cuándo ir:** El itinerario vale de mayo a septiembre, con los días más largos, y para Rick también el otoño, con el follaje, es precioso; el tiempo sigue siendo imprevisible en todas las estaciones
 - **Documentos:** Escocia forma parte del Reino Unido, fuera de la Unión Europea. Desde el 2 de abril de 2025 los ciudadanos italianos necesitan la **ETA**, que se pide en gov.uk o con la app oficial UK ETA: cuesta 20 libras (2026) y vale 2 años, o hasta que caduque el pasaporte. Hace falta el **pasaporte**: el documento de identidad solo se acepta en casos concretos.
 - **Coche:** se alquila en Edimburgo. El carné de conducir italiano es válido sin permiso internacional. Conviene un coche no demasiado grande, por las carreteras de un solo carril.
 - **Conducir por la izquierda:** en las carreteras de un solo carril uno se para en el apartadero (passing place) de su izquierda, o espera delante del de la derecha, y da las gracias con un gesto. En los apartaderos no se aparca. Ovejas y ciervos cruzan de repente.

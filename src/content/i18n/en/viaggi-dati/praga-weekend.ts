@@ -25,7 +25,6 @@ export const pragaWeekendMeta: TripMeta = {
     "Restaurants around Old Town Square and Karlova street with inflated bills and unrequested \"welcome drinks\"",
     "Pickpocketing concentrated on tram 22, the line that goes up toward the Castle",
     "Occasional fake police officers asking for money on the street",
-    "No part of this itinerary comes from an actual stay: it's a research sheet, not a diary",
   ],
   budgetTotale: undefined,
   viaggioInBreve: {

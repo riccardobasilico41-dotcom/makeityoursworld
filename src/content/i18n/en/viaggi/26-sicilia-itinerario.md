@@ -1,7 +1,7 @@
 # Eastern Sicily in 10 Days: Etna, the Greeks and the Baroque
 
 **Stato bozza:** 🟡 work in progress (itinerary and practical information verified; the first-person passages are written as a draft to reread and personalize)
-**Periodo del viaggio:** **May-June or September-October**
+**Periodo del viaggio:**
 **Durata:** 10 days, 9 nights
 **Compagni di viaggio:** with friends, independent, with a rental car
 **Categoria:** Europa · Italia · Sicilia · archeologia · vulcani · gastronomia

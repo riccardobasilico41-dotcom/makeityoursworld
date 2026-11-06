@@ -1,7 +1,7 @@
 # Centroamérica en 32 días: Guatemala y Belice por tierra, Panamá en vuelo aparte
 
 **Stato bozza:** 🟡 en elaboración
-**Periodo del viaggio:** diciembre-abril, la estación seca común a Guatemala, Belice y la mayor parte de Panamá (capital, San Blas, Boquete). Bocas del Toro es la excepción, con un microclima caribeño propio, a menudo más soleado en septiembre-octubre y en febrero-marzo — afecta solo a los últimos días de la Parte 2
+**Periodo del viaggio:**
 **Durata:** 32 días, 31 noches
 **Compagni di viaggio:** con amigos, por nuestra cuenta, con shuttles turísticos, autobuses, un vuelo intercontinental interno (Belice-Panamá) y guías locales obligatorios en los tramos que lo exigen (trekking al Acatenango, cueva ATM, islas de San Blas gestionadas por la comunidad guna)
 **Categoria:** America Centrale · Guatemala · Belize · Panama · vulcani · cultura maya · barriera corallina · isole caraibiche

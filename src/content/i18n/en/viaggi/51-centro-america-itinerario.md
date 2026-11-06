@@ -1,7 +1,7 @@
 # Central America in 32 Days: Guatemala and Belize Overland, Panama by Separate Flight
 
 **Stato bozza:** 🟡 in progress (itinerary and practical information complete and verified)
-**Periodo del viaggio:** December-April, the dry season shared by Guatemala, Belize and most of Panama (the capital, San Blas, Boquete). Bocas del Toro is the exception, with its own Caribbean microclimate, often sunnier in September-October and in February-March; this only affects the last days of Part 2
+**Periodo del viaggio:**
 **Durata:** 32 days, 31 nights
 **Compagni di viaggio:** with friends, independently, using tourist shuttles, buses, one internal intercontinental flight (Belize-Panama) and the local guides required on the stretches that need them (the Acatenango trek, the ATM cave, the San Blas islands run by the Guna community)
 **Categoria:** America Centrale · Guatemala · Belize · Panama · vulcani · cultura maya · barriera corallina · isole caraibiche

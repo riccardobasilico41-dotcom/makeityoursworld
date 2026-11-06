@@ -1,7 +1,7 @@
 # Borneo in due settimane: Kinabalu, oranghi, il fiume e Sipadan
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche completi e verificati; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare — mancano date esatte, nomi dei lodge e prezzi effettivamente pagati)
-**Periodo del viaggio:** da aprile a settembre [anno da confermare] — mare calmo a Semporna, meno pioggia sul Kinabalu, animali concentrati sulle rive del Kinabatangan
+**Periodo del viaggio:**
 **Durata:** 12 giorni, 11 notti
 **Compagni di viaggio:** con amici, in autonomia, con lodge e permessi prenotati con mesi di anticipo
 **Categoria:** Asia · Borneo · Malesia · fauna selvatica · trekking · diving

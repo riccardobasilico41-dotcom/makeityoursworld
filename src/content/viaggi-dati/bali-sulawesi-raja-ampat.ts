@@ -13,6 +13,8 @@ import type { TripMeta } from '@/lib/types'
 export const baliSulawesiRajaAmpatMeta: TripMeta = {
   tripSlug: 'bali-sulawesi-raja-ampat',
   paeseSlug: 'indonesia',
+  provenienza: 'combined',
+  mesiConsigliati: [7, 8, 9, 10],
   ritmo:
     'Veloce: tre isole in dodici giorni, con tre voli interni e un giorno intero di viaggio al rientro da Raja Ampat. Lento solo in acqua, tra Kri e le isole Fam',
   trasporti:

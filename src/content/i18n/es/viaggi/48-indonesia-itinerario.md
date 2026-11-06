@@ -1,7 +1,7 @@
 # Indonesia en 35 días: de Sumatra a Sulawesi, isla tras isla
 
 **Stato bozza:** 🟡 en elaboración (itinerario e información práctica completos y verificados)
-**Periodo del viaggio:** abril-octubre — la estación seca que cubre todo el archipiélago recorrido por este itinerario. Raja Ampat, cuya mejor ventana es la opuesta (octubre-abril), queda fuera precisamente por este motivo
+**Periodo del viaggio:** seis viajes a Indonesia a lo largo de los años
 **Durata:** 35 días, 34 noches
 **Compagni di viaggio:** con amigos, por libre, con vuelos internos, ferris, autobuses y guías locales obligatorios en los tramos que los requieren (trekking al Rinjani, orangutanes en Bukit Lawang, dragones de Komodo)
 **Categoria:** Asia · Indonesia · vulcani · giungla · trekking · isole · cultura

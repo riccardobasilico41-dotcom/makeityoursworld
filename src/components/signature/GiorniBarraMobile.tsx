@@ -3,6 +3,7 @@
 import { useEffect, useId, useRef, useState } from 'react'
 import { ChevronDown, Map as MapIcon, X } from 'lucide-react'
 import { RouteLine } from './RouteLine'
+import { MiniMappaRotta } from './rotta-client'
 import { useAncoraAttiva } from './useAncoraAttiva'
 import type { PuntoTappa } from './geo'
 import { useLingua } from '@/lib/i18n/LinguaProvider'
@@ -63,6 +64,7 @@ export function GiorniBarraMobile({
   tappe,
   tappeGiorni,
   paeseSlug,
+  rottaSlug,
 }: {
   giorni: VoceGiorno[]
   sezioni: VoceSezione[]
@@ -71,6 +73,8 @@ export function GiorniBarraMobile({
   /** Per ogni giorno, gli indici delle sue tappe in `tappe` (vedi `tappeDeiGiorni`). */
   tappeGiorni: number[][]
   paeseSlug: string
+  /** slug del viaggio, se ha la mappa vera della rotta (src/lib/mappa-rotta.ts): al posto della linea astratta */
+  rottaSlug?: string
 }) {
   const lingua = useLingua()
   const t = T[lingua]
@@ -163,7 +167,7 @@ export function GiorniBarraMobile({
       {aperto && (
         <div
           id={pannelloId}
-          className={`absolute inset-x-0 top-full ${aperto === 'mappa' ? 'max-h-[45vh]' : 'max-h-[min(60vh,32rem)]'} overflow-y-auto overscroll-contain border-b-2 border-ink bg-cream pb-[env(safe-area-inset-bottom)]`}
+          className={`absolute inset-x-0 top-full max-h-[min(60vh,32rem)] overflow-y-auto overscroll-contain border-b-2 border-ink bg-cream pb-[env(safe-area-inset-bottom)]`}
         >
           {aperto === 'indice' ? (
             <div className="px-6 py-4 sm:px-8">
@@ -225,6 +229,16 @@ export function GiorniBarraMobile({
                 {corrente ? `${t.tappaDelGiorno} · ${unita} ${corrente.numero}` : t.mappa}
               </p>
               {corrente && evidenzia.length === 0 && <p className="mt-1 text-sm text-stone">{t.nessunaTappa}</p>}
+              {rottaSlug ? (
+                <>
+                  {evidenzia.length > 0 && (
+                    <p className="mt-1 font-display text-base leading-snug text-rosso">
+                      {[...new Set(evidenzia.map((i) => tappe[i]?.nome).filter(Boolean))].join(' · ')}
+                    </p>
+                  )}
+                  <MiniMappaRotta slug={rottaSlug} evidenzia={evidenzia} subito className="mx-auto mt-3 max-w-[calc(34vh*4/3)]" />
+                </>
+              ) : (
               <div className="mt-3 border-2 border-ink bg-white p-3">
                 <RouteLine
                   tappe={tappe}
@@ -235,6 +249,7 @@ export function GiorniBarraMobile({
                   className="h-32"
                 />
               </div>
+              )}
               <a
                 href="#mappa"
                 onClick={() => setAperto(null)}

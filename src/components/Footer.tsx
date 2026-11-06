@@ -1,6 +1,6 @@
 import Link from '@/components/ui/Link'
 import { Container } from './ui/Container'
-import { siteConfig } from '@/lib/site-config'
+import { siteConfig, socialPubblici } from '@/lib/site-config'
 import { Marchio } from './Marchio'
 import { linguaCorrente } from '@/lib/i18n/server'
 import { SITO } from '@/lib/i18n/sito'
@@ -19,6 +19,7 @@ const T = {
     trasparenza: 'Trasparenza',
     privacy: 'Privacy',
     cookie: 'Cookie',
+    crediti: 'Crediti fotografici',
   },
   en: {
     dopoTagline: 'with day-by-day stops, practical tips and memories to reread.',
@@ -32,6 +33,7 @@ const T = {
     trasparenza: 'Transparency',
     privacy: 'Privacy',
     cookie: 'Cookies',
+    crediti: 'Photo credits',
   },
   es: {
     dopoTagline: 'con etapas día a día, consejos prácticos y recuerdos para releer.',
@@ -45,6 +47,7 @@ const T = {
     trasparenza: 'Transparencia',
     privacy: 'Privacidad',
     cookie: 'Cookies',
+    crediti: 'Créditos fotográficos',
   },
 } satisfies Record<Lingua, Record<string, string>>
 
@@ -93,6 +96,19 @@ export async function Footer() {
             {t.comeLavoro}
           </Link>
         </p>
+        {/* social: solo con contatti accesi e URL completi in site-config (nessun link vuoto) */}
+        {socialPubblici.length > 0 && (
+          <p className="text-sm text-cream/70">
+            {socialPubblici.map((r, i) => (
+              <span key={r.rete}>
+                {i > 0 && <span className="mx-3 text-cream/30">·</span>}
+                <a href={r.url} rel="me noopener noreferrer" className="capitalize underline decoration-cream/30 underline-offset-4 hover:text-cream">
+                  {r.rete}
+                </a>
+              </span>
+            ))}
+          </p>
+        )}
       </Container>
 
       <Container className="border-t border-cream/10 py-6 text-center text-xs text-cream/50">
@@ -109,6 +125,10 @@ export async function Footer() {
           <span className="mx-2 text-cream/30">·</span>
           <Link href="/cookie" className="underline decoration-cream/30 underline-offset-4 hover:text-cream">
             {t.cookie}
+          </Link>
+          <span className="mx-2 text-cream/30">·</span>
+          <Link href="/crediti-fotografici" className="underline decoration-cream/30 underline-offset-4 hover:text-cream">
+            {t.crediti}
           </Link>
         </p>
       </Container>

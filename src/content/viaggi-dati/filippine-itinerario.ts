@@ -3,11 +3,13 @@ import type { TripMeta } from '@/lib/types'
 // Overlay di metadati per "Filippine in 18 giorni: El Nido, Coron, Moalboal, Bohol e
 // Siargao" (src/content/viaggi/74-filippine-itinerario.md).
 // `titoloGiorno` deve combaciare esattamente con le intestazioni "### Giorno N — ..."
-// del markdown. Guida non vissuta: nessun campo personale, immagini da recuperare.
+// del markdown. Viaggio di Rick (conferma 6/11/2026) scritto in forma di guida: nessun campo personale, immagini da recuperare.
 
 export const filippineItinerarioMeta: TripMeta = {
   tripSlug: 'filippine-itinerario',
   paeseSlug: 'filippine',
+  provenienza: 'journey',
+  mesiConsigliati: [3, 4, 5],
   ritmo:
     'Medio: quasi ogni giorno una barca o uno snorkeling, con cinque giornate di trasferimento tra isole (voli, traghetti, van) e un giorno impegnativo di canyoning; i giorni a Siargao sono i più lenti.',
   trasporti:

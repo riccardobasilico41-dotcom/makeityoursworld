@@ -1,7 +1,7 @@
 # Eastern Canada on the road in 16 days: Toronto, Niagara, Ottawa, Montréal, Québec City and Tadoussac
 
 **Stato bozza:** 🟡 in progress
-**Periodo del viaggio:** designed for June to September, when the Niagara boat and the whale-watching cruises at Tadoussac are running, or for late September to mid-October, with fall colors in the Laurentians and Charlevoix
+**Periodo del viaggio:**
 **Durata:** 16 days, 15 nights, plus an optional 3-5 day extension to Churchill (Manitoba) for the polar bears
 **Compagni di viaggio:** with friends, on our own, with a pickup truck rented in Toronto and returned in Montréal, about 1,900-2,000 km (1,200 miles) of driving
 **Categoria:** Nord America · Canada · Ontario · Québec · road trip · cascate del Niagara · città · balene · orsi polari

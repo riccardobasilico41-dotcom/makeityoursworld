@@ -1,7 +1,7 @@
 # Cracovia en un fin de semana largo
 
 **Stato bozza:** 🟡 en elaboración (viaje hecho por Rick; itinerario e información práctica verificados)
-**Periodo del viaggio:** **abril-mayo o septiembre-octubre**
+**Periodo del viaggio:**
 **Durata:** 3-4 días, 3 noches
 **Compagni di viaggio:** con amigos, por nuestra cuenta, todo a pie y en transporte público
 **Categoria:** Europa · Polonia · Cracovia · storia · memoria · gastronomia

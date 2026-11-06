@@ -10,7 +10,7 @@ export const destinazioniInghilterra: Destinazione[] = [
     nome: 'Londres',
     tipologia: ['città', 'musei', 'cultura'],
     giorniConsigliati: '4 días',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La capital del Reino Unido, a orillas del Támesis. Westminster y Buckingham Palace, la Torre y el Tower Bridge, los museos nacionales gratuitos, los parques reales y barrios muy distintos entre sí, de Covent Garden a Notting Hill.',
     percheAndarci:
@@ -135,7 +135,7 @@ export const destinazioniInghilterra: Destinazione[] = [
     nome: 'Cotswolds',
     tipologia: ['campagna', 'borghi', 'natura'],
     giorniConsigliati: '2-3 días',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Una zona de colinas y pueblos de piedra caliza color miel, casi 800 millas cuadradas a caballo entre cinco condados: Gloucestershire, Oxfordshire, Warwickshire, Wiltshire y Worcestershire. Es un área protegida, el Cotswolds National Landscape.',
     percheAndarci:
@@ -231,7 +231,7 @@ export const destinazioniInghilterra: Destinazione[] = [
     nome: 'Oxford',
     tipologia: ['città', 'cultura', 'università'],
     giorniConsigliati: '1 día',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La ciudad universitaria más antigua del mundo anglófono, con los colleges de piedra clara, las bibliotecas y los patios. Está entre Londres y los Cotswolds, y para en la misma línea de tren.',
     percheAndarci: 'Por los colleges, la Radcliffe Camera y la Bodleian, en una jornada a pie. Es también el sitio más cómodo para recoger el coche para los Cotswolds.',
@@ -252,7 +252,7 @@ export const destinazioniInghilterra: Destinazione[] = [
     nome: 'Bath',
     tipologia: ['città', 'storia', 'terme'],
     giorniConsigliati: '1 día',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Una ciudad de piedra dorada construida alrededor de los manantiales calientes, con las termas romanas, la abadía y los edificios georgianos del siglo XVIII. Es Patrimonio de la UNESCO.',
     percheAndarci: 'Por las termas romanas, los crescents georgianos y el final natural de un viaje por los Cotswolds, antes de volver a Londres en tren.',

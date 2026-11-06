@@ -4,6 +4,7 @@ import { ArrowRight, Compass, Landmark, Map } from 'lucide-react'
 import { HeaderAction, PageHeader } from '@/components/ui/PageHeader'
 import { linguaCorrente } from '@/lib/i18n/server'
 import type { Lingua } from '@/lib/i18n/config'
+import { SegnaNonTrovata } from '@/lib/i18n/NonTrovata'
 
 const T = {
   it: {
@@ -65,6 +66,8 @@ export default async function NotFound() {
   ]
   return (
     <>
+      {/* il selettore della lingua porta alla home dell'altra lingua, non a un altro 404 */}
+      <SegnaNonTrovata />
       <PageHeader
         eyebrow={
           // «ERROR 404» enorme, da cartello stradale: è la prima cosa che si legge

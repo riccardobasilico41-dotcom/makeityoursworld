@@ -1,7 +1,7 @@
 # Bali, Nusa Penida, Nusa Lembongan e Komodo in due settimane: risaie, scogliere e draghi
 
 **Stato bozza:** 🟡 in lavorazione (Bali, Nusa Penida e Komodo li ha visti Rick; tratte, tempi e prezzi verificati il 5 novembre 2026 su fonti ufficiali e di settore, da ricontrollare prima di partire. Orari e prezzi delle barche per le Nusa e importo della tassa locale delle Nusa non confermati, quindi lasciati generici)
-**Periodo del viaggio:** pensato per aprile-ottobre, la stagione secca di Bali. A Komodo la stagione secca, con il mare più calmo, va da aprile a dicembre
+**Periodo del viaggio:**
 **Durata:** 14 giorni, 13 notti
 **Compagni di viaggio:** in autonomia, con driver a giornata a Bali, barca veloce per le Nusa, un volo interno andata e ritorno per Labuan Bajo e una barca con pernottamento a bordo nel Parco di Komodo
 **Categoria:** Asia · Indonesia · Bali · Nusa Penida · Nusa Lembongan · Komodo · isole · mare · snorkeling · risaie

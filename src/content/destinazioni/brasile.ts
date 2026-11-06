@@ -820,7 +820,7 @@ export const destinazioniBrasile: Destinazione[] = [
     nome: 'Pantanal (Transpantaneira e Porto Jofre)',
     tipologia: ['fauna', 'safari', 'zona umida'],
     giorniConsigliati: '4-6 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La più grande zona umida tropicale del mondo. Nel Pantanal nord, lungo la strada sterrata della Transpantaneira fino a Porto Jofre, nella stagione secca i giaguari si vedono sulle rive dei fiumi con una regolarità che non ha confronti.',
     percheAndarci: 'Per i giaguari, le lontre giganti, i caimani e gli uccelli della zona umida.',
@@ -931,7 +931,7 @@ export const destinazioniBrasile: Destinazione[] = [
     nome: 'Amazzonia da Manaus',
     tipologia: ['foresta', 'fiume', 'fauna'],
     giorniConsigliati: '4-5 giorni, fino a 10 proseguendo verso Perù o Colombia',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Manaus, città di oltre due milioni di abitanti raggiungibile solo in aereo o in barca, è la porta dell\'Amazzonia brasiliana, alla confluenza tra il Rio Negro e il Solimões. Da qui si risale il fiume fino alla triplice frontiera con Colombia e Perù.',
     percheAndarci: 'Per la foresta allagata, i delfini rosa, l\'Incontro delle Acque e, volendo, per attraversare il continente via fiume.',

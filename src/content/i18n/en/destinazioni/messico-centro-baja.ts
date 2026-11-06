@@ -682,7 +682,7 @@ export const destinazioniMessicoCentroBaja: Destinazione[] = [
     nome: 'Pátzcuaro and Janitzio (Michoacán)',
     tipologia: ['Día de los Muertos', 'lago', 'villaggi'],
     giorniConsigliati: '2-3 days between October 30 and November 2',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       "Pátzcuaro is a Purépecha colonial town on the lake of the same name, in the state of Michoacán. On the island of Janitzio, on the night of November 1, the cemetery lights up with candles and boats arrive from the shores: it is the most famous image of Día de los Muertos.",
     percheAndarci:

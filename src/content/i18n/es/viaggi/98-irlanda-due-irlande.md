@@ -1,7 +1,7 @@
 # Las dos Irlandas: de la República a Irlanda del Norte en dos semanas
 
-**Stato bozza:** 🟡 en preparación (guía construida a partir de la investigación, no un viaje hecho por Rick: sin recuerdos personales. Documentos, ETA, conducción, precios e historia verificados en noviembre de 2026 en ireland.com, gov.uk, nidirect.gov.uk, heritageireland.ie, cliffsofmoher.ie, National Trust, ONS y Wikipedia; horarios y precios deben comprobarse antes de salir)
-**Periodo del viaggio:** pensado para mayo-septiembre, con días largos; mayo y junio suelen ser los meses más soleados
+**Stato bozza:** 🟡 en elaboración (viaje hecho por Rick; información práctica verificada en octubre-noviembre de 2026, a comprobar antes de salir; recuerdos en primera persona solo los que da Rick, ninguno inventado)
+**Periodo del viaggio:**
 **Durata:** 12 días, 11 noches, ruta circular en coche desde Dublín
 **Compagni di viaggio:** itinerario pensado para viajar por libre, en pareja o en grupo pequeño, con un coche de alquiler recogido y devuelto en Dublín
 **Categoria:** Europa · Irlanda · Irlanda del Nord · Regno Unito · on the road · storia · costa · natura · pub e musica
@@ -11,7 +11,7 @@
 ## Apertura personale
 En la misma isla hay dos Estados. Al sur, la República de Irlanda, en la Unión Europea, con el euro. Al norte, Irlanda del Norte, que forma parte del Reino Unido y usa la libra. La frontera entre las dos casi no se ve: ni barreras ni aduana. Uno se da cuenta de que la ha cruzado porque las señales pasan de kilómetros a millas.
 
-Este viaje es una ruta circular en coche de doce días que sale de Dublín y vuelve a Dublín. Baja al sur hacia Glendalough, Kilkenny y Cork, recorre la costa atlántica de Kerry a Connemara y sube al norte hasta Derry/Londonderry, la costa de Antrim y Belfast. Rick no lo ha hecho: es una guía, escrita a partir de fuentes verificadas y sin recuerdos personales.
+Este viaje es una ruta circular en coche de doce días que sale de Dublín y vuelve a Dublín. Baja al sur hacia Glendalough, Kilkenny y Cork, recorre la costa atlántica de Kerry a Connemara y sube al norte hasta Derry/Londonderry, la costa de Antrim y Belfast. Es un viaje de Rick, y aquí el relato deja espacio sobre todo a la información práctica, verificada en fuentes oficiales.
 
 También hay una sección larga sobre las dos Irlandas: por qué la isla está dividida, qué fueron los Troubles, qué cambió el Acuerdo de Viernes Santo y cómo están las cosas hoy.
 
@@ -111,7 +111,7 @@ Las entradas principales verificadas para 2026: Kilmainham Gaol 8 €, Glendalou
 ## Chiusura personale
 Irlanda se recorre por los paisajes, y no decepcionan: los acantilados, Kerry, Connemara, la costa de Antrim. El motivo para llegar hasta el norte es otro. Entre Derry y Belfast se camina dentro de una historia todavía reciente, y el Acuerdo de 1998 deja de ser una fecha del libro.
 
-*Rick no ha hecho este viaje: está escrito en forma de guía. Fuentes: ireland.com, gov.uk y nidirect.gov.uk para documentos, ETA, conducción y sanidad; heritageireland.ie, cliffsofmoher.ie, visittrinity.ie, National Trust y titanicbelfast.com para entradas y horarios; discovernorthernireland.com y visitbelfast.com para los tours; ONS para los datos económicos; Wikipedia para la historia. Verificado en noviembre de 2026. Precios, horarios y normas cambian: hay que comprobarlos antes de salir.*
+*Un viaje de Rick, contado sobre todo a través de la información práctica. Fuentes: ireland.com, gov.uk y nidirect.gov.uk para documentos, ETA, conducción y sanidad; heritageireland.ie, cliffsofmoher.ie, visittrinity.ie, National Trust y titanicbelfast.com para entradas y horarios; discovernorthernireland.com y visitbelfast.com para los tours; ONS para los datos económicos; Wikipedia para la historia. Verificado en noviembre de 2026. Precios, horarios y normas cambian: hay que comprobarlos antes de salir.*
 
 ## Nota su questa bozza
 Faltan los recuerdos de Rick: no es un viaje hecho. Quedan genéricos, por falta de fuentes confirmadas, los tiempos de conducción entre etapas, los precios del coche y del alojamiento, la entrada del Book of Kells, los precios de Charles Fort, Dunluce Castle, Kylemore Abbey y Muckross House, y la fecha exacta en que reabre la Long Room. El precio de Carrick-a-Rede viene de Wikipedia y hay que confirmarlo en la web del National Trust. Ningún nombre de hotel, restaurante u operador inventado.

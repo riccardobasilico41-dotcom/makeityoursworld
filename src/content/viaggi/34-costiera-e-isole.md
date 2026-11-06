@@ -1,7 +1,7 @@
 # Costiera Amalfitana e le isole del golfo in 9 giorni
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
-**Periodo del viaggio:** **maggio-giugno oppure metà settembre-inizio ottobre**
+**Periodo del viaggio:**
 **Durata:** 9 giorni, 8 notti — divisibile in due blocchi da 4-5
 **Compagni di viaggio:** con amici, in autonomia, **senza auto**, tutto in traghetto, bus e a piedi
 **Categoria:** Europa · Italia · Campania · mare · trekking · isole

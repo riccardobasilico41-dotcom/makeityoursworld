@@ -1,7 +1,7 @@
 # Dolomites Roadtrippin': a Guide by Area, Across South Tyrol and Trentino
 
 **Stato bozza:** 🟡 in progress (areas, elevation gains and practical information verified and up to date)
-**Periodo del viaggio:** summer from June to September, winter from December to March
+**Periodo del viaggio:**
 **Durata:** modular — from a weekend in a single area to a full two-week loop. Three ready-made proposals below.
 **Compagni di viaggio:** with friends, independent, by car
 **Categoria:** Europa · Italia · Dolomiti · roadtrip · trekking · sci · montagna

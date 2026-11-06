@@ -1,7 +1,7 @@
 # India: il Rajasthan in 10 giorni, da Delhi al Taj Mahal fino ai laghi di Udaipur
 
-**Stato bozza:** 🟡 in lavorazione (proposta costruita sulla ricerca e sul viaggio lungo di Rick in Rajasthan e Varanasi, non un viaggio fatto così; informazioni pratiche verificate a ottobre-novembre 2026)
-**Periodo del viaggio:** pensato per ottobre-marzo, con novembre-febbraio come finestra migliore
+**Stato bozza:** 🟡 in lavorazione (luoghi visitati da Rick, rimessi in fila in un percorso pratico; informazioni pratiche verificate a ottobre-novembre 2026 e da ricontrollare prima di partire; ricordi in prima persona solo quelli dati da Rick, nessuno inventato)
+**Periodo del viaggio:**
 **Durata:** 10 giorni, 9 notti
 **Compagni di viaggio:** itinerario pensato per viaggiare in autonomia, con treni veloci per i tratti Delhi-Agra e Jaipur-Jodhpur, auto con autista per le tappe senza ferrovia comoda e un volo interno per il rientro
 **Categoria:** Asia · India · Rajasthan · triangolo d'oro · forti e palazzi · cultura
@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-Questa è una versione corta, da dieci giorni, costruita sulla ricerca e sul viaggio lungo che Rick ha fatto in India: *India: Varanasi, Ranthambore e il Rajasthan in 19 giorni*, con i treni notturni e l'autista. Rick non l'ha fatto in questo modo. Tiene le tappe del Rajasthan che stanno in dieci giorni e lascia fuori Varanasi, Ranthambore, Pushkar e il deserto.
+Questa è una versione corta, da dieci giorni, del viaggio lungo che Rick ha fatto in India: *India: Varanasi, Ranthambore e il Rajasthan in 19 giorni*, con i treni notturni e l'autista. I luoghi sono quelli del viaggio; la sequenza in dieci giorni è una versione accorciata per chi ha meno tempo. Tiene le tappe del Rajasthan che stanno in dieci giorni e lascia fuori Varanasi, Ranthambore, Pushkar e il deserto.
 
 Il Rajasthan è il primo viaggio in India più sensato per chi parte dall'Italia. Le distanze sono gestibili, i monumenti sono tra i più belli del paese e la rete di treni, autisti e hotel heritage permette di organizzarsi da soli senza affidarsi a un tour di gruppo. Questo itinerario mette in fila in dieci giorni il triangolo d'oro (Delhi, Agra, Jaipur) e due città del Rajasthan che da sole valgono il viaggio: Jodhpur, la città blu sotto il forte di Mehrangarh, e Udaipur, la città dei laghi e dei palazzi bianchi.
 
@@ -170,7 +170,7 @@ Prezzi a persona in camera doppia, voli intercontinentali esclusi (dall'Italia a
 ## Chiusura personale
 Dieci giorni in Rajasthan non bastano a capire l'India, ma bastano a capire se si vuole tornare. È un viaggio fatto di contrasti forti: il rumore di Delhi e il silenzio del Taj alle sei del mattino, il caos dei bazar di Jaipur e il vento sulle mura del Mehrangarh, i clacson continui sulle strade e la calma di una terrazza sul lago Pichola al tramonto. Chi lo prepara bene, con treni prenotati, un autista affidabile e due notti in ogni città, torna a casa con la voglia di vedere il resto: Varanasi, il deserto del Thar, il Sud.
 
-*Questo itinerario non è un viaggio fatto così da Rick: è una versione corta costruita sulla ricerca e sul suo viaggio lungo, India: Varanasi, Ranthambore e il Rajasthan in 19 giorni. Da quel viaggio vengono le tappe del Rajasthan, l'avvertenza sul venerdì del Taj, il consiglio sulle file ai controlli e quello di scegliere bene l'autista (il suo non lo consiglia). Tratte, tempi, prezzi e regole vengono da portali ufficiali del visto e delle ferrovie indiane, dal sito ufficiale del Taj Mahal, dai siti dei monumenti, da Viaggiare Sicuri e da guide recenti, verificati a ottobre-novembre 2026: vanno ricontrollati prima di partire.*
+*Questa versione corta nasce dal viaggio lungo di Rick in India, India: Varanasi, Ranthambore e il Rajasthan in 19 giorni: i luoghi sono quelli che ha visitato, la sequenza in dieci giorni è ricomposta per chi ha meno tempo. Da quel viaggio vengono le tappe del Rajasthan, l'avvertenza sul venerdì del Taj, il consiglio sulle file ai controlli e quello di scegliere bene l'autista (il suo non lo consiglia). Tratte, tempi, prezzi e regole vengono da portali ufficiali del visto e delle ferrovie indiane, dal sito ufficiale del Taj Mahal, dai siti dei monumenti, da Viaggiare Sicuri e da guide recenti, verificati a ottobre-novembre 2026: vanno ricontrollati prima di partire.*
 
 ## Nota su questa bozza
 Itinerario e informazioni pratiche costruiti con ricerca documentale (portali ufficiali del visto e delle ferrovie indiane, siti dei monumenti, Viaggiare Sicuri, guide e blog recenti), aggiornati a ottobre 2026. Prezzi di ingressi, treni e alloggi cambiano spesso e sono indicativi: vanno riverificati prima di partire. Proposta non vissuta così: versione corta del viaggio 77 (Varanasi e Rajasthan), fatto da Rick. Testo in voce di guida, senza prima persona. Aggiornata il 4 novembre 2026.

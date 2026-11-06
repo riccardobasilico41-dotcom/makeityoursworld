@@ -32,6 +32,9 @@ import { creditiCopertine } from '@/content/viaggi-copertine-crediti'
 import { creditiHeroVideo } from '@/content/viaggi-hero-video-crediti'
 import { DaySectionSignature } from '@/components/signature/DaySectionSignature'
 import { RouteLine } from '@/components/signature/RouteLine'
+import { MappaRottaDifferita } from '@/components/signature/rotta-client'
+import Link from '@/components/ui/Link'
+import { datiRotta } from '@/lib/mappa-rotta'
 import { Container } from '@/components/ui/Container'
 import { getAllViaggi, getViaggioBySlug, type Viaggio } from '@/lib/viaggi'
 import { getPaese, getTripMeta } from '@/lib/geo'
@@ -76,6 +79,9 @@ const T = {
     verifica: 'Prezzi, orari, documenti e traghetti vanno sempre verificati prima della partenza.',
     laRotta: 'La rotta',
     rottaLead: "Le tappe dell'itinerario, nell'ordine in cui si visitano.",
+    rottaLeadMappa: "Le tappe dell'itinerario su una mappa vera, nell'ordine in cui si visitano: tocca un numero per avvicinarti e aprire la scheda.",
+    tappeInOrdine: 'Le tappe, in ordine',
+    rottaLeadUnica: (nome: string) => `Tutte le tappe del viaggio ruotano attorno a una sola destinazione, ${nome}: la mappa mostra dove si trova.`,
     budgetNota:
       "Voci di spesa indicative: dove non c'è un dato affidabile, la voce resta vuota invece di una stima inventata.",
     doveHoDormito: 'Dove ho dormito',
@@ -115,6 +121,9 @@ const T = {
     verifica: 'Prices, opening hours, documents and ferries should always be checked before departure.',
     laRotta: 'The route',
     rottaLead: 'The stops of the itinerary, in the order they are visited.',
+    rottaLeadMappa: 'The stops of the itinerary on a real map, in the order they are visited: tap a number to zoom in and open its page.',
+    tappeInOrdine: 'The stops, in order',
+    rottaLeadUnica: (nome: string) => `Every stop of the trip revolves around a single destination, ${nome}: the map shows where it is.`,
     budgetNota:
       "Indicative costs: where there's no reliable figure, the line is left blank instead of an invented estimate.",
     doveHoDormito: 'Where I stayed',
@@ -154,6 +163,9 @@ const T = {
     verifica: 'Los precios, horarios, documentos y ferris deben comprobarse siempre antes de salir.',
     laRotta: 'La ruta',
     rottaLead: 'Las paradas del itinerario, en el orden en que se visitan.',
+    rottaLeadMappa: 'Las paradas del itinerario en un mapa real, en el orden en que se visitan: toca un número para acercarte y abrir su ficha.',
+    tappeInOrdine: 'Las paradas, en orden',
+    rottaLeadUnica: (nome: string) => `Todas las paradas del viaje giran en torno a un solo destino, ${nome}: el mapa muestra dónde está.`,
     budgetNota:
       'Partidas de gasto orientativas: donde no hay un dato fiable, la partida queda vacía en lugar de una estimación inventada.',
     doveHoDormito: 'Dónde dormí',
@@ -365,6 +377,17 @@ function SignatureViaggioContent({
     meta.tappeMappa,
   )
 
+  // mappa vera della rotta (contorni, rilievo, tappe numerate): se manca, la linea schematica
+  const rotta = meta.tappeMappa.length > 0 ? datiRotta(viaggio.slug, lingua) : null
+  const nTappa = new Map(rotta?.tappe.map((q) => [q.id, q.n]))
+  const unica = rotta?.punti.length === 1 ? rotta.punti[0] : null
+  // con un solo punto sulla mappa l'elenco riporta le tappe del viaggio (tutte nello stesso posto), senza numero
+  const elencoTappe = !rotta
+    ? []
+    : unica
+      ? meta.tappeMappa.map((tp) => ({ n: null, nome: tp.nome.replace(PREFISSO_TAPPA, '').trim(), href: unica.href.startsWith('/') ? unica.href : null }))
+      : rotta.punti.map((p) => ({ n: nTappa.get(p.id) ?? null, nome: p.nome, href: p.href.startsWith('/') ? p.href : null }))
+
   return (
     <>
       <Filigrana paese={meta.paeseSlug} />
@@ -424,6 +447,7 @@ function SignatureViaggioContent({
               tappe={meta.tappeMappa}
               tappeGiorni={tappeGiorni}
               paeseSlug={meta.paeseSlug}
+              rottaSlug={rotta ? viaggio.slug : undefined}
             />
             {viaggio.apertura && (
               <p className="font-display text-xl italic leading-relaxed text-alpine sm:text-2xl lg:text-3xl">
@@ -477,17 +501,56 @@ function SignatureViaggioContent({
               <div id="mappa" className="scroll-mt-24">
                 <h2 className="font-display text-2xl text-alpine">{t.laRotta}</h2>
                 <p className="mt-2 max-w-xl text-sm leading-relaxed text-stone">
-                  {t.rottaLead}
+                  {unica ? t.rottaLeadUnica(unica.nome) : rotta ? t.rottaLeadMappa : t.rottaLead}
                 </p>
-                <div className="mt-8 rounded-none border border-alpine/10 bg-cream-dark/40 p-6 sm:p-10">
-                  <RouteLine
-                    tappe={meta.tappeMappa}
-                    paeseSlug={meta.paeseSlug}
-                    strokeClassName="stroke-alpine/60"
-                    labelClassName="text-alpine"
-                    className="h-48"
-                  />
-                </div>
+                {rotta ? (
+                  <>
+                    <div className="mt-8">
+                      <MappaRottaDifferita slug={viaggio.slug} w={rotta.mappa.w} h={rotta.mappa.h} />
+                    </div>
+                    {/* alternativa testuale alla mappa: le tappe numerate, ognuna verso la sua scheda */}
+                    <h3 className="mt-8 text-xs font-semibold uppercase tracking-[0.18em] text-stone/85">{t.tappeInOrdine}</h3>
+                    <ol className="mt-3 flex flex-wrap gap-2">
+                      {elencoTappe.map((q, i) => {
+                        const corpo = (
+                          <>
+                            {q.n !== null && (
+                              <span aria-hidden className="inline-flex size-6 shrink-0 items-center justify-center bg-rosso text-xs font-bold tabular-nums text-cream">
+                                {q.n}
+                              </span>
+                            )}
+                            <span>{q.nome}</span>
+                          </>
+                        )
+                        return (
+                          <li key={`${q.n}-${i}`}>
+                            {q.href ? (
+                              <Link
+                                href={q.href}
+                                aria-label={q.n !== null ? `${q.n}. ${q.nome}` : undefined}
+                                className="inline-flex min-h-11 items-center gap-2 border-2 border-ink bg-white px-3 text-sm font-semibold text-ink transition-colors hover:bg-ink hover:text-cream"
+                              >
+                                {corpo}
+                              </Link>
+                            ) : (
+                              <span className="inline-flex min-h-11 items-center gap-2 border-2 border-ink/30 px-3 text-sm font-semibold text-stone">{corpo}</span>
+                            )}
+                          </li>
+                        )
+                      })}
+                    </ol>
+                  </>
+                ) : (
+                  <div className="mt-8 border-2 border-ink bg-white p-6 sm:p-10">
+                    <RouteLine
+                      tappe={meta.tappeMappa}
+                      paeseSlug={meta.paeseSlug}
+                      strokeClassName="stroke-alpine/70"
+                      labelClassName="text-alpine"
+                      className="h-48"
+                    />
+                  </div>
+                )}
               </div>
             )}
 
@@ -504,6 +567,7 @@ function SignatureViaggioContent({
                     unitaLabel={meta.unitaGiorniLabel}
                     tappe={meta.tappeMappa}
                     tappeGiorni={tappeGiorni}
+                    rottaSlug={rotta ? viaggio.slug : undefined}
                   />
                 </div>
               </div>

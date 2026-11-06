@@ -16,6 +16,8 @@ import type { TripMeta } from '@/lib/types'
 export const canarieItinerarioMeta: TripMeta = {
   tripSlug: 'canarie-itinerario',
   paeseSlug: 'spagna',
+  provenienza: 'journey',
+  mesiConsigliati: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
   ritmo:
     'Tre isole in nove giorni, con 3 giorni pieni per Tenerife (la più grande e varia), 3 per Gran Canaria e 3 per Lanzarote: ogni cambio isola è un volo interno breve, il ritmo resta rilassato grazie al clima mite costante che non impone stagionalità.',
   trasporti:
@@ -39,7 +41,6 @@ export const canarieItinerarioMeta: TripMeta = {
     'A Timanfaya non si può scendere dal pullman né camminare liberamente sulla lava, per sicurezza (il suolo resta caldo pochi metri sotto la superficie) e tutela ambientale',
     'Le Canarie sono un\'ora indietro rispetto alla Spagna continentale e all\'Italia (UTC+0 contro UTC+1) tutto l\'anno: un dettaglio che genera confusione su voli e coincidenze',
     'Quattro isole restano fuori da questo itinerario (Fuerteventura, La Palma, La Gomera, El Hierro), per concentrarsi su tre coperte con calma invece di sette viste superficialmente',
-    'Nessuna parte di questo itinerario nasce da un soggiorno reale: è una scheda di ricerca, non un diario',
   ],
   budgetTotale: undefined,
   viaggioInBreve: {

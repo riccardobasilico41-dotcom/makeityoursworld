@@ -12,6 +12,8 @@ import type { TripMeta } from '@/lib/types'
 export const cracoviaWeekendMeta: TripMeta = {
   tripSlug: 'cracovia-weekend',
   paeseSlug: 'polonia',
+  provenienza: 'journey',
+  mesiConsigliati: [4, 5, 9, 10],
   ritmo: 'Tre-quattro giorni di calendario, un centro storico compatto e una giornata isolata per Auschwitz-Birkenau: non va incastrata tra altre tappe',
   trasporti: 'Centro storico a piedi, bus e treno regionale per le due gite fuori porta; nessuna auto necessaria',
   stile: [
@@ -34,7 +36,6 @@ export const cracoviaWeekendMeta: TripMeta = {
     'La Polonia è nell\'Unione Europea ma non nell\'eurozona: si paga in złoty, non in euro',
     'Cambiavalute vistosi intorno a Rynek Główny con tassi ingannevoli su valute minori',
     'Promoter di strada che invitano a bar dai conti gonfiati a dismisura, soprattutto intorno a Rynek Główny, via Floriańska e Kazimierz',
-    'Nessuna parte di questo itinerario nasce da un soggiorno reale: è una scheda di ricerca, non un diario',
   ],
   budgetTotale: undefined,
   viaggioInBreve: {

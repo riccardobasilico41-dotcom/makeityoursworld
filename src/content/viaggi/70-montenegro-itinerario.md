@@ -1,7 +1,7 @@
 # Montenegro in 10 giorni: dalle Bocche di Cattaro al Durmitor e al canyon del Tara
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche completi e verificati a ottobre 2026; ricordi personali, alloggi usati e prezzi pagati da aggiungere dal diario)
-**Periodo del viaggio:** pensato per fine maggio-giugno e settembre, con luglio-agosto possibile ma affollato sulla costa
+**Periodo del viaggio:**
 **Durata:** 10 giorni, 9 notti
 **Compagni di viaggio:** con amici, in autonomia, con auto a noleggio, traghetto di Kamenari e qualche escursione in barca e in gommone
 **Categoria:** Europa · Balcani · Montenegro · Bocche di Cattaro · mare · montagna · roadtrip · monasteri

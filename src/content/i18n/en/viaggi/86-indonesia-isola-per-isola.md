@@ -1,7 +1,7 @@
 # Indonesia Island by Island: What to See, How to Get Around and When to Go
 
-**Stato bozza:** 🟡 work in progress (Rick's memories from the site's destination pages; seasons, entry rules and transport checked on November 5, 2026 against official and industry sources. Indonesian Borneo doesn't have a page on the site yet and its information comes only from guides and operators)
-**Periodo del viaggio:** all year round, picking the right island for the month. Almost the whole archipelago is in the dry season between May and September; Raja Ampat has its best window from October to April
+**Stato bozza:** 🟡 in progress (a route combining several of Rick's real trips; practical information checked in October-November 2026, to recheck before departure; first-person memories only those given by Rick, none invented)
+**Periodo del viaggio:** several trips over time; Raja Ampat in August 2026
 **Durata:** modular: at least a week per island, one to five weeks in total
 **Compagni di viaggio:** independently, with domestic flights, ferries, fast boats, day drivers and local guides where needed
 **Categoria:** Asia · Indonesia · guida · Bali · Lombok · Gili · Giava · Sumatra · Mentawai · Komodo · Flores · Sulawesi · Raja Ampat · Borneo · isole
@@ -14,6 +14,8 @@ Indonesia isn't a country to see all in one go. There are more than seventeen th
 Two things up front. First: every island deserves at least a week, if not more. Try to squeeze five into fifteen days and you'll spend the trip in airports. Second: the destinations are interchangeable. There's no right order and no must-see island. You choose based on the season, because the seasons change from one island to the next, and Raja Ampat runs opposite to almost everything else.
 
 This guide lines up the main islands: what to do and see, how to get there and get around, when to go and when to avoid them, how many days you need. Each one links to its full page and to the site's itineraries.
+
+This itinerary brings together different trips into one practical route: places I've personally visited at different times, put in order so you can make the most of each destination.
 
 ## Scheda pratica
 - **Documents:** passport valid for at least 6 months. Apply online for the **e-VOA** at evisa.imigrasi.go.id, at least a week ahead (about 500,000 IDR). You also need the **All Indonesia Arrival Card**, free, filled in at allindonesia.imigrasi.go.id or in the app within 72 hours before every entry: beware of sites that ask for money.
@@ -147,7 +149,7 @@ The islands are interchangeable, and the calendar is the easiest way to choose. 
 **Read more:** [the Raja Ampat page](/destinations/indonesia/raja-ampat), [the Raja Ampat liveaboard](/experiences/indonesia/raja-ampat-liveaboard-diving), [Bali, Sulawesi and Raja Ampat in 12 days](/trips/bali-sulawesi-raja-ampat-itinerary).
 
 ### Indonesian Borneo
-**What to do and see:** Kalimantan is the Indonesian part of Borneo. The best-known place is **Tanjung Puting** National Park, in Central Kalimantan: you travel upriver on a **klotok**, the wooden boat where you eat and sleep, to Camp Leakey, the research centre opened in 1971 where rescued and orphaned orangutans were studied and returned to the forest. I haven't been yet, so here you'll find only the basics.
+**What to do and see:** Kalimantan is the Indonesian part of Borneo. The best-known place is **Tanjung Puting** National Park, in Central Kalimantan: you travel upriver on a **klotok**, the wooden boat where you eat and sleep, to Camp Leakey, the research centre opened in 1971 where rescued and orphaned orangutans were studied and returned to the forest. Here you'll find the basics.
 
 **Getting there and around:** fly to Pangkalan Bun, with connections from Jakarta or Surabaya, then by road to the port of Kumai, where the klotoks leave from. Tours are organized with local operators.
 

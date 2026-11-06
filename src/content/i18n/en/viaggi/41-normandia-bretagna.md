@@ -1,7 +1,7 @@
 # Normandy and Brittany in Two Weeks
 
 **Stato bozza:** 🟡 work in progress (itinerary and practical information verified)
-**Periodo del viaggio:** **May-June or September**
+**Periodo del viaggio:**
 **Durata:** 12 days, 11 nights
 **Compagni di viaggio:** with friends, independently, with a rental car
 **Categoria:** Europa · Francia · Normandia · Bretagna · storia · costa

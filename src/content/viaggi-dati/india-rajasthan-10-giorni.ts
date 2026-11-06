@@ -14,6 +14,7 @@ import type { TripMeta } from '@/lib/types'
 export const indiaRajasthan10GiorniMeta: TripMeta = {
   tripSlug: 'india-rajasthan-10-giorni',
   paeseSlug: 'india',
+  mesiConsigliati: [10, 11, 12, 1, 2, 3],
   ritmo:
     'Sostenuto ma sostenibile: cinque città in dieci giorni, con almeno due notti a Delhi, Jaipur e Jodhpur e due trasferimenti lunghi in auto (Agra-Jaipur, Jodhpur-Udaipur) spezzati da tappe lungo la strada. Sveglie presto quasi ogni giorno, per vedere forti e Taj Mahal prima del caldo e della folla.',
   trasporti:
@@ -42,7 +43,7 @@ export const indiaRajasthan10GiorniMeta: TripMeta = {
   budgetTotale: undefined,
   viaggioInBreve: {
     conChiSonoPartito:
-      'proposta non vissuta così, versione corta del viaggio lungo di Rick con Varanasi; pensata per viaggiare in autonomia, con treni, autista per i trasferimenti e un volo interno',
+      'versione corta del viaggio lungo di Rick con Varanasi, in autonomia, con treni, autista per i trasferimenti e un volo interno',
     treEsperienzePiuBelle:
       'Il Taj Mahal all\'alba, il Forte di Mehrangarh sopra la città blu, il tramonto sul lago Pichola a Udaipur',
     aChiLoConsiglio: 'a chi va in India per la prima volta e ha dieci giorni tra ottobre e marzo',

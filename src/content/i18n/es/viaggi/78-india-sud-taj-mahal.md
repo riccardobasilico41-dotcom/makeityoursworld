@@ -1,7 +1,7 @@
 # Delhi, Agra y el sur de India en 17 días: el Taj Mahal, los templos de Tamil Nadu, Kerala y Hampi
 
-**Stato bozza:** 🟡 en elaboración (propuesta construida a partir de la investigación, no un viaje hecho por Rick: itinerario e información práctica verificados en octubre-noviembre de 2026; ningún recuerdo personal)
-**Periodo del viaggio:** pensado para diciembre-marzo, la estación seca en todo el sur y la más fresca en Delhi y Agra
+**Stato bozza:** 🟡 en elaboración (lugares visitados por Rick, reunidos en una ruta práctica; información práctica verificada en octubre-noviembre de 2026, a comprobar antes de salir; recuerdos en primera persona solo los que da Rick, ninguno inventado)
+**Periodo del viaggio:**
 **Durata:** 17 días, 16 noches
 **Compagni di viaggio:** itinerario pensado para viajar por libre, en pareja o en grupo pequeño, con el tren rápido Delhi-Agra, un vuelo a Chennai, coche con conductor en Tamil Nadu y Kerala, una noche en houseboat y dos trenes nocturnos a Hampi
 **Categoria:** Asia · India · Delhi · Agra · Taj Mahal · India del Sud · Tamil Nadu · Kerala · Karnataka · Hampi · backwaters · templi
@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-Este itinerario no lo hizo Rick. Es una propuesta construida a partir de la investigación, para quien quiere el Taj Mahal y el sur de India en el mismo viaje. Rick, en India, hizo Benarés y Rajastán, y ese es otro viaje: *India: Benarés, Ranthambore y Rajastán en 19 días, en tren nocturno y con conductor*.
+Este itinerario nace de lugares que Rick ha visitado personalmente, reunidos en una ruta práctica para quien quiere el Taj Mahal y el sur de India en el mismo viaje. Para Benarés y Rajastán está el otro viaje a India: *India: Benarés, Ranthambore y Rajastán en 19 días, en tren nocturno y con conductor*.
 
 Se empieza por el norte, porque la mayoría de quienes van a India por primera vez no quieren volver sin haber visto el Taj Mahal. Dos días en Delhi, entre la Vieja Delhi, la Tumba de Humayun y el Qutub Minar. Luego el tren rápido a Agra, el Fuerte, el atardecer desde Mehtab Bagh y el Taj al amanecer. Desde allí un vuelo lleva a Chennai, y empieza la otra India.
 
@@ -209,7 +209,7 @@ Precios por persona en habitación doble, vuelos intercontinentales excluidos (l
 ## Chiusura personale
 Este viaje une dos Indias. La primera es la del norte: el ruido de Delhi, el mármol del Taj al amanecer, la multitud. La segunda es la del sur: el verde de los arrozales y de las colinas de té, el azul de los canales, el naranja de los templos al atardecer, el blanco del jazmín en el mercado de Madurai y, al final, el granito y el silencio de Hampi. Quien tenga diecisiete días y no quiera elegir entre el Taj y el sur encuentra aquí una manera de tener los dos.
 
-*Este itinerario no es un viaje hecho por Rick: es una propuesta construida a partir de la investigación. Las etapas del sur vienen de las guías de la web sobre el sur de India, los primeros días en Delhi y Agra de los itinerarios del norte, y toda la información práctica de portales oficiales del visado y de los ferrocarriles indios, webs de los monumentos, oficinas de turismo de Kerala y Tamil Nadu, Viaggiare Sicuri y guías recientes, verificada en octubre-noviembre de 2026. El viaje a India que hizo Rick es otro: Benarés y Rajastán, en tren nocturno y con conductor. Horarios, precios y normas cambian: hay que volver a comprobarlos antes de salir.*
+*Este itinerario nace de lugares que Rick ha visitado personalmente, reunidos en una ruta práctica. Las etapas del sur vienen de las guías de la web sobre el sur de India, los primeros días en Delhi y Agra de los itinerarios del norte, y toda la información práctica de portales oficiales del visado y de los ferrocarriles indios, webs de los monumentos, oficinas de turismo de Kerala y Tamil Nadu, Viaggiare Sicuri y guías recientes, verificada en octubre-noviembre de 2026. Benarés y Rajastán están en el otro viaje a India, en tren nocturno y con conductor. Horarios, precios y normas cambian: hay que volver a comprobarlos antes de salir.*
 
 ## Tag
 `#india` `#delhi` `#agra` `#tajmahal` `#indiadelsud` `#tamilnadu` `#kerala` `#karnataka` `#mamallapuram` `#puducherry` `#madurai` `#munnar` `#backwaters` `#fortkochi` `#hampi` `#asia`

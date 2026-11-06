@@ -1,7 +1,7 @@
 # The Baltic Capitals in 9 Days: Vilnius, Riga and Tallinn
 
 **Stato bozza:** 🟡 work in progress (trip taken by Rick; itinerary and practical information verified)
-**Periodo del viaggio:** **May to September**, with June to August the warmest period, with the longest daylight and the biggest crowds
+**Periodo del viaggio:**
 **Durata:** 9 days, 8 nights
 **Compagni di viaggio:** with friends, independently, on foot in every city and by bus between one capital and the next
 **Categoria:** Europa · Lituania · Lettonia · Estonia · città · storia · architettura

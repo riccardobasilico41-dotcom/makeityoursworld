@@ -1,7 +1,7 @@
 # Venice in 3 Days, Away from the Rialto-San Marco Axis
 
 **Stato bozza:** 🟡 work in progress (itinerary and practical information verified; the first-person passages are written as a draft to reread and personalize)
-**Periodo del viaggio:** **November-March** for the real Venice; **April-May and October** as a compromise
+**Periodo del viaggio:**
 **Durata:** 3 days, 2 nights
 **Compagni di viaggio:** with friends, independent, all on foot and by vaporetto
 **Categoria:** Europa · Italia · Venezia · arte · laguna · gastronomia

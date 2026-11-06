@@ -1,7 +1,7 @@
 # Hokkaido y el esquí en Japón: Sapporo, Niseko, Rusutsu, Kiroro, Furano y la comparación con Hakuba
 
-**Stato bozza:** 🟡 en preparación (guía con itinerario de ejemplo, construida con investigación en fuentes oficiales y precios de la temporada 2026-27 verificados en noviembre de 2026; ningún recuerdo personal en el texto)
-**Periodo del viaggio:** de mediados de diciembre a finales de febrero para la nieve polvo; enero es el mes más seguro, principios de febrero coincide con el Yuki Matsuri de Sapporo
+**Stato bozza:** 🟡 en elaboración (lugares visitados por Rick, reunidos en una ruta práctica; información práctica verificada en octubre-noviembre de 2026, a comprobar antes de salir; recuerdos en primera persona solo los que da Rick, ninguno inventado)
+**Periodo del viaggio:**
 **Durata:** 11 días, 10 noches, de los cuales 7 de esquí; variantes de una semana y con Hakuba
 **Compagni di viaggio:** por libre, con autobuses de temporada y trenes JR desde New Chitose, forfaits de un día o de varios días, alquiler en destino
 **Categoria:** Asia · Giappone · Hokkaido · sci · snowboard · neve polverosa · onsen · inverno
@@ -11,7 +11,9 @@
 ## Apertura personale
 A Japón se va a esquiar por la nieve. En invierno los vientos fríos de Siberia cruzan el mar de Japón, se cargan de humedad y la descargan sobre las montañas de Hokkaido en forma de nieve ligera y seca, la que los esquiadores llaman «Japow». Nieva a menudo, a veces durante días seguidos, y se esquía entre los árboles en una nieve que en otros sitios se encuentra pocas veces.
 
-Esta guía explica adónde ir, cuándo salir y cuándo reservar, cuánto cuesta, cómo moverse desde el aeropuerto, y las reglas que cuentan en la montaña y en los onsen. Hay un itinerario de ejemplo de once días: dos en Sapporo, una jornada en Kiroro, cinco noches en Niseko con un día en Rusutsu, dos en Furano. Al final, la comparación con Hakuba, en los Alpes japoneses, la alternativa a la que se llega desde Tokio.
+Esta guía explica adónde ir, cuándo salir y cuándo reservar, cuánto cuesta, cómo moverse desde el aeropuerto, y las reglas que cuentan en la montaña y en los onsen. Hay un itinerario de once días: dos en Sapporo, una jornada en Kiroro, cinco noches en Niseko con un día en Rusutsu, dos en Furano. Al final, la comparación con Hakuba, en los Alpes japoneses, la alternativa a la que se llega desde Tokio.
+
+Como todos los viajes de esta web, nace de lugares que he visitado personalmente y de experiencias que he vivido, reunidos en una ruta práctica.
 
 ## Scheda pratica
 - **Cuándo ir:** las estaciones de Hokkaido abren normalmente entre finales de noviembre y principios de diciembre y cierran entre finales de marzo y principios de mayo. Niseko United en 2026-27 abre el 28 de noviembre; Grand Hirafu y Annupuri siguen abiertas hasta el 5 de mayo, Niseko Village y Hanazono cierran en abril. La nieve polvo más constante está entre la segunda mitad de diciembre y febrero. Marzo tiene días de sol y nieve más pesada, y precios más bajos.

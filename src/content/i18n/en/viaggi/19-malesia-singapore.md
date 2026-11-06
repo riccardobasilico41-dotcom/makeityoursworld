@@ -1,7 +1,7 @@
 # Malaysia and Singapore in Two Weeks: From Kuala Lumpur to the Strait, Eating All the Way
 
 **Stato bozza:** 🟡 in progress (itinerary and practical information complete and verified)
-**Periodo del viaggio:** December to March, the dry season on the west coast, which is the coast this itinerary follows
+**Periodo del viaggio:**
 **Durata:** 14 days, 13 nights
 **Compagni di viaggio:** with friends, independent, using intercity buses, one domestic flight and the border bus to Singapore
 **Categoria:** Asia · Malesia · Singapore · gastronomia · città coloniali · giungla

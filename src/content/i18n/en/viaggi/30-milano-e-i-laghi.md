@@ -1,7 +1,7 @@
 # Milan in 2 Days, the 1-Day Version, and the Lakes as Day Trips
 
 **Stato bozza:** 🟡 in progress (itinerary and practical information verified; the first-person passages are written as a draft to be reread and personalized)
-**Periodo del viaggio:** **April-June and September-October** for the city; **May-June and September** for the lakes
+**Periodo del viaggio:**
 **Durata:** 2 days, 1 night — with a 1-day version and lake excursions
 **Compagni di viaggio:** with friends, independent, metro and regional trains
 **Categoria:** Europa · Italia · Milano · Lago di Como · design · arte

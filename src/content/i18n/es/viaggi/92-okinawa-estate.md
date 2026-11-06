@@ -1,7 +1,7 @@
 # Okinawa en verano en dos semanas: Naha, Churaumi, las Kerama, Miyako y las islas Yaeyama
 
-**Stato bozza:** 🟡 en preparación (itinerario-guía construido con investigación en fuentes oficiales, verificado en noviembre de 2026; ningún recuerdo personal en el texto)
-**Periodo del viaggio:** pensado para finales de junio-mediados de julio, después de la estación de lluvias y antes del pico de los tifones; funciona también a finales de septiembre-octubre
+**Stato bozza:** 🟡 en elaboración (lugares visitados por Rick, reunidos en una ruta práctica; información práctica verificada en octubre-noviembre de 2026, a comprobar antes de salir; recuerdos en primera persona solo los que da Rick, ninguno inventado)
+**Periodo del viaggio:**
 **Durata:** 13 días, 12 noches, con variantes de 10 y de 14 días
 **Compagni di viaggio:** por libre, con coche de alquiler en la isla principal, ferris a las Kerama y a las Yaeyama, vuelos internos Naha-Miyako-Ishigaki
 **Categoria:** Asia · Giappone · Okinawa · mare · snorkeling · isole · cultura ryukyu
@@ -12,6 +12,8 @@
 Okinawa es el Japón que no se espera. Mar tropical, arrecife de coral, manglares, y una cultura que durante siglos fue la de un reino aparte, el reino de las Ryukyu, con una lengua, una cocina y una música propias.
 
 Este viaje está construido para el verano, cuando el mar está en su mejor momento. Empieza en la isla principal, entre Naha, el acuario de Churaumi y el bosque de Yanbaru. Luego dos noches en las Kerama, a una hora de barco de Naha. Luego Miyako, con las playas más blancas del archipiélago, y por último Ishigaki con las islas Yaeyama: la jungla de Iriomote y el pueblo de Taketomi.
+
+Como todos los viajes de esta web, nace de lugares que he visitado personalmente y de experiencias que he vivido, reunidos en una ruta práctica.
 
 ## Scheda pratica
 - **Cuándo ir:** la estación de lluvias en Okinawa empieza de media hacia el 10 de mayo y termina hacia el 21 de junio (media 1991-2020 de la JMA). En 2026 fue más o menos del 4 de mayo al 29 de junio. Las semanas justo después, finales de junio-mediados de julio, suelen ser las más estables. Luego llegan los tifones: de media se acercan a Okinawa y Amami 1,5 en julio, 2,3 en agosto, 2,0 en septiembre y 1,1 en octubre. En agosto y septiembre el viaje se hace, pero con días de margen.

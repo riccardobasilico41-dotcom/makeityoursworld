@@ -1,7 +1,7 @@
 # Centro America in 32 giorni: Guatemala e Belize via terra, Panama in volo a parte
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche completi e verificati; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare — mancano date esatte, nomi degli alloggi e prezzi effettivamente pagati)
-**Periodo del viaggio:** dicembre-aprile, la stagione secca comune a Guatemala, Belize e alla maggior parte di Panama (capitale, San Blas, Boquete). Bocas del Toro fa eccezione, con un microclima caraibico proprio, spesso più soleggiato a settembre-ottobre e a febbraio-marzo — riguarda solo gli ultimi giorni della Parte 2
+**Periodo del viaggio:**
 **Durata:** 32 giorni, 31 notti
 **Compagni di viaggio:** con amici, in autonomia, con shuttle turistici, bus, un volo intercontinentale interno (Belize-Panama) e guide locali obbligatorie nei tratti che le richiedono (trekking all'Acatenango, grotta ATM, isole di San Blas gestite dalla comunità Guna)
 **Categoria:** America Centrale · Guatemala · Belize · Panama · vulcani · cultura maya · barriera corallina · isole caraibiche

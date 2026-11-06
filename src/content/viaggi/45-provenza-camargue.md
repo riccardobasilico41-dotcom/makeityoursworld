@@ -1,7 +1,7 @@
 # Provenza, Camargue e Occitania in 10 giorni
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
-**Periodo del viaggio:** **maggio-giugno oppure settembre-ottobre**; **fine giugno-inizio agosto** per chi vuole la lavanda
+**Periodo del viaggio:**
 **Durata:** 10 giorni, 9 notti
 **Compagni di viaggio:** con amici, in autonomia, con auto a noleggio
 **Categoria:** Europa · Francia · Provenza · Camargue · Occitania
@@ -12,6 +12,7 @@
 Provenza, Camargue e Occitania sono tre paesaggi mediterranei diversi messi in un unico itinerario: villaggi e romani a est, delta e cavalli al centro, castelli catari e canali a ovest. È un viaggio che unisce archeologia romana, natura selvaggia e una storia medievale poco conosciuta fuori dalla Francia.
 
 ## Scheda pratica
+- **Quando andare:** **maggio-giugno oppure settembre-ottobre**; **fine giugno-inizio agosto** per chi vuole la lavanda
 - **Lavanda**: la finestra è stretta e cambia da altopiano ad altopiano, conviene controllare lo stato pochi giorni prima.
 - **Calanques**: d'estate l'accesso cambia giorno per giorno per il rischio incendi, va controllato sempre.
 - **Vignetta Crit'Air** per Marsiglia e Aix.

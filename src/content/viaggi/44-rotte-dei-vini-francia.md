@@ -1,7 +1,7 @@
 # Le rotte dei vini di Francia: Alsazia e Champagne in 8 giorni
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
-**Periodo del viaggio:** **maggio-giugno oppure settembre-ottobre**
+**Periodo del viaggio:**
 **Durata:** 8 giorni, 7 notti
 **Compagni di viaggio:** con amici, in autonomia, con auto e bicicletta in Alsazia
 **Categoria:** Europa · Francia · vino · Alsazia · Champagne
@@ -12,6 +12,7 @@
 Tra tutte le rotte del vino francesi, questo itinerario combina le due più adatte a una prima volta: l'Alsazia, la più bella e la più accessibile, e la Champagne, la più facile da raggiungere da Parigi. La Borgogna, più difficile e più cara, resta per un viaggio successivo.
 
 ## Scheda pratica
+- **Quando andare:** **maggio-giugno oppure settembre-ottobre**
 - **Alsazia**: le cantine ricevono spesso senza appuntamento, degustazioni gratuite o quasi.
 - **Champagne**: appuntamento consigliato per le grandi maison, gratuito o a pagamento secondo la casa.
 - **Guidatore designato o sputare in degustazione**, sempre.

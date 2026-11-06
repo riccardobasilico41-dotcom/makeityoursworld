@@ -5,12 +5,14 @@ import type { TripMeta } from '@/lib/types'
 // markdown (src/content/viaggi/70-montenegro-itinerario.md). `titoloGiorno`
 // deve combaciare esattamente con le intestazioni "### Giorno N — ...".
 //
-// Guida non vissuta in prima persona: pernottamenti 'consigliato', nessuna
+// Viaggio di Rick (conferma 6/11/2026) scritto in forma di guida: pernottamenti 'consigliato', nessuna
 // esperienza personale. `immagine` omesso: le foto si recuperano dopo.
 
 export const montenegroItinerarioMeta: TripMeta = {
   tripSlug: 'montenegro-itinerario',
   paeseSlug: 'montenegro',
+  provenienza: 'journey',
+  mesiConsigliati: [5, 6, 9],
   ritmo:
     'Regolare, in auto: tre notti sulle Bocche, poi una tappa al giorno lungo costa, lago e montagna, con spostamenti di 1-3 ore su strade lente. Due giornate più impegnative: il Bobotov Kuk o la strada panoramica del Durmitor e il rafting sul Tara.',
   trasporti:

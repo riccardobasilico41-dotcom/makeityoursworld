@@ -1,7 +1,7 @@
 # Semana blanca en Italia: cómo elegir dónde, cuándo y cuánto gastar
 
 **Stato bozza:** 🟡 en preparación
-**Periodo del viaggio:** **enero después de la Epifanía** o **marzo**, que son las dos ventanas buenas
+**Periodo del viaggio:**
 **Durata:** 7 días, 6 noches
 **Compagni di viaggio:** con amigos, por libre, con forfait y alojamiento reservados en paquete
 **Categoria:** Europa · Italia · sci · Dolomiti · montagna · inverno

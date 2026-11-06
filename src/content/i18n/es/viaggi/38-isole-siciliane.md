@@ -1,7 +1,7 @@
 # Las islas sicilianas: Égadas, Pantelaria y Lampedusa en dos semanas
 
 **Stato bozza:** 🟡 en elaboración
-**Periodo del viaggio:** **finales de mayo-junio o septiembre**
+**Periodo del viaggio:**
 **Durata:** 12 días, 11 noches: tres archipiélagos que no se conectan entre sí
 **Compagni di viaggio:** con amigos, por libre, entre vuelos internos, ferris, bici y moto
 **Categoria:** Europa · Italia · Sicilia · isole · mare · vulcani

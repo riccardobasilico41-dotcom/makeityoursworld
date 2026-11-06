@@ -1,6 +1,7 @@
 # Florida in 10 days: from the Keys to Orlando, on the road among alligators, beaches and rockets
 
 **Stato bozza:** 🟡 in progress
+**Periodo del viaggio:**
 **Durata:** 10 days, 9 nights
 **Compagni di viaggio:** with friends, self-drive rental car (Sixt)
 **Categoria:** Nord America · USA · Florida · on the road · road trip · mare

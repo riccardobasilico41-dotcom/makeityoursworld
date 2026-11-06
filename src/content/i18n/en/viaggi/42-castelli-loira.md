@@ -1,7 +1,7 @@
 # The Loire Châteaux in 6 Days
 
 **Stato bozza:** 🟡 work in progress (itinerary and practical information verified)
-**Periodo del viaggio:** **April-June or September-October**
+**Periodo del viaggio:**
 **Durata:** 6 days, 5 nights
 **Compagni di viaggio:** with friends, independently, car plus one day by bicycle
 **Categoria:** Europa · Francia · Loira · castelli · giardini

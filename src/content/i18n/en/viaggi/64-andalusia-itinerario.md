@@ -1,7 +1,7 @@
 # Andalusia in 9 Days: Seville, Córdoba, Granada and Ronda
 
 **Stato bozza:** 🟡 in progress (trip taken by Rick; itinerary and practical information verified)
-**Periodo del viaggio:** **March-May or September-early November**
+**Periodo del viaggio:**
 **Durata:** 9 days, 8 nights
 **Compagni di viaggio:** with friends, independently, AVE train between the big cities, rental car from Granada onward
 **Categoria:** Europa · Spagna · Andalusia · cultura moresca · flamenco · città

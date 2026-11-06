@@ -1,6 +1,8 @@
 import Image from 'next/image'
 import { LOCALE, type Lingua } from '@/lib/i18n/config'
 import type { Domanda } from '@/lib/domande/tipi'
+import { domandeAttive } from '@/lib/site-config'
+import { ISTITUZIONALE } from '@/lib/i18n/sito'
 import { ModuloDomanda } from './ModuloDomanda'
 
 const T = {
@@ -24,6 +26,8 @@ function Paragrafi({ testo, className }: { testo: string; className?: string }) 
 /**
  * Modulo per fare una domanda e, sotto, le domande pubblicate con la risposta di Rick.
  * Le domande arrivano già lette dalla pagina (statica, rigenerata dalla moderazione).
+ * Con il modulo spento (`domandeAttive` in site-config) al posto del modulo c'è una frase
+ * chiara; le domande già pubblicate restano visibili.
  */
 export function DomandeViaggio({ viaggio, lingua, domande }: { viaggio: string; lingua: Lingua; domande: Domanda[] }) {
   const t = T[lingua]
@@ -32,7 +36,13 @@ export function DomandeViaggio({ viaggio, lingua, domande }: { viaggio: string; 
 
   return (
     <section id="domande" aria-label={t.titolo} className="scroll-mt-24 space-y-10">
-      <ModuloDomanda viaggio={viaggio} />
+      {domandeAttive ? (
+        <ModuloDomanda viaggio={viaggio} />
+      ) : (
+        <p role="note" className="border-2 border-ink bg-cream p-5 text-sm leading-relaxed text-stone sm:p-6">
+          {ISTITUZIONALE[lingua].domandeChiuse}
+        </p>
+      )}
 
       {domande.length > 0 && (
         <div>

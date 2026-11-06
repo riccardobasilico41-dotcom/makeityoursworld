@@ -41,7 +41,7 @@ const mercY = (lat: number) => (Math.log(Math.tan(Math.PI / 4 + (lat * Math.PI) 
 const mercLat = (y: number) => (Math.atan(Math.exp((y * Math.PI) / 180)) * 360) / Math.PI - 90
 
 /** Meridiani e paralleli (in Mercatore sono rette) con un passo che ne mette 4–8 sulla mappa. */
-function graticola(file: FileMappa): string {
+export function graticola(file: Pick<FileMappa, 'w' | 'h' | 'proiezione'>): string {
   const { lng0, y0, s, ox, oy } = file.proiezione
   const lngA = lng0 - ox / s, lngB = lng0 + (file.w - ox) / s
   const latA = mercLat(y0 - (file.h - oy) / s), latB = mercLat(y0 + oy / s)

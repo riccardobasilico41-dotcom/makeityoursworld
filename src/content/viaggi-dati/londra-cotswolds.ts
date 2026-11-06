@@ -12,6 +12,8 @@ const IMG = '/images/viaggi/londra-cotswolds'
 export const londraCotswoldsMeta: TripMeta = {
   tripSlug: 'londra-cotswolds',
   paeseSlug: 'inghilterra',
+  provenienza: 'journey',
+  mesiConsigliati: [5, 6, 9],
   ritmo:
     'Medio: quattro giorni a Londra quasi tutti a piedi, poi tre giorni in auto tra villaggi vicini, con tratte brevi. L\'ultimo giorno a Bath e il treno per Londra.',
   trasporti:

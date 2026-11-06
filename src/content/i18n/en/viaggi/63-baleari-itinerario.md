@@ -1,7 +1,7 @@
 # Balearic Islands in 8 Days: Mallorca, Ibiza and Menorca
 
 **Stato bozza:** 🟡 in progress (trip taken by Rick; itinerary and practical information verified)
-**Periodo del viaggio:** **May-June or September**
+**Periodo del viaggio:**
 **Durata:** 8 days, 7 nights
 **Compagni di viaggio:** with friends, independently, ferry between the islands, rental car on each
 **Categoria:** Europa · Spagna · Baleari · isole · mare

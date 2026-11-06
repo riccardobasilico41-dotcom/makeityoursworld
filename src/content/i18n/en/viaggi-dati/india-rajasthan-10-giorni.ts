@@ -31,7 +31,7 @@ export const indiaRajasthan10GiorniMeta: TripMeta = {
   budgetTotale: undefined,
   viaggioInBreve: {
     conChiSonoPartito:
-      "a proposal not taken this way, a short version of Rick's longer trip with Varanasi; designed for independent travel, with trains, a driver for the transfers and a domestic flight",
+      "a short version of Rick's longer trip with Varanasi, independent, with trains, a driver for the transfers and a domestic flight",
     treEsperienzePiuBelle:
       'The Taj Mahal at dawn, Mehrangarh Fort above the blue city, sunset on Lake Pichola in Udaipur',
     aChiLoConsiglio: 'to anyone going to India for the first time with ten days between October and March',

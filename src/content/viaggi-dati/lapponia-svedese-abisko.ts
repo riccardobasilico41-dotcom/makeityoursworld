@@ -10,6 +10,8 @@ import type { TripMeta } from '@/lib/types'
 export const lapponiaSvedeseAbiskoMeta: TripMeta = {
   tripSlug: 'lapponia-svedese-abisko',
   paeseSlug: 'svezia',
+  provenienza: 'journey',
+  mesiConsigliati: [],
   ritmo: 'Medio — due giornate di puro spostamento (voli, treno) alternate a giornate intense di attività outdoor nel freddo estremo',
   trasporti: 'Volo internazionale su Stoccolma, volo interno Stoccolma-Kiruna, treno panoramico Kiruna-Abisko e ritorno',
   stile: ['natura', 'avventura', 'inverno estremo'],

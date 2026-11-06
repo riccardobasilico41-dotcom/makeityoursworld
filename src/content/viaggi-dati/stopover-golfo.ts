@@ -10,6 +10,7 @@ import type { TripMeta } from '@/lib/types'
 export const stopoverGolfoMeta: TripMeta = {
   tripSlug: 'stopover-golfo',
   paeseSlug: 'emirati-arabi-uniti',
+  mesiConsigliati: [11, 12, 1, 2, 3],
   ritmo: 'Modulare: sette giorni se fatti di seguito, ma ogni blocco da 24-48 ore funziona come stopover indipendente',
   trasporti: 'Voli di linea con gli hub del Golfo, metropolitana dagli aeroporti, 4x4 con autista per il deserto',
   stile: ['stopover', 'architettura', 'deserto'],

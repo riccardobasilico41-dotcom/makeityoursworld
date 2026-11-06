@@ -1,5 +1,7 @@
 # Giappone: cose da confermare con Rick
 
+> Aggiornamento 6/11/2026: Rick conferma che tutti i viaggi del sito li ha fatti lui. Le domande sotto restano per i dettagli (anni, stagioni, alloggi, operatori) da aggiungere come ricordi solo quando li dà lui.
+
 Novembre 2026. Tre viaggi nuovi scritti in voce di guida, senza ricordi personali:
 `classic-japan` (91), `okinawa-estate` (92), `hokkaido-sci-giappone` (93).
 Nel testo nessuna tappa è presentata come fatta da Rick. Spunta quello che hai fatto davvero:

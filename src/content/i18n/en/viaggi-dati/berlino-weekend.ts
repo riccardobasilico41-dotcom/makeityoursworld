@@ -25,7 +25,6 @@ export const berlinoWeekendMeta: TripMeta = {
     'The north wing of the Pergamonmuseum, with the Pergamon Altar Hall, has been closed since 2023 for renovation, with no reopening expected soon',
     'On Sundays almost all shops are closed because of the German opening-hours law (Ladenschlussgesetz)',
     'At Checkpoint Charlie the actors dressed as soldiers ask for payment afterward for photos',
-    'No part of this itinerary comes from an actual stay: it is a research sheet, not a diary',
   ],
   budgetTotale: undefined,
   viaggioInBreve: {

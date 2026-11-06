@@ -14,6 +14,8 @@ import type { TripMeta } from '@/lib/types'
 export const indonesiaItinerarioMeta: TripMeta = {
   tripSlug: 'indonesia-itinerario',
   paeseSlug: 'indonesia',
+  provenienza: 'combined',
+  mesiConsigliati: [4, 5, 6, 7, 8, 9, 10],
   ritmo: 'Impegnativo: sette isole in trentacinque giorni, con trekking fisicamente duri (Rinjani, oranghi, Ijen) alternati a giorni di solo trasferimento e a un tratto via terra più lento tra Sumatra, Giava e le tante zone di Bali',
   trasporti: 'Voli interni, traghetti veloci e barche multi-giorno, bus e treni, auto con autista o scooter a noleggio nei tratti via terra di Sumatra, Giava e Bali, jeep 4x4 per il Bromo, cidomo alle Gili dove i motori sono vietati',
   stile: ['natura', 'avventura', 'trekking', 'vulcani', 'isole', 'cultura'],

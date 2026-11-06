@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const parigi5GiorniMeta: TripMeta = {
   tripSlug: 'parigi-5-giorni',
   paeseSlug: 'francia',
+  provenienza: 'journey',
+  mesiConsigliati: [4, 5, 6, 9, 10],
   ritmo: 'Un grande museo al giorno, mai due, con un giorno dedicato ai quartieri fuori dal centro monumentale',
   trasporti: 'Metropolitana e a piedi',
   stile: [

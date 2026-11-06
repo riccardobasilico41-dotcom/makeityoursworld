@@ -1,7 +1,7 @@
 # Bordeaux e i suoi vigneti in 7 giorni
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
-**Periodo del viaggio:** **settembre-ottobre (vendemmia) oppure maggio-giugno**
+**Periodo del viaggio:**
 **Durata:** 7 giorni, 6 notti
 **Compagni di viaggio:** con amici, in autonomia, con auto e un guidatore designato per le degustazioni
 **Categoria:** Europa · Francia · Bordeaux · vino · costa atlantica
@@ -12,6 +12,7 @@
 Bordeaux mette insieme una città che si gira a piedi e un territorio che senza auto non si vede. L'itinerario copre entrambe le rive del vigneto (Médoc e Saint-Émilion) più il Sauternes, e chiude con l'oceano al Bacino di Arcachon.
 
 ## Scheda pratica
+- **Quando andare:** **settembre-ottobre (vendemmia) oppure maggio-giugno**
 - **Base:** Bordeaux città.
 - **Guida e vino non vanno d'accordo:** guidatore designato che non assaggia, escursioni accompagnate, oppure sputare in degustazione (è la norma, non un'offesa).
 - **Appuntamento sempre obbligatorio** per i grandi château.

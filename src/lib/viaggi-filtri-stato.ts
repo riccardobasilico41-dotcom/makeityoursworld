@@ -6,7 +6,9 @@ import { AREE } from './aree'
  * Paesi, così la importano sia il server (che prepara le schede) sia il componente client.
  *
  * Contratto URL (lo usano anche i link dalla home, dalle pagine Paese e area):
- *   /viaggi?q=<testo>&area=<slug area>&paese=<slug paese>&durata=<fascia>&stile=<stile>&mese=<1-12>
+ *   /viaggi?q=<testo>&area=<slug area>&paese=<slug paese>&durata=<fascia>&quando=<1-12>&stile=<stile>&mese=<1-12>
+ * `quando` = «Quando andare», sui mesi consigliati (TripMeta.mesiConsigliati);
+ * `mese` = «Quando ci sono andato», sui mesi reali del viaggio (mesiDaPeriodo).
  * Un solo valore per parametro; parametri e valori sconosciuti vengono ignorati.
  * `ordine` (durata-asc | durata-desc) è facoltativo e non fa parte dei filtri.
  */
@@ -63,11 +65,12 @@ export function fasciaDi(giorni: number | null): IdFascia | null {
 }
 
 // --- Mese del viaggio ---
-// Il «Periodo del viaggio» del markdown è testo libero: a volte sono le date in cui Rick è
-// partito («6-13 luglio 2025»), più spesso la finestra consigliata per rifare l'itinerario
-// («maggio-giugno oppure settembre-ottobre»). Il filtro dice quando il viaggio è stato
-// fatto, quindi `mesiDaPeriodo` restituisce un mese solo quando il testo indica un periodo
-// unico e breve; tutto ciò che è alternativa, stagione o finestra lunga resta senza mese.
+// Il «Periodo del viaggio» del markdown è testo libero e dice solo quando Rick è partito
+// («6-13 luglio 2025», «fine febbraio», «luglio»); se non è registrato resta vuoto. Le stagioni
+// consigliate stanno in «Quando andare» e nei `mesiConsigliati` del TripMeta (vedi
+// mesiConsigliatiDelViaggio in viaggi-filtri.ts). Per prudenza `mesiDaPeriodo` restituisce un
+// mese solo quando il testo indica un periodo unico e breve; alternative, stagioni, finestre
+// lunghe o più viaggi («tre viaggi, nel 2018…») restano senza mese.
 
 const MESI_IT = ['gennaio', 'febbraio', 'marzo', 'aprile', 'maggio', 'giugno', 'luglio', 'agosto', 'settembre', 'ottobre', 'novembre', 'dicembre']
 
@@ -132,15 +135,95 @@ export type ViaggioCatalogo = ViaggioScheda & {
   stili: string[]
   /** Mesi (1-12) in cui il viaggio è stato fatto, dal «Periodo del viaggio»; vuoto se non è certo. */
   mesi: number[]
+  /** Mesi (1-12) consigliati per fare il viaggio (TripMeta.mesiConsigliati), per «Quando andare». */
+  mesiConsigliati?: number[]
+  /** 'combined' = percorso che unisce più viaggi reali (TripMeta.provenienza). */
+  provenienza?: 'journey' | 'combined'
   /** Titolo, descrizione, Paesi e tappe, già normalizzati. */
   ricerca: string
 }
 
-/** Paese che compare nel filtro: solo quelli con almeno un viaggio. */
-export type OpzionePaese = { slug: string; nome: string; area: string | null }
+/**
+ * Paese che compare nel filtro: solo quelli con almeno un viaggio. `stato` c'è per le schede
+ * di tipo regione (Transilvania, California, Borneo…): il nome dello Stato sovrano, che non ha
+ * una scheda sua, serve a mostrarle raggruppate («Stati Uniti › California»).
+ */
+export type OpzionePaese = { slug: string; nome: string; area: string | null; stato?: string }
 
-export const CHIAVI_FILTRO = ['q', 'area', 'paese', 'durata', 'stile', 'mese'] as const
+/** Nome del Paese nel filtro e nei chip: «Stati Uniti › California» per le regioni. */
+export function etichettaPaese(p: Pick<OpzionePaese, 'nome' | 'stato'>): string {
+  return p.stato ? `${p.stato} › ${p.nome}` : p.nome
+}
+
+/**
+ * Paesi in ordine alfabetico, con ogni regione subito dopo il suo Stato (o dopo le altre regioni
+ * dello stesso Stato): «Malesia», «Malesia › Borneo», …, «Stati Uniti › California», «Stati Uniti › Florida».
+ */
+export function ordinaPaesi<T extends Pick<OpzionePaese, 'nome' | 'stato'>>(paesi: T[], lingua: string): T[] {
+  return [...paesi].sort((a, b) => {
+    const gruppo = (a.stato ?? a.nome).localeCompare(b.stato ?? b.nome, lingua)
+    if (gruppo !== 0) return gruppo
+    // nello stesso gruppo lo Stato (senza `stato`) viene prima delle sue regioni
+    if (!a.stato !== !b.stato) return a.stato ? 1 : -1
+    return a.nome.localeCompare(b.nome, lingua)
+  })
+}
+
+/** Mesi brevi per le card («Mag–Set»). */
+export const MESI_BREVI: Record<'it' | 'en' | 'es', string[]> = {
+  it: ['Gen', 'Feb', 'Mar', 'Apr', 'Mag', 'Giu', 'Lug', 'Ago', 'Set', 'Ott', 'Nov', 'Dic'],
+  en: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
+  es: ['Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun', 'Jul', 'Ago', 'Sep', 'Oct', 'Nov', 'Dic'],
+}
+
+const TUTTO_ANNO = { it: 'Tutto l’anno', en: 'All year', es: 'Todo el año' }
+
+/**
+ * Stagione consigliata in breve, dai mesi consigliati: [5,6,7,8,9] → «Mag–Set»,
+ * [12,1,2] → «Dic–Feb» (a cavallo dell'anno), [4,5,9,10] → «Apr–Mag, Set–Ott»,
+ * [4] → «Apr». Vuoto se non ci sono mesi: niente stagione inventata.
+ */
+export function stagioneBreve(mesi: number[] | undefined, lingua: 'it' | 'en' | 'es'): string {
+  const validi = [...new Set((mesi ?? []).filter((m) => Number.isInteger(m) && m >= 1 && m <= 12))].sort((a, b) => a - b)
+  if (validi.length === 0) return ''
+  if (validi.length === 12) return TUTTO_ANNO[lingua]
+  const presenti = new Set(validi)
+  // si parte dal primo mese che non segue un mese consigliato: così dicembre-gennaio resta un pezzo solo
+  const inizi = validi.filter((m) => !presenti.has(m === 1 ? 12 : m - 1))
+  const pezzi = inizi.map((da) => {
+    let a = da
+    while (presenti.has(a === 12 ? 1 : a + 1)) a = a === 12 ? 1 : a + 1
+    return [da, a] as const
+  })
+  const nome = (m: number) => MESI_BREVI[lingua][m - 1]
+  return pezzi.map(([da, a]) => (da === a ? nome(da) : `${nome(da)}–${nome(a)}`)).join(', ')
+}
+
+/**
+ * Budget del TripMeta per la card: il testo già pubblicato, senza «indicativamente/circa»
+ * all'inizio e senza le parentesi. Niente cifre ricalcolate: se il testo non ha numeri o è
+ * troppo lungo per una card non si mostra.
+ */
+export function budgetBreve(testo: string | undefined): string | undefined {
+  if (!testo) return undefined
+  const pulito = testo
+    .replace(/\([^)]*\)/g, ' ')
+    .replace(/^\s*(indicativamente|circa|de forma indicativa|aproximadamente|unos|roughly|about|around|approximately)\s+/i, '')
+    .replace(/\s+/g, ' ')
+    .replace(/\s+([,.])/g, '$1')
+    .trim()
+  if (!/\d/.test(pulito) || pulito.length > 100) return undefined
+  return pulito.charAt(0).toUpperCase() + pulito.slice(1)
+}
+
+export const CHIAVI_FILTRO = ['q', 'area', 'paese', 'durata', 'quando', 'stile', 'mese'] as const
 export type ChiaveFiltro = (typeof CHIAVI_FILTRO)[number]
+
+/** Filtri del pannello «Altri filtri»: meno usati, o con pochi viaggi (il mese reale c'è in ~13). */
+export const CHIAVI_AVANZATE = ['stile', 'mese'] as const satisfies readonly ChiaveFiltro[]
+
+/** Modifiche che tolgono tutti i filtri (l'ordinamento resta). */
+export const NESSUN_FILTRO: Record<ChiaveFiltro, ''> = { q: '', area: '', paese: '', durata: '', quando: '', stile: '', mese: '' }
 
 export const ORDINI = ['consigliati', 'durata-asc', 'durata-desc'] as const
 export type Ordine = (typeof ORDINI)[number]
@@ -151,7 +234,7 @@ export type StatoFiltri = Record<ChiaveFiltro, string> & {
   sequenza: ChiaveFiltro[]
 }
 
-export const STATO_VUOTO: StatoFiltri = { q: '', area: '', paese: '', durata: '', stile: '', mese: '', ordine: 'consigliati', sequenza: [] }
+export const STATO_VUOTO: StatoFiltri = { ...NESSUN_FILTRO, ordine: 'consigliati', sequenza: [] }
 
 type LettoreParametri = { get(nome: string): string | null; keys(): IterableIterator<string> | Iterable<string> }
 
@@ -169,9 +252,10 @@ export function leggiStato(params: LettoreParametri, paesiValidi: Set<string>): 
   const durata = FASCE_VALIDE.has(pulito('durata')) ? pulito('durata') : ''
   const stile = STILI_VALIDI.has(pulito('stile')) ? pulito('stile') : ''
   const mese = MESI_VALIDI.has(pulito('mese')) ? pulito('mese') : ''
+  const quando = MESI_VALIDI.has(pulito('quando')) ? pulito('quando') : ''
   const o = pulito('ordine')
   const ordine: Ordine = (ORDINI as readonly string[]).includes(o) ? (o as Ordine) : 'consigliati'
-  const stato = { q, area, paese, durata, stile, mese }
+  const stato = { q, area, paese, durata, quando, stile, mese }
   const sequenza: ChiaveFiltro[] = []
   for (const k of params.keys()) {
     if ((CHIAVI_FILTRO as readonly string[]).includes(k) && stato[k as ChiaveFiltro] && !sequenza.includes(k as ChiaveFiltro)) {
@@ -201,6 +285,7 @@ export function passaFiltri(v: ViaggioCatalogo, s: Record<ChiaveFiltro, string>,
   if (ignora !== 'paese' && s.paese && !v.paesi.includes(s.paese)) return false
   if (ignora !== 'durata' && s.durata && fasciaDi(v.giorni) !== s.durata) return false
   if (ignora !== 'stile' && s.stile && !v.stili.includes(s.stile)) return false
+  if (ignora !== 'quando' && s.quando && !(v.mesiConsigliati ?? []).includes(Number(s.quando))) return false
   if (ignora !== 'mese' && s.mese && !v.mesi.includes(Number(s.mese))) return false
   if (ignora !== 'q' && s.q) {
     const parole = normalizza(s.q).split(' ').filter(Boolean)

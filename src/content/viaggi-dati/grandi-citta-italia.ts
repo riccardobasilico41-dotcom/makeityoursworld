@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const grandiCittaItaliaMeta: TripMeta = {
   tripSlug: 'grandi-citta-italia',
   paeseSlug: 'italia',
+  provenienza: 'journey',
+  mesiConsigliati: [10, 11, 12, 1, 2, 3],
   ritmo: 'Denso ma senza trasferimenti faticosi: quattro basi collegate dall\'alta velocità, con giornate piene',
   trasporti: 'Solo alta velocità tra le città, mezzi pubblici e piedi dentro. L\'auto è inutile o dannosa in tutte e quattro',
   stile: ['città d\'arte', 'archeologia', 'gastronomia'],

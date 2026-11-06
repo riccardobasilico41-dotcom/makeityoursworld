@@ -1,7 +1,7 @@
 # Florence in 3 Days (and the 2-Day Version That Holds Up)
 
 **Stato bozza:** 🟡 in progress (itinerary and practical information verified; the first-person passages are written as a draft to be reread and personalized)
-**Periodo del viaggio:** **April-May or October-November**
+**Periodo del viaggio:**
 **Durata:** 3 days, 2 nights — with a compressed 2-day version
 **Compagni di viaggio:** with friends, independent, everything on foot
 **Categoria:** Europa · Italia · Firenze · arte · Rinascimento · gastronomia

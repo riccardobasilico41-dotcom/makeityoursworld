@@ -55,9 +55,10 @@ export type EditorialMeta = {
  * Chiave = `Viaggio['slug']`. Ogni numero nei titoli è contato dal markdown
  * del viaggio: i giorni dalla `Durata`, gli «errori» dalle voci della sezione
  * «Consigli pratici / errori da non ripetere», i prezzi solo se compaiono nel
- * testo. La prima persona è usata solo per i viaggi raccontati da un viaggio
- * reale (1-15, Perù e 90-marocco-citta-imperiali, fatto da Rick); gli altri sono guide e
- * restano in forma neutra.
+ * testo. Tutti i viaggi sono stati fatti da Rick: la prima persona compare solo dove il
+ * markdown ha già ricordi suoi (1-15, Perù, 90-marocco-citta-imperiali e gli altri con
+ * apertura in prima persona); dove il testo è scritto in forma di guida, l'hook resta
+ * pratico e non aggiunge ricordi che non ci sono.
  * `editorialHeadline` non è impostato: l'H1 resta il titolo vero del viaggio.
  */
 export const editorialViaggi: Record<string, EditorialMeta> = {
@@ -772,7 +773,7 @@ export const editorialViaggi: Record<string, EditorialMeta> = {
   'india-sud-taj-mahal': {
     seoTitle: "Delhi, Agra e India del Sud in 17 giorni: itinerario",
     seoDescription:
-      "Delhi e il Taj Mahal all'alba, poi in volo a Chennai per Tamil Nadu, Kerala e Hampi. Una proposta di 17 giorni con budget, truffe ed errori da evitare.",
+      "Delhi e il Taj Mahal all'alba, poi in volo a Chennai per Tamil Nadu, Kerala e Hampi. Un itinerario di 17 giorni con budget, truffe ed errori da evitare.",
     socialTitle: "Il Taj Mahal e l'India del Sud in 17 giorni: da Delhi alle backwaters del Kerala fino a Hampi",
     editorialHook:
       "Le houseboat di Alleppey offerte sui moli a prezzi bassi spesso non sono quelle delle foto: si prenota prima.",

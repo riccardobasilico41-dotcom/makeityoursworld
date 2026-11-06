@@ -1,7 +1,7 @@
 # India: Rajasthan in 10 Days, from Delhi and the Taj Mahal to the Lakes of Udaipur
 
-**Stato bozza:** 🟡 in progress (a proposal built on research and on Rick's longer trip through Rajasthan and Varanasi, not a trip taken this way; practical information verified in October-November 2026)
-**Periodo del viaggio:** designed for October to March, with November to February the best window
+**Stato bozza:** 🟡 in progress (places Rick visited, put together into one practical route; practical information checked in October-November 2026, to recheck before departure; first-person memories only those given by Rick, none invented)
+**Periodo del viaggio:**
 **Durata:** 10 days, 9 nights
 **Compagni di viaggio:** an itinerary designed for independent travel, with fast trains for the Delhi-Agra and Jaipur-Jodhpur legs, a car with driver for the stretches without a convenient railway and a domestic flight home
 **Categoria:** Asia · India · Rajasthan · triangolo d'oro · forti e palazzi · cultura
@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-This is a short, ten-day version, built on research and on the longer trip Rick took in India: *India: Varanasi, Ranthambore and Rajasthan in 19 Days, by Overnight Train and with a Driver*, with the overnight trains and the driver. Rick didn't do it this way. It keeps the Rajasthan stops that fit into ten days and leaves out Varanasi, Ranthambore, Pushkar and the desert.
+This is a short, ten-day version, of the longer trip Rick took in India: *India: Varanasi, Ranthambore and Rajasthan in 19 Days, by Overnight Train and with a Driver*, with the overnight trains and the driver. The places are the ones from that trip; the ten-day sequence is a shortened version for those with less time. It keeps the Rajasthan stops that fit into ten days and leaves out Varanasi, Ranthambore, Pushkar and the desert.
 
 Rajasthan is the most sensible first trip to India for anyone leaving from Italy. The distances are manageable, the monuments are among the finest in the country, and the network of trains, drivers and heritage hotels lets you organize everything yourself without joining a group tour. In ten days, this itinerary strings together the Golden Triangle (Delhi, Agra, Jaipur) and two Rajasthan cities that are worth the trip on their own: Jodhpur, the blue city below Mehrangarh Fort, and Udaipur, the city of lakes and white palaces.
 
@@ -170,7 +170,7 @@ Prices per person in a double room, intercontinental flights excluded (from Ital
 ## Chiusura personale
 Ten days in Rajasthan aren't enough to understand India, but they are enough to understand whether you want to come back. It's a trip made of strong contrasts: the noise of Delhi and the silence of the Taj at six in the morning, the chaos of the Jaipur bazaars and the wind on the walls of Mehrangarh, the constant horns on the roads and the calm of a terrace on Lake Pichola at sunset. Anyone who prepares it well, with booked trains, a reliable driver and two nights in every city, goes home wanting to see the rest: Varanasi, the Thar Desert, the South.
 
-*This itinerary isn't a trip Rick took this way: it's a short version built on research and on his longer trip, India: Varanasi, Ranthambore and Rajasthan in 19 Days, by Overnight Train and with a Driver. From that trip come the Rajasthan stops, the warning about the Taj on Fridays, the tip about the security lines and the advice to choose your driver carefully (he wouldn't recommend his). Routes, times, prices and rules come from official visa and Indian railways portals, the official Taj Mahal website, monument websites, Viaggiare Sicuri and recent guides, verified in October-November 2026: double-check them before you go.*
+*This short version comes from Rick's longer trip in India, India: Varanasi, Ranthambore and Rajasthan in 19 Days, by Overnight Train and with a Driver: the places are the ones he visited, the ten-day sequence is rearranged for those with less time. From that trip come the Rajasthan stops, the warning about the Taj on Fridays, the tip about the security lines and the advice to choose your driver carefully (he wouldn't recommend his). Routes, times, prices and rules come from official visa and Indian railways portals, the official Taj Mahal website, monument websites, Viaggiare Sicuri and recent guides, verified in October-November 2026: double-check them before you go.*
 
 ## Tag
 `#india` `#rajasthan` `#delhi` `#agra` `#tajmahal` `#jaipur` `#jodhpur` `#udaipur` `#ranakpur` `#triangolodoro` `#asia` `#treniindiani`

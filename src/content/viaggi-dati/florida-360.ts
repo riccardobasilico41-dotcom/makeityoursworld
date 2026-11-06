@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const florida360Meta: TripMeta = {
   tripSlug: 'florida-road-trip',
   paeseSlug: 'florida',
+  provenienza: 'journey',
+  mesiConsigliati: [],
   ritmo: 'Molto intenso — quasi 1.800 km al volante in 10 giorni, con un giorno (Naples-Orlando) di 5h di guida',
   trasporti: 'Auto a noleggio self-drive (Sixt) per quasi tutto il tour, Uber/Lyft per gli spostamenti serali in città',
   stile: ['on the road', 'road trip', 'mare'],

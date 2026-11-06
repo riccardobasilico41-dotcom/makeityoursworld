@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const costaAzzurraMeta: TripMeta = {
   tripSlug: 'costa-azzurra',
   paeseSlug: 'francia',
+  provenienza: 'journey',
+  mesiConsigliati: [5, 6, 9, 10],
   ritmo: 'Base fissa ad Antibes, spostamenti in treno lungo la costa, con un\'estensione opzionale nel Mercantour',
   trasporti: 'Treno regionale costiero per tutto; auto solo per l\'entroterra e il Mercantour',
   stile: [

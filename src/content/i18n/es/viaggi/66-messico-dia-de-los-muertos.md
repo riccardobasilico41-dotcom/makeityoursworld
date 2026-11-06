@@ -1,7 +1,7 @@
 # México, Día de los Muertos: de Ciudad de México a Puerto Escondido en 16 días
 
 **Stato bozza:** 🟡 en preparación (viaje hecho por Rick; itinerario e información práctica verificados)
-**Periodo del viaggio:** del 24 de octubre al 8 de noviembre, con las tres noches de los muertos (31 de octubre, 1 y 2 de noviembre) todas en Oaxaca
+**Periodo del viaggio:**
 **Durata:** 16 días, 15 noches
 **Compagni di viaggio:** con amigos, por nuestra cuenta, con autobuses ADO entre ciudades, colectivos y tours nocturnos a los cementerios, vuelo interno de regreso desde Puerto Escondido
 **Categoria:** Nord America · Messico · Città del Messico · Puebla · Oaxaca · Día de los Muertos · festival · cultura · mare
@@ -14,6 +14,7 @@ El Día de los Muertos es la fiesta más fotografiada de México, y también la 
 Este itinerario sigue la fiesta de norte a sur. Empieza en Ciudad de México, con la procesión de las Catrinas y las grandes ofrendas públicas; pasa por Puebla y Cholula, donde una iglesia colonial se alza sobre una pirámide con el volcán Popocatépetl detrás; llega a Oaxaca para las tres noches que cuentan, en los cementerios de Xoxocotlán, en la muerteada de San Agustín Etla y en los mercados llenos de flores; y termina en el océano Pacífico, en Puerto Escondido, para dejar atrás la fiesta frente al mar. Está pensado para quien quiere vivir la celebración donde más se siente, aceptando que esas tres noches se duerme poco, se paga más y se reserva con meses de antelación.
 
 ## Scheda pratica
+- **Cuándo ir:** Del 24 de octubre al 8 de noviembre, con las tres noches de los muertos (31 de octubre, 1 y 2 de noviembre) todas en Oaxaca
 - **El calendario de la fiesta:** las fechas son fijas. El **28 de octubre**, en muchas zonas, se recuerda a los muertos por accidente; el **31 de octubre** y el **1 de noviembre** están dedicados a los niños (angelitos) y el **2 de noviembre** a los adultos. En la práctica, las veladas en los cementerios se concentran en las noches entre el 31 de octubre y el 2 de noviembre, y cada pueblo tiene su noche "principal". En 2026 el 31 de octubre cae en sábado; en **2027** caerá en domingo, el 1 de noviembre en lunes y el 2 en martes.
 - **Dónde estar, noche por noche (versión de este itinerario):** **31 de octubre**, cementerio de **Santa Cruz Xoxocotlán**, al sur de Oaxaca; **1 de noviembre**, la **muerteada de San Agustín Etla**, la comparsa más grande de los Valles Centrales, que empieza por la tarde y sigue hasta la mañana; **2 de noviembre**, el **Panteón General de Oaxaca** y las últimas comparsas en la ciudad. Las alternativas (Janitzio en Michoacán, Mixquic en Ciudad de México, el desfile de la capital) se explican más abajo en **Variantes**.
 - **Cuándo reservar:** alojamientos en Oaxaca con **4-6 meses de antelación**; en las noches entre el 30 de octubre y el 2 de noviembre los precios en la ciudad se multiplican por dos o tres y los establecimientos céntricos se agotan. Los tours nocturnos a los cementerios y a la muerteada hay que reservarlos al menos unas semanas antes, los autobuses ADO a Oaxaca unos días antes.

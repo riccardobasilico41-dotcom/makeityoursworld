@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const rotteDeiViniMeta: TripMeta = {
   tripSlug: 'rotte-dei-vini-itinerario',
   paeseSlug: 'italia',
+  provenienza: 'journey',
+  mesiConsigliati: [9, 10],
   ritmo: 'Lento per costruzione: due o tre cantine al giorno al massimo, perché dopo la terza non si assaggia più niente',
   trasporti: 'Auto a noleggio, con il problema di chi guida da risolvere prima di partire',
   stile: ['enogastronomia', 'paesaggi', 'itinerari'],

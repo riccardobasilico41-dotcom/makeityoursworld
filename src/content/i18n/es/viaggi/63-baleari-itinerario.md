@@ -1,7 +1,7 @@
 # Baleares en 8 días: Mallorca, Ibiza y Menorca
 
 **Stato bozza:** 🟡 en elaboración (viaje hecho por Rick; itinerario e información práctica verificados)
-**Periodo del viaggio:** **mayo-junio o septiembre**
+**Periodo del viaggio:**
 **Durata:** 8 días, 7 noches
 **Compagni di viaggio:** con amigos, por libre, ferri entre las islas, coche de alquiler en cada una
 **Categoria:** Europa · Spagna · Baleari · isole · mare

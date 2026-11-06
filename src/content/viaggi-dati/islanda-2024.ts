@@ -10,6 +10,8 @@ import type { TripMeta } from '@/lib/types'
 export const islanda2024Meta: TripMeta = {
   tripSlug: 'islanda-2024',
   paeseSlug: 'islanda',
+  provenienza: 'journey',
+  mesiConsigliati: [6, 7, 8],
   ritmo: 'Intenso — giornate lunghe di guida alternate a tappe naturalistiche molto dense, con notti quasi sempre in tenda',
   trasporti: 'Volo su Keflavík, auto a noleggio per l\'intero anello (Ring Road), tenda a noleggio in loco',
   stile: ['natura', 'avventura', 'campeggio', 'on the road'],

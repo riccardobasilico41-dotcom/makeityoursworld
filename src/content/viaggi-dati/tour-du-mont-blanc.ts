@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const tourDuMontBlancMeta: TripMeta = {
   tripSlug: 'tour-du-mont-blanc',
   paeseSlug: 'francia',
+  provenienza: 'journey',
+  mesiConsigliati: [6, 7, 8, 9],
   ritmo: 'Nove tappe attorno al massiccio, attraversando Francia, Italia e Svizzera, con pernottamento in rifugio ogni notte',
   trasporti: 'A piedi, con navette e trasferimento bagagli disponibili sulla rete',
   stile: [

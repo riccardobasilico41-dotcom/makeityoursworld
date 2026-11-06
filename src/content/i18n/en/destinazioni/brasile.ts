@@ -814,7 +814,7 @@ export const destinazioniBrasile: Destinazione[] = [
     nome: 'Pantanal (Transpantaneira and Porto Jofre)',
     tipologia: ['wildlife', 'safari', 'wetland'],
     giorniConsigliati: '4-6 days',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       "The largest tropical wetland in the world. In the northern Pantanal, along the dirt road of the Transpantaneira to Porto Jofre, in the dry season jaguars are seen on the riverbanks with a regularity that has no equal.",
     percheAndarci: 'For the jaguars, giant otters, caimans and the wetland birds.',
@@ -925,7 +925,7 @@ export const destinazioniBrasile: Destinazione[] = [
     nome: 'The Amazon from Manaus',
     tipologia: ['forest', 'river', 'wildlife'],
     giorniConsigliati: '4-5 days, up to 10 continuing toward Peru or Colombia',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       "Manaus, a city of over two million people reachable only by air or boat, is the gateway to the Brazilian Amazon, at the confluence of the Rio Negro and the Solimões. From here you go up the river to the triple border with Colombia and Peru.",
     percheAndarci: 'For the flooded forest, the pink dolphins, the Meeting of the Waters and, if you like, to cross the continent by river.',

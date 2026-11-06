@@ -31,7 +31,7 @@ export const indiaRajasthan10GiorniMeta: TripMeta = {
   budgetTotale: undefined,
   viaggioInBreve: {
     conChiSonoPartito:
-      "propuesta no vivida así, versión corta del viaje largo de Rick con Benarés; pensada para viajar por libre, con trenes, conductor para los traslados y un vuelo interno",
+      "versión corta del viaje largo de Rick con Benarés, por libre, con trenes, conductor para los traslados y un vuelo interno",
     treEsperienzePiuBelle:
       "El Taj Mahal al amanecer, el Fuerte de Mehrangarh sobre la ciudad azul, el atardecer sobre el lago Pichola en Udaipur",
     aChiLoConsiglio: "a quien va a India por primera vez y tiene diez días entre octubre y marzo",

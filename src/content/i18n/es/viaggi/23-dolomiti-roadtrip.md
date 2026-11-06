@@ -1,7 +1,7 @@
 # Dolomitas Roadtrippin': la guía por zonas, entre el Tirol del Sur y el Trentino
 
 **Stato bozza:** 🟡 en elaboración
-**Periodo del viaggio:** verano de junio a septiembre, invierno de diciembre a marzo
+**Periodo del viaggio:**
 **Durata:** modular — de un fin de semana en una sola zona a un recorrido completo de dos semanas. Tres propuestas listas más abajo.
 **Compagni di viaggio:** con amigos, por libre, en coche
 **Categoria:** Europa · Italia · Dolomiti · roadtrip · trekking · sci · montagna

@@ -1,7 +1,7 @@
 # Bali, Sulawesi and Raja Ampat in Two Weeks: From Rice Terraces to the Richest Reefs in the World
 
 **Stato bozza:** 🟡 work in progress (Rick has seen Bali, Sulawesi and Raja Ampat, Raja Ampat in August 2026; flights, ferries and prices checked on November 5, 2026 against official and industry sources, to be rechecked before you go. The Raja Ampat permit amount for foreigners is not confirmed)
-**Periodo del viaggio:** designed for July to October. Bali and Sulawesi are in the dry season from April-May to October; in Raja Ampat the best window runs from October to April, but in summer the sea stays beautiful, with more wind and fewer people
+**Periodo del viaggio:** Raja Ampat in August 2026
 **Durata:** 12 days, 11 nights
 **Compagni di viaggio:** independently, with a driver on Bali, a local operator in North Sulawesi, three domestic flights, a fast ferry and homestay boats in Raja Ampat
 **Categoria:** Asia · Indonesia · Bali · Sulawesi · Raja Ampat · mare · snorkeling · immersioni · natura
@@ -14,6 +14,8 @@ Raja Ampat is the most beautiful place I've seen underwater, and also the hardes
 Twelve days is short for three islands, and I'll say it right away: every island deserves at least a week, if not more. This is the loop for people who have little time and want to see how different Indonesia is from one island to the next. Further down there are also the two versions with just one island besides Bali: Sulawesi only or Raja Ampat only. You choose based on the season.
 
 We went in August, which every guide marks as the wrong season for Raja Ampat. In part it is, but not in the way you'd expect: the sea was spectacular anyway, ten days without a drop of rain. The wind, though, made itself felt, and stretched out a couple of transfers between the islands.
+
+This itinerary brings together different trips into one practical route: places I've personally visited at different times, put in order so you can make the most of each destination.
 
 ## Scheda pratica
 - **When to go:** on Bali the dry season runs from April to October, on Sulawesi from May to October. In Raja Ampat the best window is October to April, with calmer seas and more manta rays and big pelagics. From May to September the southeast winds blow: transfers can take longer and outings to exposed areas can be canceled. The month that suits all three is **October**. Summer works too, if you accept the wind.

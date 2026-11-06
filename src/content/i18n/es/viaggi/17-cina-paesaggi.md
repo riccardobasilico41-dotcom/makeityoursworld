@@ -1,7 +1,7 @@
 # La otra China en 18 días: Zhangjiajie, Sichuan, Yunnan y Yangshuo
 
 **Stato bozza:** 🟡 en preparación
-**Periodo del viaggio:** primavera u otoño — abril-mayo o septiembre-octubre, evitando la primera semana de octubre
+**Periodo del viaggio:**
 **Durata:** 18 días, 17 noches
 **Compagni di viaggio:** con amigos, por libre, con vuelos internos y alta velocidad reservados con antelación
 **Categoria:** Asia · Cina · paesaggi · trekking · montagna · natura

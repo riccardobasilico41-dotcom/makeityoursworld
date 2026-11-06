@@ -1,7 +1,7 @@
 # Berlín en cuatro días
 
 **Stato bozza:** 🟡 en elaboración
-**Periodo del viaggio:** **mayo-septiembre**
+**Periodo del viaggio:**
 **Durata:** 4 días, 3-4 noches
 **Compagni di viaggio:** con amigos, por nuestra cuenta, en transporte público
 **Categoria:** Europa · Germania · Berlino · storia · memoria · vita notturna

@@ -1,7 +1,7 @@
 # Bali, Nusa Penida, Nusa Lembongan and Komodo in Two Weeks: Rice Terraces, Cliffs and Dragons
 
 **Stato bozza:** 🟡 work in progress (Rick has seen Bali, Nusa Penida and Komodo; routes, times and prices checked on November 5, 2026 against official and industry sources, to be rechecked before you go. Boat times to the Nusa islands and the amount of the Nusa local tax are not confirmed)
-**Periodo del viaggio:** designed for April to October, Bali's dry season. In Komodo the dry season, with calmer seas, runs from April to December
+**Periodo del viaggio:**
 **Durata:** 14 days, 13 nights
 **Compagni di viaggio:** independently, with a day driver on Bali, fast boats to the Nusa islands, a round-trip domestic flight to Labuan Bajo and a boat with nights on board in Komodo National Park
 **Categoria:** Asia · Indonesia · Bali · Nusa Penida · Nusa Lembongan · Komodo · isole · mare · snorkeling · risaie

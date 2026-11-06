@@ -1,7 +1,7 @@
 # Normandia e Bretagna in due settimane
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
-**Periodo del viaggio:** **maggio-giugno oppure settembre**
+**Periodo del viaggio:**
 **Durata:** 12 giorni, 11 notti
 **Compagni di viaggio:** con amici, in autonomia, con auto a noleggio
 **Categoria:** Europa · Francia · Normandia · Bretagna · storia · costa

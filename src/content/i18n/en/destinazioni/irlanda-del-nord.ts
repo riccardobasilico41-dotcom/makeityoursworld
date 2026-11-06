@@ -8,7 +8,7 @@ export const destinazioniIrlandaDelNord: Destinazione[] = [
     nome: 'Belfast',
     tipologia: ['città', 'storia'],
     giorniConsigliati: '1-2 days',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'The capital of Northern Ireland. It is the city where the Titanic was designed and launched, and the one where the Troubles left their most visible marks: the murals of the Falls Road and Shankill Road and the peace walls that still separate some neighborhoods.',
     percheAndarci:
@@ -82,7 +82,7 @@ export const destinazioniIrlandaDelNord: Destinazione[] = [
     nome: 'Causeway Coastal Route',
     tipologia: ['costa', 'natura', 'on the road'],
     giorniConsigliati: '1-2 days',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       "The coast road of County Antrim. The best-known stops are the Giant's Causeway, with more than 40,000 basalt columns, Dunluce Castle on the cliff, the Carrick-a-Rede rope bridge and, inland, the beech avenue of the Dark Hedges.",
     percheAndarci: 'For the most spectacular stretch of coast in Northern Ireland, between Derry and Belfast.',
@@ -144,7 +144,7 @@ export const destinazioniIrlandaDelNord: Destinazione[] = [
     nome: 'Derry/Londonderry',
     tipologia: ['città', 'storia'],
     giorniConsigliati: '1 day',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'The second city of Northern Ireland, on the River Foyle, with its 17th-century walls still complete. It has two names, and the name alone tells its history. Here, in the Bogside, Bloody Sunday took place on January 30, 1972.',
     percheAndarci: 'To walk on the walls and for the museums that tell the story of the Troubles up close, in the city where they began and where you can see the peace, starting with a bridge.',

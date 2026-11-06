@@ -1,15 +1,15 @@
 import type { Metadata } from 'next'
 import Link from '@/components/ui/Link'
 import { notFound } from 'next/navigation'
-import { ArrowUpRight } from 'lucide-react'
 import { Container } from '@/components/ui/Container'
 import { PageHeader } from '@/components/ui/PageHeader'
 import { JsonLd } from '@/components/JsonLd'
 import { breadcrumbJsonLd } from '@/lib/structured-data'
 import { pageMetadata, primoTitoloCheSta } from '@/lib/seo'
-import { link, relAffiliato } from '@/lib/affiliazioni'
+import { AFFILIAZIONI, link, relAffiliato } from '@/lib/affiliazioni'
+import { ChecklistValigia, type SezioneChecklist } from '@/components/attrezzatura/ChecklistValigia'
 import { getAllViaggi } from '@/lib/viaggi'
-import { listeAttrezzatura } from '@/content/attrezzatura'
+import { listeAttrezzatura, type ListaAttrezzatura } from '@/content/attrezzatura'
 import { getListaAttrezzatura } from '@/lib/i18n/contenuti'
 import { linguaCorrente } from '@/lib/i18n/server'
 import { type Lingua } from '@/lib/i18n/config'
@@ -54,9 +54,8 @@ const T = {
     sufTitolo: 'cosa mettere in valigia',
     desc: (titolo: string, sotto: string) => `${titolo}: la lista di cosa mettere in valigia. ${sotto}.`,
     affiliati: 'Contiene link affiliati Amazon: se compri, il sito riceve una piccola commissione, senza costi in più per te.',
+    nonAffiliati: 'I link portano a una ricerca generica su Amazon, senza marche e senza affiliazione: il sito non riceve commissioni.',
     comeFunziona: 'Come funziona',
-    apri: 'Apri su Amazon',
-    nuovaScheda: '(si apre in una nuova scheda)',
     unViaggio: 'Il viaggio per cui serve',
     piuViaggi: 'I viaggi per cui serve',
     tutte: 'Tutte le liste',
@@ -66,9 +65,8 @@ const T = {
     sufTitolo: 'what to pack',
     desc: (titolo: string, sotto: string) => `${titolo}: the checklist of what to pack. ${sotto}.`,
     affiliati: 'Contains Amazon affiliate links: if you buy, the site gets a small commission at no extra cost to you.',
+    nonAffiliati: 'The links open a generic Amazon search, with no brands and no affiliation: the site earns no commission.',
     comeFunziona: 'How it works',
-    apri: 'Open on Amazon',
-    nuovaScheda: '(opens in a new tab)',
     unViaggio: 'The trip it is for',
     piuViaggi: 'The trips it is for',
     tutte: 'All the lists',
@@ -78,14 +76,35 @@ const T = {
     sufTitolo: 'qué meter en la maleta',
     desc: (titolo: string, sotto: string) => `${titolo}: la lista de qué meter en la maleta. ${sotto}.`,
     affiliati: 'Contiene enlaces de afiliado de Amazon: si compras, el sitio recibe una pequeña comisión, sin coste adicional para ti.',
+    nonAffiliati: 'Los enlaces abren una búsqueda genérica en Amazon, sin marcas y sin afiliación: el sitio no recibe comisiones.',
     comeFunziona: 'Cómo funciona',
-    apri: 'Abrir en Amazon',
-    nuovaScheda: '(se abre en una pestaña nueva)',
     unViaggio: 'El viaje para el que sirve',
     piuViaggi: 'Los viajes para los que sirve',
     tutte: 'Todas las listas',
   },
 } satisfies Record<Lingua, Record<string, string | ((a: string, b: string) => string)>>
+
+/** Id stabile di una voce: dal nome italiano, così le spunte valgono in tutte le lingue. */
+const idVoce = (nome: string) =>
+  nome.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')
+
+/** Voci della lista per la checklist: id e livello vengono dall'italiano (le traduzioni hanno la stessa struttura). */
+function sezioniChecklist(lista: ListaAttrezzatura, lingua: Lingua): SezioneChecklist[] {
+  const it = listeAttrezzatura.find((l) => l.slug === lista.slug)
+  return lista.sezioni.map((sezione, i) => ({
+    titolo: sezione.titolo,
+    voci: sezione.voci.map((voce, j) => {
+      const orig = it?.sezioni[i]?.voci[j]
+      return {
+        id: idVoce(orig?.nome ?? voce.nome),
+        nome: voce.nome,
+        perche: voce.perche,
+        livello: orig?.livello ?? voce.livello ?? 'consigliato',
+        href: link.amazon(voce.ricerca, lingua),
+      }
+    }),
+  }))
+}
 
 export async function generateStaticParams() {
   return listeAttrezzatura.map((l) => ({ slug: l.slug }))
@@ -112,6 +131,8 @@ export default async function ListaAttrezzaturaPage({ params }: { params: Promis
   const lista = getListaAttrezzatura(slug, lingua)
   if (!lista) notFound()
 
+  // Senza tag Associates i link sono semplici ricerche: niente avviso «affiliati» e niente rel="sponsored".
+  const affiliato = Boolean(AFFILIAZIONI.amazon[lingua])
   const viaggi = getAllViaggi(lingua).filter((v) => lista.viaggi.includes(v.slug))
 
   return (
@@ -135,7 +156,7 @@ export default async function ListaAttrezzaturaPage({ params }: { params: Promis
         lead={<p>{lista.intro}</p>}
         meta={
           <p className="text-sm leading-relaxed text-stone">
-            {t.affiliati}{' '}
+            {affiliato ? t.affiliati : t.nonAffiliati}{' '}
             <Link href="/trasparenza" className="font-semibold text-ink underline underline-offset-2 hover:text-rosso">
               {t.comeFunziona}
             </Link>
@@ -146,43 +167,14 @@ export default async function ListaAttrezzaturaPage({ params }: { params: Promis
       <section className="sezione">
         <Container>
           <div className="grid gap-14 lg:grid-cols-[minmax(0,1fr)_18rem] lg:gap-16">
-            <div className="space-y-14">
-              {lista.sezioni.map((sezione, i) => (
-                <section key={sezione.titolo} aria-labelledby={`sezione-${i}`}>
-                  <h2
-                    id={`sezione-${i}`}
-                    className="border-b-2 border-ink pb-3 font-display text-[clamp(1.5rem,2.6vw,2.25rem)] text-ink"
-                  >
-                    {sezione.titolo}
-                  </h2>
-                  <ul className="divide-y divide-ink/15">
-                    {sezione.voci.map((voce) => (
-                      <li key={voce.nome}>
-                        <a
-                          href={link.amazon(voce.ricerca, lingua)}
-                          target="_blank"
-                          rel={relAffiliato}
-                          className="group flex flex-col gap-3 py-5 sm:flex-row sm:items-start sm:justify-between sm:gap-8 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-rosso focus-visible:ring-offset-2"
-                        >
-                          <span>
-                            <span className="block font-semibold text-ink group-hover:text-rosso">{voce.nome}</span>
-                            <span className="mt-1 block text-sm leading-relaxed text-stone">{voce.perche}</span>
-                          </span>
-                          <span className="inline-flex shrink-0 items-center gap-1.5 self-start rounded-none border-2 border-ink px-3 py-1.5 text-xs font-semibold uppercase tracking-wider text-ink transition-colors duration-150 group-hover:bg-ink group-hover:text-cream">
-                            {t.apri}
-                            <ArrowUpRight size={14} aria-hidden="true" />
-                            <span className="sr-only">{t.nuovaScheda}</span>
-                          </span>
-                        </a>
-                      </li>
-                    ))}
-                  </ul>
-                </section>
-              ))}
-            </div>
+            <ChecklistValigia
+              lista={lista.slug}
+              sezioni={sezioniChecklist(lista, lingua)}
+              rel={affiliato ? relAffiliato : 'nofollow noopener noreferrer'}
+            />
 
             {viaggi.length > 0 && (
-              <aside className="lg:sticky lg:top-24 lg:self-start">
+              <aside data-no-stampa className="lg:sticky lg:top-24 lg:self-start">
                 <div className="border-2 border-ink bg-cream-dark p-6">
                   <h2 className="text-xs font-semibold uppercase tracking-[0.2em] text-rosso">
                     {viaggi.length === 1 ? t.unViaggio : t.piuViaggi}

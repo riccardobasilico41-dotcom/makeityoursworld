@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const marocco360Meta: TripMeta = {
   tripSlug: 'marocco-itinerario',
   paeseSlug: 'marocco',
+  provenienza: 'journey',
+  mesiConsigliati: [5],
   ritmo: 'Intenso — tratte anche lunghe (fino a 4 ore) quasi ogni giorno, con soste e visite lungo il percorso',
   trasporti: 'Van privato con guida locale per tutte le tratte',
   stile: ['deserto', 'kasbah', 'on the road'],

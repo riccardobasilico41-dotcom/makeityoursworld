@@ -8,7 +8,7 @@ export const newYork: Paese = {
   stato: 'Estados Unidos',
   titolo: 'Nueva York: rascacielos, barrios y un partido cada uno entre béisbol y baloncesto',
   descrizione:
-    'Seis días en Nueva York, 15-20 km a pie al día: Times Square de noche, el atardecer desde el Top of the Rock, la Estatua de la Libertad, un musical en Broadway, DUMBO con el puente de Manhattan al fondo y un partido en directo, béisbol en plena carrera por los playoffs o baloncesto de la WNBA con las New York Liberty. El programa es más rico de lo que se consigue hacer en una semana, a propósito: hay que elegir las prioridades.',
+    'Seis días en la ciudad de Nueva York (no el estado del mismo nombre, mucho más grande), 15-20 km a pie al día: Times Square de noche, el atardecer desde el Top of the Rock, la Estatua de la Libertad, un musical en Broadway, DUMBO con el puente de Manhattan al fondo y un partido en directo, béisbol en plena carrera por los playoffs o baloncesto de la WNBA con las New York Liberty. El programa es más rico de lo que se consigue hacer en una semana, a propósito: hay que elegir las prioridades.',
   periodoMigliore: 'septiembre, para juntar la carrera por los playoffs de la MLB (béisbol) con los playoffs de la WNBA de las New York Liberty (la temporada de la NBA empieza solo en octubre)',
   durataConsigliata: '6-7 días para cubrir Manhattan y Brooklyn sin correr demasiado',
   budgetIndicativo: 'unos 200-280€ para hacer casi todo (excluidos vuelo y hotel)',

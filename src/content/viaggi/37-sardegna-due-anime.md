@@ -1,7 +1,7 @@
 # Sardegna, le due anime: due settimane dalla Costa Smeralda al Sulcis
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
-**Periodo del viaggio:** **fine maggio-giugno oppure settembre**
+**Periodo del viaggio:**
 **Durata:** 14 giorni, 13 notti — con auto, attraversando l'isola in diagonale
 **Compagni di viaggio:** con amici, in autonomia, con auto a noleggio
 **Categoria:** Europa · Italia · Sardegna · mare · archeologia · trekking

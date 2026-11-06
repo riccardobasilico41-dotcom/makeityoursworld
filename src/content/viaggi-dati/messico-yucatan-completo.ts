@@ -15,6 +15,8 @@ import type { TripMeta } from '@/lib/types'
 export const messicoYucatanCompletoMeta: TripMeta = {
   tripSlug: 'messico-yucatan-completo',
   paeseSlug: 'messico',
+  provenienza: 'combined',
+  mesiConsigliati: [11, 12, 1, 2, 3, 4],
   ritmo:
     'Sveglia presto quasi ogni giorno, per entrare nei siti all\'apertura delle 8; una tappa nuova ogni uno o due giorni, con tre giornate di strada lunga (Campeche-Palenque, Palenque-Xpujil e Bacalar-Cancún) da fare tutte con la luce. Una giornata di riserva a Palenque e una di riposo a Bacalar.',
   trasporti:

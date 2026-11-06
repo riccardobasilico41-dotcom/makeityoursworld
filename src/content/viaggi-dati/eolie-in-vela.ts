@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const eolieInVelaMeta: TripMeta = {
   tripSlug: 'eolie-in-vela',
   paeseSlug: 'italia',
+  provenienza: 'journey',
+  mesiConsigliati: [6, 9],
   ritmo: 'La settimana classica da sabato a sabato, con traversate brevi tra un\'isola e l\'altra e l\'itinerario riscritto in corsa dal meteo',
   trasporti: 'In barca a vela con skipper, partendo da Milazzo; tender per gli sbarchi',
   stile: [

@@ -1,7 +1,7 @@
 # Scotland by Car: Edinburgh, the Highlands and Distilleries in Two Weeks
 
 **Stato bozza:** 🟡 work in progress (itinerary built on Rick's trip, done by car in July, and completed with research: practical information, distillery hours and prices checked in November 2026; stock photos from Wikimedia Commons)
-**Periodo del viaggio:** July. The itinerary works from May to September, with the longest days, and for Rick autumn, with the foliage, is beautiful too; the weather stays unpredictable in every season
+**Periodo del viaggio:** July
 **Durata:** 12 days, 11 nights, plus 4-5 days for the North Coast 500 variant
 **Compagni di viaggio:** itinerary designed for a couple or a small group with a rental car, and at least one person who drives and doesn't drink
 **Categoria:** Europa · Scozia · Edimburgo · Highlands · Skye · Oban · Loch Ness · Speyside · distillerie · whisky · on the road · North Coast 500
@@ -20,6 +20,7 @@ If you have a few more days, you can go up to the far north, on the **North Coas
 And one rule applies to the whole trip, distilleries included. In Scotland the drink-driving limit is lower than in England, but Rick's advice is even simpler: **zero tolerance**. Whoever drives doesn't drink, not even a taste.
 
 ## Scheda pratica
+- **When to go:** The itinerary works from May to September, with the longest days, and for Rick autumn, with the foliage, is beautiful too; the weather stays unpredictable in every season
 - **Documents:** Scotland is part of the United Kingdom, outside the European Union. Since April 2, 2025, Italian citizens need an **ETA**, to apply for on gov.uk or with the official UK ETA app: it costs £20 (2026) and is valid for 2 years, or until your passport expires. You need a **passport**: the ID card is accepted only in special cases.
 - **Car:** rent it in Edinburgh. The Italian driving licence is valid with no international permit. A car that isn't too big is better, for the single-track roads.
 - **Driving on the left:** on single-track roads you pull into the passing place on your left, or wait opposite the one on your right, and thank the other driver with a wave. You don't park in passing places. Sheep and deer cross suddenly.

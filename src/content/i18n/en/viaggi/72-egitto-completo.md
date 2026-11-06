@@ -1,7 +1,7 @@
 # Complete Egypt in 21 Days: Pyramids, Siwa, Abu Simbel, the Nile and Diving in the Red Sea
 
 **Stato bozza:** 🟡 in progress (itinerary, 2026 prices, transport and rules verified in October 2026)
-**Periodo del viaggio:** built around October-November or March-April, the two periods when the desert, Upper Egypt and the sea all work together; from December to February everything works except the sea, which is colder and windier
+**Periodo del viaggio:**
 **Durata:** 21 days, 20 nights
 **Compagni di viaggio:** with friends, independent, with local drivers and guides, a 4x4 with an authorized operator in Siwa, a domestic flight, three nights on a Nile cruise and a dive center on the Red Sea
 **Categoria:** Africa · Egitto · archeologia · deserto · oasi · crociera sul Nilo · immersioni · Mar Rosso

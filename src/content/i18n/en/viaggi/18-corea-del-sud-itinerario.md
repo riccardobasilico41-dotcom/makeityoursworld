@@ -1,7 +1,7 @@
 # South Korea in Two Weeks: From the DMZ to the Haenyeo of Jeju
 
 **Stato bozza:** 🟡 in progress (itinerary and practical information complete and verified; the first-person passages are written as a draft to be reread and personalized)
-**Periodo del viaggio:** spring or autumn — April for the cherry blossoms, October to early November for the fall foliage
+**Periodo del viaggio:**
 **Durata:** 14 days, 13 nights
 **Compagni di viaggio:** with friends, independently, with KTX trains and express buses booked in advance and a rental car only on Jeju
 **Categoria:** Asia · Corea del Sud · storia contemporanea · DMZ · haenyeo · gastronomia

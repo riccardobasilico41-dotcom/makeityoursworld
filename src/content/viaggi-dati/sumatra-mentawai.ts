@@ -10,6 +10,7 @@ import type { TripMeta } from '@/lib/types'
 export const sumatraMentawaiMeta: TripMeta = {
   tripSlug: 'sumatra-mentawai',
   paeseSlug: 'indonesia',
+  mesiConsigliati: [5, 6, 7, 8, 9],
   ritmo:
     'Tranquillo a Bukittinggi, duro fisicamente a Siberut (fango, caldo umido, niente elettricità), lento a Sipora; due giorni tenuti di riserva per strade chiuse e traghetti cancellati',
   trasporti:

@@ -1,7 +1,7 @@
 # Budapest in a Long Weekend
 
 **Stato bozza:** 🟡 in progress (trip made by Rick; itinerary and practical information verified)
-**Periodo del viaggio:** **April-May or September-October**
+**Periodo del viaggio:**
 **Durata:** 3-4 days, 3 nights
 **Compagni di viaggio:** with friends, independently, all on foot and by public transport
 **Categoria:** Europa · Ungheria · Budapest · terme · vita notturna · gastronomia

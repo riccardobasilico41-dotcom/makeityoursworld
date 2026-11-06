@@ -1383,7 +1383,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Chennai',
     tipologia: ['città', 'arrivo'],
     giorniConsigliati: 'a stopover',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       "The capital of Tamil Nadu, formerly Madras, the air gateway to southeastern India. A big, hot city, with the Marina Beach seafront and the Mylapore neighborhood around the Kapaleeshwarar temple.",
     percheAndarci: "Mostly as an arrival point: Mamallapuram is about 60 kilometres away by road. With half a day you can see Mylapore and the Government Museum with its South Indian bronzes.",
@@ -1502,7 +1502,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Mamallapuram',
     tipologia: ['patrimonio UNESCO', 'mare', 'templi'],
     giorniConsigliati: '1-2 days',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione: "The ancient port of the Pallava kings on the Coromandel Coast, where some of the first stone temples of the South were carved between the 7th and 8th centuries: rock-cut temples, reliefs and the temple by the sea.",
     percheAndarci:
       "To see, in a small and quiet town, the beginning of everything you'll see in Thanjavur and Madurai, and to recover from the flight before heading south.",
@@ -1630,7 +1630,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Madurai',
     tipologia: ['città', 'templi'],
     giorniConsigliati: '1-2 days',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       "One of the oldest inhabited cities of the South, grown in concentric circles around the Meenakshi Amman temple, with its fourteen towers covered in painted deities.",
     percheAndarci:
@@ -1756,7 +1756,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Munnar',
     tipologia: ['montagna', 'piantagioni di tè', 'natura'],
     giorniConsigliati: '2 days',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       "A hill station at about 1,600 meters in the Western Ghats of Kerala, surrounded by tea plantations covering the hills as far as the eye can see.",
     percheAndarci:
@@ -1883,7 +1883,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Alleppey Backwaters',
     tipologia: ['lagune', 'natura', 'houseboat'],
     giorniConsigliati: '1-2 days',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       "Kerala's network of canals, lagoons and lakes running parallel to the sea between Alappuzha (Alleppey), Kumarakom and Kollam, with rice paddies below water level and villages on strips of land.",
     percheAndarci:
@@ -2006,7 +2006,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Fort Kochi',
     tipologia: ['città coloniale', 'cultura', 'mare'],
     giorniConsigliati: '2 days',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       "The historic quarter of Kochi, a spice port for centuries, marked by the Portuguese, Dutch and British, with Chinese fishing nets on the waterfront and the Jewish quarter of Mattancherry.",
     percheAndarci:
@@ -2155,7 +2155,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Hampi',
     tipologia: ['patrimonio UNESCO', 'rovine', 'paesaggio'],
     giorniConsigliati: '2 days',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       "The ruins of Vijayanagara, capital of one of the greatest empires in India, destroyed in 1565, in a landscape of granite boulders, rice paddies and banana groves along the Tungabhadra river.",
     percheAndarci: "For more than 1,600 surviving monuments in a landscape like no other, with a quiet village and sunsets from the rocky hills.",

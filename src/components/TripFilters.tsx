@@ -10,10 +10,13 @@ import { useLingua } from '@/lib/i18n/LinguaProvider'
 import { etichetta } from '@/lib/i18n/etichette'
 import type { Lingua } from '@/lib/i18n/config'
 import {
+  CHIAVI_AVANZATE,
   FASCE_DURATA,
+  NESSUN_FILTRO,
   NOMI_MESI,
   STATO_VUOTO,
   STILI_NOTI,
+  etichettaPaese,
   leggiStato,
   ordina,
   passaFiltri,
@@ -33,8 +36,10 @@ const T = {
     paese: 'Paese',
     durata: 'Durata',
     stile: 'Tipologia',
-    mese: 'Mese del viaggio',
-    meseNota: 'Quando l’ho fatto io, non il periodo migliore',
+    quando: 'Quando andare',
+    mese: 'Quando ci sono andato',
+    meseNota: 'Il mese in cui l’ho fatto io, non il periodo migliore: c’è solo per alcuni viaggi.',
+    altri: 'Altri filtri',
     tutte: 'Tutte',
     tutti: 'Tutti',
     ricerca: 'Ricerca',
@@ -66,8 +71,10 @@ const T = {
     paese: 'Country',
     durata: 'Length',
     stile: 'Type',
-    mese: 'Month of the trip',
-    meseNota: 'When I went, not the best time to go',
+    quando: 'When to go',
+    mese: 'When I went',
+    meseNota: 'The month I actually went, not the best time to go: only some trips have it.',
+    altri: 'More filters',
     tutte: 'All',
     tutti: 'All',
     ricerca: 'Search',
@@ -98,8 +105,10 @@ const T = {
     paese: 'País',
     durata: 'Duración',
     stile: 'Tipo',
-    mese: 'Mes del viaje',
-    meseNota: 'Cuándo lo hice yo, no la mejor época',
+    quando: 'Cuándo ir',
+    mese: 'Cuándo fui yo',
+    meseNota: 'El mes en que lo hice yo, no la mejor época: solo lo tienen algunos viajes.',
+    altri: 'Más filtros',
     tutte: 'Todas',
     tutti: 'Todos',
     ricerca: 'Búsqueda',
@@ -126,7 +135,12 @@ const T = {
 } satisfies Record<Lingua, unknown>
 
 type Testi = (typeof T)[Lingua]
-type Aggiorna = (modifiche: Partial<Record<ChiaveFiltro | 'ordine', string>>) => void
+/**
+ * `modo`: 'push' (predefinito) crea una voce nella cronologia, così «Indietro» del browser
+ * toglie l'ultimo filtro; la ricerca mentre si scrive usa 'replace', per non riempirla di lettere.
+ */
+type Aggiorna = (modifiche: Partial<Record<ChiaveFiltro | 'ordine', string>>, modo?: 'push' | 'replace') => void
+type ChiavePannello = Exclude<ChiaveFiltro, 'q'>
 type Filtri = Record<ChiaveFiltro, string>
 
 const FOCUS = 'focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-rosso focus-visible:ring-offset-2'
@@ -139,11 +153,15 @@ const maiuscola = (s: string) => s.charAt(0).toUpperCase() + s.slice(1)
 const PASSO_GRUPPO = 12
 const PASSO_LISTA = 24
 const MESI = Array.from({ length: 12 }, (_, i) => String(i + 1))
+const PRINCIPALI = ['area', 'paese', 'durata', 'quando'] as const satisfies readonly ChiavePannello[]
+const PANNELLO_VUOTO: Record<ChiavePannello, ''> = { area: '', paese: '', durata: '', quando: '', stile: '', mese: '' }
 
 /**
- * Catalogo dell'archivio /viaggi: ricerca, area, Paese, durata e tipologia combinabili e
- * scritti nell'URL (vedi il contratto in src/lib/viaggi-filtri-stato.ts), conteggi
- * accanto a ogni opzione, filtri applicati rimovibili uno per uno, ordinamento per durata.
+ * Catalogo dell'archivio /viaggi (Travel Finder): ricerca, area, Paese, durata e «Quando
+ * andare» sempre in vista; tipologia e «Quando ci sono andato» in «Altri filtri» (sul telefono
+ * tutto nel pannello). Filtri combinabili e scritti nell'URL (contratto in
+ * src/lib/viaggi-filtri-stato.ts), conteggi accanto a ogni opzione, filtri applicati
+ * rimovibili uno per uno, ordinamento per durata, «Indietro» del browser che li ripercorre.
  * Finché l'URL non è leggibile (prerender) si vede la griglia completa senza filtri.
  */
 export function TripFilters({ viaggi, paesi }: { viaggi: ViaggioCatalogo[]; paesi: OpzionePaese[] }) {
@@ -161,11 +179,15 @@ function CatalogoConUrl({ viaggi, paesi }: { viaggi: ViaggioCatalogo[]; paesi: O
   const stato = useMemo(() => leggiStato(searchParams, paesiValidi), [searchParams, paesiValidi])
 
   const aggiorna = useCallback<Aggiorna>(
-    (modifiche) => {
+    (modifiche, modo = 'push') => {
       // percorso pubblico com'è nella barra degli indirizzi (/trips, /es/viajes…): il proxy lo
       // riscrive sulla rotta interna, la query resta com'è
-      const qs = scriviQuery(window.location.search, modifiche)
-      router.replace(`${window.location.pathname}${qs ? `?${qs}` : ''}`, { scroll: false })
+      const attuale = window.location.search.replace(/^\?/, '')
+      const qs = scriviQuery(attuale, modifiche)
+      if (qs === attuale) return
+      const url = `${window.location.pathname}${qs ? `?${qs}` : ''}`
+      if (modo === 'replace') router.replace(url, { scroll: false })
+      else router.push(url, { scroll: false })
     },
     [router]
   )
@@ -203,24 +225,44 @@ function Catalogo({
     if (valore === stato.q) return
     const timer = setTimeout(() => {
       setQInviato(valore)
-      aggiorna({ q: valore })
+      aggiorna({ q: valore }, 'replace')
     }, 350)
     return () => clearTimeout(timer)
   }, [qTesto, stato.q, aggiorna])
 
   const filtri: Filtri = useMemo(
-    () => ({ q: qTesto.trim(), area: stato.area, paese: stato.paese, durata: stato.durata, stile: stato.stile, mese: stato.mese }),
-    [qTesto, stato.area, stato.paese, stato.durata, stato.stile, stato.mese]
+    () => ({
+      q: qTesto.trim(),
+      area: stato.area,
+      paese: stato.paese,
+      durata: stato.durata,
+      quando: stato.quando,
+      stile: stato.stile,
+      mese: stato.mese,
+    }),
+    [qTesto, stato.area, stato.paese, stato.durata, stato.quando, stato.stile, stato.mese]
   )
 
-  const nomePaese = useMemo(() => new Map(paesi.map((p) => [p.slug, p.nome])), [paesi])
-  const nomeChiave: Record<ChiaveFiltro, string> = { q: t.ricerca, area: t.area, paese: t.paese, durata: t.durata, stile: t.stile, mese: t.mese }
+  // «Altri filtri» parte aperto se l'URL ne contiene già uno (link condiviso, «Indietro»)
+  const [altri, setAltri] = useState(() => CHIAVI_AVANZATE.some((k) => stato[k]))
+  const idAltri = useId()
+
+  const nomePaese = useMemo(() => new Map(paesi.map((p) => [p.slug, etichettaPaese(p)])), [paesi])
+  const nomeChiave: Record<ChiaveFiltro, string> = {
+    q: t.ricerca,
+    area: t.area,
+    paese: t.paese,
+    durata: t.durata,
+    quando: t.quando,
+    stile: t.stile,
+    mese: t.mese,
+  }
   const valoreLeggibile = (k: ChiaveFiltro, v: string): string => {
     if (k === 'area') return AREE.find((a) => a.slug === v)?.nome[lingua] ?? v
     if (k === 'paese') return nomePaese.get(v) ?? v
     if (k === 'durata') return t.fasce[v] ?? v
     if (k === 'stile') return maiuscola(etichetta(v, lingua))
-    if (k === 'mese') return maiuscola(NOMI_MESI[lingua][Number(v) - 1] ?? v)
+    if (k === 'mese' || k === 'quando') return maiuscola(NOMI_MESI[lingua][Number(v) - 1] ?? v)
     return `«${v}»`
   }
 
@@ -238,12 +280,13 @@ function Catalogo({
     if (filtri.q && !s.includes('q')) s.push('q')
     return s
   }, [stato.sequenza, filtri])
-  const nelPannello = (['area', 'paese', 'durata', 'stile', 'mese'] as const).filter((k) => filtri[k]).length
+  const nelPannello = (Object.keys(PANNELLO_VUOTO) as ChiavePannello[]).filter((k) => filtri[k]).length
+  const negliAltri = CHIAVI_AVANZATE.filter((k) => filtri[k]).length
 
   const azzera = () => {
     setQTesto('')
     setQInviato('')
-    aggiorna({ q: '', area: '', paese: '', durata: '', stile: '', mese: '' })
+    aggiorna(NESSUN_FILTRO)
   }
   const togli = (k: ChiaveFiltro) => {
     if (k === 'q') {
@@ -286,7 +329,7 @@ function Catalogo({
           <RevealGroup className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3" stagger={0.04}>
             {items.slice(0, quanti).map((viaggio, i) => (
               <RevealItem key={viaggio.slug}>
-                <TripCard viaggio={viaggio} subito={primo && i === 0} />
+                <TripCard viaggio={viaggio} subito={primo && i === 0} confronto />
               </RevealItem>
             ))}
           </RevealGroup>
@@ -311,21 +354,14 @@ function Catalogo({
     )
   }
 
-  const controlli = (
-    <Controlli
-      t={t}
-      lingua={lingua}
-      paesi={paesi}
-      filtri={filtri}
-      conta={conta}
-      aggiorna={aggiorna}
-    />
+  const controlli = (quali: readonly ChiavePannello[]) => (
+    <Controlli t={t} lingua={lingua} paesi={paesi} filtri={filtri} conta={conta} aggiorna={aggiorna} quali={quali} />
   )
 
   return (
     <div>
-      <div className="grid gap-4 md:grid-cols-5 lg:grid-cols-[minmax(0,1.5fr)_repeat(5,minmax(0,1fr))]">
-        <div className="md:col-span-5 lg:col-span-1">
+      <div className="grid gap-4 md:grid-cols-4 lg:grid-cols-[minmax(0,1.4fr)_repeat(4,minmax(0,1fr))_auto] lg:items-end">
+        <div className="md:col-span-4 lg:col-span-1">
           <label htmlFor={idCerca} className={ETICHETTA}>
             {t.cerca}
           </label>
@@ -343,8 +379,29 @@ function Catalogo({
             />
           </div>
         </div>
-        <div className="hidden md:contents">{controlli}</div>
+        <div className="hidden md:contents">{controlli(PRINCIPALI)}</div>
+        <div className="hidden md:col-span-4 md:block lg:col-span-1">
+          <button
+            type="button"
+            aria-expanded={altri}
+            aria-controls={idAltri}
+            onClick={() => setAltri((v) => !v)}
+            className={`inline-flex min-h-11 items-center gap-2 border-2 border-ink px-3 text-sm font-semibold transition-colors duration-150 ${
+              altri ? 'bg-ink text-cream' : 'bg-white text-ink hover:bg-ink hover:text-cream'
+            } ${FOCUS}`}
+          >
+            <SlidersHorizontal size={16} aria-hidden="true" />
+            {t.altri}
+            {negliAltri > 0 && <span className="inline-flex min-w-5 items-center justify-center bg-rosso px-1 text-xs text-cream">{negliAltri}</span>}
+          </button>
+        </div>
       </div>
+      {/* «Altri filtri» su tablet e desktop; sul telefono gli stessi campi stanno nel pannello */}
+      {altri && (
+        <div id={idAltri} className="mt-4 hidden gap-4 border-2 border-ink bg-white p-4 md:grid md:grid-cols-3">
+          {controlli(CHIAVI_AVANZATE)}
+        </div>
+      )}
 
       {sequenza.length > 0 && (
         <div className="mt-4 flex flex-wrap items-center gap-2">
@@ -431,12 +488,16 @@ function Catalogo({
               <X size={18} aria-hidden="true" />
             </button>
           </div>
-          <div className="grid gap-5 px-6 py-6">{controlli}</div>
+          <div className="grid gap-5 px-6 py-6">
+            {controlli(PRINCIPALI)}
+            <h3 className="border-t-2 border-ink pt-5 text-xs font-semibold uppercase tracking-[0.2em] text-rosso">{t.altri}</h3>
+            {controlli(CHIAVI_AVANZATE)}
+          </div>
           <div className="sticky bottom-0 mt-auto flex flex-wrap items-center gap-3 border-t-2 border-ink bg-cream px-6 py-4">
             {nelPannello > 0 && (
               <button
                 type="button"
-                onClick={() => aggiorna({ area: '', paese: '', durata: '', stile: '', mese: '' })}
+                onClick={() => aggiorna(PANNELLO_VUOTO)}
                 className={`inline-flex min-h-11 items-center px-2 text-sm font-semibold text-rosso underline-offset-4 hover:underline ${FOCUS}`}
               >
                 {t.azzera}
@@ -505,7 +566,10 @@ function Campo({ id, label, children }: { id: string; label: string; children: R
   )
 }
 
-/** Area, Paese, durata, tipologia e mese, con quanti viaggi resterebbero scegliendo ciascuna opzione. */
+/**
+ * I campi `quali` (area, Paese, durata, quando andare, tipologia, quando ci sono andato), con
+ * quanti viaggi resterebbero scegliendo ciascuna opzione.
+ */
 function Controlli({
   t,
   lingua,
@@ -513,6 +577,7 @@ function Controlli({
   filtri,
   conta,
   aggiorna,
+  quali,
 }: {
   t: Testi
   lingua: Lingua
@@ -520,8 +585,10 @@ function Controlli({
   filtri: Filtri
   conta: (f: Filtri) => number
   aggiorna: Aggiorna
+  quali: readonly ChiavePannello[]
 }) {
   const id = useId()
+  const nomeMese = (m: string) => maiuscola(NOMI_MESI[lingua][Number(m) - 1])
   const paesiArea = paesi.filter((p) => !filtri.area || p.area === filtri.area || p.slug === filtri.paese)
   const opzione = (valore: string, testo: string, n: number, selezionato: boolean) => (
     <option key={valore} value={valore} disabled={n === 0 && !selezionato}>
@@ -529,9 +596,9 @@ function Controlli({
     </option>
   )
 
-  return (
-    <>
-      <Campo id={`${id}-area`} label={t.area}>
+  const campi: Record<ChiavePannello, ReactNode> = {
+    area: (
+      <Campo key="area" id={`${id}-area`} label={t.area}>
         <select
           id={`${id}-area`}
           value={filtri.area}
@@ -552,25 +619,41 @@ function Controlli({
           })}
         </select>
       </Campo>
-      <Campo id={`${id}-paese`} label={t.paese}>
+    ),
+    paese: (
+      <Campo key="paese" id={`${id}-paese`} label={t.paese}>
         <select id={`${id}-paese`} value={filtri.paese} onChange={(e) => aggiorna({ paese: e.target.value })} className={SELECT}>
           <option value="">{t.tutti}</option>
-          {paesiArea.map((p) => opzione(p.slug, p.nome, conta({ ...filtri, paese: p.slug }), filtri.paese === p.slug))}
+          {paesiArea.map((p) => opzione(p.slug, etichettaPaese(p), conta({ ...filtri, paese: p.slug }), filtri.paese === p.slug))}
         </select>
       </Campo>
-      <Campo id={`${id}-durata`} label={t.durata}>
+    ),
+    durata: (
+      <Campo key="durata" id={`${id}-durata`} label={t.durata}>
         <select id={`${id}-durata`} value={filtri.durata} onChange={(e) => aggiorna({ durata: e.target.value })} className={SELECT}>
           <option value="">{t.tutte}</option>
           {FASCE_DURATA.map((f) => opzione(f.id, t.fasce[f.id], conta({ ...filtri, durata: f.id }), filtri.durata === f.id))}
         </select>
       </Campo>
-      <Campo id={`${id}-stile`} label={t.stile}>
+    ),
+    quando: (
+      <Campo key="quando" id={`${id}-quando`} label={t.quando}>
+        <select id={`${id}-quando`} value={filtri.quando} onChange={(e) => aggiorna({ quando: e.target.value })} className={SELECT}>
+          <option value="">{t.tutti}</option>
+          {MESI.map((m) => opzione(m, nomeMese(m), conta({ ...filtri, quando: m }), filtri.quando === m))}
+        </select>
+      </Campo>
+    ),
+    stile: (
+      <Campo key="stile" id={`${id}-stile`} label={t.stile}>
         <select id={`${id}-stile`} value={filtri.stile} onChange={(e) => aggiorna({ stile: e.target.value })} className={SELECT}>
           <option value="">{t.tutte}</option>
           {STILI_NOTI.map((s) => opzione(s, maiuscola(etichetta(s, lingua)), conta({ ...filtri, stile: s }), filtri.stile === s))}
         </select>
       </Campo>
-      <Campo id={`${id}-mese`} label={t.mese}>
+    ),
+    mese: (
+      <Campo key="mese" id={`${id}-mese`} label={t.mese}>
         <select
           id={`${id}-mese`}
           value={filtri.mese}
@@ -579,14 +662,16 @@ function Controlli({
           className={SELECT}
         >
           <option value="">{t.tutti}</option>
-          {MESI.map((m) => opzione(m, maiuscola(NOMI_MESI[lingua][Number(m) - 1]), conta({ ...filtri, mese: m }), filtri.mese === m))}
+          {MESI.map((m) => opzione(m, nomeMese(m), conta({ ...filtri, mese: m }), filtri.mese === m))}
         </select>
         <p id={`${id}-mese-nota`} className="mt-1 text-xs leading-snug text-stone">
           {t.meseNota}
         </p>
       </Campo>
-    </>
-  )
+    ),
+  }
+
+  return <>{quali.map((k) => campi[k])}</>
 }
 
 function OrdinaSelect({ t, valore, aggiorna }: { t: Testi; valore: Ordine; aggiorna: Aggiorna }) {

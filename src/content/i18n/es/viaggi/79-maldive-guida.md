@@ -1,7 +1,7 @@
 # Maldivas: guía completa entre islas locales, resorts, mantas y tiburones ballena
 
 **Stato bozza:** 🟡 en elaboración (estaciones, reglas, transportes y sitios marinos verificados en octubre de 2026)
-**Periodo del viaggio:** todo el año, con diciembre-abril como estación seca y agosto-octubre como temporada de las mantas en Hanifaru
+**Periodo del viaggio:**
 **Durata:** modular, de una semana a dos; ejemplo listo de 10 días entre isla local y resort
 **Compagni di viaggio:** con amigos, por libre, con speedboats, ferris públicos, hidroaviones o vuelos internos y centros de buceo locales
 **Categoria:** Asia · Maldive · Oceano Indiano · mare · snorkeling · immersioni · isole locali · resort · liveaboard
@@ -11,7 +11,7 @@
 ## Apertura personale
 Las Maldivas no son solo los bungalós sobre el agua de las fotos. Desde 2009 los maldivos pueden abrir guesthouses en las islas habitadas, y hoy se puede dormir en un pueblo de pescadores, comer curry de atún con las familias y salir en barca con los pescadores por una fracción del precio de un resort, para luego cerrar el viaje con unas noches en un resort. Es la forma en que están construidos este viaje y esta guía.
 
-El motivo para venir sigue siendo el mar: 26 atolones, unas 1.200 islas, arrecifes de coral que caen hacia el azul y canales donde el océano entra y sale con la marea llevando plancton y grandes animales. Mantas, tiburones ballena, tiburones martillo, tiburones tigre, tortugas en casi cada inmersión. La guía explica cuándo ir mes a mes, qué atolón elegir y por qué, cómo comportarse en las islas locales, cómo organizar excursiones y desplazamientos, dónde ver los peces más grandes y en qué período, cómo estar seguro en el agua y cómo funciona un crucero de buceo, el liveaboard. Al final, un itinerario de ejemplo de diez días, para adaptar.
+El motivo para venir sigue siendo el mar: 26 atolones, unas 1.200 islas, arrecifes de coral que caen hacia el azul y canales donde el océano entra y sale con la marea llevando plancton y grandes animales. Mantas, tiburones ballena, tiburones martillo, tiburones tigre, tortugas en casi cada inmersión. La guía explica cuándo ir mes a mes, qué atolón elegir y por qué, cómo comportarse en las islas locales, cómo organizar excursiones y desplazamientos, dónde ver los peces más grandes y en qué período, cómo estar seguro en el agua y cómo funciona un crucero de buceo, el liveaboard. Al final, un itinerario de diez días, para adaptar.
 
 Es una guía para quien ama el mar más que el lujo, para quien hace snorkeling o buceo y para quien quiere ver cómo es la vida en las islas más allá del resort.
 
@@ -69,7 +69,7 @@ Cuenta más el atolón que la isla concreta: de un atolón a otro cambian mucho 
 - **Comida:** nada de cerdo; cocina basada en atún, arroz, coco y curry, con los «short eats» (aperitivos salados y dulces) de la tarde y el mas huni (atún, coco, cebolla y guindilla) en el desayuno.
 - **Silencio durante la oración** cerca de las mezquitas, fotos solo con permiso, zapatos fuera al entrar en las casas.
 
-**La mejor solución para un primer viaje** suele ser mixta: unas noches en una isla local para las excursiones y la vida del pueblo, luego dos o tres noches en un resort para la house reef y el descanso. Es el esquema del itinerario de ejemplo.
+**La mejor solución para un primer viaje** suele ser mixta: unas noches en una isla local para las excursiones y la vida del pueblo, luego dos o tres noches en un resort para la house reef y el descanso. Es el esquema del itinerario.
 
 ## Cómo moverse y organizarse
 - **Llegada:** el aeropuerto internacional de Velana está en una isla frente a Malé. De aquí salen speedboats, hidroaviones y vuelos internos; a Malé se llega en ferri (unos 10 minutos, 1-2 $) o en autobús por el puente; a Hulhumalé, la isla artificial contigua, en autobús o taxi.
@@ -124,7 +124,7 @@ Un liveaboard, o «safari boat», es un crucero de buceo normalmente de una sema
 
 **Para quién es:** para buceadores certificados que quieren sumergirse mucho. Para los canales y las rutas del Sur hacen falta una titulación avanzada y un buen número de inmersiones (a menudo al menos 50). Existen también cruceros de snorkeling para quien no bucea, una buena solución para ver muchos atolones cuando se viaja con un buceador. No es adecuado para quien se marea: los traslados entre atolones pueden ser agitados, sobre todo de mayo a noviembre. A comprobar en la elección: edad y mantenimiento del barco, dhoni de apoyo separado, oxígeno y equipo de emergencia a bordo, número máximo de buceadores por guía.
 
-## El itinerario de ejemplo en breve
+## El itinerario en breve
 Un ejemplo de diez días pensado para una primera vez: cuatro noches en una isla local de Ari Sur para los tiburones ballena, las mantas y la vida del pueblo, tres noches en un resort para la house reef, una noche de margen cerca del aeropuerto. Las islas y el resort se eligen según presupuesto y temporada: el esquema funciona también con Malé Sur o Vaavu en lugar de Ari, o con Baa en agosto-octubre.
 
 ## Itinerario giorno per giorno

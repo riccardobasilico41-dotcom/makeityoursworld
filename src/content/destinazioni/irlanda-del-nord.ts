@@ -14,7 +14,7 @@ export const destinazioniIrlandaDelNord: Destinazione[] = [
     nome: 'Belfast',
     tipologia: ['città', 'storia'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La capitale dell\'Irlanda del Nord. È la città dove il Titanic fu progettato e varato, e quella dove i Troubles hanno lasciato i segni più visibili: i murales di Falls Road e Shankill Road e i peace walls che ancora separano alcuni quartieri.',
     percheAndarci:
@@ -88,7 +88,7 @@ export const destinazioniIrlandaDelNord: Destinazione[] = [
     nome: 'Causeway Coastal Route',
     tipologia: ['costa', 'natura', 'on the road'],
     giorniConsigliati: '1-2 giorni',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La strada costiera della contea di Antrim. Le tappe più note sono il Giant\'s Causeway, con più di 40.000 colonne di basalto, il Dunluce Castle sulla scogliera, il ponte di corda di Carrick-a-Rede e, nell\'interno, il viale di faggi delle Dark Hedges.',
     percheAndarci: 'Per il tratto di costa più spettacolare dell\'Irlanda del Nord, tra Derry e Belfast.',
@@ -150,7 +150,7 @@ export const destinazioniIrlandaDelNord: Destinazione[] = [
     nome: 'Derry/Londonderry',
     tipologia: ['città', 'storia'],
     giorniConsigliati: '1 giorno',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La seconda città dell\'Irlanda del Nord, sul fiume Foyle, con le mura del Seicento ancora intere. Ha due nomi, e già il nome racconta la sua storia. Qui, nel quartiere del Bogside, il 30 gennaio 1972 ci fu il Bloody Sunday.',
     percheAndarci: 'Per camminare sulle mura e per i musei che raccontano i Troubles da vicino, nella città dove sono cominciati e dove la pace si vede, a partire da un ponte.',

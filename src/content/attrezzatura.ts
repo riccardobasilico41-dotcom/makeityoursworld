@@ -9,7 +9,13 @@
  * viaggio compare al massimo in una lista.
  */
 
-export type VoceAttrezzatura = { nome: string; perche: string; ricerca: string }
+/**
+ * Quanto serve una voce. Si indica solo quando lo dice il testo dell'articolo
+ * («è obbligatorio», «si può noleggiare», «a chi non è un nuotatore forte»);
+ * senza indicazione la voce è «consigliato».
+ */
+export type LivelloVoce = 'essenziale' | 'consigliato' | 'opzionale' | 'noleggiabile'
+export type VoceAttrezzatura = { nome: string; perche: string; ricerca: string; livello?: LivelloVoce }
 export type SezioneAttrezzatura = { titolo: string; voci: VoceAttrezzatura[] }
 export type ListaAttrezzatura = {
   slug: string
@@ -260,6 +266,7 @@ export const listeAttrezzatura: ListaAttrezzatura[] = [
             nome: "Maschera e boccaglio",
             perche: "Alle Filippine si usano ogni giorno, e una maschera propria calza meglio di quelle a noleggio.",
             ricerca: "set maschera boccaglio snorkeling adulto",
+            livello: "noleggiabile",
           },
           {
             nome: "Pinne corte da snorkeling",
@@ -275,6 +282,7 @@ export const listeAttrezzatura: ListaAttrezzatura[] = [
             nome: "Boa da snorkeling",
             perche: "Alle Maldive si consiglia una boa o un giubbotto sulla house reef a chi non è un nuotatore forte.",
             ricerca: "boa segnalazione snorkeling",
+            livello: "opzionale",
           },
           {
             nome: "Antiappannante per maschera",
@@ -515,6 +523,7 @@ export const listeAttrezzatura: ListaAttrezzatura[] = [
             nome: "Sacco lenzuolo",
             perche: "È obbligatorio in tutti i rifugi del Tour du Mont Blanc.",
             ricerca: "sacco lenzuolo rifugio",
+            livello: "essenziale",
           },
           {
             nome: "Torcia frontale",
@@ -545,6 +554,7 @@ export const listeAttrezzatura: ListaAttrezzatura[] = [
             nome: "Kit da ferrata omologato con dissipatore",
             perche: "Nelle Dolomiti è la condizione minima per salire su una ferrata, con una guida alpina la prima volta.",
             ricerca: "set da ferrata omologato dissipatore",
+            livello: "essenziale",
           },
           {
             nome: "Casco da arrampicata",
@@ -555,6 +565,7 @@ export const listeAttrezzatura: ListaAttrezzatura[] = [
             nome: "Imbrago",
             perche: "Va con il kit da ferrata: senza imbrago il dissipatore non serve.",
             ricerca: "imbrago arrampicata ferrata",
+            livello: "essenziale",
           },
           {
             nome: "Guanti da ferrata",
@@ -580,6 +591,7 @@ export const listeAttrezzatura: ListaAttrezzatura[] = [
             nome: "Catene da neve",
             perche: "Sono obbligatorie per legge su gran parte della rete montana, se non si hanno le gomme invernali.",
             ricerca: "catene da neve auto",
+            livello: "essenziale",
           },
           {
             nome: "Raschietto per il ghiaccio",
@@ -600,6 +612,7 @@ export const listeAttrezzatura: ListaAttrezzatura[] = [
             nome: "Casco da sci",
             perche: "Si può noleggiare, ma un casco proprio calza meglio e non va restituito a fine giornata.",
             ricerca: "casco da sci adulto",
+            livello: "noleggiabile",
           },
           {
             nome: "Maschera da sci",
@@ -660,6 +673,7 @@ export const listeAttrezzatura: ListaAttrezzatura[] = [
             nome: "Kit ARTVA, pala e sonda",
             perche: "Fuori dal battuto non si va senza, e senza aver letto il bollettino valanghe.",
             ricerca: "kit artva pala sonda",
+            livello: "essenziale",
           },
           {
             nome: "Zaino da scialpinismo",
@@ -865,6 +879,7 @@ export const listeAttrezzatura: ListaAttrezzatura[] = [
             nome: "Maschera con filtri per gas",
             perche: "Al Kawah Ijen è obbligatoria: i fumi di zolfo sono pericolosi sul serio.",
             ricerca: "maschera antigas con filtri",
+            livello: "essenziale",
           },
         ],
       },

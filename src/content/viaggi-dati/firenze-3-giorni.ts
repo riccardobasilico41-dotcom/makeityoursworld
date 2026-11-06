@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const firenze3GiorniMeta: TripMeta = {
   tripSlug: 'firenze-3-giorni',
   paeseSlug: 'italia',
+  provenienza: 'journey',
+  mesiConsigliati: [4, 5, 10, 11],
   ritmo: 'Un grande museo al giorno e non due, con dei buchi lasciati apposta nel programma: è la concentrazione a essere il problema',
   trasporti: 'Tutto a piedi; l\'auto è inutile e la ZTL ha varchi elettronici attivi',
   stile: [

@@ -1,7 +1,7 @@
 # Svizzera in van: le Alpi Bernesi da Interlaken al Cervino
 
 **Stato bozza:** 🟡 in lavorazione (viaggio fatto da Rick; itinerario e informazioni pratiche verificati, mancano aneddoti e ricordi personali da aggiungere dal diario)
-**Periodo del viaggio:** da giugno a settembre, con luglio-agosto come finestra più affidabile per i passi alpini
+**Periodo del viaggio:**
 **Durata:** modulare — da un weekend lungo di 3-4 giorni su Interlaken e la Jungfrau Region a una settimana che arriva fino a Zermatt. Due proposte pronte più sotto.
 **Compagni di viaggio:** con amici, in autonomia, in camper o furgone attrezzato
 **Categoria:** Europa · Svizzera · Alpi Bernesi · van life · roadtrip · montagna
@@ -14,6 +14,7 @@ La Svizzera non è un paese che si visita per risparmiare, ed è meglio dirlo pr
 Detto questo, la regione dell'Interlaken-Jungfrau, nelle Alpi Bernesi, resta uno dei tratti di montagna più densi d'Europa: due laghi color turchese, una valle di settantadue cascate chiusa da pareti verticali, un treno che sale a 3.454 metri dentro la montagna, e, per chi ha una settimana, una strada di passi alpini che porta fino ai piedi del Cervino. È anche un paese fatto apposta per il van: rete stradale impeccabile, distanze brevi, paesaggio che cambia ogni ora di guida. Il van, però, in Svizzera ha regole più severe che nei paesi alpini vicini, ed è il secondo tema che questa guida tratta per esteso, perché è la fonte più comune di multe e di malintesi per chi arriva dall'Italia o dalla Francia abituato a un margine di tolleranza che qui non esiste.
 
 ## Scheda pratica
+- **Quando andare:** Da giugno a settembre, con luglio-agosto come finestra più affidabile per i passi alpini
 
 ### Quanto costa davvero — la parte che va letta per prima
 La Svizzera non è nell'Unione Europea e non ha adottato l'euro: si paga in franchi svizzeri, e il cambio con l'euro è storicamente sfavorevole, il che gonfia ogni prezzo espresso in euro. Le voci che pesano di più su un viaggio in van:

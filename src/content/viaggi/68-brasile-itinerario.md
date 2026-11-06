@@ -1,7 +1,7 @@
 # Brasile in 22 giorni: Rio, Ilha Grande, Iguazú, Salvador, Chapada Diamantina e Lençóis Maranhenses
 
 **Stato bozza:** 🟡 in lavorazione (itinerario, estensioni e informazioni pratiche verificati con ricerca a ottobre 2026; nessun ricordo personale ancora inserito, vedi le note in fondo)
-**Periodo del viaggio:** luglio e agosto, quando le lagune dei Lençóis Maranhenses sono piene, la Chapada è asciutta, a Rio è inverno mite e nel Pantanal comincia la stagione dei giaguari
+**Periodo del viaggio:**
 **Durata:** 22 giorni, 21 notti, più due estensioni alternative di 4-6 giorni (Pantanal o Amazzonia)
 **Compagni di viaggio:** con amici, in autonomia, con voli interni tra le regioni, bus sulla Costa Verde e verso la Chapada, transfer 4x4 nei Lençóis, tour con guida dove servono
 **Categoria:** Sud America · Brasile · Rio de Janeiro · Iguazú · Bahia · natura · mare · cascate

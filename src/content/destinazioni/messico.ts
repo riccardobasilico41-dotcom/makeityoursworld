@@ -1257,7 +1257,7 @@ export const destinazioniMessico: Destinazione[] = [
     nome: 'Palenque',
     tipologia: ['archeologia', 'natura', 'cultura'],
     giorniConsigliati: '2 notti, con un giorno pieno per il sito',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Una città maya classica sulle prime colline del Chiapas, dentro un parco nazionale coperto di foresta, con il Tempio delle Iscrizioni e la tomba del re Pakal.',
     percheAndarci:
@@ -1366,7 +1366,7 @@ export const destinazioniMessico: Destinazione[] = [
     nome: 'Calakmul',
     tipologia: ['archeologia', 'natura'],
     giorniConsigliati: '2 notti a Xpujil o lungo la strada della riserva, con un giorno pieno per il sito',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Una delle grandi capitali del mondo maya classico, rivale di Tikal, sepolta nella foresta della Riserva della Biosfera di Calakmul, nel sud del Campeche. È patrimonio UNESCO sia per la cultura sia per la natura.',
     percheAndarci:

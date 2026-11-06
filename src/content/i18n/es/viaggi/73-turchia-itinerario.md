@@ -1,7 +1,7 @@
 # Turquía en 16 días: Estambul, Capadocia, Pamukkale, Éfeso y la costa licia
 
 **Stato bozza:** 🟡 en elaboración
-**Periodo del viaggio:** pensado para mayo-junio o septiembre-octubre, cuando Estambul y Capadocia tienen un clima agradable y el mar de la costa licia ya o todavía está cálido
+**Periodo del viaggio:**
 **Durata:** 16 días, 15 noches
 **Compagni di viaggio:** con amigos, por libre, con un vuelo interno Estambul-Capadocia, un autobús nocturno a Pamukkale y un coche de alquiler de Denizli a Antalya
 **Categoria:** Medio Oriente · Turchia · Istanbul · Cappadocia · archeologia · road trip · mare

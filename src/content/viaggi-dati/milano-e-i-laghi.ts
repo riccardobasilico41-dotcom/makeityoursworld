@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const milanoEILaghiMeta: TripMeta = {
   tripSlug: 'milano-e-i-laghi',
   paeseSlug: 'italia',
+  provenienza: 'journey',
+  mesiConsigliati: [4, 5, 6, 9, 10],
   ritmo: 'Due giornate compatte in città, con le gite sui laghi come vero motivo per fermarsi qui',
   trasporti: 'Metropolitana più piedi in città; treni regionali per Como, Bergamo e il Lago Maggiore',
   stile: [

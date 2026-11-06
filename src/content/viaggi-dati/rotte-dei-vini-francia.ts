@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const rotteDeiViniFranciaMeta: TripMeta = {
   tripSlug: 'rotte-dei-vini-francia',
   paeseSlug: 'francia',
+  provenienza: 'journey',
+  mesiConsigliati: [5, 6, 9, 10],
   ritmo: 'Quattro giorni in Alsazia in bicicletta tra i villaggi, quattro in Champagne tra Reims ed Épernay',
   trasporti: 'Auto più bicicletta in Alsazia; treno tra Alsazia e Champagne',
   stile: [

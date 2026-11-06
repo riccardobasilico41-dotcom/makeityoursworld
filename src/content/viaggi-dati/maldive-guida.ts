@@ -7,12 +7,13 @@ import type { TripMeta } from '@/lib/types'
 // contiene un itinerario d'esempio di 10 giorni: `giorni[]` segue quelle
 // intestazioni "### Giorno N — ...", che devono combaciare esattamente.
 //
-// Guida non vissuta in prima persona: pernottamenti 'consigliato', nessuna
+// Viaggio di Rick (conferma 6/11/2026) scritto in forma di guida: pernottamenti 'consigliato', nessuna
 // esperienza personale. `immagine` omesso: le foto si recuperano dopo.
 
 export const maldiveGuidaMeta: TripMeta = {
   tripSlug: 'maldive-guida',
   paeseSlug: 'maldive',
+  mesiConsigliati: [12, 1, 2, 3, 4],
   ritmo:
     'Lento e costruito sul mare: un\'escursione al giorno nei primi giorni su un\'isola locale, poi giornate libere in resort. Gli unici vincoli sono gli orari fissi di speedboat e idrovolanti e le condizioni del mare.',
   trasporti:

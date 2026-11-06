@@ -40,7 +40,7 @@ export const destinazioniPeru: Destinazione[] = [
       "Going up to Rainbow Mountain in the first few days, when your body hasn't yet reacted to the altitude",
     ],
     miaEsperienza:
-      "The first day here is a lost day, and you have to factor it in: we landed at 11,200 feet (3,400 meters) and only walked slowly between Plaza de Armas and San Blas, coca tea in hand like everyone else. It's what you need, and the rest of the trip benefits. On the second day, Qorikancha and Sacsayhuamán, the best way to understand beforehand what you'll see at Machu Picchu, and lunch at San Pedro Market among juices at the counter and soups for a few soles. For souvenirs in Cusco, I go to Assunta. From here I did both Rainbow Mountain and Humantay Lake, plus another colorful mountain and a couple of lakes whose names I don't remember.",
+      "The first day here is a lost day, and you have to factor it in: we landed at 11,200 feet (3,400 meters) and only walked slowly between Plaza de Armas and San Blas, coca tea in hand like everyone else. It's what you need, and the rest of the trip benefits. On the second day, Qorikancha and Sacsayhuamán, the best way to understand beforehand what you'll see at Machu Picchu, and lunch at San Pedro Market among juices at the counter and soups for a few soles. For souvenirs in Cusco, I go to Assunta. From here I did both Rainbow Mountain and Humantay Lake, plus another colorful mountain and a couple of lakes whose names I don't remember. I've also been to Peru twice as a volunteer, and one of those times was right here in Cusco, with Proyecto Cusimaki: it's a project I support, and I invite anyone passing through Cusco to visit it.",
     luoghi: [
       {
         "nome": "Plaza de Armas and Cathedral",
@@ -1339,7 +1339,7 @@ export const destinazioniPeru: Destinazione[] = [
       'Underestimating the climb out of the Sangalle oasis: about 3,600 feet (1,100 meters) of elevation gain, to be done before the sun gets strong',
     ],
     miaEsperienza:
-      "It's the city where I finally slept well: at 7,500 feet (2,300 meters) the body recovers, and after days spent at altitude you feel it. The Santa Catalina Monastery is the place that stayed with me most. I didn't expect it to be so big: it's a small walled city with alleys painted blue and orange. At the Cruz del Cóndor, on the other hand, you have to arrive with the right expectations: the condors rise on the morning currents and when it happens it's impressive, but it's not guaranteed and the viewpoint is packed with people. It's still worth the dawn wake-up.",
+      "It's the city where I finally slept well: at 7,500 feet (2,300 meters) the body recovers, and after days spent at altitude you feel it. The Santa Catalina Monastery is the place that stayed with me most. I didn't expect it to be so big: it's a small walled city with alleys painted blue and orange. At the Cruz del Cóndor, on the other hand, you have to arrive with the right expectations: the condors rise on the morning currents and when it happens it's impressive, but it's not guaranteed and the viewpoint is packed with people. It's still worth the dawn wake-up. I've also been to Arequipa as a volunteer osteopath, on one of the two times I came to Peru to volunteer.",
     luoghi: [
       {
         "nome": "Plaza de Armas and Arequipa cathedral",

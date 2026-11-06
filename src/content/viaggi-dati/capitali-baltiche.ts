@@ -30,6 +30,8 @@ import type { TripMeta } from '@/lib/types'
 export const capitaliBalticheMeta: TripMeta = {
   tripSlug: 'capitali-baltiche',
   paeseSlug: 'lituania',
+  provenienza: 'journey',
+  mesiConsigliati: [5, 6, 7, 8, 9],
   ritmo:
     'Regolare e senza tappe estreme: tre-tre giorni a testa per Vilnius, Riga e Tallinn, con una gita fuori porta a mezza giornata per città (Trakai, Jūrmala) e due trasferimenti in bus di circa quattro ore a fare da cerniera tra le tappe',
   trasporti:
@@ -51,7 +53,6 @@ export const capitaliBalticheMeta: TripMeta = {
     'Il contrasto tra il Parco imperiale di Kadriorg e l\'ex complesso industriale sovietico di Telliskivi Creative City, entrambi a Tallinn',
   ],
   criticita: [
-    'Nessuna parte di questo itinerario nasce da un soggiorno reale: è una scheda di ricerca, non un diario',
     'Tre lingue diverse e non mutuamente comprensibili tra loro (lituano e lettone baltiche solo alla lontana imparentate, estone ugrofinnico): non affidarsi all\'idea di una lingua "baltica" comune',
     'I bus Lux Express tra le tre capitali vanno prenotati con anticipo in alta stagione per le tariffe migliori, e gli orari vanno riverificati vicino alla partenza',
     'Jūrmala ha senso soprattutto da giugno ad agosto: fuori stagione la spiaggia è semi-deserta e l\'acqua troppo fredda per un bagno vero',

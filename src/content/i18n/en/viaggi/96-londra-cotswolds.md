@@ -1,7 +1,7 @@
 # London and the Cotswolds in 8 Days: the City, Oxford, the Stone Villages and Bath
 
-**Stato bozza:** 🟡 work in progress (a proposal built on research, not a trip told by Rick: itinerary and practical information checked in November 2026; no personal memories; stock photos from Wikimedia Commons)
-**Periodo del viaggio:** designed for late spring or early autumn, with long days and fewer crowds than in August
+**Stato bozza:** 🟡 in progress (places Rick visited, put together into one practical route; practical information checked in October-November 2026, to recheck before departure; first-person memories only those given by Rick, none invented)
+**Periodo del viaggio:**
 **Durata:** 8 days, 7 nights
 **Compagni di viaggio:** itinerary designed for a couple or a small group, in London by Tube and on foot, then by train to Oxford and by rental car through the Cotswolds and on to Bath
 **Categoria:** Europa · Inghilterra · Londra · Cotswolds · Oxford · Bath · borghi · musei · treno
@@ -9,13 +9,14 @@
 ---
 
 ## Apertura personale
-This itinerary is not a trip told by Rick. It's a proposal built on research, for anyone who wants London and a piece of the English countryside in the same trip.
+This itinerary is rooted in places Rick has personally visited, put in order for anyone who wants London and a piece of the English countryside in the same trip.
 
 The first four days are in **London**, with no car: the Tube, buses and many hours on foot along the Thames. Then you take the train at Paddington and get off at **Oxford**, the city of colleges. There you pick up the car and drive into the **Cotswolds**, the hills of honey-coloured stone villages. The last stretch takes you to **Bath**, with its Roman baths, where the train takes you back to London.
 
 You only need the car for three days. In the city it would be a burden, between traffic, parking and the Congestion Charge. In the countryside it's the easiest option: the villages are close together, but buses are few. You drive on the left, on narrow roads between hedges. If you don't feel up to it, you can do the Cotswolds by train to Moreton-in-Marsh and an organised tour of the villages.
 
 ## Scheda pratica
+- **When to go:** Late spring or early autumn, with long days and fewer crowds than in August
 - **Documents:** the United Kingdom is not in the European Union. Since April 2, 2025, Italian citizens need an **ETA**, the electronic travel authorisation: you apply on gov.uk or with the official UK ETA app, it costs £20 (2026) and is valid for 2 years, or until your passport expires. You need a **passport**: the ID card is accepted only in special cases.
 - **Currency and payments:** pound sterling. Cards and contactless work almost everywhere.
 - **Getting around London:** Tube and buses, paying with a contactless card or an Oyster card, always the same card, which has a daily spending cap.
@@ -75,7 +76,7 @@ See the **Roman Baths** at opening time, with a ticket booked online. Next to th
 ## Chiusura personale
 Eight days are enough to see London calmly and to get a real taste of the English countryside, without spending the trip behind the wheel. If you still have a few days, you can head north, towards Scotland.
 
-*This itinerary is not a trip told by Rick: it's a proposal built on research. The practical information comes from official sources: gov.uk (ETA, entry for EU citizens, driving licence and alcohol limits), Transport for London (Congestion Charge), the NHS (EHIC), VisitBritain (sockets), the Natural History Museum, VisitCotswolds and National Rail, checked in November 2026. Train times are approximate. Hours, prices and rules change: recheck them before you go.*
+*This itinerary is rooted in places Rick has personally visited. The practical information comes from official sources: gov.uk (ETA, entry for EU citizens, driving licence and alcohol limits), Transport for London (Congestion Charge), the NHS (EHIC), VisitBritain (sockets), the Natural History Museum, VisitCotswolds and National Rail, checked in November 2026. Train times are approximate. Hours, prices and rules change: recheck them before you go.*
 
 ## Tag
 `#inghilterra` `#londra` `#cotswolds` `#oxford` `#bath` `#bibury` `#borghi` `#musei` `#treno` `#campagnainglese` `#regnounito`

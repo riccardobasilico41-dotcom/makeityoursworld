@@ -1,7 +1,7 @@
 # Andalusia in 9 giorni: Siviglia, Córdoba, Granada e Ronda
 
 **Stato bozza:** 🟡 in lavorazione (viaggio fatto da Rick; itinerario e informazioni pratiche verificati, mancano aneddoti e ricordi personali da aggiungere dal diario)
-**Periodo del viaggio:** **marzo-maggio oppure settembre-inizio novembre**
+**Periodo del viaggio:**
 **Durata:** 9 giorni, 8 notti
 **Compagni di viaggio:** con amici, in autonomia, treno AVE tra le città grandi, auto a noleggio da Granada in poi
 **Categoria:** Europa · Spagna · Andalusia · cultura moresca · flamenco · città

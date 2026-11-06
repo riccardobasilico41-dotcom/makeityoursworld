@@ -1,7 +1,7 @@
 # Mexico, Día de los Muertos: From Mexico City to Puerto Escondido in 16 Days
 
 **Stato bozza:** 🟡 in progress (trip done by Rick; itinerary and practical information verified)
-**Periodo del viaggio:** October 24 to November 8, with the three nights of the dead (October 31, November 1 and 2) all in Oaxaca
+**Periodo del viaggio:**
 **Durata:** 16 days, 15 nights
 **Compagni di viaggio:** with friends, independent, using ADO buses between cities, colectivos and evening tours to the cemeteries, and a domestic flight back from Puerto Escondido
 **Categoria:** Nord America · Messico · Città del Messico · Puebla · Oaxaca · Día de los Muertos · festival · cultura · mare
@@ -14,6 +14,7 @@ Día de los Muertos is Mexico's most photographed festival, and also the one tha
 This itinerary follows the festival from north to south. It starts in Mexico City, with the Catrinas procession and the big public ofrendas; goes through Puebla and Cholula, where a colonial church sits on top of a pyramid with the Popocatépetl volcano behind it; reaches Oaxaca for the three nights that matter, in the cemeteries of Xoxocotlán, at the muerteada of San Agustín Etla and in the markets full of flowers; and ends on the Pacific Ocean, at Puerto Escondido, to work off the festival by the sea. It's meant for people who want to experience the occasion where it's most deeply felt, accepting that for those three nights you sleep little, pay more and book months ahead.
 
 ## Scheda pratica
+- **When to go:** October 24 to November 8, with the three nights of the dead (October 31, November 1 and 2) all in Oaxaca
 - **The festival calendar:** the dates are fixed. On **October 28** many places remember those who died in accidents, **October 31** and **November 1** are dedicated to children (angelitos) and **November 2** to adults. In practice the cemetery vigils are concentrated in the nights between October 31 and November 2, and every town has its own "main" night. In 2026 October 31 falls on a Saturday; in **2027** it will fall on a Sunday, with November 1 on a Monday and November 2 on a Tuesday.
 - **Where to be, night by night (this itinerary's version):** **October 31**, the cemetery of **Santa Cruz Xoxocotlán**, south of Oaxaca; **November 1**, the **muerteada of San Agustín Etla**, the biggest comparsa in the Central Valleys, which starts in the evening and goes on until morning; **November 2**, the **Panteón General of Oaxaca** and the last comparsas in the city. The alternatives (Janitzio in Michoacán, Mixquic in Mexico City, the capital's parade) are explained further down under **Variations**.
 - **When to book:** lodging in Oaxaca **4-6 months ahead**; in the nights between October 30 and November 2, prices in the city go up two or three times and central places sell out. Evening tours to the cemeteries and the muerteada should be booked at least a few weeks ahead, ADO buses to Oaxaca a few days ahead.

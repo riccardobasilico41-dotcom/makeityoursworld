@@ -17,6 +17,20 @@ export type Consigliato = {
 }
 
 export const CONSIGLIATI: Record<string, Consigliato[]> = {
+  'peru/cusco': [
+    {
+      // Nome scritto come lo dice Rick; online compare anche come «Cusimaky» (annunci di volontariato).
+      // Nessun sito ufficiale trovato con certezza il 6/11/2026: niente url finché Rick non lo conferma.
+      nome: 'Proyecto Cusimaki',
+      cosa: { it: 'Progetto sociale a Cusco', en: 'Social project in Cusco', es: 'Proyecto social en Cusco' },
+      fatto: true,
+      testo: {
+        it: "A Cusco ho fatto volontariato con il Proyecto Cusimaki. È un progetto che sostengo, e invito chi passa da Cusco ad andarlo a trovare.",
+        en: "In Cusco I volunteered with Proyecto Cusimaki. It's a project I support, and I invite anyone passing through Cusco to go and visit it.",
+        es: "En Cusco hice voluntariado con el Proyecto Cusimaki. Es un proyecto que apoyo, e invito a quien pase por Cusco a ir a conocerlo.",
+      },
+    },
+  ],
   'india/varanasi': [
     {
       nome: 'Shiva',

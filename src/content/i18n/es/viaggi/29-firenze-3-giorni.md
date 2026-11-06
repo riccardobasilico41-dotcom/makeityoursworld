@@ -1,7 +1,7 @@
 # Florencia en 3 días (y la versión de 2 que funciona)
 
 **Stato bozza:** 🟡 en elaboración
-**Periodo del viaggio:** **abril-mayo u octubre-noviembre**
+**Periodo del viaggio:**
 **Durata:** 3 días, 2 noches, con una versión comprimida de 2 días
 **Compagni di viaggio:** con amigos, por libre, todo a pie
 **Categoria:** Europa · Italia · Firenze · arte · Rinascimento · gastronomia

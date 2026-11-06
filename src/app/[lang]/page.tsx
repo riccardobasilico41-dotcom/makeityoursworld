@@ -28,7 +28,7 @@ import { plain } from '@/components/ui/Rich'
 const T = {
   it: {
     sottotitolo: 'Diario di viaggio con itinerari giorno per giorno, verificati e riverificati, non copiati da altre guide.',
-    archivio: (n: number) => `L'archivio completo racconta ${n} viaggi, filtrabili per area, Paese, durata e stile.`,
+    archivio: (n: number) => `L'archivio completo racconta ${n} viaggi, filtrabili per area, Paese, durata, periodo consigliato e stile.`,
     esplora: (n: number) => `Esplora tutti i ${n} viaggi`,
     meraviglieTitolo: 'Le sette meraviglie del mondo',
     meraviglieTesto:
@@ -39,7 +39,7 @@ const T = {
   },
   en: {
     sottotitolo: 'A travel journal with day-by-day itineraries, checked and double-checked, not copied from other guides.',
-    archivio: (n: number) => `The full archive tells the story of ${n} trips, filterable by region, country, length and style.`,
+    archivio: (n: number) => `The full archive tells the story of ${n} trips, filterable by region, country, length, best time to go and style.`,
     esplora: (n: number) => `Explore all ${n} trips`,
     meraviglieTitolo: 'The seven wonders of the world',
     meraviglieTesto:
@@ -50,7 +50,7 @@ const T = {
   },
   es: {
     sottotitolo: 'Diario de viaje con itinerarios día a día, comprobados y recomprobados, no copiados de otras guías.',
-    archivio: (n: number) => `El archivo completo cuenta ${n} viajes, que se pueden filtrar por región, país, duración y estilo.`,
+    archivio: (n: number) => `El archivo completo cuenta ${n} viajes, que se pueden filtrar por región, país, duración, mejor época y estilo.`,
     esplora: (n: number) => `Explora los ${n} viajes`,
     meraviglieTitolo: 'Las siete maravillas del mundo',
     meraviglieTesto:
@@ -112,7 +112,8 @@ function viaggioDelGiorno(viaggi: Viaggio[], lingua: Lingua): Viaggio | undefine
   return lista[giorno % lista.length]
 }
 
-/* Ordine della Home (audit UX P1): apertura con il cercaviaggi → viaggi top → porte per
+/* Ordine della Home (audit UX P1): apertura con il cercaviaggi (che ha anche le quattro porte:
+ * viaggi, destinazioni, mappa, meraviglie, e il «Quando andare») → viaggi top → porte per
  * area → mappa del mondo → un viaggio in evidenza in una schermata → meraviglie → chi
  * scrive → una sola chiusura. Niente sezioni che ripetono gli stessi viaggi: l'archivio
  * orizzontale (VisualArchive) è uscito perché ridondante con ViaggiTop. */
@@ -143,7 +144,7 @@ export default async function HomePage() {
       {/* le cinque aree, con quanti Paesi e viaggi: la porta per chi parte dalla geografia */}
       <EsploraAree lingua={lingua} />
 
-      {/* i viaggi che ho fatto nel mese corrente (solo se sono almeno 2) */}
+      {/* il mese corrente in una sezione sola: «Dove andare» (mesi consigliati) e «Dove ero» (mesi reali) */}
       <QuestoMese lingua={lingua} />
 
       <MappaMondoSezione />

@@ -1,7 +1,7 @@
 # Croacia en dos semanas: de Zagreb a Dubrovnik entre lagos, ciudades romanas e islas
 
 **Stato bozza:** 🟡 en elaboración
-**Periodo del viaggio:** finales de mayo-junio o septiembre, con el mar ya cálido, ferris frecuentes y menos gente que en julio-agosto
+**Periodo del viaggio:**
 **Durata:** 14 días, 13 noches
 **Compagni di viaggio:** con amigos, por libre, coche de alquiler de Zagreb a Split, luego catamaranes entre las islas hasta Dubrovnik
 **Categoria:** Europa · Croazia · Dalmazia · isole · mare · laghi · città storiche

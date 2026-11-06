@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const malesiaSingaporeMeta: TripMeta = {
   tripSlug: 'malesia-singapore',
   paeseSlug: 'malesia',
+  provenienza: 'journey',
+  mesiConsigliati: [12, 1, 2, 3],
   ritmo: 'Rilassato per gli standard del sud-est asiatico: sei basi in quattordici giorni, con trasferimenti brevi e mezzi comodi',
   trasporti: 'Autobus interurbani malesi, barca lunga sul fiume per Taman Negara, bus di frontiera per Singapore, metropolitana in città',
   stile: ['gastronomia', 'città coloniali', 'giungla'],

@@ -1,7 +1,7 @@
 # Italy's Great Cities in Two Weeks: Rome, Florence, Venice, Naples
 
 **Stato bozza:** 🟡 in progress (itinerary, entry quotas and practical information verified and up to date; the first-person passages are written as a draft to be reread and personalized)
-**Periodo del viaggio:** **October to March**, which is when Italy's art cities become livable again
+**Periodo del viaggio:**
 **Durata:** 12 days, 11 nights
 **Compagni di viaggio:** with friends, independent, getting around only by high-speed train
 **Categoria:** Europa · Italia · città d'arte · archeologia · gastronomia

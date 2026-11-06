@@ -1,7 +1,7 @@
 # Sardinia, the Two Souls: Two Weeks from the Costa Smeralda to the Sulcis
 
 **Stato bozza:** 🟡 work in progress (itinerary and practical information verified; the first-person passages are written as a draft to reread and personalize)
-**Periodo del viaggio:** **late May-June or September**
+**Periodo del viaggio:**
 **Durata:** 14 days, 13 nights — by car, crossing the island on the diagonal
 **Compagni di viaggio:** with friends, independent, with a rental car
 **Categoria:** Europa · Italia · Sardegna · mare · archeologia · trekking

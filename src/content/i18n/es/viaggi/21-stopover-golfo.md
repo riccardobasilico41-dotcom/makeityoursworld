@@ -1,7 +1,7 @@
 # El Golfo en escala: Dubái, Abu Dabi, Doha y Yeda, por piezas o todo junto
 
 **Stato bozza:** 🟡 en elaboración
-**Periodo del viaggio:** de noviembre a marzo. En el Golfo es la única ventana en la que se puede estar al aire libre
+**Periodo del viaggio:**
 **Durata:** 7 días si se hace todo seguido; cada bloque está pensado para funcionar solo en 24-48 horas
 **Compagni di viaggio:** con amigos, por cuenta propia, usando los programas de escala de las aerolíneas del Golfo
 **Categoria:** Medio Oriente · Emirati Arabi Uniti · Qatar · Arabia Saudita · stopover · architettura · deserto
@@ -97,7 +97,7 @@ Por la noche fuimos a la **Corniche**, que los jueves es el momento social de la
 - **Al-Balad en la última hora de luz.**
 - **Comer en los barrios donde viven los trabajadores**, en las tres ciudades: es donde mejor se come y se gasta la décima parte.
 
-## Estensioni possibili
+## Extensiones posibles
 - **Liwa y el Rub' al-Khali (+2 días desde Abu Dabi):** el desierto de verdad, con dunas de más de doscientos metros, en lugar del safari nocturno en dunas a media hora de la ciudad. Con noche en campamento.
 - **Al Ain (+1 día desde Abu Dabi):** el oasis Patrimonio de la Humanidad de la UNESCO con los canales falaj en funcionamiento desde hace dos mil años, para entender cómo era este país antes del petróleo.
 - **El norte de Catar (+1 día desde Doha):** Al Zubarah, los pueblos abandonados y las placas de Serra en el desierto.

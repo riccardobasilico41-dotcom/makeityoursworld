@@ -1,7 +1,7 @@
 # Marruecos: las ciudades imperiales y la ciudad azul en 11 días
 
 **Stato bozza:** 🟡 en elaboración (viaje hecho por Rick; información práctica verificada en noviembre de 2026; faltan recuerdos personales y fotos)
-**Periodo del viaggio:** pensado para la primavera o el otoño, cuando las ciudades del interior todavía no son un horno
+**Periodo del viaggio:**
 **Durata:** 11 días, 10 noches
 **Compagni di viaggio:** itinerario por carretera, con coche y conductor o de alquiler, y autobuses CTM donde convienen
 **Categoria:** Africa · Marocco · città imperiali · Fès · Meknès · Volubilis · Rabat · Chefchaouen · medine · on the road

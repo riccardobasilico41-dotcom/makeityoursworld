@@ -1,7 +1,7 @@
 # Mexico City and Baja California Sur: From the Capital to the Whale Sea in 16 Days
 
 **Stato bozza:** 🟡 in progress (trip done by Rick; itinerary and practical information verified)
-**Periodo del viaggio:** mid-February to mid-March, the only window when gray whales in the lagoons, whale sharks in La Paz, blue whales off Loreto and humpbacks in Los Cabos all overlap
+**Periodo del viaggio:**
 **Durata:** 16 days, 15 nights
 **Compagni di viaggio:** with friends, independent, using the metro and apps in Mexico City, a domestic flight to La Paz and a rental car in Baja California Sur
 **Categoria:** Nord America · Messico · Città del Messico · Baja California · balene · mare · natura · roadtrip

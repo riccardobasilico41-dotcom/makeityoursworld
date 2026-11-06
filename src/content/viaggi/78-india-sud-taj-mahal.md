@@ -1,7 +1,7 @@
 # Delhi, Agra e l'India del Sud in 17 giorni: il Taj Mahal, i templi del Tamil Nadu, il Kerala e Hampi
 
-**Stato bozza:** 🟡 in lavorazione (proposta costruita sulla ricerca, non un viaggio fatto da Rick: itinerario e informazioni pratiche verificati a ottobre-novembre 2026; nessun ricordo personale)
-**Periodo del viaggio:** pensato per dicembre-marzo, la stagione secca in tutto il Sud e la più fresca a Delhi e Agra
+**Stato bozza:** 🟡 in lavorazione (luoghi visitati da Rick, rimessi in fila in un percorso pratico; informazioni pratiche verificate a ottobre-novembre 2026 e da ricontrollare prima di partire; ricordi in prima persona solo quelli dati da Rick, nessuno inventato)
+**Periodo del viaggio:**
 **Durata:** 17 giorni, 16 notti
 **Compagni di viaggio:** itinerario pensato per viaggiare in autonomia, in coppia o in piccolo gruppo, con il treno veloce Delhi-Agra, un volo per Chennai, auto con autista in Tamil Nadu e Kerala, una notte in houseboat e due treni notturni per Hampi
 **Categoria:** Asia · India · Delhi · Agra · Taj Mahal · India del Sud · Tamil Nadu · Kerala · Karnataka · Hampi · backwaters · templi
@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-Questo itinerario non l'ha fatto Rick. È una proposta costruita sulla ricerca, per chi vuole il Taj Mahal e l'India del Sud nello stesso viaggio. Rick in India ha fatto Varanasi e il Rajasthan, ed è un altro viaggio: *India: Varanasi, Ranthambore e il Rajasthan in 19 giorni*.
+Questo itinerario nasce da luoghi che Rick ha visitato personalmente e li mette in fila in un percorso pratico, per chi vuole il Taj Mahal e l'India del Sud nello stesso viaggio. Per Varanasi e il Rajasthan c'è l'altro viaggio in India: *India: Varanasi, Ranthambore e il Rajasthan in 19 giorni*.
 
 Si parte dal Nord, perché la maggior parte di chi va in India per la prima volta non vuole tornare senza aver visto il Taj Mahal. Due giorni a Delhi, tra la Vecchia Delhi, la Tomba di Humayun e il Qutub Minar. Poi il treno veloce per Agra, il Forte, il tramonto da Mehtab Bagh e il Taj all'alba. Da lì un volo porta a Chennai, e comincia l'altra India.
 
@@ -209,13 +209,13 @@ Prezzi a persona in camera doppia, voli intercontinentali esclusi (arrivo a Delh
 ## Chiusura personale
 Questo viaggio tiene insieme due Indie. La prima è quella del Nord: il rumore di Delhi, il marmo del Taj all'alba, la folla. La seconda è quella del Sud: il verde delle risaie e delle colline di tè, il blu dei canali, l'arancione dei templi al tramonto, il bianco del gelsomino al mercato di Madurai, e alla fine il granito e il silenzio di Hampi. Chi ha diciassette giorni e non vuole scegliere tra il Taj e il Sud trova qui un modo per avere tutti e due.
 
-*Questo itinerario non è un viaggio fatto da Rick: è una proposta costruita sulla ricerca. Le tappe del Sud vengono dalle guide del sito sull'India del Sud, i primi giorni a Delhi e Agra dagli itinerari del Nord, e tutte le informazioni pratiche da portali ufficiali del visto e delle ferrovie indiane, siti dei monumenti, enti del turismo di Kerala e Tamil Nadu, Viaggiare Sicuri e guide recenti, verificati a ottobre-novembre 2026. Il viaggio in India fatto da Rick è un altro: Varanasi e il Rajasthan, in treno notturno e con l'autista. Orari, prezzi e regole cambiano: vanno ricontrollati prima di partire.*
+*Questo itinerario nasce da luoghi che Rick ha visitato personalmente, rimessi in fila in un percorso pratico. Le tappe del Sud vengono dalle guide del sito sull'India del Sud, i primi giorni a Delhi e Agra dagli itinerari del Nord, e tutte le informazioni pratiche da portali ufficiali del visto e delle ferrovie indiane, siti dei monumenti, enti del turismo di Kerala e Tamil Nadu, Viaggiare Sicuri e guide recenti, verificati a ottobre-novembre 2026. Varanasi e il Rajasthan sono nell'altro viaggio in India, in treno notturno e con l'autista. Orari, prezzi e regole cambiano: vanno ricontrollati prima di partire.*
 
 ## Nota su questa bozza
-Proposta non vissuta. Riorganizzata il 4 novembre 2026: prima Delhi e Agra, poi il Sud con rientro da Bangalore. Madurai scende a una notte per tenere 17 giorni con Hampi.
+Riorganizzata il 4 novembre 2026: prima Delhi e Agra, poi il Sud con rientro da Bangalore. Madurai scende a una notte per tenere 17 giorni con Hampi.
 
 ## Materiale grezzo (appunti, non ancora editato)
-**Note di redazione (novembre 2026):** Non fatto da Rick: niente ricordi da aggiungere, solo verifiche. Ancora aperti: biglietto stranieri di Eravikulam (500 rupie è il dato 2025, nessun listino 2026 trovato); elenco ufficiale dei 52 templi del Tamil Nadu soggetti alla regola sui telefoni (non chiaro se ci sia il Brihadeeswarar di Thanjavur, che è anche sito ASI); orari dell'Hampi Express da ricontrollare su NTES vicino alla partenza; durata del volo Delhi-Chennai e prezzo indicativo da riverificare. Foto dei giorni da recuperare.
+**Note di redazione (novembre 2026):** viaggio di Rick (conferma del 6/11/2026): ricordi in prima persona solo se li dà lui. Ancora aperti: biglietto stranieri di Eravikulam (500 rupie è il dato 2025, nessun listino 2026 trovato); elenco ufficiale dei 52 templi del Tamil Nadu soggetti alla regola sui telefoni (non chiaro se ci sia il Brihadeeswarar di Thanjavur, che è anche sito ASI); orari dell'Hampi Express da ricontrollare su NTES vicino alla partenza; durata del volo Delhi-Chennai e prezzo indicativo da riverificare. Foto dei giorni da recuperare.
 
 ## Tag
 `#india` `#delhi` `#agra` `#tajmahal` `#indiadelsud` `#tamilnadu` `#kerala` `#karnataka` `#mamallapuram` `#puducherry` `#madurai` `#munnar` `#backwaters` `#fortkochi` `#hampi` `#asia`

@@ -1,7 +1,7 @@
 # Lisboa en un fin de semana largo
 
 **Stato bozza:** 🟡 en preparación (viaje hecho por Rick; itinerario e información práctica verificados, faltan anécdotas y recuerdos personales del diario)
-**Periodo del viaggio:** **abril-mayo o septiembre-octubre**
+**Periodo del viaggio:**
 **Durata:** 4 días, 3 noches
 **Compagni di viaggio:** con amigos, por libre, a pie y en transporte público
 **Categoria:** Europa · Portogallo · Lisbona · città · storia · gastronomia

@@ -8,11 +8,12 @@ import { FeaturedBorderTrail } from './FeaturedBorderTrail'
 import { useLingua } from '@/lib/i18n/LinguaProvider'
 import { etichetta } from '@/lib/i18n/etichette'
 import type { Lingua } from '@/lib/i18n/config'
+import { stagioneBreve } from '@/lib/viaggi-filtri-stato'
 
 const T = {
-  it: { leggi: "Leggi l'itinerario" },
-  en: { leggi: 'Read the itinerary' },
-  es: { leggi: 'Lee el itinerario' },
+  it: { leggi: "Leggi l'itinerario", durata: 'Durata', quando: 'Quando andare', budget: 'Budget', tipo: 'Tipo', combinato: 'Più viaggi in uno' },
+  en: { leggi: 'Read the itinerary', durata: 'Length', quando: 'Best time', budget: 'Budget', tipo: 'Type', combinato: 'Several trips in one' },
+  es: { leggi: 'Lee el itinerario', durata: 'Duración', quando: 'Cuándo ir', budget: 'Presupuesto', tipo: 'Tipo', combinato: 'Varios viajes en uno' },
 } satisfies Record<Lingua, Record<string, string>>
 
 const GRADIENTS: Record<string, string> = {
@@ -52,6 +53,11 @@ export type ViaggioScheda = Pick<
   copertina?: { immagine: string; imageAlt: string }
   /** Paesi del viaggio già tradotti («Guatemala · Belize · Panama»): se c'è, sostituisce il continente nell'occhiello. */
   luogo?: string
+  /** Campi della card «da confronto» dell'archivio: tutti facoltativi, se mancano la riga non c'è. */
+  mesiConsigliati?: number[]
+  budget?: string
+  stili?: string[]
+  provenienza?: 'journey' | 'combined'
 }
 
 export function riduciPerScheda(v: Viaggio): ViaggioScheda {
@@ -67,12 +73,36 @@ export function riduciPerScheda(v: Viaggio): ViaggioScheda {
   }
 }
 
-/** `subito`: la prima scheda dell'elenco (elemento LCP sul telefono) si carica senza lazy-loading e con priorità alta. */
-export function TripCard({ viaggio, featured = false, subito = false }: { viaggio: ViaggioScheda; featured?: boolean; subito?: boolean }) {
+/**
+ * `subito`: la prima scheda dell'elenco (elemento LCP sul telefono) si carica senza lazy-loading e con priorità alta.
+ * `confronto`: la card dell'archivio /viaggi, con le stesse righe in ogni card (durata, quando andare, budget se
+ * c'è, tipo) al posto del periodo in cui sono partito; ogni riga compare solo se il dato esiste.
+ */
+export function TripCard({
+  viaggio,
+  featured = false,
+  subito = false,
+  confronto = false,
+}: {
+  viaggio: ViaggioScheda
+  featured?: boolean
+  subito?: boolean
+  confronto?: boolean
+}) {
   const lingua = useLingua()
   const t = T[lingua]
   const continente = getContinente(viaggio.categorie)
   const copertina = viaggio.copertina
+  const stagione = stagioneBreve(viaggio.mesiConsigliati, lingua)
+  const tipo = (viaggio.stili ?? []).slice(0, 2).map((s) => etichetta(s, lingua)).join(' · ')
+  const righe = confronto
+    ? [
+        { k: t.durata, v: viaggio.durataBreve },
+        { k: t.quando, v: stagione },
+        { k: t.budget, v: viaggio.budget },
+        { k: t.tipo, v: tipo && tipo.charAt(0).toUpperCase() + tipo.slice(1) },
+      ].filter((r): r is { k: string; v: string } => Boolean(r.v))
+    : []
 
   return (
     <Link
@@ -109,6 +139,11 @@ export function TripCard({ viaggio, featured = false, subito = false }: { viaggi
         <p className="relative z-10 px-2 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-cream" style={{ backgroundColor: coloreContinente(continente) }}>
           {viaggio.luogo ?? etichetta(continente, lingua)}
         </p>
+        {viaggio.provenienza === 'combined' && (
+          <p className="absolute right-3 top-3 z-10 border border-cream/70 bg-ink/70 px-1.5 py-0.5 text-[11px] font-semibold uppercase tracking-wider text-cream">
+            {t.combinato}
+          </p>
+        )}
       </div>
       <div className="flex flex-1 flex-col gap-3 p-6">
         <h3
@@ -118,11 +153,24 @@ export function TripCard({ viaggio, featured = false, subito = false }: { viaggi
         >
           {viaggio.titolo}
         </h3>
-        <p className="text-sm leading-relaxed text-stone">{viaggio.descrizione}</p>
-        <div className="mt-auto flex flex-wrap items-center gap-x-4 gap-y-1 pt-2 text-xs text-stone/85">
-          {viaggio.periodoBreve && <span>{viaggio.periodoBreve}</span>}
-          {viaggio.durataBreve && <span>· {viaggio.durataBreve}</span>}
-        </div>
+        <p className={`text-sm leading-relaxed text-stone ${confronto ? 'line-clamp-3' : ''}`}>{viaggio.descrizione}</p>
+        {confronto ? (
+          righe.length > 0 && (
+            <dl className="mt-auto grid grid-cols-[auto_minmax(0,1fr)] gap-x-3 gap-y-1 border-t border-ink/10 pt-3 text-xs">
+              {righe.map((r) => (
+                <div key={r.k} className="contents">
+                  <dt className="font-semibold uppercase tracking-wider text-stone/85">{r.k}</dt>
+                  <dd className="text-ink">{r.v}</dd>
+                </div>
+              ))}
+            </dl>
+          )
+        ) : (
+          <div className="mt-auto flex flex-wrap items-center gap-x-4 gap-y-1 pt-2 text-xs text-stone/85">
+            {viaggio.periodoBreve && <span>{viaggio.periodoBreve}</span>}
+            {viaggio.durataBreve && <span>· {viaggio.durataBreve}</span>}
+          </div>
+        )}
         <span className="inline-flex items-center gap-1.5 text-sm font-medium text-rosso">
           {t.leggi}
           <ArrowUpRight size={14} aria-hidden="true" className="transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />

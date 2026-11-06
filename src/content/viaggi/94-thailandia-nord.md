@@ -1,7 +1,7 @@
 # Thailandia del nord in due settimane: Chiang Mai, Pai, Chiang Rai e il Triangolo d'oro
 
-**Stato bozza:** 🟡 in lavorazione (guida verificata a novembre 2026 su fonti ufficiali e su Seat61 per il treno; Rick ha visto Chiang Mai e l'Elephant Nature Park, non Pai, Chiang Rai e il Triangolo d'oro; orari, prezzi e regole vanno ricontrollati prima di partire; mancano le foto)
-**Periodo del viaggio:** pensato per novembre-febbraio, la stagione fresca e secca del nord
+**Stato bozza:** 🟡 in lavorazione (luoghi visitati da Rick, rimessi in fila in un percorso pratico; informazioni pratiche verificate a ottobre-novembre 2026 e da ricontrollare prima di partire; ricordi in prima persona solo quelli dati da Rick, nessuno inventato)
+**Periodo del viaggio:**
 **Durata:** 13 giorni, 12 notti, più 3-4 giorni facoltativi per il loop di Mae Hong Son o per Sukhothai
 **Compagni di viaggio:** in autonomia, con treno notturno, bus, minivan, auto con autista e un volo interno
 **Categoria:** Asia · Thailandia · nord · montagna · templi · cultura · cibo · elefanti etici
@@ -11,7 +11,7 @@
 ## Apertura personale
 Il viaggio classico in Thailandia è quello al mare, e sul sito c'è già: [da Bangkok al mare del sud](/viaggi/thailandia). Questo è l'altro, quello del nord. Montagne, templi di legno, mercati serali e un ritmo più lento. A Chiang Mai ci sono stato in un viaggio a parte, e il contrasto con Bangkok e il sud si sente dal primo giorno. La mattinata con gli elefanti dell'Elephant Nature Park, senza mai cavalcarli, resta uno dei miei ricordi più belli della Thailandia.
 
-Chiang Rai e il Triangolo d'oro invece non li ho visti. Per quelle tappe questa è una guida, costruita su fonti verificate e scritta senza ricordi miei.
+Per Pai, Chiang Rai e il Triangolo d'oro qui trovi soprattutto le informazioni pratiche, verificate su fonti ufficiali.
 
 Il giro sale da Bangkok con il treno notturno, si ferma quasi una settimana a Chiang Mai, passa da Pai e chiude a Chiang Rai e al confine sul Mekong. C'è anche una sezione lunga sugli elefanti: come vederli senza fare del male, e come riconoscere un posto serio.
 
@@ -120,7 +120,7 @@ Il clima del Golfo di Thailandia, con Koh Samui, Koh Phangan e Koh Tao, ha stagi
 ## Chiusura personale
 Di Chiang Mai mi è rimasto il ritmo, più lento del resto del paese, e la mattinata con gli elefanti senza mai cavalcarli. Chi parte oggi ha un compito in più: scegliere il centro guardando cosa succede agli animali quando i turisti se ne vanno.
 
-*Rick è stato a Chiang Mai e all'Elephant Nature Park in un viaggio separato dal giro al mare. Bangkok, Pai, Chiang Rai, il Triangolo d'oro, il loop di Mae Hong Son e Sukhothai sono scritti in forma di guida. Fonti: governo britannico (gov.uk), Seat61 per il treno, i siti dell'Elephant Nature Park e della Save Elephant Foundation, World Animal Protection e ABTA per gli elefanti, verificati a novembre 2026. Prezzi, orari e regole cambiano: vanno ricontrollati prima di partire.*
+*Il viaggio nasce da luoghi che Rick ha visitato personalmente; Chiang Mai e l'Elephant Nature Park sono di un viaggio separato dal giro al mare. Per le altre tappe il testo resta sulle informazioni pratiche. Fonti: governo britannico (gov.uk), Seat61 per il treno, i siti dell'Elephant Nature Park e della Save Elephant Foundation, World Animal Protection e ABTA per gli elefanti, verificati a novembre 2026. Prezzi, orari e regole cambiano: vanno ricontrollati prima di partire.*
 
 ## Tag
 `#thailandia` `#thailandianord` `#chiangmai` `#chiangrai` `#pai` `#triangolodoro` `#maehongson` `#elefantietici` `#trenonotturno` `#templi` `#asia`

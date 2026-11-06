@@ -8,6 +8,7 @@ import type { TripMeta } from '@/lib/types'
 export const classicJapanMeta: TripMeta = {
   tripSlug: 'classic-japan',
   paeseSlug: 'giappone',
+  mesiConsigliati: [4, 5, 6, 10, 11],
   ritmo:
     'Medio-denso: la tratta classica Tokyo-Kyoto-Osaka-Hiroshima con in mezzo sei giorni di entroterra (Nakasendō, Kamikochi, Takayama, Shirakawa-go, Kanazawa) e una notte al tempio a Kōya-san. Quasi ogni giorno si cambia letto, con i bagagli spediti avanti.',
   trasporti:

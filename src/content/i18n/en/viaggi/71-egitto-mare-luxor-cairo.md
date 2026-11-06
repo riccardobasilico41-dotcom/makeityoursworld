@@ -1,7 +1,7 @@
 # Egypt in 11 Days: Cairo, the Pyramids, Luxor and the Red Sea
 
 **Stato bozza:** 🟡 in progress (itinerary, prices and rules verified in October 2026 against official sources and recent guides)
-**Periodo del viaggio:** designed for October to April, when Cairo and Luxor can be visited without extreme heat and the Red Sea is still swimmable; in May and October the sea is at its best and the sites are done at dawn
+**Periodo del viaggio:**
 **Durata:** 11 days, 10 nights
 **Compagni di viaggio:** with friends, independent, with a Cairo-Luxor domestic flight, a private driver for the Luxor-to-sea transfer and a few local guides
 **Categoria:** Africa · Egitto · archeologia · piramidi · Nilo · Mar Rosso · snorkeling

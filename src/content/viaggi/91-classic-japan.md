@@ -1,7 +1,7 @@
 # Classic Japan in 17 giorni: Tokyo, Hakone, le Alpi giapponesi, Kyoto, Kōya-san e Miyajima
 
-**Stato bozza:** 🟡 in lavorazione (itinerario-guida costruito con ricerca su fonti ufficiali, verificato a novembre 2026; nessun ricordo personale nel testo, le tappe fatte davvero sono da confermare con Rick)
-**Periodo del viaggio:** pensato per fine aprile-inizio giugno o per ottobre-metà novembre, quando Kamikochi è aperto e le Alpi non sono sotto la neve; in inverno funziona con le varianti indicate
+**Stato bozza:** 🟡 in lavorazione (luoghi visitati da Rick, rimessi in fila in un percorso pratico; informazioni pratiche verificate a ottobre-novembre 2026 e da ricontrollare prima di partire; ricordi in prima persona solo quelli dati da Rick, nessuno inventato)
+**Periodo del viaggio:**
 **Durata:** 17 giorni, 16 notti; varianti da 14 e da 21 giorni in fondo
 **Compagni di viaggio:** in autonomia, in treno con JR Pass da 14 giorni più bus locali (Nakasendō, Kamikochi, Shirakawa-go) e la linea privata Nankai per Kōya-san
 **Categoria:** Asia · Giappone · cultura · Alpi giapponesi · villaggi storici · onsen · on the road
@@ -12,6 +12,8 @@
 Il viaggio classico in Giappone corre quasi tutto lungo la costa del Pacifico: Tokyo, il Fuji, Kyoto, Osaka, Hiroshima. Questo itinerario tiene quella spina dorsale e ci aggiunge l'entroterra, la parte che molti saltano al primo viaggio. Le Alpi giapponesi, la vecchia strada del Nakasendō tra Magome e Tsumago, Takayama con i mercati del mattino, le case dai tetti di paglia di Shirakawa-go, Kanazawa e il monte sacro di Kōya-san.
 
 Sul sito c'è già un altro viaggio in Giappone, [i 12 giorni di aprile tra sakura, Fuji e Kyoto](/viaggi/giappone-itinerario). Questo è un'altra cosa. Ha più giorni, meno grandi città e più notti in ryokan, shukubō e paesi di montagna. Di Tokyo, Kyoto e Osaka tiene il minimo: chi vuole il dettaglio di quei giorni lo trova lì.
+
+Come tutti i viaggi del sito, nasce da luoghi che ho visitato personalmente e da esperienze che ho vissuto davvero, messi in fila in un percorso pratico.
 
 ## Scheda pratica
 - **Quando andare:** da fine aprile a inizio giugno e da ottobre a metà novembre. Kamikochi apre a metà aprile e chiude a metà novembre (nel 2026 dal 17 aprile al 15 novembre). Giugno-luglio è la stagione delle piogge su gran parte di Honshu, agosto è caldo e umido. In inverno Shirakawa-go e Takayama sono sotto la neve: bellissimi, ma Kamikochi è chiuso e il Nakasendō può avere neve sui gradini di pietra.
@@ -118,7 +120,7 @@ Itinerario costruito con ricerca documentale, aggiornato a novembre 2026. Nessun
 
 **Tolto perché non confermato (verifica del 5/11/2026):** tempi di treno Nagiso-Matsumoto, Kanazawa-Kyoto, Kyoto-Nara, Shin-Osaka-Hiroshima, Miyajima-Tokyo; prezzi del bus Nohi; numero di shukubō; divieto di droni a Shirakawa-go. **Ancora generico:** Hakone Freepass, stato della funicolare di Kōya-san, copertura JR Pass del traghetto per Miyajima.
 
-**Note di redazione:** niente foto. Rick deve dire quali tappe ha fatto (lista in docs/giappone-da-confermare.md): solo dopo si possono aggiungere ricordi in prima persona.
+**Note di redazione:** niente foto. Viaggio di Rick (conferma del 6/11/2026); dettagli come anno, stagione e alloggi restano da chiedere a lui (lista in docs/giappone-da-confermare.md) prima di aggiungere ricordi in prima persona.
 
 ## Tag
 `#giappone` `#classicjapan` `#alpigiapponesi` `#nakasendo` `#takayama` `#shirakawago` `#kanazawa` `#koyasan` `#kyoto` `#miyajima` `#onsen` `#ryokan` `#asia`

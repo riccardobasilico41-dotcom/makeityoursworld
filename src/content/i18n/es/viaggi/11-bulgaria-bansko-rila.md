@@ -1,7 +1,7 @@
 # Bulgaria sobre la nieve: esquí en Bansko y el Monasterio de Rila
 
 **Stato bozza:** 🟢 lista para el sitio
-**Periodo del viaggio:** temporada de esquí, diciembre-abril
+**Periodo del viaggio:** temporada de esquí
 **Durata:** 5-6 días
 **Compagni di viaggio:** con amigos, coche de alquiler desde Sofía, conduciendo hasta Bansko
 **Categoria:** Europa · Bulgaria · sci · montagna · Balcani

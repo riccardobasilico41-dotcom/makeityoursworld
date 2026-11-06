@@ -1,7 +1,7 @@
 # Las rutas del vino de Francia: Alsacia y Champaña en 8 días
 
 **Stato bozza:** 🟡 en elaboración
-**Periodo del viaggio:** **mayo-junio o septiembre-octubre**
+**Periodo del viaggio:**
 **Durata:** 8 días, 7 noches
 **Compagni di viaggio:** con amigos, por nuestra cuenta, con coche y bicicleta en Alsacia
 **Categoria:** Europa · Francia · vino · Alsazia · Champagne
@@ -12,6 +12,7 @@
 Entre todas las rutas del vino francesas, este itinerario combina las dos más indicadas para una primera vez: Alsacia, la más bonita y la más accesible, y Champaña, la más fácil de alcanzar desde París. Borgoña, más difícil y más cara, queda para un viaje posterior.
 
 ## Scheda pratica
+- **Cuándo ir:** **mayo-junio o septiembre-octubre**
 - **Alsacia**: las bodegas suelen recibir sin cita previa, con catas gratuitas o casi.
 - **Champaña**: se aconseja cita para las grandes maisons, gratuita o de pago según la casa.
 - **Conductor designado o escupir en la cata**, siempre.

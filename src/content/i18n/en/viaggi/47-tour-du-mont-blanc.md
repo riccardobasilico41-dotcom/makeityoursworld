@@ -1,7 +1,7 @@
 # The Tour du Mont Blanc in 9 Days
 
 **Stato bozza:** 🟡 work in progress (itinerary and practical information verified)
-**Periodo del viaggio:** **mid-June to mid-September, with September the best month**
+**Periodo del viaggio:**
 **Durata:** 9 days, 8 nights in stages
 **Compagni di viaggio:** with friends, independent, overnight in a hut every night
 **Categoria:** Europa · Francia · montagna · trekking
@@ -12,6 +12,7 @@
 The Tour du Mont Blanc circles the highest massif in the Alps in full, about a hundred and seventy kilometers, crossing France, Italy and Switzerland. It isn't technical, but the stages are long: the constraint that structures everything is booking the huts, to be done in January-February for the summer.
 
 ## Scheda pratica
+- **When to go:** **mid-June to mid-September, with September the best month**
 - **Huts booked months in advance**, otherwise the itinerary falls apart.
 - **Mountain rescue is free** from the French public services, but insurance still makes sense.
 - **Sleeping bag liner required** in all the huts.

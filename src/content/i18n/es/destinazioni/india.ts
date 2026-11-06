@@ -1380,7 +1380,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Chennai',
     tipologia: ['città', 'arrivo'],
     giorniConsigliati: 'de paso',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La capital de Tamil Nadu, antigua Madrás, puerta de entrada aérea al sureste de la India. Una ciudad grande y calurosa, con el paseo marítimo de Marina Beach y el barrio de Mylapore alrededor del templo de Kapaleeshwarar.',
     percheAndarci: "Sobre todo como punto de llegada: Mamallapuram está a unos 60 kilómetros por carretera. Con medio día se ven Mylapore y el Government Museum con sus bronces del sur.",
@@ -1499,7 +1499,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Mamallapuram',
     tipologia: ['patrimonio UNESCO', 'mare', 'templi'],
     giorniConsigliati: '1-2 días',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione: "El antiguo puerto de los reyes Pallava en la costa de Coromandel, donde entre los siglos VII y VIII se tallaron algunos de los primeros templos de piedra del sur: templos excavados en la roca, bajorrelieves y el templo junto al mar.",
     percheAndarci:
       'Para ver en un pueblo pequeño y tranquilo el comienzo de todo lo que se verá en Thanjavur y Madurai, y para recuperarse del vuelo antes de salir hacia el sur.',
@@ -1627,7 +1627,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Madurai',
     tipologia: ['città', 'templi'],
     giorniConsigliati: '1-2 días',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Una de las ciudades habitadas más antiguas del sur, crecida en círculos concéntricos alrededor del templo de Meenakshi Amman, con sus catorce torres cubiertas de divinidades pintadas.',
     percheAndarci:
@@ -1753,7 +1753,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Munnar',
     tipologia: ['montagna', 'piantagioni di tè', 'natura'],
     giorniConsigliati: '2 días',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Una estación de montaña a unos 1.600 metros en los Ghats Occidentales de Kerala, rodeada de plantaciones de té que cubren las colinas hasta donde alcanza la vista.',
     percheAndarci:
@@ -1880,7 +1880,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Backwaters de Alleppey',
     tipologia: ['lagune', 'natura', 'houseboat'],
     giorniConsigliati: '1-2 días',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'La red de canales, lagunas y lagos de Kerala que corre paralela al mar entre Alappuzha (Alleppey), Kumarakom y Kollam, con arrozales bajo el nivel del agua y pueblos sobre franjas de tierra.',
     percheAndarci:
@@ -2003,7 +2003,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Fort Kochi',
     tipologia: ['città coloniale', 'cultura', 'mare'],
     giorniConsigliati: '2 días',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'El barrio histórico de Kochi, puerto de las especias durante siglos, marcado por portugueses, holandeses e ingleses, con las redes de pesca chinas en el paseo marítimo y el barrio judío de Mattancherry.',
     percheAndarci:
@@ -2152,7 +2152,7 @@ export const destinazioniIndia: Destinazione[] = [
     nome: 'Hampi',
     tipologia: ['patrimonio UNESCO', 'rovine', 'paesaggio'],
     giorniConsigliati: '2 días',
-    visitataPersonalmente: false,
+    visitataPersonalmente: true,
     introduzione:
       'Las ruinas de Vijayanagara, capital de uno de los mayores imperios de la India, destruida en 1565, en un paisaje de bloques de granito, arrozales y bananales a lo largo del río Tungabhadra.',
     percheAndarci: "Por más de 1.600 restos de monumentos en un paisaje que no se parece a ningún otro, con un pueblo tranquilo y los atardeceres desde las colinas de roca.",

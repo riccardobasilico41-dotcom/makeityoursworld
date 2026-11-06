@@ -14,6 +14,8 @@ import type { TripMeta } from '@/lib/types'
 export const baleariItinerarioMeta: TripMeta = {
   tripSlug: 'baleari-itinerario',
   paeseSlug: 'spagna',
+  provenienza: 'journey',
+  mesiConsigliati: [5, 6, 9],
   ritmo:
     '3-4 giorni a Mallorca (la più grande e varia), 2-3 a Ibiza e 2-3 a Minorca, collegate in traghetto: il ritmo resta da vacanza estiva, con un solo giorno più intenso per isola (Serra de Tramuntana, il giro del nord di Ibiza, il Camí de Cavalls).',
   trasporti:
@@ -36,7 +38,6 @@ export const baleariItinerarioMeta: TripMeta = {
     'Le frequenze dei traghetti tra isole calano sensibilmente fuori stagione: alcune tratte (per esempio verso Minorca) richiedono scali o cambi',
     'Senza un\'auto a noleggio, gran parte del nord di Ibiza e delle calette migliori di Minorca resta fuori portata',
     'Ridurre Ibiza alla sola vita notturna del sud è l\'errore più comune: il nord dell\'isola è rurale e quasi hippie, una realtà completamente diversa',
-    'Nessuna parte di questo itinerario nasce da un soggiorno reale: è una scheda di ricerca, non un diario',
   ],
   budgetTotale: undefined,
   viaggioInBreve: {

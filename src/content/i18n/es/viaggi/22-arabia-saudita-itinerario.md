@@ -1,7 +1,7 @@
 # Arabia Saudí en dos semanas: Yeda, Hegra, Riad y las montañas del Asir
 
 **Stato bozza:** 🟡 en elaboración
-**Periodo del viaggio:** de noviembre a marzo, con la excepción del Asir, donde la buena estación es el verano
+**Periodo del viaggio:**
 **Durata:** 12 días, 11 noches
 **Compagni di viaggio:** con amigos, por nuestra cuenta, con vuelos internos, coche de alquiler y visado electrónico
 **Categoria:** Medio Oriente · Arabia Saudita · archeologia · deserto · montagna

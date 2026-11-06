@@ -15,6 +15,7 @@ import type { TripMeta } from '@/lib/types'
 export const indiaSudTajMahalMeta: TripMeta = {
   tripSlug: 'india-sud-taj-mahal',
   paeseSlug: 'india',
+  mesiConsigliati: [12, 1, 2, 3],
   ritmo:
     'Pieno nei primi quattro giorni (Delhi, il treno per Agra, il Taj all\'alba e il volo per Chennai), poi regolare: una tappa nuova ogni uno o due giorni lungo il Tamil Nadu e il Kerala, con trasferimenti in auto di 2-6 ore, una notte lenta in houseboat e due giornate a Fort Kochi. Si accelera alla fine, con due notti di treno per Hampi.',
   trasporti:
@@ -34,7 +35,6 @@ export const indiaSudTajMahalMeta: TripMeta = {
     'I massi di granito e le rovine di Hampi al tramonto dalla collina di Matanga',
   ],
   criticita: [
-    'Non è un viaggio fatto da Rick: è una proposta costruita sulla ricerca, da verificare prima di partire',
     'Il Giorno 4 è stretto: Taj all\'alba, treno per Delhi e volo per Chennai. In dicembre-gennaio la nebbia ritarda i treni, e serve margine',
     'I monsoni sono sfasati: Kerala piovoso da giugno ad agosto, costa del Tamil Nadu da ottobre a dicembre. La finestra buona per tutto è dicembre-marzo',
     'Madurai ha una notte sola, e Hampi chiede un volo e due notti di treno: chi ha 14 giorni toglie Hampi',
@@ -43,7 +43,7 @@ export const indiaSudTajMahalMeta: TripMeta = {
   budgetTotale: undefined,
   viaggioInBreve: {
     conChiSonoPartito:
-      'proposta non vissuta, pensata per viaggiare in autonomia, in coppia o in piccolo gruppo, con treno e volo al Nord, autista al Sud e treni notturni per Hampi',
+      'in autonomia, con treno e volo al Nord, autista al Sud e treni notturni per Hampi',
     treEsperienzePiuBelle:
       'Il Taj Mahal all\'alba, il tempio di Meenakshi a Madurai, la notte in houseboat sulle backwaters',
     aChiLoConsiglio: 'a chi ha diciassette giorni tra dicembre e marzo e non vuole scegliere tra il Taj Mahal e l\'India del Sud',

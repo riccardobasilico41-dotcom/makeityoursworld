@@ -4,7 +4,7 @@ import type { TripMeta } from '@/lib/types'
 // in 12 giorni». Il testo narrativo resta nel markdown (src/content/viaggi/98-irlanda-due-irlande.md).
 // `titoloGiorno` deve combaciare esattamente con le intestazioni "### Giorno N — ..." del markdown.
 //
-// Viaggio in forma di guida: Rick non l'ha fatto, niente campi personali. Foto dei giorni da
+// Viaggio di Rick (conferma 6/11/2026) in forma di guida, niente campi personali inventati. Foto dei giorni da
 // Wikimedia Commons, crediti in docs/irlanda-registri.md (da copiare in viaggi-giorno-foto-crediti.ts).
 // Il viaggio tocca due schede: paeseSlug è 'irlanda', la tappa di apertura (stesso criterio di
 // capitali-baltiche.ts e centro-america-itinerario.ts). Limite noto del tipo TripMeta: DayTimeline e
@@ -17,6 +17,8 @@ const FOTO = '/images/viaggi/irlanda-due-irlande'
 export const irlandaDueIrlandeMeta: TripMeta = {
   tripSlug: 'irlanda-due-irlande',
   paeseSlug: 'irlanda',
+  provenienza: 'journey',
+  mesiConsigliati: [5, 6, 7, 8, 9],
   ritmo:
     'Medio con qualche giornata intensa: due giorni fermi a Dublino, poi un cambio di base quasi ogni sera, con tappe in auto brevi al sud e due giornate lunghe (Dingle-Galway con le Cliffs of Moher, Galway-Derry).',
   trasporti:

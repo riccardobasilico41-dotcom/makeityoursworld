@@ -1,7 +1,7 @@
 # Bali, Sulawesi e Raja Ampat in due settimane: dalle risaie ai reef più ricchi del mondo
 
 **Stato bozza:** 🟡 in lavorazione (Bali, Sulawesi e Raja Ampat li ha visti Rick, Raja Ampat ad agosto 2026; voli, traghetti e prezzi verificati il 5 novembre 2026 su fonti ufficiali e di settore, da ricontrollare prima di partire. Importo del permesso di Raja Ampat per gli stranieri non confermato)
-**Periodo del viaggio:** pensato per luglio-ottobre. Bali e Sulawesi sono nella stagione secca da aprile-maggio a ottobre; a Raja Ampat la finestra migliore va da ottobre ad aprile, ma d'estate il mare resta bellissimo, con più vento e meno gente
+**Periodo del viaggio:** Raja Ampat ad agosto 2026
 **Durata:** 12 giorni, 11 notti
 **Compagni di viaggio:** in autonomia, con driver a Bali, un operatore locale nel nord di Sulawesi, tre voli interni, traghetto veloce e barche degli homestay a Raja Ampat
 **Categoria:** Asia · Indonesia · Bali · Sulawesi · Raja Ampat · mare · snorkeling · immersioni · natura
@@ -14,6 +14,8 @@ Raja Ampat è il posto più bello che ho visto sott'acqua, e anche il più fatic
 Dodici giorni sono pochi per tre isole, e lo dico subito: ogni isola merita almeno una settimana, se non di più. Questo è il giro per chi ha poco tempo e vuole vedere quanto è diversa l'Indonesia da un'isola all'altra. Più sotto ci sono anche le due versioni con una sola isola oltre a Bali: solo Sulawesi o solo Raja Ampat. Si scelgono in base al periodo.
 
 Ci siamo stati ad agosto, che su tutte le guide è segnato come la stagione sbagliata per Raja Ampat. In parte lo è, ma in modo diverso da come ci si aspetta: il mare è stato clamoroso lo stesso, dieci giorni senza vedere una goccia di pioggia. Il vento invece si è fatto sentire, e ha allungato un paio di trasferimenti tra le isole.
+
+Questo itinerario combina più viaggi in un unico percorso pratico: sono luoghi che ho visitato personalmente in momenti diversi, rimessi in fila per scoprire il meglio di ogni destinazione.
 
 ## Scheda pratica
 - **Quando andare:** a Bali la stagione secca va da aprile a ottobre, a Sulawesi da maggio a ottobre. A Raja Ampat la finestra migliore è ottobre-aprile, con mare più calmo e più mante e grandi pelagici. Da maggio a settembre soffiano i venti da sud-est: i trasferimenti possono allungarsi e le uscite nelle zone esposte possono saltare. Il mese che mette d'accordo tutte e tre è **ottobre**. D'estate funziona lo stesso, accettando il vento.

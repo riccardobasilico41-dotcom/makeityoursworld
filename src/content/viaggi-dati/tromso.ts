@@ -15,6 +15,8 @@ import type { TripMeta } from '@/lib/types'
 export const tromsoMeta: TripMeta = {
   tripSlug: 'tromso',
   paeseSlug: 'norvegia',
+  provenienza: 'journey',
+  mesiConsigliati: [9, 10, 11, 12, 1, 2, 3],
   ritmo: 'Medio — una escursione organizzata (mezza giornata o serata) al giorno, alternata a tempo libero in città',
   trasporti: 'Volo diretto o con scalo su Tromsø, poi a piedi in città e minibus/pullman organizzati per le escursioni',
   stile: ['natura', 'avventura', 'inverno estremo'],

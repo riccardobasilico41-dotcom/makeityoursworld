@@ -1,7 +1,7 @@
 # Las Eolias en velero: ocho días, siete islas
 
 **Stato bozza:** 🟡 en elaboración
-**Periodo del viaggio:** **junio o septiembre**
+**Periodo del viaggio:**
 **Durata:** 8 días, 7 noches — la semana clásica de sábado a sábado
 **Compagni di viaggio:** con amigos, en velero, con patrón
 **Categoria:** Europa · Italia · Sicilia · vela · vulcani · isole

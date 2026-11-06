@@ -10,6 +10,8 @@ import type { TripMeta } from '@/lib/types'
 export const coreaDelSudItinerarioMeta: TripMeta = {
   tripSlug: 'corea-del-sud-itinerario',
   paeseSlug: 'corea-del-sud',
+  provenienza: 'journey',
+  mesiConsigliati: [4, 10, 11],
   ritmo: 'Equilibrato: due blocchi urbani, due tappe rurali e una chiusura sull\'isola, con i trasferimenti affidati ad alta velocità e autobus express',
   trasporti: 'KTX sull\'asse Seoul-Gyeongju-Busan, autobus express per Sokcho e Andong, volo per Jeju, auto a noleggio solo sull\'isola',
   stile: ['storia contemporanea', 'cultura', 'gastronomia'],

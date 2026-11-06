@@ -10,6 +10,8 @@ import type { TripMeta } from '@/lib/types'
 export const messicoBeachLifeMeta: TripMeta = {
   tripSlug: 'messico-beach-life',
   paeseSlug: 'messico',
+  provenienza: 'journey',
+  mesiConsigliati: [],
   ritmo: 'Intenso — pochi giorni di vero riposo, molti transfer e giornate a tappe serrate',
   trasporti: 'Van privato con autista per i trasferimenti principali, bus ADO e traghetto per Holbox',
   stile: ['mare', 'cultura', 'natura', 'nightlife'],

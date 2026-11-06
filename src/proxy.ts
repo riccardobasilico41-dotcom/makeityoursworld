@@ -1,7 +1,6 @@
 import { NextResponse, type NextRequest } from 'next/server'
-import { canonico } from '@/lib/i18n/percorsi'
-import { LINGUE_PUBBLICATE, SEGMENTI } from '@/lib/i18n/config'
-import { localizza } from '@/lib/i18n/percorsi'
+import { canonico, localizza } from '@/lib/i18n/percorsi'
+import { LINGUE_PUBBLICATE, SEGMENTI, isLingua } from '@/lib/i18n/config'
 import { VECCHI_SLUG_VIAGGI } from '@/lib/vecchi-slug'
 
 /*
@@ -10,6 +9,7 @@ import { VECCHI_SLUG_VIAGGI } from '@/lib/vecchi-slug'
  * interna app/[lang]/<percorso canonico>, quindi le pagine restano una sola per tutte le lingue.
  *
  * - /en/… non è un indirizzo pubblico (l'inglese non ha prefisso): 308 alla forma senza /en.
+ * - Prefissi doppi (/it/en/…, /es/en/…): 308 alla pagina equivalente.
  * - I vecchi indirizzi italiani senza prefisso (/viaggi/…, /destinazioni/…) sono 308 verso /it/…,
  *   così i link già in giro e quelli indicizzati non si perdono.
  */
@@ -26,8 +26,19 @@ export function proxy(request: NextRequest) {
   // inglese arrivava dopo due redirect e in italiano.
   if (pathname.startsWith('/en/') && pathname.endsWith('/opengraph-image')) return NextResponse.next()
 
+  // /en/… → stessa pagina senza prefisso, con gli slug inglesi. Vale sia per /en/trips/… sia per la rotta
+  // interna /en/viaggi/… che il selettore della lingua metteva negli href (prima finiva su /viaggi/… e poi
+  // in italiano su /it/viaggi/…).
   if (pathname === '/en' || pathname.startsWith('/en/')) {
-    url.pathname = pathname.slice(3) || '/'
+    url.pathname = localizza(canonico(pathname).percorso, 'en')
+    return NextResponse.redirect(url, 308)
+  }
+
+  // prefisso doppio (/it/en/viaggi/…, /es/en/…, /it/es/…): indirizzi sbagliati generati dal vecchio selettore
+  // e forse già condivisi o indicizzati. 308 alla pagina equivalente nella lingua del primo prefisso.
+  const [, p1, p2] = pathname.split('/')
+  if ((p1 === 'it' || p1 === 'es') && isLingua(p2)) {
+    url.pathname = localizza(canonico(pathname.slice(p1.length + 1)).percorso, p1)
     return NextResponse.redirect(url, 308)
   }
 

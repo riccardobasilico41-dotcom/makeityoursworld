@@ -1,7 +1,7 @@
 # Sicilia oriental en 10 días: el Etna, los griegos y el barroco
 
 **Stato bozza:** 🟡 en preparación
-**Periodo del viaggio:** **mayo-junio o septiembre-octubre**
+**Periodo del viaggio:**
 **Durata:** 10 días, 9 noches
 **Compagni di viaggio:** con amigos, por libre, con coche de alquiler
 **Categoria:** Europa · Italia · Sicilia · archeologia · vulcani · gastronomia

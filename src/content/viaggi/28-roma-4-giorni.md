@@ -1,7 +1,7 @@
 # Roma in 4 giorni (e come farla in 2 senza rovinarla)
 
 **Stato bozza:** 🟡 in lavorazione (itinerario e informazioni pratiche verificate; i passaggi in prima persona sono scritti come bozza da rileggere e personalizzare)
-**Periodo del viaggio:** **aprile-inizio giugno oppure ottobre-novembre**
+**Periodo del viaggio:**
 **Durata:** 4 giorni, 3 notti — con una versione compressa da 2 giorni
 **Compagni di viaggio:** con amici, in autonomia, tutto a piedi e in metro
 **Categoria:** Europa · Italia · Roma · archeologia · arte · gastronomia

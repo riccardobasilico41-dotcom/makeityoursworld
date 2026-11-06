@@ -1,7 +1,7 @@
 # Corea del Sur en dos semanas: de la DMZ a las haenyeo de Jeju
 
 **Stato bozza:** 🟡 en elaboración
-**Periodo del viaggio:** primavera u otoño — abril para los cerezos en flor, octubre y principios de noviembre para el follaje
+**Periodo del viaggio:**
 **Durata:** 14 días, 13 noches
 **Compagni di viaggio:** con amigos, por libre, con KTX y autobuses exprés reservados con antelación y coche de alquiler solo en Jeju
 **Categoria:** Asia · Corea del Sud · storia contemporanea · DMZ · haenyeo · gastronomia

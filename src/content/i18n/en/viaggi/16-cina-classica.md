@@ -1,7 +1,7 @@
 # Classic China in 15 Days: Beijing, Xi'an, Shanghai, Hong Kong and Macau
 
 **Stato bozza:** 🟡 in progress
-**Periodo del viaggio:** spring or fall — the right window is April-May or September-October, avoiding the first week of October
+**Periodo del viaggio:**
 **Durata:** 15 days, 14 nights
 **Compagni di viaggio:** with friends, independent, with high-speed trains booked from Italy
 **Categoria:** Asia · Cina · grandi classici · alta velocità · megalopoli · storia

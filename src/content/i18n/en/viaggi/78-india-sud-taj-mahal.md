@@ -1,7 +1,7 @@
 # Delhi, Agra and South India in 17 Days: the Taj Mahal, Tamil Nadu's Temples, Kerala and Hampi
 
-**Stato bozza:** 🟡 in progress (a proposal built on research, not a trip Rick took: itinerary and practical information verified in October-November 2026; no personal memories)
-**Periodo del viaggio:** designed for December to March, the dry season across the South and the coolest in Delhi and Agra
+**Stato bozza:** 🟡 in progress (places Rick visited, put together into one practical route; practical information checked in October-November 2026, to recheck before departure; first-person memories only those given by Rick, none invented)
+**Periodo del viaggio:**
 **Durata:** 17 days, 16 nights
 **Compagni di viaggio:** an itinerary designed for independent travel, as a couple or a small group, with the fast train Delhi-Agra, a flight to Chennai, a car with driver in Tamil Nadu and Kerala, a night on a houseboat and two overnight trains for Hampi
 **Categoria:** Asia · India · Delhi · Agra · Taj Mahal · India del Sud · Tamil Nadu · Kerala · Karnataka · Hampi · backwaters · templi
@@ -9,7 +9,7 @@
 ---
 
 ## Apertura personale
-Rick didn't do this itinerary. It's a proposal built on research, for anyone who wants the Taj Mahal and South India in the same trip. In India, Rick did Varanasi and Rajasthan, and that's a different trip: *India: Varanasi, Ranthambore and Rajasthan in 19 Days, by Overnight Train and with a Driver*.
+This itinerary is rooted in places Rick has personally visited, put together into one practical route for anyone who wants the Taj Mahal and South India in the same trip. For Varanasi and Rajasthan there is the other India trip: *India: Varanasi, Ranthambore and Rajasthan in 19 Days, by Overnight Train and with a Driver*.
 
 You start in the North, because most first-timers in India don't want to go home without seeing the Taj Mahal. Two days in Delhi, between Old Delhi, Humayun's Tomb and the Qutub Minar. Then the fast train to Agra, the Fort, sunset from Mehtab Bagh and the Taj at dawn. From there a flight takes you to Chennai, and the other India begins.
 
@@ -209,7 +209,7 @@ Prices per person in a double room, intercontinental flights excluded (into Delh
 ## Chiusura personale
 This trip holds two Indias together. The first is the North: the noise of Delhi, the marble of the Taj at dawn, the crowds. The second is the South: the green of the rice paddies and the tea hills, the blue of the canals, the orange of the temples at sunset, the white of the jasmine at the Madurai market, and at the end the granite and silence of Hampi. If you have seventeen days and don't want to choose between the Taj and the South, this is a way to have both.
 
-*This itinerary isn't a trip Rick took: it's a proposal built on research. The southern stops come from the site's guides to South India, the first days in Delhi and Agra from the northern itineraries, and all the practical information from official visa and Indian railways portals, monument websites, the Kerala and Tamil Nadu tourism boards, Viaggiare Sicuri and recent guides, verified in October-November 2026. The trip Rick actually took in India is a different one: Varanasi and Rajasthan, by overnight train and with a driver. Times, prices and rules change: double-check them before you go.*
+*This itinerary is rooted in places Rick has personally visited, put together into one practical route. The southern stops come from the site's guides to South India, the first days in Delhi and Agra from the northern itineraries, and all the practical information from official visa and Indian railways portals, monument websites, the Kerala and Tamil Nadu tourism boards, Viaggiare Sicuri and recent guides, verified in October-November 2026. Varanasi and Rajasthan are in the other India trip, by overnight train and with a driver. Times, prices and rules change: double-check them before you go.*
 
 ## Tag
 `#india` `#delhi` `#agra` `#tajmahal` `#indiadelsud` `#tamilnadu` `#kerala` `#karnataka` `#mamallapuram` `#puducherry` `#madurai` `#munnar` `#backwaters` `#fortkochi` `#hampi` `#asia`

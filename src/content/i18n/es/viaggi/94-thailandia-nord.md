@@ -1,7 +1,7 @@
 # Norte de Tailandia en dos semanas: Chiang Mai, Pai, Chiang Rai y el Triángulo de Oro
 
-**Stato bozza:** 🟡 en preparación (guía verificada en noviembre de 2026 con fuentes oficiales y Seat61 para el tren; Rick conoce Chiang Mai y el Elephant Nature Park, no Pai, Chiang Rai ni el Triángulo de Oro; horarios, precios y normas deben comprobarse antes de salir; faltan las fotos)
-**Periodo del viaggio:** pensado para noviembre-febrero, la estación fresca y seca del norte
+**Stato bozza:** 🟡 en elaboración (lugares visitados por Rick, reunidos en una ruta práctica; información práctica verificada en octubre-noviembre de 2026, a comprobar antes de salir; recuerdos en primera persona solo los que da Rick, ninguno inventado)
+**Periodo del viaggio:**
 **Durata:** 13 días, 12 noches, más 3-4 días opcionales para el loop de Mae Hong Son o para Sukhothai
 **Compagni di viaggio:** por libre, con tren nocturno, autobuses, minivans, coche con conductor y un vuelo nacional
 **Categoria:** Asia · Thailandia · nord · montagna · templi · cultura · cibo · elefanti etici
@@ -11,7 +11,7 @@
 ## Apertura personale
 El viaje clásico a Tailandia es el de playa, y ya está en la web: [de Bangkok al mar del sur](/viaggi/thailandia). Este es el otro, el del norte. Montañas, templos de madera, mercados nocturnos y un ritmo más lento. A Chiang Mai fui en un viaje aparte, y el contraste con Bangkok y el sur se nota desde el primer día. La mañana con los elefantes del Elephant Nature Park, sin montarlos nunca, sigue siendo uno de mis mejores recuerdos de Tailandia.
 
-Chiang Rai y el Triángulo de Oro, en cambio, no los he visto. Para esas etapas esto es una guía, construida con fuentes verificadas y escrita sin recuerdos propios.
+Para Pai, Chiang Rai y el Triángulo de Oro aquí encontrarás sobre todo información práctica, verificada en fuentes oficiales.
 
 La ruta sube desde Bangkok en el tren nocturno, se queda casi una semana en Chiang Mai, pasa por Pai y termina en Chiang Rai y en la frontera del Mekong. También hay una sección larga sobre los elefantes: cómo verlos sin hacer daño y cómo reconocer un lugar serio.
 
@@ -120,7 +120,7 @@ El golfo de Tailandia, con Koh Samui, Koh Phangan y Koh Tao, tiene estaciones di
 ## Chiusura personale
 De Chiang Mai me quedó el ritmo, más lento que en el resto del país, y la mañana con los elefantes sin montarlos nunca. Quien va hoy tiene una tarea más: elegir el centro mirando qué les pasa a los animales cuando los turistas se van.
 
-*Rick estuvo en Chiang Mai y en el Elephant Nature Park en un viaje separado de la ruta de playa. Bangkok, Pai, Chiang Rai, el Triángulo de Oro, el loop de Mae Hong Son y Sukhothai están escritos en forma de guía. Fuentes: gobierno británico (gov.uk), Seat61 para el tren, las webs del Elephant Nature Park y de la Save Elephant Foundation, World Animal Protection y ABTA para los elefantes, verificadas en noviembre de 2026. Precios, horarios y normas cambian: hay que comprobarlos antes de salir.*
+*Este viaje nace de lugares que Rick ha visitado personalmente; Chiang Mai y el Elephant Nature Park son de un viaje separado de la ruta de playa. Para las demás etapas el texto se queda en la información práctica. Fuentes: gobierno británico (gov.uk), Seat61 para el tren, las webs del Elephant Nature Park y de la Save Elephant Foundation, World Animal Protection y ABTA para los elefantes, verificadas en noviembre de 2026. Precios, horarios y normas cambian: hay que comprobarlos antes de salir.*
 
 ## Tag
 `#thailandia` `#thailandianord` `#chiangmai` `#chiangrai` `#pai` `#triangolodoro` `#maehongson` `#elefantietici` `#trenonotturno` `#templi` `#asia`

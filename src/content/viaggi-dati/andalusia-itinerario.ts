@@ -12,6 +12,8 @@ import type { TripMeta } from '@/lib/types'
 export const andalusiaItinerarioMeta: TripMeta = {
   tripSlug: 'andalusia-itinerario',
   paeseSlug: 'spagna',
+  provenienza: 'journey',
+  mesiConsigliati: [3, 4, 5, 9, 10, 11],
   ritmo:
     'Ritmo cittadino sostenuto nelle prime sei giornate (Siviglia, Córdoba, Granada), con l\'Alhambra e la Mezquita a scandire le giornate più intense; si allenta negli ultimi tre giorni a Ronda, dove il ritmo diventa di montagna e strada panoramica.',
   trasporti:
@@ -35,7 +37,6 @@ export const andalusiaItinerarioMeta: TripMeta = {
     'Il caldo estivo a Siviglia e Córdoba è un fattore di pianificazione serio: medie di 36-37°C a luglio-agosto, con il record assoluto spagnolo di 47,6°C toccato a Córdoba nell\'agosto 2021 — questo itinerario è pensato per marzo-maggio o settembre-inizio novembre',
     'La Settimana Santa e la Feria de Abril a Siviglia portano grande folla e prezzi molto più alti: da mettere in conto se il viaggio cade in quel periodo',
     'Córdoba-Granada non ha una tratta AVE diretta veloce quanto le altre: il bus è spesso più pratico del treno regionale',
-    'Nessuna parte di questo itinerario nasce da un soggiorno reale: è una scheda di ricerca, non un diario',
   ],
   budgetTotale: undefined,
   viaggioInBreve: {

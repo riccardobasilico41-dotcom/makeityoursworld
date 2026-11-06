@@ -12,6 +12,7 @@ import type { TripMeta } from '@/lib/types'
 export const thailandiaNordMeta: TripMeta = {
   tripSlug: 'thailandia-nord',
   paeseSlug: 'thailandia',
+  mesiConsigliati: [11, 12, 1, 2],
   ritmo:
     'Medio: una notte in treno all\'andata, quasi una settimana ferma a Chiang Mai con giornate piene alternate a giornate lente, due tratte in minivan su strade di montagna per Pai e un bus di circa tre ore e mezza per Chiang Rai.',
   trasporti:

@@ -1,7 +1,7 @@
 # Canada orientale on the road in 16 giorni: Toronto, Niagara, Ottawa, Montréal, Québec e Tadoussac
 
 **Stato bozza:** 🟡 in lavorazione (viaggio fatto da Rick; itinerario e informazioni pratiche verificati, mancano aneddoti e ricordi personali da aggiungere dal diario)
-**Periodo del viaggio:** pensato per giugno-settembre, quando il battello del Niagara e le crociere delle balene a Tadoussac sono in servizio, oppure per fine settembre-metà ottobre, con i colori dell'autunno nelle Laurentides e in Charlevoix
+**Periodo del viaggio:**
 **Durata:** 16 giorni, 15 notti, più un'estensione facoltativa di 3-5 giorni a Churchill (Manitoba) per gli orsi polari
 **Compagni di viaggio:** con amici, in autonomia, con un pick-up a noleggio ritirato a Toronto e riconsegnato a Montréal, circa 1.900-2.000 km di guida
 **Categoria:** Nord America · Canada · Ontario · Québec · road trip · cascate del Niagara · città · balene · orsi polari

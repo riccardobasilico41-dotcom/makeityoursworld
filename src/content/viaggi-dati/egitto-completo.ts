@@ -3,11 +3,13 @@ import type { TripMeta } from '@/lib/types'
 // Overlay di metadati per "Egitto completo in 21 giorni: piramidi, Siwa, Abu Simbel,
 // il Nilo e le immersioni nel Mar Rosso" (src/content/viaggi/72-egitto-completo.md).
 // `titoloGiorno` deve combaciare esattamente con le intestazioni "### Giorno N — ..."
-// del markdown. Guida non vissuta: nessun campo personale, immagini da recuperare.
+// del markdown. Viaggio di Rick (conferma 6/11/2026) scritto in forma di guida: nessun campo personale, immagini da recuperare.
 
 export const egittoCompletoMeta: TripMeta = {
   tripSlug: 'egitto-completo',
   paeseSlug: 'egitto',
+  provenienza: 'journey',
+  mesiConsigliati: [10, 11, 3, 4],
   ritmo:
     'Impegnativo: sveglie all\'alba in quasi tutti i siti, tre lunghe giornate di strada nel deserto occidentale e una notte corta per Abu Simbel; si allenta nelle tre notti di crociera sul Nilo e nei quattro giorni finali di immersioni.',
   trasporti:

@@ -1,7 +1,7 @@
 # Venecia en 3 días, fuera del eje Rialto-San Marcos
 
 **Stato bozza:** 🟡 en preparación
-**Periodo del viaggio:** **noviembre-marzo** para la Venecia de verdad; **abril-mayo y octubre** como compromiso
+**Periodo del viaggio:**
 **Durata:** 3 días, 2 noches
 **Compagni di viaggio:** con amigos, por libre, todo a pie y en vaporetto
 **Categoria:** Europa · Italia · Venezia · arte · laguna · gastronomia

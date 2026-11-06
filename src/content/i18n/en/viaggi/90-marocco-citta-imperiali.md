@@ -1,7 +1,7 @@
 # Morocco: the Imperial Cities and the Blue City in 11 Days
 
 **Stato bozza:** 🟡 work in progress (a trip Rick took; practical information checked in November 2026; personal memories and photos still missing)
-**Periodo del viaggio:** designed for spring or fall, when the inland cities are not yet scorching
+**Periodo del viaggio:**
 **Durata:** 11 days, 10 nights
 **Compagni di viaggio:** a road itinerary, with a car and driver or a rental car, and CTM buses where they make sense
 **Categoria:** Africa · Marocco · città imperiali · Fès · Meknès · Volubilis · Rabat · Chefchaouen · medine · on the road

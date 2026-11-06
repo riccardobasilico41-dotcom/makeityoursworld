@@ -1,7 +1,7 @@
 # Scozia in auto: Edimburgo, Highlands e distillerie in due settimane
 
 **Stato bozza:** 🟡 in lavorazione (itinerario costruito sul viaggio di Rick, fatto a luglio in auto, e completato con la ricerca: informazioni pratiche, orari e prezzi delle distillerie verificati a novembre 2026; foto di repertorio da Wikimedia Commons)
-**Periodo del viaggio:** luglio. L'itinerario va bene da maggio a settembre, con le giornate più lunghe, e per Rick anche l'autunno, con il foliage, è bellissimo; il meteo resta imprevedibile in ogni stagione
+**Periodo del viaggio:** luglio
 **Durata:** 12 giorni, 11 notti, più 4-5 giorni per la variante North Coast 500
 **Compagni di viaggio:** itinerario pensato per una coppia o un piccolo gruppo con auto a noleggio, e almeno una persona che guida e non beve
 **Categoria:** Europa · Scozia · Edimburgo · Highlands · Skye · Oban · Loch Ness · Speyside · distillerie · whisky · on the road · North Coast 500
@@ -20,6 +20,7 @@ Chi ha qualche giorno in più può salire fino al nord del nord, sulla **North C
 E una regola vale per tutto il viaggio, distillerie comprese. In Scozia il limite di alcol alla guida è più basso che in Inghilterra, ma il consiglio di Rick è più semplice ancora: **tolleranza zero**. Chi guida non beve, nemmeno l'assaggio.
 
 ## Scheda pratica
+- **Quando andare:** L'itinerario va bene da maggio a settembre, con le giornate più lunghe, e per Rick anche l'autunno, con il foliage, è bellissimo; il meteo resta imprevedibile in ogni stagione
 - **Documenti:** la Scozia fa parte del Regno Unito, fuori dall'Unione Europea. Dal 2 aprile 2025 i cittadini italiani hanno bisogno dell'**ETA**, da chiedere su gov.uk o con l'app ufficiale UK ETA: costa 20 sterline (2026) e vale 2 anni, o fino alla scadenza del passaporto. Serve il **passaporto**: la carta d'identità è accettata solo in casi particolari.
 - **Auto:** si noleggia a Edimburgo. La patente italiana vale senza permesso internazionale. Conviene un'auto non troppo grande, per le strade a una corsia.
 - **Guida a sinistra:** sulle strade a una corsia ci si ferma nella piazzola (passing place) alla propria sinistra, o si aspetta davanti a quella sulla destra, e si ringrazia con un cenno. Nelle piazzole non si parcheggia. Pecore e cervi attraversano all'improvviso.

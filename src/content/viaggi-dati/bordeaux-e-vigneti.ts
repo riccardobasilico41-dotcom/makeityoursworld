@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const bordeauxEVignetiMeta: TripMeta = {
   tripSlug: 'bordeaux-e-vigneti',
   paeseSlug: 'francia',
+  provenienza: 'journey',
+  mesiConsigliati: [5, 6, 9, 10],
   ritmo: 'Due giorni in città, quattro tra Saint-Émilion, Médoc e Sauternes, un giorno sull\'oceano ad Arcachon',
   trasporti: 'Auto con guidatore designato per le degustazioni; treno per Arcachon',
   stile: [

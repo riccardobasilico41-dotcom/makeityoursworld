@@ -8,6 +8,8 @@ import type { TripMeta } from '@/lib/types'
 export const siciliaItinerarioMeta: TripMeta = {
   tripSlug: 'sicilia-itinerario',
   paeseSlug: 'italia',
+  provenienza: 'journey',
+  mesiConsigliati: [5, 6, 9, 10],
   ritmo: 'Equilibrato: due o tre basi e trasferimenti brevi, evitando il giro completo dell\'isola che trasforma la vacanza in guida',
   trasporti: 'Auto a noleggio indispensabile; sulle statali interne i tempi vanno aumentati di un terzo',
   stile: ['archeologia', 'vulcani', 'gastronomia'],

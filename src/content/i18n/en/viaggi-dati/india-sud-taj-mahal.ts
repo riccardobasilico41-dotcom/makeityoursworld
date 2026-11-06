@@ -22,7 +22,6 @@ export const indiaSudTajMahalMeta: TripMeta = {
     "The granite boulders and ruins of Hampi at sunset from Matanga hill",
   ],
   criticita: [
-    "This isn't a trip Rick took: it's a proposal built on research, to be double-checked before you go",
     "Day 4 is tight: the Taj at dawn, the train to Delhi and the flight to Chennai. In December-January fog delays trains, so you need margin",
     "The monsoons are out of sync: Kerala is rainy from June to August, the Tamil Nadu coast from October to December. The good window for everything is December to March",
     "Madurai gets only one night, and Hampi takes a flight and two nights on the train: with 14 days, drop Hampi",
@@ -31,7 +30,7 @@ export const indiaSudTajMahalMeta: TripMeta = {
   budgetTotale: undefined,
   viaggioInBreve: {
     conChiSonoPartito:
-      'a proposal, not a lived trip, designed for independent travel as a couple or a small group, with train and flight in the North, a driver in the South and overnight trains for Hampi',
+      'independent, with train and flight in the North, a driver in the South and overnight trains for Hampi',
     treEsperienzePiuBelle:
       'The Taj Mahal at dawn, the Meenakshi temple in Madurai, the night on a houseboat on the backwaters',
     aChiLoConsiglio: "to anyone with seventeen days between December and March who doesn't want to choose between the Taj Mahal and South India",

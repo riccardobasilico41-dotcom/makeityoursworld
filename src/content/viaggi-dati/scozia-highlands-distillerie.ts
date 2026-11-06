@@ -13,6 +13,8 @@ const IMG = '/images/viaggi/scozia-highlands-distillerie'
 export const scoziaHighlandsDistillerieMeta: TripMeta = {
   tripSlug: 'scozia-highlands-distillerie',
   paeseSlug: 'scozia',
+  provenienza: 'journey',
+  mesiConsigliati: [5, 6, 7, 8, 9],
   ritmo:
     'Medio: due giorni a piedi a Edimburgo, poi tappe in auto di poche ore con molte soste. Il giorno 9 (Skye-Inverness) e il giorno 11 (Cairngorms-Edimburgo) sono i più lunghi al volante.',
   trasporti:

@@ -1,7 +1,7 @@
 # Egitto in 11 giorni: il Cairo, le piramidi, Luxor e il Mar Rosso
 
 **Stato bozza:** 🟡 in lavorazione (itinerario, prezzi e regole verificati a ottobre 2026 su fonti ufficiali e guide recenti; ricordi personali da aggiungere dal diario)
-**Periodo del viaggio:** pensato per ottobre-aprile, quando al Cairo e a Luxor si visita senza caldo estremo e il Mar Rosso resta balneabile; a maggio e a ottobre il mare è al suo meglio e i siti si fanno all'alba
+**Periodo del viaggio:**
 **Durata:** 11 giorni, 10 notti
 **Compagni di viaggio:** con amici, in autonomia, con un volo interno Cairo-Luxor, autista privato per il trasferimento Luxor-mare e qualche guida locale
 **Categoria:** Africa · Egitto · archeologia · piramidi · Nilo · Mar Rosso · snorkeling

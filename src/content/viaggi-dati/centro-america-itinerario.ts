@@ -27,6 +27,8 @@ import type { TripMeta } from '@/lib/types'
 export const centroAmericaItinerarioMeta: TripMeta = {
   tripSlug: 'centro-america-itinerario',
   paeseSlug: 'guatemala',
+  provenienza: 'combined',
+  mesiConsigliati: [12, 1, 2, 3, 4],
   ritmo:
     'Impegnativo a tratti e rilassato ad altri: due salite notturne in quota (Acatenango, Volcán Barú), una grotta fisicamente impegnativa (ATM) e giornate di puro relax caraibico, uniti da un lungo tratto via terra in Guatemala e Belize e da un volo diretto per raggiungere Panama',
   trasporti:

@@ -5,13 +5,15 @@ import type { TripMeta } from '@/lib/types'
 // markdown (src/content/viaggi/66-messico-dia-de-los-muertos.md).
 // `titoloGiorno` deve combaciare esattamente con le intestazioni
 // "### Giorno N — ..." del markdown.
-// Guida non vissuta: nessun campo miaEsperienza, pernottamenti indicati come
+// Viaggio di Rick (conferma 6/11/2026) scritto in forma di guida: nessun campo miaEsperienza, pernottamenti indicati come
 // zona consigliata ('consigliato'). Le immagini dei giorni si recuperano dopo
 // (campo `immagine` omesso apposta).
 
 export const messicoDiaDeLosMuertosMeta: TripMeta = {
   tripSlug: 'messico-dia-de-los-muertos',
   paeseSlug: 'messico',
+  provenienza: 'journey',
+  mesiConsigliati: [10, 11],
   ritmo:
     'Tranquillo nei primi giorni a Città del Messico e Puebla, intenso nelle tre notti della festa a Oaxaca (31 ottobre, 1 e 2 novembre), quando si dorme poco e si rientra tardi; di nuovo lento negli ultimi giorni al mare a Puerto Escondido.',
   trasporti:
