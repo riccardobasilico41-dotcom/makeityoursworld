@@ -126,10 +126,6 @@ export async function Footer() {
           <Link href="/cookie" className="underline decoration-cream/30 underline-offset-4 hover:text-cream">
             {t.cookie}
           </Link>
-          <span className="mx-2 text-cream/30">·</span>
-          <Link href="/crediti-fotografici" className="underline decoration-cream/30 underline-offset-4 hover:text-cream">
-            {t.crediti}
-          </Link>
         </p>
       </Container>
     </footer>

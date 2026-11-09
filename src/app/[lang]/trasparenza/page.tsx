@@ -197,10 +197,11 @@ const CORPO: Record<Lingua, (p: { email: string | null }) => ReactNode> = {
         Cosa succede ai tuoi dati quando clicchi uno di questi link è spiegato nell&apos;
         <Link href="/privacy">informativa privacy</Link> e nella <Link href="/cookie">cookie policy</Link>.
       </p>
-      <h2>Licenze delle immagini</h2>
+      <h2>Crediti fotografici</h2>
       <p>
-        Autori e licenze delle immagini di repertorio sono elencati nei{' '}
-        <Link href="/crediti-fotografici">crediti fotografici</Link>.
+        La maggior parte delle foto sono mie. Delle volte, quando non è possibile o quando quelle che ho fatto anni fa
+        sono venute male, uso foto di altri, con il loro permesso e citandoli correttamente: per ognuna trovi autore,
+        licenza e fonte nei <Link href="/crediti-fotografici">crediti fotografici</Link>.
       </p>
     </>
   ),
@@ -288,9 +289,11 @@ const CORPO: Record<Lingua, (p: { email: string | null }) => ReactNode> = {
         What happens to your data when you click one of these links is explained in the{' '}
         <Link href="/privacy">privacy notice</Link> and in the <Link href="/cookie">cookie policy</Link>.
       </p>
-      <h2>Image licenses</h2>
+      <h2>Photo credits</h2>
       <p>
-        Authors and licenses of the stock images are listed in the <Link href="/crediti-fotografici">photo credits</Link>.
+        Most of the photos are mine. Sometimes, when that isn&apos;t possible or when the ones I took years ago came out
+        badly, I use other people&apos;s photos, with their permission and crediting them properly: for each one you&apos;ll
+        find the author, license and source in the <Link href="/crediti-fotografici">photo credits</Link>.
       </p>
     </>
   ),
@@ -378,10 +381,11 @@ const CORPO: Record<Lingua, (p: { email: string | null }) => ReactNode> = {
         Lo que ocurre con tus datos cuando haces clic en uno de estos enlaces se explica en la{' '}
         <Link href="/privacy">política de privacidad</Link> y en la <Link href="/cookie">política de cookies</Link>.
       </p>
-      <h2>Licencias de las imágenes</h2>
+      <h2>Créditos fotográficos</h2>
       <p>
-        Los autores y las licencias de las imágenes de archivo figuran en los{' '}
-        <Link href="/crediti-fotografici">créditos fotográficos</Link>.
+        La mayoría de las fotos son mías. A veces, cuando no es posible o cuando las que hice hace años salieron mal,
+        uso fotos de otras personas, con su permiso y citándolas correctamente: de cada una encuentras autor, licencia y
+        fuente en los <Link href="/crediti-fotografici">créditos fotográficos</Link>.
       </p>
     </>
   ),

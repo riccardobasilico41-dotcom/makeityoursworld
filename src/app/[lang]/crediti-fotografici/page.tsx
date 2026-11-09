@@ -18,7 +18,7 @@ const T = {
   it: {
     titolo: 'Crediti fotografici',
     desc: 'Autori, opere e licenze delle foto e dei video di repertorio usati sul sito, con il link alla fonte originale.',
-    lead: 'Molte foto del sito sono di Rick, scattate durante i viaggi. Dove ci sono immagini o video di repertorio, qui trovi per ciascuno opera, autore e licenza, con il link alla fonte originale.',
+    lead: 'La maggior parte delle foto sono mie. Delle volte, quando non è possibile o quando quelle che ho fatto anni fa sono venute male, uso foto di altri, con il loro permesso e citandoli correttamente: qui trovi per ciascuna opera, autore e licenza, con il link alla fonte originale.',
     totale: (n: number) => `${n} file di repertorio.`,
     gruppi: {
       giorni: 'Foto dei viaggi giorno per giorno',
@@ -31,7 +31,7 @@ const T = {
   en: {
     titolo: 'Photo credits',
     desc: 'Authors, works and licenses of the stock photos and videos used on the site, with a link to the original source.',
-    lead: 'Many photos on the site are Rick’s, taken during the trips. Where there are stock images or videos, here you find the work, author and license for each, with a link to the original source.',
+    lead: 'Most of the photos are mine. Sometimes, when that isn’t possible or when the ones I took years ago came out badly, I use other people’s photos, with their permission and crediting them properly: here you find the work, author and license for each, with a link to the original source.',
     totale: (n: number) => `${n} stock files.`,
     gruppi: {
       giorni: 'Day-by-day trip photos',
@@ -44,7 +44,7 @@ const T = {
   es: {
     titolo: 'Créditos fotográficos',
     desc: 'Autores, obras y licencias de las fotos y los vídeos de archivo usados en el sitio, con el enlace a la fuente original.',
-    lead: 'Muchas fotos del sitio son de Rick, hechas durante los viajes. Donde hay imágenes o vídeos de archivo, aquí encuentras para cada uno la obra, el autor y la licencia, con el enlace a la fuente original.',
+    lead: 'La mayoría de las fotos son mías. A veces, cuando no es posible o cuando las que hice hace años salieron mal, uso fotos de otras personas, con su permiso y citándolas correctamente: aquí encuentras para cada una la obra, el autor y la licencia, con el enlace a la fuente original.',
     totale: (n: number) => `${n} archivos de repertorio.`,
     gruppi: {
       giorni: 'Fotos de los viajes día a día',
