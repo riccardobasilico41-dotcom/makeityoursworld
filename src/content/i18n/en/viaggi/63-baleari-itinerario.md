@@ -24,28 +24,60 @@ Eight days, linked by ferry, are enough to see all three without reducing them t
 ## Itinerario giorno per giorno
 
 ### Day 1 — Arrival in Palma de Mallorca
-We landed in Palma and headed to the center. We spent the afternoon at the **Cathedral of Palma (La Seu)**, Gothic, facing the sea, with Antoni Gaudí's interventions inside. The evening in the **Barrio Gótico**, among the alleys of the old town and the Almudaina Palace.
+We landed in Palma and headed to the center. Son Sant Joan airport is about ten kilometres from the city, and the public bus to the center and the harbour area is the easiest option for anyone picking up the rental car only the next day. Once the bags are dropped off, it is worth heading straight for the cathedral, because it closes early in the afternoon and cannot be visited on Sundays.
+
+We spent the afternoon at the **Cathedral of Palma (La Seu)**, Gothic, facing the sea, with Antoni Gaudí's interventions inside: the canopy over the altar and the light coming through the rose window, one of the largest Gothic windows in Europe. Outside, you walk around the façade to the **Parc de la Mar**, the pool that reflects it, the city's classic view. The evening in the **Barrio Gótico**, among the alleys of the old town and the Almudaina Palace, the former residence of the kings of Mallorca next to the cathedral. *The streets around Plaça Major and the Passeig del Born fill up after sunset: the right time for a first dinner of tapas and sobrasada.*
+
+**In practice:** La Seu open Monday to Friday until the afternoon and on Saturdays in the morning only, closed to visitors on Sundays · ticket about €10 with the museum, about €25 with the climb to the terraces · better to pick up the car on day 2, parking in the center is expensive and scarce.
 
 ### Day 2 — The Serra de Tramuntana: Valldemossa and Sóller
-A day for the **Serra de Tramuntana**, the UNESCO World Heritage mountain range that runs for 90 km along the northwest coast: **Valldemossa**, the stone village where Chopin and George Sand stayed, and **Sóller**, which you reach on the historic 1912 train (or by car). The afternoon at Port de Sóller, on the jagged coast below the Serra. Anyone wanting to add a stretch of hiking on the GR221 will find the details on the dedicated experience page.
+A day for the **Serra de Tramuntana**, the UNESCO World Heritage mountain range that runs for 90 km along the northwest coast. Set off early for **Valldemossa**, the stone village where Chopin and George Sand stayed in the winter of 1838-39, in the cells of the **Charterhouse**, which can be visited today. Arriving before ten means finding parking and alleys still empty, ahead of the coaches.
+
+From Valldemossa you drop down towards **Sóller**, which you reach on the historic 1912 train (or by car). The wooden train leaves from Palma and crosses the mountains in about an hour, through tunnels and olive groves: those driving can take the scenic road and save the train for another time. In Sóller the square is dominated by the church of Sant Bartomeu and the modernist buildings. The afternoon at Port de Sóller, on the jagged coast below the Serra, reachable by the historic tram. Anyone wanting to add a stretch of hiking on the GR221 will find the details on the dedicated experience page. *The Serra roads are narrow and full of hairpin bends: double the driving times your satnav gives you.*
+
+**In practice:** Sóller train about €23 one way and about €30 return, departures from Palma concentrated in the morning · tram to the port on a separate ticket · in Valldemossa and Sóller parking is paid and fills up by mid-morning.
 
 ### Day 3 — From Mallorca to Ibiza
-The morning is free, for Palma or one last tour of the Serra. In the afternoon we took the ferry to **Ibiza** (about 2h15-4h15 depending on the type of ship). The evening in the center of Ibiza Town.
+The morning is free, for Palma or one last tour of the Serra. Those staying in the city can go up to **Castell de Bellver**, the fourteenth-century circular castle on the hill above the harbour, or walk along the **Passeig Marítim**. It is also the moment to buy ensaïmadas to take away from the bakeries in the center. Better not to stray too far, though: the car has to be returned and you need to reach the port with time to spare.
+
+In the afternoon we took the ferry to **Ibiza** (about 2h15-4h15 depending on the type of ship). Fast ferries cost more but halve the time; conventional ones are slower and often cheaper, with outside decks for some air during the crossing. The evening in the center of Ibiza Town: the harbour, the **Marina** district with its low whitewashed houses and the first restaurants below the walls of Dalt Vila. *In summer the harbour area is crowded until late at night, and anyone sleeping there should be prepared for it.*
+
+**In practice:** Palma-Ibiza ferries with Baleària and Trasmed, to be booked ahead in July and August · arrive at the port at least an hour before departure, more if you are taking a car on board · in Ibiza Town you get around on foot, the car is only needed from day 5.
 
 ### Day 4 — Ibiza Town and Dalt Vila
-The day was for **Dalt Vila**, the fortified upper town of Ibiza Town, a UNESCO World Heritage site, with its Renaissance walls and medieval alleys. The afternoon is free between the port and the nearby beaches; for those looking for nightlife, a first evening at one of the historic clubs, to be booked ahead in high season.
+The day was for **Dalt Vila**, the fortified upper town of Ibiza Town, a UNESCO World Heritage site, with its Renaissance walls and medieval alleys. You enter through the **Portal de ses Taules**, the main gate with its drawbridge, and climb on foot between the bastions up to the **Cathedral**, at the top of the hill, with views over the harbour, the sea and, on clear days, Formentera. The morning hours are best: after midday the climb is tiring and there is little shade.
+
+The afternoon is free between the harbour and the nearby beaches: **Talamanca** is the most convenient from the center, while **Ses Salines**, to the south, lies inside the salt-flats natural park and needs a bus or car. For those looking for nightlife, a first evening at one of the historic clubs, to be booked well ahead in high season. *Clubs open late and most people arrive after one in the morning: a long dinner and a rest before going out help.* Those not interested in clubs can stay in Dalt Vila, quiet after sunset.
+
+**In practice:** Dalt Vila is explored on foot and needs no ticket, museums and the cathedral have shorter hours out of season · comfortable shoes, the streets are steep and cobbled · club tickets are expensive, buying online is better.
 
 ### Day 5 — Northern Ibiza: coves and markets
-A day in the **rural north of the island**: the coves of Cala Xarraca and Cala Sant Vicent, the village of **Santa Gertrudis de Fruitera** with its cafés and, if the calendar lines up, the Saturday market in Sant Joan or the hippie-craft market at Las Dalias. If the trip falls on a Sunday, the evening goes to **Benirràs** for the sunset with drums (see the dedicated experience page).
+A day in the **rural north of the island**, which can only really be done by car or scooter: there are buses but they run rarely. The morning is for the coves of Cala Xarraca and Cala Sant Vicent, reached on narrow roads between pine woods and almond terraces. Xarraca is small and rocky, with shallow clear water; Sant Vicent is wider, with sand and a few facilities. Arriving before ten in summer means finding space for the car and for your towel.
+
+At lunchtime you pass through the village of **Santa Gertrudis de Fruitera** with its cafés, around the square of the white church. If the calendar matches, you go to the Sunday market of **Sant Joan de Labritja** or to the hippie-craft market of **Las Dalias**, held on Saturdays at Sant Carles. If the trip falls on a Sunday, in the evening you head to **Benirràs** for the sunset with drums (see the dedicated experience page). *The road to Benirràs is narrow and in summer it is sometimes closed to traffic when the car park is full: leave early.*
+
+**In practice:** Sant Joan market on Sundays from the morning to early afternoon · Las Dalias on Saturdays all day, with shorter hours in winter and closed in January · to eat, the country restaurants of the north are the place for bullit de peix.
 
 ### Day 6 — From Ibiza to Menorca
-The ferry to **Menorca**, often with a stop or change in Mallorca depending on the available route. The afternoon in **Ciutadella**, the former capital, with its old harbor and the Gothic Cathedral inside the walls.
+The ferry to **Menorca**, often with a stop or change in Mallorca depending on the available route. It is the longest transfer day of the trip, and it is worth planning carefully: timetables and routes change a lot between summer and the shoulder season, and some combinations mean leaving at dawn. As an alternative, compare the ferry with inter-island flights, which almost always go through Palma.
+
+The afternoon in **Ciutadella**, the former capital, with its old harbour and the Gothic Cathedral inside the walls. The center can be walked in a couple of hours: the **Plaça des Born** with its obelisk and noble palaces, the **Carrer de Ses Voltes** under the arcades, and the walk down to the harbour, a long narrow inlet lined with restaurants. *At sunset it is worth staying by the harbour, when the light falls on the ochre houses and the tables fill up.* In the harbour you can eat caldereta de langosta, but it is not a cheap dish.
+
+**In practice:** check the Ibiza-Menorca route as soon as the dates are set, it has the fewest sailings · if you go via Mallorca, the Alcúdia-Ciutadella route is the shortest · pick up the car in Ciutadella or on arrival, on this island you really need it.
 
 ### Day 7 — Ciutadella and the Camí de Cavalls
-We devoted the morning to a stretch of the **Camí de Cavalls**, the coastal path around the island: some sections near Ciutadella are fine even for those who aren't fit. The afternoon at **Cala Macarelleta** or **Cala Turqueta**, among the least built-up coves in the Balearics.
+We dedicated the morning to a stretch of the **Camí de Cavalls**, the coastal path that goes around the island: some sections near Ciutadella are fine even for those who aren't fit. The path is marked with numbered posts and divided into stages; those on the south-west coast run through pine woods, low cliffs and coves. Start early, while the temperature is still bearable and the light on the sea is at its best.
+
+The afternoon at **Cala Macarelleta** or **Cala Turqueta**, among the least built-up coves in the Balearics: white sand, pines down to the water and no buildings around. From both beaches you can continue on foot along the Camí de Cavalls towards Macarella or Cala en Turqueta, linked by the same path. *In summer the Macarella car park is closed and replaced by a bus from Ciutadella, while the Turqueta one fills up by mid-morning: latecomers find the road barred.* Bring water and something to eat, because facilities are few or non-existent.
+
+**In practice:** the Camí de Cavalls is free, stages of a few hours with light hiking shoes and a hat · in high season the southern coves are best reached by bus or at dawn · no natural shade near the water, a beach umbrella helps.
 
 ### Day 8 — Mahón and end of the trip
-We moved to **Mahón (Maó)**, the current capital of Menorca, with one of the deepest natural harbors in the Mediterranean. One of the Talayotic megalithic sites in the area is worth a visit (for example Torre d'en Galmés), remains of a prehistoric civilization that exists only here. The trip ends with the flight home from Mahón airport.
+We moved to **Mahón (Maó)**, the current capital of Menorca, with one of the deepest natural harbours in the Mediterranean, several kilometres long. From Ciutadella you cross the island in under an hour, on the road through the middle. Mahón's center is walked between the market in the **Claustre del Carme** and the steps down to the harbour; boat trips leave from the harbour, the best way to grasp how deep it is.
+
+One of the Talayotic megalithic sites in the area is worth a visit (for example Torre d'en Galmés), remains of a prehistoric civilisation found only here. Torre d'en Galmés lies halfway between the two towns, with talaiots, houses and a taula, the T-shaped monument typical of Menorca. *The site is in the open with no shade: early morning or late afternoon are the best times.* The trip ends with the return flight from Mahón airport, a few kilometres from the center: with the car to return, allow an extra hour.
+
+**In practice:** Ciutadella-Mahón about 45 minutes by car · Torre d'en Galmés ticket of a few euros, shorter hours out of season, check on the Menorca Talayótica website · at Mahón harbour, taste the Mahón-Menorca PDO cheese and the local gin.
 
 ## What to see / what to do
 - **The Cathedral of Palma** and the Barrio Gótico in Mallorca.

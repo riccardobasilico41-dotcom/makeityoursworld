@@ -21,31 +21,39 @@ Paris is the city where the plan goes wrong most often, for a specific reason: t
 ## Itinerario giorno per giorno
 
 ### Day 1 — Île de la Cité and the old town
-In the morning we went to the **Sainte-Chapelle** (only if it's sunny: otherwise it's better to move it), then we saw Notre-Dame from the outside; if it's open, you can also do the interior visit. We had lunch in the Latin Quarter.
+In the morning we went to the **Sainte-Chapelle** (only if the sun is out: otherwise it's better to move it). The upper chapel, built by Louis IX in the mid-thirteenth century to hold the relics of the Passion, is almost entirely glass: fifteen windows around fifteen meters high, with more than a thousand biblical scenes, which in the morning sun color the whole floor. The entrance is inside the Palais de Justice, with security checks: *it pays to turn up ahead of your booked slot.* Then we saw Notre-Dame from the outside; if it's open, you can also visit the inside. Since it reopened in December 2024 entry has been free, and booking a time slot avoids the longest queues.
 
-We spent the afternoon in the **Marais**: Place des Vosges, the Musée Picasso in the Hôtel Salé and the narrow streets of the 3rd and 4th arrondissements.
+We had lunch in the Latin Quarter. We spent the afternoon in the **Marais**: Place des Vosges, the Musée Picasso in the Hôtel Salé and the narrow streets of the 3rd and 4th arrondissements. From the island you get there on foot in about twenty minutes, by way of the Île Saint-Louis. Place des Vosges, with its arcades and early seventeenth-century brick mansions, is the oldest planned square in Paris; the Musée Picasso holds the collection his heirs gave to the State. In between you walk along rue des Rosiers and rue Vieille-du-Temple. For the evening, Saint-Germain or the Marais again.
 
-For the evening, Saint-Germain or the Marais again.
+**In practice:** Sainte-Chapelle with a compulsory time slot, from about 13 euros in winter to about 20 in high season, a combined ticket with the Conciergerie exists · Notre-Dame free entry, free booking recommended from April to October, towers paid · Musée Picasso closed on Mondays, about 16 euros · metro Cité or Saint-Michel for the island.
 
 ### Day 2 — The Louvre
-We devoted the day to the Louvre, with a strategy decided the evening before: two or three wings and ten works, no more. The Winged Victory of Samothrace on the Daru staircase, the Egyptian and Mesopotamian antiquities, the basement with the foundations of the medieval castle.
+We gave the day to the Louvre, with a strategy decided the night before: two or three wings and ten works, no more. The ticket is timed and must be bought online; the first morning slot is the best. You enter through the Pyramid or through the Carrousel du Louvre, the underground entrance from rue de Rivoli, usually less crowded. The museum is divided into three wings (Denon, Sully and Richelieu): having the map with your route already marked on your phone saves an hour of wandering. *The Mona Lisa room is at its fullest in mid-morning: go there first or skip it altogether.*
 
-The afternoon stays free, in the Tuileries gardens or at the Jeu de Paume.
+The Winged Victory of Samothrace on the Daru staircase, the Egyptian and Mesopotamian antiquities, the basement with the foundations of the medieval castle. The foundations of Philippe Auguste's fortress, uncovered during the works of the 1980s, are in the Sully wing and almost always quiet; the Mesopotamian rooms hold the Code of Hammurabi. After four hours your head won't take any more. The afternoon stays free, in the Tuileries gardens or at the Jeu de Paume, the photography center at the far end of the gardens. Alternatively, a few minutes' walk away, the Palais-Royal gardens with the Buren columns.
+
+**In practice:** Louvre closed on Tuesdays, timed ticket about 22 euros for European citizens and about 32 for non-European visitors since 2026, free under 18 · metro Palais Royal-Musée du Louvre · lunch is better outside the museum, in the streets behind the Palais-Royal · Jeu de Paume closed on Mondays.
 
 ### Day 3 — Orsay, Orangerie and the Eiffel Tower
-In the morning we went to the **Musée d'Orsay**, with the Impressionist collection on the top floor. We had lunch nearby, then moved on to the **Orangerie**, with the two oval rooms of the Water Lilies.
+In the morning we went to the **Musée d'Orsay**, with the Impressionist collection on the top floor. The museum is in the old Orsay railway station, opened for the 1900 Exhibition, and the great nave with the clock is half the visit already. On the top floor are Monet, Renoir, Degas, Cézanne and Van Gogh, and behind the face of the great clock you see the Seine with Montmartre in the background. *It pays to go straight up to the fifth floor and come down afterwards: most people do the opposite.* You need two or three hours. We had lunch nearby, then went on to the **Orangerie**, with the two oval rooms of the Water Lilies.
 
-In the afternoon we headed toward the **Eiffel Tower**. You look at it from Trocadéro or the Champ de Mars, and going up is not essential: from the top, the panorama is missing the tower itself.
+From Orsay to the Orangerie you cross the Seine on the footbridge toward the Tuileries, ten minutes. The Water Lilies are eight large panels that Monet donated to the State, installed in two oval rooms lit naturally from above; downstairs is the Walter-Guillaume collection. In the afternoon we headed toward the **Eiffel Tower**. You look at it from the Trocadéro or the Champ de Mars, and going up isn't essential: from the top, the view is missing the tower itself. After sunset, for five minutes on the hour, the tower sparkles with lights: it's best seen from the Trocadéro.
+
+**In practice:** Orsay closed on Mondays, about 16 euros online, open into the evening on Thursdays · Orangerie closed on Tuesdays, about 12.50 euros · so this day belongs between Wednesday and Sunday · from the Orangerie to the Trocadéro about half an hour on foot along the Seine, or by metro.
 
 ### Day 4 — Montmartre at dawn and Versailles
-We saw dawn at **Montmartre**: the Sacré-Cœur at seven in the morning, then the side streets away from Place du Tertre, such as Rue de l'Abreuvoir and the Clos Montmartre.
+We saw the dawn in **Montmartre**: the Sacré-Cœur at seven in the morning, then the side streets away from Place du Tertre, such as Rue de l'Abreuvoir and the Clos Montmartre. At that hour you arrive by metro at Anvers or Abbesses, and from the square below the basilica you climb on foot by the stairways or with the funicular. The basilica opens early and entry is free; from the steps you see all of Paris, still grey. The Clos Montmartre is the district's small vineyard, harvested every October with a festival. *At the foot of the steps there are people offering bracelets «as a gift» and then asking for money: just keep walking.*
 
-In the early afternoon we took the train to **Versailles**: royal apartments and Hall of Mirrors, then the Domaine de Marie-Antoinette with the Hameau de la Reine, which is the least visited part and the most surprising.
+In the early afternoon we took the train to **Versailles**: the royal apartments and the Hall of Mirrors, then the Domaine de Marie-Antoinette with the Hameau de la Reine, which is the least visited part and the most surprising. The RER C reaches Versailles Château Rive Gauche station in about 40 minutes, then it's a ten-minute walk. The afternoon is the right time: the palace is busier in the morning, while the Trianon only opens at noon. The park is huge; between the palace and the Hameau it's half an hour's walk, or you can rent a bike. The Hameau is the mock village with farm and mill that the queen had built for herself.
+
+**In practice:** metro Anvers or Abbesses for Montmartre, Sacré-Cœur free entry · RER C to Versailles Château Rive Gauche, about 40 minutes, not every train goes there · Versailles closed on Mondays, compulsory time slot, Passport ticket around 30 euros with rates that vary by season and nationality · on weekends in the warmer months, with the Grandes Eaux, the gardens are paid too.
 
 ### Day 5 — Neighborhoods and a closing note
-In the morning we went to **Père-Lachaise** with a map in hand: the famous tombs and above all the park, with the Mur des Fédérés.
+In the morning we went to **Père-Lachaise** with the map in hand: the famous graves and above all the park, with the Mur des Fédérés. It pays to enter from the top, from Gambetta metro, and walk down toward the main entrance: the uphill avenues are steep and cobbled. Among the most visited graves are those of Chopin, Oscar Wilde, Édith Piaf, Jim Morrison and the pair Molière-La Fontaine. The Mur des Fédérés, in the eastern corner, is the wall where the last fighters of the Commune were shot in May 1871. *The cemetery opens early in the morning; with low light and few people it is the best time.*
 
-For the afternoon you choose between **Canal Saint-Martin**, **Belleville** or the **Catacombs** (with a timed reservation). We spent the last evening in a neighborhood bistro far from the monuments.
+For the afternoon you choose between **Canal Saint-Martin**, **Belleville** or the **Catacombs** (with timed booking). The canal is walked from République northward, between locks and iron footbridges; Belleville is close by, with the hillside park from which you see the whole city and streets full of street art. The Catacombs reopened in April 2026 after a renewal of the route: you go underground among the bones of millions of Parisians moved there from the old cemeteries. We spent the last evening in a neighborhood bistro far from the monuments.
+
+**In practice:** Père-Lachaise free entry, opens around 8 a.m. on weekdays and a little later at weekends · Catacombs closed on Mondays, about 31 euros with audio guide, online tickets released a few days ahead and best bought as soon as they go on sale · for Orly, metro line 14 runs direct from the center.
 
 ## The three-day version
 - **Day 1:** Sainte-Chapelle, Marais, Louvre in the afternoon (strategy reduced to one wing).

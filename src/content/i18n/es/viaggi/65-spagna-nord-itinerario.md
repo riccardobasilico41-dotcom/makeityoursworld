@@ -26,34 +26,66 @@ El hilo conductor, además de la costa atlántica, es la comida: el pintxo vasco
 ## Itinerario giorno per giorno
 
 ### Día 1 — Llegada a San Sebastián: la Parte Vieja
-Aterrizamos en Bilbao (el aeropuerto mejor conectado con Italia) y nos desplazamos a **San Sebastián** (unas 1 h 20 en autobús o en coche). Por la tarde, el primer paseo por la **Parte Vieja**, el casco histórico con la mayor densidad de bares de pintxos de la ciudad.
+Aterrizamos en Bilbao (el aeropuerto mejor conectado con Italia) y nos trasladamos a **San Sebastián** (unas 1h20 en autobús o en coche). El autobús directo sale frente a llegadas y deja en el centro de San Sebastián; quien alquila el coche desde el principio debe saber que en la ciudad aparcar es caro y conviene dejarlo en un parking los dos primeros días. El centro se recorre a pie, y los barrios están cerca unos de otros.
 
-La noche la dedicamos a la primera **ruta de pintxos**, siguiendo la regla local del txikiteo: un bar, una especialidad, un vaso, y luego se cambia (véase la ficha de experiencia dedicada).
+Por la tarde, la primera vuelta por la **Parte Vieja**, el casco histórico con la mayor densidad de bares de pintxos de la ciudad, encajado entre el puerto, el río Urumea y el **Monte Urgull**. Se pasa por la **Basílica de Santa María**, con su fachada barroca al fondo de una calle estrecha, y por la **Plaza de la Constitución**, cuyos balcones numerados recuerdan la época en que la plaza acogía corridas de toros. Quien aún tiene piernas sube al Urgull por los senderos del parque, hasta la estatua del Sagrado Corazón, con la bahía a sus pies.
+
+La noche la dedicamos a la primera **ronda de pintxos**, siguiendo la regla local del txikiteo: un bar, una especialidad, un vaso, y se cambia (ver la ficha de experiencia dedicada). *Los bares se llenan entre las 20 y las 22, y muchos tienen un pintxo caliente que se pide al momento: conviene preguntar cuál es la especialidad de la casa.*
+
+**En la práctica:** autobús aeropuerto de Bilbao-San Sebastián aproximadamente cada hora, billete a bordo o en línea · Monte Urgull gratuito, subida de 20-30 minutos · para dormir, la Parte Vieja es ruidosa por la noche, Gros más tranquilo.
 
 ### Día 2 — San Sebastián: la Concha y el Monte Igueldo
-La mañana en la **Playa de la Concha**, la playa urbana con forma de concha, entre las más bonitas de Europa. Después subimos al **Monte Igueldo** con el funicular histórico, para ver la bahía, y nos paramos en el **Peine del Viento**, la escultura de Eduardo Chillida engarzada en las rocas al final de la Concha.
+La mañana en la **Playa de la Concha**, la playa urbana en forma de concha, entre las más bonitas de Europa. Conviene recorrerla a pie por el paseo de la barandilla blanca, desde el ayuntamiento hasta **Ondarreta**, cuando la luz aún es baja y la arena está casi vacía. Con la marea baja la playa se ensancha mucho, con la alta se reduce a una franja: los horarios de las mareas están expuestos en la ciudad.
 
-La tarde es libre, o se va a **Getaria** o a **Zarautz**, los pueblos costeros justo fuera de la ciudad conocidos por el pescado a la brasa y el surf. La noche, una segunda ruta de pintxos, en bares distintos de los de la primera.
+Luego subimos al **Monte Igueldo** en el funicular histórico, para la vista sobre la bahía, y nos detuvimos en el **Peine del Viento**, la escultura de Eduardo Chillida encajada en las rocas al final de la Concha. Las tres esculturas de hierro están fijadas a las rocas donde rompen las olas: con mar de fondo, el agua sale por los agujeros del suelo.
+
+La tarde queda libre, o se puede ir a **Getaria** o a **Zarautz**, los pueblos costeros a las afueras conocidos por el pescado a la brasa y el surf. Getaria es el pueblo del txakoli, el vino blanco de aguja de la costa, y de las parrillas en la calle donde se asa el rodaballo entero. Por la noche, una segunda ronda de pintxos, en bares distintos de la primera.
+
+**En la práctica:** funicular de Igueldo billete de pocos euros ida y vuelta, horarios reducidos fuera de temporada · Getaria y Zarautz a una media hora en coche o en autobús · el pescado a la brasa se pide al peso, conviene preguntar el precio antes.
 
 ### Día 3 — De San Sebastián a Bilbao
-En coche hasta **Bilbao** (unas 1 h 20), con una posible parada por la costa. La tarde la pasamos en el **Casco Viejo**, las «Siete Calles» del casco histórico medieval, con la Catedral de Santiago y el Mercado de la Ribera junto al río.
+En coche hasta **Bilbao** (unas 1h20), con una posible parada en la costa. La autopista es la vía más rápida; quien tiene tiempo sigue en cambio la costa vasca hasta **Zumaia**, donde la playa de Itzurun está cerrada por acantilados en capas, el flysch, uno de los lugares más fotografiados de la región. El desvío alarga el viaje un par de horas, pero es la parte más bonita del traslado. Se llega a Bilbao a primera hora de la tarde.
+
+La tarde la pasamos en el **Casco Viejo**, las "Siete Calles" del casco histórico medieval, con la Catedral de Santiago y el Mercado de la Ribera junto a la ría. El mercado es uno de los mercados cubiertos más grandes de Europa, con puestos de pescado en la planta baja y una zona de pintxos donde parar. Después la **Plaza Nueva**, la plaza porticada del siglo XIX llena de bares, el sitio para la noche. *El domingo por la mañana bajo los soportales de la Plaza Nueva se monta el mercadillo de sellos y monedas, y los bares de alrededor se llenan ya a la hora del aperitivo.*
+
+**En la práctica:** San Sebastián-Bilbao unas 1h20 por autopista de peaje, más de 2 horas por la costa · en el Casco Viejo no hace falta el coche, mejor un aparcamiento vigilado · puestos del Mercado de la Ribera cerrados el domingo.
 
 ### Día 4 — Bilbao: el Guggenheim y el Ensanche
-La mañana en el **Museo Guggenheim Bilbao**, el edificio de titanio de Frank Gehry sobre la ría del Nervión (horarios y reserva están en la ficha de experiencia dedicada). La tarde en el **Ensanche**, el Bilbao burgués del siglo XIX, y un paseo a lo largo del Nervión.
+La mañana en el **Museo Guggenheim Bilbao**, el edificio de titanio de Frank Gehry junto a la ría del Nervión (horarios y reservas en la ficha de experiencia dedicada). Antes de entrar conviene rodear el exterior: **Puppy**, el perro de flores de Jeff Koons delante de la entrada, y **Mamá**, la araña de Louise Bourgeois en el lado de la ría. Dentro, la gran sala de la planta baja alberga las esculturas de acero de Richard Serra; el resto de las exposiciones cambia varias veces al año. Dos o tres horas son suficientes.
 
-Por la tarde también se puede desviar hasta el **Puente de Vizcaya** en Portugalete, el puente transbordador más antiguo del mundo, Patrimonio de la Humanidad de la UNESCO.
+La tarde en el **Ensanche**, el Bilbao burgués del siglo XIX, y un paseo junto al Nervión. El centro es la **Gran Vía** con la Plaza Moyúa; no muy lejos está **Azkuna Zentroa**, el antiguo almacén de vinos convertido en centro cultural, con las columnas del atrio todas distintas.
+
+Por la tarde también se puede desviar hasta el **Puente de Vizcaya** en Portugalete, el puente transbordador más antiguo del mundo, Patrimonio de la UNESCO. Desde 1893 una barquilla colgante lleva coches y personas de una orilla a otra; quien quiera sube a la pasarela superior, sobre la ría.
+
+**En la práctica:** Guggenheim unos 18 euros en verano y 15 el resto del año, cerrado casi todos los lunes · Puente de Vizcaya a unos 20 minutos en metro desde el centro, travesía en barquilla económica, pasarela con entrada aparte · el metro de Bilbao es la forma más sencilla de moverse.
 
 ### Día 5 — De Bilbao a Cantabria: Santander y Santillana del Mar
-En coche hacia **Cantabria** (unas 1 h 30-2 h hasta Santander), con una parada en **Santillana del Mar**, uno de los pueblos medievales mejor conservados de España, cerca de las célebres cuevas de Altamira: los originales, por protección, están cerrados al público, pero se visita la Neocueva, la réplica oficial. La tarde en **Santander**, con el paseo marítimo y la península de la Magdalena.
+En coche hacia **Cantabria** (unas 1h30-2h hasta Santander), con una parada en **Santillana del Mar**, uno de los pueblos medievales mejor conservados de España, cerca de las célebres cuevas de Altamira: las originales están cerradas al público para protegerlas, pero se visita la Neocueva, la réplica oficial. Conviene ir primero a Santillana, por la mañana, cuando las dos calles empedradas del pueblo aún están tranquilas: al fondo está la **Colegiata de Santa Juliana**, románica, con el claustro de capiteles esculpidos.
+
+El museo de Altamira está a un par de kilómetros del pueblo. La Neocueva reproduce el techo de los bisontes pintados con las mismas técnicas del Paleolítico, y el museo explica quiénes eran los hombres que los pintaron. La tarde en **Santander**, con el paseo marítimo y la península de la Magdalena: el palacio que fue residencia de verano de los reyes, el parque que lo rodea y las playas de **El Sardinero**. En el puerto está el **Centro Botín**, el centro de arte de Renzo Piano suspendido sobre el agua. *El museo de Altamira cierra los lunes: si el día 5 cae en lunes, conviene invertir las etapas y ver Santander primero.*
+
+**En la práctica:** museo y Neocueva de Altamira cerrados los lunes, entrada de pocos euros, gratuita para algunos colectivos · Santillana sin coches en el centro, aparcamiento a la entrada del pueblo · en Santander se duerme cerca de El Sardinero o en el centro.
 
 ### Día 6 — Cantabria y Asturias: la Costa Verde
-Seguimos a lo largo de la **Costa Verde** asturiana, entre acantilados, playas y pequeños puertos de pescadores: **Llanes**, con el casco medieval sobre el mar, y **Gijón**, la ciudad más grande de Asturias. Quien quiera añadir un desvío a la montaña puede pararse en los **Picos de Europa**.
+Seguimos por la **Costa Verde** asturiana, entre acantilados, playas y pequeños puertos pesqueros. Se sale pronto de Santander y se sigue la autovía del Cantábrico, con salidas hacia el mar cuando se quiera: **Comillas**, con el Capricho de Gaudí, y **San Vicente de la Barquera** son paradas breves en el camino. En Asturias la primera etapa es **Llanes**, con su centro medieval junto al mar.
+
+En Llanes se pasea por el **Paseo de San Pedro**, el sendero de hierba sobre el acantilado, y se baja al puerto para ver los **Cubos de la Memoria**, los bloques del rompeolas pintados por Agustín Ibarrola. Luego se sigue hacia **Gijón**, la ciudad más grande de Asturias: el barrio de pescadores de **Cimadevilla** en el promontorio, la escultura de Chillida *Elogio del Horizonte* en lo alto y la larga playa de San Lorenzo. La noche es para la sidra escanciada en las sidrerías. Quien quiera añadir un desvío a la montaña puede parar en los **Picos de Europa**. *La carretera a los lagos de Covadonga, en los Picos, se cierra a los coches particulares en los periodos de mayor afluencia y se sube en autobús lanzadera.*
+
+**En la práctica:** Santander-Llanes unas 1h15-1h30, Llanes-Gijón unas 1h15 sin paradas · sidra servida por botella y escanciada por el camarero, se bebe enseguida · en Gijón se duerme en el centro o cerca de San Lorenzo.
 
 ### Día 7 — De Asturias a Galicia: hacia Santiago
-El traslado más largo (unas 4-5 horas), a través de la Galicia interior, hasta **Santiago de Compostela**. Quien quiera caminar un tramo del Camino del Norte puede detenerse en una de las últimas etapas costeras, seguir a pie un día y luego retomar el coche hacia la meta final.
+El traslado más largo (unas 4-5 horas), por la Galicia interior, hasta **Santiago de Compostela**. Conviene salir temprano y partir el viaje: en la costa occidental asturiana, **Cudillero**, con sus casas de colores escalonadas sobre el puerto, es una parada de una hora; poco después de la frontera gallega está la **Playa de las Catedrales**, con los arcos de roca que solo se ven con la marea baja.
+
+Quien quiera caminar un tramo del Camino del Norte puede detenerse en una de las últimas etapas costeras, seguir a pie durante un día y luego retomar el coche hacia la meta final. *Un solo día no basta para la Compostela, que exige los últimos 100 km a pie: es una muestra, y hay que tomarla como tal.* Se llega a Santiago por la noche, y lo primero es una vuelta por el casco histórico iluminado, hasta la plaza delante de la Catedral.
+
+**En la práctica:** Playa de las Catedrales visitable solo con marea baja, y en verano y en temporada alta con reserva gratuita en línea · consultar la tabla de mareas el día antes · en Santiago el coche hay que dejarlo fuera del casco histórico peatonal.
 
 ### Día 8 — Santiago de Compostela y final del Camino
-La última jornada en **Santiago de Compostela**: la **Catedral**, con el Pórtico de la Gloria románico y, en ciertas ocasiones, el botafumeiro que oscila a lo largo de la nave durante la misa del peregrino; la **Praza do Obradoiro**, punto de llegada simbólico de todos los Caminos; el casco histórico Patrimonio de la Humanidad de la UNESCO. El viaje se cierra con el vuelo de regreso desde el aeropuerto de Santiago-Rosalía de Castro.
+El último día en **Santiago de Compostela**: la **Catedral**, con el Pórtico de la Gloria románico y, en ciertas ocasiones, el botafumeiro oscilando a lo largo de la nave durante la misa del peregrino; la **Praza do Obradoiro**, punto de llegada simbólico de todos los Caminos; el casco histórico Patrimonio de la UNESCO. Se empieza temprano por el Obradoiro, cuando la plaza aún está vacía y llegan los primeros peregrinos con la mochila. La nave se visita gratis; el **Pórtico de la Gloria** se ve con entrada aparte, a hora fija, y lo mismo vale para la visita guiada a las cubiertas.
+
+Después el **Mercado de Abastos**, donde algunos puestos cocinan el pescado recién comprado, y el parque de la **Alameda**, con la mejor vista de la Catedral. *El botafumeiro no vuela en todas las misas, y en ciertos periodos está parado o las misas se trasladan por obras: hay que consultar el calendario en la web de la Catedral.* El viaje termina con el vuelo de regreso desde el aeropuerto de Santiago-Rosalía de Castro.
+
+**En la práctica:** Pórtico de la Gloria y cubiertas con entrada y franja horaria, a reservar en línea · para el pulpo á feira, los bares del centro · el aeropuerto está a unos quince kilómetros, con autobús de línea desde el centro.
 
 ## Qué ver / qué hacer
 - **El txikiteo en la Parte Vieja** de San Sebastián, la cultura del pintxo en su forma más concentrada.

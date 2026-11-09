@@ -36,6 +36,7 @@ import { MappaRottaDifferita } from '@/components/signature/rotta-client'
 import Link from '@/components/ui/Link'
 import { datiRotta } from '@/lib/mappa-rotta'
 import { Container } from '@/components/ui/Container'
+import { colorePaese, testaTitolo } from '@/lib/colori-etichette'
 import { getAllViaggi, getViaggioBySlug, type Viaggio } from '@/lib/viaggi'
 import { getPaese, getTripMeta } from '@/lib/geo'
 import type { ViaggioInBreve, TripMeta } from '@/lib/types'
@@ -391,7 +392,17 @@ function SignatureViaggioContent({
       <PageHeader
         crumbs={briciole.map((b, i) => (i === briciole.length - 1 ? { label: b.nome } : { label: b.nome, href: b.percorso }))}
         eyebrow={etichetta(getContinente(viaggio.categorie), lingua)}
-        title={editorial.editorialHeadline ?? viaggio.titolo}
+        title={(() => {
+          const titolo = editorial.editorialHeadline ?? viaggio.titolo
+          const parti = testaTitolo(titolo)
+          if (!parti) return titolo
+          return (
+            <>
+              <span style={{ color: colorePaese(meta.paeseSlug, getContinente(viaggio.categorie)) }}>{parti[0]}</span>
+              {parti[1]}
+            </>
+          )
+        })()}
         lead={
           <>
             {editorial.editorialHook && <p>{editorial.editorialHook}</p>}

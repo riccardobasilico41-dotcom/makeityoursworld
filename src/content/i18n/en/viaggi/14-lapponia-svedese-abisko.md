@@ -17,34 +17,58 @@ I wanted the most different New Year possible from the ones I'd had up to then: 
 - **Estimated budget:** about €1,500 per person for a basic budget, €1,800 for a more comfortable level, with flights, accommodation, local transport, excursions and meals included. These are the figures from the agency quote, not yet compared with actual spending on site.
 - **How I got around:** Milan-Stockholm flight, domestic flight Stockholm-Kiruna, scenic train Kiruna-Abisko and back, same domestic and international flights on the way home.
 - **Weather:** extreme cold, well below zero for the whole stay. With this cold some disruption should be expected: there is a tip about trains below.
-- **Logistics base:** two nights in Stockholm (outbound and return, transit only), two nights in Kiruna on the way out, two nights in Abisko, one last night in Kiruna before heading home.
+- **Logistics base:** two nights in Stockholm (outbound and return, transit only), one night in Kiruna on the way out, two nights in Abisko, one night in Kiruna before heading home.
 
 ## Itinerario giorno per giorno
 
 ### Day 1 — Milan → Stockholm
 I took the evening flight from Milan and landed in Stockholm late at night. I slept at the **Radisson Blu Royal Viking**, convenient for a single transit night before the flight to Kiruna the next day.
 
+The Royal Viking is next to Stockholm Central Station, so from Arlanda airport the simplest option is the Arlanda Express, the fast train that reaches the centre in about twenty minutes; alternatively there are regional trains and Flygbussarna buses, slower but cheaper. The next day you go back to the airport on the same train: for domestic flights to the north, be at Arlanda an hour and a half before. *At the end of December flights to Kiruna are few and full: if the flight from Milan lands late, the night in Stockholm avoids missing the connection.*
+
+**In practice:** Arlanda Express Arlanda-Stockholm Central about 20 minutes, ticket online or with a contactless card at the gates · in Sweden you pay by card almost everywhere, cash is rarely needed · snow clothing already in your hand luggage, you need it as soon as you land in Kiruna.
+
 ### Day 2 — Stockholm → Kiruna (New Year)
 In the morning I flew to Kiruna. In the afternoon I took my first walk around the city: the famous **red wooden church** and the center, which in the coming years will be dismantled and rebuilt little by little a few kilometers away because of the expansion of the LKAB iron mine. It is one of the most curious things about Kiruna: a city that moves piece by piece. I spent New Year in town, with the cold making itself felt right away. I slept at the **STF Malmfältens Folkhögskola**.
 
-### Day 3 — Kiruna → Abisko
-I traveled on the scenic Kiruna-Abisko train: a good hour through a landscape that gets gradually barer and more Arctic. In Abisko I settled into the **STF Abisko Turiststation**, the historic mountain station inside the national park, where the **Aurora Sky Station** chairlift starts.
+Visitors today will find the church somewhere else: in August 2025 it was moved in one piece, on trailers, about five kilometres east, between the cemetery and the new centre. The relocation of the rest of the town will go on for years, and a walk between the old and new centres shows well how it works. From the airport to the centre there is a bus timed to flight arrivals, about twenty minutes, or a taxi. *Around New Year the sun does not rise in Kiruna: for a few weeks there are only a few hours of blue light in the middle of the day, and the walk around town has to fit into that window.*
 
-I devoted the first evening to exactly that. With about 15-20 minutes of chairlift (open until 1:00 a.m. in winter) you climb Mount Nuolja (900 m), up to a station with a restaurant, a bar and an observation tower. It is probably the best place in the world to see the aurora, thanks to the dry microclimate of the area: the famous "blue hole" above Abisko, where the surrounding mountains deflect clouds more often than in the rest of the region. The chairlift alone costs 350-450 SEK (roughly €35-40) per person. There is also a package with an overnight stay up high, dinner, breakfast, thermal suit and sauna for about 2,990 SEK (€270-310), available only on Fridays by reservation.
+**In practice:** airport-centre bus with departures timed to flights, about 20 minutes, timetable and operator to double-check · Kiruna church free to enter, opening times vary · at New Year restaurants have reduced hours or close, book dinner.
+
+### Day 3 — Kiruna → Abisko
+I traveled on the scenic Kiruna-Abisko train: a good hour through a landscape that gets gradually barer and more Arctic. In Abisko I settled into the **STF Abisko Turiststation**, the historic mountain station inside the national park, where the **Aurora Sky Station** chairlift starts. The train is the one on the line to Narvik, run by SJ: Abisko has two stops, Abisko Östra for the village and Abisko Turiststation in front of the lodge, which is the right one. In daylight you can take a short walk to the canyon of the Abiskojåkka river, a few minutes from the station, with frozen Lake Torneträsk in the background.
+
+I devoted the first evening to exactly that. With about 15-20 minutes of chairlift (open until 1:00 a.m. in winter) you climb Mount Nuolja (900 m), up to a station with a restaurant, a bar and an observation tower. It is probably the best place in the world to see the aurora, thanks to the dry microclimate of the area: the famous "blue hole" above Abisko, where the surrounding mountains deflect clouds more often than in the rest of the region. The chairlift alone costs 350-450 SEK (roughly €35-40) per person. There is also a package with an overnight stay up high, dinner, breakfast, thermal suit and sauna for about 2,990 SEK (€270-310), available only on Fridays by reservation. *Today the evening ascent is sold as the Night Visit, with a guide and warm clothing included, from 8:30 p.m. to 1:00 a.m. and with few places: it must be booked, and if wind stops the chairlift the ticket is not refunded.*
+
+**In practice:** Kiruna-Abisko train with SJ, about an hour and a quarter, tickets on sj.se · Aurora Sky Station Night Visit 2026-27 from late October to late March, price on the STF website · up top the wind makes the cold harsher: layers, balaclava, double gloves.
 
 ### Day 4 — Abisko: snowmobile and huskies under the aurora
-A full day, with the two most adrenaline-filled activities of the trip. Between morning and afternoon there is the **snowmobile on the frozen lake** of the national park. In the guided version you sit in a sled pulled by a snowmobile driven by a guide (about 2 hours, €100-110 per person); in self-drive you drive your own vehicle behind the guide at the head of the group (half a day, €150-250).
+A full day, with the two most adrenaline-filled activities of the trip. Between morning and afternoon there is the **snowmobile on the frozen lake** of the national park. In the guided version you sit in a sled pulled by a snowmobile driven by a guide (about 2 hours, €100-110 per person); in self-drive you drive your own vehicle behind the guide at the head of the group (half a day, €150-250). Self-drive requires a driving licence. Operators provide overalls, boots, gloves and helmet: wear thermal layers underneath, because on the open lake the wind is strong and the chill multiplies with speed.
 
-In the evening I did **husky sledding with aurora hunting**, with pickup directly at the STF Abisko Turiststation (it is best to arrive 45 minutes before departure). It is an hour or two of actual driving, in absolute silence and with the dogs' breath, with the sky that, weather permitting, lights up overhead. This evening version costs €240 per person. I slept again at the STF Abisko Turiststation.
+In the evening I did **husky sledding with aurora hunting**, with pickup directly at the STF Abisko Turiststation (it is best to arrive 45 minutes before departure). It is an hour or two of actual driving, in absolute silence and with the dogs' breath, with the sky that, weather permitting, lights up overhead. This evening version costs €240 per person. I slept again at the STF Abisko Turiststation. *The aurora is not guaranteed: check the forecasts and the sky, and if you have several evenings, put the most expensive outings on the night with the best weather.*
+
+**In practice:** snowmobile and huskies to book before you leave, at New Year places run out · licence needed for self-drive · keep phone and camera batteries warm in a pocket, in the cold they drain in minutes.
 
 ### Day 5 — Abisko → Kiruna
 During the day I took the return train to Kiruna. I slept at the **Elite Hotel Frost - Hotel & Spa**, a clear change of pace from the more basic nights at the mountain station: sauna and relaxation after two intense days in the cold.
 
+Trains between Abisko and Kiruna are few each day, so check the timetable the evening before and, if there is time, use the morning for a last walk in the park in the Arctic midday light. *In extreme cold a train may be cancelled: in that case there is the local bus, on a different timetable, or a taxi, which costs more on those days.* In Kiruna, if you still have energy, the afternoon is free for the new centre or to plan the LKAB mine tour for another time.
+
+**In practice:** Abisko-Kiruna train about an hour and a quarter, local bus as an alternative · LKAB mine tour only on some days of the week and with online booking · ICEHOTEL in Jukkasjärvi about twenty minutes from Kiruna for those with half a day free.
+
 ### Day 6 — Kiruna → Stockholm
 The afternoon flight (4:40 p.m.) took me back to Stockholm. A free last evening in the city before heading home, again at the **Radisson Blu Royal Viking**.
 
+With the flight in the afternoon, the morning in Kiruna is free: a walk in the new centre or a stop at the ICEHOTEL in Jukkasjärvi, with a day ticket for non-guests. From the hotel to the airport take the flight bus or a taxi, allowing a margin for snow. In Stockholm the evening can be spent in **Gamla Stan**, the old town, about twenty minutes' walk from Central Station. *In early January it gets dark early in Stockholm, in the early afternoon: the walk happens under the evening lights.*
+
+**In practice:** ICEHOTEL day ticket about 349 SEK · from Arlanda airport to the centre again with the Arlanda Express · in Stockholm, subway and buses with a contactless card.
+
 ### Day 7 — Return
 Afternoon flight (5:35 p.m.) from Stockholm to Milan, landing in the evening.
+
+The free morning is for a museum or a last walk: the Vasa, the museum of the seventeenth-century warship recovered from the harbour, is on the island of Djurgården, reachable by tram or on foot from the centre. The visit takes about an hour and a half; if you prefer to stay near the station, the city hall, Stadshuset, on the shore of Lake Mälaren, is a few minutes away. For the flight, go back to Arlanda by train, at least two hours ahead. *If you bought heavy cold-weather gear, leave room in your suitcase, or wear it on the flight.*
+
+**In practice:** Arlanda Express about 20 minutes from Central Station · Vasamuseet paid, shorter hours in winter · arrive at Arlanda about two hours before international flights.
 
 ## What to see / what to do
 - **Aurora Sky Station:** chairlift up Mount Nuolja (15-20 min, open until 1:00 a.m.) and dinner up high, at the spot with the best chances of aurora in the whole region. Chairlift only €35-40, package with overnight stay and dinner about €270-310 (Fridays only).

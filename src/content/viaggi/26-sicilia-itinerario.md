@@ -24,66 +24,94 @@ La Sicilia viene sottodimensionata sistematicamente in fase di pianificazione: s
 ## Itinerario giorno per giorno
 
 ### Giorno 1 — Arrivo a Catania
-Volo su Catania e ritiro dell'auto. Ci siamo sistemati in città o sul versante dell'Etna.
+Volo su Catania e ritiro dell'auto. Ci siamo sistemati in città o sul versante dell'Etna. L'aeroporto di Fontanarossa è a pochi chilometri dal centro, e chi dorme in città può anche lasciare l'auto per il giorno dopo e prendere il bus navetta. In centro le zone a traffico limitato e i parcheggi scarsi rendono l'auto più un peso che un aiuto: conviene un alloggio con posto auto o un garage.
+
+Il pomeriggio è per un primo giro a piedi: **Piazza del Duomo** con la fontana dell'elefante in pietra lavica, il Liotru, simbolo della città, e la **Via Etnea**, che sale dritta verso il vulcano. Chi ha un'ora in più può entrare nel **Monastero dei Benedettini**, uno dei complessi conventuali più grandi d'Europa, oggi sede dell'università.
 
 La prima sera siamo passati dal **mercato della Pescheria**, se l'orario lo permette, e abbiamo cenato con la **pasta alla Norma** (melanzane fritte, pomodoro, ricotta salata): è il piatto della città e prende il nome dall'opera di Bellini, che qui è nato.
 
 Catania divide: è viva e caotica, costruita in pietra lavica nera, e meno bella di Palermo. Va presa per quello che è, una base ottima, non una meta.
 
+**In pratica:** Pescheria aperta la mattina fino all'ora di pranzo, chiusa la domenica · Monastero dei Benedettini visitabile con visita guidata a pagamento · per dormire, gli agriturismi sulle pendici dell'Etna costano meno della città e sono più vicini al vulcano.
+
 ### Giorno 2 — L'Etna
-È la giornata per cui si viene a est. **Il bollettino INGV va controllato la sera prima.**
+È la giornata per cui si viene a est. **Il bollettino INGV va controllato la sera prima.** Si parte presto da Catania verso il **Rifugio Sapienza**, sul versante sud, a circa 1.900 metri: in auto si sale in circa un'ora. La mattina è il momento migliore, perché le nuvole tendono a salire nelle ore centrali e coprono la vista.
 
 Siamo saliti con funivia e fuoristrada fino alla zona sommitale, con la guida obbligatoria sopra una certa quota. Si cammina su lapilli neri che scricchiolano e cedono sotto i piedi, con le fumarole che escono dalle fessure e il terreno caldo al tatto dove le colate sono recenti.
 
 **Strati veri:** si parte da Catania con venticinque gradi, e a tremila metri ce ne possono essere cinque, con vento forte.
 
-Nel pomeriggio, i **crateri Silvestri** a quota bassa (gratuiti, raggiungibili in auto) o una **cantina dell'Etna** su appuntamento: qui le viti sono spesso **a piede franco**, perché su questo suolo lavico la fillossera non è mai arrivata, e ci sono ceppi di oltre cento anni.
+Nel pomeriggio, i **crateri Silvestri** a quota bassa (gratuiti, raggiungibili in auto) o una **cantina dell'Etna** su appuntamento: qui le viti sono spesso **a piede franco**, perché su questo suolo lavico la fillossera non è mai arrivata, e ci sono ceppi di oltre cento anni. Le cantine sono soprattutto sul versante nord, intorno a Castiglione di Sicilia e Randazzo. *Quando l'attività del vulcano aumenta, la zona sommitale viene chiusa anche con poche ore di preavviso: il piano B dei crateri Silvestri e delle cantine serve davvero.*
+
+**In pratica:** pacchetto funivia, fuoristrada e guida da circa 80-95 euro a persona, escursioni più alte a prezzo maggiore · scarponi, giacca a vento e cappello anche d'estate · Rifugio Sapienza-cantine del versante nord circa un'ora di strada.
 
 ### Giorno 3 — Taormina e le Gole dell'Alcantara
-Siamo stati a **Taormina** al mattino presto, prima dei pullman: il teatro greco-romano affacciato sull'Etna e sul mare è una delle scenografie più spettacolari del Mediterraneo. In alta stagione il paese è saturo e ha prezzi da altra regione.
+Siamo stati a **Taormina** al mattino presto, prima dei pullman: il teatro greco-romano affacciato sull'Etna e sul mare è una delle scenografie più spettacolari del Mediterraneo. In alta stagione il paese è saturo e ha prezzi da altra regione. Da Catania si arriva in circa un'ora; l'auto si lascia nei parcheggi multipiano ai margini del centro, da cui si sale con navetta o a piedi. Dopo il teatro si percorre il **Corso Umberto** fino a Piazza IX Aprile, la terrazza sul mare.
 
-Nel pomeriggio siamo andati alle **Gole dell'Alcantara**, il canyon di basalto colonnare scavato dal fiume in una colata lavica: si scende e si cammina nell'acqua, gelida anche ad agosto.
+Nel pomeriggio siamo andati alle **Gole dell'Alcantara**, il canyon di basalto colonnare scavato dal fiume in una colata lavica: si scende e si cammina nell'acqua, gelida anche ad agosto. Le gole sono a circa mezz'ora da Taormina. Ci sono più accessi, a pagamento e con servizi diversi, e in alcuni si noleggiano stivali impermeabili. *Il livello dell'acqua cambia con la stagione e con le piogge: in primavera la corrente può essere forte, e conviene informarsi all'ingresso prima di scendere nel fiume.* Chi preferisce il mare scende invece a **Isola Bella**, l'isolotto sotto Taormina collegato alla riva da una lingua di sabbia.
+
+**In pratica:** Teatro Antico di Taormina circa 14 euro, aperto tutto il giorno, in estate con spettacoli serali · Gole dell'Alcantara con ingressi a pagamento, scarpe da acqua o stivali · per mangiare, a Taormina i prezzi si abbassano allontanandosi dal Corso.
 
 ### Giorno 4 — Siracusa e Ortigia
-Ci siamo trasferiti a **Siracusa** e sistemati a **Ortigia**, l'isola che è il centro storico.
+Ci siamo trasferiti a **Siracusa** e sistemati a **Ortigia**, l'isola che è il centro storico. Da Taormina o Catania si arriva in autostrada in un'ora o poco più. Ortigia è quasi tutta a traffico limitato: l'auto si lascia nel parcheggio multipiano all'ingresso dell'isola, e da lì si va a piedi.
 
-Abbiamo visto il **Parco archeologico della Neapolis**, con il teatro greco e l'Orecchio di Dionisio, e poi Ortigia a piedi: il **Duomo costruito dentro un tempio dorico**, con le colonne del quinto secolo a.C. ancora inglobate nei muri. Si entra in una chiesa barocca e si toccano colonne greche.
+Abbiamo visto il **Parco archeologico della Neapolis**, con il teatro greco e l'Orecchio di Dionisio, e poi Ortigia a piedi: il **Duomo costruito dentro un tempio dorico**, con le colonne del quinto secolo a.C. ancora inglobate nei muri. Si entra in una chiesa barocca e si toccano colonne greche. La Neapolis va vista al mattino, perché il parco è all'aperto e l'ombra è poca. Da maggio a luglio il teatro greco ospita le rappresentazioni classiche dell'INDA, e alcune zone possono essere chiuse per l'allestimento. A Ortigia, oltre al Duomo, si passa dalla **Fonte Aretusa**, la sorgente d'acqua dolce con i papiri, a pochi metri dal mare.
 
-La sera, il mercato di Ortigia e la cena con i **ricci**, che qui sono la specialità.
+La sera, il mercato di Ortigia e la cena con i **ricci**, che qui sono la specialità. *I banchi del mercato lavorano soprattutto la mattina: chi vuole vederli al completo ci torna il giorno dopo, prima di partire.*
+
+**In pratica:** Neapolis con biglietto intero o cumulativo con il Museo Paolo Orsi, prezzi da controllare sul sito del parco · Duomo con biglietto di pochi euro · parcheggio Talete all'ingresso di Ortigia.
 
 ### Giorno 5 — Noto, Modica, Scicli
 È la giornata del **barocco della Val di Noto**, patrimonio UNESCO: otto città ricostruite dopo il terremoto del 1693, tutte nello stesso stile e nello stesso momento.
 
 **Noto** con la scalinata della cattedrale e la pietra che al tramonto diventa dorata, **Modica** con il cioccolato lavorato a freddo secondo una tecnica arrivata dagli spagnoli e prima ancora dagli aztechi, **Scicli** con le facciate e le piazze.
 
+L'ordine conta per la luce: si comincia da Scicli e Modica al mattino e si chiude a Noto nel tardo pomeriggio, quando la pietra prende colore. A Noto il **Corso Vittorio Emanuele** è la spina della città, con la cattedrale di San Nicolò e i balconi di **Palazzo Nicolaci**, sostenuti da mensole a forma di cavalli e figure grottesche. A Modica la scalinata del **Duomo di San Giorgio** domina la città bassa; il cioccolato si assaggia nelle dolcerie del corso. A Scicli la **Via Francesco Mormino Penna** raccoglie in poche centinaia di metri chiese e palazzi barocchi.
+
 È una giornata da fare in auto e senza fretta: le città sono a venti chilometri l'una dall'altra.
 
-### Giorno 6 — Ragusa Ibla e Vendicari
-La mattina siamo stati a **Ragusa Ibla**, la città bassa, il pezzo più bello del barocco siciliano: si scende dalla città alta lungo le scalinate e si arriva a un abitato incastrato su uno sperone.
+**In pratica:** Siracusa-Noto circa 40 minuti, Noto-Modica circa 45, Modica-Scicli circa 15 · nei centri storici si parcheggia ai margini, a pagamento · a maggio Noto ospita l'Infiorata, con le strade coperte di petali e molta folla.
 
-Il pomeriggio alla **riserva di Vendicari**, con le saline, la tonnara abbandonata e le spiagge: è una delle zone meglio conservate della costa. In primavera e in autunno ci sono i fenicotteri.
+### Giorno 6 — Ragusa Ibla e Vendicari
+La mattina siamo stati a **Ragusa Ibla**, la città bassa, il pezzo più bello del barocco siciliano: si scende dalla città alta lungo le scalinate e si arriva a un abitato incastrato su uno sperone. La discesa parte dalla chiesa di **Santa Maria delle Scale**, con la vista su tutta Ibla. In basso, il **Duomo di San Giorgio** si alza in cima a una scalinata nella piazza principale; in fondo al paese c'è il **Giardino Ibleo**, con le palme e il belvedere sulla valle. *La risalita a piedi è lunga e faticosa: chi non vuole rifarla prende il bus urbano o lascia l'auto in basso, a Ibla.*
+
+Il pomeriggio alla **riserva di Vendicari**, con le saline, la tonnara abbandonata e le spiagge: è una delle zone meglio conservate della costa. In primavera e in autunno ci sono i fenicotteri. Da Ragusa si arriva in circa un'ora. La riserva ha più ingressi: da quello principale si raggiungono i capanni per il birdwatching e la tonnara, mentre la spiaggia di **Calamosche**, una delle più belle della zona, si raggiunge da un ingresso a nord con una camminata di un quarto d'ora. Nella riserva non ci sono bar né ombra: acqua e cappello vanno portati da casa.
+
+**In pratica:** parcheggi a pagamento agli ingressi di Vendicari in estate · binocolo utile per i fenicotteri, che stanno nei pantani lontani dai sentieri · per la notte, Val di Noto o rientro su Siracusa.
 
 ### Giorno 7 — Verso l'interno: Piazza Armerina ed Enna
 È la giornata che quasi tutti saltano, e quella che cambia la percezione dell'isola.
 
 A Piazza Armerina c'è la **Villa Romana del Casale**, patrimonio UNESCO: **3.500 metri quadrati di mosaici romani del IV secolo**, i più estesi e meglio conservati al mondo, protetti sotto una copertura e percorsi su passerelle sopraelevate.
 
-Poi siamo saliti a **Enna**, al centro geografico esatto della Sicilia, a 900 metri, con la vista che nelle giornate limpide arriva all'Etna.
+Dalla costa sud-orientale si sale verso l'interno in circa un'ora e mezza-due ore, su statali tra colline coltivate a grano. Conviene arrivare alla Villa in mattinata: sotto la copertura d'estate fa caldo, e i gruppi arrivano verso mezzogiorno. I mosaici più noti sono la **Grande Caccia**, un corridoio di oltre sessanta metri con animali catturati in Africa, e le **ragazze in bikini** della sala delle Dieci Ragazze. Servono un paio d'ore.
+
+Poi siamo saliti a **Enna**, al centro geografico esatto della Sicilia, a 900 metri, con la vista che nelle giornate limpide arriva all'Etna. In cima al paese c'è il **Castello di Lombardia**, e poco oltre la **Rocca di Cerere**, lo sperone dove sorgeva il tempio della dea. *Enna è spesso nella nebbia anche quando in pianura c'è il sole: la vista si vede meglio nel tardo pomeriggio.*
+
+**In pratica:** Villa Romana del Casale circa 14 euro, aperta tutto il giorno, in estate con aperture serali · Piazza Armerina-Enna circa 40 minuti · per dormire, Enna o un agriturismo nell'interno.
 
 ### Giorno 8 — Agrigento
-Ci siamo trasferiti ad **Agrigento** per la **Valle dei Templi**.
+Ci siamo trasferiti ad **Agrigento** per la **Valle dei Templi**. Da Enna sono circa un'ora e mezza di strada. La Valle ha due ingressi principali, uno a est vicino al Tempio di Giunone e uno a ovest; chi è in auto può entrare da un lato e farsi riportare con la navetta interna o con un taxi.
 
 **D'estate si visita in notturna o al primo mattino**: su un'area vastissima non c'è ombra, e a mezzogiorno di luglio è un forno. Il **Tempio della Concordia** è tra i templi dorici meglio conservati al mondo, e lo deve al fatto che nel VI secolo fu trasformato in chiesa: è questo che lo ha salvato.
 
-Da non saltare il **Museo Archeologico** con il telamone e il **Giardino della Kolymbethra**, un giardino di agrumi dentro l'area archeologica, gestito dal FAI, dove non entra quasi nessuno.
+Da non saltare il **Museo Archeologico** con il telamone e il **Giardino della Kolymbethra**, un giardino di agrumi dentro l'area archeologica, gestito dal FAI, dove non entra quasi nessuno. Il museo è fuori dalla Valle, a qualche minuto di strada, e conserva uno dei giganti di pietra alti quasi otto metri che sostenevano il Tempio di Zeus. *Il giardino ha un biglietto a parte, e si entra solo dopo aver pagato la Valle.*
+
+**In pratica:** Valle dei Templi aperta dalla mattina alla sera, con aperture serali d'estate · cumulativo Valle più Kolymbethra intorno ai 23 euro · Museo Archeologico con biglietto proprio · per dormire, una sola notte ad Agrigento basta.
 
 ### Giorno 9 — Scala dei Turchi e rientro verso Catania
-La mattina siamo andati alla **Scala dei Turchi**, la falesia di marna bianca, **con l'avvertenza che l'accesso è stato regolamentato e in certi periodi vietato** per l'erosione: prima di andarci conviene controllare com'è la situazione.
+La mattina siamo andati alla **Scala dei Turchi**, la falesia di marna bianca, **con l'avvertenza che l'accesso è stato regolamentato e in certi periodi vietato** per l'erosione: prima di andarci conviene controllare com'è la situazione. È a una ventina di minuti da Agrigento, nel comune di Realmonte. Negli ultimi anni il percorso sulla scogliera è stato aperto a numero chiuso e a pagamento, con biglietto acquistabile sul posto; quando è chiuso, la falesia si guarda dalla spiaggia sottostante. *La marna è friabile e scivolosa quando è bagnata: la luce del mattino presto è la migliore, e anche il momento con meno gente.*
 
-Poi il rientro verso Catania, con una sosta a **Caltagirone** e alla sua scalinata di 142 gradini in ceramica, se il tempo lo permette.
+Poi il rientro verso Catania, con una sosta a **Caltagirone** e alla sua scalinata di 142 gradini in ceramica, se il tempo lo permette. Da Agrigento a Caltagirone sono circa due ore. Ogni gradino della **Scalinata di Santa Maria del Monte** ha le alzate decorate con maioliche diverse, e lungo la salita ci sono le botteghe dei ceramisti. Da Caltagirone a Catania resta un'ora e un quarto circa.
+
+**In pratica:** Scala dei Turchi con ingresso contingentato e a pagamento quando è aperta, regole da controllare sul sito del Comune di Realmonte · Agrigento-Catania via Caltagirone circa 3 ore e mezza senza soste · per l'ultima notte, Catania o il versante etneo, vicino all'aeroporto.
 
 ### Giorno 10 — Ultima mattina e partenza
-Ultima granita con la brioche, ultimi acquisti (pistacchio di Bronte, cioccolato di Modica, vino dell'Etna) e volo da Catania.
+Ultima granita con la brioche, ultimi acquisti (pistacchio di Bronte, cioccolato di Modica, vino dell'Etna) e volo da Catania. La granita si prende al bar la mattina, alla mandorla, al pistacchio o al gelso secondo la stagione, e la brioche col tuppo si inzuppa dentro. Per gli acquisti, le strade intorno alla Via Etnea e al mercato hanno pistacchio in crema e in granella, e le enoteche spediscono il vino in Italia.
+
+Il ritorno all'aeroporto va organizzato con margine: la restituzione dell'auto nei parcheggi delle agenzie, il controllo del carburante e la navetta fino al terminal richiedono più tempo del previsto. *Nel bagaglio a mano le creme spalmabili e il vino seguono le regole dei liquidi: conviene metterli in stiva.* Chi ha il volo nel pomeriggio può fare un ultimo giro alla Pescheria, che la mattina è al suo meglio.
+
+**In pratica:** restituzione dell'auto almeno due ore prima del volo · granita al bar della mattina, meglio se non è già pronta da ore · pistacchio di Bronte DOP da riconoscere dall'etichetta, diffidare dei prezzi troppo bassi.
 
 ## Cosa vedere / cosa fare
 - **Scegliere una metà.** Fare tutta la Sicilia in dieci giorni significa passare la vacanza in auto.

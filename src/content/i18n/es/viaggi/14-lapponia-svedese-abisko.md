@@ -17,34 +17,58 @@ Quería la Nochevieja más distinta posible de las que había vivido hasta enton
 - **Presupuesto indicativo:** unos 1.500 € por persona para un presupuesto básico, 1.800 € para un nivel más cómodo, con vuelos, alojamientos, transportes internos, excursiones y comidas incluidos.
 - **Cómo me moví:** vuelo Milán-Estocolmo, vuelo interno Estocolmo-Kiruna, tren panorámico Kiruna-Abisko y vuelta, mismo vuelo interno e internacional al regreso.
 - **Clima:** frío extremo, muy por debajo de cero durante toda la estancia. Con este frío hay que contar con algún contratiempo: hay un consejo sobre los trenes más abajo.
-- **Base logística:** dos noches en Estocolmo (ida y vuelta, solo tránsito), dos noches en Kiruna a la ida, dos noches en Abisko, una noche final en Kiruna antes del regreso.
+- **Base logística:** dos noches en Estocolmo (ida y vuelta, solo tránsito), una noche en Kiruna a la ida, dos noches en Abisko, una noche en Kiruna antes del regreso.
 
 ## Itinerario giorno per giorno
 
 ### Día 1 — Milán → Estocolmo
 Cogí el vuelo de la tarde desde Milán y aterricé en Estocolmo a última hora de la noche. Dormí en el **Radisson Blu Royal Viking**, cómodo para una sola noche de tránsito antes del vuelo a Kiruna del día siguiente.
 
+El Royal Viking está junto a la estación central de Estocolmo, así que desde el aeropuerto de Arlanda la solución más sencilla es el Arlanda Express, el tren rápido que llega al centro en unos veinte minutos; como alternativa están los trenes regionales y los autobuses Flygbussarna, más lentos pero más baratos. Al día siguiente se vuelve al aeropuerto con el mismo tren: para los vuelos internos hacia el norte conviene estar en Arlanda una hora y media antes. *A finales de diciembre los vuelos a Kiruna son pocos y van llenos: si el vuelo desde Milán llega tarde, la noche en Estocolmo evita perder la conexión.*
+
+**En la práctica:** Arlanda Express Arlanda-Estocolmo central unos 20 minutos, billete online o con la tarjeta contactless en los tornos · en Suecia se paga con tarjeta casi en todas partes, el efectivo sirve poco · ropa de nieve ya en el equipaje de mano, al llegar a Kiruna hace falta enseguida.
+
 ### Día 2 — Estocolmo → Kiruna (Nochevieja)
 Por la mañana volé a Kiruna. Por la tarde di la primera vuelta por la ciudad: la célebre **iglesia de madera roja** y el centro, que en los próximos años será desmontado y reconstruido poco a poco unos kilómetros más allá por la expansión de la mina de hierro LKAB. Es una de las cosas más curiosas de Kiruna: una ciudad que se desplaza trozo a trozo. Pasé la Nochevieja en la ciudad, con el frío haciéndose notar desde el primer momento. Dormí en el **STF Malmfältens Folkhögskola**.
 
-### Día 3 — Kiruna → Abisko
-Me desplacé con el tren panorámico Kiruna-Abisko: una hora larga en un paisaje que se vuelve poco a poco más desnudo y ártico. En Abisko me instalé en el **STF Abisko Turiststation**, la histórica estación de montaña dentro del parque nacional, de donde sale el telesilla de la **Aurora Sky Station**.
+Quien va hoy encuentra la iglesia en otro sitio: en agosto de 2025 se trasladó entera, sobre plataformas, unos cinco kilómetros hacia el este, entre el cementerio y el nuevo centro. El traslado del resto de la ciudad seguirá durante años, y el paseo entre el centro viejo y el nuevo cuenta bien cómo funciona. Del aeropuerto al centro hay un autobús ligado a las llegadas de los vuelos, en unos veinte minutos, o el taxi. *En torno a Nochevieja en Kiruna el sol no sale: durante unas semanas solo hay unas pocas horas de luz azul a mediodía, y la vuelta por la ciudad hay que hacerla en esa ventana.*
 
-La primera noche la dediqué precisamente a esto. Con unos 15-20 minutos de telesilla (abierto hasta la 1:00 en invierno) se sube al monte Nuolja (900 m), hasta una estación con restaurante, bar y torre de observación. Es probablemente el mejor punto del mundo para ver la aurora, gracias al microclima seco de la zona: el famoso "agujero azul" sobre Abisko, donde las montañas de alrededor desvían las nubes más a menudo que en el resto de la región. Solo el telesilla cuesta 350-450 SEK (35-40 € aprox.) por persona. También hay un paquete con pernoctación en altura, cena, desayuno, mono térmico y sauna por unos 2.990 SEK (270-310 €), disponible solo los viernes con reserva.
+**En la práctica:** autobús aeropuerto-centro con salidas ligadas a los vuelos, unos 20 minutos, horarios y operador que volver a comprobar · iglesia de Kiruna de entrada libre, horarios de apertura variables · en Nochevieja restaurantes con horario reducido o cerrados, cena que reservar.
+
+### Día 3 — Kiruna → Abisko
+Me desplacé con el tren panorámico Kiruna-Abisko: una hora larga en un paisaje que se vuelve poco a poco más desnudo y ártico. En Abisko me instalé en el **STF Abisko Turiststation**, la histórica estación de montaña dentro del parque nacional, de donde sale el telesilla de la **Aurora Sky Station**. El tren es el de la línea hacia Narvik, operado por SJ: en Abisko hay dos paradas, Abisko Östra para el pueblo y Abisko Turiststation delante del alojamiento, que es la buena. Con luz de día se puede dar un paseo corto hasta el cañón del río Abiskojåkka, a pocos minutos de la estación, con el lago Torneträsk helado al fondo.
+
+La primera noche la dediqué precisamente a esto. Con unos 15-20 minutos de telesilla (abierto hasta la 1:00 en invierno) se sube al monte Nuolja (900 m), hasta una estación con restaurante, bar y torre de observación. Es probablemente el mejor punto del mundo para ver la aurora, gracias al microclima seco de la zona: el famoso "agujero azul" sobre Abisko, donde las montañas de alrededor desvían las nubes más a menudo que en el resto de la región. Solo el telesilla cuesta 350-450 SEK (35-40 € aprox.) por persona. También hay un paquete con pernoctación en altura, cena, desayuno, mono térmico y sauna por unos 2.990 SEK (270-310 €), disponible solo los viernes con reserva. *Hoy la subida nocturna se vende como Night Visit, con guía y ropa de abrigo incluidas, de las 20:30 a la 1:00 y con pocas plazas: hay que reservarla, y si el viento para el telesilla el billete no se reembolsa.*
+
+**En la práctica:** tren Kiruna-Abisko con SJ, aproximadamente una hora y cuarto, billetes en sj.se · Night Visit de la Aurora Sky Station 2026-27 de finales de octubre a finales de marzo, precio en la web de STF · arriba el viento hace el frío más duro: capas, pasamontañas, guantes dobles.
 
 ### Día 4 — Abisko: moto de nieve y huskies bajo la aurora
-Jornada completa, con las dos actividades más adrenalínicas del viaje. Entre la mañana y la tarde toca la **moto de nieve sobre el lago helado** del parque nacional. En la versión guiada se va en un trineo remolcado por una moto de nieve conducida por un guía (unas 2 horas, 100-110 € por persona); en el self-drive se conduce el propio vehículo detrás del guía que va en cabeza del grupo (media jornada, 150-250 €).
+Jornada completa, con las dos actividades más adrenalínicas del viaje. Entre la mañana y la tarde toca la **moto de nieve sobre el lago helado** del parque nacional. En la versión guiada se va en un trineo remolcado por una moto de nieve conducida por un guía (unas 2 horas, 100-110 € por persona); en el self-drive se conduce el propio vehículo detrás del guía que va en cabeza del grupo (media jornada, 150-250 €). Para el self-drive hace falta el carné de conducir. Los operadores dan mono, botas, guantes y casco: debajo se ponen capas térmicas, porque en el lago abierto el viento es fuerte y la sensación de frío se multiplica con la velocidad.
 
-Por la noche hice **trineo de huskies con caza de la aurora**, con recogida directamente en el STF Abisko Turiststation (conviene llegar 45 minutos antes de la salida). Son una o dos horas de conducción propiamente dicha, en el silencio absoluto y con el aliento de los perros, con el cielo que, si el tiempo lo permite, se enciende sobre la cabeza. Esta versión nocturna cuesta 240 € por persona. Dormí otra vez en el STF Abisko Turiststation.
+Por la noche hice **trineo de huskies con caza de la aurora**, con recogida directamente en el STF Abisko Turiststation (conviene llegar 45 minutos antes de la salida). Son una o dos horas de conducción propiamente dicha, en el silencio absoluto y con el aliento de los perros, con el cielo que, si el tiempo lo permite, se enciende sobre la cabeza. Esta versión nocturna cuesta 240 € por persona. Dormí otra vez en el STF Abisko Turiststation. *La aurora no está garantizada: se miran las previsiones y el cielo, y quien tiene varias noches pone las salidas más caras en la noche con mejor tiempo.*
+
+**En la práctica:** moto de nieve y huskies que reservar antes de salir, en Nochevieja las plazas se acaban · carné necesario para el self-drive · baterías del móvil y de la cámara al calor en el bolsillo, con el frío se descargan en pocos minutos.
 
 ### Día 5 — Abisko → Kiruna
 Durante el día cogí el tren de regreso a Kiruna. Dormí en el **Elite Hotel Frost - Hotel & Spa**, un cambio de ritmo neto respecto a las noches más básicas de la estación de montaña: sauna y relax tras dos días intensos en el frío.
 
+Los trenes entre Abisko y Kiruna son pocos al día, así que conviene mirar el horario la noche antes y, si hay tiempo, usar la mañana para un último paseo por el parque con la luz del mediodía ártico. *Con el frío extremo puede pasar que se cancele un tren: en ese caso quedan el autobús local, con otros horarios, o el taxi, que esos días cuesta más.* En Kiruna, quien aún tiene energía tiene la tarde para el nuevo centro o para preparar la visita a la mina LKAB para otra vez.
+
+**En la práctica:** tren Abisko-Kiruna aproximadamente una hora y cuarto, autobús local como alternativa · visita a la mina LKAB solo algunos días a la semana y con reserva online · ICEHOTEL de Jukkasjärvi a unos veinte minutos de Kiruna para quien tenga media jornada libre.
+
 ### Día 6 — Kiruna → Estocolmo
 El vuelo de la tarde (16:40) me devolvió a Estocolmo. Última noche libre en la ciudad antes del regreso, de nuevo en el **Radisson Blu Royal Viking**.
 
+Con el vuelo por la tarde, la mañana en Kiruna queda libre: una vuelta por el nuevo centro o una parada en el ICEHOTEL de Jukkasjärvi, con entrada de día para quien no duerme allí. Del hotel al aeropuerto se va con el autobús de los vuelos o en taxi, contando con un margen por la nieve. En Estocolmo la noche se puede pasar en **Gamla Stan**, la ciudad vieja, a unos veinte minutos a pie de la estación central. *A principios de enero en Estocolmo oscurece pronto, a primera hora de la tarde: el paseo se hace con las luces de la noche.*
+
+**En la práctica:** entrada de día al ICEHOTEL unos 349 SEK · del aeropuerto de Arlanda al centro de nuevo con el Arlanda Express · en Estocolmo metro y autobuses con la tarjeta contactless.
+
 ### Día 7 — Regreso
 Vuelo de la tarde (17:35) de Estocolmo a Milán, con aterrizaje por la noche.
+
+La mañana libre se usa para un museo o para el último paseo: el Vasa, el museo del buque de guerra del siglo XVII recuperado del puerto, está en la isla de Djurgården, a la que se llega en tranvía o a pie desde el centro. Se visita en una hora y media aproximadamente; quien prefiera quedarse cerca de la estación tiene a pocos minutos el ayuntamiento, el Stadshuset, a orillas del lago Mälaren. Para el vuelo se vuelve a Arlanda en tren, con al menos dos horas de antelación. *Quien haya comprado ropa pesada para el frío deja sitio en la maleta, o se la pone para el vuelo.*
+
+**En la práctica:** Arlanda Express unos 20 minutos desde la estación central · Vasamuseet de pago, horario reducido en invierno · llegada a Arlanda unas dos horas antes de los vuelos internacionales.
 
 ## Qué ver / qué hacer
 - **Aurora Sky Station:** telesilla al monte Nuolja (15-20 min, abierto hasta la 1:00) y cena en altura, en el punto con mejores probabilidades de aurora de toda la región. Solo telesilla 35-40 €, paquete con pernoctación y cena unos 270-310 € (solo los viernes).
